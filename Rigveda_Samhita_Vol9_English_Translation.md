@@ -5573,4 +5573,92 @@ he cites this Ṛk, and
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–9 complete; Ṛk 10 Saṃhitā, Pada, bhāṣya begun (through the words *prāvardhayatam … ādit anantarameva yuvānaṃ* on printed p. 232, PDF 252). Next: printed p. 233 (PDF 253) — rest of Ṛk 10 bhāṣya. Open: numerals as read `[?]`; Rig-Vedic ref in the *jihmabāram* topic partly illegible `[?]`.
+### Printed p. 233  (PDF 253; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya of Ṛk 10, concluded from p. 232:)*
+
+> … युवानं सन्तं कनीनां कन्यानां पतिं भर्तारमकृणुतम् । अकुरुतम् ॥ [grammatical tail follows: *jujuruṣaḥ* — *jṛṣ* "to grow old", *liṭ*, *kvasu*; *bahulaṃ chandasīty utvam*; doubling; *pañcamyā ekavacane*; *vasoḥ saṃprasāraṇam*; *śāsivasighasīnāṃ ca*, ṣatva; *vavrim* — *vṛñ* "to cover", *ādgamahana…* *kvip*… *ki* suffix; *jahitasya* — *ohāk* "to leave", *niṣṭhā*, *kta*; *chandasy ubhayathā*, *sārvadhātukatvāt*… *śluḥ*; *bahulam chandasīti*; *jahāteś ca*, Pā. 6-4-116 as read [?], *ittvam*; *kanīnām* — *rayer mṛtā bahulam*, *bahulavacanāt*…, *saṃprasāraṇa* …] [small type; read letter by letter, doubtful [?] where marked]
+
+> *… yuvānaṃ santaṃ kanīnāṃ kanyānāṃ patiṃ bhartāramakṛṇutam | akurutam ‖ [grammatical tail follows: *jujuruṣaḥ* — *jṛṣ* "to grow old", *liṭ*, *kvasu*; *bahulaṃ chandasīty utvam*; doubling; *pañcamyā ekavacane*; *vasoḥ saṃprasāraṇam*; *śāsivasighasīnāṃ ca*, ṣatva; *vavrim* — *vṛñ* "to cover", *ādgamahana…* *kvip*… *ki* suffix; *jahitasya* — *ohāk* "to leave", *niṣṭhā*, *kta*; *chandasy ubhayathā*, *sārvadhātukatvāt*… *śluḥ*; *bahulam chandasīti*; *jahāteś ca*, Pā. 6-4-116 as read [?], *ittvam*; *kanīnām* — *rayer mṛtā bahulam*, *bahulavacanāt*…, *saṃprasāraṇa* …] [small type; read letter by letter, doubtful [?] where marked]*
+
+*Sense (mine):* "… *yuvānam santam kanīnām*, [who was] made a young man, you made *pati*, husband (supporter), of the *kanīnām*, maidens. [As to the *kaṇīnām* explanation, the Sanskrit tail is compressed.]" *(The first sentence of this bhāṣya, begun on p. 232, was: "Here this story. The ṛṣi named Cyavana, whose limbs were aged, full of wrinkles and grey hair, deserted by his sons and others, praised the Aśvins; being praised, they removed the old age of that ṛṣi and made him young again. This is what is said: O Nāsatyas, Aśvins, from the aged Cyavana — the ṛṣi called Cyavana — the *vavri*, the dark covering of the body, [that is] the old age, you *pra amuñcatam*, released completely. An illustration: as one wearing a mail-coat covering the whole body, then discards it; and O Dasras — the two beautiful ones named Dasra — you *prātiratam*, increased, the *āyuḥ*, life, of the ṛṣi deserted by sons and others; and immediately you made him, now young,... husband of maidens.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he nāsatyā* — O Nāsatyas; *jujuruṣaḥ* — of the aged; *cyavānāt* — from the ṛṣi named Cyavana; *vavrim* — the old age that covers the whole body — [the thing that was] a black covering; *drāpim iva* — as a coat of mail is taken off; *pra amuñcatam* — you released; *uta* — and; *he dasrā* — O Dasras (of beautiful form); *jahitasya* — [of the ṛṣi] deserted by sons and others; *āyuḥ* — life; *prātiratam* — you increased; *āt it* — immediately (after the attainment of youth); *kanīnām* — of young girls; *patim* — as husband; *akṛṇutam* — you made."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Nāsatyas, Dasras, you took off the old age that covered the body of the aged ṛṣi Cyavana, as one removes a coat of mail; you increased the life of him deserted by sons and others, and after he had regained youth you made him a husband of young girls."
+
+**English Translation (as printed)**
+
+> Nasatyas, you stripped off from the aged Chyavana his entire skin, as if it had been a coat of mail ; you reversed, Dasras, life of the sage who was without kindred, and constituted him the husband of many maidens.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**द्रापिमिव वव्रिं प्रामुञ्चतम्** — *Drāpim iva vavriṃ prāmuñcatam* — "*drāpir iti kavacasyākhyā | yathā kaścit kavacaṃ kṛtsna-śarīra-vyāpakaṃ dhṛtvā paścāt śarīrāt pṛthak karoti tadvat*": "*drāpi* is the name of a coat of mail. Like one who, wearing a coat of mail that covers the whole body, afterwards removes it from the body, the ṛṣi Cyavana took off old age from his body. The ṛṣi named Cyavana was an old man
+
+### Printed p. 234  (PDF 254; header "Maṃ. 1 A. 17 Sū. 116")
+
+— his body was full of white hair and wrinkles and the like; so his sons and others abandoned him. Then the ṛṣi Cyavana praised the Aśvin deities with *stotras*, pleased them, and, having got rid of old age through them, attained youth: this is the Itihāsa told in this Ṛk. Skandasvāmin has told this Itihāsa differently. This story is found in the Śatapatha Brāhmaṇa.
+
+> अत्र शतपथे (श. ब्रा. ४-१-५) अधीतमितिहासमाचक्षते । शर्यातो नाम राजा सङ्क्रीडद्भिः कृतापराधाय कुपिताय जीर्णाय च्यवनाय प्रत्याप्त्यर्थं सुकन्यां नाम कन्यां दुहितरं ददौ । तां तत्रासीनां दृष्ट्वाऽश्विनौ पुनः पुनरूचतुः । किं किं जीर्णेनाकृतरूपं कामयसे । आवाम् सम्भजेति । सा तौ प्रत्युवाच । यस्मै मां पिता आदात्, नाहं तं जीवन्तं हास्यामीति । तद्वैज्जर्णित्वा सुकन्यामुवाच । यदि त्वामेतौ पुनरेवं ब्रूयातां तयोस्त्वमेनं प्रतिब्रूयाः । असर्वा वसुसम्पद्धा सन्तौ पतिं मे निन्दथ इति । तौ यदि त्वां प्रति ब्रूयातां केनासर्वौ वसुसमृद्धौ चेति तत एनौ प्रतिब्रूयाः । पतिं मे पुनर्युवानं कुरुतं । अथ वां वक्ष्यामीति । सा तथोक्ता चैतामश्विनौ प्रत्यूचतुः । एतं ह्रदमवतरतु । अशो यत् कामयते तेन वयसा युक्त उत्तरिष्यतीति । स ऋषिस्तं ह्रदमवतीर्योत्तत्तारेति … तदेतदितिहासेनोच्यते जुजुरुषो नासत्येत्यादिना ।
+> (श. ब्रा. ४-१-५ [as read; the first words and the numerals are in small type, partly doubtful [?]])
+
+> *atra śatapathe (śa. brā. 4-1-5) adhītamitihāsamācakṣate | śaryāto nāma rājā saṅkrīḍadbhiḥ kṛtāparādhāya kupitāya jīrṇāya cyavanāya pratyāptyarthaṃ sukanyāṃ nāma kanyāṃ duhitaraṃ dadau | tāṃ tatrāsīnāṃ dṛṣṭvā 'śvinau punaḥ punarūcatuḥ | kiṃ kiṃ jīrṇenākṛtarūpaṃ kāmayase | āvām sambhajeti | sā tau pratyuvāca | yasmai māṃ pitā ādāt, nāhaṃ taṃ jīvantaṃ hāsyāmīti | tadvaijjarṇitvā sukanyāmuvāca | yadi tvāmetau punarevaṃ brūyātāṃ tayostvamenaṃ pratibrūyāḥ | asarvā vasusampaddhā santau patiṃ me nindatha iti | tau yadi tvāṃ prati brūyātāṃ kenāsarvau vasusamṛddhau ceti tata enau pratibrūyāḥ | patiṃ me punaryuvānaṃ kurutaṃ | atha vāṃ vakṣyāmīti | sā tathoktā caitāmaśvinau pratyūcatuḥ | etaṃ hradamavataratu | aśo yat kāmayate tena vayasā yukta uttariṣyatīti | sa ṛṣistaṃ hradamavatīryottattāreti … tadetaditihāsenocyate jujuruṣo nāsatyetyādinā |*
+> *(śa. brā. 4-1-5 [as read; the first words and the numerals are in small type, partly doubtful [?]])*
+
+— "a king named Śaryāti, because the sons [of his] when playing had committed an offence against the angry, aged Cyavana, to propitiate Cyavana gave him his own daughter, a maiden named Sukanyā. The Aśvin deities, seeing her seated there, asked her again and again: 'What do you want of this old man, who is [past] all form? Take us [as husbands].' She answered: 'To whom my father gave me, I shall not abandon him while he lives.' Cyavana heard it, and told Sukanyā: 'If these two say that to you again, answer them: "You, being without wealth [and] not whole, find fault with my husband."' [And] if they ask you 'how are we not whole, and how wealth-complete?', then answer them: 'Make my husband young again; then I shall tell you.' As she was thus told, she told the Aśvins so. They said: 'Let him enter this pool; he will come out with the age he desires.' The ṛṣi entered the pool and came out [young]. This is stated in the Itihāsa by '*jujuruṣo nāsatyā*' and so on.
+
+"The king named Śaryāti, because his sons were wandering about, [taking them to have given offence], gave his daughter Sukanyā to the old ṛṣi Cyavana, angered, in marriage. While that Sukanyā was in the hermitage of the ṛṣi Cyavana, the Aśvin deities came there and, saying 'Abandon this old husband and marry us', spoke to her many times; she replied: 'My father gave me to this ṛṣi. I shall not abandon him as long as he lives.' The ṛṣi Cyavana heard it and, when they asked her again, instructed her: 'When you are asked in this manner, what is the reason you reproach my husband, when you are rich in wealth? — ask them in return how they are. Then they will answer you how they are rich in wealth. Then say: "Give my husband youth; afterwards I shall answer you."' Sukanyā spoke with the Aśvin deities as the ṛṣi Cyavana had taught. They told her: 'If your husband bathes in this pool, your wish will be fulfilled. Your husband will become youthful.' Hearing what the Aśvin deities said, he bathed in that pool and came up a youth."
+
+### Printed p. 235  (PDF 255; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"This Itihāsa is stated in the Ṛk *jujuruṣo nāsatyā* and so on. How the Aśvin deities made the old ṛṣi Cyavana youthful is also narrated in many places in the Ṛgveda —
+
+> युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वम् ।
+> (ऋ. सं. १-११६-१० [as read; the numerals ambiguous [?]])
+> [as printed:] युवं च्यवानं जरसो ऽमुमुक्तं नि पेदव ऊहथुराशुमश्वम् ॥ (ऋ. सं. २-१३-? [?])
+
+> *yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvam |*
+> *(ṛ. saṃ. 1-116-10 [as read; the numerals ambiguous [?]])*
+> *[as printed:] yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvam ‖ (ṛ. saṃ. 2-13-? [?])*
+>
+> प्र च्यवानाज्जुरतो वव्रिमत्कं न मुञ्चथः ।
+> (ऋ. सं. ५-७४-५ [as read; [?]])
+
+> *pra cyavānājjurato vavrimatkaṃ na muñcathaḥ |*
+> *(ṛ. saṃ. 5-74-5 [as read; [?]])*
+>
+> निष्टौग्र्यं पारयथः समुद्रात्पुनश्च्यवानं चक्रथुर्युवानम् ।
+> (ऋ. सं. १-११८-६ [as read])
+
+> *niṣṭaugryaṃ pārayathaḥ samudrātpunaścyavānaṃ cakrathuryuvānam |*
+> *(ṛ. saṃ. 1-118-6 [as read])*
+>
+> युवं च्यवानं सनयं यथा रथं पुनर्युवानं चरथाय तक्षथुः ।
+> (ऋ. सं. १०-३९-४ [as read])
+
+> *yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ carathāya takṣathuḥ |*
+> *(ṛ. saṃ. 10-39-4 [as read])*
+
+— in these Ṛks and in Ṛ. Saṃ. 5-?-? [?] and 7-?-? [?] and many other Ṛks this matter has been introduced."
+
+**वव्रिम्** — *Vavrim* — "the word *vavri* is stated among the sixteen names of form (*rūpa*), '*nirṇik*', '*varṇa*' and so on (Ni. 3-13 as read [?]). *Vavriḥ rūpanāma* (Ni. 2-?? as read [?]): *vṛṇoti iti sa saṃ* — it covers its own form: that is the sense (of 'something that conceals')."
+
+**दस्रा** — *Dasrā* — "*etatsaṃjñau darśanīyau vāśvinau*": "the persons famed by the name *dasra* — the Aśvin deities, whose form is beautiful —
+
+> युवं वृकेणाश्विना वपन्तेषं दुहन्ता मनुषाय दस्रा ।
+> अभि दस्युं बकुरेणा धमन्तोरु ज्योतिश्चक्रथुरार्याय ॥
+> (ऋ. सं. १-११७-२१ [as read])
+
+> *yuvaṃ vṛkeṇāśvinā vapanteṣaṃ duhantā manuṣāya dasrā |*
+> *abhi dasyuṃ bakureṇā dhamantoru jyotiścakrathurāryāya ‖*
+> *(ṛ. saṃ. 1-117-21 [as read])*
+
+in this Ṛk the word *dasrā* is used in the sense of the Aśvin deities. *Dasrā* = '*śatrūṇāṃ dāsayitārau daṃsayitārau vā karmāṇāṃ kṛṣyādīnāṃ kārayitārau vā varṣādyanugraheṇa* — the destroyers of enemies, the doers of work, ... [the Sanskrit here is small type, partly doubtful [?]]'."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–9 complete; Ṛk 10 through printed p. 235 (PDF 255): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*drāpim iva*; Cyavana/Sukanyā story from the Śatapatha Br.; *vavrim*; *dasrā* — continues p. 236). Next: printed p. 236 (PDF 256). Open: Ṛ./Śat. Br./Ni. numerals as read `[?]`; small-type Sanskrit `[?]`.
