@@ -2353,4 +2353,88 @@ Grammar page begun: *gomatīḥ* (*gāvaḥ āsāṃ santi* — *matup* by *tad 
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–17 complete; Ṛk 18 through printed p. 88 (PDF 108): pratipadārtha, bhāvārtha, English, Special Topics (*dāśuṣe*, *gomatīḥ*, *sarvavīrāḥ*, *udarke*, *aśvadāḥ*), grammar page begun (continues p. 89). Next: printed p. 89 (PDF 109). Open: *udarke* passage in small type `[?]`; Atharvaveda ref `[?]`; *śākapūṇinā paritam* `[?]`.
+### Printed p. 89  (PDF 109; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+*Grammar page of Ṛk 18, concluded (noted briefly):* *sarvavīrāḥ* (*sarve vīrāḥ yāsāṃ tāḥ sarvavīrāḥ* — a *bahuvrīhi*; the first member keeps its accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?]); *vyucchanti* (*uchī* "to dispel", *laṭ* 3rd plural; there is no nighāta since *yāḥ* is connected, by *yadvṛttānnityam*; the accent of the *śa* class-sign remains); *dāśuṣe* (*dāś* "to give"; the *kvasu* suffix by *dāśvān sāhvān mīḍhvāṃś ca*, Pā. 6-1-12 as read [?], made irregular at the end; the dative singular; *saṃprasāraṇa* of *vas* by *vasoḥ saṃprasāraṇam*; *pūrvarūpa*; *ṣatva* by *śāsivasighasīnāṃ ca*; the accent from the suffix); *aśvadāḥ* (*aśvān dadāti iti aśvadāḥ*, *viṭ* by *ato maninkvanibvanipaś ca*, Pā. 3-2-74 as read [?]; the first-member accent by *gatikārakopapadāt kṛt*); *aśnavat* (*aśū* "to pervade"; though *ātmanepada*, the *parasmaipada* by *vyatyayo bahulam*; *leṭ* 3rd singular *tip*; the *i* elided by *itaś ca lopaḥ parasmaipadeṣu*; the augment *aṭ* by *leṭo 'ḍāṭau*; *śnu* by *svādibhyaḥ śnuḥ*; guṇa and *av* in the *vikaraṇa*; nighāta); *somasutvā* (*ṣuñ* "to press"; *kvanip* by *anyebhyo 'pi dṛśyante*; the *ṣu* → *su* by *dhātvādeḥ ṣaḥ saḥ*; the augment *tuk* for the short vowel before a *pit kṛt* by *hrasvasya piti kṛti tuk*, Pā. 6-1-71 as read [?]; accent of the suffix being *pit*; in the compound the first-member accent). ‖ 18 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 19
+
+### Printed p. 90  (PDF 110; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.19)**
+
+> माता देवानामदितेरनीकं यज्ञस्य केतुर्बृहती वि भाहि ।
+> प्रशस्तिकृद्ब्रह्मणे नो व्युच्छा नो जने जनय विश्ववारे ॥ १९ ॥
+
+> *mātā devānāmaditeranīkaṃ yajñasya keturbṛhatī vi bhāhi |*
+> *praśastikṛdbrahmaṇe no vyucchā no jane janaya viśvavāre ‖ 19 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.19)**
+
+> माता । देवानाम् । अदितेः । अनीकम् । यज्ञस्य । केतुः । बृहती । वि । भाहि ।
+> प्रशस्तिऽकृत् । ब्रह्मणे । नः । वि । उच्छ । आ । नः । जने । जनय । विश्ववारे ॥ १९ ॥
+
+> *mātā | devānām | aditeḥ | anīkam | yajñasya | ketuḥ | bṛhatī | vi | bhāhi |*
+> *praśasti 'kṛt | brahmaṇe | naḥ | vi | uccha | ā | naḥ | jane | janaya | viśvavāre ‖ 19 ‖*
+
+*(Reading note after viewing the Pada: the Saṃhitā's* vyucchā no *is the Pada's* vi | uccha | ā | naḥ*; the Saṃhitā's* viśvavāre *is the Pada's* viśva-vāre*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.19)**
+
+> हे उषस्त्वं देवानां माता जननी । उषसि सर्वे देवाः स्तुत्या प्रबोध्यन्ते अतः सा तज्जननवतीत्युच्यते । अत एवादितेर्देवानां मातुरनीकं प्रत्यनीकं प्रतिस्पर्धिनी त्वमित्यर्थः । यद्वा । दीव्यन्तीति देवा रश्मयः । तेषां निर्मात्री अदितेरखण्डनीयाया भूमेरनीकं मुखम् । यथेन्द्रियाश्रयत्वान्मुखं प्रकाशकं तथैवमुषा भूमेः प्रकाशयित्रीत्यर्थः । यज्ञस्य केतुः ज्ञापयित्री [?] बृहती महती सती वि भाहि । प्रकाशयस्व । अपि च प्रशस्तिकृत् सम्यक् स्तुतमिति प्रशंसनं कुर्वती नोऽस्मदीयाय ब्रह्मणे मन्त्ररूपाय स्तोत्राय व्युच्छ । विवासय । तदनन्तरं हे विश्ववारे सर्वैर्वरणीये उषो नोऽस्मान् जने जनपदे आजनय । अभिमुख्येन प्रादुर्भावय । आवस्थापयेत्यर्थः ॥ [a few words doubtful [?]]
+
+> *he uṣastvaṃ devānāṃ mātā jananī | uṣasi sarve devāḥ stutyā prabodhyante ataḥ sā tajjananavatītyucyate | ata evāditerdevānāṃ māturanīkaṃ pratyanīkaṃ pratispardhinī tvamityarthaḥ | yadvā | dīvyantīti devā raśmayaḥ | teṣāṃ nirmātrī aditerakhaṇḍanīyāyā bhūmeranīkaṃ mukham | yathendriyāśrayatvānmukhaṃ prakāśakaṃ tathaivamuṣā bhūmeḥ prakāśayitrītyarthaḥ | yajñasya ketuḥ jñāpayitrī [?] bṛhatī mahatī satī vi bhāhi | prakāśayasva | api ca praśastikṛt samyak stutamiti praśaṃsanaṃ kurvatī no 'smadīyāya brahmaṇe mantrarūpāya stotrāya vyuccha | vivāsaya | tadanantaraṃ he viśvavāre sarvairvaraṇīye uṣo no 'smān jane janapade ājanaya | abhimukhyena prādurbhāvaya | āvasthāpayetyarthaḥ ‖ [a few words doubtful [?]]*
+
+*Sense (mine):* "O Uṣas, thou art the mother (*mātā*, producer) of the gods: at Uṣas-time all the gods are awakened by praise; therefore she is said to have produced them. For that very reason *aditeḥ anīkam* — thou art the counterpart of Aditi, the mother of the gods, her rival, is the sense. Or: *devāḥ* are the rays, 'those that shine'; thou art their maker; *aditeḥ*, of the indivisible earth, *anīkam*, 'face': as the face, because it is the seat of the senses, is what shows, so Uṣas is the shower of the earth. *Yajñasya ketuḥ* — the one who makes the sacrifice known, thou, being great (*bṛhatī*), *vi bhāhi*, shine forth. Moreover, *praśastikṛt* — thou who makest praise, *brahmaṇe naḥ*, for our hymn-prayer (*stotra*) in the form of a mantra, *vyuccha*, dispel the darkness. And afterwards, O *viśvavāre*, desired (*varaṇīya*) by all, Uṣas, *naḥ jane ā janaya* — bring us forth among the people, make us appear to the front, cause us to be established, is the sense."
+
+*(The bhāṣya continues on the next page with the grammatical tail of* bṛhatī*.)*
+
+---
+
+### Printed p. 91  (PDF 111; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+*Grammatical tail of the bhāṣya on Ṛk 19, concluded (characterized, not transcribed):* *bṛhatī* (the feminine in *ṅīp* by *bṛhan-mahator upasaṃkhyānam*; accent on the ending); *praśastikṛt* (*kṛ* with *kvip*, the *ktin* in the abstract sense for *praśasti*; *tuk* augment by the *pit-kṛt* rule; elision of the *tu* in the compound with the locative; the *aniditām* nasal elision); *jananya* [as printed *janaya*] (*jani* "to be born", *ṇic*; *mitāṃ hrasvaḥ*, the root is shortened by the rule *mitāṃ hrasvaḥ*; *vṛddhi*); *viśvavāre* ("*viśvaiḥ vāryate*" — the first member of the compound keeps its accent; *dhātu* … *mitrīye* as the Dhātupāṭha number as printed "Dhā. 1-?-?? [?]").
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*he uṣaḥ tvam* — O Uṣas deity, you) *devānām* — of all the deities (of the rays); *mātā* — the mother (the place of origin); *aditeḥ* — of Aditi (of the indivisible earth); *anīkam* — the counterpart (she who is like the face); *yajñasya* — of the sacrifices; *ketuḥ* — the one who makes known (you who are such); *bṛhatī* — in a large form; *vi bhāhi* — shine well; *praśastikṛt* — as the praiser of *stotras*; *naḥ* — our; *brahmaṇe* — to hear the *stotras*; *vyuccha* — dawn (afterwards); *viśvavāre* — O Uṣas deity desired by all; *naḥ* — us; *jane* — among the people; *ā janaya* — make us foremost (face-bearers)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Uṣas, goddess, you are the mother of all the gods (of all the rays); a counterpart of Aditi (like a face to the earth); the revealer of the sacrifice; being such, shine in a great form. Approve our hymns and dawn for us. You who are desired by all, make us foremost among the people."
+
+**English Translation (as printed)**
+
+> Mother of the gods, rival of Aditi, illuminator of the sacrifice, mighty Ushas, shine forth ; approving of our prayer, dawn upon us ; you are cherished by all ; make us eminent among the people.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**माता देवानाम्** — *Mātā devānām* — "*he uṣaḥ tvaṃ devānāṃ jananī*": "Uṣas is the mother of the deities. As soon as Uṣas has risen, the priests who praise the deities awaken the deities in the sacrifices; therefore the motherhood of the gods is proper to Uṣas.
+
+### Printed p. 92  (PDF 112; header "Maṃ. 1 A. 16 Sū. 113")
+
+> देवशब्देनात्र आदित्या उच्यन्ते । तेषां हि माता उषाः । प्रतिमासं च आदित्यभेदमङ्गीकृत्य बहुवचनम् ॥
+> (स्कं. भा.)
+
+> *devaśabdenātra ādityā ucyante | teṣāṃ hi mātā uṣāḥ | pratimāsaṃ ca ādityabhedamaṅgīkṛtya bahuvacanam ‖*
+> *(skaṃ. bhā.)*
+
+— by the word *deva* the Ādityas are meant, and Uṣas is the mother of them (since Uṣas rises before the rising of the Ādityas), and, accepting for each month a different Āditya, the plural is used in *devānām*, Skandasvāmin explains."
+
+**अदितेरनीकम्** — *Aditer anīkam* — "*devānāṃ mātuḥ anīkaṃ pratyanīkaṃ pratispardhinī*": "she is a rival to the divine mother Aditi, because she is the mother of the deities, or of the Ādityas. Since *upamā*, *utprekṣā* and other ornaments are made to explain a quality or an action property, in this Ṛk, which resembles the style of poetry to a great extent, the motherhood of the gods is attributed to Uṣas, and the *anīka*-hood of Aditi is also stated. Or, because the *devas* are luminous, the word *deva* means 'rays'. Thus, because she creates rays, Uṣas has the motherhood of the gods. In the same way the word *aditi* means 'the indivisible earth'. As a face to this earth, Uṣas exists. Because she illuminates the senses and the rest, the word *anīka* conveys the meaning 'face': thus the Bhāṣyakāra explains that Uṣas illumines the earth." Skandasvāmin:
+
+> अदितिशब्देनात्र अदीनत्वात् समग्रं ज्योतिरुच्यते । अनीकशब्दोऽपि ब्राह्मणानीकमितिवत् समूहवचनम् । अदीनस्य समग्रस्य प्रकाशाख्यस्य ज्योतिषः समूहः । अथवा अनीकशब्दः स्वाङ्गमुखवचनः इहाग्रत्वसामान्यात् उषसि प्रयुज्यते । अदीनस्य समग्रस्य अहर्लक्षणस्य ज्योतिषो मुखभूतेत्यर्थः ॥
+> (स्कं. भा.)
+
+> *aditiśabdenātra adīnatvāt samagraṃ jyotirucyate | anīkaśabdo 'pi brāhmaṇānīkamitivat samūhavacanam | adīnasya samagrasya prakāśākhyasya jyotiṣaḥ samūhaḥ | athavā anīkaśabdaḥ svāṅgamukhavacanaḥ ihāgratvasāmānyāt uṣasi prayujyate | adīnasya samagrasya aharlakṣaṇasya jyotiṣo mukhabhūtetyarthaḥ ‖*
+> *(skaṃ. bhā.)*
+
+"The word *aditi* here, because of 'not being poor' (*adīnatva*), means 'the whole light'. The word *anīka* (like *brāhmaṇānīka*) denotes 'a mass'. Hence *aditer anīkam* — the whole mass (*samūha*) of light, which is called 'luminous mass'; or the word *anīka* means 'face' of the whole, undiminished, body: here, by the likeness of being at the front, it is used of Uṣas. Because the word *uṣas* denotes 'being of the form of light', it is said that she is the face of the light called *ahas*, 'day', which is shining — thus says Skandasvāmin."
+
+**यज्ञस्य केतुः** — *Yajñasya ketuḥ* — "since the word *ketu* denotes knowledge, [Uṣas] gives rise to the knowledge by which one performs the sacrifice."
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–18 complete; Ṛk 19 through printed p. 92 (PDF 112): grammar tail, pratipadārtha, bhāvārtha, English, Special Topics (*mātā devānām*, *aditer anīkam*, *yajñasya ketuḥ*) — Special Topics may continue p. 93. Next: printed p. 93 (PDF 113). Open: Dhātupāṭha ref `[?]`; Skandasvāmin quotations as read.
