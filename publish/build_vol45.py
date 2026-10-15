@@ -119,6 +119,7 @@ def build(vol, mode='full'):
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <title>Ṛgveda-saṃhitā, Volume {vol}</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="style_vol1.css"></head><body>
 {B.front_matter(vol, cfg["title"], [], cover=cfg["cover"], toc_html=chr(10).join(toc))}
+{('<section style="page-break-before:always;page-break-after:always;text-align:center"><img src="assets/title_vol9.jpg" alt="Original title page of the Eighth Adhyaya" style="max-width:100%;max-height:92vh"></section>' if vol == 9 else '')}
 {body_html}
 {B.notes_appendix(notes)}
 </body></html>'''
