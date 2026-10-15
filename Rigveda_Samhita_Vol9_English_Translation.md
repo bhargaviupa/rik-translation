@@ -6482,4 +6482,46 @@ In this Ṛk the word *anarvan* is used in the sense of 'one who is not under an
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–16 complete (through printed p. 269); Ṛk 17 Saṃhitā, Pada and the start of the bhāṣya written (printed p. 270, PDF 290; the bhāṣya continues on p. 271). Next: printed p. 271 (PDF 291). Open: numerals as read `[?]`.
+### Printed p. 271  (PDF 291; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya of Ṛk 17, continued from p. 270:)*
+
+> … धावद्भ्यः पूर्वं प्राप्नोति । एवमेव सर्वेभ्यो देवेभ्यः पूर्वमर्वता शीघ्रगामिनाश्वेन करणभूतेन युवाभ्यां जयन्ती जेयमानाशी सूर्यस्य सवितुर्दुहिता सूर्यारुढवती । विश्वे सर्व इतरे देवा एतदारोहणस्थानं हृद्भिर्हृदयैरन्वमन्यन्त । अन्वजानन् । तदानीं हे नासत्यावश्विनौ श्रिया ऋक्सहस्रलाभरूपया सम्पदा कान्त्या वा युवां सं सचेथे । सङ्गच्छेथे ॥ जयन्ती । जि जये धातुः । वृत्त्यर्थे । पदन्नित्यादिना हृदयशब्दस्य हृद्भावः । सचेथे । षच समवाये । सश्चतेः । स्वरितेत्त्वादात्मनेपदम् ॥ [grammar tail in small type, partly doubtful [?]]
+
+> *… dhāvadbhyaḥ pūrvaṃ prāpnoti | evameva sarvebhyo devebhyaḥ pūrvamarvatā śīghragāmināśvena karaṇabhūtena yuvābhyāṃ jayantī jeyamānāśī sūryasya saviturduhitā sūryāruḍhavatī | viśve sarva itare devā etadārohaṇasthānaṃ hṛdbhirhṛdayairanvamanyanta | anvajānan | tadānīṃ he nāsatyāvaśvinau śriyā ṛksahasralābharūpayā sampadā kāntyā vā yuvāṃ saṃ sacethe | saṅgacchethe ‖ jayantī | ji jaye dhātuḥ | vṛttyarthe | padannityādinā hṛdayaśabdasya hṛdbhāvaḥ | sacethe | ṣaca samavāye | saścateḥ | svaritettvādātmanepadam ‖ [grammar tail in small type, partly doubtful [?]]*
+
+*Sense (mine):* "… [as a runner] reaches [the goal] before all the runners, so, before all the gods, with the swift-going horse as the instrument, *jayantī*, winning by you two, the daughter of the Sun, of Savitṛ, *ātiṣṭhat*, mounted the chariot. *Viśve* — all the other gods *anvamanyanta hṛdbhiḥ*, assented with their hearts, to this mounting. Then, O Nāsatyas, Aśvins, *śriyā* — by splendour, in the form of obtaining a thousand Ṛks, or by beauty — you *saṃ sacethe*, were united."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*he aśvinau* — O Aśvin deities); *kāṣṭheva* — as (one reaches) a place fixed as the limit; *arvatā* — by your swift-going horse; *jayantī* — the one who was won; *sūryasya* — of the Sun; *duhitā* — daughter; *vām* — your; *ratham* — chariot; *ā atiṣṭhat* — mounted; *viśve* — all the others; *devāḥ* — gods; *hṛdbhiḥ* — with the heart; *anvamanyanta* — approved; (*tadānīm* — then); *śriyā* — with splendour (with beauty, with fame); *sam sacethe u* — you two were united."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Nāsatyas, the daughter of the Sun, won by your swift horse, as one wins by reaching the place fixed as the goal in a race, mounted your chariot. The other gods too, all of them, approved. (Therefore) you became possessed of fame."
+
+**English Translation (as printed)**
+
+> The daughter of the sun ascended your car, (like a runner) to a goal : when you won (the race) with your swift horse, all the gods looked on with (anxious heart), and you, Nasatyas, were associated with glory.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**काष्र्मेव** — *Kārṣmeva* — "*kārṣmaśabdaḥ kāṣṭhavācī*": "as one who runs reaches, before all the other runners, a goal fixed as the end-point of the race, a limit; so before all the gods [the Aśvins]. The word *kārṣma* means 'a post (*kaṭṭige*)'. When there is a contest, in order to know who is superior and who is inferior among those taking part, or who is more excellent, a particular tree standing on a fixed spot is chosen. Those who run quickly and touch (reach) that tree are considered to have won. Such a fixed place is here called by the word *kārṣma*. This is current in games. In English they say (*Goal*), the place fixed for conveying victory or defeat. To know the one who excels among the competitors, with many persons present a single goal is fixed; and the one who reaches that first is held to be the best of all. In this way, to know who is the best among themselves, the deities appointed Sūryā as the goal; the Aśvin deities won it; from this it was decided that their excellence — or superiority — over the other deities is established: this is described here. Savitṛ, wishing to give his daughter named Sūryā in marriage to King Soma, when this was settled the deities came to choose her. Then they all assembled and agreed among themselves: 'We shall fight [run]; the Sūryā-devī will be the prize of the winner in the contest'. In the contest that then took place among the other deities and the Aśvin deities, the Aśvins prevailed. The goddess Sūryā mounted the chariot of the Aśvin deities, declared the best of all the other deities. This Itihāsa is told in the Aitareya Brāhmaṇa as '*prajāpatir vai somāya rājñe duhitaraṃ prāyacchat*' (Ai. Br. 4-2 as read [?]) and is narrated here. Moreover this upākhyāna is told in detail in the 'Satyenottabhitā bhūmiḥ' sūkta, the 85th sūkta of the tenth maṇḍala. Besides this, Skandasvāmin [explains]: '*kriyate teditī kārṣmaṃ śubhāśubhalakṣaṇaṃ karma tadyathā karṣāmā…*' [reading doubtful [?]] — 'the action that is done, of the nature of good or bad, [the sense is:] Sūryā, in the manner that a farmer comes and sows, herself came and mounted the chariot of the Aśvin deities' — and he explains *kārṣma* as '*that which is made*'."
+
+### Printed p. 272  (PDF 292; header "Maṃ. 1 A. 17 Sū. 116")
+
+*(The page begins with the end of the special topic: the first lines — "… [the word] *kārṣma* is in that sense of 'a post'" — and carries on as above.)*
+
+**अर्वता** — *Arvatā* — "*śīghram avadhiṃ prāpnuvatā yuṣmadīyena aśvena karaṇabhūtena*": "your horse which is the means for reaching, very swiftly, everything that is to be reached. The word *arvan* is stated among the twenty-six [as read] words for horse (Ni. 1-?? as read [?]); hence 'horse'. In the Nirukta '*arvā — gamanaśīlatvād*' ['*ṛṇotyarvā*'?] is explained as 'one who has the nature of going' (Ni. 2-?? as read [?])."
+
+**श्रिया** — *Śriyā* — "*ṛksahasralābharūpayā sampadā kāntyā vā*": "in the Sūryā-vivāha (Sūryā's marriage) they gave a thousand Ṛks as a fitting gift; therefore [*śriyā* means] endowed with the wealth in the form of obtaining a thousand mantras; or, because of the marriage of Sūryā, the maiden, the Aśvin deities are possessed of beauty — thus the meaning."
+
+### Printed p. 273  (PDF 293; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 18")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 17; grammar page, noted briefly)**
+
+*vām* (*yuṣmad* and *asmad* in the genitive, *ṣaṣṭhīcaturthīdvitīyāsthayor vāṃnāvau*, Pā. 8-1-20 as read [?]; the *vām* substitute, the unaccented one, in the special case); *sūryasya* (*suvati karmaṇi lokaṃ preyati iti sūryaḥ*; *sū* "to impel"; *rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ*, Pā. 3-1-114 as read [?], *kyap* is irregularly formed with the elision; *ruṭ* ... *nipātita*; since the suffix is *pit*, the root accent remains); *atiṣṭhat* (*ṣṭhā* "to cease from motion"; *laṅ* 3rd singular; *pāghrādhmā…*, Pā. 7-3-78 as read [?], *tiṣṭha* substituted; the augment *aṭ*; nighāta after an accented word); *arvatā* (*ṛ* "to go"; *anyebhyo 'pi dṛśyante*, Pā. 3-2-75 as read [?], *vanip*; *arvaṇas tṛṇasāvanañaḥ* [*arvaṇas tasāv anañaḥ*], Pā. 6-4-127 as read [?], *tṛ* is a final substitute; the instrumental singular); *jayantī* (*ji* "to conquer"; *anudāttet*… *vṛttyayo bahulam*, Pā. 3-1-?? as read [?], *śatṛ* in the *laṭ* sense; in the feminine, *ugitaś ca*, Pā. 4-1-6 as read [?], *ṅīp*; *ugidacāṃ sarvanāmasthāne 'dhātoḥ*, Pā. 7-1-70 as read [?], *num*; since *adupadeśa*, the *sārvadhātuka* is unaccented, hence *tāsyanudāttet…*, Pā. 6-1-186 as read [?], the root accent remains); *amanyanta* (*manu* "to know", divādi; *laṅ* 3rd plural; nighāta); *hṛdbhiḥ* (the word *hṛdaya*; when the instrumental plural follows, *padannomāsa…*, Pā. 6-1-63 as read [?], *hṛd* substitute; *ūḍidaṃpadādi…*, Pā. 6-1-171 as read [?], the ending's accent); *śriyā* (when the instrumental singular follows, *aci śnudhātubhruvāṃ yvoriyaṅuvaṅau*, Pā. 6-4-77 as read [?], *iy*; *sāvekācas tṛtīyādiḥ*, Pā. 6-1-168 as read [?], the ending's accent).
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–16 complete; Ṛk 17 through printed p. 273 (PDF 293): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*kārṣmeva*, *arvatā*, *śriyā*), grammar page begun (continues p. 274). Next: printed p. 274 (PDF 294). Open: numerals as read `[?]`; Skandasvāmin small type `[?]`.
