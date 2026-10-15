@@ -8707,4 +8707,74 @@ Kannada: "Formerly, the Aśvins, going to hear the praise of Śukrācārya, saw 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–12 complete; Ṛk 13 Saṃhitā written (printed p. 363, PDF 383). Next: printed p. 364 (PDF 384): Ṛk 13 Pada onward. Numerals on pp. 362–363 from the reader's list; the list reads Pā. 7-1-39 as 3-1-39 on these pages (7-1-39 on p. 357): flagged `[?]`. p. 348 niṣṭhā sūtra set to 3-2-102 per p. 363.
+### Printed p. 364  (PDF 384; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.13)**
+
+> युवम् । च्यवानम् । अश्विना । जरन्तम् । पुनरिति । युवानम् । चक्रथुः ।
+> शचीभिः ।
+> युवोः । रथम् । दुहिता । सूर्यस्य । सह । श्रिया । नासत्या ।
+> अवृणीत ॥ १३ ॥
+
+> *yuvam | cyavānam | aśvinā | jarantam | punariti | yuvānam | cakrathuḥ |*
+> *śacībhiḥ |*
+> *yuvoḥ | ratham | duhitā | sūryasya | saha | śriyā | nāsatyā |*
+> *avṛṇīta ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.13)** *(small type; read with some doubt)*
+
+> हे अश्विनौ युवं युवां शचीभिः रश्मीय्यैः [?] भैषज्यलक्षणैः कर्मभिर्जरन्तं जीर्यन्तं च्यवानं स्तुतीनां च्यावयितारमेतत्संज्ञमृषिं युवानं पुनर्यौवनोपेतं चक्रथुः । कृतवन्तौ । अपि च हे नासत्यावश्विनौ युवोर्युवयो रथं सूर्यस्य दुहिता सूर्याख्या श्रिया सह शुक्लस्वरूपया संपदा [?] कान्त्या [?] सहावृणीत समभजत । आगत्यारूढवतीत्यर्थः । 'आ वां रथं दुहिता सूर्यस्य' (ऋ. १-११६-१७ [as read]) इत्यत्र लिखितमाख्यानमत्रापि द्रष्टव्यम् ॥ जरन्तम् । जृष् वयोहानौ । व्यत्ययेन शप् । युवोः । युष्मच्छब्दात् षष्ठीद्विवचने व्यत्ययेन योचेति यत्वाभावे सति शेषे लोप इति दकारलोपः । अतो गुण इति पररूपत्वम् । एकादेश उदात्तेनोदात्तः । आवृणीत । वृञ् संभक्तौ । क्र्यादिकः ॥
+
+> *he aśvinau yuvaṃ yuvāṃ śacībhiḥ raśmīyyaiḥ [?] bhaiṣajyalakṣaṇaiḥ karmabhirjarantaṃ jīryantaṃ cyavānaṃ stutīnāṃ cyāvayitārametatsaṃjñamṛṣiṃ yuvānaṃ punaryauvanopetaṃ cakrathuḥ | kṛtavantau | api ca he nāsatyāvaśvinau yuvoryuvayo rathaṃ sūryasya duhitā sūryākhyā śriyā saha śuklasvarūpayā saṃpadā [?] kāntyā [?] sahāvṛṇīta samabhajata | āgatyārūḍhavatītyarthaḥ | 'ā vāṃ rathaṃ duhitā sūryasya ' (ṛ. 1-116-17 [as read]) ityatra likhitamākhyānamatrāpi draṣṭavyam ‖ jarantam | jṛṣ vayohānau | vyatyayena śap | yuvoḥ | yuṣmacchabdāt ṣaṣṭhīdvivacane vyatyayena yoceti yatvābhāve sati śeṣe lopa iti dakāralopaḥ | ato guṇa iti pararūpatvam | ekādeśa udāttenodāttaḥ | āvṛṇīta | vṛñ saṃbhaktau | kryādikaḥ ‖*
+
+*Sense (mine):* "O Aśvins, you two, by your *śacībhiḥ* — deeds in the form of medical treatment [as read [?]] — made the ṛṣi named Cyavana, *jarantam* — growing old, *cyāvayitāram* — the one who makes the praises move (i.e. who brings them forth) — *yuvānam* — again endowed with youth. And, O Nāsatyas, Aśvins, *yuvoḥ* — of you two the chariot — Sūryā, the daughter of the Sun (*sūryasya duhitā*), *śriyā saha* — together with splendour (in the form of a bright wealth [?], beauty [?]) *avṛṇīta* — chose, shared in; the meaning is: she came and mounted. The account written at '*ā vāṃ rathaṃ duhitā sūryasya*' (Ṛ. 1-116-17 as read) is to be seen here too." Then the bhāṣya's grammar: *jarantam* (root *jṛṣ vayohānau*, *śap* by *vyatyaya*); *yuvoḥ* (from *yuṣmad*, genitive dual: by *vyatyaya*, [on account of] absence of *yatva* by the rule *yoci*, the elision of the *d*, *ato guṇe* — *pararūpa*; *ekādeśa udāttenodāttaḥ*); *āvṛṇīta* (root *vṛñ sambhaktau*, *kryādi*) — characterized.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.13)** (Kannada, rendered)
+
+*He aśvinā* — O Aśvins; *yuvam* — you two; *śacībhiḥ* — by (your physician's) deeds; *jarantam* — one who was growing old; *cyavānam* — Cyavana; *punaḥ yuvānam* — again endowed with youth; *cakrathuḥ* — you made (and further); *nāsatyā* — O Nāsatyas; *yuvoḥ* — of you two; *ratham* — the chariot; *sūryasya duhitā* — the daughter of the Sun (the woman Sūryā); *śriyā saha* — with splendour (with wealth of bright form) united; *āvṛṇīta* — (mounted) obtained.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.13)** (Kannada, rendered)
+
+"O Aśvins! You made Cyavana, who was growing old, young again by the power of your physician's art; and, O Nāsatyas, Sūryā, the daughter of the Sun, united with splendour (with wealth of bright form), came and chose your chariot."
+
+---
+
+### Printed p. 365  (PDF 385; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"You rendered, by your power, Aswins, the aged Chyavana again young: the daughter of the sun, Nasatyas, invested your chariot with beauty."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 13)**
+
+*Cyavānaṃ yuvaṃ śacībhiś cakrathuḥ* — *cyāvayitāraṃ stutīnām etatsaṃjñam ṛṣiṃ punaḥ yauvanopetaṃ aśmīyaiḥ* [as read [?]] *bhaiṣajyarūpaiḥ karmabhiḥ kṛtavantau*: "The Aśvins, by their medical treatment, made the aged ṛṣi Cyavana young, and thereafter he praised them exceedingly" — thus it is described in this Ṛk. Skandasvāmin gives the meaning as Sāyaṇa does, and says this matter is stated in the same way elsewhere, and quotes:
+
+> जुजुरुषो नासत्योत वम्रिं प्रामुञ्चतं द्रापिमिव च्यवानात् ।
+> प्रातिरतं जहितस्यायुर्दस्रादित्पतिमकृणुतं कनीनाम् ॥
+> (ऋ. सं. १-११६-१०)
+
+> *jujuruṣo nāsatyota vamriṃ prāmuñcataṃ drāpimiva cyavānāt |*
+> *prātirataṃ jahitasyāyurdasrāditpatimakṛṇutaṃ kanīnām ‖*
+> *(ṛ. saṃ. 1-116-10)*
+
+*Sūryasya duhitā yuvor ratham āvṛṇīta* — *sūryākhyā sūryasya duhitā yuvāṃ ratham āgatyārūḍhavatī*: "Sūryā, the daughter of the Sun, at her self-choice (*svayaṃvara*) chose you and mounted your chariot. And then it is told in the history here that the Aśvins obtained, with great splendour, a thousand [shining things — printed 'śukla' [?]] and Sūryā herself." Skandasvāmin explains the sense in the same way too:
+
+> आ वां रथं दुहिता सूर्यस्य कार्ष्णेवात् [?] अर्वता जयन्ती । [as read; the third and fourth syllables doubtful [?]]
+> विश्वे देवा अन्वमन्यन्त हृद्भिः समु श्रिया नासत्या सचेथे ॥
+> (ऋ. सं. १-११६-१७ [as read])
+
+> *ā vāṃ rathaṃ duhitā sūryasya kārṣṇevāt [?] arvatā jayantī | [as read; the third and fourth syllables doubtful [?]]*
+> *viśve devā anvamanyanta hṛdbhiḥ samu śriyā nāsatyā sacethe ‖*
+> *(ṛ. saṃ. 1-116-17 [as read])*
+
+— "in this Ṛk too the same matter is stated," and he quotes it. Yāska:
+
+> च्यवनः । ऋषिर्भवति च्यावयिता स्तोमानां च्यवानमित्यपि निगमो भवन्ति
+> (नि. ४-१९ [as read [?]])
+
+> *cyavanaḥ | ṛṣirbhavati cyāvayitā stomānāṃ cyavānamityapi nigamo bhavanti*
+> *(ni. 4-19 [as read [?]])*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–12 complete; Ṛk 13 through printed p. 365 (PDF 385): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 366). Next: printed p. 366 (PDF 386). Numerals: Ṛ. 1-116-10 per image; Ṛ. 1-116-17 and Ni. 4-19 as read `[?]`.
