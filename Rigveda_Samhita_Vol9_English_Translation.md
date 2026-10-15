@@ -5463,4 +5463,66 @@ he cites this Ṛk, and
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–7 complete; Ṛk 8 through printed p. 226 (PDF 246): Special Topics (*himena* Skandasvāmin, *ṛbīse*, *sarvagaṇam*, *svasti*) concluded and grammar page begun (continues p. 227). Next: printed p. 227 (PDF 247). Open: Nirukta/Ṛ. numerals as read `[?]`; Sanskrit passages in small type `[?]`.
+### Printed p. 227  (PDF 247; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 8, concluded (noted briefly):* *adhattam* (*ḍudhāñ* "to hold, to nourish"; *laṅ* 2nd dual; nighāta after an accented word); *ṛbīse* (Yāska explains this word: '*ṛbīsam abīsam apagatabhāsam apacitabhāsam apahṛtabhāsam gatabhāsaṃ vā*' (Ni. 6-36 as read [?]) — the sense being "without brilliance"; the desired form and accent are accomplished by *pṛṣodarādīni yathopadiṣṭam*, Pā. 6-3-109 as read [?]); *atrim* (*ad* "to eat"; the suffix *tri* by the Uṇādi sūtra *ader ṇic ca*… [as printed: *ādeśrinicaḥ*, Uṇ. 4-?? as read [?]] with the word *ca*); *avanītam* (*ṇīñ* "to carry"; *kta* by *niṣṭhā*, Pā. 3-2-102 as read [?]; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix *ava* keeps its accent); *unninyathuḥ* (*ṇīñ* "to carry", *liṭ* 2nd dual; nighāta); *sarvagaṇam* (*sarve gaṇā yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?]; the first member keeps its accent); *svasti* (*as* "to be", adādi; *striyāṃ ktin*, Pā. 3-3-94 as read [?], *ktin* in the abstract sense; *chandasy ubhayathā*, Pā. 3-4-117 as read [?], so it is *sārvadhātuka*, hence *bhū* substitution does not arise by *aster bhūḥ*, Pā. 2-4-52 as read [?]; *nañsubhyām*, Pā. 6-2-172 as read [?], final accent). ‖ 8 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 9
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.9)**
+
+> परावतं नासत्यानुदेथामुच्चाबुध्नं चक्रथुर्जिह्मबारम् ।
+> क्षरन्नापो न पायनाय राये सहस्राय तृष्यते गोतमस्य ॥ ९ ॥
+
+> *parāvataṃ nāsatyānudethāmuccābudhnaṃ cakrathurjihmabāram |*
+> *kṣarannāpo na pāyanāya rāye sahasrāya tṛṣyate gotamasya ‖ 9 ‖*
+
+### Printed p. 228  (PDF 248; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.9)**
+
+> परा । अवतम् । नासत्या । अनुदेथाम् । उच्चाऽबुध्नम् । चक्रथुः ।
+> जिह्मऽबारम् ।
+> क्षरन् । आपः । न । पायनाय । राये । सहस्राय । तृष्यते ।
+> गोतमस्य ॥ ९ ॥
+
+> *parā | avatam | nāsatyā | anudethām | uccā 'budhnam | cakrathuḥ |*
+> *jihma 'bāram |*
+> *kṣaran | āpaḥ | na | pāyanāya | rāye | sahasrāya | tṛṣyate |*
+> *gotamasya ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.9)**
+
+> अत्रेदमाख्यानम् । कदाचिन्मरुभूमौ वर्तमानस्य स्तोतुर्गोतमस्य ऋषेः समीपं देशान्तरे वर्तमानं कूपमुत्थाप्याश्विनौ प्रापयेताम् । प्रापय्य च तं कूपं स्नानपानादिसौकर्ययोपरिमूलमधोबिलमवास्थापयेतामिति । तदेतदाह । हे नासत्या सत्यस्वभावौ सत्यस्य नेतारौ नासिकाप्रभवौ वाश्विनौ युवामवतं कूपं नामैतत् । अनस्त्रातं कूपं परानुदेथाम् । गोतमस्य ऋषेः समीपे प्रेरितवन्तौ । तदनन्तरं तं कूपमुच्चाबुध्नम् । उच्चैरुपरिष्टाद्बुध्नो मूलं यस्य स तथोक्तः । जिह्मबारम् । जिह्ममधस्ताद्वर्तमानतया वक्रं बारं द्वारं यस्य स तथोक्तः । एवंगुणविशिष्टं चक्रथुः । युवामकृषाथाम् । तस्मात्तृप्यते पिपासतो गोतमस्य पायनाय पानार्थमापो न आपस्त्व [?] । अयं नकारश्चार्थे । क्षरन् । प्रवाहरूपेण निरगमन् । कीदृशस्य । रायै । हविंषि दत्तवतः । सहस्राय सहनशीलाय । यद्वा । सहस्रसंख्याकाय । रायै धनाय । एतत्सङ्ख्यधनलाभार्थं चाक्षरन् ॥ अनुदेथाम् । णुद प्रेरणे । तौदादिकः । जिह्मबारम् । द्वारशब्दस्य पृषोदरादित्वाद्वारादेशः । क्षरन् । क्षर सञ्चलने । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । शपः पित्त्वादनुदात्तत्वम् । तिङो लसार्वधातुकस्वरेण धातुस्वरः । पायनाय । हेतुमति णिच् । शाच्छासाह्वेति युक् । भावे ल्युट् । राये । रा दाने । राति ददातीति रैः । रातेर्दैः । उ. २-६६ । ऊडिदमिति विभक्तेरुदात्तत्वम् । तृष्यते । ञित्रृषा पिपासायाम् । क्यन् । लटः शतृ । कृषो नित्त्वादाद्युदात्तत्वम् । षष्ठ्यर्थे चतुर्थी वक्तव्या । पा. २-३-६२-१ । इति चतुर्थी ॥ [small type; partly doubtful [?]]
+
+> *atredamākhyānam | kadācinmarubhūmau vartamānasya stoturgotamasya ṛṣeḥ samīpaṃ deśāntare vartamānaṃ kūpamutthāpyāśvinau prāpayetām | prāpayya ca taṃ kūpaṃ snānapānādisaukaryayoparimūlamadhobilamavāsthāpayetāmiti | tadetadāha | he nāsatyā satyasvabhāvau satyasya netārau nāsikāprabhavau vāśvinau yuvāmavataṃ kūpaṃ nāmaitat | anastrātaṃ kūpaṃ parānudethām | gotamasya ṛṣeḥ samīpe preritavantau | tadanantaraṃ taṃ kūpamuccābudhnam | uccairupariṣṭādbudhno mūlaṃ yasya sa tathoktaḥ | jihmabāram | jihmamadhastādvartamānatayā vakraṃ bāraṃ dvāraṃ yasya sa tathoktaḥ | evaṃguṇaviśiṣṭaṃ cakrathuḥ | yuvāmakṛṣāthām | tasmāttṛpyate pipāsato gotamasya pāyanāya pānārthamāpo na āpastva [?] | ayaṃ nakāraścārthe | kṣaran | pravāharūpeṇa niragaman | kīdṛśasya | rāyai | haviṃṣi dattavataḥ | sahasrāya sahanaśīlāya | yadvā | sahasrasaṃkhyākāya | rāyai dhanāya | etatsaṅkhyadhanalābhārthaṃ cākṣaran ‖ anudethām | ṇuda preraṇe | taudādikaḥ | jihmabāram | dvāraśabdasya pṛṣodarāditvādvārādeśaḥ | kṣaran | kṣara sañcalane | bahulaṃ chandasyamāṅyoge 'pītyaḍabhāvaḥ | śapaḥ pittvādanudāttatvam | tiṅo lasārvadhātukasvareṇa dhātusvaraḥ | pāyanāya | hetumati ṇic | śācchāsāhveti yuk | bhāve lyuṭ | rāye | rā dāne | rāti dadātīti raiḥ | rāterdaiḥ | u. 2-66 | ūḍidamiti vibhakterudāttatvam | tṛṣyate | ñitrṛṣā pipāsāyām | kyan | laṭaḥ śatṛ | kṛṣo nittvādādyudāttatvam | ṣaṣṭhyarthe caturthī vaktavyā | pā. 2-3-62-1 | iti caturthī ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "Here this story. Once, the praising ṛṣi Gotama was in a desert; the Aśvins, having lifted up a well that was in another country, brought it near him; and having brought it, they set it with its root above and its opening (*bila*) below, for ease of bathing, drinking and so on. This is said: O Nāsatyas — of true nature, leaders of the truth, or born from the nose — you *avatam*, the well (*avata* is a word for 'well'), [that was] unbathed (unused), *parā anudethām* — you drove (it) near the ṛṣi Gotama. After that you made the well *uccābudhnam* — its *budhna*, root (bottom), standing upward high; *jihmabāram* — whose *bāra* (door), because it lies below, is crooked (*jihma*): endowed with such qualities you made it. Therefore the waters (*āpaḥ*), for the *pāyanāya*, drinking, of the thirsty (*tṛṣyate*) Gotama, *kṣaran*, streamed out in the form of a flow. [For] what sort of man? *Rāye* — who has given oblations; *sahasrāya* — patient; or: [the man] for [receiving] a thousand [in number]; *rāye* — wealth: and they flowed for the obtaining of wealth of such number."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he nāsatyā* — O Aśvin deities, of true nature (born from the nose); *avatam* — the well (that was to come); *parā* — [you drove it] to the neighbourhood (of Gotama); *anudethām* — you impelled (that well, after the father [?]); *uccābudhnam* — with the root (bottom) turned upward; *jihmabāram* — with the mouth turned downward [= curved]; *cakrathuḥ* — you made; *rāye* — to one who gave oblations; *sahasrāya* — patient; *tṛṣyate* — thirsty; *gotamasya* — for Gotama; *pāyanāya* — for drinking; *āpaḥ na* — water also; *kṣaran* — you made to flow."
+
+### Printed p. 229  (PDF 249; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Nāsatyas, you brought the well near Gotama, you made its bottom upward and its mouth downward, and you made the water flow so that Gotama, who offers oblations, who is patient, who is thirsty, could drink."
+
+**English Translation (as printed)**
+
+> Nasatyas, you raised up the well, and made the base, which had been turned upwards, the curved mouth so that the water issued for the beverage of the thirsty Gotama, the offerer.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**नासत्या** — *Nāsatyā* — "*satyasvabhāvau*": "those who always speak the truth, and lead along the true path, or the Aśvin deities who were born from the nostril when the Āditya was in the form of a horse — thus the sense. The Nirukta-writer: '*satyāv eva nāsatyāv ity aurṇavābhaḥ | satyasya praṇetārāv ity āgrāyaṇaḥ | nāsikāprabhavau babhūvatur iti vā*' (Ni. 6-13 as read [?]) — Sāyaṇa explains the word *nāsatya* in the very manner that [the Nirukta] states."
+
+**अवतम्** — *Avatam* — "since the word *avata* is stated among the fourteen [as read] names of well (Ni. 3-?? as read [?]), it means well."
+
+**उच्चाबुध्नम्** — *Uccābudhnam* — "*uccair upariṣṭād budhno mūlaṃ yasya saḥ*: one whose root (bottom) is above, high — 'whose base part is on the upper side' (that is, as if turned head downward, the bottom of the well is turned upward)."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–8 complete; Ṛk 9 through printed p. 229 (PDF 249): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*nāsatyā*, *avatam*, *uccābudhnam*; continues p. 230). Next: printed p. 230 (PDF 250). Open: numerals as read `[?]`; bhāṣya small type `[?]`; the Pratipadārtha word *anudethām* gloss ("after the father") unclear `[?]`.
