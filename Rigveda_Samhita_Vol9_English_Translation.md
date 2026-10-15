@@ -9821,4 +9821,54 @@ in this Ṛk the Nirukta author, [explaining] *medhāvī kaviḥ krāntadarśano
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–23 complete; Ṛk 24 through printed p. 409 (PDF 429): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to the *vadhrimatyāḥ* quotation) done; further Special Topics and grammar follow (p. 410). Next: printed p. 410 (PDF 430). Numerals: Ṛ. 1-116-13 as read.
+### Printed p. 410  (PDF 430; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 24, concluded)* *Tridhā vikastaṃ śyāvaṃ jīvase udairayetam* — "The asuras seized the ṛṣi called Śyāva and cut his body into three pieces; therefore the Aśvins, wishing to protect him, with a noble mind to give life, joined the three pieces of his body, healed him and made him live — this history is told here." Skandasvāmin:
+
+> श्यावं कुष्ठित्वात् श्याववर्णमग्नेः पुत्रस्य घोरस्य ज्येष्ठपुत्रं त्रिधा त्रिभिः प्रकारैः जङ्घयोर्मध्ये शिरसि च त्रिभिः प्रकारैः विनिधं [?] छिन्नम् ॥ [as read; small type, doubtful [?]]
+
+> *śyāvaṃ kuṣṭhitvāt śyāvavarṇamagneḥ putrasya ghorasya jyeṣṭhaputraṃ tridhā tribhiḥ prakāraiḥ jaṅghayormadhye śirasi ca tribhiḥ prakāraiḥ vinidhaṃ [?] chinnam ‖ [as read; small type, doubtful [?]]*
+
+"The eldest son of Ghora, the son of Agni, was of altered appearance, dark-skinned from leprosy; in order to make him healthy, the Aśvins cut his body variously at the shank and head, treated him, and protected him — so he explains the meaning." And he quotes:
+
+> युवं श्यावाय रुशतीमदत्तं महः क्षोणस्याश्विना कण्वाय ।
+> प्रवाच्यं तद्वृषणा कृतं वां यन्नार्षदाय श्रवो अध्यधत्तम् ॥
+> (ऋ. सं. १-११७-८)
+
+> *yuvaṃ śyāvāya ruśatīmadattaṃ mahaḥ kṣoṇasyāśvinā kaṇvāya |*
+> *pravācyaṃ tadvṛṣaṇā kṛtaṃ vāṃ yannārṣadāya śravo adhyadhattam ‖*
+> *(ṛ. saṃ. 1-117-8)*
+
+and this Ṛk:
+
+> याभिः शचीभिर्वृषणा परावृजं प्रान्धं श्रोणं चक्षस एतवे कृथः ।
+> याभिर्वर्तिकां ग्रसितामुमुञ्चतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-८)
+
+> *yābhiḥ śacībhirvṛṣaṇā parāvṛjaṃ prāndhaṃ śroṇaṃ cakṣasa etave kṛthaḥ |*
+> *yābhirvartikāṃ grasitāmumuñcataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-8)*
+
+"In these the wonderful deeds that the Aśvins perform are stated, and it is described that their power is infinite."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 24; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Hiraṇyahastam* — *hiraṇyaṃ haste yasya saḥ hiraṇyahastaḥ*; in the *bahuvrīhi*, *prakṛtyā pūrvapadam* (Pā. 6-2-1 as read), the former member keeps its natural accent. *Rarāṇā* — root *ramu krīḍāyām*; *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* (Pā. 3-2-124 as read), the suffix *śānac*; *bahulaṃ chandasi*, *ślu* for *śap*; *ślau*, doubling of the root; *rerām + āna* — by *vyatyaya*, *a* for the *m* [?]; *āṭ kuppvāṅ…*, *ṇatva* for the *n* — or on the earlier [view]: root *rā dāne*; *vyatyayena śānac*; *ślu* vikaraṇa; doubling of the root; by *abhyastānām ādiḥ* (Pā. 6-1-189 as read) the initial acute; *supāṃ sulug* (Pā. 7-1-39), *ā* for the case ending (*au*).
+
+---
+
+### Printed p. 411  (PDF 431; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Vadhrimatyāḥ* — since the sense of the fourth case is meant, *bahulaṃ chandasi*, the sixth case has come; in the place of the *udātta*, *yaṇ* substituted, after which a case ending has come, *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read), the acute on the case ending. *Adattam* — root *dudāñ dāne*; *laṅ*, second person dual; *tiṅanta nighāta* accent. *Tridhā* — *saṅkhyāyā vidhārthe dhā* (Pā. 5-3-42 as read), the suffix *dhā* in the sense of "kind, manner". *Vikastam* — root *kasa gatau*; in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), the suffix *kta*; *gatir anantaraḥ*, the *gati* keeps its natural accent. *Jīvase* — root *jīva prāṇadhāraṇe*; since the sense of the infinitive is meant, *tumarthe se-sen-ase…* (Pā. 3-4-9 as read), the suffix *ase*; *kṛn mejantaḥ* (Pā. 1-1-39 as read), because it is a *kṛdanta* ending in *e* [?], it is indeclinable; by the suffix's initial acute, the middle-acute form arises. ‖ 24 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.25)**
+
+> एतानि वामश्विना वीर्याणि प्र पूर्व्याण्यायवो वोचन् ।
+> ब्रह्म कृण्वन्तो वृषणा युवभ्यां सुवीरासो विदथमा वदेम ॥ २५ ॥
+
+> *etāni vāmaśvinā vīryāṇi pra pūrvyāṇyāyavo vocan |*
+> *brahma kṛṇvanto vṛṣaṇā yuvabhyāṃ suvīrāso vidathamā vadema ‖ 25 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–24 complete; Ṛk 25 (last of the sūkta) Saṃhitā written (printed p. 411, PDF 431). Next: printed p. 412 (PDF 432): Ṛk 25 Pada onward, then the Sanskrit colophon of Sūkta 117 if present, then Sūkta 118. Numerals as read (list stops at printed p. 380): Ṛ. 1-117-8, 1-112-8 as read; sūtra numbers `[as read]`.
