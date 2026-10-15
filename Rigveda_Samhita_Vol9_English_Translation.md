@@ -6026,4 +6026,62 @@ and others. There is a sūkta in the tenth maṇḍala of the Ṛgveda (Ṛ. Sa�
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–12 complete; Ṛk 13 through printed p. 252 (PDF 272): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English (misprints "idvoked", "herr" [sic]), Special Topics begun (*purubhujā*, *yāman*, *vadhrimatī*; continues p. 253). Next: printed p. 253 (PDF 273). Open: numerals as read `[?]`.
+### Printed p. 253  (PDF 273; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 13, continued]
+
+"… *vadhrimatī* — 'she who has an impotent man as husband': so Sāyaṇa explains. Skandasvāmin —
+
+> वध्रिमती नाम योधी शत्रुभिः सङ्ग्रामे छिन्नहस्ता । अश्विनौ तुष्टाव । तस्याः अश्विनौ हिरण्यहस्तं ददतुः इति ॥
+
+> *vadhrimatī nāma yodhī śatrubhiḥ saṅgrāme chinnahastā | aśvinau tuṣṭāva | tasyāḥ aśvinau hiraṇyahastaṃ dadatuḥ iti ‖*
+
+— *vadhrimatī* is the name of a woman warrior (*yodhī*) in battle, whose hand was cut off by enemies; she praised the Aśvins; to her the Aśvins gave a golden hand [*hiraṇyahastam*]." "Skandasvāmin explains the meaning of the word *vadhrimatī* as 'the woman who fights (the princess named Vadhrimatī) in a battle, who has lost a hand [cut off] in the war with the enemies'. Though Skandasvāmin and Sāyaṇa, in giving the meaning of this Ṛk, have different intentions in different places, in the matter that they favoured her with a son named Hiraṇyahasta the intention of both is of one kind. Sāyaṇa, explaining that since the word *vadhri* means 'impotent', she who has him as husband is *vadhrimatī*, relates the Itihāsa that a princess who had an impotent husband praised the Aśvin deities greatly and pleased them; they, pleased with her praise, appeared to her in person and gave her the boon that a son named Hiraṇyahasta should be born as she wished. Skandasvāmin, however, says that the woman warrior named Vadhrimatī, her hand cut off by enemies in battle, praised the Aśvin deities; they made her hand as it was before, according to her wish; and, saying that the hand too was golden:
+
+**हिरण्यहस्तः** — *Hiraṇyahastaḥ* — "*hiraṇmayau hastau yasmin sa hiraṇyahastaḥ | bāhuḥ*": "the word *hiraṇya* means 'gold'. Hence he explains that he is 'one who has golden arms'. Sāyaṇa explains the word *hiraṇyahasta* as 'one with beautiful (*hitaramaṇīya*, pleasant) hands, [giving] comfort', or as 'one who has the name Hiraṇyahasta', as a qualifier of the son."
+
+**शासुरिव** — *Śāsur iva* — "the Aśvin deities, hearing the praises of those who praise them, as a pupil listens attentively to the teacher's teaching, fulfil their wishes: this is the meaning of the word *śāsur iva*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 13; grammar page, noted briefly)**
+
+*ājohavīt* (*hveñ* "to compete, to call"; to express intensity, *dhātor ekācaḥ halādeḥ kriyāsamabhihāre yaṅ*, Pā. 3-1-22 as read [?]; to it *yaṅo vā*, Pā. 2-4-74 as read [?], elision of the *yaṅ*; the doubling by *sanyaṅoḥ*, Pā. 6-1-9 as read [?]; *yajo vā*… the *laṅ* 3rd singular *tip*, and for that *īṭ* augment; *guṇo yaṅluk*…, *kuhoś cuḥ* [*c* for the reduplication's *h*]; guṇa; *ūḍ*…; *aṭ*; the word begins with a *pāda*, no nighāta; the augment being *udātta*, the word takes first-syllable accent).
+
+### Printed p. 254  (PDF 274; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page, continued:* *ājohavīt* (… the augment *īṭ* by *yaṅo vā* [*sic* as printed] …); *karā* (*ḍukṛñ* "to do"; since it belongs to the *pacādi* group, *nandigrahipacādibhyo lyuṇinyacaḥ*, Pā. 3-1-134 as read [?], *ac*; as *ac* is the suffix, guṇa of the root's *ṛ*; *raparatva*; as the dual ending follows, *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *citaḥ*, Pā. 6-1-163 as read [?], final accent); *mahe* (*mah* "to honour"; as before *ac*; locative singular); *yāman* (*yā* "to go"; *āto manin kvanib vanipaś ca*, Pā. 3-2-74 as read [?], the suffix *manin*; the word *yāman*; with the locative singular following, *supāṃ sulug*, elision); *purubhujā* (*bhuj* "to protect, to enjoy"; *kvip ca*, Pā. 3-2-76 as read [?], *kvip*; *puru bhujau yayoḥ* *purubhujau*; with the dual, *supāṃ sulug*, *ā*; *āmantritasya ca*, Pā. 8-1-19 as read [?], nighāta); *purandhiḥ* (for *bahudhīḥ*, by *pṛṣodarādīni yathopadiṣṭam*, Pā. 6-3-109 as read [?], the formation *purandhi*; *karmaṇy adhikaraṇe ca*, Pā. 3-3-93 as read [?], *ki* for the root *dhā*); *śrutam* (*śru* "to hear"; *laṅ* 2nd dual; *tasthasthamipāṃ…*, *tam*; *bahulaṃ chandasi*, Pā. 2-4-73 as read [?], elision of the *vikaraṇa*; since *sārvadhātukam apit* makes it *ṅit*, no guṇa of the root; *bahulaṃ chandasy amāṅyoge 'pi*, Pā. 6-4-75 as read [?], no augment *aṭ*; since the word begins a *pāda* no nighāta; the accent of the suffix on the last syllable); *śāsuḥ* (this is the form for *śāstuḥ*; *śāsu* "to instruct"; *śaṃsiśasiśāsi…*, Uṇ. 3-?? as read [?], the *tṛn* suffix, as the suffix has *śāsu* as the *saṃjñā*, *aniṭ*, no *iṭ*; in the Veda elision of the *t*); *adattam* (*ḍudāñ* "to give", *laṅ* 2nd dual; nighāta after an accented word). ‖ 13 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 14
+
+### Printed p. 255  (PDF 275; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.14)**
+
+> आस्नो वृकस्य वर्तिकामभीके युवं नरा नासत्यामुमुक्तम् ।
+> उतो कविं पुरुभुजा युवं ह कृपमाणमकृणुतं विचक्षे ॥ १४ ॥
+
+> *āsno vṛkasya vartikāmabhīke yuvaṃ narā nāsatyāmumuktam |*
+> *uto kaviṃ purubhujā yuvaṃ ha kṛpamāṇamakṛṇutaṃ vicakṣe ‖ 14 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.14)**
+
+> आस्नः । वृकस्य । वर्तिकाम् । अभीके । युवम् । नरा । नासत्या ।
+> अमुमुक्तम् ।
+> उतो इति । कविम् । पुरुऽभुजा । युवम् । ह । कृपमाणम् ।
+> अकृणुतम् । विऽचक्षे ॥ १४ ॥
+
+> *āsnaḥ | vṛkasya | vartikām | abhīke | yuvam | narā | nāsatyā |*
+> *amumuktam |*
+> *uto iti | kavim | puru 'bhujā | yuvam | ha | kṛpamāṇam |*
+> *akṛṇutam | vi 'cakṣe ‖ 14 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.14)**
+
+> वर्तिका चटकसदृशस्य पक्षिणः स्त्री । तामरण्ये वर्तमानेन शुना ग्रस्तां पुरा किलाश्विनावमोचयताम् । तदेतदाह । हे नरा नेतारौ नासत्यावश्विनौ युवं युवामभीके भीगते [?] वृकवर्तिकयोः सङ्ग्रामे वृकस्य विकर्तकस्य शुन आस्नः आस्यादत्तिकां चटकसदृशीमुमुक्तम् । अमोचयतम् । यास्कस्त्वाह । पुनः पुनर्वर्तते प्रतिदिवसमावर्तत इति वर्तिकोषाः । तां वृकेणावरकेण सर्वजगत्प्रकाशनाच्छादयित्रा सूर्येण ग्रस्तां तदीयमुखादश्विनावमुञ्चतामिति । उतोऽपि च पुरुभुजा महाबाहू प्रभूतहस्तौ वा युवं ह युवां खलु कृपमाणं स्तुवन्तं कविं विक्रान्तं मन्त्रवृषिं विचक्षे विशेषेण द्रष्टुं [समर्थमकृणुतं ।] आकुरुतम् ॥ आस्नः । पद्दन्नित्यादिनास्यशब्दस्यासन्नादेशः । आल्लोपोनः । इत्यकारलोपः । उदात्तनिवृत्तिस्वरेणोदिति विभक्तेरुदात्तत्वम् । अमुमुक्तम् । मुचेर्लङ्तर्थे लिङ्बहुलं छन्दसीति विकरणस्य श्लुः । कृपः स्तुतिरिति … ताः तुदादिषु द्रष्टव्यः । विचक्षे । तुमर्थे सेसेनसेति सेप्रत्ययः । स्कोः संयोगाद्योरिति सलोपः ॥ [small type; read letter by letter; doubtful words [?]]
+
+> *vartikā caṭakasadṛśasya pakṣiṇaḥ strī | tāmaraṇye vartamānena śunā grastāṃ purā kilāśvināvamocayatām | tadetadāha | he narā netārau nāsatyāvaśvinau yuvaṃ yuvāmabhīke bhīgate [?] vṛkavartikayoḥ saṅgrāme vṛkasya vikartakasya śuna āsnaḥ āsyādattikāṃ caṭakasadṛśīmumuktam | amocayatam | yāskastvāha | punaḥ punarvartate pratidivasamāvartata iti vartikoṣāḥ | tāṃ vṛkeṇāvarakeṇa sarvajagatprakāśanācchādayitrā sūryeṇa grastāṃ tadīyamukhādaśvināvamuñcatāmiti | uto 'pi ca purubhujā mahābāhū prabhūtahastau vā yuvaṃ ha yuvāṃ khalu kṛpamāṇaṃ stuvantaṃ kaviṃ vikrāntaṃ mantravṛṣiṃ vicakṣe viśeṣeṇa draṣṭuṃ [samarthamakṛṇutaṃ |] ākurutam ‖ āsnaḥ | paddannityādināsyaśabdasyāsannādeśaḥ | ālloponaḥ | ityakāralopaḥ | udāttanivṛttisvareṇoditi vibhakterudāttatvam | amumuktam | mucerlaṅtarthe liṅbahulaṃ chandasīti vikaraṇasya śluḥ | kṛpaḥ stutiriti … tāḥ tudādiṣu draṣṭavyaḥ | vicakṣe | tumarthe sesenaseti sepratyayaḥ | skoḥ saṃyogādyoriti salopaḥ ‖ [small type; read letter by letter; doubtful words [?]]*
+
+*Sense (mine):* "*Vartikā* is the female of a bird like the sparrow (*caṭaka*). Once, it is said, the Aśvins released her when she was seized by a dog [wolf] that was in the forest. This is what is said: O leaders, Nāsatyas, Aśvins, *abhīke* — in the battle between the *vṛka* (wolf) and the *vartikā* — you released the quail-like *vartikā* from the mouth (*āsnaḥ*) of the *vṛka*, the tearer, the dog. [Yāska says: *vartikā* 'she who returns again and again', that is, Uṣas; the *vṛka*, the coverer — the Sun, who covers by illuminating the whole world — had seized her; the Aśvins released her from his mouth.] And further, O *purubhujā* (great-armed, or having many hands), *yuvaṃ ha*, you indeed made *kavim*, the courageous ṛṣi, who was *kṛpamāṇam*, praising, *vicakṣe*, able to see well."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–13 complete; Ṛk 14 through the bhāṣya on printed p. 255 (PDF 275): Saṃhitā, Pada, bhāṣya. Next: printed p. 256 (PDF 276) — Ṛk 14 pratipadārtha, bhāvārtha, English, Special Topics. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
