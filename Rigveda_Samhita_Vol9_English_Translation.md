@@ -4776,4 +4776,90 @@ he cited these Ṛks as examples.
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–2 complete; Ṛk 3 through printed p. 196 (PDF 216): pratipadārtha end, bhāvārtha, English, Special Topics (*tugraḥ*, *bhujyum* with many Ṛk citations, *udameghe*, *rayiṃ na*, *mamṛvān*, *ātmanvatībhiḥ*, *antarikṣaprudbhiḥ*; may continue p. 197). Next: printed p. 197 (PDF 217). Open: all Ṛ. numerals in the Bhujyu list as read `[?]` (small type); Ni. refs.
+### Printed p. 197  (PDF 217; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 3, concluded]
+
+**अपोदकाभिः** — *Apodakābhiḥ* — "*suślīṣṭatvād apagatodakābhiḥ asprṣṭodakābhir ity arthaḥ*": "because the ships are built with no crack or opening, so well made, water does not enter at all; this is the meaning. In these three qualifying words the nature of the Aśvins' ship [being what it is, *uttamatva*] is manifested [in contrast to other ships]. And the next Ṛk is also a description of the Aśvins' ships."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly)**
+
+*udameghe* (*mih* "to sprinkle"; *ghañ* in the passive; guṇa of the penultimate; *nyaṅkvādīnāṃ ca*, Pā. 7-3-53 as read [?], *kutva* (*g* for *h*); *antaratamyāt*, the *h* gets *gh*; *udakasyodaḥ saṃjñāyām*, Pā. 6-3-57 as read [?], *uda* for *udaka*; *thāthaghañktājipabṛtām*, Pā. 6-2-144 as read [?], the last syllable accented; locative singular); *mamṛvān* (*mṛṅ* "to die", *liṭ* with the option of *kvasu* by *kvasuś ca*, Pā. 3-2-107 as read [?]; *kṛsṛbhṛvṛstudrusruśruvo liṭi*, Pā. 7-2-13 as read [?], the restriction on *iṭ*; although *iṭ* would apply, it is again prohibited by *vasvekājāḍ ghasām*, Pā. 7-2-67 as read [?]; doubling of the root; *ur at*, Pā. 7-4-66 as read [?], *a* in the reduplication, *halādiśeṣa*; as the suffix is *kit* no guṇa of the root; accent of the suffix; the nominative singular *su*; *ugitaś ca*… *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*, Pā. 7-1-70 as read [?]; *upadhādīrgha* [*sān*…]; *hal-ṅyābbhyo dīrghāt sutisyapṛktaṃ hal*, Pā. 6-1-68 as read [?], elision of *su*; the elision of the conjunct-final *t* by *saṃyogāntasya lopaḥ*, Pā. 8-2-23 as read [?]; this being regarded as not having happened, the *n*-elision does not arise); *ahāḥ* (*ohāk* "to leave", *luṅ* 3rd singular *tip*; *itaś ca lopaḥ*; *cleḥ sic*; by the *paribhāṣā* "*āgamānuśāsanam anityam*", the augments *ṛt* and *saK*… are not applied; *bahulaṃ chandasi*, Pā. 7-3-97 as read [?], no *īṭ* augment; *hal-ṅyābbhyaḥ*, elision of *tip*; the *s* of *sic* → *ru* → visarga; augment *aṭ*; the form *ahāḥ*. Or by *mantre ghasahvara…*, Pā. 2-4-80 as read [?], *luk* for *cli*; as it is *luk*, no augment; nighāta); *ūhathuḥ* (*vah* "to carry", *liṭ* 2nd dual, *athus* substituted; as *asaṃyogāl liṭ kit* makes it *kit*, *vacisvapiyajādīnāṃ kiti* gives *saṃprasāraṇa*, Pā. 6-1-15 as read [?]; doubling of the root; nighāta).
+
+### Printed p. 198  (PDF 218; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page, concluded:* *nāubhiḥ* (the word *nau*; instrumental plural; as it is monosyllabic, *sāvekācas tṛtīyādiḥ*, Pā. 6-1-168 as read [?], the ending takes the udātta accent); *ātmanvatībhiḥ* (*ātman* + *matup* by *tad asyāsty asmin*, Pā. 5-2-94 as read [?]; *mādupadhāyāś ca*, Pā. 8-2-9 as read [?], *va* for the *m* of *matup* after the *a*-penultimate; *nalopaḥ prātipadikāntasya*, Pā. 8-2-7 as read [?]; *ano nuṭ*, Pā. 6-3-?? as read [?], the *nuṭ* augment before *matup*; being *ṭit*, it becomes the first part; *hrasvanuḍbhyāṃ matup*, Pā. 6-1-176 as read [?], *matup* is accented *udātta* after the short or *nuṭ*; the feminine *ṅīp* by *ugitaś ca*; the instrumental plural); *antarikṣaprudbhiḥ* (*pruj* "to go", *kvip* by *kvip ca*, Pā. 3-2-76 as read [?]; the augment *tuk* for the short vowel by *hrasvasya piti kṛti tuk*, Pā. 6-1-71 as read [?]; first-member accent by *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?]). ‖ 3 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.4)**
+
+> तिस्रः क्षपस्त्रिरहातिव्रजद्भिर्नासत्या भुज्युमूहथुः पतंगैः ।
+> समुद्रस्य धन्वन्नार्द्रस्य पारे त्रिभी रथैः शतपद्भिः षळश्वैः ॥ ४ ॥
+
+> *tisraḥ kṣapastrirahātivrajadbhirnāsatyā bhujyumūhathuḥ pataṃgaiḥ |*
+> *samudrasya dhanvannārdrasya pāre tribhī rathaiḥ śatapadbhiḥ ṣaḷaśvaiḥ ‖ 4 ‖*
+
+### Printed p. 199  (PDF 219; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.4)**
+
+> तिस्रः । क्षपः । त्रिः । अहा । अतिव्रजत्ऽभिः । नासत्या । भुज्युम् ।
+> ऊहथुः । पतंगैः ।
+> समुद्रस्य । धन्वन् । आर्द्रस्य । पारे । त्रिऽभिः । रथैः ।
+> शतपत्ऽभिः । षट्ऽअश्वैः ॥ ४ ॥
+
+> *tisraḥ | kṣapaḥ | triḥ | ahā | ativrajat 'bhiḥ | nāsatyā | bhujyum |*
+> *ūhathuḥ | pataṃgaiḥ |*
+> *samudrasya | dhanvan | ārdrasya | pāre | tri 'bhiḥ | rathaiḥ |*
+> *śatapat 'bhiḥ | ṣaṭ 'aśvaiḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.4)**
+
+> हे नासत्या सेनया सहोदके निमग्नं भुज्युं तिस्रः क्षपस्त्रिसंख्याका रात्रीस्त्रिरहा त्रिनारमावृत्तान्यहानि चातिव्रजद्भिरतिक्रम्य गच्छद्भिरेतावन्तं कालमतिव्याप्य वर्तमानैः पतंगैः पतद्भिः सञ्चारिभिस्त्रिभिस्त्रिसंख्यैः रथैरारोहथुः [?] ऊहथुः । युवामूढवन्ताविति चेत् उच्यते । समुद्रस्याम्बुराशेर्मध्ये धन्वन् धन्वनि जलवर्जिते प्रदेशे । आर्द्रस्योदकेनार्द्रीभूतस्य समुद्रस्य पारे तीरदेशे च । कथंभूतैरथैः । शतपद्भिः शतसंख्यैश्चक्रलक्षणैः पादैरुपेतैः । षळश्वैः षड्भिरश्वैर्युक्तैः ॥ [grammatical tail follows: *tisraḥ* — *tricaturoḥ striyāṃ tisṛcatasṛ*, *tisṛ* substitution; *kṣapaḥ*; *tiraḥ*…; *ahā* — *ahan*, *ṭi*; *patangaiḥ* — *paṭḷ* "to go", *paterangac*, Uṇ. 1-?? as read [?]; *dhanvan* — *dhanvi* "to go", with *kanin* [*kaninyuvṛṣitakṣirājidhanidraviṇāt…*]; *supāṃ sulug*, *ṅi* → *luk*; *śatapadbhiḥ* — *śataṃ pādā yeṣām*, *saṃkhyāsupūrvasya*, *pād* → *pad*; *ṣaḍaśvaiḥ* — *ṣaṭ* + *aśva*, *ayasmayādīni* …] [read from the print; small type, partly doubtful [?]]
+
+> *he nāsatyā senayā sahodake nimagnaṃ bhujyuṃ tisraḥ kṣapastrisaṃkhyākā rātrīstrirahā trināramāvṛttānyahāni cātivrajadbhiratikramya gacchadbhiretāvantaṃ kālamativyāpya vartamānaiḥ pataṃgaiḥ patadbhiḥ sañcāribhistribhistrisaṃkhyaiḥ rathairārohathuḥ [?] ūhathuḥ | yuvāmūḍhavantāviti cet ucyate | samudrasyāmburāśermadhye dhanvan dhanvani jalavarjite pradeśe | ārdrasyodakenārdrībhūtasya samudrasya pāre tīradeśe ca | kathaṃbhūtairathaiḥ | śatapadbhiḥ śatasaṃkhyaiścakralakṣaṇaiḥ pādairupetaiḥ | ṣaḷaśvaiḥ ṣaḍbhiraśvairyuktaiḥ ‖ [grammatical tail follows: *tisraḥ* — *tricaturoḥ striyāṃ tisṛcatasṛ*, *tisṛ* substitution; *kṣapaḥ*; *tiraḥ*…; *ahā* — *ahan*, *ṭi*; *patangaiḥ* — *paṭḷ* "to go", *paterangac*, Uṇ. 1-?? as read [?]; *dhanvan* — *dhanvi* "to go", with *kanin* [*kaninyuvṛṣitakṣirājidhanidraviṇāt…*]; *supāṃ sulug*, *ṅi* → *luk*; *śatapadbhiḥ* — *śataṃ pādā yeṣām*, *saṃkhyāsupūrvasya*, *pād* → *pad*; *ṣaḍaśvaiḥ* — *ṣaṭ* + *aśva*, *ayasmayādīni* …] [read from the print; small type, partly doubtful [?]]*
+
+*Sense (mine):* "O Nāsatyas, Bhujyu, sunk with his army in the water — for three *kṣapaḥ* (nights), *trir ahā* (three days — days recurring thrice) — you carried (*ūhathuḥ*) by three *pataṅgaiḥ*, 'flying', i.e. swift-moving, three in number, chariots, *atiprajadbhiḥ* — going far beyond, continuing over so much time. If it be asked 'where did you carry him?' it is said: *samudrasya dhanvan* — in the waterless region in the middle of the ocean — and *ārdrasya pāre* — on the shore of the ocean made wet by water. What chariots? *Śatapadbhiḥ* — having a hundred 'feet', i.e. hundred wheels; *ṣaḍaśvaiḥ* — drawn by six horses."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he nāsatyā* — O Aśvin deities; *bhujyum* — Bhujyu (who was sunk in the sea with his army); *tisraḥ kṣapaḥ* — three nights (and); *triraha* — three days; *ativrajadbhiḥ* — passing over (going on beyond); *pataṅgaiḥ* — swift-moving; *śatapadbhiḥ* —
+
+### Printed p. 200  (PDF 220; header "Maṃ. 1 A. 17 Sū. 116")
+
+— with a hundred wheels (feet); *ṣaḷaśvaiḥ* — six horses yoked; *tribhiḥ rathaiḥ* — by three chariots; *samudrasya* — of the ocean; *dhanvan* — in the waterless region; *ārdrasya* — of the wet; *samudrasya* — of the ocean; *pāre* — in the region of the shore; *ūhathuḥ* — you carried him away."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, three days and three nights, in a continuous swift course, in three chariots of a hundred wheels, with six horses yoked (to each), you carried Bhujyu (sunk with his army) both through waterless regions near the ocean and through the regions of the shore of the sea."
+
+**English Translation (as printed)**
+
+> Three nights and three days, Nasatyas, have you conveyed Bhujyu in three rapid, revolving cars, having a hundred wheels, and drawn by six horses, along the dry shore of the sea.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**तिस्रः क्षपः** — *Tisraḥ kṣapaḥ* — "*trisaṃkhyākā rātrīḥ*": "since the word *kṣapaḥ* is stated among the twenty-two [as read] names of night (*rātri*) — *śyāvī*, *śarvarī* and so on (Ni. 1-?? as read [?]) — *kṣapaḥ* means night."
+
+**पतङ्गैः** — *Pataṅgaiḥ* — "*patadbhiḥ*": "since the word *pataṅga* is read among the sixteen names of horses, '*atya*', '*haya*' and so on (Ni. 1-?? as read [?]), though the word *pataṅga* denotes the meaning 'horse', Sāyaṇa explains it as *patadbhiḥ* — 'moving'."
+
+**धन्वन्** — *Dhanvan* — "*jalavarjite pradeśe*": "in a region without water. Since the word *dhanva* is stated among the sixteen names of the atmosphere, '*ambara*', '*viyat*' and so on (Ni. 1-?? as read [?]), *dhanvan* means 'atmosphere'. In the Sāyaṇa-bhāṣya and in Skandasvāmin's bhāṣya, it is explained as '*nirudakapradeśa*' (a waterless region). Yāska:
+
+> धन्वान्तरिक्षं धन्वन्त्यस्मादापः ॥ [as read: *dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*]
+
+> *dhanvāntarikṣaṃ dhanvantyasmādāpaḥ ‖ [as read: *dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*]*
+
+— 'the waters flow out from it; therefore the atmosphere is called by the name *dhanva*' — he explains the meaning, and cites
+
+> यः पर्स्याः पारावतस्तिरो धन्वातिरोचते । स नः पर्षदति द्विषः ॥
+> (ऋ. सं. १०-९३-?३ [as read; [?]])
+
+> *yaḥ parsyāḥ pārāvatastiro dhanvātirocate | sa naḥ parṣadati dviṣaḥ ‖*
+> *(ṛ. saṃ. 10-93-?3 [as read; [?]])*
+
+as an example."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–3 complete; Ṛk 4 through printed p. 200 (PDF 220): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*tisraḥ kṣapaḥ*, *pataṅgaiḥ*, *dhanvan*; continues p. 201). Next: printed p. 201 (PDF 221). Open: numerals as read `[?]`; bhāṣya small type `[?]`.
