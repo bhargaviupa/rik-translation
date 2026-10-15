@@ -9241,4 +9241,38 @@ In explaining this Ṛk, Sāyaṇa quotes:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–17 complete; Ṛk 18 through printed p. 385 (PDF 405): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics follow (p. 386). Next: printed p. 386 (PDF 406). Numerals on pp. 384–385 read from the page ("as read"; the numeral list stops at printed p. 380).
+### Printed p. 386  (PDF 406; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 18)**
+
+*Śunam* — *śunam iti sukhanāma*: "The word *śuna* is stated among the twenty [as read] names of happiness (Ni. 3-11 [as read [?]]); hence the meaning is 'happiness'."
+
+*Bharam* — *poṣaṇahetubhūtaṃ cakṣurindriyeṇa niṣpādyaṃ sukham*: "The word *bhara* is stated among the forty-six [as read] names of battle (Ni. 2-9 [as read [?]]), so it means 'war'. Here Sāyaṇa gives *bhara* the meaning 'the cause that gives nourishment'. Hence the word *bhara* is an adjective of *śunam* — 'the happiness that comes from the eye'."
+
+*Jāraḥ kanīna iva cakṣadānaḥ* — *yathā prāptayauvanaḥ kāmukaḥ pāradārikaḥ san parastriyai sarvaṃ dhanaṃ prayacchati evaṃ paurajanānāṃ svabhūtānapahṛtya meṣān śakalīkurvan prādāt*: "As a lover who has attained youth, in love with another man's wife, gives all his wealth to his beloved, so Ṛjrāśva took the sheep that were the property of the townspeople (*nāgarika*), cut them up and gave them to the she-wolf, to be used as food." — Skandasvāmin, in explaining the word *kanīna*, deliberates: "[he first states the construction] *jāraḥ kanīna iva vṛkī vṛṣaṇā narety ahvayat*: the word *kanīna* does not mean 'a maiden'; since the word with that sense (*kanyā*) would not be here the thing to be described, the word *kanīna*, derived from the root *kana* which has the sense of *kānti* (desire, splendour), conveys the idea 'a lover (*kāmayitā*)'. Just as a paramour calls another man's wife with respect and with love, so the Aśvins' vehicle calls them 'Vṛṣaṇā' — 'givers of the desired things', and 'Narā' — 'proper guides', with respect." And [he adds that] since Ṛjrāśva knew that enmity with enemies would arise, he prepared food for the Aśvins' vehicle so as to have a protector of great power for himself; and that, cursed by his father, he came to blindness, and by the Aśvins' help he got his sight — the reason [for the narrative] is also described, he says; and he quotes the passage:
+
+> ऋज्राश्वो ह्योग्रैश्वर्यात् [?] पूर्वमेव ज्ञातेर्वा इयं वृकी अश्विनोः कशा समामाद्धीभूतस्य [?] मृके पितरि शत्रुभिः रुद्धस्य शत्रुजयं करिष्यतीति चक्षदानः । [as read; small type, several words doubtful [?]]
+
+> *ṛjrāśvo hyograiśvaryāt [?] pūrvameva jñātervā iyaṃ vṛkī aśvinoḥ kaśā samāmāddhībhūtasya [?] mṛke pitari śatrubhiḥ ruddhasya śatrujayaṃ kariṣyatīti cakṣadānaḥ | [as read; small type, several words doubtful [?]]*
+
+— "such is the statement he quotes."
+
+---
+
+### Printed p. 387  (PDF 407; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 18; grammar page, noted briefly; sūtra numbers as read — no list entry)**
+
+*Ahvayat* — root *hveñ spardhāyāṃ śabde ca*, *bhvādi*; *laṅ*, third person singular, suffix *tip*; *iteś ca*, elision of the *ī*; *śap* as the vikaraṇa; *vicchoyīvāyoḥ* [as read [?]], *ay* substituted; the augment *aṭ*; since it stands after an *ajanta*, the *nighāta* accent. *Narā* — root *nṛ nayane*; *ṛdor ap* (Pā. 3-3-57 as read), suffix *ap*; on that account *guṇa* for the root-vowel; becomes *r*-final; since the suffix is *pit*, the root accent remains; with the dual *au* following, *supāṃ sulug* (Pā. 7-1-39), *ā* substituted. *Kanīnaḥ* — the word *yuvan*; "very young" is *kanīnaḥ*: *atiśayane tamabiṣṭhanau* (Pā. 5-3-55 as read), the suffix *iṣṭhan*; it following, *yuvālpayoḥ kan anyatarasyām* (Pā. 5-3-64 as read), *kan* for the word *yuvan*; *vyatyayo bahulam* (Pā. 3-1-85), the suffix's *iṣṭhan* gets *ī*-substitution [?]; *āyaneyīnīyiyaḥ phaḍhakhachaghām* (Pā. 7-1-2), *īn* substituted for it; the form *kanīna*. Or the root *kana dīptikāntigatiṣu*, with the *auṇādika* suffix *īna*; by the suffix's initial acute, the middle acute accent. *Cakṣadānaḥ* — here the root *kṣad* [as read; cf. *khad*] is used in the sense of cutting into pieces; in the sense of *laṭ*, *liṭaḥ kānaj vā* (Pā. 3-2-106 as read), suffix *kānac*; on that account the root is doubled; *halādiśeṣa* for the reduplicative syllable, *kuhoś cuḥ* (Pā. 7-4-62), *c*; since the suffix is *cit*, *ciṭaḥ* (Pā. 6-1-163), the final acute. ‖ 18 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.19)**
+
+> मही वामूतिरश्विना मयोभूरुत स्रामं धिष्ण्या सं रिणीथः ।
+> अथा युवामिदह्वयत्पुरन्धिरागच्छतं सीं वृषणाववोभिः ॥ १९ ॥
+
+> *mahī vāmūtiraśvinā mayobhūruta srāmaṃ dhiṣṇyā saṃ riṇīthaḥ |*
+> *athā yuvāmidahvayatpurandhirāgacchataṃ sīṃ vṛṣaṇāvavobhiḥ ‖ 19 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–18 complete; Ṛk 19 Saṃhitā written (printed p. 387, PDF 407). Next: printed p. 388 (PDF 408): Ṛk 19 Pada onward. Numerals on pp. 386–387 read from the page (list stops at printed p. 380); Ni. numbers `[?]`.
