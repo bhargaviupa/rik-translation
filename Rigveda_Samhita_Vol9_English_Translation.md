@@ -5377,4 +5377,90 @@ And in general: in the hot season, from the heat of the Sun, the days are made t
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–7 complete; Ṛk 8 through printed p. 223 (PDF 243): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*himena*, *ghraṃsa*; continues p. 224). Next: printed p. 224 (PDF 244). Open: numerals as read `[?]`; Ni./Ṛ. refs `[?]`; bhāṣya small type `[?]`.
+### Printed p. 224  (PDF 244; header "Maṃ. 1 A. 17 Sū. 116")  [Special Topics of Ṛk 8, continued]
+
+Skandasvāmin —
+
+> हिममित्युदकनाम । वृष्टिलक्षणेनोदकेन । यत्रासुरैः प्रक्षिप्तं तमुग्निं घ्रंसं । घृ क्षरणदीप्त्योरित्यस्यायं क्रियाशब्दो न त्वहर्नाम ॥
+
+> *himamityudakanāma | vṛṣṭilakṣaṇenodakena | yatrāsuraiḥ prakṣiptaṃ tamugniṃ ghraṃsaṃ | ghṛ kṣaraṇadīptyorityasyāyaṃ kriyāśabdo na tvaharnāma ‖*
+
+— "*Hima* is a word for water: with water in the form of rain. The fire, *ghraṃsa*, cast by the Asuras in that place: the word *ghraṃsa* is a verb-word [i.e. derived from the root *ghṛ*, which means 'to flow' and 'to shine'] and is not a name of 'day'." For the word *hima* he gives the meaning 'water' — that is, rain-water. "The ṛṣi Atri, thrown by the Asuras into the fire, was made to suffer by the fire; the word *ghraṃsa*, derived from the root *ghṛ* with the senses of 'dripping' (*kṣaraṇa*) and 'shining' (*dīpti*, brilliance), is a word expressing an action; it is not the name of day: this is the meaning."
+
+"The word *pitu* is stated among the names of food (Ni. 2-7 as read [?]). '*pituḥ — annanāma*'; '*pāteḥ vā pibater vā pyāyater vā*' (Ni. 1-?? as read [?]): the word *pitu* denotes food. Since Yāska explains that this word is derived either from the root *pā* 'to protect', or from the root *pā* with the sense 'to drink', or from the root *pyāyī* 'to increase', 'to grow' — it is explained that, by [the sentence] 'the Aśvins gave to Atri, afflicted by the fire, food and strength-giving milk etc. that make for growth', they gave food in the form of *caru* and *purodāśa* for Agni and ghee and milk, liquid and oily substances, for the sacrifice to Agni, so that [it] may increase, by causing rain — thus *pitumatīm ūrjam asmā adhattam* is explained."
+
+**ऋबीसे** — *Ṛbīse* — "*apagatatejaske apagataprakāśe pīḍāyantragṛhe*": "in the house of torture-machines, 'in the dark, without light, which has no connection with brilliance' — so Sāyaṇa. The Nirukta-writer: '*ṛbīsam bīsam ṛbīsam apagatabhāsam apahṛtabhāsam apahitabhāsam gatabhāsam vā*' (Ni. 6-36 as read [?]) — the word *ṛbīsa* is used in the sense of 'devoid of lustre (black), or full of darkness'. It denotes the earth, he says. Citing this very Ṛk, '*himenāgnim*':
+
+> हिमेनोदकेन ग्रीष्मान्ते अग्निं घ्रंसमहरवारयेथामन्वतीं चास्मा ऊर्जमधत्तमग्नये योऽयमृबीसे पृथिव्यामग्निरंतरौषधिवनस्पतिषु ।
+> तमुन्निन्यथुः सर्वगणं सर्वनामानं गणो गणाद्गुणश्च । यद्वृप्ताः ओषधय उद्यन्ति प्राणिनश्च पृथिव्यां तदश्विनो रूपं तेनैशा स्तौति ॥
+> (नि. ६-३६ [as read; the Sanskrit is small type, partly doubtful [?]])
+
+> *himenodakena grīṣmānte agniṃ ghraṃsamaharavārayethāmanvatīṃ cāsmā ūrjamadhattamagnaye yo 'yamṛbīse pṛthivyāmagniraṃtarauṣadhivanaspatiṣu |*
+> *tamunninyathuḥ sarvagaṇaṃ sarvanāmānaṃ gaṇo gaṇādguṇaśca | yadvṛptāḥ oṣadhaya udyanti prāṇinaśca pṛthivyāṃ tadaśvino rūpaṃ tenaiśā stauti ‖*
+> *(ni. 6-36 [as read; the Sanskrit is small type, partly doubtful [?]])*
+
+— the Aśvin deities, at the end of the summer season, created rain so that the heat from fire should not be a hindrance to the days, and thereby made conditions favourable for the sacrifices in which oblations pleasing to Agni may be got. Plants and trees, which ripen [by fire] from the branch, and which are in the inner part of the earth, in these, as well as in water, they make the fire (denoted by all words) manifest;
+
+### Printed p. 225  (PDF 245; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 15")
+
+[and] because they brought up the seeds in the earth, they made the herbs and creatures to be produced. 'The Aśvin deities, who have such greatness, are praised here as being in the forms that bring such effects' — thus the explanation of the sense."
+
+**सर्वगणम्** — *Sarvagaṇam* — "in the sense of *Atri* the word *sarvagaṇa* means one furnished with all organs and with sons and grandsons. In the sense of Agni: the fire, ripening, through the earthly fire, the seeds sown in the earth, makes the herbs and trees grow; as Agni devours them in the form of oblations, it is joined with the group of herbs such as rice."
+
+**स्वस्ति** — *Svasti* — "*avināśo yathā bhavati tathā*": "Sāyaṇa explains it as an adverbial qualifier of the action: 'so that there is no destruction — so that in an excellent way, equal, without any calamity'. The word *svasti* is said (Ni. 3-?? as read [?]) '*svastīty avināśināma asti rabhisūjyate su asti*'; 'the meaning is "not liable to destruction". In this word the two words *su* + *asti* are combined, and *asti* is in the sense of "worship"' — so the Nirukta-writer explains. This word is used in this same meaning in many places —
+
+> स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥
+> (ऋ. सं. १-१-९ [as read])
+
+> *sa naḥ piteva sūnave 'gne sūpāyano bhava | sacasvā naḥ svastaye ‖*
+> *(ṛ. saṃ. 1-1-9 [as read])*
+
+— here *svastaye* means 'for our welfare'. And *pathyā svastiḥ panthā āntarikṣaṃ tannivāsāt* (Ni. 11-?? as read [?]), stating the word *svasti* —
+
+> स्वस्तिरिद्धि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेति ।
+> सा नो अमा सो अरणे नि पातु स्वावेशा भवतु देवगोपा ॥
+> (ऋ. सं. १०-६३-१६ [as read])
+
+> *svastiriddhi prapathe śreṣṭhā rekṇasvatyabhi yā vāmameti |*
+> *sā no amā so araṇe ni pātu svāveśā bhavatu devagopā ‖*
+> *(ṛ. saṃ. 10-63-16 [as read])*
+
+he cites this Ṛk, and
+
+> स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती … धनवत्यभ्येति यो वसूनि वनवीयानि सा … देवीगोप्री देवान् गोपायिष्यति देवा एनां गोपायन्तीति वा ॥
+> (नि. ११-४१ [as read; small type, partly doubtful [?]])
+
+> *svastireva hi prapathe śreṣṭhā rekṇasvatī … dhanavatyabhyeti yo vasūni vanavīyāni sā … devīgoprī devān gopāyiṣyati devā enāṃ gopāyantīti vā ‖*
+> *(ni. 11-41 [as read; small type, partly doubtful [?]])*
+
+### Printed p. 226  (PDF 246; header "Maṃ. 1 A. 17 Sū. 116")
+
+— explaining the greatness of *svasti*: '*svasti* is that which is in the atmosphere; more praiseworthy than all deities; possessing wealth; bestowing water. May she give protection to those who dwell in the forest and in the house, both outside and inside the house; may this shining goddess protect the deities, and the deities protect her; or may she protect us who offer oblations; or may the rays in the heavenly region protect her' — so he explains.
+
+"Skandasvāmin —
+
+> स्वस्ति अन्तर्णीतमत्वर्थोऽत्र स्वस्तिशब्दः । स्वस्तिमतं अविनष्टं जीवन्तमित्यर्थः ॥
+
+> *svasti antarṇītamatvartho 'tra svastiśabdaḥ | svastimataṃ avinaṣṭaṃ jīvantamityarthaḥ ‖*
+
+— since the word *svasti* is used here in the sense of 'impelling' (*preraṇa*), the sense is that, as though [he were] a living thing, the Aśvin deities protected the ṛṣi Atri; thus Kutsa too speaks:
+
+> याभिः कुत्सं श्रुतर्यं नर्यमावतं [?] … [as printed:]
+> याभिः शुचन्तिं धनसां सुषंसदं तप्तं घर्ममोम्यावन्तमत्रये ।
+> याभिः पृश्निगुं पुरुकुत्समावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-१६ [as read])
+
+> *yābhiḥ kutsaṃ śrutaryaṃ naryamāvataṃ [?] … [as printed:]*
+> *yābhiḥ śucantiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvantamatraye |*
+> *yābhiḥ pṛśniguṃ purukutsamāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-16 [as read])*
+
+— he cites this Ṛk."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly)**
+
+*agnim* (*agi* "to go"; *aṅgeḥ nalopaś ca*, Uṇ. 4-?? as read [?], the suffix *ni*; since it is *it*, the *num* augment, then its elision; the accent from the suffix on the last syllable); *avārayethām* (*vṛñ* "to cover, to ward off"; *prayojakavyāpāre* — *hetumati ca*, Pā. 3-1-26 as read [?], *ṇic*; *aco ñṇiti*, Pā. 7-2-115 as read [?], *vṛddhi* of the root's *ṛ* because of the *ṇic*; after the *ṇyanta*, *laṅ* 2nd dual *āthām*; *śap*; guṇa of the *ṇic*; *ay*; *āto ṅitaḥ*, Pā. 7-2-81 as read [?], *iya* for the *ā* of *āthām*; the augment *aṭ*; nighāta); *pitumatīm* (*pituḥ asyāsti iti pitumatī* — *pitu* means food; *tad asyāsty asmin*, Pā. 5-2-94 as read [?], *matup*; in the feminine *ugitaś ca*, Pā. 4-1-6 as read [?], *ṅīp*; *hrasvanuḍbhyāṃ matup*, Pā. 6-1-176 as read [?], *matup* takes *udātta*).
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–7 complete; Ṛk 8 through printed p. 226 (PDF 246): Special Topics (*himena* Skandasvāmin, *ṛbīse*, *sarvagaṇam*, *svasti*) concluded and grammar page begun (continues p. 227). Next: printed p. 227 (PDF 247). Open: Nirukta/Ṛ. numerals as read `[?]`; Sanskrit passages in small type `[?]`.
