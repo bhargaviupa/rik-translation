@@ -13446,4 +13446,88 @@ Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–6 complete; Ṛk 7 through printed p. 569 (PDF 589): all parts except the end of its grammar (continues p. 570). Next: printed p. 570 (PDF 590). Eight Ṛks (8–15) remain after Ṛk 7. Numerals as read: Mahābhāṣya ref 8-2-20-1 `[as read]`, sūtra numbers `[as read]`.
+### Printed p. 570  (PDF 590; header "Maṃ. 1 A. 18 Sū. 121")
+
+*Grammar of Ṛk 7, concluded (noted briefly):* *rodhanā* (*rudhir āvaraṇe*, *lyuṭ ca*, Pā. 3-3-115; *yuvoranākau*, Pā. 7-1-1; neuter plural, *śer lopaḥ* by Pā. 6-1-70 as read) · *prabhāsi* (*bhā dīptau*, *laṭ*, *sip*; no *nighāta* because *yat* is connected) · *anarviśe* (*anasā viśati prāpnoti iti anarviṭ*; *viśa praveśane*, *kvip ca*, Pā. 3-2-76; *aharādīnāṃ patyādiṣūpasaṅkhyānam*, the *s* of *anas* becomes *r*; or *ṛ gatau*, *vic* in the passive; *na arviṭ*; *tatpuruṣe tulyārthatṛtīyā…*, Pā. 6-2-2, the *avyaya* former member keeps its accent; no *avagraha* in the Pada because the derivation is not clear) · *paśviṣe* (*iṣa gatau*, with the causative included; *kvip ca*; the *kṛdanta* hind-part keeps its natural accent) — sūtra numbers as read. ‖ 7 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.8)**
+
+> अष्टा महो दिव आदो हरी इह द्युम्नासाहमभि योधान उत्सम् ।
+> हरिं यत्ते मन्दिनं दुक्षन्वृधे गोरभसमद्रिभिर्वातापयम् ॥ ८ ॥
+
+> *aṣṭā maho diva ādo harī iha dyumnāsāhamabhi yodhāna utsam |*
+> *hariṃ yatte mandinaṃ dukṣanvṛdhe gorabhasamadribhirvātāpayam ‖ 8 ‖*
+
+---
+
+### Printed p. 571  (PDF 591; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.8)**
+
+> अष्टा । महः । दिवः । आदः । हरी इति । इह । द्युम्नऽसहम् ।
+> अभि । योधानः । उत्सम् ।
+> हरिम् । यत् । ते । मन्दिनम् । दुक्षन् । वृधे । गोऽरभसम् ।
+> अद्रिऽभिः । वातऽआप्यम् ॥ ८ ॥
+
+> *aṣṭā | mahaḥ | divaḥ | ādaḥ | harī iti | iha | dyumna 'saham |*
+> *abhi | yodhānaḥ | utsam |*
+> *harim | yat | te | mandinam | dukṣan | vṛdhe | go 'rabhasam |*
+> *adri 'bhiḥ | vāta 'āpyam ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.8)** *(small type; read with some doubts)*
+
+> हे इन्द्र महो महतो दिवो मदकरस्य सोमस्याष्टा भोक्तारौ पातारौ हरी स्वकीयावश्वाविहास्मिन्कर्मण्यादः । पीतशेषं सोमं पाययेत्यर्थः । तथा द्युम्नासाहं द्युम्नस्यास्मदीयस्य धनस्याभिभवितारमुत्सं सोतारं [?] क्षयितारं शत्रुं योधानो योधनशीलस्त्वमभि भव । यद्यदा ते तव वृधे वर्धनाय हरिं मनोहरं मन्दिनं मदकरं गोरभसं । अत्र गोशब्दः पयसि वर्तते । पयो बलं । तद्वेगवन्तं । वीर्यवन्तमित्यर्थः । वाताप्यं वातेन प्राप्तव्यम् । वाततुल्यवेगशीघ्रकारिणा त्वया पातव्यमित्यर्थः । एवंविधं सोममद्रिभिर्ग्रावभिर्दुक्षन् दुहन्ति ऋत्विजोऽभिषुण्वन्ति तदानीमाद इति पूर्वत्र संबन्धः ॥ अष्टा । अश भोजने तृच् । आगमानुशासनस्यानित्यत्वादिडभावः । दुक्षन् । पदकालीनो भप्‍ [?] … [as read]
+
+> *he indra maho mahato divo madakarasya somasyāṣṭā bhoktārau pātārau harī svakīyāvaśvāvihāsminkarmaṇyādaḥ | pītaśeṣaṃ somaṃ pāyayetyarthaḥ | tathā dyumnāsāhaṃ dyumnasyāsmadīyasya dhanasyābhibhavitāramutsaṃ sotāraṃ [?] kṣayitāraṃ śatruṃ yodhāno yodhanaśīlastvamabhi bhava | yadyadā te tava vṛdhe vardhanāya hariṃ manoharaṃ mandinaṃ madakaraṃ gorabhasaṃ | atra gośabdaḥ payasi vartate | payo balaṃ | tadvegavantaṃ | vīryavantamityarthaḥ | vātāpyaṃ vātena prāptavyam | vātatulyavegaśīghrakāriṇā tvayā pātavyamityarthaḥ | evaṃvidhaṃ somamadribhirgrāvabhirdukṣan duhanti ṛtvijo 'bhiṣuṇvanti tadānīmāda iti pūrvatra saṃbandhaḥ ‖ aṣṭā | aśa bhojane tṛc | āgamānuśāsanasyānityatvādiḍabhāvaḥ | dukṣan | padakālīno bhap [?] … [as read]*
+
+*Sense (mine):* "O Indra, *ādaḥ* — [please] make *hari* — your two own horses, the *aṣṭā* — the partakers, drinkers — *maho divaḥ* — of the great *div*, i.e. of the exhilarating soma — drink here (*iha*), in this rite, [the soma that remains after drinking]; and you, *yodhānaḥ* — one who delights to fight — overcome (*abhi bhava*) the enemy *utsam* — the destroyer who is *dyumnāsāham* — the overpowerer of our wealth. *Yat* — when for your increase (*vṛdhe*) the priests milk (*dukṣan*) with the stones the soma — *harim* — delightful, *mandinam* — exhilarating, *gorabhasam* — (*go* here means milk; milk is strength), possessing the vigour of milk, *vātāpyam* — to be reached by the wind — to be drunk by you who are as swift as the wind."
+
+---
+
+### Printed p. 572  (PDF 592; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.8)** (Kannada, rendered)
+
+*Yat* — when; *te* — your; *vṛdhe* — for increase; *hariṃ* — delightful; *mandinam* — exhilarating; *gorabhasam* — strengthening like milk; *vātāpyam* — fit to be drunk by you, swift as wind; *adribhiḥ* — with stones; *dukṣan* — the priests milk out; *(tadā)* — then; *(he indra)* — O Indra; *maho divaḥ* — of the great (excellent, exhilarating) [soma]; *aṣṭā* — drinking; *hari* — your two horses; *iha* — in this rite; *ādaḥ* — [make them] drink (the remaining soma); *(tathā)* — likewise; *dyumnāsāham* — one who carries off our wealth; *utsam* — the enemy; *yodhānaḥ* — you, the warrior; *abhi (bhava)* — overpower.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.8)** (Kannada, rendered)
+
+"O Indra! For your increase the priests prepare, with stones, the soma-juice — delightful, exhilarating, strengthening like milk, fit to be drunk by you who are swift as wind; make your horses drink such excellent and exhilarating soma (the remaining part of your drinking); and you, the warrior, overpower our enemy who plunders our wealth."
+
+**English Translation (as printed)** *(page head "Englih" — sic)*
+
+"Send hither your horses, the quaffers of the exhilarating libation; overcome, warrior, the adversary plundering us of our treasure; when they express with stones, for the increase (of your strength), the delightful, exhilarating, invigorating (juice), to be overtaken by you who are swifter than the wind."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 8)**
+
+*Hari* — *svakīyau aśvau*: "*hari indrasya* (Ni. 1-?? [as read]) — because the horses of Indra's chariot are famous by the name *hari*, Indra, having drunk, prays that the remaining soma be given to his horses."
+
+*Dyumnāsāham* — *dyumnasya asmadīyasya dhanasya abhibhavitāram*: "The word *dyumna* is stated among the twenty-eight names of wealth, *magha*, *rekṇas* and so on (Ni. 2-?? [as read]). It is described that Indra should restrain him who destroys our wealth."
+
+*Utsam* — *utsrāvayitāram*: "The word *utsa* is stated among the names of a well (Ni. 3-?? [as read]): *utsaḥ utsaraṇāt vā utsadanāt vā utsyandanāt vā unatter vā* (Ni. 10-?? [as read]) — this word is formed either from the root *sad* with the sense of going, or from the root *sad* with the sense of 'ending (destroying)', or from the root *syand* with the sense of 'flowing', or from *undī* with the sense of 'wetting'. By this, [it is said] that Indra should destroy those who plunder our wealth."
+
+---
+
+### Printed p. 573  (PDF 593; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Vātāpyam* — *vātena prāptavyaṃ vātatulyavegaśīghrakāriṇā tvayā pātavyam*: "'to be drunk by you who are swift as wind' — Sāyaṇa explains that the soma prepared by the priests is for Indra's drinking. Skandasvāmin explains the meaning of this Ṛk differently:
+
+> महः महतः द्युलोकस्य अष्टा व्याप्ता हरी हरिभ्याम् उत्सं मेघं अभियोधानः द्युम्नासाहं द्युम्नमन्नं मांसमण्डादि यद्यत्त्वत्पृत्वेनाभिमतं तत्सर्वं विवाभिभवति । आदः अभक्षयः ।
+
+> *mahaḥ mahataḥ dyulokasya aṣṭā vyāptā harī haribhyām utsaṃ meghaṃ abhiyodhānaḥ dyumnāsāhaṃ dyumnamannaṃ māṃsamaṇḍādi yadyattvatpṛtvenābhimataṃ tatsarvaṃ vivābhibhavati | ādaḥ abhakṣayaḥ |*
+
+— 'Indra pervades the heavenly world and mid-air; he consumes the oblations pleasing in our sacrifice — meat, cooked rice etc.; he, fighting with his horses the gathering of clouds, causes rain.' And:
+
+> गोरभसं गावः स्तुतयः आपो वा । रभस इति महन्नाम । गावो रभयोत्त्रो [?] यस्य स गोरभसः गोभिर्वा महत्कृत इत्यर्थः । वातापयं उदकरूपं अथवा वातं प्राणं तस्य आप्यायितारं प्राणकरं ।
+
+> *gorabhasaṃ gāvaḥ stutayaḥ āpo vā | rabhasa iti mahannāma | gāvo rabhayottro [?] yasya sa gorabhasaḥ gobhirvā mahatkṛta ityarthaḥ | vātāpayaṃ udakarūpaṃ athavā vātaṃ prāṇaṃ tasya āpyāyitāraṃ prāṇakaraṃ |*
+
+— '*gorabhasa* — *go* is praise or water; *rabhasa* is a name for great (Ni. 3-?? [as read]): the soma, which has been made great by oblations and by praises, or by the waters; *vātāpya* — water-formed; or, one who strengthens breath, the life: [the soma] that makes breath strong; or [the oblation] in the form of water that is beneficial to life' — so he explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly)**
+
+*Aṣṭā* (*aśa bhojane*; suffix *tṛc*; no *iṭ* by *āgamānuśāsanam anityam*; *vraścabhrasja…*, Pā. 8-2-36, *ṣatva*, *ṣṭutva*; dual; final acute from *nit*) · *mahaḥ* (*mahataḥ*, loss of *t*) · *divaḥ* (*ūḍidaṃpadādi*, Pā. 6-1-171, acute on the case ending) · *dyumnāsāham* (*saha abhibhave*; *dhātvādeḥ ṣaḥ saḥ*, Pā. 6-1-64; suffix *ṇvi*; *upadhāvṛddhi*; lengthening of the former member by *anyeṣām api dṛśyate*, Pā. 6-3-137; the *kṛdanta* hind-part keeps its natural accent) — sūtra numbers as read.
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–7 complete; Ṛk 8 through printed p. 573 (PDF 593): all parts except the end of its grammar (continues p. 574). Next: printed p. 574 (PDF 594). Seven Ṛks (9–15) remain after Ṛk 8. Numerals as read: Ni. numbers `[as read]`, sūtra numbers `[as read]`.
