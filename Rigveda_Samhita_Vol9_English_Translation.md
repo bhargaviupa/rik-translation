@@ -9063,4 +9063,50 @@ The Nirukta author, explaining *pathyā svastiḥ*:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–15 complete; Ṛk 16 through printed p. 377 (PDF 397): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 378). Next: printed p. 378 (PDF 398). Numerals: Ni. 5-21 per list; Ṛ. 1-116-14 per image.
+### Printed p. 378  (PDF 398; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 16, continued)*
+
+> परिविष्टं जाहुषं विश्वतः सीं सुगेभिर्नक्तमूहथू रजोभिः ।
+> विभिष्ट्वा नासत्या रथेन वि पर्वताँ अजरयू अयातम् ॥
+> (ऋ. सं. १-११६-२०)
+
+> *pariviṣṭaṃ jāhuṣaṃ viśvataḥ sīṃ sugebhirnaktamūhathū rajobhiḥ |*
+> *vibhiṣṭvā nāsatyā rathena vi parvatā~ ajarayū ayātam ‖*
+> *(ṛ. saṃ. 1-116-20)*
+
+"In this Ṛk, too, the matter of the protection of King Jāhuṣa is stated."
+
+"From the words '*vṛkasya āsno vāṃ vartikām amuñcatam*', [Sāyaṇa], seeing that Uṣas had become subject to the sun's disc, explains: 'since the Aśvins freed her from it' — i.e. in the early morning, because the Sun's rising is to occur, they placed Uṣas in the last part of the night, before the Sun's rising; and interpreting so, [Sāyaṇa] says '*sūryeṇa ekībhūtām uṣasaṃ pṛthakkṛtya udayāt pūrvaṃ rātrer aparabhāge sthāpitavantau*'. He quotes the Nirukta passage in which Yāska expresses this view — *tathā ca yāskaḥ*:
+
+> आदित्योऽपि वृक उच्यते यदावृङ्क्ते [?] ।
+> अह्नयदुषा [?] अश्विना आदित्येनाभिग्रस्ता तामश्विना प्रमुमुचतुरित्याख्यानम् ॥
+> (नि. ५-२१)
+
+> *ādityo 'pi vṛka ucyate yadāvṛṅkte [?] |*
+> *ahnayaduṣā [?] aśvinā ādityenābhigrastā tāmaśvinā pramumucaturityākhyānam ‖*
+> *(ni. 5-21)*
+
+[Sāyaṇa says] "*vivṛtajyotiṣkaḥ sūryaḥ ucyate | vartate pratidivasam āvartate iti vartikā uṣāḥ*" — for the words *vṛka* and *vartikā*, he gives the meanings 'Uṣas' and 'the Sun'. In this exposition the freeing of a woman who had been seized by force is held praiseworthy. The Nirukta author also says that Uṣas, the woman, seized by the Sun, called the Aśvins and prayed to them. And for the sentence *viṣvāco ... jātam ahatam yayathuḥ* he gives another meaning: 'the Aśvins, on their victorious chariot, went to the high place where the cloud is, and by pouring the cloud's rain with water saved all beings.'"
+
+*Viṣvācaḥ* — *viṣu nānā abhimukhyena añcati*: "[the one] who moves in many contrary directions (towards [different] beings)". Skandasvāmin explains this same meaning of *viṣvāk*, and quotes:
+
+> याभिर्वर्तिकां ग्रसितामुमुञ्चतं ताभिरू षु ऊतिभिरश्विनागतम् ॥
+> (ऋ. सं. १-११२-८)
+
+> *yābhirvartikāṃ grasitāmumuñcataṃ tābhirū ṣu ūtibhiraśvināgatam ‖*
+> *(ṛ. saṃ. 1-112-8)*
+
+— "quoting also this half-Ṛk."
+
+---
+
+### Printed p. 379  (PDF 399; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 16; grammar page, noted briefly; sūtra numbers from the numeral list)**
+
+*Ajohavīt* — root *hvej spardhāyāṃ śabde ca*; after the *yaṅluganta*, *laṅ*, third person singular, suffix *tip*; *iteś ca*, elision of *ī*; *yaṅo vā* (Pā. 7-3-94 [list]), the augment *īṭ*; *abhyastasya ca* (Pā. 6-1-33 [list]), *saṃprasāraṇa* before the doubling; then doubling, *cutva* for the reduplicative syllable, *guṇa*; the augment *aṭ*; since it is *udātta*, the initial acute; because it is at the beginning of a pāda, *nighāta* does not occur. *Āsnaḥ* — the word *āsya*; ablative singular following, *pad-dan-no-māsa…* (Pā. 6-1-63 [list]), *āsan* substituted for the base; since it has the name *bha*, *alloponaḥ* (Pā. 6-4-134 [list]), elision of the *a* of *an*; the form *āsnaḥ*; *ūḍidaṃpadādyappumraidyubhyaḥ…* (Pā. 6-1-171 [list]), the acute on the case ending. *Amuñcatam* — root *mucḷ mokṣaṇe*; *laṅ*, second person dual; since it is connected with *yat* [a particle], no *nighāta*; the augment *aṭ* is *udātta*, so the initial acute. *Jayuṣā* — root *ji jaye*; the *auṇādika* suffix *usi*; *guṇa* of the *i* on account of the suffix; *ay* substituted; *ādeśapratyayayoḥ* (Pā. 8-3-59), *ṣatva* of the *s* of the suffix; by the suffix's accent the *u* is acute; instrumental singular. *Yeyathuḥ* [read as *yayathuḥ*] — root *yā prāpaṇe*; *liṭ*, second person dual; after an *ajanta*, *nighāta*. *Jātam* — root *janī prādurbhāve*; *niṣṭhā* (Pā. 3-2-102 [the list reads 103 here]), suffix *kta*; *janasanakhanāṃ sanjhaloḥ* (Pā. 6-4-42 [list]), *ā* for the root-vowel; by the suffix's accent the final acute. *Viṣvācaḥ* — *viṣu nānā abhimukhyena añcati iti vigrahaḥ*; *ṛtvigdadhṛk…* (Pā. 3-2-59 [list]), when a *subanta* is the *upapada*, the suffix *kvin* for the root *añcu gatipūjanayoḥ*; *acaḥ* (Pā. 6-4-138 [list]), since it has the name *bha*, elision of the *a* of the root; *cau* (Pā. 6-3-138 [list]), lengthening of the preceding; the case ending being *anudātta* and the root's *a* having been elided, *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161 [list]), the acute for the case ending is attained; *cau* (Pā. 6-1-222 [list]), the acute on the preceding [syllable] …
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–15 complete; Ṛk 16 through printed p. 379 (PDF 399): Special Topics done, grammar begun (continues p. 380). Next: printed p. 380 (PDF 400). Numerals taken from the list (Ṛ. 1-116-20; Ni. 5-21; Pā. 7-3-94, 6-1-33, 6-1-63, 6-4-134, 6-1-171, 6-4-42, 3-2-59, 6-4-138, 6-3-138, 6-1-161, 6-1-222); Ṛ. 1-112-8 per image. The list reads niṣṭhā as 3-2-103 here and 3-2-102 on p. 363: flagged.
