@@ -964,4 +964,104 @@ Grammar page on *jihmaśye* (*śīṅ* "to lie"; *jihmaṃ śete* → *jihmaśī
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–5 complete; Ṛk 6 Saṃhitā, Pada, bhāṣya done (printed pp. 31–32, PDF 51–52). Next: printed p. 33 (PDF 53) — Ṛk 6 pratipadārtha, bhāvārtha, English, Special Topics. Open: Pā./Phiṭ numerals `[?]`.
+### Printed p. 33  (PDF 53; header "Aṣṭaka 1, Adhyāya 8, Varga 1"; footer signature mark "IX 3")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*tvam* — one man; *kṣatrāya* — for wealth; *tvam* — another; *śravase* — for food; *tvam* — another; *mahīyai* — for great (such as the Agniṣṭoma); *iṣṭaye* — for sacrifices; *tvam* — another; *arthamiva* — [turning] towards the desired object; *ityai* — for going out; *visadṛśā* — of various kinds; *jīvitā* — the efforts; *abhipracakṣe* — for making them shine well (inciting); *uṣāḥ* — Uṣas; *viśvā bhuvanāni* — the whole world (covered by darkness); *ajīgaḥ* — again makes manifest."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Uṣas, inciting people to take up their various efforts for the sake of wealth, food, sacrifices and other desired objects, and their means, makes the whole world (which, covered with darkness, was nearly lost) manifest."
+
+**English Translation (as printed)**
+
+> The dawn rouses one man to acquire wealth, another to earn food, another to achieve greatness, another to sacrifices, another to his own (persuits [sic]), another to activity, and lights all men to their various means of maintaining life. Ushas has given back all the regions.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**क्षत्राय** — *Kṣatrāya.* "Because *magham*, *reknaḥ* … are stated among the names of wealth (Ni. 2-10 as read [?]), the word *kṣatra* denotes wealth: 'in order to obtain wealth' is the sense."
+
+**श्रवसे** — *Śravase.* "The word *śravas* is stated among the names of wealth (Ni. 2-10 as read [?]), so it denotes wealth. This word is used also in the meaning 'fame' or 'glory' (*kīrti*), and in the meaning 'food' (*anna*).
+
+> प्र वो महे मन्दमानायान्धसोऽर्चा विश्वानराय विश्वाभुवे ।
+> इन्द्रस्य यस्य सुमखं सहो महि श्रवो नृम्णं च रोदसी सपर्यतः ॥
+> (ऋ. सं. १०-५०-१ [as read])
+
+> *pra vo mahe mandamānāyāndhaso 'rcā viśvānarāya viśvābhuve |*
+> *indrasya yasya sumakhaṃ saho mahi śravo nṛmṇaṃ ca rodasī saparyataḥ ‖*
+> *(ṛ. saṃ. 10-50-1 [as read])*
+
+### Printed p. 34  (PDF 54; header "Maṃ. 1 A. 16 Sū. 113")
+
+— in this Ṛk, "*mahac chravaṇīyaṃ yaśaḥ*" (Ni. 11-10 as read [?]): the word *śravas* denotes fame.
+
+> अमन्दान्स्तोमान्प्र भरे मनीषा सिन्धावधि क्षियतो भाव्यस्य ।
+> यो मे सहस्रममिमीत सवानतूर्तो राजा श्रव इच्छमानः ॥
+> (ऋ. सं. १-१२६-१ [as read])
+
+> *amandānstomānpra bhare manīṣā sindhāvadhi kṣiyato bhāvyasya |*
+> *yo me sahasramamimīta savānatūrto rājā śrava icchamānaḥ ‖*
+> *(ṛ. saṃ. 1-126-1 [as read])*
+
+Here also "*śravaḥ praśaṃsām icchamānaḥ*" (Ni. 9-11 as read [?]): the word *śravas* denotes fame.
+
+> उत स्मैनं वस्त्रमथिं न तायुमनु क्रोशन्ति क्षितयो भरेषु ।
+> नीचायमानं जसुरिं न श्येनं श्रवश्चाच्छा पशुमच्च यूथम् ॥
+> (ऋ. सं. ४-३८-५ [as read])
+
+> *uta smainaṃ vastramathiṃ na tāyumanu krośanti kṣitayo bhareṣu |*
+> *nīcāyamānaṃ jasuriṃ na śyenaṃ śravaścācchā paśumacca yūtham ‖*
+> *(ṛ. saṃ. 4-38-5 [as read])*
+
+Here too: "*śravaś cācchā paśumac ca yūtham* — *śravaś cāpi paśumac ca yūtham praśaṃsāṃ ca*" (Ni. 4-31 as read [?]): the word *śravas* denotes fame.
+
+> आसस्राणासः शवसानमच्छेन्द्रं सुचक्रे रथ्यासो अश्वाः ।
+> अभि श्रव ऋजुम्यन्तो वहेयुर्नू चिन्नु वायोरमृतं वि दस्येत् ॥
+> (ऋ. सं. ६-३७-३ [as read; numerals small])
+
+> *āsasrāṇāsaḥ śavasānamacchendraṃ sucakre rathyāso aśvāḥ |*
+> *abhi śrava ṛjumyanto vaheyurnū cinnu vāyoramṛtaṃ vi dasyet ‖*
+> *(ṛ. saṃ. 6-37-3 [as read; numerals small])*
+
+Here "*śrava ity annanāma śrūyata iti sataḥ vāyoḥ śāstraṃ bhakṣako na vidasyed iti*" (Ni. 10-6 as read [?]): the word *śravas* has the meaning "food". "From these examples there are many meanings for the word *śravas*; Sāyaṇa explained the meaning 'for the sake of food'."
+
+**विसदृशा** — *Visadṛśā* — "*vigatasādṛśyāni*, *vilakṣaṇāni nānārūpāṇi*" (devoid of likeness, unlike, of many forms): "As soon as Uṣas-time comes, the one who earns wealth, the one who labours for food, the one who performs great sacrifices, the one who aspires to accomplish desires of many kinds, and the one who achieves the means of livelihood — in all of these, enthusiasm and knowledge arise. This is by Uṣas's power: she awakens all the worlds. When morning comes and it is light, people become engaged in the various works of each. All of this is the power of Uṣas — such is the intention."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly)**
+
+Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accent on the final syllable by Phiṭ-sūtra 1 "*phiṣo 'nta udāttaḥ*"), *tvam* (the stem *yuṣmad*, *am* for *su*; *tva* substituted [for the whole of *tvam*]; elision by *śeṣe lopaḥ*; wholly unaccented by Phiṭ 4-10 "*tva sama sima…*" as read [?]). *(Continues on the next page.)*
+
+---
+
+### Printed p. 35  (PDF 55; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [as printed, small numeral])
+
+*Grammar page of Ṛk 6, continued (noted briefly):* *śravase* (*śru* "to hear"; the suffix *asun*; guṇa of *u*; *av*; dative singular); *mahīyai* (the form to be *mahyai*: *mah* "to honour"; the suffix *iṅ*(?) added to all roots — Uṇ. sūtra, number as read "4-???" [?]; giving the stem *mahī*; in the feminine, with *ṅīṣ* by *kṛdikārād aktinaḥ* [as printed]; the *āṭ* augment before the dative ending; *vṛddhi*; Vedic insertion of *ī*; the *yaṇ* substitution with the accent on the ending by *udāttayaṇo hal-pūrvāt*; or, with the ending after *mahī* changed by *vyatyayo bahulam* and *yāḍ-āpaḥ*, with the Vedic final-accent); *artham* (*ṛ* "to go", the suffix *thak*[?]; guṇa; *raparatva*; accent on the first syllable since the suffix is *pit*; accusative singular); *ityai* (*iṇ* "to go", adādi; *ktin* in the feminine and the abstract sense by *striyāṃ ktin*; final accent by *vyatyaya*; or *ktic*; as before the ending's accent by *udāttayaṇo hal-pūrvāt*); *visadṛśā* (*dṛś* in the *tṛdādi* group takes *kañ* by the Vārttika; with *samāna* in the first member by *samānasya chandasy amūrdha…*; the neuter plural *śi* replaced by *ā* by *śeś chandasi bahulam*; *bahuvrīhi* — first-member accent; "in the same way *jīvitāni* becomes *jīvitā*").
+
+### Printed p. 36  (PDF 56; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *abhipracakṣe* (*abhi*; *cakṣiṅ* "to speak clearly", a root with several senses, here used in the sense of "to shine"; the infinitive in *se* by *tumarthe sesen…*; elision of *k* by *skoḥ saṃyogādyor ante ca*; *ṣatva* by *ṣaḍhoḥ kaḥ si*; the *ṣa* from the suffix by the change of *s*; indeclinable by *kṛn mejantaḥ*). ‖ 6 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 7
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.7)**
+
+> एषा दिवो दुहिता प्रत्यदर्शि व्युच्छन्ती युवतिः शुक्रवासाः ।
+> विश्वस्येशाना पार्थिवस्य वस्व उषो अद्येह सुभगे व्युच्छ ॥ ७ ॥
+
+> *eṣā divo duhitā pratyadarśi vyucchantī yuvatiḥ śukravāsāḥ |*
+> *viśvasyeśānā pārthivasya vasva uṣo adyeha subhage vyuccha ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.7)**
+
+> एषा । दिवः । दुहिता । प्रति । अदर्शि । विऽउच्छन्ती । युवतिः । शुक्रऽवासाः ।
+> विश्वस्य । ईशाना । पार्थिवस्य । वस्वः । उषः । अद्य । इह । सुऽभगे । वि । उच्छ ॥ ७ ॥
+
+> *eṣā | divaḥ | duhitā | prati | adarśi | vi 'ucchantī | yuvatiḥ | śukra 'vāsāḥ |*
+> *viśvasya | īśānā | pārthivasya | vasvaḥ | uṣaḥ | adya | iha | su 'bhage | vi | uccha ‖ 7 ‖*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–6 complete (through printed p. 36, PDF 56); Ṛk 7 Saṃhitā and Pada written. Next: printed p. 37 (PDF 57) — Ṛk 7 bhāṣya etc. Open: Uṇ./Pā. numerals unnamed; ōnly small numerals in header varga "3" `[?]`.
