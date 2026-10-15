@@ -9381,4 +9381,64 @@ In explaining this Ṛk, Sāyaṇa quotes:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–19 complete (printed p. 391, PDF 411). Next: printed p. 392 (PDF 412): Ṛk 20 Saṃhitā. Numerals as read from the page (list stops at printed p. 380): Vāj. Saṃ. 13-3, 30-10; Ṛ. 1-116-7, 1-116-13; grammar sūtra numbers `[as read]`.
+### Printed p. 392  (PDF 412; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.20)**
+
+> अधेनुं दस्रा स्तर्यं विषक्तामपिन्वतं शयवे अश्विना गाम् ।
+> युवं शचीभिर्विमदाय जायां न्यूहथुः पुरुमित्रस्य योषाम् ॥ २० ॥
+
+> *adhenuṃ dasrā staryaṃ viṣaktāmapinvataṃ śayave aśvinā gām |*
+> *yuvaṃ śacībhirvimadāya jāyāṃ nyūhathuḥ purumitrasya yoṣām ‖ 20 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.20)**
+
+> अधेनुम् । दस्रा । स्तर्यम् । विऽसक्ताम् । अपिन्वतम् । शयवे ।
+> अश्विना । गाम् ।
+> युवम् । शचीभिः । विऽमदाय । जायाम् । नि । ऊहथुः ।
+> पुरुऽमित्रस्य । योषाम् ॥ २० ॥
+
+> *adhenum | dasrā | staryam | vi 'saktām | apinvatam | śayave |*
+> *aśvinā | gām |*
+> *yuvam | śacībhiḥ | vi 'madāya | jāyām | ni | ūhathuḥ |*
+> *puru 'mitrasya | yoṣām ‖ 20 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.20)** *(small type; read with several doubts)*
+
+> हे दस्रा दर्शनीयावश्विनौ विषक्तां विशेषेण सक्ताव यवां [?] कृशावयवामित्यर्थः । अके [?] इव स्तर्यं निवृत्तप्रसवां अधेनुमदोग्ध्रीं [?] एवंभूतां गां शयव एतत्संज्ञायर्षये पिन्वतम् । पयसा पूरयतम् । अपि च पुरुमित्रस्य पुरुमित्रो नाम कश्चिद्राजा । तस्य योषां कुमारीं शचीभिरात्मीयैः कर्मभिर्विमदायैतत्संज्ञायर्षये शत्रुभिः सह योद्धुमशक्ताय युवं न्यूहथुः । विमदस्य गृहं प्रापितवन्तौ ॥ [the grammar tail follows: *staryam* (*stṛñ ācchādane*, …, *īkāra*), *viṣaktām* (*ṣañja saṅge*, *karmaṇi niṣṭhā*, *udāttasvaritayor yaṇaḥ svaritaḥ…*, *nalopaḥ*), *apinvatam* (*pivi secane*, *bhvādi*, *īditaḥ*), *purumitrasya* (*puruṇi mitrāṇi yasya*; *saṃjñāyāṃ mitrājinayoḥ*, Pā. 6-2-165 [as read]), *bahuvrīhau pūrvapadāntodāttatvam* — characterized, not transcribed]
+
+> *he dasrā darśanīyāvaśvinau viṣaktāṃ viśeṣeṇa saktāva yavāṃ [?] kṛśāvayavāmityarthaḥ | ake [?] iva staryaṃ nivṛttaprasavāṃ adhenumadogdhrīṃ [?] evaṃbhūtāṃ gāṃ śayava etatsaṃjñāyarṣaye pinvatam | payasā pūrayatam | api ca purumitrasya purumitro nāma kaścidrājā | tasya yoṣāṃ kumārīṃ śacībhirātmīyaiḥ karmabhirvimadāyaitatsaṃjñāyarṣaye śatrubhiḥ saha yoddhumaśaktāya yuvaṃ nyūhathuḥ | vimadasya gṛhaṃ prāpitavantau ‖ [the grammar tail follows: *staryam* (*stṛñ ācchādane*, …, *īkāra*), *viṣaktām* (*ṣañja saṅge*, *karmaṇi niṣṭhā*, *udāttasvaritayor yaṇaḥ svaritaḥ…*, *nalopaḥ*), *apinvatam* (*pivi secane*, *bhvādi*, *īditaḥ*), *purumitrasya* (*puruṇi mitrāṇi yasya*; *saṃjñāyāṃ mitrājinayoḥ*, Pā. 6-2-165 [as read]), *bahuvrīhau pūrvapadāntodāttatvam* — characterized, not transcribed]*
+
+*Sense (mine and tentative):* "O *dasrā*, Aśvins worth seeing: *viṣaktām* — specially attached to [?], i.e. with wasted limbs [?]; *staryam* — one that had ceased to bear young; *adhenum* — one that does not give milk, [being] not a milch cow; such a cow (*gām*), for *śayave* — the ṛṣi of that name — you filled (*apinvatam*) with milk. And: *Purumitra* is the name of a king. His *yoṣām* — his maiden daughter — by your (*śacībhiḥ*) deeds, for *vimadāya* — the ṛṣi of that name, unable to fight with enemies — you two (*yuvam*) brought (*ny ūhathuḥ*) [as wife]; you delivered her to Vimada's house."
+
+---
+
+### Printed p. 393  (PDF 413; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.20)** (Kannada, rendered)
+
+*Dasrā* — O Aśvins, of beautiful appearance; *viṣaktām* — much emaciated [?]; *staryam* — barren (not bearing); *adhenum* — not giving milk; *gām* — (a cow's) cow; *śayave* — for the ṛṣi named Śayu; *apinvatam* — you made [her] full (with milk; made her like a milch cow); *puru-mitrasya* — of the king Purumitra; *yoṣām* — the daughter; *yuvam* — you two; *śacībhiḥ* — by your deeds of strength; *vimadāya* — to the one named Vimada; *jāyām* — as wife [you made]; *ni ūhathuḥ* — you joined (to his house).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.20)** (Kannada, rendered)
+
+"O Dasras! You made the cow of Śayu — very emaciated (and therefore barren) and not giving milk — one with a full udder; and you made the daughter of the king named Purumitra, by your power, the wife of Vimada."
+
+**English Translation (as printed)**
+
+"Dasras, you filled the milkless, barren, and emaciated cow of Sayu with milk; you brought, by your powers, the daughter of Purumitra, as a wife, to Vimda [sic]."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 20)**
+
+*Viṣaktāṃ staryaṃ adhenuṃ gām apinvataṃ* — *viśeṣeṇa saktāvayavāṃ kṛśāvayavāṃ nivṛttaprasavām adogdhrīṃ gāṃ payasā apūrayatam*: "A cow belonging to the one called Śayu was very weak, with thin legs [as read: *kai-kāl*, 'hands and feet']. Because its bodily condition was not right, it had become very emaciated and bore no young and gave no milk; the Aśvins treated it so that strength came to it, and made it give plenty of milk" — so Sāyaṇa explains. Skandasvāmin explains the same way and quotes:
+
+> शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गाम् ।
+> (ऋ. सं. १-११६-२२)
+
+> *śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgām |*
+> *(ṛ. saṃ. 1-116-22)*
+
+— "he quotes this Ṛk."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–19 complete; Ṛk 20 through printed p. 393 (PDF 413): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 394). Next: printed p. 394 (PDF 414). Numerals as read (list stops at printed p. 380): Ṛ. 1-116-22.
