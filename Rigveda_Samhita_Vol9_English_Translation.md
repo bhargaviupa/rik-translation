@@ -7933,4 +7933,104 @@ cites this Ṛk. In it he gives the meaning: those who perform sacrifices or obs
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–4 complete; Ṛk 5 through printed p. 331 (PDF 351): pratipadārtha, bhāvārtha, English, Special Topics, grammar begun (continues p. 332). Next: printed p. 332 (PDF 352). Open: numerals as read `[?]`; Skandasvāmin quotations small type `[?]`.
+### Printed p. 332  (PDF 352; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar page of Ṛk 5, concluded (noted briefly):* *ūpathuḥ* (printed "*ṭuvap bījasantāne*" [?]; *bhvādi* root; *liṭ*, second person dual; *parasmaipadānām* … *athus* substituted; *vacisvapiyajādīnāṃ kiti*, Pā. 6-1-15 as read [?], *saṃprasāraṇa* of the root; doubling; *ādir halśeṣaḥ*; *savarṇadīrgha*; *nighāta* accent because it stands after an *ajanta* word); *vandanāya* (by the vārttika *kriyāgrahaṇaṃ kartavyam* the object gets the *sampradāna* name, hence the dative; root *vadi* "to salute, to praise"; *lyuṭ* suffix; *yuvoranākau*, Pā. 7-1-1 as read, *ana* substituted; *idito num dhātoḥ*, *num* added to the root; *lititi*, Pā. 6-1-193 as read, acute on the syllable before the suffix). ‖ 5 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.6)**
+
+> तद्वां नरा शंस्यं पज्रियेण कक्षीवता नासत्या परिज्मन् ।
+> शफादश्वस्य वाजिनो जनाय शतं कुम्भाँ असिञ्चतं मधूनाम् ॥ ६ ॥
+
+> *tadvāṃ narā śaṃsyaṃ pajriyeṇa kakṣīvatā nāsatyā parijman |*
+> *śaphādaśvasya vājino janāya śataṃ kumbhā~ asiñcataṃ madhūnām ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.6)**
+
+> तत् । वाम् । नरा । शंस्यम् । पज्रियेण । कक्षीवता । नासत्या ।
+> परिऽज्मन् ।
+> शफात् । अश्वस्य । वाजिनः । जनाय । शतम् । कुम्भान् । असिञ्चतम् ।
+> मधूनाम् ॥ ६ ॥
+
+> *tat | vām | narā | śaṃsyam | pajriyeṇa | kakṣīvatā | nāsatyā |*
+> *pari 'jman |*
+> *śaphāt | aśvasya | vājinaḥ | janāya | śatam | kumbhān | asiñcatam |*
+> *madhūnām ‖ 6 ‖*
+
+*(The second word is printed "*nām*" in the Pada, apparently for *vām* — [sic].)*
+
+---
+
+### Printed p. 333  (PDF 353; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.6)**
+
+> हे नरा नेतारौ नासत्यावश्विनौ परिज्मन् परिगमनेऽभीप्सस्य प्रापणे निमित्तभूते सति पज्रियेण पज्राणामङ्गिरसां कुले जातेन कक्षीवता मया वां युवयोः संबन्धि तत्कर्म शंस्यम् । प्रकर्षेण शंसनीयम् । तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । यज्ञनायोपेक्षमाणाय पुरुषाय वाजिनो वेगवतस्तदीयस्याश्वस्य शफान्निर्गतैर्मधूनां मधुभिः शतसंख्याकान्कुम्भानसिञ्चतम् । अपूरयतम् । सिञ्चतिरत्र पूरणार्थः । यदेतन्मधुना पूरणं तच्छंस्यमित्यर्थः ॥
+
+> *he narā netārau nāsatyāvaśvinau parijman parigamane 'bhīpsasya prāpaṇe nimittabhūte sati pajriyeṇa pajrāṇāmaṅgirasāṃ kule jātena kakṣīvatā mayā vāṃ yuvayoḥ saṃbandhi tatkarma śaṃsyam | prakarṣeṇa śaṃsanīyam | tacchabdaśruteryacchabdādhyāhāraḥ | yajñanāyopekṣamāṇāya puruṣāya vājino vegavatastadīyasyāśvasya śaphānnirgatairmadhūnāṃ madhubhiḥ śatasaṃkhyākānkumbhānasiñcatam | apūrayatam | siñcatiratra pūraṇārthaḥ | yadetanmadhunā pūraṇaṃ tacchaṃsyamityarthaḥ ‖*
+
+*Sense (mine):* "O leaders (*narā*), Nāsatyas, Aśvins — when *parijman*, the reaching of the desired object, is the occasion, *pajriyeṇa* — by me, Kakṣīvat, born in the family of the Pajras, the Aṅgirases — that deed of yours (*vām*) is *śaṃsya*, to be praised exceedingly. (From the word *tat* in the text, the word *yat* is to be supplied.) For the man who is waiting (*upekṣamāṇāya*, as printed; for the sacrifice [?]), you filled (*asiñcatam*, 'made full'; the root *sic* here has the sense of filling) a hundred jars with the honey (*madhūnām*) flowing from the hoof of his fleet (*vājinaḥ*) horse. That filling with honey is what is to be praised." (Printed *yajñanāyopekṣamāṇāya* — kept as printed [sic?].)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.6)** (Kannada, rendered)
+
+*narā* — O leaders (of sacrifices); *nāsatyā* — Nāsatyas; *janāya* — for the (expectant) people; *vājinaḥ aśvasya* — of your fleet horse; *śaphāt* — from the hoof (flowing out); *madhūnām* — with sweet liquor; *śataṃ kumbhān* — a hundred jars; *asiñcatam* — you filled; (*iti yat* — what is said); *vām* — of you both; *tat* — that deed [?]; *parijman* — for the sake of obtaining the desired thing; *pajriyeṇa* — born in the race of Pajra (of the Aṅgirases); *kakṣīvatā* — by Kakṣīvat (by me); *śaṃsyam* — is to be praised.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.6)** (Kannada, rendered)
+
+"O Nāsatyas, leaders of sacrifices! I, called Kakṣīvat, born in the family of Pajra (the Aṅgirases), shall praise, for the attainment of what is desired, that great deed of yours: that for the people who longed for it you filled a hundred jars with the honey that flowed from the hoof of your swift horse."
+
+**English Translation (as printed)**
+
+"That (exploit) of yours, leader (of sacrifice), is to be celebrated, Nasatyas, by Kakshivat, of the race of Pajra, when you filled for the (expectant) man a hundred vases of sweet (liquors) from the hoof of your fleet horse."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 6)**
+
+*Parijman* — *parigamane abhīpsasya prāpane nimittabhūte sati*: "When the matter that is wanted (the sought-after object) has come to hand" — so Sāyaṇa; and (the Special Topic quotes) "*sarvato gacchanti devā yatra, sa parijmā*" … (the page ends here; continues p. 334).
+
+---
+
+### Printed p. 334  (PDF 354; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(continuing)* "… *yajñaḥ*." Since the place to which all the gods must go is the place where the sacrifice is conducted, Skandasvāmin too gives the word *parijman* here the meaning "sacrifice (*yajña*)."
+
+*Pajriyeṇa* — *pajrāṇām aṅgirasāṃ kule jātena*: "*Pajra* is the name of the descendants of the Aṅgirasa ṛṣis; 'born in their line' is the sense. Skandasvāmin: '*pājaḥ annaṃ haviḥ-lakṣaṇaṃ tadvetā* [as printed; ?] *athavā pajrāḥ aṅgirasaḥ tadapatyabhūtena mayā kakṣīvatā*' — the word *pājas* means food in the form of oblation; 'one who has that', i.e. one who has prepared the oblation for the sacrifice; or the Aṅgirasa ṛṣis are the Pajras, and the one born in their line is Kakṣīvat — the ṛṣi, seer of this sūkta — thus he explains it in another way."
+
+In this Ṛk the ṛṣi Kakṣīvat, seer of this sūkta, describing the glory of the Aśvins, sets forth their generosity. That is: when in the sacrifice the *yajamāna* wished for madya (spirituous drink), the Aśvins, by their grace, produced from the hoof of the horse great numbers of jars of that very drink — thus the generosity of the Aśvins is set out by Skandasvāmin. (Printed "*Sautrā[?]ṇi*" for the sacrifice named in the opening of this paragraph: reading doubtful [?].)
+
+*Kakṣīvatā* — *mayā*: "Who is the ṛṣi of this mantra? 'By me' (*mayā*)," is Sāyaṇa's meaning. Nirukta says:
+
+> सोमानां स्वरणं कृणुहि ब्रह्मणस्पते । कक्षीवन्तं य औशिजः ।
+> (ऋ. सं. १-१८-१ [as printed])
+
+> *somānāṃ svaraṇaṃ kṛṇuhi brahmaṇaspate | kakṣīvantaṃ ya auśijaḥ |*
+> *(ṛ. saṃ. 1-18-1 [as printed])*
+
+> सोमानां सोतारं प्रकाशनवन्तं कुरु ब्रह्मणस्पते कक्षीवन्तमिव य औशिजः । कक्षीवान् कक्ष्यावान् औशिजः उशिजः पुत्रः उशिग्वष्टेः कान्तिकर्मणः अपि त्वयं मनुष्यकक्ष एवाभिप्रेतः स्यात् तं सोमानां सोतारं मां प्रकाशनवन्तं कुरु ब्रह्मणस्पते ॥ [? several words small]
+> (नि. ६-११ [as read])
+
+> *somānāṃ sotāraṃ prakāśanavantaṃ kuru brahmaṇaspate kakṣīvantamiva ya auśijaḥ | kakṣīvān kakṣyāvān auśijaḥ uśijaḥ putraḥ uśigvaṣṭeḥ kāntikarmaṇaḥ api tvayaṃ manuṣyakakṣa evābhipretaḥ syāt taṃ somānāṃ sotāraṃ māṃ prakāśanavantaṃ kuru brahmaṇaspate ‖ [? several words small]*
+> *(ni. 6-11 [as read])*
+
+*Sense (mine and tentative):* "'Make me, the presser of the soma-juices, a shining one (*prakāśanavantam*), O Brahmaṇaspati, like Kakṣīvat, the son of Uśij.' Kakṣīvat (*kakṣyāvān*) is the Auśija, the son of Uśij, from the root *vaś* 'to desire' (*kāntikarman*); [the Nirukta adds that a man of the same 'enclosure' (*kakṣa*) may be intended]; 'make me, that presser of soma, a shining one, O Brahmaṇaspati.'"
+
+Kannada: "From the root *vaś kāntau* ('to wish', *kāntir icchā*) the word *uśik* is formed. In this Ṛk, Kakṣīvat, born of the woman called Uśik, prays that Brahmaṇaspati (Soma, the king of the Brāhmaṇas) make him [one who presses the soma-juice]. From this it is understood that Kakṣīvat, as the son of the woman named Uśik, joined the company of men (the *kakṣya*) [?], performed sacrifices, and pleased the gods." *(Reading of the Kannada tail uncertain [?].)*
+
+---
+
+### Printed p. 335  (PDF 355; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly)**
+
+*śaṃsyam* (root *śaṃsu stutau*; since the agent's action of a causer is shown, *hetumati ca*, Pā. 3-1-26 as read [?], *ṇic*; after the *ṇijanta* *acoyat*, Pā. 3-1-9? [?], suffix *yat*; *ṇer aniṭi*, Pā. 6-4-51, elision of *ṇic*; *yatonāvaḥ*, Pā. 6-1-213, initial acute accent). *Pajriyeṇa* (*pajrasya ayaṃ pajriyaḥ*; suffix *ghac* in the sense "belonging to"; *āyaneyīnīyiyaḥ phaḍhakhachaghām*…, Pā. 7-1-2, *a* of the suffix elided as read; *ciṭaḥ* (Pā. 6-1-16? as read [?]) *iy* substituted; *yasyeti ca*, elision of the *a*; *ciṭaḥ*, final acute). *Kakṣīvatā* (*āsandīvadaṣṭhīvat*, Pā. 8-2-12 as read [?], is an irregular formation; third singular). *Parijman* (*śvanśnukṣan* … printed *uṇ. sū.* 1-157 [as read], formed with the suffix *kanin*, irregular; *supāṃ sulug*, Pā. ?-1-39 [?], *luk* of the locative). *Asiñcatam* (root *ṣica kṣaraṇe*; *dhātvādeḥ ṣaḥ saḥ*, Pā. 6-1-64, *s* for *ṣ*; *laṅ*, second person dual, *tam* substituted; *tudādibhyaḥ śaḥ*, Pā. 3-1-77, *śa* suffix; *śemucādīnām*, Pā. 7-1-55 as read [?], *num*; the augment *aṭ*; *nighāta* accent as it stands after an *ajanta* word). ‖ 6 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.7)**
+
+> युवं नरा स्तुवते कृष्णियाय विष्णाप्वं ददथुर्विश्वकाय ।
+> घोषायै चित्पितृषदे दुरोणे पतिं जूर्यन्त्या अश्विनावदत्तम् ॥ ७ ॥
+
+> *yuvaṃ narā stuvate kṛṣṇiyāya viṣṇāpvaṃ dadathurviśvakāya |*
+> *ghoṣāyai citpitṛṣade duroṇe patiṃ jūryantyā aśvināvadattam ‖ 7 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–6 complete; Ṛk 7 Saṃhitā written (printed p. 335, PDF 355). Next: printed p. 336 (PDF 356): Ṛk 7 Pada-pāṭha etc. Numerals of grammar pp. 332/335 checked against the reader's OCR list (PDF 350–370 CSV) and zoomed; doubtful sūtra numbers marked `[?]`. Open: Kannada tail of the Nirukta paragraph (p. 334) `[?]`.
