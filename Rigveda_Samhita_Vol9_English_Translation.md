@@ -9109,4 +9109,50 @@ The Nirukta author, explaining *pathyā svastiḥ*:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–15 complete; Ṛk 16 through printed p. 379 (PDF 399): Special Topics done, grammar begun (continues p. 380). Next: printed p. 380 (PDF 400). Numerals taken from the list (Ṛ. 1-116-20; Ni. 5-21; Pā. 7-3-94, 6-1-33, 6-1-63, 6-4-134, 6-1-171, 6-4-42, 3-2-59, 6-4-138, 6-3-138, 6-1-161, 6-1-222); Ṛ. 1-112-8 per image. The list reads niṣṭhā as 3-2-103 here and 3-2-102 on p. 363: flagged.
+### Printed p. 380  (PDF 400; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar of Ṛk 16, concluded (noted briefly):* *Ahatam* — root *han hiṃsāgatyoḥ*; *adādi*; *laṅ*, second person dual; *tasthasthamipāṃ tāṃtamtāmaḥ*, *tam* substituted; *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 [list]), *luk* for *śap*; since the suffix is *jit-* [?] [as read: "*jid-dvāva*"], *anudāttopadeśavanatitanotyādīnām* (Pā. 6-4-37 [list]), elision of the nasal *n* of the root; the augment *aṭ*; because it stands after an *ajanta*, *tiṅ atiṅaḥ* [as read], the *nighāta* accent. ‖ 16 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.17)**
+
+> शतं मेषान्वृक्ये ममहानं तमः प्रणीतमशिवेन पित्रा ।
+> आक्षी ऋज्राश्वे अश्विनावधत्तं ज्योतिरन्धाय चक्रथुर्विचक्षे ॥ १७ ॥
+
+> *śataṃ meṣānvṛkye mamahānaṃ tamaḥ praṇītamaśivena pitrā |*
+> *ākṣī ṛjrāśve aśvināvadhattaṃ jyotirandhāya cakrathurvicakṣe ‖ 17 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.17)**
+
+> शतम् । मेषान् । वृक्ये । ममहानम् । तमः । प्रऽनीतम् । अशिवेन ।
+> पित्रा ।
+> आ । अक्षी इति । ऋज्रऽअश्वे । अश्विनौ । अधत्तम् । ज्योतिः । अन्धाय ।
+> चक्रथुः । विऽचक्षे ॥ १७ ॥
+
+> *śatam | meṣān | vṛkye | mamahānam | tamaḥ | pra 'nītam | aśivena |*
+> *pitrā |*
+> *ā | akṣī iti | ṛjra 'aśve | aśvinau | adhattam | jyotiḥ | andhāya |*
+> *cakrathuḥ | vi 'cakṣe ‖ 17 ‖*
+
+---
+
+### Printed p. 381  (PDF 401; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.17)** *(small type; read with several doubts)*
+
+> शतं मेषान्वृक्ये चक्षुर्दानम् । (ऋ. १-११६-१६ [as read [?]]) इत्यत्र यदाख्यानमुक्तं तदत्राप्यनुसंधेयम् । शतं शतसंख्याकान्मेषान्वृक्यै वृकीरूपेणावस्थितायै [?] अश्विनोर्वाहनाय रासभाय ममहानं पूजितवन्तं समर्पितवन्तं [?] अशिवेन अशुभकारिणा पित्रा स्वकीयेन जनकेन तमो दृष्टिरहितत्वेन कृतमान्ध्यं प्रणीतं प्रापितमृज्राश्वं चक्षुष्मन्तं कृत्वा अश्विनावकुरुतामिति शेषः । एतदेव विशदयति । हे अश्विनौ आक्षी पित्राशापि [?] चक्षुषी ऋज्राश्वे एतत्संज्ञके राजर्षावधत्तं । पुनर्दर्शनसमर्थे आकुरुतम् । एतेनाह । अन्धाय दृष्टिहीनाय ज्योतिः प्रकाशकं चक्षुः विचक्षे विविधं जगद्द्रष्टुं चक्रथुः । युवां कृतवन्तौ ॥ [grammar tail: *mamahānam* (*maha pūjāyām*, *liṭ*, *kānac*, the reduplicative syllable lengthened in the Saṃhitā), *praṇītam* (*niṣṭhā*, *gatir anantaraḥ*), *pitrā* (*udāttayaṇo hal-pūrvāt*), *akṣī* (the dual form with *num*; *ī* → *ī-kāra*, *pararūpa*)... — characterized, not transcribed]
+
+> *śataṃ meṣānvṛkye cakṣurdānam | (ṛ. 1-116-16 [as read [?]]) ityatra yadākhyānamuktaṃ tadatrāpyanusaṃdheyam | śataṃ śatasaṃkhyākānmeṣānvṛkyai vṛkīrūpeṇāvasthitāyai [?] aśvinorvāhanāya rāsabhāya mamahānaṃ pūjitavantaṃ samarpitavantaṃ [?] aśivena aśubhakāriṇā pitrā svakīyena janakena tamo dṛṣṭirahitatvena kṛtamāndhyaṃ praṇītaṃ prāpitamṛjrāśvaṃ cakṣuṣmantaṃ kṛtvā aśvināvakurutāmiti śeṣaḥ | etadeva viśadayati | he aśvinau ākṣī pitrāśāpi [?] cakṣuṣī ṛjrāśve etatsaṃjñake rājarṣāvadhattaṃ | punardarśanasamarthe ākurutam | etenāha | andhāya dṛṣṭihīnāya jyotiḥ prakāśakaṃ cakṣuḥ vicakṣe vividhaṃ jagaddraṣṭuṃ cakrathuḥ | yuvāṃ kṛtavantau ‖ [grammar tail: *mamahānam* (*maha pūjāyām*, *liṭ*, *kānac*, the reduplicative syllable lengthened in the Saṃhitā), *praṇītam* (*niṣṭhā*, *gatir anantaraḥ*), *pitrā* (*udāttayaṇo hal-pūrvāt*), *akṣī* (the dual form with *num*; *ī* → *ī-kāra*, *pararūpa*)... — characterized, not transcribed]*
+
+*Sense (mine and tentative):* "The story told at '*śataṃ meṣān vṛkye*' (Ṛ. 1-116-16 as read [?]) is to be taken up here too. *Śataṃ* — a hundred sheep, to a she-wolf (*vṛkye* — standing in the form of a female wolf) — who was the vehicle (*vāhana*) [as read [?]] of the Aśvins — *mamahānam*: he [Ṛjrāśva] who gave them, offered them (in worship); by the inauspicious (*aśivena*) father, *tamaḥ* — blindness, being without sight — *praṇītam* — brought to — made seeing the Ṛjrāśva who had been blinded: the Aśvins did it — that is the supplement. This he makes clear: O Aśvins, in Ṛjrāśva, the royal sage of that name, you placed (*adhattam*) *akṣī* — eyes, [lost through] the father's curse [?]; made him again able to see. Thereby he says: *andhāya* — to the one without sight, you made *jyotiḥ* — a light-giving eye, *vicakṣe* — to see the world in its variety."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.17)** (Kannada, rendered)
+
+*Aśvinau* — O Aśvins; *śatam* — a hundred; *meṣān* — sheep; *vṛkye* — (to your vehicle) in the form of a she-wolf; *mamahānam* — (given as food) worshipped [him]; *aśivena* — by an inauspicious (sorrow-causing) [father]; *pitrā* — by his father; *tamaḥ* — [*praṇītam*] brought to darkness (blindness) — (that is, you made the blinded Ṛjrāśva again able to see); *ṛjrāśve* — to the king named Ṛjrāśva; *akṣī* — (eyes lost by his father's curse); *ā adhattam* — you gave (capable of sight); *andhāya* — to the blind one; *jyotiḥ* — light-giving [eyes]; *vicakṣe* — to see (things clearly); *cakrathuḥ* — you made.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.17)** (Kannada, rendered)
+
+"O Aśvins! Because he gave a hundred sheep to a she-wolf (your vehicle), his father, made unkind [i.e. cursed him], and Ṛjrāśva became blind; you gave eyes to Ṛjrāśva and made him able to see things clearly."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–16 complete; Ṛk 17 through printed p. 381 (PDF 401): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English and Special Topics follow on p. 382. Next: printed p. 382 (PDF 402). Numerals: Pā. 2-4-72, 6-4-37 per list; Ṛ. 1-116-16 `[?]`.
