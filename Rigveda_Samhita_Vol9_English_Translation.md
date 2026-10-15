@@ -10026,4 +10026,54 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛk 1 through printed p. 417 (PDF 437): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar page follows (p. 418). Next: printed p. 418 (PDF 438). Numerals as read (list stops at printed p. 380): Ṛ. 4-39-2, Ni. numbers on p. 417 `[?]`.
+### Printed p. 418  (PDF 438; header "Maṃ. 1 A. 17 Sū. 118")
+
+*(Special Topics of Ṛk 1, concluded)* *Trivandhuraḥ* — *bandhuraṃ veṣṭitaṃ sārathe sthānam | triprakāreṇa bandhureṇa yuktaḥ*: "The chariot is described as having a charioteer's seat (*bandhura*) enclosed with [boards of] three kinds. Skandasvāmin explains the meaning: *tribandhuraḥ trisārathisthānaḥ* — in the chariot of the Aśvins there are three seats for the seating of the charioteer."
+
+*Sumṛḷīkaḥ* — *susukhaḥ*: "The meaning is: 'one that gives much comfort'. The Nirukta author quotes:
+
+> गामश्वं पोषयित्नु स नो मृळातीदृशे ॥
+> (ऋ. सं. ४-५२-१ [as read [?]])
+> मधुश्च्युतं घृतमिव सुपूतमृतस्य नः पतयो मृळयन्तु ॥
+> (ऋ. सं. ४-५२-२ [as read [?]])
+
+> *gāmaśvaṃ poṣayitnu sa no mṛḷātīdṛśe ‖*
+> *(ṛ. saṃ. 4-52-1 [as read [?]])*
+> *madhuścyutaṃ ghṛtamiva supūtamṛtasya naḥ patayo mṛḷayantu ‖*
+> *(ṛ. saṃ. 4-52-2 [as read [?]])*
+
+— and since in these Ṛks he explains *mṛḷātir dānakarmā pūjākarmā vā | mṛḷayatir apy etayor anyatarakarmā pūjākarmā vā* (Ni. 10-16 [as read]), the word *mṛḷīka*, derived from the root *mṛḷ*, means 'worthy of worship', i.e. 'worthy of worship because it gives comfort'. Here, since the form is from the root *mṛḍa sukhe*, the meaning is 'comfort-giving'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Śyenapatvā* — root *patḷ gatau*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read), the suffix *vanip*; the word *śyenapatvan*; since it belongs to *dāsībhārādi*, the former member keeps its accent, the final acute. Or: in the sūtra mentioned earlier, the mention of *api* [and the like] being for excluding all qualifiers, the suffix *vanip* in the abstract sense; then, when it is made a *bahuvrīhi* compound, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read), the former member keeps its natural accent. *Sumṛḷīkaḥ* — *nañsubhyām* (Pā. 6-2-172 as read), the final acute of the latter member. *Svavān* — *svaṃ dhanam asya asti*, [when] the sense is shown, *tad asyāsty asmin* (Pā. 5-2-94 as read), the suffix *matup*; since it follows after an *a*-ending, *mādupadhāyāś ca matorvo 'yavādibhyaḥ* (Pā. 8-2-9 as read), *v* for the *m* of *matup*. *Yātu* — root *yā prāpaṇe*; *loṭ*, third person singular; *tiṅanta nighāta* accent.
+
+---
+
+### Printed p. 419  (PDF 439; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Javīyān* — *javo 'syāsty iti javavān*, suffix *matup*; "very speedy" is *javīyān*: *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55 as read) continuing, and in the dual-and-plural [rule] *dvivacanavibhajyopapade tarabīyasunau* (Pā. 5-3-57 as read), the suffix *īyasun* in the sense of exceeding; with it following, *vinmator luk* (Pā. 5-3-65 as read), *luk* for the *matup*; *ṭer* (Pā. 6-4-155 as read), elision of the *ṭi*; since it is *su*-final [?] and *ugit*, *num*; since it is *nit*, *jñityādir nityam*, the initial acute. *Vātaraṃhāḥ* — *vātasya raṃha iva raṃho yasya saḥ vātaraṃhāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1), the former member keeps its natural accent. ‖ 1 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.2)**
+
+> त्रिबन्धुरेण त्रिवृता रथेन त्रिचक्रेण सुवृता यातमर्वाक् ।
+> पिन्वतं गा जिन्वतमर्वतो नो वर्धयतमश्विना वीरमस्मे ॥ २ ॥
+
+> *tribandhureṇa trivṛtā rathena tricakreṇa suvṛtā yātamarvāk |*
+> *pinvataṃ gā jinvatamarvato no vardhayatamaśvinā vīramasme ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.2)**
+
+> त्रिऽबन्धुरेण । त्रिऽवृता । रथेन । त्रिऽचक्रेण । सुऽवृता । आ ।
+> यातम् । अर्वाक् ।
+> पिन्वतम् । गाः । जिन्वतम् । अर्वतः । नः । वर्धयतम् । अश्विना ।
+> वीरम् । अस्मे इति ॥ २ ॥
+
+> *tri 'bandhureṇa | tri 'vṛtā | rathena | tri 'cakreṇa | su 'vṛtā | ā |*
+> *yātam | arvāk |*
+> *pinvatam | gāḥ | jinvatam | arvataḥ | naḥ | vardhayatam | aśvinā |*
+> *vīram | asme iti ‖ 2 ‖*
+
+---
+
+**Progress note:** Sūkta 118: Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written (printed p. 419, PDF 439). Next: printed p. 420 (PDF 440): Ṛk 2 bhāṣya onward. Numerals as read (list stops at printed p. 380): Ṛ. 4-52-1/2, Ni. 10-16, sūtra numbers on pp. 418–419 `[as read]`.
