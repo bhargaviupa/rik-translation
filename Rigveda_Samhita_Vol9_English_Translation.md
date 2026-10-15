@@ -11698,4 +11698,32 @@ and (Sanskrit as printed, small type, continuing on p. 489):
 *Dadhīcaḥ manaḥ ā vivāsathaḥ* — "The Aśvins, both to give honey to the bees and because they needed the honey-knowledge, are described as having satisfied the mind of the ṛṣi Dadhīca by the service they did for him."
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–8 complete; Ṛk 9 through printed p. 489 (PDF 509): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *Dadhīcaḥ manaḥ ā vivāsathaḥ*) done; more Special Topics and grammar follow (p. 490). The p. 488/489 split of the *Makṣikā*/*Auśijaḥ* paragraphs was corrected after the first write. Next: printed p. 490 (PDF 510). Numerals as read: Ṛ. 1-112-21, 1-112-11 `[as read]`.
+### Printed p. 490  (PDF 510; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Special Topics of Ṛk 9, concluded)* *Aśvyaṃ śiraḥ āvadat* — *yuvābhyāṃ pratihitam aśvasya sambandhi yat śiraḥ tat madhuvidyāṃ yuvām avadat*: "The ṛṣi, by that horse's head which the Aśvins had set in place of Dadhīca's own head, would teach them the honey-knowledge — both [Sāyaṇa and Skandasvāmin] explain this. Skandasvāmin:
+
+> अश्वस्याश्वयवभूतेन मधुब्राह्मणं परं ब्रह्म उक्तवान् ।
+
+> *aśvasyāśvayavabhūtena madhubrāhmaṇaṃ paraṃ brahma uktavān |*
+
+— 'through the horse's head, which is a part of the horse's body, he taught the supreme secret form that is established by the honey-knowledge'; and he quotes:
+
+> दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाच ॥
+> (ऋ. सं. १-११६-१२)"
+
+> *dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvāca ‖*
+> *(ṛ. saṃ. 1-116-12)"*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Syā* — the word *tyad*; with *su* following [as printed], *tyadādīnām aḥ* (Pā. 7-2-102 as read), *a* for the *d*, *pararūpa*; since it is feminine and ends in *a*, *ṭāp*; *tado⁠ḥ sa sāvanantyayoḥ* (Pā. 7-2-106 as read), *s* for the *t*; *halṅyābbhyo dīrghāt sutisyapṛktaṃ hal* (Pā. 6-1-68 as read), elision of the *su* that follows. *Madhumat* — *madhu anayor asti iti madhumantau*; *tad asyāsty asmin* (Pā. 5-2-94 as read), the suffix *matup*; with the dual *au* following, *supāṃ sulug* (Pā. 7-1-39 as read), *luk* for it. *Arapat* — root *rapa lapa vyaktāyāṃ vāci*; *laṅ*, third person singular; since it stands after an *ajanta*, the *nighāta* accent. *Made* — root *madī harṣe*; *mado 'nupasarge* (Pā. 3-3-67 as read), in the abstract sense the suffix *ap*; since it is *pit*, the root's accent remains; locative singular form. *Auśijaḥ* — *uśijo 'patyaṃ pumān auśijaḥ*; *tasyāpatyam* (Pā. 4-1-92 as read), the suffix *aṇ*; *taddhiteṣv acām ādeḥ* (Pā. 7-2-117 as read), *vṛddhi* of the initial; by the suffix's accent, the final acute.
+
+---
+
+### Printed p. 491  (PDF 511; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Huvanyati* — root *hveñ spardhāyāṃ śabde ca*; to it, in the sense of the abstract noun, *lyuṭ ca* (Pā. 3-3-115 as read), the suffix *lyuṭ*; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *yuvoranākau* (Pā. 7-1-1 as read), *ana* for the suffix; *ajiknudhātubhruvām* (Pā. 6-4-77 as read), *uvaṅ* for [the *u* of] the root; "*huvanam ātmana icchati*" — *huvanyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8 as read), the suffix *kyac* in the sense of wishing; by Vedic usage the final (*a*) is elided; or, when *guṇa* and *av* substitution have occurred for the *saṃprasāraṇa*, *havanyati*, [by] *varṇavyatyaya* [interchange of letters] *a* becomes *uv*; since it stands after an *ajanta*, the *nighāta* accent. *Dadhīcaḥ* — when *dadhi* is the *upapada*, for the root *añcu gatipūjanayoḥ*, *ṛtvigdadhṛk…* (Pā. 3-2-59 as read), the suffix *kvin*; *anidītāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24 as read), elision of the penultimate nasal; with the genitive singular following, since it has the name *bha*, *acaḥ* (Pā. 6-4-138 as read), elision of the *a* of the root; *cau* (Pā. 6-3-138 as read), because *añcu* with its *a* elided follows, lengthening of the preceding [part]; *cau* (Pā. 6-1-222 as read), though the acute on the earlier member is obtained, by *añceś chandasy asarvanāmasthānam* (Pā. 6-1-170 as read), the acute on the case ending that follows. *Vivāsathaḥ* — the root *vivāsa* is used in the sense of waiting upon; *laṭ*, second person dual; *nighāta* accent. *Atha* — *nipātasya ca* (Pā. 6-3-136 as read), lengthening in the Saṃhitā. *Aśvyam* — *aśve bhavam aśvyam*; *bhave chandasi* (Pā. 4-4-110 as read), the suffix *yat*; *yasyeti ca*, elision of the former *a*; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute. *Vadat* — root *vada vyaktāyāṃ vāci*; *laṅ*, third person singular; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; *nighāta* accent. ‖ 9 ‖
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–9 complete (printed p. 491, PDF 511). Next: printed p. 492 (PDF 512): Ṛk 10 (the last of the sūkta) Saṃhitā, then the colophon of Sūkta 119 and Sūkta 120. Numerals as read (no numeral list covers these pages): Ṛ. 1-116-12; sūtra numbers on pp. 490–491 `[as read]`.
