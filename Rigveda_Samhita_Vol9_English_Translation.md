@@ -12049,4 +12049,56 @@ he explains. Durgācārya (the commentator on the Nirukta) explains it as *ākra
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–2 complete; Ṛk 3 through printed p. 505 (PDF 525): Saṃhitā, Pada, bhāṣya, pratipadārtha (partial) written; the page's remaining parts follow on p. 506. Next: printed p. 506 (PDF 526). Numerals as read (no numeral list covers these pages): Ṛ. 3-1-13, Pā. numbers on pp. 504–505 `[as read]`.
+### Printed p. 506  (PDF 526; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.3)** (Kannada, rendered; as printed on p. 506, repeating and completing p. 505)
+
+*Vidvāṃsā* — O omniscient; *tā vām* — you two; *havāmahe* — we call; *vidvāṃsā* — [you], who, being called, know; *naḥ* — to us; *manma* — a hymn worthy of knowing; *adya* — now; *vocetam* — [you] should tell; (and I) *yuvākuḥ* — one who desires you, and *dayamānaḥ* — one who offers (oblations and the like to you); *pra ārcat* — worship exceedingly.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.3)** (Kannada, rendered)
+
+"We call you, who know all (with praise); you, [being] learned [and] called by you, make known to us now the praises that are fit to be known; (we) desire your (favour), and, offering (oblations and the like), we worship you."
+
+**English Translation (as printed)**
+
+"we invoke you who know all things; may you, who are omniscient, declare to us to-day the praise that is acceptable; desirous of your presence, I reverence you, offering (oblations)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 3)**
+
+*Yuvākuḥ* — *yuvāṃ kāmayate iti yuvākuḥ*: "'one who desires you (the two)' is the meaning. Skandasvāmin explains the word as *yuṣmatkāmaḥ* — 'desirous of you'."
+
+*Manma* — *mananīyaṃ jñātavyaṃ stotram*: "'a praise that must be known, or that is to be pondered' — thus Sāyaṇa. Yāska quotes:
+
+> उप प्रागात्सुमन्मे धायि मन्म देवानामाशा उप वीतपृष्ठः ॥
+> (ऋ. सं. १-१८७-? [as read; the last numeral doubtful [?]])
+
+> *upa prāgātsumanme dhāyi manma devānāmāśā upa vītapṛṣṭhaḥ ‖*
+> *(ṛ. saṃ. 1-187-? [as read; the last numeral doubtful [?]])*
+
+and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as read [?]]. In this same sense the word is used in several other places:
+
+> तमू षु समना गिरा पितॄणां च मन्मभिः ॥
+> (ऋ. सं. ८-४८-२ [as read]; Ni. 10-? [as read])
+
+> *tamū ṣu samanā girā pitṝṇāṃ ca manmabhiḥ ‖*
+> *(ṛ. saṃ. 8-48-2 [as read]; Ni. 10-? [as read])*
+
+---
+
+### Printed p. 507  (PDF 527; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> प्र तद्दुःशीमं पृथिवीं भव्यामेन्दवे ... रेजति ॥
+> (ऋ. सं. १-१८६-?) [the Sanskrit as printed is irregular; read only in part [?]]
+
+> *pra tadduḥśīmaṃ pṛthivīṃ bhavyāmendave ... rejati ‖*
+> *(ṛ. saṃ. 1-186-?) [the Sanskrit as printed is irregular; read only in part [?]]*
+
+— "here the word *manma* is explained as *mananāni prajñānāni* — 'acts of understanding, knowledges'. [The sense:] 'Calling to the omniscient Aśvins, we praise them with the praise-words that [bring] into the range of the mind the intellect they inspire' — thus it is described; and it is also explained that the Aśvins are called by the mantra-seer, who wished to praise them, and, being praised, the oblations are made [by him], and again he pleases them with praises."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly; sūtra numbers as read)**
+
+*Tā* — the word *tad*; with the dual following, *tyadādīnām aḥ* (Pā. 7-2-102 as read), *a* substituted; *supāṃ sulug*, *ā* for the case ending. *Havāmahe* — root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person plural; *tiṅanta nighāta* accent. *Vidvāṃsā* — *supāṃ sulug* (Pā. 7-1-39 as read), *ā* for the case ending. *Manma* — root *mana jñāne*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read), the suffix *manin*; since it is *nit*, the initial acute; in the neuter, *am* [*su*] following, *svamornapuṃsakāt* (Pā. 7-1-23 as read), *luk* for it; then *nalopaḥ* [elision of the *n*]. *Vocetam* — root *brūñ vyaktāyāṃ vāci*; *āśīrliṅ*, second person dual, *tam* substituted; *bruvo vaciḥ* (Pā. 2-4-53 as read), *vac* substituted for the root; *liṅyāśiṣy aṅ* (Pā. 3-1-86 as read), *aṅ*; by *vyatyaya*, *iy* for *yāsuṭ*; *lopo vyor vali* (Pā. 6-1-66 as read), elision of the *y*; *vaca um* (Pā. 7-4-20 as read), the augment *um*; *guṇa*; the form *vocetam*; since it stands after an *ajanta*, the *nighāta* accent. *Ārcat* — root *arca pūjāyām*, *bhvādi*; by the statement *tiṅāṃ tiṅo bhavantīti* [Vedic exchange of person-endings], *tip* for the *mip* of the first person; *laṅ*, first person singular; *iteś ca*, elision of the *i*; *śap* vikaraṇa; the augment *aṭ*; *tiṅanta nighāta* accent. *Dayamānaḥ* — root *daya dānagatirakṣaṇahiṃsādāneṣu*, *bhvādi*; in the sense of *laṭ*, *śānac*; *śap* vikaraṇa; *ānemuk* (Pā. 7-2-82 as read), the augment *muk* for the *a*-ending …
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–2 complete; Ṛk 3 through printed p. 507 (PDF 527): all parts done except the end of its grammar (*dayamānaḥ*, *yuvākuḥ*; continues p. 508). Next: printed p. 508 (PDF 528). The Special Topics' Ṛk quotations on pp. 506–507 were read only in part `[?]`. Numerals as read: Ṛ. 1-187-?, 8-48-2, Ni. 10-? `[as read]`.
