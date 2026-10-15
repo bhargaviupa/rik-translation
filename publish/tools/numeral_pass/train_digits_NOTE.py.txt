@@ -1,0 +1,14 @@
+import sys,re,numpy as np,cv2,collections,pickle
+from sklearn.svm import SVC
+d=np.load('/tmp/claude-0/-home-user-rik-translation/9a16da8f-a295-5bf1-bb21-7fbe50496814/scratchpad/dg/out/glyphs.npz');X=d['X'];M=d['M']
+sel=np.load('/tmp/claude-0/-home-user-rik-translation/9a16da8f-a295-5bf1-bb21-7fbe50496814/scratchpad/dg/out/sel.npy');cl=np.load('/tmp/claude-0/-home-user-rik-translation/9a16da8f-a295-5bf1-bb21-7fbe50496814/scratchpad/dg/out/clab.npy')
+mp={12:1,4:6,7:3,8:4,11:7,16:2,20:8,13:9,14:5,2:0}
+F=lambda A:np.array([cv2.GaussianBlur(x,(3,3),0).ravel()/255. for x in A])
+tr=[(i,mp[c]) for i,c in zip(sel,cl) if c in mp]
+Xt=F(X[[i for i,_ in tr]]);yt=np.array([y for _,y in tr])
+clf=SVC(C=5,random_state=0).fit(Xt,yt)
+pickle.dump(clf,open('/tmp/claude-0/-home-user-rik-translation/9a16da8f-a295-5bf1-bb21-7fbe50496814/scratchpad/dg/out/clf.pkl','wb'))
+print('train',len(yt),collections.Counter(yt))
+
+from sklearn.neighbors import NearestNeighbors
+nn=NearestNeighbors(n_neighbors=1).fit(Xt);pickle.dump(nn,open('/tmp/claude-0/-home-user-rik-translation/9a16da8f-a295-5bf1-bb21-7fbe50496814/scratchpad/dg/out/nn.pkl','wb'))
