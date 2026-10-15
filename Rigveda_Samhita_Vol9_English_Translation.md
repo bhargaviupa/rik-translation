@@ -11409,4 +11409,54 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–6 complete (printed p. 477, PDF 497). Next: printed p. 478 (PDF 498): Ṛk 7 Saṃhitā. Numerals as read (no numeral list covers these pages): Ṛ. 1-116-8, 10-186-1, 1-104-1; Ni. numbers and sūtra numbers on pp. 476–477 `[as read]`.
+### Printed p. 478  (PDF 498; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.7)**
+
+> युवं वन्दनं निरृतं जरण्यया रथं न दस्रा करणा समिन्वथः ।
+> क्षेत्रादा विप्रं जनथो विपन्यया प्र वामत्र विधते दंसना भुवत् ॥ ७ ॥
+
+> *yuvaṃ vandanaṃ nirṛtaṃ jaraṇyayā rathaṃ na dasrā karaṇā saminvathaḥ |*
+> *kṣetrādā vipraṃ janatho vipanyayā pra vāmatra vidhate daṃsanā bhuvat ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.7)**
+
+> युवम् । वन्दनम् । निःऽऋतम् । जरण्यया । रथम् । न । दस्रा ।
+> करणा । सम् । इन्वथः ।
+> क्षेत्रात् । आ । विप्रम् । जनथः । विपन्यया । प्र । वाम् । अत्र ।
+> विधते । दंसना । भुवत् ॥ ७ ॥
+
+> *yuvam | vandanam | niḥ 'ṛtam | jaraṇyayā | ratham | na | dasrā |*
+> *karaṇā | sam | invathaḥ |*
+> *kṣetrāt | ā | vipram | janathaḥ | vipanyayā | pra | vām | atra |*
+> *vidhate | daṃsanā | bhuvat ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.7)** *(small type; read with some doubts)*
+
+> हे दस्रावश्विनौ युवं युवां जरण्यया जरया निरृतं निःशेषेण प्राप्तं वन्दनमृषिं करणा कर्मणां कर्तारौ शिल्पकुशलौ युवां समिन्वथः । समधत्तम् । पुनर्युवानमकुरुतम् । तत्र दृष्टान्तः । रथं न यथा कश्चिच्छिल्पी जीर्णं रथं पुनरभिनवं करोति तद्वत् । अपि च विपन्यया स्तुत्या गर्भस्थेन वामदेवेन स्तुतौ सन्तौ क्षेत्रादा आकारः समुच्चये । मातुरुदरलक्षणाज्जन्मस्थानाद्विप्रं मेधाविनं तमृषिं जनथः । जनयथश्च । तथा वां युवयोर्दंसना रक्षणात्मकं कर्मात्रास्मै विधते परिचरते यजमानाय प्र भुवत् । प्रभवतु । रक्षितुं समर्थं भवतु ॥ निरृतम् । ऋ गतौ । कर्मणि निष्ठा । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । जरण्यया । जरणक्रियोर्हा जरण्या । अन्त्यावस्थाच्छन्दसि चेति यः । करणा । करोतेरन्येभ्योऽपि दृश्यन्त इति (पा. ३-२-७५ [as read]) युच् । इन्वथः । इवि व्याप्तौ । इदित्त्वान्नुम् । … जनथः । जनी प्रादुर्भावे । चिच्छेत्यथावृद्धिः [?] । जनिजॄभ्यां … [as read]
+
+> *he dasrāvaśvinau yuvaṃ yuvāṃ jaraṇyayā jarayā nirṛtaṃ niḥśeṣeṇa prāptaṃ vandanamṛṣiṃ karaṇā karmaṇāṃ kartārau śilpakuśalau yuvāṃ saminvathaḥ | samadhattam | punaryuvānamakurutam | tatra dṛṣṭāntaḥ | rathaṃ na yathā kaścicchilpī jīrṇaṃ rathaṃ punarabhinavaṃ karoti tadvat | api ca vipanyayā stutyā garbhasthena vāmadevena stutau santau kṣetrādā ākāraḥ samuccaye | māturudaralakṣaṇājjanmasthānādvipraṃ medhāvinaṃ tamṛṣiṃ janathaḥ | janayathaśca | tathā vāṃ yuvayordaṃsanā rakṣaṇātmakaṃ karmātrāsmai vidhate paricarate yajamānāya pra bhuvat | prabhavatu | rakṣituṃ samarthaṃ bhavatu ‖ nirṛtam | ṛ gatau | karmaṇi niṣṭhā | gatiranantara iti gateḥ prakṛtisvaratvam | jaraṇyayā | jaraṇakriyorhā jaraṇyā | antyāvasthācchandasi ceti yaḥ | karaṇā | karoteranyebhyo 'pi dṛśyanta iti (pā. 3-2-75 [as read]) yuc | invathaḥ | ivi vyāptau | idittvānnum | … janathaḥ | janī prādurbhāve | cicchetyathāvṛddhiḥ [?] | janijṝbhyāṃ … [as read]*
+
+*Sense (mine and tentative):* "O Dasras, Aśvins: you — *jaraṇyayā* — by old age, *nirṛtam* — completely overtaken, [the ṛṣi] Vandana — you, *karaṇā* — makers, skilled in craft, *sam invathaḥ* — set right; you made him young again. The illustration: *ratham na* — as some craftsman makes a worn-out chariot new again, so [you did]. And *vipanyayā* — through praise by Vāmadeva in the womb — when praised, *kṣetrāt ā* [*ā* in the sense of 'and'] — from the womb of the mother, the place of birth, you caused the wise ṛṣi (*vipra*) to be born. And so, *vām* — your *daṃsanā* — protecting action, *atra* — here, for this man who serves (*vidhate*, the sacrificer), *pra bhuvat* — may it prevail, may it be able to protect."
+
+---
+
+### Printed p. 479  (PDF 499; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya's grammar tail, small type, characterized only: *nirṛtam*, *jaraṇyayā*, *karaṇā*, *invathaḥ*, *janathaḥ*, *vipanyayā* [*pana stutau*; *aśvāghasya* [?] *yat*], *vidhate* [*vidha vidhāne*, *tudādi*], *bhuvat* [*bhū sattāyām*; *loṭ*; *aṭ* augment; *bahulaṃ chandasi*, *luk* for *śap*; *bhūsuvos tiṅi*, prohibition of *guṇa*]).*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.7)** (Kannada, rendered)
+
+*Dasrā* — O Dasras (Aśvins); *yuvam* — you two; *jaraṇyayā* — by old age (decrepitude); *nirṛtam* — completely wasted; *vandanam* — the ṛṣi Vandana; *karaṇā* — you who are skilled in your deeds; *rathaṃ na* — as a craftsman [repairs] a worn-out chariot, [so]; *sam invathaḥ* — you made [him] anew (young again); *vipanyayā* — [by the praise] of Vāmadeva, in the womb; *kṣetrāt ā* — from the birth-place (the mother's womb); *vipram* — that wise ṛṣi; *janathaḥ* — you made to be born; *(tathā)* — likewise; *vām* — your; *daṃsanā* — action in the form of protection; *atra* — here; *vidhate* — [to him] who serves you (to the sacrificer); *pra bhuvat* — let it be of the power [to protect].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.7)** (Kannada, rendered)
+
+"O Dasras (Aśvins)! You, skilled in your deeds, gave youth to the ṛṣi Vandana, who had been reduced by old age, as a craftsman [repairs] a worn-out chariot; and, moved by the praise of Vāmadeva in the womb, you made that ṛṣi to be born from his mother's womb; may your protecting action be able to protect this sacrificer who serves you."
+
+**English Translation (as printed)**
+
+"Skilful Dasras, you restored Vandana, when debilitated by old age, as a wheelwright repairs a worn-out car; (moved) by his praises, you brought forth the sage (Vamadeva) from the womb: may your (glorious) deeds be (displayed) for him who in this place offers you worship."
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–6 complete; Ṛk 7 through printed p. 479 (PDF 499): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 480). Next: printed p. 480 (PDF 500). Numerals as read: Pā. 3-2-75 `[as read]`.
