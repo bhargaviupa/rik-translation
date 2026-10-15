@@ -10704,4 +10704,48 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–9 complete; Ṛk 10 through printed p. 447 (PDF 467): all parts done except the end of its grammar (continues p. 448). Next: printed p. 448 (PDF 468). Numerals as read: sūtra numbers on pp. 446–447 `[as read]`.
+### Printed p. 448  (PDF 468; header "Maṃ. 1 A. 17 Sū. 118")
+
+*Grammar of Ṛk 10, concluded (noted briefly; sūtra numbers as read):* *Nādhamānāḥ* — root *nādha yācñāyām*; in the sense of *laṭ*, *śānac*; *śap* vikaraṇa; *ānemukh* [as read; *ānenmuk*?] (Pā. 7-2-82 as read), the augment *muk* for the *a*-final of the base; as before, since the *lasārvadhātuka* (*āna*) follows after *upadeśa*, it becomes *anudātta*, so the root's accent remains; nominative plural form. *Vasumatā* — *vasu asmin asti iti vasumān*, with it, *vasumatā*; *tad asyāsty asmin* (Pā. 5-2-94 as read), the suffix *matup*; since it is *pit*, it is *anudātta*; instrumental singular. *Giraḥ* — root *gṝ nigaraṇe*; the suffix *kvip*; *ṛta id dhātoḥ* (Pā. 7-1-100 as read), *i* [for *ṛ*]; becomes *r*-final; the word *gir*; accusative plural form. *Juṣāṇā* — root *juṣī prītisevanayoḥ*; *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. 3-2-129 as read), since a habit-sense is meant, the suffix *cānaś*; *tudādibhyaḥ śaḥ* (Pā. 3-1-77 as read), *śa* vikaraṇa; because it is a *lasārvadhātuka*, *anudātta* accent does not occur; since it is *cit*, *ciṭaḥ* (Pā. 6-1-163 as read), the final acute; *supāṃ sulug*, *ā* for the dual case ending. *Suvitāya* — the prefix *su*; root *iṇ gatau*; in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), the suffix *kta*; the form *ita*; with *su* + *ita*, by the statement *tanvādīnām upasaṅkhyānam* (as read), since it belongs to the *tanvādi* group, *uvaṅ* [*uv*] substitution; *sūpamānāt ktaḥ* (Pā. 6-2-144 as read), the final acute of the latter member; dative singular form. *Yātam* — root *yā prāpaṇe*; *loṭ*, second person dual; since it stands after an *ajanta*, the *nighāta* accent. ‖ 10 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.11)**
+
+> आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः ।
+> हवे हि वामश्विना रातहव्यः शश्वत्तमायां उषसो व्युष्टौ ॥ ११ ॥
+
+> *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*
+> *have hi vāmaśvinā rātahavyaḥ śaśvattamāyāṃ uṣaso vyuṣṭau ‖ 11 ‖*
+
+---
+
+### Printed p. 449  (PDF 469; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.11)**
+
+> आ । श्येनस्य । जवसा । नूतनेन । अस्मे इति । यातम् । नासत्या ।
+> सऽजोषाः ।
+> हवे । हि । वाम् । अश्विना । रातऽहव्यः । शश्वत्ऽतमायाः । उषसः ।
+> विऽउष्टौ ॥ ११ ॥
+
+> *ā | śyenasya | javasā | nūtanena | asme iti | yātam | nāsatyā |*
+> *sa 'joṣāḥ |*
+> *have | hi | vām | aśvinā | rāta 'havyaḥ | śaśvat 'tamāyāḥ | uṣasaḥ |*
+> *vi 'uṣṭau ‖ 11 ‖*
+
+*(The printed Saṃhitā has "śaśvattamāyā uṣaso"; the Pada's *śaśvattamāyāḥ* — as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.11)** *(small type; read with some doubts)*
+
+> हे नासत्यावश्विनौ सजोषाः सजोषसौ समानप्रीतियुक्तौ श्येनस्य शंसनीयं गच्छतोऽश्वस्य नूतनेन नवतरेण प्रत्यग्रेण जवसा वेगेन सहितौ युवामस्मे अस्मानायातम् । आगच्छतम् । अश्विना हे अश्विनौ रातहव्यो वां युवाभ्यां दातव्येन हविषा युक्तः सन् शश्वत्तमायाः कालात्मकतया नित्याया उषसो व्युष्टौ विवासनसमये वां युवां हवे । ह्वयामि । हिर्हेतौ । हि यस्माद्धवे तस्मादा यातमित्यर्थः ॥ अस्मे । सुपां सुलुगिति शसः शे आदेशः । सजोषाः । केर्नैव द्विवचनस्य सुलादेशः । हवे । ह्वेञो लटुत्तमैकवचने बहुलं छन्दसेति संप्रसारणं शब्लुगावादेशः । शश्वत्तमायाः । उत्तमशश्वत्तमौ सर्वत्र । (पा. ६-१-१६० [as read]) इत्यन्तोदात्तत्वम् ॥ [as read]
+
+> *he nāsatyāvaśvinau sajoṣāḥ sajoṣasau samānaprītiyuktau śyenasya śaṃsanīyaṃ gacchato 'śvasya nūtanena navatareṇa pratyagreṇa javasā vegena sahitau yuvāmasme asmānāyātam | āgacchatam | aśvinā he aśvinau rātahavyo vāṃ yuvābhyāṃ dātavyena haviṣā yuktaḥ san śaśvattamāyāḥ kālātmakatayā nityāyā uṣaso vyuṣṭau vivāsanasamaye vāṃ yuvāṃ have | hvayāmi | hirhetau | hi yasmāddhave tasmādā yātamityarthaḥ ‖ asme | supāṃ sulugiti śasaḥ śe ādeśaḥ | sajoṣāḥ | kernaiva dvivacanasya sulādeśaḥ | have | hveño laṭuttamaikavacane bahulaṃ chandaseti saṃprasāraṇaṃ śablugāvādeśaḥ | śaśvattamāyāḥ | uttamaśaśvattamau sarvatra | (pā. 6-1-160 [as read]) ityantodāttatvam ‖ [as read]*
+
+*Sense (mine):* "O Nāsatyas, Aśvins, *sajoṣāḥ* — of the same pleasure, [coming] with the *nūtana* — newer, fresher — speed (*javasā*) of a hawk's (*śyenasya*) — i.e. of a horse of praiseworthy gait — come (*ā yātam*) to us (*asme*). O Aśvins, I, *rātahavyaḥ* — endowed with the oblation to be given to you — call (*have*) you at the *vyuṣṭi* — the time of the dawning — of the *śaśvattamā* Uṣas, who, being time-in-nature, is eternal. *Hi* is a causal particle: 'because I call, therefore come'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.11)** (Kannada, rendered; page continues)
+
+*(He) nāsatyā* — O Nāsatyas; *sajoṣāḥ* — [you] of the same pleasure; *śyenasya* — [like] a hawk's (going); *nūtanena* — new; *javasā* — [you] with speed; *asme* — us; *ā yātam* — come for [our] sake; *he aśvinā* — O Aśvins …
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–10 complete; Ṛk 11 (the last) through printed p. 449 (PDF 469): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 450). Next: printed p. 450 (PDF 470): rest of Ṛk 11, then the colophon of Sūkta 118 and Sūkta 119. Numerals as read: sūtra numbers on pp. 448–449 `[as read]`.
