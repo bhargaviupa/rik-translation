@@ -10538,4 +10538,46 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–7 complete; Ṛk 8 through printed p. 439 (PDF 459): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 440). Next: printed p. 440 (PDF 460). Numerals as read: sūtra numbers on p. 438 `[as read]`.
+### Printed p. 440  (PDF 460; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 8)**
+
+*Śayave dhenuṃ apinvatam* — *etatsaṃjñāya ṛṣaye nivṛttaprasavām adogdhrīṃ payasā āsiñcatam | sarvadā payasvinīm akurutam*: "For the word *śayu*, Sāyaṇa gives 'a ṛṣi named Śayu'; Skandasvāmin explains *śayave rājñe* — 'for Śayu, a king'. The cow of the one called Śayu was very weak, so that it bore no calves and yielded no milk; by his prayer, the Aśvins perceived this, and made that cow always possess the power to give milk, and so fulfilled the wish of Śayu — thus it is described here."
+
+*Vartikām aṃhasaḥ nir amuñcatam* — *vṛkeṇa grastāṃ caṭakasadṛśīṃ śakuniṃ vṛkāsyalakṣaṇāt pāpān niramocayatam*: "Seeing a small bird (*caṭaka*, quail) caught in the mouth of a wolf and suffering pain, the Aśvins released it and saved it. Or: *punaḥ punar vartate* — that which returns anew at the beginning of every day is Uṣas, the dawn; this [Dawn] is overcome by the Āditya (the Sun); the Aśvins released her and saved her. That is: since the word *uṣas* is feminine, it is a woman; since the word *āditya* is masculine, it is a man; hence the meaning 'a man, a lover, overpowered a woman by force, and they released and saved her'; so, by the words *vartikā* and *vṛka* too, the account of the lover is [only] hinted at, while the account of Uṣas and Āditya is the plain one — by both explanations it is thus described."
+
+*Viśpalāyāḥ jaṅghām adhattam* — *saṃgrāme bhinnajaṅghāyai striyai āyasīṃ jaṅghāṃ pratyadhattaṃ samayojayetam*: "A king called Khela was fighting a battle; his [wife] named Viśpalā broke a leg on the battlefield. Then Agastya, the chaplain of King Khela, praised the Aśvins; hearing this praise they treated the leg of the woman called Viśpalā and, fitting a rod of iron as a leg, saved her — so it is described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Śayave* — root *śīṅ svapne*; the *auṇādika* suffix *u*; on that account *guṇa* of the root; *ay* substituted; by the suffix's accent the final acute. *Nādhitāya* — root *nādha yācñāyām*; in the sense of the present, the suffix *kta*; *ārdhadhātukasyeḍ valādeḥ* (Pā. 7-2-35 as read), the augment *iṭ*; by the suffix's accent the final acute; dative singular form.
+
+---
+
+### Printed p. 441  (PDF 461; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Apinvatam* — root *pivi secane*, *bhvādi*; *idito num dhātoḥ* (Pā. 7-1-58 as read), *num* for the root; *laṅ*, second person dual; *tasthasthamipāṃ tāṃtamtāmaḥ* (Pā. 3-4-101 as read), *tam* substituted; *śap* vikaraṇa; the augment *aṭ*; since it is *udātta*, [the word has] the initial acute; since it stands at the beginning of a pāda, *nighāta* does not occur. *Amuñcatam* — root *mucḷ mokṣaṇe*, *tudādi*; *laṅ*, second person dual; *śemucādīnām* (Pā. 7-1-59 as read; compare 7-1-55 at p. 335 [?]), since the vikaraṇa *śa* follows, *num* for the root; as before, since it stands at the beginning of a pāda, *nighāta* does not occur; the initial acute. ‖ 8 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.9)**
+
+> युवं श्वेतं पेदव इन्द्रजूतमहिहनमश्विनादत्तमश्वम् ।
+> जोहूत्रमर्यो अभिभूतिमुग्रं सहस्रसां वृषणं वीड्वङ्गम् ॥ ९ ॥
+
+> *yuvaṃ śvetaṃ pedava indrajūtamahihanamaśvinādattamaśvam |*
+> *johūtramaryo abhibhūtimugraṃ sahasrasāṃ vṛṣaṇaṃ vīḍvaṅgam ‖ 9 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.9)**
+
+> युवम् । श्वेतम् । पेदवे । इन्द्रऽजूतम् । अहिऽहनम् । अश्विना ।
+> अदत्तम् । अश्वम् ।
+> जोहूत्रम् । अर्यः । अभिऽभूतिम् । उग्रम् । सहस्रऽसाम् ।
+> वृषणम् । वीळुऽअङ्गम् ॥ ९ ॥
+
+> *yuvam | śvetam | pedave | indra 'jūtam | ahi 'hanam | aśvinā |*
+> *adattam | aśvam |*
+> *johūtram | aryaḥ | abhi 'bhūtim | ugram | sahasra 'sām |*
+> *vṛṣaṇam | vīḷu 'aṅgam ‖ 9 ‖*
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–8 complete; Ṛk 9 Saṃhitā and Pada written (printed p. 441, PDF 461). Next: printed p. 442 (PDF 462): Ṛk 9 bhāṣya onward. Numerals as read: sūtra numbers on pp. 440–441 `[as read]`.
