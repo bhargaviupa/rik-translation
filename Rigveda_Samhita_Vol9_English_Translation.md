@@ -11784,4 +11784,42 @@ and (Sanskrit as printed, small type, continuing on p. 489):
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–9 complete; Ṛk 10 (the last) through printed p. 493 (PDF 513): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 494). Next: printed p. 494 (PDF 514). Numerals as read: Ni. 2-7 `[as read]`.
+### Printed p. 494  (PDF 514; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Special Topics of Ṛk 10, continued)* "… *spṛdhāṃ tarutāram* — 'one by which, at the time of battle, enemies who strive to win are conquered': the Aśvins' gift, [the horse,] bestows victory, and gives [the king] the chance to protect himself from them — so Sāyaṇa explains."
+
+*Dustaram* — *taritum aśakyam*: "'The horse given by the Aśvins cannot be overcome by anyone, however heroic' is Sāyaṇa's explanation. Skandasvāmin: *avatiriti vadhakarmasu pāṭhāt tiratiḥ hiṃsanārthaḥ | tasyaivaṃ rūpam | marhaṇam avatirati iti vadhakarmasu pāṭhād dustaram* — 'since the root *tṝ* is read among the roots with the sense of killing, *dustara* means one which cannot be killed'."
+
+*Cakṛtyam* — *sarveṣu kāryeṣu punaḥ punaḥ prayojyam*: "'one that the Aśvins gave, with favour — a horse fit to be used again and again in all works' is Sāyaṇa's explanation. [Skandasvāmin:] *imam api ca kṛnter vadhakarmaṇo rūpam ātmārthaṃ hantāram* — 'it is also a form of the root *kṛnt* [*kṛtī chedane*], the root with the sense of killing; 'a killer, for the sake of its owner'' — *cakṛtyam* means 'one that cuts down'; 'one that destroys enemies repeatedly', thus Skandasvāmin explains."
+
+*Carṣaṇīsaham* — *indro yathā śatrūn abhibhavati evaṃ śatrujanān abhibhavitāram*: "'the word *carṣaṇi* is stated among the names of men (Ni. 2-2 [as read])'. The horse given to King Pedu was one that defeats enemy people, as Indra defeats his enemies — such is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Spṛdhām* — root *spardha saṃgharṣe*; *kvip ca* (Pā. 3-2-76 as read), to it the suffix *kvip*; since in this sūtra the *ca* draws down the mention of *dṛśi* from the preceding sūtra, which is for including other operations, elision of the root's *a*-vowel and *saṃprasāraṇa* of the root's *r* occur; the word *spṛdh*; genitive plural form; *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168 as read), the acute on the case ending. *Śvetam* — root *śvitā varṇe*; since it belongs to the *pacādi* *ākṛtigaṇa*, *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. 3-1-134 as read), the suffix *ac*; on that account, *guṇa* of the light penultimate of the root; by the suffix's accent the final acute. *Tarutāram* — root *tṝ plavanataraṇayoḥ*; when the suffix *tṛc* comes, the desired form is accomplished by the irregular formation in *grasitaskabhitastabhita…* (Pā. 7-2-34 as read); *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent.
+
+---
+
+### Printed p. 495  (PDF 515; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Duvasyathaḥ* — root *duvas sandīpane* [as read: *duvas*], *kaṇḍvādi*; here used in the sense of giving; *kaṇḍvādibhyo yak* (Pā. 3-1-27 as read), the suffix *yak* in its own sense; *laṭ*, second person dual; because it stands after an *ajanta*, the *nighāta* accent. *Śaryaiḥ* — root *śṝ hiṃsāyām*; "*śīryante iti śaryāḥ*"; *aco yat* (Pā. 3-1-97 as read), the suffix *yat*; on that account *guṇa* of the root's *ṛ*-vowel; becomes *r*-final; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute. *Dustaram* — root *tṝ plavanataraṇayoḥ*; "*taritum aśakyam dustaram*"; *īṣaddusuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. 3-3-126 as read), the suffix *khal* in the sense of difficulty; on that account *guṇa* of the root; becomes *r*-final; *liti* (Pā. 6-1-193 as read), the acute on the syllable before the suffix. *Cakṛtyam* — root *ḍukṛñ karaṇe*; in the sense of frequent repetition, *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22 as read), the suffix *yaṅ*; *yaño 'ci ca* (Pā. 2-4-74 as read), *luk* for it; *sanyaṅoḥ* (Pā. 6-1-9 as read), doubling of the root; *guṇo yaṅluk oḥ* (Pā. 7-4-82 as read), *guṇa* for the reduplicative syllable; becomes *r*-final; after the *yaṅluganta*, *vibhāṣā kṛvṛṣoḥ* (Pā. 3-1-120 as read), the suffix *kyap*; since it is *pit*, *hrasvasya piti kṛti tuk* (Pā. 6-1-71 as read), the augment *tuk*; since the suffix is *pit*, the root's accent remains. ‖ 10 ‖
+
+**Colophon (Kannada, as printed):** "nūrahattombhattaneya sūktavu mugidudu" — "The hundred-and-nineteenth Sūkta is ended."
+
+---
+
+## Sūkta 120 — *kā rādhaddhotrāśvinā* (printed pp. 495–?)
+
+**Heading (Kannada):** "nūra ippattaneya sūktavu" — "the hundred-and-twentieth Sūkta."
+
+**Anukramaṇī (Sanskrit, as printed; small type, read with several doubts):**
+
+> का राधद्धोत्रेति द्वादशर्चं पञ्चमं सूक्तम् । अत्रानुक्रमणिका । का राधद्द्वादशेत्यादौ [?] । प्रथमा द्वादशानां [?] त्र्यादितो ऽष्टकः [?] । प्रथमादित्रयोदशः [?] । अस्याद्यावर्धर्चः । अनुवृत्ते रौशिजो दैर्घतमसः कक्षीवान् ऋषिः । आद्या गायत्री । द्वितीया ककुप् । तृतीया चतुर्थ्यः कावीराण्यस्वरूप्यः [?] । पञ्चमी तनुशिरा । षष्ठ्याः सप्तम्यः [?] कृतिर्विराट् तिस्रो गायत्र्य इति । अस्याद्यौ [?] त्रिमत्र्यः [?] । अनुवृत्ते रौशिजो दैर्घतमसः कक्षीवान्नृषिः । आद्या गायत्री । विद्वांसाविष्येषा ककुप् मध्यमपादस्य द्वादशाक्षरत्वात् । मध्यमक्षेत्ये ककुप् । (अनु. ३-३ [as read]) इति हि तल्लक्षणम् । तृतीया हा विद्वांसेत्येषा काविराट् । नवकयोर्मध्ये जागते । (अनु. ६-३ [as read]) इत्युक्तलक्षणोपेतत्वात् । चतुर्थी वि पृच्छामीत्येषा …
+
+> *kā rādhaddhotreti dvādaśarcaṃ pañcamaṃ sūktam | atrānukramaṇikā | kā rādhaddvādaśetyādau [?] | prathamā dvādaśānāṃ [?] tryādito 'ṣṭakaḥ [?] | prathamāditrayodaśaḥ [?] | asyādyāvardharcaḥ | anuvṛtte rauśijo dairghatamasaḥ kakṣīvān ṛṣiḥ | ādyā gāyatrī | dvitīyā kakup | tṛtīyā caturthyaḥ kāvīrāṇyasvarūpyaḥ [?] | pañcamī tanuśirā | ṣaṣṭhyāḥ saptamyaḥ [?] kṛtirvirāṭ tisro gāyatrya iti | asyādyau [?] trimatryaḥ [?] | anuvṛtte rauśijo dairghatamasaḥ kakṣīvānnṛṣiḥ | ādyā gāyatrī | vidvāṃsāviṣyeṣā kakup madhyamapādasya dvādaśākṣaratvāt | madhyamakṣetye kakup | (anu. 3-3 [as read]) iti hi tallakṣaṇam | tṛtīyā hā vidvāṃsetyeṣā kāvirāṭ | navakayormadhye jāgate | (anu. 6-3 [as read]) ityuktalakṣaṇopetatvāt | caturthī vi pṛcchāmītyeṣā …*
+
+*Sense (mine and tentative; the Anukramaṇī is in dense type):* "*kā rādhat hotrā* — the fifth sūkta, of twelve Ṛks. The Anukramaṇikā says '*kā rādhad dvādaśa*' [as read]. The ṛṣi, by continuation from the preceding, is Kakṣīvān Dairghatamasa Auśija. The first Ṛk is Gāyatrī; the second, *Kakubh* (as a *pāda*-measure); … [the third: a Kāvirāj?], … the metre scheme is given in detail, [citing the *lakṣaṇa* from the Anukramaṇī, 'an *anu*-' with numerals read as 3-3 and 6-3 [?]], the fourth, *vi pṛcchāmi* …" *(the Anukramaṇī continues on p. 496)*
+
+---
+
+**Progress note:** Sūkta 119 complete (10 Ṛks, printed pp. 452–495). Sūkta 120 begun: heading and the first part of its (small-type) Anukramaṇī on printed p. 495 (PDF 515); the Anukramaṇī continues on p. 496. Next: printed p. 496 (PDF 516). The Anukramaṇī on p. 495 was read hastily and is partly guesswork (`[?]`); to be re-checked against the page at the end of the sūkta. Numerals as read: Ni. 2-2, sūtra numbers on pp. 494–495 `[as read]`; Anukramaṇī numbers "3-3", "6-3" `[?]`.
