@@ -8777,4 +8777,54 @@ Kannada: "Formerly, the Aśvins, going to hear the praise of Śukrācārya, saw 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–12 complete; Ṛk 13 through printed p. 365 (PDF 385): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 366). Next: printed p. 366 (PDF 386). Numerals: Ṛ. 1-116-10 per image; Ṛ. 1-116-17 and Ni. 4-19 as read `[?]`.
+### Printed p. 366  (PDF 386; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 13, continued)* "*Cyavana* and *cyavāna* are two words, both the name of one ṛṣi. He explains the word as meaning 'one who praises' [and quotes]:
+
+> युवं च्यवानं सनयं यथा रथं पुनर्युवानं चरथाय तक्षथुः ।
+> निष्टौग्र्यमूहथुरद्भ्यस्परि विश्वेत्ता वां सवनेषु प्रवाच्या ॥
+> (ऋ. सं. १०-३९-४)
+
+> *yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ carathāya takṣathuḥ |*
+> *niṣṭaugryamūhathuradbhyaspari viśvettā vāṃ savaneṣu pravācyā ‖*
+> *(ṛ. saṃ. 10-39-4)*
+
+— quoting this Ṛk, in which the word *cyavāna* is used, he says:
+
+> युवां च्यवानं सनयं पुराणं यथा रथं पुनर्युवानं चरणाय तक्षथुः । युवा प्रयौतीकर्माणि । तक्षतिः करोतिकर्मा (नि. ४-१९)
+
+> *yuvāṃ cyavānaṃ sanayaṃ purāṇaṃ yathā rathaṃ punaryuvānaṃ caraṇāya takṣathuḥ | yuvā prayautīkarmāṇi | takṣatiḥ karotikarmā (ni. 4-19)*
+
+"The Aśvins made the old ṛṣi Cyavana, who praises them, a man in youth" — thus [Sāyaṇa] has explained."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 13; grammar pages, noted briefly)**
+
+*Jarantam* — root *jṛṣ vayohānau*; *vyatyayo bahulam* (Pā. 3-1-85), in the sense of *laṭ* the suffix *śatṛ*, then *śap* vikaraṇa; because of that, *guṇa* for the root's *i*-vowel by *sārvadhātukārdhadhātukayoḥ*; the word *jarat*; since the *lasārvadhātuka* has come after *upadeśa*, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186) makes it *anudātta*, so the root accent remains; in the second case, when *am* follows, *num* because it is *ugit*. *Yuvānam* — root *yu miśraṇe*; *kanin yuvṛṣitakṣirājidhanvidhāriṣu…* [as printed *kanin yukṛṣi…*] (Uṇ. sū. 1-157 as the list reads it), the suffix *kanin*; since the suffix is *nit*, *jñityādir nityam*, the initial acute; the *i* of the *kanin* [vanishes] and the penultimate is lengthened. *Cakrathuḥ* — root *ḍukṛñ karaṇe*; *liṭ*, second person dual; *nighāta* accent. *Yuvoḥ* — the word *yuṣmad*; genitive dual following, *vyatyayo bahulam* (Pā. 3-1-85), so *yatva* by *yoci* (Pā. 7-2-89 as the list reads it) does not come; up to *ma* [the word is changed], *yuvāvau dvivacane* (Pā. 7-2-92 as read), the substitute *yuva*; *śeṣe lopaḥ* (Pā. 7-2-90 [as read]), elision of the *d*; *ato guṇe* (Pā. 6-1-97), *pararūpa* with the *a* that remains; as the *o*-form is *guṇa*, and follows, again *ato guṇe*, *pararūpa*; since an *udātta* was in place, *ekādeśa udāttenodāttaḥ* (Pā. 8-2-5), the acute accent.
+
+---
+
+### Printed p. 367  (PDF 387; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Śriyā* — *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168), the acute on the case ending. *Āvṛṇīta* — root *vṛñ sambhaktau*; *kryādi*; *laṅ*, third person singular, the suffix *ta*; *kryādibhyaḥ śnā*, *śnā* vikaraṇa; since *sārvadhātukam apit* (Pā. 1-2-4 as read [?]) makes the suffix *ṅit*, and it begins with a consonant, *ī halyaghoḥ* (Pā. 6-4-113), *ī* for the vikaraṇa; because it stands after an *ṛ*-sound, *ṇatva* for the *n*; the augment *aṭ*; and since it stands after an *ajanta*, the *nighāta* accent. ‖ 13 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.14)**
+
+> युवं तुग्राय पूर्व्येभिरेवैः पुनर्मन्यावभवतं युवाना ।
+> युवं भुज्युमर्णसो निः समुद्राद्विभिरूहथुर्ऋज्रेभिरश्वैः ॥ १४ ॥
+
+> *yuvaṃ tugrāya pūrvyebhirevaiḥ punarmanyāvabhavataṃ yuvānā |*
+> *yuvaṃ bhujyumarṇaso niḥ samudrādvibhirūhathurṛjrebhiraśvaiḥ ‖ 14 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.14)**
+
+> युवम् । तुग्राय । पूर्व्येभिः । एवैः । पुनःऽमन्या । अभवतम् । युवाना ।
+> युवम् । भुज्युम् । अर्णसः । निः । समुद्रात् । विऽभिः । ऊहथुः ।
+> ऋज्रेभिः । अश्वैः ॥ १४ ॥
+
+> *yuvam | tugrāya | pūrvyebhiḥ | evaiḥ | punaḥ 'manyā | abhavatam | yuvānā |*
+> *yuvam | bhujyum | arṇasaḥ | niḥ | samudrāt | vi 'bhiḥ | ūhathuḥ |*
+> *ṛjrebhiḥ | aśvaiḥ ‖ 14 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–13 complete; Ṛk 14 Saṃhitā and Pada written (printed p. 367, PDF 387). Next: printed p. 368 (PDF 388): Ṛk 14 bhāṣya onward. Numerals on pp. 366–367 from the reader's list (3-1-85, 6-1-186, 1-157, 7-2-89, 7-2-92, 7-2-90, 6-1-97, 8-2-5, 6-1-168, 6-4-113); Ṛ. 10-39-4 and Ni. 4-19 per image/list.
