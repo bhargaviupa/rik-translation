@@ -1122,4 +1122,89 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–6 complete; Ṛk 7 through printed p. 38 (PDF 58): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *subhage* with the Ṛk 2-11-21 quotation). Earlier citation on p. 29 corrected to 2-11-21 (clearer printing). Next: printed p. 39 (PDF 59). Open: Ni. numerals `[?]`; Uṇ./Pā. unnamed.
+### Printed p. 39  (PDF 59; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+"Here, in '*bhago naḥ*' ('*dhanaṃ no 'stu*', 'may wealth be ours'), they give for the word *bhaga* the meaning 'wealth'. The word *bhaga* conveys the meanings Sūrya, dharma, wealth, woman, and *avayava* ('limb, part'). Here, accepting the sense 'wealth', they explain it."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly)**
+
+Grammar page on *divaḥ* (accent of the ending by *ūḍidaṃpadādi…*), *adarśi* (*dṛś* "to see", aorist *luṅ* 3rd singular *ta*; *ciṇ* in place of *cli* by *ciṇ bhāvakarmaṇoḥ*; guṇa of the penultimate; elision of *ta* by *ciṇo luk*; augment *aṭ*; tiṅ-nighāta accent), *vyucchantī* (*uchī* "to depart", tudādi; *vivāsa* "driving away"; *śatṛ*; the *tuk* augment by *chaṃ ca* [Pā. *śe ca*?]; *ḍī* — *ugitaś ca* — with *num*; the *śa* class-sign accent on the *śa*; compound with the prefix *vi*, first-member accent), *yuvatiḥ* (*yūn* + *ti* in the feminine by *yūnas ti*; the stem designation *sv-ādiṣv asarvanāmasthāne*; *n*-elision by *nalopaḥ prātipadikāntasya*; final accent from the suffix), *śukravāsāḥ* (*vas* "to cover", *ghañ*; guṇa/vṛddhi of the penultimate by *ata upadhāyāḥ*; "*śukraṃ vāsaḥ yasya saḥ*" — bahuvrīhi, first-member accent), *īśānā* (*īś* "to be lord", adādi; *śānac*; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; feminine *ṭāp* by *ajādyatas ṭāp*; root-accent retained because *anudāttet*; accent by *tāsyanudāttet…*; nominative singular). Sūtra numbers small; I give none beyond.
+
+### Printed p. 40  (PDF 60; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *pārthivasya* (*pṛthivyāḥ idam* — the suffix *añ* by *pṛthivyā ñāñau*, Pā. 4-1-?? [?]; the vṛddhi *taddhiteṣv acām ādeḥ*; *jñityādir nityam* — first-syllable accent; genitive singular); *vasvaḥ* (*vasu* — a word that in the Vedic usage is neuter, by *vyatyayo bahulam* made masculine; guṇa on the genitive ending *ṅas* is prevented by *jasādiṣu chandasi vā vacanam*, since it is optional; *yaṇ* substituted); *subhage* (*śobhanaṃ bhagaṃ yasyāḥ sā*; the vocative with nighāta by *āmantritasya ca*); *vyuccha* (*uchī* "to depart"; *loṭ* 2nd singular, the elision of *hi* by *ato heḥ*; nighāta after an accented word). ‖ 7 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 8
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.8)**
+
+> परायतीनामन्वेति पाथ आयतीनां प्रथमा शश्वतीनाम् ।
+> व्युच्छन्ती जीवमुदीरयन्त्युषा मृतं कं चन बोधयन्ती ॥ ८ ॥
+
+> *parāyatīnāmanveti pātha āyatīnāṃ prathamā śaśvatīnām |*
+> *vyucchantī jīvamudīrayantyuṣā mṛtaṃ kaṃ cana bodhayantī ‖ 8 ‖*
+
+---
+
+### Printed p. 41  (PDF 61; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.8)**
+
+> परा३यतीनाम् । अनु । एति । पाथः । आऽयतीनाम् । प्रथमा ।
+> शश्वतीनाम् । विऽउच्छन्ती । जीवम् । उत्ऽईरयन्ती । उषाः । मृतम् । कम् । चन । बोधयन्ती ॥ ८ ॥
+
+> *parā3yatīnām | anu | eti | pāthaḥ | ā 'yatīnām | prathamā |*
+> *śaśvatīnām | vi 'ucchantī | jīvam | ut 'īrayantī | uṣāḥ | mṛtam | kam | cana | bodhayantī ‖ 8 ‖*
+
+*(Reading note after viewing the Pada: the first Pada-word is printed with a lengthened-vowel mark, as* parā-yatīnām *with the avagraha, written* परा३यतीनाम् *in the print's manner; the Saṃhitā's* ityuṣā *is the Pada's* uṣāḥ*; the Saṃhitā's* kaṃ cana *stays as two words.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.8)**
+
+> परायतीनां परागच्छन्तीनामतीतानामुषसां सम्बन्धि पाथोऽन्तरिक्षैकदेशलक्षणं स्थानम् । पाथोऽन्तरिक्षं पथा व्याख्यातम् । नि. ६-७ [?] इति यास्कः । अद्यतन्युषा अन्वेति । अनुगच्छति । अतीता उषसो यथा व्युष्टा एवमेवैषापि व्युच्छतीत्यर्थः । तथायतीनामागच्छन्तीनां शश्वतीनां बह्वीनामुषसां प्रथमाद्या भवति । एषा यथा वर्तते एवमेवागामिन्योऽप्युषस इत्यर्थः । तादृशी व्युच्छन्ती तमो वर्जयन्ती जीवं प्राणिनां जीवात्मानमुदीरयन्त्युषा मृतं स्वापसमये प्रलीनेन्द्रियत्वान्मृतमिव सन्तं कं चन कमपि पुरुषं बोधयन्ती पुनरिन्द्रियप्रवेशेन चेतनं कुर्वती प्रवर्तते इति शेषः ॥
+
+> *parāyatīnāṃ parāgacchantīnāmatītānāmuṣasāṃ sambandhi pātho 'ntarikṣaikadeśalakṣaṇaṃ sthānam | pātho 'ntarikṣaṃ pathā vyākhyātam | ni. 6-7 [?] iti yāskaḥ | adyatanyuṣā anveti | anugacchati | atītā uṣaso yathā vyuṣṭā evamevaiṣāpi vyucchatītyarthaḥ | tathāyatīnāmāgacchantīnāṃ śaśvatīnāṃ bahvīnāmuṣasāṃ prathamādyā bhavati | eṣā yathā vartate evamevāgāminyo 'pyuṣasa ityarthaḥ | tādṛśī vyucchantī tamo varjayantī jīvaṃ prāṇināṃ jīvātmānamudīrayantyuṣā mṛtaṃ svāpasamaye pralīnendriyatvānmṛtamiva santaṃ kaṃ cana kamapi puruṣaṃ bodhayantī punarindriyapraveśena cetanaṃ kurvatī pravartate iti śeṣaḥ ‖*
+
+*Sense (mine):* "*Parāyatīnām* — of the Uṣases that have gone away, the past ones — their *pātha*, the place that is a portion of the atmosphere. *Pātha* = atmosphere, explained under *pathā* (Ni. 6-7 [?]), says Yāska. The present Uṣas follows (*anveti*) it: as the past Uṣases have shone, so this one shines too. Likewise she is *prathamā*, the first, of the *āyatīnām*, the coming, *śaśvatīnām*, many Uṣases: as she is, so also the Uṣases to come will be. Such Uṣas, dispelling darkness, *jīvam udīrayantī*, rousing the *jīva*, the living self of creatures, *mṛtam*, those who, at the time of sleep, with their senses dissolved, are as if dead — *kaṃ cana*, any man whatever — *bodhayantī*, waking, making conscious again by the entering of the senses, she proceeds."
+
+*Grammatical tail (characterized, not transcribed):* *parāyatīnām* (*iṇ* "to go", the participle *śatṛ* in the *laṭ* sense; *yaṇ* for *iṇ*; feminine *ṅīp* by *ugitaś ca*; the genitive plural *nām* accented on the first syllable by the Vedic rule *jyāṃ chandasi bahulam*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*uṣāḥ* — Uṣas; *parāyatīnām* — of the Uṣases of the past; *pāthaḥ* — the path; *anveti* — follows; *āyatīnām* — of those that come hereafter; *śaśvatīnām* — of the countless Uṣases; *prathamā* — becomes the first; *vyucchantī* — Uṣas who drives out darkness; *mṛtam* — (being sleepless) as if dead; *kaṃ cana jīvam* — any person (or creature); *udīrayantī* — rousing with warmth; *bodhayantī* — making (him) one with awakened senses."
+
+### Printed p. 42  (PDF 62; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The present Uṣas follows the path of the many past Uṣases (that is, she too, like them, is a dispeller of darkness) and is the first of the countless Uṣases that are to come (those to come hereafter will also be, like her, dispellers of darkness); driving out the darkness, Uṣas rouses living beings with warmth (those who in the state of sleep are as if dead), and gives consciousness to each one."
+
+**English Translation (as printed)**
+
+> Following the path of the mornings that have passed, and first of the endless mornings that are to come, Ushas, the disperser of darkness, arouses living beings, and awakens every one (that lay) as dead.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**परायतीनां पाथः** — *Parāyatīnāṃ pāthaḥ* — "*antarikṣaikadeśalakṣaṇaṃ sthānam*": a place (*sthāna*), a portion of the atmosphere. "The word *pātha* has many meanings. Here it is used in the sense of 'path'. *Pāthontarikṣaṃ pathā vyākhyātam* (Ni. 6-7 as read [?]): Yāska, in giving the derivation of the word *panthāḥ* ('path'), says of the word *pātha* that it denotes the atmosphere, observes that this word's meaning is also being specially explained, and, to show that the word has several meanings, gives examples:
+
+> यत्रा चक्रुरमृता गातुमस्मै श्येनो न दीयन्नन्वेति पाथः ।
+> प्रति वां सूर उदिते विधेम नमोभिर्मित्रावरुणोत हव्यैः ॥
+> (ऋ. सं. ७-६३-५ [as read])
+
+> *yatrā cakruramṛtā gātumasmai śyeno na dīyannanveti pāthaḥ |*
+> *prati vāṃ sūra udite vidhema namobhirmitrāvaruṇota havyaiḥ ‖*
+> *(ṛ. saṃ. 7-63-5 [as read])*
+
+— the word *pātha* in this Ṛk denotes the atmosphere.
+
+> उषासृज [?] त्मन्या समञ्जन्देवानां पाथ ऋतुथा हवींषि ।
+> वनस्पतिः शमिता देवो अग्निः स्वदन्तु हव्यं मधुना घृतेन ॥
+> (ऋ. सं. १०-११०-१० [as read])
+> *(The first word is printed letter by letter as above; the context suggests* upa sṛja*, but I give the print, not the guess.)*
+
+Here *pātha* means food. Uṣas comes before the Sun's rising, each day, always before sunrise. Therefore the Uṣases of the present, though later than the former Uṣases, as the former passed away, so they, too, pass away; they, too, being lost along the atmospheric path, are destroyed […] *(continues on the next page)*.
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–7 complete; Ṛk 8 through printed p. 42 (PDF 62): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*pāthaḥ*, mid-topic). Next: printed p. 43 (PDF 63). Open: Ni. 6-7 `[?]`; *uṣāsṛja* first word of Ṛ. 10-110-10 as printed.
