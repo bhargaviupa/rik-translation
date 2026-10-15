@@ -11225,4 +11225,58 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–4 complete; Ṛk 5 Saṃhitā written (printed p. 469, PDF 489). Next: printed p. 470 (PDF 490): Ṛk 5 Pada onward. Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 468–469 `[as read]`.
+### Printed p. 470  (PDF 490; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.5)**
+
+> युवोः । अश्विना । वपुषे । युवाऽयुजम् । रथम् । वाणी इति ।
+> येमतुः । अस्य । शर्ध्यम् ।
+> आ । वाम् । पतित्वम् । सख्याय । जग्मुषी । योषा । अवृणीत ।
+> जेन्या । युवाम् । पती इति ॥ ५ ॥
+
+> *yuvoḥ | aśvinā | vapuṣe | yuvā 'yujam | ratham | vāṇī iti |*
+> *yematuḥ | asya | śardhyam |*
+> *ā | vām | patitvam | sakhyāya | jagmuṣī | yoṣā | avṛṇīta |*
+> *jenyā | yuvām | patī iti ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.5)** *(small type; read with some doubts)*
+
+> अश्विना हे अश्विनौ युवोर्युवयोर्वाणी वननीयौ प्रशस्यावश्वौ युवायुजं युवाभ्यां युज्यमानं रथमाजिधावनसमये [?] अस्य रथस्य यच्छर्ध्यं प्राप्यमादित्याख्यमवधिभूतं लक्ष्यं वपुषे शोभार्थं तद्येमतुः । सर्वेभ्यो देवेभ्यः पूर्वं प्रापयामासतुः । तदनन्तरं चा जग्मुष्यागतवती जेन्या जेतव्या विजेतव्या जयेन जीयमाना योषा सूर्या सख्याय सवित्रे [?] युवां युवयोः पतित्वमवृणीत । कथमिति । मम युवामेव पती भर्तारावित्यवृणीत ॥ युवोः । षष्ठीद्विवचने योचेति यत्वस्य सर्वविधीनां छन्दसि विकल्पितत्वादभावे शेषे लोप इति दकारलोपः । अतो गुण इति पररूपत्वम् । युवायुजम् । युवावौ द्विवचन इति द्व्यर्थाभिधायकस्य युष्मच्छब्दस्याविभक्तावपि व्यत्ययेन युवादेशः । शर्ध्यम् । कृधु प्रसहने । अस्माण्ण्यन्तादचो यदिति यत् । यतोऽनाव इत्याद्युदात्तत्वम् । जग्मुषी । गमेर्लिटः क्वसुः । उगितश्चेति ङीप् । वसोः संप्रसारणमिति संप्रसारणम् । गमहनेत्युपधालोपः । जेन्या । जि जये । औणादिक एन्यप्रत्ययः । टिलोपश्च ॥ [as read]
+
+> *aśvinā he aśvinau yuvoryuvayorvāṇī vananīyau praśasyāvaśvau yuvāyujaṃ yuvābhyāṃ yujyamānaṃ rathamājidhāvanasamaye [?] asya rathasya yacchardhyaṃ prāpyamādityākhyamavadhibhūtaṃ lakṣyaṃ vapuṣe śobhārthaṃ tadyematuḥ | sarvebhyo devebhyaḥ pūrvaṃ prāpayāmāsatuḥ | tadanantaraṃ cā jagmuṣyāgatavatī jenyā jetavyā vijetavyā jayena jīyamānā yoṣā sūryā sakhyāya savitre [?] yuvāṃ yuvayoḥ patitvamavṛṇīta | kathamiti | mama yuvāmeva patī bhartārāvityavṛṇīta ‖ yuvoḥ | ṣaṣṭhīdvivacane yoceti yatvasya sarvavidhīnāṃ chandasi vikalpitatvādabhāve śeṣe lopa iti dakāralopaḥ | ato guṇa iti pararūpatvam | yuvāyujam | yuvāvau dvivacana iti dvyarthābhidhāyakasya yuṣmacchabdasyāvibhaktāvapi vyatyayena yuvādeśaḥ | śardhyam | kṛdhu prasahane | asmāṇṇyantādaco yaditi yat | yato 'nāva ityādyudāttatvam | jagmuṣī | gamerliṭaḥ kvasuḥ | ugitaśceti ṅīp | vasoḥ saṃprasāraṇamiti saṃprasāraṇam | gamahanetyupadhālopaḥ | jenyā | ji jaye | auṇādika enyapratyayaḥ | ṭilopaśca ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, *yuvoḥ vāṇī* — your two praiseworthy, desirable horses, *yuvāyujam* — the chariot yoked by you two, at the time of the contest-run, that *śardhyam* — the goal to be reached, the end-point called the Āditya — *vapuṣe* — for splendour — *yematuḥ* — brought [it]: they got the chariot to it before all the gods. After that, *jagmuṣī* — she who came, *jenyā* — the one to be won, the prize, *yoṣā* — Sūryā, *sakhyāya* — for friendship (for [the sake of] the Sun [?]), *āvṛṇīta* — chose your two *patitvam* — lordship: 'you two are my lords (*patī*)'."
+
+---
+
+### Printed p. 471  (PDF 491; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.5)** (Kannada, rendered)
+
+*He aśvinā* — O Aśvins; *yuvoḥ* — your; *vāṇī* — splendid (horses); *yuvāyujam* — yoked by you; *ratham* — the chariot; *asya* — of this chariot; *śardhyam* — the goal in the race (the Sun); *vapuṣe* — for the sake of glory (to win glory); *yematuḥ* — [they] reached (before all others); *ā jagmuṣī* — who came; *jenyā* — [she who was] the prize in the race; *yoṣā* — Sūryā, the daughter of the Sun; *sakhyāya* — for friendship; *yuvām* — you two; *patī iti* — as (my) husbands; *vām* — your; *patitvam* — lordship (husbandhood); *avṛṇīta* — chose (accepted).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.5)** (Kannada, rendered)
+
+"O Aśvins! Your praiseworthy horses brought the chariot yoked by you to the goal in the race (the Sun), before all [others], and made [you] famed; thereafter Sūryā, the daughter of the Sun, who had been the prize [for the race], chose you (out of trust in you) as her husbands."
+
+**English Translation (as printed)**
+
+"Aswins, your admirable (horses) bore the car which you had harnessed, (first) to the goal, for the sake of honour, and the damsel, who was the prize, came, through affection, to you, and acknowledged your (husbandship), saying 'You are (my) lords'."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 5)**
+
+"For the *svayaṃvara* of Sūryā, the daughter of Sūrya, you yoked horses to your chariot so that it should go faster than the chariots of all the other gods, and in a moment your chariot, set out to win the prize fixed with the gods, reached the goal in the form of the Āditya. Because [the Aśvins] had reached the goal before all the other gods, the goddess Sūryā, pleased with your power, came to your chariot of her own accord and joined it — so the Aśvins' chariot and their power are described. When a dispute arose among the gods to settle who was superior, the greatness of the Aśvins, as exceeding all, has also been described here, as already [described] earlier."
+
+*Vāṇī* — *vananīyau praśasyāv aśvau*: "Sāyaṇa explains 'two horses worthy of being praised' [or: desired]. [Also] since the word *vāṇī* is stated among the names of speech (Ni. 1-?? [as read: 'ನಿ. ೧-೨೩']), [Skandasvāmin takes it as] *vāk* — 'speech'.
+
+> सुगान् पथो अकृणोन्निरजे गाः प्रावन् वाणीः पुरुहूतं धमन्तीः ।
+> (ऋ. सं. ३-३०-१० [as read])
+
+> *sugān patho akṛṇonniraje gāḥ prāvan vāṇīḥ puruhūtaṃ dhamantīḥ |*
+> *(ṛ. saṃ. 3-30-10 [as read])*
+
+*Vāṇīr āpaḥ, vahanāt vāṇyaḥ, vadanāt vācaḥ vāṇyaḥ* (Ni. 6-?? [as read: 'ನಿ. ೬-೩']) — since Yāska explains this way, *vāṇī* means 'waters' (the voices), 'words', so [he gives] the meaning."
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–4 complete; Ṛk 5 through printed p. 471 (PDF 491): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 472). Next: printed p. 472 (PDF 492). Numerals as read (no numeral list covers these pages): Ṛ. 3-30-10, Ni. 1-23, 6-3 `[as read]`.
