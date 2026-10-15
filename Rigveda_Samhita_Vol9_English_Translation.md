@@ -10118,4 +10118,58 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛk 1 complete; Ṛk 2 through printed p. 421 (PDF 441): all parts done except the end of its grammar (*arvataḥ* begun; continues p. 422). Next: printed p. 422 (PDF 442). Numerals as read (list stops at printed p. 380): Ni. numbers and sūtra numbers on pp. 420–421 `[as read]`.
+### Printed p. 422  (PDF 442; header "Maṃ. 1 A. 17 Sū. 118")
+
+*Grammar of Ṛk 2, concluded (noted briefly; sūtra numbers as read):* *Vardhayatam* — root *vṛdhu vṛddhau*; since it shows the action of a causer, *hetumati ca* (Pā. 3-1-26 as read), *ṇic*; on that account *guṇa* of the root's light penultimate, becomes *r*-final; after the *ṇijanta*, *loṭ*, second person dual. *Asme* — the word *asmad*; with the plural of the sixth case following, *supāṃ sulug* (Pā. 7-1-39 as read), *śe* substituted; *śeṣe lopaḥ*, elision of the initial. ‖ 2 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.3)**
+
+> प्रवद्यामना सुवृता रथेन दस्राविमं शृणुतं श्लोकमद्रेः ।
+> किमङ्ग वां प्रत्यवर्तिं गमिष्ठाहुर्विप्रासो अश्विना पुराजाः ॥ ३ ॥
+
+> *pravadyāmanā suvṛtā rathena dasrāvimaṃ śṛṇutaṃ ślokamadreḥ |*
+> *kimaṅga vāṃ pratyavartiṃ gamiṣṭhāhurviprāso aśvinā purājāḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.3)**
+
+> प्रवत्ऽयामना । सुऽवृता । रथेन । दस्रौ । इमम् । शृणुतम् ।
+> श्लोकम् । अद्रेः ।
+> किम् । अङ्ग । वाम् । प्रति । अवर्तिम् । गमिष्ठा । आहुः ।
+> विप्रासः । अश्विना । पुराऽजाः ॥ ३ ॥
+
+> *pravat 'yāmanā | su 'vṛtā | rathena | dasrau | imam | śṛṇutam |*
+> *ślokam | adreḥ |*
+> *kim | aṅga | vām | prati | avartim | gamiṣṭhā | āhuḥ |*
+> *viprāsaḥ | aśvinā | purā 'jāḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.3)** *(small type; read with several doubts)*
+
+> हे दस्रौ दर्शनीयावश्विनौ प्रवद्यामना प्रकृष्टगमनेन शीघ्रगामिना सुवृता शोभनवर्तनेन रथेनागत्याद्रेरादरं कुर्वतः स्तोतुरिमं श्लोकं स्तुतिलक्षणमिमां वाचं शृणुतम् । अङ्गाश्विना हे अश्विनौ पुराजाः पूर्वजाताः अङ्गिरसो विप्रासो मेधाविनो वां युवामवर्तिं दारिद्र्यं प्रति तत्परिहर्तुं गमिष्ठा गन्तृतमा [?] आहुः । कथयन्ति । किंशब्दः प्रदेशः फलप्रश्ने वर्तते । किं न कथयन्तीत्यर्थः । कथयन्त्येव सर्वे । तथा सत्यागन्तव्यमिति ॥ प्रवद्यामना । [grammar tail: *pravadyāmanā* (*pra-* + *yā prāpaṇe*; *ato manin-kvanib-vanipaś ca*, *bahulavacanād vane manin*; *bahuvrīhau pūrvapadaprakṛtisvaratvam*), *adreḥ* (*draja ādare*, *āj-pūrva*, *auṇādika kip*), *gamiṣṭhā* (*gantṛ*, *tṛś chandasīṣṭhan*, *turiṣṭhemeyaḥsu*, *tṛlopaḥ*; *supāṃ sulug*), *āhuḥ* (suffix accent; no *nighāta* since *pādādi*)] — characterized, not transcribed.
+
+> *he dasrau darśanīyāvaśvinau pravadyāmanā prakṛṣṭagamanena śīghragāminā suvṛtā śobhanavartanena rathenāgatyādrerādaraṃ kurvataḥ stoturimaṃ ślokaṃ stutilakṣaṇamimāṃ vācaṃ śṛṇutam | aṅgāśvinā he aśvinau purājāḥ pūrvajātāḥ aṅgiraso viprāso medhāvino vāṃ yuvāmavartiṃ dāridryaṃ prati tatparihartuṃ gamiṣṭhā gantṛtamā [?] āhuḥ | kathayanti | kiṃśabdaḥ pradeśaḥ phalapraśne vartate | kiṃ na kathayantītyarthaḥ | kathayantyeva sarve | tathā satyāgantavyamiti ‖ pravadyāmanā | [grammar tail: *pravadyāmanā* (*pra-* + *yā prāpaṇe*; *ato manin-kvanib-vanipaś ca*, *bahulavacanād vane manin*; *bahuvrīhau pūrvapadaprakṛtisvaratvam*), *adreḥ* (*draja ādare*, *āj-pūrva*, *auṇādika kip*), *gamiṣṭhā* (*gantṛ*, *tṛś chandasīṣṭhan*, *turiṣṭhemeyaḥsu*, *tṛlopaḥ*; *supāṃ sulug*), *āhuḥ* (suffix accent; no *nighāta* since *pādādi*)] — characterized, not transcribed.*
+
+*Sense (mine and tentative):* "O *dasrau* — Aśvins worth seeing, coming with your chariot (*pravadyāmanā* — of excellent motion, swift; *suvṛtā* — of good turning), hear this *śloka* — this praise-word — of the praiser who reveres (*adreḥ*, [with] respect). O Aśvins, *purājāḥ* — the ancient-born, the wise Aṅgirases, *viprāsaḥ*, say that you two are the swiftest to go (*gamiṣṭhā*) to remove poverty (*avartim*). [The word] *kim* is used for a question about the fruit: 'Do they not say it?' — all say it indeed. That being so, you should come."
+
+---
+
+### Printed p. 423  (PDF 443; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.3)** (Kannada, rendered)
+
+*He dasrau* — O Aśvins worth seeing; *pravadyāmanā* — fast-going [*yāman*, going]; *suvṛtā* — well formed; *rathena* — with the chariot (coming); *adreḥ* — one who shows respect; *imam ślokam* — this hymn, of the form of praise; *śṛṇutam* — hear; *aṅga* — O; *aśvinā* — Aśvins; *purājāḥ* — the ancient-born; *viprāsaḥ* — the wise; *vām* — you two; *avartim prati* — in order to remove (the praisers') poverty; *gamiṣṭhā* — [as] the most prompt of those who go; *āhuḥ kim* — do they not say?
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.3)** (Kannada, rendered)
+
+"O Dasras! Coming in your swift and well-formed chariot, hear this praise-word of the one who respects you. O Aśvins! Have not the ancient sages said that you are the foremost among those who go to remove the poverty of the praisers?"
+
+**English Translation (as printed)**
+
+"Dasras, (having come) with your quickmoving well-constructed car, hear this hymn, (recited by one) who reveres you; do not the ancient sages say that you are most prompt, Aswins, (to avert) poverty from the worshipper?"
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 3)**
+
+*Pravadyāmanā* — *prakṛṣṭagamanena śīghragāminā*: "'one that goes with excellent motion, swift' — this word, as an adjective of the chariot (*ratha*) that moves with speed, is explained in different ways by Sāyaṇa and Skandasvāmin: *pravate iti gatikarmā* [as read [?]]. *Yānti devatā yasmin sa yāmaḥ yajñaḥ* [?] — "that in which the deities go is the *yāma*, the sacrifice; [one who goes to] the sacrifices …" *(the paragraph continues on p. 424)*
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–2 complete; Ṛk 3 through printed p. 423 (PDF 443): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics begun (continues p. 424). Next: printed p. 424 (PDF 444). Numerals as read (list stops at printed p. 380): sūtra numbers on p. 422 `[as read]`.
