@@ -11499,4 +11499,46 @@ In this Ṛk too the word *vipra* is used in the sense of 'wise'."
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–6 complete; Ṛk 7 through printed p. 481 (PDF 501): all parts done except the end of its grammar (*vipanyayā*, *vidhate*, *bhuvat*; continues p. 482). Next: printed p. 482 (PDF 502). Numerals as read: Ṛ. 10-30-4, Ni. 3-19 and sūtra numbers on pp. 480–481 `[as read]`.
+### Printed p. 482  (PDF 502; header "Maṃ. 1 A. 17 Sū. 119")
+
+*Grammar of Ṛk 7, concluded (noted briefly; sūtra numbers as read):* *Vipanyayā* — root *pana stutau*; *aśvāghasyāt* [as read; *āghasya*] (Uṇ. sū. 4-?? [as read: 'ಉ. ಸೂ. ೪-೧೩೫']) — in the abstract sense the suffix *yat*; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute is obtained, but by *vyatyaya* the final acute occurs; in the compound the *kṛdanta* hind-part keeps its natural accent; in the feminine, *ṭāp*; instrumental singular form. *Vidhate* — root *vidha vidhāne*; *tudādi*; in the sense of *laṭ*, *śatṛ*; *tudādibhyaḥ śaḥ* (Pā. 3-1-77 as read), *śa* vikaraṇa; since it is *ñit*, *guṇa* of the root's light penultimate does not occur; dative singular form; because *śatṛ* is *numrahita* [without *num*] and the case ending follows it, *śaturanumo nadyajādī* (Pā. 6-1-173 as read), the acute on the case ending. *Bhuvat* — root *bhū sattāyām*; *leṭ*, third person singular, the suffix *tip*; *iteś ca lopaḥ pare* [*ita ś ca lopaḥ parasmaipadeṣu*] (Pā. 3-4-97 as read), elision of the *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), the augment *aṭ*; *bahulaṃ chandasi*, *luk* for *śap*; *bhūsuvos tiṅi* (Pā. 7-3-88 as read), since the prohibition of *guṇa* of the root's *u* occurs, *ajiknudhātubhruvām* (Pā. 6-4-77 as read), *uvaṅ* substituted; *tiṅanta nighāta* accent. ‖ 7 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.8)**
+
+> अगच्छतं कृपमाणं परावति पितुः स्वस्य त्यजसा निबाधितम् ।
+> स्वर्वतीरित ऊतीर्युवोरह चित्रा अभीके अभवन्नभिष्टयः ॥ ८ ॥
+
+> *agacchataṃ kṛpamāṇaṃ parāvati pituḥ svasya tyajasā nibādhitam |*
+> *svarvatīrita ūtīryuvoraha citrā abhīke abhavannabhiṣṭayaḥ ‖ 8 ‖*
+
+---
+
+### Printed p. 483  (PDF 503; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.8)**
+
+> अगच्छतम् । कृपमाणम् । परा‍ऽवति । पितुः । स्वस्य । त्यजसा ।
+> निऽबाधितम् ।
+> स्वःऽवतीः । इतः । ऊतीः । युवोः । अह । चित्राः । अभीके ।
+> अभवन् । अभिष्टयः ॥ ८ ॥
+
+> *agacchatam | kṛpamāṇam | parā 'vati | pituḥ | svasya | tyajasā |*
+> *ni 'bādhitam |*
+> *svaḥ 'vatīḥ | itaḥ | ūtīḥ | yuvoḥ | aha | citrāḥ | abhīke |*
+> *abhavan | abhiṣṭayaḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.8)** *(small type; read with some doubts)*
+
+> हे अश्विनौ परावति दूरदेशे समुद्रमध्ये स्वस्य पितुस्तुग्रस्य त्यजसा त्यागेन निबाधितं पीडितं भुज्युं कृपमाणं स्तुवन्तमगच्छतम् । युवां रक्षणार्थं गतवन्तौ । यस्मादेवं तस्माद्धे अश्विनौ स्वर्वतीः स्वर्वत्यः शोभनगमनयुक्ता इते इतोमुखाश्चित्राश्चायनीया युवोरह युवयोरेवोतीरूतयो रक्षा अभीके समीपेऽभिष्टयः सर्वैः प्राणिभिरभ्येषणीया अभवन् । भवन्ति ॥ कृपमाणम् । कृपेः स्तुतिकर्मा । अयं च तुदादिर्द्रष्टव्यः । स्वर्वतीः । सुपूर्वादर्तेर्भावे विच् । ततो मतुप् । छन्दसीर इति मतुपो वत्वम् । अभिष्टयः । इषु इच्छायाम् । भावे क्तिन् । शकन्ध्वादित्वात्परेरूपत्वम् ॥ [as read]
+
+> *he aśvinau parāvati dūradeśe samudramadhye svasya pitustugrasya tyajasā tyāgena nibādhitaṃ pīḍitaṃ bhujyuṃ kṛpamāṇaṃ stuvantamagacchatam | yuvāṃ rakṣaṇārthaṃ gatavantau | yasmādevaṃ tasmāddhe aśvinau svarvatīḥ svarvatyaḥ śobhanagamanayuktā ite itomukhāścitrāścāyanīyā yuvoraha yuvayorevotīrūtayo rakṣā abhīke samīpe 'bhiṣṭayaḥ sarvaiḥ prāṇibhirabhyeṣaṇīyā abhavan | bhavanti ‖ kṛpamāṇam | kṛpeḥ stutikarmā | ayaṃ ca tudādirdraṣṭavyaḥ | svarvatīḥ | supūrvādarterbhāve vic | tato matup | chandasīra iti matupo vatvam | abhiṣṭayaḥ | iṣu icchāyām | bhāve ktin | śakandhvāditvātparerūpatvam ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, when Bhujyu, afflicted (*nibādhitam*) by the abandonment (*tyajasā*) by his own father, Tugra, was *parāvati* — in a far-off place, in the middle of the sea — *kṛpamāṇam* — praising [you], you went to him: you went for protection. Since it is so, therefore, O Aśvins, *svarvatīḥ* — fine-moving, *itaḥ* — turned toward [us?], wondrous (*citrāḥ*) *ūtīḥ* — protections of you two, *abhīke* — near (at hand), *abhiṣṭayaḥ* — to be sought by all beings, *abhavan* — have become."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.8)** (Kannada, rendered; page continues)
+
+*(He aśvinau)* — O Aśvins; *parāvati* — in a far-off place (in the middle of the sea); *svasya pituḥ* — of his own father (Tugra); *tyajasā* — through his abandonment; *nibādhitam* — afflicted; *kṛpamāṇam* — [Bhujyu], who praised you; *agacchatam* — you went (to protect); *(he aśvinau)* — O Aśvins; *svarvatīḥ* — [which are] of auspicious motion; *itaḥ* — facing (this way, to us); *citrāḥ* — wondrous; *yuvoḥ aha* — your own; *ūtīḥ* — protecting acts; *abhīke* — near; *abhiṣṭayaḥ* — to be desired (by all beings); *abhavan* — have become.
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–7 complete; Ṛk 8 through printed p. 483 (PDF 503): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 484). Next: printed p. 484 (PDF 504). Numerals as read: sūtra numbers on p. 482 `[as read]`.
