@@ -2018,4 +2018,104 @@ Grammar page on *āvahantī* (*vah* "to carry"; *śatṛ* in the *laṭ* sense; 
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–15 complete; Ṛk 16 through the printed English on p. 76 (PDF 96): Saṃhitā, Pada, bhāṣya (with several `[?]` in the small type), pratipadārtha, bhāvārtha, English. Next: printed p. 77 (PDF 97) — Special Topics of Ṛk 16 etc. Corrected: Pada word *araik* (Ṛks 1, 2, 16) now unambiguous (the `[?]` in Ṛk 1 removed).
+### Printed p. 77  (PDF 97; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**आयुः** — *Āyuḥ.* "*Andhaḥ*, *vājaḥ* and so on — among the twenty-eight [as read] names of food (Ni. 2-7 as read [?]) the word *āyus* is stated; so *āyus* means food."
+
+"The meaning explained in this Ṛk is, as it were, a prayer addressed to the deity Uṣas, whether by the priests (*ṛtvij*) or by the sons and grandsons of the sacrificer. Uṣas-time has now arrived. The darkness has gone; Uṣas's light has increased. Uṣas has appeared in order that our vital breath, which stands in the place of the soul (*jīvasthānīya*) and was nearly dead (*mṛtaprāya*) in sleep, may be made ready to act. Our Uṣas — the one standing in the place of our vital breath — now having arisen, shows the way for the Sun, who is to move on. Since the Sun's rising is the end of Uṣas, the priests, Adhvaryu and the rest, [begin] to prepare, as food for the sacrifice, the oblations — Soma, Pavamāna and the like — thus Skandasvāmin explains."
+
+"When the light of Uṣas has appeared, in all creatures the impulse arises to accomplish their own affairs. In this body, the light of the *jīva*, which exists in the form of the Supreme Self, shines forth. Uṣas has cleared the path for the Sun's going. Therefore, in whatever place men of excellent mind give food in abundance — to that place let us go: thus Sāyaṇa explains the meaning."
+
+**असुर्न आगात्** — *Asur na āgāt* — "*asur iti prāṇanāma*" (a name for the breath); "*asuḥ śarīrasya prerayitā*" (the impeller of the body). "Skandasvāmin explains that the word *asu* conveys the meaning '*prāṇa*' (life-breath). The Nirukta-writer, explaining the word *asu* as meaning both 'life-breath' and '*prajñā*' (intelligence), gives examples suited to both meanings —
+
+> तेदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम । [first words doubtful [?]]
+> ऊर्जाद उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम् ॥
+> (ऋ. सं. १०-५३-४ [as read])
+
+> *tedadya vācaḥ prathamaṃ masīya yenāsurā~ abhi devā asāma | [first words doubtful [?]]*
+> *ūrjāda uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ‖*
+> *(ṛ. saṃ. 10-53-4 [as read])*
+
+And again —
+
+> असुराः असुरताः स्थानेष्वस्ताः स्थानेभ्य इति वा । अपि वासुरिति प्राणनामास्यः शरीरे भवति तेन तद्वन्तः । असोरसुरानसृजत तदसुराणामसुरत्वम् ॥ इति विज्ञायेते [?]
+> (नि. ३-८ [as read])
+
+> *asurāḥ asuratāḥ sthāneṣvastāḥ sthānebhya iti vā | api vāsuriti prāṇanāmāsyaḥ śarīre bhavati tena tadvantaḥ | asorasurānasṛjata tadasurāṇāmasuratvam ‖ iti vijñāyete [?]*
+> *(ni. 3-8 [as read])*
+
+### Printed p. 78  (PDF 98; header "Maṃ. 1 A. 16 Sū. 113")
+
+"— here he explains that the word *asu* denotes life-breath.
+
+> उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः ।
+> असुं य ईयुरवृका ऋतज्ञास्ते नोऽवन्तु पितरो हवेषु ॥
+> (ऋ. सं. १०-१५-१ [as read])
+
+> *udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ |*
+> *asuṃ ya īyuravṛkā ṛtajñāste no 'vantu pitaro haveṣu ‖*
+> *(ṛ. saṃ. 10-15-1 [as read])*
+
+Here also the word *asu* denotes life-breath (Ni. 11-19 as read [?]).
+
+> असुरिति प्रज्ञानामास्यत्यनर्थान् [?] अस्याः श्यामर्थाः [?] ॥
+> (नि. १०-३४ [as read])
+
+> *asuriti prajñānāmāsyatyanarthān [?] asyāḥ śyāmarthāḥ [?] ‖*
+> *(ni. 10-34 [as read])*
+
+— the word *asu* conveys the meaning '*prajñā*' (intelligence). Intelligence drives away troubles; there is no one possessed of intelligence who is without [the means of] intelligence" — so they explain [the Kannada sentence is compressed; the Sanskrit is doubtful [?]]. "Of these two views, Skandasvāmin, taking the meaning 'life-breath', and Sāyaṇa, taking the view 'intelligence' [as printed], give their explanation."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 16; grammar page, noted briefly)**
+
+Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plural, *dhvam* ending; *ṭita ātmanepadānāṃ ṭer e* — *e* for the final; the *e* → *am* by *savābhyāṃ vāmau*, Pā. 3-4-91 as read [?], the *ām* substitution; nighāta after an accented word), *āgāt* (*ā* + *iṇ* "to go"; aorist 3rd singular; *iṇo gā luṅi*, Pā. 2-4-45 as read [?]; the *gā* substitution; *gātisthāghupābhūbhyaḥ…* elision of *sic*; the augment *aṭ*; nighāta), *āraik* (*ric* "to empty", *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6 as read [?]; 3rd singular *tip*; elision of the *i* by *itaś ca*; the *vikaraṇa* elided by *bahulaṃ chandasi*; guṇa of the penultimate by *pugantalaghūpadhasya ca*, Pā. 7-3-86 as read [?]; elision of the ending by *hal-ṅyābbhyaḥ…*; *k* for *c* by *co ḥ kuḥ*; the augment *aṭ*; the *ai* from *e* by *vyatyaya*; nighāta is not applied because of the preceding word *eti*, since in *tiṅ atiṅaḥ* the word *ati-* gives… [as printed, compressed]; the *aṭ* being *udātta*, the word has the first-syllable accent).
+
+---
+
+### Printed p. 79  (PDF 99; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+*Grammar page of Ṛk 16, concluded (noted briefly):* *panthām* (the stem *pathin*, accusative singular; *pathimathyṛbhukṣām āt*, Pā. 7-1-85 as read [?], by *vyatyaya* gives the *a*; *thau/*[the substitute] *nthā* for *thas* by *tho nthaḥ*, Pā. 7-1-87 as read [?], giving *panthām*); *yātave* (*yā* "to go", *tavai* in the sense of the infinitive by *tumarthe sesenasen…*, Pā. 3-4-9 as read [?]; the first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]); *aganma* (*gam* "to go", aorist; as before the *vikaraṇa* elided by *bahulaṃ chandasi*; the 1st plural ending *mas*; the *s* elided by *nityaṃ ṅitaḥ*; *mnoś ca*, the *m* of the root becoming *n* before the *m*-ending, Pā. 8-2-64 as read [?]; the augment *aṭ*; no nighāta because it stands at the beginning of the *pāda*; the augment being *udātta*, first-syllable accent); *pratirante* (*tir* "to grow" [as printed: *tira vṛddhau*], *laṭ* 3rd plural; the nighāta prevented by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; since *adupadeśa*, the *sārvadhātuka* *tāsyanudāttet…* is unaccented, the accent of the *vikaraṇa* remains). ‖ 16 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 17
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.17)**
+
+> स्यूमना वाच उदियर्ति वह्निः स्तवानो रेभ उषसो विभातीः ।
+> अद्या तदुच्छ गृणते मघोन्यस्मे आयुर्नि दिदीहि प्रजावत् ॥ १७ ॥
+
+> *syūmanā vāca udiyarti vahniḥ stavāno rebha uṣaso vibhātīḥ |*
+> *adyā taduccha gṛṇate maghonyasme āyurni didīhi prajāvat ‖ 17 ‖*
+
+### Printed p. 80  (PDF 100; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.17)**
+
+> स्यूमना । वाचः । उत् । इयर्ति । वह्निः । स्तवानः । रेभः ।
+> उषसः । विऽभातीः ।
+> अद्य । तत् । उच्छ । गृणते । मघोनि । अस्मे इति । आयुः ।
+> नि । दिदीहि । प्रजाऽवत् ॥ १७ ॥
+
+> *syūmanā | vācaḥ | ut | iyarti | vahniḥ | stavānaḥ | rebhaḥ |*
+> *uṣasaḥ | vi 'bhātīḥ |*
+> *adya | tat | uccha | gṛṇate | maghoni | asme iti | āyuḥ |*
+> *ni | didīhi | prajā 'vat ‖ 17 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.17)**
+
+> वह्निः स्तोत्राणां वोढा रेभः । स्तोतृनामैतत् । स्तोतोषसो विभातीः प्रकाशमाना उषोदेवताः स्तवानः स्तुवन् वाचो वेदरूपायाः सम्बन्धीनि स्यूमना स्यूमानि सुस्तुतानि सन्ततान्यृक्छान्त्यादिय [?]न्युदियर्ति । उद्गमयति । उच्चारयति । अतो हे मघोनि मघवत्युषः अद्यास्मिन्समये गृणते स्तुवते तस्मै पुरुषाय तदुच्छ दृष्टिनिरोधकतया प्रसिद्धं स्वैशं तमो विवासय । वर्जय । अस्मे अस्मभ्यं च प्रजावत् प्रजाभिः पुत्रपौत्रादिभिर्युक्तमायुरन्नं नि दिदीहि नितरां प्रकाशय । दीदेतिश्छान्दसो दीप्तिकर्मा । प्रयच्छेत्यर्थः ॥ [this passage is in small close type; the words marked [?] are doubtful]
+
+> *vahniḥ stotrāṇāṃ voḍhā rebhaḥ | stotṛnāmaitat | stotoṣaso vibhātīḥ prakāśamānā uṣodevatāḥ stavānaḥ stuvan vāco vedarūpāyāḥ sambandhīni syūmanā syūmāni sustutāni santatānyṛkchāntyādiya [?]nyudiyarti | udgamayati | uccārayati | ato he maghoni maghavatyuṣaḥ adyāsminsamaye gṛṇate stuvate tasmai puruṣāya taduccha dṛṣṭinirodhakatayā prasiddhaṃ svaiśaṃ tamo vivāsaya | varjaya | asme asmabhyaṃ ca prajāvat prajābhiḥ putrapautrādibhiryuktamāyurannaṃ ni didīhi nitarāṃ prakāśaya | dīdetiśchāndaso dīptikarmā | prayacchetyarthaḥ ‖ [this passage is in small close type; the words marked [?] are doubtful]*
+
+*Sense (mine):* "*Vahniḥ* — the bearer of the hymns, *rebhaḥ* (a name for a singer): the singer praising Uṣas, who shines forth (*vibhātīḥ*, the deity Uṣas), raises up the well-praised, continuous (*sūmanā*, 'stitched together') utterances, the chants of the Veda, and utters them. Therefore, O *maghoni*, wealthy Uṣas, *adya*, at this time, *tad uccha* — for him, the praiser (*gṛṇate*), drive away that darkness which is known as the obstructor of sight, remove it. And *asme*, to us, give *prajāvat āyuḥ*, food (*āyus*) together with progeny — sons, grandsons and the rest; *ni didīhi*, bestow constantly, make shine. The verb *dīdeti* in the Veda has the sense of shining (*dīpti*): 'give', is the sense."
+
+*Grammatical tail (characterized, not transcribed):* *syūmanā* (*sivu* "to sew", in the sense of continuation; the suffix *manin* in the passive, as the "seen" (*dṛśi*) in the rule covers all cases; accent by the augment etc.; the plural-neuter *śi* with the Vedic *ā*); *iyarti* (*ṛ* "to go", *juhotyādi* class, with *śap* → *śluk*; doubling; *ṛ* → *iy*; the reduplication of *abhyasta* gives the first-syllable accent); *stavānaḥ* (*ṣṭuñ* "to praise", *śānac*; the elision of *śap* by *adādi*; the *śānac* being *ārdhadhātuka* by *chandasy ubhayathā*, *guṇa*, *avādeśa*, the first-syllable accent from the suffix); *vibhātīḥ* (*bhā* "to shine", *śatṛ*, *ṅīp* by *śatranumo nadyajādī*; accent); *gṛṇate* (*gṝ* "to praise", kryādi; *pā*-… [the printed rule on prefix accent]); *asme* (the substitute *asme* for *asmabhyam*, by *supāṃ sulug…*, the dative: *ṅe* → *e*, *śeḥ* *ādeśa*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha / Bhāvārtha** *(the Kannada Pratipadārtha and Bhāvārtha of Ṛk 17 are on p. 81)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–16 complete; Ṛk 17 Saṃhitā, Pada and bhāṣya done (through printed p. 80, PDF 100). Next: printed p. 81 (PDF 101) — Ṛk 17 pratipadārtha, bhāvārtha, English, Special Topics. Open: bhāṣya words in small type `[?]`; Pā. numbers as read.
