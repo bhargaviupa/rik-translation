@@ -3278,4 +3278,94 @@ so a speech addressed to a deity, or a speech uttered with devotion to win the d
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–6 complete (through printed p. 129, PDF 149); Ṛk 7 Saṃhitā written. Next: printed p. 130 (PDF 150) — Ṛk 7 Pada, bhāṣya… Open: numerals as read.
+### Printed p. 130  (PDF 150; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.7)**
+
+> मा । नः । महान्तम् । उत । मा । नः । अर्भकम् । मा । नः ।
+> उक्षन्तम् । उत । मा । नः । उक्षितम् ।
+> मा । नः । वधीः । पितरम् । मा । उत । मातरम् । मा । नः ।
+> प्रियाः । तन्वः । रुद्र । रीरिषः ॥ ७ ॥
+
+> *mā | naḥ | mahāntam | uta | mā | naḥ | arbhakam | mā | naḥ |*
+> *ukṣantam | uta | mā | naḥ | ukṣitam |*
+> *mā | naḥ | vadhīḥ | pitaram | mā | uta | mātaram | mā | naḥ |*
+> *priyāḥ | tanvaḥ | rudra | rīriṣaḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.7)**
+
+> हे रुद्र नोऽस्माकं मध्ये महान्तं वृद्धं मा वधीः । मा हिंसीः । उतापि च नोऽस्माकमर्भकं बालं मा हिंसीः । तथा नोऽस्माकं मध्य उक्षन्तं सेक्तारं मध्यवयस्कं युवानं मा वधीः । उतापि च नोऽस्मदीयमुक्षितं गर्भरूपेण स्त्रीषु निषिक्तमपत्यं मा वधीः । तथा नोऽस्माकं पितरं जनकं मा वधीः । उतापि च मातरं जननीं मा वधीः । तथा नोऽस्माकं प्रियः स्नेहविषयास्तन्वः शरीराणि तनूषु भवा वा प्रजा वा हे रुद्र मा रिरिषः । मा हिंसीः ॥ [grammatical tail: *vadhīḥ* — *han* with *vadha*-substitution, *luṅ* 2nd singular, *sic*, *iṭ*, the elision by *ato lopasya sthānivadbhāvāt*…; *ririṣaḥ* — *riṣ* "to injure", the *ṇyanta* *luṅ*, *caṅ*, doubling, *ṇilopa*, the reduplication shortening by *bahulaṃ chandasi*.]
+
+> *he rudra no 'smākaṃ madhye mahāntaṃ vṛddhaṃ mā vadhīḥ | mā hiṃsīḥ | utāpi ca no 'smākamarbhakaṃ bālaṃ mā hiṃsīḥ | tathā no 'smākaṃ madhya ukṣantaṃ sektāraṃ madhyavayaskaṃ yuvānaṃ mā vadhīḥ | utāpi ca no 'smadīyamukṣitaṃ garbharūpeṇa strīṣu niṣiktamapatyaṃ mā vadhīḥ | tathā no 'smākaṃ pitaraṃ janakaṃ mā vadhīḥ | utāpi ca mātaraṃ jananīṃ mā vadhīḥ | tathā no 'smākaṃ priyaḥ snehaviṣayāstanvaḥ śarīrāṇi tanūṣu bhavā vā prajā vā he rudra mā ririṣaḥ | mā hiṃsīḥ ‖ [grammatical tail: *vadhīḥ* — *han* with *vadha*-substitution, *luṅ* 2nd singular, *sic*, *iṭ*, the elision by *ato lopasya sthānivadbhāvāt*…; *ririṣaḥ* — *riṣ* "to injure", the *ṇyanta* *luṅ*, *caṅ*, doubling, *ṇilopa*, the reduplication shortening by *bahulaṃ chandasi*.]*
+
+*Sense (mine):* "O Rudra, among us do not slay (*mā vadhīḥ*) the *mahāntam*, the aged; nor our *arbhakam*, the child; nor among us the *ukṣantam*, the sprinkler, the youth in middle age; nor our *ukṣitam*, the offspring cast into women in the form of an embryo; nor our father, the begetter; nor our mother, the bearer; and our dear *tanvaḥ*, bodies — or *tanūṣu bhavāḥ*, progeny born in the bodies — O Rudra, do not hurt (*mā ririṣaḥ*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he rudra* — O Rudra; *naḥ* — among us; *mahāntam* — the old (the elder); *mā vadhīḥ* — do not slay; *uta* — and; *naḥ arbhakam* — our child; *mā (vadhīḥ)* — do not slay; *naḥ ukṣantam* — our young men, the producers of children; *mā (vadhīḥ)*; *uta* — and; *naḥ* — our; *ukṣitam* — the children in the womb; *mā (vadhīḥ)*; *naḥ pitaram* — our father; *mā (vadhīḥ)*; *uta* — and; *mātaram mā (vadhīḥ)* — do not slay our mother; *naḥ priyāḥ* — our dear; *tanvaḥ* — embodied progeny; *mā ririṣaḥ* — do not injure."
+
+### Printed p. 131  (PDF 151; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Rudra, do not kill any one of us — the elders, the children, the youths who are begetters, the children in the womb, father, mother, and dear friends."
+
+**English Translation (as printed)**
+
+> Injure not, Rudra, those amongst us who are old or young, who are capable of begetting, or who are begotten, nor a father, nor a mother, nor afflict our precious persons.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**तन्वः** — *Tanvaḥ* — "*śarīrāṇi tanūṣu bhavāḥ prajā vā*": "though *tanūḥ* (the body) is a word that is singular, here the plural *tanvaḥ* is used; 'bodies, or progeny born from bodies'."
+
+**अर्भकम्** — *Arbhakam* — "*bālam*": "since the word *arbhaka* is read among the twelve [as read] names of 'small' (*hrasva*) '*kṣullaka*', '*hrasva*' and so on (Ni. 3-?? as read [?]), it means 'small'. Small here means a child not yet of age."
+
+**रुद्र** — *Rudra* — "when explaining the meaning of this word they say '*rodayatīti rudraḥ*' — Rudra is he who makes [the world] weep; and, following the quality of *tamas* mainly in all the world, [they say] Rudra is he who dissolves the world. Therefore in this Ṛk the prayer is made that Rudra may protect without harm us, who sacrifice to him and serve him with salutations; our children; our relatives who enjoy happiness in youth; the children in the womb in our lineage; our mothers and fathers; and our dear bodies."
+
+**उक्षन्तम् उक्षितम्** — *Ukṣantam, ukṣitam* — "these words are formed from the root *ukṣa secane*, 'to sprinkle'. *Ukṣantam*: since it is in the present tense, 'one who sprinkles the seed (*retas*)', who is in youth (*retasaḥ sektāram*); and he explains that the word *ukṣitam* likewise has this meaning of derivation: 'the child in the womb now, who has to be born later'."
+
+### Printed p. 132  (PDF 152; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly)**
+
+*ukṣantam* (*ukṣa* "to sprinkle"; *śatṛ* in the *laṭ* sense; the *śatṛ* is unaccented by *tāsyanudāttet…*, the root accent remains; since it is *ugit*, *num* in the accusative); *ukṣitam* (*niṣṭhā*, *kta* in the passive; *ārdhadhātukasyeḍ valādeḥ*, Pā. 7-2-35 as read [?], the augment *iṭ*; final accent from the suffix); *vadhīḥ* (*han* "to injure, to go", *luṅ* 2nd singular *sip*; elision of *i* by *itaś ca*; *luṅi ca*, Pā. 2-4-43 as read [?], *vadha* for *han*, since it is *adanta*, *cli* → *sic* by *cleḥ sic*; *ārdhadhātukasyeḍ…*, *iṭ*; *ato lopaḥ*, Pā. 6-4-48 as read [?], the final *a* of *vadha* elided; *sici vṛddhiḥ*; *īṭ* by *asti-sico 'pṛkte*, Pā. 7-3-96 as read [?]; *iṭa īṭi*, Pā. 8-2-28 as read [?], the *s* of *siC* elided after *iṭ*; the *s* of the ending → *ru* → visarga; *na māṅyoge*, Pā. 6-4-74 as read [?], no augment *aṭ*; nighāta); *tanvaḥ* (in the place of the udātta a *yaṇ*, followed by the ending, thus *udāttasvaritayor yaṇaḥ svaritaḥ anudāttasya*, Pā. 8-2-4 as read [?]: it takes the svarita accent); *ririṣaḥ* (*riṣ* "to injure", *ṇic*, then *luṅ*; *sip*; *itaś ca*; *ṇiśridruśrubhyaḥ kartari caṅ*, Pā. 3-1-48 as read [?], *caṅ* for *cli*; *caṅi*, Pā. 6-1-11 as read [?], doubling; the guṇa of the penultimate because of the *ṇic*; *ṇer aniṭi*, Pā. 6-4-51 as read [?], the elision of *ṇic*; *ṇau caṅy upadhāyā hrasvaḥ*, Pā. 7-4-1 as read [?]; *sanvallaghuni*, Pā. 7-4-93 as read [?]; *dīrgho laghoḥ*, Pā. 7-4-94 as read [?], lengthening of the reduplication; in the Veda a shortening arises; *na māṅyoge*, no augment; nighāta). ‖ 7 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 8
+
+### Printed p. 133  (PDF 153; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.8)**
+
+> मा नस्तोके तनये मा न आयौ मा नो गोषु मा नो अश्वेषु रीरिषः ।
+> वीरान्मा नो रुद्र भामितो वधीर्हविष्मन्तः सदमित्त्वा हवामहे ॥ ८ ॥
+
+> *mā nastoke tanaye mā na āyau mā no goṣu mā no aśveṣu rīriṣaḥ |*
+> *vīrānmā no rudra bhāmito vadhīrhaviṣmantaḥ sadamittvā havāmahe ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.8)**
+
+> मा । नः । तोके । तनये । मा । नः । आयौ । मा । नः । गोषु ।
+> मा । नः । अश्वेषु । रीरिषः ।
+> वीरान् । मा । नः । रुद्र । भामितः । वधीः । हविष्मन्तः ।
+> सदम् । इत् । त्वा । हवामहे ॥ ८ ॥
+
+> *mā | naḥ | toke | tanaye | mā | naḥ | āyau | mā | naḥ | goṣu |*
+> *mā | naḥ | aśveṣu | rīriṣaḥ |*
+> *vīrān | mā | naḥ | rudra | bhāmitaḥ | vadhīḥ | haviṣmantaḥ |*
+> *sadam | it | tvā | havāmahe ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.8)**
+
+> हे रुद्र नोऽस्माकं तोकादिविषये मा रिरिषः । मा हिंसीः । तोकशब्दः पुत्रवाची । तनयस्तत्पुत्रः । आयुरित्यन्तोदात्त्रो [?] मनुष्यनाम । पुत्रपौत्रव्यतिरिक्तो योऽस्मदीयो मनुष्यस्तस्मिन् गोषु पश्वादिषु च मा रिरिषः । हिंसां मा कृथाः । तथा हे रुद्र वीरान् विक्रान्तान् शौर्योपेतानस्मदीयान् भामितः क्रुद्धः सन् मा वधीः । मा हिंसीः । वयं च हविष्मन्तो हविर्भिर्युक्ताः सन्तः सदमित् सर्वदैव त्वां हवामहे । आह्वयामहे ॥ आयौ । इण् गतौ । छन्दसीणः इत्यन्यत्प्रत्ययः । भामितः । भामु क्रोधे क्रोधिकरणे चेति कर्तरि क्तः । हवामहे । ह्वेञोऽलिटि बहुलं छन्दसीति संप्रसारणम् ॥
+
+> *he rudra no 'smākaṃ tokādiviṣaye mā ririṣaḥ | mā hiṃsīḥ | tokaśabdaḥ putravācī | tanayastatputraḥ | āyurityantodāttro [?] manuṣyanāma | putrapautravyatirikto yo 'smadīyo manuṣyastasmin goṣu paśvādiṣu ca mā ririṣaḥ | hiṃsāṃ mā kṛthāḥ | tathā he rudra vīrān vikrāntān śauryopetānasmadīyān bhāmitaḥ kruddhaḥ san mā vadhīḥ | mā hiṃsīḥ | vayaṃ ca haviṣmanto havirbhiryuktāḥ santaḥ sadamit sarvadaiva tvāṃ havāmahe | āhvayāmahe ‖ āyau | iṇ gatau | chandasīṇaḥ ityanyatpratyayaḥ | bhāmitaḥ | bhāmu krodhe krodhikaraṇe ceti kartari ktaḥ | havāmahe | hveño 'liṭi bahulaṃ chandasīti saṃprasāraṇam ‖*
+
+*Sense (mine):* "O Rudra, in regard to our *toka* and the rest do not harm (*mā ririṣaḥ*). *Toka* denotes 'son'; *tanaya*, his son; *āyu* (accent on the last syllable) is a name of man: do not harm any men of ours other than sons and grandsons; nor *goṣu*, in cattle and other beasts. Likewise, O Rudra, do not kill, angered (*bhāmitaḥ*), our heroes, valiant men endowed with courage. And we, *haviṣmantaḥ*, equipped with oblations, ever (*sadam it*) call thee, *havāmahe*."
+
+*Grammatical tail:* *āyau* (*iṇ* "to go", with the Vedic suffix by *chandasīṇaḥ*); *bhāmitaḥ* (*bhāmu* "to be angry, to put into anger", *kta* in the agent sense); *havāmahe* (*hvā* …, *saṃprasāraṇa* by *bahulaṃ chandasi*, not in the *liṭ*).
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–7 complete; Ṛk 8 Saṃhitā, Pada, bhāṣya done (through printed p. 133, PDF 153). Next: printed p. 134 (PDF 154) — Ṛk 8 pratipadārtha, bhāvārtha, English… Open: numerals as read `[?]`.
