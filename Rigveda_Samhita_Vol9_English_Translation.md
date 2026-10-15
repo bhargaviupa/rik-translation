@@ -427,4 +427,102 @@ Sense: "Having thus explained the seventh Adhyāya, the explanation of the eight
 
 ---
 
-**Progress note:** Sūkta 113: Ṛk 1 complete through the Special Topics of printed p. 5 (PDF 25) — the Special Topics may continue on p. 6. Next: printed p. 6 (PDF 26) onward. Open: sūtra numbers in the grammar tail (left unnamed), Ni. ref `[?]`, devatā-box numerals `[?]`. IAST not yet run for Sūkta 113 text.
+### Printed p. 6  (PDF 26; header "Maṃ. 1 A. 16 Sū. 113")  [Special Topics continue]
+
+Yāska explains this Ṛk in the following way:
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिरगमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्र्युषसे योनिमरिचत् स्थानम् । स्त्रीयोनिरभियुते एनां गर्भः ॥ [last words doubtful, [?]]
+> (नि. २-१९)
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotiragamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātryuṣase yonimaricat sthānam | strīyonirabhiyute enāṃ garbhaḥ ‖ [last words doubtful, [?]]*
+> *(ni. 2-19)*
+
+"According to the saying '*rātreḥ paraḥ kālaḥ uṣa ity ucyate*' ("the time after night is called Uṣas") [as quoted by the Kannada], the last portion of the night, that is the period before sunrise, is called Uṣas-time. The brilliance of this Uṣas-time, that is its light, is more excellent than all lights. In the world the Sun, the Moon and the stars are luminous. Of these the Sun's light is very sharp. The light of the stars lights only the stars themselves and does not light other objects: by the stars' light it is not possible to see other things. The Moon's light, though cool, is not much; so objects are not seen distinctly. But the light of Uṣas-time is neither fierce like the Sun's, nor cool like the Moon's, nor dim; it is able to show everything very well. Therefore it is said here that this Uṣas-light is extremely more excellent than the light of the Sun, Moon, stars and the rest. Moreover this light of Uṣas-time, at one time, in all regions, gives great delight to the hearts. Such an Uṣas-time's rise has now come. This is the explanation of the first half of the Ṛk."
+
+"In the world, after the Sun sets, Night comes; after Night has passed, Uṣas-time; after Uṣas-time, the rising of the Sun. Since thus the one comes in a course after another, one is said to be the cause of the birth of the other. How: since Night follows the Sun's setting, the Sun is the cause of Night's birth; the Sun is therefore the cause of Night's birth. In the same way Uṣas-time is born from Night, and from Uṣas-time the Sun's rising comes. With just this intention it is described in this Ṛk: 'As Night was born of the Sun, so from Night Uṣas-time has appeared.'"
+
+**प्रकेतः — कित ज्ञाने । अन्धकारावृतस्य सर्वस्य पदार्थस्य प्रज्ञापकः ।** — "(rays) which, by their light, make visible those objects that cannot be seen in the dark."
+**विभ्वा — विभुर्व्याप्तः ।** — "pervading, spread out."
+**सवाय — उत्पत्तये ।** — "for birth, for rising."
+**योनिः — उत्पत्तिस्थानम् ।** — "the place of birth; that which is the cause."
+
+### Printed p. 7  (PDF 27; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Grammar page, Kannada, on the words *śreṣṭham* (suffix *iṣṭhan*, the substitution *śra* for *praśasya* — Pā. 5-3-60 as printed; *prakṛtyaikāc* — Pā. 6-4-163 as printed; accent by *jñityādir nityam* [Pā. number not clearly read, [?]]), *āgāt* (*iṇ* "to go", aorist *luṅ*, *tip*; *ito gā luṅi*; *gātisthāghupā…* elision of *sic*; no augment), *praketaḥ* (*kit jñāne*, causative sense, *ghañ* suffix, guṇa; final-acute accent), *ajaniṣṭa* (*jani prādurbhāve*, *luṅ*, *ta*; *cleḥ sic*; *ārdhadhātukasyeḍ valādeḥ*; ṣatva; *tiṅ-atiṅaḥ* nighāta accent), *vibhvā* (*vi*+*bhū*, *viprasambhyo ḍvasaṃjñāyām* — Pā. 3-2-180 [?]; *supāṃ sulug…* ā-substitution; *bhūsudhiyoḥ* prohibition of *yaṇ* set aside by *chandasy ubhayathā*). Remaining sūtra numbers in the page are small and I give none beyond the two marked "as printed".
+
+---
+
+### Printed p. 8  (PDF 28; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page continued (Vyākaraṇa-prakriyā of Ṛk 1, noted briefly):* *vibhvā* concluded (*bhū* with the suffix *ḍu*; accent from *jñityādir nityam*); *prasūtā* (*sū* "to give birth", *niṣṭhā* — *kta*; *ṣatva* by *dhātvādeḥ ṣaḥ saḥ* reversed; no guṇa as the suffix is *kit*; feminine *ṭāp*; the prefix accent by *gatir anantaraḥ*); *savāya* (*sū* with *aṭ* by "*chandasi jana-sanavā vaktavyau*", Pā. numbers unclear [?]; accent by *citaḥ*; dative singular); *eva* (a *nipāta* by *cādayo 'sattve*; lengthened in the Saṃhitā by *nipātasya ca*); *rātrī* (*ṅīp*; *rātreś cājasau*; elision of *i* by *yasyeti ca*; the *su* elided by *hal-ṅyābbhyo…*); *āraik* (*ric* "to empty", aorist, *tip*; *itaś ca* elision of *i*; *bahulaṃ chandasi*, *śnam* elided; guṇa of the penultimate by *pugantalaghūpadhasya ca*; *tip* dropped by *hal-ṅyābbhyo…*; *c* becomes *k* by *co ḥ kuḥ*; the vowel change by Vedic letter-substitution; *tiṅ atiṅaḥ* nighāta accent). ‖ 1 ‖ *(Sūtra numbers partly legible only; none given.)*
+
+### Ṛk 2
+
+### Printed p. 9  (PDF 29; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.2)**
+
+> रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः ।
+> समानबन्धू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥ २ ॥
+
+> *ruśadvatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ |*
+> *samānabandhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.2)**
+
+> रुशत्ऽवत्सा । रुशती । श्वेत्या । आ । अगात् । अरैक् । ऊं इति । कृष्णा । सदनानि । अस्याः ।
+> समानबन्धू इति समानऽबन्धू । अमृते इति । अनूची इति । द्यावा । वर्णम् । चरतः । आमिनाने इत्याऽमिनाने ॥ २ ॥
+
+*(Reading note after viewing the Pada: the Saṃhitā's* ārāigu *is the Pada's* arāik *+* ūṃ iti*; so the Saṃhitā's printed final* gu *stands for the Pada's* k *+ the particle* ū*; and Ṛk 1's* ārāik *is the same form, which supports the doubtful* arāik *reading there.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.2)**
+
+> श्वेत्येत्युषसो नामधेयम् । रुशती दीप्ता । श्वेत्या श्वेतवर्णोषा रुशद्वत्सा रुशद्दीप्तः सूर्यो वत्सो यस्याः सा तथोक्ता । यथा मातुः समीपे वत्सः संचरति । एवमुषसः समीपे सूर्यस्य नित्यमवस्थानात्तद्वत्त्वम् । अथवा यथा वत्सो मातुः स्तन्यं रसं पिबन्दरति [?] । एवमुषसोऽवश्यायाख्यं रसं पिबन्वत्स इत्युच्यते । तादृशी सत्यागात् । आगतवती । आगतायाः अस्याः उषसः कृष्णा कृष्णवर्णा रात्रिः सदनानि स्थानानि स्वकीयान्त्यार्धयामलक्षणान्यारैक् । अरेचितवती । कल्पितवतीत्यर्थः । ऊ इत्येतत्पदपूरणम् । अपि चैते रात्र्युषसौ समानबन्धू समानेनैकेन सूर्यात्मकेन बन्धुना सख्या युक्ते । यद्वा । सूर्येण सह [continues on the next page]
+
+*Sense (mine):* "*Śvetī* is a name of Uṣas. *Ruśatī* = shining. White-coloured Uṣas, *ruśadvatsā*: she who has the bright Sun as her calf (*vatsa*): as a calf moves about near its mother, so, because the Sun constantly stays near Uṣas, she is so called. Or: as a calf drinks the mother's milk, so (the Sun) drinks the juice called *avaśyāya* (dew) of Uṣas, and is therefore called *vatsa* [the printed verb is doubtful]. Such Uṣas has come. After she has come, black Night has made ready (*āraik*) the places (*sadanāni*) — her own last half-watch (*yāma*) — i.e. has arranged them. *Ū* is a mere filler. And these two, Night and Uṣas, are *samānabandhū*, 'joined by one common kinsman or friend, who is the Sun'; or: with the Sun …" *(continues)*
+
+---
+
+### Printed p. 10  (PDF 30; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.2), continued from p. 9**
+
+> सम्बद्धे । यथोषा उदेष्यता सूर्येण सम्बद्धा एवं रात्रिरप्यस्तंयता सूर्येण सम्बद्धा । अमृते मरणरहिते कालात्मकतया नित्यत्वात् । अनूची अनुपूर्वमञ्चतो गच्छन्त्यौ । प्रथमं रात्रिः पश्चादुषा इत्यनेन क्रमेण गच्छन्त्यौ । यद्वा सूर्यगत्यैवानुसारेण गच्छन्त्यौ । एवम्भूते वर्णं सर्वेषां प्राणिनां रूपमामिनाने जरयन्त्यौ । यद्वा स्वकीयं रूपं हिंसन्त्यौ । उषसा स्वैशं तमो निवर्तते । प्रकाशात्मकमुषसो रूपं रात्र्या । एवंविधे सत्यौ द्यावा द्योतमाने चरतः । प्रतिदिवसमावर्तेते । यद्वा । द्यावा नभःसान्तरिक्षमार्गेण चरतः प्रतिदिवसं गच्छतः । अत्र निरुक्तम् । रुशद्वत्सा सूर्यवत्सा रुशदिति वर्णनाम रोचतेर्ज्वलतिकर्मणः । सूर्यमस्या वत्समाहुः साहचर्याद्रसहरणाद्वा । रुशती श्वेत्यागात् । श्वेत्या श्वेततेः । आरैगु कृष्णा सदनान्यस्याः कृष्णवर्णा रात्रिः कृष्णं कृष्यतेर्निकृष्टो वर्णः । अमृते अमरणधर्माणौ । अनूची अनुगते इतरेतरमभिप्रेत्य । द्यावा वर्णं चरतः । आमिनाने अन्योन्यस्याध्यात्मं कुर्वाणे । नि. २-२० ॥ [the Nirukta passage read from this page as printed; doubtful words [?]]
+
+*Sense (mine):* "… *sambaddhe* (connected): as Uṣas, about to appear, is connected with the Sun, so Night too, as the Sun sets, is connected with him. *Amṛte* — free from death, being eternal by their nature as Time. *Anūcī* — going one after the other: first Night, afterwards Uṣas, going in this order; or going following the Sun's course. Being such, they *āmināne* — wear out (age) the *varṇa*, the form, of all living beings; or they destroy each its own form: by Uṣas the darkness of Night is turned back, and the luminous form of Uṣas by Night. Being thus, they roam (*carataḥ*) shining (*dyāvā*), revolving every day; or they go along the sky and atmosphere each day." Yāska is then cited (Ni. 2-20): "*ruśadvatsā* = having the Sun as calf; *ruśat* is a name for colour, from *ruc* 'to shine'…; they call the Sun her calf, from association or from drawing off the juice; *śvetyā* from *śvit*; *kṛṣṇā* — Night, black, dark colour; *amṛte* — two of non-dying nature; *anūcī* — following each other; *āmināne* — doing the work of one another…" *(sense given from the print; the last clauses are tersely worded and a little doubtful [?])*
+
+*Grammatical tail (characterized, not transcribed):* on *śvetyā* (a derivative of the root *śvit*, the suffix *yat* in the abstract sense with elision of the causative *ṇi*, then the affix *ac* by the *arśa-ādi* class); *amṛte* (a *bahuvrīhi* with *nañ*; accent on the first syllable by the rule on *jara-mara-mitra-mṛtāḥ*); *anūcī* (*añc* with *kvin*, with the *ṅīp* feminine; nasal elision; lengthening; the *udātta* of the *ṅīp*; elision of the case-ending by *supāṃ sulug*); *āmināne* (*mī* "to injure", class 9 *kryādi*, with the participle suffix *śānac*; shortening by *mināteḥ…*). ‖
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*ruśatī* — shining; *śvetyā* — with white colour, Uṣas; *ruśadvatsā* — having the shining Sun as calf; *āgāt* — has risen; *kṛṣṇā* — black-coloured Night; *asyāḥ* — to this Uṣas; *sadanāni* — (the latter half-watch of Night) as places of birth; *āraik ū* — has prepared; *ete* — these Night and Uṣas; *samānabandhū* — having a common (Sun as) kinsman (the Sun being related to both); *amṛte* — eternal; *anūcī* — each following the other (Uṣas after Night, and again in the same order); *varṇam* — the form (of objects); *āmināne* — making them old (as time passes); *dyāvā* — shining in the atmosphere; *carataḥ* — move every day."
+
+### Printed p. 11  (PDF 31; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Uṣas, who is the mother of the Sun, has been born, shining, from the last watch of black-coloured Night. This Night and Uṣas are both closely related with the Sun (Night comes after the Sun's setting and Uṣas comes before the Sun's rising); being of the form of Time they are eternal; both come in one order (after Night, Uṣas); they destroy each other's form (Uṣas destroys the darkness and Night destroys the light); or, by their motion the forms of objects become aged (are made to grow old); and thus both of them move about in the atmosphere."
+
+**English Translation (as printed)**
+
+> The white-shining dawn, the parent of the Sun has arrived ; dark night has sought her own abode ; both allied to the same (sun) ; immortal, succeeding to each other and mutually effacing each other's complexion, they traverse the heavens.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**श्वेत्या** — *Śvetyā.* "*Vibhāvarī*, *sūnarī*" — among the sixteen names of Uṣas (Ni. 3-19 as printed [?]) it is stated; so the meaning is Uṣas. *Śvetyā* — white-coloured; Sāyaṇa explains the meaning as "of auspicious lustre". Yāska also says "*śvetyāgāt śvetyā śvetater dhātoḥ śvetavarṇārthaḥ*"; for the word *śvetyā* derived from the root *śvit* (*śvetati*) of the bhvādi class, he gives the sense "white-coloured".
+
+**रुशद्वत्सा** — "*ruśad dīptaḥ sūryo vatso yasyāḥ sā*": she who has the shining Sun as her calf. That a calf plays near its mother is common in the world. Following this, the Sun is the calf of Uṣas, being near Uṣas. The relation of mother and son between Uṣas and the Sun is on account of Uṣas's lustre and of his moving near. Whereas Sāyaṇa explains that "the calf drinks the mother's milk", (so) the Sun also, having fully received Uṣas's lustre, becomes lustrous — so he says. The Nirukta-writer says:
+
+> रुशद्वत्सा सूर्यवत्सा । रुशदिति वर्णनाम । रोचतेर्ज्वलतिकर्मणः ।
+> सूर्यमस्या वत्समाहुः साहचर्याद्रसहरणाद्वा ॥
+> (नि. २-२०)
+
+> *ruśadvatsā sūryavatsā | ruśaditi varṇanāma | rocaterjvalatikarmaṇaḥ |*
+> *sūryamasyā vatsamāhuḥ sāhacaryādrasaharaṇādvā ‖*
+> *(ni. 2-20)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛk 2 done through the Special Topics start (printed p. 11, PDF 31: *śvetyā*, *ruśadvatsā* with the Nirukta citation). Next: printed p. 12 (PDF 32) — Special Topics of Ṛk 2 continue. Open: Nirukta/bhāṣya wording a little doubtful `[?]`; Ni. numerals as printed/doubtful; devatā box `[?]`.
