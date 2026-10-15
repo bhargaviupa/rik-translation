@@ -4862,4 +4862,69 @@ as an example."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–3 complete; Ṛk 4 through printed p. 200 (PDF 220): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*tisraḥ kṣapaḥ*, *pataṅgaiḥ*, *dhanvan*; continues p. 201). Next: printed p. 201 (PDF 221). Open: numerals as read `[?]`; bhāṣya small type `[?]`.
+### Printed p. 201  (PDF 221; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 4, continued]
+
+**समुद्रस्य** — *Samudrasya* — "*ambu-rāśeḥ*": "the Nirukta-writer explains the word as 'a mass of waters' —
+
+> तत्र समुद्र इत्येतत्पार्थिवेन समुद्रेण सन्दिह्यते । समुद्रः कस्मात् समुद्द्रवन्त्यस्मादापः समभिद्रवन्त्येनमापः संमोदन्तेऽस्मिन्भूतानि समुदको भवति समुनत्तीति वा ॥
+> (नि. २-१० [as read])
+
+> *tatra samudra ityetatpārthivena samudreṇa sandihyate | samudraḥ kasmāt samuddravantyasmādāpaḥ samabhidravantyenamāpaḥ saṃmodante 'sminbhūtāni samudako bhavati samunattīti vā ‖*
+> *(ni. 2-10 [as read])*
+
+— thus he examines the meaning of the word *samudra*. Among the sixteen names of the atmosphere the word *pṛthivī* and the word *samudra* are stated. Of these, since the sense 'mass of water' is established for the word *samudra*, there arises a doubt whether *samudra* means the atmosphere, the earth, or the sea. By four derivations — 'waters flow out of it', 'waters flow into it', 'beings rejoice in it', 'full of water' [*samudako bhavati*] or 'it wets (*samunatti*)' — he settles the sense of the word *samudra* as a collection of water. The word *samudra* is also used in other places in the sense of 'cloud'.
+
+> अश्मन्वाधाराणि निमन्तरिक्षमतोर्णे बद्धं सविता समुद्रम् ।
+> (ऋ. सं. १०-१८५-१ [as read; the first words doubtful [?]])
+
+> *aśmanvādhārāṇi nimantarikṣamatorṇe baddhaṃ savitā samudram |*
+> *(ṛ. saṃ. 10-185-1 [as read; the first words doubtful [?]])*
+>
+> तस्याः समुद्रा अधि वि क्षरन्ति तेन जीवन्ति प्रदिशश्चतस्रः ।
+> (ऋ. सं. १-१६४-४२ [as read])
+
+> *tasyāḥ samudrā adhi vi kṣaranti tena jīvanti pradiśaścatasraḥ |*
+> *(ṛ. saṃ. 1-164-42 [as read])*
+
+*samuditā samudro meghaḥ samudrā adhi vikṣaranti varṣanti meghāḥ* — the clouds rained: here the word *samudra* is used in the senses of atmosphere and cloud. Likewise —
+
+> महः समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभम् ।
+> (ऋ. सं. ७-८७-६ [as read])
+
+> *mahaḥ samudraṃ varuṇastiro dadhe dhīrā icchekurdharuṇeṣvārabham |*
+> *(ṛ. saṃ. 7-87-6 [as read])*
+
+— in this the word *samudra* denotes the Āditya. For the word *samudra* the meanings Āditya, cloud, mass of water are acceptable both by convention and by derivation: in each place the meaning must be stated according to the context. Here, by the maxim *yogād rūḍher balīyasī* ('convention is stronger than derivation'), *samudra* means a mass of water."
+
+"The Aśvin deities helped the royal prince Bhujyu — who, with his army, was sinking in the water in the middle of the ocean — to reach, for three days (completely) and nights as well, in ceaseless motion, in their swift ships which have no connection with water, the land of the dry waste that is *samudra* …
+
+### Printed p. 202  (PDF 222; header "Maṃ. 1 A. 17 Sū. 116")
+
+… it is also said here that these [chariots] had many wheels and six horses yoked. As the Aśvin deities came with Bhujyu, it is described here that these three persons came safely to the shore in three chariots."
+
+**शतपद्भिः** — *Śatapadbhiḥ* — "*śatasaṃkhyākaiś cakralakṣaṇaiḥ pādair upetaiḥ*": "(with a hundred 'feet', which are wheels) — Sāyaṇa explains that the Aśvin deities' chariots had hundreds of wheels. *Śata* here, by capacity, is used in the plural sense 'many' — *śatāśrātra bahunāma sāmarthyāc chātra bahutve vartate*; *pāda* is the wheel; *pādaśabdo 'pi cakrapādavacanaḥ — tricakrapādair ity arthaḥ*: the word *śata* here conveys by capacity the meaning 'many'; the word *pāda* is explained as 'wheel'. Therefore Skandasvāmin explains the word *śatapadbhiḥ* as 'having three wheels': the chariot has three wheels. He cites the Ṛk which makes this meaning clear —
+
+> क्व १ त्री चक्रा त्रिवृतो रथस्य क्व १ त्रयो वन्धुरो ये सनीळाः ।
+> कदा योगो वाजिनो रासभस्य येन यज्ञं नासत्योपयाथः ॥
+> (ऋ. सं. १-३४-९ [as read])
+
+> *kva 1 trī cakrā trivṛto rathasya kva 1 trayo vandhuro ye sanīḷāḥ |*
+> *kadā yogo vājino rāsabhasya yena yajñaṃ nāsatyopayāthaḥ ‖*
+> *(ṛ. saṃ. 1-34-9 [as read])*
+
+— here it is described that the Aśvin deities' chariot has three wheels."
+
+**भुज्युम्** — *Bhujyum* — "the explanation of this word is in the special topics on the third Ṛk of this sūkta."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly)**
+
+*tisraḥ* (the word *tri*; in the feminine, with *jas* following, *tricaturoḥ striyāṃ tisṛcatasṛ*, Pā. 7-2-99 as read [?], *tisṛ* substitute; it comes with the final accent; by *jasi ca*, Pā. 7-3-109 as read [?], guṇa would arise, but as the exception *ac ṛta uṃ*, Pā. 7-2-100 as read [?], *raphādeśa* [*ra*] arises; by *udāttayaṇo hal-pūrvāt*, Pā. 6-1-174 as read [?], the following ending is accented *udātta* [in place of the udātta a *yaṇ*]); *kṣapaḥ* (*kṣapā* is a word meaning night, ending in *ā*, feminine; in the plural *kṣapāḥ*; the shortening in the Saṃhitā by the Vedic usage; or with *śas* following, by *ato dhātoḥ*, Pā. 6-4-140 as read [?], by splitting the rule with *ataḥ*, the *ā* is elided even though it is not a root-ending — the form is accomplished through the process itself); *triḥ* (*trīn āvṛttāni*, the sense of repetition, *dvitricaturbhyaḥ suc*, Pā. 5-4-18 as read [?], the *suc* suffix; the remaining *s* becomes *ru* and visarga); *ahā* (*ahāni*, so formed: *śeś chandasi bahulam*, Pā. 6-1-70 as read [?], elision of *śi*); *ativrajadbhiḥ* (*ati-kramya vrajantaḥ*; *vraja* "to go" with *ati*; *śatṛ* in the *laṭ* sense; as *adupadeśa*, the *sārvadhātuka* is unaccented and the root accent remains; in the compound, the later member's first-member accent by *kṛduttarapadaprakṛtisvaratva*; instrumental plural).
+### Printed p. 203  (PDF 223; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 4, concluded (noted briefly):* *nāsatyā* (the vocative dual; *supāṃ sulug*, Pā. 7-1-39 as read [?], lengthening of the preceding vowel; as it is at the beginning of a *pāda*, the *aṣṭamika* nighāta does not apply; the first syllable is accented by *āmantritasya ca*, Pā. 6-1-198 as read [?]); *pataṅgaiḥ* (*paṭḷ* "to go"; *pater aṅgac*, Uṇ. 1-?? as read [?], the suffix *aṅgac*; *citaḥ*, Pā. 6-1-163 as read [?], the last syllable accented; instrumental plural); *dhanvan* (*dhavi* "to go"; *idito num dhātoḥ*, Pā. 7-1-58 as read [?], *num*; *kaninyuvṛṣitakṣirājidhanidraviṇasarvarṣacitvaribhyaḥ* [as printed *kanin yuvṛṣi…*], Uṇ. 1-?? as read [?], the suffix *kanin*; the form *dhanvan*; with the locative ending following, *supāṃ sulug*, Pā. 7-1-39 as read [?], *luk*); *śatapadbhiḥ* (*śataṃ pādā yeṣām te śatapādaḥ* — *saṃkhyāsupūrvasya*, Pā. 5-4-140 as read [?], the elision of the last part of *pāda* at the end of the compound; since *bha*-designation follows by *ayasmayādīni chandasi*, Pā. 1-4-20 as read [?], the *pād* → *pad* by *pādaḥ pat*, Pā. 6-4-130 as read [?]; or the meaning of *pāda* — it is to be understood that *pad* is another word, suited to give that meaning); *ṣaḍaśvaiḥ* (*ṣaṭ aśvāḥ yeṣām te ṣaḍaśvāḥ*, a *bahuvrīhi*; first-member accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?]). ‖ 4 ‖
+
+*(Printer's ornament.)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–4 complete (through printed p. 203, PDF 223). Next: Ṛk 5 from printed p. 204 (PDF 224). Open: numerals as read `[?]`; Ṛ. 10-185-1 (first words) `[?]`.
