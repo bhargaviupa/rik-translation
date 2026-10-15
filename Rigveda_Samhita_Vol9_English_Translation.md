@@ -12735,4 +12735,32 @@ In these [passages] he explains the word *vāja* as 'food' and the word *vājin�
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–11 complete; Ṛk 12 (the last) through printed p. 535 (PDF 555): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha written; English, Special Topics, grammar and the colophon of Sūkta 120 follow (p. 536). Next: printed p. 536 (PDF 556). Numerals as read: sūtra numbers on p. 534 `[as read]`. The printed page number on p. 534 is blurred in the scan.
+### Printed p. 536  (PDF 556; header "Maṃ. 1 A. 17 Sū. 120")
+
+**English Translation (as printed)**
+
+"Now am I disdainful of sleep, and of the rich man who benefits not others, for both (the morinng [sic] sleep and the selfish rich man) quickly perish."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 12)**
+
+"Now (at dawn) I am weary of what concerns dreams; and likewise I am weary of the rich man who does no good to others. The principal idea is: may the evil dream and the selfish rich man, both, quickly come to destruction."
+
+"The state of being weary (*nirvedabhāva*) of the seer of the mantra is described here. A mean person earns wealth, but neither enjoys comfort himself nor protects others. Like him, a bad dream too gives pain only when seen; wealth earned by a mean man, [kept] without enjoyment and giving, is lost; a bad dream appears only at the time [of sleeping] and then is not seen in that very moment. When the word *svapna* itself denotes something unreal, the word *duḥsvapna* is said [here] to be of the same unreal sense, with the example of the wealth [of the miser]. And Sāyaṇa explains that by the mere recitation of this Ṛk a bad dream is destroyed." Skandasvāmin:
+
+> उत्तमा स्वप्ननाशिनी । पञ्चानामाश्विनानां सूक्तानामुत्तमा यो चुक् [?] विषा स्वप्ननाशनार्थम् । स्वप्नशब्देनात्र यः कश्चित् दुःस्वप्नः इष्यते स उच्यते न स्वप्नमात्रम् । द्वितीयार्थे षष्ठी । दुःस्वप्नं निर्विदे । विद सत्तायामित्यस्य रूपं निर्वेदयामि निःस्वत्तां करोमि नाशयामीत्यर्थः ॥ [as read; small type, doubtful [?]]
+
+> *uttamā svapnanāśinī | pañcānāmāśvinānāṃ sūktānāmuttamā yo cuk [?] viṣā svapnanāśanārtham | svapnaśabdenātra yaḥ kaścit duḥsvapnaḥ iṣyate sa ucyate na svapnamātram | dvitīyārthe ṣaṣṭhī | duḥsvapnaṃ nirvide | vida sattāyāmityasya rūpaṃ nirvedayāmi niḥsvattāṃ karomi nāśayāmītyarthaḥ ‖ [as read; small type, doubtful [?]]*
+
+"In these five sūktas that speak of the glory (*mahimā*) of the Aśvins, this mantra is famous as *duḥsvapnanāśinī*, since it has the power to destroy bad dreams. It does not destroy all dreams that occur to the sleeper; it destroys only bad dreams. A bad dream has no existence, [being] like things having existence (stability); this is stated here with the example of [the wealth of the miser], as well as [in] the sentence containing a comparison (*dṛṣṭāntavākya*) used in this very mantra."
+
+*(No grammar page is printed for Ṛk 12 here; the page ends with an ornament, and the next page begins Sūkta 121.)* No Sanskrit colophon is printed at the end of Sūkta 120 — only the ornament at the foot of p. 536.
+
+---
+
+## End of the translation for this stretch (Sūktas 113–120 complete)
+
+Sūkta 121 (*kad itthā nṝḥ*; the eighteenth anuvāka's first sūkta; fifteen Ṛks; Ṛṣi Kakṣīvān; deity Viśvedevāḥ or Indra; Triṣṭubh) begins on printed p. 537 (PDF 557) — **not yet translated**.
+
+---
+
+**Progress note:** Sūktas 113–120 complete (Sūkta 120: 12 Ṛks, printed pp. 495–536). Sūkta 121 (the last sūkta of the volume and of the Eighth Adhyāya) begins on printed p. 537 (PDF 557) with the heading of the eighteenth anuvāka (Anukramaṇī: *kad itthā* 15 Ṛks, Kakṣīvān, Triṣṭubh, Viśvedevāḥ or Indra, *viniyoga* by *liṅga*); not yet translated. Next: printed p. 537 (PDF 557) onward. Numerals for pp. 358–536 were read from the page images (the reader's numeral lists cover only printed pp. 330–353 and the front matter); sūtra, Nirukta and Ṛk numbers on those pages are marked `[as read]` or `[?]` where doubtful. Open: CLAUDE.md range line (113–130 → 113–121) to be edited by the user.
