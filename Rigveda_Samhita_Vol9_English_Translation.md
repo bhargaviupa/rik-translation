@@ -1203,8 +1203,114 @@ Grammar page on *divaḥ* (accent of the ending by *ūḍidaṃpadādi…*), *ad
 > (ऋ. सं. १०-११०-१० [as read])
 > *(The first word is printed letter by letter as above; the context suggests* upa sṛja*, but I give the print, not the guess.)*
 
-Here *pātha* means food. Uṣas comes before the Sun's rising, each day, always before sunrise. Therefore the Uṣases of the present, though later than the former Uṣases, as the former passed away, so they, too, pass away; they, too, being lost along the atmospheric path, are destroyed […] *(continues on the next page)*.
+Here *pātha* means food. Uṣas comes before the Sun's rising, each day, always before sunrise. Therefore the Uṣases of the present, though later than the former Uṣases, as the former passed away, so they, too, pass away; since they pass away like those, these too are destroyed, following the destruction of those others along the atmospheric path.
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–7 complete; Ṛk 8 through printed p. 42 (PDF 62): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*pāthaḥ*, mid-topic). Next: printed p. 43 (PDF 63). Open: Ni. 6-7 `[?]`; *uṣāsṛja* first word of Ṛ. 10-110-10 as printed.
+### Printed p. 43  (PDF 63; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**प्रथमा आयतीनाम्** — *Prathamā āyatīnām* — "*āgacchantīnāṃ prathamā ādyā bhavati*": "Of the Uṣases yet to come, the one who rises now is the first, in the sense of the 'first'; so Skandasvāmin: 
+
+> परायतीनां परागच्छन्तीनां गवादिजातीनामनुगच्छति पन्थानः । आगच्छन्तीनां च प्रथमा बह्वीनां नित्यानां वा । योऽक्ष्णा [?] दूरवर्तिनो गवादिजातयो यश्च सन्निकृष्टाः सर्वव्यापित्वात्ताः सर्वा अनुगच्छतीत्यर्थः ॥ [read from the print; the words marked [?] are doubtful]
+
+> *parāyatīnāṃ parāgacchantīnāṃ gavādijātīnāmanugacchati panthānaḥ | āgacchantīnāṃ ca prathamā bahvīnāṃ nityānāṃ vā | yo 'kṣṇā [?] dūravartino gavādijātayo yaśca sannikṛṣṭāḥ sarvavyāpitvāttāḥ sarvā anugacchatītyarthaḥ ‖ [read from the print; the words marked [?] are doubtful]*
+
+— 'She follows the paths of the going-away (past) ones, of the classes such as cows, etc.; and of the coming ones, she is first of the many, or of the eternal ones; as to those classes — cows etc. — that are far away and those that are near, because she pervades all, she follows all of them'." "As Uṣas pervades everywhere, she follows the courses of things that are eternal, whether far away or near at hand. The classes (*jāti*) of cows and the like, though eternal as classes, in the individual are subject to destruction; they follow the course of things that perish with the destruction of the individual; and she is first in the origin of the things that remain" — so they explain.
+
+**जीवमुदीरयन्ती मृतं बोधयन्ती** — *Jīvam udīrayantī mṛtaṃ bodhayantī:*
+
+> जीवात्मानं प्राणिनां शयनादूर्ध्वं प्रेरयन्त्युषाः मृतमिव सन्तं पुरुषं पुनरिन्द्रियप्रवेशेन चेतनं कुर्वती प्रवर्तते ॥
+
+> *jīvātmānaṃ prāṇināṃ śayanādūrdhvaṃ prerayantyuṣāḥ mṛtamiva santaṃ puruṣaṃ punarindriyapraveśena cetanaṃ kurvatī pravartate ‖*
+
+"Uṣas, who drives out the darkness, rouses with warmth the *jīvātman* of the beings lying in comfort; and any being who sleeps, completely unconscious as if dead, she wakes, makes him knowing, and sets him to his own works — this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly)**
+
+Grammar page on *parāyatīnām* (*parā* a prefix; *iṇ* "to go"; *śatṛ* in the *laṭ* sense by *laṭaḥ śatṛśānacau*; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; *yaṇ* in place of *i* by *iṇo yaṇ*, giving *yat*; the feminine in *ṅīp* by *ugitaś ca*, since *śatṛ* loses its *luk* [as printed]; *nuṭ* in the genitive plural by *hrasvanadyāpo nuṭ*; and the Vedic accent by *jyāṃ chandasi bahulam* [as read]), *eti* (*iṇ* "to go", adādi, *laṭ* 3rd singular; nighāta), *udīrayantī* (*īr* "to throw", curādi; *ṇic* in the *svārtha* by *satyāpāśa…*; *śatṛ*; guṇa; *ayādeśa*; *ṅīp*; the *rephottarākāra*), *mṛtam* (*mṛṅ* "to die"; *kta* by *niṣṭhā*; final accent), *bodhayantī* (*budh* "to know", *ṇic* in the causative by *hetumati ca*; *śatṛ*; feminine *ṅīp*; accent). Pā. numbers are small; none given. ‖ 8 ‖ *(running on to p. 44)*
+
+### Printed p. 44  (PDF 64; header "Maṃ. 1 A. 16 Sū. 113")
+
+*(The grammar of Ṛk 8 concludes at the top of this page with the guṇa and *ayādeśa* in *bodhayantī*, the feminine *ṅīp*, and the accent of the *ṇic*-ending; the end-mark ‖ 8 ‖ is printed after it.)*
+
+*(Printer's ornament.)*
+
+### Ṛk 9
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.9)**
+
+> उषो यदग्निं समिधे चकर्थ वि यदावश्चक्षसा सूर्यस्य ।
+> यन्मानुषान्यक्ष्यमाणा अजीगस्तद्देवेषु चकृषे भद्रमप्नः ॥ ९ ॥
+
+> *uṣo yadagniṃ samidhe cakartha vi yadāvaścakṣasā sūryasya |*
+> *yanmānuṣānyakṣyamāṇā ajīgastaddeveṣu cakṛṣe bhadramapnaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.9)** *(begun at the foot of p. 44; completed on p. 45)*
+
+> उषः । यत् । अग्निम् । सम्ऽइधे । चकर्थ । वि । यत् । आवः । चक्षसा ।
+> सूर्यस्य ।
+
+> *uṣaḥ | yat | agnim | sam 'idhe | cakartha | vi | yat | āvaḥ | cakṣasā |*
+> *sūryasya |*
+
+---
+
+### Printed p. 45  (PDF 65; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+*(Pada of Ṛk 9, concluded from p. 44:)*
+
+> यत् । मानुषान् । यक्ष्यमाणान् । अजीगः । तत् । देवेषु ।
+> चकृषे । भद्रम् । अप्नः ॥ ९ ॥
+
+> *yat | mānuṣān | yakṣyamāṇān | ajīgaḥ | tat | deveṣu |*
+> *cakṛṣe | bhadram | apnaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.9)**
+
+> हे उषस्त्वमग्निं गार्हपत्यादिरूपं समिधे समिन्धनाय प्रज्वलनार्थं यच्चकर्थ कृतवती । उषःकाले ह्यग्नयो होमार्थमुपसमिध्यन्ते । अपि च तमसा तिरोहितं जगत्सूर्यस्य चक्षसा प्रकाशेन यद्वा व्यावः व्यवृणोः तमसा विश्लिष्टमकरोः । तथा मानुषान् मनुष्यान् [?] यक्ष्यमाणान् यागं करिष्यतस्त्वं यदजीगः पूर्वं तमसा ग्रस्तान्प्रकाशेनोद्गीर्णानिवाकरोः । हे उषो देवेषु मध्ये त्वमेव भद्रं भजनीयं तदेतत्त्रिविधमप्नः कर्म चकृषे कृतवती ॥
+
+> *he uṣastvamagniṃ gārhapatyādirūpaṃ samidhe samindhanāya prajvalanārthaṃ yaccakartha kṛtavatī | uṣaḥkāle hyagnayo homārthamupasamidhyante | api ca tamasā tirohitaṃ jagatsūryasya cakṣasā prakāśena yadvā vyāvaḥ vyavṛṇoḥ tamasā viśliṣṭamakaroḥ | tathā mānuṣān manuṣyān [?] yakṣyamāṇān yāgaṃ kariṣyatastvaṃ yadajīgaḥ pūrvaṃ tamasā grastānprakāśenodgīrṇānivākaroḥ | he uṣo deveṣu madhye tvameva bhadraṃ bhajanīyaṃ tadetattrividhamapnaḥ karma cakṛṣe kṛtavatī ‖*
+
+*Sense (mine):* "O Uṣas, since thou hast caused Agni — the Gārhapatya and the others — to be kindled (*samidhe*, for kindling, for blazing); for at the time of Uṣas the fires are kindled for the oblation. Further, since thou hast *vi āvaḥ* — opened, uncovered — the world hidden by darkness by the *cakṣas*, the light, of the Sun; made it free from darkness. Also, since thou hast made those men who are about to sacrifice (*yakṣyamāṇān*) — who are going to perform the sacrifice — as though brought forth (*ajīgaḥ*) from the darkness that had swallowed them before, by thy light — O Uṣas, among the gods thou alone hast done this threefold good (*bhadram*, 'to be honoured') work (*apnaḥ*)."
+
+*Grammatical tail (characterized, not transcribed):* *āvaḥ* (*vṛñ* "to cover", aorist, the elision of *cli* by *mantre ghasa…*; elision of *s* after a consonant-ending by *hal-ṅyābbhyaḥ*; the augment *āṭ* by *chandasy api dṛśyate*); *mānuṣān* (*manu* with the suffix *añ* in the sense of "born", *ṣuk* augment [as printed], and *puk*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he uṣaḥ* — O Uṣas; *tvam* — you; *agnim* — the Gārhapatya and other fires; *samidhe* — for the sake of kindling (by the fuel etc.); *yat* — for what reason; *cakartha* — you have made; *sūryasya cakṣasā* — by the Sun's light; *yat* — for which reason; *vi āvaḥ* — (as) you have made manifest (the world covered by darkness); *yakṣyamāṇān* — those who will perform sacrifice; *mānuṣān* — men; *yat ajīgaḥ* — as you have made them fit for their duties; *tat* — therefore; *deveṣu* — among the gods (you); *bhadram* — auspicious; *apnaḥ* — (of the three kinds mentioned above) deeds; *cakṛṣe* — you have done."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Uṣas, among the gods you alone are she who has done these three auspicious deeds: the kindling of the Gārhapatya and other fires, the manifestation of the whole world covered by darkness, and the readiness for their duties of men who perform sacrifices."
+
+### Printed p. 46  (PDF 66; header "Maṃ. 1 A. 16 Sū. 113")
+
+**English Translation (as printed)**
+
+> Ushas, inasmuch as you have caused the sacred fire to be kindled, inasmuch as you have lighted the world with the light of the sun, inasmuch as you have wakened men to perform sacrifice, you have done good service to the gods.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अप्नः** — *Apnaḥ.* "The word *apnas* is stated among the sixteen names of form (*rūpa*) (Ni. 3-?? [as read, "3-13", [?]]) and among the twenty-six [as read] names of action (Ni. 2-1 [as read]). Uṣas, as soon as she rises, kindles the Gārhapatya fire for the oblation; she makes the world, which is hidden by darkness, visible by the Sun's light; she makes the sacrificers and everyone else, delivered from the affliction of darkness, protected and alert in their duties. Because she performs these three kinds of work, she is held worthy of worship among the gods."
+
+"The intention of the Sāyaṇa-bhāṣya and of Skandasvāmin's bhāṣya is the same, but the word-order in the two books is different. Skandasvāmin:
+
+> उषसि ह्युदिताय अग्निहोत्रेण आहवनीयं समिन्धयन्ति नानुदितायामकस्मादुषा इव समिन्धवतीत्युच्यते [?] ।
+
+> *uṣasi hyuditāya agnihotreṇa āhavanīyaṃ samindhayanti nānuditāyāmakasmāduṣā iva samindhavatītyucyate [?] |*
+
+— 'As soon as Uṣas has risen, those who perform *agnihotra* have the Āhavanīya fire kindled; before the rising of Uṣas they do not worship the Āhavanīya fire; therefore Uṣas makes the fire blaze up' — so says Skandasvāmin. And he explains: '*uṣaso hi prakāśaḥ sūryāt udeṣyataḥ prabhavati*' — the light of Uṣas arises from the Sun who is about to rise."
+
+> उषःकाले होमार्थमुपसमिन्धतेऽग्नयः । सूर्यस्य प्रकाशेन तमसा विश्लिष्टमकरोः ॥
+
+> *uṣaḥkāle homārthamupasamindhate 'gnayaḥ | sūryasya prakāśena tamasā viśliṣṭamakaroḥ ‖*
+
+"At Uṣas-time the fires are kindled for the oblation; by the Sun's light thou hast freed [the world] from darkness" — so Sāyaṇa too explains.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly)**
+
+Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of the *pāda* there is no nighāta accent; the first-syllable accent by *āmantritasya ca* [as printed "Pā. 6-1-198" [?]]). *(Continues on the next page.)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–8 complete; Ṛk 9 through printed p. 46 (PDF 66): Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*apnaḥ*), grammar page begun. Next: printed p. 47 (PDF 67) — end of Ṛk 9 grammar, then Ṛk 10. Open: bhāṣya words on *mānuṣān* `[?]`; Skandasvāmin's Sanskrit `[?]`; Ni. numerals.
