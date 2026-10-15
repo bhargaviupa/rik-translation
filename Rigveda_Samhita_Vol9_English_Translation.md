@@ -11129,4 +11129,64 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–3 complete; Ṛk 4 Saṃhitā begun at the foot of printed p. 465 (PDF 485), first two pādas only (continues p. 466). Next: printed p. 466 (PDF 486). Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 464–465 `[as read]`.
+### Printed p. 466  (PDF 486; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.4, concluded from p. 465)**
+
+> यासिष्टं वर्तिर्वृषणा विजेन्यं दिवोदासाय महि चेति वामवः ॥ ४ ॥
+
+> *yāsiṣṭaṃ vartirvṛṣaṇā vijenyaṃ divodāsāya mahi ceti vāmavaḥ ‖ 4 ‖*
+
+*(Complete Ṛk 119.4, as printed across pp. 465–466:)*
+
+> युवं भुज्युं भुरमाणं विभिर्गतं स्वयुक्तिभिर्निवहन्ता पितृभ्य आ ।
+> यासिष्टं वर्तिर्वृषणा विजेन्यं दिवोदासाय महि चेति वामवः ॥ ४ ॥
+
+> *yuvaṃ bhujyuṃ bhuramāṇaṃ vibhirgataṃ svayuktibhirnivahantā pitṛbhya ā |*
+> *yāsiṣṭaṃ vartirvṛṣaṇā vijenyaṃ divodāsāya mahi ceti vāmavaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.4)**
+
+> युवम् । भुज्युम् । भुरमाणम् । विऽभिः । गतम् । स्वयुक्तिऽभिः ।
+> निऽवहन्ता । पितृऽभ्यः । आ ।
+> यासिष्टम् । वर्तिः । वृषणा । विऽजेन्यम् । दिवःऽदासाय । महि ।
+> चेति । वाम् । अवः ॥ ४ ॥
+
+> *yuvam | bhujyum | bhuramāṇam | vi 'bhiḥ | gatam | svayukti 'bhiḥ |*
+> *ni 'vahantā | pitṛ 'bhyaḥ | ā |*
+> *yāsiṣṭam | vartiḥ | vṛṣaṇā | vi 'jenyam | divaḥ 'dāsāya | mahi |*
+> *ceti | vām | avaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.4)** *(small type; read with some doubts)*
+
+> वृषणा कामानां वर्षितारौ हे अश्विनौ युवं युवां भुरमाणं विभिरक्षुण्णैः [?] क्रियमाणं [?] गतं समुद्रे निमग्नं भुज्युं तुग्रपुत्रं स्वयुक्तिभिः स्वयमेव युज्यमानैरश्वैर्नौविशेषैश्च निवहन्ता नितरां वहन्तौ पितृभ्य आ । अज् [?] मर्यादायाम् । यत्र पितरस्तुग्रादेयः असते तावत्पर्यन्तमित्यर्थः । विजेन्यमिति दूरस्थं ब्रुवते । दूरे वर्तमानं वर्तिस्तुग्रस्य गृहं प्रति यासिष्टम् । आगच्छतम् । अपि च दिवोदासाय राज्ञे कृतं युवयोः संबन्धि वो रक्षणं शंबरहननरूपं महि महद्गम्भीरं चेति । अस्माभिर्ज्ञायते ॥ भुरमाणम् । डुभृञ् धारणपोषणयोः । कर्मणि लटः शानच् । व्यत्ययेन शः । बहुलं छन्दसीत्युत्वम् । पितृभ्य आ । मर्यादायामाङ् कर्मप्रवचनीयसंज्ञा । (पा. १-४-८९ [as read]) पञ्चम्यपाङ्परिभिः । (पा. २-३-१० [as read]) इति पञ्चमी । यासिष्टम् । या प्रापणे । यमरमनमातां सक् च । (पा. ७-२-७३ [as read]) इति सगामः । सिचि इडागमः । विजेन्यम् । विजनो दूरदेशः । तत्र भवं विजेन्यम् । भवे छन्दसीति यत् । तित्स्वरितमिति स्वरितत्वम् ॥ [as read]
+
+> *vṛṣaṇā kāmānāṃ varṣitārau he aśvinau yuvaṃ yuvāṃ bhuramāṇaṃ vibhirakṣuṇṇaiḥ [?] kriyamāṇaṃ [?] gataṃ samudre nimagnaṃ bhujyuṃ tugraputraṃ svayuktibhiḥ svayameva yujyamānairaśvairnauviśeṣaiśca nivahantā nitarāṃ vahantau pitṛbhya ā | aj [?] maryādāyām | yatra pitarastugrādeyaḥ asate tāvatparyantamityarthaḥ | vijenyamiti dūrasthaṃ bruvate | dūre vartamānaṃ vartistugrasya gṛhaṃ prati yāsiṣṭam | āgacchatam | api ca divodāsāya rājñe kṛtaṃ yuvayoḥ saṃbandhi vo rakṣaṇaṃ śaṃbarahananarūpaṃ mahi mahadgambhīraṃ ceti | asmābhirjñāyate ‖ bhuramāṇam | ḍubhṛñ dhāraṇapoṣaṇayoḥ | karmaṇi laṭaḥ śānac | vyatyayena śaḥ | bahulaṃ chandasītyutvam | pitṛbhya ā | maryādāyāmāṅ karmapravacanīyasaṃjñā | (pā. 1-4-89 [as read]) pañcamyapāṅparibhiḥ | (pā. 2-3-10 [as read]) iti pañcamī | yāsiṣṭam | yā prāpaṇe | yamaramanamātāṃ sak ca | (pā. 7-2-73 [as read]) iti sagāmaḥ | sici iḍāgamaḥ | vijenyam | vijano dūradeśaḥ | tatra bhavaṃ vijenyam | bhave chandasīti yat | titsvaritamiti svaritatvam ‖ [as read]*
+
+*Sense (mine and tentative):* "O showerers of desires, Aśvins: you, *bhuramāṇam* — [being] carried, borne (Bhujyu)..., *vibhiḥ gatam* — who had sunk in the sea, Bhujyu the son of Tugra, with *svayuktibhiḥ* — horses and special ships that yoke themselves, *nivahantā* — carrying him down (away), *pitṛbhyaḥ ā* — as far as his fathers [*ā* of limit: up to where his fathers, Tugra and the others, were], *yāsiṣṭam* — you went, to *vijenyam* — the distant (*vijana*, solitary place), the *vartiḥ* — the house of Tugra. And for Divodāsa, the king, *mahi* — great and deep is your *avaḥ* — protection, in the form of the killing of Śambara: *ceti* — it is known by us."
+
+---
+
+### Printed p. 467  (PDF 487; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.4)** (Kannada, rendered)
+
+*Vṛṣaṇā* — O Aśvins, givers of desired things; *yuvam* — you two; *vibhiḥ* — by swift-moving (horses); *bhuramāṇam* — [Bhujyu] being carried; *gatam* — (who had sunk in the sea); *bhujyum* — Bhujyu (the son of Tugra); *svayuktibhiḥ* — by [your] chariots that yoke themselves (by your horses and ships); *nivahantā* — carrying; *pitṛbhyaḥ ā* — to (his) father's side; *vijenyam* — [to the place] far away; *vartiḥ* — to Tugra's house; *yāsiṣṭam* — you went; *(api ca)* — and; *divodāsāya* — for the king named Divodāsa; *vām* — your; *avaḥ* — protection (the act of killing Śambara); *mahi* — great; *ceti* — is known by [us].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.4)** (Kannada, rendered)
+
+"O Aśvins, givers of what is desired! You carried Bhujyu, the son of Tugra, who had sunk in the sea with his own army, by your horses and ships that can yoke themselves, and took him to the house of his father Tugra; and the protection you gave (these acts) to King Divodāsa — we know them to be of great glory."
+
+**English Translation (as printed)**
+
+"You brought back to his ancestors Bhujyu, who, borne by his own steeds, had perished, (but that you rescued him) with your self-harnessed horses, and went, showerers (of benefits), to his distant dwelling; and great was the succour which it is known you rendered to Divodasa."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 4)**
+
+"King Tugra, wishing to destroy the enemies who troubled him, joined [a force] in an island beyond and sent an army with his son Bhujyu. While Bhujyu was going with his army on a ship in the middle of the sea, the ship was wrecked and he sank in the water. Then the Aśvins, hearing the praise he made when he remembered them, quickly brought ships and horses, and themselves brought Bhujyu and his army to the shore, and from there took him to his father King Tugra's house and protected him: [such is] the greatness of the Aśvins. And when the king called Divodāsa began a sacrifice, [and] a *rākṣasa* called Śambara spoiled his sacrifice and he and his [people] were in danger, the Aśvins, knowing it, protected Divodāsa by killing the asura Śambara — such power of theirs is described in this Ṛk."
+
+"In Skandasvāmin's explanation and in Sāyaṇa's, the sense is the same, though the meaning of some words is differently arranged. For the words *pitṛbhyaḥ ā* Sāyaṇa …" *(continues on p. 468)*
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–3 complete; Ṛk 4 through printed p. 467 (PDF 487): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 468). Next: printed p. 468 (PDF 488). Numerals as read (no numeral list covers these pages): Pā. 1-4-89, 2-3-10, 7-2-73 `[as read]`.
