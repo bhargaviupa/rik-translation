@@ -5894,4 +5894,72 @@ and in a few other Ṛks —
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–11 complete; Ṛk 12 through printed p. 246 (PDF 266): bhāṣya tail, pratipadārtha, bhāvārtha, English, Special Topics (*daṃsaḥ*, *dadhyaṅ*, the Madhu-vidyā story, the Dadhīca/Indra legend with māyā arithmetic 9×3=27, 27×3=81, 81×10=810 — read from the print at 300 dpi; continues p. 247). Next: printed p. 247 (PDF 267). Open: Ṛ./Ni./Br. numerals as read `[?]`; small-type Sanskrit `[?]`.
+### Printed p. 247  (PDF 267; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"… [Skandasvāmin's other Itihāsa, continued:] [the deities], to destroy these Asuras, begged Brahmā to tell them a means: 'O deities, there is a ṛṣi named Dadhyañc; go to him; he will know the proper means for the destruction of the Asuras.' As Brahmā had said, the deities went to the ṛṣi Dadhīca and gave him the message that Brahmā had sent them. That ṛṣi, by yoga-vision, understood the matter for which they had come, and, in the *yoga-samādhi*, gave up his own life-breaths. Then Indra, with the marrow of that ṛṣi's bones, destroyed the Asuras. This very matter is described in this Ṛk, Skandasvāmin says (Ṛ. Saṃ. 1-84-13 [as read; [?]])."
+
+"There is a tradition that the head of Dadhīca was the horse's head, and that it was given to him by the Aśvin deities. After the death of the ṛṣi Dadhīca, Indra sought the head, which had remained as a horse's head. It is described in Ṛ. Saṃ. 1-84-13 that it was found fallen in a lake called Śaryaṇāvat, at the foot of a mountain."
+
+"As to how the horse's head came to Dadhīca, Skandasvāmin tells an earlier Itihāsa: Indra taught Dadhīca, the son of Atharvan, the form of the Supreme Brahman known as Madhu, and said 'you must not tell this to anyone; if you tell, your head will fall'. After some time the Aśvin deities came to the ṛṣi Dadhīca; and when they begged him to tell the form of Brahman that Indra had taught, Dadhīca said: 'Indra will say my head will fall; I shall not teach it for fear of that.' The Aśvins then said: 'do not worry about that; we shall give you another head if your head falls.' Dadhīca agreed. Hence, when Dadhīca's head fell, the Aśvin deities cut off a horse's head, brought it and joined it to Dadhīca's body. Hence it is said that Dadhīca's head was like a horse's head: this matter the ṛṣi Kakṣīvān has described in Ṛ. Saṃ. 1-116-12 [as read] and 1-117-22 [as read] [the numerals are small [?]].
+
+"The name of this ṛṣi is found in the Ṛgveda Saṃhitā in the Ṛks 1-84-13 ; 1-?-? ; 1-?-? ; 1-117-22 ; 1-119-9 [as read, partly illegible [?]] and others; and in the Taittirīya Saṃhitā 3-?-?-? ; 5-?-?-? [?]; Kāṭhaka Saṃhitā 1?-?; Śatapatha Brāhmaṇa 14-1-1-? ; 14-?-?-? [?], 4-?-?-? ; Bṛhadāraṇyaka Upaniṣad 2-5-? ; 4-?-? [as read] and other places. *(This cluster of reference numerals is too small and blurred to read with confidence; I give them only as these partial readings.)*"
+
+### Printed p. 248  (PDF 268; header "Maṃ. 1 A. 17 Sū. 116")
+
+The Western scholar Welson [sic — printed in English "Welson"; elsewhere "Wilson"] writes on this matter thus (English, as printed):
+
+> We have here rather obscure allusions to a legend which was probably afterwards modified by the Purana's in which the name also occurs as Dadhicha. In the Mahabharata, Vana Parva, Vol. I. it is merely related, that the gods, being oppressed by the kalakeya Asuras, solicited from the sage Dadhicha his bones, which he gave them, and from which Twashtri fabricated the thunderbolt with which Indra slew Vritra and routed the Asuras. The legend of the text differs from this ; Indra—having taught the sciences called Pravargya vidya and Madhu-vidya to Dadhyanch, threatened that he would cut off his head if ever he taught them to any one else ; the Aswins prevailed upon him, nevertheless, to teach them the prohibited knowledge, and, to evade Indra's threat, took off the head of the sage, replacing it by that of a horse ; Indra, apprized of Dadhyanch's breach of faith, struck off his equine head with the thunderbolt ; on which the Aswins restored to him his own. The Pravargya vidya is said to imply certain verses of the Rik, Yajur, and Sama Vedas, and the Madhu-vidya the Brahmana.
+
+**आथर्वणः** — *Ātharvaṇaḥ* — "that the ṛṣi named Atharvan is the father of the ṛṣi Dadhīca is stated in this Ṛk. Mantras that contain many secret and māyā-knowledges are in the Atharvaveda, and it is well known that this Veda has acquired this name because this ṛṣi Atharvan was skilled in these sciences, and was the seer of many sūktas of that Veda.
+
+"The ṛṣi named Atharvan is the original ancestor of a famous group of twenty-one [as read] ṛṣis. In the places where the plural of this word is used, it means the ṛṣi's descendants. In some places, for example —
+
+> दश रथान्प्रष्टिमतः शतं गा अथर्वभ्यः ।
+> अश्वथः पायवे ददात् ॥
+> (ऋ. सं. ६-४७-२४ [as read])
+
+> *daśa rathānpraṣṭimataḥ śataṃ gā atharvabhyaḥ |*
+> *aśvathaḥ pāyave dadāt ‖*
+> *(ṛ. saṃ. 6-47-24 [as read])*
+
+and other Ṛks, there is praise of the gift: a king named Aśvatha gave to the Atharvan family chariots, cows, and so on.
+
+### Printed p. 249  (PDF 269; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः ।
+> देवं देवाय देवयु ॥
+> (ऋ. सं. ९-११-२ [as read])
+
+> *abhi te madhunā payo 'tharvāṇo aśiśrayuḥ |*
+> *devaṃ devāya devayu ‖*
+> *(ṛ. saṃ. 9-11-2 [as read])*
+
+— in this Ṛk the offering, by the Atharvan family, of the Soma juice mixed with milk, to Soma, is described. The name of this ṛṣi is found in the Ṛks
+
+> यज्ञैरथर्वा प्रथमः पथस्तते ततः सूर्यो व्रतपा वेन आजनि ।
+> (ऋ. सं. १-८३-५ [as read])
+
+> *yajñairatharvā prathamaḥ pathastate tataḥ sūryo vratapā vena ājani |*
+> *(ṛ. saṃ. 1-83-5 [as read])*
+>
+> त्वामग्ने पुष्करादध्यथर्वा निरमन्थत ।
+> (ऋ. सं. ६-१६-१३ [as read])
+
+> *tvāmagne puṣkarādadhyatharvā niramanthata |*
+> *(ṛ. saṃ. 6-16-13 [as read])*
+>
+> एवा महानृ बृहद्दिवो अथर्वावोचत्स्वां तन्वमिन्द्रमेव ।
+> (ऋ. सं. १०-१२०-९ [as read])
+
+> *evā mahānṛ bṛhaddivo atharvāvocatsvāṃ tanvamindrameva |*
+> *(ṛ. saṃ. 10-120-9 [as read])*
+
+and others. There is a sūkta in the tenth maṇḍala of the Ṛgveda (Ṛ. Saṃ. 10-120 [as read]), addressed to Indra as deity, of which the seer is the ṛṣi named Bṛhaddiva, a descendant of this Atharvan ṛṣi."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 12; grammar page, noted briefly)**
+
+*sanaye* (*ṣaṇu* "to give"; *khanikaṣikaṣyañjiśivasiddhi-nistani-vani-sani-granthibhyaś ceti*, Uṇ. 4-?? as read [?], the suffix *i*; the accent from the suffix on the last syllable; dative singular); *kṛṇomi* (*kṛvi* "to injure, to do"; *laṭ* 1st singular *mip*; the suffix following, *dhinvikṛṇvor a ca*, Pā. 3-1-80 as read [?], *a* is the final substitution, *u* as *vikaraṇa*; as it is *idit*, *num* augment for the root; the *sthānivadbhāva* of the *a*-elision prevents guṇa of the penultimate; nighāta); *tanyatuḥ* (*tanu* "to extend"; *yutanyañji…*, Uṇ. 1-?? as read [?], the suffix *yatuc*; or *stana* "to sound"; *uṇādayo bahulam*, the suffix *yatuc*; then by Vedic usage elision of the *s*; *citaḥ*, Pā. 6-1-163 as read [?], since the suffix is *cit* the accent is on the last syllable); *vṛṣṭim* (*vṛṣu* "to sprinkle"; *vṛṣyate siñcyate anena iti vṛṣṭiḥ*, *ktin* in the instrumental sense; *mantre vṛṣeṣapacamanavidabhūvīrā…*, Pā. 3-3-96 as read [?], *udātta* of *ktin*; the *t* becomes *ṭ*, since…
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–11 complete; Ṛk 12 through printed p. 249 (PDF 269): Special Topics concluded (Wilson's English note reproduced), grammar page begun (continues p. 250). Next: printed p. 250 (PDF 270), then Ṛk 13. Open: reference numerals on p. 247 unreadable cluster `[?]`; the Western scholar's name printed "Welson" [sic]; numerals as read.
