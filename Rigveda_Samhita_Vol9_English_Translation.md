@@ -2702,4 +2702,90 @@ Grammar page on *rudrāya* (*rudir* "to shed tears"; the suffix *rak* by *roder 
 
 ---
 
-**Progress note:** Sūkta 114: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya and pratipadārtha done (printed p. 105, PDF 125). Next: printed p. 106 (PDF 126) — Ṛk 2 bhāvārtha, English, Special Topics. Plan: Sūktas 114–117. Open: Ni./Pā./Āśv. numerals `[?]`; bhāṣya small type `[?]`; CLAUDE.md range 113–121.
+### Printed p. 106  (PDF 126; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Rudra, be gracious to us; make happiness for us; we also serve thee with oblations and salutations. May thou graciously favour us, who trust in thee alone, with the freedom from diseases and the freedom from fears which Manu, the primal ancestor of us all, obtained from the deities and gave to us."
+
+**English Translation (as printed)**
+
+> Be gracious to us, Rudra ; grant us happiness, for we worship the destroyer of heroes with oblations ; and by your directions, Rudra, may we obtain that freedom from disease and exemption from dangers which our progenitor, Manu, bestowed upon us, (having obtained them from the gods.)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+"Of the Ṛks in the *vapā* and *purodāśa* offerings related to Rudra, the first two, '*mṛḷā no rudra*', are to be used as *puroanuvākyā* mantras, says the Āśvalāyana Śrauta-sūtra, citing '*mṛḷā no rudro ta no mayas kṛdhīti dve ā te pitar marutāṃ sumnam etu*' (Āś. 3-8 as read [?])."
+
+**मयः** — *Mayaḥ* — "*sukham*": happiness. "The word *mayas* is stated among the twenty-eight [as read] names of happiness (Ni. 3-?? as read [?])."
+
+**क्षयद्वीराय** — *Kṣayadvīrāya* — "*kṣapitasarvavīraṃ prāptaiśvaryair marudbhir yuktaṃ vā*": "the meaning of this word has been explained in the previous Ṛk. The Nirukta-writer explains it as 'one who has the strength to destroy heroes' (*vīrān kṣapayati*), and cites —
+
+> इमा रुद्राय स्थिरधन्वने गिरः क्षिप्रेषवे देवाय स्वधाव्ने ।
+> अषाळ्हाय सहमानाय वेधसे तिग्मायुधाय भरता शृणोतु नः ॥
+> (नि. १०-२ and ऋ. सं. २-३३-६ [as read])
+
+> *imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhāvne |*
+> *aṣāḷhāya sahamānāya vedhase tigmāyudhāya bharatā śṛṇotu naḥ ‖*
+> *(ni. 10-2 and ṛ. saṃ. 2-33-6 [as read])*
+
+as an example of this Ṛk" —
+
+> दृढधन्वने — स्थिरधन्वने । क्षिप्रेषवे — शीघ्रं बाणान् मुञ्चते । देवाय — दानादिगुणयुक्ताय । स्वधाव्ने — अन्नवते । अषाळ्हाय —
+
+> *dṛḍhadhanvane — sthiradhanvane | kṣipreṣave — śīghraṃ bāṇān muñcate | devāya — dānādiguṇayuktāya | svadhāvne — annavate | aṣāḷhāya —*
+
+### Printed p. 107  (PDF 127; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> — इतरेण तिरस्कारं अप्राप्ताय । सहमानाय — शत्रूनभिभवित्रे । तिग्मायुधाय — तीक्ष्णायुधवते । रुद्राय — रुद्राय । इमा गिरः — इमाः स्तुतीः ।
+
+> *— itareṇa tiraskāraṃ aprāptāya | sahamānāya — śatrūnabhibhavitre | tigmāyudhāya — tīkṣṇāyudhavate | rudrāya — rudrāya | imā giraḥ — imāḥ stutīḥ |*
+
+"'*sthiradhanvane*' — to him of firm bow; '*kṣipreṣave*' — who quickly looses arrows; '*devāya*' — endowed with the qualities of giving and the like; '*svadhāvne*' — who has food; '*aṣāḷhāya*' — who has never been overcome (insulted) by another; '*sahamānāya*' — who always overcomes enemies; '*tigmāyudhāya*' — who has sharp weapons; '*rudrāya*' — to Rudra; '*imā giraḥ*' — these praises': he explains the meaning 'we speak these *stotras*'. On the matter that the Maruts are the sons of Rudra —
+
+> प्र यो शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।
+> रोदसी हि मरुतश्चक्रिरे वृधे मदन्ति वीरा विदथेषु घृष्वयः ॥
+> (ऋ. सं. १-८५-१ [as read])
+
+> *pra yo śumbhante janayo na saptayo yāmanrudrasya sūnavaḥ sudaṃsasaḥ |*
+> *rodasī hi marutaścakrire vṛdhe madanti vīrā vidatheṣu ghṛṣvayaḥ ‖*
+> *(ṛ. saṃ. 1-85-1 [as read])*
+
+— as said in this Ṛk, the Maruts are the sons of Rudra, and their excellence also is described as exceeding."
+
+**मृळ** — *Mṛḷa* — "*tvaṃ sukhayitā bhava*: 'do thou give happiness.' From the root *mṛḍa* 'to be gracious', in the sense 'make happy'; the address to Rudra by '*mṛḷa*' and the request '*mayaskṛdhi*' — 'give happiness' — is described here. From this the greatness of Rudra — that he subdues the wicked and protects those who take refuge in him — becomes plain."
+
+**मनुरा येजे पिता** — *Manur āyeje pitā* — "*pitā manuḥ* — Manu, the father; *śaṃ ca rogāṇāṃ śamanaṃ yoś ca bhayānāṃ yāvanaṃ ca*: [the pair] the quieting of diseases, and the keeping-off of fears: Sāyaṇa explains that Manu worshipped thee, having obtained these from the deities, with sacrifices. Skandasvāmin, making the construction go in the same sense, explains that *śam* means the cessation of diseases come from the past, and that *yoḥ* means the keeping-off of those that may come later through distress (*aniṣṭa*); and that Manu worshipped Rudra with sacrifice and obtained both for his people."
+
+**मनुः** — *Manu:* "Though the name Manu is read in many places in the Ṛgveda, a fuller account is nowhere found. Manu may be understood as the primal ancestor of the Mānava line and the guide in the order of performing sacrifices. [Here follows a legend:] When he was giving his estate to his sons, the youngest, Nābhānediṣṭha, was studying in the gurukula as a *brahmacārin*; so no share had been left for him; having finished his studies he came and, to ask for his share, asked his father (Manu); [Manu told him]: 'Go to the place where the Aṅgirases are performing a sacrifice; if you teach them certain mantras they will give you as much wealth as you want' —" *(continues on the next page)*
+
+---
+
+### Printed p. 108  (PDF 128; header "Maṃ. 1 A. 16 Sū. 114")
+
+"… [the Aṅgirases] would give him wealth': so [Manu] said." *(The sentence is cut at the top of the page; the sense is as above.)* "This story is told in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā of the Yajurveda; since the sacrifice made by this Manu is famous, the matter of Manu's sacrifice is alluded to in various places in the Ṛgveda. The matter of this Manu is stated also outside the Ṛgveda: in the Atharvaveda; the Taittirīya Saṃhitā (references printed as a cluster of small numerals — 1-5-1-3 [?], 2-5-1-3 [?], 3-1-6-1 [?], 3-1-9-4 [?], 5-… [?] — I cannot read them reliably); the Kāṭhaka Saṃhitā; the Śatapatha Brāhmaṇa; the Jaiminīya Upaniṣad-Brāhmaṇa (3-?-? [?]); and other places."
+
+"Manu has many names: since he is the son of Vivasvān (Ṛ. Saṃ. 8-?-? as read [?]) — a deity, Vivasvat — he is *Vaivasvata* (Atharva 8-?-? [?]; Śatapatha Br. 13-4-3-3 as read [?]); since he belongs to the family of Savarṇā he is *Sāvarṇi*; since he belongs to the line of Saṃvaraṇa he is *Sāṃvaraṇi* (Ṛ. Saṃ. 9-?-? as read [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly)**
+
+*mṛḷa* (*mṛḍa* "to be gracious", tudādi; *loṭ* 2nd singular, *hi* for *sip*; the *śa* class-sign; *hi* elided by *ato heḥ*, Pā. 6-4-105 as read [?]; since *śa* is *ṅit*-like there is no guṇa of the penultimate; the Saṃhitā lengthening *dyaicotastijaḥ* [as printed, [?]], since the root has two syllables [as printed]); *kṛdhi* (*ḍukṛñ* "to do", *loṭ* 2nd singular; *hi*; *bahulaṃ chandasi* — the *vikaraṇa* elided; the *śruśṛṇupṛkṛvṛbhyaś chandasi*, Pā. 6-4-102 as read [?], *hi* → *dhi*, no guṇa of *i*; nighāta since a *tiṅ* follows an accented word; in *mayaḥ kṛdhi* the *s* of *mayas* takes *kṛ-kami* … giving *ṣatva* by *ataḥ kṛkamikaṃsa…*, Pā. 8-3-46 as read [?]); *kṣayadvīrāya* (the explanation is in the previous Ṛk; the mention of "doing" in *kriyāgrahaṇaṃ kartavyam*, Pā. 1-4-32 as read [?], gives the dative sense *sampradāna*, so the fourth case); *vidhema* (*vidh* "to arrange", tudādi; *liṅ* 1st plural *jhi*/*mas*, with *dus*[?]; *nityaṃ ṅitaḥ*, Pā. 3-4-99 as read [?], elision of the *s*; *tudādibhyaḥ śaḥ*; the *yāsuṭ* augment on the *liṅ*; *ato yeyaḥ*, Pā. 7-2-80 as read [?], *iy* for *yā*; guṇa; elision of *y* by *lopo vyor vali*; nighāta).
+
+### Printed p. 109  (PDF 129; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page, concluded:* *āyeje* (*yaj* "to worship, to unite, to give"; *liṭ* 3rd singular, *ta*; the *ta* replaced by *ire*/*e* by *liṭas tajhayor eśirec*, Pā. 3-4-81 as read [?]; since the *saṃjñāpūrvako vidhir anityaḥ* the *saṃprasāraṇa* is not applied here; doubling; the elision of the reduplication's *a* before the *e* by *atekāhalmadhye 'bhyāsasya*, Pā. 6-4-120 as read [?]; the root's *ḥ*… *ekāra*; since *cavāyogo prathamā* (Pā. 8-1-30 as read [?]) prevents nighāta, the suffix being *cit*, the end is accented; *tiṅo 'ṅgitaḥ*… the *ā* is unaccented); *aśyāma* (*aśū* "to pervade"; by *vyatyayo bahulam* *parasmaipada*; *liṅ* 1st plural; *mas* → *mus*; *nityaṃ ṅitaḥ*, elision of the *s*; *yāsuṭ parasmaipadeṣūdātto ṅicca*, Pā. 3-4-103 as read [?]; the *vikaraṇa* elided by *bahulaṃ chandasi*; nighāta); *praṇītiṣu* (*ṇīñ* "to carry"; *ktin* in the abstract sense by *striyāṃ ktin*, Pā. 3-3-94 as read [?]; locative plural; the first-member accent). ‖ 2 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.3)**
+
+> अश्याम ते सुमतिं देवयज्यया क्षयद्वीरस्य तव रुद्र मीढ्वः ।
+> सुम्नायन्निद्विशो अस्माकमा चरारिष्टवीरा जुहवाम ते हविः ॥ ३ ॥
+
+> *aśyāma te sumatiṃ devayajyayā kṣayadvīrasya tava rudra mīḍhvaḥ |*
+> *sumnāyannidviśo asmākamā carāriṣṭavīrā juhavāma te haviḥ ‖ 3 ‖*
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–2 complete (through printed p. 109, PDF 129); Ṛk 3 Saṃhitā written. Next: printed p. 110 (PDF 130) — Ṛk 3 Pada onward. Open: Manu-reference numerals on p. 108 unreadable cluster `[?]`; Pā. numerals as read.
