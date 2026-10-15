@@ -4426,4 +4426,86 @@ the ṛṣi of the Ṛgveda, Maṇḍala 1, Sūktas 116–126 [as read: "1-116-?
 
 ---
 
-**Progress note:** Sūkta 116: Ṛk 1 through printed p. 182 (PDF 202): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics in progress (*barhiḥ*; Kakṣīvān/Vimada/Nāsatya passages; more topics follow on p. 183). The many Ṛ./Ni. reference numerals of p. 181 are unreadable at this size → `[?]`, none given. Next: printed p. 183 (PDF 203). Open: p. 181 numerals; numerals as read elsewhere.
+### Printed p. 183  (PDF 203; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 1, continued]
+
+**अभ्रियेव वातः** — *Abhriyeva vātaḥ* — "*meghe(ṣu) avasthitāni udakāni vāyur iva*": "as the wind drives the waters that are in the clouds so that they rain, I shall say the *stotras* many times for the Aśvin deities and drive them, as the sacrificers recite them in the sacrifice."
+
+**अर्भगाय** — *Arbhagāya* — "*vimadāya bālāya svayaṃvaralabdhabhāryāya vimadasaṃjñāya rājarṣaye*": "the royal sage named Vimada, going to a *svayaṃvara*, was chosen in the *svayaṃvara* by a princess. As he was bringing her home after marrying her, in the middle of the road other kings, because this princess had been won by this Vimada, rose against him to fight. Then Vimada praised the Aśvin deities by the mantras —
+
+> अग्निमीळे भुजां यविष्ठम् ॥ [as read; the first words of Ṛ. 10-20-1 as printed]
+> (ऋ. सं. १०-२०-१ [as read])
+
+> *agnimīḷe bhujāṃ yaviṣṭham ‖ [as read; the first words of Ṛ. 10-20-1 as printed]*
+> *(ṛ. saṃ. 10-20-1 [as read])*
+
+— By this, the story is understood: the Aśvin deities, pleased, fought the enemies in battle for him, who was unable to conquer them, and brought him with his wife. This story is hinted at in the Ṛk
+
+> याभिः पत्नीर्विमदाय न्यूहथुरा घ वा याभिररुणीरशिक्षतम् ।
+> याभिः सुदास ऊहथुः सुदेव्यं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-१९ [as read])"
+
+> *yābhiḥ patnīrvimadāya nyūhathurā gha vā yābhiraruṇīraśikṣatam |*
+> *yābhiḥ sudāsa ūhathuḥ sudevyaṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-19 [as read])"*
+
+**अर्भगः** — *Arbhagaḥ* — "*arbham alpaṃ gāyati śabdayatīty arbhagaḥ*": "the word *arbhaka* is stated among the twelve [as read] names of 'small' (*hrasva*) (Ni. 3-?? as read [?]), so it means 'small'; he who sounds a little (the small child) is called *arbhaga*, the name of a child."
+
+**सेनाजुवा** — *Senājuvā* — "*śatrusenāyāḥ prerakeṇa śatrubhir duṣprāseṇa*": "by the chariot that drives the enemy's army, i.e. which is not to be approached by enemies — so Sāyaṇa; and Skandasvāmin: '*senājuvā senayā saha gantrā svasenāparivṛtena*' — by the chariot which goes together with the army, i.e. which moves surrounded by their own army."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly)**
+
+*nāsatyābhyām* (*satsu bhavau satyau* — *sat* + *yat*; *na satyau asatyau*; *na asatyau nāsatyau*; *nabhrāṇ napāt…*, Pā. 6-3-75 as read [?], the *naṅ* keeps its natural form [*prakṛtibhāva*]; (the *n* of *naṅ* is not elided by *nalopo naṅaḥ*, Pā. 6-3-73 as read [?]); *tatpuruṣe…*
+
+### Printed p. 184  (PDF 204; header "Maṃ. 1 A. 17 Sū. 116")
+
+… *tatpuruṣe 'tulyārthatṛtīyā…*, Pā. 6-2-2 as read [?], the first-member accent of the *avyayapūrvapada* compound); *vṛñje* (*vṛjī* "to leave", adādi, *idito num dhātoḥ*, Pā. 7-1-58 as read [?], *num* augment; *anusvāra* → homorganic nasal; *laṭ* 3rd singular *ta*; *ṭita ātmanepadānāṃ ṭer e*; *adiprabhṛtibhyaḥ śapaḥ*, *luk* for *śap*; *lopas ta ātmanepadeṣu*, Pā. 7-1-41 as read [?], the *t* of the suffix is elided in the Veda; the form *vṛñje*; nighāta); *iyarmi* (*ṛ* "to go", juhotyādi; *laṭ* 1st singular *mip*; *śluḥ* as *vikaraṇa* by *juhotyādibhyaḥ śluḥ*; doubling by *ślau*; *arti-pipartyoś ca*, Pā. 7-4-77 as read [?], *i* for the reduplication; *raparatva*, *halādiśeṣa*; guṇa of the root's *ṛ* by *sārvadhātukārdhadhātukayoḥ*; *abhyāsasyāsavarṇe*, Pā. 6-4-78 as read [?], *iy* for the reduplication's *i*; nighāta); *abhriyā* (*abhrāt bhavāni abhriyāṇi*; *samudrābhrād ghaḥ*, Pā. 4-4-118 as read [?], *gha* for *ṭ*, giving *iya*; in the neuter plural *śi* with *śeś chandasi bahulam*, Pā. 6-1-70 as read [?], elision of *śi*; the *i* accented from the suffix); *arbhagāya* (*ṛ* "to go", the suffix *bhan* by *arti-gṛbhyāṃ bhan*, Uṇ. 3-?? as read [?]; guṇa; the form *arbha*; "*arbha eva arbhakaḥ*" — *kan* in the sense of a name by *saṃjñāyāṃ kan*, Pā. 5-3-87 as read [?]; the *g* for *k* in the Veda; first-syllable accent by *jñityādir nityam*; further, some explain the word differently: *arbham alpaṃ gāyati śabdayati arbhagaḥ*; *gai* "to sing"; *gāpoṣṭak*, Pā. 3-2-8 as read [?], *ṭak*; *ā to lopa iṭi ca*; this meaning is accepted by Śākalya); *senājuvā* (*ju*, a root of the *saunra* [*sautra*] group, used in the sense of going; since it is of *prerana* meaning it takes the sense of *antarbhāvitaṇyartha*; *kvip vaci…*, Pā. 3-2-76 as read [?], the suffix and the lengthening here; *tenādīnām upasaṃkhyānam*…
+
+### Printed p. 185  (PDF 205; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+… [Pā. 6-4-?? as read]; since it is read in the *tanādi* group [as printed], *uvaṅ* substitution; *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?], first-member accent); *nyūhatuḥ* (*ni* + *vah* "to carry"; *liṭ* 3rd dual; *parasmaipadānāṃ ṇalatusus…*, Pā. 3-4-82 as read [?], *atus*; *asaṃyogāl liṭ kit*, Pā. 1-2-5 as read [?], *atus* is *kit*, hence *vacisvapiyajādīnāṃ kiti*, Pā. 6-1-15 as read [?], *saṃprasāraṇa*; *saṃprasāraṇāc ca*, *pūrvarūpa*; doubling of the root; *halādiśeṣa*; lengthening [*savarṇadīrgha*]; since *yau* precedes, no nighāta by *yadvṛttān nityam*, Pā. 8-1-66 as read [?]; the *a* accented by the suffix accent). ‖ 1 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.2)**
+
+> वीळुपत्मभिराशुहेमभिर्वा देवानां वा जूतिभिः शाशदाना ।
+> तद्रासभो नासत्या सहस्रमाजा यमस्य प्रधने जिगाय ॥ २ ॥
+
+> *vīḷupatmabhirāśuhemabhirvā devānāṃ vā jūtibhiḥ śāśadānā |*
+> *tadrāsabho nāsatyā sahasramājā yamasya pradhane jigāya ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.2)**
+
+> वीळुपत्मऽभिः । आशुहेमऽभिः । वा । देवानाम् । वा । जूतिऽभिः ।
+> शाशदाना ।
+> तत् । रासभः । नासत्या । सहस्रम् । आजा । यमस्य । प्रऽधने ।
+> जिगाय ॥ २ ॥
+
+> *vīḷupatma 'bhiḥ | āśuhema 'bhiḥ | vā | devānām | vā | jūti 'bhiḥ |*
+> *śāśadānā |*
+> *tat | rāsabhaḥ | nāsatyā | sahasram | ājā | yamasya | pra 'dhane |*
+> *jigāya ‖ 2 ‖*
+
+### Printed p. 186  (PDF 206; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.2)**
+
+> वीळुपत्मभिः । वीळिति बलनाम । बलवदुत्पतनैः आशुहेमभिः शीघ्रगमनैः । वाकबः [?] समुच्चये । हे नासत्यावश्विनौ एवंभूतैरश्वैश्च देवानामिन्द्रादीनां जूतिभिः प्रेरणैश्च शाशदाना शाश्यमानयोरर्थाय प्रेर्यमाणयोर्युवयोर्वाहनभूतो यो रासभः प्रजापतिना दत्तः स यमस्य वैवस्वतस्य प्रीतिकरे प्रधने प्रकृष्टधनोपेते आजा आजौ सङ्ग्रामे तत्शत्रूणां सहस्रं जिगाय । जितवान् । वैवस्वतो हि बहूनां मरणहेतुना सङ्ग्रामेण तुष्टो भवति । यद्वा । जैतव्यत्वेन प्रजापतिना निहितमृक्षहस्रं शीघ्रगमनयुक्तो रासभो जिगाय । जयेनालभत । अन्येभ्यो देवेभ्यः पूर्वमेवाजिं प्राप्य युवानां जयं प्रापयामास । तथा चास्मिन्नर्थे प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत् । ऐ. ब्रा. १-८ [as read] । इत्यादिकं ब्राह्मणमनुसन्धेयम् ॥ [grammatical tail: *vīḷupatmabhiḥ* — *vīḷu* strength, *patman* from *pat*, *vīḷuvat patmān*…; *āśuhemabhiḥ* — *āśu* + *hi* "to go", *hemanin*…; *jūtibhiḥ* — *jūti*, *ūtiyūtijūti…* *ktin*, the udātta accent; *śāśadānā* — *śasu* "to command", *śāna* with *tācchīlya*… *ṣatva*…; *ājā* — *ājau*, *ḍādeśa* by *supāṃ sulug*; *jigāya* — *ji* "to conquer", *liṭ*, *ṇal*, *sanliṭoḥ…* *kutva*, *gakāra*.] [small type; partly doubtful [?]]
+
+> *vīḷupatmabhiḥ | vīḷiti balanāma | balavadutpatanaiḥ āśuhemabhiḥ śīghragamanaiḥ | vākabaḥ [?] samuccaye | he nāsatyāvaśvinau evaṃbhūtairaśvaiśca devānāmindrādīnāṃ jūtibhiḥ preraṇaiśca śāśadānā śāśyamānayorarthāya preryamāṇayoryuvayorvāhanabhūto yo rāsabhaḥ prajāpatinā dattaḥ sa yamasya vaivasvatasya prītikare pradhane prakṛṣṭadhanopete ājā ājau saṅgrāme tatśatrūṇāṃ sahasraṃ jigāya | jitavān | vaivasvato hi bahūnāṃ maraṇahetunā saṅgrāmeṇa tuṣṭo bhavati | yadvā | jaitavyatvena prajāpatinā nihitamṛkṣahasraṃ śīghragamanayukto rāsabho jigāya | jayenālabhata | anyebhyo devebhyaḥ pūrvamevājiṃ prāpya yuvānāṃ jayaṃ prāpayāmāsa | tathā cāsminnarthe prajāpatirvai somāya rājñe duhitaraṃ prāyacchat | ai. brā. 1-8 [as read] | ityādikaṃ brāhmaṇamanusandheyam ‖ [grammatical tail: *vīḷupatmabhiḥ* — *vīḷu* strength, *patman* from *pat*, *vīḷuvat patmān*…; *āśuhemabhiḥ* — *āśu* + *hi* "to go", *hemanin*…; *jūtibhiḥ* — *jūti*, *ūtiyūtijūti…* *ktin*, the udātta accent; *śāśadānā* — *śasu* "to command", *śāna* with *tācchīlya*… *ṣatva*…; *ājā* — *ājau*, *ḍādeśa* by *supāṃ sulug*; *jigāya* — *ji* "to conquer", *liṭ*, *ṇal*, *sanliṭoḥ…* *kutva*, *gakāra*.] [small type; partly doubtful [?]]*
+
+*Sense (mine):* "*Vīḷupatmabhiḥ* — *vīḷu* is a name for strength: by strong leaps; *āśuhemabhiḥ* — by swift goings; *vā* — and (in the sense 'together'). O Nāsatyas, Aśvins, with such horses, and with *devānām*, the impulses of the gods Indra and the rest, *śāśadānā* — for you two who are impelled for the purpose of the command(s), that *rāsabha* (ass) who was given by Prajāpati, which is your vehicle, *yamasya*, of Yama Vaivasvata, in his delightful *pradhane*, rich-booty battle, *ājā* — in the war — conquered (*jigāya*) a thousand of the enemies. For Vaivasvata is pleased with a war that causes the death of many. Or: the ass, which is swift, won the thousand [thousand-cattle?] placed by Prajāpati as to be won; he obtained them by victory; having reached the contest before the other gods, he made the victory attained by you two — as in the Brāhmaṇa: '*prajāpatir vai somāya rājñe duhitaraṃ prāyacchat*' (Ai. Br. 1-8 as read [?])."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*vīḷupatmabhiḥ* — of the strongest (strong-flying); *vā* — and; *āśuhemabhiḥ* — swift-going (horses); *nāsatyā* — O Nāsatyas; *devānām* — by the gods Indra and the rest; *jūtibhiḥ* — by encouragement; *śāśadānā* — greatly impelled; *rāsabhaḥ* — the ass (your vehicle); *yamasya* — of Yama (the pleasing); *pradhane* — specially wealthy; *ājā* — in the battle; *tat* — those (enemies); *sahasram* — a thousand; *jigāya* — conquered."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, joined with the strongest and swiftest horses, and impelled by the encouragement of the gods, thy ass (thy vehicle) conquered many thousand enemies in the pleasing battle of Yama."
+
+---
+
+**Progress note:** Sūkta 116: Ṛk 1 complete; Ṛk 2 through the bhāvārtha on printed p. 186 (PDF 206): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha. Next: printed p. 187 (PDF 207) — Ṛk 2 English, Special Topics, grammar. Open: numerals as read `[?]`; some bhāṣya words (*vākabaḥ*) `[?]`.
