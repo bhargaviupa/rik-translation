@@ -11189,4 +11189,40 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–3 complete; Ṛk 4 through printed p. 467 (PDF 487): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 468). Next: printed p. 468 (PDF 488). Numerals as read (no numeral list covers these pages): Pā. 1-4-89, 2-3-10, 7-2-73 `[as read]`.
+### Printed p. 468  (PDF 488; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Special Topics of Ṛk 4, continued)* "… for the words *pitṛbhyaḥ ā*, Sāyaṇa says: *yatra pitaras tugrādeyaḥ asate tāvat paryantam* — 'as far as the place where his fathers, Tugra and the others, are'. Skandasvāmin explains *pitṛbhyaḥ ā* thus:
+
+> पिक्षणामर्थाय । पितृणामस्य स्वर्गादेः [?] प्रच्युतिहेतोः प्रजासंतानाविच्छेदार्थम् । [as read; small type, doubtful [?]]
+
+> *pikṣaṇāmarthāya | pitṛṇāmasya svargādeḥ [?] pracyutihetoḥ prajāsaṃtānāvicchedārtham | [as read; small type, doubtful [?]]*
+
+— 'so that the ancestors, [who] fall from heaven, do not fall, the line of offspring is to be continuous, that is, the progeny should go on unbroken' — he explains."
+
+*Vibhiḥ* — *aśvaiḥ*: "'by horses' is Sāyaṇa's explanation; Skandasvāmin explains *pakṣisadṛśaiḥ aśvaiḥ* — 'by horses, swift like birds'."
+
+*Bhuramāṇam* — *bhriyamāṇam*: "'one being borne by horses' — so Sāyaṇa; and Skandasvāmin: *bhurati gṛsyamāṇam matsyair makarair vā* — 'being swallowed by fishes and crocodiles' — since he takes the root *bhur* to mean 'swallowing'."
+
+*Vartiḥ* — *gṛhaṃ prati vartanyā mārgeṇa*: "Sāyaṇa's meaning is 'house'. Skandasvāmin explains the word *vartis* as 'road'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Bhuramāṇam* — root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; in the passive sense *śānac*; *vyatyayo bahulam* (Pā. 3-1-85 as read), *śa* vikaraṇa in place of *śluḥ* [?]; *bahulaṃ chandasi*, *u* for the root; *uraṇ raparaḥ*, [it becomes] *r*-final; *ānemuk* (Pā. 7-2-82 as read), the augment *muk* for the *a*-ending; the form *bhuramāṇa*; because the *lasārvadhātuka* follows after *upadeśa*, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read) makes it *anudātta*, so the *śa*-vikaraṇa's accent remains; accusative singular form. *Gatam* — root *gam̐ḷ gatau*; when *kta* follows, *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. 6-4-37 as read), elision of the nasal *m* of the root; by the suffix's accent the final acute. *Nivahantā* — the prefix *ni*; root *vaha prāpaṇe*; in the sense of *laṭ*, *śatṛ*; *śap* vikaraṇa; since the *lasārvadhātuka* is *anudātta*, the root accent remains; in the compound, *gatikārakopapadāt kṛt*, the *kṛdanta* hind-part keeps its natural accent; with the dual *au* the case ending, *supāṃ sulug*, *ā* for it. *Pitṛbhyaḥ ā* — the prefix *āṅ*; *āṅ maryādābhividhyoḥ* (Pā. 1-4-89 as read), in the sense of *maryādā* (what is called *maryādā* when stating a limit [excluded]) it gets the *karmapravacanīya* name; *pañcamy apāṅparibhiḥ* (Pā. 2-3-10 as read), the fifth case comes for the word *pitṛ* connected with it.
+
+---
+
+### Printed p. 469  (PDF 489; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Yāsiṣṭam* — root *yā prāpaṇe*; *laṅ*? [as printed *luṅ*], second person dual; *tasthasthamipāṃ tāṃtamtāmaḥ*, *tam* substituted; *yamaramanamātāṃ sak ca* (Pā. 7-2-73 as read), the augment *sak* for the root; in the *luṅ*, for the *cli* that has come the *sic*, *iṭ* [augment]; *ādeśapratyayayoḥ* (Pā. 8-3-59 as read), *ṣatva* of the *s* of *sic*; on that account the *ṭ* of the suffix becomes *ṭh*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; the form *yāsiṣṭam*; because it stands at the beginning of a pāda, no *nighāta*; by the suffix's accent the final acute. *Vijenyam* — *vijana* is a distant place; "what exists in *vijana*" is *vijenyam*; *bhave chandasi* (Pā. 4-4-110 as read), the suffix *yat*; by Vedic usage *eṇ* [for *a*]; since the suffix is *tit*, *tit svaritam* (Pā. 6-1-185 as read), the *svarita* accent. *Divodāsāya* — *divodāsādīnāṃ chandasy upasaṅkhyānam* (as read; Pā. 6-2-?? [?]), the former member's initial acute. ‖ 4 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.5)**
+
+> युवोरश्विना वपुषे युवायुजं रथं वाणी येमतुरस्य शर्ध्यम् ।
+> आ वां पतित्वं सख्याय जग्मुषी योषावृणीत जेन्या युवां पती ॥ ५ ॥
+
+> *yuvoraśvinā vapuṣe yuvāyujaṃ rathaṃ vāṇī yematurasya śardhyam |*
+> *ā vāṃ patitvaṃ sakhyāya jagmuṣī yoṣāvṛṇīta jenyā yuvāṃ patī ‖ 5 ‖*
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–4 complete; Ṛk 5 Saṃhitā written (printed p. 469, PDF 489). Next: printed p. 470 (PDF 490): Ṛk 5 Pada onward. Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 468–469 `[as read]`.
