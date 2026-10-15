@@ -7489,4 +7489,94 @@ in this Ṛk Yāska explains *pratna* as 'ancient', so Sāyaṇa explains it as 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛk 1 complete; Ṛk 2 through the printed English on p. 314 (PDF 334): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 315 (PDF 335) — Ṛk 2 Special Topics and grammar. Open: numerals as read `[?]`; *pratne* grammar note on p. 312 compressed `[?]`.
+### Printed p. 315  (PDF 335; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अश्विना** — *Aśvinā* — "Yāska considers who the Aśvin deities are. The sequence stated in the Nirukta on this matter runs thus —
+
+> अथातो द्युस्थाना देवताः । तासामश्विनौ प्रथमागामिनौ भवतः । अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यौर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । अहोरात्रावित्येके । सूर्याचन्द्रमसावित्येके । राजानौ पुण्यकृतावित्यैतिहासिकाः ॥
+> (नि. १२-१ [as read])
+
+> *athāto dyusthānā devatāḥ | tāsāmaśvinau prathamāgāminau bhavataḥ | aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvairaśvināvityaurṇavābhaḥ | tatkāvaśvinau dyāvāpṛthivyāvityeke | ahorātrāvityeke | sūryācandramasāvityeke | rājānau puṇyakṛtāvityaitihāsikāḥ ‖*
+> *(ni. 12-1 [as read])*
+
+"From here onward the deities of the atmosphere-region (*dyusthāna*) are described; and, as the first of them, the question 'who are the Aśvins' is the first matter, and he begins the discussion: one who pervades everything with water (*rasa*), and one who pervades everything with light: two such exist, says one view; the teacher named Aurṇavābha says that the two Aśvin deities are two, [conveyed] by 'horses' (*aśva*). Others, in the inquiry 'who are the Aśvins', say that the two are those who pervade the earth with food and the atmosphere with light, [that is] heaven and earth, known as such to all [*bhūyaṃ tarikṣa* — as printed, doubtful [?]]. Others say that instead of saying that they are two who pervade the day with light and the night with dew, the Aśvins are *time itself*, in the form of day and night, which is the support of that pervasion. Still others — that they are the Sun and the Moon, since the Sun pervades with radiance and the Moon with water; being [those who] regulate time. The Itihāsa-writers (*aitihāsikāḥ*) — that is, those who know the course of events in former times, or who know what happened — say that the two Aśvin deities are two kings who had amassed merit. This view agrees with the view accepted by the teacher named Aurṇavābha.
+
+> तयोः कालः ऊर्ध्वमर्धरात्रात्प्रकाशीभावस्यानुविष्टम्भम् । अनुक्तनो भागो हि मध्यमः ज्योतिर्भाग आदित्यः ॥
+> (नि. १२-१ [as read; small type, partly doubtful [?]])
+
+> *tayoḥ kālaḥ ūrdhvamardharātrātprakāśībhāvasyānuviṣṭambham | anuktano bhāgo hi madhyamaḥ jyotirbhāga ādityaḥ ‖*
+> *(ni. 12-1 [as read; small type, partly doubtful [?]])*
+
+"Their time [of appearance] is before sunrise: the Aśvin deities' praises come before sunrise, and the Sun's praises follow after sunrise; the part of light that is a little less than the Sun's, [with a little] darkness, is before the Sun's rising and is called *madhyama*, 'the middle'. The portion of light that is entirely free of darkness and has luminosity is called *āditya*: so, as the middle portion, and as the highest, the time that exists in the intermediate and highest state is held to be the Aśvin deities: this is the view of the Nirukta-writer.
+
+### Printed p. 316  (PDF 336; header "Maṃ. 1 A. 17 Sū. 117")
+
+> वसातिषु स्म चरथो सिता पेत्वाविव ।
+> कदेदमश्विना युवमभि देवाँ आगच्छतम् ॥
+> (नि. १२-१ [as read; the quotation is a Ṛk-pāda of doubtful reading in the print [?]])
+
+> *vasātiṣu sma caratho sitā petvāviva |*
+> *kadedamaśvinā yuvamabhi devā~ āgacchatam ‖*
+> *(ni. 12-1 [as read; the quotation is a Ṛk-pāda of doubtful reading in the print [?]])*
+
+> इति सा निगदव्याख्याता । वसातिषु स्म चरथो वसातयो रातयो वसन्ते स्याः इतरेतरा तयोः वक्त्रीर्वा वहश्रीर्वा सिता पेत्वाविव । आसेत्वा वृत्रहणं सुरातयोः ॥
+> (नि. १२-१ [as read; small type, doubtful [?]])
+
+> *iti sā nigadavyākhyātā | vasātiṣu sma caratho vasātayo rātayo vasante syāḥ itaretarā tayoḥ vaktrīrvā vahaśrīrvā sitā petvāviva | āsetvā vṛtrahaṇaṃ surātayoḥ ‖*
+> *(ni. 12-1 [as read; small type, doubtful [?]])*
+
+"'At the time when the light of the eye, which performs the function of seeing by the power of the deities, is little [as at night, and at the junctures of day and night] — like clouds that move about — I have recognized you with great effort at dawn.' Since it is said in this mantra 'you two come at the time when the other deities come for the sacrifice', for both of them the time of the sacrifice comes after midnight has passed. For the two, in two vessels (two potsherds, *kapāla*) the oblations are prepared. Both are of one intention and accomplish the work. From the mantra that is the basis of what Aurṇavābha says and what the Nirukta-writer says, both have constructed different meanings.
+
+"In this mantra the word *vasātiṣu* — *vasāti* — is a name of a country. The two (princes) who were kings of it were called *Vāsātya*. They had many horses; therefore, 'those who possess horses', the name *aśvin* arose for them. They earned much merit and became helpers of the deities in sacrifices. These two, with the same form, appearance, and practice, wandering, joined the company of the deities: thus the teacher Aurṇavābha explains the meaning. Refuting this view, the Nirukta-writer —
+
+> तयोः समानकालयोः समानकर्मणोः संस्तुत्प्रत्ययोः असंस्तवे नैपोर्धर्त्रोर्भवति । वासात्म्यो ऽन्य उच्यते उषः पुत्रस्त्वान्य इति ॥
+> (नि. १२-१ [as read; small type, doubtful [?]])
+
+> *tayoḥ samānakālayoḥ samānakarmaṇoḥ saṃstutpratyayoḥ asaṃstave naipordhartrorbhavati | vāsātmyo 'nya ucyate uṣaḥ putrastvānya iti ‖*
+> *(ni. 12-1 [as read; small type, doubtful [?]])*
+
+"For these two, the time is one, the work is of one kind, and the praise is eminently [equal], so the first half of the Ṛk *vasātiṣu* [as read] is able to describe the form and works of these two. From this: *vāsātmya* ('belonging to the vāsa-lineage'), one of the two, is said to be the son of the night, which is the middle [state]; and the other is the *upaḥ*-son, the son of Uṣas — thus he explains.
+
+### Printed p. 317  (PDF 337; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"By the meaning of the Ṛk that conveys praise, [showing] that the two are different, [the Nirukta] describes the one, the son of Night, who is *vāsātmya*, of the middle position, and the other as the son of Uṣas. The middle and highest rank of these Aśvin deities is also made clear in —
+
+> इहेह जाता समवावशीतामरेपसा तन्वा३ नामभिः स्वैः ।
+> जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ॥
+> (ऋ. सं. १-१८१-४ [as read])
+
+> *iheha jātā samavāvaśītāmarepasā tanvā3 nāmabhiḥ svaiḥ |*
+> *jiṣṇurvāmanyaḥ sumakhasya sūrirdivo anyaḥ subhagaḥ putra ūhe ‖*
+> *(ṛ. saṃ. 1-181-4 [as read])*
+
+"In this Ṛk, with the explanation 'here and here' — in the dyusthāna and the madhyasthāna — [it is said] 'the one, *jiṣṇuḥ*, of the Sun? [as printed: 'Divaḥ anyaḥ, *subhagaḥ putraḥ ūhe*'] and 'the other conquering, *jiṣṇur vām anyaḥ*', one is carried by the wind as a son of the atmosphere (*dyusthāna*); and the other is the Āditya, victorious by nature: this shows their superior and middle states.
+
+> प्रातर्यावाणा वि बोधयन्तावश्विनावेह गच्छताम् ।
+> अस्य सोमस्य पीतये ॥
+> (ऋ. सं. १-२२-१ [as read])
+
+> *prātaryāvāṇā vi bodhayantāvaśvināveha gacchatām |*
+> *asya somasya pītaye ‖*
+> *(ṛ. saṃ. 1-22-1 [as read])*
+
+"By this Ṛk it is explained that they are fond of praise [and that] both, working with a single intention, are companions.
+
+> प्रातर्यजध्वमश्विना हिनोत न सायमस्ति देवया अजुष्टम् ।
+> उतान्यो अस्मद्यजते वि चावः पूर्वःपूर्वो यजमानो वनीयान् ॥
+> (ऋ. सं. ३-५२-५ [as read; the number printed "३-२२-३" is doubtful [?]])
+
+> *prātaryajadhvamaśvinā hinota na sāyamasti devayā ajuṣṭam |*
+> *utānyo asmadyajate vi cāvaḥ pūrvaḥpūrvo yajamāno vanīyān ‖*
+> *(ṛ. saṃ. 3-52-5 [as read; the number printed "3-22-3" is doubtful [?]])*
+
+"In this Ṛk it is stated that praise should be made to the Aśvin deities in the morning itself and oblations should be offered; and it is explained that the homa should not be performed for them in the evening. In the Taittirīya Āraṇyaka too — *vāsātyau kṛṣṇau jagato nidhānau dyāvābhūmī cirathas saṃsakhāyau* [as read; doubtful [?]] — beginning thus, the description of their form and colour [begins].
+
+"The chariot of the Aśvin deities is to be understood as yoked with excellent horses, and as capable of going with exceeding speed, quicker than the speed of thought. The prayer is expressed in this Ṛk that the Aśvins, in such a chariot, come to the houses of us who are sacrificers and subjects."
+
+**वर्तिः** — *Vartiḥ* — "*vartanādhikaraṇaṃ gṛham*: 'the house, a place of dwelling': so Sāyaṇa explains the word *vartis*."
+
+---
+
+**Progress note:** Sūkta 117: Ṛk 1 complete; Ṛk 2 Special Topics written through printed p. 317 (PDF 337) (*aśvinā* with Yāska's views on who the Aśvins are; *vartiḥ*); the grammar page of Ṛk 2 and Ṛk 3 follow. Next: printed p. 318 (PDF 338). Pages up to PDF 370 are cropped in the scratchpad (recrop if lost). Open: Nirukta quotations (12-1) in small type `[?]`; Ṛ. numerals as read; the Nirukta reading of pp. 315–316 is paraphrased rather than word-for-word.
