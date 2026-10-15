@@ -1458,4 +1458,90 @@ Grammar page on the words of Ṛk 10: *kiyāti* (*kiyān*: "*kim* of this measur
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–10 complete; Ṛk 11 through printed p. 54 (PDF 74): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (one topic; may continue p. 55). Next: printed p. 55 (PDF 75). Open: as before.
+### Printed p. 55  (PDF 75; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+"Following the same view, Skandasvāmin explains:
+
+> अतीतैर्वर्तमानैरागामिभिश्च सर्वैर्मानुष्यैरुषा दृश्यते नास्मादिवत् कैश्चिदेव इति समस्तार्थः । [read as printed; words after *dṛśyate* doubtful [?]]
+
+> *atītairvartamānairāgāmibhiśca sarvairmānuṣyairuṣā dṛśyate nāsmādivat kaiścideva iti samastārthaḥ | [read as printed; words after *dṛśyate* doubtful [?]]*
+
+— 'Uṣas is seen by all men, past, present and future; not, as with us [i.e. as with a man, a thing], by some only': this is the whole sense. Those who were before saw Uṣas-time and experienced delight; those who are now present see and rejoice; in the same way those who will be born afterwards will see and rejoice. Therefore the idea that 'we, because we are impermanent, only some see the Uṣas-time' is not what is intended here: he explains the meaning that Uṣas is within the sight of everyone."
+
+**मर्त्यासः** — *Martyāsaḥ* — "*mānuṣyāḥ*", men. "Because the word *martya* is stated among the twenty-five [as read] names of man (*nara*) (Ni. 2-3 as read [?]), the word *martya* has the meaning 'man'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly)**
+
+Grammar page on: *īyuḥ* (*iṇ* "to go", adādi; *liṭ* 3rd plural; *jhi* → *us* by *parasmaipadānām ṇalatusus…*, Pā. 3-4-82 as read [?]; since an *ajādi* suffix follows, *yaṇ* for *i* by *iṇo yaṇ*, Pā. 6-4-81 as read [?]; in the doubling the *sthānivadbhāva* by *dvirvacane 'ci*; the reduplication lengthened by *dīrgha iṇaḥ kiti*; no nighāta since it begins the pāda; final accent from the suffix); *pūrvatarām* (*atiśayena pūrvā pūrvatarā* — the suffix *taras* in the comparative by *dvivacanavibhajyopapade tarabīyasunau*; accent on the *pit*); *apaśyan* (*dṛśir* "to see", aorist/imperfect *laṅ*, 3rd plural; *yadvṛttānnityam*, no nighāta; augment *aṭ*, being *udātta*, gives the first-syllable accent); *martyāsaḥ* (*martya* with *jas*, the augment *asuk* by *ājjaser asuk*, Pā. 7-1-50 as read [?]; *s* → *ru* → visarga); *praticakṣyā* (*cakṣiṅ* "to speak clearly", here in the sense of seeing; *ṇyat* by *ṛhaloṇyat*; *ṭāp* by *ajādyataṣ ṭāp*).
+
+### Printed p. 56  (PDF 76; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *yanti* (*iṇ* "to go", adādi *laṭ* 3rd plural; the *jhi* becomes *anti*; *yaṇ* by *iṇo yaṇ*; nighāta accent after an accented word); *paśyān* (*dṛś* "to see", *leṭ* 3rd plural *jhi*; replaced by *ant*; elision of the final *i* by *itaś ca lopaḥ parasmaipadeṣu*, Pā. 3-4-97 as read [?]; *paśya* substitution by *pāghrādhmā…*; *aṭ* in the *leṭ* by *leṭo 'ḍāṭau*; elision of the final *t* by *saṃyogāntasya lopaḥ*; no nighāta because *ye* precedes, by *yadvṛttānnityam*; the *āt* augment being unaccented, the root accent stays by *tāsyanudāttet…*). ‖ 11 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 12
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.12)**
+
+> यावयद्द्वेषा ऋतपा ऋतेजाः सुम्नावरी सूनृता ईरयन्ती ।
+> सुमङ्गलीर्बिभ्रती देववीतिमिहाद्योषः श्रेष्ठतमा व्युच्छ ॥ १२ ॥
+
+> *yāvayaddveṣā ṛtapā ṛtejāḥ sumnāvarī sūnṛtā īrayantī |*
+> *sumaṅgalīrbibhratī devavītimihādyoṣaḥ śreṣṭhatamā vyuccha ‖ 12 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.12)** *(begun at the foot of p. 56, completed on p. 57)*
+
+> यावयत्ऽद्वेषाः । ऋतऽपाः । ऋतेऽजाः । सुम्नऽवरी ।
+> सूनृताः । ईरयन्ती ।
+
+> *yāvayat 'dveṣāḥ | ṛta 'pāḥ | ṛte 'jāḥ | sumna 'varī |*
+> *sūnṛtāḥ | īrayantī |*
+
+---
+
+### Printed p. 57  (PDF 77; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+*(Pada of Ṛk 12, concluded from p. 56:)*
+
+> सुऽमङ्गलीः । बिभ्रती । देवऽवीतिम् । इह । अद्य । उषः ।
+> श्रेष्ठऽतमा । वि । उच्छ ॥ १२ ॥
+
+> *su 'maṅgalīḥ | bibhratī | deva 'vītim | iha | adya | uṣaḥ |*
+> *śreṣṭha 'tamā | vi | uccha ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.12)**
+
+> यावयद्द्वेषाः । यावयन्ति अस्मत्तः पृथक्कृतानि द्वेषांसि द्वेष्ट्राणि [?] राक्षसादीनि ययोषा सा तथोक्ता । न ह्युषसि जातायां राक्षसादयोऽवतिष्ठन्ते यतस्ते निशाचराः । ऋतपाः ऋतस्य सत्यस्य यज्ञस्य वा पालयित्री । ऋतेजा यज्ञार्थं प्रादुर्भूता । सत्यामुषस्यहनि यागा अनुष्ठीयन्ते अतो यज्ञार्थं जातेत्युच्यते । सुम्नावरी । सुम्नमिति सुखनाम । तद्वती । सूनृताः । वाङ्नामैतत् । पशुपक्ष्यादीनां वचांस्यीरयन्ती प्रेरयन्त्युत्पादयन्तीति । सुमङ्गलीः सौमङ्गल्योपेता । पत्या कदाचिदपि न वियुक्तेत्यर्थः । देववीतिं देवैः कामयमानं यज्ञं बिभ्रती धारयन्ती । हे उषः श्रेष्ठतमा अतिशयेन प्रशस्ता त्वमिहास्मिन्देवयजनदेशेऽद्यास्मिन्यागसमये व्युच्छ । विवासय ॥ [the word after *dveṣāṃsi* read as *dveṣṭrāṇi* [?]]
+
+> *yāvayaddveṣāḥ | yāvayanti asmattaḥ pṛthakkṛtāni dveṣāṃsi dveṣṭrāṇi [?] rākṣasādīni yayoṣā sā tathoktā | na hyuṣasi jātāyāṃ rākṣasādayo 'vatiṣṭhante yataste niśācarāḥ | ṛtapāḥ ṛtasya satyasya yajñasya vā pālayitrī | ṛtejā yajñārthaṃ prādurbhūtā | satyāmuṣasyahani yāgā anuṣṭhīyante ato yajñārthaṃ jātetyucyate | sumnāvarī | sumnamiti sukhanāma | tadvatī | sūnṛtāḥ | vāṅnāmaitat | paśupakṣyādīnāṃ vacāṃsyīrayantī prerayantyutpādayantīti | sumaṅgalīḥ saumaṅgalyopetā | patyā kadācidapi na viyuktetyarthaḥ | devavītiṃ devaiḥ kāmayamānaṃ yajñaṃ bibhratī dhārayantī | he uṣaḥ śreṣṭhatamā atiśayena praśastā tvamihāsmindevayajanadeśe 'dyāsminyāgasamaye vyuccha | vivāsaya ‖ [the word after *dveṣāṃsi* read as *dveṣṭrāṇi* [?]]*
+
+*Sense (mine):* "*Yāvayaddveṣāḥ* — she by whom *dveṣas* ('hostile beings'), the rākṣasas and the rest, set apart from us, are driven off, *yāvayanti*: such is the meaning of the name. For when Uṣas is born the rākṣasas and the others do not remain, since they are night-wanderers. *Ṛtapāḥ* — the protectress of *ṛta*, truth, or of the sacrifice. *Ṛtejā* — born for the sake of the sacrifice: when Uṣas has come, in the day the sacrifices are performed; hence she is said to be born for sacrifice. *Sumnāvarī* — *sumna* is a name for happiness: she who has it. *Sūnṛtāḥ* — a name for speech: she stirs up, brings forth, the voices of animals and birds. *Sumaṅgalīḥ* — having auspiciousness; never separated from her husband, is the sense. *Devavītim* — the sacrifice that the gods desire, which she *bibhratī*, bears. O Uṣas, *śreṣṭatamā*, most praised, shine (*vyuccha*) here, in this place of the gods' sacrifice, to-day, at this time of sacrifice — drive away [the darkness]."
+
+*Grammatical tail (characterized, not transcribed):* *yāvayaddveṣāḥ* (*yu* with *miśraṇāmiśraṇayoḥ*, the *ṇic* causative; *śatṛ*; in the compound the accent of the first member by the *bahuvrīhi* rule, with the Vedic *śatṛ* shortening at the end of the first member); *ṛtapāḥ* (*pā* "to protect", *viṭ*; *ṛte* "the *ṛta*"); *ṛtejāḥ* (*jan* "to be born", *viṭ* — *janasanakhanakramagamo viṭ*, nasal dropped by *vidyatoranunāsikasyātvam*, locative in the compound by *tatpuruṣe kṛti bahulam*, with *aluk*); *sumnāvarī* (*sumna* + *vanip*, in the Vedic by *chandasīvanipāv*…, the feminine *ṅīp*, *n* → *r* by the *rephādeśa*; lengthening seen in other words too); *sumaṅgalīḥ* (*sumaṅgalā* in the *gaurādi* class, feminine in *ṅīṣ* by Pā. 4-1-41 as read [?]; the Vedic option of the *ṅīṣ* with the nominative plural; elision of the *su*; the visarga); *devavītim* (*vī* in the sense of "to go, to bear, to desire, to eat"; "*devair vīyate kāmyata iti devavītiḥ*"; *ktin* in the passive; the first member with first-member accent, as it begins with *dā*…).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*yāvayaddveṣāḥ* — she who makes the rākṣasas fruitless, i.e. destroys them; *ṛtapāḥ* — she who guards truth and sacrifice; *ṛtejāḥ* — one born for sacrifices; *sumnāvarī* — she who is happy (who gives happiness) …
+
+### Printed p. 58  (PDF 78; header "Maṃ. 1 A. 16 Sū. 113")
+
+… *sūnṛtāḥ* — good words; *īrayantī* — (the animals and birds) producing [them] from themselves; *sumaṅgalīḥ* — endowed with auspiciousness; *devavītim* — the sacrifice that is desired by the gods; *bibhratī* — bearing; *he uṣaḥ* — O Uṣas, (goddess) (*uṣo devate*); *śreṣṭatamā* — (in the manner stated above) most excellent (you); *iha* — in this place of sacrifice; *adya* — now (at the sacrifice-time); *vyuccha* — shine."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Uṣas is the destroyer of rākṣasas (the night-wanderers, the rākṣasas, do not remain after the light); she is born for the sake of sacrifices (people perform sacrifice and the like when the light has come); she brings it about that good sounds arise; she is auspicious (never separated from a husband), happy; the bearer of sacrifices desired by the gods; being in this way most excellent, may Uṣas rise now in our sacrificial hall."
+
+**English Translation (as printed)**
+
+> The beings hostile (to acts of devotion) now withdraw, for she is the protectress of sacred rites, who is manifested for their performance ; she is the giver of happiness, the awakener of pleasant voices, the enjoyer of felicity, and provider of food for the gods : most excellent Ushas, dawn to-day on this (sacrificial hall.)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**यावयद्द्वेषाः** — *Yāvayaddveṣāḥ* — "*yāvayanti asmattaḥ pṛthakkṛtāni dveṣāṃsi dveṣṭṛāṇi rākṣasādīni yayoṣā sā*": "Uṣas, who sets apart by her own light those *rākṣasas* and others who hate men and harm them — [beings] that are moving about at night by nature — they are made to go away. As soon as Uṣas-time comes, the rākṣasas and others go away: this is the meaning."
+
+**ऋतपाः** — *Ṛtapāḥ* — "*ṛtasya satyasya yajñasya vā pālayitrī*": "she protects truth and the sacrifice: this is the meaning. The word *ṛta* is read among the names of water (*udakanāma*) (Ni. 1-12 as read [?]). The Nirukta-writer gives an example, saying that the word *ṛta* denotes truth and also denotes the meaning 'sacrifice' —
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–11 complete; Ṛk 12 through printed p. 58 (PDF 78): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*yāvayaddveṣāḥ*, *ṛtapāḥ* — the Nirukta example follows on p. 59). Next: printed p. 59 (PDF 79). Open: bhāṣya word *dveṣṭrāṇi* `[?]`; Ni. numerals as read.
