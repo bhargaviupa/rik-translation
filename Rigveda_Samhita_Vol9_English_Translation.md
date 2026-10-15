@@ -8089,4 +8089,44 @@ Skandasvāmin explains this in another way, and quotes a Ṛk that expounds it. 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–6 complete; Ṛk 7 through printed p. 337 (PDF 357): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 338; the quoted Ṛk 1-116-23 third pāda read doubtfully). Next: printed p. 338 (PDF 358).
+### Printed p. 338  (PDF 358; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(continuing the Special Topics of Ṛk 7)* … "in this Ṛk the Aśvins are praised for the matter of the gift of a son (*putradāna*)."
+
+> घोषा नाम कक्षीवतो दुहिता सा दुर्भगत्वात् परित्यक्ता पितुरेव गृहे जरां जगाम । सा जीर्णा अश्विनौ शोभनं भगं ययाचे । तस्यै अश्विनौ स्वयमेव भगतां जग्मतुः इति । तदेतत् घोषैव वक्ष्यति ॥ [as read; the Skandasvāmin quotation in small type [?]]
+
+> *ghoṣā nāma kakṣīvato duhitā sā durbhagatvāt parityaktā pitureva gṛhe jarāṃ jagāma | sā jīrṇā aśvinau śobhanaṃ bhagaṃ yayāce | tasyai aśvinau svayameva bhagatāṃ jagmatuḥ iti | tadetat ghoṣaiva vakṣyati ‖ [as read; the Skandasvāmin quotation in small type [?]]*
+
+On this matter:
+
+> आमाजुरश्चिद्भवथो युवं भगो नांशो दविता राशमस्य चित् ।
+> अन्धस्य चिन्नासत्या कृशस्य चिद्युवामिदाहुर्भिषजा रुतस्य चित् ॥ [as read; several words doubtful [?]]
+> (ऋ. सं. १०-३९-३ [as read])
+
+> *āmājuraścidbhavatho yuvaṃ bhago nāṃśo davitā rāśamasya cit |*
+> *andhasya cinnāsatyā kṛśasya cidyuvāmidāhurbhiṣajā rutasya cit ‖ [as read; several words doubtful [?]]*
+> *(ṛ. saṃ. 10-39-3 [as read])*
+
+— quoting this Ṛk, the history (*itihāsa*) is told here: Ghoṣā, the daughter of the ṛṣi Kakṣīvat, because of her ill-fortune was abandoned by her husband, grew old in her own father's house, lost her youth, and when she was growing old she prayed to the Aśvins for good fortune (*saubhāgya*); the Aśvins themselves took on the form of good fortune and fulfilled her desire.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly)**
+
+*Yuvam* — the word *yuṣmad*; second case dual form; since the rule *prathamāyāś ca dvivacane bhāṣāyām* is stated for the common language only, the *ā*-substitution does not occur here. *Stuvate* — root *ṣṭuñ stutau*; *laṭ*'s sense, suffix *śatṛ*, *luk* of *śap*; *ajiknudhātubhruvām iyuvaṅau* (Pā. 6-4-77), substitution *uv*; dative singular form; *śatur anumaḥ* (Pā. 6-1-173), the final acute; *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* (Pā. 8-2-4), the unaccented syllable becomes *svarita*. *Kṛṣṇiyāya* (*kṛṣṇasya ayaṃ kṛṣṇiyaḥ*, suffix *ghac* in the sense of "belonging to"; *āyaneyīnīyiyaḥ*, Pā. 7-1-2, *iy* substituted; *ciṭaḥ*, acute on the final). *Viṣṇāpvam* — *yaṇ* substituted in the place of an *udātta* (*vi-snāpva*?), followed by an *anudātta*, so *udāttasvaritayor yaṇaḥ* (as printed [?]) gives *svarita* for the *anudātta*. *Dadathuḥ* — root *dudāñ dāne*; *liṭ*, second person dual; *tiṅanta* accent *nighāta*.
+
+---
+
+### Printed p. 339  (PDF 359; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Pitṛṣade* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; when the word *pitṛ* is the *upapada*, *kvip ca* (Pā. 3-2-76), suffix *kvip*; *gatikārakopapadāt kṛt* (Pā. 6-2-139 [number partly cut off]), the accent of the *kṛdanta* hindpart is the nature-accent of the base; dative singular form. *Jūryantyai* — root *jṛṣ vayohānau*; suffix *śatṛ* in the sense of *laṭ*; *divādibhyaḥ śyan* (Pā. 3-1-69), *śyan* as the vikaraṇa; *bahulaṃ chandasi*, the root gets *ut* followed by *r*; *hali ca* (Pā. 8-2-77), lengthening of the penultimate with final *r*; since the affix *lasārvadhātuka* follows (*ā upadeśāt*), *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-86 as printed [?]) makes it unaccented; because *śyan* has an indicatory *ś*, *ñnityādir nityam* (Pā. 6-1-197) gives the initial acute; when the feminine is intended, *ugitaś ca* (Pā. 4-1-6), *ṅīp*; since *ugit*, *num*; dative singular form. *Adattam* — root *dudāñ dāne*; *laṅ*, second person dual; *tiṅanta*, accent *nighāta*. ‖ 7 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.8)**
+
+> युवं श्यावाय रुशतीमदत्तं महः क्षोणस्याश्विना कण्वाय ।
+> प्रवाच्यं तद्वृषणा कृतं वां यन्नार्षदाय श्रवो अध्यधत्तम् ॥ ८ ॥
+
+> *yuvaṃ śyāvāya ruśatīmadattaṃ mahaḥ kṣoṇasyāśvinā kaṇvāya |*
+> *pravācyaṃ tadvṛṣaṇā kṛtaṃ vāṃ yannārṣadāya śravo adhyadhattam ‖ 8 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–7 complete; Ṛk 8 Saṃhitā written (printed p. 339, PDF 359). Next: printed p. 340 (PDF 360): Ṛk 8 Pada onward. Open: sūtra numbers in grammar pp. 338–339 as read from print/OCR list, a few `[?]`; Skandasvāmin and Ṛk 10-39-3 quotations (p. 338) read doubtfully `[?]`.
