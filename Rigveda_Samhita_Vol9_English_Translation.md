@@ -12872,4 +12872,96 @@ the word *kat* conveys 'when'. *Nṝn* = *manuṣyāṇām asmākaṃ manuṣyā
 
 ---
 
-**Progress note:** Sūkta 121: Ṛk 1 through printed p. 541 (PDF 561): all parts done except the end of its grammar (continues p. 542). Next: printed p. 542 (PDF 562). Numerals as read (no list covers these pages): Ṛ. 1-38-1, sūtra numbers `[as read]`.
+### Printed p. 542  (PDF 562; header "Maṃ. 1 A. 18 Sū. 121")
+
+*Grammar of Ṛk 1, concluded (noted briefly; sūtra numbers as read):* *Kraṃsate* — root *kramu pādavikṣepe*; *vṛttisargatāyaneṣu kramaḥ* (Pā. 1-3-38 as read), here, since the sense is exertion, the middle voice; *leṭ*, third person singular; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), *aṭ*; *sib bahulaṃ leṭi* (Pā. 3-1-34 as read), *sip*; *naśchā…* *anusvāra* for the *m*; since it stands after an *ajanta*, the *nighāta* accent. *Yajatraḥ* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *aminakṣiyajidhi…* (Uṇ. sū. 3-?? as read), the suffix *atra*; since it is *nit*, the initial acute. ‖ 1 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.2)**
+
+> स्तम्भीद्ध द्यां स धरुणं प्रुषायदृभुर्वाजाय द्रविणं नरो गोः ।
+> अनु स्वजां महिषश्चक्षत व्रां मेनामश्वस्य परि मातरं गोः ॥ २ ॥
+
+> *stambhīddha dyāṃ sa dharuṇaṃ pruṣāyadṛbhurvājāya draviṇaṃ naro goḥ |*
+> *anu svajāṃ mahiṣaścakṣata vrāṃ menāmaśvasya pari mātaraṃ goḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.2)**
+
+> स्तम्भीत् । ह । द्याम् । सः । धरुणम् । पुषायत् । ऋभुः । वाजाय ।
+> द्रविणम् । नरः । गोः ।
+> अनु । स्वऽजाम् । महिषः । चक्षत । व्राम् । मेनाम् । अश्वस्य ।
+> परि । मातरम् । गोः ॥ २ ॥
+
+> *stambhīt | ha | dyām | saḥ | dharuṇam | puṣāyat | ṛbhuḥ | vājāya |*
+> *draviṇam | naraḥ | goḥ |*
+> *anu | sva 'jām | mahiṣaḥ | cakṣata | vrām | menām | aśvasya |*
+> *pari | mātaram | goḥ ‖ 2 ‖*
+
+*(Printed Saṃhitā "prṣāyat"/Pada "puṣāyat"; I give the Pada's reading.)*
+
+---
+
+### Printed p. 543  (PDF 563; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.2)** *(small type; read with some doubts)*
+
+> स इन्द्रो द्यां द्युलोकं स्तम्भीत् । स्तभ्नाति खलु । तथा गोः पणिभिरपहृतस्य गोसमूहस्य वज्रस्योदकस्य किरणसमूहस्य वा नरो नेता । स इन्द्र ऋभुः सूर्यात्मनोरुविस्तीर्णं भासमानः सन् द्रविणं सर्वैः प्राणिभिरद्रवणीयं धरुणं उदकनामैतत् । सर्वस्य धारकं वृष्ट्युदकं वाजाय अन्नार्थं बलार्थं वा प्रुषायत् । प्रुष्णाति सिञ्चति प्रवर्षतीत्यर्थः । अपि च महिषः महान्नामैतत् । महान्सूर्यरूपीन्द्रः स्वजां स्वसकाशादुत्पन्नां व्रां वृणोति तमसा सर्वमाच्छादयतीति व्रा रात्रिः । यद्वा प्रकाशेन वृणोतीति व्रा उषाः । कामनु चक्षत । चष्टिः पश्यतिकर्मा । अनुपश्यति प्रकाशते । स्वयं प्रौढप्रकाशोऽपि स्वगत्या निष्पादितायां रात्रेरुषसश्च पश्चादुदेतीत्यर्थः । अपि चेदमुपरमाश्चर्यं यदयमश्वस्य मेनां स्त्रीमन्नामैतत् स्त्रियं वडवां गोर्मातरं जननीं परिवृणक्ति [?] विपरीतमकरोत् । कदाचिदिन्द्रो लीलयाश्वायां गामुत्पादयामास । तदेत्र प्रतिपाद्यते मन्त्रान्तरे चेन्द्रवाक्यरूप एतद्वृत्तान्तमवगम्यते । धरुणम् । धारेर्णित् ...उन्प्रत्ययः । प्रुषायत् । प्रुष प्लुष स्नेहनसेचनपूरणेषु । क्र्यादिकः । लेट्यडागमः । छन्दसि शायजपीत्यादिना शप् ... नरः । नृ नये । चक्षत । चक्षिङ् व्यक्तायां वाचि । छान्दसो लङ् । बहुलं छन्दसीति शपो लुगभावः ॥ [as read]
+
+> *sa indro dyāṃ dyulokaṃ stambhīt | stabhnāti khalu | tathā goḥ paṇibhirapahṛtasya gosamūhasya vajrasyodakasya kiraṇasamūhasya vā naro netā | sa indra ṛbhuḥ sūryātmanoruvistīrṇaṃ bhāsamānaḥ san draviṇaṃ sarvaiḥ prāṇibhiradravaṇīyaṃ dharuṇaṃ udakanāmaitat | sarvasya dhārakaṃ vṛṣṭyudakaṃ vājāya annārthaṃ balārthaṃ vā pruṣāyat | pruṣṇāti siñcati pravarṣatītyarthaḥ | api ca mahiṣaḥ mahānnāmaitat | mahānsūryarūpīndraḥ svajāṃ svasakāśādutpannāṃ vrāṃ vṛṇoti tamasā sarvamācchādayatīti vrā rātriḥ | yadvā prakāśena vṛṇotīti vrā uṣāḥ | kāmanu cakṣata | caṣṭiḥ paśyatikarmā | anupaśyati prakāśate | svayaṃ prauḍhaprakāśo 'pi svagatyā niṣpāditāyāṃ rātreruṣasaśca paścādudetītyarthaḥ | api cedamuparamāścaryaṃ yadayamaśvasya menāṃ strīmannāmaitat striyaṃ vaḍavāṃ gormātaraṃ jananīṃ parivṛṇakti [?] viparītamakarot | kadācidindro līlayāśvāyāṃ gāmutpādayāmāsa | tadetra pratipādyate mantrāntare cendravākyarūpa etadvṛttāntamavagamyate | dharuṇam | dhārerṇit ...unpratyayaḥ | pruṣāyat | pruṣa pluṣa snehanasecanapūraṇeṣu | kryādikaḥ | leṭyaḍāgamaḥ | chandasi śāyajapītyādinā śap ... naraḥ | nṛ naye | cakṣata | cakṣiṅ vyaktāyāṃ vāci | chāndaso laṅ | bahulaṃ chandasīti śapo lugabhāvaḥ ‖ [as read]*
+
+*Sense (mine):* "That Indra *stambhīt* — propped up *dyām* — the heaven; he indeed props. And he is the leader (*naraḥ*) of the herd of cows (*goḥ*) carried off by the Paṇis, [or] of the thunderbolt, of the water, of the mass of rays. That Indra, *ṛbhuḥ* — shining widely in the form of the Sun — *pruṣāyat* — drenches, rains down, the *dhruṇa* [as printed *dharuṇa*] — the water that supports everything, [the] *draviṇam* — [wealth] flowing, that is the rain-water — *vājāya* — for food or strength. And *mahiṣaḥ* — the great (*mahiṣa* is a name for 'great') Indra in the form of the Sun — *anu cakṣata* — follows and sees *vrām* — Night, who covers everything with darkness; or Dawn, who covers by light — *svajām* — born from himself. Though himself fully radiant, he rises after Night and Dawn, which are produced by his own motion. And this is a further wonder: he made the mare (*aśvasya menām*, the female) the mother of the cow — he once made it so in sport; that account is told here and is understood in another mantra in the form of Indra's own words."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.2)** (Kannada, rendered)
+
+*Saḥ* — that Indra; *dyām* — the heavenly world; *stambhīt ha* — held fixed; *goḥ* — of the cows (of water, of rays); *naraḥ* — the leader (Indra); *ṛbhuḥ* — shining widely, in the form of the Sun; *draviṇam* — flowing; *dharuṇam* — the supporter of all (rain-water); *vājāya* — for food, or for strength; *pruṣāyat* — made fat (rained); *(api ca)* — and; *mahiṣaḥ* — the very great Indra (in the Sun's form); *svajām* — born of himself; *vrām* — covering (Night, or Dawn); *anu cakṣata* — follows and shines; *aśvasya menām* — the female of the horse; *goḥ mātaram* — as the mother of the cow; *pari (cakṣata)* — he made (against nature).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.2)** (Kannada, rendered)
+
+"Indra holds the sky still; Indra, the leader of the cows (of waters, of rays), shining widely in the form of the Sun, gives to the world, as rain, the flowing, all-supporting water, for food and strength; the great Indra, in the form of the Sun, follows and illumines the Night — or the Dawn — born from himself; and by his own greatness, against nature, he made a mare the mother of a cow."
+
+---
+
+### Printed p. 544  (PDF 564; header "Maṃ. 1 A. 18 Sū. 121")
+
+**English Translation (as printed)** *(page head printed "Englih Translation" — sic)*
+
+"He verily upholds the heaven; he, the brilliant, the leader of the (stolen) herd, pours forth the flowing (water) for the sake of food: the mighty Indra manifests himself after his own daughter, (the dawn); he made the female of horse unnaturally the mother of the cow."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 2)**
+
+*Goḥ* — *paṇibhir apahṛtasya gosamūhasya vajrasya udakasya kiraṇasamūhasya vā*: "*nareḥ* [*naraḥ*] *netā indraḥ*. Since the word *gau* is stated among the twenty-one [?] names of the earth (Ni. 1-?? [as read: 'ನಿ. ೧-೩']), [it means] 'the earth'; and in the Nirukta:
+
+> येन गौरभिप्रवृत्ता मिमाति मायुं ध्वसनौ [?] ।
+> शब्दं करोति मायुमिवादित्यमिति । वागेषा माध्यमिका ध्वंसने मेघे अधिश्रिता ॥
+
+> *yena gaurabhipravṛttā mimāti māyuṃ dhvasanau [?] |*
+> *śabdaṃ karoti māyumivādityamiti | vāgeṣā mādhyamikā dhvaṃsane meghe adhiśritā ‖*
+
+(Ni. 2-9 [as read]) — hence, [in the Nirukta] it also means 'speech' (*vāk*, Ni. 1-11 [as read]), among the common names; and since the word *dyauḥ* is stated as *āditya* among the synonyms of 'ray' (Ni. 1-?? [as read]), 'ray'; since it is in the list of the names of speech [*vāk*] (Ni. 1-11 [as read]), 'speech'; and, since it is stated among the names of praise [*stotra*], 'praise'. Since the word *go* has many senses, it is explained that Indra brought back the cows stolen from the Aṅgirasa ṛṣis by the asuras, that he uses the thunderbolt properly, that he makes the rain-waters come to the earth, that he holds a mass of rays."
+
+*Ṛbhuḥ* — *sūryātmanā viṣṭīrṇaṃ bhāsamānaḥ*: "'shining widely in the form of the Sun'. Yāska: *ṛbhavaḥ* — *uru bhāntīti vā, ṛtena bhāntīti vā, ṛtena bhavantīti vā* (Ni. 11-?? [as read]) — 'those who shine widely, or by truth, or [who] come into being by truth'; or, 'those who are exceedingly truthful, of the form of truth':
+
+> विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ।
+> सौधन्वना ऋभवः सूरचक्षसः संवत्सरे समपृच्यन्त धीतिभिः ॥
+> (ऋ. सं. १-११०-४ [as read])
+
+> *viṣṭvī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvamānaśuḥ |*
+> *saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyanta dhītibhiḥ ‖*
+> *(ṛ. saṃ. 1-110-4 [as read])*
+
+— quoting this Ṛk he explains the word *ṛbhu*, and in *ādit sūryarmaśmayo ṛbhavaḥ* (Ni. 11-?? [as read]) shows that the rays of the Sun, too, are called *ṛbhu*."
+
+---
+
+### Printed p. 545  (PDF 565; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Dharuṇam* — *sarvasya dhārakaṃ vṛṣṭyudakam*: "The word *dharuṇa* is stated among the hundred and one names of water (Ni. 1-12 [as read]); hence 'water' — Indra gives to the world, as rain, the rain-water that supports everything, for food and for the growth of strength."
+
+*Mahiṣaḥ* — *mahannāmaitat; mahān sūryarūpī indraḥ*: "The word *mahiṣa* is stated among the names of 'great' (Ni. 3-?? [as read])."
+
+*Svajāṃ vrāṃ anu cakṣata* — *svasakāśād utpannāṃ vṛṇoti tamasā sarvam ācchādayatīti vrā rātriḥ | yadvā prakāśena vṛṇotīti vrā uṣāḥ tām anu paścāt paśyati prakāśate*: "'Being of the form of the Sun, Indra follows the Night, which covers everything with darkness and is born of his own motion; and shines after her. Or: *vrā* means 'dawn', which covers (makes everything desirable) by its light. The Sun, being exceedingly bright, rises after the time of dawn, and rises to protect what is born from him: this is the behaviour of the world. Hence Sūryā is said to follow dawn, and the Sun is said to rise after the dawn.' — so Sāyaṇa."
+
+"Skandasvāmin: *svajām anu cakṣate* — *stute iva prajāpateḥ yā jātā sā svajā tāṃ mahān indraḥ anupūrveṇa sarvataḥ paśyati* — 'the great Indra, completely filled, knows fully the matter of the woman (Uṣas) who was born of Prajāpati, the Brahmā'' — thus he explains."
+
+---
+
+**Progress note:** Sūkta 121: Ṛk 1 complete; Ṛk 2 through printed p. 545 (PDF 565): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *svajāṃ vrām*) done; the rest of its Special Topics and grammar follow (p. 546). Next: printed p. 546 (PDF 566). Numerals as read: Ni. numbers and Ṛ. 1-110-4 on pp. 544–545 `[as read]`.
