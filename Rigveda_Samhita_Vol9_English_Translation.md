@@ -12964,4 +12964,84 @@ the word *kat* conveys 'when'. *Nṝn* = *manuṣyāṇām asmākaṃ manuṣyā
 
 ---
 
-**Progress note:** Sūkta 121: Ṛk 1 complete; Ṛk 2 through printed p. 545 (PDF 565): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *svajāṃ vrām*) done; the rest of its Special Topics and grammar follow (p. 546). Next: printed p. 546 (PDF 566). Numerals as read: Ni. numbers and Ṛ. 1-110-4 on pp. 544–545 `[as read]`.
+### Printed p. 546  (PDF 566; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 2, continued)* *Aśvasya menāṃ vaḍavāṃ gomātaraṃ akarot* — "'Once Indra, in sport, caused a cow to be born from a mare; that is the matter set forth here, and in another mantra, which is in the form of Indra's own speech, it is told clearly' — thus Sāyaṇa: this wonderful act of the playful Indra, who made a cow be born of a mare, is told here."
+
+Skandasvāmin: "*vrāṃ varaṇīyāṃ menāṃ striyaṃ bhāryām aśvasya vyāpteḥ prajāpateḥ mātaraṃ mātṛbhūtāṃ gantṛtvāt indro 'traiva gauruccyate ātmane vivety arthaḥ* — 'he understood that his own mother, designated by the word *go*, was the wife of Prajāpati, the pervading Brahmā' — and he gives another explanation:
+
+> अथवा व्रा इति रात्रिनाम । उक्तं हि शाकपूणिना । व्रा इति रात्रिरप्युच्यत इति । स्वजा चासौ स्वयमेव जायमानत्वात् । स्वयं जनयित्रीं महानिन्द्रो जानाति रात्रिं नाम स्त्रियमश्वस्य मातरं । अश्वग्रहणमत्रोपलक्षणं प्राणिमात्रस्य अश्वादेः । सम्यगाहारपरिणामादिकरणेन मातृभूतां गोरुपत्वात् ॥
+
+> *athavā vrā iti rātrināma | uktaṃ hi śākapūṇinā | vrā iti rātrirapyucyata iti | svajā cāsau svayameva jāyamānatvāt | svayaṃ janayitrīṃ mahānindro jānāti rātriṃ nāma striyamaśvasya mātaraṃ | aśvagrahaṇamatropalakṣaṇaṃ prāṇimātrasya aśvādeḥ | samyagāhārapariṇāmādikaraṇena mātṛbhūtāṃ gorupatvāt ‖*
+
+— 'or, *vrā* is a name for Night; for Śākapūṇi has said so: "*vrā* is also called night". She is *svajā*, born of herself. The great Indra knows Night — the woman, the mother of the horse; the word *aśva* here is a general indication [of all beings, horses and the rest]: by providing right food and its digestion and the like, she is as a mother, in the form of a cow'. The ṛṣi Śākapūṇi says that the word *vrā* means 'night': so the meaning of *vrā* is 'night'. [Skandasvāmin takes it] that Night is self-born, that she protects all beings, horses and the rest, by the digestion of food and so on, as a mother, and that he understands the Dawn, who comes at the end of the night, as the mother [of all]."
+
+"Though Indra is holding the sky steady, he restored to the Aṅgirasa ṛṣis the cows carried off by the asuras, having destroyed them; being in the form of the Sun, he makes rain, which gives food and strength for the beings that are in his control; he fixes time, making day and night — two kinds of activity — suitable [for creatures]; in the day, which is luminous, he shines in the form of the Sun; by destroying the darkness of night and by rising after the dawn — all these are his extraordinary protection of the world; and they are works fit for a mother."
+
+---
+
+### Printed p. 547  (PDF 567; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; sūtra numbers as read)**
+
+*Dharuṇam* — root *dhṛñ avasthāne*; *dhārer ṇiluk ca* [as read; Uṇ. sū. 3-?? [?]], the suffix *unan* after the *ṇijanta*; the *n* arising when *r* follows, *āṭ kuppvāṅnumvyavāye 'pi* (Pā. 8-4-2 as read), *ṇatva*; by the suffix's accent the *u* is acute. *Pruṣāyat* — root *pruṣa pluṣa snehanasecanapūraṇeṣu*, *kryādi*; *leṭ*, third person singular, *tip*; *itaś ca lopaḥ* (Pā. 3-4-97 as read), elision of the *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), *aṭ*; *chandasi śāyajapi* [as read; Pā. 3-1-84], though *hi* does not follow, *śāyaj* [for *śnā*]; the form *pruṣāyat*; since it stands after an *ajanta*, *tiṅ atiṅaḥ* (Pā. 8-1-28 as read), the *nighāta* accent. *Naraḥ* — root *nṛ nayane*; *ṛdor ap* (Pā. 3-3-57 as read), the suffix *ap*; since it is from the word *bahula*, this occurs in the agent sense; *guṇa* of the *ṛ*, becomes *r*-final; since it is *pit*, anudātta, so the root's accent remains. *Svajām* — "*svasmāt jātā svajā*, [accusative] *tām*"; root *janī prādurbhāve*; the suffix *ḍa*; since it is *ḍit*, elision of the *ṭi* of the root; *gatikārakopapadāt kṛt*, the *kṛdanta* hind-part keeps its natural accent. *Cakṣata* — root *cakṣiṅ vyaktāyāṃ vāci*, *adādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read), *laṅ* in the sense of the present; third person singular, *ta*; *bahulaṃ chandasi* (Pā. 2-4-73 as read), *luk* for *śap* does not occur; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; the roots have many senses, so here it is used in the sense of seeing; since it stands after an *ajanta*, the *nighāta* accent. ‖ 2 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.3)** *(begins at the foot of p. 547, concluded on p. 548)*
+
+> नक्षद्धवमरुणीः पूर्व्यं राट् तुरो विशामङ्गिरसामनु द्यून् ।
+> तक्षद्वज्रं नियुतं तस्तम्भद्द्यां चतुष्पदे नर्याय द्विपादे ॥ ३ ॥
+
+> *nakṣaddhavamaruṇīḥ pūrvyaṃ rāṭ turo viśāmaṅgirasāmanu dyūn |*
+> *takṣadvajraṃ niyutaṃ tastambhaddyāṃ catuṣpade naryāya dvipāde ‖ 3 ‖*
+
+---
+
+### Printed p. 548  (PDF 568; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.3)**
+
+> नक्षत् । हवम् । अरुणीः । पूर्व्यम् । राट् । तुरः । विशाम् ।
+> अङ्गिरसाम् । अनु । द्यून् ।
+> तक्षत् । वज्रम् । निऽयुतम् । तस्तम्भत् । द्याम् । चतुःऽपदे ।
+> नर्याय । द्विऽपादे ॥ ३ ॥
+
+> *nakṣat | havam | aruṇīḥ | pūrvyam | rāṭ | turaḥ | viśām |*
+> *aṅgirasām | anu | dyūn |*
+> *takṣat | vajram | ni 'yutam | tastambhat | dyām | catuḥ 'pade |*
+> *naryāya | dvi 'pāde ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.3)** *(small type; read with some doubts)*
+
+> अरुणीररुणवर्णा आरोचमाना उषसो राट् राजयन्स्प्रकाशयन्सूर्यात्मेन्द्रः पूर्व्यं पूर्वैर्ऋषिभिः प्रयुक्तं हवमिदानीमस्माभिः क्रियमाणमाह्वानं नक्षत् । नक्षतु । शृणोतु । कीदृशः । अनु द्यून् अनुदिवसं विशां मनुष्याणामङ्गिरसां मृषीणां स्तोत्रॄणां तुरो धनस्य प्रेरयिता । अपि च स इन्द्रो वज्रं स्वकीयमायुधं नियुतं हन्तव्येन सह नितरां युक्तं तक्षत् । अकरोत् । तथा द्यां द्युलोकं तस्तम्भत् । अस्तम्भयत् । यथाधो न पतति तथाकरोदित्यर्थः । किमर्थम् । नर्याय नृभ्यो हिताय चतुष्पदे गवाश्वादये द्विपादे मनुष्याय च । एतमुभयार्थमित्यर्थः ॥ नक्षत् । नक्ष गतौ । लेट्यडागमः । पूर्व्यम् । पूर्वैः कृतमिनौ च । पा. ४-४-१३३ [as read] इति यप्रत्ययः । राट् । राज दीप्तौ । आस्मात्क्विप् … तुरः । तुर त्वरणे । इगुपधलक्षणः कः । तक्षत् । तक्षू त्वक्षू तनूकरणे । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । तस्तम्भत् । स्तभि स्तम्भे । स्तम्भु [?] । अस्माण्ण्यन्ताल्लङि [?] चङि चङ्‌न्यतरस्या … [as read] चतुष्पदे । चत्वारः पादा अस्य । संख्यासुपूर्वस्येति पादशब्दस्यान्तलोपः समासान्तः । चतुर्थ्येकवचने भसंज्ञायां … पादः पदित्यद्द्वाः । द्विपादे । पूर्ववत्प्रक्रिया । अयं तु विशेषः । अयेस्मीयादित्वेन [?] पदत्वाभावे सद्भावाभावः । द्वित्रिभ्यां पाद्दन्मूर्धसु बहुव्रीहावित्युत्तरपदान्तोदात्तत्वम् ॥ [as read]
+
+> *aruṇīraruṇavarṇā ārocamānā uṣaso rāṭ rājayansprakāśayansūryātmendraḥ pūrvyaṃ pūrvairṛṣibhiḥ prayuktaṃ havamidānīmasmābhiḥ kriyamāṇamāhvānaṃ nakṣat | nakṣatu | śṛṇotu | kīdṛśaḥ | anu dyūn anudivasaṃ viśāṃ manuṣyāṇāmaṅgirasāṃ mṛṣīṇāṃ stotrṝṇāṃ turo dhanasya prerayitā | api ca sa indro vajraṃ svakīyamāyudhaṃ niyutaṃ hantavyena saha nitarāṃ yuktaṃ takṣat | akarot | tathā dyāṃ dyulokaṃ tastambhat | astambhayat | yathādho na patati tathākarodityarthaḥ | kimartham | naryāya nṛbhyo hitāya catuṣpade gavāśvādaye dvipāde manuṣyāya ca | etamubhayārthamityarthaḥ ‖ nakṣat | nakṣa gatau | leṭyaḍāgamaḥ | pūrvyam | pūrvaiḥ kṛtaminau ca | pā. 4-4-133 [as read] iti yapratyayaḥ | rāṭ | rāja dīptau | āsmātkvip … turaḥ | tura tvaraṇe | igupadhalakṣaṇaḥ kaḥ | takṣat | takṣū tvakṣū tanūkaraṇe | bahulaṃ chandasyamāṅyoge 'pītyaḍabhāvaḥ | tastambhat | stabhi stambhe | stambhu [?] | asmāṇṇyantāllaṅi [?] caṅi caṅnyatarasyā … [as read] catuṣpade | catvāraḥ pādā asya | saṃkhyāsupūrvasyeti pādaśabdasyāntalopaḥ samāsāntaḥ | caturthyekavacane bhasaṃjñāyāṃ … pādaḥ padityaddvāḥ | dvipāde | pūrvavatprakriyā | ayaṃ tu viśeṣaḥ | ayesmīyāditvena [?] padatvābhāve sadbhāvābhāvaḥ | dvitribhyāṃ pāddanmūrdhasu bahuvrīhāvityuttarapadāntodāttatvam ‖ [as read]*
+
+*Sense (mine and tentative):* "Indra, in the form of the Sun, illuminating the *aruṇīḥ* — the ruddy, shining dawns — *nakṣat* — may he come to, hear, *havam* — the invocation, *pūrvyam* — used by the ancient ṛṣis, now being made by us. What kind of one? *Anu dyūn* — every day, *turaḥ* — impeller of wealth to the *viśām* — the men, the Aṅgirases, the seers who are praisers. And that Indra *takṣat* — fashioned his thunderbolt, his own weapon, *niyutam* — constantly joined to the one to be struck; and he *tastambhat* — held up *dyām* — heaven, so that it does not fall below; for whom? *Naryāya* — for the benefit of men, *catuṣpade* — quadrupeds, cows, horses and the like, *dvipāde* — for bipeds, men: for both."
+
+---
+
+### Printed p. 549  (PDF 569; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya's grammar tail concluded: *catuṣpade*, *dvipāde* [the *pād* of the word becomes *pad*], accent by *dvitribhyāṃ pāddanmūrdhasu bahuvrīhau* — characterized, not transcribed.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.3)** (Kannada, rendered)
+
+*Aruṇīḥ* — of ruddy colour (the dawns); *rāṭ* — Indra in the form of the Sun, who makes them shine; *pūrvyam* — used by the ancient ṛṣis; *havam* — the invocation (now being made by us); *anu dyūn* — every day; *aṅgirasām* — of the Aṅgirases; *viśām* — (to the men) praisers; *turaḥ* — the giver of wealth; *nakṣat* — may he hear; *(api ca)* — and; *vajram* — the thunderbolt; *niyutam* — (being sharp) always joined to the man to be slain; *takṣat* — made; *(tathā)* — so; *naryāya* — for the happiness of men; *catuṣpade* — and of four-footed creatures; *dvipāde* — of two-footed creatures; *dyām* — the sky; *tastambhat* — held up, like a post.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.3)** (Kannada, rendered)
+
+"May Indra, who in the form of the Sun gives light to the ruddy dawns, and who gives wealth to the Aṅgirases, hear the invocation, used by the ancient ṛṣis and now made by us; he makes his thunderbolt always sharp, ready for the man to be slain; and he holds the sky steadily like a post, for the sake of men, and of two-footed and four-footed creatures."
+
+**English Translation (as printed)** *(page marks "English Translation`")*
+
+"May he, illuminating the purple (dawn), listen to the invocation (addressed to him) of old, daily bestowing wealth upon the race of Angiras: he has sharpned [sic] his fatel [sic] shaft; he has supported the heaven for the good of men, of quadrupeds, and bipeds."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 3)**
+
+"In explaining the meaning of this Ṛk, Sāyaṇa and Skandasvāmin construe the words in different ways."
+
+*Rāṭ* — *rājayañ prakāśayan sūryātmā indraḥ*: "Indra makes the ruddy time of dawn shine, in the form of the Sun. *Havaṃ nakṣat* — *asmābhiḥ kriyamāṇam āhvānaṃ* …" *(continues on p. 550)*
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–2 complete; Ṛk 3 through printed p. 549 (PDF 569): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 550). Next: printed p. 550 (PDF 570). Numerals as read: sūtra numbers on p. 547 and Pā. 4-4-133 `[as read]`.
