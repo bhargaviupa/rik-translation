@@ -11057,4 +11057,54 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–2 complete; Ṛk 3 through printed p. 461 (PDF 481): Saṃhitā, Pada, bhāṣya begun (continues p. 462). Next: printed p. 462 (PDF 482). Numerals as read (no numeral list covers these pages): sūtra numbers on p. 460 `[as read]`.
+### Printed p. 462  (PDF 482; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Bhāṣya of Ṛk 3, concluded; small type, read with some doubts)* "… *agmata* — [from] *gam*, the Vedic *laṅ*; *samo gamyṛcchipracchi…* [*samo gamyṛcchipracchisvaratyartiśrutividibhyaḥ* (Pā. 1-3-29)], … *bahulaṃ chandasīti śapo luk*; *ṛkṣyādādeśaḥ*; *gamahanety upadhālopaḥ* | *makhāḥ* — *makho yajñaḥ*; *arśa ādibhyo 'c* [the suffix] | *jāyavaḥ* — *ji jaye*; *kṛvāpājimisvadisādhyaśūbhyaḥ uṇ* [Uṇ. sū. 1-1 as read]; *cekite* — *kit jñāne*, a Vedic *liṭ* [in the middle]; *loṭ*… *atolopayelopau*; *yat* — *supāṃ sulug iti tṛtīyāyā luk*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.3)** (Kannada, rendered)
+
+*(He) aśvinā* — O Aśvins; *makhāḥ* — those who are endowed with sacrifices (performing sacrifices); *amitāḥ* — numerous; *jāyavaḥ* — victorious men; *raṇe* — in battle; *śubhe* — for the sake of auspicious wealth; *mithaḥ paspṛdhānāsaḥ* — contending with one another; *yat* — when; *sam agmata* — they meet (then); and *yat* — by which chariot; *yūyam* — you; *sūrim* — the praiser; *dveṣe* — [looking] for; *varam* — the excellent wealth; *ā vahathaḥ* — you bring; *(sa — that)*; *yuvoḥ aha* — your own; *rathaḥ* — chariot; *pravaṇe* — on the earth; *cekite* — becomes known (is seen by all).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.3)** (Kannada, rendered)
+
+"O Aśvins! In the chariot in which you come bringing wealth to the praiser — numerous men, performers of sacrifices and victorious, meeting in battle for the sake of auspicious wealth, vie with one another; (your chariot alone appears before all, exceeding all others)."
+
+**English Translation (as printed)**
+
+"When devout and unnumbered (men), victorious in battle, mutually contending for wealth, come together, your car, Aswins, is perceived on its downward course, in which you bear excellent (treasure) to the worshipper,"
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 3)**
+
+"Innumerable, ever sure of victory, sacrifice-minded people, for the sake of wealth, in mutual contention, when they fight in battle, [the Aśvins] set out quickly, before all the other gods, to protect them from the misfortunes that arise. You come in readiness. And because you come with your chariot already mounted, your chariot is seen clearly by the one who praises you. And the power of their chariot is described in this Ṛk."
+
+---
+
+### Printed p. 463  (PDF 483; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Special Topics of Ṛk 3, continued)* "… is described by this Ṛk, and [it is also said] that the chariot of the Aśvins is visible well to the one who praises."
+
+*Makhāḥ* — *makhavantaḥ yajñopetāḥ*: "'those who perform sacrifices'. The word *makha* is stated among the fifteen names of sacrifice (Ni. 3-17 [as read])."
+
+> ये सहांसि सहसा सहन्ते रेजते अग्ने पृथिवी मखेभ्यः ।
+> (ऋ. सं. ६-११-? [as read; the numeral doubtful [?]])
+
+> *ye sahāṃsi sahasā sahante rejate agne pṛthivī makhebhyaḥ |*
+> *(ṛ. saṃ. 6-11-? [as read; the numeral doubtful [?]])*
+
+"In this Ṛk the meaning 'the gods who destroy' is stated for the word *makha*."
+
+*Śubhe* — *śubhaśabdo … udakanāmasu* [as read]: "The word *śubha* is stated among the hundred and one names of water (Ni. 1-12 [as read]); hence the meaning is 'water'. *Śobhanāya dhanāya* — 'for auspicious wealth': Sāyaṇa explains it as *maṅgalakara kāryakkāgi athavā dhanakkāgi* — 'for the auspicious cause, or for wealth'; Skandasvāmin explains it as 'for water'. Beyond that, Skandasvāmin gives the meaning in another way: *amitāḥ* — *aparimitāḥ athavā balenāparimitāḥ mahābalāḥ* ('measureless, or of measureless strength; of great strength'); *jāyavaḥ* — *jayaśīlāḥ*; *raṇe* — *saṃgrāme mithaḥ paspṛdhamānāsaḥ yoddhāraḥ nāśakāḥ* — 'in battle, warriors competing with each other, destroyers'; *śubhe* — *śobhārthaṃ jayārthaṃ makhā jāyavaś ca amitāḥ* — 'for splendour, for victory, the sacrificers and victors are numerous'. [He explains:] since the word *amita* conveys 'many', the soldiers who fight in a battle with strength or force are victorious; in order to give victory in battle, in which they fight against each other, your chariot is present."
+
+*Pravaṇe cekite* — "In [this phrase] Sāyaṇa says *prakarṣeṇa saṃbhajanīye bhūtale rathaḥ jñāyate; deveṣu madhye yuvām eva rakṣaṇārthaṃ śīghraṃ rathenāgacchetha* — 'on the earth that is best resorted to, [your] chariot is known; among the gods, you alone come swiftly in the chariot to protect'. It is understood that your chariot that moves with great speed remains just over the ground; [and] that you come in a chariot, swiftly, for our protection, more than the other gods — such is the meaning he gives. Skandasvāmin:
+
+> प्रवणे निम्ने देशे । चेकिते ज्ञायते लक्ष्यते । अश्वा ह्युच्चा रथो नीचः । उच्चैः श्चादश्वानां तेभ्यो नीचो रथो दृश्यते इत्यर्थः ॥ [as read; small type]
+
+> *pravaṇe nimne deśe | cekite jñāyate lakṣyate | aśvā hyuccā ratho nīcaḥ | uccaiḥ ścādaśvānāṃ tebhyo nīco ratho dṛśyate ityarthaḥ ‖ [as read; small type]*
+
+— the word *pravaṇa* conveys 'low-lying ground'. Since the horses are tall, the chariot is described as 'low' relative to them, so it is [to be] recognized [as yours]."
+
+*Sūrim* — *stotāram*: "The word *sūri* is stated among the names of praisers (Ni. 3-19 [as read]); the meaning is 'one who praises'."
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–2 complete; Ṛk 3 through printed p. 463 (PDF 483): all parts done except the grammar page (p. 464). Next: printed p. 464 (PDF 484). Numerals as read (no numeral list covers these pages): Ni. numbers and Ṛ. 6-11-? on p. 463 `[as read]`.
