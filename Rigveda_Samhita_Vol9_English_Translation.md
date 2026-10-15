@@ -10488,4 +10488,54 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–6 complete; Ṛk 7 through printed p. 437 (PDF 457): all parts done (grammar of the remaining word *jujuṣāṇā* may follow on p. 438). Next: printed p. 438 (PDF 458). Numerals as read (list stops at printed p. 380): Ni. 2-7, Ṛ. 1-3-7 `[as read]`.
+### Printed p. 438  (PDF 458; header "Maṃ. 1 A. 17 Sū. 118")
+
+*Grammar of Ṛk 7, concluded (noted briefly; sūtra numbers as read):* *Jujuṣāṇā* — root *juṣī prītisevanayoḥ*; since the sense of the present is shown, *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read), *liṭ*; *liṭaḥ kānaj vā* (Pā. 3-2-106 as read), *kānac* substituted; on that account doubling of the root; *āṭ kuppvāṅnuṃvyavāye 'pi* [as read], *ṇatva* of the suffix's *n* because of the *ṛ*-sound; with the dual *au*, since the case ending follows, *supāṃ sulug* (Pā. 7-1-39 as read), *ā* substituted for it. ‖ 7 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.8)**
+
+> युवं धेनुं शयवे नाधितायापिन्वतमश्विना पूर्व्याय ।
+> अमुञ्चतं वर्तिकामंहसो निः प्रति जङ्घां विश्पलाया अधत्तम् ॥ ८ ॥
+
+> *yuvaṃ dhenuṃ śayave nādhitāyāpinvatamaśvinā pūrvyāya |*
+> *amuñcataṃ vartikāmaṃhaso niḥ prati jaṅghāṃ viśpalāyā adhattam ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.8)**
+
+> युवम् । धेनुम् । शयवे । नाधिताय । अपिन्वतम् । अश्विना ।
+> पूर्व्याय ।
+> अमुञ्चतम् । वर्तिकाम् । अंहसः । निः । प्रति । जङ्घाम् ।
+> विश्पलायाः । अधत्तम् ॥ ८ ॥
+
+> *yuvam | dhenum | śayave | nādhitāya | apinvatam | aśvinā |*
+> *pūrvyāya |*
+> *amuñcatam | vartikām | aṃhasaḥ | niḥ | prati | jaṅghām |*
+> *viśpalāyāḥ | adhattam ‖ 8 ‖*
+
+---
+
+### Printed p. 439  (PDF 459; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.8)** *(small type; read with some doubts)*
+
+> अश्विना हे अश्विनौ युवं युवां पूर्व्याय पुरातनाय नाधिताय याचमानाय शयव एतत्संज्ञायर्षये धेनुं निवृत्तप्रसवामदोग्ध्रीमपिन्वतं । पयसासिञ्चतम् । सर्वदा पयस्विनीमकुरुतमित्यर्थः । अपि च वर्तिकां वृकेण ग्रस्तां चटकसदृशीं शकुनिमंहसो वृकास्यलक्षणात्पापान्निरमुञ्चतम् । निरमोचयतम् । यद्वा । पुनःपुनर्वर्तत इति वर्तिकोषाः । कामादित्येन [?] ऽभिग्रस्तां युवामुमोचयतम् । तथा विश्पलायै संग्रामे भिन्नजङ्घायै अगस्त्यपुरोहितस्य खेलस्य संबन्धिन्यै एतत्संज्ञायै स्त्रिया आयसीं जङ्घां प्रत्यधत्तम् । प्रत्यस्थापयेतं समयोजयेतमित्यर्थः ॥ [as read]
+
+> *aśvinā he aśvinau yuvaṃ yuvāṃ pūrvyāya purātanāya nādhitāya yācamānāya śayava etatsaṃjñāyarṣaye dhenuṃ nivṛttaprasavāmadogdhrīmapinvataṃ | payasāsiñcatam | sarvadā payasvinīmakurutamityarthaḥ | api ca vartikāṃ vṛkeṇa grastāṃ caṭakasadṛśīṃ śakunimaṃhaso vṛkāsyalakṣaṇātpāpānniramuñcatam | niramocayatam | yadvā | punaḥpunarvartata iti vartikoṣāḥ | kāmādityena [?] 'bhigrastāṃ yuvāmumocayatam | tathā viśpalāyai saṃgrāme bhinnajaṅghāyai agastyapurohitasya khelasya saṃbandhinyai etatsaṃjñāyai striyā āyasīṃ jaṅghāṃ pratyadhattam | pratyasthāpayetaṃ samayojayetamityarthaḥ ‖ [as read]*
+
+*Sense (mine):* "O Aśvins, for the ancient (*pūrvya*) Śayu, the ṛṣi of that name, who was entreating (*nādhitāya*), you filled with milk the cow (*dhenum*) that had ceased bearing and was not giving milk: you made her always rich in milk. And you freed *vartikā* — a bird like a quail, seized by the wolf — from *aṃhas*, the evil in the form of the wolf's mouth. Or: *vartikā* is *uṣas*, that returns again and again; you freed her, seized by the Sun [?]. And for Viśpalā, whose shank had been broken in battle — the wife of Khela, the chaplain of Agastya (*sic*; Khela's chaplain Agastya) — you put back an iron leg."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.8)** (Kannada, rendered)
+
+*(He) aśvinā* — O Aśvins; *yuvam* — you two; *pūrvyāya* — for the ancient; *nādhitāya* — [for him] praying; *śayave* — for the ṛṣi named Śayu; *dhenum* — the cow (that had no milk); *apinvatam* — you made [her] full of milk; *vartikām* — the bird *vartikā* seized by a wolf; *aṃhasaḥ* — from the evil (the wolf's mouth); *niḥ amuñcatam* — you freed [her]. Or: *vartikām* — the one who returns (the dawn); *aṃhasaḥ* — from (the sun's) seizure [?]; *niḥ amuñcatam* — you freed [her]; *(tathā)* — likewise; *viśpalāyai* — for Viśpalā (who had a broken leg); *jaṅghām* — an iron-made leg; *prati adhattam* — you joined.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.8)** (Kannada, rendered)
+
+"O Aśvins! You made the cow of the ancient Śayu, who prayed to you, one rich in milk; you freed the *vartikā* bird from the mouth of the wolf (or: you freed the Dawn from the Sun); and you joined an iron leg to Viśpalā, whose leg had been broken."
+
+**English Translation (as printed)**
+
+"You filled his cow with milk, Ashwins, for the ancient Sayu, when imploring (your aid); you liberated the quail from danger; you gave a leg to Vispala."
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–7 complete; Ṛk 8 through printed p. 439 (PDF 459): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 440). Next: printed p. 440 (PDF 460). Numerals as read: sūtra numbers on p. 438 `[as read]`.
