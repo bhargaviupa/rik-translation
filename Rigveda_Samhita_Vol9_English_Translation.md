@@ -11107,4 +11107,26 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–2 complete; Ṛk 3 through printed p. 463 (PDF 483): all parts done except the grammar page (p. 464). Next: printed p. 464 (PDF 484). Numerals as read (no numeral list covers these pages): Ni. numbers and Ṛ. 6-11-? on p. 463 `[as read]`.
+### Printed p. 464  (PDF 484; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Special Topics of Ṛk 3, concluded)* *Varam* — *śreṣṭhaṃ dhanam*: "Sāyaṇa's explanation is 'the best wealth'. Skandasvāmin's meaning is *varaṇīyaṃ dhanam* — 'wealth to be chosen'. Yāska has explained the word *vara* (Ni. 1-?? [as read: 'ನಿ. ೧-೭']): *varo varayitavyo bhavati* — 'it is to be chosen', i.e. 'that which is desirable, wanted by all'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Paspṛdhānāsaḥ* — root *spardha saṃgharṣe*; *bhvādi*; since the sense of the present is meant, *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read), *liṭ*; *liṭaḥ kānaj vā* (Pā. 3-2-106 as read), *kānac* substituted for it; on that account doubling of the root; *śarpūrvāḥ khayaḥ* (Pā. 7-4-61 as read), the *p* remains in the reduplicative syllable; by Vedic usage *saṃprasāraṇa* of the *r* of the root and elision of the *a* occur; the form *paspṛdhāna*; *ciṭaḥ* (Pā. 6-1-163 as read), the final acute; with *jas* following, *āj jaser asuk*, *asuk* for *jas*. *Agmata* — root *gam̐ḷ gatau*; since the sense of the present is meant, as before, *chandasi luṅlaṅliṭaḥ*, *laṅ*; since the prefix *sam* is connected, *samo gamyṛcchibhyām* (Pā. 1-3-29 as read), the middle voice; in the third person plural, *jha* having come, *bahulaṃ chandasi* (Pā. 2-4-73 as read), *luk* for *śap*; since the *anakāra* [?] has come after it, *ātmanepadeṣv anataḥ* (Pā. 7-1-5 as read), *at* substituted [for *jha*'s *a*]; since *sārvadhātukam apit* makes the suffix *ṅit*-like, *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* (Pā. 6-4-98 as read), elision of the penultimate of the root; the augment *aṭ*; since the particle *yat* is connected, *nipātair yad yadi…* (Pā. 8-1-30 as read) prohibits *nighāta*; the augment *aṭ* being *udātta*, the initial acute. *Śubhe* — root *śubha dīptau*; *kvip ca*, suffix *kvip*; dative singular form; *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168 as read), the acute on the case ending. *Makhāḥ* — *makhaḥ yajñaḥ, makhāḥ yeṣāṃ santi*; when the sense of *matup* is meant, *arśa ādibhyo 'c* (Pā. 5-2-127 as read), the suffix *ac*; *yasyeti ca*, elision of the *a*-ending of the base; the final acute; nominative plural. *Amitāḥ* — *na mitāḥ amitāḥ*; *kter nañ…*, *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 as read), the *avyaya* former member keeps its natural accent.
+
+---
+
+### Printed p. 465  (PDF 485; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Jāyavaḥ* — root *ji jaye*; *kṛvāpājimisvidisādhyaśūbhya uṇ* (Uṇ. sū. 1-1 as read), the suffix *uṇ*; since it is *ñit*, *ājoñiti* [read *aco ñṇiti*] (Pā. 7-2-115 as read), *vṛddhi* for the *i*; *āy* substituted; the word *jāyu*; by the suffix's accent the final acute; nominative plural. *Yuvoḥ* — the word *yuṣmad*; with the genitive dual following, *sarve vidhayaś chandasi vikalpyante*, so *oṣi ca* [*yuvāvau dvivacane*; compare *yuṣmado yuvādeśa*] — the *a*-ending [?]; the *yatva* does not occur; *pararūpa* by Vedic usage. *Cekite* — root *kita jñāne*; *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22 as read), *yaṅ* [as read: *yaj*]; since the sense of the present is meant, *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read), after the *yaṅanta*, *liṭ*; since *yaṅ* is *ñit*, the middle-voice suffix comes; *liṭasthaḥ* [*litaḥ taṅo*…] (Pā. 3-4-81 as read), *iś* substituted for *ta*; *ātaś ca*…, *tiṅ* gets the *ārdhadhātuka* name; *sanyaṅoḥ* (Pā. 6-1-9 as read), doubling of the first single-vowel part of the *yaṅanta*; for the reduplicative syllable, *halādiśeṣa*; *guṇo yaṅluk oḥ* (Pā. 7-4-82 as read), *guṇa* for the reduplicative syllable; *cutva*; then, in the *liṭ*, first person singular [as read: *cekitthe*? [?]], *liṭas tajhayor eśirec* (Pā. 3-4-81 as read), *eśa*-substitution; since *anabhyāsasya* is stated, [with] prohibition of doubling in *liṭ*, doubling does not occur again; for the sake of that, *ato lopaḥ* (Pā. 6-4-48 as read), elision of the *a* of *yaṅ*; *yasya halaḥ* (Pā. 6-4-49 as read), elision of the *y*; the form *cekite*; *tiṅanta nighāta* accent. *Yat* — the word *yad*; with the third case singular following, *supāṃ sulug* (Pā. 7-1-39 as read), *luk* for it. *Vahathaḥ* — root *vaha prāpaṇe*; *laṭ*, second person dual; since the word *yat* is connected, *nighāta* does not occur; as the *lasārvadhātuka* follows after *upadeśa*, it is *anudātta*, so the root's accent remains. ‖ 3 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.4)** *(the Saṃhitā begins at the foot of this page and is concluded on p. 466)*
+
+> युवं भुज्युं भुरमाणं विभिर्गतं स्वयुक्तिभिर्निवहन्ता पितृभ्य आ ।
+
+> *yuvaṃ bhujyuṃ bhuramāṇaṃ vibhirgataṃ svayuktibhirnivahantā pitṛbhya ā |*
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–3 complete; Ṛk 4 Saṃhitā begun at the foot of printed p. 465 (PDF 485), first two pādas only (continues p. 466). Next: printed p. 466 (PDF 486). Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 464–465 `[as read]`.
