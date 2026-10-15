@@ -11995,4 +11995,58 @@ In this Ṛk, *pracetasaḥ* is explained, since it conveys *pravṛddhacetasa�
 
 ---
 
-**Progress note:** Sūkta 120: Ṛk 1 complete; Ṛk 2 through printed p. 503 (PDF 523): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 504). Next: printed p. 504 (PDF 524). Numerals as read: Pā. 5-3-4, Ni. 3-?, 6-17 `[as read]`.
+### Printed p. 504  (PDF 524; header "Maṃ. 1 A. 17 Sū. 120")
+
+*(Special Topics of Ṛk 2, concluded)* "… and, quoting a Ṛk in which the word *akra* is used:
+
+> अक्रो न बभ्रिः समिथे महीनां दिदृक्षेयः सूनवे भाऋजीकः ।
+> उदुस्रिया जनिता यो जजानापां गर्भो नृतमो यह्वो अग्निः ॥
+> (ऋ. सं. ३-१-१३ [as read])
+
+> *akro na babhriḥ samithe mahīnāṃ didṛkṣeyaḥ sūnave bhāṛjīkaḥ |*
+> *udusriyā janitā yo jajānāpāṃ garbho nṛtamo yahvo agniḥ ‖*
+> *(ṛ. saṃ. 3-1-13 [as read])*
+
+he explains. Durgācārya (the commentator on the Nirukta) explains it as *ākramyate iti arkaḥ prākāraḥ* — 'that which is overrun is a rampart'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; sūtra numbers as read)**
+
+*Vidvāṃsau* — root *vida jñāne*; when *laṭ* has come, *vido laṭo vā*; *vibher śatur vasuḥ* [as printed *viderśatur vasuḥ*] (Pā. 7-1-36 as read), *vasu* substituted for *śatṛ*; the word *vidvas*; with the dual following, *ātve saṃtasya* … [*upadhādīrgha*] (Pā. 6-4-14 as read), lengthening of the penultimate; since it is *ugit*, the augment *num*; then *anusvāra*. *Itthā* — the word *idam*; *thā hetau ca chandasi* (Pā. 5-3-26 as read), the suffix *thā* in the sense of manner; with it following, *idama iś* (Pā. 5-3-3 as read), since *iś* is obtained for the base, *etetau rathoḥ* (Pā. 5-3-4 as read) as an exception, *id* is substituted; if in the sūtra *thā hetau ca chandasi* the word *idam* is not continued [from the preceding sūtra], then *idamas thamuḥ* (Pā. 5-3-24 as read), the suffix *thamu* in the sense of manner; it gets the *avyaya* name; and by *vyatyaya* the following case-ending's *supāṃ sulug* (Pā. 2-4-82 as read), elision by the *ḍā*-substitution [?]; by the strength of *ḍit*, elision of the *ṭi*; the form *itthā*. *Nu, cit* — *nu śuṣu* [as read; Pā. 6-3-136 as read], lengthening of *nu* in the Saṃhitā. *Akrau* — root *kramu pādavikṣepe*; when *ā* is the *upapada* [as printed *ṅa*], *janasanakhanakramagamo viṭ* (Pā. 3-2-67 as read), the suffix *viṭ*; *kṛtyalyuṭo bahulam* (Pā. 3-3-113 as read), because of the word *bahula* in it, this comes also in the passive sense; *viḍvanorānunāsikasyāt* (Pā. 6-4-41 as read), when *viṭ* follows, *ā* for the root; in the compound with *nañ*, *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 as read), the *avyaya* former member keeps its natural accent; nominative dual form. ‖ 2 ‖
+
+---
+
+### Printed p. 505  (PDF 525; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.3)**
+
+> ता विद्वांसा हवामहे वां ता नो विद्वांसा मन्म वोचेतमद्य ।
+> प्रार्चद्दयमानो युवाकुः ॥ ३ ॥
+
+> *tā vidvāṃsā havāmahe vāṃ tā no vidvāṃsā manma vocetamadya |*
+> *prārcaddayamāno yuvākuḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.3)**
+
+> ता । विद्वांसा । हवामहे । वाम् । ता । नः । विद्वांसा । मन्म ।
+> वोचेतम् । अद्य ।
+> प्र । आर्चत् । दयमानः । युवाकुः ॥ ३ ॥
+
+> *tā | vidvāṃsā | havāmahe | vām | tā | naḥ | vidvāṃsā | manma |*
+> *vocetam | adya |*
+> *pra | ārcat | dayamānaḥ | yuvākuḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.3)** *(small type; read with some doubts)*
+
+> हे अश्विनौ विद्वांसा सर्वज्ञौ ता वां तौ युवां हवामहे । आह्वयामहे । ताना हूतौ [?] विद्वांसावभिज्ञौ युवां नोऽस्मभ्यं मन्म मननीयं ज्ञातव्यं स्तोत्रमद्यास्मिन्काले वोचेतं ब्रुवाणौ भूयास्तम् । स चाहं युवाकुर्युवां कामयमानः स्तुत्या संयोजयन्नादयमानो युवाभ्यां हविः प्रयच्छन् प्रार्चत् । प्रार्चं प्रकर्षेण स्तौमि ॥ ता । सुपां सुलुगिति विभक्तेराकारः । वोचेतम् । ब्रूञ् व्यक्तायां वाचि । ब्रुवो वचिः । लिङ्याशिष्यङ् । वच उमित्युमागमः । आर्चत् । अर्च पूजायाम् । भौवादिकः । तिङां तिङो भवन्तीति मिपस्तिबादेशः । दयमानः । दय दानगतिरक्षणहिंसादानेषु । शपः पित्त्वादनुदात्तत्वम् । शानचो लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । युवाकुः । युवां कामयत इति युवाकुः । मितद्र्वादिभ्य उपसंख्यानम् । (पा. ३-२-१८०-१ [as read]) इति डुप्रत्ययः । अभिभक्तावपि व्यत्ययेन युवावौ द्विवचन इति युवादेश आत्त्वं च । यद्वा । यु मिश्रणे । औणादिकः काकुप्रत्ययः ॥ [as read]
+
+> *he aśvinau vidvāṃsā sarvajñau tā vāṃ tau yuvāṃ havāmahe | āhvayāmahe | tānā hūtau [?] vidvāṃsāvabhijñau yuvāṃ no 'smabhyaṃ manma mananīyaṃ jñātavyaṃ stotramadyāsminkāle vocetaṃ bruvāṇau bhūyāstam | sa cāhaṃ yuvākuryuvāṃ kāmayamānaḥ stutyā saṃyojayannādayamāno yuvābhyāṃ haviḥ prayacchan prārcat | prārcaṃ prakarṣeṇa staumi ‖ tā | supāṃ sulugiti vibhakterākāraḥ | vocetam | brūñ vyaktāyāṃ vāci | bruvo vaciḥ | liṅyāśiṣyaṅ | vaca umityumāgamaḥ | ārcat | arca pūjāyām | bhauvādikaḥ | tiṅāṃ tiṅo bhavantīti mipastibādeśaḥ | dayamānaḥ | daya dānagatirakṣaṇahiṃsādāneṣu | śapaḥ pittvādanudāttatvam | śānaco lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | yuvākuḥ | yuvāṃ kāmayata iti yuvākuḥ | mitadrvādibhya upasaṃkhyānam | (pā. 3-2-180-1 [as read]) iti ḍupratyayaḥ | abhibhaktāvapi vyatyayena yuvāvau dvivacana iti yuvādeśa āttvaṃ ca | yadvā | yu miśraṇe | auṇādikaḥ kākupratyayaḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, *vidvāṃsā* — omniscient: you two we call (*havāmahe*). You two, learned, who know, grant to us today a *manma* — a hymn to be pondered, to be known — may you speak (*vocetam*) [it]. And I, *yuvākuḥ* — desirous of you, uniting you by praise, giving you an oblation, *pra ārcat* — praise exceedingly."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.3)** (Kannada, rendered; text on this page as legible)
+
+*(He) vidvāṃsā* — O omniscient (Aśvins); *tā vām* — those same two, you; *havāmahe* — we call; *tā vidvāṃsā* — those omniscient; *naḥ* — to us; *adya* — today; *manma* — a hymn worthy of pondering; *vocetam* — may you tell; *yuvākuḥ* — desirous of you; *dayamānaḥ* — giving (the oblation); *pra ārcat* — [I] praise exceedingly.
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–2 complete; Ṛk 3 through printed p. 505 (PDF 525): Saṃhitā, Pada, bhāṣya, pratipadārtha (partial) written; the page's remaining parts follow on p. 506. Next: printed p. 506 (PDF 526). Numerals as read (no numeral list covers these pages): Ṛ. 3-1-13, Pā. numbers on pp. 504–505 `[as read]`.
