@@ -13954,4 +13954,104 @@ In this Ṛk the word *śuṣṇa* means 'cloud' (Ni. 6-?? [as read]).
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–12 complete; Ṛk 13 through printed p. 593 (PDF 613): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 594). Next: printed p. 594 (PDF 614). Two Ṛks (14–15) remain after Ṛk 13, then the colophon of Sūkta 121 / the Eighth Adhyāya and the end matter. Numerals as read: Tai. Saṃ. ref `[as read]`.
+### Printed p. 594  (PDF 614; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 13, concluded)* "… 'for the good of men, he yokes the Sun's horses to the chariot, and Indra is in the form of the Sun' — thus he explains.
+
+*Bharat* — *asuraiḥ bhajyamānaṃ dhārayan rakṣan sūryarathasya cakram aśvaṃ cāsuraiḥ apahriyamāṇam*: 'while fighting the asuras, [Indra] protected the wheels of the Sun's chariot that were being broken, and fixed his own chariot's horses to the Sun-chariot's horses that the asuras had carried off' — and he quotes the Ṛks:
+
+> त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो ।
+> त्वं रथमेतशं कृत्व्ये धने त्वं पुरो नवतिं दम्भयो नव ॥
+> (ऋ. सं. १-५४-६ [as read])
+
+> *tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |*
+> *tvaṃ rathametaśaṃ kṛtvye dhane tvaṃ puro navatiṃ dambhayo nava ‖*
+> *(ṛ. saṃ. 1-54-6 [as read])*
+
+> अस्मा इदु त्यदनु दायि एषामेको यद्वव्ने भूरेरीशानः ।
+> प्रैतशं सूर्ये पस्पृधानं सौवश्व्ये सुष्विमावदिन्द्रः ॥
+> (ऋ. सं. १-६१-१५ [as read])
+
+> *asmā idu tyadanu dāyi eṣāmeko yadvavne bhūrerīśānaḥ |*
+> *praitaśaṃ sūrye paspṛdhānaṃ sauvaśvye suṣvimāvadindraḥ ‖*
+> *(ṛ. saṃ. 1-61-15 [as read])*
+
+*Ayajyūn* — *ayajanaśīlān agādhāpagānāṃ nadīnāṃ navater garte kūpe prāvartayaḥ*: 'those who by nature perform no sacrifices — Indra casts them into the deep waters, into the pits, wells, hollows of the many rivers' — so he explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 13; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Ramayaḥ* (*ramu krīḍāyām*; with the causative included, *hetumati ca*, Pā. 3-1-26, *ṇic*; *ata upadhāyāḥ*, Pā. 7-2-116, *vṛddhi*; being *mit*, *mitāṃ hrasvaḥ*, Pā. 6-4-92, shortened; *laṅ*, *sip*; *itaś ca lopaḥ*; *śap*; *guṇa*, *ay*; no augment by Pā. 6-4-75; *ru*, *visarga*; *nighāta*) · *bharat* (*bhṛñ bharaṇe*, *bhvādi*; *laṅ*, *tip*; *itaś ca lopaḥ*; *śap*; *guṇa*; *uraṇ raparaḥ*, Pā. 1-1-51; no augment; no *nighāta* at the beginning of a pāda; root accent remains)
+
+---
+
+### Printed p. 595  (PDF 615; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 13, concluded)* *prāsya* (*pra* + *asu kṣepaṇe*; *ktvā* → *lyap* by *samāse 'nañpūrve ktvo lyap*, Pā. 7-1-37; root accent remains) · *nāvyānām* (*nāvā tāryam nāvyam*; *naudvayodharmavisamūlamūlasīta…*, Pā. 4-4-91, *yat* in the sense 'to be crossed'; *vānto yi pratyaye*, Pā. 6-1-79, *āv*; *tit svaritam*, Pā. 6-1-185; genitive plural) · *avartayaḥ* (*vṛtu vartane*; *hetumati ca*, *ṇic*; *puganta-laghūpadhasya ca*, Pā. 7-3-86, *guṇa*; *laṅ*, *sip*; augment *aṭ*; *nighāta*) · *ayajyūn* (*yaja devapūjāsaṅgatikaraṇadāneṣu*; *auṇādika* suffix *yus*; *na yajyuḥ ayajyuḥ*; *tatpuruṣe tulyārthatṛtīyā…*, Pā. 6-2-2, the *avyaya* former member keeps its accent). ‖ 13 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.14)**
+
+> त्वं नो अस्या इन्द्र दुर्हणायाः पाहि वज्रिवो दुरिताद्भीके ।
+> प्र नो वाजान्रथ्योऽअश्वबुध्यानिषे यन्धि श्रवसे सूनृतायै ॥ १४ ॥
+
+> *tvaṃ no asyā indra durhaṇāyāḥ pāhi vajrivo duritādbhīke |*
+> *pra no vājānrathyo 'aśvabudhyāniṣe yandhi śravase sūnṛtāyai ‖ 14 ‖*
+
+---
+
+### Printed p. 596  (PDF 616; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.14)**
+
+> त्वम् । नः । अस्याः । इन्द्र । दुःऽहनायाः । पाहि । वज्रिवः ।
+> दुःऽइतात् । अभीके ।
+> प्र । नः । वाजान् । रथ्यः । अश्वऽबुध्यान् । इषे । यन्धि ।
+> श्रवसे । सूनृतायै ॥ १४ ॥
+
+> *tvam | naḥ | asyāḥ | indra | duḥ 'hanāyāḥ | pāhi | vajrivaḥ |*
+> *duḥ 'itāt | abhīke |*
+> *pra | naḥ | vājān | rathyaḥ | aśva 'budhyān | iṣe | yandhi |*
+> *śravase | sūnṛtāyai ‖ 14 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.14)** *(small type; read with some doubts)*
+
+> हे वज्रिवो वज्रवन्निन्द्र त्वं दुर्हणायाः दुःखेन हन्तव्यायाः अस्या अवर्तमानायाः [?] दारिद्र्यात् नोऽस्मान्पाहि । रक्ष । तथा दुरितात्पापादभीके अभिप्राप्ते समीपवर्तिनि संग्रामे सत्यस्मान्पाहि । अपि च नोऽस्मभ्यं रथ्यो रथयुक्तान् अश्वबुध्यान् अश्वानां बोधकान् अश्वप्रमुखान् इमान्वाजान् धनानि प्र यन्धि । प्रयच्छ । किमर्थम् । इषे अन्नार्थं श्रवसे कीर्त्यर्थं सूनृतायै प्रियसत्यात्मिका वाक् तदर्थं च ॥ दुर्हणायाः । ईषद्दुःसुषु कृच्छ्राकृच्छ्रार्थेषु खल् । पाहि । पादादित्वान्निघाताभावः । वज्रिवः । वज्रो ऽस्यास्तीति वज्री हस्तः । तद्वान् वज्रिवान् । छन्दसीर इति मतुपो वत्वम् । सम्बुद्धौ मतुवसोरुरिति नकारस्य रुत्वम् । रथ्यः । छन्दसीवनिपाविति रथशब्दान्मत्वर्थीय ईकारः । यन्धि । यम उपरमे । बहुलं छन्दसीति विकरणस्य लुक् । वा छन्दसीति हेर्धिः ॥ [as read]
+
+> *he vajrivo vajravannindra tvaṃ durhaṇāyāḥ duḥkhena hantavyāyāḥ asyā avartamānāyāḥ [?] dāridryāt no 'smānpāhi | rakṣa | tathā duritātpāpādabhīke abhiprāpte samīpavartini saṃgrāme satyasmānpāhi | api ca no 'smabhyaṃ rathyo rathayuktān aśvabudhyān aśvānāṃ bodhakān aśvapramukhān imānvājān dhanāni pra yandhi | prayaccha | kimartham | iṣe annārthaṃ śravase kīrtyarthaṃ sūnṛtāyai priyasatyātmikā vāk tadarthaṃ ca ‖ durhaṇāyāḥ | īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal | pāhi | pādāditvānnighātābhāvaḥ | vajrivaḥ | vajro 'syāstīti vajrī hastaḥ | tadvān vajrivān | chandasīra iti matupo vatvam | sambuddhau matuvasoruriti nakārasya rutvam | rathyaḥ | chandasīvanipāviti rathaśabdānmatvarthīya īkāraḥ | yandhi | yama uparame | bahulaṃ chandasīti vikaraṇasya luk | vā chandasīti herdhiḥ ‖ [as read]*
+
+*Sense (mine):* "O thunderbolt-bearer (*vajrivaḥ*), Indra: protect (*pāhi*) us from this *durhaṇā* — hard to be destroyed [poverty], and from *durita* — evil — *abhīke* — when battle is near. And, *rathyaḥ* — [you] who have a chariot — bestow (*pra yandhi*) on us these *vājān* — riches, *aśvabudhyān* — such as awaken horses (that is, headed by horses), for *iṣe* — food, *śravase* — fame, *sūnṛtāyai* — pleasant, truthful speech."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.14)** (Kannada, rendered)
+
+*Vajrivaḥ indra* — O Indra, wielder of the thunderbolt; *tvam* — you; *durhaṇāyāḥ* — hard to be got rid of; *asyāḥ* — this (poverty); *naḥ* — us; *pāhi* — protect; *abhīke* — in a battle that is near; *durītāt* — from evil (misfortune); *(pāhi)* — protect; *(api ca)* — and; *naḥ* — to us; *rathyaḥ* — [you] who have a chariot; *aśvabudhyān* — [riches] rooted in horses, [headed by horses]; *vājān* — wealth; *iṣe* — for food; *śravase* — for fame; *sūnṛtāyai* — for pleasant, true speech; *pra yandhi* — grant.
+
+---
+
+### Printed p. 597  (PDF 617; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Pratipadārtha concluded)* "*aśvabudhyān* — [rooted in horses, i.e. horse-based] … *vājān* — wealth; *iṣe* — for food; *śravase* — for fame; *sūnṛtāyai* — for pleasant, true speech; *pra yandhi* — grant favour."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.14)** (Kannada, rendered)
+
+"O Indra, wielder of the thunderbolt! Take us across the poverty that is hard to remove, and the misfortune that comes in war; and grant us riches with chariots and horses, for the sake of food, fame, and pleasant, truthful speech."
+
+**English Translation (as printed)**
+
+"Indra, bearer of the thunderbolt, preserve us from this (poverty) that is so difficult to be destroyed, and from misfortune in war; grant us riches conspicuous for chariots, remarkable for horses, for the sake of food, of fame, and of truth."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 14)**
+
+*Aśvabudhyān* — *aśvānāṃ bodhakān aśvapramukhān; sarvaṃ hi dhanam aśvamūlam dāsapravargam; aśvā budhyāḥ bodhayitavyā yena dhanena tādṛśam*: "'[Riches] which wake the horses, headed by horses; all wealth has the horse as its root, [as also] the group of servants; the wealth by which horses are to be awakened (looked after) is of such a kind' — he explains that horses are the principal [part] of the wealth gained, and that servants who do work are also counted as wealth; Sāyaṇa quotes the Ṛk:
+
+> उपस्तुतिमश्व्यं पार्थिवं सुवीरं दासप्रवर्गं रयिमश्वबुध्यम् ॥
+> (ऋ. सं. १-३८-? [as read; the last numeral doubtful [?]])
+
+> *upastutimaśvyaṃ pārthivaṃ suvīraṃ dāsapravargaṃ rayimaśvabudhyam ‖*
+> *(ṛ. saṃ. 1-38-? [as read; the last numeral doubtful [?]])*
+
+— the prayer is: 'O Indra, protect us from poverty that is hard to remove and destroys us, and from sinners who cause evil to happen to us, and, when war has come, protect us by them; grant us riches rich in horses, chariots and many servants'; and that we may have food, fame, and kind, truthful speech."
+
+*Vajrivaḥ* — *vajro 'syāsti iti vajrī hastaḥ; tadvān vajrivān*: "'one who has a hand holding the thunderbolt' is the meaning." (The word *vajrin* is formed with *matup* and the Vedic *v*.)
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–13 complete; Ṛk 14 through printed p. 597 (PDF 617): all parts except the grammar (continues p. 598). Next: printed p. 598 (PDF 618). Ṛk 15 (the last of the sūkta) remains, then the Sanskrit colophon of Sūkta 121 / the Eighth Adhyāya and the Kannada closing lines. Numerals as read: Ṛ. 1-54-6, 1-61-15, 1-38-? `[as read]`.
