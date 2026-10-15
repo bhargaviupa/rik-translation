@@ -7294,4 +7294,79 @@ the Kātyāyana-ites [?], those who study the Yajurveda — *kaṭhaśākhins* �
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–24 complete; Ṛk 25 (last) through the Special Topics on printed p. 306 (PDF 326): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*daṃsāṃsi*, *astam iva*). Next: printed p. 307 (PDF 327) — Ṛk 25 grammar page and the colophon of Sūkta 116; Sūkta 117 starts p. 308 (PDF 328). Open: numerals as read `[?]`.
+### Printed p. 307  (PDF 327; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 25, concluded]
+
+**सुगवः सुवीरः** — *Sugavaḥ suvīraḥ* — "*śobhanavīraiḥ putraiḥ pautrair upetaḥ*": "'possessed of fine [valiant] sons, grandsons and so on': thus Sāyaṇa explains: *suvīra* = 'brave'. Skandasvāmin explains it as 'one with valiant sons and grandsons', or 'one with sons and grandsons engaged in good works'."
+
+**पश्यन्** — *Paśyan* — "*akṣibhyāṃ paśyan svasvaviṣayadarśanasamarthaiḥ sarvair indriyaiḥ*": "although it is said only that he is 'seeing with the eyes', by the mode of *upalakṣaṇa* it is said that, so that the eye-organ may be sound for seeing with the eyes, all the other organs too, in their own functions, should be favoured so that health may be one and the same [in all]: this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 25; grammar page, noted briefly)**
+
+*avocam* (*brūñ* "to speak", *vāci*; *luṅ* 1st singular *mip*; *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. 3-4-101 as read [?], *am* substituted; *brūvo vaciḥ*, Pā. 2-4-53 as read [?], *vaci* for the root; *asyativakti-khyātibhyo 'ṅ*, Pā. 3-1-52 as read [?], *aṅ* for *cli*; *vaca um*, Pā. 7-4-20 as read [?], the augment *um*; guṇa; the augment *aṭ*; nighāta); *syām* (*as* "to be"; *vidhiniminantraṇāmantraṇādhīṣṭasamprapraśnaprārthaneṣu liṅ*, Pā. 3-3-161 as read [?], *liṅ* in the sense of prayer; in the 1st singular, *mip* → *am* by *liṅaḥ*…; *yāsuṭ parasmaipadeṣūdātto ṅicca*, Pā. 3-4-103 as read [?], *yāsuṭ*; being *ṅit*-like, *śnasor allopaḥ*, Pā. 6-4-111 as read [?], elision of the *a* of the root; nighāta); *suvīraḥ* (*vīravīryau ca*, Pā. 6-2-120 as read [?], the later member's first-syllable accent); *paśyan* (*dṛśir* "to see"; *śatṛ* in the *laṭ* sense; *śap*; *pāghrādhmā…*, Pā. 7-3-78 as read [?], *paśya* substituted; *adupadeśa* so the *sārvadhātuka* is unaccented, hence *tāsyanudāttet…*, Pā. 6-1-186 as read [?], the root accent remains); *aśnuvan* (*aśū* "to pervade"; though *ātmanepada*, *vyatyayo bahulam*, Pā. 3-1-85 as read [?], *parasmaipada*; *śatṛ* in the *laṭ* sense; *svādibhyaḥ śnuḥ*, Pā. 3-1-73 as read [?], *śnu* as *vikaraṇa*; *aci śnudhātubhruvāṃ…*, Pā. 6-4-77 as read [?], *uvaṅ*; from the suffix accent the *u* before *n* takes *udātta*); *jarimāṇam* (*jṝṣ* "to grow old"; the Uṇādi suffix *imanic*; guṇa of the *ṛ* with *raparatva*; the word *jariman*; *jñitisūtra* *citaḥ*, Pā. 6-1-163 as read [?], final accent; accusative singular, *sarvanāmasthāne cāsaṃbuddhau*, Pā. 6-4-8 as read [?], lengthening of the penultimate); *jagamyām* (*gam* "to go"; *liṅ* in the sense of prayer; 1st singular *am* substituted; *yāsuṭ parasmaipadeṣūdātto ṅicca*, *yāsuṭ*; *bahulaṃ chandasi*, Pā. 2-4-73 as read [?], *śluḥ* for the *vikaraṇa*; *ślau*, Pā. 6-1-10 as read [?], doubling; *kuhoś cuḥ*, Pā. 7-4-62 as read [?], *j* for the reduplication's *g* by palatalization; nighāta). ‖ 25 ‖
+
+### Printed p. 308  (PDF 328; header "Maṃ. 1 A. 17 Sū. 116 …")
+
+*(The grammar of Ṛk 25 concludes at the top of this page with the accent of *aśnuvan* — *śnu* as *vikaraṇa*; *uvaṅ* for the *u*; the *udātta* on the *u* — and *jarimāṇam*, *jagamyām* as above.)*
+
+**Colophon:** *nūrahadināreṇe sūktavu samāptavu* — "The hundred-and-sixteenth Sūkta is ended."
+
+*(Printer's ornament.)*
+
+**End of Sūkta 116** (Ṛks 1–25; printed pp. 177–308; Maṇḍala 1, Anuvāka 17).
+
+---
+
+## Sūkta 117 — *madhvaḥ somasya* (printed pp. 308–?)
+
+### Printed p. 308 lower half  (PDF 328) — heading and introduction
+
+**Heading (Kannada):** "nūrahadinēḷaneya sūktavu" — "the hundred-and-seventeenth Sūkta."
+
+**Anukramaṇī (Sanskrit, as printed):**
+
+> मध्वः इति पञ्चविंशत्यृचं द्वितीयं सूक्तम् । औशिजस्य कक्षीवत आर्षं त्रैष्टुभमाश्विनं । मध्वः इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+
+> *madhvaḥ iti pañcaviṃśatyṛcaṃ dvitīyaṃ sūktam | auśijasya kakṣīvata ārṣaṃ traiṣṭubhamāśvinaṃ | madhvaḥ ityanukrāntam | prātaranuvākāśvinaśastrayoḥ pūrvasūktena sahokto viniyogaḥ ‖*
+
+Sense: "*madhvaḥ* — the second sūkta (of this anuvāka), of twenty-five Ṛks; the ṛṣi's work being of Kakṣīvān, son of Uśij; Triṣṭubh; addressed to the Aśvins. The Anukramaṇī says '*madhvaḥ*'. Its application in the Prātaranuvāka and in the Aśvina-śastra has been stated together with the preceding sūkta."
+
+**Anuvāda (Kannada):** "This sūkta, *madhvaḥ somasya*, is the second sūkta in the seventeenth anuvāka. It has twenty-five Ṛks. The ṛṣi of this sūkta is Kakṣīvān, son of Uśij. The deities are the Aśvin deities. The metre is Triṣṭubh. In the Anukramaṇikā it is said beginning with '*madhvaḥ*'. In the recitation of the Prātaranuvāka mantras, this sūkta, together with the preceding sūkta, is applied for the mantras related to the Aśvina-śastra."
+
+### Printed p. 309  (PDF 329; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**सूक्त—११७ (Sūkta 117)**
+॥ मण्डल—१ ॥ अनुवाक—१७ ॥ सूक्त—११७ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—*(small numerals; read "13, 14, 15, 16, 17" — as printed [?])* ॥
+*Number of Ṛks in the sūkta:* 25. *Ṛṣi:* Kakṣīvān Dairghatamasa Auśija. *Devatā:* the Aśvins. *Chandas:* Triṣṭubh.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.1)**
+
+> मध्वः सोमस्याश्विना मदाय प्रत्नो होता विवासते वाम् ।
+> बर्हिष्मती रातिर्विश्रिता गीरिषा यातं नासत्योप वाजैः ॥ १ ॥
+
+> *madhvaḥ somasyāśvinā madāya pratno hotā vivāsate vām |*
+> *barhiṣmatī rātirviśritā gīriṣā yātaṃ nāsatyopa vājaiḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.1)**
+
+> मध्वः । सोमस्य । अश्विना । मदाय । प्रत्नः । होता । आ ।
+> विवासते । वाम् ।
+> बर्हिष्मती । रातिः । विऽश्रिता । गीः । इषा । यातम् । नासत्या ।
+> उप । वाजैः ॥ १ ॥
+
+> *madhvaḥ | somasya | aśvinā | madāya | pratnaḥ | hotā | ā |*
+> *vivāsate | vām |*
+> *barhiṣmatī | rātiḥ | vi 'śritā | gīḥ | iṣā | yātam | nāsatyā |*
+> *upa | vājaiḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.1)** *(begun at the foot of p. 309; continues on p. 310)*
+
+> हे अश्विना मध्वो मधुना माधुर्योपेतेन सोमस्य सोमेन मदाय युवयोर्मदार्थं प्रत्नः प्रशस्यो होता होमनिष्पादको यजमानो वां
+
+> *he aśvinā madhvo madhunā mādhuryopetena somasya somena madāya yuvayormadārthaṃ pratnaḥ praśasyo hotā homaniṣpādako yajamāno vāṃ*
+
+---
+
+**Progress note:** **Sūkta 116 complete** (Ṛks 1–25, printed pp. 177–308). Sūkta 117 (*madhvaḥ somasya*, 25 Ṛks, Aśvins; Kakṣīvān) begun: introduction (p. 308), header box (p. 309), Ṛk 1 Saṃhitā, Pada and the first words of the bhāṣya (printed p. 309, PDF 329). Next: printed p. 310 (PDF 330) — rest of the Ṛk 1 bhāṣya. Pages up to PDF 370 already cropped. Open: header varga numerals `[?]`; numerals as read.
