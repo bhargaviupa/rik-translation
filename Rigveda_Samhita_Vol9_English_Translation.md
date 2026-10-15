@@ -323,4 +323,108 @@ It is not an easy task to publish the Ṛgveda Saṃhitā — most ancient, most
 
 ---
 
-**Progress note:** Front matter complete: Pīṭhike (printed i–vi, PDF 8–13) and contents table (printed vii–xiii, PDF 14–20). **Correction:** this volume holds Sūktas 113–121 (nine), not 113–130 — fixed in this file; CLAUDE.md still says 113–130 (user to edit; I was blocked from editing it). IAST not yet added to the front matter. Next: title page PDF 21 (printed 1), then Sūkta 113 from printed p. 2 (PDF 22).
+### Title page (printed p. 1, PDF 21)
+
+*(Ornament: Oṃ in a sun-disc.)*
+
+**॥ श्री गणाधिपतये नमः ॥** — *Śrī Gaṇādhipataye namaḥ* — "Salutation to Śrī Gaṇādhipati."
+
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम् ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+> *vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*
+> *yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanam ‖*
+> *yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*
+> *nirmame tamahaṃ vande vidyātīrthamaheśvaram ‖*
+> *vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*
+> *tasmātsarvaprayatnena vedameva sadā japet ‖*
+
+"I bow to Gajānana (Gaṇeśa), bowing to whom at the start of all undertakings the gods headed by Vāgīśa (Brahmā?) are fulfilled." / "I praise Vidyātīrtha-Maheśvara, whose breath is the Vedas and who from the Vedas made the whole world." / "The Veda is Śiva, Śiva is the Veda; the one who studies the Veda is Sadāśiva; therefore with all effort one should always recite the Veda alone." *(Sense mine; the third verse's first words read from the print.)*
+
+**सायणभाष्यसहिता ऋग्वेदसंहिता** — *Sāyaṇabhāṣyasahitā Ṛgvedasaṃhitā* — "The Ṛgveda Saṃhitā with Sāyaṇa's Bhāṣya." **भाग—९** (Part 9).
+**॥ प्रथमाष्टकेऽष्टमोऽध्यायः ॥** — *Prathamāṣṭake 'ṣṭamo 'dhyāyaḥ* — "In the first Aṣṭaka the eighth Adhyāya." Kannada: "The eighth Adhyāya in the first Aṣṭaka. In the first Maṇḍala, the hundred-and-thirteenth Sūkta."
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (introduction to Sūkta 113)**
+
+> इत्थं सप्तममध्यायं व्याख्यायाष्टमोऽध्यायो व्याख्यातुमारभ्यते । प्रथमे मण्डले षोडशेऽनुवाके सप्त सूक्तानि गतानि । इदमिति विंशत्यृचमष्टमं सूक्तमत्रानुक्रम्यते । इदं विंशतिरुषस्यं द्वितीयोऽर्धर्चो रात्रेरिति । ऋषिश्चास्यादिति परिभाषयानुवृत्तेरांगिरसः कुत्स ऋषिः । अनादेशपरिभाषया त्रिष्टुप् छन्दः । उषा देवता द्वितीयस्यार्धर्चस्य रात्रिरपि ॥ प्रातरनुवाक उषस्ये क्रतौ त्रैष्टुभे छन्दस्येतत्सूक्तम् । सूत्रितं च । इदं श्रेष्ठं पृथू रथ इति सूक्ते । आश्व. ४-१४ । इति । आश्विनशस्त्रे चेदं सूक्तं प्रातरनुवाकातिदेशात् ॥
+
+> *itthaṃ saptamamadhyāyaṃ vyākhyāyāṣṭamo 'dhyāyo vyākhyātumārabhyate | prathame maṇḍale ṣoḍaśe 'nuvāke sapta sūktāni gatāni | idamiti viṃśatyṛcamaṣṭamaṃ sūktamatrānukramyate | idaṃ viṃśatiruṣasyaṃ dvitīyo 'rdharco rātreriti | ṛṣiścāsyāditi paribhāṣayānuvṛtterāṃgirasaḥ kutsa ṛṣiḥ | anādeśaparibhāṣayā triṣṭup chandaḥ | uṣā devatā dvitīyasyārdharcasya rātrirapi ‖ prātaranuvāka uṣasye kratau traiṣṭubhe chandasyetatsūktam | sūtritaṃ ca | idaṃ śreṣṭhaṃ pṛthū ratha iti sūkte | āśva. 4-14 | iti | āśvinaśastre cedaṃ sūktaṃ prātaranuvākātideśāt ‖*
+
+Sense: "Having thus explained the seventh Adhyāya, the explanation of the eighth Adhyāya is begun. In the sixteenth anuvāka of the first maṇḍala seven sūktas have been gone through. Here the eighth sūkta, *idam*, of twenty Ṛks, is listed (in the Anukramaṇī): '*idaṃ viṃśatir uṣasyaṃ dvitīyo 'rdharco rātreḥ*' (twenty Ṛks, addressed to Uṣas; the second half-Ṛk to Night). By the rule 'and the ṛṣi …' (read *ṛṣiś cāsyād* [?]) the ṛṣi is, by continuation, Kutsa Āṅgirasa. By the rule of 'no assignment' the metre is Triṣṭubh. The deity is Uṣas; of the second half-Ṛk, Night also. This sūkta is used in the Uṣasya [hymns] of the Prātaranuvāka in the Triṣṭubh metre; and it is prescribed in the Sūtra: '*idaṃ śreṣṭhaṃ pṛthū ratha iti sūkte*' (Āśv. 4-14); and in the Aśvina-śastra this sūkta is used by extension from the Prātaranuvāka." *(Reading doubtful in places: *ṛṣiś cāsyād* and *uṣasye kratau* [?].)*
+
+## Sūkta 113 — *idaṃ śreṣṭhaṃ jyotiṣām* (printed pp. 2–?)
+
+### Printed p. 2  (PDF 22; header "Maṃ. 1 A. 16 Sū. 113")
+
+**Anuvāda (Kannada):** "Thus far the explanation of the meaning of the seventh Adhyāya has been given; now we begin the eighth Adhyāya. In the sixteenth anuvāka of the first maṇḍala seven sūktas have been completed. The sūkta which we now begin, *idaṃ śreṣṭhaṃ*, is the eighth sūkta; it has twenty Ṛks. In the Anukramaṇikā it is said '*idaṃ viṃśatir uṣasyaṃ dvitīyo 'rdharco rātreḥ*'. The ṛṣi of this sūkta is Kutsa, son of Aṅgiras; the metre Triṣṭubh; the deity Uṣas; the latter half of the first Ṛk is also addressed to Night. The sūkta has an application in the Prātaranuvāka mantras, for the recitation (*pathana*) at the time of the Uṣas-rite of Triṣṭubh Ṛks related to Uṣas — as shown by the Āśvalāyana Śrautasūtra in the sūtra '*idaṃ śreṣṭhaṃ pṛthū rathe iti sūkte*' (Āśv. 4-14, as printed [?]). In the Prātaranuvāka mantras this sūkta is also applied to the Aśvina-śastra mantras."
+
+**सूक्त—११३ (Sūkta 113)**
+॥ मण्डल—१ ॥ अनुवाक—१६ ॥ सूक्त—११३ ॥ — *Maṇḍala 1; Anuvāka 16; Sūkta 113.*
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—१, २, ३, ४ ॥ — *Aṣṭaka 1; Adhyāya 8; Varga 1, 2, 3, 4.*
+*Number of Ṛks in the sūkta:* 20. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā (as printed, small numerals, partly unclear [?]):* the Ṛks 3–20 Uṣas; Ṛk 1 and the second half of the Ṛks given as "Uṣas and Rātri". *Chandas:* Triṣṭubh *(printed "paṅkti"?: the box reads* chandaḥ—… *[?]; the bhāṣya says Triṣṭubh)*.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.1)**
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा ।
+> यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥ १ ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*
+> *yathā prasūtā savituḥ savāya~ evā rātryuṣase yonimāraik ‖ 1 ‖*
+
+### Printed p. 3  (PDF 23; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.1)**
+
+> इदम् । श्रेष्ठम् । ज्योतिषाम् । ज्योतिः । आ । अगात् । चित्रः । प्रऽकेतः । अजनिष्ट । विऽभ्वा ।
+> यथा । प्रऽसूता । सवितुः । सवाय । एव । रात्री । उषसे । योनिम् । अरैक् [?] ॥ १ ॥
+
+> *idam | śreṣṭham | jyotiṣām | jyotiḥ | ā | agāt | citraḥ | pra 'ketaḥ | ajaniṣṭa | vi 'bhvā |*
+> *yathā | pra 'sūtā | savituḥ | savāya | eva | rātrī | uṣase | yonim | araik [?] ‖ 1 ‖*
+
+*(Reading note after viewing the Pada: the Saṃhitā's* ārāik *appears in the Pada as a form beginning* a-r…ik*, the print reads* अरैक् *with a doubtful second letter [?]; the Saṃhitā's* savāya evā *is the Pada's* savāya | eva*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.1)**
+
+> ज्योतिषां ग्रहनक्षत्रादीनां द्योतमानानां मध्ये इदमुषोऽभिमानिनी ज्योतिः श्रेष्ठम् । प्रशस्यतमम् । अस्य कोऽतिशय इति चेत् उच्यते । नक्षत्रादिकं ज्योतिः स्वात्मानमेव प्रकाशयति नान्यत् । चन्द्रस्तु यद्यप्यन्यत्प्रकाशयति तथापि न विस्पष्टप्रकाशः । उषसं तु ज्योतिर्युगपदेव सर्वस्य जगतोऽन्धकारनिराकरणेन विशेषेण प्रकाशकम् । अतः प्रशस्ततममित्यर्थः । तादृशं ज्योतिरागात् । पूर्वस्यां दिश्यागमत् । आगते च तस्मिन् चित्रः चायनीयः प्रकेतः अन्धकारावृतस्य सर्वस्य पदार्थस्य प्रज्ञापकस्तदीयो रश्मिर्विभ्वा विभुर्व्याप्तः सन् अजनिष्ट । प्रादुरभूत् । किंच । यथा रात्रिः स्वयं सवितुः सूर्यप्रकाशात् प्रसूता उत्पन्ना । सूर्यो हस्तं गच्छन् रात्रिं जनयति । तस्मिन्नस्तमिते रात्रेरुत्पत्त्यभावात् । एवमेव रात्रिरपि उषसे सवाय उषसः उत्पत्तये तदर्थं योनिं स्थानं स्वकीयापरभागलक्षणमारैक् । अरेचितवती । कल्पितवतीत्यर्थः । यद्वा । प्रसूता रात्रिः सवितुः सूर्यस्य सवाय प्रसवाय जन्मने यथा भवति एवं रात्रिरपि उषसः उज्जन्म तदर्थं योनिं स्वापरभागलक्षणं स्थानं कृतवती । अत्र निरुक्तम् । इदं श्रेष्ठं ज्योतिषां ज्योतिरागात् चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्यैवं रात्र्युषसे योनिमरिचत् स्थानम् । नि. २-१९ । इति । श्रेष्ठम् । प्रशस्यस्य श्रः । पा. ५-३-६० । इति श्रादेशः । प्रकृत्यैकाच् । पा. ६-४-१६३ । इति प्रकृतिभावात्टेर्लोपाभावः । आगात् ।
+
+*Sense (mine):* "Among the lights — planets, stars and the like, the shining ones — this light, the deity of Uṣas, is the best (*śreṣṭha*), the most praiseworthy. If one asks what its superiority is: the light of stars etc. illuminates only itself, not anything else; the moon too, though it illuminates other things, does not give a clear light; but the light of Uṣas, at one stroke, shows up the whole world especially by removing the darkness. Hence 'most praiseworthy'. Such a light has come, in the eastern quarter. And when it has come, a wonderful (*citra*), worshipful *praketa* — her ray, which makes known every object covered by darkness, pervading (*vibhvā*) — was born, appeared. Further: as Night, being herself born from the light of Savitṛ the Sun [—the Sun, going to his setting, produces Night; when he has set, Night has no birth otherwise—] so Night also, for the birth (*savāya*) of Uṣas, has prepared (*āraik*, 'emptied, arranged') a *yoni* (place) of her own, namely her latter part. Or: as Night, when born, is for the birth of Savitṛ the Sun, so Night has made for the birth of Uṣas the place, i.e. her own latter portion." Nirukta cited: "*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāt …*" (Ni. 2-19 [?]) — a paraphrase of the Ṛk.
+
+*Grammatical tail (characterized, not transcribed):* *śreṣṭha* — the superlative-suffix *iṣṭhan* with the substitution *śra* for *praśasya* (Pā. 5-3-60), and the grammatical point that the monosyllabic stem retains its natural form so the *ṭi*-elision does not occur (Pā. 6-4-163); *āgāt* — … (continues on the next page).
+
+---
+
+### Printed p. 4  (PDF 24; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammatical tail of the bhāṣya, concluded (characterized, not transcribed; sūtra numbers partly illegible, none supplied):* *āgāt* — root *gam* in the aorist, with the *sic*-elision after *gā/sthā* type roots and the *ṭit*-ending; *ajaniṣṭa* — *jan* in the sense "to appear", aorist; *vibhvā* — *vi-sam-… bhū* with the suffix *ḍu* (Pā. 3-2-180 as cited), and the instrumental ending replaced by *ā* by "*supāṃ sulug*…" (the rule of Vedic substitution), with the note that the *yaṇ*-substitution which the prohibition "*bhūsudhiyoḥ*" would block is permitted in the Veda; *citra* — final-accent point; *praketaḥ* — from *kit*, "to know"; *prasūtā* — *sū* in the sense "to give birth", past participle (*niṣṭhā*); *savāya* — the dative of *sava* (Pā. 6-?-? [?], "*chandasi jana-sanavā vaktavyau*" as the print has it [?]); *eva* — lengthened by "*nipātasya ca*" in the Saṃhitā; *rātrī* — feminine with *ṅīp*, plural/dual ending replaced by "*rātreś cājasau*"; *āraik* — root *ric* "to empty", aorist, with the Vedic "*bahulaṃ chandasi*" elision of the stem-vowel and the lightening of the penultimate (*laghūpadha-guṇa*) not applied by the rule *ḥalaṅyābbhyaḥ…* (as printed [?]); the long *ai* (*ārāik*) obtained by the *vṛddhi* — all noted briefly.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*jyotiṣām* — among the planets, stars, etc.; *idam* — this (the Uṣas-[light]); *śreṣṭham* — most excellent; *jyotiḥ* — the mass of brilliance; *āgāt* — came up (in the eastern quarter); (it rose); *citraḥ* — wonderful; *praketaḥ* — (the rays) which make objects covered by darkness an object of sight; *vibhvā* — pervasively; *ajaniṣṭa* — was born; *rātrī* — Night; *yathā* — as; *savituḥ* — from the Sun; *prasūtā* — was born; *evā* — in the same manner (Night also); *uṣase* — for Uṣas; *savāya* — for the birth; *yonim* — the place of birth (the latter part of Night); *āraik* — prepared."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The mass of light — the most excellent among the planets, stars and the rest (namely that of Uṣas) — has risen in the eastern quarter. The wonderful rays of this Uṣas, which bring objects covered by darkness within sight, spread in all directions. Just as Night was born from the Sun, so Night makes for her own latter watch (*yāma*) a [seat] for the rising of the dawn."
+
+**English Translation (as printed)**
+
+> This most excellent luminary of all luminaries has arrived; the wonderful and diffusive manifester (of all things) has been born; in like manner as night is the offspring of the sun, so she becomes the birth-place of the dawn.
+
+### Printed p. 5  (PDF 25; header "Aṣṭaka 1, Adhyāya 8, Varga 1" [numerals small, read as printed pattern])
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**ज्योतिषां श्रेष्ठमिदं ज्योतिः — इदं ज्योतिः प्रशस्यतमम्** — the heading as printed (bold, with the Bhāṣya words "*jyotiṣāṃ grahanakṣatrādīnāṃ dyotamānānāṃ madhye uṣa-ākhyaṃ jyotiḥ praśasyatamam*"): the planets and stars shining in the atmosphere illuminate only themselves; there is no manifestation of other objects by them. Though the moon's light shows everything, objects are not well known by it. Because at Uṣas-time all things are seen plainly, the light of Uṣas is, to a very great extent, more excellent than the brilliance of the moon and the stars. Though the light of Uṣas is somewhat in the east, at that moment all the darkness in the world disappears. That is why [the commentators] explain "Uṣas's splendour is more excellent than the splendour of planets and stars" (*śreṣṭhaṃ — praśasyatamam*). The usage here "*jyotiṣāṃ jyotiḥ*" is for the sake of showing non-difference between the possessor of the property (*dharmin*, the luminary) and the property (*dharma*, the light) — a usage that occurs for this reason.
+
+**प्रकेतः** — *Praketaḥ.* In the eleven names of knowledge (*prajñā*) the word *ketuḥ* is stated (Ni. 3-9 [as printed, numerals unclear?]). By the prefix *pra*, the sense is "excellent knowledge". Skandasvāmin, because *ketu* is said in the names of knowledge, explains *praketaḥ* as *prakṛṣṭa-jñānam*, "excellent knowledge" and gives the meaning, for the word *citra*, "worshipful": at the very moment when Uṣas rises, there is a light called knowledge, excellent, which makes everything worshipful appear before the eyes; so they have said the meaning "most praiseworthy light".
+
+**यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक्** — The time after the Sun's setting is the time of Night's birth. From this it is established that Night is born from the Sun. In the same way, after the passing of the night, comes the time of Uṣas; therefore Night too is the cause of the birth of Uṣas — that is, as Night is born from the Sun, so Uṣas is born from Night: this is the intention. Or: as the rising of the Sun comes after Uṣas has risen, so that Uṣas is the cause of the rising (birth) of the Sun, so Night too is the cause of the birth of Uṣas — thus they have explained the meaning. These two meanings are the same in the two bhāṣyas (Sāyaṇa's and Skandasvāmin's).
+
+---
+
+**Progress note:** Sūkta 113: Ṛk 1 complete through the Special Topics of printed p. 5 (PDF 25) — the Special Topics may continue on p. 6. Next: printed p. 6 (PDF 26) onward. Open: sūtra numbers in the grammar tail (left unnamed), Ni. ref `[?]`, devatā-box numerals `[?]`. IAST not yet run for Sūkta 113 text.
