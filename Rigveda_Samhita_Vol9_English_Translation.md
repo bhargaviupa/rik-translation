@@ -10630,4 +10630,38 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–8 complete; Ṛk 9 through printed p. 443 (PDF 463): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar page follows (p. 444). Next: printed p. 444 (PDF 464). Numerals as read: Ṛ. 6-47-26, Ni. number on p. 443 `[as read]`.
+### Printed p. 444  (PDF 464; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Indrajūtam* — *indreṇa jūtam indrajūtam*; *jūtam*: *ju* is a *sautra* root, used in the sense of going; here, because it shows the action of a causer, it must be accepted that the causative sense is included; in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), the suffix *kta*; since it is *kit*, *guṇa* of the root does not occur; since a *tatpuruṣa* compound has been made with the third case, *tṛtīyā karmaṇi* (Pā. 6-2-48 as read), the former member keeps its natural accent. *Ahihanam* — root *han hiṃsāgatyoḥ*; in the agent sense, the suffix *ap*; since it is *pit*, the root's accent remains; in the compound, *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent. *Adattam* — root *dudāñ dāne*, *juhotyādi*; *laṅ*, second person dual; *tiṅanta nighāta* accent. *Johūtram* — root *hveñ spardhāyāṃ śabde ca*; since the sense of exceeding is meant, *dhātor eko 'c halāder kriyāsamabhihāre yaṅ* (Pā. 3-1-22 as read), when *yaṅ* has come, *yaño 'ci ca* (Pā. 2-4-74 as read), *luk* for it; the *saṃprasāraṇa* and *pūrvarūpa* on account of *yaṅ*; *sanyaṅoḥ* (Pā. 6-1-9 as read), doubling of the root; *guṇo yaṅluk oḥ* (Pā. 7-4-82 as read), *guṇa* of the reduplicative syllable; *kuhoś cuḥ*, *c*, and *jaś* [*j*]; *halaḥ* (Pā. 6-4-2 as read), lengthening of the *u* of the *saṃprasāraṇa*; to this the *auṇādika* suffix *traP*; since it is *pit*, *anudātta*, [by *anudāttau supitau*] the root's accent remains. *Aryaḥ* — the word *ari*; with the genitive singular following, *jasādiṣu chandasi vāvacanaṃ prāṅ ṇau caurajasau* [as read]; by the statement *ghe rṅiti* (Pā. 7-3-111 as read) the *guṇa* is optional, so here *guṇa* does not occur; then *yaṇ* substituted; *yaṇ* standing in the place of an *udātta*, a consonant before it, a case ending after it — *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read), the acute on the case ending. *Abhibhūtim* — root *bhū sattāyām*; "*abhibhūyate anena*" gives *abhibhūtiḥ*, in the sense of the instrument; *striyāṃ ktin* (Pā. 3-3-94 as read), the suffix *ktin*; since it is *kit*, *guṇa* of the root does not occur; since it is *tādi* (begins with *t*), and a *nit* [is] the final-accented word that follows, *tādau ca niti kṛty ataḥ* (Pā. 6-2-50 as read), the *gati* (*abhi*) keeps its natural accent.
+
+---
+
+### Printed p. 445  (PDF 465; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Sahasrasām* — root *ṣaṇu dāne*, or *ṣaṇa sambhaktau*; *janasanakhanāṃ sañjhaloḥ* (Pā. 3-2-67 as read), the suffix *viṭ*; since the root ends in a nasal, *viḍvanorānunāsikasyāt* (Pā. 6-4-41 as read), *ā* is substituted as the final; in the compound, *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent. *Vīḍvaṅgam* — *vīḷūni aṅgāni yasya saḥ vīḍvaṅgaḥ, tam*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read), the former member keeps its natural accent; since the vowel *u* was *udātta*, *yaṇ* substituted in its place, and a case ending that is *anudātta* follows, *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* (Pā. 8-2-4 as read), the *svarita* accent. ‖ 9 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.10)**
+
+> ता वां नरा स्ववसे सुजाता हवामहे अश्विना नाधमानाः ।
+> आ न उप वसुमता रथेन गिरो जुषाणा सुविताय यातम् ॥ १० ॥
+
+> *tā vāṃ narā svavase sujātā havāmahe aśvinā nādhamānāḥ |*
+> *ā na upa vasumatā rathena giro juṣāṇā suvitāya yātam ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.10)**
+
+> ता । वाम् । नरा । सु । अवसे । सुऽजाता । हवामहे । अश्विना ।
+> नाधमानाः ।
+> आ । नः । उप । वसुऽमता । रथेन । गिरः । जुषाणा । सुविताय ।
+> यातम् ॥ १० ॥
+
+> *tā | vām | narā | su | avase | su 'jātā | havāmahe | aśvinā |*
+> *nādhamānāḥ |*
+> *ā | naḥ | upa | vasu 'matā | rathena | giraḥ | juṣāṇā | suvitāya |*
+> *yātam ‖ 10 ‖*
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–9 complete; Ṛk 10 Saṃhitā and Pada written (printed p. 445, PDF 465). Next: printed p. 446 (PDF 466): Ṛk 10 bhāṣya onward, then Ṛk 11 (the last) and the colophon. Numerals as read: sūtra numbers on pp. 444–445 `[as read]`.
