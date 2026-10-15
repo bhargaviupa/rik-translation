@@ -6342,4 +6342,70 @@ these Ṛks are cited."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–15 complete (through printed p. 264, PDF 284); Ṛk 16 Saṃhitā and Pada written. Next: printed p. 265 (PDF 285) — Ṛk 16 bhāṣya… Open: numerals as read `[?]`; one Ṛk-quote (1-112-11) `[?]`.
+### Printed p. 265  (PDF 285; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.16)**
+
+> वृषागिरः पुत्र ऋज्राश्वो नाम राजर्षिः । तस्य समीपे ऽश्विनोर्वाहनभूतो रासभो वृकी भूत्वावतस्थे । स च तस्या आहारार्थमेकोत्तरशतसंख्याकान्मेषान् [?] स्वभूतानेषां शकलीकृत्य प्रददौ । ऋज्राश्वः शतमेकं च मेषानिति मन्त्रान्तरे दर्शनात् । एवं पौरामाहिते प्रवृत्तं पिता शापेन नेत्रहीनमकरोत् । तेन स्तूयमानावश्विनावस्मद्वाहननिमित्तमस्यान्धं जातमिति जानन्तौ तस्मा अक्षिणी प्रायच्छतामिति । तदेतदाह । अत्र तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । यं ऋज्राश्वः शतं शतसंख्याकान्मेषान्वृक्यै आत्मना पोषितायै वृकस्त्रियै शकलीकृत्य प्रादात् । तं चक्षदानं क्षदतेरत्तिकर्मणः शकलीकरणार्थं शकलीकृत्य दत्तवन्तमृज्राश्वं पिता शापेनान्धं दृष्टिहीनं चकार । कृतवान् । हे नासत्या सत्यस्वभावौ सत्यस्य नेतारौ वा भिषजौ देवानां वैद्यभूतौ । अश्विनौ वै देवानां भिषजौ । ऐ. ब्रा. १-१८ । इति श्रुतेः । दस्रा दर्शनीयौ वेतत्संज्ञौ वा हे अश्विनावनर्वन्ननर्वणे दृष्टव्यं प्रति पित्रृशापाद्गमनरहिते अक्षी चक्षुषी विचक्षे विविधं द्रष्टुं समर्थे तस्मै ऋज्राश्वायाधत्तं । व्यधत्तम् । अकुरुतम् । वृक्यै । वृकोरण्यश्वा । तस्य स्त्री वृकी । जातेरस्त्रीविषयाद् । पा. ४-१-६३ । इति ङीष् । जसादिषु छन्दसि वावचनमिति चतुर्ध्येकवचनस्याडभावे यञादेश उदात्तस्वरितेरोर्यणो इति परस्यानुदात्तस्य स्वरितत्वम् । चक्षदानम् । क्षदेर्लिटः कानच् । चित्स्वरः । अक्षी । ई चिद्विवचने । पा. ६-१-२२ । इति परत्वाद्दक्षशब्दस्यैकारान्तादेशः । स चोदात्तः । तस्मिन् कृते सकृद्गतौ विप्रतिषेधे । परि. ४० । इति परिभाषया पुनर्नुम्न भवति । विचक्षे । चक्षेः संपदादिलक्षणो भावे क्विप् । अनर्वन् । ऋ गतौ । अस्मादन्येभ्योऽपि दृश्यन्ते इति दृशिग्रहणस्य विध्यङ्करोपसंग्रहार्थत्वाद्वनेवनिप् । अर्व गमनं विषयं प्रत्येनयोर्नास्तीति बहुव्रीहौ नञ्स्वभ्यामित्युत्तरपदान्तोदात्तत्वम् । सुपां सुलुगिति द्विवचनस्य लुक् । छान्दसो नलोपाभावः ॥ [small type; read letter by letter; marked [?] where doubtful]
+
+> *vṛṣāgiraḥ putra ṛjrāśvo nāma rājarṣiḥ | tasya samīpe 'śvinorvāhanabhūto rāsabho vṛkī bhūtvāvatasthe | sa ca tasyā āhārārthamekottaraśatasaṃkhyākānmeṣān [?] svabhūtāneṣāṃ śakalīkṛtya pradadau | ṛjrāśvaḥ śatamekaṃ ca meṣāniti mantrāntare darśanāt | evaṃ paurāmāhite pravṛttaṃ pitā śāpena netrahīnamakarot | tena stūyamānāvaśvināvasmadvāhananimittamasyāndhaṃ jātamiti jānantau tasmā akṣiṇī prāyacchatāmiti | tadetadāha | atra tacchabdaśruteryacchabdādhyāhāraḥ | yaṃ ṛjrāśvaḥ śataṃ śatasaṃkhyākānmeṣānvṛkyai ātmanā poṣitāyai vṛkastriyai śakalīkṛtya prādāt | taṃ cakṣadānaṃ kṣadaterattikarmaṇaḥ śakalīkaraṇārthaṃ śakalīkṛtya dattavantamṛjrāśvaṃ pitā śāpenāndhaṃ dṛṣṭihīnaṃ cakāra | kṛtavān | he nāsatyā satyasvabhāvau satyasya netārau vā bhiṣajau devānāṃ vaidyabhūtau | aśvinau vai devānāṃ bhiṣajau | ai. brā. 1-18 | iti śruteḥ | dasrā darśanīyau vetatsaṃjñau vā he aśvināvanarvannanarvaṇe dṛṣṭavyaṃ prati pitrṛśāpādgamanarahite akṣī cakṣuṣī vicakṣe vividhaṃ draṣṭuṃ samarthe tasmai ṛjrāśvāyādhattaṃ | vyadhattam | akurutam | vṛkyai | vṛkoraṇyaśvā | tasya strī vṛkī | jāterastrīviṣayād | pā. 4-1-63 | iti ṅīṣ | jasādiṣu chandasi vāvacanamiti caturdhyekavacanasyāḍabhāve yañādeśa udāttasvariteroryaṇo iti parasyānudāttasya svaritatvam | cakṣadānam | kṣaderliṭaḥ kānac | citsvaraḥ | akṣī | ī cidvivacane | pā. 6-1-22 | iti paratvāddakṣaśabdasyaikārāntādeśaḥ | sa codāttaḥ | tasmin kṛte sakṛdgatau vipratiṣedhe | pari. 40 | iti paribhāṣayā punarnumna bhavati | vicakṣe | cakṣeḥ saṃpadādilakṣaṇo bhāve kvip | anarvan | ṛ gatau | asmādanyebhyo 'pi dṛśyante iti dṛśigrahaṇasya vidhyaṅkaropasaṃgrahārthatvādvanevanip | arva gamanaṃ viṣayaṃ pratyenayornāstīti bahuvrīhau nañsvabhyāmityuttarapadāntodāttatvam | supāṃ sulugiti dvivacanasya luk | chāndaso nalopābhāvaḥ ‖ [small type; read letter by letter; marked [?] where doubtful]*
+
+*Sense (mine):* "Ṛjrāśva was a royal sage, son of Vṛṣāgiri. Near him the Aśvins' vehicle, the ass, stood in the form of a she-wolf. And he, for her food, cut up and gave 101 of his own sheep — as another mantra shows: '*ṛjrāśvaḥ śatam ekaṃ ca meṣān*'. His father, [displeased by this deed], made him blind by a curse. The Aśvins, being praised by him, knowing that 'he became blind because of our vehicle', gave him eyes. This is what is said. Here, because the word *tat* is heard, a *yat* is to be supplied: that *Ṛjrāśva* who gave a hundred sheep, cut up in pieces, to the she-wolf *vṛkyai* that he had himself fed — him, *cakṣadānam* — *kṣad* is a verb of eating — who, to cut them up, cut into pieces and gave: his father by a curse made blind, devoid of sight. O Nāsatyas, of true nature, leaders of truth, physicians, healers of the gods — ‘the Aśvins are indeed physicians of the gods’ (Ai. Br. 1-18 as read [?]) — O Dasras, beautiful ones (or so named), *anarvan* — for the sake of him who could not move for seeing, because of the father's curse — *akṣī*, the two eyes, *vicakṣe*, able to see in various ways, *ā adhattam*, you placed for that Ṛjrāśva."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*yaḥ* — which Ṛjrāśva); *śatam* — a hundred; *meṣān* — sheep; *vṛkyai* — to the she-wolf (he gave); *tam* — that; *cakṣadānam* — one who cut and gave; *ṛjrāśvam* — Ṛjrāśva; *pitā* — his father; *andham* — blind (by curse, deprived of sight); *cakāra* — made; *nāsatyā* — of true nature; *bhiṣajau* — physicians (of the gods); *dasrā* — O beautiful Aśvin deities (you two) — for Ṛjrāśva; *anarvan* — (because of blindness) devoid of power to move toward objects (that had to be seen)
+
+### Printed p. 266  (PDF 286; header "Maṃ. 1 A. 17 Sū. 116")
+
+— (who had been); *akṣī* — both eyes; *tasmai* — to that Ṛjrāśva; *vicakṣe* — (so as to be) seeing; *ādhattam* — you made."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The ass, the vehicle of the Aśvin deities, was near Ṛjrāśva in the form of a she-wolf. For her food, that Ṛjrāśva cut up a hundred sheep and gave them to that she-wolf. His father, angered by this, cursed Ṛjrāśva and made him blind. You, of true nature, physicians of the deities, beautiful ones, made the eyes of Ṛjrāśva — who, being blind, was unable to go towards things — capable of sight."
+
+**English Translation (as printed)**
+
+> When his father caused Rijrashwa, as he was giving to a she-wolf a hundred sheep cut up in pieces, to become blind, you, Dasras, physicians (of the gods), gave him eyes (that had been) unable to find their way, with which he might see.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**शतं मेषान् वृक्ये** — *Śataṃ meṣān vṛkye* — "*ātmanā poṣitāyai vṛkastriyai śakalīkṛtya prādāt*": "a royal sage named Ṛjrāśva, son of the king named Vṛṣāgiri; the vehicle of the Aśvin deities, an ass, was near him in the form of a she-wolf. To feed it, Ṛjrāśva cut up a hundred sheep and used them. These sheep belonged to the subjects; but as the prince did this without their consent, since it was unfavourable to the people, the father of Ṛjrāśva, in his displeasure, cursed him, to become blind. By the father's curse Ṛjrāśva's eyes went. Then he praised the Aśvin deities. They, knowing that he had become blind because of their vehicle, made his eyes come as before and gave him the power of sight: such is the Itihāsa told in this Ṛk. The same Itihāsa [is told] in —
+
+> शतं मेषान्वृक्ये मामहानं तमः प्रणीतमृषिणा पित्रा ।
+> अक्षी ऋज्राश्वे अश्विनावधत्तं ज्योतिरन्धाय चक्रथुर्विचक्षे ॥
+> (ऋ. सं. १-११२-१६ [as read; the words and the number as printed here, with its first pāda reading *mamahānam*… [?]])
+
+> *śataṃ meṣānvṛkye māmahānaṃ tamaḥ praṇītamṛṣiṇā pitrā |*
+> *akṣī ṛjrāśve aśvināvadhattaṃ jyotirandhāya cakrathurvicakṣe ‖*
+> *(ṛ. saṃ. 1-112-16 [as read; the words and the number as printed here, with its first pāda reading *mamahānam*… [?]])*
+
+### Printed p. 267  (PDF 287; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> शुनमन्धाय भरमह्वयत्सा वृकीरश्विना वृषणा नरेति ।
+> जारः कनीन इव चक्षदान ऋज्राश्वः शतमेकं च मेषान् ॥
+> (ऋ. सं. १-११६-१८ [as read])
+
+> *śunamandhāya bharamahvayatsā vṛkīraśvinā vṛṣaṇā nareti |*
+> *jāraḥ kanīna iva cakṣadāna ṛjrāśvaḥ śatamekaṃ ca meṣān ‖*
+> *(ṛ. saṃ. 1-116-18 [as read])*
+
+— it is related in these Ṛks. Here the "*śataṃ meṣān*" — a hundred sheep — is stated; and in the mantra beginning *śunam andhāya* it is stated '*śatam ekaṃ ca meṣān*' [a hundred and one sheep]. Skandasvāmin too tells this Itihāsa in his bhāṣya in the same way. The name of this Ṛjrāśva is found in Ṛ. Saṃ. 1-100-17 [as read], where Indra is said to have favoured him; and in Ṛ. Saṃ. 1-100-16 [as read] this Ṛjrāśva is said to be one of those who are Ambarīṣa, Sahadeva, Bhayamāna, Surādhas and Ṛjrāśva, sons of the king named Vṛṣāgir. His name is not mentioned again in the Ṛgveda."
+
+**चक्षदानम्** — *Cakṣadānam* — "*kṣadatir attikarmā*": "*kṣad* is a verb of eating; here, in the sense of cutting into pieces (*śakalīkaraṇa*): 'having cut into pieces and given'. The root *kṣad* has the meaning *bhakṣaṇa* 'eating'; here it is used in the sense 'make into small pieces'; the meaning is 'cutting into little pieces or bits and giving'."
+
+**नासत्या** — *Nāsatyā* — "of true nature, or leaders of truth, or those who take [a man] along the true path: the meaning of this word has been explained in the first Ṛk of this very sūkta."
+
+**भिषजा** — *Bhiṣajā* — "*devānāṃ vaidyau*": "*aśvinau vai devānāṃ bhiṣajau* (Ai. Br. 1-18 as read [?]; Tai. Saṃ. 2-?-?-? [?]) — thus the *śruti*: the physicians of the gods are the Aśvin deities, as stated in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā."
+
+**दस्रा** — *Dasrā* — "*darśanīyau vaitatsaṃjñau vā*": "the name *dasra* is well known for the Aśvin deities; or the meaning 'having a beautiful form' may also be given for *dasra*."
+
+**अनर्वन्** — *Anarvan* — "*anarvaṇe draṣṭavyaṃ prati pitṛśāpād gamanarahite*": "in respect of what should be seen, because of the father's curse, there is no movement of sight. Skandasvāmin for this word —
+
+> अर्तेर्गत्यर्थस्येदं रूपम् । अर्वन्तं प्रत्याश्रितता या न गतः सोऽनर्वा । अनर्वणि अनन्याश्रिते स्वायत्ते । पित्रा शापेनासेतुमन्धकम् इत्यर्थः ॥
+
+> *artergatyarthasyedaṃ rūpam | arvantaṃ pratyāśritatā yā na gataḥ so 'narvā | anarvaṇi ananyāśrite svāyatte | pitrā śāpenāsetumandhakam ityarthaḥ ‖*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–15 complete; Ṛk 16 through printed p. 267 (PDF 287): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*śataṃ meṣān vṛkye*, *cakṣadānam*, *nāsatyā*, *bhiṣajā*, *dasrā*, *anarvan* begun; continues p. 268). Next: printed p. 268 (PDF 288). Open: numerals as read `[?]`; Skandasvāmin small type `[?]`.
