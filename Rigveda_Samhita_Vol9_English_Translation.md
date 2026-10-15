@@ -9441,4 +9441,50 @@ In explaining this Ṛk, Sāyaṇa quotes:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–19 complete; Ṛk 20 through printed p. 393 (PDF 413): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 394). Next: printed p. 394 (PDF 414). Numerals as read (list stops at printed p. 380): Ṛ. 1-116-22.
+### Printed p. 394  (PDF 414; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 20, continued)*
+
+*Purumitrasya* — *puruṇi mitrāṇi yasya*: "[Sāyaṇa] explains the meaning as 'one who has many friends (people of affection)'; or, he explains, it is the name of a certain king, Purumitra."
+
+*Vimadāya* — *vimadasaṃjñāya ṛṣaye śatrubhiḥ saha yoddhum aśakyāya*: "A ṛṣi named Vimada, seeing that his wife had been carried off by the asuras and that he himself was unable to fight the enemies, was helped by the Aśvins, who brought her back and left her at Vimada's house. In the same way they helped the king named Purumitra and protected his daughter. The same idea is stated in Skandasvāmin's explanation":
+
+> यावर्भगाय विमदाय जायां सेनाजुवा न्यूहथू रथेन ।
+> (ऋ. सं. १-११६-१ [as read])
+
+> *yāvarbhagāya vimadāya jāyāṃ senājuvā nyūhathū rathena |*
+> *(ṛ. saṃ. 1-116-1 [as read])*
+
+"In this Ṛk only the matter of the protection of Vimada is told."
+
+*Śacībhiḥ* — *ātmīyaiḥ karmabhiḥ*: "The word *śacī* is stated among the fifty-one names of speech (Ni. 1-11 [as read]), among the twenty-six names of action (Ni. 2-1 [as read]), and among the fourteen names of knowledge (Ni. 3-9 [as read]) [as read; numerals doubtful [?]]. Since this word has many meanings, here Sāyaṇa quotes:
+
+> विश्वमेको अभि चष्टे शचीभिर्भ्राजिरेकस्य ददृशे न रूपम् ।
+> (ऋ. सं. १-१६४-४४ [as read])
+
+> *viśvameko abhi caṣṭe śacībhirbhrājirekasya dadṛśe na rūpam |*
+> *(ṛ. saṃ. 1-164-44 [as read])*
+
+in which, as the Nirukta author has quoted it, *śacībhiḥ* is explained as *karmabhiḥ* — 'by deeds'; so here, too, the meaning for the word *śacī* is given as 'action'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 20; grammar pages, noted briefly)**
+
+*Dasrā* — *supāṃ sulug*, *ā* for the dual; *nighāta* accent for an *āmantrita*. *Staryam* — root *stṛñ ācchādane*; *avitṛstṛtantribhya īḥ* (Uṇ. sū. 4-158 as read [?]), the suffix *ī*; on that account *guṇa* for the root's *ṛ*-vowel; the word *starī*; when *am* follows, *vā chandasi* (as read) — the former *savarṇa* [*dīrgha*] being optional, here it does not occur; *yaṇ* substituted; the *udātta* standing in the place of the semivowel [?]; *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* (Pā. 8-2-4 as read), the *svarita* accent.
+
+---
+
+### Printed p. 395  (PDF 415; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Viṣaktām* — root *ṣañja saṅge*; in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), suffix *kta*; *anidītāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24 as read), elision of the penultimate nasal; *coḥ kuḥ* (Pā. 8-2-30 as read), *ku* for the *j* when *kta* follows; *khari ca* (Pā. 8-4-55 as read), *k*; *gatir anantaraḥ* (Pā. 6-2-49), the *gati* (*vi*) keeps its natural accent; in the feminine *ṭāp*, since it ends in *a*. *Apinvatam* — root *pivi secane*; *idito num dhātoḥ* (Pā. 7-1-58 as read), *num*; since it belongs to the *bhvādi* group [and is *pit*], *laṅ*, second person dual; *śap* vikaraṇa; the augment *aṭ*; because it stands at the beginning of a pāda the *nighāta* does not occur; because *aṭ* is *udātta*, the initial acute. *Vimadāya* — root *madī harṣaglepanayoḥ*; since it belongs to the *pacādi* group, suffix *ac*; in the compound the *kṛdanta* hind-part keeps its natural accent; dative singular form. *Purumitrasya* — *puruṇi (bahūni) mitrāṇi yasya saḥ purumitraḥ*; *saṃjñāyāṃ mitrājinayoḥ* (Pā. 6-2-165 as read), in the *bahuvrīhi* compound the last member gets the final acute. *Ūhathuḥ* — root *vaha prāpaṇe*; *liṭ*, second person dual; *tiṅanta nighāta* accent. ‖ 20 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.21)**
+
+> युवं वृकेणाश्विना वपन्तेषं दुहन्ता मनुषाय दस्रा ।
+> अभि दस्युं बकुरेणा धमन्तोरु ज्योतिश्चक्रथुरार्याय ॥ २१ ॥
+
+> *yuvaṃ vṛkeṇāśvinā vapanteṣaṃ duhantā manuṣāya dasrā |*
+> *abhi dasyuṃ bakureṇā dhamantoru jyotiścakrathurāryāya ‖ 21 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–20 complete; Ṛk 21 Saṃhitā written (printed p. 395, PDF 415). Next: printed p. 396 (PDF 416): Ṛk 21 Pada onward. Numerals as read (list stops at printed p. 380): Ṛ. 1-116-1, 1-164-44; Ni. numbers and Uṇ./Pā. numbers on pp. 394–395 `[as read]`.
