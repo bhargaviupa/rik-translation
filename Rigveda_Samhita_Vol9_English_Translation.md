@@ -7579,4 +7579,82 @@ in this Ṛk Yāska explains *pratna* as 'ancient', so Sāyaṇa explains it as 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛk 1 complete; Ṛk 2 Special Topics written through printed p. 317 (PDF 337) (*aśvinā* with Yāska's views on who the Aśvins are; *vartiḥ*); the grammar page of Ṛk 2 and Ṛk 3 follow. Next: printed p. 318 (PDF 338). Pages up to PDF 370 are cropped in the scratchpad (recrop if lost). Open: Nirukta quotations (12-1) in small type `[?]`; Ṛ. numerals as read; the Nirukta reading of pp. 315–316 is paraphrased rather than word-for-word.
+### Printed p. 318  (PDF 338; header "Maṃ. 1 A. 17 Sū. 117")  [Special Topics of Ṛk 2, concluded]
+
+*(Yāska's examples for* vartiḥ*, Ni. 6-30 as read [?]:)*
+
+> तिरश्चिद्र्यो अर्यो परि वर्तिर्यातमदाभ्या माध्वी ममु श्रुतं हवम् ।
+> (ऋ. सं. ५-७५-? [as read; small type, doubtful [?]])
+
+> *tiraścidryo aryo pari vartiryātamadābhyā mādhvī mamu śrutaṃ havam |*
+> *(ṛ. saṃ. 5-75-? [as read; small type, doubtful [?]])*
+>
+> अभीदु शक्रः परशुर्यथा वनं पात्रेव भिन्दन्त्सत एति रक्षसः ।
+> (ऋ. सं. ६-१०१-?? [as read; doubtful [?]])
+
+> *abhīdu śakraḥ paraśuryathā vanaṃ pātreva bhindantsata eti rakṣasaḥ |*
+> *(ṛ. saṃ. 6-101-?? [as read; doubtful [?]])*
+
+"…so Yāska gives these as examples (Ni. 6-30 as read [?]). The word *vartiḥ*, combined with the prefix, he explains in the commentary: 'turning back, having made a turning-round, come with your chariot'; here *vartiḥ* is used as an adverbial qualifier of the action. Skandasvāmin explains *vartiḥ* as '*vartanyā mārgeṇa*', 'by the road, by the path'."
+
+**दुरोणम्** — *Duroṇam* — "*devayajanalakṣaṇaṃ gṛham*": "the house in the form of a sacrificial place for the gods, the house in which sacrifice is performed for the deities: the sacrificial hall. The word *duroṇa* is stated among the twenty-two [as read] names of house (Ni. 3-?? as read [?])."
+
+**विशः** — *Viśaḥ* — "*prajāḥ*: 'subjects'. The word is stated among the names of man (Ni. 2-?? as read [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly)**
+
+*aśvinā* (*supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the vocative dual ending; nighāta by *āmantritasya ca*); *javīyān* (*javaḥ asyāsti iti javān*; *tad asyāsty asmin*, Pā. 5-2-94 as read [?], *matup*; to it, in the comparative sense, *dvivacanavibhajyopapade tarabīyasunau*, Pā. 5-3-57 as read [?], *īyasun*; since this is later, *vinmator luk*, Pā. 5-3-65 as read [?], *luk* for *matup*; *ṭer*, Pā. 6-4-155 as read [?], elision of the *ṭi* [*a*]; *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent; in the nominative with *su* following, *ataḥ*… *upadhādīrgha*; *num*, as *ugit*); *jigāti* (*gā* "to praise", juhotyādi — read in the group of verbs of going, so here used in the sense of going; *laṭ* 3rd singular *tip*; *śluḥ* as *vikaraṇa*; *ślau*, Pā. 6-1-10 as read [?], doubling; *kuhoś cuḥ*, Pā. 7-4-62 as read [?], *j* for the reduplication; *bahulaṃ chandasi*, Pā. 7-4-78 as read [?], *i* for the reduplication; because *yaḥ* is connected, no nighāta since *yadvṛttān nityam*, Pā. 8-1-66 as read [?]; *abhyastānām ādiḥ*, Pā. 6-1-189 as read [?], first-syllable accent).
+
+### Printed p. 319  (PDF 339; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 2, concluded:* *gacchathaḥ* (*gam* "to go"; *laṭ* 2nd dual *thas*; *iṣugamiyamāṃ chaḥ*, Pā. 7-3-77 as read [?], *ccha* for the root; since *yat*-connection, no nighāta; *tāsyanudāttet…*, Pā. 6-1-186 as read [?], the *sārvadhātuka* is unaccented, so the root accent remains); *yātam* (*yā* "to go"; *loṭ* 2nd dual; nighāta after an accented word). ‖ 2 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.3)**
+
+> ऋषिं नरावंहसः पाञ्चजन्यमृबीसादत्रिं मुञ्चथो गणेन ।
+> मिनन्ता दस्योरशिवस्य माया अनुपूर्वं वृषणा चोदयन्ता ॥ ३ ॥
+
+> *ṛṣiṃ narāvaṃhasaḥ pāñcajanyamṛbīsādatriṃ muñcatho gaṇena |*
+> *minantā dasyoraśivasya māyā anupūrvaṃ vṛṣaṇā codayantā ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.3)**
+
+> ऋषिम् । नरौ । अंहसः । पाञ्चऽजन्यम् । ऋबीसात् । अत्रिम् ।
+> मुञ्चथः । गणेन ।
+> मिनन्ता । दस्योः । अशिवस्य । मायाः । अनुऽपूर्वम् । वृषणा ।
+> चोदयन्ता ॥ ३ ॥
+
+> *ṛṣim | narau | aṃhasaḥ | pāñca 'janyam | ṛbīsāt | atrim |*
+> *muñcathaḥ | gaṇena |*
+> *minantā | dasyoḥ | aśivasya | māyāḥ | anu 'pūrvam | vṛṣaṇā |*
+> *codayantā ‖ 3 ‖*
+
+### Printed p. 320  (PDF 340; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.3)**
+
+> हिमेनाग्निम् । ऋ. सं. १-११६-८ । इत्यनयोक्तो विवार्थः पुनः प्रकारान्तरेणानया प्रतिपाद्यते । अतस्तत्रोक्तं सर्वमत्रापि द्रष्टव्यम् । अक्षरार्थस्तु । हे नरौ नेतारौ वृषणौ कामानां वर्षितारावश्विनौ पाञ्चजन्यम् । निषादपञ्चमाश्चत्वारो वर्णाः पञ्च जनाः । तेषु भवं स्वभार्यानुना गृहीतमेतमृषिमत्रिं सूर्यं मोचयेत्यन्त्रि [?] सर्वेषां हिताचरणात्रात्र भव इत्युच्यते । तादृशमृषिमंहसः पापरूपाद्ऋबीसाच्छतद्वारे यन्त्रगृहे [?] त्रेः पीडार्थमसुरैः प्रक्षिप्तात्तुषाग्नेः सकाशाद्गणेनेन्द्रियवर्गेण पुत्रपौत्रादिगणेन वा सह मुञ्चथः । अमोचयतम् । किं कुर्वन्तौ । मिनन्ता शत्रून्हिंसन्तौ दस्योरुपक्षपयितुरशिवस्य दुःखकारिणोऽसुरस्य सम्बन्धिनीस्तस्मिन्न्नेत्रे प्रयुक्ता मायाश्चानुपूर्वमानुपूर्व्येण चोदयन्तौ प्रेरयन्तौ निवारयन्तौ ॥ पाञ्चजन्यम् । बहिर्देवपञ्चजनेभ्यश्चेति वक्तव्यम् । का. ४-३-६४-१ । इति भवार्थे ञ्यः । मिनन्ता । मीञ् हिंसायाम् । क्र्यादिकः । लटः शतृ । मीनातेर्निगम इति ह्रस्वत्वम् ॥ [small type; partly doubtful [?]]
+
+> *himenāgnim | ṛ. saṃ. 1-116-8 | ityanayokto vivārthaḥ punaḥ prakārāntareṇānayā pratipādyate | atastatroktaṃ sarvamatrāpi draṣṭavyam | akṣarārthastu | he narau netārau vṛṣaṇau kāmānāṃ varṣitārāvaśvinau pāñcajanyam | niṣādapañcamāścatvāro varṇāḥ pañca janāḥ | teṣu bhavaṃ svabhāryānunā gṛhītametamṛṣimatriṃ sūryaṃ mocayetyantri [?] sarveṣāṃ hitācaraṇātrātra bhava ityucyate | tādṛśamṛṣimaṃhasaḥ pāparūpādṛbīsācchatadvāre yantragṛhe [?] treḥ pīḍārthamasuraiḥ prakṣiptāttuṣāgneḥ sakāśādgaṇenendriyavargeṇa putrapautrādigaṇena vā saha muñcathaḥ | amocayatam | kiṃ kurvantau | minantā śatrūnhiṃsantau dasyorupakṣapayituraśivasya duḥkhakāriṇo 'surasya sambandhinīstasminnnetre prayuktā māyāścānupūrvamānupūrvyeṇa codayantau prerayantau nivārayantau ‖ pāñcajanyam | bahirdevapañcajanebhyaśceti vaktavyam | kā. 4-3-64-1 | iti bhavārthe ñyaḥ | minantā | mīñ hiṃsāyām | kryādikaḥ | laṭaḥ śatṛ | mīnāternigama iti hrasvatvam ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "The matter stated by *himenāgnim* (Ṛ. 1-116-8) is here set forth in another way; therefore whatever was said there is to be understood here too. The literal sense: O leaders, O *vṛṣaṇā*, showerers of desires, Aśvins — *pāñcajanyam*: the four castes with the Niṣādas as the fifth are the *pañca janāḥ*; he who is among them [Atri], seized by his own [fire] — the ṛṣi Atri, who works the good of all, is therefore said to be 'born among them [all]' — such a ṛṣi you released from *aṃhasaḥ*, from the sin-like *ṛbīsa* [the dark pit], from the fire of husks thrown by the Asuras to torment Atri, in the hundred-doored torture-house, *gaṇena* — together with the group of his senses, or with the group of sons and grandsons. Doing what? *Minantā* — destroying enemies; *dasyoḥ aśivasya māyāḥ* — the devices applied to him by the Asura, the harmful one, the pain-giver; *anupūrvam* — in due order, driving off, [you] restraining them."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he narau* — O leader Aśvin deities; *vṛṣaṇā* — [you] who grant desired objects; *pāñcajanyam* — one connected with the five classes of men; *atrim ṛṣim* — the ṛṣi Atri; *aṃhasaḥ* — from the sin-like; *ṛbīsāt* — from the machine-house (from the fire thrown into the machine-house); *gaṇena* — together with his group of senses (sons and grandsons); *minantā* — destroying enemies; *dasyoḥ* — of the destroyer; *aśivasya* — of the pain-causing [Asura]; *māyāḥ* — the devices (employed against Atri); *anupūrvam* — completely; *codayantā* — [you] restraining; *muñcathaḥ* — you released."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O leader Aśvin deities, granters of desires: you released the ṛṣi Atri, connected with the five classes of men, from the sinful machine-house (from the fire thrown by the Asuras), with his senses unimpaired (together with his sons and grandsons); and you wholly destroyed the devices of those Asuras, who are destroyers and causers of pain."
+
+**English Translation (as printed)**
+
+> 3. You liberated, leaders (of rites), the sage Atri, who was venerated by the five classes of men, from the wicked prison, together with his troop (of children), destroying his enemies and baffling, showerers (of benefits), the devices of the malignant Dasyus.
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–2 complete; Ṛk 3 through the printed English on p. 320 (PDF 340): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 321 (PDF 341) — Ṛk 3 Special Topics and grammar. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
