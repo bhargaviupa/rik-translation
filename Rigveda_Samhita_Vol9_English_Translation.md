@@ -9759,4 +9759,66 @@ in this Ṛk the Nirukta author, [explaining] *medhāvī kaviḥ krāntadarśano
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–23 complete (printed p. 407, PDF 427). Next: printed p. 408 (PDF 428): Ṛk 24 (check whether the printed text has Ṛks 24 and 25 — the contents list gives 25). Numerals as read (list stops at printed p. 380): Ṛ. 5-81-2; Ni. numbers and sūtra numbers on pp. 406–407 `[as read]`.
+### Printed p. 408  (PDF 428; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.24)**
+
+> हिरण्यहस्तमश्विना रराणा पुत्रं नरा वध्रिमत्या अदत्तम् ।
+> त्रिधा ह श्यावमश्विना विकस्तमुज्जीवस ऐरयतं सुदानू ॥ २४ ॥
+
+> *hiraṇyahastamaśvinā rarāṇā putraṃ narā vadhrimatyā adattam |*
+> *tridhā ha śyāvamaśvinā vikastamujjīvasa airayataṃ sudānū ‖ 24 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.24)**
+
+> हिरण्यऽहस्तम् । अश्विना । रराणा । पुत्रम् । नरा । वध्रिऽमत्याः ।
+> अदत्तम् ।
+> त्रिधा । ह । श्यावम् । अश्विना । विऽकस्तम् । उत् । जीवसे ।
+> ऐरयतम् । सुदानू इति सुऽदानू ॥ २४ ॥
+
+> *hiraṇya 'hastam | aśvinā | rarāṇā | putram | narā | vadhri 'matyāḥ |*
+> *adattam |*
+> *tridhā | ha | śyāvam | aśvinā | vi 'kastam | ut | jīvase |*
+> *airayatam | sudānū iti su 'dānū ‖ 24 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.24)** *(small type; read with some doubts)*
+
+> रराणा रममाणौ दातारौ वा नरा नेतारौ हे अश्विनौ हिरण्यहस्तं नाम पुत्रं वध्रिमत्याः एतत्संज्ञायै ब्रह्मवादिन्यै अदत्तम् । प्रायच्छतम् ह । अपि च हे सुदानू शोभनदानावश्विनौ त्रिधा त्रेधा विकस्तं विच्छिन्नं श्यावाख्यमृषिं जीवसे जीवितुमुदैरयतम् । असुरैस्त्रेधा खण्डितं शरीरं पुनरेकीकृत्योदगमयतमित्यर्थः ॥ [grammar tail: *rarāṇā* (*rā dāne*, *śānac*, *bahulaṃ chandasi*, *śapaḥ ślu*, *vyatyayena makārasyātvam*, *rāter vā vyatyayena śānac*), *vadhrimatyāḥ* (*caturthyarthe bahulaṃ chandasi ṣaṣṭhī*), *jīvase* (*jīva prāṇadhāraṇe*; *tumarthe se-sen-ase…* suffix *ase*) — characterized, not transcribed]
+
+> *rarāṇā ramamāṇau dātārau vā narā netārau he aśvinau hiraṇyahastaṃ nāma putraṃ vadhrimatyāḥ etatsaṃjñāyai brahmavādinyai adattam | prāyacchatam ha | api ca he sudānū śobhanadānāvaśvinau tridhā tredhā vikastaṃ vicchinnaṃ śyāvākhyamṛṣiṃ jīvase jīvitumudairayatam | asuraistredhā khaṇḍitaṃ śarīraṃ punarekīkṛtyodagamayatamityarthaḥ ‖ [grammar tail: *rarāṇā* (*rā dāne*, *śānac*, *bahulaṃ chandasi*, *śapaḥ ślu*, *vyatyayena makārasyātvam*, *rāter vā vyatyayena śānac*), *vadhrimatyāḥ* (*caturthyarthe bahulaṃ chandasi ṣaṣṭhī*), *jīvase* (*jīva prāṇadhāraṇe*; *tumarthe se-sen-ase…* suffix *ase*) — characterized, not transcribed]*
+
+*Sense (mine):* "*Rarāṇā* — rejoicing, or giving; *narā* — leaders; O Aśvins, to *vadhrimatyāḥ* — the *brahmavādinī* of that name — you gave a son called Hiraṇyahasta; and, O *sudānū* — fine givers, Aśvins, *tridhā* — in three parts — *vikastam* — cut up, the ṛṣi called Śyāva, you raised up, to live (*jīvase*) — that is, you made the body, which the asuras had cut into three parts, one again and raised him."
+
+---
+
+### Printed p. 409  (PDF 429; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.24)** (Kannada, rendered)
+
+*Rarāṇā* — givers (or: those fond of play); *narā aśvinā* — O leaders, O Aśvins; *hiraṇyahastam* — [one called] Hiraṇyahasta; *putram* — a son; *vadhrimatyāḥ* — to the woman Vadhrimatī; *adattam ha* — you gave (and); *sudānū aśvinā* — O Aśvins who give excellently; *tridhā* — in three parts; *vikastam* — cut up; *śyāvam* — the ṛṣi named Śyāva; *jīvase* — (again) so that he might live; *ut airayatam* — (joining the three pieces) you roused.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.24)** (Kannada, rendered)
+
+"O Aśvins who are givers [or: fond of play] and leaders! To Vadhrimatī you graciously gave a son called Hiraṇyahasta; and (in your generosity) you made Śyāva, who had been cut into three, join [together] again and live."
+
+**English Translation (as printed)**
+
+"Liberal Aswins, leaders (of sacrifices), you gave to Vadhrimathi her son Hiranyahasta; bounteous Aswins, you restored to life the triply-mutilated Syava."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 24)**
+
+"In Sāyaṇa's explanation: the woman Vadhrimatī was given by the Aśvins a son named Hiraṇyahasta. *Hiraṇyahasta* means — *hiraṇyayau hastau yasya saḥ hiraṇyahastaḥ*: because the hands (arms) wear ornaments of gold, the arm is called *hiraṇyahasta*; Skandasvāmin's explanation: 'the son with golden-formed hands'."
+
+*Vadhrimatyāḥ* — "Sāyaṇa explains that the genitive (*ṣaṣṭhī*) has come in the sense of the dative (*caturthī*). Skandasvāmin gives the word as *vadhrimatyai adhattam*, taking it in the dative case itself, and explains it so. And the gift of Hiraṇyahasta is stated in the Ṛk:
+
+> श्रुतं तच्छासुरिव वध्रिमत्या हिरण्यहस्तमश्विनावदत्तम् ।
+> (ऋ. सं. १-११६-१३)
+
+> *śrutaṃ tacchāsuriva vadhrimatyā hiraṇyahastamaśvināvadattam |*
+> *(ṛ. saṃ. 1-116-13)*
+
+— as that is set forth in this Ṛk."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–23 complete; Ṛk 24 through printed p. 409 (PDF 429): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to the *vadhrimatyāḥ* quotation) done; further Special Topics and grammar follow (p. 410). Next: printed p. 410 (PDF 430). Numerals: Ṛ. 1-116-13 as read.
