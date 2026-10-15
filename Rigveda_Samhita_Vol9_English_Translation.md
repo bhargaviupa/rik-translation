@@ -12399,4 +12399,44 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–6 complete; Ṛk 7 through printed p. 521 (PDF 541): all parts done except the end of its grammar (*nirataṃsatam* etc.; continues p. 522). Next: printed p. 522 (PDF 542). Numerals as read (no numeral list covers these pages): Ni. 1-31, 6-11, 2-19, 5-31, 6-26 `[as read]` and sūtra numbers on pp. 520–521 `[as read]`.
+### Printed p. 522  (PDF 542; header "Maṃ. 1 A. 17 Sū. 120")
+
+*Grammar of Ṛk 7, concluded (noted briefly; sūtra numbers as read):* *Nirataṃsatam* (continued) — since it is *udātta* [the augment *aṭ*], it has the initial acute; since it stands after *udātta* at the end of a finite verb, *tiṅo gotrādīni* … [as read: *tiṅ ca udāttavati* (Pā. 8-1-71 as read)], the *nighāta* accent for the *gati* (*nir*). *Tā* — *supāṃ sulug* (Pā. 7-1-39 as read), *ā* for the case ending. *Sugopā* — root *gupū rakṣaṇe*; since it is in the *pacādi* group, the suffix *ac*; *pugantalaghūpadhasya ca*, *guṇa* of the root's light penultimate; as before, *ā* for the case ending; the final acute. *Syātam* — root *asa bhuvi*; *vidhiliṅ*, second person dual, *tam* substituted; *śnasor allopaḥ* (Pā. 6-4-111 as read), elision of the *a* of the root; *nighāta* accent. *Pātam* — root *pā rakṣaṇe*, *adādi*; *loṭ*, second person dual; since *tiṅ atiṅaḥ* (Pā. 8-1-28 as read), the [rule says] *atiṅaḥ* is a prohibition [? as printed], and since it comes after a finite verb, the *nighāta* does not occur; by the suffix's accent the final acute. *Aghāyoḥ* — when "*agham pareṣām icchati*" is meant, by the statement *chandasi pareccāyām api* [as read], the suffix *kyac* also in the sense of "wishing for others"; *aśvāghasyāt* (Pā. 7-4-37 as read), *ā* for the *a* before *kyac*; the *kyac*-final *aghāya* gets the *dhātu* name; *kyāc chandasi* (Pā. 3-2-170 as read), the suffix *u* after it; *ato lopaḥ* (Pā. 6-4-48 as read), elision of the *a* of *kyac*; by the suffix's accent the final acute; fifth singular form. ‖ 7 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.8)**
+
+> मा कस्मै धातमभ्यमित्रिणे नो माकुत्रा नो गृहेभ्यो धेनवो गुः ।
+> स्तनाभुजो अशिश्वीः ॥ ८ ॥
+
+> *mā kasmai dhātamabhyamitriṇe no mākutrā no gṛhebhyo dhenavo guḥ |*
+> *stanābhujo aśiśvīḥ ‖ 8 ‖*
+
+---
+
+### Printed p. 523  (PDF 543; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.8)**
+
+> मा । कस्मै । धातम् । अभि । अमित्रिणे । नः । मा । अकुत्र । नः ।
+> गृहेभ्यः । धेनवः । गुः ।
+> स्तनऽभुजः । अशिश्वीः ॥ ८ ॥
+
+> *mā | kasmai | dhātam | abhi | amitriṇe | naḥ | mā | akutra | naḥ |*
+> *gṛhebhyaḥ | dhenavaḥ | guḥ |*
+> *stana 'bhujaḥ | aśiśvīḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.8)** *(small type; read with some doubts)*
+
+> हे अश्विनौ अमित्रिणे । अमित्रं मित्रराहित्यम् । तद्वते कस्मै चिदपि शत्रवे नोऽस्माना भि धातम् । अभिमुख्येन मा स्थापयेतम् । अपि च नोऽस्माकं गृहेभ्यः सकाशात्स्तनाभुजः स्तनैर्वत्सानुष्ठ्यांश्च [?] पालयन्त्यो धेनवो गावोऽशिश्वीः शिशुना वत्सेन विरहिता अस्मदीये गृहेऽशयाना वा सत्योऽकुत्र चिदस्माभिरगम्ये प्रदेशे मा गुः । मा गच्छन्तु ॥ धातम् । धाञो माजः लुङि गातिस्थेति सिचो लुक् । न माङ्योग इत्यडभावः । अकुत्र । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । गुः । इण् गतौ । इणो गा लुङीति गादेशः । गातिस्थेति सिचो लुक् । आत इति झेर्जुस् । स्तनाभुजः । भुज पालनाभ्यवहारयोः । स्तनैर्भुञ्जन्ति पालयन्तीति स्तनाभुजः । क्विप् । अस्येषामपि दृश्यत इति सांहितिको दीर्घः । अशिश्वीः । सख्यशिश्वीति भाषायां । (पा. ४-१-८ [as read]) इति छन्दसि ऽपि व्यत्ययेन निपातनं द्रष्टव्यम् । यद्वा । शिशुरस्यास्तीति शिश्वी । छन्दसीवनिपावति मत्वर्थीय ईकारः । नञ्समासे ऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । वा छन्दसीति पूर्वसवर्णदीर्घः । अथवा शीङ् स्वप्ने । उत्सर्गश्छन्दसीति किप्प्रत्ययः । द्विर्वचनप्रश्लेषे । ... [as read]
+
+> *he aśvinau amitriṇe | amitraṃ mitrarāhityam | tadvate kasmai cidapi śatrave no 'smānā bhi dhātam | abhimukhyena mā sthāpayetam | api ca no 'smākaṃ gṛhebhyaḥ sakāśātstanābhujaḥ stanairvatsānuṣṭhyāṃśca [?] pālayantyo dhenavo gāvo 'śiśvīḥ śiśunā vatsena virahitā asmadīye gṛhe 'śayānā vā satyo 'kutra cidasmābhiragamye pradeśe mā guḥ | mā gacchantu ‖ dhātam | dhāño mājaḥ luṅi gātistheti sico luk | na māṅyoga ityaḍabhāvaḥ | akutra | parādiśchandasi bahulamityuttarapadādyudāttatvam | guḥ | iṇ gatau | iṇo gā luṅīti gādeśaḥ | gātistheti sico luk | āta iti jherjus | stanābhujaḥ | bhuja pālanābhyavahārayoḥ | stanairbhuñjanti pālayantīti stanābhujaḥ | kvip | asyeṣāmapi dṛśyata iti sāṃhitiko dīrghaḥ | aśiśvīḥ | sakhyaśiśvīti bhāṣāyāṃ | (pā. 4-1-8 [as read]) iti chandasi 'pi vyatyayena nipātanaṃ draṣṭavyam | yadvā | śiśurasyāstīti śiśvī | chandasīvanipāvati matvarthīya īkāraḥ | nañsamāse 'vyayapūrvapadaprakṛtisvaratvam | vā chandasīti pūrvasavarṇadīrghaḥ | athavā śīṅ svapne | utsargaśchandasīti kippratyayaḥ | dvirvacanapraśleṣe | ... [as read]*
+
+*Sense (mine and tentative):* "O Aśvins: *amitriṇe* — *amitra* is 'the state of lacking friends'; to any enemy who has it, *naḥ* — us — *mā abhi dhātam* — do not hand us over [in the sense of facing]. And, from our homes, may the cows (*dhenavaḥ*), *stanābhujaḥ* — that nourish [the calves] with their udders, *aśiśvīḥ* — without a calf, or [without] sleeping calves in our house, *akutra* — to a place unreachable by us — *mā guḥ* — not go."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.8)** (Kannada, rendered)
+
+*(Aśvinau)* — O Aśvins; *amitriṇe* — [to one who is] our enemy; *kasmai* — to anyone; *naḥ* — us; *mā abhidhātam* — do not hand over; *stanābhujaḥ* — protecting by their udders (the calves and men); *dhenavaḥ* — cows; *aśiśvīḥ* — [cows] not afflicted by [troubles], [lying] in our houses; *akutra* — to any place (not accessible to us); *naḥ* — our; *gṛhebhyaḥ* — from the houses; *mā guḥ* — let them not go.
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–7 complete; Ṛk 8 through printed p. 523 (PDF 543): Saṃhitā, Pada, bhāṣya, pratipadārtha written; bhāvārtha, English, Special Topics and grammar follow (p. 524). Next: printed p. 524 (PDF 544). Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 522–523 `[as read]`.
