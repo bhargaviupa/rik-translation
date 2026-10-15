@@ -8983,4 +8983,42 @@ The Nirukta author, explaining *pathyā svastiḥ*:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–14 complete; Ṛk 15 through printed p. 373 (PDF 393): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar begun (continues p. 374). Next: printed p. 374 (PDF 394). Numerals from the list: Ni. 11-45, Ṛ. 10-63-15/16, Pā. 7-4-62.
+### Printed p. 374  (PDF 394; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar of Ṛk 15, continued (noted briefly; sūtra numbers from the numeral list where it had them):* *ajohavīt* (continued) — when *cutva* [comes], *guṇo yaṅluk oḥ* (Pā. 7-4-82), *guṇa* for the reduplicative syllable; *yaṅo vā* (Pā. 7-3-94), the augment *īṭ* for the unaccented *tip*; for that reason *guṇa* of the *u* of the root, *av* substituted; the augment *aṭ*; because it stands at the beginning of a pāda, the *nighāta* accent does not occur; the augment *aṭ* being *udātta*, the initial acute. *Taugryaḥ* — *tugrasya apatyaṃ pumān taugryaḥ*; it belongs to the *gargādi* group, suffix *yañ*; *taddhiteṣv acām ādeḥ*, *vṛddhi* of the initial; *yasyeti ca*, elision of the *a*. *Jaganvān* — root *gam̐ḷ gatau*; when *liṭ* has come, *kvasuś ca* (Pā. 3-2-107), *kvasu* substituted for it; *vibhāṣā gamahanavidaviśām* (Pā. 7-2-68), the augment *iṭ* is optional, so here no *iṭ*; the suffix being the cause, doubling of the root; *halādiśeṣa* for the reduplicative syllable, *kuhoś cuḥ*, *j* substituted; *mokṣyeti* [?] — since a *vakāra*-initial suffix follows, *m* of the root becomes *n*; the word *jaganvas*; in the first case, *atvasantasya cādhātoḥ* [as read], lengthening of the penultimate; since the suffix is *ugit*, *num*; *hal-ṅyābbhyo dīrghāt sutisyapṛktaṃ hal*, [elision of] *su*; by elision of the cluster-final, elision of the *t*; since this is *asiddha*, the elision of the *n* does not occur; by the suffix's accent, the final acute. *Niṣṭam* — *niḥ + tam*, [and by] *yuṣmattatakṣuṣvantaḥpādam* (Pā. 8-3-103), *ṣatva* for the *visarga*, the *mūrdhanya*. *Suyujā* — *su + yuj*, *yujir yoge*; suffix *kvip*; *gatikārakopapadāt kṛt* (Pā. 6-2-139), the *kṛdanta* hind-part keeps its natural accent. *Manojavasā* — *manaso java iva javo yayos tau manojavasau*; *supāṃ sulug* (Pā. 7-1-39 as read), *ā* for the case ending; though it has the name *āmantrita*, because it stands at the beginning of a pāda the *nighāta* does not occur; *āmantritasya ca* (Pā. 6-1-198), the initial acute. *Svasti* — when *su* is the *upapada*, root *as bhuvi*; to this, in the abstract sense, *striyāṃ ktin* (Pā. 3-3-94), suffix *ktin*; *chandasy ubhayathā* (Pā. 3-4-117 [as read; list 3-4-17 [?]]), it gets the *sārvadhātuka* name; *asterbhūḥ* (Pā. 2-4-52), *bhū* substituted for the root does not occur; *na subhyām* (Pā. 6-2-172), the final acute. ‖ 15 ‖
+
+---
+
+### Printed p. 375  (PDF 395; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.16)**
+
+> अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुञ्चतं वृकस्य ।
+> वि जयुषा ययथुः सान्वद्रेर्जातं विष्वाचो अहतं विषेण ॥ १६ ॥
+
+> *ajohavīdaśvinā vartikā vāmāsno yatsīmamuñcataṃ vṛkasya |*
+> *vi jayuṣā yayathuḥ sānvadrerjātaṃ viṣvāco ahataṃ viṣeṇa ‖ 16 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.16)**
+
+> अजोहवीत् । अश्विना । वर्तिका । वाम् । आस्नः । यत् । सीम् ।
+> अमुञ्चतम् । वृकस्य ।
+> वि । जयुषा । ययथुः । सानु । अद्रेः । जातम् । विष्वाचः ।
+> अहतम् । विषेण ॥ १६ ॥
+
+> *ajohavīt | aśvinā | vartikā | vām | āsnaḥ | yat | sīm |*
+> *amuñcatam | vṛkasya |*
+> *vi | jayuṣā | yayathuḥ | sānu | adreḥ | jātam | viṣvācaḥ |*
+> *ahatam | viṣeṇa ‖ 16 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.16)** *(small type; read with several doubts)*
+
+> आस्नो वृकस्य । (ऋ. १-११६-१४) इत्यर्धर्चे यदुक्तं तदत्र पूर्वार्धेन प्रतिपाद्यते । वर्तिका चटकसदृशस्य पक्षिणः स्त्री वृकेणारण्यकुनाग्रस्ता [?] सती हे अश्विनौ वां युवां तदाजोहवीत् आहूतवती यत्सीमं [?] यदा खलु वृकस्यास्न आस्यादमुञ्चतं वर्तिकामन्वमोचयतम् [?] । अपि च युवं जयुषा जैशीलेन रथेनाद्रेः पर्वतस्य सानु समुच्छ्रितप्रदेशं वि ययथुः । शत्रुभिरावेष्टितं जाहुषाख्यं स्तोतारं शत्रुसमूहान्निर्गमय्य केनापि सहायैर्गन्तुमशक्यं पर्वताग्रं गतवन्तौ । वित्यर्थः [?] । तदुक्तं परिविष्टं जाहुषमित्यत्र (ऋ. १-११६-२०) । तथा विष्वाचो विविधगतियुक्तस्यैतत्संज्ञस्यासुरस्य जातमुत्पन्नमसत्कं [?] विषेण क्लेदेनाहतम् । युवां …
+
+> *āsno vṛkasya | (ṛ. 1-116-14) ityardharce yaduktaṃ tadatra pūrvārdhena pratipādyate | vartikā caṭakasadṛśasya pakṣiṇaḥ strī vṛkeṇāraṇyakunāgrastā [?] satī he aśvinau vāṃ yuvāṃ tadājohavīt āhūtavatī yatsīmaṃ [?] yadā khalu vṛkasyāsna āsyādamuñcataṃ vartikāmanvamocayatam [?] | api ca yuvaṃ jayuṣā jaiśīlena rathenādreḥ parvatasya sānu samucchritapradeśaṃ vi yayathuḥ | śatrubhirāveṣṭitaṃ jāhuṣākhyaṃ stotāraṃ śatrusamūhānnirgamayya kenāpi sahāyairgantumaśakyaṃ parvatāgraṃ gatavantau | vityarthaḥ [?] | taduktaṃ pariviṣṭaṃ jāhuṣamityatra (ṛ. 1-116-20) | tathā viṣvāco vividhagatiyuktasyaitatsaṃjñasyāsurasya jātamutpannamasatkaṃ [?] viṣeṇa kledenāhatam | yuvāṃ …*
+
+*Sense (mine and tentative):* "What was said in the half-verse '*āsno vṛkasya*' (Ṛ. 1-116-14) is set out here by the first half. *Vartikā* — a female bird like a quail, seized by a wolf (*vṛka*) [Kannada p. 377 will confirm], O Aśvins, called you (*ajohavīt*) when you freed (*amuñcatam*) the *vartikā* from the mouth (*āsnaḥ*) of the wolf. And you two (*yuvam*) went (*vi yayathuḥ*), by a victorious (*jayuṣā*) chariot, to the *sānu* — the high ground — of the mountain (*adreḥ*), [taking there] the praiser named Jāhuṣa, surrounded by enemies, after bringing him out from the multitude of enemies — to the mountain-top, which none could reach with any helpers. That is said at 'surrounded Jāhuṣa' (Ṛ. 1-116-20). And [you] struck down by poison (*viṣeṇa*) the offspring of the asura *Viṣvāñc*, of varied movement…" *(the sentence continues on p. 376)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–15 complete; Ṛk 16 Saṃhitā, Pada and the first half of the bhāṣya written through printed p. 375 (PDF 395); bhāṣya continues p. 376. Next: printed p. 376 (PDF 396). Numerals from the list: Ṛ. 1-116-14, 1-116-20; Pā. 7-4-82, 7-3-94, 3-2-107, 7-2-68, 8-3-103, 6-2-139, 6-1-198, 3-3-94, 2-4-52, 6-2-172.
