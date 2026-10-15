@@ -7657,4 +7657,148 @@ in this Ṛk Yāska explains *pratna* as 'ancient', so Sāyaṇa explains it as 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–2 complete; Ṛk 3 through the printed English on p. 320 (PDF 340): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 321 (PDF 341) — Ṛk 3 Special Topics and grammar. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
+### Printed p. 321  (PDF 341; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 21")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+"In explaining the meaning of this Ṛk, Sāyaṇa says that the idea expressed in this Ṛk is described in the mantra
+
+> हिमेनाग्निं घ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तम् ।
+> ऋबीसे अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति ॥
+> (ऋ. सं. १-११६-८ [as read])
+
+> *himenāgniṃ ghraṃsamavārayethāṃ pitumatīmūrjamasmā adhattam |*
+> *ṛbīse atrimaśvināvanītamunninyathuḥ sarvagaṇaṃ svasti ‖*
+> *(ṛ. saṃ. 1-116-8 [as read])*
+
+and that the same meaning is here stated again in another way."
+
+**पाञ्चजन्यम्** — *Pāñcajanyam* — "*niṣādapañcamāś catvāro varṇāḥ pañca janāḥ teṣu bhavam*": "the four castes (brāhmaṇa, kṣatriya, vaiśya, śūdra), with the Niṣāda (hunter) as the fifth, are denoted by the word *pañcajana*. Sāyaṇa explains the meaning as 'beneficial to them'. Skandasvāmin —
+
+> पाञ्चजन्यम् — पाञ्चजन्यः । पञ्चभ्यो जनेभ्यः गन्धर्वा पितरो देवाः असुरा रक्षांसीत्येतेभ्यो निषादपञ्चमेभ्यो वा चतुर्भ्यो वर्णेभ्यः हितं । पञ्चानां हि जनानां स्थितिकरी वृष्टिः । तस्या हेतुभूतो यज्ञः । तस्य कर्ता अत्रिः इत्येवमस्य हितत्वम् ॥
+
+> *pāñcajanyam — pāñcajanyaḥ | pañcabhyo janebhyaḥ gandharvā pitaro devāḥ asurā rakṣāṃsītyetebhyo niṣādapañcamebhyo vā caturbhyo varṇebhyaḥ hitaṃ | pañcānāṃ hi janānāṃ sthitikarī vṛṣṭiḥ | tasyā hetubhūto yajñaḥ | tasya kartā atriḥ ityevamasya hitatvam ‖*
+> [first words 'bāhyo daivyaḥ pāñcajanyaḥ (Vā. 4-3-?? [?])' as read; small type, partly doubtful [?]]
+
+— 'beneficial to the five *janas* — Gandharvas, Pitṛs, Devas, Asuras, Rākṣasas; or to the four castes with the Niṣāda as fifth; for rain sustains the five peoples; its cause is sacrifice; Atri is its doer: so he is beneficial.' In Kannada: the suffix *ṭya* comes in the sense of 'beneficial to' after the word *pañcajana*, giving *pāñcajanya*; the *pañcajanas* — Gandharvas, Pitṛs, Devas, Asuras, Rākṣasas — [or Sāyaṇa's explanation]: both making the five-fold sense plain, he explains the word *pāñcajanya* specially for Atri as 'one who produces rain, beneficial to all'. Though Sāyaṇa too explains the adjective, he explains *teṣu bhavam* as in another way: '*svarbhānunā gṛhītam amuṃ sūryaṃ moco yo 'triḥ pañcajanebhya utpannaḥ* — Atri, who released that Sun seized by Svarbhānu [Rāhu], born among the five peoples' — the ṛṣi Atri, who released the Sun when Rāhu had seized him. Skandasvāmin's explanation, that [by *tya*] 'beneficial' is meant because Atri is beneficial to all as the producer of rain, is well suited.
+
+"The Nirukta-writer, since the word *pañcajana* is listed among the names of man, gives the derivation of *pañcajana* —
+
+### Printed p. 322  (PDF 342; header "Maṃ. 1 A. 17 Sū. 117")
+
+> पञ्च जना इत्येतस्य निगमा भवन्ति ॥
+> (नि. ३-८ [as read])
+
+> *pañca janā ityetasya nigamā bhavanti ‖*
+> *(ni. 3-8 [as read])*
+
+"[and] the Vedic sentence that explains the meaning of the word *pañcajana* among the words for man is thus —
+
+> कदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम ।
+> ऊर्जादा उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम् ॥
+> (ऋ. सं. १०-५३-४ [as read])
+
+> *kadadya vācaḥ prathamaṃ masīya yenāsurā~ abhi devā asāma |*
+> *ūrjādā uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ‖*
+> *(ṛ. saṃ. 10-53-4 [as read])*
+
+he cites this Ṛk, and
+
+> पञ्च जनाः गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः ॥
+> (नि. ३-८ [as read])
+
+> *pañca janāḥ gandharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ pañcama ityaupamanyavaḥ ‖*
+> *(ni. 3-8 [as read])*
+
+— explaining the view that the 'five' are Gandharvas, Pitṛs, Devas, Asuras, Rākṣasas, and the view of Aupamanyava that the four castes together with the Niṣāda are the five peoples. Again —
+
+> निषादः कस्मान्निषदनो भवति निषण्णमस्मिन् पापकमिति नैरुक्ताः । यत्पाञ्चजन्यया विशा पञ्चजनीनया विशा पञ्चैवेक्ता संख्या स्त्रीनपुंसकेष्वविशिष्टा ॥
+
+> *niṣādaḥ kasmānniṣadano bhavati niṣaṇṇamasmin pāpakamiti nairuktāḥ | yatpāñcajanyayā viśā pañcajanīnayā viśā pañcaivektā saṃkhyā strīnapuṃsakeṣvaviśiṣṭā ‖*
+> [Nirukta-passage as read; small type, partly doubtful [?]]
+
+— he explains the meaning of the word *niṣāda*: since sin is found in them in excess, he is called *niṣāda*; and from the number five contained in the word *pāñcajanya* in another Ṛk, '*yat pāñcajanyayā viśā*', he explains that the distinctions of feminine, masculine and neuter do not occur in the people denoted by *viś*.
+
+"Skandasvāmin, explaining the word *dasyoḥ* —
+
+> वि जानीह्यार्यान्ये च दस्यवो बर्हिष्मते रन्धया शासदव्रतान् ।
+> शाकी भव यजमानस्य चोदिता विश्वेत्ता ते सधमादेषु चाकन ॥
+> (ऋ. सं. १-५१-८ [as read])
+
+> *vi jānīhyāryānye ca dasyavo barhiṣmate randhayā śāsadavratān |*
+> *śākī bhava yajamānasya coditā viśvettā te sadhamādeṣu cākana ‖*
+> *(ṛ. saṃ. 1-51-8 [as read])*
+
+cites this Ṛk. In it he gives the meaning: those who perform sacrifices or observe vows are the *ārya*; those other than them are *dasyus*, enemies of the deities and not given to sacrifice. Sāyaṇa explains *dasyu* as '*upakṣapayituḥ aśivasya duḥkhakāriṇo 'surasya*' — a harmful one who causes pain, increases suffering, takes life."
+
+### Printed p. 323  (PDF 343; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**अनुपूर्वं चोदयन्ता** — *Anupūrvaṃ codayantā* — "*ānupūrvyeṇa preraya nto nivārayantau*": "in the matter of the ṛṣi Atri, he explains two meanings: [they, the Aśvin deities,] averted the harmful deceits practised by the Asuras. Skandasvāmin: '*he vṛṣaṇā varṣitārau tāsu tāsv abhipretaphalāsu atriṃ codayantā upadeśādinā preraya ntau*': 'O showerers, urging Atri to those desired fruits by instruction and so on' — the Aśvin deities, fulfilling the wishes of sacrificers, instructed the ṛṣi Atri so that he might obtain the desired fruits, and fulfilled his wishes: thus he explains the sense. That the Aśvin deities protected the ṛṣi Atri is described also by the ṛṣi Kutsa —
+
+> याभिः शुचन्तिं धनसां सुषंसदं तप्तं घर्ममोम्यावन्तमत्रये ।
+> याभिः पृश्निगुं पुरुकुत्समावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-१६ [as read])
+
+> *yābhiḥ śucantiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvantamatraye |*
+> *yābhiḥ pṛśniguṃ purukutsamāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-16 [as read])*
+
+— this Ṛk is cited."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly)**
+
+*narau* (*nī* "to lead"; *ṛdor ap*, Pā. 3-3-57 as read [?], the suffix *ap*; guṇa of the root; *raparatva*; in the vocative dual, nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *pāñcajanyam* (*pañcajaneṣu bhavaḥ pāñcajanyaḥ*; *bahirdevapañcajanebhyaś ceti vaktavyam*, Kā. 4-3-64-1 as read [?], the suffix *ñya* in the sense of 'born/being in'; being *ñit*, *taddhiteṣv acām ādeḥ*, Pā. 7-2-117 as read [?], *vṛddhi* of the first vowel; *bha*-designation gives *yasyeti ca*, Pā. 6-4-148 as read [?], elision of the *a*; the suffix being *ñit*, *ñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent); *muñcathaḥ* (*mucḷ* "to release", tudādi; *laṭ* 2nd dual *thas*; *śa* as *vikaraṇa*; *śemuchādīnām*, Pā. 7-1-59 as read [?], *num*; *midacoʼntyāt paraḥ*, Pā. 1-1-47 as read [?], *num* placed after the last vowel; nighāta after an accented word); *minantā* (*mīñ* "to injure", kryādi; *śatṛ* in the *laṭ* sense; *kryādibhyaḥ śnā*, Pā. 3-1-81 as read [?], *śnā* as *vikaraṇa*; *sārvadhātukam apit*, Pā. 1-2-4 as read [?], the suffix is *ṅit*; *śnābhyastayor ātaḥ*, Pā. 6-4-112 as read [?], elision of the *ā*; *mīnāter nigame*, Pā. 7-3-81 as read [?], shortening of the root; the first syllable of the suffix accented;
+
+### Printed p. 324  (PDF 344; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar page of Ṛk 3, concluded:* … in the dual, *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *ugidacām*, *num*; the *anusvāra* is *parasavarṇa*); *codayantā* (*cuda* "to impel", curādi; *satyāpāśa…*, Pā. 3-1-25 as read [?], *ṇic* in the root's own sense; after the *ṇyanta* *śatṛ* in the *laṭ* sense; *śap* as *vikaraṇa*; guṇa and *ayādeśa* of the *ṇic*; as before the ending's *ā*; as *adupadeśa*, the *sārvadhātuka* is unaccented, so by *tāsyanudāttet…*, Pā. 6-1-186 as read [?], the *ṇic* accent remains). ‖ 3 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.4)**
+
+> अश्वं न गूळ्हमश्विना दुरेवैर्ऋषिं नरा वृषणा रेभमप्सु ।
+> सं तं रिणीथो विप्रुतं दंसोभिर्न वां जूर्यन्ति पूर्व्या कृतानि ॥ ४ ॥
+
+> *aśvaṃ na gūḷhamaśvinā durevairṛṣiṃ narā vṛṣaṇā rebhamapsu |*
+> *saṃ taṃ riṇītho viprutaṃ daṃsobhirna vāṃ jūryanti pūrvyā kṛtāni ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.4)**
+
+> अश्वम् । न । गूळ्हम् । अश्विना । दुःऽएवैः । ऋषिम् । नरा । वृषणा ।
+> रेभम् । अप्ऽसु ।
+> सम् । तम् । रिणीथः । विऽप्रुतम् । दंसःऽभिः । न । वाम् । जूर्यन्ति ।
+> पूर्व्या । कृतानि ॥ ४ ॥
+
+> *aśvam | na | gūḷham | aśvinā | duḥ 'evaiḥ | ṛṣim | narā | vṛṣaṇā |*
+> *rebham | ap 'su |*
+> *sam | tam | riṇīthaḥ | vi 'prutam | daṃsaḥ 'bhiḥ | na | vām | jūryanti |*
+> *pūrvyā | kṛtāni ‖ 4 ‖*
+
+### Printed p. 325  (PDF 345; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.4)**
+
+> नरा नेतारौ वृषणा कामानां वर्षकौ हे अश्विनौ दुरेवैर्दुष्प्रैः पररेः [?] कूपस्थेषूदकेषु गूळ्हं निगूढं निखातं रेभमृषिं कूपादुन्नीय विप्रुतं विश्लिष्टावयवं तमृषिं न व्याधितमश्वमिव दंसोभिरात्मीयैर्भैषज्यरूपैः कर्मभिः सं रिणीथः । संगमयथः । सर्वैरवयवैरुपेतमकुरुतमित्यर्थः । वां युवयोः सम्बन्धिनि पूर्व्या चिरन्तनानि कृतानि कर्माणि न जूर्यन्ति । न हि जीर्णानि भवन्ति ॥ दुरेवैः । दुरेपुस्प्पादेरेतेरेषद्दुः सुषुतिः खल् । रिणीथः । री गतिरेषणयोः । क्र्यादिकः । प्वादीनां ह्रस्वः । जूर्यन्ति । जॄष् वयोहानौ । दैवादिकत्वात्श्यन् । बहुलं छन्दसीत्युत्वम् । हलि चेति दीर्घः ॥ [small type; partly doubtful [?]]
+
+> *narā netārau vṛṣaṇā kāmānāṃ varṣakau he aśvinau durevairduṣpraiḥ parareḥ [?] kūpastheṣūdakeṣu gūḷhaṃ nigūḍhaṃ nikhātaṃ rebhamṛṣiṃ kūpādunnīya viprutaṃ viśliṣṭāvayavaṃ tamṛṣiṃ na vyādhitamaśvamiva daṃsobhirātmīyairbhaiṣajyarūpaiḥ karmabhiḥ saṃ riṇīthaḥ | saṃgamayathaḥ | sarvairavayavairupetamakurutamityarthaḥ | vāṃ yuvayoḥ sambandhini pūrvyā cirantanāni kṛtāni karmāṇi na jūryanti | na hi jīrṇāni bhavanti ‖ durevaiḥ | durepusppāderetereṣadduḥ suṣutiḥ khal | riṇīthaḥ | rī gatireṣaṇayoḥ | kryādikaḥ | pvādīnāṃ hrasvaḥ | jūryanti | jṝṣ vayohānau | daivādikatvātśyan | bahulaṃ chandasītyutvam | hali ceti dīrghaḥ ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "O leaders, *vṛṣaṇā*, showerers of desires, Aśvins: you, having drawn up from the well the ṛṣi Rebha — hidden in the waters in a well, buried, by wicked [enemies] — *viprutam*, whose limbs were scattered, *saṃ riṇīthaḥ*, you restored, united, by your healing deeds, like a sick horse: you made him complete with all limbs. Your ancient deeds do not grow old; for they do not become aged."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*narā* — leaders; *vṛṣaṇā* — givers of desired objects; *aśvinā* — O Aśvin deities; *durevaiḥ* — by wicked [Asuras]; *apsu* — in the water of the well; *gūḷham* — hidden; *rebham ṛṣim* — the ṛṣi Rebha (drawn up from the well); *viprutam* — whose limbs were scattered; *tam* — him; *aśvam na* — as one cures a sick horse; *daṃsobhiḥ* — by your healing actions; *saṃ riṇīthaḥ* — you made whole (made [him] complete with all limbs); *vām* — your; *pūrvyā* — ancient; *kṛtāni* — deeds; *na jūryanti* — do not grow old (are not forgotten)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O leaders, granters of desired objects, Aśvin deities, you drew up the ṛṣi Rebha hidden by wicked Asuras in the water of the well, and healed his scattered limbs, as one heals a sick horse. Your ancient (courageous) deeds do not grow old; they are not forgotten."
+
+**English Translation (as printed)**
+
+> Leaders (of sacrifice), showerers (of benefits), you restored Rebha cast by unassailable (enemies) into the water, and wounded, like a (sick) horse, by your (healing) skill: your ancient exploits do not fade (from recollection).
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–3 complete; Ṛk 4 through the printed English on p. 325 (PDF 345): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 326 (PDF 346) — Ṛk 4 Special Topics and grammar. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
