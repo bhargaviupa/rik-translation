@@ -6600,4 +6600,56 @@ In this Ṛk the word *anarvan* is used in the sense of 'one who is not under an
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–17 complete; Ṛk 18 through printed p. 276 (PDF 296): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*bharadvājāya divodāsāya*, *vartiḥ*, *divodāsāya* — continues p. 277). Next: printed p. 277 (PDF 297). Open: numerals as read `[?]`; small type `[?]`.
+### Printed p. 277  (PDF 297; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 18, concluded]
+
+"… son of Vadhryaśva [as read]. This Sudāsa was a famous royal sage of the Tṛtsu line in the Bharata clan. Therefore, with Divodāsa, 'Sudāsa [who is called] the Bharata' (Ṛ. Saṃ. numerals not readable [?]) is said, in several Ṛks such as these, to have been opposed to the enemy kings, together with Turvaśa and the Yadus. His chief enemy was the Asura Śambara, or Dāsa: this Śambara is said to be the chief of the people living in the hills (Ṛ. Saṃ. 1-?-? ; 2-?-? ; 4-?-? ; 6-?-? [numerals not readable [?]]). That Divodāsa overcame him many times is described in the Ṛks Ṛ. Saṃ. 1-112-14 [as read], 1-116-18, 1-130-?, 2-19-6 [as read], 4-26-3 [as read] and others, up to about ten [as the print counts] *(a run of small reference numerals, not read reliably [?])*. Because he specially worshipped Agni, the name of Agni is derived from his name in the Ṛks 6-?-? [?] and others. In Ṛ. Saṃ. 6-?-? ; 1-?-? ; 6-?-? [?] and other places this name is found in the genealogy of the ṛṣi Bharadvāja, or of that ṛṣi's descendants. In the Ṛk 6-47-22 [as read] and in some Ṛks after it, there is a description of this Divodāsa's fighting with Paṇis, Pārāvatas and Bṛsaya on the bank of the Sarasvatī. In Ṛ. Saṃ. 1-130-10 [as read] the plural word *divodāsebhiḥ* is used, which indicates Divodāsa's descendants or his subjects. The name of Divodāsa is not found in the third, fifth, ninth and tenth maṇḍalas."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 18; grammar page, noted briefly)**
+
+*āyātam* (*yā* "to go", *laṅ* 2nd dual; no nighāta because *yat* precedes, *yadvṛttān nityam*, Pā. 8-1-66 as read [?]; the augment *aṭ* being *udātta*, the word has first-syllable accent); *divodāsāya* (*divaś ca dāse ṣaṣṭhyā alug vaktavyaḥ*, Kā. 6-3-21-2 as read [?]; hence the first member has *udātta* on the first syllable by *divodāsādīnāṃ chandasy upasaṃkhyānam*; dative singular); *bharadvājāya* (*bhṛñ* "to bear"; *vyatyayo bahulam*, Pā. 3-1-85 as read [?], *śap* in the passive; since the root is *ṅit*-like, guṇa of the *ṛ*; *raparatva*; as *chandasy ubhayathā*, Pā. 3-4-117 as read [?], the suffix has *ārdhadhātuka* status, the *tāsyanudāttet…*, Pā. 6-1-186 as read [?], unaccentedness of the *sārvadhātuka* does not arise; the first-syllable accent of the suffix; the *a* of *vāja* taking *udātta*; *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?], first-member accent).
+
+### Printed p. 278  (PDF 298; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page, continued:* *hayantā* (*hveñ* "to compete, to call", in the passive; *vyatyayo bahulam* gives *śap* and *śatṛ* for *laṭ*; *bahulaṃ chandasi*, Pā. 2-4-73 as read [?], *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *śap* as *vikaraṇa*; *sārvadhātukārdhadhātukayoḥ*, Pā. 7-3-84 as read [?], guṇa of the *u*; by Vedic usage *ayādeśa* [*ay* for the *e*]; as *anudāttet*, *tāsyanudāttet…*, Pā. 6-1-186 as read [?], the *sārvadhātuka* becomes unaccented, so the root accent remains; with the dual ending following, *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *ugidacāṃ sarvanāmasthāne 'dhātoḥ*, Pā. 7-1-70 as read [?], *num*); *revat* (*rayiḥ asya asti iti revat*; *tad asyāsty asmin*, Pā. 5-2-94 as read [?], *matup*; by *rayer mato bahulam*, *saṃprasāraṇa* of *rayi*; *na saṃprasāraṇe saṃprasāraṇam*, Pā. 6-1-37 as read [?], here no further *saṃprasāraṇa* of the *y*; guṇa; *chandasīraḥ*, Pā. 8-2-15 as read [?], *va* for the *m* of *matup*; by *rayiśabdāc ca* (Kā. 6-1-223-1 as read [?]) the *matup* takes *udātta*); *uvāha* (*vah* "to carry"; *liṭ* 3rd singular *ṇal*; since the suffix is *kit*-like by *liṭy abhyāsasyobhayeṣām*, Pā. 6-1-17 as read [?], *saṃprasāraṇa*; *ata upadhāyāḥ*, Pā. 7-2-116 as read [?], *vṛddhi* of the root's penultimate; nighāta); *sacanaḥ* (*ṣaca* "to serve"; since it is *anudāttet*, *anudāttetaś ca halādeḥ*, Pā. 3-2-149 as read [?], the suffix *yuc*; *yuvor anākau*, Pā. 7-1-1 as read [?], *ana*; *citaḥ*, Pā. 6-1-163 as read [?], final accent); *yuktā* (*yujir* "to join"; *niṣṭhā*, *kta*, Pā. 3-2-102 as read [?]; since *kit*, no guṇa of the penultimate; the dual with *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā*). ‖ 18 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 19
+
+### Printed p. 279  (PDF 299; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.19)**
+
+> रयिं सुक्षत्रं स्वपत्यमायुः सुवीर्यं नासत्या वहन्ता ।
+> आ जह्नावीं समनसोप वाजैस्त्रिरह्नो भागं दधतीमयातम् ॥ १९ ॥
+
+> *rayiṃ sukṣatraṃ svapatyamāyuḥ suvīryaṃ nāsatyā vahantā |*
+> *ā jahnāvīṃ samanasopa vājaistrirahno bhāgaṃ dadhatīmayātam ‖ 19 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.19)**
+
+> रयिम् । सुऽक्षत्रम् । सुऽअपत्यम् । आयुः । सुऽवीर्यम् ।
+> नासत्या । वहन्ता ।
+> आ । जह्नावीम् । सऽमनसा । उप । वाजैः । त्रिः । अह्नः । भागम् ।
+> दधतीम् । अयातम् ॥ १९ ॥
+
+> *rayim | su 'kṣatram | su 'apatyam | āyuḥ | su 'vīryam |*
+> *nāsatyā | vahantā |*
+> *ā | jahnāvīm | sa 'manasā | upa | vājaiḥ | triḥ | ahnaḥ | bhāgam |*
+> *dadhatīm | ayātam ‖ 19 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.19)**
+
+> हे नासत्यावश्विनौ सुक्षत्रं शोभनबलं रयिं धनं स्वपत्यं शोभनैः पुत्रादिभिरुपेतं सुवीर्यं शोभनवीर्योपेतमायुः । अन्ननामैतत् । एवंगुणविशिष्टमन्नं च वहन्ता धारयन्तौ युवां समनसा समानमनस्कौ सन्तौ जह्नावीं जह्नोर्महर्षेः सम्बन्धिनीं प्रजामायातं । अभिमुख्येनागच्छतं । कीदृशीं । वाजैर्बलैरन्नैर्वोपेतां । अह्नः । अत्राहःशब्देन तत्काले सवनं लक्ष्यते । तस्य प्रातःसवनादिरूपेण त्रिधा विभक्तं भागमंशं दधतीं बिभ्रतीम् । अनुसवनं हविर्भिर्यजमानामित्यर्थः ॥ सुक्षत्रं । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । सुवीर्यं । वीरवीर्यौ चेति बहुव्रीहावुत्तरपदाद्युदात्तत्वं । जह्नावीम् । जह्नुशब्दात्तस्येदमित्यर्थे ऽण् । टिड्ढाणञिति ङीप् । जाह्नवीशब्दस्य दीर्घयोर्विनिमयः । पृषोदरादित्वात् । उक्तं च । वर्णागमो वर्णविपर्ययश्च । का. ६-३-१०९ । इति अत एव मध्योदात्तत्वम् ॥ [small type; partly doubtful [?]]
+
+> *he nāsatyāvaśvinau sukṣatraṃ śobhanabalaṃ rayiṃ dhanaṃ svapatyaṃ śobhanaiḥ putrādibhirupetaṃ suvīryaṃ śobhanavīryopetamāyuḥ | annanāmaitat | evaṃguṇaviśiṣṭamannaṃ ca vahantā dhārayantau yuvāṃ samanasā samānamanaskau santau jahnāvīṃ jahnormaharṣeḥ sambandhinīṃ prajāmāyātaṃ | abhimukhyenāgacchataṃ | kīdṛśīṃ | vājairbalairannairvopetāṃ | ahnaḥ | atrāhaḥśabdena tatkāle savanaṃ lakṣyate | tasya prātaḥsavanādirūpeṇa tridhā vibhaktaṃ bhāgamaṃśaṃ dadhatīṃ bibhratīm | anusavanaṃ havirbhiryajamānāmityarthaḥ ‖ sukṣatraṃ | bahuvrīhau nañsubhyāmityuttarapadāntodāttatvam | suvīryaṃ | vīravīryau ceti bahuvrīhāvuttarapadādyudāttatvaṃ | jahnāvīm | jahnuśabdāttasyedamityarthe 'ṇ | ṭiḍḍhāṇañiti ṅīp | jāhnavīśabdasya dīrghayorvinimayaḥ | pṛṣodarāditvāt | uktaṃ ca | varṇāgamo varṇaviparyayaśca | kā. 6-3-109 | iti ata eva madhyodāttatvam ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "O Nāsatyas, Aśvins, *sukṣatram* — having good strength — *rayim*, wealth, *svapatyam* — endowed with good sons and the rest — *suvīryam* — endowed with good vigour — *āyuḥ* (a name of food): carrying (*vahantā*) food endowed with such qualities, you two, *samanasā* — of one mind — *jahnāvīm*, [the subjects] belonging to the great ṛṣi Jahnu — *ā yātam*, come to the front. What are they like? *Vājaiḥ* — endowed with strengths or foods. *Ahnaḥ* — here the word *ahar* indicates, by implication, the *savana* (soma-pressing) of that time; the portion divided threefold as the morning *savana* and so on; *dadhatīm*, bearing: [the sacrificers] who with oblations at each *savana*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*nāsatyā* — O Nāsatyas; *sukṣatram* — endowed with good strength; *svapatyam* — having good sons; *suvīryam* — endowed with good vigour; *āyuḥ* — food; *rayim* — wealth; *vahantā* — bringing; *samanasā* — of one mind; *vājaiḥ* — with food; *ahnaḥ* — in the day; *tri bhāgam* — in the three parts (of the savanas — morning, midday and evening); *dadhatīm* — bearing; *jahnāvīm* — the family of the ṛṣi Jahnu (the sacrificers); *upa āyātam* — come to."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–18 complete; Ṛk 19 through the pratipadārtha on printed p. 279 (PDF 299): Saṃhitā, Pada, bhāṣya, pratipadārtha. Next: printed p. 280 (PDF 300) — Ṛk 19 bhāvārtha, English, Special Topics. Open: Divodāsa Ṛ. numerals on p. 277 largely unreadable (`[?]`); others as read.
