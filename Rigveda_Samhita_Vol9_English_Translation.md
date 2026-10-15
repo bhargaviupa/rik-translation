@@ -13356,4 +13356,94 @@ Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–6 complete (printed p. 565, PDF 585). Next: printed p. 566 (PDF 586): Ṛk 7 Saṃhitā. Nine Ṛks (7–15) remain. NOTE: images for PDF pages are `q/pNNN.jpg` with printed page = NNN − 20; always request PDF page = printed + 20. Numerals as read: Ni. numbers and Ṛ. 1-113-2 `[as read]`.
+### Printed p. 566  (PDF 586; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.7)**
+
+> स्विध्मा यद्वनधितिरपस्यात्सूरो अध्वरे परि रोधना गोः ।
+> यद्ध प्रभासि कृत्व्याँ अनु द्यूननर्विशे पश्विषे तुराय ॥ ७ ॥
+
+> *svidhmā yadvanadhitirapasyātsūro adhvare pari rodhanā goḥ |*
+> *yaddha prabhāsi kṛtvyā~ anu dyūnanarviśe paśviṣe turāya ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.7)**
+
+> सुऽइध्मा । यत् । वनऽधितिः । अपस्यात् । सूरः । अध्वरे । परि ।
+> रोधना । गोः ।
+> यत् । ह । प्रऽभासि । कृत्व्यान् । अनु । द्यून् । अनर्विशे ।
+> पशुऽइषे । तुराय ॥ ७ ॥
+
+> *su 'idhmā | yat | vana 'dhitiḥ | apasyāt | sūraḥ | adhvare | pari |*
+> *rodhanā | goḥ |*
+> *yat | ha | pra 'bhāsi | kṛtvyān | anu | dyūn | anarviśe |*
+> *paśu 'iṣe | turāya ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.7)** *(small type; read with some doubts)*
+
+> यदि स्विध्मा सुदीप्ता अस्या वनधितिर्वने छेत्तव्ये वृक्षसमूहे निधातव्या शस्त्र-रूपः स्वधितिः । अपस्यात् विशसनात्मकं स्वकीयं कर्म कर्तुमिच्छेत् तदानीं सूरः प्रेरकोऽध्वर्युरध्वरे यज्ञे गोः पशोः रोधना रोधनाय यूपे नियोजनाय परि भवति । समर्थो भवति । यद्वा । स्विध्मा सूर्यकिरणैः सुदीप्ता वनधितिः वनमुदकमस्यां धीयते इति वनधितिर्मेघमाला । सा यद्यदापस्यात् अपः प्रवर्षणलक्षणं कर्म करोति तदानीं सूरः प्रेरक इन्द्रो ऽध्वरे यज्ञस्य निमित्तभूते ऽहिंसितव्ये ऽन्तरिक्षे वर्तमानः सन् गोर्वृष्ट्युदकस्य रोधना रोधनान्यावरणानि परि परितो निवारयतीति शेषः । उत्तरार्धः प्रत्यक्षकृतः । हे इन्द्र सूर्यात्मना वर्तमानस्त्वं कृत्व्यान् । कृत्वीति कर्मनाम । कर्मसु साधून् द्यून् दिवसानुलक्ष्य यद्ध यदा खलु प्रभासि प्रकर्षेण दीप्यसे तदानीमनर्विशे [?] अनसा शकटेनेन्धनार्थं [?] प्रविशते । यद्वा गन्तव्यं स्थलं प्रति गन्तुमशक्ताय पुरुषाय पश्विषे पशून् प्रेरयते तुराय त्वरमाणाय गोपालाय च सिद्धेऽभिमतमिति वाक्यशेषः ॥ स्विध्मा । शोभनमिध्मं दीप्तमास्यं दीप्तिर्वा यस्याः सा तथोक्ता । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । अपस्यात् । अपःशब्दात्सुप आत्मनः क्यच् । लेट्यडागमः । रोधना । रुधिर् आवरणे । ल्युट्चेति भावे ल्युट् । शेश्छन्दसि बहुलमिति शेर्लोपः । अनर्विशे । अनसा विशते प्राप्नोतीत्यनर्विट् । विशतेः क्विप् । अहरादीनां पत्यादिष्पसङ्ख्यानम् । (म. ८-२-२०-१ [as read]) इति सकारस्य रेफादेशः । यद्वा । अर्तेः कर्मणि विच् । अरं गन्तव्यं प्रति विशते प्राप्नोतीत्यर्विट् । न अर्विट् अनर्विट् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अत एव वृत्प्त्यैनवधारणेनावग्रहः । पश्विषे । इष गतौ । अस्मादन्तर्भावितण्यर्थात् क्विप्चेति क्विप् ॥ [as read]
+
+> *yadi svidhmā sudīptā asyā vanadhitirvane chettavye vṛkṣasamūhe nidhātavyā śastra-rūpaḥ svadhitiḥ | apasyāt viśasanātmakaṃ svakīyaṃ karma kartumicchet tadānīṃ sūraḥ prerako 'dhvaryuradhvare yajñe goḥ paśoḥ rodhanā rodhanāya yūpe niyojanāya pari bhavati | samartho bhavati | yadvā | svidhmā sūryakiraṇaiḥ sudīptā vanadhitiḥ vanamudakamasyāṃ dhīyate iti vanadhitirmeghamālā | sā yadyadāpasyāt apaḥ pravarṣaṇalakṣaṇaṃ karma karoti tadānīṃ sūraḥ preraka indro 'dhvare yajñasya nimittabhūte 'hiṃsitavye 'ntarikṣe vartamānaḥ san gorvṛṣṭyudakasya rodhanā rodhanānyāvaraṇāni pari parito nivārayatīti śeṣaḥ | uttarārdhaḥ pratyakṣakṛtaḥ | he indra sūryātmanā vartamānastvaṃ kṛtvyān | kṛtvīti karmanāma | karmasu sādhūn dyūn divasānulakṣya yaddha yadā khalu prabhāsi prakarṣeṇa dīpyase tadānīmanarviśe [?] anasā śakaṭenendhanārthaṃ [?] praviśate | yadvā gantavyaṃ sthalaṃ prati gantumaśaktāya puruṣāya paśviṣe paśūn prerayate turāya tvaramāṇāya gopālāya ca siddhe 'bhimatamiti vākyaśeṣaḥ ‖ svidhmā | śobhanamidhmaṃ dīptamāsyaṃ dīptirvā yasyāḥ sā tathoktā | nañsubhyāmityuttarapadāntodāttatvam | apasyāt | apaḥśabdātsupa ātmanaḥ kyac | leṭyaḍāgamaḥ | rodhanā | rudhir āvaraṇe | lyuṭceti bhāve lyuṭ | śeśchandasi bahulamiti śerlopaḥ | anarviśe | anasā viśate prāpnotītyanarviṭ | viśateḥ kvip | aharādīnāṃ patyādiṣpasaṅkhyānam | (ma. 8-2-20-1 [as read]) iti sakārasya rephādeśaḥ | yadvā | arteḥ karmaṇi vic | araṃ gantavyaṃ prati viśate prāpnotītyarviṭ | na arviṭ anarviṭ | avyayapūrvapadaprakṛtisvaratvam | ata eva vṛtptyainavadhāraṇenāvagrahaḥ | paśviṣe | iṣa gatau | asmādantarbhāvitaṇyarthāt kvipceti kvip ‖ [as read]*
+
+*Sense (mine and tentative; two explanations):* (1) "If the *vanadhiti* — the hatchet (*svadhiti*, an axe-like weapon) *svidhmā* — of bright edge, to be placed in the forest on the group of trees to be cut — should wish *apasyāt* to do its own cutting work (*apas*), then *sūraḥ* — the impelling *adhvaryu*, at the *adhvara* (sacrifice), *rodhanā goḥ* — for the binding of the victim — is able *pari bhavati* — competent to have it bound to the sacrificial post. (2) Or: *svidhmā* — brilliantly lit by the Sun's rays; *vanadhiti* — a cloud (*vana* is water; that in which water is stored, [a cloud]) — when it does the work of raining: then *sūraḥ* — Indra the impeller, remaining in mid-air for the sake of the sacrifice, to be free from harm — *rodhanā goḥ* — the obstructions of the rain-water — wards off all around. The second half is in the second person: O Indra, abiding in the Sun's form, *yat ha* — when you shine forth *anu dyūn kṛtvyān* — on the days fit for rites, then [success attends] *anarviśe* — one who enters [the forest] with a cart (for fuel); or a man unable to go to the place he must reach; *paśviṣe* — one who urges cattle, *turāya* — the hasty herdsman: their desire is fulfilled."
+
+---
+
+### Printed p. 567  (PDF 587; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar tail of the bhāṣya concluded — *svidhmā*, *apasyāt* [*kyac* from *apas*], *rodhanā* [*rudhir āvaraṇe*, *lyuṭ*], *anarviśe* [*anasā viśate*, *kvip*; *ahar-ādīnāṃ patyādiṣūpasaṅkhyānam*, *s* → *r*], *paśviṣe* [*iṣa gatau*, *kvip*] — characterized, not transcribed.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.7)** (Kannada, rendered)
+
+*Svidhmā* — shining brightly (edged); *vanadhitiḥ* — the axe, the cutter of the forest; *yat* — when; *apasyāt* — is ready to do its work; *tat* — then; *sūraḥ* — the impelling *adhvaryu*; *adhvare* — in the sacrifice; *goḥ* — the animal; *rodhanā* — for binding (to the post); *pari bhavati* — is capable. Or: *svidhmā* — brightly shining through the rays of the Sun; *vanadhitiḥ* — the rain-cloud; *yat* — when; *apasyāt* — rains; *tat* — then; *sūraḥ* — Indra, the impeller; *antarikṣe* — in mid-air; *goḥ rodhanā* — the obstacles of the rain-water; *pari (nivārayati)* — keeps away. *(He) indra* — O Indra; *kṛtvyān* — fit for rites; *anu dyūn* — on days; *yat ha* — when; *prabhāsi* — you shine; *(tadā)* — then; *anarviśe* — one who goes on a cart [to the forest] for fuel; *turāya* — the one who hastens; *paśviṣe* — one who urges cattle, the herdsman: *(iṣṭārtha siddhyati)* — his desire is fulfilled.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.7)** (Kannada, rendered)
+
+"When the bright-edged axe that cuts the forest is ready, the *adhvaryu*, the impeller, is able to bind the animal to the sacrificial post; [or:] when the cloud, brilliantly lit by the Sun's rays, is ready to rain, Indra, in mid-air, ward off the obstacles to the rain; O Indra, in the form of the Sun, when you shine on the days fit for rites, the man who goes into the forest with a cart for fuel, and the herdsman who hastens driving his cattle, obtain their wish."
+
+**English Translation (as printed)** *(spelling as printed)*
+
+"When the bright-edged hatchet is ready for its work, the directing prieet [sic] is able to have the victim bound in the sacrifice: when, Indra, you shine upon the days that are appropriated to sacred rites, then (success attends) upon tha [sic] man who goes with his cart (for fuel), the driver (of cattle), or the active (shepherd)"
+
+---
+
+### Printed p. 568  (PDF 588; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 7)**
+
+"Sāyaṇa explains the first half of this Ṛk in two ways. In the first way: at the time of the sacrifice, the *adhvaryu* is ready to bind the animals to the sacrificial post, with the sharp axe (*svadhiti*) fit for cutting the trees in the forest, a weapon prepared for the dissection of animals — this is a matter related to the sacrifice. The word *svidhmā* he explains as 'rays of the Sun'; *vanadhiti*, *vanam asyāṃ dhīyate iti vanadhitiḥ meghamālā* — 'vana means water; since it holds water, *vanadhiti* is a row of clouds':
+
+> वनधितिर्मेघमाला यदा अपस्यात् अपः प्रवर्षणलक्षणं कर्म करोति तदानीं सूरः प्रेरकः इन्द्रः अध्वरे यज्ञस्य निमित्तभूते अहिंसितव्ये अन्तरिक्षे वर्तमानः सन् गोः वृष्ट्युदकस्य रोधना रोधनान्यावरणानि परि परितो निवारयति ।
+
+> *vanadhitirmeghamālā yadā apasyāt apaḥ pravarṣaṇalakṣaṇaṃ karma karoti tadānīṃ sūraḥ prerakaḥ indraḥ adhvare yajñasya nimittabhūte ahiṃsitavye antarikṣe vartamānaḥ san goḥ vṛṣṭyudakasya rodhanā rodhanānyāvaraṇāni pari parito nivārayati |*
+
+— 'When the row of clouds, lit by the Sun's rays, [is ready] to rain, the impelling Indra, in mid-air, to see that the work which is the cause of the sacrifice goes properly, removes the obstructions that withhold the rain.' These are the two ways. In both, Indra's concern for the protection of the sacrifice is described. Also it is described that Indra, shining in the form of the Sun, fixes the time for rites, and protects the man who has entered the forest and cannot reach the place he goes to."
+
+*Turāyetthaṃ ramaṇāya* — *tvaramāṇāya*: "'to one who hurries' is the meaning."
+
+---
+
+### Printed p. 569  (PDF 589; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Svidhmā* — *śobhanam idhmaṃ dīptam āsyaṃ dīptir vā yasyāḥ sā*: "'that which has excellent fire-wood [i.e. a bright face, or bright edge]' — 'having a face of fine lustre'."
+
+"Skandasvāmin takes the meaning of this Ṛk together with that of the next Ṛk as one sentence. In some words his explanation differs from Sāyaṇa's:
+
+> अनर्विशे पश्विषे तुराय — ऋ गतौ । आगता विशो यस्य सो ऽनर्विट् । यस्य मित्रादयो वा मनुष्याः यस्य स्वत्वान्नरकं न गताः परिचारका वा सर्वे पशून् इच्छति स पश्विट् । देवान् वा परिचरितुं यस्वरते स तुरः ।
+
+> *anarviśe paśviṣe turāya — ṛ gatau | āgatā viśo yasya so 'narviṭ | yasya mitrādayo vā manuṣyāḥ yasya svatvānnarakaṃ na gatāḥ paricārakā vā sarve paśūn icchati sa paśviṭ | devān vā paricarituṃ yasvarate sa turaḥ |*
+
+— 'the one whose subjects (*viśaḥ*) have come [to him]; or, friends and others, who because of his [generosity] have not gone to hell; or, who has attendants; he who desires cattle for them all; or, who hastens to serve the gods'. For those who are of sacrificial disposition, [such as] friends and others, who by their own [rites] do not go to the hells, who are attached to the service of the deities and are desirous of cattle, and are in haste to serve the gods and the like — in this way Indra is ready to carry out without hindrance the sacrifices of such sacrificers. And Sāyaṇa:
+
+> अनर्विशे — अनसा शकटेन इन्धनाद्याहरणाय अरण्यं प्रविशते । यद्वा गन्तव्यं प्रति गन्तुमशक्ताय पुरुषाय । पशूर् प्रेरयते तुराय त्वरमाणाय गोपालाय ।
+
+> *anarviśe — anasā śakaṭena indhanādyāharaṇāya araṇyaṃ praviśate | yadvā gantavyaṃ prati gantumaśaktāya puruṣāya | paśūr prerayate turāya tvaramāṇāya gopālāya |*
+
+— 'for one who enters the forest with a cart to fetch fuel and the like, or, for a man not able to go to the place he must reach; and for the shepherd who hastens, driving [his] cattle — Indra fulfils the wishes of these also'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly)**
+
+*Svidhmā* (*śobhanam idhmaṃ dīptam asyāṃ…*; *nañsubhyām*, Pā. 6-2-172, final acute of the latter member) · *apasyāt* (*apas* + *kyac*, *supa ātmanaḥ kyac*, Pā. 3-1-8; the *kyajanta* gets the *dhātu* name, *sanādyantā dhātavaḥ*, Pā. 3-1-32; *leṭ*, *tip*; *itaś ca lopaḥ*, Pā. 3-4-97; *leṭo 'ṭāṭau*, Pā. 3-4-94; no *nighāta* by *yaddhṛttānnityam*, Pā. 8-1-66; final acute by *kyac*) — sūtra numbers as read.
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–6 complete; Ṛk 7 through printed p. 569 (PDF 589): all parts except the end of its grammar (continues p. 570). Next: printed p. 570 (PDF 590). Eight Ṛks (8–15) remain after Ṛk 7. Numerals as read: Mahābhāṣya ref 8-2-20-1 `[as read]`, sūtra numbers `[as read]`.
