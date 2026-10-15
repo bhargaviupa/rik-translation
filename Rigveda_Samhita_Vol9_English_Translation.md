@@ -2539,4 +2539,91 @@ Grammar page on *apnaḥ* (*āp(ḷ)* "to obtain", with the sense of action give
 
 ---
 
-**Progress note:** **Sūkta 113 complete** (Ṛks 1–20; Eighth Adhyāya title page printed 1 and Sūkta 113 printed pp. 2–97, PDF 22–117). Pīṭhike and contents done earlier (printed i–xiii). IAST layer added throughout. **Next:** Sūkta 114 (*imā rudrāya*), which begins at the lower half of printed p. 97 (PDF 117): its Sanskrit introduction/Anuvāda of that page and the Saṃhitā from printed p. 98. Offset check still −20. Open flags: Ni./Pā./Ṛ. numerals read with `[?]` throughout; bhāṣya words in small type `[?]`; devatā-box numerals of Sūkta 113 `[?]`; **CLAUDE.md still says Sūktas 113–130 — should read 113–121.**
+## Sūkta 114 — *imā rudrāya* (printed pp. 97–?)
+
+### Printed p. 97, lower half  (PDF 117) — introduction
+
+**श्रीः / सूक्तम् ११४ — Heading (Kannada): "nūrahadinālkaneya sūktavu"** — "the hundred-and-fourteenth Sūkta."
+
+**Anukramaṇī (Sanskrit, as printed):**
+
+> इमा रुद्रायेत्येकादशर्चं नवमं सूक्तं कुत्सस्यार्षम् । दशम्येकादश्यौ त्रिष्टुभौ शिष्टा नव जगत्यः । रुद्रो देवता । तथा चानुक्रान्तम् । इमा एकादश रौद्रं द्विः त्रिष्टुबन्तमिति ॥
+> शूलगवादिषु रुद्रदेवत्येषु कर्मसु अनेन सूक्तेन दिगुपस्थेया । तथा च सूत्रितम् । कद्रुद्रायेमा रुद्रायो ते पितरिमा रुद्राय स्थिरधन्वने गिर इति सर्वरुद्रयज्ञेषु दिशामुपस्थानम् । आ. गृ. ४-८-३० । इति ॥
+
+> *imā rudrāyetyekādaśarcaṃ navamaṃ sūktaṃ kutsasyārṣam | daśamyekādaśyau triṣṭubhau śiṣṭā nava jagatyaḥ | rudro devatā | tathā cānukrāntam | imā ekādaśa raudraṃ dviḥ triṣṭubantamiti ‖*
+> *śūlagavādiṣu rudradevatyeṣu karmasu anena sūktena digupastheyā | tathā ca sūtritam | kadrudrāyemā rudrāyo te pitarimā rudrāya sthiradhanvane gira iti sarvarudrayajñeṣu diśāmupasthānam | ā. gṛ. 4-8-30 | iti ‖*
+
+Sense: "'*imā rudrāya*' — the ninth sūkta (of this anuvāka), of eleven Ṛks, the ṛṣi's work being Kutsa's. The tenth and eleventh are Triṣṭubh, the remaining nine Jagatī. The deity is Rudra; so the Anukramaṇī says '*imā ekādaśa raudraṃ dviḥ triṣṭubantam*'. In rites addressed to Rudra such as the *śūlagava*, the quarters are to be worshipped with this sūkta; and so the Sūtra says: '*kad rudrāya*', '*imā rudrāya*', '*yo te pitar*' (?), '*imā rudrāya sthiradhanvane gira iti* — in all Rudra sacrifices the worship of the quarters' (Āśv. Gṛ. 4-8-30 as printed [?])."
+
+**Anuvāda (Kannada):** "This sūkta, *imā rudrāya*, is the ninth sūkta in the sixteenth anuvāka. It has eleven Ṛks. The ṛṣi is Kutsa, son of Aṅgiras; the deity is Rudra. The tenth and eleventh Ṛks are in Triṣṭubh metre; the others are Jagatī. In the Anukramaṇikā: '*imā ekādaśa raudraṃ dviḥ triṣṭubantam*'. In the rites related to Rudra such as the *śūlagava*, the quarters are to be worshipped with this sūkta; it is explained by the Āśvalāyana Gṛhya-sūtra, 4-8-30 [as printed]."
+
+### Printed p. 98  (PDF 118; header "Aṣṭaka 1, Adhyāya 8, Varga …" and "Maṃ. 1 A. 16 Sū. 114")
+
+**सूक्त—११४ (Sūkta 114)**
+॥ मण्डल—१ ॥ अनुवाक—१६ ॥ सूक्त—११४ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—५, ६ ॥ *(small numerals; read as printed)*
+*Number of Ṛks:* 11. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* Rudra. *Chandas:* Ṛks 1–9 Jagatī; 10–11 Triṣṭubh.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.1)**
+
+> इमा रुद्राय तवसे कपर्दिने क्षयद्वीराय प्र भरामहे मतीः ।
+> यथा शमसद्द्विपदे चतुष्पदे विश्वं पुष्टं ग्रामे अस्मिन्ननातुरम् ॥ १ ॥
+
+> *imā rudrāya tavase kapardine kṣayadvīrāya pra bharāmahe matīḥ |*
+> *yathā śamasaddvipade catuṣpade viśvaṃ puṣṭaṃ grāme asminnanāturam ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.1)**
+
+> इमाः । रुद्राय । तवसे । कपर्दिने । क्षयत्ऽवीराय । प्र । भरामहे । मतीः ।
+> यथा । शम् । असत् । द्विऽपदे । चतुःऽपदे । विश्वम् । पुष्टम् । ग्रामे । अस्मिन् । अनातुरम् ॥ १ ॥
+
+> *imāḥ | rudrāya | tavase | kapardine | kṣayat 'vīrāya | pra | bharāmahe | matīḥ |*
+> *yathā | śam | asat | dvi 'pade | catuḥ 'pade | viśvam | puṣṭam | grāme | asmin | anāturam ‖ 1 ‖*
+
+### Printed p. 99  (PDF 119; header "Maṃ. …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.1)**
+
+> रुद्राय । रोदयति सर्वमन्तकाल इति रुद्रः । यद्वा । रुशं संसाराख्यं दुःखं द्रावयति विनाशयतीति रुद्रः । यद्वा । रुतः शब्दरूपा उपनिषदः ताभिर्द्रूयते गम्यते प्रतिपाद्यत इति रुद्रः । यद्वा । रुत् शब्दात्मिका वाणी तत्प्रतिपाद्यापि विद्या वा तामुपासकेभ्यो राति ददातीति रुद्रः । यद्वा । रुणद्भ्याव्योतीति रुदेन्धकारादि [?] । तद्द्रावयति विदारयतीति रुद्रः । यद्वा । कदाचिद्देवासुरसंग्रामे ग्न्यात्मको रुद्रो देवैर्निक्षिप्तं धनमपहृत्य निरगात् । असुराञ्जित्वा देवा एनमन्विष्य दृष्ट्वा धनमपाहरन् । तदानीमरुदत् । तस्माद्रुद्र इत्याख्यायते । तथा च तैत्तिरीयकम् । सोऽरोदीद्यदरोदीत्तद्रुद्रस्य रुद्रत्वम् । तै. सं. १-५-१-१ । इति । तस्मै रुद्राय मतीर्मननीया इमा स्तुतीः प्र भरामहे । प्रकर्षेण निष्पादयामः । कीदृशाय । तवसे प्रवृद्धाय कपर्दिने जटिलाय क्षयद्वीराय क्षयन्तो विनश्यन्तो वीरा यस्मिन्नादृशाय । यद्वा । क्षयतिरैश्वर्यकर्मा । क्षयन्तः प्राप्तैश्वर्या वीरा मरुद्गणाः पुत्रा यस्य तस्मै । यथा येन प्रकारेण शं शमनीयानां रोगाणामुपशमनं द्विपदेऽस्मदीयाय मनुष्याय चतुष्पदे गवाश्वप्रभृतये चासत् भवेत् तेन प्रकारेण स्तुतीः कुर्म इत्यर्थः । अत्रोऽस्मिन्नस्मदीये ग्रामे वर्तमानं विश्वं सर्वं प्राणिजातमनातुरम् आतुरो रुग्णः । तद्रहितं सत् पुष्टं प्रवृद्धं भवतु ॥ [the grammatical tail follows in the print; the Sanskrit above is read letter by letter from small type; the words marked [?] are doubtful]
+
+> *rudrāya | rodayati sarvamantakāla iti rudraḥ | yadvā | ruśaṃ saṃsārākhyaṃ duḥkhaṃ drāvayati vināśayatīti rudraḥ | yadvā | rutaḥ śabdarūpā upaniṣadaḥ tābhirdrūyate gamyate pratipādyata iti rudraḥ | yadvā | rut śabdātmikā vāṇī tatpratipādyāpi vidyā vā tāmupāsakebhyo rāti dadātīti rudraḥ | yadvā | ruṇadbhyāvyotīti rudendhakārādi [?] | taddrāvayati vidārayatīti rudraḥ | yadvā | kadāciddevāsurasaṃgrāme gnyātmako rudro devairnikṣiptaṃ dhanamapahṛtya niragāt | asurāñjitvā devā enamanviṣya dṛṣṭvā dhanamapāharan | tadānīmarudat | tasmādrudra ityākhyāyate | tathā ca taittirīyakam | so 'rodīdyadarodīttadrudrasya rudratvam | tai. saṃ. 1-5-1-1 | iti | tasmai rudrāya matīrmananīyā imā stutīḥ pra bharāmahe | prakarṣeṇa niṣpādayāmaḥ | kīdṛśāya | tavase pravṛddhāya kapardine jaṭilāya kṣayadvīrāya kṣayanto vinaśyanto vīrā yasminnādṛśāya | yadvā | kṣayatiraiśvaryakarmā | kṣayantaḥ prāptaiśvaryā vīrā marudgaṇāḥ putrā yasya tasmai | yathā yena prakāreṇa śaṃ śamanīyānāṃ rogāṇāmupaśamanaṃ dvipade 'smadīyāya manuṣyāya catuṣpade gavāśvaprabhṛtaye cāsat bhavet tena prakāreṇa stutīḥ kurma ityarthaḥ | atro 'sminnasmadīye grāme vartamānaṃ viśvaṃ sarvaṃ prāṇijātamanāturam āturo rugṇaḥ | tadrahitaṃ sat puṣṭaṃ pravṛddhaṃ bhavatu ‖ [the grammatical tail follows in the print; the Sanskrit above is read letter by letter from small type; the words marked [?] are doubtful]*
+
+*Sense (mine):* "*Rudrāya* — Rudra is he who makes all weep (*rodayati*) at the end of time; or he who drives away (*drāvayati*) the sorrow called *saṃsāra*; or he who is approached (*drūyate*) by the *ruta* — the Upaniṣads of the nature of sound; or he who gives (*rāti*) to his worshippers the *rut*, speech, or the knowledge taught by it; or he who rends the darkness [?]. Or: once, in a battle of gods and asuras, Rudra, of the nature of fire, took away the wealth the gods had deposited and went off; the gods, having conquered the asuras, sought him, found him, and took the wealth back; he then wept (*arudat*); hence he is called Rudra: so also the Taittirīya (Tai. Saṃ. 1-5-1-1 as printed [?]): 'He wept; that he wept is the Rudra-hood of Rudra'. To that Rudra we *pra bharāmahe*, we present, these *matīḥ*, thoughtful praises. To what sort of Rudra? *Tavase* — grown great; *kapardine* — with matted hair; *kṣayadvīrāya* — in whom heroes perish; or, *kṣayati* meaning lordship, he whose sons, the Marut hosts, are lords. So that (*yathā*) *śam* — cure of diseases — may be for our two-footed (men) and four-footed (cattle, horses…), in this way we make our praises. And may all the beings in this our village be *anāturam*, free from sickness, and *puṣṭam*, well nourished."
+
+*Grammatical tail (characterized, not transcribed):* *tavase* (*tu* "to grow", suffix *asun* by Uṇ., Uṇ. number as read "2-?? [?]"); *kṣayadvīrāya* (*kṣi* "to dwell, to rule"; *śatṛ* with the Vedic accent: a *bahuvrīhi*, first member keeps its accent); *asat* (*as* "to be", *leṭ* with the augment *aṭ*, the *i* elided); *dvipade* (*dvau pādau yasya*; *pād* → *pad* by *saṃkhyāsupūrvasya* [Pā. 5-4-140 as read, [?]]); *catuṣpade* (*svarasya…* *bahuvrīhi* first-member accent, *sañjñā*); *ātura* (*tur* "to hurry" with *ā*; the first-syllable accent).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(printed on pp. 99–100)*
+
+"*tavase* — (to) him who is of great strength; *kapardine* — (to) him who bears matted locks on his head; *kṣayadvīrāya* — (to) him who destroys enemy heroes in battle, or [him who] is lordly, and who has heroes (the Marut deities) as sons; *rudrāya* — (to) Rudra (who, at the time of dissolution, makes all weep; or who destroys the sorrow of *saṃsāra*; or who is conveyed in words — known by the *upaniṣads*; or who gives to his worshippers the desired objects; or who removes the darkness of ignorance; or [the story:] when in a battle of gods and asuras this Rudra took away the wealth deposited, the gods, after conquering the asuras, sought him and took back the wealth; then Rudra wept in sorrow — therefore he is called Rudra) —
+
+### Printed p. 100  (PDF 120; header "Maṃ. 1 A. 16 Sū. 114")
+
+— *imāḥ matīḥ* — these *stotras* of ours, made with thought; *pra bharāmahe* — (with devotion) we offer; *yathā* — in what way (by thus offering the *stotras*); *dvipade* — for us men who have two feet; *catuṣpade* — for cattle, horses and other four-footed creatures; *śam* — happiness free from disease and other calamities; *asat* — shall come; *asmin grāme* — in this village (where we dwell); *viśvam* — all the creatures (humans and others); *anāturam* — free from disease; *puṣṭam* — and nourished: such a Rudra we offer these *stotras* to."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"To the deity called Rudra — of great strength, bearing matted hair on the head, destroyer of enemy heroes in battle, or [one] who has the lordly Marut deities as sons — we offer these *stotras* with devotion. By offering the *stotras* thus, may there be happiness, free from diseases and calamities, for men and for cattle and other beasts; and that all creatures, men and others, in this our village may be free from disease and be nourished, we offer these *stotras* with devotion to Rudra."
+
+**English Translation (as printed)**
+
+> We offer these praises to the mighty Rudra, with the braided hair, the destroyer of heroes, in order that health may be enjoyed by bipeds, and quadrupeds, and that all beings in this village may be (well) nourished and exempt from disease.
+
+### Printed p. 101  (PDF 121; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**रुद्राय** — *Rudrāya.* "Sāyaṇa has explained the word *rudra* in six ways. The word *rudra* is formed from the root *ruḍ* in the causative (*ṇic*). Yāska says '*rudro rauty-ucyamāno ruroyamāṇo dravati vā rodayater vā*' [as printed: *rudro rauti śabdaṃ karoti*…] — *rudra* is he who makes a sound (*rauti*, from *ru*, *stan* 'thunders'), i.e. one who thunders like a cloud; or who runs (*dravati*) making a sound, in the middle of the sky; or from *rodayati*, 'makes to weep': he who makes the enemies weep, i.e. makes them rule [?] by his works — so he explains. Further, following the history related in the Kauṣītaki [Brāhmaṇa — as read, '*kauṣohanisathi*', doubtful [?]] — that Prajāpati, seeing his own daughter, was struck by arrows and made distressed — or following the intention of a branch of the Maitrāyaṇīya school, '*yad arodīt tad rudrasya rudratvam*': because he wept he is Rudra (Ni. 10-? as read [?]) he has explained the sense of the word. Sāyaṇa's explanation of the word *rudra* is other than this: that at the time of dissolution he makes all weep; or destroys the sorrow of *saṃsāra*; or, because he is *pratipādya* (to be taught) by the Upaniṣads of the nature of sound; or because he teaches self-knowledge to seekers of self-knowledge; or because he destroys the ignorance that veils knowledge as a cloud veils light: thus having shown the different meanings of the word *rudra* arising from the meaning of the root *ruta*…"
+
+"And in the opinion of the Itihāsa-writers, according to the history specified, he explains the sense of the word *rudra*, from the root *rudir* 'to shed tears' (*aśruvimocane*), by the *śruti*-statement '*so 'rodīd yad arodīt tad rudrasya rudratvam*' (Tai. Saṃ. 1-5-1-1 as printed [?]). From this the greatness of Rudra and the cause of his hostility toward living beings become manifest."
+
+**मतीः** — *Matīḥ* — "*mananīyāḥ*": worthy of thought. "Among the forty-four [as read] *arcati*-names '*arcati*, *gāyati*' and so on, the word *manyate* is stated (Ni. 3-14 as read [?]); so the meaning is 'worthy of worship' or 'praise'."
+
+**तवसे** — *Tavase* — "*pravṛddhāya*": "since the word *tavas* is read among the twenty-eight [as read] names of strength '*ojaḥ*, *pājaḥ*' (Ni. 2-9 as read [?]), the meaning is 'strong'."
+
+**क्षयद्वीराय** — *Kṣayadvīrāya* — "*kṣayanto vinaśyanto vīrā yasmin tādṛśāya | yadvā …*"
+
+---
+
+**Progress note:** Sūkta 114 (*imā rudrāya*): introduction (printed p. 97 lower half) and Ṛk 1 (Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English) done; Special Topics of Ṛk 1 in progress at the end of printed p. 101 (PDF 121), mid-topic *kṣayadvīrāya*. Next: printed p. 102 (PDF 122). Plan this session: Sūktas 114–117. Open: many Ni./Tai. numerals `[?]`; bhāṣya small type `[?]`; CLAUDE.md range should read 113–121.
