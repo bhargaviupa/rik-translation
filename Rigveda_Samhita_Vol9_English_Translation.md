@@ -11541,4 +11541,48 @@ In this Ṛk too the word *vipra* is used in the sense of 'wise'."
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–7 complete; Ṛk 8 through printed p. 483 (PDF 503): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 484). Next: printed p. 484 (PDF 504). Numerals as read: sūtra numbers on p. 482 `[as read]`.
+### Printed p. 484  (PDF 504; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.8)** (Kannada, rendered)
+
+"O Aśvins! You set out, in a far-off place (in the middle of the sea), to praise [you] and to protect Bhujyu, who was then in distress, abandoned by his father; therefore (all) of them desire that your wonderful, protective acts, performed by you who move auspiciously, be (always) easy to obtain near at hand."
+
+**English Translation (as printed)**
+
+"You repaired to him who, afflicted by the abandonment of his own father, praised you from afar: hence your prompt and wonderful succours have been wished to be at hand (by all)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 8)**
+
+"Bhujyu, when he was going, abandoned by his father, to subdue enemies, [and] was in the middle of the sea, helpless and in distress — the Aśvins, knowing this, came out of compassion to protect him; and since the protection of all other beings, too, comes about only through the compassion of these Aśvins, it is described [here] that their compassion is desirable to all. In explaining the first half of this Ṛk, Sāyaṇa construes the words with reference to the protection of Bhujyu, the son of Tugra only. Skandasvāmin:
+
+> अगच्छतं चक्षुःप्रदानार्थं गतवन्तौ युवां कृपमाणं स्तुवन्तं ऋज्राश्वं प्रति ।
+
+> *agacchataṃ cakṣuḥpradānārthaṃ gatavantau yuvāṃ kṛpamāṇaṃ stuvantaṃ ṛjrāśvaṃ prati |*
+
+— 'you went for the sake of giving sight, to Ṛjrāśva, who was praising [you]': he explains this as the protection of Ṛjrāśva, saying that the Aśvins set out to give eyes to Ṛjrāśva, who was praising them after losing his eyes. According to this, he explains the meanings of the words in each case separately."
+
+*Tyajasā* — *tyāgena bādhitaṃ pīḍitam*: "Sāyaṇa takes it in reference to Bhujyu: 'one who was in distress because his father abandoned him'. *Pituḥ svasya tyajasā nibādhitam* — *ātmīyasya pituḥ kopena śāpajanitāndhyena pīḍitam* — 'afflicted by blindness produced by his own father's curse out of anger': Skandasvāmin explains it as Ṛjrāśva, who was in distress because of the blindness that arose from it."
+
+*Citram* — *cāyanīyam*: "'worthy of worship' is the meaning. In explaining the meaning of the word *citra*, Yāska has explained *citram cāyanīyam maṃhanīyam* (Ni. 3-?? [as read: 'ನಿ. ೩-೨']) in one example, and in another example *citraṃ devānām* [Ṛ. 1-115-1] he explains the meaning as 'worthy of being worshipped'."
+
+---
+
+### Printed p. 485  (PDF 505; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Ūtīḥ* — *ūtayaḥ rakṣaṇāḥ*: "'protections' is Sāyaṇa's [meaning]; and Skandasvāmin also explains *yajñān prati gatayaḥ* — 'goings to sacrifices'."
+
+*Abhīke* — *samīpe*: "'near' is Sāyaṇa's explanation. Skandasvāmin, explaining the latter half of this Ṛk, [construes] *citrā abhavan bhīke abhiṣṭayaḥ*:
+
+> सर्वैः परिचारकैः सह इतः स्थानात् यज्ञान् प्रत्यासन्ने योगकाले युवां गच्छतं तत्र चाभ्येथे । अथवा अभीके इति संग्राममाम सर्वैस्सैन्योर्ध्वभिः सह गच्छथो युवां संग्रामे गत्वा चाभिगच्छथः शत्रूनित्यर्थः ।
+
+> *sarvaiḥ paricārakaiḥ saha itaḥ sthānāt yajñān pratyāsanne yogakāle yuvāṃ gacchataṃ tatra cābhyethe | athavā abhīke iti saṃgrāmamāma sarvaissainyordhvabhiḥ saha gacchatho yuvāṃ saṃgrāme gatvā cābhigacchathaḥ śatrūnityarthaḥ |*
+
+— 'You come from this place with your attendants to the sacrifices, [as the] time of joining [with the oblation] approaches, and there you receive [the worship]. Or: *abhīke* is the word for 'battle': you go with your warriors to the battlefield to fight, and, going, you face the enemies': so he explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly; sūtra numbers as read)**
+
+*Agacchatam* — root *gam̐ḷ gatau*; *laṅ*, second person dual, *tam* substituted; *śap* vikaraṇa; *iṣugamiyamāṃ chaḥ* (Pā. 7-3-77 as read), *ccha* for the root's final; the augment *aṭ*; because it stands at the beginning of a pāda, no *nighāta*; since the augment *aṭ* is *udātta*, the initial acute. *Kṛpamāṇam* — the root *kṛpa* is used in the sense of praising; it should be inferred that it is read in the *tudādi* group; in the sense of *laṭ*, the suffix *śānac*; *śa* vikaraṇa; since it is *ñit*, *guṇa* of the light penultimate does not occur; *ānemuk* (Pā. 7-2-82 as read), the augment *muk* for the *a*-ending. *Tyajasā* — root *tyaja hānau*; the suffix *asun*, which comes on account of "all roots"; since it is *nit*, *jñityādir nityam* (Pā. 6-1-197 as read), the initial acute; instrumental singular form. *Nibādhitam* — root *bādha vilodane*; in the passive sense *niṣṭhā*, the suffix *kta*; *ārdhadhātukasyeḍ valādeḥ* (Pā. 7-2-35 as read), the augment *iṭ*; *gatir anantaraḥ* (Pā. 6-2-49 as read), the *gati* (*ni*) keeps its natural accent. *Svarvatīḥ* — the prefix *su*; root *ṛ gatau*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read), in the abstract sense, the suffix *vic*; on that account *guṇa* of the root; becomes *r*-final …
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–7 complete; Ṛk 8 through printed p. 485 (PDF 505): all parts done except the end of its grammar (continues p. 486). Next: printed p. 486 (PDF 506). Numerals as read: Ni. 3-2; sūtra numbers on p. 485 `[as read]`.
