@@ -13302,4 +13302,58 @@ Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–5 complete; Ṛk 6 through printed p. 561 (PDF 581): Saṃhitā, Pada, bhāṣya written (the page's pratipadārtha and the rest follow on p. 562). Next: printed p. 562 (PDF 582). Numerals as read: Ni. numbers, Manu 3-76, sūtra numbers `[as read]`. The pp. 559–560 Skandasvāmin quotations were rendered with some free paraphrase from the Kannada exposition.
+### Printed p. 562  (PDF 582; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Bhāṣya's grammar tail of Ṛk 6 concluded: *svedūhavyaiḥ* — *sva* + *idū* + *havya*, or *iṃdhī dīptau*, *auṇādika* suffix *u*; *siñcan* — *ṣica kṣaraṇe*, *kartṛ* suffix by *vyatyaya*, *śe muñcādīnām num*; *jaraṇā* — *jṛṣ* / *jṝ stutikarma*, *lyuṭ* in the passive; *supāṃ sulug*, *ā* — characterized, not transcribed.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.6)** (Kannada, rendered)
+
+*Adha* — now (pleased by our praises); *pra jajñe* — Indra appeared; *jaraṇā* — praiseworthy (excellent); *induḥ* — soma-juice; *dhāma abhi* — at the place of the *āhavanīya* fire; *sruveṇa* — with the ladle; *siñcan* — being sprinkled; *svedūhavyaiḥ* — [by those] who have their own and abundant oblations; *yebhiḥ* — by whom (by us); *āṣṭa* — was partaken of; *tā* — such; *naḥ* — us; *taraṇiḥ* — Indra, the breaker of enemies; *mamattu* — let him gladden; *asyāḥ* — of this (visible to us); *uṣasaḥ* — of the dawn (nearby); *sūro na* — like the Sun; *pra roci* — [he] shines specially.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.6)** (Kannada, rendered)
+
+"Now Indra, pleased by our praises, has appeared. After we, who have prepared abundant oblations, have sprinkled the excellent soma-juice with the ladle at the place of the *āhavanīya* fire and partaken of it, may Indra, who shines like the Sun that stands near the dawn, give us delight."
+
+**English Translation (as printed)**
+
+"Now is Indra manifested; may he, the overcomer (of his foes), grant us happiness, he, who shines brightly, like the sun of this dawn: may the excellent Soma, being sprinkled upon the place of sacrifice with a ladle, (exhilarate us), by whom, presenting the oblations we had prepared, it was imbibed."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 6)**
+
+*Svedūhavyaiḥ* — *imāni prabhūtāni ca tāni havyāni svabhūtāni ca havyāni yeṣāṃ; yadvā iṃdhī dīptau svāyattāni indūni iddhāni havyāni yeṣāṃ; athavā svabhūtam idaṃ purovarti havyaṃ havir yeṣāṃ te tathoktāḥ*: "'those who have these abundant and their own oblations'; or, from the root *iṃdhī* (to shine) — [those] whose oblations, within their own control, are kindled; or, 'those who have this oblation, present before them, as their own' — [the meaning is] sacrificers who have oblations of their own, abundant, and prepared for the sake of the gods. Skandasvāmin: *svedūhavyaiḥ* — [analysis] *sva* + *indu* + *havya*: *sva* means 'one's own', *indu* means soma — i.e. 'those who have, for the sacrifice, their own soma as the oblation'; the *n*-letter is dropped by the speed of the pronunciation; and 'the soma prepared for the god *āyāya*' — in this sense the sacrificers who have prepared soma for the gods, as the oblation, offer it in the fire. And, as [the sacrificers are] the friends of Indra, the Aṅgirases, in this Ṛk the word *svedūhavya* is used as a description of the sacrificers who offer with the gladness of their friends."
+
+---
+
+### Printed p. 563  (PDF 583; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Taraṇiḥ* — *śatrūṇāṃ tārakaḥ*: "'one who saves from the calamities caused by enemies, by destroying them'."
+
+*Asyāḥ uṣaso na sūraḥ* — *asmābhir dṛśyamānāyā uṣasaḥ samīpe vartamānaḥ sūrya iva*: "'like the Sun that stands near the dawn which we see' — Sāyaṇa explains that Indra follows the soma, as the Sun follows the dawn visible to us. Skandasvāmin, explaining the simile in the same way: *naśabdo 'tra purastād upacāro 'pi upamāsthānīyaḥ sūryasyoṣasaḥ putratvena sambandhaḥ* — 'the word *na* here is indicated as [a particle of] comparison, in the figurative manner; and the relation of Sun and Dawn is that of a son [to a mother]': '*ruśadvatsā ruśatī śvetyāgāt*' (Ṛ. 1-113-2) — this is said as a word of comparison: the Sun and Dawn have the relation of begetter and begotten; so he elaborates from the Ṛk *ruśadvatsā*."
+
+*Induḥ* — *somaḥ somalatā*: "'the soma-plant'. The word *indu* is stated among the names of drops (Ni. 1-?? [as read]) and among the names of sacrifice (Ni. 4-?? [as read]): *indur indheḥ undater vā, indheḥ dīptikarmaṇaḥ, unater klendanakarmaṇaḥ* (Ni. 10-?? [as read]) — 'derived from the root *iṃdhī*, of the sense of brightness, or from *und*, of the sense of wetting; hence *indu* means the moon or the soma-creeper' — two meanings. Skandasvāmin:
+
+> एकवाक्यतार्थं यत्तच्छब्दावध्याहार्यौ । यः वृत्रवधादिषु यशसा शौर्येण च परिवृद्धः । यज्ञेषु प्रकर्षेण आमादयत् [?] यथा यस्या उषसः संबन्धी सूर्यः तद्वत् दीप्यते । यैरस्माभिर्देवैः सह सोमं पिबति स्तूयते च तैः स्वसखैरङ्गिरोभिः सह तृप्यतु ॥
+
+> *ekavākyatārthaṃ yattacchabdāvadhyāhāryau | yaḥ vṛtravadhādiṣu yaśasā śauryeṇa ca parivṛddhaḥ | yajñeṣu prakarṣeṇa āmādayat [?] yathā yasyā uṣasaḥ saṃbandhī sūryaḥ tadvat dīpyate | yairasmābhirdevaiḥ saha somaṃ pibati stūyate ca taiḥ svasakhairaṅgirobhiḥ saha tṛpyatu ‖*
+
+— 'for the sake of a single sentence, [the words] *yat* and *tat* are to be supplied. [Indra], who has grown great in fame and valour by such deeds as the killing of Vṛtra, [who] delights exceedingly at sacrifices, shines like the Sun that belongs to the dawn; with the gods, by whom, together with the Aṅgirases, he drinks the soma and is praised, with those friends of his, may he be satisfied'."
+
+---
+
+### Printed p. 564  (PDF 584; header "Maṃ. 1 A. 18 Sū. 121")
+
+"— he explains the sense: that Indra, grown by deeds such as the slaying of Vṛtra, is greatly in fame and valour; he is, in the sacrifices, exceedingly delighted by the shares of oblation; he shines near the dawn like the Sun; he, being together with the gods, and being all-pervading in the gods, drinks the soma, with the gods, and is praised by those gods — thus Indra's nature, qualities and deeds are described; and, being thus, he, being satisfied and exhilarated through receiving the shares of the oblations together with his friends the Aṅgirases, should favour the sacrificers, so that they too become satisfied and exhilarated — such is the prayer described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly)**
+
+*Adha* (*atha*, with *dh* for *th* by Vedic usage) · *jajñe* (*janī prādurbhāve*, *liṭ*, *ta* → *eś*; doubling; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*, Pā. 6-4-98, elision of the penultimate; *nighāta*) · *mamattu* (*madī harṣe*, *loṭ*, *tu*; *ślu* for *śap*, Pā. 2-4-75 as read; doubling by *ślau*, Pā. 6-1-10; *khari ca*, *c* → *t*) · *roci* (*ruca dīptau*; *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6, *luṅ*; *cleś cili* → *ciṇ* by *vyatyaya*; *ciṇo luk*, Pā. 6-4-104; no augment) · *yebhiḥ* (*bahulaṃ chandasi*, no *ais*-substitution) · *āṣṭa* (*aśa bhojane*, passive *laṅ*, *ta*; *luk* of the vikaraṇa; *vraścabhrasja…*, *ṣatva*, *ṣṭutva*; augment *āṭ*; no *nighāta* by *yaddhṛttānnityam*, Pā. 8-1-66) — sūtra numbers as read.
+
+---
+
+### Printed p. 565  (PDF 585; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 6, concluded)* *Svedūhavyaiḥ* (*iduḥ* / *iṃdhī dīptau*, suffix *u*, the *num* does not arise by *āgamaśāstram anityam*, Pā. [vārttika]; the form *idu*; the compound analysed *idū prabhūtāni ca tāni havyāni svabhūtāni ca havyāni yeṣāṃ te svedūhavyāḥ*; by *pṛṣodarādīni yathopadiṣṭam*) · *siñcan* (*ṣiṣic kṣaraṇe*; *kartṛ* suffix in the passive by *vyatyaya*; *śatṛ*; *śe muñcādīnām*, Pā. 7-1-59, *num*; accent of *śap*) · *jaraṇā* (*jṝ stutyarthe*, *lyuṭ* in the passive, *yuvoranākau*, Pā. 7-1-1, *ana*; *supāṃ sulug*, Pā. 7-1-39, *ā*; *liti*, Pā. 6-1-193, accent by *vyatyaya* on the suffix's first). ‖ 6 ‖
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–6 complete (printed p. 565, PDF 585). Next: printed p. 566 (PDF 586): Ṛk 7 Saṃhitā. Nine Ṛks (7–15) remain. NOTE: images for PDF pages are `q/pNNN.jpg` with printed page = NNN − 20; always request PDF page = printed + 20. Numerals as read: Ni. numbers and Ṛ. 1-113-2 `[as read]`.
