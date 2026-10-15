@@ -10855,4 +10855,40 @@ In this Ṛk, *vasubhiḥ sajoṣāḥ* means *saha joṣaṇaḥ samānaprīti�
 
 ---
 
-**Progress note:** Sūkta 118 complete; Sūkta 119 begun: heading, Anukramaṇī, Anuvāda, Ṛk 1 Saṃhitā, Pada, bhāṣya, pratipadārtha begun (printed p. 453, PDF 473; continues p. 454). Next: printed p. 454 (PDF 474). Numerals as read (the numeral lists stop before this): Āś. 4-13, Uṇ. 2-24, varga "20, 21" `[?]`.
+### Printed p. 454  (PDF 474; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Pratipadārtha of Ṛk 1, concluded)* "… *vām* — your; *ratham* — chariot; *jīvase* — for (my) life; *prayaḥ* — to receive the food in the form of the oblation (for the purpose of offering it); *ā huve* — I call [you]."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.1)** (Kannada, rendered)
+
+"O Aśvins! I call your chariot — wonderful, swift as the mind, with horses of swift gait, worthy of worship at sacrifices, with many banners, water-bringing (rain-bringing), having unlimited wealth, bringing happiness, giving wealth — in order to receive the food in the form of the oblation, and for the sake of (our) life."
+
+**English Translation (as printed)**
+
+"Desiring food, I invoke, (Aswins), to support my life, your wonderful car, swift as thought, drawn by fleet horses, worthy of veneration, many-bannered, bringing rain, containing wealth, abundantly yielding delight, and conferring riches."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 1)**
+
+*Purumāyam* — "For this word Sāyaṇa gives the meaning 'having many wonders', or 'suited to perform many works'; Skandasvāmin explains *bahuprajñam* — 'one that produces exceeding knowledge'."
+
+*Jīrāśvam* — "Since the word *jīra* is stated among the names of *kṣipra* ('swift') (Ni. 2-15 [as read]), the meaning is 'speed': 'having horses that run quickly'."
+
+*Vaninam* — *udakavantam*: "Since the word *vana* is stated among the hundred and one names of water (Ni. 1-12 [as read]), *vaninam* means 'one that has water'."
+
+*Śruṣṭīvānam* — "*śruṣṭīti kṣipranāma* (Ni. 6-13 [as read]) — thus Yāska explains; and, since [he] explains *śruṣṭīvarī* in the sense *sukhavatīḥ* (Ni. 6-31 [as read]), the intent is that the Aśvins' chariot arrives quickly, or makes for happiness."
+
+*Varivodhām* — "Since the word *varivas* is stated among the names of wealth (Ni. 2-10 [as read]), the meaning is 'having wealth' or 'able to give wealth'."
+
+"In this Ṛk the invocation of the Aśvins is set forth, and the nature and qualities of their chariot are also stated: that the chariot of the Aśvins produces much wonder in all; is fit for accomplishing many tasks; has a speed greater than the mind's; is yoked with swift horses; is able to get excessive wealth from the thousand worlds; gives rain; is fit to give wealth, with rapid movement, to those who sacrifice. For the Aśvins to come seated in such a chariot is described."
+
+---
+
+### Printed p. 455  (PDF 475; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly; sūtra numbers as read)**
+
+*Purumāyam* — *puru bahudhā māyāḥ yasya saḥ purumāyaḥ, tam*; since it belongs to the *tricakrādi* group, by the statement *tricakrādīnāṃ chandasy upasaṅkhyānam*, the final acute. Or: "*purumāyā asya asti*" — when the sense of *matup* is meant, *arśa-ādibhyo 'c* (Pā. 5-2-127 as read), the suffix *ac*; since it is *cit*, *ciṭaḥ* (Pā. 6-1-163 as read), the final acute. *Jīrāśvam* — *ju* is a *sautra* root, used in the sense of going; the suffix *ran* by *jorī ca* (Uṇ. sū. 2-24 as read); by its association [the root takes] *ī*-ending substitution; *jīraḥ aśvaḥ yasya saḥ, tam jīrāśvam*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read), the former member keeps its natural accent. *Yajñiyam* — *yajñasya ārham yajñiyaḥ, tam*; *yajñartvigbhyāṃ ghakhañau* (Pā. 5-1-71 as read), the suffix *gha* in the sense of "worthy of"; *āyaneyīnīyiyaḥ phaḍhakhachaghām* (Pā. 7-1-2 as read), *iy* substituted for it; *yasyeti ca* (Pā. 6-4-148 as read), elision of the *a*-ending of the base; by the suffix's initial acute, the *i* gets the acute. *Jīvase* — root *jīva prāṇadhāraṇe*; since the infinitive sense is meant, *tumarthe se-sen-ase…* (Pā. 3-4-9 as read), the suffix *ase*; by the suffix's initial acute it becomes a middle-acute word; *kṛn mejantaḥ* (Pā. 1-1-39 as read), since it is a *kṛdanta* [ending in *e*] it has the name *avyaya*; *avyayād āpsupaḥ* (Pā. 2-4-82 as read), *luk* of the *supa* that follows it. *Huve* — root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person singular, when the suffix *iṭ* has come, *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read), *e*; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *bahulaṃ chandasi*, *luk* for *śap*; *ajiknudhātubhruvām* (Pā. 6-4-77 as read), *uvaṅ* substituted for the *u* of the root; since by *sārvadhātukam apit* the suffix is *ṅit* [-like], *guṇa* does not occur; since it stands after an *ajanta*, the *nighāta* accent.
+
+---
+
+**Progress note:** Sūkta 119: Ṛk 1 through printed p. 455 (PDF 475): all parts done except the end of its grammar (continues p. 456). Next: printed p. 456 (PDF 476). Numerals as read: Ni. numbers on p. 454 `[as read]`, sūtra numbers on p. 455 `[as read]`.
