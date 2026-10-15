@@ -10076,4 +10076,46 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written (printed p. 419, PDF 439). Next: printed p. 420 (PDF 440): Ṛk 2 bhāṣya onward. Numerals as read (list stops at printed p. 380): Ṛ. 4-52-1/2, Ni. 10-16, sūtra numbers on pp. 418–419 `[as read]`.
+### Printed p. 420  (PDF 440; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.2)** *(small type; read with some doubts)*
+
+> त्रिबन्धुरेण । बन्धुरं सारथिस्थानम् । त्रिप्रकारबन्धुरोपेतेन त्रिवृता त्रिधा वर्तमानेन त्रिचक्रेण चक्रत्रयोपेतेन सुवृता शोभनं गच्छता रथेनार्वाङ्गस्मदभिमुखमा यातम् [?] । आगच्छतम् । आगत्य चास्मदीया गाः पिन्वतम् । पयसा पूरयतम् । नोऽस्माकमर्वतोऽश्वान् जिन्वतम् । प्रीणयतम् । अपि च हे अश्विनौ अस्मे अस्माकं वीरं पुत्रादिकं वर्धयतं [?] । प्रवृद्धं कुरुतम् । त्रिचक्रेण । त्रीणि चक्राणि यस्य स तथोक्तः । त्रिचक्रादीनां छन्दस्युपसंख्यानं (पा. ६-२-१३९-१ [as read [?]]) इत्युक्त्वा पदान्तोदात्तत्वम् ॥
+
+> *tribandhureṇa | bandhuraṃ sārathisthānam | triprakārabandhuropetena trivṛtā tridhā vartamānena tricakreṇa cakratrayopetena suvṛtā śobhanaṃ gacchatā rathenārvāṅgasmadabhimukhamā yātam [?] | āgacchatam | āgatya cāsmadīyā gāḥ pinvatam | payasā pūrayatam | no 'smākamarvato 'śvān jinvatam | prīṇayatam | api ca he aśvinau asme asmākaṃ vīraṃ putrādikaṃ vardhayataṃ [?] | pravṛddhaṃ kurutam | tricakreṇa | trīṇi cakrāṇi yasya sa tathoktaḥ | tricakrādīnāṃ chandasyupasaṃkhyānaṃ (pā. 6-2-139-1 [as read [?]]) ityuktvā padāntodāttatvam ‖*
+
+*Sense (mine):* "*Tribandhureṇa* — *bandhura* is the charioteer's seat; with a chariot having seats of three kinds, *trivṛtā* — that goes in a threefold manner [triangular], *tricakreṇa* — with three wheels, *suvṛtā* — going smoothly; come (*ā yātam*) *arvāk* — facing us. Come, and then *pinvatam* — fill our cows with milk; *jinvatam* — please our horses (*arvataḥ*); and, O Aśvins, *asme* — for us, *vardhayatam* — increase our *vīra* — sons and the like. *Tricakra* — he who has three wheels; having said *tricakrādīnāṃ chandasy upasaṅkhyānam*, [the accent is] the final acute."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.2)** (Kannada, rendered)
+
+*(He) aśvinā* — O Aśvins; *tribandhureṇa* — with three seats for the charioteer; *trivṛtā* — of triangular shape; *tricakreṇa* — with three wheels; *suvṛtā* — with good motion; *rathena* — by the chariot; *arvāk* — (to us) facing; *ā yātam* — come; *gāḥ* — (our) cows; *pinvatam* — fill (with milk); *naḥ* — our; *arvataḥ* — horses; *jinvatam* — fill with vigour; *(api ca)* — and; *asme* — our; *vīram* — sons and the like; *vardhayatam* — cause to flourish.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.2)** (Kannada, rendered)
+
+"Come to us face to face, in your chariot — having three seats for the charioteer, triangular, three-wheeled, of good motion; and bestow on our cows milk, on our horses vigour, and on our sons and others increase."
+
+**English Translation (as printed)**
+
+"Come to us with your tri-columnar, triangular, three-wheeled, and well-constructed car; replenish our cows (with milk), give spirit to our horses, and augment, Aswins, our posterity."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 2)**
+
+"The chariot of the Aśvins has three wheels. The seat where the charioteer sits is made of three kinds of boards. In this swift-moving chariot the Aśvins, out of compassion, to grant our wishes … [continues on p. 421]
+
+---
+
+### Printed p. 421  (PDF 441; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+… to our cows [they give] abundant milk; they make our horses go swiftly; and a prayer is described here that they favour us with sons, grandsons and the like."
+
+*Arvataḥ* — *aśvān*: "'Horses'. The word *arvan* is read among the names of horses (Ni. 1-?? [as read: 'ನಿ. ೨-೩೧']). *Arvā* — *īraṇavān* (Ni. 10-?? [as read]): since the word *arvan* is explained in this way [as 'one who goes with speed'], the sense is 'he who moves swiftly'. Here, according to the context, the meaning 'horse' is given."
+
+*Tricakreṇa* — *trīṇi cakrāṇi yasya saḥ cakratrayopetena*: "'with three wheels' is the meaning: provided with three wheels."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; sūtra numbers as read)**
+
+*Tribandhureṇa* — *trīṇi bandhurāṇi yasya saḥ tribandhuraḥ*, instrumental *ṭā*; by the statement *tricakrādīnāṃ chandasy upasaṅkhyānam*, the last member gets the final acute; so too below in *tricakreṇa* the accent is to be understood: *trīṇi cakrāṇi yasya saḥ tricakraḥ, tena tricakreṇa*. *Yātam* — root *yā prāpaṇe*; *loṭ*, second person dual; *tiṅanta nighāta* accent. *Pinvatam* — root *pivi secane*, *bhvādi*; *idito num dhātoḥ* (Pā. 7-1-58 as read), *num* for the root; *loṭ*, second person dual, *thas* → *tam*; *śap* vikaraṇa; because it stands at the beginning of a pāda, the *nighāta* does not occur; since it follows after *upadeśa*, as the *lasārvadhātuka* has come, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read) makes it *anudātta*; then the root accent remains. *Jinvatam* — root *jivi prīṇane*; as before, *loṭ*, second person dual; *cādilope vibhāṣā* (Pā. 8-1-63 as read), the prohibition of *nighāta* [from the optionality] comes, so as before the root accent remains. *Arvataḥ* — root *ṛ gatau*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read), the suffix *vanip*; on that account *guṇa* of the root; the word *arvan*; with *śas* following, *arvaṇas tṛ sāv anañaḥ* [as read; Pā. 6-4-127] — *tṛ* final substitution; since *vanip* is *pit*, the root's accent remains.
+
+---
+
+**Progress note:** Sūkta 118: Ṛk 1 complete; Ṛk 2 through printed p. 421 (PDF 441): all parts done except the end of its grammar (*arvataḥ* begun; continues p. 422). Next: printed p. 422 (PDF 442). Numerals as read (list stops at printed p. 380): Ni. numbers and sūtra numbers on pp. 420–421 `[as read]`.
