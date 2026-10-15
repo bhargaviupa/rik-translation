@@ -9191,4 +9191,54 @@ In explaining this Ṛk, Sāyaṇa quotes:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–16 complete; Ṛk 17 through printed p. 383 (PDF 403): all parts done except the end of its grammar (*vicakṣe*, begun; continues p. 384). Next: printed p. 384 (PDF 404). Numeral list has no entries for pp. 382–383 (the list stops at printed p. 380): sūtra numbers there are from the page, marked "as read".
+### Printed p. 384  (PDF 404; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar of Ṛk 17, concluded (noted briefly):* *Vicakṣe* (continued) — [the infinitive suffix] *se* (*tumarthe se-sen-ase-asen-kase-kasen-adhyai-…*, Pā. 3-4-9 as read); *skoḥ saṃyogādyor ante ca* (Pā. 8-2-29 as read), elision of the conjunct's *k* [of the root]; *ṣaḍhoḥ kaḥ si* (Pā. 8-2-41 as read), the *ṣ* → *k* [for] *h*; *kaṣa*-… — the *k* and then, since a *k* follows, the suffix's *s* becomes *ṣ*; the form *cakṣe*. Since the suffix is *nit*, *jñityādir nityam* (Pā. 6-1-197 as read), the initial acute. Together with *vi*, as a *gati*-compound, *gatikārakopapadāt kṛt*, the *kṛdanta* hind-part keeps its natural accent. ‖ 17 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.18)**
+
+> शुनमन्धाय भरमह्वयत्सा वृकीरश्विना वृषणा नरेति ।
+> जारः कनीन इव चक्षदान ऋज्राश्वः शतमेकं च मेषान् ॥ १८ ॥
+
+> *śunamandhāya bharamahvayatsā vṛkīraśvinā vṛṣaṇā nareti |*
+> *jāraḥ kanīna iva cakṣadāna ṛjrāśvaḥ śatamekaṃ ca meṣān ‖ 18 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.18)**
+
+> शुनम् । अन्धाय । भरम् । अह्वयत् । सा । वृकीः । अश्विना ।
+> वृषणा । नरा । इति ।
+> जारः । कनीनःऽइव । चक्षदानः । ऋज्रऽअश्वः । शतम् । एकम् । च ।
+> मेषान् ॥ १८ ॥
+
+> *śunam | andhāya | bharam | ahvayat | sā | vṛkīḥ | aśvinā |*
+> *vṛṣaṇā | narā | iti |*
+> *jāraḥ | kanīnaḥ 'iva | cakṣadānaḥ | ṛjra 'aśvaḥ | śatam | ekam | ca |*
+> *meṣān ‖ 18 ‖*
+
+---
+
+### Printed p. 385  (PDF 405; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.18)** *(small type; read with several doubts)*
+
+> शुनमिति सुखनाम । भरं पोषणहेतुभूतं चक्षुरिन्द्रियेण निष्पाद्यं शुनं सुखमन्धाय दृष्टिहीनाय तस्मै ऋज्राश्वायेच्छन्ती सा वृकी हे अश्विनावह्वयत् । [कृष्णं ? — unreadable [?]] जगद्व्यप्नुवन्तौ वा वृषणा हे वृषणौ कामानां वर्षितारावित्येवं संबोध्य नरा नेतारावश्विनावह्वयत् । अह्वयन्त्यास्तस्याः कोऽभिप्राय इति चेत् तमुच्यते । कनीन इव यथा प्राप्तयौवनः कामुको जारः पारदारिकः सन् परस्त्रियै सर्वं धनं प्रयच्छति एवमृज्राश्वो मह्यं शतमेकं चैकोत्तरशतसंख्याकान्मेषान्पूर्वजननानां [?] स्वभूतानपहृत्य चक्षदानः कर्तनं कुर्वन् प्रादात् । तेनेदृशीं दुर्दशां प्राप्ता इति ॥ कनीनः । युवशब्दस्येष्मयुवल्पयोः कन्यन्यतरस्याम् (पा. ५-३-६४ [as read]) इति युवशब्दस्य कनादेशः । व्यत्ययेनेष्णः [?] आदेशः । यद्वा । कन दीप्तिकान्तिगतिषु । अस्मादौणादिक ईनप्रत्ययः ॥
+
+> *śunamiti sukhanāma | bharaṃ poṣaṇahetubhūtaṃ cakṣurindriyeṇa niṣpādyaṃ śunaṃ sukhamandhāya dṛṣṭihīnāya tasmai ṛjrāśvāyecchantī sā vṛkī he aśvināvahvayat | [kṛṣṇaṃ ? — unreadable [?]] jagadvyapnuvantau vā vṛṣaṇā he vṛṣaṇau kāmānāṃ varṣitārāvityevaṃ saṃbodhya narā netārāvaśvināvahvayat | ahvayantyāstasyāḥ ko 'bhiprāya iti cet tamucyate | kanīna iva yathā prāptayauvanaḥ kāmuko jāraḥ pāradārikaḥ san parastriyai sarvaṃ dhanaṃ prayacchati evamṛjrāśvo mahyaṃ śatamekaṃ caikottaraśatasaṃkhyākānmeṣānpūrvajananānāṃ [?] svabhūtānapahṛtya cakṣadānaḥ kartanaṃ kurvan prādāt | tenedṛśīṃ durdaśāṃ prāptā iti ‖ kanīnaḥ | yuvaśabdasyeṣmayuvalpayoḥ kanyanyatarasyām (pā. 5-3-64 [as read]) iti yuvaśabdasya kanādeśaḥ | vyatyayeneṣṇaḥ [?] ādeśaḥ | yadvā | kana dīptikāntigatiṣu | asmādauṇādika īnapratyayaḥ ‖*
+
+*Sense (mine and tentative):* "*Śunam* is a name for happiness (*sukha*). *Bharam* — a cause of nourishment; wishing for that blind Ṛjrāśva *śunam* — happiness to be produced through the sense of sight — she, the she-wolf (*vṛkī*), called (*ahvayat*) the Aśvins, O showerers (*vṛṣaṇā*) of desires, O leaders (*narā*), addressing them so. If one asks what was the idea of her who called — this is told: *kanīna iva* — as a young lover, a *jāra*, an adulterer, having attained youth, gives all his wealth to another man's wife, so Ṛjrāśva, taking away [from his own family's flock?] a hundred and one sheep belonging to himself, cutting [them] up (*cakṣadānaḥ* — doing the cutting), gave them to me; and because of that he came to such a wretched plight." *Kanīnaḥ* — the word *yuvan*, by the rule *yuvālpayoḥ kan anyatarasyām* (Pā. 5-3-64 as read), *kan* is substituted for *yuvan*; or, from the root *kana dīptikāntigatiṣu*, an *auṇādika* suffix *īna*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.18)** (Kannada, rendered)
+
+*Vṛṣaṇā* — O givers of desired things; *narā* — O leaders; *aśvinau* — O Aśvins; *bharam* — nourishing; *śunam* — happiness (to be obtained through the eye); *andhāya* — for the blind (to give to Ṛjrāśva); *sā vṛkī* — that she-wolf; *ṛjrāśvaḥ* — Ṛjrāśva; *śatam ekaṃ ca* — a hundred and one (belonging to himself and to others); *meṣān* — sheep; *kanīnaḥ* — a youthful; *jāra iva* — like an adulterer (who gives all he has to another man's wife); *cakṣadānaḥ* — cutting up (for me) gave; *iti* — thus; *ahvayat* — called (you).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.18)** (Kannada, rendered)
+
+"O Aśvins, you who are leaders and rainers of desires! Wishing the best happiness — the one attainable through the eye — for the blind Ṛjrāśva, that she-wolf called you: 'Ṛjrāśva, like a young adulterer who gives all his wealth to another man's wife, cut up for me a hundred and one sheep and gave them (and by that he has gotten into this wretched condition).'"
+
+**English Translation (as printed)**
+
+"(Desiring) that the enjoyment (arising from the perfection) of the senses (should be restored to the blind), the she-wolf invoked you, (saying), 'Aswins, showerers (of benefits), (leaders) of sacrifices), Rijraswa, (lavish) as a youthful gallant, (has given me) a hundred and one sheep, cutting them into fragments.'" *(The printed English has an unmatched parenthesis at "(leaders) of sacrifices)" [sic].)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–17 complete; Ṛk 18 through printed p. 385 (PDF 405): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics follow (p. 386). Next: printed p. 386 (PDF 406). Numerals on pp. 384–385 read from the page ("as read"; the numeral list stops at printed p. 380).
