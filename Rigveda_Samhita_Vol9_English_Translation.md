@@ -4,7 +4,7 @@
 **Covers:** Maṇḍala 1, **Sūktas 113–121**, the **Eighth Adhyāya** of the First Aṣṭaka ("ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ಎಂಟನೆಯ ಅಧ್ಯಾಯವು"), per the printed contents table (Viṣayānukramaṇike); the first sūkta is 113 (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotiḥ*), starting on printed p. 2.
 **Page offset:** the title page of the Eighth Adhyāya is PDF 21 (= printed p. 1); **printed page = PDF − 20**. The contents table ends with the topic on printed p. 601; the last text pages are about 601–603.
 **Conventions:** carried over unchanged from Volumes 1–8 (see `CLAUDE.md`): three-layer Sanskrit (Devanagari + IAST + English), view each page before writing, `[?]` for doubtful readings, glosses labelled "mine and tentative", the source's own English reproduced with [sic], grammar pages noted briefly. **Numerals:** read with the digit key confirmed in Volume 8 (flat-footed "2"-like glyph = 7, curled = 2; see `publish/tools/numeral_pass/METHOD.md`) in the first pass.
-**Status:** set up only; nothing translated yet. Front matter (Pīṭhike, pp. i–xiii) and the Eighth-Adhyāya text still to do. Append-only; keep exactly one trailing progress note.
+**Status:** complete — Sūktas 113–121 translated (printed pp. 2–603), with the Pīṭhike and contents table (printed pp. i–xiii). Open items are listed in the closing progress note.
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### Printed p. i  (PDF 8)
 
-In this part of the Ṛgsaṃhitā there are the Sūktas from Maṇḍala 1, Sūkta 113 to Sūkta 121 (9 Sūktas; my first reading "130 / 18" was wrong — the contents table, printed pp. vii–xiii, runs 113–121 and the Pīṭhike itself mentions five Aśvin Sūktas, 116–120). The deities of these Sūktas are Rātri, Uṣas, Rudra, Sūrya, the Aśvins and Indra. More than half of this Adhyāya is devoted to the Aśvins. The account given in Skandasvāmin's bhāṣya on the Ṛks addressed to the Aśvins is not found in Sāyaṇa's bhāṣya. All the Sūktas relating to these deities are accompanied by *upākhyānas* (legends). Skandasvāmin has explained all these legends and has indicated the stories of persons who obtained help of many kinds from the Aśvins. Sāyaṇa, who is later than he, and other later writers have many points in their commentaries that are not in Sāyaṇa's bhāṣya. Therefore in the explanation of this part Skandasvāmin's bhāṣya has been used freely. It is a great misfortune that his bhāṣya is not available in full.
+In this part of the Ṛgsaṃhitā there are the Sūktas from Maṇḍala 1, Sūkta 113 to Sūkta 121 (9 Sūktas; the contents table, printed pp. vii–xiii, runs 113–121 and the Pīṭhike itself mentions five Aśvin Sūktas, 116–120). The deities of these Sūktas are Rātri, Uṣas, Rudra, Sūrya, the Aśvins and Indra. More than half of this Adhyāya is devoted to the Aśvins. The account given in Skandasvāmin's bhāṣya on the Ṛks addressed to the Aśvins is not found in Sāyaṇa's bhāṣya. All the Sūktas relating to these deities are accompanied by *upākhyānas* (legends). Skandasvāmin has explained all these legends and has indicated the stories of persons who obtained help of many kinds from the Aśvins. Sāyaṇa, who is later than he, and other later writers have many points in their commentaries that are not in Sāyaṇa's bhāṣya. Therefore in the explanation of this part Skandasvāmin's bhāṣya has been used freely. It is a great misfortune that his bhāṣya is not available in full.
 
 It is a settled matter that Skandasvāmin is earlier than Sāyaṇa, who belongs to the fourteenth century. There are many proofs that Harisvāmin, who wrote a bhāṣya on the Śatapatha Brāhmaṇa, was his disciple.
 
