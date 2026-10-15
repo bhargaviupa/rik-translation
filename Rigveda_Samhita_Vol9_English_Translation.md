@@ -4283,4 +4283,147 @@ the earth, and the atmosphere too — praising the Sun in this way, may they pro
 
 ---
 
-**Progress note:** **Sūkta 115 complete** (Ṛks 1–6, printed pp. 149–176; PDF 169–196). Sūktas 113, 114, 115 done. Next: Sūkta 116 (*nāsatyābhyāṃ*, Aśvins; contents say printed p. 177, PDF 197 — the Sūkta is long, to p. ≈ 307) then Sūkta 117 (p. 308). Pages PDF 197–230 already cropped to scratchpad. Open: numerals as read `[?]` throughout; CLAUDE.md range 113–121.
+## Sūkta 116 — *nāsatyābhyām* (printed pp. 177–?)
+
+### Printed p. 177  (PDF 197; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 12")
+
+**Heading (Kannada):** "nūrahadināraneya sūktavu" — "the hundred-and-sixteenth Sūkta."
+
+**Anukramaṇī and Sāyaṇa's introduction (Sanskrit, as printed):**
+
+> सप्तदशेऽनुवाके पञ्च सूक्तानि । तत्र नासत्याभ्यामिति पञ्चविंशत्यृचं प्रथमं सूक्तम् । उशिक्संज्ञायामङ्गिरजस्य महिष्या दास्यां दीर्घतमसोत्पादितः कक्षीवानस्य सूक्तस्य ऋषिः । त्रिष्टुप् छन्दः । अश्विनौ देवता । तथा चानुक्रान्तम् । नासत्याभ्यां पञ्चाधिका कक्षीवान्दैर्घतमस उशिक्सूत आश्विनं वा इति । तुह्यादिपरिभाषयेदमादीनि पञ्च सूक्तान्याश्विदेवत्यानि ॥ प्रातरेनुवाकस्याश्विने क्रतौ त्रैष्टुभे छन्दसीदमादीनि त्रीणि सूक्तानि । अथाश्विन इति खण्डे सूत्रितम् । ग्रावाणेव नासत्याभ्यामिति त्रीणि । आ. ४-१४ [?] । इति ॥ आश्विनशस्त्रे चैतानि शस्यानि प्रातरनुवाकन्यायेन । आ. ६-५ । इत्येतदिष्टत्वात् ॥
+
+> *saptadaśe 'nuvāke pañca sūktāni | tatra nāsatyābhyāmiti pañcaviṃśatyṛcaṃ prathamaṃ sūktam | uśiksaṃjñāyāmaṅgirajasya mahiṣyā dāsyāṃ dīrghatamasotpāditaḥ kakṣīvānasya sūktasya ṛṣiḥ | triṣṭup chandaḥ | aśvinau devatā | tathā cānukrāntam | nāsatyābhyāṃ pañcādhikā kakṣīvāndairghatamasa uśiksūta āśvinaṃ vā iti | tuhyādiparibhāṣayedamādīni pañca sūktānyāśvidevatyāni ‖ prātarenuvākasyāśvine kratau traiṣṭubhe chandasīdamādīni trīṇi sūktāni | athāśvina iti khaṇḍe sūtritam | grāvāṇeva nāsatyābhyāmiti trīṇi | ā. 4-14 [?] | iti ‖ āśvinaśastre caitāni śasyāni prātaranuvākanyāyena | ā. 6-5 | ityetadiṣṭatvāt ‖*
+
+Sense: "In the seventeenth anuvāka there are five sūktas. The first of these, *nāsatyābhyām*, has twenty-five Ṛks. The ṛṣi of this sūkta is Kakṣīvān, whom Dīrghatamas begot on Uśij, a maidservant of the queen of Aṅgiraja (the king of the Aṅgas) [as the Sanskrit reads: *uśik-saṃjñāyām aṅgirajasya mahiṣyā dāsyāṃ dīrghatamasotpāditaḥ kakṣīvān*]. The metre is Triṣṭubh; the deity the two Aśvins. So the Anukramaṇī says: '*nāsatyābhyāṃ pañcādhikā kakṣīvān dairghatamasa uśiksūta āśvinaṃ vā*' (twenty-five Ṛks, by Kakṣīvān, son of Dīrghatamas and of Uśij; or addressed to the Aśvins). By the rule beginning '*tuhyādi*' the five sūktas beginning with this are addressed to the Aśvins. In the Aśvina rite of the Prātaranuvāka, in the Triṣṭubh metre, the three sūktas beginning with *idam*: in the section '*athāśvina*' the Sūtra says '*grāveva nāsatyābhyām iti trīṇi*' (Āś. 4-14 as read [?]). And these are to be recited in the Aśvina-śastra, on the model of the Prātaranuvāka (Āś. 6-5 as read [?]), as it is prescribed."
+
+**Anuvāda (Kannada):** "With the sūkta *nāsatyābhyām* the seventeenth anuvāka begins. In this anuvāka (Sūktas 116–120) there are five sūktas. Of these the sūkta *nāsatyābhyām* is the first. It has twenty-five Ṛks. The ṛṣi of this sūkta is Kakṣīvān, born of Dīrghatamas on Uśij, the maidservant of the queen of King Aṅgiraja [as the Kannada reads]. The deities are the two Aśvins; the metre is Triṣṭubh. In the Anukramaṇikā, '*nāsatyābhyāṃ pañcādhikā kakṣīvān dairghatamasa uśiksūta āśvinaṃ vā*'. By the occurrence of the word *tu hi* etc. in the sūtra, the five sūktas hereafter are to be known as having the Aśvins as deity. At the time of reciting the Prātaranuvāka mantras, these three sūktas are applied for the Triṣṭubh mantras relating to the Aśvins, as the Āśvalāyana Śrauta-sūtra explains in the section 'athāśvina' by the sūtra '*grāveva nāsatyābhyām iti trīṇi*' (Āś. 4-?? as read [?]); and it is directed in the Āśvalāyana Śrauta-sūtra itself that, when reciting the Prātaranuvāka mantras for the Aśvina-śastra, these sūktas are to be recited (Āś. 6-5 as read [?])."
+
+### Printed p. 178  (PDF 198; header "Maṃ. 1 A. 17 Sū. 116")
+
+**सूक्त—११६ (Sūkta 116)**
+॥ मण्डल—१ ॥ अनुवाक—१७ ॥ सूक्त—११६ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—९, १०, ११, १२ ॥ *(small numerals as printed; read 9, 10, 11, 12 — [?]; the print appears to include a fifth numeral)*
+*Number of Ṛks:* 25. *Ṛṣi:* Kakṣīvān Dairghatamasa Auśija. *Devatā:* the two Aśvins. *Chandas:* Triṣṭubh.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.1)**
+
+> नासत्याभ्यां बर्हिरिव प्र वृञ्जे स्तोमा इयर्म्यभ्रियेव वातः ।
+> यावर्भगाय विमदाय जायां सेनाजुवा न्यूहतू रथेन ॥ १ ॥
+
+> *nāsatyābhyāṃ barhiriva pra vṛñje stomā iyarmyabhriyeva vātaḥ |*
+> *yāvarbhagāya vimadāya jāyāṃ senājuvā nyūhatū rathena ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.1)**
+
+> नासत्याभ्याम् । बर्हिःऽइव । प्र । वृञ्जे । स्तोमान् । इयर्मि ।
+> अभ्रियाऽइव । वातः ।
+> यौ । अर्भगाय । विऽमदाय । जायाम् । सेनाऽजुवा । निऽऊहतुः ।
+> रथेन ॥ १ ॥
+
+> *nāsatyābhyām | barhiḥ 'iva | pra | vṛñje | stomān | iyarmi |*
+> *abhriyā 'iva | vātaḥ |*
+> *yau | arbhagāya | vi 'madāya | jāyām | senā 'juvā | ni 'ūhatuḥ |*
+> *rathena ‖ 1 ‖*
+
+*(Reading note after viewing the Pada: the Saṃhitā's* yāvarbhagāya *is the Pada's* yau | arbhagāya*; the Saṃhitā's* nyūhatū *is the Pada's* ni-ūhatuḥ*; the Pada's* abhriyā-iva *glosses the Saṃhitā's* abhriyeva*.)*
+
+---
+
+### Printed p. 179  (PDF 199; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.1)**
+
+> बर्हिरिव यथा कश्चिद्यजमानो योगार्थं बर्हिः प्र वृञ्जे प्रकर्षेणा-न्यूनानतिरिक्तं योगाय पर्याप्तं दर्भं वृङ्क्ते छिनत्ति । संपादयेति यावत् । एवमहं नासत्याभ्यामश्विभ्यां स्तोमान् स्तुतीरीयर्मि । संपादयामि । एतदेव दिदीर्क्रियते । अभ्रियेव यथाभ्रियाण्यभ्रेषु मेघेष्ववस्थितानुदकानि वातो वायुर्वर्षणार्थं बहुशः प्रेरयति एवमहमश्विभ्यां स्तोत्रार्णीयर्मि । बहुशः प्रेरयामि । कीदृशावश्विनौ । अर्भगाय बालाय स्वयंवरलब्धभार्याय विमदायैतत्संज्ञाय राजर्षये मध्येमार्गं स्वयंवरार्थमागच्छन्तामलभ्मानन्यैर्नृपैः सह योद्धुमुद्यतकन्यानेवेऽपि तस्मै सेनाजुवा शत्रुसेनायाः प्रेरकेण शत्रुभिर्दुष्प्रधर्षेण रथेन यावश्विनौ जायां भार्यां पर्यनुक्रान्तां न्यूहतुः । शत्रून्निहत्य तदीयं गृहं प्रापयामासतुः । ताभ्यामित्यर्थः ॥ [grammatical tail follows in the print: *nāsatyābhyām* — *sat* "good", *satsu bhavau satyau*, *na satyau asatyau*, *na asatyau nāsatyau*; *nañ* with the *nañ* … *sat*… *avyaya pūrvapada prakṛtisvaratva*; *vṛñje* — *vṛji* "to leave", adādi, *idit* the *num*; *iyarmi* — *ṛ* "to go", juhotyādi, *śluḥ*, doubling, *arti-pipartyoś ca*; *abhriyā iva*; *arbhagāya* — *arbha* + *ga*, *arbhaka*…; *sainājuvā* — *ju* "to be quick", *saunra* root, *kvip*, *dīrgha*…; *nyūhatuḥ* — *vah* "to carry", *liṭ*, *vacisvapi…*, *saṃprasāraṇa*…] [this passage is in small type; read letter by letter; words marked [?] are doubtful]
+
+> *barhiriva yathā kaścidyajamāno yogārthaṃ barhiḥ pra vṛñje prakarṣeṇā-nyūnānatiriktaṃ yogāya paryāptaṃ darbhaṃ vṛṅkte chinatti | saṃpādayeti yāvat | evamahaṃ nāsatyābhyāmaśvibhyāṃ stomān stutīrīyarmi | saṃpādayāmi | etadeva didīrkriyate | abhriyeva yathābhriyāṇyabhreṣu megheṣvavasthitānudakāni vāto vāyurvarṣaṇārthaṃ bahuśaḥ prerayati evamahamaśvibhyāṃ stotrārṇīyarmi | bahuśaḥ prerayāmi | kīdṛśāvaśvinau | arbhagāya bālāya svayaṃvaralabdhabhāryāya vimadāyaitatsaṃjñāya rājarṣaye madhyemārgaṃ svayaṃvarārthamāgacchantāmalabhmānanyairnṛpaiḥ saha yoddhumudyatakanyāneve 'pi tasmai senājuvā śatrusenāyāḥ prerakeṇa śatrubhirduṣpradharṣeṇa rathena yāvaśvinau jāyāṃ bhāryāṃ paryanukrāntāṃ nyūhatuḥ | śatrūnnihatya tadīyaṃ gṛhaṃ prāpayāmāsatuḥ | tābhyāmityarthaḥ ‖ [grammatical tail follows in the print: *nāsatyābhyām* — *sat* "good", *satsu bhavau satyau*, *na satyau asatyau*, *na asatyau nāsatyau*; *nañ* with the *nañ* … *sat*… *avyaya pūrvapada prakṛtisvaratva*; *vṛñje* — *vṛji* "to leave", adādi, *idit* the *num*; *iyarmi* — *ṛ* "to go", juhotyādi, *śluḥ*, doubling, *arti-pipartyoś ca*; *abhriyā iva*; *arbhagāya* — *arbha* + *ga*, *arbhaka*…; *sainājuvā* — *ju* "to be quick", *saunra* root, *kvip*, *dīrgha*…; *nyūhatuḥ* — *vah* "to carry", *liṭ*, *vacisvapi…*, *saṃprasāraṇa*…] [this passage is in small type; read letter by letter; words marked [?] are doubtful]*
+
+*Sense (mine):* "As a certain sacrificer *pra vṛñje*, cuts, *barhiḥ*, sacred grass, for the sacrifice — cuts just enough, neither less nor more — thus I, for the two Nāsatyas, the Aśvins, *iyarmi*, produce, *stomān*, praises. This is the very thing that is meant. *Abhriyeva vātaḥ* — as the wind drives many times, for rain, the waters that stand in the clouds, so I drive the stotras many times to the Aśvins. What are the Aśvins like? For *arbhagāya*, the young, *vimadāya*, the royal sage of that name, who, going to a *svayaṃvara* [self-choice], on the way, was ready to fight other kings, they *nyūhatuḥ*, carried off — with *senājuvā*, the chariot that drives against the hostile army, impossible to resist by enemies — his *jāyām*, bride, *parya-anukrāntām*, whom they had won; having slain the enemies, they brought her to his house: that is, 'for those two'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(begun on p. 179, completed on p. 180)*
+
+"*arbhagāya* — to the youthful; *vimadāya* — to (the king) Vimada by name; *senājuvā* — which drives the enemy's army; *rathena* — by the chariot; *yau* — which Aśvin deities; *jāyām* — the wife; *nyūhatuḥ* — brought to his house, after killing (the enemies) — (such); *nāsatyābhyām* — to the Nāsatyas (the Aśvin deities); *barhiḥ* —
+
+### Printed p. 180  (PDF 200; header "Maṃ. 1 A. 17 Sū. 116")
+
+— (a sacrificer, for the sacrifice) the sacred grass, [cutting] — *pra vṛñje iva* — as one cuts and prepares (and); *vātaḥ* — the wind; *abhriyā iva* — as (it brings together) the waters in the clouds (to cause rain); *stomān* — these *stotra*-sentences; *iyarmi* — I compose."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"For the Nāsatyas — the Aśvin deities — who put the bride of the youthful Vimada in their chariot, having destroyed the enemies, and presented her [to him], I compose these *stotra*-sentences, as a sacrificer cuts and prepares the sacred grass for the sacrifice, and as the wind gathers the clouds together [for rain]."
+
+**English Translation (as printed)**
+
+> In like manner as a worshipper strews the sacred grass for the Nasatyas, so do I urge on their laudations, as the wind drives on the clouds : they, who gave a bride to the youthful Vimada, and bore her away in their car, outstripping the rival host.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+"Kakṣīvān, the ṛṣi of this sūkta, is the son born to the ṛṣi Dīrghatamas of Uśij. This woman Uśij, they say in the Purāṇas and elsewhere, was the maidservant of the queen of the king of Kaliṅga [as the Kannada reads]; the king of Kaliṅga, desiring sons, sent his wife to the ṛṣi Dīrghatamas for the sake of [begetting] a son; the queen, not wishing this, secretly sent in her own place her maidservant Uśij to the ṛṣi; and by the ṛṣi Dīrghatamas this son Kakṣīvān was born of her. The ṛṣi Kakṣīvān, though born of a Kṣatriya [sic: of a maidservant] woman, became famous as a Brāhmaṇa because of his connection with brāhmaṇas. This ṛṣi is greatly famed among those who perform sacrifices, as —
+
+> एवं वै पर आटनारः कक्षीवाँ औशिजो वीतहव्यः श्रायसस्त्रसदस्युः पौरुकुत्सः ।
+> सजानामा [?] अतिष्ठत ॥ [as read; small type, partly doubtful [?]]
+> (तै. सं. ५-६-५-३ [as read])
+
+> *evaṃ vai para āṭanāraḥ kakṣīvā~ auśijo vītahavyaḥ śrāyasastrasadasyuḥ paurukutsaḥ |*
+> *sajānāmā [?] atiṣṭhata ‖ [as read; small type, partly doubtful [?]]*
+> *(tai. saṃ. 5-6-5-3 [as read])*
+
+— is said in the Taittirīya Saṃhitā of the Yajurveda. Therefore this ṛṣi is very famous in the performance of sacrifices, in the composition of mantras. This ṛṣi is
+
+### Printed p. 181  (PDF 201; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+the ṛṣi of the Ṛgveda, Maṇḍala 1, Sūktas 116–126 [as read: "1-116-?" to "1-126-?"] (altogether 11 sūktas, ... Ṛks) [the numerals in this passage are small and I cannot read them with confidence: *the Kannada gives a count of Ṛks for each of: Maṇḍala 1, Sūktas 116–126 (a total printed as "1?? Ṛks"), Sūkta 10-?? (a few Ṛks) and Maṇḍala 9, Sūkta 74 (?, "9 Ṛks"), "altogether 1?? Ṛks" [?]*]. The name of this ṛṣi is found in the Ṛks Ṛ. Saṃ. 1-?-? ; 1-?-? ; 8-?-? ; 2-?-? ; 10-?-? ; 1-?-? ; 1-?-? ; 6-?-? ; 1-?-? ; 1-?-? ; 1-?-? and others *(a cluster of reference numerals too small to read reliably; I give none)* [?]."
+
+**विमदाय** — *Vimadāya* — "*Vimada* is a royal sage, who is the ṛṣi of altogether twenty-?? Ṛks in the 10th maṇḍala of the Ṛgveda, Sūktas 20–2? [as read: "10-20-?" to "10-2?-?"] [?]. In these sūktas, Ṛ. Saṃ. 10-20-10 [as read], 10-2?-? and so on, the ṛṣi Vimada and his lineage are mentioned. In the Atharvaveda 6-?-? and the Aitareya Brāhmaṇa 5-?-? too the name of the ṛṣi Vimada is stated: that the wife of this Vimada, who was carried off by hostile kings, was brought back to him by the Aśvin deities after they conquered the enemies in battle, is said there. In the Ṛgveda the name of this Vimada is found in the Ṛks Ṛ. Saṃ. 1-?-? and others *(numerals not legible)* [?]."
+
+**नासत्याभ्याम्** — *Nāsatyābhyām* — "Sāyaṇa explains: *aśvibhyām*, 'by the Aśvins', i.e. for the Aśvin deities.
+
+> अश्विनोरेको नासत्यनामा दस्रनामा अपरः साहचर्यात्तयोरन्यकरनाम्नापि उभयोरभिधानम् ।
+> न वा असत्यौ सत्यावेव नासत्यौ नासत्ययोरर्थायेये ॥ [as read; small type [?]]
+
+> *aśvinoreko nāsatyanāmā dasranāmā aparaḥ sāhacaryāttayoranyakaranāmnāpi ubhayorabhidhānam |*
+> *na vā asatyau satyāveva nāsatyau nāsatyayorarthāyeye ‖ [as read; small type [?]]*
+
+— of the two Aśvin deities, one has the name Nāsatya and the other Dasra. They always move about together, each beside the other, and dwell together. Therefore, as soon as the name of one is spoken, the number 'two', i.e. both Aśvin deities, becomes easily known. '*Asatya*' means 'not true'; the *nañ*-negation in *nāsatya* signals the two negations — 'not untrue': i.e. 'true'. Skandasvāmin explains that praise is here directed for the sake of these Aśvin deities.
+
+"In the Sāyaṇa-bhāṣya, '*satsu bhavau satyau | na satyau asatyau | na asatyau nāsatyau*': they who are among the good (*sat*) are called *satya*; those other than these are *asatya*; those who are the opposite of these asatyas are *nāsatya* — so the meaning of the word *nāsatya* is explained. Yāska —
+
+> सत्यावेव नासत्यावित्यौर्णवाभः सत्यस्य प्रणेतारावित्याग्रायणः नासिकाप्रभवणौ बभूवतुरिति वा ॥
+> (नि. ६-१३ [as read])
+
+> *satyāveva nāsatyāvityaurṇavābhaḥ satyasya praṇetārāvityāgrāyaṇaḥ nāsikāprabhavaṇau babhūvaturiti vā ‖*
+> *(ni. 6-13 [as read])*
+
+### Printed p. 182  (PDF 202; header "Maṃ. 1 A. 17 Sū. 116")
+
+— *Aurṇavābha* [says]: they are always the ones who speak truth, who are not untrue; the Aśvin deities are called *nāsatya*. *Āgrāyaṇa* says: because they make sacrifices go on and make water available, they have the fame of Nāsatya. Some others say that, when the Sun, in the form of a horse, was united with the deity Saṃjñā [*ātmā*], the two were born from her nostril (*nāsikā*), so they are Nāsatya."
+
+**बर्हिः इव प्र वृञ्जे** — *Barhiḥ iva pra vṛñje* — "*yogārthaṃ barhiḥ paryāptaṃ darbhaṃ vṛṅkte chinatti*": "just as a sacrificer cuts, for the sake of the sacrifice, enough *darbha* grass — neither less nor more — so I, for the Aśvin deities, compose the praises. The word *barhis* is read among the sixteen names of the atmosphere (Ni. 3-?? as read [?]) and among the hundred-and-one [as read] names of water (Ni. 1-?? as read [?]). The meaning is: as one cuts the *darbha* so that it is enough for the sacrifice, I use my words for the praise of the Aśvin deities. Yāska —
+
+> बर्हिः परिबर्हणात् परिच्छेदनात् ।
+
+> *barhiḥ paribarhaṇāt paricchedanāt |*
+
+— explains that the *darbha* is cut and used in the sacrifice, so that it is famed by the name *barhis*, and cites
+
+> प्राचीनं बर्हिः प्रदिशा पृथिव्या वस्तोरस्या वृज्यते अग्रे अह्नाम् ।
+> व्यु प्रथते वितरं वरीयो देवेभ्यो अदितये स्योनम् ॥
+> (ऋ. सं. १०-११०-४ [as read])
+
+> *prācīnaṃ barhiḥ pradiśā pṛthivyā vastorasyā vṛjyate agre ahnām |*
+> *vyu prathate vitaraṃ varīyo devebhyo aditaye syonam ‖*
+> *(ṛ. saṃ. 10-110-4 [as read])*
+>
+> प्राचीनं बर्हिः प्रदिशा पृथिव्या वसनायास्याः प्रवृज्यते अग्रे अह्नां बर्हिः पूर्वाह्णे तद्विप्रथते वितरं विकीर्णतरमिति वा विस्तीर्णतरमिति वा वरीयो वरतरमुरुतरं वा देवेभ्यः शादितये च स्योनम् । स्योनमिति सुखनाम स्यतेरवस्यन्तीत्येत् सेवितव्यं भवतीति वा ॥
+> (नि. ८-८ [as read])
+
+> *prācīnaṃ barhiḥ pradiśā pṛthivyā vasanāyāsyāḥ pravṛjyate agre ahnāṃ barhiḥ pūrvāhṇe tadviprathate vitaraṃ vikīrṇataramiti vā vistīrṇataramiti vā varīyo varataramurutaraṃ vā devebhyaḥ śāditaye ca syonam | syonamiti sukhanāma syateravasyantītyet sevitavyaṃ bhavatīti vā ‖*
+> *(ni. 8-8 [as read])*
+
+— citing the Ṛk *prācīnaṃ barhiḥ*, he explains that at the time of the sacrifice the *darbhas* are cut, evenly, and spread in three layers [on the altar] near the sacrificial hall, to make a seat for the gods and for Aditi to sit upon. 'The four sides of the *darbha* spread in this way are famed as *barhis*,' he explains. 'Here, as the ṛṣi, the seer of the mantra, offers mantras (*barhir iva pra vṛñje*), the simile appears: as the sacrificer, for the sacrifice, cuts and uses *darbhas*, so that there is no deficiency or excess, so I say this *stotra*, which expresses the greatness of the Aśvin deities, exactly right — with no deficiency or excess.'"
+
+---
+
+**Progress note:** Sūkta 116: Ṛk 1 through printed p. 182 (PDF 202): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics in progress (*barhiḥ*; Kakṣīvān/Vimada/Nāsatya passages; more topics follow on p. 183). The many Ṛ./Ni. reference numerals of p. 181 are unreadable at this size → `[?]`, none given. Next: printed p. 183 (PDF 203). Open: p. 181 numerals; numerals as read elsewhere.
