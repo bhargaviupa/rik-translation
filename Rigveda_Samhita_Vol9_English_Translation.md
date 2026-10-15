@@ -13530,4 +13530,80 @@ Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–7 complete; Ṛk 8 through printed p. 573 (PDF 593): all parts except the end of its grammar (continues p. 574). Next: printed p. 574 (PDF 594). Seven Ṛks (9–15) remain after Ṛk 8. Numerals as read: Ni. numbers `[as read]`, sūtra numbers `[as read]`.
+### Printed p. 574  (PDF 594; header "Maṃ. 1 A. 18 Sū. 121")
+
+*Grammar of Ṛk 8, concluded (noted briefly; sūtra numbers as read):* *yodhānaḥ* (*yudha saṃprahāre*; habit-sense, *tācchīlyavayovacanaśaktiṣu cānaś*, Pā. 3-2-129, *cānaś*; *śap*; *guṇa*; *citaḥ*, Pā. 6-1-163, final acute) · *mandinam* (*madi harṣe*; *idito num dhātoḥ*, Pā. 7-1-58; *ṇini* in the habit-sense; *mandin*; accusative singular) · *dukṣan* (*duha prapūraṇe*; *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6, *laṅ*; *jhi* → *ant*; *śala igupadhād aniṭaḥ ksaḥ*, Pā. 3-1-45, *ksa* for *cli*; *hodhaḥ*, *gha* for *h*; *ṣatva*; no augment) · *ādaḥ* (*ada bhakṣaṇe*, causative included; *laṅ*, *sip*, *itaś ca lopaḥ*; *ado jagdhiḥ* … [as read]; *āḍ ajādīnām*; *ru*, *visarga*). ‖ 8 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.9)**
+
+> त्वमायसं प्रति वर्तयो गोर्दिवो अश्मानमुपनीतमृभ्वा ।
+> कुत्साय यत्र पुरुहूत वन्वञ्छुष्णमनन्तैः परियासि वधैः ॥ ९ ॥
+
+> *tvamāyasaṃ prati vartayo gordivo aśmānamupanītamṛbhvā |*
+> *kutsāya yatra puruhūta vanvañchuṣṇamanantaiḥ pariyāsi vadhaiḥ ‖ 9 ‖*
+
+---
+
+### Printed p. 575  (PDF 595; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.9)**
+
+> त्वम् । आयसम् । प्रति । वर्तयः । गोः । दिवः । अश्मानम् । उपऽनीतम् ।
+> ऋभ्वा ।
+> कुत्साय । यत्र । पुरुऽहूत । वन्वन् । शुष्णम् । अनन्तैः ।
+> परिऽयासि । वधैः ॥ ९ ॥
+
+> *tvam | āyasam | prati | vartayaḥ | goḥ | divaḥ | aśmānam | upa 'nītam |*
+> *ṛbhvā |*
+> *kutsāya | yatra | puru 'hūta | vanvan | śuṣṇam | anantaiḥ |*
+> *pari 'yāsi | vadhaiḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.9)** *(small type; read with some doubts)*
+
+> हे इन्द्र त्वं गोर्गन्तुः शुष्णस्यासुरस्य वधार्थमायसमयोमयं वज्रं प्रति वर्तयः । अभिमुख्येन व्यसृजः । कीदृशं वज्रम् । दिवो द्युलोकादृभ्वा दीप्तेन त्वष्ट्रोपनीतमानीतमश्मानं क्षिप्रं शत्रोर्व्यापकम् । यत्र यदा हे पुरुहूत पुरुभिर्बहुभिः स्तोतृभिराहूतेन्द्र कुत्साय कुत्सनामकायर्षये शुष्णं शोषकमसुरमनन्तैर्निरवधिकैर्वधैर्हननसाधनैरायुधैर्वन्वन् हिंसन् परियासि परितो गच्छसि तदानीं तद्वधार्थं वज्रं प्रत्यवर्तय इत्यर्थः ॥ अश्मानम् । अशू व्याप्तौ । अन्येभ्योऽपि दृश्यन्त इति मनिन् । ऋभ्वा । जसादिषु छन्दसि वावचनमिति नाभावस्य विकल्पितत्वादभावे यणादेशः । वन्वन् । वनु याचने । अत्र हिंसार्थः । तथा च यास्कः । वनुष्यतिर्हन्तिकर्मा नवगतसंस्कारो भवति । (नि. ५-३ [as read]) इति । वध्यैः । हननङ्क्ष वध इति हन्तेः करणेऽप् । तत्संनियोगेन वधादेशश्च । सचादन्तोऽन्तोदात्तः । तस्मातो लोपे सत्वुदात्तनिवृत्तिस्वरेण प्रत्ययस्योदात्तत्वम् ॥ [as read]
+
+> *he indra tvaṃ gorgantuḥ śuṣṇasyāsurasya vadhārthamāyasamayomayaṃ vajraṃ prati vartayaḥ | abhimukhyena vyasṛjaḥ | kīdṛśaṃ vajram | divo dyulokādṛbhvā dīptena tvaṣṭropanītamānītamaśmānaṃ kṣipraṃ śatrorvyāpakam | yatra yadā he puruhūta purubhirbahubhiḥ stotṛbhirāhūtendra kutsāya kutsanāmakāyarṣaye śuṣṇaṃ śoṣakamasuramanantairniravadhikairvadhairhananasādhanairāyudhairvanvan hiṃsan pariyāsi parito gacchasi tadānīṃ tadvadhārthaṃ vajraṃ pratyavartaya ityarthaḥ ‖ aśmānam | aśū vyāptau | anyebhyo 'pi dṛśyanta iti manin | ṛbhvā | jasādiṣu chandasi vāvacanamiti nābhāvasya vikalpitatvādabhāve yaṇādeśaḥ | vanvan | vanu yācane | atra hiṃsārthaḥ | tathā ca yāskaḥ | vanuṣyatirhantikarmā navagatasaṃskāro bhavati | (ni. 5-3 [as read]) iti | vadhyaiḥ | hananaṅkṣa vadha iti hanteḥ karaṇe 'p | tatsaṃniyogena vadhādeśaśca | sacādanto 'ntodāttaḥ | tasmāto lope satvudāttanivṛttisvareṇa pratyayasyodāttatvam ‖ [as read]*
+
+*Sense (mine):* "O Indra, you *prati vartayaḥ* — hurled forth the *āyasam* — iron thunderbolt, to kill the asura Śuṣṇa, *goḥ* — the swift [goer] — the *aśmānam* — swift, pervading the enemy [stone-like], brought *upanītam* by Tvaṣṭṛ *ṛbhvā* — the shining, *divaḥ* — from heaven. *Yatra* — when, O *puruhūta* — called by many praisers — you, for Kutsa, the ṛṣi, go all around (*pari yāsi*) *vanvan* — slaying — Śuṣṇa, the withering asura, with *anantaiḥ vadhaiḥ* — countless weapons, instruments of killing — then, for his killing, you hurled the bolt."
+
+---
+
+### Printed p. 576  (PDF 596; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.9)** (Kannada, rendered)
+
+*Yatra* — when; *puruhūta* — O Indra called by many [praisers]; *kutsāya* — for the ṛṣi Kutsa; *śuṣṇam* — [against] the injuring asura; *anantaiḥ* — numberless; *vadhaiḥ* — with killing weapons; *vanvan* — slaying; *pariyāsi* — you go around; *(tadā)* — then; *tvam* — you; *goḥ* — [of] the swift-moving (asura); *divaḥ* — from heaven; *ṛbhvā* — [by] the shining (Ṛbhu); *upanītam* — brought; *aśmānam* — swiftly (against the enemy); *āyasam* — made of iron (thunderbolt); *prati vartayaḥ* — you hurled.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.9)** (Kannada, rendered)
+
+"O Indra, called by many! For the ṛṣi Kutsa, when you went, with numberless weapons, against the injuring asura Śuṣṇa, you hurled upon that swiftly moving one the iron thunderbolt that Ṛbhu brought from heaven."
+
+**English Translation (as printed)**
+
+"You hurled your iron bolt upon the quick-moving (Asura), the swift destroyer of foes, that was brought (to you) by Ribhu from heaven; when you, who are worshipped by many, striking Sushna for the sake of Kutsa, encompassed him with numberless fatal (weapons)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 9)**
+
+*Ṛbhvā* — *dīptena tvaṣṭrā*: "The word *ṛbhu* is stated among the names of the wise (Ni. 3-19 [as read]), and Yāska, explaining the Nirukta word *ṛbhu* as *uru bhāntīti vā* (Ni. 11-?? [as read]), [shows that it means] 'one who shines much'; hence Sāyaṇa explains it as 'Tvaṣṭṛ, the shining one'; Skandasvāmin as 'Indra, the wise'."
+
+*Vanvan pariyāsi* — *hiṃsan parito gacchasi*: "'Going around, killing Śuṣṇa — for the sake of Kutsa' is Sāyaṇa's explanation. *Vanvan* (from *vanu yācane*) *kutsasyābhimataṃ prārthyamānaḥ śuṣṇaṃ nāmāsuraṃ pariyāsi* — Skandasvāmin: 'the meaning of *vanu* is 'asking'; Indra, asked by Kutsa to fulfil his wish, killed the asura named Śuṣṇa'; and he explains the prefix *pari* with the sense of *vadha*, from the roots read among those with the sense of 'killing' (*yā*, *vadhārtha*):
+
+> यो वज्रिवः परियास्मंहो मा ... धृष्णो वेयसे वि सूरीन् ।
+> (ऋ. सं. २-३२-? [as read; read only in part [?]])
+
+> *yo vajrivaḥ pariyāsmaṃho mā ... dhṛṣṇo veyase vi sūrīn |*
+> *(ṛ. saṃ. 2-32-? [as read; read only in part [?]])*
+
+---
+
+### Printed p. 577  (PDF 597; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Vadhaiḥ* — *prahāraiḥ*: "'*vadha* means a blow' — Sāyaṇa: *vadhyaiḥ hananasādhanair āyudhaiḥ* — 'with weapons, the instruments of killing'. Yāska: *vanuṣyatir hantikarmā anavagatasaṃskāro bhavati* (Ni. 5-3 [as read]) — he explains that the root *vanu* conveys the sense of killing."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly)**
+
+*Āyasam* (*ayaso vikāraḥ*; *aṇ* in the sense of modification; *taddhiteṣv acām ādeḥ*, Pā. 7-2-117, *vṛddhi*; final acute) · *vartayaḥ* (*vṛtu vartane*; *hetumati ca*, Pā. 3-1-26, *ṇic*; *guṇa*; *laṭ*, second singular) · *goḥ* (*gamḷ gatau*; *gamer ḍoḥ*, Uṇ. sū. 2-67 as read, suffix *ḍo*; the form *go*; genitive) · *divaḥ* (*divu*; *diver ḍivaḥ*, suffix *ḍivi*; *div*; *ūḍidaṃpadādi*, Pā. 6-1-171) · *aśmānam* (*aśū vyāptau*; *anyebhyo 'pi dṛśyante*, Pā. 3-2-75, *manin*; *ñnityādir nityam*, Pā. 6-1-197) · *upanītam* (*ṇīñ prāpaṇe*, *niṣṭhā*; *gatir anantaraḥ*, Pā. 6-2-49) · *ṛbhvā* (*jasādiṣu chandasi vā vacanam*, the *nā*-forms optional, so *yaṇ*) · *vanvan* (*vanu yācane*, here in the sense of killing — so Yāska; *śatṛ*) — sūtra numbers as read.
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–8 complete; Ṛk 9 through printed p. 577 (PDF 597): all parts except the end of its grammar (continues p. 578). Next: printed p. 578 (PDF 598). Six Ṛks (10–15) remain after Ṛk 9. Numerals as read: Ni. 5-3, Uṇ. 2-67, Ṛ. 2-32-? `[as read]`.
