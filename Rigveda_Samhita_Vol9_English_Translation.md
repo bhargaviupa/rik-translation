@@ -5661,4 +5661,66 @@ in this Ṛk the word *dasrā* is used in the sense of the Aśvin deities. *Dasr
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–9 complete; Ṛk 10 through printed p. 235 (PDF 255): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*drāpim iva*; Cyavana/Sukanyā story from the Śatapatha Br.; *vavrim*; *dasrā* — continues p. 236). Next: printed p. 236 (PDF 256). Open: Ṛ./Śat. Br./Ni. numerals as read `[?]`; small-type Sanskrit `[?]`.
+### Printed p. 236  (PDF 256; header "Maṃ. 1 A. 17 Sū. 116")  [Special Topics of Ṛk 10, concluded]
+
+"… destroyers of enemies, or those who cause them to be destroyed, or those who perform works such as agriculture, favouring them with rain: so the meaning."
+
+**आयुः** — *Āyuḥ* — "*jīvanam*": "the Aśvin deities favoured the ṛṣi Cyavana with the state of living in health (together with breath). Since the word *āyus* is stated among the twenty-eight [as read] names of food (Ni. 2-7 as read [?]), the meaning may also be 'food'."
+
+**आत् + इत्** — *Āt + it* — "*anantaram eva*": "the particles *āt* and *it* are used here in the sense of 'immediately afterwards'.
+
+> यदेदयुक्त हरितः सधस्थादाद्रात्री वासस्तनुते सिमस्मै ॥
+> (ऋ. सं. १-११५-४)
+
+> *yadedayukta haritaḥ sadhasthādādrātrī vāsastanute simasmai ‖*
+> *(ṛ. saṃ. 1-115-4)*
+
+— in this Ṛk (1-115-4) *āt* is used in the sense of *atha* ('then'). The ṛṣi Cyavana, when he entered the pool, [as an old man] arose from it afterwards a youth: this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly)**
+
+*jujuruṣaḥ* (*jṝṣ* "to grow old"; *liṭ*, then *kvasu* by *kvasuś ca*, Pā. 3-2-107 as read [?]; *ṛ* → *u* by *bahulaṃ chandasi*; *raparatva*; the doubling of the root; the reduplication's *ādir halśeṣaḥ*; the form *jujurvas*; the ablative singular — since it is *bha*-designated by the *ekavacana* ending, *vasoḥ saṃprasāraṇam*, Pā. 6-4-131 as read [?], *saṃprasāraṇa*; *saṃprasāraṇāc ca*, *pūrvarūpa*; *śāsivasighasīnāṃ ca*, Pā. 8-3-60 as read [?], *ṣatva* of the *s* of *vasu*; *udātta* of the *u* by the suffix accent); *nāsatyā* (*supāṃ sulug*, lengthening; nighāta by *āmantritasya ca*); *vavrim* (*vṛñ* "to cover"; *ādgamahanajanaḥ…*, Pā. 3-2-171 as read [?], *ki* suffix; as it is *ki*, doubling of the root; *ur at*, Pā. 7-4-66 as read [?], *a* for the reduplication's *ṛ*, with *raparatva*, *halādiśeṣa*; *yaṇ* for the root's *ṛ*; the final accent from the suffix); *amuñcatam* (*muc* "to release", *laṅ* 2nd dual — since it contains the causal sense inside it, *tam* for *thās* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. 3-4-101 as read [?]; *tudādibhyaḥ śaḥ*, Pā. 3-1-77 as read [?]; *śemuchādīnām*, Pā. 7-1-59 as read [?], *num* augment; the augment *aṭ*; nighāta).
+
+### Printed p. 237  (PDF 257; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 10, concluded (noted briefly):* *cyavānāt* (the word *cyavana*, ablative; the lengthening is Vedic); *atiratam* (*tir* "to go" — a root of the *saunra* group used in the sense of going; *laṅ* 2nd dual; nighāta); *jahitasya* (*ohāk* "to leave", *kta* by *niṣṭhā*, Pā. 3-2-102 as read [?]; by *chandasy ubhayathā*, Pā. 3-4-117 as read [?], it has *sārvadhātuka* status, hence *yak* by *sārvadhātuke yak*, Pā. 3-1-67 as read [?]; since that is the *vikaraṇa*, *śluḥ* in its place by *bahulaṃ chandasi*; *ślau*, Pā. 6-1-10 as read [?], doubling; *kuhoś cuḥ*, Pā. 7-4-62 as read [?], *c* for the reduplication; *hrasvaḥ*, shortening; *jahāteś ca*, Pā. 6-4-116 as read [?], *i* for the root's *ā*; final accent from the suffix; genitive singular); *dasrā* (vocative dual; *supāṃ sulug*, lengthening of the preceding vowel); *akṛṇutam* (*kṛvi* "to injure, to do"; *idito num dhātoḥ*, Pā. 7-1-58 as read [?], *num*; *dhinvikṛṇvor a ca*, Pā. 3-1-80 as read [?], the *u* suffix, and with *a* at the end; *tam* for the 2nd dual; *ṇatva* since the *n* follows *ṛ*; nighāta); *kanīnām* (the word *kanyā*; *rayer mṛtā bahulam*, [by the word *bahulam* in this] the word *kanyā* also takes *saṃprasāraṇa*; *saṃprasāraṇāc ca*, *pūrvarūpa*; genitive plural). ‖ 10 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 11
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.11)**
+
+> तद्वां नरा शंस्यं राध्यं चाभिष्टिमन्नासत्या वरूथम् ।
+> यद्विद्वांसा निधिमिवापगूळ्हमुद्दर्शतादूपथुर्वन्दनाय ॥ ११ ॥
+
+> *tadvāṃ narā śaṃsyaṃ rādhyaṃ cābhiṣṭimannāsatyā varūtham |*
+> *yadvidvāṃsā nidhimivāpagūḷhamuddarśatādūpathurvandanāya ‖ 11 ‖*
+
+### Printed p. 238  (PDF 258; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.11)**
+
+> तत् । वाम् । नरा । शंस्यम् । राध्यम् । च । अभिष्टिऽमत् ।
+> नासत्या । वरूथम् ।
+> यत् । विद्वांसा । निधिम्ऽइव । अपऽगूळ्हम् । उत् । दर्शतात् ।
+> ऊपथुः । वन्दनाय ॥ ११ ॥
+
+> *tat | vām | narā | śaṃsyam | rādhyam | ca | abhiṣṭi 'mat |*
+> *nāsatyā | varūtham |*
+> *yat | vidvāṃsā | nidhim 'iva | apa 'gūḷham | ut | darśatāt |*
+> *ūpathuḥ | vandanāya ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.11)**
+
+> अत्रेदमाख्यानम् । वन्दनो नाम कश्चिदृषिः । स चासुरैः कूपे निखाते उत्तरीतुमशक्नुवन्नश्विनावस्तौत् । तमश्विनौ कूपादुन्निन्यतुरिति । तदाह । नरारोगृस्य [?] नेतारौ हे नासत्यावश्विनौ वां युवयोः सम्बन्धि अभिष्टिमदभ्येषणयुक्तमभिमुख्येन प्राप्तव्यं तथा वरूथं वरणीयं कामयितव्यं तत्कर्म शंस्यम् । अस्माभिः प्रशंसनीयं । राध्यम् । आराधनीयं च । किं पुनस्तत्कर्म । विद्वांसा जानन्तौ युवां निधिमिव निक्षिप्तं धनमिवापगूळ्हम् अरण्ये निर्जने देशे कूपमध्येऽसुरैर्निगूढं वन्दनाय वन्दनमृषिं दर्शतात् । दर्शनीयाद्दर्श्यात् [?] पिपासुभिर्दृप्स्वात्मकूपादुदूपथुः । उदहार्ष्टम् । एवं यदेतत्कर्मकूपाद्धरणं तदित्यर्थः ॥ शंस्यम् । शन्सु स्तुतौ । अस्माण्यन्तादचोयदिति यत् । यकोनावितयादिउदात्तत्वम् । अभिष्टिमत् । अभिपूर्वादिषगतावित्यस्माद्भावे क्तिन् । मन्त्रे वृषेषपचमनविदभूवीरा उदात्तः इत्यादिना क्तिन उदात्तत्वम् ।… कृदुत्तरपदप्रकृतिस्वरेणैव स एव शिष्यते । शकन्ध्वादित्वात्पररूपत्वम् । तादौ चेति तु गतिस्वरस्य सर्वविधीनां छन्दसि विकल्पितत्वादप्रवृत्तिः । ततो मतुप् । अन्तोदात्तादुत्तरस्य तस्य ह्रस्वनुड्भ्यामित्यादात्तत्वम् । वरूथम् । वृञ्ज्याभ्यामूथन् । उ. २-६ । विद्वांसा । सुपां सुलुगिति विभक्तेराकारः । अपगूळ्हम् । गुहू संवरणे । कर्मणि निष्ठा । यस्य विभाषेतीट्प्रतिषेधः । ढत्वधत्वष्टुत्वढलोपदीर्घाः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । दर्शतात् । भृमृदृशीत्यादिनातच् । ऊपथुः । डुवप् बीजसन्तानेसन्ताने । लिट्यथुसि यजादित्वात्सम्प्रसारणम् । द्विर्वचनादि । वन्दनाय । क्रियाग्रहणं कर्तव्यमिति कर्मणः सम्प्रदानत्वाच्चतुर्थी ॥ [small type; partly doubtful [?]]
+
+> *atredamākhyānam | vandano nāma kaścidṛṣiḥ | sa cāsuraiḥ kūpe nikhāte uttarītumaśaknuvannaśvināvastaut | tamaśvinau kūpādunninyaturiti | tadāha | narārogṛsya [?] netārau he nāsatyāvaśvinau vāṃ yuvayoḥ sambandhi abhiṣṭimadabhyeṣaṇayuktamabhimukhyena prāptavyaṃ tathā varūthaṃ varaṇīyaṃ kāmayitavyaṃ tatkarma śaṃsyam | asmābhiḥ praśaṃsanīyaṃ | rādhyam | ārādhanīyaṃ ca | kiṃ punastatkarma | vidvāṃsā jānantau yuvāṃ nidhimiva nikṣiptaṃ dhanamivāpagūḷham araṇye nirjane deśe kūpamadhye 'surairnigūḍhaṃ vandanāya vandanamṛṣiṃ darśatāt | darśanīyāddarśyāt [?] pipāsubhirdṛpsvātmakūpādudūpathuḥ | udahārṣṭam | evaṃ yadetatkarmakūpāddharaṇaṃ tadityarthaḥ ‖ śaṃsyam | śansu stutau | asmāṇyantādacoyaditi yat | yakonāvitayādiudāttatvam | abhiṣṭimat | abhipūrvādiṣagatāvityasmādbhāve ktin | mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ ityādinā ktina udāttatvam |… kṛduttarapadaprakṛtisvareṇaiva sa eva śiṣyate | śakandhvāditvātpararūpatvam | tādau ceti tu gatisvarasya sarvavidhīnāṃ chandasi vikalpitatvādapravṛttiḥ | tato matup | antodāttāduttarasya tasya hrasvanuḍbhyāmityādāttatvam | varūtham | vṛñjyābhyāmūthan | u. 2-6 | vidvāṃsā | supāṃ sulugiti vibhakterākāraḥ | apagūḷham | guhū saṃvaraṇe | karmaṇi niṣṭhā | yasya vibhāṣetīṭpratiṣedhaḥ | ḍhatvadhatvaṣṭutvaḍhalopadīrghāḥ | gatiranantara iti gateḥ prakṛtisvaratvam | darśatāt | bhṛmṛdṛśītyādinātac | ūpathuḥ | ḍuvap bījasantānesantāne | liṭyathusi yajāditvātsamprasāraṇam | dvirvacanādi | vandanāya | kriyāgrahaṇaṃ kartavyamiti karmaṇaḥ sampradānatvāccaturthī ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "Here this story. A certain ṛṣi named Vandana, when the Asuras had dug a well [and put him in it] and he could not get out, praised the Aśvins; the Aśvins drew him up out of the well. This is said: O leaders (*narā*), Nāsatyas, Aśvins, that deed of yours — *abhiṣṭimat* (accompanied by help), to be attained by effort, and *varūtham*, to be chosen, desirable — is *śaṃsyam*, praiseworthy by us, and *rādhyam*, to be propitiated. What was that deed? Knowing, *vidvāṃsā*, you *ūpathuḥ* — drew up — *nidhim iva apagūḍham*, like a treasure hidden, [the ṛṣi] hidden by the Asuras in a lonely place in the forest, in the middle of a well, *vandanāya* — Vandana the ṛṣi — *darśatāt* — from the visible, from the self-made well by the thirsty, [from] the well: that is, the very act of raising him from the well. …"
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(on p. 239)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–10 complete; Ṛk 11 Saṃhitā, Pada, bhāṣya written (printed p. 238, PDF 258; the bhāṣya sense is partly doubtful in the closing words). Next: printed p. 239 (PDF 259) — Ṛk 11 pratipadārtha etc. Open: numerals as read `[?]`; bhāṣya small type `[?]`.
