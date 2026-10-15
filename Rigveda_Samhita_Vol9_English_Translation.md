@@ -6408,4 +6408,78 @@ these Ṛks are cited."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–15 complete; Ṛk 16 through printed p. 267 (PDF 287): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*śataṃ meṣān vṛkye*, *cakṣadānam*, *nāsatyā*, *bhiṣajā*, *dasrā*, *anarvan* begun; continues p. 268). Next: printed p. 268 (PDF 288). Open: numerals as read `[?]`; Skandasvāmin small type `[?]`.
+### Printed p. 268  (PDF 288; header "Maṃ. 1 A. 17 Sū. 116")  [Special Topics of Ṛk 16, concluded]
+
+"… formed from the root *ṛ* (*ṛ gatau*, of the sense 'to go'), the word *arvan* conveys the meaning 'one who has movement/independence (*svatantra*)'. The one who has no independence, other than that of others, is *anarvan*. 'One who is without any other support and who is not under his own control is also called by the word *anarvan*.' He explains that the Aśvin deities, when Ṛjrāśva, in such a state, was unable to escape the curse of his father, gave him [new] eyes and protected him. Citing the Ṛk
+
+> याभिः शचीभिर्वृषणा परावृजं प्रान्धं श्रोणं चक्षस एतवे कृथः ।
+> याभिर्वर्तिकां ग्रसितामुमुक्षतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-८ [as read])
+
+> *yābhiḥ śacībhirvṛṣaṇā parāvṛjaṃ prāndhaṃ śroṇaṃ cakṣasa etave kṛthaḥ |*
+> *yābhirvartikāṃ grasitāmumukṣataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-8 [as read])*
+
+— he explains that this meaning is stated here. Yāska:
+
+> अनर्वा प्रत्यृतोऽन्यस्मिन् । अनर्वमप्रत्यृतमन्यस्मिन् ॥
+> (नि. ६-३३ [as read])
+
+> *anarvā pratyṛto 'nyasmin | anarvamapratyṛtamanyasmin ‖*
+> *(ni. 6-33 [as read])*
+
+— 'anarvā: one who is dependent on no other' — explaining the meaning as one who is in his own independence, resting on another, he cites
+
+> अनर्वाणं वृषभं मन्द्रजिह्वं बृहस्पतिं वर्धया नव्यमर्कैः ।
+> गाथान्यः सुरुचो यस्य देवा आशृण्वन्ति नवमानस्य मर्ताः ॥
+> (ऋ. सं. १-१९०-१ [as read])
+
+> *anarvāṇaṃ vṛṣabhaṃ mandrajihvaṃ bṛhaspatiṃ vardhayā navyamarkaiḥ |*
+> *gāthānyaḥ suruco yasya devā āśṛṇvanti navamānasya martāḥ ‖*
+> *(ṛ. saṃ. 1-190-1 [as read])*
+
+In this Ṛk the word *anarvan* is used in the sense of 'one who is not under another's control'. Sāyaṇa: '*arva gamanaṃ viṣayaṃ prati enayor nāsti iti bahuvrīhau anarvaṇī*' — *arva* means 'going'; since the eyes have not the power of looking — which is going [towards the object] — they are *anarvaṇī*: 'the two that have no power of seeing, or have no sight, or are blind eyes'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 16; grammar page, noted briefly)**
+
+*vṛkye* (*vṛka* is a dog of the forest; its feminine is *vṛkī*; since it denotes a class (*jāti*), in the feminine *jāter astrīviṣayād ayopadhāt*, Pā. 4-1-63 as read [?], *ṅīṣ*; *yasyeti ca*, Pā. 6-4-148 as read [?], elision of the *a*; the dative singular following, by *jasādiṣu chandasi vāvacanam*, a statement, *āṇ nadyāḥ*, Pā. 7-3-112 as read [?], the *āṭ* augment does not arise, so *yaṇ* substitution by the rule; in the place of the *udātta* a *yaṇ*; its following [syllable] being *anudātta*, by *udāttasvaritayor yaṇaḥ svaritaḥ anudāttasya*, Pā. 8-2-4 as read [?], it takes *svarita*).
+
+### Printed p. 269  (PDF 289; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page, continued:* *cakṣadānam* (*kṣad* "to eat", but here used in the sense of making into pieces; the *liṭ*, then *kānac* by *liṭaḥ kānajvā*, Pā. 3-2-106 as read [?]; the doubling of the root; *kuhoś cuḥ*, *c* for the reduplication; *citaḥ*, Pā. 6-1-163 as read [?], final accent); *cakāra* (*ḍukṛñ* "to do"; *liṭ* 3rd singular; nighāta); *akṣī* (*ī ca dvivacane*, Pā. 7-1-77 as read [?], the stem *akṣi*… *ekārānta* as a substitute, because of the later-rule position; it becomes *udātta*; after the *ī* substitution, *sakṛdgatau vipratiṣedhe yad bādhitaṃ tad bādhitam eva*, Paribhāṣā 40 as read [?], hence *num* does not come again — once set aside, the general rule does not operate again); *vicakṣe* (*cakṣiṅ* "to speak clearly", *vāci*; *sampadādibhyaḥ kvip*, Vārt. as read [?], *kvip* in the abstract sense; dative singular; *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?], first-member accent); *dasrā* (*supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending); *anarvan* (*ṛ* "to go"; *anyebhyo 'pi dṛśyante*, Pā. 3-2-75 as read [?] — here the mention of *dṛśi* is for the inclusion of other operations, so *vanip* in the abstract sense; guṇa of the root with *raparatva*; *arvan* is the word; *arva gamanaṃ viṣayaṃ prati enayor nāsti iti anarvan*; a *bahuvrīhi*; *nañsubhyām*, Pā. 6-2-172 as read [?], the later member's final accent; the dual with *supāṃ sulug*, *luk* for it; though at the end of a word, by Vedic usage the *n* is not dropped). ‖ 16 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 17
+
+### Printed p. 270  (PDF 290; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.17)**
+
+> आ वां रथं दुहिता सूर्यस्य कार्ष्मेवातिष्ठदर्वता जयन्ती ।
+> विश्वे देवा अन्वमन्यन्त हृद्भिः समु श्रिया नासत्या सचेथे ॥ १७ ॥
+
+> *ā vāṃ rathaṃ duhitā sūryasya kārṣmevātiṣṭhadarvatā jayantī |*
+> *viśve devā anvamanyanta hṛdbhiḥ samu śriyā nāsatyā sacethe ‖ 17 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.17)**
+
+> आ । वाम् । रथम् । दुहिता । सूर्यस्य । काष्र्माऽइव । अतिष्ठत् ।
+> अर्वता । जयन्ती ।
+> विश्वे । देवाः । अनु । अमन्यन्त । हृत्ऽभिः । सम् । ऊं इति ।
+> श्रिया । नासत्या । सचेथे इति ॥ १७ ॥
+
+> *ā | vām | ratham | duhitā | sūryasya | kāṣrmā 'iva | atiṣṭhat |*
+> *arvatā | jayantī |*
+> *viśve | devāḥ | anu | amanyanta | hṛt 'bhiḥ | sam | ūṃ iti |*
+> *śriyā | nāsatyā | sacethe iti ‖ 17 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.17)**
+
+> सविता स्वदुहितरं सूर्याभ्यां सोमाय राज्ञे प्रदातुमैच्छत् । तां सूर्यां सर्वे देवा वरयामासुः । तेऽन्योन्यमूचुः । आदित्यमवधिं कृत्वाजिं धावाम । योऽस्माकं मध्य उज्जेष्यति तस्येयं भविष्यतीति । तत्राश्विनावुदजयताम् । सा च सूर्या जितवतोस्तयो रथमारुरोह । अत्र प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत् । ऐ. ब्रा. ४-२ । इत्यादिकं ब्राह्मणमनुसन्धेयम् । इदं चाख्यानं सूर्याविवाहस्य स्तावकेन सत्येनोत्तभिता भूमिरिति सूक्तेन विस्पष्टमुपलभ्यते । हे अश्विना वां युवयोर्‍रथं कार्ष्मेव । कार्ष्मशब्दः काष्ठवाचि । यथा काष्ठमाजिधावनस्यावधितया निर्दिष्टं लक्ष्यमाशुगामिनी कश्चित्सर्वेभ्यः [?]
+
+> *savitā svaduhitaraṃ sūryābhyāṃ somāya rājñe pradātumaicchat | tāṃ sūryāṃ sarve devā varayāmāsuḥ | te 'nyonyamūcuḥ | ādityamavadhiṃ kṛtvājiṃ dhāvāma | yo 'smākaṃ madhya ujjeṣyati tasyeyaṃ bhaviṣyatīti | tatrāśvināvudajayatām | sā ca sūryā jitavatostayo rathamāruroha | atra prajāpatirvai somāya rājñe duhitaraṃ prāyacchat | ai. brā. 4-2 | ityādikaṃ brāhmaṇamanusandheyam | idaṃ cākhyānaṃ sūryāvivāhasya stāvakena satyenottabhitā bhūmiriti sūktena vispaṣṭamupalabhyate | he aśvinā vāṃ yuvayorrathaṃ kārṣmeva | kārṣmaśabdaḥ kāṣṭhavāci | yathā kāṣṭhamājidhāvanasyāvadhitayā nirdiṣṭaṃ lakṣyamāśugāminī kaścitsarvebhyaḥ [?]*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–16 complete (through printed p. 269); Ṛk 17 Saṃhitā, Pada and the start of the bhāṣya written (printed p. 270, PDF 290; the bhāṣya continues on p. 271). Next: printed p. 271 (PDF 291). Open: numerals as read `[?]`.
