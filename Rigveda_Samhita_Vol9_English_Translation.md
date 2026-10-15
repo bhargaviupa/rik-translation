@@ -5843,4 +5843,55 @@ and in a few other Ṛks —
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–11 complete; Ṛk 12 through the bhāṣya on printed p. 243 (PDF 263): Saṃhitā, Pada, bhāṣya (the grammar tail continues on p. 244). Next: printed p. 244 (PDF 264). Open: numerals as read `[?]`; the duplicate Ṛk number "1-112-5" printed for two different Ṛks (as printed) `[?]`; small-type passages `[?]`.
+### Printed p. 244  (PDF 264; header "Maṃ. 1 A. 17 Sū. 116")
+
+*(Grammatical tail of the bhāṣya on Ṛk 12, concluded — characterized, not transcribed:* *vṛṣṭim* (*mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ*, *ktin* with *udātta*); *ātharvaṇaḥ* (*atharvan* + *aṇ*, *tasyāpatyam*; the *ṭi* elision by Pā. 6-4-?? as read [?]); *śīrṣṇā* (*śīrṣan* in the Veda, *śīrṣan chandasi*, Pā. 6-1-60 as read [?], the *śiras* → *śīrṣan*; the *ṣ* …; the instrumental ending accented by the *anta-udātta* of the stem.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*narā* — O Aśvin deities; *ātharvaṇaḥ* — the son of Atharvan; *dadhyaṅ* — the ṛṣi named Dadhyañc; *aśvasya* — of the horse; *śīrṣṇā* — with the head (obtained by your power); *vām* — to you two; *īm* — the Madhu-vidyā; *yat ha* — when; *uvāca* — taught; *yat* — which; *vām* — of you; *tat* — that; *ugram* — (to others) unachievable; *daṃsaḥ* — daring deed; *tanyatuḥ* — thunder; *vṛṣṭiṃ na* — as (it makes) rain (manifest); *sanaye* — for the sake of obtaining wealth; *āviḥ kṛṇomi* — I make manifest."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, the ṛṣi Dadhyañc, the son of Atharvan, [having] a horse's head (obtained by your power), taught you the Madhu-vidyā. I make manifest that deed of yours, impossible for others, as thunder makes rain manifest, for the sake of obtaining wealth."
+
+**English Translation (as printed)**
+
+> I proclaim, leaders (of sacrifice), for the sake of acquiring wealth, that inimitable deed which you performed, as the thunder (announces) rain, when, provided by you with the head of a horse, Dadhyanch, the son of Atharvan, taught you the mystic science.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**दंसः** — *Daṃsaḥ* — "since the word *daṃsaḥ* is stated among the twenty-six [as read] names of work (*karman*) '*apaḥ*', '*apnaḥ*' (Ni. 2-1 as read [?]), *daṃsaḥ* denotes work. The seer of the mantra — [the ṛṣi] declares with this mantra that the Aśvin deities perform a work that is difficult for others [to do]. The sound produced by the cloud makes manifest the rain, the water of the cloud, as it falls: so this *stotra* makes manifest the power of the Aśvin deities; and by the recital and study of it wealth is obtained according to one's wish: it is described so. By this the unique power of the Aśvin deities is described in the first half of this mantra."
+
+### Printed p. 245  (PDF 265; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**दध्यङ् ह यन्मध्वाथर्वणः** — *Dadhyaṅ ha yan madhv ātharvaṇaḥ* — "*atharvaṇaḥ putraḥ | vitataṃ nāmaṃ ṛṣiḥ*" [as printed, the Sanskrit is small type: '*ātharvaṇaḥ* — *atharvaṇa* is the name of a ṛṣi, [the Kannada:] the ṛṣi named Ātharvaṇa [= Dadhyañc], son of the ṛṣi named Atharvan'. The Nirukta-writer: '*dadhyaṅ pratyaktho dhyānam iti vā pratyaktam asmin dhyānam iti vā*' (Ni. 12-?? as read [?]): *dadhyañc*, *atharvā*, *manuḥ* — these three words, though not synonyms, since they convey another meaning ('being connected with the qualities of the Āditya'), denote three persons who are ṛṣis who move together with the Āditya, living in the atmosphere (*dyusthāna*). When it is said that they are not other than the Āditya, two kinds of explanation are given: that they are inhabitants of the atmosphere and that they are connected with the qualities of the Āditya. For this reason he explains in two ways: '*dhyānam asmin pratyaktam*, *pratyakto dhyānam*' — 'in him meditation is directly seen', or 'one directly seen in meditation'.
+
+"Skandasvāmin and Sāyaṇa both tell a story here. This Itihāsa is well known in the Vājasaneya Brāhmaṇa.
+
+> आथर्वणाय — दधीचे मध्वाख्यं परं ब्रह्म इन्द्र उवाच । प्रोच्यं च यदि वक्ष्यसि शिरस्ते पतिष्यतीति । तमश्विनौ मध्वर्थिनावागत्य ऊचतुः । प्रब्रूहि नौ परं ब्रह्मेति । स तौ प्रत्युवाच । शिरःपातभयान्न ब्रवीमीति । तौ तं प्रत्यूचतुः । अन्यत्ते आवां शिर आदधाहे । तेन प्रब्रूहि । स तथेति प्रपेदे । तस्याश्विनौ शिरश्छित्त्वाश्वशिर आदधाते । तेनासौ तानध्यापयांचकारेति । तदेतदिहोच्यते दध्यङ् ह यदित्यादिना ॥
+
+> *ātharvaṇāya — dadhīce madhvākhyaṃ paraṃ brahma indra uvāca | procyaṃ ca yadi vakṣyasi śiraste patiṣyatīti | tamaśvinau madhvarthināvāgatya ūcatuḥ | prabrūhi nau paraṃ brahmeti | sa tau pratyuvāca | śiraḥpātabhayānna bravīmīti | tau taṃ pratyūcatuḥ | anyatte āvāṃ śira ādadhāhe | tena prabrūhi | sa tatheti prapede | tasyāśvinau śiraśchittvāśvaśira ādadhāte | tenāsau tānadhyāpayāṃcakāreti | tadetadihocyate dadhyaṅ ha yadityādinā ‖*
+> [Skandasvāmin; small type; partly doubtful [?]]
+
+— 'To Dadhyañc, son of Atharvan, Indra taught the supreme Brahman named Madhu, saying "If you tell it to another, your head will fall". The Aśvins, desiring the honey-knowledge, came and said: "Teach us the supreme Brahman." He answered: "I do not teach it from fear of my head falling." They said: "We shall set another head on you; teach with that." He agreed. The Aśvins cut off his head and put on a horse's head; with that he taught them. This is what is said here by *dadhyaṅ ha yat* and so on.' In Kannada: Indra taught the ṛṣi Dadhyañc, the son of Atharvan, the teaching of the Supreme Brahman, which is known by the name Madhu (Madhu-vidyā), saying 'if you teach this to anyone else, your head will fall'. The Aśvin deities, eager to obtain the Madhu-vidyā, came to the ṛṣi Dadhyañc and asked him 'teach us the Supreme Brahman taught in the Madhu-vidyā'. He told them that he would not teach for fear that his head would fall. Then the Aśvin deities said: 'we shall set another head on you; teach [us]': hearing it, he agreed. Then the Aśvin deities cut off his head and set on a horse's head. He taught them the Madhu-vidyā: this is the Itihāsa told in Skandasvāmin's bhāṣya."
+
+> तदिन्द्रो ज्ञात्वा वज्रेण तच्छिरोऽच्छिनत् । अथाश्विनौ तस्य स्वकीयं मानुषं शिरः प्रत्यधत्ताम् ॥
+
+> *tadindro jñātvā vajreṇa tacchiro 'cchinat | athāśvinau tasya svakīyaṃ mānuṣaṃ śiraḥ pratyadhattām ‖*
+
+"Indra, learning of it, cut off [the horse's] head with his thunderbolt. Afterwards the Aśvin deities set on him again his own human head."
+
+### Printed p. 246  (PDF 266; header "Maṃ. 1 A. 17 Sū. 116")
+
+"Indra, learning of this, cut off the head of the ṛṣi Dadhyañc with his thunderbolt. Afterwards the Aśvin deities set Dadhyañc's own earlier human head on his body and protected him: this part of the Itihāsa is stated in the Sāyaṇa-bhāṣya."
+
+**अश्वस्य शीर्ष्णा वां ईं यदुवाच** — *Aśvasya śīrṣṇā vāṃ īṃ yad uvāca* — "*yuṣmat-sāmarthyena pratihitena śirasā yuvābhyām imām madhuvidyāṃ yadā ca uktavān*: the power of yours that brought and placed the horse's head, the fact that the ṛṣi Dadhyañc taught the Madhu-vidyā, and that you, receiving the teaching, protected him by the exchange of heads: this is described in this Ṛk, 'I make it manifest'.
+
+"The ṛṣi named Dadhyañc or Dadhīca is famous in the Purāṇas and elsewhere. The Bhāṣyakāra tells here a legend: when the ṛṣi Dadhyañc, son of Atharvan, was living, the Asuras, by the sight of him, fled in fear. After he died and went to heaven, the Asuras spread fearlessly over the whole earth. Then Indra sought that ṛṣi for the purpose of fighting these Asuras. [He was told] 'the ṛṣi has gone to heaven'. Then Indra asked those near him whether any part of the ṛṣi's limbs remained; they said: 'Once the ṛṣi Dadhīca taught the Madhu-vidyā to the Aśvin deities; only the head of the horse which was [then] set on him remains; where it is, we do not know.' Then, when Indra said 'find it', they searched and brought it: it had fallen in a lake called Śaryaṇāvat near Kurukṣetra. Indra, with the marrow of the bones of that head, conquered the Asuras: that is, he made futile the nine-hundred-and-ninety [as read — *ombhattu sala tombhattu*, 'nine times ninety']… eight hundred and ten [?] ***māyā-snares*** of the Asuras. In explaining this number the Bhāṣyakāra says: for conquering the deities of the three worlds the Asuras first had three kinds of *māyā*: each of them being threefold as present, past, future, [so] altogether nine kinds. And those nine *māyā*s, joined with the three powers beginning with enthusiasm (*utsāha*), are 9 × 3 = 27. These, joined with the three *guṇa*s beginning with *sattva*, are 27 × 3 = 81. These eighty-one *māyā*s, being used in the ten quarters, are altogether 81 × 10 = 810; or nine times ninety, 9 × 90 = 810. Thus Indra rendered fruitless the net of māyā of such [number] of the Asura named Vṛtra (Ṛ. Saṃ. 1-84-13 as read [?]) — so he explains.
+
+"Skandasvāmin tells another Itihāsa: in the past there were Asuras named Kālakañja. They became powerful and killed the deities, giving them great trouble. Then the deities [went to Brahmā …]" *(continues on p. 247)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–11 complete; Ṛk 12 through printed p. 246 (PDF 266): bhāṣya tail, pratipadārtha, bhāvārtha, English, Special Topics (*daṃsaḥ*, *dadhyaṅ*, the Madhu-vidyā story, the Dadhīca/Indra legend with māyā arithmetic 9×3=27, 27×3=81, 81×10=810 — read from the print at 300 dpi; continues p. 247). Next: printed p. 247 (PDF 267). Open: Ṛ./Ni./Br. numerals as read `[?]`; small-type Sanskrit `[?]`.
