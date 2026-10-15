@@ -10402,4 +10402,50 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–5 complete; Ṛk 6 through printed p. 433 (PDF 453): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar page follows (p. 434). Next: printed p. 434 (PDF 454). No numerals needing flag on these pages.
+### Printed p. 434  (PDF 454; header "Maṃ. 1 A. 17 Sū. 118")
+
+*(Special Topics of Ṛk 6, concluded)* *Śacībhiḥ* — *ātmīyābhiḥ karmabhiḥ*: "The word *śacī* is stated among the names of speech (Ni. 3-?? [as read]), among the names of action (Ni. 2-?? [as read]) and among the names of knowledge (Ni. 3-?? [as read]). Sāyaṇa explains it as 'by deeds'; Skandasvāmin explains it as *svābhiḥ prajñābhiḥ karmabhir vā* — 'by their own intelligence, or by deeds'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly; sūtra numbers as read)**
+
+*Vandanam* — root *vadi abhivādanastutyoḥ*; suffix *lyuṭ*; *yuvoranākau* (Pā. 7-1-1 as read), *ana* substituted; since the root is *it*, *num*; *liti* (Pā. 6-1-193 as read), the acute on the syllable before the suffix. *Airatam* — root *īra gatau kampane ca*; here the causative sense is included; *laṅ*, second person dual; *tiṅanta nighāta* accent; or, since it shows the action of a causer, *ṇic*; after the *ṇijanta*, *laṅ* as before; *chandasy ubhayathā* (Pā. 3-4-117 as read), because of the *ārdhadhātuka* name for *śap*, *ṇer aniṭi* (Pā. 6-4-51 as read), elision of *ṇi*. *Pārayathaḥ* — root *pāra tīrakarmasamāptau*; *laṭ*, second person dual; *tiṅanta nighāta* accent. *Yuvānam* — root *yu miśraṇāmiśraṇayoḥ*; *kanin yuvṛṣi…* (Uṇ. sū. 1-156 as read), the suffix *kanin*; *uvaṅ* [*uv*] substituted for the root; since it is *nit*, *jñityādir nityam*, the initial acute; with the dual following, *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8 as read), lengthening of the penultimate. ‖ 6 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.7)**
+
+> युवमत्रयेऽवनीताय तप्तमूर्जमोमानमश्विनावधत्तम् ।
+> युवं कण्वायापिरिप्ताय चक्षुः प्रत्यधत्तं सुष्टुतिं जुजुषाणा ॥ ७ ॥
+
+> *yuvamatraye 'vanītāya taptamūrjamomānamaśvināvadhattam |*
+> *yuvaṃ kaṇvāyāpiriptāya cakṣuḥ pratyadhattaṃ suṣṭutiṃ jujuṣāṇā ‖ 7 ‖*
+
+---
+
+### Printed p. 435  (PDF 455; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.7)**
+
+> युवम् । अत्रये । अवऽनीताय । तप्तम् । ऊर्जम् । ओमानम् ।
+> अश्विनौ । अधत्तम् ।
+> युवम् । कण्वाय । अपिऽरिप्ताय । चक्षुः । प्रति । अधत्तम् ।
+> सुऽस्तुतिम् । जुजुषाणा ॥ ७ ॥
+
+> *yuvam | atraye | ava 'nītāya | taptam | ūrjam | omānam |*
+> *aśvinau | adhattam |*
+> *yuvam | kaṇvāya | api 'riptāya | cakṣuḥ | prati | adhattam |*
+> *su 'stutim | jujuṣāṇā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.7)** *(small type; read with several doubts)*
+
+> हे अश्विनौ युवं युवामवनीताय शतद्वारे पीडायन्त्रगृहे [?] अवस्थान्नीताय [?] पीडार्थं प्रक्षिप्तं [?] तुषाग्निं शीतेनोदकेनावारयेथाम् [?] । अपि चास्मा अत्रय ओमानं सुखकरमूर्जं रसवदन्नमधत्तम् । प्रायच्छतम् । तथा सुष्टुतिं शोभनां स्तुतिं जुजुषाणा सेवमानौ युवामपिरिप्तायासुरैः [?] ब्राह्मण्यपरीक्षार्थमिहासीनः सन् वृष्ट्यामुषसं [?] जानीहीत्यन्धकारवति गृहे प्रवेशिताय कण्वायर्षये चक्षुर्वृष्ट्यया उषसः प्रकाशकं वीणाशब्दं प्रत्यधत्तम् [?] । कृतवन्तौ । यद्वा । अपिरिप्तायापिलिप्ताय पटलेन पिहितदृष्टय एवंविधाय कण्वाय चक्षुरिन्द्रियं प्रत्यधत्तं । प्रत्यस्थापयेतम् । ओमानम् । अवतेरौणादिको मनिः । ज्वरत्वरेत्यादिना वकारस्योपधायाश्च ऊट् गुणः । अपिरिप्ताय । लिप उपदेहे । अस्मात्कर्मणि निष्ठा । … गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । जुजुषाणा । जुषी प्रीतिसेवनयोः । छान्दसो लिट् । लिटः कानज्वा । सुपां सुलुगिति विभक्तेराकारः ॥ [as read]
+
+> *he aśvinau yuvaṃ yuvāmavanītāya śatadvāre pīḍāyantragṛhe [?] avasthānnītāya [?] pīḍārthaṃ prakṣiptaṃ [?] tuṣāgniṃ śītenodakenāvārayethām [?] | api cāsmā atraya omānaṃ sukhakaramūrjaṃ rasavadannamadhattam | prāyacchatam | tathā suṣṭutiṃ śobhanāṃ stutiṃ jujuṣāṇā sevamānau yuvāmapiriptāyāsuraiḥ [?] brāhmaṇyaparīkṣārthamihāsīnaḥ san vṛṣṭyāmuṣasaṃ [?] jānīhītyandhakāravati gṛhe praveśitāya kaṇvāyarṣaye cakṣurvṛṣṭyayā uṣasaḥ prakāśakaṃ vīṇāśabdaṃ pratyadhattam [?] | kṛtavantau | yadvā | apiriptāyāpiliptāya paṭalena pihitadṛṣṭaya evaṃvidhāya kaṇvāya cakṣurindriyaṃ pratyadhattaṃ | pratyasthāpayetam | omānam | avaterauṇādiko maniḥ | jvaratvaretyādinā vakārasyopadhāyāśca ūṭ guṇaḥ | apiriptāya | lipa upadehe | asmātkarmaṇi niṣṭhā | … gatiranantara iti gateḥ prakṛtisvaratvam | jujuṣāṇā | juṣī prītisevanayoḥ | chāndaso liṭ | liṭaḥ kānajvā | supāṃ sulugiti vibhakterākāraḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, you, for Atri, *avanītāya* — who was put down (thrown) into a hundred-doored (*śatadvāre*) pressing-chamber [?] for torture, [who was] *taptam* — heated, you checked the husk-fire with cold water [?]; and you gave to this Atri *omānam* — pleasing, comforting — *ūrjam* — sappy food, [you] gave. And, enjoying (*jujuṣāṇā*) good praise: *apiriptāya* — Kaṇva, led by the asuras into a dark house to test his brahmin-hood [with the words] 'while sitting here, know the dawn in the rain [?]'; for him, you gave back (*pratyadhattam*) sight — the sound of the *vīṇā* that shows the dawn [?]. Or: *apiriptāya* — smeared over, with the sight covered by a film: to such a Kaṇva, you gave back the sense of sight." *Omānam* (*auṇādika mani* from *av*), *apiriptāya* (*lipa upadehe*, *niṣṭhā*), *jujuṣāṇā* (*juṣī prītisevanayoḥ*, Vedic *liṭ*, *kānac*; *supāṃ sulug*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.7)** (Kannada, rendered; page continues)
+
+*(He) aśvinā* — O Aśvins; *yuvam* — you two; *avanītāya* — [for him] who was thrown down below (into a pressing-chamber); *atraye* — for the ṛṣi named Atri; *taptam* — [the fire] that was burning him; *omānam* — comfort-making; *ūrjam* — nourishing food; *adhattam* — you gave; *(tathā)* — likewise; *suṣṭutim* — [the Aśvins'] excellent praise; *jujuṣāṇā* — you who accepted [it]; *apiriptāya* — for [him] who was smeared over with a coat (his sight dulled); *kaṇvāya* — for the ṛṣi named Kaṇva; *cakṣuḥ* — the light-giving sense of sight; *pratyadhattam* — you graciously gave.
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–6 complete; Ṛk 7 through printed p. 435 (PDF 455): Saṃhitā, Pada, bhāṣya, pratipadārtha done; bhāvārtha, English, Special Topics and grammar follow (p. 436). Next: printed p. 436 (PDF 456). Numerals as read (list stops at printed p. 380): Ni. numbers on p. 434 `[as read]`.
