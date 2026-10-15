@@ -6854,4 +6854,81 @@ and explains the word *pariviṣṭam*: by 'surrounded on all sides' (*viśvata�
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–20 complete; Ṛk 21 through the start of the Special Topics on printed p. 288 (PDF 308): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*raṇāya*, *duśśunāḥ*; continues p. 289). Next: printed p. 289 (PDF 309). Open: numerals as read `[?]`.
+### Printed p. 289  (PDF 309; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 19")  [Special Topics of Ṛk 21, continued]
+
+"… [Sāyaṇa explains *duśśunāḥ* as] 'those who cause happiness to be spoiled', or 'those who cause obstruction in respect of happiness': this is the meaning; and in the first half of this Ṛk he describes the greatness of the Aśvin deities who favoured and protected the ṛṣi named Vaśa so that wealth of a thousand might be got every day. In the second half: '*pṛthuśravasaḥ arātīḥ niraḥatam*' — '*kānīnasya pṛthuśravaḥsaṃjñasya rājñaḥ śatrūn niḥśeṣeṇāvadhiṣṭam*': 'you wholly slew the enemies of the king named Pṛthuśravas, son of Kanyā [Kānīna]': to the king named Pṛthuśravas, the son of a maiden, who was giving a gift, while he was subduing his enemies, the Aśvin deities, joined with Indra, came and protected the king: thus he explains the connection of the greatness of the Aśvin deities in two separate sentences. Skandasvāmin: '*āvatam*' — *avatir gatyarthaḥ gatavantau* (the root *av* conveys the sense of going; 'you went'); '*ekasyā vastoḥ sahasrā sanaye raṇāya āvatam*': '*ekasmin ahni sahasrasaṃkhyākānāṃ dhanānāṃ lābhāya saṅgrāmārthaṃ gatavantau*': 'for the gaining of a thousand pieces of wealth in one day you went for battle'. [The meaning:] 'to the king named Vaśa, to fight with enemies who destroyed one thousand [pieces] of wealth every day, the Aśvin deities went to battle, subdued the enemies of that king, and protected the king' — thus he explains. Saying 'this was told by Kutsa too', he cites
+
+> याभिर्विश्पलां धनसामथर्व्यं सहस्रमीळ्ह आजावजिन्वतम् ।
+> याभिर्वशमश्व्यं प्रेणिमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-१० [as read])
+
+> *yābhirviśpalāṃ dhanasāmatharvyaṃ sahasramīḷha ājāvajinvatam |*
+> *yābhirvaśamaśvyaṃ preṇimāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-10 [as read])*
+
+this Ṛk, and
+
+> पृथुश्रवो नाम राजा सन्तैर्बहुभिर्दुर्भिक्षैः पीड्यमानो ऽश्विनावियोज [?] तुष्टाव च । तस्याश्विनौ तु महत्या वृष्ट्या तान्यपनिनतुरिति तदेतदिहोच्यते निरहतमित्यादि । दुच्छुना दुर्भिक्षा उच्यन्ते ॥
+
+> *pṛthuśravo nāma rājā santairbahubhirdurbhikṣaiḥ pīḍyamāno 'śvināviyoja [?] tuṣṭāva ca | tasyāśvinau tu mahatyā vṛṣṭyā tānyapaninaturiti tadetadihocyate nirahatamityādi | ducchunā durbhikṣā ucyante ‖*
+> [Skandasvāmin; small type; partly doubtful [?]]
+
+— 'a king named Pṛthuśravas, tormented by many famines occurring uninterruptedly, pleased the Aśvin deities with oblations and praised them. They, by a great rain, removed these [famines]: this is what is said here by *nirahatam* and so on; *duśśunāḥ* means famines.' In Kannada: a king named Pṛthuśravas, pressed down by the ever-continuing and extreme famines, satisfied the Aśvin deities with oblations and praised them. They, satisfied, joined Indra, and by sending abundant rain destroyed that famine: this matter is made manifest here by the word *nirahatam*; explaining thus, for the word *duśśunā* he gives the meaning 'bad food (famine)', and for the word *arāti* he explains 'those who do not give': the word *arāti* — whoever it be, [one who] is unable to give anything, gives hindrance — thus conveying the meaning, he sets out in detail the power of famine, and makes it an adjective of *duśśunā*."
+
+### Printed p. 290  (PDF 310; header "Maṃ. 1 A. 17 Sū. 116")
+
+**वशम्** — *Vaśam* — "the Bhāṣyakāra explains this word as the ṛṣi named Vaśa. That the Aśvin deities protected him is mentioned in the Ṛgveda in the Ṛks Ṛ. Saṃ. 1-112-10 ; 1-116-21 ; 8-?-? ; 8-?-? ; 8-?-? ; 8-?-? ; 8-?-? ; 10-40-? [as read; numerals partly illegible [?]]. In some Ṛks his name is given as *vaśa* or *vaśa aśvya*. A sūkta whose seer is this ṛṣi (*vaśo 'śvyaḥ*) is in the eighth maṇḍala; in this sūkta (Ṛ. Saṃ. 8-46 [as read]) there are three Ṛks."
+
+**पृथुश्रवसः** — *Pṛthuśravasaḥ* — "Pṛthuśravas or Pṛthuśravas Kānīta was a king. The praise of the gift [made by him] to the ṛṣi named Vaśa (spoken of above) is in the three Ṛks 8-46-21 to 8-46-23 [as read]. There the ṛṣi Vaśa says that this Kānīta Pṛthuśravas gave him sixty thousand horses, a hundred camels (? the word as printed), a hundred thousand [as read: 'one lakh'] cattle including a red [or tawny] cow, and so describes him as exceedingly prosperous, righteous, famous and a generous giver."
+
+**सनये** — *Sanaye* — "the word *sani* is used here in the sense of *lābhāya* — 'for gain' (Ni. 4-?? as read [?]):
+
+> अभ्रातेव पुंस एति प्रतीची गर्तारुगिव सनये धनानाम् ।
+> जायेव पत्य उशती सुवासा उषा हस्रेव नि रिणीते अप्सः ॥
+> (ऋ. सं. १-१२४-७ [as read])
+
+> *abhrāteva puṃsa eti pratīcī gartārugiva sanaye dhanānām |*
+> *jāyeva patya uśatī suvāsā uṣā hasreva ni riṇīte apsaḥ ‖*
+> *(ṛ. saṃ. 1-124-7 [as read])*
+>
+> हिनोता नो अध्वरं देवयज्या हिनोत ब्रह्म सनये धनानाम् ।
+> ऋतस्य योगे वि ष्यध्वमूधः श्रुष्टीवरीर्भूतनास्मभ्यमापः ॥
+> (ऋ. सं. १०-३०-११ [as read])
+
+> *hinotā no adhvaraṃ devayajyā hinota brahma sanaye dhanānām |*
+> *ṛtasya yoge vi ṣyadhvamūdhaḥ śruṣṭīvarīrbhūtanāsmabhyamāpaḥ ‖*
+> *(ṛ. saṃ. 10-30-11 [as read])*
+
+— in these Ṛks the word *sanaye* is used in the sense of *lābhāya* ('for gain')."
+
+**वस्तोः** — *Vastoḥ* — "the word *vastoḥ* is stated among the twelve names of *ahar* (day) (Ni. 1-?? as read [?]).
+
+> कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः ।
+> को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥
+> (ऋ. सं. १०-४०-२ [as read])
+
+> *kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ |*
+> *ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā ‖*
+> *(ṛ. saṃ. 10-40-2 [as read])*
+>
+> प्राचीनं बर्हिः प्रदिशा पृथिव्या वस्तोरस्या वृज्यते अग्रे अह्नाम् ।
+> व्यु प्रथते वितरं वरीयो देवेभ्यो अदितये स्योनम् ॥
+> (ऋ. सं. १०-११०-४ [as read])
+
+> *prācīnaṃ barhiḥ pradiśā pṛthivyā vastorasyā vṛjyate agre ahnām |*
+> *vyu prathate vitaraṃ varīyo devebhyo aditaye syonam ‖*
+> *(ṛ. saṃ. 10-110-4 [as read])*
+
+### Printed p. 291  (PDF 311; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+In the second example this word *vastoḥ* is used in the sense of 'covering'. From this it should be understood that the word *vastoḥ* has many meanings."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 21; grammar page, noted briefly)**
+
+*āvatam* (*ava* "to protect"; *laṅ* 2nd dual; nighāta after an accented word); *aśvinā* (*supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the dual ending); *sahasrā* (the dative; *supāṃ sulug*, *ḍā*); *ahatam* (*han* "to injure, to go"; *laṅ* 2nd dual; *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. 3-4-101 as read [?], *tam*; *adiprabhṛtibhyaḥ śapaḥ*, Pā. 2-4-72 as read [?], *luk* for *śap*; since *sārvadhātukam apit* makes the suffix *ṅit*, *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti*, Pā. 6-4-37 as read [?], elision of the *n* of the root; the augment *aṭ*; nighāta); *duśśunāḥ* (*śunam* means 'happiness'; *duṣṭaṃ śunaṃ sukhaṃ yāsāṃ tāḥ duśśunāḥ*; *parādiś chandasi bahulam*, Pā. 6-2-199 as read [?], the first-syllable accent of the later member); *indravantā* (*indraḥ anayor asti iti indravantau*; *tad asyāsty asmin*, Pā. 5-2-94 as read [?], *matup*; in the dual, *supāṃ sulug*, *ā*; as the *matup* is *pit*, unaccented); *vṛṣaṇā* (*vṛṣu* "to sprinkle"; *kanin yuvṛṣitakṣirājidhanidraviṇasarvarṣacitvaribhyaḥ* [as printed *kanin yuvṛṣi…*], Uṇ. 1-?? as read [?], the suffix *kanin*; in the vocative dual; *āmantritasya ca*, Pā. 8-1-19 as read [?], nighāta). ‖ 21 ‖
+
+*(Printer's ornament.)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–21 complete (through printed p. 291, PDF 311). Next: Ṛk 22 from printed p. 292 (PDF 312). Open: Ṛ. numerals partly illegible `[?]` (p. 290); others as read.
