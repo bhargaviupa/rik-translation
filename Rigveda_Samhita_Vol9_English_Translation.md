@@ -3899,4 +3899,88 @@ where *anīka* means 'rival' [*pratispardhi*] and 'face' [*mukha*]. In this Ṛk
 
 ---
 
-**Progress note:** Sūkta 115: Ṛk 1 complete; Ṛk 2 through printed p. 157 (PDF 177): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*maryo na yoṣām*, *devayantaḥ*, *naraḥ*, *yugāni vitanvate* — continues on p. 158). Next: printed p. 158 (PDF 178). Open: numerals as read `[?]`; bhāṣya alternative explanation (plough/yoke) small type `[?]`.
+### Printed p. 158  (PDF 178; header "Maṃ. 1 A. 16 Sū. 115")  [Special Topics of Ṛk 2, continued]
+
+"… for the sake of association with the gods, wishing for wealth for themselves — those who perform sacrifice, aiming at the deities, are sacrificers who desire wealth (*dhanāpekṣiṇaḥ*): this is the meaning; and for the word *yugāni* [he gives] 'the parts that form the plough (*halādyavayavabhūtāni*), for *karṣaṇāya*, for tillage': [the sense] 'having prepared the implements useful for farming — the plough and the rest — at Uṣas-time, they do the Agnihotra and other works, and afterwards perform works that serve as the means of getting wealth necessary for worldly affairs': this is another kind of meaning. For the word *devayantaḥ* the meaning: sacrificers who serve the deities and desire their favour (*devakāmāḥ*). These sacrificers —
+
+> युगशब्दः कालविशेषे रथाद्युपकरणे च ।
+> (का. ६-१-१३० [as read; Kāśikā])
+
+> *yugaśabdaḥ kālaviśeṣe rathādyupakaraṇe ca |*
+> *(kā. 6-1-130 [as read; Kāśikā])*
+
+— since the word *yuga* conveys a particular time and also the equipment of a chariot and the like, *yugāni bhūtvā patnībhiḥ sahitāḥ santaḥ* — 'being in pairs, together with their wives, performing auspicious works such as Agnihotra, on the rising of Uṣas, in order to obtain the fruit of it': he explains yet another meaning."
+
+**भद्रं भद्राय वितन्वते** — *Bhadraṃ bhadrāya vitanvate* — "both words *bhadra* have the meaning 'auspicious'; one *bhadra* is the qualifier of the Sun. 'Because they offer sacrifice to the Sun who produces auspiciousness, they praise [him] at Uṣas-time, in order to please the Sun and obtain auspicious fruit' — is the sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly)**
+
+*rocamānām* (*ruc* "to shine", *śānac* in the *laṭ* sense; *śap*; guṇa of the penultimate; *āne muk*, Pā. 7-2-82 as read [?], the augment *muk*; the root accent remains as the *sārvadhātuka* is unaccented); *maryaḥ* (*mṛñ* "to die"; *yat* is irregularly formed by *chandasi niṣṭarkyadevahūya…*, Pā. 3-1-123 as read [?]; first-syllable accent by *yato 'nāvaḥ*, Pā. 6-1-213 as read [?]); *eti* (*iṇ* "to go", adādi *laṭ* 3rd singular; nighāta); *paścāt* (*paścāt*, by *paścāt*, Pā. 5-3-33 as read [?], the *paś* substitution for *apara*; *astāti*, the *ati* suffix is irregularly formed); *yatra* (*nipātasya ca*, Pā. 6-3-136 as read [?], lengthening in the Saṃhitā).
+
+### Printed p. 159  (PDF 179; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 2, concluded (noted briefly):* *naraḥ* (*nī* "to lead"; *ap* by *ṛdor ap*, Pā. 3-3-57 as read [?]; guṇa of the root; the root accent remains since *ap* is *pit*); *devayantaḥ* (*devān ātmana icchati devayati*; *kyac* by *supa ātmanaḥ kyac*, Pā. 3-1-8 as read [?]; *na chandasy aputrasya*, Pā. 7-4-35 as read [?], the lengthening of the *a* is prevented; *śatṛ* in the *laṭ* sense; the stem *devayat*; nominative plural); *yugāni* (*yujir* "to join"; the suffix *ghañ* in the passive; *yugaśabdaḥ kālaviśeṣe rathādyupakaraṇe ca*, as read in the Uṇādi list [Kā.], hence no guṇa of the penultimate because of the suffix; for that reason the final accent; *cajoḥ kughiṇṇyatoḥ*, Pā. 7-3-52 as read [?], the *g* for *j*); *vitanvate* (*tanu* "to extend", *laṭ* 3rd plural; *ātmanepadeṣv anataḥ*, Pā. 7-1-5 as read [?], *ā* for *jh*; *ṭita ātmanepadānāṃ ṭer e*; *tanādikṛñbhya uḥ*, Pā. 3-1-79 as read [?], *u* as the *vikaraṇa*; no guṇa as the suffix is *ṅit*-like by *sārvadhātukam apit*; *yaṇ*; since *yatra* precedes there is no nighāta by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; the compound with the prefix *vi*, through *saha supā*, Pā. 2-1-4 as read [?], by splitting of rule, is a compound with the verb; and the end of the compound is accented by *samāsasya*, Pā. 6-1-223 as read [?]). ‖ 2 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 115.3)**
+
+> भद्रा अश्वा हरितः सूर्यस्य चित्रा एतग्वा अनुमाद्यासः ।
+> नमस्यन्तो दिव आ पृष्ठमस्थुः परि द्यावापृथिवी यन्ति सद्यः ॥ ३ ॥
+
+> *bhadrā aśvā haritaḥ sūryasya citrā etagvā anumādyāsaḥ |*
+> *namasyanto diva ā pṛṣṭhamasthuḥ pari dyāvāpṛthivī yanti sadyaḥ ‖ 3 ‖*
+
+### Printed p. 160  (PDF 180; header "Maṃ. 1 A. 16 Sū. 115")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 115.3)**
+
+> भद्राः । अश्वाः । हरितः । सूर्यस्य । चित्राः । एतग्वाः । अनुमाद्यासः ।
+> नमस्यन्तः । दिवः । आ । पृष्ठम् । अस्थुः । परि । द्यावापृथिवी इति ।
+> यन्ति । सद्यः ॥ ३ ॥
+
+> *bhadrāḥ | aśvāḥ | haritaḥ | sūryasya | citrāḥ | etagvāḥ | anumādyāsaḥ |*
+> *namasyantaḥ | divaḥ | ā | pṛṣṭham | asthuḥ | pari | dyāvāpṛthivī iti |*
+> *yanti | sadyaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 115.3)**
+
+> भद्राः कल्याणाः । अश्वा एतग्वा इत्येतदुभयमश्वनाम । तत्रैकं क्रियापरं योजनीयम् । अश्वाः सूर्यस्य रथं वहन्तो व्यापनशीला वा हरितः हर्तारश्मयस्तद्वन्तो वा चित्राः विचित्रावयवा अनुमाद्यासः अनुक्रमेण सर्वैः स्तुत्या माद्यनीयाः । एवम्भूताः सूर्यस्यैतग्वा अश्वाः । यद्वा । एतं गन्तव्यं मार्गं गन्तारोऽश्वाः । एतं शबलवर्णं वा प्राप्नुवन्तोऽश्वाः । नमस्यन्तोऽस्माभिर्नमस्यमानाः सन्तो दिवोऽन्तरिक्षस्य पृष्ठमुपरिप्रदेशं पूर्वभागलक्षणमास्थुः । अतिष्ठन्ति । प्राप्तवन्तः । यद्वा । हरितो रसहरणशीला रश्मयो भद्रादिलक्षणविशिष्टा दिवः पृष्ठं नभःस्थलमातिष्ठन्ति । अस्थाय च द्यावापृथिवी द्यावापृथिव्यौ सद्यस्तदानीमेवैकेनाह्ना परि यन्ति । परितो गच्छन्ति । व्याप्नुवन्तीत्यर्थः ॥ [grammatical tail: *aśvāḥ* — *aśū* "to pervade", with *kvin*, *aśipruṣītyādinā*; *etagvāḥ* — *iṇ* "to go", *asi-hasi-* …, the suffix *tan*, *gamer ṇauḍādiko bhāve*… *ṭa* [as printed]; bahuvrīhi with first-member accent; *anumādyāsaḥ* — *madi* "to praise", *yat*, *yatonāva*; *namasyantaḥ* — *namovarivaś* …, *kyac* in the sense of honour; *asthuḥ* — *ṣṭhā*, *luṅ*, *gātisthā…* elision of *sic*, *jhi* → *jus*.] [a few words doubtful in small type [?]]
+
+> *bhadrāḥ kalyāṇāḥ | aśvā etagvā ityetadubhayamaśvanāma | tatraikaṃ kriyāparaṃ yojanīyam | aśvāḥ sūryasya rathaṃ vahanto vyāpanaśīlā vā haritaḥ hartāraśmayastadvanto vā citrāḥ vicitrāvayavā anumādyāsaḥ anukrameṇa sarvaiḥ stutyā mādyanīyāḥ | evambhūtāḥ sūryasyaitagvā aśvāḥ | yadvā | etaṃ gantavyaṃ mārgaṃ gantāro 'śvāḥ | etaṃ śabalavarṇaṃ vā prāpnuvanto 'śvāḥ | namasyanto 'smābhirnamasyamānāḥ santo divo 'ntarikṣasya pṛṣṭhamuparipradeśaṃ pūrvabhāgalakṣaṇamāsthuḥ | atiṣṭhanti | prāptavantaḥ | yadvā | harito rasaharaṇaśīlā raśmayo bhadrādilakṣaṇaviśiṣṭā divaḥ pṛṣṭhaṃ nabhaḥsthalamātiṣṭhanti | asthāya ca dyāvāpṛthivī dyāvāpṛthivyau sadyastadānīmevaikenāhnā pari yanti | parito gacchanti | vyāpnuvantītyarthaḥ ‖ [grammatical tail: *aśvāḥ* — *aśū* "to pervade", with *kvin*, *aśipruṣītyādinā*; *etagvāḥ* — *iṇ* "to go", *asi-hasi-* …, the suffix *tan*, *gamer ṇauḍādiko bhāve*… *ṭa* [as printed]; bahuvrīhi with first-member accent; *anumādyāsaḥ* — *madi* "to praise", *yat*, *yatonāva*; *namasyantaḥ* — *namovarivaś* …, *kyac* in the sense of honour; *asthuḥ* — *ṣṭhā*, *luṅ*, *gātisthā…* elision of *sic*, *jhi* → *jus*.] [a few words doubtful in small type [?]]*
+
+*Sense (mine):* "*Bhadrāḥ* — auspicious. *Aśvāḥ* and *etagvāḥ* are both names for horses; of these one is to be taken as a verb-qualifier. The horses of the Sun carry his chariot, pervading, *haritaḥ* (green-tawny, or taking away [*hartāraḥ*] the rays or possessing them), *citrāḥ* — of varied limbs, *anumādyāsaḥ* — to be gladdened in due order by the praise of all. Such are the *etagvā aśvāḥ* of the Sun. Or: *etagvāḥ* — horses that go along the road to be travelled; or horses that attain the variegated colour. *Namasyantaḥ* — being saluted by us — they have mounted (*āsthuḥ*) the *pṛṣṭha*, the upper region, of *divaḥ*, of the atmosphere, namely the eastern part. Or: the rays that take away the sap, with the characters of auspiciousness and so on, mount the back of the sky (the region of space). And having mounted, they go round (*pari yanti*) *dyāvāpṛthivī*, heaven and earth, *sadyaḥ* — at that very time, in a single day."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*bhadrāḥ* — auspicious; *haritaḥ* — of green-tawny colour; *citrāḥ* — having wonderful limbs; *anumādyāsaḥ* — praiseworthy in succession; *aśvāḥ* — the swift ones; *sūryasya* — of the Sun; *etagvāḥ* — the horses; *namasyantaḥ* — worshipped by us; *divaḥ pṛṣṭham* — the upper part of the atmosphere; *ā asthuḥ* — they move mounting up; *dyāvāpṛthivī* — earth and sky; *sadyaḥ* — in the same day; *pari yanti* — go round."
+
+### Printed p. 161  (PDF 181; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 11")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The Sun's horses are auspicious; of wonderful limbs; they have the power of swift movement; they are praised by us. Such green-tawny horses of the Sun, worshipped by us, move mounting in the upper part of the sky. These horses go round earth and sky in a single day."
+
+**English Translation (as printed)**
+
+> The auspicious, swift horses of the sun, well-limbed, road-traversing, who merit to be pleased with praise, reverenced by us, have ascended to the summit of the sky, and quickly circumambulate earth and heaven.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अश्वाः** — *Aśvāḥ* — "*turagāḥ* — from the root *aśū* 'to pervade' (*vyāptau*); or 'those whose nature is to pervade' — those who move swiftly, or whose nature is to pervade."
+
+**एतग्वाः** — *Etagvāḥ* — "*etaṃ gantavyaṃ mārgaṃ gantāro 'śvāḥ | etāṃ śabalavarṇaṃ vā prāptavanto 'śvāḥ*": "horses that go along the road they have to travel; hence 'horses', since they go along the road that lies ahead; or because the word *eta* conveys various (*śabala* — mottled) colours (turmeric-yellow, red, white), 'horses endowed with many colours'. Skandasvāmin —
+
+> एतग्व इत्यश्वनामान्यत्रेह तु अश्वेन पौनरुक्त्यप्रसङ्गात् क्रियाशब्दः । अतीतेप्सहसः [?] मार्गस्य गन्तारः ॥
+
+> *etagva ityaśvanāmānyatreha tu aśvena paunaruktyaprasaṅgāt kriyāśabdaḥ | atītepsahasaḥ [?] mārgasya gantāraḥ ‖*
+
+— the word *etagva* elsewhere is a name of horse; but here, since it would be a repetition with *aśva*, it is a verb-word [i.e. an adjective of action]: 'those that go on the roads they travelled before' (the meaning given in the Kannada: 'those who move on the paths that were traversed on the days that have gone')."
+
+**अनुमाद्यासः** — *Anumādyāsaḥ* — "*madatir arcatikarmā anuṣṭutyāḥ*": "the root *mad* is read among the forty-four [as read] words beginning *arcati* (Ni. 3-?? as read [?]), 'worthy of praise'. (praises)"
+
+---
+
+**Progress note:** Sūkta 115: Ṛks 1–2 complete; Ṛk 3 through printed p. 161 (PDF 181): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*aśvāḥ*, *etagvāḥ*, *anumādyāsaḥ*). Next: printed p. 162 (PDF 182). Open: numerals as read `[?]`; Skandasvāmin on *etagvāḥ* `[?]`.
