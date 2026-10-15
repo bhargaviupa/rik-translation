@@ -5175,4 +5175,74 @@ he gives these Ṛks."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–6 complete; Ṛk 7 through the printed English on p. 214 (PDF 234): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 215 (PDF 235) — Ṛk 7 Special Topics, grammar. Open: numerals as read `[?]` (including all Ṛk citations of p. 211); bhāṣya small type `[?]` esp. the first sentence of Ṛk 7's story.
+### Printed p. 215  (PDF 235; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**नरा** — *Narā* — "*netārau aśvinau*": "the Aśvin deities who urge the understanding along the right path — so Sāyaṇa; Skandasvāmin explains *narā* as '*manuṣyākārau manuṣyāṇām ākāra iva ākāro yayoḥ*' — those who have the form of men."
+
+**पज्रियाय कक्षीवते** — *Pajriyāya kakṣīvate* — "*pajrā ity aṅgirasām ākhyā | pajrā vāṅgirasa ity āmnānāt | teṣāṃ kule jātāya*": "*pajrā* is a name of the Aṅgirases, as the *śruti* says '*pajrā vā aṅgirasaḥ*'; the one born in their family — so Sāyaṇa explains. Skandasvāmin: though *pājaḥ* is read among the names of strength in the Nirukta (Ni. 2-9 as read [?]), the word *pājas* here is a name of food; therefore *pajra* is 'he whose is [the food] in the form of the oblation (*havis*)': 'for *stuvate*, *yajate*: one who prepares food in the form of oblation to offer to the deities, and praises' — [so *pajriya* is] the one who praises or sacrifices'; he explains in one manner; and —
+
+> अथवा प्रजा अङ्गिरस उच्यन्ते । तेषामपत्यभूतः पज्रियः । पौराणिका हि कक्षीवन्तमाङ्गिरसं स्मरन्ति । एवं ह्याहुः —
+> उशिजो वृवदुक्थश्च ऋषिर्दीर्घतमास्तथा ।
+> कक्षीवाँस्त्र्यस्त्रिंशत्स्मृता ह्यङ्गिरसां वराः ॥ [as read; small type, partly doubtful [?]]
+> इति । एवमाङ्गिरसां अपत्यं त्रयस्त्रिंशत्तमः कक्षीवान् । तस्मै कक्षीवते । मह्यमेवेत्यर्थः ॥
+
+> *athavā prajā aṅgirasa ucyante | teṣāmapatyabhūtaḥ pajriyaḥ | paurāṇikā hi kakṣīvantamāṅgirasaṃ smaranti | evaṃ hyāhuḥ —*
+> *uśijo vṛvadukthaśca ṛṣirdīrghatamāstathā |*
+> *kakṣīvā~stryastriṃśatsmṛtā hyaṅgirasāṃ varāḥ ‖ [as read; small type, partly doubtful [?]]*
+> *iti | evamāṅgirasāṃ apatyaṃ trayastriṃśattamaḥ kakṣīvān | tasmai kakṣīvate | mahyamevetyarthaḥ ‖*
+
+— 'Or: the Aṅgirases are called *prajāḥ*; the one who is their offspring is *pajriya*. The Purāṇa-writers remember Kakṣīvān as an Aṅgirasa; thus they say: "Uśija, Vṛvadukthā [*sic* in the print: *vṛvaduktha*], the ṛṣi Dīrghatamas, and Kakṣīvān — these are remembered as the thirty-three chiefs of the Aṅgirases." So Kakṣīvān is the thirty-third in the line of the Aṅgirasa descendants. To that Kakṣīvān: that is, to me, is the meaning.' The Kannada: 'those born in the family of the Aṅgirasa ṛṣis are famed as *pajrās*. Those born in their family are called *pajriyas*. The Purāṇa-writers say that the ṛṣi Kakṣīvān, the seer of the mantras of this sūkta, was born in the line of these Aṅgirasa ṛṣis. Among those who are well-known in the Aṅgirasa line — Uśija, Vṛvaduktha, Dīrghatamas, Kakṣīvān, — thirty-three persons — this Kakṣīvān is the thirty-third. This Kakṣīvān had a great deal of ignorance. To be rid of his ignorance and to obtain the highest knowledge he praised the Aśvin deities. They, pleased with his praise, bestowed on him extraordinary knowledge: so the Itihāsa is explained. Sāyaṇa also tells this story."
+
+**कक्षीवते** — *Kakṣīvate* — "*kakṣyā nāma rajjū raśmiḥ | tadvate tatkakṣasaṃjñāya*": "*kakṣyā* is the name of the rope that binds the horse; he who has it is *kakṣīvān*: the meaning of the word *kakṣīvān*.
+
+### Printed p. 216  (PDF 236; header "Maṃ. 1 A. 17 Sū. 116")
+
+**कारोतरात् शफात् वृष्णः** — *Kārotarāt śaphāt vṛṣṇaḥ* — "*kārotaro nāma vaidalacarmaveṣṭito bhājanaviśeṣaḥ yasmin surāyāḥ srāvaṇaṃ kriyate*": "a vessel made of well-prepared leather is called a *kārotara*, because spirit is poured into it. By putting spirit into it it is [the mark] of being pleasing [?]. Taking the word *vṛṣṇaḥ* in the sense of 'sprinkling' and of 'filling', he explains the meaning: the Aśvin deities caused a hundred jars of spirit, uncounted, to enter, to be filled, merely by the hoof of their horse. Since there is great need of spirit in sacrifices such as the Sautrāmaṇī, the Aśvin deities made spirit easy to obtain for those [sacrificers] — this is his explanation."
+
+"Skandasvāmin tells a story on this matter:
+
+> आश्विनौ इतिहासमाचक्षते । अश्विनौ यदृच्छया पर्येटन्तौ पिबन्नुक्रं बालसमूहं ददर्श । स तौ सुरां ययाचे । तस्मै अश्विनौ देवता महाभाग्यात् अश्वशफादुद्धृत्य घटशतं सुरायै ददतुरिति । तदिहोच्यते कारोतराच्चादित्यादिना । कारोतर इति कूपनाम । तस्मादृश्यान्त इह अश्वशफे प्रयुज्यते । अश्वस्य शफादुद्धृत्य मत्तबालकेभ्यः सुरायाः घटशतं दत्तवन्त इत्यर्थः ॥ [small type, partly doubtful [?]]
+
+> *āśvinau itihāsamācakṣate | aśvinau yadṛcchayā paryeṭantau pibannukraṃ bālasamūhaṃ dadarśa | sa tau surāṃ yayāce | tasmai aśvinau devatā mahābhāgyāt aśvaśaphāduddhṛtya ghaṭaśataṃ surāyai dadaturiti | tadihocyate kārotarāccādityādinā | kārotara iti kūpanāma | tasmādṛśyānta iha aśvaśaphe prayujyate | aśvasya śaphāduddhṛtya mattabālakebhyaḥ surāyāḥ ghaṭaśataṃ dattavanta ityarthaḥ ‖ [small type, partly doubtful [?]]*
+
+— 'The Aśvins, wandering at will, saw a group of children drinking spirit. They asked the Aśvins for spirit. The deities Aśvins, by their great power, drew from a horse's hoof a hundred jars of spirit and gave them: this is what is said here: *kārotarāt* — *kārotara* is a name of a well; so, in the sense of an example, it is used here for the horse's hoof': they drew from the horse's hoof and gave a hundred jars of spirit to the intoxicated children.' The Kannada: the Aśvin deities, wandering at their own will, saw a group of boys who had been drinking intoxicating drink. The boys asked them 'give us drink'. Then the Aśvin deities, in accordance with the power belonging to their divinity, by their horse's hoof, caused many jars of spirit to be filled — as if by the form of ... [reading doubtful [?]] — and gave the drink to those children: thus the Itihāsa is told. And this very matter —
+
+> तद्वां नरा शंस्यं पज्रियेण कक्षीवता नासत्या परिज्मन् ।
+> शफादश्वस्य वाजिनो जनाय शतं कुम्भाँ असिञ्चतं मधूनाम् ॥
+> (ऋ. सं. १-११६-७ [as read])
+
+> *tadvāṃ narā śaṃsyaṃ pajriyeṇa kakṣīvatā nāsatyā parijman |*
+> *śaphādaśvasya vājino janāya śataṃ kumbhā~ asiñcataṃ madhūnām ‖*
+> *(ṛ. saṃ. 1-116-7 [as read])*
+
+— he cites the Ṛk, saying that this is also stated in the Ṛk." *(Note: the print here gives a verse of the same shape as the Ṛk under comment; the reading of its first two pādas — 'tad vāṃ narā śaṃsyaṃ pajriyeṇa kakṣīvatā nāsatyā parijman' — is as printed but is not the standard text of this very Ṛk [Ṛ. 1-116-7]; I give the print and do not correct it from memory.)*
+
+**पुरंधिम्** — *Purandhim* — "*prabhūtāṃ dhiyam*: abundant understanding; 'excess of understanding' means to know all subjects well. In this matter Skandasvāmin, under the phrase *aradatam purandhim* [says] —
+
+### Printed p. 217  (PDF 237; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> पुरंधिं बह्वर्थविषयां प्रज्ञाम् । अथवा रदतिः विलेखनार्थ इव । कक्षीवतो बह्वर्थविषयां प्रज्ञां विलिखितवन्तौ जडां सतीं तीक्ष्णीकृतवन्तौ । अतीतानागतवर्तमानसमर्थां सर्वार्थग्रहणसमर्थां च कक्षीवतः प्रज्ञां कृतवन्तौ स्थ इत्यर्थः । तदेतत्क्लेशानुयुक्तम् —
+> याभिः परिज्मा तनयस्य मज्मना द्विमाता तूर्षु तरणिर्विभूषति ।
+> याभिस्त्रिमन्तुरभवद्विचक्षणस्ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-४ [as read])
+
+> *puraṃdhiṃ bahvarthaviṣayāṃ prajñām | athavā radatiḥ vilekhanārtha iva | kakṣīvato bahvarthaviṣayāṃ prajñāṃ vilikhitavantau jaḍāṃ satīṃ tīkṣṇīkṛtavantau | atītānāgatavartamānasamarthāṃ sarvārthagrahaṇasamarthāṃ ca kakṣīvataḥ prajñāṃ kṛtavantau stha ityarthaḥ | tadetatkleśānuyuktam —*
+> *yābhiḥ parijmā tanayasya majmanā dvimātā tūrṣu taraṇirvibhūṣati |*
+> *yābhistrimanturabhavadvicakṣaṇastābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-4 [as read])*
+
+— 'the root *rad* has the meaning of "to scratch" elsewhere, but here, because it is used in the sense of "to give", they gave the understanding that moves in many subjects; or, since the meaning of "scratching" is the same for the root *rad*, the Aśvin deities "scratched" (cleared away) Kakṣīvān's dull intellect, which has many objects, and thereby sharpened it — and he explains the sense: they made the intelligence quick in all the three times, past, present and future'; he cites the Ṛk 1-112-4 [as read] as quoted. In this matter Yāska says '*purandhir bahudhīḥ*' (Ni. 6-13 [as read]) — *purandhi* is 'one who has many understandings'. Or: *puraṃ pūrayitavyaṃ sarvaviṣayajātam asyāṃ dhīyate avasthāpyate iti purandhir buddhiḥ* — 'what is to be filled up, the whole range of objects, is placed (*dhīyate*) in it: hence *purandhi*, understanding'. Yāska, explaining that the word *purandhi* conveys 'one who has much understanding', cites
+
+> अध्वर उक्थे यज्ञे श्रुष्टीभगं नासत्या पुरंधिम् । [as read; doubtful [?]]
+> (ऋ. सं. २-४३-४? [as read])
+
+> *adhvara ukthe yajñe śruṣṭībhagaṃ nāsatyā puraṃdhim | [as read; doubtful [?]]*
+> *(ṛ. saṃ. 2-43-4? [as read])*
+
+and says (Ni. 6-13) '*purandhiḥ bahudhīḥ*'. From this Sāyaṇa explains: understanding that stands firm in all kinds of subjects; or, that which comprises all subjects. Besides this, Yāska has explained the word *purandhi* in another place —
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–6 complete; Ṛk 7 Special Topics through printed p. 217 (PDF 237): *narā*, *pajriyāya kakṣīvate*, *kārotarāt śaphāt vṛṣṇaḥ* (Skandasvāmin's story), *purandhim* (continues p. 218). Next: printed p. 218 (PDF 238). Open: numerals as read `[?]`; a verse on p. 216 printed in a shape differing from Ṛ. 1-116-7 given as printed; Skandasvāmin small type `[?]`.
