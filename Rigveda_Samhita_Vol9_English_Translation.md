@@ -8541,4 +8541,34 @@ Skandasvāmin:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–10 complete; Ṛk 11 through printed p. 355 (PDF 375): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (Khela / Agastya / Viśpalā) begun (continues p. 356). Next: printed p. 356 (PDF 376). Open: p. 354 bhāṣya and p. 355 Skandasvāmin quotations small type `[?]`; *khela* vs *hela* spelling as read.
+### Printed p. 356  (PDF 376; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 11, continued)* "… the word *sūnu* is read among the names of offspring (Ni. 3-2 [numeral list]); hence the meaning is 'son'. The word *māna* conveys the meaning 'jar (*kumbha*)'. If the case-ending in *sūnoḥ mānena* is taken in reverse (*vyatyāsa*), the meaning is *mānasya sūnunā* — 'by the son of the jar'. Since it is said here that the ṛṣi Agastya praised the Aśvins, the order of Agastya's origin is briefly told here: from the sight of the *apsaras* Urvaśī, the semen of Mitra and Varuṇa fell on the earth and in the water; from what fell on the earth, Agastya, and from what fell in the water, the ṛṣi Vasiṣṭha, were born. This matter is told by the mantra quoted above beginning *satre ha jātau*." Having described it so, "*evaṃ kumbhasyāpatyabhūto agastyaḥ khelasya ca purohitaḥ*" — "thus Agastya, the son of the jar, is the chaplain of Khela": Skandasvāmin gives the meaning here just as Sāyaṇa says that Agastya, the son of the jar, was chaplain of King Khela.
+
+"Sāyaṇa: *mānena stutyasya paricchedakena stotreṇa gṛṇānā stūyamānau* — [the Aśvins], praised by the hymn which marks the extent (*iyattā*) of the thing that is the object of praise; he gives the word *māna* the meaning 'praise', and explains that the Aśvins, pleased by the praise of the ṛṣi Bharadvāja, gave him food and wealth."
+
+*Brahmaṇā vāvṛdhānau ātmārthaṃ vardhamānau* — "greatly delighted by praise in the form of mantra", so [Sāyaṇa] explains; and Skandasvāmin quotes:
+
+> चरित्रं हि वेरिवाच्छेदि पर्णमाजा खेलस्य परितक्म्यायाम् ।
+> सद्यो जङ्घामायसीं विश्पलायै धने हिते सर्तवे प्रत्यधत्तम् ॥
+> (ऋ. सं. १-११६-१५ [as read; not in the numeral list])
+
+> *caritraṃ hi verivācchedi parṇamājā khelasya paritakmyāyām |*
+> *sadyo jaṅghāmāyasīṃ viśpalāyai dhane hite sartave pratyadhattam ‖*
+> *(ṛ. saṃ. 1-116-15 [as read; not in the numeral list])*
+
+"Here it is said that for the woman Viśpalā they joined a leg made of iron."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar pages, noted briefly)**
+
+*Mānena* — root *māṅ māne*, in the sense of the abstract noun, suffix *lyuṭ*; *yuvoranākau*, *ana* substituted; *liti* [as read], the acute on the syllable before the suffix. *Gṛṇānā* — root *gṝ śabde*, *kryādi*; *kartari vyatyayo bahulam* (Pā. 3-1-85), the agent-suffix in the sense of *laṭ* (*śānac*); *kryādibhyaḥ śnā* (Pā. 3-1-81), *śnā* as vikaraṇa; *snādīnāṃ hrasvaḥ* (Pā. 7-3-80 [as read in the numeral list; the first word printed *plādīnām*? [?]]), shortening of the root; *ṇatva* of the *n* after the *ṛ*-sound; dual of *gṛṇāna* when *au* follows, *supāṃ sulug* (Pā. 7-1-39), *ā* substituted.
+
+---
+
+### Printed p. 357  (PDF 377; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 11, continued)* *sulug* — by that, *ā* substituted for it; *ciṭaḥ* (Pā. 6-1-193 [numeral list]), final acute. *Bhuraṇā* — root *bhura dhāraṇapoṣaṇayoḥ*; because it belongs to the *pacādi* group (*nandigrahipacādibhyo lyuṇinyacaḥ*, Pā. 3-1-134), suffix *ac*; *kaṇḍvādibhyo yak* (Pā. 3-1-27), *yak* in the root's own sense; with *aṭ* following, *yasya halaḥ* (Pā. 6-4-49) elides the *y*, and *ato lopaḥ* (Pā. 6-4-48) the remaining *a*; *supāṃ sulug*, *ā* for the case ending; *āmantritasya ca* (Pā. 8-1-19), *nighāta* accent; with regard to the word *viprāya* [the *nighāta* does not arise], since *radantā* is related to it and *bhuraṇā* is not related to it, there is no capacity for it, so *parāṅgavadbhāva* does not arise, and the whole group gets no *nighāta*. *Radantā* — root *rada vilekhane*; in the sense of *laṭ*, suffix *śatṛ*, *śap* vikaraṇa; the word *radat*; dual, with *au* following, *supāṃ sulug* (Pā. 7-1-39 [numeral list]), *ā* substituted; *num* (as an *ugit*) — [and since] the *lasārvadhātuka* follows *upadeśa*, it is *anudātta*, so the root accent remains. *Vavṛdhānā* — root *vṛdhu vṛddhau*; when *liṭ* has come, *liṭaḥ kānaj vā* (Pā. 3-2-106), suffix *kānac*; *guṇa* of the root on that account; *ur at* (Pā. 7-4-66), *a* for the reduplicative syllable; becoming *r*-final, *ādihalśeṣa*; since the suffix is *kit*, *guṇa* of the root's light penultimate does not occur; in the Saṃhitā the reduplicative syllable is lengthened by the Vedic usage; *tujādīnāṃ dīrgho 'bhyāsasya*, [for the lengthening], and in the Pada-text too the long [vowel] is to be heard. *Ariṇītam* — root *rī gatireṣaṇayoḥ*, *kryādi*; *laṅ*, second person dual; *tas-thas-…*, *tam* substituted; *kryādibhyaḥ śnā* (Pā. 3-1-81), *śnā* as vikaraṇa; *snādīnāṃ hrasvaḥ* (Pā. 7-3-80), shortening of the root; the suffix being *ṅit*, because there is *aṅga* in the *hal*-initial, *ī halyaghoḥ* (Pā. 6-4-113), *ī* for the vikaraṇa's *ā*; *āṭ kuppvāṅ* [as read [?]] — by this rule, *ṇatva* of the *n*; because of its standing after an *ajanta*, the *nighāta* accent. ‖ 11 ‖
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–11 complete (printed p. 357, PDF 377; Ṛk 11 grammar done). Next: printed p. 358 (PDF 378): Ṛk 12 Saṃhitā. Numerals for pp. 356–357 taken from the reader's numeral list where it had them (Ni. 3-2; Pā. 3-1-85, 3-1-81, 7-3-80, 7-1-39, 6-1-193, 3-1-134, 3-1-27, 6-4-49, 6-4-48, 8-1-19, 3-2-106, 7-4-66, 6-4-113); Ṛk 1-116-15 as read (not in list). Open: small-type grammar `[?]`.
