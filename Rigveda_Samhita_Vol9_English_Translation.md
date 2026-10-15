@@ -3644,4 +3644,104 @@ In this Ṛk, since weapons that kill cows and kill men are to be kept far away,
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–9 complete; Ṛk 10 through printed p. 144 (PDF 164): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar page begun (ends at *dvibarhāḥ*, continues on p. 145). Next: printed p. 145 (PDF 165), then Ṛk 11. Open: numerals as read `[?]`; Skandasvāmin on *dvibarhāḥ* corrupt `[?]`.
+### Printed p. 145  (PDF 165; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 10")
+
+*Grammar page of Ṛk 10, concluded (noted briefly):* *dvibarhāḥ* — guṇa of the penultimate by *pugantalaghūpadhasya ca*, Pā. 7-3-86 as read [?]; first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]; in the compound the first-member accent by *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?]; nominative singular. ‖ 10 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 11  (Triṣṭubh)
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.11)**
+
+> अवोचाम नमो अस्मा अवस्यवः शृणोतु नो हवं रुद्रो मरुत्वान् ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ११ ॥
+
+> *avocāma namo asmā avasyavaḥ śṛṇotu no havaṃ rudro marutvān |*
+> *tanno mitro varuṇo māmahantāmaditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.11)**
+
+> अवोचाम । नमः । अस्मै । अवस्यवः । शृणोतु । नः । हवम् ।
+> रुद्रः । मरुत्वान् ।
+> तत् । नः । मित्रः । वरुणः । ममहन्ताम् । अदितिः । सिन्धुः । पृथिवी ।
+> उत । द्यौः ॥ ११ ॥
+
+> *avocāma | namaḥ | asmai | avasyavaḥ | śṛṇotu | naḥ | havam |*
+> *rudraḥ | marutvān |*
+> *tat | naḥ | mitraḥ | varuṇaḥ | mamahantām | aditiḥ | sindhuḥ | pṛthivī |*
+> *uta | dyauḥ ‖ 11 ‖*
+
+### Printed p. 146  (PDF 166; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.11)**
+
+> अवस्यवो रक्षणमिच्छन्तो वयमवोचाम । एतत्सूक्तरूपं स्तोत्रमवादिष्म । अस्मै रुद्राय नमो नमस्कारोऽस्तु । मरुत्वान् मरुद्भिः स्वकीयैः पुत्रैर्युक्तो रुद्रश्च नोऽस्माकं हवमाह्वानं शृणोतु । स्वीकरोतु । यदस्माभिरुक्तं नोऽस्मदीयं तत्सर्वं मित्रादयः षड्देवता मामहन्ताम् । पूजयन्तु । उतत्तद्वोऽस्यार्थे ॥ [grammatical tail: *avocāma* — *brūñ* "to speak", *luṅ*; *vacir* substitution; *ceḥ sic*… *asyati-vakti-khyātibhyo 'ṅ*, *aṅ* for *cli*; *vaca um*, augment; *avasyavaḥ* — *ava* "to protect", *bhāve asun*, *supa ātmanaḥ kyac*, *kyac chandasi*, *u* by *kyāc chandasi*; *havam* — *hveñ*, *saṃprasāraṇa*, *ap*; *marutvān* — *ṛkāya* [as printed: *ṛtvijaḥ*], *matup*, *tasau matvarthe*, *bha*-designation.]
+
+> *avasyavo rakṣaṇamicchanto vayamavocāma | etatsūktarūpaṃ stotramavādiṣma | asmai rudrāya namo namaskāro 'stu | marutvān marudbhiḥ svakīyaiḥ putrairyukto rudraśca no 'smākaṃ havamāhvānaṃ śṛṇotu | svīkarotu | yadasmābhiruktaṃ no 'smadīyaṃ tatsarvaṃ mitrādayaḥ ṣaḍdevatā māmahantām | pūjayantu | utattadvo 'syārthe ‖ [grammatical tail: *avocāma* — *brūñ* "to speak", *luṅ*; *vacir* substitution; *ceḥ sic*… *asyati-vakti-khyātibhyo 'ṅ*, *aṅ* for *cli*; *vaca um*, augment; *avasyavaḥ* — *ava* "to protect", *bhāve asun*, *supa ātmanaḥ kyac*, *kyac chandasi*, *u* by *kyāc chandasi*; *havam* — *hveñ*, *saṃprasāraṇa*, *ap*; *marutvān* — *ṛkāya* [as printed: *ṛtvijaḥ*], *matup*, *tasau matvarthe*, *bha*-designation.]*
+
+*Sense (mine):* "We, *avasyavaḥ*, desiring protection, have spoken (*avocāma*): we have uttered this stotra in the form of the sūkta. To this Rudra be *namaḥ*, salutation. *Marutvān* — Rudra, accompanied by the Maruts, his own sons — may he hear (*śṛṇotu*) our *hava*, invocation: accept it. What has been said by us, our [prayer], may the six deities Mitra and the rest *mamahantām* — honour (grant)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*avasyavaḥ* — we, desirous of protection; *avocāma* — have recited this sūkta; *asmai* — to this; *rudrāya* — Rudra; *namaḥ* — salutation (be); *marutvān* — he who is joined with the Maruts; *rudraḥ* — Rudra; *naḥ havam* — our invocation; *śṛṇotu* — may hear, accept; *naḥ tat* — this praise uttered by us; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi, the mother of the gods; *sindhuḥ* — the deity of the ocean; *pṛthivī* — the deity of the earth; *uta* — and; *dyauḥ* — the deity of heaven and so on, together; *mamahantām* — may they protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"We who desire protection have praised in this manner. Salutation to Rudra. May Rudra, who is joined with the Maruts, accept this our prayer. And may Mitra, Varuṇa, Aditi, the deities of the ocean, the earth and heaven make this praise of ours worthy."
+
+**English Translation (as printed)**
+
+> Desirous of protection, we have said, reverence be to him ; may Rudra, with the Maruts, hear our invocation ; and may Mitra, Varuna, Aditi-ocean, earth, and heaven be favourable to this our prayer.
+
+### Printed p. 147  (PDF 167; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अवस्यवः** — *Avasyavaḥ* — "*avaḥ* — *anna* (food), *rakṣaṇa* (protection), from *av* 'to protect' (*vā*). Since the word *avas* is stated among the twenty-eight [as read] names of food (Ni. 2-7 as read [?]), *avas* means food —
+
+> इवा त्वार्चन्नवसे वन्दमानः सोमस्येवांशुं प्रति जागराहम् ॥
+> (ऋ. सं. १०-१४६-३ [as read])
+
+> *ivā tvārcannavase vandamānaḥ somasyevāṃśuṃ prati jāgarāham ‖*
+> *(ṛ. saṃ. 10-146-3 [as read])*
+
+— the word *avase*, *avanāya* in this Ṛk is used in the sense of 'for protection'. We have recited these *stotras* for the sake of food and for the sake of our protection. The prayer is expressed that Rudra, who is joined with his sons the Marut deities, may hear our *stotras* and protect us."
+
+**मित्रो वरुणो ममहन्ताम्** — *Mitro varuṇo mamahantām* — "may Varuṇa and Mitra and Aditi and Sindhu and Pṛthivī and the atmosphere — these six deities — hear our praise and make for us growth. Or, from the root *mah* with the *pūjārtha* sense 'to honour', the form *mamahantām* arises: the meaning is 'may this *stotra* be honoured by the deities, bringing delight to their minds'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly)**
+
+*avocāma* (*brūñ* "to speak", *luṅ* 1st plural; *brūvo vaciḥ*, Pā. 2-4-53 as read [?], *vaci* for the root; *cli* as *vikaraṇa*; *asyati-vakti-khyātibhyo 'ṅ*, Pā. 3-1-52 as read [?], the *aṅ* for *cli*; *vaca um*, Pā. 7-4-20 as read [?], the augment *um*; *ito 'tyāt kar* [as printed, [?]]; guṇa; the augment *aṭ*; *ato dīrgho yañi*, Pā. 7-3-101 as read [?], lengthening before *ma* for the stem ending in *a*; at the beginning of a *pāda* there is no nighāta; as the augment is *udātta* the word has the first-syllable accent); *avasyavaḥ* (*av* "to protect", in the abstract sense *sarvadhātubhya asun*, Pā. 3-4-?? as read [?]; *avaḥ ātmana icchati iti avasyati*, *supa ātmanaḥ kyac*, Pā. 3-1-8 as read [?]; *sanādyantā dhātavaḥ*; after the *kyac*-ending *kyāc chandasi*, Pā. 3-2-170 as read [?], the *u* suffix; *ato lopaḥ*, Pā. 6-4-48 as read [?], the elision of the *a* of *kyac*; the word becomes *avasyu*; the accent from the suffix on the last syllable; nominative plural *jas* with guṇa by *jasi ca*, Pā. 7-3-109 as read [?], and *avādeśa*); *śṛṇotu* (*śru* "to hear", *loṭ* 3rd singular; *śṛ* for *śru* by *śruvaḥ śṛ ca*, Pā. 3-1-74 as read [?], *śnu* as *vikaraṇa*; guṇa; *ṇatva*; no nighāta at the beginning of a *pāda*; the *vikaraṇa* accent remains); *havam* (*hveñ* "to compete, to call", the suffix *ap* in the abstract sense by *bhāve 'nupasargasya*, Pā. 3-3-?? as read [?]; *saṃprasāraṇa* of the root, *pūrvarūpa*; guṇa and *av*; *ap* is *pit* hence unaccented, by *supiti* [as printed] the root accent remains; accusative singular); *marutvān* (*marutaḥ asya santi*; *matup* by *tad asyāsty asmin*, Pā. 5-2-94 as read [?]; *jhayaḥ*, Pā. 8-2-10 as read [?], *va* for the *m* of *matup*; *te mantrārthe*, the *bha*-designation by *svādiṣv asarvanāmasthāne*, Pā. 1-4-?? as read [?], excepted by *tasau matvarthe*; since it is *bha*, *jaśtva* of the *t* does not arise by *jhalāṃ jaśo 'nte*; nominative singular *su*, *num* augment since it is *ugit*; the elision of the conjunct final *t* is regarded as not having happened, hence no *n*-elision). ‖ 11 ‖
+
+### Printed p. 148  (PDF 168; header "Maṃ. 1 A. 16 Sū. 114")
+
+*(The grammar of Ṛk 11 concludes at the top of this page with the sentence on the non-elision of the final conjunct and the end-mark ‖ 11 ‖, as above.)*
+
+**Colophon:** *nūrahadinālkane sūktavu samāptavu* — "The hundred-and-fourteenth Sūkta is ended."
+
+*(Printer's ornament.)*
+
+**End of Sūkta 114** (Ṛks 1–11; printed pp. 97–148).
+
+---
+
+## Sūkta 115 — *citraṃ devānām* (printed pp. 149–?)
+
+### Printed p. 149  (PDF 169; header "Aṣṭaka 1, Adhyāya 8, Varga …" "Ṛgvedasaṃhitā")
+
+**Heading (Kannada):** "nūrahadinaidaneya sūktavu" — "the hundred-and-fifteenth Sūkta."
+
+**Anukramaṇī and Sāyaṇa's introduction (Sanskrit, as printed):**
+
+> चित्रमिति षडृचं दशमं सूक्तं कुत्सस्यार्षं त्रैष्टुभं सूर्यदेवताकम् । तथा चानुक्रान्तं । चित्रं षट् सौर्यमिति ॥ अश्विनशस्त्रे सूर्योदयादूर्ध्वं सौर्याणि सूक्तानि शंसनीयानि । तत्रेदं सूक्तं शंसनीयम् । सूत्रितं च । चित्रं देवानां नमो मित्रस्य । आ. ६-५ । इति ॥ अदितेस्त्रिस्र ऋचः सौर्यस्य पशोर्वपापुरोडाशहविषां क्रमेणानुवाक्याः । ततो द्वे वपापुरोडाशयोर्याज्ये । तथा च सूत्रितम् । चित्रं देवानामुदगादनीकमिति पञ्च शं नो भव चक्षसा शं नो अह्नेति [?] । आ. ३-८ । इति ॥ अतिमूर्तिनाम्न्येकाहे शुनासीर्ये पर्वणि च सूर्यस्य हविषश्चित्रं देवानामित्येषा याज्या । सूत्रितं च तरणिर्विश्वदर्शतश्चित्रं देवानामुदगादनीकमिति याज्यानुवाक्याः । आ. ८-८ [?] । इति ॥
+
+> *citramiti ṣaḍṛcaṃ daśamaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubhaṃ sūryadevatākam | tathā cānukrāntaṃ | citraṃ ṣaṭ sauryamiti ‖ aśvinaśastre sūryodayādūrdhvaṃ sauryāṇi sūktāni śaṃsanīyāni | tatredaṃ sūktaṃ śaṃsanīyam | sūtritaṃ ca | citraṃ devānāṃ namo mitrasya | ā. 6-5 | iti ‖ aditestrisra ṛcaḥ sauryasya paśorvapāpuroḍāśahaviṣāṃ krameṇānuvākyāḥ | tato dve vapāpuroḍāśayoryājye | tathā ca sūtritam | citraṃ devānāmudagādanīkamiti pañca śaṃ no bhava cakṣasā śaṃ no ahneti [?] | ā. 3-8 | iti ‖ atimūrtināmnyekāhe śunāsīrye parvaṇi ca sūryasya haviṣaścitraṃ devānāmityeṣā yājyā | sūtritaṃ ca taraṇirviśvadarśataścitraṃ devānāmudagādanīkamiti yājyānuvākyāḥ | ā. 8-8 [?] | iti ‖*
+
+Sense: "*citram* — the sixth-Ṛk, tenth sūkta (of this anuvāka), of Kutsa; Triṣṭubh; deity Sūrya; so the Anukramaṇī: '*citraṃ ṣaṭ sauryam*'. In the Aśvina-śastra, after sunrise, the Solar hymns are to be recited; among them this sūkta is to be recited; and so the Sūtra: '*citraṃ devānāṃ namo mitrasya*' (Āś. 6-5 as read [?]). The three Ṛks addressed to Aditi [as read: *aditestisra ṛcaḥ*, the print's wording is doubtful [?]] are the *anuvākyās* in turn for the omentum, the cake and the oblations of the Solar animal sacrifice; then two are the *yājyās* of the omentum and the cake; and so the Sūtra says '*citraṃ devānām udagād anīkam* — five; *śaṃ no bhava cakṣasā śaṃ no ahnā*' (Āś. 3-8 as read [?]). In the one-day rite called *Atimūrti*, in the *Śunāsīrya* parvan, '*citraṃ devānām*' is the *yājyā* for the oblation to Sūrya; and the Sūtra says '*taraṇir viśvadarśataḥ*' and '*citraṃ devānām udagād anīkam*' as *yājyā* and *anuvākyā* (Āś. 8-8 as read [?])."
+
+**Anuvāda (Kannada):** "This sūkta *citraṃ devānām* is the tenth sūkta in the sixteenth anuvāka. It has six Ṛks. The ṛṣi of this sūkta is Kutsa; the deity is Sūrya; the metre is Triṣṭubh. In the Anukramaṇikā it is said '*citraṃ ṣaṭ sauryam*'. In the recitation of the Aśvina-śastra mantras, when the sūktas related to Sūrya are recited after sunrise, this sūkta is applied, as explained by the Āśvalāyana Śrauta-sūtra sūtra '*citraṃ devānāṃ namo mitrasya*' (Āś. 6-5 as read [?]). The first three Ṛks of this sūkta, in the offering of the omentum, the cake and the oblations in the animal sacrifice connected with Sūrya, are to be used as *puroanuvākyā* mantras, and the next two Ṛks as *yājyā* mantras, as stated in the sūtra '*citraṃ devānām udagād anīkam iti pañca śaṃ no bhava cakṣasā śaṃ no ahnā*' (Āś. 3-8 as read [?]). And in the *ekāhe* called *Atimūrti*, when the *śunāsīra* [rite] is performed, one Ṛk '*citraṃ devānām*' is to be used as a *yājyā* mantra for Sūrya; the sūtra '*taraṇir viśvadarśataś citraṃ devānām udagād anīkam iti yājyānuvākyāḥ*' (Āś. 8-8 as read [?]) shows this."
+
+---
+
+**Progress note:** **Sūkta 114 complete** (Ṛks 1–11, printed pp. 97–148). Sūkta 115 (*citraṃ devānām*, 6 Ṛks, Sūrya) begun: introduction (Anukramaṇī, Sāyaṇa, Anuvāda) on printed p. 149 (PDF 169) done. Next: printed p. 150 (PDF 170) — Sūkta 115 header box and Ṛk 1. Sūkta 116 begins p. 177, Sūkta 117 p. 308 per the contents. Open: numerals as read `[?]` throughout; CLAUDE.md range 113–121.
