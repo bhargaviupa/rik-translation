@@ -7234,4 +7234,64 @@ the Kātyāyana-ites [?], those who study the Yajurveda — *kaṭhaśākhins* �
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–23 complete; Ṛk 24 through printed p. 303 (PDF 323): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*aśivena*, *śnathitam*, *pravṛktam*, *viprutam*, *somam iva sruveṇa*, *rebham*), grammar begun (continues p. 304). Next: printed p. 304 (PDF 324). Then Ṛk 25 (last). Open: Ṛ. 1-112-5 printed for two Ṛks (as printed) `[?]`; numerals as read.
+### Printed p. 304  (PDF 324; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page of Ṛk 24, concluded (noted briefly):* *anavaddham* (… *jhalāṃ jaś jhaśi* gives *d*; *ḍhatva*…; *ṣṭutva*…; the elision of the preceding *ḍh* and the lengthening, as above; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix *ava* keeps its accent; accusative singular); *śnathitam* (*śnatha* "to injure"; *kta* in the passive; *ārdhadhātukasyeḍ valādeḥ*, Pā. 7-2-35 as read [?], the augment *iṭ*; final accent from the suffix); *apsu* (*ūḍidaṃpadādi…*, Pā. 6-1-171 as read [?], the ending takes *udātta*; locative plural); *viprutam* (*pruj* "to go"; *kta* as before; *gatir anantaraḥ*, the prefix *vi* keeps its accent; since it belongs to the *kapilakādi* group, *l*-form [*pluta*] arises optionally); *udani* (when the locative singular follows the word *udaka*, *pad-dan-no-mās…*, Pā. 6-1-63 as read [?], *udan* is substituted; *vibhāṣā ṅiśyoḥ*, Pā. 6-4-136 as read [?], the elision of the *a* of *an* is optional, so it does not arise here); *ninyathuḥ* (*ṇīñ* "to carry"; *liṭ* 2nd dual; nighāta after an accented word). ‖ 24 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 25  (the last Ṛk of Sūkta 116)
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.25)**
+
+> प्र वां दंसांस्यश्विनाववोचमस्य पतिः स्यां सुगवः सुवीरः ।
+> उत पश्यन्नश्नुवन्दीर्घमायुरस्तमिवेज्जरिमाणं जगम्याम् ॥ २५ ॥
+
+> *pra vāṃ daṃsāṃsyaśvināvavocamasya patiḥ syāṃ sugavaḥ suvīraḥ |*
+> *uta paśyannaśnuvandīrghamāyurastamivejjarimāṇaṃ jagamyām ‖ 25 ‖*
+
+### Printed p. 305  (PDF 325; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 20")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.25)**
+
+> प्र । वाम् । दंसांसि । अश्विनौ । अवोचम् । अस्य । पतिः । स्याम् ।
+> सुऽगवः । सुऽवीरः ।
+> उत । पश्यन् । अश्नुवन् । दीर्घम् । आयुः । अस्तम्ऽइव । इत् ।
+> जरिमाणम् । जगम्याम् ॥ २५ ॥
+
+> *pra | vām | daṃsāṃsi | aśvinau | avocam | asya | patiḥ | syām |*
+> *su 'gavaḥ | su 'vīraḥ |*
+> *uta | paśyan | aśnuvan | dīrgham | āyuḥ | astam 'iva | it |*
+> *jarimāṇam | jagamyām ‖ 25 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.25)**
+
+> एवमनेन सूक्तेनाश्विनोर्महिमानं प्रशस्याधुना मन्त्रद्रष्टा स्वाभीष्टं प्रार्थयते । हे अश्विनौ वां युवयोर्दंसांसि पुरा कृतानि कर्माणि प्रावोचम् । इत्थं मुक्तवानस्मि । सोऽहं सुगवः शोभनगोयुक्तः सुवीरः शोभनवीरैः पुत्रैर्युक्तश्चास्य राष्ट्रस्य परिधिपतिः स्याम् । भवेयम् । उताऽपि च पश्यन्सर्वैरिन्द्रियैः स्वस्वविषयसमर्थैर्दीर्घं वर्षशतरूपेणायुष्टमायुर्जीवितं चाश्नुवन्प्राप्नुवन्नहमस्तमिव यथा गृहं स्वामी निष्कण्टकं प्रविशति एवं जरिमाणं जरां कण्टकरहितेन प्राप्नुयाम् । वृद्धः सन्किरकालं निवसेयमित्यर्थः ॥ स्याम् । अस्तेः प्रार्थनायां लिङ् । यासुट् । क्सोरल्लोप इत्यकारलोपः । अश्नुवन् । अशू व्याप्तौ । व्यत्ययेन शपि । जरिमाणम् । जृष् वयोहानौ । अस्माद्वौणादिक इमनिच् । जगम्याम् । गमेः प्रार्थनायां लिङ् । बहुलं छन्दसीति विकरणस्य श्लुः ॥ [small type; partly doubtful [?]]
+
+> *evamanena sūktenāśvinormahimānaṃ praśasyādhunā mantradraṣṭā svābhīṣṭaṃ prārthayate | he aśvinau vāṃ yuvayordaṃsāṃsi purā kṛtāni karmāṇi prāvocam | itthaṃ muktavānasmi | so 'haṃ sugavaḥ śobhanagoyuktaḥ suvīraḥ śobhanavīraiḥ putrairyuktaścāsya rāṣṭrasya paridhipatiḥ syām | bhaveyam | utā 'pi ca paśyansarvairindriyaiḥ svasvaviṣayasamarthairdīrghaṃ varṣaśatarūpeṇāyuṣṭamāyurjīvitaṃ cāśnuvanprāpnuvannahamastamiva yathā gṛhaṃ svāmī niṣkaṇṭakaṃ praviśati evaṃ jarimāṇaṃ jarāṃ kaṇṭakarahitena prāpnuyām | vṛddhaḥ sankirakālaṃ nivaseyamityarthaḥ ‖ syām | asteḥ prārthanāyāṃ liṅ | yāsuṭ | ksorallopa ityakāralopaḥ | aśnuvan | aśū vyāptau | vyatyayena śapi | jarimāṇam | jṛṣ vayohānau | asmādvauṇādika imanic | jagamyām | gameḥ prārthanāyāṃ liṅ | bahulaṃ chandasīti vikaraṇasya śluḥ ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "Having thus, by this sūkta, praised the greatness of the Aśvins, the seer of the mantras now prays for his own desire. O Aśvins, *vām*, your *daṃsāṃsi*, works done in former times, *pra avocam*, I have declared. May I, *sugavaḥ*, endowed with good cattle, *suvīraḥ*, endowed with good sons, be the *pati*, lord, of the boundary [*paridhi*] of this realm. And *paśyan* — seeing with all the senses, each capable in its own object — *aśnuvan*, obtaining *dīrgham āyuḥ*, a long life of a hundred years: may I *jagamyām*, attain *jarimāṇam*, old age, *astam iva*, as a master [enters his house] into a house without thorns, freed from troubles; that is, 'may I live for a long time, when old'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinau* — O Aśvin deities; *vām* — your; *daṃsāṃsi* — [mighty] acts; *pra avocam* — I have declared (such as I am); *sugavaḥ* — having good cattle; *suvīraḥ* — having valiant sons; *asya* — of this realm; *patiḥ syām* — may I be lord; *uta* — and; *paśyan* — seeing (with eyes, having keenness of the senses); *dīrgham āyuḥ* — a long life; *aśnuvan* — obtaining (living for a long time); *astam iva* — as (the master of a house) enters his house; *jarimāṇam* — old age; *jagamyām* — may I enter."
+
+### Printed p. 306  (PDF 326; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, I have described your great deeds. Grant that I, having valour and good cattle, may be the lord of this realm, and that, keen of senses, living long, I may afterwards (as a householder enters his house) enter old age."
+
+**English Translation (as printed)**
+
+> Thus, Ashwins, have I declared your exploits ; may I become the master (of this place), having abundant cattle and a numerous progeny, and retaining my sight, and enjoying a long life : may I enter into old age, as (a master enters) his house.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**दंसांसि** — *Daṃsāṃsi* — "*purā kṛtāni karmāṇi*: since the word *daṃsaḥ* is stated among the twenty-six [as read] names of work, '*apaḥ*', '*apnaḥ*' (Ni. 2-1 as read [?]), the word *daṃsa* means work. In this Ṛk, the number of acts is described in which the ṛṣi Kakṣīvān, who saw this sūkta and performed the *pācana* etc., having prayed to the Aśvin deities, who are the subject of this sūkta, [has asked for] what he must obtain; many works of the Aśvin deities that were done as favours to those who were in difficulties have been narrated. By this, the greatness of these deities being made clear, the ṛṣi Kakṣīvān prayed to the Aśvin deities that he might be lord of this realm with excellent cattle, sons and so on; that he might have a sharp sense-organs [*indriyapāṭava*] suitable for long life; that he might live long, free from disease, in a healthy body, and afterwards attain old age."
+
+**अस्तमिव** — *Astam iva* — "*yathā gṛhaṃ svāmī niṣkaṇṭakaṃ praviśati evaṃ jarāṃ kaṇṭakarahitena prāpnuyām vṛddhaḥ san ciraṃ kālaṃ niveseyam ity arthaḥ*": "as the master of a house enters his house without any thorn (obstacle), so may I enter old age without obstacle, and, being old, long dwell [in life]: this is the meaning. The word *asta* is stated among the twenty-two [as read] names of house, '*gayaḥ*', '*kṣayaḥ*' and so on (Ni. 3-?? as read [?]), so *asta* means house. As the master of a house enters his house without any fear or any trouble, so [the wish is expressed here] that, by the grace of the Aśvin deities, I may live long without any danger from disease etc., and afterwards pass in comfort the old age that remains."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–24 complete; Ṛk 25 (last) through the Special Topics on printed p. 306 (PDF 326): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*daṃsāṃsi*, *astam iva*). Next: printed p. 307 (PDF 327) — Ṛk 25 grammar page and the colophon of Sūkta 116; Sūkta 117 starts p. 308 (PDF 328). Open: numerals as read `[?]`.
