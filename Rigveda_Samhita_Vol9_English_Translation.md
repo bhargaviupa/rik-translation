@@ -2626,4 +2626,80 @@ Sense: "'*imā rudrāya*' — the ninth sūkta (of this anuvāka), of eleven Ṛ
 
 ---
 
-**Progress note:** Sūkta 114 (*imā rudrāya*): introduction (printed p. 97 lower half) and Ṛk 1 (Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English) done; Special Topics of Ṛk 1 in progress at the end of printed p. 101 (PDF 121), mid-topic *kṣayadvīrāya*. Next: printed p. 102 (PDF 122). Plan this session: Sūktas 114–117. Open: many Ni./Tai. numerals `[?]`; bhāṣya small type `[?]`; CLAUDE.md range should read 113–121.
+### Printed p. 102  (PDF 122; header "Maṃ. 1 A. 16 Sū. 114")  [Special Topics of Ṛk 1, continued]
+
+"… *kṣayante prāptaiśvaryāḥ vīrāḥ marudgaṇāḥ yasya*: Sāyaṇa explains this word as an epithet of Rudra, 'one who destroys heroes, or one who has as sons the Marut hosts, who possess lordship'. Skandasvāmin, explaining the word in the way Sāyaṇa did, says:
+
+> क्षयद्वीरायेति — क्षि निवासगत्योः इत्यस्य क्षियतेर्वा गतिकर्मणो रूपं शुद्धोऽपि चात्र सामर्थ्यात् अभिपूर्वार्थे द्रष्टव्यम् । वीराणामपि शत्रूणामभिगन्ता क्षयद्वीरः । आत्मीयानां वीराणामभिप्रेतेषु निवासयिता क्षयद्वीरः ॥
+
+> *kṣayadvīrāyeti — kṣi nivāsagatyoḥ ityasya kṣiyatervā gatikarmaṇo rūpaṃ śuddho 'pi cātra sāmarthyāt abhipūrvārthe draṣṭavyam | vīrāṇāmapi śatrūṇāmabhigantā kṣayadvīraḥ | ātmīyānāṃ vīrāṇāmabhipreteṣu nivāsayitā kṣayadvīraḥ ‖*
+
+— the word *kṣayat*, contained in the word *kṣayadvīra*, has the sense of 'dwelling' and 'going' (from the root *kṣi*), and, though the prefix *abhi* is not there, conveys the meaning of the prefix *abhi*. He explains the meaning: '*kṣayadvīra* — one who goes against heroic enemies and fights them; or one who causes his own heroes to dwell in the places they desire'."
+
+**शम्** — *Śam* — "since the word *śam* is stated among the twenty-eight [as read] names of happiness '*śiṃbātā*, *śatarā*' (Ni. 3-?? as read [?]), the meaning is 'happiness'. Yāska, in explaining the word *śaṃyoḥ* (*śaṃ ca yoś ca*), says '*śaṃ śamanaṃ ca rogāṇām*' — the cure of diseases and happiness; and he cites this Mantra to give the sense of happiness —
+
+> अग्निदेवमुमते त्वं मन्यासै शं च नस्कृधि ।
+> क्रत्वे दक्षाय नो हि नु प्रण आयूंषि तारिषः ॥ [first words doubtful [?]]
+> (वा. सं. ३८-५ [as read; Vājasaneyi-saṃhitā]) "
+
+> *agnidevamumate tvaṃ manyāsai śaṃ ca naskṛdhi |*
+> *kratve dakṣāya no hi nu praṇa āyūṃṣi tāriṣaḥ ‖ [first words doubtful [?]]*
+> *(vā. saṃ. 38-5 [as read; Vājasaneyi-saṃhitā]) "*
+
+**द्विपदे** — *Dvipade* — "*dvau pādāv asya*": one who has two feet.
+
+**यथा शम् असत्** — *Yathā śam asat* — "the word *asat* is formed from the root *as* 'to be'. Sāyaṇa explains this as '*bhavet*' (may be), and Skandasvāmin as '*bhavati*' (is). The purport is: we praise Rudra so that he may favour us, that all who live in our dwelling — men with two feet, and beasts with four feet, with others besides — may live in comfort, free from disease."
+
+### Printed p. 103  (PDF 123; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly)**
+
+Grammar page on *rudrāya* (*rudir* "to shed tears"; the suffix *rak* by *roder nir luk ca* (Uṇ. 2-?? as read [?]); being *kit*, no guṇa of the penultimate; accent from the suffix; dative singular), *tavase* (*tu* "to grow", a root fixed by sūtra in the sense of growth; Uṇādi suffix *asi/asun*; the *a* accented by the suffix; dative), *kṣayadvīrāya* (*kṣi* "to dwell/to rule"; *śatṛ* in the *laṭ* sense; guṇa and *ayādeśa*; *chandasy ubhayathā*, Pā. 3-4-117 as read [?], making the *śatṛ* *ārdhadhātuka*; the accent of the *sārvadhātuka* being unaccented because of *adupadeśa*, the *udātta* of the root remains; *bahuvrīhau prakṛtyā pūrvapadam* — first-member accent; dative), *bharāmahe* (*bhṛñ* "to bear", *laṭ* 1st plural; nighāta), *yathā* (*nipātasya ca* — lengthening in the Saṃhitā, Pā. 6-3-136 as read [?]), *asat* (*as* "to be", *leṭ* 3rd singular; the augment *aṭ* by *leṭo 'ḍāṭau*; elision of *i* by *itaś ca lopaḥ parasmaipadeṣu*; nighāta prevented by *nipātair yad yadi…* because *yathā* precedes, Pā. 8-1-30 as read [?]), *dvipade* (*dvau pādau asya* — *dvipāt*; *saṃkhyāsupūrvasya*, Pā. 5-4-140 as read [?], the final elision of *pāda*; *pād* → *pad* by *pāde pat*, Pā. 6-4-130 as read [?]; the rule that the part-change does not apply separately (*ekadeśavikṛtam ananyavat*, Paribh. 33 [?]); *dvitribhyāṃ pād-daN-mūrdhasu bahuvrīhau*, Pā. 6-2-197 as read [?], the first syllable of the later member accented).
+
+### Printed p. 104  (PDF 124; header "Maṃ. 1 A. 16 Sū. 114")
+
+*Grammar page, concluded:* *catuṣpade* (*catvāraḥ pādā asya*; as before; the first-member accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?]; since *catur* ends in *r*, the first syllable is accented by *kṛṣṇasaṃkhyāyoḥ* [as printed "*phiṣ saṃkhyāyoḥ*, Phi. 2-?"]); *puṣṭam* (*puṣ* "to nourish", *niṣṭhā* — *kta*; *ṭatva* of the *t* after *ṣ*; final accent from the suffix; accusative singular); *anāturam* (*na vidyate āturaḥ yasya*; *nañsubhyām* — Pā. 6-2-172 as read [?], the later member's first-syllable accent); *asmin* (*ūḍidaṃpadādi*, Pā. 6-1-171 as read [?], the accent of the ending). ‖ 1 ‖
+
+### Ṛk 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.2)**
+
+> मृळा नो रुद्रोत नो मयस्कृधि क्षयद्वीराय नमसा विधेम ते ।
+> यच्छं च योश्च मनुरायेजे पिता तदश्याम तव रुद्र प्रणीतिषु ॥ २ ॥
+
+> *mṛḷā no rudrota no mayaskṛdhi kṣayadvīrāya namasā vidhema te |*
+> *yacchaṃ ca yośca manurāyeje pitā tadaśyāma tava rudra praṇītiṣu ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.2)**
+
+> मृळ । नः । रुद्र । उत । नः । मयः । कृधि । क्षयत्ऽवीराय ।
+> नमसा । विधेम । ते ॥
+> यत् । शम् । च । योः । च । मनुः । आऽयेजे । पिता । तत् ।
+> अश्याम । तव । रुद्र । प्रऽनीतिषु ॥ २ ॥
+
+> *mṛḷa | naḥ | rudra | uta | naḥ | mayaḥ | kṛdhi | kṣayat 'vīrāya |*
+> *namasā | vidhema | te ‖*
+> *yat | śam | ca | yoḥ | ca | manuḥ | ā 'yeje | pitā | tat |*
+> *aśyāma | tava | rudra | pra 'nītiṣu ‖ 2 ‖*
+
+### Printed p. 105  (PDF 125; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.2)**
+
+> रुद्रदेवत्ये पशौ वपापुरोडाशयोर्मृळा नो रुद्रेत्यादिके द्वे अनुवाक्ये । तथा च सूत्रितम् । मृळा नो रुद्रोत नो मयस्कृधीति द्वे आ ते पितर्मरुतां सुम्नमेतु । आश्व. ३-८ [?] । इति ॥
+> हे रुद्र नोऽस्मभ्यमस्मदर्थं मृळ । शं सुखयिता भव । उताप्यपि च तदनन्तरं नोऽस्माकं मयः सुखं कृधि । कुरु । वयं च क्षयद्वीराय प्रसृतसर्ववीरं प्राप्तैश्वर्यैर्मरुद्भिर्युक्तं वा ते त्वां नमसा हविर्लक्षणेनान्नेन नमस्कारेण वा विधेम । परिचरेम । विधतिः परिचरणकर्मा । अपि च पिता उत्पादको मनुः स्वकीयेभ्यः प्रजाभ्यः शं रोगाणां शमनं योश्च भयानां यावनं च यदेतद्द्वयमायेजे देवेभ्यः सकाशात्प्राप्य दत्तवान् । हे रुद्र तव प्रणीतिषु प्रकृष्टनयनेषु सत्सु तद्द्वयमश्यामः । व्याप्नुयाम ॥
+
+> *rudradevatye paśau vapāpuroḍāśayormṛḷā no rudretyādike dve anuvākye | tathā ca sūtritam | mṛḷā no rudrota no mayaskṛdhīti dve ā te pitarmarutāṃ sumnametu | āśva. 3-8 [?] | iti ‖*
+> *he rudra no 'smabhyamasmadarthaṃ mṛḷa | śaṃ sukhayitā bhava | utāpyapi ca tadanantaraṃ no 'smākaṃ mayaḥ sukhaṃ kṛdhi | kuru | vayaṃ ca kṣayadvīrāya prasṛtasarvavīraṃ prāptaiśvaryairmarudbhiryuktaṃ vā te tvāṃ namasā havirlakṣaṇenānnena namaskāreṇa vā vidhema | paricarema | vidhatiḥ paricaraṇakarmā | api ca pitā utpādako manuḥ svakīyebhyaḥ prajābhyaḥ śaṃ rogāṇāṃ śamanaṃ yośca bhayānāṃ yāvanaṃ ca yadetaddvayamāyeje devebhyaḥ sakāśātprāpya dattavān | he rudra tava praṇītiṣu prakṛṣṭanayaneṣu satsu taddvayamaśyāmaḥ | vyāpnuyāma ‖*
+
+*Sense (mine):* "For the animal sacrifice addressed to Rudra, '*mṛḷā no rudra*' and '*uta no*' are the two *anuvākyā* verses for the omentum and the cake; and the Sūtra says '*mṛḷā no rudra uta no mayas kṛdhi* — these two; and *ā te pitar marutāṃ sumnam etu*' (Āśv. 3-8 as read [?]). O Rudra, be gracious to us — *mṛḷa*, be a giver of *śam*, comfort; and then also make *mayas*, happiness, for us. And we *vidhema*, serve (the root *vidh* means 'to attend on') thee, *kṣayadvīrāya* — who hast heroes spread out everywhere, or who art joined by the Maruts who have lordship — with *namasā*, food in the form of oblation, or salutation. And that pair, *śam* (cure of diseases) and *yoḥ* (driving off of fears), which our progenitor Manu obtained from the gods and gave (*āyeje*) to his own people — O Rudra, may we reach that pair, under thy *praṇīti*, thy excellent guidance."
+
+*Grammatical tail:* *mṛḷa* (*mṛḍ* "to be gracious", tudādi; *dyāv* → lengthening in the Saṃhitā); *kṛdhi* (*kṛ* with *hi* → *dhi*, *u* elided by *śruśṛṇupṛkṛvṛbhyaś chandasi hedhiḥ*); *mayaḥ* (the visarga); *kṣayadvīrāya* (the verb-governing dative); *vidhema* (*vidh* "to arrange/serve", tudādi); *āyeje* (*yaj*, *liṭ*, *saṃprasāraṇa* not applied before the *e*: *vityabhyāsalopaḥ*); *aśyāma* (*aśū* "to pervade", the *parasmaipada* by *vyatyaya*; *vikaraṇa* elided by *bahulaṃ chandasi*). *(Sūtra numbers small; not given.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he rudra* — O Rudra; *naḥ* — to us; *mṛḷa* — make comfort; *uta* — and; *naḥ* — to us; *mayaḥ kṛdhi* — make happiness (we also); *kṣayadvīrāya* — (to) him who has destroyed heroes; *te* — to you (or, to thy self); *namasā* — with oblation or salutations (praising and so on); *vidhema* — let us serve; *he rudra* — O Rudra; *pitā* — the progenitor; *manuḥ* — Manu (for his own descendants); *śam* — the cure of disease and so on; *yoḥ* — freedom from fear; *yat* — which (of the two); *ā yeje* — obtained from the gods and gave; *tat* — those; *tava* — thy; *praṇītiṣu* — under the leading of thy [kindly] look; *aśyāma* — may we obtain (from thee)."
+
+---
+
+**Progress note:** Sūkta 114: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya and pratipadārtha done (printed p. 105, PDF 125). Next: printed p. 106 (PDF 126) — Ṛk 2 bhāvārtha, English, Special Topics. Plan: Sūktas 114–117. Open: Ni./Pā./Āśv. numerals `[?]`; bhāṣya small type `[?]`; CLAUDE.md range 113–121.
