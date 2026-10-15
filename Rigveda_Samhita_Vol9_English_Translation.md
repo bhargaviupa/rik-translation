@@ -9871,4 +9871,60 @@ and this Ṛk:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–24 complete; Ṛk 25 (last of the sūkta) Saṃhitā written (printed p. 411, PDF 431). Next: printed p. 412 (PDF 432): Ṛk 25 Pada onward, then the Sanskrit colophon of Sūkta 117 if present, then Sūkta 118. Numerals as read (list stops at printed p. 380): Ṛ. 1-117-8, 1-112-8 as read; sūtra numbers `[as read]`.
+### Printed p. 412  (PDF 432; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.25)**
+
+> एतानि । वाम् । अश्विना । वीर्याणि । प्र । पूर्व्याणि । आयवः ।
+> अवोचन् ।
+> ब्रह्म । कृण्वन्तः । वृषणा । युवःऽभ्याम् । सुऽवीरासः । विदथम् ।
+> आ । वदेम ॥ २५ ॥
+
+> *etāni | vām | aśvinā | vīryāṇi | pra | pūrvyāṇi | āyavaḥ |*
+> *avocan |*
+> *brahma | kṛṇvantaḥ | vṛṣaṇā | yuvaḥ 'bhyām | su 'vīrāsaḥ | vidatham |*
+> *ā | vadema ‖ 25 ‖*
+
+*(The printed Pada reads "yuvaḥbhyām" with an avagraha — as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.25)** *(small type; read with some doubts)*
+
+> हे अश्विनौ वां युवयोः संबन्धीनि पूर्व्याणि प्रत्नान्येतानीदानीमयोक्तानि [?] वीर्याणि वीरकर्माण्यायवो मनुष्या मदीयाः पित्रादयः प्रावोचन् । उक्तवन्तः । वयं च हे वृषणा कामानामभिवर्षकावश्विनौ युवाभ्यां ब्रह्म मन्त्रात्मकं स्तोत्रं कृण्वन्तः कुर्वन्तः सुवीरासः सुवीराः शोभनवीर्यैः पुत्रादिभिरुपेताः सन्तो विदथं यज्ञमावदेम । अभिमुख्येन स्तुतीरुच्चारयामः । यद्वा । विदथं वेदयन्तमतिथिं तदेवेक्षितप्रदानेना [?] वदेम । अभिमुख्येन प्रियपूर्विकां वाचमुच्चारयामः ॥ कृण्वन्तः । कृवि हिंसाकरणयोश्च । इदित्त्वान्नुम् । लटः शतृ । धिन्विकृण्व्योर च (पा. ३-१-८० [as read]) इत्युप्रत्ययः । अकारान्तादेशश्च । अतो लोपे सति स्थानिवद्भावाल्लघूपधगुणाभावः । सुवीरासः । शोभना वीरा येषां ते तथोक्ताः । आज्जसेरसुक् । वीरवीर्ये चेत्यादिना [?] क्तपदाद्युदात्तत्वम् । विदथम् । विद ज्ञाने । रुविदिभ्यां किदिक्ष्यथप्रत्ययः [?] ॥
+
+> *he aśvinau vāṃ yuvayoḥ saṃbandhīni pūrvyāṇi pratnānyetānīdānīmayoktāni [?] vīryāṇi vīrakarmāṇyāyavo manuṣyā madīyāḥ pitrādayaḥ prāvocan | uktavantaḥ | vayaṃ ca he vṛṣaṇā kāmānāmabhivarṣakāvaśvinau yuvābhyāṃ brahma mantrātmakaṃ stotraṃ kṛṇvantaḥ kurvantaḥ suvīrāsaḥ suvīrāḥ śobhanavīryaiḥ putrādibhirupetāḥ santo vidathaṃ yajñamāvadema | abhimukhyena stutīruccārayāmaḥ | yadvā | vidathaṃ vedayantamatithiṃ tadevekṣitapradānenā [?] vadema | abhimukhyena priyapūrvikāṃ vācamuccārayāmaḥ ‖ kṛṇvantaḥ | kṛvi hiṃsākaraṇayośca | idittvānnum | laṭaḥ śatṛ | dhinvikṛṇvyora ca (pā. 3-1-80 [as read]) ityupratyayaḥ | akārāntādeśaśca | ato lope sati sthānivadbhāvāllaghūpadhaguṇābhāvaḥ | suvīrāsaḥ | śobhanā vīrā yeṣāṃ te tathoktāḥ | ājjaserasuk | vīravīrye cetyādinā [?] ktapadādyudāttatvam | vidatham | vida jñāne | ruvidibhyāṃ kidikṣyathapratyayaḥ [?] ‖*
+
+*Sense (mine):* "O Aśvins, these (*etāni*) — your ancient (*pūrvyāṇi*) heroic deeds (*vīryāṇi*), just now told, the men (*āyavaḥ*) — my fathers and others — recounted (*pra avocan*). And we too, O showerers (*vṛṣaṇā*) of desires, Aśvins, composing for you a hymn in the form of mantra (*brahma*), being possessed of good heroes (*suvīrāsaḥ*) — sons and others of fine valour — would speak (*ā vadema*) at the sacrifice (*vidatham*): we utter praises face to face. Or: to the guest who makes known the sacrifice (?) [as read [?]]: we utter words preceded by what is dear, face to face." Grammar: *kṛṇvantaḥ* (root *kṛvi hiṃsākaraṇayoś ca*; since it is *it*, *num*; *laṭ*, *śatṛ*; *dhinvikṛṇvyor a ca*, suffix *u*, and *a* substituted for the final) …; *suvīrāsaḥ* (*śobhanā vīrā yeṣāṃ te tathoktāḥ*; *āj jaser asuk*) …; *vidatham* (*vida jñāne*; suffix [*athan*?] [?]) — characterized, not transcribed.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.25)** (Kannada, rendered)
+
+*He aśvinā* — O Aśvins; *vām* — of you two; *pūrvyāṇi* — ancient; *etāni* — these (told by me); *vīryāṇi* — heroic deeds; *āyavaḥ* — (our fathers and others) men; *pra avocan* — have described; *(vayaṃ ca)* — we too; *he vṛṣaṇā* — O Aśvins, rainers of desired things; *yuvabhyām* [as printed] — for you two; *brahma* — a hymn in the form of mantra; *kṛṇvantaḥ* — making; *suvīrāsaḥ* — accompanied by sons and the like, [who are] heroes; *vidatham* — the sacrifice (in the sacrifice, the guest who is learned); *ā vadema* — addressing, let us utter (praise-words) (honouring [him], let us speak dear words).
+
+---
+
+### Printed p. 413  (PDF 433; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.25)** (Kannada, rendered)
+
+"O Aśvins! These adventurous deeds of yours (told above) have been described by our ancestors; and we too, O Nāsatyas, bestowers of desired things, composing a hymn in the form of mantra, with excellent sons, let us utter these praise-words in the sacrifices (honouring the guests who are learned and speaking dear words)."
+
+**English Translation (as printed)**
+
+"These, your ancient exploits, Aswins, our forefathers have celebrated, and we offer adoration to you, showerers (of benefits), repeating your praises, accompanied by our dependants."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 25)**
+
+*Pūrvyāṇi* — *pratnāni*: "The word *pūrvya* is stated among the six names of 'ancient' (Ni. 3-20 [as in the earlier occurrence]). The meaning is: that which happened a long, long time ago. The deeds that the Aśvins have performed from very ancient times are many; our forefathers have praised them a great deal. They are also fit for us to praise, so it is said here. The Aśvins fulfil the desires of those who praise them. Therefore we, offering mantras in the form of praise to them, with excellent sons and grandsons and so on, uttering exceeding praise for the sake of the Aśvins, pray that we may obtain their favour."
+
+> अथवा विदथं वेदयन्तमतिथिं तदेवेक्षितप्रदानेना [?] वदेम अभिमुख्येन प्रियपूर्विकां वाचमुच्चारयामः ।
+
+> *athavā vidathaṃ vedayantamatithiṃ tadevekṣitapradānenā [?] vadema abhimukhyena priyapūrvikāṃ vācamuccārayāmaḥ |*
+
+"To a guest who knows the greatness of the Aśvins, by giving him whatever is desired, or by fulfilling his wishes, we shall ever speak to him words that bring welfare — thus the favour of the Aśvins is wished for here" — so it is described.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 25; grammar page, noted briefly; sūtra numbers as read)**
+
+*Āvocan* [read *avocan*] — root *vaca paribhāṣaṇe*; *luṅ*, third person plural, the suffix *jhi*; *jhoʼntaḥ* [as printed *jhonta*; Pā. 7-1-3 as read], *ant* substituted; *iteś ca*, elision of the *ī*; *asyatiivakti-khyātibhyo 'ṅ* (Pā. 3-1-52 as read), *aṅ* substituted for *cli*; *vaca um* (Pā. 7-4-20 as read), the augment *um* for the root; the augment *aṭ*; *tiṅanta nighāta* accent.
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–24 complete; Ṛk 25 through printed p. 413 (PDF 433): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar begun (continues p. 414). Next: printed p. 414 (PDF 434): end of Ṛk 25 grammar; then the colophon of Sūkta 117 (check) and Sūkta 118. Numerals as read (list stops at printed p. 380): Ni. 3-20, Pā. 3-1-80, 7-1-3, 3-1-52, 7-4-20 `[as read]`.
