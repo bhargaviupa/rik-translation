@@ -13118,4 +13118,96 @@ Skandasvāmin: "*vrāṃ varaṇīyāṃ menāṃ striyaṃ bhāryām aśvasya v
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–3 complete; Ṛk 4 through printed p. 553 (PDF 573): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 554). From here grammar pages are noted very briefly (word list, key sūtras) to finish the volume. Next: printed p. 554 (PDF 574). Numerals as read: Ṛ. 1-31-10, Ni. numbers `[as read]`; sūtra numbers `[as read]`.
+### Printed p. 554  (PDF 574; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 4)**
+
+*Ṛtāya* — *yajñārtham*: "The word *ṛta* is stated among the names of water (Ni. 1-12 [as read]) and among the names of sacrifice (Ni. 3-17 [as read]):
+
+> स सर्धदर्थो विषुणस्य जन्तोर्नृणां शिश्नं देवा अपि गुर्वृतं नः ।
+> (ऋ. सं. ४-३१-? [as read; doubtful [?]])
+
+> *sa sardhadartho viṣuṇasya jantornṛṇāṃ śiśnaṃ devā api gurvṛtaṃ naḥ |*
+> *(ṛ. saṃ. 4-31-? [as read; doubtful [?]])*
+
+Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *ṛta* here means 'sacrifice'."
+
+*Usriyāṇām* — *gavām*: "The word *usriyā* is read among the nine names of cows (Ni. 2-?? [as read]):
+
+> उत वां विक्षु मद्यास्वन्धो गावा आपश्च पीपयन्त देवीः ।
+> उतो नो अस्य पूर्व्यः पतिर्दन्वीतं पातं पयसा उस्रियायाः ॥
+> (ऋ. सं. १-१५३-४ [as read])
+
+> *uta vāṃ vikṣu madyāsvandho gāvā āpaśca pīpayanta devīḥ |*
+> *uto no asya pūrvyaḥ patirdanvītaṃ pātaṃ payasā usriyāyāḥ ‖*
+> *(ṛ. saṃ. 1-153-4 [as read])*
+
+*usriyeti gonāma, usraviṇo 'syāṃ bhogāḥ, usreti ca* (Ni. 4-?? [as read]) — in this way the word *usriyā* is explained as 'a word for the cow'."
+
+*Trikakup* — *triṣu lokeṣu ucchritaḥ*: "'exalted in the three worlds' — Sāyaṇa's exposition; Skandasvāmin explains that Indra is 'foremost' (*śreṣṭha*) because he has prowess in a family (*kula*) that is of high birth, and is renowned."
+
+*Druhaḥ mānuṣasya duraḥ apa vaḥ* — "Sāyaṇa and Skandasvāmin explain this sentence differently. Sāyaṇa: the asura Paṇi, who injures men, hid the cows in places where others could not find them; Indra found out those places, rescued the cows, and gave them to the Aṅgirases. Skandasvāmin:
+
+> द्रुहः द्रोग्धुर्मेघस्य मनुष्यजातस्य सर्वस्य । मेघो ह्युदकं निरुध्य सर्वं मनुष्यजातं द्रोग्धि । तस्य दुरः द्वाराणि उदकनिर्गमनद्वाराणि अपावृणोति ॥
+
+> *druhaḥ drogdhurmeghasya manuṣyajātasya sarvasya | megho hyudakaṃ nirudhya sarvaṃ manuṣyajātaṃ drogdhi | tasya duraḥ dvārāṇi udakanirgamanadvārāṇi apāvṛṇoti ‖*
+
+— 'the cloud, [being] the injurer of all mankind, shuts up the water and so injures all men; Indra opens its *duraḥ* — the doors, the openings by which the water comes out'. That is: the cloud, with the intention of harming all men, held back the water and withheld the rain; Indra, destroying the injuring intent of those clouds, opens the water's doors — so that the waters may come from the clouds, in order that rain may fall — so it is described. Sāyaṇa explains the latter half of the Ṛk as in the third person (*parokṣakṛta*); he explains the word *prasarga* as 'time of battle'. Skandasvāmin:
+
+---
+
+### Printed p. 555  (PDF 575; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(continuing)* "*prasarge* — *prasṛjyate yasmin sa prasargo dānakālaḥ* — 'the time of giving, a time of exceeding bounty': 'at the time when the giver of the offering is ready for giving, Indra comes face to face with the giver'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly)**
+
+*Made* (*mada tṛptiyoge*; *mado 'nupasarge*, Pā. 3-3-67 as read, suffix *ap*; locative) · *svaryam* (*svara* + *ṇyat*; *ṛhaloṇyat*, Pā. 3-1-124; *tit svaritam*, Pā. 6-1-185) · *dāḥ* (*dudāñ dāne*, *luṅ*, *sip*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. 2-4-77, *luk*; no augment, Pā. 6-4-75) · *apīvṛtam* (*api* + *vṛñ varaṇe*; *kta*; *nipātasya ca*, Pā. 6-3-136, lengthening of *api*) · *prasarge* (*pra* + *sṛja visarge*; *ghañ* in the locative sense; *ñnityādir nityam*, Pā. 6-1-197) · *nivartat* (*vṛtu vartane*; *leṭ*, *tip*; *parasmaipada* by *vyatyaya*) · *vaḥ* (*vṛñ varaṇe*; *luṅ* … *mantre ghasahvara…*, Pā. 2-4-80, *luk* for *cli*; *guṇa*; *halṅyābbhyaḥ*; *visarga*) — sūtra numbers as read. ‖ 4 ‖
+
+### Printed p. 556  (PDF 576; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(The rest of the grammar of *nivartat* and *vaḥ* — *leṭ*, the augment *aṭ*, *guṇa*, *luk* of *cli*, *nighāta* — is completed on this page; no further word is treated.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.5)**
+
+> तुभ्यं पयो यत्पितरावनीतां राधः सुरेतस्तुरणे भुरण्यू ।
+> शुचि यत्ते रेक्ण आयजन्त सबर्दुघायाः पय उस्रियायाः ॥ ५ ॥
+
+> *tubhyaṃ payo yatpitarāvanītāṃ rādhaḥ suretasturaṇe bhuraṇyū |*
+> *śuci yatte rekṇa āyajanta sabardughāyāḥ paya usriyāyāḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.5)**
+
+> तुभ्यम् । पयः । यत् । पितरा । अनीताम् । राधः । सुऽरेतः । तुरणे ।
+> भुरण्यू इति ।
+> शुचि । यत् । ते । रेक्णः । आ । अयजन्त । सबःऽदुघायाः ।
+> पयः । उस्रियायाः ॥ ५ ॥
+
+> *tubhyam | payaḥ | yat | pitarā | anītām | rādhaḥ | su 'retaḥ | turaṇe |*
+> *bhuraṇyū iti |*
+> *śuci | yat | te | rekṇaḥ | ā | ayajanta | sabaḥ 'dughāyāḥ |*
+> *payaḥ | usriyāyāḥ ‖ 5 ‖*
+
+---
+
+### Printed p. 557  (PDF 577; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.5)** *(small type; read with some doubts)*
+
+> हे इन्द्र तुरणे क्षिप्रकारिणे तुभ्यं भुरण्यू कृत्स्नं जगत्पोषयन्त्यौ पितरावुत्पादयन्त्यौ द्यावापृथिव्यौ यदा पयः सान्नाय्यलक्षणं हविरनीतां गोष्ठ्रं [?] नयतां … कीदृशं पयः । राधो राधकं समृद्धिकरं सुरेतः शोभनरेतस्कं कृत्स्नजगदुत्पादनसमर्थमित्यर्थः । हविषः सकाशाद्धि जगदुत्पद्यते । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः । (मनु. ३-७६ [as read]) इति । यद्वा यदा च द्यावापृथिवीभ्यां गोष्ठ्रानीतं शुचि शुद्धं सबर्दुघायाः क्षीरस्य दोग्ध्र्याः उस्रियाया गोः पयो रेक्णः धननामैतत् । धनवदतिप्रियं । यद्वा । आतिरिक्तं प्रवृद्धं । एवंविधं हविस्तुभ्यमायजन्त । अभिमुख्येन यजमानाः प्रायच्छन् । तदानीं द्रुहो मानुषस्य द्वाराण्यपवृणोतीति पूर्वत्रा सम्बन्धः । आनीताम् । णीञ् प्राप्तणे । लङ् । बहुलं छन्दसीति शपो लुक् । सुरेतः । सोमनस्से ... तुरणे । तुरण त्वरायाम् । कण्ड्वादिः । क्विप्चेति क्विप् । आतोलोपयलोपौ । भुरण्या । भुरण धारणपोषणयोः । अयमपि कण्ड्वादिः । औणादिक उप्रत्ययः ॥ [as read]
+
+> *he indra turaṇe kṣiprakāriṇe tubhyaṃ bhuraṇyū kṛtsnaṃ jagatpoṣayantyau pitarāvutpādayantyau dyāvāpṛthivyau yadā payaḥ sānnāyyalakṣaṇaṃ haviranītāṃ goṣṭhraṃ [?] nayatāṃ … kīdṛśaṃ payaḥ | rādho rādhakaṃ samṛddhikaraṃ suretaḥ śobhanaretaskaṃ kṛtsnajagadutpādanasamarthamityarthaḥ | haviṣaḥ sakāśāddhi jagadutpadyate | agnau prāstāhutiḥ samyagādityamupatiṣṭhate | ādityājjāyate vṛṣṭirvṛṣṭerannaṃ tataḥ prajāḥ | (manu. 3-76 [as read]) iti | yadvā yadā ca dyāvāpṛthivībhyāṃ goṣṭhrānītaṃ śuci śuddhaṃ sabardughāyāḥ kṣīrasya dogdhryāḥ usriyāyā goḥ payo rekṇaḥ dhananāmaitat | dhanavadatipriyaṃ | yadvā | ātiriktaṃ pravṛddhaṃ | evaṃvidhaṃ havistubhyamāyajanta | abhimukhyena yajamānāḥ prāyacchan | tadānīṃ druho mānuṣasya dvārāṇyapavṛṇotīti pūrvatrā sambandhaḥ | ānītām | ṇīñ prāptaṇe | laṅ | bahulaṃ chandasīti śapo luk | suretaḥ | somanasse ... turaṇe | turaṇa tvarāyām | kaṇḍvādiḥ | kvipceti kvip | ātolopayalopau | bhuraṇyā | bhuraṇa dhāraṇapoṣaṇayoḥ | ayamapi kaṇḍvādiḥ | auṇādika upratyayaḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "O Indra — *turaṇe* — swift in action — when for you the two *bhuraṇyū* — heaven and earth, the two parents, nourishing the whole world, begetting it — brought *payas* — the *sāṃnāyya* oblation of milk — [that is] *rādhaḥ* — fulfilling, causing prosperity — *suretaḥ* — of fine seed, able to beget the whole world (for from the oblation the world arises: 'the offering cast into the fire reaches the Sun; from the Sun comes rain, from rain food, from food creatures' — Manu 3-76 as read); or when, brought by heaven and earth, [or by the sacrificers,] *śuci* — pure — *rekṇaḥ* — [the word *rekṇas* is a name for wealth: wealth-like, very dear]; the milk of the cow *usriyā*, *sabardughā*, the yielding of the milk: this oblation (*ayajanta*) the sacrificers offered to you face to face — then you open the doors of the injurer."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.5)** (Kannada, rendered)
+
+*(He) indra* — O Indra; *turaṇe* — swift in action; *tubhyam* — to you; *bhuraṇyū* — [the two parents] nourishing the world (heaven and earth); *yat* — when; *rādhaḥ* — prosperity-giving; *suretaḥ* — [the oblation] having the seed that produces the world; *payaḥ* — the *sāṃnāyya* oblation; *anītām* — brought; *yat* — when; *sabardughāyāḥ* — of the milk-yielding; *usriyāyāḥ* — cow; *śuci* — pure (placed in the cows by heaven and earth); *rekṇaḥ* — [like wealth] very dear, abundant; *payaḥ* — [the oblation] in the form of milk; *te* — to you; *ā ayajanta* — [the sacrificers] offered and worshipped; *(tadā)* — then you break the doors that bar the cows.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.5)** (Kannada, rendered)
+
+"O Indra, swift in action! When heaven and earth, the nourishing parents of the world, brought you the prosperity-giving oblation of the seed that produces the world (the *sāṃnāyya* oblation), and when the sacrificers, [the doers of rites], offered you the pure milk of the milk-yielding cow, in abundance, [then] you broke open the doors, [made] to bar the cows, of the asura called Paṇi."
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–4 complete; Ṛk 5 through printed p. 557 (PDF 577): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English, Special Topics and grammar follow (p. 558). Next: printed p. 558 (PDF 578). Numerals as read: Ṛ. 4-31-?, 1-153-4, Manu 3-76 `[as read]`.
