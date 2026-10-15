@@ -9487,4 +9487,60 @@ in which, as the Nirukta author has quoted it, *śacībhiḥ* is explained as *k
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–20 complete; Ṛk 21 Saṃhitā written (printed p. 395, PDF 415). Next: printed p. 396 (PDF 416): Ṛk 21 Pada onward. Numerals as read (list stops at printed p. 380): Ṛ. 1-116-1, 1-164-44; Ni. numbers and Uṇ./Pā. numbers on pp. 394–395 `[as read]`.
+### Printed p. 396  (PDF 416; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.21)**
+
+> युवम् । वृकेण । अश्विना । वपन्ता । इषम् । दुहन्ता । मनुषाय ।
+> दस्रा ।
+> अभि । दस्युम् । बकुरेण । धमन्ता । उरु । ज्योतिः । चक्रथुः ।
+> आर्याय ॥ २१ ॥
+
+> *yuvam | vṛkeṇa | aśvinā | vapantā | iṣam | duhantā | manuṣāya |*
+> *dasrā |*
+> *abhi | dasyum | bakureṇa | dhamantā | uru | jyotiḥ | cakrathuḥ |*
+> *āryāya ‖ 21 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.21)** *(small type; read with several doubts)*
+
+> आर्याय विदुषे । मनुषशब्दो मनुशब्दपर्यायः । मनुषाय मनवे मनोरर्थं हे दस्रा दर्शनीयावश्विनौ वृकेण लाङ्गलेन कर्षकैः कृष्टदेशे यवं यवाद्युपलक्षितं सर्वं धान्यजातं वपन्ता वापयन्तौ तथेषं अन्ननामैतत् तत्कारणभूतं वृष्ट्युदकं च दुहन्ता मेघात्क्षारयन्तौ तथा दस्युं उपक्षयकारिणमसुरपिशाचादिकं बकुरेण । बकुरो भासमानो वज्रः तेनाभि धमन्ता धमतिर्वधकर्मा अभिघ्नन्तौ एवं त्रिविधं कर्म कुर्वन्तौ युवामुरु विस्तीर्णं ज्योतिः स्वकीयं तेजो माहात्म्यं चक्रथुः । कृतवन्तौ दर्शितवन्तावित्यर्थः । यद्वा । त्रिविधकर्माचरणेनार्याय विदुषे मनवे विस्तीर्णं सूर्याख्यं ज्योतिश्चक्रथुः । कृतवन्तौ । जीवन् हि सूर्यं पश्यति । तदेतद्भूतानि त्रीणि कर्माणि युवाभ्यां कृतानीति भावः । अत्र निरुक्तं बकुरो भास्करो भयंकरो भासमानो द्रवतीति वा [?] । यवमिव वृकेणाश्विना वपन्ता वृको लाङ्गलं भवति विकर्तनात् इति । मनुषाय । मनेरौणादिक उषन्प्रत्ययः । (नि. ६-२६ [as read; compare p. 397]) ॥ [the grammar tail is characterized, not transcribed]
+
+> *āryāya viduṣe | manuṣaśabdo manuśabdaparyāyaḥ | manuṣāya manave manorarthaṃ he dasrā darśanīyāvaśvinau vṛkeṇa lāṅgalena karṣakaiḥ kṛṣṭadeśe yavaṃ yavādyupalakṣitaṃ sarvaṃ dhānyajātaṃ vapantā vāpayantau tatheṣaṃ annanāmaitat tatkāraṇabhūtaṃ vṛṣṭyudakaṃ ca duhantā meghātkṣārayantau tathā dasyuṃ upakṣayakāriṇamasurapiśācādikaṃ bakureṇa | bakuro bhāsamāno vajraḥ tenābhi dhamantā dhamatirvadhakarmā abhighnantau evaṃ trividhaṃ karma kurvantau yuvāmuru vistīrṇaṃ jyotiḥ svakīyaṃ tejo māhātmyaṃ cakrathuḥ | kṛtavantau darśitavantāvityarthaḥ | yadvā | trividhakarmācaraṇenāryāya viduṣe manave vistīrṇaṃ sūryākhyaṃ jyotiścakrathuḥ | kṛtavantau | jīvan hi sūryaṃ paśyati | tadetadbhūtāni trīṇi karmāṇi yuvābhyāṃ kṛtānīti bhāvaḥ | atra niruktaṃ bakuro bhāskaro bhayaṃkaro bhāsamāno dravatīti vā [?] | yavamiva vṛkeṇāśvinā vapantā vṛko lāṅgalaṃ bhavati vikartanāt iti | manuṣāya | manerauṇādika uṣanpratyayaḥ | (ni. 6-26 [as read; compare p. 397]) ‖ [the grammar tail is characterized, not transcribed]*
+
+*Sense (mine and tentative):* "*Āryāya* — for the learned one. The word *manuṣa* is a synonym of the word *manu*: *manuṣāya* — for Manu, for the sake of Manu. O *dasrā*, Aśvins worth seeing, *vṛkeṇa* — with the plough (*lāṅgala*), in the ground ploughed by cultivators, sowing (*vapantā*) barley and all the kinds of grain indicated by barley; and *iṣam* (a name for food) — milking (*duhantā*) from the cloud the rain-water that is its cause; and *dasyum* — the destroyer, the asuras, piśācas and the like, *bakureṇa* — with the shining thunderbolt (*bakura* is the shining *vajra*), *abhi dhamantā* (*dhamati* has the sense of killing) — striking at them. Thus performing a threefold act, you *cakrathuḥ* made wide light — your own splendour, your greatness — showed it. Or: by the performance of the threefold act you made for the learned Manu the wide light called the Sun; for a living man sees the sun; these three acts have been done by you." On this the Nirukta [says]: "*bakuro bhāskaro bhayaṅkaro bhāsamāno dravatīti vā*; *yavam iva vṛkeṇāśvinā vapantā*; *vṛko lāṅgalaṃ bhavati vikartanāt*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.21)** (Kannada, rendered)
+
+*Dasrā aśvinā* — O Aśvins, worth seeing; *āryāya* — for the knowing; *manuṣāya* — for Manu (for the man); *vṛkeṇa* — by the plough (in the ploughed earth); *yavam* — barley and the like grains; *vapantā* — having sown; *iṣam* — for [the sake of] food (the cause, the rain); *duhantā* — milking (from the clouds); *dasyum* — the cruel one (dasyu, piśāca and the like); *bakureṇa* — with the shining thunderbolt; *abhi dhamantā* — killing; *uru* — wide; *jyotiḥ* — (your) fame (the glory); *cakrathuḥ* — you made (you showed).
+
+---
+
+### Printed p. 397  (PDF 417; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Pratipadārtha concluded)* "… *abhi dhamantā* — killing; *uru* — wide; *jyotiḥ* — (your) fame, glory; *cakrathuḥ* — you made. [Or: the three kinds of action — sowing, milking, and killing the dasyus — as stated above; *uru* — wide; *jyotiḥ* — sunlight; *manuṣe* — for Manu (for the human being); *cakrathuḥ* — you provided.]"
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.21)** (Kannada, rendered)
+
+"O Aśvins, worth seeing! For the sake of knowing Manu, you sowed barley and other grains in the earth ploughed with the plough (the owner's land), made the rain, the cause of food, fall, and killed their destroyers; thereby you obtained wide fame (made food and killed the dasyus); you provided wide sunlight for the sake of man."
+
+**English Translation (as printed)**
+
+"Aswins, causing the barley to be sown (in the fields that had been prepared) by the plough; milking (the clouds) for the sake of Manu; destroying the Dasyu with the thunderbolt; you have bestowed brilliant light upon the Arya."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 21)**
+
+*Manuṣāya* — *manuṣaśabdo manuśabdaparyāyaḥ | manave manor artham*: "The word *manuṣa* conveys the same meaning as the word *manu*; hence it is a synonym of the word *manu*. In the Nirukta: *manur mananāt* (Ni. 3-48 as read [?]) — one who thinks, 'man'; so it means 'for man'."
+
+*Bakureṇa abhi dhamantā* — *bakuro bhāsamāno vajraḥ*: "Here the Nirukta [says]:
+
+> बकुरो भास्करो भयङ्करो भासमानो द्रवतीति वा । (नि. ६-३७, ३८ [as read [?]])
+> यवमिव वृकेणाश्विना वपन्ता वृको लाङ्गलं भवति विकर्तनात् ।
+
+> *bakuro bhāskaro bhayaṅkaro bhāsamāno dravatīti vā | (ni. 6-37, 38 [as read [?]])*
+> *yavamiva vṛkeṇāśvinā vapantā vṛko lāṅgalaṃ bhavati vikartanāt |*
+
+In the Nirukta the word *bakura* is explained with the meanings *bhāskara* — the sun — [and] *bhayaṅkara* — the fear-producer; *prakāśa*, shining; therefore, here Sāyaṇa explains it as 'a shining thunderbolt'. *Vikartanāt* — the word *vṛka* means 'the plough', because it tears the earth, or cuts it. The Aśvins did farming in the ground; and with its increase …" *(the paragraph continues on p. 398)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–20 complete; Ṛk 21 through printed p. 397 (PDF 417): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 398). Next: printed p. 398 (PDF 418). Numerals as read (list stops at printed p. 380): Ni. 6-26, 6-37/38, 3-48 `[?]`.
