@@ -5962,4 +5962,68 @@ and others. There is a sūkta in the tenth maṇḍala of the Ṛgveda (Ṛ. Sa�
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–11 complete; Ṛk 12 through printed p. 249 (PDF 269): Special Topics concluded (Wilson's English note reproduced), grammar page begun (continues p. 250). Next: printed p. 250 (PDF 270), then Ṛk 13. Open: reference numerals on p. 247 unreadable cluster `[?]`; the Western scholar's name printed "Welson" [sic]; numerals as read.
+### Printed p. 250  (PDF 270; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page of Ṛk 12, concluded (noted briefly):* *ātharvaṇaḥ* (*atharvaṇaḥ apatyaṃ pumān* — *atharvan* + *aṇ* by *tasyāpatyam*, Pā. 4-1-92 as read [?]; *taddhiteṣv acām ādeḥ*, Pā. 7-2-117 as read [?], *vṛddhi* of the initial vowel; though *ṭi*-elision is obtained by the *ṭer lopaḥ* of the Uṇādi-sūtra [*nas taddhite*, Pā. 6-4-144 as read [?]], *an* retains its natural form by *an*, Pā. 6-4-167 as read [?] (*prakṛtibhāva*); final accent from the suffix); *śīrṣṇā* (*śīrṣaṃś chandasi*, Pā. 6-1-60 as read [?], *śīrṣan* as a synonym of *śiras*, an irregular word with final *udātta*; since the instrumental singular follows, it has *bha*-designation; *ālloponaḥ*, Pā. 6-4-134 as read [?], elision of the *a* of *an*; since the *udātta a* … is elided, by *anudāttasya ca yatrodāttalopaḥ*, Pā. 6-1-?? as read [?], the ending takes *udātta*); *uvāca* (*brūñ* "to speak", *vāci* "to speak"; in the *liṭ*, *brūvo vaciḥ*, Pā. 2-4-53 as read [?]; *vaci* substituted; doubling by *liṭi dhātor anabhyāsasya*, Pā. 6-1-8 as read [?]; *liṭyabhyāsasyobhayeṣām*, Pā. 6-1-17 as read [?], *saṃprasāraṇa* of the reduplication; *ata upadhāyāḥ*, Pā. 7-2-116 as read [?], *vṛddhi* of the penultimate; since *yat* precedes no nighāta; as the suffix is *ṇit*, *liti*, Pā. 6-1-193 as read [?], the accent falls on the syllable before the suffix). ‖ 12 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 13
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.13)**
+
+> आजोहवीन्नासत्या करा वां महे यामन्पुरुभुजा पुरंधिः ।
+> श्रुतं तच्छासुरिव वध्रिमत्या हिरण्यहस्तमश्विनावदत्तम् ॥ १३ ॥
+
+> *ājohavīnnāsatyā karā vāṃ mahe yāmanpurubhujā puraṃdhiḥ |*
+> *śrutaṃ tacchāsuriva vadhrimatyā hiraṇyahastamaśvināvadattam ‖ 13 ‖*
+
+### Printed p. 251  (PDF 271; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.13)**
+
+> आजोहवीत् । नासत्या । करा । वाम् । महे । यामन् ।
+> पुरुऽभुजा । पुरंऽधिः ।
+> श्रुतम् । तत् । शासुःऽइव । वध्रिऽमत्याः । हिरण्यऽहस्तम् ।
+> अश्विनौ । अदत्तम् ॥ १३ ॥
+
+> *ājohavīt | nāsatyā | karā | vām | mahe | yāman |*
+> *puru 'bhujā | puraṃ 'dhiḥ |*
+> *śrutam | tat | śāsuḥ 'iva | vadhri 'matyāḥ | hiraṇya 'hastam |*
+> *aśvinau | adattam ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.13)**
+
+> वध्रिमती नाम कस्यचिद्राजर्षेः पुत्री नपुंसकभर्तृका । सा पुत्रलाभार्थमश्विनावाजुहाव । तदाह्वानं श्रुत्वाश्विनावागत्य तस्यै हिरण्यहस्ताख्यं पुत्रं ददतुः । तदेतदाह । पुरुभुजा बहूनां पालकौ प्रभूतहस्तौ वा हे नासत्यावश्विनौ महे महनीये पूजनीये यामन् यामनि याति गच्छतीति यामः स्तोत्रम् । तस्मिन्नति कराभिमतफलस्य कर्तारौ वां युवां पुरंधिर्बहुधीर्वध्रिमती । वध्रिः पुत्रोत्पादनासक्तः षण्डकः । तद्वती एतत्संज्ञा राजपुत्र्याजोहवीत् । पुनः पुनः स्तुत्या पुत्रलाभार्थमाहूतवती । युवां च वध्रिमत्या आह्वानं श्रुतं । अश्रृणुतम् । तत्र दृष्टान्तः । शासुरिव । यथा शासुराचार्यस्य वचनं शिष्योऽवहितः सन् श्रृणोति तद्वत् । श्रुत्वा च हे अश्विनौ तस्यै हिरण्यहस्तं सुवर्णमयोपाणिं हितरमणीयपाणिं वा । एतत्संज्ञं पुत्रमदत्तं । प्रायच्छतम् ॥ आजोहवीत् । हूयतेर्यङ्लुगन्ताल्लङ् । यजो वा इति तिप ईडागमः । करा । करोतेः पचाद्यच् । सुपां सुलुगिति विभक्तेराकारः । यामन् । आतो मनिन्क्वनिब्वनिपश्चेति मनिन् । सुपां सुलुगिति सप्तम्या लुक् । श्रुतम् । लङि बहुलं छन्दसीति विकरणस्य लुक् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । शासुः । शासुः शासु अनुशिष्टौ । शंसिशसिशासीत्यादिना उ. ३-४४ । संज्ञायां त्रन् । इडभावः । छान्दसस्तलोपः ॥ [small type; read letter by letter]
+
+> *vadhrimatī nāma kasyacidrājarṣeḥ putrī napuṃsakabhartṛkā | sā putralābhārthamaśvināvājuhāva | tadāhvānaṃ śrutvāśvināvāgatya tasyai hiraṇyahastākhyaṃ putraṃ dadatuḥ | tadetadāha | purubhujā bahūnāṃ pālakau prabhūtahastau vā he nāsatyāvaśvinau mahe mahanīye pūjanīye yāman yāmani yāti gacchatīti yāmaḥ stotram | tasminnati karābhimataphalasya kartārau vāṃ yuvāṃ puraṃdhirbahudhīrvadhrimatī | vadhriḥ putrotpādanāsaktaḥ ṣaṇḍakaḥ | tadvatī etatsaṃjñā rājaputryājohavīt | punaḥ punaḥ stutyā putralābhārthamāhūtavatī | yuvāṃ ca vadhrimatyā āhvānaṃ śrutaṃ | aśrṛṇutam | tatra dṛṣṭāntaḥ | śāsuriva | yathā śāsurācāryasya vacanaṃ śiṣyo 'vahitaḥ san śrṛṇoti tadvat | śrutvā ca he aśvinau tasyai hiraṇyahastaṃ suvarṇamayopāṇiṃ hitaramaṇīyapāṇiṃ vā | etatsaṃjñaṃ putramadattaṃ | prāyacchatam ‖ ājohavīt | hūyateryaṅlugantāllaṅ | yajo vā iti tipa īḍāgamaḥ | karā | karoteḥ pacādyac | supāṃ sulugiti vibhakterākāraḥ | yāman | āto maninkvanibvanipaśceti manin | supāṃ sulugiti saptamyā luk | śrutam | laṅi bahulaṃ chandasīti vikaraṇasya luk | bahulaṃ chandasyamāṅyoge 'pītyaḍabhāvaḥ | śāsuḥ | śāsuḥ śāsu anuśiṣṭau | śaṃsiśasiśāsītyādinā u. 3-44 | saṃjñāyāṃ tran | iḍabhāvaḥ | chāndasastalopaḥ ‖ [small type; read letter by letter]*
+
+*Sense (mine):* "*Vadhrimatī* was the daughter of a certain royal sage, whose husband was impotent. She called on the Aśvins for the sake of obtaining a son. Hearing her call, the Aśvins came and gave her a son called Hiraṇyahasta. This is what is said: O Nāsatyas, Aśvins, *purubhujā*, protectors of many, or having abundant hands, in *mahe yāman*, the great, worshipful *yāman* — *yāma* is a hymn ('that which goes') — in that [hymn], who grant the desired fruit: *purandhiḥ* — the much-minded, *vadhrimatī* — *vadhri* is an eunuch incapable of begetting a son; the king's daughter of that name who has such [a husband] — *ājohavīt*, called, again and again with praise, for obtaining a son. And you heard the call of Vadhrimatī. Illustration: *śāsur iva* — as a pupil listens attentively to the words of his teacher, so you. And having heard, O Aśvins, you gave her a son named Hiraṇyahasta, 'golden-handed', or having a beautiful hand."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*purubhujā* — protectors of many people, or those of great hands; *nāsatyā* — O Aśvin deities; *mahe* — worshipful; *yāman* — hymns (made [by one]); *karā* — who grant the desired fruit; *vām* — you two; *purandhiḥ* — the wise (the princess named Vadhrimatī); *ājohavīt* —
+
+### Printed p. 252  (PDF 272; header "Maṃ. 1 A. 17 Sū. 116")
+
+— called again and again (in praise); *vadhrimatyāḥ* — of Vadhrimatī, who had an impotent man as husband; *āhvānam* — the call; *śāsuḥ iva* — like a pupil who listens attentively to the words of his teacher; *śrutam* — you heard; *anantaram* — afterwards; *aśvinau* — O Aśvin deities; *hiraṇyahastam* — a son named Hiraṇyahasta; *adattam* — you gave."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, protectors of many people, to Vadhrimatī, a wise woman, who had an impotent husband and who again and again called on you, eager to please you with praise in the proper manner, you listened as a pupil listens attentively to his teacher's words, and gave (favoured her with) a son named Hiraṇyahasta."
+
+**English Translation (as printed)**
+
+> The intelligent (Vadhrimati) idvoked [sic] you NASATYAS, who are the accomplishers (of desires) and the protectors of many, with a sacred hymn ; herr [sic] prayer was heard, like (the instruction of) a teacher, and you, Aswins, gave to the wife of an impotent husband, Hiranyahasta, her son,
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**पुरुभुजा** — *Purubhujā* — "*bahūnāṃ pālakau prabhūtahastau vā*": "protectors of many people; or, doing extraordinary giving, having broad hands (*ati-dānaśīlau hastau*) — so Sāyaṇa says. 'Receivers of many oblations (*bahūnāṃ haviṣām abhyavahartārau*) or protectors of those who are distressed (*ārtānāṃ pālayitārau*)', explains Skandasvāmin: Aśvins who accept many oblations or protect the afflicted."
+
+**यामन्** — *Yāman* — "*yāmani yāti gacchatīti yāmaḥ stotram*": "the hymn recited by those who praise. Because the *stotṛ* and the deity are connected by knowledge, this *stuti* has the name *yāma*. Skandasvāmin: '*yāmann iti yoddhāro yasmin sa yāmaḥ saṅgrāmaḥ ihābhipretaḥ*' — 'in which warriors go: *yāma* means battle; here this is meant'; the arena where heroes who fight are gathered for a fight is called a *saṅgrāma* — so he explains."
+
+**वध्रिमती** — *Vadhrimatī* — "*vadhriḥ putrotpādanāsaktaḥ ṣaṇḍakaḥ | tadvatī rājaputrī*": "*vadhri* is an impotent man, incapable of producing a son; the princess who has such a husband is *vadhrimatī*" — Sāyaṇa so explains the name of one whose husband is such an impotent man.
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–12 complete; Ṛk 13 through printed p. 252 (PDF 272): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English (misprints "idvoked", "herr" [sic]), Special Topics begun (*purubhujā*, *yāman*, *vadhrimatī*; continues p. 253). Next: printed p. 253 (PDF 273). Open: numerals as read `[?]`.
