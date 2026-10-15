@@ -9021,4 +9021,46 @@ The Nirukta author, explaining *pathyā svastiḥ*:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–15 complete; Ṛk 16 Saṃhitā, Pada and the first half of the bhāṣya written through printed p. 375 (PDF 395); bhāṣya continues p. 376. Next: printed p. 376 (PDF 396). Numerals from the list: Ṛ. 1-116-14, 1-116-20; Pā. 7-4-82, 7-3-94, 3-2-107, 7-2-68, 8-3-103, 6-2-139, 6-1-198, 3-3-94, 2-4-52, 6-2-172.
+### Printed p. 376  (PDF 396; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Bhāṣya of Ṛk 16, continued; small type, read with several doubts)*
+
+> … यद्वा । वर्तते प्रतिदिवसमावर्तत इति वर्तिकोषाः [?] । वृकः [?] इति विवृतज्योतिष्कः [?] सूर्य उच्यते । तेन ग्रस्ता सती सा हे अश्विनौ युवामजोहवीत् आह्वयत् । यदा खलु युवां वृकस्य सूर्यस्यास्य आस्यस्थानीयान्मण्डलादमुञ्चतं आमोचयतम् । सूर्येणैकीभूतामुषसं पृथक्कृत्य एकोदयात्पूर्वं रात्रेरपरभागे स्थापितवन्ताविति अर्थः । तथा च यास्कः । आदित्योऽपि वृक उच्यते यदावृङ्क्ते [?] । अश्वयादुषा अश्विनावादित्येनाभिग्रस्ता तामश्विनौ प्रमुमुचतुरित्याख्यानं (नि. ५-२१ [numeral list]) इति । अपि च जयुषा जयशीलेन रथेनाद्रेर्मेघस्य सानु समुच्छ्रितप्रदेशं वृष्टिचिकीर्षया विशेषेण ययथुः । युवां गतवन्तौ । गत्वा च विष्वाचो विविधगतियुक्तस्य मेघस्य संबन्धिना विषेणोदकेन जातमुत्पन्नं सर्वं भूतजातमहतम् । आगमयेतम् [?] । वृष्टिं कृतवन्तावित्यर्थः ॥
+
+> *… yadvā | vartate pratidivasamāvartata iti vartikoṣāḥ [?] | vṛkaḥ [?] iti vivṛtajyotiṣkaḥ [?] sūrya ucyate | tena grastā satī sā he aśvinau yuvāmajohavīt āhvayat | yadā khalu yuvāṃ vṛkasya sūryasyāsya āsyasthānīyānmaṇḍalādamuñcataṃ āmocayatam | sūryeṇaikībhūtāmuṣasaṃ pṛthakkṛtya ekodayātpūrvaṃ rātreraparabhāge sthāpitavantāviti arthaḥ | tathā ca yāskaḥ | ādityo 'pi vṛka ucyate yadāvṛṅkte [?] | aśvayāduṣā aśvināvādityenābhigrastā tāmaśvinau pramumucaturityākhyānaṃ (ni. 5-21 [numeral list]) iti | api ca jayuṣā jayaśīlena rathenādrermeghasya sānu samucchritapradeśaṃ vṛṣṭicikīrṣayā viśeṣeṇa yayathuḥ | yuvāṃ gatavantau | gatvā ca viṣvāco vividhagatiyuktasya meghasya saṃbandhinā viṣeṇodakena jātamutpannaṃ sarvaṃ bhūtajātamahatam | āgamayetam [?] | vṛṣṭiṃ kṛtavantāvityarthaḥ ‖*
+
+*Sense (mine and tentative):* "Or: *vartikā* — [the dawn] that turns about, recurs every day; *vṛka* is used for the Sun, whose light is uncovered [?]. Seized by him, she called you, Aśvins, when you freed her from the Sun's disc, that stands in the place of his mouth (*āsyasthānīya*): having separated the Dawn, who had become one with the Sun, you set her in the latter part of the night, before the rising of the one [sun]. So Yāska [says]: 'the Āditya too is called *vṛka*, as he turns...' [?] — the story: 'Uṣas, desiring a horse [?], was seized by Āditya; the Aśvins freed her' (Ni. 5-21 as the numeral list reads it). And with a victorious chariot you went to the high ground (*sānu*) of the cloud (*adri*), in order to cause rain, going specially; and having gone, you struck [i.e. caused to be struck] all created beings that were born, with the water (*viṣa*) of the cloud (*viṣvāñc*) of varied motion; that is, you made rain." The bhāṣya then gives the grammar of *ajohavīt*, *āsnaḥ*, *jayuṣā*, *viṣvāco*, *ahatam* (*han hiṃsāgatyoḥ*, *laṅ*, *luk* etc.) — characterized, not transcribed.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.16)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *vartikā* — the bird called *vartikā* (seized by a wolf); *vām* — you two; *yat sīm* — when; *ajohavīt* — [she] praised; *(tadā)* — then; *vṛkasya* — of the wolf; *āsnaḥ* — from the mouth; *amuñcatam* — you freed (her); *(api ca)* — and; *jayuṣā* — by the victorious (chariot); *adreḥ* — of the mountain; *sānu* — to the top; *vi yayathuḥ* — you went (with Jāhuṣa); *(tathā)* — likewise; *viṣvācaḥ* — of Viṣvāñca (the asura); *jātam* — the son; *viṣeṇa* — by poison; *ahatam* — you killed. Or: *[aśvinā]* — O Aśvins; *vartikā* — the dawn that returns every day; *vām* — you two; *yat sīm* — when; *ajohavīt* — [she], seized by the Sun, praised; *(tadā)* — then; *vṛkasya* — of the Sun (who covers everything); *āsnaḥ* — from the mouth-like (disc); *amuñcatam* — you freed [her] (having separated her from him, you placed her in the last part of the night); *(api ca)* — and; *jayuṣā* — on the victorious chariot; *adreḥ* — of the cloud; *sānu* — to the top; *vi yayathuḥ* — you set out (in order to rain) and went; *viṣvācaḥ* — of the cloud (of varied motion); *viṣeṇa* — with water; *jātam* — to all created beings; *ahatam* — you gave [rain].
+
+---
+
+### Printed p. 377  (PDF 397; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.16)** (Kannada, rendered)
+
+"O Aśvins! When the bird called *vartikā* praised you, you freed her from the wolf's mouth; on a victorious chariot, with the man called Jāhuṣa, you went to the top of a mountain not reachable by anyone [on foot]; and [thus] you killed with poison the son of the asura named Viṣvāñca. Or: when the Dawn, who had gone along with the Sun, the covering one, praised you, you freed her from the Sun's disc and made her the end of the night; and, seated on a victorious chariot, you went to the top of the clouds in order to rain, and gave the water of the clouds of varied motion to all beings."
+
+**English Translation (as printed)**
+
+"The quail glorified you, Aswins, when you saved her from the mouth of the wolf; you carried off (Jahusha) to the top of the mountain in our [sic] triumphant chariot; and slew the son of Vishwanch with a poisoned (arrow)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 16)**
+
+"In this Ṛk, three wonderful acts of the Aśvins are described: that they released a *gubbacci* (quail), caught and held by a wolf (the forest dog) and gave life to it; that, seeing the king named Jāhuṣa surrounded by enemies, they helped him, seated him on a splendid chariot and took him to the mountain's peak; and that they gave poison to the son of the asura Viṣvāñca, who harmed the world by wicked ways, and killed him."
+
+> आस्नो वृकस्य वर्तिकामभीके युवं नरा नासत्यामुमुक्तम् ।
+> उतो कविं पुरुभुजा युवं ह कृपमाणमकृणुतं विचक्षे ॥
+> (ऋ. सं. १-११६-१४)
+
+> *āsno vṛkasya vartikāmabhīke yuvaṃ narā nāsatyāmumuktam |*
+> *uto kaviṃ purubhujā yuvaṃ ha kṛpamāṇamakṛṇutaṃ vicakṣe ‖*
+> *(ṛ. saṃ. 1-116-14)*
+
+"In the first half of this Ṛk, the matter of the saving of the quail is explained."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–15 complete; Ṛk 16 through printed p. 377 (PDF 397): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 378). Next: printed p. 378 (PDF 398). Numerals: Ni. 5-21 per list; Ṛ. 1-116-14 per image.
