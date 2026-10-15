@@ -12531,4 +12531,46 @@ Skandasvāmin gives a meaning somewhat different from what Sāyaṇa says:
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–8 complete; Ṛk 9 through printed p. 527 (PDF 547): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English written; Special Topics begun (continues p. 528). Next: printed p. 528 (PDF 548). Numerals as read (no numeral list covers these pages): Uṇ. 4-116, Pā. 3-4-105 `[as read]`.
+### Printed p. 528  (PDF 548; header "Maṃ. 1 A. 17 Sū. 120")
+
+*(Special Topics of Ṛk 9, concluded)* "… *yu miśraṇe miśraṇīyaṃ payaḥ pānārham ity arthaḥ | yuṣmatkāmaṃ vāṃ yuvākuḥ | yuvayor yogyam ity arthaḥ* [Sāyaṇa as quoted: the root *yu* in the sense of *miśraṇa*; 'milk fit for drinking' is the meaning; or 'one who desires you (the two)', 'fit for you (the two)']. Skandasvāmin: 'From the root *yu*, which has the sense of mixing, the word *yuvāku* is derived — (to drink) milk fit for drinking, or water; or one who looks to the Aśvins for protection, i.e. one who is fit for protection by the Aśvins' — he also explains this meaning."
+
+*Mitradhitaye* — *mitrāṇāṃ bandhujanānāṃ dhāraṇārtham*: "'for the support of friends and kinsmen' — Sāyaṇa: for protecting affectionate friends and relatives. Skandasvāmin:
+
+> धेट् पाने इत्यस्य दधातेर्वा दानार्थस्य इदं रूपम् । मित्राणां पानार्थं मित्रेभ्यो वा दानार्थम् ।
+
+> *dheṭ pāne ityasya dadhātervā dānārthasya idaṃ rūpam | mitrāṇāṃ pānārthaṃ mitrebhyo vā dānārtham |*
+
+— 'The word *dhiti* is formed either from the root *dheṭ* (*dhe pāne*), which has the sense of drinking, or from the root *dadha* [*dudhāñ*], which has the sense of giving: [it means] for the drinking of friends, or for the giving to friends.' He explains the meaning: 'for the drinking of the friends, and for the giving to friends'."
+
+"By praising the Aśvins, and by getting wealth, food and favour for protecting [their] kinsmen and friends, those praisers prosper; therefore the prayer is described that the Aśvins should favour us with food, wealth, strength and the cow-form wealth."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Duhīyan* — root *muha prasrāvaṇe* [as printed; *duha prapūraṇe*]; *duher dohaḥ*, *igupadhāt kit* (Uṇ. sū. 4-116 as read), the suffix *i* in the abstract sense; since the suffix is *kit*, [as if] *guṇa* of the light penultimate does not occur; when "*duhim ātmana icchati*" is intended, *supa ātmanaḥ kyac* (Pā. 3-1-8 as read), the suffix *kyac* after *duhi*; by *vyatyaya* lengthening of the former [vowel]; *sanādyantā dhātavaḥ* (Pā. 3-1-32 as read), the *dhātu* name for *duhīya*; to it *leṭ*, third person plural, the suffix *jhi*; *jho 'ntaḥ* (Pā. 7-1-3 as read), *ant* substituted for *jh*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97 as read), elision of the *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), the augment *aṭ*; *ato guṇe* (Pā. 6-1-97 as read), *pararūpa*. Or: to the root *muha* [*duha*], *liṅ*, third person plural, *ṛtvijñuraṃ* [*jhasya ran*] (Pā. 3-4-105 as read), the *ran* substitution does not occur by *vyatyaya*; then, by Vedic usage, the *y* for the *r* and elision of the final; or, since *ran* [*jhasya ran*] is [taken], [by] *vyatyaya*, *yaṇ* for the *r*; the …
+
+---
+
+### Printed p. 529  (PDF 549; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(…concluded)* "… the variety of formations, because of their not being determined, the *avagraha* was not made at the time of the Pada-text; because it stands at the beginning of a pāda, no *nighāta*; by the suffix's accent the final acute. *Yuvākuḥ* — "*yuvāṃ kāmayante iti yuvākavaḥ*", root *kamu kāntau*; *mitadrvādibhya upasaṅkhyānam* (Pā. 3-2-180 vārttika as read), the suffix *ḍu*; since it is *ḍit*, elision of the *ṭi* of the root; though a case ending follows, by *vyatyaya*, *yuva* for *yuṣmad* up to *ma*; *ā* for the *a*; or: root *yu miśraṇāmiśraṇayoḥ*, the *auṇādika* suffix *kāku*; *uvaṅ* substituted; with *jas* following, *supāṃ sulug* (Pā. 7-1-39 as read), *luk* for it. *Rāye* — the word *rai*; with the dative singular following, *ā* for it (*rāyo halyam* — *āy*); *ūḍidaṃpadādyappumraidyubhyaḥ* (Pā. 6-1-171 as read), the acute on the case ending. *Mimītam* — root *māṅ māne śabde ca*; *juhotyādi*; *vyatyayo bahulam* (Pā. 3-1-85 as read), the *parasmaipada*; *loṭ*, second person dual, since *laṅ* … *tam* is substituted; *ślu* vikaraṇa; *ślau* (Pā. 6-1-10 as read), doubling of the root; *bhṛñām it* (Pā. 7-4-76 as read), *i* for the reduplicative syllable; *īhalyaghoḥ* (Pā. 6-4-113 as read), *ī* for the root's *ā*; *cavāyoge prathamā* (Pā. 8-1-59 as read), prohibition of *nighāta*, so by the suffix's accent the final acute. *Iṣe* — *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 as read), the acute on the case ending. ‖ 9 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.10)**
+
+> अश्विनोरसनं रथमनश्वं वाजिनीवतोः ।
+> तेनाहं भूरि चाकन ॥ १० ॥
+
+> *aśvinorasanaṃ rathamanaśvaṃ vājinīvatoḥ |*
+> *tenāhaṃ bhūri cākana ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.10)**
+
+> अश्विनोः । असनम् । रथम् । अनश्वम् । वाजिनीऽवतोः ।
+> तेन । अहम् । भूरि । चाकन ॥ १० ॥
+
+> *aśvinoḥ | asanam | ratham | anaśvam | vājinī 'vatoḥ |*
+> *tena | aham | bhūri | cākana ‖ 10 ‖*
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–9 complete; Ṛk 10 Saṃhitā and Pada written (printed p. 529, PDF 549). Next: printed p. 530 (PDF 550): Ṛk 10 bhāṣya onward, then Ṛks 11–12 and the colophon of Sūkta 120. Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 528–529 `[as read]`.
