@@ -804,4 +804,80 @@ Grammar page on *anantaḥ* (a *nañ*-bahuvrīhi, accent on the last syllable of
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–3 complete; Ṛk 4 through printed p. 24 (PDF 44) — Pada, bhāṣya, pratipadārtha, bhāvārtha, English, start of Special Topics (*sūnṛtā*, *acheti*). Next: printed p. 25 (PDF 45). Open: Pada word *āvaḥ* `[?]`; Ni. numerals `[?]`; Pā. numerals unnamed.
+### Printed p. 25  (PDF 45; header "Aṣṭaka 1, Adhyāya 8, Varga 1")  [Special Topics of Ṛk 4 continue]
+
+**नः दुरः वि आवः** — *Naḥ duraḥ vi āvaḥ* (Skandasvāmin):
+
+> सर्वार्थानां दृशां वाग्द्वाराणि नः अस्मभ्यं विवृणोति प्रकाशयतीत्यर्थः ।
+
+> *sarvārthānāṃ dṛśāṃ vāgdvārāṇi naḥ asmabhyaṃ vivṛṇoti prakāśayatītyarthaḥ |*
+
+"She opens for us (*asmabhyam*) the doors of all things — of the eyes and of speech — i.e. she makes them manifest." The sense is: "At Uṣas-time she so makes it that the power of perceiving objects and the power of speech and of carrying on affairs become manifest, by removing the darkness."
+
+**प्रार्प्य रायः अख्यत् विश्वा अजीगः** — *Prārpya rāyaḥ akhyat viśvā ajīgaḥ* (Skandasvāmin):
+
+> तेषु तेषु व्यापारेषु कृत्स्नं जगत् प्रवर्त्य । विविधं ख्यापितवती । जगर्तिरत्र सामर्थ्यात् गत्यर्थः । यो वां दूतो न धिष्ण्ये (ऋ. सं. २-६२-१ [?]) इति यथा ॥
+
+> *teṣu teṣu vyāpāreṣu kṛtsnaṃ jagat pravartya | vividhaṃ khyāpitavatī | jagartiratra sāmarthyāt gatyarthaḥ | yo vāṃ dūto na dhiṣṇye (ṛ. saṃ. 2-62-1 [?]) iti yathā ‖*
+
+"Having set the whole world going in these and those activities, she made known the manifold. The root *jāgṛ* here, by capacity, has the sense of 'going' — as in 'yo vāṃ dūto na dhiṣṇye' (the Ṛk cited as in the print; its reference is doubtful [?])." Kannada: "Uṣas, as the setting going of all the world in the work it has to perform, makes the variety of the world manifest: *ajīgaḥ* (the root) *jāgṛ* here, by capacity, means 'going'. — Uṣas gives light to those worlds, all of which, covered by darkness, were as if without cause (*asatkalpa*, 'as if non-existent'), and brings them to life again as if re-born by her own light. She also gives light in our understanding so that we know the ways in which wealth is obtained. This is the purport of Skandasvāmin's explanation: that Uṣas, who does such service to the whole world, acts of herself everywhere, by herself."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly)**
+
+Grammar page on *bhāsvatī* (*bhās* + *matup*, *ma* → *va* by *mādupadhāyāś ca…*; feminine *ṅīp* since the suffix is *ugit*), *netrī* (*ṇīñ* "to lead", initial *ṇ* → *n*; *tṛc* in the agent sense; guṇa; *ṅīp*; the *yaṇ* substitution in the udātta position; accent by *udāttayaṇo hal-pūrvāt*), *acheti* (*cit* "to know", aorist, 3rd singular *ta*; *ciṇ* by *ciṇ bhāvakarmaṇoḥ*; guṇa; elision of *ta* by *ciṇo luk*; augment). Sūtra numbers small; none given.
+
+### Printed p. 26  (PDF 46; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page continued:* *duraḥ* (the word *dvār*, *dur* for the Vedic accusative plural with *saṃprasāraṇa* by *rayer mṛtau bahulam…*; accusative plural); *āvaḥ* (*vṛñ* "to cover", aorist *luṅ*, *tip*; elision of *i* by *itaś ca*; *cli*, *sic* elided by *mantre ghasa-hvara…*; guṇa; *ur* — *raparaḥ*; *tip* elided after the consonant-ending by *hal-ṅyābbhyaḥ…*; no augment by *chandasy api…*; the visarga); *prārpyā* (*ṛ* "to go", *ṇic*; the *puk* augment; the suffix *lyap* in the compound with *pra* — *samāse 'nañpūrve ktvo lyap*; elision of the *ṇi*; lengthening in the Saṃhitā by *anyeṣām api dṛśyate*); *rāyaḥ* (accent of the ending by *ūḍidaṃpadādi…*); *akhyat* (*khyā* "to tell", aorist, *tip*; *cli* → *aṅ* by *asti-vakti-khyātibhyo 'ṅ*; elision of the root's *ā* by *āto lopa iṭi ca*; augment); *ajīgaḥ* (*gṝ* "to swallow", aorist 3rd singular with *tip*; as before elision of *i*; *śluṃ* in place of *śnā* by *bahulaṃ chandasi*; doubling and *ut* by *ṛta ut*; reduplication, *a* → *i*…; lengthening of the root vowel by Vedic usage).
+
+---
+
+### Printed p. 27  (PDF 47; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+*Grammar page of Ṛk 4, concluded (noted briefly):* *ajīgaḥ* — in the causative (*ṇic*), the aorist *luṅ*, *caṅ* in place of *cli* (by *ṇiśri-druśrubhyaḥ kartari caṅ*), the doubling by *caṅi*; *sanvad-bhāva* ("like a desiderative") bringing the *i* of the reduplication; the lengthening by *dīrgho laghoḥ*; here too the elision of *caṅ* by Vedic usage; nighāta accent after an accented word. ‖ 4 ‖ *(Sūtra numbers small; none given.)*
+
+*(Printer's ornament.)*
+
+### Ṛk 5
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.5)**
+
+> जिह्मश्ये चरितवे मघोन्याभोगय इष्टये राय उ त्वम् ।
+> दभ्रं पश्यद्भ्य उर्विया विचक्ष उषा अजीगर्भुवनानि विश्वा ॥ ५ ॥
+
+> *jihmaśye caritave maghonyābhogaya iṣṭaye rāya u tvam |*
+> *dabhraṃ paśyadbhya urviyā vicakṣa uṣā ajīgarbhuvanāni viśvā ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.5)**
+
+> जिह्मऽश्ये । चरितवे । मघोनी । आऽभोगये । इष्टये ।
+> राये । ऊं इति । त्वम् । दभ्रम् । पश्यत्ऽभ्यः । उर्विया । विऽचक्षे । उषाः । अजीः । भुवनानि । विश्वा ॥ ५ ॥
+
+> *jihma 'śye | caritave | maghonī | ā 'bhogaye | iṣṭaye |*
+> *rāye | ūṃ iti | tvam | dabhram | paśyat 'bhyaḥ | urviyā | vi 'cakṣe | uṣāḥ | ajīḥ | bhuvanāni | viśvā ‖ 5 ‖*
+
+*(Reading note after viewing the Pada: the printed Pada has* ajīgaḥ *as in Ṛk 4 — as printed* अजीगः*; the Saṃhitā's* rāya u tvam *is the Pada's* rāye | ūṃ iti | tvam*.)*
+
+### Printed p. 28  (PDF 48; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.5)**
+
+> मघोनीत्युषसो नामधेयम् । मघोनी धनवत्युषा जिह्मश्ये जिह्मं वक्रं शयानाय पुरुषाय चरितवे चरितुं शयनादुत्थाय स्वापेक्षितं प्रति गन्तुं वृच्छन्ती भवति । त्वम् । अयमेकशब्दपर्यायः सर्वनामशब्दः [?] । यदाह । त्वे इति विग्रहार्थीयं सर्वनामानुदात्तम् [?] । नि. १-२ । इति । त्वमेकं प्रति आभोगये आभोगाय शब्दादिविषयार्थम् । तथापरं प्रति इष्टये यागार्थम् । तथान्यं प्रति राये धनार्थं च वृच्छन्तीति शेषः । उ शब्दः पादपूरणार्थः [?] । अपि च दभ्रमल्पं पश्यद्भ्योऽन्धकारावृतत्वेनेषद्दृष्टिभ्यो मनुष्येभ्यो विचक्षे विशिष्टप्रकाशाय वृच्छन्ती उर्विया उर्वी विस्तीर्णोषा सर्वाणि भूतजातानि तमसा तिरोहितानि प्रकाशदानेनोद्गीर्णानीव करोति ॥
+
+> *maghonītyuṣaso nāmadheyam | maghonī dhanavatyuṣā jihmaśye jihmaṃ vakraṃ śayānāya puruṣāya caritave carituṃ śayanādutthāya svāpekṣitaṃ prati gantuṃ vṛcchantī bhavati | tvam | ayamekaśabdaparyāyaḥ sarvanāmaśabdaḥ [?] | yadāha | tve iti vigrahārthīyaṃ sarvanāmānudāttam [?] | ni. 1-2 | iti | tvamekaṃ prati ābhogaye ābhogāya śabdādiviṣayārtham | tathāparaṃ prati iṣṭaye yāgārtham | tathānyaṃ prati rāye dhanārthaṃ ca vṛcchantīti śeṣaḥ | u śabdaḥ pādapūraṇārthaḥ [?] | api ca dabhramalpaṃ paśyadbhyo 'ndhakārāvṛtatveneṣaddṛṣṭibhyo manuṣyebhyo vicakṣe viśiṣṭaprakāśāya vṛcchantī urviyā urvī vistīrṇoṣā sarvāṇi bhūtajātāni tamasā tirohitāni prakāśadānenodgīrṇānīva karoti ‖*
+
+*Sense (mine):* "*Maghonī* is a name of Uṣas: the wealthy Uṣas, to the man lying curled up (*jihmaśye*, 'crooked-lying'), to move about (*caritave*), rising from sleep to go toward what each requires, is appearing (*vṛcchantī*). *Tvam* — [the Nirukta: the pronoun, a synonym of 'one'] — to one person, for *ābhogaya*, 'enjoyment', i.e. for the objects of sound and so on; to another, for *iṣṭaye*, for sacrifice; to yet another, for *rāye*, wealth — she appears, is the ellipsis. *U* is a filler [?]. Moreover, to men who see a little (*dabhram*), seeing but slightly because covered by darkness — for their *vicakṣe*, 'clear seeing' — Uṣas, wide (*urviyā*, *urvī*, 'broad'), appears; she makes all living beings that were hidden by darkness appear as if they had been drawn out, by the giving of light."
+
+*Grammatical tail (characterized, not transcribed):* *jihmaśye* (*jihmam śete* — the compound *jihma-śī*, with the *kvip*, the accent of the later member by *kṛdutta-pada-prakṛti-svaratva*; *yaṇ* — the dative singular in Vedic *ṅe* → *e* with the svarita); *ābhogaye* (the Vedic dative with *ya*); *urviyā* (*uru* with the Vedic *ī*-feminine in *kvip* *bāhulaka*; *Pā. 6-4-?? [?]*); *vicakṣe* (*cakṣiṅ* "to speak", *vi*; *ṅe* → *e* in the infinitive sense by *kṛtyārthe…* [?]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*maghonī* — the generous (Uṣas); *jihmaśye* — (to) the man sleeping curled up; *caritave* — to rise and go about (helping); *tvam* — to one; *ā bhogaye* — for the sake of (sensual) enjoyment; *iṣṭaye* — for performing sacrifice [(*tvam* —) to another]; *rāye* — for wealth [(to) another]; *dabhram* — dimly (because of darkness); *paśyadbhyaḥ* — to those who see; *vicakṣe* — for seeing well; *uṣāḥ* — Uṣas; *viśvā bhuvanāni* — the whole world; *ajīgaḥ* — makes manifest."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Uṣas rouses the men who lie curled up asleep and sets each upon his task — one to sensual enjoyment, one to the acquisition of wealth, and another to sacrifice and the like. Objects seen only faintly she makes seen plainly; and the whole world, covered by darkness, she makes plain by her light."
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–4 complete; Ṛk 5 through printed p. 28 (PDF 48): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha — the printed English and Special Topics of Ṛk 5 follow on p. 29 (PDF 49). Next: printed p. 29. Open: bhāṣya phrase on *tvam*/*u* `[?]`; Pā./Ni. numerals.
