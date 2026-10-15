@@ -12846,4 +12846,30 @@ Sūkta 121 (*kad itthā nṝḥ*; the eighteenth anuvāka's first sūkta; fiftee
 
 ---
 
-**Progress note:** Sūkta 120 complete; Sūkta 121 (last sūkta of the volume) begun: heading, Anukramaṇī, Anuvāda, Ṛk 1 through printed p. 539 (PDF 559); Special Topics continue on p. 540. Next: printed p. 540 (PDF 560). Numerals as read from the page: "pp. 537" varga "24, 25, 26" `[?]`; Anuvāda range "121–126" `[as read]`; Pā. 8-3-10 `[as read]`.
+### Printed p. 540  (PDF 560; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 1, continued)* "… he suggests, by the words *nṝn pātraṃ devayatām aṅgirasāṃ turaṇyan*, that [Indra] is the impeller of the cow-wealth of the Aṅgirasa ṛṣis, who look to the deity for protection. Skandasvāmin: as in the Ṛk
+
+> कद्ध नूनं कधप्रियः पिता पुत्रं न हस्तयोः ।
+> (ऋ. सं. १-३८-१ [as read])
+
+> *kaddha nūnaṃ kadhapriyaḥ pitā putraṃ na hastayoḥ |*
+> *(ṛ. saṃ. 1-38-1 [as read])*
+
+the word *kat* conveys 'when'. *Nṝn* = *manuṣyāṇām asmākaṃ manuṣyāṇām* — 'to us, the men'; *pātram* — 'the vessel called *graha* or *camasa*, by which the oblation is offered in the sacrifice'; *devayatām* — of the Aṅgirases who desire the god; [he adds that the word *pitṛ* in a similar Ṛk is used of the sacrificers who are 'sons' of the Aṅgirases]; '*giraḥ śravat* — he will hear the praise-words of the sages born in the line of the Aṅgirases, and, quickly, drink the soma-juice' — such is the sense he gives. In their expositions the two commentators differ."
+
+*Harmyasya* — *harater idaṃ rūpam harturaḥ śatrudhanānām indrasya uru kraṃsate bahu karoti*: "'[Indra,] the seizer of enemies' wealth [is called to the sacrifice]; the sacrificer calls him in many ways and praises' — or, *harmyam iti gṛhanāma* ('house'): '*yajñagṛhe yo 'dhvaraḥ tasmin bahu kramate indraḥ*' — 'Indra comes many times to the sacrifice in the sacrificial hall' — so Skandasvāmin. Sāyaṇa: *uru kraṃsate bahulaṃ kramate svayam evotsahate* — 'Indra, worthy of worship, is greatly eager to come to the sacrificial hall'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Kat* — the word *kadā*; by Vedic usage the final *ā* is elided. *Nṝn pātram* — *nṝn* + *pātram*: *nṝn pe* (Pā. 8-3-10 as read), *ru* for the *n* in the Saṃhitā because *p* follows; *atrānunāsikaḥ pūrvasya tu vā* (Pā. 8-3-2 as read), the preceding *ṛ* … becomes nasal; *kupvoḥ…* , *visarga*.
+
+---
+
+### Printed p. 541  (PDF 561; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Pātram* — root *pā rakṣaṇe*; *tācchīlyavayovacanaśaktiṣu* (Pā. 3-2-129 as read), the suffix *tṛn* in the sense of habit; the word *pātṛ*; by *vyatyaya*, *tra* substituted when *su* follows; since by the maxim *saṃjñāpūrvako vidhir anityaḥ* the *guṇa* is not obtained, *yaṇ*; by the suffix's *nit*, the initial acute. *Devayatām* — "*devam ātmana icchanti*": *supa ātmanaḥ kyac* (Pā. 3-1-8 as read), *kyac* after *deva*; the form *devayati*; *na cchandasy aputrasya* (Pā. 7-4-35 as read), the lengthening etc. do not occur; after the *kyajanta* *deva-ya*, in the sense of *laṭ*, *śatṛ*; the word *devayat*; genitive plural, since *śatṛ* is *numrahita*, *śaturanumo nadyajādī* (Pā. 6-1-173 as read), the acute on the case ending. *Śravat* — root *śru śravaṇe*; *leṭ*, third person singular, *tip*; *itaś ca lopaḥ* (Pā. 3-4-97 as read), elision of *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), *aṭ*; *bahulaṃ chandasi*, *luk* for the vikaraṇa; *guṇa* of the *u*, *av*; at the beginning of a pāda no *nighāta*; since *tip* is *pit*, *anudātta*, so the root's accent remains. *Turaṇyan* — root *turaṇa tvarāyām*; *kaṇḍvādi*; *kaṇḍvādibhyo yak* (Pā. 3-1-27 as read), *yak* in its own sense; in the sense of *laṭ*, *śatṛ*; first singular, [*yak* accent remains]. *Ānaṭ* — root *aśū vyāptau*; *vyatyayo bahulam* (Pā. 3-1-85 as read), the *parasmaipada*; *laṅ*, third person singular, *tip*; *itaś ca*, elision of *i*; by *vyatyaya* *śnu* as vikaraṇa [instead of *śap*]; …; *halṅyābbhyo…*, elision of *tip*; *vraśca…* (Pā. 8-2-36 as read), *ṣatva* of the *ś*; *jhalāṃ jaśo 'nte* (Pā. 8-2-39 as read), *ḍ* for the *ṣ*; *vāvasāne* (Pā. 8-4-56 as read), *ṭ*; *āḍ ajādīnām* (Pā. 6-4-72 as read), the augment *āṭ*; the form *ānaṭ*; since *yat* is connected, no *nighāta*; the augment being *udātta*, the initial acute. *Harmyasya* — "*harmyam asya asti*" — *harmya* ... *arśa ādibhyo 'c* (Pā. 5-2-127 as read), the suffix *ac* in the sense of *matup*; *yasyeti ca*, elision of the preceding *a* …
+
+---
+
+**Progress note:** Sūkta 121: Ṛk 1 through printed p. 541 (PDF 561): all parts done except the end of its grammar (continues p. 542). Next: printed p. 542 (PDF 562). Numerals as read (no list covers these pages): Ṛ. 1-38-1, sūtra numbers `[as read]`.
