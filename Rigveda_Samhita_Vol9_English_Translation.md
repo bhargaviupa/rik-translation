@@ -3186,4 +3186,96 @@ and other mantras."
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–5 complete; Ṛk 6 through the pratipadārtha on p. 125 (PDF 145). Next: printed p. 126 (PDF 146) — Ṛk 6 bhāvārtha, English, Special Topics, grammar. Open: numerals as read; Purāṇic story in the bhāṣya partly small type `[?]`.
+### Printed p. 126  (PDF 146; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"We offer to Rudra, the father of the Maruts, these *stotra*-sentences, which are more pleasing than honey and the like. O deathless Rudra, give us food fit for human enjoyment. (And likewise) make for me, my children and grandchildren happiness."
+
+**English Translation (as printed)**
+
+> This praise, the sweetest of the sweet, and cause of increase (to the reciter), is addressed to Rudra, the father of the Maruts : immortal Rudra grant us food sufficient for mortals, and bestow happiness on me, my son and my grandson.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**मरुतां पित्रे** — *Marutāṃ pitre* — "There are forty-nine Marut deities; the meaning is: to Rudra, the begetter of the Marut deities. Indra, having conquered the asuras, [the story:] Diti, mother of the asuras, practised austerity in order to get a son who could overcome Indra, and by her husband's service became with child. Indra, learning this, under the pretext of serving the mother, entered the womb of Diti in a subtle form, with his thunderbolt, and cut that embryo first into seven parts, and then each of them into seven, thus forty-nine pieces. Pārvatī and Parameśvara, who move about the world for the good of men, saw these pieces that fell on the earth, having slipped out of the womb. Pārvatī, feeling pity for those lumps of flesh, begged her husband to give them life; at her request Parameśvara made those forty-nine lumps of flesh into sons of one form, ornament and age, and told Pārvatī 'These are your children.' From this tradition the Maruts are said in the Sūktas to be Rudra's sons, and Rudra is said to be the Maruts' father."
+
+**स्वादोः स्वादीयः** — *Svādoḥ svādīyaḥ* — "*rasavato madhuphalāder api svādutaram | atiśayena harṣajanakam ity arthaḥ*": the phrase *stutilakṣaṇaṃ vacaḥ* (speech of the nature of praise) is a qualifier of the sentence *stuti-rūpa vākya*. "People who eat, or those who use foods (*bhakṣya-bhojya*), take pleasure in sweet things such as ghee and honey, which are healthful and pleasing and give joy to the mind;
+
+### Printed p. 127  (PDF 147; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+so a speech addressed to a deity, or a speech uttered with devotion to win the deity, gives the deity pleasure with regard to its devotee and increases the joy of the mind. For this reason the Ṛk says *vardhanam* ('increasing'). This word, derived from the root *vṛdhu vṛddhau*, means that the speech of the form of praise increases the pleasure in the mind of the deity by making manifest the greatness of the deity or of the qualities of the object praised. From this the deity, hearing the *stotra*, becomes pleased with him who praises. '*stotreṇa hi devatā hṛṣṭā satī pravardhate*' — Sāyaṇa explains the word *vardhana* thus; Skandasvāmin too says '*stutir hi devānāṃ vṛddhikarī*' — praise increases the strength of the gods."
+
+**मर्तभोजनम्** — *Martabhojanam* — "Mortals (*marta*) are men, who are subject to death. The prayer to Rudra is to favour them so that objects for their enjoyment (food) be obtained. Skandasvāmin: because *bhojana* is stated among the twenty-eight [as read] names of wealth (Ni. 2-10 as read [?]), the phrase *martabhojanam* means 'wealth that is the means of enjoyment for men'."
+
+**त्मने** — *Tmane* — "*dvitīyārthe caturthī*": "Here the fourth case is used in the sense of the second case; the meaning is 'me'. The word, meaning *ātman* ('self'), is used in many other Ṛks:
+
+> कतरा पूर्वा कतरापरायोः कथा जाते कवयः को वि वेद ।
+> विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥
+> (ऋ. सं. १-१८५-१ [as read])
+
+> *katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda |*
+> *viśvaṃ tmanā bibhṛto yaddha nāma vi vartete ahanī cakriyeva ‖*
+> *(ṛ. saṃ. 1-185-1 [as read])*
+
+— here *tmanā* = *ātmanā*.
+
+> तन्न स्तोरिसमद्भुतं पुरु वारं पुरु त्मना ॥ [as read; quotation partly doubtful [?]]
+> (ऋ. सं. १-१४३-१० [as read])
+
+> *tanna storisamadbhutaṃ puru vāraṃ puru tmanā ‖ [as read; quotation partly doubtful [?]]*
+> *(ṛ. saṃ. 1-143-10 [as read])*
+
+— in this Ṛk *puru tmanā* means '*bahv ātmanā*'.
+
+> राकामहं सुहवां सुष्टुती हुवे शृणोतु नः सुभगा बोधतु त्मना ।
+> (ऋ. सं. २-३२-४ [as read])
+
+> *rākāmahaṃ suhavāṃ suṣṭutī huve śṛṇotu naḥ subhagā bodhatu tmanā |*
+> *(ṛ. saṃ. 2-32-4 [as read])*
+
+— in this Ṛk too the word *tmanā* is explained in the Nirukta in the sense of *ātmanā*."
+
+---
+
+### Printed p. 128  (PDF 148; header "Maṃ. 1 A. 16 Sū. 114")
+
+**तनयाय** — *Tanayāya* — "*tokāya* [and] *tanayāya*: *tokam* = son, *tanayam* = his son; *toka* means a son, *tanaya* a grandson (son's son). The words *tuk*, *tokam*, *tanayam* are stated among the fifteen [as read] names of offspring (Ni. 3-?? as read [?]); so the meaning is 'son'. Thus:
+
+> सहस्रं ते स्वपिवात भेषजा मा नस्तोकेषु तनयेषु रीरिषः ।
+> (ऋ. सं. २-३३-२ [as read])
+
+> *sahasraṃ te svapivāta bheṣajā mā nastokeṣu tanayeṣu rīriṣaḥ |*
+> *(ṛ. saṃ. 2-33-2 [as read])*
+>
+> येन तोकं च तनयं च धामहे ।
+> (ऋ. सं. १-९२-१३ [as read])
+
+> *yena tokaṃ ca tanayaṃ ca dhāmahe |*
+> *(ṛ. saṃ. 1-92-13 [as read])*
+
+— in these Ṛks the words *toka* and *tanaya* are explained as 'sons and grandsons'. Skandasvāmin, following this, explains likewise, and says that the prayer stated is that 'Rudra be gracious to all, to our sons and grandsons who serve Rudra'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly)**
+
+*pitre* (the word *pitṛ* is irregularly given the *tṛc* suffix, with the Uṇādi *ti*-formation [as printed]; dative singular *ṅe*, followed by *yaṇ*; in the place of the *udātta* a *yaṇ* arises, and the following ending is accented by *udāttayaṇo hal-pūrvāt*, Pā. 6-1-174 as read [?]); *ucyate* (*vac* "to speak", *laṭ* 3rd singular *ta* in the passive; *ṭita ātmanepadānāṃ ṭer e*; *sārvadhātuke yak*, Pā. 3-1-67 as read [?]; *vacisvapiyajādīnāṃ kiti*, Pā. 6-1-15 as read [?], *saṃprasāraṇa*; *saṃprasāraṇāc ca*, *pūrvarūpa*; nighāta); *vardhanam* (*vṛdhu* "to grow", *lyuṭ*; *anādeśa* for *yu* by *yuvor anākau*, Pā. 7-1-1 as read [?]; guṇa of the penultimate; *liti*, Pā. 6-1-193 as read [?], the *udātta* on the syllable before the suffix); *rāsva* (*rā* "to give", *ātmanepada* by *vyatyayo bahulam*, Pā. 3-1-85 as read [?]; *loṭ* 2nd singular; *thāsaḥ se*, Pā. 3-4-80 as read [?]; *se* → *sva* by *savābhyāṃ vāmau*, Pā. 3-4-91 as read [?]; *ṣatva* for *s* of the *ā*; no nighāta because it stands at the beginning of the *pāda*; the first syllable accented by *vyatyaya*).
+
+### Printed p. 129  (PDF 149; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 9")
+
+*Grammar page of Ṛk 6, concluded:* *amṛta* (*na vidyate mṛtaṃ maraṇaṃ yasya* — *amṛtaḥ*; in the vocative the nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *martabhojanam* (*martānāṃ bhojanam*; *bhuj* "to protect, to enjoy", in the abstract *lyuṭ*; *anādeśa* by *yuvor anākau*; the accent before the suffix by *liti*; in the compound the first-member accent by *gatikārakopapadāt kṛt*); *tmane* (the word *ātman*; dative singular; *mantreṣv āṅyāder ātmanaḥ*, Pā. 6-4-141 as read [?], the elision of *ā* [stated as *ājyo 'nyatrāpi chandasi dṛśyate*, Kā. 6-4-141-1]); *mṛḷa* (*mṛḍa* "to be gracious", *loṭ* 2nd singular; nighāta after an accented word). ‖ 6 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 7
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.7)**
+
+> मा नो महान्तमुत मा नो अर्भकं मा न उक्षन्तमुत मा न उक्षितम् ।
+> मा नो वधीः पितरं मोत मातरं मा नः प्रियास्तन्वो रुद्र रीरिषः ॥ ७ ॥
+
+> *mā no mahāntamuta mā no arbhakaṃ mā na ukṣantamuta mā na ukṣitam |*
+> *mā no vadhīḥ pitaraṃ mota mātaraṃ mā naḥ priyāstanvo rudra rīriṣaḥ ‖ 7 ‖*
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–6 complete (through printed p. 129, PDF 149); Ṛk 7 Saṃhitā written. Next: printed p. 130 (PDF 150) — Ṛk 7 Pada, bhāṣya… Open: numerals as read.
