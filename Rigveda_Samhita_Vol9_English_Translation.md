@@ -13880,4 +13880,78 @@ In this Ṛk the word *śuṣṇa* means 'cloud' (Ni. 6-?? [as read]).
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–11 complete; Ṛk 12 through printed p. 589 (PDF 609): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 590). Next: printed p. 590 (PDF 610). Three Ṛks (13–15) remain after Ṛk 12. Numerals as read: Ṛ. 1-32-10, 1-32-2 `[as read]`.
+### Printed p. 590  (PDF 610; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 12, concluded)* "*Taṃ tatakṣva — takṣatiḥ karotikarmā; loḍarthe liṭ prathamapuruṣo madhyamapuruṣasya sthāne; asmadīyaśatruvadhārthaṃ saṃskuru vajram*: 'the root *takṣ* is used here in the sense of "doing" (making). The perfect (*liṭ*) in the sense of the imperative (*loṭ*), and the third person for the second. [The sense:] make the thunderbolt ready for the killing of our enemies' — so [Sāyaṇa] explains. The Ṛk describes that Indra should use the thunderbolt for the killing of our enemies."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 12; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Indra* (*āmantritasya ca*, Pā. 6-1-198, *nighāta*) · *naryaḥ* (*nṛbhyo hitaḥ*; *tasmai hitam*, Pā. 5-1-5, *yat*; *yasyeti ca*; *yato 'nāvaḥ*, Pā. 6-1-213, initial acute) · *yān* + *avaḥ* (*dīrghād aṭi samānapāde*, Pā. 8-3-9, *ru*; *ato roṭ* … *anunāsikaḥ pūrvasya tu vā*, Pā. 8-3-2) · *avaḥ* (*ava rakṣaṇe*, *leṭ*, *sip*; *itaś ca lopaḥ parasmaipadeṣu*, Pā. 3-4-97; *leṭo 'ṭāṭau*, Pā. 3-4-94; *ru*, *visarga*; no *nighāta* because *yat* is connected, *yaddhṛttānnityam*, Pā. 8-1-66) · *tiṣṭha* (*ṣṭhā gatinivṛttau*, *loṭ*, second singular, *hi* → …; *pāghrādhmāsthāmnādānadṛśyarti…*, Pā. 7-3-78, *tiṣṭha*; *ato het*, Pā. 6-4-105; *dyaujośasi ca*, Pā. 8-?? [as read], lengthening in the Saṃhitā; no *nighāta* at the beginning of a pāda) · *suyujaḥ* (*yujir yoge*, *kvip*; *kṛdanta* hind-part keeps its natural accent).
+
+---
+
+### Printed p. 591  (PDF 611; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 12, continued, noted briefly)* *vahiṣṭhān* (*vaha prāpaṇe*, suffix *tṛc*; *hoḍhaḥ*, Pā. 8-2-31, *ḍha*; *ṣṭutva*, *lopa*; *sahivahor odavarṇasya*, Pā. 6-3-112, *o* for the root's *a*; *ḍho ḍhe lopaḥ*, Pā. 8-3-13, the former *ḍh* dropped; the word *voḍhṛ*; with the sense of exceeding, *tuśchandasi*, Pā. 5-3-59, *iṣṭhan*; *turiṣṭhemeyaḥsu*, Pā. 6-4-154, *tṛ* elided; the form *vahiṣṭha*; *ñnityādir nityam*, Pā. 6-1-197, initial acute) · *mandinam* (*madi harṣe*; *idito num dhātoḥ*, Pā. 7-1-58; *ṇini* in the habit-sense; accent on *i*) · *dāt* (*dudāñ dāne*, *luṅ*, *tip*; *itaś ca lopaḥ*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. 2-4-77, *luk* of *sic*; no augment by Pā. 6-4-75; no *nighāta* because *yat* is connected) · *vṛtrahaṇam* (*hana hiṃsāgatyoḥ*; *brahmabhrūṇavṛtreṣu kvip*, Pā. 3-2-87, *kvip*; *iṇ-han-…*, Pā. 6-4-12 as read, no lengthening) · *pāryam* (*pāra tīra karmasamāptau*; *hetumati ca*, *ṇic*; *aco yat*, Pā. 3-1-97; *yato 'nāvaḥ*, Pā. 6-1-213) · *tataksa* (*takṣū tvakṣū tanūkaraṇe*; by *vyatyaya* a *liṭ* [first-person] ending *tha* in the second-person sense; *tiṅanta nighāta*). ‖ 12 ‖
+
+### Printed p. 592  (PDF 612; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.13)**
+
+> त्वं सूरो हरितो रामयो नॄन्भरच्चक्रमेतशो नायमिन्द्र ।
+> प्रास्य पारं नवतिं नाव्यानामपि कर्तमवर्तयोऽयज्यून् ॥ १३ ॥
+
+> *tvaṃ sūro harito rāmayo nṝnbharaccakrametaśo nāyamindra |*
+> *prāsya pāraṃ navatiṃ nāvyānāmapi kartamavartayo 'yajyūn ‖ 13 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.13)**
+
+> त्वम् । सूरः । हरितः । रमयः । नॄन् । भरत् । चक्रम् । एतशः । न ।
+> अयम् । इन्द्र ।
+> प्र । अस्य । पारम् । नवतिम् । नाव्यानाम् । अपि । कर्तम् ।
+> अवर्तयः । अयज्यून् ॥ १३ ॥
+
+> *tvam | sūraḥ | haritaḥ | ramayaḥ | nṝn | bharat | cakram | etaśaḥ | na |*
+> *ayam | indra |*
+> *pra | asya | pāram | navatim | nāvyānām | api | kartam |*
+> *avartayaḥ | ayajyūn ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.13)** *(small type; read with some doubts)*
+
+> हे इन्द्र सूरः सूर्यात्मना वर्तमानस्त्वं हरितो हरिद्वर्णान्नॄन्नेतॄनश्वान् यद्वा रसहरणशीलान् रश्मीन् रमयः । उपारमयः । एतशो न । एतश इति सूर्याश्वस्याख्या । तथा च श्रूयते । एतशेनैत्वा सूर्यो देवतां गमयेत्तीति । नशब्दश्चार्थे । एतशश्च रथस्य चक्रं भरत् प्रावहत् । अपि च त्वं नाव्यानां नावा तार्याणां नदीनां नवतिं नवतिसंख्यामतीत्य वर्तमानं पारं तीरदेशं यज्ञहीनानसुरादीन् प्रास्य प्रक्षिप्य तत्र कर्तमवर्तयः । कर्तव्यमपि कृत्वा तानयजमानानवर्तयः । प्रापयः ॥ रमयः । लङ् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । अन्येषामपि दृश्यत इति सांहितिको दीर्घः । प्रास्य । असु क्षेपणे । अस्मात्क्त्वो ल्यबादेशः । नाव्यानाम् । नौवयोधर्मेत्यादिना यत् । तित्स्वरितमिति स्वरितत्वम् ॥ [as read]
+
+> *he indra sūraḥ sūryātmanā vartamānastvaṃ harito haridvarṇānnṝnnetṝnaśvān yadvā rasaharaṇaśīlān raśmīn ramayaḥ | upāramayaḥ | etaśo na | etaśa iti sūryāśvasyākhyā | tathā ca śrūyate | etaśenaitvā sūryo devatāṃ gamayettīti | naśabdaścārthe | etaśaśca rathasya cakraṃ bharat prāvahat | api ca tvaṃ nāvyānāṃ nāvā tāryāṇāṃ nadīnāṃ navatiṃ navatisaṃkhyāmatītya vartamānaṃ pāraṃ tīradeśaṃ yajñahīnānasurādīn prāsya prakṣipya tatra kartamavartayaḥ | kartavyamapi kṛtvā tānayajamānānavartayaḥ | prāpayaḥ ‖ ramayaḥ | laṅ | bahulaṃ chandasyamāṅyoge 'pītyaḍabhāvaḥ | anyeṣāmapi dṛśyata iti sāṃhitiko dīrghaḥ | prāsya | asu kṣepaṇe | asmātktvo lyabādeśaḥ | nāvyānām | nauvayodharmetyādinā yat | titsvaritamiti svaritatvam ‖ [as read]*
+
+*Sense (mine):* "O Indra, you, being in the form of the Sun (*sūraḥ*), made *harita* — the yellow-hued, leading horses, or the rays that carry away the juices (*rasa*) — *ramayaḥ* — rest (stop). *Etaśo na* — as the Sun's horse, named *Etaśa*, [drags the wheel]: as is heard, 'Sūrya, bringing [by] Etaśa, makes the deity reach' — the word *na* is in the sense of 'and' — and Etaśa *bharat* — bore (drew) the wheel of the chariot. And, *tvam* — you — *prāsya* — having cast across *pāram* — to the further bank — of the ninety (*navatim*) rivers *nāvyānām* — to be crossed by boat — those who perform no sacrifices, the asuras and the like, — there you *kartam avartayaḥ* — made them turn to what is to be done: that is, you made the non-sacrificers do their duty."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.13)** (Kannada, rendered)
+
+*(He) indra* — O Indra; *sūraḥ* — in the form of the Sun; *tvam* — you; *haritaḥ* — yellow-hued; *nṝn* — the leading horses (rays); *ramayaḥ* — made stop; *etaśaḥ na* — [like] the Sun's horse Etaśa; *cakram* — the wheel; *bharat* — bore; *(api ca)* — and; *nāvyānām* — of the rivers that must be crossed by boat; *navatim* — the ninety; *pāram* — at the bank beyond; *ayajyūn* — the non-sacrificers (asuras); *prāsya* — having cast; *kartam* — to the duty (the sacrifices to be done by men); *avartayaḥ* — you made them turn.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.13)** (Kannada, rendered)
+
+"O Indra in the form of the Sun! You made the yellow-hued horses (rays) stand still; Etaśa, the Sun's horse, bore the chariot's wheel; and you, having cast the asuras who perform no sacrifices to the bank beyond the ninety rivers that must be crossed by boat, made them do the sacrifices and other duties to be performed by men there."
+
+---
+
+### Printed p. 593  (PDF 613; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"Stop, Sura [sic], your yellow horses, for this Etasa, Indra, drags the wheel: having driven those who offer no sacrifices to the opposite bank of the ninety rivers, you compel them (to do) what is to be done."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 13)**
+
+"Here Indra's fighting, in the form of the Sun, shining in the Sun's chariot, with asuras who trouble the world, is described."
+
+*Haritaḥ nṝn ramayaḥ etaśo na bharat* — *haritavarṇān netṝn aśvān yadvā rasaharaṇaśīlān raśmīn upāramayaḥ; etaśa iti sūryāśvasyākhyā; tathā ca śrūyate — etaśena tvā sūryo devatāṃ gamayatu (Tai. Saṃ. 1-?-?-? [as read]) iti etaśaś ca rathasya cakraṃ prāvahat*: "'He makes the yellow-hued horses stand still' — the horses, though they are yellowish, go swiftly; or, the rays that carry away the water (the juices) of the earth; Indra stays them in his chariot. The name of the Sun's horse is *Etaśa*. This matter is stated in the Taittirīya Saṃhitā, so Sāyaṇa explains. Skandasvāmin:
+
+> सूर्यस्य स्वभूतान् हरितः हरितवर्णानश्वान् मनुष्याभ्यः …
+
+> *sūryasya svabhūtān haritaḥ haritavarṇānaśvān manuṣyābhyaḥ …*
+
+[— 'the green-hued horses that belong to the Sun…' *(the paragraph runs on to p. 594)*]
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–12 complete; Ṛk 13 through printed p. 593 (PDF 613): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 594). Next: printed p. 594 (PDF 614). Two Ṛks (14–15) remain after Ṛk 13, then the colophon of Sūkta 121 / the Eighth Adhyāya and the end matter. Numerals as read: Tai. Saṃ. ref `[as read]`.
