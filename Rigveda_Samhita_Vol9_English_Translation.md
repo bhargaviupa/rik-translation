@@ -10310,4 +10310,44 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–4 complete; Ṛk 5 through printed p. 429 (PDF 449): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English, Special Topics and grammar follow (p. 430). Next: printed p. 430 (PDF 450). Numerals as read (list stops at printed p. 380): Pā. 5-3-14 `[?]`.
+### Printed p. 430  (PDF 450; header "Maṃ. 1 A. 17 Sū. 118")
+
+**English Translation (as printed)**
+
+"Leaders (of sacrifice), the youthful daughter of Surya ascended, delighted, this yonr [sic] car; may your strong-bodied prancing fleet, and shining horses, bring you near us."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 5)**
+
+*Vapuṣaḥ* — *vapur iti rūpasya śarīrasya vā nāmadheyam | tadvantaḥ*: "The word *vapus* is stated among the hundred and one names of water (Ni. 1-?? [as read: 'ನಿ. ೩-೨೪']) and among the sixteen names of form (Ni. 3-?? [as read]). It is an adjective of the horses: 'those with fine bodies'."
+
+*Aruṣā* — *arocamānāḥ hiṃsākarahitā vā*: "The word *aruṣa* is read among the twenty-six [as read] names of horses (Ni. 1-?? [as read]). Sāyaṇa makes this an adjective of the word *aśvāḥ* and explains: 'those of great lustre, free from harming anyone'."
+
+*Abhīke* — *gṛhasamīpe prapitve*: "*abhīke … āsannasya* (Ni. 3-30 [as read]) is stated in the Nirukta; so the meaning is 'near'. The horses of the Aśvins — having exceedingly fine bodies — [are to bring] their chariot, which Sūryā mounted, along with Sūryā-devī, to the neighbourhood of our house, so it is described." Skandasvāmin:
+
+> दुहिता सूर्यस्य सूर्यानाम्नी युवतिः प्राप्तयौवना युवयोः रथमास्थितवत्याजौ जिष्णू [?] आरोढेत्यर्थः । [as read; small type, doubtful [?]]
+
+> *duhitā sūryasya sūryānāmnī yuvatiḥ prāptayauvanā yuvayoḥ rathamāsthitavatyājau jiṣṇū [?] āroḍhetyarthaḥ | [as read; small type, doubtful [?]]*
+
+"Sūryā, the daughter of the Sun, a young woman who had come of age, praising the victorious Aśvins at the battle, mounted their chariot — thus he explains," and he quotes:
+
+> आ वां रथं दुहिता सूर्यस्य काष्ठेवात्स्थादर्वता जयन्ती ।
+> विश्वे देवा अन्वमन्यन्त हृद्भिः समु श्रिया नासत्या सचेथे ॥
+> (ऋ. सं. १-११६-१७)
+
+> *ā vāṃ rathaṃ duhitā sūryasya kāṣṭhevātsthādarvatā jayantī |*
+> *viśve devā anvamanyanta hṛdbhiḥ samu śriyā nāsatyā sacethe ‖*
+> *(ṛ. saṃ. 1-116-17)*
+
+— "quoting this Ṛk, he explains the word *abhīke* as *yogaśālī*. And for the word *pataṅgāḥ*, since it is formed from the root *aśū vyāptau*, he gives the meaning 'those who pervade'."
+
+---
+
+### Printed p. 431  (PDF 451; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly; sūtra numbers as read)**
+
+*Yuvatiḥ* — the word *yuvan*; when the feminine is intended, *yūnas tiḥ* (Pā. 4-1-77 as read), the suffix *ti*; *nalopaḥ prātipadikāntasya* (Pā. 8-2-7 as read), elision of the *n*; by the suffix's accent the final acute. *Tiṣṭhat* — root *ṣṭhā gatinivṛttau*; *luṅ*/*laṅ*, third person singular, suffix *tip*; *iteś ca*, elision of the *ī*; *śap* vikaraṇa; *pāghrādhmāsthā…* (Pā. 7-3-78 as read), *tiṣṭha* substituted; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; since it stands after an *ajanta*, the *nighāta* accent. *Atra* — the word *idam*; by the mention of *dṛśi* in *itarābhyo 'pi dṛśyante* (Pā. 5-3-14 as read), though there is no connection with *bhavat* and the like, the suffix *tral* comes to this word in the sense of the second case; *iś* substituted for *idam*; since the suffix is *lit*, *liti* (Pā. 6-1-193 as read), the acute on the syllable before the suffix. *Juṣṭvī* — root *juṣī prītisevanayoḥ*; the *auṇādika* suffix *ktvā*; *laśakvataddhite* (Pā. 1-3-8 as read), the *ś* [of *kva*] gets the name *it* and is elided; since it is *kit*, the root's light penultimate does not take *guṇa*; by *ṣṭutva*, *ṭ* for the *t*; because it is a word denoting quality, when the feminine is intended, *oto guṇavacanāt* (Pā. 4-1-44 as read), *ṅīṣ*, and *yaṇ* substituted; by the suffix's accent, the final acute. *Aśvāḥ* — root *aśū vyāptau*; *aśūprukṣilaṭikaṇikhaṭiviśibhyaḥ kvan* [as read; Uṇ. sū. 1-154 as read [?]], the suffix *kvan*; since it is *nit*, *jñityādir nityam* (Pā. 6-1-197), the initial acute. ‖ 5 ‖
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–5 complete (printed p. 431, PDF 451). Next: printed p. 432 (PDF 452): Ṛk 6 Saṃhitā. Numerals as read (list stops at printed p. 380): Ni. numbers on p. 430 `[as read]`, Ṛ. 1-116-17 as read, sūtra numbers on p. 431 `[as read]`.
