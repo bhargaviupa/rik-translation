@@ -11459,4 +11459,44 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–6 complete; Ṛk 7 through printed p. 479 (PDF 499): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 480). Next: printed p. 480 (PDF 500). Numerals as read: Pā. 3-2-75 `[as read]`.
+### Printed p. 480  (PDF 500; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 7)**
+
+*Jaraṇyayā* — *jaraṇakriyārhā jaraṇyā*: "'softness' [or 'old age-ness'] is the meaning."
+
+*Rathaṃ na* — *yathā kaścit śilpī jīrṇaṃ rathaṃ punar abhinavaṃ karoti tadvat*: "As a craftsman makes new again an old chariot that is crumbling, by his skill, so the Aśvins made the body of the aged ṛṣi Vandana like a young body and protected him — thus it is described."
+
+*Kṣetrāt vipraṃ vipanyayā ā janathaḥ* — *vāmadevena stutau mātur udaralakṣaṇāt janmasthānāt medhāvinaṃ tam ṛṣiṃ janayathaḥ*: "The ṛṣi Vāmadeva, in the womb of his mother, not knowing how to come out of his mother's womb, praised the Aśvins, and by their favour came out of the womb — the history of the Aśvins' protection of the ṛṣi Vāmadeva is told here. Skandasvāmin:
+
+> कश्चिद्दृषिः मृतभार्यो वृद्धश्च पुत्रकामो ऽश्विनौ तुष्टाव । तस्मा अश्विनावयोनिजं क्षेत्रात्पुत्रं जनयांचक्रतुरिति । तदेतदुच्यते । क्षेत्रात्कृष्टा भूमिः क्षेत्रमुच्यते । ततः विप्रं मेधाविनमजनथः जनितवन्तौ ॥ [as read; small type, doubtful [?]]
+
+> *kaściddṛṣiḥ mṛtabhāryo vṛddhaśca putrakāmo 'śvinau tuṣṭāva | tasmā aśvināvayonijaṃ kṣetrātputraṃ janayāṃcakraturiti | tadetaducyate | kṣetrātkṛṣṭā bhūmiḥ kṣetramucyate | tataḥ vipraṃ medhāvinamajanathaḥ janitavantau ‖ [as read; small type, doubtful [?]]*
+
+— 'A certain ṛṣi, whose wife was dead and who was old, wishing for a son, praised the Aśvins; the Aśvins caused a son to be born to him, not from a womb [?], from a field' [as read]; hence 'a field' is the ploughed ground, *kṣetra*; from it *vipra* — the wise — was born." He thus explains the story: because the ṛṣi's wife was dead there was no wife; he was very old; but he had a desire for a son; therefore he praised the Aśvins; they made a son who was *ayonija* [born without a womb?] for him."
+
+*Vipram* — *medhāvinam*: "The word *vipra* is stated among the names of the wise (Ni. 3-19 [as read]):
+
+> यो अनिध्मो दीदयदप्स्वन्तर्यं विप्रास ईळते अध्वरेषु ।
+> (ऋ. सं. १०-३०-४ [as read])
+
+> *yo anidhmo dīdayadapsvantaryaṃ viprāsa īḷate adhvareṣu |*
+> *(ṛ. saṃ. 10-30-4 [as read])*
+
+In this Ṛk too the word *vipra* is used in the sense of 'wise'."
+
+*Daṃsanā* — *rakṣaṇātmakaṃ karma*: "'Action in the form of protection': so Sāyaṇa explains it as the action that protected the ṛṣi Vāmadeva by bringing him out of the womb. [Skandasvāmin:] *daṃsanā darśanīyā pravṛttir yuvor eṣā kṣetrajananalakṣaṇā stutibhiḥ paricaritus tasya ṛṣer arthāya darśanīyā* — 'this beautiful act of yours, consisting of the birth [of a son] from the field, is worthy to be seen for the sake of the ṛṣi who served you with praises'. Because [you] procured a son from the field, according to the wish of the ṛṣi, your acts are wonderful, as good for the ṛṣi who served you with praises" — such is Skandasvāmin's exposition. *Yuvām* …
+
+---
+
+### Printed p. 481  (PDF 501; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(…concluded)* "… *mukhyatvāt* [?] — apart from the Aśvins, no other deity has performed such deeds [as these]; hence it is to be understood that the compassion of these Aśvins is unbounded towards those who praise them."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; sūtra numbers as read)**
+
+*Nirṛtam* — root *ṛ gatau*; in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), the suffix *kta*; since it is *kit*, *guṇa* does not occur; *gatir anantaraḥ* (Pā. 6-2-49 as read), as an exception to the *kṛt* accent, the *gati* (*nir*) keeps its natural accent. *Jaraṇyayā* — root *jṝṣ vayohānau*; in the abstract sense the suffix *lyuṭ*; *yuvoranākau* (Pā. 7-1-1 as read), *ana* substituted; the form *jaraṇa*; "worthy of old-age" is *jaraṇyā*: *antyāvasthāc chandasi ca* [as printed; *chandasi ca*] the suffix *ya*; by *yasyeti ca*, elision of the former *a*; in the feminine, *ṭāp*; by the suffix's accent the final acute; instrumental singular form. *Karaṇā* — root *ḍukṛñ karaṇe*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read), in the agent sense the suffix *yuc*; *yuvoranākau* (Pā. 7-1-1 as read), *ana*; on account of the suffix, *guṇa* of the root's *i*-vowel; becomes *r*-final; since it is *cit*, *ciṭaḥ* (Pā. 6-1-163 as read), the final acute; with the dual *au* following, *supāṃ sulug*, *ā* for it. *Invathaḥ* — root *ivi vyāptau*; *idito num dhātoḥ* (Pā. 7-1-58 as read), *num* for the root; *laṭ*, second person dual, *thas*; *kartari śap* (Pā. 3-1-68 as read), *śap* vikaraṇa; because it stands after an *ajanta*, the *nighāta* accent. *Janathaḥ* — root *janī prādurbhāve*; *hetumati ca* (Pā. 3-1-26 as read), *ṇic*; *ata upadhāyāḥ* (Pā. 7-2-116 as read), because of *ṇic*, *vṛddhi* of the root's penultimate; *jñaniji…* [*janījṛṣkna…* (Pā. 3-1-?? as read)] — because *mit* is the name it gets, *mitāṃ hrasvaḥ* (Pā. 6-4-92 as read), shortening of the penultimate; after the *ṇijanta*, *laṭ*, second person dual, *thas*; *śap* vikaraṇa; *chandasy ubhayathā* (Pā. 3-4-117 as read), since *śap* has the *ārdhadhātuka* name, *ṇer aniṭi* (Pā. 6-4-51 as read), elision of the *ṇic* on account of it; the form *janathaḥ*; *tiṅanta nighāta* accent.
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–6 complete; Ṛk 7 through printed p. 481 (PDF 501): all parts done except the end of its grammar (*vipanyayā*, *vidhate*, *bhuvat*; continues p. 482). Next: printed p. 482 (PDF 502). Numerals as read: Ṛ. 10-30-4, Ni. 3-19 and sūtra numbers on pp. 480–481 `[as read]`.
