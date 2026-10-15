@@ -728,4 +728,80 @@ Grammar page on the words *ruśadvatsā* (a *bahuvrīhi*, the first member keeps
 
 ---
 
-**Progress note:** Sūkta 113: Ṛk 3 through Special Topics to printed p. 20 (PDF 40), mid-topic *anyānyā* — continues on p. 21. Next: printed p. 21 (PDF 41). Note: IAST wrapper at /tmp scratchpad `iast.py` (stock add_iast.py skips a Devanagari block when the next line starts with `*`; keep notes after blocks free of a leading `*`). Open: Skandasvāmin quote on *sumeke* `[?]`; Pā. numerals unnamed.
+### Printed p. 21  (PDF 41; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+"… the word *anya* is doubled: the idea is that Night and Uṣas, the two together, are one and the same, in one piece. Skandasvāmin:
+
+> अन्यान्या शब्दः परस्परपर्यायः तृतीयैकवचनान्तश्च । परस्परसम्बद्धे चरतः गच्छतः ॥
+
+> *anyānyā śabdaḥ parasparaparyāyaḥ tṛtīyaikavacanāntaśca | parasparasambaddhe carataḥ gacchataḥ ‖*
+
+— the word *anyānyā* is a synonym of the word *paraspara* ('each other'), and ends in the instrumental singular. 'The two, joined to each other, go about.' Thus he explains that Night and Uṣas, joining in each other's work, go about."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly)**
+
+Grammar page on *anantaḥ* (a *nañ*-bahuvrīhi, accent on the last syllable of the later member by *nañsubhyām*, Pā. 6-2-172 [as read]), *anyānyā* (doubling of *anya* in reciprocal action by the Vārttika "*karmavyatihāre sarvanāmno dve…*", with the *supo dhātuprātipadikayoḥ* elision of the *sup* in the compound-like doubling; *āmreḍita* designation of the second member; accent by *anudāttaṃ ca*), *deva-śiṣṭe* (*śās* of the adādi class, *kta* by *niṣṭhā*; the *iṭ* prohibition by *yasya vibhāṣā*; *i* for the penultimate by *śāsa idaṅhaloḥ*; *ṣatva* by *śāsivasighasīnāṃ ca*; the *ṭ*-substitute; the first member keeps its natural accent by *tṛtīyā karmaṇi*), *methete* (*mith/meth* "to understand, to injure", bhvādi; *anudāttet* — hence *ātmanepada*; *laṭ*, *āthām* → *ete* by *ṭita ātmanepadānām ṭer e*; *ā* → *iy* … *lopo vyor vali*; nighāta accent), *tasthatuḥ* (*ṣṭhā*, "to cease motion", *liṭ* 3rd dual; nighāta). Pā. numbers are partly legible; I give none.
+
+### Printed p. 22  (PDF 42; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *sumeke* (*mih* "to sprinkle", *ghañ* in the abstract sense; guṇa of the penultimate by *pugantalaghūpadhasya ca*; *meha* — the Vedic change of *h* to *k*; *jñityādir nityam* accent; the second member given the first-syllable accent by *ādyudāttaṃ dvyac chandasi*; dual), *naktoṣasā* ("*naktaṃ ca uṣāś ca*" — the case-ending replaced by *ā* by *supāṃ sulug*; the lengthening of the penultimate in the Saṃhitā by *anyeṣām api dṛśyate*), *samanasā* ("*samānaṃ manaḥ yayoḥ te*" — *ā* for the ending as before; *bahuvrīhau prakṛtyā pūrvapadam* — first member keeps its accent), *virūpe* ("*viruddhaṃ rūpaṃ yayoḥ te*"; first member keeps its accent; dual). ‖ 3 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.4)**
+
+> भास्वती नेत्री सूनृतानामचेति चित्रा वि दुरो न आवः ।
+> प्रार्प्या जगद्व्यु नो रायो अख्यदुषा अजीगर्भुवनानि विश्वा ॥ ४ ॥
+
+> *bhāsvatī netrī sūnṛtānāmaceti citrā vi duro na āvaḥ |*
+> *prārpyā jagadvyu no rāyo akhyaduṣā ajīgarbhuvanāni viśvā ‖ 4 ‖*
+
+---
+
+### Printed p. 23  (PDF 43; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.4)**
+
+> भास्वती । नेत्री । सूनृतानाम् । अचेति । चित्रा । वि । दुरः । नः । आवरित्यावः [?] ।
+> प्रऽअर्प्य । जगत् । वि । ऊं इति । नः । रायः । अख्यत् । उषाः । अजीः । भुवनानि । विश्वा ॥ ४ ॥
+
+> *bhāsvatī | netrī | sūnṛtānām | aceti | citrā | vi | duraḥ | naḥ | āvarityāvaḥ [?] |*
+> *pra 'arpya | jagat | vi | ūṃ iti | naḥ | rāyaḥ | akhyat | uṣāḥ | ajīḥ | bhuvanāni | viśvā ‖ 4 ‖*
+
+*(Reading note after viewing the Pada: the Saṃhitā's* āvaḥ *is given in the Pada as a separate pada ending in* iti*, printed letter by letter as* ā-v-a-r-i-t-y-ā-v-a-ḥ *and doubtful in the small type [?]; the Saṃhitā's* prārpyā *is the Pada's* pra-arpya*; the Saṃhitā's* ajīgar bhuvanāni *is the Pada's* ajīgaḥ | bhuvanāni*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.4)**
+
+> भास्वती विशिष्टप्रकाशयुक्ता । सूनृतेति वाङ्नाम । सूनृतानां वाचां नेत्री प्रेरयित्री । उषसः प्रादुर्भावानन्तरं हि पशुपक्षिमृगादयः सर्वे शब्दं कुर्वन्ति । एवम्भूतोषा अचेति अस्माभिर्ज्ञायि । चित्रा चायनीयो ज्ञाता सा नोऽस्माकं दुरो द्वाराणि तमसा तिरोहितानि व्यावः । व्यवृणोत् । यथास्माभिर्दृश्यन्ते तथा तमो निवार्य प्रकाशयतीत्यर्थः । अपि च जगत्सर्वं भुवनं प्रार्प्य प्रकाशं गमयित्वा नोऽस्माकं रायो धनानि व्यख्यत् । विशिष्टप्रकाशयुक्तान्यकरोत् । ऊ इत्येतत्पदपूरणम् । सैषोषा विश्वा भुवनानि सर्वाणि भुवनानि तमसा तिरोहितत्वेनाविद्यमानकल्पान्यजीगः उद्गिरति । स्वमुखान्निर्गमयति स्वकीयेन प्रकाशेन तमो निःसार्य पुनरुत्पन्नानीव करोतीत्यर्थः ॥
+
+> *bhāsvatī viśiṣṭaprakāśayuktā | sūnṛteti vāṅnāma | sūnṛtānāṃ vācāṃ netrī prerayitrī | uṣasaḥ prādurbhāvānantaraṃ hi paśupakṣimṛgādayaḥ sarve śabdaṃ kurvanti | evambhūtoṣā aceti asmābhirjñāyi | citrā cāyanīyo jñātā sā no 'smākaṃ duro dvārāṇi tamasā tirohitāni vyāvaḥ | vyavṛṇot | yathāsmābhirdṛśyante tathā tamo nivārya prakāśayatītyarthaḥ | api ca jagatsarvaṃ bhuvanaṃ prārpya prakāśaṃ gamayitvā no 'smākaṃ rāyo dhanāni vyakhyat | viśiṣṭaprakāśayuktānyakarot | ū ityetatpadapūraṇam | saiṣoṣā viśvā bhuvanāni sarvāṇi bhuvanāni tamasā tirohitatvenāvidyamānakalpānyajīgaḥ udgirati | svamukhānnirgamayati svakīyena prakāśena tamo niḥsārya punarutpannānīva karotītyarthaḥ ‖*
+
+*Sense (mine):* "*Bhāsvatī* — endowed with exceptional light. *Sūnṛtā* is a name for speech; she is the leader (*netrī*, impeller) of the *sūnṛtā*s, the speeches; for after the appearance of Uṣas all animals, birds, beasts and the rest make sounds. Such Uṣas *acheti* — has been known by us. Wonderful (*citrā*) and worth knowing, she has opened (*vyāvaḥ*, *vyavṛṇot*) our doors (*duraḥ*), covered over by darkness; that is, she shows by dispelling the darkness so that they may be seen by us. Moreover, having spread over the whole world, having sent it light, she has made our riches (*rāyaḥ*, wealth) shine out: she has made them endowed with distinct light. *Ū* is a filler. This Uṣas *ajīgaḥ* — 'brings forth' all the worlds (*viśvā bhuvanāni*), which, hidden by darkness, were as if non-existent: she draws them out of her own mouth, i.e. having driven out the darkness by her own light, she makes them as if born again."
+
+*Grammatical tail (characterized, not transcribed):* *netrī* (*nī* "to lead", suffix *tṛc*, feminine in *ṅīp*, accent on the ending); *acheti* (*cit* in the sense of knowing, aorist passive in *ciṇ*, with the Vedic irregularities); *duraḥ* ("*dvāra*-word replaced by *dur* in the Vedic accusative plural" — cited by Pā. 6-1-?? [?]); *āvaḥ* (*vṛñ* "to cover", aorist in the Vedic *luṅ*, the *sic* elided, guṇa; the *hal-ṅyābbhyaḥ* elision); *prārpyā* (*ṛ* "to go"; the augment *puk* by *ṇau* …); *akhyat* (*khyā* "to tell", the *aṅ* substitute for *cli*); *ajīgaḥ* (*gṝ* "to swallow"; *luṅ* with *tip*, *bahulaṃ chandasi* — *śluṃ* elision, doubling, reduplication, lengthening). The Pā. numerals are not clear enough to give.
+
+### Printed p. 24  (PDF 44; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*bhāsvatī* — the one endowed with light, Uṣas; *sūnṛtānām* — of speeches; *netrī* — the begetter; *acheti* — (by us) she is known; *citrā* — of various colours, she; *naḥ* — our; *duraḥ* — doors covered over with darkness; *vi āvaḥ* — she opened (an opening); *jagat* — the whole world; *prārpyā* — she, having filled with light; *naḥ* — our; *rāyaḥ* — wealth; *vi akhyat u* — made (them) full of light; *uṣāḥ* — Uṣas; *viśvā bhuvanāni* — all the world covered by darkness; *ajīgaḥ* — makes manifest."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Shining Uṣas, who (since beings begin to utter sound with the light of dawn) becomes known to us as the begetter of speech, makes us see doors hidden by darkness, lights up for us our wealth and the rest, and (the world which is covered by darkness and has become as if nonexistent) lights up the whole world."
+
+**English Translation (as printed)**
+
+> Brilliant guide of the speakers of truth, the many-tinted dawn, is recognised by us ; she has opened our doors ; having illuminated the world, she has made our riches manifest. Ushas gives back all the regions (that had been swallowed up by night.)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**सूनृतानां नेत्री** — *Sūnṛtānāṃ netrī* — "*vācāṃ utpādayitrī*", the begetter of speech. The word *sūnṛtā* is stated among the sixteen names of Uṣas (Ni. 3-19 as printed [?]) and among the twenty-eight [?] names of food (Ni. 2-8 as printed [?]). Though it is read among the names of speech (*vāṅnāma*), it denotes the meaning "speech". The idea is that at Uṣas-time animals, birds and beasts begin to make sounds, so Uṣas produces the power of speech.
+
+**अचेति** — *Acheti* — "*cetyate jñāyate dṛśyata ity arthaḥ*": (it is) perceived, known, seen. "Uṣas gives us the strength of intellect so that we know everything and makes us possessed of the heart of knowledge; she makes everything known (visible) to the eye."
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–3 complete; Ṛk 4 through printed p. 24 (PDF 44) — Pada, bhāṣya, pratipadārtha, bhāvārtha, English, start of Special Topics (*sūnṛtā*, *acheti*). Next: printed p. 25 (PDF 45). Open: Pada word *āvaḥ* `[?]`; Ni. numerals `[?]`; Pā. numerals unnamed.
