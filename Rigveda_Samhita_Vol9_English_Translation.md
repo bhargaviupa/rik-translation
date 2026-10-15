@@ -6524,4 +6524,80 @@ In this Ṛk the word *anarvan* is used in the sense of 'one who is not under an
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–16 complete; Ṛk 17 through printed p. 273 (PDF 293): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*kārṣmeva*, *arvatā*, *śriyā*), grammar page begun (continues p. 274). Next: printed p. 274 (PDF 294). Open: numerals as read `[?]`; Skandasvāmin small type `[?]`.
+### Printed p. 274  (PDF 294; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page of Ṛk 17, concluded (noted briefly):* *nāsatyā* (*supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the vocative dual ending; nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *sacethe* (*ṣaca* "to be connected"; it is *svaritet*, hence by *svaritañitaḥ kartrabhiprāye kriyāphale*, Pā. 1-3-72 as read [?], *ātmanepada* when the fruit goes to the agent; *laṭ* 3rd dual *āthām*; *ṭita ātmanepadānāṃ ṭer e*, Pā. 3-4-79 as read [?], *e* for the *ṭi*; *śap* as *vikaraṇa*; *āto ṅitaḥ*, Pā. 7-2-81 as read [?], *iya* for the *ā*; *lopo vyor vali*, Pā. 6-1-66 as read [?], elision of the *y*; guṇa; the form *sacethe*; nighāta since a *tiṅ* follows an accented word). ‖ 17 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 18
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.18)**
+
+> यदयातं दिवोदासाय वर्तिर्भरद्वाजायाश्विना हयन्ता ।
+> रेवदुवाह सचनो रथो वां वृषभश्च शिंशुमारश्च युक्ता ॥ १८ ॥
+
+> *yadayātaṃ divodāsāya vartirbharadvājāyāśvinā hayantā |*
+> *revaduvāha sacano ratho vāṃ vṛṣabhaśca śiṃśumāraśca yuktā ‖ 18 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.18)**
+
+> यत् । अयातम् । दिवःऽदासाय । वर्तिः । भरत्ऽवाजाय ।
+> अश्विना । हयन्ता ।
+> रेवत् । उवाह । सचनः । रथः । वाम् । वृषभः । च । शिंशुमारः ।
+> च । युक्ता ॥ १८ ॥
+
+> *yat | ayātam | divaḥ 'dāsāya | vartiḥ | bharat 'vājāya |*
+> *aśvinā | hayantā |*
+> *revat | uvāha | sacanaḥ | rathaḥ | vām | vṛṣabhaḥ | ca | śiṃśumāraḥ |*
+> *ca | yuktā ‖ 18 ‖*
+
+### Printed p. 275  (PDF 295; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.18)**
+
+> हे अश्विनौ हयन्ता स्तुतिभिराहूयमानौ युवां भरद्वाजाय सम्भ्रियमाणहविर्लक्षणान्नाय यजमानाय दिवोदासायैतत्संज्ञाय राजर्षयेऽभीष्टं फलं दातुं वर्तिस्तदीयं गृहं यद्यदायातं । आगच्छतं तदानीं रेवद्धनयुक्तमन्नं वां युवयोः सचनः सेवनो रथ उवाह । तस्मै दिवोदासाय प्रापयामास । अपि च तस्मिन्रथे वृषभो ऽनड्वान् शिंशुमारो ग्राहश्च परस्परविरुद्धावपि स्वसामर्थ्यप्रकटनाय युक्तौ वाहनतया संयुक्तावास्ताम् ॥ दिवोदासाय । दिवश्च दासे षष्ठ्या आलुग्वक्तव्यः । का. ६-३-२१-२ । इत्यलुक् । दिवोदासादीनां छन्दस्यपसंख्यानमिति पूर्वपदाद्युदात्तत्वम् । भरद्वाजाय । भृञ् भरणे । अस्माद्यत्यनिशत्र [?] प्रत्ययः कर्मणि । शतुश्छन्दस्युभयथेत्यर्धधातुकत्वेन लसार्वधातुकानुदात्तत्वाभावात्प्रत्ययाद्युदात्तत्वं । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । हयन्ता । हय गतौ । कर्मणि लटो व्यत्ययेन शपि । बहुलं छन्दसीति सम्प्रसारणं । शपि गुणे छान्दसो ऽयादेशः । रेवत् । रयिशब्दान्मतुप् । रयेर्मतौ बहुलमिति सम्प्रसारणं । छन्दसीरः इति मतुपो वत्वम् । रयिशब्दाच्च । का. ६-१-१२३-१ । इति मतुप उदात्तत्वम् । सचनः । षच सेवने । अनुदात्तेत्त्वाच्च हलादेरिति युच् । युक्ता । सुपां सुलुगिति विभक्तेराकारः ॥
+
+> *he aśvinau hayantā stutibhirāhūyamānau yuvāṃ bharadvājāya sambhriyamāṇahavirlakṣaṇānnāya yajamānāya divodāsāyaitatsaṃjñāya rājarṣaye 'bhīṣṭaṃ phalaṃ dātuṃ vartistadīyaṃ gṛhaṃ yadyadāyātaṃ | āgacchataṃ tadānīṃ revaddhanayuktamannaṃ vāṃ yuvayoḥ sacanaḥ sevano ratha uvāha | tasmai divodāsāya prāpayāmāsa | api ca tasminrathe vṛṣabho 'naḍvān śiṃśumāro grāhaśca parasparaviruddhāvapi svasāmarthyaprakaṭanāya yuktau vāhanatayā saṃyuktāvāstām ‖ divodāsāya | divaśca dāse ṣaṣṭhyā ālugvaktavyaḥ | kā. 6-3-21-2 | ityaluk | divodāsādīnāṃ chandasyapasaṃkhyānamiti pūrvapadādyudāttatvam | bharadvājāya | bhṛñ bharaṇe | asmādyatyaniśatra [?] pratyayaḥ karmaṇi | śatuśchandasyubhayathetyardhadhātukatvena lasārvadhātukānudāttatvābhāvātpratyayādyudāttatvaṃ | bahuvrīhau pūrvapadaprakṛtisvaratvam | hayantā | haya gatau | karmaṇi laṭo vyatyayena śapi | bahulaṃ chandasīti samprasāraṇaṃ | śapi guṇe chāndaso 'yādeśaḥ | revat | rayiśabdānmatup | rayermatau bahulamiti samprasāraṇaṃ | chandasīraḥ iti matupo vatvam | rayiśabdācca | kā. 6-1-123-1 | iti matupa udāttatvam | sacanaḥ | ṣaca sevane | anudāttettvācca halāderiti yuc | yuktā | supāṃ sulugiti vibhakterākāraḥ ‖*
+
+*Sense (mine):* "O Aśvins, *hayantā* — being invited with praise — you, to *bharadvāja*, 'the one who maintains food (*vāja*)' — the sacrificer who prepares oblations in the form of food, Divodāsa, the royal sage of this name — when you went to the *vartiḥ*, the house, to give the desired fruit, then your *sacanaḥ* (serviceable) chariot *uvāha* — carried (and brought to that Divodāsa) *revat*, wealth-possessing food. Further, in that chariot a *vṛṣabha* (bull) and a *śiṃśumāra* (porpoise [or crocodile/*grāha*]), though mutually opposed, were yoked, to make manifest their own power, as vehicles."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinā* — O Aśvin deities; *hayantā* — you two who were called with praise; *bharadvājāya* — [to him] who gave oblations; *divodāsāya* — to the royal sage named Divodāsa (to give him the desired fruit); *vartiḥ* — [his] house; *yat* — when; *āyātam* — you went; *revat* — wealth-possessing (food); *vām* — of you; *sacanaḥ* — helpful; *rathaḥ* — chariot; *uvāha* — carried; *vṛṣabhaḥ ca* — the bull; *śiṃśumāraḥ ca* — and the porpoise; *yuktā* — were yoked together (by your power)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, you, who were called with praise, when you went to the house of the royal sage named Divodāsa, who had prepared oblations, to give the desired fruit, carried wealth-possessing food in your helpful chariot. (Then) a bull and a porpoise were yoked together to your chariot by your power."
+
+### Printed p. 276  (PDF 296; header "Maṃ. 1 A. 17 Sū. 116")
+
+**English Translation (as printed)**
+
+> When, Ashwins, being invited, you went to his dwelling, (to give due rewards) to Divodasa, offering oblations, then, your helping chariot conveyed (food and) treasure, and the bull and the porpoise were yoked together.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**भरद्वाजाय दिवोदासाय** — *Bharadvājāya divodāsāya* — "*sambhriyamāṇahavirlakṣaṇānnāya yajamānāya etatsaṃjñāya rājarṣaye*": "the royal sage named Divodāsa, to perform a sacrifice, collected the substances suitable for the sacrifice so that they might be useful in the rites, and invited the Aśvin deities. The Aśvin deities came to this king's house to fulfil his wish. When they came with their chariot yoked to a bull and a porpoise — an aquatic creature — these two creatures, naturally opposed to one another, worked with a single intention without quarrelling. Sāyaṇa explains that by this the greatness of the Aśvin deities is made manifest."
+
+**वर्तिः** — *Vartiḥ* — "Sāyaṇa explains the word *vartis* as 'house'; Skandasvāmin as '*vartanyā mārgeṇa*', 'by the road'. And accordingly —
+
+> दिवोदासाय इति पदस्य दिवोदासार्थं शम्बरवधे दिवोदासस्य साहाय्यं कर्तुं शम्बर इत्यसुरं निग्रहे [?] । तदेतत्कुत्सेनाप्युक्तम् —
+
+> *divodāsāya iti padasya divodāsārthaṃ śambaravadhe divodāsasya sāhāyyaṃ kartuṃ śambara ityasuraṃ nigrahe [?] | tadetatkutsenāpyuktam —*
+
+— for the word *divodāsāya*, for the sake of Divodāsa, in the killing of Śambara, to help Divodāsa, by subduing the Asura named Śambara: so he explains the meaning; and this is also said by Kutsa — saying that the ṛṣi Kutsa too tells this matter, he cites
+
+> याभिर्नुमामितिथिग्वं केशोजुवं दिवोदासं शम्बरहत्य आवतम् ।
+> (ऋ. सं. १-११२-१४ [as read; the first words printed doubtfully [?]])
+
+> *yābhirnumāmitithigvaṃ keśojuvaṃ divodāsaṃ śambarahatya āvatam |*
+> *(ṛ. saṃ. 1-112-14 [as read; the first words printed doubtfully [?]])*
+
+— this Ṛk. Likewise for *bharadvājāya* — to a man who praises [you] desiring wealth, the Aśvins having taken wealth, substance, for the sake of giving wealth to the king who prays to them — thus he explains."
+
+**दिवोदासाय** — *Divodāsāya* — "*Divodāsa* or *Divodāsa Atithigva* was a king, famed in the times of the Vedas, who was a very well-known king. He was the son of Vadhryaśva [as read], and again [the father of] Sudāsa …" *(continues on p. 277)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–17 complete; Ṛk 18 through printed p. 276 (PDF 296): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*bharadvājāya divodāsāya*, *vartiḥ*, *divodāsāya* — continues p. 277). Next: printed p. 277 (PDF 297). Open: numerals as read `[?]`; small type `[?]`.
