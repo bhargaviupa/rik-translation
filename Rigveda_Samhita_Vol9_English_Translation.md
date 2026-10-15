@@ -9927,4 +9927,45 @@ and this Ṛk:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–24 complete; Ṛk 25 through printed p. 413 (PDF 433): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar begun (continues p. 414). Next: printed p. 414 (PDF 434): end of Ṛk 25 grammar; then the colophon of Sūkta 117 (check) and Sūkta 118. Numerals as read (list stops at printed p. 380): Ni. 3-20, Pā. 3-1-80, 7-1-3, 3-1-52, 7-4-20 `[as read]`.
+### Printed p. 414  (PDF 434; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar of Ṛk 25, concluded (noted briefly; sūtra numbers as read):* *Kṛṇvantaḥ* — root *kṛvi hiṃsākaraṇayoś ca*; *idito num dhātoḥ* (Pā. 7-1-58 as read), *num* for the root; in the sense of *laṭ*, the suffix *śatṛ*; *dhinvikṛṇvyor a ca* (Pā. 3-1-80 as read), the suffix *u*; *a* is substituted for the root's final; *ato lopaḥ* (Pā. 6-4-48 as read), elision of the *a* because of *u*; *aci śnudhātubhruvāṃ…*, *acaḥ parasmin pūrvavidhau* (Pā. 1-1-57 as read), by the *sthānivadbhāva* the *guṇa* of the root's light penultimate, on account of *u*, does not occur; the word *kṛṇvat*; in the first case, plural, with *jas* following, since it is *ugit*, *num*. *Yuvabhyām* — since *prathamāyāś ca dvivacane bhāṣāyām* is stated [for] the common language only, the *a* substitution does not occur here. *Suvīrāsaḥ* — *śobhanā vīrā yeṣāṃ te suvīrāsaḥ*; with *jas* following, *āj jaser asuk* (Pā. 7-1-50 as read), the augment *asuk* for it; *vīravīryau ca* (Pā. 6-2-120 as read), the final member gets the initial acute. *Vidatham* — root *vida jñāne*; *ruvidibhyāṃ kit* [as read; *kithat*?], the suffix *atha*; since it is "as *kit*", *guṇa* of the root's light penultimate does not occur; by the suffix's initial acute, the middle acute accent. *Vadema* — root *vada vyaktāyāṃ vāci*; *vidhiliṅ*, first person plural; since it stands after an *ajanta*, the *nighāta* accent. ‖ 25 ‖
+
+**Colophon (Kannada, as printed):** "nūrahadinēḷaneya sūktavu mugidudu" — "The hundred-and-seventeenth Sūkta is ended."
+
+---
+
+## Sūkta 118 — *ā vāṃ ratho aśvinā śyenapatvā* (printed pp. 415–?)
+
+### Printed p. 415  (PDF 435; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**Heading (Kannada):** "nūrahadineṇṭaneya sūktavu" — "the hundred-and-eighteenth Sūkta."
+
+**Anukramaṇī (Sanskrit, as printed):**
+
+> आ वामेकादशर्चं शैतीयं [?] सूक्तं कक्षीवत आर्षं त्रैष्टुभमाश्विनम् । तथा चानुक्रान्तम् । आ वामेकादशेति ॥ पूर्वसूक्ताभ्यां सह प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+> *ā vāmekādaśarcaṃ śaitīyaṃ [?] sūktaṃ kakṣīvata ārṣaṃ traiṣṭubhamāśvinam | tathā cānukrāntam | ā vāmekādaśeti ‖ pūrvasūktābhyāṃ saha prātaranuvākāśvinaśastrayorukto viniyogaḥ ‖*
+
+*Sense:* "*ā vām* — a sūkta of eleven Ṛks, the [third (?) — printed *śaitīyam* [?]] sūkta; of the ṛṣi Kakṣīvān, Triṣṭubh, addressed to the Aśvins. The Anukramaṇī says '*ā vām ekādaśa*'. Its application, together with the two preceding sūktas, is stated in the Prātaranuvāka and the Aśvina-śastra."
+
+**Anuvāda (Kannada):** "This sūkta, *ā vāṃ rathaḥ*, is the third sūkta in the seventeenth anuvāka. It has eleven Ṛks. The ṛṣi of this sūkta is the one called Kakṣīvān. The deities are the Aśvins. The metre is Triṣṭubh. In the Anukramaṇikā it is said '*ā vām ekādaśa*', beginning thus. At the time of reciting the Prātaranuvāka mantras, the use of this sūkta, together with the preceding sūktas, is for the recitation of the Aśvina-śastra mantras."
+
+**सूक्त—११८ (Sūkta 118)**
+॥ मण्डल—१ ॥ अनुवाक—१७ ॥ सूक्त—११८ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—*(small numerals; read "19, 20" — as printed [?])* ॥
+*Number of Ṛks in the sūkta:* 11. *Ṛṣi:* Kakṣīvān Dairghatamasa Auśija. *Devatā:* the Aśvins. *Chandas:* Triṣṭubh.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.1)**
+
+> आ वां रथो अश्विना श्येनपत्वा सुमृळीकः स्ववाँ यात्वर्वाङ् ।
+> यो मर्त्यस्य मनसो जवीयान्त्रिवन्धुरो वृषणा वातरंहाः ॥ १ ॥
+
+> *ā vāṃ ratho aśvinā śyenapatvā sumṛḷīkaḥ svavā~ yātvarvāṅ |*
+> *yo martyasya manaso javīyāntrivandhuro vṛṣaṇā vātaraṃhāḥ ‖ 1 ‖*
+
+---
+
+**Progress note:** Sūkta 117 complete (25 Ṛks, printed pp. 308–414). Sūkta 118 begun: heading, Anukramaṇī, Anuvāda, Ṛk 1 Saṃhitā written (printed p. 415, PDF 435). Next: printed p. 416 (PDF 436): Sūkta 118 Ṛk 1 Pada onward. Numerals as read (list stops at printed p. 380): sūtra numbers on p. 414 `[as read]`; varga "19, 20" `[?]`.
