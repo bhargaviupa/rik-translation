@@ -8407,7 +8407,7 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 *Śravasyā* — *śravaṇīyāni sarvair jñātavyāni bhavanti*: "The meaning is: the works worthy of the Aśvins' praise, and the hymns also, are such as to be heard and known by all."
 
-*Rodasyoḥ* — *dyāvāpṛthivyātmanā vartamānayoḥ*: "The word *rodasī* is read among the twenty-one [?] names of heaven-and-earth (Ni. 3-30 [as read; ?]); hence the meaning is 'the two, heaven and earth'. The Nirukta author, weighing the meaning of the word *aśvinau*, begins with *tat ka āśvinau* (Ni. 12-1) and, saying '*dyāvāpṛthivyāv ity eke*', explains that the Aśvins are [in the form of] heaven and earth (earth and mid-air); and in saying '*ahorātrāv ity eke*', '*sūryācandramasāv ity eke*' (Ni. 12-1) he describes the nature of the Aśvins: [they are in the form of] earth and mid-air, of day and night, of the sun and moon — thus he sets up their all-pervasiveness. And the Taittirīya Saṃhitā, *ime aśvinā saṃvatsaro 'gnir vaiśvānaraḥ* (Tai. Saṃ. 5-4-?-? as read [?]), says that the Aśvins also have the form of Agni Vaiśvānara."
+*Rodasyoḥ* — *dyāvāpṛthivyātmanā vartamānayoḥ*: "The word *rodasī* is read among the four names of heaven-and-earth (Ni. 3-22); hence the meaning is 'the two, heaven and earth'. The Nirukta author, weighing the meaning of the word *aśvinau*, begins with *tat ka āśvinau* (Ni. 12-1) and, saying '*dyāvāpṛthivyāv ity eke*', explains that the Aśvins are [in the form of] heaven and earth (earth and mid-air); and in saying '*ahorātrāv ity eke*', '*sūryācandramasāv ity eke*' (Ni. 12-1) he describes the nature of the Aśvins: [they are in the form of] earth and mid-air, of day and night, of the sun and moon — thus he sets up their all-pervasiveness. And the Taittirīya Saṃhitā, *ime aśvinā saṃvatsaro 'gnir vaiśvānaraḥ* (Tai. Saṃ. 5-6-4-1), says that the Aśvins also have the form of Agni Vaiśvānara."
 
 *Pajrāsaḥ* — *aṅgirasāṃ gotrotpannāḥ*: "Both Skandasvāmin and Sāyaṇa give the word *pajra* the meaning 'the descendants of the Aṅgirasa ṛṣis'":
 
@@ -8421,7 +8421,7 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 — "In this Ṛk, for *pajriyeṇa*, the explanation *aṅgirasāṃ kule jātena* is given; so here *pajrāsaḥ* means the line of the Aṅgirasa ṛṣis, that is: sacrificers born in the line of the Aṅgirasa ṛṣis who perform sacrifices."
 
-*Sadanam* — *stotrasamīpe niveśanaṃ prasādanahetubhūtaṃ vā*: "The word *sadana* occurs among the hundred and one names of water (Ni. 1-?? [as read: 'ni. ೩-೩೪']); on account of its use it is used elsewhere with the meaning 'water'."
+*Sadanam* — *stotrasamīpe niveśanaṃ prasādanahetubhūtaṃ vā*: "The word *sadana* occurs among the hundred and one names of water (Ni. 2-24); on account of its use it is used elsewhere with the meaning 'water'."
 
 > कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतन्ति ।
 > त आववृत्रन्त्सदनादृतस्यादिद्घृतेन पृथिवी व्युद्यते ॥
@@ -8437,7 +8437,7 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 ### Printed p. 352  (PDF 372; header "Maṃ. 1 A. 17 Sū. 117")
 
-*Āṅgūṣam* — *āghoṣaṇīyam*: "Praise (*stuti*) that proclaims quality or fame; this is called by the word *śastra* in the sacrifice. The Nirukta author, explaining the word *āṅgūṣa* as 'a hymn recited loudly and clearly' — *āṅgūṣaḥ stomaḥ āghoṣaḥ* (Ni. 5-11 [as read; ?]) — quotes:
+*Āṅgūṣam* — *āghoṣaṇīyam*: "Praise (*stuti*) that proclaims quality or fame; this is called by the word *śastra* in the sacrifice. The Nirukta author, explaining the word *āṅgūṣa* as 'a hymn recited loudly and clearly' — *āṅgūṣaḥ stomaḥ āghoṣaḥ* (Ni. 5-12) — quotes:
 
 > एनाङ्गूषेण वयमिन्द्रवन्तोऽभि ष्याम वृजने सर्ववीराः ।
 > तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥
@@ -8447,21 +8447,21 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 > *tanno mitro varuṇo māmahantāmaditiḥ sindhuḥ pṛthivī uta dyauḥ ‖*
 > *(ṛ. saṃ. 1-106-1? [as read; last digits doubtful [?]])*
 
-*Brahma* — *mantrarūpaṃ stotram*: "The word *brahma* is read among the twenty-eight [?] names of wealth (Ni. 2-10 [as read; ?]); so it is used in the sense of 'wealth', but here it is said in the sense of 'hymn'."
+*Brahma* — *mantrarūpaṃ stotram*: "The word *brahma* is read among the twenty-eight names of wealth (Ni. 3-9 as the numeral list reads it); so it is used in the sense of 'wealth', but here it is said in the sense of 'hymn'."
 
 "In this Ṛk it is said that the Aśvins are of a nature to show favour and to bring auspiciousness (*kalyāṇa*) towards those of the Aṅgirasa family who praise them, and towards sacrificers; that because of the all-pervading nature that they have as the forms earth, mid-air, day and night, the moon and the sun, and because of their greatness, their power is spread everywhere, so that everyone ought to know their power, fame and the like and praise them; and also that the Aśvins should favour with food, strength and wealth those who know of the Aśvins and praise them, or who sacrifice to them and delight them with oblations."
 
-*Vājam* — *balam annaṃ vā*: "The word *vāja* is stated both among the names of food (Ni. 2-7 [as read]) and among the names of battle (Ni. 2-17 [as read]), so it has many meanings; here it is used in the sense of strength or food."
+*Vājam* — *balam annaṃ vā*: "The word *vāja* is stated both among the names of food (Ni. 3-9) and among the names of battle (Ni. 3-9 — both read thus in the numeral list, the second with its prefix lost), so it has many meanings; here it is used in the sense of strength or food."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar pages, noted briefly)**
 
-*Śravasyā* — *śravasi bhavāni śravasyāni*; *bhave chandasi* (Pā. 4-4-110), suffix *yat*; *tit svaritam* (Pā. 6-1-185 [as read]), the *svarita* accent; in the neuter *śi* substituted, giving the form; *śer chandasi bahulam* (Pā. 6-1-70 [as read]), elision of *śi*. *Sadanam* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the sense of location, suffix *lyuṭ*; *yuvoranākau*, *ana* substituted; *lititi* [as read], acute on the syllable before the suffix.
+*Śravasyā* — *śravasi bhavāni śravasyāni*; *bhave chandasi* (Pā. 4-4-110), suffix *yat*; *tit svaritam* (Pā. 6-1-185), the *svarita* accent; in the neuter *śi* substituted, giving the form; *śer chandasi bahulam* (Pā. 6-1-70), elision of *śi*. *Sadanam* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the sense of location, suffix *lyuṭ*; *yuvoranākau*, *ana* substituted; *liti* (Pā. 6-1-193), acute on the syllable before the suffix.
 
 ---
 
 ### Printed p. 353  (PDF 373; header "Aṣṭaka 1, Adhyāya 8, Varga …")
 
-*Pajrāsaḥ* — *pajra* + *jas*; *āj jaser asuk* (Pā. 7-1-50 [as read]), *asuk* as the augment for *jas*; the final *s* becomes *ru*, *visarga*. *Havante* — root *hvel spardhāyāṃ śabde ca*; *laṭ*, third person plural, *jha* replaced by *anta*; *śap* vikaraṇa; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *sārvadhātukārdhadhātukayoḥ*, *guṇa*; *av* substituted; *ato guṇe*, *pararūpa*; because the preceding *yat* is there, *nipātair yad yadi…* (Pā. 8-1-30 [as read]) prohibits *nighāta*; since the *lasārvadhātuka* is *anudātta* by the *upadeśa* after the verbal ending, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 [as read]), the root's accent remains. *Yātam* — root *yā prāpaṇe*, *adādi*; *loṭ* second person dual; by *cavāyoge prathamā* the *nighāta* is prohibited; by the suffix's accent, the final acute. *Iṣā* — instrumental singular form; *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168), acute on the case ending. *Viduṣe* — root *vida jñāne*; in the sense of *laṭ*, suffix *śatṛ*; *vider śatur vasuḥ* (Pā. 7-1-36 [as read]), *vasu* substituted; the word *vidvas*; dative singular, with a following case ending, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131 [as read]), *saṃprasāraṇa* of the *v*; *saṃprasāraṇāc ca*, *pūrvarūpa*; *śāsivasighasīnāṃ ca* (Pā. 8-3-60), *ṣatva* of the *s*; by the suffix's accent the vowel *u* is acute. ‖ 10 ‖
+*Pajrāsaḥ* — *pajra* + *jas*; *āj jaser asuk* (Pā. 7-1-50), *asuk* as the augment for *jas*; the final *s* becomes *ru*, *visarga*. *Havante* — root *hvel spardhāyāṃ śabde ca*; *laṭ*, third person plural, *jha* replaced by *anta*; *śap* vikaraṇa; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *sārvadhātukārdhadhātukayoḥ*, *guṇa*; *av* substituted; *ato guṇe*, *pararūpa*; because the preceding *yat* is there, *nipātair yad yadi…* (Pā. 8-1-30) prohibits *nighāta*; since the *lasārvadhātuka* is *anudātta* by the *upadeśa* after the verbal ending, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186), the root's accent remains. *Yātam* — root *yā prāpaṇe*, *adādi*; *loṭ* second person dual; by *cavāyoge prathamā* the *nighāta* is prohibited; by the suffix's accent, the final acute. *Iṣā* — instrumental singular form; *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168), acute on the case ending. *Viduṣe* — root *vida jñāne*; in the sense of *laṭ*, suffix *śatṛ*; *vider śatur vasuḥ* (Pā. 7-1-36), *vasu* substituted; the word *vidvas*; dative singular, with a following case ending, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131), *saṃprasāraṇa* of the *v*; *saṃprasāraṇāc ca*, *pūrvarūpa*; *śāsivasighasīnāṃ ca* (Pā. 8-3-60), *ṣatva* of the *s*; by the suffix's accent the vowel *u* is acute. ‖ 10 ‖
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.11)**
 
