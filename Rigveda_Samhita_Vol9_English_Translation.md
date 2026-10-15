@@ -7028,4 +7028,78 @@ and explains *jasuriṃ* as '*jastaṃ baddhaṃ kaṭṭalpaṭṭa*' [= bound,
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–21 complete; Ṛk 22 through printed p. 294 (PDF 314): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*avatāt*, *vāḥ*, *jasuraye*, *staryam*, *gām pipyathuḥ*, *śacībhiḥ…śayave* begun; continues p. 295). Next: printed p. 295 (PDF 315). Open: numerals as read `[?]`; small type `[?]`.
+### Printed p. 295  (PDF 315; header "Aṣṭaka 1, Adhyāya 8, Varga …")  [Special Topics of Ṛk 22, concluded]
+
+"… [Śayu had a barren cow]; the greatness of the Aśvin deities, who made it a milch cow, is described in both bhāṣyas. Skandasvāmin, saying 'the ṛṣi Kutsa too has said this matter', cites —
+
+> अथेनुं दस्रा स्तर्यं विषक्तामपिन्वतं शयवे अश्विना गाम् ।
+> (ऋ. सं. १-११२-३० [as read])
+
+> *athenuṃ dasrā staryaṃ viṣaktāmapinvataṃ śayave aśvinā gām |*
+> *(ṛ. saṃ. 1-112-30 [as read])*
+>
+> याभिर्धेनुमस्वं पिन्वथो नरा ताभिरू षु ऊतिभिरश्विनागतम् ॥
+> (ऋ. सं. १-११२-३ [as read])
+
+> *yābhirdhenumasvaṃ pinvatho narā tābhirū ṣu ūtibhiraśvināgatam ‖*
+> *(ṛ. saṃ. 1-112-3 [as read])*
+
+— these Ṛks. In these Ṛks it is described that the Aśvin deities, pleased with the *stotra* of men who praise them, do the same favour to all."
+
+**शयवे** — *Śayave* — "that the Aśvin deities protected this one is described in the Ṛks Ṛ. Saṃ. 1-112-?; 1-116-? ; 1-117-?; 1-118-? ; 1-?-? ; 6-?-? ; 10-?-? ; 10-40-? [as read; the numerals are small, partly illegible [?]]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 22; grammar page, noted briefly)**
+
+*ārcatkasya* (*ārcatkasya apatyam ārcatkaḥ*; *tasyāpatyam*, Pā. 4-1-92 as read [?], the suffix *aṇ*; *taddhiteṣv acām ādeḥ*, Pā. 7-2-117 as read [?], *vṛddhi* of the first vowel; the final accent from the suffix; genitive singular); *cakrathuḥ* (*ḍukṛñ* "to do"; *liṭ* 2nd dual; nighāta after an accented word); *pātave* (*pā* "to drink"; *tumarthe se-sen-ase-asen-kase-kasen-adhyai-adhyain-kadhyai-kadhyain-śadhyai-śadhyain-tavai-tavenkenaḥ*, Pā. 3-4-9 as read [?], the suffix *taven*; *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent; *kṛn mejantaḥ*, Pā. 1-1-39 as read [?], since it ends in *e* it is an *avyaya*); *jasuraye* (*jasu* "to injure"; *jasisahor urin*, Uṇ. 2-?? as read [?], the suffix *urin*; the word *jasuri*; as it is *nit*, first-syllable accent as before; dative singular).
+
+### Printed p. 296  (PDF 316; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page of Ṛk 22, concluded:* *staryam* (*stṝ* "to cover"; *strīyate ācchādyate prasavasāmarthyābhāvena iti starīḥ*; *avitrasvatantribhya īḥ*, Uṇ. 3-?? as read [?], this suffix; guṇa of the *ṛ* of the root, with *raparatva*; *am* follows; by *vā chandasi* the lengthening of the preceding vowel is optional, so *yaṇ* is substituted [*yaṇādeśa*]; *udāttasvaritayor yaṇaḥ svaritaḥ anudāttasya*, Pā. 8-2-4 as read [?], the following *anudātta* takes the *svarita*); *pipyathuḥ* (*pyāyī* "to grow"; although *ātmanepada*, in the *liṭ* *vyatyayo bahulam*, Pā. 3-1-85 as read [?], *parasmaipada*; 2nd dual *athus*; *liṭyajoś ca*, Pā. 6-1-29 as read [?], *pī* for the root; *dvirvacana* because of *liṭ*; *asaṃyogāl liṭ kit*, Pā. 1-2-5 as read [?], *kit*-hood of the suffix, so no guṇa; *iyaṅādeśa* being obtained, *aci śnudhātubhruvāṃ…*, but by *eranekāco 'saṃyogapūrvasya*, Pā. 6-4-82 as read [?], *yaṇ*; nighāta after an accented word). ‖ 22 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 23
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.23)**
+
+> अवस्यते स्तुवते कृष्णियाय ऋजूयते नासत्या शचीभिः ।
+> पशुं न नष्टमिव दर्शनाय विष्णाप्वं ददथुर्विश्वकाय ॥ २३ ॥
+
+> *avasyate stuvate kṛṣṇiyāya ṛjūyate nāsatyā śacībhiḥ |*
+> *paśuṃ na naṣṭamiva darśanāya viṣṇāpvaṃ dadathurviśvakāya ‖ 23 ‖*
+
+### Printed p. 297  (PDF 317; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.23)**
+
+> अवस्यते । स्तुवते । कृष्णियाय । ऋजुऽयते । नासत्या । शचीभिः ।
+> पशुम् । न । नष्टम्ऽइव । दर्शनाय । विष्णाप्वम् । ददथुः ।
+> विश्वकाय ॥ २३ ॥
+
+> *avasyate | stuvate | kṛṣṇiyāya | ṛju 'yate | nāsatyā | śacībhiḥ |*
+> *paśum | na | naṣṭam 'iva | darśanāya | viṣṇāpvam | dadathuḥ |*
+> *viśvakāya ‖ 23 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.23)**
+
+> अवस्यते अवनं रक्षणमात्मन इच्छते स्तुवते स्तुतिं कुर्वते कृष्णियाय । कृष्णो नाम कश्चित्तस्य पुत्राय ऋजूयते आर्जवमिच्छते विश्वकायेत्येतत्संज्ञाय ऋषये हे नासत्या युवां शचीभिरात्मीयैः कर्मभिर्विष्णाप्वं नाम विनष्टं पुत्रं दर्शनाय दर्शनार्थं ददथुः । दत्तवन्तौ । तत्र दृष्टान्तः । पशुं न नष्टमिव । इव उपमार्थीयः पूरकः । यथा कश्चिन्नष्टं पशुं स्वामिनो दृष्टिपथं प्रापयति तद्वत् ॥ अवस्यते । अवस्शब्दात्सुप आत्मनः क्यच् । कृष्णियाय । कृष्णशब्दादपत्यार्थे छान्दसो घः ॥ [small type; partly doubtful [?]]
+
+> *avasyate avanaṃ rakṣaṇamātmana icchate stuvate stutiṃ kurvate kṛṣṇiyāya | kṛṣṇo nāma kaścittasya putrāya ṛjūyate ārjavamicchate viśvakāyetyetatsaṃjñāya ṛṣaye he nāsatyā yuvāṃ śacībhirātmīyaiḥ karmabhirviṣṇāpvaṃ nāma vinaṣṭaṃ putraṃ darśanāya darśanārthaṃ dadathuḥ | dattavantau | tatra dṛṣṭāntaḥ | paśuṃ na naṣṭamiva | iva upamārthīyaḥ pūrakaḥ | yathā kaścinnaṣṭaṃ paśuṃ svāmino dṛṣṭipathaṃ prāpayati tadvat ‖ avasyate | avasśabdātsupa ātmanaḥ kyac | kṛṣṇiyāya | kṛṣṇaśabdādapatyārthe chāndaso ghaḥ ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "To Viśvaka, son of Kṛṣṇa — who *avasyate* (desires protection for himself), *stuvate* (praises), *ṛjūyate* (is wishing rectitude) — O Nāsatyas, you, by your own works, gave Viṣṇāpva, the lost son, for sight, *darśanāya*, for him to see; as one who brings a lost animal into the sight of its owner."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he nāsatyā* — O Nāsatyas; *avasyate* — desiring protection; *stuvate* — one who praises (you); *kṛṣṇiyāya* — the son of Kṛṣṇa; *ṛjūyate* — wishing for the straight path; *viśvakāya* — to Viśvaka; *viṣṇāpvam* — Viṣṇāpva by name (the lost son); *naṣṭam iva* — lost, as if he had gone astray; *paśum na* — as one brings back a lost animal; *darśanāya* — for sight; *śacībhiḥ* — by [your] works; *dadathuḥ* — you gave."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Nāsatyas, to Viśvaka, the son of Kṛṣṇa, who praised you, desiring your protection and the straight path, you, by your works, made visible again his lost son Viṣṇāpva, as one makes a lost animal visible [to its owner]."
+
+**English Translation (as printed)**
+
+> Nasatyas, by your acts you restored to Vishwaka, the son of Krishna, soliciting your protection, adoring you, and a lover of rectitude, his son Vishnapu, (welcome) to his sight as an animal that had been lost.
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–22 complete; Ṛk 23 through the printed English on p. 297 (PDF 317): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 298 (PDF 318) — Ṛk 23 Special Topics, grammar; then Ṛks 24–25 (the last of Sūkta 116; Sūkta 117 starts p. 308). Open: numerals as read `[?]`; Ṛ. refs on p. 295 partly illegible.
