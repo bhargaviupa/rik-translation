@@ -10260,4 +10260,54 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–3 complete; Ṛk 4 through printed p. 427 (PDF 447): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar follows (p. 428). Next: printed p. 428 (PDF 448). Numerals as read (list stops at printed p. 380): Ni. 3-26, 2-5 `[as read]`.
+### Printed p. 428  (PDF 448; header "Maṃ. 1 A. 17 Sū. 118")
+
+*(Special Topics of Ṛk 4, concluded)* "… by giving [them] the waters that rain, [we pray that] the Aśvins favour us with the food in the form of the oblation required for the sacrifices — this prayer is described here."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly; sūtra numbers as read)**
+
+*Śyenāsaḥ* — with *jas* following, *āj jaser asuk* (Pā. 7-1-50 as read), the augment *asuk*; likewise the *asuk* comes in these two words of the mantra [*yuktāsaḥ*, *śyenāsaḥ*]. *Vahantu* — root *vaha prāpaṇe*; *loṭ*, third person plural; *tiṅanta nighāta* accent. *Āśavaḥ* — the prefix *āṅ*; root *aśū vyāptau*; the *auṇādika* suffix *u*; by the suffix's accent, the final acute; nominative plural form. *Pataṅgāḥ* — root *gam̐ḷ gatau*; *gameḥ supi vācyam* (as read) [*gamer ḍaḥ supi*?], the suffix *khac*; *khac ḍit* [as read], since it is *ḍit*, the *ṭi* of the root is elided; the augment *mum* for the preceding. *Apturaḥ* — root *tura tvaraṇe*; when *ap* is the *upapada*, *kvip ca* (Pā. 3-2-76 as read), the suffix *kvip*; the word *aptur*; *gatikārakopapadāt kṛt*, the *kṛdanta* hind-part keeps its natural accent; nominative plural form. ‖ 4 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.5)**
+
+> आ वां रथं युवतिस्तिष्ठदत्र जुष्ट्वी नरा दुहिता सूर्यस्य ।
+> परि वामश्वा वपुषः पतङ्गा वयो वहन्त्वरुषा अभीके ॥ ५ ॥
+
+> *ā vāṃ rathaṃ yuvatistiṣṭhadatra juṣṭvī narā duhitā sūryasya |*
+> *pari vāmaśvā vapuṣaḥ pataṅgā vayo vahantvaruṣā abhīke ‖ 5 ‖*
+
+---
+
+### Printed p. 429  (PDF 449; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.5)**
+
+> आ । वाम् । रथम् । युवतिः । तिष्ठत् । अत्र । जुष्ट्वी । नरा ।
+> दुहिता । सूर्यस्य ।
+> परि । वाम् । अश्वाः । वपुषः । पतङ्गाः । वयः । वहन्तु । अरुषाः ।
+> अभीके ॥ ५ ॥
+
+> *ā | vām | ratham | yuvatiḥ | tiṣṭhat | atra | juṣṭvī | narā |*
+> *duhitā | sūryasya |*
+> *pari | vām | aśvāḥ | vapuṣaḥ | pataṅgāḥ | vayaḥ | vahantu | aruṣāḥ |*
+> *abhīke ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.5)** *(small type; read with some doubts)*
+
+> हे नरा नेतारावश्विनौ युवतिस्तरुणी सूर्यस्य दुहिता जुष्ट्वी प्रीता सती वां युवयोरत्रेमं रथमा तिष्ठत् । आरूढवती । तया सहितौ वां युवामश्वा अभीके गृहसमीपे तं रथं परि वहन्तु । परिप्रापयन्तु । कीदृशा अश्वाः । वपुषः । वपुरिति रूपस्य शरीरस्य वा नामधेयम् । तद्वन्तः । छान्दसो मत्वर्थीयस्य लोपः । पतङ्गा उत्पतनसमर्थाः वयो गच्छन्तः अरुषा आरोचमाना हिंसकरहिता वा । अत्र । इतराभ्योऽपि दृश्यन्त इति (पा. ५-३-१४ [as read [?]]) दृशिग्रहणादिदमः [?] सप्तम्यन्ताद्विभक्त्यर्थे त्रल्प्रत्ययः । जुष्ट्वी । जुषी प्रीतिसेवनयोः । औणादिकः क्त्वप्रत्ययः । वोतो गुणवचनादिति ङीष् ॥ [as read]
+
+> *he narā netārāvaśvinau yuvatistaruṇī sūryasya duhitā juṣṭvī prītā satī vāṃ yuvayoratremaṃ rathamā tiṣṭhat | ārūḍhavatī | tayā sahitau vāṃ yuvāmaśvā abhīke gṛhasamīpe taṃ rathaṃ pari vahantu | pariprāpayantu | kīdṛśā aśvāḥ | vapuṣaḥ | vapuriti rūpasya śarīrasya vā nāmadheyam | tadvantaḥ | chāndaso matvarthīyasya lopaḥ | pataṅgā utpatanasamarthāḥ vayo gacchantaḥ aruṣā ārocamānā hiṃsakarahitā vā | atra | itarābhyo 'pi dṛśyanta iti (pā. 5-3-14 [as read [?]]) dṛśigrahaṇādidamaḥ [?] saptamyantādvibhaktyarthe tralpratyayaḥ | juṣṭvī | juṣī prītisevanayoḥ | auṇādikaḥ ktvapratyayaḥ | voto guṇavacanāditi ṅīṣ ‖ [as read]*
+
+*Sense (mine):* "O leaders, Aśvins: the young woman (*yuvatiḥ*) daughter of Sūrya, pleased (*juṣṭvī*), mounted (*ā tiṣṭhat*) this chariot of yours. Together with her, may the horses bring your chariot all around (*pari vahantu*) to near our house (*abhīke*). What kind of horses? *Vapuṣaḥ* — having a fine form (*vapus* is the name for form or for body), [the possessive suffix being dropped in Vedic usage]; *pataṅgāḥ* — able to spring up; *vayaḥ* — going; *aruṣāḥ* — bright, or without harmfulness. *Atra* — *itarābhyo 'pi dṛśyante* [Pā. 5-3-14 as read [?]], from the word in the locative [*idam*], the suffix *tral* in the sense of the case-ending. *Juṣṭvī* — *juṣī prītisevanayoḥ*; an *auṇādika* suffix *ktvā*; *voto guṇavacanāt*, *ṅīṣ*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.5)** (Kannada, rendered)
+
+*He narā* — O Aśvins, leaders; *yuvatiḥ* — the young one; *sūryasya duhitā* — Sūrya's daughter (the woman Sūryā); *juṣṭvī* — pleased; *vām* — your; *atra ratham* — this chariot; *ā tiṣṭhat* — mounted (with her, yoked); *vapuṣaḥ* — [those] of fine bodies (of form); *pataṅgāḥ* — of the power of flying; *vayaḥ* — swift-going; *aruṣāḥ* — free of wrath (non-harmful); *vām* — your; *aśvāḥ* — horses; *abhīke* — to (our) neighbouring house; *pari vahantu* — let them bring (the chariot).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.5)** (Kannada, rendered)
+
+"O Aśvins! The young daughter of Sūrya, pleased, mounted your chariot. [With her] may your horses, of excellent form, of the power of flying, swift in going, and without harm (without hindrance), bring [your chariot] to the neighbourhood of our house."
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–4 complete; Ṛk 5 through printed p. 429 (PDF 449): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English, Special Topics and grammar follow (p. 430). Next: printed p. 430 (PDF 450). Numerals as read (list stops at printed p. 380): Pā. 5-3-14 `[?]`.
