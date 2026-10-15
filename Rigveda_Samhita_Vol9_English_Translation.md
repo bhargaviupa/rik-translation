@@ -7160,4 +7160,78 @@ and explains *jasuriṃ* as '*jastaṃ baddhaṃ kaṭṭalpaṭṭa*' [= bound,
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–23 complete; Ṛk 24 Saṃhitā, Pada and the opening of the bhāṣya written (printed p. 300, PDF 320; the bhāṣya continues on p. 301). Next: printed p. 301 (PDF 321). Then Ṛk 25 (last of Sūkta 116); Sūkta 117 starts p. 308. Open: numerals as read `[?]`; small type `[?]`.
+### Printed p. 301  (PDF 321; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya of Ṛk 24, concluded from p. 300:)* "… *aśivena* — by misery; *anavaddham* — bound; [Rebha, who was bound in the well by the Asuras]. Having thus been bound in the waters inside the well, *prvṛktam* — scorched, *viprutam* — immersed (*pluta*) — *Rebham*, the ṛṣi named Rebha, *udani*, in the water, *unninyathuḥ* — you raised up *sromam iva sruveṇa*: as the Adhvaryu, at the time of Agnihotra, with a ladle (*sruva*), draws up from a vessel the soma-juice [to offer into the fire] …" [the Sanskrit of the following portion: *yathāgnihotrahomārthamabhiṣutaṃ somarasaṃ kūpasadṛśe 'gnihotrasthālīmadhye vartamānaṃ sruveṇādhvaryur unnayati ūrdhvaṃ nayati tadvat*]; and then the grammar tail, in small type: *anavaddham* — *ṇah* "to bind", *niṣṭhā*, *kta*; *ṇaho dhaḥ*; *jhaṣas tathor dho 'dhaḥ*; *śnathitam* — *śnatha hiṃsārthaḥ*, *niṣṭhā*; *vipṛtam* — *pruj*… *gatau*; *anavaddham* [again]; *udani* — *padannomāsa…* [the substitute *udan* for *udaka*].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*apsu antaḥ* — inside the water (that was in the well); *aśivena* — by pain-causing (rope thrown by the Asuras); *anavaddham* — bound; *śnathitam* — injured; *daśa rātrīḥ* — ten nights; *nava dyūn* — nine days; *udani* — in the water; *viprutam* — immersed; *pravṛktam* — scorched; *rebham* — Rebha by name; *sruveṇa* — with a ladle (the Adhvaryu); *somam iva* — as soma-juice (when performing the Agnihotra, from the vessel [is drawn] upward); *unninyathuḥ* — you raised him up."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"You raised up from the well, as the Adhvaryu raises with a ladle the soma-juice out of a vessel at the time of Agnihotra, Rebha — who, thrown by the Asuras into the water in the well, bound with a pain-causing rope, injured, immersed for ten nights and nine days in the water, was scorched [with distress]."
+
+**English Translation (as printed)**
+
+> Ashwins, you raised up, like Soma in a ladle, Rebha, who for ten nights and nine days had lain (in a well), bound with tight bonds, wounded, immersed, and suffering distress from the water.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अशिवेन** — *Aśivena* — "*duḥkhahetunā dāmnā*": "'bound by a rope that is the cause of causing suffering': this is how Sāyaṇa explains the meaning of this Ṛk. The meaning stated in Skandasvāmin's bhāṣya is different, yet the general sense is the same. But Sāyaṇa tells this Itihāsa in full here. The meaning that Skandasvāmin's bhāṣya gives of this Itihāsa is understood from the explanations of the words of *āyuḥ*.
+
+### Printed p. 302  (PDF 322; header "Maṃ. 1 A. 17 Sū. 116")
+
+> पुरा खलु रेभमृषिं पार्श्वैर्बद्ध्वासुराः कूपे कस्यचिद्दिवसस्य सायंकाले प्राक्षिपुः । स चाश्विनौ स्तुवन् दशरात्रीर्नवाहानि च कूपमध्ये क्लेशेनावतस्थे । दशमेऽहनि प्रातरश्विनौ तं कूपात् उदतारयतामिति । तदाह ॥
+
+> *purā khalu rebhamṛṣiṃ pārśvairbaddhvāsurāḥ kūpe kasyaciddivasasya sāyaṃkāle prākṣipuḥ | sa cāśvinau stuvan daśarātrīrnavāhāni ca kūpamadhye kleśenāvatasthe | daśame 'hani prātaraśvinau taṃ kūpāt udatārayatāmiti | tadāha ‖*
+
+— 'The Asuras, having bound the ṛṣi named Rebha at the sides, threw him into a well at evening of a certain day. He remained in the middle of the well in distress for ten nights and nine days, praising the Aśvins. On the tenth day in the morning the Aśvins brought him out of the well. This is said.' In Kannada: a ṛṣi named Rebha was bound by the Asuras with ropes and thrown into a well at evening of a day. He lay in the water inside the well with his hands and feet bound for nine days, or ten nights, praising the Aśvin deities. Then on the tenth day, in the morning, the Aśvin deities came, lifted him out of the well and protected him. This Itihāsa is told here.
+
+"Skandasvāmin:
+
+> अशिवेन । शिवं सुखम् । केशो ऽन्यादृशिवं दुःखं । तत्र ये रक्षः अशिवा उच्यन्ते । समूहाभिप्रायं च एकवचनं दुःखकरेण असुरसमूहेन ॥
+
+> *aśivena | śivaṃ sukham | keśo 'nyādṛśivaṃ duḥkhaṃ | tatra ye rakṣaḥ aśivā ucyante | samūhābhiprāyaṃ ca ekavacanaṃ duḥkhakareṇa asurasamūhena ‖*
+
+— '*śiva* is happiness; the opposite of it is *aśiva*, pain. Those who cause it, the Rākṣasas, are called *aśivāḥ*. The singular is used with the idea of a group: *duḥkhakareṇa asurasamūhena*, by a company of Asuras who cause pain.' *Śiva* means 'happiness'; what is distinct from happiness, the opposite of happiness, is pain. The Asuras, the cause of pain, are denoted by the word *aśiva*. The singular is used here with the meaning of a collection: the sense is 'by many Asuras, a group of causers of pain'."
+
+**श्नथितम्** — *Śnathitam* — "*śatrubhir hiṃsitam*": "hurt by enemies — so Sāyaṇa; Skandasvāmin explains: 'struck' (*tāḍitam*), 'beaten' (*kuḍiyalpaṭṭavan*)."
+
+**प्रवृक्तम्** — *Pravṛktam* — "*prayajanena santaptaṃ ghṛmam iva vyathayā saṃtapyamānam*" [as read; small type]: "scorched, like a hot vessel (*gharma*) by distress. Because he had been immersed in the water for ten nights, he was in distress like a person scorched by the heat of fire: so Sāyaṇa explains — [the root] *vṛjī vārjane*; Skandasvāmin explains it as *nimagnam* (immersed), since the root *vṛj* conveys the sense of 'to submerge' (*majjana*); the one who is immersed."
+
+**विप्रुतम्** — *Viprutam* — "*vyākṣiptasarvāṅgam*: whose limbs are all scattered about (as the limbs were not able to be used properly, because of being tightly bound). Skandasvāmin: '*āpāṃ madhye karmabhiḥ vigataṃ rahitaṃ niṣkleśyam*': 'in the middle of the waters one deprived of the power to do work, who is lying helpless': he explains that the Aśvin deities lifted Rebha, in this state, out of the well."
+
+**सोममिव स्रुवेण** — *Somam iva sruveṇa* — "*yathā kaścit sruveṇa somam unnayati tadvat*: as one draws up soma with a ladle; by the word *sruva* — because of the similarity of the *camasa* and other soma-vessels — [the sense is:] as the soma-juice is raised up. Or
+
+### Printed p. 303  (PDF 323; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+the Kātyāyana-ites [?], those who study the Yajurveda — *kaṭhaśākhins* — desiring *brahmavarcasa*, do homa of the soma-juice into the Agnihotra fire. The simile [is explained]: 'as soma-juice is raised up with the ladle' — here the comparison is stated, with the intention that they offer the soma-juice. By this simile the *camasa* and other vessels are indicated. When performing this homa, the *camasa*, *sruva*, *iḍā* and other sacrificial vessels are necessary; therefore, as the soma-juice in the *camasa* vessel is raised with the ladle for the time of homa, so Rebha was lifted from the well: this example is shown.
+
+> अश्वं न गूळ्हमश्विना दुरेवैर्ऋषिं नरा वृषणा रेभमप्सु ।
+> सं तं रिणीथो विप्रुतं दंसोभिर्न वां जूर्यन्ति पूर्व्या कृतानि ॥
+> (ऋ. सं. १-११२-५ [as read; as printed here; the first pāda reads *aśvaṃ na gūḷham aśvinā durevaiḥ*… [?]])
+
+> *aśvaṃ na gūḷhamaśvinā durevairṛṣiṃ narā vṛṣaṇā rebhamapsu |*
+> *saṃ taṃ riṇītho viprutaṃ daṃsobhirna vāṃ jūryanti pūrvyā kṛtāni ‖*
+> *(ṛ. saṃ. 1-112-5 [as read; as printed here; the first pāda reads *aśvaṃ na gūḷham aśvinā durevaiḥ*… [?]])*
+>
+> याभी रेभं निवृतं सितमद्भ्य उद्वन्दनमैरयतं स्वर्दृशे ।
+> याभिः कण्वं प्र सिषासन्तमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-५ [as read; the number printed as 1-112-5 also above [?]])
+
+> *yābhī rebhaṃ nivṛtaṃ sitamadbhya udvandanamairayataṃ svardṛśe |*
+> *yābhiḥ kaṇvaṃ pra siṣāsantamāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-5 [as read; the number printed as 1-112-5 also above [?]])*
+
+— in these Ṛks too the protection of the ṛṣi Rebha by the Aśvin deities is described."
+
+**रेभम्** — *Rebham* — "that the Aśvin deities protected Rebha is stated in the Ṛks Ṛ. Saṃ. 1-112-5 ; 1-116-24 ; 1-117-4 ; 1-117-5 ; 1-118-6 ; 10-39-9 [as read; the numerals partly legible [?]]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 24; grammar page, noted briefly)**
+
+*aśivena* (*na śivam aśivam*; *tatpuruṣe tulyārthatṛtīyā…*, Pā. 6-2-2 as read [?], the first member, an *avyaya*, keeps its accent); *daśa*, *nava* (these end in *n* and denote numbers; *nr-saṃkhyāyoḥ* [*triṃśat…*] Phiṭ-sūtra as read [?], first-syllable accent); *anavaddham* (*ṇah* "to bind"; *niṣṭhā*, *kta*, Pā. 3-2-102 as read [?]; *no ṇaḥ*, Pā. 6-1-65 as read [?], *ṇatva*…; *naho dhaḥ*, Pā. 8-2-34 as read [?], *dh* for the root's *h*; with a *jhaṣ* after, *t* arises; *jhaṣas tathor dho 'dhaḥ*, Pā. 8-2-40 as read [?], *dh* for the *t* of the suffix; *jhalāṃ jaś jhaśi*, Pā. 8-4-53 as read [?] …
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–23 complete; Ṛk 24 through printed p. 303 (PDF 323): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*aśivena*, *śnathitam*, *pravṛktam*, *viprutam*, *somam iva sruveṇa*, *rebham*), grammar begun (continues p. 304). Next: printed p. 304 (PDF 324). Then Ṛk 25 (last). Open: Ṛ. 1-112-5 printed for two Ṛks (as printed) `[?]`; numerals as read.
