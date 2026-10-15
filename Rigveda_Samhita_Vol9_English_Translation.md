@@ -9633,4 +9633,46 @@ and, having quoted this Ṛk: *manuṣaśabdo 'tra manoḥ paryāyaḥ | manunā
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–21 complete; Ṛk 22 through printed p. 401 (PDF 421): all parts done except the continuation of Special Topics and grammar (p. 402). Next: printed p. 402 (PDF 422). Numerals as read (list stops at printed p. 380): Ṛ. 1-116-12.
+### Printed p. 402  (PDF 422; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 22, continued)*
+
+> इच्छन्नश्वस्य यच्छिरः पर्वतेष्वपश्रितम् ।
+> तद्विदच्छर्यणावति ॥
+> (ऋ. सं. १-८४-१३)
+
+> *icchannaśvasya yacchiraḥ parvateṣvapaśritam |*
+> *tadvidaccharyaṇāvati ‖*
+> *(ṛ. saṃ. 1-84-13)*
+
+"*Ātharvaṇāya dadhīce āthavarṇaḥ putrāya dadhyañnāmne maharṣaye aśvasambandhi śiraḥ pratyairayetam pratyadhattam* — the story is told thus: the Aśvins, cutting off the human head of the ṛṣi called Dadhyañc, the son of Atharvan, and joining a horse's head to him, taught him the honey-knowledge (*madhuvidyā*) given by Indra."
+
+*Tvāṣṭram* — *tvaṣṭur indrāl labdham*: "The honey-knowledge was manifested by Indra himself — thus the greatness of the honey-knowledge and the secret of it are told." Skandasvāmin:
+
+> त्वष्टेत्यत्र इन्द्र उच्यते । शत्रूणां तनूकर्तृत्वात् । त्वाष्ट्रं यदिति अश्वशिरसो विशेषणं न ब्रह्मणः । युवाभ्यां शर्यणावति निहितं शत्रूणां तनूकर्त्रा इन्द्रेण दृष्टं यच्छिरः गुह्यमसि युवयोः ॥ [as read; small type, doubtful [?]]
+
+> *tvaṣṭetyatra indra ucyate | śatrūṇāṃ tanūkartṛtvāt | tvāṣṭraṃ yaditi aśvaśiraso viśeṣaṇaṃ na brahmaṇaḥ | yuvābhyāṃ śaryaṇāvati nihitaṃ śatrūṇāṃ tanūkartrā indreṇa dṛṣṭaṃ yacchiraḥ guhyamasi yuvayoḥ ‖ [as read; small type, doubtful [?]]*
+
+"[He says that] the word *tvāṣṭra yat* is an adjective of the horse's head, not of *brahma*. The word *tvaṣṭṛ* means Indra: he who makes his enemies thin (*tanūkaraṇa*, destroys). Indra, having cut off the head of the ṛṣi Dadhīca, hid it where none should know (also from the Aśvins), and the Aśvins came to know the secret — so they explain. Sāyaṇa makes the word *tvāṣṭram* an adjective of the word *kakṣyam*: *tvaṣṭur indrāl labdhaṃ — bhinnasya yajñaśiraḥ kakṣapradeśena punaḥsandhānabhūtaṃ pravargyavidyākhyaṃ rahasyam*: 'the secret called the *Pravargya* knowledge, a re-joining of the cut head of the sacrifice at the *kakṣa* region; from Tvaṣṭṛ, Indra, [from] Indra, Dadhīca received the honey-knowledge. The *Pravargya* secret is what makes the broken head of the sacrifice rejoin.'"
+
+*Ṛtāyan* — *pravargyavidyāṃ madhuvidyāṃ ca vakṣyāmīti purā kṛtāṃ pratijñāṃ satyāṃ kartum icchan*: "'To make true the promise made before: "I will teach you the *Pravargya* knowledge and the honey-knowledge"' — so Sāyaṇa takes the word *ṛta* in the sense of 'truth'. Skandasvāmin [says]: *ṛtam ātmana icchan* — [formed with] *supa ātmanaḥ kyac* [Pā. 3-1-8], the suffix *kyac*; *pareccāyām* …":
+
+> त्वं नस्सोम विश्वतो रक्षा राजन्नघायतः । न रिष्येत्त्वावतः सखा ॥
+> (ऋ. सं. १-९१-९ [as read [?]])
+
+> *tvaṃ nassoma viśvato rakṣā rājannaghāyataḥ | na riṣyettvāvataḥ sakhā ‖*
+> *(ṛ. saṃ. 1-91-9 [as read [?]])*
+
+*Iti yathā* — "*ṛtam* [means] truth; and he says, *tad eva brahma tad vāṃ yor icchan* — 'wishing to teach you that very *brahma* (the knowledge of Brahman)': 'I shall teach you the Brahma-knowledge' — the meaning he explains."
+
+---
+
+### Printed p. 403  (PDF 423; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 22; grammar page, noted briefly; sūtra numbers as read)**
+
+*Ātharvaṇāya* — *atharvaṇaḥ apatyaṃ pumān ātharvaṇaḥ*; *tasyāpatyam* (Pā. 4-1-92 as read), the suffix *aṇ* in the sense of "offspring"; *taddhiteṣv acām ādeḥ* (Pā. 7-2-117 as read), *vṛddhi* of the initial; *an* (Pā. 6-4-167 as read), *prakṛtibhāva*, so the elision of the *ṭi* part does not occur; by the suffix's accent the final acute. *Dadhīce* — *dadhi* as the *upapada*, the root *añcu gatipūjanayoḥ*, to it *ṛtvigdadhṛk…* (Pā. 3-2-59 as read), the suffix *kvin*; *anidītāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24 as read), elision of the penultimate nasal; dative singular with a following case ending, it has the name *bha*, so *acaḥ* (Pā. 6-4-138 as read), elision of the *a* of the root; *cau* (Pā. 6-3-138 as read), the preceding is lengthened when the root's *añcu* with elided *n* (an *a*-ending) follows; the case ending being *anudātta*, the *udātta*-vowel of the root having been elided, *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161 as read), the acute on the case ending is attained; this being excepted, *cau* (Pā. 6-1-222 as read), the acute on the former [syllable] is attained; but by the exception to that, *añceś chandasy asarvanāmasthānam* (Pā. 6-1-170 as read), the acute is again on the case ending. *Aśvyam* — *aśvasya sambandhi aśvyam*; *bhave chandasi* (Pā. 4-4-110), the suffix *yat*; *yasyeti ca*, elision of the *a*; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute. *Airayatam* — root *īra gatau kampane ca*; after the *ṇijanta*, *laṅ*, second person dual; since it stands after an *ajanta*, the *nighāta* accent. *Vocat* — root *vaca paribhāṣaṇe*; *luṅ*, third person singular, suffix *tip*; *iteś ca*, elision of the *ī*; *asyatiivakti-khyātibhyo 'ṅ* (Pā. 3-1-52 as read), *aṅ* substituted for *cli*; *vaca um* (Pā. 7-4-20 as read), the augment *um* …
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–21 complete; Ṛk 22 through printed p. 403 (PDF 423): Special Topics done; grammar begun (continues p. 404). Next: printed p. 404 (PDF 424). Numerals as read (list stops at printed p. 380): Ṛ. 1-84-13, 1-91-9 `[?]`; sūtra numbers `[as read]`.
