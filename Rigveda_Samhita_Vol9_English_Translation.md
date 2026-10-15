@@ -11726,4 +11726,62 @@ and (Sanskrit as printed, small type, continuing on p. 489):
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–9 complete (printed p. 491, PDF 511). Next: printed p. 492 (PDF 512): Ṛk 10 (the last of the sūkta) Saṃhitā, then the colophon of Sūkta 119 and Sūkta 120. Numerals as read (no numeral list covers these pages): Ṛ. 1-116-12; sūtra numbers on pp. 490–491 `[as read]`.
+### Printed p. 492  (PDF 512; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.10)**
+
+> युवं पेदवे पुरुवारमश्विना स्पृधां श्वेतं तरुतारं दुवस्यथः ।
+> शर्यैरभिद्युं पृतनासु दुष्टरं चर्कृत्यमिन्द्रमिव चर्षणीसहम् ॥ १० ॥
+
+> *yuvaṃ pedave puruvāramaśvinā spṛdhāṃ śvetaṃ tarutāraṃ duvasyathaḥ |*
+> *śaryairabhidyuṃ pṛtanāsu duṣṭaraṃ carkṛtyamindramiva carṣaṇīsaham ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.10)**
+
+> युवम् । पेदवे । पुरुऽवारम् । अश्विना । स्पृधाम् । श्वेतम् ।
+> तरुतारम् । दुवस्यथः ।
+> शर्यैः । अभिऽद्युम् । पृतनासु । दुस्तरम् । चर्कृत्यम् ।
+> इन्द्रम्ऽइव । चर्षणिऽसहम् ॥ १० ॥
+
+> *yuvam | pedave | puru 'vāram | aśvinā | spṛdhām | śvetam |*
+> *tarutāram | duvasyathaḥ |*
+> *śaryaiḥ | abhi 'dyum | pṛtanāsu | dustaram | carkṛtyam |*
+> *indram 'iva | carṣaṇi 'saham ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.10)** *(small type; read with some doubts)*
+
+> अश्विना हे अश्विनौ पेदवे पेदुनाम्ने राज्ञे पुरुवारं बहुभिर्वरणीयं स्पृधां संग्रामे स्पर्धमानानां शत्रूणां तरुतारं तारकं श्वेतं शुभ्रवर्णमिन्द्रलब्धमश्वं युवं युवां दुवस्यथः । दत्त्वन्तौ [?] । पुनरपि कीदृशम् । शर्यैः । शीर्यन्ते इति शर्या योद्धारः । तैः पृतनासु संग्रामेषु दुस्तरं तरीतुमशक्यमभिद्युमभिगतदीप्तिं चर्कृत्यं सर्वेषु कार्येषु पुनःपुनः प्रयोज्यं इन्द्रमिव चर्षणीसहं इन्द्रो यथा शत्रूनभिभवति एवं शत्रुजनानामभिभवितारमित्यर्थः ॥ स्पृधाम् । स्पर्ध संघर्षे । क्विप्चेति क्विप् । चकारेण दृशिग्रहणानुकर्षणात्तस्य च विध्यन्तलोपसंग्रहार्थत्वादेकारस्य लोपो रेफस्य च संप्रसारणम् । सावेकाच इति विभक्तेरुदात्तत्वम् । तरुतारम् । तॄ प्लवनतरणयोः । अस्मात्तृचि ग्रसितस्कभितस्तभितेत्यादौ निपातनाद्रुपसिद्धिः । चर्कृत्यम् । करोतेर्यङ्लुगन्ताद्भाषायां कृवृषोरिति क्यप् । ततस्तुक् ॥ [as read]
+
+> *aśvinā he aśvinau pedave pedunāmne rājñe puruvāraṃ bahubhirvaraṇīyaṃ spṛdhāṃ saṃgrāme spardhamānānāṃ śatrūṇāṃ tarutāraṃ tārakaṃ śvetaṃ śubhravarṇamindralabdhamaśvaṃ yuvaṃ yuvāṃ duvasyathaḥ | dattvantau [?] | punarapi kīdṛśam | śaryaiḥ | śīryante iti śaryā yoddhāraḥ | taiḥ pṛtanāsu saṃgrāmeṣu dustaraṃ tarītumaśakyamabhidyumabhigatadīptiṃ carkṛtyaṃ sarveṣu kāryeṣu punaḥpunaḥ prayojyaṃ indramiva carṣaṇīsahaṃ indro yathā śatrūnabhibhavati evaṃ śatrujanānāmabhibhavitāramityarthaḥ ‖ spṛdhām | spardha saṃgharṣe | kvipceti kvip | cakāreṇa dṛśigrahaṇānukarṣaṇāttasya ca vidhyantalopasaṃgrahārthatvādekārasya lopo rephasya ca saṃprasāraṇam | sāvekāca iti vibhakterudāttatvam | tarutāram | tṝ plavanataraṇayoḥ | asmāttṛci grasitaskabhitastabhitetyādau nipātanādrupasiddhiḥ | carkṛtyam | karoteryaṅlugantādbhāṣāyāṃ kṛvṛṣoriti kyap | tatastuk ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, to King Pedu you two *duvasyathaḥ* — gave [reverently] a *śvetam* — white-coloured horse received from Indra, *puruvāram* — desired by many, *spṛdhām tarutāram* — the bearer-across of enemies who contend in battle; furthermore: *śaryaiḥ* — [*śarya* is a warrior, from *śṝ*] by warriors, *pṛtanāsu* — in battles, *dustaram* — impossible to cross over; *abhidyum* — of radiant lustre; *cakṛtyam* — to be used again and again in all affairs; *indram iva carṣaṇīsaham* — as Indra overcomes enemies, so a vanquisher of enemy hosts."
+
+---
+
+### Printed p. 493  (PDF 513; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar tail of the bhāṣya, small type: *tarutāram* [*tṝ plavanataraṇayoḥ*, suffix *tṛc*; irregular by *grasitaskabhita…*], *cakṛtyam* [from *kṛ* + *yaṅluk*; *kṛvṛṣoḥ*, *kyap*; augment *tuk*] — characterized, not transcribed.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.10)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *pedave* — to the king named Pedu; *puruvāram* — desired by many; *spṛdhām* — of enemies who contend (in battle); *tarutāram* — a bearer-across (the victorious); *śaryaiḥ* — by warriors; *pṛtanāsu* — in battles; *dustaram* — unconquerable; *abhidyum* — of radiant lustre; *cakṛtyam* — to be used again and again (in all works); *indram iva* — like Indra; *carṣaṇīsaham* — a defeater of enemies; *śvetam aśvam* — a white horse; *yuvam* — you two; *duvasyathaḥ* — gave.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.10)** (Kannada, rendered)
+
+"O Aśvins! To Pedu you gave a white-coloured horse — desired by many, a bearer-across of enemies, unconquerable in battle by foes (to be used again and again in all works), like Indra a bringer of defeat to enemies, and of radiant lustre."
+
+**English Translation (as printed)**
+
+"Aswins, you gave to Pedu the white (horse) desired by many, the breaker-through of combatants, shining, unconquerable by foes in battle, fit for every work; like Indra, the conqueror of men."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 10)**
+
+"The Aśvins gave to the king named Pedu a white horse, which Indra had given them as a gift."
+
+*Puruvāram* — *bahubhir varaṇīyam*: "'desirable by many people' say Sāyaṇa and Skandasvāmin, who explain what Sāyaṇa said; *śatrūṇāṃ vārayitāraṃ* — 'it keeps enemies off; [one who] holds enemies back and protects [its owner] from them' is the meaning."
+
+*Spṛdhāṃ tarutāram* — *saṅgrāmanāmakāṃ nistarītāram*: "'one that brings victory in battles' is Skandasvāmin's exposition; since the word *spṛdh* is stated among the names of battle (Ni. 2-7 [as read]), *spṛdh* means 'battle' — so the Nirukta author explains: *saṅgrāme spardhamānānāṃ śatrūṇām* …" *(continues on p. 494)*
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–9 complete; Ṛk 10 (the last) through printed p. 493 (PDF 513): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 494). Next: printed p. 494 (PDF 514). Numerals as read: Ni. 2-7 `[as read]`.
