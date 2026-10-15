@@ -888,7 +888,7 @@ Grammar page on *bhāsvatī* (*bhās* + *matup*, *ma* → *va* by *mādupadhāy�
 
 **॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
 
-**मघोनी** — *Maghonī* — "dhanavatī uṣāḥ": the word *magha*, among the twenty-eight [?] names of wealth beginning with *dhana* (Ni. 2-10 as printed [?]), is stated; so *magha* means wealth. "Because she has wealth, '*dhanavatī uṣāḥ*'," Sāyaṇa says. In the mantra "*nūnaṃ sā te prati varaṃ jaritre duhīyad indra dakṣiṇā maghonī*" (Ṛ. Saṃ. 3-11-3? [?], numerals unclear) too, for the word *maghonī* Yāska explains (Ni. 1-7 as printed [?]): "*magham iti dhananāmadheyaṃ maṃhater dānakarmaṇaḥ*" ("*magha* is a name for wealth, from *maṃh*, giving"). The word *magha* is stated among the sixteen names of Uṣas (Ni. 3-19 as printed [?]).
+**मघोनी** — *Maghonī* — "dhanavatī uṣāḥ": the word *magha*, among the twenty-eight [?] names of wealth beginning with *dhana* (Ni. 2-10 as printed [?]), is stated; so *magha* means wealth. "Because she has wealth, '*dhanavatī uṣāḥ*'," Sāyaṇa says. In the mantra "*nūnaṃ sā te prati varaṃ jaritre duhīyad indra dakṣiṇā maghonī*" (Ṛ. Saṃ. 2-11-21 as read on the clearer printing of the same Ṛk on p. 38; the first reading "3-11-3?" on p. 29 was unclear) too, for the word *maghonī* Yāska explains (Ni. 1-7 as printed [?]): "*magham iti dhananāmadheyaṃ maṃhater dānakarmaṇaḥ*" ("*magha* is a name for wealth, from *maṃh*, giving"). The word *magha* is stated among the sixteen names of Uṣas (Ni. 3-19 as printed [?]).
 
 **जिह्मश्ये चरितवे** — *Jihmaśye caritave:* "*jihmaṃ śete iti jihmaśīḥ*": the word *jihma* means "crooked". He who lies curled up by throwing his hands and feet is *jihmaśī*. Thus Uṣas creates enthusiasm, so that a desire arises that the man who is lying curled up, from laziness, should go about.
 
@@ -1064,4 +1064,62 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–6 complete (through printed p. 36, PDF 56); Ṛk 7 Saṃhitā and Pada written. Next: printed p. 37 (PDF 57) — Ṛk 7 bhāṣya etc. Open: Uṇ./Pā. numerals unnamed; ōnly small numerals in header varga "3" `[?]`.
+### Printed p. 37  (PDF 57; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.7)**
+
+> दिवो दुहिता व्योम्नो दुहितृस्थानीया । तस्य हि पूर्वार्धे उषा उत्पद्यते । सैषा व्युच्छन्ती तमो वर्जयन्ती प्रत्यदर्शि सर्वैः प्राणिभिर्दृष्टाभूत् । कीदृशी सा । युवतिर्योवयित्री फलानां पुरुषैः प्रापयित्री नित्ययौवनोपेता वा शुक्रवासाः श्वेतवसना निर्मलदीप्तिर्वा तथा विश्वस्य सर्वस्य पार्थिवस्य पृथिव्याः संबन्धिनो वस्वो धनस्येशानेश्वरी । हे सुभगे शोभनधने उषः तादृशी त्वमद्यास्मिन्काले इहास्मिन्देवयजनदेशे व्युच्छ । तमांसि विवासय । वर्जयेत्यर्थः ॥
+
+> *divo duhitā vyomno duhitṛsthānīyā | tasya hi pūrvārdhe uṣā utpadyate | saiṣā vyucchantī tamo varjayantī pratyadarśi sarvaiḥ prāṇibhirdṛṣṭābhūt | kīdṛśī sā | yuvatiryovayitrī phalānāṃ puruṣaiḥ prāpayitrī nityayauvanopetā vā śukravāsāḥ śvetavasanā nirmaladīptirvā tathā viśvasya sarvasya pārthivasya pṛthivyāḥ saṃbandhino vasvo dhanasyeśāneśvarī | he subhage śobhanadhane uṣaḥ tādṛśī tvamadyāsminkāle ihāsmindevayajanadeśe vyuccha | tamāṃsi vivāsaya | varjayetyarthaḥ ‖*
+
+*Sense (mine):* "*Divo duhitā* — like a daughter of the sky (*vyoman*); for in the eastern part of it Uṣas is born. This Uṣas, dispelling (*vyucchantī*) the darkness, *pratyadarśi* — has come into view of all beings. What is she like? *Yuvatiḥ* — she who unites (*yāvayitrī*) men with the fruits [of their works], or one with ever-fresh youth; *śukravāsāḥ* — white-robed, or of spotless splendour; and *īśānā* — the mistress — of all (*viśvasya*) earthly (*pārthivasya*) wealth (*vasvaḥ*). O *subhage*, possessed of fine wealth, Uṣas, such as thou art, to-day, here, in this place of sacrifice, *vyuccha* — dispel the darkness, drive it away, is the sense."
+
+*Grammatical tail (characterized, not transcribed):* *divaḥ* (the accent of the ending by the rule *ūḍidam*…); *vyucchantī* (*uchi* "to depart, dispel", tudādi; *viv-āsa* "driving away"); *yuvatiḥ* (the feminine of *yūn* by the Pāṇinian *yūnas ti*, number as read "4-1-77" [?]); *śukravāsāḥ* (*vas* "to cover"; "*vaste sarvam ācchādayatīti*" — the light is the *vāsas*; bahuvrīhi, first-member accent); *īśānā* (*īś* "to be master", adādi, the elision of *śap*; the root accent as the ending is *anudāttet*); *pārthivasya* (from *pṛthivī*, the suffix *añ*); *vasvaḥ* (gender change: genitive singular used for a feminine; the substitute of *yaṇ* for the elided *jas* ending in Vedic — "*ṣaṣṭhyāḥ jasādiṣu chandasi vāvacanam*").
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*yuvatiḥ* — one who gets men the results [of works]; or one ever-youthful; *śukravāsāḥ* — wearer of a white garment, or endowed with pure splendour; *viśvasya* — of all; *pārthivasya* — connected with the earth; *vasvaḥ* — of wealth; *īśānā* — the mistress; *divo duhitā* — the daughter of the atmosphere; *eṣā* — this Uṣas; *vyucchantī* — warding off the darkness; *pratyadarśi* — has come into the sight of beings; *subhage* — O possessor of auspicious wealth; *uṣaḥ* — O Uṣas, goddess! (now); *adya* — now; *iha* — in this sacrifice; *vyuccha* — drive away the darkness."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The goddess Uṣas, of spotless splendour, ever youthful, mistress of all wealth connected with the earth, like a daughter to the atmosphere, appears to everyone as a dispeller of darkness. O such Uṣas deity, here, in this sacrificial hall, now drive away the darkness."
+
+### Printed p. 38  (PDF 58; header "Maṃ. 1 A. 16 Sū. 113")
+
+**English Translation (as printed)**
+
+> The daughter of heaven, young, white-robed, the mistress of all earthly treasure, is beheld dissipating the darkness. Auspicious Ushas, shine upon us to-day in this (hall of sacrifice.)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**दिवो दुहिता** — *Divo duhitā* — "*vyomno duhitṛsthānīyā*": "the goddess Uṣas is constantly full of light and is the daughter of heaven (*svarga*). The meaning of the word *duhitṛ*: Yāska explains (Ni. 3-4 as read [?]) '*duhitā durhitā dūre hitā dogdhir vā*': the woman who, being given in gift to a man, brings sorrow and also benefit to him; or, one who, though always living far from her father and mother, desires their welfare, therefore gets the name *duhitā*. As heaven is full of light, Uṣas, which is born from the eastern part of heaven, also illumines the other objects and gives beings a light in the form of knowledge, so she is called heaven's daughter — thus they explain."
+
+**शुक्रवासाः** — *Śukravāsāḥ:*
+
+> वस्ते सर्वमाच्छादयतीति प्रकाशो वासः । श्वेतवसना निर्मलदीप्तिर्वा ॥
+
+> *vaste sarvamācchādayatīti prakāśo vāsaḥ | śvetavasanā nirmaladīptirvā ‖*
+
+"The garment (*vāsa*) that covers everything is the light (*prakāśa*): hence, because everything is covered by it — the word *vāsaḥ* means 'a garment worn'. Because Uṣas has an exceedingly pure lustre, with no spot, she is said to be white-robed, or to have pure splendour — so it is described here."
+
+**युवतिः** — *Yuvatiḥ:*
+
+> यावयित्री फलानां पुरुषैः प्रापयित्री । नित्ययौवनोपेता वा ॥
+
+> *yāvayitrī phalānāṃ puruṣaiḥ prāpayitrī | nityayauvanopetā vā ‖*
+
+"One who makes men obtain the fruits (or purposes), or one who is always joined with youth: the meaning is 'one who is always young'."
+
+**सुभगे** — *Subhage* — "*śobhanadhanavatī*": one who possesses excellent wealth. The word *bhaga* is stated among the twenty-eight [as read] names of wealth (Ni. 2-10 as read [?]).
+
+> नूनं सा ते प्रति वरं जरित्रे दुहीयदिन्द्र दक्षिणा मघोनी ।
+> शिक्षा स्तोतृभ्यो माति धग्भगो नो बृहद्वदेम विदथे सुवीराः ॥
+> (ऋ. सं. २-११-२१ [as read])
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadindra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖*
+> *(ṛ. saṃ. 2-11-21 [as read])*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–6 complete; Ṛk 7 through printed p. 38 (PDF 58): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *subhage* with the Ṛk 2-11-21 quotation). Earlier citation on p. 29 corrected to 2-11-21 (clearer printing). Next: printed p. 39 (PDF 59). Open: Ni. numerals `[?]`; Uṇ./Pā. unnamed.
