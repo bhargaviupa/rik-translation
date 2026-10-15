@@ -11834,4 +11834,63 @@ and (Sanskrit as printed, small type, continuing on p. 489):
 
 ---
 
-**Progress note:** Sūkta 120: heading, Anukramaṇī and Anuvāda complete through printed p. 497 (PDF 517); p. 495's Anukramaṇī re-read against its repetition on p. 496. Next: printed p. 498 (PDF 518): the sūkta's title block and Ṛk 1. Numerals as read (no numeral list covers these pages): *anu.* 2-3, 2-5, 3-5, 6-3, 6-6, 6-8, Āś. 4-6, Ai. Br. 1-? `[as read]`; "pp. 221–231" cross-reference as printed.
+### Printed p. 498  (PDF 518; header "Maṃ. 1 A. 17 Sū. 120")
+
+**सूक्त—१२० (Sūkta 120)**
+॥ मण्डल—१ ॥ अनुवाक—१७ ॥ सूक्त—१२० ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—*(small numerals; read "22, 23" — as printed [?])* ॥
+*Number of Ṛks in the sūkta:* 12. *Ṛṣi:* Kakṣīvān Dairghatamasa Auśija. *Devatā:* Ṛks 1–11 the Aśvins; Ṛk 12 Duḥsvapnanāśana (destruction of bad dreams). *Chandas:* 1 Gāyatrī; 2 Kakubh; 3 Kāvirāṭ; 4 Naṣṭarūpī; 5 Tanuśirā; 6 (by syllables) Uṣṇik; 7 Viṣṭārabṛhatī; 8 Kṛti; 9 Virāṭ; 10–12 Gāyatrī. *(The numerals of the head-table were read as printed; those of the chandas list are the ones that match the Anuvāda of p. 496–497.)*
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.1)**
+
+> का राधद्धोत्राश्विना वां को वां जोष उभयोः ।
+> कथा विधात्यप्रचेताः ॥ १ ॥
+
+> *kā rādhaddhotrāśvinā vāṃ ko vāṃ joṣa ubhayoḥ |*
+> *kathā vidhātyapracetāḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.1)**
+
+> का । राधत् । होत्रा । अश्विना । वाम् । कः । वाम् । जोषे ।
+> उभयोः ।
+> कथा । विधाति । अप्रऽचेताः ॥ १ ॥
+
+> *kā | rādhat | hotrā | aśvinā | vām | kaḥ | vām | joṣe |*
+> *ubhayoḥ |*
+> *kathā | vidhāti | apra 'cetāḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.1)**
+
+> अश्विना हे अश्विनौ वां युवां का होत्रा । वाङ्नामैतत् । कीदृशी स्तुतिलक्षणा वाग्राधत् । आराधयति । प्रीतान् करोति । युवयोर्माहात्म्यानुरूपा स्तुतिर्नास्तीत्यर्थः । किंच वां युवयोरुभयोर्जोषे जोषणे सेवने प्रीणने वा समर्थः कः स्तोता विद्यते । युष्मद्गुणाभिज्ञः कश्चिदपि नास्तीत्यर्थः । अप्रचेताः युवयोर्माहात्म्यमजानन् कथा केन प्रकारेण विधाति । युवां परिचरति । युष्मद्विषयं परिचरणमपि न कर्तुं शक्नोमीत्यर्थः ॥ राधत् । राध साध संसिद्धौ । लेटि अडागमः । जोषे । जुषी प्रीतिसेवनयोः । भावे घञ् । ञित्त्वादाद्युदात्तत्वम् । कथा । था हेतौ च छन्दसीति किंशब्दात्प्रकारवचने था प्रत्ययः । किमः क इति कादेशः । विधाति । विध विधाने । तौदादिकः । लेट्यडागमः । अप्रचेताः । प्रकृष्टं चेतो यस्यासौ प्रचेताः । नञ्समासे अव्ययपूर्वपदे प्रकृतिस्वरत्वम् ॥
+
+> *aśvinā he aśvinau vāṃ yuvāṃ kā hotrā | vāṅnāmaitat | kīdṛśī stutilakṣaṇā vāgrādhat | ārādhayati | prītān karoti | yuvayormāhātmyānurūpā stutirnāstītyarthaḥ | kiṃca vāṃ yuvayorubhayorjoṣe joṣaṇe sevane prīṇane vā samarthaḥ kaḥ stotā vidyate | yuṣmadguṇābhijñaḥ kaścidapi nāstītyarthaḥ | apracetāḥ yuvayormāhātmyamajānan kathā kena prakāreṇa vidhāti | yuvāṃ paricarati | yuṣmadviṣayaṃ paricaraṇamapi na kartuṃ śaknomītyarthaḥ ‖ rādhat | rādha sādha saṃsiddhau | leṭi aḍāgamaḥ | joṣe | juṣī prītisevanayoḥ | bhāve ghañ | ñittvādādyudāttatvam | kathā | thā hetau ca chandasīti kiṃśabdātprakāravacane thā pratyayaḥ | kimaḥ ka iti kādeśaḥ | vidhāti | vidha vidhāne | taudādikaḥ | leṭyaḍāgamaḥ | apracetāḥ | prakṛṣṭaṃ ceto yasyāsau pracetāḥ | nañsamāse avyayapūrvapade prakṛtisvaratvam ‖*
+
+*Sense (mine):* "O Aśvins, which *hotrā* — [a name for speech] — which speech in the form of praise could please (*rādhat*, propitiate) you? The meaning is: there is no praise equal to your greatness. And, who is the praiser able to satisfy you both (*joṣe*) by service or pleasing? There is none who knows your qualities. *Aprācetāḥ* — one who does not know your greatness — how (*kathā*) can he serve (*vidhāti*) you? I cannot even perform service concerning you."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.1)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *vām* — you two; *kā hotrā* — what praise-word; *rādhat* — would propitiate (would please)?; *vām ubhayoḥ* — of both of you; *joṣe* — in serving; *kaḥ* — who; (is capable)?; *aprācetāḥ* — one ignorant of your greatness; *kathā* — how indeed; *vidhāti* — would serve you?
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.1)** (Kannada, rendered)
+
+"O Aśvins! What praise-word would please you? (There is no praise-word fit for your greatness.) Who has the capacity to satisfy you? How should one who does not know your greatness satisfy you? (Your service is hard to accomplish.)"
+
+---
+
+### Printed p. 499  (PDF 519; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"What praise may propitiate you, Aswins? who may give satisfaction to you both? how may any ignorant (man) pay fitting homage?"
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 1)**
+
+*Kā hotā* — *vāṅnāmaitat kīdṛśī stutilakṣaṇā vāk*: "The word *hotrā* is stated among the names of speech (Ni. 1-11 [as read]). By the question 'which of your (*vām*) *hotrā*, praise, is [it]?', although there are many words, it is understood that, because there are no words that adequately express the qualities and the greatness of the Aśvins, it is difficult for [the poet] to praise you. By this it is described that the greatness of the qualities of the Aśvins is beyond words."
+
+*(The Special Topics of Ṛk 1 continue past this point on p. 500.)*
+
+---
+
+**Progress note:** Sūkta 120: Ṛk 1 through printed p. 499 (PDF 519): head-table, Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 500). Next: printed p. 500 (PDF 520). Numerals as read (no numeral list covers these pages): varga "22, 23" `[?]`, Ni. 1-11 `[as read]`.
