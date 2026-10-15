@@ -382,12 +382,12 @@ Sense: "Having thus explained the seventh Adhyāya, the explanation of the eight
 **॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.1)**
 
 > इदम् । श्रेष्ठम् । ज्योतिषाम् । ज्योतिः । आ । अगात् । चित्रः । प्रऽकेतः । अजनिष्ट । विऽभ्वा ।
-> यथा । प्रऽसूता । सवितुः । सवाय । एव । रात्री । उषसे । योनिम् । अरैक् [?] ॥ १ ॥
+> यथा । प्रऽसूता । सवितुः । सवाय । एव । रात्री । उषसे । योनिम् । अरैक् ॥ १ ॥
 
 > *idam | śreṣṭham | jyotiṣām | jyotiḥ | ā | agāt | citraḥ | pra 'ketaḥ | ajaniṣṭa | vi 'bhvā |*
-> *yathā | pra 'sūtā | savituḥ | savāya | eva | rātrī | uṣase | yonim | araik [?] ‖ 1 ‖*
+> *yathā | pra 'sūtā | savituḥ | savāya | eva | rātrī | uṣase | yonim | araik ‖ 1 ‖*
 
-*(Reading note after viewing the Pada: the Saṃhitā's* ārāik *appears in the Pada as a form beginning* a-r…ik*, the print reads* अरैक् *with a doubtful second letter [?]; the Saṃhitā's* savāya evā *is the Pada's* savāya | eva*.)*
+*(Reading note after viewing the Pada: the Saṃhitā's* ārāik *appears in the Pada as* अरैक् *(the second letter was doubtful here; it is clear in the Pada of Ṛk 2, p. 9, and of Ṛk 16, p. 75, so the doubt is removed); the Saṃhitā's* savāya evā *is the Pada's* savāya | eva*.)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.1)**
 
@@ -1968,4 +1968,54 @@ Grammar page on *āvahantī* (*vah* "to carry"; *śatṛ* in the *laṭ* sense; 
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–14 complete; Ṛk 15 through printed p. 74 (PDF 94): Special Topics concluded, grammar page of Ṛk 15 in progress (continues p. 75). Next: printed p. 75 (PDF 95). Open: Pā. numbers as read `[?]`.
+### Printed p. 75  (PDF 95; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+*Grammar page of Ṛk 15, concluded (noted briefly):* *vibhātīnām* (*bhā* "to shine", *śatṛ* in the *laṭ* sense; as before the feminine *ṅīp*; the genitive plural *nām* with *nuṭ*, the Vedic *jyāṃ chandasi bahulam* — Pā. 6-1-?? as read [?] — giving the accent on the *nām*); *vyaśvait* (*ṭuoś(v)i* "to grow" [read as printed: *ṭuośvi gativṛddhyoḥ*], *luṅ* 3rd singular *tip*; elision of the *i* by *itaś ca*; elision of the *vikaraṇa* by *bahulaṃ chandasi*; guṇa when the *tip* is the cause, as *sārvadhātukārdhadhātukayoḥ*, gives in the Veda *ai*; nighāta after an accented word). ‖ 15 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 16
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.16)**
+
+> उदीर्ध्वं जीवो असुर्न आगादप प्रागात्तम आ ज्योतिरेति ।
+> आरैक्पन्थां यातवे सूर्यायागन्म यत्र प्रतिरन्त आयुः ॥ १६ ॥
+
+> *udīrdhvaṃ jīvo asurna āgādapa prāgāttama ā jyotireti |*
+> *āraikpanthāṃ yātave sūryāyāganma yatra pratiranta āyuḥ ‖ 16 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.16)**
+
+> उत् । ईर्ध्वम् । जीवः । असुः । नः । आ । अगात् । अप । प्र । अगात् । तमः । आ । ज्योतिः । एति ।
+> अरैक् । पन्थाम् । यातवे । सूर्याय । अगन्म । यत्र । प्रऽतिरन्ते । आयुः ॥ १६ ॥
+
+> *ut | īrdhvam | jīvaḥ | asuḥ | naḥ | ā | agāt | apa | pra | agāt | tamaḥ | ā | jyotiḥ | eti |*
+> *araik | panthām | yātave | sūryāya | aganma | yatra | pra 'tirante | āyuḥ ‖ 16 ‖*
+
+### Printed p. 76  (PDF 96; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.16)**
+
+> हे मनुष्या उदीर्ध्वम् । उत्तिष्ठत । यतोऽयं नः अस्माकं असुः शरीरस्य प्रेरयिता जीवो जीवात्मागात् । आगतवान् । केनोपस्प्रागात् [?] । अपक्रान्तम् । उषसः प्रकाशे सति सर्वजीवनव्यापारयोग्यः [?] । तस्य प्रेरणात्मा [?] रूपतेयासु [?] च जीवस्तद्देव ज्योतिर्वृत्ती [?] । आगच्छति । सूर्याय सूर्यस्य पन्थां मार्गमारैक् विविक्तं करोति । यातवे गमनाय । तस्मिन्देशे गन्म गच्छानो [?] यत्र यस्मिन्देश आयुः अन्ननामैतत् । अन्नं प्रतिरन्ते । प्रवर्धयन्तीत्यर्थः । उदारा दानेन प्रवर्धयन्ति ॥ [This passage is in small close type; I read it letter by letter and mark the words I could not settle [?]; the Kannada below gives the sense.]
+
+> *he manuṣyā udīrdhvam | uttiṣṭhata | yato 'yaṃ naḥ asmākaṃ asuḥ śarīrasya prerayitā jīvo jīvātmāgāt | āgatavān | kenopasprāgāt [?] | apakrāntam | uṣasaḥ prakāśe sati sarvajīvanavyāpārayogyaḥ [?] | tasya preraṇātmā [?] rūpateyāsu [?] ca jīvastaddeva jyotirvṛttī [?] | āgacchati | sūryāya sūryasya panthāṃ mārgamāraik viviktaṃ karoti | yātave gamanāya | tasmindeśe ganma gacchāno [?] yatra yasmindeśa āyuḥ annanāmaitat | annaṃ pratirante | pravardhayantītyarthaḥ | udārā dānena pravardhayanti ‖ [This passage is in small close type; I read it letter by letter and mark the words I could not settle [?]; the Kannada below gives the sense.]*
+
+*Sense (mine):* "O men, *udīrdhvam* — rise up! For this life (*jīva*, the living self) — *asuḥ naḥ*, the impeller of our body — *āgāt*, has come. The darkness *apa prāgāt*, has gone out. When there is the light of Uṣas, [the creature is] fit for all activities of life. The light comes (*eti*). For the Sun (*sūryāya*) she has cleared (*āraik*) the path (*panthām*) to go (*yātave*); let us go (*aganma*) to that place where food (*āyuḥ* is a name for food) they cause to increase (*pratirante* — *pravardhayanti*) — the generous, by giving, make it increase."
+
+*Grammatical tail (characterized, not transcribed):* *ūrdhvam* (from *īr* "to go", adādi; *anudāttet*); *āraik* (*ric* "to empty", aorist; the *vikaraṇa* elided by *bahulaṃ chandasi*; guṇa by *vyatyaya* giving *ai*); *panthām* (accusative: the *pathimathyṛbhukṣām āt* rule by *vyatyaya* — the *a*); *aganma* (*gam* in the aorist *luṅ*; the *vikaraṇa* elided by *bahulaṃ chandasi*; *mnoś ca*, Pā. 8-2-64 as read [?], the *m* → *n* in the *ma*-ending).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*he manuṣyāḥ* — O men!) *udīrdhvam* — rise up (with warmth); *naḥ* — to us; *asuḥ* — the impeller; *jīvaḥ* — the *jīvātman* (of the nature of light); *āgāt* — has come; *tamaḥ* — darkness; *apa prāgāt* — has gone out; *jyotiḥ* — light; *ā eti* — comes; *sūryāya* — for the Sun; *yātave* — for going about; *panthām* — the path; *āraik* — is made clear; *yatra* — where; *āyuḥ* — food; *pra tirante* — they cause to grow (*tatra* — there); *aganma* — let us go."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O men, rise! The *jīvātman* who impels us has come (after the light the creatures all take up their works); the darkness has gone; there is light; the Sun's path has been made plain; let us go to the place where food is to be had."
+
+**English Translation (as printed)**
+
+> Arise ; inspiring life revives ; darkness has departed ; light approaches. Ushas has opened the road for the sun to travel : let us repair to where they distribute food.
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–15 complete; Ṛk 16 through the printed English on p. 76 (PDF 96): Saṃhitā, Pada, bhāṣya (with several `[?]` in the small type), pratipadārtha, bhāvārtha, English. Next: printed p. 77 (PDF 97) — Special Topics of Ṛk 16 etc. Corrected: Pada word *araik* (Ṛks 1, 2, 16) now unambiguous (the `[?]` in Ṛk 1 removed).
