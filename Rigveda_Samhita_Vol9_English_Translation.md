@@ -2437,4 +2437,92 @@ Grammar page begun: *gomatīḥ* (*gāvaḥ āsāṃ santi* — *matup* by *tad 
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–18 complete; Ṛk 19 through printed p. 92 (PDF 112): grammar tail, pratipadārtha, bhāvārtha, English, Special Topics (*mātā devānām*, *aditer anīkam*, *yajñasya ketuḥ*) — Special Topics may continue p. 93. Next: printed p. 93 (PDF 113). Open: Dhātupāṭha ref `[?]`; Skandasvāmin quotations as read.
+### Printed p. 93  (PDF 113; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+**ब्रह्मणे** — *Brahmaṇe* — "*mantrarūpāya stotrāya*": "(for the *stotra* which is in the form of a mantra). The word *brahma* is stated among the twenty-eight [as read] names of wealth (Ni. 2-?? as read "2-10" [?]), so it conveys the meaning 'wealth'. Here it is used, however, in the sense of the *stotra* recited by those who perform sacrifice."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 19; grammar page, noted briefly)**
+
+Grammar page on *yajñasya* (*yaj* "to worship, to unite, to give"; the suffix *naṅ* by *yajayācayatavichaprachrakṣo naṅ*, Pā. 3-3-90 as read [?]; the accent on the last syllable from the suffix), *bṛhatī* (feminine *ṅīp* by *ugitaś ca*; by the statement *bṛhan-mahator upasaṃkhyānam* the *ṅīp* has the *udātta* accent; nominative singular with elision by *hal-ṅyābbhyaḥ…*), *bhāhi* (*bhā* "to shine", *loṭ* 2nd singular; nighāta after an accented word), *praśastikṛt* (*śaṃsu* "to praise", *ktin* in the abstract by *striyāṃ ktin*, Pā. 3-3-94 as read [?]; the *iṭ* augment prevented by *titutratatheṣu*…, Pā. 7-2-9 as read [?]; the nasal elision of the penultimate by *aniditāṃ hala upadhāyāḥ kṅiti*, Pā. 6-4-24 as read [?]; *praśasti* standing as the *upapada*, *ḍukṛñ* "to do" takes *kvip* by *kvip ca*; the augment *tuk* by *hrasvasya piti kṛti tuk*; in the compound the first-member accent by *gatikārakopapadāt kṛt*), *uccha* (*uchī* "to dispel", tudādi; *loṭ* 2nd singular; nighāta), *janaya* (*jani* "to be born", causative since it is the instigator's act, *ṇic* by *hetumati ca*, Pā. 3-1-26 as read [?]; *vṛddhi* of the penultimate by *ata upadhāyāḥ*; the root is *mit* by *janīj…* — hence *mitāṃ hrasvaḥ*, shortening by Pā. 6-4-92 as read [?]; the *hi* of the *loṭ* substituted by *a*, elided by *ato heḥ*; the *śap*'s *a* elided by *ato lopaḥ*…; guṇa of *i* of *ṇic*; *ay*; nighāta).
+
+### Printed p. 94  (PDF 114; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *viśvavāre* ("*viśvaiḥ vriyate iti viśvavārā*": *vṛñ* "to choose", *ghañ* in the passive; *vṛddhi* of *ṛ* by *aco 'ñṇiti*; the vocative with nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]). ‖ 19 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 20
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.20)**
+
+> यच्चित्रमप्न उषसो वहन्तीजानाय शशमानाय भद्रम् ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ २० ॥
+
+> *yaccitramapna uṣaso vahantījānāya śaśamānāya bhadram |*
+> *tanno mitro varuṇo māmahantāmaditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 20 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.20)**
+
+> यत् । चित्रम् । अप्नः । उषसः । वहन्ति । ईजानाय । शशमानाय । भद्रम् ।
+> तत् । नः । मित्रः । वरुणः । ममहन्ताम् [as printed; a misprint for *māmahantām*? [?]] । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ २० ॥
+
+> *yat | citram | apnaḥ | uṣasaḥ | vahanti | ījānāya | śaśamānāya | bhadram |*
+> *tat | naḥ | mitraḥ | varuṇaḥ | mamahantām [as printed; a misprint for *māmahantām*? [?]] | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 20 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.20)**
+
+> चित्रं चायनीयमप्न आप्तव्यं यद्धनमुषसो वहन्ति आनयन्ति । ईजानाय हविर्भिरिष्टवते शशमानाय स्तुतिभिः संभजमानाय पुरुषाय भद्रं भजनीयं तद्धनवतीति शेषः । यदनेन सूक्तेनास्माभिः प्रार्थितं तस्मिन्मित्रादयः षट् देवता मामहन्ताम् । पूजितं कुर्वन्तु ॥ [continued on the next page with the grammatical tail]
+
+> *citraṃ cāyanīyamapna āptavyaṃ yaddhanamuṣaso vahanti ānayanti | ījānāya havirbhiriṣṭavate śaśamānāya stutibhiḥ saṃbhajamānāya puruṣāya bhadraṃ bhajanīyaṃ taddhanavatīti śeṣaḥ | yadanena sūktenāsmābhiḥ prārthitaṃ tasminmitrādayaḥ ṣaṭ devatā māmahantām | pūjitaṃ kurvantu ‖ [continued on the next page with the grammatical tail]*
+
+*Sense (mine):* "The wonderful (*citra*), worthy-to-be-gained (*apnaḥ*) wealth that the Uṣases bring (*vahanti*) — good (*bhadra*), to be enjoyed, for the man *ījānāya*, who has sacrificed with oblations, and *śaśamānāya*, who praises with hymns: may [the Uṣases] have that wealth — is the completion. What has been prayed for by us in this Sūkta, in that may these six deities, Mitra and the rest, *māmahantām* — make it honoured, make it worthy (made to be of success)."
+
+---
+
+### Printed p. 95  (PDF 115; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+*Grammatical tail of the bhāṣya on Ṛk 20 (characterized, not transcribed):* *apnaḥ* (*āp(ḷ)* "to obtain" — the *asun* suffix by the Uṇādi rule with the wide reading of "*bahulam*"; the shortening of the root vowel and the augment *nuṭ*); *ījānāya* (*yaj*, *liṭ* in the Veda; *kānac*; *vacisvapiyajādīnāṃ kiti* — *saṃprasāraṇa*; doubling; the lengthening of the reduplication); *śaśamānāya* (*śaś* "to leap" [printed: *śaśa plutagatau*]; *tācchīlya* suffix *cānaś*; *śap* elided in the *liṭ* sense; the accent by *sarvadhātukāsvarābhāve*…).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*citram* — wonderful; *apnaḥ* — which should be obtained; *yat* — which wealth; *uṣasaḥ* — the Uṣas deities; *vahanti* — bring (that); *ījānāya* — to him who performs sacrifice with oblations; *śaśamānāya* — to him who praises; *bhadram* — becomes auspicious; *naḥ* — our; *tat* — (the prayer made by this Sūkta); *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the deity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the atmosphere (the deity of heaven and the rest); *mamahantām* — let (them) protect, let them approve."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"All the desired wealth that the Uṣases bring makes for auspiciousness for those who offer sacrifice and those who praise. Let Mitra, Varuṇa, Aditi, Sindhu, Earth and the deities of the atmosphere protect this praise or prayer that has been made by this Sūkta."
+
+**English Translation (as printed)**
+
+> Whatever valuable wealth the Ushasas convey, is beneficial to the sacrificer and to the praiser. May Mitra, Varuna, Aditi,—ocean, earth and heaven, be favourable to this our prayer.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अप्नः** — *Apnaḥ* — "*āptavyam*": "worthy to be obtained, desired by all. The word *apnas* is stated among the twenty-six [as read] words denoting action (*karma*) (Ni. 2-1 [as read, [?]])."
+
+**चित्रम्** — *Citram* — "*cāyanīyaṃ pūjyam*": "worthy of honour. The word *citra* is read (Ni. 3-?? and 3-? as read [?]) in the meaning '*cāyanīya*', '*maṃhanīya*' (worthy of honour, worthy to be given)."
+
+**शशमानाय** — *Śaśamānāya* — "*stutibhiḥ saṃbhajamānāya puruṣāya*": "to the man who, praising with stotras, serves; that is, to the sacrificer. The Nirukta-writer —
+
+### Printed p. 96  (PDF 116; header "Maṃ. 1 A. 16 Sū. 113")
+
+— explaining the word *śaśamāna* ... [*śaśamānaḥ śaṃsamānaḥ* (Ni. 6-8 as read [?])] as '*śaṃsamāna*', 'praising', says '*yo vāṃ yajñaiḥ śaśamāno ha dāśati ity api nigamo bhavati*' ('there is also this Vedic passage'):
+
+> यो वां यज्ञैः शशमानो ह दाशति कविर्होता यजति मन्मसाधनः ।
+> उपाह तं गच्छथो वीथो अध्वरमच्छा गिरः सुमतिं गन्तमस्मयू ॥
+> (ऋ. सं. १-१५१-७ [as read; numeral small, [?]])
+
+> *yo vāṃ yajñaiḥ śaśamāno ha dāśati kavirhotā yajati manmasādhanaḥ |*
+> *upāha taṃ gacchatho vītho adhvaramacchā giraḥ sumatiṃ gantamasmayū ‖*
+> *(ṛ. saṃ. 1-151-7 [as read; numeral small, [?]])*
+
+— he has cited this Ṛk."
+
+**भद्रम्** — *Bhadram* — "*bhajanīyam*": "worthy of being obtained. The goddess Uṣas gives wealth, which is the most worthy to be obtained, to those who perform sacrifice with oblations and to those who praise with *stotras*, with hymns of praise. The chief intention is that by the recitation of this Sūkta, which is in the form of a *stotra* of this goddess Uṣas, the deities Mitra, Varuṇa, Aditi, the ocean, Earth, the Atmosphere [and so on] may accept our prayer and show us favour."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 20; grammar page, noted briefly)**
+
+Grammar page on *apnaḥ* (*āp(ḷ)* "to obtain", with the sense of action given by *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā*, Uṇ. 4-?? as read [?]; since the word "*bahulam*" is wide in the Uṇādi, the suffix *asun* arises even when the sense of action is absent; the root vowel shortened; the augment *nuṭ*; the stem *apnas*; the first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]), *vahanti* (*vah* "to carry", *laṭ* 3rd plural; no nighāta here, because *yat* precedes — *yadvṛttānnityam* [as printed, "*nipātair yad yadi…*", Pā. 8-1-30 as read [?]]; the ending, being *adupadeśa*, unaccented, the root accent remains by *tāsyanudāttet…*), *ījānāya* (*yaj*, *liṭ* in the Vedic sense by *chandasi liṭ*… the *kānac* substitution by *liṭaḥ kānajvā*; the *saṃprasāraṇa* of the *ya* by *vacisvapiyajādīnāṃ kiti*; doubling; the reduplication's *ā*-lengthening and elision of the consonant; *citaḥ* final accent; dative singular), *śaśamānāya* (*śaś* "to leap, to go"; *cānaś* by *tācchīlyavayovacanaśaktiṣu cānaś*; *śap*; the augment *muk* by *āne muk*, for the *a* of the stem…). *(Continues on the next page.)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–20 complete (last Ṛk); printed p. 96 (PDF 116) done through the grammar page of Ṛk 20 (continues p. 97). Next: printed p. 97 (PDF 117) — rest of the Ṛk 20 grammar and the colophon of Sūkta 113 (its end); Sūkta 114 begins on p. 97 per the contents. Open: Ṛ. 1-151-7 `[?]`; Ni./Pā. numerals as read.
