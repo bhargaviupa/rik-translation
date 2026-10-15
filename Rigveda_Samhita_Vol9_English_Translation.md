@@ -5723,4 +5723,124 @@ in this Ṛk the word *dasrā* is used in the sense of the Aśvin deities. *Dasr
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–10 complete; Ṛk 11 Saṃhitā, Pada, bhāṣya written (printed p. 238, PDF 258; the bhāṣya sense is partly doubtful in the closing words). Next: printed p. 239 (PDF 259) — Ṛk 11 pratipadārtha etc. Open: numerals as read `[?]`; bhāṣya small type `[?]`.
+### Printed p. 239  (PDF 259; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*narā* — O leader Aśvin deities; *vidvāṃsā* — knowing (the circumstance); *nidhim iva* — like treasure (hidden); *apagūḷham* — (hidden in the well); *vandanāya* — the ṛṣi named Vandana; *darśatāt* — from the well which was visible (to travellers); *ut ūpathuḥ* — you raised up (and); *yat* — which exploit; *tat vām* — that of yours; *abhiṣṭimat* — to be attained by us; *varūtham* — worth desiring; *śaṃsyam* — worthy of praise; *rādhyam ca* — and to be adored."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O leader Aśvin deities, you, knowing, drew up and saved Vandana, hidden like a treasure in a well in the lonely place the Asuras chose, from the well visible to all; we have learned it. As this matter gives us joy, we praise it with respect."
+
+**English Translation (as printed)**
+
+> Nasatyas, leaders, glorious was that exploit of yours, one to be celebrated, to be adored, to be desired by us, when, becoming aware (of the circumstance), you extricated Vandana, (hidden), like a concealed treasure, from the (well) that was visible (to travellers)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**निधिमिवापगूळ्हम्** — *Nidhim ivāpagūḷham* — "*nidhim iva nikṣiptaṃ dhanam iva araṇye nirjane deśe kūpamadhye 'suraiḥ nigūḍham*": "the Asuras threw a ṛṣi named Vandana into a well in a lonely place in the middle of a forest. From there he praised the Aśvin deities. They, who protect those who praise them, knowing the ṛṣi's condition, drew him out of the well and protected him, as one joyfully takes out hidden wealth: this Itihāsa is told here. The protection of the ṛṣi that the Aśvin deities performed is accompanied by *abhiṣṭi* (help), and is fit to be seen by all who look; fit to be praised by all and fit to be worshipped by all: all this is shown by the words *tat karma*, *abhiṣṭimat*, *varūtham*, *śaṃsyam*, *rādhyam*.
+
+### Printed p. 240  (PDF 260; header "Maṃ. 1 A. 17 Sū. 116")
+
+> याभी रेभं निवृतं सितमद्भ्य उद्वन्दनमैरयतं स्वर्दृशे ।
+> याभिः कण्वं प्रसिषासन्तमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-५ [as read])
+
+> *yābhī rebhaṃ nivṛtaṃ sitamadbhya udvandanamairayataṃ svardṛśe |*
+> *yābhiḥ kaṇvaṃ prasiṣāsantamāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-5 [as read])*
+
+In this Ṛk it is said that the Aśvin deities protected Rebha, who had fallen in a well, together with Vandana and Kaṇva. Skandasvāmin cites this Ṛk —
+
+> रेभमृषिं सन्ध्याकाले स्नात्वा ह्रदादुत्तीर्णं अग्निहोत्रं होतुं स्वाश्रममागच्छन्तं असुरा ददृशुः । ते देवानामयं यष्टा स्तोता चेति ज्ञात्वा सङ्क्रुद्धाः तं ताडयित्वा बद्ध्वा च कस्मिंश्चिद्ध्रदे प्रक्षिप्य दशरात्रं धारयाञ्चक्रुः ॥ [small type; partly doubtful [?]]
+
+> *rebhamṛṣiṃ sandhyākāle snātvā hradāduttīrṇaṃ agnihotraṃ hotuṃ svāśramamāgacchantaṃ asurā dadṛśuḥ | te devānāmayaṃ yaṣṭā stotā ceti jñātvā saṅkruddhāḥ taṃ tāḍayitvā baddhvā ca kasmiṃściddhrade prakṣipya daśarātraṃ dhārayāñcakruḥ ‖ [small type; partly doubtful [?]]*
+
+— 'the Asuras saw the ṛṣi Rebha, who at twilight, having bathed, came up from a pool and was going to his hermitage to make the Agnihotra offering. Knowing that he was a sacrificer and praiser of the gods, they, enraged, beat him, bound him, and, throwing him into a pool, kept him there ten nights.' In Kannada: the ṛṣi named Rebha, at twilight, having bathed, coming out of the river, was going to his hermitage to perform Agnihotra; the Asuras saw him, and, knowing that he worships and praises the gods, in anger they attacked him, tied him with rope and threw him into that river, [and] kept him bound for ten nights. Afterwards the Aśvin deities, pleased with his praise, protected that ṛṣi: so it is described. In some Ṛks it is described that the Asuras pushed Rebha and Vandana into the well, and that they came to be protected by the Aśvin deities when they praised them. In some places the matter of Vandana alone is stated:
+
+> शुभे रुक्मं न दर्शतं निखातमुदूपथुरश्विना वन्दनाय ।
+> (ऋ. सं. १-११२-५ [as read; the number is that printed here after the Ṛk, though the same number is printed for the previous Ṛk — as printed [?]])
+
+> *śubhe rukmaṃ na darśataṃ nikhātamudūpathuraśvinā vandanāya |*
+> *(ṛ. saṃ. 1-112-5 [as read; the number is that printed here after the Ṛk, though the same number is printed for the previous Ṛk — as printed [?]])*
+>
+> युवं वन्दनमृश्यादुदूपथुर्युवं सद्यो विश्पलामेतवे कृथः ।
+> (ऋ. सं. १०-३९-८ [as read])
+
+> *yuvaṃ vandanamṛśyādudūpathuryuvaṃ sadyo viśpalāmetave kṛthaḥ |*
+> *(ṛ. saṃ. 10-39-8 [as read])*
+>
+> युवं ह रेभं वृषणा गुहा हितमुदैरयतं ममृवांसमश्विना ।
+> (ऋ. सं. १०-३९-९ [as read])
+
+> *yuvaṃ ha rebhaṃ vṛṣaṇā guhā hitamudairayataṃ mamṛvāṃsamaśvinā |*
+> *(ṛ. saṃ. 10-39-9 [as read])*
+
+and in a few other Ṛks —
+
+> युवं शयोरवसं पिप्यथुर्गविः प्र दीर्घेण वन्दनस्तार्यायुषा ।
+> (ऋ. सं. १-११६-? [as read])
+
+> *yuvaṃ śayoravasaṃ pipyathurgaviḥ pra dīrgheṇa vandanastāryāyuṣā |*
+> *(ṛ. saṃ. 1-116-? [as read])*
+>
+> उद्वन्दनमैरयतं स्वर्दृशे …
+
+> *udvandanamairayataṃ svardṛśe …*
+
+### Printed p. 241  (PDF 261; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 16")
+
+> युवं वन्दनं निरृतं जरण्ययारथं न दस्रा करणा समिन्वथः ।
+> (ऋ. सं. १-११७-५ [as read])
+
+> *yuvaṃ vandanaṃ nirṛtaṃ jaraṇyayārathaṃ na dasrā karaṇā saminvathaḥ |*
+> *(ṛ. saṃ. 1-117-5 [as read])*
+
+— 'the praise is that you made the aged body of Vandana like the body of a youth, so that he might live for long'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly)**
+
+*śaṃsyam* (*śaṃsu* "to praise"; *hetumati ca*, Pā. 3-1-26 as read [?], *ṇic* in the causal sense; after the *ṇyanta*, *aco yat*, Pā. 3-1-97 as read [?], the *yat* suffix; *ner aniṭi*, Pā. 6-4-51 as read [?], elision of *ṇic*; *yato 'nāvaḥ*, Pā. 6-1-213 as read [?], first-syllable accent; in the same way for *rādhyam*, the same operations); *abhiṣṭimat* (*iṣu* "to go", with the prefix *abhi*; *striyāṃ ktin*, Pā. 3-3-94 as read [?], *ktin* in the abstract sense; *ṣṭuc*… *ṭatva* of the *t* of the suffix after *ṣ*; *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ*, Pā. 3-3-96 as read [?], the accent of *ktin* is *udātta*; in the compound the later member's accent by *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?]; since it is in the *śakandhvādi* group, *pararūpa* is optional by *śakandhv-ādiṣu pararūpaṃ vācyam*; since *sarve vidhayaś chandasi vikalpyante*, *tādau ca niti kṛty atau*, Pā. 6-2-50 as read [?], the accent of the prefix does not arise here; *abhiṣṭir asya asti*, *matup* by *tad asyāsty asmin*, Pā. 5-2-94 as read [?]; to this *matup* standing after a word with final *udātta*, *hrasvanuḍbhyāṃ matup*, Pā. 6-1-176 as read [?], *udātta*); *varūtham* (*vṛñ* "to choose"; *jyāvṛñbhyām ūthan*, Uṇ. 2-?? as read [?], the suffix *ūthan*; guṇa of the root's *ṛ* with *raparatva*; as the suffix is *nit*, *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent); *vidvāṃsā* (*vid* "to know"; *śatṛ* in the *laṭ*-sense, *vido laṭo vā*, Pā. 3-4-83 as read [?], the *ṇal*… *vide śatur vasuḥ*, Pā. 7-1-36 as read [?], *vasu* substituted; the stem *vidvas*; in the dual, with *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *ākārasya*…, the lengthening of the penultimate by *upadhādīrgha*; *num* since *ugit*; the accent from the suffix); *apagūḷham* (*guhū* "to cover"; *niṣṭhā*, *kta*, Pā. 3-2-102 as read [?]; since it is *ūdit*, optional *iṭ*, hence by *yasya vibhāṣā*, Pā. 7-2-15 as read [?] *iṭ* does not arise; *hoḍhaḥ*, Pā. 8-2-31 as read [?], *gh* for the *h*; *ṣhaḥ ḍhaḥ*…, *ṭhatva*…
+
+### Printed p. 242  (PDF 262; header "Maṃ. 1 A. 17 Sū. 116")
+
+… *dhatva* [*dh* for *t* of the suffix]; *ḍhodhe lopaḥ*, Pā. 8-3-13 as read [?], elision of the preceding *dh*; *ḍhralope pūrvasya dīrgho 'ṇaḥ*, Pā. 6-3-111 as read [?], lengthening of the preceding *u*; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix (*apa*) keeps its accent); *darśatāt* (*dṛśir* "to see"; *bhṛmṛdṛśi…*, Uṇ. 3-?? as read [?], the suffix *atac*; *pugantalaghūpadhasya ca*, Pā. 7-3-86 as read [?], guṇa of the penultimate; *citaḥ*, Pā. 6-1-163 as read [?], final accent; ablative singular); *ūpathuḥ* (*ḍuvap* "to sow"; *liṭ* 2nd dual, *athus*; *asaṃyogāl liṭ kit*, Pā. 1-2-5 as read [?], gives *kit* status to the suffix, and as the root belongs to the *yajādi* group, *vacisvapiyajādīnāṃ kiti*, Pā. 6-1-15 as read [?], *saṃprasāraṇa*; since *liṭ*, doubling of the root; *halādiśeṣa* for the reduplication; *savarṇadīrgha*; since *yat* precedes, no nighāta; from the first-syllable *udātta* of the suffix [*sic*] the *u* is accented); *vandanāya* (*vadi* "to salute, to praise"; *lyuṭ* in the abstract sense; *idito num dhātoḥ*, Pā. 7-1-58 as read [?], *num* for the root; *anādeśa* for *yu* by *yuvor anākau*, Pā. 7-1-1 as read [?]; *liti*, Pā. 6-1-193 as read [?], the *udātta* on the syllable preceding the suffix; *kriyāgrahaṇaṃ kartavyam*, since *karman* has *sampradāna* status, the fourth case arises). ‖ 11 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 12
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.12)**
+
+> तद्वां नरा सनये दंस उग्रमाविष्कृणोमि तन्यतुर्न वृष्टिम् ।
+> दध्यङ्ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाच ॥ १२ ॥
+
+> *tadvāṃ narā sanaye daṃsa ugramāviṣkṛṇomi tanyaturna vṛṣṭim |*
+> *dadhyaṅha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvāca ‖ 12 ‖*
+
+### Printed p. 243  (PDF 263; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.12)**
+
+> तत् । वाम् । नरा । सनये । दंसः । उग्रम् । आविः । कृणोमि ।
+> तन्यतुः । न । वृष्टिम् ।
+> दध्यङ् । ह । यत् । मधु । आथर्वणः । वाम् । अश्वस्य । शीर्ष्णा ।
+> प्र । यत् । ईम् । उवाच ॥ १२ ॥
+
+> *tat | vām | narā | sanaye | daṃsaḥ | ugram | āviḥ | kṛṇomi |*
+> *tanyatuḥ | na | vṛṣṭim |*
+> *dadhyaṅ | ha | yat | madhu | ātharvaṇaḥ | vām | aśvasya | śīrṣṇā |*
+> *pra | yat | īm | uvāca ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.12)**
+
+> अत्रेयमाख्यायिका । इन्द्रो दध्यीचे प्रवर्ग्यविद्यां मधुविद्यां चोपदिश्य यदीमामन्यस्मै वक्ष्यसि शिरस्ते छेत्स्यामीत्युवाच । तदोरश्विनावश्वस्य शिरश्छित्त्वा दध्यीचः शिरः प्रच्छिद्यान्यत्र निधाय तत्राश्वशिरः प्रत्यधत्ताम् । केन च दध्यङ् ऋचः सामानि यजूंषि च प्रवर्ग्यविषयाणि मधुविद्याप्रतिपादकं ब्राह्मणं चाश्विनावध्यापयामास । तदिन्द्रो ज्ञात्वा वज्रेण तच्छिरोऽच्छिनत् । अथाश्विनौ तस्य स्वकीयं मानुषं शिरः प्रत्यधत्ताम् । इति शाट्यायनवाजसनेययोः प्रपञ्चेनोक्तम् । तदेतत्प्रतिपाद्यते । हे नरा नेतारावश्विनौ वां युवयोः सम्बन्ध्युग्रमुद्गूर्णमन्यैर्दुष्करं दंसः कर्मनामैतत् । युवाभ्यां पुरा कृतं तत्कर्म सनये धनलाभार्थमाविष्कृणोमि । प्रकटीकरोमि । तत्र दृष्टान्तः । तन्यतुर्न । यथा मेघस्थः शब्दो वृष्टिं मेघान्निर्वर्तमानमुदकं प्रवर्षणेन सर्वत्र प्रकटयति तद्वत् । किं तत्कर्म । आथर्वणः अथर्वणः पुत्रो दध्यङ् ऋषिरश्वस्य शीर्ष्णा युष्मास्मार्थेन प्रतिहितेन शिरसा वां युवाभ्यामिमां मधुविद्यां यद्यदा खलु प्रोवाच प्रोक्तवान् । तदानीमश्वस्य शिरः सन्धानलक्षणं पुनर्मानुषस्य शिरः प्रतिसन्धानलक्षणं च यद्वदवदीयं कर्म तदाविष्कृणोमीत्यर्थः ॥ सनये । षणु दाने । खनिकषिकष्यञ्जिशिवसिद्धिनिस्तनिवनिसनिग्रन्थिभ्यश्चेतीप्रत्ययः । तन्यतुः । तनु विस्तारे । युतन्यञ्जेत्यादिना यतुच् । यद्वा । स्तन शब्दे । बाहुलकाद्यतुच् । छान्दसः सलोपः । वृष्टिम् । वृष्यते सिच्यतेऽनेनेति वृष्टिः । मन्त्रे … [the print continues on p. 244; this part in small type, partly doubtful [?]]
+
+> *atreyamākhyāyikā | indro dadhyīce pravargyavidyāṃ madhuvidyāṃ copadiśya yadīmāmanyasmai vakṣyasi śiraste chetsyāmītyuvāca | tadoraśvināvaśvasya śiraśchittvā dadhyīcaḥ śiraḥ pracchidyānyatra nidhāya tatrāśvaśiraḥ pratyadhattām | kena ca dadhyaṅ ṛcaḥ sāmāni yajūṃṣi ca pravargyaviṣayāṇi madhuvidyāpratipādakaṃ brāhmaṇaṃ cāśvināvadhyāpayāmāsa | tadindro jñātvā vajreṇa tacchiro 'cchinat | athāśvinau tasya svakīyaṃ mānuṣaṃ śiraḥ pratyadhattām | iti śāṭyāyanavājasaneyayoḥ prapañcenoktam | tadetatpratipādyate | he narā netārāvaśvinau vāṃ yuvayoḥ sambandhyugramudgūrṇamanyairduṣkaraṃ daṃsaḥ karmanāmaitat | yuvābhyāṃ purā kṛtaṃ tatkarma sanaye dhanalābhārthamāviṣkṛṇomi | prakaṭīkaromi | tatra dṛṣṭāntaḥ | tanyaturna | yathā meghasthaḥ śabdo vṛṣṭiṃ meghānnirvartamānamudakaṃ pravarṣaṇena sarvatra prakaṭayati tadvat | kiṃ tatkarma | ātharvaṇaḥ atharvaṇaḥ putro dadhyaṅ ṛṣiraśvasya śīrṣṇā yuṣmāsmārthena pratihitena śirasā vāṃ yuvābhyāmimāṃ madhuvidyāṃ yadyadā khalu provāca proktavān | tadānīmaśvasya śiraḥ sandhānalakṣaṇaṃ punarmānuṣasya śiraḥ pratisandhānalakṣaṇaṃ ca yadvadavadīyaṃ karma tadāviṣkṛṇomītyarthaḥ ‖ sanaye | ṣaṇu dāne | khanikaṣikaṣyañjiśivasiddhinistanivanisanigranthibhyaścetīpratyayaḥ | tanyatuḥ | tanu vistāre | yutanyañjetyādinā yatuc | yadvā | stana śabde | bāhulakādyatuc | chāndasaḥ salopaḥ | vṛṣṭim | vṛṣyate sicyate 'neneti vṛṣṭiḥ | mantre … [the print continues on p. 244; this part in small type, partly doubtful [?]]*
+
+*Sense (mine):* "Here this story. Indra, having taught Dadhyañc the Pravargya-vidyā and the Madhu-vidyā, said: 'If you speak this to another, I shall cut off your head.' Then the Aśvins cut off the head of a horse and, having cut off Dadhyañc's head and placed it elsewhere, set the horse's head on him. And with that Dadhyañc taught the Aśvins the Ṛks, Sāmans and Yajus relating to the Pravargya, and the Brāhmaṇa that expounds the Madhu-vidyā. Indra, learning of it, cut off that head with his thunderbolt. Then the Aśvins set on him his own human head again: thus it is told at length in the Śāṭyāyana and Vājasaneya [texts]. This is set forth: O leaders, Aśvins, I make manifest *aviḥ kṛṇomi*, for the gaining of wealth, that fierce (*ugram*) act of yours, hard for others to do — *daṃsaḥ* is a name for 'work' — formerly done by you, as thunder (*tanyatuḥ*) in the cloud makes rain (the water that streams from the clouds) manifest everywhere by its downpour. What was that act? When the son of Atharvan, the ṛṣi Dadhyañc, *aśvasya śīrṣṇā* — with the horse's head placed by you on him — told you this Madhu-vidyā: then the act of setting on the horse's head and again setting the man's head — such an act of yours I make manifest."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–11 complete; Ṛk 12 through the bhāṣya on printed p. 243 (PDF 263): Saṃhitā, Pada, bhāṣya (the grammar tail continues on p. 244). Next: printed p. 244 (PDF 264). Open: numerals as read `[?]`; the duplicate Ṛk number "1-112-5" printed for two different Ṛks (as printed) `[?]`; small-type passages `[?]`.
