@@ -9725,4 +9725,38 @@ and, having quoted this Ṛk: *manuṣaśabdo 'tra manoḥ paryāyaḥ | manunā
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–22 complete; Ṛk 23 through printed p. 405 (PDF 425): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 406). Next: printed p. 406 (PDF 426). Numerals as read (list stops at printed p. 380): sūtra numbers on p. 404 `[as read]`.
+### Printed p. 406  (PDF 426; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 23)**
+
+*Kavī* — *krāntadarśinau medhāvināv aśvinau*: "The word *kavi* is stated among the twenty-four names of the 'wise one' (*medhāvin*) (Ni. 3-19 [as read]); and:
+
+> विश्वा रूपाणि प्रति मुञ्चते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे ।
+> वि नाकमख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति ॥
+> (ऋ. सं. ५-८१-२)
+
+> *viśvā rūpāṇi prati muñcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade |*
+> *vi nākamakhyatsavitā vareṇyo 'nu prayāṇamuṣaso vi rājati ‖*
+> *(ṛ. saṃ. 5-81-2)*
+
+in this Ṛk the Nirukta author, [explaining] *medhāvī kaviḥ krāntadarśano bhavati kavateḥ vā* (Ni. 12-13 [as read]), has set down the word *kavi* among the synonyms of 'wise one' and so explained that *kavi* means *medhāvin*. And in *viśvā rūpāṇi prati muñcate kaviḥ* too, together with this meaning, he explains that the word *kavi*, derived from the root *kava*, conveys the meaning 'far-seeing'. Sāyaṇa also takes the word *kavī* as an adjective of the word *aśvinā*, and explains that the Aśvins are wise and thoughtful (*vimarśakara*)."
+
+*Apatyasācam* — *apatyaiḥ saha sacate saṃgacchate iti apatyasācam* | *apatyaiḥ putrādibhiḥ samavetam*: "'accompanied by offspring, and the like' is the meaning."
+
+"In this [Ṛk], the prayer is described: that the Aśvins, who are far-seeing, wise, and thoughtful, [as] the seer of the mantra, may produce for us favouring thoughts and blessings (*maṅgala*); that our minds should be so protected as to be right in all works; and that the Aśvins should grant us wealth, [of the kind] to be praised by all, together with sons, grandsons, and so on."
+
+*Rayim* — *dhanam*: "The word *rayi* is stated among the hundred and one names of water (Ni. 1-?? [as read: 'ನಿ. ೨-೩೪']) and also among the twenty-eight names of wealth (Ni. 2-10 [as read]). As Yāska explains — *rayir iti dhananāma | rāter dānakarmaṇaḥ* (Ni. 4-?? [as read]) — it is used here in the sense of wealth."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 23; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Sumatim* — root *mana jñāne*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174 as read), suffix *ktic*; the final acute. *Cake* — root *kai gai śabde*; *vyatyayo bahulam* (Pā. 3-1-85 as read), the middle voice; in the *liṭ*, first person singular, *ṭa*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read), *e* for *ṭi* …
+
+---
+
+### Printed p. 407  (PDF 427; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 23, continued)* … doubling of the root on that account; *ādeca upadeśe 'śiti* (Pā. 6-1-45 as read), since *ā* has come for the root, shortening of the reduplicative syllable, *cutva*; *ato lopa iṭi ca* (Pā. 6-4-64 as read), elision of the root's *a*; *tiṅanta nighāta* accent. *Dhiyaḥ* — root *dhyai cintāyām*; *dhyāyateḥ saṃprasāraṇaṃ ca* (Pā. 3-2-?? as read), the suffix *kvip*; on account of that connection, *saṃprasāraṇa* of the root; lengthening. *Avatam* — root *av rakṣaṇe*; *laṅ*, second person dual; *tiṅanta nighāta* accent. *Asme* — the word *asmad*; with the plural of the fourth case following, *supāṃ sulug* (Pā. 7-1-39), *śe* substituted; since it is *śit*, *anekālśit sarvasya* (Pā. 1-1-55 as read), it replaces the whole; *śeṣe lopaḥ* (Pā. 7-2-90 as read), elision of the part up to *ma*. *Nāsatyā* — *nabhrāṇnapāt…*, irregular; *supāṃ sulug*, *ā* for the case ending; the *nighāta* accent for an *āmantrita*. *Apatyasācam* — *apatyaiḥ saha sacate saṃgacchate iti apatyasāc*; the Vedic *ṇvi* for the root *sac* in the group [?]; since it is *ñit*, *ata upadhāyāḥ* (Pā. 7-2-116 as read), *vṛddhi* of the penultimate; in the compound, *gatikārakopapadāt kṛt* (Pā. 6-2-139), the *kṛdanta* hind-part keeps its natural accent; accusative singular. *Śrutyam* — root *śru śravaṇe*; *striyāṃ ktin*, suffix *ktin*; *śrutiḥ* (hearing) is *stuti*; "what exists there" is *śrutyam*; *bhave chandasi* (Pā. 4-4-110), the suffix *yat*; *yato 'nāvaḥ* (Pā. 6-1-213), the initial acute. *Rarāthām* — root *rā dāne*; *vyatyayo bahulam* (Pā. 3-1-85 as read), the middle voice; *loṭ*, second person dual, *āthām*; *bahulaṃ chandasi* (Pā. 2-4-73 as read), *ślu* for *śap*; *ślau* (Pā. 6-1-10 as read), doubling of the root; *hrasvaḥ* [rule] shortens the reduplicative syllable; since it stands after an *ajanta*, the *nighāta* accent. ‖ 23 ‖
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–23 complete (printed p. 407, PDF 427). Next: printed p. 408 (PDF 428): Ṛk 24 (check whether the printed text has Ṛks 24 and 25 — the contents list gives 25). Numerals as read (list stops at printed p. 380): Ṛ. 5-81-2; Ni. numbers and sūtra numbers on pp. 406–407 `[as read]`.
