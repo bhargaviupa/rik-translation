@@ -2118,4 +2118,153 @@ Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plu
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–16 complete; Ṛk 17 Saṃhitā, Pada and bhāṣya done (through printed p. 80, PDF 100). Next: printed p. 81 (PDF 101) — Ṛk 17 pratipadārtha, bhāvārtha, English, Special Topics. Open: bhāṣya words in small type `[?]`; Pā. numbers as read.
+### Printed p. 81  (PDF 101; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed]; footer signature mark "IX 6")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*vahniḥ* — one who offers the *stotras*; *rebhaḥ* — the *stotṛ*; *vibhātīḥ* — shining by driving away darkness; *uṣasaḥ* — the Uṣas deities; *stavānaḥ* — praising; *vācaḥ* — words related to the Veda; *syūmanā* — joined (well-connected) *ṛk*-s (the *stotra*s); *udiyarti* — utters (hence); *maghoni* — O Uṣas deity, who possess wealth; *adya* — now; *gṛṇate* — to the praiser; *tad uccha* — remove that darkness (which obstructs the sight); *asme* — to us also; *prajāvat* — endowed with sons, grandsons and offspring; *āyuḥ* — food; *ni didīhi* — make shine well (bestow)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The singer praises the shining Uṣases with Vedic hymns. O wealthy Uṣas deity, to such a singer take away the darkness. Give us food together with progeny."
+
+**English Translation (as printed)**
+
+> The offerer of praise, the reciter of praise, celebrating the brilliant Ushas, repeats the well-connected words (of the Veda). Possessor of affluence, dawn to-day upon him who praise [sic] you ; bestow upon us food, whence progeny may be obtained.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**स्यूमना** — *Syūmanā* — "*sukhanāma*": a name of happiness. "The word *syūmana* is stated among the twenty [as read] names of happiness (Ni. 3-14 as read [?]): the meaning is 'happiness'."
+
+**रेभः** — *Rebhaḥ* — "*stotṛnāmaitat*": this is a name of a singer. "Among the many names of the praiser (*stotṛ*) — '*jaritā*', '*kāruḥ*' and the rest — the word *rebhaḥ* is stated (Ni. 3-18 as read [?]). The count of the names printed in the Kannada ('hundred-…') is not clear to me [?]."
+
+"When Sāyaṇa explains the word *syūmanā*: '*syūmāni anusyūtāni saṅgatāni uktāni stotrāṇi*' — stotras, when sung, in which the words of the hymn are connected with each other and give a good meaning. The singer recites stotras of such kind, he says. Skandasvāmin, since the word *syūmanā* denotes 'happiness', explains: '*sukhena akleśena stutilakṣaṇā vācaḥ udiyarti*' — he recites, easily, without trouble, the Vedic sentences that have the nature of praise — [he gives the sense] 'he, of himself, performs the *stotra*-reciting with ease'. And (as the Kannada continues on the next page) …
+
+### Printed p. 82  (PDF 102; header "Maṃ. 1 A. 16 Sū. 113")
+
+… *ātmanaḥ* [read as printed, small [?]] *parokṣarūpeṇa prathamapuruṣeṇa vyapadeśaḥ hotrākhyaṃ ṛtvik kutsanāmā vā ṛṣiḥ udgamayati uccārayati* [read letter by letter from the small type; doubtful [?]]: 'the poet Kutsa, who acts as the *hotṛ* priest, referring to himself here indirectly, in the third person, as one who is engaged as *hotṛ*, utters this praise' — so he says. Further '*rebhaḥ* — the *stotṛ*, *vahniḥ* — because of the capacity to carry (*vahana*), Agni too, being able to bear the oblations, praises the many kinds of lights of Uṣas, [and so] he explains the greatness of Uṣas."
+
+**अस्मे** — *Asme* — "*asmabhyaṃ ca*": "In the Ṛk the prayer of the deity Uṣas is described: 'to the singers, to the sacrificers also, grant sons, grandsons and the rest, and food' — so both commentators explain the meaning. The Nirukta-writer explains that the word *asme*, though it has one form in all the cases, conveys the meaning of a particular case according to the context, and gives the following examples in the particular cases —
+
+(1) > अस्मे ते बन्धुः । वयमित्यर्थः ॥
+> अस्मे इत्येतत्पदं सर्वविभक्त्यन्तम् । तस्मादनेकार्थम् । एकमेव ह्येतच्छब्दरूपं सप्तस्वपि विभक्त्यर्थेषु वर्तते । प्रकरणादिवशात् तस्य नियमो भवति । तद्यथा — प्रथमायास्त्वात् — अस्मे ते बन्धुः । वयमित्यर्थः ॥ [as read; the second passage is in small type, doubtful [?]]
+
+> *asme ityetatpadaṃ sarvavibhaktyantam | tasmādanekārtham | ekameva hyetacchabdarūpaṃ saptasvapi vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati | tadyathā — prathamāyāstvāt — asme te bandhuḥ | vayamityarthaḥ ‖ [as read; the second passage is in small type, doubtful [?]]*
+
+— that is: the word *asme* is used, according to the context, in the sense of all seven cases. Which case's meaning is to be taken is to be said according to that context. For example, in the sentence '*asme te bandhuḥ*' the word *asme* has the sense '*vayam*' — 'we'. This is an example of the sense of the first case.
+
+(2) > अस्मे यातं नासत्या सजोषाः । अस्मानित्यर्थः ॥
+> द्वितीयायास्त्वात् — [*asme* has the sense of the second case]; '*asmān*', 'us'.
+
+> *dvitīyāyāstvāt — [*asme* has the sense of the second case]; '*asmān* ', 'us '.*
+
+"As an example of this meaning —
+
+> आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः ।
+> हवे हि वामश्विना रातहव्यः शश्वत्तमामा उषसो व्युष्टौ ॥
+> (ऋ. सं. १-११८-११ [as read])
+
+> *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*
+> *have hi vāmaśvinā rātahavyaḥ śaśvattamāmā uṣaso vyuṣṭau ‖*
+> *(ṛ. saṃ. 1-118-11 [as read])*
+
+they cite this Ṛk. The word *asme* in this Ṛk has the meaning '*asmān*' — 'us'."
+
+---
+
+### Printed p. 83  (PDF 103; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])  [*asme* in the seven cases, continued]
+
+(3) > अस्मे समानेभिर्वृषभ पौंस्येभिः । अस्माभिरित्यर्थः ॥
+> तृतीयायास्त्वात् —
+
+> *tṛtīyāyāstvāt —*
+
+"Here *asme* means *asmābhiḥ*, 'by us' — the sense of the third case. In this matter —
+
+> भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः ।
+> भूरीणि हि कृणवामा शविष्ठेन्द्र क्रत्वा मरुत्वो यद्वशाम ॥
+> (ऋ. सं. १-१६३-२ [as read; numerals small [?]])
+
+> *bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ |*
+> *bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā marutvo yadvaśāma ‖*
+> *(ṛ. saṃ. 1-163-2 [as read; numerals small [?]])*
+
+— they cite this Ṛk as an example. Here *asme* means *asmābhiḥ*, 'by us'."
+
+(4) > अस्मे प्रयन्धि मघवन्नृजीषिन् । अस्मभ्यमित्यर्थः ॥
+> चतुर्थ्यास्त्वात् —
+
+> *caturthyāstvāt —*
+
+"Here *asme* means *asmabhyam*, 'to us', the sense of the fourth case. Example —
+
+> अस्मे प्रयन्धि मघवन्नृजीषिन्निन्द्र रायो विश्ववारस्य भूरेः ।
+> अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इन्द्र शिप्रिन् ॥
+> (ऋ. सं. ३-३६-१० [as read; [?]])
+
+> *asme prayandhi maghavannṛjīṣinnindra rāyo viśvavārasya bhūreḥ |*
+> *asme śataṃ śarado jīvase dhā asme vīrāñchaśvata indra śiprin ‖*
+> *(ṛ. saṃ. 3-36-10 [as read; [?]])*
+
+— the word *asme* in this Ṛk has the sense of the fourth case, '*asmabhyam*', 'to us'."
+
+(5) > अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु । अस्मदित्यर्थः ॥
+> पञ्चम्यास्त्वात् —
+
+> *pañcamyāstvāt —*
+
+"Here *asme* means *asmat*, 'from us' (from our region): the sense of the fifth case. Example —
+
+> तस्य वयं सुमतौ यज्ञियस्यापि भद्रे सौमनसे स्याम ।
+> स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥
+> (ऋ. सं. ६-४७-१२ [as read])
+
+> *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |*
+> *sa sutrāmā svavā~ indro asme ārācciddveṣaḥ sanutaryuyotu ‖*
+> *(ṛ. saṃ. 6-47-12 [as read])*
+
+— the word *asme* in this Ṛk has the sense of the fifth case, 'from us'."
+
+(6) > ऊर्व इव पप्रथे कामो अस्मे । अस्माकमित्यर्थः ॥
+> षष्ठ्यास्त्वात् —
+
+> *ṣaṣṭhyāstvāt —*
+
+"Here *asme* means *asmākam*, 'our', 'to us'. For the explanation of this meaning —
+
+> आ नो भर भगमिन्द्र द्युमन्तं नि ते देष्णस्य धीमहि प्ररेके ।
+> ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
+> (ऋ. सं. ३-३१-१८ [as read; [?]])
+
+> *ā no bhara bhagamindra dyumantaṃ ni te deṣṇasya dhīmahi prareke |*
+> *ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnām ‖*
+> *(ṛ. saṃ. 3-31-18 [as read; [?]])*
+
+— the word *asme* in this Ṛk has, for *asmākam*, 'our', the sense of the sixth case."
+
+### Printed p. 84  (PDF 104; header "Maṃ. 1 A. 16 Sū. 113")
+
+(7) > अस्मे धत्त वसवो वसूनि । अस्मास्वित्यर्थः ॥
+> सप्तम्यास्त्वात् —
+
+> *saptamyāstvāt —*
+
+"Here *asme* means '*in us*': the sense of the seventh case. Example —
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥
+> (ऋ. सं. १-७९-४ [as read])
+
+> *agne vājasya gomata īśānaḥ sahaso yaho |*
+> *asme dhehi jātavedo mahi śravaḥ ‖*
+> *(ṛ. saṃ. 1-79-4 [as read])*
+
+— the word *asme* in this Ṛk has the sense of the seventh case, '*asmāsu*', 'in us'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 17; grammar page, noted briefly)**
+
+Grammar page on *syūmanā* (*sivu* "to sew", in the sense of continuation; the suffix *manin* by *anyebhyo 'pi dṛśyante*, Pā. 3-2-75 as read [?], stated to apply, by the word *dṛśi*, in all the specifications; the passive *manin* after the root; the *ūṭh* substitution for *v* by *chvoḥ śūḍ anunāsike ca*, Pā. 6-4-19 as read [?]; the *yaṇ*; the form *syūman*; with the *jas*-neuter, *śi* → *ā*, elision by *śeś chandasi bahulam*; or *ṭha*, *vuk* in the abstract by *ṇādika*; "bound with bonds" is the sense; in the second view the first syllable is accented by *vyatyaya*), *vācaḥ* (genitive/accusative with the accent of the ending in *jas*/*śas* by *sāvekācas tṛtīyādiḥ*, Pā. 6-1-168), *iyarti* (*ṛ* "to go", *juhotyādi*, *laṭ* 3rd singular *tip*; *śluḥ* by *juhotyādibhyaḥ śluḥ*, Pā. 2-4-75 as read [?]; the doubling of the root by *ślau*; *i* in the reduplication by *arti-pipartyoś ca*; guṇa of the root's *ṛ* by *sārvadhātukārdhadhātukayoḥ*; *raparatva*; *abhyāsasyāsavarṇe*, Pā. 6-4-78 as read [?], the *iy* substitute for the reduplication's *i*; *tiṅ atiṅaḥ* nighāta).
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–16 complete; Ṛk 17 through printed p. 84 (PDF 104): *asme* in all seven cases done, grammar page begun (continues p. 85). Next: printed p. 85 (PDF 105). Open: Ṛk numerals in the seven examples as read `[?]` (1-163-2, 3-36-10, 6-47-12, 3-31-18, 1-79-4); Pā. numbers as read.
