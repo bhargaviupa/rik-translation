@@ -1040,7 +1040,7 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 
 ### Printed p. 36  (PDF 56; header "Maṃ. 1 A. 16 Sū. 113")
 
-*Grammar page, concluded:* *abhipracakṣe* (*abhi*; *cakṣiṅ* "to speak clearly", a root with several senses, here used in the sense of "to shine"; the infinitive in *se* by *tumarthe sesen…*; elision of *k* by *skoḥ saṃyogādyor ante ca*; *ṣatva* by *ṣaḍhoḥ kaḥ si*; the *ṣa* from the suffix by the change of *s*; indeclinable by *kṛn mejantaḥ*). ‖ 6 ‖
+*Grammar page, concluded:* *abhipracakṣe* (*abhi*; *cakṣiṅ* "to speak clearly", a root with several senses, here used in the sense of "to shine"; the infinitive in *se* by *tumarthe sesenasen…*, Pā. 3-4-9; elision of *k* by *skoḥ saṃyogādyor ante ca*, Pā. 8-2-29; *ṣatva* by *ṣaḍhoḥ kaḥ si*, Pā. 8-2-41; the *ṣa* from the suffix by the change of *s*; indeclinable by *kṛn mejantaḥ*, Pā. 1-1-39 — all four numbers as printed, confirmed by the reader's OCR). ‖ 6 ‖
 
 *(Printer's ornament.)*
 
@@ -1074,7 +1074,7 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 
 *Sense (mine):* "*Divo duhitā* — like a daughter of the sky (*vyoman*); for in the eastern part of it Uṣas is born. This Uṣas, dispelling (*vyucchantī*) the darkness, *pratyadarśi* — has come into view of all beings. What is she like? *Yuvatiḥ* — she who unites (*yāvayitrī*) men with the fruits [of their works], or one with ever-fresh youth; *śukravāsāḥ* — white-robed, or of spotless splendour; and *īśānā* — the mistress — of all (*viśvasya*) earthly (*pārthivasya*) wealth (*vasvaḥ*). O *subhage*, possessed of fine wealth, Uṣas, such as thou art, to-day, here, in this place of sacrifice, *vyuccha* — dispel the darkness, drive it away, is the sense."
 
-*Grammatical tail (characterized, not transcribed):* *divaḥ* (the accent of the ending by the rule *ūḍidam*…); *vyucchantī* (*uchi* "to depart, dispel", tudādi; *viv-āsa* "driving away"); *yuvatiḥ* (the feminine of *yūn* by the Pāṇinian *yūnas ti*, number as read "4-1-77" [?]); *śukravāsāḥ* (*vas* "to cover"; "*vaste sarvam ācchādayatīti*" — the light is the *vāsas*; bahuvrīhi, first-member accent); *īśānā* (*īś* "to be master", adādi, the elision of *śap*; the root accent as the ending is *anudāttet*); *pārthivasya* (from *pṛthivī*, the suffix *añ*); *vasvaḥ* (gender change: genitive singular used for a feminine; the substitute of *yaṇ* for the elided *jas* ending in Vedic — "*ṣaṣṭhyāḥ jasādiṣu chandasi vāvacanam*").
+*Grammatical tail (characterized, not transcribed):* *divaḥ* (the accent of the ending by the rule *ūḍidam*…); *vyucchantī* (*uchi* "to depart, dispel", tudādi; *viv-āsa* "driving away"); *yuvatiḥ* (the feminine of *yūn* by the Pāṇinian *yūnas ti*, Pā. 4-1-77 as printed, confirmed by the reader's OCR); *śukravāsāḥ* (*vas* "to cover"; "*vaste sarvam ācchādayatīti*" — the light is the *vāsas*; bahuvrīhi, first-member accent); *īśānā* (*īś* "to be master", adādi, the elision of *śap*; the root accent as the ending is *anudāttet*); *pārthivasya* (from *pṛthivī*, the suffix *añ*); *vasvaḥ* (gender change: genitive singular used for a feminine; the substitute of *yaṇ* for the elided *jas* ending in Vedic — "*ṣaṣṭhyāḥ jasādiṣu chandasi vāvacanam*").
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
 
