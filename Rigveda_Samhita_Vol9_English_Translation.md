@@ -10891,4 +10891,52 @@ In this Ṛk, *vasubhiḥ sajoṣāḥ* means *saha joṣaṇaḥ samānaprīti�
 
 ---
 
-**Progress note:** Sūkta 119: Ṛk 1 through printed p. 455 (PDF 475): all parts done except the end of its grammar (continues p. 456). Next: printed p. 456 (PDF 476). Numerals as read: Ni. numbers on p. 454 `[as read]`, sūtra numbers on p. 455 `[as read]`.
+### Printed p. 456  (PDF 476; header "Maṃ. 1 A. 17 Sū. 119")
+
+*Grammar of Ṛk 1, concluded (noted briefly; sūtra numbers as read):* *Vaninam* — *vanam udakam asyāsti iti vanī*; *ata iniṭhanau* (Pā. 5-2-115 as read), the suffix *ini* in the sense of *matup*; by the suffix's accent the *i* becomes acute; accusative singular form. *Śatadvasum* — *śataṃ vasu yasya saḥ śatavasuḥ, tam*; by Vedic usage the augment *t* comes; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read), the former member keeps its natural accent. *Varivodhām* — *varivasaḥ dātā*; root *dudhāñ dhāraṇapoṣaṇayoḥ*; the suffix *viṭ*; *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent. ‖ 1 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.2)**
+
+> ऊर्ध्वा धीतिः प्रत्यस्य प्रयाम्यधायि शस्मन्त्सनीयन्त आ दिशः ।
+> स्वदामि घर्मं प्रति यन्त्यूतय आ वामूर्जानी रथमश्विनारुहत् ॥ २ ॥
+
+> *ūrdhvā dhītiḥ pratyasya prayāmyadhāyi śasmantsanīyanta ā diśaḥ |*
+> *svadāmi gharmaṃ prati yantyūtaya ā vāmūrjānī rathamaśvināruhat ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.2)**
+
+> ऊर्ध्वा । धीतिः । प्रति । अस्य । प्रऽयामनि । अधायि । शस्मन् ।
+> सम् । अयन्ते । आ । दिशः ।
+> स्वदामि । घर्मम् । प्रति । यन्ति । ऊतयः । आ । वाम् । ऊर्जानी ।
+> रथम् । अश्विना । अरुहत् ॥ २ ॥
+
+> *ūrdhvā | dhītiḥ | prati | asya | pra 'yāmani | adhāyi | śasman |*
+> *sam | ayante | ā | diśaḥ |*
+> *svadāmi | gharmam | prati | yanti | ūtayaḥ | ā | vām | ūrjānī |*
+> *ratham | aśvinā | aruhat ‖ 2 ‖*
+
+*(Printed Saṃhitā "sanīyanta"/Pada "sam ayante": the Saṃhitā as printed reads "śasmantsanyanta ā diśaḥ" [?]; I give the reading of the Pada, which is clearer.)*
+
+---
+
+### Printed p. 457  (PDF 477; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.2)** *(small type; read with some doubts)*
+
+> अस्य रथस्य प्रयामनि प्रयाणे प्रगमने सति तस्मिन्नश्विनोः शंसने स्तवने धीतिरस्मदीया बुद्धिरूर्ध्वोन्मुखा प्रत्यधायि । प्रत्यस्थायि । तदनन्तरं दिशो देवान्नाः [?] स्तुतयोऽपि समयन्ते । अश्विभ्यां संगच्छन्ते । अकारः समुच्छ्येदः [?] । अहं च स्तोता घर्मं महावीरस्थं [?] यद्वा स्फुरणशीलाज्यादिकं हविः स्वदामि । स्वादु करोमि । ऊतयो रक्षका ऋत्विजश्च प्रति यन्ति । घर्मं प्रति गच्छन्ति संस्कारार्थम् । अपि च हे अश्विनौ वां युवयो रथमूर्जानी सूर्यस्य दुहितारुहत् । आरूढवती ॥ प्रयामनि । या प्रापणे । आतो मनिन्निति कृत्यल्युटो बहुलमिति बहुलवचनाद्भावे मनिन् । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । शस्मन् । शंसु स्तुतौ । अन्येभ्योऽपि दृश्यन्त इति मनिन् । दृशिग्रहणस्य विध्यन्तलोपसंग्रहार्थत्वादुपधानकारलोपः । सुपां सुलुगिति सप्तम्या लुक् । अयन्ते । अय पय गतौ । भौवादिकोऽनुदात्तेत् । ऊतयः । क्तिच्क्तौ च संज्ञायामित्यवतेः कर्तरि क्तिच् । ज्वरत्वरेत्यादिना वकारोपधयोरूट् । अरुहत् । कृमृदृरुहिभ्यः इति च्लेरङादेशः ॥ [as read]
+
+> *asya rathasya prayāmani prayāṇe pragamane sati tasminnaśvinoḥ śaṃsane stavane dhītirasmadīyā buddhirūrdhvonmukhā pratyadhāyi | pratyasthāyi | tadanantaraṃ diśo devānnāḥ [?] stutayo 'pi samayante | aśvibhyāṃ saṃgacchante | akāraḥ samucchyedaḥ [?] | ahaṃ ca stotā gharmaṃ mahāvīrasthaṃ [?] yadvā sphuraṇaśīlājyādikaṃ haviḥ svadāmi | svādu karomi | ūtayo rakṣakā ṛtvijaśca prati yanti | gharmaṃ prati gacchanti saṃskārārtham | api ca he aśvinau vāṃ yuvayo rathamūrjānī sūryasya duhitāruhat | ārūḍhavatī ‖ prayāmani | yā prāpaṇe | āto maninniti kṛtyalyuṭo bahulamiti bahulavacanādbhāve manin | dāsībhārāditvātpūrvapadaprakṛtisvaratvam | śasman | śaṃsu stutau | anyebhyo 'pi dṛśyanta iti manin | dṛśigrahaṇasya vidhyantalopasaṃgrahārthatvādupadhānakāralopaḥ | supāṃ sulugiti saptamyā luk | ayante | aya paya gatau | bhauvādiko 'nudāttet | ūtayaḥ | kticktau ca saṃjñāyāmityavateḥ kartari ktic | jvaratvaretyādinā vakāropadhayorūṭ | aruhat | kṛmṛdṛruhibhyaḥ iti cleraṅādeśaḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "At the *prayāman* — the setting out, the going — of this chariot, in the praising of the Aśvins, our *dhīti* — thought — has been set upwards (*ūrdhvā*, turned up) [*adhāyi*]. Thereupon the *diśaḥ* — the directions, [or the] praises — come together (*saṃ ayante*) with the Aśvins. And I, the praiser, make sweet (*svadāmi*) the *gharma* — the *mahāvīra* vessel [?], or the oblation of quivering ghee and the like. The *ūtayaḥ* — the protecting priests — go (*prati yanti*) to the *gharma* for the sake of consecration. And, O Aśvins, *ūrjānī* — the daughter of Sūrya — mounted (*aruhat*) your chariot."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.2)** (Kannada, rendered)
+
+*Asya* — of this chariot; *prayāmani* — in its moving; *dhītiḥ* — (our) mind; *śasman* — in (your) praising; *ūrdhvā* — turned upwards with zeal; *prati adhāyi* — is placed (is directed); *diśaḥ* — (our) praises; *ā samayante* — join (you); *(ahaṃ)* — I; *gharmam* — the ghee and the like oblation; *svadāmi* — make sweet (savoury); *ūtayaḥ* — priests, protectors of the sacrifice; *prati yanti* — approach (for the sake of consecration of the ghee); *(he) aśvinā* — O Aśvins; *vām* — your; *ratham* — chariot; *ūrjānī* — Ūrjānī (the daughter of Sūrya); *ā aruhat* — mounted.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.2)** (Kannada, rendered)
+
+"For the going of this your chariot, our mind is absorbed in praising you; our praises also join you; I make the oblation of ghee and the like more delightful; O Aśvins, the priests, protectors of the sacrifice, take up the consecration of the ghee; and Ūrjānī (the daughter of Sūrya) mounts your chariot."
+
+---
+
+**Progress note:** Sūkta 119: Ṛk 1 complete; Ṛk 2 through printed p. 457 (PDF 477): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English, Special Topics and grammar follow (p. 458). Next: printed p. 458 (PDF 478). Numerals as read: sūtra numbers on p. 456 `[as read]`.
