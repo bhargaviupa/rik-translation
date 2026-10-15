@@ -10198,4 +10198,66 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–3 complete (printed p. 425, PDF 445). Next: printed p. 426 (PDF 446): Ṛk 4 Saṃhitā. Numerals as read (list stops at printed p. 380): Ni. 3-19, 3-5, 9-11 and sūtra numbers on pp. 424–425 `[as read]`.
+### Printed p. 426  (PDF 446; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.4)**
+
+> आ वां श्येनासो अश्विना वहन्तु रथे युक्तास आशवः पतङ्गाः ।
+> ये अप्तुरो दिव्यासो न गृध्रा अभि प्रयो नासत्या वहन्ति ॥ ४ ॥
+
+> *ā vāṃ śyenāso aśvinā vahantu rathe yuktāsa āśavaḥ pataṅgāḥ |*
+> *ye apturo divyāso na gṛdhrā abhi prayo nāsatyā vahanti ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.4)**
+
+> आ । वाम् । श्येनासः । अश्विना । वहन्तु । रथे । युक्तासः ।
+> आशवः । पतङ्गाः ।
+> ये । अप्ऽतुरः । दिव्यासः । न । गृध्राः । अभि । प्रयः । नासत्या ।
+> वहन्ति ॥ ४ ॥
+
+> *ā | vām | śyenāsaḥ | aśvinā | vahantu | rathe | yuktāsaḥ |*
+> *āśavaḥ | pataṅgāḥ |*
+> *ye | ap 'turaḥ | divyāsaḥ | na | gṛdhrāḥ | abhi | prayaḥ | nāsatyā |*
+> *vahanti ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.4)**
+
+> हे अश्विनौ रथे युक्तासः सारथिना वहनप्रदेशे योजिता आशवो व्याप्नुवन्तः पतङ्गाः पतनसमर्थाः श्येनासः शंसनीयगमना अश्वा वां युवामा वहन्तु । अस्मदभिमुखमानयन्तु । येऽश्वा अप्तुर आप इव त्वरोपेता दिव्यासो न गृध्रा अन्तरिक्षे वर्तमाना गृध्राख्याः पक्षिण इव शीघ्रं गच्छन्तो हे नासत्यौ युवां प्रयो हविर्लक्षणमन्नमभिलक्ष्य वहन्ति प्रापयन्ति । ताद्दशा इति पूर्वत्र संबन्धः ॥ अप्तुरः । तुर त्वरणे । अप्स्वित्युपपदादस्मात्क्विप् चेति क्विप् ॥
+
+> *he aśvinau rathe yuktāsaḥ sārathinā vahanapradeśe yojitā āśavo vyāpnuvantaḥ pataṅgāḥ patanasamarthāḥ śyenāsaḥ śaṃsanīyagamanā aśvā vāṃ yuvāmā vahantu | asmadabhimukhamānayantu | ye 'śvā aptura āpa iva tvaropetā divyāso na gṛdhrā antarikṣe vartamānā gṛdhrākhyāḥ pakṣiṇa iva śīghraṃ gacchanto he nāsatyau yuvāṃ prayo havirlakṣaṇamannamabhilakṣya vahanti prāpayanti | tāddaśā iti pūrvatra saṃbandhaḥ ‖ apturaḥ | tura tvaraṇe | apsvityupapadādasmātkvip ceti kvip ‖*
+
+*Sense (mine):* "O Aśvins, may the horses — *yuktāsaḥ* yoked to the chariot at the place of drawing by the charioteer; *āśavaḥ* — quick (all-pervading); *pataṅgāḥ* — able to fly; *śyenāsaḥ* — of praiseworthy gait — bring you here (*ā vahantu*), facing us. Those horses which are *apturaḥ* — swift like waters; *divyāsaḥ na gṛdhrāḥ* — going swiftly like the birds called vultures that move in mid-air — convey you, O Nāsatyas, *prayaḥ abhi* — towards the offering of food (the oblation); 'such [horses]' is the connection with what precedes." *Apturaḥ*: root *tura tvaraṇe*, when *apsu* is the *upapada*, *kvip*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.4)** (Kannada, rendered)
+
+*Nāsatyā* — O Nāsatyas; *ye* — which (your horses); *apturaḥ* — swift like water; *divyāsaḥ* — [moving] in the air; *gṛdhrāḥ na* — like vultures (swift-going); *prayaḥ abhi* — to the side of the oblation (carrying you two); *vahanti* — take; *aśvinā* — O Aśvins; *(te — those)*; *rathe yuktāsaḥ* — harnessed to the chariot; *āśavaḥ* — swift-going; *pataṅgāḥ* — flying; *śyenāsaḥ* — (horses) going like birds; *vām* — you two; *ā vahantu* — let them bring (to our neighbourhood).
+
+---
+
+### Printed p. 427  (PDF 447; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.4)** (Kannada, rendered)
+
+"O Nāsatyas! Let your horses — swift like flowing water, carrying you through the air like vultures flying there, to the oblation, running, fast-going, with gait like birds — harnessed to the chariot, bring you both to our neighbourhood."
+
+**English Translation (as printed)**
+
+"May your quick-moving, prancing steeds, rapid as hawks, yoked to your car, bear you, Aswins, (hither), who, quick as (falling) water, like vultures [sic: "vultnres"] flying through the air, convey you, Nasatyas, to the sacrifice."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 4)**
+
+*Pataṅgāḥ* — *patanasamarthāḥ*: "The word *pataṅga* is stated among the names of horses (Ni. 3-26 [as read]). 'Those which go swiftly' is Sāyaṇa's [explanation]; 'horses' is Skandasvāmin's meaning."
+
+*Prayaḥ* — *havirlakṣaṇam annam*: "The word *prayas* is stated among the twenty-eight names of food (Ni. 2-5 [as read]); hence the meaning 'food'. May the horses of the chariot, with fine charioteer, in which the Aśvins are seated, come with the swift motion of hawks to our sacrifice; may they bring the Aśvins near us — thus the prayer."
+
+*Apturaḥ divyāso na gṛdhrāḥ* — *āpa iva tvaropetāḥ | antarikṣe vartamānā gṛdhrākhyāḥ pakṣiṇa iva śīghraṃ gacchantaḥ*: "The horses of the Aśvins' chariot run with the speed of flowing water; and, like vultures flying in the air, they go swiftly" — so Sāyaṇa; and Skandasvāmin:
+
+> आपोऽन्तरिक्षं तत्र त्वरितारौ त्वरयितारौ वा मेघस्य । आपः उदकानि तत्र त्वरितारौ वा [?] मेघस्य । [as read; small type]
+
+> *āpo 'ntarikṣaṃ tatra tvaritārau tvarayitārau vā meghasya | āpaḥ udakāni tatra tvaritārau vā [?] meghasya | [as read; small type]*
+
+"*Āpaḥ* means mid-air: in mid-air they hasten, or they hasten the clouds in order that rain fall; or [they hasten] the waters (*udakāni*) to rain" — thus Skandasvāmin explains.
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–3 complete; Ṛk 4 through printed p. 427 (PDF 447): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar follows (p. 428). Next: printed p. 428 (PDF 448). Numerals as read (list stops at printed p. 380): Ni. 3-26, 2-5 `[as read]`.
