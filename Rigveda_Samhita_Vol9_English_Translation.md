@@ -10172,4 +10172,30 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–2 complete; Ṛk 3 through printed p. 423 (PDF 443): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics begun (continues p. 424). Next: printed p. 424 (PDF 444). Numerals as read (list stops at printed p. 380): sūtra numbers on p. 422 `[as read]`.
+### Printed p. 424  (PDF 444; header "Maṃ. 1 A. 17 Sū. 118")
+
+*(Special Topics of Ṛk 3, continued)* "*Pravadyāmā* — thus Skandasvāmin's exposition. The word *yāma* denotes what pertains to the sacrifice. The chariot is the means that brings the deities (swiftly) to the sacrifice, [hence] he explains [*pravadyāmā*] as an adjective of the chariot."
+
+*Ślokam adreḥ* — *ādaraṃ kurvataḥ stutilakṣaṇāṃ vācam*: "Sāyaṇa gives the meaning 'the speech of one who praises with reverence (*viśvāsa*, trust)'. Skandasvāmin gives *adreḥ* the meaning *abhiṣavagrāvṇaḥ* ('of the pressing-stone') and the word *ślokam* the meaning *śabdam*: 'the sound of the stones that press out the soma-juice'."
+
+*Viprāsaḥ* — *medhāvinaḥ*: "The word *vipra* is stated among the twenty-four names of 'wise' (Ni. 3-19 [as read]); hence the meaning 'wise'. The ancient ones: [they say that] the Aśvins, hearing, in the sacrifice, the praises recited by the priests and the sacrificers — those who come with a swift, comfortable chariot — come quickly to remove their poverty; so, [by] praising the Aśvins, they become worthy of their favour, and [we pray]: 'remove our poverty'. Skandasvāmin explains the first half and the second half of this Ṛk as *ākṣepa* (objection) and *samādhāna* (reply):
+
+> परेणार्धर्चेन उक्तमात्रा [?] अनागच्छन्तौ कुपित इवाह किमङ्गेति । … नैव हि युवां क्षिप्रमुपगन्तारौ यज्ञानां यावस्मद्यज्ञमुक्तमात्रेण नागच्छतम् । [as read; small type, doubtful [?]]
+
+> *pareṇārdharcena uktamātrā [?] anāgacchantau kupita ivāha kimaṅgeti | … naiva hi yuvāṃ kṣipramupagantārau yajñānāṃ yāvasmadyajñamuktamātreṇa nāgacchatam | [as read; small type, doubtful [?]]*
+
+— 'In the first half, rebuking the Aśvins, as if angry that they were not coming, [the poet] says "*kim aṅga*" — "is it not so?"; and in the latter half, the objection: "You are not men who come quickly to sacrifices, since you do not come at the mere word of our sacrifice" — you are not of those who come hurriedly; you are of the wise men of old; the ancient ones are praised; but you did not come for our sacrifice' — such is the expression of reproach." The word *śloka* is stated among the fifty-one names of speech (Ni. 3-5 [as read]); and *ślokaḥ śrūyateḥ* (Ni. 9-11 [as read]) is explained by the Nirukta author; so it means 'a praise-word'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Pravadyāmanā* — here *pra*, an *upasarga* joined with *su*, conveys the sense of the verbal root; after this *pra* [which has] the sense of the root, *upasargāc chandasi dhātvarthe* (Pā. 5-1-118 as read), the suffix *vati*; the form *pravat*. Root *yā prāpaṇe*; *ato maniṇ-kvanib-vanipaś ca* (Pā. 3-2-74 as read), since the word *bahulam* is understood, the suffix *manin* in the abstract sense; *pravad yāma yasya saḥ pravadyāmā*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1), the former member keeps its natural accent; *sarve vidhayaś chandasi vikalpyante*; in the instrumental singular, the *a* of *an* is not elided.
+
+---
+
+### Printed p. 425  (PDF 445; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Dasrau* — because it stands at the beginning of a pāda, the *āmantrita* *nighāta* does not occur; *āmantritasya ca* (Pā. 6-1-198 as read), the initial acute. *Śṛṇutam* — root *śru śravaṇe*; *loṭ*, second person dual; *tam* substituted; *śruvaḥ śṛ ca* (Pā. 3-1-74 as read), *śṛ* substituted for the root; *śnu* vikaraṇa; since both the vikaraṇa and the suffix are *ṅit*, *guṇa* does not occur; since it stands after an *ajanta*, the *nighāta* accent. *Adreḥ* — root *dṛñ ādare*; the prefix *ā* before it; *auṇādika kip*; *hrasva* for the *ā* of the *āñ*; since the *i* of the suffix remains, *yaṇ* is substituted on account of it; "one who shows reverence" is the meaning; genitive singular form. *Gamiṣṭhā* — root *gam̐ḷ gatau*; the suffix *tṛc*, the word *gantṛ*; to it, when the sense of exceeding is meant, *tuś chandasi* (Pā. 5-3-59 as read), the suffix *iṣṭhan*; with it following, *turiṣṭhemeyaḥsu* (Pā. 6-4-154 as read), elision of *tṛ*; the form *gamiṣṭha*; with the dual following, *supāṃ sulug* (Pā. 7-1-39), *ā* for it. *Āhuḥ* — root *brūñ vyaktāyāṃ vāci*; *laṭ*, third person plural, *jhi* following; *brūvaḥ pañcānām ādita āho brūvaḥ* (Pā. 3-4-84 as read), *jhi* gets *ul*-substitution; *āha* substituted for the root; here the *h* and the *r* are for pronunciation; because it stands at the beginning of a pāda, no *nighāta*; by the suffix's accent, the final acute. *Viprāsaḥ* — the word *vipra* with *jas* following, *āj jaser asuk* (Pā. 7-1-50 as read), *asuk* for *jas*. *Purājāḥ* — *purā jātāḥ purājāḥ*; root *janī prādurbhāve*; *anyeṣv api dṛśyante* (Pā. 3-2-101 as read), when *purā* is the *upapada*, the suffix *ḍa*; since *ḍit*, *ṭi*-elision of the root; *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent. ‖ 3 ‖
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–3 complete (printed p. 425, PDF 445). Next: printed p. 426 (PDF 446): Ṛk 4 Saṃhitā. Numerals as read (list stops at printed p. 380): Ni. 3-19, 3-5, 9-11 and sūtra numbers on pp. 424–425 `[as read]`.
