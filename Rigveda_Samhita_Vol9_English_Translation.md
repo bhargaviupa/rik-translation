@@ -1354,7 +1354,7 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 *Sense (mine):* "*Samayā* is an indeclinable meaning 'near'. '*Uṣāḥ samayā bhavāti*' — 'Uṣas is near': for how long (*kiyāti*), for how much time has this been going on, and when will it end? — the *ā* has the sense of a question. This is what is meant: for how much time is Uṣas joined — how long is that time, what is the measure of that time? By this is stated the endlessness of Uṣas. He makes that clear: the Uṣases who formerly *vyūṣuḥ* — had dawned, been born; and those who surely hereafter *vyucchān* — will dawn. Among them, wishing for the past dawned Uṣases, the Uṣas of the present *anu kṛpate*: is able to follow, is capable. As the past Uṣases made light, so this one too makes light: this is the sense. And *pradīdhyānā*, shining forth brilliantly, Uṣas *joṣam* — meets with the other, coming Uṣases: the coming ones too will imitate her light."
 
-*Grammatical tail (characterized, not transcribed):* *kiyāti* (the suffix *ghá* by *kim-idaṃbhyāṃ vo ghaḥ*, Pā. 5-2-40 as printed; by the capacity of this *gha*-rule *vatup* takes the *gha* form even after *kim* in the sense of measure; *kim* → *kī* by *idaṅkimor īś kī*, Pā. 6-3-90 as printed; the elision of *a* by *yasya iti ca*; the accent on the first syllable of the suffix; the lengthening in the Saṃhitā as Vedic); *bhavāti* (subjunctive, *laṭ*, with the augment *aṭ* in the *leṭ*); *vyūṣuḥ* (*vas* "to dwell", *vi*-prefixed in the sense of "to shine forth"; *liṭ*; *kittva*, with *saṃprasāraṇa* and doubling); *vyucchān* (*uchī* "to dispel"; the augment *leṭ*; elision of the final consonant-conjunction); *kṛpate* (*kṛpū* "to be able", the substitution of *ṣ* by *vyatyaya*); *vāvaśānā* (*vaś* "to wish", *kānt*; *śānac* in the *liṭ* sense by *chandasi luṅlaṅliṭaḥ*); *pradīdhyānā* (*dīdhīṅ* "to shine", *laṭ* *śānac*; the elision of *śap* by *adādi*…); the accent of the compound with the prefix by *gatisamāse kṛduttarapadaprakṛtisvaratva*.
+*Grammatical tail (characterized, not transcribed):* *kiyāti* (the suffix *ghá* by *kim-idaṃbhyāṃ vo ghaḥ*, Pā. 5-2-40 as printed; by the capacity of this *gha*-rule *vatup* takes the *gha* form even after *kim* in the sense of measure; *kim* → *kī* by *idaṅkimor īś kī*, Pā. 6-3-60 (as printed; confirmed by the reader's OCR); the elision of *a* by *yasya iti ca*; the accent on the first syllable of the suffix; the lengthening in the Saṃhitā as Vedic); *bhavāti* (subjunctive, *laṭ*, with the augment *aṭ* in the *leṭ*); *vyūṣuḥ* (*vas* "to dwell", *vi*-prefixed in the sense of "to shine forth"; *liṭ*; *kittva*, with *saṃprasāraṇa* and doubling); *vyucchān* (*uchī* "to dispel"; the augment *leṭ*; elision of the final consonant-conjunction); *kṛpate* (*kṛpū* "to be able", the substitution of *ṣ* by *vyatyaya*); *vāvaśānā* (*vaś* "to wish", *kānt*; *śānac* in the *liṭ* sense by *chandasi luṅlaṅliṭaḥ*); *pradīdhyānā* (*dīdhīṅ* "to shine", *laṭ* *śānac*; the elision of *śap* by *adādi*…); the accent of the compound with the prefix by *gatisamāse kṛduttarapadaprakṛtisvaratva*.
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
 
@@ -1372,7 +1372,7 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 **॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
 
-**अनुकृपते** — *Anukṛpate* — "*anukalpate samarthā bhavati*": "Since the Uṣases rise every day earlier than the rising of the Sun, among these there are three divisions in usage: past (*atīta*), that is, passed; present (*vartamāna*), that is, those reached in the time arrived at; future (*āgāmi*), those yet to come. Sāyaṇa says that in the light of the Uṣas who is now going on, she is able to follow, by her own light, the light of those past ones, and he describes the similarity of lustre between the past, the present (Uṣases) in respect of their light. Skandasvāmin, because the root *kṛp* is read in the forty-four [as read] *arcati*-actions (Ni. 3-14 as read [?]) beginning '*arcati*, *gāyati*', explains *anukṛpate* as 'worships':
+**अनुकृपते** — *Anukṛpate* — "*anukalpate samarthā bhavati*": "Since the Uṣases rise every day earlier than the rising of the Sun, among these there are three divisions in usage: past (*atīta*), that is, passed; present (*vartamāna*), that is, those reached in the time arrived at; future (*āgāmi*), those yet to come. Sāyaṇa says that in the light of the Uṣas who is now going on, she is able to follow, by her own light, the light of those past ones, and he describes the similarity of lustre between the past, the present (Uṣases) in respect of their light. Skandasvāmin, because the root *kṛp* is read in the forty-four [as read] *arcati*-actions (Ni. 3-19, as the reader's OCR reads it) beginning '*arcati*, *gāyati*', explains *anukṛpate* as 'worships':
 
 > यच्च उषस्युदितायां स्तोतारः स्तुवन्ति तदुषा इव स्तौतीत्युच्यते ।
 
@@ -1708,7 +1708,7 @@ in this Ṛk [the Nirukta explains] '*apāsarad uṣā anasaḥ saṃpiṣṭān
 > *sasāra sīṃ parāvataḥ ‖*
 > *(ṛ. saṃ. 4-30-11 [as read])*
 
-'*etad asyā anaḥ āśete vimuktaṃ pāśi sasāroṣāḥ parāvataḥ preritavataḥ parāgatād vā*' (Ni. 11-49 as read [?]): in this statement, which says, looking at the clouds changed into the form of water (the sense of *udakabhāva*), the chariot of Uṣas, being sheltered by the cloud, here is described as having loose joints [?] from the speed of the wind; from which it is to be understood that Uṣas is a deity of the middle region (*madhyasthāna*)."
+'*etad asyā anaḥ āśete vimuktaṃ pāśi sasāroṣāḥ parāvataḥ preritavataḥ parāgatād vā*' (Ni. 11-48 (as the reader's OCR reads it)): in this statement, which says, looking at the clouds changed into the form of water (the sense of *udakabhāva*), the chariot of Uṣas, being sheltered by the cloud, here is described as having loose joints [?] from the speed of the wind; from which it is to be understood that Uṣas is a deity of the middle region (*madhyasthāna*)."
 
 ---
 
@@ -1726,17 +1726,17 @@ in this Ṛk [the Nirukta explains] '*apāsarad uṣā anasaḥ saṃpiṣṭān
 > (नि. १२-८ [as read])
 
 > *yadyoktaṃ [?] — tadvā idaṃ vikalpena dyusthānāyoḥ [?] yo punaritarā mādhyamikā uṣāḥ na tasyāḥ vikalpaḥ kiṃ tarhi ucchatereva sā vivāsanārthasya vivāsayati udakāni vivāsyate vā megho madhyameneti [?]*
-> *(ni. 12-8 [as read])*
+> *(ni. 12-7, as the reader's OCR reads it)*
 
 [The Nirukta clause is read letter by letter from the print and is doubtful [?]; the Kannada gives its sense:] "From the root *uchī*, whose sense is 'to drive away', the Uṣas known through the word — she is in the middle region (atmosphere), pouring the waters that are in the clouds: she shines in the form of a deity, which is the alternative [that Yāska offers]."
 
 > उषस्तच्चित्रमा भरास्मभ्यं वाजिनीवति ।
 > येन तोकं च तनयं च धामहे ॥
-> (ऋ. सं. १-९२-१३ [as read])
+> (ऋ. सं. १-९५-१३ [as read])
 
 > *uṣastaccitramā bharāsmabhyaṃ vājinīvati |*
 > *yena tokaṃ ca tanayaṃ ca dhāmahe ‖*
-> *(ṛ. saṃ. 1-92-13 [as read])*
+> *(ṛ. saṃ. 1-95-13 (as the reader's OCR reads it))*
 
 "In this Ṛk a prayer is made that wealth, cattle, sons, etc., that is common to both (kinds of Uṣas), be bestowed.
 
@@ -1940,11 +1940,11 @@ In this Ṛk the word *ketu* is used in the sense of knowledge.
 
 > उषस्तच्चित्रमा भरास्मभ्यं वाजिनीवति ।
 > येन तोकं च तनयं च धामहे ॥
-> (ऋ. सं. १-९२-१३ [as read])
+> (ऋ. सं. १-९५-१३ [as read])
 
 > *uṣastaccitramā bharāsmabhyaṃ vājinīvati |*
 > *yena tokaṃ ca tanayaṃ ca dhāmahe ‖*
-> *(ṛ. saṃ. 1-92-13 [as read])*
+> *(ṛ. saṃ. 1-95-13 (as the reader's OCR reads it))*
 >
 > चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।
 > आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥
@@ -2070,13 +2070,13 @@ Here also the word *asu* denotes life-breath (Ni. 11-19 as read [?]).
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 16; grammar page, noted briefly)**
 
-Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plural, *dhvam* ending; *ṭita ātmanepadānāṃ ṭer e* — *e* for the final; the *e* → *am* by *savābhyāṃ vāmau*, Pā. 3-4-91 as read [?], the *ām* substitution; nighāta after an accented word), *āgāt* (*ā* + *iṇ* "to go"; aorist 3rd singular; *iṇo gā luṅi*, Pā. 2-4-45 as read [?]; the *gā* substitution; *gātisthāghupābhūbhyaḥ…* elision of *sic*; the augment *aṭ*; nighāta), *āraik* (*ric* "to empty", *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6 as read [?]; 3rd singular *tip*; elision of the *i* by *itaś ca*; the *vikaraṇa* elided by *bahulaṃ chandasi*; guṇa of the penultimate by *pugantalaghūpadhasya ca*, Pā. 7-3-86 as read [?]; elision of the ending by *hal-ṅyābbhyaḥ…*; *k* for *c* by *co ḥ kuḥ*; the augment *aṭ*; the *ai* from *e* by *vyatyaya*; nighāta is not applied because of the preceding word *eti*, since in *tiṅ atiṅaḥ* the word *ati-* gives… [as printed, compressed]; the *aṭ* being *udātta*, the word has the first-syllable accent).
+Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plural, *dhvam* ending; *ṭita ātmanepadānāṃ ṭer e* — *e* for the final; the *e* → *am* by *savābhyāṃ vāmau*, Pā. 3-4-94 (confirmed by the reader's OCR), the *ām* substitution; nighāta after an accented word), *āgāt* (*ā* + *iṇ* "to go"; aorist 3rd singular; *iṇo gā luṅi*, Pā. 2-4-45 as read [?]; the *gā* substitution; *gātisthāghupābhūbhyaḥ…* elision of *sic*; the augment *aṭ*; nighāta), *āraik* (*ric* "to empty", *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6 as read [?]; 3rd singular *tip*; elision of the *i* by *itaś ca*; the *vikaraṇa* elided by *bahulaṃ chandasi*; guṇa of the penultimate by *pugantalaghūpadhasya ca*, Pā. 7-3-86 as read [?]; elision of the ending by *hal-ṅyābbhyaḥ…*; *k* for *c* by *co ḥ kuḥ*; the augment *aṭ*; the *ai* from *e* by *vyatyaya*; nighāta is not applied because of the preceding word *eti*, since in *tiṅ atiṅaḥ* the word *ati-* gives… [as printed, compressed]; the *aṭ* being *udātta*, the word has the first-syllable accent).
 
 ---
 
 ### Printed p. 79  (PDF 99; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
 
-*Grammar page of Ṛk 16, concluded (noted briefly):* *panthām* (the stem *pathin*, accusative singular; *pathimathyṛbhukṣām āt*, Pā. 7-1-85 as read [?], by *vyatyaya* gives the *a*; *thau/*[the substitute] *nthā* for *thas* by *tho nthaḥ*, Pā. 7-1-87 as read [?], giving *panthām*); *yātave* (*yā* "to go", *tavai* in the sense of the infinitive by *tumarthe sesenasen…*, Pā. 3-4-9 as read [?]; the first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]); *aganma* (*gam* "to go", aorist; as before the *vikaraṇa* elided by *bahulaṃ chandasi*; the 1st plural ending *mas*; the *s* elided by *nityaṃ ṅitaḥ*; *mnoś ca*, the *m* of the root becoming *n* before the *m*-ending, Pā. 8-2-64 as read [?]; the augment *aṭ*; no nighāta because it stands at the beginning of the *pāda*; the augment being *udātta*, first-syllable accent); *pratirante* (*tir* "to grow" [as printed: *tira vṛddhau*], *laṭ* 3rd plural; the nighāta prevented by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; since *adupadeśa*, the *sārvadhātuka* *tāsyanudāttet…* is unaccented, the accent of the *vikaraṇa* remains). ‖ 16 ‖
+*Grammar page of Ṛk 16, concluded (noted briefly):* *panthām* (the stem *pathin*, accusative singular; *pathimathyṛbhukṣām āt*, Pā. 7-1-85 (confirmed by the reader's OCR), by *vyatyaya* gives the *a*; *thau/*[the substitute] *nthā* for *thas* by *tho nthaḥ*, Pā. 7-1-82 (as the reader's OCR reads it), giving *panthām*); *yātave* (*yā* "to go", *tavai* in the sense of the infinitive by *tumarthe sesenasen…*, Pā. 3-4-9 as read [?]; the first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]); *aganma* (*gam* "to go", aorist; as before the *vikaraṇa* elided by *bahulaṃ chandasi*; the 1st plural ending *mas*; the *s* elided by *nityaṃ ṅitaḥ*; *mnoś ca*, the *m* of the root becoming *n* before the *m*-ending, Pā. 8-2-64 as read [?]; the augment *aṭ*; no nighāta because it stands at the beginning of the *pāda*; the augment being *udātta*, first-syllable accent); *pratirante* (*tir* "to grow" [as printed: *tira vṛddhau*], *laṭ* 3rd plural; the nighāta prevented by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; since *adupadeśa*, the *sārvadhātuka* *tāsyanudāttet…* is unaccented, the accent of the *vikaraṇa* remains). ‖ 16 ‖
 
 *(Printer's ornament.)*
 
