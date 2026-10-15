@@ -11953,4 +11953,46 @@ In this Ṛk, *pracetasaḥ* is explained, since it conveys *pravṛddhacetasa�
 
 ---
 
-**Progress note:** Sūkta 120: Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written (printed p. 501, PDF 521). Next: printed p. 502 (PDF 522): Ṛk 2 bhāṣya onward. Numerals as read (no numeral list covers these pages): Ṛ. 1-185-1, 6-75-13, Ni. numbers on p. 500, sūtra numbers on pp. 500–501 `[as read]`. This session's target (up to Sūkta 120) is therefore Ṛk 2 of 12 into Sūkta 120.
+### Printed p. 502  (PDF 522; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.2)** *(small type; read with some doubts)*
+
+> इत्थेत्थमनेन पूर्वोक्तप्रकारेणाविद्वानज्ञः स्तोता विद्वांसौ सर्वज्ञावश्विनावेव दुरो द्वाराणि स्तुतिपरिचरणयोरुपायभूतान्मार्गान्पृच्छेत् । प्रष्टुमर्हतीत्यर्थः । अपरोऽश्विभ्यामन्यः सर्वोऽप्यचेताश्चेतसा ज्ञानेन रहितः । तस्मादश्विनावेव पृच्छेदित्यर्थः । तौ चाक्रौ शत्रुभिरनाक्रान्तावश्विनौ नू चित् क्षिप्रमेव मर्ते मनुष्ये स्तोतरि भक्त्यानुग्राहकतया सनिं धत्त इति वाक्यशेषः ॥ इत्था । था हेतौ चेति छन्दसीति थाप्रत्ययः । इदम इश् । एतेतौ रथोः । (पा. ५-३-४ [as read]) इतीद्भावः । यदि था हेतौ चेत्प्रकरणे इदंशब्दस्य सानुवृत्तिस्तदानीमिदमस्थमुः । एतदंशात्परस्या विभक्तेर्व्यत्ययेन सुपां सुलुगिति विभक्तेर्डादेशः । अक्रौ । क्रमु पादविक्षेपे । अस्मान्न्यञ्चुपपदे कृत्यल्युटो बहुलमिति बहुलवचनात्कर्मण्यपि जनिसनखनक्रमगमो विट्विट् [as read; the grammar tail is in small type and characterized only]
+
+> *itthetthamanena pūrvoktaprakāreṇāvidvānajñaḥ stotā vidvāṃsau sarvajñāvaśvināveva duro dvārāṇi stutiparicaraṇayorupāyabhūtānmārgānpṛcchet | praṣṭumarhatītyarthaḥ | aparo 'śvibhyāmanyaḥ sarvo 'pyacetāścetasā jñānena rahitaḥ | tasmādaśvināveva pṛcchedityarthaḥ | tau cākrau śatrubhiranākrāntāvaśvinau nū cit kṣiprameva marte manuṣye stotari bhaktyānugrāhakatayā saniṃ dhatta iti vākyaśeṣaḥ ‖ itthā | thā hetau ceti chandasīti thāpratyayaḥ | idama iś | etetau rathoḥ | (pā. 5-3-4 [as read]) itīdbhāvaḥ | yadi thā hetau cetprakaraṇe idaṃśabdasya sānuvṛttistadānīmidamasthamuḥ | etadaṃśātparasyā vibhaktervyatyayena supāṃ sulugiti vibhakterḍādeśaḥ | akrau | kramu pādavikṣepe | asmānnyañcupapade kṛtyalyuṭo bahulamiti bahulavacanātkarmaṇyapi janisanakhanakramagamo viṭviṭ [as read; the grammar tail is in small type and characterized only]*
+
+*Sense (mine):* "In this way (*itthā*), by the manner told above, an ignorant (*avidvān*) praiser should inquire of the Aśvins alone, the all-knowing (*vidvāṃsau*), the *duraḥ* — doors, ways, which are the means of praising and serving. The meaning is: he is entitled to ask. *Aparaḥ* — any other than the Aśvins is *acetāḥ* — devoid of understanding, knowledge; therefore he should ask the Aśvins alone. And those two, *akrau* — not overpowered by enemies — *nū cit* — quickly — to the man (*marte*), the praiser, favour [him] (*sanim dhatte*), out of favour towards devotion: this is the completion of the sentence."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.2)** (Kannada, rendered)
+
+*Itthā* — in this manner; *avidvān* — one who does not know (the ways of praise); *vidvāṃsau* — the all-knowing; *it* — alone; (*aśvinau* — the Aśvins); *duraḥ* — the ways (of praise and service); *pṛcchet* — should ask; *aparaḥ* — others (than the Aśvins; everyone); *acetāḥ* — ignorant; *akrau* — [they, the Aśvins], not overpowered (by enemies); *nū cit* — quickly; *marte* — [on] the man (the praiser); *nu* — favouring [him].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.2)** (Kannada, rendered)
+
+"One who does not know, in the manner told above, how to praise and the like, should ask the all-knowing Aśvins themselves the ways of (praise and service); apart from them, everyone else is ignorant; the Aśvins, unconquerable by enemies, quickly favour the one who praises them."
+
+**English Translation (as printed)**
+
+"Thus may an ignorant man inquire the means of worshipping the all-wise, for every (one) other (then [sic] the Aswins) is unknowing; they, the unconquered, quickly (show favour) to the man (who worships them)."
+
+---
+
+### Printed p. 503  (PDF 523; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 2)**
+
+"Both Sāyaṇa and Skandasvāmin explain the meaning of this Ṛk, in one way and in another. [Sāyaṇa says that] the greatness of the Aśvins is beyond the reach of the mind; hence one who wishes to praise them, and is ignorant of the ways of serving them, asks the Aśvins — who are all-knowing — themselves; there is no other omniscient one than they; and so they favour the ignorant."
+
+"In Skandasvāmin's exposition the meaning is not so clearly seen. Having connected this Ṛk with the Ṛk that follows it, he explains the two Ṛks by the method of a single sentence, [with a construction such as]:
+
+> परस्यां ऋचि तच्छब्दश्रुतेर्यच्छब्दोऽध्याहर्तव्यः । तथा चैकवाक्यता — यो विद्वांसौ जानन्तौ स्तोता दुरः स्तुतेर्द्वाराणि उपायः सर्वं पृच्छति । अविद्वानित्था सत्यमेवाजानन् । अशास्येन अपरः न्यनेकः [?] ज्ञातुमसमर्थः स्वयम् । पुराणानेव मर्ते अक्रौ वशीकर्तारौ ।
+
+> *parasyāṃ ṛci tacchabdaśruteryacchabdo 'dhyāhartavyaḥ | tathā caikavākyatā — yo vidvāṃsau jānantau stotā duraḥ stuterdvārāṇi upāyaḥ sarvaṃ pṛcchati | avidvānitthā satyamevājānan | aśāsyena aparaḥ nyanekaḥ [?] jñātumasamarthaḥ svayam | purāṇāneva marte akrau vaśīkartārau |*
+
+— he gives the construction of the words. The words *nu* and *it* are fillers (*padapūraṇa*). The word *itthā* is stated among the names of truth (Ni. 3-?? [as read]), so he explains it as 'truly'. Because of the word *tat* in the next Ṛk, the word *yat* must be supplied here. Thereby: those who are learned know everything; he who wishes to praise asks the ways of praising; the ignorant one, not knowing the truth and falsehood, [and] unable to discern, is ignorant of what he has been taught, as in *yathāśrutagrāhī* — [a man who takes things only as he hears them]. By the rule of the *pareṇa kṛtā* [?] those who are learned and [those who are not] are both gracious and protect, by the Aśvins [who are] the ones of greater [knowledge]. It is therefore that, according to Skandasvāmin, those who are praised take under their control mortals who are *akrau*, [i.e.] who have not been overpowered."
+
+*Akrau* — *śatrubhiḥ anākrāntau*: "'not overpowered by enemies' is Sāyaṇa's exposition. *āṅpūrvasya krameḥ idaṃ chāndasaṃ rūpam | akramitārau vaśīkartārau* — 'this is the Vedic form of the root *kram* with the prefix *āṅ*: those who would not be trampled upon, those who bring under control' — so Skandasvāmin says that the word *kram*, when joined with the prefix *āṅ*, takes in the Veda the form *akra*. Yāska [explains]: *akraḥ ākramaṇāt* (Ni. 6-?? [as read: 'ನಿ. ೬-೧೭']) — from the sense 'trample' [*ākramaṇa*] the form *akra* arises" and he expounds—
+
+---
+
+**Progress note:** Sūkta 120: Ṛk 1 complete; Ṛk 2 through printed p. 503 (PDF 523): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 504). Next: printed p. 504 (PDF 524). Numerals as read: Pā. 5-3-4, Ni. 3-?, 6-17 `[as read]`.
