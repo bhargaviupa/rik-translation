@@ -11359,4 +11359,54 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–5 complete; Ṛk 6 through printed p. 475 (PDF 495): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 476). Next: printed p. 476 (PDF 496). Numerals as read (no numeral list covers these pages): Ni. 5-23, 3-23 `[as read]`.
+### Printed p. 476  (PDF 496; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Special Topics of Ṛk 6, continued)* "… and saved him — such is the one meaning Sāyaṇa gives; and further, taking *atri* as meaning Agni, who eats the oblations, he gives another meaning: that [the Aśvins] by means of rain-waters warded off the heat that arose for this Agni — [as] the rice and the like were never produced because of the heat of the sun's rays. Skandasvāmin explains only the account of the protection of the ṛṣi Atri:
+
+> हिमेनाग्निं घ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तम् ।
+> ऋबीसे अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति ॥
+> (ऋ. सं. १-११६-८ [as read])
+
+> *himenāgniṃ ghraṃsamavārayethāṃ pitumatīmūrjamasmā adhattam |*
+> *ṛbīse atrimaśvināvanītamunninyathuḥ sarvagaṇaṃ svasti ‖*
+> *(ṛ. saṃ. 1-116-8 [as read])*
+
+— quoting this Ṛk."
+
+"[Śayu] was a ṛṣi who was aged, and his cow had come to an end of calving; they made her give milk, turning her to the state of youth — thus it is described; and by lifting the ṛṣi Vandana out of the well and giving him strength they saved him: the power of the Aśvins is thus described."
+
+*Gharmam* — *dīptam*: "so Skandasvāmin explains. The word *gharma* is stated among the twelve names of day (Ni. 1-?? [as read: 'ನಿ. ೩-೩೧']) and among the fifteen names of sacrifice (Ni. 3-17 [as read])."
+
+*Avasam* — *rakṣakam*: "'that which gives protection' is Sāyaṇa's exposition; Skandasvāmin: *avasa* is a word denoting *pathyodana* (suitable cooked food); the *pathyodana* of Śayu is in the form of milk — so he explains. And Yāska, when explaining the meaning of the word *avasa*, [quotes]:
+
+> मयोभूर्वातो अभि वातूस्रा ऊर्जस्वती रोषधीरा रिशन्ताम् ।
+> पीवस्वतीर्जीवधन्याः पिबन्त्ववसाय पद्वते रुद्र मृळ ॥
+> (ऋ. सं. १०-१८६-१ [as read])
+
+> *mayobhūrvāto abhi vātūsrā ūrjasvatī roṣadhīrā riśantām |*
+> *pīvasvatīrjīvadhanyāḥ pibantvavasāya padvate rudra mṛḷa ‖*
+> *(ṛ. saṃ. 10-186-1 [as read])*
+
+> योनिष्ट इन्द्र निषदे अकारि तमा नि षीद स्वानो नार्वा ।
+> विमुच्या वयो ऽवसायाश्वान्दोषा वस्तोर्वहीयसः प्रपित्वे ॥
+> (ऋ. सं. १-१०४-१ [as read])
+
+> *yoniṣṭa indra niṣade akāri tamā ni ṣīda svāno nārvā |*
+> *vimucyā vayo 'vasāyāśvāndoṣā vastorvahīyasaḥ prapitve ‖*
+> *(ṛ. saṃ. 1-104-1 [as read])*
+
+— quoting these two Ṛks, he explains *avasāya padvate rudra mṛḷa* thus: *pathyedam* — *avasāya padvate*: *pathedvā*; *avasaṃ* — *gāvaḥ pathyādanam*; *avater gatyartha* …; *tasmān nāvagṛhṇanti avasāyārthā* … (Ni. 1-?? [as read]). The word *avasa* conveys 'food [for the cattle] on the way'. From the root *av* a suffix comes, giving *avasāya* [as read]."
+
+---
+
+### Printed p. 477  (PDF 497; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"… and *avasāya padvate rudra mṛḷa* — here *pathyedam* [*pathyena*] — Sāyaṇa explains the word *avasa* as 'a road, [food for] the way'; and in *avasāyāśvān* too he explains *raśmibhyo viyojya* … [as read] — 'having freed [the horses] from the reins'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly; sūtra numbers as read)**
+
+*Pariṣūteḥ* — root *sūṅ prāṇigarbhavimocane*; in the feminine, *striyāṃ ktin* (Pā. 3-3-94 as read), the suffix *ktin*; since it is *tādi* and *nit*, *tādau ca niti kṛty ataḥ* (Pā. 6-2-50 as read), the *gati* (*pari*) keeps its natural accent as an exception to the *kṛt* accent. *Uruṣyathaḥ* — the root *uruṣya* [although it is not listed in the *dhātupāṭha*], is established by the *ākṛtigaṇa*; it is used in the sense of protection; *laṭ*, second person dual; because it stands after an *ajanta*, the *nighāta* accent. *Paritaptam* — root *tapa saṃtāpe*; *niṣṭhā*, the suffix *kta*; *gatir anantaraḥ* (Pā. 6-2-49 as read), the *gati* keeps its natural accent. *Avasam* — root *ava rakṣaṇe*; the *auṇādika* suffix *asac*; *ciṭaḥ* (Pā. 6-1-163 as read), the final acute; accusative singular. *Pipyathuḥ* — root *pyāyī vṛddhau*; *vyatyayo bahulam* (Pā. 3-1-85 as read), the *parasmaipada*; *liṭ*, second person dual, *parasmaipadānāṃ ṇalatusus…* (Pā. 3-4-82 as read), *athus* substituted; *liṭy abhyāsasyobhayeṣām* [as printed *liṭyanyatarasyām*] (Pā. 6-1-8 as read), *saṃprasāraṇa*, *ī* for the root; its doubling; *hrasvaḥ* for the reduplicative syllable; *ekāco dve prathamasya*…, *yaṇ*; *tiṅanta nighāta*. *Tāri* — root *tṝ plavanataraṇayoḥ*; in the passive, *luṅ*, third person singular, the suffix *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. 3-1-66 as read), *ciṇ* for *cli*; since it is *ñit*, *aco ñṇiti* (Pā. 7-2-115 as read), *vṛddhi* of the root's *ṛ*; becomes *r*-final; *ciṇo luk* (Pā. 6-4-104 as read), *luk* for the *ta* that follows; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; *tiṅanta nighāta*. ‖ 6 ‖
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–6 complete (printed p. 477, PDF 497). Next: printed p. 478 (PDF 498): Ṛk 7 Saṃhitā. Numerals as read (no numeral list covers these pages): Ṛ. 1-116-8, 10-186-1, 1-104-1; Ni. numbers and sūtra numbers on pp. 476–477 `[as read]`.
