@@ -6931,4 +6931,101 @@ In the second example this word *vastoḥ* is used in the sense of 'covering'. F
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–21 complete (through printed p. 291, PDF 311). Next: Ṛk 22 from printed p. 292 (PDF 312). Open: Ṛ. numerals partly illegible `[?]` (p. 290); others as read.
+### Ṛk 22
+
+### Printed p. 292  (PDF 312; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.22)**
+
+> शरस्य चिदार्चत्कस्यावतादा नीचादुच्चा चक्रथुः पातवे वाः ।
+> शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गाम् ॥ २२ ॥
+
+> *śarasya cidārcatkasyāvatādā nīcāduccā cakrathuḥ pātave vāḥ |*
+> *śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgām ‖ 22 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.22)**
+
+> शरस्य । चित् । आर्चत्कस्य । अवतात् । आ । नीचात् । उच्चा ।
+> चक्रथुः । पातवे । वारिति वाः ।
+> शयवे । चित् । नासत्या । शचीभिः । जसुरये । स्तर्यम् । पिप्यथुः ।
+> गाम् ॥ २२ ॥
+
+> *śarasya | cit | ārcatkasya | avatāt | ā | nīcāt | uccā |*
+> *cakrathuḥ | pātave | vāriti vāḥ |*
+> *śayave | cit | nāsatyā | śacībhiḥ | jasuraye | staryam | pipyathuḥ |*
+> *gām ‖ 22 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.22)**
+
+> आर्चत्कस्य ऋचत्कपुत्रस्य शरस्येतत्संज्ञस्य स्तोतुः पिपासितस्य पातवे पानार्थं नीचान्नीचादवतात्कूपादुच्चा उच्चैरुपरिष्टाद्वारुदकं हे अश्विनौ युवामा चक्रथुः । अभिमुख्येन कृतवन्तौ । तथा हे नासत्यावश्विनौ शचीभिर्युष्मदीयैः कर्मभिः परिचरणैर्जसुरये श्रान्ताय शयवे चित् शयुनाम्न ऋषये स्तर्यं निवृत्तप्रसवां गामग्निहोत्रार्थस्य पयसो दोग्ध्रीं पिप्यथुः । पयसा युवामापूरितवन्तौ ॥ पातवे । पा पाने । तुमर्थे सेसेनिति तवेन्प्रत्ययः । जसुरये । जसु हिंसायां । जसिसहोरुरिन् । उ. २-५३ । स्तर्यं । स्तृणीयत आच्छाद्यते प्रसवसामर्थ्याभावेनेति स्तरीः । अवित्स्वतन्त्रिभ्य ईः । उ. ३-१५२ [?] । इतीकारप्रत्ययः । वा छन्दसीत्यमि पूर्वस्य विकल्पितत्वादभावे यणादेशः । उदात्तस्वरितयोर्यणः इति परस्यानुदात्तस्य स्वरितत्वम् । पिप्यथुः । प्यायी वृद्धौ । लिटि व्यत्ययेन परस्मैपदम् । लिङ्यजोश्च । पा. ६-१-२९ । इति पीभावः ॥ [small type; partly doubtful [?]]
+
+> *ārcatkasya ṛcatkaputrasya śarasyetatsaṃjñasya stotuḥ pipāsitasya pātave pānārthaṃ nīcānnīcādavatātkūpāduccā uccairupariṣṭādvārudakaṃ he aśvinau yuvāmā cakrathuḥ | abhimukhyena kṛtavantau | tathā he nāsatyāvaśvinau śacībhiryuṣmadīyaiḥ karmabhiḥ paricaraṇairjasuraye śrāntāya śayave cit śayunāmna ṛṣaye staryaṃ nivṛttaprasavāṃ gāmagnihotrārthasya payaso dogdhrīṃ pipyathuḥ | payasā yuvāmāpūritavantau ‖ pātave | pā pāne | tumarthe seseniti tavenpratyayaḥ | jasuraye | jasu hiṃsāyāṃ | jasisahorurin | u. 2-53 | staryaṃ | stṛṇīyata ācchādyate prasavasāmarthyābhāveneti starīḥ | avitsvatantribhya īḥ | u. 3-152 [?] | itīkārapratyayaḥ | vā chandasītyami pūrvasya vikalpitatvādabhāve yaṇādeśaḥ | udāttasvaritayoryaṇaḥ iti parasyānudāttasya svaritatvam | pipyathuḥ | pyāyī vṛddhau | liṭi vyatyayena parasmaipadam | liṅyajośca | pā. 6-1-29 | iti pībhāvaḥ ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "For the thirsty praiser named Śara, son of Ṛcatka, [the *ārcatka*], for his *pātave*, drinking, from the lower well (*avatāt*), O Aśvins, you made *vāḥ*, water, [rise] above, upward: you made it come to the fore. Likewise, O Nāsatyas, Aśvins, by your *śacībhiḥ* — your works, your services — for *jasurāye*, the wearied *śayave cit*, the ṛṣi named Śayu, you filled with milk the *starya* [*stari* — barren] cow that had ceased to bear, [the cow that gives milk for the Agnihotra]."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(on p. 293)*
+
+### Printed p. 293  (PDF 313; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*ārcatkasya* — of the son of Ṛcatka; *śarasya cit* — of Śara by name; *pātave* — for drinking; *nīcāt* — from the deep; *avatāt* — from the well; *vāḥ* — the water; *uccā* — upward; *ā cakrathuḥ* — you made (to come); (*tathā* — likewise); *nāsatyā* — O Aśvin deities; *śacībhiḥ* — [by your] works; *jasuraye* — [for] the wearied; *śayave cit* — Śayu, the ṛṣi; *staryam* — the barren; *gām* — the cow; *pipyathuḥ* — you filled [with milk]."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"For the sake of drinking for Śara, the son of Ṛcatka (who was thirsty), you made the water from the deep well rise up. And, O Nāsatyas, you made the barren cow of Śayu, the weary ṛṣi (for the sake of his sacrificial rites), yield milk by your works. (You made it give milk.)"
+
+**English Translation (as printed)**
+
+> You raised the water from the bottom to the top of the well, for the drinking of Shara, the son of Richatka, and by your powers, Nasatyas, you filled, for the sake of the weary Shayu, the barren cow (with milk).
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+"In this Ṛk it is said that the Aśvin deities helped the ṛṣi named Śara, the son of the ṛṣi named Ṛcatka, who was thirsty, and Śayu, the ṛṣi who was weary from his toil in performing the sacrifices. Skandasvāmin has told this matter in his bhāṣya —
+
+> शरो नाम ऋषिः स मरुदेशे गच्छन् पिपासितस्तं सुदूरकोऽयं कूपं ददर्श स तं ततः पातुमक्षन्नर्व अश्विनौ तुष्टाव । तस्मात्तेषां सुलभ्यं चक्रतुरिति । तदेतदिहोच्यते शरस्य चिदित्यादिना ॥
+
+> *śaro nāma ṛṣiḥ sa marudeśe gacchan pipāsitastaṃ sudūrako 'yaṃ kūpaṃ dadarśa sa taṃ tataḥ pātumakṣannarva aśvinau tuṣṭāva | tasmātteṣāṃ sulabhyaṃ cakraturiti | tadetadihocyate śarasya cidityādinā ‖*
+> [small type; partly doubtful [?]]
+
+— 'a ṛṣi named Śara, going in a desert, thirsty, saw a well at a great distance; unable to drink from it [for its depth?], he praised the Aśvins; they made the water easy to get for him: this is what is said here: *śarasya cit* and so on.' In Kannada: the ṛṣi named Śara, while going in the desert, searching for water because of thirst, saw water in a deep well, and because it was difficult to reach it, he praised the Aśvin deities in order that the water might be easily obtained. They, pleased with his praise,
+
+### Printed p. 294  (PDF 314; header "Maṃ. 1 A. 17 Sū. 116")
+
+caused the water of that well to rise up for him, and the opening of the well to be level, and so protected the ṛṣi: this Itihāsa is told in the Ṛk *śarasya cit*."
+
+**अवतात्** — *Avatāt* — "since the word *avata* is stated among the fourteen [as read] names of well, *kūpa*, *kātaḥ* … (Ni. 3-?? as read [?]), it means well."
+
+**वाः** — *Vāḥ* — "*udakam*: since the word *vār* is stated among the hundred-and-one [as read] names of water (Ni. 1-?? as read [?]), it means water. The word *vāḥ*
+
+> कदा वसो स्तोत्रं हर्यत आव श्मशा रुधद्वाः ।
+> दीर्घं सुतं वाताप्याय ॥
+> (ऋ. सं. १०-१४४-१ [as read])
+
+> *kadā vaso stotraṃ haryata āva śmaśā rudhadvāḥ |*
+> *dīrghaṃ sutaṃ vātāpyāya ‖*
+> *(ṛ. saṃ. 10-144-1 [as read])*
+
+is used in this Ṛk in the sense of water."
+
+**जसुरये** — *Jasuraye* — "*śrāntāya*: when explaining the meaning of the word *jasuri* (Ni. 4-?? as read [?]) the Nirukta-writer cites
+
+> उत स्मैनं वस्त्रमथिं न तायुमनु क्रोशन्ति क्षितयो भरेषु ।
+> नीचायमानं जसुरिं न श्येनं श्रवश्चाच्छा पशुमच्च यूथम् ॥
+> (ऋ. सं. ४-३८-५ [as read])
+
+> *uta smainaṃ vastramathiṃ na tāyumanu krośanti kṣitayo bhareṣu |*
+> *nīcāyamānaṃ jasuriṃ na śyenaṃ śravaścācchā paśumacca yūtham ‖*
+> *(ṛ. saṃ. 4-38-5 [as read])*
+
+and explains *jasuriṃ* as '*jastaṃ baddhaṃ kaṭṭalpaṭṭa*' [= bound, held fast], 'one who is wearied'."
+
+**स्तर्यम्** — *Staryam* — "*nivṛttaprasavāṃ | strīyate ācchādyate prasavasāmarthyābhāvena iti starīḥ*": "a cow that, because of lack of capacity to bear young, is covered over: *starī* is the name of a cow with no power to conceive and bring forth (to give birth)."
+
+**गाम् पिप्यथुः** — *Gām pipyathuḥ* — "*payaso dogdhrīm payasā āpūritavantau*": "you made the cow yield milk. The meaning is that they made her a milch cow."
+
+**शचीभिः जसुरये शयवे** — *Śacībhiḥ jasuraye śayave* — "Sāyaṇa explains that Śayu, the ṛṣi, being wearied by serving the Aśvin deities. Skandasvāmin says '*śayave cit rājñe*' [= 'to Śayu, a king'], '*śacībhiḥ svābhiḥ atiśayavatībhiḥ prajñābhir karmabhir vā jasuraye śatrūṇāṃ tāḍayitre tāḍitāya vā*': 'by your own excellent intelligences or by works, [for him who] smites the enemies or is smitten by enemies': he explains that Śayu was a king, with an excellent or superior mind [*buddhi*], devoted to work, destroying enemies or being harassed by enemies. [The sentence is cut at the foot of the page:] Śayu was a king who had no capacity to rear a cow that gives birth, [that is,] to a barren cow …" *(continues on p. 295)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–21 complete; Ṛk 22 through printed p. 294 (PDF 314): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*avatāt*, *vāḥ*, *jasuraye*, *staryam*, *gām pipyathuḥ*, *śacībhiḥ…śayave* begun; continues p. 295). Next: printed p. 295 (PDF 315). Open: numerals as read `[?]`; small type `[?]`.
