@@ -7369,4 +7369,124 @@ Sense: "*madhvaḥ* — the second sūkta (of this anuvāka), of twenty-five Ṛ
 
 ---
 
-**Progress note:** **Sūkta 116 complete** (Ṛks 1–25, printed pp. 177–308). Sūkta 117 (*madhvaḥ somasya*, 25 Ṛks, Aśvins; Kakṣīvān) begun: introduction (p. 308), header box (p. 309), Ṛk 1 Saṃhitā, Pada and the first words of the bhāṣya (printed p. 309, PDF 329). Next: printed p. 310 (PDF 330) — rest of the Ṛk 1 bhāṣya. Pages up to PDF 370 already cropped. Open: header varga numerals `[?]`; numerals as read.
+### Printed p. 310  (PDF 330; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Bhāṣya of Ṛk 1, continued from p. 309:)*
+
+> युवामा विवासते । विवासतिः परिचरणकर्मा । आज् मर्यो दायां [?] । यथाशास्त्रं परिचरति । अपि च रातिर्दात्व्यं हविर्बर्हिष्मती । अस्मिन्नेन बर्हिषा युक्तं । युष्मदर्थं बर्हिष्मदादिकमित्यर्थः । तथा गीः स्तुतिलक्षणावाक् च विश्रिता । ऋत्विग्भिः समवेता । तैः स्तुतिरपि क्रियते इत्यर्थः । अतो हे नासत्यावश्विनौ इषास्मभ्यं दातव्येनान्नेन वाजैर्बलैश्च सह युवामुप यातं । अस्मत्समीपमा प्राप्नुतम् ॥ मध्वः । सुपां सुलुगिति सुशो भवन्तीति तृतीयार्थे षष्ठी । जसादिषु छन्दसि वावचनमिति घेर्ङिति गुणाभावे यणादेशः । मदाय । मदी हर्षे । मदोनुपसर्गे इत्यप् । रातिः । रा दाने । कर्मणि क्तिन् । मन्त्रे वृषेषेत्यादिना तस्योदात्तत्वम् । विश्रिता । श्रिञ् सेवायाम् । कर्मणि निष्ठा । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् ॥ [small type, partly doubtful [?]]
+
+> *yuvāmā vivāsate | vivāsatiḥ paricaraṇakarmā | āj maryo dāyāṃ [?] | yathāśāstraṃ paricarati | api ca rātirdātvyaṃ havirbarhiṣmatī | asminnena barhiṣā yuktaṃ | yuṣmadarthaṃ barhiṣmadādikamityarthaḥ | tathā gīḥ stutilakṣaṇāvāk ca viśritā | ṛtvigbhiḥ samavetā | taiḥ stutirapi kriyate ityarthaḥ | ato he nāsatyāvaśvinau iṣāsmabhyaṃ dātavyenānnena vājairbalaiśca saha yuvāmupa yātaṃ | asmatsamīpamā prāpnutam ‖ madhvaḥ | supāṃ sulugiti suśo bhavantīti tṛtīyārthe ṣaṣṭhī | jasādiṣu chandasi vāvacanamiti gherṅiti guṇābhāve yaṇādeśaḥ | madāya | madī harṣe | madonupasarge ityap | rātiḥ | rā dāne | karmaṇi ktin | mantre vṛṣeṣetyādinā tasyodāttatvam | viśritā | śriñ sevāyām | karmaṇi niṣṭhā | gatiranantara iti gateḥ prakṛtisvaratvam ‖ [small type, partly doubtful [?]]*
+
+*Sense (mine):* "The *hotṛ* serves you two (*vivāsate*; *vivāsati* = a verb of serving) as laid down in the śāstra. And the *rāti*, the oblation to be given, is *barhiṣmatī*, provided with the sacred grass: furnished with *barhis* for you; likewise the *gīḥ*, the speech in the form of praise, is *viśritā*, assembled with the priests: they too perform the praise. Therefore, O Nāsatyas, Aśvins, come, with *iṣā*, the food to be given to us, and *vājaiḥ*, with strengths, to us; reach our neighbourhood."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinā* — O Aśvin deities; *madhvaḥ* — sweet; *somasya* — with soma-juice; *madāya* — to please you; *pratnaḥ* — the ancient; *hotā* — the sacrificer who offers the oblations; *vām* — you two; *ā vivāsate* — serves (as laid down in the śāstra); *rātiḥ* — the oblation to be given to you; *barhiṣmatī* — provided with *darbha* (placed on the *darbha*); *gīḥ* — praising speech; *viśritā* — is ready among the priests; (*ataḥ* — therefore); *he nāsatyā* — O Nāsatyas; *iṣā* — with food to be given to us; *vājaiḥ* — with strength; *upa yātam* — come (to us, both of you)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, for your gratification, the ancient sacrificer, the doer of the homa, serves you with sweet soma-juice; the oblation to be given to you is ready on the *darbha*; the priests too are ready to praise; therefore, O Nāsatyas, (to us) come with strength and with oblations."
+
+**English Translation (as printed)**
+
+> Ashwins, for your gratification by the pleasant Soma juice, your ancient worshipper adores you : the offering is placed upon the sacred grass, the hymn is ready (for repetition); come, Nasatyas, with food and with vigour.
+
+### Printed p. 311  (PDF 331; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**प्रत्नः होता** — *Pratnaḥ hotā* — "*ciraṃtanaḥ yajamānaḥ homaniṣpādakaḥ*": "since the word *pratna* is stated among the six names of 'ancient' (*purāṇa*), '*pratnaḥ*', '*pravayāḥ*' and so on (Ni. 3-?? as read [?]), and —
+
+> सवित्रवन्तः परि वाचमासते पितैषां प्रत्नो अभि रक्षति व्रतम् ।
+> महः समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभम् ॥
+> (ऋ. सं. ७-८७-६ [as read])
+
+> *savitravantaḥ pari vācamāsate pitaiṣāṃ pratno abhi rakṣati vratam |*
+> *mahaḥ samudraṃ varuṇastiro dadhe dhīrā icchekurdharuṇeṣvārabham ‖*
+> *(ṛ. saṃ. 7-87-6 [as read])*
+
+in this Ṛk Yāska explains *pratna* as 'ancient', so Sāyaṇa explains it as *ciraṃtana* — 'one who has come down from time long past', the sacrificer who offers oblations to the deities. In this Ṛk the sacrificer, as the *hotṛ*, serves the Aśvin deities with oblations mixed with sweet soma-juice. Because 'hotṛtva' is said here generally, the meaning is that the ṛṣi Kakṣīvān, the seer of the mantra, also, performing the sacrifice or praising, gives them delight."
+
+**बर्हिष्मती** — *Barhiṣmatī* — "*aśvinārthena barhiṣā yuktaṃ yuṣmadarthaṃ barhiṣy āsāditam*": "on the sacrificial altar the *darbhas* called *barhis* are spread, and the oblation consecrated with mantras is prepared for the Aśvin deities."
+
+**गीः** — *Gīḥ* — "*stutilakṣaṇā vāk ca*": "the speech in the form of praise: since [it] is spoken in the sacrifice for the Aśvin deities, hearing the praises of the sacrificers who perform sacrifice, addressed to the deities denoted by the word *nāsatya*, and the oblations they offer, the Aśvins are prayed in this Ṛk to come to our sacrifice in order to give us strength and food."
+
+**वाजैः** — *Vājaiḥ* — "*balaiś ca* — *annaṃ*, *payaḥ* among the twenty-eight [as read] names of food (Ni. 2-?? as read [?]) are stated; so the word *vāja* means food. Sāyaṇa here explains the meaning as strength:
+
+> हिरण्यस्तूपः सवितर्यथा त्वाङ्गिरसो जुह्वे वाजे अस्मिन् ।
+> एवा त्वार्चन्नवसे वन्दमानः सोमस्येवांशुं प्रति जागराहम् ॥
+> (ऋ. सं. १०-१४९-५ [as read])
+
+> *hiraṇyastūpaḥ savitaryathā tvāṅgiraso juhve vāje asmin |*
+> *evā tvārcannavase vandamānaḥ somasyevāṃśuṃ prati jāgarāham ‖*
+> *(ṛ. saṃ. 10-149-5 [as read])*
+
+### Printed p. 312  (PDF 332; header "Maṃ. 1 A. 17 Sū. 117")
+
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती ।
+> यज्ञं वष्टु धियावसुः ॥
+> (ऋ. सं. १-३-१० [as read])
+
+> *pāvakā naḥ sarasvatī vājebhirvājinīvatī |*
+> *yajñaṃ vaṣṭu dhiyāvasuḥ ‖*
+> *(ṛ. saṃ. 1-3-10 [as read])*
+
+— in these Ṛks Yāska explains *vāje* as *anne*; so the word *vāja* has many meanings. And in 'ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ' (Ni. 11-?? as read [?]) according to Yāska's explanation, the three sons of the Aṅgirasa Sudhanvan were named Ṛbhu, Vibhvan and Vāja: so the word *vāja* is also the name of a person. Therefore the word *vāja* has many meanings."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly)**
+
+*madhvaḥ* (the word *madhu*; the sixth case is used in the sense of the third, by the statement *supāṃ suluk…*; *jasādiṣu chandasi vāvacanam*, Pā. 7-3-109 as read [?], as the *ghi*-guṇa does not arise, *yaṇ*); *aśvinā* (in the vocative dual, *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *āmantritasya ca*, Pā. 8-1-19 as read [?], nighāta); *madāya* (*madī* "to rejoice"; *mado 'nupasarge*, Pā. 3-3-67 as read [?], the suffix *ap*; being *pit*, it is unaccented, so the root accent remains; dative singular); *pratnāya*… [*pratne*: *pratnapūrvaviśveṣvimātāl*, Pā. 5-4-?? as read [?]; the suffix *tna* in the sense of 'ancient', *prāk*; accent on the last syllable from the suffix]; *hotā* (*hu* "to offer, to eat"; *tṛn* in the agent sense; guṇa of the root; *niṣṭhā*… [*nit*] the first-syllable accent); *vivāsate* (*vāsa* "to serve"; *laṭ* 3rd singular; nighāta); *rātiḥ* (*rā* "to give"; *striyāṃ ktin*, Pā. 3-3-94 as read [?], *ktin* in the passive; *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ*, Pā. 3-3-96 as read [?], *udātta*).
+
+### Printed p. 313  (PDF 333; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 1, concluded:* *viśritā* (*śriñ* "to serve"; *kta* in the passive by *niṣṭhā*, Pā. 3-2-102 as read [?]; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix *vi* keeps its accent); *yātam* (*yā* "to go"; *loṭ* 2nd dual; nighāta). ‖ 1 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.2)**
+
+> यो वामश्विना मनसो जवीयान्रथः स्वश्वो विश आजिगाति ।
+> येन गच्छथः सुकृतो दुरोणं तेन नरा वर्तिरस्मभ्यं यातम् ॥ २ ॥
+
+> *yo vāmaśvinā manaso javīyānrathaḥ svaśvo viśa ājigāti |*
+> *yena gacchathaḥ sukṛto duroṇaṃ tena narā vartirasmabhyaṃ yātam ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.2)**
+
+> यः । वाम् । अश्विना । मनसः । जवीयान् । रथः । सुऽअश्वः ।
+> विशः । आऽजिगाति ।
+> येन । गच्छथः । सुऽकृतः । दुरोणम् । तेन । नरा । वर्तिः ।
+> अस्मभ्यम् । यातम् ॥ २ ॥
+
+> *yaḥ | vām | aśvinā | manasaḥ | javīyān | rathaḥ | su 'aśvaḥ |*
+> *viśaḥ | ā 'jigāti |*
+> *yena | gacchathaḥ | su 'kṛtaḥ | duroṇam | tena | narā | vartiḥ |*
+> *asmabhyam | yātam ‖ 2 ‖*
+
+### Printed p. 314  (PDF 334; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.2)**
+
+> हे अश्विना वां युवयोः स्वभूतो मनसो जवीयान्मनसो ऽप्यतिशयेन वेगवान् स्वश्वः शोभनाश्वैर्युक्तो य रथो विशः प्रजा आजिगाति । अभिमुख्येन गच्छति । येन रथेन सुकृतः शोभनं यागं कुर्वतो यजमानस्य दुरोणं देवयजनलक्षणं गृहं गच्छथः । हे नरा नेतारावश्विनौ तेन रथेनास्मभ्यमस्माकं वर्तिर्वर्तनाधिकरणं गृहं यातम् । आगच्छतम् ॥ जवीयान् । जवोऽस्यास्तीति जववान् तदस्यास्तीति मतुप् । तत आतिशायनिक ईयसुन् । विन्मतोर्लुक् । टेरिति टिलोपः । जिगाति । गा स्तुतौ । जौहोत्यादिकः । गतिकर्मसु पाठादत्र गत्यर्थः । बहुलं छन्दसीत्यभ्यासस्येत्त्वम् ॥ [small type; partly doubtful [?]]
+
+> *he aśvinā vāṃ yuvayoḥ svabhūto manaso javīyānmanaso 'pyatiśayena vegavān svaśvaḥ śobhanāśvairyukto ya ratho viśaḥ prajā ājigāti | abhimukhyena gacchati | yena rathena sukṛtaḥ śobhanaṃ yāgaṃ kurvato yajamānasya duroṇaṃ devayajanalakṣaṇaṃ gṛhaṃ gacchathaḥ | he narā netārāvaśvinau tena rathenāsmabhyamasmākaṃ vartirvartanādhikaraṇaṃ gṛhaṃ yātam | āgacchatam ‖ javīyān | javo 'syāstīti javavān tadasyāstīti matup | tata ātiśāyanika īyasun | vinmatorluk | ṭeriti ṭilopaḥ | jigāti | gā stutau | jauhotyādikaḥ | gatikarmasu pāṭhādatra gatyarthaḥ | bahulaṃ chandasītyabhyāsasyettvam ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "O Aśvins, that chariot of yours, which is *manasaḥ javīyān*, swifter than the mind, *svaśvaḥ*, drawn by good horses, *viśaḥ ājigāti* — goes in the front to the people. By which chariot you go to the *duroṇam*, the house, in the form of the place of sacrifice, of the sacrificer who performs a good sacrifice: O leaders, Aśvins, by that chariot come to our *vartiḥ*, our house — the place of dwelling."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinau* — O Aśvin deities; *vām* — your (belonging to you); *manasaḥ* — than the mind; *javīyān* — extremely swift; *svaśvaḥ* — with good horses; *yaḥ rathaḥ* — which chariot; *viśaḥ* — to the people; *ājigāti* — goes toward; *yena* — by which chariot; *sukṛtaḥ* — [of him] who does auspicious sacrifices (the sacrificer); *duroṇam* — to the house of worship; *gacchathaḥ* — you go; *tena* — by that (chariot); *he narā* — O leader Aśvin deities; *asmabhyam* — to our; *vartiḥ* — house (dwelling-place); *yātam* — come."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O leader Aśvin deities, in the chariot, swifter than thought, yoked with good horses, in which you go toward the people, and in which you go to the house of worship of those who perform auspicious sacrifices — come, both of you, in that same chariot to our dwelling-place."
+
+**English Translation (as printed)**
+
+> With that car, Ashwins, which, rapid as thought, drawn by good horses, appears before men, and with which you repair to the dwelling of the virtuous, come, leaders of (sacrifices), to our abode.
+
+---
+
+**Progress note:** Sūkta 117: Ṛk 1 complete; Ṛk 2 through the printed English on p. 314 (PDF 334): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 315 (PDF 335) — Ṛk 2 Special Topics and grammar. Open: numerals as read `[?]`; *pratne* grammar note on p. 312 compressed `[?]`.
