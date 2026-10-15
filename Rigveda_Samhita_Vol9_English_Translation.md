@@ -880,4 +880,88 @@ Grammar page on *bhāsvatī* (*bhās* + *matup*, *ma* → *va* by *mādupadhāy�
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–4 complete; Ṛk 5 through printed p. 28 (PDF 48): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha — the printed English and Special Topics of Ṛk 5 follow on p. 29 (PDF 49). Next: printed p. 29. Open: bhāṣya phrase on *tvam*/*u* `[?]`; Pā./Ni. numerals.
+### Printed p. 29  (PDF 49; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**English Translation (as printed)**
+
+> The opulent (dawn) arouses to exertion the man bowed down in sleep,—one man to enjoyments, another to devotion, another to (the acquirement of) wealth ; she has enabled those who were almost sightless to see distinctly. The expansive Ushas has given back all the regions.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**मघोनी** — *Maghonī* — "dhanavatī uṣāḥ": the word *magha*, among the twenty-eight [?] names of wealth beginning with *dhana* (Ni. 2-10 as printed [?]), is stated; so *magha* means wealth. "Because she has wealth, '*dhanavatī uṣāḥ*'," Sāyaṇa says. In the mantra "*nūnaṃ sā te prati varaṃ jaritre duhīyad indra dakṣiṇā maghonī*" (Ṛ. Saṃ. 3-11-3? [?], numerals unclear) too, for the word *maghonī* Yāska explains (Ni. 1-7 as printed [?]): "*magham iti dhananāmadheyaṃ maṃhater dānakarmaṇaḥ*" ("*magha* is a name for wealth, from *maṃh*, giving"). The word *magha* is stated among the sixteen names of Uṣas (Ni. 3-19 as printed [?]).
+
+**जिह्मश्ये चरितवे** — *Jihmaśye caritave:* "*jihmaṃ śete iti jihmaśīḥ*": the word *jihma* means "crooked". He who lies curled up by throwing his hands and feet is *jihmaśī*. Thus Uṣas creates enthusiasm, so that a desire arises that the man who is lying curled up, from laziness, should go about.
+
+**त्वम्** — *Tvam.* "*ayam eka-śabda-paryāyaḥ sarvanāma-śabdaḥ*" and "*yadāha — tve iti vigrahārthīyaṃ sarvanāmānudāttam*" (Ni. 1-9 as printed [?]): "*tva* is a word that is a synonym of 'one'. It belongs to the group of pronouns (*sarvanāman*). It has the anudātta accent." "*ardhanāmety eke*" — some think that this word denotes "half portion"; "*nipāta ity eke*" — some say that the word *tva* is an indeclinable particle (*nipāta*). The Ṛk:
+
+> ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु ।
+> ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां वि मिमीत उ त्वः ॥
+> (ऋ. सं. १०-७१-११)
+
+> *ṛcāṃ tvaḥ poṣamāste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu |*
+> *brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vi mimīta u tvaḥ ‖*
+> *(ṛ. saṃ. 10-71-11)*
+
+— "Here the word *tvaḥ* is used in the sense of 'one'. Therefore Uṣas, who herself performs all kinds of work at once, gives enthusiasm to one who is lying curled up by habit to go about, to one so that he may enjoy [objects of sense], to another so that she may produce in him a desire for sacrifice, and another she sets at once to the sacrifice. The *dhaniṣṭha* (rich man) becomes active in gathering the wealth he needs. In this way Uṣas pervades all, fulfilling the intentions of the people — this is the sense."
+
+### Printed p. 30  (PDF 50; header "Maṃ. 1 A. 16 Sū. 113")
+
+**दभ्रं पश्यद्भ्यः उर्विया विचक्षे** — *Dabhraṃ paśyadbhyaḥ urviyā vicakṣe.* Yāska explains the meaning of the word *dabhra* as "small" and cites the Ṛk "*upopa me parā mṛśa mā me dabhrāṇi manyathāḥ*" as an example:
+
+> दभ्रं पश्यद्भ्यः उर्विया विचक्षे दभ्रमल्पम् । दभ्रमर्भकमित्यल्पस्य । दभ्नोतेः सुदम्भं भवति ।
+> उपोप मे परा मृश मा मे दभ्राणि मन्यथाः । सर्वाहमस्मि रोमशा गान्धारीणामिवाविका ॥
+> (ऋ. सं. १-१२६-७ [as read])
+> (नि. ३-३० [?])
+
+> *dabhraṃ paśyadbhyaḥ urviyā vicakṣe dabhramalpam | dabhramarbhakamityalpasya | dabhnoteḥ sudambhaṃ bhavati |*
+> *upopa me parā mṛśa mā me dabhrāṇi manyathāḥ | sarvāhamasmi romaśā gāndhārīṇāmivāvikā ‖*
+> *(ṛ. saṃ. 1-126-7 [as read])*
+> *(ni. 3-30 [?])*
+
+"Therefore *dabhra* means 'small'. When, because of the darkness, the true nature of things is not understood properly, the objects appear as small in size. Thus the world, covered by darkness, which appears small in size, Uṣas makes great by her light and reveals its real condition."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly)**
+
+Grammar page on *jihmaśye* (*śīṅ* "to lie"; *jihmaṃ śete* → *jihmaśī*; the suffix *kvip* by *kvip ca*; the first-member accent by *gatikārakopapadāt kṛt*; the dative singular *ṅe*, *yaṇ* by *eranekācaḥ* [as printed]; the svarita by *udāttasvaritayor yaṇaḥ svaritaḥ*), *caritave* (*car* "to move", infinitive suffix *tavai* [for *tumun*] by *tumarthe sesesen…*; augment *iḍ*; *jñityādir nityam* accent on the first syllable; indeclinable by *kṛnmejantaḥ*), *ābhogaye* (*ābhoga* with the dative singular *ṅe* → *ya* by Vedic *yaka*-augment; or *ā* + *bhuj* "to protect, enjoy" with *kvip* by *uṇādayo bahulam*; the change of *j* to *g*; *ābhogī*; guṇa; *ay*-substitution; first-member accent in the compound). Sūtra numbers small; I give none beyond those marked "as printed".
+
+---
+
+### Printed p. 31  (PDF 51; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+*Grammar page of Ṛk 5, concluded (noted briefly):* *iṣṭaye* (*iṣu* "to wish", the suffix *ktic* by *ktic ktau ca saṃjñāyām*, Pā. 3-3-174 as read [?]; dative singular), *rāye* (*ūḍidaṃpadādi*… accent on the ending), *paśyadbhyaḥ* (*dṛś* "to see", *śatṛ*; *paśya* substitution by *pāghrādhmā…*, Pā. 7-3-78 as read [?]; *śap* is *pit*, the root accent remains), *urviyā* (*urvī* + *su*, with *iyaṅ* by the Vārttika *iyāḍiyājīkārāṇām upasaṃkhyānam*; elision of the feminine ending; accent on the last syllable since *cit*), *vicakṣe* (*vi* + *cakṣiṅ* "to speak clearly"; *kvip* by *sampadādibhyaḥ kvip*; accent of the first member by *gatikārakopapadāt kṛt*), *viśvā* (*śi* of the neuter plural replaced by *ā* by *śeś chandasi bahulam*). ‖ 5 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 6
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.6)**
+
+> क्षत्राय त्वं श्रवसे त्वं महीया इष्टये त्वमर्थमिव त्वमित्यै ।
+> विसदृशा जीविताभिप्रचक्ष उषा अजीगर्भुवनानि विश्वा ॥ ६ ॥
+
+> *kṣatrāya tvaṃ śravase tvaṃ mahīyā iṣṭaye tvamarthamiva tvamityai |*
+> *visadṛśā jīvitābhipracakṣa uṣā ajīgarbhuvanāni viśvā ‖ 6 ‖*
+
+### Printed p. 32  (PDF 52; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.6)**
+
+> क्षत्राय । त्वम् । श्रवसे । त्वम् । महीयै । इष्टये । त्वम् । अर्थम्ऽइव । त्वम् । इत्यै ।
+> विऽसदृशा । जीविता । अभिऽप्रचक्षे । उषाः । अजीगः । भुवनानि । विश्वा ॥ ६ ॥
+
+> *kṣatrāya | tvam | śravase | tvam | mahīyai | iṣṭaye | tvam | artham 'iva | tvam | ityai |*
+> *vi 'sadṛśā | jīvitā | abhi 'pracakṣe | uṣāḥ | ajīgaḥ | bhuvanāni | viśvā ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.6)**
+
+> क्षत्राय । धननामैतत् । धनार्थं त्वमेकं प्रत्युषा वृच्छन्तीति शेषः । तथा श्रवसेऽन्नार्थं त्वमेकं प्रति । महीयै महत्यै इष्टये अग्निष्टोमादिमहायज्ञार्थं त्वमेकं प्रति वृच्छन्ति । तथार्थमिवापेक्षितमर्थं प्रतीत्यै गमनार्थं त्वमेकं प्रति वृच्छन्ति । अपि च विसदृशा विलक्षणानि नानारूपाणि जीविता जीवितानि जीवनोपायभूतानि कृषिवाणिज्यादीन्यभिप्रचक्षे अभिमुख्येन प्रकाशयितुं वृच्छन्त्युषाः सर्वाणि भूतजातानि तमसा निगीर्णान्यजीगः प्रकाशनेनोद्गीर्णानीवाकरोत् ॥
+
+> *kṣatrāya | dhananāmaitat | dhanārthaṃ tvamekaṃ pratyuṣā vṛcchantīti śeṣaḥ | tathā śravase 'nnārthaṃ tvamekaṃ prati | mahīyai mahatyai iṣṭaye agniṣṭomādimahāyajñārthaṃ tvamekaṃ prati vṛcchanti | tathārthamivāpekṣitamarthaṃ pratītyai gamanārthaṃ tvamekaṃ prati vṛcchanti | api ca visadṛśā vilakṣaṇāni nānārūpāṇi jīvitā jīvitāni jīvanopāyabhūtāni kṛṣivāṇijyādīnyabhipracakṣe abhimukhyena prakāśayituṃ vṛcchantyuṣāḥ sarvāṇi bhūtajātāni tamasā nigīrṇānyajīgaḥ prakāśanenodgīrṇānīvākarot ‖*
+
+*Sense (mine):* "*Kṣatra* — a name for wealth: Uṣas appears (*vṛcchanti*) for the sake of wealth to the one (man); so for *śravas* (food) to the one; for the *mahīyai iṣṭaye* — the great sacrifice, the Agniṣṭoma and the like — to the one; and for *arthamiva*, 'for the sake of the thing wanted', for *ityai*, to go, to the one. Moreover, to show forth (*abhipracakṣe*) in front the *viṣadṛśā jīvitā*, the various forms of livelihood — agriculture, trade and the rest — Uṣas appears; all beings hidden (swallowed) by darkness she brings out, as if vomited out (*ajīgaḥ*), by giving light."
+
+*Grammatical tail (characterized, not transcribed):* *tvam* (a pronoun-word, wholly unaccented by the Phiṭ-sūtra 4-10 as cited [?]); *mahīyai* (from *mahī*, the dative in *īyai* by the elongation *chāndasa*; or the *yāṭ* augment — Pā. 7-3-113 as read [?]); *visadṛśā* (*dṛś* with *kvin* by the Vārttika; *samānasya chandasi* — *sa* for *samāna*; the Vedic elision of *śi*; accent of the first member); *abhipracakṣe* (*cakṣ* in the sense of the infinitive with *sen*; elision of *k* by *skoḥ saṃyogādyor ante ca*).
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–5 complete; Ṛk 6 Saṃhitā, Pada, bhāṣya done (printed pp. 31–32, PDF 51–52). Next: printed p. 33 (PDF 53) — Ṛk 6 pratipadārtha, bhāvārtha, English, Special Topics. Open: Pā./Phiṭ numerals `[?]`.
