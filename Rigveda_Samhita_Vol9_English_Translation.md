@@ -1384,4 +1384,78 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–9 complete; Ṛk 10 through printed p. 50 (PDF 70): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English (misprint "shinning" [sic]), Special Topics (*anukṛpate*, *ā*) — Special Topics may continue p. 51. Next: printed p. 51 (PDF 71). Open: bhāṣya wording `[?]`; Ni. 3-14 `[?]`; second *yāḥ* in Pada `[?]`.
+### Printed p. 51  (PDF 71; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**वावशाना** — *Vāvaśānā* — "*kāmayamānā*": "Sāyaṇa also says 'desired' (*apekṣitā*). Skandasvāmin:
+
+> वावशाना — वश कान्तौ वाश्र शब्दने इत्येतयोरन्यतरस्येदं रूपं कामयमाना शब्दं कुर्वन्त्यर्थः । यच्च उषस्युदितायां कामयन्ते शब्दं वा कुर्वन्ति तदुषस्युपचर्यते ॥ [reading of the first words, *vāśra śabdane*, as printed [?]]
+
+> *vāvaśānā — vaśa kāntau vāśra śabdane ityetayoranyatarasyedaṃ rūpaṃ kāmayamānā śabdaṃ kurvantyarthaḥ | yacca uṣasyuditāyāṃ kāmayante śabdaṃ vā kurvanti taduṣasyupacaryate ‖ [reading of the first words, *vāśra śabdane*, as printed [?]]*
+
+— The form *vāvaśānā* arises from the root *vaś* with the sense 'to wish' (*kānti*), or from the root *vāś(ṛ)* with the sense 'to make a sound'. Hence 'desired', or: the charming quality, desirable to all, of Uṣas-time, and the recitation of *stotras* and *śastras* and the like that take place at Uṣas-time, are in Uṣas-time itself: they reveal the nature of Uṣas — so Skandasvāmin explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly)**
+
+Grammar page on the words of Ṛk 10: *kiyāti* (*kiyān*: "*kim* of this measure"; the suffix *vatup* in the sense of measure; the *gha*-substitute from *kim-idaṃbhyāṃ vo ghaḥ*, Pā. 5-2-40 as printed; *kim* becomes *kī* by *idaṅkimor īś kī*; the *ayādeśa* of the *gha* as *iya*; elision of the *ī* of *kī* by *yasya iti ca*; the accent on the first syllable of the suffix; locative singular; in the Saṃhitā the Vedic lengthening); *bhavāti* (*bhū* "to be"; *leṭ*; the augment *āṭ* by *leṭo 'ḍāṭau*, Pā. 3-4-94 as read [?]; the *śap*; guṇa; *avādeśa*; no nighāta since *yat* precedes; root accent remains since *śap* and *tip* are unaccented); *vyūṣuḥ* (*vas* with *vi* in the sense of "shine, dispel"; *liṭ* 3rd plural; *jhi* → *us* by *parasmaipadānām…*; *asaṃyogāl liṭ kit*, Pā. 1-2-5 as read [?], whence *kit*; saṃprasāraṇa by *vacisvapiyajādīnāṃ kiti*; doubling; *ṣatva* by *śāsivasighasīnāṃ ca*; no accent change because of *yat*: *yadvṛttānnityam*, Pā. 8-1-66 as read [?]).
+
+### Printed p. 52  (PDF 72; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page of Ṛk 10, continued:* *vyucchān* (*uchī* "to dispel"; *leṭ* 3rd plural *jhi* → *ant*; elision of the last *i* by *itaś ca* and *parasmaipadeṣu*…; augment *aṭ*; elision of the final *t* by *saṃyogāntasya lopaḥ*; *śa* by *tudādibhyaḥ śaḥ*; no nighāta accent here as *yat* precedes; the class-sign accent remains); *kṛpate* (*kṛpū* "to be able", *laṭ* 3rd singular *ta*, *ṭita ātmanepadānāṃ ṭer e*; *śa* in place of *śap* by *vyatyayo bahulam*; the lightening of the penultimate by *sārvadhātukam apit*, with no guṇa since the ending is *ṅit* by the substituted *ātideśa*; nighāta); *vāvaśānā* (*vaś* "to wish"; *dhātor ekācaḥ…*: *yaṅ* in the sense of intensity, *yaṅ* elided by *yaṅo 'ci ca*; *chandasi* *tācchīlya*: *cānaś* suffix by *tācchīlyavayovacanaśaktiṣu*; doubling of the root; feminine in *ṭāp*; *citaḥ* final accent); *pradīdhyānā* (*dīdhīṅ* "to shine", *laṭ* *śānac*; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; the *yaṇ*; feminine *ṭāp*; the root is of the *jakṣityādi* group, so it takes *abhyasta* designation and first-syllable accent by *abhyastānām ādiḥ*; the compound with *pra* has the first-member accent by *gatikārakopapadāt kṛt*). ‖ 10 ‖ *(Sūtra numbers small; none given beyond "as printed" / "as read".)*
+
+*(Printer's ornament.)*
+
+---
+
+### Ṛk 11
+
+### Printed p. 53  (PDF 73; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.11)**
+
+> ईयुष्टे ये पूर्वतरामपश्यन् व्युच्छन्तीमुषसं मर्त्यासः ।
+> अस्माभिरू नु प्रतिचक्ष्याभूदो ते यन्ति ये अपरीषु पश्यान् ॥ ११ ॥
+
+> *īyuṣṭe ye pūrvatarāmapaśyan vyucchantīmuṣasaṃ martyāsaḥ |*
+> *asmābhirū nu praticakṣyābhūdo te yanti ye aparīṣu paśyān ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.11)**
+
+> ईयुः । ते । ये । पूर्वऽतराम् । अपश्यन् । विऽउच्छन्तीम् । उषसम् । मर्त्यासः ।
+> अस्माभिः । ऊं इति । नु । प्रतिऽचक्ष्या । अभूत् । ओ इति । ते । यन्ति । ये । अपरीषु । पश्यान् ॥ ११ ॥
+
+> *īyuḥ | te | ye | pūrva 'tarām | apaśyan | vi 'ucchantīm | uṣasam | martyāsaḥ |*
+> *asmābhiḥ | ūṃ iti | nu | prati 'cakṣyā | abhūt | o iti | te | yanti | ye | aparīṣu | paśyān ‖ 11 ‖*
+
+*(Reading note after viewing the Pada: the Saṃhitā's* asmābhir ū nu *is the Pada's* asmābhiḥ | ūṃ iti | nu*; the Saṃhitā's* abhūd o te *is the Pada's* abhūt | o iti | te*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.11)**
+
+> ये मर्त्यासो मरणधर्माणो मनुष्या व्युच्छन्तीं विवासयन्तीं पूर्वतरामतिशयेन पूर्वां विप्रकृष्टामुषसमपश्यन् दृष्टवन्तः । ते मनुष्या ईयुः । गताः । तथास्माभिरपि नु इदानीं प्रतिचक्ष्या प्रकर्षेण द्रष्टव्याभूत् । जाता । तथापरीषु भाविनीषु रात्रिषु ये मनुष्या एतामुषसं पश्यान् पश्यन्ति ते । ओ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव यन्ति । आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तत इत्यर्थः ॥
+
+> *ye martyāso maraṇadharmāṇo manuṣyā vyucchantīṃ vivāsayantīṃ pūrvatarāmatiśayena pūrvāṃ viprakṛṣṭāmuṣasamapaśyan dṛṣṭavantaḥ | te manuṣyā īyuḥ | gatāḥ | tathāsmābhirapi nu idānīṃ praticakṣyā prakarṣeṇa draṣṭavyābhūt | jātā | tathāparīṣu bhāvinīṣu rātriṣu ye manuṣyā etāmuṣasaṃ paśyān paśyanti te | o u iti nipātadvayasamudāyaḥ | tatra u ityetadavadhāraṇe | eva yanti | āgacchantyeva | kālatraye 'pyeṣā vyāpya vartata ityarthaḥ ‖*
+
+*Sense (mine):* "The mortals (*martyāsaḥ*, men subject to death) who saw the *pūrvatarām* Uṣas — the very earlier, remote one — as she dawned, dispelling the darkness: those men *īyuḥ*, have gone. Likewise she has now become *praticakṣyā*, to be seen eminently, by us. And likewise in the coming nights those men who will see this Uṣas — they come, *yanti*. *O u* is a combination of two particles; of these *u* is in the sense of restriction ('indeed'): they surely come. The sense is that she pervades all three times."
+
+*Grammatical tail (characterized, not transcribed):* *īyuḥ* (*iṇ* "to go", *liṭ* 3rd plural *jhi* → *us*; the *yaṇ* substitute; doubling; the lengthening of the reduplication by *dīrgha iṇaḥ kiti*, Pā. 6-4-56 as read [?]); *te* (the pronoun, *s* → … Vedic substitution); *martyāsaḥ* (the *asuk* augment after the *ā* of *jas* — *ājjaser asuk*).
+
+### Printed p. 54  (PDF 74; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*ye martyāsaḥ* — which men; *vyucchantīm* — the rising; *pūrvatarām* — very ancient; *uṣasam* — Uṣas; *apaśyan* — saw; *te* — they; *īyuḥ* — are dead; (*tathā* — likewise); *asmābhiḥ u* — by us too (Uṣas); *nu* — now; *praticakṣyā* — as clearly to be seen; *abhūt* — has become (so); *aparīṣu* — in the coming nights; *ye* — whichever men; *paśyān* — will see (this Uṣas); *te* — they; *āyanti u* — are coming (they will be born hereafter)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The men who saw the Uṣases that rose in ancient times are no longer here. The Uṣas that now rises is visible to us. Men who will see the Uṣas that will rise later are yet to be born. (That is, Uṣas is seen to exist eternally, in the past, the future and the present.)"
+
+**English Translation (as printed)**
+
+> Those mortals who beheld the pristine Ushas dawning have passed away ; to us she is now visible, and they approach who may behold her in aftertimes.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**ये मर्त्यासः व्युच्छन्तीं पूर्वतरामुषसमपश्यन् ते ईयुः । अस्माभिः नु प्रतिचक्ष्या अभूत्** — *Ye martyāsaḥ vyucchantīṃ pūrvatarām uṣasam apaśyan te īyuḥ | asmābhiḥ nu pratīcakṣyā abhūt.* "Men who by nature are subject to death saw in earlier times the Uṣases who revealed to the whole world the charm that they possess, and experienced joy. And she, showing her beauty, passed away like those. In the same way these (Uṣases) too will pass in the course of time. We, seeing at present this Uṣas-time, which has been obtained according to the present time, [her] (heart-ravishing) beauty, rejoice. Men who will rejoice seeing the Uṣases that will rise afterwards are yet to be born. Thus it is to be understood that Uṣas rises following the three times, and so pervades the three times. Though men are subject to death, they enjoy the delight of Uṣas in the three times of past, future and present; therefore the all-pervasion of Uṣas, according to the times, and in reference to the men concerned, appears to the men — thus Sāyaṇa explains the purport."
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–10 complete; Ṛk 11 through printed p. 54 (PDF 74): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (one topic; may continue p. 55). Next: printed p. 55 (PDF 75). Open: as before.
