@@ -10664,4 +10664,44 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–9 complete; Ṛk 10 Saṃhitā and Pada written (printed p. 445, PDF 465). Next: printed p. 446 (PDF 466): Ṛk 10 bhāṣya onward, then Ṛk 11 (the last) and the colophon. Numerals as read: sūtra numbers on pp. 444–445 `[as read]`.
+### Printed p. 446  (PDF 466; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.10)** *(small type; read with some doubts)*
+
+> नरा नेतारौ हे अश्विना सुजाता शोभनजन्मानौ ता वां तौ युवां नाधमाना धनं याचमाना वयं स्तोतारोऽवसे रक्षणार्थं सु हवामहे । शोभनमाह्वयामहे । गिरः स्तुतीर्जुषाणा सेवमानौ युवां वसुमता धनयुक्तेन रथेन नोऽस्मानुपा यातम् । उपागच्छतम् । किमर्थम् । सुविताय सुष्ठु प्राप्तव्याय धनाय सुखाय वा । सुजाता । शोभनं जातं जन्म ययोस्तौ सुजातौ । सुपां सुलुगिति विभक्तेराकारः । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । नाधमानाः । नाध याच्ञायाम् । जुषाणा । जुषी प्रीतिसेवनयोः । छान्दसः शानच् । तुदादित्वाच्छः [?] । पूर्ववद्विभक्तेराकारः । सुविताय । सुपूर्वादेतेः कर्मणि निष्ठा । कन्वादित्वादुवङ् [?] । सूपमानात्क्त इत्युत्तरपदान्तोदात्तत्वम् ॥ [as read]
+
+> *narā netārau he aśvinā sujātā śobhanajanmānau tā vāṃ tau yuvāṃ nādhamānā dhanaṃ yācamānā vayaṃ stotāro 'vase rakṣaṇārthaṃ su havāmahe | śobhanamāhvayāmahe | giraḥ stutīrjuṣāṇā sevamānau yuvāṃ vasumatā dhanayuktena rathena no 'smānupā yātam | upāgacchatam | kimartham | suvitāya suṣṭhu prāptavyāya dhanāya sukhāya vā | sujātā | śobhanaṃ jātaṃ janma yayostau sujātau | supāṃ sulugiti vibhakterākāraḥ | nañsubhyāmityuttarapadāntodāttatvam | nādhamānāḥ | nādha yācñāyām | juṣāṇā | juṣī prītisevanayoḥ | chāndasaḥ śānac | tudāditvācchaḥ [?] | pūrvavadvibhakterākāraḥ | suvitāya | supūrvādeteḥ karmaṇi niṣṭhā | kanvāditvāduvaṅ [?] | sūpamānātkta ityuttarapadāntodāttatvam ‖ [as read]*
+
+*Sense (mine):* "O leaders, Aśvins, *sujātā* — of good birth: we, the praisers, begging wealth (*nādhamānāḥ*), call you well (*su havāmahe*) for protection (*avase*). Enjoying (*juṣāṇā*) our praises, come (*yātam*) to us (*upa*) with a wealth-possessing chariot — for what purpose? *Suvitāya* — for wealth that is to be well attained, or for happiness."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.10)** (Kannada, rendered)
+
+*Narā* — O leaders; *aśvinā* — O Aśvins; *sujātā* — of splendid birth; *tā* — those (such); *vām* — you two; *nādhamānāḥ* — we who beg (wealth); *avase* — for protection; *su havāmahe* — we call well (by praises); *giraḥ* — praise-words; *juṣāṇā* — you who accept; *vasumatā* — wealth-possessing; *rathena* — with the chariot; *naḥ* — to us; *suvitāya* — for abundant wealth or happiness (to give); *upa ā yātam* — come to our neighbourhood.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.10)** (Kannada, rendered)
+
+"O Aśvins, leaders, of splendid birth! We who desire wealth call you for protection (you who have such qualities as have been described); come, pleased by the words of praise, in your wealth-bearing chariot, and make us happy (grant us wealth)."
+
+**English Translation (as printed)**
+
+"Earnestly we call you, leaders (of the sacrifice), such (as you have been described), and who are well born, to our succour, soliciting, Aswins, wealth; contented with our laudations, come to us with your wealthy car, to bring us felicity."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 10)**
+
+*Sujātā* — *śobhanaṃ jātaṃ janma yayos tau sujātau* | *śobhanajanmānau*: "'Those of splendid birth' — the meaning is that they were born in order to produce good (*maṅgala*) for others."
+
+---
+
+### Printed p. 447  (PDF 467; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Suvitāya* — *suṣṭhu prāptavyāya dhanāya sukhāya vā*: "'for wealth which we must necessarily obtain, or for happiness' is the meaning. Skandasvāmin: *sugatāya yogakarmaṇe prajāyai vā* — [he gives the word *suvita*] the meaning 'for the sake of a good going (a good course)', or 'for the sake of accepting the oblation in the rite of the yoga-work', or 'for the sake of obtaining good offspring for us' — thus he explains."
+
+"We, the sacrificers who perform sacrifices, praise the Aśvins of splendid birth for the sake of obtaining wealth. To protect us, hearing the words of our praise, may the Aśvins fill their chariot with the wealth they give us, and come to our sacrifice and give us good progress, wealth, or offspring — such a prayer is described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly; sūtra numbers as read)**
+
+*Tā* — the word *tad*; with the dual *au* following, *tyadādīnām aḥ* (Pā. 7-2-102 as read), *a* substituted for the *d*; *ato guṇe* (Pā. 6-1-97 as read), *pararūpa*; *supāṃ sulug* (Pā. 7-1-39), *ā* for the case ending; since there is single replacement with the preceding, it is *udātta*. *Avase* — root *ava rakṣaṇe*; *sarvadhātubhya asun* (Uṇ. sū. 4-189 as read), the suffix *asun*; since it is *nit*, the initial acute; dative singular. *Sujātā* — *śobhanaṃ jātaṃ janma yayos tau sujātau*; root *janī prādurbhāve*; in the abstract sense *kta*; *janasanakhanāṃ sañjhaloḥ* (Pā. 6-4-42 as read), *ā* for the root; the form *jāta*; with the dual following, *supāṃ sulug* (Pā. 7-1-39), *ā* for it; in the compound, *nañsubhyām* (Pā. 6-2-172 as read), the final acute of the latter member. *Havāmahe* — root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person plural, *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read), *e* for *ṭi*; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *pūrvarūpa*; *av* substituted on account of *śap*, *guṇa* for it; *ato dīrgho yañi* (Pā. 7-3-101 as read), lengthening of the *a*-final of the base; since it is at the beginning of a pāda, *nighāta* does not occur; since the *lasārvadhātuka* follows after *upadeśa*, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read) makes (*mahe*) *anudātta*; then the root accent remains.
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–9 complete; Ṛk 10 through printed p. 447 (PDF 467): all parts done except the end of its grammar (continues p. 448). Next: printed p. 448 (PDF 468). Numerals as read: sūtra numbers on pp. 446–447 `[as read]`.
