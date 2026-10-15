@@ -11585,4 +11585,46 @@ In this Ṛk too the word *vipra* is used in the sense of 'wise'."
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–7 complete; Ṛk 8 through printed p. 485 (PDF 505): all parts done except the end of its grammar (continues p. 486). Next: printed p. 486 (PDF 506). Numerals as read: Ni. 3-2; sūtra numbers on p. 485 `[as read]`.
+### Printed p. 486  (PDF 506; header "Maṃ. 1 A. 17 Sū. 119")
+
+*Grammar of Ṛk 8, concluded (noted briefly; sūtra numbers as read):* *Svarvatīḥ* (continued) — becomes *r*-final; when "*svar asya asti*" is intended, *tad asyāsty asmin* (Pā. 5-2-94 as read), the suffix *matup*; *chandasīraḥ* (Pā. 8-2-15 as read), *v* for the *m* of *matup*; in the feminine, since it is *ugit*, *ugitaś ca* (Pā. 4-1-6 as read), *ṅīp*. *Ūtīḥ* — root *ava rakṣaṇe*; in the abstract sense, *ktic ktau ca saṃjñāyām* (Pā. 3-3-174 as read), the suffix *ktic*; *jvaratvarasrivyaviramavām* (Pā. 6-4-20 as read), *ūṭ* for the *v* and the penultimate; the form *ūti*; the final acute. *Abhiṣṭayaḥ* — the prefix *abhi*; root *iṣu icchāyām*, *tudādi*; in the abstract sense, *striyāṃ ktin* (Pā. 3-3-94 as read), the suffix *ktin*; since it is *kit*, *guṇa* of the root's light penultimate does not occur; by *ṣṭutva*, *ṭa* for the *t* of the suffix; *abhi* + *iṣṭi*, since it is read in the *śakandhvādi* group, *śakandhvādiṣu pararūpaṃ vācyam* [as read], *pararūpa*; nominative plural form. ‖ 8 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.9)**
+
+> उत स्या वां मधुमन्मक्षिकारपन्मदे सोमस्यौशिजो हुवन्यति ।
+> युवं दधीचो मन आ विवासथोऽथा शिरः प्रति वामश्व्यं वदत् ॥ ९ ॥
+
+> *uta syā vāṃ madhumanmakṣikārapanmade somasyauśijo huvanyati |*
+> *yuvaṃ dadhīco mana ā vivāsatho 'thā śiraḥ prati vāmaśvyaṃ vadat ‖ 9 ‖*
+
+---
+
+### Printed p. 487  (PDF 507; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.9)**
+
+> उत । स्या । वाम् । मधुऽमत् । मक्षिका । अरपत् । मदे ।
+> सोमस्य । औशिजः । हुवन्यति ।
+> युवम् । दधीचः । मनः । आ । विवासथः । अथ । शिरः । प्रति ।
+> वाम् । अश्व्यम् । वदत् ॥ ९ ॥
+
+> *uta | syā | vām | madhu 'mat | makṣikā | arapat | made |*
+> *somasya | auśijaḥ | huvanyati |*
+> *yuvam | dadhīcaḥ | manaḥ | ā | vivāsathaḥ | atha | śiraḥ | prati |*
+> *vām | aśvyam | vadat ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.9)** *(small type; read with some doubts)*
+
+> उताशि [?] च हे अश्विनौ मधुमन्मधुमन्तौ वां युवां स्या सा मक्षिका सरघा मधुकामा सत्यरपत् [?] । अस्तौत् । तथौशिज उशिजः पुत्रः कक्षीवान् सोमस्य पानेन युवयोर्मदे हर्षे निमित्तभूते सति हुवन्यति । युवामाह्वयतीति । युवं युवां च तस्मै मक्षिकायै मधु दातुं मधुविद्यार्थिनौ सन्तौ दधीचे आथर्वणस्य ऋषेर्मनः शुश्रूषया आ विवासथः । पर्यचरतम् । अथानन्तरं तस्मिन्नृषौ सत्येश्वर्यां युवाभ्यां प्रतिहितमश्वस्य संबन्धि यच्छिरस्तद्वां युवां प्रति मधुविद्यामवदत् । स ऋषिरश्वेन शिरसोपदिष्टवानित्यर्थः ॥ मधुमत् । सुपां सुलुगिति विभक्तेर्लुक् । अरपत् । रप लप व्यक्तायां वाचि । मदे । मदी हर्षे । मदोऽनुपसर्ग इति भावे ऽप् । हुवन्यति । ह्वेञ् स्पर्धायां शब्दे च । लुटी क्त्वे भावे लुट् । बहुलं छन्दसीति संप्रसारणम् । हवनमात्मन इच्छति । सुप आत्मनः क्यच् । अन्त्यलोपश्छान्दसः । वर्णव्यापकोत्वेत्वम् । अश्व्यम् । अश्वे भवमश्व्यम् । भवे छन्दसीति यत् ॥ [as read]
+
+> *utāśi [?] ca he aśvinau madhumanmadhumantau vāṃ yuvāṃ syā sā makṣikā saraghā madhukāmā satyarapat [?] | astaut | tathauśija uśijaḥ putraḥ kakṣīvān somasya pānena yuvayormade harṣe nimittabhūte sati huvanyati | yuvāmāhvayatīti | yuvaṃ yuvāṃ ca tasmai makṣikāyai madhu dātuṃ madhuvidyārthinau santau dadhīce ātharvaṇasya ṛṣermanaḥ śuśrūṣayā ā vivāsathaḥ | paryacaratam | athānantaraṃ tasminnṛṣau satyeśvaryāṃ yuvābhyāṃ pratihitamaśvasya saṃbandhi yacchirastadvāṃ yuvāṃ prati madhuvidyāmavadat | sa ṛṣiraśvena śirasopadiṣṭavānityarthaḥ ‖ madhumat | supāṃ sulugiti vibhakterluk | arapat | rapa lapa vyaktāyāṃ vāci | made | madī harṣe | mado 'nupasarga iti bhāve 'p | huvanyati | hveñ spardhāyāṃ śabde ca | luṭī ktve bhāve luṭ | bahulaṃ chandasīti saṃprasāraṇam | havanamātmana icchati | supa ātmanaḥ kyac | antyalopaśchāndasaḥ | varṇavyāpakotvetvam | aśvyam | aśve bhavamaśvyam | bhave chandasīti yat ‖ [as read]*
+
+*Sense (mine and tentative):* "And, O Aśvins, that honey-bee (*sarghā*), honey-loving, *madhumat* — praised you, honey-possessed; and likewise Auśija, the son of Uśij — Kakṣīvān — *hu­vanyati* — calls you, when drunk with the soma (*somasya made*). And you two, wishing [to give] honey to that bee, [and] seeking the honey-knowledge, *dadhīcaḥ manaḥ ā vivāsathaḥ* — served the mind of Dadhīca, the descendant of Atharvan, with attention. Thereafter, *śiraḥ aśvyam* — the horse's head that had been set [on him] by you — *vām prati madhuvidyām avadat* — spoke the honey-knowledge to you: the ṛṣi taught [you] with the horse's head."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.9)** (Kannada, rendered; page continues)
+
+*Uta* — and; *(aśvinau)* — O Aśvins; *madhumat* — [you two] endowed with honey; *vām* — you two; *syā makṣikā* — that bee; *arapat* — praised; *auśijaḥ* — Kakṣīvān, the son of Uśij; *somasya* — of the soma-juice; *made* — in the joy (of drinking, for you two); *huvanyati* — calls you; *yuvam* — you two (to give honey to the bee, or to learn the honey-knowledge); *dadhīcaḥ* — of Atharvan's [son]; …
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–8 complete; Ṛk 9 through printed p. 487 (PDF 507): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 488). Next: printed p. 488 (PDF 508). Numerals as read: sūtra numbers on p. 486 `[as read]`.
