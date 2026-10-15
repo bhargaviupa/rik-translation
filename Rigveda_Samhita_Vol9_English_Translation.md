@@ -9968,4 +9968,62 @@ and this Ṛk:
 
 ---
 
-**Progress note:** Sūkta 117 complete (25 Ṛks, printed pp. 308–414). Sūkta 118 begun: heading, Anukramaṇī, Anuvāda, Ṛk 1 Saṃhitā written (printed p. 415, PDF 435). Next: printed p. 416 (PDF 436): Sūkta 118 Ṛk 1 Pada onward. Numerals as read (list stops at printed p. 380): sūtra numbers on p. 414 `[as read]`; varga "19, 20" `[?]`.
+### Printed p. 416  (PDF 436; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.1)**
+
+> आ । वाम् । रथः । अश्विना । श्येनऽपत्वा । सुऽमृळीकः । स्वऽवान् ।
+> यातु । अर्वाक् ।
+> यः । मर्त्यस्य । मनसः । जवीयान् । त्रिऽबन्धुरः । वृषणा ।
+> वातऽरंहाः ॥ १ ॥
+
+> *ā | vām | rathaḥ | aśvinā | śyena 'patvā | su 'mṛḷīkaḥ | sva 'vān |*
+> *yātu | arvāk |*
+> *yaḥ | martyasya | manasaḥ | javīyān | tri 'bandhuraḥ | vṛṣaṇā |*
+> *vāta 'raṃhāḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.1)** *(small type; read with some doubts)*
+
+> हे अश्विनौ वां युवयोः स्वभूतो रथोऽर्वाजस्सदभिमुखमा यातु [?] । आगच्छतु । कीदृशो रथः । श्येनपत्वा श्येन इत्येतदश्वनाम [?] शंसनीयगमनैरश्वैः पतन् गच्छन् । यद्वा । श्येनः पक्षी स इव शीघ्रं पतन् । सुमृळीकः शोभनसुखयुक्तः स्ववान् धनवान् । हे वृषणा कामानां वर्षितारावश्विनौ यो युष्मदीयो रथो मर्त्यस्य मनुष्यस्य मनसो जवीयानतिशयेन वेगवान् । तद्यथा वेगेन कृत्स्नं जगद्व्याप्नोति । ततोऽप्यतिशयेन क्षणमात्रादेव सर्वं जगत्पर्येटतीत्यर्थः । त्रिबन्धुरः । बन्धुरं वेष्टितं सारथेः स्थानं । त्रिप्रकारेण बन्धुरेण युक्तः । वातरंहा वातस्य वायो रंहा वेग इव वेगो यस्य स तथोक्तः । अनेनाप्रतिहतगतित्वमुच्यते । स रथ इति पूर्वार्धान्वयः ॥ श्येनपत्वा । पत्लृ गतौ । अन्येभ्योऽपि दृश्यन्त इति वनिप् । दासीभारादि [?] ॥ [grammar tail: *śyenapatvā*, *javīyān* (*atiśāyanike īyasun*, *vinmatorluk*, *ṭer iti ṭilopaḥ*), *trivandhuraḥ* (*bahuvrīhau pūrvapadaprakṛtisvaratvam*), … — characterized, not transcribed]
+
+> *he aśvinau vāṃ yuvayoḥ svabhūto ratho 'rvājassadabhimukhamā yātu [?] | āgacchatu | kīdṛśo rathaḥ | śyenapatvā śyena ityetadaśvanāma [?] śaṃsanīyagamanairaśvaiḥ patan gacchan | yadvā | śyenaḥ pakṣī sa iva śīghraṃ patan | sumṛḷīkaḥ śobhanasukhayuktaḥ svavān dhanavān | he vṛṣaṇā kāmānāṃ varṣitārāvaśvinau yo yuṣmadīyo ratho martyasya manuṣyasya manaso javīyānatiśayena vegavān | tadyathā vegena kṛtsnaṃ jagadvyāpnoti | tato 'pyatiśayena kṣaṇamātrādeva sarvaṃ jagatparyeṭatītyarthaḥ | tribandhuraḥ | bandhuraṃ veṣṭitaṃ sāratheḥ sthānaṃ | triprakāreṇa bandhureṇa yuktaḥ | vātaraṃhā vātasya vāyo raṃhā vega iva vego yasya sa tathoktaḥ | anenāpratihatagatitvamucyate | sa ratha iti pūrvārdhānvayaḥ ‖ śyenapatvā | patlṛ gatau | anyebhyo 'pi dṛśyanta iti vanip | dāsībhārādi [?] ‖ [grammar tail: *śyenapatvā*, *javīyān* (*atiśāyanike īyasun*, *vinmatorluk*, *ṭer iti ṭilopaḥ*), *trivandhuraḥ* (*bahuvrīhau pūrvapadaprakṛtisvaratvam*), … — characterized, not transcribed]*
+
+*Sense (mine):* "O Aśvins, may your own chariot come (*ā yātu*) *arvāk* — turned towards us. What kind of chariot? *Śyenapatvā* — flying, going with praiseworthily-moving horses [as read; the name for horses is *śyena* [?]]; or, 'flying swiftly like the *śyena* bird.' *Sumṛḷīkaḥ* — endowed with fine comfort; *svavān* — rich. O *vṛṣaṇā*, rainers of desires, Aśvins, your chariot which is *javīyān* — swifter than the *manas* of a mortal (*martya*, man), exceedingly speedy: as [the mind] pervades the whole world by speed, still more speedily — within a moment — it goes round the world. *Trivandhuraḥ* — *bandhura* is the enclosed seat of the charioteer; having it in three forms. *Vātaraṃhāḥ* — he whose speed (*raṃhas*) is like the speed of the wind; by this its unobstructed course is told. 'That chariot' is the connection with the first half."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.1)** (Kannada, rendered)
+
+*He vṛṣaṇā* — O Aśvins, rainers of desired things; *yaḥ* — which your chariot; *martyasya* — of a man; *manasaḥ* — than the mind; *javīyān* — more speedy; *trivandhuraḥ* — [that] has the three-fold seat of the charioteer; *vātaraṃhāḥ* — like the wind (of unobstructed) pace; *he aśvinā* — O Aśvins; *(saḥ — that)* [*saḥ* = *sa*]; *vām* — of you two; *śyenapatvā* — that flies by good horses (like a bird); *sumṛḷīkaḥ* — comfort-endowed; *svavān* — wealthy; *rathaḥ* — that chariot; *arvāk* — (to us) facing; *ā yātu* — let it come.
+
+---
+
+### Printed p. 417  (PDF 437; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.1)** (Kannada, rendered)
+
+"O Aśvins, rainers of desires! May your chariot — swifter than the mind's speed, with unobstructed course like the wind, with good horses (flying like a bird), with the three-fold seat of the charioteer — come, endowed with comfort and wealth, face to face with us."
+
+**English Translation (as printed)**
+
+"May your elegant and rich car, swift as a hawk, come, Ashwins, to our presence, for it is as quick as the mind of man, surmounted, showerers (of benefits), by three columns, and rapid as the wind."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 1)**
+
+*Śyenapatvā* — *śaṃsanīyagamanair aśvaiḥ patan gacchan | yadvā śyenaḥ pakṣī sa iva śīghraṃ patan*: "The word *śyena* is stated among the [number as read] names of horses (Ni. 1-?? [as read: 'ನಿ. ೩-೩೨'?]).
+
+> नीचायमानं जसुरिं न श्येनं श्रवश्चाच्छा पशुमच्च यूथम् ।
+> (ऋ. सं. ४-३९-२ [as read [?]])
+
+> *nīcāyamānaṃ jasuriṃ na śyenaṃ śravaścācchā paśumacca yūtham |*
+> *(ṛ. saṃ. 4-39-2 [as read [?]])*
+
+In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīyaṃ gacchati* (Ni. 4-?? [as read]) — it flies very swiftly; like it, a chariot with horses that move quickly is meant. For this reason Sāyaṇa explains the course of this chariot as exceedingly praiseworthy."
+
+*Martyasya manaso javīyān* — *atiśayena vegavān*: "Like the mind of a man, that pervades the whole of the world with great speed, [the chariot] with speed greater than that — it travels, he means, round the worlds in a moment."
+
+*Vātaraṃhāḥ* — *vātasya vāyor raṃho vega iva vego yasya*: "Its speed is like the speed of the wind: the chariot goes with great speed and pervades everything — that is the meaning."
+
+"In this Ṛk the chariot of the Aśvins is described: moving very fast like birds, yoked with horses fit for that; having the speed of mind; and, by the speed of the wind, going round all worlds in a moment — thus the speed of the chariot is also described."
+
+---
+
+**Progress note:** Sūkta 118: Ṛk 1 through printed p. 417 (PDF 437): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar page follows (p. 418). Next: printed p. 418 (PDF 438). Numerals as read (list stops at printed p. 380): Ṛ. 4-39-2, Ni. numbers on p. 417 `[?]`.
