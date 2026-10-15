@@ -5245,4 +5245,76 @@ and says (Ni. 6-13) '*purandhiḥ bahudhīḥ*'. From this Sāyaṇa explains: u
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–6 complete; Ṛk 7 Special Topics through printed p. 217 (PDF 237): *narā*, *pajriyāya kakṣīvate*, *kārotarāt śaphāt vṛṣṇaḥ* (Skandasvāmin's story), *purandhim* (continues p. 218). Next: printed p. 218 (PDF 238). Open: numerals as read `[?]`; a verse on p. 216 printed in a shape differing from Ṛ. 1-116-7 given as printed; Skandasvāmin small type `[?]`.
+### Printed p. 218  (PDF 238; header "Maṃ. 1 A. 17 Sū. 116")  [Special Topics of Ṛk 7, concluded]
+
+> पुरन्धिर्बहुधीस्तत्कः । पुरन्धिर्भगः पुरस्तात्तस्यान्नादेश इत्येकम् । इन्द्र इत्यपरं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति ॥
+> (नि. ६-१३ [as read])
+
+> *purandhirbahudhīstatkaḥ | purandhirbhagaḥ purastāttasyānnādeśa ityekam | indra ityaparaṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti ‖*
+> *(ni. 6-13 [as read])*
+
+— so he explains the word *purandhi*. "Here *purandhi* means 'one who has great understanding'. Since all deities have much understanding, who is the deity denoted by the word *purandhi*? Some say *purandhi* is Bhaga. Why? In the Ṛk
+
+> ता अध्वर उशतो यक्ष्यग्ने श्रुष्टीभगं नासत्या पुरंधिम् ।
+> (ऋ. सं. २-४३-४ [as read; [?]])
+
+> *tā adhvara uśato yakṣyagne śruṣṭībhagaṃ nāsatyā puraṃdhim |*
+> *(ṛ. saṃ. 2-43-4 [as read; [?]])*
+
+— the *purandhi* standing in that place is an adjective of Bhaga, so some say that *purandhi* denotes the deity Bhaga. Some say the word *purandhi* denotes Indra: since *dhīḥ* is read among the names of *karman* (Ni. 2-1 as read [?]), *purandhi* means 'one who does many deeds' — more than other deities, he (Indra) is *bahukarmatamaḥ*; one who does such brave deeds, [so] the word *purandhi* denotes Indra. Or '*purāṃ ca dārayitṛtamaḥ*' — since Indra destroyed the cities of asuras such as Śambara, some argue that *purandhi* is Indra. And some say *purandhi* is Varuṇa; for the word *dhī* signifies *prajñā* (Ni. 3-?? as read [?]); because men praise Varuṇa with their intellect (*prajñayā*) or his intellect pervades, therefore *purandhi* is Varuṇa — and to establish this matter, they cite
+
+> इमामू षु असुरस्य श्रुतस्य महीं मायां वरुणस्य प्र वोचम् ।
+> मानेनेव तस्थिवाँ अन्तरिक्षे वि यो ममे पृथिवीं सूर्येण ॥
+> (ऋ. सं. ५-८५-५ [as read])
+
+> *imāmū ṣu asurasya śrutasya mahīṃ māyāṃ varuṇasya pra vocam |*
+> *māneneva tasthivā~ antarikṣe vi yo mame pṛthivīṃ sūryeṇa ‖*
+> *(ṛ. saṃ. 5-85-5 [as read])*
+>
+> इमामू नु कवितमस्य मायां महीं देवस्य नकिरा दधर्ष ।
+> एकं यदुद्ना न पृणन्त्येनीरासिञ्चन्तीरवनयः समुद्रम् ॥
+> (ऋ. सं. ५-८५-६ [as read])
+
+> *imāmū nu kavitamasya māyāṃ mahīṃ devasya nakirā dadharṣa |*
+> *ekaṃ yadudnā na pṛṇantyenīrāsiñcantīravanayaḥ samudram ‖*
+> *(ṛ. saṃ. 5-85-6 [as read])*
+
+— these Ṛks."
+
+### Printed p. 219  (PDF 239; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly)**
+
+*yuvam* (the stem *yuṣmad*; *yuvādeśa* for the *mad* part before the dual ending; *am* for the ending; since *bhāṣāyām* [= 'in common speech'] *aśvādyādeśa* is given only for language, the *atva* does not arise in the Veda; *śeṣe lopaḥ*, Pā. 7-2-90 as read [?], elision of the *d*); *narā* (*nī* "to lead"; *ṛduror ap*, Pā. 3-3-57 as read [?], the suffix *ap*; guṇa of the root; *raparatva*; in the vocative nighāta by *āmantritasya ca*; *supāṃ sulug*, Pā. 7-1-39 as read [?], the preceding vowel lengthened, as *ekādeśa*); *stuvate* (*ṣṭuñ* "to praise", adādi; *śatṛ* in the *laṭ* sense; *adiprabhṛtibhyaḥ śapaḥ*, Pā. 2-4-72 as read [?], *luk* for *śap*; *sārvadhātukam apit*, Pā. 1-2-4 as read [?], the *ṅit* status of the suffix so no guṇa of the root's *i* [*u*]; *aci śnudhātubhruvāṃ yvoriyaṅuvaṅau*, Pā. 6-4-77 as read [?], *uvaṅ*; dative singular; since there is no *num*, with a vowel-initial ending following by *śatur anumo nadyajādī*, Pā. 6-1-173 as read [?], the ending is accented *udātta*); *pajriyāya* (in the sense 'born among the *pajras*', *tatra jātaḥ*, Pā. 4-3-25 as read [?], the *ghac* suffix [*chaikaḥ*]; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*, Pā. 7-1-2 as read [?], *īya*; *yasyeti ca*, Pā. 6-4-148 as read [?], elision of the *a*; *citaḥ*, Pā. 6-1-163 as read [?], final accent; dative singular); *kakṣīvate* (*asandīvad aṣṭhīvat kakṣīvat kṛṣīvat…*, Pā. 8-2-12 as read [?], *kakṣīvat* is made irregular as a *nipāta*, hence the word *kakṣyā* gets *saṃprasāraṇa* and *vatva*); *aradetam* [as printed; = *aradatam*] (*rada* "to scratch"; *laṅ* 2nd dual; *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. 3-4-101 as read [?], *tam*; *śap*; the augment *aṭ*; nighāta, since *tiṅ* follows the accented word); *purandhim* (*purandhir bahudhīḥ* — as Yāska says; being in the *pṛṣodarādi* class the formation of *purandhi* arises; or *puraṃ pūrayitavyaṃ sarvaviṣayajātam asyāṃ dhīyate avasthāpyate iti purandhir buddhiḥ*; *ḍudhāñ* "to hold, to nourish"; *karmaṇy adhikaraṇe ca*, Pā. 3-3-93 as read [?], *ki* in the locative sense; *ā to lopa iṭi ca*, Pā. 6-4-64 as read [?], elision of the root's *ā*; *tatpuruṣe kṛti bahulam*…
+
+### Printed p. 220  (PDF 240; header "Maṃ. 1 A. 17 Sū. 116")
+
+… *kṛti bahulam*, Pā. 6-3-14 as read [?], by the word *bahulam* here too the *aluk*; the *kṛdutta*-final accent; this is only an indication of derivation; it is logical that it belongs to the *pṛṣodarādi* class); *vṛṣṇaḥ* (*vṛṣu* "to sprinkle"; *kanin yuvṛṣi…*, Uṇ. 1-?? as read [?], the suffix *kanin*; with the genitive singular ending following, *ālloponaḥ*, Pā. 6-4-134 as read [?], elision of the *a* of the stem in *an*; the first-syllable accent); *asiñcatam* (*ṣicir* "to flow", tudādi; *laṅ* 2nd dual; *tasthasthamipāṃ tāṃtaṃtāmaḥ* → *tam*; *tudādibhyaḥ śaḥ*, Pā. 3-1-77 as read [?], *śa*; *śemuchādīnām*, Pā. 7-1-59 as read [?], *num* augment; the augment *aṭ*; nighāta). ‖ 7 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 8
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.8)**
+
+> हिमेनाग्निं घ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तम् ।
+> ऋबीसे अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति ॥ ८ ॥
+
+> *himenāgniṃ ghraṃsamavārayethāṃ pitumatīmūrjamasmā adhattam |*
+> *ṛbīse atrimaśvināvanītamunninyathuḥ sarvagaṇaṃ svasti ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.8)**
+
+> हिमेन । अग्निम् । घ्रंसम् । अवारयेथाम् । पितुऽमतीम् । ऊर्जम् ।
+> अस्मै । अधत्तम् ।
+> ऋबीसे । अत्रिम् । अश्विना । अवऽनीतम् । उत् । निन्यथुः ।
+> सर्वऽगणम् । स्वस्ति ॥ ८ ॥
+
+> *himena | agnim | ghraṃsam | avārayethām | pitu 'matīm | ūrjam |*
+> *asmai | adhattam |*
+> *ṛbīse | atrim | aśvinā | ava 'nītam | ut | ninyathuḥ |*
+> *sarva 'gaṇam | svasti ‖ 8 ‖*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–7 complete (through printed p. 220, PDF 240); Ṛk 8 Saṃhitā and Pada written. Next: printed p. 221 (PDF 241) — Ṛk 8 bhāṣya… Open: numerals as read `[?]`.
