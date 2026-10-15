@@ -3,10 +3,30 @@
 import re, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = pathlib.Path(__file__).resolve().parent / "work"; OUT.mkdir(exist_ok=True)
-ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka'}
+ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka', 9: 'The Eighth Adhyāya of the First Aṣṭaka'}
 SAM = re.compile(r'^\*\*(?:॥ संहिता(?:पाठः|खण्डः) ॥ — )?Saṃhitā')
 
+
+def clean9():
+    text = (ROOT / "Rigveda_Samhita_Vol9_English_Translation.md").read_text(encoding='utf-8')
+    i = text.rfind('**Progress note'); text = text[:i] if i > 0 else text
+    k = text.find('## Sūkta 113'); front = text[:k]; body = text[k:]
+    out = ['# ' + ADH[9]]
+    for ln in body.split('\n'):
+        m = re.match(r'^## Sūkta (\d+) — \*?([^*(]+?)\*? ?(?:\(printed.*)?$', ln)
+        if m: out.append('## Sūkta %s — "%s"' % (m.group(1), m.group(2).strip())); continue
+        m = re.match(r'^### Printed p\. (\S+)', ln)
+        if m: out.append('<div class="pgmark">original p. %s</div>' % m.group(1)); continue
+        m = re.match(r'^### Ṛk (\d+)\s*$', ln)
+        if m: out.append('### Rik %s' % m.group(1)); continue
+        if ln.strip() == '---': continue
+        out.append(ln)
+    md = re.sub(r'\n{3,}', '\n\n', '\n'.join(out)) + '\n'
+    (OUT / 'vol9_clean.md').write_text(md, encoding='utf-8')
+    print('vol9 cleaned:', len(md))
+
 def clean(vol):
+    if vol == 9: return clean9()
     audit = []
     def log(kind, ln, text): audit.append(f"- **{kind}** (draft line {ln}): {text[:240].replace(chr(10), ' ')}{'…' if len(text) > 240 else ''}")
     text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')

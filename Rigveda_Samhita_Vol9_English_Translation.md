@@ -12757,12 +12757,6 @@ In these [passages] he explains the word *vāja* as 'food' and the word *vājin�
 
 ---
 
-## End of the translation for this stretch (Sūktas 113–120 complete)
-
-Sūkta 121 (*kad itthā nṝḥ*; the eighteenth anuvāka's first sūkta; fifteen Ṛks; Ṛṣi Kakṣīvān; deity Viśvedevāḥ or Indra; Triṣṭubh) begins on printed p. 537 (PDF 557) — **not yet translated**.
-
----
-
 ## Sūkta 121 — *kad itthā nṝḥ pātram* (printed pp. 537–?)
 
 ### Printed p. 537  (PDF 557; header "Aṣṭaka 1, Adhyāya 8, Varga …")
