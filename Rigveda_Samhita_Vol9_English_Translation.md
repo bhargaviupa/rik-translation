@@ -9543,4 +9543,34 @@ In the Nirukta the word *bakura* is explained with the meanings *bhāskara* — 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–20 complete; Ṛk 21 through printed p. 397 (PDF 417): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 398). Next: printed p. 398 (PDF 418). Numerals as read (list stops at printed p. 380): Ni. 6-26, 6-37/38, 3-48 `[?]`.
+### Printed p. 398  (PDF 418; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 21, continued)* "… the Aśvins did farming in the ground; and with the growth [of the crops, they caused] rain (the water) to fall; the thieves who steal the crop, and the like, they [struck] with weapons such as the thunderbolt and other fearsome arms, punishing them and protecting the men. By this, they make manifest among men their own supreme, great, and abundant glory — so Sāyaṇa explains. And by performing these three kinds of acts, they make for men the great light called the Sun — the light of both the worldly and the spiritual kind, so that the man may become *ārya*, 'worthy of worship'. And he gives another meaning: 'The Aśvins perform these three kinds of acts that are the cause of man's life, so that man may live, and, living, see the Sun.' Skandasvāmin, on this matter, quotes:
+
+> याभिर्नरा शयवे याभिरत्रये याभिः पुरा मनवे गातुमीषथुः ।
+> याभिः शारीराजतं स्यूमरश्मये ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-१६ [as read])
+
+> *yābhirnarā śayave yābhiratraye yābhiḥ purā manave gātumīṣathuḥ |*
+> *yābhiḥ śārīrājataṃ syūmaraśmaye tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-16 [as read])*
+
+and, having quoted this Ṛk: *manuṣaśabdo 'tra manoḥ paryāyaḥ | manunāmno rājño 'ryāya* — 'the word *manuṣa* is here a synonym of *manu*; for the king named Manu, the *ārya*': he explains that the second pāda of the Ṛk 1-112-16 also states this meaning. And:
+
+> युवामार्यस्यार्थाय वपनवृष्टिदोहनदस्युहननैस्त्रिभिः कर्मभिः महाप्रभावौ युवां साधूनामनुग्रहार्थं जातौ । अथवा अभि दस्युमिति दस्युशब्देन दुर्भिक्षमुच्यते । बकुरशब्देनात्र महान् वृष्ट्युदकसमूहः । ज्योतिश्शब्देनापि सुभिक्षमिति । महत्त्वात् भयंकरेण वृष्ट्युदकसमूहेन अभिघ्नन्तौ विस्तीर्णं सुभिक्षं कृतवन्तौ युवां आर्यस्यार्थाय ॥ [as read; small type, partly doubtful [?]]
+
+> *yuvāmāryasyārthāya vapanavṛṣṭidohanadasyuhananaistribhiḥ karmabhiḥ mahāprabhāvau yuvāṃ sādhūnāmanugrahārthaṃ jātau | athavā abhi dasyumiti dasyuśabdena durbhikṣamucyate | bakuraśabdenātra mahān vṛṣṭyudakasamūhaḥ | jyotiśśabdenāpi subhikṣamiti | mahattvāt bhayaṃkareṇa vṛṣṭyudakasamūhena abhighnantau vistīrṇaṃ subhikṣaṃ kṛtavantau yuvāṃ āryasyārthāya ‖ [as read; small type, partly doubtful [?]]*
+
+"The Aśvins, by sowing the seed, by raining so that it grows, and by restraining those who would seize it, performing these three kinds of acts, are [beings] of great glory. They were born to protect the good, and to punish the wicked, and to protect and nourish disciples — for the protection of the Āryas, the venerable — he explains in this one way. And in another: by the word *dasyu* is meant famine (*durbhikṣa*, [or] drought); by the word *bakura*, abundant rain; by the word *jyotis*, good crops (*subhikṣa*): so, in times of famine (*durbhikṣa*), with the rain-water that is abundant, they make the rain fall in order that the rain should check the want of rain, and good crops should come about; and thus the Aśvins perform the work of protecting the good, destroying the famine — he gives yet another meaning."
+
+---
+
+### Printed p. 399  (PDF 419; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 21; grammar page, noted briefly; sūtra numbers as read)**
+
+*Vapantā* — root *ḍuvap bījasantāne*; since it shows the action of a causer, it must be accepted as having the causative sense included; in the sense of *laṭ*, suffix *śatṛ*; *śap* vikaraṇa; with the dual *au* following, *supāṃ sulug* (Pā. 7-1-39 as read), *ā* for it; since it is *ugit*, *num*; *anusvāra*, *parasavarṇa*; since the *lasārvadhātuka* is *anudātta*, by *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read) the root's accent remains. *Duhantā* — root *duha prapūraṇe*; *adādi*; in the sense of *laṭ*, suffix *śatṛ*; *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 as read), *luk* for *śap*; since the *lasārvadhātuka* follows after *upadeśa*, the *nighāta* [or *anudātta*] accent for the *lasārvadhātuka* does not occur; then the suffix's initial acute remains; since it is *apit* and so *sārvadhātuka* [and *ṅit*], [the root] is *jit* [?], so *guṇa* of the light penultimate of the root does not occur; as before, *ā* for the case ending; *num*. *Manuṣāya* — root *mana jñāne*; the *auṇādika* suffix *uṣan*; since it is *nit*, *jñityādir nityam* (Pā. 6-1-197 as read), the initial acute. *Dasyum* — root *dasu upakṣaye*, *divādi*; the *auṇādika* suffix *yun*. *Dhamantā* — the root *dhanu* [as read; cf. *dhmā*] is used here in the sense of killing; as before, in the sense of *laṭ*, *śatṛ*; case ending with *ā*; since the *lasārvadhātuka* is *anudātta*, the root accent remains; *num* for it, *anusvāra*, *parasavarṇa*. *Āryāya* — root *ṛ gatau*; *ṛhalor ṇyat* (Pā. 3-1-124 as read), suffix *ṇyat*; since it is *ṇit*, *aco ñṇiti* (Pā. 7-2-115 as read), *vṛddhi* of the *ṛ*-vowel; becoming *r*-final, the form *ārya*; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute; dative singular form. ‖ 21 ‖
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–21 complete (printed p. 399, PDF 419). Next: printed p. 400 (PDF 420): Ṛk 22 Saṃhitā. Numerals as read (list stops at printed p. 380): Ṛ. 1-112-16; Pā. 7-1-39, 6-1-186, 2-4-72, 6-1-197, 3-1-124, 7-2-115, 6-1-213.
