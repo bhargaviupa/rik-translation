@@ -2788,4 +2788,100 @@ as an example of this Ṛk" —
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–2 complete (through printed p. 109, PDF 129); Ṛk 3 Saṃhitā written. Next: printed p. 110 (PDF 130) — Ṛk 3 Pada onward. Open: Manu-reference numerals on p. 108 unreadable cluster `[?]`; Pā. numerals as read.
+### Printed p. 110  (PDF 130; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.3)**
+
+> अश्याम । ते । सुऽमतिम् । देवऽयज्यया । क्षयत्ऽवीरस्य । तव ।
+> रुद्र । मीळ्हुः ॥
+> सुम्नऽयन् । इत् । विशः । अस्माकम् । आ । चर । अरिष्टऽवीराः ।
+> जुहवाम । ते । हविः ॥ ३ ॥
+
+> *aśyāma | te | su 'matim | deva 'yajyayā | kṣayat 'vīrasya | tava |*
+> *rudra | mīḷhuḥ ‖*
+> *sumna 'yan | it | viśaḥ | asmākam | ā | cara | ariṣṭa 'vīrāḥ |*
+> *juhavāma | te | haviḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.3)**
+
+> हे मीळ्हः सेक्तः कामाभिवर्षक नित्यतरुणो वा रुद्र क्षयद्वीरस्य क्षपितप्रतिपक्षस्य मरुद्भिर्युक्तस्य वा तव सुमतिं शोभनां कल्याणीमनुग्रहात्मिकां बुद्धिं ते त्वत्सम्बन्धिनो वयं देवयज्यया देवयागेन त्वद्देवत्येन यज्ञेनाश्याम प्राप्नुयाम । त्वं चास्माकं विशः प्रजा अभिलक्ष्याचर । आगच्छ । किं कुर्वन् । सुम्नायन्नित् । सुम्नमिति सुखनाम । तासां प्रजानां सुखमिच्छन्नेव सुखप्रद एव भवेत्यर्थः । तथोऽरिष्टवीराः । वीर्यार्जायन्त इति वीराः प्रजाः । अरिष्टा अहिंसिता वीरा येषां तथाभूताः सन्तो वयं ते तुभ्यं हविःरूपपुरोडाशादिकं जुहवाम । चोदिते आधारे प्रक्षिपाम । सुमतिम् । मतिर्मननम् । शोभनं मननं यस्यां बुद्धौ सा सुमतिः । [grammatical tail follows in the print: *mīḷhvaḥ* — *mih* "to sprinkle", *kvasu* by *dāśvān sāhvān mīḍhvān*, nominal, the vocative; *sumnāyan* — *kyac* in the sense of desiring; etc.]
+
+> *he mīḷhaḥ sektaḥ kāmābhivarṣaka nityataruṇo vā rudra kṣayadvīrasya kṣapitapratipakṣasya marudbhiryuktasya vā tava sumatiṃ śobhanāṃ kalyāṇīmanugrahātmikāṃ buddhiṃ te tvatsambandhino vayaṃ devayajyayā devayāgena tvaddevatyena yajñenāśyāma prāpnuyāma | tvaṃ cāsmākaṃ viśaḥ prajā abhilakṣyācara | āgaccha | kiṃ kurvan | sumnāyannit | sumnamiti sukhanāma | tāsāṃ prajānāṃ sukhamicchanneva sukhaprada eva bhavetyarthaḥ | tatho 'riṣṭavīrāḥ | vīryārjāyanta iti vīrāḥ prajāḥ | ariṣṭā ahiṃsitā vīrā yeṣāṃ tathābhūtāḥ santo vayaṃ te tubhyaṃ haviḥrūpapuroḍāśādikaṃ juhavāma | codite ādhāre prakṣipāma | sumatim | matirmananam | śobhanaṃ mananaṃ yasyāṃ buddhau sā sumatiḥ | [grammatical tail follows in the print: *mīḷhvaḥ* — *mih* "to sprinkle", *kvasu* by *dāśvān sāhvān mīḍhvān*, nominal, the vocative; *sumnāyan* — *kyac* in the sense of desiring; etc.]*
+
+*Sense (mine):* "O *mīḷhvaḥ* — sprinkler, one who showers desires, or always-young Rudra — may we, belonging to thee, *aśyāma*, obtain by *devayajyayā*, by sacrifice to the gods, to thee as deity, the *sumati*, the excellent, auspicious, graciously-disposed mind (*buddhi*) of thee, *kṣayadvīrasya*, who hast destroyed adversaries or art joined with the Maruts. And do thou *ā cara*, come to our *viśaḥ*, subjects, descendants. Doing what? *Sumnāyann it* — *sumna* is a name for happiness; wishing happiness to those people, be only a giver of happiness. And we, *ariṣṭavīrāḥ* — having sons (heroes, *vīrāḥ*, offspring) unhurt — *juhavāma te haviḥ*, offer thee oblations such as cakes into the sacrificial fire. *Sumatim* — *mati* is thinking: *sumati* is that understanding in which there is good thinking."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(begun on p. 110, completed on p. 111)*
+
+"*mīḍhvaḥ* — O one who grants the desired objects, or who is ever young; *rudra* — O Rudra; *kṣayadvīrasya* — of thee, who destroyest opposing heroes or art joined with the Marut deities; *tava* — thy; *sumatim* — graciously-disposed (favouring) understanding; *te* — (we) who belong to thee; *devayajyayā* — by the sacrifices made for the gods; *aśyāma* — may we obtain; (*tvaṃ ca* — and thou); *asmākam* — our; *viśaḥ* — people (descendants)…
+
+### Printed p. 111  (PDF 131; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+… *udveśi* [as printed, [?]] (?); *sumnāyan it* — being a giver of happiness only; *ā cara* — come (afterwards, we); *ariṣṭavīrāḥ* — having children free from sorrow; *te* — to thee; *haviḥ* — *caru*, *purodāśa* and the like; *juhavāma* — we offer in the fire."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Rudra, who grantest what we desire, may thy favour be upon us the sacrificers; come, giving happiness to our children; we, endowed with sorrow-free children, offer thee *caru* and *purodāśa* and the rest."
+
+**English Translation (as printed)**
+
+> Rudra, showerer (of benefits), may we obtain, through our worship of the gods, the favour of you, the destroyer of heroes : come to our posterity, purposing to promote their happiness, while we, having our sons in safety, offer you oblations.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**मीळ्हः** — *Mīḷhaḥ* — "*kāmābhivarṣaka nityataruṇo vā*": "Sāyaṇa says: one who fulfils the wishes of those who take refuge in him, or one who is always enjoying youthful vigour. Skandasvāmin says the word *mīḍhva* arises from the root *mih* with the sense 'to sprinkle' — [*mīḍhvān* = one who sprinkles] — one who sprinkles with the water that is called rain; or *mīḍhvān* is a Vedic form of *mīḍhaṃ* = wealth, [giving] 'wealth'. *Mīḷhuṣ* is read among the twenty-eight [as read] names of wealth (Ni. 2-10 as read [?]). Sāyaṇa explains that the word *mīḍhvas*, since it conveys 'wealth', with the *matup* suffix, means 'Rudra who has wealth'."
+
+**सुमतिम्** — *Sumatim* — "*matir mananam | śobhanaṃ mananaṃ yasyāṃ buddhau sā sumatiḥ | śobhanāṃ kalyāṇīm anugrahātmikāṃ buddhim*": "*manana* means firm resolve: an understanding that is a steadfast resolve that there be welfare for us all. The prayer to Rudra is that he should accept our salutations and our oblations. The word *sumati* —
+
+> वैश्वानरस्य सुमतौ स्याम राजा हि कं भुवनानामभिश्रीः ।
+> (ऋ. सं. १-९८-१ [as read])
+
+> *vaiśvānarasya sumatau syāma rājā hi kaṃ bhuvanānāmabhiśrīḥ |*
+> *(ṛ. saṃ. 1-98-1 [as read])*
+
+---
+
+### Printed p. 112  (PDF 132; header "Maṃ. 1 A. 16 Sū. 114")
+
+*(Ṛ. 1-98-1 as just cited; Ni. 2-?? as read [?]):* "… in this Ṛk and in other Ṛks the word [*sumati*] is used in the sense of '*kalyāṇī matiḥ*', auspicious understanding —
+
+> धाता ददातु दाशुषे प्राचीं जीवातुमक्षिताम् ।
+> वयं देवस्य सुमतिं सत्यधर्मणः ॥
+> (अथ. सं. ७-१२-३ [as read])
+
+> *dhātā dadātu dāśuṣe prācīṃ jīvātumakṣitām |*
+> *vayaṃ devasya sumatiṃ satyadharmaṇaḥ ‖*
+> *(atha. saṃ. 7-12-3 [as read])*
+>
+> अङ्गिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः ।
+> तेषां वयं सुमतौ यज्ञियानामपि भद्रे सौमनसे स्याम ॥
+> (ऋ. सं. १०-१४-६ [as read])"
+
+> *aṅgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ |*
+> *teṣāṃ vayaṃ sumatau yajñiyānāmapi bhadre saumanase syāma ‖*
+> *(ṛ. saṃ. 10-14-6 [as read])"*
+
+**सुम्नायन्** [*sic* as heading: *sumnāyan*; the print's heading is *Sumnāyan*] — "*sumna* is read among the twenty-eight [as read] names of happiness (Ni. 3-?? as read [?]); so it conveys the meaning 'happiness'. The sense is: Rudra, accepting the oblations we offer, will favour with happiness those who honour him with salutations, and their children."
+
+**अरिष्टवीराः** — *Ariṣṭavīrāḥ* — "*ariṣṭā ahiṃsitā vīrā yeṣāṃ tathābhūtāḥ | vīryārjāyanta iti vīrāḥ prajāḥ*": "Though, following the grammatical derivation, the word *vīra* has various meanings, here the sense is 'offspring (sons), born of virility'. The Nirukta-writer interprets it likewise —
+
+> शिक्षा स्तोतृभ्यो माति धग्भगो नो बृहद्वदेम विदथे सुवीराः ।
+> (ऋ. सं. २-११-२१ [as read])
+
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ |*
+> *(ṛ. saṃ. 2-11-21 [as read])*
+
+— citing this Ṛk. Here Rudra is prayed to: may no harm come to our sons and the like. Skandasvāmin: '*ariṣṭavīrāḥ — ahiṃsitaputrapautrāḥ*': 'we, with sons and grandsons unharmed, shall be so,' he says."
+
+**इत्** / **विशः** — *It* / *Viśaḥ* — "*prajāḥ*": "Among the *nipātas* some convey a meaning; others are meaningless and exist for completing the sentence. Here the word *it* is for filling out the line. Sāyaṇa explains the word *viśaḥ* as 'descendants'; *abhilakṣya ācara* means 'look upon our children and favour them' — that is the prayer. Skandasvāmin says the same: '*viśaḥ — manuṣyān asmākaṃ sambandhinaḥ putrapautrādīn ṛtvijo vā prati ācara*' — 'to our people, our related sons and grandsons, or to the priests [officiating], come' — that is, having looked at us men, our sons and grandsons, or the priests, may he favour them."
+
+### Printed p. 113  (PDF 133; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly)**
+
+*aśyāma* (as it stands at the beginning of the *pāda* there is no nighāta; the process was explained in the earlier Ṛk; the first syllable accented from the suffix), *sumatim* (*man* "to know", *ktin* in the abstract sense; "*śobhanaṃ mananaṃ yasyāṃ buddhau sā sumatiḥ*"; *nañsubhyām*, Pā. 6-2-172 as read [?], the later member's first-syllable accent; accusative singular), *devayajyayā* (*yaj*; by *chandasi niṣṭarkyadevahūya…*, Pā. 3-1-123 as read [?], the *yap* suffix and the feminine are irregularly formed; *gatikārakopapadāt kṛt*, first-member accent; instrumental singular), *mīḍhvaḥ* (*mih* "to sprinkle"; *kvasu* by *dāśvān sāhvān mīḍhvāṃś ca*, Pā. 6-1-12 as read [?]; the vocative *mīḍhvas*; *ru* for *s* by *matuvasoḥ ru sambuddhau chandasi*, Pā. 8-3-1 as read [?]; the visarga by *kharavasānayor visarjanīyaḥ*; nighāta by *āmantritasya ca*), *sumnāyan* (*sumna* + *kyac* by *supa ātmanaḥ kyac*… in the Vedic sense, *chandasi pareccāyāmapi*, Pā. 3-1-?? as read [?]; the lengthening and *ātva* not applied by *na chandasy aputrasya*; the *ātva* option by *devasumnayor yajuṣi kāṭhake*, Pā. 7-4-38 as read [?]; the *kyac* ending is a root by *sanādyantā dhātavaḥ*; then *śatṛ*; accent from the suffix), *cara* (*car* "to move, to eat", *loṭ* 2nd singular; nighāta), *ariṣṭavīrāḥ* (*ariṣṭā vīrā yeṣām te* — *bahuvrīhau prakṛtyā pūrvapadam*, first-member accent), *juhavāma* (*hu* "to offer, to eat"; *śluḥ* by *juhotyādibhyaḥ śluḥ*; *laṭ* 1st plural; nighāta). ‖ 3 ‖
+
+*(Printer's ornament; footer signature mark "IX 8".)*
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–3 complete (through printed p. 113, PDF 133). Next: Ṛk 4 from printed p. 114 (PDF 134). Open: numerals as read `[?]` (Ni., Pā., Atharva 7-12-3, Ṛ. 10-14-6).
