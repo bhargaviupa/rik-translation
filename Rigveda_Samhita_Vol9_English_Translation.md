@@ -10580,4 +10580,54 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–8 complete; Ṛk 9 Saṃhitā and Pada written (printed p. 441, PDF 461). Next: printed p. 442 (PDF 462): Ṛk 9 bhāṣya onward. Numerals as read: sūtra numbers on pp. 440–441 `[as read]`.
+### Printed p. 442  (PDF 462; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.9)** *(small type; read with several doubts)*
+
+> अश्विना हे अश्विनौ पेदवे पेदुनाम्ने राज्ञे युवं युवां श्वेतवर्णं कंचिदश्वमदत्तम् । प्रायच्छतम् । कीदृशम् । इन्द्रजूतमिन्द्रेण युवाभ्यां गमितं । दत्तमित्यर्थः । अहिहनं शत्रूणां हन्तारं जोहूत्रमतिशयेन संग्रामेष्वाह्वातारम् । अर्यो वैश्यः [?] शत्रोरभिभूतिमभिभावुकमुग्रमुद्गूर्णं । वीर्यवन्तमित्यर्थः । सहस्रसां सहस्रसंख्याकस्य धनस्य संभक्तारं दातारं वा वृषणं सेक्तारं । युवानमित्यर्थः । वीळ्वङ्गं दृढाङ्गम् ॥ इन्द्रजूतम् । जु इति सौत्रो धातुर्गत्यर्थः । अस्माद्भावविशेषणार्थात्कर्मणि निष्ठा । तृतीया कर्मणेति पूर्वपदप्रकृतिस्वरत्वम् । जोहूत्रम् । ह्वयतेर्यङ्लुगन्ताद्औणादिकस्त्रप्प्रत्ययः । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । अर्यः । अरिशब्दात् षष्ठ्येकवचने जसादिषु छन्दसि वावचनमिति ङेर्ज्गुणीति गुणस्य विकल्पितत्वादभावे यणादेशः [?] । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वम् । अभिभूतिम् । अभिभवतेः करणे क्तिन् । तादौ च गतेः प्रकृतिस्वरत्वम् । सहस्रसाम् । सनोतेः सनतेर्वा जनसनखनेति विट् । विड्वनोरनुनासिकस्यात् [?] ॥
+
+> *aśvinā he aśvinau pedave pedunāmne rājñe yuvaṃ yuvāṃ śvetavarṇaṃ kaṃcidaśvamadattam | prāyacchatam | kīdṛśam | indrajūtamindreṇa yuvābhyāṃ gamitaṃ | dattamityarthaḥ | ahihanaṃ śatrūṇāṃ hantāraṃ johūtramatiśayena saṃgrāmeṣvāhvātāram | aryo vaiśyaḥ [?] śatrorabhibhūtimabhibhāvukamugramudgūrṇaṃ | vīryavantamityarthaḥ | sahasrasāṃ sahasrasaṃkhyākasya dhanasya saṃbhaktāraṃ dātāraṃ vā vṛṣaṇaṃ sektāraṃ | yuvānamityarthaḥ | vīḷvaṅgaṃ dṛḍhāṅgam ‖ indrajūtam | ju iti sautro dhāturgatyarthaḥ | asmādbhāvaviśeṣaṇārthātkarmaṇi niṣṭhā | tṛtīyā karmaṇeti pūrvapadaprakṛtisvaratvam | johūtram | hvayateryaṅlugantādauṇādikastrappratyayaḥ | pratyayasya pittvādanudāttatve dhātusvaraḥ śiṣyate | aryaḥ | ariśabdāt ṣaṣṭhyekavacane jasādiṣu chandasi vāvacanamiti ṅerjguṇīti guṇasya vikalpitatvādabhāve yaṇādeśaḥ [?] | udāttayaṇo halpūrvāditi vibhakterudāttatvam | abhibhūtim | abhibhavateḥ karaṇe ktin | tādau ca gateḥ prakṛtisvaratvam | sahasrasām | sanoteḥ sanatervā janasanakhaneti viṭ | viḍvanoranunāsikasyāt [?] ‖*
+
+*Sense (mine):* "O Aśvins, to the king named Pedu you gave a white-coloured horse. What kind? *Indrajūtam* — made to go (given) by Indra to you; *ahihanam* — slayer of enemies; *johūtram* — a [horse] that calls out exceedingly in battles; *aryaḥ* — [for] the enemy of the *vaiśya*?? [as read [?]] *abhibhūtim* — the overcomer, *ugram* — formidable, strong; *sahasrasām* — dividing, or giving, wealth of a thousand-fold; *vṛṣaṇam* — a sprinkler [virile]; *yuvānam* — young; *vīḷvaṅgam* — of firm limbs."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.9)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *pedave* — to the king named Pedu; *yuvam* — you two; *indrajūtam* — given [to you] by Indra; *ahihanam* — slayer of enemies; *johūtram* — loudly neighing (in battle); *aryaḥ* — to the enemy; *abhibhūtim* — causing defeat; *ugram* — endowed with valour; *sahasrasām* — bringing a thousand-fold wealth; *vṛṣaṇam* — youthful; *vīḷvaṅgam* — firm of limb; *śvetam* — of white colour; *aśvam* — a horse; *adattam* — you gave.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.9)** (Kannada, rendered)
+
+"O Aśvins! You gave to Pedu a horse of white colour — given by Indra to you, a slayer of enemies, neighing loudly in battle, causing defeat to the enemy, endowed with valour, bringing wealth, youthful and firm of limb."
+
+---
+
+### Printed p. 443  (PDF 463; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"You gave to Pedu, Aswins, the white and foe-trampling steed which you had received from Indra, loud-neighing (in battle), defying enemies, high-spirited, the acquirer of a thousand treasures, vigorous, and firm in body."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 9)**
+
+*Indrajūtam* — *indreṇa gamitaṃ dattam*: "'Given by Indra to the Aśvins' is Sāyaṇa's meaning. *Indram iva gantāraṃ kartṛprati* [as read]: 'one that goes, like Indra, into battle against enemies' is Skandasvāmin's meaning."
+
+*Ahihanam* — *śatrūṇāṃ hantāram*: "'one who destroys enemies' [say] Sāyaṇa; and Skandasvāmin: *śauryopetaṃ ca  . . .* [as read; small type] *śatror hinasti ... vā asurasya hantāram* — he explains the meaning: 'a destroyer of enemies who rise over him with great strength, or of the asura called Ahi'."
+
+"The king Pedu praised the Aśvins. They, hearing the king's praise, were pleased and, graciously, gave him a horse suited [to him]: it was white-coloured, and it had the power to destroy enemies at the time of battle. Indra had given it long before to the Aśvins, with great respect. It is described as having the nature of regularly winning a thousand kinds of wealth every day."
+
+*Sahasrasām* — *sahasrasaṃkhyākasya dhanasya sambhaktāraṃ dātāraṃ vā*: "This horse is one that wins, or gives, a thousandfold of wealth."
+
+*Vīḷvaṅgam* — *dṛḍhāṅgam*: "'having firm limbs' is the meaning. The Nirukta author [explains]:
+
+> वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणः सुवीरः ।
+> गोभिः सन्नद्धो असि वीळयस्वास्था ता ते जयतु जेत्वानि ॥
+> (ऋ. सं. ६-४७-२६)
+
+> *vanaspate vīḍvaṅgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ |*
+> *gobhiḥ sannaddho asi vīḷayasvāsthā tā te jayatu jetvāni ‖*
+> *(ṛ. saṃ. 6-47-26)*
+
+— quoting this, he explains *vīḍvaṅgaḥ dṛḍhāṅgaḥ* (Ni. 6-?? [as read: 'ನಿ. ೯-೧೨']) — 'of firm limbs'."
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–8 complete; Ṛk 9 through printed p. 443 (PDF 463): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar page follows (p. 444). Next: printed p. 444 (PDF 464). Numerals as read: Ṛ. 6-47-26, Ni. number on p. 443 `[as read]`.
