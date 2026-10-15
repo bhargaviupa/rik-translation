@@ -121,4 +121,103 @@ It is not an easy task to publish the Ṛgveda Saṃhitā — most ancient, most
 
 ---
 
-**Progress note:** Pīṭhike text done, printed pp. i–vi (PDF 8–13; signed 19-3-1950, H. P. Venkata Rao). Reference numerals in Pīṭhike blurred → `[?]`. PDF 14–20 = contents table (Viṣayānukramaṇike) still to be noted briefly; then Sūkta 113 from printed p. 2 (PDF 22). IAST not yet added to the Pīṭhike (run add_iast.py at end).
+## Viṣayānukramaṇike (Table of Contents) — printed pp. vii–?
+
+*Śrīḥ* — "Viṣayānukramaṇike. The Eighth Adhyāya of the First Aṣṭaka; Sūktas 113–130 of the First Maṇḍala." Column heading: *Puṭasaṃkhye* (page number). The page numbers below are those printed in the table.
+
+### Printed p. vii  (PDF 14; number not visible in the crop)
+
+**Sūkta 113** — *idaṃ śreṣṭhaṃ* — the 113th Sūkta
+- Application (viniyoga) of the Sūkta, and Ṛṣi, deity, metres — 2
+- Discussion of the origin of dawn-time, etc. — 3
+- Discussion of the sameness and likeness of Night and Uṣas — 13
+- The different kinds of Night and Uṣas — 20
+- Meaning of the word *visadṛśā* — 34
+- Meaning, with translation, of the words *parāyatīnām*, *āyatīnām* etc. — 42
+- The pervasion of Uṣas's time over past, future and present — 54
+- Explanation of the words *sumnāvarī sūnṛtā* etc. — 59
+- The mutual relation of the present and past dawns of Uṣas — 73
+- Meaning of the word *āsu* etc. — 77
+- The word *asme* — its use in all seven cases, with examples — 82
+- Meaning, with translation, of *adhītīr anīkam* [reading of the printed words as in the source; doubtful] — 92
+
+**Sūkta 114** — *imā rudrāya* — the 114th Sūkta
+- Application of the Sūkta — 97
+- Ṛṣi, deity, metres — 98
+- Explanation of the word *rudra*, etc. — 101
+- Meaning of the word *kṣayadvīra* — 101
+- The matter of Manu (*manuvisa* [?]) — 107
+- Discussion of the word *varāha* — 120
+- The name *varāha* for Aṅgirases — 121
+
+### Printed p. viii  (PDF 15)
+
+- Rudra as father of the Marut deities — 126
+- Meaning, with translation, of the word *āyuḥ* — 134
+- Discussion of the word *dvibarha* [?] — 143
+
+**Sūkta 115** — *citraṃ devānām* — the 115th Sūkta
+- Application — 149; Ṛṣi, deity, metres — 150
+- Sūrya as the self of the moving and unmoving world — 153
+- Meaning of the word *yuga* — 157
+- Greatness of Sūrya's horses — 161
+- Greatness of the rising and setting of Sūrya — 165
+
+**Sūkta 116** — *nāsatyābhyāṃ* — the 116th Sūkta
+- Application — 177; Ṛṣi, deity, metres — 178
+- Account of the birth of the ṛṣi *kakṣīvān* [as printed "kṣīvān"?] etc. — 180
+- The royal sage Vimada — 181
+- Meaning of the word *barhiḥ* etc. — 182
+- How the Aśvins' vehicle, the ass, won in the contest of the gods — 187
+- The various vehicles of Indra and the other gods — 188
+- The self-choice (*svayaṃvara*) of Sūryā, daughter of Sūrya — 189
+- The king Tugra — 194 is for Bhujyu: "Bhujyu, Tugra's son, rescued by the Aśvins in mid-ocean" — 194 (Tugra himself — 193)
+- Derivation of the word *samudra* etc. — 201
+- How the Aśvins gave the white horse to king Pedu — 209
+- *Pajra*, the name for Aṅgirases — 215
+- Derivation of the word *kakṣīvān* — 215
+- How the Aśvins made the fragrance of their horse (*gorasa*?) bring forth wine [?] — 216
+- Meaning, with translation, of the word *purandhi* — 216
+
+### Printed p. ix  (PDF 16)
+
+- How the Aśvins rescued the ṛṣi Atri, whom the asuras had thrown into a hot fire-chamber (*tuṣāgni*) to burn, by cooling that fire with cold water — 222
+- Meaning of the word *svasti* — 225
+- How the ṛṣi Gotama, tormented by thirst, prayed to the Aśvins for water and they brought a well from a distant place to him and quenched his thirst — 230
+- How the ṛṣi Cyavana, troubled by old age, was given youth by the Aśvins — 233
+- How the ṛṣi Vandana, who had fallen in a well in the middle of a lonely forest, was lifted out of the well and saved — 239
+- Story of the ṛṣi Dadhīca; how Dadhīca taught the Aśvins the Madhu-vidyā — 245
+- The legend told in this connection by Skandasvāmin — 247
+- How Dadhīca got a horse's head — 247
+- Prof. Wilson's opinion in this matter ("Wilson" in English) — 248
+- How a son named Hiraṇyahasta was granted to the woman Vadhrimatī — 252
+- How the Aśvins rescued a quail-like bird (*gubbacci*) from the wolf's mouth — 255
+- Meaning of the word *vṛka* — 257
+- How the Aśvins mended the leg of Viśpalā, woman of the royal house of Śela, priest Agastya (*agastyapurohita*) [as printed], which had been cut off in battle — 262
+- How the Aśvins' vehicle the ass, in the form of a wolf, ... the story of *ṛjrāśva*, whose father, angered because he had given a hundred sheep to a she-wolf (as food), made Ṛjrāśva blind, and the Aśvins restored his sight — 266
+- How the Aśvins' chariot won in the gods' contest — 271
+- The story of Divodāsa — 276
+
+### Printed p. x  (PDF 17; number not visible)
+
+- How the Aśvins favoured Jāhnavī, the wife of the great sage Jahnu — 280
+- The king Jāhuṣa [?] — 284
+- How the Aśvins protected the king Pṛthuśravas and Vaśa — 289
+- How the ṛṣi Śara, tormented by thirst, fallen in a deep well on the path, unable to drink the water in the well, praised the Aśvins, who made the water of the well rise up and quenched Śara's thirst — 293
+- How the ṛṣi Śayu made a barren cow give milk, as if she had calved — 294
+- How, when Viśvaka's son Viṣṇāpū was lost, the Aśvins sought him and brought him to his father — 298
+- How the Aśvins lifted out of a well and saved the ṛṣi Rebha, who for ten days had been thrown by the asuras into a well and suffered — 302
+
+**Sūkta 117** — *madhvaḥ somasya* — the 117th Sūkta [number as printed ೧೧೭: read as 117]
+- Application — 308; Ṛṣi, deity, metres — 309
+- Among the gods of the sky-region the Aśvins hold the first place — 315
+- Meaning of the word *vasātī* etc. — 316
+- Meaning of the word *pañcajana* — 321
+- How the Aśvins lifted the ṛṣi Rebha out of the water and saved him — 324
+- How the ṛṣi Vandana was lifted out of the well — 329
+- How, having made Viṣṇāpū a (hunter's) prey (*kareteṃdu* [?]), he was given back to his father Viśvaka; and how Ghoṣā was brought a husband — 337
+- How the ṛṣi Śyāvana (Śyāva) [as printed "ಶ್ಯಾವನ"] was cured of leprosy and saved; how the blind ṛṣi Kaṇva, son of Nṛṣada, was given eyes — 341
+
+---
+
+**Progress note:** Pīṭhike done (printed i–vi); contents table (Viṣayānukramaṇike) noted so far for PDF 14–17 (printed vii–x, up to Sūkta 117 p. 341). Next: contents PDF 18–20, then Sūkta 113 from printed p. 2 (PDF 22). Open: a few contents lines read loosely (marked [?]); Pīṭhike reference numerals `[?]`; IAST layer to be run at the end of Pīṭhike+contents.
