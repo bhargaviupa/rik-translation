@@ -1872,4 +1872,100 @@ Grammar page on *añjibhiḥ* (*añjū* "to anoint, to shine, to go"; the suffix
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–14 complete (through printed p. 70, PDF 90); Ṛk 15 Saṃhitā and Pada written. Next: printed p. 71 (PDF 91) — Ṛk 15 bhāṣya… Open: as before.
+### Printed p. 71  (PDF 91; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.15)**
+
+> देवानां हविष्मावहन्तीत्येषोषसो याज्या । सूत्रितं च । आ द्यां तनोषि रश्मिभिरावहन्ती पोष्या वार्याणि । न ता अर्वा रेणुककाटो अश्नुते [?] । आश्व. ६-१४ [?] । इति ॥
+> पोष्या यावज्जीवं पोषणसमर्थानि वार्याणि वरणीयानि धनान्यावहन्ती सर्वं जनं प्रज्ञापयन्ती चेकिताना चित्रं विचित्रमाश्चर्यभूतं चायनीयं वा केतुं प्रज्ञापकं रश्मिं कृत्स्नजगत्प्रकाशनसमर्थं कृणुते स्वात्मनः प्रकाशं करोति । सैषेयुषीणां गमनवतीनां पूर्वमुत्पन्नानां शश्वतीनां बह्वीनामुषसामुपमा उप समीपे निर्मितोपमानभूता वा विभातीनां विशेषेण प्रकाशमानानामागामिनीनामुषसां प्रथमाद्या एवंभूतोषा व्यश्वैत् तेजसा प्रवृद्धासीत् ॥ [the *sūtra* quotation is small and partly doubtful [?]]
+
+> *devānāṃ haviṣmāvahantītyeṣoṣaso yājyā | sūtritaṃ ca | ā dyāṃ tanoṣi raśmibhirāvahantī poṣyā vāryāṇi | na tā arvā reṇukakāṭo aśnute [?] | āśva. 6-14 [?] | iti ‖*
+> *poṣyā yāvajjīvaṃ poṣaṇasamarthāni vāryāṇi varaṇīyāni dhanānyāvahantī sarvaṃ janaṃ prajñāpayantī cekitānā citraṃ vicitramāścaryabhūtaṃ cāyanīyaṃ vā ketuṃ prajñāpakaṃ raśmiṃ kṛtsnajagatprakāśanasamarthaṃ kṛṇute svātmanaḥ prakāśaṃ karoti | saiṣeyuṣīṇāṃ gamanavatīnāṃ pūrvamutpannānāṃ śaśvatīnāṃ bahvīnāmuṣasāmupamā upa samīpe nirmitopamānabhūtā vā vibhātīnāṃ viśeṣeṇa prakāśamānānāmāgāminīnāmuṣasāṃ prathamādyā evaṃbhūtoṣā vyaśvait tejasā pravṛddhāsīt ‖ [the *sūtra* quotation is small and partly doubtful [?]]*
+
+*Sense (mine):* "'This *āvahantī* (Ṛk) is the *yājyā* of Uṣas, [offered] to the gods with the oblation'; and it is stated in the Sūtra — 'ā dyāṃ tanoṣi raśmibhiḥ āvahantī poṣyā vāryāṇi …' (Āśv. 6-14 as read [?]). *Poṣyā* — bringing for as long as life lasts desirable (*vāryāṇi*) riches that are able to nourish; making all people know (*cekitānā*); she makes (*kṛṇute*), for herself, a wonderful (*citra*) — or worthy-to-be-gathered — *ketu*, i.e. a ray that makes known, able to illumine the whole world. This Uṣas is the *upamā* of the many (*śaśvatīnām*) Uṣases that have gone, formerly born (*īyuṣīṇām*), or the pattern placed beside them; and *prathamā*, the first, of the Uṣases yet to come, shining specially (*vibhātīnām*); such Uṣas *vyaśvait* — has grown, by splendour, increased."
+
+*Grammatical tail (characterized, not transcribed):* *poṣyā* (*puṣ* "to nourish"; the suffix *yat* in the sense of the instrument or the object, with *poṣaṇa*; the accent on the first syllable by *yato 'nāvaḥ*; elision by *śeś chandasi bahulam*); *vāryāṇi* (*vṛ* "to choose", *ṇyat* by *ṛhaloṇyat*; the accent of *ṇyat* — *ūḍavaravraṃsaṃsudaṃ hāṃ nyat*… [as printed: *iḍavaravṛtsaṃśaṃsu…* [?]]); *cekitānā* (*cit* "to know", *laṭ* of the *śānac*, here in the Vedic *liṭ*; the elision of *at* by the *chandasi*… ; the accent of reduplication by *abhyastānām ādiḥ*); *īyuṣīṇām* (*iṇ* "to go"; *kvasu*; *ṅīp* by *ugitaś ca*; *vasoḥ saṃprasāraṇam*; *iṇo yaṇ*…; the lengthening of the reduplication by *dīrgha iṇaḥ kiti*; *ṣatva* by *śāsivasighasīnāṃ ca*; *ṅīp* is *pit* hence unaccented); *vibhātīnām* (*bhā* "to shine", *śatṛ*; the *ṅīp* with *ugitaś ca*; *ām* with the accent *jyāṃ chandasi bahulam*); *vyaśvait* (*śvit*/*śvi* "to grow" [as printed: *ṭuoś śvi gatiḥ vṛddhyoḥ*], *luṅ*; elision of *cli* by *bahulaṃ chandasīti vikaraṇasya luk*; guṇa; the *vṛddhi* by *vyatyaya*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*poṣyā* — nourishing; *vāryāṇi* — desirable riches; *āvahantī* — bringing; *cekitānā* — giving knowledge (to the ignorant); *uṣāḥ* — Uṣas (the goddess Uṣas); *citram* — wonderful; *ketum* — a ray that makes known; *kṛṇute* — makes; *īyuṣīṇām* — of the Uṣases that have gone before; *śaśvatīnām* — of the many; *upamā* — resembling; *vibhātīnām* — of the specially shining (Uṣases to come); *prathamā* — the first (to come); *vyaśvait* — has now risen, endowed with light."
+
+### Printed p. 72  (PDF 92; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"(With her) she brings things that support life; (to those who are asleep, unconscious) she is the giver of knowledge; that Uṣas puts forth a wonderful light. Like the many past Uṣases, and first for those Uṣases to come that will shine — she is now shining."
+
+**English Translation (as printed)**
+
+> Bringing with her life-sustaining blessings, and giving consciousness (to the unconscious), she imparts (to the world) her wonderful radiance. The similitude of the numerous dawns that have gone by, the first of the brilliant (dawns that are to come), Ushas has to-day appeared.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**केतुं कृणुते** — *Ketuṃ kṛṇute* — "*prajñāpakaṃ raśmim*": "Sāyaṇa explains: 'a ray that makes the whole world knowing'. The Nirukta-writer, saying that the word *ketu* has the meanings 'knowledge', 'work' and 'ray', gives examples. '*ketaḥ*, *ketuḥ*, *cetaḥ*' — among the eleven names of knowledge (*prajñā*) the word *ketu* is stated; hence the meaning 'knowledge':
+
+> नवोनवो भवति जायमानोऽह्नां केतुरुषसामेत्यग्रम् ।
+> भागं देवेभ्यो वि दधात्यायन्प्र चन्द्रमास्तिरते दीर्घमायुः ॥
+> (ऋ. सं. १०-८५-१९ [as read])
+
+> *navonavo bhavati jāyamāno 'hnāṃ keturuṣasāmetyagram |*
+> *bhāgaṃ devebhyo vi dadhātyāyanpra candramāstirate dīrghamāyuḥ ‖*
+> *(ṛ. saṃ. 10-85-19 [as read])*
+
+In '*ahnāṃ keturuṣasām etyagram*' it is explained that '*ketu*' is '*ahnaḥ kartā sūryaḥ*' (the maker of the day, the Sun): so the word *ketu* signifies the meaning of 'doer of the action' (*karma-kartṛ*).
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
+> (ऋ. सं. १-९२-१ [as read])
+
+> *etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate |*
+> *(ṛ. saṃ. 1-92-1 [as read])*
+
+In this Ṛk the word *ketu* is used in the sense of knowledge.
+
+> उदु त्यं जातवेदसं देवं वहन्ति केतवः ।
+> दृशे विश्वाय सूर्यम् ॥
+> (ऋ. सं. १-५०-१ [as read])
+
+> *udu tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ |*
+> *dṛśe viśvāya sūryam ‖*
+> *(ṛ. saṃ. 1-50-1 [as read])*
+
+---
+
+### Printed p. 73  (PDF 93; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+"Here *ketavaḥ* is explained as '*raśmayaḥ*', rays; the word *ketu* has the meaning 'ray'. Uṣas, rousing the whole world, or giving knowledge, reveals her own rays and illumines the world."
+
+**चित्रम्** — *Citram* — "*vicitram āścaryabhūtaṃ cāyanīyaṃ vā*": "The word *citra* is that which causes wonder; or the meaning is 'worthy of honour':
+
+> उषस्तच्चित्रमा भरास्मभ्यं वाजिनीवति ।
+> येन तोकं च तनयं च धामहे ॥
+> (ऋ. सं. १-९२-१३ [as read])
+
+> *uṣastaccitramā bharāsmabhyaṃ vājinīvati |*
+> *yena tokaṃ ca tanayaṃ ca dhāmahe ‖*
+> *(ṛ. saṃ. 1-92-13 [as read])*
+>
+> चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।
+> आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥
+> (ऋ. सं. १-११५-१)
+
+> *citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ |*
+> *āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatastasthuṣaśca ‖*
+> *(ṛ. saṃ. 1-115-1)*
+
+— in these Ṛks the word *citra* is used in the sense 'worshipful (*pūjya*)'."
+
+**ईयुषीणामुपमा शश्वतीनाम्** — *Īyuṣīṇām upamā śaśvatīnām* — "*śaśvad iti bahunāma | gatvarīṇāṃ bahvīnāṃ madhye upamānabhūtā | atyantotkṛṣṭety arthaḥ*" ("*śaśvat* is a name meaning 'many'; the 'gone', among the many, being the model; 'exceedingly excellent' is the meaning"). "The word *śaśvat* conveys the sense 'many'. For the many past Uṣases, this Uṣas of the present time is the *upamāna* (the standard of comparison); that is, the thing that gives the comparison is always of greater qualities. In the present case, as the Uṣas of the present time is compared with Uṣas, the superiority in light and the rest is in the Uṣas that is the standard of comparison, it is understood. Past Uṣas-times too shone just as the present does; the coming Uṣas-times will also be so: this is the main purport."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 15; grammar page, noted briefly)**
+
+Grammar page on *āvahantī* (*vah* "to carry"; *śatṛ* in the *laṭ* sense; *ṅīp* in the feminine; the root accent remains since the *sārvadhātuka* is unaccented; in the compound the first-member accent by *kṛduttarapadaprakṛtisvaratva*), *poṣyā* (*puṣ* "to nourish"; *poṣaṇam* = *poṣaḥ*; *ghañ* in the abstract sense; guṇa of the penultimate by *pugantalaghūpadhasya ca*; *yat* in the Veda by *bhave chandasi*, Pā. 4-4-110 as read [?]; elision of *a* by *yasya iti ca*; the accent by *yato 'nāvaḥ*; the neuter plural *śi* replaced, with elision by *śeś chandasi bahulam*, Pā. 6-1-70 as read [?]).
+
+### Printed p. 74  (PDF 94; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, continued:* *vāryāṇi* (*vṛñ* "to choose"; *ṇyat* by *ṛhaloṇyat*; being *ṇit*, *vṛddhi* of the vowel by *aco 'ñṇiti*; *raparatva* by *uraṇ raparaḥ*; the *tit* svarita is prevailed over by *iḍavaravraṃsaṃsu…* [as printed] giving first-syllable accent, Pā. 6-1-?? [?]; neuter accusative plural); *kṛṇute* (*kṛvi* "to injure, to do"; the *num* augment by *idito num dhātoḥ*; *u* by *dhinvikṛṇvor a ca*; the *a* is the final substitute; *laṭ* 3rd singular; nighāta by *tiṅ atiṅaḥ*…); *īyuṣīṇām* (*iṇ* "to go", adādi; *kvasu* by *bhāṣāyāṃ sad-vasa-śrava…* [Pā. 3-2-107 as read [?]]; doubling; in the feminine *ṅīp* by *ugitaś ca*; *bha*-designation as *ajādi* suffix follows; *vasoḥ saṃprasāraṇam* — *vas* → *uṣ*; *saṃprasāraṇāc ca* — *pūrvarūpa*; *iṇo yaṇ*; the reduplication lengthened by *dīrgha iṇaḥ kiti*; *ṣatva* by *śāsivasighasīnāṃ ca*; *ṅīp* is *pit*, thus unaccented; the accent of the *uṣ* from *vasu*); *cekitānā* (*kit* "to know"; *yaṅ* by *dhātor ekācaḥ halādeḥ kriyāsamabhihāre*; doubling by *sanyaṅoḥ*; the *halādiśeṣa*; *cu* for the *ku* by *kuhoś cuḥ*; guṇa of the reduplication by *guṇo yaṅluk*; *śānac* after the *yaṅ*-ending; *chandasy ubhayathā* making it *ārdhadhātuka*; elision of *a* by *ato lopaḥ*; elision of the *y* by *yasya halaḥ*; the first-syllable accent by *abhyastānām ādiḥ*).
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–14 complete; Ṛk 15 through printed p. 74 (PDF 94): Special Topics concluded, grammar page of Ṛk 15 in progress (continues p. 75). Next: printed p. 75 (PDF 95). Open: Pā. numbers as read `[?]`.
