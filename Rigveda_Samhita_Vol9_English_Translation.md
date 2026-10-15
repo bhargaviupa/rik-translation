@@ -4009,4 +4009,82 @@ where *anīka* means 'rival' [*pratispardhi*] and 'face' [*mukha*]. In this Ṛk
 
 ---
 
-**Progress note:** Sūkta 115: Ṛks 1–3 complete (through printed p. 163, PDF 183); Ṛk 4 Saṃhitā written. Next: printed p. 164 (PDF 184) — Ṛk 4 Pada, bhāṣya… Open: numerals as read `[?]`.
+### Printed p. 164  (PDF 184; header "Maṃ. 1 A. 16 Sū. 115")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 115.4)**
+
+> तत् । सूर्यस्य । देवऽत्वम् । तत् । महिऽत्वम् । मध्या । कर्तोः ।
+> विऽततम् । सम् । जभार ।
+> यदा । इत् । अयुक्त । हरितः । सधऽस्थात् । आत् । रात्री ।
+> वासः । तनुते । सिमस्मै ॥ ४ ॥
+
+> *tat | sūryasya | deva 'tvam | tat | mahi 'tvam | madhyā | kartoḥ |*
+> *vi 'tatam | sam | jabhāra |*
+> *yadā | it | ayukta | haritaḥ | sadha 'sthāt | āt | rātrī |*
+> *vāsaḥ | tanute | simasmai ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 115.4)**
+
+> सूर्यस्य सर्वप्रेरकस्यादित्यस्य तद्देवत्वमीश्वरत्वम् । स्वातन्त्र्यमिति यावत् । महित्वं महत्त्वं माहात्म्यं च तदेतत् । तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । यत्कर्तोः कर्मणामेतत् । प्रारब्धपरिसमाप्तस्य कृष्यादिलक्षणस्य कर्मणो मध्या मध्येऽपरिसमाप्त एव तस्मिन्कर्मणि विततं विस्तीर्णं स्वकीयं रश्मिजालमस्तं गच्छन् सूर्यः सं जभार । अस्माल्लोकाच्छास्त्रात्मन्युपसंहरति । कर्मकराश्च प्रवृत्तमपरिसमाप्तमेव विसृज्यास्तमयं यन्तं सूर्यं दृष्ट्वा । ईदृशं स्वातन्त्र्यं महिमा च सूर्यव्यतिरिक्तस्य कस्यापि न सूर्य एवेदृशं स्वातन्त्र्यं महिमानं चावगाहते । अपि च । इदित्यवधारणे । यदेदयुक्तास्मिन्नेव काले हरितो रसहरणशीलान्स्वरश्मीन् हरिद्वर्णानश्वान्वा सधस्थात्सहस्थानादस्माल्लोकादादायायुक्त । अन्यत्र संयुक्तान्करोति । यद्वा । युजिः केवलोऽपि विपूर्वो द्रष्टव्यः । यद्वैवासौ स्वरश्मीन्विश्वान्सधस्थात् । सह तिष्ठन्त्यस्मिन्निति सधस्थो रथः । तस्मादयुक्त । अमुञ्चत् । आत् अनन्तरमेव रात्री निशा वास आच्छादयित्र तमः सिमस्मै । सिमशब्दः सर्वशब्दपर्यायः । सप्तम्यर्थे चतुर्थी । सर्वस्मिन् लोके तनुते । विस्तारयतीति । यद्वा । वासो वासरमहः । तत्सर्वस्मादस्माल्लोकादपनीय रात्री तमस्तनुते । अत्र निरुक्तम् । तत्सूर्यस्य देवत्वं तन्महित्वं मध्ये यत्कर्मणां क्रियमाणानां वितत[?] संह्रियते । यदा सायुक्त [?] हरणानादित्यर्श्मीन् हरितोऽश्वान्वा । अथ रात्री वासस्तनुते सिमस्मै वेसर महरवयुवती सर्वस्मात् ॥ नि. ४-११ [as read] । इति ॥ [the grammatical tail follows in the print: *mahitvam* — *mah* "to honour", *ini*, *tasya bhāvas tvatalau*; *madhyā* — *supāṃ sulug…* *ḍāc*, *kartoḥ* — *kṛ* with *tun*, guṇa, *jñityādi* first-syllable accent; *vitatam* — *tanu*, *niṣṭhā*, *udāttasya*…; *jabhāra* — *bhṛ*, *liṭ*, *hṛgrahorbhaḥ* — the *bha* for *ha*; *ayukta* — *yuj*, *luṅ*, *jhalo jhali*, *sic* elision; *sadhasthāt* — *sadha* with *sthā*, *ka*…; *rātrī* — *rātreś cājasau*, *jas*…] [read from the print; the Nirukta passage is in small type and partly doubtful [?]]
+
+> *sūryasya sarvaprerakasyādityasya taddevatvamīśvaratvam | svātantryamiti yāvat | mahitvaṃ mahattvaṃ māhātmyaṃ ca tadetat | tacchabdaśruteryacchabdādhyāhāraḥ | yatkartoḥ karmaṇāmetat | prārabdhaparisamāptasya kṛṣyādilakṣaṇasya karmaṇo madhyā madhye 'parisamāpta eva tasminkarmaṇi vitataṃ vistīrṇaṃ svakīyaṃ raśmijālamastaṃ gacchan sūryaḥ saṃ jabhāra | asmāllokācchāstrātmanyupasaṃharati | karmakarāśca pravṛttamaparisamāptameva visṛjyāstamayaṃ yantaṃ sūryaṃ dṛṣṭvā | īdṛśaṃ svātantryaṃ mahimā ca sūryavyatiriktasya kasyāpi na sūrya evedṛśaṃ svātantryaṃ mahimānaṃ cāvagāhate | api ca | idityavadhāraṇe | yadedayuktāsminneva kāle harito rasaharaṇaśīlānsvaraśmīn haridvarṇānaśvānvā sadhasthātsahasthānādasmāllokādādāyāyukta | anyatra saṃyuktānkaroti | yadvā | yujiḥ kevalo 'pi vipūrvo draṣṭavyaḥ | yadvaivāsau svaraśmīnviśvānsadhasthāt | saha tiṣṭhantyasminniti sadhastho rathaḥ | tasmādayukta | amuñcat | āt anantarameva rātrī niśā vāsa ācchādayitra tamaḥ simasmai | simaśabdaḥ sarvaśabdaparyāyaḥ | saptamyarthe caturthī | sarvasmin loke tanute | vistārayatīti | yadvā | vāso vāsaramahaḥ | tatsarvasmādasmāllokādapanīya rātrī tamastanute | atra niruktam | tatsūryasya devatvaṃ tanmahitvaṃ madhye yatkarmaṇāṃ kriyamāṇānāṃ vitata[?] saṃhriyate | yadā sāyukta [?] haraṇānādityarśmīn harito 'śvānvā | atha rātrī vāsastanute simasmai vesara maharavayuvatī sarvasmāt ‖ ni. 4-11 [as read] | iti ‖ [the grammatical tail follows in the print: *mahitvam* — *mah* "to honour", *ini*, *tasya bhāvas tvatalau*; *madhyā* — *supāṃ sulug…* *ḍāc*, *kartoḥ* — *kṛ* with *tun*, guṇa, *jñityādi* first-syllable accent; *vitatam* — *tanu*, *niṣṭhā*, *udāttasya*…; *jabhāra* — *bhṛ*, *liṭ*, *hṛgrahorbhaḥ* — the *bha* for *ha*; *ayukta* — *yuj*, *luṅ*, *jhalo jhali*, *sic* elision; *sadhasthāt* — *sadha* with *sthā*, *ka*…; *rātrī* — *rātreś cājasau*, *jas*…] [read from the print; the Nirukta passage is in small type and partly doubtful [?]]*
+
+*Sense (mine):* "Of the Sun — the Āditya who impels all — that *devatva*, lordship (that is, independence); and that *mahitva*, greatness, majesty — this is it [with *yat* supplied from the *tat*]: *kartoḥ*, of works — in the middle (*madhyā*) of work begun and not finished, such as ploughing, the Sun, going to his setting, *saṃ jabhāra* — draws together his extended net of rays, drawing it from this world into himself; and the workmen, seeing the Sun going to his setting, leave off the work begun, unfinished. Such independence and greatness belongs to no one but the Sun: the Sun alone attains such independence and majesty. Moreover, *it* is for emphasis: *yad edayukta* — at that very time, when he takes, from this world, from *sadhasthāt*, from the common place, his sap-drawing *haritaḥ* — rays, or green-tawny horses — and unyokes (*ayukta*) them: elsewhere he yokes them. Or the root *yuj* is to be understood with the prefix *vi* (as *viyuj*); or the *sadhastha* is the chariot ('in which they stand together'), from which he unyoked, released them. *Āt*, immediately after, *rātrī*, the night, *vāsaḥ* — a covering, darkness — *tanute*, spreads, *simasmai* — *sima* is a synonym of *sarva*, 'all'; the fourth case in the sense of the seventh: in the whole world. Or *vāsaḥ* = *vāsaram*, day; removing it from all this world, night spreads the darkness. The Nirukta here: [quotation of the Ṛk with explanation] (Ni. 4-11 as read [?])."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(printed on p. 165)*
+
+### Printed p. 165  (PDF 185; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammatical tail of the bhāṣya, concluded — characterized, not transcribed:* *jabhāra* — *hṛgrahor bhaḥ*; *ayukta* — *yuj* with *luṅ*, *jhalo jhali* elision of *sic*; *sadhasthāt* — *sadha* + *sthā* with the suffix *ka*; the *dhatva* by *sadha māda-sthayoś chandasi*; *rātrī* — *rātreś cājasau*, *jas* → *ī*.)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*yat* — (by) which; *kartoḥ* — works such as ploughing; *madhyā* — in the middle; *vitatam* — extended (his own rays); *saṃ jabhāra* — draws into himself; *tat* — that; *sūryasya* — of the Sun; *devatvam* — lordship (independence); *tat* — that; *mahitvam* — greatness; *yadā* — when; *haritaḥ* — green-tawny (his horses or rays); *sadhasthāt* — (from the common place of both) from this earth; *ayukta* — he yokes; *āt it* — immediately; *rātrī* — night; *vāsaḥ* — the covering darkness; *simasmai* — in all places; *tanute* — spreads."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"When the Sun draws his rays into himself — [that is,] the works such as ploughing, though not finished, remain [unfinished] — that is the Sun's lordship and his greatness; and when he has drawn his rays from this earth, afterwards night spreads the darkness."
+
+**English Translation (as printed)**
+
+> Such is the divinity, such is the majesty of the sun, that when he has set, he has withdrawn (into himself) the diffused (light which had been shed) upon the unfinished task ; when he has unyoked his coursers from his car, then night extends the veiling darkness over all.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**मध्या कर्तोः** — *Madhyā kartoḥ* — "*madhye aparisamāpta eva tasmin karmaṇi*": "in the middle of the work not yet finished. *Kartoḥ* — *karmanāmaitat* — this is a name of work: *prārabdhaparisamāptasya kṛṣyādilakṣaṇasya karmaṇaḥ*. The word *kartoḥ* is the word *apnas*; since *apas* is read among the fifteen [as read] names of work (Ni. 2-1 as read [?]), the meaning is 'work'. When the Sun draws in his rays, the Sun, going to his setting, stops [people] in the very middle of the works they are doing —
+
+### Printed p. 166  (PDF 186; header "Maṃ. 1 A. 16 Sū. 115")
+
+— without regard to whether they are complete or not. Following this, those who do agricultural work and others who perform works for livelihood stop their works in the middle, each his own. That at the Sun's setting all stop their works is a custom of the world; this is described here in another way. From the time of the Sun's rising, the Sun's rays spread in all directions, filling earth and atmosphere, and are drawn back at the time of setting in a moment: it stops everything at the same time. [By this] his independence is shown as the greatness equal to that of the Lord who is all-independent and impels everything. In just that way, the Sun at his setting stops the men performing their works, each in his own work. The greatness of the Sun, ordering everything in sequence by his rising and setting alone, is exceedingly wonderful. Such greatness is not in any other deity. The sentence *tat sūryasya devatvaṃ tan mahitvam* makes this clear."
+
+**हरितः सधस्थादयुक्त** — *Haritaḥ sadhasthād ayukta* — "the Sun, withdrawing from this world his rays that draw up water, or the horses of his chariot, makes them spread elsewhere; because of that the Sun's chariot moves elsewhere. Then night draws away the black cloth that covers everything. This means that day, which makes light, runs away. Yāska:
+
+> तत्सूर्यस्य देवत्वं तन्महित्वं मध्ये यत्कर्मणां क्रियमाणानां विततं संह्रियते । यदायुक्त हरणानादित्यर्श्मीन् हरितोऽश्वान्वा । अथ रात्री वासस्तनुते सिमस्मै वेसर महरवयुवती सर्वस्माद्वा रात्रीव वासस्तनुते इति ॥
+> (नि. ४-११ [as read])
+
+> *tatsūryasya devatvaṃ tanmahitvaṃ madhye yatkarmaṇāṃ kriyamāṇānāṃ vitataṃ saṃhriyate | yadāyukta haraṇānādityarśmīn harito 'śvānvā | atha rātrī vāsastanute simasmai vesara maharavayuvatī sarvasmādvā rātrīva vāsastanute iti ‖*
+> *(ni. 4-11 [as read])*
+
+— the Sun withdraws his rays that draw water, or his horses, before they spread across the earth; at that moment he stops, and, following this, people in the world stop their works in the middle and he sets: such is the Sun's independence and greatness, which exists in the Sun alone. It does not exist in any other deity. Night, spreading the darkness over all places, removes the daylight — thus they explain."
+
+**सधस्थात्** — *Sadhasthāt* — "*saha tiṣṭhanty asmin iti sadhasthaḥ ratha*: [that in which they stand together, a chariot]. In connection with this the word *sadhasthāt* is explained as 'from the chariot in which the horses are'."
+
+### Printed p. 167  (PDF 187; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**सिमस्मै** — *Simasmai* — "*simaśabdaḥ sarvaparyāyaḥ saptamyarthe caturthī*": "the word *sima* is a synonym of *sarva*. Because the fourth case is used in the sense of the seventh, the meaning is 'in all'."
+
+**वासः** — *Vāsaḥ* — "*ācchādayitṛtamaḥ | vāso vāsaram ahaḥ* (Sā. bhā.)": "Sāyaṇa explains two meanings: the darkness that covers all, and day as a synonym of *vāsara*. Skandasvāmin:
+
+> आत् तद्वैव च रात्री वासः वासश्चभ्रोत्रे क्रियाशब्दः । वस आच्छादन इत्यस्य । वस्त्र वचनो वा । सामर्थ्यात् कृष्णं वासः आह नान्यत् । तत्सारूप्यात् तमसि प्रयुज्यते । कृत्स्नस्य जगतः आच्छादयित्वात् कृष्णवासःस्वरूपं वा तमः ॥ [small type, doubtful [?]]
+
+> *āt tadvaiva ca rātrī vāsaḥ vāsaścabhrotre kriyāśabdaḥ | vasa ācchādana ityasya | vastra vacano vā | sāmarthyāt kṛṣṇaṃ vāsaḥ āha nānyat | tatsārūpyāt tamasi prayujyate | kṛtsnasya jagataḥ ācchādayitvāt kṛṣṇavāsaḥsvarūpaṃ vā tamaḥ ‖ [small type, doubtful [?]]*
+
+— *āt* (= immediately); the word *vāsas* is derived from the root *vas* 'to cover' (*ācchādana*), hence 'cloth'. Of all cloth, only black cloth is meant here; cloth of other colours does not cover like black cloth. By the act or quality of covering, *tamas* is called 'black garment' (*kṛṣṇavāsaḥ*), because [it makes] the whole world unseen: 'the darkness like a black cloth'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly)**
+
+*mahitvam* (*mah* "to honour"; the Uṇādi suffix *in* (*iṇ*), giving *mahi*; *tasya bhāvas tvatalau*, Pā. 5-1-119 as read [?], *tva* in the abstract sense; likewise in *devatvam*; final accent from the suffix); *madhyā* (*madhya* + the locative singular, with *supāṃ sulug*, Pā. 7-1-39 as read [?], *ḍā* substituted; being *ḍit*, the *ṭi* is elided: *madhyā*); *kartoḥ* (*ḍukṛñ* "to do"; Uṇādi *tun*; being *ṅit*-like, guṇa of the root by *sārvadhātukārdhadhātukayoḥ*; *raparatva* by *uraṇ raparaḥ*; *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent; genitive/ablative singular).
+
+---
+
+**Progress note:** Sūkta 115: Ṛks 1–3 complete; Ṛk 4 through printed p. 167 (PDF 187): Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar page begun (*mahitvam*, *madhyā*, *kartoḥ*; continues p. 168). Next: printed p. 168 (PDF 188). Open: Nirukta passage (Ni. 4-11) small type `[?]`; numerals as read.
