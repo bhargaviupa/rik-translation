@@ -5053,4 +5053,126 @@ as an example."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–5 complete; Ṛk 6 through printed p. 209 (PDF 229): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*aghāśvāya*; Skandasvāmin's quotation, continues p. 210). Next: printed p. 210 (PDF 230). Open: numerals as read `[?]`; bhāṣya/Skandasvāmin small type `[?]`.
+### Printed p. 210  (PDF 230; header "Maṃ. 1 A. 17 Sū. 116")  [Special Topics of Ṛk 6, continued]
+
+"… [the king Aghāśva, being] always without suffering defeat, prayed to the Aśvin deities: 'give me a horse'. They, in accordance with his prayer, gave him a white horse of his liking. — thus the story is told. For the word *aghāśva* the name of the king, and for the word *paidva* — since it is read among the names of horse (Ni. 1-?? as read [?]) — '*paidvaḥ aśvanāmaitat*: *paidvaḥ* means the horse [Pedu's]' — so he explains it. Sāyaṇa: '*pedur nāma kaścit sa cāśvinau tuṣṭāva tasmai prītau kiñcit śvetavarṇam aśvaṃ dattavantau*' — a man named Pedu praised the Aśvin deities; they, pleased with his praise, gave him a white horse: since the two [commentators] explain thus, there is a difference in the explanation of the words *pedu* and *aghāśva*."
+
+**आर्यः** — *Āryaḥ* — "*śatrūṇāṃ prerayitā yuddheṣu prerayitavyo vā*": "he who urges enemies in wars, or who is to be urged on in battles: giving courage, i.e. producing enthusiasm for fighting — thus Sāyaṇa explains. Skandasvāmin, since the word *ārya* is stated among the names of *īśvara* (lord) (Ni. 3-?? as read [?]):
+
+> प्र केतुना बृहता यात्यग्निरा रोदसी वृषभो रोरवीति ।
+> दिवश्चिदन्ताँ उपमाँ उदानळपामुपस्थे महिषो ववर्ध ॥ [as read in the print? — the print here gives:]
+> प्र कैत्वे अद्य शिशिविष्ट नामार्यः शंसामि वयुनानि विद्वान् ।
+> (ऋ. सं. २-१००-? [?])
+
+> *pra ketunā bṛhatā yātyagnirā rodasī vṛṣabho roravīti |*
+> *divaścidantā~ upamā~ udānaḷapāmupasthe mahiṣo vavardha ‖ [as read in the print? — the print here gives:]*
+> *pra kaitve adya śiśiviṣṭa nāmāryaḥ śaṃsāmi vayunāni vidvān |*
+> *(ṛ. saṃ. 2-100-? [?])*
+
+— the word *āryaḥ* is explained as *īśvara*, 'lord': he explains that, by reason of this horse's going being unobstructed everywhere, being the lord over horses that move without obstruction at speed."
+
+**सदमित्** — *Sadamit* — "*sadam + it*, *sadaiva*: 'always'. The word *sadam* is an indeclinable (*nipāta*); *it* is also an indeclinable. *Nipāta* — a word which, although it has one form like an *avyaya*, is used in many meanings. The Nirukta-writer —
+
+> अथ ये प्रवृत्तेऽर्थे अमिताक्षरेषु ग्रन्थेषु वाक्यपूरणा आगच्छन्ति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमिमृदिति ॥
+> (नि. १-४ [as read])
+
+> *atha ye pravṛtte 'rthe amitākṣareṣu grantheṣu vākyapūraṇā āgacchanti padapūraṇāste mitākṣareṣvanarthakāḥ kamimṛditi ‖*
+> *(ni. 1-4 [as read])*
+
+— the words *kam*, *īm*, *it*, *u* serve in large prose works for completing a sentence; in small verse works they are padding of the line. Though they are used for filling out a sentence or a line, they are 'meaningless' (*anarthaka*) since they do not convey the sense that is expressed in the work. For he says they have no definite sense. For an example of the particle *kam*
+
+### Printed p. 211  (PDF 231; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> मुञ्चामि त्वा हविषा जीवनाय कमज्ञातयक्ष्मादुत राजयक्ष्मात् ।
+> (ऋ. सं. १०-१६१-१ [as read])
+
+> *muñcāmi tvā haviṣā jīvanāya kamajñātayakṣmāduta rājayakṣmāt |*
+> *(ṛ. saṃ. 10-161-1 [as read])*
+
+and, for the particle *īm*, the Ṛk
+
+> विमेनं सृजता सुखे मन्दिमिन्द्राय मन्दिने ।
+> (ऋ. सं. १-८-? [as read; [?]])
+
+> *vimenaṃ sṛjatā sukhe mandimindrāya mandine |*
+> *(ṛ. saṃ. 1-8-? [as read; [?]])*
+
+and, for the particle *it*,
+
+> तमिद्वर्धन्तु नो गिरो वत्सं संशिश्वरीरिव ।
+> (ऋ. सं. ८-१०-१४ [as read; [?]])
+
+> *tamidvardhantu no giro vatsaṃ saṃśiśvarīriva |*
+> *(ṛ. saṃ. 8-10-14 [as read; [?]])*
+
+and, for the particle *u*,
+
+> अयमु ते समतसि कपोत इव गर्भधिम् ।
+> (ऋ. सं. १-३०-४ [as read])
+
+> *ayamu te samatasi kapota iva garbhadhim |*
+> *(ṛ. saṃ. 1-30-4 [as read])*
+
+he gives these Ṛks."
+
+**वाजी** — *Vājī* — "*vegavān*": "since the word *vāji* is read among the twenty-six [as read] names for horse (Ni. 1-?? as read [?]) the meaning is 'horse'; because it moves with speed it is famed as *vājī*. The Aśvin deities, to fulfil the wish of the king who did austerities or praised them, gave him a horse; the greatness and the praiseworthiness of this gift of a horse is expressed by the words *dātraṃ mahi kīrtenyam*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly)**
+
+*aśvinā* (*supāṃ sulug*, Pā. 7-1-39 as read [?], lengthening of the preceding vowel on the ending); *dadathuḥ* (*ḍudāñ* "to give"; *liṭ* 2nd dual, *athus*; doubling of the root; since *yat* (*yam*) precedes, nighāta is prevented by *yadvṛttān nityam*, Pā. 8-1-66 as read [?], and the suffix accent remains on the first syllable); *aśvam* (*aśū* "to pervade"; *kvan* by *aśipruṣikṛṣy…*, Uṇ. 1-?? as read [?]; being *nit*, first-syllable accent; accusative singular).
+
+### Printed p. 212  (PDF 232; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page of Ṛk 6, continued:* *aghāśvāya* (*aghāḥ aśvā yasya saḥ aghāśvaḥ*, a *bahuvrīhi*; first-member accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?]); *dātram* (*ḍudāñ* "to give"; the Uṇādi suffix *tra*); *mahi* (*mah* "to honour"; *sarvadhātubhya in*, Uṇ. 4-?? as read [?], suffix *in*; *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent); *kīrtenyam* (*kṛtī* "to praise"; *kṛtyārthe tavaikenkenyatvanaḥ*, Pā. 3-4-14 as read [?], *kenya* suffix; *ūṭ id dyādoḥ*, Pā. 6-1-?? as read [?], *i* for the *ṛ* of the root; *hali ca*, Pā. 8-2-77 as read [?], lengthening of the penultimate *r*-ending; by the first-syllable accent of the suffix the *e* is *udātta*); *bhūt* (*bhū* "to be", *luṅ* 3rd singular *tip*; elision of *i*; *gātisthāghupābhūbhyaḥ sicaḥ…*, Pā. 2-4-77 as read [?], elision of *sic*; *bahulaṃ chandasy amāṅyoge 'pi*, Pā. 6-4-75 as read [?], the augment *aṭ* is not applied; nighāta); *paidvaḥ* (*pedoḥ sambandhī paidvaḥ*; *tasyedam*, Pā. 4-3-120 as read [?], *añ*; in the Veda *varṇavyatyaya*; final accent from the suffix); *havyaḥ* (*hveñ* "to compete, to call"; *aco yat*, Pā. 3-1-97 as read [?], *yat*; *bahulaṃ chandasi*, Pā. 6-1-34 as read [?], *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; guṇa of *u* by *sārvadhātukārdhadhātukayoḥ*; *oḥ*, *avādeśa* by *dhātos tannimittasyaiva*, Pā. 6-1-80 as read [?]; *yato 'nāvaḥ*, Pā. 6-1-213 as read [?], first-syllable accent); *aryaḥ* (*ṛ* "to go"; *āśūṃ yādayaś ca*, Uṇ. 4-?? as read [?], *yat*; guṇa of the *ṛ* with *raparatva*; *vyatyayo bahulam*, the last syllable accented). ‖ 6 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 7
+
+### Printed p. 213  (PDF 233; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.7)**
+
+> युवं नरा स्तुवते पज्रियाय कक्षीवते अरदतं पुरंधिम् ।
+> कारोतराच्छफादश्वस्य वृष्णः शतं कुम्भाँ असिञ्चतं सुरायाः ॥ ७ ॥
+
+> *yuvaṃ narā stuvate pajriyāya kakṣīvate aradataṃ puraṃdhim |*
+> *kārotarācchaphādaśvasya vṛṣṇaḥ śataṃ kumbhā~ asiñcataṃ surāyāḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.7)**
+
+> युवम् । नरा । स्तुवते । पज्रियाय । कक्षीवते । अरदतम् ।
+> पुरम्ऽधिम् ।
+> कारोतरात् । शफात् । अश्वस्य । वृष्णः । शतम् । कुम्भान् ।
+> असिञ्चतम् । सुरायाः ॥ ७ ॥
+
+> *yuvam | narā | stuvate | pajriyāya | kakṣīvate | aradatam |*
+> *puram 'dhim |*
+> *kārotarāt | śaphāt | aśvasya | vṛṣṇaḥ | śatam | kumbhān |*
+> *asiñcatam | surāyāḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.7)**
+
+> अत्रेयमाख्यायिका । कक्षीवानृषिः पुरा कंसाशिरोहितज्ञानः सन् ज्ञानार्थमश्विनौ तुष्टाव । तस्मा अश्विनौ प्रभूतां धियं बुद्धिं दत्तवन्तौ । इति तदाह । हे नरा नेतारावश्विना युवं युवां पज्रियाय । पज्रा इत्यङ्गिरसामाख्या । पज्रा वाङ्गिरस इत्यामनात् । तेषां कुले जाताय कक्षीवते । कक्ष्या रज्जू रश्मयस्तद्वते । तत्कक्षसंज्ञाय स्तुवते युवयोः स्तुतिं कुर्वते मह्यं पुरंधिं प्रभूतां धियं बुद्धिमरदतम् । व्यलिखितम् । यथा सर्वार्थगोचरा भवति तथा कृतवन्ताविस्यर्थः । अपि च कारोतरात् । कारोतरो नाम वैदलक्षम् [?] र्वेष्टितो भाजनविशेषो यस्मिन्सुरायाः स्रावणं क्रियते । लुप्तोपमम् । कारोतरादिव सुरायाः संपादिकास्तां स्रावयन्ति एवमेव युवां वृष्णः सेचनसमर्थस्य युष्मदीयस्याश्वस्य शफात् खुरात् सुरायाः शतं कुम्भानसंख्यातान्सुराघटानसिञ्चतम् । आपूरयतम् । यद्वा । सिञ्चतिः पूरणार्थः । कारोतरस्थानीयाद्युष्मदीयाश्वस्य खुराद्यो सुरा प्रवहति तयासंख्यातान् घटानसिञ्चतम् । आपूरयतम् । ये जनाः सौत्रामण्यादिकर्मणि युष्मद्गाग्यां [?] सुरां योचन्ते तेषामित्यर्थः ॥ [grammatical tail follows: *stuvate* — *ṣṭuñ* "to praise", *śatṛ*; *adādi* *śap* *luk*, *śatur anumaḥ*…; *pajriyāya* — *pajra* + *chaikaḥ* *ghac* [as printed]; *kakṣīvate* — *asandīvad…* *matup*, *kṣīvat*, *nipātāt*, *kakṣyā* *saṃprasāraṇa*, *vatvam ca*; *aradatam* — *rad* "to scratch" [*vilekhane*]; *purandhim* — *purandhir bahudhīr iti yāskaḥ*, Ni. 6-13 as read [?], *pṛṣodarādi* — *purandhi* formation; or *puraṃ pūrayitavyaṃ sarvaviṣayajātam asyāṃ dhīyate*; *kārotarāt*…; *asiñcatam* — *ṣiciṅ* "to sprinkle"…] [small type; marked [?] where doubtful]
+
+> *atreyamākhyāyikā | kakṣīvānṛṣiḥ purā kaṃsāśirohitajñānaḥ san jñānārthamaśvinau tuṣṭāva | tasmā aśvinau prabhūtāṃ dhiyaṃ buddhiṃ dattavantau | iti tadāha | he narā netārāvaśvinā yuvaṃ yuvāṃ pajriyāya | pajrā ityaṅgirasāmākhyā | pajrā vāṅgirasa ityāmanāt | teṣāṃ kule jātāya kakṣīvate | kakṣyā rajjū raśmayastadvate | tatkakṣasaṃjñāya stuvate yuvayoḥ stutiṃ kurvate mahyaṃ puraṃdhiṃ prabhūtāṃ dhiyaṃ buddhimaradatam | vyalikhitam | yathā sarvārthagocarā bhavati tathā kṛtavantāvisyarthaḥ | api ca kārotarāt | kārotaro nāma vaidalakṣam [?] rveṣṭito bhājanaviśeṣo yasminsurāyāḥ srāvaṇaṃ kriyate | luptopamam | kārotarādiva surāyāḥ saṃpādikāstāṃ srāvayanti evameva yuvāṃ vṛṣṇaḥ secanasamarthasya yuṣmadīyasyāśvasya śaphāt khurāt surāyāḥ śataṃ kumbhānasaṃkhyātānsurāghaṭānasiñcatam | āpūrayatam | yadvā | siñcatiḥ pūraṇārthaḥ | kārotarasthānīyādyuṣmadīyāśvasya khurādyo surā pravahati tayāsaṃkhyātān ghaṭānasiñcatam | āpūrayatam | ye janāḥ sautrāmaṇyādikarmaṇi yuṣmadgāgyāṃ [?] surāṃ yocante teṣāmityarthaḥ ‖ [grammatical tail follows: *stuvate* — *ṣṭuñ* "to praise", *śatṛ*; *adādi* *śap* *luk*, *śatur anumaḥ*…; *pajriyāya* — *pajra* + *chaikaḥ* *ghac* [as printed]; *kakṣīvate* — *asandīvad…* *matup*, *kṣīvat*, *nipātāt*, *kakṣyā* *saṃprasāraṇa*, *vatvam ca*; *aradatam* — *rad* "to scratch" [*vilekhane*]; *purandhim* — *purandhir bahudhīr iti yāskaḥ*, Ni. 6-13 as read [?], *pṛṣodarādi* — *purandhi* formation; or *puraṃ pūrayitavyaṃ sarvaviṣayajātam asyāṃ dhīyate*; *kārotarāt*…; *asiñcatam* — *ṣiciṅ* "to sprinkle"…] [small type; marked [?] where doubtful]*
+
+*Sense (mine):* "Here this story. The ṛṣi Kakṣīvān, long ago, ... [the text is doubtful here: *kaṃsāśirohitajñānaḥ* [?]] praised the Aśvins for knowledge; to him the Aśvins gave abundant *dhī*, understanding. This is said. O leaders, Aśvins, you, to the praiser *pajriyāya* — *pajrāḥ* is a name for the Aṅgirases ('*pajrā vāṅgirasaḥ*') — born in their family, *kakṣīvate*, to Kakṣīvān (*kakṣyā* = rope, rays: he who has them: that is, his name), *purandhim* — abundant understanding, *aradatam*, you 'scratched out' [i.e. opened]: you so made [his understanding] that it is capable of grasping all objects. And further: *kārotarāt* — a *kārotara* is a particular vessel [covered with a strainer(?)] in which the filtering of spirit (*surā*) is done. As the makers of spirit let it flow down from the *kārotara*, thus you two *asiñcatam*, filled, a hundred *kumbhān*, jars, of *surā*, from the *śapha*, hoof, of your ... *vṛṣṇaḥ*, vigorous, horse. Or: the root *sic* has the sense of 'to fill': with the *surā* that streams from the hoof of your horse, standing in the place of the *kārotara*, you filled uncounted jars, [for] the people who, in the Sautrāmaṇī and other rites, beg spirit of you."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*narā* — O leaders, Aśvin deities; *yuvam* — you two; *pajriyāya* — born in the family of the Aṅgirases; *stuvate* — to the one who praises you (who has hidden knowledge); *kakṣīvate* — to Kakṣīvān by name (to me); *purandhim* — abundant understanding; *aradatam* — you gave; *kārotarāt* — as spirit is made to flow in a vessel called *kārotara*; *vṛṣṇaḥ* — capable of sprinkling; *aśvasya* — of your horse; *śaphāt* — from the hoof; *surāyāḥ* — of spirit; *śatam kumbhān* — a hundred (many) jars (for those who offer the Sautrāmaṇī and the like); *asiñcatam* — you filled."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, who lead men on the right path, to me, Kakṣīvān, born in the family of the Aṅgirases, who praise you (and whose knowledge was hidden), you gave the unfolding of understanding. From the hoof of your horse, which can sprinkle, as spirit is poured out in the vessel called *kārotara*, you filled a hundred jars with spirit (for those who offer the Sautrāmaṇī and the like)."
+
+### Printed p. 214  (PDF 234; header "Maṃ. 1 A. 17 Sū. 116")
+
+**English Translation (as printed)**
+
+> You gave leaders (of sacrifice), to Kakshivat, of the race of Pajra various knowledge ; you filled from the hoof of your vigorous steed, as if from a cask, a hundred jars of wine.
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–6 complete; Ṛk 7 through the printed English on p. 214 (PDF 234): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 215 (PDF 235) — Ṛk 7 Special Topics, grammar. Open: numerals as read `[?]` (including all Ṛk citations of p. 211); bhāṣya small type `[?]` esp. the first sentence of Ṛk 7's story.
