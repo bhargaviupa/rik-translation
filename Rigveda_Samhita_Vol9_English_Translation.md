@@ -8129,4 +8129,54 @@ On this matter:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–7 complete; Ṛk 8 Saṃhitā written (printed p. 339, PDF 359). Next: printed p. 340 (PDF 360): Ṛk 8 Pada onward. Open: sūtra numbers in grammar pp. 338–339 as read from print/OCR list, a few `[?]`; Skandasvāmin and Ṛk 10-39-3 quotations (p. 338) read doubtfully `[?]`.
+### Printed p. 340  (PDF 360; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.8)**
+
+> युवम् । श्यावाय । रुशतीम् । अदत्तम् । महः । क्षोणस्य । अश्विना ।
+> कण्वाय ।
+> प्रऽवाच्यम् । तत् । वृषणा । कृतम् । वाम् । यत् । नार्षदाय ।
+> श्रवः । अधिऽअधत्तम् ॥ ८ ॥
+
+> *yuvam | śyāvāya | ruśatīm | adattam | mahaḥ | kṣoṇasya | aśvinā |*
+> *kaṇvāya |*
+> *pra 'vācyam | tat | vṛṣaṇā | kṛtam | vām | yat | nārṣadāya |*
+> *śravaḥ | adhi 'adhattam ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.8)** *(small, dense type; read with several doubts)*
+
+> हे अश्विनौ युवं युवां श्यावाय कुष्ठरोगेण श्यामवर्णायर्षये रुशतीं दीप्ततुचं [?] स्त्रियमदत्तम् । प्रायच्छतम् । अपि च क्षोणस्य क्षोणाय [?] पृष्ठि[?]ना गन्तुमशक्तः सन्नेकस्मिन्नेव स्थाने निवसति तस्मै कण्वायर्षये महस्तेजोरूपं चक्षुरिन्द्रियमदत्तमिति शेषः । तथा हे वृषणा कामानां वर्षितारौ वां युवयोस्तत्कृतं कर्म प्रवाच्यम् । प्रकर्षेण वाचनीयं शंसनीयम् । नार्षदाय नृषदपुत्राय बधिरायर्षये श्रवः श्रवणेन्द्रियं यदध्यधत्तम् । दत्तवन्तौ स्थ इति यत् तदित्यर्थः । अपर आह । ब्राह्मणस्य परीक्षार्थमसुराः कण्वमृषिं गूढे तमसि निदधुः । …
+
+> *he aśvinau yuvaṃ yuvāṃ śyāvāya kuṣṭharogeṇa śyāmavarṇāyarṣaye ruśatīṃ dīptatucaṃ [?] striyamadattam | prāyacchatam | api ca kṣoṇasya kṣoṇāya [?] pṛṣṭhi[?]nā gantumaśaktaḥ sannekasminneva sthāne nivasati tasmai kaṇvāyarṣaye mahastejorūpaṃ cakṣurindriyamadattamiti śeṣaḥ | tathā he vṛṣaṇā kāmānāṃ varṣitārau vāṃ yuvayostatkṛtaṃ karma pravācyam | prakarṣeṇa vācanīyaṃ śaṃsanīyam | nārṣadāya nṛṣadaputrāya badhirāyarṣaye śravaḥ śravaṇendriyaṃ yadadhyadhattam | dattavantau stha iti yat tadityarthaḥ | apara āha | brāhmaṇasya parīkṣārthamasurāḥ kaṇvamṛṣiṃ gūḍhe tamasi nidadhuḥ | …*
+
+*Sense (mine; the first part):* "O Aśvins, you gave to Śyāva — a ṛṣi dark-hued from leprosy — a *ruśatī*, a shining(-skinned) woman [?]; and to Kaṇva, who being [blind (?)] could not move and dwelt in one place, you gave *mahaḥ*, light-like sight — the verb is understood. And, O showerers (*vṛṣaṇā*) of desires, that deed of yours is to be proclaimed (*pravācya*), to be spoken of with exaltation, praised: that you gave hearing (*śravaḥ*) to the deaf ṛṣi, the son of Nṛṣad (*nārṣada*)." — "Another says": the asuras, to test the brahmin, placed the ṛṣi Kaṇva in dense darkness; being there … (the Aśvins, coming, tell him that while … playing a *vīṇā* they will come; hearing that sound he is to call out the dawn) [the narrative runs through several lines of small type, read only in part [?]]. Then the second explanation: "*kṣoṇasya* — *kṣoṇaḥ* is a sound-making kind of *vīṇā*; *mahaḥ mahataḥ kṣoṇasya śravaḥ śabdam adhyadhattam* — you added to the sound, in order to know the dawn." *Mahaḥ* (from *maha pūjāyām*, an *unādi* suffix *asi*; or, on the other view, from the word *mahat* with the Vedic dropping in the genitive); *kṣoṇasya* (from *kṣi nivāsagatyoḥ*, *lyuṭ* in the agent sense by *bahulam*; *kṣoṇa*-ness by *pṛṣodarādi*); Yāska is quoted (Ni. 5-?), and on the alternative view the word is from *tukṣu śabde* with an *unādi* suffix; *nārṣadāya* (grammar; tail not transcribed). [This last portion of the printed bhāṣya is in very small type; characterized, not transcribed.]
+
+---
+
+### Printed p. 341  (PDF 361; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.8)** (Kannada, rendered)
+
+*He aśvinā* — O Aśvins; *yuvam* — you two; *śyāvāya* — to the ṛṣi named Śyāva (who was dark from leprosy); *ruśatīm* — a woman (wife) of shining beauty; *adattam* — gave; *kṣoṇasya* — (being blind and therefore unable to move) of the one who was unable to walk [as read [?]]; *kaṇvāya* — to the ṛṣi named Kaṇva; *mahaḥ* — sight in the form of light (*dṛṣṭi*) — you gave; *tathā* — likewise; *vṛṣaṇā* — O Aśvins who rain desired things; *nārṣadāya* — to the ṛṣi, the son of Nṛṣada (who was deaf); *śravaḥ* — the sense of hearing; *adhyadhattam yat* — you graciously gave (that which is called) whatever it be; [Alternatively: *vṛṣaṇā* — O Aśvins, showerers of desire; *nārṣadāya kaṇvāya* — to Kaṇva, son of Nṛṣada; *mahaḥ* — of great; *kṣoṇasya* — of the *vīṇā*; *śravaḥ* — sound; *adhyadhattam yat* — you increased (for the sake of knowing the time of dawn) whatever it be;] *vām* — of you both; *tat kṛtam* — that deed; *pravācyam* — is praiseworthy.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.8)** (Kannada, rendered)
+
+"O Aśvins, you who fulfil desired things! You two gave to the ṛṣi called Śyāva a wife of shining form; to Kaṇva, who being blind was unable to move, you gave sight; and likewise you graciously gave the sense of hearing to the son of Nṛṣada: this deed of yours is praiseworthy."
+
+**English Translation (as printed)**
+
+"You gave, Aswins, a lovely bride to Syava; you gave sight to Kanwa, unable to see his way; showerers (of benefits), the deed is to be glorified by which you gave hearing to the son of Nrishada."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 8)**
+
+*Yuvaṃ śyāvāya ruśatīm adattam* — *kuṣṭharogeṇa śyāmavarṇāya ṛṣaye dīptatvaciṃ [?] striyaṃ prāyacchatam*: "The Aśvins graciously granted to a certain ṛṣi, black-coloured from leprosy, a radiant skin and the destruction of the leprosy" — thus Sāyaṇa's exposition describes it.
+
+Skandasvāmin, on this matter:
+
+> युवं युवां श्यावाय कुष्ठिन्यात् [?] श्याववर्णाय अग्नेः पुत्रस्य घोरस्य ज्येष्ठपुत्राय रुशतीं दीप्तां त्वचं अदत्तं दत्तवन्तौ स्थः । कं हि युवानौ …
+
+> *yuvaṃ yuvāṃ śyāvāya kuṣṭhinyāt [?] śyāvavarṇāya agneḥ putrasya ghorasya jyeṣṭhaputrāya ruśatīṃ dīptāṃ tvacaṃ adattaṃ dattavantau sthaḥ | kaṃ hi yuvānau …*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–7 complete; Ṛk 8 through printed p. 341 (PDF 361): Saṃhitā, Pada, bhāṣya (second half of its small type characterized only), pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 342; Skandasvāmin quotation breaks off at "kaṃ hi yuvānau"). Next: printed p. 342 (PDF 362). Open: p. 340 bhāṣya small type `[?]`.
