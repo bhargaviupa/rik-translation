@@ -6794,4 +6794,64 @@ and explains the word *pariviṣṭam*: by 'surrounded on all sides' (*viśvata�
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–19 complete; Ṛk 20 through printed p. 285 (PDF 305): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar begun (continues p. 286). Next: printed p. 286 (PDF 306). Open: numerals as read `[?]`; Skandasvāmin small type `[?]`.
+### Printed p. 286  (PDF 306; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page of Ṛk 20, concluded (noted briefly):* *pariviṣṭam* (… *ṣṭutva*; as the root is in the *ṣa*-form; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix *pari* keeps its accent; accusative singular); *jāhuṣam* (*phiṣo 'nta udāttaḥ*, Phiṭ-sūtra 1 as read [?], the final accent); *viśvataḥ* (*pañcamyās tasil*, Pā. 5-3-7 as read [?], the suffix *tasil* in the ablative sense; *liti*, Pā. 6-1-193 as read [?], *udātta* on the syllable before the suffix); *sugebhiḥ* (*gam* "to go"; *sudurorādhikaraṇe*, Pā. 3-2-48 as read [?], the suffix *ḍa* in the locative sense; since it is *ḍit* the *ṭi* (*am*) is elided; in the form *suga*, when *bhis* follows, by *bahulaṃ chandasi*, Pā. 7-1-10 as read [?], *ais* does not arise; *bahuvacane jhaly et*, Pā. 7-3-103 as read [?], *e* is substituted); *ūhathuḥ* (*vah* "to carry"; *liṭ* 2nd dual, *athus*; *vacisvapiyajādīnāṃ kiti*, Pā. 6-1-15 as read [?], *saṃprasāraṇa*; doubling; nighāta after an accented word); *vibhindunā* (*bhidir* "to split"; Uṇādi suffix *u*; *num* by the connection; the final accent from the suffix; in the compound *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?], the later member's accent; instrumental singular); *ajarayū* (*na jarā ajarā*; *ajarām ātmana icchataḥ*, when this meaning is intended, *supa ātmanaḥ kyac*, Pā. 3-1-8 as read [?], *kyac* in the sense of wish; *na chandasy aputrasya*, Pā. 7-4-35 as read [?], the *ī* etc. do not arise because of the *kyac*; by *sanādyantā dhātavaḥ* it gets the name of a root, *ajaraya*; *kyāc chandasi*, Pā. 3-2-170 as read [?], the *u* suffix after it; *ato lopaḥ*, Pā. 6-4-48 as read [?], elision of the *a* of *kyac*; final accent from the suffix; nominative dual). ‖ 20 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 21
+
+### Printed p. 287  (PDF 307; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.21)**
+
+> एकस्या वस्तोरावतं रणाय वशमश्विना सनये सहस्रा ।
+> निरहतं दुच्छुना इन्द्रवन्ता पृथुश्रवसो वृषणावराती ॥ २१ ॥
+
+> *ekasyā vastorāvataṃ raṇāya vaśamaśvinā sanaye sahasrā |*
+> *nirahataṃ ducchunā indravantā pṛthuśravaso vṛṣaṇāvarātī ‖ 21 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.21)**
+
+> एकस्याः । वस्तोः । आवतम् । रणाय । वशम् । अश्विना । सनये ।
+> सहस्रा ।
+> निः । अहतम् । दुच्छुनाः । इन्द्रवन्ता । पृथुश्रवसः । वृषणौ ।
+> अरातीः ॥ २१ ॥
+
+> *ekasyāḥ | vastoḥ | āvatam | raṇāya | vaśam | aśvinā | sanaye |*
+> *sahasrā |*
+> *niḥ | ahatam | ducchunāḥ | indravantā | pṛthuśravasaḥ | vṛṣaṇau |*
+> *arātīḥ ‖ 21 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.21)**
+
+> हे अश्विना वशमेतत्संज्ञमृषिमेकस्या वस्तोरेकस्मिन्नहनि रणाय रमणीयाय सहस्रा सहस्रसंख्याकाय सनये धनलाभायावतम् । अरक्षतम् । स ऋषिः प्रकृष्टं यथा सहस्रसंख्यं धनमभते तथा रक्षितवन्ताविस्यर्थः । अपि च हे वृषणा कामानां वर्षितारावश्विनौ इन्द्रवन्ता इन्द्रेण संयुक्तौ युवां दुच्छुना दुःखस्य कर्तॄन् पृथुश्रवसो विस्तीर्णयशसोऽरातीः शत्रूनिरहतम् । निःशेषेणावधिष्टम् । यद्वा । कानीनस्य पृथुश्रवःसंज्ञस्य राज्ञः शत्रूनिति योज्यम् । सहस्रा । सुपां सुलुगिति चतुर्थ्या डादेशः । अहतम् । लङि थस्तम् । अनुदात्तो … [continued on p. 288; the grammar tail reads *paṭ(e)śyādīnāṃ…*, *duścunāḥ* — *śunam iti sukhanāma, duṣṭaṃ śunaṃ yāsāṃ tāḥ duśśunāḥ*, *parādiś chandasi bahulam*, *utkaratarapadādyudāttatvam* (the first-syllable accent of the later member)] [small type; partly doubtful [?]]
+
+> *he aśvinā vaśametatsaṃjñamṛṣimekasyā vastorekasminnahani raṇāya ramaṇīyāya sahasrā sahasrasaṃkhyākāya sanaye dhanalābhāyāvatam | arakṣatam | sa ṛṣiḥ prakṛṣṭaṃ yathā sahasrasaṃkhyaṃ dhanamabhate tathā rakṣitavantāvisyarthaḥ | api ca he vṛṣaṇā kāmānāṃ varṣitārāvaśvinau indravantā indreṇa saṃyuktau yuvāṃ ducchunā duḥkhasya kartṝn pṛthuśravaso vistīrṇayaśaso 'rātīḥ śatrūnirahatam | niḥśeṣeṇāvadhiṣṭam | yadvā | kānīnasya pṛthuśravaḥsaṃjñasya rājñaḥ śatrūniti yojyam | sahasrā | supāṃ sulugiti caturthyā ḍādeśaḥ | ahatam | laṅi thastam | anudātto … [continued on p. 288; the grammar tail reads *paṭ(e)śyādīnāṃ…*, *duścunāḥ* — *śunam iti sukhanāma, duṣṭaṃ śunaṃ yāsāṃ tāḥ duśśunāḥ*, *parādiś chandasi bahulam*, *utkaratarapadādyudāttatvam* (the first-syllable accent of the later member)] [small type; partly doubtful [?]]*
+
+*Sense (mine):* "O Aśvins, *vaśam* — the ṛṣi named Vaśa — you protected on a single day (*ekasyā vastoḥ*), for *raṇāya* — delightful — a *sahasrā*, thousand-numbered, *sanaye*, gain of wealth: you protected him so that the ṛṣi might obtain, in an excellent manner, a thousand pieces of wealth. Moreover, O *vṛṣaṇā*, showerers of desires, *indravantā*, joined with Indra, you slew *duśśunāḥ* — doers of ill — the enemies of *pṛthuśravas*, of wide fame, utterly. Or, the 'enemies of the king named Pṛthuśravas, son of Kanīna' is how it should be joined."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinau* — O Aśvin deities; *vaśam* — the ṛṣi named Vaśa; *ekasyāḥ vastoḥ* — in a single day; *raṇasya* — [for the sake of] the delightful; *sahasrā* — thousand-numbered; *sanaye* — for gain of wealth; *āvatam* — you protected; *api ca* — and further; *vṛṣaṇau* — O you who give desired objects (Aśvin deities); *indravantā* — joined with Indra; *duśśunāḥ* — doers of ill; *pṛthuśravasaḥ* — [the enemies] of Pṛthuśravas; *arātīḥ* — enemies; *niḥ ahatam* — you wholly slew."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, you protected the ṛṣi named Vaśa so that thousand-fold wealth might be obtained each day. And, O givers of desired objects, joined with Indra, you wholly destroyed the evil-doing enemies of Pṛthuśravas."
+
+**English Translation (as printed)**
+
+> You preserved Vasha, Ashwins, (that he might obtain) in a single day a thousand acceptable gifts ; showerers (of benefits), associated with Indra, you destroyed the malignant enemies of Prithushravas
+
+### Printed p. 288  (PDF 308; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**रणाय** — *Raṇāya* — "since the word *raṇa* is stated among the twenty-four [as read] names of battle, '*raṇaḥ*', '*vivāk*' (Ni. 2-?? as read [?]), it means battle: 'for the sake of battle', says Skandasvāmin. Sāyaṇa explains *raṇāya* as '*ramaṇīyāya*', 'delightful', 'beneficial to the mind'. Sāyaṇa has explained the sense of this Ṛk in one way, and Skandasvāmin in another. Yet the intention that 'the Aśvin deities favour' is the same; in both explanations the greatness of the power of the Aśvin deities is described."
+
+**दुच्छुनाः** — *Duśśunāḥ* — "*duḥkhasya kartṝn*: since the word *śuna* is stated among the thirty [as read] names of happiness (Ni. 3-?? as read [?]), it conveys the meaning of happiness. Sāyaṇa: '*duṣṭaṃ śunaṃ yāsāṃ tāḥ duśśunāḥ*': 'those for whom happiness is spoiled': hence *duśśunāḥ* … by *parādiś chandasi bahulam*, Pā. 6-2-199 as read [?], the first-syllable accent of the later member."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–20 complete; Ṛk 21 through the start of the Special Topics on printed p. 288 (PDF 308): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*raṇāya*, *duśśunāḥ*; continues p. 289). Next: printed p. 289 (PDF 309). Open: numerals as read `[?]`.
