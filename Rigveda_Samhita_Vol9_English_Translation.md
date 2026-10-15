@@ -6268,4 +6268,78 @@ these Ṛks are cited."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–14 complete; Ṛk 15 through the bhāvārtha on printed p. 261 (PDF 281): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha. Next: printed p. 262 (PDF 282) — Ṛk 15 English, Special Topics, grammar. Open: numerals as read `[?]`; small-type `[?]`; Ṛ. 1-112-5 number printed twice (as printed).
+### Printed p. 262  (PDF 282; header "Maṃ. 1 A. 17 Sū. 116")
+
+**English Translation (as printed)**
+
+> The foot of (Vispala, the wife of) Khela, was cut off, like the wing of a bird, in an engagement by night ; immediately you gave her an iron leg, that she might walk, the hidden treasure (of the enemy being the object of the conflict).
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**परितक्म्यायाम्** — *Paritakmyāyām* — "*paritakmyā rātriḥ*": "'night'. Yāska: '*parita enāṃ takti*' (Ni. 11-?? as read [?]), '*enāṃ sūryo ubhayataḥ gacchatīti tasyārthaḥ*': 'the Sun goes to both sides of her'. The word *paritakmyā* is [used] for night, because the Sun, being [in the position] at both the beginning of the night and at its end, [goes about it]. Skandasvāmin explains *paritakmyāyām* as '*senāyāṃ vartamānāyām*': 'when there was an army'. King Khela had made the ṛṣi Agastya his house-priest. He had a wife named Viśpalā. While the battle was being fought against the enemies, the woman Viśpalā's foot was cut off and lost. Then, to get a foot for Viśpalā, the ṛṣi Agastya praised the Aśvin deities; and the Aśvin deities came at night and, in place of the cut-off feet [*sic*: foot], joined iron feet so that she could walk with her feet [again]: this Itihāsa is told here. This matter is described in the Ṛks —
+
+> याभिर्विश्पलां धनसामथर्व्यं सहस्रमीळ्ह आजावजिन्वतम् ।
+> (ऋ. सं. १-११२-१० [as read])
+
+> *yābhirviśpalāṃ dhanasāmatharvyaṃ sahasramīḷha ājāvajinvatam |*
+> *(ṛ. saṃ. 1-112-10 [as read])*
+>
+> अगस्त्यो ब्रह्मणा वावृधानः सं विश्पलां नासत्या परिणीतम् [?] ।
+> (ऋ. सं. १-११२-११ [as read])
+
+> *agastyo brahmaṇā vāvṛdhānaḥ saṃ viśpalāṃ nāsatyā pariṇītam [?] |*
+> *(ṛ. saṃ. 1-112-11 [as read])*
+>
+> अमुञ्चतं वर्तिकामंहसो निः प्रति जङ्घां विश्पलाया अधत्तम् ।
+> (ऋ. सं. १-११२-८ [as read])
+
+> *amuñcataṃ vartikāmaṃhaso niḥ prati jaṅghāṃ viśpalāyā adhattam |*
+> *(ṛ. saṃ. 1-112-8 [as read])*
+>
+> युवं वन्दनमृश्यादुदूपथुर्युवं सद्यो विश्पलामेतवे कृथः ।
+> (ऋ. सं. १०-३९-८ [as read])"
+
+> *yuvaṃ vandanamṛśyādudūpathuryuvaṃ sadyo viśpalāmetave kṛthaḥ |*
+> *(ṛ. saṃ. 10-39-8 [as read])"*
+
+**चरित्रम्** — *Caritram* — "*caraṇam*: Sāyaṇa explains *caritra* as 'foot' (*pāda*), 'that by which one goes'; the foot is the instrument for going; Skandasvāmin explains that *jaṅghā* — the shank — is here intended: it is the means of motion, the means of walking."
+
+### Printed p. 263  (PDF 283; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**धने हिते** — *Dhane hite* — "in the expression *dhane hite* the locative is a locative of cause (*nimitta saptamī*): the word *nimitta* is used for the purpose (*prayojana*). In this meaning it is accepted as being the cause; therefore *hitam dhanam prāptum yaḥ anīkaḥ prakrāntaḥ saṅgrāmaḥ tasya gamanasya vyāghātārtham*: 'for wealth that was favourable, the war that was begun — in order to avoid the obstruction to the going' — it is explained that the iron foot was joined so that she might go without hindrance in the war undertaken for gaining the wealth. Sāyaṇa explains: '*śatruṣu nihite dhane jetavye viṣayabhūte sati*' — in the war made in order to conquer and make one's own the wealth that is in the enemies' possession."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 15; grammar page, noted briefly)**
+
+*caritram* (*cara* "to move, to eat"; *artilūdhūsūkhanasahacara itraḥ*, Pā. 3-2-184 as read [?], the suffix *itra*, used here in the instrumental sense; from the suffix the middle syllable is accented); *acchedi* (*chidir* "to cut"; *luṅ* 3rd singular *ta* in the passive; *ciṇ bhāvakarmaṇoḥ*, Pā. 3-1-66 as read [?], *ciṇ* for *cli*; guṇa of the penultimate because of that; *ciṇo luk*, Pā. 6-4-104 as read [?], the elision of the following *ta*; augment *aṭ*; because *hi* is joined, no nighāta; *hiche* [as printed], the prohibition by Pā. 8-1-34 as read [?]; the augment being *udātta*, the word has first-syllable accent); *ājā* (*aj* + *ji*, the root *aj* [with *āji*]; the locative singular with *supāṃ sulug*, Pā. 7-1-39 as read [?], *ḍā*; since it is *ḍit* the *ṭi* is elided; by the cessation of *udātta*, the ending is accented *udātta*); *āyasīm* (*ayasaḥ vikāraḥ* — in the sense of 'a product of it', *prāṇirajatādibhyo 'ñ*, Pā. 4-3-154 as read [?], the suffix *añ*; *taddhiteṣv acām ādeḥ*, Pā. 7-2-117 as read [?], *vṛddhi*; the feminine by *ṭiḍḍhāṇañ…*, Pā. 4-1-15 as read [?], *ṅīp*; *yasyeti ca*, Pā. 6-4-148 as read [?], elision of the *a*; *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent); *hite* (*ḍudhāñ* "to hold, to nourish"; *niṣṭhā*, *kta*; *dadhāter hiḥ*, Pā. 7-4-42 as read [?], *hi* for the root; final accent from the suffix; locative singular).
+
+### Printed p. 264  (PDF 284; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page, concluded:* *sartave* (*sṛ* "to go"; *tumartha se-sen-ase-asen-…*, Pā. 3-4-9 as read [?], the suffix *tavenṛ* [*taven*]; guṇa of the root's *ṛ* with *raparatva*; since *kṛn mejantaḥ*, Pā. 1-1-39 as read [?], it has *avyaya* status); *adhattam* (*ḍudhāñ* "to hold, to nourish"; *laṅ* 2nd dual; nighāta after an accented word). ‖ 15 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 16
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.16)**
+
+> शतं मेषान्वृक्ये चक्षदानमृज्राश्वं तं पिताऽन्धं चकार ।
+> तस्मा अक्षी नासत्या विचक्ष आधत्तं दस्रा भिषजावनर्वन् ॥ १६ ॥
+
+> *śataṃ meṣānvṛkye cakṣadānamṛjrāśvaṃ taṃ pitā 'ndhaṃ cakāra |*
+> *tasmā akṣī nāsatyā vicakṣa ādhattaṃ dasrā bhiṣajāvanarvan ‖ 16 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.16)**
+
+> शतम् । मेषान् । वृक्ये । चक्षदानम् । ऋज्रऽअश्वम् । तम् । पिता ।
+> अन्धम् । चकार ।
+> तस्मै । अक्षी इति । नासत्या । विऽचक्षे । आ । अधत्तम् । दस्रा ।
+> भिषजौ । अनर्वन् ॥ १६ ॥
+
+> *śatam | meṣān | vṛkye | cakṣadānam | ṛjra 'aśvam | tam | pitā |*
+> *andham | cakāra |*
+> *tasmai | akṣī iti | nāsatyā | vi 'cakṣe | ā | adhattam | dasrā |*
+> *bhiṣajau | anarvan ‖ 16 ‖*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–15 complete (through printed p. 264, PDF 284); Ṛk 16 Saṃhitā and Pada written. Next: printed p. 265 (PDF 285) — Ṛk 16 bhāṣya… Open: numerals as read `[?]`; one Ṛk-quote (1-112-11) `[?]`.
