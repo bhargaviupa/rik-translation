@@ -8827,4 +8827,56 @@ Kannada: "Formerly, the Aśvins, going to hear the praise of Śukrācārya, saw 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–13 complete; Ṛk 14 Saṃhitā and Pada written (printed p. 367, PDF 387). Next: printed p. 368 (PDF 388): Ṛk 14 bhāṣya onward. Numerals on pp. 366–367 from the reader's list (3-1-85, 6-1-186, 1-157, 7-2-89, 7-2-92, 7-2-90, 6-1-97, 8-2-5, 6-1-168, 6-4-113); Ṛ. 10-39-4 and Ni. 4-19 per image/list.
+### Printed p. 368  (PDF 388; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.14)** *(small type; read with several doubts)*
+
+> हे युवाना दुःखानां यावयितारावश्विनौ युवं युवां पूर्व्येभिः पुराणनामैतत् । पूर्वकालीनैरेवैः [?] गन्तृभिः स्तोत्रैस्तुग्राय भुज्योर्जनकस्य संबन्धिभिः पुनर्मन्या [?] यथा भुज्योः समुद्रगमनात्पूर्वं युवां स्तोतव्यौ तथा पुनरपीदानीं स्तोतव्यावभवतम् । यदा युवां समुद्रमध्ये सेनया सह निमग्नं भुज्युं तुग्रस्य पुत्रमर्णसः उदकयुक्तात्समुद्रादम्बुराशेः सकाशाद्विभिर्गन्तृभिर्नौभिर्ऋज्रेभिः शीघ्रगतियुक्तैरश्वैश्च निरूहथुः । निर्गमय्य पितृसमीपं प्रापितवन्तौ । तदानीं पुनरपि अतिशयेन स्तोतव्यौ जातावित्यर्थः । 'तुग्रो ह भुज्युम्' (ऋ. १-११६-३) इत्यत्रोक्तमाख्यानमत्रानुसंधेयम् ॥ [grammar tail follows in the same small type: *evaiḥ* (root *iṇ gatau*, *vanu*), *punarmanyā* (*mana jñāne*, *pacādyac*, *ṭāp*), *yuvānā* (*yu miśrāmiśraṇayoḥ*, *kanin*), *arṇasaḥ* (*arṇaśabdād*…), *ṛjrebhiḥ* (*ṛja gatisthānārjanopārjaneṣu*; *ṛjrendrāgra* …; *bahulaṃ chandasi*, *bhis aisbhāvaḥ*) — characterized, not transcribed]
+
+> *he yuvānā duḥkhānāṃ yāvayitārāvaśvinau yuvaṃ yuvāṃ pūrvyebhiḥ purāṇanāmaitat | pūrvakālīnairevaiḥ [?] gantṛbhiḥ stotraistugrāya bhujyorjanakasya saṃbandhibhiḥ punarmanyā [?] yathā bhujyoḥ samudragamanātpūrvaṃ yuvāṃ stotavyau tathā punarapīdānīṃ stotavyāvabhavatam | yadā yuvāṃ samudramadhye senayā saha nimagnaṃ bhujyuṃ tugrasya putramarṇasaḥ udakayuktātsamudrādamburāśeḥ sakāśādvibhirgantṛbhirnaubhirṛjrebhiḥ śīghragatiyuktairaśvaiśca nirūhathuḥ | nirgamayya pitṛsamīpaṃ prāpitavantau | tadānīṃ punarapi atiśayena stotavyau jātāvityarthaḥ | 'tugro ha bhujyum ' (ṛ. 1-116-3) ityatroktamākhyānamatrānusaṃdheyam ‖ [grammar tail follows in the same small type: *evaiḥ* (root *iṇ gatau*, *vanu*), *punarmanyā* (*mana jñāne*, *pacādyac*, *ṭāp*), *yuvānā* (*yu miśrāmiśraṇayoḥ*, *kanin*), *arṇasaḥ* (*arṇaśabdād*…), *ṛjrebhiḥ* (*ṛja gatisthānārjanopārjaneṣu*; *ṛjrendrāgra* …; *bahulaṃ chandasi*, *bhis aisbhāvaḥ*) — characterized, not transcribed]*
+
+*Sense (mine and tentative):* "O Yuvānā, removers of sorrows, Aśvins: you were praised by Tugra — the father of Bhujyu — with ancient praises [?], going…; as you were to be praised before Bhujyu's going to the sea, so you became again, now, worthy of praise. When Bhujyu, the son of Tugra, who had sunk into the middle of the sea together with the army, was brought out of the water-bearing sea (*arṇasaḥ*), the ocean, with *vibhiḥ* — fast-going ships — and *ṛjrebhiḥ* — swift-going horses, you brought him out, took him out, and delivered him to his father's side: then you became still more worthy of praise. The account told at '*tugro ha bhujyum*' (Ṛ. 1-116-3) is to be taken up here."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.14)** (Kannada, rendered)
+
+*Yuvam* — you (always); *bhujyum* — Bhujyu (the son of Tugra); *arṇasaḥ* — [who was] agitated (in the sea); *samudrāt* — from the sea; *vibhiḥ* — by moving (ships); *ṛjrebhiḥ* — by swift-going; *aśvaiḥ* (*ca*) — by horses also; *niḥ ūhathuḥ* — you carried (him) out and brought him to the side of his father. *Yuvānā* — O Aśvins, removers of sorrow; *yuvam* — you two; *pūrvyebhiḥ* — by ancient; *evaiḥ* — by praise-words; *tugrāya* — to one named Tugra; *punaḥ manyā* — again praised; *abhavatam* — you became [etc.].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.14)** (Kannada, rendered)
+
+"O Aśvins, removers of sorrows! When you brought Bhujyu, the son of Tugra, who was in the agitated sea, from the middle of the sea by ships and horses and delivered him [to his father] — then that king called Tugra praised you again and again with ancient praise-words."
+
+---
+
+### Printed p. 369  (PDF 389; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"Dissipators of affliction, as you were praised with former praises by Tugra, so were you again adored (by him), when you brought Bhujyu safe from the tossing ocean with swift ships and rapid horses."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 14)**
+
+*Punarmanyā* — *mana jñāne atra stutyarthaḥ manyate stutiṃ iti manā* | *pacādyac* | *manyā*: "Here the root *mana* (in the sense of knowledge) is used with the meaning 'praise'. Then the suffix *ac* of the *pacādi* group comes, and the form *manyā* arises; the meaning is 'those who are praised'." Skandasvāmin:
+
+> पुनश्च स्तोत्र [?] अङ्कर्तेवीप्सार्थः । मन्यते इत्यर्चतिकर्मा कान्तिकर्मा वा । पुनः पुनः स्तुत्या कामया वा । [as read; small type [?]]
+
+> *punaśca stotra [?] aṅkartevīpsārthaḥ | manyate ityarcatikarmā kāntikarmā vā | punaḥ punaḥ stutyā kāmayā vā | [as read; small type [?]]*
+
+"The word *punaḥ* is used in the sense of repetition. Since the root *mana* is used in the sense of praise, or of *kānti* (desire), the Aśvins [are such that] they are praised again and again; or, because they fulfil the wishes of creatures, they are such as to be wished for (*abhilaṣaṇīya*) by them" — thus he explains.
+
+*Pūrvyebhiḥ* — *purāṇanāmaitat pūrvakālīnaiḥ*: "The word *pūrva* is read among the six names of 'ancient' [*pratna*, *pūrva*, *pradiva* …] (Ni. 3-20 [numeral list]); so the meaning is 'ancient (old)'. The Aśvins have been praised from very ancient times, and are even now described as worthy of exceeding praise."
+
+*Bhujyuṃ arṇasaḥ samudrāt ṛjrebhir aśvaiḥ niroohathuḥ* — "King Tugra was praising the Aśvins from a very long time. Seeing his son Bhujyu sinking in the middle of the sea, the Aśvins quickly brought swift ships and horses and saved him from the middle of the water and brought him back to the house of his father. For that reason, Tugra praised them again and again — such is the account told here." On this matter:
+
+> तुग्रो ह भुज्युमश्विनोदमेघे रयिं न कश्चिन्ममृवाँ अवाहाः ।
+> तमूहथुर्नौभिरात्मन्वतीभिरन्तरिक्षप्रुद्भिरपोदकाभिः ॥
+> (ऋ. सं. १-११६-३)
+
+> *tugro ha bhujyumaśvinodameghe rayiṃ na kaścinmamṛvā~ avāhāḥ |*
+> *tamūhathurnaubhirātmanvatībhirantarikṣaprudbhirapodakābhiḥ ‖*
+> *(ṛ. saṃ. 1-116-3)*
+
+— "though told in this Ṛk, it is explained here in a different way."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–13 complete; Ṛk 14 through printed p. 369 (PDF 389): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to the *Bhujyum* quotation); grammar of Ṛk 14 follows. Next: printed p. 370 (PDF 390). Numerals: Ṛ. 1-116-3 and Ni. 3-20 per numeral list.
