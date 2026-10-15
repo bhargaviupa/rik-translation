@@ -12101,4 +12101,58 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–2 complete; Ṛk 3 through printed p. 507 (PDF 527): all parts done except the end of its grammar (*dayamānaḥ*, *yuvākuḥ*; continues p. 508). Next: printed p. 508 (PDF 528). The Special Topics' Ṛk quotations on pp. 506–507 were read only in part `[?]`. Numerals as read: Ṛ. 1-187-?, 8-48-2, Ni. 10-? `[as read]`.
+### Printed p. 508  (PDF 528; header "Maṃ. 1 A. 17 Sū. 120")
+
+*Grammar of Ṛk 3, concluded (noted briefly; sūtra numbers as read):* *Dayamānaḥ* (continued) — since *śap* is *pit*, it is *anudātta*; since the *lasārvadhātuka* (*śānac*) stands after *upadeśa*, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read) makes it *anudātta*, so the root's accent remains. *Yuvākuḥ* — *yuvāṃ kāmayate iti yuvākuḥ*; by the statement *mitadrvādibhya upasaṅkhyānam* (Pā. 3-2-180 vārttika as read), the suffix *ḍu*; when *kam* + *u* [is formed], by the strength of *ḍit*, elision of the *ṭi* [of the base]; though a case ending follows, by *vyatyaya*, *yuvāvau dvivacane* (Pā. 7-2-92 as read), *yuva* substituted up to *ma*, and *ā*. Or: root *yu miśraṇāmiśraṇayoḥ*; the *auṇādika* suffix *kāku*; since it is *kit*, *guṇa* does not occur; *uvaṅ* substituted; by the suffix's initial acute the *ā* of the suffix gets the acute. ‖ 3 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.4)**
+
+> वि पृच्छामि पाक्या न देवान्वषट्कृतस्याद्भुतस्य दस्रा ।
+> पातं च सह्यसो युवं च रभ्यसो नः ॥ ४ ॥
+
+> *vi pṛcchāmi pākyā na devānvaṣaṭkṛtasyādbhutasya dasrā |*
+> *pātaṃ ca sahyaso yuvaṃ ca rabhyaso naḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.4)**
+
+> वि । पृच्छामि । पाक्या । न । देवान् । वषट्ऽकृतस्य । अद्भुतस्य ।
+> दस्रा ।
+> पातम् । च । सह्यसः । युवम् । च । रभ्यसः । नः ॥ ४ ॥
+
+> *vi | pṛcchāmi | pākyā | na | devān | vaṣaṭ 'kṛtasya | adbhutasya |*
+> *dasrā |*
+> *pātam | ca | sahyasaḥ | yuvam | ca | rabhyasaḥ | naḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.4)** *(small type; read with some doubts)*
+
+> हे अश्विनौ युवां वि पृच्छामि । विशेषेण पृष्ट्वेच्छामि । पाक्या न पक्तव्यप्रज्ञान् स्वपरिपक्वमतीनन्यान्देवान्न पृच्छामि । किंतु युवामेव सर्वज्ञौ पृच्छामीत्यर्थः । हे दस्रा दर्शनीयौ ता युवां वषट्कृतस्य वषट्कारेणाग्नौ हुतस्याद्भुतस्याश्चर्यभूतस्य महतः सह्यसो ऽतिशयेन बलवतो बलोत्पादकस्य सोमस्य स्वांशलक्षणमेकदेशं पातं च । नोऽस्माँश्च रभ्यसोऽतिशयेन रभसो वीर्यवतः प्रोद्यमवतः कुरुतम् ॥ पाक्या । पचेर्बहुलम् । ण्यत् [?] । चजोः कु घिण्ण्यतोरिति कुत्वम् । तित्स्वरितः । सुपां सुलुगिति विभक्तेर्डादेशः । वषट्कृतस्य । वषट्शब्दस्योर्ध्वादिश्चेन गतित्वाद्गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । पातम् । पा पाने । बहुलं छन्दसीति शपो लुक् । सह्यसः । सहेर्बहुवचनेनेति सहो बलम् । असुन् । तदस्यास्तीति सहस्विन् । मत्वर्थीयो विनिः । ततः अतिशायनिक ईयसुन् । विन्मतोर्लुक् । छान्दस ईकारलोपः । रभ्यसः । रभ राभस्ये । राभस्यं कार्योत्सुक्यम् । पूर्ववत्प्रक्रिया ॥ [as read]
+
+> *he aśvinau yuvāṃ vi pṛcchāmi | viśeṣeṇa pṛṣṭvecchāmi | pākyā na paktavyaprajñān svaparipakvamatīnanyāndevānna pṛcchāmi | kiṃtu yuvāmeva sarvajñau pṛcchāmītyarthaḥ | he dasrā darśanīyau tā yuvāṃ vaṣaṭkṛtasya vaṣaṭkāreṇāgnau hutasyādbhutasyāścaryabhūtasya mahataḥ sahyaso 'tiśayena balavato balotpādakasya somasya svāṃśalakṣaṇamekadeśaṃ pātaṃ ca | no 'smā~śca rabhyaso 'tiśayena rabhaso vīryavataḥ prodyamavataḥ kurutam ‖ pākyā | pacerbahulam | ṇyat [?] | cajoḥ ku ghiṇṇyatoriti kutvam | titsvaritaḥ | supāṃ sulugiti vibhakterḍādeśaḥ | vaṣaṭkṛtasya | vaṣaṭśabdasyordhvādiścena gatitvādgatiranantara iti gateḥ prakṛtisvaratvam | pātam | pā pāne | bahulaṃ chandasīti śapo luk | sahyasaḥ | saherbahuvacaneneti saho balam | asun | tadasyāstīti sahasvin | matvarthīyo viniḥ | tataḥ atiśāyanika īyasun | vinmatorluk | chāndasa īkāralopaḥ | rabhyasaḥ | rabha rābhasye | rābhasyaṃ kāryotsukyam | pūrvavatprakriyā ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, *vi pṛcchāmi* — I ask you specially. *Pākyā na* — I do not ask the other gods, [whose minds are] not yet ripened, of immature understanding; but you alone, the omniscient, I ask. O *dasrā* — worth seeing — [please] drink (*pātam*) your own share of the *vaṣaṭkṛta* — the soma that has been offered in the fire by the *vaṣaṭ* call, *adbhuta* — wonderful, great, *sahyasaḥ* — exceedingly strong, strength-producing; and make us *rabhyasaḥ* — exceedingly vigorous, energetic, enterprising."
+
+---
+
+### Printed p. 509  (PDF 529; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya's grammar tail, concluded; small type)* "*rabhyasaḥ* — root *rabha rābhasye*; *rābhasya* means eagerness for work; the process as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.4)** (Kannada, rendered)
+
+*(Aśvinau)* — O Aśvins; *(yuvām)* — [you], the all-knowing; *vi pṛcchāmi* — I ask intently; *pākyā* — [those] of ripe knowledge; *devān* — other gods; *na (pṛcchāmi)* — I do not ask; *(he) dasrā* — O Aśvins worth seeing; *vaṣaṭkṛtasya* — [of that] which is offered into the fire with the *vaṣaṭ*; *adbhutasya* — wonderful; *sahyasaḥ* — strength-giving; *(somarasasya)* — of the soma-juice (your share); *pātaṃ ca* — drink; *naḥ ca* — and us; *rabhyasaḥ* — those energetic ([in undertakings]); *(kuru)* — make.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.4)** (Kannada, rendered)
+
+"O Dasras! I ask you, the all-knowing, with great intentness; I do not ask the other gods, who are of unripe knowledge; drink the wonderful and strength-giving [soma], offered into the fire with the *vaṣaṭ* call (your share of the soma-juice), and make us foremost [in] undertakings."
+
+**English Translation (as printed)**
+
+"I invite not the gods immature (in wisdom), but you, Dasras; drink of the wonderful and strength-giving burnt-offering, and make us vigorous."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 4)**
+
+*Pākyā na devān na pṛcchāmi* — *na pakvaprajñān sva-paripakvamatīn anyān devān na pṛcchāmi kiṃtu yuvām eva pṛcchāmi sarvajñau*: "'I do not ask the other gods, whose understanding is not ripened; I ask only you, the omniscient' — the word *pāka* is stated among the eight [?] names of 'praiseworthy' (Ni. 3-?? [as read: 'ನಿ. ೩-೧೩']). 'I will pray that [you], the knowing and wise Aśvins, make our minds greatly knowing, and that we, praising them …'" *(continues on p. 510)*
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–3 complete; Ṛk 4 through printed p. 509 (PDF 529): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 510). Next: printed p. 510 (PDF 530). Numerals as read: Ni. 3-13 `[as read]`; sūtra numbers on p. 508 `[as read]`.
