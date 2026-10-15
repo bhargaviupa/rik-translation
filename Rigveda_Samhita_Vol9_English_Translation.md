@@ -14054,4 +14054,138 @@ In this Ṛk the word *śuṣṇa* means 'cloud' (Ni. 6-?? [as read]).
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–13 complete; Ṛk 14 through printed p. 597 (PDF 617): all parts except the grammar (continues p. 598). Next: printed p. 598 (PDF 618). Ṛk 15 (the last of the sūkta) remains, then the Sanskrit colophon of Sūkta 121 / the Eighth Adhyāya and the Kannada closing lines. Numerals as read: Ṛ. 1-54-6, 1-61-15, 1-38-? `[as read]`.
+### Printed p. 598  (PDF 618; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 14, concluded)* *Śravase* — *kīrtyartham*: "The word *śravas* is stated among the names of wealth (Ni. 2-10 [as read]); hence 'wealth' — so the meaning.
+
+> यो मे सहस्रममिमीत सवानतो राजा श्रव इच्छमानः ॥
+> (ऋ. सं. १-१२६-१ [as read])
+
+> *yo me sahasramamimīta savānato rājā śrava icchamānaḥ ‖*
+> *(ṛ. saṃ. 1-126-1 [as read])*
+
+*śrava icchamānaḥ* is explained (Ni. 7-11 [as read]) as *praśaṃsām icchamānaḥ* — so it means 'fame'. Yāska explains *śrava ity annanāma* (Ni. 10-3 [as read]) — so, 'food'."
+
+*Vājān* — *dhanāni*: "'wealth'. The word *vāja* is stated among the names of food (Ni. 2-7 [as read]) and also read in the sense of 'battle' (Ni. 2-17 [as read]); and *vāja* is the name of Ṛbhu (Ni. 11-?? [as read]). Sāyaṇa here explains it as 'wealth'."
+
+*Sūnṛtāyai* — *priyasatyātmikā vāk tadarthaṃ ca*: "'speech that is both pleasant and true' is the meaning. The word *sūnṛta* is stated among the names of *uṣas* (Ni. 1-?? [as read]) and also among the names of food (Ni. 2-7 [as read]). Here Sāyaṇa adopts the sense 'speech'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 14; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Asyāḥ* (*ūḍidaṃpadādi*, Pā. 6-1-171, acute on the case ending) · *durhaṇāyāḥ* (*hana hiṃsāgatyoḥ*; with *dus* as *upapada*, *īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal*, Pā. 3-3-126, *khal* in the passive; *liti*, Pā. 6-1-193; *gatikārakopapadāt kṛt*; genitive) · *pāhi* (*pā rakṣaṇe*, *adādi*; *loṭ*, second singular, *hi*; *adiprabhṛtibhyaḥ śapaḥ*, Pā. 2-4-72, *luk*; no *nighāta* at the beginning of a pāda; *hi* is *apit* by *hi cāpitvavidhānam*, the acute) · *vajrivaḥ* (*vajraḥ asya asti iti vajrī haste*; *ata iniṭhanau*, Pā. 5-2-115, *ini*; *vajrimat*; *chandasīraḥ*, Pā. 8-2-15, *v* for *m*; vocative, *matuvasoru sambuddhau*, Pā. 8-3-1, *ru*; *kharavasānayor visarjanīyaḥ*, Pā. 8-3-15; *āmantritasya ca*, Pā. 8-1-19, *nighāta*)
+
+---
+
+### Printed p. 599  (PDF 619; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 14, concluded)* *durītāt* (*dus* + *iṇ gatau*; *niṣṭhā*, *kta*; final acute; fifth singular; *kṛdanta* hind-part keeps its natural accent in the compound) · *rathyaḥ* (*rathaḥ asya asti iti rathī*; *chandasīvanipau*, Pā. 5-2-109, *ī* in the sense of *matup*; *yaṇ* in the plural; the case ending *ā* following, *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya*, Pā. 8-2-4, *svarita*) · *iṣe* (*sāvekācas tṛtīyādiḥ*, Pā. 6-1-168) · *yandhi* (*yama uparame*; *loṭ*, second singular, *sip*; *serhyapicca*, Pā. 3-4-87, *hi* for *sip*; *bahulaṃ chandasi*, *luk* of the vikaraṇa; *vā chandasi*, Pā. 6-4-88? as read, *hi* not *apit*; since it is *pit*, *sārvadhātukam apit* does not make it *ṅit*, and *ajiknuṃ* … by *anusvāra* and *parasavarṇa* the *m* becomes *n*; *nighāta*) · *śravase* (*śru śravaṇe*; *sarvadhātubhya asun*; *ñnityādir nityam*, Pā. 6-1-197; dative singular). ‖ 14 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.15 — the last Ṛk of the sūkta)**
+
+> मा ते अस्मत्सुमतिर्वि दसद्वाजप्रमहः समिषो वरन्त ।
+> आ नो भज मघवन्गोष्वर्यो मंहिष्ठास्ते सधमादः स्याम ॥ १५ ॥
+
+> *mā te asmatsumatirvi dasadvājapramahaḥ samiṣo varanta |*
+> *ā no bhaja maghavangoṣvaryo maṃhiṣṭhāste sadhamādaḥ syāma ‖ 15 ‖*
+
+---
+
+### Printed p. 600  (PDF 620; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.15)**
+
+> मा । सा । ते । अस्मत् । सुऽमतिः । वि । दसत् । वाजऽप्रमहः ।
+> सम् । इषः । वरन्त ।
+> आ । नः । भज । मघऽवन् । गोषु । अर्यः । मंहिष्ठाः । ते ।
+> सधऽमादः । स्याम ॥ १५ ॥
+
+> *mā | sā | te | asmat | su 'matiḥ | vi | dasat | vāja 'pramahaḥ |*
+> *sam | iṣaḥ | varanta |*
+> *ā | naḥ | bhaja | magha 'van | goṣu | aryaḥ | maṃhiṣṭhāḥ | te |*
+> *sadha 'mādaḥ | syāma ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.15)** *(small type; read with some doubts)*
+
+> हे वाजप्रमहो वाजैर्धनैः प्रमहनीयेन्द्र ते त्वदीया सा सुमतिः शोभनानुग्रहरूपा बुद्धिरस्मदस्मासु मा वि दसत् । मा विनश्यतु । तथेषोऽन्नान्यस्मान् सं वरन्त । संवृण्वन्तु । हे मघवन् धनवन्निन्द्र अर्यो धनपतिस्त्वं नोऽस्मान्गोष्वा भज । प्रापय । ते तव मंहिष्ठा अतिशयेन स्तुतिभिः प्रवर्धयितारो वयं सधमादः पुत्रपौत्रादिभिः सह मादयन्तो भवेम ॥ अस्मत् । सुपां सुलुगिति सप्तम्या लुक् । दसत् । दसु उपक्षये । माङ् लुङ्पुषादित्वादङ् । वाजप्रमहः । वाजैर्धनैः प्रकृष्टं महस्तेजो यस्य स तथोक्तः । पादादित्वादाष्टमिको निघाताभावः । षाष्ठिकमामन्त्रितादुदात्तत्वम् । वरन्त । वृञ् वरणे । व्यत्ययेन शप् । गोषु सावेकाचेति प्राप्तस्य विभक्त्युदात्तत्वस्य न गोश्वन्साववर्णेति प्रतिषेधः । अर्यः । अर्यः स्वामिवैश्ययोरिति निपात्यते । अर्यः स्वाम्याख्याचेत् । फि. १-१४ [as read] इत्यन्तोदात्तत्वम् । मंहिष्ठाः । मही वृद्धौ । इदितो नुम् । अन्तर्भावितण्यर्थात्तृच् । तुश्छन्दसीतीष्ठन् । तुरिष्ठेमेयःसुस्वितितृलोपः । सधमादः । मद तृप्तियोगे । चुरादिकः । सह मादयन्ते तृप्ताः भवन्तीति सधमादः । क्विप् च । जस् ॥ [as read]
+
+> *he vājapramaho vājairdhanaiḥ pramahanīyendra te tvadīyā sā sumatiḥ śobhanānugraharūpā buddhirasmadasmāsu mā vi dasat | mā vinaśyatu | tatheṣo 'nnānyasmān saṃ varanta | saṃvṛṇvantu | he maghavan dhanavannindra aryo dhanapatistvaṃ no 'smāngoṣvā bhaja | prāpaya | te tava maṃhiṣṭhā atiśayena stutibhiḥ pravardhayitāro vayaṃ sadhamādaḥ putrapautrādibhiḥ saha mādayanto bhavema ‖ asmat | supāṃ sulugiti saptamyā luk | dasat | dasu upakṣaye | māṅ luṅpuṣāditvādaṅ | vājapramahaḥ | vājairdhanaiḥ prakṛṣṭaṃ mahastejo yasya sa tathoktaḥ | pādāditvādāṣṭamiko nighātābhāvaḥ | ṣāṣṭhikamāmantritādudāttatvam | varanta | vṛñ varaṇe | vyatyayena śap | goṣu sāvekāceti prāptasya vibhaktyudāttatvasya na gośvansāvavarṇeti pratiṣedhaḥ | aryaḥ | aryaḥ svāmivaiśyayoriti nipātyate | aryaḥ svāmyākhyācet | phi. 1-14 [as read] ityantodāttatvam | maṃhiṣṭhāḥ | mahī vṛddhau | idito num | antarbhāvitaṇyarthāttṛc | tuśchandasītīṣṭhan | turiṣṭhemeyaḥsusvititṛlopaḥ | sadhamādaḥ | mada tṛptiyoge | curādikaḥ | saha mādayante tṛptāḥ bhavantīti sadhamādaḥ | kvip ca | jas ‖ [as read]*
+
+*Sense (mine):* "O *vājapramahaḥ* — O Indra, to be honoured with riches (*vāja*): may that *sumati* — your good, favourable thought — never *vi dasat* — fail, be lost, from us. May *iṣaḥ* — food [and the like] — *sam varanta* — come to us together. O *maghavan* — wealthy Indra, *aryaḥ* — lord of wealth — *ā bhaja* — bring us to [*goṣu*] — [the possession of] cows. *Maṃhiṣṭhāḥ* — we who most exceedingly magnify you by praise, *sadhamādaḥ* — may we be happy, together with sons, grandsons and the like."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.15)** (Kannada, rendered)
+
+*(He) vājapramahaḥ* — O Indra, famous for wealth; *te* — your; *sā sumatiḥ* — that gracious thought; *asmat* — in us; *mā vi dasat* — may it not decay (not be lost); *iṣaḥ* — food; *saṃ varanta* — may it come to us (make us prosperous); *(he) maghavan* — O lord of wealth; *aryaḥ* — [you], the master of wealth; *naḥ* — us; *goṣu* — in cows (to give cows); *ā bhaja* — favour us; *te* — you; *maṃhiṣṭhāḥ* — we who magnify you with praises; *sadhamādaḥ* — happy together with sons, grandsons and others; *syāma* — may we be.
+
+---
+
+### Printed p. 601  (PDF 621; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.15)** (Kannada, rendered)
+
+"O Indra, famous for wealth (lordship)! May your favour towards us be complete; O Indra, lord of wealth, grant us, who magnify you by praises, food, cows, and the happiness [that comes] with sons, grandsons and the like."
+
+**English Translation (as printed)**
+
+"Famous for affluence, Indra, never may your favour be withdrawn from us; may food ever sustain us; opulent Maghavan, make us possessors of cattle, and may we, most assiduous in your adoration, be happy, together (with our families)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 15)**
+
+*Vājapramahaḥ* — *vājair dhanaiḥ pramahanīya indra*: "'one to be exceedingly honoured with riches' — Sāyaṇa; the word *vāja* conveys wealth. Skandasvāmin: *vājaṃ balaṃ prakarṣeṇa mahayasya saḥ vājapramahāḥ* — 'one who is honoured by exceeding strength'. The prayer is that this favourable thought of Indra be in us; that Indra, lord of wealth, grant us cows; that our understanding may be such that we praise Indra with exceeding praise; and that we may be happy together with sons, grandsons and the rest."
+
+*Aryaḥ* — *dhanapatiḥ*: "The word *arya* is stated among the names of the Lord (Ni. 3-?? [as read]). Sāyaṇa explains 'master of wealth'. Skandasvāmin says in his commentary:
+
+> गोषु इति सप्तमीनिर्देशात् स्थिता इति वाक्यशेषः । अर्यः स्वाम्यर्थे वा । अथवा अर्यशब्दो ऽत्र षष्ठ्यन्तः । अरेः स्वभूतासु गोषु स्थितान् । शत्रोः या गावः ताः अस्मभ्यं दत्त्वा अस्मान् भजेत्यर्थः ॥
+
+> *goṣu iti saptamīnirdeśāt sthitā iti vākyaśeṣaḥ | aryaḥ svāmyarthe vā | athavā aryaśabdo 'tra ṣaṣṭhyantaḥ | areḥ svabhūtāsu goṣu sthitān | śatroḥ yā gāvaḥ tāḥ asmabhyaṃ dattvā asmān bhajetyarthaḥ ‖*
+
+— 'because of the locative *goṣu*, the sentence is completed by "standing"; *arya* is in the sense of master; or the word *arya* here is in the genitive: "those standing in the cows that are the enemy's: whatever cows belong to the enemy, give those to us and favour us". Because *goṣu* is in the locative, [the meaning is that] Indra, being master over cows, should protect us; he prays that, giving us the cows of the enemy, [Indra] protect us."
+
+---
+
+### Printed p. 602  (PDF 622; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics concluded)* "*Sadhamādaḥ syāma* — *te tubhyaṃ saha ca mādayitāraḥ saha somasya pātāraḥ nityaṃ bhavema ity āśāsmahe*: 'we pray that we may always be those who, together with you, delight, and together drink soma, offering Indra the soma-juice that gives delight, and that you favour us so that we may stay drinking the soma with you' — so he explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 15; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Asmat* (locative singular; *supāṃ sulug*, Pā. 7-1-39, *luk*) · *dasat* (*dasu upakṣaye*; *luṅ*, *tip*; *itaś ca lopaḥ*; since it is read in the *puṣādi* group, *puṣādidyutādi…*, Pā. 3-1-55, *aṅ* for *cli*; since *māṅ* is connected, no augment, Pā. 6-4-74; *nighāta*) · *vājapramahaḥ* (*vājaiḥ dhanaiḥ prakṛṣṭaṃ mahas tejaḥ yasya saḥ*; read among the *pādādi* [pāda-initial], no *nighāta*; *āmantritasya ca*, Pā. 8-1-19, the initial acute) · *varanta* (*vṛñ varaṇe*; *vyatyayo bahulam*, Pā. 3-1-85, *śap* for *śnā*; *loṭ*, second [or third] plural, *jha* → *anta*; *guṇa*; *uraṇ raparaḥ*; *nighāta*) · *bhaja* (*bhaja sevāyām*; *loṭ*, second singular; *nighāta*) · *goṣu* (*sāvekācas tṛtīyādiḥ*, Pā. 6-1-168, the acute on the case ending is obtained but is prohibited by *na gośvansāvavarṇarāṭ*…, Pā. 6-1-182) · *aryaḥ* (*aryaḥ svāmivaiśyayoḥ*, Pā. 3-1-103, irregular in the sense of 'master'; *aryaḥ svāmyākhyā cet*, Phiṭ-sūtra 1-14 as read, final acute) · *maṃhiṣṭhāḥ* (*mahī vṛddhau*; *idito num dhātoḥ*; causative included; *tṛc* → *tuśchandasi*, Pā. 5-3-59, *iṣṭhan*; *turiṣṭhemeyaḥsu*, Pā. 6-4-154, elision of *tṛ*; *ñnityādir nityam*, Pā. 6-1-197, middle-acute; nominative plural)
+
+---
+
+### Printed p. 603  (PDF 623; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 15, concluded)* *sadhamādaḥ* (*mada tṛptiyoge*, *curādi*; "*saha mādayante tṛptā bhavanti iti sadhamādaḥ*"; *kvip ca*, Pā. 3-2-76, *kvip*; since it is *curādi*, *satyāpapāśarūpavīṇā…*, Pā. 3-1-25, *ṇic* in its own sense; *ata upadhāyāḥ*, Pā. 7-2-116, *vṛddhi*; *ṇer aniṭi*, Pā. 6-4-51, elision of *ṇic*; the form *mād*; *jas*; *sadhamādasthayoś chandasi*, Pā. 6-3-96, *sadha* for *saha*; the *kṛdanta* hind-part keeps its natural accent) · *syāma* (*asa bhuvi*; *vidhiliṅ*, first plural, *mas*; *nityaṃ ṅitaḥ*, Pā. 3-4-99, elision of the *s* of *mas*; *yāsuṭ* augment; *śnasor allopaḥ*, Pā. 6-4-111, elision of the root's *a*; *tiṅ atiṅaḥ*, Pā. 8-1-28, *nighāta*). ‖ 15 ‖
+
+**Verse of benediction (Sanskrit, as printed at the close of the Adhyāya):**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*
+
+*Sense:* "May Vidyātīrtha Maheśvara, dispelling the darkness of the heart by the illumination of the meaning of the Veda, grant the four human ends (*puruṣārtha*)."
+
+**Colophon (Sanskrit, as printed):**
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये प्रथमाष्टके अष्टमोऽध्यायः समाप्तः ॥ ॐ तत्सत् ॥
+
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhurandhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye prathamāṣṭake aṣṭamo 'dhyāyaḥ samāptaḥ ‖ oṃ tatsat ‖*
+
+*Sense:* "Thus, in the *Mādhavīya Vedārthaprakāśa*, the commentary on the Ṛk-saṃhitā composed by Sāyaṇācārya, the bearer of the burden of the empire of the illustrious King Vīra Bukka, the promoter of the Vedic path — in the first Aṣṭaka, the Eighth Adhyāya is concluded. Om tat sat."
+
+**Kannada closing lines (as printed):** "illige śrī sāyaṇabhāṣyasahitavū karnāṭakabhāṣānuvādayutavū āda ṛgvēdasaṃhiteya prathamāṣṭakadalli eṇṭaneya adhyāyavu samāptavādudu." — "Here, in the first Aṣṭaka of the Ṛgveda-saṃhitā, with the Sāyaṇa-bhāṣya and the Kannada translation, the eighth Adhyāya has come to its end."
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*
+> *tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*
+
+*Sense:* "Whatever is faulty in letter or word, or lacking in measure — may all that be forgiven, O God, Lord of Speech; salutation to you."
+
+*(Then, as printed:)* "śubhaṃ bhūyāt" — "May it be auspicious." "maṅgalam" — "Auspiciousness."
+
+---
+
+**Progress note:** **Volume 9 translation complete** — Sūktas 113–121 (the Eighth Adhyāya), printed pp. 2–603 (PDF 22–623), through the Sanskrit colophon, benediction verse and Kannada closing lines on p. 603. Open: (1) numerals — the reader's numeral lists cover only printed pp. 330–353 and the front matter; Ṛk, Nirukta and sūtra numbers on pp. 354–603 were read from the page images and are marked `[as read]` or `[?]`, and need a human check against the print; (2) small-type Sanskrit (bhāṣya, Skandasvāmin and Nirukta quotations) read with `[?]` throughout; (3) grammar pages after about p. 560 are noted more briefly; (4) CLAUDE.md range line (113–130 → 113–121) to be edited by the user.
