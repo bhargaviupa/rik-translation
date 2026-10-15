@@ -3514,4 +3514,134 @@ so a speech addressed to a deity, or a speech uttered with devotion to win the d
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–8 complete; Ṛk 9 through the printed English on p. 138 (PDF 158): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 139 (PDF 159) — Ṛk 9 Special Topics and grammar; then Ṛks 10 and 11 (Triṣṭubh), Sūkta 114 ends ≈ p. 148 (115 starts p. 149 per contents). Open: numerals as read `[?]`; *kṛṣṇakāśāt* in the bhāṣya small type `[?]`.
+### Printed p. 139  (PDF 159; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**सुम्नम्** — *Sumnam* — "*sukham*": "since the word *sumna* is stated among the twenty-eight [as read] names of happiness (Ni. 3-?? as read [?]), the meaning is 'happiness'."
+
+**पशुपा इव उप आ अकरम्** — *Paśupā iva upa ā akaram* — "I offer, give, mantras in the form of praise. One who protects cattle, taking them in the morning under his charge to protect them, goes to the forest, grazes them, and in the evening duly hands over to each person his cows, back into his control. In the same way the mantras in the form of praise of Rudra, and the mantras in the form of praise of other deities, shine by the favour of those deities and are used in the praise of those deities. And in the same way the mantras that have Rudra for deity, ending in the praise of Rudra, are to be accepted both by those who sacrifice and by those who perform worship and the like; therefore, by the favour of Rudra, we praise Rudra with the mantras that have come into our minds — this is the sense. From this Rudra is the place for offering the *stotras* [to him]. Skandasvāmin explains likewise —
+
+> भवतस्सकाशाल्लब्धान् स्तोमान् भवत्सन्निधावेव सर्वानुच्चारयामीति [?] ।
+
+> *bhavatassakāśāllabdhān stomān bhavatsannidhāveva sarvānuccārayāmīti [?] |*
+
+— 'the praises obtained from thee, I utter all of them only in thy presence' — so he says."
+
+**मरुतां पितः** — *Marutāṃ pitaḥ* — "the fatherhood of Rudra to the Maruts has been explained in the 6th Ṛk."
+
+**सुमतिः मृळयत्तमा** — *Sumatiḥ mṛḷayattamā* — "*atiśayena sukhayitṛtamā*": "the favourable intention of Rudra, who grants auspiciousness to others, is pleasant to all and worthy of honour. The word *mṛḷayat*, derived from the root *mṛḍa* 'to be gracious', is a word meaning 'happy'. Saying that this word has also the meaning 'honour', the Nirukta-writer cites examples —
+
+> क्षेत्रस्य पतिना वयं हितेनेव जयामसि ।
+> गामश्वं पोषयित्न्वा स नो मृळातीदृशे ॥
+> (ऋ. सं. ४-५७-१ [as read])
+
+> *kṣetrasya patinā vayaṃ hiteneva jayāmasi |*
+> *gāmaśvaṃ poṣayitnvā sa no mṛḷātīdṛśe ‖*
+> *(ṛ. saṃ. 4-57-1 [as read])*
+
+— here: '*mṛḷātir dānakarmā vā pūjākarmā vā*' (Ni. 10-?? as read [?]): the word *mṛḷāti* is used in the sense of giving or of honouring.
+
+> क्षेत्रस्य पतिं मधुमन्तमूर्मिं धेनुरिव पयो अस्मासु धुक्ष्व ।
+> मधुश्चुतं घृतमिव सुपूतमृतस्य नः पतयो मृळयन्तु ॥
+> (ऋ. सं. ४-५७-३ [as read])
+
+> *kṣetrasya patiṃ madhumantamūrmiṃ dhenuriva payo asmāsu dhukṣva |*
+> *madhuścutaṃ ghṛtamiva supūtamṛtasya naḥ patayo mṛḷayantu ‖*
+> *(ṛ. saṃ. 4-57-3 [as read])*
+
+### Printed p. 140  (PDF 160; header "Maṃ. 1 A. 16 Sū. 114")
+
+> मृळयतिर्दानकर्मा पूजाकर्मा वा ।
+> (नि. १०-१६ [as read])
+
+> *mṛḷayatirdānakarmā pūjākarmā vā |*
+> *(ni. 10-16 [as read])*
+
+— in the Nirukta the root *mṛḍ* is said to be of the sense of 'happiness' or of 'honouring'. The main idea is that Rudra's favourable intention may be gracious to us, and may come to be worthy of honour and productive of happiness."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly)**
+
+*paśupā iva* (*paśūn pāti iti paśupāḥ*; *pā* "to protect"; the *viṭ* suffix by *ato maninkvanibvanipaś ca*, Pā. 3-2-74 as read [?]; the first-member-accent by *kṛduttarapadaprakṛtisvaratva*); *akaram* (*ḍukṛñ* "to do"; *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6 as read [?], *luṅ* in the present sense; 1st singular *mip*; *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. 3-4-101 as read [?], the *am* substitution; *cli* → *aṅ* by *kṛmṛdṛruhibhyaś chandasi*, Pā. 3-1-59 as read [?]; the *aṅ* *ṅit*-like — *ṅidvad*; *aṅ*-guṇa by *yadi śloṣo guṇaḥ* [as printed, [?]]; *raparatva*; the augment *aṭ*; nighāta); *rāsva* (*rā* "to give", *ātmanepada* by *vyatyaya*; *thāsaḥ se* → *sva* by *savābhyāṃ vāmau*, *ṣatva*; no nighāta since it stands at the beginning of the *pāda*, the *vikaraṇa*-less … the root accent remains); *pitaḥ marutām* (by *paramam api chandasi* [as printed — the statement that the *āmantrita* *pitaḥ* with the following *marutām* is treated as a whole] — the *nighāta* (*anudātta*) applies to both words by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *asme* (the stem *asmad*; the plural dative *bhyas* following; *supāṃ sulug*, Pā. 7-1-39 as read [?], the *śe* substitution; *śeṣe lopaḥ*, the elision of the part ending in *m* [*mapar-yantasya*]; *sāvekācaḥ*… the ending accented); *bhadrā* (*bhadi* "to be auspicious, happy"; the Uṇādi *ra*; *ṭāp* in the feminine); *mṛḷayattamā* (*mṛḍa* "to be gracious"; *ṇic* by *hetumati ca*; after the *ṇyanta* the *śatṛ* in the *laṭ* sense; *śap*; guṇa of the *ṇic*; *ay* substitution; the *chandasy ubhayathā*, Pā. 3-4-117 as read [?], making the *śatṛ* *ārdhadhātuka*, …).
+
+---
+
+### Printed p. 141  (PDF 161; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 9, concluded (noted briefly):* *mṛḷayattamā* — the *tāsyanudāttet…* rule makes the *sārvadhātuka* unaccented, but because of the suffix accent the *a* is *udātta*; *tamap* in the superlative by *atiśayane tamabiṣṭhanau*, which being *pit* is unaccented; feminine *ṭāp*; *atha* (a *nipāta*; lengthening in the Saṃhitā by *nipātasya ca*); *vṛṇīmahe* (*vṛñ* "to choose", kryādi *laṭ* 1st plural *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e*; *śnā* as *vikaraṇa*; *ī* for the *ā* of the *vikaraṇa* by *ī halyaghoḥ*, Pā. 6-4-113 as read [?]; nighāta after an accented word). ‖ 9 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 10  (Triṣṭubh)
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.10)**
+
+> आरे ते गोघ्नमुत पूरुषघ्नं क्षयद्वीर सुम्नमस्मे ते अस्तु ।
+> मृळा च नो अधि च ब्रूहि देवाधा च नः शर्म यच्छ द्विबर्हाः ॥ १० ॥
+
+> *āre te goghnamuta pūruṣaghnaṃ kṣayadvīra sumnamasme te astu |*
+> *mṛḷā ca no adhi ca brūhi devādhā ca naḥ śarma yaccha dvibarhāḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.10)**
+
+> आरे । ते । गोऽघ्नम् । उत । पुरुषऽघ्नम् । क्षयत्ऽवीर ।
+> सुम्नम् । अस्मे इति । ते । अस्तु ।
+> मृळ । च । नः । अधि । च । ब्रूहि । देव । अध । च । नः ।
+> शर्म । यच्छ । द्विऽबर्हाः ॥ १० ॥
+
+> *āre | te | go 'ghnam | uta | puruṣa 'ghnam | kṣayat 'vīra |*
+> *sumnam | asme iti | te | astu |*
+> *mṛḷa | ca | naḥ | adhi | ca | brūhi | deva | adha | ca | naḥ |*
+> *śarma | yaccha | dvi 'barhāḥ ‖ 10 ‖*
+
+### Printed p. 142  (PDF 162; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.10)**
+
+> हे क्षयद्वीर क्षपितसर्वशत्रुजन रुद्र ते त्वदीयं गोघ्नं यद्गोहननं यद्वा गोहननसाधनमायुधम् । उताऽपि च पुरुषघ्नं पुरुषहननं तत्साधनमायुधं वा तदुभयमारे दूरेऽस्मत्तो विप्रकृष्टदेशे भवतु । अस्मे अस्मासु ते त्वदीयं सुम्नं सुखमस्तु । भवतु । अपि च नोऽस्माकं मृळ । सुखसिद्ध्यर्थं प्रसन्नो भव । हे देव द्योतमान रुद्र नोऽस्माकमधि ब्रूहि च । अधिवचनं पक्षपातेन वचनं ब्राह्मणायाधि ब्रूयात् । तै. सं. २-५-११-१ [as read] । इति यथा । अध अथ चानन्तरं च द्विबर्हा द्वयोः स्थानयोः पृथिव्यामन्तरिक्षे च परिवृद्धः । यद्वा । द्वयोर्दक्षिणोत्तरमार्गयोर्ज्ञानकर्मणोर्वा परिवृद्धः स्वामी । स त्वं नोऽस्मभ्यं शर्म सुखं यच्छ । देहि ॥ [grammatical tail: *gośnam* — *han* "to injure", the *ka* suffix by the statement "*ghaṅarthe kavidhānam*" in the abstract or instrumental; *dvibarhāḥ* — *bṛh*/*vṛh* "to grow", the *asun* suffix; first-member accent.]
+
+> *he kṣayadvīra kṣapitasarvaśatrujana rudra te tvadīyaṃ goghnaṃ yadgohananaṃ yadvā gohananasādhanamāyudham | utā 'pi ca puruṣaghnaṃ puruṣahananaṃ tatsādhanamāyudhaṃ vā tadubhayamāre dūre 'smatto viprakṛṣṭadeśe bhavatu | asme asmāsu te tvadīyaṃ sumnaṃ sukhamastu | bhavatu | api ca no 'smākaṃ mṛḷa | sukhasiddhyarthaṃ prasanno bhava | he deva dyotamāna rudra no 'smākamadhi brūhi ca | adhivacanaṃ pakṣapātena vacanaṃ brāhmaṇāyādhi brūyāt | tai. saṃ. 2-5-11-1 [as read] | iti yathā | adha atha cānantaraṃ ca dvibarhā dvayoḥ sthānayoḥ pṛthivyāmantarikṣe ca parivṛddhaḥ | yadvā | dvayordakṣiṇottaramārgayorjñānakarmaṇorvā parivṛddhaḥ svāmī | sa tvaṃ no 'smabhyaṃ śarma sukhaṃ yaccha | dehi ‖ [grammatical tail: *gośnam* — *han* "to injure", the *ka* suffix by the statement "*ghaṅarthe kavidhānam*" in the abstract or instrumental; *dvibarhāḥ* — *bṛh*/*vṛh* "to grow", the *asun* suffix; first-member accent.]*
+
+*Sense (mine):* "O *kṣayadvīra*, Rudra, destroyer of all enemy folk: thy *gonhnam* — the killing of cows, or the weapon that is the means of killing cows; and *puruṣaghnam* — the killing of men, or the weapon that kills men: let both be *āre*, far from us. *Asme* — in us — may thy *sumna*, happiness, be. And *mṛḷa*, be gracious to us, for the accomplishment of happiness. O shining god Rudra, *adhi brūhi*, speak on our behalf — *adhivacana* is speech with partiality [for a party], as 'let him speak on behalf of the Brāhmaṇa' (Tai. Saṃ. 2-5-11-1 as read [?]). And then *dvibarhāḥ* — increased in two places, in earth and in the atmosphere; or, increased in the two paths, the southern and northern [the paths of knowledge and of ritual action], the lord. Such as thou art, *śarma*, happiness, give (*yaccha*) to us."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he kṣayadvīra* — O Rudra, destroyer of enemies; *te* — thy; *gonhnam* — the weapon that is the means of killing cows; *uta* — and; *puruṣaghnam* — the weapon that kills men; *āre* — (from us) far away (be); *asme* — in us; *te* — thy; *sumnam* — happiness; *astu* — be (and); *naḥ mṛḷa* — be the cause of happiness to us; *deva* — O shining Rudra; *naḥ adhi brūhi ca* — speak on our side; *atha ca* — afterwards; *dvibarhāḥ* — thou who art lord of earth and atmosphere (or lord of the two paths of knowledge and of action); *naḥ* — to us; *śarma* — happiness; *yaccha* — give."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Rudra, destroyer of enemies, may thy weapons that kill cows and kill men be far from us. May we have happiness; make us happy; O shining one, speak on our side; thou who art lord of the earth and atmosphere, or of both the path of knowledge and the path of action, give us happiness."
+
+**English Translation (as printed)**
+
+> Destroyer of heroes, may your cow-killing or man-slaying (weapon) be far away, and let the felicity granted by you be ours ; favour us ; speak,
+
+### Printed p. 143  (PDF 163; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> brilliant hero, in our behalf, and grant us, you who are mighty over the two (realms of heaven and earth), prosperity.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**क्षयद्वीर** — *Kṣayadvīra* — "*kṣapitasarvaśatrujana*": "he who destroys all enemies: Rudra. The meaning of the word *kṣayadvīra* has been explained in the Ṛks 1-114-1 [and] 1-114-2 [as printed, "1-114-2-?" read as 2 and 3 [?]].
+
+In this Ṛk, since weapons that kill cows and kill men are to be kept far away, the prayer is made that Rudra's graciousness may be in us, and that Rudra may grant happiness. And in accordance with the *śruti*-statement '*brāhmaṇāyādhi brūyāt*' (Tai. Saṃ. 2-5-11-1 as read [?]) — 'one should speak, on behalf of, to the Brāhmaṇa, words full of trust' — the prayer is expressed that Rudra, too, show his trust in words in our regard."
+
+**द्विबर्हाः** — *Dvibarhāḥ* — "*pṛthivī* and *antarikṣa* — one who is excellent in both these places. Or, Sāyaṇa explains: the lord who, protecting the paths — the path of knowledge and the path of action — known as the southern and northern paths, so that they are not obstructed by others, favours so that those entitled to them have entrance into the paths. Skandasvāmin:
+
+> द्विबर्हाः — बृंहिवृद्ध्यर्थः यस्मात् स्तोतुः द्वयोर्वर्धयिता बृंह धातुवृद्धौ । [?] 
+
+> *dvibarhāḥ — bṛṃhivṛddhyarthaḥ yasmāt stotuḥ dvayorvardhayitā bṛṃha dhātuvṛddhau | [?]*
+
+— the root *bṛṃh* conveys the meaning of increase. 'Therefore Rudra makes increase for those who sacrifice and for those who praise.' Or, 'since Rudra, in sacrifice and in battle, the two in which [the one] stands in the middle and the one in the upper [*madhyamottamayoḥ*], by the form of heroism (*vīryarūpeṇa*) is middle-ranked in the atmosphere, as the Āditya he receives the juice of the world in the atmosphere by his energy' [the Sanskrit of this passage is in small type and corrupt in the print [?]]. In sacrifice and in battle he favours those who rely on him by his own strength with increase: hence he is *dvibarhāḥ*. Since Rudra is a deity of the middle region (atmosphere), as the Āditya he collects the sap of the atmosphere by his surpassing power and has the capacity to grow in the atmosphere; therefore they explain *dvibarhāḥ* as 'having increase in two ways'. '*dvayoḥ sthānayor barhate pravardhate iti dvibarhāḥ*' — the account of the meaning of this word is given in different ways in the two bhāṣyas."
+
+### Printed p. 144  (PDF 164; header "Maṃ. 1 A. 16 Sū. 114")
+
+**गोघ्नम्** — *Gonhnam* — "the Bhāṣyakāra explains the meaning as 'a weapon that is the means of killing cows'. Here the word *go* may be taken in the general sense of 'cattle'. As in the *śruti*-statement '*paśūnāṃ pataye*' — Rudra being lord of animals protects them — in the Ṛk 8 of this very sūkta, '*mā no goṣu mā no aśveṣu ririṣaḥ*', the prayer is: do not harm our cows, our horses. Therefore the prayer is made here that [Rudra] protect, without loss to us, our cows and other animals."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly)**
+
+*gonhnam* (*han* "to injure, to go"; the *ka* suffix by the statement "*ghaṅarthe kavidhānam*" in the abstract or instrumental sense; being *kit*, *gamahanajana…*, Pā. 6-4-98 as read [?], elision of the penultimate; *hoho 'nte*, Pā. 7-3-54 as read [?], the *h* → *gh* (*kutva*) because *n* follows; accent from the suffix; as it is a compound whose later member ends in *kṛt* preceded by a *kāraka*, the first-member-accent by *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?]; likewise *puruṣaghnam*); *kṣayadvīra* (*kṣayantaḥ vīrāḥ yasmin saḥ*; the vocative nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *astu* (*as* "to be", *loṭ* 3rd singular; nighāta); *mṛḷa* (*mṛḍa* "to be gracious", *loṭ* 2nd singular; standing at the beginning of a *pāda*, no nighāta; the *vikaraṇa* accent remains; lengthening in the Saṃhitā by *dyaicotastijaḥ*, Pā. 6-3-?? as read [?]); *brūhi* (*brūñ* "to speak", *loṭ* 2nd singular; nighāta); *yaccha* (*dāṇ* "to give"; *loṭ* 2nd singular *sip* → *hi*; *pāghrādhmā…*, Pā. 7-3-78 as read [?], *yaccha* for *dā*; *ato heḥ*, elision of *hi*; nighāta); *dvibarhāḥ* (*bṛha*/*bṛhi* "to grow"; *dvayoḥ sthānayoḥ barhate pravardhate iti dvibarhāḥ*; the *asun* suffix by *sarvadhātubhya asun*; *pugantalaghūpadhasya ca*…
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–9 complete; Ṛk 10 through printed p. 144 (PDF 164): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar page begun (ends at *dvibarhāḥ*, continues on p. 145). Next: printed p. 145 (PDF 165), then Ṛk 11. Open: numerals as read `[?]`; Skandasvāmin on *dvibarhāḥ* corrupt `[?]`.
