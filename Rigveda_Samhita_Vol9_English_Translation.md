@@ -12633,4 +12633,60 @@ In these [passages] he explains the word *vāja* as 'food' and the word *vājin�
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–10 complete (printed p. 531, PDF 551). Next: printed p. 532 (PDF 552): Ṛk 11 Saṃhitā. Two Ṛks (11, 12) and the colophon of Sūkta 120 remain. Numerals as read (no numeral list covers these pages): Ni. 2-19, Ṛ. 1-48-12, 1-3-10, sūtra numbers on pp. 530–531 `[as read]`.
+### Printed p. 532  (PDF 552; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.11)**
+
+> अयं समह मा तनूह्यते जनाँ अनु ।
+> सोमपेयं सुखो रथः ॥ ११ ॥
+
+> *ayaṃ samaha mā tanūhyate janā~ anu |*
+> *somapeyaṃ sukho rathaḥ ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.11)**
+
+> अयम् । समह । मा । तनु । ऊह्यते । जनान् । अनु ।
+> सोमऽपेयम् । सुऽखः । रथः ॥ ११ ॥
+
+> *ayam | samaha | mā | tanu | ūhyate | janān | anu |*
+> *soma 'peyam | su 'khaḥ | rathaḥ ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.11)** *(small type; read with some doubts)*
+
+> हे समह धनेन सहित हे रथ अयमयं पुरोवर्ती त्वं मा मां तनु । विस्तारय । पुत्रपौत्रधनादिभिः समृद्धं कुरु । यद्वा । अयमयमानं त्वां प्राप्नुवन्तं मां मिमीते योज्यम् [?] । स च सुखः शोभनावकाशः सुखहेतुर्वा रथो जनाननु स्तोतृजनेषु सोमपेयं सोमपासनं प्रत्यूह्यते । ऊह्यते । अश्विभ्यां नीयते । अश्विभ्यां यद्दीयते तत्स्ववं रथ इव पदादिति रथं संबोध्य प्रार्थना ॥ अयम् । इदोऽयन्पुंसि । (पा. ७-२-१११ [as read]) । यद्वा । अय पय गतौ । पचाद्यच् । समह । मह इति धननाम । मघेन सह वर्तते इति समघः । छान्दसो वर्णविकारः । यद्वा । मह पूजायाम् । महयति पूजयतीति महः धनं । पचाद्यच् । ऊह्यते । वह प्रापणे । कर्मणि लेट्यडागमः । यजादित्वात्संप्रसारणं । तस्य छान्दसो दीर्घः । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक इव स्वरः शिष्यते । सोमपेयम् । पा पाने । अचो यदिति भावे यत् । ईद्यतीति ईकारादेशः । यतोऽनाव इत्याद्युदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ [as read]
+
+> *he samaha dhanena sahita he ratha ayamayaṃ purovartī tvaṃ mā māṃ tanu | vistāraya | putrapautradhanādibhiḥ samṛddhaṃ kuru | yadvā | ayamayamānaṃ tvāṃ prāpnuvantaṃ māṃ mimīte yojyam [?] | sa ca sukhaḥ śobhanāvakāśaḥ sukhaheturvā ratho janānanu stotṛjaneṣu somapeyaṃ somapāsanaṃ pratyūhyate | ūhyate | aśvibhyāṃ nīyate | aśvibhyāṃ yaddīyate tatsvavaṃ ratha iva padāditi rathaṃ saṃbodhya prārthanā ‖ ayam | ido 'yanpuṃsi | (pā. 7-2-111 [as read]) | yadvā | aya paya gatau | pacādyac | samaha | maha iti dhananāma | maghena saha vartate iti samaghaḥ | chāndaso varṇavikāraḥ | yadvā | maha pūjāyām | mahayati pūjayatīti mahaḥ dhanaṃ | pacādyac | ūhyate | vaha prāpaṇe | karmaṇi leṭyaḍāgamaḥ | yajāditvātsaṃprasāraṇaṃ | tasya chāndaso dīrghaḥ | ādupadeśāllasārvadhātukānudāttatve yaka iva svaraḥ śiṣyate | somapeyam | pā pāne | aco yaditi bhāve yat | īdyatīti īkārādeśaḥ | yato 'nāva ityādyudāttatvam | kṛduttarapadaprakṛtisvaratvam ‖ [as read]*
+
+*Sense (mine and tentative):* "O *samaha* — O [chariot] associated with wealth, O chariot, *ayam* — this, standing before [me], you *tanu* — spread (make wide) *mā* — me: make me prosperous with sons, grandsons, wealth and the like. Or: you measure out (join) me who am approaching you. And that *sukhaḥ* — comfortable (having a fine space, a cause of comfort) chariot, *janān anu* — towards the praisers, *somapeyam* — for the drinking of soma — is borne (*ūhyate*) — carried by the Aśvins. What is given by the Aśvins [is] their own. Addressing the chariot, he prays."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.11)** (Kannada, rendered)
+
+*(He) samaha* — O chariot endowed with wealth; *āyam* — [you] who come towards me (standing before me); *mā* — me; *tanu* — make wide (make prosperous with sons and the like); *sukhaḥ* — comfort-giving; *rathaḥ* — the chariot; *janān anu* — towards the praisers; *somapeyam* — for the drinking of soma; *ūhyate* — is carried (by the Aśvins).
+
+---
+
+### Printed p. 533  (PDF 553; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.11)** (Kannada, rendered)
+
+"O chariot, endowed with wealth! Make me, who have come towards you, prosperous with sons, wealth and the like; that chariot, bringing comfort, is carried (by the Aśvins) near the praisers for the sake of drinking the soma. (Therefore everything the Aśvins have given is given by the chariot — such is the notion; hence the prayer is addressed to the chariot.)"
+
+**English Translation (as printed)**
+
+"This (is he who has obtained you), wealth-bearing (car): augment (my prosperity); may the delightful car bear the Soma beverage of men (to the Aswins)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 11)**
+
+"The seer of the mantra, praising the chariot itself — which, as it comes to the sacrifices of the Aśvins for the drinking of soma, has an abundance of their presence and so is powerful — prays to it for the attainment of his wishes; so it is described here."
+
+*Samaha* — *mahayati pūjayatīti mahaḥ dhanam | maghaṃ iti dhananāma maghena saha vartate iti samahaḥ chāndaso varṇavikāraḥ*: "'one who honours (*mahayati*, 'worships') is *mahaḥ*: wealth'. The word *magha* is stated among the twenty-eight [?] names of wealth (Ni. 2-10 [as read]); so it means wealth. The words *magha* and *maha* — by Vedic usage the sense is one, but the letter *h* has come in place of the letter *gh*. And since the word *maha* derived from the root *maha* of the sense 'worship' has the sense 'that which is to be worshipped', it means 'wealth'. By this derivation Sāyaṇa gives the word *samaha* the meaning 'with wealth'. Skandasvāmin:
+
+> हे समह — महः उत्सवः पूजा वा सहितो महेन समहः निर्मोत्सवयुक्तः पूज्यो वा । व्यत्ययेन चात्र एकवचनम् । समहौ पूज्यौ चेत्यर्थः ॥
+
+> *he samaha — mahaḥ utsavaḥ pūjā vā sahito mahena samahaḥ nirmotsavayuktaḥ pūjyo vā | vyatyayena cātra ekavacanam | samahau pūjyau cetyarthaḥ ‖*
+
+— 'the word *maha* is [a word] of festival or of worship; one who is always manifest in a festival or worship [is *samaha*]. Since this word is for the Aśvins in particular, it should be dual; but, because it is used in the Veda, the singular has come in place of it; so he explains the meaning of addressing the Aśvins by *samaha*, instead of *samahau*."
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–10 complete; Ṛk 11 through printed p. 533 (PDF 553): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 534). Next: printed p. 534 (PDF 554). Numerals as read: Pā. 7-2-111, Ni. 2-10 `[as read]`.
