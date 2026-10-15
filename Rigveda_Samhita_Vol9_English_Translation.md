@@ -11279,4 +11279,30 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–4 complete; Ṛk 5 through printed p. 471 (PDF 491): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 472). Next: printed p. 472 (PDF 492). Numerals as read (no numeral list covers these pages): Ṛ. 3-30-10, Ni. 1-23, 6-3 `[as read]`.
+### Printed p. 472  (PDF 492; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Special Topics of Ṛk 5, continued)* "… the Nirukta author explains [the word *vāṇī*]. Skandasvāmin: *vāṇī* here — *aśitimatam idaṃ dyāvāpṛthivī nāmadheyam* — 'though this word is not stated among the names of heaven-and-earth, here it is meant to say *dyāvāpṛthivī*, heaven and earth' — so he explains."
+
+*Śardhyam* — *śardham iti balanāma*: "The word *śardhya* is stated among the names of strength (Ni. 2-?? [as read: 'ನಿ. ೨-೮']), so it means 'strength'."
+
+"Skandasvāmin tells here a history:
+
+> अश्विनौ काष्ठमयेन दुर्बलेन रथेन गच्छन्तौ दृष्ट्वा वृत्रोऽपजहास । तच्छ्रुत्वा अमर्त्येन [?] द्यावापृथिव्यौ कं रथं सुवर्णखचितं बलवन्तं चक्रतुरिति ॥ [as read; small type [?]]
+
+> *aśvinau kāṣṭhamayena durbalena rathena gacchantau dṛṣṭvā vṛtro 'pajahāsa | tacchrutvā amartyena [?] dyāvāpṛthivyau kaṃ rathaṃ suvarṇakhacitaṃ balavantaṃ cakraturiti ‖ [as read; small type [?]]*
+
+— 'Seeing the Aśvins travelling in a chariot made of wood [i.e. of a rough, wooden build], weak, Vṛtra the asura laughed at them. Hearing this, heaven-and-earth made that chariot studded with gold and strong; and, with great strength.' *Vāṇī rathaṃ yematuḥ śardhyam* — he explains that heaven and earth made the chariot of the Aśvins strong."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Yuvoḥ* — the word *yuṣmad*; with the genitive dual following, in accordance with the statement *sarve vidhayaś chandasi vikalpyante*, *yatva* [of *yoci*, Pā. 7-2-89 as read] does not occur even if an *ajādi* [case ending] follows; *yuvāvau dvivacane* (Pā. 7-2-92 as read), *yuva* is substituted up to *ma*; by *pararūpa*, *śeṣe lopaḥ* (Pā. 7-2-90 as read), elision of the *d*; since *a* gives *guṇa* (the *o*), *ato guṇe* (Pā. 6-1-97 as read), *pararūpa*; *ru* and *visarga* for the *s*; the form *yuvoḥ*. *Yuvāyujam* — *yujyate iti yuk*; root *yujir yoge*; the suffix *kvip*; *yuvābhyāṃ yujyate iti yuvāyuk*; *vyatyayo bahulam* — here, since the word *yuṣmad*, though a case ending does not follow, has the sense of the dual, *yuva* is substituted up to *ma*; *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent; accusative singular.
+
+---
+
+### Printed p. 473  (PDF 493; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Yematuḥ* — root *yama uparame*; *liṭ*, second person dual [as printed; *atus*, third dual], since *kit* substitution is intended, *atas ca* … *tṛtīya…*, *ata ekahalmadhye 'nādeśādeḥ liṭi* (Pā. 6-4-120 as read), *et* and elision of the reduplicative [syllable] for the root; since it stands after an *ajanta*, the *nighāta* accent. *Śardhyam* — root *kṛdhu prasahane*; *hetumati ca* (Pā. 3-1-26 as read), *ṇic*; since the word ends in *a* [with *ṇic*], *aco yat* (Pā. 3-1-97 as read), the suffix *yat*; since *ṇic* is a cause, *guṇa* of the root's light penultimate; *ṇer aniṭi* (Pā. 6-4-51 as read), elision of the *ṇic* because *yat* follows; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute. *Sakhyāya* — *sakhyur bhāvaḥ sakhyam*; *sakhyuryaḥ* (Pā. 4-1-?? [as read: 'ಪಾ. ೫-೧-೧೩೫']), the suffix *ya*; *yasyeti ca* (Pā. 6-4-148 as read), elision of the *i*; by the suffix's accent the final acute. *Jagmuṣī* — root *gam̐ḷ gatau*; when *liṭ* has come, *kvasuś ca* (Pā. 3-2-107 as read), the suffix *kvasu*; for that reason doubling of the root; *cutva* in the reduplicative syllable; *gamahanajana…* (Pā. 6-4-98 as read), elision of the penultimate *a* of the root; when the feminine is meant, *ugitaś ca* (Pā. 4-1-6 as read), *ṅīp*; since it has the name *bha*, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131 as read), *saṃprasāraṇa* of the *v* of *vasu*; *pūrvarūpa*; *śāsivasighasīnāṃ ca* (Pā. 8-3-60 as read), *ṣatva* of the *s* of *vasu*; by the suffix's accent the *u* gets the acute. *Avṛṇīta* — root *vṛñ varaṇe*, *kryādi*; *laṅ*, third person singular; *tiṅanta nighāta* accent. *Jenyā* — root *ji jaye*; the suffix *enya*, formed by the *uṇādi* rule; on that account elision of the *ṭi* of the root; the form *jenya*; by the suffix's initial acute, the *e* gets the acute; when the feminine is meant, because it ends in *a*, *ṭāp*. ‖ 5 ‖
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–5 complete (printed p. 473, PDF 493). Next: printed p. 474 (PDF 494): Ṛk 6 Saṃhitā. Numerals as read (no numeral list covers these pages): Ni. 2-8 and sūtra numbers on pp. 472–473 `[as read]`.
