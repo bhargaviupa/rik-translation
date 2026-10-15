@@ -11305,4 +11305,58 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–5 complete (printed p. 473, PDF 493). Next: printed p. 474 (PDF 494): Ṛk 6 Saṃhitā. Numerals as read (no numeral list covers these pages): Ni. 2-8 and sūtra numbers on pp. 472–473 `[as read]`.
+### Printed p. 474  (PDF 494; header "Maṃ. 1 A. 17 Sū. 119")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.6)**
+
+> युवं रेभं परिषूतेरुरुष्यथो हिमेन घर्मं परितप्तमत्रये ।
+> युवं शयोरवसं पिप्यथुर्गवि प्र दीर्घेण वन्दनस्तार्यायुषा ॥ ६ ॥
+
+> *yuvaṃ rebhaṃ pariṣūteruruṣyatho himena gharmaṃ paritaptamatraye |*
+> *yuvaṃ śayoravasaṃ pipyathurgavi pra dīrgheṇa vandanastāryāyuṣā ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.6)**
+
+> युवम् । रेभम् । परिऽसूतेः । उरुष्यथः । हिमेन । घर्मम् ।
+> परिऽतप्तम् । अत्रये ।
+> युवम् । शयोः । अवसम् । पिप्यथुः । गवि । प्र । दीर्घेण ।
+> वन्दनः । तारि । आयुषा ॥ ६ ॥
+
+> *yuvam | rebham | pari 'sūteḥ | uruṣyathaḥ | himena | gharmam |*
+> *pari 'taptam | atraye |*
+> *yuvam | śayoḥ | avasam | pipyathuḥ | gavi | pra | dīrgheṇa |*
+> *vandanaḥ | tāri | āyuṣā ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.6)** *(small type; read with some doubts)*
+
+> हे अश्विनौ युवं युवां रेभमृषिं परिसूतेः परितः प्रेरकादुपद्रवात्कूपपतनादेः [?] उरुष्यथः । रक्षथः । उरुष्यतिी रक्षाकर्मेति यास्कः । (नि. ५-२३ [as read]) । तथात्रयऋषये परितप्तं परितस्तप्तं घर्ममसुरैः पीडार्थं प्रक्षिप्तं दीप्यमानं तुषाग्निं हिमेन शीतेनोदकेनावारयेथाम् । यद्वा । हविषामत्रये भक्षयित्र्येऽग्नये परितप्तं सूर्यशिरःसंतप्तं घर्मं [?] अहर्नाम्नेक्तम् [?] अहर्हिमेन वृष्ट्युदकेन हविःसंपादकव्रीह्याद्युत्पत्तिप्रतिबन्धकमावारयेथाम् । अपि च शयोरेतत्संज्ञस्यर्षेर्गवि निवृत्तप्रसवायां धेनावसं रक्षकं पयो युवं युवां पिप्यथुः । प्रवर्धितवन्तौ । तथा जीर्णाङ्गो वन्दनः ऋषिर्दीर्घेणायुषा प्र तारि । युवाभ्यां प्रवर्धितः ॥ [as read]
+
+> *he aśvinau yuvaṃ yuvāṃ rebhamṛṣiṃ parisūteḥ paritaḥ prerakādupadravātkūpapatanādeḥ [?] uruṣyathaḥ | rakṣathaḥ | uruṣyatiī rakṣākarmeti yāskaḥ | (ni. 5-23 [as read]) | tathātrayaṛṣaye paritaptaṃ paritastaptaṃ gharmamasuraiḥ pīḍārthaṃ prakṣiptaṃ dīpyamānaṃ tuṣāgniṃ himena śītenodakenāvārayethām | yadvā | haviṣāmatraye bhakṣayitrye 'gnaye paritaptaṃ sūryaśiraḥsaṃtaptaṃ gharmaṃ [?] aharnāmnektam [?] aharhimena vṛṣṭyudakena haviḥsaṃpādakavrīhyādyutpattipratibandhakamāvārayethām | api ca śayoretatsaṃjñasyarṣergavi nivṛttaprasavāyāṃ dhenāvasaṃ rakṣakaṃ payo yuvaṃ yuvāṃ pipyathuḥ | pravardhitavantau | tathā jīrṇāṅgo vandanaḥ ṛṣirdīrgheṇāyuṣā pra tāri | yuvābhyāṃ pravardhitaḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, you protect (*uruṣyathaḥ*) the ṛṣi Rebha from *pariṣūti* — the calamity that pressed on all sides, such as the fall into the well; [Yāska]: *uruṣyati* is a word for protection (Ni. 5-23 as read). And for the ṛṣi Atri, you kept off the *gharma* — the blazing husk-fire, put round by the asuras to torment him — *taptam*, burning all round — with *himena* — cold water. Or: for Atri — [i.e.] Agni, the eater of oblations — *gharma*, the heat of the Sun's head, that checks the growth of the rice and the like which produce the oblations, you kept off with *hima* — rain-water. And for Śayu, in his cow that had ceased bearing, you filled with milk, with *avasam* — protective milk; and Vandana, the ṛṣi of worn-out limbs, was *pra tāri* — raised up by you with long life."
+
+---
+
+### Printed p. 475  (PDF 495; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya of Ṛk 6, concluded; grammar tail, small type)* "*pra-* the prefix *tṝ plavanataraṇayoḥ*, with *pra*: *pra tāri*; *āvasam* — *avater auṇādiko 'sac*; *pipyathuḥ* — *pyāyī vṛddhau* [root], *vyatyayena parasmaipadam*; *liṭi dyajjoḥ* [as read: *liṭy abhyāsasyobhayeṣām*?] (Pā. 6-1-?? [as read]) *iti ī-bhāvaḥ*" — characterized, not transcribed.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.6)** (Kannada, rendered)
+
+*(He) aśvinā* — O Aśvins; *yuvam* — you two; *rebham* — the ṛṣi Rebha; *pariṣūteḥ* — from the calamity; *uruṣyathaḥ* — you protected; *atraye* — for the ṛṣi Atri (for Agni, the eater of oblations); *paritaptam* — [which was] burning; *gharmam* — the fire (the Sun's heat — [heat] that checks the growth of the rice and the like, which sustain the oblations); *himena* — by cold water (by rain-water) — (you warded off); *(and)* *śayoḥ* — of the ṛṣi named Śayu; *gavi* — in the cow; *avasam* — protecting (milk); *yuvam* — you two; *pipyathuḥ* — made grow; *(tathā)* — likewise; *vandanaḥ* — the aged ṛṣi Vandana; *dīrgheṇa āyuṣā* — with long life; *pra tāri* — was raised up (by you).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.6)** (Kannada, rendered)
+
+"O Aśvins! You both removed the calamity that had come upon the ṛṣi Rebha; you warded off, with cold water, the fire that tormented Atri (for Agni, who eats the oblations, with rain-water you warded off the heat of the Sun, which destroys the rice and the like); you made the cow of Śayu rich in milk; and to Vandana, the aged ṛṣi, you granted long life."
+
+**English Translation (as printed)**
+
+"You preserved Rebha from the violence around him; you quenched with snow, for Atri, the scorching heat; you generated milk in the cow of Sayu; and (by you) was Vandana endowed with prolonged life."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 6)**
+
+*Yuvaṃ rebhaṃ pariṣūter uruṣyathaḥ* — *yuvāṃ rebhaṃ ṛṣiṃ pariteḥ prerakād upadravāt kūpapatanādyād rakṣathaḥ*: "*Uruṣyati* [is] *rakṣākarma* (Ni. 3-?? [as read: 'ನಿ. ೩-೨೩']): since the word *uruṣya* is stated as a root with the sense 'to protect', the meaning is that the Aśvins saved the ṛṣi Rebha from the calamity that was near him, or from the troubles which the asuras caused him by binding him and throwing him into a well. When the asuras seized the ṛṣi Atri and put him in a husk-fire, the Aśvins, hearing his praise, with cold water from a …" *(continues on p. 476)*
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–5 complete; Ṛk 6 through printed p. 475 (PDF 495): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 476). Next: printed p. 476 (PDF 496). Numerals as read (no numeral list covers these pages): Ni. 5-23, 3-23 `[as read]`.
