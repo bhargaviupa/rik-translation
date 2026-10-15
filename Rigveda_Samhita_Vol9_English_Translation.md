@@ -8473,4 +8473,72 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–10 complete (Ṛk 10 grammar done); Ṛk 11 Saṃhitā written (printed p. 353, PDF 373). Next: printed p. 354 (PDF 374): Ṛk 11 Pada onward. Open: Nirukta/Uṇādi/sūtra numbers on pp. 352–353 as read `[?]`.
+### Printed p. 354  (PDF 374; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.11)**
+
+> सूनोः । मानेन । अश्विना । गृणाना । वाजम् । विप्राय । भुरणा । रदन्ता ।
+> अगस्त्ये । ब्रह्मणा । वावृधाना । सम् । विश्पलाम् । नासत्या ।
+> अरिणीतम् ॥ ११ ॥
+
+> *sūnoḥ | mānena | aśvinā | gṛṇānā | vājam | viprāya | bhuraṇā | radantā |*
+> *agastye | brahmaṇā | vāvṛdhānā | sam | viśpalām | nāsatyā |*
+> *ariṇītam ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.11)** *(small type; read with some doubt)*
+
+> भुरणा भर्तारौ पोषकौ नासत्या सत्यस्वभावौ हे अश्विनौ सूनोः कुम्भात्प्रसूतस्यागस्त्यस्य खेलपुरोहितस्य [?] संबन्धिना मानेन स्तुत्यस्य परिच्छेदकेन स्तोत्रेण गृणाना स्तूयमानौ विप्राय मेधाविने भरद्वाजायर्षये वाजमन्नं रदन्ता विलिखन्तौ निष्पादयन्तौ युवां विश्पलां संग्रामे छिन्नजङ्घां खेलस्य संबन्धिनीं स्त्रियं समरिणीतम् । पुनरायस्या जङ्घया समयोजयतम् । तृतीयेन पादेन प्रथमपादोक्तोऽर्थो विप्रियते [?] । अगस्त्य ऋषौ ब्रह्मणा मन्त्ररूपेण स्तोत्रेण वावृधाना प्रवर्धिताविति ॥
+
+> *bhuraṇā bhartārau poṣakau nāsatyā satyasvabhāvau he aśvinau sūnoḥ kumbhātprasūtasyāgastyasya khelapurohitasya [?] saṃbandhinā mānena stutyasya paricchedakena stotreṇa gṛṇānā stūyamānau viprāya medhāvine bharadvājāyarṣaye vājamannaṃ radantā vilikhantau niṣpādayantau yuvāṃ viśpalāṃ saṃgrāme chinnajaṅghāṃ khelasya saṃbandhinīṃ striyaṃ samariṇītam | punarāyasyā jaṅghayā samayojayatam | tṛtīyena pādena prathamapādokto 'rtho vipriyate [?] | agastya ṛṣau brahmaṇā mantrarūpeṇa stotreṇa vāvṛdhānā pravardhitāviti ‖*
+
+*Sense (mine):* "*Bhuraṇā* — nourishers, supporters; *nāsatyā* — of true nature; O Aśvins — being praised (*gṛṇānā*) by the *māna*, the measuring [hymn], praise-defining, belonging to Agastya, *sūnoḥ* — born of a jar (*kumbha*), the chaplain of Khela [as read [?]]; giving (*radantā*, i.e. 'producing', 'accomplishing') food (*vāja*) to the sage (*viprāya*), the wise ṛṣi Bharadvāja — you two *samariṇītam*: restored Viśpalā, the wife of Khela, whose shank was cut off in battle; you joined her again with an iron [*āyasyā*] shank. The sense stated in the first pāda is [re]explained by the third pāda. *Vāvṛdhānā* — made to grow by the ṛṣi Agastya with a hymn in the form of mantra." The bhāṣya then adds grammar of *gṛṇānā* (root *gṝ śabde*, with the Vedic *vyatyaya*, *kartari* suffix), *bhuraṇā* (root *bhura dhāraṇapoṣaṇayoḥ*), *kaṇḍvādi*, *ac*, *supāṃ sulug*, *vāvṛdhānā*, *tujādi* etc. — characterized, not transcribed.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.11)** (Kannada, rendered)
+
+*Bhuraṇā* — nourishers; *aśvinā* — O Aśvins; *sūnoḥ* — from the jar (of Agastya, who was born, and the chaplain named Khela); *mānena* — by praise; *gṛṇānā* — being praised; *viprāya* — to the wise man (the ṛṣi Bharadvāja); *vājam* — food; *radantā* — you who gave; *agastye* — of Agastya; *brahmaṇā* — by the hymn in the form of mantra; *vavṛdhānā* — made to grow; *viśpalām* — Viśpalā, the wife of Khela, who had lost a leg in battle; *sam ariṇītam* — you made her whole with an iron leg.
+
+---
+
+### Printed p. 355  (PDF 375; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.11)** (Kannada, rendered)
+
+"O Nāsatyas, nourishers of men! Pleased by the praise of Agastya, born of a jar, you graciously gave food (the giver of strength) to the wise ṛṣi Bharadvāja; and, strengthened by Agastya's praise in the form of mantra, you gave Viśpalā, [wife of] Khela, who had lost a leg, an iron leg."
+
+**English Translation (as printed)**
+
+"Aswins, glorified by the praises of the son (of the jar), and giving food, nourishers (of men), to the sage (Bharadwaja), exalted by Agastya with prayer, you restored Nasatyas, Vispala."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 11)**
+
+*Sūnoḥ* — *kumbhāt prasūtasya agastyasya khelapurohitasya*: "A king called Khela had made the ṛṣi Agastya his chaplain. When he went to the battle and fought the enemy's host, his wife Viśpalā broke her leg [Kannada: "lost the foot"]. The ṛṣi Agastya prayed to the Aśvins; as the ṛṣi prayed, the Aśvins came and, giving appropriate treatment to the shank region of that woman's leg, protected her — this account is told by this Ṛk. Because the ṛṣi Agastya was born from a jar (*kumbha*), the word *sūnu* is used here, and so this matter is stated."
+
+Skandasvāmin:
+
+> सूनुरित्यपत्यनाम । मीयते अनेनेति मानः कुम्भः । षष्ठीतृतीययोश्च व्यत्ययेन योजयितव्ये [?] । सूनुनास्यापत्यभूतेन कुम्भस्य अगस्त्यो हि उर्वशीदर्शनात् मित्रावरुणयोः स्कन्नात्रेतसः कुम्भे जातः । एवं चाख्यानविद आहुः — [as read; small type, doubtful [?]]
+
+> *sūnurityapatyanāma | mīyate aneneti mānaḥ kumbhaḥ | ṣaṣṭhītṛtīyayośca vyatyayena yojayitavye [?] | sūnunāsyāpatyabhūtena kumbhasya agastyo hi urvaśīdarśanāt mitrāvaruṇayoḥ skannātretasaḥ kumbhe jātaḥ | evaṃ cākhyānavida āhuḥ — [as read; small type, doubtful [?]]*
+
+> बहुधा पतितं रेतः कलशेऽथ जले स्थले ।
+> स्थले वसिष्ठस्तु मुनिः संभूतो ऋषिसत्तमः ।
+> कुम्भे त्वगस्त्यः स्कन्धभूतो [?] जले मत्स्यो महाद्युतिः ॥ इति ।
+> वसिष्ठोऽपि तत्पुत्रो वा वक्ष्यति ॥ [as read [?]]
+
+> *bahudhā patitaṃ retaḥ kalaśe 'tha jale sthale |*
+> *sthale vasiṣṭhastu muniḥ saṃbhūto ṛṣisattamaḥ |*
+> *kumbhe tvagastyaḥ skandhabhūto [?] jale matsyo mahādyutiḥ ‖ iti |*
+> *vasiṣṭho 'pi tatputro vā vakṣyati ‖ [as read [?]]*
+
+("Semen fallen in many ways — in the jar, in water and on land: on land arose the sage Vasiṣṭha, best of ṛṣis; in the jar, Agastya; in the water, the great-splendoured fish [?]" — thus the knowers of the legend say; "Vasiṣṭha too, or his son, will say it" — as read.)
+
+> सत्रे ह जातावि षिता नमोभिः कुम्भे रेतः सिषिचतुः समानम् ।
+> ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठम् ॥
+> (ऋ. सं. ७-३३-१३ [as read])
+
+> *satre ha jātāvi ṣitā namobhiḥ kumbhe retaḥ siṣicatuḥ samānam |*
+> *tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭham ‖*
+> *(ṛ. saṃ. 7-33-13 [as read])*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–10 complete; Ṛk 11 through printed p. 355 (PDF 375): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (Khela / Agastya / Viśpalā) begun (continues p. 356). Next: printed p. 356 (PDF 376). Open: p. 354 bhāṣya and p. 355 Skandasvāmin quotations small type `[?]`; *khela* vs *hela* spelling as read.
