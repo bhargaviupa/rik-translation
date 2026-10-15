@@ -10939,4 +10939,84 @@ In this Ṛk, *vasubhiḥ sajoṣāḥ* means *saha joṣaṇaḥ samānaprīti�
 
 ---
 
-**Progress note:** Sūkta 119: Ṛk 1 complete; Ṛk 2 through printed p. 457 (PDF 477): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English, Special Topics and grammar follow (p. 458). Next: printed p. 458 (PDF 478). Numerals as read: sūtra numbers on p. 456 `[as read]`.
+### Printed p. 458  (PDF 478; header "Maṃ. 1 A. 17 Sū. 119")
+
+**English Translation (as printed)**
+
+"Upon its moving, our minds have been raised on high in praise; our hymns reach (the Aswins). I sweeten the oblation: the assistants come nigh: Urjani, (the daughter of the sun), has ascended, Aswins, your car."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 2)**
+
+*Dhītiḥ* — *asmadīyā buddhiḥ*: "'our mind' is the meaning. The word *dhīti* is used in two senses: praise (*stuti*) and knowledge (*prajñā*). For example:
+
+> इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः ।
+> पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ॥
+> (ऋ. सं. ६-६१-२ [as read])
+
+> *iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ |*
+> *pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivāsema dhītibhiḥ ‖*
+> *(ṛ. saṃ. 6-61-2 [as read])*
+
+In this Ṛk, *dhītibhiḥ* is explained (Ni. 2-?? [as read: 'ನಿ. ೨-೩೪']) as *supravṛttābhiḥ śobhanābhiḥ stutibhiḥ* — 'by well-formed, splendid praises' — the word *dhīti* is used in the sense of praise.
+
+> ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य धीतिर्वृजिनानि हन्ति ।
+> ऋतस्य श्लोको बधिरा ततर्द कर्णा बुधानः शुचमान आयोः ॥
+> (ऋ. सं. ४-२३-८ [as read])
+
+> *ṛtasya hi śurudhaḥ santi pūrvīrṛtasya dhītirvṛjināni hanti |*
+> *ṛtasya śloko badhirā tatarda karṇā budhānaḥ śucamāna āyoḥ ‖*
+> *(ṛ. saṃ. 4-23-8 [as read])*
+
+Here, in *ṛtasya dhītiḥ* — *prajñā* (Ni. 10-?? [as read]) — the word *dhīti* conveys the meaning 'knowledge'."
+
+*Gharmam* — *mahāvīrasthaṃ | yadvā sphuraṇaśīlājyādikam*: "The word *gharma* is stated among the names of day (Ni. 1-?? [as read]) and among the names of sacrifice (Ni. 3-?? [as read]). For example:
+
+> गौरमीमेदनु वत्सं मिषन्तं मूर्धानं हिङ्ङकृणोन्मातवा उ ।
+> सृक्वाणं घर्ममभि वावशाना मिमाति मायुं पयते पयोभिः ॥
+> (ऋ. सं. १-१६४-२८ [as read])
+
+> *gauramīmedanu vatsaṃ miṣantaṃ mūrdhānaṃ hiṅṅakṛṇonmātavā u |*
+> *sṛkvāṇaṃ gharmamabhi vāvaśānā mimāti māyuṃ payate payobhiḥ ‖*
+> *(ṛ. saṃ. 1-164-28 [as read])*
+
+In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* — in the Nirukta (Ni. 11-?? [as read]) — 'the milk-yielding [cow of the *gharma* rite]', i.e. 'juice' (*rasa*).
+
+> उप ह्वये सुदुघां धेनुमेतां सुहस्तो गोधुगुत दोहदेनाम् ।
+> श्रेष्ठं सवं सविता साविषन्नोऽभीद्धो घर्मस्तदु षु प्र वोचम् ॥
+> (ऋ. सं. १-१६४-२६ [as read])
+
+> *upa hvaye sudughāṃ dhenumetāṃ suhasto godhuguta dohadenām |*
+> *śreṣṭhaṃ savaṃ savitā sāviṣanno 'bhīddho gharmastadu ṣu pra vocam ‖*
+> *(ṛ. saṃ. 1-164-26 [as read])*
+
+---
+
+### Printed p. 459  (PDF 479; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Gharmadhug iti yājñikāḥ* (Ni. 11-?? [as read]) — in the Nirukta's exposition [of the Ṛk], *yo 'yam abhīddhaḥ gharmo madhyasthāno vidyud ākhyaḥ* — 'the *gharma* that is kindled, the mid-region deity called lightning' — so the meaning of the word *gharma* is the deity called *vidyut* (lightning), in the mid-region."
+
+"By the chariot's setting out [and their appearing], the minds of the sacrificers become turned upward to praise them. After that, praise of the Aśvins also becomes ready. In the sacrificial hall, the oblations — ghee and the rest — are protected by the priests and, being so, are consecrated by them. And Sūryā-devī, the daughter of the Sun, mounts the chariot to come with the Aśvins — thus the order in which the Aśvins come for the sacrifice is told." Skandasvāmin:
+
+> आरुहत् आरूढा आजौ जिता सती सूर्या तदेतत् पुरस्तादेवोक्तम् । [as read; small type]
+
+> *āruhat ārūḍhā ājau jitā satī sūryā tadetat purastādevoktam | [as read; small type]*
+
+"[He explains:] in the contest [*āji*] with the gods, Sūryā-devī, being defeated by you, mounted your chariot — saying 'this was told earlier', [he] quotes:
+
+> आ वां रथं दुहिता सूर्यस्य काष्ठेवात्स्थादर्वता जयन्ती ।
+> विश्वे देवा अन्वमन्यन्त हृद्भिः समु श्रिया नासत्या सचेथे ॥
+> (ऋ. सं. १-११६-१७)
+
+> *ā vāṃ rathaṃ duhitā sūryasya kāṣṭhevātsthādarvatā jayantī |*
+> *viśve devā anvamanyanta hṛdbhiḥ samu śriyā nāsatyā sacethe ‖*
+> *(ṛ. saṃ. 1-116-17)*
+
+— he quotes this Ṛk."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Dhītiḥ* — root *dhyai cintāyām*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174 as read), the suffix *ktic*; *saṃprasāraṇa* of the root, *pūrvarūpa*; *halaḥ* (Pā. 6-4-2 as read), lengthening of the *saṃprasāraṇa*; *ciṭaḥ*, the final acute. *Prayāmani* — root *yā prāpaṇe*; since the root ends in *a*, *āto maninkvanibvanipaś ca* (Pā. 3-2-74 as read), the suffix *manin*; *kṛtyalyuṭo bahulam* (Pā. 3-3-113 as read), by the strength of the word *bahula* this comes in the abstract sense; since it is read in *dāsībhārādi*, the *kṛdanta* accent is set aside and the former member keeps its natural accent; with the locative singular following, *vibhāṣā ṅiśyoḥ* (Pā. 6-4-136 as read), since the elision of the *a* of *an* is optional, the elision does not occur here. *Adhāyi* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; in the passive, *luṅ*, third person singular, the suffix *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. 3-1-66 as read), *ciṇ* for *cli*; *ā* …
+
+---
+
+**Progress note:** Sūkta 119: Ṛk 1 complete; Ṛk 2 through printed p. 459 (PDF 479): all parts done except the end of its grammar (continues p. 460). Next: printed p. 460 (PDF 480). Numerals as read (no numeral list covers these pages): Ṛ. 6-61-2, 4-23-8, 1-164-28, 1-164-26 and Ni. numbers on pp. 458–459 `[as read]`.
