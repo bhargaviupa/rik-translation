@@ -12155,4 +12155,36 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–3 complete; Ṛk 4 through printed p. 509 (PDF 529): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 510). Next: printed p. 510 (PDF 530). Numerals as read: Ni. 3-13 `[as read]`; sūtra numbers on p. 508 `[as read]`.
+### Printed p. 510  (PDF 530; header "Maṃ. 1 A. 17 Sū. 120")
+
+*(Special Topics of Ṛk 4, continued)* "… we listen to them so that their favour should come to us. By asking them, [we mean that] since the [other] gods are of lesser [capacity] in intellect, and the fruit which we need cannot be got from them, we do not ask them."
+
+"In this Ṛk it is described: that the Aśvins, who are regarded as omniscient because of their greater knowledge, accept the great and nourishing oblations offered into the fire with the *vaṣaṭ* call, and, drinking the soma-juice, favour us — so that our knowledge, in praising them, grows, our understanding is exceedingly great, and, [that] it may not turn to other gods, whose power is less than theirs."
+
+*Adbhutasya* — *āścaryabhūtasya mahataḥ*: "The word *adbhuta* is stated among the names of 'great' (Ni. 3-13 [as read]). By this word is described the greatness of the substance offered in the fire with the call *vaṣaṭ*."
+
+*Sahyasaḥ* — *sahate abhibhavati aneneti sahaḥ balam tadasyāsti iti sahasvī*: "The strength that enables one to overcome others is called by the word *sahas*. One who has such strength is called *sahasvī*; one who has it in excess [is *sahyas*]; that is the meaning."
+
+*Rabhyasaḥ* — *atiśayena rabhasvinaḥ prodyamānān*: "The word *rabhasa* is stated among the names of 'great' (Ni. 3-?? [as read: 'ನಿ. ೩-೧೩']). 'The Aśvins are prayed that in us, whose nature includes speed and strength, greatness may arise.' The meaning of the word *rabhyas* is 'greatness surpassing others'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Pṛcchāmi* — root *pracchaṃ jñīpsāyāṃ vāci*; *laṭ*, first person singular; *tiṅanta nighāta* accent. *Pākyā* — root *ḍupacaṣ pāke*; *ṛhaloṇyat* (Pā. 3-1-124 as read), the suffix *ṇyat*; since it is *ṇit*, *ata upadhāyāḥ* (Pā. 7-2-116 as read), *vṛddhi* of the penultimate; *cajoḥ ku ghiṇṇyatoḥ* (Pā. 7-3-52 as read), *k* for the *c*; since the suffix is *tit*, *tit svaritam* (Pā. 6-1-185 as read), the *svarita* accent; accusative [as printed: dual] following with *plural* [?], *supāṃ sulug* (Pā. 7-1-39 as read), *ā* substituted; the form *pākyā*.
+
+---
+
+### Printed p. 511  (PDF 531; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Vaṣaṭkṛtasya* — root *ḍukṛñ karaṇe*; the suffix *kta*; since *vaṣaṭ* is read in the *ūry-ādi* group, *ūryādicviḍācaś ca* (Pā. 1-4-61 as read), it gets the *gati* name; *gatir anantaraḥ* (Pā. 6-2-49 as read), the *gati* keeps its natural accent; the *udātta* [of the *gati*] is the initial acute. *Pātam* — root *pā pāne*; *loṭ*, second person dual; *bahulaṃ chandasi*, *luk* for *śap*, so [the substitution] *piba* does not occur; because it stands at the beginning of a pāda, no *nighāta*; by the suffix's accent the final acute. *Sahyasaḥ* — *sahate abhibhavati anena iti sahaḥ balam*; root *ṣaha marṣaṇe*; *sarvadhātubhya asun* (Uṇ. sū. 4-189 as read), the suffix *asun*; "*sahaḥ asya asti iti sahasvī*": *asmāyāmedhāsrajo viniḥ* (Pā. 5-2-121 as read), the suffix *vin* in the sense of *matup*; when "one who has it in excess, *sahasvī*" is intended, *dvivacanavibhajyopapade tarabīyasunau* (Pā. 5-3-57 as read) [with *atiśāyane tamabiṣṭhanau*], the suffix *īyasun*; *vinmator luk* (Pā. 5-3-65 as read), *luk* for *vin* when *īyasun* follows; by Vedic usage elision of the *ī*. *Rabhyasaḥ* — root *rabha rābhasye*; *rābhasya* means readiness to start a work (the start of a task); as before, the suffix *asun*; by Vedic usage, *vṛddhi* of the initial; elision of the *vin* in the sense of *matup*; elision of the *ṭi*; elision of the *ī* of *īyasun*; since it is *nit*, the initial acute. ‖ 4 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.5)**
+
+> प्र या घोषे भृगवाणे न शोभे यया वाचा यजति पज्रियो वाम् ।
+> प्रैषयुर्न विद्वान् ॥ ५ ॥
+
+> *pra yā ghoṣe bhṛgavāṇe na śobhe yayā vācā yajati pajriyo vām |*
+> *praiṣayurna vidvān ‖ 5 ‖*
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–4 complete; Ṛk 5 Saṃhitā written (printed p. 511, PDF 531). Next: printed p. 512 (PDF 532): Ṛk 5 Pada onward. Numerals as read (no numeral list covers these pages): Ni. 3-13 and sūtra numbers on pp. 510–511 `[as read]`.
