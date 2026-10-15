@@ -393,6 +393,8 @@ Sense: "Having thus explained the seventh Adhyāya, the explanation of the eight
 
 > ज्योतिषां ग्रहनक्षत्रादीनां द्योतमानानां मध्ये इदमुषोऽभिमानिनी ज्योतिः श्रेष्ठम् । प्रशस्यतमम् । अस्य कोऽतिशय इति चेत् उच्यते । नक्षत्रादिकं ज्योतिः स्वात्मानमेव प्रकाशयति नान्यत् । चन्द्रस्तु यद्यप्यन्यत्प्रकाशयति तथापि न विस्पष्टप्रकाशः । उषसं तु ज्योतिर्युगपदेव सर्वस्य जगतोऽन्धकारनिराकरणेन विशेषेण प्रकाशकम् । अतः प्रशस्ततममित्यर्थः । तादृशं ज्योतिरागात् । पूर्वस्यां दिश्यागमत् । आगते च तस्मिन् चित्रः चायनीयः प्रकेतः अन्धकारावृतस्य सर्वस्य पदार्थस्य प्रज्ञापकस्तदीयो रश्मिर्विभ्वा विभुर्व्याप्तः सन् अजनिष्ट । प्रादुरभूत् । किंच । यथा रात्रिः स्वयं सवितुः सूर्यप्रकाशात् प्रसूता उत्पन्ना । सूर्यो हस्तं गच्छन् रात्रिं जनयति । तस्मिन्नस्तमिते रात्रेरुत्पत्त्यभावात् । एवमेव रात्रिरपि उषसे सवाय उषसः उत्पत्तये तदर्थं योनिं स्थानं स्वकीयापरभागलक्षणमारैक् । अरेचितवती । कल्पितवतीत्यर्थः । यद्वा । प्रसूता रात्रिः सवितुः सूर्यस्य सवाय प्रसवाय जन्मने यथा भवति एवं रात्रिरपि उषसः उज्जन्म तदर्थं योनिं स्वापरभागलक्षणं स्थानं कृतवती । अत्र निरुक्तम् । इदं श्रेष्ठं ज्योतिषां ज्योतिरागात् चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्यैवं रात्र्युषसे योनिमरिचत् स्थानम् । नि. २-१९ । इति । श्रेष्ठम् । प्रशस्यस्य श्रः । पा. ५-३-६० । इति श्रादेशः । प्रकृत्यैकाच् । पा. ६-४-१६३ । इति प्रकृतिभावात्टेर्लोपाभावः । आगात् ।
 
+> *jyotiṣāṃ grahanakṣatrādīnāṃ dyotamānānāṃ madhye idamuṣo 'bhimāninī jyotiḥ śreṣṭham | praśasyatamam | asya ko 'tiśaya iti cet ucyate | nakṣatrādikaṃ jyotiḥ svātmānameva prakāśayati nānyat | candrastu yadyapyanyatprakāśayati tathāpi na vispaṣṭaprakāśaḥ | uṣasaṃ tu jyotiryugapadeva sarvasya jagato 'ndhakāranirākaraṇena viśeṣeṇa prakāśakam | ataḥ praśastatamamityarthaḥ | tādṛśaṃ jyotirāgāt | pūrvasyāṃ diśyāgamat | āgate ca tasmin citraḥ cāyanīyaḥ praketaḥ andhakārāvṛtasya sarvasya padārthasya prajñāpakastadīyo raśmirvibhvā vibhurvyāptaḥ san ajaniṣṭa | prādurabhūt | kiṃca | yathā rātriḥ svayaṃ savituḥ sūryaprakāśāt prasūtā utpannā | sūryo hastaṃ gacchan rātriṃ janayati | tasminnastamite rātrerutpattyabhāvāt | evameva rātrirapi uṣase savāya uṣasaḥ utpattaye tadarthaṃ yoniṃ sthānaṃ svakīyāparabhāgalakṣaṇamāraik | arecitavatī | kalpitavatītyarthaḥ | yadvā | prasūtā rātriḥ savituḥ sūryasya savāya prasavāya janmane yathā bhavati evaṃ rātrirapi uṣasaḥ ujjanma tadarthaṃ yoniṃ svāparabhāgalakṣaṇaṃ sthānaṃ kṛtavatī | atra niruktam | idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāt citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasyaivaṃ rātryuṣase yonimaricat sthānam | ni. 2-19 | iti | śreṣṭham | praśasyasya śraḥ | pā. 5-3-60 | iti śrādeśaḥ | prakṛtyaikāc | pā. 6-4-163 | iti prakṛtibhāvātṭerlopābhāvaḥ | āgāt |*
+
 *Sense (mine):* "Among the lights — planets, stars and the like, the shining ones — this light, the deity of Uṣas, is the best (*śreṣṭha*), the most praiseworthy. If one asks what its superiority is: the light of stars etc. illuminates only itself, not anything else; the moon too, though it illuminates other things, does not give a clear light; but the light of Uṣas, at one stroke, shows up the whole world especially by removing the darkness. Hence 'most praiseworthy'. Such a light has come, in the eastern quarter. And when it has come, a wonderful (*citra*), worshipful *praketa* — her ray, which makes known every object covered by darkness, pervading (*vibhvā*) — was born, appeared. Further: as Night, being herself born from the light of Savitṛ the Sun [—the Sun, going to his setting, produces Night; when he has set, Night has no birth otherwise—] so Night also, for the birth (*savāya*) of Uṣas, has prepared (*āraik*, 'emptied, arranged') a *yoni* (place) of her own, namely her latter part. Or: as Night, when born, is for the birth of Savitṛ the Sun, so Night has made for the birth of Uṣas the place, i.e. her own latter portion." Nirukta cited: "*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāt …*" (Ni. 2-19 [?]) — a paraphrase of the Ṛk.
 
 *Grammatical tail (characterized, not transcribed):* *śreṣṭha* — the superlative-suffix *iṣṭhan* with the substitution *śra* for *praśasya* (Pā. 5-3-60), and the grammatical point that the monosyllabic stem retains its natural form so the *ṭi*-elision does not occur (Pā. 6-4-163); *āgāt* — … (continues on the next page).
@@ -475,11 +477,16 @@ Grammar page, Kannada, on the words *śreṣṭham* (suffix *iṣṭhan*, the su
 > रुशत्ऽवत्सा । रुशती । श्वेत्या । आ । अगात् । अरैक् । ऊं इति । कृष्णा । सदनानि । अस्याः ।
 > समानबन्धू इति समानऽबन्धू । अमृते इति । अनूची इति । द्यावा । वर्णम् । चरतः । आमिनाने इत्याऽमिनाने ॥ २ ॥
 
+> *ruśat 'vatsā | ruśatī | śvetyā | ā | agāt | araik | ūṃ iti | kṛṣṇā | sadanāni | asyāḥ |*
+> *samānabandhū iti samāna 'bandhū | amṛte iti | anūcī iti | dyāvā | varṇam | carataḥ | āmināne ityā 'mināne ‖ 2 ‖*
+
 *(Reading note after viewing the Pada: the Saṃhitā's* ārāigu *is the Pada's* arāik *+* ūṃ iti*; so the Saṃhitā's printed final* gu *stands for the Pada's* k *+ the particle* ū*; and Ṛk 1's* ārāik *is the same form, which supports the doubtful* arāik *reading there.)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.2)**
 
 > श्वेत्येत्युषसो नामधेयम् । रुशती दीप्ता । श्वेत्या श्वेतवर्णोषा रुशद्वत्सा रुशद्दीप्तः सूर्यो वत्सो यस्याः सा तथोक्ता । यथा मातुः समीपे वत्सः संचरति । एवमुषसः समीपे सूर्यस्य नित्यमवस्थानात्तद्वत्त्वम् । अथवा यथा वत्सो मातुः स्तन्यं रसं पिबन्दरति [?] । एवमुषसोऽवश्यायाख्यं रसं पिबन्वत्स इत्युच्यते । तादृशी सत्यागात् । आगतवती । आगतायाः अस्याः उषसः कृष्णा कृष्णवर्णा रात्रिः सदनानि स्थानानि स्वकीयान्त्यार्धयामलक्षणान्यारैक् । अरेचितवती । कल्पितवतीत्यर्थः । ऊ इत्येतत्पदपूरणम् । अपि चैते रात्र्युषसौ समानबन्धू समानेनैकेन सूर्यात्मकेन बन्धुना सख्या युक्ते । यद्वा । सूर्येण सह [continues on the next page]
+
+> *śvetyetyuṣaso nāmadheyam | ruśatī dīptā | śvetyā śvetavarṇoṣā ruśadvatsā ruśaddīptaḥ sūryo vatso yasyāḥ sā tathoktā | yathā mātuḥ samīpe vatsaḥ saṃcarati | evamuṣasaḥ samīpe sūryasya nityamavasthānāttadvattvam | athavā yathā vatso mātuḥ stanyaṃ rasaṃ pibandarati [?] | evamuṣaso 'vaśyāyākhyaṃ rasaṃ pibanvatsa ityucyate | tādṛśī satyāgāt | āgatavatī | āgatāyāḥ asyāḥ uṣasaḥ kṛṣṇā kṛṣṇavarṇā rātriḥ sadanāni sthānāni svakīyāntyārdhayāmalakṣaṇānyāraik | arecitavatī | kalpitavatītyarthaḥ | ū ityetatpadapūraṇam | api caite rātryuṣasau samānabandhū samānenaikena sūryātmakena bandhunā sakhyā yukte | yadvā | sūryeṇa saha [continues on the next page]*
 
 *Sense (mine):* "*Śvetī* is a name of Uṣas. *Ruśatī* = shining. White-coloured Uṣas, *ruśadvatsā*: she who has the bright Sun as her calf (*vatsa*): as a calf moves about near its mother, so, because the Sun constantly stays near Uṣas, she is so called. Or: as a calf drinks the mother's milk, so (the Sun) drinks the juice called *avaśyāya* (dew) of Uṣas, and is therefore called *vatsa* [the printed verb is doubtful]. Such Uṣas has come. After she has come, black Night has made ready (*āraik*) the places (*sadanāni*) — her own last half-watch (*yāma*) — i.e. has arranged them. *Ū* is a mere filler. And these two, Night and Uṣas, are *samānabandhū*, 'joined by one common kinsman or friend, who is the Sun'; or: with the Sun …" *(continues)*
 
@@ -490,6 +497,8 @@ Grammar page, Kannada, on the words *śreṣṭham* (suffix *iṣṭhan*, the su
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.2), continued from p. 9**
 
 > सम्बद्धे । यथोषा उदेष्यता सूर्येण सम्बद्धा एवं रात्रिरप्यस्तंयता सूर्येण सम्बद्धा । अमृते मरणरहिते कालात्मकतया नित्यत्वात् । अनूची अनुपूर्वमञ्चतो गच्छन्त्यौ । प्रथमं रात्रिः पश्चादुषा इत्यनेन क्रमेण गच्छन्त्यौ । यद्वा सूर्यगत्यैवानुसारेण गच्छन्त्यौ । एवम्भूते वर्णं सर्वेषां प्राणिनां रूपमामिनाने जरयन्त्यौ । यद्वा स्वकीयं रूपं हिंसन्त्यौ । उषसा स्वैशं तमो निवर्तते । प्रकाशात्मकमुषसो रूपं रात्र्या । एवंविधे सत्यौ द्यावा द्योतमाने चरतः । प्रतिदिवसमावर्तेते । यद्वा । द्यावा नभःसान्तरिक्षमार्गेण चरतः प्रतिदिवसं गच्छतः । अत्र निरुक्तम् । रुशद्वत्सा सूर्यवत्सा रुशदिति वर्णनाम रोचतेर्ज्वलतिकर्मणः । सूर्यमस्या वत्समाहुः साहचर्याद्रसहरणाद्वा । रुशती श्वेत्यागात् । श्वेत्या श्वेततेः । आरैगु कृष्णा सदनान्यस्याः कृष्णवर्णा रात्रिः कृष्णं कृष्यतेर्निकृष्टो वर्णः । अमृते अमरणधर्माणौ । अनूची अनुगते इतरेतरमभिप्रेत्य । द्यावा वर्णं चरतः । आमिनाने अन्योन्यस्याध्यात्मं कुर्वाणे । नि. २-२० ॥ [the Nirukta passage read from this page as printed; doubtful words [?]]
+
+> *sambaddhe | yathoṣā udeṣyatā sūryeṇa sambaddhā evaṃ rātrirapyastaṃyatā sūryeṇa sambaddhā | amṛte maraṇarahite kālātmakatayā nityatvāt | anūcī anupūrvamañcato gacchantyau | prathamaṃ rātriḥ paścāduṣā ityanena krameṇa gacchantyau | yadvā sūryagatyaivānusāreṇa gacchantyau | evambhūte varṇaṃ sarveṣāṃ prāṇināṃ rūpamāmināne jarayantyau | yadvā svakīyaṃ rūpaṃ hiṃsantyau | uṣasā svaiśaṃ tamo nivartate | prakāśātmakamuṣaso rūpaṃ rātryā | evaṃvidhe satyau dyāvā dyotamāne carataḥ | pratidivasamāvartete | yadvā | dyāvā nabhaḥsāntarikṣamārgeṇa carataḥ pratidivasaṃ gacchataḥ | atra niruktam | ruśadvatsā sūryavatsā ruśaditi varṇanāma rocaterjvalatikarmaṇaḥ | sūryamasyā vatsamāhuḥ sāhacaryādrasaharaṇādvā | ruśatī śvetyāgāt | śvetyā śvetateḥ | āraigu kṛṣṇā sadanānyasyāḥ kṛṣṇavarṇā rātriḥ kṛṣṇaṃ kṛṣyaternikṛṣṭo varṇaḥ | amṛte amaraṇadharmāṇau | anūcī anugate itaretaramabhipretya | dyāvā varṇaṃ carataḥ | āmināne anyonyasyādhyātmaṃ kurvāṇe | ni. 2-20 ‖ [the Nirukta passage read from this page as printed; doubtful words [?]]*
 
 *Sense (mine):* "… *sambaddhe* (connected): as Uṣas, about to appear, is connected with the Sun, so Night too, as the Sun sets, is connected with him. *Amṛte* — free from death, being eternal by their nature as Time. *Anūcī* — going one after the other: first Night, afterwards Uṣas, going in this order; or going following the Sun's course. Being such, they *āmināne* — wear out (age) the *varṇa*, the form, of all living beings; or they destroy each its own form: by Uṣas the darkness of Night is turned back, and the luminous form of Uṣas by Night. Being thus, they roam (*carataḥ*) shining (*dyāvā*), revolving every day; or they go along the sky and atmosphere each day." Yāska is then cited (Ni. 2-20): "*ruśadvatsā* = having the Sun as calf; *ruśat* is a name for colour, from *ruc* 'to shine'…; they call the Sun her calf, from association or from drawing off the juice; *śvetyā* from *śvit*; *kṛṣṇā* — Night, black, dark colour; *amṛte* — two of non-dying nature; *anūcī* — following each other; *āmināne* — doing the work of one another…" *(sense given from the print; the last clauses are tersely worded and a little doubtful [?])*
 
@@ -530,7 +539,10 @@ Grammar page, Kannada, on the words *śreṣṭham* (suffix *iṣṭhan*, the su
 *Ruśadvatsā* — "the word means 'a calf who has lustre': the Sun. *Ruśat* is, as Sāyaṇa explains, a word derived from the root *ruc*, with the meaning 'lustre' (*kānti*). Likewise he establishes the sonship (*putratva*, *vatsabhāva*) of the Sun in relation to Uṣas. And in order to make firm the meaning stated by the Ṛk *idaṃ śreṣṭhaṃ*, this second Ṛk *ruśadvatsā* has arisen. The last part of Night is called Uṣas — so they point out Uṣas-time. Skandasvāmin, Sāyaṇa and Yāska, as they establish, explain also in another way the sonship of the Sun in respect of Uṣas. They quote also a passage of the Aitareya Brāhmaṇa —
 
 > वत्स इत्यादित्य उच्यते । स ह्युषसो वत्सस्थानीयः अपत्यत्वात् । श्रुतेर्दर्शनात् । एवं हि श्रुतौ श्रूयते — प्रजापतिर्वै स्वां दुहितरमभ्यध्यायत् । दिवमित्यन्य आहुरुषसमित्यन्ये । तामृश्यो भूत्वा रोहितं भूतामभ्यैत् (ऐ. ब्रा. ३-३३ [?]) इत्येवमाद्युपक्रम्य । तद्वा इदं प्रजापतेः रेतः सिक्तमधावत्तदपसरोऽभवत् (ऐ. ब्रा. ३-३३ [?]) इति च । तदग्निना वैश्वानरेण पर्योढधुः [?] तं मरुतोऽघ्नन् [?] । तदग्निर्वैश्वानरः प्रत्यायावयत् [?] । तस्य यद्रेतः प्रथममुदधीयत तदसावादित्योऽभवत् (ऐ. ब्रा. ३-३४ [?]) इत्येवं प्रजापतेः रेतसः उषसि जात आदित्य इति श्रूयते । अतस्तदुपपन्नमस्य अपत्यत्वम् ॥
-> *(The Sanskrit is copied letter by letter from the Kannada-script print; the words marked [?] are doubtful; the reference numerals are small and I give them only as read.)*
+
+> *vatsa ityāditya ucyate | sa hyuṣaso vatsasthānīyaḥ apatyatvāt | śruterdarśanāt | evaṃ hi śrutau śrūyate — prajāpatirvai svāṃ duhitaramabhyadhyāyat | divamityanya āhuruṣasamityanye | tāmṛśyo bhūtvā rohitaṃ bhūtāmabhyait (ai. brā. 3-33 [?]) ityevamādyupakramya | tadvā idaṃ prajāpateḥ retaḥ siktamadhāvattadapasaro 'bhavat (ai. brā. 3-33 [?]) iti ca | tadagninā vaiśvānareṇa paryoḍhadhuḥ [?] taṃ maruto 'ghnan [?] | tadagnirvaiśvānaraḥ pratyāyāvayat [?] | tasya yadretaḥ prathamamudadhīyata tadasāvādityo 'bhavat (ai. brā. 3-34 [?]) ityevaṃ prajāpateḥ retasaḥ uṣasi jāta āditya iti śrūyate | atastadupapannamasya apatyatvam ‖*
+
+(Note: The Sanskrit is copied letter by letter from the Kannada-script print; the words marked [?] are doubtful; the reference numerals are small and I give them only as read.)
 
 Sense (Kannada, as explained): "In the 3rd [book?], khaṇḍas 33 and 34 [as printed, [?]] of the Aitareya Brāhmaṇa it is said that Āditya is the son of Uṣas. Prajāpati, i.e. Brahmā, set his mind on enjoying his own daughter Div ('heaven') or Uṣas (some say the one, others the other); she took the form of a doe, he assumed the form of a stag. When Brahmā's semen fell, Vaiśvānara (Agni) held it; the Maruts too … and Vaiśvānara brought it back. The first portion of Brahmā's seed took the form of Āditya. Thus it is said that Āditya was born, by Prajāpati, in Uṣas, from his seed, and so the sonship of the Sun in relation to Uṣas is explained. And they say (the bhāṣya) '*yadvā prātaḥ prātaḥ uṣasaḥ sakāśād ādityo jāyate tadabhiprāyam asyā patyatvam*' [sic — the printed *patyatvam*; the sense is *apatyatvam*, "sonship"]: or, every morning, from near Uṣas the Sun is born — this is the intention of the (word) 'sonship'; since every morning the Sun's rising is only from Uṣas, the Sun is the calf of Uṣas, and in this way too the sonship of the Sun in relation to Uṣas may be said."
 
@@ -649,11 +661,16 @@ Grammar page on the words *ruśadvatsā* (a *bahuvrīhi*, the first member keeps
 > समानः । अध्वा । स्वस्रोः । अनन्तः । तम् । अन्याऽअन्या । चरतः । देवशिष्टे इति देवऽशिष्टे ।
 > न । मेथेते इति । न । तस्थतुः । सुमेके इति सुऽमेके । नक्तोषसा । समनसा । विरूपे इति विऽरूपे ॥ ३ ॥
 
+> *samānaḥ | adhvā | svasroḥ | anantaḥ | tam | anyā 'anyā | carataḥ | devaśiṣṭe iti deva 'śiṣṭe |*
+> *na | methete iti | na | tasthatuḥ | sumeke iti su 'meke | naktoṣasā | samanasā | virūpe iti vi 'rūpe ‖ 3 ‖*
+
 *(Reading note after viewing the Pada: the Saṃhitā's* nak-toṣāsā *is the Pada's* naktoṣasā *(shortened); the Saṃhitā's* anyānyā *is the Pada's* anyā-anyā*, with the avagraha as printed.)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.3)**
 
 > स्वस्रोर्भगिन्योः रात्र्युषसोरध्वा सञ्चरणसाधनभूतो मार्गः समान एक एव । येनैवाकाशमार्गेणोषा निर्गच्छति तेनैव रात्रिरपि । स च मार्गोऽनन्तोऽवसानरहितः । तं मार्गं देवशिष्टे देवेन द्योतमानेन सूर्येणानुशिष्टे शिक्षिते सत्यावन्यान्या एकैका चरतः । क्रमेण गच्छतः । अपि च सुमेके शोभनमेहने सर्वेषामुत्पादकत्वात् शोभनप्रजनने नक्तोषासा रात्रिरुषाश्च विरूपे तमःप्रकाशलक्षणाभ्यां विरुद्धरूपाभ्यां युक्ते अपि समनसा समानमनस्के ऐकमत्यं प्राप्ते सत्यौ न मेथेते । परस्परं न हिंस्तः । तथा न तस्थतुः । कचिदपि न तिष्ठतः । सर्वदा लोकानुग्रहार्थं गच्छत इत्यर्थः ॥
+
+> *svasrorbhaginyoḥ rātryuṣasoradhvā sañcaraṇasādhanabhūto mārgaḥ samāna eka eva | yenaivākāśamārgeṇoṣā nirgacchati tenaiva rātrirapi | sa ca mārgo 'nanto 'vasānarahitaḥ | taṃ mārgaṃ devaśiṣṭe devena dyotamānena sūryeṇānuśiṣṭe śikṣite satyāvanyānyā ekaikā carataḥ | krameṇa gacchataḥ | api ca sumeke śobhanamehane sarveṣāmutpādakatvāt śobhanaprajanane naktoṣāsā rātriruṣāśca virūpe tamaḥprakāśalakṣaṇābhyāṃ viruddharūpābhyāṃ yukte api samanasā samānamanaske aikamatyaṃ prāpte satyau na methete | parasparaṃ na hiṃstaḥ | tathā na tasthatuḥ | kacidapi na tiṣṭhataḥ | sarvadā lokānugrahārthaṃ gacchata ityarthaḥ ‖*
 
 *Sense (mine):* "The path (*adhvā*), the means of travel, of the two sisters Night and Uṣas is one and the same; by whatever sky-way Uṣas goes out, by that same Night too. That path is endless, without end. When that path has been taught (*anuśiṣṭe*, instructed) by the shining god, the Sun, the two (*devaśiṣṭe*) move one after the other, in order. Moreover, *sumeke* — having good (*su*) *meha* (generative power), being producers of all — Night and Uṣas, *virūpe*, being of opposite forms by the marks of darkness and light, yet being *samanasā*, of one mind (having come to agreement), *na methete*: do not injure each other; and *na tasthatuḥ*: do not stand still anywhere — they go always for the benefit of the world."
 
@@ -661,4 +678,54 @@ Grammar page on the words *ruśadvatsā* (a *bahuvrīhi*, the first member keeps
 
 ---
 
-**Progress note:** Sūkta 113: Ṛk 3 Saṃhitā, Pada and bhāṣya done (printed pp. 17–18, PDF 37–38). Next: printed p. 19 (PDF 39) — Ṛk 3 pratipadārtha, bhāvārtha, English, special topics. Open: Pā. numerals unnamed; Ṛk-2 items as before.
+### Printed p. 19  (PDF 39; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*svasroḥ* — of the sisters Night and Uṣas; *adhvā* — the path of going about; *samānaḥ* — one and the same (and); *anantaḥ* — without end; *tam* — in that path; *devaśiṣṭe* — taught by the Sun; *anyānyā* — one after the other, in order; *carataḥ* — go about; *sumeke* — producers of all things; *naktoṣāsā* — Night and Uṣas; *virūpe* — though of forms opposed to each other; *samanasā* — of one mind; *na methete* — they do not obstruct each other (and); *na tasthatuḥ* — do not stand still in one place."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"For both Night and Uṣas the path of going about is one; and it is without end; both, taught by the Sun, go about in one and the same order; though their forms are different, the work intended for both is one. Therefore, being producers of all things, they do not thwart each other, nor stand in one place; they go on moving always."
+
+**English Translation (as printed)**
+
+> The path of the sisters is unending; they travel it alternately, guided by the radiant (sun); combined in purpose, though of different forms, night and dawn, giving birth (to all things), obstruct not each other, neither do they stand still.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**स्वस्रोः** — *Svasroḥ.* "*bhaginyoḥ rātryuṣasoḥ*" (Skandasvāmin):
+
+> रात्र्युषसौ ह्येकेन प्रजापतिना आदित्येन वा जन्येते इति उपपन्नमनयोर्भगिनीत्वम् ॥
+
+> *rātryuṣasau hyekena prajāpatinā ādityena vā janyete iti upapannamanayorbhaginītvam ‖*
+
+"Night and Uṣas, as the two born from one — Brahmā (Prajāpati) or Āditya — are therefore *bhaginī* (sisters, born of the same). Or, since both move on one and the same path, they are called sisters."
+
+**देवशिष्टे** — *Devaśiṣṭe* (Skandasvāmin):
+
+> शासिरत्र शुद्धोऽपि सामर्थ्यात् सोपसर्गार्थो द्रष्टव्यः । सर्वप्राणिनामुपकाराय देवैरनुशिष्टे । अनुज्ञाते इत्यर्थः ॥
+
+> *śāsiratra śuddho 'pi sāmarthyāt sopasargārtho draṣṭavyaḥ | sarvaprāṇināmupakārāya devairanuśiṣṭe | anujñāte ityarthaḥ ‖*
+
+"The root *śās*, though here used without a prefix, must be understood, by its capacity, as having the meaning with a prefix (*anu-śās*). 'Directed (*anuśiṣṭe*) by the gods for the benefit of all living beings'; that is, 'permitted'." The Kannada: "Although the root *śāsu* is here used without any prefix, it should here be taken as having the sense expressed by the prefix. To do good to all beings they were granted permission by the gods."
+
+### Printed p. 20  (PDF 40; header "Maṃ. 1 A. 16 Sū. 113")
+
+"… and he explains that the two (Night and Uṣas) are intent on doing good to the world. Sāyaṇa [explains] *devena dyotamānena sūryeṇa anuśiṣṭe śikṣite*: Night and Uṣas, who are taught by the shining Sun, move in one and the same path in order: along the path where Night has moved, Uṣas moves; and again, along the path where Uṣas has moved, Night moves — so he explains the meaning."
+
+**विरूपे समनसा न मेथेते** — *Virūpe samanasā na methete.* "Night has the form of darkness; Uṣas has the form of her own light. Therefore, since the two have no common colour, they are called *virūpe*. Yet both Night and Uṣas are one in intention and of one mind in the work of doing good to the world. Still, the two never meet in one place: they remain separate. One follows the other: after the day comes Night, after the night comes the Uṣas-time, going on following each other. Skandasvāmin, since the root *methṛ* is used here in the sense of 'to curse (*ākrośana*)', explains: they work always without grumbling; they do not scold (curse) one another."
+
+**सुमेके** — *Sumeke* (Skandasvāmin):
+
+> सुमेके — मेकशब्दो मुखवचन इति केचिदाहुः । सुमुख्यौ । सृष्टेः प्रथमः संवत्सरः मेक इत्युच्यते इत्येके । तथाह । मेकसंवत्सरः ऋतवो मेकपुत्रा इति पौराणिकाः स्मरन्ति । शोभनो मेको ययोः सम्बन्धी सृष्टिकालजन्यतया के सुमेके । आद्यसंवत्सरसृष्टे इत्यर्थः ॥ [reading of *tathāha* and *ke* doubtful [?]]
+
+> *sumeke — mekaśabdo mukhavacana iti kecidāhuḥ | sumukhyau | sṛṣṭeḥ prathamaḥ saṃvatsaraḥ meka ityucyate ityeke | tathāha | mekasaṃvatsaraḥ ṛtavo mekaputrā iti paurāṇikāḥ smaranti | śobhano meko yayoḥ sambandhī sṛṣṭikālajanyatayā ke sumeke | ādyasaṃvatsarasṛṣṭe ityarthaḥ ‖ [reading of *tathāha* and *ke* doubtful [?]]*
+
+"Of the *sumeke* that Skandasvāmin and Sāyaṇa say, *śobhanamehane* — all being producers, 'those who have an excellent generative power (*indriya*) as the means for the birth of all' — he gives yet another meaning. 'Because the word *meka* denotes "face" (*mukha*), they are those with beautiful faces' — so they say; and since the first year of creation is called *meka* and the Purāṇic writers remember '*meka*-year; the seasons are *meka*'s sons', those whose connection is with that fine *meka*, i.e. who, as born at the time of creation, belong to the first year: the Night and Uṣas created in the first year (*saṃvatsara*) of creation — so he explains, connecting with the Aṅgirases' [as the Kannada says: the sons of Meka are the seasons]."
+
+**अन्यान्या** — *Anyānyā* — "*ekaikā*": "*karmavyatihāre sarvanāmno dve bhavata iti vaktavyaṃ samāsavac ca bahulam* — the word *anya* … (Sāyaṇa [explains]): in a pronoun-word, which expresses reciprocal action, doubled and joined as a compound; for the sense of *anyonya*, 'each other'." *(The sentence is cut at the foot of the page; it continues on p. 21.)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛk 3 through Special Topics to printed p. 20 (PDF 40), mid-topic *anyānyā* — continues on p. 21. Next: printed p. 21 (PDF 41). Note: IAST wrapper at /tmp scratchpad `iast.py` (stock add_iast.py skips a Devanagari block when the next line starts with `*`; keep notes after blocks free of a leading `*`). Open: Skandasvāmin quote on *sumeke* `[?]`; Pā. numerals unnamed.
