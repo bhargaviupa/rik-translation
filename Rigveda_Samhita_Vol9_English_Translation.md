@@ -9333,4 +9333,52 @@ In explaining this Ṛk, Sāyaṇa quotes:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–18 complete; Ṛk 19 through printed p. 389 (PDF 409): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 390). Next: printed p. 390 (PDF 410). Numerals as read from the page (list stops at printed p. 380): Ni. 6-13, Ni. 1-2, Ṛ. 2-28-4 `[as read]`.
+### Printed p. 390  (PDF 410; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 19, continued)*
+
+> ब्रह्म जज्ञानं प्रथमं पुरस्ताद्वि सीमतः सुरुचो वेन आवः ।
+> (वा. सं. १३-३ [as read])
+
+> *brahma jajñānaṃ prathamaṃ purastādvi sīmataḥ suruco vena āvaḥ |*
+> *(vā. saṃ. 13-3 [as read])*
+
+"The word *sīm* is a word without meaning; it is an indeclinable (*avyaya*) used to complete the sentence — so he explains, and gives the example of *pra sīm ādityaḥ*, quoted above. He explains that in the sentence *visīmataḥ suruco vena āvaḥ* the word *sīm* too, like the word *sīm* [in the former], is without meaning, but it indicates 'limit' (*maryādā*, 'boundary')" — thus Skandasvāmin says:
+
+> स्रामशब्दः । द्वाभ्यां स्रामः स्वप्नाय अन्धं अधमाय बधिरम् (वा. सं. ३०-१०) इति पुरुषमेधमन्त्रेषु प्रयोगदर्शनात् काणवचनः । तं कक्षीवन्तं अन्धं त्रिकालविषयसर्वार्थविषयज्ञानप्रदानेन पालयन्तौ वां आहूतवतीं पुरन्धिं वध्रिमतीं हिरण्यहस्तप्रदानेन पालयन्ताविव्यर्थः [?] ॥ [as read; small type]
+
+> *srāmaśabdaḥ | dvābhyāṃ srāmaḥ svapnāya andhaṃ adhamāya badhiram (vā. saṃ. 30-10) iti puruṣamedhamantreṣu prayogadarśanāt kāṇavacanaḥ | taṃ kakṣīvantaṃ andhaṃ trikālaviṣayasarvārthaviṣayajñānapradānena pālayantau vāṃ āhūtavatīṃ purandhiṃ vadhrimatīṃ hiraṇyahastapradānena pālayantāvivyarthaḥ [?] ‖ [as read; small type]*
+
+"The word *srāma* means 'blind', or 'deaf', for it is seen so used in the *Puruṣamedha* mantras [Vāj. Saṃ. 30-10]: by this, he gives the Aśvins, who gave the blind Kakṣīvat — to protect him — the eye that is the divine knowledge that sees things of the three times and all matters, which they gave to him; and he explains that they bestowed on Vadhrimatī [Purandhi], who called them, the golden-handed [son]."
+
+"*Srāma* means blind or deaf; and the Aśvins gave to Kakṣīvat, who was blind, the sight so that he could act in worldly business, and not only that, they graciously gave him also the divine knowledge-producing intellect — an eye that sees what is possible in the three times: past, present and future." And quoting:
+
+> युवं नरा स्तुवते पज्रियाय कक्षीवते अरदतं पुरन्धिम् ।
+> (ऋ. सं. १-११६-७)
+
+> *yuvaṃ narā stuvate pajriyāya kakṣīvate aradataṃ purandhim |*
+> *(ṛ. saṃ. 1-116-7)*
+
+"— he quotes this Ṛk. And *purandhi* means 'one having much intelligence', Vadhrimatī: to show that she received from the Aśvins a golden-handed (*hiraṇyahasta*) son, he quotes:"
+
+> अजोहवीन्नासत्या करा वां महे यामन्पुरुभुजा पुरन्धिः ।
+> श्रुतं तच्छासुरिव वध्रिमत्या हिरण्यहस्तमश्विनावदत्तम् ॥
+> (ऋ. सं. १-११६-१३)
+
+> *ajohavīnnāsatyā karā vāṃ mahe yāmanpurubhujā purandhiḥ |*
+> *śrutaṃ tacchāsuriva vadhrimatyā hiraṇyahastamaśvināvadattam ‖*
+> *(ṛ. saṃ. 1-116-13)*
+
+"— he quotes this Ṛk."
+
+---
+
+### Printed p. 391  (PDF 411; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 19; grammar page, noted briefly; sūtra numbers as read — no list entry)**
+
+*Mahī* — root *maha pūjāyām*; in the sense of *laṭ*, suffix *śatṛ*; since it is *ugit*, in the feminine *ugitaś ca*, *ṅīp*; with *mahat* [as base], by Vedic usage the *t* is elided. Or: from the root *maha*, *in sarvadhātubhyaḥ* [as printed *in sarvadhātubhya iN*; Uṇ. sū. 4-118 as read [?]], the suffix *in*; with *mahi* [as base], in the feminine *kṛdikārād aktinaḥ*, *ṅīṣ*; by the suffix's accent the final acute. *Ūtiḥ* — *ūtiyūtijūti…* (Pā. 3-3-97 as read), the suffix *ktin*, the acute on the first syllable, formed irregularly. *Aśvinā* — *supāṃ sulug* (Pā. 7-1-39), *ā* for the case ending; *āmantritasya ca* (Pā. 8-1-19), the *nighāta* accent. *Mayobhūḥ* — *mayasaḥ bhāvayitrī mayobhūḥ*: when the causative sense is included, the root *bhū* [takes] *kvip ca* (Pā. 3-2-76), the suffix *kvip*; *gatikārakopapadāt kṛt* (Pā. 6-2-139), the *kṛdanta* hind-part keeps its natural accent. *Dhiṣṇyā* — *supāṃ sulug*, *ā* for the dual; the *nighāta* accent for an *āmantrita*. *Riṇīthaḥ* — root *rī gatireṣaṇayoḥ*, *kryādi*; *laṭ*, second person dual, *thas*; *kryādibhyaḥ śnā* (Pā. 3-1-81), *śnā* vikaraṇa; *snādīnāṃ hrasvaḥ* (Pā. 7-3-80), shortening of the root; the suffix being *apit* by *sārvadhātukam apit*, *ṅit*; since it is *hal*-initial, *ī halyaghoḥ* (Pā. 6-4-113), *ī* for the *ā* of the *śnā* suffix; *āṭ kuppvāṅ num* [as read], *ṇatva*; the form *riṇīthaḥ*; since it stands after an *ajanta*, *nighāta*. *Atha* — *nipātasya ca* (Pā. 6-3-136 as read), in the Saṃhitā lengthening. *Purandhiḥ* — *pṛṣodarādīni yathopadiṣṭam* (Pā. 6-3-109), by which the form is obtained. *Agacchatam* — root *gam̐ḷ gatau*; *laṅ*, second person dual; *tiṅanta nighāta*. *Avobhiḥ* — root *av rakṣaṇe*; *sarvadhātubhya asun* (Uṇ. sū. 4-188 as read [?]), the suffix *asun*; since it is *nit*, the initial acute; instrumental plural. ‖ 19 ‖
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–19 complete (printed p. 391, PDF 411). Next: printed p. 392 (PDF 412): Ṛk 20 Saṃhitā. Numerals as read from the page (list stops at printed p. 380): Vāj. Saṃ. 13-3, 30-10; Ṛ. 1-116-7, 1-116-13; grammar sūtra numbers `[as read]`.
