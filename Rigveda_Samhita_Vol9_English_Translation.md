@@ -12239,4 +12239,42 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–4 complete; Ṛk 5 through printed p. 513 (PDF 533): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 514). Next: printed p. 514 (PDF 534). Numerals as read: Pā. 6-1-89-1 `[as read]`.
+### Printed p. 514  (PDF 534; header "Maṃ. 1 A. 17 Sū. 120")
+
+*(Special Topics of Ṛk 5, continued)* "… [*pajriyaḥ* is used] *parokṣarūpeṇa prathamapuruṣeṇa nirdeśaḥ* — 'the statement in the indirect, third-person form'. Yāska, explaining that the word *pājas* is stated among the names of strength (Ni. 2-9 [as read]) and *pājaḥ pālanāt* (Ni. 6-?? [as read]), gives *pāja* the meaning 'strength'. Since food produces strength, Skandasvāmin, admitting a transfer of sense from effect to cause, explains the word *pāja* as 'food', and explains *pajriyaḥ* as one who offers the food in the form of oblation. And [another meaning]: *pajrāḥ* are the Aṅgirasa ṛṣis; one born in their line is *pajriyaḥ*. (Here) in this Ṛk, by the third-person form (*parokṣa*), it is explained that Kakṣīvān himself is *pajriyaḥ*, born in the family of the Aṅgirasa ṛṣis."
+
+"As the words of praise of the ṛṣi Suhastya, son of the woman Ghoṣā, which praise the Aśvins, shine, so the words of praise of Kakṣīvān shine. Kakṣīvān, expert in praising, desirous of food and so on, praises, and, offering oblations, [prays] that the Aśvins' favour should be on him for the fulfilment of his wishes — this is described."
+
+*Iṣayurna* — *annakāma iva kaścit yuṣmanmāhātmyaṃ vā yaṣṭuṃ vā jānan*: "'Like one who wishes to obtain food and so on, knowing the greatness of the Aśvins, or acting so that he may offer sacrifice with regard to them' — in this matter too, Skandasvāmin, by giving a comparison (*upamāna*) and explaining the sense of the sentence, explains that two comparisons are intended by the two sentences here."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Ghoṣe* — *Ghoṣā* is the name of Kakṣīvān's daughter. She was a *brahmavādinī*. Here, since the usage is figurative (*aupacārika*), the noun that denotes her is used for her son. *Bhṛgavāṇe* — *ciraṃtano bhṛgur ivācarati bhṛgavati*; *sarvaprātipadikebhyaḥ kvib vā vaktavyaḥ* — by this statement, *kvip*; since it is read in the *sanādi* group, *sanādyantā dhātavaḥ* (Pā. 3-1-32 as read), it gets the *dhātu* name; in the sense of *laṭ*, by *vyatyaya* the suffix *śānac*; *śap* vikaraṇa; on that account, *guṇa* of the *u* of the base, *av*; *āgamānuśāsanam anityam* — by this statement the *muk* augment does not occur for the *a*-ending; since the *ṛ*-sound is the cause, *ṇatva* of the *n*; since it is read in the *vṛṣādi* group, by *vṛṣādīnāṃ ca* (Pā. 6-1-203 as read) the initial acute, though *citsvara* was obtained. *Śobhe* — root *śubha dīptau*; *laṭ*, third person singular, the suffix *ta*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read), *e*; *śap* vikaraṇa; *pugantalaghūpadhasya ca* (Pā. 7-3-86 as read), …
+
+---
+
+### Printed p. 515  (PDF 535; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(…concluded)* "… *guṇa* [of the light penultimate]; *lopas ta ātmanepadeṣu* (Pā. 7-1-41 as read), elision of the *t* of the suffix; since the word *yat* is connected, no *nighāta*; since the *lasārvadhātuka* is *anudātta*, the root's accent remains. *Vācā* — *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168 as read), the acute on the case ending. *Iṣayuḥ* — root *iṣa gatau*; "*iṣyati gacchati iti iṣam annam*"; the root has *ik* as a penultimate, so *igupadhajñāprīkiraḥ kaḥ* (Pā. 3-1-135 as read), the suffix *ka*; since it is *kit*, *guṇa* does not occur. Or: root *iṣu icchāyām*; "*iṣyate sarvaiḥ prāṇibhiḥ iti iṣam annam*"; by *vyatyaya*, the agent suffix in the passive sense; "*iṣam ātmana icchati*" — *iṣayati*: *supa ātmanaḥ kyac* (Pā. 3-1-8 as read), the suffix *kyac*; *na cchandasy aputrasya* (Pā. 7-4-35 as read), the lengthening etc. do not come; after the *kyajanta*, in the agent sense, *kyāc chandasi* (Pā. 3-2-170 as read), the suffix *u*; *ato lopaḥ*, elision of the *a* of *kyac*; by the suffix's accent the final acute; when *pra* + *iṣayuḥ*, in the Saṃhitā, *prādūhoḍhodhyeṣaiṣyeṣu vṛddhir vaktavyā* (Pā. 6-1-89 vārttika as read), *vṛddhi* arises. ‖ 5 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.6)**
+
+> श्रुतं गायत्रं तकवानस्याहं चिद्धि रिरेभाश्विना वाम् ।
+> आक्षी शुभस्पती दन् ॥ ६ ॥
+
+> *śrutaṃ gāyatraṃ takavānasyāhaṃ ciddhi rirebhāśvinā vām |*
+> *ākṣī śubhaspatī dan ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.6)**
+
+> श्रुतम् । गायत्रम् । तकवानस्य । अहम् । चित् । हि । रिरेभ ।
+> अश्विना । वाम् ।
+> आ । अक्षी इति । शुभः । पती इति । दन् ॥ ६ ॥
+
+> *śrutam | gāyatram | takavānasya | aham | cit | hi | rirebha |*
+> *aśvinā | vām |*
+> *ā | akṣī iti | śubhaḥ | patī iti | dan ‖ 6 ‖*
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–5 complete; Ṛk 6 Saṃhitā and Pada written (printed p. 515, PDF 535). Next: printed p. 516 (PDF 536): Ṛk 6 bhāṣya onward. Numerals as read (no numeral list covers these pages): Ni. 2-9, 6-? and sūtra numbers on pp. 514–515 `[as read]`.
