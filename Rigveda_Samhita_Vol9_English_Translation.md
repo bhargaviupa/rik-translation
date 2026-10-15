@@ -8279,4 +8279,68 @@ By the sentence *pravācyaṃ tad vṛṣaṇā kṛtaṃ vām* it is described 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–8 complete; Ṛk 9 through printed p. 345 (PDF 365): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 346). Next: printed p. 346 (PDF 366). Open: sūtra numbers on p. 344 where the OCR list and page differ marked `[?]`.
+### Printed p. 346  (PDF 366; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Pratipadārtha of Ṛk 9, continued)* *tarutram* — (one who carries across; the one that bears [one] over dangers [?]); *aśvam* — the horse; *pedave* — to Pedu (your worshipper); *ni ūhathuḥ* — you obtained for [him] (you graciously gave).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.9)** (Kannada, rendered)
+
+"O all you Aśvins who take on many forms! You graciously gave to Pedu one excellent horse — swift-going, giver of (wealth) of a thousand [count], strong, not to be withstood by enemies, worthy of praise, one that carries (across dangers)."
+
+**English Translation (as printed)**
+
+"Aswins, who assume many forms, you gave to Pedu a swift horse, the bringer of a thousand (treasures), powerful, irresistible, the destroyer of foes, the object of praise, the bearer (over dangers)"
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 9)**
+
+*Pedave ūhathur āśum aśvam* — *pedunāmne stuvate śīghragāminam aśvaṃ nitarāṃ prāpitavantau dattavantāv ity arthaḥ*: "The king famed as Pedu praised the Aśvins with much devotion; pleased with his praise, they gave him one very excellent and very swift horse" — this history is told here.
+
+*Varpāṃsi* — *aśvibhiḥ* [as read [?]] *karmabhiḥ kṛtāni rūpāṇi*: "The word *varpas* is listed among the sixteen [?] names of form (Ni. 3-13 [as read]); hence the meaning is 'form'. The Aśvins took on various forms, in order to protect their dependants and others and to fulfil their wishes; therefore their greatness is inexpressible (*anirvacanīya*)" — such is the sense.
+
+*Sahasrasām* — *sahasrasaṃkhyākasya dhanasya sanitāraṃ dātāram*: "The horse which the Aśvins gave to King Pedu gives wealth of a thousand-fold [count]" — such is the sense.
+
+*Apratītam* — *śatrubhir apratigatam*: "By this word the power of the horse is described — that it cannot be withstood by enemies." And *ahihanam* — *ahīnām āgatya hantṝṇāṃ śatrūṇāṃ śatrūṇāṃ vā hantāram*: "Even though enemies fall upon it to kill it, this horse kills them; thus it describes the wonderful power of the horse."
+
+---
+
+### Printed p. 347  (PDF 367; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Śravasyam* — *śravaḥ śravaṇīyaṃ stotram | tatra bhavam*: "*śravas* is an object of hearing, a hymn; what exists there." The word *śravas* occurs among the names of wealth (Ni. 2-9 [as read; ?]); in the sense of "praise" in *śrava icchamānaḥ* (Ni. 9-11 [as read]); and as a name for food in *śrava ity annanāma* (Ni. 10-3). Hence it has many meanings.
+
+Skandasvāmin: "*pedur nāma rājā tasmai parayā bhaktyā parituṣṭāv aśvinau mahāvīryaṃ śvetam aśvaṃ dadatuḥ iti tat-prastāve* [?] …" [as read; small type]: "King Pedu, the Aśvins, pleased by his supreme devotion, gave a most mighty white horse" — he states the sense, and quotes:
+
+> युवं श्वेतं पेदवे इन्द्रजूतमहिहनमश्विनादत्तमश्वम् ।
+> जोहूत्रमर्यो अभिभूतिमुग्रं सहस्रसां वृषणं वीड्वङ्गम् ॥
+> (ऋ. सं. १-११८-९)
+
+> *yuvaṃ śvetaṃ pedave indrajūtamahihanamaśvinādattamaśvam |*
+> *johūtramaryo abhibhūtimugraṃ sahasrasāṃ vṛṣaṇaṃ vīḍvaṅgam ‖*
+> *(ṛ. saṃ. 1-118-9)*
+
+and "this [teacher] quotes another Ṛk of the same meaning also":
+
+> युवं श्वेतं पेदवेऽश्विनाश्वं नवभिर्वाजैर्नवती च वाजिनम् ।
+> चर्कृत्यं ददथुर्द्रावयत्क्षपं [? ] भगं न नृभ्यो हव्यं मयोभुवम् ॥ [as read; doubtful words [?]]
+> (ऋ. सं. १०-३९-१०)
+
+> *yuvaṃ śvetaṃ pedave 'śvināśvaṃ navabhirvājairnavatī ca vājinam |*
+> *carkṛtyaṃ dadathurdrāvayatkṣapaṃ [? ] bhagaṃ na nṛbhyo havyaṃ mayobhuvam ‖ [as read; doubtful words [?]]*
+> *(ṛ. saṃ. 10-39-10)*
+
+And for the word *ahihanam*, he explains [from the strength-pride of the horse, which kills enemies even when they are not …, or kills the asura named Ahi] — "*ahi* is the name of a rākṣasa; one who has also killed him" [the Kannada exposition is partly in small type, read with doubt [?]]; and for *śravaḥ* he gives the meaning "famous" (*kīrtimantam*), and quotes:
+
+> इन्द्रो अश्रायि सुध्यो निरेके पज्रेषु स्तोमो दुर्यो न यूपः ।
+> अश्वयुर्गव्यू रथयुर्वसूयुरिन्द्र इद्रायः क्षयति प्रयन्ता ॥
+> (ऋ. सं. १-५१-१४)
+
+> *indro aśrāyi sudhyo nireke pajreṣu stomo duryo na yūpaḥ |*
+> *aśvayurgavyū rathayurvasūyurindra idrāyaḥ kṣayati prayantā ‖*
+> *(ṛ. saṃ. 1-51-14)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly)**
+
+*Puru* — *śer chandasi bahulam* (Pā. 6-1-70 [as read; OCR list 60 [?]]), elision of *śi*. *Varpāṃsi* — root *vṛñ varaṇe*; *vṛñśīṅbhyāṃ rūpe sāṅgayoḥ* [as read; Uṇ. sū. 4-640 as printed [?]], the suffix *asun*, together with it the augment *puk* for the root; *guṇa* of the root's *i*-vowel [?] by the suffix's being the cause; becomes *r*-final; the word *varpas*; … *(the page ends mid-sentence; continues p. 348)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–9 complete except grammar of Ṛk 9 (begun on printed p. 347, PDF 367: *puru, varpāṃsi*; continues p. 348). Next: printed p. 348 (PDF 368). Open: Nirukta numbers on pp. 346–347 `[?]`; small-type Kannada on *ahihanam* `[?]`.
