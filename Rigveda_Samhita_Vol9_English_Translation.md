@@ -5525,4 +5525,52 @@ he cites this Ṛk, and
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–8 complete; Ṛk 9 through printed p. 229 (PDF 249): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*nāsatyā*, *avatam*, *uccābudhnam*; continues p. 230). Next: printed p. 230 (PDF 250). Open: numerals as read `[?]`; bhāṣya small type `[?]`; the Pratipadārtha word *anudethām* gloss ("after the father") unclear `[?]`.
+### Printed p. 230  (PDF 250; header "Maṃ. 1 A. 17 Sū. 116")  [Special Topics of Ṛk 9, continued]
+
+**जिह्मबारम्** — *Jihmabāram* — "*jihmam adhastād vartamānatayā vakraṃ bāraṃ dvāraṃ yasya saḥ*": "the word *jihma* is not used here in the sense 'crooked' or 'bent'; the meaning is 'with the mouth turned downward' (i.e. 'the mouth of the well lies beneath'). A ṛṣi named Gautama (*sic*; = Gotama), greatly afflicted by thirst, searched for water to drink in a desert, and, not finding it, prayed to the Aśvin deities for water. They brought him a well filled with water and made the bottom of the well [be] upward, and the upper part of the well, where the water is, downward, so that the ṛṣi could drink the water with a vessel: thus the Itihāsa tells that his thirst was removed. This is here set out. In Ṛ. Saṃ. 1-?-? [numerals partly illegible [?]] it is said that the Marut deities brought the well to Gautama's neighbourhood and quenched his thirst."
+
+**आपो न** — *Āpo na* — "*āpaś ca* — the *na* here is in the sense of 'and' (*ca*), the *ca* being in the sense of 'together'. Sāyaṇa explains that the Aśvin deities made the water easy to come by for Gotama to drink and for him to get a thousand (in number) of wealth for the performance of sacrifices and so on. Skandasvāmin: in the expression *na rāye sahasrāya* [sic] ... the word *na* is in the sense of simile (*upamārthīya*): 'as though a thousand (in number) of wealth', the word *na* denotes a figurative sense (*upacāra*) here, but according to the force of words it is used here only in the sense of comparison: 'as if with a thousand pieces of wealth, as the Aśvins favoured him to perform sacrifices, so, to remove his thirst, they brought a well (made it with the bottom upward) and made water for him to drink by a vessel from the well'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly)**
+
+*nāsatyā* (a word formed by the *nabhrāṇ napāt…*, Pā. 6-3-75 as read [?], as a *nipāta*; in the vocative dual, the preceding vowel lengthened by *supāṃ sulug*; nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *anudethām* (*ṇud* "to push"; *noḥ*, Pā. 6-1-65 as read [?], *n* for the initial *ṇ*; *laṅ* 2nd dual *āthām*; *tudādibhyaḥ śaḥ*, Pā. 3-1-77 as read [?], *śa* as *vikaraṇa*; *āto ṅitaḥ*, Pā. 7-2-81 as read [?], *iya* for the *ā* of the suffix; elision of *y* by *lopo vyor vali*, so the augment *aṭ*; nighāta); *cakrathuḥ* (*ḍukṛñ* "to do", *liṭ* 2nd dual; nighāta).
+
+### Printed p. 231  (PDF 251; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 9, concluded (noted briefly):* *jihmabāram* (the word *dvāra* belongs to the *pṛṣodarādi* group, so *bāra* is substituted for it; *jihmaṃ bāraṃ yasya saḥ jihmabāraḥ*, *taṃ*; *bahuvrīhau prakṛtyā pūrvapadam*, first-member accent); *kṣaran* (*kṣara* "to move"; *laṅ* 3rd plural; *jhi* → *ant* by *jher jhoḥ*… *antādeśa*; *itaś ca lopaḥ*, elision of *i*; *śap* as *vikaraṇa*; *bahulaṃ chandasy amāṅyoge 'pi*, Pā. 6-4-75 as read [?], no augment *aṭ*; the elision of the *t* by *saṃyogāntasya lopaḥ*; *śap* being *pit*, it is unaccented; at the beginning of a *pāda* the *sārvadhātuka*… unaccented by *tāsyanudāttet…*, so the root accent remains); *pāyanāya* (*pā* "to drink" [*pānārthe*]; since the causal *vyāpāra* is meant, *hetumati ca*, Pā. 3-1-26 as read [?], *ṇic*; *śācchāsāhvāvyāvepāṃ yuk*, Pā. 7-3-37 as read [?], the *yuk* augment; after the *ṇyanta* *lyuṭ* in the abstract sense; *anādeśa* for *yu* by *yuvor anākau*; elision of *ṇic* by *ner aniṭi*, Pā. 6-4-51 as read [?]; the *āya* accent from the *udātta* … ; dative singular); *rāye* (*rā* "to give"; *rāti dadāti iti raiḥ*; *rāter dyaiḥ*, Uṇ. 2-?? as read [?], the suffix *dai*; the elision of the *ṭi* by the capacity of *ḍit*; the word *rai*; dative singular; *eco 'yavāyāvaḥ*, Pā. 6-1-78 as read [?], *āy*; *ūḍidaṃpadādi*, Pā. 6-1-171 as read [?], the accent of the ending); *tṛṣyate* (*ñitṛṣā* "to be thirsty"; divādi; *śatṛ* in the *laṭ* sense; *divādibhyaḥ śyan*, Pā. 3-1-69 as read [?], *śyan* as *vikaraṇa*; the form *tṛṣyat*; dative singular; as *adupadeśa* the *sārvadhātuka* is unaccented; *śyan* is *śit*… *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent; *ṣaṣṭhyarthe caturthī vaktavyā*, Vārt. 2-3-62-1 as read [?], the fourth case in place of the sixth). ‖ 9 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 10
+
+### Printed p. 232  (PDF 252; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.10)**
+
+> जुजुरुषो नासत्योत वव्रिं प्रामुञ्चतं द्रापिमिव च्यवानात् ।
+> प्रातिरतं जहितस्यायुर्दस्रादित्पतिमकृणुतं कनीनाम् ॥ १० ॥
+
+> *jujuruṣo nāsatyota vavriṃ prāmuñcataṃ drāpimiva cyavānāt |*
+> *prātirataṃ jahitasyāyurdasrāditpatimakṛṇutaṃ kanīnām ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.10)**
+
+> जुजुरुषः । नासत्या । उत । वव्रिम् । प्र । अमुञ्चतम् । द्रापिम्ऽइव ।
+> च्यवानात् ।
+> प्र । अतिरतम् । जहितस्य । आयुः । दस्रा । आत् । इत् । पतिम् ।
+> अकृणुतम् । कनीनाम् ॥ १० ॥
+
+> *jujuruṣaḥ | nāsatyā | uta | vavrim | pra | amuñcatam | drāpim 'iva |*
+> *cyavānāt |*
+> *pra | atiratam | jahitasya | āyuḥ | dasrā | āt | it | patim |*
+> *akṛṇutam | kanīnām ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.10)**
+
+> अत्रेदमाख्यानम् । वलीपलितादिभिरुपेतो जीर्णाङ्गः पुत्रादिभिः परित्यक्तश्च्यवनाख्य ऋषिरश्विनौ तुष्टाव । स्तुतावश्विनौ तस्मै ऋषये जरामपगमय्य पुनर्यौवनमकुरुतामिति । तदेतदाह । हे नासत्यावश्विनौ जुजुरुषो जीर्णात् च्यवानात् च्यवनाख्यादृषेः सकाशाद्वव्रिं कृष्णं शरीरमाव्यभ्यस्थितां जरां प्रामुञ्चतम् । प्रकर्षेणामोचयतम् । तत्र दृष्टान्तः । द्रापिमिव । द्रापिरिति कवचस्याख्या । यथा कश्चित्कवचं कृष्णशरीरव्यापकं धृत्वा पश्चात्तद्विचारात्प्रथक्करोति तद्वत् । उतापि च हे दस्रा एतत्संज्ञौ दर्शनीयौ वाश्विनौ जहितस्य पुत्रादिभिः परित्यक्तस्य ऋषेरायुर्जीवनं प्रातिरतं । प्रावर्धयतम् । प्रपूर्वस्तिरतिर्वर्धनार्थः । आदित् अनन्तरमेव युवानं [?]
+
+> *atredamākhyānam | valīpalitādibhirupeto jīrṇāṅgaḥ putrādibhiḥ parityaktaścyavanākhya ṛṣiraśvinau tuṣṭāva | stutāvaśvinau tasmai ṛṣaye jarāmapagamayya punaryauvanamakurutāmiti | tadetadāha | he nāsatyāvaśvinau jujuruṣo jīrṇāt cyavānāt cyavanākhyādṛṣeḥ sakāśādvavriṃ kṛṣṇaṃ śarīramāvyabhyasthitāṃ jarāṃ prāmuñcatam | prakarṣeṇāmocayatam | tatra dṛṣṭāntaḥ | drāpimiva | drāpiriti kavacasyākhyā | yathā kaścitkavacaṃ kṛṣṇaśarīravyāpakaṃ dhṛtvā paścāttadvicārātprathakkaroti tadvat | utāpi ca he dasrā etatsaṃjñau darśanīyau vāśvinau jahitasya putrādibhiḥ parityaktasya ṛṣerāyurjīvanaṃ prātirataṃ | prāvardhayatam | prapūrvastiratirvardhanārthaḥ | ādit anantarameva yuvānaṃ [?]*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–9 complete; Ṛk 10 Saṃhitā, Pada, bhāṣya begun (through the words *prāvardhayatam … ādit anantarameva yuvānaṃ* on printed p. 232, PDF 252). Next: printed p. 233 (PDF 253) — rest of Ṛk 10 bhāṣya. Open: numerals as read `[?]`; Rig-Vedic ref in the *jihmabāram* topic partly illegible `[?]`.
