@@ -10350,4 +10350,56 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–5 complete (printed p. 431, PDF 451). Next: printed p. 432 (PDF 452): Ṛk 6 Saṃhitā. Numerals as read (list stops at printed p. 380): Ni. numbers on p. 430 `[as read]`, Ṛ. 1-116-17 as read, sūtra numbers on p. 431 `[as read]`.
+### Printed p. 432  (PDF 452; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 118.6)**
+
+> उद्वन्दनमैरतं दंसनाभिरुद्रेभं दस्रा वृषणा शचीभिः ।
+> निष्टौग्र्यं पारयथः समुद्रात्पुनश्च्यवानं चक्रथुर्युवानम् ॥ ६ ॥
+
+> *udvandanamairataṃ daṃsanābhirudrebhaṃ dasrā vṛṣaṇā śacībhiḥ |*
+> *niṣṭaugryaṃ pārayathaḥ samudrātpunaścyavānaṃ cakrathuryuvānam ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 118.6)**
+
+> उत् । वन्दनम् । ऐरतम् । दंसनाभिः । उत् । रेभम् । दस्रा ।
+> वृषणा । शचीभिः ।
+> निः । तौग्र्यम् । पारयथः । समुद्रात् । पुनरिति । च्यवानम् ।
+> चक्रथुः । युवानम् ॥ ६ ॥
+
+> *ut | vandanam | airatam | daṃsanābhiḥ | ut | rebham | dasrā |*
+> *vṛṣaṇā | śacībhiḥ |*
+> *niḥ | taugryam | pārayathaḥ | samudrāt | punariti | cyavānam |*
+> *cakrathuḥ | yuvānam ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 118.6)** *(small type; read with some doubts)*
+
+> हे अश्विनौ वन्दनमेतत्संज्ञमृषिं दंसनाभिरात्मीयैः कर्मभिः कूपादुदैरतम् । उद्गमयतम् । हे दस्रा दर्शनीयौ वृषणा कामानां वर्षितारावश्विनौ शचीभिः कर्मभी रेभमेतत्संज्ञमृषिं दश रात्रीर्नव वाहानि च कूपे निवसन्तं तस्मादुदैरतम् । उदतारयतम् । तथा तौग्र्यं तुग्रस्य पुत्रं भुज्युं समुद्रे निमग्नमात्मीयैर्नौभिरश्वैश्च समुद्रान्निष्पारयथः । तीरदेशं प्रापितवन्तौ । तथा च्यवानं च्यवनमृषिं जीर्णं पुनर्युवानं यौवनोपेतं चक्रथुः । कृतवन्तौ ॥ ऐरतम् । ईर गतौ कम्पने च । ण्यन्ताल्लङ् । छन्दस्युभयथेति शपः आर्धधातुकत्वात् [?] णेरनिटीति णिलोपः [?] ॥ [rest of the grammar characterized]
+
+> *he aśvinau vandanametatsaṃjñamṛṣiṃ daṃsanābhirātmīyaiḥ karmabhiḥ kūpādudairatam | udgamayatam | he dasrā darśanīyau vṛṣaṇā kāmānāṃ varṣitārāvaśvinau śacībhiḥ karmabhī rebhametatsaṃjñamṛṣiṃ daśa rātrīrnava vāhāni ca kūpe nivasantaṃ tasmādudairatam | udatārayatam | tathā taugryaṃ tugrasya putraṃ bhujyuṃ samudre nimagnamātmīyairnaubhiraśvaiśca samudrānniṣpārayathaḥ | tīradeśaṃ prāpitavantau | tathā cyavānaṃ cyavanamṛṣiṃ jīrṇaṃ punaryuvānaṃ yauvanopetaṃ cakrathuḥ | kṛtavantau ‖ airatam | īra gatau kampane ca | ṇyantāllaṅ | chandasyubhayatheti śapaḥ ārdhadhātukatvāt [?] ṇeraniṭīti ṇilopaḥ [?] ‖ [rest of the grammar characterized]*
+
+*Sense (mine):* "O Aśvins, you lifted the ṛṣi named Vandana out of the well by your own deeds (*daṃsanābhiḥ*); O *dasrā* (worth seeing), *vṛṣaṇā* (showerers of desires), Aśvins, by your *śacībhiḥ* (deeds) you lifted out the ṛṣi named Rebha, who stayed in the well ten nights and nine days: you brought him up. Likewise Bhujyu, the son of Tugra (*taugryam*), who had sunk in the sea, you carried across (*niḥ pārayathaḥ*) from the sea with your own ships and horses, and brought to the shore. And Cyavāna, the ṛṣi Cyavana, old, you made again young (*yuvānam*): you did."
+
+---
+
+### Printed p. 433  (PDF 453; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 118.6)** (Kannada, rendered)
+
+*Dasrā* — O Aśvins, worth seeing; *vṛṣaṇā* — O rainers of desires; *vandanam* — the ṛṣi Vandana; *daṃsanābhiḥ* — by (your daring) deeds; *ut airatam* — you lifted (out of the well); *śacībhiḥ* — by (your) deeds; *rebham* — Rebha, the ṛṣi; (*ut airatam* — you raised up); *(tathā)* — likewise; *taugryam* — Bhujyu, the son of Tugra, (who had sunk in the sea); *samudrāt* — from the sea; *niḥ pārayathaḥ* — you carried to the shore; *cyavānam* — the ṛṣi Cyavana, (who had been brought to old age); *punaḥ yuvānam* — again a youth; *cakrathuḥ* — you made.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.6)** (Kannada, rendered)
+
+"O Aśvins, worth seeing and showerers of desires! By your power you lifted out of the well the ṛṣi Vandana and the ṛṣi Rebha; you brought Bhujyu, the son of Tugra, from the middle of the sea to the shore; and you made Cyavana, who had grown old, young again."
+
+**English Translation (as printed)**
+
+"By your deeds, Dasras, you raised up Vandana, and showerers (of benefits), Rebha; you bore the son of Tugra over the sea, and made Chyavana young."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 6)**
+
+"The Aśvins lifted the ṛṣi called Vandana out of the well and saved him. The ṛṣi called Rebha, whom the Rākṣasas bound and threw into a well, lay there for ten nights and nine days; the Aśvins lifted him out of the well and restored him to life. Seeing Bhujyu, the son of Tugra, sunk in the middle of the sea because his ship had been wrecked, and with his retinue sinking in the water, they brought him and all his family to the shore by their ship and by other means, and delivered him to his own house, protected. And, for the ṛṣi Cyavana, who had a body [brought] to extreme (old age) — with wrinkles and grey hairs, having tender-ness [lost] by old age — and who could not see, they made youth appear, and thus saved him. So, in this Ṛk, four wonderful deeds that the Aśvins performed — protecting Vandana, Rebha, Bhujyu and Cyavana — are described, says Sāyaṇa. This matter has been described in the earlier sūktas [also]."
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–5 complete; Ṛk 6 through printed p. 433 (PDF 453): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar page follows (p. 434). Next: printed p. 434 (PDF 454). No numerals needing flag on these pages.
