@@ -13210,4 +13210,96 @@ Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–4 complete; Ṛk 5 through printed p. 557 (PDF 577): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English, Special Topics and grammar follow (p. 558). Next: printed p. 558 (PDF 578). Numerals as read: Ṛ. 4-31-?, 1-153-4, Manu 3-76 `[as read]`.
+### Printed p. 558  (PDF 578; header "Maṃ. 1 A. 18 Sū. 121")
+
+**English Translation (as printed)**
+
+"When your parents, (heaven and earth), the protectors (of the world), brought the nutritious and invigorating oblation to you who are quick in act, and when they offered you the pure and precious milk of the milch-cow."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 5)**
+
+"Skandasvāmin gives a meaning somewhat different from what Sāyaṇa has explained in this Ṛk."
+
+*Bhuraṇyū* — *kṛtsnaṃ jagat poṣayantyau*: "The word *bhuraṇyu* is stated among the twenty-six names of 'swift' (Ni. 2-?? [as read: 'ನಿ. ೨-೯']), but Sāyaṇa explains that, though it is in the Nirukta's list, [here] they nourish the whole world."
+
+"Heaven and earth, producers and nourishers of the whole world, make the *sāṃnāyya* oblation — [the oblation] which gives Indra the power, chief means for producing the world — to be produced by the cows. Milk, produced from the cows, and the oblation in the form of ghee are the means of the world's production, as is said in Manu-smṛti:
+
+> अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ।
+> आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥
+> (मनुस्मृति ३-७६ [as read])
+
+> *agnau prāstāhutiḥ samyagādityamupatiṣṭhate |*
+> *ādityājjāyate vṛṣṭirvṛṣṭerannaṃ tataḥ prajāḥ ‖*
+> *(manusmṛti 3-76 [as read])*
+
+(The sense is: 'the offering cast into the fire reaches the Sun; from the Sun comes rain, and from the rain, food; and from that, creatures arise'.) Such an oblation is as dear to the gods as wealth. Indra accepts the oblation offered by the sacrificers and protects them, restraining those who injure men — so Sāyaṇa explains."
+
+"Skandasvāmin: since the word *payas* is explained by the Nirukta author as having many senses, it is stated among the names of night (Ni. 1-?? [as read: 'ನಿ. ೩-೯']), of water (Ni. 1-?? [as read]) and of food (Ni. 2-?? [as read]); the word *retas* is stated among the names of water (Ni. 1-?? [as read])."
+
+---
+
+### Printed p. 559  (PDF 579; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> भुरण्यू श्रेष्ठे पितरौ सर्वस्य पित्रृभूते द्यावापृथिव्यौ सर्वस्य धनभूतं सुरेतः पयः शोभनमुदकं त्वरणाय तुर्वित्रे वा शत्रूणां तुभ्यमायजन्ते अभिमुख्येन दत्तवन्तः । पय इत्यनेन तोयेदकत्वमुक्तं । सुरेत इत्यनेन तु तस्य शोभनत्वमुच्यते इति नास्ति पौनरुक्त्यम् ॥ [as read]
+
+> *bhuraṇyū śreṣṭhe pitarau sarvasya pitrṛbhūte dyāvāpṛthivyau sarvasya dhanabhūtaṃ suretaḥ payaḥ śobhanamudakaṃ tvaraṇāya turvitre vā śatrūṇāṃ tubhyamāyajante abhimukhyena dattavantaḥ | paya ityanena toyedakatvamuktaṃ | sureta ityanena tu tasya śobhanatvamucyate iti nāsti paunaruktyam ‖ [as read]*
+
+"Heaven and earth, the swift parents who protect everything, offer to Indra, who works swiftly [or: who is eager to destroy enemies], water as an oblation — water which is [fine] seed: since by the word *retas* and by the word *payas* water is meant, and the word *su* (*śobhana*, 'fine') is used here as an adjective, a repetition is not a fault. The oblation of this kind is *śuci* — pure — and *rekṇaḥ* — wealth-like — pure; and, for the gods, [dear] as wealth. Moreover:
+
+> प्रजापतिप्रभृतयः सर्वे देवाः सबर्दुघायाः अमृतमयदोग्ध्र्याः उस्रियायाः गोः क्षीरं तुभ्यं तव पानार्थं दत्तवन्तः ।
+
+> *prajāpatiprabhṛtayaḥ sarve devāḥ sabardughāyāḥ amṛtamayadogdhryāḥ usriyāyāḥ goḥ kṣīraṃ tubhyaṃ tava pānārthaṃ dattavantaḥ |*
+
+— 'Prajāpati and all the gods offer the milk of the cow, which yields nectar (*sabardughā*), for Indra's drinking'. And:
+
+> अथवैवमन्यथास्या ऋचो ऽर्थयोजना । तुभ्यं पय इत्यत्र पय दधि उच्यते । पितरावपि स्वेषामपत्यानां पित्रृत्वात् पालयित्रृत्वाद्वा दंपती यजमानौ दर्शपूर्णमासयोर्यद्दधि यजमानौ वेदिं प्रति नयेते तत्तवार्थाय । यच्च धनं पुरोडाशाख्यं शोभनं प्रणीताकालक्षणं संस्कारकमुदकं यस्मै तत् सुरेतः यच्च ते तुभ्यमायजन्ते । मर्यादया वत्सैर्मृज्य पयः उस्रियायाः तदेव तवार्थाय ।
+
+> *athavaivamanyathāsyā ṛco 'rthayojanā | tubhyaṃ paya ityatra paya dadhi ucyate | pitarāvapi sveṣāmapatyānāṃ pitrṛtvāt pālayitrṛtvādvā daṃpatī yajamānau darśapūrṇamāsayoryaddadhi yajamānau vediṃ prati nayete tattavārthāya | yacca dhanaṃ puroḍāśākhyaṃ śobhanaṃ praṇītākālakṣaṇaṃ saṃskārakamudakaṃ yasmai tat suretaḥ yacca te tubhyamāyajante | maryādayā vatsairmṛjya payaḥ usriyāyāḥ tadeva tavārthāya |*
+
+"Or, [Skandasvāmin] explains the Ṛk in a different way: In *tubhyaṃ payaḥ*, the word *payas* means curds (*dadhi*); by *pitarau* he means the couple who, as parents of their own offspring or as their protectors, are the sacrificers; the curds that the couple bring to the altar at the new-moon and full-moon sacrifices is for you [Indra]; the wealth called *purodāśa*, which is fine, [and] the consecrating water called *praṇītā*, with that *suretaḥ* — they offer to you; and the milk of the cow *usriyā* that has been milked [after] removing the calves — all this is for you. In this way [the sacrificers] offer the curds in the fire for Indra alone; knowing the *purodāśa* as dear to the gods, as wealth, they offer [it] to Indra; with the vessel called *praṇītā*, the priests offer the sanctified water, called *suretas*, to Indra alone; and so, with reverence, they offer in the fire the nectar-like cow-product only to Indra — so he explains."
+
+---
+
+### Printed p. 560  (PDF 580; header "Maṃ. 1 A. 18 Sū. 121")
+
+"Indra, accepting this, restrains the asuras who trouble the Śiśnas [?] and the like; and the asuras' hidden wealth, in inaccessible places, he finds and destroys them — so it is described here."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly)**
+
+*Anītām* (*ṇīñ prāpaṇe*; *laṅ*, dual, *tām* by Pā. 3-4-101; *śap* *luk*; no *guṇa*; augment *aṭ*, accent as *yat* is connected) · *suretaḥ* (*śobhanaṃ retaḥ yasya*; *somanasī alomoṣasī*, Pā. 6-2-112 as read, the final syllable of the latter member acute) · *turaṇe* (*tura tvarāyām*, *kaṇḍvādi*; *kvip ca*, Pā. 3-2-76; *kaṇḍvādibhyo yak*, Pā. 3-1-27; *ato lopaḥ*, *yasya halaḥ*; *dhātoḥ*, Pā. 6-1-162, final acute; dative) · *bhuraṇyū* (*bhuraṇa dhāraṇapoṣaṇayoḥ*, *kaṇḍvādi*; *auṇādika* suffix *u*; dual) · *ayajanta* (*yaja devapūjāsaṅgatikaraṇadāneṣu*; *laṅ*, third plural, *jha* → *ata*; augment *aṭ*) — sūtra numbers as read. ‖ 5 ‖
+
+---
+
+### Printed p. 561  (PDF 581; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.6)**
+
+> अध प्र जज्ञे तरणिर्ममत्तु प्र रोच्यस्या उषसो न सूरः ।
+> इन्दुर्येभिराष्ट स्वेदुहव्यैः स्रुवेण सिञ्चञ्जरणाभि धाम ॥ ६ ॥
+
+> *adha pra jajñe taraṇirmamattu pra rocyasyā uṣaso na sūraḥ |*
+> *induryebhirāṣṭa sveduhavyaiḥ sruveṇa siñcañjaraṇābhi dhāma ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.6)**
+
+> अध । प्र । जज्ञे । तरणिः । ममत्तु । प्र । रोचि । अस्याः ।
+> उषसः । न । सूरः ।
+> इन्दुः । येभिः । आष्ट । स्वःऽदुहव्यैः । स्रुवेण । सिञ्चन् ।
+> जरणा । अभि । धाम ॥ ६ ॥
+
+> *adha | pra | jajñe | taraṇiḥ | mamattu | pra | roci | asyāḥ |*
+> *uṣasaḥ | na | sūraḥ |*
+> *induḥ | yebhiḥ | āṣṭa | svaḥ 'duhavyaiḥ | sruveṇa | siñcan |*
+> *jaraṇā | abhi | dhāma ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.6)** *(small type; read with some doubts)*
+
+> अधेदानीमयमिन्द्रः स्तुतिभिः प्रीयमाणः सन् प्र जज्ञे । प्रकर्षेण प्रादुर्बभूव । स तरणिः शत्रूणां तारकोऽस्माभिर्ममत्तु । मादयतु । स च प्र रोचि प्रकृष्टं रोचते । तत्र दृष्टान्तः । अस्या अस्माभिर्दृश्यमानाया उषसः समीपे वर्तमानः सूरो न सूर्य इव । जरणा जरणीयः स्तोतव्य इन्दुः सोमो धामाहवनीयलक्षणं स्थानमभिलक्ष्य स्रुवेण सिञ्चन् सिच्यमानः सन् स्वेदुहव्यैः स्वभूतसंपद्दविष्क्रियोर्येभिरस्माभिराष्ट आश्रीत आसीत् । तानस्माभिरायेत्यर्थः । जज्ञे । जनी प्रादुर्भावे । लिटि गमहनेत्युपधालोपः । मममत्तु । मदी हर्षे । बहुलं छन्दसीति विकरणस्य श्लुः । रोचि । रुच दीप्तौ । छान्दसो वर्तमाने लुङ् । वृत्त्यायेन चिण्भावादेशः । आष्ट । अश भोजने । कर्मणि लङ् । बहुलं छन्दसीति विकरणस्य लुक् । व्रश्चादिषत्वे ष्टुत्वम् । आडागमः ॥ [as read]
+
+> *adhedānīmayamindraḥ stutibhiḥ prīyamāṇaḥ san pra jajñe | prakarṣeṇa prādurbabhūva | sa taraṇiḥ śatrūṇāṃ tārako 'smābhirmamattu | mādayatu | sa ca pra roci prakṛṣṭaṃ rocate | tatra dṛṣṭāntaḥ | asyā asmābhirdṛśyamānāyā uṣasaḥ samīpe vartamānaḥ sūro na sūrya iva | jaraṇā jaraṇīyaḥ stotavya induḥ somo dhāmāhavanīyalakṣaṇaṃ sthānamabhilakṣya sruveṇa siñcan sicyamānaḥ san sveduhavyaiḥ svabhūtasaṃpaddaviṣkriyoryebhirasmābhirāṣṭa āśrīta āsīt | tānasmābhirāyetyarthaḥ | jajñe | janī prādurbhāve | liṭi gamahanetyupadhālopaḥ | mamamattu | madī harṣe | bahulaṃ chandasīti vikaraṇasya śluḥ | roci | ruca dīptau | chāndaso vartamāne luṅ | vṛttyāyena ciṇbhāvādeśaḥ | āṣṭa | aśa bhojane | karmaṇi laṅ | bahulaṃ chandasīti vikaraṇasya luk | vraścādiṣatve ṣṭutvam | āḍāgamaḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "Now (*adha*) this Indra, being pleased by praises, *pra jajñe* — has appeared. He, *taraṇiḥ* — the crosser (the saviour) from enemies — may he rejoice (*mamattu*) with us. And *pra roci* — he shines forth, *sūro na* — like the Sun, standing near *asyāḥ uṣasaḥ* — this Dawn seen by us. *Induḥ* — the soma, to be praised, being poured by the ladle (*sruva*) into the *dhāman* — the place called the *āhavanīya* — *svedūhavyaiḥ* — with those offerings made with the sacrificer's own wealth — *āṣṭa* — which was eaten (consumed) by us — those [offerings] are brought by us."
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–5 complete; Ṛk 6 through printed p. 561 (PDF 581): Saṃhitā, Pada, bhāṣya written (the page's pratipadārtha and the rest follow on p. 562). Next: printed p. 562 (PDF 582). Numerals as read: Ni. numbers, Manu 3-76, sūtra numbers `[as read]`. The pp. 559–560 Skandasvāmin quotations were rendered with some free paraphrase from the Kannada exposition.
