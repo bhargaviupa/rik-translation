@@ -9275,4 +9275,62 @@ In explaining this Ṛk, Sāyaṇa quotes:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–18 complete; Ṛk 19 Saṃhitā written (printed p. 387, PDF 407). Next: printed p. 388 (PDF 408): Ṛk 19 Pada onward. Numerals on pp. 386–387 read from the page (list stops at printed p. 380); Ni. numbers `[?]`.
+### Printed p. 388  (PDF 408; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.19)**
+
+> मही । वाम् । ऊतिः । अश्विना । मयःऽभूः । उत । स्रामम् । धिष्ण्या ।
+> सम् । रिणीथः ।
+> अथ । युवाम् । इत् । अह्वयत् । पुरम्ऽधिः । आ । अगच्छतम् । सीम् ।
+> वृषणौ । अवःऽभिः ॥ १९ ॥
+
+> *mahī | vām | ūtiḥ | aśvinā | mayaḥ 'bhūḥ | uta | srāmam | dhiṣṇyā |*
+> *sam | riṇīthaḥ |*
+> *atha | yuvām | it | ahvayat | puram 'dhiḥ | ā | agacchatam | sīm |*
+> *vṛṣaṇau | avaḥ 'bhiḥ ‖ 19 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.19)** *(small type; read with several doubts)*
+
+> हे अश्विनौ वां युवयोर्मही महती ऊतिः पालनं मयोभूर्मयसः सुखस्य भावयित्री । उताशि [?] च हे धिष्ण्या । धिषणा स्तुतिलक्षणा वाक् । तयोस्तोतव्यौ [?] स्रामं व्याधिग्रस्तं पुरुषं विश्लिष्टाङ्गमत्र्यादिकं सं रिणीथः । संगतावयवं कुरुथः । अथापि च युवामिद्यवामेन [?] पुरन्धिर्बहुधीर्घोषा विश्पला वाह्वयत् रोगोपशमनार्थमाहूतवती ॥ हे वृषणौ कामानां वर्षितारावश्विनौ अवोभी रक्षणैः सहागच्छतम् । अभिमुख्येन सीमेनां प्राप्तवन्तौ ॥ मही । महती छान्दसो वर्णलोपः । यद्वा । महेरौणादिक इन् । कृदिकारादक्तिन इति ङीष् । मयोभूः । भवतेः क्विप् [?] … रिणीथः । री गतिरेषणयोः । क्र्यादिकः । प्वादीनां ह्रस्व इति ह्रस्वत्वम् ॥
+
+> *he aśvinau vāṃ yuvayormahī mahatī ūtiḥ pālanaṃ mayobhūrmayasaḥ sukhasya bhāvayitrī | utāśi [?] ca he dhiṣṇyā | dhiṣaṇā stutilakṣaṇā vāk | tayostotavyau [?] srāmaṃ vyādhigrastaṃ puruṣaṃ viśliṣṭāṅgamatryādikaṃ saṃ riṇīthaḥ | saṃgatāvayavaṃ kuruthaḥ | athāpi ca yuvāmidyavāmena [?] purandhirbahudhīrghoṣā viśpalā vāhvayat rogopaśamanārthamāhūtavatī ‖ he vṛṣaṇau kāmānāṃ varṣitārāvaśvinau avobhī rakṣaṇaiḥ sahāgacchatam | abhimukhyena sīmenāṃ prāptavantau ‖ mahī | mahatī chāndaso varṇalopaḥ | yadvā | maherauṇādika in | kṛdikārādaktina iti ṅīṣ | mayobhūḥ | bhavateḥ kvip [?] … riṇīthaḥ | rī gatireṣaṇayoḥ | kryādikaḥ | pvādīnāṃ hrasva iti hrasvatvam ‖*
+
+*Sense (mine and tentative):* "O Aśvins, your (*vām*) great (*mahī*) protection (*ūti*) is *mayobhūḥ* — the producer of happiness (*mayas*). And, O *dhiṣṇyā* [possessing, through *dhiṣaṇā*, the speech of praise, the praise-worthy] — you two put right (*saṃ riṇīthaḥ*) the man (*srāmam*) stricken with disease, of dissevered limbs, [one] of the human kind (?) etc.: you make his parts joined. And moreover, *purandhiḥ* — the woman of many thoughts, Ghoṣā, or Viśpalā, called you for the sake of the cure of disease. O showerers of desires, Aśvins, come with *avobhiḥ* — with protections; ... [you] coming face-to-face reached her." The bhāṣya adds the grammar of *mahī* (*mahat* with Vedic loss of letter; or *mahi* with *ṅīṣ*), *mayobhūḥ* (*bhū* with *kvip*), *riṇīthaḥ* (*rī gatireṣaṇayoḥ*, *kryādi*; *pvādīnāṃ hrasvaḥ*) — characterized, not transcribed.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.19)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *vām* — of you two; *mahī* — great; *ūtiḥ* — protection; *mayobhūḥ* — the maker of happiness; *uta* — and; *dhiṣṇyā* — O you who are to be praised with praise-words; *srāmam* — the one stricken with disease (of dissevered limbs — Atri and others) [as read]; *saṃ riṇīthaḥ* — you made whole in limbs; *atha* — and; *yuvām it* — you only; *purandhiḥ* — the woman of many thoughts (Ghoṣā, or [she] called Viśpalā); *ahvayat* — (for the cure of disease) called; *vṛṣaṇau* — O Aśvins, who give desired things; *avobhiḥ* — with protective works; *sīm* — to this Ghoṣā (Viśpalā); *ā agacchatam* — come.
+
+---
+
+### Printed p. 389  (PDF 409; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.19)** (Kannada, rendered)
+
+"O Aśvins! Your great protection is the maker of happiness; O you who are to be praised with hymns! You made whole the limbs of the man stricken with disease (of dissevered limbs — Atri and others); the wise Ghoṣā (Viśpalā) called you alone (for the cure of disease). O you who give what is desired, to protect her, go to her."
+
+**English Translation (as printed)**
+
+"Aswins, your powerful protection is the source of happiness, worthy of laudation, you have made whole the maimed; therefore, has the intelligent (Ghosha) called upon you; showerers (of benefits), come hither with your succours"
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 19)**
+
+*Purandhiḥ* — *bahudhīḥ ghoṣā viśpalā vā*: "The word *purandhi*, which conveys many meanings, is used here, according to the statement of the Nirukta author — *purandhir bahudhīḥ* (Ni. 6-13 [as read [?]]) — in the sense of 'one of great knowledge'. The woman called Ghoṣā, and the woman called Viśpalā too, praised the Aśvins for the cure of their disease and obtained their protection; by this it is described here that their power is incomparable."
+
+*Vāṃ ūtiḥ mahī mayobhūḥ* — "In this Ṛk it is stated that since the Aśvins show favour and protect, great happiness arises. For this reason the protection itself is described as the producer of happiness; and the praise of them too is the producer of health in the sick man."
+
+*Sīm* — "The Nirukta author has explained the word *sīm* as 'inclusive' (*parigraha*) or 'an expletive' (*padapūraṇa*). He says: *parigrahārthīyo vā padapūraṇo vā* (Ni. 1-2 [as read])" and quotes:
+
+> प्र सीमादित्यो असृजद्विधर्ता ऋतं सिन्धवो वरुणस्य यन्ति ।
+> न श्राम्यन्ति न वि मुञ्चन्त्येते वयो न पप्तू रघुया परिज्मन् ॥
+> (ऋ. सं. २-२८-४ [as read])
+
+> *pra sīmādityo asṛjadvidhartā ṛtaṃ sindhavo varuṇasya yanti |*
+> *na śrāmyanti na vi muñcantyete vayo na paptū raghuyā parijman ‖*
+> *(ṛ. saṃ. 2-28-4 [as read])*
+
+— "quoting this Ṛk, he explains *sīm* with the sense of its being a useless (*anarthaka*) [filler] … the fifth case [?]… *sīmaḥ sīmantaḥ* …, *sīmā maryādā*, *visīvyati deśāv iti* [as read [?]]" — and gives the explanation.
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–18 complete; Ṛk 19 through printed p. 389 (PDF 409): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 390). Next: printed p. 390 (PDF 410). Numerals as read from the page (list stops at printed p. 380): Ni. 6-13, Ni. 1-2, Ṛ. 2-28-4 `[as read]`.
