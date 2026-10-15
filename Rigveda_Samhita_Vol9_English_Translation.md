@@ -11893,4 +11893,64 @@ and (Sanskrit as printed, small type, continuing on p. 489):
 
 ---
 
-**Progress note:** Sūkta 120: Ṛk 1 through printed p. 499 (PDF 519): head-table, Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 500). Next: printed p. 500 (PDF 520). Numerals as read (no numeral list covers these pages): varga "22, 23" `[?]`, Ni. 1-11 `[as read]`.
+### Printed p. 500  (PDF 520; header "Maṃ. 1 A. 17 Sū. 120")
+
+*(Special Topics of Ṛk 1, continued)* "… 'since there are no words that fully express your greatness, it is difficult to praise you' — such is the idea that is described here; by this it is explained that their greatness is beyond description."
+
+"By the very sentence '*ko vāṃ joṣa ubhayoḥ*' — [it is said] that since it is certain that there is no man who, knowing all your qualities, would praise you so that your mind is pleased and satisfied, — and who is he? — [the poet says] that to obtain your favour in that way is not possible. By this it is evident that, just as there is no praise [that expresses] *yuvayor māhātmyānurūpā stutir nāsti*, there is no one who knows your qualities well — *yuṣmadguṇābhijñaḥ kaścid api nāsti*."
+
+*Kathā* — *kena prakāreṇa*: "'in what way' is the meaning."
+
+> कतरा पूर्वा कतरापरयोः कथा जातेकवयः को विवेद ।
+> विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥
+> (ऋ. सं. १-१८५-१ [as read])
+
+> *katarā pūrvā katarāparayoḥ kathā jātekavayaḥ ko viveda |*
+> *viśvaṃ tmanā bibhṛto yaddha nāma vi vartete ahanī cakriyeva ‖*
+> *(ṛ. saṃ. 1-185-1 [as read])*
+
+"In this Ṛk the Nirukta author explains the word *kathā* as *katham* (Ni. 3-?? [as read: 'ನಿ. ೩-೨೩'])."
+
+*Aprācetāḥ* — *yuvayor māhātmyam ajānan*: "The word *pracetas* [is used in the Ṛk]:
+
+> आ जङ्घन्ति सान्वेषां जघनाँ उप जिघ्नते ।
+> अश्वाजनि प्रचेतसोऽश्वान्त्समत्सु चोदय ॥
+> (ऋ. सं. ६-७५-१३ [as read])
+
+> *ā jaṅghanti sānveṣāṃ jaghanā~ upa jighnate |*
+> *aśvājani pracetaso 'śvāntsamatsu codaya ‖*
+> *(ṛ. saṃ. 6-75-13 [as read])*
+
+In this Ṛk, *pracetasaḥ* is explained, since it conveys *pravṛddhacetasaḥ* — 'those of grown knowledge' (Ni. 9-?? [as read: 'ನಿ. ೯-೨೦'] — hence *apracetas* means 'ignorant'. 'How could one who has not known the greatness of the Aśvins perform their service?' — by this question, as in the previous sentence, it is stated that the service of the Aśvins is impossible."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Rādhat* — root *rādha sādha saṃsiddhau*; *leṭ*, third person singular, the suffix *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97 as read), elision of the *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), the augment *aṭ*; since it stands after an *ajanta*, the *nighāta* accent.
+
+---
+
+### Printed p. 501  (PDF 521; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Joṣe* — root *juṣī prītisevanayoḥ*; in the abstract sense the suffix *ghañ*; on account of the suffix, *puganta-laghūpadhasya ca* (Pā. 7-3-86 as read), *guṇa* of the root's light penultimate; the form *joṣa*; since the suffix is *ñit*, *ñnityādir nityam* (Pā. 6-1-197 as read), the initial acute; locative singular form. *Kathā* — the word *kim*; *thā hetau ca chandasi* (Pā. 5-3-26 as read), the suffix *thā* in the sense of manner; *prāg diśo vibhaktiḥ* (Pā. 5-3-1 as read), the name *vibhakti* is obtained for it; *kimaḥ kaḥ* (Pā. 7-2-103 as read), *ka* substituted for *kim*; by the suffix's accent the final acute. *Vidhāti* — root *vidha vidhāne*; *tudādi*; *leṭ*, third person singular, the suffix *tip*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), the augment *aṭ* for it; *tudādibhyaḥ śaḥ* (Pā. 3-1-77 as read), *śa* vikaraṇa; since *sārvadhātukam apit* makes the suffix *ṅit*, *guṇa* of the root's light penultimate does not occur; because it stands after an *ajanta*, *tiṅ atiṅaḥ* (Pā. 8-1-28 as read), the *nighāta* accent. *Aprācetāḥ* — *prakṛṣṭaṃ ceto yasya asau pracetāḥ*; root *citī saṃjñāne*; the *auṇādika* suffix *asun*; *na pracetāḥ aprācetāḥ*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 as read), the *avyaya* former member keeps its natural accent. ‖ 1 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.2)**
+
+> विद्वांसाविद्दुरः पृच्छेदविद्वानित्थापरो अचेताः ।
+> नू चिन्नु मर्ते अक्रौ ॥ २ ॥
+
+> *vidvāṃsāvidduraḥ pṛcchedavidvānitthāparo acetāḥ |*
+> *nū cinnu marte akrau ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.2)**
+
+> विद्वांसौ । इत् । दुरः । पृच्छेत् । अविद्वान् । इत्था । अपरः ।
+> अचेताः ।
+> नु । चित् । नु । मर्ते । अक्रौ ॥ २ ॥
+
+> *vidvāṃsau | it | duraḥ | pṛcchet | avidvān | itthā | aparaḥ |*
+> *acetāḥ |*
+> *nu | cit | nu | marte | akrau ‖ 2 ‖*
+
+---
+
+**Progress note:** Sūkta 120: Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written (printed p. 501, PDF 521). Next: printed p. 502 (PDF 522): Ṛk 2 bhāṣya onward. Numerals as read (no numeral list covers these pages): Ṛ. 1-185-1, 6-75-13, Ni. numbers on p. 500, sūtra numbers on pp. 500–501 `[as read]`. This session's target (up to Sūkta 120) is therefore Ṛk 2 of 12 into Sūkta 120.
