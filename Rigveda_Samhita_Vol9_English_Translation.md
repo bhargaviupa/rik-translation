@@ -12319,4 +12319,48 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–5 complete; Ṛk 6 through printed p. 517 (PDF 537): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar begun (continues p. 518). Next: printed p. 518 (PDF 538). Numerals as read (no numeral list covers these pages): Ni. 3-19, 1-8, 1-12, Pā. 1-3-20 `[as read]`.
+### Printed p. 518  (PDF 538; header "Maṃ. 1 A. 17 Sū. 120")
+
+*Grammar of Ṛk 6, concluded (noted briefly; sūtra numbers as read):* *Takavānasya* — root *taka gatau*; though it is a general word for going, here it is used for the specific slow going; the *auṇādika* suffix *u*; as was said in *bhṛgavāṇe*, here too, in the sense of conduct (*ācāra*), *kvip*; since it gets the *dhātu* name, by *vyatyaya* *śānac* is substituted for *laṭ*; since *vṛṣādi* is an *ākṛtigaṇa*, *vṛṣādīnāṃ ca* (Pā. 6-1-203 as read), the initial acute. *Rirebhe* — the root *rebhṛ śabde*; *liṭ*, third person singular; since *hi* is connected, the *nighāta* accent has the prohibition by *hi ca* (Pā. 8-1-34 as read); since *ṇal* is *lit*, *liti* (Pā. 6-1-193 as read), the acute on the syllable before the suffix, so it becomes a middle-acute word. *Akṣī* — with the dual following, *īcca dvivacane* (Pā. 7-1-77 as read), *ī* is substituted for the final; it is *udātta*. *Śubhaspatī* — *subāmantrite parāṅgavat svare* (Pā. 2-1-2 as read), the word ending in the genitive becomes as a part of the following *āmantrita*; *āmantritasya ca* (Pā. 8-1-19 as read), the *nighāta* accent for the group of two words. *Dan* — root *dudāñ dāne*; since *āṅ* is the prefix, *āṅo 'nāsyavihṛtyam* [*āṅo dośāsyavihṛtye*?] (Pā. 1-3-20 as read), the middle-voice; *vyatyayo bahulam*, in the sense of *laṭ* the suffix *śatṛ*; since it is *juhotyādi*, *ślu* vikaraṇa; by the statement *dvivacane prakaraṇe chandasi vetivaktavyam*, here no doubling of the root occurs by *ślau* [Pā. 6-1-10]; by *chandasy ubhayathā* (Pā. 3-4-117 as read), since it has the name *sārvadhātuka* and *ārdhadhātuka*, *sārvadhātukam apit* gives [the *ṅit*-like state], and by *ato lopa iṭi ca* (Pā. 6-4-64 as read), elision of the *ā*; the word *dat*; with the nominative following, since it is *ugit*, *num*; *halṅyābbhyo…*, elision of *su*; *saṃyogāntalopa*, elision of the *t*; since this is *asiddha*, the elision of the *n* does not occur. ‖ 6 ‖
+
+---
+
+### Printed p. 519  (PDF 539; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.7)**
+
+> युवं ह्यास्तं महो रन्युवं वा यन्निरततंसतम् ।
+> ता नो वसू सुगोपा स्यातं पातं नो वृकादघायोः ॥ ७ ॥
+
+> *yuvaṃ hyāstaṃ maho ranyuvaṃ vā yanniratataṃsatam |*
+> *tā no vasū sugopā syātaṃ pātaṃ no vṛkādaghāyoḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.7)**
+
+> युवम् । हि । आस्तम् । महः । रन् । युवम् । वा । यत् ।
+> निःऽअततंसतम् ।
+> ता । नः । वसू इति । सुऽगोपा । स्यातम् । पातम् । नः ।
+> वृकात् । अघऽयोः ॥ ७ ॥
+
+> *yuvam | hi | āstam | mahaḥ | ran | yuvam | vā | yat |*
+> *niḥ 'atataṃsatam |*
+> *tā | naḥ | vasū iti | su 'gopā | syātam | pātam | naḥ |*
+> *vṛkāt | agha 'yoḥ ‖ 7 ‖*
+
+*(The printed Pada reads "ranyuvam" with a stray avagraha and "niḥatatamsatam" — as printed; I give the evident words.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.7)** *(small type; read with some doubts)*
+
+> हे अश्विनौ महो महतो धनस्य रन् रातारौ दातारौ युवं युवां किंचनास्तं ... निरततंसतं धनानि निरगमयतम् । रक्षकौ विनाशकावसि युवमेवेत्येवार्थः । हे वसू वासयितारावश्विनौ ता तादृशौ युवां नोऽस्माकं सुगोपा सुष्ठु गोपायितारौ रक्षितारौ स्यातं । भवतं । अपि च नोऽस्मानघायोरघमस्माकमिच्छतो वृकात्स्तेनात्पातं । रक्षतम् ॥ महः । महतः । छान्दसो वर्णलोपः । रन् । रन्नित्यवत्प्रक्रियोन्नेया । व्यत्ययेनैकवचनं । निरततंसतम् । तसि अलंकारे । अस्मान्ण्यन्ताल्लङि निरिप्रसृस्तुभ्य इति च्लेरङ् द्विर्वचनादि च । गरुसंज्ञाया लघुसंज्ञाया बाधितत्वात्तस्य द्वाभावः । सुगोपा । सुपां सुलुगिति विभक्तेर्लुक् । अघायोः । अघं परेषामिच्छति । छन्दसि परेच्छायामिति क्यच् । अश्वाघस्यादित्वम् । क्याच्छन्दसीत्युप्रत्ययः ॥ [as read]
+
+> *he aśvinau maho mahato dhanasya ran rātārau dātārau yuvaṃ yuvāṃ kiṃcanāstaṃ ... niratataṃsataṃ dhanāni niragamayatam | rakṣakau vināśakāvasi yuvamevetyevārthaḥ | he vasū vāsayitārāvaśvinau tā tādṛśau yuvāṃ no 'smākaṃ sugopā suṣṭhu gopāyitārau rakṣitārau syātaṃ | bhavataṃ | api ca no 'smānaghāyoraghamasmākamicchato vṛkātstenātpātaṃ | rakṣatam ‖ mahaḥ | mahataḥ | chāndaso varṇalopaḥ | ran | rannityavatprakriyonneyā | vyatyayenaikavacanaṃ | niratataṃsatam | tasi alaṃkāre | asmānṇyantāllaṅi niriprasṛstubhya iti cleraṅ dvirvacanādi ca | garusaṃjñāyā laghusaṃjñāyā bādhitatvāttasya dvābhāvaḥ | sugopā | supāṃ sulugiti vibhakterluk | aghāyoḥ | aghaṃ pareṣāmicchati | chandasi parecchāyāmiti kyac | aśvāghasyāditvam | kyācchandasītyupratyayaḥ ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, *raṇ* — givers (*rātārau*) of *mahaḥ* — great wealth: you who (*yat*) *nirata-taṃsatam* — sent forth the riches (*dhanāni*): you alone are protectors and destroyers. O *vasū* — makers of dwelling, Aśvins: be to us (*asmākam*) *sugopā* — good guardians; and *pātam* — protect us from *vṛkāt* — the thief, [from] *aghāyoḥ* — one who wishes us evil."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.7)** (Kannada, rendered; text partly legible)
+
+*(He) vasū* — O Aśvins; *mahaḥ* — of great wealth; *ran* — givers; *yuvam hi* — you two indeed; *āstam* — are; *(yat)* — when; *yuvam vā* — you two; *niḥ atataṃsatam* — sent forth riches; *tā yuvām* — you two, such; *naḥ* — our; *sugopā* — good protectors; *syātam* — be; *aghāyoḥ* — [from] the one who wishes evil (from the thief); *vṛkāt* — from the wolf (from the evil [creature]); *naḥ pātam* — protect us.
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–6 complete; Ṛk 7 through printed p. 519 (PDF 539): Saṃhitā, Pada, bhāṣya, pratipadārtha (partial) written; remaining parts follow on p. 520. Next: printed p. 520 (PDF 540). Numerals as read (no numeral list covers these pages): sūtra numbers on p. 518 `[as read]`.
