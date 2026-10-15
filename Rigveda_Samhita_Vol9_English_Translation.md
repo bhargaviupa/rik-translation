@@ -12689,4 +12689,50 @@ In these [passages] he explains the word *vāja* as 'food' and the word *vājin�
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–10 complete; Ṛk 11 through printed p. 533 (PDF 553): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 534). Next: printed p. 534 (PDF 554). Numerals as read: Pā. 7-2-111, Ni. 2-10 `[as read]`.
+### Printed p. 534  (PDF 554; header "Maṃ. 1 A. 17 Sū. 120"; the page number is partly blurred in the scan)
+
+*(Special Topics of Ṛk 11, concluded)* *Ūhyate* — *uhyate aśvibhyāṃ nīyate*: "'It is carried by the Aśvins.' The meaning is: since people who praise the Aśvins call them to the sacrifices for the drinking of soma, [the Aśvins] come on their chariot; or, in order to restrain enemies and to favour the praisers, the chariot is borne by the Aśvins."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly; sūtra numbers as read)**
+
+*Ayam* — the word *idam*; with *su* following, *ido 'y puṃsi* (Pā. 7-2-111 as read), *iy* for *id*; *halṅyābbhyo…*, elision of *su*. Or: root *aya paya gatau*; since it is read in the *pacādi* group, *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. 3-1-134 as read), the suffix *ac*; the final acute. *Samaha* — *magha* is a name for wealth; "*maghena saha vartate iti samaghaḥ*"; by Vedic usage a change of letter, *h* for the *gh*, occurs. Or: root *maha pūjāyām*; "*mahayati pūjayati iti mahaḥ*" — wealth (a cause of worship); as before, by being read in the *pacādi* group, the suffix *ac*; "*mahena saha vartate iti samahaḥ*"; in the vocative, since it gets the *āmantrita* name, *āmantritasya ca* (Pā. 8-1-19 as read), the *nighāta* accent. *Tanu* — root *tanu vistāre*; *loṭ*, second person singular; since it stands after an *ajanta*, the *nighāta* accent. *Ūhyate* — root *vaha prāpaṇe*; in the passive, *leṭ*, third person singular, the suffix *ta*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read), *e*; *leṭo 'ṭāṭau* (Pā. 3-4-94 as read), the augment *aṭ*; *sārvadhātuke yak* (Pā. 3-1-67 as read), *yak*; since *vaha* is in the *yajādi* group, since the suffix *yak* is not *kit*, [*saṃprasāraṇa*] by *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15 as read) of the root — *saṃprasāraṇa*; *saṃprasāraṇāc ca*, *pūrvarūpa*; by Vedic usage lengthening for it; since the *lasārvadhātuka* stands after *upadeśa*, *tāsyanudāttetṅidadupadeśāl* (Pā. 6-1-186 as read) makes it *anudātta*, so the *yak* accent remains. *Somapeyam* — root *pā pāne*; *aco yat* (Pā. 3-1-97 as read), the suffix *yat*; *īdyati* (Pā. 6-4-65 as read), *ī* for the root's *ā* when *yat* follows; *guṇa*; the form *peya*; *yato 'nāvaḥ* (Pā. 6-1-213 as read), the initial acute; in the compound, *gatikārakopapadāt kṛt*, the *kṛdanta* hind-part keeps its natural accent. *Sukhaḥ* — "*śobhanaṃ khaṃ (avakāśaḥ) yasya saḥ sukhaḥ*"; *nañsubhyām* (Pā. 6-2-172 as read), the final acute of the latter member. ‖ 11 ‖
+
+---
+
+### Printed p. 535  (PDF 555; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.12)**
+
+> अध स्वप्नस्य निर्विदेऽभुञ्जतश्च रेवतः ।
+> उभा ता बस्रि नश्यतः ॥ १२ ॥
+
+> *adha svapnasya nirvide 'bhuñjataśca revataḥ |*
+> *ubhā tā basri naśyataḥ ‖ 12 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.12)**
+
+> अध । स्वप्नस्य । निः । विदे । अभुञ्जतः । च । रेवतः ।
+> उभा । ता । बस्रि । नश्यतः ॥ १२ ॥
+
+> *adha | svapnasya | niḥ | vide | abhuñjataḥ | ca | revataḥ |*
+> *ubhā | tā | basri | naśyataḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.12)** *(small type; read with some doubts)*
+
+> अधेदानीं प्रभातसमये स्वप्नस्य स्वप्नं प्रति निर्विदे । निर्विण्णोऽस्मि । तथा भुञ्जतः परानरक्षतो धनवतश्च पुरुषस्य यं नभूतं पुरुषं प्रत्यपि निर्विण्णोऽस्मि । यतस्वप्नदृष्टम् बस्रि क्षिप्रं नश्यतः नाशं प्राप्नुतः । स्वप्नदृष्टः पदार्थः प्रातर्नोपलभ्यते कदर्येण धनमभुक्तमन्वत्वं सत् क्षिप्रमेव नश्यति । तदुभयविषयो निर्वेदो मां बाधत इत्यर्थः । अत्र स्वप्नमात्रस्यासत्त्वप्रतिपादनेन दुःस्वप्नस्य सद्भावः प्रतिपादितः । अत एषा दुःस्वप्ननाशनीति युज्यते ॥ स्वप्नस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । विदे । विद्लृ लाभे । आगमानुशासनस्यानित्यत्वान्नुमभावः । रेवतः । रयेश्छान्दस्मतुप् । रयेर्मतौ बहुलमिति संप्रसारणम् । छन्दसीर इति मतुपो वत्वम् । देशचाच्छे मतुपस उदात्तत्वमिति तस्योदात्तत्वम् । उभा ता उभयत्र सुपां सुपां सुलुगित्याकारः ॥ [as read]
+
+> *adhedānīṃ prabhātasamaye svapnasya svapnaṃ prati nirvide | nirviṇṇo 'smi | tathā bhuñjataḥ parānarakṣato dhanavataśca puruṣasya yaṃ nabhūtaṃ puruṣaṃ pratyapi nirviṇṇo 'smi | yatasvapnadṛṣṭam basri kṣipraṃ naśyataḥ nāśaṃ prāpnutaḥ | svapnadṛṣṭaḥ padārthaḥ prātarnopalabhyate kadaryeṇa dhanamabhuktamanvatvaṃ sat kṣiprameva naśyati | tadubhayaviṣayo nirvedo māṃ bādhata ityarthaḥ | atra svapnamātrasyāsattvapratipādanena duḥsvapnasya sadbhāvaḥ pratipāditaḥ | ata eṣā duḥsvapnanāśanīti yujyate ‖ svapnasya | kriyāgrahaṇaṃ kartavyamiti karmaṇaḥ saṃpradānatvāccaturthyarthe ṣaṣṭhī | vide | vidlṛ lābhe | āgamānuśāsanasyānityatvānnumabhāvaḥ | revataḥ | rayeśchāndasmatup | rayermatau bahulamiti saṃprasāraṇam | chandasīra iti matupo vatvam | deśacācche matupasa udāttatvamiti tasyodāttatvam | ubhā tā ubhayatra supāṃ supāṃ sulugityākāraḥ ‖ [as read]*
+
+*Sense (mine):* "*Adha* — now, at the time of dawn, *svapnasya nirvide* — I am weary of [that which belongs to] a dream. And likewise [I am weary] of a man who *abhuñjataḥ* — does not enjoy, who does not protect others, though rich: I am weary even of him. Both of these — what is seen in a dream (*svapnadṛṣṭaḥ*) and the wealth that is not enjoyed — *basri* (quickly) *naśyataḥ* — perish. A thing seen in a dream is not found in the morning; and wealth, [held by the] miser, not used, though real, perishes quickly. A weariness regarding both of these troubles me." (Bhāṣya adds: since the unreality of dreams is thereby declared, the existence of bad dreams is [also] set forth; therefore this Ṛk is rightly called *duḥsvapnanāśanī*.)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.12)** (Kannada, rendered)
+
+*Adha* — now (at the time of dawn); *svapnasya* — with regard to dreams; *nirvide* — I have become weary; *(tathā)* — likewise; *abhuñjataḥ* — [with regard to him who] does no good to others; *revataḥ ca* — and with regard to a rich man; *nirvide* — I have become weary; *tā ubhā* — both of these (dream, and the wealth of a miser); *basri* — quickly; *naśyataḥ* — perish.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.12)** (Kannada, rendered)
+
+"Now I am weary both of the dream and of the wealth of the miser — both of which perish quickly."
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–11 complete; Ṛk 12 (the last) through printed p. 535 (PDF 555): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha written; English, Special Topics, grammar and the colophon of Sūkta 120 follow (p. 536). Next: printed p. 536 (PDF 556). Numerals as read: sūtra numbers on p. 534 `[as read]`. The printed page number on p. 534 is blurred in the scan.
