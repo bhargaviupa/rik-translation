@@ -10794,4 +10794,65 @@ In this Ṛk, *vasubhiḥ sajoṣāḥ* means *saha joṣaṇaḥ samānaprīti�
 
 ---
 
-**Progress note:** Sūkta 118 complete (11 Ṛks, printed pp. 415–451). Next: Sūkta 119 begins on printed p. 452 (PDF 472): heading, Anukramaṇī, Anuvāda, Ṛk 1. Numerals as read: Ṛ. 3-32-?, 10-110-1, Ni. numbers and sūtra numbers on pp. 450–451 `[as read]`.
+## Sūkta 119 — *ā vāṃ rathaṃ purumāyam* (printed pp. 452–?)
+
+### Printed p. 452  (PDF 472; header "Maṃ. 1 A. 17 Sū. 119")
+
+**Heading (Kannada):** "nūrahattombhattaneya sūktavu" — "the hundred-and-nineteenth Sūkta."
+
+**Anukramaṇī (Sanskrit, as printed):**
+
+> आ वां रथमिति दशर्चं चतुर्थं सूक्तं दैर्घतमसस्य कक्षीवत आर्षं जागतमाश्विनम् । तथा चानुक्रान्तम् । आ वां रथं दश जागतमिति ॥ प्रातरनुवाकाश्विनक्रतौ जागते छन्दसीदं सूक्तमाश्विनशस्त्रे च । तथा च सूत्रितम् । आ वां रथमभूविदं यो वां परिज्मेति त्रीणि । (आ. ४-१३ [as read]) इति ॥
+
+> *ā vāṃ rathamiti daśarcaṃ caturthaṃ sūktaṃ dairghatamasasya kakṣīvata ārṣaṃ jāgatamāśvinam | tathā cānukrāntam | ā vāṃ rathaṃ daśa jāgatamiti ‖ prātaranuvākāśvinakratau jāgate chandasīdaṃ sūktamāśvinaśastre ca | tathā ca sūtritam | ā vāṃ rathamabhūvidaṃ yo vāṃ parijmeti trīṇi | (ā. 4-13 [as read]) iti ‖*
+
+*Sense:* "*ā vāṃ ratham* — a sūkta of ten Ṛks, the fourth, of Kakṣīvat, of the Dīrghatamas [line]; the ṛṣi's work; Jagatī; addressed to the Aśvins. The Anukramaṇī says '*ā vāṃ rathaṃ daśa jāgatam*'. This sūkta is used in the Prātaranuvāka at the Aśvina rite in the Jagatī metre, and in the Aśvina-śastra. As the Sūtra says: '*ā vāṃ ratham abhūvidaṃ yo vāṃ parijmeti trīṇi*' (Āśv. 4-13 as read [?])."
+
+**Anuvāda (Kannada):** "This sūkta, *ā vāṃ rathaṃ purumāyam*, is the fourth sūkta in the seventeenth anuvāka. It has ten Ṛks. The ṛṣi of this sūkta is the one called Kakṣīvān, son of Dīrghatamas. The deities are the Aśvins. The metre is Jagatī. In the Anukramaṇikā it is said '*ā vāṃ rathaṃ daśa jāgatam*'. At the time of reciting the Prātaranuvāka mantras, this sūkta is used for the recitation of the Jagatī Ṛks belonging to the Aśvina rite and for the Aśvina-śastra mantras, as is shown in the Āśvalāyana Śrauta-sūtra in the sūtra '*ā vāṃ ratham abhūvidam yo vāṃ parijmeti trīṇi*' (Āś. 4-13 as read [?])."
+
+**सूक्त—११९ (Sūkta 119)**
+॥ मण्डल—१ ॥ अनुवाक—१७ ॥ सूक्त—११९ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—*(small numerals; read "20, 21" — as printed [?])* ॥
+*Number of Ṛks in the sūkta:* 10. *Ṛṣi:* Kakṣīvān Dairghatamasa Auśija. *Devatā:* the Aśvins. *Chandas:* Jagatī.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.1)**
+
+> आ वां रथं पुरुमायं मनोजुवं जीराश्वं यज्ञियं जीवसे हुवे ।
+> सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टीवानं वरिवोधामभि प्रयः ॥ १ ॥
+
+> *ā vāṃ rathaṃ purumāyaṃ manojuvaṃ jīrāśvaṃ yajñiyaṃ jīvase huve |*
+> *sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭīvānaṃ varivodhāmabhi prayaḥ ‖ 1 ‖*
+
+---
+
+### Printed p. 453  (PDF 473; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.1)**
+
+> आ । वाम् । रथम् । पुरुऽमायम् । मनःऽजुवम् । जीरऽअश्वम् ।
+> यज्ञियम् । जीवसे । हुवे ।
+> सहस्रऽकेतुम् । वनिनम् । शतऽवसुम् । श्रुष्टिऽवानम् ।
+> वरिवःऽधाम् । अभि । प्रयः ॥ १ ॥
+
+> *ā | vām | ratham | puru 'māyam | manaḥ 'juvam | jīra 'aśvam |*
+> *yajñiyam | jīvase | huve |*
+> *sahasra 'ketum | vaninam | śata 'vasum | śruṣṭi 'vānam |*
+> *varivaḥ 'dhām | abhi | prayaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.1)** *(small type; read with some doubts)*
+
+> हे अश्विनौ वां युवयो रथं जीवसे जीवनार्थं प्रयो हविर्लक्षणमन्नमभिलक्ष्य हुवे । ह्वयामि । कीदृशम् । पुरुमायं बहुविधाश्चर्यं बहुविधकर्माणं वा मनोजुवं मन इव शीघ्रं गच्छन्तं जीराश्वं जवदश्वोपेतं यज्ञियं यज्ञेष्वाह्वातुमर्हं सहस्रकेतुमनेकध्वजं सहस्रस्य धनस्य केतयितारं ज्ञापयितारं वा वनिनं वनमित्युदकनाम तद्वन्तं शतद्वसुं शतसंख्यार्थैर्नैर्युक्तं श्रुष्टीवानं श्रुष्टीति क्षिप्रनाम क्षिप्रं संभजमानं । यद्वा सुखवन्तं वरिवोधां वरिव इति धननाम वरिवसो धनस्य दातारम् ॥ पुरुमायं । बहुव्रीहौ त्रिचक्रादित्वादन्तोदात्तत्वम् । यद्वा तत्पुरुषे [?] । जीराश्वं । जु इति गत्यर्थः सौत्रो धातुः । जोरी च । (उ. २-२४ [as read]) इति रगीकारान्तादेशश्च । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । यज्ञियं । यज्ञर्त्विग्भ्यां घखञौ विश्वकर्मार्थे [?] घप्रत्ययः । हुवे । ह्वेञो लटि बहुलं छन्दसेति संप्रसारणम् । लुगिति ... बहुलं छन्दसेति शपो लुक् । उवङ् । शतद्वसुं । शतवसुं । छान्दसस्तकारलोपजः [?] ॥ [as read]
+
+> *he aśvinau vāṃ yuvayo rathaṃ jīvase jīvanārthaṃ prayo havirlakṣaṇamannamabhilakṣya huve | hvayāmi | kīdṛśam | purumāyaṃ bahuvidhāścaryaṃ bahuvidhakarmāṇaṃ vā manojuvaṃ mana iva śīghraṃ gacchantaṃ jīrāśvaṃ javadaśvopetaṃ yajñiyaṃ yajñeṣvāhvātumarhaṃ sahasraketumanekadhvajaṃ sahasrasya dhanasya ketayitāraṃ jñāpayitāraṃ vā vaninaṃ vanamityudakanāma tadvantaṃ śatadvasuṃ śatasaṃkhyārthairnairyuktaṃ śruṣṭīvānaṃ śruṣṭīti kṣipranāma kṣipraṃ saṃbhajamānaṃ | yadvā sukhavantaṃ varivodhāṃ variva iti dhananāma varivaso dhanasya dātāram ‖ purumāyaṃ | bahuvrīhau tricakrāditvādantodāttatvam | yadvā tatpuruṣe [?] | jīrāśvaṃ | ju iti gatyarthaḥ sautro dhātuḥ | jorī ca | (u. 2-24 [as read]) iti ragīkārāntādeśaśca | bahuvrīhau pūrvapadaprakṛtisvaratvam | yajñiyaṃ | yajñartvigbhyāṃ ghakhañau viśvakarmārthe [?] ghapratyayaḥ | huve | hveño laṭi bahulaṃ chandaseti saṃprasāraṇam | lugiti ... bahulaṃ chandaseti śapo luk | uvaṅ | śatadvasuṃ | śatavasuṃ | chāndasastakāralopajaḥ [?] ‖ [as read]*
+
+*Sense (mine and tentative):* "O Aśvins, I invoke (*huve*) your (*vām*) chariot for life (*jīvase*), with a view to the *prayaḥ* — food in the form of the oblation. What kind of chariot? *Purumāyam* — of many sorts of wonder, or of many sorts of work; *manojuvam* — going as swiftly as the mind; *jīrāśvam* — with swift horses; *yajñiyam* — fit to be invoked at sacrifices; *sahasraketum* — of many banners, or making known wealth of a thousand; *vaninam* — possessing water (*vana* is a name for water); *śatadvasum* — joined with wealth of a hundredfold; *śruṣṭīvānam* — (*śruṣṭi* is a name for *kṣipra*, quick) quickly enjoying, or having happiness; *varivodhām* — the giver of wealth (*varivas* is a name for wealth)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 119.1)** (Kannada, rendered; page continues)
+
+*(He) aśvinā* — O Aśvins; *purumāyam* — of many sorts of wonder (endowed with many sorts of works); *manojuvam* — swift as the mind; *jīrāśvam* — with swift-going horses; *yajñiyam* — fit to be invoked at sacrifices; *sahasraketum* — with many banners (indicating wealth in thousands); *vaninam* — endowed with water; *śatadvasum* — with immense wealth; *śruṣṭīvānam* — a bringer of happiness; *varivodhām* — the giver of wealth; *vām* — your; *ratham* — chariot …
+
+---
+
+**Progress note:** Sūkta 118 complete; Sūkta 119 begun: heading, Anukramaṇī, Anuvāda, Ṛk 1 Saṃhitā, Pada, bhāṣya, pratipadārtha begun (printed p. 453, PDF 473; continues p. 454). Next: printed p. 454 (PDF 474). Numerals as read (the numeral lists stop before this): Āś. 4-13, Uṇ. 2-24, varga "20, 21" `[?]`.
