@@ -1,7 +1,7 @@
 # Rigveda Samhita, Volume 9 — English Translation
 
 **Source:** `Rig_Vol9.pdf` (623 PDF pages; Kannada commentary of 1949 — Sāyaṇa's Sanskrit bhāṣya with the Kannada explanation of H. P. Venkata Rao).
-**Covers:** Maṇḍala 1, **Sūktas 113–130**, the **Eighth Adhyāya** of the First Aṣṭaka ("ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ಎಂಟನೆಯ ಅಧ್ಯಾಯವು"), per the printed contents table (Viṣayānukramaṇike); the first sūkta is 113 (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotiḥ*), starting on printed p. 2.
+**Covers:** Maṇḍala 1, **Sūktas 113–121**, the **Eighth Adhyāya** of the First Aṣṭaka ("ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ಎಂಟನೆಯ ಅಧ್ಯಾಯವು"), per the printed contents table (Viṣayānukramaṇike); the first sūkta is 113 (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotiḥ*), starting on printed p. 2.
 **Page offset:** the title page of the Eighth Adhyāya is PDF 21 (= printed p. 1); **printed page = PDF − 20**. The contents table ends with the topic on printed p. 601; the last text pages are about 601–603.
 **Conventions:** carried over unchanged from Volumes 1–8 (see `CLAUDE.md`): three-layer Sanskrit (Devanagari + IAST + English), view each page before writing, `[?]` for doubtful readings, glosses labelled "mine and tentative", the source's own English reproduced with [sic], grammar pages noted briefly. **Numerals:** read with the digit key confirmed in Volume 8 (flat-footed "2"-like glyph = 7, curled = 2; see `publish/tools/numeral_pass/METHOD.md`) in the first pass.
 **Status:** set up only; nothing translated yet. Front matter (Pīṭhike, pp. i–xiii) and the Eighth-Adhyāya text still to do. Append-only; keep exactly one trailing progress note.
@@ -12,7 +12,7 @@
 
 ### Printed p. i  (PDF 8)
 
-In this part of the Ṛgsaṃhitā there are the Sūktas from Maṇḍala 1, Sūkta 113 to Sūkta 130 (as printed; 18 Sūktas). The deities of these Sūktas are Rātri, Uṣas, Rudra, Sūrya, the Aśvins and Indra. More than half of this Adhyāya is devoted to the Aśvins. The account given in Skandasvāmin's bhāṣya on the Ṛks addressed to the Aśvins is not found in Sāyaṇa's bhāṣya. All the Sūktas relating to these deities are accompanied by *upākhyānas* (legends). Skandasvāmin has explained all these legends and has indicated the stories of persons who obtained help of many kinds from the Aśvins. Sāyaṇa, who is later than he, and other later writers have many points in their commentaries that are not in Sāyaṇa's bhāṣya. Therefore in the explanation of this part Skandasvāmin's bhāṣya has been used freely. It is a great misfortune that his bhāṣya is not available in full.
+In this part of the Ṛgsaṃhitā there are the Sūktas from Maṇḍala 1, Sūkta 113 to Sūkta 121 (9 Sūktas; my first reading "130 / 18" was wrong — the contents table, printed pp. vii–xiii, runs 113–121 and the Pīṭhike itself mentions five Aśvin Sūktas, 116–120). The deities of these Sūktas are Rātri, Uṣas, Rudra, Sūrya, the Aśvins and Indra. More than half of this Adhyāya is devoted to the Aśvins. The account given in Skandasvāmin's bhāṣya on the Ṛks addressed to the Aśvins is not found in Sāyaṇa's bhāṣya. All the Sūktas relating to these deities are accompanied by *upākhyānas* (legends). Skandasvāmin has explained all these legends and has indicated the stories of persons who obtained help of many kinds from the Aśvins. Sāyaṇa, who is later than he, and other later writers have many points in their commentaries that are not in Sāyaṇa's bhāṣya. Therefore in the explanation of this part Skandasvāmin's bhāṣya has been used freely. It is a great misfortune that his bhāṣya is not available in full.
 
 It is a settled matter that Skandasvāmin is earlier than Sāyaṇa, who belongs to the fourteenth century. There are many proofs that Harisvāmin, who wrote a bhāṣya on the Śatapatha Brāhmaṇa, was his disciple.
 
@@ -123,7 +123,7 @@ It is not an easy task to publish the Ṛgveda Saṃhitā — most ancient, most
 
 ## Viṣayānukramaṇike (Table of Contents) — printed pp. vii–?
 
-*Śrīḥ* — "Viṣayānukramaṇike. The Eighth Adhyāya of the First Aṣṭaka; Sūktas 113–130 of the First Maṇḍala." Column heading: *Puṭasaṃkhye* (page number). The page numbers below are those printed in the table.
+*Śrīḥ* — "Viṣayānukramaṇike. The Eighth Adhyāya of the First Aṣṭaka; Sūktas 113–121 of the First Maṇḍala." Column heading: *Puṭasaṃkhye* (page number). The page numbers below are those printed in the table.
 
 ### Printed p. vii  (PDF 14; number not visible in the crop)
 
@@ -220,4 +220,75 @@ It is not an easy task to publish the Ṛgveda Saṃhitā — most ancient, most
 
 ---
 
-**Progress note:** Pīṭhike done (printed i–vi); contents table (Viṣayānukramaṇike) noted so far for PDF 14–17 (printed vii–x, up to Sūkta 117 p. 341). Next: contents PDF 18–20, then Sūkta 113 from printed p. 2 (PDF 22). Open: a few contents lines read loosely (marked [?]); Pīṭhike reference numerals `[?]`; IAST layer to be run at the end of Pīṭhike+contents.
+### Printed p. xi  (PDF 18)  [Sūkta 117 continues]
+
+- How the best white horse was given to king Pedu — 346
+- How the Aśvins mended the leg of Viśpalā, the woman of king Śela (Agastya's household priest [as printed: "agastyapurohita Śela"]), cut off in battle; and the story of the birth of the ṛṣis Agastya and Vasiṣṭha — 355
+- How Rebha was lifted out of the well and saved — 360
+- How the aged ṛṣi Cyavana was made young again; the matter of Sūryā mounting the Aśvins' chariot — 365
+- How Bhujyu, son of Tugra, was saved from the sea (*kareteṃda* [?] "taken ashore") — 369
+- How the Aśvins freed the bird *vartikā* from the wolf's mouth — 377
+- How they slew the asura *viśvāñca* [?] — 378
+- How the blind ṛṣi Ṛjrāśva was given sight — 382
+- Meaning, with translation, of the word *sīm* etc. — 389
+- How the ṛṣi Śayu's barren cow was made to give milk — 393
+- How Vimada's wife, carried off by an asura, was rescued and brought back — 394
+- How the ṛṣi Dadhīca taught the Aśvins the Madhu-vidyā — 401
+- How the woman Vadhrimatī was favoured with a son named Hiraṇyahasta — 408
+
+**Sūkta 118** — *ā vāṃ rathaḥ* — the 118th Sūkta
+- Sūkta application, and Ṛṣi, deity, metres — 415
+- Description of the Aśvins' chariot, etc. — 417
+- How the Aśvins saved Nandana [as printed; cf. "Vandana"], Rebha, Bhujyu, Cyavana and others — 433
+- How the blind ṛṣi Kaṇva was given sight — 436
+- The many bold deeds of the Aśvins: making the ṛṣi Śayu's cow give milk, freeing the bird Vartikā from the wolf's mouth, and fitting another leg in place of that of Viśpalā, which had been cut off in battle — 440
+- How the white horse was given to king Pedu — 443
+
+### Printed p. xii  (PDF 19)
+
+**Sūkta 119** — *ā vāṃ rathaṃ purumāyaṃ* — the 119th Sūkta
+- Application, Ṛṣi, deity, metres — 452
+- Greatness of the Aśvins' chariot, etc. — 455
+- How Bhujyu and Divodāsa were saved — 467
+- How Sūryā, of her own accord, mounted the Aśvins' chariot — 471
+- How the ṛṣi Rebha was lifted out of the well and saved — 475
+- How the old body of the ṛṣi Nandana [as printed] was made to enjoy (*bhogālāḍisi*) and he was made youthful — how the ṛṣi Vāmadeva was made to be born from his mother's womb — 479
+- How Bhujyu, sinking in mid-ocean, was saved — 484
+- How the Aśvins made honey come to the bees — 488
+- How the ṛṣi Kakṣīvān became chief among thirty-three eminent (*śreṣṭha*) descendants of the Aṅgirases — 489
+- How a divine horse was given to king Pedu — 493
+
+**Sūkta 120** — *kā rādhad dhotrā* — the 120th Sūkta
+- Application, explanation of the metre, etc. — 496
+- Ṛṣi, deity, metres — 498
+- How Ṛjrāśva, when blind, praised the Aśvins for the gift of sight — 517
+- The various meanings of the word *vṛka* — 520
+- Meaning of the word *stanābhujaḥ* [?] etc. — 524
+- Meaning of the word *vājinīvatī* etc. — 530
+
+**Sūkta 121** — *kad itthā nṝḥ* [as printed "ಕದಿತ್ಥಾ ನ್ಯಃ"; reading doubtful] — the 121st Sūkta
+- Application, Ṛṣi, deity, metres — 537
+- Meaning of the word *go* — 544
+- How Indra made a cow be born in a mare — 546
+- Meaning, with translation, of the word *peyaḥ* etc. — 558
+- Meaning, with translation, of the word *snēduvahya* [?] etc. — 562
+
+### Printed p. xiii  (PDF 20)  [Sūkta 121 continues]
+
+- Meaning of the word *adrivaḥ* etc. — 580
+- Explanation of the words *phaliga*, *kuṣṇa* [?] etc. — 581
+- How Tvaṣṭṛ made the thunderbolt for Indra — 589
+- Meaning of the word *etaśa* — 593
+- Explanation of the words *nājapramahaḥ* [?], *sadhamādaḥ* etc. — 601
+
+*Viṣayānukramaṇike samāptavu* — "The table of contents is ended."
+
+**Result of the front matter:** the volume holds **Sūktas 113–121** (nine Sūktas: 113 Uṣas/Rātri, 114 Rudra, 115 Sūrya, 116–120 Aśvins, 121 Indra), text to about printed p. 603.
+
+---
+
+# EIGHTH ADHYĀYA — text begins (printed p. 1, PDF 21)
+
+---
+
+**Progress note:** Front matter complete: Pīṭhike (printed i–vi, PDF 8–13) and contents table (printed vii–xiii, PDF 14–20). **Correction:** this volume holds Sūktas 113–121 (nine), not 113–130 — fixed in this file; CLAUDE.md still says 113–130 (user to edit; I was blocked from editing it). IAST not yet added to the front matter. Next: title page PDF 21 (printed 1), then Sūkta 113 from printed p. 2 (PDF 22).
