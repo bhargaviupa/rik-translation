@@ -8595,11 +8595,11 @@ Skandasvāmin:
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.12)** *(small type; read with several doubts)*
 
-> पुरा खलु [?] स्तुतिं गच्छन्तावश्विनौ मार्गमध्ये कूपे पतितं रेभं [?] तं कूपादुदतारयताम् । तदानीमश्विभ्यां गन्तव्यं काव्यस्य निवासस्थानमुत [?] अश्विनौ पृच्छति । हे दिवो नपाता द्योतमानस्य सूर्यस्य पुत्रौ वृषणा कामानां वर्षकावश्विना कुह कुत्र शयुत्रा शयने निवासस्थाने वर्तमानस्य काव्यस्य भार्गवस्य सुष्टुतिं शोभनां स्तुतिं श्रोतुं यान्ता गच्छन्तौ । यद्वा । शयुत्रेत्येतदश्विनोर्विशेषणम् । शयुनामकस्य त्रायकौ [?] युवाम् । हिरण्यस्येव कलशं यथा हिरण्यपूरितं कलशं भूम्यां निक्षिप्तं सर्वैर्दुर्ज्ञातं कश्चिदभिज्ञ उद्धरति एवमसुरैः कूपे निखातं दश रात्रीर्नव वाहानि च तत्रैव निवसन्तं रेभमवगत्य दशमेऽहन् अहनि उदूपथुः । कूपादुन्नीतवन्तौ । किं तन्निवासस्थानमिति प्रश्नः । रेभस्यानुक्तत्वादपि [?] दश रात्रीरिवेन [?] । (ऋ. सं. १-११६-२४) इति मन्त्रान्तरसामर्थ्यात्प्रतीतिः ॥
+> पुरा खलु उशनसः स्तुतिं गच्छन्तावश्विनौ मार्गमध्ये कूपे पतितं रेभं दृष्ट्वा तं कूपादुदतारयताम् । तदानीमश्विभ्यां गन्तव्यं काव्यस्य निवासस्थानमजानन् ऋषिरश्विनौ पृच्छति । हे दिवो नपाता द्योतमानस्य सूर्यस्य पुत्रौ वृषणा कामानां वर्षकावश्विना कुह कुत्र शयुत्रा शयने निवासस्थाने वर्तमानस्य काव्यस्य भार्गवस्य सुष्टुतिं शोभनां स्तुतिं श्रोतुं यान्ता गच्छन्तौ । यद्वा । शयुत्रेत्येतदश्विनोर्विशेषणम् । शयुनामकस्य त्रायकौ [?] युवाम् । हिरण्यस्येव कलशं यथा हिरण्यपूरितं कलशं भूम्यां निक्षिप्तं सर्वैर्दुर्ज्ञातं कश्चिदभिज्ञ उद्धरति एवमसुरैः कूपे निखातं दश रात्रीर्नव वाहानि च तत्रैव निवसन्तं रेभमवगत्य दशमेऽहन् अहनि उदूपथुः । कूपादुन्नीतवन्तौ । किं तन्निवासस्थानमिति प्रश्नः । रेभस्यानुक्तत्वादपि [?] दश रात्रीरिवेन [?] । (ऋ. सं. १-११६-२४) इति मन्त्रान्तरसामर्थ्यात्प्रतीतिः ॥
 
 > *purā khalu [?] stutiṃ gacchantāvaśvinau mārgamadhye kūpe patitaṃ rebhaṃ [?] taṃ kūpādudatārayatām | tadānīmaśvibhyāṃ gantavyaṃ kāvyasya nivāsasthānamuta [?] aśvinau pṛcchati | he divo napātā dyotamānasya sūryasya putrau vṛṣaṇā kāmānāṃ varṣakāvaśvinā kuha kutra śayutrā śayane nivāsasthāne vartamānasya kāvyasya bhārgavasya suṣṭutiṃ śobhanāṃ stutiṃ śrotuṃ yāntā gacchantau | yadvā | śayutretyetadaśvinorviśeṣaṇam | śayunāmakasya trāyakau [?] yuvām | hiraṇyasyeva kalaśaṃ yathā hiraṇyapūritaṃ kalaśaṃ bhūmyāṃ nikṣiptaṃ sarvairdurjñātaṃ kaścidabhijña uddharati evamasuraiḥ kūpe nikhātaṃ daśa rātrīrnava vāhāni ca tatraiva nivasantaṃ rebhamavagatya daśame 'han ahani udūpathuḥ | kūpādunnītavantau | kiṃ tannivāsasthānamiti praśnaḥ | rebhasyānuktatvādapi [?] daśa rātrīrivena [?] | (ṛ. saṃ. 1-116-24) iti mantrāntarasāmarthyātpratītiḥ ‖*
 
-*Sense (mine and tentative):* "Once, the Aśvins going [to hear] praise met Rebha, who had fallen into a well in the middle of the road, and drew him up out of the well. [Then, as the Aśvins were to go to the dwelling-place of Kāvya, someone asks them:] O sons (*napātā*) of heaven — of the shining Sun — O showerers of desires, Aśvins, *kuha* — where are you going, to hear the fine praise (*suṣṭutim*) of Kāvya, the Bhārgava, who is staying in his (*śayutrā*) resting-place? Or: *śayutrā* is an epithet of the Aśvins — you two, who protect one named Śayu. Like a golden jar (*hiraṇyasyeva kalaśam*) — as a vessel filled with gold, buried in the earth, unknown to all, is lifted out by someone who knows it — so you drew Rebha, whom the asuras had buried in a well, who stayed there ten nights and nine days, out of the well on the tenth day (*daśame 'han*). — That is the question: what was that dwelling-place? From the other mantra, 'ten nights' (Ṛ. 1-116-24), it is understood." The page's small type continues with the grammar of the doubtful words (*kuha*, *yāntā*, *suṣṭutim*, *śayutrā*, *kalaśam*, *nikhātam*, *daśame 'han*) — characterized, not transcribed.
+*Sense (mine; first sentences now read clearly from their repetition on p. 361):* "Once, the Aśvins, going to hear the praise of Uśanas, saw Rebha fallen into a well in the middle of the road, and drew him up out of the well. Then the ṛṣi, not knowing the dwelling-place of Kāvya to which the Aśvins were to go, asks the Aśvins: O sons (*napātā*) of heaven — of the shining Sun — O showerers of desires, Aśvins, *kuha* — where are you going, to hear the fine praise (*suṣṭutim*) of Kāvya, the Bhārgava, who is staying in his (*śayutrā*) resting-place? Or: *śayutrā* is an epithet of the Aśvins — you two, who protect one named Śayu. Like a golden jar (*hiraṇyasyeva kalaśam*) — as a vessel filled with gold, buried in the earth, unknown to all, is lifted out by someone who knows it — so you drew Rebha, whom the asuras had buried in a well, who stayed there ten nights and nine days, out of the well on the tenth day (*daśame 'han*). — That is the question: what was that dwelling-place? From the other mantra, 'ten nights' (Ṛ. 1-116-24), it is understood." The page's small type continues with the grammar of the doubtful words (*kuha*, *yāntā*, *suṣṭutim*, *śayutrā*, *kalaśam*, *nikhātam*, *daśame 'han*) — characterized, not transcribed.
 
 ---
 
@@ -8621,4 +8621,66 @@ Skandasvāmin:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–11 complete; Ṛk 12 through printed p. 359 (PDF 379): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics follow (p. 360). Next: printed p. 360 (PDF 380). Numerals taken from the numeral list where present (Ṛ. 1-116-24 in the bhāṣya). Open: small-type bhāṣya `[?]`.
+### Printed p. 360  (PDF 380; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 12)**
+
+In this Ṛk it is said that the Aśvins lifted out of the well and saved the ṛṣi Rebha, who had been lying in the well for nine days and ten nights:
+
+> दश रात्रीरशिवेना नव द्यून् अवनद्धं श्नथितमप्स्वन्तः ।
+> विप्रुतं रेभमुदनि प्रवृक्तमुन्निन्यथुः सोममिव स्रुवेण ॥
+> (ऋ. सं. १-११६-२४)
+
+> *daśa rātrīraśivenā nava dyūn avanaddhaṃ śnathitamapsvantaḥ |*
+> *viprutaṃ rebhamudani pravṛktamunninyathuḥ somamiva sruveṇa ‖*
+> *(ṛ. saṃ. 1-116-24)*
+
+"In this Ṛk too, the account of the saving of the ṛṣi Rebha — raising him from the well — is told."
+
+*Divo napātā* — *dyotamānasya sūryasya putrau*: "the sons of the shining Sun — the Aśvins" is the meaning. Skandasvāmin explains in detail that the Aśvins are the sons of Āditya (the Sun):
+
+> दिवो हि पुत्र आदित्यः ऐतरेयब्राह्मणे — प्रजापतिरकामयत [as read] प्रजायेय भूयान्स्यामित्यसृजत [?] — अग्निरेव पृथिव्या अजायत । वायुरन्तरिक्षात् । आदित्यो दिवः । (ऐ. ब्रा. ५-३२-१) इति श्रुतेः ।
+
+> *divo hi putra ādityaḥ aitareyabrāhmaṇe — prajāpatirakāmayata [as read] prajāyeya bhūyānsyāmityasṛjata [?] — agnireva pṛthivyā ajāyata | vāyurantarikṣāt | ādityo divaḥ | (ai. brā. 5-32-1) iti śruteḥ |*
+
+Kannada: "Understanding the Āditya as the son of heaven (the word *div* meaning the sky, mid-air), [he quotes the Aitareya Brāhmaṇa sentence — that Prajāpati, wishing 'May I be many, may I multiply', — from the earth Agni was born; from mid-air, Vāyu; from heaven, Āditya] — and as *evaṃ hi aitihāsikāḥ smaranti*, he quotes the Purāṇa passage as the knowers of legend recall it:
+
+> दिवः पुत्रो बृहद्भानुश्चक्षुरात्मा विभावसुः ।
+> सविता स ऋचीकोऽर्को भानुरागावहो रविः ।
+> पुरा विवस्वतः सर्वे तेषां ज्येष्ठस्तथापरः ॥ इति । [as read; last line [?]]
+
+> *divaḥ putro bṛhadbhānuścakṣurātmā vibhāvasuḥ |*
+> *savitā sa ṛcīko 'rko bhānurāgāvaho raviḥ |*
+> *purā vivasvataḥ sarve teṣāṃ jyeṣṭhastathāparaḥ ‖ iti | [as read; last line [?]]*
+
+"Bṛhadbhānu, Cakṣus, Ātman, Vibhāvasu, Savitṛ, Ṛcīka, Arka, Bhānu, Āgāvaha, Ravi and Vivasvān — these are sons of heaven; of them Vivasvān alone is the eldest" — so he explains; and:
+
+> एवं दिवः पुत्रो विवस्वान् तस्य पुत्रावश्विनौ ।
+
+> *evaṃ divaḥ putro vivasvān tasya putrāvaśvinau |*
+
+"Vivasvān is thus a son of heaven; his sons are the Aśvins."
+
+---
+
+### Printed p. 361  (PDF 381; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> एवं हीतिहासमाचक्षते — त्वाष्ट्री सरण्यूर्विवस्वतः [?] आदित्यात् यमौ मिथुनं जनयाञ्चकार । सा सवर्णां प्रतिविधायान्यां अश्वं रूपं कृत्वा प्रदुद्राव । विवस्वान् आदित्योऽश्वमेव रूपं कृत्वा तामनुसृत्य तस्यां संबभूव । ततोऽश्विनौ जज्ञाते इति । एवमश्विनौ दिवः पौत्रौ ॥ [as read; small type, some words doubtful [?]]
+
+> *evaṃ hītihāsamācakṣate — tvāṣṭrī saraṇyūrvivasvataḥ [?] ādityāt yamau mithunaṃ janayāñcakāra | sā savarṇāṃ pratividhāyānyāṃ aśvaṃ rūpaṃ kṛtvā pradudrāva | vivasvān ādityo 'śvameva rūpaṃ kṛtvā tāmanusṛtya tasyāṃ saṃbabhūva | tato 'śvinau jajñāte iti | evamaśvinau divaḥ pautrau ‖ [as read; small type, some words doubtful [?]]*
+
+Kannada: "Saraṇyū, the daughter of Tvaṣṭṛ, from Vivasvān, called the Āditya, bore Yama and Yamunā [Yamī] — twin children. Because she could not bear the heat of the Āditya, she created another woman in her own likeness, set her in her place (as his wife), took the form of a mare, and fled from the Sun. Then the Āditya too took the form of a horse and followed her; hence the Aśvins were born — so the history is told. Thus the Aśvins are the grandchildren of [Dyaus] Brahmā, who lights all (in heaven)" — so he explains the history.
+
+*Kuha yāntā suṣṭutiṃ kāvyasya śayutrā* — *śayane nivāsasthāne vartamānasya bhārgavasya śobhanāṃ stutiṃ śrotuṃ kuha gacchantau*: "[O Aśvins,] where are you two going to hear the fine praise which the Bhārgava — Śukrācārya, who is staying in comfort in his dwelling — utters?" Since the question is asked by one who does not know the Aśvins' dwelling-place, the question here is that of one ignorant of the Aśvins' place:
+
+> पुरा खलु उशनसः स्तुतिं गच्छन्तावश्विनौ मार्गमध्ये कूपे पतितं रेभं दृष्ट्वा तं कूपादुदतारयताम् । तदानीमश्विभ्यां गन्तव्यं काव्यस्य निवासस्थानमजानन् ऋषिरश्विनौ पृच्छति ॥
+
+> *purā khalu uśanasaḥ stutiṃ gacchantāvaśvinau mārgamadhye kūpe patitaṃ rebhaṃ dṛṣṭvā taṃ kūpādudatārayatām | tadānīmaśvibhyāṃ gantavyaṃ kāvyasya nivāsasthānamajānan ṛṣiraśvinau pṛcchati ‖*
+
+Kannada: "Formerly, the Aśvins, going to hear the praise of Śukrācārya, saw the ṛṣi Rebha fallen in a well on the way and lifted him up. Afterwards Rebha, not seeing them (and wishing to learn the place where they were), asked a question" — so Sāyaṇa explains. And for the word *śayutrā* he explains, as an epithet of the Aśvins, "those who protect one called Śayu".
+
+*Hiraṇyasyeva kalaśam* — "the word *hiraṇyasya* is joined to *kalaśam*, and *iva* is used in the sense of comparison: as one who knows takes out a jar filled with gold, laid hidden in the earth's hollows where none can find it, so [you lifted out] Rebha who was in the well, …" *(the sentence continues in the Sāyaṇa quotation: "from the well, with the bhāṣya's *hiraṇyapūritaṃ kalaśaṃ bhūmyāṃ nikṣiptaṃ sarvair durjñātaṃ kaścid abhijña uddharati evaṃ rebham avagatya kūpād unnītavantau*"; the page ends mid-sentence; continues p. 362)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–11 complete; Ṛk 12 through printed p. 361 (PDF 381): Special Topics (Divo napātā; Kuha yāntā; Hiraṇyasyeva kalaśam begun, continues p. 362). p. 358 bhāṣya corrected from its repetition on p. 361. Next: printed p. 362 (PDF 382). Numerals: Ṛ. 1-116-24 and Ai. Br. 5-32-1 per numeral list.
