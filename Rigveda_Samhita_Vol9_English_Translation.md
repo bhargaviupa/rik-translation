@@ -764,13 +764,13 @@ Grammar page on *anantaḥ* (a *nañ*-bahuvrīhi, accent on the last syllable of
 
 **॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.4)**
 
-> भास्वती । नेत्री । सूनृतानाम् । अचेति । चित्रा । वि । दुरः । नः । आवरित्यावः [?] ।
+> भास्वती । नेत्री । सूनृतानाम् । अचेति । चित्रा । वि । दुरः । नः । आवरित्यावः ।
 > प्रऽअर्प्य । जगत् । वि । ऊं इति । नः । रायः । अख्यत् । उषाः । अजीः । भुवनानि । विश्वा ॥ ४ ॥
 
 > *bhāsvatī | netrī | sūnṛtānām | aceti | citrā | vi | duraḥ | naḥ | āvarityāvaḥ [?] |*
 > *pra 'arpya | jagat | vi | ūṃ iti | naḥ | rāyaḥ | akhyat | uṣāḥ | ajīḥ | bhuvanāni | viśvā ‖ 4 ‖*
 
-*(Reading note after viewing the Pada: the Saṃhitā's* āvaḥ *is given in the Pada as a separate pada ending in* iti*, printed letter by letter as* ā-v-a-r-i-t-y-ā-v-a-ḥ *and doubtful in the small type [?]; the Saṃhitā's* prārpyā *is the Pada's* pra-arpya*; the Saṃhitā's* ajīgar bhuvanāni *is the Pada's* ajīgaḥ | bhuvanāni*.)*
+*(Reading note after viewing the Pada: the Saṃhitā's* āvaḥ *is given in the Pada as a separate pada ending in* iti*, printed* ā-v-a-r-i-t-y-ā-v-a-ḥ *(read with doubt here; the same word printed clearly in the Pada of Ṛk 14 on p. 67, so the doubt is removed); the Saṃhitā's* prārpyā *is the Pada's* pra-arpya*; the Saṃhitā's* ajīgar bhuvanāni *is the Pada's* ajīgaḥ | bhuvanāni*.)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.4)**
 
@@ -1780,4 +1780,96 @@ Grammar page on *uvāsa* (*vas* "to dwell", *liṭ* 3rd singular; *ṇal* for *t
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–12 complete; Ṛk 13 through printed p. 66 (PDF 86): Special Topics (*uṣāḥ* Nirukta, *svadhābhiḥ*, *maghonī*, *dyūn*) and grammar page begun (continues p. 67). Next: printed p. 67 (PDF 87). Open: Nirukta clause on p. 65 `[?]`; Ni. numerals as read.
+### Printed p. 67  (PDF 87; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+*Grammar page of Ṛk 13, concluded (noted briefly):* *anu* (a *karmapravacanīya* by *anur lakṣaṇe*, Pā. 1-4-84 as read [?]; the second case governed by it by *karmapravacanīyayukte dvitīyā*, Pā. 2-3-8 as read [?], hence *uttarān dyūn*); *ajarā* (*na vidyate jarā yasyāḥ sā*; so too *amṛtā*, a *nañ*-bahuvrīhi; the bahuvrīhi accent is set aside by *ña-jara-mara-mitra-mṛtāḥ*, Pā. 6-2-116 as read [?], leaving the later member's first-syllable accent); *carati* (*car* "to move, to eat", *laṭ* 3rd singular; nighāta accent after an accented word). ‖ 13 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 14
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.14)**
+
+> व्यञ्जिभिर्दिव आतास्वद्यौदप कृष्णां निर्णिजं देव्यावः ।
+> प्रबोधयन्त्यरुणेभिरश्वैरोषा याति सुयुजा रथेन ॥ १४ ॥ [first word: the print has "vya-" with a damaged second letter; read *vyañjibhir* [?]]
+
+> *vyañjibhirdiva ātāsvadyaudapa kṛṣṇāṃ nirṇijaṃ devyāvaḥ |*
+> *prabodhayantyaruṇebhiraśvairoṣā yāti suyujā rathena ‖ 14 ‖ [first word: the print has "vya-" with a damaged second letter; read *vyañjibhir* [?]]*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.14)**
+
+> वि । अञ्जिऽभिः । दिवः । आतासु । अद्यौत् । अप । कृष्णाम् । निःऽनिजम् ।
+> देवी । आवरित्यावः ।
+> प्रऽबोधयन्ती । अरुणेभिः । अश्वैः । आ । उषाः । याति । सुऽयुजा । रथेन ॥ १४ ॥
+
+> *vi | añji 'bhiḥ | divaḥ | ātāsu | adyaut | apa | kṛṣṇām | niḥ 'nijam |*
+> *devī | āvarityāvaḥ |*
+> *pra 'bodhayantī | aruṇebhiḥ | aśvaiḥ | ā | uṣāḥ | yāti | su 'yujā | rathena ‖ 14 ‖*
+
+### Printed p. 68  (PDF 88; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.14)**
+
+> दिवो नभसः सम्बन्धिनीष्वातासु । दिक्प्रभेदे [?] । आतासु विस्तीर्णासु दिक्ष्वुषा अञ्जिभिर्व्यक्तैः प्रकाशकैस्तेजोभिर्व्यद्यौत् विद्योतते । प्रकाशते । सैषा देवी देवनशीला कृष्णां निर्णिजं निर्णिगिति रूपनाम । रात्रिकृतं कृष्णं रूपमपावृणोत् । प्रकाशेन तिरस्कृतवती । अपि चारुणेभिररुणवर्णैर्लोहितैर्वर्णैरश्वैर्वा वर्णपनशीलैः [?] स्वकीयैः किरणैस्तुरगैर्वा सुयुजा सम्यग्युक्तेन रथेनोषा आ याति । आगच्छति । किं कुर्वती । प्रबोधयन्ती सुप्तान्प्राणिनः प्रबुद्धान्कुर्वती ॥
+
+> *divo nabhasaḥ sambandhinīṣvātāsu | dikprabhede [?] | ātāsu vistīrṇāsu dikṣvuṣā añjibhirvyaktaiḥ prakāśakaistejobhirvyadyaut vidyotate | prakāśate | saiṣā devī devanaśīlā kṛṣṇāṃ nirṇijaṃ nirṇigiti rūpanāma | rātrikṛtaṃ kṛṣṇaṃ rūpamapāvṛṇot | prakāśena tiraskṛtavatī | api cāruṇebhiraruṇavarṇairlohitairvarṇairaśvairvā varṇapanaśīlaiḥ [?] svakīyaiḥ kiraṇaisturagairvā suyujā samyagyuktena rathenoṣā ā yāti | āgacchati | kiṃ kurvatī | prabodhayantī suptānprāṇinaḥ prabuddhānkurvatī ‖*
+
+*Sense (mine):* "In the *ātāsu*, the wide regions, of the sky (*divaḥ*, *nabhasaḥ*): Uṣas *vyadyaut* — shines forth, by her *añjibhiḥ*, her manifest, illuminating splendours, in the widely spread quarters. This goddess (*devī*, of shining nature) *apāvṛṇot* — has removed the dark *nirṇij*, 'form' (*nirṇik* is a name for form) made by night: she has overpowered it with light. And Uṣas comes (*ā yāti*) with a well-yoked chariot, with red (*aruṇebhiḥ*) horses — or with her own red rays, as it were horses. What does she do? *Prabodhayantī*, she wakes up the sleeping beings."
+
+*Grammatical tail (characterized, not transcribed):* *adyaut* (*dyut* "to shine", aorist *luṅ*; the *parasmaipada* by the Pā. rule on *dyutādibhyaḥ luṅi*, 1-3-91 as read [?]; the *cli* elided by the Vedic usage; guṇa, or *vṛddhi* of the *u* …; or from *dyai* "to approach"… [as printed: *yadvā dyai abhigamane, adādikaḥ…*]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*uṣasu*) *divaḥ* — of the atmosphere; *ātāsu* — in the quarters; *añjibhiḥ* — with illuminating splendour; *vi adyaut* — shines; *devī* — the luminous Uṣas; *kṛṣṇāṃ nirṇijam* — the black form (darkness); *apa āvaḥ* — has put away; *aruṇebhiḥ* — red-coloured; *aśvaiḥ* — with pervading rays (horses); *suyujā* — well yoked; *rathena* — by the chariot; *prabodhayantī* — rousing (the sleeping beings); *ā yāti* — comes."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Uṣas shines forth, by her rays, in the various regions of the atmosphere; the luminous one puts away the black form (darkness) which belongs to the night. She rouses the sleeping creatures, coming in a chariot yoked with red horses."
+
+**English Translation (as printed)**
+
+> The divine Ushas lights up with her beams the quarters of the heavens ; she has thrown off her gloomy form, and awaking (those who sleep), comes in her car, drawn by purple steeds.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**आतासु** — *Ātāsu* — "*ātetāsu vistīrṇāsu dikṣu*": "*ātāḥ*, *āśāḥ*, *uparāḥ* — among the eight names of the quarters (*dik*), since the word *āśā* is stated (Ni. 1-19 as read [?]), the meaning is 'quarters'."
+
+---
+
+### Printed p. 69  (PDF 89; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])  [Special Topics of Ṛk 14, continued]
+
+**निर्णिजम्** — *Nirṇijam* — "*rūpam*": "*nirṇik* is read among the sixteen names of form (*rūpa*) (Ni. 3-13 as read [?]); so the meaning is 'form'."
+
+**अरुणेभिः अश्वैः** — *Aruṇebhiḥ aśvaiḥ* — "*aruṇaiḥ lohitavarṇaiḥ vyāpanaśīlaiḥ svakīyaiḥ kiraṇaiḥ turagair vā*": "by her own rays, which are red-coloured and have a pervading nature, or by horses: this is the meaning. 'The red cows (*gāvaḥ*) of Uṣas' (Ni. 3-?? as read [?]): Yāska says that the red-coloured cows or rays are the vehicle of Uṣas. The idea is that the goddess Uṣas, pervading the atmosphere by her light, spreading in all the quarters, destroying the black form of the world that belongs to the night, comes shining in a chariot to which her red-coloured horses are yoked, or which is joined with red rays."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 14; grammar page, noted briefly)**
+
+Grammar page on *añjibhiḥ* (*añjū* "to anoint, to shine, to go"; the suffix *i* by the *ṇādika* [Uṇādi] rule; accent from the suffix; instrumental plural), *divaḥ* (accent of the ending by *ūḍidaṃpadādi*…), *adyaut* (*dyut* "to shine"; a root of the *ātmanepada* class, but by *dyudbhyo luṅi*, Pā. 1-3-91 as read [?], the *parasmaipada* in the aorist only; *cli* by *cli luṅi*; the *cli* elided by *vyatyayo bahulam*; elision of the *i* of *tip* by *itaś ca*; guṇa by *sārvadhātukārdhadhātukayoḥ* is applicable, but in the Veda *vṛddhi* arises; or from *dyai* "to approach", adādi; *luṅ* 3rd singular *tip*; *aṭ*; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; *vṛddhi* by *ukto vṛddhir luki hali*; the augment *aṭ*: *adyaut*; nighāta), *prabodhayantī* (*budh* "to know", causative since it is the instigator's action; *ṇic*; *śatṛ* in the *laṭ* sense; *śap*; guṇa and *ayādeśa* for the *ṇic*; the accent of the personal-ending by *tāsyanudāttet…*, so the *ṇic* accent remains; in the compound the first-member accent by *gatikārakopapadāt kṛt*; feminine *ṅīp* by *ugitaś ca*).
+
+### Printed p. 70  (PDF 90; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *aruṇebhiḥ* (*aruṇa* + *bhis*, with *aisbhāva* optional by *bahulaṃ chandasi*, Pā. 7-1-10 as read [?], hence not applied here; *et* for the *a* before a plural *jhal* ending by *bahuvacane jhaly et*), *yāti* (*yā* "to go", *laṭ* 3rd singular; nighāta after an accented word), *suyujā* (*yujir* "to join"; because it belongs to the *sampadādi* group, *kvip* in the abstract; the stem *suyuj*; instrumental singular; the accent on the last syllable by *nañsubhyām*, Pā. 6-2-172 as read [?]). ‖ 14 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 15
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.15)**
+
+> आवहन्ती पोष्या वार्याणि चित्रं केतुं कृणुते चेकिताना ।
+> ईयुषीणामुपमा शश्वतीनां विभातीनां प्रथमोषा व्यश्वैत् ॥ १५ ॥
+
+> *āvahantī poṣyā vāryāṇi citraṃ ketuṃ kṛṇute cekitānā |*
+> *īyuṣīṇāmupamā śaśvatīnāṃ vibhātīnāṃ prathamoṣā vyaśvait ‖ 15 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.15)**
+
+> आऽवहन्ती । पोष्या । वार्याणि । चित्रम् । केतुम् । कृणुते । चेकिताना ।
+> ईयुषीणाम् । उपऽमा । शश्वतीनाम् । विऽभातीनाम् । प्रथमा । उषाः । वि । अश्वैत् ॥ १५ ॥
+
+> *ā 'vahantī | poṣyā | vāryāṇi | citram | ketum | kṛṇute | cekitānā |*
+> *īyuṣīṇām | upa 'mā | śaśvatīnām | vi 'bhātīnām | prathamā | uṣāḥ | vi | aśvait ‖ 15 ‖*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–14 complete (through printed p. 70, PDF 90); Ṛk 15 Saṃhitā and Pada written. Next: printed p. 71 (PDF 91) — Ṛk 15 bhāṣya… Open: as before.
