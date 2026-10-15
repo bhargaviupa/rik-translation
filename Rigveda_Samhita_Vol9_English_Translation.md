@@ -7102,4 +7102,62 @@ and explains *jasuriṃ* as '*jastaṃ baddhaṃ kaṭṭalpaṭṭa*' [= bound,
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–22 complete; Ṛk 23 through the printed English on p. 297 (PDF 317): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 298 (PDF 318) — Ṛk 23 Special Topics, grammar; then Ṛks 24–25 (the last of Sūkta 116; Sūkta 117 starts p. 308). Open: numerals as read `[?]`; Ṛ. refs on p. 295 partly illegible.
+### Printed p. 298  (PDF 318; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**पशुं न नष्टमिव** — *Paśuṃ na naṣṭam iva* — "*iva upamārthīyaḥ pūrakaḥ*": "Sāyaṇa says that, since the words *na* and *iva* are in the sense of comparison, here the word *iva* is a *padapūraka* (filler). Skandasvāmin: '*paunaruktyāt astyupamārthasya samprati kārthaṃ prayogaḥ*' (Ni. 1-?? as read [?]) — in the sense of '*yathā paśuṃ naṣṭaṃ kaścid idānīm asmai didṛkṣave dadyāt evam*': 'as someone would now give a lost animal to him who wishes to see it, so [you gave]'. Here, since two words of comparison — *na* and *iva* — are present, there would be repetition; so for the word *na* the meaning of *upamā* is [said to be] *samprati* ('now'), and here, he explains, *na* is a *padapūraka*.
+
+*Viśvako nāma rājarṣeḥ putraḥ pramādād upananaṣṭe snehād vipatty-āśaṅkayā kasya pālanaṃ punar naṣṭaṃ darśanam icchan aśvinau tuṣṭāva …* [the Sanskrit is in small type; read letter by letter and doubtful [?]]: 'Viśvaka, the son of a royal sage, when his own son was lost, through carelessness [?], afraid of calamity because of affection, praised the Aśvins, wishing to see again the lost [son]: to him the lovely Aśvins gave [back] the son: this is what is said here: *avasyave* and so on.' In Kannada: Viśvaka, the son of a royal sage, his son having gone out of his father's sight through carelessness, [Viśvaka] anxious through love, suspecting danger — wishing to see his son, praised the Aśvin deities; the Aśvin deities called that son and showed him to Viśvaka. Just as another person searches for an animal that had been lost, and calling it, shows it, so the Aśvin deities called the son of Viśvaka and brought and showed him: this is described here."
+
+**कृष्णियाय** — *Kṛṣṇiyāya* — "*kṛṣṇo nāma kaścit | tasya putraḥ kṛṣṇiyaḥ*": "Kṛṣṇa is the name of a person; his son is *kṛṣṇiya*: the suffix comes in the sense of 'offspring' and gives the form *kṛṣṇiya*."
+
+**विश्वकाय** — *Viśvakāya* — "*etatsaṃjñāya* — to the one named Viśvaka."
+
+**ऋजूयते** — *Ṛjūyate* — "*ṛjum ātmana icchate*: for the sake of one who desires the straight (honest) conduct of a good man, without deceit and without crookedness; for the man who desires the practice of upright conduct — this is the meaning."
+
+**विष्णाप्वम्** — *Viṣṇāpvam* — "Viṣṇāpva is the son of Viśvaka. This matter is told in this sūkta and in the Ṛks Ṛ. Saṃ. 1-117-7 [as read]; 8-?-?; 10-65-12 [as read]."
+
+### Printed p. 299  (PDF 319; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 23; grammar page, noted briefly)**
+
+*avasyate* (*avaḥ rakṣaṇam ātmana icchati avasyati*; *supa ātmanaḥ kyac*, Pā. 3-1-8 as read [?], *kyac* in the sense of wish; *sanādyantā dhātavaḥ*, Pā. 3-1-32 as read [?], *avasya* gets the name of a root; *laṭ*, then *śatṛ*; *śap* as *vikaraṇa*; *ato guṇe*, Pā. 6-1-97 as read [?], *pararūpa*; the form *avasyat*; dative singular; since *śatṛ* is without *num*, the ending is accented *udātta* by *śatur anumo nadyajādī*, Pā. 6-1-173 as read [?]); *stuvate* (*ṣṭuñ* "to praise"; *śatṛ* in the *laṭ* sense; as it is *jit*… *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*, Pā. 6-4-77 as read [?], *uvaṅ*; as before the ending accented *udātta*); *kṛṣṇiyāya* (*kṛṣṇasya apatyaṃ pumān kṛṣṇiyaḥ*; the suffix *ghaṇ* in the sense of 'offspring' in the Veda; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*, Pā. 7-1-2 as read [?], *iya*; *yasyeti ca*, Pā. 6-4-148 as read [?], elision of the *a*; *citaḥ*, Pā. 6-1-163 as read [?], final accent); *ṛjūyate* (*ṛjum ātmana icchati ṛjūyati*; *supa ātmanaḥ kyac*; as before *śatṛ*; accent of the ending); *naṣṭam* (*naśa* "to disappear"; *niṣṭhā*, *kta*, Pā. 3-2-102 as read [?]; *noṇaḥ*… *ṇatva* of *n* in the initial position by *no naḥ*, Pā. 6-1-65 as read [?]; *vraścabhrasjasṛjamṛjayajarājabhrājacchaśām*, Pā. 8-2-36 as read [?], *ṣa* for the root's *ś*; as a result *ṣṭutva* of the suffix; final accent from the suffix; accusative singular); *darśanāya* (*dṛśir* "to see"; *lyuṭ* in the abstract sense; *yuvor anākau*, Pā. 7-1-1 as read [?], *ana*; guṇa of the root; *liti*, Pā. 6-1-193 as read [?], *udātta* on the syllable before the suffix); *dadathuḥ* (*ḍudāñ* "to give"; *liṭ* 2nd dual; nighāta after an accented word). ‖ 23 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 24
+
+### Printed p. 300  (PDF 320; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.24)**
+
+> दश रात्रीरशिवेना नव द्यूनवनद्धं श्नथितमप्स्वन्तः ।
+> विप्रुतं रेभमुदनि प्रवृक्तमुन्निन्यथुः सोममिव स्रुवेण ॥ २४ ॥
+
+> *daśa rātrīraśivenā nava dyūnavanaddhaṃ śnathitamapsvantaḥ |*
+> *viprutaṃ rebhamudani pravṛktamunninyathuḥ somamiva sruveṇa ‖ 24 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.24)**
+
+> दश । रात्रीः । अशिवेन । नव । द्यून् । अवऽनद्धम् । श्नथितम् ।
+> अप्ऽसु । अन्तरिति ।
+> विऽप्रुतम् । रेभम् । उदनि । प्रऽवृक्तम् । उत् । निन्यथुः ।
+> सोमम्ऽइव । स्रुवेण ॥ २४ ॥
+
+> *daśa | rātrīḥ | aśivena | nava | dyūn | ava 'naddham | śnathitam |*
+> *ap 'su | antariti |*
+> *vi 'prutam | rebham | udani | pra 'vṛktam | ut | ninyathuḥ |*
+> *somam 'iva | sruveṇa ‖ 24 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.24)**
+
+> पुरा खलु रेभमृषिं पार्श्वैर्बद्ध्वासुराः कूपे कस्यचिद्दिवसस्य सायंकाले प्राक्षिपुः । स चाश्विनौ स्तुवन् दश रात्रीर्नवाहानि च कूपमध्ये तथैवावस्थितो ऽभूत् । दशमेऽहनि प्रातरश्विनौ तं कूपादुदतारयतामिति । तदाह । अप्सु कूपान्तर्वर्तिनीष्वप्स्वन्तर्मध्ये असुरैः पाशैर्दुःखहेतुना वाग्भिर्बद्धं श्नथितं शत्रुभिर्हिंसितं दश रात्रीर्दशसंख्याका निशा नव द्यून् नवसंख्याकान्यहानि च अशिवेन अकल्याणेन [?] …
+
+> *purā khalu rebhamṛṣiṃ pārśvairbaddhvāsurāḥ kūpe kasyaciddivasasya sāyaṃkāle prākṣipuḥ | sa cāśvinau stuvan daśa rātrīrnavāhāni ca kūpamadhye tathaivāvasthito 'bhūt | daśame 'hani prātaraśvinau taṃ kūpādudatārayatāmiti | tadāha | apsu kūpāntarvartinīṣvapsvantarmadhye asuraiḥ pāśairduḥkhahetunā vāgbhirbaddhaṃ śnathitaṃ śatrubhirhiṃsitaṃ daśa rātrīrdaśasaṃkhyākā niśā nava dyūn navasaṃkhyākānyahāni ca aśivena akalyāṇena [?] …*
+
+*Sense (mine):* "Once, the Asuras, having bound the ṛṣi Rebha with ropes at the sides, threw him into a well at the evening of some day. And he, praising the Aśvins, remained so ten nights and nine days in the well. On the tenth day, in the morning, the Aśvins lifted him out of the well. This is said: in the waters (*apsu*) within the well, bound with ropes by the Asuras, a cause of pain, *śnathitam* — injured by enemies — for *daśa rātrīḥ*, ten nights, *nava dyūn*, nine days, *aśivena*, with misery …" *(the bhāṣya continues on p. 301)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–23 complete; Ṛk 24 Saṃhitā, Pada and the opening of the bhāṣya written (printed p. 300, PDF 320; the bhāṣya continues on p. 301). Next: printed p. 301 (PDF 321). Then Ṛk 25 (last of Sūkta 116); Sūkta 117 starts p. 308. Open: numerals as read `[?]`; small type `[?]`.
