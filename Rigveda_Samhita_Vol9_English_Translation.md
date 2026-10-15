@@ -19,15 +19,24 @@ It is a settled matter that Skandasvāmin is earlier than Sāyaṇa, who belongs
 > श्रीमतोऽवन्तिनाथस्य विक्रमस्य क्षितीशितुः ।
 > धर्माध्यक्षो हरिस्वामी व्याख्यां कुर्वे यथामति ॥
 
+> *śrīmato 'vantināthasya vikramasya kṣitīśituḥ |*
+> *dharmādhyakṣo harisvāmī vyākhyāṃ kurve yathāmati ‖*
+
 "I, Harisvāmin, the Dharmādhyakṣa (chief of justice) of the illustrious Vikrama, lord of Avanti, ruler of the earth, write the commentary according to my understanding." Harisvāmin says in the introduction to his bhāṣya that he is the one who adorns the office of chief of justice at the court of Vikramāditya, the Avantinātha and emperor, and that he writes an exposition of the Śatapatha Brāhmaṇa as best he can. And again:
 
 > यः सम्राट् कृतवान् सप्त सोमसंस्थास्तथर्क्श्रुतम् ।
 > व्याख्यां कृत्स्नाध्यापयेन्नाम्ना श्रीस्कन्दस्वाम्यस्ति मे गुरुः ॥ [?]
 
+> *yaḥ samrāṭ kṛtavān sapta somasaṃsthāstatharkśrutam |*
+> *vyākhyāṃ kṛtsnādhyāpayennāmnā śrīskandasvāmyasti me guruḥ ‖ [?]*
+
 "My teacher is Śrī Skandasvāmin — the one who wrote the *prayoga* of the Soma sacrifices and a commentary on the Ṛgveda, and whom all scholars, and the emperor himself, [honour]" (the Kannada says: the teacher of the Soma-yāgas' procedure and the author of the Ṛgveda bhāṣya, my guru, honoured by all the śāstra-scholars and by the emperor). The date of Harisvāmin too is known from his own words:
 
 > यदा दी(=ब्दा)नां कलेर्जग्मुः षट्त्रिंशच्छतानि वै ।
 > चत्वारिंशत्समाश्चान्यास्तदा भाष्यमिदं कृतम् ॥
+
+> *yadā dī(=bdā)nāṃ kalerjagmuḥ ṣaṭtriṃśacchatāni vai |*
+> *catvāriṃśatsamāścānyāstadā bhāṣyamidaṃ kṛtam ‖*
 
 "When 3,600 years of the Kali (age) and forty more years had passed, then this bhāṣya was composed" — he states his own date (Kali 3640, i.e. as the Kannada says "three thousand six hundred and forty years"). By this, according to the reckoning of historical researchers, it corresponds to about 5[3]8 [?] of the Christian era. At that time Yaśodharman was ruler of Mālava, and Harisvāmin …
 
@@ -41,6 +50,9 @@ The Eighth Adhyāya begins with the Sūkta addressed to Uṣas, the dawn: "**ida
 
 > इदं श्रेष्ठं ज्योतिषां ज्योतिः भास्वती नेत्री सूनृतानाम् ।
 > उषा दिवो दुहिता यावयद्द्वेषा ऋतेजाः ॥ [phrases as printed in bold, running text; separated by commas in the source — doubtful reading of the last words [?]]
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotiḥ bhāsvatī netrī sūnṛtānām |*
+> *uṣā divo duhitā yāvayaddveṣā ṛtejāḥ ‖ [phrases as printed in bold, running text; separated by commas in the source — doubtful reading of the last words [?]]*
 
 In the Ṛgsaṃhitā there are more than twenty Sūktas addressed to Uṣas. In these hundred-odd Ṛks the description and praise of this goddess awaken the poetic genius of the Sūkta-seer. But in Ṛks such as "**punaḥ-punar jāyamānā purāṇī, devī yuvatiḥ**" etc. there is mixed together a kind of agitation along with the joy that is plainly expressed. Having praised Uṣas, who gives consciousness and light to the whole world, and fills living beings with enthusiasm, and having described beauty, the seer then, after manifesting the world, seems to show in most places an anxiety about the fact that Uṣas, who is for ever in the state of youth in the light, (while) before her all beings, becoming old and dying in a short time. Along with the enjoyment of beauty there is also direct experience. About the goddess Uṣas Prof. Max Müller has said some thought-provoking remarks, so they are quoted here (English, as printed):
 
@@ -68,6 +80,9 @@ The word *ṛta* indicates the order of the universe, both physical and moral. M
 
 > द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।
 > आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः ॥
+
+> *dvādaśāraṃ nahi tajjarāya varvarti cakraṃ pari dyāmṛtasya |*
+> *ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ ‖*
 > (Ṛ. Saṃ. 1-164-11)
 
 "The wheel of Ṛta with twelve spokes (months) revolves ceaselessly round the sky" — in this Ṛk, the wheel called *ṛta*, which has twelve spokes (months), is described as revolving constantly in the atmosphere. That Uṣas follows the path of this Ṛta by its rule —
@@ -75,21 +90,32 @@ The word *ṛta* indicates the order of the universe, both physical and moral. M
 ### Printed p. v  (PDF 12; the page number is not visible in the crop)
 
 > ऋतस्य देवीः सदसो बुधाना गवां न सर्गा उषसो जरन्ते ।
+
+> *ṛtasya devīḥ sadaso budhānā gavāṃ na sargā uṣaso jarante |*
 > (Ṛ. Saṃ. 4-51-8) [as read]
 >
 > ऋतस्य योषा न मिनाति धामाहरहर्निष्कृतमाचरन्ती ।
+
+> *ṛtasya yoṣā na mināti dhāmāharaharniṣkṛtamācarantī |*
 > (Ṛ. Saṃ. 1-124-2) [?]
 >
 > ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ।
+
+> *ṛtasya panthāmanveti sādhu prajānatīva na diśo mināti |*
 > (Ṛ. Saṃ. 1-124-3)
 >
 > ऋतस्य बुध्न उषसामिषण्यन् वृषा मही रोदसी आ विवेश ।
+
+> *ṛtasya budhna uṣasāmiṣaṇyan vṛṣā mahī rodasī ā viveśa |*
 > (Ṛ. Saṃ. 3-61-2)
 
 — in these and other Ṛks it is described how Uṣas follows the path of Ṛta and keeps her rule every day without lapse, obeying the law of Ṛta. And so that this path of Ṛta may be followed, in the Ṛk
 
 > उप नो वाजिनीवसू यातमृतस्य पथिभिः ।
 > येभिस्तृक्षिं वृषणा त्रासदस्यवं महे क्षत्राय जिन्वथः ॥
+
+> *upa no vājinīvasū yātamṛtasya pathibhiḥ |*
+> *yebhistṛkṣiṃ vṛṣaṇā trāsadasyavaṃ mahe kṣatrāya jinvathaḥ ‖*
 > (Ṛ. Saṃ. 8-?-2 [?])
 
 the Aśvin deities too are prayed to. In following the path of Ṛta there is a relation of mutual need between Uṣas and the Aśvins.
@@ -98,12 +124,18 @@ In many Ṛks, e.g. "*yahvī ṛtasya mātarā*" (1-142-7 [?]), "*suprātīke va
 
 > स्वद्वस्रा मनोयुजा रथेन पृथुपाजसा ।
 > सचेथे अश्विनोषसम् ॥ [? first word]
+
+> *svadvasrā manoyujā rathena pṛthupājasā |*
+> *sacethe aśvinoṣasam ‖ [? first word]*
 > (Ṛ. Saṃ. 8-?-3 [?])
 
 The Aśvin deities, who do wonderful deeds, sit in their chariots and follow the very path of the Uṣases. Uṣas prays that such Aśvin deities be awakened, in the words "*pra bodhayoṣo aśvinā*" (8-?-12 [?]). "
 
 > अबोध्यग्निर्ज्म उदेति सूर्यो व्यु षाश्चन्द्रा मह्यावो अर्चिषा ।
 > आयुक्षातामश्विना यातवे रथं प्रासावीद्देवः सविता जगत्पृथक् ॥
+
+> *abodhyagnirjma udeti sūryo vyu ṣāścandrā mahyāvo arciṣā |*
+> *āyukṣātāmaśvinā yātave rathaṃ prāsāvīddevaḥ savitā jagatpṛthak ‖*
 > (Ṛ. Saṃ. 1-157-1)
 
 In this Ṛk the contemporaneity of the rising of Sūrya and Uṣas and the coming of the Aśvin deities is stated. Thus, in physical (*bhautika*)
