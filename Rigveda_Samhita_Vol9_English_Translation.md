@@ -12439,4 +12439,44 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–7 complete; Ṛk 8 through printed p. 523 (PDF 543): Saṃhitā, Pada, bhāṣya, pratipadārtha written; bhāvārtha, English, Special Topics and grammar follow (p. 524). Next: printed p. 524 (PDF 544). Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 522–523 `[as read]`.
+### Printed p. 524  (PDF 544; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.8)** (Kannada, rendered)
+
+"O Aśvins! Do not hand us over to (our) enemies; may our cows, which nourish us with their milk, not leave their calves and go anywhere."
+
+**English Translation (as printed)**
+
+"Deliver us not, Aswins, to our enemies; never may our cows, who nourish us with their udders, stray from our houses, separated from their calves."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 8)**
+
+*Stanābhujaḥ* — *stanaiḥ vatsān manuṣyāṃś ca pālayantyaḥ*: "Sāyaṇa explains: 'cows which protect, by their udders, calves and men by giving them milk'. Skandasvāmin: *stanaiḥ bhujyante yāsāṃ tāḥ stanābhujaḥ* — 'cows whose udders are enjoyed [i.e. milked] by calves' — he describes [them] as such [creatures whose udders are enjoyed by calves].
+
+Skandasvāmin gives a meaning somewhat different from what Sāyaṇa says:
+
+> द्वितीयपादे धेनूनामुपादानात् तत्सन्निध्यात् धेनूर्वा । धनं वा मा कस्मै चित् अभ्यमित्रिणे अमित्राय दत्तम् ॥
+
+> *dvitīyapāde dhenūnāmupādānāt tatsannidhyāt dhenūrvā | dhanaṃ vā mā kasmai cit abhyamitriṇe amitrāya dattam ‖*
+
+— In the second pāda of this Ṛk, by the word 'cows' [*dhenavaḥ*]; and also, [as] 'us and:
+
+> अस्माकं संबन्धिभ्यो गृहेभ्यो युवाभ्यां दत्ताः धेनवः दुह्यन्ते याः गावः ताः ॥
+
+> *asmākaṃ saṃbandhibhyo gṛhebhyo yuvābhyāṃ dattāḥ dhenavaḥ duhyante yāḥ gāvaḥ tāḥ ‖*
+
+— "the cows given by you to us, which are being milked, and do not lead them to our enemies [i.e. do not let them go astray], but protect them" — such a prayer is described here. And that our wealth should not fall into enemies' hands, and that the cows, along with their calves, which give milk, should remain in our houses constantly, without going elsewhere — so [the poet] prays to the Aśvins."
+
+*Akutra* — *asmābhir agamye pradeśe*: "'in a place not reachable by us' — Sāyaṇa; Skandasvāmin: *yatra na jñāyate kiṃcid iti tadakiṃ corasthānam | tatra akutra | ajñeye corasthāne* — 'the place where nothing is known, [that is,] a thieves' hide-out; there, *akutra*: in an unknowable thieves' lair'. He explains that the place that is not known [to us] is called *akutra*; it is a thieves' hide-out, hard to know."
+
+---
+
+### Printed p. 525  (PDF 545; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly; sūtra numbers as read)**
+
+*Dhātam* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; *luṅ*, second person dual, *tam* substituted; since *cli* has *sic* substituted, *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77 as read), *luk* for it; since *māṅ* is connected, *na māṅyoge* (Pā. 6-4-74 as read), the augment *aṭ* is prohibited. *Amitriṇe* — "*na vidyate mitraṃ yasya* is *amitraḥ*; *amitram asya asti iti amitrī*; to him, *amitriṇe*": *ata iniṭhanau* (Pā. 5-2-115 as read), the suffix *ini* in the sense of *matup*; by the suffix's accent; *āṭ kuppvāṅnum…*, *ṇatva* of the *n*. *Akutra* — *parādiś chandasi bahulam* (Pā. 6-2-199 as read), the latter member's initial acute; *nipātasya ca* (Pā. 6-3-136 as read), lengthening in the Saṃhitā. *Guḥ* — root *iṇ gatau*; *luṅ*, third person plural, the suffix *jhi*; *iṇo gā luṅi* (Pā. 2-4-45 as read), *gā* substituted for the root, since *luṅ* is the cause; since *cli* has *sic* substituted, *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77 as read), *luk* for *sic*; *āto 'ntaḥ* … (Pā. 3-4-110 as read), since *sic* has been elided and *jhi* follows an *ā*-ending, *jus* is substituted for *jhi*; *uṣyapadāntāt* (Pā. 6-1-96 as read), *pararūpa*; *na māṅyoge* (Pā. 6-4-74 as read), prohibition of the augment *aṭ*; *tiṅanta nighāta* accent. *Stanābhujaḥ* — root *bhuja pālanābhyavahārayoḥ*; "*stanyena bhuñjanti pālayanti iti stanābhujaḥ*" (those that protect [calves and men] with their milk); *kvip ca* (Pā. 3-2-76 as read), the suffix *kvip*; *anyeṣām api dṛśyate* (Pā. 6-3-137 as read), lengthening of the former member; *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read), the *kṛdanta* hind-part keeps its natural accent; nominative plural form. *Aśiśvīḥ* — *sakhyaśiśvī iti bhāṣāyām* (Pā. 4-1-62 as read): [a form] enjoined for the common language by the sūtra, but by *vyatyaya* the irregular formation must also be admitted in the Veda. Or: "*śiśur asya asti iti śiśvī*" — *chandasīvanipau* [*chandasīvanipāv*…] (Pā. 5-2-109 as read), the suffix *ī* in the sense of *matup*; *na śiśvī aśiśvī*; in the *nañ* compound, *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 as read), the *avyaya* former member keeps its natural accent; with *jas* following, *vā chandasi* (Pā. 6-1-106 as read), *pūrvasavarṇadīrgha* …
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–7 complete; Ṛk 8 through printed p. 525 (PDF 545): all parts done except the end of its grammar (*aśiśvīḥ*; continues p. 526). Next: printed p. 526 (PDF 546). Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 524–525 `[as read]`.
