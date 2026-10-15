@@ -12479,4 +12479,56 @@ Skandasvāmin gives a meaning somewhat different from what Sāyaṇa says:
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–7 complete; Ṛk 8 through printed p. 525 (PDF 545): all parts done except the end of its grammar (*aśiśvīḥ*; continues p. 526). Next: printed p. 526 (PDF 546). Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 524–525 `[as read]`.
+### Printed p. 526  (PDF 546; header "Maṃ. 1 A. 17 Sū. 120")
+
+*Grammar of Ṛk 8, concluded (noted briefly; sūtra numbers as read):* *Aśiśvīḥ* (continued) — Or: root *śīṅ svapne*; *utsargaś chandasi* [as read; Pā. 3-2-171 vārttika? [?]], the suffix *kvi* (*kvin*); on that account doubling of the root; *hrasvaḥ* (Pā. 7-4-59 as read), shortening of the reduplicative syllable; *erānekācaḥ asaṃyogapūrvasya* (Pā. 6-4-82 as read), *yaṇ* substituted; by Vedic usage *vatva* [for the *anekāc* …]; as before, since it is a *nañ*-compound, the *nañ*-compound accent. ‖ 8 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 120.9)**
+
+> दुहीयन्मित्रधितये युवाकु राये च नो मिमीतं वाजवत्यै ।
+> इषे च नो मिमीतं धेनुमत्यै ॥ ९ ॥
+
+> *duhīyanmitradhitaye yuvāku rāye ca no mimītaṃ vājavatyai |*
+> *iṣe ca no mimītaṃ dhenumatyai ‖ 9 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.9)**
+
+> दुहीयन् । मित्रऽधितये । युवाकु । राये । च । नः ।
+> मिमीतम् । वाजऽवत्यै ।
+> इषे । च । नः । मिमीतम् । धेनुऽमत्यै ॥ ९ ॥
+
+> *duhīyan | mitra 'dhitaye | yuvāku | rāye | ca | naḥ |*
+> *mimītam | vāja 'vatyai |*
+> *iṣe | ca | naḥ | mimītam | dhenu 'matyai ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.9)** *(small type; read with some doubts)*
+
+> हे अश्विनौ युवाकु युवां कामयमानाः स्तुतिभिर्यावयितारः संयोजयितारो वा स्तोतारो मित्रधितये मित्राणां बन्धुजनानां धारणार्थं दुहीयन् । युष्मत्सकाशाद्धनानि दुहन्ति प्राप्नुवन्ति । अतो नोऽस्मानपि वाजवत्यै वाजयुक्ताय च रायै धनाय मिमीतम् । कुरुतम् । तथा धेनुमत्यै धेनुभिर्युक्तायेषे ऽन्नाय च नोऽस्मभ्यं मिमीतम् । कुरुतम् । अस्मभ्यं स्तोतृभ्यो बलयुक्तं धनं गोयुक्तमन्नं च प्रयच्छतमित्यर्थः ॥ दुहीयन् । दुह प्रपूरणे । दुहेर्दोहः । इगुपधात्कित् । (उ. ४-११६ [as read]) इति भाव इप्रत्ययः । दुहिमात्मन इच्छति दुहीयति । सुप आत्मनः क्यच् । दुहीयतेर्लेटि अडागमः । इतश्च लोप इतीकारलोपः । यद्वा । दुहेर्लिङि ऋत्विज्ञ रन् । (पा. ३-४-१०५ [as read]) इति व्यत्ययेन रनादेशाभावे रूपमेतत् । छान्दसोऽन्तलोपः ॥ [as read; part of the grammar tail characterized only] मिमीतम् । माङ् माने शब्दे च । जौहोत्यादिकः । व्यत्ययेन परस्मैपदम् । भृञामित्यभ्यासस्येत्वम् । चवायोगे प्रथमेति निघातप्रतिषेधः ॥
+
+> *he aśvinau yuvāku yuvāṃ kāmayamānāḥ stutibhiryāvayitāraḥ saṃyojayitāro vā stotāro mitradhitaye mitrāṇāṃ bandhujanānāṃ dhāraṇārthaṃ duhīyan | yuṣmatsakāśāddhanāni duhanti prāpnuvanti | ato no 'smānapi vājavatyai vājayuktāya ca rāyai dhanāya mimītam | kurutam | tathā dhenumatyai dhenubhiryuktāyeṣe 'nnāya ca no 'smabhyaṃ mimītam | kurutam | asmabhyaṃ stotṛbhyo balayuktaṃ dhanaṃ goyuktamannaṃ ca prayacchatamityarthaḥ ‖ duhīyan | duha prapūraṇe | duherdohaḥ | igupadhātkit | (u. 4-116 [as read]) iti bhāva ipratyayaḥ | duhimātmana icchati duhīyati | supa ātmanaḥ kyac | duhīyaterleṭi aḍāgamaḥ | itaśca lopa itīkāralopaḥ | yadvā | duherliṅi ṛtvijña ran | (pā. 3-4-105 [as read]) iti vyatyayena ranādeśābhāve rūpametat | chāndaso 'ntalopaḥ ‖ [as read; part of the grammar tail characterized only] mimītam | māṅ māne śabde ca | jauhotyādikaḥ | vyatyayena parasmaipadam | bhṛñāmityabhyāsasyetvam | cavāyoge prathameti nighātapratiṣedhaḥ ‖*
+
+*Sense (mine and tentative):* "O Aśvins, *yuvāku* — desirous of you, the praisers — who make [you] come by praises [or who unite]: for *mitradhitaye* — for the support of friends and kinsmen — they *duhīyan* — milk wealth from you, they obtain. Therefore, for us too, *mimītam* — make [for] *vājavatyai rāye* — wealth endowed with strength; and *dhenumatyai iṣe* — food endowed with cows — grant to us, the praisers — [that is:] give wealth endowed with strength and food together with cows."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.9)** (Kannada, rendered)
+
+*(He aśvinau)* — O Aśvins; *yuvāku* — those who desire you (the praisers); *mitradhitaye* — for the support of [their] friends; *duhīyan* — [from you] obtain wealth and the like; *(ataḥ)* — therefore; *naḥ* — us; *vājavatyai* — [endowed with] strength; *rāye ca* — and for wealth; *mimītam* — make (in a worthy manner); *(tathā)* — likewise; *dhenumatyai* — endowed with cows; *iṣe ca* — and for food; *naḥ* — to us; *mimītam* — do favour.
+
+---
+
+### Printed p. 527  (PDF 547; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.9)** (Kannada, rendered)
+
+"O Aśvins! Those who praise you obtain (from you) wealth and the like for the support of their friends; (therefore) favour us also with strength, wealth, cows and food (such as can be) enjoyed."
+
+**English Translation (as printed)**
+
+"Those who adore you obtain (wealth) for the support of their friends; direct us to opulence, bestowing food; direct us to food, associatted [sic] with cows."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 9)**
+
+*Yuvākuḥ* — *yuvāṃ kāmayamānāḥ stutibhir yāvayitāro vā stotāraḥ*: "'we call the Aśvins, desiring them, [praising] to protect [us]; or we praise [them]; or those who desire them, who wish to please them by praises' — such is the meaning that Sāyaṇa's exposition conveys: the ones who desire; who wish to win favour; or who praise."
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–8 complete; Ṛk 9 through printed p. 527 (PDF 547): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English written; Special Topics begun (continues p. 528). Next: printed p. 528 (PDF 548). Numerals as read (no numeral list covers these pages): Uṇ. 4-116, Pā. 3-4-105 `[as read]`.
