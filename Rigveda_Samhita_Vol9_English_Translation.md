@@ -5317,4 +5317,64 @@ and says (Ni. 6-13) '*purandhiḥ bahudhīḥ*'. From this Sāyaṇa explains: u
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–7 complete (through printed p. 220, PDF 240); Ṛk 8 Saṃhitā and Pada written. Next: printed p. 221 (PDF 241) — Ṛk 8 bhāṣya… Open: numerals as read `[?]`.
+### Printed p. 221  (PDF 241; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.8)**
+
+> अत्रेदमाख्यानम् । अत्रिमृषिमसुराः शतद्वारे पीडायन्त्रगृहे प्रवेश्य तुषाग्निनाबाधिषत । तदानीं तेन ऋषिना स्तुतावश्विनावग्निमुदकेनोपशमय्य तस्मात्पीडागृहादविकलेन्द्रियवर्गं सन्तं निरगमयतामिति । तदेतत्रेत्यादिना प्रतिपाद्यते । हे अश्विना युवां हिमेन हिमवच्छीतेनोदकेन घ्रंसं दीप्यमानमत्रेर्बाधनार्थमसुरैः प्रक्षिप्तं तुषाग्निमवारयेथाम् । युवां निवारितवन्तौ । शीतीकृतवन्तावित्यर्थः । अपि चास्मा असुरपीडया कार्श्यं प्राप्तायात्रये पितुमतीं । पितुरित्यन्ननाम । अन्नयुक्तामूर्जं बलप्रदं रसात्मकं क्षीरादिकमधत्तम् । पुष्ट्यर्थं प्रायच्छतम् । ऋबीसेऽपगतप्रकाशे पीडायन्त्रगृहेऽवनीतमवाङ्मुखतयासुरैः प्रापितमत्रिं सर्वगणम् । गणः समूहः । सर्वेषामिन्द्रियाणां पुत्रादीनां वा गणेनोपेतं स्वस्ति अविनाशो यथा भवति तथोन्निन्यथुः । तस्माद्गृहादुद्गमय्य युवां स्वगृहं प्रापितवन्तौ । यद्वा । हिमेन शीतेन वृष्ट्युदकेनाग्निवत्तीक्ष्णं घ्रंसं अहर्नामैतत् । सामर्थ्यात्रिदाघकालीनमहरवारयेथाम् । तस्माद्धर्मात्तीक्ष्णं निवारितवन्तौ । अपि चास्मा अग्नये पितुमतीं चरुपुरोडाशादिलक्षणान्नोपेतामूर्जं बलकरं रसात्मकमुपस्तरणाभिघारात्मकं घृतमधत्तम् । वृष्ट्युत्पादनेनाग्नेर्योगार्थं हवींषि निष्पादितवन्तावित्यर्थः । ऋबीसेऽपगततेजस्के पृथिवीद्रव्येऽवनीतोषधीनामुत्पादनायावस्थानीतम् । पार्थिवाग्निना परिपक्वा उदकेन क्लिन्ना ह्योषधिवनस्पतयो विरोहन्ति । अत्रिं हविषामत्तारमोषधिवनस्पत्यादीनां वा एवंविधमग्निं सर्वगणं व्रीहियवाद्योषधिगणोपेतं हे अश्विनौ युवां स्वस्ति अविनाशो यथा भवति तथोन्निन्यथुः । व्रीह्याद्योषधिवनस्पतिरूपेण भूमेरुपरिप्रापितवन्तौ । कारणात्मना पार्थिवाग्नौ वर्तमानं सर्वमोषधिवनस्पत्यादिकमश्विनौ प्रवर्षणेन व्यक्तीकृतवन्ताविस्यर्थः । अयं पक्षो यास्केन हिमेनोदकेनेत्यादिनोक्तः । नि. ६-३६ ॥ [grammatical tail: *pitumatīm* — *pitu* "food", *matup* with the udātta; *ṛbīse* — *ṛbīsam apagatabhāsam* … *apacitabhāsam apahṛtabhāsam* (Ni. 6-?? as read [?]); *pṛṣodarādi*; *atrim* — *ad* "to eat", *adeḥ striṇ ca*… *tri*; *avanītam* — *gatir anantaraḥ*, the prefix accent; *svasti* — *as* "to be", *bhāve ktin*, *chandasy ubhayathā*, *sārvadhātukatvād asaḥ… bhūbhāvābhāvaḥ*]
+
+> *atredamākhyānam | atrimṛṣimasurāḥ śatadvāre pīḍāyantragṛhe praveśya tuṣāgninābādhiṣata | tadānīṃ tena ṛṣinā stutāvaśvināvagnimudakenopaśamayya tasmātpīḍāgṛhādavikalendriyavargaṃ santaṃ niragamayatāmiti | tadetatretyādinā pratipādyate | he aśvinā yuvāṃ himena himavacchītenodakena ghraṃsaṃ dīpyamānamatrerbādhanārthamasuraiḥ prakṣiptaṃ tuṣāgnimavārayethām | yuvāṃ nivāritavantau | śītīkṛtavantāvityarthaḥ | api cāsmā asurapīḍayā kārśyaṃ prāptāyātraye pitumatīṃ | piturityannanāma | annayuktāmūrjaṃ balapradaṃ rasātmakaṃ kṣīrādikamadhattam | puṣṭyarthaṃ prāyacchatam | ṛbīse 'pagataprakāśe pīḍāyantragṛhe 'vanītamavāṅmukhatayāsuraiḥ prāpitamatriṃ sarvagaṇam | gaṇaḥ samūhaḥ | sarveṣāmindriyāṇāṃ putrādīnāṃ vā gaṇenopetaṃ svasti avināśo yathā bhavati tathonninyathuḥ | tasmādgṛhādudgamayya yuvāṃ svagṛhaṃ prāpitavantau | yadvā | himena śītena vṛṣṭyudakenāgnivattīkṣṇaṃ ghraṃsaṃ aharnāmaitat | sāmarthyātridāghakālīnamaharavārayethām | tasmāddharmāttīkṣṇaṃ nivāritavantau | api cāsmā agnaye pitumatīṃ carupuroḍāśādilakṣaṇānnopetāmūrjaṃ balakaraṃ rasātmakamupastaraṇābhighārātmakaṃ ghṛtamadhattam | vṛṣṭyutpādanenāgneryogārthaṃ havīṃṣi niṣpāditavantāvityarthaḥ | ṛbīse 'pagatatejaske pṛthivīdravye 'vanītoṣadhīnāmutpādanāyāvasthānītam | pārthivāgninā paripakvā udakena klinnā hyoṣadhivanaspatayo virohanti | atriṃ haviṣāmattāramoṣadhivanaspatyādīnāṃ vā evaṃvidhamagniṃ sarvagaṇaṃ vrīhiyavādyoṣadhigaṇopetaṃ he aśvinau yuvāṃ svasti avināśo yathā bhavati tathonninyathuḥ | vrīhyādyoṣadhivanaspatirūpeṇa bhūmerupariprāpitavantau | kāraṇātmanā pārthivāgnau vartamānaṃ sarvamoṣadhivanaspatyādikamaśvinau pravarṣaṇena vyaktīkṛtavantāvisyarthaḥ | ayaṃ pakṣo yāskena himenodakenetyādinoktaḥ | ni. 6-36 ‖ [grammatical tail: *pitumatīm* — *pitu* "food", *matup* with the udātta; *ṛbīse* — *ṛbīsam apagatabhāsam* … *apacitabhāsam apahṛtabhāsam* (Ni. 6-?? as read [?]); *pṛṣodarādi*; *atrim* — *ad* "to eat", *adeḥ striṇ ca*… *tri*; *avanītam* — *gatir anantaraḥ*, the prefix accent; *svasti* — *as* "to be", *bhāve ktin*, *chandasy ubhayathā*, *sārvadhātukatvād asaḥ… bhūbhāvābhāvaḥ*]*
+
+*Sense (mine):* "Here this story. The Asuras, having put the ṛṣi Atri into a hundred-doored torture-chamber, hurt him with a fire of husks. Then, Atri having praised the Aśvins, they put out the fire with water and brought him out of that torture-house with all his sense-organs intact: this is what is set forth beginning *hima*. O Aśvins, with *himena*, with water cold like snow, you stopped the *ghraṃsa*, the blazing husk-fire thrown by the Asuras to torment Atri. You stopped it: cooled it. And for this man, emaciated by the Asuras' torment, for Atri, you *adhattam*, gave, *pitumatīm* — *pitu* is a name for food: [an *ūrj*, strength-giving, sap-natured substance, such as] milk, provided with food — to nourish him. *Ṛbīse* — in the lightless torture-chamber; *avanītam* — put in it by the Asuras head downward; Atri *sarvagaṇam* — *gaṇa* is a collection; endowed with the whole group of all his organs, or of his sons and so on — you *unninyathuḥ*, drew out, so that there would be welfare, imperishableness. Having taken him out of that house you brought him to his own house. Or: *himena* — with the water of rain, cold; *ghraṃsa* is a name for 'day': you kept off the day, sharp as fire, of the hot season — you stopped it, a sharp thing from the heat. And for this Agni (fire), you gave *pitumatīm* — [the ghee] with food, provided with oblations such as *caru* and *purodāśa*; *ūrjam* — strength-making, sap-natured ghee, in the form of the *upastaraṇa* and *abhighāraṇa* [layers of ghee in the sacrifice]; by causing rain you produced oblations for the union with Agni. In the *ṛbīsa* — the earth-substance from which the splendour is gone — you *avanītam*, placed, to produce herbs. Herbs and trees, ripened by the earthly fire and moistened by water, grow. O Aśvins, such an Agni — the eater (*atri*) of oblations, or of herbs, trees and the rest — *sarvagaṇam*, together with the whole group of herbs such as rice and barley, you brought up, so that there might be imperishableness; as rice and the other herbs and trees, you brought them to the surface of the earth: that is, all that was present in the earthly fire in the form of cause — herbs, trees and the rest — you made manifest by the downpour. This view is stated by Yāska in 'himenodakena' (Ni. 6-36 as read [?])."
+
+### Printed p. 222  (PDF 242; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinā* — O Aśvin deities; *ghraṃsam* — blazing; *agnim* — fire (sent by the Asuras to harm Atri); *himena* — with cold water like snow; *avārayethām* — you put out (and also); *asmai* — to this (Atri, emaciated by the Asuras' torment); *pitumatīm* — endowed with food; *ūrjam* — strength-giving (milk and the like); *adhattam* — you gave (for nourishment); *ṛbīse* — in the torture-pit which was covered with darkness (by the Asuras); *avanītam* — thrown head down; *atrim* — Atri; *sarvagaṇam* — with all his senses [intact]; *svasti* — without any harm; *unninyathuḥ* — you raised up (and brought home)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"You put out with water cold as snow the blazing fire (sent by the Asuras to harm Atri), and gave to Atri, emaciated by the Asuras' torment, strength-giving milk and the like for nourishment; and you raised up the Atri who had been thrown head downward into the torture-pit of darkness, with all his limbs intact, and brought him home."
+
+**English Translation (as printed)**
+
+> You quenched with cold (water) the blazing flames (that encompassed Atri) and supplied him with food-supported strength ; you extricated him, As'wins, from the dark (cavern) into which he had been thrown headlong, and restored him to every kind of welfare.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**हिमेन** — *Himena* — "*himavat śītena udakena*": "with water that is cold like snow. *Himena vṛṣṭyudakena*: with rain-water. *Ghraṃsam* — *dīpyamānam agnim*: the burning fire, [which was] sharp and fierce; the word *ghraṃsa* is stated among the twelve names of day (*ahar*) (Ni. 1-?? as read [?]), and since the word is also read in the names of 'day', Sāyaṇa explains here that the meaning is 'day in the hot season'. The Asuras seized the ṛṣi named Atri and, to torment him, shut him in a house with many doors, a machine of torture, head downward, and cast him into a fire of husks (the fire of a kiln). By this the ṛṣi Atri, unable to bear the heat of the fire (his body burning), praised the Aśvin deities; they brought cold water like snow and saved the ṛṣi Atri: the Itihāsa is stated in this Ṛk by these words.
+
+### Printed p. 223  (PDF 243; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+And in general: in the hot season, from the heat of the Sun, the days are made to burn with heat, [and when] the rain falls on the world these Aśvin deities make all comfortable — two kinds of meaning appear here. In Sāyaṇa's exposition both kinds of meaning, the ṛṣi Atri and Agni the fire, are explained."
+
+**हिमेन** — *Himena* — "*himaṃ punar hanter vā hinoter vā*": "the word *hima* is derived from the root *han*, 'to kill', or from *hinoti*, 'to increase': 
+
+> हिमं पुनर्हन्तेर्वा हिनोतेर्वा । अजरमजरणधर्माणमनर्ममप्रतृतमन्यस्मिन् यत्रेमानि सर्वाणि भूतान्यभिसंतिष्ठन्ते ॥
+> (नि. ४-१२ [as read; [?]])
+
+> *himaṃ punarhantervā hinotervā | ajaramajaraṇadharmāṇamanarmamapratṛtamanyasmin yatremāni sarvāṇi bhūtānyabhisaṃtiṣṭhante ‖*
+> *(ni. 4-12 [as read; [?]])*
+
+— the word *hima*, from the root *han* 'to kill'; because in the cold season the herbs and trees are destroyed, so that in that season the leaves of the trees fall off and they become nearly dead, the word *hima* signifies 'killing', 'destroying'. And the other derivation, 'from *hinoti*', from the root *hi* 'to increase', Yāska's explanation says: in this cold season barley and other grains sprout and grow, so for the word *hima* the meaning 'satisfaction' may be given. Here the sense 'cold water' is to be taken. In the same way the word *ghraṃsa* too is read among the names of day (Ni. 1-?? as read [?]).
+
+> यो अस्मै घ्रंस उत वा य ऊधनि सोमं सुनोति भवति द्युमाँ अहः ॥
+> (ऋ. सं. ५-३४-५ [as read; [?]])
+
+> *yo asmai ghraṃsa uta vā ya ūdhani somaṃ sunoti bhavati dyumā~ ahaḥ ‖*
+> *(ṛ. saṃ. 5-34-5 [as read; [?]])*
+
+— in this Ṛk, the Nirukta-writer, as an example, says (Ni. 6-?? as read [?]) '*ghraṃsa ity ahar nāma | grasyate 'smin rasaḥ*': the word *ghraṃsa* is a name of *ahar*, the day; since the waters (juices) are sucked up by it [in this season], the day gets the name *ghraṃsa*: the meaning is explained; and
+
+> यद्देवयन्तमवथः शचीभिः परि घ्रंसमोमना वां वयो गात् ॥
+> (ऋ. सं. २-३९-४? [as read; [?]])
+
+> *yaddevayantamavathaḥ śacībhiḥ pari ghraṃsamomanā vāṃ vayo gāt ‖*
+> *(ṛ. saṃ. 2-39-4? [as read; [?]])*
+
+— in this Ṛk too (Ni. 6-?? as read [?]) the word *ghraṃsa* is used as denoting day. And the Nirukta-writer, in explaining the meaning of the word *ṛbīsa*, cites this very Ṛk (Ni. 6-36 as read [?]): '*himenodakena grīṣmāṃśe agniṃ ghraṃsam ahar avārayethām*' [= "in the hot season you checked the fire, the day, with water"]; *bīsa* [the explanation] — at the end of the hot season, you saved [us] from the difficulty of the day which, causing heat, draws out the water [— so he explains]."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–7 complete; Ṛk 8 through printed p. 223 (PDF 243): bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*himena*, *ghraṃsa*; continues p. 224). Next: printed p. 224 (PDF 244). Open: numerals as read `[?]`; Ni./Ṛ. refs `[?]`; bhāṣya small type `[?]`.
