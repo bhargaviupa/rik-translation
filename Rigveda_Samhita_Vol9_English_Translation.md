@@ -3744,4 +3744,159 @@ Sense: "*citram* — the sixth-Ṛk, tenth sūkta (of this anuvāka), of Kutsa; 
 
 ---
 
-**Progress note:** **Sūkta 114 complete** (Ṛks 1–11, printed pp. 97–148). Sūkta 115 (*citraṃ devānām*, 6 Ṛks, Sūrya) begun: introduction (Anukramaṇī, Sāyaṇa, Anuvāda) on printed p. 149 (PDF 169) done. Next: printed p. 150 (PDF 170) — Sūkta 115 header box and Ṛk 1. Sūkta 116 begins p. 177, Sūkta 117 p. 308 per the contents. Open: numerals as read `[?]` throughout; CLAUDE.md range 113–121.
+### Printed p. 150  (PDF 170; header "Maṃ. 1 A. 16 Sū. 115")
+
+**सूक्त—११५ (Sūkta 115)**
+॥ मण्डल—१ ॥ अनुवाक—१६ ॥ सूक्त—११५ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—६ *(small numeral; as printed)* ॥
+*Number of Ṛks:* 6. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* Sūrya. *Chandas:* Triṣṭubh.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 115.1)**
+
+> चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।
+> आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥ १ ॥
+
+> *citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ |*
+> *āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatastasthuṣaśca ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 115.1)**
+
+> चित्रम् । देवानाम् । उत् । अगात् । अनीकम् । चक्षुः । मित्रस्य ।
+> वरुणस्य । अग्नेः ।
+> आ । अप्राः । द्यावापृथिवी इति । अन्तरिक्षम् । सूर्यः । आत्मा ।
+> जगतः । तस्थुषः । च ॥ १ ॥
+
+> *citram | devānām | ut | agāt | anīkam | cakṣuḥ | mitrasya |*
+> *varuṇasya | agneḥ |*
+> *ā | aprāḥ | dyāvāpṛthivī iti | antarikṣam | sūryaḥ | ātmā |*
+> *jagataḥ | tasthuṣaḥ | ca ‖ 1 ‖*
+
+### Printed p. 151  (PDF 171; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 115.1)**
+
+> देवानां दीव्यन्तीति देवा रश्मयः । तेषां देवजनानामेव वानीकं तेजःसमूहरूपं चित्रमाश्चर्यकरं सूर्यस्य मण्डलमुदगात् । उदयाचलं प्राप्तमासीत् । कीदृशम् । मित्रस्य वरुणस्याग्नेश्च । उपलक्षणमेतत् । तदुपलक्षितानां जगतां चक्षुः प्रकाशकम् । चक्षुरिन्द्रियस्थानीयं वा । उदेयं प्राप्य च द्यावापृथिवी दिवं पृथिवीमन्तरिक्षं चाप्राः । स्वकीयेन तेजसा आ समन्तादपूरयत् । उद्गृहीतमण्डलान्तर्वर्ती सूर्योऽन्तर्यामितया सर्वस्य प्रेरकः परमात्मा जगतो जङ्गमस्य तस्थुषः स्थावरस्य चात्मा स्वरूपभूतः । स हि सर्वस्य स्थावरजङ्गमात्मकस्य कार्यवर्गस्य कारणं । कारणाच्च कार्यं नातिरिच्यते । तथा च पारमर्षं सूत्रं । तदनन्यत्वमारम्भणशब्दादिभ्यः । वेदां. २-१-१४ [as read] । इति ॥ यद्वा । स्थावरजङ्गमात्मकस्य सर्वस्य प्राणिजातस्य जीवात्मा । उदिते हि सूर्ये मृतप्रायं सर्वं जगत्प्रबुद्धं चेष्टायुक्तं सदुपलभ्यते । तथा च श्रूयते । योऽसौ तपन्नुदेति स सर्वेषां भूतानां प्राणानादायोदेतीति । तै. आ. १-१४-१ [as read] । इति ॥ [grammatical tail follows: *aprāḥ* — *prā* "to fill", *luṅ*, *cli*…; *jagataḥ* — *gam* with *kvip*… *tasthuṣaḥ* — *ṣṭhā* with *kvasu*, *saṃprasāraṇa*…]
+
+> *devānāṃ dīvyantīti devā raśmayaḥ | teṣāṃ devajanānāmeva vānīkaṃ tejaḥsamūharūpaṃ citramāścaryakaraṃ sūryasya maṇḍalamudagāt | udayācalaṃ prāptamāsīt | kīdṛśam | mitrasya varuṇasyāgneśca | upalakṣaṇametat | tadupalakṣitānāṃ jagatāṃ cakṣuḥ prakāśakam | cakṣurindriyasthānīyaṃ vā | udeyaṃ prāpya ca dyāvāpṛthivī divaṃ pṛthivīmantarikṣaṃ cāprāḥ | svakīyena tejasā ā samantādapūrayat | udgṛhītamaṇḍalāntarvartī sūryo 'ntaryāmitayā sarvasya prerakaḥ paramātmā jagato jaṅgamasya tasthuṣaḥ sthāvarasya cātmā svarūpabhūtaḥ | sa hi sarvasya sthāvarajaṅgamātmakasya kāryavargasya kāraṇaṃ | kāraṇācca kāryaṃ nātiricyate | tathā ca pāramarṣaṃ sūtraṃ | tadananyatvamārambhaṇaśabdādibhyaḥ | vedāṃ. 2-1-14 [as read] | iti ‖ yadvā | sthāvarajaṅgamātmakasya sarvasya prāṇijātasya jīvātmā | udite hi sūrye mṛtaprāyaṃ sarvaṃ jagatprabuddhaṃ ceṣṭāyuktaṃ sadupalabhyate | tathā ca śrūyate | yo 'sau tapannudeti sa sarveṣāṃ bhūtānāṃ prāṇānādāyodetīti | tai. ā. 1-14-1 [as read] | iti ‖ [grammatical tail follows: *aprāḥ* — *prā* "to fill", *luṅ*, *cli*…; *jagataḥ* — *gam* with *kvip*… *tasthuṣaḥ* — *ṣṭhā* with *kvasu*, *saṃprasāraṇa*…]*
+
+*Sense (mine):* "*Devānām* — the *devāḥ* are the rays ('those that shine, *dīvyanti*'); of those very bright beings, the *anīka* — a mass of splendour, a wonder-working orb of the Sun — *udagāt*, has risen, has reached the eastern mountain. How is it? It is the *cakṣuḥ*, eye, shower, of Mitra, Varuṇa and Agni — and this is an indication of the worlds characterised by them: or it stands in the place of the organ of sight. And having risen, it *āprāḥ* filled *dyāvāpṛthivī*, heaven, earth and the atmosphere, with its own splendour. The Sun, abiding within the risen orb, as inner controller, the impeller of all, the Supreme Self, is the *ātmā*, the very nature, of *jagataḥ*, the moving, and *tasthuṣaḥ*, the unmoving. For he is the cause of the whole class of effects, moving and unmoving; and the effect is not other than the cause; as the sūtra of Pārāśarya (Vyāsa) says, '*tad ananyatvam ārambhaṇaśabdādibhyaḥ*' (Vedānta-sūtra 2-1-14 as read [?]). Or: he is the *jīvātman* of the entire class of beings, moving and unmoving; for when the Sun rises, the whole world, nearly dead, is found awake and active; as the *śruti* says: '*yo 'sau tapann udeti sa sarveṣāṃ bhūtānāṃ prāṇān ādāyodeti*' (Tai. Ā. 1-14-1 as read [?])."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*devānām* — of the shining rays; *anīkam* — the mass; *citram* — the wonder-causing; *mitrasya varuṇasya agneḥ* — of Mitra, Varuṇa, Agni (the universe together with these); *cakṣuḥ* — the eye-like (disc of the Sun); *udagāt* — having risen; *dyāvāpṛthivī* — heaven and earth; *antarikṣaṃ ca* — and the atmosphere; *ā aprāḥ* — has filled everywhere; *sūryaḥ* — the Sun abiding in the orb; *jagataḥ* — of the moving (and); *tasthuṣaḥ ca* — of the unmoving world; *ātmā* — the essential self (the impeller)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The orb of the Sun, which is a mass of shining rays, wonder-causing, the eye-like [shower] of the whole universe beginning with Mitra, Varuṇa and Agni, has risen and filled the heavens, the earth and the atmosphere. That Sun abiding in the orb is the essential self of this moving and unmoving world, as its inner controller and impeller."
+
+### Printed p. 152  (PDF 172; header "Maṃ. 1 A. 16 Sū. 115")
+
+**English Translation (as printed)**
+
+> The wonderful host of rays has risen ; the eye of Mitra, Varuna, and Agni ; the sun, the soul of all that moves or is immoveable, has filled (with his glory) the heaven, the earth and the firmament.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**देवानाम्** — *Devānām* — "among the many meanings, taking the sense 'splendour' from the root *div*, 'those that shine, cause light (*dīvyanti*)' — here the word *deva* means rays. In accordance with the view that holds only the quality as the meaning (*dharmamātra*), when one considers 'ray' as having parts, those *devas* are, taking them as possessors of parts, the shining deities — this is conveyed."
+
+**अनीकम्** — *Anīkam* — "*samūhaḥ*": "the word *anīka* has many meanings, as in the Ṛk
+
+> माता देवानामदितेरनीकं यज्ञस्य केतुर्बृहती वि भाहि ।
+> (ऋ. सं. १-११३-१९ [as read])
+
+> *mātā devānāmaditeranīkaṃ yajñasya keturbṛhatī vi bhāhi |*
+> *(ṛ. saṃ. 1-113-19 [as read])*
+
+where *anīka* means 'rival' [*pratispardhi*] and 'face' [*mukha*]. In this Ṛk, which follows the style of poetry and is a description of the Sun at the time of rising, instead of saying that the Sun's rays rise, the mass of rays shining exceedingly is said to rise; and this mass is described as inexpressible [*anirvacanīya*]. This is to be understood as the ornament *rūpaka* (metaphor), because the description of the Sun's rising and the Sun's form are, according to the meaning that the Sun is a mass of rays, a figure."
+
+**चित्रम्** — *Citram* — "*vicitram āścaryakaram*": "Sāyaṇa so explains the word *citra*. By this, the description of the Sun's rising is also a statement of his nature, and since the Sun's form is a mass of rays, it is a *rūpaka* too."
+
+**चक्षुर्मित्रस्य वरुणस्याग्नेः** — *Cakṣur mitrasya varuṇasyāgneḥ* — "the three names Mitra, Varuṇa and Agni are indicated; seeing the general meaning of these terms, it is said here by way of indication (*upalakṣaṇa*) that the organ of sight, which creates the knowledge that should be known, is the Sun. By this [it is said that] the Sun is the eye of the world together with Mitra, Varuṇa, Agni and the rest
+
+### Printed p. 153  (PDF 173; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+— the meaning being: the Sun appears as the eye of Mitra, Varuṇa and Agni, or of the world, by the sentence that is mentioned in the first words as 'a mass'."
+
+**आ अप्राः** — *Ā aprāḥ* — "the form of the word *aprāḥ*, from the root *prā* 'to fill', takes the prefix *ā* and is used here. By this the deities and the virtuous and the mass of ascetics, for this world, for the eye, being the *ātman* of the world of moving and unmoving beings, the Sun fills with his splendour earth, atmosphere and heaven everywhere. That is, the Sun, having risen, illumines the whole world with his lustre."
+
+**सूर्य आत्मा जगतस्तस्थुषश्च** — *Sūrya ātmā jagatas tasthuṣaś ca* — "though the Sun, who is a mass of lustre, abides in the middle of the orb, he, having pervaded all, is the inner controller (*antaryāmin*) of all and impels them to do their works in the proper time. Therefore he is the cause of the origin of the whole class of effects, moving (*cara*) and unmoving (*sthira*): the self-nature that is cause becomes the effect according to time and place. The sage Vyāsa, who composed the Vedānta-sūtras, expresses this idea in the sūtra '*tadananyatvam ārambhaṇaśabdādibhyaḥ*': the meaning of the sūtra is that the cause is not different from the effect — the effect is non-different from the cause. Following this sūtra it is one meaning that the Sun is the Supreme Self. Or: as soon as the Sun has risen, the world, which is like dead, without the knowledge or power to do any work, is lit by the power of knowledge and, like life, shows its liveliness: the *śruti* '*yo 'sau tapann udeti sa sarveṣāṃ bhūtānāṃ prāṇān ādāyodeti*' (Tai. Ā. 1-?-? as read [?]) explains this meaning clearly. The Sun, by making all beings conscious by his rising, is the *ātman*, the *jīva*: this shows the greatness of the Sun.
+
+"Apart from this, according to the modern scientific view too, the Sun is the cause of all movements of all things in the world; from the Sun we obtain all kinds of power (energy). For the movements in the life of beings, the motion of the winds that move in the atmosphere, the formation of clouds, the fall of rain, the growth of plants that arise on the earth in all directions, the flow of rivers — for all such works the Sun, or the Sun's rays, are the cause. If there were no light of the Sun …" *(continues on the next page)*
+
+---
+
+### Printed p. 154  (PDF 174; header "Maṃ. 1 A. 16 Sū. 115")
+
+"… in this world, if the dense darkness covers it, not even a blade of grass would move. Therefore the sentence *sūrya ātmā jagatas tasthuṣaś ca* may fittingly be said to express the idea 'The sun is the source of all energies so far as this world (earth) is concerned'" *(this last clause is printed in English, as quoted).*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly)**
+
+*devānām* (*div* "to shine", etc.; the suffix *ac* by *nandigrahipacādibhyo lyuṇinyacaḥ*, Pā. 3-1-134 as read [?]; guṇa of the penultimate; final accent from the suffix; genitive plural *nām*); *agāt* (*iṇ* "to go", *luṅ* 3rd singular *tip*; *itaś ca lopaḥ*; *iṇo gā luṅi*, Pā. 2-4-45 as read [?], *gā*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. 2-4-77 as read [?], elision of *sic*; nighāta); *āprāḥ* (*ā* + *prā* "to fill", *luṅ* 3rd singular, *sip* by *vyatyaya*; *itaś ca lopaḥ*; elision of *śap*/*cli* by *adiprabhṛtibhyaḥ śapaḥ*; the augment *aṭ*; *s* → *ru* → visarga; nighāta); *dyāvāpṛthivī* (*dyauś ca pṛthivī ca*; *divo dyāvā*, Pā. 6-3-29 as read [?]; *ubhe vanaspatyādiṣu yugapat*, Pā. 6-2-140 as read [?], both members keep their accent; dual with *supāṃ sulug*, Pā. 7-1-39 as read [?]); *sūryaḥ* (*saraty ākāśe iti sūryaḥ*; *sṛ* "to go"; *rājasūyasūrya…*, Pā. 3-1-114 as read [?], formed irregularly with *kyap*); *jagataḥ* (*gam* "to go", doubling; *gameḥ dve ca*, Pā. 3-2-?? as read [?], *kvip*, doubling of the root; *gamaḥ kvau*, Pā. 6-4-40 as read [?], elision of the nasal; *kuhoś cuḥ*; *hrasvasya piti kṛti tuk*, Pā. 6-1-71 as read [?], the augment *tuk*; the stem *jagat*; *āmreḍitaṃ* … *ādyudātta* by *ṣaṣṭhyāṃ ca* … [as printed: *ādyudāttaś ca*, Pā. 6-1-?? [?]]; genitive singular); *tasthuṣaḥ* (*ṣṭhā* "to cease from motion"; *kvasu* by *kvasuś ca*, Pā. 3-2-107 as read [?], in the *liṭ* sense; doubling; the *tapūrvāḥ khayaḥ* — the reduplication keeps only the *t*; shortening; the stem *tasthivas*; genitive singular with *vasoḥ saṃprasāraṇam*, Pā. 6-4-131 as read [?], *saṃprasāraṇa* of the *va*; *pūrvarūpa*; *āto lopa iṭi ca*, Pā. 6-4-64 as read [?], elision of the root's *ā*; *śāsivasighasīnāṃ ca*, ṣatva of the *s* of *vasu*; the *u* accented from the suffix). ‖ 1 ‖
+
+### Printed p. 155  (PDF 175; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(The grammar of Ṛk 1 concludes at the top of this page — *tasthuṣaḥ* as above.)*
+
+*(Printer's ornament.)*
+
+### Ṛk 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 115.2)**
+
+> सूर्यो देवीमुषसं रोचमानां मर्यो न योषामभ्येति पश्चात् ।
+> यत्रा नरो देवयन्तो युगानि वितन्वते प्रति भद्राय भद्रम् ॥ २ ॥
+
+> *sūryo devīmuṣasaṃ rocamānāṃ maryo na yoṣāmabhyeti paścāt |*
+> *yatrā naro devayanto yugāni vitanvate prati bhadrāya bhadram ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 115.2)**
+
+> सूर्यः । देवीम् । उषसम् । रोचमानाम् । मर्यः । न । योषाम् ।
+> अभि । एति । पश्चात् ।
+> यत्र । नरः । देवऽयन्तः । युगानि । विऽतन्वते । प्रति ।
+> भद्राय । भद्रम् ॥ २ ॥
+
+> *sūryaḥ | devīm | uṣasam | rocamānām | maryaḥ | na | yoṣām |*
+> *abhi | eti | paścāt |*
+> *yatra | naraḥ | deva 'yantaḥ | yugāni | vi 'tanvate | prati |*
+> *bhadrāya | bhadram ‖ 2 ‖*
+
+### Printed p. 156  (PDF 176; header "Maṃ. 1 A. 16 Sū. 115")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 115.2)**
+
+> सूर्यो देवीं दानादिगुणयुक्तां रोचमानां दीप्यमानामुषसमुषोऽभिमानिनीं देवतां पश्चादभ्येति । उषसः प्रादुर्भावानन्तरं तामभिलक्ष्य गच्छति । तत्र दृष्टान्तः । मर्यो न योषाम् । यथा कश्चिन्मनुष्यः शोभनमयवां [?] गच्छन्तीं युवतिं स्त्रियं सततमनुगच्छति तद्वत् । यत्र यस्यामुषसि जातायां देवयन्तो देवं द्योतमानं सूर्यं यष्टुमिच्छन्तो नरो यज्ञस्य नेतारो यजमाना युगानि । युगशब्दः कालवाची । तेन च तत्र कर्तव्यानि कर्माणि लक्ष्यन्ते । यथा दर्शपूर्णमासाविति । अग्निहोत्रादीनि कर्माणि वितन्वते । विस्तारयन्ति । यद्वा । देवयन्तो देवयोगार्थं धनमात्मन इच्छन्तो यजमानपुरुषा युगानि हलादिना [?] [? हलाद्यवयवभूतानि] कर्षणाय वितन्वते । प्रसारयन्ति । तामुषसमनुगच्छतीत्यर्थः । एवंविधं भद्रं कल्याणं सूर्यं प्रति भद्राय कल्याणरूपाय कर्मफलाय स्तुमः इति शेषः । यद्वा । देवयन्तो देवकामा यजमाना युगानि युग्मानि भूत्वा पत्नीभिः सहिताः सन्तो भद्रं कल्याणमग्निहोत्रादिकं कर्म भद्राय तत्फलार्थं प्रति प्रतीकं यस्यामुषसि प्रवृत्त्यायां वितन्वते । विस्तारयन्ति ॥ [the grammatical tail follows: *maryaḥ* — *mṛñ* "to die", the suffix *yat*; *niṣṭarkyadevahūya…* as an irregular formation; *yugāni*; *yuj*; *vitanvate* — *tanu* "to extend", *laṭ*.] [reading marked [?] where the small type was doubtful]
+
+> *sūryo devīṃ dānādiguṇayuktāṃ rocamānāṃ dīpyamānāmuṣasamuṣo 'bhimāninīṃ devatāṃ paścādabhyeti | uṣasaḥ prādurbhāvānantaraṃ tāmabhilakṣya gacchati | tatra dṛṣṭāntaḥ | maryo na yoṣām | yathā kaścinmanuṣyaḥ śobhanamayavāṃ [?] gacchantīṃ yuvatiṃ striyaṃ satatamanugacchati tadvat | yatra yasyāmuṣasi jātāyāṃ devayanto devaṃ dyotamānaṃ sūryaṃ yaṣṭumicchanto naro yajñasya netāro yajamānā yugāni | yugaśabdaḥ kālavācī | tena ca tatra kartavyāni karmāṇi lakṣyante | yathā darśapūrṇamāsāviti | agnihotrādīni karmāṇi vitanvate | vistārayanti | yadvā | devayanto devayogārthaṃ dhanamātmana icchanto yajamānapuruṣā yugāni halādinā [?] [? halādyavayavabhūtāni] karṣaṇāya vitanvate | prasārayanti | tāmuṣasamanugacchatītyarthaḥ | evaṃvidhaṃ bhadraṃ kalyāṇaṃ sūryaṃ prati bhadrāya kalyāṇarūpāya karmaphalāya stumaḥ iti śeṣaḥ | yadvā | devayanto devakāmā yajamānā yugāni yugmāni bhūtvā patnībhiḥ sahitāḥ santo bhadraṃ kalyāṇamagnihotrādikaṃ karma bhadrāya tatphalārthaṃ prati pratīkaṃ yasyāmuṣasi pravṛttyāyāṃ vitanvate | vistārayanti ‖ [the grammatical tail follows: *maryaḥ* — *mṛñ* "to die", the suffix *yat*; *niṣṭarkyadevahūya…* as an irregular formation; *yugāni*; *yuj*; *vitanvate* — *tanu* "to extend", *laṭ*.] [reading marked [?] where the small type was doubtful]*
+
+*Sense (mine):* "The Sun *abhyeti*, follows after, the goddess Uṣas, endowed with qualities such as generosity, shining (*rocamānā*), after her appearing. An illustration: *maryo na yoṣām* — as a man constantly follows a good-looking young woman who is going. When Uṣas has arisen, *nāraḥ*, men, leaders of the sacrifice, sacrificers, *devayantaḥ* — wishing to worship the shining Sun — *yugāni vitanvate*: *yuga* is a word for time, and by it the works to be done then are indicated, such as the Darśa and Pūrṇamāsa; they perform the Agnihotra and other works: they spread out. Or: *devayantaḥ* — wishing wealth for themselves for the sake of association with the gods, the sacrificer-men spread out the yokes — the parts of the plough — for ploughing (*karṣaṇāya*) (this alternative is in small type, partly doubtful [?]); they follow that Uṣas. Such an auspicious (*bhadram*) Sun we praise for the auspicious fruit of works in the form of welfare. Or: *devayantaḥ* — wishing for the gods, the sacrificers, being in pairs (*yugāni*, couples), together with their wives, perform *bhadram*, the auspicious work, Agnihotra and the like, for the sake of its fruit, in each [morning] when Uṣas has arisen."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*yatra* — when (Uṣas has risen); *devayantaḥ* — wishing to worship the Sun, or desiring wealth for sacrifices to the deities, or eager to worship the deities; *naraḥ* — sacrificers; *yugāni* — the Darśa-pūrṇamāsa and other sacrifices that must be done in due order of time; *vitanvate* — they spread forth at that Uṣas-time; *maryaḥ* — as a man (any man); *yoṣām* — a fair young woman; *na* — as (he follows) from behind; *sūryaḥ* — the Sun; *rocamānām* — the shining; *uṣasam devīm* — Uṣas the deity; *paścāt abhyeti* — follows (after Uṣas's rising the Sun rises); *bhadram prati* — to such an auspicious one (the Sun); *bhadrāya* — for welfare (we pray)."
+
+### Printed p. 157  (PDF 177; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"At the rising of Uṣas, the performers of sacrifices, wishing to worship the Sun and others by sacrifices, perform the Darśa-pūrṇamāsa and other sacrifices that must be done in due order of time. As a man follows a beautiful woman, the Sun follows the shining Uṣas. We worship such an auspicious Sun for welfare."
+
+**English Translation (as printed)**
+
+> The sun follows the divine and brilliant Ushas, as a man (follows a young and elegant) woman ; at which season, pious men perform (the ceremonies established for) ages, worshipping the auspicious (sun), for the sake of good (reward)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**मर्यो न योषाम्** — *Maryo na yoṣām* — "since the word *marya* is read among the twenty-five [as read] names of man (*manuṣya*), '*naraḥ*' and so on (Ni. 2-?? as read [?]), the word *marya* means man (Ni. 3-2 and Ni. 4-? as read [?]: '*marya iti manuṣyanāma*'). As a man, seeing a beautiful woman, follows her, the Sun follows Uṣas. The manner of a man who is a lover is described here as the cause of the Sun's rising, which comes after the rising of Uṣas. The qualifiers *devīm rocamānām* show the excellent natural qualities of Uṣas."
+
+**देवयन्तः** — *Devayantaḥ* — "the word *deva* here, according to the context, denotes the Sun: those who desire sacrifice to the Sun — this is the sense. Or the meaning may also be given: those who desire to worship other deities; or, the Bhāṣyakāra explains, those who desire wealth for the sake of worshipping the deities."
+
+**नरः** — *Naraḥ* — "*yajñasya netāro yajamānāḥ*": the sacrificers who perform the sacrifice. "Since the word *nara* is stated among the twenty-five [as read] names of man (Ni. 2-?? as read [?]), the meaning is 'men'."
+
+**युगानि वितन्वते** — *Yugāni vitanvate* — "the word *yuga* denotes time; from this [the sense is]: the sacrificers perform, in accordance with the times (*kāla*), the works to be done — Darśa-pūrṇamāsa and the like, and Agnihotra and so on. The word *devayantaḥ* has one explanation of this kind."
+
+---
+
+**Progress note:** Sūkta 115: Ṛk 1 complete; Ṛk 2 through printed p. 157 (PDF 177): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*maryo na yoṣām*, *devayantaḥ*, *naraḥ*, *yugāni vitanvate* — continues on p. 158). Next: printed p. 158 (PDF 178). Open: numerals as read `[?]`; bhāṣya alternative explanation (plough/yoke) small type `[?]`.
