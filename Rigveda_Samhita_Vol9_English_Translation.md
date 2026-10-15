@@ -10748,4 +10748,50 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–10 complete; Ṛk 11 (the last) through printed p. 449 (PDF 469): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 450). Next: printed p. 450 (PDF 470): rest of Ṛk 11, then the colophon of Sūkta 118 and Sūkta 119. Numerals as read: sūtra numbers on pp. 448–449 `[as read]`.
+### Printed p. 450  (PDF 470; header "Maṃ. 1 A. 17 Sū. 118")
+
+*(Pratipadārtha of Ṛk 11, concluded)* "… *vām* — you two; *rātahavyaḥ* — endowed with the oblation to be given; *śaśvattamāyāḥ* — (being time-in-nature) eternal; *uṣasaḥ* — of Uṣas; *vyuṣṭau* — at the time of dawning; *have* — I call (praising) you."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.11)** (Kannada, rendered)
+
+"O Nāsatyas! Come to us, being yoked with excellent motion like a hawk and with horses of new speed; O Aśvins, endowed with the oblation to be given to you, I praise you at the dawn of the eternal Uṣas."
+
+**English Translation (as printed)**
+
+"Come to us, auspicious Nasatyas, with the fresh velocity of a hawk: bearing an oblation, I invoke you, Aswins, at the rising of the ever constant dawn." *(The printed English reads "Invoke you" with a capital — as printed.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 11)**
+
+*Sajoṣāḥ* — *samānaprītiyuktau*: "'those of the same pleasure' is the meaning; the word is also used in other senses:
+
+> आ रुद्रासः इन्द्रवन्तः सजोषसो हिरण्यरथाः सुविताय गन्तन ।
+> (ऋ. सं. ३-३२-? [as read [?]])
+
+> *ā rudrāsaḥ indravantaḥ sajoṣaso hiraṇyarathāḥ suvitāya gantana |*
+> *(ṛ. saṃ. 3-32-? [as read [?]])*
+
+In this Ṛk *sajoṣasaḥ* [is explained by] *parameśvaryeṇa vithyam āsevitāḥ* [as read; small type [?]] — 'those served with supreme lordship in their various dwellings', or 'those who dwell with Indra in joy' — the Nirukta author has explained the meaning (Ni. 11-?? [as read]):
+
+> अजुह्वान ईड्यो वन्द्यश्चा याह्यग्ने वसुभिः सजोषाः ।
+> (ऋ. सं. १०-११०-१ [as read])
+
+> *ajuhvāna īḍyo vandyaścā yāhyagne vasubhiḥ sajoṣāḥ |*
+> *(ṛ. saṃ. 10-110-1 [as read])*
+
+In this Ṛk, *vasubhiḥ sajoṣāḥ* means *saha joṣaṇaḥ samānaprītiḥ* — 'having the same pleasure' (Ni. 9-?? [as read]) — thus the Nirukta author's explanation."
+
+"This Ṛk says: that the Aśvins should come to our sacrifice with a praiseworthy, swift chariot, with the same pleasure; and that we call them in our sacrifice for the sake of the acceptance of the share of the oblation after Uṣas has passed away."
+
+---
+
+### Printed p. 451  (PDF 471; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly; sūtra numbers as read)**
+
+*Javasā* — *ju* is a *sautra* root, used in the sense of going; from it the suffix *asun*, which is enjoined for all roots; since it is *nit*, the initial acute; *guṇa* of the root's *u*, *av* substituted. *Nūtanena* — "*navasya nū ādeśaḥ tanap tanaḥ khalāś ca pratyayau vaktavyau*" [as read] — by this statement *nū* is substituted for *nava*, and the suffix *tanap* comes; since the suffix is *pit*, it is *anudātta*. *Asme* — the word *asmad*; with *śas* following, *supāṃ sulug* (Pā. 7-1-39 as read), *śe* substituted; *śeṣe lopaḥ*, elision of the part [of *asmad*] that follows up to *ma*; *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168 as read), the acute on the case ending. *Sajoṣāḥ* — root *juṣī prītisevanayoḥ*; the suffix *asun* enjoined for all roots; *samānaṃ joṣaḥ yayos tau sajoṣasau*; *supāṃ sulug*, *su* substituted for the dual; *ru*, *visarga* at the end of the word; in the compound, *kṛdanta* hind-part keeps its natural accent. *Have* — root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person singular, the suffix *iṭ*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read), *e*; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *śap* vikaraṇa; on its account *guṇa* of the *u*, *av*; since it stands at the beginning of a pāda, no *nighāta*; since the *lasārvadhātuka* is *anudātta*, the root accent remains. *Rātahavyaḥ* — root *rā ādāne*; the suffix *kta*; *hūyate iti havyam* (root *hu dānādanayoḥ*); *aco yat* (Pā. 3-1-97 as read), the suffix *yat*; on its account *guṇa* of the root's *u*, *av*; *rātaṃ havyaṃ yasmin saḥ rātahavyaḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read), the former member keeps its natural accent. *Śaśvattamāyāḥ* — since the sense of exceeding is meant, *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55 as read), the suffix *tamap*; in the feminine, since it ends in *a*, *ṭāp*; *uttamaśaśvattamau sarvatra* (Pā. 6-1-160 [as read; the page reads *6-1-100* [?]]), because it is listed in the *uñchādi* group, though *tamap* is *pit*, the final acute; genitive singular form. ‖ 11 ‖
+
+**Colophon (Kannada, as printed):** "nūrahadineṇṭaneya sūktavu mugidudu" — "The hundred-and-eighteenth Sūkta is ended."
+
+---
+
+**Progress note:** Sūkta 118 complete (11 Ṛks, printed pp. 415–451). Next: Sūkta 119 begins on printed p. 452 (PDF 472): heading, Anukramaṇī, Anuvāda, Ṛk 1. Numerals as read: Ṛ. 3-32-?, 10-110-1, Ni. numbers and sūtra numbers on pp. 450–451 `[as read]`.
