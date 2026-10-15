@@ -8879,4 +8879,46 @@ Kannada: "Formerly, the Aśvins, going to hear the praise of Śukrācārya, saw 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–13 complete; Ṛk 14 through printed p. 369 (PDF 389): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to the *Bhujyum* quotation); grammar of Ṛk 14 follows. Next: printed p. 370 (PDF 390). Numerals: Ṛ. 1-116-3 and Ni. 3-20 per numeral list.
+### Printed p. 370  (PDF 390; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 14, concluded)* *Samudrāt* — *ambu-rāśeḥ sakāśāt*. The Nirukta author [explains]:
+
+> समुद्रः कस्मात् समुद्द्रवन्त्यस्मादापः समभिद्रवन्त्येनमापः । सम्मोदन्ते अस्मिन् भूतानि समुदको भवति समुनत्तीति वा ॥
+
+> *samudraḥ kasmāt samuddravantyasmādāpaḥ samabhidravantyenamāpaḥ | sammodante asmin bhūtāni samudako bhavati samunattīti vā ‖*
+
+Kannada: "From it, the waters rise upward; or the waters of rivers and the like all run into it and gather; or aquatic creatures, dwelling in this mass of water, rejoice; or, from abundance, the waters are joined together in it; or it wets everything with water" — thus he explains the word *samudra* with its various meanings. *(No numeral printed with this Nirukta quotation in the numeral list.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 14; grammar pages, noted briefly)**
+
+*Pūrvyebhiḥ* — *pūrve bhavāḥ pūrvyāḥ*, suffix *yat*; in the instrumental plural, *bahulaṃ chandasi*: *bhis* does not become *ais*; *bahuvacane jhalyet* [as printed; Pā. number illegible in the list [?]], *et* substituted. *Evaiḥ* — root *iṇ gatau*; *iṇśīṅbhyāṃ vanaj* (Uṇ. sū. 1-150 as the list reads it [?]), the suffix *van*; *guṇa* for the *i*-vowel on that account; since the suffix is *nit*, *jñityādir nityam* (Pā. 6-1-197), the initial acute; instrumental plural form. *Punarmanyā* — root *mana jñāne*; since roots have many meanings, here used in the sense of praise; *manyate stauti iti manā stutiḥ*, since it belongs to the *pacādi* group, *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. 3-1-134), suffix *ac*; to this, in the sense of "worthy of it", *chandasi ca* (Pā. 5-1-67 as read), suffix *ya*; *yasyeti ca*, with it following, elision of the preceding *a*; by the suffix's accent the final acute; first dual form. *Abhavatam* — root *bhū sattāyām*; *laṅ*, second person dual; *tiṅanta nighāta* accent. *Yuvānā* — root *yu miśrāmiśraṇayoḥ*, *adādi*; *kanin yuvṛṣi…* (Uṇ. sū. 1-157 as read), suffix *kanin*; *ajiknudhātubhruvām iyuvaṅau* (Pā. 6-4-77), *uv* substituted; with the dual following, *supāṃ sulug* (Pā. 7-1-39), *ā* substituted; *sarvanāmasthāne ca* [as read], lengthening of the penultimate; *āmantritasya ca* (Pā. 8-1-19), *nighāta*. *Arṇasaḥ* — "*arṇo 'smin asti*": when the sense of *matup* is intended, from *asanta*, the suffix *vin* [on the model] *asmāyāmedrasrajo vini* [as read [?]]; *bahulaṃ chandasi* (Pā. 5-2-122 as read), by the word *bahula* in that rule, elision [of *vin*]; the form *arṇas* remains; ablative singular.
+
+---
+
+### Printed p. 371  (PDF 391; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Vibhiḥ* — since it is *nit*, [the accent of the] case ending after it is *udātta* (as expected), though by the statement *sarve vidhayaś chandasi vikalpyante* here *bhis* does not get the *udātta* accent. *Ūhathuḥ* — root *vaha prāpaṇe*; *liṭ*, second person dual; since it stands after an *ajanta*, the *nighāta* accent. *Ṛjrebhiḥ* — root *ṛja gatisthānārjanopārjaneṣu*; *ṛjrendrāgravajra…* (Uṇ. sū. 2-28? [as read, partly illegible [?]]), irregularly formed with the suffix *ran*; since it is *nit*, *jñityādir nityam* (Pā. 6-1-197), the initial acute; in the instrumental plural with *bhis* following, *bahulaṃ chandasi*, the substitution *ais* does not occur; *bahuvacane jhalyet*, *et*. ‖ 14 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.15)**
+
+> अजोहवीदश्विना तौग्र्यो वां प्रोळ्हः समुद्रमव्यथिर्जगन्वान् ।
+> निष्टमूहथुः सुयुजा रथेन मनोजवसा वृषणा स्वस्ति ॥ १५ ॥
+
+> *ajohavīdaśvinā taugryo vāṃ proḷhaḥ samudramavyathirjaganvān |*
+> *niṣṭamūhathuḥ suyujā rathena manojavasā vṛṣaṇā svasti ‖ 15 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.15)**
+
+> अजोहवीत् । अश्विना । तौग्र्यः । वाम् । प्रऽऊळ्हः । समुद्रम् ।
+> अव्यथिः । जगन्वान् ।
+> निः । तम् । ऊहथुः । सुऽयुजा । रथेन । मनःऽजवसा । वृषणा ।
+> स्वस्ति ॥ १५ ॥
+
+> *ajohavīt | aśvinā | taugryaḥ | vām | pra 'ūḷhaḥ | samudram |*
+> *avyathiḥ | jaganvān |*
+> *niḥ | tam | ūhathuḥ | su 'yujā | rathena | manaḥ 'javasā | vṛṣaṇā |*
+> *svasti ‖ 15 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–14 complete; Ṛk 15 Saṃhitā and Pada written (printed p. 371, PDF 391). Next: printed p. 372 (PDF 392): Ṛk 15 bhāṣya onward. Numerals on pp. 370–371 from the reader's list where present (Uṇ. 1-150, 1-157; Pā. 6-1-197, 3-1-134, 5-1-67, 6-4-77, 7-1-39, 8-1-19, 5-2-122); some partly illegible `[?]`.
