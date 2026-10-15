@@ -4987,4 +4987,70 @@ as an example."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–4 complete; Ṛk 5 through printed p. 206 (PDF 226): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar begun (continues p. 207). Next: printed p. 207 (PDF 227). Open: numerals as read `[?]`; bhāṣya small type `[?]`.
+### Printed p. 207  (PDF 227; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 5, concluded (noted briefly):* *śatāritrām* (*ṛ* "to go"; *artilūdhūsūkhanasahacarata itraḥ*, Pā. 3-2-184 as read [?], the suffix *itra* in the instrumental sense; guṇa of the root's *ṛ* by *sārvadhātukārdhadhātukayoḥ*; *śatāni aritrāṇi yasyāḥ sā śatāritrā*, accusative *śatāritrām*; *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?], first-member accent); *ātasthivāṃsam* (*ṣṭhā* "to cease from motion"; *liṭ* by *liṭaḥ kvasu*; *kvasu* by *kvasuś ca*, Pā. 3-2-107 as read [?]; *ṭit* … as the root is doubled, *ṭa* for the *tha* of the reduplication; *kharpūrvāḥ khayaḥ*, Pā. 7-4-61 as read [?]; the augment *iṭ* for *vasu* by *vasvekājāḍ ghasām*, Pā. 7-2-67 as read [?] [as printed "*vasvekājāḍ…*"]; *āto lopa iṭi ca*, Pā. 6-4-64 as read [?], elision of the root's *ā*; the form *tasthivas*; accusative singular, *ā ṣaḍhasya*… lengthening of the penultimate by *upadhādīrgha*, as read; *num* augment, as it is *ugit*; *anusvāra*; accent from the suffix). ‖ 5 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 6
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.6)**
+
+> यमश्विना ददथुः श्वेतमश्वमघाश्वाय शश्वदित्स्वस्ति ।
+> तद्वां दात्रं महि कीर्तेन्यं भूत्पैद्वो वाजी सदमिद्धव्यो अर्यः ॥ ६ ॥
+
+> *yamaśvinā dadathuḥ śvetamaśvamaghāśvāya śaśvaditsvasti |*
+> *tadvāṃ dātraṃ mahi kīrtenyaṃ bhūtpaidvo vājī sadamiddhavyo aryaḥ ‖ 6 ‖*
+
+### Printed p. 208  (PDF 228; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.6)**
+
+> यम् । अश्विना । ददथुः । श्वेतम् । अश्वम् । अघाश्वाय । शश्वत् ।
+> इत् । स्वस्ति ।
+> तत् । वाम् । दात्रम् । महि । कीर्तेन्यम् । भूत् । पैद्वः । वाजी ।
+> सदम् । इत् । हव्यः । अर्यः ॥ ६ ॥
+
+> *yam | aśvinā | dadathuḥ | śvetam | aśvam | aghāśvāya | śaśvat |*
+> *it | svasti |*
+> *tat | vām | dātram | mahi | kīrtenyam | bhūt | paidvaḥ | vājī |*
+> *sadam | it | havyaḥ | aryaḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.6)**
+
+> अत्रेदमाख्यायते । पेदुर्नाम कश्चित्स चाश्विनौ तुष्टाव । तस्मै प्रीतौ कंचिच्छ्वेतवर्णमश्वं दत्तवन्तौ । स चाश्वस्तस्य पौत्रेऽद्य [?] जयं चकारेति । एतदत्र प्रतिपाद्यते । हे अश्विनौ युवामघाश्वायाहन्तव्याश्वाय पेदुनाम्ने राजर्षये यं श्वेतवर्णमश्वं ददथुः । दत्तवन्तौ । सोऽश्वस्तस्मै स्वस्ति जयलक्षणं मङ्गलं शश्वदित् नित्यमेव चकार । वां युवयोस्तद्दात्रं दानं महि महदतिगम्भीरम् । अत एव कीर्तेन्यं सर्वैः कीर्तनीयं प्रशस्यं भूत् । अभूत् । तस्मात्पैद्वः पेदोः सम्बन्धी पतनशीलः शीघ्रगामी वार्यः शत्रूणां प्रेरयिता युद्धेषु प्रेरयितव्यो वा वाजी वेजनवानश्वः सदमित् सदैव हव्योऽस्माभिराह्वातव्यः ॥ [grammatical tail: *dātram* — *dā* "to give", *dātrañ* (*tran*), *dāpā…* Uṇ.? ; *mahi* — *mah* "to honour", *in*, *sarvadhātubhya in*, *itīn*; *kīrtenyam* — *kīrt* "to praise", *tenyāyāḥ*… *kṛtyārthe tavaikenkenyatvanaḥ* (Pā. 3-4-14 as read [?]) — *kenyat*; *bhūt* — *bhū*, *luṅ*, *bahulaṃ chandasy amāṅyoge 'pi*, no augment; *paidvaḥ* — *pedoḥ sambandhī*, *tasyedam*, *añ*, *chandaso varṇalopaḥ*; *havyaḥ* — *hvayati*, *ceyo yadiha yat*; *saṃprasāraṇa*; *aryaḥ* — *ṛ* "to go", *āśūṃ yādayaś ca*, Uṇ.; *ṇyat*…] [small type; read letter by letter; words marked [?] doubtful]
+
+> *atredamākhyāyate | pedurnāma kaścitsa cāśvinau tuṣṭāva | tasmai prītau kaṃcicchvetavarṇamaśvaṃ dattavantau | sa cāśvastasya pautre 'dya [?] jayaṃ cakāreti | etadatra pratipādyate | he aśvinau yuvāmaghāśvāyāhantavyāśvāya pedunāmne rājarṣaye yaṃ śvetavarṇamaśvaṃ dadathuḥ | dattavantau | so 'śvastasmai svasti jayalakṣaṇaṃ maṅgalaṃ śaśvadit nityameva cakāra | vāṃ yuvayostaddātraṃ dānaṃ mahi mahadatigambhīram | ata eva kīrtenyaṃ sarvaiḥ kīrtanīyaṃ praśasyaṃ bhūt | abhūt | tasmātpaidvaḥ pedoḥ sambandhī patanaśīlaḥ śīghragāmī vāryaḥ śatrūṇāṃ prerayitā yuddheṣu prerayitavyo vā vājī vejanavānaśvaḥ sadamit sadaiva havyo 'smābhirāhvātavyaḥ ‖ [grammatical tail: *dātram* — *dā* "to give", *dātrañ* (*tran*), *dāpā…* Uṇ.? ; *mahi* — *mah* "to honour", *in*, *sarvadhātubhya in*, *itīn*; *kīrtenyam* — *kīrt* "to praise", *tenyāyāḥ*… *kṛtyārthe tavaikenkenyatvanaḥ* (Pā. 3-4-14 as read [?]) — *kenyat*; *bhūt* — *bhū*, *luṅ*, *bahulaṃ chandasy amāṅyoge 'pi*, no augment; *paidvaḥ* — *pedoḥ sambandhī*, *tasyedam*, *añ*, *chandaso varṇalopaḥ*; *havyaḥ* — *hvayati*, *ceyo yadiha yat*; *saṃprasāraṇa*; *aryaḥ* — *ṛ* "to go", *āśūṃ yādayaś ca*, Uṇ.; *ṇyat*…] [small type; read letter by letter; words marked [?] doubtful]*
+
+*Sense (mine):* "Here this is told. A certain man named Pedu praised the Aśvins; they, pleased, gave him a white horse. That horse made victory for his [son's/grandson's — doubtful [?]] ... This is here set forth. O Aśvins, the white horse which you two gave to the royal sage named Pedu, *aghāśvāya* — 'whose horses are not to be killed' — that horse made for him, always (*śaśvad it*), *svasti*, welfare in the form of victory. That gift (*dātram*) of you two is *mahi*, great, very profound; therefore *kīrtenyam*, to be praised by all, it has become. Therefore, *paidvaḥ* — the horse of Pedu, falling [swooping], swift-going, *aryaḥ* — the impeller of enemies, or to be impelled in battles, *vājī* — the horse that has speed — is *sadam it*, always, *havyaḥ*, to be invoked by us."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(on p. 209)*
+
+### Printed p. 209  (PDF 229; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 14")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinā* — O Aśvin deities; *aghāśvāya* — to him whose horses are indestructible, to the royal sage named Pedu; *yam* — which; *śvetam aśvam* — white horse; *dadathuḥ* — you gave; *saḥ aśvaḥ* — that horse; *svasti* — good (in the form of victory); *śaśvat it* — always (made); *vām* — your; *tat dātram* — that gift; *mahi* — great (is, therefore); *kīrtenyam* — praised by all; *bhūt* — it has become; *paidvaḥ* — belonging to Pedu (named Pedu); *āryaḥ* — the destroyer of enemies; *vājī* — that horse; *sadamit* — always; *havyaḥ* — is to be invoked by us."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, the white horse that you gave to the king named Pedu, whose horses are indestructible, always made for him welfare. Your gift is great and worthy of being praised. That horse of Pedu is a destroyer of enemies. We should invoke it always."
+
+**English Translation (as printed)**
+
+> As'wins, the white horse you gave to Pedu, whose horses were indestructible, was ever to him success ; that, your precious gift, is always to be celebrated ; the horse of Pedu, the scatterer (of enemies) is always to be invoked.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अघाश्वाय** — *Aghāśvāya* — "*ahantavyāśvāya pedunāmne rājarṣaye*": "taking it to mean 'to the royal sage named Pedu, whose horses cannot be struck down by anyone in battles', for the word *paidvaḥ* [Sāyaṇa] explains: '*pedoḥ sambandhī patanaśīlaḥ śīghragāmī vā*' — 'belonging to Pedu, swift-moving by nature'. Skandasvāmin:
+
+> अघाश्वो नाम राजा युयुत्सुरात्मनोऽश्वं अश्विनौ यदोचे सतेतं चाविनाशं । तस्मै अश्विनौ बलवन्तमात्यन्तवेगिनं जयकरं सर्वत्राप्रतिहतगमनमश्वं सतेतं चाविनाशं ददथुरिति । तदेतदिहोच्यते ॥ [small type, partly doubtful [?]]
+
+> *aghāśvo nāma rājā yuyutsurātmano 'śvaṃ aśvinau yadoce satetaṃ cāvināśaṃ | tasmai aśvinau balavantamātyantaveginaṃ jayakaraṃ sarvatrāpratihatagamanamaśvaṃ satetaṃ cāvināśaṃ dadathuriti | tadetadihocyate ‖ [small type, partly doubtful [?]]*
+
+— 'a king named Aghāśva, desiring to fight, asked the Aśvins for a horse for himself; to him the Aśvins gave a horse, strong, very swift, victory-giving, whose course was unobstructed everywhere, ever-lasting and imperishable' — this is what is said here. The king named Aghāśva, who wished to fight, being strong though ... [the Kannada continues: 'conducting himself with speed, going everywhere without hindrance, procuring victory']
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–5 complete; Ṛk 6 through printed p. 209 (PDF 229): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*aghāśvāya*; Skandasvāmin's quotation, continues p. 210). Next: printed p. 210 (PDF 230). Open: numerals as read `[?]`; bhāṣya/Skandasvāmin small type `[?]`.
