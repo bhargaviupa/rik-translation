@@ -58,4 +58,67 @@ Five Sūktas of this Adhyāya are addressed to the Aśvins. The Sūktas praising
 
 ---
 
-**Progress note:** Pīṭhike printed pp. i–iii (PDF 8–10) done; the small numerals of the references and the years (5[3]8, 5[3]2) are blurred in the scan and left `[?]`. Next: Pīṭhike PDF 11–20 (printed iv onward). No IAST run yet for the Pīṭhike (run add_iast at the end of the Pīṭhike).
+### Printed p. iv  (PDF 11)
+
+Of the endless qualities of the Aśvin deities the distinguishing mark is this: they protect devotees who have fallen into calamity and grant them what they desire. Though Indra and the other deities also help their devotees, the help of the Aśvins is more special than all. Indra and the others are famed for freeing devotees caught by enemies in battle and giving them protection; the Aśvins are famed for freeing them from every kind of calamity and giving their protection. Because these are deities connected with the sea, they saved Bhujyu, son of Tugra, who was in distress from shipwreck, by providing an excellent boat. Because they are physicians of the gods they cured devotees afflicted by many kinds of disease. The story of the ṛṣi Cyavāna, who received from them such help and, after the destruction of his old age, obtained youth, is told in the Śatapatha and other Brāhmaṇas. In the same way, in many places in the Ṛgsaṃhitā are described the occasions on which they helped hundreds of devotees, Vimada, Atri and others.
+
+In this Adhyāya the epithet of Uṣas, *ṛtapāḥ* (1-113-12 [?]), and the description of the nature of the Aśvins, *ṛtāyan* (1-11?-?? [?]), show the similarity of qualities each shares with the other. *Ṛtapāḥ* means "protectress of truth or of the sacrifice" (*satyasya yajñasya vā pālayitrī*) — one who guards truth or the sacrifice. *Ṛtāyan* means (*satyam ātmana icchan*) — one who wishes truth for himself, i.e. one who is truthful in soul and truthful in conduct.
+
+The word *ṛta* indicates the order of the universe, both physical and moral. Mitra and Varuṇa, chief among the Ādityas, are the guardians of this law; that they have the position of carrying on the world's affairs by this law and in the keeping of it is described in the Sūktas of the second Adhyāya of the second Aṣṭaka (as printed) [?], which concern them. How the deities Uṣas and the Aśvins follow this law and in what ways they help the world to follow it is explained here, in brief.
+
+> द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।
+> आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः ॥
+> (Ṛ. Saṃ. 1-164-11)
+
+"The wheel of Ṛta with twelve spokes (months) revolves ceaselessly round the sky" — in this Ṛk, the wheel called *ṛta*, which has twelve spokes (months), is described as revolving constantly in the atmosphere. That Uṣas follows the path of this Ṛta by its rule —
+
+### Printed p. v  (PDF 12; the page number is not visible in the crop)
+
+> ऋतस्य देवीः सदसो बुधाना गवां न सर्गा उषसो जरन्ते ।
+> (Ṛ. Saṃ. 4-51-8) [as read]
+>
+> ऋतस्य योषा न मिनाति धामाहरहर्निष्कृतमाचरन्ती ।
+> (Ṛ. Saṃ. 1-124-2) [?]
+>
+> ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ।
+> (Ṛ. Saṃ. 1-124-3)
+>
+> ऋतस्य बुध्न उषसामिषण्यन् वृषा मही रोदसी आ विवेश ।
+> (Ṛ. Saṃ. 3-61-2)
+
+— in these and other Ṛks it is described how Uṣas follows the path of Ṛta and keeps her rule every day without lapse, obeying the law of Ṛta. And so that this path of Ṛta may be followed, in the Ṛk
+
+> उप नो वाजिनीवसू यातमृतस्य पथिभिः ।
+> येभिस्तृक्षिं वृषणा त्रासदस्यवं महे क्षत्राय जिन्वथः ॥
+> (Ṛ. Saṃ. 8-?-2 [?])
+
+the Aśvin deities too are prayed to. In following the path of Ṛta there is a relation of mutual need between Uṣas and the Aśvins.
+
+In many Ṛks, e.g. "*yahvī ṛtasya mātarā*" (1-142-7 [?]), "*suprātīke vayovṛdhā yahvī ṛtasya mātarā*" (2-3-6 [?]), it is said that the two mother-deities of Ṛta (night and Uṣas) are meant, and the coming of the Aśvins together with the appearance of these two is indicated:
+
+> स्वद्वस्रा मनोयुजा रथेन पृथुपाजसा ।
+> सचेथे अश्विनोषसम् ॥ [? first word]
+> (Ṛ. Saṃ. 8-?-3 [?])
+
+The Aśvin deities, who do wonderful deeds, sit in their chariots and follow the very path of the Uṣases. Uṣas prays that such Aśvin deities be awakened, in the words "*pra bodhayoṣo aśvinā*" (8-?-12 [?]). "
+
+> अबोध्यग्निर्ज्म उदेति सूर्यो व्यु षाश्चन्द्रा मह्यावो अर्चिषा ।
+> आयुक्षातामश्विना यातवे रथं प्रासावीद्देवः सविता जगत्पृथक् ॥
+> (Ṛ. Saṃ. 1-157-1)
+
+In this Ṛk the contemporaneity of the rising of Sūrya and Uṣas and the coming of the Aśvin deities is stated. Thus, in physical (*bhautika*)
+
+### Printed p. vi  (PDF 13)
+
+… worldly affairs the rule of Ṛta, and the part played by Uṣas and the Aśvin deities, who are alert in the keeping of this rule, are described in the present Adhyāya under the epithets *ṛtapāḥ* and *ṛtāyan*. The nature of the moral rule of Ṛta, and the supervisory authority of Mitra and Varuṇa in this work, will be set out in the later parts.
+
+It is not an easy task to publish the Ṛgveda Saṃhitā — most ancient, most profound, most extensive, the root of all śāstras — in plain Kannada with explanation and translation. Nevertheless, with the noble purpose that by such a great work all people, scholars and others, may gain growth of knowledge and become fit for God's grace, His Highness **Śrī Jayachāmarājendra Oḍeyar Bahadur, G.C.B., G.C.S.I.**, Lord of the Karnāṭaka throne, patron of Vedic learning, himself a scholar, beloved of the people, devoted to God and intent on the Truth, is encouraging the publication of this work, which needs much expense, by his generous patronage; this must be called the good fortune (*sukṛta*) of the Karnāṭaka people. To such large-minded Prabhuvarya, to his family (including the prince named Gāyatrī — the mantra said to be of highest importance among the Vedic mantras — [as the Kannada has it; sense of the clause: the royal children]) and to all the people, may the Lord, the Veda-puruṣa, I pray, grant the benefits of this world — long life, health, wealth, prosperity and every riches — and, above all, spiritual knowledge of the highest truth.
+
+> Mysore. [Vikṛti-nāma saṃvatsara] [?] Caitra śuddha pratipadā, Sunday — 19-3-1950.
+> Translator: **H. P. Venkata Rao**, Āsthāna Mahāvidvān.
+
+(End of the Pīṭhike text, printed pp. i–vi. The contents table follows on PDF 14–20.)
+
+---
+
+**Progress note:** Pīṭhike text done, printed pp. i–vi (PDF 8–13; signed 19-3-1950, H. P. Venkata Rao). Reference numerals in Pīṭhike blurred → `[?]`. PDF 14–20 = contents table (Viṣayānukramaṇike) still to be noted briefly; then Sūkta 113 from printed p. 2 (PDF 22). IAST not yet added to the Pīṭhike (run add_iast.py at end).
