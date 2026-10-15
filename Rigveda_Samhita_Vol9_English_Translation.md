@@ -9675,4 +9675,54 @@ and, having quoted this Ṛk: *manuṣaśabdo 'tra manoḥ paryāyaḥ | manunā
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–21 complete; Ṛk 22 through printed p. 403 (PDF 423): Special Topics done; grammar begun (continues p. 404). Next: printed p. 404 (PDF 424). Numerals as read (list stops at printed p. 380): Ṛ. 1-84-13, 1-91-9 `[?]`; sūtra numbers `[as read]`.
+### Printed p. 404  (PDF 424; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar of Ṛk 22, concluded (noted briefly; sūtra numbers as read):* *Vocat* (continued) — *guṇa*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; the *nighāta* accent. *Ṛtāyan* — *ṛtaṃ satyam ātmana icchatīti ṛtāyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8 as read), the suffix *kyac* in the sense of wishing; *akṛtsārvadhātukayor dīrghaḥ* (Pā. 7-4-25 as read), lengthening of the preceding because of *kyac*; after the *kyajanta*, in the sense of *laṭ*, the suffix *śatṛ*; by *kyac*'s accent, the final acute. *Tvāṣṭram* — *tvaṣṭuḥ labdham tvāṣṭram*; *tasyedam* (Pā. 4-3-120 as read), the suffix *aṇ*; *taddhiteṣv acām ādeḥ* (Pā. 7-2-117 as read), *vṛddhi* of the initial; *yaṇ* substituted; by the suffix's accent the final acute. *Dasrau* — *āmantritasya ca* (Pā. 6-1-198 as read), the *nighāta* accent. ‖ 22 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.23)**
+
+> सदा कवी सुमतिमा चके वां विश्वा धियो अश्विना प्रावतं मे ।
+> अस्मे रयिं नासत्या बृहन्तमपत्यसाचं श्रुत्यं रराथाम् ॥ २३ ॥
+
+> *sadā kavī sumatimā cake vāṃ viśvā dhiyo aśvinā prāvataṃ me |*
+> *asme rayiṃ nāsatyā bṛhantamapatyasācaṃ śrutyaṃ rarāthām ‖ 23 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.23)**
+
+> सदा । कवी इति । सुऽमतिम् । आ । चके । वाम् । विश्वाः । धियः ।
+> अश्विना । प्र । अवतम् । मे ।
+> अस्मे इति । रयिम् । नासत्या । बृहन्तम् । अपत्यऽसाचम् । श्रुत्यम् ।
+> रराथाम् ॥ २३ ॥
+
+> *sadā | kavī iti | su 'matim | ā | cake | vām | viśvāḥ | dhiyaḥ |*
+> *aśvinā | pra | avatam | me |*
+> *asme iti | rayim | nāsatyā | bṛhantam | apatya 'sācam | śrutyam |*
+> *rarāthām ‖ 23 ‖*
+
+---
+
+### Printed p. 405  (PDF 425; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.23)**
+
+> हे कवी क्रान्तदर्शिनौ मेधाविनावश्विनौ वां युवयोः सुमतिं कल्याणीमनुग्रहात्मिकां बुद्धिं सदा सर्वदा चके । अभिमुख्येन प्रार्थये । मे मदीयानि विश्वा धियः सर्वाणि कर्माणि युवां प्रावतम् । प्रकर्षेण रक्षतम् । अपि चास्मभ्यं हे नासत्यावश्विनौ बृहन्तं महान्तमपत्यसाचमपत्यैः पुत्रादिभिः समवेतं श्रुत्यं प्रशंसनीयमुत्कृष्टं रयिं धनं रराथां प्रयच्छतम् । चके । कै गै शब्दे । व्यत्ययेनात्मनेपदम् । लिट्युत्तमैकवचने रूपम् । अस्मे । सुपां सुलुगिति चतुर्थीबहुवचनस्य शेआदेशः । अपत्यसाचम् । अपत्यैः सह सचते संगच्छत इत्यपत्यसाच् । छान्दसो ण्विः । श्रुत्यम् । श्रुतिः स्तुतिः । तत्र भवं श्रुत्यम् । भवे छन्दसीति यत् । यतोऽनावः इत्याद्युदात्तत्वम् । रराथाम् । रा दाने । लोटि व्यत्ययेनात्मनेपदम् । बहुलं छन्दसीति शपः श्लुः ॥
+
+> *he kavī krāntadarśinau medhāvināvaśvinau vāṃ yuvayoḥ sumatiṃ kalyāṇīmanugrahātmikāṃ buddhiṃ sadā sarvadā cake | abhimukhyena prārthaye | me madīyāni viśvā dhiyaḥ sarvāṇi karmāṇi yuvāṃ prāvatam | prakarṣeṇa rakṣatam | api cāsmabhyaṃ he nāsatyāvaśvinau bṛhantaṃ mahāntamapatyasācamapatyaiḥ putrādibhiḥ samavetaṃ śrutyaṃ praśaṃsanīyamutkṛṣṭaṃ rayiṃ dhanaṃ rarāthāṃ prayacchatam | cake | kai gai śabde | vyatyayenātmanepadam | liṭyuttamaikavacane rūpam | asme | supāṃ sulugiti caturthībahuvacanasya śeādeśaḥ | apatyasācam | apatyaiḥ saha sacate saṃgacchata ityapatyasāc | chāndaso ṇviḥ | śrutyam | śrutiḥ stutiḥ | tatra bhavaṃ śrutyam | bhave chandasīti yat | yato 'nāvaḥ ityādyudāttatvam | rarāthām | rā dāne | loṭi vyatyayenātmanepadam | bahulaṃ chandasīti śapaḥ śluḥ ‖*
+
+*Sense (mine):* "O sages (*kavī* — far-seeing, wise Aśvins), I ever (*sadā*) seek (*cake*) your *sumati* — your good, favouring thought, face to face; O Aśvins, protect (*prāvatam*) all my (*viśvā dhiyaḥ*) works, strongly. And to us, O Nāsatyas, Aśvins, give (*rarāthām*) great (*bṛhantam*) wealth (*rayim*), accompanied by offspring (*apatyasācam*), worthy of praise (*śrutyam*)." Grammar: *cake* [from the root *kai gai śabde*, with the middle voice by *vyatyaya*; the first-person singular of the *liṭ*]; *asme* [*supāṃ sulug*, *śe* substituted for the dative plural]; *apatyasācam* [*apatyaiḥ saha sacate saṃgacchata ity apatyasāc*; Vedic *ṇvi*]; *śrutyam* [*śrutiḥ stutiḥ*; that which exists there; *bhave chandasi*, *yat*; *yato 'nāvaḥ*, initial acute]; *rarāthām* [root *rā dāne*; *loṭ*, middle by *vyatyaya*; *bahulaṃ chandasi*, *ślu* for *śap*].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.23)** (Kannada, rendered)
+
+*Kavī* — O far-seeing; *aśvinā* — O Aśvins; *vām* — your; *sumatim* — the mind of favour; *sadā* — always; *ā cake* — I pray; *me* — my; *viśvā dhiyaḥ* — all deeds; *prāvatam* — (you two) protect well; *(api ca)* — and; *asme* — to us; *nāsatyā* — O Nāsatyas; *bṛhantam* — great; *apatyasācam* — accompanied by sons and the like; *śrutyam* — praiseworthy (excellent); *rayim* — wealth; *rarāthām* — graciously give.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.23)** (Kannada, rendered)
+
+"O Aśvins, knowers of the three times! I pray always for your graciously-disposed mind; protect all my works well; and, O Nāsatyas, graciously give us great wealth — accompanied by sons and the like, and praiseworthy."
+
+**English Translation (as printed)**
+
+"Sapient Aswins, I ever solicit your favour; protect all my religious duties, and grant, Nasatyas, abundant and excellent wealth, together with offspring."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–22 complete; Ṛk 23 through printed p. 405 (PDF 425): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 406). Next: printed p. 406 (PDF 426). Numerals as read (list stops at printed p. 380): sūtra numbers on p. 404 `[as read]`.
