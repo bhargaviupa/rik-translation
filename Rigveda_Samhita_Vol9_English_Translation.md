@@ -3022,4 +3022,168 @@ as an example of this Ṛk" —
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–4 complete; Ṛk 5 through the printed English on p. 119 (PDF 139): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 120 (PDF 140) — Special Topics and grammar of Ṛk 5. Open: Ṛ. 8-1-11-type citation on p. 116 unclear `[?]`; Pā./Ni. numerals as read.
+### Printed p. 120  (PDF 140; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**वराहम्** — *Varāham* — "*varāhāram utkṛṣṭabhojanam*": "Sāyaṇa explains: he who takes excellent food, or takes food to excess; or '*varāhavad dṛḍhāṅgam*' — whose body is as firm as that of a *varāha* (wild boar). Skandasvāmin:
+
+> वराहनामासुरः केतुसदृक्षः [?] वराहः इति मेघनाम । केतुसदृशम् एकदेशसादृश्येन वैष समस्तसादृश्यं च व्यपदेशः रुद्रस्य नीलत्वात् कण्ठो मेघसदृशः । मेघसदृशकण्ठमित्यर्थः ॥ [small type; partly doubtful [?]]
+
+> *varāhanāmāsuraḥ ketusadṛkṣaḥ [?] varāhaḥ iti meghanāma | ketusadṛśam ekadeśasādṛśyena vaiṣa samastasādṛśyaṃ ca vyapadeśaḥ rudrasya nīlatvāt kaṇṭho meghasadṛśaḥ | meghasadṛśakaṇṭhamityarthaḥ ‖ [small type; partly doubtful [?]]*
+
+— Rudra, whose strength is like that of the asura named *Varāha* [or: the one who has a boar's form]; or, since *varāha* is a name of the cloud, because of resemblance in one respect [*ekadeśa*] the whole resemblance is spoken of: because of Rudra's blueness (*nīlatva*) his throat is like a cloud; the meaning is 'whose throat is like a cloud'. The word *varāha*, being read among the thirty-one [as read] names of the cloud (Ni. 1-10 as read [?]), has the meaning 'cloud'. Since the likeness (*upamā*) is said to be stated completely in respect of one part, the throat of Rudra is compared with the cloud: Rudra has a throat that is like the cloud in being dark blue; therefore he is called by the word *varāha*. Or:
+
+> वराहः सूकर उच्यते तदाकारं देवता हि तं तमाकारं महाभाग्ययोगात् भजते । अत उपपन्नो हि रुद्रस्य वराहाकारव्यपदेशः ।
+
+> *varāhaḥ sūkara ucyate tadākāraṃ devatā hi taṃ tamākāraṃ mahābhāgyayogāt bhajate | ata upapanno hi rudrasya varāhākāravyapadeśaḥ |*
+
+— *varāha* denotes the boar: 'the deities, by their great fortune, assume whatever form they like' — so Rudra's being described as having the form of a boar is proper. The deities take on the forms they desire by the power of their own energy and the success of their austerity: hence Rudra too has the form of a boar. Thus [Skandasvāmin] explains the meaning in three ways."
+
+"The Nirukta-writer:
+
+> वराहो मेघो भवति । वराहारः वरमाहारमाहार्षीदिति च ब्राह्मणम् ॥
+> (नि. ५-४ [as read])
+
+> *varāho megho bhavati | varāhāraḥ varamāhāramāhārṣīditi ca brāhmaṇam ‖*
+> *(ni. 5-4 [as read])*
+
+— for the word *varāha* he gives the meaning 'cloud'; and: *varam āharati iti varāhaḥ* — he who takes the excellent [food]; or *mūlaṃ vahati iti varāhaḥ* — he who lifts up the roots (the bulbs) that are in the earth, hence 'boar'; or from bringing water, thus explained in two ways —
+
+> अस्येदु मातुः सवनेषु सद्यो महः पितुं पपिवाञ्चार्वन्ना ।
+> मुषायद्विष्णुः पचतं सहीयान्विध्यद्वराहं तिरो अद्रिमस्ता ॥
+> (ऋ. सं. १-६१-७ [as read])
+
+> *asyedu mātuḥ savaneṣu sadyo mahaḥ pituṃ papivāñcārvannā |*
+> *muṣāyadviṣṇuḥ pacataṃ sahīyānvidhyadvarāhaṃ tiro adrimastā ‖*
+> *(ṛ. saṃ. 1-61-7 [as read])*
+
+In this Ṛk the word *varāha* is used in the sense of 'cloud'.
+
+### Printed p. 121  (PDF 141; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> विश्वेत्ता विष्णुराभरदुरुक्रमस्त्वेषितः शतं महिषान्क्षीरपाकमोदनं वराहमिन्द्र एमुषम् ॥
+> (ऋ. सं. ८-७७-१० [as read])
+
+> *viśvettā viṣṇurābharadurukramastveṣitaḥ śataṃ mahiṣānkṣīrapākamodanaṃ varāhamindra emuṣam ‖*
+> *(ṛ. saṃ. 8-77-10 [as read])*
+>
+> अयमुपमीतरो वराहः एतस्मादेव बृहति मूलानि वरं वरं मूलं बृहतीति वा ॥
+> (नि. ५-४)
+
+> *ayamupamītaro varāhaḥ etasmādeva bṛhati mūlāni varaṃ varaṃ mūlaṃ bṛhatīti vā ‖*
+> *(ni. 5-4)*
+
+[Yāska] says that the explanation of the word *varāha* is still of another kind, and quotes this; the Nirukta-writer, explaining that the word *varāha* has also the meaning 'asura', cites the Brāhmaṇa sentence of the Maitrāyaṇīya school '*varam āhāram āhārṣīt*' ('he took the excellent food'). And again —
+
+> आङ्गिरसोऽपि वराहा उच्यन्ते ।
+
+> *āṅgiraso 'pi varāhā ucyante |*
+
+— 'the Aṅgirasa ṛṣis are also called *varāha*': explaining the meaning of the word *varāha* [in this sense, he cites] —
+
+> स ईं सत्येभिः सखिभिः शुचद्भिर्गोधायसं वि धनसैरदर्दः ।
+> ब्रह्मणस्पतिर्वृषभिर्वराहैर्घर्मस्वेदेभिर्द्रविणं व्यानट् ॥
+> (ऋ. सं. १०-६७-७ [as read])
+
+> *sa īṃ satyebhiḥ sakhibhiḥ śucadbhirgodhāyasaṃ vi dhanasairadardaḥ |*
+> *brahmaṇaspatirvṛṣabhirvarāhairgharmasvedebhirdraviṇaṃ vyānaṭ ‖*
+> *(ṛ. saṃ. 10-67-7 [as read])*
+
+In this Ṛk the Aṅgirases are denoted by the word *varāha*.
+
+> वि त्वत्कृन्न योजनमचेति स्सस्रह [?] यन्मरुतो गोतनो वः ।
+> पर्क [?] हिरण्यचक्रानयोदंष्ट्रान्विधावतो वराहून् ॥
+> (ऋ. सं. १-८८-५ [as read]; the quotation is in small type and corrupt in the print [?])
+
+> *vi tvatkṛnna yojanamaceti ssasraha [?] yanmaruto gotano vaḥ |*
+> *parka [?] hiraṇyacakrānayodaṃṣṭrānvidhāvato varāhūn ‖*
+> *(ṛ. saṃ. 1-88-5 [as read]; the quotation is in small type and corrupt in the print [?])*
+
+"And these middle-region deity-groups are also called *varāha*: they are called *varāhavaḥ* (the deities of the middle region, i.e. of the atmosphere)" — thus he explains this Ṛk. "Following the view of the Nirukta-writer so stated, Skandasvāmin explains the word *varāha* in three ways and Sāyaṇa in two. But in this Ṛk the word *varāha* being stated, there is the plural in '*mādhyamikāḥ devagaṇāḥ varāhavaḥ*' for which, as he explains, '*te sapta sapta marutāṃ gaṇāḥ*' ('those seven-seven groups of Maruts'), meaning the troops of Maruts. Just as in the case of the Maruts, who are the group of the [seven times] seven deities, the word *varāhavaḥ* is used of them, so the word *varāha* is applied to the deity of the middle region" — and, so explaining, he illustrates the very Ṛk '*divo varāham*'."
+
+---
+
+### Printed p. 122  (PDF 142; header "Maṃ. 1 A. 16 Sū. 114")
+
+**अरुषम्** — *Aruṣam* — "*ārocamānam*": "one who shines — so Sāyaṇa; Skandasvāmin: '*aruṣatir gatikarmā*' — [the word *aruṣa* is derived from a root that means going]; because it means 'going', the word *aruṣa* is explained as 'one who goes against enemies, or goes to the sacrifice' (*śatrūn yajñaṃ vā prati*)."
+
+**रूपम्** — *Rūpam* — "*nirūpaṇīyaṃ vedāntair adhigamyam*": "Rudra's own form is what is investigated by the Vedas and the Vedānta, and, being what is to be known by that very [study], the form of Rudra is that which is to be known by the Vedānta — thus Sāyaṇa. Skandasvāmin:
+
+> अत्र नेरीते मत्वर्थो रूपशब्दो द्रष्टव्यः । महाभाग्ययोगादनेकप्रकारैः रूपैः रूपवन्तम् ॥
+
+> *atra nerīte matvartho rūpaśabdo draṣṭavyaḥ | mahābhāgyayogādanekaprakāraiḥ rūpaiḥ rūpavantam ‖*
+
+— here the word *rūpa* is to be understood in the sense of *matup*, 'having form'; thus he explains that Rudra shines with many kinds of forms by his unsurpassed austerity and merit."
+
+**नमसा** — *Namasā* — "by salutations, or by offering food in the form of oblations: we invoke Rudra to come down here from heaven — as Sāyaṇa explains; and Skandasvāmin, explaining likewise, gives the special meaning 'praise' to the word *namas*."
+
+**वार्याणि भेषजा हस्ते बिभ्रत्** — *Vāryāṇi bheṣajā haste bibhrat* — "Rudra holds in his hands always medicines that have the power to destroy diseases desired to be removed by all; so he brings happiness to all. Therefore the prayer is made that Rudra come to our sacrifice and give us happiness. That Rudra is the lord of medicines is said in —
+
+> सहस्रं ते स्वपिवात भेषजा मा नस्तोकेषु तनयेषु रीरिषः ।
+> ओषधीनां पतये नमः ॥ [as read; the reference is in small type]
+> (ऋ. सं. २-३३-१३ [as read; [?]])
+
+> *sahasraṃ te svapivāta bheṣajā mā nastokeṣu tanayeṣu rīriṣaḥ |*
+> *oṣadhīnāṃ pataye namaḥ ‖ [as read; the reference is in small type]*
+> *(ṛ. saṃ. 2-33-13 [as read; [?]])*
+
+and other mantras."
+
+**वर्म** — *Varma* — "*varmātra kavacam ucyate*": "armour — that is, armour able to ward off the injury done by enemies: *āyudhānāṃ nivārakam* — that which protects against the weapons hurled by foes, so that no danger may come: the prayer is that Rudra, being pleased, favour us with such armour."
+
+### Printed p. 123  (PDF 143; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**छर्दिः** — *Chardiḥ* — "since the word is stated among the twenty-two [as read] names of house (*gṛha*), '*gayaḥ*', '*kṣayaḥ*' and so on (Ni. 3-?? as read [?]), it means 'house'. The prayer to Rudra is that he grant us a house suitable for living in happily. By the epithets *varāham*, *aruṣam*, *kapardinam*, *tveṣam*, *rūpam*, Rudra, who is shown to be possessed of power, is invoked with salutations and the offering of oblations; and since a prayer is made in this Ṛk that he grant cure of disease, happiness, armour against all kinds of danger from enemies, and a dwelling, it is understood that Rudra grants these to those who take refuge in him."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly)**
+
+*divaḥ* (accent of the ending by *ūḍidaṃpadādi*…), *kapardinam* (*kapardaḥ asya asti*; the suffix *ini* by *ata iniṭhanau*, Pā. 5-2-115 as read [?]; accent on the *i* from the suffix), *bibhrat* (*ḍubhṛñ* "to bear, to nourish", juhotyādi; *śatṛ* in the *laṭ* sense; doubling by *ślau*; *i* in the reduplication by *bhṛñām it*, Pā. 7-4-76 as read [?]; *sārvadhātukam apit* makes the *śatṛ* *ṅit*, and since the *jus*-*ādi* (*jhi*) is not there, guṇa of the root's *i* is not applied; *yaṇ*; the *num* augment is prevented by *nābhyastācchatuḥ*, Pā. 7-1-78 as read [?]); *bheṣajā* (*bhiṣaj* "to heal", does not belong to the *kaṇḍvādi* group; *yak* by *kaṇḍvādibhyo yak*, Pā. 3-1-27 as read [?], in its own sense [*svārthe*]; or the *ac* suffix by *pacādi*, being an *ākṛtigaṇa*; elision of *a* by *yasya iti ca*; *ato lopaḥ*; and this is established by the statement *sumaṅgalabheṣajāc ca*, Pā. 4-1-30 as read [?]; *śi* → elision by *śeś chandasi bahulam*, Pā. 6-1-70 as read [?]); *vāryāṇi* (*vṛñ* "to choose"; *ṇyat* by *ṛhaloṇyat*; *vṛddhi* by *aco 'ñṇiti*; *raparatva* by *uraṇ raparaḥ*; *tuk*-augment is prevented in *ṇyat*…; the *tit* svarita is overruled by the *iḍavaravṛdhi…* [as printed] — the first syllable acute by Pā. 6-1-?? as read [?]).
+
+### Printed p. 124  (PDF 144; header "Maṃ. 1 A. 16 Sū. 114")
+
+*Grammar page, concluded:* *chardiḥ* (*ucchṛdir* "to shine, to play"; "*chṛdyate dīpyate suvarṇādibhir gṛhaṃ prakāśyate iti chardiḥ*", the house that is lit by objects such as gold; *arci śucihu-sṛpi-chādi-chardibhyo 'ṇ*-style Uṇādi *isi*, Uṇ. 2-?? as read [?]; guṇa of the penultimate; accent from the suffix), *yaṃsat* (*yamu* "to restrain"; *leṭ* 3rd singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*, Pā. 3-4-97 as read [?]; the augment *aṭ* by *leṭo 'ḍāṭau*; *sip bahulaṃ leṭi*, Pā. 3-1-34 as read [?], *sip* as the *vikaraṇa*; *anusvāra* for *m*; nighāta since it follows an accented word). ‖ 5 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 6
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.6)**
+
+> इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनम् ।
+> रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ॥ ६ ॥
+
+> *idaṃ pitre marutāmucyate vacaḥ svādoḥ svādīyo rudrāya vardhanam |*
+> *rāsvā ca no amṛta martabhojanaṃ tmane tokāya tanayāya mṛḷa ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.6)**
+
+> इदम् । पित्रे । मरुताम् । उच्यते । वचः । स्वादोः । स्वादीयः ।
+> रुद्राय । वर्धनम् ।
+> रास्व । च । नः । अमृत । मर्तऽभोजनम् । त्मने । तोकाय ।
+> तनयाय । मृळ ॥ ६ ॥
+
+> *idam | pitre | marutām | ucyate | vacaḥ | svādoḥ | svādīyaḥ |*
+> *rudrāya | vardhanam |*
+> *rāsva | ca | naḥ | amṛta | marta 'bhojanam | tmane | tokāya |*
+> *tanayāya | mṛḷa ‖ 6 ‖*
+
+### Printed p. 125  (PDF 145; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.6)**
+
+> इदं स्तुतिलक्षणं वचो मरुतामेकोनपञ्चाशत्संख्याकानां देवविशेषाणां पित्रे जनकाय रुद्रायेश्वरायोच्यते । उच्चार्यते । कीदृशं स्वादोः स्वादीयो रसवतो मधुफलादेरपि स्वादुतरम् । अतिशयेन हर्षजनकमित्यर्थः । वर्धनं स्तुत्यस्य प्रवर्धकम् । स्तोत्रेण हि देवता हृष्टा सती प्रवर्धते । रुद्रस्य च मरुतां पितृत्वमेवमाम्नायते । पुरा कदाचिदिन्द्रोऽसुराञ्जित्वा तदानीं दितिरसुरमातेन्द्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तान्तमवगच्छन्निन्द्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखण्डमकरोत् । ते सर्वे गर्भैकदेशा योनेर्निर्गत्यारुदन् । एतस्मिन्नवसरे लीलार्थं गच्छन्तौ पार्वतीपरमेश्वराविमान्ददृशतुः । महेशं प्रति पार्वत्यैवमुवाच । इमे मांसखण्डा यथा प्रत्येकं पुत्राः सम्पद्यन्तामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान्समानरूपान् समानवयसः समानालङ्कारान्स्प्रष्ट्वा गौर्यै प्रददौ केवमे पुत्राः सन्तिति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयन्ते । रौद्रेषु च मरुतां पिता रुद्र इति । अपि च हे अमृत मरणरहित रुद्र मर्तभोजनं मर्तानां मनुष्याणां भोगपर्याप्तमन्नं नोऽस्मभ्यं रास्व । प्रयच्छ । तथा त्मने आत्मने द्वितीयार्थे चतुर्थी मां तोकाय तोकं पुत्रं तनयाय तनयं तत्पुत्रं च मृळ सुखय । पित्रे उदात्तेन विभक्तेरुदात्तत्वं रास्व रा दाने व्यत्ययेनात्मनेपदम् । त्मने मन्त्रेष्वाङ्यादेरात्मन इत्यत्राऽऽऽदेः [?] छन्दसि दृश्यते । का. ६-४-१४१-१ इति वचनादात्मन आकारलोपः ॥ [read from the print; a few words in the Purāṇic story are in small type, partly doubtful [?]]
+
+> *idaṃ stutilakṣaṇaṃ vaco marutāmekonapañcāśatsaṃkhyākānāṃ devaviśeṣāṇāṃ pitre janakāya rudrāyeśvarāyocyate | uccāryate | kīdṛśaṃ svādoḥ svādīyo rasavato madhuphalāderapi svādutaram | atiśayena harṣajanakamityarthaḥ | vardhanaṃ stutyasya pravardhakam | stotreṇa hi devatā hṛṣṭā satī pravardhate | rudrasya ca marutāṃ pitṛtvamevamāmnāyate | purā kadācidindro 'surāñjitvā tadānīṃ ditirasuramātendrahananasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśādgarbhaṃ lebhe | imaṃ vṛttāntamavagacchannindro vajrahastaḥ san sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṇḍamakarot | te sarve garbhaikadeśā yonernirgatyārudan | etasminnavasare līlārthaṃ gacchantau pārvatīparameśvarāvimāndadṛśatuḥ | maheśaṃ prati pārvatyaivamuvāca | ime māṃsakhaṇḍā yathā pratyekaṃ putrāḥ sampadyantāmevaṃ tvayā kāryaṃ mayi cetprītirastīti | sa ca maheśvarastānsamānarūpān samānavayasaḥ samānālaṅkārānspraṣṭvā gauryai pradadau kevame putrāḥ santiti | ataḥ sarveṣu māruteṣu sūkteṣu maruto rudraputrā iti stūyante | raudreṣu ca marutāṃ pitā rudra iti | api ca he amṛta maraṇarahita rudra martabhojanaṃ martānāṃ manuṣyāṇāṃ bhogaparyāptamannaṃ no 'smabhyaṃ rāsva | prayaccha | tathā tmane ātmane dvitīyārthe caturthī māṃ tokāya tokaṃ putraṃ tanayāya tanayaṃ tatputraṃ ca mṛḷa sukhaya | pitre udāttena vibhakterudāttatvaṃ rāsva rā dāne vyatyayenātmanepadam | tmane mantreṣvāṅyāderātmana ityatrā ' ' 'deḥ [?] chandasi dṛśyate | kā. 6-4-141-1 iti vacanādātmana ākāralopaḥ ‖ [read from the print; a few words in the Purāṇic story are in small type, partly doubtful [?]]*
+
+*Sense (mine):* "This speech (*vacaḥ*) in the form of praise is uttered for the *pitṛ*, the father, the begetter, of the Maruts — a special group of gods numbering forty-nine — namely Rudra, the lord. How is it? *Svādoḥ svādīyaḥ* — sweeter than even sweet things like honey-fruit: exceedingly delight-giving. *Vardhanam* — increasing the one praised: for a deity, delighted by a *stotra*, grows. And that Rudra is the father of the Maruts is thus handed down: once, long ago, Indra having conquered the asuras, Diti, mother of the asuras, desiring a son able to slay Indra, obtained from her husband by austerity a embryo. Indra, learning this, vajra in hand, made himself subtle, entered her womb, and split that embryo into seven; then again he made each into seven pieces. All these parts of the embryo came out of the womb and wept. At that moment Pārvatī and Parameśvara, going for sport, saw them. Pārvatī said to Maheśa: 'Let these pieces of flesh become sons, each one, thus; do this for me, if you love me.' And Maheśvara, touching them — made of the same form, same age, same ornaments — gave them to Gaurī (saying), 'These are [your] sons.' Hence in all the Mārut-sūktas the Maruts are praised as Rudra's sons; and in the Raudra [hymns] Rudra is the father of the Maruts. Moreover, O deathless Rudra, *martabhojanam* — food sufficient for the enjoyment of mortal men, *rāsva*, give to us; and for *tmane*, myself (the dative in the sense of the accusative), me, *tokāya*, my son, and *tanayāya*, his son — *mṛḷa*, give happiness."
+
+*Grammatical tail (characterized, not transcribed):* *pitre* (the ending accented, *udātta*); *rāsva* (*rā* "to give", *ātmanepada* by *vyatyaya*); *tmane* (*ātman*, with the loss of the initial *ā* in the Vedic usage, as stated in *Kā. 6-4-141-1* as printed).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*svādoḥ* — than sweet things such as honey, by having flavour; *svādīyaḥ* — more flavourful (pleasing, delight-giving); *vardhanam* — increasing; *idam vacaḥ* — this speech in the form of praise; *marutām* — to the Marut deities; *pitre* — the begetter; *rudrāya* — for Rudra; *ucyate* — is uttered; *āmṛta* — O deathless Rudra; *martabhojanam* — food that is to be enjoyed by men; *naḥ* — to us; *rāsva* — give; (*tathā* — and so); *tmane* — to me; *tokāya* — to (my) son; *tanayāya* — (to his) son (and to me); *mṛḷa* — be gracious."
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–5 complete; Ṛk 6 through the pratipadārtha on p. 125 (PDF 145). Next: printed p. 126 (PDF 146) — Ṛk 6 bhāvārtha, English, Special Topics, grammar. Open: numerals as read; Purāṇic story in the bhāṣya partly small type `[?]`.
