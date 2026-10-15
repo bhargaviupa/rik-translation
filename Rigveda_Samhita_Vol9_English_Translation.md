@@ -9573,4 +9573,64 @@ and, having quoted this Ṛk: *manuṣaśabdo 'tra manoḥ paryāyaḥ | manunā
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–21 complete (printed p. 399, PDF 419). Next: printed p. 400 (PDF 420): Ṛk 22 Saṃhitā. Numerals as read (list stops at printed p. 380): Ṛ. 1-112-16; Pā. 7-1-39, 6-1-186, 2-4-72, 6-1-197, 3-1-124, 7-2-115, 6-1-213.
+### Printed p. 400  (PDF 420; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.22)**
+
+> आथर्वणायाश्विना दधीचेऽश्व्यं शिरः प्रत्यैरयतम् ।
+> स वां मधु प्र वोचदृतायन्त्वाष्ट्रं यद्दस्रावपि कक्ष्यं वाम् ॥ २२ ॥
+
+> *ātharvaṇāyāśvinā dadhīce 'śvyaṃ śiraḥ pratyairayatam |*
+> *sa vāṃ madhu pra vocadṛtāyantvāṣṭraṃ yaddasrāvapi kakṣyaṃ vām ‖ 22 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.22)**
+
+> आथर्वणाय । अश्विना । दधीचे । अश्व्यम् । शिरः । प्रति । ऐरयतम् ।
+> सः । वाम् । मधु । प्र । वोचत् । ऋतऽयन् । त्वाष्ट्रम् । यत् ।
+> दस्रौ । अपिऽकक्ष्यम् । वाम् ॥ २२ ॥
+
+> *ātharvaṇāya | aśvinā | dadhīce | aśvyam | śiraḥ | prati | airayatam |*
+> *saḥ | vām | madhu | pra | vocat | ṛta 'yan | tvāṣṭram | yat |*
+> *dasrau | api 'kakṣyam | vām ‖ 22 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.22)** *(small type; read with some doubts)*
+
+> तद्वां नरा सनये (ऋ. १-११६-१२ [as read]) इत्यत्रोक्तमाख्यानमिहाप्यनुसंधेयम् । हे अश्विनौ आथर्वणायाथर्वणः पुत्राय दधीचे दध्यञ्नाम्ने [?] महर्षये अश्व्यमश्वसंबन्धि शिरः प्रत्यैरयतम् । प्रत्यधत्तम् । तदीयं मानुषं शिरः प्रच्छिद्यान्यत्र विधायाश्वीयेन शिरसा तमृषिं समयोजयतमित्यर्थः । स च वां युवाभ्यां प्रवर्ग्यविद्यां मधुविद्यां च वक्ष्यामीति पुरा कृतां प्रतिज्ञां ऋतायन् सत्यमात्मन इच्छन् मधु मधुविद्यां त्वाष्ट्रं त्वष्टुरिन्द्राल्लब्धं प्र वोचत् । प्रोक्तवान् । हे दस्रौ दर्शनीयावश्विनौ वां युवयोः संबन्धि यदपि कक्ष्यं छिन्नस्य यज्ञशिरसः कक्षप्रदेशेन पुनःसंधानभूतं प्रवर्ग्यविद्याख्यं रहस्यं तदपि वां युवाभ्यां प्रावोचदित्यर्थः ॥ दधीचे । अञ्चतेरृत्विग्… [grammar tail: *dadhīce* (*añcateḥ … kvin*, *anidītāṃ hala upadhāyāḥ kṅiti*, *nalopaḥ*; *cau*; *acaḥ*, *ī* … *udāttanivṛtti-svareṇa vibhaktyudāttatve prāpte*, *tasmāpavādena*, *añceś chandasi sarvanāmasthānayoḥ*) — characterized, not transcribed]
+
+> *tadvāṃ narā sanaye (ṛ. 1-116-12 [as read]) ityatroktamākhyānamihāpyanusaṃdheyam | he aśvinau ātharvaṇāyātharvaṇaḥ putrāya dadhīce dadhyañnāmne [?] maharṣaye aśvyamaśvasaṃbandhi śiraḥ pratyairayatam | pratyadhattam | tadīyaṃ mānuṣaṃ śiraḥ pracchidyānyatra vidhāyāśvīyena śirasā tamṛṣiṃ samayojayatamityarthaḥ | sa ca vāṃ yuvābhyāṃ pravargyavidyāṃ madhuvidyāṃ ca vakṣyāmīti purā kṛtāṃ pratijñāṃ ṛtāyan satyamātmana icchan madhu madhuvidyāṃ tvāṣṭraṃ tvaṣṭurindrāllabdhaṃ pra vocat | proktavān | he dasrau darśanīyāvaśvinau vāṃ yuvayoḥ saṃbandhi yadapi kakṣyaṃ chinnasya yajñaśirasaḥ kakṣapradeśena punaḥsaṃdhānabhūtaṃ pravargyavidyākhyaṃ rahasyaṃ tadapi vāṃ yuvābhyāṃ prāvocadityarthaḥ ‖ dadhīce | añcaterṛtvig… [grammar tail: *dadhīce* (*añcateḥ … kvin*, *anidītāṃ hala upadhāyāḥ kṅiti*, *nalopaḥ*; *cau*; *acaḥ*, *ī* … *udāttanivṛtti-svareṇa vibhaktyudāttatve prāpte*, *tasmāpavādena*, *añceś chandasi sarvanāmasthānayoḥ*) — characterized, not transcribed]*
+
+*Sense (mine and tentative):* "The story told at '*tad vāṃ narā sanaye*' (Ṛ. 1-116-12 as read) is to be taken up here too. O Aśvins, to Dadhīca (Dadhyañc), the son of Atharvan, the great ṛṣi, you replaced (*pratyairayatam*) a horse's head: cutting off his human head and putting it elsewhere, you joined the ṛṣi with a horse's head — that is the meaning. And he, *ṛtāyan* — wishing truth for himself — spoke (*pra vocat*) to you the *madhu*, the honey-knowledge (*madhuvidyā*) received from Indra, the Tvāṣṭra [teaching], and the *Pravargya* knowledge — the promise he had made before: 'I shall tell you the Pravargya knowledge and the *madhu*-knowledge.' And, O *dasrau*, Aśvins worth seeing, the secret named *Pravargya* knowledge — which served for re-joining the cut-off head of the sacrifice at the *kakṣa* region — he told that too to you."
+
+---
+
+### Printed p. 401  (PDF 421; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.22)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *āthavarṇāya* — to the son of Atharvan; *dadhīce* — to the great sage named Dadhyañc; *aśvyam* — belonging to a horse; *śiraḥ* — head; *prati airayatam* — (in the place of his [own head]) you joined; *saḥ* — he too; *ṛtāyan* — (to make his promise) true; *vām* — to you two; *tvāṣṭram* — received from Tvaṣṭṛ (by Indra); *madhu* — the knowledge of honey; *pra vocat* — taught; *dasrau* — O Aśvins; *vām* — your; *yat* — which; *āpikakṣyam* — [the secret] knowledge of joining the head at the *kakṣa* region (called Pravargya); (*tat*) *api* — that also; *vām* — to you; *pra vocat* — taught.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.22)** (Kannada, rendered)
+
+"O Aśvins! You joined a horse's head to the sage Dadhyañc, the son of Atharvan; and he, to make true his promise, taught you the honey-knowledge (*madhuvidyā*) received by him from Tvaṣṭṛ (Indra), and the secret knowledge called *Pravargya*, which joins the head at the *kakṣa* region."
+
+**English Translation (as printed)**
+
+"You replaced, Aswins, with the head of a horse, (the head of) Dadhyanch, the son of Atharvan, and true to his promise, he revealed to you the mystic knowledge which he had learned from Twashtri, and which was as a ligature of the waist to you."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 22)**
+
+"In this Ṛk, the account is told again — that the very secret honey-knowledge (*madhuvidyā*), taught by Indra, was taught to you [Aśvins] by the sage Dadhīca."
+
+> तद्वां नरा सनये दंस उग्रमाविष्कृणोमि तन्यतुर्न वृष्टिम् ।
+> दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाच ॥
+> (ऋ. सं. १-११६-१२)
+
+> *tadvāṃ narā sanaye daṃsa ugramāviṣkṛṇomi tanyaturna vṛṣṭim |*
+> *dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvāca ‖*
+> *(ṛ. saṃ. 1-116-12)*
+
+"In this Ṛk what was stated first is stated in a different way."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–21 complete; Ṛk 22 through printed p. 401 (PDF 421): all parts done except the continuation of Special Topics and grammar (p. 402). Next: printed p. 402 (PDF 422). Numerals as read (list stops at printed p. 380): Ṛ. 1-116-12.
