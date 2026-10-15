@@ -8921,4 +8921,66 @@ Kannada: "From it, the waters rise upward; or the waters of rivers and the like 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–14 complete; Ṛk 15 Saṃhitā and Pada written (printed p. 371, PDF 391). Next: printed p. 372 (PDF 392): Ṛk 15 bhāṣya onward. Numerals on pp. 370–371 from the reader's list where present (Uṇ. 1-150, 1-157; Pā. 6-1-197, 3-1-134, 5-1-67, 6-4-77, 7-1-39, 8-1-19, 5-2-122); some partly illegible `[?]`.
+### Printed p. 372  (PDF 392; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.15)** *(small type; read with doubts)*
+
+> हे अश्विनौ वां युवां तौग्र्यः तुग्रपुत्रः प्रोळ्हः पित्रा प्रापितः समुद्रेऽम्बुधौ [?] जगन्वान् गतवान् सन् अव्यथिः व्यथारहितः अजोहवीत् । स्तुतिभिराह्वयत् । तमाह्वाकारं [?] हे मनोजवसा मनोवद्वेगयुक्तौ वृषणा कामानां वर्षकावश्विनौ सुयुजा सुष्ठु युक्ताश्वैर्युक्तेन रथेन स्वस्ति क्षेमं यथा भवति तथा निरूहथुः । जलान्निर्गमय्य युवां पितृगृहं प्रापितवन्तौ ॥ [the grammar tail follows: *jagan­vān* (*gamer liṭaḥ kvasuḥ*; *vibhāṣā gamahanavidaviśām*, optional *iṭ*), *manojavasā* (*manaso java iva javo yayos tau*; *supāṃ sulug*, *ā*), *nighāta* not occurring because of the *pādādi* [?], etc. — characterized, not transcribed]
+
+> *he aśvinau vāṃ yuvāṃ taugryaḥ tugraputraḥ proḷhaḥ pitrā prāpitaḥ samudre 'mbudhau [?] jaganvān gatavān san avyathiḥ vyathārahitaḥ ajohavīt | stutibhirāhvayat | tamāhvākāraṃ [?] he manojavasā manovadvegayuktau vṛṣaṇā kāmānāṃ varṣakāvaśvinau suyujā suṣṭhu yuktāśvairyuktena rathena svasti kṣemaṃ yathā bhavati tathā nirūhathuḥ | jalānnirgamayya yuvāṃ pitṛgṛhaṃ prāpitavantau ‖ [the grammar tail follows: *jagan­vān* (*gamer liṭaḥ kvasuḥ*; *vibhāṣā gamahanavidaviśām*, optional *iṭ*), *manojavasā* (*manaso java iva javo yayos tau*; *supāṃ sulug*, *ā*), *nighāta* not occurring because of the *pādādi* [?], etc. — characterized, not transcribed]*
+
+*Sense (mine):* "O Aśvins, Tugra's son, *tauġryaḥ* (Bhujyu), *prolhaḥ* — sent by his father to the sea, the ocean (*samudram*), going there, *avyathiḥ* — without distress [though sunk], called (*ajohavīt*) to you with praises. For that [calling], O swift as thought (*manojavasā*), showerers of desires, you two brought him out (*niroohathuḥ*) — with a well-yoked chariot, in such a way that it should be *svasti* (safe); having brought him out of the water, you delivered him to his father's house."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.15)** (Kannada, rendered)
+
+*Aśvinā* — O Aśvins; *prolhaḥ* — sent by his father to the sea's vicinity; *taugryaḥ* — Bhujyu, the son of Tugra; *samudram* — to the sea; *jagan-vān* — having set out; *avyathiḥ* — (though sunk in the sea) free of distress; *vām* — you both; *ajohavīt* — (praising) called; *tam* — (the praising) him; *manojavasā* — swift as thought; *vṛṣaṇā* — showerers of desires (you); *suyujā* — with well [yoked] horses; *rathena* — by the chariot; *svasti* — safely; *niḥ ūhathuḥ* — you took (out of the sea) and carried [to his father's house].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.15)** (Kannada, rendered)
+
+"O Aśvins! Bhujyu, sent by his father to the sea's vicinity — set out for the voyage, free of anxiety (though sinking in the sea) — praised you; you who are swift as thought and showerers of desires took the praising one out safely on a chariot yoked with excellent horses, and delivered him to his father's house."
+
+**English Translation (as printed)**
+
+"The son of Tugra, brought back by you, Aswins, (to his father), glorified you when he had crossed the ocean in safety, and you bore him showerers (of benefits), with your well-harnessed car, swift as thought, to safety."
+
+---
+
+### Printed p. 373  (PDF 393; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 15)**
+
+*Manojavasā* — *manovad vegayuktau* | *manaso java iva javo yayos tau*: "Those who go with a speed like the mind's; or the meaning is: those who have a speed like the mind's speed."
+
+*Svasti* — *kṣemaṃ yathā bhavati tathā*: "Sāyaṇa takes the word *svasti* as an adverb and construes it with the verb *niroohathuḥ*, meaning 'safely, or as [it is] comfortable'. Skandasvāmin says that the word *svasti* here contains an inner causative sense (*antarbhāvita-ṇyartha*), and explains it as *svastimantam* — 'one who is well-off, safe'."
+
+"In this Ṛk, too, the greatness of the Aśvins who saved Bhujyu — told earlier at 1-116-3 and 1-117-14 — is described in a different manner."
+
+The Nirukta author, explaining *pathyā svastiḥ*:
+
+> पथ्या स्वस्तिः । पथा अन्तरिक्षं तन्निवासात् । (नि. ११-४५ [numeral list])
+
+> *pathyā svastiḥ | pathā antarikṣaṃ tannivāsāt | (ni. 11-45 [numeral list])*
+
+"Since *svasti* dwells in mid-air, the word *pathyā* can be used of it" — so he explains, and quotes:
+
+> स्वस्ति नः पथ्यासु धन्वसु स्वस्त्य १ प्सु वृजने स्वर्वति ।
+> स्वस्ति नः पुत्रकृथेषु योनिषु स्वस्ति राये मरुतो दधातन ॥
+> स्वस्तिरिद्धि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेति ।
+> सा नो अमा सो अरणे नि पातु स्वावेशा भवतु देवगोपा ॥
+> (ऋ. सं. १०-६३-१५ और १६)
+
+> *svasti naḥ pathyāsu dhanvasu svastya 1 psu vṛjane svarvati |*
+> *svasti naḥ putrakṛtheṣu yoniṣu svasti rāye maruto dadhātana ‖*
+> *svastiriddhi prapathe śreṣṭhā rekṇasvatyabhi yā vāmameti |*
+> *sā no amā so araṇe ni pātu svāveśā bhavatu devagopā ‖*
+> *(ṛ. saṃ. 10-63-15 aura 16)*
+
+"*Svasti* is the one that dwells in mid-air. Worthy of praise by all deities, she is the best; she gives wealth and makes water available — in this manner may *svasti* protect us at home, in the forest, and in our wanderings. May she protect those who offer oblations with rays. May this goddess shine and protect the gods. May this *svasti* be of good intent towards us" — thus he explains.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 15; grammar page, noted briefly)**
+
+*Ajohavīt* — root *hvej spardhāyāṃ śabde ca*; after the *yaṅluganta* [base], *laṅ*, third person singular, the suffix *tip*; the augment *īṭ*; *iteś ca* (as read), *ī* of the suffix elided; *abhyastasya ca*, *saṃprasāraṇa* for the root; *pūrvarūpa*; doubling of the root; *kuhoś cuḥ* (Pā. 7-4-62 as the list reads it) …
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–14 complete; Ṛk 15 through printed p. 373 (PDF 393): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar begun (continues p. 374). Next: printed p. 374 (PDF 394). Numerals from the list: Ni. 11-45, Ṛ. 10-63-15/16, Pā. 7-4-62.
