@@ -1313,4 +1313,75 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–8 complete; Ṛk 9 through printed p. 46 (PDF 66): Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*apnaḥ*), grammar page begun. Next: printed p. 47 (PDF 67) — end of Ṛk 9 grammar, then Ṛk 10. Open: bhāṣya words on *mānuṣān* `[?]`; Skandasvāmin's Sanskrit `[?]`; Ni. numerals.
+### Printed p. 47  (PDF 67; header "Aṣṭaka 1, Adhyāya 8, Varga 1" [small numeral as printed])
+
+*Grammar page of Ṛk 9, continued (noted briefly):* *samidhe* (*sam* + *iñdhī* "to blaze"; *kvip*; the compound with the prefix takes the first-member accent by *gatikārakopapadāt kṛt*; dative singular); *cakartha* (*ḍukṛñ* "to do"; *liṭ* 2nd singular; no *iṭ* by *kṛsṛbhṛvṛstu…* [as printed]; no nighāta because of the preceding *yat*, by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; accent of the stem before the ending by *liti*); *āvaḥ* (*vṛñ* "to cover", aorist 2nd singular *sip*; elision of *i* by *itaś ca*; the elision of *cli* by *mantre ghasa…*; guṇa; *raparatva*; elision of the *s* by *hal-ṅyābbhyaḥ*; the augment *āṭ* by *chandasy api dṛśyate*; first-syllable accent by the augment); *cakṣasā* (*cakṣiṅ* "to speak clearly", used here in the sense "light"; *asun* by *sarvadhātubhya asun*; *jñityādir nityam*; instrumental singular); *mānuṣān* (*manoḥ apatyāni pumāṃsaḥ mānuṣāḥ* — *manor jātāv añyatau ṣuk ca*, Pā. 4-1-161 as read [?]; *añ*, the augment *puk*; *vṛddhi* by *taddhiteṣv acām ādeḥ*; first-syllable accent; accusative plural); *yakṣyamāṇān* (*yaj* "to worship, unite, give"; *lṛṭ* with *śānac* by *lṛṭaḥ sad vā*; *sya*; *c* → *k* by *coḥ kuḥ*; *ṣatva*; the augment *muk* by *āne muk*; …
+### Printed p. 48  (PDF 68; header "Maṃ. 1 A. 16 Sū. 113")
+
+… the accent of the personal ending by *tasyānudāttet…*; accusative plural; with *a* following, *n* becomes *ru* by *dīrghād aṭi samānapāde*, and the *a* before it becomes nasalized by *ato 'ṭi nityam*). ‖ 9 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 10
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.10)**
+
+> कियात्या यत्समया भवाति या व्यूषुर्याश्च नूनं व्युच्छान् ।
+> अनु पूर्वाः कृपते वावशाना प्रदीध्याना जोषमन्याभिरेति ॥ १० ॥
+
+> *kiyātyā yatsamayā bhavāti yā vyūṣuryāśca nūnaṃ vyucchān |*
+> *anu pūrvāḥ kṛpate vāvaśānā pradīdhyānā joṣamanyābhireti ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.10)**
+
+> कियाति । आ । यत् । समया । भवाति । याः । विऽऊषुः । याः । च । नूनम् । विऽउच्छान् ।
+> अनु । पूर्वाः । कृपते । वावशाना । प्रऽदीध्याना । जोषम् । अन्याभिः । एति ॥ १० ॥
+
+> *kiyāti | ā | yat | samayā | bhavāti | yāḥ | vi 'ūṣuḥ | yāḥ | ca | nūnam | vi 'ucchān |*
+> *anu | pūrvāḥ | kṛpate | vāvaśānā | pra 'dīdhyānā | joṣam | anyābhiḥ | eti ‖ 10 ‖*
+
+*(Reading note after viewing the Pada: the second* याः *is printed in the second line as "योः" or a damaged "याः" [?]; I give* याः*, as the Saṃhitā's* yāś ca *requires. The Saṃhitā's* kiyātyā *is the Pada's* kiyāti | ā*; the Saṃhitā's* vyūṣur *is the Pada's* vi-ūṣuḥ*; the Saṃhitā's* vyucchān *is the Pada's* vi-ucchān*.)*
+
+---
+
+### Printed p. 49  (PDF 69; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed]; footer signature mark "IX 4")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.10)**
+
+> समयेत्यव्ययं समीपवचनम् । उषाः समया भवाति समीपस्था भवतीति यदेतत् कियाति कियति काले प्रवृत्तं परिसमाप्तं नेत्याकारः प्रश्नार्थः । इदमुक्तं भवति । उषा येन कालेन संयुक्ता स कालः कियान् तस्य कालस्य किं परिमाणमिति । अनेनोषसोऽनन्तत्वमुक्तम् । तदेव स्पष्टीकरोति । पुरा या उषसो व्यूषुः व्युष्टाः सञ्जाताः । नूनमवश्यमितः परं याश्चोषसो व्युच्छान् व्युच्छन्ति व्युष्टा भविष्यन्ति । तत्र पूर्वा व्युष्टा अतीता उषसो वावशाना कामयमानेदानीं वर्तमानोषा अनु कृपते अनुकल्पते समर्था भवति । अतीता उषसो यथा प्रकाशमकुर्वन् तद्वदेषापि प्रकाशं करोतीत्यर्थः । तथा प्रदीध्याना प्रकर्षेण दीप्यमानोषा अन्याभिरागामिभिरुषोभिर्जोषं सङ्गच्छते । आगामिन्योऽप्येतदीयं प्रकाशमनुकुर्वन्तीत्यर्थः ॥ [a few words in this passage are small and doubtful [?]]
+
+> *samayetyavyayaṃ samīpavacanam | uṣāḥ samayā bhavāti samīpasthā bhavatīti yadetat kiyāti kiyati kāle pravṛttaṃ parisamāptaṃ netyākāraḥ praśnārthaḥ | idamuktaṃ bhavati | uṣā yena kālena saṃyuktā sa kālaḥ kiyān tasya kālasya kiṃ parimāṇamiti | anenoṣaso 'nantatvamuktam | tadeva spaṣṭīkaroti | purā yā uṣaso vyūṣuḥ vyuṣṭāḥ sañjātāḥ | nūnamavaśyamitaḥ paraṃ yāścoṣaso vyucchān vyucchanti vyuṣṭā bhaviṣyanti | tatra pūrvā vyuṣṭā atītā uṣaso vāvaśānā kāmayamānedānīṃ vartamānoṣā anu kṛpate anukalpate samarthā bhavati | atītā uṣaso yathā prakāśamakurvan tadvadeṣāpi prakāśaṃ karotītyarthaḥ | tathā pradīdhyānā prakarṣeṇa dīpyamānoṣā anyābhirāgāmibhiruṣobhirjoṣaṃ saṅgacchate | āgāminyo 'pyetadīyaṃ prakāśamanukurvantītyarthaḥ ‖ [a few words in this passage are small and doubtful [?]]*
+
+*Sense (mine):* "*Samayā* is an indeclinable meaning 'near'. '*Uṣāḥ samayā bhavāti*' — 'Uṣas is near': for how long (*kiyāti*), for how much time has this been going on, and when will it end? — the *ā* has the sense of a question. This is what is meant: for how much time is Uṣas joined — how long is that time, what is the measure of that time? By this is stated the endlessness of Uṣas. He makes that clear: the Uṣases who formerly *vyūṣuḥ* — had dawned, been born; and those who surely hereafter *vyucchān* — will dawn. Among them, wishing for the past dawned Uṣases, the Uṣas of the present *anu kṛpate*: is able to follow, is capable. As the past Uṣases made light, so this one too makes light: this is the sense. And *pradīdhyānā*, shining forth brilliantly, Uṣas *joṣam* — meets with the other, coming Uṣases: the coming ones too will imitate her light."
+
+*Grammatical tail (characterized, not transcribed):* *kiyāti* (the suffix *ghá* by *kim-idaṃbhyāṃ vo ghaḥ*, Pā. 5-2-40 as printed; by the capacity of this *gha*-rule *vatup* takes the *gha* form even after *kim* in the sense of measure; *kim* → *kī* by *idaṅkimor īś kī*, Pā. 6-3-90 as printed; the elision of *a* by *yasya iti ca*; the accent on the first syllable of the suffix; the lengthening in the Saṃhitā as Vedic); *bhavāti* (subjunctive, *laṭ*, with the augment *aṭ* in the *leṭ*); *vyūṣuḥ* (*vas* "to dwell", *vi*-prefixed in the sense of "to shine forth"; *liṭ*; *kittva*, with *saṃprasāraṇa* and doubling); *vyucchān* (*uchī* "to dispel"; the augment *leṭ*; elision of the final consonant-conjunction); *kṛpate* (*kṛpū* "to be able", the substitution of *ṣ* by *vyatyaya*); *vāvaśānā* (*vaś* "to wish", *kānt*; *śānac* in the *liṭ* sense by *chandasi luṅlaṅliṭaḥ*); *pradīdhyānā* (*dīdhīṅ* "to shine", *laṭ* *śānac*; the elision of *śap* by *adādi*…); the accent of the compound with the prefix by *gatisamāse kṛduttarapadaprakṛtisvaratva*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*uṣāḥ* — Uṣas; *samayā bhavāti* — is near (this is the meaning); *yat* — that which (it is); *kiyāti ā* — for how long a time?; *yāḥ* — whichever Uṣases; *vyūṣuḥ* — have gone by; *nūnam* — certainly; *yāḥ ca* — whichever Uṣases; *vyucchān* — will arise; *tatra* — among them; *pūrvāḥ* — the earlier (gone by) ones; *vāvaśānā* — desiring (the present Uṣas); *anu kṛpate* — follows; *pradīdhyānā* — the Uṣas who shines in a special way; *anyābhiḥ joṣam* — together with others (who come later); *eti* — goes on."
+
+### Printed p. 50  (PDF 70; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Since when has Uṣas been thus? The Uṣas of exceptional lustre, wanting to give light (this is her need), proceeds, following the order of the Uṣases that have passed away (working), together with the Uṣases who come after her."
+
+**English Translation (as printed)**
+
+> For how long a period is it that the dawns have risen? for how long a period will they rise? still desirous to bring us light, Ushas pursues the functions of those that have gone before, and shinning [sic] brightly, proceeds with the others (that are to follow.)
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अनुकृपते** — *Anukṛpate* — "*anukalpate samarthā bhavati*": "Since the Uṣases rise every day earlier than the rising of the Sun, among these there are three divisions in usage: past (*atīta*), that is, passed; present (*vartamāna*), that is, those reached in the time arrived at; future (*āgāmi*), those yet to come. Sāyaṇa says that in the light of the Uṣas who is now going on, she is able to follow, by her own light, the light of those past ones, and he describes the similarity of lustre between the past, the present (Uṣases) in respect of their light. Skandasvāmin, because the root *kṛp* is read in the forty-four [as read] *arcati*-actions (Ni. 3-14 as read [?]) beginning '*arcati*, *gāyati*', explains *anukṛpate* as 'worships':
+
+> यच्च उषस्युदितायां स्तोतारः स्तुवन्ति तदुषा इव स्तौतीत्युच्यते ।
+
+> *yacca uṣasyuditāyāṃ stotāraḥ stuvanti taduṣā iva stautītyucyate |*
+
+— 'when Uṣas has risen, the singers praise; since that is what praising belongs to Uṣas, it is said "Uṣas as it were praises".' The gods who come at once when Uṣas has risen, praise [her]; those who praise are those who belong to Uṣas; so Uṣas-time itself is praised: he explains this as an *upacāra* (figurative usage). In this way a difference of view is found in the two bhāṣyas in the matter of the sense."
+
+*Ā* — Skandasvāmin: "*ākāro 'tre* [?] *pādapūraṇaḥ | nūnam api pādapūraṇaḥ*" — "the *ā* is used for filling out the line; and *nūnam* too is for filling out the line", as in Skandasvāmin's exposition. Sāyaṇa: "*ākāraḥ praśnārthaḥ*": '*uṣā yena kālena saṃyuktā sa kālaḥ kiyān kiṃ parimāṇam*' — the letter *ā* conveys a question: "How much is the extent of the time with which Uṣas is joined?" From this he says that the measure of time which is united with the pervasion of Uṣas-time does not come within the range of knowledge; and then he describes the subtle aspects of the matter concerning the endlessness of Uṣas-time.
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–9 complete; Ṛk 10 through printed p. 50 (PDF 70): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English (misprint "shinning" [sic]), Special Topics (*anukṛpate*, *ā*) — Special Topics may continue p. 51. Next: printed p. 51 (PDF 71). Open: bhāṣya wording `[?]`; Ni. 3-14 `[?]`; second *yāḥ* in Pada `[?]`.
