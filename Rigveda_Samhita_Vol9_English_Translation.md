@@ -1062,6 +1062,9 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 > *eṣā | divaḥ | duhitā | prati | adarśi | vi 'ucchantī | yuvatiḥ | śukra 'vāsāḥ |*
 > *viśvasya | īśānā | pārthivasya | vasvaḥ | uṣaḥ | adya | iha | su 'bhage | vi | uccha ‖ 7 ‖*
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 3-4-9 — *tumanartha toruvāga tumanartha sesenase*; Pā. 8-2-29 — *ga tumanartha sesenase*; Pā. 8-2-41 — *e ca*; Pā. 1-1-39 — *èṃdu rūpavāguttadè kṛ jaṃtaḥ*
+
 ---
 
 ### Printed p. 37  (PDF 57; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
@@ -1083,6 +1086,8 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 **॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
 
 "The goddess Uṣas, of spotless splendour, ever youthful, mistress of all wealth connected with the earth, like a daughter to the atmosphere, appears to everyone as a dispeller of darkness. O such Uṣas deity, here, in this sacrificial hall, now drive away the darkness."
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 4-1-77 — *taudādikaḥ yuvatiḥ yanaḥ sā*
 
 ### Printed p. 38  (PDF 58; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1120,6 +1125,9 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 > *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖*
 > *(ṛ. saṃ. 2-11-21 [as read])*
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 3-4 — *durhitā dūre hitā dogorvā*; Ni. 3-9 — *bhaga śabdavu ippattèṃṭu dhanasāmagaḻalli*
+
 ---
 
 ### Printed p. 39  (PDF 59; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
@@ -1129,6 +1137,8 @@ Grammar page, begun: *kṣatrāya* (an underived stem, the name of wealth; accen
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly)**
 
 Grammar page on *divaḥ* (accent of the ending by *ūḍidaṃpadādi…*), *adarśi* (*dṛś* "to see", aorist *luṅ* 3rd singular *ta*; *ciṇ* in place of *cli* by *ciṇ bhāvakarmaṇoḥ*; guṇa of the penultimate; elision of *ta* by *ciṇo luk*; augment *aṭ*; tiṅ-nighāta accent), *vyucchantī* (*uchī* "to depart", tudādi; *vivāsa* "driving away"; *śatṛ*; the *tuk* augment by *chaṃ ca* [Pā. *śe ca*?]; *ḍī* — *ugitaś ca* — with *num*; the *śa* class-sign accent on the *śa*; compound with the prefix *vi*, first-member accent), *yuvatiḥ* (*yūn* + *ti* in the feminine by *yūnas ti*; the stem designation *sv-ādiṣv asarvanāmasthāne*; *n*-elision by *nalopaḥ prātipadikāntasya*; final accent from the suffix), *śukravāsāḥ* (*vas* "to cover", *ghañ*; guṇa/vṛddhi of the penultimate by *ata upadhāyāḥ*; "*śukraṃ vāsaḥ yasya saḥ*" — bahuvrīhi, first-member accent), *īśānā* (*īś* "to be lord", adādi; *śānac*; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; feminine *ṭāp* by *ajādyatas ṭāp*; root-accent retained because *anudāttet*; accent by *tāsyanudāttet…*; nominative singular). Sūtra numbers small; I give none beyond.
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-1-171 — *prakriyā divaḥ ūḍidaṃ padādi--*; Pā. 31-66 [?] — *ekaraṇa baṃdāga ciṇ bhāvakarmaḥ*; Pā. 6-4-104 — *laghovadhègè guṇa ciṇo luk*; Pā. 4-1-6 — *cakārādeśa strītva vivakṣamāḍidāga ugitaśca*; Pā. 4-1-77 — *idakkè strītva vivakṣāmāḍidāga yana*; Pā. 8-2-7 — *padasaṃjñā baruvudariṃda nalopa prātipadikāṃtasya*; Pā. 7-2-116 — *vāsaḥ ghaḻ pratyaya ataupadhāyāḥ*; Pā. 6-2-1 — *saḥ bahuṣ prakṛtyā pūrvapadam*; Pā. 6-1-186 — *lasārvadhātukavu baṃdudariṃda tāsyanu dān-*
 
 ### Printed p. 40  (PDF 60; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1145,6 +1155,9 @@ Grammar page on *divaḥ* (accent of the ending by *ūḍidaṃpadādi…*), *ad
 
 > *parāyatīnāmanveti pātha āyatīnāṃ prathamā śaśvatīnām |*
 > *vyucchantī jīvamudīrayantyuṣā mṛtaṃ kaṃ cana bodhayantī ‖ 8 ‖*
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 4-1-85-2 — *idam pārthivam pṛthivyā ña*; Pā. 6-1-193 — *taddhiteṣṭakāmādeśi èṃbudariṃda adivṛddhi ityādirnityam*; Pā. 7-3-11 — *idakkè ṣaṣṭiekavacana paravādāga pharjiti*; Pā. 8-1-19 — *subhagā saṃbuddhiyalli āmaṃtritasya ca*; Pā. 6-4-105 — *loṭ madhyamapuruṣa ekavacanadalli ātohaḥ*
 
 ---
 
@@ -1173,6 +1186,8 @@ Grammar page on *divaḥ* (accent of the ending by *ūḍidaṃpadādi…*), *ad
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
 
 "*uṣāḥ* — Uṣas; *parāyatīnām* — of the Uṣases of the past; *pāthaḥ* — the path; *anveti* — follows; *āyatīnām* — of those that come hereafter; *śaśvatīnām* — of the countless Uṣases; *prathamā* — becomes the first; *vyucchantī* — Uṣas who drives out darkness; *mṛtam* — (being sleepless) as if dead; *kaṃ cana jīvam* — any person (or creature); *udīrayantī* — rousing with warmth; *bodhayantī* — making (him) one with awakened senses."
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 6-7 — *pāthoṃtarikṣa sathā vākhyātaṃ ni*
 
 ### Printed p. 42  (PDF 62; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1205,6 +1220,9 @@ Grammar page on *divaḥ* (accent of the ending by *ūḍidaṃpadādi…*), *ad
 
 Here *pātha* means food. Uṣas comes before the Sun's rising, each day, always before sunrise. Therefore the Uṣases of the present, though later than the former Uṣases, as the former passed away, so they, too, pass away; since they pass away like those, these too are destroyed, following the destruction of those others along the atmospheric path.
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 6-7 — *pāthoṃtarikṣaṃ sathā vyākhyātaṃ èṃdu*
+
 ---
 
 ### Printed p. 43  (PDF 63; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
@@ -1229,6 +1247,8 @@ Here *pātha* means food. Uṣas comes before the Sun's rising, each day, always
 
 Grammar page on *parāyatīnām* (*parā* a prefix; *iṇ* "to go"; *śatṛ* in the *laṭ* sense by *laṭaḥ śatṛśānacau*; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; *yaṇ* in place of *i* by *iṇo yaṇ*, giving *yat*; the feminine in *ṅīp* by *ugitaś ca*, since *śatṛ* loses its *luk* [as printed]; *nuṭ* in the genitive plural by *hrasvanadyāpo nuṭ*; and the Vedic accent by *jyāṃ chandasi bahulam* [as read]), *eti* (*iṇ* "to go", adādi, *laṭ* 3rd singular; nighāta), *udīrayantī* (*īr* "to throw", curādi; *ṇic* in the *svārtha* by *satyāpāśa…*; *śatṛ*; guṇa; *ayādeśa*; *ṅīp*; the *rephottarākāra*), *mṛtam* (*mṛṅ* "to die"; *kta* by *niṣṭhā*; final accent), *bodhayantī* (*budh* "to know", *ṇic* in the causative by *hetumati ca*; *śatṛ*; feminine *ṅīp*; accent). Pā. numbers are small; none given. ‖ 8 ‖ *(running on to p. 44)*
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 3-1-124 — *dhātu laḍarthadalli laṭaḥ śatṛśāna*; Pā. 6-4-81 — *sūtradiṃda śapigè luk iyan*; Pā. 4-1-6 — *vivakṣāmāḍidāga śatṛ lugittādudariṃda ugitajña*; Pā. 7-1-54 — *bahuvacana ām paravādāga hasanādyāponuṭ*; Pā. 6-1-18 — *ṭ*; Pā. 3-1-25 — *kṣepa dhātu curādi satyāpapāśa-*
+
 ### Printed p. 44  (PDF 64; header "Maṃ. 1 A. 16 Sū. 113")
 
 *(The grammar of Ṛk 8 concludes at the top of this page with the guṇa and *ayādeśa* in *bodhayantī*, the feminine *ṅīp*, and the accent of the *ṇic*-ending; the end-mark ‖ 8 ‖ is printed after it.)*
@@ -1252,6 +1272,9 @@ Grammar page on *parāyatīnām* (*parā* a prefix; *iṇ* "to go"; *śatṛ* in
 
 > *uṣaḥ | yat | agnim | sam 'idhe | cakartha | vi | yat | āvaḥ | cakṣasā |*
 > *sūryasya |*
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-1-186 — *svaradiṃda rethottarākāra udāttavāguttadè kāsyanudān-*; Pā. 3-2-102 — *mṛtam-mṛrja prāṇatyāge dhātu niṣṭhā*; Pā. 3-1-26 — *bodhayaṃ-budha avagamane dhātu hetumatica*
 
 ---
 
@@ -1311,11 +1334,17 @@ Grammar page on *parāyatīnām* (*parā* a prefix; *iṇ* "to go"; *śatṛ* in
 
 Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of the *pāda* there is no nighāta accent; the first-syllable accent by *āmantritasya ca* [as printed "Pā. 6-1-198" [?]]). *(Continues on the next page.)*
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 3-13 — *appa-appa śabdavu hadināru rūpanāmagaḻalliyū*; Pā. 6-1-198 — *pādādiyalliruvudariṃda nighātasvara baruvudilla āmaṃtritasya*
+
 ---
 
 ### Printed p. 47  (PDF 67; header "Aṣṭaka 1, Adhyāya 8, Varga 1" [small numeral as printed])
 
 *Grammar page of Ṛk 9, continued (noted briefly):* *samidhe* (*sam* + *iñdhī* "to blaze"; *kvip*; the compound with the prefix takes the first-member accent by *gatikārakopapadāt kṛt*; dative singular); *cakartha* (*ḍukṛñ* "to do"; *liṭ* 2nd singular; no *iṭ* by *kṛsṛbhṛvṛstu…* [as printed]; no nighāta because of the preceding *yat*, by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; accent of the stem before the ending by *liti*); *āvaḥ* (*vṛñ* "to cover", aorist 2nd singular *sip*; elision of *i* by *itaś ca*; the elision of *cli* by *mantre ghasa…*; guṇa; *raparatva*; elision of the *s* by *hal-ṅyābbhyaḥ*; the augment *āṭ* by *chandasy api dṛśyate*; first-syllable accent by the augment); *cakṣasā* (*cakṣiṅ* "to speak clearly", used here in the sense "light"; *asun* by *sarvadhātubhya asun*; *jñityādir nityam*; instrumental singular); *mānuṣān* (*manoḥ apatyāni pumāṃsaḥ mānuṣāḥ* — *manor jātāv añyatau ṣuk ca*, Pā. 4-1-161 as read [?]; *añ*, the augment *puk*; *vṛddhi* by *taddhiteṣv acām ādeḥ*; first-syllable accent; accusative plural); *yakṣyamāṇān* (*yaj* "to worship, unite, give"; *lṛṭ* with *śānac* by *lṛṭaḥ sad vā*; *sya*; *c* → *k* by *coḥ kuḥ*; *ṣatva*; the augment *muk* by *āne muk*; …
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-2-139 — *gatisamāsadalli gatikā- rakopapadāt kṛt*; Pā. 7-2-13 — *liṭ madhyamapuruṣa ekavacanarūpa kṛṣṇanṛ*; Pā. 8-1-30 — *baruvudilla yā saṃbaṃdhaviruvudariṃda nipātairyadi-*; Pā. 6-1-193 — *di-*; Pā. 2-4-80 — *da ikāṃlopa maṃtra ghasakkara*; Pā. 7-3-84 — *sip nimittavāgi sāvadhātu kārdhakayoḥ*; Pā. 6-1-68 — *èṃbudariṃda raparavāgi baruttadè hallyā-*; Pā. 6-4-73 — *hallyā-*; Pā. 6-1-167 — *èṃbudariṃda āsun pratyaya ityādirnityam*; Pā. 4-1-161 — *mānuṣāḥ manorjātāvat suk ca*; Pā. 7-2-117; Pā. 3-4-14 — *dhātu bṛḍarthadalli lbaṭaḥ sahyā*; Pā. 7-2-82 — *sakārakkè katvanimittavāgi pakṣa anemuk*
+
 ### Printed p. 48  (PDF 68; header "Maṃ. 1 A. 16 Sū. 113")
 
 … the accent of the personal ending by *tasyānudāttet…*; accusative plural; with *a* following, *n* becomes *ru* by *dīrghād aṭi samānapāde*, and the *a* before it becomes nasalized by *ato 'ṭi nityam*). ‖ 9 ‖
@@ -1342,6 +1371,9 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 *(Reading note after viewing the Pada: the second* याः *is printed in the second line as "योः" or a damaged "याः" [?]; I give* याः*, as the Saṃhitā's* yāś ca *requires. The Saṃhitā's* kiyātyā *is the Pada's* kiyāti | ā*; the Saṃhitā's* vyūṣur *is the Pada's* vi-ūṣuḥ*; the Saṃhitā's* vyucchān *is the Pada's* vi-ucchān*.)*
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-1-182 — *sāyaṇabhāgyasahitā*
+
 ---
 
 ### Printed p. 49  (PDF 69; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed]; footer signature mark "IX 4")
@@ -1359,6 +1391,8 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
 
 "*uṣāḥ* — Uṣas; *samayā bhavāti* — is near (this is the meaning); *yat* — that which (it is); *kiyāti ā* — for how long a time?; *yāḥ* — whichever Uṣases; *vyūṣuḥ* — have gone by; *nūnam* — certainly; *yāḥ ca* — whichever Uṣases; *vyucchān* — will arise; *tatra* — among them; *pūrvāḥ* — the earlier (gone by) ones; *vāvaśānā* — desiring (the present Uṣas); *anu kṛpate* — follows; *pradīdhyānā* — the Uṣas who shines in a special way; *anyābhiḥ joṣam* — together with others (who come later); *eti* — goes on."
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 5-2-40 — *daṃbhyāṃ vo ghaḥ sā*
 
 ### Printed p. 50  (PDF 70; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1382,6 +1416,9 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 *Ā* — Skandasvāmin: "*ākāro 'tre* [?] *pādapūraṇaḥ | nūnam api pādapūraṇaḥ*" — "the *ā* is used for filling out the line; and *nūnam* too is for filling out the line", as in Skandasvāmin's exposition. Sāyaṇa: "*ākāraḥ praśnārthaḥ*": '*uṣā yena kālena saṃyuktā sa kālaḥ kiyān kiṃ parimāṇam*' — the letter *ā* conveys a question: "How much is the extent of the time with which Uṣas is joined?" From this he says that the measure of time which is united with the pervasion of Uṣas-time does not come within the range of knowledge; and then he describes the subtle aspects of the matter concerning the endlessness of Uṣas-time.
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 3-19 — *arcaphi karmagaḻalli kṛpadhātuvannu pāṭhamāḍiruvudariṃda*
+
 ---
 
 ### Printed p. 51  (PDF 71; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
@@ -1398,6 +1435,8 @@ Grammar page begun: *uṣaḥ* (vocative; since it stands at the beginning of th
 
 Grammar page on the words of Ṛk 10: *kiyāti* (*kiyān*: "*kim* of this measure"; the suffix *vatup* in the sense of measure; the *gha*-substitute from *kim-idaṃbhyāṃ vo ghaḥ*, Pā. 5-2-40 as printed; *kim* becomes *kī* by *idaṅkimor īś kī*; the *ayādeśa* of the *gha* as *iya*; elision of the *ī* of *kī* by *yasya iti ca*; the accent on the first syllable of the suffix; locative singular; in the Saṃhitā the Vedic lengthening); *bhavāti* (*bhū* "to be"; *leṭ*; the augment *āṭ* by *leṭo 'ḍāṭau*, Pā. 3-4-94 as read [?]; the *śap*; guṇa; *avādeśa*; no nighāta since *yat* precedes; root accent remains since *śap* and *tip* are unaccented); *vyūṣuḥ* (*vas* with *vi* in the sense of "shine, dispel"; *liṭ* 3rd plural; *jhi* → *us* by *parasmaipadānām…*; *asaṃyogāl liṭ kit*, Pā. 1-2-5 as read [?], whence *kit*; saṃprasāraṇa by *vacisvapiyajādīnāṃ kiti*; doubling; *ṣatva* by *śāsivasighasīnāṃ ca*; no accent change because of *yat*: *yadvṛttānnityam*, Pā. 8-1-66 as read [?]).
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 5-2-40 — *iti kiyān kimidaṃbhyāṃ voghaḥ*; Pā. 6-3-60 — *idu paravādāga idaṃkimarīś kī*; Pā. 6-1-2 — *u paravādāga idaṃkimarīś kī*; Pā. 6-4-148 — *paravādudariṃda bhasaṃjñā baruvudariṃda yatiya*; Pā. 3-4-94 — *ekavacanadalli tipratyaya leṭo ḍāṭ*; Pā. 1-2-5 — *usādeśa asaṃyogā lliṭ kiḍs*; Pā. 6-1-15 — *yajādiyalli seriruvudariṃda vaṭisvapiyajādīnāṃ kiti*; Pā. 8-3-60 — *halādiśeṣa śāsivasi ghasīnāṃ ca*
+
 ### Printed p. 52  (PDF 72; header "Maṃ. 1 A. 16 Sū. 113")
 
 *Grammar page of Ṛk 10, continued:* *vyucchān* (*uchī* "to dispel"; *leṭ* 3rd plural *jhi* → *ant*; elision of the last *i* by *itaś ca* and *parasmaipadeṣu*…; augment *aṭ*; elision of the final *t* by *saṃyogāntasya lopaḥ*; *śa* by *tudādibhyaḥ śaḥ*; no nighāta accent here as *yat* precedes; the class-sign accent remains); *kṛpate* (*kṛpū* "to be able", *laṭ* 3rd singular *ta*, *ṭita ātmanepadānāṃ ṭer e*; *śa* in place of *śap* by *vyatyayo bahulam*; the lightening of the penultimate by *sārvadhātukam apit*, with no guṇa since the ending is *ṅit* by the substituted *ātideśa*; nighāta); *vāvaśānā* (*vaś* "to wish"; *dhātor ekācaḥ…*: *yaṅ* in the sense of intensity, *yaṅ* elided by *yaṅo 'ci ca*; *chandasi* *tācchīlya*: *cānaś* suffix by *tācchīlyavayovacanaśaktiṣu*; doubling of the root; feminine in *ṭāp*; *citaḥ* final accent); *pradīdhyānā* (*dīdhīṅ* "to shine", *laṭ* *śānac*; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; the *yaṇ*; feminine *ṭāp*; the root is of the *jakṣityādi* group, so it takes *abhyasta* designation and first-syllable accent by *abhyastānām ādiḥ*; the compound with *pra* has the first-member accent by *gatikārakopapadāt kṛt*). ‖ 10 ‖ *(Sūtra numbers small; none given beyond "as printed" / "as read".)*
@@ -1407,6 +1446,8 @@ Grammar page on the words of Ṛk 10: *kiyāti* (*kiyān*: "*kim* of this measur
 ---
 
 ### Ṛk 11
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 8-1-66 — *sāyaṇabhāṣyasahitā*; Pā. 3-4-97 — *èṃbudariṃda aṃtādeśa itaścalopaḥ para*; Pā. 3-4-94 — *ṃbudariṃda aṃtādeśa itaścalopaḥ para*; Pā. 3-1-77 — *takārakkè lopa tudādibhyaḥ śaḥ*; Pā. 3-1-85 — *ṭigè etya vyatyayo bahulaṃ*; Pā. 2-4-74 — *śṛtārthadalli yaj baṃdāga yacica*; Pā. 3-2-129; Pā. 6-1-163 — *ṭāp pratyaya cittādudariṃda citaḥ*; Pā. 2-4-72 — *pratyaya kappigè ādiprakṛtijña kahaḥ*; Pā. 6-1-6 — *dhātuvu seriruvudariṃda bakṣityādayaḥ ṣaṭ*; Pā. 6-1-189 — *ṣityādayaḥ ṣaṭ*; Pā. 6-2-139 — *gatiyòḍanè samāsavādāga gatikārakopapadāt kṛt*
 
 ### Printed p. 53  (PDF 73; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
 
@@ -1474,6 +1515,8 @@ Grammar page on the words of Ṛk 10: *kiyāti* (*kiyān*: "*kim* of this measur
 
 Grammar page on: *īyuḥ* (*iṇ* "to go", adādi; *liṭ* 3rd plural; *jhi* → *us* by *parasmaipadānām ṇalatusus…*, Pā. 3-4-82 as read [?]; since an *ajādi* suffix follows, *yaṇ* for *i* by *iṇo yaṇ*, Pā. 6-4-81 as read [?]; in the doubling the *sthānivadbhāva* by *dvirvacane 'ci*; the reduplication lengthened by *dīrgha iṇaḥ kiti*; no nighāta since it begins the pāda; final accent from the suffix); *pūrvatarām* (*atiśayena pūrvā pūrvatarā* — the suffix *taras* in the comparative by *dvivacanavibhajyopapade tarabīyasunau*; accent on the *pit*); *apaśyan* (*dṛśir* "to see", aorist/imperfect *laṅ*, 3rd plural; *yadvṛttānnityam*, no nighāta; augment *aṭ*, being *udātta*, gives the first-syllable accent); *martyāsaḥ* (*martya* with *jas*, the augment *asuk* by *ājjaser asuk*, Pā. 7-1-50 as read [?]; *s* → *ru* → visarga); *praticakṣyā* (*cakṣiṅ* "to speak clearly", here in the sense of seeing; *ṇyat* by *ṛhaloṇyat*; *ṭāp* by *ajādyataṣ ṭāp*).
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 3-8 — *èṃba ippattaidu nāmagaḻalli martyaśabdavu*; Pā. 3-4-82 — *ādādi arṭa prathamapuruṣabahuvacanadalli parapānāṃ-*; Pā. 6-4-81 — *ānāṃ-*; Pā. 1-1-59 — *iṃda iḍoyaṇ*; Pā. 7-4-69 — *neci*; Pā. 5-3-57 — *pūrva tarā tām dvivacanavibhajyo*; Pā. 8-1-66 — *laj prathamapuruṣa bahuvacanarūpa yatanityam*; Pā. 7-1-50 — *jas paravādāga ajja serasuk*; Pā. 3-1-124 — *prayuktavāgidè karmaṇi yalli mahalorṇak*
+
 ### Printed p. 56  (PDF 76; header "Maṃ. 1 A. 16 Sū. 113")
 
 *Grammar page, concluded:* *yanti* (*iṇ* "to go", adādi *laṭ* 3rd plural; the *jhi* becomes *anti*; *yaṇ* by *iṇo yaṇ*; nighāta accent after an accented word); *paśyān* (*dṛś* "to see", *leṭ* 3rd plural *jhi*; replaced by *ant*; elision of the final *i* by *itaś ca lopaḥ parasmaipadeṣu*, Pā. 3-4-97 as read [?]; *paśya* substitution by *pāghrādhmā…*; *aṭ* in the *leṭ* by *leṭo 'ḍāṭau*; elision of the final *t* by *saṃyogāntasya lopaḥ*; no nighāta because *ye* precedes, by *yadvṛttānnityam*; the *āt* augment being unaccented, the root accent stays by *tāsyanudāttet…*). ‖ 11 ‖
@@ -1497,6 +1540,9 @@ Grammar page on: *īyuḥ* (*iṇ* "to go", adādi; *liṭ* 3rd plural; *jhi* �
 
 > *yāvayat 'dveṣāḥ | ṛta 'pāḥ | ṛte 'jāḥ | sumna 'varī |*
 > *sūnṛtāḥ | īrayantī |*
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-481 [?] — *jhigè aṃtādeśa baṃdāga iyaṇ*; Pā. 3-4-97 — *pratyaya a0tā deśabaṃdāga ātaścaloha-*; Pā. 7-3-78 — *ā deśabaṃdāga ātaścaloha-*; Pā. 3-4-94 — *rā dhyānhā*; Pā. 6-1-86 — *paradalli lasārvadhātuka baṃdudariṃda tāsyanudātten*
 
 ---
 
@@ -1524,6 +1570,8 @@ Grammar page on: *īyuḥ* (*iṇ* "to go", adādi; *liṭ* 3rd plural; *jhi* �
 
 "*yāvayaddveṣāḥ* — she who makes the rākṣasas fruitless, i.e. destroys them; *ṛtapāḥ* — she who guards truth and sacrifice; *ṛtejāḥ* — one born for sacrifices; *sumnāvarī* — she who is happy (who gives happiness) …
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 4-1-41 — *dāṃ sumaṃgalī sumaṃgalāṃjñāyāṃ sā*
+
 ### Printed p. 58  (PDF 78; header "Maṃ. 1 A. 16 Sū. 113")
 
 … *sūnṛtāḥ* — good words; *īrayantī* — (the animals and birds) producing [them] from themselves; *sumaṅgalīḥ* — endowed with auspiciousness; *devavītim* — the sacrifice that is desired by the gods; *bibhratī* — bearing; *he uṣaḥ* — O Uṣas, (goddess) (*uṣo devate*); *śreṣṭatamā* — (in the manner stated above) most excellent (you); *iha* — in this place of sacrifice; *adya* — now (at the sacrifice-time); *vyuccha* — shine."
@@ -1541,6 +1589,9 @@ Grammar page on: *īyuḥ* (*iṇ* "to go", adādi; *liṭ* 3rd plural; *jhi* �
 **यावयद्द्वेषाः** — *Yāvayaddveṣāḥ* — "*yāvayanti asmattaḥ pṛthakkṛtāni dveṣāṃsi dveṣṭṛāṇi rākṣasādīni yayoṣā sā*": "Uṣas, who sets apart by her own light those *rākṣasas* and others who hate men and harm them — [beings] that are moving about at night by nature — they are made to go away. As soon as Uṣas-time comes, the rākṣasas and others go away: this is the meaning."
 
 **ऋतपाः** — *Ṛtapāḥ* — "*ṛtasya satyasya yajñasya vā pālayitrī*": "she protects truth and the sacrifice: this is the meaning. The word *ṛta* is read among the names of water (*udakanāma*) (Ni. 1-12 as read [?]). The Nirukta-writer gives an example, saying that the word *ṛta* denotes truth and also denotes the meaning 'sacrifice' —
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 2-24 — *arthavu ṛta śabdavu udakanāmagaḻalli*
 
 ---
 
@@ -1588,6 +1639,8 @@ and in this Ṛk too —
 
 **सुम्नावरी** — *Sumnāvarī* — "*sumnam iti sukhanāma | tadvatī*": "*sumnāvarī* is stated among the sixteen names of Uṣas, '*vibhāvarī*, *sūnarī*, *bhāsvatī*' (Ni. 3-19 as read [?]), so the sense is Uṣas. Since the word *sumna* is read among the twenty [as read] names of happiness, '*śaṃ*…' (the first word of the list, as printed, is doubtful [?]) (Ni. 3-6 as read [?]), *sumna* means happiness. Skandasvāmin explains: '*prāṇināṃ sukhakarī*' — Uṣas-time causes happiness to living beings."
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 2-19 — *uponāmagaḻalli summāvarī èṃba padavu*; Ni. 3-13 — *èṃba ippattu sukhanāmagaḻalli paṭhitavāgiruvudariṃda*
+
 ### Printed p. 60  (PDF 80; header "Maṃ. 1 A. 16 Sū. 113")
 
 **सूनृता ईरयन्ती** — *Sūnṛtā īrayantī* — "*vāṅnāmaitat*": it means speech. "The word *sūnṛtā* is stated among the names of Uṣas (Ni. 3-19 as read [?]) and also among the names of food (Ni. 2-7 as read [?]). But the Bhāṣyakāra explains that the word *sūnṛta* conveys the meaning 'speech', and says:
@@ -1620,11 +1673,16 @@ and in this Ṛk too —
 
 Grammar page, begun: *yāvayaddveṣāḥ* (*yu* "to mix, to separate", adādi; *ṇic* by *hetumati ca*; *vṛddhi* of *u* by *āto 'ñjñiti*[?]; *āv* substitution; then *śatṛ* in the *laṭ* sense; *śap*; the guṇa and *ay* for the *ṇic*; the vowel by *ato guṇe* — *pararūpa*; giving *yāvayat*; the Vedic *chandasy ubhayathā*, in which the *śatṛ* ending is also *ārdhadhātuka* …). *(Continues on the next page.)*
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 2-19 — *sūnyatā èṃba padavu unāmagaḻalli*; Ni. 3-9 — *sūnyatā èṃba padavu unāmagaḻalli*; Ni. 9-5 — *t*; Pā. 1-6 [?] — *dhātu ādādi hetumati ca*; Pā. 3-4-117 — *yāvayat èṃdu rūpavāguttadè chaṃdasyubhayathā*
+
 ---
 
 ### Printed p. 61  (PDF 81; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
 
 *Grammar page of Ṛk 12, continued (noted briefly):* *yāvayaddveṣāḥ* — the personal-ending being accented, the *śap* keeps its accent by *sati śiṣṭasvaraḥ balīyaḥ*; the first-member accent in the *bahuvrīhi* by *bahuvrīhau prakṛtyā pūrvapadam*; the Vedic shortening *yāvayat-dveṣāḥ* at the end of the first member; *ṛtapāḥ* (*pā* "to protect", adādi; *viṭ* by *ato maninkvanibvanipaś ca*, the *c* serving to continue the *viṭ*; ending in *ā*; nominative singular); *ṛtejāḥ* (*jan* "to be born", *viṭ* by *janasanakhanakramagamo viṭ*; *ā* for the final *n* by *vidyatoranunāsikasyātvam*; the locative compound with *aluk* by *tatpuruṣe kṛti bahulam*; the first-member accent by *gatikārakopapadāt kṛt*); *sumnāvarī* (*sumnaṃ sukhaṃ asyā asti*; *vanip* by the statement *chandasīvanipaś ca*; the stem *sumnāvan*; feminine *ṅīp* by *vano re*; *n* → *r* by *rephādeśa*; lengthening by *anyeṣām api dṛśyate*; the accent from the suffix, being *pit*); *īrayantī* (*īr* "to go, to move", *curādi* *ṇic*; *śatṛ*; feminine *ṅīp* by *ugitaś ca*; *ṇic* accent); *sumaṅgalīḥ* (*sumaṅgalā* in the *gaurādi* class as a name, hence *ṅīṣ*; the elision of the *su* is not prevented, by the statement "*sarve vidhayaś chandasi vikalpyante*"; *s* → *ru*; visarga by *kharavasānayor visarjanīyaḥ*).
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-2-1 — *bahuh prakṛtyā pūrva- padam*; Pā. 3-2-74 — *ādādi āto manin- dhvaninipaśca*; Pā. 3-3-67 — *prādurbhāve dhātu janasanakhanakramagamo viṭ*; Pā. 6-441 [?] — *mo viṭ*; Pā. 6-3-14 — *baru idè tatpuruṣe kṛtibahulam*; Pā. 6-2-139 — *hiṃdèyū illiyū gatikārakopapadāt kṛt*; Pā. 4-1-7 — *idakkè strītvavakṣa māḍidāga vanaraca*; Pā. 6-3-137 — *nakārakkè rephādeśa anveṣāma dṛśyate*; Pā. 4-1-41 — *baruttadè sumaṃgalī sumaṃgalāṣ saṃjjāyām*; Pā. 6-1-67 — *èṃba vacanadiṃda hal gyā-*
 
 ### Printed p. 62  (PDF 82; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1652,6 +1710,9 @@ Grammar page, begun: *yāvayaddveṣāḥ* (*yu* "to mix, to separate", adādi; 
 
 *(Reading note after viewing the Pada: the Saṃhitā's* śaśvat-puroṣā *is the Pada's* śaśvat | purā | uṣāḥ*; the Saṃhitā's* vyāvo *is the Pada's* vi | āvaḥ*; the Saṃhitā's* vyucchād uttarāṃ *is the Pada's* vi | ucchāt | ut-tarān*.)*
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 3-3-94 — *iti devanītiḥ yajñaḥ strīyāṃkin*
+
 ---
 
 ### Printed p. 63  (PDF 83; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
@@ -1673,6 +1734,8 @@ Grammar page, begun: *yāvayaddveṣāḥ* (*yu* "to mix, to separate", adādi; 
 **॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
 
 "The goddess Uṣas rose every day in former times; the goddess, who is the support of wealth, is rising now in this world also; in the future, in the days to come, she will also give light; the ageless, deathless Uṣas goes about, endowed with splendour."
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 1-484 [?] — *anu anu- rlakṣaṇe sā*
 
 ### Printed p. 64  (PDF 84; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1709,6 +1772,9 @@ in this Ṛk [the Nirukta explains] '*apāsarad uṣā anasaḥ saṃpiṣṭān
 > *(ṛ. saṃ. 4-30-11 [as read])*
 
 '*etad asyā anaḥ āśete vimuktaṃ pāśi sasāroṣāḥ parāvataḥ preritavataḥ parāgatād vā*' (Ni. 11-48 (as the reader's OCR reads it)): in this statement, which says, looking at the clouds changed into the form of water (the sense of *udakabhāva*), the chariot of Uṣas, being sheltered by the cloud, here is described as having loose joints [?] from the speed of the wind; from which it is to be understood that Uṣas is a deity of the middle region (*madhyasthāna*)."
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 2-19 — *uṣāḥ kasmāducchatīti satyā rātreraparaḥkālaḥ*; Ni. 11-48 — *sahāropāḥ parāvataḥ preritavataḥ parāgatāddā*
 
 ---
 
@@ -1754,6 +1820,8 @@ In this Ṛk it is said '*pūrve arddhe antarikṣalokasya*': *pūrvārdha* mean
 
 **मघोनी उषाः** — *Maghonī uṣāḥ* — "(*dhanavatī*)": "these words are not stated in the Nirukta among the words for Uṣas, but are used here in the meaning 'Uṣas'."
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 12-7 — *vivāsyate nā mergha madhyameneti*; Ni. 3-9 — *svadhā śabdavu- ippattèṃṭu annanāmagaḻalliyū*; Ni. 2-24 — *svadhā śabdavu- ippattèṃṭu annanāmagaḻalliyū*
+
 ### Printed p. 66  (PDF 86; header "Maṃ. 1 A. 16 Sū. 113")
 
 **द्यून्** — *Dyūn* — "*divasān*", days. The Nirukta-writer:
@@ -1777,6 +1845,9 @@ In this Ṛk it is said '*pūrve arddhe antarikṣalokasya*': *pūrvārdha* mean
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 13; grammar page, noted briefly)**
 
 Grammar page on *uvāsa* (*vas* "to dwell", *liṭ* 3rd singular; *ṇal* for *tip* by *parasmaipadānāṃ ṇalatusus…*; with the *liṭ* ending *kit*-like, doubling of the root; the reduplication by *ādir hal-śeṣaḥ*; *saṃprasāraṇa* by *liṭy abhyāsasyobhayeṣām*; *pūrvarūpa* by *saṃprasāraṇāc ca*; *vṛddhi* of the penultimate by *ata upadhāyāḥ*; nighāta), *āvaḥ* (*vas* "to dwell"! as printed here; aorist 3rd singular *tip*; elision of the *i* by *itaś ca*; the *vikaraṇa* elided by *bahulaṃ chandasi*; elision of *tip* after the consonant by *hal-ṅyābbhyaḥ…*; the augment by *chandasy api dṛśyate*; *s* → *ru* → visarga; nighāta), *ucchāt* (*uchī* "to dispel", *leṭ* 3rd singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*; the augment *aṭ* by *leṭo 'ḍāṭau*; nighāta), *uttarān* (in the comparative sense *tarap* by *dvivacanavibhajyopapade tarabīyasunau*; *pit*, hence unaccented; plural; with *anu* following, *n* becomes *ru* by *dīrghād aṭi samānapāde*, the preceding *a* becomes nasal by *ato 'ṭi nityam*). *(Printed "vas nivāse" under* āvaḥ *as in the print — probably for* vṛ*, as the bhāṣya says; noted as printed [?].)*
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 1-7 — *nāmadheyaṃ dyotata iti sataḥ*; Ni. 6-1 — *nṛṇāṃ nṛpate jāyase śuciḥ*; Pā. 3-4-82 — *āṭ prathamapuruṣa ekavacanadalli paradānāṃ*; Pā. 6-1-17 — *abhyāsakkè adihal śeṣa avyabhyāsatyabhayeṣāṃ*; Pā. 7-2-116 — *saṃprasāraṇātma èṃbudariṃda pūrvarūpa ātaupadhāyāḥ*; Pā. 6-1-38 — *vikaraṇakkè luk hal jyāsko*; Pā. 6-4-73 — *hal jyāsko*; Pā. 4-4-97 — *tip pratyaya itaścalopaḥ sa-*; Pā. 3-4-94 — *tip pratyaya itaścalopaḥ sa-*; Pā. 5-3-57 — *uttarān atiśayārthatoruvāga utigè dvivacanavibhajopa-*; Pā. 8-3-9 — *utta rān+anu èṃdiruvāga dīrghādaṭisamānapāde*; Pā. 8-3-3 — *anu èṃdiruvāga dīrghādaṭisamānapāde*
 
 ---
 
@@ -1806,6 +1877,8 @@ Grammar page on *uvāsa* (*vas* "to dwell", *liṭ* 3rd singular; *ṇal* for *t
 > *devī | āvarityāvaḥ |*
 > *pra 'bodhayantī | aruṇebhiḥ | aśvaiḥ | ā | uṣāḥ | yāti | su 'yujā | rathena ‖ 14 ‖*
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 1-4-84 — *anu-anurlakṣaṇe*; Pā. 2-3-8 — *saṃjñè baruttadè karmapravacanīyayukta dvitīyā*; Pā. 6-2-116 — *bahuhisvaravu bādhitavāgi na jaramaramitramṛtāḥ*
+
 ### Printed p. 68  (PDF 88; header "Maṃ. 1 A. 16 Sū. 113")
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.14)**
@@ -1834,6 +1907,9 @@ Grammar page on *uvāsa* (*vas* "to dwell", *liṭ* 3rd singular; *ṇal* for *t
 
 **आतासु** — *Ātāsu* — "*ātetāsu vistīrṇāsu dikṣu*": "*ātāḥ*, *āśāḥ*, *uparāḥ* — among the eight names of the quarters (*dik*), since the word *āśā* is stated (Ni. 1-19 as read [?]), the meaning is 'quarters'."
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 1-3-91 — *lu jyu lu sā*; Pā. 7-3-89 — *uto vṛddhiluki hali pā*; Ni. 2-16 — *gaḻalli atā èṃba śabdavu*
+
 ---
 
 ### Printed p. 69  (PDF 89; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])  [Special Topics of Ṛk 14, continued]
@@ -1845,6 +1921,8 @@ Grammar page on *uvāsa* (*vas* "to dwell", *liṭ* 3rd singular; *ṇal* for *t
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 14; grammar page, noted briefly)**
 
 Grammar page on *añjibhiḥ* (*añjū* "to anoint, to shine, to go"; the suffix *i* by the *ṇādika* [Uṇādi] rule; accent from the suffix; instrumental plural), *divaḥ* (accent of the ending by *ūḍidaṃpadādi*…), *adyaut* (*dyut* "to shine"; a root of the *ātmanepada* class, but by *dyudbhyo luṅi*, Pā. 1-3-91 as read [?], the *parasmaipada* in the aorist only; *cli* by *cli luṅi*; the *cli* elided by *vyatyayo bahulam*; elision of the *i* of *tip* by *itaś ca*; guṇa by *sārvadhātukārdhadhātukayoḥ* is applicable, but in the Veda *vṛddhi* arises; or from *dyai* "to approach", adādi; *luṅ* 3rd singular *tip*; *aṭ*; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; *vṛddhi* by *ukto vṛddhir luki hali*; the augment *aṭ*: *adyaut*; nighāta), *prabodhayantī* (*budh* "to know", causative since it is the instigator's action; *ṇic*; *śatṛ* in the *laṭ* sense; *śap*; guṇa and *ayādeśa* for the *ṇic*; the accent of the personal-ending by *tāsyanudāttet…*, so the *ṇic* accent remains; in the compound the first-member accent by *gatikārakopapadāt kṛt*; feminine *ṅīp* by *ugitaś ca*).
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 3-13 — *ī śabdavu utta vāgiruvudariṃda*; Ni. 2-28 — *artha aru gāva uṣarsa*; Pā. 6-171 [?] — *baruvacanāṃtarūpa baruttadè divaūridaṃpa dādi*; Pā. 13-9 [?] — *idu ātmanehadiyādarū dyudrū luj*; Pā. 3-1-85 — *ci vikaraṇa prāptavādāga vyatyayobahulaṃ*; Pā. 7-3-84 — *ikārakkè lopa tannimittavāgi sārvadhātuḻārdha*; Pā. 2-4-72 — *sūtradiṃda ikāralopa ādiprakṛtibhyaḥ tasaḥ*; Pā. 7-3-89 — *ralopa ādiprakṛtibhyaḥ tasaḥ*; Pā. 6-1-186 — *ṇicigè guṇa ayādeśa tānudāttet*
 
 ### Printed p. 70  (PDF 90; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -1869,6 +1947,9 @@ Grammar page on *añjibhiḥ* (*añjū* "to anoint, to shine, to go"; the suffix
 
 > *ā 'vahantī | poṣyā | vāryāṇi | citram | ketum | kṛṇute | cekitānā |*
 > *īyuṣīṇām | upa 'mā | śaśvatīnām | vi 'bhātīnām | prathamā | uṣāḥ | vi | aśvait ‖ 15 ‖*
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 7-1-10 — *bhis èṃdiruvāga bahulaṃ chaṃdasi*; Pā. 6-2-172 — *tṛtīyā ekavacanāṃtarūpa na subyāri*
 
 ---
 
@@ -1962,9 +2043,14 @@ In this Ṛk the word *ketu* is used in the sense of knowledge.
 
 Grammar page on *āvahantī* (*vah* "to carry"; *śatṛ* in the *laṭ* sense; *ṅīp* in the feminine; the root accent remains since the *sārvadhātuka* is unaccented; in the compound the first-member accent by *kṛduttarapadaprakṛtisvaratva*), *poṣyā* (*puṣ* "to nourish"; *poṣaṇam* = *poṣaḥ*; *ghañ* in the abstract sense; guṇa of the penultimate by *pugantalaghūpadhasya ca*; *yat* in the Veda by *bhave chandasi*, Pā. 4-4-110 as read [?]; elision of *a* by *yasya iti ca*; the accent by *yato 'nāvaḥ*; the neuter plural *śi* replaced, with elision by *śeś chandasi bahulam*, Pā. 6-1-70 as read [?]).
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 7-3-86 — *puṣpa dhātu poṣaṇaṃ poṣaḥ*; Pā. 4-4-110 — *yaca*; Pā. 6-1-213 — *e chaṃdasi*
+
 ### Printed p. 74  (PDF 94; header "Maṃ. 1 A. 16 Sū. 113")
 
 *Grammar page, continued:* *vāryāṇi* (*vṛñ* "to choose"; *ṇyat* by *ṛhaloṇyat*; being *ṇit*, *vṛddhi* of the vowel by *aco 'ñṇiti*; *raparatva* by *uraṇ raparaḥ*; the *tit* svarita is prevailed over by *iḍavaravraṃsaṃsu…* [as printed] giving first-syllable accent, Pā. 6-1-?? [?]; neuter accusative plural); *kṛṇute* (*kṛvi* "to injure, to do"; the *num* augment by *idito num dhātoḥ*; *u* by *dhinvikṛṇvor a ca*; the *a* is the final substitute; *laṭ* 3rd singular; nighāta by *tiṅ atiṅaḥ*…); *īyuṣīṇām* (*iṇ* "to go", adādi; *kvasu* by *bhāṣāyāṃ sad-vasa-śrava…* [Pā. 3-2-107 as read [?]]; doubling; in the feminine *ṅīp* by *ugitaś ca*; *bha*-designation as *ajādi* suffix follows; *vasoḥ saṃprasāraṇam* — *vas* → *uṣ*; *saṃprasāraṇāc ca* — *pūrvarūpa*; *iṇo yaṇ*; the reduplication lengthened by *dīrgha iṇaḥ kiti*; *ṣatva* by *śāsivasighasīnāṃ ca*; *ṅīp* is *pit*, thus unaccented; the accent of the *uṣ* from *vasu*); *cekitānā* (*kit* "to know"; *yaṅ* by *dhātor ekācaḥ halādeḥ kriyāsamabhihāre*; doubling by *sanyaṅoḥ*; the *halādiśeṣa*; *cu* for the *ku* by *kuhoś cuḥ*; guṇa of the reduplication by *guṇo yaṅluk*; *śānac* after the *yaṅ*-ending; *chandasy ubhayathā* making it *ārdhadhātuka*; elision of *a* by *ato lopaḥ*; elision of the *y* by *yasya halaḥ*; the first-syllable accent by *abhyastānām ādiḥ*).
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-1-70 — *svara baruttadè napuṃsakadalli adeśa*; Pā. 3-1-124 — *hulaṃ*; Pā. 6-1-114 — *prāptavādarè īḍavaṃda vṛśaṃsaduhāṃ ita*; Pā. 3-1-80 — *dhāto èṃbudariṃda numāgama kṛraca*; Pā. 4-1-9 — *kaisurādeśa vivakṣā māḍidāga ugitaśca*; Pā. 6-4-81 — *ajādipratyaya dhātuvigè paravādudariṃda āyan*; Pā. 7-4-69 — *riṃda āyan*; Pā. 8-3-60 — *dīrghaiṇa - kiti*; Pā. 3-1-22 — *kita jñāne dhātu dhātorekāca-*; Pā. 7-4-62 — *dvitva kalādiśeṣa baṃdāga kuhoruḥ*; Pā. 3-4-117 — *śānac pratyaya chaṃdasyu- bhayathā*; Pā. 6-4-48 — *syu- bhayathā*; Pā. 6-4-49 — *tuka saṃjñè iruvudariṃda atolopa*; Pā. 6-1-189 — *yana akārakkè lopa yasyahalaḥ*
 
 ---
 
@@ -1992,6 +2078,8 @@ Grammar page on *āvahantī* (*vah* "to carry"; *śatṛ* in the *laṭ* sense; 
 > *ut | īrdhvam | jīvaḥ | asuḥ | naḥ | ā | agāt | apa | pra | agāt | tamaḥ | ā | jyotiḥ | eti |*
 > *araik | panthām | yātave | sūryāya | aganma | yatra | pra 'tirante | āyuḥ ‖ 16 ‖*
 
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 6-1-178 — *nām baṃdudariṃda jyākṭachaṃdasi bahulaṃ*
+
 ### Printed p. 76  (PDF 96; header "Maṃ. 1 A. 16 Sū. 113")
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.16)**
@@ -2015,6 +2103,9 @@ Grammar page on *āvahantī* (*vah* "to carry"; *śatṛ* in the *laṭ* sense; 
 **English Translation (as printed)**
 
 > Arise ; inspiring life revives ; darkness has departed ; light approaches. Ushas has opened the road for the sun to travel : let us repair to where they distribute food.
+
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 2-65 [?] — *vikaraṇasya luk mośca sā*
 
 ---
 
@@ -2072,6 +2163,9 @@ Here also the word *asu* denotes life-breath (Ni. 11-19 as read [?]).
 
 Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plural, *dhvam* ending; *ṭita ātmanepadānāṃ ṭer e* — *e* for the final; the *e* → *am* by *savābhyāṃ vāmau*, Pā. 3-4-94 (confirmed by the reader's OCR), the *ām* substitution; nighāta after an accented word), *āgāt* (*ā* + *iṇ* "to go"; aorist 3rd singular; *iṇo gā luṅi*, Pā. 2-4-45 as read [?]; the *gā* substitution; *gātisthāghupābhūbhyaḥ…* elision of *sic*; the augment *aṭ*; nighāta), *āraik* (*ric* "to empty", *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6 as read [?]; 3rd singular *tip*; elision of the *i* by *itaś ca*; the *vikaraṇa* elided by *bahulaṃ chandasi*; guṇa of the penultimate by *pugantalaghūpadhasya ca*, Pā. 7-3-86 as read [?]; elision of the ending by *hal-ṅyābbhyaḥ…*; *k* for *c* by *co ḥ kuḥ*; the augment *aṭ*; the *ai* from *e* by *vyatyaya*; nighāta is not applied because of the preceding word *eti*, since in *tiṅ atiṅaḥ* the word *ati-* gives… [as printed, compressed]; the *aṭ* being *udātta*, the word has the first-syllable accent).
 
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 10-34 — *11 19*; Pā. 34-91 [?] — *ṭitaātmane-sūtradiṃda eśva baṃdāga savābhyāṃnām*; Pā. 2-4-45 — *prathamapuruṣa ekavacana paravādāga igālu*; Pā. 2-4-77 — *puruṣa ekavacana paravādāga igālu*; Pā. 3-4-6 — *virecane dhātu chaṃdasiluj laṭaḥ*; Pā. 7-3-86 — *luk āp nimittavāgi pugaṃtalaghapadhasyaca*; Pā. 6-1-68 — *mittavāgi pugaṃtalaghapadhasyaca*; Pā. 8-2-30 — *laghovadhègè guṇa hal jyā*; Pā. 8-1-28 — *eti èṃdu tiṃtaviruvudariṃda tijñatiṇa*
+
 ---
 
 ### Printed p. 79  (PDF 99; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
@@ -2089,6 +2183,8 @@ Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plu
 
 > *syūmanā vāca udiyarti vahniḥ stavāno rebha uṣaso vibhātīḥ |*
 > *adyā taduccha gṛṇate maghonyasme āyurni didīhi prajāvat ‖ 17 ‖*
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Pā. 7-1-85 — *vyatyayadiṃda parimaṇṇu- bhukṣā māj*; Pā. 7-1-82 — *yatyayadiṃda parimaṇṇu- bhukṣā māj*; Pā. 3-4-9 — *dhātu idakkè tumanarthadalli tumarthase*; Pā. 6-1-197 — *kè tumanarthadalli tumarthase*; Pā. 8-65 [?] — *nityaṃtu èṃbudariṃda lopa mośca*; Pā. 8-1-30 — *laṭ prathamapuruṣa bahuvacanarūpa nivārya*; Pā. 6-1-186 — *lasārva dhātukavu baṃdudariṃda tāsyanudān-*
 
 ### Printed p. 80  (PDF 100; header "Maṃ. 1 A. 16 Sū. 113")
 
@@ -2139,6 +2235,8 @@ Grammar page on *ūrdhvam* (*īr* "to go", adādi, *anudāttet*; *loṭ* 2nd plu
 **रेभः** — *Rebhaḥ* — "*stotṛnāmaitat*": this is a name of a singer. "Among the many names of the praiser (*stotṛ*) — '*jaritā*', '*kāruḥ*' and the rest — the word *rebhaḥ* is stated (Ni. 3-18 as read [?]). The count of the names printed in the Kannada ('hundred-…') is not clear to me [?]."
 
 "When Sāyaṇa explains the word *syūmanā*: '*syūmāni anusyūtāni saṅgatāni uktāni stotrāṇi*' — stotras, when sung, in which the words of the hymn are connected with each other and give a good meaning. The singer recites stotras of such kind, he says. Skandasvāmin, since the word *syūmanā* denotes 'happiness', explains: '*sukhena akleśena stutilakṣaṇā vācaḥ udiyarti*' — he recites, easily, without trouble, the Vedic sentences that have the nature of praise — [he gives the sense] 'he, of himself, performs the *stotra*-reciting with ease'. And (as the Kannada continues on the next page) …
+
+*Reference numbers printed on this page, taken from the reader's Google-Docs OCR (the words are a mechanical transliteration of the OCR text and may be garbled; a `[?]` marks a number that is not a valid reference):* Ni. 3-13 — *viṣayagaḻu manā-sukhanāma ippattu sukhanāmagaḻalli*
 
 ### Printed p. 82  (PDF 102; header "Maṃ. 1 A. 16 Sū. 113")
 
