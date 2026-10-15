@@ -8033,4 +8033,60 @@ Kannada: "From the root *vaś kāntau* ('to wish', *kāntir icchā*) the word *u
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–6 complete; Ṛk 7 Saṃhitā written (printed p. 335, PDF 355). Next: printed p. 336 (PDF 356): Ṛk 7 Pada-pāṭha etc. Numerals of grammar pp. 332/335 checked against the reader's OCR list (PDF 350–370 CSV) and zoomed; doubtful sūtra numbers marked `[?]`. Open: Kannada tail of the Nirukta paragraph (p. 334) `[?]`.
+### Printed p. 336  (PDF 356; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.7)**
+
+> युवम् । नरा । स्तुवते । कृष्णियाय । विष्णाप्वम् । ददथुः । विश्वकाय ।
+> घोषायै । चित् । पितृसदे । दुरोणे । पतिम् । जूर्यन्त्यै ।
+> अश्विनौ । अदत्तम् ॥ ७ ॥
+
+> *yuvam | narā | stuvate | kṛṣṇiyāya | viṣṇāpvam | dadathuḥ | viśvakāya |*
+> *ghoṣāyai | cit | pitṛsade | duroṇe | patim | jūryantyai |*
+> *aśvinau | adattam ‖ 7 ‖*
+
+*(Printed Pada: *pitṛsade*, as read; *aśvinau* for the Saṃhitā's *aśvinā*; *viśvakāya* split over the line.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.7)**
+
+> हे नरा नेतारावश्विनौ युवं युवां स्तुवते स्तोत्रं कुर्वते कृष्णियाय कृष्णाख्यस्य पुत्राय विश्वकाय विष्णाप्वं ददथुः । विष्णाप्वं नाम विनष्टं पुत्रं दत्तवन्तौ । घोषा नाम ब्रह्मवादिनी कक्षीवतो दुहिता । सा कुष्ठिनी सती कस्मैचिद्वरायादत्ता पितृगृहे विषण्णा जीर्णासीत् । साश्विनोरनुग्रहान्नष्टकुष्ठा सती पतिं लेभे । तदेतदाह । हे अश्विनौ पित्रा संबद्धे दुरोणे स्वकीयजनगृहे कुष्ठरोगेण भर्तारमप्राप्य पितृषदे पितृसमीपे विषण्णायै जूर्यन्त्यै जरां प्राप्नुवत्यै घोषायै चित् एतत्संज्ञायै ब्रह्मवादिन्यै अपि रोगोपशमनेन पतिं भर्तारमदत्तम् । युवां दत्तवन्तौ ॥
+
+> *he narā netārāvaśvinau yuvaṃ yuvāṃ stuvate stotraṃ kurvate kṛṣṇiyāya kṛṣṇākhyasya putrāya viśvakāya viṣṇāpvaṃ dadathuḥ | viṣṇāpvaṃ nāma vinaṣṭaṃ putraṃ dattavantau | ghoṣā nāma brahmavādinī kakṣīvato duhitā | sā kuṣṭhinī satī kasmaicidvarāyādattā pitṛgṛhe viṣaṇṇā jīrṇāsīt | sāśvinoranugrahānnaṣṭakuṣṭhā satī patiṃ lebhe | tadetadāha | he aśvinau pitrā saṃbaddhe duroṇe svakīyajanagṛhe kuṣṭharogeṇa bhartāramaprāpya pitṛṣade pitṛsamīpe viṣaṇṇāyai jūryantyai jarāṃ prāpnuvatyai ghoṣāyai cit etatsaṃjñāyai brahmavādinyai api rogopaśamanena patiṃ bhartāramadattam | yuvāṃ dattavantau ‖*
+
+*Sense (mine):* "O leaders, Aśvins! You (*yuvam*, you two) gave *viṣṇāpvam* to Viśvaka, son of Kṛṣṇa (*kṛṣṇiya*), who was praising you. *Viṣṇāpva* is a name: you gave back a lost son. Ghoṣā was a *brahmavādinī*, daughter of Kakṣīvat. Being a leper, she was not given in marriage to anyone, and remained sad and aged in her father's house. By the Aśvins' favour her leprosy having gone, she obtained a husband. That is what is said here: in the *duroṇa*, the house of her own people, connected with the father — not having obtained a husband because of leprosy, *pitṛṣade*, near her father, dejected (*viṣaṇṇāyai*), growing old (*jūryantyai*), to Ghoṣā, the *brahmavādinī* of that name — you gave a husband by curing the disease." (The bhāṣya adds grammar: *pitṛṣade*, from *ṣadḷ viśaraṇādiṣu* with *kvip*; *jūryantyai*, from *jṛṣ vayohānau*, *laṭ*, *śatṛ*, *śyan* of the Divādi class, *bahulaṃ chandasi* giving *ut*, *hali ca* lengthening, the accent of *śyan* — characterized, not transcribed.)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.7)** (Kannada, rendered)
+
+*Narā* — O leaders; *aśvinau* — O Aśvins; *yuvam* — you two; *stuvate* — to him who praised (you); *kṛṣṇiyāya* — to the son of Kṛṣṇa; *viśvakāya* — to Viśvaka; *viṣṇāpvam* — Viṣṇāpva (his lost son) [you] *dadathuḥ* — gave; *duroṇe* — in the house of (her) people; *pitṛṣade* — (because of leprosy, unmarried) staying near her father; *jūryantyai* — to her who was growing old (attaining old age); *ghoṣāyai* — to Ghoṣā (making her disease cease); *patim cit* — a husband also; *adattam* — you graciously gave.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.7)** (Kannada, rendered)
+
+"O leaders, Aśvins! You gave to Viśvaka, the son of Kṛṣṇa, who praised you, the son called Viṣṇāpva (his lost son); and to Ghoṣā, who, unmarried, was staying near her father in the house of the family, and was attaining old age, you graciously gave a husband."
+
+---
+
+### Printed p. 337  (PDF 357; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"You restored, leaders (of sacrifices), Vishnapu (his lost son) to Vishwaka, the son of Krishna, when he praised you; you bestowed, Ashwins, a husband upon Ghosha grwing [sic] old and tarrying in her father's dwelling."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 7)**
+
+The Aśvins gave back to Viśvaka — who praised them — his son named Viṣṇāpva, who had been lost (gone somewhere), and so showed him favour: this is described here.
+
+*Ghoṣāyai cit patim adattam* — *etat-saṃjñāyai brahmavādinyai api rogopaśamanena bhartāraṃ yuvāṃ dattavantau*: "*Ghoṣā* is the name; to her, a woman *brahmavādinī*, the Aśvins gave a husband" — such is the meaning. Ghoṣā was a daughter of the ṛṣi Kakṣīvat. Because leprosy had come upon her, her husband abandoned her, so she lived in her own father's house, praised the Aśvins, and by their grace obtained her husband again and was freed of leprosy — thus the account (*itihāsa*) is told here.
+
+Skandasvāmin explains this in another way, and quotes a Ṛk that expounds it. And he explains the account of the ṛṣi Viśvaka and his son named Viṣṇāpva, who was lost and then restored, and quotes a Ṛk that tells it:
+
+> अवस्यते स्तुवते कृष्णियाय ऋजूयते नासत्या शचीभिः ।
+> पशुं न नष्टमिव दर्शनाय विष्णाप्वं ददथुर्विश्वकाय ॥ [as read; third pāda doubtful [?]]
+> (ऋ. सं. १-११६-२३)
+
+> *avasyate stuvate kṛṣṇiyāya ṛjūyate nāsatyā śacībhiḥ |*
+> *paśuṃ na naṣṭamiva darśanāya viṣṇāpvaṃ dadathurviśvakāya ‖ [as read; third pāda doubtful [?]]*
+> *(ṛ. saṃ. 1-116-23)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–6 complete; Ṛk 7 through printed p. 337 (PDF 357): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 338; the quoted Ṛk 1-116-23 third pāda read doubtfully). Next: printed p. 338 (PDF 358).
