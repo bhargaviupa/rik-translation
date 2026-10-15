@@ -12763,4 +12763,87 @@ Sūkta 121 (*kad itthā nṝḥ*; the eighteenth anuvāka's first sūkta; fiftee
 
 ---
 
-**Progress note:** Sūktas 113–120 complete (Sūkta 120: 12 Ṛks, printed pp. 495–536). Sūkta 121 (the last sūkta of the volume and of the Eighth Adhyāya) begins on printed p. 537 (PDF 557) with the heading of the eighteenth anuvāka (Anukramaṇī: *kad itthā* 15 Ṛks, Kakṣīvān, Triṣṭubh, Viśvedevāḥ or Indra, *viniyoga* by *liṅga*); not yet translated. Next: printed p. 537 (PDF 557) onward. Numerals for pp. 358–536 were read from the page images (the reader's numeral lists cover only printed pp. 330–353 and the front matter); sūtra, Nirukta and Ṛk numbers on those pages are marked `[as read]` or `[?]` where doubtful. Open: CLAUDE.md range line (113–130 → 113–121) to be edited by the user.
+## Sūkta 121 — *kad itthā nṝḥ pātram* (printed pp. 537–?)
+
+### Printed p. 537  (PDF 557; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**Heading (Kannada):** "nūra ippattombhanaya sūktavu" — "the hundred-and-twenty-first Sūkta." *(The page also carries, above it, the start of the eighteenth anuvāka.)*
+
+**Anukramaṇī (Sanskrit, as printed):**
+
+> अष्टादशेऽनुवाके षट् सूक्तानि । तत्र कदित्थेति पञ्चदशर्चं प्रथमं सूक्तम् । अत्रानुक्रम्यते । कदित्था पञ्चोना वैश्वदेवं वेति । अनुवर्तमानः कक्षीवानृषिः । अनादेशपरिभाषया त्रिष्टुप् । विश्वे देवा इन्द्रो वा देवता ॥ विनियोगो लैङ्गिकः ॥
+
+> *aṣṭādaśe 'nuvāke ṣaṭ sūktāni | tatra kadittheti pañcadaśarcaṃ prathamaṃ sūktam | atrānukramyate | kaditthā pañconā vaiśvadevaṃ veti | anuvartamānaḥ kakṣīvānṛṣiḥ | anādeśaparibhāṣayā triṣṭup | viśve devā indro vā devatā ‖ viniyogo laiṅgikaḥ ‖*
+
+*Sense:* "In the eighteenth anuvāka there are six sūktas. Of these, *kad itthā* — of fifteen Ṛks — is the first. The Anukramaṇī says: '*kad itthā pañconā vaiśvadevaṃ veti*'. The ṛṣi, by continuation, is Kakṣīvān. By the rule of no assignment, the metre is Triṣṭubh. The deities are the Viśvedevas, or Indra. The application (*viniyoga*) is by *liṅga*."
+
+**Anuvāda (Kannada):** "With the sūkta *kad itthā* the eighteenth anuvāka of the first maṇḍala begins. This anuvāka has six sūktas (121–126 [as read]). Of them *kad itthā* is the first; it has fifteen Ṛks. The Anukramaṇikā says '*kadityā pañconā vaiśvadevaṃ vā*'. As for the preceding sūktas, the ṛṣi of this sūkta too is Kakṣīvān. The metre is Triṣṭubh. The deities are the Viśvedevas, or Indra. The application is by *liṅga*."
+
+**सूक्त—१२१ (Sūkta 121)**
+॥ मण्डल—१ ॥ अनुवाक—१८ ॥ सूक्त—१२१ ॥
+॥ अष्टक—१ ॥ अध्याय ८ ॥ वर्ग—*(small numerals; read "24, 25, 26" — as printed [?])* ॥
+*Number of Ṛks in the sūkta:* 15 *(printed "१५")*. *Ṛṣi:* Kakṣīvān Dairghatamasa Auśija. *Devatā:* the Viśvedevas or Indra. *Chandas:* Triṣṭubh.
+
+### Ṛk 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.1)**
+
+> कदित्था नॄः पात्रं देवयतां श्रवद्गिरो अङ्गिरसां तुरण्यन् ।
+> प्र यदानड्विश आ हर्म्यस्योरु क्रंसते अध्वरे यजत्रः ॥ १ ॥
+
+> *kaditthā nṝḥ pātraṃ devayatāṃ śravadgiro aṅgirasāṃ turaṇyan |*
+> *pra yadānaḍviśa ā harmyasyoru kraṃsate adhvare yajatraḥ ‖ 1 ‖*
+
+---
+
+### Printed p. 538  (PDF 558; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.1)**
+
+> कत् । इत्था । नॄन् । पात्रम् । देवऽयताम् । श्रवत् । गिरः । अङ्गिरसाम् ।
+> तुरण्यन् ।
+> प्र । यत् । आनट् । विशः । आ । हर्म्यस्य । उरु । क्रंसते । अध्वरे ।
+> यजत्रः ॥ १ ॥
+
+> *kat | itthā | nṝn | pātram | deva 'yatām | śravat | giraḥ | aṅgirasām |*
+> *turaṇyan |*
+> *pra | yat | ānaṭ | viśaḥ | ā | harmyasya | uru | kraṃsate | adhvare |*
+> *yajatraḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.1)** *(small type; read with some doubts)*
+
+> नॄन्पात्रं नृणां स्तुतेर्नेतॄणां पुरुषाणां रक्षणशीलः इन्द्रस्तुरण्यन् गोरूपधनं प्रेरयन् देवयतां देवं द्योतमानं दानादिगुणयुक्तं वेन्द्रमात्मन इच्छतामङ्गिरसां स्मभ्यां [?] अस्माकमित्थमित्थं प्रयुज्यमाना गिरः स्तुतीः कत् कदा कस्मिन्काले श्रवत् । शृणुयात् । यद्यदा स इन्द्रो हर्म्यस्य हर्म्योपलक्षितेन गृहेण युक्तस्य यजमानस्य संबन्धिनो विश ऋत्विजः क्षणानुष्ट्यान [?] अभिमुख्येन प्रानट् । प्राप्नोति तदानीमध्वरेऽस्मदीये यज्ञे यजत्रो यष्टव्यः सन्नुरु बहुलं क्रंसते । क्रमते । स्वयमेवोत्सहत इत्यर्थः ॥ कत् । कदा । अन्त्यलोपश्छान्दसः । नॄन् । पात्रम् । नृन्से । पा. ८-३-१० इति संहितायां नकारस्य रुत्वम् । … पात्रम् । पा रक्षणे । ताच्छीलिकस्त्रन् । … देवयताम् । … श्रवत् । श्रु श्रवणे । लेट्यडागमः । … तुरण्यन् । तुरण त्वरायाम् । कण्ड्वादिः । … आनट् । अशू व्याप्तौ । … हर्म्यस्य । हर्म्यशब्दादर्शआदित्वादच् । क्रंसते । क्रमु पादविक्षेपे । … यजत्रः । अमिनक्षियजिवधि [?] … [the grammar tail is in small type; characterized, not transcribed]
+
+> *nṝnpātraṃ nṛṇāṃ stuternetṝṇāṃ puruṣāṇāṃ rakṣaṇaśīlaḥ indrasturaṇyan gorūpadhanaṃ prerayan devayatāṃ devaṃ dyotamānaṃ dānādiguṇayuktaṃ vendramātmana icchatāmaṅgirasāṃ smabhyāṃ [?] asmākamitthamitthaṃ prayujyamānā giraḥ stutīḥ kat kadā kasminkāle śravat | śṛṇuyāt | yadyadā sa indro harmyasya harmyopalakṣitena gṛheṇa yuktasya yajamānasya saṃbandhino viśa ṛtvijaḥ kṣaṇānuṣṭyāna [?] abhimukhyena prānaṭ | prāpnoti tadānīmadhvare 'smadīye yajñe yajatro yaṣṭavyaḥ sannuru bahulaṃ kraṃsate | kramate | svayamevotsahata ityarthaḥ ‖ kat | kadā | antyalopaśchāndasaḥ | nṝn | pātram | nṛnse | pā. 8-3-10 iti saṃhitāyāṃ nakārasya rutvam | … pātram | pā rakṣaṇe | tācchīlikastran | … devayatām | … śravat | śru śravaṇe | leṭyaḍāgamaḥ | … turaṇyan | turaṇa tvarāyām | kaṇḍvādiḥ | … ānaṭ | aśū vyāptau | … harmyasya | harmyaśabdādarśaāditvādac | kraṃsate | kramu pādavikṣepe | … yajatraḥ | aminakṣiyajivadhi [?] … [the grammar tail is in small type; characterized, not transcribed]*
+
+*Sense (mine):* "*Nṝn pātram* — Indra, the guardian of men, the leaders [who praise]; *turaṇyan* — urging on wealth in the form of cows; for us Aṅgirases, who desire (*devayatām*) a shining Indra who has the qualities of generosity, *kat* — when — will he listen (*śravat*) to our praise-words thus (*itthā*) uttered? *Yat* — when that Indra reaches (*ānaṭ*) face to face the *viśaḥ* — the priests belonging to the sacrificer who owns a house (*harmya*) — then, at our *adhvara*, our sacrifice, being the one to be worshipped (*yajatraḥ*), he *kraṃsate* — strides (comes), [it is meant] he exerts himself spontaneously."
+
+---
+
+### Printed p. 539  (PDF 559; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.1)** (Kannada, rendered)
+
+*Nṝn* — of men (of men's praises); *pātram* — the protector; *turaṇyan* — the impeller of cows and the like (Indra); *devayatām* — desirous of a shining Indra, or of a god endowed with generosity and the like; *aṅgirasām* — of us, the Aṅgirases; *itthā* — thus (uttered); *giraḥ* — praise-words; *kat* — when; *śravat* — will he hear? *yat* — when (Indra); *harmyasya* — of the sacrificer who has a house; *viśaḥ* — [of] the priests (men); *ā pra ānaṭ* — [being] face to face, comes; *adhvare* — in (our) sacrifice; *yajatraḥ* — worthy of worship; *uru* — greatly; *kraṃsate* — steps (becomes eager).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.1)** (Kannada, rendered)
+
+"When Indra, worthy of worship, comes in the sacrifice face to face with the priests, the men [belonging] to the householder-sacrificer, he becomes greatly eager; therefore, when will Indra, protector of men and impeller of the cattle-wealth, hear these praise-words (to be uttered presently) of us Aṅgirases, who desire him?"
+
+**English Translation (as printed)**
+
+"When will Indra, the protector of men and granter of riches, listen to the praises thus (recited) of the Angirasas, who are devoted to the gods? When he perceives the ministers of the master of the mansion, and is to be the object of worship in the sacrifice, he greatly exults."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 1)**
+
+*Kat* — *kadā*: "'when' is the meaning."
+
+*Pātram* — "from the root *pā*, which has the sense of protection, the word *pātra* conveys 'one who protects'."
+
+*Devayatām* — *devaṃ dyotamānaṃ dānādiguṇayuktaṃ vā indram ātmana icchatām*: "'those who desire a shining Indra, or an Indra endowed with the quality of giving' — i.e. those who look to him for protection."
+
+"Sāyaṇa: when the cows of the Aṅgirasa ṛṣis were carried off, they called Indra for protection, and he, hearing their praise, restrained the rākṣasas who had carried off the cows …" *(continues on p. 540)*
+
+---
+
+**Progress note:** Sūkta 120 complete; Sūkta 121 (last sūkta of the volume) begun: heading, Anukramaṇī, Anuvāda, Ṛk 1 through printed p. 539 (PDF 559); Special Topics continue on p. 540. Next: printed p. 540 (PDF 560). Numerals as read from the page: "pp. 537" varga "24, 25, 26" `[?]`; Anuvāda range "121–126" `[as read]`; Pā. 8-3-10 `[as read]`.
