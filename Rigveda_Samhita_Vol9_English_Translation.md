@@ -7863,4 +7863,74 @@ cites this Ṛk. In it he gives the meaning: those who perform sacrifices or obs
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–4 complete; Ṛk 5 Saṃhitā, Pada and bhāṣya written (printed p. 328, PDF 348). Next: printed p. 329 (PDF 349) — Ṛk 5 pratipadārtha, bhāvārtha, English, Special Topics, grammar. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
+### Printed p. 329  (PDF 349; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*nirṛteḥ* — of the earth; *upasthe* — on the lap; *suṣupvāṃsam na* — like one who lies asleep; *tamasi* — in darkness; *kṣiyantam* — remaining; *sūryaṃ na* — like the Sun, brilliant; *śubhe* — for adornment (that is made); *rukmaṃ na* — like a shining golden ornament; *darśatam* — beautiful; *nikhātam* — buried (by the Asuras in a well); *vandanāya* — Vandana the ṛṣi; *he dasrā aśvinā* — O beautiful Aśvin deities; *udūpathuḥ* — you drew up."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O beautiful Aśvin deities, you lifted up the ṛṣi Vandana — who was thrown by the Asuras into the well, like a man asleep in the lap of the goddess Earth, like the Sun covered in darkness (his brilliance hidden), like a golden ornament made for adornment and beautiful to behold."
+
+**English Translation (as printed)**
+
+> You extricated, Dasras, the sage Vandana, cast into a well, like a handsome and splendid ornament designed for embellishment, and (lying), Ashwins, like one sleeping on the lap of the earth, or like the sun disappearing in darkness.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+"In this Ṛk the greatness of the Aśvin deities is described: they drew up out of the well the ṛṣi Vandana, who had been thrown by the Asuras into the water of the well, and saved him. Three similes are given concerning the ṛṣi Vandana, who, lying in the water of the well, was without strength and without lustre. *Nirṛteḥ upasthe suṣupvāṃsaṃ na* — like a man lying weak on the earth; *tamasi kṣiyantaṃ sūryaṃ na* — like the Sun, without lustre in darkness; *śubhe rukmaṃ na* — as a gold ornament made with great lustre appears beautiful: [such was] the ṛṣi Vandana. This is how Sāyaṇa describes the condition of the ṛṣi. Skandasvāmin gives more explanation on this matter.
+
+### Printed p. 330  (PDF 350; header "Maṃ. 1 A. 17 Sū. 117")
+
+> सूर्यं न । सूर्यमिव कदा पुनः तमसि न्युषितैर्वा सूर्यः येनैवमुच्यते सूर्यमिव तमसि क्षियन्तमिति । उच्यते । यदा वृत्रो महत्तमस्तत्र तान तं च हत्वेन्द्रः सूर्यं दिव्यारोहयांचकारेति ॥
+
+> *sūryaṃ na | sūryamiva kadā punaḥ tamasi nyuṣitairvā sūryaḥ yenaivamucyate sūryamiva tamasi kṣiyantamiti | ucyate | yadā vṛtro mahattamastatra tāna taṃ ca hatvendraḥ sūryaṃ divyārohayāṃcakāreti ‖*
+> [Skandasvāmin; small type; partly doubtful [?]]
+
+"— asking when the Sun is in the darkness [as printed: *tamasi nyuṣitair vā sūryaḥ*]: the comparison 'like the Sun' is made here; and, considering at what time the Sun is covered by darkness, [the answer is]: 'when Vṛtra the Asura covered the Sun with clouds and made a great darkness, the Sun became lustreless; and when Indra subdued that Vṛtra, he made the Sun as he was before (that is, clearly visible to all)': he explains. And in addition, '*tad etat satyenoktam*' — this matter is stated by the ṛṣi Satya too [as printed *satyena ṛṣiṇā*], who says —
+
+> त्वमपामपिधानावृणोरपाधारयः पर्वते दानुमद्वसु ।
+> वृत्रं यदिन्द्र शवसावधीरहिमादित्सूर्यं दिव्यारोहयो दृशे ॥
+> (ऋ. सं. १-५२-८ [as read])
+
+> *tvamapāmapidhānāvṛṇorapādhārayaḥ parvate dānumadvasu |*
+> *vṛtraṃ yadindra śavasāvadhīrahimāditsūryaṃ divyārohayo dṛśe ‖*
+> *(ṛ. saṃ. 1-52-8 [as read])*
+
+"In this Ṛk it is described that Indra, having subdued Vṛtra, made the Sun as before. And [Skandasvāmin goes on]:
+
+> वन्दनमृषिं यथा भूमौ सुप्तं कञ्चित्कश्चिद्धस्तेन गृहीत्वोत्थापयेत् यथा च वृत्रकृतेन तमसावस्तब्धं सूर्यं दिव्यारोहणार्थमिन्द्र उद्धृतवान् यथा चात्मनः शोभनार्थं रुक्मं निखातं सन्तं कश्चिदुद्धरेदेवं युवां वन्दनं कूपे निपतितं तत उद्धृतवन्तौ इति समासार्थः ॥
+
+> *vandanamṛṣiṃ yathā bhūmau suptaṃ kañcitkaściddhastena gṛhītvotthāpayet yathā ca vṛtrakṛtena tamasāvastabdhaṃ sūryaṃ divyārohaṇārthamindra uddhṛtavān yathā cātmanaḥ śobhanārthaṃ rukmaṃ nikhātaṃ santaṃ kaściduddharedevaṃ yuvāṃ vandanaṃ kūpe nipatitaṃ tata uddhṛtavantau iti samāsārthaḥ ‖*
+> [small type; partly doubtful [?]]
+
+"— just as someone takes by the hand and raises one sleeping on the ground; just as Indra lifted the Sun, obstructed by the darkness created by Vṛtra, to heaven; and as someone digs up a gold ornament buried for his own adornment — so you raised Vandana, who had fallen into the well, out of it: this is the whole sense. [In Kannada:] like raising one lying asleep on the earth by taking his hand; like Indra, who made the Sun, covered by the darkness made by Vṛtra, again lustrous and sent him up to the sky; like lifting from the ground an ornament made for his own adornment, which had fallen into the ground — so the Aśvin deities lifted the ṛṣi Vandana from the well and protected him. And [on that] this matter —
+
+> तद्वां नरा शंस्यं राध्यं चाभिष्टिमन्नासत्या वरूथम् ।
+> यद्विद्वांसा निधिमिवापगूळ्हमुद्दर्शतादूपथुर्वन्दनाय ॥
+> (ऋ. सं. १-११६-११ [as read])
+
+> *tadvāṃ narā śaṃsyaṃ rādhyaṃ cābhiṣṭimannāsatyā varūtham |*
+> *yadvidvāṃsā nidhimivāpagūḷhamuddarśatādūpathurvandanāya ‖*
+> *(ṛ. saṃ. 1-116-11 [as read])*
+
+### Printed p. 331  (PDF 351; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> याभी रेभं निवृतं सितमद्भ्य उद्वन्दनमैरयतं स्वर्दृशे ।
+> याभिः कण्वं प्र सिषासन्तमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-५ [as read])
+
+> *yābhī rebhaṃ nivṛtaṃ sitamadbhya udvandanamairayataṃ svardṛśe |*
+> *yābhiḥ kaṇvaṃ pra siṣāsantamāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-5 [as read])*
+
+— is also explained in these Ṛks": he cites these Ṛks.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly)**
+
+*suṣupvāṃsam* (*ñiṣvap* "to sleep"; *liṭ* then *kvasu* by *kvasuś ca*, Pā. 3-2-107 as read [?]; *vacisvapiyajādīnāṃ kiti*, Pā. 6-1-15 as read [?], *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; doubling of the root, *supsupvas*; *ādir halśeṣaḥ*; *ṣatva* of the root's *s*; the word *suṣupvas*; the final accent from the suffix; accusative singular *am*; *ugit*, so *num*; *anusvāra*; *parasavarṇa*); *upasthe* (*upa* the prefix; *ṣṭhā* "to cease from motion", with *upa* as *upapada*, *ghañarthe kavidhānam* gives *ka* in the locative sense; *ā to lopa iṭi ca*, Pā. 6-4-64 as read [?], elision of the root's *ā*; since it belongs to the *marudvṛdhādi* group [*marudvṛdhādīnāṃ chandasy upasaṃkhyānam*, Vārt. as read [?]] the first member's final *udātta*; locative singular); *dasrā* (*supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the dual ending; nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *kṣiyantam* (*kṣi* "to dwell, to go", divādi; *śatṛ* in the *laṭ* sense; *divādibhyaḥ śyan*, Pā. 3-1-69 as read [?], *śyan*; *ato guṇe*, Pā. 6-1-97 as read [?], *pararūpa*; as *adupadeśa*, the *sārvadhātuka* is unaccented, so the *vikaraṇa* accent remains; accusative singular *am*; *ugit*, *num*; *anusvāra*, *parasavarṇa*); *darśatam* (*dṛśir* "to see"; the Uṇādi suffix *atac*; guṇa of the penultimate; *citaḥ*, Pā. 6-1-163 as read [?], final accent); *nikhātam* (*khanu* "to dig"; *kta* in the passive, Pā. 3-2-102 as read [?]; *yasya vibhāṣā*, Pā. 7-2-15 as read [?], no *iṭ*; *jana-sana-khanāṃ sañjhaloḥ*, Pā. 6-4-42 as read [?], *ā* for the root; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix keeps its accent).
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–4 complete; Ṛk 5 through printed p. 331 (PDF 351): pratipadārtha, bhāvārtha, English, Special Topics, grammar begun (continues p. 332). Next: printed p. 332 (PDF 352). Open: numerals as read `[?]`; Skandasvāmin quotations small type `[?]`.
