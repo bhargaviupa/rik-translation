@@ -12277,4 +12277,46 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–5 complete; Ṛk 6 Saṃhitā and Pada written (printed p. 515, PDF 535). Next: printed p. 516 (PDF 536): Ṛk 6 bhāṣya onward. Numerals as read (no numeral list covers these pages): Ni. 2-9, 6-? and sūtra numbers on pp. 514–515 `[as read]`.
+### Printed p. 516  (PDF 536; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.6)** *(small type; read with some doubts)*
+
+> हे अश्विनावश्विनौ गायत्रं गातव्यं गायत्रीच्छन्दोयुक्तं गायत्रसाम्ना निष्पाद्यं वा स्तोत्रं तकवानस्य स्खलद्गतेरन्धस्य ऋज्राश्वस्य संबन्धि श्रुतं । अश्रुणुतम् । अहं चिदहमिव वां युवां स ऋज्राश्वो रिरेभ । स्तुतवान् । किं कुर्वन् । हे शुभस्पती शोभनस्य कर्मणः पालयितारौ जलस्य वा स्वामिनौ । अक्षी युवाभ्यां दत्ते चक्षुषी आ दन् आददानः । तस्मा इव मध्वमुष्मभिमतफलं प्रयच्छतमिति भावः ॥ श्रुतम् । श्रु श्रवणे । लङ् । बहुलं छन्दसीति विकरणस्य लुक् । तकवानस्य । तक गतौ । अत्र गतिसामान्यवाचिना तकशब्देन विशेषो मन्दगतिर्लक्ष्यते । औणादिक उप्रत्ययः । भृगवाण इतिवत्प्रक्रियोन्नेया । रिरेभ । रेभृ शब्दे । अक्षी । ई च द्विवचन इत्यक्षिशब्दस्य ईकारान्तादेशः । स चोदात्तः । शुभस्पती । सुबामन्त्रिते परांगवत्स्वर इति पष्ठ्यन्तस्य परांगवद्भावाप्तद्वयसमुदायस्याष्टमिकामन्त्रितानुदात्तत्वम् । दन् । आङ्पूर्वाद्दातेराजो दोऽनास्यविहरणे [?] । (पा. १-३-२० [as read]) इत्यात्मनेपदम् । व्यत्ययेन शतृ । जुहोत्यादित्वात्श्लुः । द्विवचनप्रकरणे छन्दसि वेति वक्तव्यमिति वचनाद्बहुवचनाभावः । छन्दस्युभयथेत्युभयथाश्रयणात् शतुः सार्वधातुकत्वेन ङित्त्वम् । अर्धधातुकत्वादातो लोप इटि चेत्याकारलोपः ॥ [as read]
+
+> *he aśvināvaśvinau gāyatraṃ gātavyaṃ gāyatrīcchandoyuktaṃ gāyatrasāmnā niṣpādyaṃ vā stotraṃ takavānasya skhaladgaterandhasya ṛjrāśvasya saṃbandhi śrutaṃ | aśruṇutam | ahaṃ cidahamiva vāṃ yuvāṃ sa ṛjrāśvo rirebha | stutavān | kiṃ kurvan | he śubhaspatī śobhanasya karmaṇaḥ pālayitārau jalasya vā svāminau | akṣī yuvābhyāṃ datte cakṣuṣī ā dan ādadānaḥ | tasmā iva madhvamuṣmabhimataphalaṃ prayacchatamiti bhāvaḥ ‖ śrutam | śru śravaṇe | laṅ | bahulaṃ chandasīti vikaraṇasya luk | takavānasya | taka gatau | atra gatisāmānyavācinā takaśabdena viśeṣo mandagatirlakṣyate | auṇādika upratyayaḥ | bhṛgavāṇa itivatprakriyonneyā | rirebha | rebhṛ śabde | akṣī | ī ca dvivacana ityakṣiśabdasya īkārāntādeśaḥ | sa codāttaḥ | śubhaspatī | subāmantrite parāṃgavatsvara iti paṣṭhyantasya parāṃgavadbhāvāptadvayasamudāyasyāṣṭamikāmantritānudāttatvam | dan | āṅpūrvāddāterājo do 'nāsyaviharaṇe [?] | (pā. 1-3-20 [as read]) ityātmanepadam | vyatyayena śatṛ | juhotyāditvātśluḥ | dvivacanaprakaraṇe chandasi veti vaktavyamiti vacanādbahuvacanābhāvaḥ | chandasyubhayathetyubhayathāśrayaṇāt śatuḥ sārvadhātukatvena ṅittvam | ardhadhātukatvādāto lopa iṭi cetyākāralopaḥ ‖ [as read]*
+
+*Sense (mine):* "O Aśvins: *gāyatram* — the song to be sung, the hymn that is of the Gāyatrī metre or accomplished by the Gāyatra-sāman — *śrutam* — you heard, [the song] belonging to Ṛjrāśva, who was *takavānasya* — of the stumbling gait, [i.e. the blind]. *Ahaṃ cid* — like me, he, Ṛjrāśva, *rirebha* — praised you two. What does he do? *Śubhaspatī* — O protectors of good works, or lords of water, *ā dan* — taking back the *akṣī* — the two eyes you gave him [or: taking, receiving] — to him, as to me, give (*prayacchatam*) the sweet [oblation, and] the fruit that is wished — such is the meaning."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.6)** (Kannada, rendered)
+
+*(He) aśvinau* — O Aśvins; *gāyatram* — [the hymn] of Gāyatrī metre (fit to be sung); *takavānasya* — [of him who is] stumbling (because of blindness) — Ṛjrāśva's praise; *śrutam* — you heard; *aham cit* — like me; *vām* — you two; *śubhaspatī* — O Aśvins who are protectors of good deeds (lords of water); *ā akṣī* — the eyes given by you; *ā dan* — having got; *(saḥ — he, Ṛjrāśva)*; *rireba hi* — praised, indeed.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.6)** (Kannada, rendered)
+
+"O Aśvins, protectors of good deeds (lords of water)! You heard the praise, in Gāyatrī metre, of Ṛjrāśva, who stumbled [in blindness]; having got the eyes you gave, he praised you just as I have. (Therefore favour me too as you favoured him.)"
+
+**English Translation (as printed)**
+
+"Hear the song of the stumbling (blind man), for verily, Aswins, I gorify [sic] you, recovering my eyes (through you), who are protectors of good works."
+
+---
+
+### Printed p. 517  (PDF 537; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 6)**
+
+*Takavānasya* — *skhaladgateḥ andhasya ṛjrāśvasya sambandhi*: "Here the word *taka*, which in general indicates going, is used specially for slow, stumbling going: 'for one whose gait has stumbled, the blind Ṛjrāśva — [who,] being blind and unable to see, walks stumbling' is the meaning. The root *taka* has the sense of going, and here a stumbling gait is meant."
+
+*Gāyatram* — *gātavyaṃ gāyatrīcchandoyuktam | gāyatrasāmnā niṣpādyaṃ vā stotram*: "'What is to be sung, or [that] which is of Gāyatrī metre', or 'the hymn performed by the Gāyatra-sāman' is Sāyaṇa's explanation. Skandasvāmin: *gāyatrīty arcatikarmasu* (Ni. 3-?? [as read: 'ನಿ. ೩-೧೯']) *pāṭhāt arcatikarmāyam* — since the root *gai* is read among roots of the sense 'to worship', [it means worship]; *gīyate anena iti gāyatraṃ stotram* — 'that by which it is sung is the *gāyatra*, a hymn'; and since the statement *gāyatraṃ gāyateḥ stutikarmaṇaḥ* (Ni. 1-?? [as read: 'ನಿ. ೧-೮']) is made in explaining the word *gāyatra*, the word *gāyatra* means 'a collection of hymns'."
+
+*Śubhaspatī* — *śobhanasya karmaṇaḥ pālayitārau jalasya vā svāminau*: "'those who protect auspicious acts, [or] lords of waters' is the meaning. Since the word *śubh* is stated among the names of water (Ni. 1-12 [as read]), Skandasvāmin explains *śubhaspatī* as 'lords of the rain and of the waters that fall'."
+
+"Because the Aśvins graciously gave Ṛjrāśva eyes, as [he had] before, he praised the Aśvins. 'May the Aśvins, who produce good, hearing the praise of the seer of the mantra, fulfil his desired objects' — so the prayer is described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly; sūtra numbers as read)**
+
+*Śrutam* — root *śru śravaṇe*; *laṅ*, second person dual, *tasthasthamipāṃ tāṃtamtāmaḥ* (Pā. 3-4-101 as read), *tam* substituted; *bahulaṃ chandasi*, *luk* for the vikaraṇa; since it is *jit* [*śnu* removed], *guṇa* of the root's *u* does not occur; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), the augment *aṭ* does not occur; because it stands at the beginning of a pāda, no *nighāta*; by the suffix's accent the final acute.
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–5 complete; Ṛk 6 through printed p. 517 (PDF 537): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics done; grammar begun (continues p. 518). Next: printed p. 518 (PDF 538). Numerals as read (no numeral list covers these pages): Ni. 3-19, 1-8, 1-12, Pā. 1-3-20 `[as read]`.
