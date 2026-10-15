@@ -8571,4 +8571,54 @@ Skandasvāmin:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–11 complete (printed p. 357, PDF 377; Ṛk 11 grammar done). Next: printed p. 358 (PDF 378): Ṛk 12 Saṃhitā. Numerals for pp. 356–357 taken from the reader's numeral list where it had them (Ni. 3-2; Pā. 3-1-85, 3-1-81, 7-3-80, 7-1-39, 6-1-193, 3-1-134, 3-1-27, 6-4-49, 6-4-48, 8-1-19, 3-2-106, 7-4-66, 6-4-113); Ṛk 1-116-15 as read (not in list). Open: small-type grammar `[?]`.
+### Printed p. 358  (PDF 378; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.12)**
+
+> कुह यान्ता सुष्टुतिं काव्यस्य दिवो नपाता वृषणा शयुत्रा ।
+> हिरण्यस्येव कलशं निखातमुदूपथुर्दशमे अश्विनाहन् ॥ १२ ॥
+
+> *kuha yāntā suṣṭutiṃ kāvyasya divo napātā vṛṣaṇā śayutrā |*
+> *hiraṇyasyeva kalaśaṃ nikhātamudūpathurdaśame aśvināhan ‖ 12 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.12)**
+
+> कुह । यान्ता । सुऽस्तुतिम् । काव्यस्य । दिवः । नपाता । वृषणा ।
+> शयुऽत्रा ।
+> हिरण्यस्यऽइव । कलशम् । निऽखातम् । उत् । ऊपथुः । दशमे ।
+> अश्विना । अहन् ॥ १२ ॥
+
+> *kuha | yāntā | su 'stutim | kāvyasya | divaḥ | napātā | vṛṣaṇā |*
+> *śayu 'trā |*
+> *hiraṇyasya 'iva | kalaśam | ni 'khātam | ut | ūpathuḥ | daśame |*
+> *aśvinā | ahan ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.12)** *(small type; read with several doubts)*
+
+> पुरा खलु [?] स्तुतिं गच्छन्तावश्विनौ मार्गमध्ये कूपे पतितं रेभं [?] तं कूपादुदतारयताम् । तदानीमश्विभ्यां गन्तव्यं काव्यस्य निवासस्थानमुत [?] अश्विनौ पृच्छति । हे दिवो नपाता द्योतमानस्य सूर्यस्य पुत्रौ वृषणा कामानां वर्षकावश्विना कुह कुत्र शयुत्रा शयने निवासस्थाने वर्तमानस्य काव्यस्य भार्गवस्य सुष्टुतिं शोभनां स्तुतिं श्रोतुं यान्ता गच्छन्तौ । यद्वा । शयुत्रेत्येतदश्विनोर्विशेषणम् । शयुनामकस्य त्रायकौ [?] युवाम् । हिरण्यस्येव कलशं यथा हिरण्यपूरितं कलशं भूम्यां निक्षिप्तं सर्वैर्दुर्ज्ञातं कश्चिदभिज्ञ उद्धरति एवमसुरैः कूपे निखातं दश रात्रीर्नव वाहानि च तत्रैव निवसन्तं रेभमवगत्य दशमेऽहन् अहनि उदूपथुः । कूपादुन्नीतवन्तौ । किं तन्निवासस्थानमिति प्रश्नः । रेभस्यानुक्तत्वादपि [?] दश रात्रीरिवेन [?] । (ऋ. सं. १-११६-२४) इति मन्त्रान्तरसामर्थ्यात्प्रतीतिः ॥
+
+> *purā khalu [?] stutiṃ gacchantāvaśvinau mārgamadhye kūpe patitaṃ rebhaṃ [?] taṃ kūpādudatārayatām | tadānīmaśvibhyāṃ gantavyaṃ kāvyasya nivāsasthānamuta [?] aśvinau pṛcchati | he divo napātā dyotamānasya sūryasya putrau vṛṣaṇā kāmānāṃ varṣakāvaśvinā kuha kutra śayutrā śayane nivāsasthāne vartamānasya kāvyasya bhārgavasya suṣṭutiṃ śobhanāṃ stutiṃ śrotuṃ yāntā gacchantau | yadvā | śayutretyetadaśvinorviśeṣaṇam | śayunāmakasya trāyakau [?] yuvām | hiraṇyasyeva kalaśaṃ yathā hiraṇyapūritaṃ kalaśaṃ bhūmyāṃ nikṣiptaṃ sarvairdurjñātaṃ kaścidabhijña uddharati evamasuraiḥ kūpe nikhātaṃ daśa rātrīrnava vāhāni ca tatraiva nivasantaṃ rebhamavagatya daśame 'han ahani udūpathuḥ | kūpādunnītavantau | kiṃ tannivāsasthānamiti praśnaḥ | rebhasyānuktatvādapi [?] daśa rātrīrivena [?] | (ṛ. saṃ. 1-116-24) iti mantrāntarasāmarthyātpratītiḥ ‖*
+
+*Sense (mine and tentative):* "Once, the Aśvins going [to hear] praise met Rebha, who had fallen into a well in the middle of the road, and drew him up out of the well. [Then, as the Aśvins were to go to the dwelling-place of Kāvya, someone asks them:] O sons (*napātā*) of heaven — of the shining Sun — O showerers of desires, Aśvins, *kuha* — where are you going, to hear the fine praise (*suṣṭutim*) of Kāvya, the Bhārgava, who is staying in his (*śayutrā*) resting-place? Or: *śayutrā* is an epithet of the Aśvins — you two, who protect one named Śayu. Like a golden jar (*hiraṇyasyeva kalaśam*) — as a vessel filled with gold, buried in the earth, unknown to all, is lifted out by someone who knows it — so you drew Rebha, whom the asuras had buried in a well, who stayed there ten nights and nine days, out of the well on the tenth day (*daśame 'han*). — That is the question: what was that dwelling-place? From the other mantra, 'ten nights' (Ṛ. 1-116-24), it is understood." The page's small type continues with the grammar of the doubtful words (*kuha*, *yāntā*, *suṣṭutim*, *śayutrā*, *kalaśam*, *nikhātam*, *daśame 'han*) — characterized, not transcribed.
+
+---
+
+### Printed p. 359  (PDF 379; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Bhāṣya of Ṛk 12, continued, small type)* "… Or: going towards the praise of Kāvya, where (*kuha*), in what place, did you two draw Rebha out? — such is the question. *Kuha* — [here follows the grammar: *kuha* formed by the rule *ha ca chandasi* [?] with the suffix in the sense of the seventh case; the *parāṅgavadbhāva* …; *divo napātā*, *napāt* by *nābhāṇapād…*; *śayutrā* by the suffix *trā* from *śī*; *aśvinā*; *ahan*]" — the printed bhāṣya ends with the formal analysis *na jisambuddhyoḥ* [?] etc. (characterized, not transcribed; small type).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.12)** (Kannada, rendered)
+
+*Divaḥ* — of the shining Sun; *napātā* — sons; *vṛṣaṇā* — showerers of desires; *śayutrā* — protectors of one named Śayu; *aśvinā* — O Aśvins; *kuha* — (O) where; *śayutrā* — in a place of resting (dwelling place); *kāvyasya* — of Bhārgava; *suṣṭutim* — fine praise (to hear); *yāntā* — are you going? And *hiraṇyasya iva kalaśam* — like a golden jar (that was hidden so that none could know); *nikhātam* — (by the asuras) buried (Rebha, who stayed there ten nights and nine days); *daśame ahan* — on the tenth day; *ut ūpathuḥ* — you lifted up.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.12)** (Kannada, rendered)
+
+"O Aśvins, sons of the Sun, showerers of desires, protectors of one named Śayu! In what dwelling-place was the Bhārgava — to hear whose fine hymn of praise are you two going? And [how did you] lift up, on the tenth day, like a golden jar hidden so that none might know it, Rebha, who stayed ten nights and nine days buried by the asuras?"
+
+**English Translation (as printed)**
+
+"Whither were you going, son of heaven, showerers (of benefits), when on your way to the dwelling of Kavya, (to receive his) adoration, you raised up (Rebha), Aswins, on the tenth day, like a burried [sic] vessel full of gold?"
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–11 complete; Ṛk 12 through printed p. 359 (PDF 379): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics follow (p. 360). Next: printed p. 360 (PDF 380). Numerals taken from the numeral list where present (Ṛ. 1-116-24 in the bhāṣya). Open: small-type bhāṣya `[?]`.
