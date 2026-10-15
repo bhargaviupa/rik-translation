@@ -13706,4 +13706,84 @@ In this Ṛk the word *śuṣṇa* means 'cloud' (Ni. 6-?? [as read]).
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–9 complete; Ṛk 10 through printed p. 581 (PDF 601): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (nearly done) written; continues p. 582 (rest of Special Topics, grammar). Next: printed p. 582 (PDF 602). Five Ṛks (11–15) remain after Ṛk 10. Numerals as read: Ni. numbers, Ṛ. 1-33-12, 1-54-5, 1-52-6, 10-94-? `[as read]`.
+### Printed p. 582  (PDF 602; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 10, concluded)* "The word *ojas* is stated among the names of water (Ni. 1-?? [as read]), so it conveys the sense of 'water'. [Skandasvāmin] tells a history on the subject of Indra's restraining of Vṛtra: the asura Vṛtra, able to hold back the Sun's brightness, made darkness; Indra destroyed that darkness, and, to destroy the grime that remained in the part connected with the darkness, entered the Sun's disc in the sky and shone in the form of the Sun. This matter is stated in the Ṛk *vṛtraṃ yad indra* (Ṛ. 1-52-6 as read). In this way, Śuṣṇa — who was making darkness and protecting it — Indra killed, and the *phaliga* helping him. Or: *phaliga* is a word for cloud, and [Sāyaṇa] says that in the form of a cloud, Śuṣṇa, covering the Sun and holding back the light, increased the darkness; Indra struck the cloud with the thunderbolt, destroyed the darkness, and made the light; and he saved the world, producing rain in the places suited [for it], by the rays connected with the Sun."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Adrivaḥ* (*ādṛṇāti anena iti adriḥ*, the thunderbolt; *adriḥ asya asti iti adrivān*; *matup*; *chandasīraḥ*, Pā. 8-2-15, *v* for *m*; vocative, *matuvasoru sambuddhau*, Pā. 8-3-1, *ru* for *n*; *kharavasānayor visarjanīyaḥ*, Pā. 8-3-15, *visarga*) · *hetim* (*hana hiṃsāgatyoḥ*; *kṛtyalyuṭo bahulam*, Pā. 3-3-113, *ktin* in the agent sense; *ūtiyūtijūti…*, Pā. 6-2-?? as read, irregular, final-acute) · *asya* (*asu kṣepaṇe*; *laṭ*, second singular, *sip*; by *vyatyaya* *hi* is substituted; *divādibhyaḥ śyan*, Pā. 3-1-69; *ato heḥ*, Pā. 6-4-105, elision of *hi*; *nighāta*) · *parihitam* (*dudhāñ dhāraṇapoṣaṇayoḥ*; *niṣṭhā*; *dadhātir hiḥ*, Pā. 7-4-42, *hi* for the root; *gatir anantaraḥ*, Pā. 6-2-49) · *divaspari* (*pañcamyāḥ parāvadhyarthe*, Pā. 8-3-51 as read, *s* for *visarga*; *ūḍidaṃpadādi*, Pā. 6-1-171) · *ādaḥ* (*dyai* / *do vidāraṇe*; *laṅ*, *sip*; *itaś ca*; *bahulaṃ chandasi*, *luk* of the vikaraṇa; *guṇa*; *uraṇ raparaḥ*; *halṅyābbhyaḥ*; augment *aṭ*; *nighāta*). ‖ 10 ‖
+
+---
+
+### Printed p. 583  (PDF 603; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar page of Ṛk 10 completed above.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.11)**
+
+> अनु त्वा मही पाजसी अचक्रे द्यावाक्षामा मदताामिन्द्र कर्मन् ।
+> त्वं वृत्रमाशयानं सिरासु महो वज्रेण सिष्वपो वराहुम् ॥ ११ ॥
+
+> *anu tvā mahī pājasī acakre dyāvākṣāmā madatāāmindra karman |*
+> *tvaṃ vṛtramāśayānaṃ sirāsu maho vajreṇa siṣvapo varāhum ‖ 11 ‖*
+
+*(The printed Saṃhitā has "madatāṃ" with a stray vowel mark; the Pada's *madatām* is clear.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.11)** *(continues on p. 584)*
+
+> अनु । त्वा । मही इति । पाजसी इति । अचक्रे इति । द्यावाक्षामा । मदताम् । इन्द्र । कर्मन् ।
+
+> *anu | tvā | mahī iti | pājasī iti | acakre iti | dyāvākṣāmā | madatām | indra | karman |*
+
+---
+
+### Printed p. 584  (PDF 604; header "Maṃ. 1 A. 18 Sū. 121")
+
+> त्वम् । वृत्रम् । आऽशयानम् । सिरासु । महः । वज्रेण । सिष्वपः ।
+> वराहुम् ॥ ११ ॥
+
+> *tvam | vṛtram | ā 'śayānam | sirāsu | mahaḥ | vajreṇa | siṣvapaḥ |*
+> *varāhum ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.11)** *(small type; read with some doubts)*
+
+> हे इन्द्र मही महत्यौ पाजसी बलवत्यावचक्रे अचङ्क्रमाणे सर्वत्र व्याप्ते वर्तमाने द्यावाक्षामा द्यावापृथिव्यौ कर्मन् वृत्रवधादिलक्षणे कर्मणि प्रवृत्तं त्वामनुमदतां । हृष्टमकुरुताम् । अनुमन्येतां वा । तथा च तैत्तिरीयकं । स आभ्यामेव प्रसूते इन्द्रो वृत्रमहन्निति । तदनन्तरं त्वमाशयानं समन्ताद्व्याप्य वर्तमानं वराहुं वराहारं वृत्रमसुरं सिरासु सरणशीलासु अप्सु महो महता वज्रेण सिष्वपः । अस्वापयः । वज्रेण हत्वा पातितवानसीत्यर्थः ॥ मही । सुपां सुलुगिति विभक्तेः पूर्वसवर्णदीर्घः । पाजसी । पाजःशब्दो बलवाचको लक्षणयात्र तद्वति वर्तते । ईयोडियाजीकाराणामुपसंख्यानमिति विभक्तेरीकारादेशः । द्यावाक्षामा । द्यौश्च क्षामा च दिवो द्यावेति द्यावादेशः । देवताद्वन्द्वे चेत्युभयपदप्रकृतिस्वरत्वं । सुपां सुलुगिति विभक्तेरालुक् । मदताम् । मदी हर्षे । व्यत्ययेन शप् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । महः । महतः । करणे [?] शेषत्वेन विवक्षिते षष्ठी । अश्च्बुपोलोपश्छान्दसः । सिष्वपः । ञिष्वप् शये । अस्माण्ण्यन्ताल्लङि चङि । चङ्न्यतरस्या … सम्प्रसारणं न क्रियते ॥ [as read]
+
+> *he indra mahī mahatyau pājasī balavatyāvacakre acaṅkramāṇe sarvatra vyāpte vartamāne dyāvākṣāmā dyāvāpṛthivyau karman vṛtravadhādilakṣaṇe karmaṇi pravṛttaṃ tvāmanumadatāṃ | hṛṣṭamakurutām | anumanyetāṃ vā | tathā ca taittirīyakaṃ | sa ābhyāmeva prasūte indro vṛtramahanniti | tadanantaraṃ tvamāśayānaṃ samantādvyāpya vartamānaṃ varāhuṃ varāhāraṃ vṛtramasuraṃ sirāsu saraṇaśīlāsu apsu maho mahatā vajreṇa siṣvapaḥ | asvāpayaḥ | vajreṇa hatvā pātitavānasītyarthaḥ ‖ mahī | supāṃ sulugiti vibhakteḥ pūrvasavarṇadīrghaḥ | pājasī | pājaḥśabdo balavācako lakṣaṇayātra tadvati vartate | īyoḍiyājīkārāṇāmupasaṃkhyānamiti vibhakterīkārādeśaḥ | dyāvākṣāmā | dyauśca kṣāmā ca divo dyāveti dyāvādeśaḥ | devatādvandve cetyubhayapadaprakṛtisvaratvaṃ | supāṃ sulugiti vibhakterāluk | madatām | madī harṣe | vyatyayena śap | bahulaṃ chandasyamāṅyoge 'pītyaḍabhāvaḥ | mahaḥ | mahataḥ | karaṇe [?] śeṣatvena vivakṣite ṣaṣṭhī | aścbupolopaśchāndasaḥ | siṣvapaḥ | ñiṣvap śaye | asmāṇṇyantāllaṅi caṅi | caṅnyatarasyā … samprasāraṇaṃ na kriyate ‖ [as read]*
+
+*Sense (mine):* "O Indra, *mahī* — the great — *pājasī* — strong — *acakre* — unmoving, pervading everywhere — *dyāvākṣāmā* — heaven and earth: *anu madatām* — gladdened [applauded] you, who were engaged in the work (*karman*) of killing Vṛtra and the like; or: approved [it]. As the Taittirīya says: 'by these two he was impelled; Indra slew Vṛtra' (Tai. Saṃ. 2-3-2-6 as read). Thereafter you *siṣvapaḥ* — laid asleep, *vajreṇa mahaḥ* — with the great thunderbolt, *vṛtram* — the asura Vṛtra, *āśayānam* — lying pervading everywhere, *varāhum* — the eater of good food, *sirāsu* — in the flowing waters: you cast him down, killing him with the bolt."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.11)** (Kannada, rendered)
+
+*(He) indra* — O Indra; *mahī* — great; *pājasī* — strong; *acakre* — all-pervading, unmoving; *dyāvākṣāmā* — heaven and earth; *karman anu* — [after] your work [the killing of Vṛtra]; *tvā* — you; *madatām* — made glad; *anantaram* — afterwards; *tvam* — you; *āśayānam* — lying pervading everywhere; *varāhum* — the eater of good food; *vṛtram* — Vṛtra, the asura; *sirāsu* — in the waters; *mahaḥ vajreṇa* — with the great thunderbolt; *siṣvapaḥ* — cast down (laid to sleep).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.11)** (Kannada, rendered)
+
+"O Indra! Heaven and earth, vast, powerful and all-pervading, were glad at your deed of killing Vṛtra. Afterwards you, with your great thunderbolt, killed the all-pervading Vṛtra, the eater of good food, and cast him into the waters."
+
+---
+
+### Printed p. 585  (PDF 605; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+"Then the vast, powerful, and immoveable earth and heaven animated you, Indra, to glorious deeds, and you hurled down into the waters, with your mighty thunderbolt, the everywhere-spreading and destroying Vritra."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 11)**
+
+*Dyāvākṣāmā karmann anu madatām* — *dyāvāpṛthivyau vṛtravadhādilakṣaṇe karmaṇi pravṛttaṃ tvāṃ hṛṣṭam akurutām anumanyetāṃ vā; tathā ca taittirīyakam — sa ābhyām eva prasūte indro vṛtram ahann iti*: "'Heaven and earth were pleased at your deeds, or approved' — that is, when Indra engaged in the fighting of Vṛtra, heaven and earth, from joy, approved; seeing it, Indra was pleased too. The Taittirīya Saṃhitā too says that Indra, born of heaven and earth, slew Vṛtra; this Sāyaṇa states, and Skandasvāmin says the same."
+
+*Pājasī* — *balavatī*: "The word *pājas* is stated among the names of strength (Ni. 2-9 [as read]); 'possessing strength'." *Mahī* — "*mahat*; the word *mahī* is stated among the names of the earth (Ni. 1-?? [as read])."
+
+*Sirāsu āśayānaṃ varāhuṃ vṛtraṃ vajreṇa siṣvapaḥ* — *saraṇaśīlāsv apsu ā samantād vyāpya vartamānaṃ varāhāraṃ vṛtrāsuraṃ vajreṇa asvāpayaḥ vajreṇa hatvā pātitavān*: "'The word *vṛtra* is stated among the names of wealth (Ni. 2-?? [as read]) and among the names of cloud (Ni. 2-?? [as read]): *tat ko vṛtraḥ? megha iti nairuktāḥ; tvāṣṭro 'suraḥ iti aitihāsikāḥ* (Ni. 2-16 [as read]) — Yāska explains the meaning of the word *vṛtra*: 'the Nairuktas, [the students of the meaning of the Vedas], say that Vṛtra is the cloud; the Aitihāsikas [the students of history], that he is an asura, the son of Tvaṣṭṛ'. Indra, with his mighty thunderbolt, strikes down upon the earth Vṛtra, who is all-pervading in the flowing rivers, eater of the best food." Skandasvāmin:
+
+> शेरतेऽत्र स्थानार्थः आमाशयो जलाशय इति यथा । सिरा इति नदीनाम । नदीभिः क्वेदेया आपो लक्ष्यन्ते । अन्तरिक्षे या नद्यः तदप्सु गूहितम् । वराहुं वराहाकारम् ॥
+
+> *śerate 'tra sthānārthaḥ āmāśayo jalāśaya iti yathā | sirā iti nadīnāma | nadībhiḥ kvedeyā āpo lakṣyante | antarikṣe yā nadyaḥ tadapsu gūhitam | varāhuṃ varāhākāram ‖*
+
+— '*āśayāna* — one who lies down, like *āmāśaya*, *jalāśaya*; *sirā* is a name for rivers; by rivers, waters are meant; "the waters that are the rivers in the sky": Vṛtra was hidden in those waters; *varāhu* — of the form of a boar' …" *(continues on p. 586)*
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–10 complete; Ṛk 11 through printed p. 585 (PDF 605): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 586). Next: printed p. 586 (PDF 606). Four Ṛks (12–15) remain after Ṛk 11. Numerals as read: Tai. Saṃ. 2-3-2-6, Ni. numbers `[as read]`.
