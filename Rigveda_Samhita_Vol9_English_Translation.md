@@ -1654,4 +1654,130 @@ Grammar page, begun: *yāvayaddveṣāḥ* (*yu* "to mix, to separate", adādi; 
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–12 complete (through printed p. 62, PDF 82); Ṛk 13 Saṃhitā and Pada written. Next: printed p. 63 (PDF 83) — Ṛk 13 bhāṣya… Open: as before.
+### Printed p. 63  (PDF 83; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.13)**
+
+> देवी देवनशीलोषाः पुरा पूर्वस्मिन्काले शश्वन्नित्यं सन्ततं व्युवास व्युष्टवती । अथो अनन्तरमद्यास्मिन्काले मघोनी धनवत्युषाः तमसा तिरोहितमिदं सर्वं जगद् व्यावः [?] विवासितं प्रकाशेन तमसा वियुक्तमकरोत् । अथो अनन्तरमुत्तरानूर्ध्वतरानाविनो [?] द्यून् दिवसाननुलक्ष्यागामिन्यास्तु दिवसेषु व्युच्छात् व्युच्छति विवासयति । अतः कालत्रयव्यापिनी सोषा अजरा जरारहिता सर्वदैकरूपाऽमृता मरणरहिता च सती स्वधाभिरात्मीयैस्तेजोभिः सह चरति वर्तते ॥ [several words are small and doubtful [?]]
+
+> *devī devanaśīloṣāḥ purā pūrvasminkāle śaśvannityaṃ santataṃ vyuvāsa vyuṣṭavatī | atho anantaramadyāsminkāle maghonī dhanavatyuṣāḥ tamasā tirohitamidaṃ sarvaṃ jagad vyāvaḥ [?] vivāsitaṃ prakāśena tamasā viyuktamakarot | atho anantaramuttarānūrdhvatarānāvino [?] dyūn divasānanulakṣyāgāminyāstu divaseṣu vyucchāt vyucchati vivāsayati | ataḥ kālatrayavyāpinī soṣā ajarā jarārahitā sarvadaikarūpā 'mṛtā maraṇarahitā ca satī svadhābhirātmīyaistejobhiḥ saha carati vartate ‖ [several words are small and doubtful [?]]*
+
+*Sense (mine):* "*Devī* — Uṣas, of shining nature (*devana*); *purā*, in the past, *śaśvat*, constantly, *vyuvāsa*, shone forth. And now, *adya*, at this time, *maghonī*, the wealthy Uṣas, *vyāvaḥ* — has made all this world hidden by darkness free from darkness by light. And then, after this, in the coming days, the *uttarān dyūn*, she will *vyucchāt*, shine forth. Hence, that Uṣas, pervading the three times, *ajarā*, without old age, always of one form, *amṛtā*, without death, goes on, *carati*, together with her own splendours (*svadhābhiḥ*)."
+
+*Grammatical tail (characterized, not transcribed):* *uvāsa* (*vas* "to dwell"; in the *liṭ* the reduplication takes *saṃprasāraṇa* by *liṭy abhyāsasyobhayeṣām*); *āvaḥ* (from the same root *vṛ* in the aorist, the *vikaraṇa* elided by *bahulaṃ chandasi*; the *s* elided by *hal-ṅyābbhyaḥ*; the augment by *chandasy api dṛśyate*); *ucchāt* (*leṭ* with the augment *aṭ*); *uttarān* (the *n* becomes *ru* by *dīrghād aṭi samānapāde*; the nasalized *ā* by *ato 'ṭi nityam*); *anu* (a *karmapravacanīya* by *anur lakṣaṇe*, Pā. 1-4-84 as read [?]); *ajarā*, *amṛtā* (*nañ*-bahuvrīhi; the later member's first-syllable accent by *ña-jara-mara-mitra-mṛtāḥ*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*devī uṣāḥ* — goddess Uṣas; *purā* — in former times; *śaśvat* — continuously; *vyuvāsa* — rose; *atho* — after that; *adya* — now (at the present time); *maghonī* — Uṣas who has wealth; *idam* — this whole world (hidden by darkness); *vyāvaḥ* — made uncovered; *atho* — afterwards; *uttarān* — the coming; *dyūn* — days; *anu vyucchāt* — will make light; *ajarā* — therefore, without old age; *amṛtā* — immortal (Uṣas); *svadhābhiḥ* — with her own splendours; *carati* — goes about."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The goddess Uṣas rose every day in former times; the goddess, who is the support of wealth, is rising now in this world also; in the future, in the days to come, she will also give light; the ageless, deathless Uṣas goes about, endowed with splendour."
+
+### Printed p. 64  (PDF 84; header "Maṃ. 1 A. 16 Sū. 113")
+
+**English Translation (as printed)**
+
+> The divine Ushas dawned continually in former times ; the source of wealth, she still rises on this (world) ; so will she give light hereafter, through future days, for, exempt from decay or death, she goes on in her splendour.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**देवी उषाः** — *Devī uṣāḥ* — "*devanaśīlā*": "she who has by nature luminosity; that is, the goddess Uṣas who shines — this is the meaning. The Nirukta-writer:
+
+> उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः । (नि. २-१८ [as read])
+
+> *uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ | (ni. 2-18 [as read])*
+
+"From the root *uchī* with the meaning 'to drive away' he shows the sense that 'she (*ucchati*) drives away the darkness'. This explains the derivation of the word *uṣas*: the last part of the night is called Uṣas-time in usage," he says. "With regard to the matter that this Uṣas, having risen, passes away in order, he cites some Ṛks as examples —
+
+> अपोषा अनसः सरत्संपिष्टादह बिभ्युषी ।
+> नि यत्सीं शिश्नथद्वृषा ॥
+> (ऋ. सं. ४-३०-१० [as read])
+
+> *apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī |*
+> *ni yatsīṃ śiśnathadvṛṣā ‖*
+> *(ṛ. saṃ. 4-30-10 [as read])*
+
+in this Ṛk [the Nirukta explains] '*apāsarad uṣā anasaḥ saṃpiṣṭān meghāt bibhyuṣī*' (Ni. 11-48 as read [?]): "Seeing the clouds driven by the wind, afraid of the wind, which will drive her too, Uṣas-time herself (hiding her own form) went away" — so it is described here.
+
+> एतदस्या अनः शये सुसंपिष्टं विपाश्या ।
+> ससार सीं परावतः ॥
+> (ऋ. सं. ४-३०-११ [as read])
+
+> *etadasyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā |*
+> *sasāra sīṃ parāvataḥ ‖*
+> *(ṛ. saṃ. 4-30-11 [as read])*
+
+'*etad asyā anaḥ āśete vimuktaṃ pāśi sasāroṣāḥ parāvataḥ preritavataḥ parāgatād vā*' (Ni. 11-49 as read [?]): in this statement, which says, looking at the clouds changed into the form of water (the sense of *udakabhāva*), the chariot of Uṣas, being sheltered by the cloud, here is described as having loose joints [?] from the speed of the wind; from which it is to be understood that Uṣas is a deity of the middle region (*madhyasthāna*)."
+
+---
+
+### Printed p. 65  (PDF 85; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed]; footer signature mark "IX 5")
+
+**उषाः** — *Uṣāḥ:*
+
+> उषाः । उषा वस्तेः कान्तिकर्मणः उच्छतेरितरा माध्यमिका ॥ [Yāska; first words as read]
+
+> *uṣāḥ | uṣā vasteḥ kāntikarmaṇaḥ ucchateritarā mādhyamikā ‖ [Yāska; first words as read]*
+
+"From the root *vaś* ('to desire, to shine') comes the form of the word *uṣas* in the sense 'lustrous'. Or from the root *uchī* 'to drive away' arises the form of the word *uṣas*. It means that Uṣas pours out the waters (*udaka*) that are in the clouds; or he gives the alternative meaning that she [Uṣas] makes the clouds stand in the middle (region). And from this it follows that Uṣas is a deity of the sky-region (*dyusthāna*) because of her lustrous form — and another [Uṣas] too. There is a doubt here. Yāska says (as the Kannada has it):
+
+> यद्योक्तं [?] — तद्वा इदं विकल्पेन द्युस्थानायोः [?] यो पुनरितरा माध्यमिका उषाः न तस्याः विकल्पः किं तर्हि उच्छतेरेव सा विवासनार्थस्य विवासयति उदकानि विवास्यते वा मेघो मध्यमेनेति [?]
+> (नि. १२-८ [as read])
+
+> *yadyoktaṃ [?] — tadvā idaṃ vikalpena dyusthānāyoḥ [?] yo punaritarā mādhyamikā uṣāḥ na tasyāḥ vikalpaḥ kiṃ tarhi ucchatereva sā vivāsanārthasya vivāsayati udakāni vivāsyate vā megho madhyameneti [?]*
+> *(ni. 12-8 [as read])*
+
+[The Nirukta clause is read letter by letter from the print and is doubtful [?]; the Kannada gives its sense:] "From the root *uchī*, whose sense is 'to drive away', the Uṣas known through the word — she is in the middle region (atmosphere), pouring the waters that are in the clouds: she shines in the form of a deity, which is the alternative [that Yāska offers]."
+
+> उषस्तच्चित्रमा भरास्मभ्यं वाजिनीवति ।
+> येन तोकं च तनयं च धामहे ॥
+> (ऋ. सं. १-९२-१३ [as read])
+
+> *uṣastaccitramā bharāsmabhyaṃ vājinīvati |*
+> *yena tokaṃ ca tanayaṃ ca dhāmahe ‖*
+> *(ṛ. saṃ. 1-92-13 [as read])*
+
+"In this Ṛk a prayer is made that wealth, cattle, sons, etc., that is common to both (kinds of Uṣas), be bestowed.
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
+> निष्कृण्वाना आयुधानीव धृष्णवः प्रति गावोऽरुषीर्यन्ति मातरः ॥
+> (ऋ. सं. १-९२-१ [as read])
+
+> *etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate |*
+> *niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ prati gāvo 'ruṣīryanti mātaraḥ ‖*
+> *(ṛ. saṃ. 1-92-1 [as read])*
+
+In this Ṛk it is said '*pūrve arddhe antarikṣalokasya*': *pūrvārdha* means the atmospheric world; they explain that *ketu* here, for the word *ketu*, means 'knowledge', and for *gāvaḥ* 'rays': this Uṣas goddess, who shines by the Sun, performs two kinds of functions by two forms — thus he explains."
+
+**स्वधाभिः** — *Svadhābhiḥ* — "*ātmīyais tejobhiḥ*": "by her own splendours. The word *svadhā* is read among the twenty-eight [as read] names of food (Ni. 2-7 as read [?]) and among the hundred-and-one names of water (Ni. 1-12 as read [?]); but here both Sāyaṇa and Skandasvāmin explain the meaning as 'splendour'."
+
+**मघोनी उषाः** — *Maghonī uṣāḥ* — "(*dhanavatī*)": "these words are not stated in the Nirukta among the words for Uṣas, but are used here in the meaning 'Uṣas'."
+
+### Printed p. 66  (PDF 86; header "Maṃ. 1 A. 16 Sū. 113")
+
+**द्यून्** — *Dyūn* — "*divasān*", days. The Nirukta-writer:
+
+> द्युरित्यह्नो नामधेयं द्योतते इति सतः [?] । (नि. १-९ [as read])
+
+> *dyurityahno nāmadheyaṃ dyotate iti sataḥ [?] | (ni. 1-9 [as read])*
+
+"Because the word *dyu* has the meaning 'lustrous', it denotes the meaning 'day'; because the word *dyu* is stated among the twelve names of day (*ahar*) (Ni. 3-9 as read [?]), the meaning is 'day'; and he explains in the Ṛk
+
+> त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
+> त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥
+> (ऋ. सं. २-१-१)
+
+> *tvamagne dyubhistvamāśuśukṣaṇistvamadbhyastvamaśmanaspari |*
+> *tvaṃ vanebhyastvamoṣadhībhyastvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ‖*
+> *(ṛ. saṃ. 2-1-1)*
+
+[the word] *dyubhiḥ* as *ahobhiḥ* (Ni. 6-1 as read [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 13; grammar page, noted briefly)**
+
+Grammar page on *uvāsa* (*vas* "to dwell", *liṭ* 3rd singular; *ṇal* for *tip* by *parasmaipadānāṃ ṇalatusus…*; with the *liṭ* ending *kit*-like, doubling of the root; the reduplication by *ādir hal-śeṣaḥ*; *saṃprasāraṇa* by *liṭy abhyāsasyobhayeṣām*; *pūrvarūpa* by *saṃprasāraṇāc ca*; *vṛddhi* of the penultimate by *ata upadhāyāḥ*; nighāta), *āvaḥ* (*vas* "to dwell"! as printed here; aorist 3rd singular *tip*; elision of the *i* by *itaś ca*; the *vikaraṇa* elided by *bahulaṃ chandasi*; elision of *tip* after the consonant by *hal-ṅyābbhyaḥ…*; the augment by *chandasy api dṛśyate*; *s* → *ru* → visarga; nighāta), *ucchāt* (*uchī* "to dispel", *leṭ* 3rd singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*; the augment *aṭ* by *leṭo 'ḍāṭau*; nighāta), *uttarān* (in the comparative sense *tarap* by *dvivacanavibhajyopapade tarabīyasunau*; *pit*, hence unaccented; plural; with *anu* following, *n* becomes *ru* by *dīrghād aṭi samānapāde*, the preceding *a* becomes nasal by *ato 'ṭi nityam*). *(Printed "vas nivāse" under* āvaḥ *as in the print — probably for* vṛ*, as the bhāṣya says; noted as printed [?].)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–12 complete; Ṛk 13 through printed p. 66 (PDF 86): Special Topics (*uṣāḥ* Nirukta, *svadhābhiḥ*, *maghonī*, *dyūn*) and grammar page begun (continues p. 67). Next: printed p. 67 (PDF 87). Open: Nirukta clause on p. 65 `[?]`; Ni. numerals as read.
