@@ -7801,4 +7801,66 @@ cites this Ṛk. In it he gives the meaning: those who perform sacrifices or obs
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–3 complete; Ṛk 4 through the printed English on p. 325 (PDF 345): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 326 (PDF 346) — Ṛk 4 Special Topics and grammar. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
+### Printed p. 326  (PDF 346; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अश्वं न दंसोभिः सं रिणीथः** — *Aśvaṃ na daṃsobhiḥ saṃ riṇīthaḥ* — "*vyādhitam aśvam iva aśvinyair bhaiṣajyarūpaiḥ karmabhiḥ samadhattaṃ sarvair avayavair upetam akurutam ity arthaḥ*": "as one makes a sick horse sound — healing, by acts in the form of medicine, with all its limbs complete — [you did so to Rebha]. The word *daṃsa* is stated among the twenty-six [as read] names of work (Ni. 2-?? as read [?]). The Asuras bound the ṛṣi named Rebha with ropes and threw him into a well; seeing that his limbs were in danger of destruction [*apāya*], the Aśvin deities raised him from the well, and, as one raises up a horse that has fallen into [a pit] and treats it with herbs and the like, they made medicine for the ṛṣi Rebha, treated him, and protected him so that he was in health: thus it is described."
+
+**वां पूर्व्या कृतानि न जूर्यन्ति** — *Vāṃ pūrvyā kṛtāni na jūryanti* — "*yuvayoḥ sambandhīni cirantanāni karmāṇi na jīrṇāni bhavanti*": "the earlier acts of kindness done by the Aśvin deities in former times are never forgotten; the power of the Aśvin deities, and their nature of protecting with compassion those who are in difficulty, are described here. Skandasvāmin: '*na vāṃ yuvayoḥ jūryanti jīryante vinaśyantīty arthaḥ pūrvyā pūrvam iti purāṇanāma*' — the word *pūrva* is a name for 'ancient'. Explaining the meaning as Sāyaṇa does, '*kṛtāni karmāṇi*', he says that the acts done by the Aśvins in protecting those who were in distress are never destroyed but remain as examples; and the Itihāsa of Rebha, told in this Ṛk, is also told in
+
+> दश रात्रीरशिवेना नव द्यूनवनद्धं श्नथितमप्स्वन्तः ।
+> विप्रुतं रेभमुदनि प्रवृक्तमुन्निन्यथुः सोममिव स्रुवेण ॥
+> (ऋ. सं. १-११६-२४ [as read])
+
+> *daśa rātrīraśivenā nava dyūnavanaddhaṃ śnathitamapsvantaḥ |*
+> *viprutaṃ rebhamudani pravṛktamunninyathuḥ somamiva sruveṇa ‖*
+> *(ṛ. saṃ. 1-116-24 [as read])*
+
+— this Ṛk is cited."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly)**
+
+*gūḷham* (*guhū* "to cover", *niṣṭhā*, *kta*, Pā. 3-2-102 as read [?]; *yasya vibhāṣā*, Pā. 7-2-15 as read [?], the *iṭ* does not arise; *hoḍhaḥ*, Pā. 8-2-31 as read [?], *gh* for the root's *h*; *jhaṣas tathor dho 'dhaḥ*, Pā. 8-2-40 as read [?], *dh* for the *t*; *ṣṭutva*… *ḍhatva*; *ḍho ḍhe lopaḥ*, Pā. 8-3-13 as read [?], elision of the former *ḍh*; *ḍhralope pūrvasya dīrgho 'ṇaḥ*, Pā. 6-3-111 as read [?], lengthening of the preceding *u*; final accent from the suffix); *durevaiḥ* (the prefix *dur*; with the word *dur* as *upapada*, *iṇ* "to go", the root takes *īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal*, Pā. 3-3-126 as read [?], the suffix *khal*; guṇa of the root; *liti*, Pā. 6-1-193 as read [?], *udātta* on the syllable before the suffix; instrumental plural).
+
+### Printed p. 327  (PDF 347; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(…the accent being on the syllable before the suffix, by *liti*, Pā. 6-1-193 as read [?].)* *Grammar page of Ṛk 4, continued:* *narā* (*nī* "to lead"; *ṛdor ap*, Pā. 3-3-57 as read [?], *ap*; guṇa of the root; dual with *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā*; nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *apsu* (*ūḍidaṃpadādi…*, Pā. 6-1-171 as read [?], the locative plural ending takes *udātta*); *riṇīthaḥ* (*rī* "to go, to injure", kryādi; *laṭ* 2nd dual *thas*; *kryādibhyaḥ śnā*, Pā. 3-1-81 as read [?], *śnā*; *prādīnāṃ hrasvaḥ*, Pā. 7-3-80 as read [?], shortening of the root's vowel; *sārvadhātukam apit* makes the *śnā* *ṅit*-like; *ī halyaghoḥ*, Pā. 6-4-113 as read [?], *ī* for the *ā* of *śnā* before a consonant-initial suffix; *aṭkupvāṅnumvyavāye 'pi*, Pā. 8-4-2 as read [?], *ṇatva*; nighāta after an accented word); *viprutam* (*pruj* "to go"; *niṣṭhā*, *kta*; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix *vi* keeps its accent); *jūryanti* (*jṝṣ* "to grow old", divādi; *laṭ* 3rd plural *jhi*; *jho 'ntaḥ*, Pā. 7-1-3 as read [?], *ant* for *jh*; *divādibhyaḥ śyan*, Pā. 3-1-69 as read [?], *śyan* as *vikaraṇa*; *bahulaṃ chandasi*, *ut* for the root's *ṛ*; *uraṇ raparaḥ*, with *raparatva*; *hali ca*, Pā. 8-2-77 as read [?], lengthening of the penultimate vowel before a consonant, after the *r*-ending; nighāta since a *tiṅ* follows an accented word); *pūrvyā* (in the neuter plural, with *śi* substituted and thus in a plain form, *śeś chandasi bahulam*, Pā. 6-1-70 as read [?], the elision of *śi*). ‖ 4 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 5
+
+### Printed p. 328  (PDF 348; header "Maṃ. 1 A. 17 Sū. 117")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.5)**
+
+> सुषुप्वांसं न निरृतेरुपस्थे सूर्यं न दस्रा तमसि क्षियन्तम् ।
+> शुभे रुक्मं न दर्शतं निखातमुदूपथुरश्विना वन्दनाय ॥ ५ ॥
+
+> *suṣupvāṃsaṃ na nirṛterupasthe sūryaṃ na dasrā tamasi kṣiyantam |*
+> *śubhe rukmaṃ na darśataṃ nikhātamudūpathuraśvinā vandanāya ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.5)**
+
+> सुसुप्वांसम् । न । निःऽऋतेः । उपऽस्थे । सूर्यम् । न । दस्रा ।
+> तमसि । क्षियन्तम् ।
+> शुभे । रुक्मम् । न । दर्शतम् । निऽखातम् । उत् । ऊपथुः ।
+> अश्विना । वन्दनाय ॥ ५ ॥
+
+> *susupvāṃsam | na | niḥ 'ṛteḥ | upa 'sthe | sūryam | na | dasrā |*
+> *tamasi | kṣiyantam |*
+> *śubhe | rukmam | na | darśatam | ni 'khātam | ut | ūpathuḥ |*
+> *aśvinā | vandanāya ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.5)**
+
+> निरृतिरिति भूनाम । निरृतेः पृथिव्या उपस्थ उत्सङ्गे सुषुप्वांसं सुप्तवन्तं पुरुषमिव कूपमध्ये शयानं सूर्यं न सूर्यमिव । तमसि कूपान्तर्गतान्धकारे क्षियन्तं निवसन्तं सूर्यमिव तेजस्विनमित्यर्थः । शुभे शोभार्थं निर्मितं रुक्मं न रोचमानं सुवर्णमयाभरणमिव दर्शतं दर्शनीयं एवंगुणविशिष्टं कूपे ऽसुरैर्निखातं वन्दनाय वन्दनमृषिं हे दस्रा दर्शनीयावश्विना युवामुदूपथुः । उद्धृतवन्तौ ॥ सुषुप्वांसम् । ञिष्वप शये । लिटः क्वसुः । वचिस्वपीत्यादिना सम्प्रसारणं द्विर्वचनादि । उपस्थे । उपपूर्वात्तिष्ठतेः र्थे [?] कविधानमित्यधिकरणे कप्रत्ययः । मरुद्वृधादित्वात्पूर्वपदान्तोदात्तत्वम् । वन्दनाय । क्रियाग्रहणं कर्तव्यमिति कर्मणः सम्प्रदानत्वाच्चतुर्थी ॥ [small type; partly doubtful [?]]
+
+> *nirṛtiriti bhūnāma | nirṛteḥ pṛthivyā upastha utsaṅge suṣupvāṃsaṃ suptavantaṃ puruṣamiva kūpamadhye śayānaṃ sūryaṃ na sūryamiva | tamasi kūpāntargatāndhakāre kṣiyantaṃ nivasantaṃ sūryamiva tejasvinamityarthaḥ | śubhe śobhārthaṃ nirmitaṃ rukmaṃ na rocamānaṃ suvarṇamayābharaṇamiva darśataṃ darśanīyaṃ evaṃguṇaviśiṣṭaṃ kūpe 'surairnikhātaṃ vandanāya vandanamṛṣiṃ he dasrā darśanīyāvaśvinā yuvāmudūpathuḥ | uddhṛtavantau ‖ suṣupvāṃsam | ñiṣvapa śaye | liṭaḥ kvasuḥ | vacisvapītyādinā samprasāraṇaṃ dvirvacanādi | upasthe | upapūrvāttiṣṭhateḥ rthe [?] kavidhānamityadhikaraṇe kapratyayaḥ | marudvṛdhāditvātpūrvapadāntodāttatvam | vandanāya | kriyāgrahaṇaṃ kartavyamiti karmaṇaḥ sampradānatvāccaturthī ‖ [small type; partly doubtful [?]]*
+
+*Sense (mine):* "*Nirṛti* is a name for the earth. In the lap (*upastha*) of Nirṛti, the earth, *suṣupvāṃsam*, like a sleeping man, lying in the middle of a well — *sūryaṃ na* — like the Sun; *tamasi* — in the darkness within the well, *kṣiyantam*, dwelling: [shining] like the Sun, that is, brilliant. *Śubhe* — for beauty — *rukmaṃ na*, like a shining golden ornament, *darśatam*, beautiful to see — [such a one], *nikhātam*, buried in the well by the Asuras, *vandanāya*, Vandana the ṛṣi: O *dasrā*, beautiful Aśvins, you *udūpathuḥ*, drew up."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–4 complete; Ṛk 5 Saṃhitā, Pada and bhāṣya written (printed p. 328, PDF 348). Next: printed p. 329 (PDF 349) — Ṛk 5 pratipadārtha, bhāvārtha, English, Special Topics, grammar. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
