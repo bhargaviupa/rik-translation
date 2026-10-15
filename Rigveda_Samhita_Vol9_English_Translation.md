@@ -13606,4 +13606,104 @@ Since *satyaṃ vā yajñaṃ vā* is explained (Ni. 4-?? [as read]), the word *
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–8 complete; Ṛk 9 through printed p. 577 (PDF 597): all parts except the end of its grammar (continues p. 578). Next: printed p. 578 (PDF 598). Six Ṛks (10–15) remain after Ṛk 9. Numerals as read: Ni. 5-3, Uṇ. 2-67, Ṛ. 2-32-? `[as read]`.
+### Printed p. 578  (PDF 598; header "Maṃ. 1 A. 18 Sū. 121")
+
+*Grammar of Ṛk 9, concluded (noted briefly):* *anantaiḥ* (*na vidyate antaḥ yeṣāṃ*; *nañsubhyām*, Pā. 6-2-172, final acute) · *pariyāsi* (*yā prāpaṇe*, *laṭ*, second singular; no *nighāta* because *yatra* is connected, Pā. 8-1-30; *tiṅ ca udāttavati*, Pā. 8-1-71, the *gati* *pari* is wholly *anudātta*) · *vadhaiḥ* (*hana hiṃsāgatyoḥ*; *hanaś ca vadhaḥ*, Pā. 3-3-76, *ap* in the instrument sense with *vadha* substituted; *ato lopaḥ*; *anudāttasya ca yatrodāttalopaḥ*, Pā. 6-1-161; instrumental plural). ‖ 9 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.10)**
+
+> पुरा यत्सूरस्तमसोऽपीतेस्तमद्रिवः फलिगं हेतिमस्य ।
+> शुष्णस्य चित्परिहितं यदोजो दिवस्परि सुग्रथितं तदादः ॥ १० ॥
+
+> *purā yatsūrastamaso 'pītestamadrivaḥ phaligaṃ hetimasya |*
+> *śuṣṇasya citparihitaṃ yadojo divaspari sugrathitaṃ tadādaḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.10)**
+
+> पुरा । यत् । सूरः । तमसः । अपिऽइतेः । तम् । अद्रिऽवः ।
+> फलिऽगम् । हेतिम् । अस्य ।
+> शुष्णस्य । चित् । परिऽहितम् । यत् । ओजः । दिवः । परि ।
+> सुऽग्रथितम् । तत् । आ । अदः ॥ १० ॥
+
+> *purā | yat | sūraḥ | tamasaḥ | api 'iteḥ | tam | adri 'vaḥ |*
+> *phali 'gam | hetim | asya |*
+> *śuṣṇasya | cit | pari 'hitam | yat | ojaḥ | divaḥ | pari |*
+> *su 'grathitam | tat | ā | adaḥ ‖ 10 ‖*
+
+---
+
+### Printed p. 579  (PDF 599; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.10)** *(small type; read with some doubts)*
+
+> पुरा यद्यदा सूरः सूर्यस्तमसस्तमोरूपस्य शुष्णस्यासुरस्यापीतेः संग्रामान्मुक्तो भवदिति शेषः । तदानीं हे अद्रिवः आदृहृत्यनेनेत्यद्रिर्वज्रः । तद्वन्निन्द्र तं फलिगं मेघनामैतत् । मेघरूपेणावृण्वन्तं हेतिं हन्तारं शुष्णमसुरमस्य निरसितवानसि । यद्वा । अस्य शुष्णस्यासुरस्य हेतिं हननसाधनमायुधं फलिगं मेघलक्षणं प्राभाङ्क्षीरिति शेषः । तथा शुष्णस्य चित् शोषयितुरसुरस्य चेयदोज आच्छादकं बलं दिवस्परि द्योतमानस्य सूर्यस्योपरि परिहितमाच्छादितं सुग्रथितं सुष्ठु सूर्ये सक्तं तदोजस्तत्सूर्यादादः । आदद्यनः । विश्लिष्टं कृतवानसीत्यर्थः ॥ अद्रिवः । छन्दसीर इति मतुपो वत्वम् । मतुवसोरुरिति नकारस्य रुत्वम् । हेतिम् । कृत्यल्युटो बहुलमिति बहुलवचनाद्धन्तेः कर्तरि क्तिन् । ऊतियूतीत्यादौ निपातनाद्रूपसिद्धिरन्तोदात्तत्वं च । अस्य । असु क्षेपणे । लटः सिप् । तस्य व्यत्ययेन ह्यादेशः । अतो हेरिति हेर्लुक् । दिवस्परि । पञ्चम्याः परावध्यर्थ इति विसर्जनीयस्य सत्वम् । आदः । दो विदारणे । लङि सिपि बहुलं छन्दसीति विकरणस्य लुक् । गुणे हल्ङ्याब्भ्य इति सिलोपः ॥ [as read]
+
+> *purā yadyadā sūraḥ sūryastamasastamorūpasya śuṣṇasyāsurasyāpīteḥ saṃgrāmānmukto bhavaditi śeṣaḥ | tadānīṃ he adrivaḥ ādṛhṛtyanenetyadrirvajraḥ | tadvannindra taṃ phaligaṃ meghanāmaitat | megharūpeṇāvṛṇvantaṃ hetiṃ hantāraṃ śuṣṇamasuramasya nirasitavānasi | yadvā | asya śuṣṇasyāsurasya hetiṃ hananasādhanamāyudhaṃ phaligaṃ meghalakṣaṇaṃ prābhāṅkṣīriti śeṣaḥ | tathā śuṣṇasya cit śoṣayiturasurasya ceyadoja ācchādakaṃ balaṃ divaspari dyotamānasya sūryasyopari parihitamācchāditaṃ sugrathitaṃ suṣṭhu sūrye saktaṃ tadojastatsūryādādaḥ | ādadyanaḥ | viśliṣṭaṃ kṛtavānasītyarthaḥ ‖ adrivaḥ | chandasīra iti matupo vatvam | matuvasoruriti nakārasya rutvam | hetim | kṛtyalyuṭo bahulamiti bahulavacanāddhanteḥ kartari ktin | ūtiyūtītyādau nipātanādrūpasiddhirantodāttatvaṃ ca | asya | asu kṣepaṇe | laṭaḥ sip | tasya vyatyayena hyādeśaḥ | ato heriti herluk | divaspari | pañcamyāḥ parāvadhyartha iti visarjanīyasya satvam | ādaḥ | do vidāraṇe | laṅi sipi bahulaṃ chandasīti vikaraṇasya luk | guṇe halṅyābbhya iti silopaḥ ‖ [as read]*
+
+*Sense (mine):* "Formerly, when Sūrya (the Sun) was freed from the battle with *tamas* — the asura Śuṣṇa, who is of the form of darkness (*apīteḥ* — from the battle) — then, O *adrivaḥ* — wielder of the *adri* (thunderbolt: that by which one rends) — Indra, you cleft *phaligam* — [a name for the cloud] — the cloud that covers, the slayer (*hetim*), of this Śuṣṇa. Or: you broke this Śuṣṇa's weapon, the *hetiṃ*, in the form of a cloud. Also *śuṣṇasya cit* — of the withering asura — the covering strength (*ojaḥ*) placed over (*parihitam*) the shining Sun, firmly (*sugrathitam*) fastened on the Sun — you *ādaḥ* — split from the Sun: you separated it."
+
+---
+
+### Printed p. 580  (PDF 600; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.10)** (Kannada, rendered; p. 579 and 580)
+
+*Pura* — formerly; *yat* — when; *sūraḥ* — the Sun; *tamasaḥ* — [freed] from darkness (from the asura of the form of darkness); *apīteḥ* — [freed] from battle (liberated); *(tadā)* — then; *(he) adrivaḥ* — O Indra, wielder of the thunderbolt; *tam phaligam* — that covering cloud; *hetim* — the slayer; *asya* — (of Śuṣṇa) you split; *(tathā)* — likewise; *śuṣṇasya cit* — of the asura Śuṣṇa; *yat ojaḥ* — whatever strength; *divaḥ pari* — over the shining Sun; *parihitam* — placed; *sugrathitam* — well fastened; *tat* — that strength (of the asura); *ādaḥ* — you cut off.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.10)** (Kannada, rendered)
+
+"When the Sun was released after a battle from the covering darkness (the asura who is of the form of darkness), you, wielder of the thunderbolt, split the cloud, [Śuṣṇa's] weapon, that stood in the way of the Sun; you broke, releasing the Sun, the strength, firmly seized, of the asura Śuṣṇa that covered him."
+
+**English Translation (as printed)**
+
+"When the sun (had emerged) from the stuggle [sic] with darkness, you broke, wielder of the thunderbolt, the cloud that had been his annoyance, and sunderred [sic] the well-fastened covering in which Sushna had enveloped him."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 10)**
+
+"In explaining this Ṛk, Sāyaṇa describes that one named Śuṣṇa was an asura and fought Indra, like Vṛtra. The word *phaliga* also he says is a name of the asura, as the word *Śuṣṇa* [is]. Besides explaining it so, he also explains the meaning of the cloud-form."
+
+*Adrivaḥ* — *ādṛṇāti anena iti adriḥ vajraḥ tadvān indraḥ*: "'The word *adri* is stated among the names of cloud (Ni. 1-?? [as read]); *ādṛṇāty aneneti* (Ni. 4-4 [as read]): *adrir ādṛṇāteḥ* — 'the thunderbolt, with which [the cloud] is rent', so thunderbolt is *adri*; *tadvān* — Indra. Or: because it is the stone by which soma is pressed, *adri* is also the pressing stone: *somābhiṣavagrāvabhir… adriḥ*. Or, because of *te somādaḥ*: [the sentence] *te somādo harī indrasya niṃśatīr aṃśum duhanto adhyāsate gavi* (Ṛ. 10-94-? [as read]) — in this Ṛk, the word *adri* in the mantra is explained by Yāska (*asmin mantre atter adrisyād iti*, Ni. ?-?? [as read]): because *adri* is formed also from the root *ad*, 'to eat', *adriḥ* means 'one who eats' — Indra."
+
+*Sūraḥ* — *sūryaḥ tamasaḥ tamorūpasya śuṣṇasya apīteḥ saṅgrāmāt mukto 'bhavat*: "'The Sun, the Indra who stands in the form of the Sun, covers [by] the asura Śuṣṇa in the form of darkness, [and] winning victories in the battles with Śuṣṇa, who causes affliction to the world, he shone in the form of the Sun.'"
+
+---
+
+### Printed p. 581  (PDF 601; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Taṃ phaligaṃ hetim asya* — *meghānām etat; meghe rūpeṇāvṛṇvantaṃ hantāraṃ śuṣṇam asuraṃ nirasitavān asi*: "'the *phaliga* is a name for cloud' (Ni. 1-?? [as read]); 'Śuṣṇa, when covering the Sun, took the shape of a cloud to be his helper; hence Indra destroyed the cloud which was like a weapon of Śuṣṇa'."
+
+*Śuṣṇasya* — *śoṣayitur asurasya*: "'of the asura named Śuṣṇa, who dries up water'. The word *śuṣṇa* is stated among the names of cloud (Ni. 3-?? [as read]):
+
+> न्याविध्यदिलीबिशस्य दृळ्हा वि शृङ्गिणमभिनच्छुष्णमिन्द्रः ।
+> यावत्तरो मघवन्यावदोजो वज्रेण शत्रुमवधीः पृतन्युम् ॥
+> (ऋ. सं. १-३३-१२ [as read])
+
+> *nyāvidhyadilībiśasya dṛḷhā vi śṛṅgiṇamabhinacchuṣṇamindraḥ |*
+> *yāvattaro maghavanyāvadojo vajreṇa śatrumavadhīḥ pṛtanyum ‖*
+> *(ṛ. saṃ. 1-33-12 [as read])*
+
+In this Ṛk the word *śuṣṇa* means 'cloud' (Ni. 6-?? [as read]).
+
+> नि यद्वृणक्षि श्वसनस्य मूर्धनि शुष्णस्य चिद्व्रन्दिनो रोरुवद्वना ।
+> (ऋ. सं. १-५४-५ [as read])
+
+> *ni yadvṛṇakṣi śvasanasya mūrdhani śuṣṇasya cidvrandino roruvadvanā |*
+> *(ṛ. saṃ. 1-54-5 [as read])*
+
+*Śuṣṇasyādityasya śoṣayituḥ* (Ni. ?-?? [as read]) — 'Yāska explains [the word as] the Sun, who dries up water'. Skandasvāmin explains the Ṛk in the same way as Sāyaṇa and tells the history connected with it:
+
+> अत्रेतिहासमाचक्षते । वृत्रः किल सूर्यरोधनसमर्थं तमस्तुस्तान । तं हत्वेन्द्रः तमसो ऽपसनोदनार्थं सूर्यं दिवि आरोहयां चकार । तदेतदत्र सम्यगुक्तम् ।
+> त्वमपामपिधानावृणोरपाधारयः पर्वते दानुमद्वसु ।
+> वृत्रं यदिन्द्र शवसावधीरहिमादित्सूर्यं दिव्यारोहयो दृशे ॥
+> (ऋ. सं. १-५२-६ [as read])
+
+> *atretihāsamācakṣate | vṛtraḥ kila sūryarodhanasamarthaṃ tamastustāna | taṃ hatvendraḥ tamaso 'pasanodanārthaṃ sūryaṃ divi ārohayāṃ cakāra | tadetadatra samyaguktam |*
+> *tvamapāmapidhānāvṛṇorapādhārayaḥ parvate dānumadvasu |*
+> *vṛtraṃ yadindra śavasāvadhīrahimāditsūryaṃ divyārohayo dṛśe ‖*
+> *(ṛ. saṃ. 1-52-6 [as read])*
+
+— 'In this history: Vṛtra covered the Sun with darkness; Indra, having killed him, set the Sun in the sky to drive away the darkness.' Here, along with the darkness-bearing Vṛtra, the *phaliga*, too, became a helper of Śuṣṇa in [darkening the Sun]. Or, in another way [the meaning of the Ṛk is organized]: *phaliga* is a name for cloud; to the cloud which, stopping the water, stood [blocking] the Sun's rays, formerly [and to the darkness] you hurled the thunderbolt, and the strength, covering all around the Sun's [light], of Śuṣṇa, the withering, you …" *(the page ends; continues p. 582)*
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–9 complete; Ṛk 10 through printed p. 581 (PDF 601): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (nearly done) written; continues p. 582 (rest of Special Topics, grammar). Next: printed p. 582 (PDF 602). Five Ṛks (11–15) remain after Ṛk 10. Numerals as read: Ni. numbers, Ṛ. 1-33-12, 1-54-5, 1-52-6, 10-94-? `[as read]`.
