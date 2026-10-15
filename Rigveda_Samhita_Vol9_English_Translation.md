@@ -2267,4 +2267,90 @@ Grammar page on *syūmanā* (*sivu* "to sew", in the sense of continuation; the 
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–16 complete; Ṛk 17 through printed p. 84 (PDF 104): *asme* in all seven cases done, grammar page begun (continues p. 85). Next: printed p. 85 (PDF 105). Open: Ṛk numerals in the seven examples as read `[?]` (1-163-2, 3-36-10, 6-47-12, 3-31-18, 1-79-4); Pā. numbers as read.
+### Printed p. 85  (PDF 105; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+*Grammar page of Ṛk 17, concluded (noted briefly):* *stavānaḥ* (*ṣṭuñ* "to praise", adādi; *śānac* in the *laṭ* sense; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; the *śānac* is made *ārdhadhātuka* by *chandasy ubhayathā*, Pā. 3-4-117 as read [?], so it is not *jit*… [as printed, compressed]; guṇa of the root's *u*; *av*; the *śānac* is *cit*, yet by *vyatyaya* the first syllable takes the accent; nominative singular); *uccha* (*uchī* "to dispel", *loṭ* 2nd singular; nighāta); *gṛṇate* (*gṝ* "to praise", kryādi; *śatṛ*; *ṭita ātmanepadānāṃ ṭer e*; *prādīnāṃ hrasvaḥ* in the root; *kryādibhyaḥ śnā*; *sārvadhātukam apit* makes the *śatṛ* *ṅit*, so *śnābhyastayor ātaḥ*, Pā. 6-4-112 as read [?], elides the *ā*; with the *ṇatva* of the *n* after *ṛ*; the stem *gṛṇat*; dative singular; the *śatṛ* without *num* is followed by the *ajādi* ending, hence by *śatur anumo nadyajādī*, Pā. 6-1-173 as read [?], the accent is on the ending); *vibhātīḥ* (*bhā* "to shine", *śatṛ*, *ṅīp* by *ugitaś ca*; as before the accent of the *ṅīp* ending by *śatur anumo…*; accusative plural); *asme* (the stem *asmad*; the dative singular *ṅe* following; *supāṃ sulug*, Pā. 7-1-39 as read [?], the *śe* substitution; *śeṣe lopaḥ*, Pā. 7-2-90 as read [?], elision of the part of *asmad* ending in *m* …). ‖ 17 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 18
+
+### Printed p. 86  (PDF 106; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.18)**
+
+> या गोमतीरुषसः सर्ववीरा व्युच्छन्ति दाशुषे मर्त्याय ।
+> वायोरिव सूनृतानामुदर्के ता अश्वदा अश्नवत्सोमसुत्वा ॥ १८ ॥
+
+> *yā gomatīruṣasaḥ sarvavīrā vyucchanti dāśuṣe martyāya |*
+> *vāyoriva sūnṛtānāmudarke tā aśvadā aśnavatsomasutvā ‖ 18 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.18)**
+
+> याः । गोऽमतीः । उषसः । सर्वऽवीराः । विऽउच्छन्ति । दाशुषे । मर्त्याय ।
+> वायोःऽइव । सूनृतानाम् । उत्ऽअर्के । ताः । अश्वऽदाः ।
+> अश्नवत् । सोमऽसुत्वा ॥ १८ ॥
+
+> *yāḥ | go 'matīḥ | uṣasaḥ | sarva 'vīrāḥ | vi 'ucchanti | dāśuṣe | martyāya |*
+> *vāyoḥ 'iva | sūnṛtānām | ut 'arke | tāḥ | aśva 'dāḥ |*
+> *aśnavat | soma 'sutvā ‖ 18 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.18)**
+
+> दाशुषे हवींषि दत्तवते मर्त्याय मनुष्याय यजमानाय गोमतीः गोमद्भिः बहुभिर्गोभिर्युक्ताः सर्ववीराः सर्वैः शरणसमर्थैर्वीरैः शूरैर्युक्ताः या उषसो व्युच्छन्ति । तमो वर्जयन्ति । वायोरिव वायुवत्प्रेरितं [?] प्रवर्तमानानां सूनृतानां स्तुतिरूपाणां वाचामुदर्के समाप्तावश्वदा अश्वानां दात्र्यस्ता उषसः सोमसुत्वा सोमानामभिषोता यजमानोऽश्नवत् । व्याप्नोतु ॥ [a few words doubtful [?]]
+
+> *dāśuṣe havīṃṣi dattavate martyāya manuṣyāya yajamānāya gomatīḥ gomadbhiḥ bahubhirgobhiryuktāḥ sarvavīrāḥ sarvaiḥ śaraṇasamarthairvīraiḥ śūrairyuktāḥ yā uṣaso vyucchanti | tamo varjayanti | vāyoriva vāyuvatpreritaṃ [?] pravartamānānāṃ sūnṛtānāṃ stutirūpāṇāṃ vācāmudarke samāptāvaśvadā aśvānāṃ dātryastā uṣasaḥ somasutvā somānāmabhiṣotā yajamāno 'śnavat | vyāpnotu ‖ [a few words doubtful [?]]*
+
+*Sense (mine):* "To the mortal (*martyāya*), man, the sacrificer (*dāśuṣe*) who has given oblations: the Uṣases that dawn (*vyucchanti*, drive out darkness), *gomatīḥ* — possessing many cows, *sarvavīrāḥ* — possessed of all the heroes, valiant men able to protect; *vāyor iva* — as of the wind, impelled, moving *sūnṛtānām* — of the speeches in the form of praise, at the *udarke*, at the completion [of the hymns]: those Uṣases that give horses (*aśvadāḥ*) — may the Soma-presser (*somasutvā*), the sacrificer, attain (*aśnavat*), obtain them."
+
+*Grammatical tail (characterized, not transcribed):* *dāśuṣe* (*dāś* "to give", *kvasu* suffix, with the *nipāta* accent; dative singular with *vasoḥ saṃprasāraṇam*; *ṣatva* by *śāsivasighasīnāṃ ca*); *aśnavat* (*aśū* "to pervade", *leṭ*, by *vyatyaya* the *parasmaipada*; the augment *aṭ* in the *leṭ*; elision of the *i* of the ending by *itaś ca*); *somasutvā* (*ṣuñ* "to press", *kvanip* by *anyebhyo 'pi dṛśyante*; *ṭuk* augment *hrasvasya piti kṛti tuk*).
+
+---
+
+### Printed p. 87  (PDF 107; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed])
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*dāśuṣe* — to the sacrificer who offers oblations; *martyāya* — to the sacrificer who is a man; *gomatīḥ* — endowed with rays; *sarvavīrāḥ* — joined with strong men, able in every way; *yāḥ uṣasaḥ* — whichever Uṣases; *vāyor iva* — like the wind (moving swiftly); *sūnṛtānām* — of speeches of praise; *udarke* — at the end; *aśvadāḥ* — those who give horses; *tāḥ* — those Uṣases; *somasutvā* — the sacrificer who prepares the Soma juice; *aśnavat* — may he obtain, may he come near (to him)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"In the sacrifice the sacrificers and others praise the shining Uṣas deities with mantras that are quickly recited. After the end of their praise, may the Uṣas deity, who bestows wealth, such as horses, on the praiser, come near the sacrificer who has prepared the Soma and is awaiting [her]."
+
+**English Translation (as printed)**
+
+> May he who has offered the libation obtain, upon the conclusion of his praises, (enunciated), like the wind, (with speed), (the favour of) those Ushasas who are givers of horses, and of cattle, and of progeny, and who shed light upon the mortal presenting to them (offerings).
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**दाशुषे** — *Dāśuṣe* — "*havīṃṣi dattavate*": "to the sacrificer who offers oblations — this is the meaning. That *dāśvān*, *sāhvān*, and *mīḍhvān* [as printed: *dāśvān sāhvān mīḍhvāṃś ca*] are irregularly formed (*nipātita*) [by the grammarians]. The Nirukta-writer explains the word *dāśuṣe* as '*dattavate*' (to him who has given) and cites the Ṛk —
+
+> धाता ददातु दाशुषे प्राचीं जीवातुमक्षिताम् ।
+> वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ॥
+> (अथ. सं. ७-१२-३ [as read; Atharvaveda, [?]])
+
+> *dhātā dadātu dāśuṣe prācīṃ jīvātumakṣitām |*
+> *vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ ‖*
+> *(atha. saṃ. 7-12-3 [as read; Atharvaveda, [?]])*
+
+as an example."
+
+**दाशुषे मर्त्याय** — *Dāśuṣe martyāya* — "*dāśvān iti yajamānanāma śākapūṇinā paritam* [reading of the last word doubtful [?]]; *tādarthye caturthī yajamānasya mānuṣasya cārthāya*": Skandasvāmin says that the word *dāśvān* is the name of the sacrificer (*yajamāna*) — this is the view of Śākapūṇi; the fourth case is in the sense of 'for the sake of' [*tādarthya*]: 'for the sake of the sacrificer who is a man'.
+
+### Printed p. 88  (PDF 108; header "Maṃ. 1 A. 16 Sū. 113")
+
+**गोमतीः** — *Gomatīḥ* — "*gomatyaḥ bahubhir gobhir yuktāḥ*": "possessing many cows. As is said in the Nirukta, '*aruṇo gāva uṣasām*' ('the red cows of the Uṣases'): because the Uṣases harness to their chariot cows of red colour, Skandasvāmin explains that the Uṣases are 'those who have cows'. The Nirukta-writer, explaining that the word *go* has many meanings — the earth (*pṛthivī*), the skin of a cow, [*śleṣman* (phlegm) [?]], the bow-string (*maurvī*, *jyā*), the rays of the Sun — gives different examples for each meaning."
+
+**सर्ववीराः** — *Sarvavīrāḥ* — "*sarvaiḥ śaraṇasamarthair vīraiḥ śūraiḥ yuktāḥ*": "joined with all heroes, who can offer protection: the Uṣases are joined with strong, courageous men in every way, who go forward."
+
+**उदर्के** — *Udarke* — "*samāptau*": "at the end. *Sūnṛtānām udarke*: at the end of the sentences of the form of *stotras*, so Sāyaṇa says: '*udarka ity ūrdhva ucyate yadvā yadvāyor* [?] …' [the Sanskrit here is in small type and broken; I give its sense]: 'at the time of the dawn (*prabhātavelāyām*) of the (praise) words'. Skandasvāmin says: 'in the morning twilight, which has continuous production of *stotras*, like the rush of the wind' [as the Kannada has it]. The Uṣases having risen in time, the people in the sacrificial halls praise [her] with *stotras* hurriedly; therefore the morning that follows the passing of Uṣas also has the *stotra*-words produced — this is the idea."
+
+**अश्वदाः** — *Aśvadāḥ* — "*aśvānāṃ dātrīḥ*": "the Uṣases give horses to the sacrificer who performs the sacrifice — so says Sāyaṇa. Skandasvāmin: the Uṣases give horses, etc., to the singers of *stotras* and to those who sacrifice (*yaṣṭṛ*); or, in the giving of the *dakṣiṇā*, because the giving of horses is also prescribed, '*aśvadā*' is an adjective of *somasutvā* — not of Uṣas: *aśvasya dātā yajamānaḥ*. Because the sacrificer who presses the Soma gives a horse when giving the *dakṣiṇā*, they are 'donors of horses'; the word *aśvadā* does not qualify Uṣas. He explains that it means the sacrificer who is the donor of horses."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 18; grammar page, noted briefly)**
+
+Grammar page begun: *gomatīḥ* (*gāvaḥ āsāṃ santi* — *matup* by *tad asyāsty asmin* … *iti matup*, Pā. 5-2-94 as read [?]; *ugit*-hence unaccented; the feminine; the nominative/accusative plural *jas*/*śas*, with the lengthening of the preceding by *supāṃ sulug* (*pūrvasavarṇadīrgha*), Pā. 7-1-39 as read [?]). *(Continues on the next page.)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–17 complete; Ṛk 18 through printed p. 88 (PDF 108): pratipadārtha, bhāvārtha, English, Special Topics (*dāśuṣe*, *gomatīḥ*, *sarvavīrāḥ*, *udarke*, *aśvadāḥ*), grammar page begun (continues p. 89). Next: printed p. 89 (PDF 109). Open: *udarke* passage in small type `[?]`; Atharvaveda ref `[?]`; *śākapūṇinā paritam* `[?]`.
