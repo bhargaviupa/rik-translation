@@ -13786,4 +13786,98 @@ In this Ṛk the word *śuṣṇa* means 'cloud' (Ni. 6-?? [as read]).
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–10 complete; Ṛk 11 through printed p. 585 (PDF 605): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 586). Next: printed p. 586 (PDF 606). Four Ṛks (12–15) remain after Ṛk 11. Numerals as read: Tai. Saṃ. 2-3-2-6, Ni. numbers `[as read]`.
+### Printed p. 586  (PDF 606; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 11, concluded)* "… the root *śīṅ* here indicates a place; so *āśayāna* [means] 'lying in' — like *jalāśaya*, *āmāśaya*. *Sirā* means 'rivers'; by the word *nadī* [Skandasvāmin means] the waters connected with rivers. He explains that the asura Vṛtra lay covered in river-waters; and he is described as having the form of a boar (*varāha*). The ṛṣi Hiraṇyastūpa has told this matter, and he quotes the Ṛk:
+
+> अतिष्ठन्तीनामनिवेशनानां काष्ठानां मध्ये निहितं शरीरम् ।
+> वृत्रस्य निण्यं वि चरन्त्यापो दीर्घं तम आशयदिन्द्रशत्रुः ॥
+> (ऋ. सं. १-३२-१० [as read])"
+
+> *atiṣṭhantīnāmaniveśanānāṃ kāṣṭhānāṃ madhye nihitaṃ śarīram |*
+> *vṛtrasya niṇyaṃ vi carantyāpo dīrghaṃ tama āśayadindraśatruḥ ‖*
+> *(ṛ. saṃ. 1-32-10 [as read])"*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar pages, noted briefly; sūtra numbers as read)**
+
+*Mahī* (*mahatī*, loss of *t* by Vedic usage; *mahī* + *au*, *supāṃ sulug*, Pā. 7-1-39, *pūrvasavarṇadīrgha*) · *pājasī* (*pājas* conveys strength; here, by transference, 'possessing it'; with the dual *au*, *īyoḍiyājīkārāṇām upasaṅkhyānam*, *ī* substituted) · *acakre* (*nañsubhyām*, Pā. 6-2-172, final acute) · *dyāvākṣāmā* (*dyauś ca kṣamā ca*; *divo dyāvā*, Pā. 6-3-29, *dyāvā* substituted; *devatādvandve ca*, Pā. 6-2-141, both members keep their accent; *supāṃ sulug*) · *madatām* (*madī harṣe*, *laṅ*, second dual, *tasthasthamipāṃ tāṃtamtāmaḥ*, *tām* by Pā. 3-4-101; by *vyatyaya* *śap* in place of *śnu*; no augment) · *karman* (locative singular, *supāṃ sulug*, *luk*) · *āśayānam* (*śīṅ svapne*; *cānaś* in the sense of the present; *śīṅaḥ sārvadhātuke guṇaḥ*, Pā. 7-4-21, *guṇa*, *ay*; the *kṛdanta* keeps natural accent) · *mahaḥ* (*mahataḥ*; or *maha pūjāyām*, *kvip ca*, Pā. 3-2-76; genitive [for the instrument], *ṣaṣṭhī śeṣe*, Pā. 2-3-50) · *siṣvapaḥ* (*ṣiṣvapa śaye*; *hetumati ca*, *ṇic*; *laṅ*, *sip*; *ṇiśrisrubhyaḥ kartari caṅ*, Pā. 3-1-48; by *saṃjñāpūrvako vidhir anityaḥ* no *saṃprasāraṇa*; doubling *ślau*, Pā. 6-1-10, *sanvallaghuni*, Pā. 7-4-93, the reduplicative *a* → *i*; *ṇer aniṭi*, Pā. 6-4-51; *ru*, *visarga*; *nighāta*). ‖ 11 ‖
+
+---
+
+### Printed p. 587  (PDF 607; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.12)**
+
+> त्वमिन्द्र नर्यो या अवो नॄन्तिष्ठा वातस्य सुयुजो वहिष्ठान् ।
+> यं ते काव्य उशना मन्दिनं दाद्वृत्रहणं पार्यं ततक्ष वज्रम् ॥ १२ ॥
+
+> *tvamindra naryo yā avo nṝntiṣṭhā vātasya suyujo vahiṣṭhān |*
+> *yaṃ te kāvya uśanā mandinaṃ dādvṛtrahaṇaṃ pāryaṃ tatakṣa vajram ‖ 12 ‖*
+
+---
+
+### Printed p. 588  (PDF 608; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.12)**
+
+> त्वम् । इन्द्र । नर्यः । यान् । अवः । नॄन् । तिष्ठ । वातस्य ।
+> सुऽयुजः । वहिष्ठान् ।
+> यम् । ते । काव्यः । उशना । मन्दिनम् । दात् । वृत्रऽहनम् ।
+> पार्यम् । ततक्ष । वज्रम् ॥ १२ ॥
+
+> *tvam | indra | naryaḥ | yān | avaḥ | nṝn | tiṣṭha | vātasya |*
+> *su 'yujaḥ | vahiṣṭhān |*
+> *yam | te | kāvyaḥ | uśanā | mandinam | dāt | vṛtra 'hanam |*
+> *pāryam | tatakṣa | vajram ‖ 12 ‖*
+
+*(The printed Saṃhitā reads "nṝn tiṣṭhā", the Pada "nṝn | tiṣṭha"; Sāyaṇa glosses the verb as *ātiṣṭha*, 'mount'.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.12)** *(small type; read with some doubts)*
+
+> हे इन्द्र नर्यो नृभ्यो हितस्त्वं यान्नॄन्नेतॄनश्वानवः अवसि रक्षसि तान्नॄनश्वांस्तिष्ठ । वातस्य तुल्यान् तद्वद्वेगं गच्छतः सुयुजः शोभनं रथेन युज्यमानान् वहिष्ठान् अतिशयेन वोढॄनश्वान् ऽआतिष्ठ । आरोहेत्यर्थः । काव्यः कवेः पुत्र उशना मन्दिनं मदकरं यं वज्रं ते तुभ्यं दात् दत्तवान् तं वज्रं वृत्रहणं वृत्रस्यासुरस्य घातकं पार्यं शत्रूणां पारणे अतिक्रमणे समर्थं च ततक्ष । कृतवानसि ॥ अवः । अवतेर्लेट्यडागमः । इतश्च लोप इतीकारलोपः । वहिष्ठान् । वोढृशब्दात्तृश्छन्दसीष्ठन् । तुरिष्ठेमेयःसु इति तृलोपः । पार्यम् । पार तीर कर्मसमाप्तौ । अस्माण्ण्यन्तादयो यदिति यत् । ततक्ष । तक्षू त्वक्षू तनूकरणे । पुरुषव्यत्ययः ॥ [as read]
+
+> *he indra naryo nṛbhyo hitastvaṃ yānnṝnnetṝnaśvānavaḥ avasi rakṣasi tānnṝnaśvāṃstiṣṭha | vātasya tulyān tadvadvegaṃ gacchataḥ suyujaḥ śobhanaṃ rathena yujyamānān vahiṣṭhān atiśayena voḍhṝnaśvān 'ātiṣṭha | ārohetyarthaḥ | kāvyaḥ kaveḥ putra uśanā mandinaṃ madakaraṃ yaṃ vajraṃ te tubhyaṃ dāt dattavān taṃ vajraṃ vṛtrahaṇaṃ vṛtrasyāsurasya ghātakaṃ pāryaṃ śatrūṇāṃ pāraṇe atikramaṇe samarthaṃ ca tatakṣa | kṛtavānasi ‖ avaḥ | avaterleṭyaḍāgamaḥ | itaśca lopa itīkāralopaḥ | vahiṣṭhān | voḍhṛśabdāttṛśchandasīṣṭhan | turiṣṭhemeyaḥsu iti tṛlopaḥ | pāryam | pāra tīra karmasamāptau | asmāṇṇyantādayo yaditi yat | tatakṣa | takṣū tvakṣū tanūkaraṇe | puruṣavyatyayaḥ ‖ [as read]*
+
+*Sense (mine):* "O Indra, beneficial to men, *nṝn* — the leaders, the horses [or: men] whom you protect, mount (*tiṣṭha*) those horses, *vātasya* — swift as the wind, *suyujaḥ* — easily yoked to the chariot, *vahiṣṭhān* — the best bearers. *Kāvya Uśanā* — Uśanas, the son of Kavi — gave (*dāt*) you the *mandinam* — exhilarating (*vṛtrahaṇam*, slayer of Vṛtra) *pāryam* — able to cross over and overcome enemies — *vajram*, the thunderbolt, which you sharpened (*tataksa*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.12)** (Kannada, rendered)
+
+*(He) indra* — O Indra; *naryaḥ* — beneficial to men; *tvam* — you; *yān nṝn* — which leaders (horses); *avaḥ* — protect; *vātasya* — [swift] as the wind; *suyujaḥ* — easily yoked (to the chariot); *vahiṣṭhān* — (best) bearers of the burden; *tiṣṭha* — mount; *kāvyaḥ* — the son of Kavi; *uśanā* — Uśanas; *mandinam* — exhilarating; *yam* — which thunderbolt; *te* — to you; *dāt* — gave; *(tam)* — that; *vajram* — thunderbolt; *vṛtrahaṇam* — slayer of Vṛtra; *pāryam* — breaker of enemies (capable); *tataksa* — you made.
+
+---
+
+### Printed p. 589  (PDF 609; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.12)** (Kannada, rendered)
+
+"O Indra, beneficial to men! Mount the horses swift as the wind, easily yoked [to the chariot], best bearers of burdens, whom you [yourself] protect; and make the thunderbolt — which Uśanas, the son of Kavi, gave you — the killer of Vṛtra and the breaker of enemies."
+
+**English Translation (as printed)**
+
+"Indra, friend of man, mount the horses whom you cherish, who are fleet as the wind, are easily yoked, and who bear (their burden) well; you have sharpened the foe-destroying thunderbolt, the slayer of vritra, which inspiring (weapon) Usanas, the son of Kavi, gave you."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 12)**
+
+*Pāryam* — *śatrūṇāṃ pāraṇe atikramaṇe samarthaṃ ca*: "'able to overcome and destroy enemies, or able to be superior to enemies' — Sāyaṇa; and Skandasvāmin explains *pālayitāraṃ stotṝṇām* — 'one who protects those who praise' [the sense of the root *pṝ* in *pālana-pūraṇayoḥ*, 'to protect' and 'to fill'], taking Indra as the protector of the praisers."
+
+*Kāvya uśanā vajraṃ dāt* — *kaveḥ putra uśanā vajraṃ dattavān*: "'Śukra, the son of the ṛṣi Kavi (Bhṛgu), gave the thunderbolt to Indra' — so Sāyaṇa. Skandasvāmin:
+
+> अत्रेतिहासमाचक्षते । त्वष्टा इन्द्रार्थं वज्रं चकारेति तद्धिरण्यस्तूपेनोक्तम् ।
+
+> *atretihāsamācakṣate | tvaṣṭā indrārthaṃ vajraṃ cakāreti taddhiraṇyastūpenoktam |*
+
+— quoting the history, and saying that Hiraṇyastūpa has stated the story of how the thunderbolt came to Indra: 'Tvaṣṭṛ the *brahmā* made the thunderbolt for Indra':
+
+> अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष ।
+> वाश्रा इव धेनवः स्यन्दमाना अञ्जः समुद्रमव जग्मुरापः ॥
+> (ऋ. सं. १-३२-२ [as read])
+
+> *ahannahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa |*
+> *vāśrā iva dhenavaḥ syandamānā añjaḥ samudramava jagmurāpaḥ ‖*
+> *(ṛ. saṃ. 1-32-2 [as read])*
+
+— quoting this Ṛk, he says that Uśanas took [the weapon] made by Tvaṣṭṛ the *brahmā* and gave it to Indra: *tvaṣṭṛkṛtaṃ saṃskṛtaṃ dattavān* — 'he gave [it, being] fashioned by Tvaṣṭṛ'. And:
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–11 complete; Ṛk 12 through printed p. 589 (PDF 609): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 590). Next: printed p. 590 (PDF 610). Three Ṛks (13–15) remain after Ṛk 12. Numerals as read: Ṛ. 1-32-10, 1-32-2 `[as read]`.
