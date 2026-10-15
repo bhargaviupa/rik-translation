@@ -3368,4 +3368,150 @@ so a speech addressed to a deity, or a speech uttered with devotion to win the d
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–7 complete; Ṛk 8 Saṃhitā, Pada, bhāṣya done (through printed p. 133, PDF 153). Next: printed p. 134 (PDF 154) — Ṛk 8 pratipadārtha, bhāvārtha, English… Open: numerals as read `[?]`.
+### Printed p. 134  (PDF 154; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he rudra* — O Rudra; *naḥ toke* — in the matter of our sons (offspring); *mā ririṣaḥ* — do not injure; *tanaye mā* — nor [injure] our grandsons; *naḥ āyau mā* — do not injure the people who are ours; *naḥ goṣu* — our cows; *naḥ aśveṣu mā* — nor our horses; *naḥ vīrān* — our heroes; *bhāmitaḥ* — angered; *mā vadhīḥ* — do not kill; (*vayaṃ ca* — we also); *haviṣmantaḥ* — possessing oblations and the like; *sadam it* — always; *tvā* — thee; *havāmahe* — we call (invoke) and worship."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Rudra, do not kill, in anger, our sons, grandsons, other people, cows, horses, or heroes. We always invoke and worship thee with oblations and the like."
+
+**English Translation (as printed)**
+
+> Harm us not, Rudra, in our sons or grandsons, or other male descendants, nor in our cattle, nor in our horses ; inflamed with anger, kill not our valiant men, for we, presenting clarified butter, perpetually invoke you.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**आयौ** — *Āyau* — "the word *āyuḥ* is stated among the twenty-eight [as read] names of food (Ni. 2-7 as read [?]); and *āyus* is also used in the sense of 'span of life'. But Sāyaṇa: '*āyur ity antodāttaḥ manuṣyanāma | putrapautravyatirikto yo 'smadīyaḥ manuṣyas tasmin*' — *āyu*, with the accent on the last syllable, is a name for man: 'in a man of ours who is other than sons and grandsons'. Since the word *āyu* has the accent on the last syllable, here it conveys 'man', he explains: 'our relative, a man other than sons and grandsons'. Skandasvāmin says that since the word *āyuś* is stated among the names of man (Ni. 2-3 as read [?]) as *āyavaḥ*, the word conveys the meaning 'man', explaining *paricārakāḥ* — 'attendants, servants'. The word *āyus* is used in various contexts in different meanings —
+
+### Printed p. 135  (PDF 155; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् ।
+> (ऋ. सं. १-१६२-१ [as read])
+
+> *mā no mitro varuṇo aryamāyurindra ṛbhukṣā marutaḥ pari khyan |*
+> *(ṛ. saṃ. 1-162-1 [as read])*
+
+— in this Ṛk, *āyuḥ* = *satatagantā vāyuḥ* — the wind, whose nature is to be always moving, is the sense in which it is used —
+
+> यमृत्विजो वृजने मानुषासः प्रयस्वन्त आयवो जीजनन्त ।
+> (ऋ. सं. १-६०-३ [as read])
+
+> *yamṛtvijo vṛjane mānuṣāsaḥ prayasvanta āyavo jījananta |*
+> *(ṛ. saṃ. 1-60-3 [as read])*
+>
+> एतानि वामश्विना वीर्याणि प्र पूर्व्याण्यायवोऽवोचन् ।
+> (ऋ. सं. १-११२-२३ [as read])
+
+> *etāni vāmaśvinā vīryāṇi pra pūrvyāṇyāyavo 'vocan |*
+> *(ṛ. saṃ. 1-112-23 [as read])*
+
+— in these Ṛks the Bhāṣyakāra explains *āyavaḥ* as '*manuṣyāḥ*' (men);
+
+> नन्मा मायुः प्र सू तिर कृधी सहस्रसामृषिम् । [as read, [?]]
+> (ऋ. सं. १-६०-११ [as read])
+
+> *nanmā māyuḥ pra sū tira kṛdhī sahasrasāmṛṣim | [as read, [?]]*
+> *(ṛ. saṃ. 1-60-11 [as read])*
+>
+> आहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः ॥
+> (ऋ. सं. १-२४-११ [as read])
+
+> *āheḷamāno varuṇeha bodhyuruśaṃsa mā na āyuḥ pra moṣīḥ ‖*
+> *(ṛ. saṃ. 1-24-11 [as read])*
+>
+> प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ।
+> (ऋ. सं. १-३४-११ [as read])
+
+> *prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā |*
+> *(ṛ. saṃ. 1-34-11 [as read])*
+
+— in these Ṛks and others the word *āyus* is explained as *jīvita*, 'life'.
+
+> ते नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतो जुषन्त ।
+> (ऋ. सं. ३-४६-३ [as read])
+
+> *te no mitro varuṇo aryamāyurindra ṛbhukṣā maruto juṣanta |*
+> *(ṛ. saṃ. 3-46-3 [as read])*
+
+— in this Ṛk the word *āyus* conveys the meaning 'food'.
+
+"In this Ṛk, too, as in the previous Ṛk, the prayer is addressed to Rudra. Sāyaṇa explains that, accepting the locative (*viṣayasaptamī*) for all the seventh-case words here, the prayer is taught in this mantra that Rudra should not harm in matters concerning those men. Skandasvāmin, since the seventh case has the meaning of the second case, explains '*tokaṃ tanayaṃ mā vadhīḥ*' — 'do not kill sons, grandsons and the like'."
+
+**भामितः** — *Bhāmitaḥ* — "*kruddhaḥ*": angry. "Since the word *bhāmate* is read (Ni. 2-?? as read [?]) among the ten [as read] verb-names of the nature of anger (*krodha*), beginning *reḍate*, *heḍate*, the form *bhāmitaḥ* is derived from the root *bhāmu* ('to be angry'). The prayer is made here that Rudra, being angry, should not harm us or the members of our household we have to support,
+
+### Printed p. 136  (PDF 156; header "Maṃ. 1 A. 16 Sū. 114")
+
+**सदमित्** — *Sadamit* — "*sadā*: always (Sā. bhā.). *Sadeśabdaḥ sadety asya paryāyaḥ*. The word *it* has the meaning of *eva* ('indeed'); *sadaiva*, 'always'. The word *sadamit* is used in this meaning elsewhere too —
+
+> देवा नो यथा सदमिद्वृधे असन्नप्रायुवो रक्षितारो दिवे दिवे ।
+> (ऋ. सं. १-८९-१ [as read])
+
+> *devā no yathā sadamidvṛdhe asannaprāyuvo rakṣitāro dive dive |*
+> *(ṛ. saṃ. 1-89-1 [as read])*
+
+— cited as an example. Here the word *sadamit* conveys the meaning *sadaiva*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly)**
+
+*āyau* (*iṇ* "to go"; *chandasīṇaḥ*, Uṇ. 1-2 as printed [?], the suffix *uṇ*; since it is *ṇit* the *vṛddhi* of the *i* by *aco 'ñṇiti*; *āy* substitution before an *ac*, giving *āyu*; accent on the last syllable from the suffix; locative singular); *bhāmitaḥ* (*bhāma* "to be angry"; *krodhikaraṇe ca*, Pā. 3-4-?? as read [?]; *kta* in the agent; *ārdhadhātukasyeḍ valādeḥ*, the augment *iṭ*; final accent from the suffix); *havāmahe* (*hveñ* "to compete, to call", *laṭ* 1st plural *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e*; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *pūrvarūpa* by *saṃprasāraṇāc ca*; *śap*; guṇa of the root's *i*; *ay* substitution; lengthening by *ato dīrgho yañi*, Pā. 7-3-101 as read [?], of the *a*-ending stem before a *yañ*-initial; nighāta). ‖ 8 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 9
+
+### Printed p. 137  (PDF 157; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.9)**
+
+> उप ते स्तोमान्पशुपा इवाकरं रास्वा पितर्मरुतां सुम्नमस्मे ।
+> भद्रा हि ते सुमतिर्मृळयत्तमाथा वयमव इत्ते वृणीमहे ॥ ९ ॥
+
+> *upa te stomānpaśupā ivākaraṃ rāsvā pitarmarutāṃ sumnamasme |*
+> *bhadrā hi te sumatirmṛḷayattamāthā vayamava itte vṛṇīmahe ‖ 9 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.9)**
+
+> उप । ते । स्तोमान् । पशुपाःऽइव । आ । अकरम् । रास्व । पितः । मरुताम् ।
+> सुम्नम् । अस्मे इति ।
+> भद्रा । हि । ते । सुऽमतिः । मृळयत्ऽतमा । अथ । वयम् । अवः ।
+> इत् । ते । वृणीमहे ॥ ९ ॥
+
+> *upa | te | stomān | paśupāḥ 'iva | ā | akaram | rāsva | pitaḥ | marutām |*
+> *sumnam | asme iti |*
+> *bhadrā | hi | te | su 'matiḥ | mṛḷayat 'tamā | atha | vayam | avaḥ |*
+> *it | te | vṛṇīmahe ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.9)** *(the print's sub-heading here reads "Saṃhitā-pāṭhaḥ" — a printer's slip; the text is the bhāṣya)*
+
+> देवसुवां हविःषु रुद्रस्य पशुपतेर्योग उप ते स्तोमानित्यादिके याज्यानुवाक्ये । सूत्रितं च । उप ते स्तोमान् पशुपा इवाकरमिति द्वे । आ. ४-११ [?] । इति ॥
+> हे रुद्र स्तोमान् स्तुतिरूपान्मन्त्रान् ते तुभ्यमुपाकरम् । उपाकरोमि । समर्पयामि । तत्र दृष्टान्तः । पशुपा इव । यथा पशूनां पालयिता गोपः प्रातःकाले स्वस्मै समर्पितान्पशून् सायंकाले स्वामिभ्यः प्रत्यर्पयति एवं कृष्णकाशात्त्वत्तः [?] स्तुतिरूपान्मन्त्रान् स्तुतिसाधनतया तुभ्यं प्रत्यर्पयामीत्यर्थः । हे मरुतां पितर्मरुत्संज्ञानां देवानामुत्पादक रुद्र नोऽस्मभ्यं सुम्नं
+
+> *devasuvāṃ haviḥṣu rudrasya paśupateryoga upa te stomānityādike yājyānuvākye | sūtritaṃ ca | upa te stomān paśupā ivākaramiti dve | ā. 4-11 [?] | iti ‖*
+> *he rudra stomān stutirūpānmantrān te tubhyamupākaram | upākaromi | samarpayāmi | tatra dṛṣṭāntaḥ | paśupā iva | yathā paśūnāṃ pālayitā gopaḥ prātaḥkāle svasmai samarpitānpaśūn sāyaṃkāle svāmibhyaḥ pratyarpayati evaṃ kṛṣṇakāśāttvattaḥ [?] stutirūpānmantrān stutisādhanatayā tubhyaṃ pratyarpayāmītyarthaḥ | he marutāṃ pitarmarutsaṃjñānāṃ devānāmutpādaka rudra no 'smabhyaṃ sumnaṃ*
+
+### Printed p. 138  (PDF 158; header "Maṃ. 1 A. 16 Sū. 114")
+
+> सुखं रास्व । देहि । अपि च ते त्वदीया सुमतिः कल्याणे बुद्धिर्मृळयत्तमा मृडयितृतमा सुखयितृतमा । अत एव भद्रा भजनीया हि । यस्मादेवं तस्माद्वयं ते त्वदीयमवो रक्षणं वृणीमहे । सम्भजामहे ॥ [grammatical tail: *akaram* — *kṛ* in the *luṅ*, the Vedic *luṅlaṅliṭ* for the present, *cli* → *aṅ* by *kṛmṛdṛruhibhyaś chandasi*; guṇa; *pitar* — vocative, nighāta of *pitar marutām*; *asme* — *supāṃ sulug*, the *śe* substitution for the plural dative; *mṛḷayattamā* — *mṛḍ* "to be gracious", *śatṛ* in the *ṇic*; *tamap* with the Vedic accent.]
+
+> *sukhaṃ rāsva | dehi | api ca te tvadīyā sumatiḥ kalyāṇe buddhirmṛḷayattamā mṛḍayitṛtamā sukhayitṛtamā | ata eva bhadrā bhajanīyā hi | yasmādevaṃ tasmādvayaṃ te tvadīyamavo rakṣaṇaṃ vṛṇīmahe | sambhajāmahe ‖ [grammatical tail: *akaram* — *kṛ* in the *luṅ*, the Vedic *luṅlaṅliṭ* for the present, *cli* → *aṅ* by *kṛmṛdṛruhibhyaś chandasi*; guṇa; *pitar* — vocative, nighāta of *pitar marutām*; *asme* — *supāṃ sulug*, the *śe* substitution for the plural dative; *mṛḷayattamā* — *mṛḍ* "to be gracious", *śatṛ* in the *ṇic*; *tamap* with the Vedic accent.]*
+
+*Sense (mine):* "For the *devasuvāṃ haviḥṣu* [offerings] in the Rudra-pasu rite, '*upa te stomān*' is the *yājyā* and *anuvākyā*; and in the Sūtra: '*upa te stomān paśupā ivākaram* — two' (Āś. 4-11 as read [?]). O Rudra, I bring *stomān*, mantras in the form of praise, to thee (*upākaram*): I offer them. An illustration: *paśupā iva* — as a herdsman who protects cattle, having taken in the morning the cattle entrusted to him, returns them in the evening to their owners, so I return to thee, as a means of praising thee, the mantras in the form of praise [which came] from thee. O *pitar marutām*, father of the gods named Maruts, Rudra, *asme*, to us, give *sumnam*, happiness. And thy *sumati*, thy favourable understanding, is *mṛḷayattamā*, the most gracious, the happiness-making; therefore it is *bhadrā*, to be honoured. Since that is so, we *vṛṇīmahe*, we choose, *ava*, thy protection."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he rudra* — O Rudra; *stomān* — the mantras in the form of praise; *paśupā iva* — like a herdsman (who has taken in the morning the cattle he has led off and brings them in the evening and gives them to the owner); *te* — to thee; *upa ā akaram* — I offer (those mantras obtained from thee); *he marutāṃ pitaḥ* — O father of the Maruts; *asme* — to us; *sumnam* — happiness; *rāsva* — give; *te* — thy; *sumatiḥ* — auspicious or favouring thought; *mṛḷayattamā* — extremely happiness-making; *bhadrā hi* — is worthy of being honoured; *atha* — therefore; *vayam* — we; *te avaḥ* — thy protection; *vṛṇīmahe* — pray for (seek)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Rudra, as a cowherd brings back at evening to the owner the cattle taken off in the morning, I offer to thee the mantras in the form of praise obtained from thee. O father of the Maruts, make happiness for us. Because thy favour is most happiness-giving and auspicious, we pray for thy protection."
+
+**English Translation (as printed)**
+
+> I restore to you, the praises (derived from you), as a shepherd (returns his sheep to their owner) ; father of the Maruts, bestow happiness upon me ; your auspicious benignity is the cause of successive delight, therefore we especially solicit your protection.
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–8 complete; Ṛk 9 through the printed English on p. 138 (PDF 158): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 139 (PDF 159) — Ṛk 9 Special Topics and grammar; then Ṛks 10 and 11 (Triṣṭubh), Sūkta 114 ends ≈ p. 148 (115 starts p. 149 per contents). Open: numerals as read `[?]`; *kṛṣṇakāśāt* in the bhāṣya small type `[?]`.
