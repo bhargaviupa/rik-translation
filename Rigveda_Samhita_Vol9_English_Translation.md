@@ -3983,4 +3983,30 @@ where *anīka* means 'rival' [*pratispardhi*] and 'face' [*mukha*]. In this Ṛk
 
 ---
 
-**Progress note:** Sūkta 115: Ṛks 1–2 complete; Ṛk 3 through printed p. 161 (PDF 181): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*aśvāḥ*, *etagvāḥ*, *anumādyāsaḥ*). Next: printed p. 162 (PDF 182). Open: numerals as read `[?]`; Skandasvāmin on *etagvāḥ* `[?]`.
+### Printed p. 162  (PDF 182; header "Maṃ. 1 A. 16 Sū. 115")  [Special Topics of Ṛk 3, concluded]
+
+**दिवः पृष्ठम् आ अस्थुः** — *Divaḥ pṛṣṭham ā asthuḥ* — "*antarikṣasya pūrvabhāgalakṣaṇam upari pradeśaṃ prāptavantaḥ*": "they reach the upper region of the atmosphere, namely the eastern part. Or: the rays that draw up the sap (*rasaharaṇaśīlāḥ*), distinguished by auspiciousness and the rest, mount the sky." "*Namasyantaḥ* — being worthy of salutation, pervasive, praiseworthy, of many colours, moving along the roads of going fixed for each — the horses of the Sun; or the Sun's rays, which draw water, the Sun's rays *and* horses spread in the upper part of the atmosphere over earth, atmosphere and everything at the very rising of the Sun. Since the epithets stated in this Ṛk apply equally to the Sun's rays and horses, the sense is that the Sun, in a chariot yoked with such horses, shines with his rays and moves, as the regulator of time."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly)**
+
+*aśvāḥ* (*aśū* "to pervade"; *kvan* by *aśipruṣikṛṣy…*, Uṇ. 1-?? as read [?]; the first syllable accented by *jñityādir nityam*; nominative plural); *etagvāḥ* (*iṇ* "to go"; *tan* in the passive by *asihasi…*; guṇa of *i*; the form *eta*; *gam* "to go", with the *ḍvanas* Uṇādi suffix in the abstract; the elision of the root's *ṭi* by the capacity of *ḍit*; the form *gva*; *etam etavyam prati gamanaṃ yeṣāṃ te etagvāḥ* — a *bahuvrīhi* whose first member keeps its accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?]); *anumādyāsaḥ* (*madi* "to praise", causative *ṇic* by *hetumati ca*, Pā. 3-1-26 as read [?]; *vṛddhi* of the penultimate by *ata upadhāyāḥ*, Pā. 7-2-116 as read [?]; for the *ac*-ending *māḍi*, *yat* by *aco yat*, Pā. 3-1-97 as read [?]; the elision of *ṇic* by *ner aniṭi*, Pā. 6-4-51 as read [?]; first-syllable accent by *yato 'nāvaḥ*; in the compound with *anu* the first-member accent by *kṛduttarapadaprakṛtisvaratva*; *āc ca* … the augment *asuk* after *jas* by *ājjaser asuk*, Pā. 7-1-50 as read [?]); *namasyantaḥ* (*pūjārthe*, *kyac* by *namovarivaścitraṅaḥ kyac*, Pā. 3-1-19 as read [?]; *vyatyayo bahulam*, Pā. 3-1-85 as read [?], in the passive/active sense; for *laṭ* *śatṛ*;
+
+### Printed p. 163  (PDF 183; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+… *śap*; *ato guṇe*, Pā. 6-1-97 as read [?], *pararūpa*; the nominative plural; since the *sārvadhātuka* is unaccented the *kyac* accent remains); *divaḥ* (accent of the ending by *ūḍidaṃpadādi*, Pā. 6-1-171 as read [?]); *asthuḥ* (*ṣṭhā* "to cease from motion", *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. 3-4-6 as read [?]; 3rd plural *jhi* → *ant* [*jhi* → *jus*] by *āto jusaḥ*, Pā. 3-4-110 as read [?]; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. 2-4-77 as read [?], elision of *sic*; *usya padāntāt*, Pā. 6-1-96 as read [?], *pararūpa*; the augment *aṭ*; *asthuḥ*; nighāta); *yanti* (*iṇ* "to go", adādi; *jhi* → *anti*; *iṇo yaṇ*, Pā. 6-4-81 as read [?], *yaṇ* for *i*; nighāta). ‖ 3 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 115.4)**
+
+> तत्सूर्यस्य देवत्वं तन्महित्वं मध्या कर्तोर्विततं सं जभार ।
+> यदेदयुक्त हरितः सधस्थादाद्रात्री वासस्तनुते सिमस्मै ॥ ४ ॥
+
+> *tatsūryasya devatvaṃ tanmahitvaṃ madhyā kartorvitataṃ saṃ jabhāra |*
+> *yadedayukta haritaḥ sadhasthādādrātrī vāsastanute simasmai ‖ 4 ‖*
+
+---
+
+**Progress note:** Sūkta 115: Ṛks 1–3 complete (through printed p. 163, PDF 183); Ṛk 4 Saṃhitā written. Next: printed p. 164 (PDF 184) — Ṛk 4 Pada, bhāṣya… Open: numerals as read `[?]`.
