@@ -8435,4 +8435,42 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–10 through printed p. 351 (PDF 371): Ṛk 10 complete up to the end of the Special Topics' *sadanam* paragraph (a little more of its Special Topics and grammar may follow on p. 352). Next: printed p. 352 (PDF 372). Open: Nirukta numbers on pp. 350–351 as read `[?]`; Tai. Saṃ. reference `[?]`.
+### Printed p. 352  (PDF 372; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Āṅgūṣam* — *āghoṣaṇīyam*: "Praise (*stuti*) that proclaims quality or fame; this is called by the word *śastra* in the sacrifice. The Nirukta author, explaining the word *āṅgūṣa* as 'a hymn recited loudly and clearly' — *āṅgūṣaḥ stomaḥ āghoṣaḥ* (Ni. 5-11 [as read; ?]) — quotes:
+
+> एनाङ्गूषेण वयमिन्द्रवन्तोऽभि ष्याम वृजने सर्ववीराः ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥
+> (ऋ. सं. १-१०६-१? [as read; last digits doubtful [?]])
+
+> *enāṅgūṣeṇa vayamindravanto 'bhi ṣyāma vṛjane sarvavīrāḥ |*
+> *tanno mitro varuṇo māmahantāmaditiḥ sindhuḥ pṛthivī uta dyauḥ ‖*
+> *(ṛ. saṃ. 1-106-1? [as read; last digits doubtful [?]])*
+
+*Brahma* — *mantrarūpaṃ stotram*: "The word *brahma* is read among the twenty-eight [?] names of wealth (Ni. 2-10 [as read; ?]); so it is used in the sense of 'wealth', but here it is said in the sense of 'hymn'."
+
+"In this Ṛk it is said that the Aśvins are of a nature to show favour and to bring auspiciousness (*kalyāṇa*) towards those of the Aṅgirasa family who praise them, and towards sacrificers; that because of the all-pervading nature that they have as the forms earth, mid-air, day and night, the moon and the sun, and because of their greatness, their power is spread everywhere, so that everyone ought to know their power, fame and the like and praise them; and also that the Aśvins should favour with food, strength and wealth those who know of the Aśvins and praise them, or who sacrifice to them and delight them with oblations."
+
+*Vājam* — *balam annaṃ vā*: "The word *vāja* is stated both among the names of food (Ni. 2-7 [as read]) and among the names of battle (Ni. 2-17 [as read]), so it has many meanings; here it is used in the sense of strength or food."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar pages, noted briefly)**
+
+*Śravasyā* — *śravasi bhavāni śravasyāni*; *bhave chandasi* (Pā. 4-4-110), suffix *yat*; *tit svaritam* (Pā. 6-1-185 [as read]), the *svarita* accent; in the neuter *śi* substituted, giving the form; *śer chandasi bahulam* (Pā. 6-1-70 [as read]), elision of *śi*. *Sadanam* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the sense of location, suffix *lyuṭ*; *yuvoranākau*, *ana* substituted; *lititi* [as read], acute on the syllable before the suffix.
+
+---
+
+### Printed p. 353  (PDF 373; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Pajrāsaḥ* — *pajra* + *jas*; *āj jaser asuk* (Pā. 7-1-50 [as read]), *asuk* as the augment for *jas*; the final *s* becomes *ru*, *visarga*. *Havante* — root *hvel spardhāyāṃ śabde ca*; *laṭ*, third person plural, *jha* replaced by *anta*; *śap* vikaraṇa; *bahulaṃ chandasi*, *saṃprasāraṇa* of the root; *saṃprasāraṇāc ca*, *pūrvarūpa*; *sārvadhātukārdhadhātukayoḥ*, *guṇa*; *av* substituted; *ato guṇe*, *pararūpa*; because the preceding *yat* is there, *nipātair yad yadi…* (Pā. 8-1-30 [as read]) prohibits *nighāta*; since the *lasārvadhātuka* is *anudātta* by the *upadeśa* after the verbal ending, *tāsyanudāttetṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 [as read]), the root's accent remains. *Yātam* — root *yā prāpaṇe*, *adādi*; *loṭ* second person dual; by *cavāyoge prathamā* the *nighāta* is prohibited; by the suffix's accent, the final acute. *Iṣā* — instrumental singular form; *sāvekācas tṛtīyādir viḥ* (Pā. 6-1-168), acute on the case ending. *Viduṣe* — root *vida jñāne*; in the sense of *laṭ*, suffix *śatṛ*; *vider śatur vasuḥ* (Pā. 7-1-36 [as read]), *vasu* substituted; the word *vidvas*; dative singular, with a following case ending, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131 [as read]), *saṃprasāraṇa* of the *v*; *saṃprasāraṇāc ca*, *pūrvarūpa*; *śāsivasighasīnāṃ ca* (Pā. 8-3-60), *ṣatva* of the *s*; by the suffix's accent the vowel *u* is acute. ‖ 10 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.11)**
+
+> सूनोर्मानेनाश्विना गृणाना वाजं विप्राय भुरणा रदन्ता ।
+> अगस्त्ये ब्रह्मणा वावृधाना सं विश्पलां नासत्यारिणीतम् ॥ ११ ॥
+
+> *sūnormānenāśvinā gṛṇānā vājaṃ viprāya bhuraṇā radantā |*
+> *agastye brahmaṇā vāvṛdhānā saṃ viśpalāṃ nāsatyāriṇītam ‖ 11 ‖*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–10 complete (Ṛk 10 grammar done); Ṛk 11 Saṃhitā written (printed p. 353, PDF 373). Next: printed p. 354 (PDF 374): Ṛk 11 Pada onward. Open: Nirukta/Uṇādi/sūtra numbers on pp. 352–353 as read `[?]`.
