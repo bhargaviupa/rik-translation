@@ -12573,4 +12573,64 @@ Skandasvāmin gives a meaning somewhat different from what Sāyaṇa says:
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–9 complete; Ṛk 10 Saṃhitā and Pada written (printed p. 529, PDF 549). Next: printed p. 530 (PDF 550): Ṛk 10 bhāṣya onward, then Ṛks 11–12 and the colophon of Sūkta 120. Numerals as read (no numeral list covers these pages): sūtra numbers on pp. 528–529 `[as read]`.
+### Printed p. 530  (PDF 550; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.10)** *(small type; read with some doubts)*
+
+> वाजिनीवतोः । वाजोऽन्नं बलं वा । तद्वत्योः क्रियावतोरश्विनोरनश्वमश्वरहितमप्यश्वराहित्येऽपि सामर्थ्यातिशयेन गच्छन्तं रथमसनं । अहं स्तोता समभजम् । तेन च रथेन भूरि प्रभूतं श्रेयश्चाकन । कामये । असनं । वन षण संभक्तौ । लङ् । चाकन । कन दीप्तिकान्तिगतिषु । छान्दसो लिट् । तलुत्तमो वा । पा. ३-४-८१ [as read] इति तस्य विकल्पान्नैद्भावः । तुजादित्वाद्भ्यासस्य दीर्घत्वम् ॥ [as read]
+
+> *vājinīvatoḥ | vājo 'nnaṃ balaṃ vā | tadvatyoḥ kriyāvatoraśvinoranaśvamaśvarahitamapyaśvarāhitye 'pi sāmarthyātiśayena gacchantaṃ rathamasanaṃ | ahaṃ stotā samabhajam | tena ca rathena bhūri prabhūtaṃ śreyaścākana | kāmaye | asanaṃ | vana ṣaṇa saṃbhaktau | laṅ | cākana | kana dīptikāntigatiṣu | chāndaso liṭ | taluttamo vā | pā. 3-4-81 [as read] iti tasya vikalpānnaidbhāvaḥ | tujāditvādbhyāsasya dīrghatvam ‖ [as read]*
+
+*Sense (mine):* "*Vājinīvatoḥ* — *vāja* is food or strength; of the two Aśvins, who possess this (*vājinīvatoḥ*, those who possess strength and food): their chariot, *anaśvam* — though it has no horses — goes, by excess of power, in spite of the absence of horses: that chariot (*asanam*) I, the praiser, have shared [in]; and by that chariot I long for (*cākana*) much good (*bhūri śreyaḥ*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.10)** (Kannada, rendered)
+
+*Vājinīvatoḥ* — of those who have deeds that produce strength (food); *aśvinoḥ* — of the Aśvins; *anaśvam* — without horses (capable of going); *ratham* — the chariot; *aham* — I; *asanam* — praised; *tena* — by that chariot; *bhūri* — much (good); *cākana* — I desire, I pray.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.10)** (Kannada, rendered)
+
+"The chariot of the Aśvins, whose deeds produce strength (food), is able to go though it has no horses. I have praised such a chariot, and by it I desire to obtain much good."
+
+**English Translation (as printed)**
+
+"I have obtained, without horses, the car of the food-bestowing Aswins, and expect (to gain) by it much (wealth)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 10)**
+
+*Vājinīvatoḥ* — *vājo 'nnaṃ balaṃ vā tadvatoḥ*: "The word *vāja* conveys the meaning 'food' or 'strength'. Because the Aśvins are the ones who favour these [two] (those for whom the word is the object), [the sense is:] *vājinīvantau* means 'those who possess food and strength' — so Sāyaṇa explains. Skandasvāmin:
+
+> वाजो बलं तद्वती सेना वाजिनी । अन्नं वा हविर्लक्षणं वाजम् । तद्वती । सत्रादीनां [?] यागसंकेताद्वाजिनी । तद्वतोः । बलवतोरन्नवतोर्वा ॥
+
+> *vājo balaṃ tadvatī senā vājinī | annaṃ vā havirlakṣaṇaṃ vājam | tadvatī | satrādīnāṃ [?] yāgasaṃketādvājinī | tadvatoḥ | balavatorannavatorvā ‖*
+
+— 'The word *vāja* means strength; an army possessing it is *vājinī*; or the food in the form of the oblation is *vāja*. For this, to the sacrifices such as the *satra*, [and] the *āhavanīya* [?] etc. — which have much of the food in the form of oblation — [the name] *vājinī* is also given; therefore the Aśvins are possessors of strength, and of the food which is in the form of oblation' — he explains."
+
+---
+
+### Printed p. 531  (PDF 551; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"Yāska states the word *vājinīvatī* in the list of synonyms for *uṣas* (Ni. 2-?? [as read: 'ನಿ. ೨-೧೯']):
+
+> उषस्तच्चित्रमा भराऽस्मभ्यं वाजिनीवति ।
+> (ऋ. सं. १-४८-१२ [as read])
+
+> *uṣastaccitramā bharā 'smabhyaṃ vājinīvati |*
+> *(ṛ. saṃ. 1-48-12 [as read])*
+
+> पावकानः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
+> (ऋ. सं. १-३-१० [as read])
+
+> *pāvakānaḥ sarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*
+> *(ṛ. saṃ. 1-3-10 [as read])*
+
+In these [passages] he explains the word *vāja* as 'food' and the word *vājinīvatī* as 'one with food'."
+
+"Though the Aśvins' chariot has no horses, it moves with great speed by its own power, and it is capable of giving food and strength; therefore the seer of the mantra praises that chariot and prays for the Aśvins' favour — thus it is described here."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly; sūtra numbers as read)**
+
+*Asanam* — root *vana ṣaṇa sambhaktau*; *dhātvādeḥ ṣaḥ saḥ* (Pā. 6-1-64 as read), *s* for the initial *ṣ*; *laṅ*, first person singular, *am* substituted; *śap* vikaraṇa, *pararūpa*; the augment *aṭ*; since it stands after an *ajanta*, the *nighāta* accent. *Anaśvam* — "*na vidyate aśvo yasya saḥ anaśvaḥ*"; *nañsubhyām* (Pā. 6-2-172 as read), the final acute of the latter member; accusative singular. *Vājinīvatoḥ* — "*vājinī balakriyā anayoḥ asti iti vājinīvantau*, of them": *tad asyāsty asmin* (Pā. 5-2-94 as read), the suffix *matup*; *chandasīraḥ* (Pā. 8-2-15 as read), *v* for the *m* of *matup*; since it is *pit* it is *anudātta*. *Cākana* — root *kana dīptikāntigatiṣu*; in the sense of the present, *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read), *liṭ*; first person singular, *parasmaipadānāṃ ṇalatusus…* (Pā. 3-4-82 as read), *ṇal* for *mip*; on that account doubling of the root; *ādihalśeṣa* for the reduplicative syllable; *tujādīnāṃ dīrgho 'bhyāsasya* (Pā. 6-1-7 as read), lengthening of the reduplicative syllable; *kuhoś cuḥ*, *c*; *ṇal uttamo vā* (Pā. 7-1-91 as read), *ṇitva* of the suffix; since it is optional, [the suffix is not *ṇit*], so *vṛddhi* of the penultimate of the root, by *ata upadhāyāḥ* (Pā. 7-2-116 as read), does not occur; since it stands after an *ajanta*, the *nighāta* accent. ‖ 10 ‖
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–10 complete (printed p. 531, PDF 551). Next: printed p. 532 (PDF 552): Ṛk 11 Saṃhitā. Two Ṛks (11, 12) and the colophon of Sūkta 120 remain. Numerals as read (no numeral list covers these pages): Ni. 2-19, Ṛ. 1-48-12, 1-3-10, sūtra numbers on pp. 530–531 `[as read]`.
