@@ -4927,4 +4927,64 @@ as an example."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–4 complete (through printed p. 203, PDF 223). Next: Ṛk 5 from printed p. 204 (PDF 224). Open: numerals as read `[?]`; Ṛ. 10-185-1 (first words) `[?]`.
+### Ṛk 5
+
+### Printed p. 204  (PDF 224; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.5)**
+
+> अनारम्भणे तदवीरयेथामनास्थाने अग्रभणे समुद्रे ।
+> यदश्विना ऊहथुर्भुज्युमस्तं शतारित्रां नावमातस्थिवांसम् ॥ ५ ॥
+
+> *anārambhaṇe tadavīrayethāmanāsthāne agrabhaṇe samudre |*
+> *yadaśvinā ūhathurbhujyumastaṃ śatāritrāṃ nāvamātasthivāṃsam ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.5)**
+
+> अनारम्भणे । तत् । अवीरयेथाम् । अनास्थाने । अग्रभणे । समुद्रे ।
+> यत् । अश्विनौ । ऊहथुः । भुज्युम् । अस्तम् । शतऽअरित्राम् ।
+> नावम् । आऽतस्थिवांसम् ॥ ५ ॥
+
+> *anārambhaṇe | tat | avīrayethām | anāsthāne | agrabhaṇe | samudre |*
+> *yat | aśvinau | ūhathuḥ | bhujyum | astam | śata 'aritrām |*
+> *nāvam | ā 'tasthivāṃsam ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.5)**
+
+> हे अश्विनौ अनारम्भण आलम्बनरहिते समुद्रे तत्कर्माऽवीरयेथाम् । विक्रान्तं कृतवन्तौ युवाम् । अनारम्भणस्येव स्पष्टीकरोति । अनास्थाने । आस्थीयतेऽस्मिन्नित्यास्थानो भूप्रदेशः । तद्रहिते स्थातुमशक्ये जल इत्यर्थः । अग्रभणे । ग्रहणे । हस्तेन ग्राह्यं शाखादिकमपि यत्र नास्ति तस्मिन्नित्यर्थः । किं पुनस्तत्कर्म । भुज्युं समुद्रे मग्नं शतारित्रां बहुरित्रां । यैः काष्ठैः पार्श्वतो बद्धैर्जलालोडने सति नौः शीघ्रं गच्छति तान्यरित्राणि । ईदृशीं नावमातस्थिवांसमास्थितवन्तमारूढवन्तं कृतास्तं गृहानयैतत् । पितुस्तुग्रस्य गृहं प्रति यदोहथुः । तत्प्रापणमन्यैर्दुःशकं युवां समुद्रमध्ये कृतवन्ताविस्यर्थः ॥ अनारम्भणे । आरभ्यते इत्यारम्भणम् । कृत्यल्युटो बहुलमिति कर्मणि ल्युट् । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । अवीरयेथाम् । शूर वीर विक्रान्तौ चुरादिरात्मनेपदी । अनास्थानाग्रभणयोः पूर्ववल्लक्ष्यस्वरः । अयं तु विशेषः । हृग्रहोर्भ इति भत्वम् । अस्तम् । अस्यतेऽस्मिन् सर्वमित्यस्तं गृहम् । असिहसीत्यादिना तन्प्रत्ययः । शतारित्राम् । रु गतौ । अर्तिलूधूसू…। (पा. ३-२-१८४) इति करण इत्रप्रत्ययः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥ [grammatical tail partly small type; doubtful words [?]]
+
+> *he aśvinau anārambhaṇa ālambanarahite samudre tatkarmā 'vīrayethām | vikrāntaṃ kṛtavantau yuvām | anārambhaṇasyeva spaṣṭīkaroti | anāsthāne | āsthīyate 'sminnityāsthāno bhūpradeśaḥ | tadrahite sthātumaśakye jala ityarthaḥ | agrabhaṇe | grahaṇe | hastena grāhyaṃ śākhādikamapi yatra nāsti tasminnityarthaḥ | kiṃ punastatkarma | bhujyuṃ samudre magnaṃ śatāritrāṃ bahuritrāṃ | yaiḥ kāṣṭhaiḥ pārśvato baddhairjalāloḍane sati nauḥ śīghraṃ gacchati tānyaritrāṇi | īdṛśīṃ nāvamātasthivāṃsamāsthitavantamārūḍhavantaṃ kṛtāstaṃ gṛhānayaitat | pitustugrasya gṛhaṃ prati yadohathuḥ | tatprāpaṇamanyairduḥśakaṃ yuvāṃ samudramadhye kṛtavantāvisyarthaḥ ‖ anārambhaṇe | ārabhyate ityārambhaṇam | kṛtyalyuṭo bahulamiti karmaṇi lyuṭ | nañsubhyāmityuttarapadāntodāttatvam | avīrayethām | śūra vīra vikrāntau curādirātmanepadī | anāsthānāgrabhaṇayoḥ pūrvavallakṣyasvaraḥ | ayaṃ tu viśeṣaḥ | hṛgrahorbha iti bhatvam | astam | asyate 'smin sarvamityastaṃ gṛham | asihasītyādinā tanpratyayaḥ | śatāritrām | ru gatau | artilūdhūsū…| (pā. 3-2-184) iti karaṇa itrapratyayaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖ [grammatical tail partly small type; doubtful words [?]]*
+
+*Sense (mine):* "O Aśvins, in the sea, *anārambhaṇe*, which has nothing to hold on to, you did that deed (*avīrayethām*): you did a valiant act. He makes the 'no-support' plain: *anāsthāne* — *āsthāna* is a place of the earth where one stands: where there is none, i.e. in water where one cannot stand. *Agrabhaṇe* — in a place where there is not even a branch or the like that may be grasped by the hand. And what is that deed? [That] you carried Bhujyu, sunk in the sea, *śatāritrām* — [in a ship] with many oars (*aritra*; the pieces of wood fixed at the sides by which, when they stir the water, the ship goes quickly are called *aritras*); such a ship, he having mounted it, *asta*, to the house — to the house of his father Tugra, you carried; this feat, difficult for others, you two did in the middle of the sea."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he aśvinau* — O Aśvin deities; *śatāritrām* — furnished with a hundred oars; *nāvam* — in the ship; *ātasthivāṃsam* — seated; *bhujyum* — Bhujyu; *astam* — to (his father's) house; *ūhathuḥ yat* — that you carried; *tat* — that great feat; *anārambhaṇe* — [in a place] without support; *anāsthāne* — without a place to stand; *agrabhaṇe* — where there is nothing to grasp; *samudre* — in the ocean; *avīrayethām* — you accomplished."
+
+### Printed p. 205  (PDF 225; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"You accomplished the great feat of carrying Bhujyu in a ship with a hundred oars to his father's house. You did this feat in the sea, where there is no support, no place to stand, no object to lay hold of."
+
+**English Translation (as printed)**
+
+> This exploit you achieved, As'wins, in the ocean where there is nothing to give support, nothing to rest upon, nothing to cling to, that you brought Bhujyu, sailing in a hundred-oared ship, to his father's house.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अनास्थाने** — *Anāsthāne* — "*āsthīyate 'smin ity āsthāno bhūpradeśaḥ | tadrahite sthātum aśakye jale*": "since the land is favourable to creatures for standing comfortably, it has the name *āsthāna*. The ocean, which is the opposite of it, is called *anāsthāna*. The idea is that one cannot stand on a ship [*sic*: in the water]. Likewise the ocean provides no support to those who come to it. In the sea, means of protection such as creepers (by which one may be saved from sinking) — that is, strong trees, ropes etc., fit to hold on to so as not to sink in the water — are not there to be held (*grahaṇa*) or to be seized; hence it is called *agrahaṇa*. So the act the Aśvin deities performed when protecting Bhujyu, who was sinking in the unsupported, ungraspable ocean, is a deed of extreme valour, which only very brave persons perform."
+
+### Printed p. 206  (PDF 226; header "Maṃ. 1 A. 17 Sū. 116")
+
+**शतारित्राम्** — *Śatāritrām* — "*bahvaritrām* — [a ship] with many oars: the pieces of wood fixed to the sides of a ship by which it is made to move forward in the water are called *aritra*. They say it is 'a paddle' [*huṭṭu*]. The meaning is that the ship of the Aśvin deities, to go very swiftly in the water, had a hundred paddles — the instruments for rowing [it]."
+
+**अस्तम्** — *Astam* — "*gṛhanāmaitat | gayaḥ kṣayaḥ*": "since the word *asta* is read among the two [as read: *iṣṭa*… the 'twenty-two'] names of house, '*gaya*', '*kṣaya*' and so on (Ni. 3-?? as read [?]), *asta* means house. The Aśvin deities brought Bhujyu and set him down at the house of his father King Tugra: this is the meaning. The purport is that the act of rescuing a man sinking in mid-ocean, which no one else can perform, is praise-worthy, and the Aśvin deities performed it."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly)**
+
+*anārambhaṇe* (*ārabhyate iti ārambhaṇam*; *rabha* "to begin", *lyuṭ* in the passive by *kṛtyalyuṭo bahulam*, Pā. 3-3-113 as read [?]; *anādeśa* for *yu* by *yuvor anākau*, Pā. 7-1-1 as read [?]; *num* by *rabherśabdaliṭoḥ*, Pā. 7-1-63 as read [?]; *na vidyate ārambhaṇaṃ yasya* — *anārambhaṇa*; the locative; *nañsubhyām*, Pā. 6-2-172 as read [?], the accent on the last syllable of the later member); *avīrayethām* (*śūra vīra vikrāntau*, curādi, *ātmanepada*; *satyāpāśa…*, Pā. 3-1-25 as read [?], *ṇic* in the sense of the root itself; *laṅ* 2nd dual *āthām*; *śap*; *ato yeyaḥ* [*āto ṅitaḥ*, Pā. 7-2-81 as read [?]], *iya* for the *ā*; guṇa of the *ṇic*; *ay*; the augment *aṭ*; nighāta, since *tiṅ* after *tat*, Pā. 8-1-28 as read [?]); *anāsthāne* (*ṣṭhā* "to cease from motion"; *lyuṭ* in the passive as before; in the *nañ*-compound the later member's accent is final); *agrabhaṇe* (*graha* "to take", *upādāne*; the process and the accent as before; *hṛgrahor bhaś chandasi*, Pā. 8-2-32 as read [?], *bha* for the *h* of the root); *astam* (*asyate 'smin sarvam iti astaṃ gṛham*; *tan* by *asihasi…*, Uṇ. 3-?? as read [?]; as it is *nit* the first syllable accented by *jñityādir nityam*, Pā. 6-1-197 as read [?]; accusative singular).
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–4 complete; Ṛk 5 through printed p. 206 (PDF 226): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar begun (continues p. 207). Next: printed p. 207 (PDF 227). Open: numerals as read `[?]`; bhāṣya small type `[?]`.
