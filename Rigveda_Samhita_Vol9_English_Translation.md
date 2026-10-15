@@ -1544,4 +1544,114 @@ Grammar page on: *īyuḥ* (*iṇ* "to go", adādi; *liṭ* 3rd plural; *jhi* �
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–11 complete; Ṛk 12 through printed p. 58 (PDF 78): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (*yāvayaddveṣāḥ*, *ṛtapāḥ* — the Nirukta example follows on p. 59). Next: printed p. 59 (PDF 79). Open: bhāṣya word *dveṣṭrāṇi* `[?]`; Ni. numerals as read.
+### Printed p. 59  (PDF 79; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+*(Special Topics of Ṛk 12, continued from p. 58 — the Nirukta-writer's examples for the word* ṛta*:)*
+
+> न यातव [?] इन्द्र जूजुवुर्नो न वन्दना शविष्ठ वेद्याभिः ।
+> स शर्धदर्यो विषुणस्य जन्तोर्मा शिश्नदेवा अपि गुर्ऋतं नः ॥
+> (ऋ. सं. ७-२१-५ [as read])
+
+> *na yātava [?] indra jūjuvurno na vandanā śaviṣṭha vedyābhiḥ |*
+> *sa śardhadaryo viṣuṇasya jantormā śiśnadevā api gurṛtaṃ naḥ ‖*
+> *(ṛ. saṃ. 7-21-5 [as read])*
+
+"In this Ṛk the word *ṛta* conveys the meaning 'truth' or 'sacrifice'; he says '*satyaṃ vā yajñaṃ vā*' (Ni. 4-18 as read [?])."
+
+> तनूनपात्पथ ऋतस्य यानान्मध्वा समञ्जन्त्स्वदया सुजिह्व ।
+> मन्मानि धीभिरुत यज्ञमृन्धन्देवत्रा च कृणुह्यध्वरं नः ॥
+> (नि. ८-२ and ऋ. सं. १०-११०-२ [as read])
+
+> *tanūnapātpatha ṛtasya yānānmadhvā samañjantsvadayā sujihva |*
+> *manmāni dhībhiruta yajñamṛndhandevatrā ca kṛṇuhyadhvaraṃ naḥ ‖*
+> *(ni. 8-2 and ṛ. saṃ. 10-110-2 [as read])*
+
+and in this Ṛk too —
+
+> देवेभ्यो वनस्पते हवींषि हिरण्यपर्ण प्रतिवस्त्र अर्थम् [?] ।
+> प्रदक्षिणिद्रनयया [?] नियूय ऋतस्य वक्षि पथिभी रजिष्ठैः ॥
+> (नि. ८-२० [as read])
+
+> *devebhyo vanaspate havīṃṣi hiraṇyaparṇa prativastra artham [?] |*
+> *pradakṣiṇidranayayā [?] niyūya ṛtasya vakṣi pathibhī rajiṣṭhaiḥ ‖*
+> *(ni. 8-20 [as read])*
+
+— in this Ṛk too the word *ṛta* conveys 'sacrifice'.
+
+**ऋतेजाः** — *Ṛtejāḥ* — "*yajñārthaṃ prādurbhūtā*": "those who perform sacrifice obtain Uṣas's rising only for the purpose of performing the sacrifice. Since, after Uṣas-time has arrived, the sacrifices are carried on in the day, it is said here that Uṣas rises for the purpose of sacrifice." Skandasvāmin:
+
+> ऋतशब्दोऽत्र आदित्यवचनः । पञ्चम्याश्च स्थाने सप्तमी । आदित्याज्जनित्री ।
+
+> *ṛtaśabdo 'tra ādityavacanaḥ | pañcamyāśca sthāne saptamī | ādityājjanitrī |*
+
+"The word *ṛta* means 'Āditya'. Here the locative is used in place of the ablative (*pañcamī*); [the meaning is] 'one who is born of Āditya'." In the sense of the fifth case the seventh case is used: he explains that Uṣas is born from the Sun.
+
+**सुम्नावरी** — *Sumnāvarī* — "*sumnam iti sukhanāma | tadvatī*": "*sumnāvarī* is stated among the sixteen names of Uṣas, '*vibhāvarī*, *sūnarī*, *bhāsvatī*' (Ni. 3-19 as read [?]), so the sense is Uṣas. Since the word *sumna* is read among the twenty [as read] names of happiness, '*śaṃ*…' (the first word of the list, as printed, is doubtful [?]) (Ni. 3-6 as read [?]), *sumna* means happiness. Skandasvāmin explains: '*prāṇināṃ sukhakarī*' — Uṣas-time causes happiness to living beings."
+
+### Printed p. 60  (PDF 80; header "Maṃ. 1 A. 16 Sū. 113")
+
+**सूनृता ईरयन्ती** — *Sūnṛtā īrayantī* — "*vāṅnāmaitat*": it means speech. "The word *sūnṛtā* is stated among the names of Uṣas (Ni. 3-19 as read [?]) and also among the names of food (Ni. 2-7 as read [?]). But the Bhāṣyakāra explains that the word *sūnṛta* conveys the meaning 'speech', and says:
+
+> सूनृता वाचः ईरयन्ती प्रेरयन्ती । उषा उदयोत्तरकालं हि प्राणिनां वचः प्रवर्तन्ते । अतः स्वैव ताः प्रेरयन्तीति व्यपदिश्यते ॥ [as read; the last word doubtful [?]]
+
+> *sūnṛtā vācaḥ īrayantī prerayantī | uṣā udayottarakālaṃ hi prāṇināṃ vacaḥ pravartante | ataḥ svaiva tāḥ prerayantīti vyapadiśyate ‖ [as read; the last word doubtful [?]]*
+
+— 'since after the rising of Uṣas (so say they) animals and birds and beasts begin to make sounds, Uṣas is said to impel everyone to speak'."
+
+**सुमङ्गलीः** — *Sumaṅgalīḥ* — "*suṣṭhu maṅgalopetā | patyā kadācid api na viyuktā*": "endowed with excellent auspiciousness. [The sense is that] Uṣas is always together with her husband, never separated." Yāska:
+
+> कनिक्रदज्जनुषं प्रब्रुवाण इयर्ति वाचमरितेव नावम् ।
+> सुमङ्गलश्च शकुने भवासि मा त्वा का चिदभिभा विश्व्या विदत् ॥
+> (ऋ. सं. २-४३-२ [as read])
+
+> *kanikradajjanuṣaṃ prabruvāṇa iyarti vācamariteva nāvam |*
+> *sumaṅgalaśca śakune bhavāsi mā tvā kā cidabhibhā viśvyā vidat ‖*
+> *(ṛ. saṃ. 2-43-2 [as read])*
+
+— quoting this Ṛk as an example, in explaining the meaning of the word *maṅgala* (Ni. 6-9 as read [?]):
+
+> सुमङ्गलश्च शकुने भवासि । भवेत्कल्याणमङ्गलः । मङ्गलं गिरतेर्गृणात्यर्थे । गिरत्यर्थानिति वा । अङ्गमङ्गवत् [?] । मज्जयति पापकमिति नैरुक्ताः । मां गच्छन्तीति वा । मा च त्वा काचिदभिभूता सर्वतो विदत् ॥
+
+> *sumaṅgalaśca śakune bhavāsi | bhavetkalyāṇamaṅgalaḥ | maṅgalaṃ giratergṛṇātyarthe | giratyarthāniti vā | aṅgamaṅgavat [?] | majjayati pāpakamiti nairuktāḥ | māṃ gacchantīti vā | mā ca tvā kācidabhibhūtā sarvato vidat ‖*
+
+"Having explained for the word *sumaṅgala* the meaning 'auspicious' (*kalyāṇa*), [he says] the word *maṅgala* 'swallows' (*girati*) *anarthān*, 'evils', i.e. destroys troubles. The Nirukta-writers say it 'plunges' (*majjayati*), i.e. destroys, sin. Or because it is for ever coming to me (*māṃ gacchanti*), or because no harm may ever overcome thee — so this word has the name *maṅgala*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 12; grammar page, noted briefly)**
+
+Grammar page, begun: *yāvayaddveṣāḥ* (*yu* "to mix, to separate", adādi; *ṇic* by *hetumati ca*; *vṛddhi* of *u* by *āto 'ñjñiti*[?]; *āv* substitution; then *śatṛ* in the *laṭ* sense; *śap*; the guṇa and *ay* for the *ṇic*; the vowel by *ato guṇe* — *pararūpa*; giving *yāvayat*; the Vedic *chandasy ubhayathā*, in which the *śatṛ* ending is also *ārdhadhātuka* …). *(Continues on the next page.)*
+
+---
+
+### Printed p. 61  (PDF 81; header "Aṣṭaka 1, Adhyāya 8, Varga 3" [small numeral as printed])
+
+*Grammar page of Ṛk 12, continued (noted briefly):* *yāvayaddveṣāḥ* — the personal-ending being accented, the *śap* keeps its accent by *sati śiṣṭasvaraḥ balīyaḥ*; the first-member accent in the *bahuvrīhi* by *bahuvrīhau prakṛtyā pūrvapadam*; the Vedic shortening *yāvayat-dveṣāḥ* at the end of the first member; *ṛtapāḥ* (*pā* "to protect", adādi; *viṭ* by *ato maninkvanibvanipaś ca*, the *c* serving to continue the *viṭ*; ending in *ā*; nominative singular); *ṛtejāḥ* (*jan* "to be born", *viṭ* by *janasanakhanakramagamo viṭ*; *ā* for the final *n* by *vidyatoranunāsikasyātvam*; the locative compound with *aluk* by *tatpuruṣe kṛti bahulam*; the first-member accent by *gatikārakopapadāt kṛt*); *sumnāvarī* (*sumnaṃ sukhaṃ asyā asti*; *vanip* by the statement *chandasīvanipaś ca*; the stem *sumnāvan*; feminine *ṅīp* by *vano re*; *n* → *r* by *rephādeśa*; lengthening by *anyeṣām api dṛśyate*; the accent from the suffix, being *pit*); *īrayantī* (*īr* "to go, to move", *curādi* *ṇic*; *śatṛ*; feminine *ṅīp* by *ugitaś ca*; *ṇic* accent); *sumaṅgalīḥ* (*sumaṅgalā* in the *gaurādi* class as a name, hence *ṅīṣ*; the elision of the *su* is not prevented, by the statement "*sarve vidhayaś chandasi vikalpyante*"; *s* → *ru*; visarga by *kharavasānayor visarjanīyaḥ*).
+
+### Printed p. 62  (PDF 82; header "Maṃ. 1 A. 16 Sū. 113")
+
+*Grammar page, concluded:* *devavītim* (*vī* "to go, to bring forth, to desire, to eat, to throw"; "*devair vīyate kāmyate iti devavītiḥ*" — the sacrifice; *ktin* in the passive by *striyāṃ ktin*, which is *kit*, so there is no guṇa; the first-member accent by the *dāsībhārādi* group). ‖ 12 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 13
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.13)**
+
+> शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी ।
+> अथो व्युच्छादुत्तराँ अनु द्यूनजरामृता चरति स्वधाभिः ॥ १३ ॥
+
+> *śaśvatpuroṣā vyuvāsa devyatho adyedaṃ vyāvo maghonī |*
+> *atho vyucchāduttarā~ anu dyūnajarāmṛtā carati svadhābhiḥ ‖ 13 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.13)**
+
+> शश्वत् । पुरा । उषाः । वि । उवास । देवी । अथो इति । अद्य । इदम् । वि । आवः । मघोनी ।
+> अथो इति । वि । उच्छात् । उत्ऽतरान् । अनु । द्यून् । अजरा । अमृता । चरति । स्वधाभिः ॥ १३ ॥
+
+> *śaśvat | purā | uṣāḥ | vi | uvāsa | devī | atho iti | adya | idam | vi | āvaḥ | maghonī |*
+> *atho iti | vi | ucchāt | ut 'tarān | anu | dyūn | ajarā | amṛtā | carati | svadhābhiḥ ‖ 13 ‖*
+
+*(Reading note after viewing the Pada: the Saṃhitā's* śaśvat-puroṣā *is the Pada's* śaśvat | purā | uṣāḥ*; the Saṃhitā's* vyāvo *is the Pada's* vi | āvaḥ*; the Saṃhitā's* vyucchād uttarāṃ *is the Pada's* vi | ucchāt | ut-tarān*.)*
+
+---
+
+**Progress note:** Sūkta 113: Ṛks 1–12 complete (through printed p. 62, PDF 82); Ṛk 13 Saṃhitā and Pada written. Next: printed p. 63 (PDF 83) — Ṛk 13 bhāṣya… Open: as before.
