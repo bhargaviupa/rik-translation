@@ -4590,4 +4590,190 @@ the ṛṣi of the Ṛgveda, Maṇḍala 1, Sūktas 116–126 [as read: "1-116-?
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1 complete; Ṛk 2 through the grammar page on printed p. 190 (PDF 210; grammar continues on p. 191). Next: printed p. 191 (PDF 211) — end of Ṛk 2 grammar, then Ṛk 3. Open: numerals as read `[?]`; Aitareya Br. quotations (p. 188–189) partly small type `[?]`.
+### Printed p. 191  (PDF 211; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Grammar page of Ṛk 2, concluded (noted briefly):* *yamasya* (*yamu* "to restrain"; *yamayati iti yamaḥ*; belonging to the *pacādi* group, the suffix *ac*; final accent from the suffix; genitive singular); *jigāya* (*ji* "to conquer"; *liṭ* 3rd singular *tip*; *parasmaipadānāṃ ṇalatusus…*, Pā. 3-4-82 as read [?], *ṇal* for *tip*; *vṛddhi* of the *i* by *aco 'ñṇiti*, Pā. 7-2-115 as read [?]; doubling of the root as it is *liṭ*; *sanliṭor jeḥ*, Pā. 7-3-57 as read [?], *k* for the *j* of the reduplication; *āy* substitution; nighāta). ‖ 2 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.3)**
+
+> तुग्रो ह भुज्युमश्विनोदमेघे रयिं न कश्चिन्ममृवाँ अवाहाः ।
+> तमूहथुर्नौभिरात्मन्वतीभिरन्तरिक्षप्रुद्भिरपोदकाभिः ॥ ३ ॥
+
+> *tugro ha bhujyumaśvinodameghe rayiṃ na kaścinmamṛvā~ avāhāḥ |*
+> *tamūhathurnaubhirātmanvatībhirantarikṣaprudbhirapodakābhiḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.3)**
+
+> तुग्रः । ह । भुज्युम् । अश्विना । उदऽमेघे । रयिम् । न । कः ।
+> चित् । ममृऽवान् । अव । अहाः ।
+> तम् । ऊहथुः । नौभिः । आत्मन्ऽवतीभिः । अन्तरिक्षऽप्रुत्ऽभिः ।
+> अपऽउदकाभिः ॥ ३ ॥
+
+> *tugraḥ | ha | bhujyum | aśvinā | uda 'meghe | rayim | na | kaḥ |*
+> *cit | mamṛ 'vān | ava | ahāḥ |*
+> *tam | ūhathuḥ | naubhiḥ | ātman 'vatībhiḥ | antarikṣa 'prut 'bhiḥ |*
+> *apa 'udakābhiḥ ‖ 3 ‖*
+
+### Printed p. 192  (PDF 212; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.3)**
+
+> अत्रेयमाख्यायिका । तुग्रो नामाश्विनोः प्रियः कश्चिद्राजर्षिः । स द्वीपान्तरविर्भिः शत्रुभिरत्यन्तमुपद्रुतः सन् तेषां जयाय स्वपुत्रं भुज्युं सेनया सह नावा प्राहेषीत् । सा च सौर्मर्धये [?] समुद्रमतिदूरं गतानावयवशेन भिन्नासीत् । तदानीं स भुज्युः शीघ्रमश्विनौ तुष्टाव । तौ च स्तुतौ सेनया सहितं भुज्युं मद्भिरीयासु नौप्रारोह्य पितुस्तुग्रस्य समीपं त्रिभिरहोरात्रैः प्रापयामासतुरिति । अयमर्थ इदमादिकेन तृचेन प्रतिपाद्यते । हशब्दः प्रसिद्धौ । तुग्रः खलु पूर्वं शत्रुभिः पीडितः सन् तेजोजयार्थमुदमेघे । उदकैर्मिहृते सिच्यते इत्युदकमेघः समुद्रः । तस्मिन् भुज्युमेतत्संज्ञं प्रियं पुत्रमवाहाः । नावा गन्तुं पर्यत्याक्षीत् । तत्र दृष्टान्तः । ममृवान् म्रियमाणः सन्ननलोभे कश्चिन्मनुष्यो रयिं न यथा धनं परित्यजति तद्वत् । हे अश्विनौ तं च भुज्युं मध्येसमुद्रं निमग्नं नौभिः पित्रसमीपमूहथुः । युवां प्रापितवन्तौ । कीदृशीभिः । आत्मन्वतीभिरात्मीयाभिः । युवयोः स्वभूताभिरित्यर्थः । यद्वा । धृतिरात्मा । धारणवतीभिरित्यर्थः । अन्तरिक्षप्रुद्भिरतिस्वच्छत्वादन्तरिक्षे जलस्योपरिष्ठादेव गन्तृभिः । अपोदकाभिः सुश्लिष्टत्वादपगतोदकाभिः । अस्पृष्टोदकाभिरित्यर्थः ॥ [the grammatical tail follows in small type: *udameghe* — *mih* "to sprinkle", *ghañ*, *nyaṅkvādīnāṃ ca* (Pā. 7-3-53) *kutva*; *udakasya udaḥ saṃjñāyām* (Pā. 6-3-57); *mamṛvān* — *mṛṅ* "to die", *kvasu*; *kradiniyamāt…* *vasvekājāḍdhasām*, *niyamād abhāvaḥ* — no *iṭ*; *ahāḥ* — *ohāk* "to leave", *luṅ*, *tip*, *cleḥ sic*, *āgamānuśāsanasyānityatvād aṭ na kriyate*, *bahulaṃ chandasi*, *iṭ* not applied, *halṅyābbhyaḥ* — elision of *tip*, *ru*-visarga; or *mantre ghasa…* *cleḥ luk*; *nāvā*…; *ātmanvatībhiḥ* — *ātmanaḥ matup*, *mādupadhāyāḥ* — *va*; *ano nuṭ*, *nuṭ* augment; *nalopaḥ*; *hrasvanuḍbhyāṃ matub*…, *matup* accent *udāttatva*; *antarikṣaprudbhiḥ* — *pru* [as printed *pruj*] "to go", *kvip*…] [small type; read with doubt — words marked [?]]
+
+> *atreyamākhyāyikā | tugro nāmāśvinoḥ priyaḥ kaścidrājarṣiḥ | sa dvīpāntaravirbhiḥ śatrubhiratyantamupadrutaḥ san teṣāṃ jayāya svaputraṃ bhujyuṃ senayā saha nāvā prāheṣīt | sā ca saurmardhaye [?] samudramatidūraṃ gatānāvayavaśena bhinnāsīt | tadānīṃ sa bhujyuḥ śīghramaśvinau tuṣṭāva | tau ca stutau senayā sahitaṃ bhujyuṃ madbhirīyāsu nauprārohya pitustugrasya samīpaṃ tribhirahorātraiḥ prāpayāmāsaturiti | ayamartha idamādikena tṛcena pratipādyate | haśabdaḥ prasiddhau | tugraḥ khalu pūrvaṃ śatrubhiḥ pīḍitaḥ san tejojayārthamudameghe | udakairmihṛte sicyate ityudakameghaḥ samudraḥ | tasmin bhujyumetatsaṃjñaṃ priyaṃ putramavāhāḥ | nāvā gantuṃ paryatyākṣīt | tatra dṛṣṭāntaḥ | mamṛvān mriyamāṇaḥ sannanalobhe kaścinmanuṣyo rayiṃ na yathā dhanaṃ parityajati tadvat | he aśvinau taṃ ca bhujyuṃ madhyesamudraṃ nimagnaṃ naubhiḥ pitrasamīpamūhathuḥ | yuvāṃ prāpitavantau | kīdṛśībhiḥ | ātmanvatībhirātmīyābhiḥ | yuvayoḥ svabhūtābhirityarthaḥ | yadvā | dhṛtirātmā | dhāraṇavatībhirityarthaḥ | antarikṣaprudbhiratisvacchatvādantarikṣe jalasyopariṣṭhādeva gantṛbhiḥ | apodakābhiḥ suśliṣṭatvādapagatodakābhiḥ | aspṛṣṭodakābhirityarthaḥ ‖ [the grammatical tail follows in small type: *udameghe* — *mih* "to sprinkle", *ghañ*, *nyaṅkvādīnāṃ ca* (Pā. 7-3-53) *kutva*; *udakasya udaḥ saṃjñāyām* (Pā. 6-3-57); *mamṛvān* — *mṛṅ* "to die", *kvasu*; *kradiniyamāt…* *vasvekājāḍdhasām*, *niyamād abhāvaḥ* — no *iṭ*; *ahāḥ* — *ohāk* "to leave", *luṅ*, *tip*, *cleḥ sic*, *āgamānuśāsanasyānityatvād aṭ na kriyate*, *bahulaṃ chandasi*, *iṭ* not applied, *halṅyābbhyaḥ* — elision of *tip*, *ru*-visarga; or *mantre ghasa…* *cleḥ luk*; *nāvā*…; *ātmanvatībhiḥ* — *ātmanaḥ matup*, *mādupadhāyāḥ* — *va*; *ano nuṭ*, *nuṭ* augment; *nalopaḥ*; *hrasvanuḍbhyāṃ matub*…, *matup* accent *udāttatva*; *antarikṣaprudbhiḥ* — *pru* [as printed *pruj*] "to go", *kvip*…] [small type; read with doubt — words marked [?]]*
+
+*Sense (mine):* "Here is the story. Tugra was a royal sage dear to the Aśvins. Being greatly harassed by enemies of the neighbouring islands, he sent his son Bhujyu, with an army, in a ship, to conquer them. And that ship, through damage of its parts [?], went far into the ocean and was broken. Then Bhujyu quickly praised the Aśvins. And they, praised, put Bhujyu with his army on ships of their own and brought him to his father Tugra in three days and nights. This sense is declared by the three Ṛks beginning with this one. *Ha* is a particle of 'well known'. Tugra, once harassed by enemies, for the sake of conquest, *udameghe*, in the *udameghā* — 'which is sprinkled by waters (*udakair mihyate secyate*)', the ocean — *avāhāḥ* — sent that Bhujyu, his dear son, going by ship; and then abandoned him — as an illustration: a man *mamṛvān*, dying, (not clinging out of greed?) leaves his wealth, so he left [him]. O Aśvins, you *ūhathuḥ*, carried that Bhujyu, sunk in the middle of the sea, to his father's neighbourhood, by *nāubhiḥ*, ships. What kind of ships? *Ātmanvatībhiḥ* — your own, belonging to you; or: *ātman* is firmness — those having firmness; *antarikṣaprudbhiḥ* — travelling over the water's surface as if in the atmosphere, because they are very clear; *apodakābhiḥ* — the water having been drawn off, because of close fitting — not touched by water."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*tugraḥ* — Tugra (the royal sage, for the sake of conquest over enemies); *udameghe* — in the ocean; *bhujyum* — his son Bhujyu by name; *mamṛvān* — one who is dying; *kaścit* — (a man) greedy; *rayim na* — (as one abandons his wealth, in his extreme distress); *avāhāḥ ha* — sent away (to the sea)…
+
+---
+
+### Printed p. 193  (PDF 213; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 13")
+
+*(Pratipadārtha of Ṛk 3, concluded:)* "… *naṣṭam* [?] (lost, sent away to the sea); (*aśvinau* — O Aśvin deities); *tam* — that Bhujyu (sunk in the midst of the ocean); *ātmanvatībhiḥ* — your own; *antarikṣaprudbhiḥ* — moving in the atmosphere (that is, over the surface of the water); *apodakābhiḥ* — which, being tight, let no water enter; *nāubhiḥ* — by ships; *ūhathuḥ* — you carried him to his father's house."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"When Tugra sent his son Bhujyu to the sea (to conquer the enemies who were oppressing him), like a greedy man at the point of death who with great difficulty gives up his wealth [?], you carried him, who was sinking in mid-ocean, in your own ships — which always float and let no water enter — and set him down at his father's house."
+
+**English Translation (as printed)**
+
+> Tugra, verily, Aswins, sent (his son) Bhujyu to sea, as a dying man parts with his riches ; but you brought him back in vessels of your own, floating over the ocean, and keeping out the waters.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+"In this Ṛk is recounted the history: the royal sage who is famed by the name Tugra and is dear to the Aśvin deities, unable to bear the trouble the enemies in the other islands caused him, sent his son Bhujyu with an army to the other islands in order to subdue them; Bhujyu, travelling with the army on the sea in a ship (boat), found his ship broken in the middle. Then Bhujyu, son of Tugra, quickly praised the Aśvin deities. They, hearing his praise, were pleased, took Bhujyu with the army onto their ships and, travelling three days and nights without rest (continuously), brought him to the house of his father King Tugra."
+
+**तुग्रः** — *Tugraḥ* — "Tugra was a king. That he was the father of Bhujyu is stated in the Ṛgveda in the Ṛks Ṛ. Saṃ. 1-116-3, 1-117-14, 6-62-6 [as read; [?]]; in the Ṛks in which Bhujyu is spoken of as the son of Tugra the name of Tugra occurs, and also, as *Taugrya*, in Ṛ. Saṃ. 1-?-? ; 1-?-? [as read], 8-?-? [numerals partly illegible [?]].
+
+### Printed p. 194  (PDF 214; header "Maṃ. 1 A. 17 Sū. 116")
+
+The name Tugra is also in Ṛ. Saṃ. 1-116-? ; 1-117-? ; 1-?-? ; 1-?-? ; 6-?-? ; 10-?-? [numerals too small to read reliably [?]]. In the Ṛks Ṛ. Saṃ. 6-20-8 [as read], 6-?-? and 10-49-4 [as read] the Tugra spoken of must be a different person, since there he is said to be Indra's enemy."
+
+**भुज्युम्** — *Bhujyum* — "that Bhujyu was a son of Tugra, and that the Aśvin deities protected him when he was sinking in the middle of the ocean (through destruction of his ship), is said in the Ṛgveda in many places —
+
+> याभिरन्तकं जसमानमारे भुज्युं याभिरव्यथिभिर्जिजिन्वथुः ।
+> (ऋ. सं. १-११२-६ [as read])
+
+> *yābhirantakaṃ jasamānamāre bhujyuṃ yābhiravyathibhirjijinvathuḥ |*
+> *(ṛ. saṃ. 1-112-6 [as read])*
+
+— in this Ṛk the *bhujyu* [explained by the Bhāṣyakāra as] '*sarvasya pālakam etatsaṃjñaṃ samudramadhye nimagnaṃ tugrasya putraṃ rājarṣim*': the royal sage Bhujyu, son of the king Tugra, who was sinking in the ocean, was protected by the Aśvin deities.
+
+> याभिः शंताती भवथो ददाशुषे भुज्युं याभिरवथो याभिरधिगुम् ।
+> ओम्यावतीं सुभरामृतस्तुभं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-२० [as read])
+
+> *yābhiḥ śaṃtātī bhavatho dadāśuṣe bhujyuṃ yābhiravatho yābhiradhigum |*
+> *omyāvatīṃ subharāmṛtastubhaṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-20 [as read])*
+
+In this Ṛk too: 'you protected Bhujyu, the son of Tugra'.
+
+> युवं तुग्राय पूर्व्येभिरेवैः पुनर्मन्या अभवतं युवाना ।
+> युवं भुज्युमर्णसो निः समुद्राद्विभिरूहथुरृज्रेभिरश्वैः ॥
+> (ऋ. सं. १-११६-४ [as read])
+
+> *yuvaṃ tugrāya pūrvyebhirevaiḥ punarmanyā abhavataṃ yuvānā |*
+> *yuvaṃ bhujyumarṇaso niḥ samudrādvibhirūhathurṛjrebhiraśvaiḥ ‖*
+> *(ṛ. saṃ. 1-116-4 [as read])*
+
+Here also: 'O Aśvins, you carried Bhujyu, son of Tugra, who was sunk in the middle of the sea — (the one who is sunk out of the water-mass, the ocean, [= *arṇasaḥ*]) — with swift horses [*ṛjrebhir aśvaiḥ*], having brought him out from the unfathomable ocean, as it were from drowning; you took him to his father's house." *(the above is the Kannada exposition of the Ṛk; the sentence that follows in the print is its explanatory gloss.)*
+
+### Printed p. 195  (PDF 215; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> युवं भुज्युं भुरमाणं विभिर्गतं स्वयुक्तिभिर्निवहन्ता पितृभ्य आ ॥
+> (ऋ. सं. १-११७-१४ [as read])
+
+> *yuvaṃ bhujyuṃ bhuramāṇaṃ vibhirgataṃ svayuktibhirnivahantā pitṛbhya ā ‖*
+> *(ṛ. saṃ. 1-117-14 [as read])*
+>
+> ता भुज्युं विभिरद्भ्यः समुद्रात्तुग्रस्य सूनुमूहथू रजोभिः ।
+> (ऋ. सं. ६-६२-६ [as read])
+
+> *tā bhujyuṃ vibhiradbhyaḥ samudrāttugrasya sūnumūhathū rajobhiḥ |*
+> *(ṛ. saṃ. 6-62-6 [as read])*
+>
+> उ त्यं भुज्युमश्विना सखायो मध्ये जहुर्दुरेवासः समुद्रे ।
+> (ऋ. सं. १-१८२-५ [as read])
+
+> *u tyaṃ bhujyumaśvinā sakhāyo madhye jahurdurevāsaḥ samudre |*
+> *(ṛ. saṃ. 1-182-5 [as read])*
+>
+> युवं भुज्युमवविद्धं समुद्र उदूहथुरर्णसो अस्रिधानैः ।
+> (ऋ. सं. १-१८२-६ [as read])
+
+> *yuvaṃ bhujyumavaviddhaṃ samudra udūhathurarṇaso asridhānaiḥ |*
+> *(ṛ. saṃ. 1-182-6 [as read])*
+>
+> युवं ह भुज्युं युवमश्विना वशं युवं शिञ्जारमुशनामुपारथुः ।
+> (ऋ. सं. १०-४०-७ [as read])
+
+> *yuvaṃ ha bhujyuṃ yuvamaśvinā vaśaṃ yuvaṃ śiñjāramuśanāmupārathuḥ |*
+> *(ṛ. saṃ. 10-40-7 [as read])*
+>
+> भुज्युमंहसः पिप्रथुर्निरश्विना श्यावं पुत्रं वध्रिमत्या अजिन्वतम् ।
+> (ऋ. सं. १०-६५-१२ [as read])
+
+> *bhujyumaṃhasaḥ piprathurniraśvinā śyāvaṃ putraṃ vadhrimatyā ajinvatam |*
+> *(ṛ. saṃ. 10-65-12 [as read])*
+>
+> युवं भुज्युं समुद्र आ रजसः पार ईङ्खितम् ।
+> (ऋ. सं. १०-१४३-५ [as read])
+
+> *yuvaṃ bhujyuṃ samudra ā rajasaḥ pāra īṅkhitam |*
+> *(ṛ. saṃ. 10-143-5 [as read])*
+
+— in these Ṛks too the meaning is described that the Aśvin deities saved Bhujyu, son of Tugra, so that he did not sink in the sea. Skandasvāmin explains that this story is here told, and in the Ṛk '*utaśyaṃ bhujyum aśvinā*' (Ṛ. Saṃ. 1-182-5 [as read]) and in the Ṛks
+
+> याभिरन्तकं जसमानमारे भुज्युं याभिरव्यथिभिर्जिजिन्वथुः ।
+> याभिः कर्कन्धुं वय्यं च जिन्वथस्ताभिरू षु ऊतिभिरश्विनागतम् ॥
+> (ऋ. सं. १-११२-६ [as read])
+
+> *yābhirantakaṃ jasamānamāre bhujyuṃ yābhiravyathibhirjijinvathuḥ |*
+> *yābhiḥ karkandhuṃ vayyaṃ ca jinvathastābhirū ṣu ūtibhiraśvināgatam ‖*
+> *(ṛ. saṃ. 1-112-6 [as read])*
+>
+> याभिः शंताती भवथो ददाशुषे भुज्युं याभिरवथो याभिरधिगुम् ।
+> ओम्यावतीं सुभरामृतस्तुभं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-२० [as read])
+
+> *yābhiḥ śaṃtātī bhavatho dadāśuṣe bhujyuṃ yābhiravatho yābhiradhigum |*
+> *omyāvatīṃ subharāmṛtastubhaṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-20 [as read])*
+
+he cited these Ṛks as examples.
+
+### Printed p. 196  (PDF 216; header "Maṃ. 1 A. 17 Sū. 116")
+
+**तुग्रः** — *Tugraḥ* — "*tugra iti soyam ityabhisambandhāt pitṛkaḥ śabdeneda putrasyābhidhānam*": "in this mantra the word *tugra* is used as a synonym of *Bhujyu*, son of Tugra. As in the usage '*soyam*' [= this very one] in the *pratyabhijñā* (recognition), Skandasvāmin explains that by the word *tugra*, which denotes the father, the son Bhujyu is here referred to; the sense is 'the son of Tugra'. This is an adjective of the word *Bhujyu*, since Bhujyu is Tugra's son."
+
+**उदमेघे** — *Udameghe* — "*udakair mihyate secyate iti udamegha — samudraḥ*": "the ocean, because it is sprinkled with water (rain)."
+
+**रयिं न** — *Rayiṃ na* — "the word *rayi* is read among the hundred-and-one names of water (Ni. 1-?? as read [?]) and among the twenty-eight [as read] names of wealth. And —
+
+> नू च पुरा च सदनं रयीणां जातस्य च जायमानस्य च क्षाम् ।
+> सतश्च गोपां भवतश्च भूरेर्देवा अग्निं धारयन् द्रविणोदाम् ॥
+> (ऋ. सं. १-७३-२ [as read])
+
+> *nū ca purā ca sadanaṃ rayīṇāṃ jātasya ca jāyamānasya ca kṣām |*
+> *sataśca gopāṃ bhavataśca bhūrerdevā agniṃ dhārayan draviṇodām ‖*
+> *(ṛ. saṃ. 1-73-2 [as read])*
+
+— the Nirukta-writer cites this Ṛk as an example and explains, '*rayir iti dhananāma rāter dānakarmaṇaḥ*' (Ni. 4-?? as read [?]): the word *rayi* means wealth, formed from the root *rā* 'to give'."
+
+**ममृवान्** — *Mamṛvān* — "the meaning is: Tugra, like a man who, though he has the strongest attachment to wealth, abandons the wealth at the point of death when death approaches, sent his son Bhujyu with great distress on the sea voyage."
+
+**आत्मन्वतीभिः** — *Ātmanvatībhiḥ* — "*ātmīyābhiḥ*: *yadvā dhṛtirātmā dhāraṇāvatībhir ity arthaḥ*": "the Aśvin deities protected Bhujyu from distress with ships which were their own; or, because the word *ātman* has the meaning *dhṛti* (firmness), or *dhairya*, they made him — Bhujyu, who was in distress — firm in mind, and protected him by seating him in the ships."
+
+**अन्तरिक्षप्रुद्भिः** — *Antarikṣaprudbhiḥ* — "since the Aśvin deities' ships are very clear, and very swift, they used to move only on the upper side of the water."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–2 complete; Ṛk 3 through printed p. 196 (PDF 216): pratipadārtha end, bhāvārtha, English, Special Topics (*tugraḥ*, *bhujyum* with many Ṛk citations, *udameghe*, *rayiṃ na*, *mamṛvān*, *ātmanvatībhiḥ*, *antarikṣaprudbhiḥ*; may continue p. 197). Next: printed p. 197 (PDF 217). Open: all Ṛ. numerals in the Bhujyu list as read `[?]` (small type); Ni. refs.
