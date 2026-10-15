@@ -8343,4 +8343,42 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–9 complete except grammar of Ṛk 9 (begun on printed p. 347, PDF 367: *puru, varpāṃsi*; continues p. 348). Next: printed p. 348 (PDF 368). Open: Nirukta numbers on pp. 346–347 `[?]`; small-type Kannada on *ahihanam* `[?]`.
+### Printed p. 348  (PDF 368; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar page of Ṛk 9, concluded (noted briefly; sūtra numbers only where legible):* *varpāṃsi* — since the suffix is *nit*, the initial acute; accusative plural form. *Dadhānā* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of *laṭ*, suffix *śānac*; *juhotyādibhyaḥ śluḥ*, *ślu* as the vikaraṇa; doubling of the root; shortening and *jaś* substitution in the reduplicative syllable; *abhyastānām ādiḥ* (Pā. 6-1-189 [as read]), initial acute. *Ūhathuḥ* — root *vaha prāpaṇe*; *liṭ*, second person dual, *athus*; *vacisvapiyajādīnāṃ kiti*, *saṃprasāraṇa*; doubling etc.; *nighāta* accent after an *ajanta* word. *Sahasrasām* — root *ṣaṇu dāne*; *dhātvādeḥ ṣaḥ saḥ* (Pā. 6-1-64), *s* for *ṣ*; *janasanakhanāṃ sañjhalopo …* [Pā. 3-2-67 as read [?]], suffix *viṭ*; *vidyoranunāsikasyātvam* [as read], *ā* for the root-vowel; with *viṭ* following, *sarvalopa*; *gatikārakopapadāt kṛt* (Pā. 6-2-139), the *kṛdanta* hind-part keeps its natural accent. *Apratītam* — root *iṇ gatau*; *niṣṭhā* (Pā. 3-2-102 [as read]), suffix *kta*; *na pratītaḥ*, *apratītaḥ*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 [as read]), the former part (an indeclinable) keeps its natural accent. *Śravasyam* — root *śru śravaṇe*; suffix *asun*; the form *śravas*; *śravasi bhavam*, *śravasyam*; *bhave chandasi* (Pā. 4-4-110), suffix *yat*; since the suffix is *tit*, *tit svaritam* (Pā. 6-1-185 [as read]), *svarita* accent. *Tarutram* — root *tṝ plavanataraṇayoḥ*; *aśitrādibhya itrotrau* [as read] (Uṇ. sū. 4-?), suffix *itra* [?]; for the sake of that, *guṇa* of the root's vowel; becomes *r*-final; *vṛtyayo bahulam* [as read [?]], initial acute. Or: in the *grasitaskabhita…* (Pā. 7-2-34 [as read]) rule it is made irregular; since *tarutṛ* ends in *tṛ*, the case ending *am* — by the maxim *saṃjñāpūrvako vidhir anityaḥ* and *ṛto ṅi sarvanāmasthānayoḥ* the *guṇa* … [partly small type]; since the suffix is *nit*, *jñityādir nityam* (Pā. 6-1-197 as read), the initial acute. ‖ 9 ‖
+
+---
+
+### Printed p. 349  (PDF 369; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.10)**
+
+> एतानि वां श्रवस्या सुदानू ब्रह्माङ्गूषं सदनं रोदस्योः ।
+> यद्वां पज्रासो अश्विना हवन्ते यातमिषा च विदुषे च वाजम् ॥ १० ॥
+
+> *etāni vāṃ śravasyā sudānū brahmāṅgūṣaṃ sadanaṃ rodasyoḥ |*
+> *yadvāṃ pajrāso aśvinā havante yātamiṣā ca viduṣe ca vājam ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.10)**
+
+> एतानि । वाम् । श्रवस्या । सुदानू इति सुऽदानू । ब्रह्म । आङ्गूषम् ।
+> सदनम् । रोदस्योः ।
+> यत् । वाम् । पज्रासः । अश्विना । हवन्ते । यातम् । इषा । च ।
+> विदुषे । च । वाजम् ॥ १० ॥
+
+> *etāni | vām | śravasyā | sudānū iti su 'dānū | brahma | āṅgūṣam |*
+> *sadanam | rodasyoḥ |*
+> *yat | vām | pajrāsaḥ | aśvinā | havante | yātam | iṣā | ca |*
+> *viduṣe | ca | vājam ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.10)** *(begun; continues p. 350)*
+
+> हे सुदानू शोभनदानावश्विना वां युवयोः संबन्धीन्येतानि समन्तरोक्तानि वीर्याणि श्रवस्या श्रवणीयानि सर्वैर्ज्ञातव्यानि भवन्ति । तदर्थं रोदस्योर्द्यावापृथिव्यात्मना वर्तमानयोर्युवयोः । उक्तं च यास्केन । कक्ष्यावश्विना द्यावापृथिव्यावित्येके । (नि. १२-१ [as read]) इति । तथा च कैत्तिरीयकम् [sic ?] । इमे अश्विना संवत्सरोऽग्निर्वैश्वानर इति । तयोर्युवयोः सदनं स्तोत्रसमीपे निवेशनं प्रसादनहेतुभूतं वाङ्गूषमाघोषणीयं ब्रह्म मन्त्ररूपं स्तोत्रं निष्पन्नमिति शेषः । यद्वदा पज्रासोऽङ्गिरसां गोत्रोत्पन्ना यजमाना हे अश्विनौ वां युवां हवन्ते स्तुतिभिरात्मरक्षणार्थमाह्वयन्ति तदानीमिषा …
+
+> *he sudānū śobhanadānāvaśvinā vāṃ yuvayoḥ saṃbandhīnyetāni samantaroktāni vīryāṇi śravasyā śravaṇīyāni sarvairjñātavyāni bhavanti | tadarthaṃ rodasyordyāvāpṛthivyātmanā vartamānayoryuvayoḥ | uktaṃ ca yāskena | kakṣyāvaśvinā dyāvāpṛthivyāvityeke | (ni. 12-1 [as read]) iti | tathā ca kaittirīyakam [sic ?] | ime aśvinā saṃvatsaro 'gnirvaiśvānara iti | tayoryuvayoḥ sadanaṃ stotrasamīpe niveśanaṃ prasādanahetubhūtaṃ vāṅgūṣamāghoṣaṇīyaṃ brahma mantrarūpaṃ stotraṃ niṣpannamiti śeṣaḥ | yadvadā pajrāso 'ṅgirasāṃ gotrotpannā yajamānā he aśvinau vāṃ yuvāṃ havante stutibhirātmarakṣaṇārthamāhvayanti tadānīmiṣā …*
+
+*Sense (mine):* "O Sudānū — good givers, Aśvins! These (*etāni*) valorous deeds of yours (*vām*), just now spoken, are *śravasyā* — worthy of being heard, to be known by all. For that purpose [there is] of you two, who exist as heaven and earth (*rodasyoḥ*) — and Yāska has said: 'Some say that the Aśvins are heaven and earth' (Ni. 12-1 as read) — and so too the Taittirīya [printed *kaittirīyakam*]: 'These two Aśvins are the year, Agni Vaiśvānara' — for these two, your seat (*sadanam*): the abode near the hymn, the cause of pleasing, *āṅgūṣam* — to be proclaimed aloud — the *brahma*, the hymn in the form of mantra, has been produced (the verb is understood). And when the Pajras, sacrificers born in the family of the Aṅgirases, call you, Aśvins, with praises for their own protection, then — [by] food (*iṣā*) …" *(breaks off; continues p. 350)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–9 complete; Ṛk 10 (the last Ṛk of this sūkta's printed run so far — verify count) Saṃhitā, Pada and the first half of the bhāṣya done through printed p. 349 (PDF 369); bhāṣya continues p. 350. Next: printed p. 350 (PDF 370). Open: p. 348 small-type grammar `[?]`; *kaittirīyakam* [sic] and Ni. 12-1 on p. 349 as read.
