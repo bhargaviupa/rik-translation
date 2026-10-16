@@ -3771,4 +3771,168 @@ Since the path of this *ṛta* is the path on which the Gandharvas move, it must
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 146 (PDF 167): Ṛk 3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā/Pada done, Sāyaṇa-bhāṣya in progress (breaks off at *sā yathā svapataḥ putrādīn bhojanāya …*); resume p. 147 (PDF 168).
+### Printed p. 147  (PDF 168)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+> …भोजनाय बोधयति तद्वत् । यद्वा । अद्मेति गृहनाम वरूथमद्मेति तन्नामसु पाठात् । तत्र सीदतीत्यद्मसज्जननी । सा यथा स्वपतः पुत्रादीनुषःकाले प्रबोधयति तथा भुवनाख्ये गृहे सीदन्ति तत्रत्यान्प्राणिनः प्रबोधयतीयमुषाः । ईयुषीणामागमनशीलानां स्त्रीणां मध्ये शश्वत्तमा पुनःपुनरागच्छति । प्रातर्नियतमागच्छन्तीनां वारयोषितां मध्ये स्वयमेका सती नियतमागच्छतीत्यभिप्रायः । अत्र निरुक्तम् । उपादर्शि शुन्ध्युवः शुन्ध्युरादित्यो भवति शोधनात्तस्यैव वक्षो भासोऽध्यूढमिदमपीतरद्वक्ष एतस्मादेवाध्यूढं कायै [?] । शकुनिरपि शुन्ध्युरुच्यते शोधनादेवोदकचरो भवति । आपोऽपि शुन्ध्यव उच्यन्ते शोधनादेव । नोधा ऋषिर्भवति नवनं दधाति । स यथा स्तुत्या कामानाविष्कुरुत एवमुषा रूपाण्याविष्कुरुते । अद्मसदद्मानं भवत्यसादिनीति वान्नसानिनीति वा । ससतो बोधयन्ती शश्वत्तमागात्पुनरेयुषीणां स्वपतो बोधयन्ती शाश्वतिकतमागात्पुनरागामिनीनाम् । नि. ४-१६ । इति ॥
+
+> *…bhojanāya bodhayati tadvat | yadvā | admeti gṛhanāma varūthamadmeti tannāmasu pāṭhāt | tatra sīdatītyadmasajjananī | sā yathā svapataḥ putrādīnuṣaḥkāle prabodhayati tathā bhuvanākhye gṛhe sīdanti tatratyānprāṇinaḥ prabodhayatīyamuṣāḥ | īyuṣīṇāmāgamanaśīlānāṃ strīṇāṃ madhye śaśvattamā punaḥpunarāgacchati | prātarniyatamāgacchantīnāṃ vārayoṣitāṃ madhye svayamekā satī niyatamāgacchatītyabhiprāyaḥ | atra niruktam | upādarśi śundhyuvaḥ śundhyurādityo bhavati śodhanāttasyaiva vakṣo bhāso 'dhyūḍhamidamapītaradvakṣa etasmādevādhyūḍhaṃ kāyai [?] | śakunirapi śundhyurucyate śodhanādevodakacaro bhavati | āpo 'pi śundhyava ucyante śodhanādeva | nodhā ṛṣirbhavati navanaṃ dadhāti | sa yathā stutyā kāmānāviṣkuruta evamuṣā rūpāṇyāviṣkurute | admasadadmānaṃ bhavatyasādinīti vānnasāninīti vā | sasato bodhayantī śaśvattamāgātpunareyuṣīṇāṃ svapato bodhayantī śāśvatikatamāgātpunarāgāminīnām | ni. 4-16 | iti ‖*
+
+*(Read from the image and checked against the OCR; the words "kāyai [?]" and "adhyūḍham" in the Nirukta passage are doubtful in the print.)* "…[so she] awakens for meals: likewise [the Uṣas]. Or else *admā* is a name for 'house' (it is read among the names *varūtham*, *admā*); one who sits there is *admasat*, the housewife. As she wakes her sleeping husband, sons and others at the time of dawn, so this Uṣas wakes the beings who dwell in the house called the world. Among the women, *īyuṣīṇām* — who go [early] — she, *śaśvattamā*, comes again and again; among the courtesans who regularly come in the morning, she alone is regular: that is the intention. Here the Nirukta: '*upādarśi śundhyuvaḥ*: *śundhyu* is Āditya, because of purifying; his bosom is *bhāsā* — what is raised by light … Also the bird *śakuni* is called *śundhyu*, because it purifies, it being a water-dweller; also the waters are called *śundhyavaḥ* because of purifying. *Nodhā* is a seer; he holds newness. As he, by praise, makes manifest his desires, so does Uṣas make forms manifest. *Admasat* — one who sits at food: *admānaṃ bhavati*, '*asādinī*', or *annasāninī*. *Sasato bodhayantī śaśvattamā āgāt punar eyuṣīṇām* — waking the sleeping, the most continual, she has come again of those who are to come back.' (Ni. 4-16)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Eṣā* — this goddess Uṣas; *śundhyuvaḥ* — of the purifying Sun (or of the water-dwelling white bird); *vakṣaḥ na* — like the rays which are in the position of a bosom (as when one shows the bosom); *upo* — near; *adarśi* — is seen (by all); *nodhāḥ iva* — as the seer called Nodhas (in the guise of praise manifested all the things dear to him); *priyāṇi* — the dear special forms (of radiant form); *āviḥ akṛta* — made manifest; *admasat* — the woman who cooks food and the like; *sasataḥ bodhayantī na* — like [her] waking the sleeping children for food (waking the sleeping beings, the goddess Uṣas); *ā īyuṣīṇām* — among the women who rise and come at dawn; *śaśvattamā* — the most unfailing (regularly); *punaḥ ā agāt* — comes again and again.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The goddess Uṣas is seen, like the rays of the Sun, quite nearby (by all); like the seer Nodhas she takes on many forms dear to people; like a mother who, having cooked food and the like in the house, wakes her children, she wakes the sleeping beings; she rises again and again more regularly than all the women who rise early (by habit).
+
+**Printed English (as printed):** *She is beheld nigh at hand, (radiant) as the breast of the illuminator (the sun); and, like Nodhas, has made manifest many pleasing*
+
+### Printed p. 148  (PDF 169)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+*(objects) : like a matron she awakens (her) sleeping (children), and of all (females who are) stirring betimes, she, the most unvarying, repeatedly appears.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 4.**
+
+For this ṛk the author of the Nirukta has made the following explanation (as above):
+
+> उपादर्शि शुन्ध्युवः शुन्ध्युरादित्यो भवति शोधनात्तस्यैव वक्षो भासाध्यूढमिदमपीतरद्वक्ष एतस्मादेवाध्यूढं कायै [?] । शकुनिरपि शुन्ध्युरुच्यते शोधनादेवोदकचरो भवत्यापोऽपि शुन्ध्यव उच्यन्ते शोधनादेव । नोधा ऋषिर्भवति नवनं दधाति स यथा स्तुत्या कामानाविष्कुरुत एवमुषा रूपाण्याविष्कुरुते सदनं भवत्यसादिनीति वान्नसानिनीति वा । ससतो बोधयन्ती शश्वत्तमागात्पुनरेयुषीणां । स्वपतो बोधयन्ती शाश्वतिकतमागात्पुनरागामिनीनाम् ।
+
+> *upādarśi śundhyuvaḥ śundhyurādityo bhavati śodhanāttasyaiva vakṣo bhāsādhyūḍhamidamapītaradvakṣa etasmādevādhyūḍhaṃ kāyai [?] | śakunirapi śundhyurucyate śodhanādevodakacaro bhavatyāpo 'pi śundhyava ucyante śodhanādeva | nodhā ṛṣirbhavati navanaṃ dadhāti sa yathā stutyā kāmānāviṣkuruta evamuṣā rūpāṇyāviṣkurute sadanaṃ bhavatyasādinīti vānnasāninīti vā | sasato bodhayantī śaśvattamāgātpunareyuṣīṇāṃ | svapato bodhayantī śāśvatikatamāgātpunarāgāminīnām |*
+
+(Ni. 4-16, as printed "೪-೧೬".) *(Read letter by letter from the image; the pieces marked [?] are not clear in the print.)* And, explaining thus, he states the meanings of the word *śundhyu*: *śundhyur ādityo bhavati śodhanāt* — "the Āditya has this name because of purifying" — the first meaning; *śakunir api śundhyur ucyate śodhanād evodakacaro bhavati* — the bird that moves in water is also called by this name because it purifies by removing the dirt there; *āpo 'pi śundhyava ucyante śodhanād eva* — the water too is called by this name because it purifies: thus the various meanings of the word are shown; in all contexts the root is of one and the same sense. In the Ṛk Saṃhitā —
+
+> प्र शुन्ध्युवं वरुणाय प्रेष्ठां मतिं वसिष्ठ मीळ्हुषे भरस्व ।
+> य ईमर्वाञ्चं करते यजत्रं सहस्रामघं वृषणं बृहन्तम् ॥
+
+> *pra śundhyuvaṃ varuṇāya preṣṭhāṃ matiṃ vasiṣṭha mīḷhuṣe bharasva |*
+> *ya īmarvāñcaṃ karate yajatraṃ sahasrāmaghaṃ vṛṣaṇaṃ bṛhantam ‖*
+
+(Ṛ. Saṃ. 7-88-1 [?], as I read the print.) — in this ṛk *śundhyu* is an epithet of the praise, "that which purifies, or that which is pure of itself", "to be made pure, or to be pure by itself".
+
+> युवं रथेन विमदाय शुन्ध्युवं न्यूहथुः पुरुमित्रस्य योषणाम् ।
+> युवं ह वं वध्रिमत्या अगच्छतं युवं सुषुतिं चक्रथुः पुरंधये ॥
+
+> *yuvaṃ rathena vimadāya śundhyuvaṃ nyūhathuḥ purumitrasya yoṣaṇām |*
+> *yuvaṃ ha vaṃ vadhrimatyā agacchataṃ yuvaṃ suṣutiṃ cakrathuḥ puraṃdhaye ‖*
+
+(Ṛ. Saṃ. 1-117-20, as read from the print.) — in this ṛk *śundhyu* means "a pure woman". In the present ṛk the appearance of Uṣas is described; it is compared to the bosom-like mass of rays of the purifier, the Sun, or to the breast of the white water-bird.
+
+### Printed p. 149  (PDF 170)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+***nodhā iva*** — for this word the author of the Nirukta says: *nodhā ṛṣir bhavati | navanaṃ dadhāti | sa yathā stutyā kāmān āviṣkurute.* As the seer called Nodhas makes visible, by his new praises that take the form of poetry, the wishes lying in his heart, so Uṣas too manifests her sleeping brilliance — thus it is compared.
+
+Nodhas (Gautama) is well known as the seer of the seven sūktas in the first maṇḍala of the Ṛk-saṃhitā from the 58th to the 64th [numerals as read; the OCR gives "12 to 64"], and of the 88th sūkta of the eighth maṇḍala and the 93rd of the ninth. His story is told in many places in the Ṛk-saṃhitā itself —
+
+> तं त्वा वयं पतिमग्ने रयीणां प्र शंसामो मतिभिर्गोतमासः ।
+> आशुं न वाजंभरं मर्जयन्तः प्रातर्मक्षू धियावसुर्जगम्यात् ॥
+
+> *taṃ tvā vayaṃ patimagne rayīṇāṃ pra śaṃsāmo matibhirgotamāsaḥ |*
+> *āśuṃ na vājaṃbharaṃ marjayantaḥ prātarmakṣū dhiyāvasurjagamyāt ‖*
+
+(Ṛ. Saṃ. 1-60-5, as read from the print.)
+
+— in such ṛks, [they are] said to be "sons of Gotama" praising Agni, the lord of wealth.
+
+> एना ते हार्योजना सुवृक्ती इन्द्र ब्रह्माणि गोतमासो अक्रन् ।
+> ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥
+
+> *enā te hāryojanā suvṛktī indra brahmāṇi gotamāso akran |*
+> *aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātarmakṣū dhiyāvasurjagamyāt ‖*
+
+(Ṛ. Saṃ. 1-61-16 [?], as read from the print.) — here it is said that the Gautama sons composed praises addressed to Indra. In the present ṛk it is described that the appearance of Uṣas was shining like the wishes revealed by praises composed by Nodhas Gautama.
+
+***admasat*** — *admasad admānaṃ bhavaty asādinīti vā annasāninīti vā* (Ni. 4-16, as printed): The word *admā* has the name "food"; it is *admasat* either because she sits before the food in order to eat it, or because she possesses food: thus the author of the Nirukta states the explanation of this word. Sāyaṇa:
+
+> अद्मसन्न । अत्राप्युपमार्थीयो नकारः । अद्यत इत्यद्मान्नम् । तस्य पाकाय गृहे सीदतीत्यद्मसत् । पाचिका योषित् । यद्वा अद्मेति गृहनाम । वरूथमद्मेति तन्नामसु पाठात् । तत्र सीदतीत्यद्मसज्जननी ॥
+
+> *admasanna | atrāpyupamārthīyo nakāraḥ | adyata ityadmānnam | tasya pākāya gṛhe sīdatītyadmasat | pācikā yoṣit | yadvā admeti gṛhanāma | varūthamadmeti tannāmasu pāṭhāt | tatra sīdatītyadmasajjananī ‖*
+
+*(Read from the image.)* "*Admasan na* — here too the *na* has the sense of comparison. What is eaten is *admā*, 'food'; she who sits in the house for its cooking is *admasat*, the woman who cooks. Or else *admā* is a name for 'house' — since *varūtham*, *admā* are read among its names; one who sits there is *admasat*, the housewife (*jananī*)." — Because food is to be eaten, *admā* means food; *admasat* means a woman who stays in the house in order to cook it; or, since the word *admā* is recorded among the names of the house, she who stays in the house, the mother (*jananī*): he states the meaning of this word in two ways. As the *na* is of the sense of comparison,
+
+> सा जननी यथा स्वपतः पुत्रादीनुषःकाले प्रबोधयति तथा भुवनाख्ये गृहे सीदन्ति तत्रत्यान्प्राणिनः प्रबोधयतीयमुषाः ।
+
+> *sā jananī yathā svapataḥ putrādīnuṣaḥkāle prabodhayati tathā bhuvanākhye gṛhe sīdanti tatratyānprāṇinaḥ prabodhayatīyamuṣāḥ |*
+
+### Printed p. 150  (PDF 171)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+— as the mother wakes her children at the time of dawn, so Uṣas, the mother of the world, wakes all the beings in the world: that is the sense.
+
+Or else, some scholars hold that *admasat* may also mean "the *hotṛ* priest"; and it is well known that the *hotṛ* also wakes the gods and others —
+
+> प्र बोधयोषो अश्विना प्र देवि सूनृते महि ।
+> प्र यज्ञहोतरानुषक्प्र मदाय श्रवो बृहत् ॥
+
+> *pra bodhayoṣo aśvinā pra devi sūnṛte mahi |*
+> *pra yajñahotarānuṣakpra madāya śravo bṛhat ‖*
+
+(Ṛ. Saṃ. 8-9-? [?], as read — the print's last numeral is not clear to me.) — in this ṛk Uṣas is entreated to wake the Aśvins, as the *hotṛ* of the sacrifice wakes the Aśvin deities.
+
+> दश राजानः समिता अयज्यवः सुदासमिन्द्रावरुणा न युयुधुः ।
+> सत्या नृणामद्मसदामुपस्तुतिर्देवा एषामभवन्देवहूतिषु ॥
+
+> *daśa rājānaḥ samitā ayajyavaḥ sudāsamindrāvaruṇā na yuyudhuḥ |*
+> *satyā nṛṇāmadmasadāmupastutirdevā eṣāmabhavandevahūtiṣu ‖*
+
+(Ṛ. Saṃ. 7-83-7, as read from the print.) — in this ṛk Sāyaṇa himself gives this meaning: *admasadām — admānnaṃ havis tatra sīdantīty admasada ṛtvijaḥ* — "the priests who sit near the oblation" — he explains, saying "priests". Likewise —
+
+> वद्मा हि सूनो अस्यद्मसद्वा चक्रे अग्निर्जनुषाज्मान्नम् ।
+> स त्वं न ऊर्जसन ऊर्जं धा राजेव जेरवृके क्षेष्यन्तः ॥
+
+> *vadmā hi sūno asyadmasadvā cakre agnirjanuṣājmānnam |*
+> *sa tvaṃ na ūrjasana ūrjaṃ dhā rājeva jeravṛke kṣeṣyantaḥ ‖*
+
+(Ṛ. Saṃ. 7-4-4 [?], as read.) — in this too, and likewise in the ṛks 8-44-29 [?] and 8-43-19 [?] and others, it may be said that the word means *hotṛ*.
+
+**Vyākaraṇa-prakriyā (grammar, Ṛk 4; noted briefly, numbers as read by the OCR).** *śundhyuvaḥ* — root *śundha śuddhau*; *yaji-mani-śundhi-dasi-janibhyo yuc* [print: "ಯಜಿಮನಿಶುಂಧಿದಸಿಜನಿಭ್ಯೋ ಯುಚ್"] (Uṇ. 3-300 as read) gives the suffix *yu*; with the genitive singular following, *tanvādīnāṃ chandasi bahulam upasaṃkhyānam* (Pā. 6-4-77, vārttika) gives *uvaṅ*; the accent of the suffix. *nodhāḥ* — *navanaṃ dadhāti iti nodhāḥ*; "*nodhā ṛṣir bhavati navanaṃ dadhāti*" (Ni. 4-16) says Yāska; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; with *navana* as the upapada, the suffix *asun*, and *no* for the upapada; the accent of the final member. *akṛta* — root *ḍukṛñ karaṇe*; luṅ, third person singular, the ending *ta*; *mantre ghasa-hvara-…* (Pā. 2-4-80, as read) gives *luk* to the *cli*; since the suffix has the marker *ṅit*, no guṇa; the augment *aṭ*; since it follows a non-verb word, the *nighāta* accent.
+
+### Printed p. 151  (PDF 172)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+*admasat* — *adyate iti admā, annam; tadarthaṃ sīdatīti admasat*; *sadiṣu* [sic; *sadiṣvañjaḥ*?] (Pā. 3-2-61 as read) gives *kvip* to the root *ṣad* when a subanta stands as upapada; *ṣatva*… of the initial of the root; *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the final member. *sasataḥ* — root *ṣasa svapne*; Adādi; śatṛ in the laṭ sense; *ṣatva* of the initial; accusative plural; since the case-ending follows a śatṛ without *num*, *śatur anumo nadyajādī* (Pā. 6-1-173) gives it the acute accent. *bodhayantī* — root *budha avagamane*; in the causative sense, *hetumati ca* (Pā. 3-1-26) gives *ṇic*; with it as cause the guṇa of the root's short penultimate vowel; after *ṇijanta*, śatṛ in the laṭ sense; *śap*; guṇa of *ṇic* and the *ay* substitute; in the feminine *num* by *ugit*; the *ṇic*-accent remains. *śaśvattamā* — suffix *tamap* in the sense of excess; since *upottamaṃ śaśvattamau sarvatra* (Pā. 6-1-160 as read) is read in the *ūḍādi* group, *tamap* though *pit* is final-acute. *agāt* — root *iṇ gatau*; Adādi; luṅ, third person singular *tip*; *itaś ca* elides the *i*; *e g(ā) luṅi* (Pā. 2-4-45) gives *gā*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77) elides the *siC*; the augment *aṭ*; since it follows a non-verb word, the *nighāta* accent. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> पूर्वे अर्धे रजसो अप्त्यस्य गवां जनित्र्यकृत प्र केतुम् ।
+> व्यू प्रथते वितरं वरीय ओभा पृणन्ती पित्रोरुपस्था ॥ ५ ॥
+
+> *pūrve ardhe rajaso aptyasya gavāṃ janitryakṛta pra ketum |*
+> *vyū prathate vitaraṃ varīya obhā pṛṇantī pitrorupasthā ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> पूर्वे । अर्धे । रजसः । अप्त्यस्य । गवाम् । जनित्री । अकृत । प्र । केतुम् ।
+> वि । ऊँ इति । प्रथते । वितरम् । वरीयः । आ । उभा । पृणन्ती । पित्रोः । उपस्था ॥ ५ ॥
+
+> *pūrve | ardhe | rajasaḥ | aptyasya | gavām | janitrī | akṛta | pra | ketum |*
+> *vi | ū~ iti | prathate | vitaram | varīyaḥ | ā | ubhā | pṛṇantī | pitroḥ | upasthā ‖ 5 ‖*
+
+### Printed p. 152  (PDF 173)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अप्त्यस्य व्यापनशीलस्य विस्तृतस्य रजसो रञ्जकस्यान्तरिक्षलोकस्य । रजश्शब्दोऽन्तरिक्षलोकवाची लोका रजांस्युच्यन्त इति यास्कोक्तत्वात् । नि. ४-१९ । तस्य पूर्वेऽर्धे पूर्वस्मिन्भागे जनित्र्युत्पन्ना सती गवां दिशां रश्मीनां वा केतुं प्रज्ञानं प्राकृत । प्रकर्षेण करोति । यद्वा । रजसो रञ्जकस्याह्नः । रजश्शब्दोऽहर्वाची । अस्मिन्नहनि रजसी उच्येते इति यास्कोक्तत्वात् । नि. ४-१९ । तस्य पूर्वेऽर्धे पूर्वस्मिन्भागे उषःकाले गवां वाचां जनित्री जनयित्र्युत्पादयित्री । उषःकाले सर्वेषां प्राणिनां वाचः स्फुरन्तीति प्रसिद्धम् । यद्वा । अप्त्यस्य कर्मसु स्थितस्य जन्तोः केतुं गमनागमनादिरूपं कर्म । केतुरिति कर्मनाम केतः केतुरिति तन्नामसु पाठात् । प्राकृत । प्रकर्षेण करोति । किंच पित्रोः पालयित्र्योर्द्यावापृथिव्योरुपस्थे उत्सङ्गेऽन्तरालप्रदेशे स्थिता सती उभा उभे द्यावापृथिव्यौ पृणन्ती स्वतेजसा पूरयन्ती । यद्वा । उभोभयोः पित्रोरिति संबन्धः । वितरं विशिष्टतरं वरीय उरुतरमतिविस्तीर्णं यथा भवति तथा वि प्रथते । विशेषेणैव प्रख्याता भवति । प्रकाशत इत्यर्थः । उशब्दोऽवधारणार्थः पादपूरणो वा मिताक्षरेष्वनर्थकाः कमीमिद्धितीति यास्कोक्तत्वात् ॥
+
+> *aptyasya vyāpanaśīlasya vistṛtasya rajaso rañjakasyāntarikṣalokasya | rajaśśabdo 'ntarikṣalokavācī lokā rajāṃsyucyanta iti yāskoktatvāt | ni. 4-19 | tasya pūrve 'rdhe pūrvasminbhāge janitryutpannā satī gavāṃ diśāṃ raśmīnāṃ vā ketuṃ prajñānaṃ prākṛta | prakarṣeṇa karoti | yadvā | rajaso rañjakasyāhnaḥ | rajaśśabdo 'harvācī | asminnahani rajasī ucyete iti yāskoktatvāt | ni. 4-19 | tasya pūrve 'rdhe pūrvasminbhāge uṣaḥkāle gavāṃ vācāṃ janitrī janayitryutpādayitrī | uṣaḥkāle sarveṣāṃ prāṇināṃ vācaḥ sphurantīti prasiddham | yadvā | aptyasya karmasu sthitasya jantoḥ ketuṃ gamanāgamanādirūpaṃ karma | keturiti karmanāma ketaḥ keturiti tannāmasu pāṭhāt | prākṛta | prakarṣeṇa karoti | kiṃca pitroḥ pālayitryordyāvāpṛthivyorupasthe utsaṅge 'ntarālapradeśe sthitā satī ubhā ubhe dyāvāpṛthivyau pṛṇantī svatejasā pūrayantī | yadvā | ubhobhayoḥ pitroriti saṃbandhaḥ | vitaraṃ viśiṣṭataraṃ varīya urutaramativistīrṇaṃ yathā bhavati tathā vi prathate | viśeṣeṇaiva prakhyātā bhavati | prakāśata ityarthaḥ | uśabdo 'vadhāraṇārthaḥ pādapūraṇo vā mitākṣareṣvanarthakāḥ kamīmiddhitīti yāskoktatvāt ‖*
+
+*(Read from the image; checked against the OCR, which is badly garbled here. The Nirukta references "4-19" are as printed "೪-೧೯" and as the OCR reads them.)* "Of *aptya* — the pervading, the extended — *rajas*, the colouring [world], the world of the atmosphere (the word *rajas* denotes the world of the atmosphere, since Yāska says '*lokā rajāṃsy ucyante*', Ni. 4-19); in its eastern half (*pūrve ardhe*), in the front part, being born (*janitrī*), she makes (*prākṛta*, 'makes excellently') a *ketu*, a knowledge (perception), of the *gavām* — of the quarters or of the rays. Or else of the *rajas*, the day which colours (the word *rajas* denotes the day, since Yāska says 'in this day the two worlds (*rajasī*) are spoken of', Ni. 4-19); in its eastern half, in the former part, at the time of Uṣas, she is the *janitrī* — the begetter, the producer — of *gavām* — voices (speeches); for it is well known that at the time of Uṣas the speech of all living beings comes to life. Or else, of the creature engaged in works (*aptya*), she makes the *ketu* — activity in the form of going and coming and so on (*ketu* is a name for 'action', since *ketaḥ*, *ketuḥ* are read among its names). Moreover, standing in the lap, the intermediate region, of *pitroḥ* — the two protecting parents, heaven and earth — *ubhā* — filling both heaven and earth with her own brilliance; or the construction is *ubhayoḥ pitroḥ*; she spreads out (*vi prathate*) more widely (*vitaram*), *variyaḥ* — most extensively, in the widest degree; she becomes known specially; that is, she shines. The word *u* is for emphasis, or a pāda-filler, as Yāska says 'among the measured syllables, *kam, īm, id, u* are meaningless' (Ni. 1-9)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Aptyasya* — of the pervading; *rajasaḥ* — of the world of the atmosphere; *pūrve ardhe* — in the front part, at the time of Uṣas; *janitrī* — being born; *gavām* — of the quarters (the rays); *ketum* — the knowledge; *pra akṛta* — [Uṣas] makes abundantly (or): *aptyasya* — of the creature engaged in works; *rajasaḥ* — of the day; *pūrve ardhe* — in the first half; *gavām* — of voices; *janitrī* — as the mother; *ketum* — the knowledge of actions (going and coming and so on); *pra akṛta* — (the goddess Uṣas) makes well; (*kiṃca* — and); *pitroḥ* — of the two protecting parents, earth and sky; *upasthā* — in the lap region (being); *ubhā* — heaven and earth both; *ā pṛṇantī* — filling with her radiance; *vitaram* — more; *variyaḥ* — widely; *vi prathate* — becomes well known (shines).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Uṣas, being born in the front part of the pervading atmosphere (in the front part of the day), makes known the quarters (by her light). (Being born in the front part of the day, she gives the creature engaged in works the knowledge of its works, going and coming and so on;) and, shining between earth and sky — lighting up the two regions — she becomes still more widely known (shines).
+
+*(The printed English translation of this ṛk begins at the foot of this page: "Born in the eastern" — see p. 153 below.)*
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 152 (PDF 173): Ṛks 1–4 complete; Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done; resume p. 153 (PDF 174) with Ṛk 5 printed English ("Born in the eastern …") and Special Topics.
