@@ -16733,4 +16733,50 @@ Here the order of the Soma-drinking of Mitra and Varuṇa is described.
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 4 written through p. 691 (Special Topics done; grammar through *rājānā*, the rest follows); resume p. 692 (PDF 713; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 692  (PDF 713)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Grammar of Ṛk 4, concluded.)* *karathaḥ* — root *ḍukṛñ karaṇe*; *laṭ*, second person dual; since it is *para*, by *vyatyaya* [?] and *bahulaṃ chandasi* *śap* as *vikaraṇa* [as read]; *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84 [as read]) gives *guṇa* to the root's *ṛ*; *nighāta* after a *tiṅanta*. *īmahe* — root *īḍ gatau*; *divādi*; *laṭ*, first person plural, *mahiṅ*; *ṭita e* [as read: *ṭeḥ e*]; by *bahulaṃ chandasi* *luk* of the *vikaraṇa* (*śyan*); since the suffix is *jit*, *ati* [?], *guṇa* does not occur; because it is connected with *yat*, the *nighāta* does not occur; as the root is *jit*, the *tāsyanudāttenṅit…* (Pā. 6-1-186 [as read]) makes the suffix *anudātta*, and the root's accent remains. *ṛtāvānā* — *chandasīvanipau* (Pā. 5-2-109 [as read]) gives *vanip* in the sense of *matup*; *anyeṣām api dṛśyate* (Pā. 6-3-137 [as read]) gives lengthening to the earlier member; since the suffix is *pit*, it is *anudātta*; *supāṃ sulug* gives *ā* for the dual. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> यो मित्राय वरुणायाविधज्जनोऽनर्वाणं तं परि पातो अꣳहसो दाश्वाꣳसं मर्तमꣳहसः ।
+> तमर्यमाभि रक्षत्यृजूयन्तमनु व्रतम् ।
+> उक्थैर्य एनोः परिभूषति व्रतं स्तोमैराभूषति व्रतम् ॥ ५ ॥
+
+> *yo mitrāya varuṇāyāvidhajjano 'narvāṇaṃ taṃ pari pāto am̐haso dāśvām̐saṃ martamam̐hasaḥ |*
+> *tamaryamābhi rakṣatyṛjūyantamanu vratam |*
+> *ukthairya enoḥ paribhūṣati vrataṃ stomairābhūṣati vratam ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । मित्राय । वरुणाय । अविधत् । जनः । अनर्वाणम् । तम् । परि । पातः । अꣳहसः । दाश्वाꣳसम् । मर्तम् । अꣳहसः ।
+> तम् । अर्यमा । अभि । रक्षति । ऋजुऽयन्तम् । अनु । व्रतम् ।
+> उक्थैः । यः । एनोः । परिऽभूषति । व्रतम् । स्तोमैः । आऽभूषति । व्रतम् ॥ ५ ॥
+
+> *yaḥ | mitrāya | varuṇāya | avidhat | janaḥ | anarvāṇam | tam | pari | pātaḥ | am̐hasaḥ | dāśvām̐sam | martam | am̐hasaḥ |*
+> *tam | aryamā | abhi | rakṣati | ṛju 'yantam | anu | vratam |*
+> *ukthaiḥ | yaḥ | enoḥ | pari 'bhūṣati | vratam | stomaiḥ | ā 'bhūṣati | vratam ‖ 5 ‖*
+
+### Printed p. 693  (PDF 714)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 5; read from the image; doubtful words marked [?].)*
+
+> यो जनो यजमानो मित्राय वरुणाय च ॥ कर्मणः संप्रदानत्वाच्चतुर्थी ॥ मित्रं वरुणं चाविधत् परिचरति तं जनं युष्मत्परिचारकमनर्वाणमद्वेषिणम् । भ्रातृव्यो वा अर्वेति श्रुतेः । अनल्पं वानन्यसेविनं परि पातः । परितो रक्षतां । कस्मादित्युच्यते । अꣳहसो न्यूनात्रिकैकजनितात्पापात् । न केवलं सामान्यं जनमपि तु दाश्वाꣳसं हविर्दत्त्वन्तं मर्तं मरणधर्माणमꣳहसः सर्वस्मादपि पापात् । न केवलं भवन्तावेव अपि त्वर्यमा सर्वेषां नियन्ता देव ऋजूयन्तं देवेष्वार्जवमाचरन्तं यजमानमनु व्रतं तदीयं कर्मानुलक्ष्याभि रक्षति । अभितो रक्षति । कोऽस्य जनस्य विशेष इति तत्राह । यो यजमान उक्थैः शस्त्रैरेनोरेनयोर्मित्रावरुणयोर्व्रतं कर्म परिभूषति परिगृह्णाति तथा यजमानो युष्मदीयं व्रतं कर्म स्तोमैः स्तोत्रैर्गानयुक्तमन्त्रसाध्यैराभूषति सर्वतोऽलंकरोति ॥ भूष अलंकारे । भौवादिकः ॥ तमभिरक्षन्तीत्यन्वयः ॥
+
+> *yo jano yajamāno mitrāya varuṇāya ca ‖ karmaṇaḥ saṃpradānatvāccaturthī ‖ mitraṃ varuṇaṃ cāvidhat paricarati taṃ janaṃ yuṣmatparicārakamanarvāṇamadveṣiṇam | bhrātṛvyo vā arveti śruteḥ | analpaṃ vānanyasevinaṃ pari pātaḥ | parito rakṣatāṃ | kasmādityucyate | am̐haso nyūnātrikaikajanitātpāpāt | na kevalaṃ sāmānyaṃ janamapi tu dāśvām̐saṃ havirdattvantaṃ martaṃ maraṇadharmāṇamam̐hasaḥ sarvasmādapi pāpāt | na kevalaṃ bhavantāveva api tvaryamā sarveṣāṃ niyantā deva ṛjūyantaṃ deveṣvārjavamācarantaṃ yajamānamanu vrataṃ tadīyaṃ karmānulakṣyābhi rakṣati | abhito rakṣati | ko 'sya janasya viśeṣa iti tatrāha | yo yajamāna ukthaiḥ śastrairenorenayormitrāvaruṇayorvrataṃ karma paribhūṣati parigṛhṇāti tathā yajamāno yuṣmadīyaṃ vrataṃ karma stomaiḥ stotrairgānayuktamantrasādhyairābhūṣati sarvato 'laṃkaroti ‖ bhūṣa alaṃkāre | bhauvādikaḥ ‖ tamabhirakṣantītyanvayaḥ ‖*
+
+*(Sense: "Whatever person, sacrificer, serves (*avidhat*) Mitra and Varuṇa [the dative because of *sampradāna* in the rite], that person, your servant, *anarvāṇam* — without an enemy [*arvā* = enemy; *bhrātṛvyo vā arvā*, says the Śruti] or not alone, serving no other — protect all round (*pari pātaḥ*); from what? from *aṃhasaḥ* — sin caused by deficiency or excess. Not only the common person, but *dāśvāṃsam* — the one who has given oblations — *martam*, the mortal, from *aṃhasaḥ* — all sin. Not only you two, but Aryaman too, the god who regulates all, protects (*abhi rakṣati*) the sacrificer who behaves honestly (*ṛjūyantam*) towards the gods, in accordance with (*anu*) his rite (*vratam*). What is special about this man? — The sacrificer who, with *ukthaiḥ*, recitations, embraces the *vrata* — rite — of these two, Mitra and Varuṇa, and who with *stomaiḥ*, hymns accomplished by mantras accompanied by song, adorns your rite on all sides: so they protect him.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *yaḥ janaḥ* — whichever man (sacrificer); *mitrāya varuṇāya (ca)* — to Mitra and Varuṇa both; *avidhat* — serves (waits upon); *tam* — that man; *anarvāṇam* — free of enemies (made not to have a wicked servant [?] or [?]); *aṃhasaḥ* — (from sin that arises from deficiency or excess); *pari pātaḥ* — protect completely; *(and)* *dāśvāṃsam* — who has given oblations; *martam* — the mortal man; *aṃhasaḥ* — (from all kinds of) sin; *(pari pātaḥ)*; *yaḥ* — whichever sacrificer; *ukthaiḥ* — with the *śastra*-mantras; *enoḥ* — of these two Mitra and Varuṇa [aimed at me]; *vratam* — the rite; *paribhūṣati* — takes up; *(tathā)* — likewise; *(yaḥ)* — [whichever sacrificer]; *vratam* — your rite; *stomaiḥ* — with songs; *ābhūṣati* — adorns; *tam* — that sacrificer; *ṛjūyantam* — behaving straight towards the gods; *aryamā* — Aryaman; *anu vratam* — according to his rite; *abhi rakṣati* — protects.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** [O Mitra and Varuṇa,] making him who serves you free of enemies, you remove sin caused by deficiency and excess; you protect the mortal who has given oblations; Aryaman protects the man who behaves honestly, reciting the *śastra* mantras and acting in the rites of both of you and who adorns your rites with praise, in accordance with his rite; [you also protect him].
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 4 complete; Ṛk 5 written through its Bhāvārtha (p. 693); resume p. 694 (PDF 715; images in w10h/ for PDF 661–728) with the printed English. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
