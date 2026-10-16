@@ -10146,4 +10146,80 @@ The word ***dyumnahūtibhiḥ*** is used twice, and two kinds of meaning are giv
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 401 (PDF 422): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 (Atiśakvarī) Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha written; resume p. 402 (PDF 423) with the Ṛk 8 printed English, Special Topics and grammar, then Ṛk 9. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393), Ṛk 7 bhāṣya (p. 396) and Ṛk 8 bhāṣya (pp. 400–401); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 402  (PDF 423)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+**Printed English (heading "English Translation"; as printed):** *"Indra is powerful in the discomfiture of the malevolent by his self-glorifying aids, (granted) unto you and unto us: (he is) the tearer of the malevolent (to pieces): the impetuous host that was sent against us by devouring (foes) to destroy us, has been itself destroyed: it will not reach us; it will not do us harm."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 8).**
+
+***indraḥ svayaśobhiḥ ūtī durmatīnāṃ parivarge prapra*** — "Indra, endowed with the means of protection that are famed through his own glory, is able to subdue the ill-minded enemies of the sacrificers and the priests." Since the prefix *pra*, which denotes "excellence", is used here, the corresponding verb is supplied and the meaning given is *prakṛṣṭo bhavati*, "becomes eminent, able". The second meaning given for the sentence is: "Indra, satisfied by the praises that the sacrificers and priests recite, is able to protect them."
+
+***durmatīnāṃ durmanoyuktānāṃ virodhinām*** — "enemies who think evil", or *duṣṭabahumānavatāṃ hananabuddhīnām* — "of those who have a proud, killing mind, of people who intend to kill out of haughtiness"; or *duṣṭānāṃ* — of the wicked: three kinds of meaning are given for the word *durmati*.
+
+***parivarge*** — *parito varjanavati saṅgrāme yoge vā*: "in the battle that destroys the wicked, or in the sacrifice that is warded off by the wicked": two kinds of meaning are given.
+
+***jūrṇiḥ*** — *javavatī senā*: the word *jūrṇi* is recorded among the names of anger (Ni. 3-[?]; as read "೩-೯") and among the names of the swift (Ni. 3-[?]; as read "೩-೯"). Yāska says that the word *jūrṇiḥ* is formed from *javate*, *dravate*, *dūnoter vā*; Durgācārya explains: from *javanāt* (speed), *dravaṇāt* (running), *davanāt* (burning): the word is used both in the sense of motion and of harming.
+
+Yāska has cited *kṣiptā jūrṇir na vakṣati* as an example of usage. Durgācārya, citing this same Ṛk, says: "Indra hears the praises full of his own glory and protects us; he is the protector in times of battle; he destroys our enemies of ill mind. When by his nature Indra's quality is to subdue the wicked, the praise that we speak of him reveals Indra's greatness; the army
+
+### Printed p. 403  (PDF 424)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+of the enemy, sent against us with such force, is made to perish itself by Indra, and being checked by his protection of us it has no power to harm us": thus he describes the glory of Indra. Explaining that *jūrṇiḥ* is *kṣepaṇasambandhāt* — "from its connection with throwing" — Durgācārya says that *jūrṇi* means "force", "speed", and that *jūrṇiḥ* means "force".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar pages, noted briefly; numbers as printed).** *prapra* — from the force of the preposition *pra* a suitable verb is supplied; as a filler of the *pāda* it is used twice; *nipātasya ca* (Pā. 6-3-136) gives the long vowel in the Saṃhitā. *asme* — the stem *asmad*; *supāṃ sulug* (Pā. 7-1-39) gives *śe* in place of the ending. *ūtī* — *ūtiyūtijūti…* (Pā. 3-3-97) gives the acute on the last syllable and is irregularly formed; as the instrumental ending follows, *supāṃ sulug* gives the lengthening of the previous syllable. *durmatīnām* — *duṣṭā matiḥ yeṣāṃ te teṣām*; *nāmanyatarasyām* (Pā. 6-1-177) gives the acute on the genitive plural ending. *darīman* — *supāṃ sulug* — the locative ending is dropped. *riṣayadhyai* — root *riṣa hiṃsāyām*; *hetumati ca* (Pā. 3-1-26) gives *ṇic*; after the *ṇic* ending, *tumarthe sesenase…* (Pā. 3-4-9) gives the suffix *adhyai*; because of it guṇa of the root's *i*, *ayādeśa*; acute on the first syllable of the suffix; since it ends in *c*… it takes the name of an indeclinable. *upeṣe* — *upa* is a preposition; root *īṅ gatau*; *tumarthe sese…* gives *kse*; because *k*-marked no guṇa; *ādeśapratyayayoḥ* (Pā. 8-3-59) gives *ṣ*; by the suffix's accent the acute on the last syllable; the preposition keeps its accent in the compound (*prādisamāse kṛd-uttarapadaprakṛtisvara*). *hatā* — root *han hiṃsāgatyoḥ*; *kta* in the passive; *anudāttopadeśavanati…* (Pā. 6-4-37) drops the nasal; acute on the last syllable by the suffix; in the feminine *ṭāp*. *asat* — root *as bhuvi*; *laṅ* third person singular, *tip*; *itaś ca* drops *i*; *bahulaṃ chandasy amāṅyoge 'pi* gives no augment *aṭ*; *tiṅ-nighāta*.
+
+### Printed p. 404  (PDF 425)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Grammar, concluded.)* *vakṣati* — root *vaha prāpaṇe*; *leṭ* third person singular, *tip*; *leṭo 'ḍāṭau* (Pā. 3-4-94) gives the augment *aṭ*; *sibbahulaṃ leṭi* (Pā. 3-1-34) gives *sip*; *hoḍhaḥ* (Pā. 8-2-31) gives *ḍh* for the *h*; *ṣaḍhoḥ kaḥ si* (Pā. 8-2-41) gives *k*; because of it *ṣatva* of the *s*; the form *vakṣati*; *tiṅ-nighāta*. *kṣiptā* — root *kṣipa preraṇe*; the suffix *tṛc* in the agent sense; since *c*-marked, the acute on the last syllable. *jūrṇiḥ* — root *jvara saṃtāpe*; *vījyājvaribhyo niḥ* (Uṇ. 4-[?]) gives *ni*; *jvaratvarasrivyavimavām…* (Pā. 6-4-20) gives *ūṭh*. Yāska derives it in another way: *jūrṇir javater vā dravater vā dūnoter vā* (Ni. 6-[?]). ‖ 8 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> त्वं न इन्द्र राया परीणसा याहि पथाँ अनेहसा पुरो याह्यरक्षसा ।
+> सचस्व नः पराक आ सचस्वास्तमीक आ ।
+> पाहि नो दूरादारादभिष्टिभिः सदा पाह्यभिष्टिभिः ॥ ९ ॥
+
+> *tvaṃ na indra rāyā parīṇasā yāhi pathā~ anehasā puro yāhyarakṣasā |*
+> *sacasva naḥ parāka ā sacasvāstamīka ā |*
+> *pāhi no dūrādārādabhiṣṭibhiḥ sadā pāhyabhiṣṭibhiḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । नः । इन्द्र । राया । परीणसा । याहि । पथा । अनेहसा । पुरः । याहि । अरक्षसा ।
+> सचस्व । नः । पराके । आ । सचस्व । अस्तम्ऽईके [?] । आ ।
+> पाहि । नः । दूरात् । आरात् । अभिष्टिऽभिः । सदा । पाहि । अभिष्टिऽभिः ॥ ९ ॥
+
+> *tvam | naḥ | indra | rāyā | parīṇasā | yāhi | pathā | anehasā | puraḥ | yāhi | arakṣasā |*
+> *sacasva | naḥ | parāke | ā | sacasva | astam 'īke [?] | ā |*
+> *pāhi | naḥ | dūrāt | ārāt | abhiṣṭi 'bhiḥ | sadā | pāhi | abhiṣṭi 'bhiḥ ‖ 9 ‖*
+
+*(Read from the image; the Saṃhitā in the first line prints "*pathā anehasā*" with a long *ā*, i.e. "*pathā*"; I give "*pathā*" (the "*ām̐*" form in my Devanagari is a slip and should be read as *pathā*). The Pada word before "*ā*" in the second line is printed "ಅಸ್ತ್ಮ‌ಈಕೇ", which I read *astam-īke* and mark doubtful: [?] — the Pratipadārtha reads it *asmīke*.)*
+
+### Printed p. 405  (PDF 426)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं नः पथास्मत्सम्बन्धिना मार्गेण पुरो याहि । आगच्छ ॥ भस्य टेर्लोपः । उदात्तनिवृत्तिस्वरेण तृतीयाया उदात्तत्वम् ॥ कीदृशेन मार्गेण । अरक्षसा रक्षोवर्जनेन अनेहसा पापरहितेन । यज्ञागमनमार्गस्य स्तुत्योदितत्वादनेहस्त्वम् । यद्वा । नोऽस्मानुद्दिश्य याहि । किं विशिष्य इति । परीणसा परितः सर्वतो नद्धेन [?] रायास्मभ्यं दातव्येन बहुविधधनेन युक्तः सन् । हे इन्द्र नोऽस्मान् पराके दूरदेशात् स्वर्गलक्षणादा सचस्व । समवेतो भव । पराक इति दूरनाम पराके पराचीति तन्नामसु पाठात् । तथास्मीके अत्यन्तान्तिके देवयजनदेशे सचस्व । अस्मदीयं हविः सेवस्व । सङ्गच्छस्व वा । किंच नोऽस्मान् दूराद्दूरदेशात्स्वर्गादेः सकाशात् पाहि । रक्ष । आराद् सन्निहिताद्द्वितीयलोकात् [?] पाहि । पालय । यद्वा । दूरादयागकालात् स्वर्गादेवोपेत्यास्मान्पाहि । पालय । आरादाद्यागकाले सन्निहिते देवयजनदेशे पाहि । केनेति तदुच्यते । अभिष्टिभिरभिमुखैर्यागैः सन्निर्वाह्यैः । यद्वा । अभ्यागमनैः । किं बहुना । सदा सर्वकालं यागकाले यागकाले दूरेऽन्तिके चाभिष्टिभिरभितः एषणैः पाहि । सम्यक् परिपालय ॥
+
+> *he indra tvaṃ naḥ pathāsmatsambandhinā mārgeṇa puro yāhi | āgaccha ‖ bhasya ṭerlopaḥ | udāttanivṛttisvareṇa tṛtīyāyā udāttatvam ‖ kīdṛśena mārgeṇa | arakṣasā rakṣovarjanena anehasā pāparahitena | yajñāgamanamārgasya stutyoditatvādanehastvam | yadvā | no 'smānuddiśya yāhi | kiṃ viśiṣya iti | parīṇasā paritaḥ sarvato naddhena [?] rāyāsmabhyaṃ dātavyena bahuvidhadhanena yuktaḥ san | he indra no 'smān parāke dūradeśāt svargalakṣaṇādā sacasva | samaveto bhava | parāka iti dūranāma parāke parācīti tannāmasu pāṭhāt | tathāsmīke atyantāntike devayajanadeśe sacasva | asmadīyaṃ haviḥ sevasva | saṅgacchasva vā | kiṃca no 'smān dūrāddūradeśātsvargādeḥ sakāśāt pāhi | rakṣa | ārād sannihitāddvitīyalokāt [?] pāhi | pālaya | yadvā | dūrādayāgakālāt svargādevopetyāsmānpāhi | pālaya | ārādādyāgakāle sannihite devayajanadeśe pāhi | keneti taducyate | abhiṣṭibhirabhimukhairyāgaiḥ sannirvāhyaiḥ | yadvā | abhyāgamanaiḥ | kiṃ bahunā | sadā sarvakālaṃ yāgakāle yāgakāle dūre 'ntike cābhiṣṭibhirabhitaḥ eṣaṇaiḥ pāhi | samyak paripālaya ‖*
+
+*(Read from the image; small type, with a few doubtful places: [?]. Sense: "O Indra, come (*yāhi*) before us by our path (*pathā*) — the path to the sacrifice, of which the Stuti has said that it is without evil (*anehasā*, free from sin), that is free of Rākṣasas (*arakṣasā*): or come toward us; how? *parīṇasā* — girded all round, i.e. with wealth to be given to us, of many kinds; O Indra, from afar (*parāke*) — from heaven — be with us; and near (*īke*), at our place of divine worship, partake of our oblation, or come together with us; also protect us from far (heaven and the rest) and from near (the second world); or from far, from the time not of sacrifice, coming from heaven, protect us; and near, at the time of sacrifice, at the place of worship; by what? by *abhiṣṭibhiḥ* — by well-performed sacrifices facing us, or by visits. What more? always, in all times — at each sacrifice, far and near — protect us with your desires, guard us well.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *tvam* — you; *naḥ* — for us; *arakṣasā* — free from Rākṣasas (and so); *anehasā* — sinless; *pathā* — by the path; *puraḥ yāhi* — come before; *parīṇasā* — girded all round (full); *rāyā* — with wealth (to be given to us); *yāhi* — come; *(he indra* — O Indra); *naḥ* — us; *parāke* — from afar (heaven); *ā sacasva* — be present with (protect); *(tathā* — so also); *asmīke* — near (in the sacrificial hall); *ā sacasva* — be with us; *(kiṃ ca* — and); *naḥ* — us; *dūrāt* — from afar (from heaven); *pāhi* — protect; *ārāt* — from near (at the time of the sacrifice, in the hall); *abhiṣṭibhiḥ* — by the directed sacrifices (well-accomplished) or by auspicious visits; *pāhi* — protect; *sadā* — at all the times mentioned above; *abhiṣṭibhiḥ* — with your visits; *pāhi* — protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(begins at the foot of p. 405).* O Indra, free from Rākṣasas (and so by the path of the sacrifice that is faultless), approach us, with wealth to be given to us — protected; be with us even when you are far away; be with us when you are near; (even when you are at
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 405 (PDF 426): Ṛks 1–8 complete (‖ 8 ‖); Ṛk 9 (Atiśakvarī) Saṃhitā/Pada/bhāṣya/Pratipadārtha done and the Bhāvārtha begins at the foot of p. 405 ("O Indra, free from Rākṣasas … be with us even when you are far away…; (even when you are at"); resume p. 406 (PDF 427) with the rest of the Ṛk 9 Bhāvārtha, English, Special Topics. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393), Ṛk 7 bhāṣya (p. 396), Ṛk 8 bhāṣya (pp. 400–401) and Ṛk 9 Pada (*astam-īke*) / bhāṣya (p. 405); a slip in the Ṛk 9 Saṃhitā ("pathām̐" should read *pathā*) — see the note on p. 404; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
