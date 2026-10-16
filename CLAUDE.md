@@ -27,5 +27,5 @@ Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhā�
 Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~280 flagged pages remain); 14 first-person phrases for `voice.EXACT`. Vols 1–2: outside Vedic expert review wanted; ~9,000 `[?]` readings overall.
 
 
-## Volume 10 (set up Oct 2026; Sūktas 122–124 translated, printed pp. 1–187; Sūkta 125 begun — the progress note at the end of the output file holds the position)
+## Volume 10 (set up Oct 2026; Sūktas 122–128 translated, printed pp. 1–364; Sūkta 129 begun — the progress note at the end of the output file holds the position)
 `Rig_Vol10.pdf` (728 PDF pp., Git LFS), Maṇḍala 1 **Sūktas 122–136**, from the First Adhyāya of the Second Aṣṭaka (Sūkta 122 on printed p. 2 = PDF 23; **printed page = PDF − 21**, to be re-checked); output `Rigveda_Samhita_Vol10_English_Translation.md`. Header on even pages reads "Maṃ. 1 A. 18 Sū. N" (Anuvāka 18). Numeral aids: the reader's Google-Docs OCR of printed pp. 4–60 and `publish/tools/numeral_pass/glyphs.py` (prototype; second opinion only — see `GLYPH_TOOL.md`).
