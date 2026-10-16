@@ -1028,7 +1028,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *vayaścitte patatriṇo dvipaccatuṣpadarjuni |*
 
-(Ṛ. Saṃ. 5-?[?]-? [?], as read; the reader's OCR has "5-25-4", which I cannot confirm.)
+(Ṛ. Saṃ. [?], as read; the reader's OCR garbles it as "…0-97-A" [letter-shaped digits], so no number is given.)
 
 > अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
 
@@ -1038,4 +1038,125 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 30 (PDF 51): Ṛks 1–5 translated (first 30-page batch complete). Ṛk 5 Special Topics in progress — *ghoṣā* paragraph with the Bṛhaddevatā verses (7-42 to 48) done; the passage on *ārjuna* ("ಸಾಧಾರಣವಾಗಿ ಆರ್ಜುನ ಶಬ್ದಕ್ಕೆ…") continues on p. 31 (PDF 52) after the ṛk "ahaś ca kṛṣṇam ahar arjunaṃ ca" (6-9-1). Printed page = PDF − 21. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664. Open: `[?]` on Ṛk-reference numerals where the OCR is garbled (pp. 7–9, 13, 17–20, 25, 30), Śa. Brā. four-part refs, poor-scan bhāṣya of Ṛk 4 (p. 22), Pīṭhike ṛk-lists (pp. i, viii); the digit-glyph tool was not used for these pages (it is still a prototype).
+
+### Printed p. 31  (PDF 52)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 2".)* …in ṛks such as these this word is used in the sense of "whiteness" (brightness). It is also a proper name, the name of a person [not the Arjuna of the Purāṇa]. In the ṛk in hand Sāyaṇa has explained it as the name of a disease (leucoderma). It is said that by the grace of the Aśvin deities this disease was destroyed.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 5, noted briefly).** *Śaṃsam* — the root *śaṃsu stutau*, the suffix *ghañ*; the initial acute by *ñnityādir nityam* (Pā. Sū. 6-1-197, as the OCR reads it); accusative singular. *Naṃśe* — the root *naś adarśane*, *divādi*; the suffix *kvip* by *kviṣ ca* (Pā. Sū. 3-2-76); the *num* augment in the Vedic usage; dative singular. *Pūṣṇe* — the root *pūṣa vṛddhau*, with the suffix *kani* (*śvanukṣan pūṣan…*, Uṇ. Sū. 1-157); in the dative singular the loss of the *a* of *ani* by *alopo 'naḥ*; *anudāttasya yadudāttalopaḥ* (Pā. Sū. 6-1-161), the ending takes the acute. *Ā accha* — by *ākārasyānunāsikaś chandasi* (Pā. Sū. 6-1-126) the *ā* before … gets the nasal in the Chandas, with *prakṛtibhāva* — so no lengthening. *Vocheya* — *accha abhimukhyagamanena voceya*, "I would say, I praise"; the root *vac paribhāṣaṇe*; *liṅ*, 1st person singular, the suffix *iṭ* (Pā. Sū. 3-4-106 *iṭo 't*) with the *a*-substitution; *liṅyāśiṣy aṅ* (Pā. Sū. 3-1-86); *vaca um* (Pā. Sū. 7-4-20); *liṇaḥ sīyuṭ* (Pā. Sū. 3-4-102); the form *voceya*; after an *atiṅanta* the *nighāta* (Pā. Sū. 8-1-28 [?], the OCR has "8-1-8"); for *accha*, *nipātasya ca* (Pā. Sū. 6-3-136). *Vasutātim* — *sarvadevāt tātil* (Pā. Sū. 4-4-143), by *vyatyaya* also after *vasu*; since the suffix is *lit*, by *lity…* (Pā. Sū. 6-1-193) the acute. *Agneḥ* — the root *agi gatau*; *aṅgerner lopaś ca* (Uṇ. Sū. 4-490, as the OCR reads it) the suffix *ni*; *idito num dhātoḥ*, the *num* augment; its *n* is dropped; final udātta by the suffix accent; genitive singular. ‖ 5 ‖
+
+#### Ṛk 6
+
+### Printed p. 32  (PDF 53)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+**॥ संहितापाठः ॥**
+
+> श्रुतं मे मित्रावरुणा हवेमोत श्रुतं सदने विश्वतः सीम् ।
+> श्रोतु नः श्रोतुरातिः सुश्रोतुः सुक्षेत्रा सिन्धुरद्भिः ॥ ६ ॥
+
+> *śrutaṃ me mitrāvaruṇā havemota śrutaṃ sadane viśvataḥ sīm |*
+> *śrotu naḥ śroturātiḥ suśrotuḥ sukṣetrā sindhuradbhiḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> श्रुतम् । मे । मित्रावरुणा । हवा । इमा । उत । श्रुतम् । सदने । विश्वतः । सीम् ।
+> श्रोतु । नः । श्रोतुऽरातिः । सुऽश्रोतुः । सुऽक्षेत्रा । सिन्धुः । अद्भिः ॥ ६ ॥
+
+> *śrutam | me | mitrāvaruṇā | havā | imā | uta | śrutam | sadane | viśvataḥ | sīm |*
+> *śrotu | naḥ | śrotu 'rātiḥ | su 'śrotuḥ | su 'kṣetrā | sindhuḥ | adbhiḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मित्रावरुणा एतन्नामानावहोरात्राभिमानिदेवौ युवामिमेमानि हवास्मदाह्वानानि श्रुतम् । शृणुतम् । न केवलमस्मदाह्वानम् उतापि च सदने यज्ञ-गृहे [?] विश्वतः उद्गात्रादिभिः सर्वतः क्रियमाणं सीमेतत्स्तोत्रमपि [?] श्रुतम् । शृणुतम् । किञ्च श्रोतुरातिः सर्वत्र श्रूयमाणधनस्तादृशदानो [?] वा सुश्रोतुरस्मदाह्वानस्य सम्यक्श्रोता सिन्धुर्जलाभिमानी देवः सुक्षेत्रा सुक्षेत्राण्यद्भिर्वृष्टिजलैः क्लेदयन्निति शेषः । यद्वा । अस्मत्क्षेत्राण्यद्भिः सुक्षेत्राणि सस्यावि[?]समृद्धानि कुर्वन्नो हवं शृणोतु । सुक्षेत्रत्वं लाभाय शृणोत्वित्यर्थः ॥ हवा इमा । उभयत्र विभक्त्या आकारः । श्रुतमित्यत्र बहुलं छन्दसीति विकरणस्य लुक् ॥
+
+> *he mitrāvaruṇā etannāmānāvahorātrābhimānidevau yuvāmimemāni havāsmadāhvānāni śrutam | śṛṇutam | na kevalamasmadāhvānam utāpi ca sadane yajña-gṛhe [?] viśvataḥ udgātrādibhiḥ sarvataḥ kriyamāṇaṃ sīmetatstotramapi [?] śrutam | śṛṇutam | kiñca śroturātiḥ sarvatra śrūyamāṇadhanastādṛśadāno [?] vā suśroturasmadāhvānasya samyakśrotā sindhurjalābhimānī devaḥ sukṣetrā sukṣetrāṇyadbhirvṛṣṭijalaiḥ kledayanniti śeṣaḥ | yadvā | asmatkṣetrāṇyadbhiḥ sukṣetrāṇi sasyāvi[?]samṛddhāni kurvanno havaṃ śṛṇotu | sukṣetratvaṃ lābhāya śṛṇotvityarthaḥ ‖ havā imā | ubhayatra vibhaktyā ākāraḥ | śrutamityatra bahulaṃ chandasīti vikaraṇasya luk ‖*
+
+*(The page is legible at 300 dpi; the words marked `[?]` are the ones I cannot settle letter by letter.)* "O Mitra and Varuṇa, you two deities of this name, who preside over night and day, hear (*śrutam*, listen to) these my invocations; not only my invocation, but also hear the praise being offered on all sides by the *udgātṛ* priests and others in the sacrificial house (*sadane*); and further, he who gives wealth that is heard of everywhere (*śroturātiḥ*), or [him who is] a good hearer (*suśrotuḥ*) of my invocation, Sindhu, the deity of waters, making the good fields (*sukṣetrā*) moist with the water of the rains — that is what must be supplied. Or else: making our fields well-fruited with water, let him hear our call; let him hear [it] that the good state of the fields may be obtained." *Havā imā*: in both words the ending is *ā*; in *śrutam* the *luk* of the vikaraṇa by *bahulaṃ chandasi*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He mitrāvaruṇā* — O Mitra and Varuṇa (you two); *imā* — these; *havā* — my (praise-filled) invocations; *śrutam* — hear; *uta* — and; *sadane* — in the sacrificial house; *viśvataḥ* — (by the Udgātṛs and others) everywhere (being made); *sīm* — this praise too; *śrutam* — hear; *śroturātiḥ* — [Sindhu] who has well-known (famous) wealth-giving; *suśrotuḥ* — (our invocation) well-hearing; *sindhuḥ* — the deity of the waters; *adbhiḥ* — with water (our fields); *sukṣetrā* — (our) fields, to be good fields (make); *naḥ* — our (praise); *śrotu* — let him hear.
+
+### Printed p. 33  (PDF 54)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 2".)* **॥ भावार्थः ॥ — Bhāvārtha.** O Mitra and Varuṇa, hear my first invocation, which is full of praise; hear the praise that is made everywhere (by the Udgātṛs and others) in the sacrificial house; may the deity of the waters (Sindhu), well-hearing our invocation, hear it, and may he make (our fields) fruitful with water.
+
+**Printed English (as printed):** *Mitra and Varuna, hear these my invocations, and moreover listen to those (that are) everywhere (uttered) in the chamber of sacrifice; and may Sindhu, the renowned bestower of wealth, hear us, (fertilizing our) broad fields with water.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 6.** Pointing out the defect that the last pāda of this ṛk is not metrically regular, the English scholar Bloomfield has said as follows:
+
+*The entire stanza with its hysterical repetition of root* śru *is secondary clap-trap, its last Pada is metrically defective. It is quite probable that such a versifix [sic] borrowed his first pada from the faultless stanza VII 62. 5.* [Rigveda Repititions [sic] Pt. I. P. 126]
+
+> प्र बाहवा सिसृतं जीवसे न आ नो गव्यूतिमुक्षतं घृतेन ।
+> आ नो जने श्रवयतं युवाना श्रुतं मे मित्रावरुणा हवेमा ॥
+
+> *pra bāhavā sisṛtaṃ jīvase na ā no gavyūtimukṣataṃ ghṛtena |*
+> *ā no jane śravayataṃ yuvānā śrutaṃ me mitrāvaruṇā havemā ‖*
+
+(Ṛ. Saṃ. 7-62-5, as printed; the English "VII 62. 5" above confirms it.) He is of the opinion that the last pāda of this ṛk, *śrutaṃ me mitrāvaruṇā havemā*, was made the first pāda here, and that this ṛk was built on it.
+
+***sīm*** — *sīm iti parigrahārthīyo vā padapūraṇo vā* (Ni. 1-7, as printed; the OCR reads it) — the Nirukta writer says that the word is used in the sense "completely" and also at the time of filling out a verse-quarter (*padapūraṇa*).
+
+> प्र सीमादित्यो असृजद्विधर्ता ऋतं सिन्धवो वरुणस्य यन्ति ।
+
+> *pra sīmādityo asṛjadvidhartā ṛtaṃ sindhavo varuṇasya yanti |*
+
+(Ṛ. Saṃ. 2-28-4 [?], as read; the reader's OCR has the letter-shaped "5-25-4".)
+
+### Printed p. 34  (PDF 55)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* Citing this ṛk, they have shown that there the word *sīm* may be given the sense "everywhere" (*sarvataḥ*), or that the word may be taken as mere pāda-filler and not be explained. In the ṛk in hand, since the sense *sarvataḥ* is shown by the word *viśvataḥ* itself, the word *sīm* may be known as mere pāda-filling.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 6, noted briefly).** *Śrutam* — the root *śru śravaṇe*; *loṭ*, 2nd dual, *lat*-like, *thas* replaced by *tam*; by *bahulaṃ chandasi* the *luk* of the vikaraṇa; by *sārvadhātukam apit* the suffix is *ṅit*-like, so no guṇa of the root's *i*/*u*; because it is at the beginning of the verse-quarter, no *nighāta*; by the suffix accent the word ends in an acute. *Mitrāvaruṇā* — *mitraś ca varuṇaś ca*; by *devatādvandve ca* (Pā. Sū. 6-3-26) the *ānaṅ* substitution for the former member; in the vocative dual, by *supāṃ sulug…* (Pā. Sū. 7-1-39) the *ā* for the ending; *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*. *Havā* — the root *hveñ spardhāyāṃ śabde ca*; in the sense of action by *bhāve 'nupasargasya* (Pā. Sū. 3-3-75) the suffix *ap*; because of the conjunction, *saṃprasāraṇa* and *pūrvarūpa*; guṇa of the root's *u*; *av-ādeśa*; the form *hava*; accusative plural by *supāṃ sulug…* (Pā. Sū. 7-1-39) the *ā*; *imā* likewise. *Sadane* — the root *ṣadḷ viśaraṇagatyavasādaneṣu*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) the *s*; "*sīdanty asmin iti sadanaṃ gṛham*" — the suffix *lyuṭ* in the locative sense; *yuvor anākau* (Pā. Sū. 7-1-1 [?] as read; the OCR has "6-1-1") *ana*; *liti* (Pā. Sū. 6-1-193) the acute of the suffix's first part; locative singular. *Viśvataḥ* — *pañcamyāḥ tasil* (Pā. Sū. 5-3-7), the suffix *tasil* in the sense of the ablative; being *lit*, by *liti* the acute goes to the vowel before the suffix; a word with its middle acute. *Śrotu* — the root *śru śravaṇe*; *loṭ*, 3rd singular, the suffix *tip*; by *bahulaṃ chandasi* the *luk* of the vikaraṇa; by *eruḥ* the *u* in place of the suffix's *i*; …
+
+### Printed p. 35  (PDF 56)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* …(śrotu, continued) the root's *u* gets guṇa; since it is at the beginning of the verse-quarter, no *nighāta* arises; since the suffix is *pit* the root accent remains. *Sukṣetrā* — in the neuter plural when *śi* has come, *śeś chandasi bahulam* (Pā. Sū. 6-1-70) the *śi* is dropped. *Adbhiḥ* — the word *ap*; when *bhis* follows, *āpo bhiḥ* (Pā. Sū. 7-4-48) the *t* is substituted as the final; *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171) gives the ending the acute. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> स्तुषे सा वां वरुण मित्र रातिर्गवां शता पृक्षयामेषु पज्रे ।
+> श्रुतरथे प्रियरथे दधानाः सद्यः पुष्टिं निरुन्धानासो अग्मन् ॥ ७ ॥
+
+> *stuṣe sā vāṃ varuṇa mitra rātirgavāṃ śatā pṛkṣayāmeṣu pajre |*
+> *śrutarathe priyarathe dadhānāḥ sadyaḥ puṣṭiṃ nirundhānāso agman ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्तुषे । सा । वाम् । वरुण । मित्र । रातिः । गवाम् । शता । पृक्षऽयामेषु । पज्रे ।
+> श्रुतऽरथे । प्रियऽरथे । दधानाः । सद्यः । पुष्टिम् । निऽरुन्धानासः । अग्मन् ॥ ७ ॥
+
+> *stuṣe | sā | vām | varuṇa | mitra | rātiḥ | gavām | śatā | pṛkṣa 'yāmeṣu | pajre |*
+> *śruta 'rathe | priya 'rathe | dadhānāḥ | sadyaḥ | puṣṭim | ni 'rundhānāsaḥ | agman ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मित्र हे वरुण देव वां युवामहं स्तुषे । स्तौमि [?] । व्यत्ययेन मध्यमः [?] ॥ युवयोः सम्बन्धिनी सा प्रसिद्धा रातिर्दानं शता शतानां शतसङ्ख्यानामपरिमितानां गवां सम्बन्ध्यसङ्ख्यातगोविषया रातिः पज्रे कक्षीवति मयि पृक्षयामेषु । पृक्ष इत्यन्ननामास्ति । पृक्षाणामन्नानां नियमनं येषु स्तोत्रेषु यज्ञेषु वा तेषु निमित्तभूतेषु भवत्विति शेषः । किञ्च मित्रादयो
+
+> *he mitra he varuṇa deva vāṃ yuvāmahaṃ stuṣe | staumi [?] | vyatyayena madhyamaḥ [?] ‖ yuvayoḥ sambandhinī sā prasiddhā rātirdānaṃ śatā śatānāṃ śatasaṅkhyānāmaparimitānāṃ gavāṃ sambandhyasaṅkhyātagoviṣayā rātiḥ pajre kakṣīvati mayi pṛkṣayāmeṣu | pṛkṣa ityannanāmāsti | pṛkṣāṇāmannānāṃ niyamanaṃ yeṣu stotreṣu yajñeṣu vā teṣu nimittabhūteṣu bhavatviti śeṣaḥ | kiñca mitrādayo*
+
+### Printed p. 36  (PDF 57)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+> देवाः श्रुतरथे सर्वत्र प्रसिद्धरथोपेते प्रियरथे प्रीयमाणरथयुक्ते सर्वदा रथप्रिये पज्रे च मय्येव दधानाः प्रीतिं धारयन्तः सद्य आगमनानन्तरमेव पुष्टिं गवादिपोषं निरुन्धानासोऽरुन्धाना [?] अस्मास्वेव स्थापयन्तः । यद्वा । मयि पुष्टिं दधानाः कुर्वाणा निरुन्धानासः कृत्स्नामेव पुष्टिं मयि स्थिरां कुर्वन्तोऽग्मन्नागच्छन्तु ॥
+
+> *devāḥ śrutarathe sarvatra prasiddharathopete priyarathe prīyamāṇarathayukte sarvadā rathapriye pajre ca mayyeva dadhānāḥ prītiṃ dhārayantaḥ sadya āgamanānantarameva puṣṭiṃ gavādipoṣaṃ nirundhānāso 'rundhānā [?] asmāsveva sthāpayantaḥ | yadvā | mayi puṣṭiṃ dadhānāḥ kurvāṇā nirundhānāsaḥ kṛtsnāmeva puṣṭiṃ mayi sthirāṃ kurvanto 'gmannāgacchantu ‖*
+
+*(The rest of the bhāṣya is the grammatical tail — *rātiḥ*: the root *rā dāne*, the suffix *ktin* in the sense of action, the initial acute by *mantre vṛṣeṣa…*; *śatā*: the lengthening of the preceding vowel before the ending by *supāṃ sulug…*; *dadhānāḥ*: *juhotyādi*, the *śap* → *śluḥ*, *abhyastānām ādiḥ*; *agman*: the root *gam*, Vedic *luṅ*, the elision of *cli* by *mantre ghasa…*, the loss of the penultimate by *gamahana…* — only characterised, not transcribed.)*
+
+"O Mitra, O Varuṇa, I praise (*stuṣe*, I praise; the second-person form for the first by *vyatyaya*) you two. That well-known gift (*rātiḥ*) of yours, of hundreds (*śatā*) of cows, countless — a gift related to the countless cows — [may it be] for me, Kakṣīvān the Pajra, in the *pṛkṣayāmeṣu*: *pṛkṣa* is a name of food; may it become, in the praises or sacrifices in which food is regulated (*niyamana*) [i.e. food is provided in a fixed order], the occasion of them — that is what remains to be supplied. And further, may the gods Mitra and the rest — [who are] *śrutarathe*, in me, the one possessed of a famous chariot everywhere; *priyarathe*, one whose chariot is dear, who always loves the chariot, and a Pajra — placing their affection on me alone, quickly, immediately after coming, holding back (*nirundhānāsaḥ*) the nourishment (*puṣṭi*, the fattening of cattle and so on) and establishing it in us alone — come." Or else, "*dadhānāḥ*, placing nourishment in me, making [it], *nirundhānāsaḥ*, making all that nourishment firm in me, may they come."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He mitra, he varuṇe* — O Mitra and Varuṇa; *vām* — you two; *stuṣe* — [I] praise; *sā* — that well-known; *śatā* — innumerable; *gavām* — of cows; *rātiḥ* — the gift; *pajre* — in the Pajra (Kakṣīvān), me; *pṛkṣayāmeṣu* — in the sacrifices or praises that follow a fixed rule (about food) [may it be] (*bhavatu* — may it be); *(kiñca* — and); *śrutarathe* — famous (for my chariot) [in me], whose chariot is famous; *priyarathe* — [in me] who has a dear chariot; *dadhānāḥ* — placing affection; *sadyaḥ* — [at once] immediately; *puṣṭim* — the nourishment of cattle and so on; *(dhadhānāḥ* — having made [me] firm); *nirundhānāsaḥ* — [in me] having made it firm (and in us); *agman* — let them come.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Mitra and Varuṇa, I praise you both. Give (O gods) your well-known gift of countless cows to me, the performer of sacrifices with their rule about food and the like; and, placing your trust in me, who have famous and dear chariots (and love chariots), come to establish firmly the nourishment of cattle and so on.
+
+**Printed English (as printed):** *I praise you, Mitra and Varuna, for your gift of numerous cattle to the Pajra, and (from those praises) may abundant food (proceed). May (the gods), bestowiug [sic] nourishment on me, come quickly unimpeded, (each) in his famous and favourite car.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.** ***pṛkṣayāmeṣu*** — *pṛkṣa*śabda is recorded among the names of food (Ni. 2-7 [?], as read), *pṛkṣāṇām annānāṃ niyamanaṃ yeṣu stotreṣu yajñeṣu vā* — [in the praises or the sacrifices] in which food is regulated, or the …
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 36 (PDF 57): Ṛks 1–7 translated; Ṛk 7 Special Topics begun (*pṛkṣayāmeṣu*, Ni. 2-7 [?]; continues on p. 36 line "ಪೃಕ್ಷಯಾಮೇಷು—ಪೃಕ್ಷಶಬ್ದವು ಅನ್ನನಾಮಗಳಲ್ಲಿ…" and p. 37, PDF 58). Printed page = PDF − 21. The reader's OCR (Google Docs) covers up to printed p. 36 only; from p. 37 the numerals are my own reading (`[?]` where doubtful). Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664. Open: `[?]` as listed in `docs/vol10_nonnumeral_qmarks_ocr_check.md` and in the text.
