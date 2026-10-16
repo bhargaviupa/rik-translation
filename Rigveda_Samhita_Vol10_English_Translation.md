@@ -14363,4 +14363,62 @@ When the construction *apāṃ bhurvaṇi* is made, [the word] is in the sense o
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 written through p. 598 (Special Topics, entry *bhurvaṇi* breaks off with Sāyaṇa's *agnau hūyamānasya…* at the foot of p. 598); resume p. 599, PDF 620 (last image in w10f; crop PDF 621 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 599  (PDF 620)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Special Topics of Ṛk 5, continued:)* …as has been explained, since the Soma-juices poured into the fire go to the Sun and become the causes of the fall of rain there, the movement of the Soma-juices is a cause for the production of clouds. Therefore *apāṃ bhurvaṇi* means "in the clouds" or "through the clouds, the fall of rain": Sāyaṇa explains it as the purport that the Soma-juices, joining the clouds, wish to bring about the fall of rain, or that the sacrificers, who perform the sacrifice desiring Vāyu, look for the fall of rain. As the sacrifice is directly and naturally [the sense] of this word, there is no doubt about it. But in the second construction a meaning by tradition has to be given, and to Sāyaṇa this seemed slightly strained, so he has also given a synonym-meaning [i.e. the first].
+
+***dharmaṇā*** — this word also is repeated. The first, *asmadīyahaviṣāṃ dhāraṇena pāsi*: "you protect us by taking up our oblations" — the meaning of acceptance; the second, *asmaddhāraṇena poṣaṇena vā*: "by holding us (protecting) and by nourishing, you protect us" — the meaning of nourishing.
+
+***bhagam*** — *bhago bhajateḥ* ("*bhaga* from the root *bhaj*"; derived from the root *bhaj* in the sense of worship, meaning "*bhajanīya*" — worshipful): it is an epithet of Vāyu. The word *bhaga* has in various contexts the meanings "wealth", "the deity Bhaga", and so on; all are derived from the root *bhaj* in the sense of "to worship".
+
+***tsārī*** — *tvaraṇavān; atyantabhītaḥ* — "extremely afraid". But since the word is derived from a root of motion, it gives the sense of one who runs away from fear. The author of the Nirukta has placed this word among the verbs of motion (Ni. 2-[?], as read "೨-೧೯"). The usages *tsaruḥ*, *tsarī*, *tsarit* [as read] occur, and everywhere the sense is *bhadmagati* ("crooked motion"), running away by deceit.
+
+> आजकावं दुर्दृशीकं तिरो दधे मा मां पद्येन रपसा विदत्त्सरुः ।
+
+> *ājakāvaṃ durdṛśīkaṃ tiro dadhe mā māṃ padyena rapasā vidat tsaruḥ |*
+
+(Ṛ. Saṃ. 2-[?]-1, as read "೨-೩೦-೧" [?].) — "*tsaruḥ* means *bhadmagāmī sarpaḥ*, 'the creeping snake'": the purport is only movement. In the same way in the present Ṛk also, the sense is "one who runs away from fear".
+
+***dasamānaḥ*** — derived from the root *das*, which gives the meaning "to waste (*upakṣaye*)". *Yajñavighātakaiḥ upakṣīṇaḥ* — "wasted by the obstructors of the sacrifice": Sāyaṇa explains it as "one wasted by the trouble of those who obstruct the sacrifice, or *payovratādiniyamair vā* — one whose body has been wasted by vow-observances such as the milk-vow", the sacrificer.
+
+### Printed p. 600  (PDF 621)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+***takṣvavīrye*** — *tṛpuḥ, takvā* and so on are in the names of "thief" (Ni. 3-[?], as read "೩-೧೯" [?]). The word *takṣan*, in Sāyaṇa's [explanation], is *taskarāṇāṃ yajñavighātināṃ anyatra gamanāya* — "for the departure to another place of the thieves who obstruct the sacrifice": "the thieves and the like who give trouble to the sacrifice run from here to a far place", is the meaning. [Sāyaṇa's] meaning, if explained as "the bearer-away of the thief", is not wrong.
+
+> मही अत्र महिना वारमृण्वथोऽरेणवस्तुज आ सद्मन्धेनवः ।
+> स्वरन्ति ता उपरताति सूर्यमा निम्रुच उषसस्तक्ववीरिव ॥
+
+> *mahī atra mahinā vāram ṛṇvatho 'reṇavas tuja ā sadman dhenavaḥ |*
+> *svaranti tā uparatāti sūryam ā nimruca uṣasas takvavīr iva ‖*
+
+(Ṛ. Saṃ. 1-151-[?], as read "೧-೧೫೧-೩" [?]; the quotation is doubtful in several letters [?].) In this the word *takvavīḥ*, as Sāyaṇa himself explains it, means "one who seeks the thief" (*takvā śyenaḥ*, [as read: "*tasya vettā gantā manuṣyaḥ*" (Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೪೯-೩" [?])]); here too the same meaning can be taken, i.e. "I pray to you to drive away thieves and the like": that is the purport. Max Müller, in giving the meaning of this word, writes "*The tired hunter asks luck of thee in the chase*"; he takes *tsārī* as "hunter" and *takṣvavīrye* as "in the hunter's chase" [as read: "in the chase of the hunter"]; in support of his meaning he says —
+
+"*I have followed Ludwig in his Explanation* त्सारी — *hunter and* तक्ष्ववीर्य, *chase of the* तक्ष्व, *whatever animal it may be*" — he says he has followed the explanation of the scholar Ludwig. But the commentator's meaning is more appropriate: [Vāyu is prayed] to drive away thieves, and the sacrificer prays so.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; numbers as printed).** *śukrāsaḥ* — root *śuca śoke*; *khujendragra…* [as read: *śukrendraśuci…*; *rasanta…*] (Uṇ. 3-[?], as read "೩-೧೪೭" [?]) — formed by *nipātana* with *ra*; as *jas* follows, *ājjaser asuk* (Pā. 7-1-50 [as read]) gives the *asuk* augment. *turaṇyavaḥ* — root *tvara tvarāyām*; *kaṇḍvādibhyo yak* (Pā. 3-1-27 [as read]) gives *yak* in its own sense; after this the Uṇādi suffix *u*; by the suffix accent, the final udātta. *iṣaṇanta* — root *iṣ gatau*; *vyatyayo bahulam* (Pā. 3-1-85 [as read]) gives Ātmanepada; *laṭ* in the sense of the present by Vedic usage; *jha* → *ata* [as printed "*ata*"]; by Vedic usage *śna* — two *vikaraṇas* appear: *śnam* [and *śap*]; by Vedic usage the *āgama* does not occur. Or *iṣa gatau*; *śnā* as *vikaraṇa*; *śnābhyastayor ātaḥ* (Pā. 6-4-112 [as read]) gives *lopa* of the *vikaraṇa*'s *ā*; as it follows a *tiṅanta*, *nighāta*.
+
+### Printed p. 601  (PDF 622)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Grammar, continued.)* *bhurvaṇi* — root *bhurṇa hiṃsāyām* [as read; or *bhṛṇa*]; the Uṇādi suffix *asi* [*ani*] for it; by Vedic usage *u* for the *a* of the root; by the suffix accent it becomes *madhyodātta*; *supāṃ sulug* (Pā. 7-1-39 [as read]) gives *luk* of the seventh case-ending. *apām* — genitive plural; *ūḍidaṃ padādi* (Pā. 6-1-171 [as read]) gives the udātta to the case-ending. *iṣanta* — root *iṣu icchāyām*; by Vedic usage third person plural; the *āgama* and the *bhāva* are absent by Vedic usage; *nighāta* after *tiṅanta*. *tsārī* — root *tsara chadmagatau*; *ṇini* in *tācchīlya* [as read]; *ata upadhāyāḥ* (Pā. 7-2-116 [as read]) gives *vṛddhi* of the penultimate; by suffix accent. *dasamānaḥ* — root *dasu upakṣaye*; *śānac* in the sense of *laṭ*; by *vyatyaya* the *śyan* does not occur; *āne muk* (Pā. 7-2-82 [as read]) gives *muk*; since *lasārvadhātuka* is *anudātta* by the sūtra *tāsyanudāttenṅidvidupadeśāt…*, the root's accent remains. *īṭṭe* — root *īḍa stutau*; *adādi*; *laṭ* third person singular, *ta*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 [as read]) gives *e* for *ṭi*; *ādiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 [as read]) gives *luk* of *śap*; *kharica* gives *ṭa* for *ḍa*; *nighāta* after a *tiṅanta*. *pāsi* — *pā rakṣaṇe*; *laṭ* second person singular; *tiṅ*-final, *nighāta*. *dharmaṇā* — *dhṛṅ dhāraṇe*; the Uṇādi suffix *manin*; *guṇa* of the final *ṛ*; since the suffix is *nit*, ādyudātta; instrumental singular. *asuryāt* — *asura*; *yat* in the sense of relation; *yasyeti ca* drops the *a*; *tit svaritam* (Pā. 6-1-185 [as read]) gives the *svarita* accent. ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वं नो वायवेषामपूर्व्यः सोमानां प्रथमः पीतिमर्हसि सुतानां पीतिमर्हसि ।
+> उतो विहुत्मतीनां विशां ववर्जुषीणाम् ।
+> विश्वा इत्ते धेनवो दुह्र आशिरं घृतं दुह्रत आशिरम् ॥ ६ ॥
+
+> *tvaṃ no vāyaveṣāmapūrvyaḥ somānāṃ prathamaḥ pītimarhasi sutānāṃ pītimarhasi |*
+> *uto vihutmatīnāṃ viśāṃ vavarjuṣīṇām |*
+> *viśvā itte dhenavo duhra āśiraṃ ghṛtaṃ duhrata āśiram ‖ 6 ‖*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Ṛk 6 (the last of Sūkta 134) begun: Saṃhitā written (p. 601); resume p. 602 (PDF 623) with the Pada; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
