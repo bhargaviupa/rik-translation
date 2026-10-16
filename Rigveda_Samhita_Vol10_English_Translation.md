@@ -16633,4 +16633,56 @@ In this way the nature and greatness of the *uttaravedi* are described. Therefor
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛks 1–3 complete (p. 687); resume p. 688 (PDF 709; images in w10h/ for PDF 661–728) with Ṛk 4. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 688  (PDF 709)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अयं मित्राय वरुणाय शंतमः सोमो भूत्ववपानेष्वाभगो देवो देवेष्वाभगः ।
+> तं देवासो जुषेरत विश्वे अद्य सजोषसः ।
+> तथा राजाना करथो यदीमह ऋतावाना यदीमहे ॥ ४ ॥
+
+> *ayaṃ mitrāya varuṇāya śaṃtamaḥ somo bhūtvavapāneṣvābhago devo deveṣvābhagaḥ |*
+> *taṃ devāso juṣerata viśve adya sajoṣasaḥ |*
+> *tathā rājānā karatho yadīmaha ṛtāvānā yadīmahe ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अयम् । मित्राय । वरुणाय । शम्ऽतमः । सोमः । भूतु । अवऽपानेषु । आऽभगः । देवः । देवेषु । आऽभगः ।
+> तम् । देवासः । जुषेरत । विश्वे । अद्य । सऽजोषसः ।
+> तथा । राजाना । करथः । यत् । ईमहे । ऋतऽवाना । यत् । ईमहे ॥ ४ ॥
+
+> *ayam | mitrāya | varuṇāya | śam 'tamaḥ | somaḥ | bhūtu | ava 'pāneṣu | ā 'bhagaḥ | devaḥ | deveṣu | ā 'bhagaḥ |*
+> *tam | devāsaḥ | juṣerata | viśve | adya | sa 'joṣasaḥ |*
+> *tathā | rājānā | karathaḥ | yat | īmahe | ṛta 'vānā | yat | īmahe ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 4; read from the image; doubtful words marked [?].)*
+
+> अयमस्माभिर्ह्रीयमाणः सोमो मित्राय वरुणाय च शंतमः प्रीयमाणः सन् सुखतमो भूतु । भवतु ॥ छान्दसः शपो लुक् । भूसुवोस्तिङीति गुणाभावः ॥ अवपानेष्वधोमुखचमसपात्रेषु विषयेषु आ सर्वतो भगो भजनीयस्ताभ्याम् । किंच देवो दीप्यमानो देवेषु मित्रावरुणानुचरेष्वितरदेवेषु वा राभगे [?] भजनीयः । यद्वा । देवेषु स्तोतृषु यजमानेषु मध्ये देवो दीप्यमानः तथाभगस्तैरेव सर्वतो भजनीयः । किंच तं सोमं विश्वे सर्वे देवासो देवा अद्यास्मिन्नहनि जुषेरते [?] सेवन्ते ॥ छान्दसो ऋषस्य रन्नादेशाभावः । बहुलं छन्दसीति रुडागमः ॥ कीदृशास्ते । सजोषसः समानप्रीतियुक्ताः । तथा राजाना राजमानौ मित्रावरुणौ युवां करथः । कुरुतम् सेनेथे [?] इत्यर्थः ॥ व्यत्ययेन शप् ॥ यद्यस्मात्कारणादीमहे यत्प्रार्थ्यमस्मद्देवान्याचामहे । ईड गतौ । दैवादिकः ॥ छान्दसो विकरणस्य लुक् ॥ तस्माज्जुषेरत । तथा ऋतावाना ऋतवन्तौ सत्यवन्तौ यज्ञवन्तौ वा मित्रावरुणावीमहे । अभिमतफलं तयोः पानं वा याचामहे ॥
+
+> *ayamasmābhirhrīyamāṇaḥ somo mitrāya varuṇāya ca śaṃtamaḥ prīyamāṇaḥ san sukhatamo bhūtu | bhavatu ‖ chāndasaḥ śapo luk | bhūsuvostiṅīti guṇābhāvaḥ ‖ avapāneṣvadhomukhacamasapātreṣu viṣayeṣu ā sarvato bhago bhajanīyastābhyām | kiṃca devo dīpyamāno deveṣu mitrāvaruṇānucareṣvitaradeveṣu vā rābhage [?] bhajanīyaḥ | yadvā | deveṣu stotṛṣu yajamāneṣu madhye devo dīpyamānaḥ tathābhagastaireva sarvato bhajanīyaḥ | kiṃca taṃ somaṃ viśve sarve devāso devā adyāsminnahani juṣerate [?] sevante ‖ chāndaso ṛṣasya rannādeśābhāvaḥ | bahulaṃ chandasīti ruḍāgamaḥ ‖ kīdṛśāste | sajoṣasaḥ samānaprītiyuktāḥ | tathā rājānā rājamānau mitrāvaruṇau yuvāṃ karathaḥ | kurutam senethe [?] ityarthaḥ ‖ vyatyayena śap ‖ yadyasmātkāraṇādīmahe yatprārthyamasmaddevānyācāmahe | īḍa gatau | daivādikaḥ ‖ chāndaso vikaraṇasya luk ‖ tasmājjuṣerata | tathā ṛtāvānā ṛtavantau satyavantau yajñavantau vā mitrāvaruṇāvīmahe | abhimataphalaṃ tayoḥ pānaṃ vā yācāmahe ‖*
+
+*(Sense: "This Soma, carried by us, offered, may be *śaṃtamaḥ* — most agreeable, most pleasing — to Mitra and Varuṇa; *bhūtu* — let it be [Vedic *śap* *luk*]. In the *avapānas* — the cups with their mouths turned down — *ā bhagaḥ* — it is fully to be shared by those two. Further, *devo deveṣu* — shining among the gods, the followers of Mitra and Varuṇa, or among the other gods, to be shared; or among the sacrificers, praisers [*deva* = shining], *tathā-bhagaḥ* — to be shared by them all. Further, all the gods, *viśve devāsaḥ*, today, on this day, *juṣerata* — enjoy that Soma. How are they? *Sajoṣasaḥ* — joined in equal pleasure. And, O sovereigns, Mitra and Varuṇa, you two, do (*karathaḥ*) [so]; — for *yad īmahe* — what we ask, the gods; since we ask [*īḍ gatau*, *divādi*; the Vedic elision of the *vikaraṇa*]; therefore let them enjoy. Likewise, *ṛtāvānā* — the possessors of *ṛta*, truth, the sacrifice — Mitra and Varuṇa, we ask the desired fruit, or their drinking." The grammar notes are partly doubtful [?].)*
+
+### Printed p. 689  (PDF 710)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *ayam* — this (the Soma-juice offered by us); *somaḥ* — Soma-juice; *avapāneṣu* — in the cups with their mouths turned down; *ā bhagaḥ* — to be fully shared; *mitrāya varuṇāya* — for Mitra and Varuṇa; *śaṃtamaḥ* — (by drinking) giving especial happiness; *bhūtu* — let it be; *devaḥ* — the shining Soma-juice; *deveṣu* — among the other gods (by the gods); *ā bhagaḥ* — [it being] received [by them] (let it be); *(śaṃtamaḥ bhūtu — let it be giving happiness)*; *[or: deveṣu — among the praisers, the sacrificers; devaḥ — shining (the Soma-juice); ā bhagaḥ — to be shared by them (śaṃtamaḥ bhūtu — let it give happiness)]*; *(kiṃca — and)*; *yat* — for which reason; *yat* — what; *īmahe* — we get (we wish); *(tat devān yācāmahe — we ask the gods for it)*; *tat* — therefore; *tam* — that Soma; *viśve devāsaḥ* — all the gods; *adya* — today (now); *juṣerate* — accept; *tathā* — so (as the other gods); *sajoṣasaḥ* — joined in equal pleasure; *rājānā* — shining (Mitra and Varuṇa), you two; *karathaḥ* — do (drink the Soma); *ṛtāvānā* — possessed of truth (possessing sacrifices and other rites) — you two; *īmahe* — we ask for the desired fruit.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** May the Soma-juice that has now been offered, in the cups turned face downward, give especial happiness to Mitra and Varuṇa who accept it; may all the gods who give us what we desire, being pleased, accept it; may Mitra and Varuṇa, possessed of truth (in the performance of the sacrifice and so on), joined in equal pleasure, grant our desired objects.
+
+**Printed English (heading "English Translation"; as printed):** *"May this Soma libation be gratifying to Mitra and Varuna, to be enjoyed by them as they drink of it, inclining downwards; a divine (beverage), fit to be enjoyed by the gods: may all the gods, well pleased, to-day accept it; therefore, royal (deities), do as we request: you, who are ever truthful, do as we request."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+Here the order of the Soma-drinking of Mitra and Varuṇa is described.
+
+***avapāneṣu*** — the word *avapāna* has a technical use in some places; in others it simply means "a place fit for drinking". Sāyaṇa explains it as *avāṅmukhacamasapātreṣu* — "in cups with their mouths turned downward". Likewise:
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 4 written through p. 689 (Special Topics begun: entry *avapāneṣu* breaks off at "Likewise:" at the foot of p. 689); resume p. 690 (PDF 711; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
