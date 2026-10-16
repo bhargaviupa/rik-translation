@@ -9750,4 +9750,94 @@ well known. "*ahorātrābhyāṃ khalu vai parjanyo varṣati*" (Tai. Saṃ. 2-1
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 381 (PDF 402): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā (first-reading) written at the foot of p. 381; resume p. 382 (PDF 403) with the Ṛk 4 Pada (re-check the Saṃhitā line 2 division "brahmotaye 'vā") and bhāṣya. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373) and Ṛk 3 (p. 377, Śruti quotations — corrected on p. 379); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 382  (PDF 403)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+**॥ पदपाठः ॥** *(Ṛk 4; read from the image — this settles the division queried on p. 381: Saṃhitā "brahmotaye 'vā" = Pada "brahma | ūtaye | ava".)*
+
+> अस्माकम् । वः । इन्द्रम् । उश्मसि । इष्टये । सखायम् । विश्वऽआयुम् । प्रऽसहम् । युजम् । वाजेषु । प्रऽसहम् । युजम् ।
+> अस्माकम् । ब्रह्म । ऊतये । अव । पृत्सुषु । कासु । चित् ।
+> नहि । त्वा । शत्रुः । स्तरते । स्तृणोषि । यम् । विश्वम् । शत्रुम् । स्तृणोषि । यम् ॥ ४ ॥
+
+> *asmākam | vaḥ | indram | uśmasi | iṣṭaye | sakhāyam | viśva 'āyum | pra 'saham | yujam | vājeṣu | pra 'saham | yujam |*
+> *asmākam | brahma | ūtaye | ava | pṛtsuṣu | kāsu | cit |*
+> *nahi | tvā | śatruḥ | starate | stṛṇoṣi | yam | viśvam | śatrum | stṛṇoṣi | yam ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ऋत्विजः अस्माकमस्मदर्थं वो युष्मदर्थं चेष्टये यागायाभिमतप्राप्तये वेन्द्रमुश्मसि । अभिमतं कामयामहे ॥ वश कान्तौ । अदादिकः । इदन्तो मसिः । ग्रहिज्यादिना सम्प्रसारणम् ॥ यद्वा । अस्माकं सखायमिति सम्बन्धः । कीदृशमिन्द्रम् । सखायं सखिवदत्यन्तहितकारिणं समानख्यानं वा । विश्वायुं विश्वेषां यागानां गन्तारं प्रासहं प्रकर्षेण शत्रूणां मर्षयितारम् । सहेः क्विप् । नहिवृत्यादिनोपसर्गस्य दीर्घः ॥ युजं सर्वदा युक्तं सहायभूतमित्यर्थः । पुनः स एव विशेष्यते । वाजेषु हविरूपान्नेषु तद्वत्सु यज्ञेषु वा निमित्तभूतेषु प्रासहं यज्ञविघातिनः सहमानं युजमभिमतफलैर्युक्तं मरुद्भिर्वा । किंच हे इन्द्र अस्माकमूतये रक्षणाय ब्रह्म परिवृढं कर्माव । रक्ष । कुत्र विशेष इति तदाह । कासु चित् पृत्सु सङ्ग्रामेषु । पृत्सु समत्सु सङ्ग्रामनामसु पाठात् । तेषु त्वां शत्रुर्नहि स्तरते न हिनस्ति । स विरोधमाचरति । यं विश्वं शत्रुं स्तृणोषि वारयसि स कश्चिदपि शत्रुर्न हिनस्ति । तव माहात्म्येन सर्वे भीता विधेया भवन्ति शत्रुभावं न कोऽप्याचरति । अजातशत्रुत्वादित्यर्थः ॥
+
+> *he ṛtvijaḥ asmākamasmadarthaṃ vo yuṣmadarthaṃ ceṣṭaye yāgāyābhimataprāptaye vendramuśmasi | abhimataṃ kāmayāmahe ‖ vaśa kāntau | adādikaḥ | idanto masiḥ | grahijyādinā samprasāraṇam ‖ yadvā | asmākaṃ sakhāyamiti sambandhaḥ | kīdṛśamindram | sakhāyaṃ sakhivadatyantahitakāriṇaṃ samānakhyānaṃ vā | viśvāyuṃ viśveṣāṃ yāgānāṃ gantāraṃ prāsahaṃ prakarṣeṇa śatrūṇāṃ marṣayitāram | saheḥ kvip | nahivṛtyādinopasargasya dīrghaḥ ‖ yujaṃ sarvadā yuktaṃ sahāyabhūtamityarthaḥ | punaḥ sa eva viśeṣyate | vājeṣu havirūpānneṣu tadvatsu yajñeṣu vā nimittabhūteṣu prāsahaṃ yajñavighātinaḥ sahamānaṃ yujamabhimataphalairyuktaṃ marudbhirvā | kiṃca he indra asmākamūtaye rakṣaṇāya brahma parivṛḍhaṃ karmāva | rakṣa | kutra viśeṣa iti tadāha | kāsu cit pṛtsu saṅgrāmeṣu | pṛtsu samatsu saṅgrāmanāmasu pāṭhāt | teṣu tvāṃ śatrurnahi starate na hinasti | sa virodhamācarati | yaṃ viśvaṃ śatruṃ stṛṇoṣi vārayasi sa kaścidapi śatrurna hinasti | tava māhātmyena sarve bhītā vidheyā bhavanti śatrubhāvaṃ na ko 'pyācarati | ajātaśatrutvādityarthaḥ ‖*
+
+*(Read from the image; a few letters are doubtful, in particular the clause on *brahma parivṛḍhaṃ karma* and "*hiṃsati*"/"*virodham ācarati*": [?]. Sense: "O priests, for the sake of ourselves and of you, for the sacrifice (*iṣṭaye*) or for the attainment of the desired, we desire (*uśmasi*) Indra — we wish for what is wished. [Grammar: root *vaś kāntau*, *adādi*; *masi* with *iṭ*; *saṃprasāraṇa* by *grahijyā*…]. Or, 'our friend' is the connection: what Indra? *sakhāyam* — a very beneficent friend, or of the same renown; *viśvāyum* — the goer to all sacrifices; *prāsaham* — the great endurer of enemies; *yujam* — always joined, helping; again, in the food-oblations (*vājeṣu*) or in the sacrifices that have them, *prāsaham* — overcoming those who spoil the sacrifice; *yujam* — joined with desired fruits, or with the Maruts. And, O Indra, for our protection (*ūtaye*) protect (*ava*) our great rite (*brahma*). Where in particular? In whatever battles (*pṛtsu*, recorded among names of battle): in them no enemy harms you; whichever enemy you oppose you ward off: not any enemy harms you: by your greatness all are afraid and become obedient; no one takes up enmity, since you are without a born enemy.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he ṛtvijaḥ* — O priests); *asmākam* — our (and); *vaḥ* — your; *iṣṭaye* — for the sake of the sacrifice (for the desired object); *sakhāyam* — as a friend (beneficent); *viśvāyum* — who goes to the sacrifices of all; *prāsaham* — the able endurer of enemies; *yujam* — always together (helper); *vājeṣu* — in the sacrifice of food in the form of oblations; *prāsaham* — destroyer of the spoilers of the sacrifice; *yujam* — joined with desired fruit (with the Maruts); *indram* — Indra; *uśmasi* — we desire; *(kiṃ ca indra* — and, O Indra); *asmākam* — our; *ūtaye* —
+
+### Printed p. 383  (PDF 404)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+for protection; *brahma* — the great rite; *ava* — protect; *(why:)* *yam* — whom; *stṛṇoṣi* — you ward off; *(saḥ* — he); *kāsu cit pṛtsuṣu* — in all battles; *tvā* — you; *na hi starate* — he does not harm; *yam* — whichever; *viśvaṃ śatrum* — all enemies; *stṛṇoṣi* — you oppose; *(saḥ* — that) *śatruḥ* — enemy; *na hinasti* — does not harm you.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O priests, let us desire at our and your sacrifices Indra, who like a friend is beneficent, goes to all sacrifices, is able to endure enemies, is always at hand as a helper, destroys the foes in the food-oblation sacrifices, and is endowed with the desired fruit (accompanied by the Maruts). O Indra, protect this rite of ours (since the enemy warded off by you does not harm you in any battle, does not stand against you; and no enemy you oppose can harm you — you are without a born enemy).
+
+**Printed English (heading "English Translation"; as printed):** *"We desire, (priests), Indra to be present at your sacrifice, (he who is) our friend, the* [sic: "the the"] *frequenter of all (ceremonies), the endurer (of enemies), the ally (of his worshippers), the patient expecter of (sacrificial) viands, associated (with the Maruts); Indra, guard our holy rite for our preservation, for in whatsoever contests (you may engage), no enemy, whom you oppose prevails against you; you prevail over every enemy whom (you oppose)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+***iṣṭaye*** — *yāgāya abhimatāya vā*: the ṛṣi who saw the mantra says, "we desire Indra for the priests in the sacrifice, for the sacrificers, for the completion of the sacrifice, and for the fulfilment of what is desired."
+
+***sakhāyam*** — *sakhivad atyantahitakāriṇaṃ samānakhyānaṃ vā*: "Indra does good to the sacrificers, or gives the sacrificers a renown equal to his own": so the meaning.
+
+***prāsahaṃ vājeṣu prāsaham*** — *prakarṣeṇa śatrūṇāṃ marṣayitāraṃ haviḥrūpānneṣu tadvatsu yajñeṣu vā nimittabhūteṣu yajñavighātinaḥ sahamānam*: "for the sake of the food-oblations and the sacrifices accompanied by the oblations, he who strongly subdues the enemies,
+
+### Printed p. 384  (PDF 405)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+who spoil the sacrifice, and prevents them from fulfilling their wishes": so the meaning is explained.
+
+***yujam*** — *abhimataphalaiḥ marudbhir vā yuktam*: "Indra gives the sacrificers the desired fruit, or is joined with the Maruts"; and ***asmākam ūtaye brahma parivṛḍhaṃ karmāva — rakṣa*** — "May Indra protect the rite, the sacrifice, which we perform for our protection": so he prays.
+
+***pṛtsu*** — *saṅgrāmeṣu*: the word *pṛtsu* is recorded among the names of battle (Ni. 2-[?]; as read "೨-೯"): "battle".
+
+***yaṃ viśvaṃ śatruṃ stṛṇoṣi (kiṃ ca) yaṃ tvā śatruḥ nahi starate*** — "In battles no one acts as an opponent of Indra. Because Indra subdues enemies in the battles, the enemy is not able to strike Indra. By Indra's greatness all are afraid and become obedient to him. Because there is no enemy at all, Indra is *ajātaśatru* (one who has no enemy born), and so no one takes up the attitude of an enemy toward Indra": so Indra's greatness is described.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as printed).** *uśmasi* — root *vaśa kāntau*, *adādi*; *laṭ* first person plural, suffix *mas*; *idanto masi* (Pā. 7-1-46) gives *iṭ*; since the suffix is *sārvadhātukam apit* [i.e. *ṅit*-like], *grahijyāvayi…* (Pā. 6-1-16) gives *saṃprasāraṇa* and *pūrvarūpa* to the root; the form *uśmasi*; because it follows a finite verb *nighāta*. *iṣṭaye* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; the suffix *ktic*; *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15) gives *saṃprasāraṇa*, *pūrvarūpa*; *vraścabhrasja…* (Pā. 8-2-36) gives *ṣ* for the *j*; because of it *ṣṭutva* of the suffix; since *c*-marked the acute on the last syllable. *prāsaham* — root *ṣaha marṣaṇe*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *kvip ca* (Pā. 3-2-76) gives *kvip*; *nahivṛtivṛṣivyadhi…* (Pā. 6-3-116) gives lengthening of the preposition when it follows; *kṛd-uttarapadaprakṛtisvara*; accusative singular.
+
+### Printed p. 385  (PDF 406)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+*(Grammar, concluded.)* *yujam* — root *yujir yoge*; *ṛtvigdadhṛk…* (Pā. 3-2-59) gives *kvin*. *ūtaye* — *ūtiyūtijūti…* (Pā. 3-3-97) is irregularly formed with the acute on the last syllable (*kṛdanta*); dative singular. *starate* — root *stṛ hiṃsāyām*; *laṭ* third person singular; since *hi ca* (Pā. 8-1-34) forbids *nighāta*, and since the *lasārvadhātuka* is unaccented by *tāsyanudāttenṅidvidāder…* (Pā. 6-1-186), the root's accent remains. *stṛṇoṣi* — root *stṛñ ācchādane*, *svādi*; *laṭ* second person singular; because it follows a finite verb, *nighāta* is forbidden; since the suffix is *p*-marked the accent of the *vikaraṇa* remains. ‖ 4 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> नि षू नमातिमतिं कयस्य चित्तेजिष्ठाभिररणेभिर्नोतिभिरुग्राभिरुग्रोतिभिः [?] ।
+> नेषि णो यथा पुरानेनाः शूर मन्यसे ।
+> विश्वानि पूरोरप पर्षि वह्निरासा वह्निर्नो अच्छ ॥ ५ ॥
+
+> *ni ṣū namātimatiṃ kayasya cittejiṣṭhābhiraraṇebhirnotibhirugrābhirugrotibhiḥ [?] |*
+> *neṣi ṇo yathā purānenāḥ śūra manyase |*
+> *viśvāni pūrorapa parṣi vahnirāsā vahnirno accha ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> नि । सु । नम । अतिऽमतिम् [?] । कयस्य । चित् । तेजिष्ठाभिः । अरणेभिः [?] । न । ऊतिऽभिः । उग्राभिः । उग्र । ऊतिऽभिः ।
+> नेषि । नः । यथा । पुरा । अनेनाः । शूर । मन्यसे ।
+> विश्वानि । पूरोः । अप । पर्षि । वह्निः । आसा । वह्निः । नः । अच्छ ॥ ५ ॥
+
+> *ni | su | nama | ati 'matim [?] | kayasya | cit | tejiṣṭhābhiḥ | araṇebhiḥ [?] | na | ūti 'bhiḥ | ugrābhiḥ | ugra | ūti 'bhiḥ |*
+> *neṣi | naḥ | yathā | purā | anenāḥ | śūra | manyase |*
+> *viśvāni | pūroḥ | apa | parṣi | vahniḥ | āsā | vahniḥ | naḥ | accha ‖ 5 ‖*
+
+*(Read from the image; the Saṃhitā, whose first line is long and is printed over two lines ("…*ugrābhir ugrotibhiḥ*"), and the Pada words *atimatim*, *araṇebhiḥ* are doubtful in the print: [?]. The OCR reads the first words as "nemātimatiṃ"; I give what I read from the image: "*ni ṣū nama atimatiṃ kayasya cit*".)*
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 385 (PDF 406): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā/Pada written (doubtful words marked); resume p. 386 (PDF 407) with the Ṛk 5 bhāṣya. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379) and Ṛk 4 bhāṣya (p. 382); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
