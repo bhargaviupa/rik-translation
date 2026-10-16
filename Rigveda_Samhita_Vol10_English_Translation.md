@@ -6927,4 +6927,152 @@ Yāska, in the Nirukta, *devo devāc'yā kṛpā* (Ni. 6-8) — *devo devān pra
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 266 (PDF 287): Ṛk 1 complete (‖ 1 ‖); resume p. 267 (PDF 288) with Ṛk 2 Saṃhitā. Page images PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 267  (PDF 288)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यजिष्ठं त्वा यजमाना हुवेम ज्येष्ठमङ्गिरसां विप्र मन्मभिर्विप्रेभिः शुक्र मन्मभिः ।
+> परिज्मानमिव द्यां होतारं चर्षणीनाम् ।
+> शोचिष्केशं वृषणं यमिमा विशः प्रावन्तु जूतये विशः ॥ २ ॥
+
+> *yajiṣṭhaṃ tvā yajamānā huvema jyeṣṭhamaṅgirasāṃ vipra manmabhirviprebhiḥ śukra manmabhiḥ |*
+> *parijmānamiva dyāṃ hotāraṃ carṣaṇīnām |*
+> *śociṣkeśaṃ vṛṣaṇaṃ yamimā viśaḥ prāvantu jūtaye viśaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> यजिष्ठम् । त्वा । यजमानाः । हुवेम । ज्येष्ठम् । अङ्गिरसाम् । विप्र । मन्मऽभिः ।
+> विप्रेभिः । शुक्र । मन्मऽभिः ।
+> परिज्मानम्ऽइव । द्याम् । होतारम् । चर्षणीनाम् ।
+> शोचिःऽकेशम् । वृषणम् । यम् । इमाः । विशः । प्र । अवन्तु । जूतये । विशः ॥ २ ॥
+
+> *yajiṣṭham | tvā | yajamānāḥ | huvema | jyeṣṭham | aṅgirasām | vipra | manma 'bhiḥ |*
+> *viprebhiḥ | śukra | manma 'bhiḥ |*
+> *parijmānam 'iva | dyām | hotāram | carṣaṇīnām |*
+> *śociḥ 'keśam | vṛṣaṇam | yam | imāḥ | viśaḥ | pra | avantu | jūtaye | viśaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे विप्र मेधाविन् शुक्र दीप्तज्वालाग्ने यजिष्ठमतिशयेन यष्टृतमं त्वा त्वां यजमाना वयं यष्टारो हुवेम । आह्वयामः । यतो वयं यजमानाः यतश्च त्वं यजिष्ठः अतो हुवेमेत्यभिप्रायः । कीदृशं त्वाम् । अङ्गिरसामङ्गिरोगोत्रोत्पन्नानां मध्ये ज्येष्ठं । यद्वा । अङ्गाराणां मध्ये ज्येष्ठं ज्वालायुक्तत्वात् । अङ्गिरा अङ्गारा इति यास्कः । नि. ३-१७ । ये अङ्गारा आसंस्तेऽङ्गिरसोऽभवन्निति श्रुतेः । केन साधनेनेति तदुच्यते । मन्मभिर्मननसाधनैर्विप्रेभिर्विशेषेण प्रीणयितृभिर्मन्मभिर्मन्त्रैः । यद्वा । विप्रेभिर्मेधाविभिर्ऋत्विग्भिर्मन्मभिर्मन्त्रैश्च सहिता वयमिति संबन्धः । त्वदाह्वानानन्तरं परिज्मानं परितो गच्छन्तं द्यामिव सूर्यमिव होतारं देवानामाह्वातारम् । केषामर्थम् । चर्षणीनां मनुष्यनामैतत् । मनुष्याणां यजमानानामर्थे । यद्वा । चर्षणीनां पूर्वं मनुष्याणामेव सतां पश्चाद्यागादिसाधनेन देवत्वमापन्नानां देवानामाह्वातारम् । तथा शोचिष्केशं केशवदत्यन्तायतातेजोज्वालोपेतं वृषणं वर्षितारमेवं रूपं यं त्वां विशः त्वामेव निविशमाना इमा विशो यजमानरूपाः प्रजा जूतये स्वर्गाद्यभिमतफलप्राप्तये प्रावन्तु । प्रकर्षेण प्रीणयन्तु । तादृशं त्वां हुवेमेति संबन्धः ॥
+
+> *he vipra medhāvin śukra dīptajvālāgne yajiṣṭhamatiśayena yaṣṭṛtamaṃ tvā tvāṃ yajamānā vayaṃ yaṣṭāro huvema | āhvayāmaḥ | yato vayaṃ yajamānāḥ yataśca tvaṃ yajiṣṭhaḥ ato huvemetyabhiprāyaḥ | kīdṛśaṃ tvām | aṅgirasāmaṅgirogotrotpannānāṃ madhye jyeṣṭhaṃ | yadvā | aṅgārāṇāṃ madhye jyeṣṭhaṃ jvālāyuktatvāt | aṅgirā aṅgārā iti yāskaḥ | ni. 3-17 | ye aṅgārā āsaṃste 'ṅgiraso 'bhavanniti śruteḥ | kena sādhaneneti taducyate | manmabhirmananasādhanairviprebhirviśeṣeṇa prīṇayitṛbhirmanmabhirmantraiḥ | yadvā | viprebhirmedhāvibhirṛtvigbhirmanmabhirmantraiśca sahitā vayamiti saṃbandhaḥ | tvadāhvānānantaraṃ parijmānaṃ parito gacchantaṃ dyāmiva sūryamiva hotāraṃ devānāmāhvātāram | keṣāmartham | carṣaṇīnāṃ manuṣyanāmaitat | manuṣyāṇāṃ yajamānānāmarthe | yadvā | carṣaṇīnāṃ pūrvaṃ manuṣyāṇāmeva satāṃ paścādyāgādisādhanena devatvamāpannānāṃ devānāmāhvātāram | tathā śociṣkeśaṃ keśavadatyantāyatātejojvālopetaṃ vṛṣaṇaṃ varṣitāramevaṃ rūpaṃ yaṃ tvāṃ viśaḥ tvāmeva niviśamānā imā viśo yajamānarūpāḥ prajā jūtaye svargādyabhimataphalaprāptaye prāvantu | prakarṣeṇa prīṇayantu | tādṛśaṃ tvāṃ huvemeti saṃbandhaḥ ‖*
+
+*(Read from the image; checked against the OCR, which is garbled in places. The words "tvadāhvānānantaram" and "ātivāyatā-" are small and doubtful.)* "O *vipra*, wise, O *śukra*, O Agni of shining flames, you *yajiṣṭha* — the most worthy of sacrifice — we the sacrificers *huvema* — call. Since we are sacrificers and you are most sacrificed-to, therefore we call: that is the intention. What sort are you? *Jyeṣṭham aṅgirasām* — the eldest among those born in the Aṅgiras lineage; or the eldest among the *aṅgāras* (embers), since he has flame: '*aṅgirā aṅgārāḥ*' says Yāska (Ni. 3-17); '*ye aṅgārā āsaṃs te 'ṅgiraso 'bhavan*' — by the *śruti* [Ai. Br.]. By what means? That is said: *manmabhiḥ* — with means of thought, *viprebhiḥ* — with the specially pleasing, *manmabhiḥ* — mantras. Or else: we, together with *viprebhiḥ* — wise priests — and *manmabhiḥ* — mantras. *Parijmānam iva dyām* — like the Sun going all round the sky, *hotāram* — the caller of the gods; for whose sake? *Carṣaṇīnām* — this is a name for men: for men, the sacrificers; or, for those who were first merely men and afterwards, by the means of sacrifice, attained godhood — the caller of the gods. Likewise *śociṣkeśam* — having hair, that is, extremely long flames of radiance, *vṛṣaṇam* — the showerer; whom, being such, *imā viśaḥ* — these people, in the form of sacrificers, resting in you alone, *jūtaye* — for the attainment of the desired fruit, such as heaven, *pra avantu* — may they greatly please. Such a you we call: so it is connected."
+
+### Printed p. 268  (PDF 289)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(He) vipra* — O wise Agni; *parijmānam iva dyām* — like the Sun that moves around the sky; *carṣaṇīnām* — for the sacrificers; *hotāram* — the one who calls the gods; [*carṣaṇīnām* — for those who were first men and afterwards attained godhood, the gods; *hotāram* — the one who calls them]; *śociṣkeśam* — one with hair of shining flame (flames spread out like hair); *vṛṣaṇam* — the showerer of desires; *yam* — whom (you); *viśaḥ* — people; *imāḥ viśaḥ* — these (sacrificer) people; *jūtaye* — for the attainment of the fruit desired, such as heaven; *pra avantu* — may they please well; *he śukra* — O blazing Agni; *taṃ* — such; *yajiṣṭham* — most worthy of worship; *aṅgirasām* — among the Aṅgirases (among the embers); *jyeṣṭham* — the eldest (the eldest by his flame); *tvā* — you; *manmabhiḥ* — with the means of thought (and); *viprebhiḥ* — with special pleasing; *manmabhiḥ* — mantras; [*manmabhiḥ* — with praising; *viprebhiḥ* — priests; *manmabhiḥ* — with mantras]; *yajamānāḥ* — we the sacrificers; *huvema* — call.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O wise and blazing Agni, you call the gods, like the Sun that goes all round the sky, for the sake of men, the sacrificers; the people approach you, most worthy of worship, with hair-like flames, the giver of desired ends, for the attainment of the fruits such as heaven; to you, who are the eldest of all the Aṅgirases, we the sacrificers call, together with priests (the praisers) and mantras (the means of praise).
+
+**Printed English (as printed):** *We, the institutors of the ceremony, invoke you Agni, who are most deserving of worship, and are the eldest of the Angirasas, with*
+
+### Printed p. 269  (PDF 290)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+*(acceptable) prayers; and with prayers (recited) by the priests, (we adore) you, who, like the traverser of the sky, (the sun), are the invoker (of the gods on behalf) of men, and whom, the bright-haired showerer (of blessings), many people approaching propitiate for the attainment of felicity.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
+
+***śukra — dīptajvālāgne*** — the word *śukra* is recorded among the hundred and one names of water (Ni. 1-[?]4 [as printed "೨-೩೪"; doubtful]).
+
+> आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
+
+> *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 1-142-7, as printed "೧-೧೪೨-೭".) *(Read letter by letter; "suṣvayantī" and "śukrapiśaṃ" as printed.)* In this ṛk, the word *śukra* is explained: "*śukrapeśasaṃ śriyaṃ, śukraṃ śocateḥ jvalatikarmaṇaḥ*" (Ni. 8-11 [?] as printed "೮-೧೧"), the word *śukra*, derived from *śuc* (burning), meaning "shining", is made an epithet of Agni, and Agni is addressed as "one with bright flames".
+
+***vipra — medhāvin*** — the word *vipra* is explained as "wise, intelligent"; as it is used as an epithet of Agni, Agni is addressed as "wise one".
+
+***yajiṣṭhaṃ tvā yajamānā huvema*** — *atiśayena yaṣṭṛtamaṃ tvāṃ vayaṃ yaṣṭāraḥ āhvayāmaḥ*: In this sentence the sacrificer is called both *yajamāna* and *yaṣṭṛ*; Agni, being necessarily required by the sacrificers (as the chief), is addressed as the most worthy of sacrifice, and the sacrificers invoke Agni for the purpose of the sacrifice, it is explained.
+
+***aṅgirasāṃ jyeṣṭham*** — *aṅgirogotrotpannānāṃ madhye jyeṣṭhaṃ yadvā aṅgārāṇāṃ madhye jyaiṣṭhaṃ jvālāyuktatvāt aṅgirā aṅgārāḥ* (Ni. 3-17), says Yāska: *ye 'ṅgārā āsaṃs te 'ṅgiraso 'bhavan* (Ai. Br. 3-34, as printed "ಐ. ಬ್ರಾ. ೩-೩೪"), by the *śruti*. The meaning is that Agni is the first of all those born in the lineage of the seer Aṅgiras; or that, by the connection with flames, he is the chief among the embers.
+
+> त्वमग्ने प्रथमो अङ्गिरा ऋषिर्देवो देवानामभवः शिवः सखा ।
+
+> *tvamagne prathamo aṅgirā ṛṣirdevo devānāmabhavaḥ śivaḥ sakhā |*
+
+(Ṛ. Saṃ. 1-31-1, as printed.)
+
+> त्वमग्ने प्रथमोऽङ्गिरस्तमः कविर्देवानां परिभूषसि व्रतम् ॥
+
+> *tvamagne prathamo 'ṅgirastamaḥ kavirdevānāṃ paribhūṣasi vratam ‖*
+
+(Ṛ. Saṃ. 1-31-2, as printed.)
+
+### Printed p. 270  (PDF 291)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+In these ṛks it is described that Agni, first of all the Aṅgirases, was born under the name of the ṛṣi Aṅgiras and was the best among those ṛṣis. In the Aitareya Brāhmaṇa, "*ye 'ṅgārā āsaṃs te 'ṅgiraso 'bhavan*" (Ai. Br. 3-34): the embers (*aṅgāra*) that arose when Agni burned became the name of the ṛṣis Aṅgiras: thus the derivation of the word *aṅgiras* is also given.
+
+> प्रियमेधवदत्रिवज्जातवेदो विरूपवत् ।
+> अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ॥
+
+> *priyamedhavadatrivajjātavedo virūpavat |*
+> *aṅgirasvanmahivrata praskaṇvasya śrudhī havam ‖*
+
+(Ṛ. Saṃ. 1-45-3, as printed "೧-೪೫-೩".) Citing this ṛk, Yāska (Ni. 3-17), "*arciṣi bhṛguḥ saṃbabhūva bhṛgur bhrajyamāno na dehe | aṅgāreṣv aṅgirā aṅgārā añcanāḥ aṅkanāḥ*": has explained. Durgācārya, explaining its meaning —
+
+> भृगुर्भ्रज्यमानो न देहे प्रजापतिना किल शुक्रमाक्षीयमादाय अग्नौ हुतम् । ततः अर्चिषि ज्वालायां भृगुर्नाम महर्षिः संबभूव । व्यपगते अर्चिषि यः अङ्गारेषु संबभूव सः अङ्गिराः नाम अभवत् । अङ्गाराः अङ्कनाः । ते हि यत्र निधीयन्ते तदङ्कितं भवति ॥
+
+> *bhṛgurbhrajyamāno na dehe prajāpatinā kila śukramākṣīyamādāya agnau hutam | tataḥ arciṣi jvālāyāṃ bhṛgurnāma maharṣiḥ saṃbabhūva | vyapagate arciṣi yaḥ aṅgāreṣu saṃbabhūva saḥ aṅgirāḥ nāma abhavat | aṅgārāḥ aṅkanāḥ | te hi yatra nidhīyante tadaṅkitaṃ bhavati ‖*
+
+*(Read letter by letter; "śukram ākṣīyam ādāya" [?] is small and doubtful.)* "[It is said that] Bhṛgu, as if being fried in a body, [arose] when Prajāpati offered his seed in the fire; thence in the flame (*arciṣi*) the great seer called Bhṛgu came into being; when the flame had gone, he who came into being among the embers was called Aṅgirā. *Aṅgārāḥ* are *aṅkanāḥ* — marking: for where they are laid down, that place is marked." When Brahmā (Prajāpati) offered his seed in the fire, flames arose; from them the seer Bhṛgu was born; when all the flames had subsided, the embers remained; he who was born from these became the seer called Aṅgiras; since those that are touched are marked (*aṅkana*), these were named *aṅgāras*: so the meaning is explained. From this Sāyaṇa has described Agni, being endowed with flame, as the best among embers.
+
+***manmabhir viprebhir manmabhiḥ*** — *mananasādhanaiḥ viśeṣeṇa prīṇayitṛbhiḥ mantraiḥ | yadvā viprair medhāvibhir ṛtvigbhiḥ manmabhir mantraiś ca sahitā vayam iti saṃbandhaḥ*. The word *manma* is repeated here twice; by this two kinds of meanings are described. The first meaning is "means of thought", as an epithet of the word *mantra*. In the second, the word *manma* [means mantra]. For the word *vipra* too two meanings are explained: first, *vi* = special, *pra* = pleasing (*prīṇayitā*, "the satisfier"); the second meaning of the word *vipra* is "wise priest" (*ṛtvij*).
+
+### Printed p. 271  (PDF 292)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+The meaning is that, in sum, wise priests who are accompanied by mantras that please Agni, and we the sacrificers, invoke [Agni]. Sāyaṇa has explained this in two ways. Through the different meanings stated for *vipra*, a variation of sense is described here. The meaning of the word *manma* has been explained in the ṛk 1-[?] [as printed "೧-೧೪೪-೨"?; doubtful].
+
+***hotāraṃ carṣaṇīnām*** — *yajamānānām arthe devānām āhvātāraṃ yadvā pūrvaṃ manuṣyāṇām eva satāṃ paścād yāgādisādhanena devatvam āpannānāṃ devānām āhvātāram*: In explaining the meaning of the word *hotṛ*, derived from the root *hve*, it was described before that Agni himself is the *hotṛ*, and that he calls the gods to receive the oblations offered in the sacrifice to the various gods, by reciting their mantras. By this two kinds of meaning are explained here too. In the first, it is said that Agni calls all the gods for the sacrifice. In the second, to explain the word *carṣaṇī* — Yāska in the Nirukta cites *manuṣyāḥ, naraḥ* [and so on], among the twenty-five names of men (Ni. 3-8 [?], as printed "೩-೮"). And —
+
+> विश्वानरस्य वस्पतिमनानतस्य शवसः । एवैश्च चर्षणीनामूती हुवे रथानाम् ॥
+
+> *viśvānarasya vaspatimanānatasya śavasaḥ | evaiśca carṣaṇīnāmūtī huve rathānām ‖*
+
+(Ṛ. Saṃ. 8-6-? [?], as printed "೮-೬-೪"? — numerals small.) *(Read letter by letter; I do not complete the words from memory; "vaspatim" is doubtful.)* In this ṛk, *carṣaṇīnām* is explained as *manuṣyāṇām* (Ni. 12-22 [?] as read by the OCR). Following this, Sāyaṇa explains the word *carṣaṇī*, since it is recorded among the names of men, as *yajamānānām arthe* — "for the sacrificers" — in the first explanation; and in the second, those who were first mere men and, by performing sacrifice, attained the state of gods, are called *carṣaṇī*; Agni calls them to the sacrifice, he said.
+
+***parijmānam iva dyām*** — *sūryam iva parito gacchantam*: explaining *dyām* as "the sun", Sāyaṇa says that Agni, like the Sun, moves about everywhere (pervades). But Yāska —
+
+> न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतम् ।
+> अन्यस्य चित्तमभि संचरेण्यमुताधीतं वि नश्यति ॥
+
+> *na nūnamasti no śvaḥ kastadveda yadadbhutam |*
+> *anyasya cittamabhi saṃcareṇyamutādhītaṃ vi naśyati ‖*
+
+(Ṛ. Saṃ. 1-120-3 [?], as printed "೧-೧೨೦-೩".) citing this ṛk, [says] *na nūnam asty adyatanaṃ, adyāsmin daivi dyur ity ahno nāmadheyaṃ dyotata iti sataḥ* (Ni. 4-[?]; as read) — he explains the word *dyu* as *ahas*, "day". Durgācārya, since the ṛk says "not now … tomorrow does not exist", explains it by supplying the word *adyatanam* ("of today") to Yāska's statement.
+
+### Printed p. 272  (PDF 293)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+Since the day (*ahas*) arises from a particular motion of the Sun, and is a particular time, [Sāyaṇa seems to] explain that "he who gives light to the day, who moves about like the Sun that is ever moving" — the general meaning "shining" belongs to both day and Sun.
+
+***śociṣkeśam*** — *keśavad atyantāyatatejojvālopetam*: the word *śocis* is recorded among the eleven names of burning beginning with *jvalat* (Ni. 1-[?]8 [as printed "೨-೨೮"; doubtful]); *jvalataḥ* means flames. As the hairs on the bodies of men are long, so are the flames of Agni long. One having such flames is Agni: that is the sense.
+
+***imāḥ viśaḥ viśaḥ jūtaye prāvantu*** — in this sentence the word *viśaḥ* is used twice. The author of the Nirukta says that the word *viśaḥ* is recorded among the twenty-five names of men, beginning with *manuṣyāḥ*, *naraḥ* (Ni. 3-8). And —
+
+> जराबोध तद्विविड्ढि विशेविशे यज्ञियाय । स्तोमं रुद्राय दृशीकम् ॥
+
+> *jarābodha tadviviḍḍhi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkam ‖*
+
+(Ṛ. Saṃ. 1-114-4, as printed "೧-೧೧೪-೪" [?].) *(Read letter by letter.)* In this ṛk, *viśe viśe* is explained as *manuṣyasya manuṣyasya*, "for each and every man". Sāyaṇa says of the two words *viśaḥ* … *viśaḥ*: for the one, "those who rest in you alone, taking Agni alone as their support"; for the second *viśaḥ*, "people in the form of sacrificers"; and since Agni, the god, is the fulfiller of what is desired, may the people who serve him, in the form of sacrificers, be satisfied by offering oblations for their respective desired ends, such as heaven: thus he prays. And — such an Agni we call and give oblations to: this is what is said.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly, numbers as read by the OCR).** *yajiṣṭham* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *tṛc* in the agent sense; when the sense "most worshipping" is intended, *tuśchandasi* (Pā. 5-3-59) gives *iṣṭhan*; with it following, *turiṣṭhemeyaḥsu* (Pā. 6-4-154) elides the *tṛc*; *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute; accusative singular.
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 272 (PDF 293): Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done, grammar (*yajiṣṭham*) begun; resume p. 273 (PDF 294). Page images PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264, 270 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
