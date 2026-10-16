@@ -8912,4 +8912,72 @@ Since *śaṃsati* is read among the names of "praising" (Ni. 3-19 [?]), the mea
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 350 (PDF 371): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā/Pada done and the bhāṣya breaks off at the foot of p. 350 ("…havyaṃ tattaddevatām uddiśya prattaṃ puroḍāśā[di]"); resume p. 351 (PDF 372). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348; OCR reference-number lines missing for pp. 249–350.
+### Printed p. 351  (PDF 372)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+(Continuing the bhāṣya of Ṛk 6 from p. 350:)
+
+> दिकमोहिसे । सर्वतो वहसि ॥ वहेर्लिटि यजादित्वात्संप्रसारणं ॥ किंचायमग्निर्विश्वस्मै सुकृते शोभनयज्ञकर्त्रे यजमानाय वारं सर्वैर्वरणीयं क्षुदादिनिवारकं वान्नादिकम् [?] ऋण्वति । गच्छति । करोतीत्यर्थः । किंचायमग्निर्द्वारा स्वर्गाद्यभिमतद्वाराणि व्यृण्वति । विवृणोति । प्रतिबन्धकपापासनेनद्वाराभिमतानि साधयतीत्यर्थः ॥ ऋण्वतिर्गतिकर्मा । यद्वा रिणिर्गत्यर्थः । इदित्त्वान्नुम् । छान्दसं रेफस्य संप्रसारणम् ॥
+
+> *dikamohise | sarvato vahasi ‖ vaherliṭi yajāditvātsaṃprasāraṇaṃ ‖ kiṃcāyamagnirviśvasmai sukṛte śobhanayajñakartre yajamānāya vāraṃ sarvairvaraṇīyaṃ kṣudādinivārakaṃ vānnādikam [?] ṛṇvati | gacchati | karotītyarthaḥ | kiṃcāyamagnirdvārā svargādyabhimatadvārāṇi vyṛṇvati | vivṛṇoti | pratibandhakapāpāsanenadvārābhimatāni sādhayatītyarthaḥ ‖ ṛṇvatirgatikarmā | yadvā riṇirgatyarthaḥ | idittvānnum | chāndasaṃ rephasya saṃprasāraṇam ‖*
+
+*(Read from the image: "*(ā) ūhise*" — the beginning is the end of "*ā ūhise*"; *havyam…puroḍāśā* of p. 350 + "*dikam ohise*" [sic?]; the fragment is read as printed: "*puroḍāśādikam ohise | sarvato vahasi*" ["you carry it from everywhere"]. A few letters in the small-type grammar tail are doubtful: [?].)* Sense: "…the *puroḍāśa* and the rest, you carry; that is, you carry from all sides. [Grammar: in the *liṭ* of *vah* the *saṃprasāraṇa* by *yajādi*.] And this Agni, to every doer of good sacrifice, the sacrificer, grants a *vāra* — food and the like, to be chosen by all, which keeps off hunger and the like — *ṛṇvati*, goes, makes: so the meaning. And this Agni *dvārā vy ṛṇvati* — opens the gates to heaven and other desired places; by removing the obstructing sins he accomplishes the sacrificer's desires: so the meaning. [Grammar: *ṛṇvati* is a verb of motion; or *riṇi* in the sense of motion; *idittvān num*; the Vedic *saṃprasāraṇa* of the *r*.]"
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *viśvaḥ* — reached by all (the all-formed); *vihāyāḥ* — of great form; *aratiḥ* — the lord; *vasuḥ* — (this Agni, the lord of) wealth fit for dwelling; *dakṣiṇe* — able to give what is desired; *haste* — in the (right) hand; *dadhe* — holds; *taraṇiḥ na* — like the Sun the saviour; *śiśrathat* — gives (the wealth held in his hand) to the sacrificer [or: *taraṇiḥ* — Agni the saviour; *na śiśrathat* — does not let go the sacrificer]; *śravasyayā* — merely by desire for the oblation-food; *na śiśrathat* — does not let go; *devatrā it* — among the gods you in particular; *viśvasmai* — for all; *iṣudhyate* — for Indra and others who desire the oblation; *havyam* — the oblation offered to each deity; *ā ūhise* — you carry everywhere; *viśvasmai sukṛte it* — to all the doers of good works; *vāram* — the food to be desired by all; *ṛṇvati* — grants; *agniḥ* — Agni; *dvārā* — the gates to heaven and the like, as wished; *vi ṛṇvati* — opens.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, who is approached by all, venerable and lord, holds in his right hand — able to grant the desired gift — wealth fit to be given, and gives it (to the sacrificer) like the Sun, the saviour; he does not let go the performers of the sacrifice, even out of desire for the oblations (that is, the oblations are only a pretext; his grace is the chief cause of his protection). Among the gods Agni alone carries to Indra and the others, who desire oblations, the *puroḍāśa* and other oblations offered by the sacrificers; he provides food that removes hunger to all who do good rites; and he opens the gates of the desired heaven and other worlds.
+
+**Printed English (heading "English Translation"; as printed):** *"The universal, mighty and imperious (Agni) holds riches in his right hand; but, like the sun, he loosens his grasp (in favour af* [sic] *his worshipper),*
+
+### Printed p. 352  (PDF 373)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+*although he relaxes not from his desire of the (sacrificial) food. Verily, Agni, you bear the oblation to every one of the gods who desires it; Agni grants blessings to every pious (worshipper), and opens for him the gates (of heaven)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***dakṣiṇe*** — *abhimataṃ pradātum utsāhayukte haste vāmetare*: Sāyaṇa explains the word *dakṣiṇa* in two ways: "full of the eagerness of a generous mind", and "the hand other than the left, that is, the right hand".
+
+***viśvaḥ*** — *sarvair gantavyaḥ yadvā viśvātmakaḥ*: "he who should be approached and worshipped by all", or "he who exists in the nature of all things": two meanings are given. The word *viśva* is recorded among the twelve names of "much" — *uru, tuvi* and so on (Ni. 3-13 [?]). In the sense "all" this word is used in very many places.
+
+***vihāyāḥ*** — since it is recorded among the "great" names (Ni. 3-13 [?]), here Sāyaṇa explains *vihāyāḥ* as "great, filled with greatness": this Agni.
+
+***taraṇir na dhṛtvā ca śiśrathat*** — *taraṇiḥ tārakaḥ sūrya iva dhṛtaṃ hastaṃ yajamānārthaṃ śrathayati dadāti yathā saḥ svopāsakāya abhimataṃ haste dhṛtvā vitarati tadvat | yadvā taraṇiḥ sarvasya tārakaḥ na śiśrathat yajamānaṃ na śrathayati na muñcati*: "as the Sun, the saviour, loosens the held hand for the sacrificer, that is, gives, so Agni; or the saviour Agni of all does not let go the sacrificer." The word *taraṇi* is recorded among the names of the swift (Ni. 3-9 [?]); here it is explained as "the Sun". One meaning is that, as the Sun holds in his hand what his worshipper wants and gives it to him, Agni too holds what the sacrificer desires in his own hand and gives it; the second, that as the Sun brings all to a good state, so Agni makes those who serve him — not leaving them in trouble — possess a good state: so it is described.
+
+***śravasyayā na śiśrathat*** — *na vimuñcati*: "Agni does not leave the sacrificers out of pride that they offer him the oblations, nor out of the desire that the oblations will come from them; one should not so understand it. *ayam anugraheṇaiva pālayate haviḥsvīkāras tu vyapadeśamātreṇa*": that Agni accepts oblations is merely a pretext; Sāyaṇa explains that he always protects the sacrificer only by favour.
+
+### Printed p. 353  (PDF 374)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+The word ***śravaḥ*** is recorded among the names of wealth (Ni. 2-[?]; as read "೩-೯"). —
+
+> अमन्दान्त्स्तोमान् प्र भरे मनीषा सिन्धावधि क्षियतो भाव्यस्य ।
+> यो मे सहस्रममिमीत सवानतूर्तो राजा श्रव इच्छमानः ॥
+
+> *amandān stomān pra bhare manīṣā sindhāv adhi kṣiyato bhāvyasya |*
+> *yo me sahasram amimīta savān atūrto rājā śrava icchamānaḥ ‖*
+
+(Ṛ. Saṃ. 1-126-1, as printed "೧-೧೨೬-೧".) Here the word *śravaḥ* is used in the sense of "fame". And —
+
+> आसश्रासः [?] शवसानमच्छेन्द्रं सुचक्रासो रथ्यासो अश्वाः ।
+> अभि श्रव ऋज्यन्तो वहेयुर्नू चिन्नु वायोरमृतं वि दस्येत् ॥
+
+> *āsaśrāsaḥ [?] śavasānam acchendraṃ sucakrāso rathyāso aśvāḥ |*
+> *abhi śrava ṛjyanto vaheyur nū cin nu vāyor amṛtaṃ vi dasyet ‖*
+
+(Ṛ. Saṃ. 5-62-3 [?], as read; the numerals are doubtful. The first word is printed "āsaśrāsaḥ"; I give the letters as read.) Here the Niruktakāra explains "*śrava iti annanāma śrūyata iti sataḥ*" — "*śravaḥ* is a name of food; it is heard (*śrūyate*) as something existing". Sāyaṇa explains the word *śravasyā*, in which the suffix *kyac* arises in the sense *śravaḥ ātmana icchati* ("who desires *śravas* for himself"), as "desire for food in the form of an oblation".
+
+***viśvasmai sukṛte vāram ṛṇvati*** — *śobhanayajñakartre yajamānāya sarvair varaṇīyaṃ kṣudādinivārakaṃ vānnādikaṃ karoti*: "Agni grants to the sacrificer who performs the sacrifice food that quells hunger": so the meaning.
+
+***agniḥ dvārā vy ṛṇvati*** — "since Agni destroys the sins that obstruct the desired aims such as heaven, he accomplishes the sacrificer's desires": so the meaning.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as read).** *dadhe* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; the root with the hidden causal sense; the Vedic *liṭ* in the present sense, third person singular; *tiṅ-nighāta*. *aratiḥ* — root *ṛ gatau*; *vahivasyarti…* (Uṇ. 4-[?]) gives the suffix *ati*; because of it guṇa of the root with *raparatva*; since *cit* is prescribed, *citaḥ* gives the acute on the last syllable. *taraṇiḥ* — root *tṝ plavanataraṇayoḥ*; *ārtisṛdhy…* (Uṇ. 2-[?]) gives *ani*; guṇa of the root; acute on the first syllable of the suffix. *śiśrathat* — root *śrath mokṣaṇe*; after *ṇic*, *luṅ* third person singular, *tip*; *itaś ca* drops *i*; *ṇiśridrusubhyaḥ kartari caṅ* (Pā. 3-1-48) the *caṅ* for *cli*; *caṅi* the root is doubled; shortening of the penult; in *sanvadbhāva* [as printed], though there is no [cause]…
+
+*(The remainder of the entry is on p. 354.)*
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 353 (PDF 374): Ṛks 1–5 complete; Ṛk 6 complete except the end of its grammar page (entry *śiśrathat* breaks off at the foot of p. 353); resume p. 354 (PDF 375) with the rest of the Ṛk 6 grammar (‖ 6 ‖), then Ṛk 7. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353; OCR reference-number lines missing for pp. 249–353.
