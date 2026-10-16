@@ -5101,4 +5101,124 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 
 ---
 
-**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 193 (PDF 214): Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done, grammar (*ratnam*) begun; resume p. 194 (PDF 215). Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part (the list of gifts and the last ten lines in tiny type; sense given from the Kannada pp. 191–193).
+### Printed p. 194  (PDF 215)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 1, continued; noted briefly, numbers as read by the OCR).** *prātaritvā* — root *iṇ gatau*, with *prātaḥ* as upapada; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75) gives the suffix *kvanip* [as printed]; since it has the marker *k*, no guṇa; since it has the marker *p*, *hrasvasya piti kṛti tuk* (Pā. 6-1-71) gives *tuk* to the root; the form is *itvan*; in the compound the accent of the final member's own nature; nominative singular. *dadhāti* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Juhotyādi; laṭ third person singular; *nighāta* after a non-verb word. *cikitvān* — root *kita jñāne*; *kvasuś ca* gives *kvasu* for *liṭ*; with it as cause, doubling of the root; first-syllable acute of the suffix; nominative singular. *pratigṛhya* — root *graha upādāne*; when *ktvā* comes, *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37) gives *lyap*; since it has the marker *p* the root-accent remains; in the compound the accent of the final member. *prajām* — root *janī prādurbhāve*; *upasarge ca saṃjñāyām* (Pā. 3-2-99) gives the suffix *ḍa*; by the marker, elision of the *ṭi*; the accent of the final member. *vardhayamānaḥ* — root *vṛdhu vṛddhau*; *hetumati ca* gives *ṇic*; guṇa of the short penultimate; after the *ṇijanta*, *śānac*, *śap*; guṇa and *ayādeśa*; *āne muk* (Pā. 7-2-82) gives *muk* to a stem in *a*; by *tāsyanudāttet* the *sārvadhātuka* is unaccented, and the *ṇic*-accent remains. *sacate* — root *saca samavāye*; laṭ third person singular; *nighāta* accent. *suvīraḥ* — *vīre vīryau ca* (Pā. 6-2-120) gives the first-syllable acute of the latter member, overriding the accent of *su*. ‖ 1 ‖
+
+#### Ṛk 2
+
+### Printed p. 195  (PDF 216)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+**॥ संहितापाठः ॥**
+
+> सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मे वय इन्द्रो दधाति ।
+> यस्त्वायन्तं वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति ॥ २ ॥
+
+> *sugurasatsuhiraṇyaḥ svaśvo bṛhadasme vaya indro dadhāti |*
+> *yastvāyantaṃ vasunā prātaritvo mukṣījayeva padimutsināti ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> सुऽगुः । असत् । सुऽहिरण्यः । सुऽअश्वः । बृहत् । अस्मै । वयः । इन्द्रः । दधाति ।
+> यः । त्वा । आऽयन्तम् । वसुना । प्रातःऽइत्वः । मुक्षीजयाऽइव । पदिम् । उत्ऽसिनाति ॥ २ ॥
+
+> *su 'guḥ | asat | su 'hiraṇyaḥ | su 'aśvaḥ | bṛhat | asmai | vayaḥ | indraḥ | dadhāti |*
+> *yaḥ | tvā | ā 'yantam | vasunā | prātaḥ 'itvaḥ | mukṣījayā 'iva | padim | ut 'sināti ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अत्र कक्षीवतः पित्रानीतेन धनेन संतुष्टो राजानं बहुप्रकारेणाशास्ते । असौ स्वनयो राजा सुगुरसत् । शोभनैर्बहुभिर्गोभिस्तद्वान्भवतु । तथा सुहिरण्यः सुष्ठु हितरमणीयैर्हिरण्यैस्तद्वान्भवतु । तथा स्वश्वः शोभनैरश्वैस्तद्वान्सन् अस्मै राज्ञे प्रदात्रे बृहत्प्रभूतं वयोऽन्नमिन्द्रः परमेश्वरो धर्मदेवता दधाति । दधातु । ददातु । यतोऽयं राजा गोहिरण्याश्वान्नानि बहुसंख्याकानि दत्तवान् अतस्तेषामभिवृद्धिप्रार्थनोचितैव । कस्यैवमाशीरिति तदुच्यते । यः यो राजा प्रातरित्वः प्रातरागामिन्यतिथौ पुत्रे [?] आयन्तं गुरुकुलादागतं पदिं पथिकं यदृच्छयागन्तारं त्वा त्वां वसुना अन्नसाधनेन गवादिधनेनोत्सिनाति । गमनत उत्क्षिप्तं बध्नाति । गतिं निरुणद्धीत्यर्थः । प्रतिबन्धे दृष्टान्त उच्यते । मुक्षीजयेव पदिम् । मुच्यमानासती बन्धनं जनयतीति मुक्षीजा मृगपक्ष्यादिबन्धनी रज्जुः । तया पाशको यथा पदिं गन्तारं मृगपक्ष्यादिकमुत्सिनाति बध्नाति तथा मयानुज्ञातमपि त्वां गमनतः प्रतिबध्य गवादिप्रदानादिना यो राजा तोषयति स एवं भवतीति । पदिरिति पदव्याचक्षाणेन यास्केन तदुदाहरणमयं मन्त्रो व्याख्यातः । सुगुर्भवति तेनाह्वेति [?] । नि. ५-१९ ॥
+
+> *atra kakṣīvataḥ pitrānītena dhanena saṃtuṣṭo rājānaṃ bahuprakāreṇāśāste | asau svanayo rājā sugurasat | śobhanairbahubhirgobhistadvānbhavatu | tathā suhiraṇyaḥ suṣṭhu hitaramaṇīyairhiraṇyaistadvānbhavatu | tathā svaśvaḥ śobhanairaśvaistadvānsan asmai rājñe pradātre bṛhatprabhūtaṃ vayo 'nnamindraḥ parameśvaro dharmadevatā dadhāti | dadhātu | dadātu | yato 'yaṃ rājā gohiraṇyāśvānnāni bahusaṃkhyākāni dattavān atasteṣāmabhivṛddhiprārthanocitaiva | kasyaivamāśīriti taducyate | yaḥ yo rājā prātaritvaḥ prātarāgāminyatithau putre [?] āyantaṃ gurukulādāgataṃ padiṃ pathikaṃ yadṛcchayāgantāraṃ tvā tvāṃ vasunā annasādhanena gavādidhanenotsināti | gamanata utkṣiptaṃ badhnāti | gatiṃ niruṇaddhītyarthaḥ | pratibandhe dṛṣṭānta ucyate | mukṣījayeva padim | mucyamānāsatī bandhanaṃ janayatīti mukṣījā mṛgapakṣyādibandhanī rajjuḥ | tayā pāśako yathā padiṃ gantāraṃ mṛgapakṣyādikamutsināti badhnāti tathā mayānujñātamapi tvāṃ gamanataḥ pratibadhya gavādipradānādinā yo rājā toṣayati sa evaṃ bhavatīti | padiriti padavyācakṣāṇena yāskena tadudāharaṇamayaṃ mantro vyākhyātaḥ | sugurbhavati tenāhveti [?] | ni. 5-19 ‖*
+
+*(Read from the image; the last sentence — the Nirukta citation — is small and doubtful, and the OCR is garbled. The Nirukta number is as printed "५-१९"/"೫-೧೯" and as the OCR reads it.)* "Here Kakṣīvat's father, pleased with the wealth brought, blesses the king in many ways. May this King Svanaya be *suguḥ* — rich in many beautiful cows; likewise *suhiraṇyaḥ* — rich in lovely, beneficial gold; likewise *svaśvaḥ* — rich in good horses; and being so, may Indra — the supreme lord, the deity of dharma — *dadhāti*, 'bestow' (let him bestow, let him give) upon this king, the giver, *bṛhat* — abundant — *vayaḥ*, food. Since this king has given a great number of cows, gold, horses and food, a prayer for their increase is proper. Whose is such a blessing? That is said: *yaḥ* — the king who, to you, *prātaritvaḥ* — who came at daybreak as a guest, *āyantam* — arriving from the guru's house, *padim* — a traveller, one who came by chance — *tvā* — you — with *vasunā*, wealth in the form of cows and so on that serve as food, *utsināti* — fastens up, ties, stops; that is, he arrests the going. The illustration of the arresting is given: *mukṣījayeva padim* — *mukṣījā* is the snare, the rope for binding animals and birds, that, when loosed, creates the binding; as the fowler with it binds the animal or bird that goes, the *padi*, so he who, though permitted by me, stops you from going and pleases you with gifts of cows and the like, is such a king. Yāska has explained this mantra as the example, explaining the word *padi* (Ni. 5-19)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Prātaritvaḥ* — (O son, Kakṣīvat) who came in the early morning; *āyantam* — arriving (from the guru's house); *padim* — a traveller; *tvā* — you; *vasunā* — with wealth such as cows (which is the means of food); *mukṣījā iva padim* — as one binds a living creature with a snare that binds; *yaḥ* — which king; *utsināti* — stops (hinders from going further); *(saḥ* — that king); *suguḥ* — one with excellent cows; *suhiraṇyaḥ* — with auspicious gold; *svaśvaḥ* — with fine horses; *asat* — may he be; *asmai* — (the giver) to this king; *indraḥ* — Indra; *bṛhat* — much; *vayaḥ* — food; *dadhāti* — may he bestow.
+
+### Printed p. 196  (PDF 217)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O son, the king who has stopped you, who were coming in the morning from the guru's house, with gifts of cows and the like — as one binds a living creature with a snare — may that king be endowed with excellent cows, horses and gold; may Indra bestow abundant food on him.
+
+**Printed English (as printed):** *May he (the Raja) be rich in cows, in gold, in horses : may Indra grant abundant food to him who delays thee, returning home in the early morning, by costly gifts, as (a hunter arrests the) wandering (animals) by his snares.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
+
+> अथ कक्षीवतः पिता आनीतेन धनेन संतुष्टः राजानं बहुप्रकारेण आशास्ते ।
+
+> *atha kakṣīvataḥ pitā ānītena dhanena saṃtuṣṭaḥ rājānaṃ bahuprakāreṇa āśāste |*
+
+"Then Kakṣīvat's father, pleased at the wealth brought by him, blesses the king in many ways." Seeing the riches given by Svanaya, Kakṣīvat's father is greatly pleased and blesses Svanaya in many ways. In this ṛk the order of the blessing is shown. For this ṛk the author of the Nirukta gives this explanation:
+
+> सुगुर्भवति सुहिरण्यः स्वश्वो महच्चास्मै वय इन्द्रो दधाति यस्त्वा यन्तमन्नेन प्रातरागामिनमतिथे ।
+> मुक्षीजयेव पदिमुत्सिनाति कुमारः । मुक्षीजा मोचनाच्च स्यनाच्च ततनाच्च ॥
+
+> *sugurbhavati suhiraṇyaḥ svaśvo mahaccāsmai vaya indro dadhāti yastvā yantamannena prātarāgāminamatithe |*
+> *mukṣījayeva padimutsināti kumāraḥ | mukṣījā mocanācca syanācca tatanācca ‖*
+
+(Ni. 5-19, as printed "೫-೧೯".) *(Read from the print, with the OCR; "yantam annena" and "kumāraḥ" as printed.)* "As a boy with a snare-like means arrests the going of a bird, so the king who has stopped you, who came at daybreak as a guest, by wealth such as gold and the like, as a means, and made you his own — to such a king may Indra give still more, possessions of cattle, gold and the like": that is the idea.
+
+### Printed p. 197  (PDF 218)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+***suguḥ asat*** — *śobhanair bahubhir gobhis tadvān bhavatu*: "may he be possessed of many fine cows"; the meaning is that he may obtain still more excellent cows.
+
+***prātaritva*** — *prātar āgāmin atithe putra*: "O son, who came as a guest in the morning, returning from the guru's house": the son, Kakṣīvat, is addressed. From the root *i*, which means "to go", the word *itvan* is formed, "he who goes" or "he who comes"; *prātaritvan* means "one who is to come in the morning, who is to go forward". In this ṛk and in the preceding ṛk the word *prātaritvan* is an epithet of both Kakṣīvat and Svanaya: Svanaya came in the morning to Kakṣīvat, and Kakṣīvat arrived as a guest in the morning.
+
+***padim*** — *padiḥ padagantur bhavati yat padyate* (Ni. 5-19 [?], as printed): since he goes (travels), the one who moves is called *padi*.
+
+***mukṣījayā iva*** — *mucyamānā satī bandhanaṃ janayatīti mukṣījā mṛgapakṣyādibandhanī rajjuḥ*: a net that, when thrown down, binds animals, birds and the like. *Mukṣījā mocanāc ca syanāc ca tatanāc ca* (the Nirukta, as printed): the net gets the name *mukṣījā* from being thrown down, or from being cast on the ground, or from being spread out on the ground.
+
+***utsināti*** — *uddhṛtya sināti | badhnāti*: "he binds"; on the road he stopped the journey by attracting him with riches such as gold; therefore he bound him: that is the purport. Wealth such as gold is compared to the snare, and Kakṣīvat to birds and the like.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly, numbers as read by the OCR).** *suguḥ* — *śobhanāḥ gāvaḥ yasya saḥ*; *gostriyor upasarjanasya* (Pā. 1-2-48) gives the shortening; *eca ig hrasvādeśe* gives the *u* for the shortened vowel; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member. *asat* — root *as bhuvi*; leṭ third person singular *tip*; *itaś ca lopaḥ* (Pā. 3-4-97) elides the final *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94) gives *aṭ*; *luk* of *śap*; *tiṅ-nighāta*.
+
+### Printed p. 198  (PDF 219)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+*suhiraṇyaḥ* — *śobhanaṃ hiraṇyaṃ yasya saḥ*; as before, *nañsubhyām* gives the final-acute of the latter member. *dadhāti* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; leṭ third person singular; *tiṅ-nighāta*. *āyantam* — prefix *ā*, root *iṇ gatau*; śatṛ in the laṭ sense; *iṇo yaṇ* (Pā. 6-4-81) gives *yaṇ* for the *i*; first-syllable acute of the suffix; accusative singular; the accent of the final member in the compound. *prātaritvaḥ* — explained in the previous mantra; vocative, *āmantritasya ca* gives the *nighāta*. *utsināti* — root *ṣiñ bandhane*; Kryādi; *dhātvādeḥ ṣaḥ saḥ* gives *s* for the initial; laṭ third person singular *tip*; *kryādibhyaḥ śnā*; since *yaḥ* [the relative] is connected, there is no *nighāta*; the accent of the verb-suffix remains. ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आयमद्य सुकृतं प्रातरिच्छन्निष्टेः पुत्रं वसुमता रथेन ।
+> अंशोः सुतं पायय मत्सरस्य क्षयद्वीरं वर्धय सूनृताभिः ॥ ३ ॥
+
+> *āyamadya sukṛtaṃ prātaricchanniṣṭeḥ putraṃ vasumatā rathena |*
+> *aṃśoḥ sutaṃ pāyaya matsarasya kṣayadvīraṃ vardhaya sūnṛtābhiḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> आयम् । अद्य । सुऽकृतम् । प्रातः । इच्छन् । इष्टेः । पुत्रम् । वसुऽमता । रथेन ।
+> अंशोः । सुतम् । पायय । मत्सरस्य । क्षयत्ऽवीरम् । वर्धय । सूनृताभिः ॥ ३ ॥
+
+> *āyam | adya | su 'kṛtam | prātaḥ | icchan | iṣṭeḥ | putram | vasu 'matā | rathena |*
+> *aṃśoḥ | sutam | pāyaya | matsarasya | kṣayat 'vīram | vardhaya | sūnṛtābhiḥ ‖ 3 ‖*
+
+### Printed p. 199  (PDF 220)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रातः पूर्वेद्युः प्रभातकालेऽयं धनं दत्तवान् तस्मिन्नेव काले सुकृतं शोभनस्य कर्तारं त्वामिच्छन् प्राप्तुमिच्छन् कदा द्रक्ष्यामीति कामयमानोऽहं मद्यात्मिन्नि [?] इदानीमायम् । प्राप्तोऽस्मि । अत्र यद्यपि केवलं प्रातरित्येव श्रुतं न पूर्वेद्युरिति तथाप्यद्येत्यायमित्युक्तत्वादर्थात्पूर्वेद्युः प्रातरिति गम्यते । कीदृशं । इष्टेरिष्टस्येष्टसाधनस्य यागस्य वा पुत्रं पुरु त्रातारं । पुत्रः पुरु त्रायते । नि. २-११ । इति यास्कः । कर्तारमित्यर्थः । केन साधनेनेति तदुच्यते । वसुमता रथेन समृद्धधनवता रथेन साधनेन । यद्वा तेन सहेति सहार्थे तृतीया । किंच मदानीतेन समृद्धेन धनेनांशोर्वल्लीरूपस्य मत्सरस्य मादनसाधनस्य सोमस्य । मत्सरः सोमो मन्दतेः स्तृप्तिकर्मण इति निरुक्तम् । ३-१३ [?] । तस्मै सुतमभिषुतं रसं पायय । आत्मानं पायय । इष्टसाधनं सोमयागं कुर्वित्यर्थः । कृत्वा च क्षयद्वीरं क्षियन्तो निवसन्तो वीराः पुत्रभृत्यादयो यस्य तं तादृशं त्वदिष्टसाधनबहुधनप्रदातारं सूनृताभिः प्रियसत्यात्मिकाभिर्वाग्भिर्वर्धय । समृद्धं कुरु । पुत्रभृत्यादिवीर्यथा प्रवृद्धो भवति तथा कामयेत्यर्थः ॥
+
+> *prātaḥ pūrvedyuḥ prabhātakāle 'yaṃ dhanaṃ dattavān tasminneva kāle sukṛtaṃ śobhanasya kartāraṃ tvāmicchan prāptumicchan kadā drakṣyāmīti kāmayamāno 'haṃ madyātminni [?] idānīmāyam | prāpto 'smi | atra yadyapi kevalaṃ prātarityeva śrutaṃ na pūrvedyuriti tathāpyadyetyāyamityuktatvādarthātpūrvedyuḥ prātariti gamyate | kīdṛśaṃ | iṣṭeriṣṭasyeṣṭasādhanasya yāgasya vā putraṃ puru trātāraṃ | putraḥ puru trāyate | ni. 2-11 | iti yāskaḥ | kartāramityarthaḥ | kena sādhaneneti taducyate | vasumatā rathena samṛddhadhanavatā rathena sādhanena | yadvā tena saheti sahārthe tṛtīyā | kiṃca madānītena samṛddhena dhanenāṃśorvallīrūpasya matsarasya mādanasādhanasya somasya | matsaraḥ somo mandateḥ stṛptikarmaṇa iti niruktam | 3-13 [?] | tasmai sutamabhiṣutaṃ rasaṃ pāyaya | ātmānaṃ pāyaya | iṣṭasādhanaṃ somayāgaṃ kurvityarthaḥ | kṛtvā ca kṣayadvīraṃ kṣiyanto nivasanto vīrāḥ putrabhṛtyādayo yasya taṃ tādṛśaṃ tvadiṣṭasādhanabahudhanapradātāraṃ sūnṛtābhiḥ priyasatyātmikābhirvāgbhirvardhaya | samṛddhaṃ kuru | putrabhṛtyādivīryathā pravṛddho bhavati tathā kāmayetyarthaḥ ‖*
+
+*(Read from the image; the small type is doubtful in places — "madyātminni" [?] and the Nirukta numbers "2-11" and "3-13" [?] are given as printed/read by the OCR, as the OCR gives "२-११" for the first.)* "Yesterday morning, at the time of daybreak, he gave this wealth; at that very time I, desiring you, the doer of good (*sukṛtam*), wishing to obtain you, longing 'when shall I see him?', have now come (*āyam*) — I have arrived. Although here only *prātaḥ* ('in the morning') is heard and not 'on the former day', still since *adya āyam* has been said, it is understood by implication to be 'the morning of the former day'. What sort? The son (*putram*) of *iṣṭi* — of the desired, of the sacrifice that is the means of the desired — the protector of many: '*putraḥ puru trāyate*' (Ni. 2-11), says Yāska; that is, the doer. By what means? *Vasumatā rathena* — by a chariot with abundant wealth; or else the instrumental has the sense 'together with that'. And moreover with the abundant wealth brought by me, make the *suta*, the pressed juice, of the *aṃśu*, of the vine-like Soma, *matsara*, the means of intoxication, drunk (*pāyaya*): '*matsaraḥ somo mandateḥ stṛptikarmaṇaḥ*' (the Nirukta, 3-13 [?]); make yourself drink; that is: perform the Soma sacrifice, the means of the desired. Having done so, *kṣayadvīram* — he whose heroes, the sons, servants and so on, dwell in his house — such a giver of abundant wealth, the means of what you desire, make him prosper (*vardhaya*) with *sūnṛtābhiḥ* — pleasant and true words; make him prosperous; wish so that he flourishes with sons, servants and other heroes."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Prātaḥ* — in the morning (of yesterday); *sukṛtam* — [you] who have done good; *vasumatā* — wealthy; *rathena* — by a chariot, as the means; *iṣṭeḥ* — the desired (the sacrifice that is the means of the desired); *putram* — well protected (you); *icchan* — desiring (to see you), I; *adya* — now (today); *āyam* — have come; (*kiṃ ca* — and); *aṃśoḥ* — in the form of the vine; *matsarasya* — of the intoxicating Soma plant; *sutam* — the pressed (juice); *pāyaya* — make yourself drink (perform the Soma sacrifice, the means of the desired); *kṣayadvīram* — he whose sons, servants and the like are alive (the giver); *sūnṛtābhiḥ* — with pleasant and true speech; *vardhaya* — make prosperous (bless him with prosperity).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** (Yesterday) in the morning you did good deeds and protected the sacrifice in a chariot full of wealth; I, desiring to see you, Kakṣīvat, have now come. (Now, with the wealth I have brought, perform the Soma sacrifice;) drinking the intoxicating juice of the Soma plant, bless with true and pleasant words the giver, together with his sons, servants and the like, that he may prosper.
+
+---
+
+**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 199 (PDF 220): Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done; resume p. 200 (PDF 221) with Ṛk 3 printed English. Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
