@@ -2323,6 +2323,8 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 > *gṛhaṃgṛhamahanā yātyacchā divedive adhi nāmā dadhānā |*
 > *siṣāsantī dyotanā śaśvadāgādagramagramidbhajate vasūnām ‖ 4 ‖*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-4-94; 5-4-56; 8-1-19; 7-4-20; 3-1-114
+
 ### Printed p. 87  (PDF 108)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
@@ -2365,6 +2367,8 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 
 ***vasūnām agram agram it bhajate*** — *dhanānāṃ havirlakṣaṇānāṃ tattacchreṣṭhabhāgaṃ svīkarotīty arthaḥ*: "the deity Uṣas accepts the several choice portions of the oblations offered by the sacrificers" — that is the sense. The word *vasu* conveys many meanings. This word is declared among the names of rays (Ni. 2-15, as read by the reader's OCR) and among the names of wealth, *maghaṃ rekṇaḥ* and the rest (Ni. 3-9, as read by the OCR; the OCR gives "3, 3-9").
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-19; 2-21; 5-15; 2-15; 3-9
+
 ### Printed p. 89  (PDF 110)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
@@ -2375,7 +2379,7 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 > *sugurasatsuhiraṇyaḥ svaśvo bṛhadasmai vaya indro dadhāti |*
 > *yastvā yantaṃ [?] vasunā prātaritvo mukṣījayeva padimutsināti [?] ‖*
 
-(Ṛ. Saṃ. 1-125-1 [?], as read; the OCR is garbled.) In this ṛk, *vasunā* means "with food" (*annena*): the word *vasu* means "food".
+(Ṛ. Saṃ. 1-125-2, as read by the reader's OCR from p. 98.) In this ṛk, *vasunā* means "with food" (*annena*): the word *vasu* means "food".
 
 > देवी जोष्ट्री वसुधिती यस्यां [?] । ... ।
 > नार्याणि यजमानाय वसुवने वसुधेयस्य वीतां यज ॥
@@ -2394,6 +2398,8 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 (Yajus Saṃ. 8-18 [?], as read.) Here the word *vasu* gives the sense "wealth" and "food".
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 4; sūtra numbers as read by the reader's OCR for p. 89).** *Gṛhaṃgṛham* — *nityavīpsayoḥ* (Pā. Sū. 8-1-4) when the sense of repetition is intended, doubling of the word occurs; by *tasya parām āmreḍitam* the second member gets the name *āmreḍita*; by *anudāttaṃ ca* (Pā. Sū. 8-1-3) it gets the all-unaccented accent; so too below in *dive dive* and *agram agram*, doubling and accent. *Yāti* — the root *yā prāpaṇe*; *adādi*; *laṭ*, 3rd singular; the *nighāta*. *Accha* — *nipātasya ca* (Pā. Sū. 6-3-136) lengthening in the Saṃhitā. *Dadhānā* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *juhotyādi*; in the sense of *laṭ* the suffix *śānac*; *ślu*-vikaraṇa; taking it as the cause, doubling of the root; the first consonant remains in the reduplicative syllable, *jhaś*…; in the feminine *ṭāp*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute. *Siṣāsantī* — the root *vana ṣaṇa sambhaktau*; *dhātvādeḥ ṣaḥ saḥ* — the initial *s*; in the sense of desire the suffix *san*; *sanyaṅoḥ* — doubling of the root; *halādiḥ śeṣaḥ*; *sanvallaghuni…* (Pā. Sū. 7-4-79) *i* in the reduplicative syllable; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣatva* of the root's *s*;
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 28-155; 8-1-4; 8-1-3; 6-316; 6-1-189
 
 ### Printed p. 90  (PDF 111)
 
@@ -2416,6 +2422,8 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 
 > *bhagasya | svasā | varuṇasya | jāmiḥ | uṣaḥ | sūnṛte | prathamā | jarasva |*
 > *paścā | saḥ | dadhyāḥ | yaḥ | aghasya | dhātā | jayema | tam | dakṣiṇayā | rathena ‖ 5 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 7-4-79; 8-359; 7-2-49; 6-4-42; 4-16; 7-1-81; 2-4-45; 2-4-77
 
 ### Printed p. 91  (PDF 112)
 
@@ -2472,6 +2480,8 @@ The word *bhaga* is recorded (Ni. 1-7, as read by the reader's OCR) and, in the 
 
 ***varuṇasya jāmiḥ*** — *tamo vārakasya savitur devasya bhaginīsthānīyā asi* — "you stand in the place of a sister to the god Savitṛ, who restrains darkness": *janayanty apatyāny asyām apatkam anye iti jāmiḥ* … (the Kannada explains that Uṣas and Savitṛ, the Sun, have one origin; that is why Sāyaṇa says "they are born in one place"; since the root *jam* means 'to go', the word *jāmi* is formed from the root *jan*: in a woman, offspring are born; this woman is called *jāmi* because, since she is born here, the family goes to another house — the second sense.) Both these meanings are stated by Yāska.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-7; 2-11-21
+
 ### Printed p. 93  (PDF 114)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
@@ -2490,11 +2500,15 @@ Yāska explains *jarā stutiḥ jaratiḥ stutikarmaṇaḥ* (Ni. 10-8, as read 
 
 ***dadhyāḥ*** — Yāska classes *dadhyati, dabhnoti* (Ni. 3-9, as read by the OCR on p. 93) among the verbs meaning 'to go'; hence here he explains the word *dadhyāḥ* as *gacchatu*.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-19; 3-9
+
 ### Printed p. 94  (PDF 115)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 123".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 5; sūtra numbers as read by the reader's OCR for p. 94).** *Jāmiḥ* — the root *jani prādurbhāve*; the suffix *iñ* of the uṇādi class by *bahulagrahaṇa*; *vyatyaya* gives *m* for the *n*; *janayanty asyām apatyam anye iti jāmiḥ* — or *jamati gacchati svotpattisthānād anyatra iti jāmiḥ*; thus in the second sense, taking the root *jam adane*, with the suffix *iñ* as before; since roots have many meanings, it is used in the sense of going. *Sūnṛte* — the root *ūna parihāṇe*; *sutarāṃ ūnayati apriyam iti sūnā*; *vāk* of the pleasant and true; *sūnṛtā* — in the vocative *sūnṛte*; *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*. *Jarasva* — the root *jṝṣ vayohānau*; here used in the sense of praise; *loṭ*, 2nd singular; by *vyatyaya* no *yak*-type augment in the passive-like middle; *savābhyāṃ vāmau* (…) the *am*; after an *atiṅanta* the *nighāta*. *Paścā* — *paścāt* (Pā. Sū. 5-3-33) the substitution *paśca* for the word *apara*, and in the sense of the fifth case [*astāti*], the suffix *āti*, by irregular formation; in the Vedic way the final *t* drops; the first-syllable acute of the suffix. *Dadhyāḥ* — *dadhyati dabhnoti* (Ni. 3-9 and OCR "14-61" `[?]`) says the Nirukta, reading it among the verbs of going; hence here it is used in that sense; *liṅ*, 2nd singular; by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the *tip*-like singular ending; after an *atiṅanta* the *nighāta*. *Dhātā* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of the agent the suffix *tṛc*; since it is *cit*, the final acute; nominative singular. *Jayema* — the root *ji jaye*; *āśīrliṅ* [as printed *vidhiliṅ*], 1st plural, the form *jayema*; since *yat* is connected with the word *yaḥ* before it, *yadvṛttānnityam* (Pā. Sū. 8-1-66) prevents the *nighāta*; since the suffix is *lasārvadhātuka*, *tāsyanudāttet* (Pā. Sū. 6-1-186) the root accent remains. *Dakṣiṇayā* — the root *dakṣa vṛddhau*; *druhakṣibhyām inan* (Uṇ. Sū. 2-1[?]-[?], as read) the suffix *inan*; in the feminine, since it ends in *a*, *ṭāp*; since the suffix is *nit*, *ñnityādir nityam* (Pā. Sū. 6-1-197) the first-syllable acute; instrumental singular. ‖ 5 ‖
 
 #### Ṛk 6
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 8-1-19; 3-32; 14-61; 3-1-85; 8-1-66; 6-1-186; 2-2018; 6-1-197
 
 ### Printed p. 95  (PDF 116)
 
@@ -2542,6 +2556,8 @@ Yāska explains *jarā stutiḥ jaratiḥ stutikarmaṇaḥ* (Ni. 10-8, as read 
 
 In the Kauṣītaki Upaniṣad it is said: *yo vai prāṇaḥ sā prajñā, yā vā prajñā sa prāṇaḥ* (Kau. Upa. 3-3, as read by the OCR). By this sentence the identity of *prāṇa* and *prajñā* is declared: *prāṇa* (vital air) itself holds the body in place; yet "that *prajñā* holds the body" appears to be a contradiction; but it is removed by the identity between *prāṇa* and *prajñā*.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-19; 3-9; 3-3
+
 ### Printed p. 97  (PDF 118)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* In the bhāṣya, by saying *yadyapi prāṇavāyunā śarīraṃ dhāryate tathāpi prāṇaprajñayor ekatvāt prajñāyāḥ śarīradhāraṇam aviruddham*, Sāyaṇa has described the manner of removing the contradiction, and given for the word *purandhi* the meaning *prajñā* ("[the powers of] knowledge, the acts joined with knowledge").
@@ -2577,6 +2593,168 @@ Yāska reads the two words *purandhi* and *purandhī*, and has shown the differe
 
 (Ṛ. Saṃ. 4-2[?]-[?], as read; the first line has been read doubtfully and is not transcribed as Sanskrit.) In this ṛk they explain the word *purandhi* as *bahuno dhanasya dātā*, "the giver of much wealth".
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-22
+
+### Printed p. 98  (PDF 119)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः ।
+> विश्वे देवासः शृणवन्वचांसि मे सरस्वती सह धीभिः पुरन्ध्या ॥
+
+> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ |*
+> *viśve devāsaḥ śṛṇavanvacāṃsi me sarasvatī saha dhībhiḥ purandhyā ‖*
+
+(Ṛ. Saṃ. 10-6[?]-[?], as read; the OCR is garbled.) Here, for the word *purandhi*, the meaning "praise" is explained: *purandhyā stutyā*, "with praise".
+
+***vasūni*** — *vāsayogyāni yajñasādhanabhūtahavirādīni*: "dwellings fit for living in — oblations and the like, the means of the sacrifice". Since the word *vasu* is recorded among the names of wealth beginning with *maghaṃ rekṇaḥ* (Ni. 3-9, as read by the OCR; "39"), the meaning is "wealth".
+
+> सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मै वय इन्द्रो दधाति ।
+> यस्त्वायन्तं वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति ॥
+
+> *sugurasatsuhiraṇyaḥ svaśvo bṛhadasmai vaya indro dadhāti |*
+> *yastvāyantaṃ vasunā prātaritvo mukṣījayeva padimutsināti ‖*
+
+(Ṛ. Saṃ. 1-125-2, as read by the OCR; note that the same verse was cited on p. 89 with the number given there as `[?]`: this reading supersedes it.) Here, since the word *vasunā* means *annena*, "with food", it is described that Uṣas, by revealing for the sacrifice the oblations and the like — the means of its completion — that were hidden by darkness (not seen), is to be praised.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 6; sūtra numbers as read by the reader's OCR).** *Udīratām* — the prefix *ut*; the root *īra gatau kampane ca*; *adādi*; *loṭ*, 3rd plural, the suffix *jha*; *adiprabhṛtibhyaḥ śapaḥ* the *luk* of *śap*; since it is followed by a non-*a* [letter], *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5) the *ad* substitute for the suffix; *āmetaḥ* (Pā. Sū. 3-4-90) the *e*-substitute of *ṭi*; the form *īratām*; after an *atiṅanta* the *nighāta*. *Purandhīḥ* — *puraṃ pūrayitavyaṃ sarvaviṣayajātam asyāṃ dhīyate avasthāpyate iti purandhiḥ buddhiḥ*; the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *karmaṇy adhikaraṇe ca* (Pā. Sū. 3-3-93 [as read]) the suffix *ki* in the locative sense; *ato lopa iṭi ca* (Pā. Sū. 6-4-64) the loss of the root's *ā*; *tatpuruṣe kṛti bahulam* — in the word *bahulam*, from the force of the word *bahulam*, the *aluk* of the ending; or because *pṛṣodarādi* … being an *ākṛtigaṇa*, it is established in the desired form; when the plural follows, *supāṃ sulug…* (Pā. Sū. 7-1-39 [as read: "7-3-39"]) the lengthening. *Śuśucānāsaḥ* — the root *śucir pūtībhāve*; in the sense of intensity, *dhātor ekācaḥ…* (Pā. Sū. 3-1-22) the *yaṅ*; *yajoyāmaci…* (Pā. Sū. 2-4-74) the *luk* of the *yaṅ* [*yaṅo 'ci ca*]; *saṃjñāpūrvako vidhir anityaḥ* — by this saying no guṇa of the reduplicative syllable; …
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-125-2; 7-1-5; 3-4-90; 3-3-93; 6-4-64; 7-3-39; 3-1-22; 2-4-74
+
+### Printed p. 99  (PDF 120)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* **Grammar page, continued (Ṛk 6).** …after *yaṅluganta*, in the sense of the present, the suffix *śānac*; because it is read among the *adādi*, the *luk* of *śap*; since *sārvadhātukam apit* the *śānac* is *ṅit*, so no guṇa of the root's *i* arises; the form *śuśucāna*; when *jas* follows, *ājjaser asuk* (Pā. Sū. 7-1-50) the augment *asuk*. *Asthuḥ* — the root *ṣṭhā gatinivṛttau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *luṅ* in the sense of *loṭ*, 3rd plural, *jhi*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. Sū. 2-4-77) the *luk* of *sic*; *ātaḥ* (Pā. Sū. 3-4-110) the substitute *jus* for *jhi*; *usyapadāntāt* (Pā. Sū. 6-1-96) the *pararūpa*; the augment *aṭ* for the stem; after an *atiṅanta* the *nighāta*. *Spārhā* — in the neuter plural when *śi* has come, *śeś chandasi bahulam* (Pā. Sū. 6-1-70) the *śi* is dropped; *spṛhāyāṃ sambandhi spārham* — *tasyedam* (Pā. Sū. 4-3-120) the suffix *aṇ*; *taddhiteṣv acām ādeḥ* the *vṛddhi* of the first vowel. *Apagūḷhā* — the root *guhū saṃvaraṇe*; in the passive the suffix *kta*; *hoḍhaḥ* — the *ḍh* for the root's *h*; *jhaṣas tathor dho 'dhaḥ* — *dh* for the *t* of the suffix; *ṣṭutva*; *dho dhe lopaḥ* — the loss of the former *dh*; *ḍhralope pūrvasya dīrgho 'ṇaḥ* — the lengthening of the preceding *a*; as before, by the suffix accent a final acute, and in the compound *gatir anantaraḥ* (Pā. Sū. 6-2-49) the prefix (*apa*) keeps its own accent; *śeś chandasi bahulam* the loss of *śi*. *Vibhātīḥ* — the root *bhā dīptau*; the suffix *śatṛ* in the sense of the present; in the feminine *ugitaś ca* (Pā. Sū. 4-1-6) *ṅīp*; *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) — since *ṅīp* follows a *śatṛ* without *num*, the ending is acute; the accusative plural, *supāṃ sulug…*, the lengthening. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अपान्यदेत्यभ्यन्यदेति विषुरूपे अहनी सं चरेते ।
+> परिक्षितोस्तमो अन्या गुहाकरद्यौषाः शोशुचता रथेन ॥ ७ ॥
+
+> *apānyadetyabhyanyadeti viṣurūpe ahanī saṃ carete |*
+> *parikṣitostamo anyā guhākaradyauṣāḥ śośucatā rathena ‖ 7 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 7-1-50; 34-3; 2-4-77; 3-4-110; 6-1-96; 6-1-70; 4-3-120; 3-2-49; 4-1-6; 6-1-13; 7-3-39
+
+### Printed p. 100  (PDF 121)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ पदपाठः ॥**
+
+> अप । अन्यत् । एति । अभि । अन्यत् । एति । विषुरूपे इति विषुऽरूपे । अहनी इति । सम् । चरेते इति ।
+> परिऽक्षितोः । तमः । अन्या । गुहा । अकः । अद्यौत् । उषाः । शोशुचता । रथेन ॥ ७ ॥
+
+> *apa | anyat | eti | abhi | anyat | eti | viṣurūpe iti viṣu 'rūpe | ahanī iti | sam | carete iti |*
+> *pari 'kṣitoḥ | tamaḥ | anyā | guhā | akaḥ | adyaut | uṣāḥ | śośucatā | rathena ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इदानीमहोरात्रस्तुतिद्वारोषाः स्तूयते । विषुरूपे वक्ष्यमाणप्रकारेण नानारूपे अहनी अहश्च रात्रिश्चोभे सं चरेते । समित्येकीभावे । सहैवाव्यवधानेन चरतः । अत्राहः साहचर्यात्तत्प्रतियोगित्वाच्च रात्रिरप्यहरित्युच्यते । उत्तरत्र मन्त्रान्तरेऽयमेवार्थः स्पष्ट आम्नातः । अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः (ऋ. ६-९-१) इति । तयोर्मध्येऽन्यद्रात्रिरूपमहरपैति । अपगच्छति । प्रतिलोमं गच्छति वा । अपेत्येतस्य प्रातिलोम्यम् (नि. १-३) इति यास्कः । अन्यच्च दिवसाख्यमहरभ्येति । अभिमुखेन गच्छति । अभीत्याभिमुख्यम् (नि. १-३) इति यास्कः । रात्र्यां प्रतिनिवृत्तायामहराभिमुखमागच्छतीत्यर्थः । विषुरूपे सं चरेते इति यदुक्तं तदेव स्पष्टीक्रियते । परिक्षितोः पर्यायेण निवसतोः परिक्षपयितोर्वा । प्राणिनामायुः क्षयात्प्रक्षपणं प्रसिद्धं तयोर्मध्येऽन्या रात्रिस्तमस्तमोरूपा गुहा पदार्थानां गूहनमकः करोति । अन्या हरेकदेशभूतोषाः शोशुचता भृशं दीप्येन रथेनाद्यौत् । द्योतते । प्रकाशते प्रकाशयति वा सर्वम् । रात्रिस्तमोरूपत्वात्सर्वं जगदावृणोति । उषास्तु सर्वान्प्राकाश्य-यतीत्युषसः स्तुतिः ॥
+
+> *idānīmahorātrastutidvāroṣāḥ stūyate | viṣurūpe vakṣyamāṇaprakāreṇa nānārūpe ahanī ahaśca rātriścobhe saṃ carete | samityekībhāve | sahaivāvyavadhānena carataḥ | atrāhaḥ sāhacaryāttatpratiyogitvācca rātrirapyaharityucyate | uttaratra mantrāntare 'yamevārthaḥ spaṣṭa āmnātaḥ | ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ (ṛ. 6-9-1) iti | tayormadhye 'nyadrātrirūpamaharapaiti | apagacchati | pratilomaṃ gacchati vā | apetyetasya prātilomyam (ni. 1-3) iti yāskaḥ | anyacca divasākhyamaharabhyeti | abhimukhena gacchati | abhītyābhimukhyam (ni. 1-3) iti yāskaḥ | rātryāṃ pratinivṛttāyāmaharābhimukhamāgacchatītyarthaḥ | viṣurūpe saṃ carete iti yaduktaṃ tadeva spaṣṭīkriyate | parikṣitoḥ paryāyeṇa nivasatoḥ parikṣapayitorvā | prāṇināmāyuḥ kṣayātprakṣapaṇaṃ prasiddhaṃ tayormadhye 'nyā rātristamastamorūpā guhā padārthānāṃ gūhanamakaḥ karoti | anyā harekadeśabhūtoṣāḥ śośucatā bhṛśaṃ dīpyena rathenādyaut | dyotate | prakāśate prakāśayati vā sarvam | rātristamorūpatvātsarvaṃ jagadāvṛṇoti | uṣāstu sarvānprākāśya-yatītyuṣasaḥ stutiḥ ‖*
+
+*(Read from 150 dpi; the letters of a few words are marked or approximate, e.g. the compound *prakāśayati* near the end.)* "Now, through the praise of Day and Night, Uṣas is praised. *Viṣurūpe* — two of various forms (in the manner to be told), Day and Night, both *saṃ carete* (*sam* means 'together': they move together, without interval). Here, because of its companionship with day and because it is its counterpart, night too is called *ahar* ('day'). In another mantra later the same sense is clearly handed down: *ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ* (Ṛ. Saṃ. 6-9-1, as printed "೬-೯-೧"). Of the two, one — the night form of the 'day' — *apaiti*: goes away, or goes backward (*pratilomam*): *apety etasya prātilomyam* (Ni. 1-3, as read by the OCR), says Yāska. The other, called day, *abhyeti*: goes facing; *abhīty ābhimukhyam* (Ni. 1-3), says Yāska — when the night has gone back, the day comes facing. What is said — *viṣurūpe saṃ carete* — is now made clear. *Parikṣitoḥ*: of the two that dwell in turn, or that make [life] wane — the waning of the lives of creatures is well known; between them, the other, Night, which has the form of darkness, makes *guhā* — a hiding — of things. The other, the day-portion, Uṣas, brilliantly shining (*śośucatā*) with her chariot, *adyaut*: shines, or illuminates everything. Night, being of the form of darkness, covers the whole world; Uṣas, however, makes everything visible: thus the praise of Uṣas."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Viṣurūpe* — (in the manner told further on) of various forms; *ahanī* — the two, Day and Night; *saṃ carete* — move together; *anyat* — of the two, one (Night); *apa eti* — goes backward (passes); *anyat* — the other (Day); *abhi eti* — goes forward; *parikṣitoḥ* — of the two that dwell in turn (that cause the lives of beings to wane, as they come and go); *anyā* — one (Night); *tamaḥ* — in the form of darkness; *guhā* — (things) concealing; *akaḥ* — does; *anyā* — the other; *uṣāḥ* — Uṣas, the portion of the day; *śośucatā* — brilliantly shining; *rathena* — with her chariot; *adyaut* — illuminates all.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 69-1
+
+### Printed p. 101  (PDF 122)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* **॥ भावार्थः ॥ — Bhāvārtha.** The Day and the Night, of various forms, move together; of the two, one (Night) goes backward, the other (Day) goes forward; Night, which destroys the lives of beings, makes things hidden in the form of darkness; the other, the day-portion Uṣas, shines with her radiant chariot and illuminates the whole world, which was covered by darkness.
+
+**Printed English (as printed):** *The twofold day proceeds unseparated; one (part going) forward, one backward; one of these two alternating (periods) effects the concealment (of things); the Dawn illumines them with her radiant chariot.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.** In this ṛk Uṣas is praised through the praise of Day and Night. The Day and Night, the two, move one after the other in many forms.
+
+***viṣurūpe*** — *vakṣyamāṇaprakāreṇa nānārūpe | ahaś ca rātriś cobhe sahaiva avyavadhānena carataḥ* — Sāyaṇa explains: "Day and Night both move together without interval". *Atrāhnaḥ sāhacaryāt tatpratiyogitvāc ca rātrir apy ahar ity ucyate* — "here, from association with day and from being its counterpart, night too is called *ahar*":
+
+> अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
+> वैश्वानरो जायमानो न राजावातिरज्ज्योतिषाग्निस्तमांसि ॥
+
+> *ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ |*
+> *vaiśvānaro jāyamāno na rājāvātirajjyotiṣāgnistamāṃsi ‖*
+
+(Ṛ. Saṃ. 6-9-1, as printed.) Citing this ṛk, he describes that from association with day and from being contrary to it, night too is called "day". In the compound word [the Kannada explains], although the word "day" itself has two forms in common usage — as a day consisting of "day and night" — in the name *ahas* the "night" aspect — it is [another of] the many forms; in the day-forms, the night is covered with darkness and conceals all things from the sight of everyone; while it [the day] moves the opposite way … This same idea is explained by Yāska in *tayor madhye 'nyā rātrirūpam aharapaiti prātilomaṃ gacchati vā* [as printed].
+
+### Printed p. 102  (PDF 123)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* ***apa + eti*** — in this the prefix *apa* is used in the sense of "contrary" (*prātilomya*). Yāska explains: *vyapetyaitasya prātilomyam* (Ni. 1-3, as read by the OCR).
+
+In the same way *anyac ca divasākhyam ahar abhi eti abhimukhena gacchati* — "the other, the 'day' called *divasa*, goes forth facing; the day is [so] named; since Uṣas, in contrast to night, exists in the form of a luminous source, she comes facing [the night] — that is, goes to meet it, after the night has passed."
+
+***abhi + eti*** — the prefix *abhi* is used in the sense of "facing": *abhītyābhimukhyam* (Ni. 1-3, as read by the OCR) is Yāska's description. The sense: after the night has gone, Uṣas comes facing [the world].
+
+***parikṣitoḥ*** — *paryāyeṇa nivasatoḥ parikṣapayitor vā* — "of the two that dwell by turns, or that make [life] wane": the day and the night come one after another; and they reduce (*kṣapayanti*) the lives of beings by their going and coming — that is the sense.
+
+***uṣāḥ śośucatā rathena adyaut*** — *dyotate prakāśate prakāśayati vā sarvam*: "Night covers the whole world with darkness; Uṣas, with her radiance, illuminates the whole world, and shines herself with her own light": thus Uṣas is praised here.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 7; sūtra numbers as read by the reader's OCR).** *Eti* — the root *iṇ gatau*; *adādi*; *laṭ*, 3rd singular, the suffix *tip*; *adiprabhṛtibhyaḥ śapaḥ* the *luk* of *śap*; *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) the guṇa of the root's *i*; the first *eti*, being united with a single agent, because of the capacity *ekānyābhyāṃ samarthābhyām* [as printed] (Pā. Sū. 8-1-65) does not take the *nighāta*; since *tip* is *pit* it is unaccented, so the root accent remains; the second *eti*, since the prohibition does not apply, takes the *nighāta* accent. *Viṣurūpe* — *viṣu rūpāṇi yayoḥ te viṣurūpe*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *Carete* — the root *cara gatibhakṣaṇayoḥ*; *laṭ*, 3rd dual; after an *atiṅanta* the *nighāta*. *Parikṣitoḥ* — the root *kṣi nivāsagatyoḥ*; *kvip* by *sampadādibhyaḥ kvip* [as printed `[?]`, the sūtra number 3-3-1?? is not clear to me]; *hrasvasya piti kṛti tuk* the augment *tuk*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139)
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-3; 1-3; 7-3-84; 8-1-65; 6-2-1; 6-1-71; 3-2-76; 2-1
+
+### Printed p. 103  (PDF 124)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* …the accent of the last member by the original accent; genitive dual. *Guhā* — the root *guhū saṃvaraṇe*; the suffix *aṅ*; in the feminine *ṭāp*; *supāṃ sulug…* (Pā. Sū. 7-1-39) the *ā*-substitute of the ending *am*. *Akaḥ* — the root *ḍukṛñ karaṇe*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *luṅ* in the sense of the present; 3rd singular, the substitute *i*-less; *itaś ca* — the loss of its *i*; *mantre ghasahvara…* (Pā. Sū. 2-4-80) the *luk* of *cli*; taking *tip* as the cause, guṇa by *sārvadhātukārdhadhātukayoḥ*; *uraṇ raparaḥ* — followed by *r*; after a consonant the *tip* does not come, *halṅyābbhyo dīrghāt…* the loss of the suffix; *kharavasānayor visarjanīyaḥ* — *visarga*; the augment *aṭ*; after an *atiṅanta* the *nighāta*. *Adyaut* — the root *dyut dīptau*; as before in the Vedic way *luṅ*; *dyudbhyo luṅi* (Pā. Sū. 1-3-91) *parasmaipada*; *vyatyayo bahulam* the *luk* of *cli*; the guṇa [of the first vowel] being obtained, by Vedic usage *vṛddhi*; or the root *dya abhigamane*, *ādādika*, *luṅ*, 3rd singular, *ato vṛddhir luki hali* (Pā. Sū. 7-2-3 [as read]) *vṛddhi* of the *u*; *tiṅ atiṅaḥ* (Pā. Sū. 8-1-28) — the *nighāta* is prevented since it is *atiṅ*: so the *nighāta* does not arise; since the *aṭ* augment is *udātta*, the acute is on the first syllable. *Śośucatā* — the root *śucir pūtībhāve*; in the sense of intensity, *yaṅ* by *yajoyāñ…* (Pā. Sū. 3-1-22), *luk* of *yaṅ*; *yaṅ* becoming the cause, the doubling; *guṇo yaṅluk-oḥ* (Pā. Sū. 7-4-82) guṇa for the reduplicative syllable; after *yaṅluk*, *śatṛ* in the sense of the present; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute; instrumental singular. ‖ 7 ‖
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> सदृशीरद्य सदृशीरिदु श्वो दीर्घं सचन्ते वरुणस्य धाम ।
+> अनवद्यास्त्रिंशतं योजनान्येकैका क्रतुं परि यन्ति सद्यः ॥ ८ ॥
+
+> *sadṛśīradya sadṛśīridu śvo dīrghaṃ sacante varuṇasya dhāma |*
+> *anavadyāstriṃśataṃ yojanānyekaikā kratuṃ pari yanti sadyaḥ ‖ 8 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-20139; 7-1-39; 3-4-6; 2-4-80; 6-1-68; 1-3-91; 7-3-89; 8-1-25; 7-4-82; 6-1-189
+
+### Printed p. 104  (PDF 125)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ पदपाठः ॥**
+
+> सदृशीः । अद्य । सदृशीः । इत् । ऊं इति । श्वः । दीर्घम् । सचन्ते । वरुणस्य । धाम ।
+> अनवद्याः । त्रिंशतम् । योजनानि । एकाऽएका । क्रतुम् । परि । यन्ति । सद्यः ॥ ८ ॥
+
+> *sadṛśīḥ | adya | sadṛśīḥ | it | ūṃ iti | śvaḥ | dīrgham | sacante | varuṇasya | dhāma |*
+> *anavadyāḥ | triṃśatam | yojanāni | ekā 'ekā | kratum | pari | yanti | sadyaḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अद्यास्मिन्नहनि सदृशीरित् परस्परं सदृश्य एव । तथा श्व इत् परस्मिन्नहनि सदृशीः परस्परं सदृश्य एव । उशब्दोऽपिकारार्थः । इच्छब्द एवार्थः । अद्यतन्योऽपि श्वस्तनीभिः सदृश्यः श्वस्तन्यश्चाद्यतनीभिः । एवमहरन्तरेण सादृश्यम् । कथं सादृश्यमिति तदुपपाद्यते । यदा नक्षत्राणि न दृश्यन्ते सूर्यश्च नोदेति उषःकालः । स चैकविंशतिघटिकाभिः षड्विंशतिपराभिः [?] सम्मितः । सूर्यो हि प्रतिदिनमेकोनषष्ट्यधिकपञ्चसहस्रयोजनानि [?] मेरुं प्रादक्षिण्येन परिभ्रमति । तथा सति यत्र यत्र लङ्कादिभूप्रदेशे सूर्यो गच्छति तस्य तस्य पुरस्त्रिंशद्योजनमुषा अपि गच्छति । सूर्यो यस्मिन्देशे गच्छति तत्र त्रिंशद्योजनं पुरस्ताद्देशस्थितानामुषो दृश्यते । एवं सर्वप्रदेशेष्वपि । तथोषा अपि यत्र गच्छति ततः पुरस्त्रिंशद्योजनभूभागवर्तिनामुदिता दृश्यते । एवं लङ्कादिसर्वप्रदेशस्थानामुषस उदयो गन्तव्यः । एवं च सत्येकस्मिन्भूभागे यावत्कालं यथोषाः प्रकाशयति तथा भूभागान्तरेऽपि तावन्तं कालं प्रकाशयति । एवमुक्तरीत्यैकस्मिन्नेवाहनि सर्वप्रदेशवर्तिनामुषसः सदृश्यः । प्रदेशबाहुल्यमपेक्ष्योषसां बहुत्वाद्बहुवचनम् । एवमेकरूपा उषसोऽनवद्याः शुद्धाः । तासामुदयात्सर्वे भावा अनवद्या भविष्यन्ति किमु वक्तव्यं तासामनवद्यत्वम् । दीर्घमुक्तरीत्यात्यन्तमायतं वरुणस्य तमोनिवारकस्य सूर्यस्य धाम स्थानं मेरुवलयं सचन्ते । प्रतिदिनं सेवन्ते । कियद्दूरमिति तदुच्यते । त्रिंशतं योजनानि त्रिंशद्योजनानि पुरतः । सूर्यो यत्र यत्रोदेति ततस्त्रिंशद्योजनं पुरस्तादुद्यन्तीत्यर्थः । किञ्चासां मध्य एकैकोषा लङ्कादिकैकभूभागवर्तिनां क्रतुं गमनागमनादिरूपं कर्म तद्विषयां प्रज्ञां वा । तथा च निरुक्तम् । क्रतुं प्रधिकर्म वा प्रज्ञां वा (नि. २-२८ [?]) इति । सद्यस्तदानीमेव हि स्वोदयकाल एव परि यन्ति । परितो गच्छन्ति । निर्वहन्तीत्यर्थः । तत्तद्भूभागविशेषेण सूर्यस्योदयो ज्योतिश्शास्त्रे प्रदर्शितः । उदयो यो
+
+> *adyāsminnahani sadṛśīrit parasparaṃ sadṛśya eva | tathā śva it parasminnahani sadṛśīḥ parasparaṃ sadṛśya eva | uśabdo 'pikārārthaḥ | icchabda evārthaḥ | adyatanyo 'pi śvastanībhiḥ sadṛśyaḥ śvastanyaścādyatanībhiḥ | evamaharantareṇa sādṛśyam | kathaṃ sādṛśyamiti tadupapādyate | yadā nakṣatrāṇi na dṛśyante sūryaśca nodeti uṣaḥkālaḥ | sa caikaviṃśatighaṭikābhiḥ ṣaḍviṃśatiparābhiḥ [?] sammitaḥ | sūryo hi pratidinamekonaṣaṣṭyadhikapañcasahasrayojanāni [?] meruṃ prādakṣiṇyena paribhramati | tathā sati yatra yatra laṅkādibhūpradeśe sūryo gacchati tasya tasya purastriṃśadyojanamuṣā api gacchati | sūryo yasmindeśe gacchati tatra triṃśadyojanaṃ purastāddeśasthitānāmuṣo dṛśyate | evaṃ sarvapradeśeṣvapi | tathoṣā api yatra gacchati tataḥ purastriṃśadyojanabhūbhāgavartināmuditā dṛśyate | evaṃ laṅkādisarvapradeśasthānāmuṣasa udayo gantavyaḥ | evaṃ ca satyekasminbhūbhāge yāvatkālaṃ yathoṣāḥ prakāśayati tathā bhūbhāgāntare 'pi tāvantaṃ kālaṃ prakāśayati | evamuktarītyaikasminnevāhani sarvapradeśavartināmuṣasaḥ sadṛśyaḥ | pradeśabāhulyamapekṣyoṣasāṃ bahutvādbahuvacanam | evamekarūpā uṣaso 'navadyāḥ śuddhāḥ | tāsāmudayātsarve bhāvā anavadyā bhaviṣyanti kimu vaktavyaṃ tāsāmanavadyatvam | dīrghamuktarītyātyantamāyataṃ varuṇasya tamonivārakasya sūryasya dhāma sthānaṃ meruvalayaṃ sacante | pratidinaṃ sevante | kiyaddūramiti taducyate | triṃśataṃ yojanāni triṃśadyojanāni purataḥ | sūryo yatra yatrodeti tatastriṃśadyojanaṃ purastādudyantītyarthaḥ | kiñcāsāṃ madhya ekaikoṣā laṅkādikaikabhūbhāgavartināṃ kratuṃ gamanāgamanādirūpaṃ karma tadviṣayāṃ prajñāṃ vā | tathā ca niruktam | kratuṃ pradhikarma vā prajñāṃ vā (ni. 2-28 [?]) iti | sadyastadānīmeva hi svodayakāla eva pari yanti | parito gacchanti | nirvahantītyarthaḥ | tattadbhūbhāgaviśeṣeṇa sūryasyodayo jyotiśśāstre pradarśitaḥ | udayo yo*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-28
+
+### Printed p. 105  (PDF 126)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* *(The bhāṣya continues, the last words of the sentence begun on p. 104:)*
+
+> लङ्कायां सोऽस्तमयः सवितुरेव सिद्धपुरे । मध्याह्नो यवकोट्यां रोमकविषयेऽर्धरात्रः स्यात् । (आर्य. ४-१३) इति ॥
+
+> *laṅkāyāṃ so 'stamayaḥ savitureva siddhapure | madhyāhno yavakoṭyāṃ romakaviṣaye 'rdharātraḥ syāt | (ārya. 4-13) iti ‖*
+
+*(As read; the sūtra of the astronomical verse is in small type: "Ārya. 4-13", Āryabhaṭīya, as printed "ಆರ್ಯ. ೪-೧೩", which the reader's OCR reads the same. In the last words I read* सिद्धपुरे *and* यवकोट्यां *as printed; the first word of the sentence, "in Laṅkā", ends the sentence from p. 104.)*
+
+"Today, on this day, the Uṣases (dawns) are all alike with one another; likewise tomorrow they are all alike with one another. The word *u* has the sense of *api* ('also'); *it* has the sense of *eva*. Today's are like tomorrow's, and tomorrow's like today's. In this way there is likeness from day to day. How is the likeness established? When the stars are not seen and the Sun has not yet risen, that is the dawn-time; it is measured by twenty-one *ghaṭikās* or twenty-six [?] beyond them. The Sun goes round Meru each day in a clockwise way [for 5,059 [?] yojanas]; and so in whatever place on the earth, Laṅkā and so on, the Sun goes, the dawn goes thirty yojanas in front of him. In whatever region the Sun goes, to those who are stationed thirty yojanas in front, the dawn is seen. So in all regions. And likewise wherever the dawn goes, she is seen to have risen to those in the part of the earth thirty yojanas ahead. In this way the rising of Uṣas is to be understood for those in all regions, Laṅkā and the rest. And so, as long as Uṣas lights one part of the earth, so long she lights another part. In this way, in one and the same day, the dawns are alike for those in all regions; the plural is used out of regard to the many regions. Thus the dawns are of one form, *anavadyāḥ* — pure: from their rising all things will be blameless — what then need be said of their own blamelessness? *Dīrgham*: in the manner told, very extended: they follow (*sacante*) the region (*dhāma*) of Varuṇa — of the Sun, the remover of darkness — the ring of Meru; day by day they serve it. How far? Thirty yojanas ahead (*puratas*): wherever the Sun rises, thirty yojanas ahead of that they rise — that is the sense. And among them each Uṣas, for each region of the earth, such as Laṅkā, *kratum* — 'action in the form of going and coming', or the intelligence concerning it; thus the Nirukta (*kratuṃ pradhikarma vā prajñāṃ vā*, Ni. 2-28, as read by the OCR) — *sadyas* — just then, at their own rising, *pari yanti*: go round, accomplish. The Sun's rising in each part of the earth is shown in the science of the heavens: 'the rising at Laṅkā is the setting at Siddhapura, at Yavakoṭi it is midday, in the country of Romaka it is midnight' (Āryabhaṭīya 4-13)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Uṣasaḥ* — the dawns; *adya* — now; *sadṛśīḥ it* — (one to another) alike; *śvaḥ* — tomorrow also; *sadṛśīḥ u* — alike (thus of one form); *anavadyāḥ* — pure ones (they); *dīrgham* — very long (extended); *varuṇasya* — of the remover of darkness (the Sun); *dhāma* — the region (path); *triṃśatam yojanāni* — thirty yojanas distance (rising ahead of the Sun); *sacante* — they follow (they go round); *ekaikā* — each (dawn); *kratum* — the action (of going and coming, as applicable to each part of the earth); *sadyaḥ* — at once (at the time of her rising); *pari yanti* — they accomplish.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The dawns of today and of tomorrow are alike; they are pure; they go round the very extended region (the path) of the Sun, the remover of darkness, rising thirty yojanas ahead of the Sun; and every dawn at its time of rising performs its action, applying it to the region concerned.
+
+**Printed English (as printed):** *The same to-day, the same tomorrow, the irreproachable (Dawns) precede the distant course of Varuna (Sun) by thirty yojanas, and each in succession revolves in its (appointed) office.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 8.**
+
+***sadṛśīr adya sadṛśīr idu śvaḥ*** — *asminn ahani parasparaṃ sadṛśyaḥ | parasminn ahani api parasparaṃ sadṛśya eva | adyatanyo 'pi śvastanībhiḥ sadṛśyaḥ śvastanyaś cādyatanībhiḥ | evam ahar-antareṇa sādṛśyam* — here the likeness of days to one another is described: "today's day is alike to tomorrow's day; tomorrow's day is alike to today's; yesterday's day is alike to today's; tomorrow's is alike to today's" — a mutual likeness is set out. "On the ground of the equal quality — the same kind of character — produced by the Sun's special motion, it may be said that the likeness holds for the other days too" — that is the sense. This kind of likeness Sāyaṇa has explained.
+
 ---
 
-**Progress note:** Vol 10 — Sūkta 123 through printed p. 97 (PDF 118): Ṛks 1–5 complete; Ṛk 6 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done and its Special Topics in progress (*purandhi* discussion, p. 97; continues on p. 98, PDF 119 after the ṛk "adāya smā … purandhir ajahād arātīḥ" — Ṛ. Saṃ. 4-2?-?). Printed page = PDF − 21. The reader's OCR covers printed pp. 39–239; I take Nirukta/Ṛk/sūtra numbers from it where legible. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+---
+
+**Progress note:** Vol 10 — Sūkta 123 through printed p. 105 (PDF 126): Ṛks 1–7 complete; Ṛk 8 Saṃhitā, Pada, bhāṣya (astronomical passage), Pratipadārtha, Bhāvārtha, English done; its Special Topics are in progress on p. 105 (*sadṛśīr adya* paragraph; continues on p. 106, PDF 127 with "ವರುಣಸ್ಯ ದೀರ್ಘಂ ಧಾಮ…"). Printed page = PDF − 21. The reader's OCR covers printed pp. 39–239. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
