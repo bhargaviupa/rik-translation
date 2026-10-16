@@ -16969,4 +16969,66 @@ In the same way, in the Ṛk before us, the *stotra* is of the nature of song, p
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 5 complete. Ṛk 6 written through its Bhāvārtha (p. 701); resume p. 702 (PDF 723; images in w10h/ for PDF 661–728) with the printed English. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 702  (PDF 723)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+**Printed English (heading "English Translation"; as printed):** *"I proclaim veneration to the mighty Sun, to heaven and earth, to Mitra, to the benevolent Varuna, to the conferrer of happiness, the showerer of benefits. Praise Indra, Agni, the brilliant Aryaman, and Bhaga, so that, enjoying long life, we may be blessed with progeny; we may be happy through the protecting virtues of the Soma."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***mitrāya vocaṃ varuṇāya mīḍhuṣe sumṛḷīkāya mīḍhuṣe*** — repetitions of this kind are common in the compositions of the ṛṣi Paruccheṣa. On this, some may raise an objection to the style of Paruccheṣa's [composition]. The author of the Nirukta gives such an example and, showing the objection of the opponent in it, states the proper answer. Taking the Ṛk —
+
+> क्षेत्रस्य पते मधुमन्तमूर्मिं धेनुरिव पयो अस्मासु धुक्ष्व ।
+> मधुश्चुतं घृतमिव सुपूतमृतस्य नः पतयो मृळयन्तु ॥
+
+> *kṣetrasya pate madhumantam ūrmiṃ dhenur iva payo asmāsu dhukṣva |*
+> *madhuścutaṃ ghṛtam iva supūtam ṛtasya naḥ patayo mṛḷayantu ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?], as read "೪-೫೭-೩" [?].) he shows the objection of the opponent in this way, that "in *madhumantam* [and] *madhuścutam* there is the fault of repetition" (Ni. 10-[?], as read "೧೦-೧೪" [?]):
+
+> तदद्य क्षमान्याम्पि [?] समानाभिव्याहारं भवति तज्जामि भवतीत्येकं मधुमन्तं मधुश्चुतमिति ।
+
+> *tad adya kṣamānyāmpi [?] samānābhivyāhāraṃ bhavati taj jāmi bhavatīty ekaṃ madhumantaṃ madhuścutam iti |*
+
+*(Read from the image; the first words are doubtful [?]; the Kannada gives:)* "Those who object say: the words *madhuścutam* and *madhumantam* used in one Ṛk are a fault of repetition". The reply is:
+
+> यदेव समाने पादे समानाभिव्याहारं भवति तज्जामि भवतीत्येकम् । परं हिरण्यरूपः स हिरण्यसंदृक् इति यथा ॥
+
+> *yad eva samāne pāde samānābhivyāhāraṃ bhavati taj jāmi bhavatīty ekam | paraṃ "hiraṇyarūpaḥ sa hiraṇyasaṃdṛk" iti yathā ‖*
+
+But if different words are used in different *pāda*s of one Ṛk there is no fault; the fault of repetition is possible only if they are used in the same *pāda*. For example:
+
+> हिरण्यरूपः स हिरण्यसंदृगपां नपात्सेदु हिरण्यवर्णः ।
+> हिरण्ययात्परि योनेर्निषद्या हिरण्यदा ददत्यन्नमस्मै ॥
+
+> *hiraṇyarūpaḥ sa hiraṇyasaṃdṛg apāṃ napāt sedu hiraṇyavarṇaḥ |*
+> *hiraṇyayāt pari yoner niṣadyā hiraṇyadā dadaty annam asmai ‖*
+
+(Ṛ. Saṃ. 2-35-10 [as read].) In this Ṛk, since [the words] are in one *pāda*, [there is repetition]; so some hold that this is a fault.
+
+### Printed p. 703  (PDF 724)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+*(The Nirukta's answer, continued:)* *yathā katham ca viśeṣo jāmi bhṛtyai [?] parām* — "even if [the repeated words are] in one *pāda*, there is no fault, since [they differ] in subtle sense": this is another opinion. For example:
+
+> योगक्षेममु त आदायाहं भूयासमुत्तम आ वो मूर्धानमक्रमीम् ।
+> अधस्पदान्म उद्वदत मण्डूका इवोदकान्मण्डूका उदकादिव ॥
+
+> *yogakṣemam u ta ādāyāhaṃ bhūyāsam uttama ā vo mūrdhānam akramīm |*
+> *adhas padān ma ud vadata maṇḍūkā ivodakān maṇḍūkā udakād iva ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೧೬೬-೫" [?]; the quotation is badly worn and doubtful in several letters [?].) In this, the meaning is that, because repetition shows exceeding beauty and because there is a subtle difference even in the meaning, there is no fault. The same solution can be applied to the style of Paruccheṣa. The author of the Nirukta, in quoting the very sentences of Paruccheṣa, shows that in such a repetition there is a special merit also.
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयाहो दर्शनीया ।
+
+> *abhyāse bhūyāṃsam artham manyante yathāho darśanīyāho darśanīyā |*
+
+(Ni. 10-[?], as read "೧೦-೪೩" [?].) The repetition, in the sense of habit, gives a special power to the meaning. They praise this style as "the speciality of the style of Paruccheṣa" (*tat paruccheṣasya śīlam*).
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *dive* — *ūḍidaṃ padādi* (Pā. 6-1-171 [as read]) gives the udātta to the case-ending. *bṛhate* — dative singular; *bṛhan mahator upasaṃkhyānam* (Vārttika) gives the case-ending the udātta. *vocam* — root *vaca paribhāṣaṇe*; by Vedic usage *luṅ* in the present sense; first person singular; *ām*-substitution for the singular [*aṅ* for *cli* by *asti-vakti-khyātibhyo 'ṅ* (Pā. 3-1-52 [as read])]; as it is *para*, *vaca um* (Pā. 7-4-20 [as read]) gives the augment *u* to the root; *guṇa* with the following *a*; by Vedic usage the *āgama* does not occur; *nighāta* after a *tiṅanta*. *mīḍhuṣe* — root *miha secane*; *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12 [as read]) — the suffix *kvasu* is formed by *nipātana*; the dative; as it is *para* the term *bha* applies; *vasoḥ samprasāraṇam* (Pā. 6-4-131 [as read]) gives *saṃprasāraṇa*; *pūrvarūpa*. *sumṛḷīkāya* — *suṣṭhu mṛḷīkaṃ sukhaṃ yasyāsau sumṛḷīkaḥ*; *nañsubhyām* (Pā. 6-2-172 [as read]) gives the final udātta of the latter member; dative singular.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 6 written through p. 703 (printed English, Special Topics, grammar through *sumṛḷīkāya*; the rest of the grammar on p. 704); resume p. 704 (PDF 725; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
