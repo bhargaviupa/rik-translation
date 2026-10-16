@@ -4977,6 +4977,8 @@ Number of ṛks in this Sūkta — 7. Ṛṣi — Kakṣīvān Dairghatamasa Au�
 
 *(The first Pada word is as printed, "prātar iti" [?]; the Saṃhitā has "āyū" for the Pada's "āyuḥ".)*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-5; 4-5; 4-5
+
 ### Printed p. 189  (PDF 210)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -4988,6 +4990,8 @@ Number of ṛks in this Sūkta — 7. Ṛṣi — Kakṣīvān Dairghatamasa Au�
 > *atretihāsamācakṣate | dairghatamasaḥ kakṣīvānnāmarṣirbrahmacaryaṃ cariṣyanvedābhyāsāya gurukule cirakālamuṣitvā vedānsamyagadhītya vratāni ca caritvā tenānujñātaḥ punaḥ svagṛhaṃ prati prayāsyanmadhye mārge rātrau viśrāntaḥ | prabhāte bhāvayavyasya putraḥ svanayo nāma rājānucaraiḥ saṃkrīḍamāno 'kasmātkakṣīvato 'ntikamāsāsāda | sa ca rabhasā pratibuddhaḥ sahasottasthau | taṃ ca rājā pāṇiṃ gṛhītvā svakīya āsana upaveśyāsya saundaryamavagatya kanyāpradānamanāḥ papraccha bhagavankasya putraḥ kiṃnāmā tvamiti | sa ca pṛṣṭo mātaraṃ pitaraṃ ca svavṛttāntaṃ cācacakṣe | sa ca rājā saṃbhāvya ityavagatya muditamanāḥ svagṛhaṃ prāpyāsmai madhuparkamācarya vastramālyādibhiḥ pūjayitvā rathena [?] daśa kanyāḥ śataṃ niṣkānaśvaśataṃ puṃgavānāṃ śataṃ … [?] punarekādaśa rathānprādāt | sa ca sarvamanukrameṇa pratigṛhya dīrghatamaso 'ntikamāgatya tasmai prādarśayat ‖ …*
 
 *(Read from the image. The first part of the bhāṣya, down to the list of gifts, is given as I read it; the list of gifts and the remaining ten lines of this long itihāsa passage are in very small type and not clear to me, so I do not transcribe them letter by letter here; their sense is given by the Kannada Anuvāda on pp. 191–192 and by the Bṛhaddevatā verses quoted on p. 193, which are clear. This is flagged as an open item.)* "Here they tell an itihāsa. The seer named Kakṣīvān, the son of Dīrghatamas, having lived long in the guru's house for the study of the Veda, having thoroughly learned the Vedas and performed the vows, and with his leave about to set out again for his own home, rested on the way at night. In the morning Svanaya, the son of Bhāvayavya, a king, sporting with his attendants, suddenly came near Kakṣīvat. He, waking quickly, rose at once. The king took him by the hand, seated him on his own seat, and seeing his beauty, with a mind to give him a maiden, asked: 'Sir, whose son are you, and what is your name?' Questioned, he told of his mother and father and his own story. The king, understanding that he was a worthy person, glad at heart, taking him to his house, honoured him with the *madhuparka*, with clothes, garlands and the like, and gave him ten maidens, … a hundred *niṣkas*, a hundred horses, a hundred bulls, … and eleven chariots. And he, receiving all this in order, came to Dīrghatamas and showed it to him."
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-116
 
 ### Printed p. 190  (PDF 211)
 
@@ -5019,6 +5023,8 @@ Number of ṛks in this Sūkta — 7. Ṛṣi — Kakṣīvān Dairghatamasa Au�
 
 (Bṛ. De. 3-140 as read.) The Sūkta 1-125 beginning with *prātā ratnam* and the Sūkta 1-126 that follows it are both seen by Kakṣīvat, the son of Dīrghatamas; *svanaya* …
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-140; 1-12; 1-16
+
 ### Printed p. 191  (PDF 212)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -5035,6 +5041,8 @@ Here a difficulty arises. *Kakṣyā* means "the rope that ties a horse": *kak�
 
 (Manu 10-76, as read by the OCR.) that is, of the six duties of a Brahmin — study, teaching, sacrificing, officiating at sacrifices, giving, and receiving gifts — a Kṣatriya or Vaiśya has authority only in three: sacrificing, studying, and giving. In the other three — officiating as priest for others, teaching the Veda to others, and receiving what is given — he has no authority.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-2; 10-76
+
 ### Printed p. 192  (PDF 213)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5044,6 +5052,8 @@ Therefore how is Kakṣīvat, being a Kṣatriya, qualified to accept the gift g
 The king named Kaliṅga had no children; he was old and unable to beget a son. Then the ṛṣi named Dīrghatamas, the son of Ucathya, came into the presence of the king, and the king, having no children, begged him to beget a son on the queen. In former times there was a custom by which, for various reasons, the childless obtained children for the increase of the line from a suitable Brahmin; this matter is clearly described in the Purāṇas and in the Mahābhārata. The ṛṣi accepted the king's request, and the king told his chief queen to go to the ṛṣi. The queen, being old and ugly, was ashamed to cohabit with the ṛṣi, and in her place she sent to the ṛṣi her own maid, a woman named Uśik, beautifully adorned with her own clothes and ornaments. The ṛṣi, understanding that the woman who had come to him, Uśik, was not the queen but her maid, sprinkled her with mantra-purified water, made her a ṛṣi's wife, purified her, and consorted with her. The son born to the ṛṣi by that woman Uśik is the ṛṣi Kakṣīvān. Although this son was born of a Kṣatriya woman, he is counted a Brahmin through the connection with the Brahmin. Thus although Kakṣīvat has connection with Kṣatriyas, because he was born of a Brahmin there is no obstacle to his being qualified to accept gifts. The story of the birth of this Kakṣīvat will be explained in the commentary on the Ṛk Saṃhitā 1-116th Sūkta [as read; the numerals are small — "೧-೧೧೬ನೆಯ"], earlier.
 
 In this Sūkta and in the next Sūkta the praise of Svanaya's gift is stated. But since the Anukramaṇī says that Kakṣīvat, delighted with the gift, praised Bhāvayavya (Svanaya's father), it is natural for the doubt to arise whether two different persons are praised. That in the first ṛk of the next Sūkta it is clearly said *adhi kṣiyato bhāvyasya* strengthens this doubt still more. But calling the son by the father's name is often customary: in the Veda itself, when speaking of the Maruts, who are Rudra's sons, the name of the father is used, *rudrāsaḥ*; and in that very Sūkta, in the third ṛk, *svanayena dattāḥ* is also said. Therefore, although the names of father and son are used here, these two Sūktas are to be understood as the praise of the gift of one and the same person.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-116; 3-142
 
 ### Printed p. 193  (PDF 214)
 
@@ -5101,6 +5111,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 
 ---
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-294
+
 ### Printed p. 194  (PDF 215)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5108,6 +5120,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 **Vyākaraṇa-prakriyā (Ṛk 1, continued; noted briefly, numbers as read by the OCR).** *prātaritvā* — root *iṇ gatau*, with *prātaḥ* as upapada; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75) gives the suffix *kvanip* [as printed]; since it has the marker *k*, no guṇa; since it has the marker *p*, *hrasvasya piti kṛti tuk* (Pā. 6-1-71) gives *tuk* to the root; the form is *itvan*; in the compound the accent of the final member's own nature; nominative singular. *dadhāti* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Juhotyādi; laṭ third person singular; *nighāta* after a non-verb word. *cikitvān* — root *kita jñāne*; *kvasuś ca* gives *kvasu* for *liṭ*; with it as cause, doubling of the root; first-syllable acute of the suffix; nominative singular. *pratigṛhya* — root *graha upādāne*; when *ktvā* comes, *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37) gives *lyap*; since it has the marker *p* the root-accent remains; in the compound the accent of the final member. *prajām* — root *janī prādurbhāve*; *upasarge ca saṃjñāyām* (Pā. 3-2-99) gives the suffix *ḍa*; by the marker, elision of the *ṭi*; the accent of the final member. *vardhayamānaḥ* — root *vṛdhu vṛddhau*; *hetumati ca* gives *ṇic*; guṇa of the short penultimate; after the *ṇijanta*, *śānac*, *śap*; guṇa and *ayādeśa*; *āne muk* (Pā. 7-2-82) gives *muk* to a stem in *a*; by *tāsyanudāttet* the *sārvadhātuka* is unaccented, and the *ṇic*-accent remains. *sacate* — root *saca samavāye*; laṭ third person singular; *nighāta* accent. *suvīraḥ* — *vīre vīryau ca* (Pā. 6-2-120) gives the first-syllable acute of the latter member, overriding the accent of *su*. ‖ 1 ‖
 
 #### Ṛk 2
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-2-75; 6-1-71; 7-1-37; 3-2-99; 7-2-82; 6-2-120
 
 ### Printed p. 195  (PDF 216)
 
@@ -5163,6 +5177,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 
 (Ni. 5-19, as printed "೫-೧೯".) *(Read from the print, with the OCR; "yantam annena" and "kumāraḥ" as printed.)* "As a boy with a snare-like means arrests the going of a bird, so the king who has stopped you, who came at daybreak as a guest, by wealth such as gold and the like, as a means, and made you his own — to such a king may Indra give still more, possessions of cattle, gold and the like": that is the idea.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 5-19
+
 ### Printed p. 197  (PDF 218)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -5178,6 +5194,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 ***utsināti*** — *uddhṛtya sināti | badhnāti*: "he binds"; on the road he stopped the journey by attracting him with riches such as gold; therefore he bound him: that is the purport. Wealth such as gold is compared to the snare, and Kakṣīvat to birds and the like.
 
 **Vyākaraṇa-prakriyā (Ṛk 2; noted briefly, numbers as read by the OCR).** *suguḥ* — *śobhanāḥ gāvaḥ yasya saḥ*; *gostriyor upasarjanasya* (Pā. 1-2-48) gives the shortening; *eca ig hrasvādeśe* gives the *u* for the shortened vowel; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member. *asat* — root *as bhuvi*; leṭ third person singular *tip*; *itaś ca lopaḥ* (Pā. 3-4-97) elides the final *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94) gives *aṭ*; *luk* of *śap*; *tiṅ-nighāta*.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 5-19; 1-2-48; 6-2-122; 3-4-97; 3-4-94
 
 ### Printed p. 198  (PDF 219)
 
@@ -5203,6 +5221,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 > *āyam | adya | su 'kṛtam | prātaḥ | icchan | iṣṭeḥ | putram | vasu 'matā | rathena |*
 > *aṃśoḥ | sutam | pāyaya | matsarasya | kṣayat 'vīram | vardhaya | sūnṛtābhiḥ ‖ 3 ‖*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-4-81
+
 ### Printed p. 199  (PDF 220)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -5220,6 +5240,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 **॥ भावार्थः ॥ — Bhāvārtha.** (Yesterday) in the morning you did good deeds and protected the sacrifice in a chariot full of wealth; I, desiring to see you, Kakṣīvat, have now come. (Now, with the wealth I have brought, perform the Soma sacrifice;) drinking the intoxicating juice of the Soma plant, bless with true and pleasant words the giver, together with his sons, servants and the like, that he may prosper.
 
 ---
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-11
 
 ### Printed p. 200  (PDF 221)
 
@@ -5248,6 +5270,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 > *yebhiḥ śivaḥ svavā~ evayāvabhirdivaḥ siṣakti svayaśā nikāmabhiḥ ‖*
 
 (Ṛ. Saṃ. 1-114-1, as read from the print.)
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 9-11; 1-106
 
 ### Printed p. 201  (PDF 222)
 
@@ -5287,6 +5311,8 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 
 (Ṛ. Saṃ. 9-?-2 [?], as read.) — since in such ṛks it is an epithet of the word *soma*, *latākhaṇḍarūpaḥ alpaḥ somaḥ*, the Soma in the form of a piece of the vine and small, is stated; the small quantity of the Soma is stated.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-114-16; 1-114-3; 2-5
+
 ### Printed p. 202  (PDF 223)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5313,6 +5339,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 **Vyākaraṇa-prakriyā (Ṛk 3, pp. 202–203; noted briefly, numbers as read by the OCR).** *āyam* — root *iṇ gatau*; laṅ first person singular, *mip*; *tasthasthamipāṃ tāmtamtāmaḥ* (Pā. 3-4-101) gives *am* in place of the *mip*; *āḍ ajādīnām* (Pā. 6-4-72) gives the augment *āṭ* to the stem; *āṭaś ca* (Pā. 6-1-90) gives vṛddhi; *eco 'yavāyāvaḥ* gives *āy*; since it stands at the head of a pāda, no *nighāta*; since the augment is acute, the first syllable is acute.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-11; 3-4-101; 6-4-72; 6-1-90
+
 ### Printed p. 203  (PDF 224)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -5328,6 +5356,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 > *upa kṣaranti sindhavo mayobhuva ījānaṃ ca yakṣyamāṇaṃ ca dhenavaḥ |*
 > *pṛṇantaṃ ca papuriṃ ca śravasyavo ghṛtasya dhārā upa yanti viśvataḥ ‖ 4 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-1-71; 6-3-77; 3-3-96; 7-3-37; 6-2-2
 
 ### Printed p. 204  (PDF 225)
 
@@ -5350,6 +5380,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 *(Read from the image; the small type of the middle sentences is doubtful in places, and the Nirukta number "9-26" is as the OCR reads it ["೯-೨೬"]. The words "pitṝn prīṇayantam" are my reading of a small phrase.)* "In the previous ṛk it was said 'perform the Soma sacrifice with the wealth brought'. Now he praises that very Soma sacrifice by showing its fruit. *Sindhavaḥ* — flowing, with streaming udders; '*sindhuḥ syandanāt*' says Yāska (Ni. 9-26 [?]). *Mayobhuvaḥ* — causers of happiness; *maya* is a name for 'happiness', since *mayaḥ śarma sukham* are read among its names. *Dhenavaḥ* — the cows that give delight; *ījānam* — to him who performs the Soma sacrifice; and *yakṣyamāṇam* — to him who makes the resolve 'I will sacrifice'; not only the performer but also him who has decided 'I will sacrifice' — coming near, they *kṣaranti* — flow, satisfy. It should not be said that, since the previous ṛk says 'drink Soma', and the Jyotiṣṭoma is the prescribed Agniṣṭoma-type of all Soma sacrifices, and the text 'one desiring heaven should sacrifice with the Jyotiṣṭoma' gives only heaven as the fruit, cows and the like are not meant; for the Soma sacrifice can be performed also with a desire for cows and the like, as for heaven. And not only for those who perform the Soma sacrifice is the fruit great; for those who perform other rites that are means of good deeds also there is a great fruit: this he shows. *Pṛṇantam* — him who satisfies the ancestors [?], *papurim* — the one who is given to satisfying, the giver of what is desired, the person who constantly gratifies living beings: to him, *śravasyavaḥ* — desiring food, the causes of the abundance of food, *ghṛtasya dhārāḥ* — streams of ghee; or else *ghṛtakulyāḥ*, rivers of ghee; from every side *upa yanti* — come near, reach, satisfy."
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Sindhavaḥ* — [cows] yielding milk in streams; *mayobhuvaḥ* — (and) the means of happiness; *dhenavaḥ* — the cows; *ījānam ca* — him who performs the (Soma) sacrifice; *yakṣyamāṇam ca* — and him who has taken the vow, 'I will perform the (Soma) sacrifice'; *upa* — nearby; *kṣaranti* — yield (milk); *pṛṇantam ca* — him who satisfies (the ancestors); *papurim ca* — and who delights (living beings); *śravasyavaḥ* — causes of abundance of food; *ghṛtasya dhārāḥ* — streams of ghee; *viśvataḥ* — from all sides; *upa yanti* — come near (satisfy).
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 9-26
 
 ### Printed p. 205  (PDF 226)
 
@@ -5383,6 +5415,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 ---
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-24; 9-26; 3-13
+
 ### Printed p. 206  (PDF 227)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5409,6 +5443,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 **Vyākaraṇa-prakriyā (Ṛk 4; noted briefly, numbers as read by the OCR).** *kṣaranti* — root *kṣara prasravaṇe*; laṭ third person plural; *nighāta* accent. *sindhavaḥ* — root *syandū prasravaṇe*; *syandeḥ saṃprasāraṇaṃ dhaś ca* (Uṇ. 1-11 as read) gives the suffix *u* with *saṃprasāraṇa* and *dha*; nominative plural. *mayobhuvaḥ* — *mayas* is a word for happiness; when it is the upapada, *kvip* after the root *bhū* with included causative sense; the accent of the final member's own nature. *ījānam* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; in the Veda *kānac* in the *liṭ* sense; since it is *kit*, *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15) gives *saṃprasāraṇa* to the root;
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 5-24; 1-46-4; 3-19; 6-1-15
+
 ### Printed p. 207  (PDF 228)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -5416,6 +5452,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 *saṃprasāraṇāc ca* gives *pūrvarūpa*; doubling of the root; *citaḥ* (Pā. 6-1-163) gives the final-acute; accusative singular. *yakṣyamāṇam* — the same root; when *laṭ* has come, *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* [print: "ಲಟಃ ಸದ್ವಾ"] (Pā. 3-3-14) gives *śānac*; *syatāsī lṛluṭoḥ* (Pā. 3-1-33) gives the *sya*-augment; *vraśca-…* gives *ṣa* for the *j*; *ṣaḍhoḥ kaḥ si* gives *ka* for it; with it as cause, *ṣatva* of the *s* of the suffix; *āne muk* gives *muk* to the stem in *a*; the accent of the *sya* remains. *pṛṇantam* — root *pṝ pālanapūraṇayoḥ*; Kryādi; śatṛ in the laṭ sense; *kryādibhyaḥ śnā*; *svādīnāṃ hrasvaḥ* shortens the root (Pā. 7-3-80); *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the *ā* of the verb-suffix; by the statement *ṛvarṇān ṇatvaṃ vācyam*, *ṇatva*; the first-syllable acute of the suffix remains; accusative singular. *papurim* — root *pṝ pālanapūraṇayoḥ*; Juhotyādi; *ādṛgamahanajanaḥ kikinau liṭ ca* (Pā. 3-2-171) gives the suffix *kin*; since *liṭ* is treated [as in force], the root is doubled; *urat* gives *a* for the reduplicative syllable; since a *r* follows, the initial consonant remains; *udoṣṭhyapūrvasya* (Pā. 7-1-102) gives *u* to the member of the stem; *uraṇ raparaḥ* gives *raparatva*; *ñnityādir nityam* gives the first-syllable acute. *śravasyavaḥ* — *śravaḥ ātmana icchanti iti śravasyavaḥ*; *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *kyāc chandasi* (Pā. 3-2-170) gives the suffix *u* after the *kyac*-ending; *ato lopaḥ* elides the *a* of *kyac*; final-acute by the suffix accent; nominative plural. *yanti* — root *iṇ gatau*; laṭ third person plural; *tiṅ-nighāta*. *viśvataḥ* — *pañcamyās tasil* (Pā. 5-3-7) gives *tasil* to the word *viśva* in the ablative sense; *litaḥ* (Pā. 6-1-193) gives the acute before the suffix. ‖ 4 ‖
 
 #### Ṛk 5
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-1-162; 3-3-14; 3-1-33; 7-3-80; 6-4-112; 3-2-171; 7-1-102; 3-1-8; 3-2-170; 5-3-7; 6-1-193
 
 ### Printed p. 208  (PDF 229)
 
@@ -5445,6 +5483,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 *(Read from the image; the OCR is garbled in places. The Nirukta citation "2-14" and the Veda quotation "na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākam" are small and I give them as read.)* "By way of praise of the Soma sacrifice, in these three [ṛks] beginning with this, he praises giving in general. Or else, since only the Soma sacrifice has been praised, and since the word *dakṣiṇā* ('fee') is well known only in connection with it, and the sūkta is to be completed, it is the Soma sacrifice itself that is being described. *Yaḥ* — the mortal who *pṛṇāti* — satisfies the gods and others by gifts of oblations and the like, *nākasya* — *kam* is a name of happiness; the opposite is *akam*; *nāka* is the heaven in which there is no *kam* — no sorrow, or no sin that is its means: thus it is heard: 'to the one who has gone to yonder world there is nothing that is not *nāka*' (Ni. 2-14 [?]) — on its back (*pṛṣṭhe*), the high upper region, resting (*śritaḥ*), *adhi tiṣṭhati* — dwells till the end of the age; or *adhi tiṣṭhati* — presides, standing as the foremost. Not only does he gain heaven, but *ha* — it is well known — he goes (*gacchati*) among the gods, that is, himself becomes a god. For that satisfier of the gods, the *sindhavaḥ* — flowing waters — *ghṛtam* — with radiant essence — *arṣanti* — flow, they become full of juice. And, moreover, this earth too, being *dakṣiṇā* ('fee', 'fertile'), by yielding grain and the like, *sadā* — always — *pinvate* — drenches, satisfies: that is, for the giver, the food and waters that support life become lovely and abundant."
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-14
+
 ### Printed p. 209  (PDF 230)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
@@ -5464,6 +5504,8 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 > *na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākam |*
 
 (Kāṭhaka Saṃhitā 21-2 [?], as read.) he explains: *na vā amuṃ lokaṃ gatavate kiṃ ca nāsukham; puṇyakṛto hy eva tatra gacchanti* — "to those who have gone to that world there is nothing that is not happiness; only doers of good deeds go there".
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-13; 2-14; 21-2
 
 ### Printed p. 210  (PDF 231)
 
@@ -5527,6 +5569,8 @@ In the present ṛk Sāyaṇa explains *na vidyate akaṃ duḥkhaṃ tatsādhan
 
 ---
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-3-75; 6-3-2; 3-2-102; 8-1-66; 3-1-34; 2-208; 6-1-192; 7-1-58; 3-1-85
+
 ### Printed p. 212  (PDF 233)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5585,6 +5629,8 @@ Third: *diśam abhipretya digdhastaprakṛtiḥ dakṣiṇo ha dakṣater utsāh
 
 Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning "to give": since the right hand is used when giving, the gift has the name *dakṣiṇā*. Thus he has explained in four ways; in the present ṛk all the meanings are suggested as included.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-7
+
 ### Printed p. 214  (PDF 235)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5610,6 +5656,8 @@ Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning
 (Bṛ. U. 4-4-22, as read.) — "Brahmins seek to know by sacrifice, by giving"; thus in other ways too there is praise of the fee.
 
 **Vyākaraṇa-prakriyā (Ṛk 6; noted briefly, numbers as read by the OCR).** *dakṣiṇāvatām* — *dakṣiṇā yeṣām asti iti dakṣiṇāvantaḥ*; *tad asyāsty asminn iti matup* (Pā. 5-2-94) gives *matup*; *mādupadhāyāś ca…* (Pā. 8-2-9) gives *va* for the *m*; since the suffix has the marker *p* it is unaccented; genitive plural. *citrā* — root *ciñ cayane*; *ami-ci-mi-di…* (Uṇ. 4-163 as read) gives the suffix *tra*; since it is *kit* there is no guṇa; in the neuter *śi* arises; *śeś chandasi bahulam* (Pā. 6-1-70) elides the *śi*. *divi* — *ūḍidaṃpadādi…* (Pā. 6-1-171) gives the acute to the locative ending. *sūryāsaḥ* — root *sṛ gatau*; *rājasūyasūrya…* (Pā. 3-1-114) records it as ending in *kyap*; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives the augment *asuk*.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 8-2-9; 6-1-70; 6-1-171; 3-1-114; 7-1-50
 
 ### Printed p. 215  (PDF 236)
 
@@ -5641,6 +5689,8 @@ Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning
 
 > *anvayavyatirekābhyāṃ dānaṃ praśaṃsitumāha | pṛṇanto devādīnhavirādinā prīṇayantaḥ santo duritaṃ duṣṭaṃ yathā bhavati tathā prāptaṃ duḥkhamenastatsādhanaṃ pāpaṃ ca māran | mā prāpnuvan | na kevalaṃ dātāra eva api tu sūrayo devānāṃ stotāro vidvāṃso mā jāriṣuḥ | jarayā na jīrṇā bhaveyuḥ | tathā suvratāsaḥ*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-2-116; 1-2
+
 ### Printed p. 216  (PDF 237)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5660,6 +5710,8 @@ Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning
 **Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.**
 
 ***sūrayaḥ*** — since this word is recorded among the names of praisers, *rebha*, *jaritā*, *kāru* and the like (Ni. 3-19, as printed; the OCR reads "३-१९"), *sūrayaḥ* means "praisers, devotees who make praise". The word *sūri* has been used in many places in senses such as "wise", "discriminating", "intelligent".
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-19
 
 ### Printed p. 217  (PDF 238)
 
@@ -5713,6 +5765,8 @@ When it is used of ṛṣis who have the supernatural power of vision, visual an
 
 (Ṛ. Saṃ. 1-141-? [?], as read.) — in some such places it gives more rarely the sense "path" [*mārga*].
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-122-8
+
 ### Printed p. 218  (PDF 239)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
@@ -5724,6 +5778,8 @@ In the present ṛk the sense is: "praisers (*stotṛ*) who are endowed with exc
 **Vyākaraṇa-prakriyā (Ṛk 7; noted briefly, numbers as read by the OCR).** *pṛṇantaḥ* — root *pṝ pālanapūraṇayoḥ*; *śatṛ* for *laṭ*; *śnā*; *svādīnāṃ hrasvaḥ* shortens the root; the first-syllable acute of the suffix; nominative plural. *duritam* — prefix *dur*, root *iṇ gatau*; in the passive, *niṣṭhā* (Pā. 3-2-102) gives *kta*; *gatir anantaraḥ* (Pā. 6-2-49) gives the natural accent of the *gati* (*dur*). *enaḥ* — root *iṇ gatau*; *iṇa āgasi* (Uṇ. 4-?) gives the suffix *asun*, with the augment *nuṭ*; taking that as cause, guṇa of the root vowel; *ñnityādir nityam* gives the first-syllable acute. *āran* — root *ṛ gatau*; luṅ third person plural *jhi*; *itaś ca* elides the *i*; *anta* substitution; the final of the conjunct is lost; *sarti-śāsty-ṛti-bhyaś ca* (Pā. 3-1-56) gives *aṅ* for *cli*; *ṛdṛśo 'ṅi guṇaḥ* (Pā. 7-4-16) gives guṇa of the root for *aṅ*; *raparatva*; since *mā* is connected, *na māṅyoge* (Pā. 6-4-74) gives no augment *aṭ*; *nighāta*. *jāriṣuḥ* — root *jṝṣ vayohānau*; luṅ third person plural *jhi*; *siC* for *cli*; the augment *iṭ*; *sijabhyastavidibhyaś ca* (Pā. 3-4-109) gives *jus* for *jhi*; *sici vṛddhiḥ parasmaipadeṣu* (Pā. 7-2-1) gives vṛddhi and *raparatva* to the root; *ṣatva* of the *siC*; as before, no augment *aṭ* since *mā* is connected; *nighāta*. *suvratāsaḥ* — *śobhanāni vratāni yeṣāṃ te suvratāsaḥ*; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member; with *jas* following, *ājjasar asuk* (Pā. 7-1-50) gives *asuk* to it, …
 
 ---
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-2-102; 6-2-49; 4-637; 3-1-56; 7-4-16; 6-4-74; 7-2-1; 3-4-199; 6-2-172; 7-1-50
 
 ### Printed p. 219  (PDF 240)
 
@@ -5746,6 +5802,8 @@ Here ends the 125th Sūkta. *(Kannada closing line: "ನೂರ ಇಪ್ಪತ�
 > *amandāniti ṣaṣṭhaṃ sūktaṃ saptetyanuvartamānātsaptarcam | āditaḥ pañcānāṃ kakṣīvānṛṣiḥ ṣaṣṭhyā bhāvayavyaḥ saptamyā romaśā nāma brahmavādinī | āditaḥ pañcānāṃ bhāvayavyasya stutirūpatvātsa eva devatā yātenocyate [?] | anu. 2-5 [?] | iti nyāyāt | antyayoḥ ṣaṣṭhīsaptamyoḥ svabhāvyayo romaśayoḥ saṃvādaḥ | ṣaṣṭhyā bhāvayavyaḥ saptamyā romaśā | yadyapi svanayena dattā iti śrūyamāṇatvāttasya stutyā bhāvyaṃ tathāpi pitṛputrayorabhedāt ā rudrāsa itivat pitraiva nāmnā vyavahartum [?] | prathamādyānuṣṭubvaityatra [?] bhāvyasyetyuktatvācca bhāvayavyaṃ tuṣṭāvetyādiviruddham [?] uktaṃ [?] pūrvasūkte eva | āditaḥ pañca triṣṭubhaḥ | antye anuṣṭubhau | tathā cānukrāntam | amandāniti kakṣīvāndānatuṣṭaḥ pañcabhirbhāvayavyaṃ tuṣṭāvāntye anuṣṭubhau bhāvayavyaromaśayordampatyoḥ saṃvāda iti ‖ ukto viniyogaḥ ‖*
 
 *(Read from the image; the middle sentences are in small type and several words — marked [?] — are doubtful; the OCR's Devanagari is badly garbled there. The Anukramaṇī sentence at the end is clear to me.)* "*Amandān* — the sixth sūkta, of seven ṛks (by the continuing 'seven'). Of the first five the ṛṣi is Kakṣīvān; of the sixth, Bhāvayavya; of the seventh, Romaśā, a *brahmavādinī*. Since the first five are in praise of Bhāvayavya, he is the deity, by the rule *yā tenocyate sā devatā* (Anu. 2-5 [?]). In the last two, the sixth and the seventh, there is a dialogue between the husband Bhāvayavya and Romaśā; the sixth is Bhāvayavya's, the seventh Romaśā's. … The first five are Triṣṭubh; the last two Anuṣṭubh. So the Anukramaṇī says: '*Amandān* — Kakṣīvān, pleased with the gift, praised Bhāvayavya in five; the last two, Anuṣṭubh, a dialogue between the married pair Bhāvayavya and Romaśā.' The *viniyoga* has been stated [before]."
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-3-92; 6-4-64; 6-2-139; 6-2-2; 3-5; 2-5
 
 ### Printed p. 220  (PDF 241)
 
@@ -5770,6 +5828,8 @@ Number of ṛks in this Sūkta — 7. Ṛṣi — 1–5 Kakṣīvān Dairghatama
 
 > *amandāntstomānpra bhare manīṣā sindhāvadhi kṣiyato bhāvyasya |*
 > *yo me sahasramamimīta savānatūrto rājā śrava icchamānaḥ ‖ 1 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-5; 1-5; 6-7
 
 ### Printed p. 221  (PDF 242)
 
@@ -5861,6 +5921,8 @@ Thus describing the glory of the *trivṛt* and other stomas —
 
 ---
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-1-3-8
+
 ### Printed p. 225  (PDF 246)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
@@ -5891,6 +5953,8 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 **Vyākaraṇa-prakriyā (Ṛk 1; noted briefly, numbers as read by the OCR).** *amandān* — *na mandāḥ amandāḥ tān amandān*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the natural accent of the first member. *bhare* — root *ḍubhṛñ bharaṇe*; Bhvādi; laṭ first person singular; since it follows a non-verb word, the *nighāta* accent.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 10-32
+
 ### Printed p. 226  (PDF 247)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
@@ -5906,6 +5970,8 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 > *śataṃ rājño nādhamānasya niṣkānśatamaśvānprayatāntsadya ādam |*
 > *śataṃ kakṣīvā~ asurasya gonāṃ divi śravo 'jaramā tatāna ‖ 2 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 7-1-39; 6-1-173; 4-75; 6-1-10; 7-4-76; 6-4-113; 3-3-6-4; 6-4-21; 8-2-77; 6-3-67; 6-2-82; 6-1-186
 
 ### Printed p. 227  (PDF 248)
 
@@ -5947,6 +6013,8 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 **Vyākaraṇa-prakriyā (Ṛk 2; noted briefly, numbers as read by the OCR).** *nādhamānasya* — root *nāthṛ yācñā…*; Bhvādi; *śānac* in the laṭ sense, *śap*; *āne muk* (Pā. 7-2-82) gives *muk*; since the *sārvadhātuka* follows the *upadeśa*, it is unaccented and the root-accent remains; genitive singular. *niṣkān* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; *nau sader ḍiḥ* [print: "ನೌ ಸದೇರ್ಡಿಃ"] (Uṇ. 3-?) gives *ka* when *ni* is the upapada; by the marker *ḍ* the *ṭi* of the root is elided; final-acute by the suffix accent. *prayatān* — root *yam uparame*; *kta*; *anudāttopadeśavanatitanotyādīnām…* (Pā. 6-4-37) elides the nasal *m* of the root; *gatir anantaraḥ* (Pā. 6-2-49) gives the natural accent of the *gati* (*pra*); accusative plural. *ādam* — root *ḍudāñ dāne*; Juhotyādi; with *ā* as the upapada, *ādo 'nāsyavihasane* [print: "ಆಜೋ ದೋನಾಸ್ಯವಿಹರಣೇ" Pā. 1-3-20] would give *ātmanepada*, which does not occur here in the Veda; leṭ first person singular *mip*; *bahulaṃ chandasi* gives *luk* of the *śap*-substitute; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97) elides the *i* of the ending; *leṭo 'ṭāṭau* (Pā. 3-4-94) gives *aṭ* to it,
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 34-3; 1-108-6; 1-123-1; 1-151-4; 7-82; 3-32; 6-4-37; 6-2-49; 1-3; 3-4-92; 3-4-94
+
 ### Printed p. 229  (PDF 250)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
@@ -5977,6 +6045,8 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 > *svanayena dattāḥ śyāvādarvāyuktatvāt śyāvāḥ śyāvarṇāśvayuktā vadhūmantaḥ ārūḍhābhirvadhūbhistadvanto daśa daśasaṃkhyākāḥ rathāso rathā mā māmupāsthuḥ | upasthitāḥ | gavyaśabdo gosamūhavācī | ṣaṣṭiḥ sahasramanu ṣaṣṭyadhikasahasraṃ gavāṃ samūho 'nvāgāt | anugataḥ | tataḥ kakṣīvānātmānaṃ parokṣeṇa bravīti | tatsarvaṃ pratigṛhyāyaṃ*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-42; 7-1-57; 6-1-171; 6-2-116
+
 ### Printed p. 230  (PDF 251)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
@@ -6002,6 +6072,8 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 (Ni. 3-30 [?], as printed.) *abhipitva* and *prapitva* — both words give the meaning "near, arrived". Since the author of the Nirukta has given for the word *prapitve* the meaning *abhīke* ("near"), and the word *abhipitve* has the same meaning, here *abhipitve* means "near". *Ahnām abhipitve* means "in the middle of many days" — the sense: "when the day arrives on which Kakṣīvat presented to his father the generous gifts given by Svanaya"; but, by the words *ahnām abhipitve*, the explanation "the end of the day, that is, in the evening he gave to his father" must not be taken; so some [scholars] explain…
 
 ---
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-20
 
 ### Printed p. 231  (PDF 252)
 
@@ -6033,6 +6105,8 @@ As Sāyaṇa says (1-126-3), some hold that identity of the two words *abhipitva
 
 > **The first explanation of* abhipitva *occurs at Nir. III. 15; it is* abhiprāpti * 'arrival ', and so the word is explained by Sayana at R. V. I. 189-7;**
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-15; 1-1263
+
 ### Printed p. 232  (PDF 253)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
@@ -6058,6 +6132,8 @@ In the same way there are also the words *apapitva* and *sapitva*; with the word
 
 **Vyākaraṇa-prakriyā (Ṛk 3; noted briefly, numbers as read by the OCR).** *dattāḥ* — root *ḍudāñ dāne*; *kta* in the passive; *do dad ghoḥ* (Pā. 7-4-46) gives *dad* for the root; *khari ca* gives the *car*; the form *dattāḥ*; nominative plural. *vadhūmantaḥ* — *vadhvaḥ yeṣāṃ santi iti vadhūmantaḥ*; *tad asyāsty asminn iti matup*; since *pit*, unaccented. *rathāsaḥ* — the word *ratha*; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives *asuk*.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 434-5; 7-4-46; 7-1-50
+
 ### Printed p. 233  (PDF 254)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
@@ -6082,6 +6158,8 @@ In the same way there are also the words *apapitva* and *sapitva*; with the word
 > *catvāriṃśat | daśa 'rathasya | śoṇāḥ | sahasrasya | agre | śreṇim | nayanti |*
 > *mada 'cyutaḥ | kṛśana 'vataḥ | atyān | kakṣī 'vantaḥ | ut | amṛkṣanta | pajrāḥ ‖ 4 ‖*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 24-77; 3-4-110; 6-1-96; 4-2-50; 2-4-45; 6-4-75
+
 ### Printed p. 234  (PDF 255)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
@@ -6097,6 +6175,8 @@ In the same way there are also the words *apapitva* and *sapitva*; with the word
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Daśarathasya* — of him who is endowed with ten chariots; *sahasrasya* — of him who has a thousand followers (or: of him who has a thousand cows) (that is, of Kakṣīvat); *agre* — in front; *śoṇāḥ* — red; *catvāriṃśat* — forty (horses); *śreṇim* — in a row; *nayanti* — draw (the chariots); (*atha* — then); *kakṣīvantaḥ* — Kakṣīvat's followers; *pajrāḥ* — endowed with food; (*kakṣīvantaḥ* — those with girth-ropes); *madacyutaḥ* — [horses] dripping rut-fluid; *kṛśanāvataḥ* — endowed with golden ornaments; *atyān* — constantly moving (horses); *ut amṛkṣanta* — rub down well (limb by limb).
 
 **॥ भावार्थः ॥ — Bhāvārtha.** In front of Kakṣīvat, who has a thousand followers (and cows) and ten chariots, forty red horses draw the chariots in a row; then, provided with food such as grass, his followers rub down well the horses that are adorned with golden ornaments, constantly moving and dripping rut-fluid, tying them with ropes.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-2
 
 ### Printed p. 235  (PDF 256)
 
@@ -6132,6 +6212,8 @@ In this ṛk the number of horses and the number of chariots are stated, as it i
 
 ***atyān*** — *satatagamanaśīlān aśvān* — "horses whose nature is constant going", ones that go without interruption.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-10; 3-13
+
 ### Printed p. 236  (PDF 257)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
@@ -6151,6 +6233,8 @@ In this ṛk the number of horses and the number of chariots are stated, as it i
 *(Read from the image; the first line is clear in the print, but I give the second pāda as read: "vastrīn" and "aridhāyasaḥ" are the words I am least sure of; the Pada text on the next page will fix the division.)*
 
 ---
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-2-1; 3-2-76; 4-4-110; 8-2-12
 
 ### Printed p. 237  (PDF 258)
 
@@ -6194,6 +6278,8 @@ In this ṛk the number of horses and the number of chariots are stated, as it i
 
 (Ṛ. Saṃ. 1-150-1, as printed "೧-೧೫೦-೧"; *"tvā dāśvān"* as read.) as he says that the word *ari* means "lord", so in the present sūkta also the same meaning arises. That is: "a rich man fit to possess priceless cows".
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 5-7
+
 ### Printed p. 239  (PDF 260)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
@@ -6230,11 +6316,15 @@ In this ṛk the number of horses and the number of chariots are stated, as it i
 
 (Ṛ. Saṃ. 1-122-7 [?], as read from the print; "suṣupsā" is as read and doubtful.) — here too Kakṣīvat says of himself that he belongs to the Pajra lineage and that he is able in the management of sacrifices with abundant gifts of food. In the same way, in the present ṛk Sāyaṇa has explained *pajrā* as *annavantaḥ aṅgirasaḥ*.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-120-5
+
 ### Printed p. 240  (PDF 261)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
 
 **Vyākaraṇa-prakriyā (Ṛk 5; noted briefly, numbers as read by the OCR and the page).** *prayatim* — root *yam uparame*; *ktin*; *anudāttopadeśa…* (Pā. 6-4-37) elides the nasal *m* of the root; in the *prādi*-compound, *tādau ca niti kṛty atiḥ* (Pā. 6-2-50) as an exception to the accent of the final member gives the natural accent of the *gati* (*pra*); accusative singular. *dade* — root *ḍudāñ dāne*; liṭ first person singular; since it follows a non-verb word, the *nighāta*. *yuktān* — root *yujir yoge*; *niṣṭhā* gives *kta*; *coḥ kuḥ* gives *ku* for the *j*; final-acute by the suffix; accusative plural. *aridhāyasaḥ* — *aribhiḥ dharaṇīyāḥ aridhāyasaḥ tān*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *vahihāhādhāñbhyaś chandasi* (Uṇ. 4-?) gives *asun*; the preceding sūtra's *ṇit* is carried on, so *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33) gives the augment *yuk*; the form *dhāyas*. *subandhavaḥ* — *śobhanāḥ bandhavaḥ yeṣāṃ te subandhavaḥ*; *nañsubhyām* would give the final-acute, but as an exception *bahuvrīhau ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119) gives the first-syllable acute of the latter member; nominative plural. *viśyāḥ* — *viśi bhavāḥ viśyāḥ*; *yat* in the sense of "belonging to"; *tit svaritam* (Pā. 6-1-185) gives the *svarita*. *vrāḥ* — *vriyante iti vrāḥ*; the form *vrātāḥ*; the loss of *t* is Vedic; or else *ghaṅarthe kavidhānam* gives the suffix *ka*. *anasvantaḥ* — *anaḥ* means a cart; *anāṃsi yeṣāṃ santi iti anasvantaḥ*; since *ap* [as printed] follows, *mādupadhāyāś ca…* gives *va* for the *m* of *matup*; since *pit*, unaccented. *aiṣanta* — root *iṣu icchāyām*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives laṅ in the present sense; by *vyatyaya*, *ātmanepada*; likewise *iṣugamiyamāṃ chaḥ* does not give the *cha*, in the Veda; in the third person plural
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-2-50; 4-670; 7-3-33; 6-2-119; 6-1-175; 3-4-6
 
 ### Printed p. 241  (PDF 262)
 
@@ -6269,6 +6359,8 @@ In this ṛk the number of horses and the number of chariots are stated, as it i
 > *saṃbhogāya prārthito bhāvayavyaḥ svabhāryāṃ romaśāmaprauḍheti buddhvā parihasannāha | bhojyā bhogayogyāgdhitā [?] ā samantādgṛhītā svīkṛtā | tathā parigadhitā parito gṛhītā | ādarātiśayāya punarvacanam | gadhyaṃ gṛhṇāteriti yāskaḥ | ni. 5-15 | yadvā | āgadhitā āsamantādāśrayantī | antaraṃ prajananena vākyaṃ bhujādibhirityarthaḥ [?] | gadyatirmithobhāvakarmeti yāskaḥ | ni. 5-15 | pūrvasminpakṣe puruṣasya prādhānyamuttarasminstriyā yoṣitā iti bhedaḥ | kīdṛśī sā | yā jaṅgahe atyarthaṃ gṛhṇāti kadācidapi na muñcati | atyāgre dṛṣṭāntaḥ | kaśīkeva | kaśīkā nāma sutavatsā nakulī | sā yathā patyā saha cirakālaṃ krīḍati na kadācidapi vimuñcati tadvadeṣāpi | kiṃca bhojyaiṣā yādurī | yāduriryādanām [?] retolakṣaṇamudakaṃ prabhūtaṃ dadātīti yādurī | bahuretoyuktetyarthaḥ | tādṛśī satī yāśūnāṃ saṃbhogānāṃ | yaśa iti prajananaṃ nāma tatsaṃbandhīni karmāṇi yaśūni bhogāḥ teṣāṃ śatā śatānyasaṃkhyātāni mahyaṃ dadāti ‖*
 
 *(Read from the image; the OCR is partly garbled. The words "agdhitā [?]" in the first sentence — the print has "bhojyā bhogayogyāgdhitā", which I read as "…āgadhitā" — and "yādanāma [?]" are doubtful.)* "Having been asked for union, Bhāvayavya, realising that his own wife Romaśā is not mature, says it, laughing. *Bhojyā* — fit for enjoyment, *āgadhitā* — taken on all sides, accepted; likewise *parigadhitā* — taken all round; the repetition is for the sake of great regard: '*gadhyaṃ gṛhṇāteḥ*', says Yāska (Ni. 5-15). Or else *āgadhitā* — one who approaches from all sides … with the inner [that is, secret] speech by procreation, by arms and the rest: '*gadyatir mitho-bhāvakarmā*', says Yāska (Ni. 5-15). In the first view the man is the principal one; in the latter, the woman: that is the difference. What is she like? She who *jaṅgahe* — grips exceedingly, never lets go. A simile of the strong grasp: *kaśīkā iva* — *kaśīkā* is the weasel with young; as she plays long with her mate and never lets him go, so she. Moreover this enjoyable one is *yādurī*: *yādurī* — she who gives much water in the form of semen, i.e. rich in semen. Such a one *yāśūnām* — of acts of union: *yaśa* is a name for procreation; the acts connected with it, *yaśūni*, are enjoyments; hundreds, countless, of these she gives to me."
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-4-72; 5-15
 
 ### Printed p. 242  (PDF 263)
 
@@ -6328,6 +6420,8 @@ The chief meaning of this we have already explained, so there is no need to repe
 
 **Vyākaraṇa-prakriyā (Ṛk 6; noted briefly, numbers as read by the OCR).** *āgadhitā* — the root *gadh* is used in the sense of "taking". '*gadhyaṃ gṛhṇāteḥ*' (Ni. 5-15), says Yāska. In the passive, the suffix *kta*; the augment *iṭ*; *gatir anantaraḥ* (Pā. 6-2-49)
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 5-15
+
 ### Printed p. 245  (PDF 266)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
@@ -6343,6 +6437,8 @@ gives the natural accent of the *gati* (*ā*); the same process in *parigadhitā
 
 > *upopa me parā mṛśa mā me dabhrāṇi manyathāḥ |*
 > *sarvāhamasmi romaśā gandhārīṇāmivāvikā ‖ 7 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-2-49; 3-1-22; 2-4-74; 6-1-183; 3-2-3; 6-3-189; 3-1-124; 6-1-175; 6-1-70
 
 ### Printed p. 246  (PDF 267)
 
@@ -6368,6 +6464,8 @@ gives the natural accent of the *gati* (*ā*); the same process in *parigadhitā
 
 **॥ भावार्थः ॥ — Bhāvārtha.** O husband, come to me and touch (my limbs); I am hairy like the ewe of the Gandhāra country (or like the wombs of pregnant women); therefore I am of mature limbs; so do not think me immature.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-20
+
 ### Printed p. 247  (PDF 268)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
@@ -6390,6 +6488,8 @@ Since the main idea of this ṛk and the particulars connected with it have been
 
 The subject of this ṛk has been introduced in the explanation of the preceding ṛk: in order to establish that she is not a girl but a young woman fit for union, Romaśā says that the hair that indicates youth has grown on her limbs, and gives the example of the ewe of Gandhāra. 
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-13; 3-20; 3-20
+
 ### Printed p. 248  (PDF 269)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
@@ -6400,6 +6500,8 @@ The subject of this ṛk has been introduced in the explanation of the preceding
 
 Here ends the 126th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತಾರನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-170; 6-4-74; 5-2-100
+
 ---
 
-**Progress note:** Sūkta 126 complete (printed pp. 219–248). Sūkta 127 (*agniṃ hotāram*, begins printed p. 249 = PDF 270; page images for PDF 261–300 are in scratchpad w10b/) — not yet begun. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5 bhāṣya (p. 237) and Ṛk 7 bhāṣya (p. 246) small type with several [?].
+**Progress note:** Sūkta 126 complete (printed pp. 219–248). Sūkta 127 (begins printed p. 249 = PDF 270; page images for PDF 261–300 are in scratchpad w10b/) — not yet begun. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5 bhāṣya (p. 237) and Ṛk 7 bhāṣya (p. 246) small type with several [?].
