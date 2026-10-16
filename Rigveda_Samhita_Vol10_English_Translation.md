@@ -10382,4 +10382,80 @@ of the enemy, sent against us with such force, is made to perish itself by Indra
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 413 (PDF 434): Ṛks 1–10 complete (‖ 10 ‖); Ṛk 11 (last; Aṣṭi) Saṃhitā/Pada/bhāṣya done and the Pratipadārtha is begun at the foot of p. 413 ("…*pāpasya* — of the sinful; *rakṣasaḥ* — of the Rākṣasas;"); resume p. 414 (PDF 435) with the rest of the Pratipadārtha, Bhāvārtha, English, Special Topics, grammar and the closing Kannada line; Sūkta 130 begins p. 417. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393), Ṛk 7 bhāṣya (p. 396), Ṛk 8 bhāṣya (pp. 400–401), Ṛk 9 Pada/bhāṣya (p. 405; slip "pathām̐" in the Saṃhitā, see p. 404 note), Ṛk 10 bhāṣya (pp. 408–409) and Ṛk 11 bhāṣya (p. 413); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 414  (PDF 435)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Pratipadārtha of Ṛk 11, continued from p. 413:)* "…*(pāpasya rakṣasaḥ* — of the sinful Rākṣasas, *hantā* — the slayer); *māvataḥ* — (of the sacrificer) like me; *viprasya* — of the wise sacrificer; *trātā* — the protector; *adha* — for this very reason; *vasoḥ* — O Indra, the abode (of all); *tvā* — you; *janitā* — the creator; *jījanat hi* — begot; *vaso* — O Indra, the support (of all); *tvā* — you; *rakṣohaṇam* — for slaying the Rākṣasas; *jījanat* — begot."
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, who always repels the Rākṣasas, well praised (by us), protect us from sin (from sorrow); pleased by our praise, you destroy the ill-minded, those who spoil the sacrifice and the sinful Rākṣasas, and protect the sacrificer who is wise like me; for this reason the Creator, who makes all things, begot you, the abode of all; O Indra, the support of all, he brought you into being for the destruction of the Rākṣasas.
+
+**Printed English (heading "English Translation"; as printed):** *"Deservedly-lauded Indra, preserve us from suffering; for you are always verily the chastiser of the malevolent: you, being divine, (are the chastiser) of the malevolent: (you are) the slayer of the wicked Rakshas, the preserver of a pious (worshipper), such as I am: for, asylum (of all men), the progenitor has begotten you (for this purpose); has begotten you, asylum (of all men), the destroyer of the Rakshasas."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 11).**
+
+***sridhaḥ*** — *duḥkhāt tadutpādakāt pāpād vā*: "Indra is prayed to protect us from sorrows or from the sins that produce sorrow."
+
+***durmatīnāṃ sadamit avayātā*** — *durmanaskānāṃ rakṣaḥ-prabhṛtīnāṃ sadaiva adhaḥ prāpayitā*: "he who always makes the Rākṣasas and the other ill-minded beings go downward, as a thing thrown from above falls": so the meaning is given.
+
+The word ***durmatīnām*** is used twice. For the second *durmati* he gives the sense *duṣṭamanavatāṃ yāgavighātakānām* — "of the evil-minded, who spoil the sacrifice, who hinder it", and the prayer is that Indra destroy them.
+
+***rakṣasaḥ pāpasya hantā*** — *rakṣaṇanimittabhūtasya phalapratibandharūpasya ghātakaḥ | yadvā pāpinaḥ rākṣasādeḥ hantā asi*: "the slayer of what is the cause of protection [needed] and obstructs the fruit; or: you are the slayer of sinful Rākṣasas and the like. Because such an ill-effect as sin arises, protection is wanted; for this reason Indra destroys the sin." This is one meaning given; or another, "the destroyer of the Rākṣasas who practise sinful acts (acts that harm others)". Yāska too —
+
+> वि ज्योतिषा बृहता भात्यग्निराविर्विश्वानि कृणुते महित्वा ।
+> प्रादेवीर्मायाः सहते दुरेवाः शिशीते शृङ्गे रक्षसे विनिक्षे ॥
+
+> *vi jyotiṣā bṛhatā bhāty agnir āvir viśvāni kṛṇute mahitvā |*
+> *prādevīr māyāḥ sahate durevāḥ śiśīte śṛṅge rakṣase vinikṣe ‖*
+
+(Ṛ. Saṃ. 5-2-9, as read "೫-೨-೯".) Explaining the word *rakṣase* in this Ṛk, Yāska says: *rakṣo rakṣitavyam asmāt, rahasi kṣaṇotīti vā, rātrau nakṣata iti vā* (Ni. 4-18 [?]): "*rakṣas* — he from whom one must be protected; or one who harms in secret; or one who walks about at night": so the word *rakṣas* is explained; it means one who inflicts harm on the body, or one who injures in a secluded place, or one who moves about greatly at night. Indra is described as the destroyer of such Rākṣasas in order to protect from them.
+
+***viprasya trātā*** — *yajamānasya medhāvinaḥ rakṣitā*: "the protector of the wise sacrificer": the word *vipra* is recorded among the names of the wise (Ni. 3-[?]; as read "೩-೧೯"). —
+
+> यो अनिध्मो दीदयदप्स्वन्तर्यं विप्रास ईळते अध्वरेषु ।
+> अपां नपान्मधुमतीरपो दा याभिरिन्द्रो वावृधे वीर्याय ॥
+
+> *yo anidhmo dīdayad apsv antar yaṃ viprāsa īḷate adhvareṣu |*
+> *apāṃ napān madhumatīr apo dā yābhir indro vāvṛdhe vīryāya ‖*
+
+(Ṛ. Saṃ. 10-30-4, as read "೧೦-೩೦-೪".) In this Ṛk *viprāsaḥ* is explained as *medhāvinaḥ*, "the wise".
+
+Here *vaso janitā* is used twice; as stated in the Śruti sentence "*tam indro devatā asṛjyata*" (Tai. Saṃ. 2-1-1-1 [?], as read), the Supreme Lord who creates all is said to be the support of all, and Indra is said to have been created for the destruction of the Rākṣasas and others who are thorns to the sacrifice.
+
+### Printed p. 415  (PDF 436)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+*(The page begins with the passage above — "the Ṛk 5-2-9 …", "Ṛk 10-30-4" and the closing sentence on *vaso janitā* — which I have placed with the Special Topics of p. 414 as the print runs on without a break across the page; the end of the page is the grammar.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar pages, noted briefly; numbers as printed).** *sustuta* — root *ṣṭuñ stutau*; *kta* in the passive; *śobhanaṃ stutaḥ sustutaḥ*; in the vocative *āmantrita-nighāta*. *sridhaḥ* — root *sridha śoṣaṇe* [as read; *sridha* with the sense of *śoṣaṇa*]; *kvip*; ablative singular; *sāvekācas tṛtīyādiḥ* gives the acute to the ending. *avayātā* — prefix *ava*; root *yā prāpaṇe*; *tṛc* in the agent sense; *kṛd-uttarapadaprakṛtisvara*.
+
+### Printed p. 416  (PDF 437)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Grammar, continued.)* *durmatīnām* — *duṣṭā matiḥ yeṣāṃ te durmatayaḥ*; genitive plural; *nāmanyatarasyām* (Pā. 6-1-177) gives the acute to the ending. *hantā* — root *han hiṃsāgatyoḥ*; *tṛc* in the agent sense; since the suffix is not *aniṭ*... [as read], the augment *iṭ* does not occur; since *c*-marked, the acute on the last syllable. *māvataḥ* — *matsadṛśasya māvataḥ*; *vatup prakaraṇe yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṅkhyānam* (vārttika on Pā. 4-3-1 [?]) gives *vatup* after *asmad*; *pratyayottarapadayoś ca* (Pā. 7-2-98) gives *ma* for the *asmad* ending up to the last letter; *ato guṇe* (Pā. 6-1-97) gives *pararūpa*; *dṛgdṛśavatuṣu* [as read: *tyadādīnām aḥ* …] with its continuation the *ā* [Pā. 6-3-91] becomes the substitute *ā* for the pronoun *ā*; the form *māvat* results; since *vatup* is *p*-marked the stem's accent remains; genitive singular. *janitā* — root *janī prādurbhāve*; the causative sense hidden in it; *tṛc* in the agent sense; the augment *iṭ*; since *c*-marked the acute on the last syllable. *jījanat* — the same root with *ṇic*; *hetumati ca* (Pā. 3-1-26); *luṅ* after the *ṇic*-ending; third person singular, *tip*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. 3-1-48) gives *caṅ* for *cli*; *caṅi* (Pā. 6-1-11) gives doubling of the root; *sanvallaghuni caṅpare…* (Pā. 7-4-93) gives *sanvadbhāva*, and *sanyataḥ* (Pā. 7-4-79) gives *i* to the reduplicative; *dīrgho laghoḥ* (Pā. 7-4-94) lengthens it; *bahulaṃ chandasy amāṅyoge 'pi* gives no augment *aṭ*; *hi ca* (Pā. 8-1-34) forbids *nighāta*; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the acute on the first syllable. *vaso* — root *vasa nivāse*; *śvasyasnihi…* (Uṇ. 1-[?]) gives *u*; in the vocative, *hrasvasya guṇaḥ* (Pā. 7-3-108) gives guṇa; *eṅ hrasvāt sambuddheḥ* (Pā. 6-1-69) drops the *s*; *āmantritasya ca* gives *nighāta*. *rakṣohaṇam* — root *han hiṃsāgatyoḥ*; *kvip*; *kṛd-uttarapadaprakṛtisvara*; in the accusative singular *inhanpūṣāryamṇāṃ śau* (Pā. 6-4-12) prescribes lengthening. ‖ 11 ‖
+
+Here ends the 129th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತೊಂಭತ್ತನೇ ಸೂಕ್ತವು ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 130 — *indra yāhy upa naḥ* (begins on printed p. 417; Anuvāka 19, fourth Sūkta)
+
+### Printed p. 417  (PDF 438)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+**ನೂರ ಮೂವತ್ತನೆಯ ಸೂಕ್ತವು — Nūra mūvattaneya sūktavu** (the one hundred and thirtieth Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; several letters doubtful [?]).**
+
+> इन्द्र याह्युप न इति दशर्चं चतुर्थं सूक्तं पारुच्छेपमैन्द्रम् । अन्त्या स नो नव्येभिरित्येषा त्रिष्टुप् शिष्टा अत्यष्टयः । अत्र त्रिष्टुबन्ते परिभाषा नात्रेयते [?], सर्वमात्यष्टमिति विशेषेण प्रतिज्ञातत्वात् । इन्द्र याहि दशान्त्या त्रिष्टुबित्यनुक्रमणिका ॥ पृष्ठ्यषडहस्य षष्ठेऽहनि निष्केवल्यशस्त्र एतत्सूक्तम् । षष्ठस्येति खण्डे सूत्रितम् । इन्द्र याह्युप नः प्रघान्यस्य [?] । आ. ८-१ [?] इति ॥ महाव्रते माध्यन्दिनसवने ब्राह्मणाच्छंसिनोऽनुरूपतृचे प्रथमम् । इन्द्र याहीत्येषा । महाव्रतस्य पञ्चविंशीति खण्डे शौनकेन सूत्रितम् । इन्द्र याह्युप नः परावत इन्द्राय हि द्यौरसुरो अनम्नत । ऐ. आ. ५-१-१ [?] इति ॥
+
+> *indra yāhyupa na iti daśarcaṃ caturthaṃ sūktaṃ pārucchepamaindram | antyā sa no navyebhirityeṣā triṣṭup śiṣṭā atyaṣṭayaḥ | atra triṣṭubante paribhāṣā nātreyate [?], sarvamātyaṣṭamiti viśeṣeṇa pratijñātatvāt | indra yāhi daśāntyā triṣṭubityanukramaṇikā ‖ pṛṣṭhyaṣaḍahasya ṣaṣṭhe 'hani niṣkevalyaśastra etatsūktam | ṣaṣṭhasyeti khaṇḍe sūtritam | indra yāhyupa naḥ praghānyasya [?] | ā. 8-1 [?] iti ‖ mahāvrate mādhyandinasavane brāhmaṇācchaṃsino 'nurūpatṛce prathamam | indra yāhītyeṣā | mahāvratasya pañcaviṃśīti khaṇḍe śaunakena sūtritam | indra yāhyupa naḥ parāvata indrāya hi dyaurasuro anamnata | ai. ā. 5-1-1 [?] iti ‖*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *indra yāhy upa naḥ* is the fourth Sūkta in the nineteenth Anuvāka. It has ten ṛks. The ṛṣi of this Sūkta is Paruccheṣa; the deity is Indra. The last ṛk, beginning *sa no navyebhiḥ*, is in the Triṣṭubh metre; the other ṛks are in Atyaṣṭi metres. In the Anukramaṇikā it is said: "*indra yāhi daśāntyā triṣṭubh*". On the sixth day of the *pṛṣṭhya ṣaḍaha* sacrifice this Sūkta is used for the *niṣkevalya śastra*, as expounded in the Āśvalāyana Śrauta-sūtra in the section *ṣaṣṭhasya* by the sūtra *indra yāhy upa naḥ praghānyasya* [as read: [?]] (Āś. 8-1 [?]). In the *mahāvrata* sacrifice, at the midday pressing, when the Brāhmaṇācchaṃsin priest (the *udgātṛ*, the one who chants) recites for the Sāman-mantras, the three ṛks beginning *indra yāhi* are to be recited as the *anurūpa* hymn; in the Aitareya Āraṇyaka, in the section *mahāvratasya pañcaviṃśī*, the sage Śaunaka states this by the sūtra *indra yāhy upa naḥ parāvata indrāya hi dyaur asuro anamnata* (Ait. Ār. 5-1-1, as read "೫-೧-೧").
+
+---
+
+**Progress note:** Sūktas 127, 128 and 129 complete (printed pp. 249–416). Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) begun: heading and the Sanskrit/Kannada introduction (the whole of p. 417) done; resume at head of p. 418 (PDF 439) with the Sūkta table (varga, devatā, chandas) and Ṛk 1. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 (Ṛk 2 pp. 371, 373; Ṛk 3 p. 377 corrected on p. 379; Ṛk 4 p. 382; Ṛk 5 p. 385; Ṛk 6 pp. 390–393; Ṛk 7 p. 396; Ṛk 8 pp. 400–401; Ṛk 9 p. 405 — slip "pathām̐" in the Saṃhitā, see p. 404 note; Ṛk 10 pp. 408–409; Ṛk 11 p. 413) and a possibly mis-placed page-division on pp. 414/415 (the Special Topics of Ṛk 11 are written under p. 414); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
