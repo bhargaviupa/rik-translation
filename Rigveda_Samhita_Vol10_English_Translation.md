@@ -7851,4 +7851,177 @@ Since prefixes have many meanings, the prefix *ā* here is explained as *dadati*
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 308 (PDF 329): Ṛks 1–8 complete (‖ 8 ‖); Ṛk 9 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done and the printed English begins at the foot of p. 308 ("…as"); resume p. 309 (PDF 330) with the rest of the Ṛk 9 English, Special Topics. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 309  (PDF 330)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**Printed English (continued):** *"…riches (are generated) for the sake of sacrificing to the gods: verily your exhilaration is most brilliant, your worship is most productive of renown; hence, undecaying Agni, (sacrficers) [sic] wait upon you, like envoys (upon a prince; upon you), who preserve (your votaries) from decay."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 9).**
+
+***sahasā sahantamaḥ*** — *balena atiśayena śatrūṇām abhibhavitā*: "Agni, by his own strength, overpowers, defeats and conquers enemies greatly": so the meaning. The word *sahaḥ* is recorded among the names of strength (Ni. 3-9 [numeral as read by the OCR, "३९"]). And —
+
+> पिता विश्वा सवना तूतुमा कृणे स्वयं सूनो सहसो यानि दधिषे ।
+> वराय ते पात्रं धर्मणे तना यज्ञो मन्त्रो ब्रह्मोद्यतं वचः ॥
+
+> *pitā viśvā savanā tūtumā kṛṇe svayaṃ sūno sahaso yāni dadhiṣe |*
+> *varāya te pātraṃ dharmaṇe tanā yajño mantro brahmodyataṃ vacaḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-6; the reference numerals are small and doubtful — as read by the OCR "१०-३०-६" [?]; the verse is a small-type quotation, letters partly doubtful: [?].) Here *sahasaḥ* is explained as *balasya*, "of strength".
+
+***jāyase devatātaye rayir na devatātaye*** — *devānāṃ vistārayuktāya yāgāya tadarthaṃ | yadvā | uktaguṇaviśiṣṭaḥ jāyase araṇyoḥ utpadyase | tatra dṛṣṭāntaḥ | dhanaṃ yathā yajñārthamutpadyate tathā coktaṃ "yajñārthaṃ dravyam utpannam" iti* — "For the sacrifice that is extended with the gods, i.e. for that purpose; or: possessing the said qualities you are born from the two *araṇis*; the example: as wealth is produced for the sake of the sacrifice — and so it is said: 'wealth is produced for the sake of the sacrifice'."
+
+The word *devatātā* is recorded in the Nirukta (3-19 [?]) among the fifteen names of sacrifice ("*yajñaḥ, venaḥ, adhvaraḥ*" and so on); *devatātā* means "sacrifice". And —
+
+> शं नो भवन्तु वाजिनो हवेषु देवताता मितद्रवः स्वर्काः ।
+> जम्भयन्तोऽहिं वृकं रक्षांसि सनेम्यस्मद्युयवन्नमीवाः ॥
+
+> *śaṃ no bhavantu vājino haveṣu devatātā mitadravaḥ svarkāḥ |*
+> *jambhayanto 'hiṃ vṛkaṃ rakṣāṃsi sanemyasmad yuyavann amīvāḥ ‖*
+
+(Ṛ. Saṃ. 2-[?]-2; as read by the OCR "२-२०-२" [?].) Here too *devatātā* is explained as "sacrifice" (Ni. 12-44 [?]). One meaning: Agni appears so that a sacrifice accompanied by many rites may be fulfilled. Or: Agni, accompanied by great glory, produced from the *araṇis*, makes the sacrifices go on. The example of wealth being produced for the very performance of the sacrifice is given for the birth of Agni, and the statement "material is evident for the sake of sacrifice" is cited as authority. The word *rayiḥ* is recorded among the names of water (Ni. 1-[?]) and among the names of wealth (Ni. 2-10 [?]; numerals as read by the OCR "२-२४", "३-९"). In "*na ca purā ca sadanaṃ rayīṇām*" [as printed; letters doubtful] the Nirukta says *rayir iti dhananāma rāter dānakarmaṇaḥ* (Ni. 4-17 [?]): that *rayiḥ* denotes "wealth" is explained.
+
+### Printed p. 310  (PDF 331)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+***te madaḥ śuṣmintamaḥ*** — *tava ājyasvīkārajanito harṣaḥ atiśayena balavān | ājyena agner mado bhavatīti prasiddhaṃ*: "your joy produced by accepting ghee is greatly powerful; it is well known that Agni's exhilaration comes from ghee": the joy produced in Agni by the offering of ghee is greater than the joy produced by offering other oblations; so it is explained.
+
+***te kratuḥ dyumnintamaḥ*** — *yaśoyukto 'nnayukto vā*: "the sacrifice performed to satisfy Agni brings fame; and for those who sacrifice it is accompanied by plentiful food, so as to bring them fame and food": so the meaning. The word *dyumna* is recorded among the names of wealth (Ni. 3-9 [?]). And —
+
+> शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु ।
+> जहि वधर्वनुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥
+
+> *śataṃ te śiprinn ūtayaḥ sudāse sahasraṃ śaṃsā uta rātir astu |*
+> *jahi vadhar vanuṣo martyasyāsme dyumnam adhi ratnaṃ ca dhehi ‖*
+
+(Ṛ. Saṃ. 7-[?]-3, numerals doubtful: the OCR gives "७-३३-३" [?].) In this Ṛk the Niruktakāra explains *dyumnam* as *dyotater yaśo vā annaṃ vā* (Ni. 5-[?]; OCR "५-६") — so it is explained that the word conveys the senses "fame" and "food". The Niruktakāra also, —
+
+> उतस्य वाजी क्षिपणिं तुरण्यति ग्रीवायां बद्धो अपिकक्ष आसनि ।
+> क्रतुं दधिक्रा अनु संतवीत्वत्पथामङ्कांस्यन्वापनीफणत् ॥
+
+> *utasya vājī kṣipaṇiṃ turaṇyati grīvāyāṃ baddho apikakṣa āsani |*
+> *kratuṃ dadhikrā anu saṃtavītvat pathām aṅkāṃsy anvāpanīphaṇat ‖*
+
+(Ṛ. Saṃ. 4-[?]-4, as read by the OCR "४-४०-४"; the small-type letters are partly doubtful [?].) — explains here *kratuṃ karma vā prajñāṃ vā*: the meaning of the word *kratu*, "work or intelligence". The word *kratu* is also recorded among the names of intelligence (Ni. 3-[?]; OCR "३-१३"). And —
+
+> यो जात एव प्रथमो मनस्वान् देवो देवान् क्रतुना पर्यभूषत् ।
+
+> *yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat |*
+
+(Ṛ. Saṃ. 2-12-1 as read by the OCR "२-१२-१"; only the first line is printed.) Here *kratunā* is explained as *karmaṇā*, "by work". Sāyaṇa also explains *kratuḥ* as "a particular kind of rite" (*karmaviśeṣaḥ*).
+
+***śruṣṭīvāno na — dūtā iva te yathā vārtāviśeṣapradānena rājānaṃ sevante tadvat*** — "as messengers serve a king by bringing particular news, so [the sacrificers serve you]": the sacrificers serve the ageless Agni as envoys, who carry the news of what is happening around, serve a king: so it is compared.
+
+In this Ṛk the word *ajara* is said twice. For the first *ajara* the meaning "ageless" (free from old age, *jarārahita*) is given, of Agni. For the second *ajara* two kinds of meaning are given
+
+### Printed p. 311  (PDF 332)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+(continuing the explanation of the second *ajara*): in the first meaning, *bhaktānām ajarayitaḥ* — "he who makes those who serve him ageless". Then, *ajara — astotaḥ | jarā stutiḥ | āsau na kasyāpi stotā bhavati kiṃtu sarvaiḥ svayaṃ stūyate* [reading as printed in small type, letters partly doubtful: [?]]: "ageless: one who is not a praiser; *jarā* is praise: he does not praise anyone, but is himself praised by all." Since the word *jarā* is explained as *jarā stutir jaraterh stutikarmaṇaḥ* (Ni. 10-8 [?]; OCR "१०-८"), it conveys the sense "praise": Agni is one who does not praise anyone and is praised by others; all praise Agni; Agni alone is not to be praised by anyone — so the meaning is given, and it is explained that the sacrificers serve such a glorious Agni.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly).** *sahasā* — root *ṣaha marṣaṇe*, suffix *asun*; since it has *n* as marker the acute falls on the first syllable; instrumental singular [the Kannada says "plural" in the OCR; as read, doubtful]. *sahantamaḥ* — root *ṣaha*; *kanin* by *bahulagrahaṇa*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *tamap* in the sense of excess; *nalopaḥ prātipadikāntasya* drops the *n*; *tarastamapau ghaḥ* (Pā. 1-1-22) gives *tamap* the name *gha*; *nādighasya* (Pā. 6-3-[?]) the augment *nuṭ*; *tamap* has *p* as marker so it is unaccented. The same procedure is to be understood in *śuṣmintamaḥ*. *jāyase* — root *janī prādurbhāve*, divādi, laṭ second person singular; *tiṅ-nighāta*. *devatātaye* — *sarvadevāt tātil* (Pā. 4-4-142 [?]); *liti* (Pā. 6-1-193) gives the acute to the syllable before the suffix; dative singular. *madaḥ* — *madī harṣe*; *mado 'nupasarge* (Pā. 3-3-67) gives *ap*; because of the marker *p* it is unaccented. *dyumnintamaḥ* — *dyumnaṃ yaśo 'syāsti* gives *dyumnī*; in the possessive sense *ata ini-ṭhanau* (Pā. 5-2-115) gives *ini*; then *tamap* in the sense of excess, as in *sahantamaḥ*, with the same changes. *adha* — *atha* with a Vedic letter-change.
+
+### Printed p. 312  (PDF 333)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*(Grammar, continued.)* *caranti* — root *cara gatibhakṣaṇayoḥ*, laṭ third person plural; since it follows the word *adha sma* (a non-finite word before it) [?] the *nighāta* accent. *ajara* — root *jṛṣ vayohānau*; with the *ṇic* operation hidden inside; *nandigrahipacādibhyo* (Pā. 3-1-134) gives *ac*; guṇa with *raparatva*; in the vocative *āmantritasya ca* (Pā. 8-1-19) gives *nighāta*; or: *jarā* is praise; *na vidyate jarā yasya* — "he who has no praise"; "all-praised": vocative. *śruṣṭīvānaḥ* — *chandasi vanip* gives *vanip* in the possessive sense; because of marker *p*, the accent of the suffix's first syllable; nominative plural. ‖ 9 ‖
+
+***(an ornamental rule separates Ṛk 9 from Ṛk 10)***
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> प्र वो महे सहसा सहस्वत उषर्बुधे पशुषे नाग्नये ।
+> स्तोमो बभूत्वग्नये ।
+> प्रति यदीं हविष्मान्विश्वासु क्षासु जोगुवे ।
+> अग्रे रेभो न जरत ऋषूणां जूर्णिर्होता ऋषूणाम् ॥ १० ॥
+
+> *pra vo mahe sahasā sahasvata uṣarbudhe paśuṣe nāgnaye |*
+> *stomo babhūtvagnaye |*
+> *prati yadīṃ haviṣmānviśvāsu kṣāsu joguve |*
+> *agre rebho na jarata ṛṣūṇāṃ jūrṇirhotā ṛṣūṇām ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । वः । महे । सहसा । सहस्वते । उषःऽबुधे । पशुऽसे । न । अग्नये । स्तोमः ।
+> बभूतु । अग्नये ।
+> प्रति । यत् । ईम् । हविष्मान् । विश्वासु । क्षासु । जोगुवे ।
+> अग्रे । रेभः । न । जरते । ऋषूणाम् । जूर्णिः । होता । ऋषूणाम् ॥ १० ॥
+
+> *pra | vaḥ | mahe | sahasā | sahasvate | uṣaḥ 'budhe | paśu 'se | na | agnaye | stomaḥ |*
+> *babhūtu | agnaye |*
+> *prati | yat | īm | haviṣmān | viśvāsu | kṣāsu | joguve |*
+> *agre | rebhaḥ | na | jarate | ṛṣūṇām | jūrṇiḥ | hotā | ṛṣūṇām ‖ 10 ‖*
+
+*(Read from the images; the Pada in the Kannada print is "prā | vaḥ …", with "uṣaḥ-budhe" and "paśu-se". The OCR gives *uṣarbudhe*; the Saṃhitā printing "uṣarbudhe" with *r* is confirmed by the image: "ಉಷರ್ಬುಧೇ". Pada word-division as printed: *uṣaḥ-budhe*, *paśu-se* [?]; word *ṛṣūṇām* appears twice.)*
+
+### Printed p. 313  (PDF 334)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे उद्गात्रादयः स्तोतारः वो युष्माकं सम्बन्धि स्तोमः स्तोत्रमग्नये प्र बभूतु । प्रीणयितुं समर्थो भवतु ॥ छान्दसः शपः श्लुः । अत्वं चाभ्यासस्य । भूसुवोस्तिङीति गुणाभावः ॥ कीदृशायाग्नये । महे महते पूज्याय सहसा पराभिभवसामर्थ्येन तद्वते सहस्वते उषर्बुधे उषःकाले प्रबुध्यमानाय ॥ आहरादीनां सत्यादिपूपसंख्यानमिति रत्वं ॥ पशुषे पशुफलप्रदाय । नशब्दोऽत्रापिशब्दार्थः । यद्वा । पशुषे पशुप्रदात्रे प्रभवे यथास्तुतिः क्रियते तद्वत् । किमर्थमिति तदुच्यते । ईमेनमग्निं प्रति लक्ष्मीकृत्य हविष्मान् घृतादिहविर्युक्तो यजमानो विश्वासु क्षासु सर्वासु निवासभूतासु वेदिभूमिषु जोगुवे । अत्यर्थं गच्छति ॥ गुवतेर्यङ्लुगन्ताच्छान्दसो लिट् । व्यत्ययेनात्मनेपदं । अमन्त्र इति पर्युदासादामभावः ॥ क्षेति भूनाम क्षा क्षामेति तन्नामसु पाठात् । ऋषूणामागन्तॄणां देवानां मध्ये श्रेष्ठमग्निं जूर्णिः स्तुतिकुशलो होताग्रे इतरदेवेभ्यः पूर्वं जरते । स्तौति । तत्र दृष्टान्तः । ऋषूणां महतां धनवतामग्रे रेभो न वन्दीव । ऋषतेर्गतौ । औणादिकः कुप्रत्ययः । नामन्यतरस्यामिति नाम उदात्तत्वं ॥ यद्वा ऋषूणामित्येतद्धोतृविशेषणं । ऋषूणां ज्ञानवतां मध्ये श्रेष्ठोऽयं होतेत्यर्थः ॥
+
+> *he udgātrādayaḥ stotāraḥ vo yuṣmākaṃ sambandhi stomaḥ stotramagnaye pra babhūtu | prīṇayituṃ samartho bhavatu ‖ chāndasaḥ śapaḥ śluḥ | atvaṃ cābhyāsasya | bhūsuvostiṅīti guṇābhāvaḥ ‖ kīdṛśāyāgnaye | mahe mahate pūjyāya sahasā parābhibhavasāmarthyena tadvate sahasvate uṣarbudhe uṣaḥkāle prabudhyamānāya ‖ āharādīnāṃ satyādipūpasaṃkhyānamiti ratvaṃ ‖ paśuṣe paśuphalapradāya | naśabdo 'trāpiśabdārthaḥ | yadvā | paśuṣe paśupradātre prabhave yathāstutiḥ kriyate tadvat | kimarthamiti taducyate | īmenamagniṃ prati lakṣmīkṛtya haviṣmān ghṛtādihaviryukto yajamāno viśvāsu kṣāsu sarvāsu nivāsabhūtāsu vedibhūmiṣu joguve | atyarthaṃ gacchati ‖ guvateryaṅlugantācchāndaso liṭ | vyatyayenātmanepadaṃ | amantra iti paryudāsādāmabhāvaḥ ‖ kṣeti bhūnāma kṣā kṣāmeti tannāmasu pāṭhāt | ṛṣūṇāmāgantṝṇāṃ devānāṃ madhye śreṣṭhamagniṃ jūrṇiḥ stutikuśalo hotāgre itaradevebhyaḥ pūrvaṃ jarate | stauti | tatra dṛṣṭāntaḥ | ṛṣūṇāṃ mahatāṃ dhanavatāmagre rebho na vandīva | ṛṣatergatau | auṇādikaḥ kupratyayaḥ | nāmanyatarasyāmiti nāma udāttatvaṃ ‖ yadvā ṛṣūṇāmityetaddhotṛviśeṣaṇaṃ | ṛṣūṇāṃ jñānavatāṃ madhye śreṣṭho 'yaṃ hotetyarthaḥ ‖*
+
+*(Read from the image; a few letters of this small, dense page are doubtful: "*uṣarbudha uṣaḥkāle*", "*āharādīnāṃ satyādipūpasaṃkhyānam iti ratvam*" [as printed, doubtful: [?]], "*kṣeti bhūnāma kṣā kṣāmeti tannāmasu pāṭhāt*" [?].)* Sense: O Udgātṛ-priests and other praisers, let your hymn become able to please Agni — *pra babhūtu*, "be able, be sufficient" (the Vedic *śap* is elided; the doubling syllable *a*; no guṇa by *bhūsuvos tiṅi*). To what Agni? *mahe* — the great, venerable; *sahasvate* — possessing victory through ability to overpower; *uṣarbudhe* — awake at the dawn; *paśuṣe* — the giver of the fruit of cattle: "*na*" here has the sense of "also"; or, "as one praises a lord who gives cattle, so (do you praise Agni)". Why so? *īm* — turning to this Agni, the sacrificer *haviṣmān* — equipped with ghee and other oblations — *jonuve* [as in the sense: *joguve*] "goes eagerly" to all altar-grounds, the dwelling places: so *viśvāsu kṣāsu*, "in all the places of dwelling." *kṣā* is a name for the earth. *ṛṣūṇām* — among the gods who are coming: the most excellent Agni — the *hotṛ* *jūrṇiḥ* — "skilled in praise" — praises first, before other gods; the example: "as a bard *before the wealthy great ones*" (*rebho na vandīva*). Or *ṛṣūṇām* is an adjective of *hotṛ*: "this Hotṛ is the best among the wise".
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *yat* — because; *haviṣmān* — [the sacrificer] provided with oblations; *īṃ prati* — directed to this Agni; *viśvāsu kṣāsu* — in all the altars; *joguve* — goes eagerly, repeatedly; *ṛṣūṇām* — of the wise ones, *jūrṇiḥ* — skilled in praise; *hotā* — the invoker priest; *ṛṣūṇām* — of the wealthy [?]; *agre* — in front; *rebhaḥ na* — as a bard praises; *ṛṣūṇām* — among the gods who come (to the sacrifice), *agre* — before (the others), the most excellent Agni — *jarate* — praises. *tat* — therefore; *he udgātrādayaḥ* — O Udgātṛ and other praisers; *mahe* — the venerable; *sahasā* — with strength (conquering foes); *sahasvate* — the strong; *uṣarbudhe* — awake at dawn; *agnaye* — to Agni; *vaḥ* — your; *stomaḥ* — praise; *pra babhūtu* — may it be able to please; *paśuṣe na* — as one praises a giver of cattle; *agnaye* — to Agni (may your praise be pleasing).
+
+### Printed p. 314  (PDF 335)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Udgātṛ and other priests: may your praise be pleasing to Agni, who is venerable, strong (conqueror of enemies), awake at dawn and the giver of the fruit of cattle, even as one praises a lord who gives cattle. It is because of this Agni that the sacrificers, supplied with ghee and other oblations, go to every altar; and the Hotṛ, the best of the wise and skilled in praise, praises this very Agni first, before all the gods who come to the sacrifice — as a bard praises the wealthy.
+
+**Printed English (as printed):** *"May your praise (oh priests) become grateful to Agni, who is deserving of laudation [as printed, followed by a full stop after "laudation"], who is of strength to overcome the strong, who is awakened at the dawn; to Agni, as if to a giver of cattle. Inasmuch as the presenter of the oblation repairs assiduously to every altar, the invoking priest, well skilled in (pious) praise, glorifies him (Agni) as the first of the attaining (divinities), as a herald (recites the praises) of illustrious (men)."* *(Printed heading "English Translation".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 10).**
+
+***mahe*** — *mahate pūjyāya*: Agni is full of greatness, he is venerable. The word *mahaḥ* is recorded among the names of water (Ni. 2-[?]; OCR "२-२४"). And —
+
+> पितुं नु स्तोषं महो धर्माणं तविषीम् ।
+> यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् ॥
+
+> *pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīm |*
+> *yasya trito vy ojasā vṛtraṃ viparvam ardayat ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?]; as read by the OCR "१-१८७-१"; small type, letters partly doubtful [?].) Here *mahaḥ* is explained as *mahataḥ*, "of great strength" (*balasya*).
+
+***sahasā*** — *parābhibhavasāmarthyena*: the word *sahaḥ* is recorded among the names of strength (Ni. 3-9 [?]); the meaning given is that Agni is endowed with the capacity of overpowering others.
+
+***paśuṣe na*** — *na śabdo 'tra apiśabdārthaḥ | paśuphalapradāya yadvā paśupradātre prabhave yathā stutiḥ kriyate tadvat* — here the word *na* is said to have the sense of *api* "also" (a collective sense) and one meaning is "to Agni who also grants the fruits in the form of cattle (cows and the like)"; in the second meaning, since *na* is a word of comparison, "as one praises a lord who gives wealth in the form of cows, so we praise Agni".
+
+### Printed p. 315  (PDF 336)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+***īm*** — *enam agne*: the Niruktakāra says that the particles in the mantras bound by metre are without meaning, *anarthakāḥ* — "*miti akṣareṇa anarthakāḥ karmopasaṃdhāna* …" [as printed (Ni. 1-9 [?]; doubtful letters): [?]]. Sāyaṇa explains the particle *īm* here as "*enam agniṃ*": with this Agni as the object, the sacrificer, taking the oblation, serves him greatly.
+
+***viśvāsu kṣāsu*** — *sarvāsu nivāsabhūtāsu vedibhūmiṣu*. The word *kṣā* is recorded among the twenty-one names of the earth beginning with *gauḥ* (Ni. 1-[?]; OCR "२-५"). The word *kṣā* is explained as *kṣiyater nivāsakarmaṇaḥ* (Ni. 2-[?]; OCR "२६"): though it denotes the earth, the dwelling-place of all, here the meaning "the altar of the sacrifice" is given.
+
+***ṛṣūṇāṃ jūrṇir hotā agre jarate*** — *āgantṝṇāṃ devānāṃ madhye śreṣṭham agniṃ stutikuśalo hotā itaradevebhyaḥ pūrvam* [(as printed), the Kannada paraphrase]: the Hotṛ, who is expert in praise, praises, before invoking the other deities, Agni, the best among the gods, first, for the sake of the sacrifice. The Niruktakāra has read the word *jūrṇiḥ* among the eleven names of anger (Ni. 3-9 [?]) and among the twenty-six names of the quick (Ni. 3-9 [?]; numerals as read by the OCR, doubtful). And —
+
+> स्वयं सा रिषयध्यै या न उपेषे अत्रैः । [?]
+> *(small type, letters doubtful: [?])*
+
+(Ṛ. Saṃ. 1-129-8 as read by the OCR; I do not claim the reading.) Citing this Ṛk he says *jūrṇir javater vā dravater vā dunoter vā* ("*jūrṇi* from *jū* to go quickly, or *dru* to run, or *du* to burn", Ni. [?]). Durgācārya explains: *javater vā hiṃsārthasya jūrṇiḥ, dravater vā gatyarthasya jūrṇiḥ, dunoter vā hiṃsārthasya jūrṇiḥ* [as read, letters partly doubtful]. Thus the word *jūrṇi* has several meanings: anger, quick, motion, injury. Sāyaṇa has given *jūrṇi* the meaning "skilled in praise".
+
+***ṛṣūṇām agre rebho na*** — *mahatāṃ dhanavatām agre vandīva*; or *ṛṣūṇām* is an adjective of the Hotṛ — "among the wise this Hotṛ is the best". The Hotṛ-priest is compared to one who praises, a bard. In this word *ṛṣūṇām* is stated twice. In the first meaning it is explained as "those who come" (*āgantṝṇām*); the second use of *ṛṣūṇām*, for "many wealthy men", is explained as one meaning, and "the wise" (as an adjective of the Hotṛ) as the other meaning.
+
+***rebhaḥ*** — "bard": since the word *rebha* is recorded among the thirteen names of praisers (*jaritā, kāruḥ…*; Ni. 3-19 [?]) it is explained as "one who praises".
+
+### Printed p. 316  (PDF 337)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly; numbers as read by the OCR).** *mahe* — *mahate*, with Vedic elision of *t*; or root *maha pūjāyām*, *kvip*, dative singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the ending. *sahasvate* — *saho 'syāsti*; *matup*; since *matup* is after a non-*a* word [as read, doubtful], *mādupadhāyāś ca* gives *va*. *uṣarbudhe* — root *budha avagamane*, *kvip*; the *s* of *uṣas* becomes *r* by *āhar* … *upasaṃkhyānam* [as read: [?]]; *kṛdutarapadaprakṛtisvara*. *babhūtu* — root *bhū sattāyām*, *loṭ* second person singular, *tip*, *eru* gives *u*; *bahulaṃ chandasi* gives *tu* [?]; doubling of the root; *bhavater aḥ* (Pā. 7-4-73) gives *a* to the reduplicative; *bhūsuvos tiṅi* (Pā. 7-3-88) gives no guṇa; *tiṅ-nighāta*. *joguve* — *gu śabde*, *yaṅ*, *luk*; *chandasi luṅlaṅliṭaḥ*; *liṭ* in the present sense; ātmanepada by *vyatyayo bahulam*; the augment *āṃ* is forbidden by *amantre* (Pā. 3-1-35 [?]); *uvaṅ* in the third person; no guṇa since the suffix has a *k* marker; the *nighāta* accent is absent because of *yad*; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the acute to the first syllable. *jarate* — root *jṝṣ vayohānau*; here used in the sense of praise; *laṭ* third person singular; *tiṅ-nighāta*. *ṛṣūṇām* — root *ṛṣī gatau* (verbs of motion also have the sense of knowing); the Uṇādi suffix *ku*, not guṇa since it has the marker; the form *ṛṣu*; genitive plural; *nāmanyatarasyām* (Pā. 6-1-177) gives the acute to *nām*. *jūrṇiḥ* — root *jvara saṃtāpe*; *vījyājvaribhyo niḥ* (Uṇ. 4-[?]) gives *ni*; *jvaratvarasrivyavimavām* (Pā. 6-4-20) gives *ūṭh* [as read: the *va* and the *upadhā* becomes *ū*]; by *vyatyaya* the acute on the first syllable. ‖ 10 ‖
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 316 (PDF 337): Ṛks 1–10 complete (‖ 10 ‖); resume p. 317 (PDF 338) with Ṛk 11 (last Ṛk, Atidhṛti) and the closing Kannada line; then Sūkta 128 (p. 321). Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 (esp. pp. 309–315 quotations); Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–316.
