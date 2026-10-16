@@ -12918,4 +12918,56 @@ The word *bila* has the meaning of *garta* ("pit"). Though *garta* has the sense
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛk 1 written through p. 538 (Special Topics continues on p. 539 after Wilson's note: "but …" — resume p. 539, PDF 560; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 539  (PDF 560)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+*(Special Topics of Ṛk 1, continued from p. 538.)* …but in this Ṛk the word "*dahāmi*" ("I burn") is used, so, since "burning" the corpse is meant, one may say plainly that at that time corpses were burned and also buried. In the Ṛgveda there are authorities for both of these kinds of corpse-rites:
+
+> मैनमग्ने वि दहो माभि शोचो मास्य त्वचं चिक्षिपो मा शरीरम् ।
+> यदा शृतं कृणवो जातवेदोऽथेमेनं प्र हिणुतात्पितृभ्यः ॥
+
+> *mainam agne vi daho mābhi śoco māsya tvacaṃ cikṣipo mā śarīram |*
+> *yadā śṛtaṃ kṛṇavo jātavedo 'themenaṃ pra hiṇutāt pitṛbhyaḥ ‖*
+
+(Ṛ. Saṃ. 10-16-1 [as read: "೧೦-೧೬-೧"].)
+
+> यं त्वमग्ने समदहस्तमु निर्वापया पुनः ।
+> क्याम्बूरत्र [?] रोहतु पाकदूर्वा व्यल्कशा ॥
+
+> *yaṃ tvam agne samadahas tam u nirvāpayā punaḥ |*
+> *kyāmbūratra [?] rohatu pākadūrvā vyalkaśā ‖*
+
+(Ṛ. Saṃ. 10-16-14 [as read: "೧೦-೧೬-೧೪"].) Such Ṛks support the view that corpses were burned. In the 16th Sūkta of the 10th [Maṇḍala] the Ṛks pray in various ways to Agni that the corpse (the body) should not be burnt [i.e. not harmed], and that the body (its *ātman*) be taken to the Pitṛs and the gods. [Sic sense; as read.]
+
+> उप सर्प मातरं भूमिमेतामुरुव्यचसं पृथिवीं सुशेवाम् ।
+> ऊर्णम्रदा युवतिर्दक्षिणावत एषा त्वा पातु निर्ऋतेरुपस्थात् ॥
+> उच्छ्वञ्चस्व पृथिवि मा नि बाधथाः सूपायनास्मै भव सूपवञ्चना ।
+> माता पुत्रं यथा सिचाभ्येनं भूम ऊर्णुहि ॥
+> उच्छ्वञ्चमाना पृथिवी सु तिष्ठतु सहस्रं मित उप हि श्रयन्ताम् ।
+> ते गृहासो घृतश्चुतो भवन्तु विश्वाहास्मै शरणाः सन्त्वत्र ॥
+> उत्ते स्तभ्नामि पृथिवीं त्वत्परीमं लोगं निदधन्मो अहं रिषम् ।
+> एतां स्थूणां पितरो धारयन्तु ते यमः सादना ते मिनोतु ॥
+
+> *upa sarpa mātaraṃ bhūmim etām uruvyacasaṃ pṛthivīṃ suśevām |*
+> *ūrṇamradā yuvatir dakṣiṇāvata eṣā tvā pātu nirṛter upasthāt ‖*
+> *ucchvañcasva pṛthivi mā ni bādhathāḥ sūpāyanāsmai bhava sūpavañcanā |*
+> *mātā putraṃ yathā sicābhyenaṃ bhūma ūrṇuhi ‖*
+> *ucchvañcamānā pṛthivī su tiṣṭhatu sahasraṃ mita upa hi śrayantām |*
+> *te gṛhāso ghṛtaścuto bhavantu viśvāhāsmai śaraṇāḥ santv atra ‖*
+> *ut te stabhnāmi pṛthivīṃ tvat parīmaṃ logaṃ nidadhan mo ahaṃ riṣam |*
+> *etāṃ sthūṇāṃ pitaro dhārayantu te yamaḥ sādanā te minotu ‖*
+
+(Ṛ. Saṃ. 10-18-10 to 13 [as read: "೧೦-೧೮-೧೦ ರಿಂದ ೧೩"]. The reading of these small words is from the image; doubtful letters in the third and fourth verse are not marked individually.) Such Ṛks introduce the burying of the corpse in the earth, with prayers that the earth protect the dead body as a mother protects her son, and so on. The Ṛks of the 16th and 18th Sūktas [of Maṇḍala 10], as stated above, are used even now in the funeral rite (*antyakriyā*).
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; numbers as printed).** *punāmi* — root *pūñ pavane*; *laṭ*, first person singular *mip*; *kryādibhyaḥ śnā* (Pā. 3-1-81 [as read]) gives *śnā*; *hrasvaḥ* by *prādīnāṃ hrasvaḥ* [?] (Pā. [?]) — the root is shortened (*pu-nā-mi*), and as it is followed by a *pit* ending, the *nighāta* accent comes.
+
+### Printed p. 540  (PDF 561)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Grammar page, noted briefly.)* *druhaḥ* — root *druha jighāṃsāyām*; *kvip*; accusative plural. *dahāmi* — root *dahe bhasmīkaraṇe*; *laṭ*, first person singular; as the verb ends in *tiṅ*, the *nighāta* accent. *anindrāḥ* — *na vidyate indro yāsāṃ tāḥ*; *nañsubhyām* (Pā. 6-2-172 [as read; digits doubtful]) puts the udātta on the last syllable of the following member (*uttarapadāntodātta*); accusative plural. *abhivlagya* — *abhi* a prefix; *vlaga gatau*, a Vedic root; *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37 [as read]) gives *lyap* for *ktvā*; as it is *pit*, it is *anudātta*, so the root's accent remains; in the compound *kṛdutta rapadaprakṛtisvara* occurs. *hatāḥ* — root *han hiṃsāgatyoḥ*; *niṣṭhā* (*kta*) in the passive; *anudāttopadeśa* (Pā. 6-4-37 [as read]) drops the nasal of the root; the suffix accent. *amitrāḥ* — *ñañ…jaramaramitramṛtāḥ* (Pā. 6-2-165 [as read]) gives *ādyudātta* on the last member [sense of the note: the following member has the initial udātta]. *vailasthānam* — *bila kṣepe*; the suffix *ka* by the statement "*ghañarthe kavidhānam*"; because it is *kit* the *laghūpadhaguṇa* does not occur; *bila* itself is *vaila*; *prajñādibhyaś ca* (Pā. 5-4-38 [as read]) gives *aṇ* in the selfsame sense; *yasyeti ca* drops the previous *a*; *taddhiteṣv acām ādeḥ* gives *vṛddhi* of the first vowel; *vailasya sthānam*, *vailasthānam*: "*śmaśāna*" is the meaning. *tṛḷhāḥ* — root *tṛha hiṃsāyām*; *kta* in the passive; as it has *ū* as marker, *iṭ* is optional, by *yasya vibhāṣā* (Pā. 7-2-15 [as read]) the *kta* suffix gets no *iṭ*; *hoḍhaḥ* — by the sūtra the root's *ha* becomes *ḍha*; by *jhaṣas tathor dho 'dhaḥ* [as read] the *th* of the suffix becomes *dh*; by *ḍho ḍhe lopaḥ* the earlier *ḍh* is dropped; suffix accent as final udātta. *aśeran* — *śīṅ svapne*; *vyatyayo bahulam* (Pā. 3-1-85 [as read]) gives Parasmaipada; *laṅ* by Vedic usage; *jhi* (prathama puruṣa bahuvacana) the suffix *jhi* → *ran*; *ādeśa* by *śīṅo ruṭ* (Pā. 7-1-6 [as read]) the suffix gets *ruṭ*; because it is *ṭit*, the first… [the page continues to the next with the remaining details of *aśeran*].
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛk 1 written through p. 540 (grammar of *aśeran* continues on p. 541 — resume p. 541, PDF 562; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
