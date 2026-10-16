@@ -15729,4 +15729,50 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 651 (Special Topics done up to the *indravāyustavopasaṃhāra* section on the *upāṃśugraha*, Tai. Saṃ. quotations 1–7; the section runs on); resume p. 652 (PDF 673; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 652  (PDF 673)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Quotation 7 of p. 651, concluded; the end of the Sanskrit lines is poorly printed and I read it only in part [?]:)* …*śūnasya gṛhṇāti trāyata evainaṃ prāṇā vā aṃśavaḥ paśavaḥ somaḥ* … *kūśūnam api sṛjati prāṇān eva paśuṣu dadhāti dvidhā vyāvasi sṛjati tasmād dvau prāṇāḥ* [?]. (Tai. Saṃ. 6-4-1-[?] [?].)
+
+"*yat te somādābhyaṃ nāma jāgṛvi*" — by this mantra (which is free of delusion and of the nature of waking, and is of Soma) the *pratiprasthātṛ* takes the Soma-stalks, belonging to the Soma-king. He who knows this secret does not meet with ruin from Soma; if they press [the Soma], that is as if they kill it. He [the *pratiprasthātṛ*] places the Soma-stalks aside; therefore he protects it. The Soma-stalks are the breaths (*prāṇa*); Soma is the animals. By holding the stalks he gives breath to the animals. By taking the stalks in two ways, the principal breaths are in two forms.
+
+***upāṃśugrahasya mahimā*** *(Kannada heading "ಉಪಾಂಶುಗ್ರಹದ ಮಹಿಮೆ" — "The greatness of the *upāṃśugraha*").* After describing the nature of the *upāṃśu*-pressing as above, the greatness of the *upāṃśugraha* is praised (Tai. Saṃ. 6-4-[?], as read "೬-೪-೩" [?]); the rest of this is the sixth [section] of the Saṃhitā.
+
+1. By the mantra *vācaspataye pavasva vājin* the juice is poured into the vessel.
+
+> प्राणो वा एष यदुपांशुर्यदुपांशुग्रहो गृह्यते प्राणमेवानु प्रयन्ति कृष्ण [?] … । उपांशुपात्रेण सवनं विवाहं यज्ञꣳ संस्थापयामि तेन तत्र संस्थितेन चरामीत्येष्टः [?] कृत्वोऽग्रे [?] अभिपुनीत्यष्टाक्षरा गायत्री गायत्रं प्रातःसवनं प्रातःसवनमेव तेनाप्नोत्येकादशकृत्वो द्वितीयमेकादशाक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनꣳ सवनं माध्यंदिनमेव सवनं तेनाप्नोति द्वादशकृत्वस्तृतीयं द्वादशाक्षरा जगती जागतं तृतीयसवनं तृतीयसवनमेव तेनाप्नोत्येता वा ह वा स यज्ञस्य संस्थितिमुवाचास्कन्दायास्कन्नꣳ हि तद्यज्ञस्य संस्थितस्यास्कन्दति ॥
+
+> *prāṇo vā eṣa yad upāṃśur yad upāṃśugraho gṛhyate prāṇam evānu prayanti kṛṣṇa [?] … | upāṃśupātreṇa savanaṃ vivāhaṃ yajñaṃ saṃsthāpayāmi tena tatra saṃsthitena carāmīty eṣṭaḥ [?] kṛtvo 'gre [?] abhipunīty aṣṭākṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ prātaḥsavanam eva tenāpnoty ekādaśakṛtvo dvitīyam ekādaśākṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ mādhyaṃdinam eva savanaṃ tenāpnoti dvādaśakṛtvas tṛtīyaṃ dvādaśākṣarā jagatī jāgataṃ tṛtīyasavanaṃ tṛtīyasavanam eva tenāpnoty etā vā ha vā sa yajñasya saṃsthitim uvācāskandāyāskannaṃ hi tad yajñasya saṃsthitasyāskandati ‖*
+
+(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೨" [?]; this small-type passage is read from the image and is badly doubtful in the opening and closing portions [?]; only the sense is reliable.) *Sense, from the Kannada:* The *upāṃśu* is the breath of the sacrifice. Taking up the *upāṃśugraha* follows the breath at the beginning. "At the morning pressing I accomplish the sacrifice": he pours it eight times; the *gāyatrī* has eight syllables; the morning pressing belongs to the *gāyatrī*; therefore he who pours eight times accomplishes the morning pressing. At the midday pressing he pours eleven times; the *triṣṭubh* has eleven syllables; the midday pressing belongs to the *triṣṭubh*. At the evening pressing he pours twelve times; the *jagatī* has twelve syllables; the evening pressing belongs to the *jagatī*. By this the third pressing is obtained. This is called the establishment of the sacrifice; by it, any damage that might arise is avoided.
+
+### Printed p. 653  (PDF 674)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> अथो खल्वाहुर्गायत्री वाव प्रातःसवने नातिवादोऽत्र रक्षꣳसि [?] नैनं भ्रातृव्यो भवति य एवं वेद तस्मादेष्टव्येष्टव्यः कृत्वो [?] ऽभिपुनात्यथ [?] ब्रह्मवादिनो वदन्ति पवित्रवन्तोऽन्ये ग्रहा गृह्यन्ते किं पवित्र उपांशुरिति वाक्पवित्र इति ब्रूयाद्वाचस्पतये पवस्व वाजिन्नित्याह वाचैवैनं पवयति ॥
+
+> *atho khalv āhur gāyatrī vāva prātaḥsavane nātivādo 'tra rakṣaṃsi [?] nainaṃ bhrātṛvyo bhavati ya evaṃ veda tasmād eṣṭavyeṣṭavyaḥ kṛtvo [?] 'bhipunāty atha [?] brahmavādino vadanti pavitravanto 'nye grahā gṛhyante kiṃ pavitra upāṃśur iti vākpavitra iti brūyād vācaspataye pavasva vājinn ity āha vācaivainaṃ pavayati ‖*
+
+(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೩, ೩" [?]; read from the image; several words doubtful [?].) At the morning pressing [the question is whether the *gāyatrī* is exceeded]; there is no excessive speech there. He who knows this has no enemy for himself. Therefore the rule is that [the cup] be taken [in this way] so many times; and when the *brahmavādins* ask: "the other cups are purified with the *pavitra* (the strainer of ten fringes); what is the strainer for the *upāṃśu*?", [the answer is], "speech is the purifier; he purifies it with speech: *vācaspataye pavasva vājin*." The mantra itself is the purifier.
+
+> वृष्णो अꣳशुभ्यामित्याह वृष्णो ह्येतावꣳशू यौ सोमस्य गभस्तिपूत इत्याह गभस्तिना ह्येनं पवयति देवो देवानां पवित्रमसीत्याह देवो ह्येष सन्देवानां पवित्रं येषां भागोऽसि तेभ्यस्त्वेत्याह येभ्यो ह्येष भागस्तेभ्य एनं गृह्णाति ।
+
+> *vṛṣṇo aṃśubhyām ity āha vṛṣṇo hy etāv aṃśū yau somasya gabhastipūta ity āha gabhastinā hy enaṃ pavayati devo devānāṃ pavitram asīty āha devo hy eṣa san devānāṃ pavitraṃ yeṣāṃ bhāgo 'si tebhyas tvety āha yebhyo hy eṣa bhāgas tebhya enaṃ gṛhṇāti |*
+
+(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೩, ೪" [?].) By such sentences the self-purity of the Soma-stalk is explained.
+
+2. By the mantra *svāṃ kṛto 'si* the vessel is rinsed and purified.
+
+> स्वांकृतोऽसीत्याह प्राणमेव स्वमकृत मधुमतीर्न इषस्कृधीत्याह सर्वमेवास्मा इदꣳ स्वदयति विश्वेभ्यस्त्वेन्द्रियेभ्यो दिव्येभ्यः पार्थिवेभ्य इत्याहोभयेष्वेव देवमनुष्येषु प्राणान्दधाति ॥
+
+> *svāṃkṛto 'sīty āha prāṇam eva svam akṛta madhumatīr na iṣas kṛdhīty āha sarvam evāsmā idaṃ svadayati viśvebhyas tvendriyebhyo divyebhyaḥ pārthivebhya ity āhobhayeṣv eva devamanuṣyeṣu prāṇān dadhāti ‖*
+
+(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೪" [?].) Saying "*you are made our own*" he makes the breath his own; praying "make our food sweet" he makes all this sweet for him; saying "for all your powers, heavenly and earthly" he places breaths among both gods and men.
+
+3. By mantras such as *manas tvāṣṭūrvantarikṣam anviha svāhā*, the adhvaryu goes to the *āhavanīya* fire and offers the juice in the vessel to the fire.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 653 (the *indravāyustavopasaṃhāra* section on the *upāṃśugraha*, Tai. Saṃ. quotations, mantras 1–3; the section runs on and covers the *antaryāma* and *aindravāyava* cups); resume p. 654 (PDF 675; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
