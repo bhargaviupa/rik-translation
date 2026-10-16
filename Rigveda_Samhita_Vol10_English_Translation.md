@@ -1425,4 +1425,155 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 49 (PDF 70): Ṛks 9–10 complete; Ṛk 11 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha done; the printed English of Ṛk 11 begins on p. 49 and continues on p. 50 (PDF 71, "…may be" — to be completed there). Printed page = PDF − 21. No OCR beyond printed p. 36; grammar-page sūtra numbers on pp. 41–49 are omitted (small type); doubtful readings `[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 50  (PDF 71)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Printed English of Ṛk 11 (concluded, as printed):** *…propitiated by the greatness of the (sacrificial) wealth presented to you by the sacrificer, who acknowledges no other protector.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 11.**
+
+***adha*** — The *th* of the word *atha* has become *dh* in the Vedic way. "Afterwards" is the sense.
+
+***gmantā*** — the final syllable of this word is lengthened in the Saṃhitā text, for the sake of the metre.
+
+***nahuṣaḥ*** — since the word *nahuṣaḥ* is recorded among the twenty-five names of man, *manuṣyāḥ, narāḥ* and so on (Ni. 2-2 [?], as read), *nahuṣaḥ* means "of man". Here the word *nahuṣaḥ* is the genitive singular of the word *nahus*.
+
+***sūreḥ*** — *stotrādipreṇakasya*: "of the one who impels praise and so on". Since the word *sūri* is recorded in the group of thirteen names of praisers beginning with *rebhaḥ, jaritā* (Ni. 3-1[?], as read), *sūreḥ* means "of one who makes praise and so on".
+
+***amṛtasya*** — the bhāṣyakāra has given for this word the ordinary meaning *amaraṇasya*, "of the deathless". Since this word is an epithet of *nahuṣaḥ* — "of man (of me)" — the doubt naturally arises how a man can be deathless. The bhāṣyakāra has not given a proper explanation of this.
+
+***mandrāḥ*** — *mādayitāraḥ*: "makers of delight".
+
+***nabhojuvaḥ*** — *nabhasi vyāptāḥ*: "pervading the sky"; those who stand in the place of the middle region.
+
+***niravasya*** — *nirgatarakṣakasya | yuṣmadvyatirekeṇa rakṣakāntararahitasya*: "of one who has no other protector besides you"; or, *nirgato mukhād uccarito ravaḥ śabdaḥ stotrarūpo yasya tādṛśasya* — "one from whose mouth a sound in the form of praise comes forth", that is, "one who praises".
+
+***rathavate*** — here the dative stands in place of the genitive: for *rathavataḥ*, the word *rathavate*; "of the sacrificer who has a chariot".
+
+***praśastaye*** — *praśaṃsitum kāmayadhve*: "you wish to praise"; therefore hear our invocation and come here — that is the sense.
+
+***rādhaḥ*** — *samṛddhisādhanaṃ havirlakṣaṇaṃ saṃrādhakaṃ stotraṃ vā*: "the oblation that is the means of prosperity, or the praise that gives satisfaction" — that is, for praising the food in the form of oblation which we have prepared for prosperity, or the praise which we offer in a special way.
+
+### Printed p. 51  (PDF 72)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* The greater part of this ṛk, and in it the second half, is full of difficulties. The meaning does not fit properly; the word *amṛtasya* in the first half is opposed to the nature of man: all men must be subject to death, so how can they be deathless? In the second half too, the use of the word *rathavate* cannot be explained as it ought to be, as the sacrificing *yajamāna* who is said to be fed; and since there is no verb in this sentence, neither the main intention of the sentence nor the seer's meaning is clear.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 11, noted briefly; sūtra numbers not reproduced).** *Adha* — when *atha* is said, the *dh* replaces the *th* by *vyatyaya*. *Gmanta* — the root *gamḷ gatau*; *chandasi luṅlaṅliṭaḥ* — *laṅ* in the sense of the imperative; by *vyatyayo bahulam* the suffix *jhi* … in the second-person plural; *bahulaṃ chandasi* the *luk* of the vikaraṇa; *sārvadhātukam apit* — since the suffix is *ṅit*-like, *gamahanajana…* the loss of the penultimate of the root; the suffix *jhi* … *jhoṃtaḥ* — the *ant*; *bahulaṃ chandasy amāṅyoge 'pi* — the augment *aṭ* is not [added]; since *adha* is connected as an *nipāta*, *nipātair yad yady…* the *nighāta* is prevented, so the suffix's first acute remains. *Havam* — the root *hveñ spardhāyāṃ śabde ca*; in the sense of action by *bhāve 'nupasargasya* the suffix *ap*; *saṃprasāraṇa*, *saṃprasāraṇācca* the *pūrvarūpa*; taking the suffix as the cause, by *sārvadhātukārdhadhātukayoḥ* the guṇa for the *u*; *av*-substitution; the suffix is *pit*, so it is unaccented, and the root accent remains; accusative singular. *Śrota* — the root *śru śravaṇe*; *loṭ*, 2nd plural, with the *lat*-like *ta*-substitute; by *bahulaṃ chandasi* the *luk* of *śap*; by *vyatyaya* the guṇa of the root's *u* with the suffix as the cause; since it stands at the beginning of the verse-quarter, no *nighāta*; the root accent remains; *dvyaco 'tastiṅaḥ* — in the Saṃhitā the lengthening of the *i*. *Rājānaḥ* — the root *rājṛ dīptau*; the *uṇādi* suffix *kanin*; nominative plural in the vocative; *āmantritasya ca* the *nighāta*.
+
+### Printed p. 52  (PDF 73)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 11).** *Amṛtasya* — the root *mṛṅ prāṇatyāge*; the suffix *kta* in the sense of the action; *na vidyate mṛtaṃ yasya saḥ tasya*; *ñño jaramarami…* — the initial acute of the latter member [*amṛtāḥ*]. *Nabhojuvaḥ* — *ju* is a *sautra* root; used in the sense of motion; the suffix *kvip*; *gatikārakopapadāt kṛt* — the accent of the latter member. *Praśastaye* — the root *śaṃsu stutau*; in the sense of action by *striyāṃ ktin* the suffix *ktin*; *anidita…* the loss of the nasal; *tādau ca niti* the prefix (*pra*) keeps its own accent; dative singular. *Mahinā* — the word *mahiman*; in the instrumental singular by *alopo 'naḥ* the loss of the *a* of *an*, and in the Vedic way the loss of the *kāra* too. *Rathavate* — *rathaḥ asya asti iti rathavān*; the suffix *matup* by *tad asyāsti…*; *mādupadhāyāś ca matorvo 'yavādibhyaḥ* the *m* becomes *v*; *vivakṣātaḥ kārakāṇi bhavanti* — hence the dative in the sense of the genitive; the suffix is *pit*, so it is unaccented. ‖ 11 ‖
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> वि [?] तं शर्धं धाम यस्य सूरेरित्यवोचन् दशतयस्य नंशे ।
+> द्युम्नानि येषु वसुताती रारन्विश्वे सन्वन्तु प्रभृथेषु वाजम् ॥ १२ ॥
+
+> *vi [?] taṃ śardhaṃ dhāma yasya sūrerityavocan daśatayasya naṃśe |*
+> *dyumnāni yeṣu vasutātī rāranviśve sanvantu prabhṛtheṣu vājam ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> वि [?]तम् । शर्धम् । धाम । यस्य । सूरेः । इति । अवोचन् । दशतयस्य । नंशे ।
+> द्युम्नानि । येषु । वसुऽताती । रारन् । विश्वे । सन्वन्तु । प्रऽभृथेषु । वाजम् ॥ १२ ॥
+
+> *vi [?]tam | śardham | dhāma | yasya | sūreḥ | iti | avocan | daśatayasya | naṃśe |*
+> *dyumnāni | yeṣu | vasu 'tātī | rāran | viśve | sanvantu | pra 'bhṛtheṣu | vājam ‖ 12 ‖*
+
+*(The first word of the Ṛk is not settled letter by letter; the Saṃhitā and Pada print the same syllables.)*
+
+### Printed p. 53  (PDF 74)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Dense small type at 150 dpi; read letter by letter, with doubtful words marked `[?]`.)*
+
+> यस्य सूरेर्हविरादिप्रेरकस्य यजमानस्य सम्बन्धिनो दशतयस्य दशेन्द्रियसंवर्धकत्वेन दशावयवस्यान्नस्य नंशे प्राप्तये वयमाहूताः स्म तस्मै यजमानायैतमिदानीं दात्रव्यत्वेन [?] वर्तमानं शर्धं परेषामभिभावकमन्नं तत्प्राप्तिहेतुं बलं वा धाम विदधाम [?] करवामेत्यवोचन् देवाः ॥ धाम । दधातेर्लुजि [?] … येषु देवेषु द्युम्नानि द्योतमानान्यन्नानि वसुताति[र्वसू]नां धनानां तातिर्विस्तारो वसून्येव वा रारन् रमन्ते भृशम् । तातिः । तनोतेः क्तिनि व्यत्ययेनात्वम् । तेषु विश्वे सर्वे देवाः प्रभृथेषु प्रकृष्टभरणेषु यागेषु वाजमन्नं सन्वन्तु ददतु । प्रयच्छन्तु ॥ षणु दाने ॥ यद्वा यस्य सूरेः स्तुतिकर्तुः दशतयस्य दश चमसेष्ववस्थितस्य सोमस्य प्राप्तये वयमाहूताः स्म तस्मादेतं शर्धं धामेत्यवोचन् …
+
+> *yasya sūrerhavirādiprerakasya yajamānasya sambandhino daśatayasya daśendriyasaṃvardhakatvena daśāvayavasyānnasya naṃśe prāptaye vayamāhūtāḥ sma tasmai yajamānāyaitamidānīṃ dātravyatvena [?] vartamānaṃ śardhaṃ pareṣāmabhibhāvakamannaṃ tatprāptihetuṃ balaṃ vā dhāma vidadhāma [?] karavāmetyavocan devāḥ ‖ dhāma | dadhāterluji [?] … yeṣu deveṣu dyumnāni dyotamānānyannāni vasutāti[rvasū]nāṃ dhanānāṃ tātirvistāro vasūnyeva vā rāran ramante bhṛśam | tātiḥ | tanoteḥ ktini vyatyayenātvam | teṣu viśve sarve devāḥ prabhṛtheṣu prakṛṣṭabharaṇeṣu yāgeṣu vājamannaṃ sanvantu dadatu | prayacchantu ‖ ṣaṇu dāne ‖ yadvā yasya sūreḥ stutikartuḥ daśatayasya daśa camaseṣvavasthitasya somasya prāptaye vayamāhūtāḥ sma tasmādetaṃ śardhaṃ dhāmetyavocan …*
+
+*(The rest of the page is the grammar tail: *dhāma* — from the root *dadhāti* with a *luṅ*…; *tātiḥ* — from the root *tan* with *ktin*, with *ātva* by *vyatyaya*; *rāran* — *rā dāne*, *leṭ*, in the Vedic way *śap* with *śluḥ*, *chandasy ubhayathā…* the loss of the *ā* of the root and of *iṭ*; reduplicative syllable… — only characterised.)*
+
+"[The gods said:] 'We were called for the sake of obtaining (*naṃśe*) the *daśataya* — the tenfold, i.e. the food of ten parts, as it increases the ten organs — [belonging] to the sacrificer who is the impeller of oblations and the rest (*sūri*). For that sacrificer we, at this time, establish (*vidadhāma*) this *śardha* (the food that overcomes the others, or the strength that is the means of getting it) as what is to be given' — thus the gods said. [For] in the gods in whom *dyumnāni*, the shining foods, are [found], *vasutātiḥ*, the spreading of wealth — or *rāran*, they delight greatly in treasures —; may all those gods give (*sanvantu*, let them give, let them bestow) food at the *prabhṛtheṣu*, the sacrifices with excellent preparations." Or else: "of the Soma standing in the ten *camasa* cups, of the praiser (*sūri*) — we were called for obtaining it; therefore the gods said: 'this *śardha* we establish'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yasya sūreḥ* — of which praising sacrificer; *daśatayasya* — (ten-sense-organ-increasing) of the food with ten parts; *naṃśe* — for obtaining (we who have been called); (*tasmai* — to that sacrificer); *etam* — this (now to be given); *śardham* — food that gives strength to overcome others; *dhāma* — we give; *iti avocan* — thus (the gods) said; *yeṣu* — in which gods; *dyumnāni* — shining foods and the like; *vasutātiḥ* — the wealth too; *rāran* — delighting; (*te* — those); *viśve* — all (gods); *prabhṛtheṣu* — in sacrifices where excellent preparations are made; *vājam* — food; *sanvantu* — let them give. [Or: *yasya sūreḥ* — of which sacrificer; *daśatayasya* — [of the Soma that stands] in the ten *camasas*; *naṃśe* — for obtaining (we are called); *tasmai* — for that sacrificer; *etaṃ śardham* — this food; *dhāma* — we give; *ity avocan* — (the gods) said (therefore).]
+
+### Printed p. 54  (PDF 75)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Pratipadārtha, concluded:** *yeṣu* — in which sacrifices; *vasutātiḥ* — the wealth in the form of oblation, spreading (the priests); *dyumnāni* — excellent oblations; *rāran* — delighting; (*teṣu* — in those); *prabhṛtheṣu* — in sacrifices with excellent preparations; *vājam* — food in the form of Soma; *viśve* — all the gods; *sanvantu* — let them accept.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** (The gods say: "Accepting [the oblation], to the sacrificer who invokes us [with the ten organs' increasing offering] we give this food of ten parts, which gives strength": thus the Viśvedevas say.) May the Viśvedevas, who are endowed with shining food and the like and with wealth, accept the food and the like in these sacrifices that we have prepared. Or else, "to the sacrificer who invokes us to drink the Soma-juice prepared in the ten *camasas*, [we give] the strength-increasing food": thus say the Viśvedevas; may they accept the oblations in the form of Soma-juice, prepared by the priests who offer the oblation.
+
+**Printed English (as printed):** *The gods have declared—"We confer present vigour upon the worshipper (who invokes us) to partake of the decupled (libation)" May all (the gods) in whom splendours and riches abound, bestow (abundant) food at (solemn) sacrifices.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 12.**
+
+***śardham*** — Among the twenty-eight names of strength beginning *ojaḥ, pājaḥ*, the word *śardha* is recorded (Ni. 2-9 [?], as read), so *śardha* means strength. The bhāṣyakāra has given, in this ṛk, for the word *śardha* the meaning *balam* and, as *pareṣām abhibhāvakam annam* — "food that gives the capacity to overcome others (enemies)". Besides this, in other ṛks, according to the context, he has given different meanings to this word. For example:
+
+> क्रीळं वः शर्धो मारुतमनर्वाणं रथे शुभम् । कण्वा अभि प्र गायत ॥
+
+> *krīḷaṃ vaḥ śardho mārutamanarvāṇaṃ rathe śubham | kaṇvā abhi pra gāyata ‖*
+
+(Ṛ. Saṃ. 1-37-1, as read.) In this ṛk *śardha* means strength; and in
+
+> प्र शंसा गोष्वघ्न्यं क्रीळं यच्छर्धो मारुतम् । जम्भे रसस्य वावृधे ॥
+
+> *pra śaṃsā goṣvaghnyaṃ krīḷaṃ yacchardho mārutam | jambhe rasasya vāvṛdhe ‖*
+
+(Ṛ. Saṃ. 1-37-5 [?], as read.) *śardhaḥ* — *prasahanaśīlaṃ tejaḥ*: "a power that overpowers" — that is, an unobstructed brilliance (*tejas*), he says.
+
+### Printed p. 55  (PDF 76)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Special topics, Ṛk 12 (continued).** ***śardham*** (continued):
+
+> इन्द्रं मित्रं वरुणमग्निमूतये मारुतं शर्धो अदितिं हवामहे ।
+
+> *indraṃ mitraṃ varuṇamagnimūtaye mārutaṃ śardho aditiṃ havāmahe |*
+
+(Ṛ. Saṃ. 1-10[?]-2 [?], as read.) In this ṛk *mārutaṃ śardhaḥ* means the strength of the Maruts — a strength in the form of a group-power.
+
+> स हि शर्धो न मारुतं तुविष्वणिरप्नस्वतीषूर्वरास्विष्टनिरार्तनास्विष्टनिः ।
+
+> *sa hi śardho na mārutaṃ tuviṣvaṇirapnasvatīṣūrvarāsviṣṭanirārtanāsviṣṭaniḥ |*
+
+(Ṛ. Saṃ. 1-127-6 [?], as read.) In this ṛk *mārutaṃ śardhaḥ* is explained as the strength of the Maruts — or the strength in the form of the group-power of the deities, the Maruts, which ordinarily this word indicates; and in ṛks such as Ṛ. Saṃ. 1-1[?]-[?]; 1-1[?]-[?] it is used of Agni too. Since food, or sustenance, is a strengthener of power, the bhāṣyakāra has taken the word in the ṛk in hand as food that gives strength.
+
+***daśatayasya*** — *daśendriyasaṃvardhakatvena daśāvayavasyānnasya*: "of the food of ten parts, as it increases the ten organs" — that is, food that nourishes the body that has ten organs. In the next ṛk of this same Sūkta [that is, Ṛ. Saṃ. 1-12?-? `[?]`] this word occurs; there the bhāṣyakāra says *daśatayasya dhāseḥ dāśendriyatṛptisādhanatvena daśāvayavasyānnasya* … *daśacamasagṛhītatvād annasya daśavidhatvam* — he explains it as "ten kinds of food that are the means of satisfying the ten organs". [As] the food (or Soma) is held in ten *camasa* vessels, there are ten kinds. And in
+
+> मा मामेधो दशतयश्चितो धाक् प्र यद्वां बद्धस्त्मनि खादति ष्ठाम् ।
+
+> *mā māmedho daśatayaścito dhāk pra yadvāṃ baddhastmani khādati ṣṭhām |*
+
+(Ṛ. Saṃ. 1-158-4 [?], as read.) the bhāṣyakāra has explained the word *daśatayaḥ* as "*daśayaḥ* — dwelling [in the ten]". Hence the word *daśataya* has only the meaning "ten-fold" or "of ten kinds". In the context in hand it is explained, so as to fit it, as "that which is the means of satisfying the ten organs".
+
+***naṃśe*** — *daśatayasya naṃśe* — "to us, [the sacrificers] who offer food in the form of oblation and call [you], give the food that gives strength to bring about the defeat of enemies" — thus the gods speak among themselves; that is the sense.
+
+***dyumnāni*** — Among the twenty-eight names of wealth, *mahaṃ rekṇaḥ* and so on, the word *dyumna* is recorded (Ni. 2-10 [?], as read), so *dyumnāni* means "riches". In this ṛk the bhāṣyakāra has explained *dyotamānānnāni*:
+
+### Printed p. 56  (PDF 77)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* "foods that shine, that is, nourishing foods" (Ni. 5-5 [?], as read). Yāska says: *dyumnaṃ dyotateḥ yaśo vā annaṃ vā* — "*dyumna* is from *dyut*, 'to shine': glory, or food" — and with this derivation (of "the glory that shines well, or food"), to support this meaning:
+
+> शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु ।
+> जहि वर्धर्नुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥
+
+> *śataṃ te śiprinnūtayaḥ sudāse sahasraṃ śaṃsā uta rātirastu |*
+> *jahi vardharnuṣo martyasyāsme dyumnamadhi ratnaṃ ca dhehi ‖*
+
+(Ṛ. Saṃ. 2-3[?]-[?], as read.) — they have cited this ṛk as an example.
+
+***vasutātiḥ*** — *vasūnāṃ dhanānāṃ tātir vistāraḥ*: "the spread (abundance) of wealth" — wealth in abundance, abundant wealth. The word *vasutāti* occurs in the ṛk that follows and nowhere else. For this word the bhāṣyakāra [says] *vasutātir vasūnāṃ haviḥ-lakṣaṇānāṃ dhanānāṃ vā vistārayitāra ṛtvijaḥ | vacanavyatyayaḥ* — "the priests who spread the wealth in the form of oblations; the number is changed [from plural to singular]"; since the priests offer oblation-wealth, "*vasutātiḥ*" means the priests. Here he has said the singular is used in place of the plural by *vyatyaya*.
+
+***prabhṛtheṣu*** — *prakṛṣṭabharaṇeṣu yāgeṣu*: "in sacrifices which are attended with excellent preparations" — in sacrifices equipped with excellent materials.
+
+As the main intention of the second half of this ṛk, one may say, according to the opinion of the Western scholar Wilson: "all the deities should come and accept the foods in the form of Soma, which the priests offer abundantly in the sacrifice."
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 12, noted briefly; sūtra numbers not reproduced).** *Dhāma* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ* — *loṭ*-sense in *luṅ*; in the 1st person plural the suffix *mas*; *nityaṃ ṅitaḥ* — the *s* is dropped; when *cli* comes, *sic*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — its *luk*; *bahulaṃ chandasy amāṅyoge 'pi* — the *aṭ* augment does not come; after an *atiṅanta* the *nighāta*. *Avocan* — the root *vaca paribhāṣaṇe*; *luṅ*, 3rd plural, the suffix *jhi*; elision of the *i*; *jhoṃtaḥ* — the *ant*; when *cli* comes, *asyativakti khyātibhyo 'ṅ* — the *aṅ*; *vaca um* — …
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 56 (PDF 77): Ṛks 11–12 done; the grammar page of Ṛk 12 begins on p. 56 (*dhāma*, *avocan*) and continues on p. 57 (PDF 78). Printed page = PDF − 21. No OCR beyond printed p. 36; sūtra numbers on grammar pages pp. 41–56 are omitted (small type); doubtful readings `[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
