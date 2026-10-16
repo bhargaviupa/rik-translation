@@ -15295,4 +15295,88 @@ The nature of the Soma-juice is described: [it is] pressed with the specified ri
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 written through p. 637 (Special Topics begun: the *upāṃśugraha* mantras of the Taittirīya Saṃhitā, mantra 1 done; the list continues on p. 638); resume p. 638 (PDF 659; crop from PDF 661 on); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 638  (PDF 659)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Continuing mantra 1 of the *upāṃśugraha* series, from p. 637, as the Kannada explains it:)* …"become pure by the mantras. Just as before, in the forest, you were purified by the rays of the sun, so now you are purified again by the Soma-filaments hidden [within the strainer]. You are the cause of purity also for the one who drinks you, the deity among the gods; I take you for those deities to whom you are assigned and carry you to them." [In this part of the *upāṃśugraha* rite, the *pratiprasthātṛ* holds a vessel and the adhvaryu pours the juice into it. In that vessel the juice must be purified, having two portions. This procedure is to be done in order, reciting the mantra-part *vācaspataye pavasva*.]
+
+2. > स्वां कृतोऽसि मधुमतीर्न इषस्कृधि विश्वेभ्यस्त्वेन्द्रियेभ्यो दिव्येभ्यः पार्थिवेभ्यः ।
+
+   > *svāṃ kṛto 'si madhumatīr na iṣas kṛdhi viśvebhyas tvendriyebhyo divyebhyaḥ pārthivebhyaḥ |*
+
+   (Read from the image; the first word is doubtful [?].) "O *upāṃśugraha*, you have been accepted by us; make our food sweet. For all your powers — heavenly and earthly — I accept you." [With this mantra the vessel is taken and, looking at it, [the *adhvaryu*] pours it out in a *homa* [?].]
+
+3. > मनस्त्वाष्टु ।
+
+   > *manas tvāṣṭu |*
+
+   "May the mind pervade you." [With this mantra the *upasthāna*.]
+
+4. > उरुं अन्तरिक्षमन्विहि ।
+
+   > *uruṃ antarikṣam anvihi |*
+
+   "Go through the wide *antarikṣa*, favour the place of the *āhavanīya*." [Reciting this mantra the adhvaryu goes to the place of the *āhavanīya*.]
+
+5. > स्वाहा त्वा सुभवः सूर्याय ।
+
+   > *svāhā tvā subhavaḥ sūryāya |*
+
+   "*Svāhā* — to the Sun, easy to reach [?]." [With this mantra the juice is poured into the fire.]
+
+6. > (स्वाहा) देवेभ्यस्त्वा मरीचिपेभ्यः ।
+
+   > *(svāhā) devebhyas tvā marīcipebhyaḥ |*
+
+   [This too is the above.] It is one procedure; or another procedure is to say together "*svāhā tvā subhavaḥ sūryāya devebhyas tvā marīcipebhyaḥ*" and offer.
+
+7. > एष ते योनिः प्राणाय त्वा ।
+
+   > *eṣa te yoniḥ prāṇāya tvā |*
+
+   "This is your birth-place; [I take you] for the breath." [Reciting this mantra, a vine is to be put into the vessel in which the remainder is poured, the *agrayaṇa* vessel.]
+
+The same procedure with slight differences is described in the Śatapatha Brāhmaṇa in sentences like *atha rājānam upāvaharati | iyaṃ vai pratiṣṭhā* (Śa. Brā. [?]-[?]-[?]-[?] to [?], as read "೪-೯-೩-೨ ರಿಂದ ೩೩" [?]), which tell the duties of the *adhvaryu* and that he takes the prepared Soma for the offering.
+
+***śukrāḥ*** — *śubhrāḥ dīptāḥ*: "pure, shining" is the meaning.
+
+***pavitram*** — it is difficult to give a precise meaning for the word *pavitra*. *Ūrṇāmayaṃ pavitraṃ somāntardhāyakam* — "the strainer made of wool, which hides the Soma": that is, this strainer is made of *ūrṇā* (wool); [the juice] is poured on it and purified.
+
+### Printed p. 639  (PDF 660)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+*(Continuing:)* …it is one method that the juice is purified when placed within the woollen cloth; or this person [the adhvaryu], having made [the cloth] an instrument that cleans like a sieve, pours the juice on it and purifies it — there is also this way. Probably something like that is suggested here.
+
+The author of the Nirukta has given different meanings of this word, but to show that the purpose is the same: *pavitraṃ punāteḥ* (Ni. 5-[?], as read "೫-೭" [?]) — "since it purifies, it is called *pavitra*"; and he takes sentences such as
+
+1. > मन्त्रः पवित्रमुच्यते ।
+
+   > *mantraḥ pavitram ucyate |*
+
+   "the mantra is called *pavitra*": *yena devāḥ pavitreṇātmānaṃ punate sadā* (Sāmaveda [?]-[?]-[?]-[?], as read "೩-೨-೪-೩; ೨-೮೯೩" [?]) — taking this sentence, [Yāska] shows there the meaning "mantra"; 2. *raśmayaḥ pavitram ucyante* — "the rays are also called *pavitra*"; 3. *āpaḥ pavitram ucyante* — "the waters are called *pavitra*", and
+
+> शतपवित्राः स्वधया मदन्तीर्देवीर्देवानामपि यन्ति पाथः ।
+
+> *śatapavitrāḥ svadhayā madantīr devīr devānām api yanti pāthaḥ |*
+
+(Ṛ. Saṃ. 2-[?]-[?], as read "೨-೪೨-೩" [?].) — taking this Ṛk, he shows there the meaning "water". But in the present Ṛk, "to purify" is the meaning only; none of the meanings given by the author of the Nirukta — water, rays, mantra — applies. It means only an instrument of filtering. Sometimes one puts a mass of *darbha*-grass on the vessel and purifies the juice above it. Here, as explained as *ūrṇāmayam*, [the strainer] is made of a cloth of wool:
+
+> उच्छ्वञ्चस्व चन्वोर्भर सोमं पवित्र आ सृज । नि धेहि गोरधि त्वचि ॥
+
+> *ucchvañcasva canvor bhara somaṃ pavitra ā sṛja | ni dhehi gor adhi tvaci ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೨೮-೯" [?].) In this Ṛk, *daśāpavitra* ("the strainer with ten fringes") is meant. (This word has been explained in the previous Ṛk.) The *daśāpavitra* is just a cloth. Here, since it is said that [the juice] goes through *avyayā romāṇi ati* ("fine hairs"), it is understood that it is the woollen cloth that is meant; hence Sāyaṇa explained it as *avi-romāṇi* ("sheep-hairs"):
+
+> अव्ये वधूयुः पवते परि त्वचि श्रथ्नीते नप्तीरदितेरृतं यते ।
+> हरिरक्रान्यजतः संयतो मदो नृम्णा शिशानो महिषो न शोभते ॥
+
+> *avye vadhūyuḥ pavate pari tvaci śrathnīte naptīr aditer ṛtaṃ yate |*
+> *harir akrān yajataḥ saṃyato mado nṛmṇā śiśāno mahiṣo na śobhate ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೯೬-೧೩" [?]; the quotation is partly doubtful [?].) As in Ṛks like this, where *avye tvaci* means "in the woollen skin", so here too the word *avya*, in the sense of "belonging to sheep", is connected [and explained] for *avyayaḥ somāsaḥ*…
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 written through p. 639 (Special Topics: the *upāṃśugraha* mantras 1–7 and *pavitram* done; the sentence on *avyayāḥ somāsaḥ* breaks off at the foot of p. 639); resume p. 640 (PDF 661; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
