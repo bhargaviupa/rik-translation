@@ -13397,4 +13397,42 @@ The Sūkta's first two Ṛks are to be used by the Hotṛ's assistant, the Acch�
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–5 complete (Special Topics 549–555 with [refs] for the numeral pass); Ṛk 6 written through p. 560 (bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics up to Wilson's note on *trisaptaiḥ*, which opens p. 560 and continues on p. 561; resume p. 561, PDF 582; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 561  (PDF 582)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+*(Wilson's note on *trisaptaiḥ*, begun on p. 560, printed in English:)* "*trisaptaiḥ śūra sattvabhiḥ* — The Scholiast explains it *tribhiḥ saptabhirvā anucaraiḥ* [as printed: *anucarye*], but gives no further interpretation; Indra's followers, the Maruts are forty-nine, so that they cannot be intended; and *sattvabhiḥ* must mean something else; perhaps an allusion is intended to the seven platters to Maruts repeated at the three daily rites or attended by the beings i.e. the Maruts, to whom the thrice seven offerings are presented." — thus he explains the meaning.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *avaḥ* — *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39 [as read]) gives the suffix *asi* in the sense of "[direction]" to the word [*avara*]; it being a *para* [?], *an* is substituted for the stem; the form *avas*; by *amnarūdharavarity ubhayathā chandasi* (Pā. 8-2-70 [as read]) a *repha* [replaces the *s*]. *mahaḥ* — root *maha pūjāyām*; *kvip ca* gives the *kvip* suffix; genitive singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 [as read]) gives the udātta to the case-ending; the genitive is in the sense of *karman* [i.e. object]. *dādṛhi* — root *dṛ vidāraṇe*; *loṭ* second person singular, *sip*, replaced by *hi*; *bahulaṃ chandasi* (Pā. 2-4-73 [as read]) the *vikaraṇa* [*śap*] is *luk*-ed; *ślau* doubling of the root; *ced*… by the sūtra-statement the *nighāta* is prohibited and the final udātta by suffix-accent; in the Saṃhitā, by Vedic usage, the reduplicate is long. *śrudhi* — root *śru śravaṇe*; as before the *hi* suffix; *śṛṇuprucchikṛ…* (Pā. 6-4-102 [as read]) gives *dhi*; *bahulaṃ chandasi* [elision] of the *vikaraṇa*; no *guṇa*, as the suffix is [*ṅit*]; no *nighāta* as it is the beginning of a pāda; final udātta as before; *dvyacas tasyajaḥ* [as read] gives long in the Saṃhitā. *śuśoca* — root *śuca śoke*; *liṭ* third person singular; *tiṅ* → *ṇal*; doubling of the root; the *laghūpadha guṇa* because of the suffix; *liti* (Pā. 6-1-193 [as read]) gives the udātta to the syllable before the suffix. *kṣāḥ* — root *kṣai jai pai kṣaye*; *kṣāyanti nivasanty asyām iti kṣāḥ*; *kvip* in the sense of *adhikaraṇa*; *ādeca upadeśe 'śiti* (Pā. 6-1-45 [as read]) gives *ā* to the root.
+
+### Printed p. 562  (PDF 583)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Grammar, continued.)* *śuṣmintamaḥ* — root *śuṣa śoṣaṇe*; *avisivi…* (Uṇ. 1-[?], as read "೧-೧೪೧" [?]) gives the *man* suffix; *śuṣmo 'syāstīti śuṣmī*; the suffix *ini* in the sense of *matup*; to this, in the sense of intensity, *tamap* is added; as it is *anudātta*, the vowel *i* has its own accent. *vadhaiḥ* — root *han hiṃsāgatyoḥ*; *hanasya vadhaḥ* (Pā. 3-3-76 [as read]) [*ap* suffix and] *vadha*-substitute for the stem; as the accent of *udātta* has ceased, the suffix is udātta. *īyase* — root *īṅ gatau*; *divādi*; *laṭ* second person singular, *thās*; *thāsaḥ se* gives *se*; *divādibhyaḥ śyan* (Pā. 3-1-69 [as read]) *śyan* as *vikaraṇa*; *hi ca* (Pā. 8-1-34 [as read]) prohibits the *nighāta*; *tāsyanudāttenṅit* [as read] (Pā. 6-1-186 [as read]) since the *lasārvadhātuka* is *anudātta* the *vikaraṇa* [*śyan*] being *nit*, the ādyudātta accent occurs. *apratīta* — root *iṅ smaraṇe* [as read]; *kta* suffix; in the vocative the *āmantrita-nighāta* accent. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> वनोति हि सुन्वन्क्षयं परीणसः सुन्वानो हि ष्मा यजत्यव द्विषो देवानामव द्विषः ।
+> सुन्वान इत्सिषासति सहस्रा वाज्यवृतः ।
+> सुन्वानायेन्द्रो ददात्याभुवं रयिं ददात्याभुवम् ॥ ७ ॥
+
+> *vanoti hi sunvankṣayaṃ parīṇasaḥ sunvāno hi ṣmā yajatyava dviṣo devānāmava dviṣaḥ |*
+> *sunvāna itsiṣāsati sahasrā vājyavṛtaḥ |*
+> *sunvānāyendro dadātyābhuvaṃ rayiṃ dadātyābhuvam ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> वनोति । हि । सुन्वन् । क्षयम् । परीणसः । सुन्वानः । हि । स्म । यजति । अव । द्विषः । देवानाम् । अव । द्विषः ।
+> सुन्वानः । इत् । सिषासति । सहस्रा । वाजी । अवृतः ।
+> सुन्वानाय । इन्द्रः । ददाति । आऽभुवम् । रयिम् । ददाति । आऽभुवम् ॥ ७ ॥
+
+> *vanoti | hi | sunvan | kṣayam | parīṇasaḥ | sunvānaḥ | hi | sma | yajati | ava | dviṣaḥ | devānām | ava | dviṣaḥ |*
+> *sunvānaḥ | it | siṣāsati | sahasrā | vājī | avṛtaḥ |*
+> *sunvānāya | indraḥ | dadāti | ā 'bhuvam | rayim | dadāti | ā 'bhuvam ‖ 7 ‖*
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–5 complete (Special Topics 549–555 with [refs] for the numeral pass); Ṛk 6 complete; Ṛk 7 (the last) begun: Saṃhitā and Pada written (p. 562); resume p. 563, PDF 584, with its Sāyaṇa-bhāṣya, which begins at the top of p. 563; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
