@@ -11094,4 +11094,84 @@ In this Ṛk it is briefly told how Indra, pleased with the sacrifice and other 
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 447 (PDF 468): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā…English done; Special Topics begun (the *nṛto* entry, first meaning); resume p. 448 (PDF 469). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/, PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437; Ṛk 6 bhāṣya p. 442; Ṛk 7 bhāṣya p. 446); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 448  (PDF 469)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+(Special Topics of Ṛk 7, continued:) For the second *nṛto* it is described that, in the fighting, Indra, being skilled in the movements of hands and feet and in the use of his body in the proper manner at the right moment — the wonderful mantras (*yuddhacamatkāra*) fit for subduing enemies at the time of battle — protects himself and slays enemies; this is explained by the sentence *gātravikṣepaṇakuśala hastapādādipraksepeṇa śatrūṇāṃ hiṃsaka* — "skilled in moving the limbs, the destroyer of enemies by throwing hands, feet and so on".
+
+***dāśuṣe*** — the word, formed as *dāśvān sāhvān* [Pā. 6-1-12] — though it also has the meaning "inclined to give" — is here explained as *havirdātre* — "to one who gives oblations".
+
+***pūrave*** — *abhimatapūrakāya*: the word *pūravaḥ* is recorded among the twenty-five names of man (Ni. 2-[?]; as read "೨-೮"), *manuṣyāḥ naraḥ*; and is explained as *kāmyaiḥ pūrayitavyāḥ* — "those fit to have their desires fulfilled". Here the word *pūru* is given as an epithet of *divodāsāya*: the king named Divodāsa pleased Indra by offerings of oblations, following Indra's wishes; for that, Indra destroyed the cities of his enemies and helped the king: so it is described. By this example it is indicated that to the man who pleases Indra by oblations Indra accomplishes his wishes.
+
+***atithigvāya*** — *pūjārtham atithiṃ gacchate divodāsāya*: "Indra subdues the enemies of Divodāsa, the king who honours guests and gratifies them, or of any other man who does so." The word *atithi* is explained by Yāska: *atithir abhyeti tithiṣu parakulānīti vā pargṛhān eti iti vā* — "he goes, on days other than *tithi*-days, to others' houses; or a person who comes seeking houses at midday" (Ni. 4-[?]; as read "೪-೬"): one who goes to the houses of others, or of the sacrificers, on particular days, is a guest.
+
+***ugraḥ śambaraṃ ojasā avābharat*** — in this sentence Sāyaṇa alludes to a story. While Indra was destroying the ninety cities of the enemy, the demon Śambara, struck by Indra, hid on the mountain. The mighty Indra climbed the mountain, which none could ascend, seized the demon there and by his own strength killed him, head downward (*avāṅmukha*).
+
+***mahaḥ*** — *mahānti*: the word *mahaḥ* is recorded among the names of water (Ni. 1-[?]; as read "೩-೩೪"). —
+
+### Printed p. 449  (PDF 470)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+> पितुं नु स्तोषं महो धर्माणं तविषीम् ।
+> यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् ॥
+
+> *pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīm |*
+> *yasya trito vy ojasā vṛtraṃ viparvam ardayat ‖*
+
+(Ṛ. Saṃ. 1-187-1, as printed.) Here *mahaḥ* is explained as *mahataḥ*. Sāyaṇa has explained the word *mahas* as "abundant".
+
+***dhanāni ojasā viśvā dhanāni ojasā*** — in this sentence the words *dhanāni ojasā* are used twice. The first *dhana* is explained as "cows, horses and the like": "Indra, out of pity for king Divodāsa, brought the cows, horses and so on of the demon Śambara and gave them to him". For the second *dhanāni* he gives, other than the wealth in the form of cows and so on already mentioned, "chariots, jewels, pearls and the like", and explains that by his strength he protected the king for the sake of those and gave them out of pity.
+
+The word *ojas* is used in the sense of "strength", as it was used many times before.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar pages, noted briefly; numbers as printed).** *bhinat* — root *bhidir vidāraṇe*; *laṅ* third person singular, *tip*; *itaś ca* drops *i*; *rudhādibhyaḥ śnam* gives *śnam*, which, being *m*-marked, comes after the last vowel; *hal ṅyābbhyo…* (Pā. 6-1-68) drops the ending; *dakāra* of the root becomes *c*, *car* [*coḥ kuḥ*…]; no augment *aṭ* (Vedic); at the beginning of the *pāda* no *nighāta*; the accent of the *vikaraṇa* remains. *divodāsāya* — *divaḥ dāsaḥ* — a *ṣaṣṭhī-tatpuruṣa*; *divo dāse ṣaṣṭhyā aluk* (Kāśikā 6-3-21 [?], as read "೬-೩-೨೧-೨೪"?) gives no loss of the genitive of *divaḥ*; by the vārttika *divodāsādīnāṃ chandasi* the first member is acute on the first syllable; dative singular. *dāśuṣe* — root *dāś dāne*; *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12) gives it as irregularly formed with the suffix *kvasu*; since *bha* in the dative singular, *vasoḥ samprasāraṇam* (Pā. 6-4-131) gives *saṃprasāraṇa*, *pūrvarūpa*; *śāsivasighasīnāṃ ca* (Pā. 8-3-60) gives *ṣ* for the *s* of the suffix. *nṛto* — root *nṛtī gātravikṣepe*; the Uṇādi *ku* [?]; since *k*-marked, no guṇa of the penult; in the vocative, *hrasvasya guṇaḥ* (Pā. 7-3-108) gives guṇa; *āmantritasya ca* gives *nighāta*.
+
+### Printed p. 450  (PDF 471)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+*(Grammar, concluded.)* *atithigvāya* — *atithiṃ gacchati iti ātithigvaḥ* [as read]; root *gamḷ gatau*; *ḍvan* [as read: *ḍva*] by Uṇādi; because *ḍit*, the *ṭi* (*am*) drops; *kṛd-uttarapadaprakṛtisvara*; dative singular. *abhārat* — root *bhṛñ bharaṇe*, *bhvādi*; *laṅ* third person singular; because it follows a finite verb, *nighāta*. *mahaḥ* — root *maha pūjāyām*; *kvip ca* gives *kvip*; accusative plural; *sāvekācas tṛtīyādiḥ* gives the acute to the ending. *dayamānaḥ* — root *daya dānagatihiṃsādāneṣu*; *śānac* in the present sense; *śap*; *āne muk* (Pā. 7-2-82) gives the augment *muk* to the stem ending in *a*; *tāsyanudāttenṅidvidāder…* makes the *lasārvadhātuka* unaccented so that the root's accent remains. *ojasā* — root *ubja ārjave*; *ubjer balope ca* [as read: *ubjer balope ca*, Uṇ. 4-[?]] gives *asun*; the *b* of the root drops; because of the suffix guṇa of the penult; since *n*-marked the acute on the first syllable; instrumental singular. ‖ 7 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> इन्द्रः समत्सु यजमानमार्यं प्रावद्विश्वेषु शतमूतिराजिषु स्वर्मीळ्हेष्वाजिषु ।
+> मनवे शासदव्रतान्त्वचं कृष्णामरन्धयत् ।
+> दक्षन्न विश्वं ततृषाणमोषति न्यर्शसानमोषति ॥ ८ ॥
+
+> *indraḥ samatsu yajamānamāryaṃ prāvadviśveṣu śatamūtirājiṣu svarmīḷheṣvājiṣu |*
+> *manave śāsadavratāntvacaṃ kṛṣṇāmarandhayat |*
+> *dakṣanna viśvaṃ tatṛṣāṇamoṣati nyarśasānamoṣati ‖ 8 ‖*
+
+### Printed p. 451  (PDF 472)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+**॥ पदपाठः ॥**
+
+> इन्द्रः । समत्ऽसु । यजमानम् । आर्यम् । प्र । आवत् । विश्वेषु । शतम्ऽऊतिः । आजिषु । स्वःऽमीळ्हेषु । आजिषु ।
+> मनवे । शासत् । अव्रतान् । त्वचम् । कृष्णाम् । अरन्धयत् ।
+> दक्षत् । न । विश्वम् । ततृषाणम् । ओषति । नि । अर्शसानम् । ओषति ॥ ८ ॥
+
+> *indraḥ | samat 'su | yajamānam | āryam | pra | āvat | viśveṣu | śatam 'ūtiḥ | ājiṣu | svaḥ 'mīḷheṣu | ājiṣu |*
+> *manave | śāsat | avratān | tvacam | kṛṣṇām | arandhayat |*
+> *dakṣat | na | viśvam | tatṛṣāṇam | oṣati | ni | arśasānam | oṣati ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few doubtful places: [?]).*
+
+> अयमिन्द्रः समत्सु रणेषु प्रहारनिमित्तेषु यजमानं यष्टारमार्यमरणीयं सर्वैर्गन्तव्यं प्रावत् । रक्षति ॥ समत्सु समरणे [?] सङ्ग्रामनाम समत्स्विति सङ्ग्रामनामसु पाठात् ॥ किंच शतमूतिः स्वभक्तरक्षणेषु बहुविधरक्षण इन्द्रो विश्वेषु ॥ लिङ्गव्यत्ययः ॥ आजिषु सर्वेषु स्पर्धानिमित्तेषु सङ्ग्रामेषु यजमानं प्रावत् । तथा स्वर्मीळ्हेषु स्वर्गदेशेषु सुखस्य सेचयत्सु वाजिषु महासङ्ग्रामेषु प्रावत् । स्वर्गप्रदानेन रक्षति । रण अभिमुखेन हतानां वीराणां स्वर्गे परारूढेन [?] श्रूयते । द्वाविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ । परिव्राड्योगयुक्तश्च रणे चाभिमुखो हतः । पराशर [?] इति । अश्रूतेहासमाचक्षते । अंशुमती नाम नदी । तस्यास्तीरे कृष्णनामासुरो वर्णतश्च कृष्णो दशसहस्रैरनुचरैरुपेतस्त्रेषा वर्णिनः पीडयन्नास्ते । तत्रेन्द्रो बृहस्पतिना प्रेरितः सन् मरुद्भिः सहितः कृष्णां त्वचमुत्कृत्य सानुचरमवधीत् । आयमर्थोव्य ... द्रप्सो अंशुमतीमतिष्ठत् । ऋ. ८-९६-१३ [?] इत्यादिनोपरिष्टाद्द्रष्टव्यम् । तदत्रोच्यते । अयमिन्द्रो मनवे मनुष्याय । विभक्तिव्यत्ययः । मनुष्याणामर्थायाव्रतान् । व्रतमिति कर्मनाम तद्रहितान् । यागविद्वेषिणः शासत् शिक्षितवान् । हिंसितवान् । शासेर्लेट्यडागमः । तथा कृष्णां त्वचं कृष्णनाम्नोऽसुरस्य कृष्णवर्णां त्वचमुत्कृत्यारन्धयत् । हिंसितवान् । रध हिंसायां रधिजभोरचि नुम् । केन प्रकारेणेति तदुच्यते । दक्षन्न विश्वम् । तत्तृषाणं ततृषाणमोषति । सर्वमपि हिंसकं तदनुचरसंघं दहति । यत्किंचिदनिशिष्टमिति नेत्याह । अर्कसानं हिंसारुचिं [?] दशावशिष्टं सर्वमपि न्योषति । निःशेषेण दहति ॥
+
+> *ayamindraḥ samatsu raṇeṣu prahāranimitteṣu yajamānaṃ yaṣṭāramāryamaraṇīyaṃ sarvairgantavyaṃ prāvat | rakṣati ‖ samatsu samaraṇe [?] saṅgrāmanāma samatsviti saṅgrāmanāmasu pāṭhāt ‖ kiṃca śatamūtiḥ svabhaktarakṣaṇeṣu bahuvidharakṣaṇa indro viśveṣu ‖ liṅgavyatyayaḥ ‖ ājiṣu sarveṣu spardhānimitteṣu saṅgrāmeṣu yajamānaṃ prāvat | tathā svarmīḷheṣu svargadeśeṣu sukhasya secayatsu vājiṣu mahāsaṅgrāmeṣu prāvat | svargapradānena rakṣati | raṇa abhimukhena hatānāṃ vīrāṇāṃ svarge parārūḍhena [?] śrūyate | dvāvimau puruṣau loke sūryamaṇḍalabhedinau | parivrāḍyogayuktaśca raṇe cābhimukho hataḥ | parāśara [?] iti | aśrūtehāsamācakṣate | aṃśumatī nāma nadī | tasyāstīre kṛṣṇanāmāsuro varṇataśca kṛṣṇo daśasahasrairanucarairupetastreṣā varṇinaḥ pīḍayannāste | tatrendro bṛhaspatinā preritaḥ san marudbhiḥ sahitaḥ kṛṣṇāṃ tvacamutkṛtya sānucaramavadhīt | āyamarthovya ... drapso aṃśumatīmatiṣṭhat | ṛ. 8-96-13 [?] ityādinopariṣṭāddraṣṭavyam | tadatrocyate | ayamindro manave manuṣyāya | vibhaktivyatyayaḥ | manuṣyāṇāmarthāyāvratān | vratamiti karmanāma tadrahitān | yāgavidveṣiṇaḥ śāsat śikṣitavān | hiṃsitavān | śāserleṭyaḍāgamaḥ | tathā kṛṣṇāṃ tvacaṃ kṛṣṇanāmno 'surasya kṛṣṇavarṇāṃ tvacamutkṛtyārandhayat | hiṃsitavān | radha hiṃsāyāṃ radhijabhoraci num | kena prakāreṇeti taducyate | dakṣanna viśvam | tattṛṣāṇaṃ tatṛṣāṇamoṣati | sarvamapi hiṃsakaṃ tadanucarasaṃghaṃ dahati | yatkiṃcidaniśiṣṭamiti netyāha | arkasānaṃ hiṃsāruciṃ [?] daśāvaśiṣṭaṃ sarvamapi nyoṣati | niḥśeṣeṇa dahati ‖*
+
+*(Sense: "This Indra protects (*prāvat*) in *samatsu* — battles — the worshipper, the Ārya, worthy of being approached by all; (*samatsu* is among the names of battle). And *śatamūtiḥ* — of hundredfold protections for his own devotees — Indra protects the sacrificer in all contests (*ājiṣu*) and in the great battles (*svarmīḷheṣu*) that sprinkle happiness [lead to heaven]; he protects by granting heaven; of heroes slain facing the enemy it is heard in the world: 'These two men pierce the orb of the sun: the ascetic joined in yoga, and the one slain facing the enemy.' (Parāśara [?]). It is told in history: on the bank of the river Aṃśumatī the black demon Kṛṣṇa, with ten thousand followers, was afflicting the (respectable people) of the (four) castes: there Indra, urged by Bṛhaspati, with the Maruts, stripped the black skin and killed him with his followers: 'the drop (*drapsa*) stood on the Aṃśumatī' (Ṛ. 8-96-13 [?]) etc. — to be seen later. Here it is said: this Indra, for Manu (for men), punished (*śāsat*) the *avratān* — those without *vrata* (rites), who hate the sacrifice; and he destroyed (*arandhayat*) the black skin of the demon Kṛṣṇa; and as to how: *dakṣan na viśvam* — he burns the whole of them, the entire host of followers; not leaving anything: he burns (*oṣati*) all the harming ones, whatever is left of the sinful *arśasāna* [the wicked], utterly.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(ayam) indraḥ* — this Indra; *samatsu* — in battles; *yajamānam* — the sacrificer; *āryam* — the Ārya (the one worth approaching); *pra āvat* — protects; *(kiṃ ca* — and); *śatam ūtiḥ* — [Indra] of a hundred protections for his devotees;
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 451 (PDF 472): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 Saṃhitā/Pada/bhāṣya written and the Pratipadārtha begun at the foot of p. 451 ("…*śatam ūtiḥ* — [Indra] of a hundred protections for his devotees;"); resume p. 452 (PDF 473) with the rest of the Pratipadārtha, Bhāvārtha, English, Special Topics, grammar, then Ṛk 9. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/, PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437; Ṛk 6 bhāṣya p. 442; Ṛk 7 bhāṣya p. 446; Ṛk 8 bhāṣya p. 451); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
