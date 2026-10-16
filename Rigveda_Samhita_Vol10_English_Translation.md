@@ -11016,4 +11016,82 @@ The word ***vāja*** is recorded among the names of food (Ni. 2-[?]; as read "�
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 443 (PDF 464): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā…English done; Special Topics begun (entries *vasūyantaḥ āyavaḥ* and *svapāḥ dhīraḥ rathaṃ na*; the latter breaks off at the foot of p. 443); resume p. 444 (PDF 465). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/, PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437 and the *vājayataḥ* topics p. 439; Ṛk 6 bhāṣya p. 442); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 444  (PDF 465)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+(Special Topics of Ṛk 6, continued from p. 443:) "…"; so Indra is compared to one whom the priests make favourable to themselves, turned toward them.
+
+***sumnāya*** — *sukhāya*: the word *sumna* is recorded among the twenty-[?] names of happiness, *śambaḥ* and the others (Ni. 3-[?]; as read "೩-೧೪"): "the priests praise Indra in order that Indra may give them happiness."
+
+***vipra*** — *medhāvin indra*: the word *vipra* is recorded among the names of the wise (Ni. 3-19 [?]; as read "೩-೧೯"); addressing Indra as *vipra*, he explains it as "O wise one".
+
+***jenyaṃ yathā*** — *jayaśīlaṃ śūraṃ yathā bhaṭāḥ stuvanti tadvat | yadvā | jenyaṃ jayaśīlaṃ vegavantam aśvaṃ saṅgrāmeṣu yathotsāhayanti tadvat*: "as soldiers praise a victorious hero, or as one encourages a swift horse that gives victory in battle; as the young soldiers praise Indra with praises that make known his qualities, and so give him joy": the meaning is explained by comparing him both to the hero and to the horse.
+
+***atyam iva viśvā dhanāni sātaye*** — *kṛtsnāni prīṇanasādhanāni gavādidhanāni teṣāṃ lābhāya | tatra dṛṣṭāntaḥ atyam iveti*: the word *atya* is recorded among the names of horse (Ni. 1-[?]; as read "೧-೩೨"). In the sentence before it, *śavase dhanā sātaye stumaḥ*, Indra is praised in order that he may grant strength and wealth; in this sentence Indra is praised that the priests may obtain the cows and wealth that are the means of performing the sacrifices that please Indra: so the meaning is given. "As, in order to have strength and wealth in battle, and also to obtain the wealth of enemies by victory, one praises and encourages a swift horse that always runs, here Indra is praised": so the meaning is described by comparison to the horse.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *vasūyantaḥ* — *vasum ātmana icchantaḥ*; *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *akṛtsārvadhātukayor dīrghaḥ* (Pā. 7-4-25) lengthens the previous vowel; after the *kyac*-ending *śatṛ* in the present sense; the accent of *kyac* remains. *āyavaḥ* — root *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-3 [?]) gives *uṇ*; *ac oñciñ…* [as read: *aco ñṇiti*, Pā. 7-2-115] gives *vṛddhi*; *ayādeśa*; acute on the last syllable.
+
+### Printed p. 445  (PDF 466)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+*(Grammar, continued.)* *dhīraḥ* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; *susūdhāgṛdhibhyaḥ kran* (Uṇ. 2-[?]) gives *kran*; *ghumāsthāgāpājahātisāṃ hali* (Pā. 6-4-66) gives *ī*; since *n*-marked the acute on the first syllable. *svapāḥ* — *śobhanam apaḥ yasya saḥ svapāḥ*; since *su* is not accented [as read] *soḥ manasī aloma-ṣoṣasī* (Pā. 6-2-117) gives, against the accent of *su*, the acute on the first syllable of the latter member. *atakṣiṣuḥ* — root *takṣū tanūkaraṇe*; *luṅ* third person plural; *tiṅ-nighāta*. *śumbhantaḥ* — root *śubha śobhārthe*; *śatṛ* in the present sense; *tudādibhyaḥ śaḥ* (Pā. 3-1-77) gives *śa*; the accent of the *vikaraṇa* remains; nominative plural. *jenyam* — root *ji jaye*; *ṇyat* [as read *enya*] by *āto yat* [?], with the Uṇādi sense; acute on the first syllable of the suffix. *vipra* — root *ḍuvap bījasantāne*; *ujjendrāgrā…* (Uṇ. 2-[?]) gives *ran* by irregular formation; in the vocative *āmantritasya ca* (Pā. 8-1-19) gives *nighāta*. *sātaye* — root *ṣaṇa dāne*; *ūtiyūtijūti…* (Pā. 3-3-97) gives *ktin* acute irregularly; dative singular. *dhanā viśvā* — neuter plural; *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*; by the suffix [*ā*], the accusative is used in the sense of the genitive. ‖ 6 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> भिनत्पुरो नवतिमिन्द्र पूरवे दिवोदासाय महि दाशुषे नृतो वज्रेण दाशुषे नृतो ।
+> अतिथिग्वाय शम्बरं गिरेरुग्रो अवाभरत् ।
+> महो धनानि दयमान ओजसा विश्वा धनान्योजसा ॥ ७ ॥
+
+> *bhinatpuro navatimindra pūrave divodāsāya mahi dāśuṣe nṛto vajreṇa dāśuṣe nṛto |*
+> *atithigvāya śambaraṃ girerugro avābharat |*
+> *maho dhanāni dayamāna ojasā viśvā dhanānyojasā ‖ 7 ‖*
+
+### Printed p. 446  (PDF 467)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ पदपाठः ॥**
+
+> भिनत् । पुरः । नवतिम् । इन्द्र । पूरवे । दिवःऽदासाय । महि । दाशुषे । नृतो इति । वज्रेण । दाशुषे । नृतो इति ।
+> अतिथिऽग्वाय । शम्बरम् । गिरेः । उग्रः । अव । अभरत् ।
+> महः । धनानि । दयमानः । ओजसा । विश्वा । धनानि । ओजसा ॥ ७ ॥
+
+> *bhinat | puraḥ | navatim | indra | pūrave | divaḥ 'dāsāya | mahi | dāśuṣe | nṛto iti | vajreṇa | dāśuṣe | nṛto iti |*
+> *atithi 'gvāya | śambaram | gireḥ | ugraḥ | ava | abharat |*
+> *mahaḥ | dhanāni | dayamānaḥ | ojasā | viśvā | dhanāni | ojasā ‖ 7 ‖*
+
+*(Read from the image: *diva-dāsāya*, *atithi-gvāya*, *nṛto iti*.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, partly doubtful: [?]).*
+
+> हे इन्द्र नृतो रणे नर्तनशीलस्त्वं दाशुषे हविर्दात्रे पूरवे [?] । मनुष्यनामैतत् । महि महते दिवोदासायैतन्नाम्ने राज्ञे ॥ दिवो दासे षष्ठ्या अलुक् । का. ६-३-२१-२४ [?] इत्यलुक् ॥ दिवोदासादीनां छन्दसीति पूर्वपदाद्युदात्तत्वम् ॥ नवतिमेतत्सङ्ख्याकानि पुरः शत्रूणां पुराणि भिनत् भिन्नवानसि । तथा हे नृतो गात्रविक्षेपणकुशल हस्तपादादिप्रक्षेपेण शत्रूणां हिंसक वज्रेण क्षेपणसमर्थेनायुधेन दाशुषे हविर्दात्रे दिवोदासायान्यस्मै वा भिनत् । कंसमपि शत्रुं भिन्नवानसि । इदानीं परोक्षमाह । अतिथिग्वाय पूजार्थमतिथिं गच्छते दिवोदासाय तदर्थम् ॥ गमेरौणादिको ड्वप्रत्ययः ॥ उग्र उद्गूर्णबल इन्द्रः पूर्वं पुरभेदनसमये विद्धमुष्मिन् [?] म्रियमाणं गिरिनारूढं शम्बरमेतन्नामानमसुरं गिरेर्दुर्गमात्पर्वतादेः सकाशादोजसा स्वकीयेन बलेनावाभरत् । अवाङ्मुखमवक्षस्य [?] प्राणं हृतवान् । किं कुर्वन् । महो महान्ति धनानि तदीयगवाश्वादीनि दयमानो दिवोदासाय राज्ञे साधयन् । दय दानगतिहिंसादानेषु । शपः पित्त्वादनुदात्तत्वे शानचो लसार्वधातुकस्वरेण धातुस्वरः ॥ न केवलमल्पं धनं किंतु विश्वा धनानि सर्वाण्यपि तेषां मणिमुक्तादीन्योजसा स्वकीयेन बलेन दयमानः साधयन्नावाभरत् ॥
+
+> *he indra nṛto raṇe nartanaśīlastvaṃ dāśuṣe havirdātre pūrave [?] | manuṣyanāmaitat | mahi mahate divodāsāyaitannāmne rājñe ‖ divo dāse ṣaṣṭhyā aluk | kā. 6-3-21-24 [?] ityaluk ‖ divodāsādīnāṃ chandasīti pūrvapadādyudāttatvam ‖ navatimetatsaṅkhyākāni puraḥ śatrūṇāṃ purāṇi bhinat bhinnavānasi | tathā he nṛto gātravikṣepaṇakuśala hastapādādiprakṣepeṇa śatrūṇāṃ hiṃsaka vajreṇa kṣepaṇasamarthenāyudhena dāśuṣe havirdātre divodāsāyānyasmai vā bhinat | kaṃsamapi śatruṃ bhinnavānasi | idānīṃ parokṣamāha | atithigvāya pūjārthamatithiṃ gacchate divodāsāya tadartham ‖ gamerauṇādiko ḍvapratyayaḥ ‖ ugra udgūrṇabala indraḥ pūrvaṃ purabhedanasamaye viddhamuṣmin [?] mriyamāṇaṃ girinārūḍhaṃ śambarametannāmānamasuraṃ girerdurgamātparvatādeḥ sakāśādojasā svakīyena balenāvābharat | avāṅmukhamavakṣasya [?] prāṇaṃ hṛtavān | kiṃ kurvan | maho mahānti dhanāni tadīyagavāśvādīni dayamāno divodāsāya rājñe sādhayan | daya dānagatihiṃsādāneṣu | śapaḥ pittvādanudāttatve śānaco lasārvadhātukasvareṇa dhātusvaraḥ ‖ na kevalamalpaṃ dhanaṃ kiṃtu viśvā dhanāni sarvāṇyapi teṣāṃ maṇimuktādīnyojasā svakīyena balena dayamānaḥ sādhayannāvābharat ‖*
+
+*(Sense: "O Indra, *nṛto* — dancing (with delight) in battle — for *pūrave* — [a man] — the giver of oblations, for the great *Divodāsa* (a king by that name) you *bhinat* — broke ninety (*navatim*) cities (*puraḥ*) of enemies; and, O dancer, skilful at the movement of limbs, destroyer of enemies by the throwing of hands and feet, with the thunderbolt (the weapon able to be cast) for the giver of oblations Divodāsa or another, you split … Now he speaks indirectly: for Divodāsa, *atithigva* — who goes to guests with worship — [Indra] fiercely (*ugra*), of mighty strength, in the earlier time of splitting the cities, threw down (*avābharat*) from the mountain, hard to reach, the demon named Śambara, who had gone up the mountain, with his own strength, head downward; he took his life. Doing what? *mahaḥ* — giving great riches, his cows, horses and the like, to king Divodāsa; and *viśvā dhanāni* — all his treasures, jewels, pearls and the like, by his strength.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) indra* — O Indra; *nṛto* — dancing (in the field of battle); *dāśuṣe* — who offered oblations; *pūrave* — for Puru (a man); *mahi* — the great; *divodāsāya* — for the king named Divodāsa; *navatim* — ninety; *puraḥ* — cities (of enemies); *bhinat* — you broke; *(kathā* — likewise); *nṛto* — O dancer (who destroys enemies by throwing the limbs in battle); *vajreṇa* — with the thunderbolt; *dāśuṣe* — for the one who offered oblations (Divodāsa); *bhinat* — you destroyed; *atithigvāya* — for him who goes to guests to honour them (Divodāsa); *ugraḥ* — the terrible (Indra); *śambaram* — the demon Śambara; *ojasā* — by his own strength; *mahaḥ* — greater; *dhanāni* — Śambara's cows and other wealth; *giroḥ ava abharat* — brought down headlong from the mountain, and killed him; *(kiṃ ca* — and); *viśvā dhanāni* — all his rich possessions; *ojasā* — by his strength; *(dayamānaḥ* — giving to Divodāsa); *avābharat* — he took away (and killed).
+
+### Printed p. 447  (PDF 468)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, dancer on the field of battle, for the sake of Puru and for the great man Divodāsa, who offered oblations to you, you broke the ninety cities of the enemy; O slayer of enemies, for the giver of oblations you destroyed [the enemies] with the thunderbolt; for Divodāsa, who honours guests, the terrible Indra threw Śambara down from the mountain, gave Divodāsa his wealth of cows and so on, and by his strength killed Śambara (giving Divodāsa all his rich possessions).
+
+**Printed English (heading "English Translation"; as printed):** *"For Puru, the giver of offerings, for the mighty Divodasa, you, Indra, the dancer (with delight in battle), have destroyed ninety cities; dancer (in battle), you have destroyed them with (your thunderbolt), for (the sake of) the giver of offerings. For (the sake of) Atithigwa, the fierce (Indra) hurled Shambara from off the mountain, bestowing (upon the prince) immense treasure, (acquired) by (his) prowess; all kinds of wealth (acquired) by (his) prowess."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 7).**
+
+In this Ṛk it is briefly told how Indra, pleased with the sacrifice and other offerings of the king Divodāsa, subdued his enemies, protected Divodāsa, and gave him the wealth of his enemies.
+
+***nṛto*** — this word is said twice. For the first *nṛto* the meaning *raṇe nartanaśīla* — "he who dances in battle" — is given, describing Indra's joy and eagerness for the battle, as one dances, being filled with enthusiasm, in the fighting.
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 447 (PDF 468): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā…English done; Special Topics begun (the *nṛto* entry, first meaning); resume p. 448 (PDF 469). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/, PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437; Ṛk 6 bhāṣya p. 442; Ṛk 7 bhāṣya p. 446); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
