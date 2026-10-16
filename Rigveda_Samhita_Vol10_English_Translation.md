@@ -9462,4 +9462,102 @@ The Niruktakāra explains the word *indra* in many ways: *indra irāṃ dṛṇ�
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 367 (PDF 388): Ṛk 1 Saṃhitā…English done; Special Topics begun (the *medhasātaye* / *indra* Nirukta etymologies run on to p. 368); resume p. 368 (PDF 389). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 368  (PDF 389)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+(Continuing the Nirukta etymologies of *indra*, from p. 367: "…*ādārayitā*" — one who tears apart: "he who splits the enemies, or makes them flee, honours those who perform the sacrifice": so they say.)
+
+***apākā*** — *apākam analpaprajñayādhikāravantam*: "Indra, who is full of such greatness, shows his favour to the sacrificer who is very wise and fit for the sacrifice, bestowing wealth and knowledge on him and making him honourable": so the meaning. —
+
+> यत्रा सुपर्णा अमृतस्य भागमनिमेषं विदथाभिस्वरन्ति ।
+> इनो विश्वस्य भुवनस्य गोपाः स मा धीरः पाकमत्रा विवेश ॥
+
+> *yatrā suparṇā amṛtasya bhāgam animeṣaṃ vidathābhisvaranti |*
+> *ino viśvasya bhuvanasya gopāḥ sa mā dhīraḥ pākam atrā viveśa ‖*
+
+(Ṛ. Saṃ. 1-164-21 [?], as read "೧-೧೬೪-೨೧"; small type.) Citing this Ṛk, Yāska explains *pākaḥ pakvo bhavati* (Ni. 3-12 [?]); Durgācārya says: "*pākaḥ pakvaprajñaḥ asamyagdarśī*" … *apakvaprajñaḥ* — "one who has not seen rightly, who has no right understanding", and *niruktaprajñaḥ samagradarśī sarvajñaḥ* — "the one who has perfect knowledge, who has seen everything, the all-knowing: he is called *vipakva*-minded"; so the meaning is stated. [Doubtful in the small print: [?].]
+
+***abhiṣṭaye*** — *ābhimukhyena yāgāya abhimataprāptaye vā*: "Indra makes the sacrificer who performs the sacrifice capable of undertaking the sacrifice; or he makes the sacrificer, who is skilful in the rite by which he can obtain his wish, able to perform the sacrifice": so the meaning.
+
+***vājinaṃ havirlakṣaṇam annaṃ tadvantaṃ vā vaśaḥ — kāmayase ca*** — "Indra, called by the sacrificer for the sacrifice, comes quickly to the sacrifice, accepts the oblation, shows favour so that the sacrifice is completed, and by fulfilling the desires the sacrificer wants, makes him eager to sacrifice again": so it is explained.
+
+The word *vāja* is recorded among the names of food (Ni. 2-[?]; as read "೨-೯") and, as *vāje*, among the names of battle (Ni. 2-[?], "೨-೯"). —
+
+> हिरण्यस्तूपः सवितर्यथा त्वाङ्गिरसो जुह्वे वाजे अस्मिन् ।
+> एवा त्वार्चन्नवसे वन्दमानः सोमस्येवांशुं प्रति जागराहम् ॥
+
+> *hiraṇyastūpaḥ savitar yathā tvāṅgiraso juhve vāje asmin |*
+> *evā tvārcann avase vandamānaḥ somasyevāṃśuṃ prati jāgarāham ‖*
+
+(Ṛ. Saṃ. 10-149-5, as read "೧೦-೧೪೯-೫".) Here *vāje* is explained as *anne saṃskṛte haviṣi* — "in the prepared food, the oblation prepared for the sacrifice". And —
+
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
+
+> *pāvakā naḥ sarasvatī vājebhir vājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*
+
+(Ṛ. Saṃ. 1-3-10, as read "೧-೩-೧೦".) Here *vājebhir vājinīvatī* — "*annena haviṣā udakena vā tadvatī*", i.e. possessed of food, oblation, water — Durgācārya explains thus.
+
+### Printed p. 369  (PDF 390)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+***anavadya*** — *anindita sarvaiḥ stūyamāna*: "Indra, who is not a place of blame and is fit to be praised by all": so it is addressed.
+
+***tūtujāna*** — *asmān anugrahītuṃ tvaramāṇa*: the word *tūtujāna* is recorded among the names of the quick (Ni. 2-[?]; as read "೩-೯"): "Indra comes quickly where he must favour us who depend on him"; the form arises with a suffix after the root *tuj* in the sense of impelling.
+
+The word ***vedhasām*** is used twice. The first *vedhasām* is explained as "among those able to produce many kinds of fruit", the second as "of the wise ones". "O Indra, accept the oblations we offer, we the wise": so he is prayed.
+
+***imāṃ vācaṃ na*** — *asmadīyāṃ stutirūpāṃ vācam iva*: "as Indra accepts the words in which we praise him, so may he accept the oblations": so it is compared.
+
+***vācam*** — the word *vāc* is recorded among the fifty-seven names of speech (Ni. 1-[?]; as read "೧-೧೧"); here the sense "praise" is given.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; numbers as printed).** *medhasātaye* — *medhasya sātiḥ medhasātiḥ*; root *ṣaṇu dāne*, suffix *kriṇ*; *janasanakhanāṃ sañjhalośh* (Pā. 6-4-42) gives *ā* to the root; *pūrvapadaprakṛtisvara*; dative singular. *apākā* — *supāṃ sulug* (Pā. 7-1-39) gives *ā* in place of the ending. *santam* — root *as bhuvi*; *śatṛ* in the present sense; *śnasor allopaḥ* (Pā. 6-4-111) drops the *a*; acute on the first syllable of the suffix; accusative singular. *iṣira* — root *iṣa gatau*; Uṇādi *kirac* [as printed "*rak*"]; *āmantritasya ca* gives *nighāta*. *praṇayasi* — root *ṇīñ prāpaṇe*; this is a verb with two objects; *laṭ* second person singular; *upasargād asamāse 'pi ṇopadeśasya* [as read] gives *ṇ* for the *n* of the root. *anavadya* — *na avadyaḥ anavadyaḥ*; vocative; *āmantrita-nighāta*. *abhiṣṭaye* — the root *iṣa* with the prefix *abhi*, suffix *kriṇ*; because of *s*, *ṣṭutva* for the *t*; when *abhi + iṣṭi*, by the vārttika *śakandhvādiṣu pararūpaṃ vācyam* the *pararūpa* occurs; *tāddau ca niti kṛtyatau* (Pā. 6-2-50) gives the prefix (*abhi*) its natural accent; dative singular.
+
+### Printed p. 370  (PDF 391)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Grammar, continued.)* *karaḥ* — root *ḍukṛñ karaṇe*; *leṭ* second person singular, *sip*; *itaś ca lopaḥ* (Pā. 3-4-97) drops *i*; *bahulaṃ chandasi* gives *luk* of *śap*; *āṭo 'ḍāṭau* [as read: *leṭo 'ḍāṭau*] gives the augment *aṭ*; because of the suffix guṇa of the root's *i* [i.e. *u*] with *raparatva*; since *cet* is connected, *nighāta* is forbidden (*nipātair yad yadi…*, Pā. 8-1-30); the suffix is *p*-marked so the root's accent remains. *vaśaḥ* — root *vaśa kāntau*, *adādi*; as in *karaḥ*, the augment *aṭ* in the *leṭ*, loss of *i*; since it follows a finite verb there is no *nighāta*; the accent of the root remains. *vājinam* — *vājo 'syāsti iti vājī*; *ata iniṭhanau* (Pā. 5-2-115) gives *ini* in the possessive sense; by the suffix's accent the *ī* is acute. *tūtujāna* — root *tuja preraṇe*; when *liṭ* follows, *liṭaḥ kānajvā* gives *kānac*; because of it the root is doubled; *tujādīnāṃ dīrgho 'bhyāsasya* lengthens the reduplicative; in the vocative *āmantrita-nighāta*. *vācam* — root *vaca paribhāṣaṇe*; *kvip vaci…* [Pā. 3-2-[?]] gives *kvip*; lengthening. ‖ 1 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> स श्रुधि यः स्मा पृतनासु कासु चिद्दक्षाय्य इन्द्र भरहूतये नृभिरसि प्रतूर्तये नृभिः ।
+> यः शूरैः स्वः सनिता यो विप्रैर्वाजं तरुता ।
+> तमीशानास इरधन्त वाजिनं पृक्षमत्यं न वाजिनम् ॥ २ ॥
+
+> *sa śrudhi yaḥ smā pṛtanāsu kāsu ciddakṣāyya indra bharahūtaye nṛbhirasi pratūrtaye nṛbhiḥ |*
+> *yaḥ śūraiḥ svaḥ sanitā yo viprairvājaṃ tarutā |*
+> *tamīśānāsa iradhanta vājinaṃ pṛkṣamatyaṃ na vājinam ‖ 2 ‖*
+
+### Printed p. 371  (PDF 392)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+**॥ पदपाठः ॥**
+
+> सः । श्रुधि । यः । स्म । पृतनासु । कासु । चित् । दक्षाय्यः । इन्द्र । भरऽहूतये । नृऽभिः । असि । प्रऽतूर्तये । नृऽभिः ।
+> यः । शूरैः । स्वरिति स्वः । सऽनिता । यः । विप्रैः । वाजम् । तरुता ।
+> तम् । ईशानासः । इरधन्त । वाजिनम् । पृक्षम् । अत्यम् । न । वाजिनम् ॥ २ ॥
+
+> *saḥ | śrudhi | yaḥ | sma | pṛtanāsu | kāsu | cit | dakṣāyyaḥ | indra | bhara 'hūtaye | nṛ 'bhiḥ | asi | pra 'tūrtaye | nṛ 'bhiḥ |*
+> *yaḥ | śūraiḥ | svariti svaḥ | sa 'nitā | yaḥ | vipraiḥ | vājam | tarutā |*
+> *tam | īśānāsaḥ | iradhanta | vājinam | pṛkṣam | atyam | na | vājinam ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(small type; read from the image, many letters doubtful: [?]).*
+
+> हे इन्द्र स वक्ष्यमाणगुणविशिष्टस्त्वं श्रुधि । अस्माकमाह्वानं स्तोत्रं वा शृणु ॥ हेर्धिभावः ॥ यः स्म यः खलु त्वं नृभिर्मनुष्यैरेव सद्भिः पश्चाद्देवैर्मरुद्भिः [?] । पुनस्त एव विशेष्यन्ते । नृभिः सङ्ग्रामनयनशीलैः । इन्द्रस्य मरुतां साहाय्यमिन्द्रो मरुद्भिः । तै. सं. २-३-१-१ [?] । मरुतो ह्येनं वाजहुः । ऐ. ब्रा. २-२० [?] इत्यादिषु प्रसिद्धम् । तैः सहितः सन् कासु चित्पृतनासु सर्वासु प्रवृत्तासु सङ्ग्रामेषु भरहूतये भरणहविष्प्राह्वानायुक्ताय प्रतूर्तये प्रकृष्टहिंसनाय । यद्वा । भरहूतये शूरो भव प्रहरेत्येवमादिभरणयुक्ताह्वानाय च शूराणां प्रकृष्टवधाय च । दक्षाय्योऽसि प्रवर्धनशीलोऽसि । यद्वा । नृभिर्नेतृभिर्यजमानैः प्रार्थितः सन् प्रतूर्तये शत्रूणां प्रकृष्टहिंसनाय दक्षाय्योऽसि समर्थोऽसि । किंच यस्त्वं शूरैः शौर्योपेतैर्मरुद्भिर्नृभिर्भर्तृभिः सहितः सन् स्वः स्वयमेव सनिता सङ्ग्रामयस्य [?] अस्यान्यस्य वा मनीषितस्य सनिता सम्भक्तासि [?] । सत्स्वपि तेषां साहित्येऽन्यैरनपेक्ष्येव [?] । तरुतासीत्यर्थः । तरतेस्तृनि ग्रसितस्कभितेति वा निपात्यते ॥ यस्त्वं विप्रैर्मेधाविभिर्ऋत्विग्भिः स्तुतः सन् वाजं तरुता तेभ्यो ऽन्नस्य दातासि । विप्रैर्मरुद्भिः सहित इति सम्बन्धः । तं तादृशं वाजिनं गमनवन्तं पृक्षं हविर्लक्षणान्नवन्तमिन्द्रमीशानासः सम्यग्गभ्यर्थयितुं समर्था ऋत्विज इरधन्त । संराधयन्ति । सेवन्ते । तत्र दृष्टान्तः । वाजिनं वेजनवन्तं गमनवन्तं पृक्षं घासाद्यन्नवन्तमत्यं न नाश्वमिव । तं यथा समर्थाः स्वादुघासप्रदानादिना पोषयन्ति तद्वत् ॥ अत्य इत्यश्वनाम अत्यो हय इति तन्नामसु पाठात् ॥
+
+> *he indra sa vakṣyamāṇaguṇaviśiṣṭastvaṃ śrudhi | asmākamāhvānaṃ stotraṃ vā śṛṇu ‖ herdhibhāvaḥ ‖ yaḥ sma yaḥ khalu tvaṃ nṛbhirmanuṣyaireva sadbhiḥ paścāddevairmarudbhiḥ [?] | punasta eva viśeṣyante | nṛbhiḥ saṅgrāmanayanaśīlaiḥ | indrasya marutāṃ sāhāyyamindro marudbhiḥ | tai. saṃ. 2-3-1-1 [?] | maruto hyenaṃ vājahuḥ | ai. brā. 2-20 [?] ityādiṣu prasiddham | taiḥ sahitaḥ san kāsu citpṛtanāsu sarvāsu pravṛttāsu saṅgrāmeṣu bharahūtaye bharaṇahaviṣprāhvānāyuktāya pratūrtaye prakṛṣṭahiṃsanāya | yadvā | bharahūtaye śūro bhava praharetyevamādibharaṇayuktāhvānāya ca śūrāṇāṃ prakṛṣṭavadhāya ca | dakṣāyyo 'si pravardhanaśīlo 'si | yadvā | nṛbhirnetṛbhiryajamānaiḥ prārthitaḥ san pratūrtaye śatrūṇāṃ prakṛṣṭahiṃsanāya dakṣāyyo 'si samartho 'si | kiṃca yastvaṃ śūraiḥ śauryopetairmarudbhirnṛbhirbhartṛbhiḥ sahitaḥ san svaḥ svayameva sanitā saṅgrāmayasya [?] asyānyasya vā manīṣitasya sanitā sambhaktāsi [?] | satsvapi teṣāṃ sāhitye 'nyairanapekṣyeva [?] | tarutāsītyarthaḥ | taratestṛni grasitaskabhiteti vā nipātyate ‖ yastvaṃ viprairmedhāvibhirṛtvigbhiḥ stutaḥ san vājaṃ tarutā tebhyo 'nnasya dātāsi | viprairmarudbhiḥ sahita iti sambandhaḥ | taṃ tādṛśaṃ vājinaṃ gamanavantaṃ pṛkṣaṃ havirlakṣaṇānnavantamindramīśānāsaḥ samyaggabhyarthayituṃ samarthā ṛtvija iradhanta | saṃrādhayanti | sevante | tatra dṛṣṭāntaḥ | vājinaṃ vejanavantaṃ gamanavantaṃ pṛkṣaṃ ghāsādyannavantamatyaṃ na nāśvamiva | taṃ yathā samarthāḥ svādughāsapradānādinā poṣayanti tadvat ‖ atya ityaśvanāma atyo haya iti tannāmasu pāṭhāt ‖*
+
+*(Sense. "O Indra, such as is described, hear (*śrudhi*; the *hi* becomes *dhi*) our invocation or praise. You, who with men — *nṛbhiḥ* — in whatever battles, and afterwards with the gods, the Maruts [?] — the leaders of battle, the Maruts, helpers of Indra — 'Indra with the Maruts' (Tai. Saṃ. [?], Ait. Br. [?]: 'the Maruts called him to the contest') — in all engagements, for the call to battle (*bharahūti*) and for the great slaying (*pratūrti*) of the enemies, you are *dakṣāyya* — of growing power; or, asked by the sacrificers, the leaders, you are able to slay foes greatly. And you who, together with the heroic Maruts, are the winner (*sanitā*) of heaven and of what is desired — *tarutā* — are the giver of food (*vājam*) to the sages, the priests praising you: that Indra, swift, with food (*pṛkṣam*) in the form of oblation, the lords (*īśānāsaḥ*), the priests able to seek well, serve (*iradhanta*); as people nourish a swift horse (*atyam*) with sweet fodder: 'the word *atya* is a name for horse', since it is read among those names." The grammar tail on *tarutā*, *hedhibhāva*, etc., is only characterized.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (begins at the foot of p. 371).** *indra* — O Indra; *saḥ* — you, of the qualities stated; *śrudhi* — hear (our praise) or (pardon our invocation); *yaḥ sma* — you who; *nṛbhiḥ* — with men [the print continues on p. 372].
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 371 (PDF 392): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 Saṃhitā/Pada/bhāṣya done and the Pratipadārtha begun at the foot of p. 371 ("Indra — O Indra; saḥ — …; nṛbhiḥ — with men…"); resume p. 372 (PDF 393). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 and the Ṛk 2 bhāṣya (p. 371); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
