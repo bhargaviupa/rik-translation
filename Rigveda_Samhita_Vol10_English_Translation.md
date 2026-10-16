@@ -3475,4 +3475,120 @@ Then the gods, not agreeing among themselves (each saying "let her be mine, let 
 
 ---
 
-**Progress note:** Sūkta 123 complete (pp. 70–128). Sūkta 124 (*uṣā ucchantī*, 13 ṛks, printed pp. 128–187) through printed p. 134 (PDF 155): Ṛk 1 Special Topics (the Aitareya Brāhmaṇa Āśvina-śastra passage) done; resume p. 135 (PDF 156) — grammar of Ṛk 1, then Ṛk 2.
+### Printed p. 135  (PDF 156)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 1; noted briefly, sūtra numbers as read by the OCR).** *ucchantī* — root *uchī vivāse*, Tudādi class; śatṛ in the laṭ sense; when the feminine is intended, *ugitaś ca* (Pā. 4-1-6) gives ṅīp, and the augment *num*; the accent of the verb-suffix remains. *udyan* — prefix *ut*, root *iṇ gatau*; śatṛ; *śap* with *luk*; *iṇo yaṇ* (Pā. 6-4-81) gives *yaṇ* to the root; the suffix is acute on its first syllable; in the compound the accent of the final member's own nature. *sūryaḥ* — root *ṣū preraṇe*; *suvati karmaṇi lokaṃ preryati iti sūryaḥ*; *rājasūyasūrya…* (Pā. 3-1-114) records it as formed with *kyap* and the augment *ruṭ*. *urviyā* — the word *uru*; with the instrumental singular following, the vārttika *iyāḍiyāj…upasaṃkhyānam* (Pā. 7-1-39 vārttika [?]) gives *iyāc*, and *yaṇ*; *citaḥ* (Pā. 6-1-163) gives the final-acute by the accent of the suffix. *aśret* — root *śriñ sevāyām*; *chandasi luṅlaṅliṭaḥ* gives laṅ in the present sense, the third person singular *tip*, with loss of the *i*; *bahulaṃ chandasi* gives *luk* of *śap*; *sārvadhātukārdhadhātukayoḥ* gives guṇa of the root-vowel; since it follows a non-verb word, the *nighāta* accent. *savitā* — root *ṣū preraṇe*; *tṛc* in the agent sense; *ārdhadhātukasyeḍ valādeḥ* gives the augment *iṭ*; guṇa of the root-vowel and *av*; since *tṛc* has the marker *c* it is final-acute; nominative singular. *asāvīt* — root *ṣū prasavaiśvaryayoḥ*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read by the OCR) gives luṅ in the sense of loṭ, the second person singular [as printed "ಪ್ರಥಮಪುರುಷ" — third person singular] *tip*; elision of the *i*; *siC* for the *ṅ* [sic, as I read it]; *āstisico 'prkte* (Pā. 7-3-96, the print "೬-೩-೮೬"? — numerals doubtful [?]) gives the augment *īṭ*; *sicivṛddiḥ parasmaipadeṣu* (Pā. 7-2-1) gives vṛddhi; then *āvādeśa*; *iṭo 'ṭi* (Pā. 8-2-28) elides the *siC*; the augment *aṭ* to the stem; since it follows a non-verb word, the *nighāta* accent. *dvipat* — *dvau pādau asya dvipāt*; *saṃkhyāsupūrvasya* (Pā. 5-4-140) elides the end of the word *pāda*; as a samāsānta; *ayasmayādīni* [as printed "ಆಯಸ್ಮಯಾದೀನಿ" (Pā. 1-4-20)] gives *bha*-designation; so *pādaḥ pat* (Pā. 6-4-130) …
+
+### Printed p. 136  (PDF 157)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+…gives the substitute *pad* for *pād*; *dvitribhyāṃ pād-daṇmūrdhasu bahuvrīhau* (Pā. 6-2-197) gives the accent on the end of the latter member. *catuṣpat* — *catvāraḥ pādāḥ asya catuṣpād*; the rest of the process, apart from the accent, as before; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1) gives the natural accent of the first member; *idudupadhasya cāpratyayasya* (Pā. 8-3-41) gives *ṣatva* to the visarga. *ityai* — root *iṇ gatau*; in the sense of bhāva the suffix *kyap* [print: "ಕ್ರಿನ್", i.e. *ktin*]; the form is *itiḥ*; dative singular. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अमिनती दैव्यानि व्रतानि प्रमिनती मनुष्या युगानि ।
+> ईयुषीणामुपमा शश्वतीनामायतीनां प्रथमोषा व्यद्यौत् ॥ २ ॥
+
+> *aminatī daivyāni vratāni praminatī manuṣyā yugāni |*
+> *īyuṣīṇāmupamā śaśvatīnāmāyatīnāṃ prathamoṣā vyadyaut ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अमिनती । दैव्यानि । व्रतानि । प्रऽमिनती । मनुष्या । युगानि ।
+> ईयुषीणाम् । उपऽमा । शश्वतीनाम् । आऽयतीनाम् । प्रथमा । उषाः । वि । अद्यौत् ॥ २ ॥
+
+> *aminatī | daivyāni | vratāni | pra 'minatī | manuṣyā | yugāni |*
+> *īyuṣīṇām | upa 'mā | śaśvatīnām | ā 'yatīnām | prathamā | uṣāḥ | vi | adyaut ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> दैव्यानि व्रतानि देवसंबन्धीन्यग्निहोत्रादीनि कर्माणि । व्रतमिति कर्मनाम । व्रतं कर्वरमिति तन्नामसु पाठात् । तानि कर्माण्यमिनती अहिंसन्ती भानप्रदानेनानुकूलं कुर्वती । तथा मनुष्या मनुष्याणां युगानि युगोपलक्षितान्निमेषादिकालावयवान्प्रमिनती प्रकर्षेण हिंसन्ती । आयुः क्षपयन्तीत्यर्थः । यद्वा । युगानि युगानि परस्परसंयोगं प्रमिनती हिंसन्ती । वियोगं कुर्वतीत्यर्थः ।
+
+> *daivyāni vratāni devasaṃbandhīnyagnihotrādīni karmāṇi | vratamiti karmanāma | vrataṃ karvaramiti tannāmasu pāṭhāt | tāni karmāṇyaminatī ahiṃsantī bhānapradānenānukūlaṃ kurvatī | tathā manuṣyā manuṣyāṇāṃ yugāni yugopalakṣitānnimeṣādikālāvayavānpraminatī prakarṣeṇa hiṃsantī | āyuḥ kṣapayantītyarthaḥ | yadvā | yugāni yugāni parasparasaṃyogaṃ praminatī hiṃsantī | viyogaṃ kurvatītyarthaḥ |*
+
+*(Read from the image; checked against the OCR.)* "*Daivyāni vratāni* — the rites that belong to the gods, the Agnihotra and the rest. *Vrata* is a name for 'rite' (*karman*), since *vrataṃ karvaram* is read among the names of rites. Those rites *aminatī* — not harming, doing what is favourable by the giving of light. And *manuṣyā* — of men — *yugāni* — the divisions of time, beginning with the twinkling of an eye, marked by the *yuga* — *prāminatī*: she wears down exceedingly; that is, she exhausts life. Or else: *yugāni yugāni* — the pairs: *prāminatī* — she harms their mutual union; that is, she causes separation."
+
+### Printed p. 137  (PDF 158)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+> उषःकाले सर्वे यथायथं स्वस्वव्यापाराय गच्छन्तीति प्रसिद्धम् । किंच ईयुषीणां गच्छन्तीनामतीतानां शश्वतीनां नित्यानामुषसामुपमा । ताभिः सदृशीत्यर्थः । सादृश्यं च सदृशीरद्य सदृशीरिदु श्व इत्युक्तम् । ऋ. १-१२३-८ । तथायतीनां प्रथमागामिनीनामुषसां प्रथमभाविनी सती व्यद्यौत् । विशेषेण प्रकाशते । यद्वा । ईयुषीणां गमनशीलानां पश्वादीनां शश्वतीनां संततिप्रवाहरूपेण नित्यानामुपमा । तत्सन्निभेत्यर्थः । तथायतीनां रात्र्यवसानसमय उत्पद्यमानानां प्रज्ञावागादीनां प्रथमा प्रथमभाविनी । उषस्यागतायां वाचो बुद्धयश्च स्फुरन्तीति प्रसिद्धम् । तादृशी देवी व्यद्यौत् । प्राणिनामनुग्रहाय द्योतते ॥
+
+> *uṣaḥkāle sarve yathāyathaṃ svasvavyāpārāya gacchantīti prasiddham | kiṃca īyuṣīṇāṃ gacchantīnāmatītānāṃ śaśvatīnāṃ nityānāmuṣasāmupamā | tābhiḥ sadṛśītyarthaḥ | sādṛśyaṃ ca sadṛśīradya sadṛśīridu śva ityuktam | ṛ. 1-123-8 | tathāyatīnāṃ prathamāgāminīnāmuṣasāṃ prathamabhāvinī satī vyadyaut | viśeṣeṇa prakāśate | yadvā | īyuṣīṇāṃ gamanaśīlānāṃ paśvādīnāṃ śaśvatīnāṃ saṃtatipravāharūpeṇa nityānāmupamā | tatsannibhetyarthaḥ | tathāyatīnāṃ rātryavasānasamaya utpadyamānānāṃ prajñāvāgādīnāṃ prathamā prathamabhāvinī | uṣasyāgatāyāṃ vāco buddhayaśca sphurantīti prasiddham | tādṛśī devī vyadyaut | prāṇināmanugrahāya dyotate ‖*
+
+*(Read from the image; the reference "ऋ. १-१२३-८" is as printed and agrees with the OCR; "sadṛśīr adya sadṛśīr idu śvaḥ" is read as printed.)* "At the time of Uṣas it is well known that all go, each as is fitting, to his own business. Moreover she is the *upamā* — the likeness — of the past Uṣases, *īyuṣīṇām* — those that have gone — *śaśvatīnām* — the everlasting: that is, she is like them. The likeness has been stated in 'such dawns today, such dawns tomorrow' (Ṛ. 1-123-8). Likewise, being first (*prathamā*) among the Uṣases that are to come (*āyatīnām*, the first-coming), she shines (*vi adyaut*) — she shines specially. Or else: she is like *īyuṣīṇām* — the beasts and the like that move about — *śaśvatīnām* — everlasting by their continuous flow of progeny; that is, she resembles them. And *āyatīnām* — of the knowledge, speech and the rest that arise at the end of the night — she is the first, the first to appear; for it is well known that when Uṣas has come, speech and intellect stir to life. Such a goddess has shone; she shines for the favour of living beings."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Daivyāni* — belonging to the gods; *vratāni* — the rites, Agnihotra and the like; *aminatī* — not harming (since she is a giver of light, favourable); *manuṣyā* — of men; *yugāni* — the divisions of time beginning with the twinkling of the eye, or the pairs (couples); *prāminatī* — [she] who wears down exceedingly (causes decay), or who separates each from each; *īyuṣīṇām* — of those that have gone, or that are of a moving nature (and); *śaśvatīnām* — to the everlasting (Uṣases), or to living beings (everlasting by the continuity of progeny); *upamā* — like; *(tathā — and likewise)* *āyatīnām* — of the Uṣases that are to come, or of (wisdom and speech) that arise at the time of Uṣas; *prathamā* — the first, or the one standing at the beginning; *uṣāḥ* — goddess Uṣas; *vi adyaut* — shone well (shone for the favour of beings).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The goddess Uṣas does not obstruct the rites of the gods, the Agnihotra and the rest; but she wears away the lives of men. She, like those Uṣases who went before and who are everlasting (like those that are continuous in the flow of progeny), shone well as the first of the Uṣases to come (the first at the time of dawn for the wisdom and speech of waking beings, for their favour).
+
+**Printed English (as printed):** *Unimpeding divine rites, although wearing away the ages of mankind, the Dawn shines the similitude of the (mornings) that have passed, or that are to be for ever, the first of those that are to come.*
+
+### Printed p. 138  (PDF 159)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
+
+An English critic named Bloomfield describes the poetic idea and the style of composition of this ṛk as follows [printed in English]:
+
+> *There can be no question that I. 124.2. is the source of the repeated padas in I. 92. 11 and 12. The antithesis between* अमिनती *and* प्रमिनती *and* ईयुषीणां *and* आयतीनां *cannot but be intentional and primary. Note also the parallelism between* अमिनती *and* आयतीनां; *and* प्रमिनती *and* ईयुषीणां. *On the other hand, we ought to allow full weight to the really senseless non-sequitur of the second distich in I. 92. 11. reducing the ages of men, the woman shines by the light of her paramour (the sun). 'For the meaning of Yuga 'age' i. e. 'period of time' see Bal Gangadhar Tilak. The Arctic Home in the Vedas.*
+
+> **There can be no question that I. 124.2. is the source of the repeated padas in I. 92. 11 and 12. The antithesis between* aminatī *and* praminatī *and* īyuṣīṇāṃ *and* āyatīnāṃ *cannot but be intentional and primary. Note also the parallelism between* aminatī *and* āyatīnāṃ; *and* praminatī *and* īyuṣīṇāṃ. *On the other hand, we ought to allow full weight to the really senseless non-sequitur of the second distich in I. 92. 11. reducing the ages of men, the woman shines by the light of her paramour (the sun). 'For the meaning of Yuga 'age ' i. e. 'period of time ' see Bal Gangadhar Tilak. The Arctic Home in the Vedas.**
+
+> *Stanza I. 124.2 is the high-water mark of Vedic composition. The two antitheses* अमिनती…………प्रमिनती *and* ईयुषीणां…………आयतीनां *mark as later imitations all repetitions that disturb this balance. The relation of the two pairs of antithetical words may be expressed in the proportion:* अमिनतीः आयतीनां :: प्रमिनती ईयुषीणां. *That is to say: the dawns preserve the laws of the Gods (*अमिनती*) by their regular appearance (*आयतीनां*); the ages of men waste away (*प्रमिनती*) as the dawns fade day by day.*
+
+> **Stanza I. 124.2 is the high-water mark of Vedic composition. The two antitheses* aminatī…………praminatī *and* īyuṣīṇāṃ…………āyatīnāṃ *mark as later imitations all repetitions that disturb this balance. The relation of the two pairs of antithetical words may be expressed in the proportion:* aminatīḥ āyatīnāṃ :: praminatī īyuṣīṇāṃ. *That is to say: the dawns preserve the laws of the Gods (*aminatī*) by their regular appearance (*āyatīnāṃ*); the ages of men waste away (*praminatī*) as the dawns fade day by day.**
+
+(Rig-Veda Repetitions, Vol. I, p. 108.) *(Reproduced as printed; the Devanagari words inside the quotation are printed in the Kannada script in the source, in the hand of the printer, and are given here in Devanagari. The printed punctuation, "pădas", "Yuga ' age'" and the stray quotation mark, are kept.)* Thus, in the Kannada, the idea of the two ṛks 1-92-11 and 1-92-12 is combined in this single ṛk, and the construction of the antithesis in the excellent poetic style and the expression of feeling are greatly praised.
+
+***daivyāni vratāni aminatī*** — *daivasaṃbandhīni agnihotrādikarmāṇi ahiṃsantī | bhānapradānena anukūlaṃ kurvatī*: by giving light and by furnishing what is favourable to the sacrificer, she does not obstruct, "does not harm", the rites of sacrifice belonging to the gods — this is the sense.
+
+***yugāni prāminatī*** — Sāyaṇa states two kinds of meaning here. The first: *yugopalakṣitān nimeṣādikālāvayavān prakarṣeṇa hiṃsantī*. The word *yuga* indicates the span of men's lives. Uṣas, by the divisions called moment, day, month and the like, wears down all the period of human life — this is the sense. Wherever the span of human life is mentioned, the use of the word *yuga* is common — as in
+
+### Printed p. 139  (PDF 160)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+> मरुत्सु [?] वो दधीमहि स्तोमं यज्ञं च धृष्णुया ।
+> विश्वे ये मानुषा युगा पान्ति मर्त्यं रिषः ॥
+
+> *marutsu [?] vo dadhīmahi stomaṃ yajñaṃ ca dhṛṣṇuyā |*
+> *viśve ye mānuṣā yugā pānti martyaṃ riṣaḥ ‖*
+
+(Ṛ. Saṃ. 5-52-? [?] — the print's numerals are not clear to me; the OCR is letter-shaped. The first word, "marutsu"/"marutsvo", is doubtful, as is "dhṛṣṇuyā" in the print.) — and in other ṛks of this kind it may be seen. In this context the Maruts protect the sacrificer at all times; here also, and likewise in other places, the expression *mānuṣā yugā* ("the ages of men") is used.
+
+***īyuṣīṇām upamā; āyatīnāṃ prathamā*** — *atītānāṃ nityānām uṣasāṃ (tābhiḥ) sadṛśī; āgāminīnām uṣasāṃ prathamabhāvinī*: the meaning is that she has one and the same form for all the appearances of the Uṣases — those who have gone before and those who will come ever-lasting.
+
+In this ṛk a kind of sadness is mixed with the joy. By describing the beauty and loveliness of Uṣas, who gives consciousness and light to the whole world and fills living beings with life, the delight is expressed; and along with that, before this Uṣas, who continues ever in the state of youth, a certain agitation of mind shows itself, in the thought that humans and all other beings grow old in a short time and die. In this idea the experience of truth and the vision of beauty are joined. The vision of the truth that Uṣas wears away all the life of men is generally expressed whenever Uṣas is described. For example —
+
+> ईयुष्टे ये पूर्वतरामपश्यन्व्युच्छन्तीमुषसं मर्त्यासः ।
+> अस्माभिरू नु प्रतिचक्ष्याभूदो ते यन्ति ये अपरीषु पश्यान् ॥
+
+> *īyuṣṭe ye pūrvatarāmapaśyanvyucchantīmuṣasaṃ martyāsaḥ |*
+> *asmābhirū nu praticakṣyābhūdo te yanti ye aparīṣu paśyān ‖*
+
+(Ṛ. Saṃ. 1-113-11, as printed "೧-೧೧೩-೧೧".) — in many such places those who earlier saw this everlasting beauty of Uṣas and were delighted are all gone; and the same is the fate of those who come after; but Uṣas alone is ever young and eternal: with this thought the picture of man's brief life is reflected.
+
+**Vyākaraṇa-prakriyā (Ṛk 2, pp. 139–140; noted briefly, numbers as read by the OCR).** *aminatī* — root *mīñ hiṃsāyām* (Kryādi); śatṛ in the laṭ sense; *kryādibhyaḥ śnā* (Pā. 3-1-81) gives *śnā*; *svādīnām hrasvaḥ* [as printed; the OCR "Pā. 7-3-80"] shortens the root; since the suffix has the marker *p* [sic: *ś*], *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the *ā* of *śnā*; in the feminine ṅīp because it is *ugit*; the negative *naña*-tatpuruṣa compound; *tatpuruṣe tulyārthatṛtīyā…* [OCR "Pā. 6-2-2"] gives the natural accent of the first member (an indeclinable).
+
+### Printed p. 140  (PDF 161)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+*daivyāni* — *devasya imāni daivyāni*; in the sense of relationship, *devād yajñau* [print: "ದೇವಾದ್ಯಜ್ಞೌ", Pā. 4-1-85, as read by the OCR] gives the suffix *yañ*; *yasyeti ca* (Pā. 6-4-148) elides the *a*; since the suffix has the marker *ñ*, *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute; accusative plural. *prāminatī* — with the prefix *pra*; the process as before. *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute accent to the *ṅīp*… [as printed: *śatur anumaḥ*]; in the compound the accent of the final member. *manuṣyā* — *manor jātāv ñyat tuk ca* (Pā. 4-1-161) [as read] gives the suffix *yat*; with it the augment *tuk*; *tit svaritam* (Pā. 6-1-185) gives the suffix the *svarita*; when the genitive plural [sic, nominative plural] follows, *supāṃ sulug* (Pā. 7-1-39) gives *ā* for it.
+
+*īyuṣīṇām* — root *iṇ gatau*; when *liṭ* has come, *kvasuś ca* (Pā. 3-2-107) gives *kvasu*; taking it as cause the root is doubled; when the feminine is intended, *ugitaś ca* (Pā. 4-1-6) gives ṅīp; since it has the *bha* designation, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131) gives *saṃprasāraṇa* with *pūrvarūpa*; since the suffix beginning with a vowel follows, *iṇo yaṇ* (Pā. 6-4-81) gives *yaṇ* to the *i* of the root; *dīrgha iṇaḥ kiti* (Pā. 7-4-69) lengthens the reduplicative syllable; *śāsivasighasīnāṃ ca* (Pā. 8-3-60) gives *ṣatva* to the *s* of *vasu*; genitive plural. As the *ṅīp* and *sup* are unaccented the accent of *vasu* remains.
+
+*śaśvatīnām* — *ugitaś ca* (Pā. 4-1-6) gives ṅīp in the feminine; genitive plural. *āyatīnām* — prefix *ā*; root *iṇ gatau*; śatṛ in the laṭ sense; *iṇo yaṇ* (Pā. 6-4-81) gives *yaṇ*; ṅīp in the feminine; *jyāc chandasi bahulam* [as printed "ಜ್ಯಾತ್ಸಂದಸಿ ಬಹುಲಮ್" (Pā. 6-1-178)] gives the acute accent to the case-ending *nām* in the genitive plural.
+
+*adyaut* — root *dyut dīptau*; luṅ, third person singular *tip*, with loss of the *i*; *dyudbhyo luṅi* (Pā. 1-3-91) gives *parasmaipada*; by *vyatyaya* the *luk* of *siC*; where guṇa would be expected, vṛddhi occurs in the Veda; or else from the root *dyu abhigamane*; in luṅ, *ucyato vṛddhir luki hali* [print: "ಉತೋ ವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ" (Pā. 7-3-89)] gives vṛddhi; since it follows a non-verb word, the *nighāta* accent. ‖ 2 ‖
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 140 (PDF 161): Ṛk 2 complete (‖ 2 ‖); resume p. 141 (PDF 162) with Ṛk 3 Saṃhitā.
