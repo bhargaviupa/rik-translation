@@ -16919,4 +16919,54 @@ In the same way, in the Ṛk before us, the *stotra* is of the nature of song, p
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 5 written through p. 699 (Special Topics done; grammar through *rakṣati*, the rest of the grammar follows); resume p. 700 (PDF 721; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 700  (PDF 721)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Grammar of Ṛk 5, concluded.)* *ṛjūyantam* — *ṛjūm ātmana icchati ṛjūyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8 [as read]) gives *kyac*; after the *kyac*-ending, *laṭ* and for it *śatṛ*; the dual-ending follows, so by the *ugit*-rule the *num* augment; the accent of *kyac*. *paribhūṣati* — root *bhūṣa alaṃkāre*; *bhvādi*; *laṭ*, third person singular; because it is connected with *yat* [or *yaḥ*], the *nighāta* accent does not occur; since *śap* and *tip* are *anudātta*, the root's accent remains; since the *udāttavat* [word] *tiṅ* follows, *tiṅ codāttavati* (Pā. 8-1-71 [as read]) gives the *gati* (*pari*) the *nighāta*. ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> नमो दिवे बृहते रोदसीभ्यां मित्राय वोचं वरुणाय मीळ्हुषे सुमृळीकाय मीळ्हुषे ।
+> इन्द्रमग्निमुप स्तुहि द्युक्षमर्यमणं भगम् ।
+> ज्योग्जीवन्तः प्रजया सचेमहि सोमस्योती सचेमहि ॥ ६ ॥
+
+> *namo dive bṛhate rodasībhyāṃ mitrāya vocaṃ varuṇāya mīḷhuṣe sumṛḷīkāya mīḷhuṣe |*
+> *indramagnimupa stuhi dyukṣamaryamaṇaṃ bhagam |*
+> *jyogjīvantaḥ prajayā sacemahi somasyotī sacemahi ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> नमः । दिवे । बृहते । रोदसीभ्याम् । मित्राय । वोचम् । वरुणाय । मीळ्हुषे । सुऽमृळीकाय । मीळ्हुषे ।
+> इन्द्रम् । अग्निम् । उप । स्तुहि । द्युक्षम् । अर्यमणम् । भगम् ।
+> ज्योक् । जीवन्तः । प्रजया । सचेमहि । सोमस्य । ऊती । सचेमहि ॥ ६ ॥
+
+> *namaḥ | dive | bṛhate | rodasībhyām | mitrāya | vocam | varuṇāya | mīḷhuṣe | su 'mṛḷīkāya | mīḷhuṣe |*
+> *indram | agnim | upa | stuhi | dyukṣam | aryamaṇam | bhagam |*
+> *jyok | jīvantaḥ | prajayā | sacemahi | somasya | ūtī | sacemahi ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image; begins at the foot of p. 700.)*
+
+> दिवे द्योतमानाय सूर्याय नमो वोचम् । नमस्कारोपलक्षितं स्तोत्रं वोचं ब्रवीमि स्तौमीत्यर्थः । कीदृशाय तस्मै । बृहते महते [?]
+
+> *dive dyotamānāya sūryāya namo vocam | namaskāropalakṣitaṃ stotraṃ vocaṃ bravīmi staumītyarthaḥ | kīdṛśāya tasmai | bṛhate mahate [?]*
+
+### Printed p. 701  (PDF 722)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> बृहन्महतोरुपसंख्यानमिति विभक्तेरुदात्तत्वम् ॥ स्तुत्याय । तथा रोदसीभ्यां द्यावापृथिवीभ्यां तदभिमानिदेवाभ्यां नमो वोचम् । तथा मित्राय सर्वजनहिताय अहरभिमानिदेवाय नमो वोचम् । तथा वरुणायावरकाय रात्र्यभिमानिदेवाय । तथा मीळ्हुषे अभिमतफलस्य सेक्त्रे रुद्राय । कीदृशाय तस्मै । सुमृळीकाय शोभनसुखयित्रे । पुनः स एव विशेष्यते । मीळ्हुषे सुमृळीकायेति द्वे प्रत्येकं विशेषणभूते । इदानीं यजमान ऋत्विजं स्वात्मानं वा प्रति ब्रवीति । हे होतः हे आत्मन् वा इन्द्रमग्निं द्युक्षं दीप्तिमन्तमर्यमणं भगं चोपोपेत्य बुद्ध्या प्राप्य स्तुहि । स्तुतिं कुरु । युष्मदनुग्रहाज्ज्योक् चिरकालं जीवन्तो जीवनोपेता वयं प्रजया पुत्रभृत्यादिना सचेमहि संगता भूयास्म । किंच सोमस्येन्दोरूती ऊत्या सचेमहि । कमपि स्तुत्या तत्कारिकेण रक्षणेन सहिता भूयास्मेत्यर्थः ॥
+
+> *bṛhanmahatorupasaṃkhyānamiti vibhakterudāttatvam ‖ stutyāya | tathā rodasībhyāṃ dyāvāpṛthivībhyāṃ tadabhimānidevābhyāṃ namo vocam | tathā mitrāya sarvajanahitāya aharabhimānidevāya namo vocam | tathā varuṇāyāvarakāya rātryabhimānidevāya | tathā mīḷhuṣe abhimataphalasya sektre rudrāya | kīdṛśāya tasmai | sumṛḷīkāya śobhanasukhayitre | punaḥ sa eva viśeṣyate | mīḷhuṣe sumṛḷīkāyeti dve pratyekaṃ viśeṣaṇabhūte | idānīṃ yajamāna ṛtvijaṃ svātmānaṃ vā prati bravīti | he hotaḥ he ātman vā indramagniṃ dyukṣaṃ dīptimantamaryamaṇaṃ bhagaṃ copopetya buddhyā prāpya stuhi | stutiṃ kuru | yuṣmadanugrahājjyok cirakālaṃ jīvanto jīvanopetā vayaṃ prajayā putrabhṛtyādinā sacemahi saṃgatā bhūyāsma | kiṃca somasyendorūtī ūtyā sacemahi | kamapi stutyā tatkārikeṇa rakṣaṇena sahitā bhūyāsmetyarthaḥ ‖*
+
+*(Sense: "To the shining Sun I speak *namas* — praise marked with reverence. To what kind of [deity]? *Bṛhate* — great [the accent by the *upasaṃkhyāna* rule]; praiseworthy. Likewise to *rodasībhyām* — heaven and earth, [or] to the deities presiding over them, I speak the *namas*; to Mitra, who is good to all people and the god presiding over the day; to Varuṇa, the covering god presiding over the night; to *mīḍhuṣe* — the sprinkler of the desired fruit, Rudra. What kind? *Sumṛḷīkāya* — the giver of good happiness. *Mīḍhuṣe* and *sumṛḷīkāya* are separate epithets. Now the sacrificer addresses the priest or himself: O *hotṛ* or O self, approach with understanding Indra, Agni, the brilliant (*dyukṣam*) Aryaman, and Bhaga, and praise them. By your grace, living long (*jyok*), may we be joined with offspring — sons, servants and so on. And *somasya ūtī* — by the protection of Soma, the moon, may we be joined: may we, through praise, be accompanied by the protection that comes from it.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *bṛhate* — to the great (huge-formed) [sun]; *dive* — to the shining Sun; *namaḥ vocam* — I speak praise (I praise); *(tathā)* — likewise; *rodasībhyām* — to heaven and earth; *mitrāya* — to Mitra (the god of the day, who is good to all); *varuṇāya* — to Varuṇa (the covering god, the god of the night); *mīḍhuṣe* — to the sprinkler of the desired fruit; *sumṛḷīkāya* — the giver of beautiful happiness; *mīḍhuṣe* — to Rudra, the granter of boons; *(namaḥ vocam)* — I speak praise [or: I praise] (O *hotṛ*, or O self); *indram* — Indra; *agnim* — Agni; *dyukṣam* — the radiant; *aryamaṇam* — Aryaman; *(and)* *bhagam* — Bhaga; *upa stuhi* — approaching with understanding, praise; *jyok* — for a long time; *jīvantaḥ* — living; *(vayam)* — we; *prajayā* — with sons, servants and so on; *sacemahi* — may we be joined; *somasya* — of Soma (the moon); *ūtī* — by protection; *sacemahi* — may we be joined.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** I praise the great, shining Sun, heaven and earth, Mitra (god of the day, good to all), Varuṇa (god of the night), and Rudra, the sprinkler of fruit and giver of good happiness; O *hotṛ* (or O self), approach Indra, Agni, the radiant Aryaman and Bhaga and praise them; by their grace may we, living long, be joined with sons, servants and so on, and by the protection of Soma.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 5 complete. Ṛk 6 written through its Bhāvārtha (p. 701); resume p. 702 (PDF 723; images in w10h/ for PDF 661–728) with the printed English. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
