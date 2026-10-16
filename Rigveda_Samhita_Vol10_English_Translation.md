@@ -16685,4 +16685,52 @@ Here the order of the Soma-drinking of Mitra and Varuṇa is described.
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 4 written through p. 689 (Special Topics begun: entry *avapāneṣu* breaks off at "Likewise:" at the foot of p. 689); resume p. 690 (PDF 711; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 690  (PDF 711)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+> ऋष्वो न कृष्णप्रो [?] वपानमा गहि पिबा सोमं वशाँ अनु ।
+> निमेघमानो मघवन्दिवेदिव ओजिष्ठं दधिषे सहः ॥
+
+> *ṛṣvo na kṛṣṇapro [?] vapānam ā gahi pibā somaṃ vaśāṁ anu |*
+> *nimeghamāno maghavan dive-diva ojiṣṭhaṃ dadhiṣe sahaḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?], as read "೮-೪-೧೦" [?]; the first words are doubtful [?].) In this too, *avanītam* ["brought down"] is meant [by the word *avapāna*] — it shows the Soma ready for drinking in the cups, the *camasa* and the other vessels, and the nature of the vessel.
+
+> उष्प्वारेव [?] फर्वरेषु श्रयेथे प्रायोगेव श्वात्र्या शासुरेथः ।
+> दूकेव हि ष्मो यशसा जनेषु मापस्थातं महिषेवावपानात् ॥
+
+> *uṣpvāreva [?] pharvareṣu śrayethe prāyogeva śvātryā śāsurethaḥ |*
+> *dūkeva hi ṣmo yaśasā janeṣu māpa sthātaṃ mahiṣevāvapānāt ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೧೦೬-೩" [?]; the first line is doubtful in several letters [?].) In Ṛks like this, *avapāna* means a pond or a tank where buffaloes and the like drink. In the second of the Ṛks quoted, Sāyaṇa explains the word *avapāna* as *pīyate 'sminn iti pānaṃ hradādi | pānam evāvapānam* — "a pond and the like, where drinking [takes place]"; "the place where animals drink water is called *avapāna*". In the present case, we must understand the order of holding the *camasa* when the Soma is offered to Mitra and Varuṇa. Here the meaning is *camasapātra* — "the *camasa* vessel".
+
+***bhagaḥ*** — *bhago bhajateḥ*: from the root *bhaj*, which gives the meaning "to be worshipful, or fit for a share". The author of the Nirukta gives this derivation of the word (Ni. 1-[?], as read "೧-೭" [?]). Either meaning is possible here, as an epithet of *somaḥ*. The word is repeated here. For the first, "worshipful"; for the second, "fit for a share".
+
+***ṛtāvānā*** — *satyavantau yajñavantau vā mitrāvaruṇau*. The word *ṛta* means "truth" or "sacrifice": "those who protect the truth, [or] the performers of truth, or [as in] *yajño vā aryamā*" (Tai. Brā. 2-[?]-[?]-[?], as read "೨-೩-೫-೪" [?]) — such sentences show that the meaning is "doers of the sacrifice".
+
+> ऋतस्य गोपावधि तिष्ठथो रथं सत्यधर्माणा परमे व्योमनि ।
+> यमत्र मित्रावरुणावथो युवं तस्मै वृष्टिर्मधुमत्पिन्वते दिवः ॥
+
+> *ṛtasya gopāv adhi tiṣṭhatho rathaṃ satyadharmāṇā parame vyomani |*
+> *yam atra mitrāvaruṇāvatho yuvaṃ tasmai vṛṣṭir madhumat pinvate divaḥ ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?], as read "೫-೬೩-೧" [?].) In Ṛks like this, Mitra and Varuṇa are described as protectors of all the worlds, with the quality of truth, and as protectors of the sacrifices and the like; here too the same is described.
+
+***sajoṣasaḥ*** — *samānaprītiyuktāḥ*: "joined in equal pleasure": [the poet says] "you two make the Soma-drinking, with equal pleasure". The use of the order of one [cup] in which both Mitra and Varuṇa drink Soma together, at the same time and with equal pleasure, is stated in the Taittirīya Saṃhitā in this way:
+
+### Printed p. 691  (PDF 712)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> वरुणं देवा अब्रुवन्यज्ञꣳ संभुवा सोमꣳ राजानꣳ हनामेति सोऽब्रवीद्वरं वृणै मह्यं चैवैष मित्राय च सह गृह्यातै [?] इति तस्मान्मैत्रावरुणः सह गृह्यते ।
+
+> *varuṇaṃ devā abruvan yajñaṃ saṃbhuvā somaṃ rājānaṃ hanāmeti so 'bravīd varaṃ vṛṇai mahyaṃ caivaiṣa mitrāya ca saha gṛhyātai [?] iti tasmān maitrāvaruṇaḥ saha gṛhyate |*
+
+(Tai. Saṃ. 6-[?]-[?]-[?], as read "೬-೪-೯-೧, ೨" [?]; read from the image [?].) *Kannada sense:* When the gods, to kill Soma, first requested Mitra, he said, "I am everyone's friend, so I shall not agree"; and then the gods approached Varuṇa and asked the same; Varuṇa asked a boon in that connexion: "the Soma-*graha* must be prepared with me and with Mitra together." Accordingly, whenever the Soma-juice is pressed, the *maitrāvaruṇa*-graha is at one time. This, a drinking at one time and with joint pleasure, from a single vessel, is described here by the word *sajoṣasaḥ*.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly; numbers as printed).** *śaṃtamaḥ* — *tamap* in the sense of intensity; since it is *pit* it is *anudātta*. *bhūtu* — root *bhū sattāyām*; *loṭ*, third person singular, *tip*; *eruḥ* (Pā. 3-4-86 [as read]) gives *u* for the *i*; *bahulaṃ chandasi* (Pā. 2-4-73 [as read]) gives *luk* of *śap*; *bhūsuvos tiṅi* (Pā. 7-3-88 [as read]) forbids *guṇa*; *nighāta* after a *tiṅanta*. *avapāneṣu* — root *pā pāne*; *lyuṭ*; *ana* for *yu*; since the suffix is *lit* [?], the udātta on the syllable before the suffix; in the *prādi*-compound, *kṛduttarapadaprakṛtisvara*. *devāsaḥ* — since *jas* follows, *ājjaser asuk* (Pā. 7-1-50 [as read]) gives the *asuk* augment. *juṣerata* — root *juṣī prītisevanayoḥ*; *liṅ*; third person plural, the suffix *jha*; by *vyatyaya* the *ran*-substitution does not occur; *ātmanepadeṣv anataḥ* (Pā. 7-1-5 [as read]) gives *ata*; by *bahulaṃ chandasi* the *ruṭ* augment; as it stands in the *pada* after a *tiṅanta*, the *nighāta*. *sajoṣasaḥ* — *samānaṃ joṣo yeṣāṃ te sajoṣasaḥ*; the root as above, with the suffix *asun*; *kṛduttarapadaprakṛtisvara*. *rājānā* — root *rājṛ dīptau*; the Uṇ. suffix *kanin*; dual; *supāṃ sulug* gives *ā* for the case-ending; *āmantrita-nighāta*.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 4 written through p. 691 (Special Topics done; grammar through *rājānā*, the rest follows); resume p. 692 (PDF 713; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
