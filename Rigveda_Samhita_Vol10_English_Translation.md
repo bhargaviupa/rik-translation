@@ -14599,4 +14599,62 @@ In this Sūkta the first three Ṛks belong to the *prauga-śastra*. The *prauga
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 written through p. 609 (Special Topics: *prauga-śastra* passage; more entries follow); resume p. 610 (PDF 631); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 610  (PDF 631)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Special Topics of Ṛk 1, continued:)* But what is Vāyu's right of first drinking? There are two reasons for that. First: Agni receives the oblations before all the gods. But for that [Agni's] priority, the help of Vāyu is required: as Agni is Vāyu's offspring and has Vāyu's help, the birth of Agni itself takes place in the sacrificial house.
+
+> वायोरग्निर्जायते प्राणाद्धि बलान्मथ्यमानोऽधिजायते ।
+
+> *vāyor agnir jāyate prāṇād dhi balān mathyamāno 'dhijāyate |*
+
+(Ai. Brā. [?]-[?], as read "೩-೩೫" [?].) Also:
+
+> स यदग्निः प्रवानिव दहति तदस्य वायव्यं रूपं तदस्य तेनानुसंशंसति ।
+
+> *sa yad agniḥ pravān iva dahati tad asya vāyavyaṃ rūpaṃ tad asya tenānusaṃśaṃsati |*
+
+(Ai. Brā. 3-[?], as read "೩-೩೪" [?].) When Agni, kindled by flames, burns, he is in the form of Vāyu; thus Agni is identical with Vāyu. Therefore the first oblations that Agni gets also join Vāyu. Second:
+
+> अग्निः सुषमिदिति शंसति वायुर्वा अग्निः सुषमिद्वायुर्हि स्वयमात्मानं समिन्धे स्वयमिदं सर्वं यदिदं किंच वायुमेव तदन्तरिक्षलोक आयातयति ॥
+
+> *agniḥ suṣamid iti śaṃsati vāyur vā agniḥ suṣamid vāyur hi svayam ātmānaṃ samindhe svayam idaṃ sarvaṃ yad idaṃ kiṃca vāyum eva tad antarikṣaloka āyātayati ‖*
+
+The blazing Agni is Vāyu. Vāyu kindles himself and can [also] make the whole world blaze.
+
+> तूर्णिर्हव्यवाळिति शंसति वायुर्वै तूर्णिर्हव्यवाड्वायुर्हीदं सर्वं सद्यस्तरति यदिदं किंच वायुर्देवेभ्यो हव्यं वहति वायुमेव तदन्तरिक्षलोक आयातयति ।
+
+> *tūrṇir havyavāḍ iti śaṃsati vāyur vai tūrṇir havyavāḍ vāyur hīdaṃ sarvaṃ sadyas tarati yad idaṃ kiṃca vāyur devebhyo havyaṃ vahati vāyum eva tad antarikṣaloka āyātayati |*
+
+He carries the oblations with speed. Moving through the whole universe in a moment, he distributes the oblations to all the gods.
+
+> प्रणीर्यज्ञानामिति शंसति वायुर्वै प्रणीर्यज्ञानां यदा हि प्राणित्यथ यज्ञोऽथाग्निहोत्रं वायुमेव तदन्तरिक्षलोक आयातयति ॥
+
+> *praṇīr yajñānām iti śaṃsati vāyur vai praṇīr yajñānāṃ yadā hi prāṇity atha yajño 'thāgnihotraṃ vāyum eva tad antarikṣaloka āyātayati ‖*
+
+Vāyu is the giver of life to the sacrifice. The sacrifice of Vāyu is sustained by the power of the breath; therefore the Agnihotra too becomes possible. And so —
+
+> सो अध्वरा करति जातवेदा इति शंसति वायुर्वै जातवेदा वायुर्हीदं सर्वं करोति यदिदं किंच वायुमेव तदन्तरिक्षलोक आयातयति ॥
+
+> *so adhvarā karati jātavedā iti śaṃsati vāyur vai jātavedā vāyur hīdaṃ sarvaṃ karoti yad idaṃ kiṃca vāyum eva tad antarikṣaloka āyātayati ‖*
+
+(Ai. Brā. 3-[?], as read "೩-೩೪" [?]; these Brāhmaṇa passages, in small type, are read from the image and are partly doubtful [?].) *Vāyuve jātavedas* (the all-knowing), "the one who has produced the whole universe", and so on: the nature of Vāyu is praised. Since Vāyu is the original cause of Agni, and since Agni is the chief helper in distributing the oblations to the gods,
+
+### Printed p. 611  (PDF 632)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+…and since Vāyu is stated to be identical with Agni, the position of Vāyu is that it must be the first — [higher] than the right of first drinking that belongs to Agni: this point is indicated here.
+
+***devāḥ yemire*** — two kinds of construction are made for this. The first: "the gods fix [a rule]". As explained before, in the contest Vāyu won first; since he has the right to drink first, before all the gods, the gods themselves fixed this place for Vāyu. The second: taking the word *devāḥ* as "the shining priests", it is also explained that the sacrificial priests, who are the praisers, have prepared the Soma-juice towards the *āhavanīya* fire for your first drinking, you who are the deity of the priests.
+
+***kratve*** — the word *kratu* is found among the names of *karman* (action) (Ni. 2-[?], as read "೨-೧" [?]), and among the names of *prajñā* (understanding) (Ni. 3-[?], as read "೩-೯" [?]). This word is used in many senses — action, wisdom, resolve, power — but in both [lists] *karma* and *prajñā* are chiefly current. In the Ṛk before us, for *kratve* it is explained as *karmaṇe tatsiddhyartham* — "for the accomplishment of the action".
+
+***asthiran*** — *ṛtvigbhir dhṛtās tiṣṭhanti* — "the Soma-juices stand held by the priests for the sake of the action": "the priests, taking the Soma-juice, stand ready to offer it for your drinking" is the meaning.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly; numbers as printed).** *stīrṇam* — root *stṛñ ācchādane*; *kta* suffix; *ṛta iddhātoḥ* (Pā. 7-1-100 [as read]) gives *i*; *hali ca* (Pā. 8-2-77 [as read]) gives the long vowel; *radābhyāṃ niṣṭhāto naḥ pūrvasya ca daḥ* (Pā. 8-2-42 [as read]) gives *niṣṭhā*'s *t* the *na*; *raṣābhyāṃ no ṇaḥ samānapade* gives *ṇa*; by the suffix accent, the final udātta. *yāhi* — root *yā prāpaṇe*; *loṭ*, second person singular; as it follows a *tiṅanta*, *nighāta*. *vītaye* — root *vī gatiprajanakāntyasanakhādaneṣu*; for it *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* (Pā. 3-3-96 [as read]) gives *ktin*, udātta; dative singular. *niyutā* — *niyut* is the name of Vāyu's horses; since it is a generic indicator, the singular occurs; instrumental. *śatinībhiḥ* — *ata iniṭhanau* (Pā. 5-2-115 [as read]) gives the suffix *ini* in the sense of *matup*; since it ends in *a*, in the feminine *ṅīp*.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 written through p. 611 (grammar of *stīrṇam … śatinībhiḥ* done; the grammar continues on p. 612); resume p. 612 (PDF 633); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
