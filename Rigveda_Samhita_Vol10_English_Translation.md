@@ -10736,4 +10736,100 @@ In the matter of Indra's coming to the sacrificial hall, the sentence *astaṃ r
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 430 (PDF 451): Ṛks 1–2 complete; Ṛk 3 Saṃhitā…English and Special Topics written to the foot of p. 430 (the *vajrī gavāṃ vrajam iva sisāsan* entry breaks off mid-sentence); resume p. 431 (PDF 452). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428, Pratipadārtha has a typo "aavindat" for *avindat*); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 431  (PDF 452)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+(Continuing the *vajrī gavāṃ vrajam iva sisāsan* entry from p. 430:) "…as one finds the cow-pen, so Indra strove to obtain Soma": thus it is described. —
+
+> दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः ।
+> अपां बिलमपिहितं यदासीद्वृत्रं जघन्वाँ अप तद्ववार ॥
+
+> *dāsapatnīr ahigopā atiṣṭhan niruddhā āpaḥ paṇineva gāvaḥ |*
+> *apāṃ bilam apihitaṃ yad āsīd vṛtraṃ jaghanvām̐ apa tad vavāra ‖*
+
+(Ṛ. Saṃ. 1-32-11, as read "೧-೩೨-೧೧".) In this Ṛk it is told how Indra protected the cows carried off by the demon.
+
+***aṅgirastamaḥ*** — *atiśayena śatrūn gamanaśīlaḥ aṅgāravat tejasvī vā*: "Indra is of the nature of going quickly against the enemies, or is brilliant like the sparks of Agni": so the meaning.
+
+***indraḥ parivṛtāḥ iṣaḥ dvāraḥ apāvṛṇot*** — "Indra, by opening the waterways of the clouds that block rain on the earth, causes food to grow": so the meaning.
+
+***iṣaḥ parivṛtāḥ*** — *iṣyamāṇāni vrīhyādyannāni bhūmau parito vyāptāny akarot*: "by splitting the cloud with the thunderbolt and making rain on the earth, he makes the rice and other grains grow and fill the earth; since Indra does this, it is proper for Indra to accept the Soma in the form of oblation at the sacrifice." The word *iṣ* is recorded among the names of food (Ni. 2-[?]; as read "೨-೯"). In this Ṛk *iṣaḥ* is used twice; it is explained as "food, which is desired by all".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; numbers as printed).** *avindat* — root *vidḷ lābhe*; *laṅ* third person singular, *tip*; *itaś ca* drops *i*; *śa*-vikaraṇa; *śemuchadīnām* (Pā. 7-1-59) gives the augment *num*; the augment *aṭ*; since at the beginning of the *pāda*, no *nighāta*; the acute on the first syllable. *divaḥ* — *ūḍidaṃ padādi…* (Pā. 6-1-171) gives the acute to the ending. *nihitam* — root *ḍudhāñ*; *kta* in the passive; *dadhāter hiḥ* (Pā. 7-4-42) gives *hi* to the root; *gatir anantaraḥ* (Pā. 6-2-49) gives the prefix its accent. *guhā* — *supāṃ sulug* — loss of the locative ending.
+
+### Printed p. 432  (PDF 453)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+*(Grammar, continued.)* *nidhim* — *upasarge ghoḥ kiḥ* (Pā. 3-3-92) gives the suffix *ki* after *ḍudhāñ*; *ādgholopa iṭi ca* (Pā. 6-4-64) drops the *ā*; *kṛd-uttarapadaprakṛtisvara*. *parivītam* — root *vī gatyādiṣu*; the suffix *kta* in the passive; *gatir anantaraḥ* gives the accent of the prefix (*pari*). *anante* — *na vidyate antaḥ yasya tasmin*; *nañsubhyām* gives the acute on the last syllable of the latter member. *vajrī* — *vajro 'syāsti iti vajrī*; *ata iniṭhanau* gives *ini* in the possessive sense. *sisāsan* — root *ṣaṇa sambhaktau*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. 3-1-7) gives *san* in the sense of desire; *sanīvantardha…* (Pā. 7-2-49) by the optional rule gives no augment *iṭ*; *janasanakhanāṃ sañjhalośh* (Pā. 6-4-42) gives *ā* to the root; *sanyaṅoḥ* (Pā. 6-1-9) gives doubling; *sanyataḥ* (Pā. 7-4-79) gives *i* to the reduplicative; after it *śatṛ*; *abhyastānām ādiḥ* gives the acute on the first syllable. *avṛṇot* — root *vṛñ varaṇe*; *laṅ* third person singular; *tiṅ-nighāta*. *parivṛtāḥ* — the root as above; *kta* in the passive; *anyeṣām api dṛśyate* (Pā. 6-3-137) gives the lengthening of the prior member; *gatir anantaraḥ* gives the prefix (*pari*) its accent. ‖ 3 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> दाधृहाणो वज्रमिन्द्रो गभस्त्योः क्षद्मेव तिग्ममसनाय सं श्यत् ।
+> संशिशदहिहत्याय सं श्यत् [?] ।
+> संविव्यान ओजसा शवोभिरिन्द्र मज्मना ।
+> तष्टेव वृक्षं वनिनो नि वृश्चसि परश्वेव नि वृश्चसि ॥ ४ ॥
+
+> *dādhṛhāṇo vajramindro gabhastyoḥ kṣadmeva tigmamasanāya saṃ śyat |*
+> *saṃśiśadahihatyāya saṃ śyat [?] |*
+> *saṃvivyāna ojasā śavobhirindra majmanā |*
+> *taṣṭeva vṛkṣaṃ vanino ni vṛścasi paraśveva ni vṛścasi ‖ 4 ‖*
+
+*(Read from the image; the third line of the Saṃhitā is printed "*saṃśiśad ahihatyāya saṃ śyat*", and the Pada divides "*sam | śyat*"; the exact letters of the line (*saṃ śiśad* / *saṃ śyat*) are doubtful: [?].)*
+
+### Printed p. 433  (PDF 454)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+**॥ पदपाठः ॥**
+
+> दाधृहाणः । वज्रम् । इन्द्रः । गभस्त्योः । क्षद्माऽइव । तिग्मम् । असनाय । सम् । श्यत् ।
+> अहिऽहत्याय । सम् । श्यत् ।
+> सम्ऽविव्यानः । ओजसा । शवःऽभिः । इन्द्र । मज्मना ।
+> तष्टाऽइव । वृक्षम् । वनिनः । नि । वृश्चसि । परश्वाऽइव । नि । वृश्चसि ॥ ४ ॥
+
+> *dādhṛhāṇaḥ | vajram | indraḥ | gabhastyoḥ | kṣadmā 'iva | tigmam | asanāya | sam | śyat |*
+> *ahi 'hatyāya | sam | śyat |*
+> *sam 'vivyānaḥ | ojasā | śavaḥ 'bhiḥ | indra | majmanā |*
+> *taṣṭā 'iva | vṛkṣam | vaninaḥ | ni | vṛścasi | paraśvā 'iva | ni | vṛścasi ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अयमिन्द्रो गभस्त्योर्बाह्वोर्वज्रं दाधृहाणो दृढं गृह्णन् ॥ दृह दृहि वृद्धौ । लिटः कानच् । गभस्तिरिति बाहुनाम गभस्ती बाहू इति तन्नामसु पाठात् ॥ किमर्थम् । असनाय शत्रोरुपरि क्षेपणाय । तिग्ममत्यन्ततीक्ष्णं वज्रं सं श्यत् । सम्यक् तीक्ष्णं करोति ॥ शो तनूकरणे । ओतः श्यनि लोपः । छान्दसोऽडभावः । यद्वा । लेटीतश्च लोप इतीकारलोपः ॥ तत्र दृष्टान्तः । क्षद्मेव उदकमिव । उदकं यथा शत्रूणां निरसनायाभिमन्त्रणादिसंस्कारेण तीक्ष्णीक्रियते तद्वत् । क्षद्मेत्युदकनामसु क्षद्म नभ इति तन्नामसु पाठात् ॥ पुनरपि तदेव विशेष्यते । अहिहत्यायाहेर्वृत्रस्य मेघस्य वा हननाय । हन्तेर्हननस्य चेति क्यप् तकारान्तादेशश्च । सं श्यत् । पूर्वमेव तीक्ष्णं सत् पुनरपि वधाय तीक्ष्णयति । हे इन्द्र ओजसा बलेन पराभिभवनसामर्थ्येन शवोभिः सेनालक्षणैर्बलैर्मज्मना शारीरेण च बलेन संविव्यानः । सम्यग्युक्तः सन् । व्येञ् संवरणे । लिटः कानच् । ग्रहिज्येति सम्प्रसारणम् । तष्टेव वृक्षम् । यथा कश्चित्तष्टा वृक्षाणां तक्षणस्य साधु कर्ता वनिनो वनसम्बन्धिनो वृक्षान्निवृश्चति स्तोपयोगाय नितरां छिनत्ति तक्षणेन तनूकरोति तथा त्वमप्यस्मान् वक्रनूचरन्तं शत्रुं नि वृश्चसि । किंच परश्वेव नि वृश्चसि । यथा परशुना कश्चिच्छैनत्ति वृक्षं तथा त्वमप्यस्मत्कृत्सिविद्वेषिर्मर्हलैर्निरामस्मद्द्वेषिणं वृश्चसि ॥
+
+> *ayamindro gabhastyorbāhvorvajraṃ dādhṛhāṇo dṛḍhaṃ gṛhṇan ‖ dṛha dṛhi vṛddhau | liṭaḥ kānac | gabhastiriti bāhunāma gabhastī bāhū iti tannāmasu pāṭhāt ‖ kimartham | asanāya śatrorupari kṣepaṇāya | tigmamatyantatīkṣṇaṃ vajraṃ saṃ śyat | samyak tīkṣṇaṃ karoti ‖ śo tanūkaraṇe | otaḥ śyani lopaḥ | chāndaso 'ḍabhāvaḥ | yadvā | leṭītaśca lopa itīkāralopaḥ ‖ tatra dṛṣṭāntaḥ | kṣadmeva udakamiva | udakaṃ yathā śatrūṇāṃ nirasanāyābhimantraṇādisaṃskāreṇa tīkṣṇīkriyate tadvat | kṣadmetyudakanāmasu kṣadma nabha iti tannāmasu pāṭhāt ‖ punarapi tadeva viśeṣyate | ahihatyāyāhervṛtrasya meghasya vā hananāya | hanterhananasya ceti kyap takārāntādeśaśca | saṃ śyat | pūrvameva tīkṣṇaṃ sat punarapi vadhāya tīkṣṇayati | he indra ojasā balena parābhibhavanasāmarthyena śavobhiḥ senālakṣaṇairbalairmajmanā śārīreṇa ca balena saṃvivyānaḥ | samyagyuktaḥ san | vyeñ saṃvaraṇe | liṭaḥ kānac | grahijyeti samprasāraṇam | taṣṭeva vṛkṣam | yathā kaścittaṣṭā vṛkṣāṇāṃ takṣaṇasya sādhu kartā vanino vanasambandhino vṛkṣānnivṛścati stopayogāya nitarāṃ chinatti takṣaṇena tanūkaroti tathā tvamapyasmān vakranūcarantaṃ śatruṃ ni vṛścasi | kiṃca paraśveva ni vṛścasi | yathā paraśunā kaścicchainatti vṛkṣaṃ tathā tvamapyasmatkṛtsividveṣirmarhalairnirāmasmaddveṣiṇaṃ vṛścasi ‖*
+
+*(Read from the image; the passages on *kṣadmeva*, the *kyap*-grammar on *ahihatyāya* and the last sentence are small and partly doubtful: [?]. Sense: "This Indra, *dādhṛhāṇaḥ* — firmly holding the thunderbolt in both his arms (*gabhastyoḥ*; *gabhasti* is a name of arm) — for what? for *asanāya* — for hurling upon the enemy — makes the sharp (*tigmam*) thunderbolt sharper still, *saṃ śyat* (root *śo* 'to sharpen'): as water (*kṣadma* — water; in the list of names of water) is made sharp by charming, to repel the enemies; again for *ahihatyāya* — for the slaying of Ahi, Vṛtra, or the cloud, he sharpens it a second time. O Indra, endowed fully (*saṃvivyānaḥ*) with strength (*ojas*), the armies (*śavobhiḥ*) and bodily strength (*majmanā*): as a carpenter cuts the trees of a forest to make them useful, so you cut the enemy who walks crooked [?] among us; and as with an axe one cuts a tree, so you cut our enemies.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(ayam) indraḥ* — this Indra; *gabhastyoḥ* — in both arms; *tigmam* — the sharp; *vajram* — thunderbolt; *dādhṛhāṇaḥ* — firmly holding; *asanāya* — to hurl on the enemy; *kṣadmā iva* — as water (is made sharp by charming); *(vajram* — the thunderbolt); *saṃ śyat* — makes well sharp; *ahihatyāya* — to slay Vṛtra (the cloud), to split it; *saṃ śyat* — makes sharp. *(he indra* — O Indra); *ojasā* — with the strength (of overcoming); *śavobhiḥ* — with the strength of the army; *majmanā* — and with bodily strength; *saṃvivyānaḥ* — fully endowed; *vṛkṣam* — a tree; *taṣṭā iva* — as a carpenter; *vaninaḥ* — [cuts] those of the forest; *ni vṛścasi* — you cut (our enemies); *paraśvā iva* — as with an axe (one cuts a tree); *ni vṛścasi* — you cut well (the enemies).
+
+### Printed p. 434  (PDF 455)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Indra, holding in both hands his sharp thunderbolt in order to hurl it at the enemy, whets it, like water (made sharp by charms), and sharpens it again in order to kill Vṛtra (the cloud). O Indra, endowed with the strength that overcomes, with the strength of an army, and with the strength of body: as one cuts the trees of a forest, cut our enemies; as with an axe one cuts down a tree, cut them well.
+
+**Printed English (heading "English Translation"; as printed):** *"Grasping his sharp thunderbolt with both hands, Indra whetted it to hurl it (on his foes), like the water (of an imprecation): he whetted it for the destruction of Ahi. Indra, you are fully endowed with strength, with energy, with might, you cut (our enemies) to pieces, as a woodcutter the trees of a forest; you cut them to pieces as if with a hatchet."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+***gabhastyoḥ*** — *bāhvoḥ*: the word *gabhasti* is recorded among the names of rays (Ni. 1-[?]; as read "೩-೧೪") and among the names of arm (Ni. 2-[?]; "೨-೯"); the meaning "arm" is given here.
+
+***tigmam*** — *atyantatīkṣṇam*: the word *tigma* is recorded among the names of the thunderbolt (Ni. 2-[?]; as read "೨-೧೧"). —
+
+> इमा रुद्राय स्थिरधन्वने गिरः क्षिप्रेषवे देवाय स्वधावने ।
+> अषाळ्हाय सहमानाय वेधसे तिग्मायुधाय भरता शृणोतु नः ॥
+
+> *imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhāvane |*
+> *aṣāḷhāya sahamānāya vedhase tigmāyudhāya bharatā śṛṇotu naḥ ‖*
+
+(Ṛ. Saṃ. 2-33-[?], as read "೨-೩೩-೧"; the first line is printed differently and I give it as read: [?].) In this Ṛk *tigmāyudhāya* is explained as "to him whose weapon is sharp"; *tigmaṃ tejateḥ utsāhakarmaṇaḥ* (Ni. 10-[?]; as read "೧೦-೭") is the explanation: here the word is used as an epithet of the thunderbolt, in the sense "very sharp".
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 434 (PDF 455): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā…English and Special Topics begun (first two entries *gabhastyoḥ*, *tigmam*); resume p. 435 (PDF 456) with the rest of the Ṛk 4 Special Topics. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 Saṃhitā line 3 "saṃśiśad … saṃ śyat" doubtful, p. 432, and bhāṣya p. 433); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
