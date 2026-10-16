@@ -5861,4 +5861,146 @@ Thus describing the glory of the *trivṛt* and other stomas —
 
 ---
 
-**Progress note:** Sūkta 125 complete (printed pp. 187–219). Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 224 (PDF 245): introduction and Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Ṛk 1 Special Topics (*amandān stomān* — the stomas passage) breaks off mid-sentence at the foot of p. 224 ("In the Chāndogya Upaniṣad…"); resume p. 225 (PDF 246). Open flags: the p. 189 itihāsa bhāṣya (partial); the Taittirīya Saṃhitā quotations on pp. 222–224 are small type with several [?].
+### Printed p. 225  (PDF 246)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+*(Special topics, Ṛk 1, continued — the Chāndogya/Brāhmaṇa passage on stomas:)*
+
+> येन छन्दसा स्तोष्यन्स्यात्तच्छन्द उपधावेद्येन स्तोमेन स्तोष्यमाणः स्यात्तं स्तोममुपधावेत् ।
+
+> *yena chandasā stoṣyansyāttacchanda upadhāvedyena stomena stoṣyamāṇaḥ syāttaṃ stomamupadhāvet |*
+
+(Chā. U. [as printed "ಛಾ. ಉ. ೧-೩-೧೦" read from the print; the OCR reads "१-३-१०"].) — by this sentence the greatness of the *udgītha* is described, and it is ordained that one should resort to the stoma by which the praise suits that context and is brought to completion, and meditate on it.
+
+In the same way in the present ṛk also, from the word *stomān* the sense is "praise (*stotra*) that is of the nature of song, of the nature of eulogy, and of surpassing usefulness". The author of the Nirukta has explained this ṛk as follows:
+
+> अमन्दान्स्तोमान्प्र भरे मनीषा अमन्दानल्पान्वा । बालो बलवर्ती भर्तव्यो भवत्यम्बास्मा अलं भवतीति वाम्बा बलं भवतीति वा बलो वा प्रतिषेद्धव्यव्यवहितः [?] । प्रभरे मनीषया मनसा ईषया स्तुत्या प्रज्ञया वा । सिन्धावधि निवसतो भावयव्यस्य राज्ञः । यो मे सहस्रं निरमिमीत सवानतूर्तो राजातर्ण इति वात्वरमाण इति वा प्रशंसामिच्छमानः ॥
+
+> *amandānstomānpra bhare manīṣā amandānalpānvā | bālo balavartī bhartavyo bhavatyambāsmā alaṃ bhavatīti vāmbā balaṃ bhavatīti vā balo vā pratiṣeddhavyavyavahitaḥ [?] | prabhare manīṣayā manasā īṣayā stutyā prajñayā vā | sindhāvadhi nivasato bhāvayavyasya rājñaḥ | yo me sahasraṃ niramimīta savānatūrto rājātarṇa iti vātvaramāṇa iti vā praśaṃsāmicchamānaḥ ‖*
+
+(Ni. 6-10 [?], as printed "೬-೧೦"; the OCR shows "८-१०" or similar — doubtful.) *(Read letter by letter; the words of the first, etymological, part — "amandān … alpān vā", "bālo balavartī", "ambāsmā alaṃ bhavatīti", "balo vā pratiṣeddhavya-vyavahitaḥ" — are small and doubtful and I do not complete them.)* Here for the word *atūrta* the meanings *ātūrṇaḥ* and *atvaramāṇaḥ* are given as synonyms: that is, one who is by no one … or "one whose conduct is without haste". The author of the Nirukta, citing
+
+> सविता यन्त्रैः पृथिवीमरम्णादस्कम्भने सविता द्यामदृंहत् ।
+> अश्वमिवाधुक्षद्धुनिमन्तरिक्षमतूर्ते बद्धं सविता समुद्रम् ॥
+
+> *savitā yantraiḥ pṛthivīmaramṇādaskambhane savitā dyāmadṛṃhat |*
+> *aśvamivādhukṣaddhunimantarikṣamatūrte baddhaṃ savitā samudram ‖*
+
+(Ṛ. Saṃ. 10-149-1, as read from the print "೧೦-೧೪೯-೧".) (Ni. 10-32 [?], as read), says in that ṛk too the same meaning *ātūrṇa iti vā tvaramāṇa iti vā*. Here two qualities of Bhāvayavya (Svanaya) appear: first, because he has surpassing prowess he is one who cannot be conquered or harmed by anyone; second, because he is wise, he is one whose conduct is without haste, full of discrimination.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; noted briefly, numbers as read by the OCR).** *amandān* — *na mandāḥ amandāḥ tān amandān*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the natural accent of the first member. *bhare* — root *ḍubhṛñ bharaṇe*; Bhvādi; laṭ first person singular; since it follows a non-verb word, the *nighāta* accent.
+
+### Printed p. 226  (PDF 247)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+*manīṣā* — *supāṃ sulug…* (Pā. 7-1-39) gives *luk* to the case-ending (*ṭā*). *kṣiyataḥ* — root *kṣi nivāsagatyoḥ*; Tudādi; śatṛ in the laṭ sense; *śa*-augment; *aci śnudhātubhruvāṃ…* (Pā. 6-4-77) gives *iyaṅ*; since the case-ending (*jas* or *ṅas*) follows a śatṛ without *num*, *śatur anumo nadyajādī* (Pā. 6-1-173) gives it the acute. *bhāvyasya* — the form is *bhāvayavyasya*; by Vedic usage a letter is lost. *amimīta* — root *māṅ māne*; Juhotyādi; laṅ third person singular *ta*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75) gives *ślu* for the *śap*; *ślau* (Pā. 6-1-10) gives doubling of the root; *bhṛñāmit* (Pā. 7-4-76) gives *i* to the reduplicative syllable; *ī halyaghoḥ* (Pā. 6-4-113) gives *ī* for the final of the root, since it is *abhyasta*; the augment *aṭ*; since *yaḥ* is connected, no *nighāta*; since the augment is acute, first-syllable acute. *savān* — root *ṣuñ abhiṣave*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *chandasi janasanakhanāṃ saṃ…* [print: "ಛಂದಸಿ ಜನಸನಖನಾಂ ಸಂ…" Pā. 3-2-67 [?]] gives *vanip*, … the suffix *ac* [print]; because of *cit*, *citaḥ* (Pā. 6-1-163) gives the final-acute; nominative plural. *atūrtaḥ* — root *turvī hiṃsāyām*; in the passive, the suffix *kta*; *rāllopaḥ* (Pā. 6-4-21) elides the *v* following the *r*; *hali ca* (Pā. 8-2-77) lengthens the penultimate; *na tūrtaḥ atūrtaḥ*; by *vyatyaya* the first-syllable acute of the latter member. *icchamānaḥ* — root *iṣu icchāyām*; by *vyatyaya* *śānac* in the laṭ sense, *śa*-augment; *iṣugamiyamāṃ chaḥ* (Pā. 7-3-77) gives *cha*; *āne muk* (Pā. 7-2-82) gives *muk*; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* (Pā. 6-1-186) makes it unaccented and the accent of the *śa* remains. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> शतं राज्ञो नाधमानस्य निष्कान्शतमश्वान्प्रयतान्त्सद्य आदम् ।
+> शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवोऽजरमा ततान ॥ २ ॥
+
+> *śataṃ rājño nādhamānasya niṣkānśatamaśvānprayatāntsadya ādam |*
+> *śataṃ kakṣīvā~ asurasya gonāṃ divi śravo 'jaramā tatāna ‖ 2 ‖*
+
+### Printed p. 227  (PDF 248)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+**॥ पदपाठः ॥**
+
+> शतम् । राज्ञः । नाधमानस्य । निष्कान् । शतम् । अश्वान् । प्रऽयतान् । सद्यः । आदम् ।
+> शतम् । कक्षीवान् । असुरस्य । गोनाम् । दिवि । श्रवः । अजरम् । आ । ततान ॥ २ ॥
+
+> *śatam | rājñaḥ | nādhamānasya | niṣkān | śatam | aśvān | pra 'yatān | sadyaḥ | ādam |*
+> *śatam | kakṣīvān | asurasya | gonām | divi | śravaḥ | ajaram | ā | tatāna ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> नाधमानस्य स्वीकर्तव्यमित्युच्चैर्याचमानस्यासुरस्य धनानां निरसितुर्दानशीलस्य राज्ञः स्वतेजसा दीप्यमानस्य सैनयस्य निष्कानाभरणविशेषान् इयत्ताविशेषविशिष्टानि वा सुवर्णानि शतसंख्याकानि । शतं सहस्रमित्यपरिमितवचनः । अपरिमितान् । सद्यः प्रार्थनानन्तरमेव कक्षीवानहमादम् । आत्तवानस्मि । स्वीकृतवानस्मीत्यर्थः । तथा प्रयतान् शुद्धान्लक्षणोपेतानाशुगमनसमर्थान्हयानश्वान्शतम् । आदम् । तथा गोनां पुंगवानां बलीवर्दानामित्यर्थः । उत्तरमन्त्रे स्त्रीगवीनामभिधानात् । तेषां शतमादम् । एवं प्रदाता राजा दिवि द्युलोके श्रवः कीर्तिमजरमजीर्णं शाश्वतीमा ततान । विस्तारितवान् । गवादिप्रतिग्रहीताहं स्वर्गे कीर्तिमकरवमित्यर्थः ॥
+
+> *nādhamānasya svīkartavyamityuccairyācamānasyāsurasya dhanānāṃ nirasiturdānaśīlasya rājñaḥ svatejasā dīpyamānasya sainayasya niṣkānābharaṇaviśeṣān iyattāviśeṣaviśiṣṭāni vā suvarṇāni śatasaṃkhyākāni | śataṃ sahasramityaparimitavacanaḥ | aparimitān | sadyaḥ prārthanānantarameva kakṣīvānahamādam | āttavānasmi | svīkṛtavānasmītyarthaḥ | tathā prayatān śuddhānlakṣaṇopetānāśugamanasamarthānhayānaśvānśatam | ādam | tathā gonāṃ puṃgavānāṃ balīvardānāmityarthaḥ | uttaramantre strīgavīnāmabhidhānāt | teṣāṃ śatamādam | evaṃ pradātā rājā divi dyuloke śravaḥ kīrtimajaramajīrṇaṃ śāśvatīmā tatāna | vistāritavān | gavādipratigrahītāhaṃ svarge kīrtimakaravamityarthaḥ ‖*
+
+*(Read from the image; a few words are small — "iyattāviśeṣa-viśiṣṭāni" and "balīvardānām" — and given as read.)* "Of the king who, begged with *nādhamānasya* — 'let it be accepted' — loudly urging, of the *asura* — the one who casts off riches, one who is given to giving, shining by his own splendour, Sainya — *niṣkān* — particular ornaments, or gold pieces of a definite number, a hundred in number. (*Śatam*, 'a hundred', is also a word for 'a thousand', not limiting: immeasurable.) *Sadyaḥ* — immediately after the asking — I, Kakṣīvat, *ādam* — took, accepted. Likewise *prayatān* — pure, with good marks, able to go swiftly, horses, *aśvān*, a hundred; I took. Likewise *gonām* — of bulls, oxen (since the next mantra speaks of cows); of them, a hundred I took. Thus the king who gave *divi* — in the heaven-world — *śravaḥ*, imperishable (*ajaram*), eternal fame, spread it out (*ā tatāna*): the sense is that I, the receiver of the gift of cows and the like, made his fame in heaven."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Kakṣīvān* — Kakṣīvat (I); *nādhamānasya* — [who] urgently begs, "let it be accepted"; *asurasya* — who gives wealth; *rājñaḥ* — (of the king called Svanaya); *śatam* — countless; *niṣkān* — *niṣkas*; *prayatān* — pure, of good marks; *śatam* — a hundred; *aśvān* — horses (and); *gonām* — of bulls; *śatam* — a hundred; *sadyaḥ* — at once (immediately after his asking); *ādam* — I took (the king, by giving); *divi* — in the world of heaven; *ajaram* — eternal; *śravaḥ* — (his) fame; *ā tatāna* — made to spread.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** As soon as King Svanaya asked [me] to accept, I accepted the countless *niṣkas* he gave, a hundred pure horses, a hundred bulls; (having given gifts to me in this way) the king made his fame spread eternally in heaven (I, receiving the gifts, made his fame eternal in heaven).
+
+### Printed p. 228  (PDF 249)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**Printed English (as printed):** *From which generous prince, soliciting (my acceptance), I Kakshivat, unhesitatingly accepted a hundred nishkas, a hundred vigorous steeds, and a hundred bulls, whereby he has spread his imperishable fame through heaven.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
+
+***nādhamānasya*** — for the word *nādhamānāḥ* the author of the Nirukta gives the meaning *yācamānāḥ*, "those who beg" (Ni. 4-3 [?], as printed). In the present ṛk, *svīkartavyam ity uccair yācamānasya* — "of the one who urgently begs 'it must be accepted'" — is an epithet of the word *rājñaḥ*, "of the king".
+
+***asurasya*** — that many meanings are possible for the word *asura* has been shown in the special topics on Ṛ. Saṃ. 1-108-6 (Ṛk Saṃhitā, part 8, p. 59[?] — as printed "ಪೇ. ೫೯೭"? the numerals are unclear to me) and on ṛks 1-123-1 and 1-151-4. Among them there is the chief meaning "one who is given to giving". In the present ṛk, *dhanānāṃ nirasituḥ dānaśīlasya* — "one who casts off [gives] riches, given to giving" — it is an epithet of the word *rājñaḥ* (that is, of Svanaya).
+
+***gonām*** — *puṃgavānāṃ balīvardānām ity arthaḥ*: "of bulls, of oxen".
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly, numbers as read by the OCR).** *nādhamānasya* — root *nāthṛ yācñā…*; Bhvādi; *śānac* in the laṭ sense, *śap*; *āne muk* (Pā. 7-2-82) gives *muk*; since the *sārvadhātuka* follows the *upadeśa*, it is unaccented and the root-accent remains; genitive singular. *niṣkān* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; *nau sader ḍiḥ* [print: "ನೌ ಸದೇರ್ಡಿಃ"] (Uṇ. 3-?) gives *ka* when *ni* is the upapada; by the marker *ḍ* the *ṭi* of the root is elided; final-acute by the suffix accent. *prayatān* — root *yam uparame*; *kta*; *anudāttopadeśavanatitanotyādīnām…* (Pā. 6-4-37) elides the nasal *m* of the root; *gatir anantaraḥ* (Pā. 6-2-49) gives the natural accent of the *gati* (*pra*); accusative plural. *ādam* — root *ḍudāñ dāne*; Juhotyādi; with *ā* as the upapada, *ādo 'nāsyavihasane* [print: "ಆಜೋ ದೋನಾಸ್ಯವಿಹರಣೇ" Pā. 1-3-20] would give *ātmanepada*, which does not occur here in the Veda; leṭ first person singular *mip*; *bahulaṃ chandasi* gives *luk* of the *śap*-substitute; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97) elides the *i* of the ending; *leṭo 'ṭāṭau* (Pā. 3-4-94) gives *aṭ* to it,
+
+### Printed p. 229  (PDF 250)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+…. *asurasya* — root *asu kṣepaṇe*; *aser uran* (Uṇ. 1-42 as read) gives the suffix *uran*; *ñnityādir nityam* gives the first-syllable acute; genitive singular. *gonām* — the word *go*; with the genitive plural following, although it has no *padānta* status, *goḥ pādānte* (Pā. 7-1-57) gives the augment *nuṭ* also here by Vedic usage. *divi* — *ūḍidaṃpadādi…* (Pā. 6-1-171) gives the acute to the case-ending. *ajaram* — *na vidyate jarā yasya tam*; *nañsvarasya bādhakatayā jaramarapriyamṛtāḥ* (Pā. 6-2-116) gives the first-syllable acute of the latter member. *tatāna* — root *tanu vistāre*; liṭ first person singular; since it follows a non-verb word, the *nighāta* accent. ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> उप मा श्यावाः स्वनयेन दत्ता वधूमन्तो दश रथासो अस्थुः ।
+> षष्टिः सहस्रमनु गव्यमागात्सनत्कक्षीवाँ अभिपित्वे अह्नाम् ॥ ३ ॥
+
+> *upa mā śyāvāḥ svanayena dattā vadhūmanto daśa rathāso asthuḥ |*
+> *ṣaṣṭiḥ sahasramanu gavyamāgātsanatkakṣīvā~ abhipitve ahnām ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> उप । मा । श्यावाः । स्वनयेन । दत्ताः । वधूऽमन्तः । दश । रथासः । अस्थुः ।
+> षष्टिः । सहस्रम् । अनु । गव्यम् । आ । अगात् । सनत् । कक्षीवान् । अभिऽपित्वे । अह्नाम् ॥ ३ ॥
+
+> *upa | mā | śyāvāḥ | svanayena | dattāḥ | vadhū 'mantaḥ | daśa | rathāsaḥ | asthuḥ |*
+> *ṣaṣṭiḥ | sahasram | anu | gavyam | ā | agāt | sanat | kakṣīvān | abhi 'pitve | ahnām ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> स्वनयेन दत्ताः श्यावादर्वायुक्तत्वात् श्यावाः श्यावर्णाश्वयुक्ता वधूमन्तः आरूढाभिर्वधूभिस्तद्वन्तो दश दशसंख्याकाः रथासो रथा मा मामुपास्थुः । उपस्थिताः । गव्यशब्दो गोसमूहवाची । षष्टिः सहस्रमनु षष्ट्यधिकसहस्रं गवां समूहोऽन्वागात् । अनुगतः । ततः कक्षीवानात्मानं परोक्षेण ब्रवीति । तत्सर्वं प्रतिगृह्यायं
+
+> *svanayena dattāḥ śyāvādarvāyuktatvāt śyāvāḥ śyāvarṇāśvayuktā vadhūmantaḥ ārūḍhābhirvadhūbhistadvanto daśa daśasaṃkhyākāḥ rathāso rathā mā māmupāsthuḥ | upasthitāḥ | gavyaśabdo gosamūhavācī | ṣaṣṭiḥ sahasramanu ṣaṣṭyadhikasahasraṃ gavāṃ samūho 'nvāgāt | anugataḥ | tataḥ kakṣīvānātmānaṃ parokṣeṇa bravīti | tatsarvaṃ pratigṛhyāyaṃ*
+
+### Printed p. 230  (PDF 251)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+> कक्षीवानह्नां दिवसानां मध्येऽभिपित्वे सन्निहितेऽहनि सनत् । स्वीकृतं रथवाद्यादिकं स्वपित्रे समर्पयति स्वयं वा स्वीकरोति । अभिपित्वशब्द आसन्नकालवाची प्रपित्वशब्द इतिवत् । स च प्रपित्वेऽभीक इत्यासन्नस्येति यास्कोक्तत्वादासन्नवचनः । नि. ३-२० [?] । उपसर्गभेदेऽप्यर्थाभेदः ॥
+
+> *kakṣīvānahnāṃ divasānāṃ madhye 'bhipitve sannihite 'hani sanat | svīkṛtaṃ rathavādyādikaṃ svapitre samarpayati svayaṃ vā svīkaroti | abhipitvaśabda āsannakālavācī prapitvaśabda itivat | sa ca prapitve 'bhīka ityāsannasyeti yāskoktatvādāsannavacanaḥ | ni. 3-20 [?] | upasargabhede 'pyarthābhedaḥ ‖*
+
+*(Read from the image; the first clause continues the sentence begun at the foot of p. 229: "…having accepted all that, this Kakṣīvat …". The Nirukta number is printed "೩-೩೦" in the Special Topics and "೩-೨೦" in the bhāṣya; the OCR gives "३-२०" for the bhāṣya, "३-३०" for the topics — I leave both, doubtful.)* "…Kakṣīvat, in the day *abhipitve* — the near, present day, among the days (*ahnām*), *sanat* — [the one who] gives to his own father the chariots and the like accepted, or accepts them himself. The word *abhipitva* denotes near time, like the word *prapitva*; and that has the sense 'near', since Yāska says '*prapitve abhīke* means *āsannasya*' (Ni. 3-20 [?]): the sense is not different though the prefix differs."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Svanayena dattāḥ* — given by Svanaya; *śyāvāḥ* — dark-coloured (drawn by dark-coloured horses); *vadhūmantaḥ* — with my wives (accompanied by wives); *daśa* — ten; *rathāsaḥ* — chariots; *mā* — to me; *upa asthuḥ* — came near; *ṣaṣṭiḥ sahasram* — a thousand and sixty; *gavyam* — a herd of cows; *anu ā agāt* — followed; *kakṣīvān* — I, Kakṣīvat; *ahnām* — of the days; *abhipitve* — on the present (near) day; *sanat* — gave (to my father) (accepted).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** King Svanaya gave me ten chariots drawn by dark horses and with my wives, and a thousand and sixty cows; (all of these) I offered (accepted) today [for you, that is, for the father].
+
+**Printed English (as printed):** *Ten chariots drawn by bay steeds, and carrying my wives, stood near me, given me by Swanaya; and a thousand and sixty cows followed: these, after a short interval of time, did Kakshivat deliver (to his father).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 3.**
+
+> अभिपित्वशब्दः आसन्नकालवाची प्रपित्वशब्द इतिवत् । स च प्रपित्वेऽभीक इत्यासन्नस्य ।
+
+> *abhipitvaśabdaḥ āsannakālavācī prapitvaśabda itivat | sa ca prapitve 'bhīka ityāsannasya |*
+
+(Ni. 3-30 [?], as printed.) *abhipitva* and *prapitva* — both words give the meaning "near, arrived". Since the author of the Nirukta has given for the word *prapitve* the meaning *abhīke* ("near"), and the word *abhipitve* has the same meaning, here *abhipitve* means "near". *Ahnām abhipitve* means "in the middle of many days" — the sense: "when the day arrives on which Kakṣīvat presented to his father the generous gifts given by Svanaya"; but, by the words *ahnām abhipitve*, the explanation "the end of the day, that is, in the evening he gave to his father" must not be taken; so some [scholars] explain…
+
+---
+
+**Progress note:** Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 230 (PDF 251): Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Special Topics (*abhipitve ahnām*) breaks off mid-sentence at the foot of p. 230; resume p. 231 (PDF 252). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224 and the Nirukta quotation p. 225 small type with several [?].
