@@ -23,7 +23,7 @@ About the seer Kakṣīvān, the Bṛhaddevatā and other works say this: a king
 
 > *evaṃ vai para āṭṇāraḥ kakṣīvā~ auśijo vītahavyaḥ śrāyasastrasadasyuḥ paurukutsnaḥ prajākāmā acintayata ‖*
 
-(Taittirīya Saṃhitā, as printed "೫-೬-೫-೩" [?].) This is said in the Taittirīya Saṃhitā of the Yajurveda. Therefore this seer is extremely famous both in composing mantras and among those who perform sacrificial rites. This seer is the seer of the Sūktas 116–125 of Maṇḍala 1 of the Ṛgveda (in all 146 ṛks), of ṛks 1–5 of Sūkta 126 (5 ṛks), and of Sūkta 74 of Maṇḍala 9 (9 ṛks), altogether 160 ṛks (as printed: "೧೧೬-೧೨೫ … ಒಟ್ಟು ೧೪೬ … ೧೨೬ … ೧-೫ … ೫ … ೭೪ … ೯ … ಒಟ್ಟು ೧೬೦"). The name of this seer occurs in the following ṛks of the Ṛgveda (as printed, in small type; the numbers are read doubtfully and each is marked): Ṛ. Saṃ. 1-12[?]-2 [?]; 1-12[?]-3 [?]; 6-2[?]-1 [?]; 2-9-10 [?]; 10-2[?]-10 [?]; 1-1[?]2-6 [?]; 1-[?]0-[?]3 [?]; 1-112 [?]; 8-24-8 [?]; 1-12[?]-4 [?]; 1-1[?]-1 [?]; 1-112-11; 10-61-16; 10-143-1 — "these ṛks in which it occurs". (The reader's OCR of this line reads, among others, "1-126-2", "1-123-3", "1-18-1", "1-112-11", "10-61-16", "10-143-1"; the middle items are too garbled to use.)
+(Taittirīya Saṃhitā 5-6-5-3, as printed "೫-೬-೫-೩"; the same reference is printed clearly on p. 3 and the reader's OCR reads it there.) This is said in the Taittirīya Saṃhitā of the Yajurveda. Therefore this seer is extremely famous both in composing mantras and among those who perform sacrificial rites. This seer is the seer of the Sūktas 116–125 of Maṇḍala 1 of the Ṛgveda (in all 146 ṛks), of ṛks 1–5 of Sūkta 126 (5 ṛks), and of Sūkta 74 of Maṇḍala 9 (9 ṛks), altogether 160 ṛks (as printed: "೧೧೬-೧೨೫ … ಒಟ್ಟು ೧೪೬ … ೧೨೬ … ೧-೫ … ೫ … ೭೪ … ೯ … ಒಟ್ಟು ೧೬೦"). The name of this seer occurs in the following ṛks of the Ṛgveda (as printed, in small type; the numbers were checked against the reader's OCR, which reads the first two and the last four clearly): Ṛ. Saṃ. 1-126-2; 1-123-3; … eight further references in the middle of the list whose numerals the OCR garbles and that I cannot read reliably from the small type `[?]` (the OCR gives them as "L-IL-N; 2-F-00; nn-394-00; 7-002-2; 0-810-09; n-nn2; F-29-0; 0-03L-4" — letter-shaped substitutes for digits, kept here only as a record); … 1-18-1; 1-112-11; 10-61-16; 10-143-1 — "these ṛks in which it occurs".
 
 ### Printed p. ii  (PDF 8)
 
@@ -33,7 +33,7 @@ In the nineteenth Anuvāka of the first Maṇḍala there are the 7 Sūktas from
 
 > *parucchepa ṛṣiḥ | parvavacchepaḥ paruṣiparuṣi śepo 'syeti vā |*
 
-(Nirukta 10-42 [?] — the last digit is doubtful in the small type, and the reader's OCR reads 10-42.) That is, he is called so because "he grew up in comfort and was well built in all his joints" — this is the main intention; the etymology of the word *parucchepa* is not so important here. This seer's story is also told in the Aitareya Brāhmaṇa (adhyāya 22 [?], khaṇḍa 5-6 [?]) and in the Kauṣītaki Brāhmaṇa (13-4-5 [?]). In these 13 Sūktas seen by Parucchepa there are in all 100 ṛks [?: as printed "೧೦೦"]. This seer's son Anānata Pārucchepi is the seer of 3 ṛks of Sūkta 111 of Maṇḍala 9. All these ṛks have one special distinguishing feature: they are in metres named Atyaṣṭi, Atiśakvarī and Atidhṛti. Sūkta 127 is in Atiśakvarī; the remaining Sūktas (except for some ṛks) are composed in Atyaṣṭi. This kind of metre has 7 pādas and in all 68 syllables; in some places one or two syllables more or less are also found. We have described these metres, with their characteristics and examples, in detail in Ṛ. Saṃ. Part 1, pp. 221–231. Another special feature of the ṛks seen by Parucchepa is told by Yāska:
+(Nirukta 10-42, as printed; the reader's OCR reads it clearly.) That is, he is called so because "he grew up in comfort and was well built in all his joints" — this is the main intention; the etymology of the word *parucchepa* is not so important here. This seer's story is also told in the Aitareya Brāhmaṇa (adhyāya 22, khaṇḍa 5-6, as printed and as read by the OCR) and in the Kauṣītaki Brāhmaṇa (13-4-5, as printed and as read by the OCR). In these 13 Sūktas seen by Parucchepa there are in all 100 ṛks [?: as printed "೧೦೦"]. This seer's son Anānata Pārucchepi is the seer of 3 ṛks of Sūkta 111 of Maṇḍala 9. All these ṛks have one special distinguishing feature: they are in metres named Atyaṣṭi, Atiśakvarī and Atidhṛti. Sūkta 127 is in Atiśakvarī; the remaining Sūktas (except for some ṛks) are composed in Atyaṣṭi. This kind of metre has 7 pādas and in all 68 syllables; in some places one or two syllables more or less are also found. We have described these metres, with their characteristics and examples, in detail in Ṛ. Saṃ. Part 1, pp. 221–231. Another special feature of the ṛks seen by Parucchepa is told by Yāska:
 
 > अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयाहो दर्शनीयेति ।
 > तत्परुच्छेपस्य शीलम् ॥
@@ -41,7 +41,7 @@ In the nineteenth Anuvāka of the first Maṇḍala there are the 7 Sūktas from
 > *abhyāse bhūyāṃsamarthaṃ manyante yathāho darśanīyāho darśanīyeti |*
 > *tatparucchepasya śīlam ‖*
 
-(Nirukta 10-42 [?], the same reference again.)
+(Nirukta 10-42, the same reference again.)
 
 ### Printed p. iii  (PDF 9)
 
@@ -85,7 +85,7 @@ That the Sūktas seen by Parucchepa belong to very ancient mantras there is no d
 
 (Aitareya Brāhmaṇa, as printed "೨೨-೬": Ai. Brā. 22-6.) Once the gods and the Asuras fought in these worlds. Then, on the sixth day of the sacrifice (the "dvādaśāha"), the gods drove the Asuras out of these worlds. Then the Asuras took the wealth they had in their hands and fled and threw it into the ocean. Afterwards the gods pursued the Asuras and, by the power of reciting the ṛks seen by Parucchepa, got back the wealth the Asuras had thrown into the ocean. When getting it back, the seventh pāda of the ṛks seen by Parucchepa (the pāda that is repeated, the *punaḥ-parihita* pāda) helped them. In the world, to pull from a deep place something that has fallen, people use a hook (marginal English word "hook" printed); that is natural. In the same way the seventh pāda of the ṛks seen by this seer (the pāda "*sumṛḻīko na āgahi*" and the like) draws up the wealth in the ocean and makes it come to the gods; that is the meaning. The man who, knowing this matter well, performs the rite by reciting the mantras accordingly, conquers his enemies, drives them from this world and himself gets their wealth.
 
-The application of the ṛks seen by Parucchepa and their inner meaning are told in the Aitareya Brāhmaṇa in this way (the reference printed here is not legible to me in the small type [?]):
+The application of the ṛks seen by Parucchepa and their inner meaning are told in the Aitareya Brāhmaṇa in this way (Ai. Brā. 22-25, as read by the reader's OCR; I could not read it in the print):
 
 > पारुच्छेपीरुपदधाति पूर्वो सननोः [?] पुरस्तात्स्थितयाज्यानां रोहितं वै नामैतच्छन्दो यत्पारुच्छेपमेतेन वा इन्द्रः सप्त स्वर्गाँल्लोकानरोहत् । रोहति सप्त स्वर्गाँल्लोकान्य एवं वेद । तदाहुर्यत्पञ्चपदा एव पञ्चमस्याह्नो रूपं षट्पदाः षष्ठस्याथ कस्मात्सप्तपदाः षष्ठेऽहञ्क्रि [?]-यन्त इति । षड्भिरेव पद्यैः षष्ठमहराप्नुवन्त्यपच्छिद्यैवैतदहर्यत्सप्तमं [?] तदेव सप्तमेन पदेनाभ्यारभ्य वसन्ति वाचमेव तत्पुनरुपयन्ति सन्तत्यै ॥
 
@@ -117,7 +117,7 @@ Regarding the use of the Sūktas seen by Parucchepa in the Śastra mantras, the 
 
 > *dyaurvai devatā ṣaṣṭhamaharvahati trayastriṃśastomo raivataṃ sāmāticchandāśchando yathādevatametena yathāstomaṃ yathāsāma yathācchandasaṃ rādhnoti ya evaṃ veda ‖*
 
-(Ai. Brā. 22-7 [?], as printed "೨೨-೭".) The Kannada then explains: on the sixth day of the Daśarātra sacrifice described above, the deity is Dyaus (heaven), the Stoma recited is the *trayastriṃśa*, the Sāman is *Raivata*, and the metre is *Aticchandas*; the man who knows this attains the deity, the Stoma, the Sāman and the metre, each according to what is proper.
+(Ai. Brā. 22-7 [?], as printed "೨೨-೭"; the reader's OCR garbles the last digits, giving "…-2".) The Kannada then explains: on the sixth day of the Daśarātra sacrifice described above, the deity is Dyaus (heaven), the Stoma recited is the *trayastriṃśa*, the Sāman is *Raivata*, and the metre is *Aticchandas*; the man who knows this attains the deity, the Stoma, the Sāman and the metre, each according to what is proper.
 
 ### Printed p. vii  (PDF 13)
 
@@ -127,7 +127,7 @@ The details of the *trayastriṃśa Stoma* we have already told. Nevertheless in
 
 > *ekādaśabhyo hiṅkaroti sa tisṛbhiḥ sa saptabhiḥ sa ekayā | ekādaśabhyo hiṅkaroti sa ekayā sa tisṛbhiḥ sa saptabhiḥ | ekādaśabhyo hiṅkaroti sa saptabhiḥ sa ekayā sa tisṛbhiranto vai trayastriṃśaḥ ‖*
 
-That is: the *tṛca* to be recited (the group of three ṛks) in the first *paryāya*, the first ṛk to be recited three times, the second ṛk seven times, the third ṛk once (so that eleven ṛks are recited). In the second *paryāya* the first ṛk of the *tṛca* is recited once, the second ṛk three times, the third ṛk seven times (altogether 11 ṛks). In the third *paryāya* the first ṛk is recited seven times, the second once, the third three times (altogether 11 ṛks). In this way, since the number of ṛks recited in the three *paryāyas* is three times eleven, that is thirty-three, this Stoma has the name *trayastriṃśa-stoma*. The Sāman produced from the ṛk "*revatīr naḥ sadhamāde*" (Ṛ. Saṃ. 1-30-13 [?]) has the name *Raivata*. A metre with more syllables than Gāyatrī is called *Aticchandas*. On this sixth day the deities are Vāk, Gau and Dyau. The Stoma is to be praised with the *trayastriṃśa*; with the Raivata Sāman it is to be sung. The ṛks of the Aticchandas metre are to be recited (for the Śastra mantras). These are the special programmes of this sixth day.
+That is: the *tṛca* to be recited (the group of three ṛks) in the first *paryāya*, the first ṛk to be recited three times, the second ṛk seven times, the third ṛk once (so that eleven ṛks are recited). In the second *paryāya* the first ṛk of the *tṛca* is recited once, the second ṛk three times, the third ṛk seven times (altogether 11 ṛks). In the third *paryāya* the first ṛk is recited seven times, the second once, the third three times (altogether 11 ṛks). In this way, since the number of ṛks recited in the three *paryāyas* is three times eleven, that is thirty-three, this Stoma has the name *trayastriṃśa-stoma*. The Sāman produced from the ṛk "*revatīr naḥ sadhamāde*" (Ṛ. Saṃ. 1-30-13, as printed and as read by the OCR) has the name *Raivata*. A metre with more syllables than Gāyatrī is called *Aticchandas*. On this sixth day the deities are Vāk, Gau and Dyau. The Stoma is to be praised with the *trayastriṃśa*; with the Raivata Sāman it is to be sung. The ṛks of the Aticchandas metre are to be recited (for the Śastra mantras). These are the special programmes of this sixth day.
 
 > यद्वै समानोदर्कं तत्षष्ठस्याह्नो रूपं यद्वैव तृतीय-महस्तदेतत्पुनर्यत्षष्ठं [?] यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुनर्निवृत्तं यद्रेतवद्यत्पर्यस्तवद्यत्रिवद्यद्रथन्तररूपं [?] यदुत्तमे पदे देवता निरुच्यते यदसौ लोकोऽभ्युदितः ॥
 
@@ -167,37 +167,37 @@ The *ājya-śastra* mantra recited on the sixth day must be ṛks of the Sūkta 
 
 > *ā vāṃ ratho niyutvānvakṣadavase [?]*
 
-(Ṛ. Saṃ. 1-135-4 [?] to the 6th ṛk; as printed "… ರಿಂದ ೬ ವರೆಗಿನ ಋಕ್ಕುಗಳು")
+(Ṛ. Saṃ. 1-135-4 to the 6th ṛk; as printed "… ರಿಂದ ೬ ವರೆಗಿನ ಋಕ್ಕುಗಳು"; the reader's OCR reads "೧-೧೩೫೪", with the hyphen lost)
 
 > सुषुमा यातमद्रिभिः
 
 > *suṣumā yātamadribhiḥ*
 
-(Ṛ. Saṃ. 1-13[?]-1 [?] and three ṛks)
+(Ṛ. Saṃ. 1-137-1 to the 3rd ṛk; the reader's OCR reads "೧-೧೭-೧", which has lost the digit 3, and my own reading of the small type was also "1-13?-1")
 
 > युवां स्तोमेभिर्देवयन्तो अश्विना
 
 > *yuvāṃ stomebhirdevayanto aśvinā*
 
-(Ṛ. Saṃ. 1-13[?]-[?] [?], up to the 6th ṛk)
+(Ṛ. Saṃ. 1-139-3 to the 6th ṛk, as read by the reader's OCR)
 
 > अवर्मह इन्द्र दाद्हि श्रुधी नः
 
 > *avarmaha indra dādhi śrudhī naḥ*
 
-(Ṛ. Saṃ. 1-13[?]-[?] [?] and the 2nd [?] ṛks) — the first words are read doubtfully.
+(Ṛ. Saṃ. 1-133-6 and the 7th ṛk, as read by the reader's OCR: "೧-೧೩೩-೬ ಮತ್ತು ೭ ನೆಯ ಋಕ್ಕುಗಳು") — the first words are read doubtfully.
 
 > अस्तु श्रौषट् पुरो अग्निं धिया दधे
 
 > *astu śrauṣaṭ puro agniṃ dhiyā dadhe*
 
-(Ṛ. Saṃ. 1-13[?]-1 [?])
+(Ṛ. Saṃ. 1-136-1, as read by the reader's OCR)
 
 > ओ षू णो अग्ने शृणुहि त्वमीळितः
 
 > *o ṣū ṇo agne śṛṇuhi tvamīḷitaḥ*
 
-(Ṛ. Saṃ. 1-13[?]-2 [?])
+(Ṛ. Saṃ. 1-139-7, as read by the reader's OCR)
 
 ### Printed p. ix  (PDF 15)
 
@@ -298,13 +298,13 @@ The abbreviations page (PDF 21, "ಸಂಕೇತಾಕ್ಷರಗಳ ವಿವ�
 
 Kakṣīvān is the name of a king. The story of his origin is this: long ago the king of the Aṅga country had gone once, with his wives and maidservants, to the river Gaṅgā for water-sport. Just at that time the seer named Dīrghatamas was floating along in a boat. The seer was extremely weak, and so his wife, sons and others, [thinking] "such a weakling is not wanted by us", had put him in a boat and let it go on the Gaṅgā. The king of Aṅga, by chance, saw the seer Dīrghatamas who had come in the boat to the place where he was bathing, was greatly delighted, took him out of the boat and honoured him; and he begged him: "Sir, for a long time I have had no children. Here is this wife of mine; beget one son on her." Then the queen, seeing this seer who was extremely old, did not wish to be with him, and sent in her place a maidservant of hers named Uśik. The all-knowing great seer, sprinkling her with mantra-consecrated water, made that maidservant like the seer's wife; and she conceived. The son born in her was the seer named Kakṣīvān. He performed many sacrifices such as the Rājasūya. Indra, pleased with the sacrifices, graciously gave Kakṣīvān a young woman named Vṛcayā. The word *kakṣya* also means the strap that is tied to a draught animal. *Kakṣīvān* = *kakṣyāvān* (Nirukta 6-10, as printed). So says the Nirukta.
 
-The name of this Kakṣīvān is found in the following ṛks of the Ṛgveda Saṃhitā: Ṛ. Saṃ. 1-18-1; 1-21-13; 1-112-1; 1-116-7; 4-26-1; 8-9-10; 9-74-8; 10-25-10; 10-61-16 (as printed; the reader's OCR reads the same), and also in Atharvaveda 4-29-5 [?] (the OCR shows "೪೨೯-೫", the hyphen lost). His family name must have been *Pajra*, because he is called *Pajriya* in Ṛ. Saṃ. 1-116-7 and 1-117-6 (as printed "೧-೧೧೭-೬"), and his descendants are called *Pajrāḥ* in Ṛ. Saṃ. 1-126-4. In Sūkta 1-126 of the Ṛ. Saṃ. this seer praises the gifts given to him by a king named Svanayabhāvya; and in the Sāṅkhyāyana Śrauta Sūtra 16-4-5 [?], among the group of mantras called Nārāśaṃsa Sūktas, which praise heroes, there is also included the Dānastuti mantra on the king Svanayabhāvya made by Kakṣīvān, the son of Uśij. When he had grown old he married a maiden named Vṛcayā; this matter is described in the ṛk Ṛ. Saṃ. 1-51-13. He is said to have lived a hundred years …
+The name of this Kakṣīvān is found in the following ṛks of the Ṛgveda Saṃhitā: Ṛ. Saṃ. 1-18-1; 1-21-13; 1-112-1; 1-116-7; 4-26-1; 8-9-10; 9-74-8; 10-25-10; 10-61-16 (as printed; the reader's OCR reads the same), and also in Atharvaveda 4-29-5 (the OCR shows "೪೨೯-೫", the hyphen lost). His family name must have been *Pajra*, because he is called *Pajriya* in Ṛ. Saṃ. 1-116-7 and 1-117-6 (as printed "೧-೧೧೭-೬"), and his descendants are called *Pajrāḥ* in Ṛ. Saṃ. 1-126-4. In Sūkta 1-126 of the Ṛ. Saṃ. this seer praises the gifts given to him by a king named Svanayabhāvya; and in the Sāṅkhyāyana Śrauta Sūtra 16-4-5, among the group of mantras called Nārāśaṃsa Sūktas, which praise heroes, there is also included the Dānastuti mantra on the king Svanayabhāvya made by Kakṣīvān, the son of Uśij. When he had grown old he married a maiden named Vṛcayā; this matter is described in the ṛk Ṛ. Saṃ. 1-51-13. He is said to have lived a hundred years …
 
 ### Printed p. 3  (PDF 24)
 
-*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* … known from the ṛk Ṛ. Saṃ. 9-74-8. In Ṛ. Saṃ. 4-26-1 his name is indicated together with Kutsa and the poet Uśanas. Apart from the one ṛk Ṛ. Saṃ. 8-9-10 [as printed "೮-೯-೧೦"], nowhere else is any connection with the seer Dīrghatamas found. But in the work attributed to Śaunaka, the Bṛhaddevatā, it is said that this Kakṣīvān was a son born to the seer Dīrghatamas in the maidservant named Uśij (Bṛ. De. 4-11 [?], as printed in small type).
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* … known from the ṛk Ṛ. Saṃ. 9-74-8. In Ṛ. Saṃ. 4-26-1 his name is indicated together with Kutsa and the poet Uśanas. Apart from the one ṛk Ṛ. Saṃ. 8-9-10 [as printed "೮-೯-೧೦"], nowhere else is any connection with the seer Dīrghatamas found. But in the work attributed to Śaunaka, the Bṛhaddevatā, it is said that this Kakṣīvān was a son born to the seer Dīrghatamas in the maidservant named Uśij (Bṛ. De. 4-11, as printed; the reader's OCR reads the same).
 
-The Western scholar Weber, on the basis of the mantras Tai. Saṃ. 5-6-5-3; Kāṭhakasaṃhitā 13-3 [?]; Pañcaviṃśa Brāhmaṇa 25-16-3 [?], is of the opinion that this Kakṣīvān was first a Kṣatriya, and that therefore his name occurs, in the mantras cited above, together with the names of the kings Para Āṭṇāra, Vītahavya, Śrāyasa, Trasadasyu and Paurukutsa. This seer is the seer of 151 [?] ṛks in all: the 146 ṛks of the Sūktas from 116 to 125 in the first Maṇḍala of the Ṛgveda, and ṛks 1–5 of Sūkta 126; besides, he is the seer of the 9 ṛks of Sūkta 74 of the ninth Maṇḍala, "*Kakṣīvān Dairghatamasaḥ*" — and since there the seer is called "Kakṣīvān Dairghatamasaḥ" — that is, Kakṣīvān the son of the seer Dīrghatamas — even though the epithet *Auśija* is lacking there, the seer of the Sūkta now in hand, too, may be said to be the seer of that [Sūkta] as well.
+The Western scholar Weber, on the basis of the mantras Tai. Saṃ. 5-6-5-3; Kāṭhakasaṃhitā 13-3; Pañcaviṃśa Brāhmaṇa 25-16-3 (all three as read by the reader's OCR), is of the opinion that this Kakṣīvān was first a Kṣatriya, and that therefore his name occurs, in the mantras cited above, together with the names of the kings Para Āṭṇāra, Vītahavya, Śrāyasa, Trasadasyu and Paurukutsa. This seer is the seer of 151 ṛks in all: the 146 ṛks of the Sūktas from 116 to 125 in the first Maṇḍala of the Ṛgveda, and ṛks 1–5 of Sūkta 126; besides, he is the seer of the 9 ṛks of Sūkta 74 of the ninth Maṇḍala, "*Kakṣīvān Dairghatamasaḥ*" — and since there the seer is called "Kakṣīvān Dairghatamasaḥ" — that is, Kakṣīvān the son of the seer Dīrghatamas — even though the epithet *Auśija* is lacking there, the seer of the Sūkta now in hand, too, may be said to be the seer of that [Sūkta] as well.
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (introduction)**
 
@@ -378,7 +378,7 @@ O mild-tempered (*laghu-krodhāḥ*, not angry) priests, bring forth for Rudra �
 
 (Ṛ. Saṃ. 1-27-1 [?] — as read from the image; the reader's OCR of this reference is garbled.) In this ṛk *vāravantam* means *vālavantam* — a horse that has a tail (hair). Therefore here *raghumanyavaḥ* = *laghumanyavaḥ*: *laghukrodhāḥ, akrodhinaḥ* — "of little anger" (*light or little anger*, as printed in English), that is, those who are without anger — that is the sense.
 
-*Laghukrodhāḥ akrodhinaḥ ṛtvijaḥ* is how Sāyaṇa explained it. He too has shown that it is difficult to state the meaning properly for this word. Ordinarily *raghu* (*laghu*) comes to mean "quick"; the word *manyu* is recorded among the names of anger (*krodha*) (Ni. 3-9 [?] — as printed; the OCR reads 3-9). Therefore one ought, strictly, to understand it as "quick-tempered persons"; but this meaning is not so suitable. Sāyaṇa has explained *alpakrodhinaḥ, akrodhinaḥ*. But even that does not make clear the real nature of the priests. Of whom this word is the epithet, and what its right meaning is — that it is not easy to say, the scholar Wilson has said in this way in the preface of his book *The Rig-veda, Translation and Notes*:
+*Laghukrodhāḥ akrodhinaḥ ṛtvijaḥ* is how Sāyaṇa explained it. He too has shown that it is difficult to state the meaning properly for this word. Ordinarily *raghu* (*laghu*) comes to mean "quick"; the word *manyu* is recorded among the names of anger (*krodha*) (Ni. 3-9, as printed; the OCR reads 3-9). Therefore one ought, strictly, to understand it as "quick-tempered persons"; but this meaning is not so suitable. Sāyaṇa has explained *alpakrodhinaḥ, akrodhinaḥ*. But even that does not make clear the real nature of the priests. Of whom this word is the epithet, and what its right meaning is — that it is not easy to say, the scholar Wilson has said in this way in the preface of his book *The Rig-veda, Translation and Notes*:
 
 *"It may not be always possible to devise unexceptionable and felicitous equivalents for such expressions, but they may be so rendered as to eonvey [sic] with some degree of accuracy the substance of the text: the more unmanageable difficulties are those which are utterly insuperable except by guess ………… thus, as already observed, the substantive is vety [sic] often omitted and the adjective does double duty: the first Verse of the second Ashtaka offers an example: it begins—Raghu-manyavah (रघु मन्यवः)—"oh ye of little wrath"; "ye who are gentle, mild-tempered";but who they are that are so addressed does not appear. The scholiast says, mild-tempered priests, and it would not be easy to suggest a preferable application of the epithet, although, if not traditional. it is only conjectural."* (Vol II Introduction. P. XVII)
 
@@ -403,7 +403,7 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 (Ṛ. Saṃ. 5-56-8, as printed.) In this ṛk it is said that Rodasī is Rudra's wife and the mother of the Maruts. But since the dual number is used in the ṛk in hand, it is right to take it as Heaven and Earth.
 
-***marutaḥ*** — *marutaḥ mitarāviṇo vā mitarociṇo vā mahadravantīti vā* (Ni. 11-13 [?], as printed in small type): either because they make a regular (measured) sound, or because they have regular (measured) light, or because they move greatly and swiftly; hence the name *marutaḥ*. Its explanation was given earlier too.
+***marutaḥ*** — *marutaḥ mitarāviṇo vā mitarociṇo vā mahadravantīti vā* (Ni. 11-13, as printed; the reader's OCR reads the same): either because they make a regular (measured) sound, or because they have regular (measured) light, or because they move greatly and swiftly; hence the name *marutaḥ*. Its explanation was given earlier too.
 
 ***iṣudhyā*** — *iṣudhyā (niṣaṅgeṇa) śatrūn yathā nirasyati tathā*: as one drives the enemies away with a quiver (with the arrow from a quiver) easily, so I praise (*staumi*, I will praise) Rudra, the god who comes with the heroic Maruts from the heavenly world to destroy the Asuras — that is the meaning. By himself he has power; to his arrows the help of the Maruts is added. Hence the greatness of his power will be greater still — that is the sense.
 
@@ -437,7 +437,7 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 > *śataṃ rājño nādhamānasya niṣkāñchatamaśvānprayatānsadya ādam |*
 > *śataṃ kakṣīvā~ asurasya gonāṃ divi śravo jaramā tatāna ‖*
 
-(Ṛ. Saṃ. 1-126-2 [?], as printed; the words of this ṛk are read from the small bold type, and the second line's first words are doubtful.) Here — *asurasya dhanānāṃ nirasitur dānaśīlasya rājñaḥ svanayasya* — "of the king Svanaya, who gives away wealth and so on"; thus the word *asura* is in favour of the king Svanaya.
+(Ṛ. Saṃ. 1-126-2, as printed; the reader's OCR confirms it on p. 25 as "1-126-1 and 2"; the words of this ṛk are read from the small bold type, and the second line's first words are doubtful.) Here — *asurasya dhanānāṃ nirasitur dānaśīlasya rājñaḥ svanayasya* — "of the king Svanaya, who gives away wealth and so on"; thus the word *asura* is in favour of the king Svanaya.
 
 > इन्द्राय हि द्यौरसुरो अनम्नतेन्द्राय मही पृथिवी वरीमभिर्द्युम्न-साता वरीमभिः ॥
 
@@ -894,7 +894,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 > *etābhirha śvinoḥ kakṣīvān priyaṃ dhāmopāgacchatsva [?] paramaṃ lokamajayat |*
 
-(Ai. Brā. 1-31 [?], as printed in small type, doubtful.) "Reciting the ṛks Ṛ. Saṃ. 1-120-1 to 9 [?], Kakṣīvān went to the abode of the Aśvin deities, and, graced by them, reached an even better world" — in the Aitareya Brāhmaṇa; and in the Śatapatha Brāhmaṇa also:
+(Ai. Brā. 1-31 [?], as printed in small type, doubtful.) "Reciting the ṛks Ṛ. Saṃ. 1-120-1 to 9 (as read by the reader's OCR: "೧-೧೨೦-೧ ರಿಂದ ೯"), Kakṣīvān went to the abode of the Aśvin deities, and, graced by them, reached an even better world" — in the Aitareya Brāhmaṇa; and in the Śatapatha Brāhmaṇa also:
 
 > कक्षीवन्तं य औशिजः । यो देवान्योऽमीवहा । वसुवित्पुष्टिवर्धनः । स नः सिषक्तु यस्तुरः ॥
 
@@ -984,7 +984,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 **Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
 
-***ghoṣā*** — She is known as the daughter of Kakṣīvān, and as the seer of the Sūktas 39–40 [?] of the tenth Maṇḍala (as printed "೧೦-೩೯, ೪೦" in the OCR; here "the Sūktas 3?–40 of the tenth Maṇḍala"), and also as their composer [*nirmātrī*]. To cure the skin disease of her own, she prayed to the Aśvin deities, got their help, and, as is suggested here, this Sūkta's seer also, in the same way, begs for their grace by praising those deities. The occasion on which the woman Ghoṣā obtained help from the Aśvin deities is told in this way in the Bṛhaddevatā:
+***ghoṣā*** — She is known as the daughter of Kakṣīvān, and as the seer of the Sūktas 39–40 of the tenth Maṇḍala (as printed and as read by the OCR: "೧೦-೩೯, ೪೦"), and also as their composer [*nirmātrī*]. To cure the skin disease of her own, she prayed to the Aśvin deities, got their help, and, as is suggested here, this Sūkta's seer also, in the same way, begs for their grace by praising those deities. The occasion on which the woman Ghoṣā obtained help from the Aśvin deities is told in this way in the Bṛhaddevatā:
 
 ### Printed p. 30  (PDF 51)
 
@@ -1022,7 +1022,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 (Bṛ. De. 7-42 to 48, as printed; the OCR gives the same.) *(The verses are read from the bold type at 300 dpi; the third, fourth, fifth and thirteenth lines contain letters I could not settle and are marked `[?]`; the translation below follows the Kannada account that comes after them.)*
 
-Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disease. For that reason she had to remain in her father's house even until her sixtieth year. Then, finding herself without husband and sons, and filled with despair about her life, she wished to know which deities her father worshipped to win his youth; she decided to worship those same Aśvin deities, who are *Śubhaspatī*, and to learn the rules to be followed in worship and the tantras. While she was in that meditation she was granted a vision of two Sūktas beginning with the sentence *yo vāṃ parijmā* (10-39, 40, as printed `[OCR: "೧೦-೩೯,೪೦"]`). She recited them and praised the Aśvin deities; they made her free of disease, beautiful, and gave her a husband and a son named Suhastya — this story is indicated here. That her illness was "Arjuna" is known from the description in this ṛk. Ordinarily the word *ārjuna* has the sense of "whiteness (radiance)".
+Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disease. For that reason she had to remain in her father's house even until her sixtieth year. Then, finding herself without husband and sons, and filled with despair about her life, she wished to know which deities her father worshipped to win his youth; she decided to worship those same Aśvin deities, who are *Śubhaspatī*, and to learn the rules to be followed in worship and the tantras. While she was in that meditation she was granted a vision of two Sūktas beginning with the sentence *yo vāṃ parijmā* (10-39, 40, as printed; the OCR reads the same). She recited them and praised the Aśvin deities; they made her free of disease, beautiful, and gave her a husband and a son named Suhastya — this story is indicated here. That her illness was "Arjuna" is known from the description in this ṛk. Ordinarily the word *ārjuna* has the sense of "whiteness (radiance)".
 
 > वयश्चित्ते पतत्रिणो द्विपच्चतुष्पदर्जुनि ।
 
