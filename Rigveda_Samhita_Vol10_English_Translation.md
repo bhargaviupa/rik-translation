@@ -12310,4 +12310,84 @@ The word *kṛta* is formed from the root *ḍukṛñ karaṇe* with the suffix 
 
 ---
 
-**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 507 (PDF 528): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 Saṃhitā/Pada written and the bhāṣya begun at the foot of p. 507 ("…aṅjasi svakīye 'ñjasi mukhye mahati saṅgrāme | yadvā"); resume p. 508 (PDF 529) with the rest of the Ṛk 2 bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 bhāṣya pp. 502–503; Ṛk 2 bhāṣya p. 507); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 508  (PDF 529)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+*(Bhāṣya of Ṛk 2, continued — small type, read from the image; doubtful places [?].)* "…*yadvā* — or: *svasmin añjasi śatrau svayam evāprecchann eveṇāgate sati*: when the enemy himself comes, without asking [? the way]; *ahan* — *śatrūn hinasti*: Indra destroys the enemies in battle. *āprasya* — of the one who goes about intent on killing enemies (*āpanaśīlasya*), or of Indra who is to be pleased; *uṣarbudhaḥ* — of the sacrificer who, awake at dawn, for the performance of the sacrifice, *prabudhyamānasya*, *krāṇasya* — doing the sacrifice (*kurvāṇasya*; *karoteḥ śānac*, Vedic *śap* loss) — of this sacrificer, Indra destroys the enemies. *yathā vide* — as [one] knows. *śīrṣṇā-śīrṣṇopavācyaḥ* — *sarvaiḥ śirasā praṇamya stutyaḥ* — to be praised by all, bowing the head. [Grammar: *śīrṣan* with *chandasi ca*, Pā. 6-1-60; the acute on the last syllable by the *udāttanivṛtti* accent; *nityavīpsayoḥ* gives doubling.] The example: *yathā vide sarvajñāya śirasā praṇatiḥ kriyate stūyate ca tathaiveti* — as bowing with the head and praise are offered to the all-knowing; or *yathā vide yena prakāreṇa pañcamaṃ śatruṃ jānāsi taṃ taṃ prahaṃsi*: by whatever way you know the enemy, you strike him; or *yaṃ yaṃ vindase labhase śatruṃ taṃ taṃ mārayasi* — whichever enemy you meet, you kill: for this reason he is to be praised. [Grammar: *vide*, ātmanepada; *talopa*.] And *te ratayaḥ* — your gifts of wealth, *asmatrā* — among us, *sadhryak* — together (*sahāñcati*), *santu* — may they be; *bhadrasya* — of you the auspicious, the gifts *bhadrāḥ* — may they be auspicious and firm."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *indraḥ* — Indra; *svarjeṣe* — which is the means of obtaining heaven; *bhare* — in battle; *āprasya* — of the hero who goes about to kill enemies; *svasmin añjasi* — in the straight path suited to him; *vakmani* — [in the path]; *svasmin añjasi* — in the great path of battle of straight direction, which suits Indra and which is directly facing the enemies; *uṣarbudhaḥ* — of the one who awakes at dawn; *krāṇasya* — of the one who does the sacrifice (the sacrificer); *ahan* — kills (the enemies); *yathā vide* — as to a great person who is all-knowing (one bows the head); *śīrṣṇā-śīrṣṇā* — with the bowing of the head, with salutations; *upavācyaḥ* — he is worthy of praise (O Indra); *asmatrā* — our protector; *te* — your; *rātayaḥ* — the gifts of wealth; *sadhryak* — all together; *santu* — be; *bhadrasya* — of the auspicious one; *te rātayaḥ* — your gifts; *bhadrāḥ* — auspicious, and firm; *(santu* — be).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(its first lines at the foot of p. 508).* In the battle that is the means to heaven, Indra, fit for the valiant, goes by the straight path and faces the enemies directly; going so, he destroys the enemies of the sacrificers who, awake at dawn, perform the sacrifice, (…
+
+### Printed p. 509  (PDF 530)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Bhāvārtha, concluded:)* "…) therefore, as one bows with the head to a great all-knowing person and praises him, so Indra too should be praised with salutations; O Indra, our protector, may all your wealth be together with us; and may all your auspicious wealth be firmly with us, bringing us welfare."
+
+**Printed English (heading "English Translation"; as printed):** *"In the combat which secures heaven, Indra, (treading) in the appropriate and straight path of the active (combatant), as well as in his own appropriate and straight (path), destroys (the adversary) of him who wakes at dawn and celebrates (pious rites); he is therefore to be adored with the head (bowed down), as reverence is paid by prostration to a holy sage. May your treasures, (Indra), be accumulated upon us; may the treasures of you who are auspicious be auspicious (to us)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+***svarjeṣe bhare*** — *svargagamanasādhane saṅgrāme*: "when the hero fights, he gives up his life without fear and gets heaven" — the Smṛtikāra explains battle as a place fit for the attainment of heaven. The word *bhara* (battle) is explained by the Niruktakāra as *bharater vā harater vā* (Ni. 4-[?]; as read "೪-೨೪"). Parāśara-smṛti says that the hero who lays down his life in battle obtains heaven —
+
+> द्राविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ ।
+> परिव्राड्योगयुक्तश्च रणे चाभिमुखो हतः ॥
+
+> *dvāv imau puruṣau loke sūryamaṇḍalabhedinau |*
+> *parivrāḍ yogayuktaś ca raṇe cābhimukho hataḥ ‖*
+
+(Parāśara-smṛti 3-23 [?], as read "೩-೨೩"; the same verse as on p. 453, where the first word is printed "dvāv" — here printed "द्रा" [sic?].) "The ascetic who gives up his life with no hope of it, by yoga, and the hero who fights the enemy and dies in battle, both obtain the highest state — they pierce the orb of the Sun. So it is said, taking battle as the means of reaching heaven: Indra gives such heroes heaven."
+
+***āprasya*** — *āpanaśīlasya*: "of one who goes about in battle for victory over enemies, spreading widely by his valour in all places". The Niruktakāra —
+
+> चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।
+> आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥
+
+> *citraṃ devānām ud agād anīkaṃ cakṣur mitrasya varuṇasyāgneḥ |*
+> *āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatas tasthuṣaś ca ‖*
+
+(Ṛ. Saṃ. 1-115-1, as read "೧-೧೧೫-೧".) — citing this explains *āprāḥ* as *apūpurat* — "filled" the heaven, the earth and the sky by his greatness: "the Sun, by his greatness, pervades heaven, earth and the middle region". Sāyaṇa too explains *āprasya* as *śatruvadhāya itas tato vyāpnuvataḥ*: "who pervades the battlefield to kill the enemy".
+
+### Printed p. 510  (PDF 531)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+***svasmin añjasi*** — the words are used twice. For the word *añjasi* the first meaning is, as an adjective of *vakmani*, "free from deceit" (*kapaṭarahite*): "the hero's way of fighting is, it is described, without trickery." The second meaning has two parts: *svakīye 'ñjasi mukhye mahati saṅgrāme*, "in his own great, principal battle"; or *yadvā śatrau svayam eva aprecchann eveṇāgate sati śatrūn hinasti* — "when the enemy himself comes, without hiding his coming under another disguise, then Indra kills the enemies": in a powerful battle, or when the enemy, without concealing his coming, himself comes to face him. In both meanings the word is explained as an adjective of *bhare*. All this is connected by taking the word *āprasya* as an epithet of *vakmani*, in the sense of "the path of the hero who pervades".
+
+For the word *āpra* the explanation is given by taking *āpnoti* — *āprā vyāpnoti* — "one who pervades"; and *āsamantāt prīṇayatīti* — "one who gratifies greatly": taken in the latter sense, it is an epithet of the sacrificer who pleases Indra. From this:
+
+***āprasya uṣarbudhaḥ krāṇasya ahan*** — the sentence is thus formed; Sāyaṇa explains: *āpanaśīlasya indrasya prīṇayitur vā uṣaḥkāle yogānuṣṭhānāya prabudhyamānasya yāgaṃ kurvāṇasya asya yajamānasya śatrūn hinasti*: "the sacrificer, being of a pervading nature and one who pleases Indra, is awake at dawn to perform sacrifices; Indra destroys the enemies of this sacrificer, who offers sacrifices to satisfy Indra". The Niruktakāra —
+
+### Printed p. 511  (PDF 532)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+> त्वामिन्द्र मितिभिः सुते सुनीथासो वसूयवः ।
+> गोभिः क्राणा अनोषत ॥
+
+> *tvām indra mitibhiḥ sute sunīthāso vasūyavaḥ |*
+> *gobhiḥ krāṇā anoṣata ‖*
+
+(Ṛ. Saṃ. [?], as read "೮-೪-[?]" [?]; the reference is not clear; small type. The line is given as read: [?].) — citing this he explains *gobhiḥ krāṇāḥ* as *gobhiḥ kurvāṇāḥ* ("making with cows"); Durgācārya explains *krāṇāḥ* as *kurvāṇāḥ* (Ni. 4-[?]; as read "೪-೧೯").
+
+***śīrṣṇā-śīrṣṇopavācyaḥ*** — *sarveṣāṃ śirasā praṇamya stutyaḥ*: "Indra is worthy of being saluted by all and of being praised by all."
+
+***yathā vide*** — *sarvajñāya śirasā praṇatiḥ kriyate stūyate ca tathaiveti | yadvā yena prakāreṇa hantavyaṃ śatruṃ jānāsi taṃ taṃ prahaṃsi*: this sentence is used as an illustration of the point that Indra is to be saluted or praised. The word *vide* is formed from the roots *vidḷ lābhe* and *vida jñāne*; in the sense of knowing, the meaning "to the all-knowing" is given; "as all bow to a great all-knowing man, so all bow to Indra". In the second meaning: "Indra, knowing in what way the enemy should be killed, destroys him by that means alone." In the third meaning, *vide* is explained as a word of obtaining: "whoever the enemy may be who meets Indra in battle, he receives death from Indra"; so Indra's greatness is described, and the reason for his being worthy of salutation or praise is that he gets the enemy as the object of his attack.
+
+***te ratayaḥ asmatrā sadhryak santu*** — *tava sambandhīni dhanāni dānāny asmāsv eva sahaikodyogena bhavantu*: "may the wealth and the gifts given to us by Indra be with us in one accord: the wealth given by Indra, and our offerings made for Indra's satisfaction, be suited to the sacrificer's purpose": so Indra is prayed.
+
+The Niruktakāra reads the word *rāti* among the ten names of the acts of giving beginning with *dāti, dāśati* (Ni. 3-[?]; as read "೩-೧೯"), which means giving. And —
+
+> शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि ।
+> विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥
+
+> *śukraṃ te anyad yajataṃ te anyad viṣurūpe ahanī dyaur ivāsi |*
+> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣann iha rātir astu ‖*
+
+(Ṛ. Saṃ. 6-58-1, as read "೬-೫೮-೧".) In this Ṛk the word *rāti* is explained as *dattiḥ*, "giving".
+
+---
+
+**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 511 (PDF 532): Ṛk 1 complete; Ṛk 2 Saṃhitā…English and Special Topics written to the end of p. 511 (the *te ratayaḥ…* entry is the last); resume p. 512 (PDF 533) with the Ṛk 2 grammar. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 bhāṣya pp. 502–503; Ṛk 2 bhāṣya pp. 507–508; the Ṛ. verse on p. 511 *tvām indra mitibhiḥ…* has an unclear reference); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
