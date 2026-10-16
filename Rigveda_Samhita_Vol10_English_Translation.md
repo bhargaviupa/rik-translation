@@ -16779,4 +16779,52 @@ Here the order of the Soma-drinking of Mitra and Varuṇa is described.
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 4 complete; Ṛk 5 written through its Bhāvārtha (p. 693); resume p. 694 (PDF 715; images in w10h/ for PDF 661–728) with the printed English. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 694  (PDF 715)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+**Printed English (heading "English Translation"; as printed):** *"Whatever individual offers adoration to Mitra and Varuna, do you preserve him entirely unharmed from sin; (preserve) from sin the mortal who presents you (with oblations): may Aryaman protect him who is sincere in his devotion, who offers worship addressed to both (Mitra and Varuna) with prayers; who offers worship with praises."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).**
+
+Mitra and Varuṇa are prayed to protect the sacrificer who serves them, by destroying his enemies and his sins.
+
+***anarvāṇam*** — *adveṣiṇam*: "make him free of enemies" is the meaning. The words *arvat*, *arvan* are included by the author of the Nirukta among the names of "horse" (Ni. 1-[?], as read "೧-೧೨" [?]). But in many places this word has a variety of meanings.
+
+> यस्मै त्वं सुमायजसे स साधत्यनर्वा क्षेति दधते सुवीर्यम् ।
+> स तोतावनैनमश्नोत्यंहतिरग्ने सख्ये मा रिषामा वयं तव ॥
+
+> *yasmai tvaṃ sumāyajase sa sādhaty anarvā kṣeti dadhate suvīryam |*
+> *sa tota vanainam aśnoty aṃhatir agne sakhye mā riṣāmā vayaṃ tava ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೪೩-೩" [?]; read letter by letter from the Kannada print; the second line's word-division is doubtful [?].) In this Ṛk the word *arvan* is a synonym of "enemy"; *anarvā* means "one who is not subject to an enemy" is the meaning. In the Ṛk under discussion also, Sāyaṇa upholds the meaning "enemy" for the word *arvan* in *anarvāṇam* with the Taittirīya Saṃhitā sentence:
+
+> अनर्वा प्रेहीत्याह भ्रातृव्यो वा अर्वा भ्रातृव्यापनुत्त्यै ॥
+
+> *anarvā prehīty āha bhrātṛvyo vā arvā bhrātṛvyāpanuttyai ‖*
+
+(Tai. Saṃ. 6-[?]-[?]-[?], as read "೬-೩-೧-೪" [?].) — showing that *arvan* in the sense of *bhrātṛvya*, i.e. "enemy", is applicable. In Ṛ. Saṃ. 3-[?]-[?] ("೩-೩೧-೧೧" [?]) and 10-[?]-[?] ("೧೦-೩೯-೧೪" [?]) and in other such Ṛks this word is a synonym of "enemy". On the derivation of this word, the scholars Wilson and Max Müller differ. Wilson, on the Ṛk —
+
+> क्रीळं वः शर्धो मारुतमनर्वाणं रथेशुभम् । कण्वा अभि प्र गायत ॥
+
+> *krīḷaṃ vaḥ śardho mārutam anarvāṇaṃ ratheśubham | kaṇvā abhi pra gāyata ‖*
+
+(Ṛ. Saṃ. 1-37-1 [as read].) — when explaining the word *anarvāṇam*, criticises Sāyaṇa's commentary, saying thus:
+
+### Printed p. 695  (PDF 716)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+*(Wilson's note, printed in English:)* "*The phrase is* anarvāṇam *which the Scholiast explains* bhrātṛvyarahitaṃ *literally, without a brother's son, which would be a very unintelligible epithet:* arvan *is in its usual acceptation a horse; and being without horses would not be inapplicable to the Maruts, whose chariot is drawn by deer.* bhrātṛvya *may mean an enemy, but it is doubtful if* arvat *can admit of such an interpretation.*" [Rig-Veda Translation, Vol. I, p. 258.] — The scholar says that, as the vehicle of the Maruts is deer, the meaning "without horses" cannot be inappropriate here. But in opposition to this, Max Müller, when translating the same Sūkta, criticises Wilson for translating the word as "horse":
+
+"*Wilson translates* anarvāṇam *by without horses, though the commentator distinctly explains the word by "without an enemy". The fact is, that, in the Rig-Veda* anarvā *never means without horses but always without hurt or free from enemies, and the commentator is perfectly right, as sense is concerned, in rendering the world [sic] by "without an enemy or unopposed" (*apratyuta*)*" [Sacred Books of the East, Vol. XXXII, p. 65.]
+
+Know that although the word *arvan* in the Ṛk-Saṃhitā has the meaning "horse", the word *anarvā* always has the meaning "free of enemies". Likewise, in the Ṛk under discussion too, Mitra and Varuṇa are prayed to make the sacrificer free of enemies.
+
+***enoḥ vrataṃ ukthaiḥ paribhūṣati*** — it shows the fixed relation between the rite and the *uktha*, and by the word *ukthaiḥ* it is shown that "the rite acquires fullness and beauty", and that the rite thus becomes most excellent.
+
+*Uktha* means a *śastra* in the form of mantras recited along with a *stotra* or after the recitation of a *stotra*. The *stotra* is to be sung by the *udgātṛ*; then, to assist him, the *hotṛ* and others — one of the Maitrāvaruṇa and others — recite the *śastra*. By taking one or two examples one may know the relation between the *stotra* and the *śastra*: at the morning pressing, together with the *bahiṣpavamāna stotra* the *ājya-śastra* is recited; at the midday pressing, together with the *mādhyandina-pavamāna stotra*, the *vaiśvadeva-śastra* is recited.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 5 written through p. 695 (Special Topics: *anarvāṇam* with the Wilson/Max Müller notes and *enoḥ vrataṃ ukthaiḥ* begun; more entries and the grammar follow); resume p. 696 (PDF 717; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
