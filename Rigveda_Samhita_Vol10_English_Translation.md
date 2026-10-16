@@ -13076,4 +13076,110 @@ In this Ṛk the ṛṣi prays to Indra to trample and destroy, with his wide, l
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–2 complete, Ṛk 3 written through its Pratipadārtha (p. 544; resume p. 545 with Bhāvārtha, PDF 566; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 545  (PDF 566)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 3).** O wealthy Indra, destroy the strength of these (armies) that are harmful and bear weapons; (crush them and) cast them into a wretched pit (so that they lie in a cemetery); throw them into the wretched great pit (the Nāga-world).
+
+**Printed English (heading "English Translation"; as printed):** *"Annihilate, Maghavan, the might of malignant (hosts), hurl them into the vile pit; the vast and vile pit"* [sic: no full stop; a semicolon-like mark before "the vast"].
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).** In this Ṛk also the ṛṣi prays to Indra to destroy the strength of his enemies, to conquer them, and to throw their dead bodies into a cemetery or the lower world, covered with darkness.
+
+***āsāṃ yātumatīnām*** — "of these armies that are accompanied by instruments of torment" is the meaning. The meaning of this word has been explained in the Special Topics of the previous Ṛk.
+
+***śardhaḥ*** — the word *śardha* is in the names of strength (*bala*) (Ni. 2-[?], as read "೨-೯" [?]). Ordinarily this word is used particularly in the sense of "troop of Maruts"; here it means the strength of the enemy armies.
+
+***vailasthānake, mahāvailasthe*** — *bilasaṃbandhini kutsite sthāne 'ndhakārāvṛte 'dholoke*: "a lower world, extremely deep, covered with darkness and terrifying". As said in the previous Ṛk, [it may mean] the Nāga-world or the cemetery; in either case the ṛṣi prays Indra to cast the enemies into such a place.
+
+***ārmake*** — *kutsite śavairaṇīye | gatāsubhiraṇīye*: "an extremely contemptible place [a cemetery] where the bodies of the dead are put".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly; numbers as printed).** *jahi* — root *han hiṃsāgatyoḥ*; *loṭ* second person singular, *sip*, replaced by *hi*; *hanter jaḥ* (Pā. 6-4-36 [as read]) gives *ja* in place of the root; because the *ja*-substitute is regarded as not-effective (*asiddha*) for this purpose, *ato heḥ* does not give *luk* [?]; as it follows a *tiṅanta*, the *nighāta* accent. *śardhaḥ* — root *śṛdhu unnadane [?]*; suffix *asun*; since the suffix conditions it, the *laghūpadha guṇa* of the root; *ñnityādir nityam* (Pā. 6-1-197 [as read]) gives the ādyudātta accent. ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> यासां तिस्रः पञ्चाशतोऽभिव्लङ्गैरपावपः ।
+> तत्सु ते मनायति तकत्सु ते मनायति ॥ ४ ॥
+
+> *yāsāṃ tisraḥ pañcāśato 'bhivlaṅgairapāvapaḥ |*
+> *tatsu te manāyati takatsu te manāyati ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> यासाम् । तिस्रः । पञ्चाशतः । अभिऽव्लङ्गैः । अप । अवपः ।
+> तत् । सु । ते । मनायति । तकत् । सु । ते । मनायति ॥ ४ ॥
+
+> *yāsām | tisraḥ | pañcāśataḥ | abhi 'vlaṅgaiḥ | apa | avapaḥ |*
+> *tat | su | te | manāyati | takat | su | te | manāyati ‖ 4 ‖*
+
+### Printed p. 546  (PDF 567)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; begins p. 546.)*
+
+> हे इन्द्र यासां पूर्वमन्त्रोक्तलक्षणानां सेनानां तिस्रः पञ्चाशतः त्रिगुणितपञ्चाशत्संख्यां सार्धशतमभिव्लङ्गैरभिगमनैः । व्लङ्गतिर्गतिकर्मा तत्कृतं । अभिगम्यापावपः नाशितवानसि । हे इन्द्र तत्ताद्दृशं सेनावधादिरूपं कर्म सु मनायति । सुष्ठु संभावयतीत्यर्थः । किंच हे इन्द्र ते तवाध्यर्धशतैतत्सेनाजयरूपं महदपि तकदिति सु मनायति । अत्यल्पमिदमिति सुष्ठु मन्यते ॥
+
+> *he indra yāsāṃ pūrvamantroktalakṣaṇānāṃ senānāṃ tisraḥ pañcāśataḥ triguṇitapañcāśatsaṃkhyāṃ sārdhaśatamabhivlaṅgairabhigamanaiḥ | vlaṅgatirgatikarmā tatkṛtaṃ | abhigamyāpāvapaḥ nāśitavānasi | he indra tattāddṛśaṃ senāvadhādirūpaṃ karma su manāyati | suṣṭhu saṃbhāvayatītyarthaḥ | kiṃca he indra te tavādhyardhaśataitatsenājayarūpaṃ mahadapi takaditi su manāyati | atyalpamidamiti suṣṭhu manyate ‖*
+
+*(Sense: "O Indra, of which armies — of the kind described in the previous mantra — thrice fifty, i.e. one hundred and fifty, you destroyed by *abhivlaṅgaiḥ*, 'attacks' (*vlaṅgati* is a verb of motion), going against [them]. O Indra, that deed of yours, of the form of slaying such armies, is *su manāyati* — is well esteemed. And further, O Indra, even this great victory over one hundred and fifty armies [seems] to you *takat* — [it] is well thought of as very small." The grammatical tail is not given here.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indre — O Indra)*; *yāsām* — of which (the armies spoken of before); *tisraḥ pañcāśataḥ* — thrice fifty (one hundred and fifty); *abhivlaṅgaiḥ* — by facing (having faced); *apa avapaḥ* — you destroyed; *te tat* — that your (deed); *su manāyati* — is well becoming (although that deed is great); *te* — to you; *takat (iti)* — as small; *su manāyati* — it is well known.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, [to the extent that] you have faced and destroyed one hundred and fifty armies [of those harmful, weapon-bearing ones], it well becomes you; but to a mighty one like you, [that great deed] is known to be very small.
+
+**Printed English (heading "English Translation"; as printed):** *"That you have destroyed, by your assaults, thrice fifty of such (hosts), is a deed that well becomes you, although thought by you of little moment."*
+
+### Printed p. 547  (PDF 568)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+***tisraḥ pañcāśataḥ*** — "three times fifty", that is, one hundred and fifty. [That is,] it has been prayed to Indra that he destroy a hundred and fifty of the enemies spoken of before, or a hundred and fifty armies of enemies.
+
+***tat su te manāyati takat su te manāyati*** — Here, for the word *manāyati* Sāyaṇa says *sukhu manyate, suṣṭhu saṃbhāvayatītyarthaḥ* — "he thinks it very good, he esteems it highly", is the meaning: "he regards it as a very praiseworthy deed". That is, of this sentence: "O Indra, the act of killing the enemies that you do (spoken of up to now) seems to you very small; but to us who see it, it appears a very great deed. Such a deed we praise greatly" — this is the chief purport.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly; numbers as printed).** *tisraḥ* — *tricaturoḥ striyāṃ tisṛcatasṛ* (Pā. 7-2-99 [as read]) gives *tisṛ* for the word *tri*; the *guṇa* attained; *ṛta idhātoḥ* [as read?] / *ṛta ut* [?] — the *ṛ* becomes *ra* [as read]; *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 [as read]) gives the udātta to the case-ending. *abhivlaṅgaiḥ* — *vlaṅga gatau*, a root used only in the sūtra [?]; suffix *ac*; final udātta; *gatikārakopapadāt kṛt* (Pā. 6-2-139 [as read]) gives the *kṛt*-final the earlier member's own accent [sic: "kṛduttarapadaprakṛtisvara"]. *apāvapaḥ* — *apa* a prefix; *ḍuvap bījasantāne* [as read]; with the prefix it takes the sense of destruction; *laṅ* second person singular, *avapaḥ* in form; because of its connection with *yatra* [sic: *yāsām*?] there is no *nighāta*; since the *āgama* is udātta, it has the ādyudātta; *tiṅ ca udāttavati* (Pā. 8-1-71 [as read]) the *gati* (*apa*) becomes *anudātta*. *manāyati* — *laṭ* second person [sic] singular; since it follows a *tiṅanta*, *nighāta*. ‖ 4 ‖
+
+#### Ṛk 5
+
+### Printed p. 548  (PDF 569)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+**॥ संहितापाठः ॥**
+
+> पिशङ्गभृष्टिमम्भृणं पिशाचिमिन्द्र सं मृण ।
+> सर्वं रक्षो नि बर्हय ॥ ५ ॥
+
+> *piśaṅgabhṛṣṭimambhṛṇaṃ piśācimindra saṃ mṛṇa |*
+> *sarvaṃ rakṣo ni barhaya ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> पिशङ्गऽभृष्टिम् । अम्भृणम् । पिशाचिम् । इन्द्र । सम् । मृण ।
+> सर्वम् । रक्षः । नि । बर्हय ॥ ५ ॥
+
+> *piśaṅga 'bhṛṣṭim | ambhṛṇam | piśācim | indra | sam | mṛṇa |*
+> *sarvam | rakṣaḥ | ni | barhaya ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; several words doubtful [?].)*
+
+> हे इन्द्र पिशङ्गभृष्टिं पिशङ्गपदप्रकृतवर्णं [?] अम्भृणमतिभयंकरं शब्दायमानं ॥ भृण शब्दे । यजुलुगन्ताप्नाचादयः [?] छान्दसो भलोपश्च ॥ यद्वा । महान्तमतिप्रवृद्धमित्यर्थः । अम्भृण इति महन्नाम । अम्भ्रणो माहिन इति तत्र पाठात् [?] । उक्तविधिं पिशाचिं पिशाचविशेषं जरामित्येके । सं मृण संम्यग्घिंसय । न केवलं तमेकं किंतु सर्वं रक्षो रक्षनिमित्तभूतं राक्षसादिकं नि बर्हय । निषूदय । बृह हिंसायां चौरादिकः ॥ नामयः [?] । मधकर्मृतेत् नितोऽयति निबर्हयतीति गतेः [?] ॥
+
+> *he indra piśaṅgabhṛṣṭiṃ piśaṅgapadaprakṛtavarṇaṃ [?] ambhṛṇamatibhayaṃkaraṃ śabdāyamānaṃ ‖ bhṛṇa śabde | yajulugantāpnācādayaḥ [?] chāndaso bhalopaśca ‖ yadvā | mahāntamatipravṛddhamityarthaḥ | ambhṛṇa iti mahannāma | ambhraṇo māhina iti tatra pāṭhāt [?] | uktavidhiṃ piśāciṃ piśācaviśeṣaṃ jarāmityeke | saṃ mṛṇa saṃmyagghiṃsaya | na kevalaṃ tamekaṃ kiṃtu sarvaṃ rakṣo rakṣanimittabhūtaṃ rākṣasādikaṃ ni barhaya | niṣūdaya | bṛha hiṃsāyāṃ caurādikaḥ ‖ nāmayaḥ [?] | madhakarmṛtet nito 'yati nibarhayatīti gateḥ [?] ‖*
+
+*(Sense: "O Indra, [destroy] the pisanga-bhṛṣṭi — the red-coloured, 'tawny'; *ambhṛṇa* — extremely terrible, making a loud noise (*bhṛṇa śabde*); or: great, hugely grown (*ambhṛṇa* is among the names for 'great', as in the Naighaṇṭuka passage [?]); the *piśācī* (a particular kind of *piśāca*, 'Jarā' say some): crush [her] well; and not that one alone, but every Rākṣasa, the cause of the harm of Rākṣasas etc., destroy (*ni barhaya* — from *bṛha hiṃsāyām*, *curādi*)." The last grammatical lines are partly illegible to me.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he indra* — O Indra; *piśaṅgabhṛṣṭim* — the red-pointed (red-spiked [?]) *(fiery)*; and *ambhṛṇam* — making an extremely terrifying noise (very big); *piśācīm* — the Piśācī *(named Jarā)*; *saṃ mṛṇa* — crush well; *sarvam rakṣaḥ* — all Rākṣasas; *ni barhaya* — slay.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, crush well the Piśācī (Jarā) who is red-pointed and extremely terrifying (huge, or with a hard, thick, tongue [?]); (and) slay all Rākṣasas.
+
+**Printed English (heading "English Translation"; as printed):** *"Destroy, Indra, the tawny-coloured, fearfully-roaring, Pishachi; annihilate all the Rakshasas."*
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–4 complete, Ṛk 5 written through printed English (p. 548; resume p. 549 with its Special Topics, PDF 570; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
