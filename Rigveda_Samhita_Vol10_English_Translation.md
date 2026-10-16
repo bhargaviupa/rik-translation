@@ -16349,4 +16349,48 @@ After the rise of Uṣas, the dwellings of Bhaga, Aryaman, Mitra and Varuṇa ar
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 written through p. 675 (Special Topics done; grammar through *aryamṇaḥ*, the rest of the grammar follows); resume p. 676 (PDF 697; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 676  (PDF 697)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Grammar of Ṛk 2, concluded.)* *atha* — *nipātasya ca* (Pā. 6-3-136 [as read]) gives the lengthening in the Saṃhitā. *dadhāte* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ*, third person dual; as it follows a *tiṅanta*, *nighāta*. *upastutyam* — root *ṣṭuñ stutau*; *eti-stu-śāsv-ṛ-dṛ-juṣaḥ kyap* (Pā. 3-1-109 [as read]) gives the suffix *kyap*; *hrasvasya piti kṛti tuk* (Pā. 6-1-71 [as read]) gives the *tuk* augment to the root; since the suffix is *pit*, the root's accent remains; as it is a *prādi*-compound, *kṛduttarapadaprakṛtisvara*. ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> ज्योतिष्मतीमदितिं धारयत्क्षितिं स्वर्वतीमा सचेते दिवेदिवे जाग्रिवांसा दिवेदिवे ।
+> ज्योतिष्मत्क्षत्रमाशाते आदित्या दानुनस्पती ।
+> मित्रस्तयोर्वरुणो यातयज्जनोऽर्यमा यातयज्जनः ॥ ३ ॥
+
+> *jyotiṣmatīmaditiṃ dhārayatkṣitiṃ svarvatīmā sacete divedive jāgrivāṃsā divedive |*
+> *jyotiṣmatkṣatramāśāte ādityā dānunaspatī |*
+> *mitrastayorvaruṇo yātayajjano 'ryamā yātayajjanaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> ज्योतिष्मतीम् । अदितिम् । धारयत्ऽक्षितिम् । स्वःऽवतीम् । आ । सचेते इति । दिवेऽदिवे । जागृऽवांसा । दिवेऽदिवे ।
+> ज्योतिष्मत् । क्षत्रम् । आशाते इति । आदित्या । दानुनः । पती इति ।
+> मित्रः । तयोः । वरुणः । यातयत्ऽजनः । अर्यमा । यातयत्ऽजनः ॥ ३ ॥
+
+> *jyotiṣmatīm | aditim | dhārayat 'kṣitim | svaḥ 'vatīm | ā | sacete iti | dive 'dive | jāgṛ 'vāṃsā | dive 'dive |*
+> *jyotiṣmat | kṣatram | āśāte iti | ādityā | dānunaḥ | patī iti |*
+> *mitraḥ | tayoḥ | varuṇaḥ | yātayat 'janaḥ | aryamā | yātayat 'janaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 3; read from the image; doubtful words marked [?].)*
+
+> अयं यजमानो ज्योतिष्मतीमाहवनीयाग्नेस्तेजोयुक्तामदितिमदीनां सम्पूर्णलक्षणां क्षितिमग्नेर्निवासयोग्यां भूमिमुत्तरवेदिलक्षणां धारयत् । धारयति । स्वयं कृतवानित्यर्थः । वितावती वै पृथिवी यावती वेदिरिति श्रुतेः । तथा स्वर्वतीं यज्ञनिष्पत्तिद्वारा स्वर्गवतीमीदृशीं तामा सचेते । मित्रावरुणौ संगतौ भवतः । न केवलमेतस्मिन्नेवाहनि किंतु दिवेदिवे सर्वेष्वप्यहःसु । कीदृशौ तौ । दिवेदिवे प्रतिदिनं जाग्रिवांसा प्रबोधं कुर्वाणौ । यज्ञं गन्तुमनलसावित्यर्थः । किंच वेदिमागत्य ज्योतिष्मदाज्यादिस्वीकारेणातिशयेन तेजोयुक्तं क्षत्रं बलमाशाते । अश्नुवाते । प्राप्नुतः ॥ अशोतेश्छान्दसे लटि [?] इत्यनुशासनमिति वचनान्नुड्भावः [?] ॥ लटो वा छान्दसः शपो लुक् ॥ कीदृशाविति तावाह । आदित्यादिते पुत्रौ दानुनस्पती दानस्याज्यादिप्रदानस्य स्वामिनौ अभिमतदानस्य पालयितारौ वा ॥ षष्ठ्याः पतिपुत्रेति संहितायां सत्वम् ॥ मित्रश्च वरुणश्च तावुभौ देवौ । अर्यमाप्येकस्तु देवस्तयोर्मित्रावरुणयोर्यातयज्जनः । तयोरेव संबन्धादुभयोर्मध्ये स्थितो यातयज्जनः स्वस्वव्यापारनियोजितसर्वजनः । मित्रावरुणावहोरात्रदेवौ अर्यमा तु तयोरेव सामर्थ्यात्सर्वप्राणिनः प्रेरयतीत्यर्थः । किंच यातयज्जनः । यातयन्ति लोकं यदीयाः जना प्रेष्याः स तादृशः । यद्वा । यात्यमाना नरके निपात्यमाना जनाः प्राणिनोऽप्सरोभिर्येन स तादृशः । कर्मसाक्षित्वात्स्वस्वकर्मानुरोधेन प्राणिनः सुकृते यातयतीत्यर्थः । तादृशोऽर्यमा मित्रावरुणयोर्धीनो वर्तते इति शेषः ॥
+
+> *ayaṃ yajamāno jyotiṣmatīmāhavanīyāgnestejoyuktāmaditimadīnāṃ sampūrṇalakṣaṇāṃ kṣitimagnernivāsayogyāṃ bhūmimuttaravedilakṣaṇāṃ dhārayat | dhārayati | svayaṃ kṛtavānityarthaḥ | vitāvatī vai pṛthivī yāvatī vediriti śruteḥ | tathā svarvatīṃ yajñaniṣpattidvārā svargavatīmīdṛśīṃ tāmā sacete | mitrāvaruṇau saṃgatau bhavataḥ | na kevalametasminnevāhani kiṃtu divedive sarveṣvapyahaḥsu | kīdṛśau tau | divedive pratidinaṃ jāgrivāṃsā prabodhaṃ kurvāṇau | yajñaṃ gantumanalasāvityarthaḥ | kiṃca vedimāgatya jyotiṣmadājyādisvīkāreṇātiśayena tejoyuktaṃ kṣatraṃ balamāśāte | aśnuvāte | prāpnutaḥ ‖ aśoteśchāndase laṭi [?] ityanuśāsanamiti vacanānnuḍbhāvaḥ [?] ‖ laṭo vā chāndasaḥ śapo luk ‖ kīdṛśāviti tāvāha | ādityādite putrau dānunaspatī dānasyājyādipradānasya svāminau abhimatadānasya pālayitārau vā ‖ ṣaṣṭhyāḥ patiputreti saṃhitāyāṃ satvam ‖ mitraśca varuṇaśca tāvubhau devau | aryamāpyekastu devastayormitrāvaruṇayoryātayajjanaḥ | tayoreva saṃbandhādubhayormadhye sthito yātayajjanaḥ svasvavyāpāraniyojitasarvajanaḥ | mitrāvaruṇāvahorātradevau aryamā tu tayoreva sāmarthyātsarvaprāṇinaḥ prerayatītyarthaḥ | kiṃca yātayajjanaḥ | yātayanti lokaṃ yadīyāḥ janā preṣyāḥ sa tādṛśaḥ | yadvā | yātyamānā narake nipātyamānā janāḥ prāṇino 'psarobhiryena sa tādṛśaḥ | karmasākṣitvātsvasvakarmānurodhena prāṇinaḥ sukṛte yātayatītyarthaḥ | tādṛśo 'ryamā mitrāvaruṇayordhīno vartate iti śeṣaḥ ‖*
+
+*(Sense: "This sacrificer *dhārayat* — has established, himself made [ready] — *jyotiṣmatīm* — the resplendent, with the fire of the *āhavanīya* — *aditim* — the complete, indivisible — *kṣitim* — the earth fit for the fire's dwelling, in the form of the *uttaravedi*. [For the Śruti says: *vitāvatī vai pṛthivī yāvatī vedir iti* — 'the earth is as wide as the altar'.] Likewise *svarvatīm* — leading to heaven through the accomplishment of the sacrifice — such [an altar] Mitra and Varuṇa join (*ā sacete*); not only on this day but *dive-dive* — on all days. How are they? *Dive-dive jāgrivāṃsā* — awake every day, not lazy to go to the sacrifice. And further, having come to the altar, by accepting the resplendent ghee and the like, they obtain (*āśāte*) exceedingly bright *kṣatram* — power. [Grammar of *aśnute* in the Vedic *laṭ* [?]; *śap* *luk* by Vedic usage.] What are they? *Ādityā* — sons of Aditi; *dānunas patī* — lords of the gift (of ghee etc.), or protectors of desired gifts. [Accent notes.] Mitra and Varuṇa, both gods; and Aryaman, a single god, is *yātayajjanaḥ* — [leader of] the people, among them [the two], connected with them, who sets all people to their respective works; Mitra and Varuṇa are the gods of day and night, but Aryaman, by their strength, impels all beings. Further *yātayajjanaḥ* — he whose people carry the world, who are his messengers; or he by whom people, living beings, are pushed down into hell by the *apsaras* [?]; as witness of deeds he rewards beings according to their own deeds. Such Aryaman is subordinate to Mitra and Varuṇa." Parts of the last sentences are doubtful [?].)*
+
+### Printed p. 677  (PDF 698)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(ayam — this sacrificer)*; *jyotiṣmatīm* — (with the radiance of the *āhavanīya* fire) endowed with light; *aditim* — (having perfect marks) the undivided; *kṣitim* — the earth (the *uttaravedi*, fit for the dwelling of fire); *dhārayat* — has himself made ready; *(tathā — likewise)*; *dive-dive* — every day; *jāgṛvāṃsā* — awake (not lazy in coming to the sacrifice); *mitrāvaruṇau* — Mitra and Varuṇa; *svarvatīm* — (by the accomplishment of the sacrifice) that causes heaven; *(ata eva)* — therefore; *svarga-yuktām* — the altar joined with heaven; *dive-dive* — every day; *ā sacete* — are joined [they come, having come to the earth]; *ādityā* — sons of Aditi; *dānunas patī* — lords of the offering of ghee and the like (or protectors of desired gifts); *mitraḥ varuṇaḥ* — the two, Mitra and Varuṇa; *jyotiṣmat* — endowed with brilliance (by accepting ghee and so on); *kṣatram* — strength; *āśāte* — obtain; *aryamā* — Aryaman; *tayoḥ* — of those two, Mitra and Varuṇa, in the middle; *yātayajjanaḥ* — who sets all people to their respective tasks; *(and)* *yātayajjanaḥ* — who sends the people who do evil deeds to hell, [and sends the good to happiness].
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through its Pratipadārtha (p. 677); resume p. 678 (PDF 699; images in w10h/ for PDF 661–728) with its Bhāvārtha. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
