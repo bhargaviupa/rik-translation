@@ -8310,4 +8310,94 @@ In *auśijaḥ*: "*uśijaḥ putraḥ auśijaḥ*; *uśik vaṣṭeḥ kāntikar
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 327 (PDF 348): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 Saṃhitā/Pada done and its bhāṣya begins at the foot of p. 327 ("…ṛtasya pathā yāgasya mārgeṇa yāgānuṣṭhānena | yajñena devebhya iti"); resume p. 328 (PDF 349). Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–327.
+### Printed p. 328  (PDF 349)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+> यज्ञेन देवेभ्य इति श्रुतेर्यज्ञेन देवस्य महती प्रीतिर्भवति । यद्वा । ऋतस्य यज्ञस्य पथा । मार्गस्तीर्थाख्यः पूर्वेणोत्करमपरेण प्रणीताः । आ. १-१ [?] । इत्यादिसूत्रोक्तः । तेन मार्गेण गत्वा । पुनः केन । हविष्मताज्यादिप्रदेयद्रव्यवता नमसा नमस्कारलक्षणेन स्तोत्रोपस्थानेन वा । तदुभयेनेत्यर्थः । कुत्रेति तदुच्यते । हविष्मता हविष्मत्याज्यपुरोडाशादिबहुहविर्युक्ते देवताता देवानां विस्तारयुक्ते यज्ञे । किंच सोऽग्निर्नोऽस्मत्सम्बन्धिनामूर्जां हविर्लक्षणानामन्नानामुपाभृत्यया उपाहरणे तत्कारविषये [?] । उपाज्जुपसृष्टाद्धरतेः क्रिन् [?] । दृग्रहोर्भ इति भत्वम् । सुपां सुलुगिति सप्तम्या लुक् । ताद् चेत्यनन्तरस्य गतेः प्रकृतिस्वरत्वम् ॥ अया कृपानया सामर्थ्यलक्षणया कल्पनया हविःस्वीकरणरूपया न जूर्यति । यज्ञसमाप्तिपर्यन्तं न नश्यति । अजरो वर्तत इत्यर्थः । स इत्युक्तम् । क इत्याह । यमग्निं देवं द्योतनशीलं मातरिश्वान्तरिक्षसंचारी वायुः पूर्वं मनवे मनोरर्थाय परावतोऽतिदूरं गतवतः आदित्याद्भाः अभासीत् । औचित्येन भूमौ स्थापितवान् । इत्यर्थः । तद्वत्परावतो दूराद्देवमग्निमस्मद्देवयजनं प्रति स्थापयत्वित्यर्थः ॥
+
+> *yajñena devebhya iti śruteryajñena devasya mahatī prītirbhavati | yadvā | ṛtasya yajñasya pathā | mārgastīrthākhyaḥ pūrveṇotkaramapareṇa praṇītāḥ | ā. 1-1 [?] | ityādisūtroktaḥ | tena mārgeṇa gatvā | punaḥ kena | haviṣmatājyādipradeyadravyavatā namasā namaskāralakṣaṇena stotropasthānena vā | tadubhayenetyarthaḥ | kutreti taducyate | haviṣmatā haviṣmatyājyapuroḍāśādibahuhaviryukte devatātā devānāṃ vistārayukte yajñe | kiṃca so 'gnirno 'smatsambandhināmūrjāṃ havirlakṣaṇānāmannānāmupābhṛtyayā upāharaṇe tatkāraviṣaye [?] | upājjupasṛṣṭāddharateḥ krin [?] | dṛgrahorbha iti bhatvam | supāṃ sulugiti saptamyā luk | tād cetyanantarasya gateḥ prakṛtisvaratvam ‖ ayā kṛpānayā sāmarthyalakṣaṇayā kalpanayā haviḥsvīkaraṇarūpayā na jūryati | yajñasamāptiparyantaṃ na naśyati | ajaro vartata ityarthaḥ | sa ityuktam | ka ityāha | yamagniṃ devaṃ dyotanaśīlaṃ mātariśvāntarikṣasaṃcārī vāyuḥ pūrvaṃ manave manorarthāya parāvato 'tidūraṃ gatavataḥ ādityādbhāḥ abhāsīt | aucityena bhūmau sthāpitavān | ityarthaḥ | tadvatparāvato dūrāddevamagnimasmaddevayajanaṃ prati sthāpayatvityarthaḥ ‖*
+
+*(Read from the image; the beginning continues the sentence at the foot of p. 327 — "*yajñena devebhya*" is the śruti citation, "by sacrifice [for the gods]". The small-type sūtra reference "आ. १-१" (Āśvalāyana 1-1) is as printed; the bhāṣya's grammar tail is characterized only: "*upābhṛtyayā* — [a *kri*-suffix on *hṛ* after *upa-ā*; *dṛgrahor bhaḥ* gives *bh*; *supāṃ sulug* elides the locative; the preceding preverb keeps its accent]". Several small letters are doubtful: [?].)* Sense: "By the sacrifice, [says] the śruti, the god's great pleasure arises. Or: *ṛtasya* — of the sacrifice; *pathā* — by the path, i.e. the way (named *tīrtha*) described in the sūtra '*pūrveṇotkaram aparaṇa praṇītāḥ*'; going by that path. And by what further? by *namasā* — homage (the praise-recitations) — and by the *haviṣmatā*, oblation-bearing; both together; where? in the sacrifice (*devatātā*) that is extended with the gods and full of ghee, *puroḍāśa* and other oblations. And further this Agni, in the bringing near of our foods in the form of oblations, by *ayā kṛpā*, this power of will (of accepting the oblations), does not wear out (*na jūryati*) — does not perish until the end of the sacrifice, is ageless. Who is that? The god whom Mātariśvan, the wind that moves in the sky, formerly, for Manu, from the far-away sun [or: from afar], made shine on earth: and for our sacrifice may he likewise place that Agni, from far away, at our place of worship."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *devatātā* — in the sacrifice, with the host of gods, extended; *haviṣmatā* — with oblations (ghee, *puroḍāśa* etc.); *ṛtasya pathā* — by the path of the sacrifice (the course of the sacrifice); *haviṣmatā* — with the substances of oblation; *namasā* — with homage (the offering of praise); *yajñasādham* — the accomplisher of the sacrifice; *tam* — him (Agni, established on the altar); *api vātayāmasi* — let us serve until he is pleased; *yam* — whom; *devam* — the shining one (the god Agni); *mātariśvā* — the wind; *manave* — for Manu; *parāvataḥ* — from the very distant (from the near of the sun); *bhāḥ* — he made shine (on the earth); *saḥ* — that Agni; *naḥ* — our; *ūrjām* — of the foods (in the form of oblations); *upābhṛtyayā* — in the matter of acceptance; *ayā kṛpā* — by the will (of accepting oblations); *na jūryati* — does not decay (is not destroyed) until the end of the sacrifice; *parāvataḥ* — from a distant place (may Agni come from afar for our sacrifice).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** In the sacrificial hall provided with the host of gods and with substances like ghee and *puroḍāśa*, by the course of the sacrifice and by offerings and homage, let us serve this Agni until he is satisfied. The wind made this shining Agni appear on the earth from the sun far away, for Manu; may this Agni, by his will to accept our oblations, not decay until the end of the sacrifice, and may he come from afar for our sacrifice.
+
+### Printed p. 329  (PDF 350)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+**Printed English (as printed; heading "English Translation"):** *"We propitiate that instrument of sacrifice by the path of sacrifice, by reverential salutation, and by oblations of clarified butter; by oblations (offered) to the gods: and he accepts our offerings, and through his benignity quits not (the rite until its close), the divinity whom the wind brought from afar for the service of Manu: (may he come) from afar (to our sacrifice)."* *(The first sentence of the Bhāvārtha-closing line, "(sāmarthyarūpavāda) kṛpeyiṃda yajña mugiyuvavaregū nāśavāgadirali; (mattu) dūradiṃda (namma yāgārthavāgi) āgamisali", at the head of p. 329 completes the Bhāvārtha: "through (his power of will) may he not perish until the end of the sacrifice; and may he come from afar for our sacrifice.")*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+***yajñasādham api vātayāmasi*** — *yajñasya sādhakaṃ tam agniṃ vedyāṃ sthāpitam āparitoṣaṃ sevāmahe*: Agni, who is able to accomplish the sacrifice, is established on the sacrificial altar; "we, the sacrificers, serve him until he is satisfied": so the meaning.
+
+***ṛtasya pathā*** — *yāgasya mārgeṇa yāgānuṣṭhānena yajñena devasya mahatī prītir bhavati*: "by the course of the sacrifice, that is, by performing the sacrifice; for by sacrifice the god's great pleasure arises": and among the ways of pleasing Agni the performance of the sacrifice is the chief. The śruti "*yajñena devebhyaḥ*" (Tai. Saṃ. 6-3-10-5 [as read; numerals doubtful]) is the authority here. In one sense it is explained that through sacrifice itself Agni's pleasure arises with respect to the sacrificers, and the offering of the oblation to Agni at the time of the sacrifice gives him satisfaction. In the second meaning, following the order stated in the Āśvalāyana Śrauta-sūtra, "*pūrveṇotkaram aparaṇa praṇītāḥ*" (Āśv. Sū. 1-1 [as read]), Agni is to be pleased by the sacrifice by the pure (properly ordered) path.
+
+The means of pleasing Agni are *haviṣmatā* — pouring oblations and ghee; *namasā* — salutations and the praise of Agni, and meditating on Agni while reciting the stotra. So it is explained by the words *haviṣmatā*, *namasā*. The word *haviṣmatā* — said for the second time — is explained as an adjective of the word *devatātā*; from this Sāyaṇa —
+
+### Printed p. 330  (PDF 351)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+(continued from p. 329:) *haviṣmatā — haviṣmati ājyapuroḍāśādibahuhaviryukte devatātā — devānāṃ vistārayukte yajñe*: has explained "in the sacrifices which have many oblations such as ghee and *puroḍāśa* and are carried out by rites in which many gods are invoked, Agni is gratified by rites that bring him joy."
+
+For the word ***ṛtasya*** the Niruktakāra explains "water" (Ni. 1-[?]; as printed "೨-೧೪"?) and "sacrifice, truth" (Ni. 4-19 [?]). The word *devatātā* too is recorded among the names of sacrifice (Ni. 3-19 [?]). And —
+
+> शं नो भवन्तु वाजिनो हवेषु देवताता मितद्रवः स्वर्काः ।
+> जम्भयन्तोऽहिं वृकं रक्षांसि सनेम्यस्मद्युयवन्नमीवाः ॥
+
+> *śaṃ no bhavantu vājino haveṣu devatātā mitadravaḥ svarkāḥ |*
+> *jambhayanto 'hiṃ vṛkaṃ rakṣāṃsi sanemyasmad yuyavann amīvāḥ ‖*
+
+(Ṛ. Saṃ. 2-[?]-2; as read "೨-೩೪-೨" [?].) In this Ṛk the Nirukta explains *devatātā* as "sacrifice".
+
+***ūrjām*** — *havirlakṣaṇānām annānām*: "of foods in the form of oblations". The word *ūrj* is recorded among the names of food (Ni. 3-9 [?]). And —
+
+> देवी ऊर्जाहुती इषमूर्जमन्यावक्षत्सग्धिं सपीतिं मन्यानेवेन पूर्वं दयमानाः स्याम पुराणेन नवं तामूर्जमूर्जाहुती ऊर्जयमाने अधाताम् वसुवने वसुधेयस्य वीतां यज ।
+
+> *devī ūrjāhutī iṣam ūrjam anyāvakṣat sagdhiṃ sapītiṃ manyānevena pūrvaṃ dayamānāḥ syāma purāṇena navaṃ tām ūrjam ūrjāhutī ūrjayamāne adhātāṃ vasuvane vasudheyasya vītāṃ yaja |*
+
+(Vāj. Saṃ. 28-18 [?] and 8-43 [?], as read; **small-type, letters doubtful — I record it as read from the Kannada letters and do not claim the text: [?]**.) Here *iṣam ūrjam* is explained as "food and sap" (*annaṃ rasaṃ ca*): meaning "food".
+
+***ayā kṛpā na jūryati*** — *anayā sāmarthyalakṣaṇayā kalpanayā haviḥsvīkaraṇarūpayā yajñasamāptiparyantaṃ na naśyati ajaro vartate ity arthaḥ*: "Agni, in the matter of accepting the oblations of ghee and *puroḍāśa* offered by the sacrificers, stays young until the sacrifice ends — that is, unwearied": so the meaning.
+
+The Niruktakāra reads *kṛpaḥ kṛpater vā kalpater vā* (Ni. 6-8 [?]); Sāyaṇa takes the word, which comes from the root *kṛp sāmarthye*, as "ability".
+
+***devaṃ mātariśvā manave parāvataḥ bhāḥ*** — *dyotanaśīlam antarikṣasaṃcārī vāyuḥ pūrvaṃ manave manorarthāya atidūraṃ gatavataḥ ādityād bhāḥ abhāsīt | aucityena bhūmau sthāpitavān*: "the wind that moves in the sky, for the sake of Manu, made the shining Agni appear on the earth, bringing him from the far-away sun; he placed him on the earth in a suitable place".
+
+### Printed p. 331  (PDF 352)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+(continued): "— the wind brought (the shining Agni) from the far-away sun, set him apart on earth, established him in suitable places in accord with the rites, for Manu": so the meaning.
+
+The word ***parāvataḥ*** is recorded among the five names of "far" (Ni. 3-20 [?]). And —
+
+> अपामुपस्थे महिषा अगृभ्णत विशो राजानमुप तस्थुरृग्मियम् ।
+> आ दूतो [?] अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥
+
+> *apām upasthe mahiṣā agṛbhṇata viśo rājānam upa tasthur ṛgmiyam |*
+> *ā dūto [?] agnim abharad vivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*
+
+(Ṛ. Saṃ. 6-8-4, as read. **The word after "ā" in the second line is not clearly legible in my image; the OCR reads "dūto"; I record "dūto [?]"**.) and —
+
+> एतदस्या अनः शये सुसंपिष्टं विपाश्या ।
+> ससार सीं परावतः ॥
+
+> *etad asyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā |*
+> *sasāra sīṃ parāvataḥ ‖*
+
+(Ṛ. Saṃ. 4-30-11, as read.) — in these Ṛks too the Nirukta explains *parāvataḥ* as *preritavataḥ parāgatād vā* ("sent" or "come from afar"); Sāyaṇa here explains "from the sun who is far away".
+
+***mātariśvā*** — *mātariśvā vāyur mātary antarikṣe śvasiti mātari aśvanitīti vā* (Ni. 7-26 [?]): the Niruktakāra: the word *mātariśvan* denotes "the wind": *mātari* — in the sky — he breathes (moves), or he moves quickly in the sky. For this reason the idea stated in the Brāhmaṇa "*asyāgner vaiśvānarasya mātariśvānam āhartāram āha*" (as read) — that the Vaiśvānara fire, which is in all beings on earth as the digestive fire, was set apart from the sun as is suitable for the sacrifice — is meant here too, as Sāyaṇa says.
+
+***parāvataḥ*** — *tadvat dūrād devam agnim asmad devayajanaṃ prati sthāpayatv ity arthaḥ*: the word *parāvataḥ* is explained as "far", and "may the wind, who has brought Agni from the far-away sun and set him on earth, make Agni stay firm in the sacrificial altar of the sacrificers who sacrifice": so it is explained.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *yajñasādham* — root *sādha saṃsiddhau*; *kvip* in the agent sense by *kvip ca* (Pā. 3-2-76 [?]); *yajñaṃ sādhnotīti yajñasāt*, accusative *tam*; *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the final member of the compound. *vātayāmasi* — root *vāta gatisukhasevanayoḥ*, *curādi*; *laṭ* first person plural, *masi* [the Kannada: *mas* suffix]; *satyāpapāśa…* (Pā. 3-1-25) gives *ṇic* in the self sense [(*the rest of the entry continues on p. 332*)].
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 331 (PDF 352): Ṛks 1 complete; Ṛk 2 complete except the grammar page, which was begun (*yajñasādham*, *vātayāmasi* …); resume p. 332 (PDF 353) with the rest of the Ṛk 2 grammar, then Ṛk 3. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; the Yajus quotation on p. 330; OCR reference-number lines missing for pp. 249–331.
