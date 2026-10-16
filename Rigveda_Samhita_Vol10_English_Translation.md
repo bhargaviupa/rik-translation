@@ -13487,4 +13487,148 @@ Here ends the 133rd Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 133 complete (7 ṛks; printed pp. 534–565; closing line of the Sūkta on p. 565). Next: Sūkta 134 begins on printed p. 566 (PDF 587; page images: crop PDF 587 on with `python3 publish/tools/pageprep/crop_pages.py Rig_Vol10.pdf 587 700 $S/w10g --dpi 150`; w10f/ ends at PDF 620). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed at all); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–133 (esp. the Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+## Sūkta 134 — *ā tvā juvo* (begins on printed p. 566; Anuvāka 20, first of six Sūktas)
+
+### Printed p. 566  (PDF 587)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+**ನೂರ ಮೂವತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು — Nūra mūvattanālkaneya sūktavu** (the one hundred and thirty-fourth Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; doubtful letters [?]).**
+
+> विंशेऽनुवाके षट् सूक्तानि । तत्रा त्वा जुव इति षडृचं प्रथमं सूक्तं पारुच्छेपमात्यष्टम् [?] । त्वं नो वायविति [?] चतुष्पदाक्षरा [?] । वायव्यं त्रित्यच्छमानत्वादिदमुत्तरं च वायुदेवत्यं । अत्रानुक्रमणिका । आ त्वा षड्वायव्यं त्वंत्याष्टिरिति [?] । विनियोगो लैङ्गिकः ॥
+
+> *viṃśe 'nuvāke ṣaṭ sūktāni | tatrā tvā juva iti ṣaḍṛcaṃ prathamaṃ sūktaṃ pārucchepam ātyaṣṭam [?] | tvaṃ no vāyaviti [?] catuṣpadākṣarā [?] | vāyavyaṃ trityacchamānatvād idam uttaraṃ ca vāyudevatyaṃ | atrānukramaṇikā | ā tvā ṣaḍ vāyavyaṃ tvaṃtyāṣṭir iti [?] | viniyogo laiṅgikaḥ ‖*
+
+**Kannada anuvāda (translated).** With this Sūkta the twentieth Anuvāka of the first Maṇḍala begins. In this Anuvāka there are six Sūktas. Of them this Sūkta *ā tvā juvaḥ* is the first; it has six ṛks. The ṛṣi of this Sūkta is Paruccheṣa; the deity is Vāyu; the metre is Atyaṣṭi. The last ṛk, with the fourth pāda of sixteen [?] syllables *tvaṃ no vāyo*, is in the metre called Aṣṭi. In the Anukramaṇikā, because the word *tu* is used in "*vāyavyaṃ tu*", this Sūkta and the next Sūkta have Vāyu as their deity; and the Anukramaṇikā says "*ā tvā ṣaḍ vāyavyaṃ tvaṃ tyāṣṭiḥ*" [as read]. The use (*viniyoga*) is *laiṅgika* (by the sense of the text).
+
+**ಸೂಕ್ತ — Sūkta 134** [as read]. Maṇḍala 1; Anuvāka 20; Sūkta 134. Aṣṭaka 2, Adhyāya 1, Varga 24 [as read, [?]]. Number of ṛks in the Sūkta: 6. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — Vāyu. Chandas — 1–5 Atyaṣṭi; 6 Aṣṭi [as printed: "೧-೫ ಅತ್ಯಷ್ಟಿ | ೬ ಅಷ್ಟಿ"].
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> आ त्वा जुवो रारहाणा अभि प्रयो वायो वहन्त्विह पूर्वपीतये सोमस्य पूर्वपीतये ।
+> ऊर्ध्वा ते अनु सूनृता मनस्तिष्ठतु जानती ।
+> नियुत्वता रथेना याहि दावने वायो मखस्य दावने ॥ १ ॥
+
+> *ā tvā juvo rārahāṇā abhi prayo vāyo vahantviha pūrvapītaye somasya pūrvapītaye |*
+> *ūrdhvā te anu sūnṛtā manastiṣṭhatu jānatī |*
+> *niyutvatā rathenā yāhi dāvane vāyo makhasya dāvane ‖ 1 ‖*
+
+### Printed p. 567  (PDF 588)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+**॥ पदपाठः ॥**
+
+> आ । त्वा । जुवः । रराहाणाः । अभि । प्रयः । वायो इति । वहन्तु । इह । पूर्वऽपीतये । सोमस्य । पूर्वऽपीतये ।
+> ऊर्ध्वा । ते । अनु । सूनृता । मनः । तिष्ठतु । जानती ।
+> नियुत्वता । रथेन । आ । याहि । दावने । वायो इति । मखस्य । दावने ॥ १ ॥
+
+> *ā | tvā | juvaḥ | rarāhāṇāḥ | abhi | prayaḥ | vāyo iti | vahantu | iha | pūrva 'pītaye | somasya | pūrva 'pītaye |*
+> *ūrdhvā | te | anu | sūnṛtā | manaḥ | tiṣṭhatu | jānatī |*
+> *niyutvatā | rathena | ā | yāhi | dāvane | vāyo iti | makhasya | dāvane ‖ 1 ‖*
+
+*(The Pada prints "*rarāhāṇāḥ*" with short *a* in the first syllable, against the Saṃhitā "*rārahāṇāḥ*"; given as printed.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; doubtful words marked [?].)*
+
+> हे वायो त्वा त्वां जुवो गमनशीला रराहाणाः शीघ्रगामिनो बलवन्तो वा सामर्थ्यान्नियुत्संज्ञका अश्वाः । रहि गतौ । लिटः कानच् । छान्दसोऽनुनासिकलोपः ॥ इहास्मिन्यज्ञे प्रयोऽन्नं पुरोडाशादि हविर्लक्षणमन्नमभि वहन्तु । प्रापयन्तु । किमर्थं पूर्वपीतये पूर्ववत्पानाय [?] । पुनः किमर्थं । सोमस्य पूर्वपीतये इतरदेवेभ्यः पुरा पानाय ॥ मरुद्वृधादित्वात्पूर्वपदान्तोदात्तत्वम् । किंच हे वायो ते तव संबन्धि मनोऽनु सूनृता प्रियसत्यात्मिका स्तुतिरूपास्मदीया वाक् तिष्ठतु । आश्रित्य सर्वदा वर्तताम् । हर्षयत्वित्यर्थः । सूनृतेति वाङ्नाम । सूनृता ब्रह्मेति तन्नामसूक्तत्वात् [?] । ऊर्ध्वोन्नता तथा जानती तव गुणान्विशेषेणागच्छन्ती [?] । सोमपानार्थं स्तुत्यर्थं च हे वायो मखस्य यज्ञस्य दावने दात्व्याय हविषे तत्स्वीकाराय । पुनः किमर्थम् । दावनेऽस्मभ्यमभिमतदानाय ॥ उभयत्र दादेः कर्मणि भावे च क्रेनोः [?] औणादिको वनिः । छान्दस उपधालोपः ॥ नियुत्वता रथेन नियुद्भिर्युक्तेन रथेना याहि । आगच्छ ॥
+
+> *he vāyo tvā tvāṃ juvo gamanaśīlā rarāhāṇāḥ śīghragāmino balavanto vā sāmarthyānniyutsaṃjñakā aśvāḥ | rahi gatau | liṭaḥ kānac | chāndaso 'nunāsikalopaḥ ‖ ihāsminyajñe prayo 'nnaṃ puroḍāśādi havirlakṣaṇamannamabhi vahantu | prāpayantu | kimarthaṃ pūrvapītaye pūrvavatpānāya [?] | punaḥ kimarthaṃ | somasya pūrvapītaye itaradevebhyaḥ purā pānāya ‖ marudvṛdhāditvātpūrvapadāntodāttatvam | kiṃca he vāyo te tava saṃbandhi mano 'nu sūnṛtā priyasatyātmikā stutirūpāsmadīyā vāk tiṣṭhatu | āśritya sarvadā vartatām | harṣayatvityarthaḥ | sūnṛteti vāṅnāma | sūnṛtā brahmeti tannāmasūktatvāt [?] | ūrdhvonnatā tathā jānatī tava guṇānviśeṣeṇāgacchantī [?] | somapānārthaṃ stutyarthaṃ ca he vāyo makhasya yajñasya dāvane dātvyāya haviṣe tatsvīkārāya | punaḥ kimartham | dāvane 'smabhyamabhimatadānāya ‖ ubhayatra dādeḥ karmaṇi bhāve ca krenoḥ [?] auṇādiko vaniḥ | chāndasa upadhālopaḥ ‖ niyutvatā rathena niyudbhiryuktena rathenā yāhi | āgaccha ‖*
+
+*(Sense: "O Vāyu, the *juvaḥ* — swift-moving — *rarāhāṇāḥ*, fast-going or powerful horses named *niyut* [from the root *rahi gatau*, *liṭ* with *kānac*, the nasal elided by Vedic usage], bring to you, here at this sacrifice, the *prayaḥ* — food, the oblation-food of cake (*puroḍāśa*) and the like — for *pūrvapīti*, the first drinking [before the other gods] of Soma. [The accent *pūrvapadāntodātta* by the *marudvṛdhādi* rule.] Further, O Vāyu: let our speech — a praise, of a kind both dear and true (*sūnṛtā*) — rest ever, depending on your mind, and gladden [you]; *sūnṛtā* is a name of speech (*vāk*). Upright (*ūrdhvā*), knowing your qualities well, for the drinking of Soma and for praise; O Vāyu, for the giving (*dāvane*) of the oblation [to be given] to the sacrifice (*makha*) and for its acceptance; and for the giving of what we desire to us. Come with the *niyut*-yoked car." Grammar of *dāvane*: Uṇādi *vani* after *dā* [with *kṛ* ending?] in the sense of object or state; the penultimate elision by Vedic usage; [doubtful]).*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) vāyo* — O Vāyu; *tvā* — you; *juvaḥ* — of swift movement and *rarāhāṇāḥ* — fast-going (powerful) horses; *iha* — in this sacrifice; *prayaḥ abhi* — with a view to the oblation of food; *pūrvapītaye* — to drink, as before (of Soma-juice); *ā vahantu* — may they bring; *somasya* — of Soma-juice; *pūrvapītaye* — to drink earlier [than other deities]; *(vahantu)* — may they bring you; *(kiṃca)* — and; *(he vāyo)* — O Vāyu; *ūrdhvā* — excellent; *jānatī* — knowing [your qualities well]; *sūnṛtā* — dear and true (praise-) speech of ours; *te manaḥ anu* — according to your mind; *tiṣṭhatu* — may it be (gladdening your mind); *makhasya* — in the sacrifice; *dāvane* — for the one who is to receive the oblation (to be taken); *dāvane* — for the giver (of what we desire to us); *niyutvatā* — accompanied by the horses called *niyut*; *rathena* — by chariot; *ā yāhi* — come.
+
+### Printed p. 568  (PDF 589)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, may those horses, which are of swift-moving nature and fast-going (powerful), bring you here, to our sacrifice, to receive the cake and the like and to drink the Soma-juice, as before; may our dear and true words of praise, which know well your qualities, be gladdening to your mind; come in a chariot yoked with the horses called *niyut*, to receive the oblation in the sacrifice and to give us what we desire.
+
+**Printed English (heading "English Translation"; as printed):** *"Let your swift coursers, Vayu, bring you quickly hither, that you may be the first to drink; the first (of the gods) to drink of the Soma libation. May our upraised, discriminating, and sincere (praise) be acceptable to your mind: come with your steed-yoked car for (the libation) to be presented to you; come, Vayu, for granting (the objects of our worship)."* [Print: "Let ... car" as above; "Vayu" and "grantiug" (sic) for "granting", "wqrship" (sic) for "worship".]
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***vāyo*** —
+
+> अथातो मध्यस्थाना देवताः । तासां वायुः प्रथमागामी भवति । वायुः । वायुर्वातेर्वेतेर्वा स्याद्गतिकर्मण एतेरिति स्थौलाष्ठीविः । अनर्थको वकारः ।
+
+> *athāto madhyasthānā devatāḥ | tāsāṃ vāyuḥ prathamāgāmī bhavati | vāyuḥ | vāyur vāter veter vā syād gatikarmaṇa eter iti sthaulāṣṭhīviḥ | anarthako vakāraḥ |*
+
+(Ni. 10-1 [as read].) After describing the forms of Agni, of the earth, and of other deities, the author of the Nirukta, Yāska, discusses and explains in the 10th and 11th chapters the forms of the deities of the middle world (the *antarikṣa*). Among the deities of the *antarikṣa*, Vāyu has the first place (*vāyuḥ prathamāgāmī bhavati*). He says that this word is derived from the root *vā*, which gives "going" (*bīsu*: [as read]), or from the root *vī* "to go, to move about" [and] that the *ṇī* [as read: *i*] root, with the sense of motion, may be the origin; and that the letter *va* has no meaning, according to the opinion of Sthaulāṣṭhīvi. Yāska has cited that opinion.
+
+### Printed p. 569  (PDF 590)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Special Topics continued; the page opens with the end of the sentence about Sthaulāṣṭhīvi's opinion, which Yāska also cites, and then:)*
+
+And to show that Vāyu is a deity of the *antarikṣa*, he quotes —
+
+> वायवा याहि दर्शतेमे सोमा अरंकृताः । तेषां पाहि श्रुधी हवम् ॥
+
+> *vāyav ā yāhi darśate me somā araṃkṛtāḥ | teṣāṃ pāhi śrudhī havam ‖*
+
+(Ṛ. Saṃ. 1-2-1 [as read].) — taking this Ṛk, in which a prayer to Vāyu is made to drink the well-prepared Soma — and then:
+
+> कमन्यं मध्यमादेवमवक्ष्यत् ।
+
+> *kam anyaṃ madhyamād devam avakṣyat |*
+
+(Ni. 10-[?], as read "೧೦-೩" [?].) — "which other deity but one of the middle world would [the ṛṣi] have so addressed?", he says. In the present Ṛk, by the word *vāyo*, it is to be understood that the first of the deities of the *antarikṣa*, Vāyu, is addressed.
+
+***tvā juvaḥ ā vahantu*** — "may the swift-going horses bring [you]": the prayer to bring [you] with horses that move swiftly. The word *juvaḥ* tells the nature of the horse; derived from the root *ju*, in the sense of "go", it indicates swiftness of motion.
+
+> मुमुक्ष्वो [?] मनवे मानवस्यते रघुद्रुवः कृष्णसीतास ऊ जुवः ।
+> असमना अजिरासो रघुष्यदो वातजूता उप युज्यन्त आशवः ॥
+
+> *mumukṣvo [?] manave mānavasyate raghudruvaḥ kṛṣṇasītāsa ū juvaḥ |*
+> *asamanā ajirāso raghuṣyado vātajūtā upa yujyanta āśavaḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೯೪-೪" [?].) In this Ṛk the word *juvaḥ* is used as an adjective of the flames of Agni, and shows the swiftness of the flames in their work of carrying [the oblation]. In combination with the word *manas* it means swiftness of thought.
+
+> वाचस्पतिं विश्वकर्माणमूतये मनोजुवं वाजे अद्या हुवेम ।
+> स नो विश्वानि हवनानि जोषद्विश्वशंभूरवसे साधुकर्मा ॥
+
+> *vācaspatiṃ viśvakarmāṇam ūtaye manojuvaṃ vāje adyā huvema |*
+> *sa no viśvāni havanāni joṣad viśvaśaṃbhūr avase sādhukarmā ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೮೧-೭" [?].) In this Ṛk, the word *manojuvam* is a compound with *manas*: *manaso vegena samāna-vegavantaṃ devam* — "a god with speed equal to that of the mind"; everywhere the swiftness of motion is shown. So also in the Ṛk under discussion it shows the speed of the horses.
+
+***rarāhāṇāḥ*** — from the root *rahi*, in the sense of "go": *raṃhatā gacchantaḥ* — "going swiftly, [horses] quick to run" is an attribute of the horses; but as the nature of the horses, "running swiftly", has already been told by the epithet *juvaḥ*, a doubt arises that this attribute is unnecessary; hence Sāyaṇa —
+
+*(the sentence continues on p. 570.)*
+
+### Printed p. 570  (PDF 591)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+*(Special Topics continued.)* …In this word (*rarāhāṇāḥ*) the commentator has given two kinds of meaning: *śīghragāmino balavanto vā aśvāḥ* — "swift-going or strong horses"; both meanings, *śīghragāmin* and *balavat*, are possible, he has indicated. In the present Ṛk the second meaning is the more appropriate.
+
+***prayaḥ*** — *andhaḥ, vājaḥ* and so on, in the names of food (Ni. 2-[?], as read "೨-೯" [?]).
+
+***pūrvapītaye*** — this word has been repeated. The first time, *pūrvavat pānāya* — "to drink as in the former sacrifices"; the second time, *itaradevebhyaḥ purā pānāya* — "to drink before the other gods": thus the meaning is given.
+
+***ūrdhvā*** — *ūrdhva ucchrito bhavati* (Ni. 2-[?], as read "೨-೧೫" [?]) means "high, raised up". Ordinarily we use this word to show physical height; but here, as an adjective of praise, it means "excellent".
+
+***sūnṛtā*** — *priyasatyātmikā stutirūpāsmadīyā vāk* — "our praise, both pleasant and true", Sāyaṇa explains. In explaining this same Ṛk, the meaning which Max Müller gives to this word is worthy of notice:
+
+"*Whatever the etymology of* sūnṛtā *may be, in our passage, which describes the morning sacrifice and the arrival of Vayu as the first of the Gods, it can hardly mean anything but dawn.* ūrdhvā-sthā *is an expression applied frequently to the rise of the Dawn or the morning, see iii. 55-14; i.ii. 61.-3 [sic]; viii. 45-12. In the last passage it is simply the Dawn.*" [Vedic Hymns, ii. p. 446.]
+
+However the word *sūnṛtā* is derived, the Ṛk describes the morning pressing and also addresses Vāyu, who comes first among the deities, and so it suggests that *sūnṛtā* has the meaning *uṣas* (dawn). And the activity-words, *tiṣṭhasi*, *tasthuḥ* and so on, derived from the root *sthā*, in connexion with the word *ūrdhva*, indicate the *Uṣas* rising in the morning —
+
+> उषः प्रतीची भुवनानि विश्वोर्ध्वा तिष्ठस्यमृतस्य केतुः ।
+> समानमर्थं चरणीयमाना चक्रमिव नव्यस्या ववृत्स्व ॥
+
+> *uṣaḥ pratīcī bhuvanāni viśvordhvā tiṣṭhasy amṛtasya ketuḥ |*
+> *samānam artham caraṇīyamānā cakram iva navyasyā vavṛtsva ‖*
+
+(Ṛ. Saṃ. 3-61-3 [as read].) — as in such Ṛks, in the present Ṛk too, the phrase *ūrdhvā tiṣṭhatu* indicates Uṣas. Therefore, the word *sūnṛtā* is a synonym for *uṣas* — thus [Max Müller's idea] [text continues on p. 571].
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 written through p. 570 (Special Topics of Ṛk 1 continue: Max Müller's note on *sūnṛtā* = Uṣas, then the grammar page; resume p. 571, PDF 592; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
