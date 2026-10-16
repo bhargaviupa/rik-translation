@@ -9902,4 +9902,98 @@ The word ***pūru*** is recorded among the names of men (Ni. 2-[?]; as read "೨
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 389 (PDF 410): Ṛks 1–5 complete (‖ 5 ‖); resume p. 390 (PDF 411) with Ṛk 6 (Indu/Soma). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382) and Ṛk 5 Saṃhitā/Pada (p. 385: *atimatim*, *araṇebhiḥ* doubtful); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 390  (PDF 411)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> प्र तद्वोचेयं भव्यायेन्दवे हव्यो न य इषवान्मन्म रेजति रक्षोहा मन्म रेजति ।
+> स्वयं सो अस्मदा निदो वध्रैरजेत दुर्मतिम् ।
+> अव स्रवेदघशंसोऽवतरमव क्षुद्रमिव स्रवेत् ॥ ६ ॥
+
+> *pra tadvoceyaṃ bhavyāyendave havyo na ya iṣavānmanma rejati rakṣohā manma rejati |*
+> *svayaṃ so asmadā nido vadhrairajeta durmatim |*
+> *ava sravedaghaśaṃso 'vataramava kṣudramiva sravet ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । तत् । वोचेयम् । भव्याय । इन्दवे । हव्यः । न । यः । इषऽवान् । मन्म । रेजति । रक्षःऽहा । मन्म । रेजति ।
+> स्वयम् । सः । अस्मत् । आ । निदः । वध्रैः । अजेत । दुःऽमतिम् ।
+> अव । स्रवेत् । अघऽशंसः । अवऽतरम् । अव । क्षुद्रम्ऽइव । स्रवेत् ॥ ६ ॥
+
+> *pra | tat | voceyam | bhavyāya | indave | havyaḥ | na | yaḥ | iṣa 'vān | manma | rejati | rakṣaḥ 'hā | manma | rejati |*
+> *svayam | saḥ | asmat | ā | nidaḥ | vadhraiḥ | ajeta | duḥ 'matim |*
+> *ava | sravet | agha 'śaṃsaḥ | ava 'taram | ava | kṣudram 'iva | sravet ‖ 6 ‖*
+
+*(Read from the image. Ṛk 6 is addressed to Indu, i.e. Soma — the sūkta table gives "Ṛk 6 Indu". Pada: *iṣa-vān*, *rakṣaḥ-hā*, *aghaśaṃsaḥ*, *ava-taram*, *kṣudram-iva*.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, some letters doubtful: [?]).*
+
+> भव्याय भवनशीलाय प्रतिदिनं कलाभिवृद्ध्या वर्धनशीलायेन्दवेऽमृतेन सर्वस्य क्लेदयित्रे तदर्थं तद्वक्ष्यमाणं कर्म स्तोत्रं वा प्र वोचेयम् । प्रकर्षेण वक्तुं शक्तो भूयासम् । स्तुतेरतिमहत्त्वादिति भावः ॥ वचेर्लिङ्याशिष्यङ् [?] । वच उम् ॥ कस्य तदिति । य इन्दुरिषवानेषणवान् मन्म मननीयं स्तोत्रं कर्म वोद्दिश्य रेजति गच्छति । रेजतिर्गत्यर्थः रेजति दभ्रोतीति तन्नामसु पाठात् [?] । आगमने दृष्टान्तः । हव्यो न होतव्य आह्वातव्यो वा हव्य इन्द्र इव । प्रायेणेन्द्र आगच्छेत्यादिनेन्द्र एवाह्वयते । स इव । स एव विशेष्यते । रक्षोहा यज्ञविघातकानां रक्षसां हन्ता मन्म तेषामेव कर्म हननादिरूपं रेजति गच्छति । चालयति नाशयतीत्यर्थः । स एवेन्दुः स्वयं निदः । णिदि कुत्सायाम् । क्विप् । सावेकाच इति विभक्तेरुदात्तता ॥ अस्मन्निन्दितुर्वैरिणो वध्रैर्हननोपायैः ॥ हनेर्वध इति भावे [?] । तस्य नियोगेन वधादेशः । न चान्तोऽन्तोदात्तः [?] ॥ दुर्मतिं दुर्बुद्धिमस्मद्द्वेष्टारम् आ अजेत । अक्षिपेत् । आवनयेत् [?] । किंचाघशंसोऽघानां पापानां हिंसादीनां
+
+> *bhavyāya bhavanaśīlāya pratidinaṃ kalābhivṛddhyā vardhanaśīlāyendave 'mṛtena sarvasya kledayitre tadarthaṃ tadvakṣyamāṇaṃ karma stotraṃ vā pra voceyam | prakarṣeṇa vaktuṃ śakto bhūyāsam | stuteratimahattvāditi bhāvaḥ ‖ vacerliṅyāśiṣyaṅ [?] | vaca um ‖ kasya taditi | ya induriṣavāneṣaṇavān manma mananīyaṃ stotraṃ karma voddiśya rejati gacchati | rejatirgatyarthaḥ rejati dabhrotīti tannāmasu pāṭhāt [?] | āgamane dṛṣṭāntaḥ | havyo na hotavya āhvātavyo vā havya indra iva | prāyeṇendra āgacchetyādinendra evāhvayate | sa iva | sa eva viśeṣyate | rakṣohā yajñavighātakānāṃ rakṣasāṃ hantā manma teṣāmeva karma hananādirūpaṃ rejati gacchati | cālayati nāśayatītyarthaḥ | sa evenduḥ svayaṃ nidaḥ | ṇidi kutsāyām | kvip | sāvekāca iti vibhakterudāttatā ‖ asmanninditurvairiṇo vadhrairhananopāyaiḥ ‖ hanervadha iti bhāve [?] | tasya niyogena vadhādeśaḥ | na cānto 'ntodāttaḥ [?] ‖ durmatiṃ durbuddhimasmaddveṣṭāram ā ajeta | akṣipet | āvanayet [?] | kiṃcāghaśaṃso 'ghānāṃ pāpānāṃ hiṃsādīnāṃ*
+
+### Printed p. 391  (PDF 412)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+> शंसिता स्तेनोऽवतरमत्यन्तनिकृष्टमव स्वस्थानादवाङ्मुखो भूत्वा स्रवेत् । गच्छतु । अधः पततु इत्यर्थः । अघशंसः स्तेनः अघशंसो वृक इति तन्नामसु पाठात् । अवस्रवणमेव प्रार्थ्यते । क्षुद्रमिव क्षेप्तुं शक्यमुदकादिकमिव । उदकं यथा तिष्ठति प्रवत्नश्यति [?] तथासावित्यर्थः ॥
+
+> *śaṃsitā steno 'vataramatyantanikṛṣṭamava svasthānādavāṅmukho bhūtvā sravet | gacchatu | adhaḥ patatu ityarthaḥ | aghaśaṃsaḥ stenaḥ aghaśaṃso vṛka iti tannāmasu pāṭhāt | avasravaṇameva prārthyate | kṣudramiva kṣeptuṃ śakyamudakādikamiva | udakaṃ yathā tiṣṭhati pravatnaśyati [?] tathāsāvityarthaḥ ‖*
+
+*(Sense: "For Indu — that is, Soma — who is of a nature to come into being, who grows each day by the increase of his phases and moistens everyone with nectar, may I be able to speak (*pra voceyam*) that rite or praise, to be told now; may I be able to speak it excellently, since praise is of very great (*ati-mahat*) worth. [Grammar: precative of *vac*, augment *um*.] For whom? The Soma-juice that, abounding in food (*iṣavān*) or desire, *rejati* — goes toward *manma*, the praiseworthy hymn or rite; (*rejati* is a verb of motion). The example of coming: *havyo na* — like the one to be invoked, Indra: Indra is called with 'come, Indra' and so on; like him. The same is further described: *rakṣohā* — the killer of the Rākṣasas who harm sacrifices — *rejati* — sets going, i.e. destroys, their work of killing and the like. May that Soma himself repel by the means of destruction (*vadhraiḥ*) the enemy who reviles us (*nidaḥ*), the one with an evil mind. And may the thief (*aghaśaṃsaḥ*, the 'proclaimer of sins' — the word *aghaśaṃsa* is recorded among the names of thief and of wolf), go downwards (*ava sravet*), to the lowest place, from his place, headlong, fall down: this fall is prayed for — as little water, that can be thrown, runs down and is lost.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *yaḥ* — which Soma-juice; *iṣavān* — accompanied by as much food as desired; *manma* — the praise (the rite), for it; *havyaḥ na* — like Indra, who is fit for the oblation or who is called; *rejati* — goes (such); *bhavyāya* — to the growing; *indave* — the Soma-juice which moistens all with nectar; *tat* — that rite; *pra voceyam* — may I be able to speak much (in praise); *rakṣohā* — (Indra) the destroyer of the Rākṣasas who harm the sacrifice; *manma* — their work of killing and the like; *rejati* — destroys; *saḥ* — that Soma-juice; *nidaḥ* — the reviling enemies; *durmatim* — the evil mind; *vadhraiḥ* — by means of destruction; *asmat* — from us; *svayam* — by itself; *ā ajeta* — drive away; *(kiṃ ca* — and); *aghaśaṃsaḥ* — the thief who proclaims sin; *kṣudram* — like a little (water); *ava sravet iva* — as it flows downwards and disappears; *avataram* — very low; *ava sravet* — let him go headlong from his place (and perish).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Let us praise the rite of Soma-juice, which goes toward the hymn like Indra who is invoked, giving food without measure, which grows, and is the sustenance of all. Indra destroys the Rākṣasas who harm the sacrifice and brings to naught their acts of violence; and may the Soma-juice itself repel from us, by means of destruction, the evil mind of those who revile us; may the thief who speaks of sin fall headlong and perish, as a little water flows away and disappears.
+
+**Printed English (heading "English Translation"; as printed):** *"May I be competent to utter (praise) for the (Soma) libation, sustaining existence, which, like the (deity) to be invoked, (Indra), goes abounding with food to (each) venerable (rite); the destroyer of Rakshasas at (each) venerable (rite); may that (libation) of itself repress with chastisement the malevolence of him who reviles us: let the thief fall downwards (and) perish), like a little (water) running down (a declivity)."* *(Printed with the unbalanced parentheses as given.)*
+
+### Printed p. 392  (PDF 413)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***bhavyāya indave tat pra voceyam*** — *bhavanaśīlāya kalābhivṛddhyā pratidinaṃ vardhanaśīlāya amṛtena sarvasya kledayitre vakṣyamāṇaṃ karma stotraṃ vā prakarṣeṇa vaktuṃ śakto bhūyāsam*. The Niruktakāra considers the derivation of the word *indra*: *indave dravatīti indraḥ* (Ni. 10-8 [?]; as read "೧೦-೮"): *indu* means Soma; because he runs to drink the Soma-juice he is called Indra. Or, as said, *indau ramata iti vā*: because he sports in the drinking of Soma. Following this derivation, this Ṛk explains the greatness of Soma and also describes the greatness of Indra, which has to be told in context.
+
+"Soma, who rises on the several days, grows with the increase of his phases, and, giving nectar to all, makes all rejoice — since his (the Soma's) greatness is proposed, the ṛṣi who saw the mantra says: may I be able to explain, in praise or in rite, that which belongs to Soma": so it is described. The Niruktakāra explains the word *indu* — *indur indheḥ undater vā* ("*indu* from *indh*, to shine, or from *und*, to moisten"); Durgācārya says the word *indu* is formed either from the root *indhi* denoting light or from the root *ud* denoting moistening, and means "moon". And the Niruktakāra, citing this same Ṛk, explains:
+
+> प्रब्रवीमि तद्भव्यायेन्दवे हवनार्ह इव य इषवानन्नवान् कामवान् वा मननानि च नो रेजयति रक्षोहा च बलेन रेजयति स्वयं सोऽस्मदभिनिन्दितारं वध्रैरजेत दुर्मतिम् । अवस्रवेदघशंसः । ततोऽवतरं क्षुद्रमिवावस्रवेत् ॥
+
+> *prabravīmi tad bhavyāyendave havanārha iva ya iṣavān annavān kāmavān vā mananāni ca no rejayati rakṣohā ca balena rejayati svayaṃ so 'smad abhinindi­tāraṃ vadhrair ajeta durmatim | avasraved aghaśaṃsaḥ | tato 'vataraṃ kṣudram ivāvasravet ‖*
+
+*(Nirukta, as read from the small Kannada type; the passage is doubtful in places: [?].)* And he says —
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयाहो दर्शनीयेति । तत्परुच्छेपस्य शीलम् ॥
+
+> *abhyāse bhūyāṃsam arthaṃ manyante yathāho darśanīyāho darśanīyeti | tat parucchepasya śīlam ‖*
+
+(Ni. 10-43, as read "೧೦-೪೩".) Durgācārya says: "I shall speak words that are dear to Indu: and this utterance too is a means of pleasing the moon; the moon fulfils the wishes of those who desire things."
+
+### Printed p. 393  (PDF 414)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+(Durga's explanation, continued:) "…so one meaning is that he is *ātmavān*, a thing to be meditated upon, who is to be contemplated only through the oblation; and the second, that he is not to be contemplated since he is not a sharer of oblations." "Like the deity who receives an offering through homa, he is not summoned again by sacrifice: always he possesses food, fulfils the wishes of the desirous, and makes our knowledge grow. But one fears that praising him who turns our minds toward desire is improper. He destroys the Rākṣasas by his power; and, striking those who revile us with the thunderbolt, he conquers them and destroys those of evil mind. He who defames us, though famed in his regions, goes to a low state. As a thing grown in a small measure perishes little by little and wholly disappears, so one of base mind among us goes little by little to a low state." This is the meaning explained. And the Niruktakāra explains that because the ṛṣi Paruccheṣa repeats words, the meaning becomes intensive, with the illustration *aho darśanīyā aho darśanīyā* ("how beautiful! how beautiful!").
+
+***manma*** — *mananīyaṃ stotraṃ karma vā*. —
+
+> उप प्रागात्सुमन्मे [?] धायि मन्म देवानामाशा उप वीतपृष्ठः ।
+> अन्वेनं विप्रा ऋषयो मदन्ति देवानां पुष्टे चकृमा सुबन्धुम् ॥
+
+> *upa prāgāt sumanme [?] dhāyi manma devānām āśā upa vītapṛṣṭhaḥ |*
+> *anv enaṃ viprā ṛṣayo madanti devānāṃ puṣṭe cakṛmā subandhum ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೮೩-೨" [?]; small type, doubtful letters: [?].) In this Ṛk the word *manma* is explained as *mananīyam arthajātam* — "that which is worthy of meditation".
+
+For the second *manma*: *teṣām eva karma hananādirūpam* — "the work of subduing the Rākṣasas who obstruct the sacrifice".
+
+***aghaśaṃsaḥ avataram ava sravet*** — *aghānāṃ pāpānāṃ hiṃsādīnāṃ śaṃsitā stenaḥ atyantaniṣkṛṣṭam avāṅmukho bhūtvā adhaḥ patatu*: "May the thief who commits sinful acts, violence and the like, go to a lower state than his present one." In this connection he gives the illustration *kṣudram iva — kṣeptuṃ śakyam udakādikam iva*: "like water that can be thrown away; as water flows from its place little by little and perishes, so may the thief perish."
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 393 (PDF 414): Ṛks 1–5 complete; Ṛk 6 (Indu/Soma) Saṃhitā…English and Special Topics written to the end of p. 393 (the *aghaśaṃsaḥ* entry is complete); resume p. 394 (PDF 415) with any remaining Ṛk 6 Special Topics and the grammar, then Ṛk 7. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385) and Ṛk 6 (pp. 390–393 Nirukta/Durga passages); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
