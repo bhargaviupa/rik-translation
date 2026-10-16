@@ -15491,4 +15491,82 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 7 (the last of Sūkta 135) written through p. 643 (Special Topics: the *grāvan* Ṛks quoted; more entries and the grammar follow); resume p. 644 (PDF 665; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 644  (PDF 665)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Special Topics of Ṛk 7, continued; the Kannada gloss of Ṛk 4 of the *grāvan* hymn, begun on p. 643:)* …"the stones make a loud noise with the delightful Soma-juice, calling Indra; the sound of the stones that fill the earth with their sound, and press with the fingers". The next verses of the same hymn are quoted (the verse numbers as printed, uncertain [?]):
+
+> उग्रा इव प्रवहन्तः समायमुः साकं युक्ता वृषणो बिभ्रतो धुरः ।
+> यच्छ्वसन्तो जग्रसाना अराविषुः शृण्व इषां प्रोथथो अर्वतामिव ॥
+
+> *ugrā iva pravahantaḥ samāyamuḥ sākaṃ yuktā vṛṣaṇo bibhrato dhuraḥ |*
+> *yac chvasanto jagrasānā arāviṣuḥ śṛṇva iṣāṃ prothatho arvatām iva ‖*
+
+(Ṛ. Saṃ. 10-94-[?], as read "೬" in the print [?].) "These stones, carrying the burden of the pressing of Soma, make a sound like fierce horses drawing a chariot and neighing with their mouths."
+
+> ध्रुवा एव वः पितरो युगेयुगे क्षेमकामासः सदसो न युञ्जते ।
+> अजुर्यासो हरिषाचो हरिद्रव आ द्यां रवेण पृथिवीमशुश्रवुः ॥
+
+> *dhruvā eva vaḥ pitaro yuge-yuge kṣemakāmāsaḥ sadaso na yuñjate |*
+> *ajuryāso hariṣāco haridrava ā dyāṃ raveṇa pṛthivīm aśuśravuḥ ‖*
+
+(Ṛ. Saṃ. 10-94-[?], as read "೧೧" [?].) "O stones, though the ages change, your fathers, the mountains, stand firm; they fill heaven and earth with the sound of your pressing."
+
+> सुते अध्वरे अधि वाचमक्रत क्रीळयो न मातरं तुदन्तः ।
+> वि षू मुञ्चा सुषुवुषो मनीषां वि वर्तन्तामद्रयश्चायमानाः ॥
+
+> *sute adhvare adhi vācam akrata krīḷayo na mātaraṃ tudantaḥ |*
+> *vi ṣū muñcā suṣuvuṣo manīṣāṃ vi vartantām adrayaś cāyamānāḥ ‖*
+
+(Ṛ. Saṃ. 10-94-[?], as read "೧೪" [?]; the last words of the quotation are doubtful [?].) "As children playing, pressing the mother's breast, make sounds, so the stones make a delightful sound at the sacrifice." Thus even the *grāvan*s, following the praise of the sacrificers, make the Soma ready for Indra and the others and, with their attractive sound, call the gods with their own voice: so the purport is. Therefore the prayer is "go where the stones sound".
+
+***sūnṛtā vi dadṛśe*** — the word *sūnṛtā* is explained by Sāyaṇa as *priyatathyātmikā stutirūpā vāk* — "speech of the nature of the pleasing and the true, in the form of praise". There are three kinds of praise: first, the praise of the *grāvan*; second, the praise of Soma; third, the praise of Indra and the other deities.
+
+> आ व ऋञ्जस ऊर्जां वृष्टिं सुन्वत [?] इन्द्रं मरुतो रोदसी अनक्तन ।
+
+> *ā va ṛñjasa ūrjāṃ vṛṣṭiṃ sunvata [?] indraṃ maruto rodasī anaktana |*
+
+(Ṛ. Saṃ. 10-[?]-1, as read "೧೦-೬೬-೧" [?]; the wording is doubtful [?].) In the hymn that begins with this Ṛk,
+
+> प्र वो ग्रावाणः सविता देवः सुवतु धर्मणा । धूर्षु युज्यध्वं सुनुत ॥
+
+> *pra vo grāvāṇaḥ savitā devaḥ suvatu dharmaṇā | dhūrṣu yujyadhvaṃ sunuta ‖*
+
+(Ṛ. Saṃ. 10-[?]-1, as read "೧೦-೭೬-೧" [?].) In the hymn that begins with this Ṛk,
+
+### Printed p. 645  (PDF 666)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> आ ददे ग्रावास्यध्वरकृद्देवेभ्यो गम्भीरमिमम् अध्वरं कृधि ।
+
+> *ā dade grāvāsy adhvarakṛd devebhyo gambhīram imam adhvaraṃ kṛdhi |*
+
+(Tai. Saṃ. 1-4-1 [as read].) In the mantras of the Taittirīya Saṃhitā too, the praise of the *grāvan* [the pressing-stone] is found: in the Ṛks (or mantras) the praise of the *grāvan* occurs; at the time of the pressing of the Soma this praise is recited at the appropriate times. Likewise:
+
+> यत्ते सोम दिवि ज्योतिर्यत्पृथिव्यां यदुरावन्तरिक्षे ………… ।
+
+> *yat te soma divi jyotir yat pṛthivyāṃ yad urāv antarikṣe ………… |*
+
+(Tai. Saṃ. 1-4-1 [as read].) By mantras like this the praise of Soma, and by
+
+> आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार ।
+
+> *ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra |*
+
+(Tai. Saṃ. 1-4-4 [as read].) mantras like this the praise of the deities Vāyu and others, are also found; so, in the Soma-cup, *sūnṛtā vi dadṛśe* is said, with reference to Indra and Vāyu.
+
+***ghṛtaṃ rīyate*** — "ghee is poured for the *homa*" — mentioning the greatness of ghee, which is an increaser of life for men and nourishing for Indra and the others, it is shown that such ghee is also offered to Indra and Vāyu. By the expressions *grāvā vadati*, *sūnṛtā vi dadṛśe*, the sense is that, when the *grāvan* presses the juice, the sound delights Indra and the others; the praises delight the gods; and when ghee goes to the *āhavanīya* and the other fires, it brings happiness to them as well.
+
+***śaśvataḥ*** — this word is included among the names of "many" (Ni. 3-[?], as read "೩-೧" [?]). In this Ṛk, *śaśvataḥ* has the meaning *bahūn yajamānān* ("many sacrificers"). It is clear from many Ṛks of the Saṃhitā that a kind of contempt is shown towards those who show unwillingness in the performance of rites, that is, in the sight of the sacrificers who neglect rites.
+
+> मो षु ब्रह्मेव तन्द्रयुर्भुवो वाजानां पते । मत्स्वा सुतस्य गोमतः ॥
+
+> *mo ṣu brahmeva tandrayur bhuvo vājānāṃ pate | matsvā sutasya gomataḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?], as read "೮-೩೩-೩೦" [?].) "Do not be lazy like a [lazy] priest in the performance of rites such as sacrifices," [says the ṛṣi] to Indra. In the present Ṛk the same contempt is shown: *sasataḥ śaśvataḥ ati yāhi* — "pass the many who are sleeping lazily and neglecting their duties; come to our sacrifice", the ṛṣi prays Vāyu, showing contempt to the sacrificers who perform no rites.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 7 (the last of Sūkta 135) written through p. 645 (Special Topics: *śaśvataḥ* done; more entries and the grammar follow); resume p. 646 (PDF 667; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
