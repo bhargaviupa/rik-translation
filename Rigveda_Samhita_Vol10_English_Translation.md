@@ -13182,4 +13182,60 @@ In this Ṛk the ṛṣi prays to Indra to trample and destroy, with his wide, l
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–4 complete, Ṛk 5 written through printed English (p. 548; resume p. 549 with its Special Topics, PDF 570; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 549  (PDF 570)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).** *(Note on references: this and the next three pages carry dozens of Ṛgveda references in small numerals; to save effort they are not transcribed here but are to be supplied in the separate numeral pass — each place is marked "[refs]" below. Nothing else is omitted.)*
+
+In the previous Ṛks the ṛṣi prayed that enemies in human form be destroyed; in this Ṛk he prays Indra to destroy the Piśācī, the group of Rākṣasas, and the like.
+
+***piśaṅgabhṛṣṭim*** — "one whose body is of a slightly reddish colour with a little flesh"; the colour of the bodies of the Piśācas and the like looks different from that of men, and, to those who look at them, is extremely frightening — this is the sense. The ancient inhabitants of this country are called in many places by words such as *dāsa* and *dasyu*; this appears to be a usage that has become current. Their dress, ornaments and the colour of their bodies, unlike those of the Āryas, being black, flesh-red and so on, are terrifying; hence it is usual to refer to them by words such as *piśāca*, *rakṣaḥ*.
+
+***ambhṛṇam*** — *atibhayaṃkaraṃ śabdāyamānam | yadvā | mahāntam atipravṛddham ity arthaḥ*: "making a terrible noise" — "one who makes noise with an extremely ugly (terrifying) or distorted voice" is the meaning; or "great, very big": the word *ambhṛṇa* occurs among the twenty-odd [?] names of *mahat*, "great", such as *bṛhat*, *dyumnaḥ* (Ni. 3-[?], [refs]) — so it may also be given the meaning "of a very big form". It is well known that the forms of Piśācas and Rākṣasas are far larger than the forms of men.
+
+***piśācīm, rakṣaḥ*** — Yāska, in his Nirukta, gives the derivation of the word *rakṣaḥ*: "*rakṣo rakṣitavyam asmāt | rahasi kṣaṇoti iti vā | rātrau nakṣata iti vā*" (Ni. 4-[?], [refs]) — "they are to be guarded against, because they injure men, so men have to be protected from them; hence they are called *rakṣaḥ*; or, as they live in lonely places, or as they move about in the night-time, they are called *rakṣaḥ*." In modern Sanskrit the words *piśāca*, *rakṣaḥ* signify non-bodily, evil-natured ones, injurious to men, and they also indicate certain bodiless beings. But in the Ṛgveda such description is not found; yet they are said to be evil-doers, to men, and even among men to those who perform sacrificial acts, to sacrificers; their works are against sacrifice and work of the sacrifice, and they are said to cause distress. Probably they were the dark-skinned people, the original inhabitants of this country. The Āryas used to call them Dasyus. They troubled sacrifices and the like and caused various kinds of injury to people, so there are many Ṛks that pray Indra to destroy and protect from them. The chief among them are described briefly —
+
+The name Piśāca is used commonly together with Dāsa and Dasyu. Among them are many: Śuṣṇa, Śambara, Pipru, Namuci, Dhuni, Cumuri and others. As in the Ṛgveda, their matter is briefly described here.
+
+### Printed p. 550  (PDF 571)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+***Śuṣṇa*** — his name occurs some forty times. The chief enemy is Kutsa. This Kutsa, or rather in company with Kutsa, Indra destroys Śuṣṇa root and all [refs]. He has horns [refs]; "the pot-bellied" [refs] — as "swellings (mounds) made of pots" [?] they compare [refs]; thus Śuṣṇa too may be called a serpent. He is a "hisser" (*busugutta*) — [Ṛ. "*svasanaḥ*", refs]. For him the attribute *aśuṣa* (the "swallower", a name of Agni) is used. He has strong forts [refs] or a fort [refs]; these are moving forts [refs]. Indra, destroying Śuṣṇa's forts, releases the waters [refs]; killing Śuṣṇa he gains the sea [refs, Vāla.?] or, destroying Śuṣṇa's race, he wins the (*svarvatīḥ*) heavenly waters [refs]. Śuṣṇa has the epithet *kuyava* ("one who produces bad grain") four times. These two words *kuyava* probably are used instead of the name Śuṣṇa [refs]. The result of the war of Indra with Śuṣṇa is not only the release of the waters but also the gain of the cows or of the sun [refs]. When Indra fights him, Śuṣṇa runs away into the darkness [refs]. He seizes the demon who is the son of snow [Hima] [refs]. Śuṣṇa is the Dānava who has the nectar placed in himself, (*kāṭaka*) [as read].
+
+From the sentences above it may be said that Śuṣṇa causes drought: the root *śuṣ* of the word *śuṣṇa* means "to dry up, to wither"; this supports his being the cause of drought.
+
+***Śambara*** — this name occurs some twenty-five times. Śambara appears along with the other Piśācas. Especially with Śuṣṇa, Pipru, and Varcin [refs]; and, with Ahi, Śambara is fought against; the Maruts help Indra [refs]; when Śambara was split, Indra made the sky shake [refs]; he sought out Śambara living on the mountain and [Indra] rolled him down from the mountain [refs]. Śambara, a Dāsa, the son of Kulitara, Indra hurled down from the great mountain [refs]; also thinking himself a "small deity" [*as read*], striking Śambara he threw him down from a high place [refs]. *Tombhatta* [as read], in general *tombhatta* (or "one hundred", etc.) fortresses were under his authority. Once, for this word, in the neuter, "Śambara's forts" is the sense. These Bṛhaspati split and entered the mountain regions, [filled] with treasures [refs]. Atithigva [refs]; generally Divodāsa [refs], on one occasion both [refs]; for these two Indra destroys Śambara. Some are of the opinion that Śambara and Divodāsa are the name of one person.
+
+### Printed p. 551  (PDF 572)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+***Pipru*** — Indra's enemy (Vāla. [refs]), the foe of Ṛjiśvan; this Ṛjiśvan, having pressed Soma-juice for Indra, gets Indra's help in the war with Pipru [refs]; having taken Indra with Ṛjiśvan [refs] or with Avanigoṣkara [refs], he defeated Pipru. There are many forts under that one possessed of illusions [māyā]; Indra splits these [refs]. Pipru, a Dāsa, and some others Indra slew and sent the waters out [refs]; when the sun in the middle of the sky stopped his chariot, Āryan saw a suitable *yojana* for Pipru [?]; Indra, together with Ṛjiśvan, destroyed the strong forts of the demon Pipru, who has illusions [refs]. Indra gave the black Pipru, a kind of dark-coloured [?], to Ṛjiśvan; he slew fifty thousand black people, splitting forts [refs]; with Ṛjiśvan, Indra destroyed the black-coloured ones' posterity [refs]. Because he has the two epithets Asura and Dāsa, some are of the opinion that he may also be an enemy among men.
+
+***Namuci*** — in the Ṛgveda this name occurs nine times, and also in the Vājasaneyi Saṃhitā, Taittirīya Brāhmaṇa and Śatapatha Brāhmaṇa. The attribute Asura (one of asura nature) occurs [refs; Śa. Brā. refs] and in other Vedas also he is called Asura. He is called "Dāsa" in three or four passages [refs] and once Māyin [refs]. While contending with Namuci, Indra's companions (the Maruts) are in his favour [refs]; with Namuci's party Śakti? [as read]; like many other Piśācas, Namuci is slain by Indra [refs] or: he is struck and thrown [refs]; having slain Vṛtra and Namuci, Indra destroyed a hundred forts [refs]; he splits Vṛtra's head [refs]; but he also strikes Namuci's head with a foam [refs]; Indra twisted off Namuci's head [refs] or purified [it] with foam [refs]. In the Brāhmaṇas it is said he cut off the head. Indra crushed the middle of Namuci's side; then, by the help of the Aśvins, Sarasvatī healed it [refs].
+
+Pāṇini's rule [refs]: *namuci*, i.e. *na-muci*: "one who does not let go", that is, a Piśāca who holds back the waters, may be said.
+
+***Dhuni and Cumuri*** — in general both names occur together. Once Cumuri alone has come. Once they are used as a pair [refs]; from this it appears the connection between the two is very close. Indra made the two sleep and lie in sleep [refs]; the same happened to Cumuri also [refs].
+
+### Printed p. 552  (PDF 573)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+With Śambara, Pipru, Śuṣṇa and others, Indra destroyed these [refs]; and their hundreds of forts [refs]; for Dabhīti, who has prepared Soma, the two were destroyed by Indra or put to sleep [refs]; and Dabhīti by Devas got a fitting reward for his devotion [refs]; for Dabhīti Indra put to sleep thirty thousand Dasyus, and bound the Dasyus for Avani, [so that] they could not move [refs].
+
+*Dhuni* means "the roaring one" [or the shaker].
+
+***Varcin and others*** — [In company] with Śambara Varcin's mention occurs four times. He too is an Asura [refs]; but Śambara and he are called "Dāsa" [refs]. Indra broke Śambara's forts and destroyed the hundred thousand warriors of Varcin [refs]. Varcin means "one who goes in the water" [?].
+
+Vala, Śuṣṇa, Namuci and others, and some other Piśācas' names also occur; they too were destroyed by Indra. Dṛbhīka, Rudhikrā [refs], Anarśani, Svabindu [refs] and Ilībiśa [refs] belong to this group.
+
+***The Piśācas on earth, or the *bhūtas*, the enemies of men.*** — the common-gender name for them is *rakṣaḥ*. [The word] occurs more than that number of times, in singular and plural; commonly with one deity or other, it occurs in prayer-form to destroy Rākṣasas, or in praise-form "[you] have slain Rākṣasas". Their matter occurs in the Sūktas 7-104 and 10-87 [as read, [?]]; here the words *rakṣas*, *yātu*, *yātudhāna* and so on denote them. *Rakṣaḥ* is a name for all Rākṣasas, Piśācas; it may be understood as the generic name and *yātu* as a subsidiary generic name.
+
+These Piśācas or *bhūtas* have the forms of dog, owl, cuckoo, [*kokila* [?]] and other birds [refs]. As bird forms they fly about in the night-time [refs]. They take the form of a brother, a husband or a lover, approach women and wish to destroy their children [refs]. As dog or monkey they wait on the cross-roads [Atharva Veda refs]; they cause trouble to pregnant women and children. At marriage-time they run round the bride; their eyes, small arrows they put in the sky [Mā. Gṛ. Sū. refs]. In the Atharvaveda itself the forms of these and so on are described. They especially take forms like men; their heads, eyes, heart and the like limbs are mentioned; but there is something strange about each. Three heads, two mouths [text continues on p. 553].
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–4 complete, Ṛk 5 Special Topics written through p. 552 (the Piśāca passage runs on; resume p. 553, PDF 574; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
