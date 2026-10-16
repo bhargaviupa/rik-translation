@@ -13631,4 +13631,56 @@ However the word *sūnṛtā* is derived, the Ṛk describes the morning pressin
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 written through p. 570 (Special Topics of Ṛk 1 continue: Max Müller's note on *sūnṛtā* = Uṣas, then the grammar page; resume p. 571, PDF 592; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 571  (PDF 592)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Special Topics of Ṛk 1, continued from p. 570:)* …"Dawn", Max Müller's idea, which is the gist of his view, is acceptable from one point of view; but the illustration he gives, viii. 45-12, does not suit the present context as appropriately [as one might wish]. According to Sāyaṇa's explanation, the meaning is: "may our praise, which is excellent, which knows your qualities, true and pleasant, be satisfying to your mind"; and according to Max Müller's explanation: "*te manaḥ jānatī sūnṛtā ūrdhvā anutiṣṭhatu* — may Uṣas, knowing your nature, rise up and wait upon you". The reader may adopt whichever of the two meanings suits the context.
+
+***niyutvatā*** — *niyuto vāyoḥ* (Ni. 2-[?], as read "೨-೨೫" [?]): *niyut* is the name of the horses, Vāyu's vehicle. The author of the Nirukta, taking the Ṛk —
+
+> प्र वाव्यज्जे सुप्रया बर्हिरेषामा विश्पतीव बीरिट इयाते ।
+> विशामक्तोरुषसः पूर्वहूतौ वायुः पूषा स्वस्तये नियुत्वान् ॥
+
+> *pra vāvyajje suprayā barhir eṣām ā viśpatīva bīriṭa iyāte |*
+> *viśām aktor uṣasaḥ pūrvahūtau vāyuḥ pūṣā svastaye niyutvān ‖*
+
+(Ṛ. Saṃ. 7-39-3 [as read]; the first words are doubtful in several letters [?].) — shows the following derivation of *niyutvān* there: "*niyuto 'syāśvāḥ | niyuto niyamanād vā niyojanād vā*" — "it has horses called *niyut*; *niyut* from *niyamana* (restraining) or from *niyojana* (yoking)": the name *niyut* is well known as meaning "[horses] restrained or yoked" (Ni. 5-[?], as read "೫-೨೫" [?]). In the same way this meaning is to be taken in the present Ṛk also. *Niyutvatā* is an adjective of Vāyu's chariot, meaning "joined with the horses *niyut*".
+
+Although the epithet *niyutvān* is generally more used of Vāyu, in some places it is also used of Indra and Varuṇa:
+
+> वेत्यध्वर्युः पथिभी रजिष्ठैः प्रति हव्यानि वीतये ।
+> अधा नियुत्स्व उभयस्य नः पिब शुचिं सोमं गवाशिरम् ॥
+
+> *vety adhvaryuḥ pathibhī rajiṣṭhaiḥ prati havyāni vītaye |*
+> *adhā niyutsva ubhayasya naḥ piba śuciṃ somaṃ gavāśiram ‖*
+
+(Ṛ. Saṃ. 8-101-10 [as read, [?]]) — where it is an adjective of Vāyu [sic: "in this Ṛk of Vāyu"], and
+
+> आ वां रथो नियुत्वान्वक्षदवसेऽभि प्रयांसि सुधितानि वीतये वायो हव्यानि वीतये ।
+
+> *ā vāṃ ratho niyutvān vakṣad avase 'bhi prayāṃsi sudhitāni vītaye vāyo havyāni vītaye |*
+
+(Ṛ. Saṃ. 1-135-4 [as read].) In such Ṛks, the horses that draw the chariots belonging to both Indra and Vāyu are so described.
+
+### Printed p. 572  (PDF 593)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly; numbers as printed).** *juvaḥ* — *ju* is a *sautra* root; used in the sense of motion; *kvip*; nominative plural. *rarāhāṇāḥ* — *rahi gatau*; as *liṭ* comes, *liṭaḥ kānaj vā* (Pā. 3-2-106 [as read]) gives *kānac* for it; since the *āgama* is non-eternal in nature, the *num* augment does not occur [?]; or *cita* (Pā. 6-1-163 [as read]) gives the final udātta. *vahantu* — *vaha prāpaṇe*; *loṭ*, third person plural; since it is at the beginning of a pāda, the *nighāta* accent does not occur; as *lasārvadhātuka* is *anudātta*, the accent of the root remains. *pūrvapītaye* — *pūrvā cāsau pītiś ca pūrvapītiḥ*; *puṃvat karmadhārayeti* (Pā. 6-3-42 [as read]) gives *puṃvadbhāva* to the earlier member; *marudvṛdhādīnāṃ chandasy ubhayasaṃkhyānam* (Pā. 6-2-[?]) gives the earlier member the final udātta accent; dative singular. *jānatī* — *jñā avabodhane*; *śatṛ* for *laṭ*; *śnā* as *vikaraṇa*; *jñājanor jā* (Pā. 7-3-79 [as read]) gives *jā* to the root; *śnābhyastayor ātaḥ* (Pā. 6-4-112 [as read]) drops the *ā* of the *vikaraṇa*; in the feminine, *ugitaś ca* (Pā. 4-1-6 [as read]) gives *ṅīp*; since *num* is absent and *ṅīp* follows the *śatṛ*, *śatur anumo nadyajādī* (Pā. 6-1-173 [as read]) gives it the udātta accent. *dāvane* — *ḍudāñ dāne*; as before, the Uṇādi suffix *vani* in the sense of object and in the sense of state; its first vowel udātta; dative singular, by Vedic usage the penultimate elision does not occur. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> मन्दन्तु त्वा मन्दिनो वायविन्दवोऽस्मत्क्राणासः सुकृता अभिद्यवो गोभिः क्राणा अभिद्यवः ।
+> यद्ध क्राणा इरध्यै दक्षं सचन्त ऊतयः ।
+> सध्रीचीना नियुतो दावने धिय उप ब्रुवत ईं धियः ॥ २ ॥
+
+> *mandantu tvā mandino vāyavindavo 'smatkrāṇāsaḥ sukṛtā abhidyavo gobhiḥ krāṇā abhidyavaḥ |*
+> *yaddha krāṇā iradhyai dakṣaṃ sacanta ūtayaḥ |*
+> *sadhrīcīnā niyuto dāvane dhiya upa bruvata īṃ dhiyaḥ ‖ 2 ‖*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete (p. 572); Ṛk 2 begun: Saṃhitā written (p. 572); resume p. 573, PDF 594, with the Pada; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
