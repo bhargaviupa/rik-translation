@@ -1665,4 +1665,153 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 61 (PDF 82): Ṛks 1–13 complete; Ṛk 14 Saṃhitā and Pada given at the foot of p. 61; its bhāṣya starts on p. 62 (PDF 83). Printed page = PDF − 21. No OCR beyond printed p. 36; sūtra numbers on grammar pages pp. 41–61 are omitted (small type); doubtful readings `[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 62  (PDF 83)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हिरण्यकर्णं हिरण्यविकारकुण्डलाद्युपेतकर्णं मणिग्रीवं रत्नाद्युपेतकण्ठम् । एतद्द्वयं सर्वावयवस्याप्युपलक्षणम् । एवं सर्वाङ्गाभरणयुक्तमर्णः अरणीयं रूपं तत्प्रशंसनं पुत्रादिकमित्यर्थः [?] । उक्तलक्षणमस्मदीयं रूपं वा नोऽस्माकं विश्वे सर्वे देवा वरिवस्यन्तु । परिचरन्तु । प्रयच्छन्त्वित्यर्थः । अर्योऽरणीयो विश्लेषां [?] देवानां सङ्घो जग्मुषीः स्तोतुर्मुखान्निर्गच्छन्तीर्गिरः स्तुतीरुस्राः विकारे प्रकृतिशब्दः क्षीराज्यादीनि हवींषि च सद्योऽस्मद्यागमनानन्तरमेव चाकन्तु कामयन्ताम् । छान्दसः शपः श्लुः परस्मैपदं च । यद्वा । यजुर्लुकि नुगभावः । आ चाकन्तिति वा योज्यम् । पर्याप्तं कामयन्तामित्यर्थः । केष्विति तदुच्यते । अस्मे अस्माकं सम्बन्धिषूभयेषु स्तोत्रेषु यष्टृषु च । यद्वा । अस्माकमुभयेष्वैहिकामुष्मिकेषु फलेषु ॥
+
+> *hiraṇyakarṇaṃ hiraṇyavikārakuṇḍalādyupetakarṇaṃ maṇigrīvaṃ ratnādyupetakaṇṭham | etaddvayaṃ sarvāvayavasyāpyupalakṣaṇam | evaṃ sarvāṅgābharaṇayuktamarṇaḥ araṇīyaṃ rūpaṃ tatpraśaṃsanaṃ putrādikamityarthaḥ [?] | uktalakṣaṇamasmadīyaṃ rūpaṃ vā no 'smākaṃ viśve sarve devā varivasyantu | paricarantu | prayacchantvityarthaḥ | aryo 'raṇīyo viśleṣāṃ [?] devānāṃ saṅgho jagmuṣīḥ stoturmukhānnirgacchantīrgiraḥ stutīrusrāḥ vikāre prakṛtiśabdaḥ kṣīrājyādīni havīṃṣi ca sadyo 'smadyāgamanānantarameva cākantu kāmayantām | chāndasaḥ śapaḥ śluḥ parasmaipadaṃ ca | yadvā | yajurluki nugabhāvaḥ | ā cākantiti vā yojyam | paryāptaṃ kāmayantāmityarthaḥ | keṣviti taducyate | asme asmākaṃ sambandhiṣūbhayeṣu stotreṣu yaṣṭṛṣu ca | yadvā | asmākamubhayeṣvaihikāmuṣmikeṣu phaleṣu ‖*
+
+*(150 dpi; a few words doubtful.)* "*Hiraṇyakarṇam*: one whose ear has golden earrings and the like; *maṇigrīvam*: one whose neck has jewels and the like. These two stand for all the limbs; thus *arṇaḥ* — a form (*araṇīyam rūpam*) adorned with ornaments on all limbs, [that is] children and the like who are to be praised. Or [that] form of ours of the kind described: may all the gods (*viśve devāḥ*) *varivasyantu* — wait upon [us], bestow [it]. *Aryaḥ* — the company of all the deities, worthy to be approached; *jagmuṣīḥ* — the praises coming out of the praiser's mouth; *usrāḥ* — milk, ghee and other oblations (the word for the original [cow] is used for the product): may they at once — immediately after our sacrifice — desire (*cākantu*), 'wish': *śap* with *śluḥ* and *parasmaipada* in the Vedic way; or else the *num* is absent when the *luk* of *yaj*; or *ā cākantu* may be joined: 'let them wish sufficiently'. In what? *Asme*, in our — both the praises and the sacrificers; or, in both our results in this world and the next."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Hiraṇyakarṇam* — one who has golden earrings; *maṇigrīvam* — one who has a jewelled necklace; *arṇaḥ* — one of pleasing form; *tat* — sons and the like; *naḥ* — to us; *viśve devāḥ* — Viśvedevas; *varivasyantu* — may they favour; *aryaḥ* — the company (of the Viśvedevas) worthy of praise; *ā jagmuṣīḥ* — coming from the mouth of the praiser; *giraḥ* — the praising words; *usrāḥ* — the oblations of milk and the like; *asme* — of us (to us); *ubhayeṣu* — in the two kinds of results (the benefits of this world and the next); *sadyaḥ* — at once; *ā cākantu* — may they greatly desire (may they favour strongly).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** May the Viśvedevas favour us with sons and the like, adorned with earrings and jewelled necklaces; may that venerable company [of the gods] accept the praises that issue from the mouth of the praiser, and the oblations given by the sacrificer. May they strongly desire (*apekṣa*, accept) both the results — of this world and of the next — of us who are theirs.
+
+**Printed English (as printed):** *May all the gods favour us with a person decorated with golden earrings and jewel necklace: may the venerable (company of the deities) be propitiated by the praises issuing (from the mouth of the worshipper): may our offerings be acceptable to them, and (may they be pleased) with both (our praises and offerings).*
+
+### Printed p. 63  (PDF 84)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 14.**
+
+***hiraṇyakarṇam, maṇigrīvam*** — the prayer is that the deities should bless us with children and others who wear golden ornaments such as earrings in the ears and jewelled necklaces and other ornaments on the neck. Or the prayer is: "Be gracious so that we ourselves may wear earrings and the like and jewelled necklaces on the neck."
+
+***arṇaḥ*** — though the word *arṇa* is recorded among the hundred names of water (Ni. 1-1[?]-[?], as read), here the bhāṣyakāra explains *araṇīyaṃ rūpaṃ* — "a son of pleasing form".
+
+***aryaḥ*** — the word *arya* has the meaning of master, lord; here the bhāṣyakāra says "the group of the Viśvedevas".
+
+***gira ā jagmuṣīḥ*** — the praising words coming forth from our mouth.
+
+***usrāḥ*** — *usriyeti gonāma | usrāviśvo 'syāṃ bhogāḥ usreti ca* (Ni. 4-1[?], as read) — "*usriyā* is a name of the cow; *usrā* …". Though the word *usrāḥ* means "cows that give milk", as the bhāṣyakāra says, *vikāre prakṛtiśabdaḥ* — "the name of the original is used for the product": *kṣīrājyādīni haviṃṣi ca* — milk, ghee and the like; by usage the word *usrāḥ* is employed for things made from cows, namely milk, ghee and the like. In some places *usrāḥ* also means "rays" (Ṛ. Saṃ. 1-1?[?]-3 and so on).
+
+***ubhayeṣu*** — two kinds of people, those who praise and those who sacrifice; or, in another sense, this world and the other world.
+
+***asme*** — this word is used in the sense of all seven cases. For example:
+
+(1) *asme te bandhuḥ | vayam ity arthaḥ* — "*asme ity etat padaṃ sarvavibhaktyantam | tasmād ekārtham | ekam eva hy etac chabdarūpaṃ saptasv api vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati | tadyathā — prathamāyās tvat — asme te bandhuḥ | vayam ity arthaḥ*" — that is, the word *asme* is used in the sense of the seven cases according to the context; according to the context in each place, any of the seven cases may be given to this word. For example, in the sentence *asme te bandhuḥ* the word *asme* has the sense *vayam*, "we"; this is an example of the meaning of the first case —
+
+### Printed p. 64  (PDF 85)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* *(The reference numerals on pp. 64–65 are in small type and were read at 150 dpi only; they are marked `[?]`, and no OCR exists for these pages.)*
+
+(2) *asme yātaṃ nāsatyā sajoṣāḥ | asmān ity arthaḥ ‖* — **dvitīyāyās tāvat** — "for the second case: the word *asme* has the sense *asmān*, 'us'". As an example of this sense they have given the ṛk:
+
+> आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः ।
+> हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥
+
+> *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*
+> *have hi vāmaśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ‖*
+
+(Ṛ. Saṃ. 1-118-[?]-[?], as read.) The word *asme* in this ṛk means *asmān* — "us".
+
+(3) *asme samānebhir vṛṣabha pauṃsyebhiḥ | asmābhir ity arthaḥ ‖* — **tṛtīyāyās tāvat** — "here *asme* means *asmābhiḥ*, 'by us' — the sense of the third case". In this matter:
+
+> भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः ।
+> भूरीणि हि कृणवामा शविष्ठेन्द्र क्रत्वा मरुतो यद्वशाम ॥
+
+> *bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ |*
+> *bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yadvaśāma ‖*
+
+(Ṛ. Saṃ. 1-1[?]-[?], as read.) They have given this ṛk as an example. Here *asme* means *asmābhiḥ*, "by us".
+
+(4) *asme prayandhi maghavann ṛjīṣin | asmabhyam ity arthaḥ ‖* — **caturthyās tāvat** — "here *asme* means *asmabhyam*, 'for us' — the sense of the fourth case". An example:
+
+> अस्मे प्र यन्धि मघवन्नृजीषिन्निन्द्र रायो विश्ववारस्य भूरेः ।
+> अस्मे शतं शरदो जीवसे धा अस्मे वीरान् [?] शश्वत इन्द्र शिप्रिन् ॥
+
+> *asme pra yandhi maghavannṛjīṣinnindra rāyo viśvavārasya bhūreḥ |*
+> *asme śataṃ śarado jīvase dhā asme vīrān [?] śaśvata indra śiprin ‖*
+
+(Ṛ. Saṃ. 2-1[?]-[?], as read.) For the word *asme* in this ṛk the sense is the fourth case, *asmabhyam*, "for us".
+
+(5) *asme arāc cid dveṣaḥ sanutar yuyotu | asmad ity arthaḥ ‖* — **pañcamyās tāvat** — "here *asme* means *asmat*, 'from us'". An example:
+
+> तस्य वयं सुमतौ यज्ञियस्यापि भद्रे सौमनसे स्याम ।
+> स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥
+
+> *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |*
+> *sa sutrāmā svavā~ indro asme ārācciddveṣaḥ sanutaryuyotu ‖*
+
+(Ṛ. Saṃ. 6-4[?]-[?], as read.) For the word *asme* in this ṛk the sense is the fifth case, *asmat*, "from us".
+
+### Printed p. 65  (PDF 86)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)*
+
+(6) *ūrva iva papratthe kāmo asme | asmākam ity arthaḥ* — **ṣaṣṭhyās tāvat** — "here *asme* means *asmākam*, 'ours', 'to us'". To explain this:
+
+> आ नो भर भगमिन्द्र द्युमन्तं नि ते देष्णस्य धीमहि प्ररेके ।
+> ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
+
+> *ā no bhara bhagamindra dyumantaṃ ni te deṣṇasya dhīmahi prareke |*
+> *ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnām ‖*
+
+(Ṛ. Saṃ. 3-3[?]-[?], as read.) Citing this ṛk — for the word *asme* in it the sense is *asmākam*, "ours" — the sixth case.
+
+(7) *asme dhatta vasavo vasūni | asmāsv ity arthaḥ ‖* — **saptamyās tāvat** — "here *asme* means 'in us'". An example:
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥
+
+> *agne vājasya gomata īśānaḥ sahaso yaho |*
+> *asme dhehi jātavedo mahi śravaḥ ‖*
+
+(Ṛ. Saṃ. 1-7[?]-[?], as read.) For the word *asme* in this ṛk the sense is the seventh case, *asmāsu*, "in us".
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 14, noted briefly; sūtra numbers not reproduced).** *Hiraṇyakarṇam* — *hiraṇyaṃ karṇau yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member; accusative singular. *Arṇaḥ* — the root *ṛ gatau*; *arti iti arṇaḥ*; *udake nuṭ ca* (Uṇ. Sū. 4-5[?]-[?], as read) the suffix *asun* and the augment *nuṭ*; guṇa of the root and *ra*; *ñnityādir nityam* — the initial acute. *Varivasyantu* — *varivas* is a nominal stem; when the sense "to do this" is intended, *namovarivaścitrāṅaḥ kyac* the suffix *kyac*; *sanādyantā dhātavaḥ* — it takes the name of a root; *loṭ*, 3rd plural, *jhi*, the substitute *ut*, *ant*; after an *atiṅanta* the *nighāta*. *Aryaḥ* — the root *ṛ gatau*; *āryaḥ svāmivaiśyayoḥ* — the suffix *yat* by irregular formation; *āryasya svāmyākhyā ceti* (Phiṭ. Sū. 1[?]) the final acute.
+
+### Printed p. 66  (PDF 87)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 14, noted briefly; sūtra numbers not reproduced).** *Jagmuṣīḥ* — the root *gamḷ gatau*; when *liṭ* comes, *kvasuś ca* the suffix *kvasu*; with it as the cause, guṇa of the root [as printed, in part]; reduplication; the first consonant remains; *kuhoś cuḥ* the *j* for *g*; *gamahanajana…* the loss of the root's penultimate; since it is *ugit*, when the feminine is intended, *ugitaś ca* the suffix *ṅīp*; since it has the name *bha*, *vasoḥ saṃprasāraṇam* — *saṃprasāraṇa* of the *v*; *pūrvarūpa*; *śāsivasighasīnāṃ ca* — *ṣatva* of the *s* of *vasu*; the *u* of *vasu* takes the acute by the suffix accent; accusative plural. *Cākantu* — the root *kamu kāntau*; *kānti* means wish; *vyatyayo bahulam* — in *loṭ*, 3rd singular, *tu* is the *parasmaipada* suffix and *śap* gets *śluḥ*; *ślau* the reduplication of the root; *tujādīnāṃ dīrgho 'bhyāsasya* the lengthening of the reduplicative syllable; after an *atiṅanta* the *nighāta*. Or: *dhātor ekācaḥ…*, *yaṅ* comes and *yajoc… ci ca* the *luk*; in the Vedic way *nugator anunāsikād…* — the *nuk* augment does not come in the reduplicative syllable; *dīrgha iṇkitaḥ* — the lengthening of the reduplicative syllable. *Asme* — the word *asmad*; when the genitive (locative) ending follows, *supāṃ sulug…* the substitute *śe*; *śeṣe lopaḥ* — the loss of the portion after *m*; the ending takes the acute. ‖ 14 ‖
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> चत्वारो मा मशर्शारस्य शिश्वस्त्रयो राज्ञ आयवसस्य जिष्णोः ।
+> रथो वां मित्रावरुणा दीर्घाप्साः स्यूमगभस्तिः सूरो न द्यौत् ॥ १५ ॥
+
+> *catvāro mā maśarśārasya śiśvastrayo rājña āyavasasya jiṣṇoḥ |*
+> *ratho vāṃ mitrāvaruṇā dīrghāpsāḥ syūmagabhastiḥ sūro na dyaut ‖ 15 ‖*
+
+### Printed p. 67  (PDF 88)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3 [end of the third Varga].")*
+
+**॥ पदपाठः ॥**
+
+> चत्वारः । मा । मशर्शारस्य । शिश्वः । त्रयः । राज्ञः । आयवसस्य । जिष्णोः ।
+> रथः । वाम् । मित्रावरुणा । दीर्घऽअप्साः । स्यूमऽगभस्तिः । सूरः । न । द्यौत् ॥ १५ ॥
+
+> *catvāraḥ | mā | maśarśārasya | śiśvaḥ | trayaḥ | rājñaḥ | āyavasasya | jiṣṇoḥ |*
+> *rathaḥ | vām | mitrāvaruṇā | dīrgha 'apsāḥ | syūma 'gabhastiḥ | sūraḥ | na | dyaut ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> मा मां कक्षीवन्तं मशर्शारस्य । मशकीकृत्य भृशं शृणोति शारयति वामित्रानिति मशर्शारः । एतन्नामकस्य राज्ञः शिश्वः शिशवः शिशुवदप्रबुद्धाश्चत्वारः पुत्रा बाधन्त इति शेषः ॥ शिशुशब्दस्य जसादिषु छन्दसि वावचनमिति गुणाभावः ॥ तथायवसस्य सर्वतः प्राप्तान्नस्यैतन्नाम्नो राज्ञो जिष्णोर्जयशीलस्य पुत्रास्त्रयस्त्रयोऽपि बाधन्त इति शेषः । हे मित्रावरुणैतन्नामानौ देवौ वां युवयोः सम्बन्धी रथो दीर्घाप्साः अतिविस्तृतरूपः स्यूमगभस्तिः स्यूमिति सुखनाम सुखकरदीप्तिः सन् सूरो न सूर्य इवाद्यौत् । द्योतताम् । उक्तानामस्मद्विरोधिनां पुरतः स्फुरन् भयजनको भवत्वित्यर्थः ॥ द्युतेश्छन्दसि लुङ्लङ्लिट इति लुङ् । द्युद्भ्यो लुङि [?] इति परस्मैपदम् । सिचि वृद्धिः परस्मैपदेषु इति वृद्धिः । बहुलं छन्दसीत्यडभावे हल्ङ्यादिसंयोगान्तलोपौ । यद्वा । द्य अभिगमने आदादिकः । छान्दसे लुङ्यतो वृद्धिर्लुकि हलि इति वृद्धिः ॥
+
+> *mā māṃ kakṣīvantaṃ maśarśārasya | maśakīkṛtya bhṛśaṃ śṛṇoti śārayati vāmitrāniti maśarśāraḥ | etannāmakasya rājñaḥ śiśvaḥ śiśavaḥ śiśuvadaprabuddhāścatvāraḥ putrā bādhanta iti śeṣaḥ ‖ śiśuśabdasya jasādiṣu chandasi vāvacanamiti guṇābhāvaḥ ‖ tathāyavasasya sarvataḥ prāptānnasyaitannāmno rājño jiṣṇorjayaśīlasya putrāstrayastrayo 'pi bādhanta iti śeṣaḥ | he mitrāvaruṇaitannāmānau devau vāṃ yuvayoḥ sambandhī ratho dīrghāpsāḥ ativistṛtarūpaḥ syūmagabhastiḥ syūmiti sukhanāma sukhakaradīptiḥ san sūro na sūrya ivādyaut | dyotatām | uktānāmasmadvirodhināṃ purataḥ sphuran bhayajanako bhavatvityarthaḥ ‖ dyuteśchandasi luṅlaṅliṭa iti luṅ | dyudbhyo luṅi [?] iti parasmaipadam | sici vṛddhiḥ parasmaipadeṣu iti vṛddhiḥ | bahulaṃ chandasītyaḍabhāve halṅyādisaṃyogāntalopau | yadvā | dya abhigamane ādādikaḥ | chāndase luṅyato vṛddhirluki hali iti vṛddhiḥ ‖*
+
+*(Small type; the grammar tail with its sūtra references is given as read, partly abbreviated in the print.)* "*Mā*: me, Kakṣīvān. *Maśarśāra*: 'he who makes [enemies] into gnats and greatly crushes (*śṛṇoti*, *śārayati*) the foes' — the *śiśvaḥ*, the four children (sons) of the king of this name, immature as babes, trouble [me] — this must be supplied. In the word *śiśu* the lack of guṇa in *jas* etc. is by *chandasi vā vacanam*. Likewise the three sons of the king *āyavasa* — of this name, who has obtained food on all sides — the *jiṣṇu*, 'the victorious' — trouble [me] — this is to be supplied. O Mitra and Varuṇa, deities of these names: your chariot, *dīrghāpsāḥ* ('of very wide form'), *syūmagabhastiḥ* — *syūma* is a name for 'comfort'; being of a comfort-giving radiance, may it shine (*adyaut*) like the Sun. May it shine; that is, may it be dreadful as it flashes before the enemies spoken of, our opponents. The root *dyut*, by *chandasi luṅlaṅliṭaḥ* a *luṅ*; the *parasmaipada* by *dyudbhyo luṅi*; *vṛddhi* in *sic* before a *parasmaipada* suffix; *bahulaṃ chandasi* gives the absence of *aṭ*, and *halṅyābbhyo…* the loss of the final *s* and the conjunct final. Or else: *dya abhigamane* of the *ādādika* class; in the Vedic *luṅ*, *ato vṛddhir luki hali* — *vṛddhi*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Mā* — me (Kakṣīvān); *maśarśārasya* — of the king named Maśarśāra; *śiśvaḥ* — the immature; *catvāraḥ* — four (sons); and *āyavasasya* — of the one named Āyavasa (who has obtained food); *jiṣṇoḥ* — of the victorious; *rājñaḥ* — of the king; *trayaḥ* — three (sons); (*bādhante* — trouble); *he mitrāvaruṇā* — O Mitra and Varuṇa; *vām* — your; *rathaḥ* — chariot; *dīrghāpsāḥ* — of very wide form; *syūmagabhastiḥ* — of comforting light; *sūro na* — like the Sun; *adyaut* — may it shine (to be fearful to them).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Mitra and Varuṇa, the four immature sons of the king named Maśarśāra and the three sons of the king named Āyavasa trouble me, Kakṣīvān; may your chariot, of vast form and comforting light, shine like the Sun (to be terrifying to them).
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 67 (PDF 88): Ṛk 14 complete (with the seven-case *asme* discussion); Ṛk 15 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha done; its printed English begins on p. 68 (PDF 89). Printed page = PDF − 21. No OCR beyond printed p. 36; Ṛk references on pp. 64–65 and sūtra numbers on grammar pages are partly omitted/`[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
