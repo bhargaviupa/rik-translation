@@ -8144,4 +8144,62 @@ Here ends the 127th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 127 complete (printed pp. 249–321). Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) begun: heading and Sanskrit/Kannada introduction at the foot of p. 321 done; resume at head of p. 322 (PDF 343) with the remaining introduction (if any) and Ṛk 1. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–321.
+### Printed p. 322  (PDF 343)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128" [as printed "೧೨೮"].)*
+
+**ಸೂಕ್ತ—೧೨೮ — Sūkta 128.** *Maṇḍala 1 ‖ Anuvāka 19 ‖ Sūkta 128 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Varga 14, 15 ‖ Number of ṛks in the Sūkta: 8 ‖ Ṛṣi: Paruccheṣa Daivodāsi ‖ Devatā: Agni ‖ Chandas: Atyaṣṭi.* *(The varga numerals "೧೪, ೧೫" as printed; the change of varga occurs within the Sūkta.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अयं जायत मनुषो धरीमणि होता यजिष्ठ उशिजामनु व्रतम् ।
+> अग्निः स्वमनु व्रतम् ।
+> विश्वश्रुष्टिः सखीयते रयिरिव श्रवस्यते ।
+> अदब्धो होता नि षददिळस्पदे परिवीत इळस्पदे ॥ १ ॥
+
+> *ayaṃ jāyata manuṣo dharīmaṇi hotā yajiṣṭha uśijāmanu vratam |*
+> *agniḥ svamanu vratam |*
+> *viśvaśruṣṭiḥ sakhīyate rayiriva śravasyate |*
+> *adabdho hotā ni ṣadadiḷaspade parivīta iḷaspade ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> अयम् । जायत । मनुषः । धरीमणि । होता । यजिष्ठः । उशिजाम् । अनु । व्रतम् ।
+> अग्निः । स्वम् । अनु । व्रतम् ।
+> विश्वऽश्रुष्टिः । सखिऽयते । रयिःऽइव । श्रवस्यते ।
+> अदब्धः । होता । नि । सदत् । इळः । पदे । परिऽवीतः । इळः । पदे ॥ १ ॥
+
+> *ayam | jāyata | manuṣaḥ | dharīmaṇi | hotā | yajiṣṭhaḥ | uśijām | anu | vratam |*
+> *agniḥ | svam | anu | vratam |*
+> *viśva 'śruṣṭiḥ | sakhi 'yate | rayiḥ 'iva | śravasyate |*
+> *adabdhaḥ | hotā | ni | sadat | iḷaḥ | pade | pari 'vītaḥ | iḷaḥ | pade ‖ 1 ‖*
+
+*(Read from the image: Saṃhitā "ayaṃ jāyata", Pada "ayam | jāyata", the verb *jāyata* a Vedic middle form; *sakhi-yate*, *rayiḥ-iva*; *śruṣṭi* printed with *ṣ*.)*
+
+### Printed p. 322 (continued, bhāṣya)
+
+**॥ सायणभाष्यम् ॥**
+
+> अयमग्निर्मनुषो मनुष्यस्याध्वर्योः सकाशाज्जायत । अरणिमन्थनेनोत्पन्नः । कीदृशोऽयं । होता देवानामाह्वाता यजिष्ठोऽतिशयेन यष्टृतमः । किमर्थमुत्पन्न इति । उशिजां फलस्य कामयितॄणां यजमानानां व्रतं सोमयागादिरूपं कर्मानु लक्षीकृत्य । न केवलं परार्थमेव अपि तु स्वमर्थः । 
+
+> *ayamagnirmanuṣo manuṣyasyādhvaryoḥ sakāśājjāyata | araṇimanthanenotpannaḥ | kīdṛśo 'yaṃ | hotā devānāmāhvātā yajiṣṭho 'tiśayena yaṣṭṛtamaḥ | kimarthamutpanna iti | uśijāṃ phalasya kāmayitṝṇāṃ yajamānānāṃ vrataṃ somayāgādirūpaṃ karmānu lakṣīkṛtya | na kevalaṃ parārthameva api tu svamarthaḥ |*
+
+### Printed p. 323  (PDF 344)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+> स्वं व्रतमनु स्वकीयं हविःस्वीकारादिरूपं कर्मानुलक्षीकृत्य । पुनः स एव विशेष्यते । विश्वश्रुष्टिर्विश्वविषयकर्मवान् । कस्मै । सखीयते सखित्वमात्मन इच्छते । तथा श्रवस्यते प्रसिद्धमन्नमात्मन इच्छते यजमानाय रयिरिव धनस्थानीयो भवति । धनं यथा सख्यमन्नसमृद्धिं च साधयति तद्वदयमग्निरपि तस्मै द्वयं साधयतीत्यर्थः । किंचायमग्निरिळस्पदे इडाया भूम्याः पदे । अन्त्यलोपश्छान्दसः ॥ धरीमणि सारभूते स्थाने वेदिरूपे । वेदिमाहुः परमन्तं पृथिव्याः । तै. सं. ७-४-१८-२ [?] इति श्रुतेः । एतावती वै पृथिवी यावती वेदिरिति च । पुनस्तदेव विशेष्यते । इळस्पदे इडादेवताया मनोः पुत्र्या गोरूपाया इडोपह्वानमन्त्रप्रतिपादितायाः पदे पादन्यासप्रदेशे । इडा वै मानवी यज्ञानुकाशिन्यासीत् । तै. ब्रा. १-१-४-४ [?] । इडायाः पदे घृतवति स्वाहा । तै. सं. १-२-५-१ [?] । इति च श्रुतेः । नि षदत् निषीदति । कीदृशोऽयमग्निः । अदब्धः केनाप्यहिंसितः होता होमनिष्पादकः परिवीतः ऋत्विग्भिः परिधिभिर्वा परितो वेष्टितः । एवंभूतः सन् नि षदत् ॥
+
+> *svaṃ vratamanu svakīyaṃ haviḥsvīkārādirūpaṃ karmānulakṣīkṛtya | punaḥ sa eva viśeṣyate | viśvaśruṣṭirviśvaviṣayakarmavān | kasmai | sakhīyate sakhitvamātmana icchate | tathā śravasyate prasiddhamannamātmana icchate yajamānāya rayiriva dhanasthānīyo bhavati | dhanaṃ yathā sakhyamannasamṛddhiṃ ca sādhayati tadvadayamagnirapi tasmai dvayaṃ sādhayatītyarthaḥ | kiṃcāyamagniriḷaspade iḍāyā bhūmyāḥ pade | antyalopaśchāndasaḥ ‖ dharīmaṇi sārabhūte sthāne vedirūpe | vedimāhuḥ paramantaṃ pṛthivyāḥ | tai. saṃ. 7-4-18-2 [?] iti śruteḥ | etāvatī vai pṛthivī yāvatī vediriti ca | punastadeva viśeṣyate | iḷaspade iḍādevatāyā manoḥ putryā gorūpāyā iḍopahvānamantrapratipāditāyāḥ pade pādanyāsapradeśe | iḍā vai mānavī yajñānukāśinyāsīt | tai. brā. 1-1-4-4 [?] | iḍāyāḥ pade ghṛtavati svāhā | tai. saṃ. 1-2-5-1 [?] | iti ca śruteḥ | ni ṣadat niṣīdati | kīdṛśo 'yamagniḥ | adabdhaḥ kenāpyahiṃsitaḥ hotā homaniṣpādakaḥ parivītaḥ ṛtvigbhiḥ paridhibhirvā parito veṣṭitaḥ | evaṃbhūtaḥ san ni ṣadat ‖*
+
+*(Read from the image; the references (Taittirīya Saṃhitā "७-४-१८-२", "१-२-५-१"; Taittirīya Brāhmaṇa "१-१-४-४") are small and doubtful [?]; the OCR gives the same. A few small-type letters ("*vedim āhuḥ paramantaṃ pṛthivyāḥ*") are as read.)* Sense: this Agni is born from the *adhvaryu*, a man — churned from the *araṇis*; he is *hotṛ* (invoker of the gods), *yajiṣṭha* (the best sacrificer); born for the sake of the rites of the sacrificers who desire fruit — the Soma sacrifice and the like — and also for his own rite, accepting the oblation. *viśvaśruṣṭiḥ* — doing work concerning all things; to one who wishes friendship with him or who wishes famous food, he is like wealth — as wealth brings friendship and abundance of food, so does Agni; he sits on the *ilaspada* — "the footmark of Iḍā" — the earth's essential place, the altar; the Śruti says "they call the altar the farthest end of the earth" and "as large as the earth, so large the altar"; and Iḍā, the daughter of Manu in the form of a cow, followed the sacrifice ("*iḍā vai mānavī yajñānukāśinyāsīt*") and the formula "*iḍāyāḥ pade ghṛtavati svāhā*" [as read]; unharmed (*adabdhaḥ*), the *hotṛ*, "surrounded" (*parivīta*) by the priests or by the *paridhi*-sticks, he sits.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *hotā* — invoker of the gods; *yajiṣṭhaḥ* — most worthy of worship among the sacrifices; *ayam agniḥ* — this Agni; *uśijām* — of the sacrificers who desire fruit; *vrataṃ anu* — with reference to the Soma sacrifices and the like; *svaṃ vrataṃ anu* — following his own rite (the acceptance of the oblation); *manuṣaḥ* — from a man (the Adhvaryu), churned in the *araṇi*; *jāyata* — was born; *sakhīyate* — for him who desires his friendship; *viśvaśruṣṭiḥ* — the doer of all kinds of rites; *śravasyate* — for him who desires food; *rayiḥ iva* — like wealth (the means of food); further this Agni — *iḷaspade* — on the footmark of Iḷā, daughter of Manu in the form of a cow, on the earth; *dharīmaṇi* — on the essential altar-ground; *adabdhaḥ* — unobstructed; *hotā* — accomplisher of the oblations; *parivītaḥ* — surrounded by the *hotṛ*-priests and others or enclosed by the *paridhis*; *ni sadat* — sits down.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, who calls the gods to the place of sacrifice, who is most worthy of worship in the sacrifices, who grants all that is needed to those who desire his friendship, and who grants wealth — the source of food — to those who seek food: he is born, churned in the *araṇi* by the man, the Adhvaryu, both for the sake of the sacrificers who desire fruit and for his own oblation-accepting purpose; and having been born he sits, unobstructed, the performer of the oblation, surrounded by the priests, on the altar-ground — the most sacred place on earth, the footmark of Iḷā, daughter of Manu in the form of a cow.
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 323 (PDF 344): Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done; resume p. 324 (PDF 345) with the Ṛk 1 printed English ("This Agni, the invoker of the gods…"), Special Topics, grammar, then Ṛk 2. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–323.
