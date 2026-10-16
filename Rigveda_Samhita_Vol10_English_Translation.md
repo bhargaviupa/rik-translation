@@ -15067,4 +15067,46 @@ The author of the Nirukta, giving other meanings of this word, also states *tamo
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 627 (Special Topics: *andhasaḥ*, *prayāṃsi*, *candreṇa* done; *rādhasā*, grammar follow); resume p. 628 (PDF 649); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 628  (PDF 649)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Special Topics of Ṛk 4, continued:)* In the Ṛk under discussion, since both the words *hiraṇya* and *candra* are used as synonyms, whatever use the world gets from the moon, the same use is obtained from gold. Gold also delights, through its lustre, as the moon does; it always brings joy to the human mind; it is also a giver of long life, in that it is a source of prosperity for sacrificing men; for the sacrifice, and for the gods, it is also a help. *Candra* is a synonym fitting for gold.
+
+***rādhasā*** — this word is repeated. The first time it is explained as *gavādirūpeṇa dhanena* ("with wealth in the form of cows and so on"); the second time, *ratnena dhanena* ("with the wealth of jewels"). *Rādha* is among the names of wealth (Ni. 2-[?], as read "೨-೧೦" [?]), in the form *rādhnuvanti*: because by it people accomplish their objects, or because with the help of others they settle matters and agree with each other, wealth has the name *rādhaḥ* well known.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as printed).** *vakṣat* — root *vaha prāpaṇe*; *leṭ*, third person singular, *tip*; *iṭo 'ṭ* (Pā. 3-4-106 [as read]) drops the *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94 [as read]) gives the *aṭ* augment; *sibbahulaṃ leṭi* (Pā. 3-1-34 [as read]) gives *sip*; *hoḍhaḥ* gives *ḍha* for *ha*; *ṣaḍhoḥ kaḥ si* (Pā. 8-2-41 [as read]) gives *ka* to it, and because of it the *s* becomes *ṣa*; as it follows a *tiṅanta* [?], *nighāta*. *sudhitāni* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive; since *kta* is the *para* [?], *hi* for the root in the sense of *dhā*; by *vyatyaya*, *dha* becomes *dhi* [as read]; *gatir anantaraḥ* gives the *gati* its own accent. *vītaye* — explained in a former mantra. *pibatam* — root *pā pāne*; *loṭ* second person dual; *tam* [as the ending] because of *luk* [?]; *śap* *para*; *pāghrādhmā…* (Pā. 7-3-78 [as read]) gives *piba* for the root; as it is at the beginning of a pāda, the *nighāta* accent does not occur; as the *lasārvadhātuka* [is *anudātta* because of *ādyupadeśa*, *tāsyanudāttenṅidvidupadeśāt*…], the accent of the root remains. *madhvaḥ* — *jasādiṣu chandasi vāvacanam*: the genitive singular; since it is *para*, *guṇa* and the like are optional, therefore *yaṇ*; the genitive is in the sense of the object. *pūrvapeyam* — root *pā pāne*; *aco yat* (Pā. 3-1-97 [as read]) gives *yat*; *īdyati* (Pā. 6-4-65 [as read]) gives *ī* to the root before *yat* [?]; because the suffix is *yat*, there is *guṇa*; *yato nāvaḥ* (Pā. 6-1-213 [as read]) gives the ādyudātta.
+
+### Printed p. 629  (PDF 650)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+*(Grammar, concluded.)* *…* — *gatikārakopapadāt kṛt* (Pā. 6-2-139 [as read]) gives the *kṛt*-final the accent of the earlier member [sic: *kṛduttarapadaprakṛtisvara*]. *rādhasā* — root *rādha saṃsiddhau*; Uṇ. suffix *asun*; since *nit*, the ādyudātta; instrumental singular. *gatam* — root *gam̐lṛ gatau*; *loṭ*, second person dual, *tam*; *bahulaṃ chandasi* gives *luk* of *śap*; *anudāttopadeśa…* (Pā. 6-4-37 [as read]) drops the *m* of the root; as it follows a *tiṅanta*, *nighāta*. Or, by Vedic usage *luṅ* in the sense of the second person dual, *cli* — since it is *para*, *mantre ghasa…* (Pā. 2-4-80 [as read]) gives *luk* to it; by Vedic usage the *āgama* does not occur; *nighāta* as before. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आ वां धियो ववृत्युरध्वराँ उपेममिन्दुं मर्मृजन्त वाजिनमाशुमत्यं न वाजिनम् ।
+> तेषां पिबतमस्मयू आ नो गन्तमिहोत्या ।
+> इन्द्रवायू सुतानामद्रिभिर्युवं मदाय वाजदा युवम् ॥ ५ ॥
+
+> *ā vāṃ dhiyo vavṛtyuradhvarā~ upemaminduṃ marmṛjanta vājinamāśumatyaṃ na vājinam |*
+> *teṣāṃ pibatamasmayū ā no gantamihotyā |*
+> *indravāyū sutānāmadribhiryuvaṃ madāya vājadā yuvam ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । वाम् । धियः । ववृत्युः । अध्वरान् । उप । इमम् । इन्दुम् । मर्मृजन्त । वाजिनम् । आशुम् । अत्यम् । न । वाजिनम् ।
+> तेषाम् । पिबतम् । अस्मयू इत्यस्मऽयू । आ । नः । गन्तम् । इह । ऊत्या ।
+> इन्द्रवायू इति । सुतानाम् । अद्रिऽभिः । युवम् । मदाय । वाजऽदा । युवम् ॥ ५ ॥
+
+> *ā | vām | dhiyaḥ | vavṛtyuḥ | adhvarān | upa | imam | indum | marmṛjanta | vājinam | āśum | atyam | na | vājinam |*
+> *teṣām | pibatam | asmayū ityasma 'yū | ā | naḥ | gantam | iha | ūtyā |*
+> *indravāyū iti | sutānām | adri 'bhiḥ | yuvam | madāya | vāja 'dā | yuvam ‖ 5 ‖*
+
+*(Saṃhitā and Pada read from the image.)*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 begun: Saṃhitā and Pada written (p. 629); resume p. 630 (PDF 651) with the bhāṣya; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
