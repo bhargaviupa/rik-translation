@@ -2306,4 +2306,133 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 123 through printed p. 85 (PDF 106): Ṛks 1–2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; its Special Topics are in progress on p. 85 (*damūnāḥ* — continues on p. 86, PDF 107 with "…ಎಂದು ಅಭಿಮಾನವುಳ್ಳವನು"). Printed page = PDF − 21. The reader's OCR (Google Docs) now covers printed pp. 39–119; Ṛk/Nirukta numerals can be checked against it. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 86  (PDF 107)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* *(Special topics of Ṛk 3, concluded.)* …[*damūnāḥ*] — having explained four kinds of meaning, he applies the epithet *damūnāḥ gṛhapatir agniḥ* ("the household lord Agni, *damūnāḥ*") to Agni. Here the epithet *damūnāḥ devaḥ savitā*, in the phrase "the god Savitṛ", is applied to Savitṛ; this indicates the identity of Agni (or the Sun) with Savitṛ; or it suggests that, like Agni, the god Savitṛ too has a greatness of the kind that makes him a *damūnas*.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 3; sūtra numbers as read by the reader's OCR).** *Vibhajāsi* — the root *bhaja sevāyām*; *leṭ*, 2nd singular, the suffix *sip*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94) the augment *aḍ*; since there is a connection with *yat* the *nighāta* does not arise; since *sip* and *śap* are *pit* they are unaccented, so the root accent remains. *Martyatrā* — in the sense of the seventh case (among men) by *devamanuṣyapuruṣamartyebhyo dvitīyāsaptamībhyāṃ…* (Pā. Sū. 5-4-56) the suffix *trā*; the final acute by the suffix accent. *Sujāte* — *śobhanaṃ jātaṃ jananaṃ yasyāḥ sā sujātā*; the vocative singular form; by *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*. *Anāgasaḥ* — *na vidyate āgo yeṣāṃ te anāgasaḥ*; *nalopo nañaḥ* — the loss of the *n* of *nañ*; *tasmān nuḍ aci* — the augment *nuṭ* before a vowel; in the indeclinable-prefixed compound the first member's accent; accusative plural. *Vocati* — the root *vaca paribhāṣaṇe*; *leṭ*, 3rd singular, *tip*; *adiprabhṛtibhyaḥ śapaḥ* the *luk* of *śap*; *leṭo 'ḍāṭau* — the augment *aḍ* for the stem, by *vyatyaya*; *vaca um* (Pā. Sū. 7-4-20) the augment *um*; since it is *mit* it comes after the last vowel; guṇa; after an *atiṅanta* the *nighāta*. *Sūryāya* — the root *sṛ gatau*; *sarati iti sūryaḥ* — *rājasūyasūrya…* (Pā. Sū. 3-1-114) formed with the suffix *kyap* by irregular formation; since it is *pit* it is unaccented, so the root accent remains; dative singular. ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> गृहंगृहमहना यात्यच्छा दिवेदिवे अधि नामा दधाना ।
+> सिषासन्ती द्योतना शश्वदागादग्रमग्रमिद्भजते वसूनाम् ॥ ४ ॥
+
+> *gṛhaṃgṛhamahanā yātyacchā divedive adhi nāmā dadhānā |*
+> *siṣāsantī dyotanā śaśvadāgādagramagramidbhajate vasūnām ‖ 4 ‖*
+
+### Printed p. 87  (PDF 108)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
+
+**॥ पदपाठः ॥**
+
+> गृहंऽगृहम् । अहना । याति । अच्छ । दिवेऽदिवे । अधि । नाम । दधाना ।
+> सिसासन्ती । द्योतना । शश्वत् । आ । अगात् । अग्रम्ऽअग्रम् । इत् । भजते । वसूनाम् ॥ ४ ॥
+
+> *gṛhaṃ 'gṛham | ahanā | yāti | accha | dive 'dive | adhi | nāma | dadhānā |*
+> *sisāsantī | dyotanā | śaśvat | ā | agāt | agram 'agram | it | bhajate | vasūnām ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अहना । उषोनामैतत् । अहना द्योतनेति तन्नाममु पाठात् । सा देवी दिने दिने प्रत्यहं दिवे दिव इत्यहर्नाममु पाठात् । गृहं गृहं तत्तद्यज्ञ-गृहमच्छाभिमुख्येन याति । गच्छति । कीदृशी । अध्यधिकं नाम नमनं प्रह्वत्वमुद्योगं प्रतिगृहमुद्योगं प्रकाशनरूपं दधाना धारयन्ती । यद्वा । अधि दधानाधिकं धारयन्ती । किञ्च सिषासन्ती सम्भक्तुमिच्छन्ती द्योतना कृत्स्नं जगद्द्योतनशीला शश्वत् प्रतिदिनमागात् । आगच्छति । पूर्वं यातीत्युक्तत्वात्पुनरागादिति वचनमावश्यकत्वद्योतनार्थम् । आगत्य च वसूनां धनानां हविर्लक्षणानामग्रमग्रमित् तत्तच्छ्रेष्ठभागं भजते सेवते स्वीकरोतीत्यर्थः ॥
+
+> *ahanā | uṣonāmaitat | ahanā dyotaneti tannāmamu pāṭhāt | sā devī dine dine pratyahaṃ dive diva ityaharnāmamu pāṭhāt | gṛhaṃ gṛhaṃ tattadyajña-gṛhamacchābhimukhyena yāti | gacchati | kīdṛśī | adhyadhikaṃ nāma namanaṃ prahvatvamudyogaṃ pratigṛhamudyogaṃ prakāśanarūpaṃ dadhānā dhārayantī | yadvā | adhi dadhānādhikaṃ dhārayantī | kiñca siṣāsantī sambhaktumicchantī dyotanā kṛtsnaṃ jagaddyotanaśīlā śaśvat pratidinamāgāt | āgacchati | pūrvaṃ yātītyuktatvātpunarāgāditi vacanamāvaśyakatvadyotanārtham | āgatya ca vasūnāṃ dhanānāṃ havirlakṣaṇānāmagramagramit tattacchreṣṭhabhāgaṃ bhajate sevate svīkarotītyarthaḥ ‖*
+
+*(Small type; the passage marked `[?]` is a doubtful stretch; the Kannada commentary below confirms the sense.)* "*Ahanā*: this is a name of Uṣas, by its reading among the names *ahanā, dyotanā*. She, the goddess, comes day by day (*dive dive* — read among the names of 'day'). She goes (*yāti*) to house after house — to each sacrificial house — facing it (*accha*). What is she like? *Adhi nāma dadhānā*: bearing an excess of *nāma*, 'bending', that is 'eagerness', 'effort' — bearing for every house an effort in the form of light; or *adhi dadhānā* — bearing more. And, desiring to confer (*siṣāsantī*), illuminating the whole world (*dyotanā*), she has come (*āgāt*), always, every day. Having come, she takes (*bhajate*, serves, accepts) the foremost, the choicest portion (*agram agram*), of the riches — of the wealth in the form of oblations."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Ahanā* — the deity Uṣas; *dive dive* — every day; *adhi* — in excess; *nāma* — the effort (the bending) of the form of light; *dadhānā* — bearing; *gṛhaṃ gṛham* — to every sacrificial house; *accha yāti* — she goes facing; *(kiñca* — and); *siṣāsantī* — wishing to bestow favour; *dyotanā* — illuminating the world; *śaśvat* — always (every day); *āgāt* — she comes (having come); *vasūnām* — of the oblations and the like; *agram agram it* — the choicest portions only; *bhajate* — she accepts.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Uṣas, assuming each day the effort (*udyoga*) in the form of light, goes to every house of sacrifice; wishing to favour (the sacrificers), illuminating the world, she comes always, every day; having come she accepts only the choicest part of the oblations offered.
+
+### Printed p. 88  (PDF 109)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* **Printed English (as printed):** *Ahana, charged with downward-bending (light), goes daily from house to house; she comes, perpetually diffusing light, and desirous of bestowing (benefits), and accepts the choicest portions of (the sacrificial) treasures.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 4.**
+
+***ahanā*** — "the deity Uṣas": that is the sense. Among the sixteen names of Uṣas beginning *vibhāvarī, sūnarī, bhāsvatī* (Ni. 2-19) the word *ahanā* too is declared (see the introduction of this Sūkta).
+
+***dive dive*** — since this word is declared (Ni. 2-21) among the twelve names of "day" beginning *vasoḥ, dyauḥ, bhānuḥ*, it means "every day".
+
+***accha*** — *acchābhi-rāptam iti śākapūṇiḥ* (Ni. 5-15, as read by the reader's OCR): "the word *accha* is used in the sense of *abhi* and in the sense of *āptam* — so the opinion of the teacher Śākapūṇi". Sāyaṇa here gives for the word *accha* the sense *ābhimukhyena*, "facing". *Gṛhaṃ gṛham accha yāti* — the sense is "the deity Uṣas enters the sacrificial houses with favour".
+
+***adhi nāma dadhānā*** — in this sentence Sāyaṇa explains *adhikaṃ namanaṃ prahvatvam udyogaṃ prakāśanarūpaṃ pratigṛhaṃ dadhānā*: "Uṣas bears in every house her extraordinary light-effort" — that is one explanation; or *adhi dadhānā adhikaṃ dadhānā*: "bearing exceedingly light" — another: thus two explanations.
+
+***gṛhaṃgṛham ahanā yāti*** — "Uṣas shines in every house"; and by saying again *śaśvat āgāt* ("she comes every day"), the necessity of the coming of Uṣas is shown.
+
+***vasūnām agram agram it bhajate*** — *dhanānāṃ havirlakṣaṇānāṃ tattacchreṣṭhabhāgaṃ svīkarotīty arthaḥ*: "the deity Uṣas accepts the several choice portions of the oblations offered by the sacrificers" — that is the sense. The word *vasu* conveys many meanings. This word is declared among the names of rays (Ni. 2-15, as read by the reader's OCR) and among the names of wealth, *maghaṃ rekṇaḥ* and the rest (Ni. 3-9, as read by the OCR; the OCR gives "3, 3-9").
+
+### Printed p. 89  (PDF 110)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
+
+> सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मै वय इन्द्रो दधाति ।
+> यस्त्वा यन्तं [?] वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति [?] ॥
+
+> *sugurasatsuhiraṇyaḥ svaśvo bṛhadasmai vaya indro dadhāti |*
+> *yastvā yantaṃ [?] vasunā prātaritvo mukṣījayeva padimutsināti [?] ‖*
+
+(Ṛ. Saṃ. 1-125-1 [?], as read; the OCR is garbled.) In this ṛk, *vasunā* means "with food" (*annena*): the word *vasu* means "food".
+
+> देवी जोष्ट्री वसुधिती यस्यां [?] । ... ।
+> नार्याणि यजमानाय वसुवने वसुधेयस्य वीतां यज ॥
+
+> *devī joṣṭrī vasudhitī yasyāṃ [?] | ... |*
+> *nāryāṇi yajamānāya vasuvane vasudheyasya vītāṃ yaja ‖*
+
+(Vāja. Saṃ. 28-15 [?], as read; the first line is in small type and not settled letter by letter, hence not transcribed beyond what is shown.) In the verse that is said here, the word *vasu* has both meanings, "wealth" and "food".
+
+> सुगावो जीवाः सुपथा अकर्म य आजग्मुः सवनमिदं जुषाणाः ।
+> जक्षिवांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसूनि ॥
+
+> *sugāvo jīvāḥ supathā akarma ya ājagmuḥ savanamidaṃ juṣāṇāḥ |*
+> *jakṣivāṃsaḥ papivāṃsaśca viśve 'sme dhatta vasavo vasūni ‖*
+
+(Yajus Saṃ. 8-18 [?], as read.) Here the word *vasu* gives the sense "wealth" and "food".
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 4; sūtra numbers as read by the reader's OCR for p. 89).** *Gṛhaṃgṛham* — *nityavīpsayoḥ* (Pā. Sū. 8-1-4) when the sense of repetition is intended, doubling of the word occurs; by *tasya parām āmreḍitam* the second member gets the name *āmreḍita*; by *anudāttaṃ ca* (Pā. Sū. 8-1-3) it gets the all-unaccented accent; so too below in *dive dive* and *agram agram*, doubling and accent. *Yāti* — the root *yā prāpaṇe*; *adādi*; *laṭ*, 3rd singular; the *nighāta*. *Accha* — *nipātasya ca* (Pā. Sū. 6-3-136) lengthening in the Saṃhitā. *Dadhānā* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *juhotyādi*; in the sense of *laṭ* the suffix *śānac*; *ślu*-vikaraṇa; taking it as the cause, doubling of the root; the first consonant remains in the reduplicative syllable, *jhaś*…; in the feminine *ṭāp*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute. *Siṣāsantī* — the root *vana ṣaṇa sambhaktau*; *dhātvādeḥ ṣaḥ saḥ* — the initial *s*; in the sense of desire the suffix *san*; *sanyaṅoḥ* — doubling of the root; *halādiḥ śeṣaḥ*; *sanvallaghuni…* (Pā. Sū. 7-4-79) *i* in the reduplicative syllable; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣatva* of the root's *s*;
+
+### Printed p. 90  (PDF 111)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* …*sanīvantardhabhrasj…* (Pā. Sū. 7-2-49) optionally the augment *iṭ* — so it does not come; *janasanakhanāṃ sanjhaloḥ* (Pā. Sū. 6-4-42) the *ā*-substitute for the root's *n*; after *san*, *laṭ* — *śatṛ* in its place; *śap* in the sense of the agent; since it is *ugit*, *ugitaś ca* (Pā. Sū. 4-1-6) the suffix *ṅīp*; *kṛśa kṛśanor nityam* [as printed `[?]`] — the augment *num*; *śap* and *ṅīp* are *pit*, and because the *śatṛ*, being *lasārvadhātuka*, is unaccented, hence by *ñnityādir nityam*, the first-syllable acute remains from before. *Āgāt* — the root *iṅ gatau*; in the Vedic way *luṅ* in the sense of the present; *iṇo gā luṅi* (Pā. Sū. 2-4-45) *gā* for the root; *cleḥ sic*, then *gātisthāghupābhūbhyaḥ* (Pā. Sū. 2-4-77) the *luk*; *aṭ* for the stem; 3rd singular; after an *atiṅanta* the *nighāta*. *Bhajate* — the root *bhaja sevāyām*; *laṭ*, 3rd singular; the *nighāta*. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> भगस्य स्वसा वरुणस्य जामिरुषः सूनृते प्रथमा जरस्व ।
+> पश्चा स दध्या यो अघस्य धाता जयेमं तं दक्षिणया रथेन ॥ ५ ॥
+
+> *bhagasya svasā varuṇasya jāmiruṣaḥ sūnṛte prathamā jarasva |*
+> *paścā sa dadhyā yo aghasya dhātā jayemaṃ taṃ dakṣiṇayā rathena ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> भगस्य । स्वसा । वरुणस्य । जामिः । उषः । सूनृते । प्रथमा । जरस्व ।
+> पश्चा । सः । दध्याः । यः । अघस्य । धाता । जयेम । तम् । दक्षिणया । रथेन ॥ ५ ॥
+
+> *bhagasya | svasā | varuṇasya | jāmiḥ | uṣaḥ | sūnṛte | prathamā | jarasva |*
+> *paścā | saḥ | dadhyāḥ | yaḥ | aghasya | dhātā | jayema | tam | dakṣiṇayā | rathena ‖ 5 ‖*
+
+### Printed p. 91  (PDF 112)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सूनृते सुष्ठु मनुष्याणां नेत्र्यृतो हे उषो देवते भगस्य सर्वैर्भजनीयस्यादित्यस्य स्वसासि । स्वसृस्थानीयासि । तेन सहोत्पद्यमानत्वात्प्रसूतत्वाद्वेत्यर्थः । तथा वरुणस्य तमोनिवारकस्य सवितुर्देवस्य जामिरसि । भगिनीस्थानीयासि । एकस्मिन्नेव स्थाने उत्पद्यमानत्वात् । जनयन्त्यपत्यान्यस्यामपत्कमन्य इति जामिः [?] । यद्वा । जमति गच्छति स्वोत्पत्तिस्थानादन्यत्रेति । उक्तनिर्वचनद्वयमभिप्रेत्य यास्क आह । न जामयेभगिन्यै [?] जामिरन्यस्यां जनयन्ति जामिपत्कं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्राया भवति (नि. ३-६ [?]) इति । तादृशी त्वं प्रथमेतरदेवेभ्यः पूर्वोत्कृष्टा वा सती जरस्व । स्तुता भव । जरतिः स्तुतिकर्मा (नि. १०-८) इति यास्कः । पश्चा पश्चात्त्वत्स्तुतेरनन्तरं योऽघस्य दुःखस्य कस्मिंश्चिद्दुःखस्य कारणस्य वा पापस्य धाता धारयिता [?] अस्ति स सः पापी दध्याः । गच्छतु । वचनव्यत्ययः । दध्य दभ्नोतीति गत्यर्थेषु पाठात् । यदि स पापी बलीयान् तं दक्षिणया प्रवृद्धया सहायभूतया त्वया रथेनास्मदीयरथादिसाधनेन च जयेम ॥
+
+> *sūnṛte suṣṭhu manuṣyāṇāṃ netryṛto he uṣo devate bhagasya sarvairbhajanīyasyādityasya svasāsi | svasṛsthānīyāsi | tena sahotpadyamānatvātprasūtatvādvetyarthaḥ | tathā varuṇasya tamonivārakasya saviturdevasya jāmirasi | bhaginīsthānīyāsi | ekasminneva sthāne utpadyamānatvāt | janayantyapatyānyasyāmapatkamanya iti jāmiḥ [?] | yadvā | jamati gacchati svotpattisthānādanyatreti | uktanirvacanadvayamabhipretya yāska āha | na jāmayebhaginyai [?] jāmiranyasyāṃ janayanti jāmipatkaṃ jamatervā syādgatikarmaṇo nirgamanaprāyā bhavati (ni. 3-6 [?]) iti | tādṛśī tvaṃ prathametaradevebhyaḥ pūrvotkṛṣṭā vā satī jarasva | stutā bhava | jaratiḥ stutikarmā (ni. 10-8) iti yāskaḥ | paścā paścāttvatstuteranantaraṃ yo 'ghasya duḥkhasya kasmiṃścidduḥkhasya kāraṇasya vā pāpasya dhātā dhārayitā [?] asti sa saḥ pāpī dadhyāḥ | gacchatu | vacanavyatyayaḥ | dadhya dabhnotīti gatyartheṣu pāṭhāt | yadi sa pāpī balīyān taṃ dakṣiṇayā pravṛddhayā sahāyabhūtayā tvayā rathenāsmadīyarathādisādhanena ca jayema ‖*
+
+*(Small type; a few words doubtful, the sūtra-like references to the Nirukta as read by me: Ni. 3-6 `[?]` for *jāmi*, Ni. 10-8 `[?]` for *jarati*.)* "O Sūnṛtā — leader of men in a good way — O deity Uṣas, you are the sister (*svasā*) of Bhaga — of the Āditya, who is to be served by all: that is, you stand in the place of a sister, since you were produced together with him. And so, you are the *jāmi* of Varuṇa — of the god Savitṛ, the remover of darkness: you stand in the place of a sister, since you arise in one place. *Jāmi* — [from] *janayanti apatyāni*... or from *jam*, 'to go': 'she goes elsewhere from the place of her birth'. Intending both derivations, Yāska says: *na jāmaye 'bhinai jāmir anyasyāṃ janayanti jāmipatkam jamater vā syād gatikarmaṇo nirgamanaprāyā bhavati* (Ni. 3-6 `[?]`). Such as you are, first (*prathamā*), or excelling the other gods, *jarasva* — be praised (*jaratiḥ stutikarmā*: 'to praise', Ni. 10-8 `[?]`, says Yāska). *Paścā* — afterwards, after your praise: he who is the bearer (*dhātā*) of sin (*agha*) — of some sorrow or of the cause of sorrow — *sa dadhyāḥ*: let that sinner go (the number is changed; the root *dadh*, 'to go'); if that sinner is stronger, we shall conquer him with you, the grown (*dakṣiṇayā*), the helper — with our chariot and other means."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Sūnṛte* — O one who leads men to the good path; *uṣaḥ* — O deity Uṣas (you); *bhagasya* — of Āditya, who is to be served by all; *svasā* — the sister; (*tathā* — likewise); *varuṇasya* — of Savitṛ, the remover of darkness; *jāmiḥ* — the sister (you); *prathamā* — first, before the other deities, best; *jarasva* — be praised (by us); *paścā* — afterwards (when we have been pleased by praising); *yaḥ* — who; *aghasya* — of sin, the cause of sorrow; *dhātā* — the supporter; *saḥ* — he; *dadhyāḥ* — let him go away (from here); *tam* — him; *dakṣiṇayā* — with the helping you; *rathena* — with our chariot; *jayema* — we conquer.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Uṣas, leader of men on the good path, you are the sister of Āditya, who is to be served by all, and the sister of Savitṛ, the dispeller of darkness; first and best among all the gods, you are to be praised by us; so we praise you; let the one who is the cause of sorrow (the sin) go away from here; with your help we conquer him with our chariots.
+
+---
+
+**Progress note:** Vol 10 — Sūkta 123 through printed p. 91 (PDF 112): Ṛks 1–4 complete; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha done; its printed English begins on p. 92 (PDF 113). Printed page = PDF − 21. The reader's Google-Docs OCR now covers printed pp. 39–239; use `scratchpad/ocrp.py` style checks for Ṛk/Nirukta/sūtra numbers. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
