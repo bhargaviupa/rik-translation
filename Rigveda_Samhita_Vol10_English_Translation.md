@@ -10648,4 +10648,92 @@ In the matter of Indra's coming to the sacrificial hall, the sentence *astaṃ r
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 426 (PDF 447): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 complete except the end of its grammar page (entries *piba*, *suvānam*, *siktam*, *avatam* written; the rest, ‖ 2 ‖, is on p. 427); resume p. 427 (PDF 448). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (see earlier list; slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 are written under p. 414 though the print runs on to p. 415), Sūkta 130 Ṛk 1 bhāṣya (p. 418) and Ṛk 2 (p. 423 bhāṣya; the Nirukta list of *harit* on p. 426; the Ṛ. 10-94-1 quotation on p. 425); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 427  (PDF 448)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+*(Grammar of Ṛk 2, concluded; numbers as printed.)* *vaṃsagaḥ* — *upasarga*-less; *prṣodarādīni yathopadiṣṭam* (Pā. 6-3-109) gives the desired form and accent. *tātṛṣāṇaḥ* — root *ñitṛṣā pipāsāyām*; when *liṭ* follows, *liṭaḥ kānajvā* (Pā. 3-2-106) gives *kānac*; because of it the root is doubled; *urat* (Pā. 7-4-66) gives *at* to the reduplicative, *ṛ*-ending, and by *ādir ṇiṭuḍavaḥ* [as read: *halādiḥ śeṣaḥ*] the initial consonant remains; *āṭ kupvāṅ…* gives *ṇ* for the *n* of the suffix; the long vowel in the Saṃhitā is Vedic; *citaḥ* gives the acute on the last syllable. *madāya* — root *madī tṛptiyoge*; *mado 'nupasarge* (Pā. 3-3-67) gives *ap*; since *p*-marked the root's accent remains; dative singular. *haryatāya* — root *harya gatikāntyoḥ*; *bhṛmṛdṛśi…* (Uṇ. 3-110) gives *atac*; *citaḥ* gives the acute on the last syllable. *dhāyase* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; *vahihādhāñbhyaś chandasi* (Uṇ. 4-[?]) gives *asun*; by *ñit* [continued] *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33) gives the augment *yuk*; since *n*-marked the acute on the first syllable. *yacchantu* — root *yam uparame* [as printed "vāṅ dāne"]; *loṭ* third person plural; *pāghrādhmā…* (Pā. 7-3-78) gives *yaccha*; *tiṅ-nighāta*. *ahā viśvā* — neuter plural; *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*. ‖ 2 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अविन्दद्दिवो निहितं गुहा निधिं वेर्न गर्भं परिवीतमश्मन्यनन्ते अन्तरश्मनि ।
+> व्रजं वज्री गवामिव सिषासन्नङ्गिरस्तमः ।
+> अपावृणोदिषः इन्द्रः परीवृता द्वार इषः परीवृताः ॥ ३ ॥
+
+> *avindaddivo nihitaṃ guhā nidhiṃ verna garbhaṃ parivītamaśmanyanante antaraśmani |*
+> *vrajaṃ vajrī gavāmiva siṣāsannaṅgirastamaḥ |*
+> *apāvṛṇodiṣaḥ indraḥ parīvṛtā dvāra iṣaḥ parīvṛtāḥ ‖ 3 ‖*
+
+### Printed p. 428  (PDF 449)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ पदपाठः ॥**
+
+> अविन्दत् । दिवः । निऽहितम् । गुहा । निऽधिम् । वेः । न । गर्भम् । परिऽवीतम् । अश्मनि । अनन्ते । अन्तः । अश्मनि ।
+> व्रजम् । वज्री । गवाम्ऽइव । सिषासन् । अङ्गिरःऽतमः ।
+> अप । अवृणोत् । इषः । इन्द्रः । परिऽवृताः । द्वारः । इषः । परिऽवृताः ॥ ३ ॥
+
+> *avindat | divaḥ | ni 'hitam | guhā | ni 'dhim | veḥ | na | garbham | pari 'vītam | aśmani | anante | antaḥ | aśmani |*
+> *vrajam | vajrī | gavām 'iva | siṣāsan | aṅgiraḥ 'tamaḥ |*
+> *apa | avṛṇot | iṣaḥ | indraḥ | pari 'vṛtāḥ | dvāraḥ | iṣaḥ | pari 'vṛtāḥ ‖ 3 ‖*
+
+*(Read from the image: *ni-hitam*, *ni-dhim*, *pari-vītam*, *aṅgiraḥ-tamaḥ*; the Saṃhitā's third word group ends "…*antar aśmani*".)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, partly doubtful: [?]).*
+
+> अयमिन्द्रो दिवो द्युलोकादानीतं सोममविन्दत् । अलभत । लब्धवान् । द्युलोकाद्गायत्र्या पक्षिरूपयोपहृतं भूमावानीतं स्वीकृतवानित्यर्थः । द्युलोकादानयनं कृत्स्नत्रयीये तृतीयस्यामितो दिवि सोम आसीत्तं गायत्र्याहरत् । तै. ब्रा. ३-२-१-१ [?] इत्यादिषु प्रसिद्धम् । स एव विशेष्यते । गुहा गुहायां निहितमतिगोप्ये प्रदेशे पर्वताद्यौ स्थापितम् । अत एव निधिं निधिस्थानीयम् । अनाशमित्यर्थः । आनयने दृष्टान्तः । वेर्न गर्भं पक्षिणो गर्भं न शिशुमिव । यथा कपोतादिः स्त्री पक्षिणी स्वशिशुं व्याधादिभयात्कस्मिंश्चिद्दुर्गमे स्थापयित्वा तत्स्थानमनुजानाति परिभ्रम्य विन्दते तद्वत् । कीदृशे स्थाने ... अश्मनि पाषाणे । अतिमहति विस्तृतेऽनन्तेऽपरिमितपाषाणे पर्वतादौ परिवीतं लताकण्टकादिना परितो वेष्टितम् । सत्स्वपीतरेषूदेशेषु कोस्याति शय इति तत्राह । अयमिन्द्रो वज्री वज्रवान् गवां व्रजमिव पणिनासुरेणापहृतं भूमौ खनित्वा पाषाणेन पिहितद्वारं गवां व्रजं यथा तमसुरं जित्वा द्वारमुद्घाट्य लब्धवान् तद्वत् सोमं सिषासन् सम्भक्तुमिच्छन् । सनीवन्तर्धेति विकल्पनादिडभावो जनसनेत्यादिः । अविन्दत् । अयमर्थः पणिनेव गावः । ऋ. १-३२-११ [?] इत्यादिषु प्रसिद्धः । तथायमिन्द्रः परिवृताः परितो मेघेनावृता इषोऽन्नहेतुभूतस्योदकस्य द्वारो द्वाराण्यपावृणोत् । अपवृतान्यकरोत् । उद्घाटितवानित्यर्थः । तथा कृषेष्विष्यमाणानि व्रीह्याद्यन्नानि परिवृता भूमावुपरि परितो व्याप्त्यान्यकरोत् । वज्रेण मेघं भित्त्वा जलवर्षणेन सस्यादिसमृद्धिं कृत्वा व्रीह्यादिकं भूमौ व्याप्तमकरोदित्यर्थः । यतोऽयमेवं कृतवान् अतः सोमस्वीकारो युक्तः ॥
+
+> *ayamindro divo dyulokādānītaṃ somamavindat | alabhata | labdhavān | dyulokādgāyatryā pakṣirūpayopahṛtaṃ bhūmāvānītaṃ svīkṛtavānityarthaḥ | dyulokādānayanaṃ kṛtsnatrayīye tṛtīyasyāmito divi soma āsīttaṃ gāyatryāharat | tai. brā. 3-2-1-1 [?] ityādiṣu prasiddham | sa eva viśeṣyate | guhā guhāyāṃ nihitamatigopye pradeśe parvatādyau sthāpitam | ata eva nidhiṃ nidhisthānīyam | anāśamityarthaḥ | ānayane dṛṣṭāntaḥ | verna garbhaṃ pakṣiṇo garbhaṃ na śiśumiva | yathā kapotādiḥ strī pakṣiṇī svaśiśuṃ vyādhādibhayātkasmiṃściddurgame sthāpayitvā tatsthānamanujānāti paribhramya vindate tadvat | kīdṛśe sthāne ... aśmani pāṣāṇe | atimahati vistṛte 'nante 'parimitapāṣāṇe parvatādau parivītaṃ latākaṇṭakādinā parito veṣṭitam | satsvapītareṣūdeśeṣu kosyāti śaya iti tatrāha | ayamindro vajrī vajravān gavāṃ vrajamiva paṇināsureṇāpahṛtaṃ bhūmau khanitvā pāṣāṇena pihitadvāraṃ gavāṃ vrajaṃ yathā tamasuraṃ jitvā dvāramudghāṭya labdhavān tadvat somaṃ siṣāsan sambhaktumicchan | sanīvantardheti vikalpanādiḍabhāvo janasanetyādiḥ | avindat | ayamarthaḥ paṇineva gāvaḥ | ṛ. 1-32-11 [?] ityādiṣu prasiddhaḥ | tathāyamindraḥ parivṛtāḥ parito meghenāvṛtā iṣo 'nnahetubhūtasyodakasya dvāro dvārāṇyapāvṛṇot | apavṛtānyakarot | udghāṭitavānityarthaḥ | tathā kṛṣeṣviṣyamāṇāni vrīhyādyannāni parivṛtā bhūmāvupari parito vyāptyānyakarot | vajreṇa meghaṃ bhittvā jalavarṣaṇena sasyādisamṛddhiṃ kṛtvā vrīhyādikaṃ bhūmau vyāptamakarodityarthaḥ | yato 'yamevaṃ kṛtavān ataḥ somasvīkāro yuktaḥ ‖*
+
+*(Sense. "This Indra obtained (*avindat*) the Soma brought from heaven (*divaḥ*): having it carried by the Gāyatrī in the form of a bird, brought to the earth: this is well known from the Taittirīya Brāhmaṇa and others ('the Soma was in heaven; the Gāyatrī brought it'). It was *guhā nihitam* — placed in a hiding-place on a mountain etc., thus a treasure, without loss. The example of fetching: *vor na garbham* — like the young of a bird: as a hen pigeon or other bird hides its young in some inaccessible place for fear of the hunter, goes round, and finds the place again, so [Indra finds Soma], *aśmani anante* — in a vast rock, the mountain without measure, covered all round by creepers and thorns. In what condition? *aśmani* — in the stone. Though there were other places, why this one? He says: this Indra, the thunderer (*vajrī*), *gavāṃ vrajam iva* — as one finds a cow-pen hidden by the demon Paṇi in the earth with a stone over its door: conquering the demon, opening the door, and obtaining it; so, *sisāsan* — desiring to partake, [he found Soma]; ... And so this Indra opened (*apāvṛṇot*) the doors (*dvāraḥ*) of the waters (*iṣaḥ*, the water that is the cause of food) enclosed (*parivṛtāḥ*) by clouds all round; he made the grains and the like, desired in the fields, spread out over the earth; splitting the cloud with the thunderbolt, he gave abundance of crops by the rain: thus he did; therefore the acceptance of Soma is proper.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *aṅgirastamaḥ* — the best (of the Aṅgirases) among those who go against enemies; *(ayam) indraḥ* — this Indra; *vajrī* — the bearer of the thunderbolt; *gavāṃ vrajam iva* — like the cow-pen (shut by the Paṇi demon); *sisāsan* — desiring to get; *aavindat* — found; *tathā* — likewise; *(ayam* — this one); *pari-vṛtāḥ* — covered all round (by clouds); *iṣaḥ* — the food (cause: water); *dvāraḥ* — the doors; *apa avṛṇot* — opened (and); *iṣaḥ* — the grains; *parivṛtāḥ* — spread over the earth (he made); *ayam indraḥ* — this Indra; *aśmani antaḥ* — in the middle of the rocks; *guhā* — in a secret place; *nihitam* — hidden; *nidhim* — like a treasure; *anante aśmani* — in the boundless stones, the mountains etc.; *parivītam* — surrounded (by creepers and thorns); *divaḥ* — (the Soma-juice) from the world of heaven; *vaḥ* — a bird; *garbham na* — as the young one (found after a long search); *avindat* — found.
+
+### Printed p. 429  (PDF 450)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Indra, the foremost among those who advance against enemies, with the thunderbolt in hand, broke open the door of the cow-pen (shut by the demon Paṇi) and, as one obtains cows, found the Soma-juice; and he opened the doors of the food-giving waters covered by clouds all round, and caused the rice and other grains to spread over the earth. Therefore, as one finds, after long search, the young of a pigeon hidden by the bird, he found the Soma-juice, brought from heaven, hidden in a secret place amidst boundless rocks, in the mountains surrounded by creepers and thorns, as a treasure.
+
+**Printed English (heading "English Translation"; as printed):** *"He (Indra) found the (Soma) treasure (that had been brought) from heaven, and hidden like the nestlings of a bird in a rock; amidst (a pile of) vast rocks inclosed (by bushes): desiring to partake (of the beverage), the thunderer (found it), as the chief of the Angirasas (discovered), the hiding-place of the cows: he opened the doors (of the waters, the sources of) food, when shut up (in the clouds; the sorcerer of) food that were spread (over the earth)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+***divaḥ avindat*** — *dyulokāt anītaṃ somam aindro labdhavān*: "Soma was at first only in heaven. The goddess Gāyatrī, in the form of a bird, brought it to the earth": this is said in the Śruti *tṛtīyasyām ito divi soma āsīt taṃ gāyatry āharat* (Tai. Br. 3-2-1-1 [?], as read "೩-೨-೧-೧" or "೩-೧-೧-೧": doubtful). "This is explained as Indra's getting it at the sacrifice."
+
+### Printed p. 430  (PDF 451)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+***guhā nidhim*** — *atigopye parvatādau pradeśe sthāpitaṃ nidhisthānīyam*: "the Soma-creeper grows in the mountains; as a person hides a treasure (money) in a secret place, so that no one comes to know it, it is hidden, and to bring it out from there, very great effort is required": such is the idea.
+
+***vor garbhaṃ na*** — *pakṣiṇaḥ śiśum iva*: "as the pigeon, in order that its young may not be destroyed by hunters and others, places them in a place unknown to anybody but accessible to itself, and afterwards, itself searching, finds the place with effort, so they seek this Soma": so he compares.
+
+***aśmani anante aśmani parivītam*** — *atimahati vistṛte pāṣāṇe, aparimitapāṣāṇe parvatādau latākaṇṭakādinā parivītam*: "in places abounding with thorns and thorny shrubs, in the mountains filled with many stones, other creepers and thorn-bushes surround the Soma creeper". The word *aśman* is recorded among the names of cloud (Ni. 1-[?]; as read "೩-೩೧").
+
+> त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
+> त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥
+
+> *tvam agne dyubhis tvam āśuśukṣaṇis tvam adbhyas tvam aśmanas pari |*
+> *tvaṃ vanebhyas tvam oṣadhībhyas tvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ‖*
+
+(Ṛ. Saṃ. 2-1-1, as read "೨-೧-೧".) In this Ṛk *aśmanaḥ pari* is explained as *paritaḥ sarvataḥ itaretarābhighātāt jāyase* — "Agni is born from the mutual striking of stones": hence the sense "stone" is given for *aśman*. And —
+
+> यो हत्वाहिमरिणात्सप्त सिन्धून्यो गा उदाजदपधा वलस्य ।
+> योऽश्मनोरन्तरग्निं जजान संवृक्समत्स जनास इन्द्रः ॥
+
+> *yo hatvāhim ariṇāt sapta sindhūn yo gā udājad apadhā valasya |*
+> *yo 'śmanor antar agniṃ jajāna saṃvṛk samatsu sa janāsa indraḥ ‖*
+
+(Ṛ. Saṃ. 2-12-3, as read "೨-೧೨-೩".) Here he explains *aśmanoḥ* as *aśanavatyoḥ dyāvāpṛthivyoḥ* — "heaven and earth that have the thunderbolt": the word *aśman* is given the sense "heaven and earth that give food".
+
+***vajrī gavāṃ vrajam iva sisāsan*** — *paṇinā asureṇāpahṛtaṃ bhūmau khanitvā pāṣāṇena pihitadvāraṃ gavāṃ vrajaṃ yathā tam asuraṃ jitvā dvāram udghāṭya labdhavān tadvat somaṃ sisāsan saṃbhaktum icchan*: "Indra, who bears the thunderbolt, as he found, by conquering the demon called Paṇi, who had carried off the cows and hidden them, digging in the earth and closing the door with a stone, and opening the door, the cow-pen —"
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 430 (PDF 451): Ṛks 1–2 complete; Ṛk 3 Saṃhitā…English and Special Topics written to the foot of p. 430 (the *vajrī gavāṃ vrajam iva sisāsan* entry breaks off mid-sentence); resume p. 431 (PDF 452). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428, Pratipadārtha has a typo "aavindat" for *avindat*); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
