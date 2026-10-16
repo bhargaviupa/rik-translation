@@ -304,7 +304,7 @@ The name of this Kakṣīvān is found in the following ṛks of the Ṛgveda Sa
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* … known from the ṛk Ṛ. Saṃ. 9-74-8. In Ṛ. Saṃ. 4-26-1 his name is indicated together with Kutsa and the poet Uśanas. Apart from the one ṛk Ṛ. Saṃ. 8-9-10 [as printed "೮-೯-೧೦"], nowhere else is any connection with the seer Dīrghatamas found. But in the work attributed to Śaunaka, the Bṛhaddevatā, it is said that this Kakṣīvān was a son born to the seer Dīrghatamas in the maidservant named Uśij (Bṛ. De. 4-11 [?], as printed in small type).
 
-The Western scholar Weber, on the basis of the mantras Tai. Saṃ. 5-6-5-3; Kāṭhakasaṃhitā 13-3 [?]; Pañcaviṃśa Brāhmaṇa 25-16-3 [?], is of the opinion that this Kakṣīvān was first a Kṣatriya, and that therefore his name occurs, in the mantras cited above, together with the names of the kings Para Āṭṇāra, Vītahavya, Śrāyasa, Trasadasyu and Paurukutsa. This seer is the seer of 151 [?] ṛks in all: the 146 ṛks of the Sūktas from 116 to 125 in the first Maṇḍala of the Ṛgveda, and ṛks 1–5 of Sūkta 126; besides, he is the seer of the 9 ṛks of Sūkta 74 of the ninth Maṇḍala, "*Kakṣīvān Dairghatamasaḥ*" — and because he is called the son of the seer Dīrghatamas, the specialty of the Sūkta *…* [the sentence continues: "although he is a ṛṣi with the epithet *Auśija*, he can be called a seer of the Sūkta under discussion also"].
+The Western scholar Weber, on the basis of the mantras Tai. Saṃ. 5-6-5-3; Kāṭhakasaṃhitā 13-3 [?]; Pañcaviṃśa Brāhmaṇa 25-16-3 [?], is of the opinion that this Kakṣīvān was first a Kṣatriya, and that therefore his name occurs, in the mantras cited above, together with the names of the kings Para Āṭṇāra, Vītahavya, Śrāyasa, Trasadasyu and Paurukutsa. This seer is the seer of 151 [?] ṛks in all: the 146 ṛks of the Sūktas from 116 to 125 in the first Maṇḍala of the Ṛgveda, and ṛks 1–5 of Sūkta 126; besides, he is the seer of the 9 ṛks of Sūkta 74 of the ninth Maṇḍala, "*Kakṣīvān Dairghatamasaḥ*" — and since there the seer is called "Kakṣīvān Dairghatamasaḥ" — that is, Kakṣīvān the son of the seer Dīrghatamas — even though the epithet *Auśija* is lacking there, the seer of the Sūkta now in hand, too, may be said to be the seer of that [Sūkta] as well.
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (introduction)**
 
@@ -386,4 +386,115 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 ---
 
-**Progress note:** Vol 10 — Pīṭhike, contents and Sūkta 122 Ṛk 1 through printed p. 6 done (Special Topics of Ṛk 1 in progress: *raghumanyavaḥ* paragraph, Wilson quotation done; continues on p. 7, PDF 28, with "ಇದರಿಂದ ಋತ್ವಿಕ್ಕುಗಳಿಗೆ…"). Printed page = PDF − 21. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664. Open: Pīṭhike Ṛk-reference lists (pp. i, viii) and Ai. Brā. numbers partly `[?]`; p. 3 total "151" and Bṛ. De. reference `[?]`; the end of the p. 3 sentence on *auśija* is only summarised.
+
+### Printed p. 7  (PDF 28)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* …(the word *raghumanyavaḥ*, continued) another reading, in the sense *śīghrastutayaḥ* ("quick praisers"), is also found: *manyatir arcākarma* — since *manyate* is recorded among the words meaning "to praise" (*arcati-karma-nāmāni*), it is said that *śīghrastutayaḥ* is possible too. But here the word *manyu* shows the definite meaning "anger"; so this variant reading does not look so proper, and "quick-tempered ones" is not right either. Therefore "those without anger" is the right sense.
+
+***mīḷhuṣe*** — *phalasya varṣitre rudrāya*: for Rudra who showers the fruits (the things desired). Here it is the aspect of Rudra as giver that is told; another aspect of Rudra is explained as well, when the derivation of the word *rudrāya* is given: *rut duḥkhaṃ taddhetubhūtaṃ duritaṃ vā | tasya drāvayitre etannāmakāya devāya* — *rut* is sorrow, or the sin that causes it; because he makes this run away, he has the name Rudra. All aspects of Rudra's nature will be explained in the Sūkta addressed to this deity.
+
+***vīraiḥ*** — *amitrāṇāṃ vividhamīrakaiḥ vīryopetaiḥ*: with the Maruts who are endowed with heroism that harms the enemies in many ways. The Maruts, being Rudra's sons, are always his followers.
+
+***rodasyoḥ marutaḥ*** — Sāyaṇa explains: *dyāvāpṛthivyor madhye vartamānān marutaḥ* — the Maruts who stand between Heaven and Earth.
+
+> आ यस्मिन्सूरणानि बिभ्रती सचा मरुत्सु रोदसी ।
+
+> *ā yasminsūraṇāni bibhratī sacā marutsu rodasī |*
+
+(Ṛ. Saṃ. 5-56-8, as printed.) In this ṛk it is said that Rodasī is Rudra's wife and the mother of the Maruts. But since the dual number is used in the ṛk in hand, it is right to take it as Heaven and Earth.
+
+***marutaḥ*** — *marutaḥ mitarāviṇo vā mitarociṇo vā mahadravantīti vā* (Ni. 11-13 [?], as printed in small type): either because they make a regular (measured) sound, or because they have regular (measured) light, or because they move greatly and swiftly; hence the name *marutaḥ*. Its explanation was given earlier too.
+
+***iṣudhyā*** — *iṣudhyā (niṣaṅgeṇa) śatrūn yathā nirasyati tathā*: as one drives the enemies away with a quiver (with the arrow from a quiver) easily, so I praise (*staumi*, I will praise) Rudra, the god who comes with the heroic Maruts from the heavenly world to destroy the Asuras — that is the meaning. By himself he has power; to his arrows the help of the Maruts is added. Hence the greatness of his power will be greater still — that is the sense.
+
+> इमा रुद्राय स्थिरधन्वने गिरः क्षिप्रेषवे देवाय स्वधाव्ने ।
+
+> *imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhāvne |*
+
+(Ṛ. Saṃ. 2-3[?]-[?], as printed; the numerals are small and I cannot read them reliably.)
+
+### Printed p. 8  (PDF 29)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+> शतशीर्षा रुद्रः सहस्राक्षः शतेषुधिरधिज्यधन्वा [?] ।
+
+> *śataśīrṣā rudraḥ sahasrākṣaḥ śateṣudhiradhijyadhanvā [?] |*
+
+(printed with a four-part reference in the small type, "Śa. Brā. 9-1-1-6 [?]" — the first word and the numbers are not reliably read.) In sentences such as this there is a description of Rudra holding quivers full of terrible arrows. Taking this into account Sāyaṇa has said much here, and the idea is made known that Rudra is a destroyer of enemies and terrible, and that this nature of his becomes still more powerful with the help of the Maruts.
+
+***asurasya*** — Here the accusative is used [i.e. a usage in the sense of the object]. For the word *asura* the bhāṣyakāra here gives the meaning *nirasitāraṃ devam* — "the god who defeats (the enemies)". Ordinarily the meaning "Rākṣasas" is current for the word *asura*; but in many places the meaning of this word is in favour of the gods. In this Aṣṭaka this use of the word *asura* occurs in about ten ṛks; everywhere the meaning is in favour of the gods.
+
+> दिवो अस्तोष्यसुरस्य वीरैरिषुध्येव मरुतो रोदस्योः ।
+
+> *divo astoṣyasurasya vīrairiṣudhyeva maruto rodasyoḥ |*
+
+(Ṛ. Saṃ. 1-122-1.) In this ṛk — *asurasya nirasitavyānām asurāṇāṃ nirasituḥ | karmaṇi ṣaṣṭhī | nirasitāraṃ tam eva devaṃ (rudram)* — that is, "Rudra, who defeats the Asuras".
+
+> शतं राज्ञो नाधमानस्य निष्काञ्छतमश्वान्प्रयतान्सद्य आदम् ।
+> शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवो जरमा ततान ॥
+
+> *śataṃ rājño nādhamānasya niṣkāñchatamaśvānprayatānsadya ādam |*
+> *śataṃ kakṣīvā~ asurasya gonāṃ divi śravo jaramā tatāna ‖*
+
+(Ṛ. Saṃ. 1-126-2 [?], as printed; the words of this ṛk are read from the small bold type, and the second line's first words are doubtful.) Here — *asurasya dhanānāṃ nirasitur dānaśīlasya rājñaḥ svanayasya* — "of the king Svanaya, who gives away wealth and so on"; thus the word *asura* is in favour of the king Svanaya.
+
+> इन्द्राय हि द्यौरसुरो अनम्नतेन्द्राय मही पृथिवी वरीमभिर्द्युम्न-साता वरीमभिः ॥
+
+> *indrāya hi dyaurasuro anamnatendrāya mahī pṛthivī varīmabhirdyumna-sātā varīmabhiḥ ‖*
+
+(Ṛ. Saṃ. 1-131-1.) [The first line's last words and the second line are in bold small type; "*dyumnasātā*" is read with doubt `[?]`.] Here the word *asura* is explained as *asuraḥ nirasanaśīlaḥ śatrūṇāṃ puṇyakṛtām eva tanniv āsāt (dyauḥ dyuloka)* [as printed, the reading being partly `[?]`]: "heaven is the dwelling-place of the meritorious who perform sacrifices and the like, and makes no room for their enemies" — thus the word *asura* is an epithet of the word *dyauḥ*, in the sense of heaven.
+
+> प्र सा क्षितिरसुर या महि प्रिय ऋतावानावृतमा घोषतो बृहत् ।
+
+> *pra sā kṣitirasura yā mahi priya ṛtāvānāvṛtamā ghoṣato bṛhat |*
+
+(Ṛ. Saṃ. 1-151-4 [?], as read; the OCR is garbled here.)
+
+### Printed p. 9  (PDF 30)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* …in this ṛk, the word *asura* is an epithet of Mitrāvaruṇa — "*he asurā asurau balavantau mitrāvaruṇau*" ("O Asuras, O strong Mitra and Varuṇa") — and tells of their protective power and strength.
+
+> त्वं राजेन्द्र ये च देवा रक्षा स्नाप्यसुर [?] त्वमस्मान् ।
+
+> *tvaṃ rājendra ye ca devā rakṣā snāpyasura [?] tvamasmān |*
+
+(Ṛ. Saṃ. 1-134-1, as printed; the reader's OCR agrees; the middle words of the line are read with doubt `[?]`.) In this ṛk *asura* — *śatrūṇāṃ nirasitaḥ he indra* ("O Indra, who defeat the enemies") — the word *asura* is used with reference to Indra.
+
+> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
+
+> *tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
+
+(Ṛ. Saṃ. 2-1-6, as printed.) In this ṛk the meaning given for the word *asura* is: *asuraḥ śatrūṇāṃ nirasitā rudro 'si* — "you are Rudra who conquers the enemy".
+
+> त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः ।
+
+> *tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*
+
+(Ṛ. Saṃ. [2]-2[7]-10 [?], as printed in small type; the reader's OCR reads "3-32-10", which I do not accept as it stands.) Here for *asura* the meaning is *he asura śatrūṇāṃ kṣepaka varuṇa* ("O Varuṇa, thrower down of the enemies"): "who defeats the enemies"; the word *asura* is in favour of Varuṇa.
+
+> मा नो वधैर्वरुण ये त इष्टावेनः कृण्वन्तमसुर भ्रीणन्ति [?] ।
+
+> *mā no vadhairvaruṇa ye ta iṣṭāvenaḥ kṛṇvantamasura bhrīṇanti [?] |*
+
+(Ṛ. Saṃ. 2-28-[?]; the last digit is doubtful.) In this ṛk too: *he asura pāpakṛtāṃ nirasitaḥ varuṇa* ("O Varuṇa, who suppress those who do wrong") — it is in favour of Varuṇa.
+
+> बृहस्पते तपुषाश्मेव विध्य वृकद्वरसो असुरस्य वीरान् ।
+
+> *bṛhaspate tapuṣāśmeva vidhya vṛkadvaraso asurasya vīrān |*
+
+(Ṛ. Saṃ. 2-30-4.) In this ṛk the word *asura* is an epithet of *vṛkadvarasaḥ*; "of the Asura who has closed the door" — *saṃvṛtadvārasya asurasya* — "the Asura who shut the door and blocked it": here the ordinary meaning of the word *asura* itself is clear.
+
+> पिता यज्ञानामसुरो विपश्चितां विमानमग्निर्वयुनं च वाघताम् ।
+
+> *pitā yajñānāmasuro vipaścitāṃ vimānamagnirvayunaṃ ca vāghatām |*
+
+(Ṛ. Saṃ. 2-2-4 [?], as printed; the reader's OCR reads the same.) In this ṛk, *asuro balapradaḥ* — "Asura, giver of strength" — the word *asura* is used with reference to Agni.
+
+### Printed p. 10  (PDF 31)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Pāntam* — the root *pā* with the suffix *śatṛ* (or the root *pā pāne* with the uṇādi suffix *ṛ*, which is replaced by *anta* by *jhoṃtaḥ*, Pā. Sū. 7-1-3; accent by the suffix); *raghumanyavaḥ* — *laghu* becoming *ragh* by the (uṇādi) statement "*vāla-mūla-… vā lo ratvam āpadyate*" (Uṇ. Sū. 1-29, as read, the printed digits being small); the *nighāta* accent by *āmantritasya ca* (Pā. Sū. 8-1-19); *yajñam* — the root *yaj*, suffix *naṅ* by *yajayāca…* (Pā. Sū. 3-3-90, abbreviated so in the print); *mīḷhuṣe* — *dāśvān sāhvān mīḍhvāṃś ca* (Pā. Sū. 6-1-12) as a *kvasu*-ending irregular form, *saṃprasāraṇa* by *vasoḥ saṃprasāraṇam* (Pā. Sū. 6-4-131), *ṣatva* by *śāsivasighasīnāṃ ca* (Pā. Sū. 8-3-60, as read); *bharadhvam* — the root *bhṛ̥ bharaṇe*, loṭ 2nd plural, the suffix *dhvam*; *divaḥ* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171); *astoṣi* — the root *stu*, the Vedic *luṅ* (*chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6), the *ic* ending, *ṅit* …; *asurasya* — the root *asu kṣepaṇe*, the suffix *uran* by *aser uran*, and the initial acute by *ñnityādir nityam* [?] (Pā. Sū. 6-1-193); the genitive singular. (Only the sūtra names/numbers legible in the print are given; the OCR numerals agree with them except 8-3-6[0], where the OCR has "8-3-6".)
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 Ṛk 1 complete through printed p. 10 (PDF 31; the Ṛk 1 grammar page was just noted). Next: Ṛk 2 from printed p. 11 (PDF 32, Saṃhitā "sa paṭṭaḥ …" — to be read from the image). Printed page = PDF − 21. Open: `[?]` on several Ṛk-reference numerals pp. 7–9 (2-3?-?, 1-151-4, 2-27-10, 2-28-?, 2-2-4); the Śa. Brā. four-part reference on p. 8; Uṇ. Sū. 1-29 and Pā. 8-3-60 on p. 10 read with the OCR (see text).
