@@ -16137,4 +16137,72 @@ At the time of offering the oblation to Mitra and Varuṇa, their special qualit
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 written through p. 667 (Special Topics begun: entry *mṛḷayadbhyām* breaks off); resume p. 668 (PDF 689; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 668  (PDF 689)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+> क्षेत्रस्य पतिना वयं हितेनेव जयामसि । गामश्वं पोषयित्न्वा [?] स नो मृळातीदृशे ॥
+
+> *kṣetrasya patinā vayaṃ hiteneva jayāmasi | gām aśvaṃ poṣayitnv ā [?] sa no mṛḷātīdṛśe ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?], as read "೪-೫೭-೨" [?]; the second line is doubtful in several letters [?].) In this Ṛk, for the word *mṛḷāti* he explains [from Ni. 10-[?], as read "೧೦-೧೫" [?], *mṛḷatir dānakarmā*] "the root *mṛḷ* has the meaning 'to give'". "Rudra [also] is one who has a favourable mind in giving cows and the like", and —
+
+> क्षेत्रस्य पते मधुमन्तमूर्मिं धेनुरिव पयो अस्मासु धुक्ष्व ।
+> मधुश्चुतं घृतमिव सुपूतमृतस्य नः पतयो मृळयन्तु ॥
+
+> *kṣetrasya pate madhumantam ūrmiṃ dhenur iva payo asmāsu dhukṣva |*
+> *madhuścutaṃ ghṛtam iva supūtam ṛtasya naḥ patayo mṛḷayantu ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?], as read "೪-೫೭-೩" [?].) — in this Ṛk, the word *mṛḷayantu* is explained, with the explanation that "it means *mṛḷayatiḥ pūjākarmā* [?], i.e. 'to show favour', 'to worship', 'to protect'" (Ni. 10-[?], as read "೧೦-೧೪" [?]). Sāyaṇa too explains it in the second quoted Ṛk as *mṛḷayantu prayacchantu | mṛḷayatir atra dānakarmā*, "let them give; *mṛḷayati* is here a verb of giving". Therefore the root meaning of *mṛḷ* is "to give, worship, protect; to be gracious", and as the result of that the sense of happiness (*sukha*) follows in order. In the present Ṛk it means: Mitra and Varuṇa give rain and the like and make the sacrificer happy.
+
+***havyaṃ matim*** — two kinds of construction are made for this. The first: the word *havya* means "worshipful": "[bring] the worshipful thought [*mati*], the thought of giving to the gods"; and the second, the word *mati* meaning "worshipful": "bring the worshipful oblation".
+
+***ghṛtāsutī*** — *ghṛtam udakaṃ vṛṣṭilakṣaṇaṃ prasūyate yābhyāṃ tau*: "those by whom the water in the form of rain is brought forth" is the meaning. The author of the Nirukta included the word *ghṛta* among the names of water. After that —
+
+> ते आ ववृत्रन्नदनाद्वृतस्य [?] घृतेन पृथिवी व्युद्यते ।
+
+> *te ā vavṛtrann adanād vṛtasya [?] ghṛtena pṛthivī vy udyate |*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೬೪-೫೧" [?]; the quotation is doubtful [?].) — quoting this Ṛk he shows there the derivation: *ghṛtam ity udakanāma jigharter secanakarmaṇaḥ* (Ni. 7-[?]) — "from the root *ghṛ*, giving the sense of sprinkling". How Mitra and Varuṇa are the cause of rain, is described in the Śatapatha Brāhmaṇa in this way:
+
+> स यदि वृष्टिकामः स्यात् … मित्रावरुणौ त्वा वृष्ट्यावतामिति तद्यो वर्षिष्यन्भवति स त्वा वृष्ट्यावत्विति [?] एतदाहायं वै वर्षिष्यन्भवति योऽयं पवते सोऽयमेकैवेव पवते सोऽयं पुरुषे प्रविष्टः प्राङ्च प्रत्यङ्च तानिमौ प्राणोदानौ प्राणोदानौ वै मित्रावरुणौ तद्य एव वर्षिष्यन्भवति स त्वा वृष्ट्यावत्विति [?] तमेतेनैवाध्वरीते [?] यदा हैव कदा च वृष्टिः समिवा [?] ।
+
+> *sa yadi vṛṣṭikāmaḥ syāt … mitrāvaruṇau tvā vṛṣṭyāvatām iti tad yo varṣiṣyan bhavati sa tvā vṛṣṭyāvatv iti [?] etad āhāyaṃ vai varṣiṣyan bhavati yo 'yaṃ pavate so 'yam ekaiveva pavate so 'yaṃ puruṣe praviṣṭaḥ prāṅ ca pratyaṅ ca tān imau prāṇodānau prāṇodānau vai mitrāvaruṇau tad ya eva varṣiṣyan bhavati sa tvā vṛṣṭyāvatv iti [?] tam etenaivādhvarīte [?] yadā haiva kadā ca vṛṣṭiḥ samivā [?] |*
+
+### Printed p. 669  (PDF 690)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> … तमेवैतेनैवादीते [?] यदा हैव कदा च वृष्टिः समिवैतं तमनक्त्यार्द्रामेवैतत्कृत्वा [?] आहुतिर्भूत्वा देवलोकं गच्छादिति ॥
+
+> *… tam evaitenaivādīte [?] yadā haiva kadā ca vṛṣṭiḥ samivaitaṃ tam anakty ārdrām evaitat kṛtvā [?] āhutir bhūtvā devalokaṃ gacchād iti ‖*
+
+(Śa. Brā. 1-[?]-[?]-[?], as read "೧-೮-೩-೧೩" [?]; this small-type passage is read from the image and is badly doubtful in the second half [?]; the sense is as the Kannada gives.) *Kannada sense:* In the *anuyāja*-section, in the *sūktavāka* and the like, this part is said in praise of Mitra and Varuṇa. He who desires rain should hold the *prastara* [bunch of *darbha*] reciting "*mitrāvaruṇau tvā vṛṣṭyāvatām*" ("may Mitra and Varuṇa protect you with rain"). The wind in the *antarikṣa* is the deity of rain. When this wind moves in the *antarikṣa* it is one form; when it enters man it takes two forms, *prāṇa* and *udāna*. Mitra and Varuṇa are these *prāṇa* and *udāna*; therefore he who wants rain should hold the *prastara* with the mantra "*sa tvā vṛṣṭyāvatu*" — thus the matter that Mitra and Varuṇa are the causes of rain is understood.
+
+> आधारयतं पृथिवीमुत द्यां मित्रराजाना वरुणा महोभिः ।
+> वर्धयतमोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू ॥
+
+> *ādhārayatam pṛthivīm uta dyāṃ mitrarājānā varuṇā mahobhiḥ |*
+> *vardhayatam oṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?], as read "೫-೬೩-೩" [?].) Mitra and Varuṇa, by their splendid power, produce rain, and thereby support heaven and earth; they make the plants grow: so, by many such Ṛks, the quality described may be known from the present Ṛk's epithet *ghṛtāsutī*. Sāyaṇa quotes the sentence of the Taittirīya Saṃhitā:
+
+> अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षति ।
+
+> *ahorātre vai mitrāvaruṇāv ahorātrābhyāṃ khalu vai parjanyo varṣati |*
+
+(Tai. Saṃ. 2-[?]-[?]-[?], as read "೨-೧-೭-೩" [?].) and explains the epithet *ghṛtāsutī* by this statement that Parjanya gives rain through Mitra and Varuṇa, who are of the nature of day and night.
+
+***enoḥ kṣatraṃ devatvaṃ na ādhṛṣe*** — "the power and divinity of these two, Mitra and Varuṇa, none can overcome": thus their greatness is described.
+
+> या धर्तारा रजसो रोचनस्योतादित्या दिव्या पार्थिवस्य ।
+> न वां देवा अमृता आ मिनन्ति व्रतानि मित्रावरुणा ध्रुवाणि ॥
+
+> *yā dhartārā rajaso rocanasyotādityā divyā pārthivasya |*
+> *na vāṃ devā amṛtā ā minanti vratāni mitrāvaruṇā dhruvāṇi ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?], as read "೫-೬೯-೪" [?].) As the praise says in many places — that Mitra and Varuṇa, holding the heavens, the earth, the radiant [regions] and so on with their firm commands, cannot be opposed even by the immortal gods — that power is described here also.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 written through p. 669 (Special Topics: *mṛḷayadbhyām*, *havyaṃ matim*, *ghṛtāsutī*, *enoḥ kṣatram* done; more entries and the grammar follow); resume p. 670 (PDF 691; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
