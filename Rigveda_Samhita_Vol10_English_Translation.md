@@ -8024,4 +8024,124 @@ In this Ṛk the word *ajara* is said twice. For the first *ajara* the meaning "
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 316 (PDF 337): Ṛks 1–10 complete (‖ 10 ‖); resume p. 317 (PDF 338) with Ṛk 11 (last Ṛk, Atidhṛti) and the closing Kannada line; then Sūkta 128 (p. 321). Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 (esp. pp. 309–315 quotations); Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–316.
+### Printed p. 317  (PDF 338)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14 [as read: "೧೪"].)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> स नो नेदिष्ठं दद्दृशान आ भराग्ने देवेभिः सचनाः सुचेतुना ।
+> महो रायः सुचेतुना ।
+> महि शविष्ठ नस्कृधि संचक्षे भुजे अस्यै ।
+> महि स्तोतृभ्यो मघवन्त्सुवीर्यं मथीरुग्रो न शवसा ॥ ११ ॥
+
+> *sa no nediṣṭhaṃ daddṛśāna ā bharāgne devebhiḥ sacanāḥ sucetunā |*
+> *maho rāyaḥ sucetunā |*
+> *mahi śaviṣṭha naskṛdhi saṃcakṣe bhuje asyai |*
+> *mahi stotṛbhyo maghavantsuvīryaṃ mathīrugro na śavasā ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । नः । नेदिष्ठम् । ददृशानः । आ । भर । अग्ने । देवेभिः । सऽचनाः । सुऽचेतुना ।
+> महः । रायः । सुऽचेतुना ।
+> महि । शविष्ठ । नः । कृधि । सम्ऽचक्षे । भुजे । अस्यै ।
+> महि । स्तोतृऽभ्यः । मघऽवन् । सुऽवीर्यम् । मथीः । उग्रः । न । शवसा ॥ ११ ॥
+
+> *saḥ | naḥ | nediṣṭham | dadṛśānaḥ | ā | bhara | agne | devebhiḥ | sa 'canāḥ | su 'cetunā |*
+> *mahaḥ | rāyaḥ | su 'cetunā |*
+> *mahi | śaviṣṭha | naḥ | kṛdhi | sam 'cakṣe | bhuje | asyai |*
+> *mahi | stotṛ 'bhyaḥ | magha 'van | su 'vīryam | mathīḥ | ugraḥ | na | śavasā ‖ 11 ‖*
+
+*(Read from the image. The Saṃhitā prints *dadṛśāna* with a long *ā* and *astyai* "asyai"; in the Pada *nediṣṭham* … *dadṛśānaḥ*. The OCR's reading of the Saṃhitā is garbled and was used only as a check.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने स त्वं नो नेदिष्ठमत्यन्तसमीपे दद्दृशानो वेद्यां दीप्तत्वेन दृश्यमानो देवेभिः सचना इतरदेवैः समानान्नः । अग्निमुखेनैव तेषां हविःस्वीकारात्समानान्नस्त्वं । सुचेतुना शोभनेन चेतनेन चेतसा वा । पुनस्तदेव विशेष्यते । सुचेतुना शोभनचेतोवता मया ॥ औणादिक उः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं ॥ युक्तेन । त्वदीये मय्यनुग्रहयुक्तेनेत्यर्थः । तादृशस्त्वं महः पूजनीयानि रायो धनान्या भर । अस्माकमाहर । हे अग्ने शविष्ठ बलवत्तम नोऽस्मभ्यं महि महदन्नं महतीं कीर्तिं वा कृधि । कुरु । सम्पादय । शविष्ठेति सम्बोधितत्वात्तद्देव प्रार्थ्यत इति गम्यते । किमर्थं । संचक्षे सम्यग्दर्शनीयाय अस्मा अस्याः पृथिव्याः सम्बन्धिने
+
+> *he agne sa tvaṃ no nediṣṭhamatyantasamīpe daddṛśāno vedyāṃ dīptatvena dṛśyamāno devebhiḥ sacanā itaradevaiḥ samānānnaḥ | agnimukhenaiva teṣāṃ haviḥsvīkārātsamānānnastvaṃ | sucetunā śobhanena cetanena cetasā vā | punastadeva viśeṣyate | sucetunā śobhanacetovatā mayā ‖ auṇādika uḥ | bahuvrīhau nañsubhyāmityuttarapadāntodāttatvaṃ ‖ yuktena | tvadīye mayyanugrahayuktenetyarthaḥ | tādṛśastvaṃ mahaḥ pūjanīyāni rāyo dhanānyā bhara | asmākamāhara | he agne śaviṣṭha balavattama no 'smabhyaṃ mahi mahadannaṃ mahatīṃ kīrtiṃ vā kṛdhi | kuru | sampādaya | śaviṣṭheti sambodhitatvāttaddeva prārthyata iti gamyate | kimarthaṃ | saṃcakṣe samyagdarśanīyāya asmā asyāḥ pṛthivyāḥ sambandhine*
+
+*(Read from the image: the small-type sentence continues at the head of p. 318. A few letters are doubtful: "*cetasā vā*", "*tadeva prārthyata*" [?].)*
+
+### Printed p. 318  (PDF 339)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+> भोगायेत्यर्थः । न केवलं यजमानेभ्योऽस्मभ्यमेव अपि तु स्तोतृभ्यः स्तोत्रकर्तृभ्योऽपि हे मघवन्नन्नवन्नग्ने सुवीर्यं शोभनपुत्रभृत्याद्युपेतं धनं शोभनसामर्थ्यं वा कृधि । कुरु । किंच शवसा बलेन युक्तः सन् मथीः । अस्मद्विरोधिनो नाशय ॥ लुङ्यनुदात्तेनेति वृद्धिप्रतिषेधः । कारकपक्षे औणादिक ईकारः । आद्युदात्तश्छान्दसः ॥ यद्वा । मथीर्मथनवानस्मदर्थं शवसा बलेन युक्तो भवेति शेषः । तत्र दृष्टान्तः । उग्रो न शवसा । यथा कश्चित् क्रूरः शवसा बलेन मथीर्भवति तद्वत् ॥
+
+> *bhogāyetyarthaḥ | na kevalaṃ yajamānebhyo 'smabhyameva api tu stotṛbhyaḥ stotrakartṛbhyo 'pi he maghavannannavannagne suvīryaṃ śobhanaputrabhṛtyādyupetaṃ dhanaṃ śobhanasāmarthyaṃ vā kṛdhi | kuru | kiṃca śavasā balena yuktaḥ san mathīḥ | asmadvirodhino nāśaya ‖ luṅyanudātteneti vṛddhipratiṣedhaḥ | kārakapakṣe auṇādika īkāraḥ | ādyudāttaśchāndasaḥ ‖ yadvā | mathīrmathanavānasmadarthaṃ śavasā balena yukto bhaveti śeṣaḥ | tatra dṛṣṭāntaḥ | ugro na śavasā | yathā kaścit krūraḥ śavasā balena mathīrbhavati tadvat ‖*
+
+*(Read from the image; the first line begins "भोगायेत्यर्थः" — the continuation of the sentence at the foot of p. 317. "*aṣṭāpada*" etc. are not here. A few letters ("*lupaṅyanudāttena*" / *luṅy anudāttena*) are doubtful [?].)* Sense: "…for enjoyment (*bhoga*) of this earth. And not only to us, the sacrificers, but also to the praisers: O *maghavan* (owner of food), Agni, make [for them] wealth with good heroism, endowed with good sons, servants and so on, or good ability. And further, being filled with strength, *mathīḥ* — destroy our enemies. [Grammar: in the aorist, because of the unaccented ending the *vṛddhi* is forbidden; in the agent-sense the Uṇādi *ī*; the accent on the first syllable is Vedic.] Or: *mathīḥ* is "the churner" — "be, for us, one that is possessed of strength": the example *ugro na śavasā* — "as a fierce man, by strength, is a crusher (*mathī*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *agne* — O Agni; *saḥ* — you; *naḥ* — to us; *nediṣṭham* — very near; *dadṛśānaḥ* — visible; *devebhiḥ* — with the other gods; *sacanāḥ* — one who has the same food (who accepts food equally with them); *mahaḥ* — great; *rāyaḥ* — wealth; *sucetunā* — with a pure mind; *naḥ* — for us; *ā bhara* — bring; *śaviṣṭha* — O strongest Agni; *naḥ* — for us; *mahi* — great glory (wealth); *kṛdhi* — make; *saṃcakṣe* — to see well (and); *asyai bhuje* — for the enjoyment (of this earth); *kṛdhi* — make; *stotṛbhyaḥ* — to your praisers (the Udgātṛs etc.); *maghavan* — O Agni, owner of food; *mahi* — great; *suvīryam* — wealth with good sons etc.; *(kṛdhi* — grant); *śavasā* — with strength; *ugraḥ na* — like a fierce man; *mathīḥ* — destroy our enemies.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Agni, shining visibly very near to us and, like the other gods, accepting oblations, give us — pure-minded — excellent wealth with a good mind; O mighty one, bring us great glory (food) for the enjoyments of this earth and so that we may be seen splendidly, (not for us only) — you, rich in food, give wealth with sons and the like to these praisers too; and with your strength, like a fierce man, destroy our enemies.
+
+**Printed English (as printed, begins on p. 318):** *"Agni, becoming visible close to us, and partaking with benignant intent of (the sacrificial) food along with the gods, bestow upon us abundant riches, with benignant intent. Most mighty Agni, render us*
+
+### Printed p. 319  (PDF 340)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**Printed English (continued):** *"…illustrious, that we may behold and enjoy (this earth); and grant greatness with excellent progeny to those who praise you, possessor of wealth, destroyer of foes, like a fierce (gaint) [sic] in strength."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 11).**
+
+***dadṛśānaḥ*** — *vedyāṃ dīptatvena dṛśyamānaḥ*: "Agni appears on the sacrificial altar, bright with his own flames": so the meaning.
+
+***devebhiḥ sacanāḥ*** — *itaradevaiḥ samānānnaḥ*: because the shares of the oblation are offered to all the other gods through Agni, he has the same food as those gods: so the meaning.
+
+The word ***sucetunā*** is used twice here. For the first *sucetunā* two kinds of meaning are given: "by excellent knowledge" or "by excellent mind"; for the second *sucetunā*, "one who has a good mind."
+
+***mahi*** — *mahad annaṃ mahatīṃ kīrtiṃ vā*: "may Agni grant abundant food and abundant fame": so Agni is prayed. *śaviṣṭha* — Agni is addressed as "strong"; that, too, is a prayer that Agni should give strength.
+
+***saṃcakṣe bhuje asyai*** — *samyag darśanīyāya | asyāḥ pṛthivyāḥ sambandhine bhogāya | yadvā | saṃcakṣe bhuje iti sāmānādhikaraṇyaṃ samyagdarśanīyāya bhogāya*: "that we may be seen as splendid in the world, and that we may enjoy the enjoyment to be had on this earth: so Agni is prayed to grant it to us, who perform the sacrifice."
+
+***suvīryaṃ kṛdhi*** — *śobhanaputrabhṛtyādyupetaṃ dhanaṃ śobhanasāmarthyaṃ vā kuru*: Agni is prayed that wealth be granted to us who sacrifice and to those who praise him, with good sons, and with male and female servants.
+
+***mathīr ugro na śavasā*** — repeating the words *śavasā* and *mathīḥ* of this clause: *śavasā mathīḥ balena yuktas san asmadvirodhino nāśaya*: "being filled with strength, destroy our enemies": so the meaning. Or —
+
+> मथीर्मथनवान्स्यस्मदर्थं शवसा बलेन युक्तो भव । यथा कश्चित् क्रूरः शवसा बलेन मथीर्भवति तद्वत् ।
+
+> *mathīr mathanavān syasmadarthaṃ śavasā balena yukto bhava | yathā kaścit krūraḥ śavasā balena mathīr bhavati tadvat |*
+
+*(Read from the image; the word *syasmad-* is as printed [sic?] and doubtful: [?].)*
+
+### Printed p. 320  (PDF 341)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+(Continuing:) "…born by churning in the *araṇis*, be strong for us who sacrifice": thus he explains; and the example is given — as a cruel man by his own strength subdues others, so Agni too must be endowed with strength that destroys enemies.
+
+***śavasā*** — *balena*: "by strength". The word *śavas* is recorded among the names of water (Ni. 1-[?]; as printed "೧-೩೪"?) and among the names of strength (Ni. 2-9 [?]; OCR "२-२४" and "३९" — doubtful). And in the Ṛks 1-[?]-[?], 1-[?]-[?], 1-[?]-[?], 1-[?]-[?] and others (the numerals are small and I cannot read them reliably; the OCR gives "१-२७-२, १-३९-८, १-५१-४, १-२-१०" [?]) it is used in the sense of "strength".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 11; grammar pages, noted briefly; numbers as read by the OCR).** *nediṣṭham* — in the sense of excess the suffix *iṣṭhan* after *antika*; when it follows, by *antikabāḍhayor nedasādhau* (Pā. 5-3-63) the base is replaced by *neda*; by *yasyeti ca* the *a* is elided; the acute on the first syllable since the suffix has the marker *n*. *dadṛśānaḥ* — root *dṛśir prekṣaṇe*; the Vedic *liṭ*; by *liṭaḥ kānajvā* (Pā. 3-2-106 [?]) the substitute *kānac*; because of it the root is doubled; by *vyatyaya* the acute on the first syllable. *bhara* — root *hṛñ haraṇe*; loṭ second person singular; *gṛhor bhaś chandasi* gives *bh* for the *h* of the root; *tiṅ-nighāta*. *devebhiḥ* — *bahulaṃ chandasi*: no *ais*; by *bahuvacane jhaly et* (Pā. 7-3-103) the *e*. *sucetunā* — root *citī saṃjñāne*; Uṇādi *tun*; guṇa of the short penult because of it; *śobhanaś cetur yasya saḥ*, *sucetunā*; *nañsubhyām* (Pā. 6-2-172) gives the acute on the last syllable of the latter member. *mahaḥ* — root *maha pūjāyām*, *kvip*; accusative plural. *rāyaḥ* — *udāttaṃ padādi* [as read: *ṛdidam padādi* — doubtful, Pā. 6-1-171]; the acute on the ending. *mahi* — root *maha pūjāyām*; Uṇādi *in*; since *n*-marked the acute on the first syllable. *śaviṣṭha* — *śavo 'syāsti iti śavasvī*; *atiśayena śavasvī śaviṣṭhaḥ*; *ā māyām* [as read: *āsmāyāmedhā*… Pā. 5-2-121] gives *vin*; with *iṣṭhan* following, *vinmatorluk* (Pā. 5-3-65) drops it (*luk*); *ṭeḥ* (Pā. 6-4-155) drops the *ṭi* (*as*); in the vocative *āmantritasya ca* (Pā. 8-1-19) gives *nighāta*.
+
+### Printed p. 321  (PDF 342)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14 [as read].)*
+
+*(Grammar, continued.)* *kṛdhi* — root *ḍukṛñ karaṇe*; loṭ second person singular, *sip*; its *hi* substitute; by *bahulaṃ chandasi* the *luk* of the *vikaraṇa*; by *śruśṛṇupṛkṛvṛbhyaś chandasi* (Pā. 6-4-102) *hi* becomes *dhi*; being *ṅit*... (as printed "ಜಿತ್ತಾದುದರಿಂದ": since marked *j* [?]) no guṇa; *tiṅ-nighāta*. *saṃcakṣe* — root *cakṣiṅ vyaktāyāṃ vāci*; *kvip*; here the root is used in the sense of seeing; *kṛduttarapadaprakṛtisvara*; dative singular. *mathīḥ* — root *mantha viloḍane*; Vedic *luṅ* in the sense of *loṭ*; second person singular; if it be taken as a noun, the Uṇādi *ī* for it; the Vedic acute on the first syllable. ‖ 11 ‖
+
+Here ends the 127th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತೇಳನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 128 — *ayaṃ jāyata* (begins on printed p. 321; Anuvāka 19, second Sūkta)
+
+### Printed p. 321  (PDF 342, lower part)
+
+**ನೂರ ಇಪ್ಪತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು — Nūra ippatteṃṭaneya sūktavu** (the one hundred and twenty-eighth Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; several letters doubtful [?]).**
+
+> अयं जायेत्यष्टर्चं द्वितीयं सूक्तम् । अयं जायताष्टावित्यनुक्रमणिका । परुच्छेप ऋषिः । सर्वमात्यष्टमित्युक्तत्वादत्यष्टिश्छन्दः [?] । आग्नेयं स्थिति तुशब्दस्योक्तत्वादिदमप्याग्नेयम् । पृष्ठ्यस्य षष्ठेऽहन्याज्यशस्त्रेण विनियुक्तम् । सूत्रितं च पृष्ठ्यस्येति खण्डे । अयं जायत मनुषो धरीमणीत्याज्यमिति ॥ आ. ८-१ [?]
+
+> *ayaṃ jāyetyaṣṭarcaṃ dvitīyaṃ sūktam | ayaṃ jāyatāṣṭāvityanukramaṇikā | parucchepa ṛṣiḥ | sarvamātyaṣṭamityuktatvādatyaṣṭiśchandaḥ [?] | āgneyaṃ sthiti tuśabdasyoktatvādidamapyāgneyam | pṛṣṭhyasya ṣaṣṭhe 'hanyājyaśastreṇa viniyuktam | sūtritaṃ ca pṛṣṭhyasyeti khaṇḍe | ayaṃ jāyata manuṣo dharīmaṇītyājyamiti ‖ ā. 8-1 [?]*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *ayaṃ jāyata* is the second Sūkta in the nineteenth Anuvāka. In it there are eight ṛks; the Anukramaṇikā says "*ayaṃ jāyatāṣṭau*". The ṛṣi of this Sūkta is Paruccheṣa. Since it is said that all the Sūktas seen by this ṛṣi are in the Atyaṣṭi metre, the metre of this Sūkta too is Atyaṣṭi. Because the word *tu* is used earlier ("*āgneyaṃ tu*"), the deity of this Sūkta too is Agni. On the sixth day of the *pṛṣṭhya* ṣaḍaha this Sūkta is to be recited among the mantras of the *ājya-śastra*, as explained in the Āśvalāyana-śrauta-sūtra in the section (*khaṇḍa*) beginning "*pṛṣṭhyasya*" — by the sūtra *ayaṃ jāyata manuṣo dharīmaṇīty ājyam* (Āś. 8-1 [?]).
+
+---
+
+**Progress note:** Sūkta 127 complete (printed pp. 249–321). Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) begun: heading and Sanskrit/Kannada introduction at the foot of p. 321 done; resume at head of p. 322 (PDF 343) with the remaining introduction (if any) and Ṛk 1. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–321.
