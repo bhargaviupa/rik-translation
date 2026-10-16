@@ -8538,4 +8538,104 @@ The Niruktakāra explains the word *akṣa* — *aśnoter ity eke* ("some say fr
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 336 (PDF 357): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā…English done, Special Topics begun (through the *akṣa* quotations at the foot of p. 336); resume p. 337 (PDF 358) with the rest of the Ṛk 3 Special Topics and the grammar. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and the quotations on pp. 333, 336; OCR reference-number lines missing for pp. 249–336.
+### Printed p. 337  (PDF 358)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+*(Continuing the *akṣa* quotations of p. 336:)*
+
+> अनूपे गोमान् गोभिरक्षाः सोमो दुग्धाभिरक्षाः ।
+
+> *anūpe gomān gobhir akṣāḥ somo dugdhābhir akṣāḥ |*
+
+(Ṛ. Saṃ. 9-107-9, as printed "೯-೧೦೭-೯".)
+
+> न यस्य द्यावापृथिवी न धन्व नान्तरिक्षं नाद्रयः सोमो अक्षाः । [?]
+
+> *na yasya dyāvāpṛthivī na dhanva nāntarikṣaṃ nādrayaḥ somo akṣāḥ [?]*
+
+(Ṛ. Saṃ. 10-94-6 [?], as read "೧೦-೯೪-೬"; the text of the line is as read and doubtful.) These Ṛks he gives as illustrations; and he explains another meaning of *akṣa* by "*akṣāḥ — aśnuvate etān iti vā abhyaśnuvate ebhir iti vā*" ("because people pervade them, or because with them people pervade [the stakes of others]"). Durgācārya: "*dīvyantaḥ kitavāḥ etān akṣān pāṇibhiḥ aśnuvate | abhyaśnuvate ebhiḥ kitavāḥ pratikitavaṃ dhanam*": the gamblers cast these dice with their hands while playing; or with them they take hold of another's wealth and make it their own; hence the word *akṣa* means the "instrument" (material) of gamblers.
+
+***vaneṣu*** — *sambhajanīyeṣu*: "*vanaṃ vanoteḥ*" (Ni. 9-4 [?]): since the word *vana* is formed from the root *vanu* of the sense "to worship", Sāyaṇa too explains the same meaning. But in
+
+> नि यद्वृणक्षि श्वसनस्य मूर्धनि शुष्णस्य चिद्ब्रन्दिनो रोरुवद्वना ।
+> प्राचीनेन मनसा बर्हणावता यदद्या चित्कृणवः कस्त्वा परि ॥
+
+> *ni yad vṛṇakṣi śvasanasya mūrdhani śuṣṇasya cid brandino roruvad vanā |*
+> *prācīnena manasā barhaṇāvatā yad adyā cit kṛṇavaḥ kas tvā pari ‖*
+
+(Ṛ. Saṃ. 1-54-3, as printed.) — Yāska says that *vanāni* is used in another sense: "waters", or, as *vanāni*, "by the striking of the cloud".
+
+***turvaṇiḥ*** — *śīghragantā śatrūṇāṃ hiṃsako vā*: "one who goes quickly, or who destroys enemies": Agni is described as endowed with these qualities. —
+
+> स तुर्वणिर्महाँ अरेणु पौंस्ये गिरेर्भृष्टिर्न भ्राजते तुजा शवः ।
+> येन शुष्णं मायिनमायसो मदे दुध्र आभूषु रामयन्नि दामनि ॥
+
+> *sa turvaṇir mahām̐ areṇu pauṃsye girer bhṛṣṭir na bhrājate tujā śavaḥ |*
+> *yena śuṣṇaṃ māyinam āyaso made dudhra ābhūṣu rāmayan ni dāmani ‖*
+
+(Ṛ. Saṃ. 1-56-3, as printed.) Here Durgācārya explains the word *turvaṇi* as "*tūrṇaṃ hi yaḥ sambhajate sa tūrṇavanitā sa tūrṇavanir ity uktaḥ*" ("who quickly gets, and is called *tūrṇavani*"). Yāska too, "*turvaṇis tūrṇavaniḥ*" (Ni. 6-14 [?]), has explained as Sāyaṇa does.
+
+***sānuṣu*** — *samucchritesu*: "in the high place". —
+
+> इयं शुष्मेभिर्बिसखा इवारुजत् सानु गिरीणां तविषेभिरूर्मिभिः ।
+> पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेमधीतिभिः ॥
+
+> *iyaṃ śuṣmebhir bisakhā ivārujat sānu girīṇāṃ taviṣebhir ūrmibhiḥ |*
+> *pārāvataghnīm avase suvṛktibhiḥ sarasvatīm ā vivāsema dhītibhiḥ ‖*
+
+(The Ṛk stands at the foot of p. 337 and runs over to p. 338; the reference is not printed with it; letters read as printed. Readings *iyaṃ…bisakhā* are doubtful: [?].)
+
+### Printed p. 338  (PDF 359)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+Yāska explains the word *sānu* in this Ṛk: *sānu samucchritaṃ bhavati samunnunnam iti vā* (Ni. 2-21 [?]). Durgācārya: "*sānu samastaṃ hi tad ucchritaṃ bhavati*" — "high ground is called *sānu* because it is *samam ūrdhvaṃ nunnam*, i.e. pushed upward evenly."
+
+***upareṣu*** — *upāramante [?] eṣv iti upārāḥ tiṣṭhyāḥ [?] yajamānagṛhā vā*: "the places where Agni sits at ease at the sacrifice, the altars, or the houses of the sacrificers". The word *upara* is recorded among the eight names of the quarters (Ni. 2-16 [?]; as read "೨-೧೬") and among the names of cloud (Ni. 3-21 [?]). The meaning: Agni is established in high altars of sacrifice and in the houses of the sacrificers.
+
+***pareṣu sānuṣu*** — *utkṛṣṭeṣu samucchriteṣu karmasu haviḥṣu vā nimittabhūteṣu*. In this Ṛk the word *sānuṣu* is said twice. The one is said as a specification of the word *upara*. For the second *sānuṣu* it is explained that Agni takes his seat on the altar at the time of exalted rites or exalted oblations.
+
+***sadaḥ*** — *sthānam* — a comfortable place. The word *sadas* is recorded as *sadasī* among the names of heaven and earth (Ni. 3-30 [?]); Sāyaṇa gives the sense "place".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; numbers as read from the page).** *evena* — root *iṇ gatau*; *iṇ śībhyāṃ van* (Uṇ. 1-150 [?]) gives *van*; because of it guṇa of the root; *jñitsvarādir nityam* (Pā. 6-1-197) the acute on the first syllable; instrumental singular. *eti* — the same root, *laṭ* third person singular; *tiṅ-nighāta*. *pārthivam* — *pṛthivyā idam*; *pṛthivyā añ* [as read: *pṛthivyā ñāñau*] gives *añ*; *taddhiteṣv acām ādeḥ* gives *vṛddhi* of the first syllable; *yasyeti ca* drops *ī*; the *ñ*-marker gives the acute on the first syllable. *muhurgīḥ* — *gṝ nigaraṇe*; when *muhuḥ* is the *upapada*, *kvip ca* gives *kvip*; *ṛta id dhātoḥ* gives *i* to the root; the nominative singular, *rvor upadhāyāḥ* gives lengthening of the penult; *kṛd-uttarapadaprakṛtisvara*. *retaḥ* — root *rīṅ śleṣaṇe*; *surībhyāṃ tuṭ ca* (Uṇ. 4-[?]) gives *asun* with the augment *tuṭ*; acute on the first syllable. *dadhat* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śatṛ* in the present sense; by *nābhyastācchatuḥ* no *num*; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the acute on the first syllable. *cakṣāṇaḥ* — root *cakṣiṅ vyaktāyāṃ vāci*, *adādi*; here used in the sense of light; *śānac* in the present sense; because *śānac* is unaccented (*lasārvadhātuka*) the root's accent remains. *upareṣu* — *upaviramante eṣu iti upārāḥ*; root *ramu krīḍāyām*; *anyebhyo 'pi dṛśyate* gives *ḍa*; since *ḍ*-marked the *ṭi* (*ām*) is dropped; locative plural. ‖ 3 ‖
+
+### Printed p. 339  (PDF 360)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read: "೧೫"].)*
+
+*(The grammar entries for *retaḥ*, *dadhat*, *cakṣāṇaḥ* and *upareṣu* of the preceding paragraph stand on this page, at its head; they are recorded above.)*
+
+***(ornamental rule)***
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> स सुक्रतुः पुरोहितो दमेदमेऽग्निर्यज्ञस्याध्वरस्य चेतति ।
+> क्रत्वा यज्ञस्य चेतति ।
+> क्रत्वा वेधा इषूयते विश्वा जातानि पस्पशे ।
+> यतो घृतश्रीरतिथिरजायत वह्निर्वेधा अजायत ॥ ४ ॥
+
+> *sa sukratuḥ purohito damedame 'gniryajñasyādhvarasya cetati |*
+> *kratvā yajñasya cetati |*
+> *kratvā vedhā iṣūyate viśvā jātāni paspaśe |*
+> *yato ghṛtaśrīratithirajāyata vahnirvedhā ajāyata ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । सुऽक्रतुः । पुरःऽहितः । दमेऽदमे । अग्निः । यज्ञस्य । अध्वरस्य । चेतति ।
+> क्रत्वा । यज्ञस्य । चेतति ।
+> क्रत्वा । वेधाः । इषुऽयते । विश्वा । जातानि । पस्पशे ।
+> यतः । घृतऽश्रीः । अतिथिः । अजायत । वह्निः । वेधाः । अजायत ॥ ४ ॥
+
+> *saḥ | su 'kratuḥ | puraḥ 'hitaḥ | dame 'dame | agniḥ | yajñasya | adhvarasya | cetati |*
+> *kratvā | yajñasya | cetati |*
+> *kratvā | vedhāḥ | iṣu 'yate | viśvā | jātāni | paspaśe |*
+> *yataḥ | ghṛta 'śrīḥ | atithiḥ | ajāyata | vahniḥ | vedhāḥ | ajāyata ‖ 4 ‖*
+
+*(Read from the image: *dame-dame*, *yajñasya*, *adhvarasya*, *cetati*; *iṣu-yate*; *pas-paśe*; *ghṛta-śrīḥ*.)*
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 339 (PDF 360): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā/Pada done; resume p. 340 (PDF 361) with the Ṛk 4 bhāṣya. Page images PDF 261–360 are in scratchpad w10b/; PDF 361–400 are being cropped into w10c/ (check; otherwise `python3 publish/tools/pageprep/crop_pages.py Rig_Vol10.pdf 361 400 $S/w10c --dpi 150`). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338; OCR reference-number lines missing for pp. 249–339.
