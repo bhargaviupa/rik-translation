@@ -4219,4 +4219,166 @@ Then he explains the third simile, *jāyeva patye kāmayamānā suvāsā ṛtuk�
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 164 (PDF 185): Ṛk 7 complete (‖ 7 ‖); Ṛk 8 Saṃhitā only (as read, partly doubtful); resume p. 165 (PDF 186) with Ṛk 8 Pada-pāṭha.
+### Printed p. 165  (PDF 186)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+**॥ पदपाठः ॥** *(Ṛk 8)*
+
+> स्वसा । स्वस्रे । ज्यायस्यै । योनिम् । आ । अरैक् । अप । एति । अस्याः । प्रतिऽचक्ष्याऽइव ।
+> विऽउच्छन्ती । रश्मिऽभिः । सूर्यस्य । अञ्जि । अङ्क्ते । समनऽगाःऽइव । व्राः ॥ ८ ॥
+
+> *svasā | svasre | jyāyasyai | yonim | ā | araik | apa | eti | asyāḥ | prati 'cakṣyā 'iva |*
+> *vi 'ucchantī | raśmi 'bhiḥ | sūryasya | añji | aṅkte | samana 'gāḥ 'iva | vrāḥ ‖ 8 ‖*
+
+*(The Pada confirms the reading of the Saṃhitā given on p. 164: "…yonim ā airak apa eti asyāḥ…" — the Saṃhitā words "yonimāraigapaityasyāḥ" are *yonim* + *āraik* + *apa* + *eti* + *asyāḥ*, so the doubtful marks in the Saṃhitā of p. 164 resolve.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> एकस्मादेवान्तरिक्षादुत्पन्नत्वात्परस्परं स्वसृभावः । तथा ह्युषसः प्राथम्यात्तेजस्वित्वाच्च ज्यायस्त्वम् । स्वयमेव सरतीति वा स्वसा । रात्रिः स्वस्रे ज्यायस्यै उक्तरीत्या ज्येष्ठायै उषसे योनिमुत्पत्तिस्थानमपररात्ररूपमारैक् । आरिचत् । प्रादात् । प्ररेचयतीत्यर्थः । तथा च पूर्वत्रामात् । रात्र्युषसे योनिमारैक् । ऋ. १-११३-१ । इति । दत्त्वा चास्या उत्पन्नाया उषसः प्रतिचक्ष्येव ज्ञापयित्वेव स्वयमपैत्येव गच्छति । ज्यायस्यागतायां तस्यै स्वस्थानं दत्त्वा स्वयं तत्र स्थातुमनुचितमिति विज्ञायैवापगच्छतीति भावः । एवमुत्पन्नैषा सूर्यस्य रश्मिभिर्व्युच्छन्ती तमो विवासयन्त्यञ्जि व्यञ्जकं तेजः । यद्वा । अञ्जि व्यक्तं जगत् । अङ्क्ते । अनक्ति । प्रकाशयति । किमिव । समनगा इव । सम्यगननहेतवो [?] आपः समनाः । ता गच्छन्तीति समनगा विद्युतः । व्रा व्रातः । विद्युत्संघा इव । यद्वा । सम्यग्गमनाय गच्छन्तीति समनगाः सूर्यरश्मयः । ते इव व्राः व्रातः संघीभूताः । ते यथाञ्जते जगत्प्रकाशयन्ति तथेत्यर्थः । व्राता इत्यत्र तकारलोपश्छान्दसः ॥
+
+> *ekasmādevāntarikṣādutpannatvātparasparaṃ svasṛbhāvaḥ | tathā hyuṣasaḥ prāthamyāttejasvitvācca jyāyastvam | svayameva saratīti vā svasā | rātriḥ svasre jyāyasyai uktarītyā jyeṣṭhāyai uṣase yonimutpattisthānamapararātrarūpamāraik | āricat | prādāt | prarecayatītyarthaḥ | tathā ca pūrvatrāmāt | rātryuṣase yonimāraik | ṛ. 1-113-1 | iti | dattvā cāsyā utpannāyā uṣasaḥ praticakṣyeva jñāpayitveva svayamapaityeva gacchati | jyāyasyāgatāyāṃ tasyai svasthānaṃ dattvā svayaṃ tatra sthātumanucitamiti vijñāyaivāpagacchatīti bhāvaḥ | evamutpannaiṣā sūryasya raśmibhirvyucchantī tamo vivāsayantyañji vyañjakaṃ tejaḥ | yadvā | añji vyaktaṃ jagat | aṅkte | anakti | prakāśayati | kimiva | samanagā iva | samyagananahetavo [?] āpaḥ samanāḥ | tā gacchantīti samanagā vidyutaḥ | vrā vrātaḥ | vidyutsaṃghā iva | yadvā | samyaggamanāya gacchantīti samanagāḥ sūryaraśmayaḥ | te iva vrāḥ vrātaḥ saṃghībhūtāḥ | te yathāñjate jagatprakāśayanti tathetyarthaḥ | vrātā ityatra takāralopaśchāndasaḥ ‖*
+
+*(Read from the image and checked against the OCR; "samyag-anana-hetavo" is doubtful in the print.)* "Because they are born from one and the same atmosphere, they are mutually sisters (*svasṛ*); and since Uṣas is first and more brilliant, she is the elder (*jyāyasī*). Or else *svasā* means 'she who goes of herself'. The Night, *svasre jyāyasyai* — in the way said, for the elder sister Uṣas — *yonim* — the place of origin in the form of the last watch of the night — *āraik* — has given (*āricat*, 'she has made [it] over, she has given'). Thus it has been said before, '*rātry uṣase yonim āraik*' (Ṛ. 1-113-1). And having given it, *praticakṣyeva* — as if informing the newly born Uṣas, she herself *apa eti* — goes away: the sense is that, understanding it would be improper for her to stay there when the elder has come, after giving her own place, she departs. Thus born, Uṣas, dispelling the darkness with the rays of the Sun, *añji* — the revealing radiance; or *añji* — the manifest world; *aṅkte* — anoints, illumines. Like what? *Samanagā iva* — the waters that are the cause of right going are *samanāḥ*; those that go (*gacchanti*) are *samanagā*, the lightnings; *vrā* are *vrātāḥ*, hosts; as hosts of lightning. Or else, those who go for right going are *samanagāḥ*, the rays of the Sun; as they, gathered into a host, illumine the world, so she: that is the sense. In *vrātāḥ* the loss of *t* is Vedic."
+
+### Printed p. 166  (PDF 187)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Svasā* — the sister (the Night, who is in the position of one's own); *jyāyasyai svasre* — for her elder sister (Uṣas); *yonim* — the place of origin (the last part of the night); *āraik* — has made over (has given); *asyāḥ* — to this (the newly born) Uṣas; *praticakṣyā iva* — like one who informs (having left her place, as one who understands that her being there is improper); *apa eti* — goes away; (thus the born goddess Uṣas) *sūryasya raśmibhiḥ* — by the rays of the Sun (with help); *vi ucchantī* — driving away (the darkness); *samanagāḥ vrāḥ iva* — like a host of lightnings (like a mass of the Sun's rays) (as lightning or the rays of the Sun light up the world); *añji* — the world-revealing radiance (the manifest world); *aṅkte* — makes manifest.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The younger sister, Night, makes the last part of the night the place of origin for her elder sister, the goddess Uṣas; (afterwards) the Night goes away; the Uṣas thus born, driving away (the darkness) with the help of the Sun's rays, spreads like a host of lightnings (like a mass of the Sun's rays) the radiance that reveals the world.
+
+**Printed English (as printed):** *The sister (Night) has prepared a birth-place for her elder sister (Day), and having made it known to her, departs. Ushas, dispersing the darkness with the rays of the sun, illumines the world, like congregated lightnings.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 8.**
+
+***svasā svasre yonim āraik*** — Uṣas is called the elder sister of Night. As soon as Uṣas rises, the Night, of herself becoming invisible, makes a place for her sister. The word *yonim* is explained as "the place of birth". The author of the Nirukta, citing
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिराग‍ाच्चित्रः प्रकेतो अजनिष्ट विभ्वा ।
+> यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*
+> *yathā prasūtā savituḥ savāya~ evā rātryuṣase yonimāraik ‖*
+
+(Ṛ. Saṃ. 1-113-1, as printed "೧-೧೧೩-೧".) *(Read letter by letter; "āgāc citraḥ" is as printed and the ligature marks are doubtful.)* explains, *evaṃ rātry uṣase yonim aricat sthānam* [?] — "thus Night has given place to Uṣas" — and the *yoni* … (the print gives the rest as *yonir abhiyuta enāṃ garbhaḥ* [?], which I cannot make sure of). Durgācārya has commented on this thus (Ni. 2-19, as printed "೨-೧೯"):
+
+> रात्रिः उषसः जन्मार्थं "योनिं" "स्थानं" अवकाशं आरिचत् आरेचयति ददातीत्यर्थः । यथोषा आदित्यस्य जन्मनो हेतुस्तदनन्तरजन्मत्वात् एवं रात्रिः उषसो जन्मनो हेतुः ॥
+
+> *rātriḥ uṣasaḥ janmārthaṃ "yoniṃ" "sthānaṃ" avakāśaṃ āricat ārecayati dadātītyarthaḥ | yathoṣā ādityasya janmano hetustadanantarajanmatvāt evaṃ rātriḥ uṣaso janmano hetuḥ ‖*
+
+"For the birth of Uṣas the Night gave the *yoni* — place, room — *āricat*, makes to give: that is the sense. As Uṣas is the cause of the birth of Āditya, because his birth follows hers, so Night is the cause of the birth of Uṣas." — As Uṣas is the cause of the birth of Āditya, so Night is the cause of the birth of Uṣas; and the idea is that, being the cause of her rising, Night herself becomes invisible as soon as Uṣas appears.
+
+> अरुषस्य दुहितरा विरूपे स्तृभिरन्या पिपिशे सूरो अन्या ।
+> मिथस्तुरा विचरन्ती पावके मन्म श्रुतं नक्षत ऋच्यमाने ॥
+
+> *aruṣasya duhitarā virūpe stṛbhiranyā pipiśe sūro anyā |*
+> *mithasturā vicarantī pāvake manma śrutaṃ nakṣata ṛcyamāne ‖*
+
+(Ṛ. Saṃ. 1-186-? [?] — the numerals of the print are not clear to me.) — in these and many other ṛks the sisterly relationship of Night and Uṣas is described, and how both of them, by their ceaseless and regular movement, are the cause of the course of the world.
+
+### Printed p. 167  (PDF 188)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+***praticakṣyā iva*** — *jñāpayitveva*: like one who informs her rightly of her duty — that is the meaning. The root *cakṣ* with the prefix *prati* gives the meaning of a clear, discriminating knowledge that is neither confused nor doubtful. For example —
+
+> रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय ।
+> इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥
+
+> *rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya |*
+> *indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*
+
+(Ṛ. Saṃ. 6-47-18, as read from the print.) — in this ṛk *praticakṣaṇāya* means *pratiniyatadarśanāya* — "for definite sight"; the Nirukta says *ayam agnir ayaṃ viṣṇur ayaṃ rudra ity evam asaṃkīrṇadarśanāya* — "for unconfused sight: this is Agni, this is Viṣṇu, this is Rudra". As the meaning is unconfused and distinct knowledge, so here too the sense is that Night has made known to Uṣas the duty, definite and distinct according to the circumstances.
+
+***samanagāḥ vrā iva*** — here two kinds of meaning are given. First, *samyag-anana-hetava āpaḥ samanāḥ; tā gacchantīti samanagā vidyutaḥ; vrā vrātāḥ saṃghāḥ; vidyutsaṃgha ity arthaḥ*: the waters, being easily moving, are named *samanā*; the lightnings, being in contact with the waters, are called *samanagā*; *samanagā vrā* thus means the host of lightnings. Second, *samyaggamanāya gacchanti samanagāḥ sūryaraśmayaḥ*: since the Sun's rays move freely, they are named *samanagā*; *samanagā vrā* means the host of the Sun's rays.
+
+The author of the Nirukta has included the word *samanā* among the names of battle (Ni. 3-9 [?], as read by the OCR). He then cites
+
+> बह्वीनां पिता बहुरस्य पुत्रश्चिश्चा कृणोति समनावगत्य ।
+> इषुधिः सङ्काः पृतनाश्च सर्वाः पृष्ठे निनद्धो जयति प्रसूतः ॥
+
+> *bahvīnāṃ pitā bahurasya putraściścā kṛṇoti samanāvagatya |*
+> *iṣudhiḥ saṅkāḥ pṛtanāśca sarvāḥ pṛṣṭhe ninaddho jayati prasūtaḥ ‖*
+
+(Ṛ. Saṃ. 6-75-5, as read from the print.) *(Read letter by letter; "ciścā" is as printed and doubtful.)*
+
+> वह्निवेदा [?] गनीगन्ति कर्णं प्रियं सखायं परिषस्वजाना ।
+> योषेव शिङ्क्ते वितताधि धन्वञ्ज्या इयं समने पारयन्ती ॥
+
+> *vahnivedā [?] ganīganti karṇaṃ priyaṃ sakhāyaṃ pariṣasvajānā |*
+> *yoṣeva śiṅkte vitatādhi dhanvañjyā iyaṃ samane pārayantī ‖*
+
+(Ṛ. Saṃ. 6-75-3 [?], as I read the print.) — citing these two ṛks he explains the word *samana* as "battle".
+
+**Vyākaraṇa-prakriyā (Ṛk 8, pp. 167–168; noted briefly, numbers as read by the OCR).** *jyāyasyai* — when *īyasun* comes in the sense of excess, *jya ca* (Pā. 5-3-61) gives the substitute *jya* for *praśasya*; when *jya* + *īyasun* stand, *jyādādīyasaḥ* (Pā. 6-4-160) gives *ā* in place of the *ī* of *īyasun*; *ādeḥ parasya* — the initial [*ī*] is replaced by *a* [*sic*, *ā* of the print]; the form *jyāyas*; in the feminine, *ugitaś ca* (Pā. 4-1-6) gives ṅīp: *jyāyasī*; dative singular; since it ends in a suffix, *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute.
+
+### Printed p. 168  (PDF 189)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+*āraik* — root *ricir virecane*; luṅ third person singular *tip*; *itaś ca* elides the *i*; *bahulaṃ chandasi* elides *cli*; *puganta-laghūpadhasya ca* (Pā. 7-3-86) gives guṇa of the root's short penultimate; *hal-ṅyābbhyo* [as printed "ಹಲ್ಜ್ಯಾಭ್ಯೋ"] elides the *apṛkta* suffix; by a letter-change *e* becomes *ai*; since it follows a non-verb word, the *nighāta* accent. *praticakṣyā* — root *cakṣiṅ vyaktāyāṃ vāci*; *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37) gives *lyap* in the place of *ktvā*; since it is *pit* it is unaccented; the root-accent remains; in the compound the accent of the final member. *vyucchantī* — root *uchī vivāse*, prefix *vi*; when śatṛ comes in the laṭ sense, *ugitaś ca* gives ṅīp in the feminine; the *śa*-suffix accent remains. *añji* — root *añjū vyaktimrakṣaṇakāntigatiṣu*; *khanikaṣyañji…* (Uṇ. 4-139 as read) gives the suffix *i*; final-acute by the accent of the suffix. *aṅkte* — the root as before; laṭ third person singular; *añkte*; since it follows a non-verb word, the *nighāta* accent. *samanagāḥ* — *samanāḥ gacchanti*, or *samyag-ananāya gacchanti iti samanagāḥ*; root *gam gatau*; *janasanakhanakramagamo vic* (Pā. 3-2-67) gives *viṭ*; with it following, *vidvanoranunāsikasyātā* (Pā. 6-4-41) gives *ā* to the nasal of the root; complete loss of the suffix; *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the final member. *vrāḥ* — the form is *vrātāḥ*; in the Veda the *t* is lost. ‖ 8 ‖
+
+#### Ṛk 9
+
+### Printed p. 169  (PDF 190)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+**॥ संहितापाठः ॥**
+
+> आसां पूर्वासामहसु [?] स्वसृणामपरा पूर्वामभ्येति पश्चात् ।
+> ताः प्रत्नवन्नव्यसीर्नूनमस्मे रेवदुच्छन्तु सुदिना उषासः ॥ ९ ॥
+
+> *āsāṃ pūrvāsāmahasu [?] svasṛṇāmaparā pūrvāmabhyeti paścāt |*
+> *tāḥ pratnavannavyasīrnūnamasme revaducchantu sudinā uṣāsaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> आसाम् । पूर्वासाम् । अहऽसु [?] । स्वसृऽणाम् । अपरा । पूर्वाम् । अभि । एति । पश्चात् ।
+> ताः । प्रत्नऽवत् । नव्यसीः । नूनम् । अस्मे इति । रेवत् । उच्छन्तु । सुऽदिनाः । उषसः ॥ ९ ॥
+
+> *āsām | pūrvāsām | aha 'su [?] | svasṛ 'ṇām | aparā | pūrvām | abhi | eti | paścāt |*
+> *tāḥ | pratna 'vat | navyasīḥ | nūnam | asme iti | revat | ucchantu | su 'dināḥ | uṣasaḥ ‖ 9 ‖*
+
+*(The word "ahasu/ahaḥsu" is doubtful in the print; the bhāṣya below reads it as *ahan ahani* — I do not complete it from memory.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> स्वसृणां परस्परं स्वसृभावमापन्नानां स्वयं सरन्तीनां वा पूर्वासां पुरातनीनामासामुषसां मध्येऽहन्यहनि प्रतिदिनमपराद्यतन्युषा पूर्वामतीतदिवससंबन्धिनीमुषसं पश्चादनुसृत्याभ्येति । अभिमुखं गच्छति । अव्यवधानेन गच्छतीत्यर्थः । सर्वेष्वहःस्वेवमेवाभ्येति । नव्यसीर्नवीयस्यो नवतरा आगामिन्यस्ता उषास उषसोऽपि नूनं निश्चयेन प्रत्नवत्पुरातन्य इव सुदिनाः शोभनकर्मानुष्ठानसाधनदिवसाः शोभनदिनमुखा वा सत्योऽस्मे अस्माकं रेवद्बहुधनविशिष्टं यथा भवति तथोच्छन्तु । प्रकाशयन्तु । पूर्वतन्यो यथोच्छन् तथागमिन्योऽप्युच्छन्त्वित्यर्थः ॥
+
+> *svasṛṇāṃ parasparaṃ svasṛbhāvamāpannānāṃ svayaṃ sarantīnāṃ vā pūrvāsāṃ purātanīnāmāsāmuṣasāṃ madhye 'hanyahani pratidinamaparādyatanyuṣā pūrvāmatītadivasasaṃbandhinīmuṣasaṃ paścādanusṛtyābhyeti | abhimukhaṃ gacchati | avyavadhānena gacchatītyarthaḥ | sarveṣvahaḥsvevamevābhyeti | navyasīrnavīyasyo navatarā āgāminyastā uṣāsa uṣaso 'pi nūnaṃ niścayena pratnavatpurātanya iva sudināḥ śobhanakarmānuṣṭhānasādhanadivasāḥ śobhanadinamukhā vā satyo 'sme asmākaṃ revadbahudhanaviśiṣṭaṃ yathā bhavati tathocchantu | prakāśayantu | pūrvatanyo yathocchan tathāgaminyo 'pyucchantvityarthaḥ ‖*
+
+*(Read from the image; the first sentence is clear in the print; the OCR gives "ahasu" for "ahani ahani".)* "Among the Uṣases of the past, *svasṛṇām* — who have become mutually sisters, or who move of themselves — *āsām pūrvāsām* — these ancient ones — day after day (*ahan ahani*) the later one, today's Uṣas, follows after the earlier one, the one connected with the day gone by, and goes toward her (*abhi eti*), face to face; that is, without any break. On all days she goes in just this way. *Navyasīḥ* — newer, newer still, coming; those Uṣases also, surely (*nūnam*), like the old ones (*pratnavat*), *sudināḥ* — days that are the means of performing auspicious rites, or having auspicious days at their head — being such, *asme* — for us — *revat* — as bringing abundant wealth — may they shine (*ucchantu*); as the former ones shone, so may those that are to come also shine: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Svasṛṇām* — those who are sisters to each other (mutually); *pūrvāsām āsām* — among these Uṣases that have gone before; *aparā* — this Uṣas, the other; *pūrvām* — the earlier one; *paścāt* — following after; *ahani ahani abhi eti* — daily goes, without break; *navyasīḥ* — coming later (new); *tāḥ uṣāsaḥ* — those Uṣases too; *nūnam* — surely; *pratnavat* — like those that have gone before; *sudināḥ* — (for our rites) auspicious days (those that begin auspicious days); *asme* — for us; *revat* — so as to bring the gain of wealth and the like; *ucchantu* — may they shine.
+
+### Printed p. 170  (PDF 191)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Among the departed Uṣases, who are as sisters, each follows the earlier one (without a break); may the Uṣases that are to come also, like those that have gone, shine for us as auspicious days for our rites, bringing us gain.
+
+**Printed English (as printed):** *Of all these sisters who have gone before, a successor daily follows the one that has preceded. So may new dawns, like the old, bringing fortunate days, shine upon us blessed with affluence.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 9.**
+
+***svasṛṇām … pūrvām abhyeti paścāt*** — *svasṛṇāṃ parasparaṃ svasṛbhāvam āpannānāṃ svayaṃ sarantīnāṃ vā pūrvāsāṃ purātanīnām āsām uṣasāṃ madhye 'han ahani pratidinam aparādyatanī uṣā pūrvām atītadivasasaṃbandhinīm uṣasaṃ paścād anusṛtya abhyeti.* Since the Uṣases show themselves separately each day, the Uṣas of the next day, keeping up the sisterly relationship with the Uṣas of the previous day, follows her. Therefore the sense is that all the past Uṣases have been sisters to the Uṣas of the present day.
+
+***pratnavat*** — this word is recorded among the names of "old" (Ni. 3-20, as read). The author of the Nirukta, citing
+
+> पवित्रवन्तः परि वाचमासते पितैषां प्रत्नो अभि रक्षति व्रतम् ।
+> महः समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभम् ॥
+
+> *pavitravantaḥ pari vācamāsate pitaiṣāṃ pratno abhi rakṣati vratam |*
+> *mahaḥ samudraṃ varuṇastiro dadhe dhīrā icchekurdharuṇeṣvārabham ‖*
+
+(Ṛ. Saṃ. 9-73-3, as read from the print.) states for this word the meaning *pratnaḥ purāṇaḥ*. *Pratnavat* means "like the Uṣases that have gone on, since eternity, so may the Uṣas of the present day be *sudināḥ* — auspicious days for our rites" — thus she is prayed to.
+
+***asme*** — *asmākam*; "to us, the sacrificers and the rest", the meaning; "make for us all gain of wealth". It is stated that the word *asme*, though of one form, is used in all case-meanings (Ni. 6-7, as read by the OCR). (It was stated before that the word *asmākam* too is used in all cases.)
+
+***asme te bandhuḥ — vayam ity arthaḥ*** — commenting on this, Durgācārya says: *asme ity etat padaṃ sarvavibhaktyantam | tasmād anekārtham | ekam eva hy etac chabdarūpam* …
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 170 (PDF 191): Ṛks 1–8 complete; Ṛk 9 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Special Topics (*asme*, Durga's comment) breaks off mid-quotation at the foot of p. 170; resume p. 171 (PDF 192).
