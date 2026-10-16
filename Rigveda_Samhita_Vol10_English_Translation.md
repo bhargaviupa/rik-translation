@@ -8812,4 +8812,104 @@ And the word *adhvara* is recorded among the sixteen names of the middle space (
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 346 (PDF 367): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, Special Topics begun (the *marutāṃ na bhojyā* entry breaks off at the foot of p. 346); resume p. 347 (PDF 368) with the continuation of that entry ("…the foods fit to be eaten [are produced]"). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343; OCR reference-number lines missing for pp. 249–346.
+### Printed p. 347  (PDF 368)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+(Continuing from p. 346:) "…the grains and the like, fit to be eaten, are spread out (*vyāpta*), occupying the field. As these grains, in the form of food, spread out to the wind and the other gods as oblations through Agni, so the offering of the oblation spreads in the flame of Agni": this is given as the illustration.
+
+***iṣirāya na bhojyā*** — *eṣaṇayuktāya yajamānāya arthine bhojyā bhogyāni bhakṣyādīni yathā dīyante tadvat*: "as edibles and the like are given to a petitioner who is seeking": this sentence is cited as an example (*upamāna-vākya*) in the matter of giving the oblation to Agni. It is compared that Agni gives the sacrificer who has a purpose in view the enjoyable things according to his wish. The Niruktakāra cites —
+
+> इषिरेण ते मनसा सुतस्य भक्षीमहि पित्र्यस्येव रायः ।
+> सोम राजन् प्र ण आयूंषि तारीरहानीव सूर्यो वासराणि ॥
+
+> *iṣireṇa te manasā sutasya bhakṣīmahi pitryasyeva rāyaḥ |*
+> *soma rājan pra ṇa āyūṃṣi tārīr ahānīva sūryo vāsarāṇi ‖*
+
+(Ṛ. Saṃ. 8-48-2, as printed "೮-೪೮-೨".) — and explains *īṣaṇena vā eṣaṇena vā ṛṣaṇena vā* (Ni. 4-7 [?]). Durgācārya: "*iṣireṇa* — *sarvātmanā gatena*, [i.e. taking refuge] with all one's being, with mind, speech and body; *eṣaṇena* — *icchāvatā phalaprārthanāvatā*, who prays for the fruit, desiring it; or who performs rites with the fruit in view and prays that the fruit should come; *ṛṣaṇena* — *darśanavatā*, one who has seen the favoured god": thus the meanings. Sāyaṇa accepts only the meaning "with an eye to the fruit".
+
+***dānam invati*** — *haviḥpradānaṃ tasmai vyāpnoti | yadvā svayam abhimataṃ dānam*: "the sacrificer, who wishes Agni to accept the oblation, makes the oblation pervade Agni by himself offering it": so the meaning. Since the word *invati* is recorded among the ten names of "pervading" (Ni. 2-[?]; as read "೩-೧೦"), the meaning "makes it pervade" is given. In the second meaning, the sacrificer himself makes what he desires accessible to Agni for the sake of Agni's pleasure, by giving him the oblations Agni wants.
+
+***vasūnām*** — *nivāsayogyānāṃ dhanānām*: the word *vasu* is recorded among the names of rays (Ni. 1-[?]) and among the names of wealth (Ni. 2-[?]; as read "೨-೧೫" and "೩-೯"); here *vasunā annena* (Ni. 5-[?]; as read "೫-೧೯") — the word denotes food. —
+
+> वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासव इति समाख्या तस्मात् पृथिवीस्थानाः । इन्द्रो वसुभिर्वासव इति समाख्या तस्मान्मध्यस्थानाः । वसव आदित्यरश्मयो विवासनात् तस्माद्द्युस्थानाः ।
+
+> *vasavo yad vivasate sarvam agnir vasubhir vāsava iti samākhyā tasmāt pṛthivīsthānāḥ | indro vasubhir vāsava iti samākhyā tasmān madhyasthānāḥ | vasava ādityaraśmayo vivāsanāt tasmād dyusthānāḥ |*
+
+### Printed p. 348  (PDF 369)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+(Ni. 12-41 [?], as read "೧೨-೪೧"; the passage as I read it from the small Kannada type: the Vasus are of the earth, of the middle region and of heaven.) Since the root *vas* is explained as "to dwell much" or "to pervade everything", the word *vasu* has several meanings, for Agni, Indra and the rays of the sun all dwell by pervading everything. Sāyaṇa here explains: "wealth fit for dwelling".
+
+***majmanā*** — *balena*: since this word is recorded among the names of strength (Ni. 2-9 [?]), the meaning is "strength".
+
+***vasūnāṃ ca majmanā dānam invati*** — two kinds of meaning are given for this sentence. The first, *nivāsayogyānāṃ dhanānām agninā labdhānāṃ balenaiva*: that the sacrificers serve Agni with offered oblations by the strength of the wealth, fit for comfortable dwelling, which they have obtained through Agni's grace. The second, *yadvā so 'gnir vasūnāṃ havirnivāsayogyānāṃ jvālārūpāṇāṃ dhanānāṃ majmanā balena*: that Agni, by the strength of his wealth-like rays — his flames, fit for receiving the oblations — pervades the oblations offered by the sacrificers.
+
+***abhihrutaḥ duritāt trāsate*** — *ābhimukhyena pāpaiḥ hriyamāṇān pāpāt trāyate*: "Agni protects us from the evil deeds that violently harm us".
+
+***śaṃsāt abhihrutaḥ aghāt*** — *atiprabhūtatvena śaṃsanīyāt yadvā hiṃsakāt abhito hriyamāṇāt duḥkhāt tatkāraṇāt pāpād vā trāyate*: "since evil deeds, practised in great number, bring great harm and then suffering, Agni protects from these sins": so the meaning.
+
+Since *śaṃsati* is read among the names of "praising" (Ni. 3-19 [?]), the meaning "praiseworthy" is given for *śaṃsāt* here; but Sāyaṇa has explained it as "destroyer".
+
+***aghāt*** — *duḥkhāt tatkāraṇād vā pāpāt*: the word *agha* means "pain, or the sin that causes pain". —
+
+> इन्द्रासोमा समघशंसमभ्यघं तपुर्ययस्तु चरुरग्निवाँ इव [?] ।
+> ब्रह्मद्विषे क्रव्यादे घोरचक्षसे द्वेषो धत्तमनवायं किमीदिने ॥
+
+> *indrāsomā samaghaśaṃsam abhy aghaṃ tapur yayastu carur agnivām̐ iva [?] |*
+> *brahmadviṣe kravyāde ghoracakṣase dveṣo dhattam anavāyaṃ kimīdine ‖*
+
+(Ṛ. Saṃ. 7-104-2, as read "೭-೧೦೪-೨"; the first line has doubtful letters in the print: "*tapur yayastu*" [?].) The Niruktakāra in this Ṛk says: "*aghaṃ hanti nirhasitopasarga āhantīti*": the word *agha* is formed from the root *han* (to harm, to go) even though there is no prefix, and it conveys the sense "*āhanti*", "strikes."
+
+### Printed p. 349  (PDF 370)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+— so he explains; the meaning is that the word *agha* denotes both what produces harm and what exists in the form of harm.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly; numbers as printed).** *pṛñcate* — root *pṛcī saṃparke*; *rudhādi*; by *vyatyaya* it takes the ātmanepada; *laṭ* third person plural, the suffix *jha*; *ātmanepadeṣv anataḥ* (Pā. 7-1-5) gives *ata*; *ṭeḥ* the substitution *e*; *rudhādibhyaḥ śnam* (Pā. 3-1-78) the *śnam* affix, which, because of *m*, comes after the last vowel; *śnasor allopaḥ* (Pā. 6-4-111) drops its *a*; the *n* becomes *anusvāra*/*parasavarṇa*; because of *yad* there is no *nighāta*; the acute of the suffix's first vowel makes the middle *anudātta*. *bhojyā* — root *bhuja pālanābhyavahārayoḥ*; *bhojyaṃ bhakṣye* (Pā. 7-3-69) gives the form in *ṇyat*; *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*. *iṣirāya* — root *iṣu icchāyām*; *iṣimadimudi…* (Uṇ. 1-51) gives *kirac*; no guṇa since *k*-marked; since *c*-marked (*citaḥ*, Pā. 6-1-163) the acute on the last syllable; dative singular. *dānam* — root *ḍudāñ dāne*; *lyuṭ* in the abstract sense; *yuvor anākau* gives *ana*; *liti* gives the acute before the suffix. *invati* — root *ivi vyāptau*; Yāska reads *invati* among the verbs of pervading (Ni. 2-18 [?]); *idito num dhātoḥ* (Pā. 7-1-58) gives the augment *nuṁ*; *laṭ* third person singular; because of *hi*, *hi ca* (Pā. 8-1-34) forbids *nighāta*; the root's accent remains since *śap* and *tip* are unaccented. *trāsate* — root *trai pālane*, *laṭ* third person singular; by the power of *bahulagrahaṇa* here too *sip*(?) [as printed]; *ādeca upadeśe 'śiti* (Pā. 6-1-45) gives *ā* to the root; *tiṅ-nighāta*, since it follows a non-finite word. *duritāt* — root *iṇ gatau*; the suffix *kta*; no guṇa since *k*-marked; *kṛd-uttarapadaprakṛtisvara*. ‖ 5 ‖
+
+***(ornamental rule)***
+
+### Printed p. 350  (PDF 371)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> विश्वो विहाया अरतिर्वसुर्दधे हस्ते दक्षिणे तरणिर्न शिश्रथच्छ्रवस्यया न शिश्रथत् ।
+> विश्वस्मा इदिषुध्यते देवत्रा हव्यमोहिसे ।
+> विश्वस्मा इत्सुकृते वारमृण्वत्यग्निर्द्वारा व्यृण्वति ॥ ६ ॥
+
+> *viśvo vihāyā aratirvasurdadhe haste dakṣiṇe taraṇirna śiśrathacchravasyayā na śiśrathat |*
+> *viśvasmā idiṣudhyate devatrā havyamohise |*
+> *viśvasmā itsukṛte vāramṛṇvatyagnirdvārā vyṛṇvati ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वः । विऽहायाः । अरतिः । वसुः । दधे । हस्ते । दक्षिणे । तरणिः । न । शिश्रथत् ।
+> श्रवस्यया । न । शिश्रथत् ।
+> विश्वस्मै । इत् । इषुध्यते । देवऽत्रा । हव्यम् । आ । ऊहिसे ।
+> विश्वस्मै । इत् । सुऽकृते । वारम् । ऋण्वति । अग्निः । द्वारा । वि । ऋण्वति ॥ ६ ॥
+
+> *viśvaḥ | vi 'hāyāḥ | aratiḥ | vasuḥ | dadhe | haste | dakṣiṇe | taraṇiḥ | na | śiśrathat |*
+> *śravasyayā | na | śiśrathat |*
+> *viśvasmai | it | iṣudhyate | deva 'trā | havyam | ā | ūhise |*
+> *viśvasmai | it | su 'kṛte | vāram | ṛṇvati | agniḥ | dvārā | vi | ṛṇvati ‖ 6 ‖*
+
+*(Read from the image. The Saṃhitā prints the first *pāda* in one line "…śiśrathac chravasyayā na śiśrathat"; the Pada repeats *ṛṇvati* twice.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अयमग्निर्दक्षिणेऽभिमतं प्रदातुमुत्साहयुक्ते हस्ते वामेतरे यजमानाय दातव्यं धनं दधे । धारयति । कीदृशोऽयम् । विश्वः सर्वगन्तव्यः । यद्वा विश्वात्मकः । विहाया महान् । विहाया इति महन्नाम विहाया यह्व इति तन्नामसु पाठात् । अरतिरीश्वरोऽरममाणो वा प्रीतिः [?] ॥ अत्र वह्निवस्यर्तिभ्यश्चित् [?] अतिप्रत्ययः चिद्वद्भावादन्तोदात्तः [?] ॥ धृत्वा च शिश्रथत् । धृतं हस्तं यजमानार्थं श्रथयति । ददाति ॥ श्लथयतेर्लुङि चङि रूपम् । तत्र दृष्टान्तः । तरणिर्न तरणिरिव तारकः सूर्य इव । स यथा स्वोपासकायाभिमतं हस्ते धृत्वा वितरति तद्वत् । यद्वा । तरणिः सर्वस्य तारको न शिश्रथत् । यजमानं न श्रथयति न मुञ्चति । किंच श्रवस्यया न शिश्रथत् । हविरूपान्नेच्छयैव न शिश्रथत् । न विमुञ्चति । अयमनुग्रहेणैव पालयते हविःस्वीकारस्तु व्यपदेशमात्रेणेति भावः । इदानीं प्रत्यक्षकृतः । हे अग्ने देवत्रा देवेषु मध्ये अतिशयेन त्वं विश्वस्मै सर्वस्मा इषुध्यते हविरात्मन इच्छते इन्द्रादये ॥ इषुध्यतिः कण्ड्वादिः ॥ हव्यं तत्तद्देवतामुद्दिश्य प्रत्तं पुरोडाशा
+
+> *ayamagnirdakṣiṇe 'bhimataṃ pradātumutsāhayukte haste vāmetare yajamānāya dātavyaṃ dhanaṃ dadhe | dhārayati | kīdṛśo 'yam | viśvaḥ sarvagantavyaḥ | yadvā viśvātmakaḥ | vihāyā mahān | vihāyā iti mahannāma vihāyā yahva iti tannāmasu pāṭhāt | aratirīśvaro 'ramamāṇo vā prītiḥ [?] ‖ atra vahnivasyartibhyaścit [?] atipratyayaḥ cidvadbhāvādantodāttaḥ [?] ‖ dhṛtvā ca śiśrathat | dhṛtaṃ hastaṃ yajamānārthaṃ śrathayati | dadāti ‖ ślathayaterluṅi caṅi rūpam | tatra dṛṣṭāntaḥ | taraṇirna taraṇiriva tārakaḥ sūrya iva | sa yathā svopāsakāyābhimataṃ haste dhṛtvā vitarati tadvat | yadvā | taraṇiḥ sarvasya tārako na śiśrathat | yajamānaṃ na śrathayati na muñcati | kiṃca śravasyayā na śiśrathat | havirūpānnecchayaiva na śiśrathat | na vimuñcati | ayamanugraheṇaiva pālayate haviḥsvīkārastu vyapadeśamātreṇeti bhāvaḥ | idānīṃ pratyakṣakṛtaḥ | he agne devatrā deveṣu madhye atiśayena tvaṃ viśvasmai sarvasmā iṣudhyate havirātmana icchate indrādaye ‖ iṣudhyatiḥ kaṇḍvādiḥ ‖ havyaṃ tattaddevatāmuddiśya prattaṃ puroḍāśā*
+
+*(Read from the image; the bhāṣya continues on p. 351. Several small-type letters, especially in the grammatical tail on *arati*, are doubtful: [?]. Sense so far: "This Agni holds in his right hand — ready to give what is wished — the wealth to be given to the sacrificer, [holding it back with the left]. What kind? *viśvaḥ* — to be approached by all, or all-formed; *vihāyāḥ* — great (the word *vihāyāḥ* is recorded among the names of 'great': *vihāyā yahva*…); *aratiḥ* — the lord, or the delight; *vasuḥ*. [Grammar tail: the suffix *ti* from *vahni*, *vas*, *ṛ*…, accent on the last syllable by *cidvadbhāva*.] And, having taken it, *śiśrathat* — he loosens the held hand for the sacrificer: he gives. [Grammar: aorist of *ślathayati*.] The example: *taraṇir na* — like the Sun, the saviour: as he holds in his hand what his worshipper wants and distributes it; or the Sun, who carries all across, does not let go of the sacrificer; and *śravasyayā na śiśrathat* — he does not let go even for the wish for the food in the form of oblation; this Agni protects by grace; the acceptance of the oblation is a mere pretext. Now directly addressed: O Agni, among the gods you above all, for everyone who desires the oblation — Indra and the rest — [carry (*ohise*)] the oblation offered to each deity — *puroḍāśa*…")*
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 350 (PDF 371): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā/Pada done and the bhāṣya breaks off at the foot of p. 350 ("…havyaṃ tattaddevatām uddiśya prattaṃ puroḍāśā[di]"); resume p. 351 (PDF 372). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348; OCR reference-number lines missing for pp. 249–350.
