@@ -15847,4 +15847,68 @@ By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryām
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 655 (the *indravāyustavopasaṃhāra* section: *upāṃśugraha* done, *antaryāmagraha* begun; the section continues with the *antaryāma* and *aindravāyava* cups); resume p. 656 (PDF 677; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 656  (PDF 677)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Antaryāmagraha, continued from p. 655:)* …The gods fled to Indra. Indra stopped them [the Asuras] by the help of the *antaryāmagraha*. Therefore this cup became famous by the name *antaryāmagraha*; with its help the sacrificer is able to ward off enemies.
+
+> अन्तस्ते दधामि द्यावापृथिवी अन्तरुर्वन्तरिक्षमित्याहैभिरेव लोकैर्यजमानो भ्रातृव्यानन्तर्धत्ते ।
+
+> *antas te dadhāmi dyāvāpṛthivī antar urv antarikṣam ity āhaibhir eva lokair yajamāno bhrātṛvyān antardhatte |*
+
+(Tai. Saṃ. 6-4-6-[?], as read "೬-೪-೬-೨" [?].) "I place heaven and earth and the wide *antarikṣa* within you" — thus he says; by the help of these worlds the sacrificer shuts out his enemy.
+
+> ते देवा अमन्यन्तेन्द्रो वा इदमभूद्यद्वयꣳ स्म इति ते [?] ऽब्रुवन्मघवन्नन्नो न आ भजेति सजोषा देवैरवरैः परैश्चेत्यब्रवीद्ये चैव देवाः परे ये चावरे तानुभयानन्नाभजत्यजोषा देवैरवरैः परैश्चेत्याह ये चैव देवाः परे ये चावरे तानुभयानन्नाभजति ॥
+
+> *te devā amanyantendro vā idam abhūd yad vayaṃ sma iti te [?] 'bruvan maghavann anno na ā bhajeti sajoṣā devair avaraiḥ paraiś cety abravīd ye caiva devāḥ pare ye cāvare tān ubhayān nābhajaty ajoṣā devair avaraiḥ paraiś cety āha ye caiva devāḥ pare ye cāvare tān ubhayān nābhajati ‖*
+
+(Tai. Saṃ. 6-4-6-[?], as read "೬-೪-೬-೩" [?]; read from the image; doubtful in several words [?].) *Kannada sense:* The gods thought, "Indra has become what we were", and they asked, "O Maghavan, give us also a share in your sovereignty." "Let me be united with the lower and with the higher gods": he gave a share to both.
+
+> अन्तर्यामो मघवन्मादयस्वेत्याह यज्ञो देवं यजमानं नान्तरेति ।
+
+> *antaryāmo maghavan mādayasvety āha yajño devaṃ yajamānaṃ nāntareti |*
+
+"O Maghavan, rejoice in the *antaryāma*" — thus the sacrificer, together with the gods, praises Indra; therefore the sacrifice and the sacrificer are not separated.
+
+> प्राणापानौ वा एतौ यदुपाꣳश्वन्तर्यामौ व्यान उपाꣳशुसवनो यं कामयेत प्रमायुकः स्यादिति सꣳस्पृष्टौ तस्य सादयेद्व्यानेनैवास्य प्राणापानौ विच्छिनत्ति ताजक्प्र मीयते यं कामयेत सर्वमायुरियादिति सꣳस्पृष्टौ तस्य सादयेद्व्यानेनैवास्य प्राणापानौ सं तनोति सर्वमायुरेति ॥
+
+> *prāṇāpānau vā etau yad upāṃśv antaryāmau vyāna upāṃśusavano yaṃ kāmayeta pramāyukaḥ syād iti saṃspṛṣṭau tasya sādayed vyānenaivāsya prāṇāpānau vicchinatti tājak pra mīyate yaṃ kāmayeta sarvam āyur iyād iti saṃspṛṣṭau tasya sādayed vyānenaivāsya prāṇāpānau saṃ tanoti sarvam āyur eti ‖*
+
+(Tai. Saṃ. 6-4-6-[?], as read "೬-೪-೬-೪" [?]; read from the image [?].) The *upāṃśugraha* is *prāṇa*; the *antaryāma* is *apāna*; the *upāṃśu*-pressing is *vyāna*. If the sacrificer desires that someone should die early, he places the two [cups] separately, so that the *prāṇa* and *apāna* are not connected with each other; he then at once breaks the breaths with *vyāna*, and the man dies; and if he desires that someone should live his full length of life, he places the two together; by *vyāna* the *prāṇa* and *apāna* are joined, and he lives long. This is the greatness of the *upāṃśu*-pressing, the *upāṃśugraha* and the *antaryāmagraha* taken together.
+
+### Printed p. 657  (PDF 678)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+***aindravāyavagrahaḥ*** *(Kannada heading "ಐಂದ್ರವಾಯವಗ್ರಹವು" — "The *aindravāyavagraha*").*
+
+By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*lohaka-pātra*) with juice, below the *indravāyava*-graha [?]. The greatness of this *graha* is told in this way:
+
+> वाग्वा एषा यदैन्द्रवायवो यदैन्द्रवायवाग्राः ग्रहा गृह्यन्ते वाचमेवानु प्रयन्ति ।
+
+> *vāg vā eṣā yad aindravāyavo yad aindravāyavāgrāḥ grahā gṛhyante vācam evānu prayanti |*
+
+(Tai. Saṃ. 6-4-2-[?], as read "೬-೪-೭-೧" [?].) The *aindravāyava* [cup] is speech. By taking that vessel, one follows speech.
+
+> वायुं देवा अब्रुवन्सोमꣳ राजानꣳ हनामेति सोऽब्रवीद्वरं वृणै मदग्रा एव वो ग्रहा गृह्यन्ता इति तस्मादैन्द्रवायवाग्राः ग्रहा गृह्यन्ते तमघ्नन् ।
+
+> *vāyuṃ devā abruvan somaṃ rājānaṃ hanāmeti so 'bravīd varaṃ vṛṇai mad-agrā eva vo grahā gṛhyantā iti tasmād aindravāyavāgrāḥ grahā gṛhyante tam aghnan |*
+
+(Tai. Saṃ. 6-4-2-[?], as read "೬-೪-೭-೧" [?].) When the gods said to Vāyu "Let us kill King Soma", he asked a boon: "Let my cup be taken first, with yours." Therefore all the cups are made ready together; then they killed King Soma. Sāyaṇa explains *abhiṣavaḥ somadevatāyāḥ hananam* — "the pressing is the killing of Soma, who is the deity".
+
+> सोऽपूयत्तं देवा नोपाधृष्णुवन्सोऽब्रवीद्वरं वृणै मद्देवत्यैव वः पात्राण्युच्यन्ता इति तस्मान्ना देवत्यानि सन्ति वायव्यानि [?] उच्यन्ते तमेभ्यो वायुरेवास्वदयत्तस्माद्यः पूयति तत्र वाते वि षजन्ति वायुर्हि तस्य पवयिता स्वदयिता ।
+
+> *so 'pūyat taṃ devā nopādhṛṣṇuvan so 'bravīd varaṃ vṛṇai mad-devatyaiva vaḥ pātrāṇy ucyantā iti tasmān nā devatyāni santi vāyavyāni [?] ucyante tam ebhyo vāyur evāsvadayat tasmād yaḥ pūyati tatra vāte vi ṣajanti vāyur hi tasya pavayitā svadayitā |*
+
+(Tai. Saṃ. 6-4-2-[?], as read "೬-೪-೭-೧, ೨" [?]; read from the image, doubtful in places [?].) As soon as Soma was killed, Vāyu became foul-smelling. The gods could not bear his companionship, and said, "Make Soma agreeable [?] to us." Vāyu asked a boon: "Let all your vessels be made for me [as deity]." They agreed. At once the Soma-juice became tasty; therefore when any [food] is spoiled it is the Vāyu that purifies it and makes it taste good.
+
+> तस्य विग्रहणं नाविन्दन्ताः [?] दितिरब्रवीदिन्द्रं वृणा अथ मया वि गृह्णीध्वं मद्देवत्या एव वः सोमाः सन्ना आसन्नित्युपयामगृहीतोऽसीत्याहादितिदेवत्येन यानि हि दारुमयाणि पात्राण्यस्यै तानि योनेः संभूतानि यानि मृन्मयानि साक्षादेव तान्यस्यै तस्मादेवमाह ।
+
+> *tasya vigrahaṇaṃ nāvindan tāḥ [?] ditir abravīd indraṃ vṛṇā atha mayā vi gṛhṇīdhvaṃ mad-devatyā eva vaḥ somāḥ sannā āsann ity upayāmagṛhīto 'sīty āhāditidevatyena yāni hi dārumayāṇi pātrāṇy asyai tāni yoneḥ saṃbhūtāni yāni mṛnmayāni sākṣād eva tāny asyai tasmād evam āha |*
+
+(Tai. Saṃ. 6-4-2-[?]-[?], as read "೬-೪-೭-೩-೩" [?]; doubtful in the opening words [?].) *Kannada sense:* They could not find a way to take [Soma] apart from [Vāyu]; Aditi said "choose Indra [as well]; take [the cups] through me, for your Somas are seated as mine"; with "*upayāmagṛhīto 'si*", [the mantra] is addressed to Aditi as deity; for the wooden vessels are born from her womb, and those of clay are directly hers: therefore it is so said.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 657 (the *indravāyustavopasaṃhāra* section: *upāṃśu*, *antaryāma* done, *aindravāyavagraha* begun on p. 657, the passage continues); resume p. 658 (PDF 679; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
