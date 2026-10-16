@@ -5725,4 +5725,140 @@ In the present ṛk the sense is: "praisers (*stotṛ*) who are endowed with exc
 
 ---
 
-**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 218 (PDF 239): Ṛks 1–7 written; the grammar of Ṛk 7 (*suvratāsaḥ*, *paridhi*, …) breaks off at the foot of p. 218 and continues on p. 219 (PDF 240), followed by the colophon and Sūkta 126 (starts p. 219). Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
+### Printed p. 219  (PDF 240)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11 [as read; the Kannada numeral "೧೧"].)*
+
+*(Grammar of Ṛk 7, continued:)* *paridhiḥ* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; with *pari* as the upapada, *upasarge ghoḥ kiḥ* (Pā. 3-3-92) gives the suffix *ki*; *ato lopa iṭi ca* (Pā. 6-4-64) elides the *ā* of the root; *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the final member. *apṛṇantam* — *na pṛṇan apṛṇan, tam apṛṇantam*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the natural accent of the first member, the indeclinable. *yantu* — root *iṇ gatau*; loṭ third person plural; since it follows a non-verb word, the *nighāta* accent. ‖ 7 ‖
+
+Here ends the 125th Sūkta. *(Kannada closing line: "ನೂರ ಇಪ್ಪತ್ತೈದನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 126 — *amandān stomān* (begins on printed p. 219)
+
+**ನೂರ ಇಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು — Nūra ippattāraneya sūktavu** (the one hundred and twenty-sixth Sūkta).
+
+**॥ भूमिका ॥ — Introduction (Sanskrit, from the Sāyaṇa text):**
+
+> अमन्दानिति षष्ठं सूक्तं सप्तेत्यनुवर्तमानात्सप्तर्चम् । आदितः पञ्चानां कक्षीवानृषिः षष्ठ्या भावयव्यः सप्तम्या रोमशा नाम ब्रह्मवादिनी । आदितः पञ्चानां भावयव्यस्य स्तुतिरूपत्वात्स एव देवता यातेनोच्यते [?] । अनु. २-५ [?] । इति न्यायात् । अन्त्ययोः षष्ठीसप्तम्योः स्वभाव्ययो रोमशयोः संवादः । षष्ठ्या भावयव्यः सप्तम्या रोमशा । यद्यपि स्वनयेन दत्ता इति श्रूयमाणत्वात्तस्य स्तुत्या भाव्यं तथापि पितृपुत्रयोरभेदात् आ रुद्रास इतिवत् पित्रैव नाम्ना व्यवहर्तुम् [?] । प्रथमाद्यानुष्टुब्वैत्यत्र [?] भाव्यस्येत्युक्तत्वाच्च भावयव्यं तुष्टावेत्यादिविरुद्धम् [?] उक्तं [?] पूर्वसूक्ते एव । आदितः पञ्च त्रिष्टुभः । अन्त्ये अनुष्टुभौ । तथा चानुक्रान्तम् । अमन्दानिति कक्षीवान्दानतुष्टः पञ्चभिर्भावयव्यं तुष्टावान्त्ये अनुष्टुभौ भावयव्यरोमशयोर्दम्पत्योः संवाद इति ॥ उक्तो विनियोगः ॥
+
+> *amandāniti ṣaṣṭhaṃ sūktaṃ saptetyanuvartamānātsaptarcam | āditaḥ pañcānāṃ kakṣīvānṛṣiḥ ṣaṣṭhyā bhāvayavyaḥ saptamyā romaśā nāma brahmavādinī | āditaḥ pañcānāṃ bhāvayavyasya stutirūpatvātsa eva devatā yātenocyate [?] | anu. 2-5 [?] | iti nyāyāt | antyayoḥ ṣaṣṭhīsaptamyoḥ svabhāvyayo romaśayoḥ saṃvādaḥ | ṣaṣṭhyā bhāvayavyaḥ saptamyā romaśā | yadyapi svanayena dattā iti śrūyamāṇatvāttasya stutyā bhāvyaṃ tathāpi pitṛputrayorabhedāt ā rudrāsa itivat pitraiva nāmnā vyavahartum [?] | prathamādyānuṣṭubvaityatra [?] bhāvyasyetyuktatvācca bhāvayavyaṃ tuṣṭāvetyādiviruddham [?] uktaṃ [?] pūrvasūkte eva | āditaḥ pañca triṣṭubhaḥ | antye anuṣṭubhau | tathā cānukrāntam | amandāniti kakṣīvāndānatuṣṭaḥ pañcabhirbhāvayavyaṃ tuṣṭāvāntye anuṣṭubhau bhāvayavyaromaśayordampatyoḥ saṃvāda iti ‖ ukto viniyogaḥ ‖*
+
+*(Read from the image; the middle sentences are in small type and several words — marked [?] — are doubtful; the OCR's Devanagari is badly garbled there. The Anukramaṇī sentence at the end is clear to me.)* "*Amandān* — the sixth sūkta, of seven ṛks (by the continuing 'seven'). Of the first five the ṛṣi is Kakṣīvān; of the sixth, Bhāvayavya; of the seventh, Romaśā, a *brahmavādinī*. Since the first five are in praise of Bhāvayavya, he is the deity, by the rule *yā tenocyate sā devatā* (Anu. 2-5 [?]). In the last two, the sixth and the seventh, there is a dialogue between the husband Bhāvayavya and Romaśā; the sixth is Bhāvayavya's, the seventh Romaśā's. … The first five are Triṣṭubh; the last two Anuṣṭubh. So the Anukramaṇī says: '*Amandān* — Kakṣīvān, pleased with the gift, praised Bhāvayavya in five; the last two, Anuṣṭubh, a dialogue between the married pair Bhāvayavya and Romaśā.' The *viniyoga* has been stated [before]."
+
+### Printed p. 220  (PDF 241)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**Anuvāda (Kannada).** This Sūkta, beginning *amandān*, is the sixth Sūkta in the eighteenth Anuvāka. It has seven ṛks. In this Sūkta the ṛṣi of the first five ṛks is Kakṣīvān; of the sixth ṛk, Bhāvayavya; of the seventh, a *brahmavādinī* named Romaśā. Since the first five ṛks contain praise of Bhāvayavya, by the rule of the Anukramaṇī *sa eva devatā yā tenocyate* (Anu. 2-5) that praise is the deity; and since the sixth and seventh ṛks contain a conversation between Bhāvayavya and Romaśā, the deities of the sixth ṛk are Romaśā and of the seventh Bhāvayavya. But since in the third ṛk of the previous Sūkta it is said *svanayena dattāḥ*, a doubt arises that the praise may be of Svanaya; yet, as in the custom where the Maruts, sons of Rudra, are addressed by the name of their father *rudrāsaḥ*, so here too it is natural to use for the son the name of the father, Bhāvayavya, though Svanaya is the name of the son. Besides, since in the first ṛk the name Bhāvayavya is clearly stated, it must be understood that in this sūkta the ṛṣi praises Bhāvayavya. Thus the mutual contradiction is removed; this was said earlier in the preceding sūkta. The first five ṛks of this Sūkta are in Triṣṭubh metre, and the last two in Anuṣṭubh. In the Anukramaṇī it is said: *amandāniti kakṣīvān dānatuṣṭaḥ pañcabhir bhāvayavyaṃ tuṣṭāvānuṣṭubhau bhāvayavyaromaśayor dampatyoḥ saṃvāda*. The viniyoga was stated before.
+
+**सूक्त—१२६ — Sūkta 126**
+
+मण्डल—१ ‖ अनुवाक—१८ ‖ सूक्त—१२६ ‖ अष्टक—२ ‖ अध्याय—१ ‖ वर्ग—११ ‖ (as read; the print shows "೧೧" after "ವರ್ಗ".)
+
+Number of ṛks in this Sūkta — 7. Ṛṣi — 1–5 Kakṣīvān Dairghatamasa Auśija; 6 Bhāvayavya; 7 Romaśā. Devatā — 1–5 Bhāvayavya (as printed "ಭಾವ್ಯಸ್ಯ"? — read as Bhāvayavya's praise); 6 Romaśā; 7 Bhāvayavya. Chandas — 1–5 Triṣṭubh; 6–7 Anuṣṭubh.
+
+*(The ṛṣi–devatā table is as printed: "ಋಷಿ:— ೧-೫ ಕಕ್ಷೀವಾನ್ ದೈರ್ಘತಮಸ ಔಶಿಜಃ; ೬ ಭಾವಯವ್ಯಃ; ೭ ರೋಮಶಾ"; "ದೇವತಾ:— ೧-೫ ಭಾವಯವ್ಯಃ; ೬ ರೋಮಶಾ; ೭ ಭಾವಯವ್ಯಃ"; "ಛಂದಃ — ೧-೫ ತ್ರಿಷ್ಟುಪ್; ೬-೭ ಅನುಷ್ಟುಪ್".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अमन्दान्त्स्तोमान्प्र भरे मनीषा सिन्धावधि क्षियतो भाव्यस्य ।
+> यो मे सहस्रममिमीत सवानतूर्तो राजा श्रव इच्छमानः ॥ १ ॥
+
+> *amandāntstomānpra bhare manīṣā sindhāvadhi kṣiyato bhāvyasya |*
+> *yo me sahasramamimīta savānatūrto rājā śrava icchamānaḥ ‖ 1 ‖*
+
+### Printed p. 221  (PDF 242)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+**॥ पदपाठः ॥**
+
+> अमन्दान् । स्तोमान् । प्र । भरे । मनीषा । सिन्धौ । अधि । क्षियतः । भाव्यस्य ।
+> यः । मे । सहस्रम् । अमिमीत । सवान् । अतूर्तः । राजा । श्रवः । इच्छमानः ॥ १ ॥
+
+> *amandān | stomān | pra | bhare | manīṣā | sindhau | adhi | kṣiyataḥ | bhāvyasya |*
+> *yaḥ | me | sahasram | amimīta | savān | atūrtaḥ | rājā | śravaḥ | icchamānaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> सिन्धौ सिन्धुदेशे यद्वा लक्षणया सिन्धुतीरे समुद्रतीरेऽधि क्षियतोऽधिनिवसतो भाव्यस्य भावयव्यस्य । तत्पुत्रस्य स्वनयस्येत्यर्थः । तस्मा अमन्दानल्पान् स्तोमान् स्तोत्राणि तन्निष्ठबहुविधदानादीनां कीर्तनानि मनीषा मनीषया प्रियातिशयबुद्ध्या प्र भरे प्रकर्षेण संपादयामि । कस्य विशेष इति तत्राह । अतूर्तः केनाप्यहिंसितो यो राजा मे मदर्थं सहस्रं तत्संख्याकान्सवान् । सूयन्ते सोमा एत इति सवाः सोमयागाः । तानमिमीत संपूर्णधनप्रदानेन निर्मितवान् [?] । किमिच्छन् । श्रवः सर्वैः श्रूयमाणां कीर्तिमात्मन इच्छमानः कामयमानः । यतोऽयमार्त्विज्यादुपाधिना विना कीर्त्यर्थमेव बहु धनं प्रादात् अतस्तं स्तौमीत्यर्थः ॥
+
+> *sindhau sindhudeśe yadvā lakṣaṇayā sindhutīre samudratīre 'dhi kṣiyato 'dhinivasato bhāvyasya bhāvayavyasya | tatputrasya svanayasyetyarthaḥ | tasmā amandānalpān stomān stotrāṇi tanniṣṭhabahuvidhadānādīnāṃ kīrtanāni manīṣā manīṣayā priyātiśayabuddhyā pra bhare prakarṣeṇa saṃpādayāmi | kasya viśeṣa iti tatrāha | atūrtaḥ kenāpyahiṃsito yo rājā me madarthaṃ sahasraṃ tatsaṃkhyākānsavān | sūyante somā eta iti savāḥ somayāgāḥ | tānamimīta saṃpūrṇadhanapradānena nirmitavān [?] | kimicchan | śravaḥ sarvaiḥ śrūyamāṇāṃ kīrtimātmana icchamānaḥ kāmayamānaḥ | yato 'yamārtvijyādupādhinā vinā kīrtyarthameva bahu dhanaṃ prādāt atastaṃ staumītyarthaḥ ‖*
+
+*(Read from the image; checked against the OCR, which agrees on the structure. The word "nirmitavān" [?] near the end of the middle sentence is doubtful.)* "*Sindhau* — in the Sindhu country, or, by implication, on the bank of the Sindhu, on the sea-shore; *adhi kṣiyataḥ* — of *bhāvyasya*, Bhāvayavya, dwelling there; that is, of his son Svanaya. For him I *pra bhare* — bring forth well, compose — *amandān stomān* — not small praises, songs of praise, proclamations of his many gifts and the like — *manīṣā*, with the mind, with a mind exceedingly fond. Who is the particular one? To that he says: *atūrtaḥ* — unharmed by anyone — *yaḥ rājā* — the king who for my sake *sahasram savān* — a thousand Soma sacrifices (*savāḥ* are the Soma sacrifices, since 'these Soma are pressed') — *amimīta* — built, by the bestowal of full wealth. Wishing what? *Śravaḥ* — fame that is heard of by all, desiring it for himself. Since he gave much wealth for fame alone, without the pretext of priestly service, therefore I praise him: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Atūrtaḥ* — unharmed; *yaḥ rājā* — the king (called Svanaya); *me* — for me; *sahasram* — a thousand; *savān* — (Soma) sacrifices; *śravaḥ* — (only) fame; *icchamānaḥ* — wishing; *amimīta* — (by giving wealth) has made; *tasya* — that [king]; *sindhau* — on the bank of the Sindhu (sea); *adhi kṣiyataḥ* — dwelling; *bhāvyasya* — of Bhāvayavya's son Svanaya; *amandān* — endless; *stomān* — praises; *manīṣā* — with a mind; *pra bhare* — I make (I praise).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** (Having given wealth for the performance of a thousand Soma sacrifices, he made [the sacrifices] favourable to me, out of desire for fame alone;) I praise with my mind that king called Svanaya, son of Bhāvayavya, who dwells on the sea-shore.
+
+### Printed p. 222  (PDF 243)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**Printed English (as printed):** *I repeat with a (willing) mind, the unreluctant praises of Bhavya, dwelling on the banks of the Sindhu : a prince of unequalled (might), desirous of renown, who has enabled me to celebrate a thousand sacrifices.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 1.**
+
+***amandān stomān*** — *analpān kīrtanāni*: "not small, many praises". It is stated that "I resolve to compose praises in the form of Soma, which are not small and are of many kinds". In the present ṛk, though *stoma* means "praise", we shall consider carefully the descriptions of the various *stomas* as they apply.
+
+Among the *stomas* there are nine main divisions: the *trivṛt* stoma, the *pañcadaśa* stoma, the *saptadaśa* stoma, the *ekaviṃśa* stoma, the *triṇava* stoma, the *trayastriṃśa* stoma, the *caturviṃśa* stoma, the *catuścatvāriṃśa* stoma, and the *aṣṭācatvāriṃśa* stoma; and the numbers of ṛks are in accordance with the name of each stoma. This number is to be understood as applying to each *viṣṭuti* of the stoma. Their descriptions are given at length in the 2nd part of the Ṛk Saṃhitā, pp. 139 to 19[?] [as printed; the second numeral is not clear to me].
+
+Of these stomas, the *trivṛt* stoma is recited at the morning pressing, the *pañcadaśa* at the midday pressing, and the *saptadaśa* at the third pressing. In sacrifices such as the *abhiplava ṣaḍaha*, after the singing of the stomas — *trivṛt* and the like — which must be sung in the rites such as the morning pressing, there are other stomas, said in some contexts to be *uttara-stomas*, whose singing is called *stomavṛddhi* ("increase of the stoma"). For the singing of these increases of the stoma, ṛks of a larger number are to be recited, in order to equal the increase, by the *maitrāvaruṇa*, *brāhmaṇācchaṃsin* and *acchāvāka* priests of the *hotṛ* group.
+
+Thus the nine divisions stated above can also be increased by *āvāpa* (insertion) to thirteen, fourteen, sixteen and so on. For example —
+
+> वसवस्त्रयोदशाक्षरेण त्रयोदशं स्तोममुदजयन्रुद्राश्चतुर्दशाक्षरेण चतुर्दशग्ं स्तोममुदजयन्नादित्याः पञ्चदशाक्षरेण पञ्चदशग्ं स्तोममुदजयन्नदितिः षोडशाक्षरेण षोडशग्ं स्तोममुदजयत्प्रजापतिः सप्तदशाक्षरेण सप्तदशग्ं स्तोममुदजयत् ॥
+
+> *vasavastrayodaśākṣareṇa trayodaśaṃ stomamudajayanrudrāścaturdaśākṣareṇa caturdaśagṃ stomamudajayannādityāḥ pañcadaśākṣareṇa pañcadaśagṃ stomamudajayannaditiḥ ṣoḍaśākṣareṇa ṣoḍaśagṃ stomamudajayatprajāpatiḥ saptadaśākṣareṇa saptadaśagṃ stomamudajayat ‖*
+
+(Tai. Saṃ. 1-2-11-? [?], as read — the numerals "೧-೨-೧೧-೪೪" are small and doubtful.) *(Read letter by letter; the *ग्ं* notation is as printed.)* "The Vasus, with a thirteen-syllable [formula], won the thirteenfold stoma; the Rudras, with a fourteen-syllable, won the fourteenfold stoma; the Ādityas with a fifteen-syllable won the fifteenfold stoma; Aditi with a sixteen-syllable won the sixteenfold stoma; Prajāpati with a seventeen-syllable won the seventeenfold stoma" — by these Taittirīya Saṃhitā sentences the order in which the Vasus, Rudras, Ādityas, Aditi and Prajāpati won the thirteen-, fourteen-, fifteen-, sixteen-, and seventeen-fold stomas is
+
+### Printed p. 223  (PDF 244)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+stated. The power of the stomas is exceedingly great; and that by reciting them all desired ends may be won is also stated in the Taittirīya Saṃhitā itself.
+
+> प्रातःसवने वै गायत्रेण छन्दसा त्रिवृते स्तोमाय ज्योतिर्दधदेति त्रिवृता ब्रह्मवर्चसेन पञ्चदशाय ज्योतिर्दधदेति पञ्चदशेनौजसा वीर्येण सप्तदशाय ज्योतिर्दधदेति सप्तदशेन प्राजापत्येन प्रजननेनैकविंशाय ज्योतिर्दधदेति स्तोम एव तत्स्तोमाय ज्योतिर्दधदेत्यथो स्तोम एव स्तोममभि प्रणयति यावन्तो वै स्तोमास्तावन्तः कामास्तावन्तो लोकास्तावन्ति ज्योतींषि तावत एव स्तोमानेतावतः कामानेतावतो लोकानेतावन्ति ज्योतींष्यवरुन्धे ॥
+
+> *prātaḥsavane vai gāyatreṇa chandasā trivṛte stomāya jyotirdadhadeti trivṛtā brahmavarcasena pañcadaśāya jyotirdadhadeti pañcadaśenaujasā vīryeṇa saptadaśāya jyotirdadhadeti saptadaśena prājāpatyena prajananenaikaviṃśāya jyotirdadhadeti stoma eva tatstomāya jyotirdadhadetyatho stoma eva stomamabhi praṇayati yāvanto vai stomāstāvantaḥ kāmāstāvanto lokāstāvanti jyotīṃṣi tāvata eva stomānetāvataḥ kāmānetāvato lokānetāvanti jyotīṃṣyavarundhe ‖*
+
+(Tai. Saṃ. 2-1-3-2 [?], as read; the numerals are small and doubtful.) *(Read letter by letter from the print; a few syllables of the second half are doubtful — "ekaviṃśāya" and "pra-ṇayati" are as printed.)* "In the morning pressing, with the gāyatra metre, he goes bringing light for the *trivṛt* stoma, with the *trivṛt* [which is] *brahmavarcasa*; he goes bringing light for the fifteenfold, with the fifteenfold [which is] vigour, heroism; for the seventeenfold, with the seventeenfold [which is] of Prajāpati, procreation; for the twenty-one-fold, … the stoma indeed, he leads the stoma to the stoma. As many as are the stomas, so many are the desires, so many the worlds, so many the lights: so many stomas, so many desires, so many worlds, so many lights he wins." In these sentences the power of four kinds of stoma is stated. The sacrificer, at the morning pressing, sets the *trivṛt* stoma, with the gāyatra metre, in a place of eminence; likewise with the *trivṛt* he makes the *pañcadaśa* stoma shine like a light; and the fifteenfold [he makes] full of heroism; and, with the seventeenfold, which has connection with Prajāpati and is the means of procreation, he makes the twenty-one-fold full of splendour. Thus one kind of stoma gives power and brilliance to another. As many as the stomas there are, so many worlds, so many brilliances, so many desired ends; and one who recites the stomas wins so many: thus the power of the stomas is explained, and then the loss that follows from non-recitation of the stomas.
+
+> ब्रह्मवादिनो वदन्ति स त्वै यजेत योऽग्निष्टोमेन यजमानोऽथ सर्वस्तोमेन यजेतेति यस्य त्रिवृतमन्तर्यन्ति प्राणान्स्तस्यान्तर्यन्ति प्राणेषु मेऽसदिति खलु वै यज्ञेन यजमानो यजते यस्य पञ्चदशमन्तर्यन्ति वीर्यं तस्यान्तर्यन्ति वीर्ये मेऽसदिति खलु वै यज्ञेन यजमानो यजते यस्य सप्तदशमन्तर्यन्ति प्रजां तस्यान्तर्यन्ति प्रजायां मेऽसदिति खलु वै यज्ञेन यजमानो यजते यस्यैकविंशमन्तर्यन्ति प्रतिष्ठां तस्यान्तर्यन्ति प्रतिष्ठायां मेऽसदिति खलु वै यज्ञेन यजमानो यजते यस्य त्रिणवमन्तर्यन्ति क्रतुं [?] तस्यान्तर्यन्ति नक्षत्रियां च विराजमन्तर्यन्ति ऋतुषु मेऽसदिति खलु वै यज्ञेन यजमानो यजते यस्य त्रयस्त्रिंशमन्तर्यन्ति देवताः तस्यान्तर्यन्ति देवतासु मेऽसदिति खलु वै यज्ञेन यजमानो
+
+> *brahmavādino vadanti sa tvai yajeta yo 'gniṣṭomena yajamāno 'tha sarvastomena yajeteti yasya trivṛtamantaryanti prāṇānstasyāntaryanti prāṇeṣu me 'saditi khalu vai yajñena yajamāno yajate yasya pañcadaśamantaryanti vīryaṃ tasyāntaryanti vīrye me 'saditi khalu vai yajñena yajamāno yajate yasya saptadaśamantaryanti prajāṃ tasyāntaryanti prajāyāṃ me 'saditi khalu vai yajñena yajamāno yajate yasyaikaviṃśamantaryanti pratiṣṭhāṃ tasyāntaryanti pratiṣṭhāyāṃ me 'saditi khalu vai yajñena yajamāno yajate yasya triṇavamantaryanti kratuṃ [?] tasyāntaryanti nakṣatriyāṃ ca virājamantaryanti ṛtuṣu me 'saditi khalu vai yajñena yajamāno yajate yasya trayastriṃśamantaryanti devatāḥ tasyāntaryanti devatāsu me 'saditi khalu vai yajñena yajamāno*
+
+*(Read letter by letter from the print; the long passage is in very small type, the Sanskrit is given with the doubtful readings marked [?], and the passage continues on p. 224. I have not completed any word from memory; the clause for the *triṇava* stoma ("kratuṃ [?] … nakṣatriyāṃ ca virājam") is the one I am least sure of, and the OCR does not help there.)*
+
+### Printed p. 224  (PDF 245)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+> यजते यो वै स्तोमानामवमं परमतां गच्छन्तं वेद परमतामेव गच्छति त्रिवृद्वै स्तोमानामवमस्त्रिवृत्परमो य एवं वेद परमतामेव गच्छति ॥
+
+> *yajate yo vai stomānāmavamaṃ paramatāṃ gacchantaṃ veda paramatāmeva gacchati trivṛdvai stomānāmavamastrivṛtparamo ya evaṃ veda paramatāmeva gacchati ‖*
+
+(Tai. Saṃ. 6-1-3-8 to 10 [?], as read from the OCR "६-१-३-८ रिंद १०"; the print "೬-೧-೩-೮" is small.) The scholars of the śāstra have laid down that one who sacrifices with the Agniṣṭoma must sacrifice with all stomas. In this rule, if the *trivṛt* stoma is left out, his vital breaths are lost, so the sacrificer sacrifices with the thought "let this sacrifice be contained in my vital breaths"; likewise if the *pañcadaśa* is left out, heroic strength is lost; if the *saptadaśa* is left out, he goes without progeny; if the *ekaviṃśa* is left out, his support (*pratiṣṭhā*) is lost; if the *triṇava* is left out, … the seasons and the stars (as helpers) are lost to him; if the *trayastriṃśa* is left out, the chief deities are lost: so the sacrificer performs the rite by *pañcadaśa* for the sake of heroic strength, by *saptadaśa* for the gain of progeny, by *ekaviṃśa* for the support of life, by *triṇava* for the benefit of the seasons and constellations, by *trayastriṃśa* for the gain of the deities. He who knows the greatness of the *trivṛt* stoma, which has the first place among all stomas, wins the first place among sacrificers.
+
+Thus describing the glory of the *trivṛt* and other stomas —
+
+> त्रिवृदग्निष्टोमो भवति तेज एवावरुन्धे पञ्चदशो भवतीन्द्रियमेवावरुन्धे सप्तदशो भवत्यन्नाद्यमवरुन्धे । अथो एकविंशो भवति प्रतिष्ठित्यै । अथो रुचमेवात्मन्धत्ते त्रिणवो भवति विजित्यै त्रयस्त्रिंशो भवति प्रतिष्ठित्यै ॥
+
+> *trivṛdagniṣṭomo bhavati teja evāvarundhe pañcadaśo bhavatīndriyamevāvarundhe saptadaśo bhavatyannādyamavarundhe | atho ekaviṃśo bhavati pratiṣṭhityai | atho rucamevātmandhatte triṇavo bhavati vijityai trayastriṃśo bhavati pratiṣṭhityai ‖*
+
+(Tai. Saṃ. 2-1-3-3 [?], as read; "ekaviṃśa … pratiṣṭhityai" is as printed and the clause order is doubtful in my reading.) *(Read letter by letter; marked doubtful as a whole, since the passage is small and the OCR garbles it.)* — by the *trivṛt* stoma he wins brilliance; by the fifteenfold, vigour; by the seventeenfold, food; by the twenty-one-fold, support; by the *triṇava*, victory; by the thirty-three-fold, greatness: thus the purposes of reciting the stomas are told. Also in the Kaṭha Upaniṣad —
+
+> स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः ॥
+
+> *stomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ ‖*
+
+(Ka. U. 1-1-? [?], as read; the numerals "೩-೧೧"? are unclear.) — by this sentence the greatness of the *stoma*, and the spiritual peace to be had from it, are shown. In the Chāndogya Upaniṣad…
+
+---
+
+**Progress note:** Sūkta 125 complete (printed pp. 187–219). Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 224 (PDF 245): introduction and Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Ṛk 1 Special Topics (*amandān stomān* — the stomas passage) breaks off mid-sentence at the foot of p. 224 ("In the Chāndogya Upaniṣad…"); resume p. 225 (PDF 246). Open flags: the p. 189 itihāsa bhāṣya (partial); the Taittirīya Saṃhitā quotations on pp. 222–224 are small type with several [?].
