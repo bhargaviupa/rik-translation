@@ -9614,4 +9614,76 @@ learn well the nature, qualities, greatness and works of the several deities, se
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 375 (PDF 396): Ṛk 1 complete; Ṛk 2 complete except the last entries of its grammar page (the page-375 list ends at *īśānāsaḥ*; the remainder, if any, and ‖ 2 ‖ are on p. 376); resume p. 376 (PDF 397). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 and the Ṛk 2 bhāṣya (p. 371) and Special Topics (p. 373); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 376  (PDF 397)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Grammar of Ṛk 2, concluded.)* *iradhanta* — *iradha* is a *sautra* root, used in the sense of serving; by the Vedic usage a *laṅ* in the present sense; third person plural; by *bahulaṃ chandasy amāṅyoge 'pi* the augment *aṭ* does not occur; *tiṅ-nighāta*. ‖ 2 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीररुं शूर मर्त्यम् ।
+> परिवृणक्षि मर्त्यम् ।
+> इन्द्रोत तुभ्यं तद्दिवे तद्रुद्राय स्वयशसे ।
+> मित्राय वोचं वरुणाय सप्रथः सुमृळीकाय सप्रथः ॥ ३ ॥
+
+> *dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cidyāvīraruṃ śūra martyam |*
+> *parivṛṇakṣi martyam |*
+> *indrota tubhyaṃ taddive tadrudrāya svayaśase |*
+> *mitrāya vocaṃ varuṇāya saprathaḥ sumṛḷīkāya saprathaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> दस्मः । हि । स्म । वृषणम् । पिन्वसि । त्वचम् । कम् । चित् । यावीः । अरुम् । शूर । मर्त्यम् ।
+> परिऽवृणक्षि । मर्त्यम् ।
+> इन्द्र । उत । तुभ्यम् । तत् । दिवे । तत् । रुद्राय । स्वऽयशसे ।
+> मित्राय । वोचम् । वरुणाय । सऽप्रथः । सुऽमृळीकाय । सऽप्रथः ॥ ३ ॥
+
+> *dasmaḥ | hi | sma | vṛṣaṇam | pinvasi | tvacam | kam | cit | yāvīḥ | arum | śūra | martyam |*
+> *pari 'vṛṇakṣi | martyam |*
+> *indra | uta | tubhyam | tat | dive | tat | rudrāya | sva 'yaśase |*
+> *mitrāya | vocam | varuṇāya | sa 'prathaḥ | su 'mṛḷīkāya | sa 'prathaḥ ‖ 3 ‖*
+
+*(Read from the image: Saṃhitā "*yāvīr arum*"; Pada *yāvīḥ | arum*; *sa-prathaḥ*, *su-mṛḷīkāya*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं दस्मो हि । शत्रूणामुपक्षपणकर्ता खलु । अत एव कारणाद्वृषणं स्वतो वर्षणशीलं त्वचं संवरणवन्तं पुटबन्धनवदुदकवेष्टनवन्तं कं चिन्मेघं पिन्वसि । निर्भिद्य सेचयसि । किंच मर्त्यं मर्त्यवदरुमरणशीलं गमनस्वभावं कंचिन्मेघं हे शूर विक्रान्त यावीः । मिश्रयसि ॥ यौतेश्छान्दसे लुङि [?] छान्दसोऽडभावः ॥ आवर्षणेन गच्छन्तं बलान्निगृह्य वर्षयसीत्यर्थः ।
+
+> *he indra tvaṃ dasmo hi | śatrūṇāmupakṣapaṇakartā khalu | ata eva kāraṇādvṛṣaṇaṃ svato varṣaṇaśīlaṃ tvacaṃ saṃvaraṇavantaṃ puṭabandhanavadudakaveṣṭanavantaṃ kaṃ cinmeghaṃ pinvasi | nirbhidya secayasi | kiṃca martyaṃ martyavadarumaraṇaśīlaṃ gamanasvabhāvaṃ kaṃcinmeghaṃ he śūra vikrānta yāvīḥ | miśrayasi ‖ yauteśchāndase luṅi [?] chāndaso 'ḍabhāvaḥ ‖ āvarṣaṇena gacchantaṃ balānnigṛhya varṣayasītyarthaḥ |*
+
+### Printed p. 377  (PDF 398)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+> यथा शूरः कश्चिद्बलवन्तं गच्छन्तं वैरिणं निगृह्य स्वीकरोति तद्वदित्यर्थः । तथा मर्त्यं मरणशीलं शीर्यमाणस्वभावं निरुदकं कंचिन्मेघं परिवृणक्षि । सर्वतो वर्जयसि । औदासीन्यं करोषीत्यर्थः । हे इन्द्र तादृशं कर्म वर्षणरूपं सप्रथः सर्वतः पृथु यथा भवति तथा तुभ्यं वोचम् । ब्रवीमि । इन्द्र एव विशेष्यते । स्वयशसे स्वकीययशोयुक्ताय । तथा दिवे उत त्वदाश्रयभूताय द्युलोकदेवताया अपि तत्तादृशं कर्म वोचम् । ब्रवीमि । उतशब्दोऽपिशब्दार्थः । वर्षणकर्मणो द्युदेवताया आनुकूल्यात्तस्या अपि वचनं युक्तम् । तथा रुद्राय जगतां दुःखद्रावयित्रे रोदनशीलाय वाग्नये तद्वोचम् । रुद्रो वै क्रूरो यदयमग्निरिति श्रुतेः रुद्रत्वम् । [small type, doubtful:] रोरूयमाणो द्रवतीति रुद्रस्य रुद्रत्वम् । तै. सं. १-५-१-१ [?] इति श्रुतेः । रोदनस्वभावत्वं प्रसिद्धम् । तस्य चापि द्वारा वृष्ट्यनुकूलत्वात्तस्यापि कथनं युक्तम् । स्वयशस इत्यस्य रुद्रायेत्यनेन वा सम्बन्धः सन्निहितत्वाद्द्योर्गृह्यत्वाच्च । स्वकीययशोयुक्ताय [?] । तथा मित्राय अहरभिमानिदेवतायै तद्वोचम् । वरुणाय रात्र्यभिमानिदेवतायै तद्वोचम् । अहोरात्रे वै मित्रावरुणौ । ताण्ड्य… १३-१०-१० [?] अहोरात्राभ्यां खलु वै पर्जन्यो वर्षति । तै. सं. … इति तथा मैत्रं वा अहर्वारुणी रात्रिरित्यादिश्रुतिभ्यो मित्रावरुणयोरहोरात्राभिमानिदेवत्वम् । अत एव श्रुतेर्वृष्टिप्रदात्वात्ताभ्यामपि प्रार्थनं युक्तम् । सुमृळीकाय शोभनसुखयित्रे प्रजानाम् । एतत्सर्वत्र सम्बध्यते । उक्तेभ्यो देवेभ्यः सप्रथः सर्वतः पृथिवीविस्तीर्णं यथा भवति तथा तद्वर्षणकर्म ब्रवीमि ॥
+
+> *yathā śūraḥ kaścidbalavantaṃ gacchantaṃ vairiṇaṃ nigṛhya svīkaroti tadvadityarthaḥ | tathā martyaṃ maraṇaśīlaṃ śīryamāṇasvabhāvaṃ nirudakaṃ kaṃcinmeghaṃ parivṛṇakṣi | sarvato varjayasi | audāsīnyaṃ karoṣītyarthaḥ | he indra tādṛśaṃ karma varṣaṇarūpaṃ saprathaḥ sarvataḥ pṛthu yathā bhavati tathā tubhyaṃ vocam | bravīmi | indra eva viśeṣyate | svayaśase svakīyayaśoyuktāya | tathā dive uta tvadāśrayabhūtāya dyulokadevatāyā api tattādṛśaṃ karma vocam | bravīmi | utaśabdo 'piśabdārthaḥ | varṣaṇakarmaṇo dyudevatāyā ānukūlyāttasyā api vacanaṃ yuktam | tathā rudrāya jagatāṃ duḥkhadrāvayitre rodanaśīlāya vāgnaye tadvocam | rudro vai krūro yadayamagniriti śruteḥ rudratvam | [small type, doubtful:] rorūyamāṇo dravatīti rudrasya rudratvam | tai. saṃ. 1-5-1-1 [?] iti śruteḥ | rodanasvabhāvatvaṃ prasiddham | tasya cāpi dvārā vṛṣṭyanukūlatvāttasyāpi kathanaṃ yuktam | svayaśasa ityasya rudrāyetyanena vā sambandhaḥ sannihitatvāddyorgṛhyatvācca | svakīyayaśoyuktāya [?] | tathā mitrāya aharabhimānidevatāyai tadvocam | varuṇāya rātryabhimānidevatāyai tadvocam | ahorātre vai mitrāvaruṇau | tāṇḍya… 13-10-10 [?] ahorātrābhyāṃ khalu vai parjanyo varṣati | tai. saṃ. … iti tathā maitraṃ vā aharvāruṇī rātrirityādiśrutibhyo mitrāvaruṇayorahorātrābhimānidevatvam | ata eva śrutervṛṣṭipradātvāttābhyāmapi prārthanaṃ yuktam | sumṛḷīkāya śobhanasukhayitre prajānām | etatsarvatra sambadhyate | uktebhyo devebhyaḥ saprathaḥ sarvataḥ pṛthivīvistīrṇaṃ yathā bhavati tathā tadvarṣaṇakarma bravīmi ‖*
+
+*(Read from the image; the Śruti quotations in this long small-type passage (the Rudra etymology, the Tāṇḍya and Taittirīya references "१३-१०-१०", "१-५-१-१") are partly illegible and are given only as read, with [?]: I do not claim them.)* Sense: "O Indra, you are *dasma* — destroyer of enemies; therefore you pierce (*pinvasi*) any cloud, which by itself is of a raining nature, covered (*tvacam*) as with a skin — wrapped in water like a bundle — and make it pour; and any cloud of the nature of a mortal, i.e. going, moving, you, O hero, mix (*yāvīḥ*): you make it rain by force, though it goes on without raining; as a hero seizes a strong enemy who goes by and takes him, so also the mortal cloud — dying, wasting away without water — you avoid altogether (*parivṛṇakṣi*), i.e. you are indifferent to it. O Indra, I tell you (*vocam*) such a deed, the raining, *saprathaḥ* — so that it becomes widely spread; to Indra himself (*svayaśase* — the self-glorious); and also to heaven (*dive*), the deity of the heaven world that is your support; the word *uta* has the sense of *api*; since the work of raining is helped by the deity of heaven, speaking to heaven also is proper; and to Rudra, the one who makes the world's sorrows flee, the crier, or Agni (the Śruti: 'Rudra is cruel; this is Agni'); and to Mitra, the deity of the day, and to Varuṇa, the deity of the night ('Mitra and Varuṇa are day and night'; 'by day and night Parjanya rains'); and to *sumṛḷīka*, the giver of good happiness to the people: this is connected with each. To these gods I tell this deed of raining, so that it spreads widely over the earth."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra; *tvam* — you); *dasmaḥ hi* — the destroyer of enemies, therefore; *vṛṣaṇam* — raining by nature; *tvacam* — covered (with a skin of water); *kaṃ cit* — some cloud; *pinvasi sma* — you pierce and make it rain; *martyam* — like a man; *arum* — going (a cloud that goes without raining); *śūra* — O hero; *yāvīḥ* — you mix (make it rain); *martyam* — like a mortal (without water); *pari vṛṇakṣi* — you leave indifferently; *he indra* — O Indra; *tat* — that deed of rain; *saprathaḥ* — so that it is renowned everywhere; *tubhyam* — to you; *vocam* — I tell; *(tathā* — likewise); *svayaśase* — to you, endowed with your own glory; *dive uta* — to the deity of the heaven world; *tat* — that deed; *vocam* — I tell; *svayaśase* — endowed with own glory;
+
+### Printed p. 378  (PDF 399)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 29 Sū. 129" [as read: "೧೯"].)*
+
+*rudrāya* — to Agni (Rudra), remover of the world's sorrows; *(vocam* — I tell); *mitrāya* — to Mitra (the deity of the day); *varuṇāya* — to Varuṇa (the deity of the night); *(vocam* — I tell); *sumṛḷīkāya* — to the giver of happiness and delight to the people (to each of the gods stated above); *saprathaḥ* — so that it becomes renowned everywhere; *(vocam* — I tell).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, destroyer of enemies, you pierce the skin of a cloud that holds the rain; you overtake the cloud that moves on (to make it rain); the one without water you leave aside with indifference; O Indra, I tell this deed of rain so that it is known everywhere; to the deity of the heaven world, who gives the people happiness and delight, to Rudra (Agni), the remover of sorrow, to Mitra (of the day) and Varuṇa (of the night), I make known your deed of raining.
+
+**Printed English (heading "English Translation"; as printed, beginning in lower case):** *"you, the subduer (of adversaries), piercest every rain (confining) skin; you overtake, hero, every flying mortal (cloud), and abandone* [sic] *(it) when exhausted (of its water); for such glorious deed, Indra, I offer praise to your* [sic]; *to heaven; to the self-glorifying Rudra; to Mitra; (to each) the benefactor (of mankind) for such glorious (deed)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+***dasmo vṛṣaṇaṃ tvacaṃ kaṃ cit pinvasi*** — *śatrūṇām upakṣapaṇakartā | svataḥ varṣaṇaśīlaṃ puṭabandhanavad udakaveṣṭanavantaṃ jaladhāriṇaṃ megham nirbhidya secayati*: "Indra, the subduer of enemies, pierces the cloud, which holds water enclosed round it like a rampart round a city; though it is by nature a raining thing, Indra sends it to rain as a cloud pours its rain": so the meaning.
+
+***arum martyaṃ yāvīḥ*** — *martyavad gamanaśīlaṃ kaṃcin megham miśrayasi*: "as a man who has no object wanders about without purpose, there is a cloud wandering about; Indra compels the cloud by force and makes it pour rain, even from the cloud that gives no rain": so the meaning. By this the worldly custom is described in Indra's case, namely that a hero, seeing his strong enemy moving about of his own will, seizes him and keeps him under his control.
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 378 (PDF 399): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā…English done and the Special Topics begun (first two entries: *dasmo … pinvasi*, *arum martyaṃ yāvīḥ*); resume p. 379 (PDF 400), where the Special Topics continue (*parivṛṇakṣi*, *vocam*, Mitra/Varuṇa/Rudra …). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373) and Ṛk 3 (p. 377, Śruti quotations); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
