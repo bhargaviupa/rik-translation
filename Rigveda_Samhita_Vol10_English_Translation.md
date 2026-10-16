@@ -13841,4 +13841,88 @@ That is: the opinion of that scholar is that it is from the root *rādh-saṃsid
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛk 2 written through p. 578 (Special Topics complete; grammar of the first words *mandantu … iradhyai* on p. 578, the grammar continues on p. 579); resume p. 579, PDF 600; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 579  (PDF 600)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Grammar of Ṛk 2, continued from p. 578.)* *sacante* — root *ṣaca samavāye*; *laṭ*, third person plural; as the verb is connected with *yat*, the *nighāta* accent does not occur; as the *lasārvadhātuka* is *anudātta*, the root's accent remains. *sadhrīcīnāḥ* — root *añcu gatipūjanayoḥ*; *saha añcati* — when the compound is formed, *ṛtvik-dadhṛk-…* (Pā. 3-2-59 [as read]) gives the suffix *kvin*; *sahasya sadhriḥ* (Pā. 6-3-95 [as read]) gives *sadhri* as a substitute for the preceding word; *vibhāṣāñceś…* (Pā. 5-4-8 [as read]) gives the suffix *kha* in its own sense; *āyaneyīnīya…* (Pā. 7-1-2 [as read]) gives *īna* for *kha*; by *vyatyaya* the final udātta. *bruvate* — root *brūñ vyaktāyāṃ vāci*; *adādi*; *laṭ*, third person plural; the suffix *jha* → *ran*; *ṭi*'s *e*; *śap* luk; *ātmanepadeṣv anataḥ* (Pā. 7-1-5 [as read]) gives *at* for the suffix; *brūva īṭ* [as read] — *āhaś ca thāsor bhūvām* … gives *uvaṅ* [*bruva*]; as it follows a *tiṅanta*, *nighāta*. ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> वायुर्युङ्क्ते रोहिता वायुररुणा वायू रथे अजिरा धुरि वोळ्हवे वहिष्ठा धुरि वोळ्हवे ।
+> प्र बोधया पुरन्धिं जार आ ससतीमिव ।
+> प्र चक्षय रोदसी वासयोषसः श्रवसे वासयोषसः ॥ ३ ॥
+
+> *vāyuryuṅkte rohitā vāyuraruṇā vāyū rathe ajirā dhuri voḷhave vahiṣṭhā dhuri voḷhave |*
+> *pra bodhayā purandhiṃ jāra ā sasatīmiva |*
+> *pra cakṣaya rodasī vāsayoṣasaḥ śravase vāsayoṣasaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> वायुः । युङ्क्ते । रोहिता । वायुः । अरुणा । वायुः । रथे । अजिरा । धुरि । वोळ्हवे । वहिष्ठा । धुरि । वोळ्हवे ।
+> प्र । बोधय । पुरम्ऽधिम् । जारः । आ । ससतीम्ऽइव ।
+> प्र । चक्षय । रोदसी इति । वासय । उषसः । श्रवसे । वासय । उषसः ॥ ३ ॥
+
+> *vāyuḥ | yuṅkte | rohitā | vāyuḥ | aruṇā | vāyuḥ | rathe | ajirā | dhuri | voḷhave | vahiṣṭhā | dhuri | voḷhave |*
+> *pra | bodhaya | puram 'dhim | jāraḥ | ā | sasatīm 'iva |*
+> *pra | cakṣaya | rodasī iti | vāsaya | uṣasaḥ | śravase | vāsaya | uṣasaḥ ‖ 3 ‖*
+
+### Printed p. 580  (PDF 601)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 3; read from the image; doubtful words marked [?].)*
+
+> अयं वायू रोहिता रोहितवर्णावश्वौ धुरि धारणप्रदेशे रथस्याग्रभागे यद्वा भारवहने युङ्क्ते । [?] नियोजयति । तथा कदाचिदरुणारुणवर्णौ धुरि युङ्क्ते । तथाजिराजिरौ गमनशीलौ वर्णविशेषयुक्तौ कदाचिद्युङ्क्ते । यद्वा । एतदुभयत्र संबध्यते । किमर्थम् । युङ्क्ते इति तदाह । वोळ्हवे धुरं वोढुं भारवहनाय । किंच वहिष्ठा वहिष्ठावतिशयेन वोढारावश्वौ ॥ वोढृशब्दादिष्ठनि तुरिष्ठमेयःसु [?] इति तृलोपः । टिकारादिकमसिद्धत्वान्नि वर्तते । द्विवचनस्याकारः ॥ धुरि वोळ्हवे महद्भारं वोढुं महति भारे वोढव्ये सति । पुनःपुनर्वायुग्रहणमश्वयोजनवचनं चातिशीघ्रमागच्छतीति ज्ञापनार्थम् । इदानीं प्रत्यक्षेणाह । हे वायो पुरन्धिं बहुप्रज्ञां सामर्थ्याद्यजमानमिति गम्यते । पुरंधिर्बहुधीरिति यास्कः । नि. ६-१३ [?] । तं प्र बोधय । रथेन शीघ्रमागत्य प्रज्ञापय हविःस्वीकारायेति भावः । तत्र दृष्टान्तः । जारः पारदारिक आ ससतीमुपेत्यागमनध्यानेन [?] स्वपन्तीं पुरन्धिमिव प्रकृष्टशरीरधारिणीं योषितामिव । तां यथा स्वसंकेतेन स प्रबोधयति तद्वत्त्वमपि कर्मव्यग्रं [?] यजमानं प्रबोधय । किंच तदर्थं रोदसी द्यावापृथिव्यौ प्र चक्षय । प्रकर्षेण प्रख्यापय । प्रकाशयेत्यर्थः । तत्र प्रकाशार्थमुषसो वासय । उषःकालानसि [?] यथावस्थापय । प्रभातं कुर्वित्यर्थः । पुनस्तदेव प्रार्थ्यते । श्रवसे श्रव इत्यन्ननाम । तव हविरूपान्नस्वीकारायोषसो वासय ॥
+
+> *ayaṃ vāyū rohitā rohitavarṇāvaśvau dhuri dhāraṇapradeśe rathasyāgrabhāge yadvā bhāravahane yuṅkte | [?] niyojayati | tathā kadācidaruṇāruṇavarṇau dhuri yuṅkte | tathājirājirau gamanaśīlau varṇaviśeṣayuktau kadācidyuṅkte | yadvā | etadubhayatra saṃbadhyate | kimartham | yuṅkte iti tadāha | voḷhave dhuraṃ voḍhuṃ bhāravahanāya | kiṃca vahiṣṭhā vahiṣṭhāvatiśayena voḍhārāvaśvau ‖ voḍhṛśabdādiṣṭhani turiṣṭhameyaḥsu [?] iti tṛlopaḥ | ṭikārādikamasiddhatvānni vartate | dvivacanasyākāraḥ ‖ dhuri voḷhave mahadbhāraṃ voḍhuṃ mahati bhāre voḍhavye sati | punaḥpunarvāyugrahaṇamaśvayojanavacanaṃ cātiśīghramāgacchatīti jñāpanārtham | idānīṃ pratyakṣeṇāha | he vāyo purandhiṃ bahuprajñāṃ sāmarthyādyajamānamiti gamyate | puraṃdhirbahudhīriti yāskaḥ | ni. 6-13 [?] | taṃ pra bodhaya | rathena śīghramāgatya prajñāpaya haviḥsvīkārāyeti bhāvaḥ | tatra dṛṣṭāntaḥ | jāraḥ pāradārika ā sasatīmupetyāgamanadhyānena [?] svapantīṃ purandhimiva prakṛṣṭaśarīradhāriṇīṃ yoṣitāmiva | tāṃ yathā svasaṃketena sa prabodhayati tadvattvamapi karmavyagraṃ [?] yajamānaṃ prabodhaya | kiṃca tadarthaṃ rodasī dyāvāpṛthivyau pra cakṣaya | prakarṣeṇa prakhyāpaya | prakāśayetyarthaḥ | tatra prakāśārthamuṣaso vāsaya | uṣaḥkālānasi [?] yathāvasthāpaya | prabhātaṃ kurvityarthaḥ | punastadeva prārthyate | śravase śrava ityannanāma | tava havirūpānnasvīkārāyoṣaso vāsaya ‖*
+
+*(Sense: "This Vāyu yokes the two red (*rohitā*) horses in front of the chariot, at the pole, or for bearing the burden; at times he yokes two ruddy-red (*aruṇā*), and at times the two *ajirā*, moving ones, of a particular colour. Or: this is connected in both [places]. For what purpose does he yoke? — *voḍhave*, to bear the burden of the yoke; and further *vahiṣṭhā*, the two horses that bear the burden most. [The suffix *iṣṭhan* after *vodhṛ*, with elision of *tṛ*; the plural/dual ending *ā*.] When there is a great burden to bear. The repeated mention of Vāyu and of yoking is to show that he comes very quickly. Now he speaks directly: O Vāyu, *purandhi* — [she/he] of much intelligence, [here] by implication the sacrificer — *purandhir bahudhīḥ* says Yāska (Ni. 6-[?], [?]) — awaken him; come swiftly by chariot and make him aware, for the acceptance of the oblation. The illustration: as a *jāra* — a paramour — coming to a sleeping (*sasatī*) woman, a *purandhi*, one with a fair body, awakens her by his own signal, so you also awaken the sacrificer, who is absorbed in the rite. And for that, *rodasī* — heaven and earth — *pra cakṣaya*, make known, illuminate; and for the light, make the dawns shine (*vāsaya*), make it dawn; and again the same prayer: for *śravas* [food], that you may take the oblation-food, make the dawns shine.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *vāyuḥ* — Vāyu; *rohitā* — two red horses; *rathe* — to the front part of the chariot; *dhuri* — to the yoke (to bear the burden); *yuṅkte* — yokes; *(kadācit)* — at one time; *vāyuḥ* — Vāyu; *aruṇā* — the two of ruddy colour (horses); *(yuṅkte)* — yokes; *(tathā)* — likewise; *ajirā* — the swift horses; *voḍhave* — in order to bear; *(yuṅkte)* — yokes; *vāyuḥ* — Vāyu; *vahiṣṭhā* — horses that are able to bear the load; *dhuri voḍhave* — to bear a heavy load; *(yuṅkte)* — yokes; *(he) vāyo* — O Vāyu; *jāraḥ* — a paramour; *ā sasatīm* — (awaiting the coming of a lover) one who is sleeping lightly; *purandhim iva* — like a woman of fair body; *[ā sasatīm — owing to carelessness, deeply asleep]*; *purandhim* — the sacrificer of much intelligence; *pra bodhaya* — awaken (and for that purpose).
+
+### Printed p. 581  (PDF 602)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Pratipadārtha concluded:)* *rodasī* — heaven and earth; *pra cakṣaya* — illuminate well; *uṣasaḥ* — the dawns; *vāsaya* — cause to shine (dwell); *śravase* — for the acceptance of the offered food; *uṣasaḥ* — the dawns; *vāsaya* — make manifest.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Vāyu yokes his two red horses to the chariot; at times he yokes the two ruddy ones; and [at others] the swift ones, the load-bearing horses. O Vāyu, as a paramour awakens the sleeping beloved who awaits him, so awaken the wise sacrificer (him) with vigilance; light up heaven and earth; and make the dawns shine in order that you may receive the offered food.
+
+**Printed English (heading "English Translation"; as printed):** *"Vayu yokes to his car his two red horses; Vayu (yokes) his purple steeds: Vayu (yokes) his two unwearied (coursers) to his car to bear their burthen; for most able are they to bear the burthen. Arouse, Vayu, the intelligent (sacrificer), as a gallant (awakens) his sleeping mistress: summon heaven and earth; light up the dawn; light up the dawn, (to receive) your sacrificial food."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+***vāyuḥ rohitā dhuri yuṅkte; aruṇā yuṅkte; ajirā yuṅkte*** — by sentences like these, the horses yoked to the chariot of Vāyu are described. *Rohito 'gneḥ; aruṇo gāvā uṣasām* [as read] — the vehicle of Agni is called *rohita*, the vehicles of Uṣas are called *aruṇyaḥ* (Ni. 2-[?], as read "೨-೨೫" [?]): the doubt "how are these yoked to Vāyu's chariot?" arises here. But if we understand the connexion between Vāyu and Agni, and between Vāyu and Uṣas, there is no room for this doubt.
+
+In the first Ṛk of this very Sūkta, while explaining the meaning of the word *sūnṛtā*, it was noted that there is one view saying that it is a synonym of *uṣas*. And as the word *pūrvapītaye* means "to drink before the other gods", and as in the Ṛk itself Uṣas is prayed to be made to shine, Vāyu has a close connexion with the deity Uṣas, and, as he appears earlier with her, this shows the similarity between the colour of the vehicle of Uṣas and the colour of the vehicle of Vāyu.
+
+### Printed p. 582  (PDF 603)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+In the same way, at the beginning of all acts of sacrifice in the world, Agni's oblations are performed straight after the rise of Vāyu; hence at dawn, in the form of the sun, it can be said that the colour of Agni's vehicle also is equal to the colour of Vāyu's horses; [and] at the time of Vāyu's coming, it can be said that all these colours were in his horses.
+
+***ajirā*** — the word *ajira* is among the names of *kṣipra* ("swift") (Ni. 2-[?], as read "೨-೯" [?]); it shows "that which moves quickly". Ordinarily this word is used as an adjective of the swift enemy, of swift horses, and of the deities that go swiftly to the sacrifice. By this adjective the going-power of Vāyu's horses is indicated. With it,
+
+***voḍhave*** — by this word the power of the horses to bear a burden is indicated. Thus, by the many kinds of epithets — coloured with various colours, running fast, and capable of bearing the burden — the beauty and the strength of the horses are clearly known. By the word *vahiṣṭhā* the extreme power is shown.
+
+***dhuri*** — this word is repeated. The first time, it means the place at the front of the chariot, where the yoke is fastened; the second, a heavier burden.
+
+***purandhim pra bodhaya*** — "awaken *purandhi*" is the meaning; as to *purandhi* [asking] "who is it, why did this name come?", [the commentator] explains with the derivation of this word. *Purandhiṃ bahuprajñaṃ sāmarthyād yajamānam iti gamyate | purandhir bahudhīr iti yāskaḥ* — Yāska explains this as "[one] having much intelligence" and gives the meaning of this word, "such a wise sacrificer", in the first place (*anvaya*), and then gives the meaning of the word as one of comparison (*upamā*). According to these two constructions: *purandhim (iva) prakṛṣṭaśarīradhāriṇīṃ yoṣitam iva; tāṃ yathā svasaṃketena jāraḥ prabodhayati tadvat tvam api yajamānaṃ prabodhaya* — "as a lover awakens, by his signal, a woman with a well-formed body, so you awaken the sacrificer": thus Vāyu's manner of rousing the sacrificer is shown.
+
+This word *purandhi* indicates "abundance, plenty, ability, wealth" — [though] it suggests the meaning everywhere, since its use occurs in many places, it must be explained according to the context: this is understood from the statement of the author of the Nirukta.
+
+> ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि सन्ति देवाः ।
+> ताँ अध्वर उशतो यक्ष्यग्ने श्रुष्टीवेभगं नासत्या पुरन्धिम् ॥
+
+> *te hi yajñeṣu yajñiyāsa ūmāḥ sadhastham viśve abhi santi devāḥ |*
+> *tāṁ adhvara uśato yakṣy agne śruṣṭīvebhagaṃ nāsatyā purandhim ‖*
+
+(Ṛ. Saṃ. 2-31-[?]; as read "೨-೩೧-೪"; the second line is doubtful in several letters [?].) — in explaining the meaning of the word *purandhim* in this Ṛk, [text continues on p. 583].
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛk 3 written through p. 582 (Special Topics continue at the Ṛ. 2-31 quotation explaining *purandhim*, whose explanation runs on to p. 583); resume p. 583, PDF 604; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
