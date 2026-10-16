@@ -16393,4 +16393,54 @@ After the rise of Uṣas, the dwellings of Bhaga, Aryaman, Mitra and Varuṇa ar
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through its Pratipadārtha (p. 677); resume p. 678 (PDF 699; images in w10h/ for PDF 661–728) with its Bhāvārtha. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 678  (PDF 699)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** (This sacrificer) has himself prepared the ground (the *uttaravedi*), radiant with the fire of the *āhavanīya*, and perfect in its marks; [O Mitra and Varuṇa, who are always vigilant in coming to the sacrifice], come every day to this sacrifice, which is the means of heaven; the two, sons of Aditi, lords of gifts (of ghee and the like), become radiant and powerful by accepting the ghee and so on; Aryaman (being in the middle of the two) sets all beings to their respective tasks, and sends the (evil-doing) people to hell and the like.
+
+**Printed English (heading "English Translation"; as printed):** *"(Your worshipper) has prepared ground (for the altar), free from defect, radiant (with sacrificial fire) and conferring heaven: come to it together every day, you who are vigilant; every day (at sacrifices) receive invigorated energy (by coming hither), sons of Aditi, lords of munificence: of those two, Mitra is the animator of mankind, and so is Varuna; Aryaman (likewise) is the animator of mankind."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+***jyotiṣmatīm aditiṃ kṣitiṃ dhārayat*** — *tejoyuktāṃ saṃpūrṇalakṣaṇām uttaravedilakṣaṇāṃ bhūmiṃ yajamānaḥ svayaṃ kṛtavān*: by this the Kannada shows that the sacrificer has himself prepared the earth in the form of the *uttaravedi* and, secondly, the greatness of the *uttaravedi*; all the greatness of the great altar is in the *uttaravedi*.
+
+The manner of measuring and marking the earth in the form of the *uttaravedi* is described in the Taittirīya Saṃhitā; there itself its power is praised; its particular qualities are explained further in the Āraṇeya Kāṇḍa. [Here in the matter of the division of the mantras there is disagreement in the opinions of Āpastamba, Bodhāyana and others] (Tai. Saṃ. 6-[?]-[?], as read "೬-೨-೩ ರಿಂದ ೫" [?]).
+
+1. > विश्वायुरसि विश्वायुरसि [?] … वित्तायनी मे ऽसि तिक्तायनी मेऽसि [?] अवतानाः [?] नाथितमवतान्मा व्यथितम् ।
+
+   > *vittāyanī me 'si tiktāyanī me 'si avatānā [?] nāthitam avatān mā vyathitam |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೨-೧" [?]; the print is badly worn and I read only the beginning and end with confidence [?].) "O altar, you are the abode of my prosperity; protect me, who am afflicted, in poverty, and in time of trouble." [With this mantra the form of the altar is to be marked.]
+
+### Printed p. 679  (PDF 700)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> शम्ययोपरिमिमीते मात्रैवास्यै युक्तेनैव युक्तमवरुन्धे । वित्तायनी मेऽसीत्याह वित्ता ह्येनानावत्क्रायनी मेऽसीत्याह तिक्तायनीनाम् [?] ऽ … नाथितमित्याह नाथितास्ह्येनानावदवतान्मा नाथितमित्याह व्यथितमित्याह व्यथितास्ह्येनानावत् ॥
+
+> *śamyayopa-rimimīte mātraivāsyai yuktenaiva yuktam avarundhe | vittāyanī me 'sīty āha vittā hy enān āvat krāyanī me 'sīty āha tiktāyanī [?] … nāthitam ity āha nāthitāsy [?] enān āvad avatān mā nāthitam ity āha vyathitam ity āha vyathitāsy [?] enān āvat ‖*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೨" [?]; this small-type passage is read from the image and is badly doubtful in many places [?]; only its sense is reliable.) This is the measure of the altar: by the proper measure the sacrificer gets what is right for himself; he praises it as "*the abode of prosperity*" because it helps him through prosperity; because it helps in time of trouble and poverty, he praises it as *tiktāyanī* and so on.
+
+2. > विदेरग्निर्नभो नामाग्ने अङ्गिरो योऽस्यां पृथिव्यामस्यायुषा नाम्नेहि यत्तेऽनाधृष्टं नाम यज्ञियं तेन त्वा दधे ।
+
+   > *vider agnir nabho nāmāgne aṅgiro yo 'syāṃ pṛthivyām asyāyuṣā nāmnehi yat te 'nādhṛṣṭaṃ nāma yajñiyaṃ tena tvā dadhe |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೧" [?].) "May Agni, of the name Nabha, know your nature; O Agni Aṅgiras, all you who are in this earth, come with the name Āyu; your name is unconquerable and fit for the sacrifice; with it I hold you." [With this mantra the earth called *cātvāla* is to be dug with the instrument called *sphya*.]
+
+3. > अग्ने अङ्गिरो यो द्वितीयस्यां तृतीयस्यां पृथिव्यामस्यायुषा नाम्नेहि यत्तेऽनाधृष्टं नाम यज्ञियं तेन त्वा दधे ।
+
+   > *agne aṅgiro yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyām asyāyuṣā nāmnehi yat te 'nādhṛṣṭaṃ nāma yajñiyaṃ tena tvā dadhe |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೧, ೩" [?].) "O Agni Aṅgiras, you who are in the second and third earths, come with the name Āyu; your name is [unconquerable and fit for the sacrifice]; I hold it." [With this mantra the digging with the *sphya* is repeated.]
+
+> विदेरग्निर्नभो नामाग्ने अङ्गिर इति त्रिरहर [?] ति ये एवैषु लोकेष्वग्नयस्तानेवाव रुन्धे तूष्णीं चतुर्थꣳ हरत्यनिरुक्तमेवाव रुन्धे ।
+
+> *vider agnir nabho nāmāgne aṅgira iti trir [?] ati ye evaiṣu lokeṣv agnayas tān evāva rundhe tūṣṇīṃ caturthaṃ haraty aniruktam evāva rundhe |*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೩" [?].) After digging three times, the sacrificer gets the fires of these three worlds, and by the fourth digging, silently, he gets also the unnamed (*anirukta*) fire.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through p. 679 (Special Topics: *jyotiṣmatīm aditiṃ kṣitiṃ dhārayat* and the Taittirīya Saṃhitā altar mantras 1–3; the entry continues); resume p. 680 (PDF 701; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
