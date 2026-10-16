@@ -682,4 +682,139 @@ Ordinarily the struggle of Indra with the Asuras and with the mountains may be c
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 18 (PDF 39): Ṛks 1–3 done; Ṛk 3 Special Topics (*parvata* discussion, Nirukta 1-20) in progress — continues on p. 19 (PDF 40, "ವೆಂದೂ, ಉದಕವನ್ನೂ ಗೋವನ್ನೂ ಮರೆಸಿಕೊಂಡಿರುವುದಾಗಿಯೂ…"). Printed page = PDF − 21. Ṛk 2's Saṃhitā begins "patnīva pūrvahūtiṃ vāvṛdhadhyā …". Open: `[?]` on Ṛk references pp. 7–9, 13, 17–18 where the OCR is garbled (8-6-6, 5-32-1, Śa. Brā. 7-3-2-15 etc.); Uṇ. Sū./Pā. numbers on pp. 10, 14 partly as read with the OCR.
+
+### Printed p. 19  (PDF 40)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* …(the Brāhmaṇa sentence is understood as) a dark mass in the form of a mountain, and of the heavenly region that conceals the waters and the cows; breaking this darkness Indra, with the Maruts, makes the waters and the light flow.
+
+> अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष ।
+
+> *ahannahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa |*
+
+(Ṛ. Saṃ. 1-32-2 [?], as read.) In ṛks such as this, Ahi, Śambara, Vṛtra and the like are Asuras that conceal themselves in this mass of darkness in the form of a mountain and block the flowing waters, and so Indra is praised as their destroyer. In the same way, in many places the word *parvata* is described as a synonym of *śatru* (enemy) or as a shelter for enemies. Therefore, in ṛks such as *araṃsta parvataś cit sariṣyan* (Ṛ. Saṃ. 3-1[?]-[?], as read) and *kuhmāc cid asya parvatā bhayante* (Ṛ. Saṃ. 2-1[?]-13 [?]) it is said that the mass of darknesses in the form of mountains fear Indra, who is of the nature of light, as soon as he is visible; and that he shut them up in the underworld.
+
+Contrary to these descriptions, it is said in many places that *parvata* is the thunderbolt of the nature of light, and the presiding deity of the rains and so on, Parjanya.
+
+> प्राक्राद्धाक्राद्धरादुदक्त्रादभि जहि रक्षसः पर्वतेन ।
+
+> *prākrāddhākrāddharādudaktrādabhi jahi rakṣasaḥ parvatena |*
+
+(Ṛ. Saṃ. 7-104-19, as printed; the reader's OCR gives the same.)
+
+> अस्मे रुद्रा मेहना पर्वतासो वृत्रहत्ये भरहूतौ सजोषाः ।
+
+> *asme rudrā mehanā parvatāso vṛtrahatye bharahūtau sajoṣāḥ |*
+
+(Ṛ. Saṃ. 8-63-1[?] [?], as read.) In ṛks such as these the mountains are helpers to Indra in the work of destroying enemies.
+
+> प्र पूषणं विष्णुमग्निं पुरन्धिं सवितारमोषधीः पर्वताँश्च ।
+
+> *pra pūṣaṇaṃ viṣṇumagniṃ purandhiṃ savitāramoṣadhīḥ parvatā~śca |*
+
+(Ṛ. Saṃ. 6-5[?]-[?] [?], as read.)
+
+> शं नः पर्वता ध्रुवयो भवन्तु शं नः सिन्धवः शमु सन्त्वापः ।
+
+> *śaṃ naḥ parvatā dhruvayo bhavantu śaṃ naḥ sindhavaḥ śamu santvāpaḥ |*
+
+(Ṛ. Saṃ. 7-35-4 [?], as read.) In such ṛks *parvata* is invited along with deities such as Mitra, Varuṇa and Pūṣan.
+
+> युवं तमिन्द्रापर्वता पुरोयुधा यो नः पृतन्यादप तंतमिद्धतं वज्रेण तंतमिद्धतम् ।
+
+> *yuvaṃ tamindrāparvatā puroyudhā yo naḥ pṛtanyādapa taṃtamiddhataṃ vajreṇa taṃtamiddhatam |*
+
+(Ṛ. Saṃ. 1-132-6, as read; the OCR gives "…132-…" in the same place.)
+
+### Printed p. 20  (PDF 41)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+> इन्द्रापर्वता बृहता रथेन वामीरिष आ वहतं सुवीराः ।
+
+> *indrāparvatā bṛhatā rathena vāmīriṣa ā vahataṃ suvīrāḥ |*
+
+(Ṛ. Saṃ. 3-53-1 [?], as read.) In these places and in the ṛk in hand there is, jointly for Indra and for Parvata, invocation and praise. Here the Sāyaṇa has said that by *parvata* is meant Parjanya; *parvata* is the deity to be worshipped (*ārādhya devate*).
+
+***śiśītam*** — *tīkṣṇīkurutaṃ, krodhayatam ity arthaḥ* — "make [us] sharp, or make [us] pure" — that is the sense of *śiśītam*; it also has the sense of *tīkṣṇa*, *harita* ("tawny"); it indicates energy, vigour, alertness. Here the sense is *śuddha*, "pure" (Sanskrit as printed).
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Mamattu* — the root *madī harṣe*; since the causative action is shown, it is a root with the causative sense included; the suffix *tip* in the 3rd person singular; *eruḥ* (Pā. Sū. 3-4-86) *u*; *bahulaṃ chandasi*, the vikaraṇa gets *śluḥ* by that, and by *ślau* (Pā. Sū. 6-1-10) reduplication of the root, the first consonant remains in the reduplicative syllable, and by *khari ca* (Pā. Sū. 8-4-55) the root's *d* becomes *t*; since it is at the start of the word, the *nighāta* does not arise, and the root's accent remains because the suffix is *pit*. *Parijmā* — the root *jani prādurbhāve*; with the prefix *pari* before it, formed by *śvanvan… pūṣan…* (Uṇ. Sū. 1-157 [?], as printed) with the suffix *kani*; the elision of the root's penultimate and the *makāra* ending. *Apām* — the word *ap*, feminine, always plural; genitive plural; *ūḍidaṃpadādi* (Pā. Sū. 6-1-171) gives the ending the acute. *Śiśītam* — the root *śo tanūkaraṇe*, of the *divādi* class; *loṭ*, 2nd person dual, *thas* is replaced by *tam*; by *bahulaṃ chandasi* the vikaraṇa *śyan* is replaced by *śluḥ*; the *ā* in place of the root vowel by *ād eca upadeśe 'śiti* (Pā. Sū. 6-1-45 as read; the OCR prints "6-1-455"); when *ślu* follows, reduplication of the root (*ślau*); by *śābhyastayor ātaḥ* (Pā. Sū. 6-4-112) the *ā* of the root becomes *ī*-ish (*itva*); and by *bahulaṃ chandasi* the reduplicative syllable gets *itva*; so the form *śiśītam*; since it stands at the beginning of the word, the *nighāta* does not arise, and the suffix being *pit* the root accent remains (as in *mamattu*). *Indrāparvatā* — *indraś ca parvataś ca*; by *devatādvandve ca* (Pā. Sū. 6-3-26) the first member takes *ānaṅ*.
+
+### Printed p. 21  (PDF 42)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Grammar page, continued (Ṛk 3, noted briefly).** …the *n* is elided. In the vocative dual, when the ending *au* comes, the *supāṃ sulug…* (Pā. Sū. 7-1-39) puts *ā* in its place; by *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta* accent. *Yuvam* — *prathamāyāś ca dvivacane bhāṣāyām* (Pā. Sū. 7-2-88): the *ātva* is done in worldly speech only, so it does not occur in the Chandas; the ending *am*; in the dual *yuvāvau dvivacane* — *yuvā* in place of the *m*-ending. *Viśve* — in the nominative plural when *jas* comes, *jasaḥ śī* (Pā. Sū. 7-1-17) the substitute *śī*; guṇa; *svāṅgakamadantānām* … (Phiṭ-sūtra 29, as printed) — the *adanta* pronoun, the initial udātta. *Varivasyantu* — *varivas* is a nominal stem; when the sense "of that action" is intended, *namovarivaścitraṅaḥ kyac* (Pā. Sū. 3-1-19) the suffix *kyac*; *sanādyantā dhātavaḥ* (Pā. Sū. 3-1-32) — *varivasya* gets the name root; loṭ 3rd plural; being after an *atiṅanta* by *tiṅ atiṅaḥ* (Pā. Sū. 8-1-28) the *nighāta* accent. *Devāḥ* — *dyotanaśīlāḥ devāḥ*; it belongs to the *pacādi* group, so the suffix *ac*; guṇa of the root's light vowel; final udātta by the suffix accent. ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> उत त्या मे यशसा श्वेतनायै व्यन्ता पान्तौशिजो हुवध्यै ।
+> प्र वो नपातमपां कृणुध्वं प्र मातरा रास्पिनस्यायोः ॥ ४ ॥
+
+> *uta tyā me yaśasā śvetanāyai vyantā pāntauśijo huvadhyai |*
+> *pra vo napātamapāṃ kṛṇudhvaṃ pra mātarā rāspinasyāyoḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत । त्या । मे । यशसा । श्वेतनायै । व्यन्ता । पान्ता । औशिजः । हुवध्यै ।
+> प्र । वः । नपातम् । अपाम् । कृणुध्वम् । प्र । मातरा । रास्पिनस्य । आयोः ॥ ४ ॥
+
+> *uta | tyā | me | yaśasā | śvetanāyai | vyantā | pāntā | auśijaḥ | huvadhyai |*
+> *pra | vaḥ | napātam | apām | kṛṇudhvam | pra | mātarā | rāspinasya | āyoḥ ‖ 4 ‖*
+
+### Printed p. 22  (PDF 43)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(The page is a poor scan; the Devanagari below is read letter by letter from the Kannada-script Sanskrit, and doubtful letters or words are marked `[?]`.)*
+
+> औशिज उशिजः पुत्रः कक्षीवानहं मे । तादर्थ्ये चतुर्थी । मदर्थं यशसा । यश इत्यन्नं बलं कीर्तिर्वोच्यते । तद्वन्तौ व्यन्ता भक्षयन्तौ चरुपुरोडाशादिकं पान्ता पिबन्तावाज्यसोमादिकं त्या । तच्छब्दसमानार्थस्त्यच्छब्दः । यौ स्तुत्यत्वेन प्रसिद्धौ तावश्विनौ । अत्र यद्यपि विशेषो न श्रुतः तथापि सूक्तस्य वैश्वदेवत्वादुषः-सम्बन्धाद्द्विवचनलिङ्गाच्चाश्विनावितिं [?] गम्यते । तादृशावश्विनौ श्वेतनायै । इति षष्ठ्यर्थे चतुर्थी । विश्वं जगच्छ्वेतयन्त्या उषसः तत्सम्बन्धिनि काले । उषःकालीनाह्वानाय यतेयमिति शेषः । हे ऋत्विजः वो यूयम् । प्रथमार्थे द्वितीया । अपामुदकानां नपातं नपातयितारं तासां नप्तारं वाग्निम् । अद्भ्य ओषधिवनस्पतयः ताभ्योऽग्निरित्यपां नप्तृत्वमग्नेः । तं देवं प्र कृणुध्वम् । करोतिरत्र क्रियासामान्यवाची क्रियाविशेषे स्तोत्रे पर्यवस्यति । प्रकर्षेण स्तुतेत्यर्थः [?] । किञ्च रास्पिनस्य । रपते रसते र्वा शब्दार्थस्य [?] … कृतसकारोपजनस्य रास्प इति भवति । तदस्यास्तीति रास्पिनः स्तोता । तस्यायोस्तादृशस्य मनुष्यस्य मम मह्यं मातरा मातृवद्धितकारिण्यावहोरात्रे देवते अपि प्र कृणुध्वम् । अथवा रास्पिनस्य । एको मत्वर्थप्रत्ययश्छान्दसः । प्रवर्षणध्वनियुक्तस्य वृष्ट्युदकस्य गमनशीलस्य निर्मात्र्यावहोरात्रे प्र कृणुध्वम् ॥ व्यन्ता पान्ता । उभयत्र सुपां सुलुगित्याकारः ॥
+
+> *auśija uśijaḥ putraḥ kakṣīvānahaṃ me | tādarthye caturthī | madarthaṃ yaśasā | yaśa ityannaṃ balaṃ kīrtirvocyate | tadvantau vyantā bhakṣayantau carupuroḍāśādikaṃ pāntā pibantāvājyasomādikaṃ tyā | tacchabdasamānārthastyacchabdaḥ | yau stutyatvena prasiddhau tāvaśvinau | atra yadyapi viśeṣo na śrutaḥ tathāpi sūktasya vaiśvadevatvāduṣaḥ-sambandhāddvivacanaliṅgāccāśvināvitiṃ [?] gamyate | tādṛśāvaśvinau śvetanāyai | iti ṣaṣṭhyarthe caturthī | viśvaṃ jagacchvetayantyā uṣasaḥ tatsambandhini kāle | uṣaḥkālīnāhvānāya yateyamiti śeṣaḥ | he ṛtvijaḥ vo yūyam | prathamārthe dvitīyā | apāmudakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vāgnim | adbhya oṣadhivanaspatayaḥ tābhyo 'gnirityapāṃ naptṛtvamagneḥ | taṃ devaṃ pra kṛṇudhvam | karotiratra kriyāsāmānyavācī kriyāviśeṣe stotre paryavasyati | prakarṣeṇa stutetyarthaḥ [?] | kiñca rāspinasya | rapate rasate rvā śabdārthasya [?] … kṛtasakāropajanasya rāspa iti bhavati | tadasyāstīti rāspinaḥ stotā | tasyāyostādṛśasya manuṣyasya mama mahyaṃ mātarā mātṛvaddhitakāriṇyāvahorātre devate api pra kṛṇudhvam | athavā rāspinasya | eko matvarthapratyayaśchāndasaḥ | pravarṣaṇadhvaniyuktasya vṛṣṭyudakasya gamanaśīlasya nirmātryāvahorātre pra kṛṇudhvam ‖ vyantā pāntā | ubhayatra supāṃ sulugityākāraḥ ‖*
+
+I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — for my sake. *Yaśasā*: *yaśas* is said to mean food, strength or fame; the two who are endowed with it, *vyantā*, eating the cooked offerings such as *caru* and *puroḍāśa*, and *pāntā*, drinking ghee, Soma and the like; *tyā* — "those" (the word *tya* has the same sense as *tad*): the two who are well known as worthy of praise, the Aśvins. Here, though nothing special is heard, it is understood to be the two Aśvins from the Sūkta's being addressed to the Viśvedevas, from the connection with Uṣas, and from the dual number. *Śvetanāyai* — dative in the sense of the genitive: at the time connected with Uṣas who whitens the whole world; "I strive (*yate*) for calling at the time of Dawn" is what remains to be supplied. O priests (*vaḥ* = *yūyam*, you; the accusative in the sense of the nominative): *apāṃ napātam*, the grandson of the waters, Agni — from waters the plants and trees, from them Agni; hence Agni's being the grandson of the waters; praise that god abundantly (*pra kṛṇudhvam*; here the verb *kṛ* is a general verb of action and settles on the special action of praise). And further *rāspinasya*: *rāspa* means praise (from *rap*, "to speak", or *ras*, "to sound"); he who has it is *rāspin*, a praiser; of such a man (*āyoḥ*, of a man), me, make Day and Night — the two goddesses who as mothers do him good — praised abundantly. Or else *rāspinasya* has a Vedic possessive suffix, and refers to the rain-water that goes with the sound of the downpour: of it Day and Night are the makers; praise them abundantly. *Vyantā*, *pāntā*: in both, the *ā*-ending is by *supāṃ sulug…*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Auśijaḥ* — I, the son of Uśij (Kakṣīvān); *me* — for me; *yaśasā* — endowed with food, strength or fame; *vyantā* — the eaters of (*caru*, *puroḍāśa* and so on); *pāntā* — the drinkers of (ghee, Soma and so on); *tyā* — those (well-known) (Aśvin deities, referring to whom); *śvetanāyai* — (in the time of dawn) that whitens (the world); *huvadhyai* — I strive for prayer; *uta* — and; *vaḥ* — (O priests) you; *apām* — of the water; *napātam* — the grandson (Agni); *pra kṛṇudhvam* — praise abundantly; *rāspinasya* — of the praiser; *āyoḥ* — of the man (me); *mātarā* — those who are like mothers (the deities of day and night). [Or: *rāspinasya āyoḥ* — of the rain-water that has the sound of downpour (and is moving); *mātarā* — the makers (the deities of day and night).] *Pra* (*kṛṇudhvam*) — praise abundantly.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** I, the son of Uśij (Kakṣīvān), praise at dawn, the time that makes the world white, the Aśvin deities — well known, endowed with food, strength and fame, eaters (of *caru* and the like) and drinkers (of Soma and the like); [O priests,] you too praise abundantly the grandson of the water, Agni, and the deities of day and night, who stand in the place of mothers to the praising man (or are the makers of rain-water).
+
+### Printed p. 23  (PDF 44)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Printed English (as printed):** *Whenever I, the one of Ushij, worship with my offerings (of food) those two (Ashwins) who eat and drink (of oblations and libations) at (the approach of) of [sic] the world-whitening (dawn); do you, Priests, glorify the grandson of the waters (Agni), and render (the divinities of the day and night) the mothers (as it were) of the man who repeats their praise.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 4.**
+
+***auśijaḥ*** — *uśijaḥ putraḥ kakṣīvān aham*: "I, Kakṣīvān, the son of the woman Uśik" — thus the seer of the Sūkta says of himself. That he was born in the woman Uśik to the seer Dīrghatamas is known from the Bṛhaddevatā:
+
+> अङ्गराजगृहे युक्तां उशिजं पुत्रकामया ।
+> राज्ञा च प्रहितां दासीं भक्तां मत्वा महातपाः ॥
+> जनयामास चोत्थाय कक्षीवत्प्रमुखान् ऋषीन् ॥
+
+> *aṅgarājagṛhe yuktāṃ uśijaṃ putrakāmayā |*
+> *rājñā ca prahitāṃ dāsīṃ bhaktāṃ matvā mahātapāḥ ‖*
+> *janayāmāsa cotthāya kakṣīvatpramukhān ṛṣīn ‖*
+
+(Bṛ. De. 4-24, 25 [?], as read.) The woman named Uśik, who was working in the house of the king of Aṅga, was sent, out of the queen's wish for a son, to the seer named Dīrghatamas; she served him with great devotion, and so he was pleased and begot in her the seers headed by Kakṣīvat — this is the story told.
+
+> युवं नरा स्तुवते पज्रियाय कक्षीवते अरदतं पुरन्धिम् ।
+
+> *yuvaṃ narā stuvate pajriyāya kakṣīvate aradataṃ purandhim |*
+
+(Ṛ. Saṃ. 1-116-7, as printed.)
+
+> तद्वां नरा शंस्यं पज्रियेण कक्षीवता नासत्या परिज्मन् ।
+
+> *tadvāṃ narā śaṃsyaṃ pajriyeṇa kakṣīvatā nāsatyā parijman |*
+
+(Ṛ. Saṃ. 1-117-6, as printed.) From ṛks such as these it is known that he belonged to the line of Pajra.
+
+> नूदे [?] च्युतः कृकनावको [?] अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ।
+
+> *nūde [?] cyutaḥ kṛkanāvako [?] atyānkakṣīvanta udamṛkṣanta pajrāḥ |*
+
+(Ṛ. Saṃ. 1-126-4, as printed; the words of this ṛk are read with doubt.) In this ṛk it is known that those born in his family are called *Pajra*. In this same Sūkta [126] the son of Bhāvayavya, Svanaya, who dwelt on the bank of the river Sindhu, a king, gave him very abundant gifts…
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 23 (PDF 44): Ṛks 1–4 translated; Ṛk 4 Special Topics in progress (Svanaya/Sindhu passage begins "ಇದೇ ಸೂಕ್ತದಲ್ಲಿ ಸಿಂಧೂ ನದಿಯ ದಡದಲ್ಲಿದ್ದ ಭಾವಯವ್ಯನ ಮಗನಾದ ಸ್ವನಯನು…" — continues on p. 24, PDF 45). Printed page = PDF − 21. Open: `[?]` on Ṛk-reference numerals where the OCR is garbled (pp. 17–20), Śa. Brā. four-part refs, and the poor-scan Sāyaṇa bhāṣya of Ṛk 4 (p. 22: several letters `[?]`).
