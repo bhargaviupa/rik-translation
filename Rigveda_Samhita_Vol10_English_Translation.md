@@ -14499,4 +14499,64 @@ When the construction *apāṃ bhurvaṇi* is made, [the word] is in the sense o
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Ṛk 6 (the last of Sūkta 134) written through p. 605 (Special Topics done; grammar through *viśām*); resume p. 606 (PDF 627) with the rest of the grammar and the end of the Sūkta (Sūkta 135 starts on p. 606); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 606  (PDF 627)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+*(Grammar of Ṛk 6, concluded.)* *vavarjuṣīṇām* — root *vṛjī varjane*; by Vedic usage *liṭ* comes, and for it *kvasu* by *bhāṣāyāṃ sadavasaśruvaḥ* [as read] (Pā. 3-2-107 [as read]); the root is doubled (*dvirvacana*); in the feminine, *ṅīp* by *ugitaś ca*; since it has the term *bha*, *saṃprasāraṇa* occurs, in the earlier member; *guṇa* by *vyatyaya*; the accent of *kvasu* remains; genitive plural. *duhre* — root *duha prapūraṇe*; *laṭ* in the *karmakartṛ* [reflexive-passive]; because of the sense *karmavat*, the Ātmanepada suffix comes; *na duhasnamām* (Pā. 3-1-89 [as read]) prevents *yak*; in the singular, the suffix *ta*; *lopas ta ātmanepadeṣu* (Pā. 7-1-41 [as read]) drops the *t*; *ṭita e*; by *bahulaṃ chandasi* the *ruṭ* augment; the form *duhre*; as it follows a *tiṅanta*, *nighāta*. In *duhrate* the suffix is plural. ‖ 6 ‖
+
+Here ends the 134th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಮೂವತ್ತನಾಲ್ಕನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 135 — *stīrṇaṃ barhiḥ* (begins on printed p. 606; Anuvāka 20, second Sūkta)
+
+**ನೂರ ಮೂವತ್ತೈದನೆಯ ಸೂಕ್ತವು — Nūra mūvattaidaneya sūktavu** (the one hundred and thirty-fifth Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; doubtful letters [?]).**
+
+> स्तीर्णं बर्हिरिति नवर्चं सूक्तं पारुच्छेपमात्यष्टं । पूर्वत्र कुशब्दाद्वायुदेवत्यं । आ वां रथ इत्याद्यैः पञ्चकमैन्द्रं । सप्तम्यष्टमावश्वी [?] । अत्रानुक्रमणिका । स्तीर्णं नव चतुर्थ्याद्याः पञ्चैन्द्र्योऽन्त्ये अष्टी इति । सूक्तस्य विशेषविनियोगो लैङ्गिकः । दशरात्रस्य षष्ठेऽहनि प्रउगशस्त्र आद्यौ तृचौ पाकस्थयोर्वायव्यैन्द्रवायव्ययोः स्थाने विनियुक्तौ । षष्ठस्य प्रातःसवन इति खण्डे सूत्रितं । स्तीर्णं बर्हिरिति तृचौ । आ. ८-१ [?] इति ॥
+
+> *stīrṇaṃ barhir iti navarcaṃ sūktaṃ pārucchepam ātyaṣṭaṃ | pūrvatra kuśabdād vāyudevatyaṃ | ā vāṃ ratha ity ādyaiḥ pañcakam aindraṃ | saptamyaṣṭamāv aśvī [?] | atrānukramaṇikā | stīrṇaṃ nava caturthyādyāḥ pañcaindryo 'ntye aṣṭī iti | sūktasya viśeṣaviniyogo laiṅgikaḥ | daśarātrasya ṣaṣṭhe 'hani prauga-śastra ādyau tṛcau pākasthayor vāyavyaindravāyavyayoḥ sthāne viniyuktau | ṣaṣṭhasya prātaḥsavana iti khaṇḍe sūtritaṃ | stīrṇaṃ barhir iti tṛcau | ā. 8-1 [?] iti ‖*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *stīrṇaṃ barhiḥ* is the second Sūkta in the twentieth Anuvāka. It has nine ṛks. The ṛṣi is Paruccheṣa; as said before, the deity of the first three [?] ṛks is Vāyu; the five beginning with *ā vāṃ rathaḥ* [Ṛks 4–8] have Indra as deity; the rest are Vāyu's. The metre is Atyaṣṭi; the seventh and eighth ṛks [as read] are of the Aṣṭi metre. In the Anukramaṇikā it is said: "*stīrṇaṃ nava caturthyādyāḥ pañcaindryo 'ntye aṣṭī*". The special use of this Sūkta is *laiṅgika*. On the sixth day of the *daśarātra*, in the *prauga-śastra*, the first two *tṛcas* [of this Sūkta] are to be used in place of the *vāyavya* and *aindravāyavya* [mantras] of the *pāka* [?]; this is explained by Āśvalāyana's Śrautasūtra in the section called "*ṣaṣṭhasya prātaḥsavane*", by the sūtra "*stīrṇaṃ barhir iti tṛcau*" (Āś. [refs] [?]).
+
+**ಸೂಕ್ತ — Sūkta 135** [as read]. Maṇḍala 1; Anuvāka 20; Sūkta 135. Aṣṭaka 2, Adhyāya 1, Varga 24, 25 [as read, [?]]. Number of ṛks in the Sūkta: 9. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — 1–3 and 9 Vāyu; 4–8 Indra [as printed]. Chandas — 1–7 Atyaṣṭi; 8, 9 Aṣṭi [as printed].
+
+### Printed p. 607  (PDF 628)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> स्तीर्णं बर्हिरुप नो याहि वीतये सहस्रेण नियुता नियुत्वते शतिनीभिर्नियुत्वते ।
+> तुभ्यं हि पूर्वपीतये देवा देवाय येमिरे ।
+> प्र ते सुतासो मधुमन्तो अस्थिरन्मदाय क्रत्वे अस्थिरन् ॥ १ ॥
+
+> *stīrṇaṃ barhirupa no yāhi vītaye sahasreṇa niyutā niyutvate śatinībhirniyutvate |*
+> *tubhyaṃ hi pūrvapītaye devā devāya yemire |*
+> *pra te sutāso madhumanto asthiranmadāya kratve asthiran ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्तीर्णम् । बर्हिः । उप । नः । याहि । वीतये । सहस्रेण । नियुता । नियुत्वते । शतिनीभिः । नियुत्वते ।
+> तुभ्यम् । हि । पूर्वऽपीतये । देवाः । देवाय । येमिरे ।
+> प्र । ते । सुतासः । मधुऽमन्तः । अस्थिरन् । मदाय । क्रत्वे । अस्थिरन् ॥ १ ॥
+
+> *stīrṇam | barhiḥ | upa | naḥ | yāhi | vītaye | sahasreṇa | niyutā | niyutvate | śatinībhiḥ | niyutvate |*
+> *tubhyam | hi | pūrva 'pītaye | devāḥ | devāya | yemire |*
+> *pra | te | sutāsaḥ | madhu 'mantaḥ | asthiran | madāya | kratve | asthiran ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 1; read from the image; begins p. 607, continues p. 608.)*
+
+> हे वायो नोऽस्मद्यज्ञार्थं स्तीर्णमास्तृतं बर्हिरभिलक्ष्य उप याहि । आगच्छ । किमर्थं । वीतये हविषां भक्षणाय । केन साधनेनेति तदुच्यते । सहस्रेण सहस्रसंख्याकेन नियुता जातावेकवचनम् । नियुत इति वायोरश्वानां नामधेयं नियुतो वायोरिति निरुक्तत्वात् । नै. १-१५ [?] । तथा शतिनीभिः शतसंख्योपेताभिर्नियुद्भिरागच्छेति शेषः । यद्वा । सहस्रेण नियुता शतिनीभिश्च नियुद्भिर्नियुत्वते [?] तद्वते …
+
+> *he vāyo no 'smadyajñārthaṃ stīrṇamāstṛtaṃ barhirabhilakṣya upa yāhi | āgaccha | kimarthaṃ | vītaye haviṣāṃ bhakṣaṇāya | kena sādhaneneti taducyate | sahasreṇa sahasrasaṃkhyākena niyutā jātāvekavacanam | niyuta iti vāyoraśvānāṃ nāmadheyaṃ niyuto vāyoriti niruktatvāt | nai. 1-15 [?] | tathā śatinībhiḥ śatasaṃkhyopetābhirniyudbhirāgaccheti śeṣaḥ | yadvā | sahasreṇa niyutā śatinībhiśca niyudbhirniyutvate [?] tadvate …*
+
+*(Sense so far: "O Vāyu, for our sacrifice come to the strewn *barhis*, for the *vīti* — the eating of oblations. By what means? By *sahasreṇa niyutā* — by a thousand *niyut*s (the singular in the generic sense). *Niyut* is a name of the horses of Vāyu: *niyuto vāyoḥ* — as the Nirukta has it (Nai. 1-[?], as read "೧-೧೫" [?]); and *śatinībhiḥ* — with the hundreds of *niyut*s: come [so]." The passage continues on p. 608.)*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 Saṃhitā, Pada and the start of the bhāṣya written to p. 607; resume p. 608 (PDF 629) with the bhāṣya of Ṛk 1 (bhāṣya continues "… niyutvate tadvate …"); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
