@@ -11788,4 +11788,88 @@ In the second meaning the word *āyavaḥ* is explained as "those who know"; Ind
 
 ---
 
-**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 482 (PDF 503): Ṛks 1–2 complete; Ṛk 3 Saṃhitā…English and Special Topics written to the end of p. 482 (the *vajram āviṣkarikrat* entry is last; the grammar page follows on p. 483); resume p. 483 (PDF 504). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 bhāṣya pp. 479 and 481–482 — the long mīmāṃsā discussion on wives' right to sacrifice is paraphrased, with sūtra numbers [?]); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 483  (PDF 504)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; numbers as printed).** *tatasre* — root *tasu upakṣaye*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives *liṭ* in the present sense; third person plural, *litas tājjhayor eśirec* (Pā. 3-4-81) gives *ire*; *iraya ire* [as read: Pā. 6-4-76] gives *re*; the root is doubled; because it follows a finite verb *nighāta*. *avasyavaḥ* — *avāḥ devāḥ tān icchanti* [as read; the root *av*]; *supa ātmanaḥ kyac* (Pā. 3-1-8); *sarvaprātipadikebhyaḥ lālasāyām asuk vaktavyaḥ* gives *suk*; after *kyac*, *kyāc chandasi* (Pā. 3-2-170) gives *u*; the *a* of *kyac* drops; acute on the last syllable. *sātā* — root *ṣaṇu dāne*; *ūtiyūtijūti…* (Pā. 3-3-97) gives *ktin* irregularly, acute; locative singular *supāṃ sulug* gives *ḍā*; the *ṭi* drops as *ḍit*; the *udāttanivṛtti* accent gives the acute to the ending. *gavyasya* — *gopayasor yat* [as read: Pā. 4-3-160] gives *yat* in the sense of relation; *vānto yi pratyaye* (Pā. 6-1-79) gives *av*; *yato nāvaḥ* (Pā. 6-1-213) gives the acute on the first syllable. *niḥsṛjaḥ* — root *sṛja visarge*; *kvip ca* gives *kvip*; since a prefix compound, *kṛd-uttarapadaprakṛtisvara*; nominative plural. *sakṣantaḥ* — root *sakṣa gatau* [as read]; *śatṛ* in the present sense; *tāsyanudāttenṅid…* — the *lasārvadhātuka* is unaccented so the root's accent remains. *gavyantā* — *gām ātmana icchantau*; *supa ātmanaḥ kyac*; *vānto yi pratyaye* gives *av*; after the *kyac*-ending *śatṛ*; *kṛt* accent remains; for the dual, *ugidacāṃ sarvanāmasthāne 'dhātoḥ* gives *num*; *supāṃ sulug* gives *ā* for the dual; likewise in *dvā janā*, *svaryantā*. *yantā* — root *iṇ gatau*; *laṭ*… *śatṛ*; *iṇo yaṇ* (Pā. 6-4-81) gives *yaṇ* to the root; the dual as before; acute on the first syllable of the suffix.
+
+### Printed p. 484  (PDF 505)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+*(Grammar, concluded.)* *saṃ ūhasi* — root *ūha vitarke*; *laṭ* second person singular; because *yad* is connected, *nighāta* does not occur; since *śap* and *sip* are unaccented the root's accent remains; *tiṅ codāttavati* (Pā. 8-1-71) gives the unaccented *saṃ* [as read: the prefix *sam* gets the *anudātta*]. ‖ 3 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> विदुष्टे अस्य वीर्यस्य पूरवः पुरो यदिन्द्र शारदीरवातिरः ।
+> ससहानो अवातिरः ।
+> शासस्तमिन्द्र मर्त्यमयज्युं शवसस्पते ।
+> महीममुष्णाः पृथिवीमिमा अपो मन्दसान इमा अपः ॥ ४ ॥
+
+> *viduṣṭe asya vīryasya pūravaḥ puro yadindra śāradīravātiraḥ |*
+> *sasahāno avātiraḥ |*
+> *śāsastamindra martyamayajyuṃ śavasaspate |*
+> *mahīmamuṣṇāḥ pṛthivīmimā apo mandasāna imā apaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> विदुः । ते । अस्य । वीर्यस्य । पूरवः । पुरः । यत् । इन्द्र । शारदीः । अवऽअतिरः ।
+> ससहानः । अवऽअतिरः ।
+> शासः । तम् । इन्द्र । मर्त्यम् । अयज्युम् । शवसः । पते ।
+> महीम् । अमुष्णाः । पृथिवीम् । इमाः । अपः । मन्दसानः । इमाः । अपः ॥ ४ ॥
+
+> *viduḥ | te | asya | vīryasya | pūravaḥ | puraḥ | yat | indra | śāradīḥ | ava 'atiraḥ |*
+> *sasahānaḥ | ava 'atiraḥ |*
+> *śāsaḥ | tam | indra | martyam | ayajyum | śavasaḥ | pate |*
+> *mahīm | amuṣṇāḥ | pṛthivīm | imāḥ | apaḥ | mandasānaḥ | imāḥ | apaḥ ‖ 4 ‖*
+
+*(Read from the image: Saṃhitā "*viduṣ ṭe*" is printed with the *ṣ* of the Saṃhitā sandhi, Pada *viduḥ | te*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र ते तव सम्बन्धिनोऽस्य वीर्यस्य ॥ कर्मणि षष्ठी । वक्ष्यमाणमेतद्वीर्यं विदुः । ये पूरवो मनुष्या यजमानास्तव महत्त्वं जानानास्त्वामेव यजन्ति ते विदुः । यद्वा । अस्य वीर्यस्य माहात्म्यमिति शेषः । विदुष्ट इत्यत्र युष्मत्तत्तक्षुष्विति विसर्जनीयस्य सत्त्वम् ॥ वीर्यमेव विशेष्यते । हे इन्द्र यद्यस्मात्कारणात् शारदीः संवत्सरसम्बन्धिनीः संवत्सरपर्यन्तं प्राकारपरिखादिभिर्दृढीकृताः पुरः शत्रूणां पुरीरवातिरः । अनाशयः । अवपूर्वस्तिर्नाशनार्थः ॥ किं कुर्वन् । ससहानः सहतेः क्वसुः ससहानः । अभिभवन् धनाद्यपहारेण पीडयन् सहतेर्लुगन्तात्तालेलिकृष्णात् [?] ॥ अवातिरः । किंच हे इन्द्र तं मर्त्यं मरणधर्माणमयज्युमयज्वानं यज्ञविघातिनं राक्षसादिं शासः । निगृहीतवानसि । हे शवसस्पते बलस्य पालकेन्द्र त्वं महीं महतीं पृथिवीमिमा अपश्च समुद्रनद्यात्मकान्युदकानि चामुष्णाः । बलादपहृतवानसि । असुरैर्वा यज्ञविद्वेषिभी राक्रान्तां भूमिं तत्सम्बन्धिनीरपश्च तेषां पुराणि भित्त्वाहृतवानसीत्यर्थः । किं दुःखेन । नेत्याह । मन्दसानो हृष्यन्नेवेमा अप इमान्युपकार्याणि व्रीह्याद्यन्नान्यमुष्णाः । लब्धवानसि ॥
+
+> *he indra te tava sambandhino 'sya vīryasya ‖ karmaṇi ṣaṣṭhī | vakṣyamāṇametadvīryaṃ viduḥ | ye pūravo manuṣyā yajamānāstava mahattvaṃ jānānāstvāmeva yajanti te viduḥ | yadvā | asya vīryasya māhātmyamiti śeṣaḥ | viduṣṭa ityatra yuṣmattattakṣuṣviti visarjanīyasya sattvam ‖ vīryameva viśeṣyate | he indra yadyasmātkāraṇāt śāradīḥ saṃvatsarasambandhinīḥ saṃvatsaraparyantaṃ prākāraparikhādibhirdṛḍhīkṛtāḥ puraḥ śatrūṇāṃ purīravātiraḥ | anāśayaḥ | avapūrvastirnāśanārthaḥ ‖ kiṃ kurvan | sasahānaḥ sahateḥ kvasuḥ sasahānaḥ | abhibhavan dhanādyapahāreṇa pīḍayan sahaterlugantāttālelikṛṣṇāt [?] ‖ avātiraḥ | kiṃca he indra taṃ martyaṃ maraṇadharmāṇamayajyumayajvānaṃ yajñavighātinaṃ rākṣasādiṃ śāsaḥ | nigṛhītavānasi | he śavasaspate balasya pālakendra tvaṃ mahīṃ mahatīṃ pṛthivīmimā apaśca samudranadyātmakānyudakāni cāmuṣṇāḥ | balādapahṛtavānasi | asurairvā yajñavidveṣibhī rākrāntāṃ bhūmiṃ tatsambandhinīrapaśca teṣāṃ purāṇi bhittvāhṛtavānasītyarthaḥ | kiṃ duḥkhena | netyāha | mandasāno hṛṣyannevemā apa imānyupakāryāṇi vrīhyādyannānyamuṣṇāḥ | labdhavānasi ‖*
+
+*(Read from the image; small type, a few places doubtful: [?] — notably the grammatical clause on *sasahānaḥ*. Sense: "O Indra, men (*pūravaḥ*), the sacrificers, who know your greatness and sacrifice to you alone, know (*viduḥ*) this heroism of yours, to be told: that you destroyed (*avātiraḥ*) the autumn (*śāradīḥ*) cities of the enemies, fortified for a year with ramparts and moats, overpowering (*sasahānaḥ*) them and afflicting them by seizing their wealth. And you punished (*śāsaḥ*) that mortal who is *ayajyu* — one who does not sacrifice, a spoiler of sacrifice, a Rākṣasa and the like. O lord of strength (*śavasaspate*), you carried off (*amuṣṇāḥ*) by force the great earth and these waters — the rivers and the sea — [seized by] the demons, hostile to the sacrifice, breaking their cities and recovering them: is it with sorrow? No: delighting (*mandasānaḥ*) you carried off these waters, the foods such as rice that benefit [men].")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(read from p. 485).* *(he) indra* — O Indra; *yat* — because; *śāradīḥ* — of years (strengthened for many years by ramparts and moats); *puraḥ* — the cities of the enemy; *ava atiraḥ* — you destroyed; *sasahānaḥ* — afflicting those who dwelt in those cities by seizing their wealth; *ava atiraḥ* — you destroyed; *(kiṃ ca* — and); *(he) indra* — O Indra; *tam* — that; *martyam* — mortal; *ayajyum* — who does not sacrifice (spoiler of the sacrifice); *śāsaḥ* — you punished; *(he) śavasaspate* — O Indra, protector of strength; *mahīm pṛthivīm* — the great earth; *imāḥ apaḥ* — these waters (of the sea, the rivers); *amuṣṇāḥ* — you took away by force; *mandasānaḥ* — delighting; *imāḥ apaḥ* — these waters, the means of rice and the like; *(amuṣṇāḥ* — you obtained); *tat* — therefore; *te* — your; *asya vīryasya* — this prowess (the deeds, the greatness of the deeds); *pūravaḥ* — men, the sacrificers; *viduḥ* — know.
+
+### Printed p. 485  (PDF 506)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, you destroyed for many years [the cities] of enemies, fortified by ramparts and moats; afflicting those dwelling in them by seizing their wealth, you destroyed them; you punished the mortals who are spoilers of sacrifice; O Indra, protector of the strong, you won back by force the great earth, taken by the demons, and the waters; delighting, you obtained these waters. The sacrificers know such greatness of your valorous deeds.
+
+**Printed English (heading "English Translation"; as printed):** *"The ancients have known of that your prowess, by which, Indra, you destroy the perennial cities (of the Asuras): you have destroyed them, humiliating (their defenders). You have chastised, Lord of Strength, the mortal who offers not sacrifice: You have rescued this spacious earth and these waters; exulting, (you have recovered) these waters."*
+
+### Printed p. 486  (PDF 507)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+***pūravaḥ te asya vīryasya viduḥ*** — *manuṣyāḥ yajamānāḥ tava mahattvaṃ jānānāḥ tvām eva yajanti, yadvā asya vīryasya māhātmyaṃ viduḥ*: "the sacrificers, knowing Indra's greatness, offer oblations to him; or, those who sacrifice know well the greatness of Indra's prowess": two meanings are given. The word *pūravaḥ* is recorded among the names of man (Ni. 2-[?]; as read "೨-೮"). And —
+
+> प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
+> वैश्वानरो दस्युमग्निर्जघन्वाँ अधूनोत्काष्ठा अव शम्बरं भेत् ॥
+
+> *pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |*
+> *vaiśvānaro dasyum agnir jaghanvām̐ adhūnot kāṣṭhā ava śambaraṃ bhet ‖*
+
+(Ṛ. Saṃ. 1-59-6, as read "೧-೫೯-೬".) In this Ṛk *pūravaḥ* is explained as *pūrayitavyāḥ*: "men are those fit to have their desires fulfilled".
+
+***śāradīḥ*** — *saṃvatsarasambandhinīḥ*: "Indra, working so that even rival warriors cannot enter, destroys the walls and moats guarded by the enemies' cities that stand through the year": so the meaning.
+
+***pṛthivīm imā apaḥ amuṣṇāḥ*** — *mahīṃ pṛthivīṃ samudranadyātmakāni udakāni ca balād apahṛtavān asi | asurair vā yajñavidveṣibhir ākrāntāṃ bhūmiṃ tatsambandhinīr apaś ca teṣāṃ purāṇi bhittvāhṛtavān*: "whether by *asuras* or by other enemies of the sacrifice who forcibly took the earth and the waters of the seas, Indra broke their cities and recovered them": thus Indra is described as having protected them.
+
+***amuṣṇāḥ*** — the word is used twice. In the first meaning, Indra split the cities of the enemies and protected them. For the second *amuṣṇāḥ*, *udakasambandhikāryāṇi vrīhyādīni bhūmau belaydu annādigaḷu uṇṭāguvante kāryagaḷannu indranu līleyiṃdale ācarisiruvanu* — "Indra effortlessly brought about the conditions by which the grains such as rice grow on the earth, through the waters": so he explains.
+
+---
+
+**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 486 (PDF 507): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā…English and Special Topics begun (entries *pūravaḥ…*, *śāradīḥ*, *pṛthivīm imā apaḥ amuṣṇāḥ* written; the page may carry more entries — re-check the end of p. 486 against p. 487 on resuming); resume p. 487 (PDF 508). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484); a Kannada-transliteration slip in the last Special Topics entry on p. 486 ("belaydu annādigaḷu…" is my own transliteration of Kannada words, not Sanskrit); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
