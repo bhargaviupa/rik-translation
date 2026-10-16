@@ -12390,4 +12390,76 @@ The Niruktakāra reads the word *rāti* among the ten names of the acts of givin
 
 ---
 
-**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 511 (PDF 532): Ṛk 1 complete; Ṛk 2 Saṃhitā…English and Special Topics written to the end of p. 511 (the *te ratayaḥ…* entry is the last); resume p. 512 (PDF 533) with the Ṛk 2 grammar. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 bhāṣya pp. 502–503; Ṛk 2 bhāṣya pp. 507–508; the Ṛ. verse on p. 511 *tvām indra mitibhiḥ…* has an unclear reference); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 512  (PDF 533)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+***bhadrasya rātayaḥ bhadrāḥ*** — *stutyasya asmāsu datsāni dānāni atisthirāṇi santu*: "may the wealth given to the sacrificers by Indra, who is praised, be well praised and firm": so he is prayed. In explaining the sense of the word *bhadra* the Niruktakāra (Ni. 4-[?]; as read "೪-೯") says —
+
+> सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।
+> अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
+
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata |*
+> *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ‖*
+
+(Ṛ. Saṃ. 10-71-2, as read "೧೦-೭೧-೨".) — citing this Ṛk: *bhadraṃ bhageṇa vyākhyātam | bhajanīyam, bhūtānām abhidravaṇīyam, bhavadramayītī vā, bhājanavad vā* ("*bhadra* is explained in terms of *bhaga*: that which is to be resorted to, that to which beings run, that which brings about being [?], that which is a vessel"): to understand the word *bhadra* in four ways: that which gives happiness to beings, that which gives satisfaction, that which is fit to be sought as the result of merit. Sāyaṇa explains that such is the wealth given by Indra to the sacrificers.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar pages, noted briefly; numbers as printed).** *svarjeṣe* — root *jeṣa gatau*; since it belongs to the *pacādi* group, *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. 3-1-134) gives *ac*; *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the latter member of the compound; locative singular. *āprasya* — root *āpḷ vyāptau*; Uṇādi *ra*; acute on the last syllable by the suffix. *uṣarbudhaḥ* — root *budha avagamane*; *kvip ca* gives *kvip*; the accent of the latter member; genitive singular. *añjasi* — root *añju vyaktimrakṣaṇakāntigatiṣu*; Uṇādi *asun*; since *n*-marked the acute on the first syllable; locative singular. *krāṇasya* — root *ḍukṛñ karaṇe*; *laṭ*… *śatṛ* [as read: *śānac*] by Vedic usage; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; since *j*-marked [as read] no guṇa; *yaṇ*-substitution; *āṭ kupvāṅnumvyavāye 'pi* (Pā. 8-4-2) gives *ṇ* for the *n* of the suffix; *citaḥ* gives the acute on the last syllable; genitive singular. *ahan* — root *han hiṃsāgatyoḥ*, *adādi*; *laṅ* third person singular, *tip*; *itaś ca* drops *i*; *śap*'s *luk*; *hal ṅyābbhyo…* drops the suffix; the augment *aṭ*; at the beginning of the *pāda* no *nighāta*; the acute on the first syllable.
+
+### Printed p. 513  (PDF 534)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Grammar, continued.)* *vide* — root *vida jñāne*; *kvip*; dative singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the ending. Or, root *vidḷ lābhe*, *laṭ*; by *vyatyaya*, the third person singular suffix *ta* in the place of the second person; by *vyatyaya* the ātmanepada; *lopas ta ātmanepadeṣu* (Pā. 7-1-41) drops the *t*; because *yathā* is connected no *nighāta*; by the suffix the acute on the last syllable. In the third explanation the root is *vidḷ lābhe*; the suffix as before; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; no augment *num*; the accent as before. *śīrṣṇā śīrṣṇā* — *śiras* in the instrumental singular: *śīrṣañ chandasi* (Pā. 6-1-60) gives *śīrṣan*; *allopo 'naḥ* (Pā. 6-4-134) drops the *a*; *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161) gives the acute to the ending; *nityavīpsayoḥ* (Pā. 8-1-4) gives doubling; since the second has the name *āmreḍita*, *anudāttaṃ ca* makes all unaccented. *asmatrā* — by the force of *bahulagrahaṇa* in *devamanuṣyapuruṣapurumartyebhyo dvitīyāsaptamyor bahulam* (Pā. 5-4-56), the suffix *tral* after *asmad*; acute on the last syllable by the suffix. *sadhryak* — *sahācati* — the root *añcu gatipūjanayoḥ*; *kvin pratyayasya kuḥ* (Pā. 8-2-62) gives *kutva*; *sahasya sadhriḥ* (Pā. 6-3-95) gives *sadhri* for *saha*; *anidītāṃ halaḥ…* (Pā. 6-4-24) drops the nasal; in the nominative singular the last drops; *vāvasāne* (Pā. 8-4-56) gives *car*; *sadhryādeśa* — the *kṛt*-accent is set aside by the statement *antodāttaṃ…* [as read]; with *yaṇ* in place of the acute, *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* (Pā. 8-2-4) gives the *svarita*. *bhadrāḥ* — root *bhadi kalyāṇe sukhe ca*; Uṇādi *rak*; acute on the last syllable by the suffix. ‖ 2 ‖
+
+***(ornamental rule)***
+
+### Printed p. 514  (PDF 535)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तत्तु प्रयः प्रत्नथा ते शुशुक्वनं यस्मिन्यज्ञे वारमकृण्वत क्षयमृतस्य वारसि क्षयम् ।
+> वि तद्वोचेरध द्वितान्तः पश्यन्ति रश्मिभिः ।
+> स घा विदे अन्विन्द्रो गवेषणो बन्धुक्षिद्भ्यो गवेषणः ॥ ३ ॥
+
+> *tattu prayaḥ pratnathā te śuśukvanaṃ yasminyajñe vāramakṛṇvata kṣayamṛtasya vārasi kṣayam |*
+> *vi tadvoceradha dvitāntaḥ paśyanti raśmibhiḥ |*
+> *sa ghā vide anvindro gaveṣaṇo bandhukṣidbhyo gaveṣaṇaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> तत् । तु । प्रयः । प्रत्नऽथा । ते । शुशुक्वनम् । यस्मिन् । यज्ञे । वारम् । अकृण्वत ।
+> क्षयम् । ऋतस्य । वारसि । क्षयम् ।
+> वि । तत् । वोचेः । अध । द्विता । अन्तरिति । पश्यन्ति । रश्मिऽभिः ।
+> सः । घ । विदे । अनु । इन्द्रः । गोऽएषणः । बन्धुऽक्षिद्भ्यः । गोऽएषणः ॥ ३ ॥
+
+> *tat | tu | prayaḥ | pratna 'thā | te | śuśukvanam | yasmin | yajñe | vāram | akṛṇvata |*
+> *kṣayam | ṛtasya | vārasi | kṣayam |*
+> *vi | tat | voceḥ | adha | dvitā | antariti | paśyanti | raśmi 'bhiḥ |*
+> *saḥ | gha | vide | anu | indraḥ | go 'eṣaṇaḥ | bandhu 'kṣidbhyaḥ | go 'eṣaṇaḥ ‖ 3 ‖*
+
+*(Read from the image: the Saṃhitā's first line prints "*pratnathā te śuśukvanam*" and "*ṛtasya vārasi kṣayam*"; the Pada gives *vāram | akṛṇvata* and *go-eṣaṇaḥ*, *bandhu-kṣidbhyaḥ*.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, doubtful places [?]).*
+
+> हे इन्द्र तत्तु खलु प्रसिद्धं प्रयो हविर्लक्षणमन्नं शुशुक्वनमाज्यादिसंयोगेन भृशं दीप्तं ॥ शुचेर्दीप्तिकर्मणः क्वनिप् [?] । तव स्वभूतकं । प्रत्नथा पूर्वमिव पूर्वं यथा योगकाले हविस्ते तव स्वं भवति तथाद्यत्वेऽपि । सर्वदा त्वामेव यजन्त इति भावः ॥ प्रत्नपूर्वविश्वेमात्थाल् [?] इत्यादिनेवार्थे थाल् । लिति स्वरः ॥ कीदृशं तदित्युच्यते । यस्मिन्यज्ञे यागे यस्मिन् हविषि दातव्ये सति वारं वरणीयं क्षयं स्थानं वेदिलक्षणमकृण्वत कुर्वन्ति ऋत्विजः । कस्य विशेष इति चेदुच्यते । ऋतस्य सत्यफलस्य यज्ञस्य वारसि क्षयं निवासस्थानं सम्भक्तासि । यद्वा । ऋतमित्युदकनाम । तस्य क्षयं स्थानं प्राप्तासि । वृष्टिप्रदोऽसीत्यर्थः । अथवा ऋतस्यादित्यस्य क्षयं स्थानं द्युलोकाख्यं वारसि यजमानं गमयितासि । तस्मादृशं वक्ष्यमाणं कर्म वि वोचेः । विब्रूहि । अधातः कारणाद्द्वितान्तर्द्वयोः ... कान्तर्द्यावापृथिव्योर्मध्येऽन्तरिक्षे रश्मिभिरादित्यकिरणैः पश्यन्ति ।
+
+> *he indra tattu khalu prasiddhaṃ prayo havirlakṣaṇamannaṃ śuśukvanamājyādisaṃyogena bhṛśaṃ dīptaṃ ‖ śucerdīptikarmaṇaḥ kvanip [?] | tava svabhūtakaṃ | pratnathā pūrvamiva pūrvaṃ yathā yogakāle haviste tava svaṃ bhavati tathādyatve 'pi | sarvadā tvāmeva yajanta iti bhāvaḥ ‖ pratnapūrvaviśvemātthāl [?] ityādinevārthe thāl | liti svaraḥ ‖ kīdṛśaṃ tadityucyate | yasminyajñe yāge yasmin haviṣi dātavye sati vāraṃ varaṇīyaṃ kṣayaṃ sthānaṃ vedilakṣaṇamakṛṇvata kurvanti ṛtvijaḥ | kasya viśeṣa iti ceducyate | ṛtasya satyaphalasya yajñasya vārasi kṣayaṃ nivāsasthānaṃ sambhaktāsi | yadvā | ṛtamityudakanāma | tasya kṣayaṃ sthānaṃ prāptāsi | vṛṣṭiprado 'sītyarthaḥ | athavā ṛtasyādityasya kṣayaṃ sthānaṃ dyulokākhyaṃ vārasi yajamānaṃ gamayitāsi | tasmādṛśaṃ vakṣyamāṇaṃ karma vi voceḥ | vibrūhi | adhātaḥ kāraṇāddvitāntardvayoḥ ... kāntardyāvāpṛthivyormadhye 'ntarikṣe raśmibhirādityakiraṇaiḥ paśyanti |*
+
+### Printed p. 515  (PDF 536)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+> निर्भिद्य रश्मिद्वारा प्रवर्षणरूपं कर्म सर्वे जनाः प्रत्यक्षतः पश्यन्ति । अस्मद्दत्तं हविरादित्यं प्रापयित्वा तद्द्वारा वृष्टिं जनयसीत्येतत्सर्वैर्दृश्यत इत्यर्थः ॥ इदानीं परोक्षतया स्तौति । स घ स खलु इन्द्रो गवेषण उदकस्यान्वेषणशीलः । तथा बन्धुक्षिद्भ्यो हविष्प्रदानादिना बन्धुभावं प्राप्तवद्भ्यो यजमानेभ्यो गवेषणो गवां प्रसिद्धानामेषणकर्ता । इषेर्बाहुलकात्कर्तरि ल्युट् ॥ यद्वा । गवेषं मार्गणे [?] । पूर्ववल्ल्युट् ॥ यजमानफलस्य मृगयितेत्यर्थः ॥ अनु उक्तक्रमेणैव कर्ता सन् विदे । विन्दते । उदकप्राप्तिप्रकारं जानाति ॥
+
+> *nirbhidya raśmidvārā pravarṣaṇarūpaṃ karma sarve janāḥ pratyakṣataḥ paśyanti | asmaddattaṃ havirādityaṃ prāpayitvā taddvārā vṛṣṭiṃ janayasītyetatsarvairdṛśyata ityarthaḥ ‖ idānīṃ parokṣatayā stauti | sa gha sa khalu indro gaveṣaṇa udakasyānveṣaṇaśīlaḥ | tathā bandhukṣidbhyo haviṣpradānādinā bandhubhāvaṃ prāptavadbhyo yajamānebhyo gaveṣaṇo gavāṃ prasiddhānāmeṣaṇakartā | iṣerbāhulakātkartari lyuṭ ‖ yadvā | gaveṣaṃ mārgaṇe [?] | pūrvavallyuṭ ‖ yajamānaphalasya mṛgayitetyarthaḥ ‖ anu uktakrameṇaiva kartā san vide | vindate | udakaprāptiprakāraṃ jānāti ‖*
+
+*(Sense: "O Indra, that well-known *prayaḥ* — food in the form of oblation, much kindled by contact with ghee and the like — is yours (*te*); *pratnathā* — as formerly, whenever at the time of sacrifice the oblation is yours, so now too; they always sacrifice to you alone. How is it? In which sacrifice, when the oblation is to be given, the priests make a choice *kṣaya* — a place, the altar; of whom? you reach (*vārasi*) the dwelling-place of the sacrifice (*ṛta*) — the truth-fruited: or *ṛta* is a name of water — you reach the place of water — you are a rain-giver; or you take the sacrificer to the place of the Sun (*ṛta*) — the heaven world. Therefore declare (*vi voceḥ*) such a deed. Then, because of this, all men see directly, through the Sun's rays, the rain-giving deed in the midst — between heaven and earth — in the sky; by sending to the Sun the oblation given by us, you produce rain through it: so all see it. Now he praises indirectly: that Indra is *goveṣaṇaḥ* — the seeker of water; also *bandhukṣidbhyaḥ goveṣaṇaḥ* — for the sacrificers who have become kin through offering oblations, the seeker of the well-known cows; [grammar: *iṣ* with the *lyuṭ* by *bāhulaka*]; or *gaveṣa* in the sense of searching. He is the doer in the manner stated; *vide* — he finds, he knows the way of obtaining water.")*
+
+---
+
+**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 515 (PDF 536): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā/Pada/bhāṣya written (the bhāṣya ends mid-p. 515 with *vide … udakaprāptiprakāraṃ jānāti*); resume p. 515 lower part: the Ṛk 3 Pratipadārtha (on the same page: "(he indra) yajñe yasmin havirdāne sandarbhe…"), Bhāvārtha begins at the foot of p. 515; then p. 516 (PDF 537). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 bhāṣya pp. 502–503; Ṛk 2 bhāṣya pp. 507–508 and the Ṛ. verse on p. 511 with an unclear reference; Ṛk 3 bhāṣya pp. 514–515); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
