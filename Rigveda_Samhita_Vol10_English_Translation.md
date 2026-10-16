@@ -1232,4 +1232,197 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 40 (PDF 61): Ṛks 1–8 translated; Ṛk 8's Special Topics (*nahuṣaḥ*, *sūriḥ*) and grammar page done. Next: Ṛk 9 from printed p. 41 (PDF 62). Printed page = PDF − 21. The reader's OCR covers only up to printed p. 36; from p. 37 numerals are my own reading (`[?]` where doubtful). Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 41  (PDF 62)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Grammar page, continued (Ṛk 8, noted briefly; the sūtra numbers in this and the following grammar pages are in small type and are not reproduced, there being no OCR for them).** *Sanemu* — the root *ṣaṇa sambhaktau*; *satva* of the initial in the Dhātupāṭha; *vidhiliṅ*, 1st person plural. *Suvīrāḥ* — *śobhanāḥ putrā yeṣāṃ te*; *suvīraḥ …vīravīryau ca*, the final-first-member accent; nominative plural. *Vājinīvān* — *vājo 'syāḥ asti iti vājinī*; the suffix *ini* by *ata ini-ṭhanau*; since it ends in *n*, the feminine suffix *ṅīp*; *vājinī asyāsti iti vājinīvān* — the suffix *matup* by *tad asyāsty asmin…*; in the Chandas by *chandasīraḥ…* the *m* of *matup* becomes *v*; since *matup* is *pit*, the *ī* of the *ini*-suffix is unaccented. *Aśvāvataḥ* — *aśvāḥ asya santi* — *matup*; the *m* becomes *v* after an *a*-ending stem by *mādupadhāyāś ca matorvo 'yavādibhyaḥ*; by *mantre somāśvendriya…* the lengthening of the *aśva* word before *matup*; since *matup* is *pit*, and *aśva* is formed with the *kvan* suffix, the first-syllable accent. ‖ 8 ‖
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> जनो यो मित्रावरुणावभिध्रुगपो न वां सुनोत्यक्ष्णयाध्रुक् ।
+> स्वयं स यक्ष्मं हृदये नि धत्त आप यदीं होत्राभिरृतावा ॥ ९ ॥
+
+> *jano yo mitrāvaruṇāvabhidhrugapo na vāṃ sunotyakṣṇayādhruk |*
+> *svayaṃ sa yakṣmaṃ hṛdaye ni dhatta āpa yadīṃ hotrābhirṛtāvā ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> जनः । यः । मित्रावरुणौ । अभिऽध्रुक् । अपः । न । वाम् । सुनोति । अक्ष्णयाऽध्रुक् ।
+> स्वयम् । सः । यक्ष्मम् । हृदये । नि । धत्ते । आप । यत् । ईम् । होत्राभिः । ऋतऽवा ॥ ९ ॥
+
+> *janaḥ | yaḥ | mitrāvaruṇau | abhi 'dhruk | apaḥ | na | vām | sunoti | akṣṇayā 'dhruk |*
+> *svayam | saḥ | yakṣmam | hṛdaye | ni | dhatte | āpa | yat | īm | hotrābhiḥ | ṛta 'vā ‖ 9 ‖*
+
+### Printed p. 42  (PDF 63)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(150 dpi, small type; the Devanagari is read letter by letter and the doubtful places are marked `[?]`.)*
+
+> हे मित्रावरुणौ युष्माकं यो जनोऽभिध्रुक् अभितो द्रोग्धा भवति । अयष्टा भवतीत्यर्थः । यश्चाक्ष्णयाध्रुक् वक्रेण मार्गेण द्रुह्यति अन्यथाप्रकारेण द्रुह्यति । द्रोहप्रकार उच्यते । वां युवामपः सोमरसान्न सुनोति । अभिषवं न करोति । युवामतिक्रम्यान्यदेवतार्थं सुनोतीत्यभिप्रायः । अयमेवाक्ष्णयाद्रोहः । स मूढो द्विविधो [?] जनः स्वयं यक्ष्मं व्याधिं हृदये स्वचित्ते नि धत्ते । स्थापयति । अनुष्ठा[?]ं …भोगान्प्राप्नोतीत्यर्थः [?] । यत् । लिङ्व्यत्ययः । य उक्तविलक्षणः पुमान् ऋतावा यज्ञवान् परिगृहीतयज्ञो होत्राभिर्वाङ्मयैः [?] स्तुतिवाग्भिरीमेनं सोमरसमाप व्याप्नोति स्तुवन् सोममभिषुणोतीति यावत् । स नरः प्रैत्स्वा [?]… वक्ष्यमाणेन सह सम्बन्धः ॥ अभिध्रुक् । द्रुहेः सत्सूद्विष… क्विप् । संहितायां भष्भावश्छान्दसः । ऋतावेत्यत्र छन्दसीवनिपावित्यनेन मत्वर्थीयो वनिप् । अन्येषामपि दृश्यत इति संहितायां दीर्घत्वम् ॥
+
+> *he mitrāvaruṇau yuṣmākaṃ yo jano 'bhidhruk abhito drogdhā bhavati | ayaṣṭā bhavatītyarthaḥ | yaścākṣṇayādhruk vakreṇa mārgeṇa druhyati anyathāprakāreṇa druhyati | drohaprakāra ucyate | vāṃ yuvāmapaḥ somarasānna sunoti | abhiṣavaṃ na karoti | yuvāmatikramyānyadevatārthaṃ sunotītyabhiprāyaḥ | ayamevākṣṇayādrohaḥ | sa mūḍho dvividho [?] janaḥ svayaṃ yakṣmaṃ vyādhiṃ hṛdaye svacitte ni dhatte | sthāpayati | anuṣṭhā[?]ṃ …bhogānprāpnotītyarthaḥ [?] | yat | liṅvyatyayaḥ | ya uktavilakṣaṇaḥ pumān ṛtāvā yajñavān parigṛhītayajño hotrābhirvāṅmayaiḥ [?] stutivāgbhirīmenaṃ somarasamāpa vyāpnoti stuvan somamabhiṣuṇotīti yāvat | sa naraḥ praitsvā [?]… vakṣyamāṇena saha sambandhaḥ ‖ abhidhruk | druheḥ satsūdviṣa… kvip | saṃhitāyāṃ bhaṣbhāvaśchāndasaḥ | ṛtāvetyatra chandasīvanipāvityanena matvarthīyo vanip | anyeṣāmapi dṛśyata iti saṃhitāyāṃ dīrghatvam ‖*
+
+"O Mitra and Varuṇa, whoever among your [worshippers] is *abhidhruk* — an *abhitaḥ drogdhā*, one who is hostile to you all around, that is, one who does not sacrifice; and he who is *akṣṇayādhruk* — hostile in a crooked way, hostile in another manner: the manner of hostility is told: he does not press (*sunoti*) the Soma-juice for you two (*apaḥ* — the waters, i.e. the Soma-juice); he does not make the pressing; the sense is that he passes you over and presses for another deity. This is *akṣṇayā-droha* (crooked hostility). That fool, a man of two kinds, himself places (*ni dhatte*) *yakṣma*, a disease, in his own heart (mind). … But he who, being different from what has been said, is a man *ṛtāvā*, possessing sacrifice, who has undertaken the sacrifice, *āpa* — attains (*vyāpnoti*) this Soma-juice (*īm*) through the *hotrā*s, speech-forms, praising words; that is, praising, presses the Soma. [May he have] … — to be joined with what follows." *(The Devanagari of the grammar tail — *abhidhruk*: the root *druh* with *kvip*; *bhaṣ*-substitution in the Chandas; *ṛtāvā*: the suffix *vanip* in the possessive sense; lengthening in the Saṃhitā — is characterised only.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He mitrāvaruṇau* — O Mitra and Varuṇa; *yaḥ janaḥ* — which man; *abhidhruk* — hostile to you in an open way (he who does not sacrifice to you); (*yaḥ* — who); *akṣṇayādhruk* — he who is hostile in any other, crooked, way; *vām* — to you two; *apaḥ* — the Soma-juice; *na sunoti* — does not prepare; *saḥ* — that (fool); *svayam* — by himself; *yakṣmam* — the disease; *hṛdaye* — in his own heart; *ni dhatte* — makes it settle; *yat* — which [man]; *ṛtāvā* — performing the sacrifice; *hotrābhiḥ* — with praising words; *īm* — this Soma-juice; *āpa* — prepares [him]; [for the connection with the following ṛk].
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Mitra and Varuṇa, whoever is hostile to you in any way, and does not prepare the Soma-juice for you, those two fools themselves make the disease settle in their own hearts; but the one who performs the sacrifice and prepares the Soma-juice with praising words — [connect with the next ṛk].
+
+**Printed English (as printed):** *The man who does you wrong, Mitra and Varuna, who injures you in any way, who does not qresent [sic] you with oblations, contracts for himself sickness in his heart ; but he who, performing worship, (celebrates it) with praises—*
+
+### Printed p. 43  (PDF 64)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 9.** In this ṛk a difference is shown between the experiences to come of the performer of a sacrifice and of one who has not carried out the sacrifice. One who is not a performer of sacrifice becomes a *drohin* ("hater").
+
+> तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ।
+
+> *tairdattānapradāyaibhyo yo bhuṅkte stena eva saḥ |*
+
+(Bhagavadgītā 3-12, as printed "೩-೧೨".) As this saying has it, one who, having enjoyed the food produced by the gods' favour — rain and the like — from the rain and so on that were granted by the deities, does not practise sacrifice in thankfulness to them, commits a kind of treason against the gods. This *droha* is of two kinds: *abhidhruk*, direct hatred, and *akṣṇayādhruk*, acting with hostility by deceitfully going the crooked way, as a performer of sacrifice. Those who live out the life of such hatred have no kind of wealth. Seeing all the wealth the sacrificers enjoy, they feel jealousy, and this jealousy burns the heart. That disease is called *yakṣma*. Ordinarily *yakṣma* is consumption (*kṣayaroga*); because jealousy causes the heart to waste, it too is called *yakṣma*.
+
+***hotrābhiḥ*** — The word *hotrā* is recorded among the names of speech (*vāṅnāmāni*) (Ni. 1-1[?]-[?], as read) — "by praising words"; it is also recorded among the names of sacrifice (Ni. 3-1[?], as read); so it can also mean "by sacrificial acts".
+
+> समानं योनिमनु सञ्चरन्तं द्रप्सं जुहोम्यनु सप्त होत्राः ।
+
+> *samānaṃ yonimanu sañcarantaṃ drapsaṃ juhomyanu sapta hotrāḥ |*
+
+(Ṛ. Saṃ. 10-11[?]-[?], as read.) In this ṛk, for the word *hotrāḥ*, whichever of these two meanings is taken it fits, as may be seen in the bhāṣya.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 9, noted briefly).** *Mitrāvaruṇau* — *mitraś ca varuṇaś ca*; by *devatādvandve ca* the *ānaṅ* substitution for the first member; in the vocative by *āmantritasya ca* the *nighāta* accent. *Abhidhruk* — the root *druha jighāṃsāyām*; *satsūdviṣadruhaduha…* the suffix *kvip*; with *su* following, by *vā druhamuha…* the *gh*-substitution optionally, and by *ekāco baśo bhaṣ…* the *bhaṣ* substitution; *gatikārakopapadāt kṛt* the accent of the last member.
+
+### Printed p. 44  (PDF 65)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 9, noted briefly).** *Apaḥ* — *ūḍidaṃpadādi…*: the ending takes the acute. *Sunoti* — the root *ṣuñ abhiṣave*; *laṭ*, 3rd singular, the suffix *tip*; *svādibhyaḥ śnuḥ* the vikaraṇa *śnu*, with guṇa as the cause is the suffix; since the word *yajña* [or *yat*] stands in connection, the *nighāta* does not arise; the vikaraṇa's accent remains. *Dhatte* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*, 3rd singular; *tiṅ atiṅaḥ* the *nighāta*. *Āpa* — the root *āpḷ vyāptau*; *chandasi luṅlaṅliṭaḥ* the *liṭ* in the present sense; 3rd singular; since the word *ati…* is not a verb, the *nighāta* does not arise; since the suffix is *lit*, by *liti* the acute for the vowel before the suffix. *Yat* — *vyatyayo bahulam*: the neuter form for the masculine. *Ṛtāvā* — *ṛtam asya asti iti ṛtavā*; *chandasīvanipau* the suffix *vanip* in the possessive sense; the form *ṛtavan*; in the Chandas, *anyeṣām api dṛśyate* the lengthening before the suffix; since the suffix is *pit* it is unaccented; in the nominative singular the penultimate lengthening and *su*-elision, *n*-elision. ‖ 9 ‖
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> स व्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः ।
+> विसृष्टरातिर्याति बाळ्हसृत्वा विश्वासु पृत्सु सदमिच्छूरः ॥ १० ॥
+
+> *sa vrādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ |*
+> *visṛṣṭarātiryāti bāḷhasṛtvā viśvāsu pṛtsu sadamicchūraḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । व्राधतः । नहुषः । दंसुऽजूतः । शर्धःऽतरः । नराम् । गूर्तऽश्रवाः ।
+> विसृष्टऽरातिः । याति । बाळ्हऽसृत्वा । विश्वासु । पृत्ऽसु । सदम् । इत् । शूरः ॥ १० ॥
+
+> *saḥ | vrādhataḥ | nahuṣaḥ | daṃsu 'jūtaḥ | śardhaḥ 'taraḥ | narām | gūrta 'śravāḥ |*
+> *visṛṣṭa 'rātiḥ | yāti | bāḷha 'sṛtvā | viśvāsu | pṛt 'su | sadam | it | śūraḥ ‖ 10 ‖*
+
+### Printed p. 45  (PDF 66)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मित्रावरुणौ युवां गतमन्त्रावसानोक्तलक्षणो यष्टा [?] जनो दंसुजूतः दंसनीयैरश्वैः सुशिक्षितैः प्रेरितः अत एव नरां नराणां शर्धस्तरः अतिशयेन बलवान् । अथवातिशयेन बलवान् । नराणां स्वसमानानां मध्ये गूर्तश्रवा उद्गूर्णदीप्तिः प्रख्यातान्नो वा विसृष्टरातिर्थिभ्यः [?] प्रदत्तधनः । एवं महानुभावः शूरः सन् विश्वासु पृत्सु सर्वेषु जन्येषु सङ्ग्रामेषु व्राधतः । महतामेतत् । हिंसकान्बलीयसोऽपि नहुषः । मनुष्यनामैतत् । मनुष्यान् शत्रून् प्रति बाळ्हसृत्वा भृशं सर्ता शङ्कितगमनः सन् सदमित् सद्य एव याति गच्छति ॥ दंसुजूतः । दामे… तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । गूर्तश्रवाः । गुरी उद्यमने… विसृष्टरातिः । विपूर्वात्सृजतेः कर्मणि निष्ठा । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन स एव शिष्यते । पृत्सु । पदादिषु मांस्पृत्स्नामुपसङ्ख्यानमिति पृतनाशब्दस्य पृदादेशः । सावेकाच इति विभक्तेरुदात्तत्वम् । बाळ्हसृत्वा । सर्तेरन्येभ्योऽपि दृश्यन्त इति क्वनिप् ॥
+
+> *he mitrāvaruṇau yuvāṃ gatamantrāvasānoktalakṣaṇo yaṣṭā [?] jano daṃsujūtaḥ daṃsanīyairaśvaiḥ suśikṣitaiḥ preritaḥ ata eva narāṃ narāṇāṃ śardhastaraḥ atiśayena balavān | athavātiśayena balavān | narāṇāṃ svasamānānāṃ madhye gūrtaśravā udgūrṇadīptiḥ prakhyātānno vā visṛṣṭarātirthibhyaḥ [?] pradattadhanaḥ | evaṃ mahānubhāvaḥ śūraḥ san viśvāsu pṛtsu sarveṣu janyeṣu saṅgrāmeṣu vrādhataḥ | mahatāmetat | hiṃsakānbalīyaso 'pi nahuṣaḥ | manuṣyanāmaitat | manuṣyān śatrūn prati bāḷhasṛtvā bhṛśaṃ sartā śaṅkitagamanaḥ san sadamit sadya eva yāti gacchati ‖ daṃsujūtaḥ | dāme… tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam | gūrtaśravāḥ | gurī udyamane… visṛṣṭarātiḥ | vipūrvātsṛjateḥ karmaṇi niṣṭhā | gatiranantara iti gateḥ prakṛtisvaratvam | bahuvrīhau pūrvapadaprakṛtisvaratvena sa eva śiṣyate | pṛtsu | padādiṣu māṃspṛtsnāmupasaṅkhyānamiti pṛtanāśabdasya pṛdādeśaḥ | sāvekāca iti vibhakterudāttatvam | bāḷhasṛtvā | sarteranyebhyo 'pi dṛśyanta iti kvanip ‖*
+
+*(Read from the small type of this page at 150 dpi; many letters are doubtful, and the grammar-tail part is only characterised: *daṃsujūtaḥ* — the word accent of the first member by *tṛtīyā karmaṇi*; *gūrtaśravāḥ* — from the root *gurī udyamane*; *visṛṣṭarātiḥ* — the *niṣṭhā* suffix of the root *sṛj* with the prefix *vi*, in the passive; the prefix keeps its own accent by *gatir anantaraḥ*; *pṛtsu* — *pṛtanā* gets the substitute *pṛd* by the statement "*pādādiṣu māṃspṛtsnāmupasaṅkhyānam*"; the ending takes the acute by *sāvekācaḥ*; *bāḷhasṛtvā* — the suffix *kvanip* after the root *sṛ* by *anyebhyo 'pi dṛśyante*.)*
+
+"O Mitra and Varuṇa, the man of the kind described at the end of the last mantra — the sacrificer `[?]` — is *daṃsujūta*, urged on by well-trained, admirable horses; and therefore *śardhastara* among men, 'exceedingly strong'. Among men of his own kind he is *gūrtaśravāḥ* — of lofty splendour, or of famed food — *visṛṣṭarāti*, one who has given away wealth to the needy `[?]`. Being thus a great-souled hero, in all combats (*pṛtsu*), in all battles with men, he is *vrādhata*: 'mighty' [this is said of great ones]. Even against stronger violent men — *nahuṣaḥ* ('man'; this is a name for men) — against hostile men, he is *bāḷhasṛtvā*, 'one who goes violently, firmly, with undaunted going', and *sadam it* — he goes at once, without delay."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He mitrāvaruṇau* — O Mitra and Varuṇa; *saḥ* — that (man described in the previous ṛk); *daṃsujūtaḥ* — urged on by well-trained horses; *narām* — among men; *śardhastaraḥ* — exceedingly strong; *gūrtaśravāḥ* — famous (with famed food); *visṛṣṭarātiḥ* — a giver of gifts (to petitioners); *śūraḥ* — a hero; *viśvāsu pṛtsu* — in all battles; *vrādhataḥ* — (mighty) enemies [even against them]; *nahuṣaḥ* — against men; *bāḷhasṛtvā* — going fearlessly; *sadamit* — always; *yāti* — he goes.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** (The man of the characteristics of the previous ṛk,) O Mitra and Varuṇa, borne by well-trained horses, exceedingly strong, famous, a giver of gifts, and a hero, in all battles — however mighty the enemies are — always goes forward undaunted (*aprativhata*).
+
+**Printed English (as printed):** *He, borne by well-trained horses, endowed with surpassing strength renowned above men, munificent in gifts, moves a hero, ever uudaunted [sic] in all combats, (even) against mighty men.*
+
+### Printed p. 46  (PDF 67)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 10.**
+
+***daṃsujūtaḥ*** — *dāntair aśvaiḥ suṣṭhu preritaḥ* — "well urged on by well-trained horses": that is, a man full of enthusiasm and powerful.
+
+***śardhastaraḥ*** — It has been explained before that the word *śardha* means "strength" and that it has other meanings too. Here the sense is "strength that can be compared with all [others]".
+
+***gūrtaśravāḥ*** — *gūrta* means "praiseworthy"; or, "well known". *Śravas* here means "food": one of excellent splendour, or one with famous food.
+
+***bāḷhasṛtvā*** — *bāḷha* means *vṛddha* ("strong").
+
+> असर्जि वां स्थविरा वेधसा गीर्बाळ्हे अश्विना त्रेधा क्षरन्ती ।
+
+> *asarji vāṃ sthavirā vedhasā gīrbāḷhe aśvinā tredhā kṣarantī |*
+
+(Ṛ. Saṃ. 1-139-2 [?], as read.) In this ṛk Sāyaṇa has given for the word *bāḷhe* the sense *dhṛḍhe, sthirakarme* ("firm, of steady action"). So also here: "going with firmness, free from fear, since the help of Mitra and Varuṇa is with him, [yet] against enemies of whatever kind, with a steadiness that carries [him]" — and therefore he explained it as *aśaṅkitagamanaḥ* ("one whose going is without fear").
+
+***vrādhataḥ nahuṣaḥ*** — *mahannāmaitat | hiṃsakān mahato 'pi śatrūn* — "(this is a name of 'great'); against violent enemies, though they be great". Ordinarily the word *mahat* is current in the sense "worthy of honour"; but because the epithet *vrādhataḥ* is used here of enemies, it comes to mean "extremely strong, powerful". This epithet is also found for gods.
+
+> इमे ये ते सु वायो बाह्वोजसोऽन्तर्नदी ते पतयन्त्युक्षणो महि व्राधन्त उक्षणः ।
+
+> *ime ye te su vāyo bāhvojaso 'ntarnadī te patayantyukṣaṇo mahi vrādhanta ukṣaṇaḥ |*
+
+(Ṛ. Saṃ. 1-134-4 [?], as read.) In this ṛk the word *vrādhantaḥ* is an epithet of the horses of Vāyu: *mahi vrādhantaḥ — ati prabhūtaṃ vardhamānāḥ*, "growing very abundantly" — that is the sense. And:
+
+> स चेन्द्रो विप्र मर्त्यो महो व्राधन्तमो दिवि ।
+
+> *sa cendro vipra martyo maho vrādhantamo divi |*
+
+(Ṛ. Saṃ. 1-130-2 [?], as read.)
+
+### Printed p. 47  (PDF 68)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* In this ṛk the epithet is of a man worthy of worship, to show greatness: *vrādhantamaḥ — pravṛddhatamaḥ*, "the most grown"; *itaradevānām api śreṣṭhaḥ* — "more excellent than even the other gods", is the sense. Thus, leaving aside one or two more ṛks, in all the other places [the word] is used in the sense of "enemy".
+
+> शत्रूयन्तो अभि ये नस्ततस्रे महि व्राधन्त ओगणास इन्द्र ।
+
+> *śatrūyanto abhi ye nastatasre mahi vrādhanta ogaṇāsa indra |*
+
+(Ṛ. Saṃ. 10-9[?]-1[?], as read.) Here *vrādhantaḥ — asmān bādhamānāḥ*, "those who afflict us greatly" is the sense. In just the same way, in many other places the word means an enemy that is extremely strong, not to be checked, and one who inflicts violence; likewise in the ṛk in hand, however mighty an enemy may be, the [man described] may move about not mindful of him, and without fear — that is the purport.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 10, noted briefly).** *Vrādhataḥ* — the root *vṛdhu vṛddhau*, with the *uṇādi* suffix *ati*; the augment *a*… by that [combination]; *vṛṣādīnāṃ ca* — the initial acute. *Daṃsujūtaḥ* — the root *damu upaśame*; *anyebhyo 'pi dṛśyate* the suffix *vic*; in *vic*, total elision; *jū* is a *sautra* root of the sense of motion; the suffix *kta* in the passive by *niṣṭhā*; *tṛtīyā karmaṇi* — the first member keeps its natural accent. *Narām* — the word *nṛ*; the genitive plural; *jasādiṣu chandasi vāvacanam* — the *nuṭ* does not come; guṇa by *vyatyaya*; *sāvekācas tṛtīyādiḥ…* — the ending takes the acute. *Gūrtaśravāḥ* — the root *gurī udyamane*; the suffix *kta* by *niṣṭhā*; since it is *ra*-… the cerebral *ṇ* is not [substituted]; *gūrtaṃ śravaḥ yasya saḥ gūrtaśravāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Visṛṣṭarātiḥ* — the root *sṛja visarge*; with the prefix *vi*, the *niṣṭhā* suffix in the passive; *vraścabhrasja…* — *ṣatva* of the *j*; the suffix *kta* in the sense of *ṣṭu*; *gatir anantaraḥ* — the prefix keeps its own accent.
+
+### Printed p. 48  (PDF 69)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 10, noted briefly).** *Visṛṣṭarātiḥ* (concluded) — *visṛṣṭā rātir yena saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member. *Yāti* — the root *yā prāpaṇe*; *laṭ*, 3rd singular; after an *atiṅanta* the *nighāta*. *Bāḷhasṛtvā* — *bāḍhaṃ sarati iti bāḷhasṛtvā*; the root *sṛ gatau*; *anyebhyo 'pi dṛśyate* the suffix *kvanip*; since it is *kit*, no guṇa; since it is *pit*, by *hrasvasya piti kṛti tuk* the *tuk* augment for the short vowel — the word *sṛtvan*; *gatikārakopapadāt kṛt*: the accent of the last member. *Pṛtsu* — the word *pṛtanā*; when the locative plural follows, by the statement *pādādiṣu māṃspṛtsnām upasaṅkhyānam* the substitute *pṛd*; *khari ca* the *d* becomes *t*; because it has one syllable, *sāvekācas tṛtīyādiḥ…* the ending takes the acute. ‖ 10 ‖
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> अध ग्मन्ता नहुषो हवं सूरेः श्रोता राजानो अमृतस्य मन्द्राः ।
+> नभोजुवो यन्निरवस्य राधः प्रशस्तये महिना रथवते ॥ ११ ॥
+
+> *adha gmantā nahuṣo havaṃ sūreḥ śrotā rājāno amṛtasya mandrāḥ |*
+> *nabhojuvo yanniravasya rādhaḥ praśastaye mahinā rathavate ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध । ग्मन्त । नहुषः । हवम् । सूरेः । श्रोत । राजानः । अमृतस्य । मन्द्राः ।
+> नभःऽजुवः । यत् । निरवस्य । राधः । प्रऽशस्तये । महिना । रथऽवते ॥ ११ ॥
+
+> *adha | gmanta | nahuṣaḥ | havam | sūreḥ | śrota | rājānaḥ | amṛtasya | mandrāḥ |*
+> *nabhaḥ 'juvaḥ | yat | niravasya | rādhaḥ | pra 'śastaye | mahinā | ratha 'vate ‖ 11 ‖*
+
+*(The Saṃhitā's* ग्मन्ता *is as printed; the Pada reads* ग्मन्त.)*
+
+### Printed p. 49  (PDF 70)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे राजानो राजमानाः सर्वस्येश्वरा वा हे मन्द्रा मादयितारो यूयममृतस्यामरणस्य सूरेः स्तोत्रादिप्रेरकस्य नहुषो मनुष्यस्य मम हवमाह्वानं श्रोत शृणुत । बहुलं छन्दसीति शपो लुक् । अमृतस्येत्यत्र बहुव्रीहौ नञ्सुभ्यामित्यन्तोदात्तत्वम् । अधाथ श्रवणानन्तरं ग्मन्त । आगच्छत । गमेश्छान्दसो लङ् । मध्यमबहुवचनस्य व्यत्ययेन थः । बहुलं छन्दसीति शपो लुक् । गमहनेत्युपधालोपः ॥ किमर्थमागमनमुच्यते । नभोजुवो नभसि व्याप्ता यूयं यद्यस्मान्निरवस्य निर्गतरक्षकस्य युष्मद्व्यतिरेकेण रक्षकान्तररहितस्य । अथवा निर्गतो मुखादुच्चरितो रवः शब्दः स्तोत्ररूपो यस्मात्तादृशस्य । रथवते रथवतो यजमानस्य । षष्ठ्यर्थे चतुर्थी । महिना महिम्ना माहात्म्येन ॥ मकारलोपश्छान्दसः ॥ तेन युक्तं राधः समृद्धिसाधनं हविर्लक्षणं संराधकं स्तोत्रं वा प्रशस्तये प्रशंसितुं कामयध्वे । तस्मादाह्वानं शृणुतागच्छत चेति ॥
+
+> *he rājāno rājamānāḥ sarvasyeśvarā vā he mandrā mādayitāro yūyamamṛtasyāmaraṇasya sūreḥ stotrādiprerakasya nahuṣo manuṣyasya mama havamāhvānaṃ śrota śṛṇuta | bahulaṃ chandasīti śapo luk | amṛtasyetyatra bahuvrīhau nañsubhyāmityantodāttatvam | adhātha śravaṇānantaraṃ gmanta | āgacchata | gameśchāndaso laṅ | madhyamabahuvacanasya vyatyayena thaḥ | bahulaṃ chandasīti śapo luk | gamahanetyupadhālopaḥ ‖ kimarthamāgamanamucyate | nabhojuvo nabhasi vyāptā yūyaṃ yadyasmānniravasya nirgatarakṣakasya yuṣmadvyatirekeṇa rakṣakāntararahitasya | athavā nirgato mukhāduccarito ravaḥ śabdaḥ stotrarūpo yasmāttādṛśasya | rathavate rathavato yajamānasya | ṣaṣṭhyarthe caturthī | mahinā mahimnā māhātmyena ‖ makāralopaśchāndasaḥ ‖ tena yuktaṃ rādhaḥ samṛddhisādhanaṃ havirlakṣaṇaṃ saṃrādhakaṃ stotraṃ vā praśastaye praśaṃsituṃ kāmayadhve | tasmādāhvānaṃ śṛṇutāgacchata ceti ‖*
+
+*(Read at 150 dpi; a few words are doubtful, and the grammar tail — *amṛtasya*: the final acute in a *bahuvrīhi* by *nañsubhyām*; *gmanta*: the Vedic *laṅ* of the root *gam*, with *tha* for the second-person plural and the loss of the penultimate by *gamahana…* — is characterised only.)* "O kings — shining ones or lords of all — O *mandrāḥ*, givers of delight: you, hear (*śrota*) the invocation of me, a *nahuṣa* (man), of the undying (*amṛta*) praiser (*sūri*), the impeller of praises and so on; and then, after hearing, come (*gmanta*). For what purpose is the coming said? You who traverse the sky (*nabhojuvaḥ*), since you [are able], for the sake of [me] the *niravasya* — who has no other protector than you, or from whose mouth the sound of praise has been uttered — for the chariot-owner (*rathavate*: the dative in the sense of the genitive) — the sacrificer — *mahinā*, with greatness; *makāra*-elision in the Chandas — that with which [I] desire to praise *rādhas*, the wealth: the oblation that is the means of prosperity, or the praise that gives satisfaction; therefore hear the invocation and come."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Nabhojuvaḥ* — (you) who traverse the sky; *yat* — for what reason; *niravasya* — who has no other protector (than you); *rathavate* — [of the sacrificer] who has a chariot; *mahinā* — excellent; *rādhaḥ* — the oblation that causes prosperity (the praise); *praśastaye* — to praise [it]; *rājānaḥ* — O sovereign lords of all (the shining); and *mandrāḥ* — O givers of delight (you); *amṛtasya* — the deathless; *sūreḥ* — the one who recites praise and so on; *nahuṣasya* — man's (my); *havam* — the invocation filled with praise; *śrota* — hear; *adha* — (after hearing the invocation) afterwards; *gmanta* — come (to our sacrifice).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O sovereign lords, givers of joy, you who traverse the sky (O deities), [being] the sacrificer who has chariots and has no protector other than you, I who praise you have prepared an excellent oblation, the cause of prosperity (the praise), to praise you; hear the invocation of the praising, undying man — me — and come here.
+
+**Printed English (as printed):** *Royal bestowers of delight, listen to the invocation of (your) undying worshipper, and then come hither, that you who traverse the sky may be* … *(continues on p. 50)*
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 49 (PDF 70): Ṛks 9–10 complete; Ṛk 11 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha done; the printed English of Ṛk 11 begins on p. 49 and continues on p. 50 (PDF 71, "…may be" — to be completed there). Printed page = PDF − 21. No OCR beyond printed p. 36; grammar-page sūtra numbers on pp. 41–49 are omitted (small type); doubtful readings `[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
