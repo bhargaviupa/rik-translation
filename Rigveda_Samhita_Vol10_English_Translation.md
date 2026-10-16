@@ -9048,4 +9048,106 @@ The word ***śravaḥ*** is recorded among the names of wealth (Ni. 2-[?]; as re
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 356 (PDF 377): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā…English done and the Special Topics begun (the first entry, *agniḥ mānuṣe vṛjane…*, breaks off at the foot of p. 356); resume p. 357 (PDF 378). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353; OCR reference-number lines missing for pp. 249–356.
+### Printed p. 357  (PDF 378)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+(Continuing the Special Topics of Ṛk 7:) "…*ata eva hitaḥ svargādyabhimatasādhakatvāt*" — "therefore he is *hita*, beneficial, since he accomplishes desired things such as heaven." When sin arises that brings the sacrificer to a bad state, Agni, worshipped with oblations and the like in the sacrifice, which is the means of removing it, removes the sins one by one and so gives great happiness; and by removing the undesired and bringing about heaven and the other desired things for the sacrificers, this Agni also brings what is beneficial: so the meaning.
+
+***yajñeṣu viśpatiḥ jenyo na viśpatiḥ*** — *ayaṃ yajñeṣu ṛtvigrūpāṇāṃ prajānām atiśayena pālakaḥ ata eva priyaś ca | jayaśīlaḥ rājā parasenādyupadravaparihāreṇa samyak paripālanena ca prajānāṃ priyo bhavati iti dṛṣṭāntaḥ.* "Agni is like a king": by this sentence he is compared to a king. As a victorious king, by warding off the troubles that come from the armies of enemies, who bring harm to the people and to himself, is beneficial to his people, and as he is dear to the people because he guards them well, so Agni, by removing the troubles of the people (the priests) in the sacrifices, protects them and is thus dear to them: so the meaning.
+
+***viśpatiḥ*** — *prajānām atiśayena pālakaḥ*: "he who protects the people very well": so the meaning. The word *viśpati* is explained by the Niruktakāra as *sarvasya pātā pālayitā vā*: "the protector of all or one who makes all protected." As illustrations —
+
+> अस्य वामस्य पलितस्य होतुस्तस्य भ्राता मध्यमो अस्त्यश्नः ।
+> तृतीयो भ्राता घृतपृष्ठो अस्यात्रापश्यं विश्पतिं सप्तपुत्रम् ॥
+
+> *asya vāmasya palitasya hotus tasya bhrātā madhyamo asty aśnaḥ |*
+> *tṛtīyo bhrātā ghṛtapṛṣṭho asyātrāpaśyaṃ viśpatiṃ saptaputram ‖*
+
+(Ṛ. Saṃ. 1-164-1, as printed "೧-೧೬೪-೧".) and —
+
+> प्र वावृजे सुप्रया बर्हिरेषामा विश्पतीव बीरिट इयाते ।
+> विशामक्तोरुषसः पूर्वहूतौ वायुः पूषा स्वस्तये नियुत्वान् ॥
+
+> *pra vāvṛje suprayā barhir eṣām ā viśpatīva bīriṭa iyāte |*
+> *viśām aktoruṣasaḥ pūrvahūtau vāyuḥ pūṣā svastaye niyutvān ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?], as read "೨-೪೧-೨" [?]; small type, doubtful letters: [?].) — in these Ṛks the word *viśpati* is used in the sense "protector or one who makes protected, of the whole world".
+
+***mānuṣāṇāṃ havyā iḷā kṛtāni patyate*** — *manuṣyāṇāṃ yajamānānāṃ sambandhīni havīṃṣi vedyāṃ sampāditāny uddiśya ayam agnir āgacchati*: "Agni comes to accept the oblations which the sacrificers have prepared and placed on the altar": so the meaning.
+
+### Printed p. 358  (PDF 379)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+The word ***iḷā*** is recorded among the names of the earth (Ni. 1-[?]; as read "೧-೩"), of speech (Ni. 1-[?]; "೧-೩೩"), of food (Ni. 2-[?]; "೨-೯") and of the cow (Ni. 2-[?]; "೨-९") [numerals as read from the page; doubtful], and is used in the senses earth, speech, food and cow. Durgācārya explains that the word *iḷā* is formed from the root *īḍ* of the sense "praise" (*īḍa stutikarmaṇaḥ*) and so has the sense "praise"; Sāyaṇa alone explains it as "sacrificial altar".
+
+***varuṇasya dhūrteḥ trāsate maho devasya dhūrteḥ*** — Sāyaṇa explains the meaning both by dividing it into two sentences (*varuṇasya dhūrteḥ trāsate* and *mahaḥ devasya dhūrteḥ trāsate*) and as one sentence: *dhūrteḥ mahaḥ devasya varuṇasya dhūrteḥ naḥ agniḥ trāsate*.
+
+In the first way: Agni protects us from the harm of the harmer named Varuṇa (or from the fear of the harmer), and Agni *dhūrvati* — brings to harm — those who do not sacrifice. In the second way: the sin-deity named Varuṇa, being endowed with greatness, is harmful through causing harm, and from the harm of that deity Agni protects us: so the meaning is described.
+
+For the word *dhūrti* two kinds of meaning are given: "harm" and "the harmer".
+
+***mahaḥ*** — *mahataḥ*; the word *mahaḥ* is recorded among the names of water (Ni. 1-[?]; as read "೩-೨೪"[?]). And —
+
+> पितुं नु स्तोषं महो धर्माणं तविषीम् ।
+> यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् ॥
+
+> *pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīm |*
+> *yasya trito vy ojasā vṛtraṃ viparvam ardayat ‖*
+
+(Ṛ. Saṃ. 1-187-1, as printed.) Here *mahaḥ* is explained as *mahataḥ*.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar pages, noted briefly; numbers as printed).** *vṛjane* — root *vṛjī varjane*; *kyap ca vṛñ…* [as read: Uṇ. 2-[?]] gives *ana*; no guṇa since *k*-marked; *yuvor anākau* (Pā. 7-1-1) gives *ana*; acute on the first syllable of the suffix; locative singular. *śaṃtamaḥ* — *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55) gives *tamap* in the sense of excess; since *p*-marked it is unaccented. *jenyaḥ* — root *ji jaye*; by the power of *bahulagrahaṇa* in *kṛtyuṭo bahulam* (Pā. 3-3-113), *yat* in the agent sense by *āto yat* [as read, doubtful: Pā. 3-1-97], *ṇyat* (?)…
+
+### Printed p. 359  (PDF 380)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+*(Grammar, continued.)* *jenyaḥ* (cont.) — the augment *nuṭ* [as read]; because of it guṇa of the root's *i*; *yato nāvaḥ* (Pā. 6-1-213) the acute on the first syllable. *viśpatiḥ* — *viśāṃ patiḥ*; though *patyāvaiśvaryeṇe* (Pā. 6-2-18) would give the accent of the first member, by *parādiś chandasi bahulam* (Pā. 6-2-199) the acute falls on the first syllable of the latter member. *havyā* — the form *havyāni*; by *śeś chandasi bahulam* (Pā. 6-1-70) *śi* is dropped. *iḷā* — *supāṃ sulug* (Pā. 7-1-39) the locative ending is dropped. *patyate* — root *patḷ gatau*; by *vyatyaya* with the ātmanepada; or the root *tasa aiśvarye*, *divādi* — by the transposition the variant reading is accepted, so that the form in *laṭ* is *patyate*; *tiṅ-nighāta*. *trāsate* — root *trai pālane*, *bhvādi*, *laṭ* third person singular; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79) gives *e*; *śap*; because *ac* follows, *ayādeśa*; the change of letters is Vedic; *tiṅ-nighāta*. *dhūrteḥ* — root *dhurvī hiṃsāyām*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174) gives *ktic*; *titutratatha…* (Pā. 7-2-9) forbids *iṭ*; *upadhāyāś ca* (Pā. 8-2-78) lengthens the penult; where *lopo vyor vali* would give loss of the *v*, *rālopaḥ* (Pā. 6-4-21) gives loss of the root's *v*; since the suffix has *c*-marker, the acute on the last syllable; the ablative and genitive have the same form. *mahaḥ* — *mahataḥ*, with the Vedic loss of *ti*; or the root *maha pūjāyām*, *kvip*; genitive singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the ending. ‖ 7 ‖
+
+***(ornamental rule)***
+
+### Printed p. 360  (PDF 381)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> अग्निं होतारमीळते वसुधितिं प्रियं चेतिष्ठमरतिं न्येरिरे ।
+> हव्यवाहं न्येरिरे ।
+> विश्वायुं विश्ववेदसं होतारं यजतं कविम् ।
+> देवासो रण्वमवसे वसूयवो गीर्भी रण्वं वसूयवः ॥ ८ ॥
+
+> *agniṃ hotāramīḷate vasudhitiṃ priyaṃ cetiṣṭhamaratiṃ nyerire |*
+> *havyavāhaṃ nyerire |*
+> *viśvāyuṃ viśvavedasaṃ hotāraṃ yajataṃ kavim |*
+> *devāso raṇvamavase vasūyavo gīrbhī raṇvaṃ vasūyavaḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> अग्निम् । होतारम् । ईळते । वसुऽधितिम् । प्रियम् । चेतिष्ठम् । अरतिम् । नि । एरिरे ।
+> हव्यऽवाहम् । नि । एरिरे ।
+> विश्वऽआयुम् । विश्वऽवेदसम् । होतारम् । यजतम् । कविम् ।
+> देवासः । रण्वम् । अवसे । वसुऽयवः । गीःऽभिः । रण्वम् । वसुऽयवः ॥ ८ ॥
+
+> *agnim | hotāram | īḷate | vasu 'dhitim | priyam | cetiṣṭham | aratim | ni | erire |*
+> *havya 'vāham | ni | erire |*
+> *viśva 'āyum | viśva 'vedasam | hotāram | yajatam | kavim |*
+> *devāsaḥ | raṇvam | avase | vasu 'yavaḥ | gīḥ 'bhiḥ | raṇvam | vasu 'yavaḥ ‖ 8 ‖*
+
+*(Read from the image: *vasu-dhitim*, *vasu-yavaḥ*, *gīḥ-bhiḥ*; the Saṃhitā "*gīrbhī raṇvaṃ*".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अमुमग्निं होतारमाह्वातारं होमनिष्पादकं वेळते । ऋत्विजः स्तुवन्ति । तथा वसुधितिं धनस्य धारयितारं दातारं वा अत एव प्रियं सर्वेषां प्रियतमं चेतिष्ठमतिशयेन यजमानानां चेतयितारं यद्वा प्रकृष्टचेतनवन्तम् ॥ चेतिशब्दात्तृश्छन्दसीष्ठन् । तुरिष्ठेमेयःस्विति तृलोपः ॥ अरतिमीश्वरं तादृशं देवं न्येरिरे । नितरां प्राप्ताः । प्राप्तिरेव विशेष्यते । हव्यवाहं न्येरिरे । निःशेषेण प्राप्ताः । इतरदेवेभ्यो हव्यं वोढुं यथा प्रभवति तथा नितरां प्राप्ताः । पुनः कीदृशं विश्वायुं सर्वत्र प्राणिजीवनं विश्ववेदसं सर्वप्रज्ञं होतारं देवानामाह्वातारं यजतं यजनीयं कविं सर्वज्ञम् ॥ ईर प्रेरणे ईर गतौ [?] लिट् रूपम् [?] ॥ किंच देवासो देवनशीला ऋत्विजो रण्वमतिप्रवृद्ध्या शब्दयन्तमवसे रक्षणाय वसूयवो वसुकामाः सन्तः । पुनः कीदृशाः । गीर्भिः स्तुतिभी रण्वं रणयन्तं रमणीयं वा वसूयवो वसु हविरूपमन्नमग्नये प्रदातुमात्मन इच्छन्तो न्येरिरे । प्रीतो यथा धनं प्रयच्छति तथा हविरादिना प्राप्ता इत्यर्थः ॥
+
+> *amumagniṃ hotāramāhvātāraṃ homaniṣpādakaṃ veḷate | ṛtvijaḥ stuvanti | tathā vasudhitiṃ dhanasya dhārayitāraṃ dātāraṃ vā ata eva priyaṃ sarveṣāṃ priyatamaṃ cetiṣṭhamatiśayena yajamānānāṃ cetayitāraṃ yadvā prakṛṣṭacetanavantam ‖ cetiśabdāttṛśchandasīṣṭhan | turiṣṭhemeyaḥsviti tṛlopaḥ ‖ aratimīśvaraṃ tādṛśaṃ devaṃ nyerire | nitarāṃ prāptāḥ | prāptireva viśeṣyate | havyavāhaṃ nyerire | niḥśeṣeṇa prāptāḥ | itaradevebhyo havyaṃ voḍhuṃ yathā prabhavati tathā nitarāṃ prāptāḥ | punaḥ kīdṛśaṃ viśvāyuṃ sarvatra prāṇijīvanaṃ viśvavedasaṃ sarvaprajñaṃ hotāraṃ devānāmāhvātāraṃ yajataṃ yajanīyaṃ kaviṃ sarvajñam ‖ īra preraṇe īra gatau [?] liṭ rūpam [?] ‖ kiṃca devāso devanaśīlā ṛtvijo raṇvamatipravṛddhyā śabdayantamavase rakṣaṇāya vasūyavo vasukāmāḥ santaḥ | punaḥ kīdṛśāḥ | gīrbhiḥ stutibhī raṇvaṃ raṇayantaṃ ramaṇīyaṃ vā vasūyavo vasu havirūpamannamagnaye pradātumātmana icchanto nyerire | prīto yathā dhanaṃ prayacchati tathā havirādinā prāptā ityarthaḥ ‖*
+
+*(Read from the image; a few small letters are doubtful ("*ṛtvijaḥ stuvanti*", the grammatical tail on *ira*, "*tuṣṭeme…*"): [?].)* Sense: "This Agni, the Hotṛ, the invoker, the accomplisher of the oblation, the priests praise (*īḷate*). Also *vasudhitim* — the holder or giver of wealth, therefore *priyam* — dearest of all; *cetiṣṭham* — that makes the sacrificers aware to the highest degree, or possessing excellent awareness; *aratim* — the lord; such a god they approach (*nyerire*) — completely reached; the reaching itself is qualified: *havyavāham nyerire* — thoroughly reached, as the one who is able to carry oblations to the other gods. Again what kind of one: *viśvāyum* — the life of creatures everywhere; *viśvavedasam* — all-knowing; *hotāram* — the invoker of the gods; *yajatam* — worthy of worship; *kavim* — omniscient. And the *devāsaḥ* — the playful priests — *raṇvam* (sounding loudly, with excess of vigour), for protection, desirous of wealth (*vasūyavaḥ*); *gīrbhiḥ* — with praises, the sounding (*raṇvam*) or delightful one — wishing to give Agni the wealth, the food in the form of oblations, they approach him: as one pleased gives wealth, so they have come with oblations and so on."
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 360 (PDF 381): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 (last) Saṃhitā/Pada/bhāṣya done; resume p. 361 (PDF 382) with the Ṛk 8 Pratipadārtha, Bhāvārtha, English, Special Topics, grammar, then the closing Kannada line of Sūkta 128 and Sūkta 129 (begins p. 364). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357; OCR reference-number lines missing for pp. 249–360.
