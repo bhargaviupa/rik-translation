@@ -12970,4 +12970,110 @@ The word *bila* has the meaning of *garta* ("pit"). Though *garta* has the sense
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛk 1 written through p. 540 (grammar of *aśeran* continues on p. 541 — resume p. 541, PDF 562; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 541  (PDF 562)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+*(Grammar of *aśeran*, concluded.)* …*vikaraṇa* (*śap*) is elided (*luk*); *śīṅaḥ sārvadhātuke guṇaḥ* (Pā. 7-4-21 [as read]) gives *guṇa* to the *ī* of the root; the *āgama* belongs to the *aṅga*. Since the word *yatra* is connected with it, the *nighāta* accent does not occur. As the *āgama* is udātta, the *ādyudātta* accent arises. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अभिव्ल्ग्या चिदद्रिवः शीर्षा यातुमतीनाम् ।
+> छिन्धि वटूरिणा पदा महावटूरिणा पदा ॥ २ ॥
+
+> *abhivlgyā cidadrivaḥ śīrṣā yātumatīnām |*
+> *chindhi vaṭūriṇā padā mahāvaṭūriṇā padā ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अभिऽव्लग्य । चित् । अद्रिऽवः । शीर्षा । यातुऽमतीनाम् ।
+> छिन्धि । वटूरिणा । पदा । महाऽवटूरिणा । पदा ॥ २ ॥
+
+> *abhi 'vlagya | cit | adri 'vaḥ | śīrṣā | yātu 'matīnām |*
+> *chindhi | vaṭūriṇā | padā | mahā 'vaṭūriṇā | padā ‖ 2 ‖*
+
+*(Saṃhitā "*abhivlagyā*" as printed with long final ā; the Pada has *abhivlagya*.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; the closing grammatical citations are doubtful [?].)*
+
+> अद्रिवो वैरिणां भक्षक यद्वाद्रेर्मेघस्यादर्तेरिन्द्र त्वं यातुमतीनां हिंसावतीनां सेनानां । यद्वा । यातनासाधनान्यायुधानि यातूनि तद्वतीनाम् । अथवा । यातवो रक्षांसि तद्वतीनां सेनानां ॥ कर्मणि षष्ठी ॥ शत्रूणां सेनाः । शीर्षा शीर्षाण्यभिव्लग्या चिदभितः प्राप्यैव छिन्धि । चूर्णय । यद्वा । तासां संबन्धीनि रथादीनि छिन्धि । केन साधनेनेति तदुच्यते । वटूरिणा पदा व्याप्तस्य नशीलेन सर्वव्यापिना त्वदीयपादेन । आविस्तृतेनेत्यर्थः । यद्वा । वटूरिणा पदा वेष्टनशीलेन हस्तिनः संबन्धिना पादेन । ऐरावतपादेनेत्यर्थः । न केवलेन येन केन पादेनेत्याह । महावटूरिणा पदा महावेष्टनवता स्वीयेनैरावतसंबन्धिना वा पादेन छिन्धि । चूर्णय ॥ वट वेष्टने । खर्जिपिञ्जादिभ्य ऊरोलचौ । उ. ४-९० [?] । इत्यूरप्रत्ययः । अतः इनितनौ [?] ॥
+
+> *adrivo vairiṇāṃ bhakṣaka yadvādrermeghasyādarterindra tvaṃ yātumatīnāṃ hiṃsāvatīnāṃ senānāṃ | yadvā | yātanāsādhanānyāyudhāni yātūni tadvatīnām | athavā | yātavo rakṣāṃsi tadvatīnāṃ senānāṃ ‖ karmaṇi ṣaṣṭhī ‖ śatrūṇāṃ senāḥ | śīrṣā śīrṣāṇyabhivlagyā cidabhitaḥ prāpyaiva chindhi | cūrṇaya | yadvā | tāsāṃ saṃbandhīni rathādīni chindhi | kena sādhaneneti taducyate | vaṭūriṇā padā vyāptasya naśīlena sarvavyāpinā tvadīyapādena | āvistṛtenetyarthaḥ | yadvā | vaṭūriṇā padā veṣṭanaśīlena hastinaḥ saṃbandhinā pādena | airāvatapādenetyarthaḥ | na kevalena yena kena pādenetyāha | mahāvaṭūriṇā padā mahāveṣṭanavatā svīyenairāvatasaṃbandhinā vā pādena chindhi | cūrṇaya ‖ vaṭa veṣṭane | kharjipiñjādibhya ūrolacau | u. 4-90 [?] | ityūrapratyayaḥ | ataḥ initanau [?] ‖*
+
+*(Sense: "O *adrivaḥ* — devourer of enemies, or [from *adri*, cloud, and *adarti*] possessor of the cloud — O Indra: you, of the *yātumatī* — harming — armies; or of those armies possessing *yātūni*, i.e. weapons that are instruments of torment; or those that have *yātus*, Rākṣasas: [the genitive is in the sense of the object] of the enemies' armies, the heads (*śīrṣā* = *śīrṣāṇi*) having encompassed (*abhivlagya cit*) on all sides — cut off, crush them; or, cut their chariots etc. With what instrument? — with *vaṭūriṇā padā*: with your all-pervading foot, pervading, spread out [?]; or with the foot of the elephant, that wraps (Airāvata's foot); and not with just any foot — with the great (*mahā*) wrapping foot, or your own foot, or the foot of Airāvata: cut, crush." Grammar: root *vaṭa veṣṭane*; *kharjipiñjādibhya ūrolacau* (Uṇ. 4-[?] as read "೪-೯೦" [?]) gives suffix *ūra*; final grammar citation not legible to me.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he adrivaḥ* — O devourer of enemies, or O Indra who splits clouds; *yātumatīnām* — of the harming (those that do harm), or of the army possessing weapons, or of those with Rākṣasas, *senānām* — of the armies, *(of the enemies' armies)*; *śīrṣā* — the heads (and the chariots); *abhivlagya cit* — having covered well on all sides, *vaṭūriṇā* — all-pervading *(spread-out)*; *padā* — with your foot, or Airāvata's foot; *chindhi* — crush (or cut); *mahāvaṭūriṇā* — extremely wide; *padā* — with your (or Airāvata's) foot (trample them to dust).
+
+### Printed p. 542  (PDF 563)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Pratipadārtha continued.)* …the armies with weapons; *śīrṣā* — the heads (the chariots too); *abhivlagya cit* — having covered well on all sides; *vaṭūriṇā* — all-pervading (wide); *padā* — with your foot or with Airāvata's; *chindhi* — crush or make [them] crushed; *mahāvaṭūriṇā* — most extensive; *padā* — with your (or Airāvata's) foot, trample [them] to powder.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, destroyer of enemies, covering well on all sides the heads (the chariots) of the armies (of weapons that do harm), trample them to dust with your all-pervading (or Airāvata's) foot; trample them to dust with your (or Airāvata's) very wide foot, which is accustomed to cover well.
+
+**Printed English (heading "English Translation"; as printed):** *"Devourer (of foes), having trampled on the heads of the malignant (hosts), crush them with your wide-spreading foot; your vast wide-spreading foot."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+***adrivaḥ*** — *vairiṇāṃ bhakṣaka | yadvādrermeghasyādarteḥ indra*: Sāyaṇa gives two kinds of meaning to this word. One: from the root *ad*, "eat, destroy" — he who destroys the enemies; or, since the word *adri* is among the names of cloud (Ni. 2-[?], as read "೨-೩೦" [?]) — one who strikes the clouds and makes rain: such a meaning may be made.
+
+***yātumatīnām*** — *hiṃsāvatīnāṃ senānām*: "of the armies that have violence" is the meaning. Or *yātanāsādhanānyāyudhāni yātūni tadvatīnām* — to the weapons that have *yātanā* (torment) or violence the name *yātūni* is given; the enemies that have weapons and the like as instruments of violence, that is, "of warriors having them". Or *yātavo rakṣāṃsi tadvatīnāṃ senānām*: *yātavaḥ* means Rākṣasas; "of armies accompanied by them", or "of the armies of Rākṣasas", may also be the meaning.
+
+> प्र ये गृहादमम दुस्त्मना यो पराचरः शतेयातुर्वशिष्टः ।
+> न ते भोजस्य सख्यं मृषन्ताधा सूरिभ्यः सुदिना व्यच्छान् ॥
+
+> *pra ye gṛhād amamadus tmanā yo parācaraḥ śateyāturvaśiṣṭaḥ [?] |*
+> *na te bhojasya sakhyaṃ mṛṣantādhā sūribhyaḥ sudinā vyacchān ‖*
+
+(Ṛ. Saṃ. 7-[?]-[?], as read "೭-೧೯-೩೨" [?]; the Saṃhitā reading of the first line is doubtful in several places.) In explaining this Ṛk, Durgācārya, the commentator on the Nirukta, gives *śateyātuḥ*, *bahūnāṃ rākṣasānāṃ ghātayitā* ("one who has slain many Rākṣasas") — thus he gives to the word *yātu* the meaning "Rākṣasas" (Ni. 6-[?], as read "೬-೩೧" [?]).
+
+### Printed p. 543  (PDF 564)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+***vaṭūriṇā***, ***mahāvaṭūriṇā*** — *veṣṭanaśīlena sarvavyāptena tvadīyapādenātivistṛtenetyarthaḥ*. Sāyaṇa gives two kinds of meaning for these words. One: with your all-pervading, extremely wide foot, cut the heads of the enemies, is a meaning. And *yadvā vaṭūriṇā padā mahāveṣṭanavatā svīyenairāvatasaṃbandhinā vā pādena chindhi cūrṇaya* — another meaning: with the extremely large feet of the elephant called Airāvata, which belongs to you, crush to powder the heads of the enemies. The name of the elephant *Airāvata* is not mentioned in the Vedas; so this sort of explanation, from the Purāṇas and the like, does not appear very appropriate.
+
+In this Ṛk the ṛṣi prays to Indra to trample and destroy, with his wide, large foot, the heads of the enemies who do him harm, and to cut off the heads and destroy the enemies.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar pages, noted briefly; numbers as printed).** *abhivlagya* — its process was explained earlier, in an earlier mantra; in the Saṃhitā, by Vedic usage, a long [vowel] occurs. *adrivaḥ* — *chandasīravaḥ* [as read] (Pā. 8-[?]-[?], as read "೮-೩-೧೮") gives *natva* to the *m* of *matup*; *matuvasoḥ sambuddhau* [as read] (Pā. 8-3-1) gives *ruṭva*; *āmantritasya ca* gives the *nighāta* accent. *śīrṣā* — *śīrṣañ chandasi* (Pā. 6-1-60) gives the *śīrṣan* substitute for the word *śiras*; in the neuter plural *śeś chandasi bahulam* (Pā. 6-1-70) drops the *śi*. *yātumatīnām* — *yātūni āsāṃ santīti yātumatyaḥ, tāsām*; *hrasvanudbhyāṃ matup* [as read] (Pā. 6-1-176 [as read]) gives the udātta to the *matup*. *chindhi* — root *chidir dvaidhīkaraṇe*; *loṭ*, second person singular; as it is the beginning of a pāda, [*chindhi* has] the final udātta. *vaṭūriṇā* — root *vaṭa veṣṭane*; *kharjipiñjādibhya ūrolacau* (Uṇ. [?]) gives the suffix *ūra*; *vaṭūro 'syāsti iti vaṭūrī*; *ata iniṭhanau* (Pā. 5-2-115 [as read]) gives the suffix *ini* in the sense of *matup*; the suffix's first vowel is udātta; instrumental singular. *padā* — *ūḍidaṃ padādi* (Pā. 6-1-171 [as read]) gives the udātta to the case-ending.
+
+### Printed p. 544  (PDF 565)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Grammar, concluded.)* *mahāvaṭūriṇā* — *mahāṃś cāsau vaṭūrī ca*; *anmahataḥ samānādhikaraṇayoḥ* [as read] (Pā. 6-3-46 [as read]) gives *ātva* to the earlier member; the earlier member keeps its natural accent. ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अवासां मघवञ्जहि शर्धो यातुमतीनाम् ।
+> वैलस्थानके अर्मके महावैलस्थे अर्मके ॥ ३ ॥
+
+> *avāsāṃ maghavañjahi śardho yātumatīnām |*
+> *vailasthānake armake mahāvailasthe armake ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> अव । आसाम् । मघऽवन् । जहि । शर्धः । यातुऽमतीनाम् ।
+> वैलस्थानके । अर्मके । महाऽवैलस्थे । अर्मके ॥ ३ ॥
+
+> *ava | āsām | magha 'van | jahi | śardhaḥ | yātu 'matīnām |*
+> *vailasthānake | armake | mahā 'vailasthe | armake ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(read from the image.)*
+
+> हे इन्द्र मघवन् धनवन् आसां यातुमतीनां । यातनासाधनान्यायुधानि यातूनि तद्वतीनां यातुधानवतां वा सेनानां शर्धो बलमव जहि । चूर्णय । तथा कृत्वा चार्मके कुत्सिते शवैरणीये वैलस्थानके पूर्वोक्तलक्षणे श्मशाने स्वपयेति शेषः । यद्वा । वैलस्थानके बिलसंबन्धिनि कुत्सिते स्थानेन्द्रधकारावृतेऽधोलोके स्थापयेति शेषः । ननु यत्र कुत्रचित्क्षुद्रे नेत्याह । महावैलस्थे सर्वैर्गन्तव्ये महाश्मशाने नागलोके वा । पुनः कीदृशे । अर्मके कुत्सिते गताशुभिरणीये [?] ॥
+
+> *he indra maghavan dhanavan āsāṃ yātumatīnāṃ | yātanāsādhanānyāyudhāni yātūni tadvatīnāṃ yātudhānavatāṃ vā senānāṃ śardho balamava jahi | cūrṇaya | tathā kṛtvā cārmake kutsite śavairaṇīye vailasthānake pūrvoktalakṣaṇe śmaśāne svapayeti śeṣaḥ | yadvā | vailasthānake bilasaṃbandhini kutsite sthānendradhakārāvṛte 'dholoke sthāpayeti śeṣaḥ | nanu yatra kutracitkṣudre netyāha | mahāvailasthe sarvairgantavye mahāśmaśāne nāgaloke vā | punaḥ kīdṛśe | armake kutsite gatāśubhiraṇīye [?] ‖*
+
+*(Sense: "O Indra, Maghavan (wealthy)! Of these *yātumatī* armies — those having *yātūni*, weapons that are instruments of torment, or having Yātudhānas — destroy the strength (*śardhaḥ*), crush it; and, having done so, put [them] to sleep in the wretched (*ārmaka*) cemetery, as described above, fit for corpses, the *vailasthānaka*. Or: put [them] in the despised lower world, connected with a *bila* (hole), covered by darkness. Not in just any small place — in the *mahāvailastha*, the great cemetery which all must go to, or in the Nāga-world. Of what kind? — *ārmaka*: wretched, [fit for those who have gone to their destruction] [?].")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *maghavan* — O wealthy Indra; *āsām* — of these; *yātumatīnām* — of the armies that have weapons that do violence (of the enemies); *śardhaḥ* — the strength; *ava jahi* — destroy; *(tathā kṛtvā)* — having done so; *ārmake* — in the wretched (fit for corpses); *vailasthānake* — in a cemetery (*śmaśāna*); *(svapaya)* — put [them] to sleep; *ārmake* — in the wretched (that which the dead reach); *mahāvailasthe* — in the great *bila* (in the Nāga-world); *(svapaya)* — put [them] to sleep.
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–2 complete, Ṛk 3 written through its Pratipadārtha (p. 544; resume p. 545 with Bhāvārtha, PDF 566; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
