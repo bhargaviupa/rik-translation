@@ -12144,4 +12144,72 @@ The word *martyam* is used twice; the first is explained as "one who is by natur
 
 ---
 
-**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 500 (PDF 521): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 (last) Saṃhitā…English, Special Topics and the grammar begun (entries to *jahi* at the foot of p. 500); resume p. 501 (PDF 522) with the rest of the Ṛk 7 grammar (‖ 7 ‖) and the closing Kannada line; Sūkta 132 begins on p. 501. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad); crop 541+ when needed (`crop_pages.py Rig_Vol10.pdf 541 620 $S/w10f --dpi 150`). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484; Ṛk 5 bhāṣya p. 488; Ṛk 6 bhāṣya p. 494; Ṛk 7 bhāṣya p. 498); stray Kannada transliteration in the last entry of the Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 501  (PDF 522)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read]; the Sūkta-heading block below gives Varga 22 [as read: "೨೨"?].)*
+
+*(Grammar of Ṛk 7, concluded; numbers as printed.)* *aghāyati* — *aghaṃ ātmana icchati*; when this sense is intended, *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *na chandasy aputrasya* (Pā. 7-4-35) forbids lengthening of the *a*; when *kyac* follows an *a*-ending stem *akṛtsārvadhātukayor dīrghaḥ* (Pā. 7-4-25) lengthens it; because *yad* is connected, no *nighāta*; the *kyac*-accent remains. *śṛṇuṣva* — root *śru śravaṇe*; *loṭ* second person singular, ātmanepada; because it follows a finite verb, *nighāta*; by the suffix the acute falls on the last syllable. *yāman* — *supāṃ sulug* (Pā. 7-1-39): the locative ending is dropped. *riṣṭam* — root *riṣa hiṃsāyām*; the suffix *kta*; *ṣ*-marker gives *ṣṭutva* to the *t*; the suffix's accent. *bhūtu* — root *bhū sattāyām*; *loṭ* third person singular, *tip*, replaced by *tu* by *eru*; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; *bhūsuvos tiṅi* (Pā. 7-3-88) forbids guṇa; *tiṅ-nighāta* is not applied. *viśvā* — in the neuter plural *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*. ‖ 7 ‖
+
+Here ends the 131st Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಮೂವತ್ತೊಂದನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 132 — *tvayā vayaṃ maghavan* (begins on printed p. 501; Anuvāka 19, sixth Sūkta)
+
+### Printed p. 501 (continued; PDF 522, lower part)
+
+**ನೂರ ಮೂವತ್ತೆರಡನೆಯ ಸೂಕ್ತವು — Nūra mūvatteraḍaneya sūktavu** (the one hundred and thirty-second Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image).**
+
+> त्वया वयमिति षडृचं षष्ठं सूक्तं पारुच्छेपमात्यष्टमैन्द्रम् । युवं तमित्यर्धर्चस्येन्द्रापर्वतदेवताकम् । त्वया वयं षडित्यनुक्रमणिका । त्वया वयं षड्युवं तमैन्द्रापार्वतोत्तरार्धर्चः इत्यनुक्रमणिका ॥ विनियोगो लैङ्गिकः ॥
+
+> *tvayā vayamiti ṣaḍṛcaṃ ṣaṣṭhaṃ sūktaṃ pārucchepamātyaṣṭamaindram | yuvaṃ tamityardharcasyendrāparvatadevatākam | tvayā vayaṃ ṣaḍityanukramaṇikā | tvayā vayaṃ ṣaḍyuvaṃ tamaindrāpārvatottarārdharcaḥ ityanukramaṇikā ‖ viniyogo laiṅgikaḥ ‖*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *tvayā vayam* is the sixth Sūkta in the nineteenth Anuvāka. It has six ṛks. The ṛṣi is Paruccheṣa; the deity is Indra; the metre is Atyaṣṭi. The deity of the second half of the ṛk beginning *yuvaṃ taṃ* is Indra and Parvata. In the Anukramaṇikā it is said: "*tvayā vayaṃ ṣaṭ; yuvaṃ taṃ aindrāparvatottarārdharcaḥ*". Its use in the rites is by inference (*laiṅgika*).
+
+### Printed p. 502  (PDF 523)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+**ಸೂಕ್ತ—೧೩೨ — Sūkta 132.** *Maṇḍala 1 ‖ Anuvāka 19 ‖ Sūkta 132 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Varga 22 [as read: "೨೨"?] ‖ Number of ṛks in the Sūkta: 6 ‖ Ṛṣi: Paruccheṣa Daivodāsi ‖ Devatā: Ṛks 1–5 and the first half of Ṛk 6 Indra; the latter half of Ṛk 6, Indra and Parvata ‖ Chandas: Atyaṣṭi.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> त्वया वयं मघवन्पूर्व्ये धन इन्द्रत्वोताः सासह्याम पृतन्यतः ।
+> वनुयाम वनुष्यतः ।
+> नेदिष्ठे अस्मिन्नहन्यधि वोचा नु सुन्वते ।
+> अस्मिन्यज्ञे वि चयेमा भरे कृतं वाजयन्तो भरे कृतम् ॥ १ ॥
+
+> *tvayā vayaṃ maghavanpūrvye dhana indratvotāḥ sāsahyāma pṛtanyataḥ |*
+> *vanuyāma vanuṣyataḥ |*
+> *nediṣṭhe asminnahanyadhi vocā nu sunvate |*
+> *asminyajñe vi cayemā bhare kṛtaṃ vājayanto bhare kṛtam ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वया । वयम् । मघऽवन् । पूर्व्ये । धने । इन्द्रऽत्वाऽऊताः । ससह्याम । पृतन्यतः ।
+> वनुयाम । वनुष्यतः ।
+> नेदिष्ठे । अस्मिन् । अहनि । अधि । वोच । नु । सुन्वते ।
+> अस्मिन् । यज्ञे । वि । चयेम । भरे । कृतम् । वाजऽयन्तः । भरे । कृतम् ॥ १ ॥
+
+> *tvayā | vayam | magha 'van | pūrvye | dhane | indra 'tvā 'ūtāḥ | sasahyāma | pṛtanyataḥ |*
+> *vanuyāma | vanuṣyataḥ |*
+> *nediṣṭhe | asmin | ahani | adhi | voca | nu | sunvate |*
+> *asmin | yajñe | vi | cayema | bhare | kṛtam | vāja 'yantaḥ | bhare | kṛtam ‖ 1 ‖*
+
+*(Read from the image; the Pada prints "*indra-tvā-ūtāḥ*" with the compound as I give it, and "*vocā*" [for *voca*] is printed as in the Saṃhitā.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, doubtful places [?]).*
+
+> हे मघवन् । मघं सौख्यं तद्वन्निन्द्र । मघ शब्दो मघमिति धनस्य नामधेयम् [?] ॥ त्वया साधनेन युक्ता वयम् । अत एवेन्द्रत्वोता अतिप्रबलेनेन्द्रेण त्वया रक्षिताः सन्तः ॥ प्रत्ययोत्तरपदयोश्चेत्यादेशः । छान्दसमात्वम् ॥ पृतन्यतः पृतनामात्मन इच्छतः प्रबलसेनायुक्ताञ्छत्रून् ससह्याम । अभिभवेम । तथा वनुष्यतो वनुष्यन्ति हिंसन्ति तद्वतः शत्रून् वनुयाम । हिंसेम । तेषामागमनात्पूर्वमेव वयं सम्भजेम । किंचो पूर्व्ये धने ऽस्मिन्नेव यज्ञे ॥
+
+> *he maghavan | maghaṃ saukhyaṃ tadvannindra | magha śabdo maghamiti dhanasya nāmadheyam [?] ‖ tvayā sādhanena yuktā vayam | ata evendratvotā atiprabalenendreṇa tvayā rakṣitāḥ santaḥ ‖ pratyayottarapadayoścetyādeśaḥ | chāndasamātvam ‖ pṛtanyataḥ pṛtanāmātmana icchataḥ prabalasenāyuktāñchatrūn sasahyāma | abhibhavema | tathā vanuṣyato vanuṣyanti hiṃsanti tadvataḥ śatrūn vanuyāma | hiṃsema | teṣāmāgamanātpūrvameva vayaṃ sambhajema | kiṃco pūrvye dhane 'sminneva yajñe ‖*
+
+*(The bhāṣya continues on p. 503; the sense follows there.)*
+
+---
+
+**Progress note:** Sūkta 131 complete (printed pp. 466–501). Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) begun: introduction, heading and Ṛk 1 Saṃhitā/Pada done, bhāṣya begun at the foot of p. 502; resume p. 503 (PDF 524) with the rest of the Ṛk 1 bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
