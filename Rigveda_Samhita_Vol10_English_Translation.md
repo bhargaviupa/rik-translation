@@ -14991,4 +14991,80 @@ Among the gods, there was a discussion as to who should have the first place in 
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 625 (Special Topics: the Aitareya Brāhmaṇa passage on the *indraturīya* cup; the sentence "Even now …" breaks off at the foot of p. 625); resume p. 626 (PDF 647); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 626  (PDF 647)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Continuing the Aitareya Brāhmaṇa passage, which this Kannada paragraph explains:)* …"Even now the Bharata kings, having taken the spoils, give the fourth portion to their charioteer, who is Indra's likeness [?], and so, in their own charioteer's case, give him the fourth part": thus it is said that Indra holds a secondary place in the drinking together with Vāyu.
+
+***andhasaḥ*** — this word is read among the names of food (Ni. 2-[?], as read "೨-೭" [?]): *andha ity annanāmādhyanīyaṃ bhavati; ādhyānīyaṃ prārthanīyam* — "*andhas* is a name for food; it is called *ādhyānīya* [to be thought of], *prārthanīya*, 'to be prayed for'": since it is [a thing] absolutely necessary, and since it is prayed for with great desire, food is given the name *andhas* — so he explains. In support of this derivation the author of the Nirukta (Ni. 5-[?], as read "೫-೧") takes the Ṛk —
+
+> अध्वर्यवो भरतेन्द्राय सोममामत्रेभिः सिञ्चता मद्यमन्धः ।
+> कामी हि वीरः सदमस्य पीतिं जुहोत वृष्णे तदिदेष वष्टि ॥
+
+> *adhvaryavo bharatendrāya somam āmatrebhiḥ siñcatā madyam andhaḥ |*
+> *kāmī hi vīraḥ sadam asya pītiṃ juhota vṛṣṇe tad id eṣa vaṣṭi ‖*
+
+(Ṛ. Saṃ. 2-14-1 [as read].) — and in that [Ṛk] explains the meaning of the word *andhas* in the way stated. In the present Ṛk, for the sentence *prayāṃsi vītaye; andhasaḥ pibatam*, *prayāṃsi* may be any kind of food which gives pleasure; and *andhasaḥ* has to be understood as food in the form of Soma: in particular, the word *andhas* in mantras addressed to Indra may be said everywhere to mean the food in the form of Soma.
+
+> इदं वसो सुतमन्धः पिबा सुपूर्णमुदरम् । अनाभयिन्ररिमा ते ॥
+
+> *idaṃ vaso sutam andhaḥ pibā supūrṇam udaram | anābhayinn arimā te ‖*
+
+(Ṛ. Saṃ. 8-2-1 [as read].) In such places, the usage *andhaḥ pibā* is chiefly current. In all the places in the Aitareya Brāhmaṇa where the word *andhas* is used, this Ṛk (8-2-1) is quoted, showing that the *andhas* offered to Indra is the Soma-juice. But in the Ṛk —
+
+> स हि द्वरो द्वरिषु वव्र ऊधनि चन्द्रबुध्नो मदवृद्धो मनीषिभिः ।
+> इन्द्रं तमह्वे स्वपस्यया धिया मंहिष्ठरातिं स हि पप्रिरन्धसः ॥
+
+> *sa hi dvaro dvariṣu vavra ūdhani candrabudhno madavṛddho manīṣibhiḥ |*
+> *indraṃ tam ahve svapasyayā dhiyā maṃhiṣṭharātiṃ sa hi paprir andhasaḥ ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೫೫-೩" [?]; the quotation is doubtful in places [?].) — in this Ṛk addressed to Indra the word *andhas* occurs, but here it is not for the drinking of Indra; it is used in many ways to be enjoyed by men; hence in such contexts it does not mean Soma. In general it means the food used by the sacrificers.
+
+The author of the Nirukta, giving other meanings of this word, also states *tamo 'ndha ucyate nāsmin dhyānaṃ bhavati* (Ni. 5-[?], as read "೫-೭" [?]) — "darkness is called *andha*, because in it there is no [steady] vision (*dhyāna*)": that in darkness it is not possible to be one-pointed in mind; so the name *andhas* is given for darkness; and,
+
+### Printed p. 627  (PDF 648)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> स्त्रियः सतीस्ताँ उ मे पुंस आहुः पश्यदक्षण्वान्न वि चेतदन्धः ।
+> कविर्यः पुत्रः स ईमा चिकेत यस्ता विजानात्स पितुष्पितासत् ॥
+
+> *striyaḥ satīs tāṁ u me puṃsa āhuḥ paśyad akṣaṇvān na vi cetad andhaḥ |*
+> *kavir yaḥ putraḥ sa īm ā ciketa yas tā vijānāt sa pituṣ pitāsat ‖*
+
+(Ṛ. Saṃ. 1-164-16 [as read].) — taking this Ṛk, shows there the meaning "darkness" for the word *andhas*. In the Ṛk before us the meaning is "food in the form of Soma".
+
+***prayāṃsi*** — derived from the root *prī* with the meaning "to please"; it means "food that gives satisfaction": food in the form of milk, or in the form of *puroḍāśa* and the like.
+
+***candreṇa*** — this word is found among the names of gold (Ni. 1-[?], as read "೧-೧೦" [?]). *Candram iti hiraṇyanāma candater kāntikarmaṇaḥ* (Ni. 11-[?], as read "೧೧-೨" [?]): because it causes delight, gold gets the name *candra*. To show that the name *candra* is given to things having an attractive lustre, the author of the Nirukta has shown other meanings of this word:
+
+> चन्द्रमाश्चायन् द्रमति । चन्द्रो माता । चान्द्रमानमस्येति वा ।
+
+> *candramāś cāyan dramati | candro mātā | cāndramānam asyeti vā |*
+
+(Ni. 11-[?], as read "೧೧-೫" [?].) "*Candramas* is so named as it moves while looking and moving about, or because it illuminates and measures time and so on, or because its measure shines": this name is well known for the moon. The word is derived from the root *cand*, which gives the meaning "to shine".
+
+> चन्दनमित्यस्य भवति ।
+
+> *candanam ity asya bhavati |*
+
+— [he says that] the word *candana* (a word for sandal, showing coolness) is also derived from this root; and he gives another kind of derivation. According to that derivation:
+
+> चारु द्रमति चिरं द्रमति चमेर्वा पूर्वम् ।
+
+> *cāru dramati ciraṃ dramati camer vā pūrvam |*
+
+— "it moves very charmingly, or it moves for a long time"; the purport may be this; or it may be derived from the root *cam*, which gives the sense of "drink" — and explaining thus, [he takes the Ṛk]:
+
+> नवोनवो भवति जायमानोऽह्नां केतुरुषसामेत्यग्रम् ।
+> भागं देवेभ्यो वि दधात्यायन्प्र चन्द्रमास्तिरते दीर्घमायुः ॥
+
+> *navo-navo bhavati jāyamāno 'hnāṃ ketur uṣasām etyagram |*
+> *bhāgaṃ devebhyo vi dadhāty āyan pra candramās tirate dīrgham āyuḥ ‖*
+
+(Ṛ. Saṃ. 10-85-19 [as read].) — and by the word *candramāḥ* in that Ṛk he says that the benefits that come from the moon are also indicated; that he is the one who distributes the portions to the gods, and gives long life to men.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 627 (Special Topics: *andhasaḥ*, *prayāṃsi*, *candreṇa* done; *rādhasā*, grammar follow); resume p. 628 (PDF 649); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
