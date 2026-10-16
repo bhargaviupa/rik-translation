@@ -8202,4 +8202,112 @@ Here ends the 127th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 323 (PDF 344): Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done; resume p. 324 (PDF 345) with the Ṛk 1 printed English ("This Agni, the invoker of the gods…"), Special Topics, grammar, then Ṛk 2. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–323.
+### Printed p. 324  (PDF 345)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+**Printed English (as printed; heading "English Translation"):** *"This Agni, the invoker of the gods, the assiduous offerer of sacrifices, is generated of man, (for the fulfilment of the) duty of those who desire (the fruit of) pious rites, as well as for (the discharge of) his own duty: he is the bestower of all blessings on him who desires his friendship, and is wealth to (such a one) seeking for food: the unobstructed offerer of oblations, he sits down, surrounded (by ministering priests), on the most sacred spot of earth, upon the footmark of Ila."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***manuṣaḥ*** — *manuṣyasya adhvaryoḥ sakāśāt*: Agni is born in the *araṇis* from the Adhvaryu; the Adhvaryu is one among the priests. The word *manuṣaḥ* shows that the Adhvaryu too is a man. The Niruktakāra, —
+
+> युवं वृकेणाश्विना वपन्तेषं दुहन्ता मनुषाय दस्रा ।
+> अभि दस्युं बकुरेणा धमन्तोरु ज्योतिश्चक्रथुरार्याय ॥
+
+> *yuvaṃ vṛkeṇāśvinā vapanteṣaṃ duhantā manuṣāya dasrā |*
+> *abhi dasyuṃ bakureṇā dhamantoru jyotiś cakrathur āryāya ‖*
+
+(Ṛ. Saṃ. 1-117-21, as read; the numerals are small and doubtful [?].) — here explains *manuṣāya* as *manuṣyāya* ("for man"). And —
+
+> समिद्धो अद्य मनुषो दुरोणे देवो देवान्यजसि जातवेदः ।
+> आ च वह मित्रमहश्चिकित्वान्त्वं दूतः कविरसि प्रचेताः ॥
+
+> *samiddho adya manuṣo duroṇe devo devān yajasi jātavedaḥ |*
+> *ā ca vaha mitramaś cikitvān tvaṃ dūtaḥ kavir asi pracetāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-1, as read.) — here too he says *manuṣaḥ* means *manuṣyasya*, "of a man". *(Printed second line "mitramaś" for *mitramahaś*: I read "ಮಿತ್ರಮಹಶ್ಚಿಕಿತ್ವಾನ್", i.e. *mitramahaś cikitvān*; the IAST above is given as printed in the second line, "mitramahaś".)*
+
+In this Ṛk the word *hotā* is said twice. For the first *hotā* the meaning "one who invokes the gods for the sacrifice" (*devānām āhvātā*) is given; for the second *hotā*, "one who accomplishes the oblation" (*homaniṣpādakaḥ*), "one who makes the offering."
+
+***uśijām*** — *phalasya kāmayitṝṇāṃ yajamānānām*: "of the sacrificers who desire fruit": the meaning is given "of those who desire to obtain heaven and other fruits and sacrifice for them".
+
+The word *uśik* is recorded among the eighteen names of "the radiant act" (*kāntikarma*; Ni. 3-9 [?]); *uśijaḥ* is also recorded among the twenty-four names of "the wise" (Ni. 3-19 [?]). And, —
+
+> कक्षीवन्तं य … *(the quotation is cut off at the foot of the page: "ಕಕ್ಷೀವಂತಂ ಯ")* 
+
+> *kakṣīvantaṃ ya … *(the quotation is cut off at the foot of the page: "ಕಕ್ಷೀವಂತಂ ಯ")**
+
+*(The Rik is cut off at the foot of p. 324 and the page ends here; p. 325 begins with *auśijaḥ*.)*
+
+### Printed p. 325  (PDF 346)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+In *auśijaḥ*: "*uśijaḥ putraḥ auśijaḥ*; *uśik vaṣṭeḥ kāntikarmaṇaḥ*" (Ni. 6-11 [?]) — so the Niruktakāra. Sāyaṇa, however, explains only "the sacrificers who desire fruit".
+
+***vrataṃ anu vrataṃ anu*** — of the two repeated words *vrata*, the first *vrata* is explained as "a rite in the form of the Soma sacrifice and the like"; the second *vrata* as "a rite in the form of acceptance of the oblations". It is described that Agni is born in the *araṇis* for the fulfilment of the Soma sacrifice performed by those with the purpose of obtaining fruit, and for the acceptance of his own shares of the oblations; that is, Agni fulfils both his own work and the work of others.
+
+***sakhīyate śravasyate viśvaśruṣṭir rayir iva*** — *ā prasiddham annam ātmana icchate yajamānāya viśvaviṣayakarmavān dhanasthānīyo bhavati | dhanaṃ yathā sakhyam annasamṛddhiṃ ca sādhayati tadvad agnir api tasmai dvayaṃ sādhayati*. (Read from the image.) "To the sacrificer who wishes for abundant famous food and to make friendship with others, Agni — who performs all the rites concerning the world — is like wealth: as wealth brings the friendship of others and good food, so Agni accomplishes both of these desired things for him": so the comparison.
+
+***iḷaspade dharīmaṇi*** — *iḍāyāḥ bhūmyāḥ pade sārabhūte sthāne vediṛūpe*: "On the earth known by the name Iḍā, in the altar of the sacrifice that is accounted most excellent, this Agni sits at ease." For this purpose the Taittirīya Saṃhitā sentence "*vedim āhuḥ paramantaṃ pṛthivyāḥ*" (Tai. Saṃ. 2-6-4-3 [?]; as printed "೭-೪-೧೮-೨"? the numerals are doubtful) and "*etāvatī vai pṛthivī yāvatī vediḥ*" (Tai. Saṃ. 3-5-4-1 [?]) are cited as authority.
+
+***iḷaspade pari-vītaḥ ni ṣadat*** — *iḍādevatāyāḥ manoḥ putryāḥ iḍopahvānamantrapratipāditāyāḥ pade pādanyāsapradeśe ṛtvigbhiḥ paridhibhir vā parito veṣṭitaḥ niṣīdati*. In this Ṛk the word *iḷaspade* is said twice. For the first *iḷaspada* the meaning "the footmark of the earth" is given; for the second *iḷaspada* the analysis "*iḍāyāḥ pade*" is given and Iḍā is taken to be the daughter of Manu. This is said in the Taittirīya Brāhmaṇa: the sentence "*iḍā vai mānavī yajñānukāśinyāsīt*" (Tai. Br. 1-1-4-4 [?]) is cited; and the Iḍopahvāna mantra "*iḍāyāḥ pade ghṛtavati svāhā*" (Tai. Saṃ. 1-2-5-1 [?]), used for the oblation at the spot where the goddess Iḍā, in the form of a cow, placed her foot. In this way, the greatness of the sacrificial altar is described — the place where Iḍā, in the form of a cow, set her foot: Agni sits on this altar, well purified, surrounded by the priests and by the *paridhi* sticks, well established.
+
+### Printed p. 326  (PDF 347)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+***parivītaḥ*** — *paritaḥ veṣṭitaḥ*: "enclosed all round".
+
+***adabdhaḥ*** — *kenāpy ahiṃsitaḥ*: the word *dabdha* is formed from the root *dabh*, which gives the sense of harming, and means "one who can be harmed"; *adabdhaḥ* means that Agni is one who cannot be harmed by anyone.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly; numbers as read by the page and the OCR).** *jāyata* — root *janī prādurbhāve*, *luṅ* third person singular; by *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75) no augment *aṭ*; *tiṅ-nighāta*. *manuṣaḥ* — root *mana jñāne*; *manyate jānātīti manuḥ prajāpatiḥ*; *janer usiḥ* (Uṇ. 2-[?]) with *bahulam anyatrāpi*; the Uṇādi *usi*; since it has *i*-marker [as read: "*nittādudariṃda*"] the acute falls on the first syllable; genitive singular. *dharīmaṇi* — root *dhṛṅ dhāraṇe*; Uṇādi suffix *imanic* [Uṇ. 4-[?]]; Vedic lengthening of *i*; by *vyatyaya* the acute on the first syllable; locative singular. *uśijām* — root *vaśa kāntau*; *vaśeḥ kit* (Uṇ. 3-[?]) gives *iji*; since it is *kit*, *grahijyāvayi…* (Pā. 6-1-16) gives *saṃprasāraṇa* to the root; acute on the first syllable of the suffix. *sakhīyate* — *sakhitvam ātmana icchati sakhīyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8); after the *kyac*-ending a *śatṛ* in the present sense; dative singular; with the *num*-less *śatṛ* before the ending, *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute on the ending; so also in *śravasyate*, *kyac* and the accent. *adabdhaḥ* — *dambhu dambhane*; the suffix *kta* in the passive; *anidītāṃ* drops the penult nasal; *jhaṣas tathor dho 'dhaḥ* (Pā. 8-2-40) gives *dh* to the suffix; the root's *bh* becomes *b* (*jaś*); in the *tatpuruṣa* compound, *tatpuruṣe* (Pā. 6-2-2 [?]) the accent of the first member (the indeclinable) remains. *sadat* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; *chandasi luṅlaṅliṭaḥ* gives *luṅ* in the present sense; with the third person singular the *cli* is replaced by *aj* by *puṣādidyutādi* (Pā. 3-1-55); by *bahulaṃ chandasy amāṅyoge* there is no augment *aṭ*; *tiṅ-nighāta*.
+
+### Printed p. 327  (PDF 348)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+*(Grammar, concluded.)* *iḷaspade* — *iḍāyāḥ padam, tasmin*; the Vedic loss of the end; locative singular. *parivītaḥ* — root *vī gatyādiṣu*, *kta* in the passive by *niṣṭhā*; *gatir anantaraḥ* (Pā. 6-2-49) gives the accent of the preceding member [as read, the preverb keeps its accent]. ‖ 1 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> तं यज्ञसाधमपि वातयामस्यृतस्य पथा नमसा हविष्मता ।
+> देवताता हविष्मता ।
+> स न ऊर्जामुपाभृत्यया कृपा न जूर्यति ।
+> यं मातरिश्वा मनवे परावतो देवं भाः परावतः ॥ २ ॥
+
+> *taṃ yajñasādhamapi vātayāmasyṛtasya pathā namasā haviṣmatā |*
+> *devatātā haviṣmatā |*
+> *sa na ūrjāmupābhṛtyayā kṛpā na jūryati |*
+> *yaṃ mātariśvā manave parāvato devaṃ bhāḥ parāvataḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । यज्ञऽसाधम् । अपि । वातयामसि । ऋतस्य । पथा । नमसा । हविष्मता ।
+> देवऽताता । हविष्मता ।
+> सः । नः । ऊर्जाम् । उपऽआभृत्या । अया । कृपा । न । जूर्यति ।
+> यम् । मातरिश्वा । मनवे । परावतः । देवम् । भाः । इति भाः । परावतः ॥ २ ॥
+
+> *tam | yajña 'sādham | api | vātayāmasi | ṛtasya | pathā | namasā | haviṣmatā |*
+> *deva 'tātā | haviṣmatā |*
+> *saḥ | naḥ | ūrjām | upa 'ābhṛtyā | ayā | kṛpā | na | jūryati |*
+> *yam | mātariśvā | manave | parāvataḥ | devam | bhāḥ | iti bhāḥ | parāvataḥ ‖ 2 ‖*
+
+*(Read from the image; the Pada of the third line is printed "ūrjām | upā-bhṛtyā | ayā | kṛpā | na | jūryati" — I give *upa-ābhṛtyā*, "*upābhṛtyā*" as the sense of the print is doubtful: [?]; the Pada notes "*bhāḥ iti bhāḥ*" in the last line as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यज्ञसाधं यज्ञस्य साधकम् ॥ साध्नोतेः क्विपि कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ तमग्निं वेद्यां स्थापितमपि वातयामसि । अपिः सम्भावनार्थः । आ परितोषं सेवामहे ॥ वात गतिसुखसेवनयोः । चौरादिकः । इदन्तो मसिः ॥ केनोपायेनेति तदुच्यते । ऋतस्य पथा यागस्य मार्गेण यागानुष्ठानेन । यज्ञेन देवेभ्य इति
+
+> *yajñasādhaṃ yajñasya sādhakam ‖ sādhnoteḥ kvipi kṛduttarapadaprakṛtisvaratvam ‖ tamagniṃ vedyāṃ sthāpitamapi vātayāmasi | apiḥ sambhāvanārthaḥ | ā paritoṣaṃ sevāmahe ‖ vāta gatisukhasevanayoḥ | caurādikaḥ | idanto masiḥ ‖ kenopāyeneti taducyate | ṛtasya pathā yāgasya mārgeṇa yāgānuṣṭhānena | yajñena devebhya iti*
+
+*(Read from the image; the bhāṣya continues on p. 328.)*
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 327 (PDF 348): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 Saṃhitā/Pada done and its bhāṣya begins at the foot of p. 327 ("…ṛtasya pathā yāgasya mārgeṇa yāgānuṣṭhānena | yajñena devebhya iti"); resume p. 328 (PDF 349). Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; OCR reference-number lines missing for pp. 249–327.
