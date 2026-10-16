@@ -8980,4 +8980,72 @@ The word ***śravaḥ*** is recorded among the names of wealth (Ni. 2-[?]; as re
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 353 (PDF 374): Ṛks 1–5 complete; Ṛk 6 complete except the end of its grammar page (entry *śiśrathat* breaks off at the foot of p. 353); resume p. 354 (PDF 375) with the rest of the Ṛk 6 grammar (‖ 6 ‖), then Ṛk 7. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353; OCR reference-number lines missing for pp. 249–353.
+### Printed p. 354  (PDF 375)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+*(Grammar of Ṛk 6, concluded; numbers as printed.)* *śiśrathat* (cont.) — by *bahulaṃ chandasi* the reduplicative takes *i*; and by *bahulaṃ chandasy amāṅyoge 'pi* the augment *aṭ* does not occur; *tiṅ-nighāta*. *śravasyayā* — when *śravaḥ annam ātmana icchati* is intended, *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; after the *kyac*-ending root, *apratyayāt* (Pā. 3-3-102) gives the suffix *a* in the abstract sense; then *ṭāp*; instrumental singular. *iṣudhyate* — root *iṣudha śaradhāraṇe*, *kaṇḍvādi*; *kaṇḍvādibhyo yak* (Pā. 3-1-27) gives *yak* in the proper sense; *śatṛ* in the present sense; dative singular; since *śatṛ* is without *num* and the ending follows it, *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute to the ending. *devatrā* — *devamanuṣyapuruṣapurumartyebhyo dvitīyāsaptamyor bahulam* (Pā. 5-4-56) gives *trā*; acute on the last syllable by the accent of the suffix. *ohise* — root *vah prāpaṇe*; *chandasi luṅlaṅliṭaḥ* gives *liṭ* in the present sense; in the second person *thāsaḥ se* gives *se*; *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15) gives *saṃprasāraṇa* of the root's *v*; reduplication; *tiṅ-nighāta*. *sukṛte* — *śobhanaṃ karotīti sukṛt*; root *ḍukṛñ karaṇe*; after *kvip*, *hrasvasya piti kṛti tuk* (Pā. 6-1-71) the augment *tuk*; *kṛd-uttarapadaprakṛtisvara*. *ṛṇvati* — this is a *sautra* root, used in the sense of motion; or *riṇvi gatau*; *idito num dhātoḥ* (Pā. 7-1-58) gives *num*; the Vedic *saṃprasāraṇa* of the *r* of the root; the *n* of *num*, made so by that, becomes *ṇ*; *laṭ* third person singular; *tiṅ-nighāta*. *dvārā* — the form *dvārāṇi*; *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi* in the neuter. ‖ 6 ‖
+
+***(ornamental rule)***
+
+### Printed p. 355  (PDF 376)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> स मानुषे वृजने शंतमो हितोऽग्निर्यज्ञेषु जेन्यो न विश्पतिः ।
+> प्रियो यज्ञेषु विश्पतिः ।
+> स हव्या मानुषाणामिळा कृतानि पत्यते ।
+> स नस्त्रासते वरुणस्य धूर्तेर्महो देवस्य धूर्तेः ॥ ७ ॥
+
+> *sa mānuṣe vṛjane śaṃtamo hito 'gniryajñeṣu jenyo na viśpatiḥ |*
+> *priyo yajñeṣu viśpatiḥ |*
+> *sa havyā mānuṣāṇāmiḷā kṛtāni patyate |*
+> *sa nastrāsate varuṇasya dhūrtermaho devasya dhūrteḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । मानुषे । वृजने । शम्ऽतमः । हितः । अग्निः । यज्ञेषु । जेन्यः । न । विश्पतिः ।
+> प्रियः । यज्ञेषु । विश्पतिः ।
+> सः । हव्या । मानुषाणाम् । इळा । कृतानि । पत्यते ।
+> सः । नः । त्रासते । वरुणस्य । धूर्तेः । महः । देवस्य । धूर्तेः ॥ ७ ॥
+
+> *saḥ | mānuṣe | vṛjane | śam 'tamaḥ | hitaḥ | agniḥ | yajñeṣu | jenyaḥ | na | viśpatiḥ |*
+> *priyaḥ | yajñeṣu | viśpatiḥ |*
+> *saḥ | havyā | mānuṣāṇām | iḷā | kṛtāni | patyate |*
+> *saḥ | naḥ | trāsate | varuṇasya | dhūrteḥ | mahaḥ | devasya | dhūrteḥ ‖ 7 ‖*
+
+*(Read from the image. The Pada divides *śaṃ-tamaḥ* as "śam-tamaḥ"; the Saṃhitā is "*śaṃtamo*", as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सोऽग्निर्मानुषे मनुष्यस्य यजमानस्य सम्बन्धिनि वृजने वर्जनीये पापे निमित्तभूते सति यज्ञेषु निमित्तेषु शन्तमोऽत्यन्तं सुखतमः अरिष्टस्य निवारकत्वात् अत एव हितः स्वर्गाद्यभिमतसाधकत्वात् । किंचायं यज्ञेषु विश्पतिर्ऋत्विग्रूपाणां प्रजानामतिशयेन पालकः ॥ पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् ॥ अत एव प्रियश्च भवति । तत्र दृष्टान्तः । जेन्यो न विश्पतिर्जयशीलो राजेव । स यथा परसेनाद्युपद्रवपरिहारेण सम्यक्परिपालनेन च प्रजानां प्रियो भवति । किंचायमग्निर्मानुषाणां मनुष्याणां यजमानानां सम्बन्धीनि हव्या हवींषीळा कृतानीलायां वेद्यां कृतानि सम्पादितान्युद्दिश्य पत्यते । पतति । आगच्छति । किंच सोऽग्निर्नोऽस्मान्यजमानान्वरुणस्य वारकस्य धूर्तेर्हिंसकस्य भयात्त्रासते । त्रायते । यद्वा । धूर्तेरिति पञ्चमी । वरुणस्य पापदेवस्य धूर्तेर्हिंसकात् । किंच महो महतो देवस्य
+
+> *so 'gnirmānuṣe manuṣyasya yajamānasya sambandhini vṛjane varjanīye pāpe nimittabhūte sati yajñeṣu nimitteṣu śantamo 'tyantaṃ sukhatamaḥ ariṣṭasya nivārakatvāt ata eva hitaḥ svargādyabhimatasādhakatvāt | kiṃcāyaṃ yajñeṣu viśpatirṛtvigrūpāṇāṃ prajānāmatiśayena pālakaḥ ‖ patyāvaiśvarya iti pūrvapadaprakṛtisvare prāpte parādiśchandasi bahulamityuttarapadādyudāttatvam ‖ ata eva priyaśca bhavati | tatra dṛṣṭāntaḥ | jenyo na viśpatirjayaśīlo rājeva | sa yathā parasenādyupadravaparihāreṇa samyakparipālanena ca prajānāṃ priyo bhavati | kiṃcāyamagnirmānuṣāṇāṃ manuṣyāṇāṃ yajamānānāṃ sambandhīni havyā havīṃṣīḷā kṛtānīlāyāṃ vedyāṃ kṛtāni sampāditānyuddiśya patyate | patati | āgacchati | kiṃca so 'gnirno 'smānyajamānānvaruṇasya vārakasya dhūrterhiṃsakasya bhayāttrāsate | trāyate | yadvā | dhūrteriti pañcamī | varuṇasya pāpadevasya dhūrterhiṃsakāt | kiṃca maho mahato devasya*
+
+*(Read from the image; the sentence runs over to p. 356. A few small letters are doubtful: [?] — e.g. "*vṛjane varjanīye pāpe*", "*parādiś chandasi bahulam*" [reading of the sūtra].)*
+
+### Printed p. 356  (PDF 377)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+> धूर्तेर्हिंसातस्त्रासते । पालयते । आयष्वारमग्निर्हिनस्तीति प्रसिद्धम् [?] । यद्वा । एकमेव वाक्यम् । धूर्तेर्हिंसकस्य महो महतो वरुणस्य देवस्य वरुणाख्यायाः पापदेवताया धूर्तेर्हिंसातो नोऽस्मान् सोऽग्निस्त्रासते । त्रायते ॥
+
+> *dhūrterhiṃsātastrāsate | pālayate | āyaṣvāramagnirhinastīti prasiddham [?] | yadvā | ekameva vākyam | dhūrterhiṃsakasya maho mahato varuṇasya devasya varuṇākhyāyāḥ pāpadevatāyā dhūrterhiṃsāto no 'smān so 'gnistrāsate | trāyate ‖*
+
+*(Read from the image: "…*dhūrter hiṃsātas trāsate | pālayate |* [a doubtful phrase "*āyaṣvāram agnir hinastīti prasiddham*" — I give the letters as read: [?]] *| yadvā | ekam eva vākyam |*…")* Sense: "…of the great god's destruction (or of the destroyer) he protects; or as one sentence: from the great Varuṇa, the god who is the sin-deity named Varuṇa, from his harm, Agni protects us."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *mānuṣe* — belonging to man; *vṛjane* — in the matter of sin (its removal); *yajñeṣu* — in the sacrifices; *śaṃtamaḥ* — the great giver of happiness; *hitaḥ* — (therefore) the benefactor; *yajñeṣu* — in the sacrifices; *viśpatiḥ* — protector of the people (in the form of the priests); *jenyaḥ* — victorious; *viśpatiḥ na* — like a king; *priyaḥ* — trusted; *saḥ agniḥ* — that Agni; *iḷā kṛtāni* — prepared on the altar; *mānuṣāṇām* — belonging to man; *havyā* — the oblations (for them); *patyate* — comes; *(kiṃ ca* — and); *saḥ* — he; *naḥ* — us (the performers of the sacrifice); *varuṇasya* — of Varuṇa, who obstructs the rites; *dhūrteḥ* — from the harming one; *trāsate* — protects; *(and)* *mahaḥ devasya* — of the powerful (sin-)god named Varuṇa; *dhūrteḥ* — from the harm; *(trāsate* — protects) [or: *dhūrteḥ* — the harmful; *mahaḥ* — and mighty; *varuṇasya devasya* — of the god named Varuṇa (of sin); *dhūrteḥ* — from the harm; *naḥ* — us; *saḥ* — that Agni; *trāsate* — protects].
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, who gives happiness in the sacrifices by removing the sin of men and is therefore beneficent; who is the protector of the priests who are the subjects in the sacrifices, and who is dear like a victorious king, comes for the oblations that men have prepared on the altar; and, having come, saves us the sacrificers from the harm of the sin (deity) who harms and obstructs the sacrifice.
+
+**Printed English (heading "English Translation"; as printed):** *"Agni is a most amiable friend in human infirmity through the means of sacrifices; the beloved protector of all in sacrifices, like a victorious prince, he alights upon the oblations of men when placed upon the altar: he preserves us from the malignity of Varuna; from the malignity of the mighty deity (of sin.)"*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 7) — begun.** ***agniḥ mānuṣe vṛjane yajñeṣu śaṃtamaḥ hitaḥ*** — *yajamānasya sambandhini varjanīye pāpe nimittabhūte sati yajñeṣu atyantaṃ sukhatamaḥ ariṣṭanivārakatvāt*: "when the sacrificer's sin, which is to be shunned, has arisen, Agni is the giver of the greatest happiness in the sacrifices, since he removes harm…" *(the entry continues on p. 357).*
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 356 (PDF 377): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā…English done and the Special Topics begun (the first entry, *agniḥ mānuṣe vṛjane…*, breaks off at the foot of p. 356); resume p. 357 (PDF 378). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353; OCR reference-number lines missing for pp. 249–356.
