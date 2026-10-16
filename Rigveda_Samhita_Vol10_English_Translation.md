@@ -6288,4 +6288,118 @@ The main idea of this ṛk and of the next may be stated thus: Bhāvayavya and h
 
 ---
 
-**Progress note:** Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 242 (PDF 263): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, Special Topics begun (breaks off at "Bhāvayavya … says in this way —"); resume p. 243 (PDF 264). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5 bhāṣya (p. 237) small type, middle part partly legible. Page images for PDF 261+ are in scratchpad w10b/.
+### Printed p. 243  (PDF 264)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+*(Special topics, Ṛk 6, continued — the dialogue:)* **Bhāvayavya** (teasing his wife Romaśā): "O, this Romaśā, like a female weasel that never lets go of her beloved male weasel, once she has clasped him (for enjoyment), wishes to embrace me a hundred times. Her body is full (or: wet) with semen."
+
+**Romaśā:** "O husband, do not laugh at me as being young in age and not fit for union. Come to my side (for union), and embrace me well, clasping my limbs. Do not suppose that my limbs are not yet well grown and thus not fit for union. For my womb and other parts are thickly covered with well-grown hair, like the body of a ewe of the Gandhāra country."
+
+The main subject here is this: when Romaśā, with desire, begged her husband, Bhāvayavya laughed at his wife as being young in age and not fit for union. In answer to that, Romaśā says that she is not a girl but a grown woman fit for union, and, to make this firm, gives an example. In the state of manhood, the hair on the hands and feet and the other limbs is naturally thick, and it indicates that they have passed boyhood and have come into youth; but for women, when they are in youth, hair on hands and feet is unusual — one may say impossible; but on the head, and chiefly in the region of the womb, thickly grown hair indicates the state of youth. Therefore, to support the point that she is in youth and fit for union, Romaśā tells the example that her womb region, like a ewe of the Gandhāra country or like the womb of a pregnant woman, is full of hair. The country of Gandhāra must be the country near Kandahar (the print has "Kandahar" in Latin letters); since that is a cold country, the sheep and other animals have much hair; so that example is told here.
+
+***āgadhitā, parigadhitā*** — in giving the derivation of these words, Yāska takes this very ṛk as the example, saying:
+
+> गध्यतिर्भावकर्मा । आगधिता परिगधिता इत्यपि निगमो भवति ।
+
+> *gadhyatirbhāvakarmā | āgadhitā parigadhitā ityapi nigamo bhavati |*
+
+(Ni. 5-15 [?], as printed "೫-೧೫".) The word *gadhyati* means "mixing, uniting". Therefore in the present ṛk the "mixing of the limbs of husband and wife" means that the limbs of both are in contact with each other, one embracing the other;
+
+### Printed p. 244  (PDF 265)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+this is the idea that the bhāṣyakāra indicates. Therefore the idea is that the two words *āgadhitā* and *parigadhitā* have the same sense, with a slight difference of more or less. In this matter Durgācārya, the commentator on the Nirukta, has given this explanation for the ṛk:
+
+> आगधितेति भावयव्यस्यार्षम् । आगधिता आगृहीता अभिमिश्रिता च । परिगधिता च परिमिश्रिता बाहुभ्यां मया परिष्वक्तेत्यर्थः । या कशीकेव प्रतिकशं कशीकेव स हि नकुलजातिः काञ्चिद्दीने कशामिति श्रूयतेऽश्वमेधे । सा यथा मदकाले प्रतिकशमतितरां परिष्वजति स हि तस्याः परिष्वजनस्वभावः । एवं या मा आजंगहे परिगृह्णाति बाहुभ्याम् । परिगृह्य च ददाति । यादुरीया आदरवती । अथवा यादः रेतःसेकेन तदस्यास्तीति । यादः इत्युदकनामसु पठितम् । आह किं ददाति मह्यम् ? इति । उच्यते — याशूनां मैथुनाख्यानां शता शतानि बहुश इत्यर्थः । या एवंप्रकारा सा मम भोज्या पत्नीत्यभिप्रायः । एवमत्र मैथुनसंबन्धात्शब्दसारूप्याच्च गध्यतिर्मिश्रीभावकर्मेत्युपपद्यते ॥
+
+> *āgadhiteti bhāvayavyasyārṣam | āgadhitā āgṛhītā abhimiśritā ca | parigadhitā ca parimiśritā bāhubhyāṃ mayā pariṣvaktetyarthaḥ | yā kaśīkeva pratikaśaṃ kaśīkeva sa hi nakulajātiḥ kāñciddīne kaśāmiti śrūyate 'śvamedhe | sā yathā madakāle pratikaśamatitarāṃ pariṣvajati sa hi tasyāḥ pariṣvajanasvabhāvaḥ | evaṃ yā mā ājaṃgahe parigṛhṇāti bāhubhyām | parigṛhya ca dadāti | yādurīyā ādaravatī | athavā yādaḥ retaḥsekena tadasyāstīti | yādaḥ ityudakanāmasu paṭhitam | āha kiṃ dadāti mahyam ? iti | ucyate — yāśūnāṃ maithunākhyānāṃ śatā śatāni bahuśa ityarthaḥ | yā evaṃprakārā sā mama bhojyā patnītyabhiprāyaḥ | evamatra maithunasaṃbandhātśabdasārūpyācca gadhyatirmiśrībhāvakarmetyupapadyate ‖*
+
+(Ni. 5-15 [?]; as printed "೩-೧೫"; the OCR reads "३-१५".) *(Read letter by letter; the Sanskrit of this long Durga passage is partly in small type, and the words I am least sure of are "kāñcid dīne kaśām" and "svabhāvaḥ"; I mark them as read, without completing.)* "'*Āgadhitā*' is a word of Bhāvayavya's [verse]. *Āgadhitā* — accepted, mixed, *parigadhitā* — mixed all round, embraced by me with the arms: this is the sense. *Kaśīkā iva* — the *kaśīkā*, namely a weasel-kind; … as she at the time of rut embraces him closely [the male], for embracing is her nature; so she who, taking hold of me, grips with the arms, and having gripped, gives. *Yādurī* — [one] with abundance; or, from *yādaḥ*, water, [she] has it by the sprinkling of semen (*yādaḥ* is read among the names of water). What does she give me? It is said: of *yāśūnām* — [acts] called union — hundreds, many times: that is the sense. Such a one is my enjoyable wife: this is the intention. Thus here, by the connection with union and by similarity of the word, '*gadhyatir miśrībhāvakarma*' (*gadhyati* means the act of mixing) is established."
+
+The chief meaning of this we have already explained, so there is no need to repeat it.
+
+***kaśīkā*** — *kaśīkā nāma sūtavatsā nakulī*: a female weasel who has just given birth. Sāyaṇa explains the fitness of the simile thus: *sā yathā patyā saha cirakālaṃ krīḍati na kadācid api vimuñcati tadvadeṣāpi* — after giving birth, the female weasel, wishing union with her mate, does not leave him, and remains with him, fully satisfying the mate's desire. Here Bhāvayavya's wife Romaśā, like the female weasel, does not leave the husband but embraces him; so the example is given. And "*jaṅgahe*", the verb, is a repetition (a form of intensity) and denotes the nature of the embrace.
+
+***yādurī*** — the word *yādurī* (*yādus*) is recorded among the names of water; here it means "water in the form of semen".
+
+***yāśūnām*** — *yaśa iti prajananānāma | tatsaṃbandhīni karmāṇi yāśūni bhogāḥ*: *yaśa* is a name of procreation; the acts connected with it are *yāśūni*, "enjoyments": the meaning is "pleasures of union and the like that are the means of begetting offspring".
+
+**Vyākaraṇa-prakriyā (Ṛk 6; noted briefly, numbers as read by the OCR).** *āgadhitā* — the root *gadh* is used in the sense of "taking". '*gadhyaṃ gṛhṇāteḥ*' (Ni. 5-15), says Yāska. In the passive, the suffix *kta*; the augment *iṭ*; *gatir anantaraḥ* (Pā. 6-2-49)
+
+### Printed p. 245  (PDF 266)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+gives the natural accent of the *gati* (*ā*); the same process in *parigadhitā*; in the feminine *ṭāp*, since it ends in *a*. *jaṅgahe* — root *grah upādāne*; when intensity is shown, *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22) gives *yaṅ*; *yaṅo ci ca* (Pā. 2-4-74) gives *luk* of it, by the *caṅ*-mitta; by *vyatyayo bahulam* the *ātmanepada*; in the Veda the reduplicative syllable gets *nuk* and the *r* is elided; after the *yaṅluk*-ending, third person singular; since *yat* is connected [with it], no *nighāta*; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the first-syllable acute. *dadāti* — root *ḍudāñ dāne*; Juhotyādi; laṭ third person singular; since it stands at the head of a pāda, no *nighāta*; the first-syllable acute as before. *yādurī* — root *dā dāne*; *yādum dadāti iti*; *ātoʼnupasarge kaḥ* (Pā. 3-2-3) gives the suffix *ka*; in the feminine, by Vedic usage, *ī*; the words *yādurī* and *yāśū* are established by *pṛṣodarādīni yathopadiṣṭam* (Pā. 6-3-109). *bhojyā* — *bhoktuṃ yogyā bhojyā*; root *bhuja pālanābhyavahārayoḥ*; *ṛhaloṇyat* (Pā. 3-1-124) gives *ṇyat*; *pugantalaghūpadhasya ca* gives guṇa of the short penultimate; by *vyatyaya* no *kutva*; *tit svaritam* (Pā. 6-1-185) gives the *svarita*; in the feminine *ṭāp*. *śatā* — *śeś chandasi bahulam* (Pā. 6-1-70) gives the elision of *śi* in the neuter form. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> उपोप मे परा मृश मा मे दभ्राणि मन्यथाः ।
+> सर्वाहमस्मि रोमशा गन्धारीणामिवाविका ॥ ७ ॥
+
+> *upopa me parā mṛśa mā me dabhrāṇi manyathāḥ |*
+> *sarvāhamasmi romaśā gandhārīṇāmivāvikā ‖ 7 ‖*
+
+### Printed p. 246  (PDF 267)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**॥ पदपाठः ॥**
+
+> उपऽउप । मे । परा । मृश । मा । मे । दभ्राणि । मन्यथाः ।
+> सर्वा । अहम् । अस्मि । रोमशा । गन्धारीणाम्ऽइव । अविका ॥ ७ ॥
+
+> *upa 'upa | me | parā | mṛśa | mā | me | dabhrāṇi | manyathāḥ |*
+> *sarvā | aham | asmi | romaśā | gandhārīṇām 'iva | avikā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> रोमशा नाम बृहस्पतेः पुत्री ब्रह्मवादिनी परिहसन्तं स्वपतिं प्रत्याह । भो पते मे माम् । द्वितीयार्थे चतुर्थी । उपोप । द्वितीय उपशब्दः पादपूरणः । उपेत्य परा मृश । सम्यक् स्पृश । भोगयोग्यामवगत्येत्यर्थः । यद्वा । मे मम गोपनीयमङ्गं मुपोप परामृश । अत्यन्तं नान्तरं स्वकीयं परामर्शभावशङ्कां निवारयति । मे मदङ्गानि रोमाणि दभ्राणि मा मन्यथाः । अल्पानि मा बुद्ध्यस्व । दभ्रमर्भकमित्यल्पस्येति दभ्रं दभ्नोतेरिति यास्कः । नि. ३-२० । अदभ्रत्वमेव विशदयति । अहं रोमशा बहुरोमयुक्तास्मि । यतोऽहमीदृश्यतः सर्वा संपूर्णावयवास्मि । रोमशत्वे दृष्टान्तः । गन्धारीणामविकेव । गन्धारा केशां संबन्धिन्यो विजातिरिव [?] । तद्देशस्था आनवो मेषा यथा रोमशाः कथाहमस्मि । देशः । यद्वा । गन्धारीणां गर्भधारिणीनां स्त्रीणामविकार्थं तर्पयन्ती योनिरिव । तासामा प्रसवं रोमादिविकर्तनस्य शास्त्रे निषिद्धत्वाद्योनिः रोमशा भवति । अतः सोपमियते । यतोऽयं सर्वादृशीतो मामुपैहीं माम् [?] । मावबुध्यस्वेत्यर्थः ॥
+
+> *romaśā nāma bṛhaspateḥ putrī brahmavādinī parihasantaṃ svapatiṃ pratyāha | bho pate me mām | dvitīyārthe caturthī | upopa | dvitīya upaśabdaḥ pādapūraṇaḥ | upetya parā mṛśa | samyak spṛśa | bhogayogyāmavagatyetyarthaḥ | yadvā | me mama gopanīyamaṅgaṃ mupopa parāmṛśa | atyantaṃ nāntaraṃ svakīyaṃ parāmarśabhāvaśaṅkāṃ nivārayati | me madaṅgāni romāṇi dabhrāṇi mā manyathāḥ | alpāni mā buddhyasva | dabhramarbhakamityalpasyeti dabhraṃ dabhnoteriti yāskaḥ | ni. 3-20 | adabhratvameva viśadayati | ahaṃ romaśā bahuromayuktāsmi | yato 'hamīdṛśyataḥ sarvā saṃpūrṇāvayavāsmi | romaśatve dṛṣṭāntaḥ | gandhārīṇāmavikeva | gandhārā keśāṃ saṃbandhinyo vijātiriva [?] | taddeśasthā ānavo meṣā yathā romaśāḥ kathāhamasmi | deśaḥ | yadvā | gandhārīṇāṃ garbhadhāriṇīnāṃ strīṇāmavikārthaṃ tarpayantī yoniriva | tāsāmā prasavaṃ romādivikartanasya śāstre niṣiddhatvādyoniḥ romaśā bhavati | ataḥ sopamiyate | yato 'yaṃ sarvādṛśīto māmupaihīṃ mām [?] | māvabudhyasvetyarthaḥ ‖*
+
+*(Read from the image; the middle of this bhāṣya — from "nāntaraṃ svakīyaṃ" to "mām" — is small and I have transcribed only what is legible; the words marked [?] are doubtful and the OCR here is badly garbled. The sense is secure from the Kannada pratipadārtha and the p. 247 comment.)* "Romaśā, the daughter of Bṛhaspati, a *brahmavādinī*, says to her husband who is teasing: O husband, *me* — to me (the dative has the sense of the accusative); *upopa* — the second *upa* is a pāda-filler; coming near, *parā mṛśa* — touch properly, understanding that I am fit for enjoyment. Or else: touch my part that is to be hidden; she dispels the doubt about the touch. *Me dabhrāṇi mā manyathāḥ* — do not think my limbs, my hairs, *dabhrāṇi* — small, few: '*dabhram arbhakam alpasya*', '*dabhraṃ dabhnoteḥ*', says Yāska (Ni. 3-20). She makes clear the not-smallness: I, Romaśā, am with abundant hair; therefore I am *sarvā* — complete in all limbs. As an example for the hairiness: *gandhārīṇām avikā iva* — as the ewes of Gandhāra, of that country, are woolly, so am I; the country [is to be thought of]. Or else: like the womb of pregnant women, which, since it is forbidden by the śāstra to cut the hair [of that part] until delivery, is hairy — hence this comparison. Since this is so, therefore come to me; do not think of me [as immature]: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(Bho pate)* — O husband; *me* — me; *upa upa* — [come] near well; *parā mṛśa* — touch well; *me* — my (limbs); *dabhrāṇi* — small (few) things; *mā manyathāḥ* — do not think; *aham* — I; *gandhārīṇām avikā iva* — like a ewe of the Gandhāra country (or like the womb of the pregnant woman); *romaśā* — hairy; (*ataḥ* — therefore); *sarvā* — with developed limbs; *asmi* — I am.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O husband, come to me and touch (my limbs); I am hairy like the ewe of the Gandhāra country (or like the wombs of pregnant women); therefore I am of mature limbs; so do not think me immature.
+
+### Printed p. 247  (PDF 268)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+**Printed English (as printed):** *Approach me, (husband); deem me not immature: I am covered with down like a ewe of the Gandharins.* *(sic: "Gandharins")*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.**
+
+***dabhrāṇi*** — the word *dabhra* is recorded among the names of "small" (Ni. 3-13 [?]; as printed "೩-೧೩"). *Dabhram arbhakam ity alpasya | dabhraṃ dabhnoteḥ sudambhaṃ bhavati* (Ni. 3-20): from the root *dambh*, meaning "to destroy", the word *dabhra* gives the meaning "small", "little": that is, "easily destroyed". In the present ṛk Bhāvayavya's wife says that she is not such a tender one, but a grown woman fit for enjoyment. For the explanation of this word the author of the Nirukta has cited this very ṛk (Ni. 3-20).
+
+***gandhārīṇām avikā iva romaśā*** — gives two meanings. First: "a ewe of the Gandhāra country, one with exceedingly abundant hair". Second: "one with hair like the womb of a pregnant woman".
+
+Since the main idea of this ṛk and the particulars connected with it have been included in the special topics of the preceding ṛk and translated there, I give here only the commentary of Durgācārya, the commentator on the Nirukta:
+
+> उपोप मे परामृश .... । भावयव्यस्येयमार्षम् । अनुष्टुप् । भावयव्यमेव सा भर्तारं तेनानुपेयमाना ब्रवीति । हे राजन् उपगम्य उपस्पृश्य च मे मम परामृश यः प्रदेशः पुरुषेण प्रियया परामृष्टव्यः । किंच मा मे दभ्राणि मन्यथाः अल्पकानि लोमानि मा मन्यथाः । जानेऽहमेतत् । यथा अलोमिकाया उपगमः प्रतिषिद्धः स्मृतौ — "नाजातलोम्नीमुपहासमिच्छेत्" इति । यते वेदयामि सर्वाहमस्मि रोमशा सर्वेष्वङ्गेषु मदीयान्युत्पन्नानि रोमाणि येषु कामो [?] मुत्सृजन्ते [?] । कथं च पुनरहमस्मि रोमशा ? गन्धारीणामिवाविका गन्धारदेशजातानामविकानां मध्ये या सुष्ठु रोमशा भवेत् तथाहमस्मि रोमशा, निःशङ्को मामुपगच्छेत्यभिप्रायः ॥
+
+> *upopa me parāmṛśa .... | bhāvayavyasyeyamārṣam | anuṣṭup | bhāvayavyameva sā bhartāraṃ tenānupeyamānā bravīti | he rājan upagamya upaspṛśya ca me mama parāmṛśa yaḥ pradeśaḥ puruṣeṇa priyayā parāmṛṣṭavyaḥ | kiṃca mā me dabhrāṇi manyathāḥ alpakāni lomāni mā manyathāḥ | jāne 'hametat | yathā alomikāyā upagamaḥ pratiṣiddhaḥ smṛtau — "nājātalomnīmupahāsamicchet" iti | yate vedayāmi sarvāhamasmi romaśā sarveṣvaṅgeṣu madīyānyutpannāni romāṇi yeṣu kāmo [?] mutsṛjante [?] | kathaṃ ca punarahamasmi romaśā ? gandhārīṇāmivāvikā gandhāradeśajātānāmavikānāṃ madhye yā suṣṭhu romaśā bhavet tathāhamasmi romaśā, niḥśaṅko māmupagacchetyabhiprāyaḥ ‖*
+
+*(Read from the image; the Nirukta commentary is in small type, the words marked [?] are doubtful, and the quotation from the Smṛti "nājātalomnīm upahāsam iccheta" is as printed — I do not complete the Smṛti words.)* "'*Upopa me parāmṛśa*': this is Bhāvayavya's [verse]; Anuṣṭubh. She, the wife, urged by her husband Bhāvayavya … says: 'O king, coming near and touching me, *parāmṛśa* — the region which a man should touch with the beloved … And do not think *dabhrāṇi* — small hairs; I know this: just as in the Smṛti the approach to a woman without hair is forbidden, "one should not seek sport with her whose hair has not grown"; therefore I tell you: *sarvāham asmi romaśā* — I am hairy in all limbs, my hairs have grown in those [places] … And how am I hairy? *Gandhārīṇām ivāvikā* — as, among the ewes born in the Gandhāra country, the one that is well covered with wool, so I am hairy; come to me without fear': this is the intention."
+
+The subject of this ṛk has been introduced in the explanation of the preceding ṛk: in order to establish that she is not a girl but a young woman fit for union, Romaśā says that the hair that indicates youth has grown on her limbs, and gives the example of the ewe of Gandhāra. 
+
+### Printed p. 248  (PDF 269)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+…To make this firm the commentator has cited the Smṛti sentence *nājātalomopahāsam iccheta* — that a maiden whose hair has not yet grown on the womb and the other parts is not fit for union.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; noted briefly, numbers as read by the OCR).** *me* — by the statement "*vivakṣataḥ kārakāṇi bhavanti*" the dative is used in the sense of the accusative. *mṛśa* — root *mṛśa āmarśane*; Tudādi (*āmarśana* = touching); loṭ second person singular; *tiṅ-nighāta* after a non-verb word. *dabhrāṇi* — root *dambhu dambhane*; *sthāyitañcivañci…* [print: "ಸ್ಥಾಯಿತಂಚಿವಂಚಿ", Uṇ. 2-?] gives *rak*; since *kit*, *anidito hala upadhāyāḥ kṅiti* elides the nasal of the penultimate; final-acute by the suffix; accusative plural. *manyathāḥ* — root *manu avabodhane*; Divādi; laṅ second person singular; since *mā* is connected, *na māṅyoge* (Pā. 6-4-74) gives no augment *aṭ*; *tiṅ-nighāta*. *asmi* — root *as bhuvi*; laṭ first person singular; *tiṅ-nighāta*. *romaśā* — *romāṇi asyāḥ santi iti romaśā*; because it belongs to the *lomādi* group, *lomādipāmādipicchādibhyaḥ śanelacaḥ* (Pā. 5-2-100) gives the suffix *śa*; final-acute by the suffix accent; in the feminine *ṭāp*. *avikā* — *avir eva avikā*; suffix *ka* in the sense of itself; final-acute by the suffix accent. ‖ 7 ‖
+
+Here ends the 126th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತಾರನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+**Progress note:** Sūkta 126 complete (printed pp. 219–248). Sūkta 127 (*agniṃ hotāram*, begins printed p. 249 = PDF 270; page images for PDF 261–300 are in scratchpad w10b/) — not yet begun. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5 bhāṣya (p. 237) and Ṛk 7 bhāṣya (p. 246) small type with several [?].
