@@ -12816,4 +12816,106 @@ Here ends the 132nd Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 132 complete (printed pp. 501–534). Sūkta 133 (*ubhe punāmi*, 7 ṛks, Paruccheṣa, Indra; Anuvāka 19, seventh and last Sūkta; metres: Ṛk 1 Triṣṭubh, Ṛks 2–4 Anuṣṭubh, 5 Gāyatrī, 6 Dhṛti, 7 Atyaṣṭi [as the intro gives them: [?]]; printed pp. 534–565) begun: heading and the Sanskrit/Kannada introduction at the foot of p. 534 done; resume p. 535 (PDF 556; images in w10f/) with the Sūkta table and Ṛk 1. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132 (see earlier lists); the metre list in the Sūkta 133 introduction (p. 534) is internally inconsistent in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 535  (PDF 556)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+**ಸೂಕ್ತ — Sūkta 133** [as read]. Maṇḍala 1; Anuvāka 19; Sūkta 133. Aṣṭaka 2, Adhyāya 1, Varga 23 [as read]. Number of ṛks in the Sūkta: 7. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — Indra. Chandas — [as printed] 1 Triṣṭubh; 2–4 Anuṣṭubh; 5 Gāyatrī; 6 Dhṛti; 7 Atyaṣṭi. *(The printed table gives Ṛk 5 Gāyatrī, 6 Dhṛti, 7 Atyaṣṭi, whereas the Sanskrit introduction on p. 534 as I read it has the Gāyatrī at 6; recorded as printed.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> उभे पुनामि रोदसी ऋतेन द्रुहो दहामि सं महीरनिन्द्राः ।
+> अभिव्लग्य यत्र हता अमित्रा वैलस्थानं परि तृळ्हा अशेरन् ॥ १ ॥
+
+> *ubhe punāmi rodasī ṛtena druho dahāmi saṃ mahīranindrāḥ |*
+> *abhivlagya yatra hatā amitrā vailasthānaṃ pari tṛḷhā aśeran ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> उभे इति । पुनामि । रोदसी इति । ऋतेन । द्रुहः । दहामि । सम् । महीः । अनिन्द्राः ।
+> अभिऽव्लग्य । यत्र । हताः । अमित्राः । वैलस्थानम् । परि । तृळ्हाः । अशेरन् ॥ १ ॥
+
+> *ubhe iti | punāmi | rodasī iti | ṛtena | druhaḥ | dahāmi | sam | mahīḥ | anindrāḥ |*
+> *abhi 'vlagya | yatra | hatāḥ | amitrāḥ | vailasthānam | pari | tṛḷhāḥ | aśeran ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; begins p. 535.)*
+
+> हे इन्द्र ऋतेन त्वदुद्देश्येन यज्ञेन बलेनोभे रोदसी द्यावापृथिव्यौ पुनामि । लोकद्वयं हिंसकानां तवायज्ञ्यानां [?] पापागमनेन पावयामि । किंचित् भूलोकेऽनिन्द्रा इन्द्रविरहितानामाश्रयभूता महीः उर्वीः अत एव द्रुहो द्रोहिणामाधारभूतत्वात्तल्लक्षणा द्रोग्ध्रीः सं दहामि । संभूयैकहेलया दहामि । पुनस्ता एव विशेष्यन्ते । यत्र यासु भूमिष्वमित्राः शत्रवोऽभिव्लग्याभितो गत्वा हताः सर्वतः प्राप्ता अस्माभिर्घातिता वा । व्लगतिर्गतिकर्मा । छान्दसो धातुः । ते सर्वे परि तृळ्हा हिंसिताः ॥ तृहू हिंसार्थः । ऊदित्त्वादस्य विभाषेट्प्रतिषेधः । हिंसिताः संतोऽशेरन् । शयनं प्राप्ताः । शेतेर्व्यत्ययेन परस्मैपदं ।
+
+> *he indra ṛtena tvaduddeśyena yajñena balenobhe rodasī dyāvāpṛthivyau punāmi | lokadvayaṃ hiṃsakānāṃ tavāyajñyānāṃ [?] pāpāgamanena pāvayāmi | kiṃcit bhūloke 'nindrā indravirahitānāmāśrayabhūtā mahīḥ urvīḥ ata eva druho drohiṇāmādhārabhūtatvāttallakṣaṇā drogdhrīḥ saṃ dahāmi | saṃbhūyaikahelayā dahāmi | punastā eva viśeṣyante | yatra yāsu bhūmiṣvamitrāḥ śatravo 'bhivlagyābhito gatvā hatāḥ sarvataḥ prāptā asmābhirghātitā vā | vlagatirgatikarmā | chāndaso dhātuḥ | te sarve pari tṛḷhā hiṃsitāḥ ‖ tṛhū hiṃsārthaḥ | ūdittvādasya vibhāṣeṭpratiṣedhaḥ | hiṃsitāḥ saṃto 'śeran | śayanaṃ prāptāḥ | śetervyatyayena parasmaipadaṃ |*
+
+*(Sense, with doubtful words as read: "O Indra, by the sacrifice (*ṛta*, i.e. force) aimed at you I purify both heaven and earth; I cleanse the two worlds of the misfortune that comes from the wicked [?]. Those wide lands that lack Indra (*anindrāḥ*) and are the support of the malicious, I burn up together. The lands are further described: in which the enemies, having gone about on every side, were slain — reached on all sides by us or struck by us (*vlagati* is a verb of motion, a Vedic root); all these, utterly (*pari*) crushed, lie asleep (*aśeran*)." Grammar: *tṛhū hiṃsāyām*; because of the *ū*-marker the *iṭ* is optionally forbidden; *śete* has the Parasmaipada by *vyatyaya*.)*
+
+### Printed p. 536  (PDF 557)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+> शीङो रुट् । पा. [?] । शीङः सार्वधातुके गुणः ॥ वैलस्थानं । बिलशब्दो गर्तसमानार्थः । स च गर्तः श्मशानवचनः । आकोऽयमपि श्मशानवाची । अथवा बिलसंबन्धिस्थानं नागलोकः । तत्र वाशेरन् । यद्वा बिल क्षेपे इति धातुः । घञर्थे कः । स्वार्थिकोऽयन् । तत्र शवाः क्षिप्यन्ते इति वैलस्थानं श्मशानं । तत्र त्वयोहता भूमिं श्मशानवत्कृत्वा सर्वत्र शेरते । तान् दहामीत्यर्थः ॥
+
+> *śīṅo ruṭ | pā. [?] | śīṅaḥ sārvadhātuke guṇaḥ ‖ vailasthānaṃ | bilaśabdo gartasamānārthaḥ | sa ca gartaḥ śmaśānavacanaḥ | āko 'yamapi śmaśānavācī | athavā bilasaṃbandhisthānaṃ nāgalokaḥ | tatra vāśeran | yadvā bila kṣepe iti dhātuḥ | ghañarthe kaḥ | svārthiko 'yan | tatra śavāḥ kṣipyante iti vailasthānaṃ śmaśānaṃ | tatra tvayohatā bhūmiṃ śmaśānavatkṛtvā sarvatra śerate | tān dahāmītyarthaḥ ‖*
+
+*(Grammar tail of *aśeran*: *śīṅo ruṭ* (Pā. [?], number not legible to me), *śīṅaḥ sārvadhātuke guṇaḥ*. Then on *vailasthānam*: "The word *bila* means the same as *garta* (pit); and *garta* is a word for a cemetery; the word *āka* also means cemetery. Or: the place connected with a *bila* is the Nāga-world (serpent world); either of these may be meant by 'they lay there'. Or the root is *bila kṣepe*; *ka* in the sense of *ghañ*, with the selfsame suffix *ayan*; where corpses are thrown is *vailasthāna*, a cemetery. There, those struck by you, making the earth like a cemetery, lie everywhere; these I burn — this is the meaning." The wording of the second half is partly doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) indre* — O Indra; *ṛtena* — by the sacrifice aimed at you (by strength); *ubhe rodasī* — both the heaven and earth; *punāmi* — (leaving aside the evil) I purify; *kiṃcit bhūloke* — and in the earth-world; *anindrāḥ* — those without Indra, supporting; *mahīḥ* — wide; *druhaḥ* — (being the support of the malicious) of the malicious, (the lands of the earth); *saṃ dahāmi* — I burn them completely; *yatra* — in whichever lands; *amitrāḥ* — enemies; *abhivlagya* — having gone everywhere; *hatāḥ* — spread over, (or struck by us); *(tatra)* — there; *(te)* — they; *pari tṛḷhāḥ* — completely destroyed; *vailasthāne* — in pits (in cemeteries, or in the Nāga-world); *aśeran* — lie fallen.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, by the sacrifice (by the strength) directed to you I purify both heaven and earth; I burn up the wide lands (portions of the earth) that, lacking Indra, are the very support of the malicious, as the malicious themselves; and in whichever lands enemies are spread and are struck down by us, there they are utterly destroyed and lie in pits (in cemeteries); I make such lands pure also.
+
+**Printed English (heading "English Translation"; as printed):** *"By sacrifice I purify both the heaven and the earth: I burn the wide (realms of earth) that are without Indra, and are (the haunts) of the wicked: wherever the enemies have congregated they have been slain: and, utterly destroyed, they sleep in a deep pit"* (the printed text has a colon after "earth", "wicked" and "slain", no closing full stop).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***ubhe rodasī*** — *rodasī* is one of the twenty-four names of *dyāvāpṛthivī* (Ni. 3-[?], as read "೩-೩೦" [?]), since the word, beginning with *purandhī*, occurs among them; *rodasī* means "the two": heaven and earth, which are in the middle (*patita*). Here, as *rodasī* is a dual-ending word, it indicates two worlds, heaven and earth; the word *ubhe* is thus not necessary [text continues on p. 537].
+
+### Printed p. 537  (PDF 558)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+*(Continuing:)* …the word *ubhe* is superfluous. It has been put in to suit the metre. Yāska, in his Nirukta, explains the word *rodasī* not only as *dyāvāpṛthivī* but also as "*rodasī rudrasya patnī*" — "*rodasī* is the wife of Rudra" (Ni. 11-[?], as read "೧೧-೩೦" [?]); and in support of this meaning he quotes:
+
+> उत ग्ना व्यन्तु देवपत्नीरिन्द्राण्यग्नाय्यश्विनी राट् ।
+> आ रोदसी वरुणानी शृणोतु व्यन्तु देवीर्य ऋतुर्जनीनाम् ॥
+
+> *uta gnā vyantu devapatnīrindrāṇyagnāyyaśvinī rāṭ |*
+> *ā rodasī varuṇānī śṛṇotu vyantu devīrya ṛturjanīnām ‖*
+
+(Ṛ. Saṃ. 5-46-8 [as read; the digits are doubtful].) — as an illustration (Ni. 12-[?], as read "೧೨-೪೬" [?]). In this Ṛk, when naming some of the divine wives, [Yāska says]:
+
+> अपि च ग्ना व्यन्तु देवपत्न्यः । इन्द्राणीन्द्रस्य पत्न्यग्नाय्यग्नेः पत्न्यश्विन्यश्विनोः पत्नी राट् राजते । रोदसी रुद्रस्य पत्नी । वरुणानी च वरुणस्य पत्नी ।
+
+> *api ca gnā vyantu devapatnyaḥ | indrāṇīndrasya patnyagnāyyagneḥ patnyaśvinyaśvinoḥ patnī rāṭ rājate | rodasī rudrasya patnī | varuṇānī ca varuṇasya patnī |*
+
+(Ni. 12-[?], as read "೧೨-೪೬" [?].) — that is: the wife of Indra is *indrāṇī*; of Agni, *agnāyī*; of the Aśvins, *aśvinī*; of Rudra, *rodasī*; of Varuṇa, *varuṇānī*, so he explains. In the present Ṛk, *rodasī* means heaven and earth.
+
+***ṛtena*** — the word *ṛta* has many senses (truth, water, etc.), but in the present Ṛk the commentator explains: *yajñena balena* — by the sacrificial act, or by the divine power obtained by performing sacrifice.
+
+***druhaḥ*** — *drohiṇām ādhārabhūtatvāt tadāśrayam api drogdhrīḥ* — "druh" means those that do harm, the wicked; the places that are the support of such wicked, where wicked people dwell, is the meaning. Since the word *anindrāḥ* ("without Indra") is used here as an attribute of this word, the lands without Indra are the dwelling-places of the wicked; the ṛṣi says that, burning such lands, he destroys them.
+
+***abhivlagya yatra hatā amitrāḥ*** — "those who are not friends to us" means enemies, the wicked; in whichever land the wicked assemble, in those lands the wicked are all destroyed.
+
+***ubhe punāmi rodasī*** — As said above, having burned the lands where the wicked who do not worship Indra dwell, and having destroyed their evil, I make heaven and earth pure [text continues on p. 538] — free of the harm done by the wicked.
+
+### Printed p. 538  (PDF 559)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Continuing:)* …I purify, or make clean — this is the purport: to remove the harm done by wicked men is to make [the worlds] pure.
+
+***vailasthānaṃ pari tṛḷhā aśeran*** — "Our enemies, the wicked who do not worship Indra, struck down by us, lie in a *bila*-place, i.e. in a cemetery", is the meaning. Sāyaṇa gives two kinds of meaning for the word *vailasthāna*:
+
+> वैलस्थानं बिलशब्दो गर्तसमानार्थः । स च गर्तः श्मशानवचनः । आकोऽयमपि श्मशानवाची । अथवा बिलसंबन्धिस्थानं नागलोकः । तत्र वाशेरन् । यद्वा बिल क्षेपे इति धातुः । घञर्थे कः । स्वार्थिकोऽयन् । तत्र शवाः क्षिप्यन्ते इति वैलस्थानं श्मशानं । तत्र त्वयोहता भूमिं श्मशानवत्कृत्वा सर्वत्र शेरते । तान् दहामीत्यर्थः ॥
+
+> *vailasthānaṃ bilaśabdo gartasamānārthaḥ | sa ca gartaḥ śmaśānavacanaḥ | āko 'yamapi śmaśānavācī | athavā bilasaṃbandhisthānaṃ nāgalokaḥ | tatra vāśeran | yadvā bila kṣepe iti dhātuḥ | ghañarthe kaḥ | svārthiko 'yan | tatra śavāḥ kṣipyante iti vailasthānaṃ śmaśānaṃ | tatra tvayohatā bhūmiṃ śmaśānavatkṛtvā sarvatra śerate | tān dahāmītyarthaḥ ‖*
+
+*(Quoted as on p. 536; the printed text is identical, with *vailasthānam* run into the preceding line.)*
+
+The word *bila* has the meaning of *garta* ("pit"). Though *garta* has the sense of "house" (Ni. 3-[?]), here the commentator gives the meaning "cemetery". Yāska: "*śmaśānasaṃco 'pi garta ucyate | gurater apagūrṇo bhavati | śmaśānaṃ śmayanam*" (Ni. 3-[?], as read "೩-೨೩" [?]) [the quotation's wording partly doubtful, [?]] — by this derivation, he gives *garta* the meaning *śmaśāna* ("cemetery"). Therefore *vailasthāna* means a cemetery-place; or, because *bila* gives the meaning Nāga-world, Pātāla, *vailasthāna* may also be said to mean the Nāga-world. But this meaning is not current in Vedic literature. On this point the English scholar Wilson says as follows —
+
+"*vailasthānaṃ aśeran*" — *They have slept or irregularly 'they sleep' in a place which is of the nature of a bila* (विल [sic]), *a hole, a cavern, a pit; the Scholiast considers the expression in this and in the third stanza to be equivalent to* śmaśāna, *a place where dead bodies are burned, or, as it would have seem [sic] to imply, a place where they were buried; as if it was the practice to bury the dead when this hymn was composed. Sayana also suggests, as an alternative, the translation of* vailasthānaṃ *by* nāgaloka, *the serpent-world;* pātāḷa, *the region below the earth; but this is ratter [sic] Pauranik, perhaps, than Vaidic.*
+
+*Bala*, i.e. "Nāgaloka, Pātāḷa" is a meaning that occurs only in later Sanskrit and is not current in the Vedas, so that meaning need not be considered here. As Yāska explains the word *garta* by the word *śmaśāna*, the meaning "cemetery" is the appropriate one. Even in a cemetery there are two kinds — a place where corpses are burned and a place where they are buried; which of these is meant here cannot be said. Wilson thinks that at that time the burying of corpses was current; but [text continues on p. 539].
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛk 1 written through p. 538 (Special Topics continues on p. 539 after Wilson's note: "but …" — resume p. 539, PDF 560; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
