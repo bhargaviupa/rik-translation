@@ -15939,4 +15939,52 @@ By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*l
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 complete (p. 659). Ṛk 9 (the last) is next, starting on p. 660; resume p. 660 (PDF 681; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 660  (PDF 681)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> इमे ये ते सु वायो बाह्वोजसोऽन्तर्नदी ते पतयन्त्युक्षणो महि व्राधन्त उक्षणः ।
+> धन्वञ्चिद्ये अनाशवो जीराश्चिदगिरौकसः ।
+> सूर्यस्येव रश्मयो दुर्नियन्तवो हस्तयोर्दुर्नियन्तवः ॥ ९ ॥
+
+> *ime ye te su vāyo bāhvojaso 'ntarnadī te patayantyukṣaṇo mahi vrādhanta ukṣaṇaḥ |*
+> *dhanvañcidye anāśavo jīrāścidagiraukasaḥ |*
+> *sūryasyeva raśmayo durniyantavo hastayordurniyantavaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> इमे । ये । ते । सु । वायो इति । बाहुऽओजसः । अन्तः । नदी इति । ते । पतयन्ति । उक्षणः । महि । व्राधन्तः । उक्षणः ।
+> धन्वन् । चित् । ये । अनाशवः । जीराः । चित् । अगिरऽओकसः [?] ।
+> सूर्यस्यऽइव । रश्मयः । दुर्ऽनियन्तवः । हस्तयोः । दुर्ऽनियन्तवः ॥ ९ ॥
+
+> *ime | ye | te | su | vāyo iti | bāhu 'ojasaḥ | antaḥ | nadī iti | te | patayanti | ukṣaṇaḥ | mahi | vrādhantaḥ | ukṣaṇaḥ |*
+> *dhanvan | cit | ye | anāśavaḥ | jīrāḥ | cit | agira 'okasaḥ [?] |*
+> *sūryasya 'iva | raśmayaḥ | dur 'niyantavaḥ | hastayoḥ | dur 'niyantavaḥ ‖ 9 ‖*
+
+*(Read from the image; the Pada's *agiraukasaḥ* is printed as one word — I give it as *अगिरऽओकसः*, which is doubtful [?].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 9; read from the image; doubtful words marked [?].)*
+
+> हे सु वायो शोभनफलप्रद वायुदेव ते तव स्वभूता इमे पुरतो दृश्यमाना येऽश्वाः सन्ति ते नदी नदने द्यावापृथिव्यावन्तस्तयोरन्तराले त्वं त्वां पतयन्ति । पातयन्ति । गमयन्ति । यद्वा । ते तव संबन्धिनोऽश्वाः पतयन्ति । पतन्ति । यज्ञदेशं गच्छन्ति ॥ कीदृशास्ते । बाह्वोजसो बाहुषु प्रकृष्टबलवन्तः । उपलक्षणमेतत् सर्वाङ्गबला इत्यर्थः । किंचोक्षणः सेक्तारः । युवान इत्यर्थः । महि महदतिप्रभूतं व्राधन्तो वर्धमानाः । कथमुक्षण उक्षाणः । तत्सदृशा इत्यर्थः ॥ वा पपूर्वस्य निगम इति दीर्घाभावः ॥ किंच धन्वन् चित् धन्वन्युदकनिर्गमनापादनभूतेऽन्तरिक्षेऽपि निरालम्बेऽनाशवो नाशरहिता अव्याप्ता वा । आकाशे विलम्बमकुर्वाणा इत्यर्थः । अत एव जीराश्चित् जिच्चब्द [?] पूजायाम् [?] । अत्यन्तं क्षिप्रगतयः । यद्वा । अनाशव इत्यनेन सह समुच्चयार्थश्चित् । चित् जीराः । आकाशमार्गेऽक्षीणाः शीघ्रगता यशः [?] इत्यर्थः । किंचागिरौकसः गिरा ओकः स्थानम् [?] । येषां नास्ति ते [?] तापवशाः [?] । भर्त्सनादिना स्थितिमलभमानाः इत्यर्थः ॥ छान्दसस्त्रीतीयाया आलुक् ॥ तदेव स्पष्टयति । सूर्यस्य रश्मय इव दुर्नियन्तवो दुःखेन नियन्तव्याः । ते यथा क्षणेन दश दिशो व्याप्नुवन्ति बहवश्च तद्वदेतेऽपीत्यर्थः । पूर्वं गिरा निग्राह्यत्वमुक्तम् । इदानीं हस्तेनापि निग्राह्यत्वमाह । हस्तयोर्दुर्नियन्तवः उभाभ्यामपि हस्ताभ्यां दुःखेन नियन्तव्याः । देवयजनगमनाय शीघ्रगामिन इत्यर्थः ॥
+
+> *he su vāyo śobhanaphalaprada vāyudeva te tava svabhūtā ime purato dṛśyamānā ye 'śvāḥ santi te nadī nadane dyāvāpṛthivyāvantastayorantarāle tvaṃ tvāṃ patayanti | pātayanti | gamayanti | yadvā | te tava saṃbandhino 'śvāḥ patayanti | patanti | yajñadeśaṃ gacchanti ‖ kīdṛśāste | bāhvojaso bāhuṣu prakṛṣṭabalavantaḥ | upalakṣaṇametat sarvāṅgabalā ityarthaḥ | kiṃcokṣaṇaḥ sektāraḥ | yuvāna ityarthaḥ | mahi mahadatiprabhūtaṃ vrādhanto vardhamānāḥ | kathamukṣaṇa ukṣāṇaḥ | tatsadṛśā ityarthaḥ ‖ vā papūrvasya nigama iti dīrghābhāvaḥ ‖ kiṃca dhanvan cit dhanvanyudakanirgamanāpādanabhūte 'ntarikṣe 'pi nirālambe 'nāśavo nāśarahitā avyāptā vā | ākāśe vilambamakurvāṇā ityarthaḥ | ata eva jīrāścit jiccabda [?] pūjāyām [?] | atyantaṃ kṣipragatayaḥ | yadvā | anāśava ityanena saha samuccayārthaścit | cit jīrāḥ | ākāśamārge 'kṣīṇāḥ śīghragatā yaśaḥ [?] ityarthaḥ | kiṃcāgiraukasaḥ girā okaḥ sthānam [?] | yeṣāṃ nāsti te [?] tāpavaśāḥ [?] | bhartsanādinā sthitimalabhamānāḥ ityarthaḥ ‖ chāndasastrītīyāyā āluk ‖ tadeva spaṣṭayati | sūryasya raśmaya iva durniyantavo duḥkhena niyantavyāḥ | te yathā kṣaṇena daśa diśo vyāpnuvanti bahavaśca tadvadete 'pītyarthaḥ | pūrvaṃ girā nigrāhyatvamuktam | idānīṃ hastenāpi nigrāhyatvamāha | hastayordurniyantavaḥ ubhābhyāmapi hastābhyāṃ duḥkhena niyantavyāḥ | devayajanagamanāya śīghragāmina ityarthaḥ ‖*
+
+*(Sense: "O Vāyu, giver of good fruit, these horses of yours that are seen before us, in the space between the two *nadī*s — the two roarers, heaven and earth — carry you (*patayanti*, make you go; or: your horses fly, go to the place of the sacrifice). Of what kind? *Bāhvojasaḥ* — strong in the arms; this indicates strength in all limbs. *Ukṣaṇaḥ* — sprinklers, i.e. young [like bulls]; *mahi vrādhantaḥ* — growing greatly, like bulls. [The lengthening does not occur, *vā papūrvasya nigame*.] And further *dhanvan cit* — even in the *dhanvan*, the empty *antarikṣa* where rain comes out — *anāśavaḥ* — not lost, not lingering in space; therefore *jīrāḥ cit* — very swift; or with *anāśavaḥ* the particle *cit* is conjunctive; *agiraukasaḥ* — those that have no *gir* (revilement) as their residence [?] — not detained by reviling and the like [?]. [The Vedic *ālug* of the instrumental.] This is clarified: *sūryasyeva raśmayaḥ durniyantavaḥ* — hard to hold, like the rays of the sun, which in a moment pervade the ten directions, and many; so these too. Previously it was said that they cannot be checked by voice; now by hand also: *hastayor durniyantavaḥ* — hard to restrain with both hands; they are swift in going to the sacrificial place." Several words of the middle are doubtful [?].)*
+
+### Printed p. 661  (PDF 682)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he su vāyo* — O Vāyu, giver of good fruit; *te* — joined to you; *ime* — these (that are visible); *ye* — which horses (there are); *te* — those; *bāhvojasaḥ* — strong in the arms; *ukṣaṇaḥ* — young; *mahi* — greatly; *vrādhantaḥ* — growing; *ukṣaṇaḥ* — [like] bulls (the horses); *nadī* — of heaven and earth; *antaḥ* — in the middle region; *(tvām)* — you; *patayanti* — carry (to the place of sacrifice); *dhanvan cit* — in the empty sky also; *anāśavaḥ* — not lost; *(ataeva)* — therefore; *jīrāḥ cit* — very swift; *agiraukasaḥ* — they cannot be held by reviling and the like; *sūryasya* — of the Sun; *raśmayaḥ iva* — like the rays; *durniyantavaḥ* — hard to hold; *hastayoḥ* — with both hands; *durniyantavaḥ* — hard to hold.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, giver of good fruit, these horses before us, of yours, with strong limbs, young and growing, like bulls, carry you to our sacrifice in the space between heaven and earth; they are not lost in the empty sky, are very swift, and are not stopped by reviling and the like; like the rays of the sun they are hard to restrain, and hard to restrain with both hands, even though one holds the reins.
+
+**Printed English (heading "English Translation"; as printed):** *"These your horses, excellent Vayu, strong of limb, youthful and full of vigour, bear you through the space between heaven and earth: growing (are they) in bulk, and strong as oxen: they are not lost in the firmament, but hold on their speed, unretarded by reviling; difficult are they to be arrested as the beams of the sun; difficult are they to be arrested by force."* [The print continues on p. 662; only these lines appear on p. 661.]
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 9 (the last of Sūkta 135) written through the printed English (p. 661; its Special Topics and grammar follow, then the Kannada closing line); resume p. 662 (PDF 683; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
