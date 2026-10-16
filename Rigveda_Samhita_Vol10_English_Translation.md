@@ -8638,4 +8638,78 @@ Yāska explains the word *sānu* in this Ṛk: *sānu samucchritaṃ bhavati sam
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 339 (PDF 360): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā/Pada done; resume p. 340 (PDF 361) with the Ṛk 4 bhāṣya. Page images PDF 261–360 are in scratchpad w10b/; PDF 361–400 are being cropped into w10c/ (check; otherwise `python3 publish/tools/pageprep/crop_pages.py Rig_Vol10.pdf 361 400 $S/w10c --dpi 150`). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338; OCR reference-number lines missing for pp. 249–339.
+### Printed p. 340  (PDF 361)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सोऽग्निः सुक्रतुः शोभनकर्मा पुरोहितः पुरो धार्यमाणः । यद्वा । पुरोहितवद्यागनिर्वाहकः सन् । दमे दमे तत्र तत्र यजमानगृहे सर्वेषु देवयजनेषु वाध्वरस्य नाशरहितस्य फलप्रदस्य यज्ञस्य तदर्थं चेतति । जानाति । प्रबुध्यत इत्यर्थः । किंचायं यजमानोऽपि क्रत्वा शोभनेन कर्मणा यज्ञस्य चेतः । कर्तव्यतामवजानाति । किंचायमग्निरपि क्रत्वा प्रकृष्टेन कर्मणा वेधा विविधानां फलानां कर्ता सन्निषूयते । इष्यत इतीषुरन्नमागमनं वा । तदिच्छते यजमानार्थं विश्वा जातानि सर्वाणि सम्पादितानि हविरादीनि पस्पशे । अत्यर्थं स्पृशति । स्वीकरोति । यतोऽयं घृतश्रीर्घृतं सेवमानोऽतिथिरतिथिवत्पूज्यश्चाजायत उत्पन्नः । यतः कारणात् घृतमत्यर्थं सेवमानः प्रवृद्धोऽभवत् । अतः पस्पश इत्यर्थः । एवमग्नौ प्रवृद्धे सति यजमानोऽपि वह्निर्हविषां वोढा वेधा विविधस्य फलस्य कर्तोत्पादयिताजायत । समर्थोऽभवत् ॥
+
+> *so 'gniḥ sukratuḥ śobhanakarmā purohitaḥ puro dhāryamāṇaḥ | yadvā | purohitavadyāganirvāhakaḥ san | dame dame tatra tatra yajamānagṛhe sarveṣu devayajaneṣu vādhvarasya nāśarahitasya phalapradasya yajñasya tadarthaṃ cetati | jānāti | prabudhyata ityarthaḥ | kiṃcāyaṃ yajamāno 'pi kratvā śobhanena karmaṇā yajñasya cetaḥ | kartavyatāmavajānāti | kiṃcāyamagnirapi kratvā prakṛṣṭena karmaṇā vedhā vividhānāṃ phalānāṃ kartā sanniṣūyate | iṣyata itīṣurannamāgamanaṃ vā | tadicchate yajamānārthaṃ viśvā jātāni sarvāṇi sampāditāni havirādīni paspaśe | atyarthaṃ spṛśati | svīkaroti | yato 'yaṃ ghṛtaśrīrghṛtaṃ sevamāno 'tithiratithivatpūjyaścājāyata utpannaḥ | yataḥ kāraṇāt ghṛtamatyarthaṃ sevamānaḥ pravṛddho 'bhavat | ataḥ paspaśa ityarthaḥ | evamagnau pravṛddhe sati yajamāno 'pi vahnirhaviṣāṃ voḍhā vedhā vividhasya phalasya kartotpādayitājāyata | samartho 'bhavat ‖*
+
+*(Read from the image; a few letters of the small type ("*cetaḥ*", "*iṣūyate… iṣyata itīṣur annam āgamanaṃ vā*") are doubtful: [?].)* Sense: "That Agni, *sukratu* — one of good works; *purohita* — placed in front; or, accomplishing the sacrifice like a family-priest; *dame dame* — in each house of the sacrificers or in all places of divine worship — *cetati* — knows, awakes, for the sake of the imperishable (*adhvara*), fruit-giving sacrifice. And this sacrificer too, by *kratu*, good work, understands what is to be done for the sacrifice. Further this Agni, by his excellent work, being the maker (*vedhā*) of various fruits, *iṣūyate* — is desired (*iṣu* = food or coming) — he, for the sake of the sacrificer, *paspaśe* — takes hold of all the produced offerings, accepts them; since he, *ghṛtaśrīḥ* — serving ghee — has become born as a guest, honourable like a guest; because he has grown by consuming ghee so much; therefore *paspaśe*. And when Agni has thus grown, the sacrificer too, the bearer of the oblations (*vahniḥ*), became *vedhā*, the maker of various fruits — became capable."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *saḥ agniḥ* — that Agni; *sukratuḥ* — of good works; *purohitaḥ* — placed in front (carrying out the sacrifice like a family-priest); *dame dame* — in every house; *adhvarasya* — of the imperishable (fruit-giving) sacrifice; *yajñasya* — for the sake of the sacrifice; *cetati* — awakes, understands (and the sacrificer too); *kratvā* — by good works; *yajñasya* — in regard to the sacrifice; *cetati* — becomes aware of what is to be done; *yataḥ* — because; *(ayam* — this Agni); *ghṛtaśrīḥ* — one who partakes of ghee; *atithiḥ* — like a guest (honoured); *ajāyata* — became; *(tataḥ* — therefore; *ayam agniḥ* — this Agni); *kratvā* — by excellent works; *vedhāḥ* — the maker of various fruits; *iṣūyate* — to the sacrificer who desires food (or desires the coming of Agni); *viśvā jātāni* — all the produced things (the whole of what has been provided); *paspaśe* — touches (accepts) greatly; so Agni grows, and the sacrificer; *vahniḥ* — he who carries the oblations to Agni's neighbourhood; *vedhāḥ* — the master of various fruits; *ajāyata* — became.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, the doer of good works, carrying out the sacrifice like a family-priest, awakes in each house of the sacrificers for the sake of the sacrifice; the sacrificer too, by his good rites, becomes aware of what he has to do; having taken ghee, honoured like a guest, Agni takes the oblations in greater measure and, by his excellent works, becomes the bestower of various fruits; the sacrificer, offering oblations, becomes the enjoyer of various fruits.
+
+### Printed p. 341  (PDF 362)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read: "೧೫"].)*
+
+**Printed English (heading "English Translation"; as printed):** *"That Agni, who is (the performer of) holy acts, the priest of the family, thinks in every dwelling of the imperishable sacrifice; he thinks of the sacrifice (reminded) by (its) celebration: for through such pious rite, he, the bestower of (fit) rewards, accepts all the offered oblations for (the good of) the worshipper; whence he has become as a guest, fed abundantly with butter; and the offerer (of the oblations) has become the realizer of the rewards (of the worship)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+***sukratuḥ*** — *śobhanakarmā*: "one who performs works that are good for the sacrificers": so the meaning. —
+
+> नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः ।
+> ये सुक्रतेवः शुचयो धियंधाः स्वदन्ति देवा उभयानि हव्या ॥
+
+> *narāśaṃsasya mahimānam eṣām upa stoṣāma yajatasya yajñaiḥ |*
+> *ye sukratevaḥ śucayo dhiyaṃdhāḥ svadanti devā ubhayāni havyā ‖*
+
+(Ṛ. Saṃ. 2-3-2, as read; "sukratevaḥ" as printed [sic?].) Here Yāska explains the word *sukratevaḥ* as *śobhanakarmāṇaḥ*.
+
+***purohitaḥ*** — *purodhāryamāṇaḥ | yadvā purohitavad yāganirvāhakaḥ*: "Agni is placed in front in the sacrifices; or, like a family-priest, he conducts the rites by reciting the mantras and having the various rites done": Yāska explains the word *purohita* — *puraḥ enaṃ dadhāti* (Ni. 2-12 [?]).
+
+***dame dame*** — *tatra tatra yajamānagṛhe sarveṣu devayajaneṣu vā*: "in each house of the sacrificers, or in every place of sacrifice to the gods". The word *dama* is recorded among the names of house (Ni. 3-[?]; as read "೩-೧೩"), and explained "*dama iti gṛhanāma*" (Ni. 4-4 [?]). Sāyaṇa describes that Agni is awake in the houses of the several sacrificers and in the places where the gods are worshipped.
+
+***adhvarasya*** — *nāśarahitasya phalapradasya*: "for a sacrifice that produces imperishable fruit".
+
+The word *adhvara* — "*adhvara iti yajñanāma dhvaratir hiṃsākarmā tatpratiṣedhaḥ*" (Ni. 1-8 [?]): the word *adhvara* conveys the sense "sacrifice"; the roots *dhvarati*, *dhūrvati* have the sense of harming; the Niruktakāra explains that from *adhvara* the meaning "a rite without harm" arises.
+
+### Printed p. 342  (PDF 363)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+And the word *adhvara* is recorded among the sixteen names of the middle space (Ni. 2-10 [?]) and among the fifteen names of sacrifice (Ni. 3-19 [?]). And —
+
+> ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि सन्ति देवाः ।
+> ताँ अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिम् ॥
+
+> *te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi santi devāḥ |*
+> *tām̐ adhvara uśato yakṣy agne śruṣṭī bhagaṃ nāsatyā puraṃdhim ‖*
+
+(Ṛ. Saṃ. 2-31-4 [?], as read "೨-೩೧-೪"; the numerals are small.) Here *adhvare* — "in the sacrifice" — the word *adhvara* is explained as "sacrifice". The word *kratvā* is used twice. For the first *kratvā* the meaning "by a good work, an auspicious work", and for the second *kratvā* "by an excellent work, by many actions" is given.
+
+***vedhāḥ*** — *vividhānāṃ phalānāṃ kartā*: "one who gives the sacrificers many kinds of fruits". This word is recorded among the names of the wise (Ni. 3-19 [?]).
+
+***iṣūyate*** — *iṣyata iti iṣuḥ annaṃ āgamanaṃ vā*: the word *iṣu*, formed from the root *īṣ*, means "food" or "coming". The Niruktakāra, —
+
+> सुपर्णं वस्ते मृगो अस्या दन्तो गोभिः सन्नद्धा पतति प्रसूता ।
+> यत्रा नरः सं च वि च द्रवन्ति तत्रास्मभ्यमिषवः शर्म यंसन् ॥
+
+> *suparṇaṃ vaste mṛgo asyā danto gobhiḥ sannaddhā patati prasūtā |*
+> *yatrā naraḥ saṃ ca vi ca dravanti tatrāsmabhyam iṣavaḥ śarma yaṃsan ‖*
+
+(Ṛ. Saṃ. 6-75-11, as printed.) — citing this Ṛk, explains *iṣur īṣater gatikarmaṇo vadhakarmaṇo vā*: from the root *īṣ* of the sense "going", the word *iṣu* means "going" or "the weapon that kills creatures": as the arrow that kills living beings quickly reaches its target, Agni comes, following the wish of the sacrificer who desires him to come for the sacrifice.
+
+***ghṛtaśrīḥ atithir ajāyata*** — *ghṛtaṃ sevamānaḥ atithivat pūjyaś ca*: "since Agni consumes ghee in plenty, and since he is worthy of honour like a guest, growing on the altar, he takes in abundance the oblations — the sacrificer's offerings — that are poured in."
+
+***vahniḥ vedhāḥ ajāyata*** — *evam agnau pravṛddhe sati yajamāno 'pi haviṣāṃ voḍhā vividhasya phalasya kartā utpādayitā samarthaḥ abhavat*: "when Agni, with the acceptance of the oblations, has thus grown and is satisfied, the sacrificer too becomes the bearer of the oblations to Agni, and is endowed with such greatness as to produce many kinds of fruit, like Agni": so it is explained.
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 342 (PDF 363): Ṛks 1–3 complete; Ṛk 4 Saṃhitā…Special Topics done (to end of p. 342); resume p. 343 (PDF 364) with the Ṛk 4 grammar, then Ṛk 5. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338; OCR reference-number lines missing for pp. 249–342.
