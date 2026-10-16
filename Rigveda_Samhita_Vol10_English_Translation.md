@@ -14297,4 +14297,70 @@ In the Nirukta both words are stated to come from the same root. The author of t
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 written through p. 596 (bhāṣya, pratipadārtha, bhāvārtha, English; Special Topics begun: entry *śucayaḥ* breaks off in the Nirukta quotation on p. 596); resume p. 597, PDF 618; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 597  (PDF 618)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Special Topics of Ṛk 5, continued from p. 596:)* …*kamīti nairuktāḥ* [as read, [?]]. "To show moral purity (*śucitva*), the word *śuci* [is used], and the root *īḍe* is its origin too [?]; from it the sin is removed, as is said, [so] it is proper for this word to be used in this connexion" — such is the opinion of the author of the Nirukta (Ni. 6-1 [as read]). Again:
+
+> आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
+
+> *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 10-110-6 [as read].) While explaining this Ṛk, he explains the derivation of the word *śukra* also exactly as said for the word *śuci*: *śukraṃ śocater jvalatikarmaṇaḥ* (Ni. 7-[?], as read "೭-೧೧" [?]).
+
+Sāyaṇa, in the present Ṛk, explains *śukrāsaḥ* as *dīptāḥ* and *śucayaḥ* as *śuddhāḥ* — giving to *śukra* the physical sense of brightness and to *śuci* the moral sense of purity. This difference of meaning may be intended in this passage. But the word *śukra* does not mean merely physical lustre; the spiritual light is also indicated by the word:
+
+> तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ।
+
+> *tad eva śukraṃ tad brahma tad evāmṛtam ucyate |*
+
+(Kaṭha [Upaniṣad], as read "೫ ೮" [?].) In such sentences, as Śaṅkarācārya explains *śukra* as "pure (*śubhra*), clean (*śuddha*) — that Brahman", the word also indicates spiritual intelligence. And:
+
+> स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ।
+
+> *sa paryagāc chukram akāyam avraṇam asnāviraṃ śuddham apāpaviddham |*
+
+(Īśa [Upaniṣad] 8.) Here, as the two words *śukra* and *śuddha* both occur, it means merely "bright". Thus, although they are derived from a single root, there are subtle differences of meaning, and so in each context the appropriate meaning is to be taken. In the present Ṛk the Soma-juice is described as giving light and shining with purity: that is the purport. In such sentences as *śukraṃ jyotir ajījanat* (Ṛ. Saṃ. 9-[?]-[?], as read "೯-೮೨-೩" [?]) and *ajanayat sūrye jyotir induḥ* (Ṛ. Saṃ. 9-[?]-[?], as read "೯-೮೬-೪" [?]), the qualities of Soma, full of radiance, are described.
+
+***turaṇyavaḥ*** — *tvaraṇayuktāḥ*; "those that are in haste, who are eager to approach you" is the meaning. Ordinarily this word is used when the speed of horses' movement is shown. The author of the Nirukta, citing —
+
+> उत स्य वाजी क्षिपणिं तुरण्यति ग्रीवायां बद्धो अपिकक्ष आसनि ।
+
+> *uta sya vājī kṣipaṇiṃ turaṇyati grīvāyāṃ baddho apikakṣa āsani |*
+
+(Ṛ. Saṃ. 4-40-4 [as read].) — explains the word *turaṇyati* thus: "*tūrṇam aśnute ity adhvānaṃ* — quickly crosses the road"; here also the speed of the Soma-juice approaching Vāyu is suggested.
+
+### Printed p. 598  (PDF 619)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+***ugrāḥ*** — the word *ugra* may be explained in two ways. *Udgūrṇatejasaḥ* — "having manifest brilliance, or fierce (*tīkṣṇa*) brilliance" is the explanation. Not only does the Soma-juice have lustre of itself, it makes Indra and the other gods, who drink it, sharp-witted, as described in Ṛks such as *indrasya kuṣmam irāyan* [?] (Ṛ. Saṃ. 9-[?]-[?], as read "೯-೭೧-೩" [?]); or in sentences like *yo te bhīmāny āyudhā tigmāni santi dhūrvaṇe* (Ṛ. Saṃ. 6-[?]-[?], as read "೬-೬೧-೩೦" [?]) the very fearful and sharp weapons that Soma holds are mentioned, and *avājuṣṭān nyabhiti karte avratān* [?] (Ṛ. Saṃ. 9-[?]-[?], as read "೯-೭೧-೯" [?]) it is described that he kills those who deviate from duties, so that this epithet is appropriate. But in the present context, as the Soma-juices are being described, the best meaning is "increasing the sharpness of Indra and the other gods".
+
+***bhurvaṇi*** — this word is repeated. For the first, "*bharaṇavati yoge*" is the meaning; for the second, "*apāṃ bhurvaṇi meghe*" — "in the cloud, which is a place that holds water".
+
+This word is derived from the root *bhuraṇa* (*dhāraṇapoṣaṇayoḥ*), "holding, nourishing", so *bharaṇavati yāge* means "in the sacrifice, that is the cause of food, by rain, for the world, and holds the world": the sacrifice is meant.
+
+> येना सत्या भुरण्यथो यद्वा देव भिषज्यथः ।
+> आयं वां वत्सो मतिभिर्न विन्धते हविष्मन्तं हि गच्छथः ॥
+
+> *yenā satyā bhuraṇyatho yad vā deva bhiṣajyathaḥ |*
+> *āyaṃ vāṃ vatso matibhir na vindhate haviṣmantaṃ hi gacchathaḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?], as read "೮-೯-೬" [?]; the wording is doubtful in places [?].) In this, "*bhuraṇyathaḥ* — you nourish the whole world", as is described by [the words: "you two, O gods, nourish the whole world"]; so in the present place also, by the word *bhurvaṇi* the nature of the sacrifice, which supports the world, is described.
+
+When the construction *apāṃ bhurvaṇi* is made, [the word] is in the sense of "going". *Bhuraṇyuḥ, bhuraṇyati* — these words, the author of the Nirukta has placed among the verbs of motion (Ni. 2-[?], as read "೨-೯" [?]). In that motion, to show a quick moving, the name *bhuraṇyu* is well-known for birds (*pakṣi*) and others also (Ni. 3-[?], as read "೩-೨೨" [?]) — know this.
+
+> येना पावक चक्षसा भुरण्यन्तं जनाँ अनु ।
+> त्वं वरुण पश्यसि ॥
+
+> *yenā pāvaka cakṣasā bhuraṇyantaṃ janāṁ anu |*
+> *tvaṃ varuṇa paśyasi ‖*
+
+(Ṛ. Saṃ. 1-50-6 [as read].) For the word in the Ṛk quoted by the author of the Nirukta, Durgācārya in his commentary [says]: *puṇyakṛto janān anubhuraṇyantaṃ pūrveṣāṃ puṇyakṛtāṃ mārgeṇa devayānena kṣipraṃ gacchantam anupaśyasi* — "you see those of virtuous deeds, going quickly by the path of the earlier virtuous, the path to the gods": he has given only the sense of motion. If that meaning is taken in the present Ṛk too, then [Sāyaṇa's explanation]: *agnau hūyamānasyāhuter ādityadvārā vṛṣṭyutpādakatvāt* [text continues on p. 599].
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 written through p. 598 (Special Topics, entry *bhurvaṇi* breaks off with Sāyaṇa's *agnau hūyamānasya…* at the foot of p. 598); resume p. 599, PDF 620 (last image in w10f; crop PDF 621 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
