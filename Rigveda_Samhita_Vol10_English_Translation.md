@@ -6003,4 +6003,153 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 ---
 
-**Progress note:** Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 230 (PDF 251): Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Special Topics (*abhipitve ahnām*) breaks off mid-sentence at the foot of p. 230; resume p. 231 (PDF 252). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224 and the Nirukta quotation p. 225 small type with several [?].
+### Printed p. 231  (PDF 252)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+*(Special topics, Ṛk 3, continued from p. 230:)* …[some explain] that the gifts given by Svanaya in the morning, "*prātā ratnaṃ prātaritvā dadhāti*" (Ṛk 125-1), were offered [to the father] in the evening, and that this is in order; if one asks what the authority for this is, Sāyaṇa has given this meaning for the word *abhipitve*:
+
+> आ वाजा यातोप न ऋभुक्षा महो नरो द्रविणसो गृणानाः ।
+> आ वः पीतयोऽभिपित्वे अह्नामिमा अस्तं नवस्व इव ग्मन् ॥
+
+> *ā vājā yātopa na ṛbhukṣā maho naro draviṇaso gṛṇānāḥ |*
+> *ā vaḥ pītayo 'bhipitve ahnāmimā astaṃ navasva iva gman ‖*
+
+(Ṛ. Saṃ. 4-34-5, as read from the print "೪-೩೪-೫".) *(Read letter by letter; "ā vājā yātopa na ṛbhukṣā" and the last pāda "astaṃ navasva iva gman" are as printed and in the OCR's garbled reading I cannot confirm them.)* In this ṛk he has explained *abhipitve* as *abhipatane samāpte* ("at the end of the day's coming-down") *tṛtīye savane* — "at the third pressing", that is, at the time of the third pressing, in the evening hour. Some hold that in the same way the present ṛk too may be so explained. The author of the Nirukta too, citing
+
+> कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः ।
+> को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥
+
+> *kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ |*
+> *ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā ‖*
+
+(Ṛ. Saṃ. 10-40-2, as read from the print.) shows that there *abhipitvam* means *abhiprāptim* — "arriving, drawing near, coming" (Ni. 3-15 [?], as printed). Therefore the arrival may be the arrival in the morning, or the arrival in the evening.
+
+There is still another doubt about this. About the words *abhipitva* and *prapitva* there is also discussion as to whether the root is *pat* or *āp*. Monier-Williams' Dictionary derives it from *abhi* + *pat*, giving one meaning "approaching" and another "close or departure of the day". According to the Nirukta the derivation must be *abhi* + *āp*; since Sāyaṇa gives meanings for this word in two ways, it seems that it may be formed from both roots *pat* and *āp*.
+
+As Sāyaṇa says (1-126-3), some hold that identity of the two words *abhipitva* and *prapitva* cannot be maintained, and it is also the opinion of critics that they have not stated one fixed meaning for *abhipitva*. In this connection the criticism made by the scholar Bloomfield is worth noting. His examination runs thus:
+
+> *The first explanation of* अभिपित्व *occurs at Nir. III. 15; it is* अभिप्राप्ति *'arrival', and so the word is explained by Sayana at R. V. I. 189-7;*
+
+> **The first explanation of* abhipitva *occurs at Nir. III. 15; it is* abhiprāpti * 'arrival ', and so the word is explained by Sayana at R. V. I. 189-7;**
+
+### Printed p. 232  (PDF 253)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+> *IV. 16-1; VII. 18-9; VIII. 4-21; X. 40-2, Similarly at R. V. I. 186 1;* अभिपित्वेऽभिगन्तव्ये यज्ञे ।
+> *At I. 126-3, Sayana again exhibits his perplexity by making* अभिपित्व *the direct equivalent of* प्रपित्व. *And it would seem indeed that this perplexity drives him to extremes, since he translates* अभिपित्व *at R. V. IV. 34-5 by 'Evening' and in the same breath, as it were the word is rendered by 'forenoon'* दिवसस्याभिपतने प्रातःकाले ।
+
+> **IV. 16-1; VII. 18-9; VIII. 4-21; X. 40-2, Similarly at R. V. I. 186 1;* abhipitve 'bhigantavye yajñe |*
+> **At I. 126-3, Sayana again exhibits his perplexity by making* abhipitva *the direct equivalent of* prapitva. *And it would seem indeed that this perplexity drives him to extremes, since he translates* abhipitva *at R. V. IV. 34-5 by 'Evening ' and in the same breath, as it were the word is rendered by 'forenoon '* divasasyābhipatane prātaḥkāle |*
+> (*Journal of American Oriental Society, Vol. XVI. P. 25-26*).
+
+*(Reproduced as printed, with the punctuation and spacing of the source; the Devanagari words within the English are printed in Devanagari in the source here.)* The summary of this opinion is that Sāyaṇa is somewhat confused in explaining the words *abhipitva* and *prapitva*. For example, in the ṛk Ṛ. Saṃ. 4-34-5 (cited above) he explains this word as "evening", and the same Sāyaṇa, in
+
+> न संस्कृतं प्र मिमीतो गमिष्ठान्ति नूनमश्विनोपस्तुतेह ।
+> दिवाभिपित्वेऽवसागमिष्ठा प्रत्यवर्तिं दाशुषे शम्भविष्ठा ॥
+
+> *na saṃskṛtaṃ pra mimīto gamiṣṭhānti nūnamaśvinopastuteha |*
+> *divābhipitve 'vasāgamiṣṭhā pratyavartiṃ dāśuṣe śambhaviṣṭhā ‖*
+
+(Ṛ. Saṃ. 5-76-3, as read from the print "೫-೭೬-೩".) — has explained the corresponding word as "forenoon" (*prātaḥkāla*): that is this critic's remark.
+
+In the same way there are also the words *apapitva* and *sapitva*; with the word *pitva* are joined prefixes, and the formation of these four words and their meanings according to the contexts will be explained later.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; noted briefly, numbers as read by the OCR).** *dattāḥ* — root *ḍudāñ dāne*; *kta* in the passive; *do dad ghoḥ* (Pā. 7-4-46) gives *dad* for the root; *khari ca* gives the *car*; the form *dattāḥ*; nominative plural. *vadhūmantaḥ* — *vadhvaḥ yeṣāṃ santi iti vadhūmantaḥ*; *tad asyāsty asminn iti matup*; since *pit*, unaccented. *rathāsaḥ* — the word *ratha*; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives *asuk*.
+
+### Printed p. 233  (PDF 254)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+*asthuḥ* — root *ṣṭhā gatinivṛttau*; *dhātvādeḥ ṣaḥ saḥ* gives *s* for the initial; luṅ third person plural, *jhi*; *siC* for *cli*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77) gives *luk* of *siC*; *āta* [print: *ātaḥ* (Pā. 3-4-110)] gives *jus* for *jhi*; *usyapadāntāt* (Pā. 6-1-96) gives *pararūpa*; the augment *aṭ* to the stem; since the verb-ending is connected [with a non-verb], the *nighāta* accent. *gavyam* — *gavāṃ samūhaḥ gavyam*; in the sense of collection, *khalagoratha…* (Pā. 4-2-50) gives the suffix *yat*; by *vyatyaya* the first-syllable acute; *vānto yi pratyaye* gives *av*. *agāt* — root *iṇ gatau*; luṅ third person singular; *iṇo gā luṅi* (Pā. 2-4-45) gives *gā* for the root; the augment *aṭ*; *tiṅ-nighāta*. *sanat* — root *ṣaṇa saṃbhaktau*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; laṅ third person singular; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75) gives no augment *aṭ*; since "*ati-…*" prohibition is stated there is no *nighāta*; since *śap* is unaccented, the root-accent. ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> चत्वारिंशद्दशरथस्य शोणाः सहस्रस्याग्रे श्रेणिं नयन्ति ।
+> मदच्युतः कृशनावतो अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ॥ ४ ॥
+
+> *catvāriṃśaddaśarathasya śoṇāḥ sahasrasyāgre śreṇiṃ nayanti |*
+> *madacyutaḥ kṛśanāvato atyānkakṣīvanta udamṛkṣanta pajrāḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> चत्वारिंशत् । दशऽरथस्य । शोणाः । सहस्रस्य । अग्रे । श्रेणिम् । नयन्ति ।
+> मदऽच्युतः । कृशनऽवतः । अत्यान् । कक्षीऽवन्तः । उत् । अमृक्षन्त । पज्राः ॥ ४ ॥
+
+> *catvāriṃśat | daśa 'rathasya | śoṇāḥ | sahasrasya | agre | śreṇim | nayanti |*
+> *mada 'cyutaḥ | kṛśana 'vataḥ | atyān | kakṣī 'vantaḥ | ut | amṛkṣanta | pajrāḥ ‖ 4 ‖*
+
+### Printed p. 234  (PDF 255)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> दशरथस्य दशसंख्याकरथवतः सहस्रस्य सहस्रसंख्याकानुचरोपेतस्य कक्षीवतो गोयूथसहस्रस्य वाग्रे पुरस्तात् शोणाः शोणवर्णोपेता अश्वाश्चत्वारिंशत् । एकैकस्य रथस्य चतुष्टये सति दशरथानां मिलित्वा चत्वारिंशदश्वा भवन्ति तेऽपि श्रेणिं पङ्क्तिमाश्रित्य नयन्ति । रथानभिमतदेशं प्रापयन्ति । यद्वा । अश्वनियुक्तान् रथान् श्रेणिं श्रेणीभावं नयन्ति । प्रापयन्ति । एकैकं रथं चत्वारोऽश्वाश्चत्वारः पङ्क्त्याकारेण वहन्तीत्यर्थः । अथ तान् कक्षीवन्तः । कक्ष्या कक्ष्यासंबन्धिनी रज्जुः । कक्ष्या रज्जू रश्वस्येति यास्कोक्तत्वात् । नि. २-२ । ताभिर्द्वन्तः । यद्वा । अङ्गिरसः पुत्राः सर्वेऽपि कक्षीवन्तः । अथवा कक्षीवदनुचराः सर्वेऽपि भृत्यन्यायेन कक्षीवन्तः । पज्राः पज्राद्यन्नवन्तः [?] सन्तः । मदच्युतो मदस्राविण उद्वृत्तान् शत्रूणां मदस्य च्यावयित्न्नाः [?] कृशनावतः सुवर्णमयनानाभरणयुक्तान् । कृशनमिति हिरण्यनाम कृशनं लोहमिति तन्नामसु पाठात् । सुवर्णाभरणोपेतानत्यान् सततगमनशीलानश्वानुदमृक्षन्त । अध्वश्रमजनितस्वेदापनयनायोत्कृष्टं मार्जयन्ति ॥
+
+> *daśarathasya daśasaṃkhyākarathavataḥ sahasrasya sahasrasaṃkhyākānucaropetasya kakṣīvato goyūthasahasrasya vāgre purastāt śoṇāḥ śoṇavarṇopetā aśvāścatvāriṃśat | ekaikasya rathasya catuṣṭaye sati daśarathānāṃ militvā catvāriṃśadaśvā bhavanti te 'pi śreṇiṃ paṅktimāśritya nayanti | rathānabhimatadeśaṃ prāpayanti | yadvā | aśvaniyuktān rathān śreṇiṃ śreṇībhāvaṃ nayanti | prāpayanti | ekaikaṃ rathaṃ catvāro 'śvāścatvāraḥ paṅktyākāreṇa vahantītyarthaḥ | atha tān kakṣīvantaḥ | kakṣyā kakṣyāsaṃbandhinī rajjuḥ | kakṣyā rajjū raśvasyeti yāskoktatvāt | ni. 2-2 | tābhirdvantaḥ | yadvā | aṅgirasaḥ putrāḥ sarve 'pi kakṣīvantaḥ | athavā kakṣīvadanucarāḥ sarve 'pi bhṛtyanyāyena kakṣīvantaḥ | pajrāḥ pajrādyannavantaḥ [?] santaḥ | madacyuto madasrāviṇa udvṛttān śatrūṇāṃ madasya cyāvayitnnāḥ [?] kṛśanāvataḥ suvarṇamayanānābharaṇayuktān | kṛśanamiti hiraṇyanāma kṛśanaṃ lohamiti tannāmasu pāṭhāt | suvarṇābharaṇopetānatyān satatagamanaśīlānaśvānudamṛkṣanta | adhvaśramajanitasvedāpanayanāyotkṛṣṭaṃ mārjayanti ‖*
+
+*(Read from the image; the OCR is badly garbled. The words marked [?] — "pajrādyannavantaḥ" and "cyāvayitrnnāḥ" — are small and doubtful in the print.)* "Of Dakṣaratha-… — *daśarathasya*: of him who has ten chariots, *sahasrasya* — of Kakṣīvat who is attended by a thousand followers, or [who has] a thousand herds of cows — *agre* — in front, *śoṇāḥ* — forty horses of red colour: since each chariot has four, the ten chariots together have forty horses; they too, taking a row (*śreṇi*), lead — bring the chariots to the desired place. Or else they make the chariots, yoked with horses, go in a line: four horses, in the form of a row, draw each chariot: that is the sense. Then those [horses], the *kakṣīvantaḥ* — those having *kakṣyā*, the girth-ropes (*kakṣyā* is a rope: 'kakṣyā rajjū rasvasya', says Yāska, Ni. 2-2) — or else all the sons of Aṅgiras are *kakṣīvantaḥ*; or, by the maxim of the servant, all of Kakṣīvat's followers are *kakṣīvantaḥ*; *pajrāḥ* — [fed with] food and the like — the *madacyutaḥ* — those that let their rut-fluid flow, high-spirited, the ones that make the pride of enemies fall; *kṛśanāvataḥ* — furnished with various golden ornaments (*kṛśana* is a name for gold: *kṛśanaṃ lohaṃ* are read among its names); the *atyān* — horses that go constantly — *ut amṛkṣanta* — they rub down excellently, to remove the sweat caused by the toil of the road."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Daśarathasya* — of him who is endowed with ten chariots; *sahasrasya* — of him who has a thousand followers (or: of him who has a thousand cows) (that is, of Kakṣīvat); *agre* — in front; *śoṇāḥ* — red; *catvāriṃśat* — forty (horses); *śreṇim* — in a row; *nayanti* — draw (the chariots); (*atha* — then); *kakṣīvantaḥ* — Kakṣīvat's followers; *pajrāḥ* — endowed with food; (*kakṣīvantaḥ* — those with girth-ropes); *madacyutaḥ* — [horses] dripping rut-fluid; *kṛśanāvataḥ* — endowed with golden ornaments; *atyān* — constantly moving (horses); *ut amṛkṣanta* — rub down well (limb by limb).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** In front of Kakṣīvat, who has a thousand followers (and cows) and ten chariots, forty red horses draw the chariots in a row; then, provided with food such as grass, his followers rub down well the horses that are adorned with golden ornaments, constantly moving and dripping rut-fluid, tying them with ropes.
+
+### Printed p. 235  (PDF 256)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+**Printed English (as printed):** *Forty bay horses, (harnessed) to the chariots, lead the procession in front of a thousand (followers). The Pajras, the kinsmen of Kakshivat, rub down the high-spirited steeds, decorated with golden trappings.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 4.**
+
+In this ṛk the number of horses and the number of chariots are stated, as it is described in
+
+> शतमश्वाञ्छतं निष्कान्रथान्दश वधूमतः ।
+> चतुर्युजो गवां चैव सहस्रं षष्ट्यधिकम् ॥
+
+> *śatamaśvāñchataṃ niṣkānrathāndaśa vadhūmataḥ |*
+> *caturyujo gavāṃ caiva sahasraṃ ṣaṣṭyadhikam ‖*
+
+(Bṛ. De. 3-148 [?], as read.) — that ten chariots, a hundred horses and a thousand and sixty cows were displayed in front of Kakṣīvat.
+
+***pajrāḥ*** — the meaning of this word is explained in the next ṛk.
+
+***kakṣīvantaḥ*** — two kinds of meaning are stated for this word. First: *kakṣyā rajjū rasvasya* (Ni. 2-2): following the derivation of the author of the Nirukta, that the rope of a horse (the girth) has the name *kakṣyā*, the meaning is "followers of Kakṣīvat, who hold the horses". Second: because all the sons of the seer Aṅgiras are called by this name, it means "sons of Aṅgiras"; and it is for this reason that Dīrghatamas' son is also known by this name — [that is,] one possessed of the horse's rope, [that is,] one who is *aśvayuktaḥ*; and
+
+> त्यं चिदश्वं न [?] वाजिनं [?] । [?] ।
+> कक्षीवन्तं यदी पुना रथं न कृणुथो नवम् ॥
+
+> *tyaṃ cidaśvaṃ na [?] vājinaṃ [?] | [?] |*
+> *kakṣīvantaṃ yadī punā rathaṃ na kṛṇutho navam ‖*
+
+(Ṛ. Saṃ. 10-143-1, as read from the print; the first line is garbled in my reading and I do not complete it. *Kakṣīvantam yadī punā ratham na kṛṇutho navam* is clear.) — commenting on this ṛk Sāyaṇa states: here for the word *kakṣīvantam* he explains: *kakṣyā rajjū rasvasya tadvantam | dīrghatamasaḥ putraṃ uśijaḥ sutam ṛṣim* — "the one who has the rope of the horse: the son of Dīrghatamas, the seer, son of Uśij". In the present ṛk the meaning "followers of Kakṣīvat" is appropriate.
+
+***kṛśanāvataḥ*** — the word *kṛśana* is recorded among the names of gold (Ni. 1-10 [?], as printed "೧-೧೦") and among the names of form (Ni. 3-13). Therefore it may be explained as "endowed with golden ornaments" or "possessing lovely forms". Yet its use in the sense "furnished with golden ornaments" is the more frequent.
+
+***atyān*** — *satatagamanaśīlān aśvān* — "horses whose nature is constant going", ones that go without interruption.
+
+### Printed p. 236  (PDF 257)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4; noted briefly, numbers as read by the OCR).** *daśarathasya* — *daśa rathāḥ yasya saḥ daśarathaḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1) gives the natural accent of the first member; genitive singular. *nayanti* — root *ṇīñ prāpaṇe*; laṭ third person plural; *tiṅ-nighāta*. *madacyutaḥ* — *madaṃ cyotayanti iti madacyutaḥ*; *kvip ca* (Pā. 3-2-76) gives *kvip*; *gatikārakopapadāt kṛt* gives the accent of the final member; accusative plural. *kṛśanāvataḥ* — *kṛśanāni hiraṇyāni yeṣāṃ santi iti kṛśanāvantaḥ*; *tad asyāsty asya* gives *matup*; *mādupadhāyāś ca…* gives *va* for *m*; since *pit* it is unaccented; *ā ṣa(?)… apidṛśyate* [print: "ಅನ್ಯೇಷಾಮಪಿ ದೃಶ್ಯತೇ" (Pā. 6-3-137)] gives lengthening in the Saṃhitā before the suffix; accusative plural. *kakṣīvantaḥ* — *kakṣe bhavā kakṣyā*: a rope belonging to the horse's belly; *bhave chandasi* (Pā. 4-4-110) gives *yat*; when the meaning "he has *kakṣyā*" is intended, *āsandīvad aṣṭhīvac cakrīvat kakṣīvad rumaṇvac ca* (Pā. 8-2-12) records *kakṣīvat* as formed, in the sense of a particular ṛṣi; the *ī* that is its substitute for the *yat*-suffix is given the acute by the *yat* suffix-accent; *matup* and *suṭ* [?] are unaccented because *pit*. *amṛkṣanta* — root *mṛjūś śuddhau*; since it shows a causative sense the root has included causative sense; *chandasi luṅlaṅliṭaḥ* gives luṅ in the present sense; third person plural: *anta* substitution; *siC* for *cli*; *vraścabhrasja…* gives *ṣa* for the *j*; *ṣaḍhoḥ kaḥ si* gives *ka* for it; taking it as cause, *ṣatva* of the *s* of *siC*; the augment *aṭ*; *tiṅ-nighāta*. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> पूर्वामनु प्रयतिमा ददे वस्त्रीन्युक्ताँ अष्टावरिधायसो गाः [?] ।
+> सुबन्धवो ये विश्या इव व्रा अनस्वन्तः श्रव ऐषन्त पज्राः ॥ ५ ॥
+
+> *pūrvāmanu prayatimā dade vastrīnyuktā~ aṣṭāvaridhāyaso gāḥ [?] |*
+> *subandhavo ye viśyā iva vrā anasvantaḥ śrava aiṣanta pajrāḥ ‖ 5 ‖*
+
+*(Read from the image; the first line is clear in the print, but I give the second pāda as read: "vastrīn" and "aridhāyasaḥ" are the words I am least sure of; the Pada text on the next page will fix the division.)*
+
+---
+
+**Progress note:** Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 236 (PDF 257): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā only (as read, partly doubtful); resume p. 237 (PDF 258) with the Ṛk 5 Pada. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224 small type with several [?]; Ṛk 4 bhāṣya words in small type [?].
