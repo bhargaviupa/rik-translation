@@ -4537,4 +4537,154 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 176 (PDF 197): Ṛks 1–9 complete; Ṛk 10 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done and grammar in progress (breaks off at *jārayantī*); resume p. 177 (PDF 198).
+### Printed p. 177  (PDF 198)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+*(Continuing the grammar of *jārayantī*, Ṛk 10:)* …since it has the marker *mit*, *mitāṃ hrasvaḥ* (Pā. 6-4-92, as read by the OCR) gives shortening to the vṛddhi that came by reason of *ṇic*; after the *ṇijanta*, śatṛ in the laṭ sense, *śap*; taking it as cause, guṇa and *ay*-substitution of *ṇic*; in the feminine, because of *ugit*, ṅīp; since the *sārvadhātuka* follows the *upadeśa*, it is unaccented, and the accent of the *ṇic* remains. ‖ 10 ‖
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> अवेयमश्वैद्युवतिः पुरस्ताद्युङ्क्ते गवामरुणानामनीकम् ।
+> वि नूनमुच्छादसति प्र केतुर्गृहंगृहमुप तिष्ठाते अग्निः ॥ ११ ॥
+
+> *aveyamaśvaidyuvatiḥ purastādyuṅkte gavāmaruṇānāmanīkam |*
+> *vi nūnamucchādasati pra keturgṛhaṃgṛhamupa tiṣṭhāte agniḥ ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> अव । इयम् । अश्वैत् । युवतिः । पुरस्तात् । युङ्क्ते । गवाम् । अरुणानाम् । अनीकम् ।
+> वि । नूनम् । उच्छात् । असति । प्र । केतुः । गृहम्ऽगृहम् । उप । तिष्ठाते । अग्निः ॥ ११ ॥
+
+> *ava | iyam | aśvait | yuvatiḥ | purastāt | yuṅkte | gavām | aruṇānām | anīkam |*
+> *vi | nūnam | ucchāt | asati | pra | ketuḥ | gṛham 'gṛham | upa | tiṣṭhāte | agniḥ ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इयमुषा युवतिर्यौवनोपेतयोषित्स्थानीया । यद्वा । सर्वेषु भावेषु मिश्रयन्ती पुरस्तात्पूर्वस्यां दिश्यव अश्वैत् । अत्यर्थमागच्छति वर्धते वा । अत्रावशब्दो विनिग्रहार्थीयो न्येति विनिग्रहार्थीय इति यास्कोक्तत्वात् । नि. १-३ । तत्कथमवगम्यत इति तत्राह । इयमरुणानामरुणवर्णानां गवां प्रसिद्धानामेतन्नामकानामश्वानां वानीकं समूहं युङ्क्ते । रथे योजयति । अरुणो गाव उषसां श्यावाः सवितुः । नि. १-१५ [?] । इति । यथा लोके वाहनसंनाहं दृष्ट्वा प्रयाणमनुमीयते तथात्राप्यरुणरश्मीनामश्वानां दर्शनादुषा आगच्छतीत्यवसीयते । यद्वा । अरुणानां रश्मीनां समूहं युङ्क्ते । तथा नूनं निश्चयमेषा व्युच्छात् । तमो विवर्जयिष्यति । यत इयं गा युनक्ति अत एव कारणाद्यथा लोके ऽश्वसंनाहं दृष्ट्वा वीरो ऽनुमीयते तथात्रापीत्यर्थः । तादृशी सा सत्यसत्प्राये [?] नीरूपेऽन्तरिक्षे तिरोधायकत्वादशोभने तमसि वा केतुः [?]
+
+> *iyamuṣā yuvatiryauvanopetayoṣitsthānīyā | yadvā | sarveṣu bhāveṣu miśrayantī purastātpūrvasyāṃ diśyava aśvait | atyarthamāgacchati vardhate vā | atrāvaśabdo vinigrahārthīyo nyeti vinigrahārthīya iti yāskoktatvāt | ni. 1-3 | tatkathamavagamyata iti tatrāha | iyamaruṇānāmaruṇavarṇānāṃ gavāṃ prasiddhānāmetannāmakānāmaśvānāṃ vānīkaṃ samūhaṃ yuṅkte | rathe yojayati | aruṇo gāva uṣasāṃ śyāvāḥ savituḥ | ni. 1-15 [?] | iti | yathā loke vāhanasaṃnāhaṃ dṛṣṭvā prayāṇamanumīyate tathātrāpyaruṇaraśmīnāmaśvānāṃ darśanāduṣā āgacchatītyavasīyate | yadvā | aruṇānāṃ raśmīnāṃ samūhaṃ yuṅkte | tathā nūnaṃ niścayameṣā vyucchāt | tamo vivarjayiṣyati | yata iyaṃ gā yunakti ata eva kāraṇādyathā loke 'śvasaṃnāhaṃ dṛṣṭvā vīro 'numīyate tathātrāpītyarthaḥ | tādṛśī sā satyasatprāye [?] nīrūpe 'ntarikṣe tirodhāyakatvādaśobhane tamasi vā ketuḥ [?]*
+
+*(Read from the image; the lines run on to p. 178. The OCR is garbled; doubtful readings are marked [?].)* "This Uṣas is *yuvatiḥ* — in the position of a woman endowed with youth; or else, mingling in all existences, in the east she *ava aśvait* — comes exceedingly, or grows. Here the word *ava* has the sense of *vinigraha* (restraint — 'without hindrance'): '*ni*, *ava* — [prefixes] of the sense of *vinigraha*', says Yāska (Ni. 1-3). 'How is this known?' — to that he says: she yokes the *anīkam* — the host — of the *gavām* — the red-coloured, well-known [cows], or of the horses of this name, to her chariot: 'the red ones, the cows of the Uṣases; the dark-coloured, of Savitṛ' (Ni. 1-15, as read by the OCR). As in the world, seeing the preparation of a vehicle, one infers that a journey is about to begin, so here, seeing the red rays — the horses — one concludes that Uṣas is coming. Or else she yokes a host of red rays. And thus, surely she will shine forth, will dispel the darkness; for since she harnesses the cows, for that very reason, as in the world one infers a hero from seeing the equipment of his horses, so here too — such a one, in the formless atmosphere that hides things, or in the unlovely darkness, is *ketuḥ*…"
+
+### Printed p. 178  (PDF 199)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+> …केतुस्थानीया ज्ञापयित्री प्रकर्षेण विविधं भासत इति शेषः । उपसर्गवशाद्योगक्रियाध्याहारः । यद्वा । असति तमोरूपेऽन्धकारे प्र केतुः प्रकर्षेण ज्ञापयित्री सती नूनं व्युच्छादिति पूर्वान्वयः । तस्मिन्काले आहवनीयादिरूपोऽग्निर्गृहं गृहं सर्वयजमानगृहमग्निहोत्राद्यर्थमुप तिष्ठाते । उपतिष्ठते । दीप्यत इत्यर्थः ॥
+
+> *…ketusthānīyā jñāpayitrī prakarṣeṇa vividhaṃ bhāsata iti śeṣaḥ | upasargavaśādyogakriyādhyāhāraḥ | yadvā | asati tamorūpe 'ndhakāre pra ketuḥ prakarṣeṇa jñāpayitrī satī nūnaṃ vyucchāditi pūrvānvayaḥ | tasminkāle āhavanīyādirūpo 'gnirgṛhaṃ gṛhaṃ sarvayajamānagṛhamagnihotrādyarthamupa tiṣṭhāte | upatiṣṭhate | dīpyata ityarthaḥ ‖*
+
+*(Read from the image.)* "…[as] the banner (*ketu*), the informer: she shines forth in many ways; this is the remainder of the sentence. By the force of the prefix a verb of yoking is to be supplied. Or else: in the darkness that is not (*asati*), as the *ketu* — as the one who makes known — she will surely shine forth: this is joined with the preceding. At that time Agni, in the form of the Āhavanīya and the others, in every house (*gṛhaṃ gṛham*), in the house of every sacrificer, for the Agnihotra and the rest, *upa tiṣṭhāte* — is kindled: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Iyam* — this Uṣas; *yuvatiḥ* — endowed with youth; *purastāt* — in the eastern quarter; *ava aśvait* — comes (grows); *(iyam* — she); *aruṇānām gavām* — of the red cows (the red rays); *anīkam* — the host; *yuṅkte* — yokes (to her chariot); *nūnam* — surely; *asati* — (because it makes objects invisible) in the unreal [the darkness], or in the formless atmosphere; *pra ketuḥ* — (as one who makes objects) known; *vi ucchāt* — (will) well dispel the darkness; (then) *agniḥ* — the fire (the Āhavanīya and the others); *gṛhaṃ gṛham* — in each and every house; *upa tiṣṭhāte* — is established.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** This Uṣas, like a young woman, rises in the east; (she) yokes to her chariot the horses called red cows (before the time of dawn the red rays become visible); dispelling the darkness she makes the objects that were covered by gloom to be seen; (at the time of Uṣas) in every house the Āhavanīya and other fires are kindled.
+
+**Printed English (as printed):** *This youthful (Ushas) approaches from the east: she harnesses her team of purple cows. Assuredly she will disperse the darkness, a manifest sign (of day) in the firmament: the (sacred) fire is kindled in every dwelling.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 11.**
+
+***yuvatiḥ*** — *yauvanopetayoṣit-sthānīyā; yadvā sarveṣu bhāveṣu miśrayantī*: she is described as "a woman endowed with youth", or "one who mingles in all existences". As described in such ṛks as *punaḥ punar jāyamānā purāṇī* (Ṛ. Saṃ. 1-92-10), Uṣas is "at one and the same time without beginning and eternal, and by the time of the creation of the world ever young" — this description is here also.
+
+### Printed p. 179  (PDF 200)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+As described in statements such as *divo duhitā bhānum aśret* (1-92-5), in the same way as the rays of the Sun, uniting with Uṣas, spread everywhere and have contact with all the worlds, so Uṣas, with the Sun's rays, has contact with the world — this supports the second explanation.
+
+***ava aśvait*** — *śvayatir gatyarthaḥ | atyartham āgacchati vardhate vā | atrāvaśabdo vinigrahārthīyaḥ | nyeti vinigrahārthīya iti yāskoktatvāt* (Ni. 1-3, as printed). Here the prefix *ava* is joined to the root *śvi* ("to go; to grow"). Yāska says that the prefixes *ni*, *ava* are of the sense of *vinigraha* ("without restraint"). Looking at it broadly, in the usage *ava aśvait* / *ny aśvait*, a particular fixed motion or extension seems to be meant; but Sāyaṇa, in accordance with the context, explains *ava aśvait* as *atyartham āgacchati* — "she comes exceedingly", "she moves freely or has unobstructed growth", on the authority of the Nirukta. In this ṛk too, as in
+
+> पशून्न चित्रा सुभगा प्रथाना सिन्धुर्न क्षोद उर्विया व्यश्वैत् ।
+> अमिनती दैव्यानि व्रतानि सूर्यस्य चेति रश्मिभिर्दृशाना ॥
+
+> *paśūnna citrā subhagā prathānā sindhurna kṣoda urviyā vyaśvait |*
+> *aminatī daivyāni vratāni sūryasya ceti raśmibhirdṛśānā ‖*
+
+(Ṛ. Saṃ. 1-92-12, as printed.) — the sense stated before is that *vi aśvait* means *sarvaṃ jagad vyāpnot*, "she pervaded the whole world".
+
+***aruṇānāṃ gavām*** — *prasiddhānām etannāmakānām aśvānāṃ vā (anīkam)*: "*aruṇo gāva uṣasām*" (Ni. 2-28 [?], as printed) — the vehicles of the Uṣases are red cows; for the Uṣases they are vehicles equivalent to horses; the meaning is that she joins a host of these to her chariot.
+
+***asati*** — *asatprāye nirūpe 'ntarikṣe tirodhāyakatvāt aśobhane tamasi vā*: "in the atmosphere that is as if non-existent, devoid of form, since it conceals, or in the unlovely darkness": the sense is either "in the atmosphere, which is without form and therefore not of the nature of being", or "in the darkness, which is of the nature of the unlovely".
+
+**Vyākaraṇa-prakriyā (Ṛk 11, pp. 179–180; noted briefly, numbers as read by the OCR).** *aśvait* — root *ṭuośvi gativṛddhyoḥ*; in luṅ, because *aṅ* and *caṅ* are optional, *śvayater* (Pā. 3-1-…) [print: "ಶ್ಲೇಸಿಚ್"?] gives *siC*; since *āgamānuśāsanam anityam*, the augment *iṭ* does not occur; *sici vṛddhiḥ parasmaipadeṣu* (Pā. 7-2-1) gives vṛddhi to the root vowel; since *iḍādi siC* does not follow, *hmyantakṣaṇa…* (Pā. 7-2-5) the prohibition of vṛddhi does not apply; *bahulaṃ chandasi* (Pā. 7-3-97) …
+
+### Printed p. 180  (PDF 201)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+…gives that the *īṭ* augment does not occur for the ending; *saṃyogāntasya lopaḥ* [as printed "ಸ್ಕೋ ಸಂಯೋ"] elides the *s*; the augment *aṭ* to the stem; since it follows a non-verb word, the *nighāta* accent. *yuvatiḥ* — the word *yuvan*; when the feminine is intended, *yūnas tiḥ* (Pā. 4-1-77, as printed "೪-೧-೭೭") gives *ti*; *nalopaḥ prātipadikāntasya* elides the *n*; final-acute by the suffix accent. *purastāt* — *pūrvādharāvarāṇāṃ purdhavaś caiṣām* (Pā. 5-3-39) gives *astāti* and *pur* for the base; first-syllable acute of the suffix. *yuṅkte* — root *yujir yoge*, with included causative sense; laṭ third person singular *ta*; *e* for *ṭi*; *rudhādibhyaḥ śnam* (Pā. 3-1-78) gives *śnam*; *mid aco 'ntyāt paraḥ*; *coḥ kuḥ* gives the guttural *k*, and *car*; since it stands at the head of a pāda, no *nighāta*; final-acute by the suffix accent. *anīkam* — root *ana prāṇane*; *anihṛṣibhyāṃ kic ca* [print: "ಆನಿಹೃಷಿಭ್ಯಾಂ ಕಿಚ್ಚ", Uṇ. 4-?] gives *īkan*; *ñnityādir nityam* gives the first-syllable acute. *ucchāt* — root *uchī vivāse*; leṭ third person singular *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97) elides the *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94) gives *aṭ*; *tiṅ*-accent *nighāta*. *asati* — *na sat asat tasmin asati*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the accent of the first member; locative singular. *gṛhaṃgṛham* — *nityavīpsayoḥ* (Pā. 8-1-4) gives doubling in the sense of repetition; since the latter has the designation *āmreḍita*, *anudāttaṃ ca* (Pā. 8-1-3) makes it entirely unaccented. *upa tiṣṭhāte* — root *ṣṭhā gatinivṛttau*; since the prefix *upa* is attached, *upād devapūjāsaṅgatikaraṇamitrakaraṇapathiṣu* (Pā. 1-3-25) [as printed] gives *ātmanepada*; leṭ third person singular *ta*; *ṭita ātmanepadānāṃ ṭer e* gives *e*; *leṭo 'ṭāṭau* gives *aṭ*; *nighāta* accent. ‖ 11 ‖
+
+#### Ṛk 12
+
+### Printed p. 181  (PDF 202)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+**॥ संहितापाठः ॥**
+
+> उत्ते वयश्चिद्वसतेरपप्तन्नरश्च ये पितुभाजो व्युष्टौ ।
+> अमा सते वहसि भूरि वाममुषो देवि दाशुषे मर्त्याय ॥ १२ ॥
+
+> *utte vayaścidvasaterapaptannaraśca ye pitubhājo vyuṣṭau |*
+> *amā sate vahasi bhūri vāmamuṣo devi dāśuṣe martyāya ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत् । ते । वयः । चित् । वसतेः । अपप्तन् । नरः । च । ये । पितुऽभाजः । विऽउष्टौ ।
+> अमा । सते । वहसि । भूरि । वामम् । उषः । देवि । दाशुषे । मर्त्याय ॥ १२ ॥
+
+> *ut | te | vayaḥ | cit | vasateḥ | apaptan | naraḥ | ca | ye | pitu 'bhājaḥ | vi 'uṣṭau |*
+> *amā | sate | vahasi | bhūri | vāmam | uṣaḥ | devi | dāśuṣe | martyāya ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> ते तव व्युष्टौ सत्यां वयश्चिद्वयांस्यपि पक्षिणोऽपि । चिदित्यपिशब्दार्थः निपातानामनेकार्थत्वात् । उच्चावचेष्वर्थेषु निपतन्तीति । नि. १-४ । इति यास्कोक्तत्वात् । वसतेर्निवासस्थानाद्वृक्षादेरूर्ध्वमपप्तन् । उत्पतन्ति । पूर्ववाक्ये गृहं गृहमुप तिष्ठाते इत्युक्तत्वात्तदपेक्षयाप्यपिशब्दः । किंच नरश्च मनुष्याश्च ये पितुभाजोऽन्नवन्तोऽन्नार्थिनः कृषिवाणिज्यादिकर्तारः स्वस्वव्यापारार्थमुन्मुखा अपप्तन् । गच्छन्ति । तथा मन्त्रान्तरम् । पद्वद्भिर्वयो पत [?] उत्पातयति पक्षिणः । ऋ. १-४८-५ [?] । इति । एवं सत्यां हे देवि देवनशीले उषोदेवते ऽमा गृहे देवयजनाख्ये सते तिष्ठते यजमानाय तदर्थम् । अमेति गृहनाम अमा दम इति तन्नामसु पठितत्वात् । यद्वा । अमा सह हूयमानेनाग्निना सह निवसते यजमानाय । अमा वसेताम् इत्यादौ सहार्थे प्रयोगात् । मर्त्याय मनुष्याय दाशुषे हविर्दत्तवते यजमानाय भूरि वामं बहु शोभनं धनं वहसि । प्रापयसि ॥
+
+> *te tava vyuṣṭau satyāṃ vayaścidvayāṃsyapi pakṣiṇo 'pi | cidityapiśabdārthaḥ nipātānāmanekārthatvāt | uccāvaceṣvartheṣu nipatantīti | ni. 1-4 | iti yāskoktatvāt | vasaternivāsasthānādvṛkṣāderūrdhvamapaptan | utpatanti | pūrvavākye gṛhaṃ gṛhamupa tiṣṭhāte ityuktatvāttadapekṣayāpyapiśabdaḥ | kiṃca naraśca manuṣyāśca ye pitubhājo 'nnavanto 'nnārthinaḥ kṛṣivāṇijyādikartāraḥ svasvavyāpārārthamunmukhā apaptan | gacchanti | tathā mantrāntaram | padvadbhirvayo pata [?] utpātayati pakṣiṇaḥ | ṛ. 1-48-5 [?] | iti | evaṃ satyāṃ he devi devanaśīle uṣodevate 'mā gṛhe devayajanākhye sate tiṣṭhate yajamānāya tadartham | ameti gṛhanāma amā dama iti tannāmasu paṭhitatvāt | yadvā | amā saha hūyamānenāgninā saha nivasate yajamānāya | amā vasetām ityādau sahārthe prayogāt | martyāya manuṣyāya dāśuṣe havirdattavate yajamānāya bhūri vāmaṃ bahu śobhanaṃ dhanaṃ vahasi | prāpayasi ‖*
+
+*(Read from the image; the quotation of "another mantra" in the middle is small in the print and its words and number are doubtful.)* "*Te vyuṣṭau* — when you have dawned, the birds (*vayaś cit*, even the birds; *cit* has the sense of *api*, since particles have many senses: 'they fall in high and low senses', Ni. 1-4) *ut apaptan* — fly up from their dwelling-places, the trees and so on. Since it was said in the previous sentence *gṛhaṃ gṛham upa tiṣṭhāte*, the word *api* is used with reference to it. And moreover *naraś ca* — men, who are *pitubhājaḥ* — seeking food, doing farming, trade and the like — rise eagerly each for his own business; they go. As another mantra [says]: '… he makes the birds fly up' (Ṛ. 1-48-5 [?]). Such being so, O goddess, shining Uṣas, to the sacrificer who sits *amā* — in the house called the sacrificial ground — for that purpose (*amā* is a name for 'house': *amā*, *dama* are read among its names); or else *amā* — together with the fire that is being offered to, who dwells with the fire (as *amā vasetām* and the like, where the word is used in the sense of 'together') — to the mortal *dāśuṣe* — the sacrificer who has given oblations — you bring *bhūri vāmam* — much beautiful wealth."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Uṣaḥ* — O goddess Uṣas; *te* — your; *vyuṣṭau* — at the dawning; *ye vayaḥ cit* — even all the birds; *vasateḥ* — from their dwelling-place, the nests; *ut apaptan* — fly up; *naraḥ ca* — and men; *pitubhājaḥ* — seeking food (they go out of their houses); *devi* — O goddess (you); *amā sate* — who is in the sacrificial hall (with the fire); *dāśuṣe* — who is minded to give oblations; *martyāya* — to the sacrificer; *bhūri vāmam* — abundant and auspicious wealth; *vahasi* — you bring.
+
+### Printed p. 182  (PDF 203)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O goddess Uṣas, as soon as you have risen, birds and men go out from their dwellings, seeking food (each for his own needs); and (you) bring abundant wealth to the sacrificer who wishes to give oblations, who is with the (kindled) fire in the sacrificial hall.
+
+**Printed English (as printed):** *At your dawning, (Ushas), the various birds rise up from their nests, and men who have to earn their bread (quit their homes). you bring, divine (Ushas), much wealth to the liberal mortal who is present in the chamber (of sacrifice).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 12.**
+
+***vayaś cit*** — "even the birds": *cit* here is said to have the sense of *api*. The author of the Nirukta records the word *vayaḥ* only among the names of food (Ni. 3-9 [?], as printed "೩-೯"); but this word has still other meanings:
+
+> प्र सीमादित्यो असृजद्विधर्ता ऋतं सिन्धवो वरुणस्य यन्ति ।
+> न श्राम्यन्ति न वि मुचन्त्येते वयो न पप्तू रघुया परिज्मन् ॥
+
+> *pra sīmādityo asṛjadvidhartā ṛtaṃ sindhavo varuṇasya yanti |*
+> *na śrāmyanti na vi mucantyete vayo na paptū raghuyā parijman ‖*
+
+(Ṛ. Saṃ. 2-28-4, as read from the print.) — in this and other ṛks, because of rapid movement, the word *vayaḥ* is used as a synonym of "bird";
+
+> तदिन्द्र प्रेव वीर्यं चकर्थ यत्स्नसन्तं [?] वज्रेणाबोधयोऽहिम् ।
+> अनु त्वा पत्नीर्हृषितं वयश्च विश्वे देवासो अमदन्ननु त्वा ॥
+
+> *tadindra preva vīryaṃ cakartha yatsnasantaṃ [?] vajreṇābodhayo 'him |*
+> *anu tvā patnīrhṛṣitaṃ vayaśca viśve devāso amadannanu tvā ‖*
+
+(Ṛ. Saṃ. 1-103-2, as read from the print; "snasantaṃ" doubtful.) — in this ṛk, "*gantṛtvāt pakṣisādṛśyād vā maruto 'tra vaya ucyante*" (the Maruts are here called *vayaḥ* because of their going or because of their likeness to birds) — the word *vayaḥ* is used as a synonym of "Maruts", because of the likeness to birds. Likewise meanings such as "strength" and "life" are current; and —
+
+> योनिष्ट इन्द्र निषदे अकारि तमा नि षीद स्वानो नार्वा ।
+> विमुच्या वयोऽवसायाश्वान्दोषा वस्तोर्वसतीयसः प्रपित्वे ॥
+
+> *yoniṣṭa indra niṣade akāri tamā ni ṣīda svāno nārvā |*
+> *vimucyā vayo 'vasāyāśvāndoṣā vastorvasatīyasaḥ prapitve ‖*
+
+(Ṛ. Saṃ. 1-104-1, as read from the print.) — here *vayaḥ* means "the reins for tying the horses (*aśvabandhanārthān raśmīn*)". In the present ṛk, as in the common usage, it means "birds".
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 182 (PDF 203): Ṛks 1–11 complete; Ṛk 12 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done and Special Topics begun (*vayaś cit*); resume p. 183 (PDF 204).
