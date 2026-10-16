@@ -16051,4 +16051,58 @@ In this the meaning of the word is "violent, [even those who] cause harm": *hims
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 9 (the last of Sūkta 135) written through p. 663 (Special Topics complete; grammar through *ukṣaṇaḥ*, the rest of the grammar and the closing line follow); resume p. 664 (PDF 685; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 664  (PDF 685)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Grammar of Ṛk 9, concluded.)* *vrādhantaḥ* — root *vṛdhu vṛddhau*; by *vyatyaya* *laṭ* with *śatṛ*; by Vedic usage the *ā* augment [for the vowel of the root]; as *mit* etc. follows, *yaṇ* [by the rule *ac*… for the final]; as the *lasārvadhātuka* is *anudātta*, the accent of the root remains; nominative plural. *dhanvan* — *supāṃ sulug…* (Pā. 7-1-39 [as read]) gives *luk* of the locative. *anāśavaḥ* — *na vidyate āśuḥ yeṣāṃ te*; *nañsubhyām* (Pā. 6-2-172 [as read]) gives the final udātta. *jīrāḥ* — root *ju gatau*, *sautra*; *jorīcī* (Uṇ. 2-[?], as read "೨-೨೫೮" [?]) gives the suffix *rak*; *īkāra* as the final-replacement of the root; by the suffix accent, the final udātta. *agiraukasaḥ* — *girā okaḥ sthānaṃ yeṣāṃ te girokasaḥ; na girokasaḥ agirokasaḥ*; by Vedic usage the *luk* of the instrumental does not occur; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 [as read]) gives the *ñañ* its own accent. *durniyantavaḥ* — root *yamu uparame*; *kṛvāpā…* [as read: Uṇ. *tun*] gives the suffix *tun*; *m* of the root becomes anusvāra by *paravarṇa*; as the suffix is *nit*, the ādyudātta; as the prefix *dus* is *prādi* and a *samāsa*, the *kṛduttarapada-prakṛtisvara*. ‖ 9 ‖
+
+Here ends the 135th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಮೂವತ್ತೈದನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 136 — *pra su jyeṣṭham* (begins on printed p. 664; Anuvāka 20, third Sūkta)
+
+**ನೂರ ಮೂವತ್ತಾರನೆಯ ಸೂಕ್ತವು — Nūra mūvattāraneya sūktavu** (the one hundred and thirty-sixth Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; doubtful letters [?]).**
+
+> प्र सु ज्येष्ठमिति सप्तर्चं तृतीयं सूक्तं । ऋषिश्चान्यस्मादिति परिभाषया पारुच्छेपः ऋषिः । आत्यष्टिश्छन्दः । ऊती देवानामित्यन्त्या त्रिष्टुप् । अत्र त्रिष्टुबन्तपरिभाषा नाश्रीयते सर्वमात्यष्टमिति विशेषपरिभाषया बाधितत्वात् । मित्रावरुणौ देवता । अन्त्ययोस्तु तन्मन्त्रलिङ्गोक्तदेवता । तथा चानुक्रान्तं । प्र सु सप्त मैत्रावरुणं त्र्यन्त्ये लिङ्गोक्तदेवते अन्त्या त्रिष्टुबिति । तुशब्दप्रयोगादिदमादिके द्वे सूक्ते मैत्रावरुणदेवताके ॥ विनियोगो लैङ्गिकः ॥
+
+> *pra su jyeṣṭham iti saptarcaṃ tṛtīyaṃ sūktaṃ | ṛṣiś cānyasmād iti paribhāṣayā pārucchepaḥ ṛṣiḥ | ātyaṣṭiś chandaḥ | ūtī devānām ity antyā triṣṭup | atra triṣṭubantaparibhāṣā nāśrīyate sarvam ātyaṣṭam iti viśeṣaparibhāṣayā bādhitatvāt | mitrāvaruṇau devatā | antyayos tu tanmantraliṅgoktadevatā | tathā cānukrāntaṃ | pra su sapta maitrāvaruṇaṃ try antye liṅgoktadevate antyā triṣṭubiti | tuśabdaprayogād idam ādike dve sūkte maitrāvaruṇadevatāke ‖ viniyogo laiṅgikaḥ ‖*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *pra su jyeṣṭham* is the third Sūkta in the twentieth Anuvāka. It has seven ṛks. The ṛṣi of this Sūkta is Paruccheṣa. The metre is Atyaṣṭi. The last Ṛk, *ūtī devānām*, is in the Triṣṭubh metre. [To say that the metre of this Sūkta is Atyaṣṭi:] here the general rule [*paribhāṣā*] "that which ends in a Triṣṭubh [is Triṣṭubh]" is not followed, since it is set aside by the special rule "all is Atyaṣṭi". The deities are Mitra and Varuṇa; for the last two ṛks [the deities are] those stated by the signs of the mantras themselves. Thus says the Anukramaṇikā: "*pra su sapta maitrāvaruṇaṃ try antye liṅgoktadevate antyā triṣṭub*". Because of the use of the word *tu* [*pra su*, "su"?], both this Sūkta and the next [as printed: "the two Sūktas beginning from this"] have Mitra and Varuṇa as deities. The use is *laiṅgika*.
+
+### Printed p. 665  (PDF 686)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+*(The Kannada anuvāda, concluded:)* …as the word *tu* is used [in the Anukramaṇikā], this Sūkta is [of the deity] Mitra and Varuṇa [as is also] the next Sūkta. The use is *laiṅgika*.
+
+**ಸೂಕ್ತ — Sūkta 136** [as read: "೧೩೬"]. Maṇḍala 1; Anuvāka 20; Sūkta 136. Aṣṭaka 2, Adhyāya 1, Varga 26 [as read, [?]]. Number of ṛks in the Sūkta: 7. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — 1–5 Mitrāvaruṇau; 6–7 the deities named by the mantra's signs (*liṅgokta*). Chandas — 1–6 Atyaṣṭi; 7 Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र सु ज्येष्ठं निचिराभ्यां बृहन्नमो हव्यं मतिं भरता मृळयद्भ्यां स्वादिष्ठं मृळयद्भ्याम् ।
+> ता सम्राजा घृतासुती यज्ञेयज्ञ उपस्तुता ।
+> अथैनोः क्षत्रं न कुतश्चनाधृषे देवत्वं नू चिदाधृषे ॥ १ ॥
+
+> *pra su jyeṣṭhaṃ nicirābhyāṃ bṛhannamo havyaṃ matiṃ bharatā mṛḷayadbhyāṃ svādiṣṭhaṃ mṛḷayadbhyām |*
+> *tā samrājā ghṛtāsutī yajñeyajña upastutā |*
+> *athainoḥ kṣatraṃ na kutaścanādhṛṣe devatvaṃ nū cidādhṛṣe ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । सु । ज्येष्ठम् । निऽचिराभ्याम् । बृहत् । नमः । हव्यम् । मतिम् । भरत । मृळयत्ऽभ्याम् । स्वादिष्ठम् । मृळयत्ऽभ्याम् ।
+> ता । सम्ऽराजा । घृतऽआसुती इति घृतऽआसुती । यज्ञेऽयज्ञे । उपऽस्तुता ।
+> अथ । एनोः । क्षत्रम् । न । कुतः । चन । आऽधृषे । देवऽत्वम् । नु । चित् । आऽधृषे ॥ १ ॥
+
+> *pra | su | jyeṣṭham | ni 'cirābhyām | bṛhat | namaḥ | havyam | matim | bharata | mṛḷayat 'bhyām | svādiṣṭham | mṛḷayat 'bhyām |*
+> *tā | sam 'rājā | ghṛta 'āsutī iti ghṛta 'āsutī | yajñe 'yajñe | upa 'stutā |*
+> *atha | enoḥ | kṣatram | na | kutaḥ | cana | ā 'dhṛṣe | deva 'tvam | nu | cit | ā 'dhṛṣe ‖ 1 ‖*
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) begun: introduction and Ṛk 1 Saṃhitā and Pada written to p. 665; resume p. 666 (PDF 687; images in w10h/ for PDF 661–728) with the bhāṣya of Ṛk 1. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
