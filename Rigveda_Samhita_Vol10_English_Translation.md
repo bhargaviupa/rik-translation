@@ -4163,11 +4163,11 @@ The word *garta* is derived from the root *gṝ*, which gives the meaning "to ca
 
 [The word *garta* is also well known in the sense of a heap of the cremation ground, derived from the root *gur*, which gives the meaning "to raise"; this is stated.] Citing the *śruti* text
 
-> नोपरस्यानिष्ठुराद्यदुपरस्य निष्ठुराद्गर्तेष्ठाः स्यात्प्रमायुक्तो [?] यजमानः ।
+> [?]ोपरस्यावि[?]ष्णुर्याद्यदुपरस्यावि[?]ष्णुर्याद्गर्तेष्ठाः स्यात्प्रमायुक्तो यजमानः ।
 
-> *noparasyāniṣṭhurādyaduparasya niṣṭhurādgarteṣṭhāḥ syātpramāyukto [?] yajamānaḥ |*
+> *[?]oparasyāvi[?]ṣṇuryādyaduparasyāvi[?]ṣṇuryādgarteṣṭhāḥ syātpramāyukto yajamānaḥ |*
 
-*(Read letter by letter; the text is small and doubtful.)* — "one must not show or uncover the bottom of the sacrificial post; if through carelessness one does so, such a sacrificer lies down in the cremation ground" — this explains the meaning of the word *garta*. Next:
+*(Read letter by letter; the text is small and doubtful.)* — as the Kannada paraphrases it, the lower part of the sacrificial post must not be shown or uncovered; if through carelessness one does so, such a sacrificer lies down in the cremation ground (the OCR reads the words differently, "noparasyāniṣṭhurādya…"; my transliteration of the Sanskrit is therefore uncertain) — this explains the meaning of the word *garta*. Next:
 
 > रथोऽपि गर्त उच्यते गृणातेः स्तुतिकर्मणः । स्तुततमं यानम् ।
 
