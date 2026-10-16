@@ -259,4 +259,131 @@ The abbreviations page (PDF 21, "ಸಂಕೇತಾಕ್ಷರಗಳ ವಿವ�
 
 ---
 
-**Progress note:** Pīṭhike (printed pp. i–ix, PDF 7–15) and the contents table (pp. x–xv) done. Sūkta page starts (printed): 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664 (last topic p. 697; PDF 728 = printed 707). Next: Sūkta 122 from printed p. 1 (PDF 22: invocation, Dvitīyāṣṭaka heading and the start of the introduction). Open: Pīṭhike Ṛk-reference lists on pp. i and viii and the Aitareya Brāhmaṇa numbers (22-6 / 22-7 [?]) are partly doubtful; see `[?]`.
+## Sūkta 122 — *pra vaḥ pāntam* (printed pp. 1–70)
+
+### Printed p. 1  (PDF 22) — title page of the Second Aṣṭaka
+
+*(Ornament: Oṃ in a sun-disc.)*
+
+**॥ श्रीः ॥ ॥ श्री गणाधिपतये नमः ॥** — *Śrīḥ. Śrī Gaṇādhipataye namaḥ* — "Prosperity. Salutation to Śrī Gaṇādhipati."
+
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम् ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
+> प्रक्रिया प्रथमे काण्डे साकल्येनोपवर्णिता ।
+> अत ऊर्ध्वं तु [?] ज्ञेया स्मर्यते च क्वचित्क्वचित् ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+> *vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*
+> *yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanam ‖*
+> *yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*
+> *nirmame tamahaṃ vande vidyātīrthamaheśvaram ‖*
+> *prakriyā prathame kāṇḍe sākalyenopavarṇitā |*
+> *ata ūrdhvaṃ tu [?] jñeyā smaryate ca kvacitkvacit ‖*
+> *vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*
+> *tasmātsarvaprayatnena vedameva sadā japet ‖*
+
+"I bow to Gajānana, bowing to whom, at the beginning of all undertakings, the gods headed by Vāgīśa (Brahmā) are fulfilled." / "I praise Vidyātīrtha-Maheśvara, whose breath is the Vedas and who made the whole world out of the Vedas." / "The grammatical process (*prakriyā*) was described completely in the first Kāṇḍa (the First Aṣṭaka); henceforth it is to be known [from the later passages? — the third pāda `[?]`] and is recalled here and there." / "The Veda is Śiva, Śiva is the Veda, one who studies the Veda is Sadāśiva; therefore with all effort one should always recite the Veda alone." *(Sense mine and tentative; the third verse is the author's own note that the grammar notes of the First Aṣṭaka, which came at the end of each Ṛk, will now be given where they arise — compare the Kannada on p. 4 below.)*
+
+**सायणभाष्यसहिता ऋग्वेदसंहिता** — *Sāyaṇabhāṣyasahitā Ṛgvedasaṃhitā*. **भाग—१०** (Part 10).
+**॥ द्वितीयाष्टके प्रथमोऽध्यायः ॥** — *Dvitīyāṣṭake prathamo 'dhyāyaḥ*. Kannada: "The first Adhyāya in the Second Aṣṭaka. In the first Maṇḍala, the hundred-and-twenty-second Sūkta."
+
+**Kannada introduction (begins).** The Sūkta *pra vaḥ pāntam*, which begins in the first Adhyāya of the Second Aṣṭaka, and the four Sūktas after it (Sūktas 122–126) were seen by the seer Kakṣīvān, born to the seer Dīrghatamas in the woman named Uśik. The woman Uśik was a maidservant of the queen of the king of Kaliṅga; the king of Kaliṅga, desiring that a son should be born to him, sent his wife to the seer Dīrghatamas for union; and then the king's wife, not liking it, …
+
+### Printed p. 2  (PDF 23)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* …secretly sent her own maidservant, named Uśik, to the seer; and from the seer Dīrghatamas this son named Kakṣīvān was born to her, it is said in the Purāṇas and elsewhere. Though this seer Kakṣīvān was born of a Kṣatriya woman, he became famous as a Brāhmaṇa through contact with a Brāhmaṇa. On the matter of this seer's origin Sāyaṇa has told a story in the bhāṣya on the ṛk Ṛ. Saṃ. 1-51-13.
+
+Kakṣīvān is the name of a king. The story of his origin is this: long ago the king of the Aṅga country had gone once, with his wives and maidservants, to the river Gaṅgā for water-sport. Just at that time the seer named Dīrghatamas was floating along in a boat. The seer was extremely weak, and so his wife, sons and others, [thinking] "such a weakling is not wanted by us", had put him in a boat and let it go on the Gaṅgā. The king of Aṅga, by chance, saw the seer Dīrghatamas who had come in the boat to the place where he was bathing, was greatly delighted, took him out of the boat and honoured him; and he begged him: "Sir, for a long time I have had no children. Here is this wife of mine; beget one son on her." Then the queen, seeing this seer who was extremely old, did not wish to be with him, and sent in her place a maidservant of hers named Uśik. The all-knowing great seer, sprinkling her with mantra-consecrated water, made that maidservant like the seer's wife; and she conceived. The son born in her was the seer named Kakṣīvān. He performed many sacrifices such as the Rājasūya. Indra, pleased with the sacrifices, graciously gave Kakṣīvān a young woman named Vṛcayā. The word *kakṣya* also means the strap that is tied to a draught animal. *Kakṣīvān* = *kakṣyāvān* (Nirukta 6-10, as printed). So says the Nirukta.
+
+The name of this Kakṣīvān is found in the following ṛks of the Ṛgveda Saṃhitā: Ṛ. Saṃ. 1-18-1; 1-21-13; 1-112-1; 1-116-7; 4-26-1; 8-9-10; 9-74-8; 10-25-10; 10-61-16 (as printed; the reader's OCR reads the same), and also in Atharvaveda 4-29-5 [?] (the OCR shows "೪೨೯-೫", the hyphen lost). His family name must have been *Pajra*, because he is called *Pajriya* in Ṛ. Saṃ. 1-116-7 and 1-117-6 (as printed "೧-೧೧೭-೬"), and his descendants are called *Pajrāḥ* in Ṛ. Saṃ. 1-126-4. In Sūkta 1-126 of the Ṛ. Saṃ. this seer praises the gifts given to him by a king named Svanayabhāvya; and in the Sāṅkhyāyana Śrauta Sūtra 16-4-5 [?], among the group of mantras called Nārāśaṃsa Sūktas, which praise heroes, there is also included the Dānastuti mantra on the king Svanayabhāvya made by Kakṣīvān, the son of Uśij. When he had grown old he married a maiden named Vṛcayā; this matter is described in the ṛk Ṛ. Saṃ. 1-51-13. He is said to have lived a hundred years …
+
+### Printed p. 3  (PDF 24)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* … known from the ṛk Ṛ. Saṃ. 9-74-8. In Ṛ. Saṃ. 4-26-1 his name is indicated together with Kutsa and the poet Uśanas. Apart from the one ṛk Ṛ. Saṃ. 8-9-10 [as printed "೮-೯-೧೦"], nowhere else is any connection with the seer Dīrghatamas found. But in the work attributed to Śaunaka, the Bṛhaddevatā, it is said that this Kakṣīvān was a son born to the seer Dīrghatamas in the maidservant named Uśij (Bṛ. De. 4-11 [?], as printed in small type).
+
+The Western scholar Weber, on the basis of the mantras Tai. Saṃ. 5-6-5-3; Kāṭhakasaṃhitā 13-3 [?]; Pañcaviṃśa Brāhmaṇa 25-16-3 [?], is of the opinion that this Kakṣīvān was first a Kṣatriya, and that therefore his name occurs, in the mantras cited above, together with the names of the kings Para Āṭṇāra, Vītahavya, Śrāyasa, Trasadasyu and Paurukutsa. This seer is the seer of 151 [?] ṛks in all: the 146 ṛks of the Sūktas from 116 to 125 in the first Maṇḍala of the Ṛgveda, and ṛks 1–5 of Sūkta 126; besides, he is the seer of the 9 ṛks of Sūkta 74 of the ninth Maṇḍala, "*Kakṣīvān Dairghatamasaḥ*" — and because he is called the son of the seer Dīrghatamas, the specialty of the Sūkta *…* [the sentence continues: "although he is a ṛṣi with the epithet *Auśija*, he can be called a seer of the Sūkta under discussion also"].
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (introduction)**
+
+> अथ द्वितीयाष्टके प्रथमोऽध्याय आरभ्यते । शतर्चिनामाद्ये मण्डले चतुर्विंशत्यनुवाकाः । तेषु कदित्थेत्यष्टादशानुवाके षट् सूक्तानि । तत्र प्र वः पान्तमिति द्वितीयं सूक्तम् । पञ्चोनेत्यनुवर्तमानात्पञ्चदशर्चम् । ऋषिश्चान्यस्माद्दृषेरिति [?] परिभाषया कक्षीवानृषिः । अनादेशपरिभाषया त्रिष्टुप् । विश्वे देवा देवता । प्र वो वैश्वदेवमित्यनुक्रमणिका । अस्य विशेषविनियोगो लैङ्गिकः ॥
+
+> *atha dvitīyāṣṭake prathamo 'dhyāya ārabhyate | śatarcināmādye maṇḍale caturviṃśatyanuvākāḥ | teṣu kaditthetyaṣṭādaśānuvāke ṣaṭ sūktāni | tatra pra vaḥ pāntamiti dvitīyaṃ sūktam | pañconetyanuvartamānātpañcadaśarcam | ṛṣiścānyasmāddṛṣeriti [?] paribhāṣayā kakṣīvānṛṣiḥ | anādeśaparibhāṣayā triṣṭup | viśve devā devatā | pra vo vaiśvadevamityanukramaṇikā | asya viśeṣaviniyogo laiṅgikaḥ ‖*
+
+Now the second Aṣṭaka's first Adhyāya begins. In the first Maṇḍala, belonging to the Śatarcins, there are twenty-four Anuvākas. Among them, in the eighteenth Anuvāka, beginning *kad itthā*, there are six Sūktas. Of these, *pra vaḥ pāntam* is the second Sūkta. It has fifteen ṛks (by the continuing rule "*pañconā …*" [?]). By the rule "the seer is [the same as] the other seer's" [?] the seer is Kakṣīvān; by the rule of the unspecified metre it is Triṣṭubh; the deity is the Viśvedevas; the Anukramaṇikā says "*pra vo vaiśvadevam*"; its special application is *laiṅgika*.
+
+**Anuvāda (Kannada translation).** The first Aṣṭaka of the Ṛgveda has been completed, so we now begin to write the translation and explanations of the first Adhyāya of the second Aṣṭaka. In the eight Adhyāyas of the first Aṣṭaka the grammatical process (*vyākaraṇa-prakriyā*) that has to be stated for each ṛk was given all together at the end of the bhāṣya of each ṛk. Now we shall give that part here and there, as the occasion requires. We have already said that there are twenty-four Anuvākas in the first Maṇḍala, connected with the seers of the Śatarca. Of those, in the eighteenth Anuvāka there are six Sūktas beginning with *kad itthā*. Since the first Sūkta was completed in the previous Adhyāya, the Sūkta *pra vaḥ pāntam* on which we now comment is the second in the eighteenth Anuvāka. In it there are fifteen ṛks. As said before, the seer of this Sūkta too is Kakṣīvān himself, …
+
+### Printed p. 4  (PDF 25)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* … the metre is Triṣṭubh, the deities are the Viśvedevas. The Anukramaṇikā begins "*pra vo vaiśvadevam*"; the application of this Sūkta is *laiṅgika* — that is, the application of each ṛk is as the deities propounded in those ṛks are praised, it is to be understood.
+
+**Sūkta 122** — Maṇḍala 1 ‖ Anuvāka 18 ‖ Sūkta 122 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Vargas 1, 2, 3 ‖ number of ṛks in this Sūkta: 15 ‖ Seer: Kakṣīvān Dairghatamasa Auśija ‖ Deity: Viśvedevas ‖ Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र वः पान्तं रघुमन्यवोऽन्धो यज्ञं रुद्राय मीळ्हुषे भरध्वम् ।
+> दिवो अस्तोष्यसुरस्य वीरैरिषुध्येव मरुतो रोदस्योः ॥ १ ॥
+
+> *pra vaḥ pāntaṃ raghumanyavo 'ndho yajñaṃ rudrāya mīḷhuṣe bharadhvam |*
+> *divo astoṣyasurasya vīrairiṣudhyeva maruto rodasyoḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । वः । पान्तम् । रघुऽमन्यवः । अन्धः । यज्ञम् । रुद्राय । मीळ्हुषे । भरध्वम् ॥
+> दिवः । अस्तोषि । असुरस्य । वीरैः । इषुध्याऽइव । मरुतः । रोदस्योः ॥ १ ॥
+
+> *pra | vaḥ | pāntam | raghu 'manyavaḥ | andhaḥ | yajñam | rudrāya | mīḷhuṣe | bharadhvam ‖*
+> *divaḥ | astoṣi | asurasya | vīraiḥ | iṣudhyā 'iva | marutaḥ | rodasyoḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे रघुमन्यवो लघुक्रोधा अक्रोधन ऋत्विजो वो युष्माकं पान्तं पालनशीलं पातव्यं वा यज्ञं यागसाधनमन्धोऽन्नमाज्यसोमादिलक्षणं रुद्राय । रुद्दुःखं तद्धेतुभूतं दुरितं वा । तस्य द्रावयित्रे । एतन्नामकाय देवाय मीळ्हुषे फलस्य वर्षित्रे तदर्थं प्र भरध्वम् । प्रकर्षेण सम्पादयत ।
+
+> *he raghumanyavo laghukrodhā akrodhana ṛtvijo vo yuṣmākaṃ pāntaṃ pālanaśīlaṃ pātavyaṃ vā yajñaṃ yāgasādhanamandho 'nnamājyasomādilakṣaṇaṃ rudrāya | rudduḥkhaṃ taddhetubhūtaṃ duritaṃ vā | tasya drāvayitre | etannāmakāya devāya mīḷhuṣe phalasya varṣitre tadarthaṃ pra bharadhvam | prakarṣeṇa sampādayata |*
+
+O mild-tempered (*laghu-krodhāḥ*, not angry) priests, bring forth for Rudra — the one who makes run away (*drāvayitṛ*) *rut*, "pain" (or the sin that is the cause of it), the god of this name, the one who rains the fruit (*mīḍhvas*) — the food (*andhas*, consisting of ghee, Soma and the like), the means of sacrifice, your own, protecting (*pāntam*) or to be protected. *Pra bharadhvam*: "offer abundantly".
+
+### Printed p. 5  (PDF 26)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Sāyaṇa-bhāṣya, continued.** (Devanagari rendering of the Kannada-script Sanskrit, read letter by letter; doubtful words marked.)
+
+> अहं चेषुध्येव इषुध्या शरध्या यथा निरस्यति तथा वीरैरमित्राणां विविधमीरकैर्नियोपेतैर्वा [?] तदनुचरैर्मरुदादिभिः सह दिवो द्युलोकसकाशात् । उपलक्षणमेतत् । लोकत्रयाद्वा [?] असुरस्य निरसितव्यानामसुराणां निरसितुः । कर्मणि षष्ठी । निरसितारं तमेव देवं रोदस्योर्निरोधनवत्योर्द्यावापृथिव्योर्मध्ये वर्तमानान्मरुतश्चास्तोषि । स्तौमि ॥
+
+> *ahaṃ ceṣudhyeva iṣudhyā śaradhyā yathā nirasyati tathā vīrairamitrāṇāṃ vividhamīrakairniyopetairvā [?] tadanucarairmarudādibhiḥ saha divo dyulokasakāśāt | upalakṣaṇametat | lokatrayādvā [?] asurasya nirasitavyānāmasurāṇāṃ nirasituḥ | karmaṇi ṣaṣṭhī | nirasitāraṃ tameva devaṃ rodasyornirodhanavatyordyāvāpṛthivyormadhye vartamānānmarutaścāstoṣi | staumi ‖*
+
+"And I, as one throws down [enemies] with arrows from a quiver — [so I praise], together with the Maruts and others who are his followers, [those] 'heroes' of the enemies' [side]`[?]` (the middle part of this sentence is doubtful in the small type), from heaven, from the region of the sky (this is only an indication — [it means from] the three worlds), the expeller of the Asuras who are to be expelled (*asurasya*: the genitive is in the sense of the object), that very god (Rudra); and the Maruts who stand in the middle between Heaven and Earth, the two that obstruct [the way] (*rodasyoḥ*), I praise (*astoṣi* = *staumi*)." *(Sense mine and tentative for the doubtful middle.)*
+
+**Grammatical tail (characterised, not transcribed; sūtra wording as printed):** *pāntam* — the root *pā*, the suffix *śatṛ*, which is by an *uṇādi* suffix *ṛ* of the root *pibati*; *mīḷhuṣe* — a *kvasu*-final word by *dāśvān sāhvān*…; in the dative singular the *saṃprasāraṇa* of *vas* by *vasoḥ saṃprasāraṇam*; *ṣatva* by *śāsivasi*…; *divaḥ* — the ending gets the udātta by *ūḍidam*…; *astoṣi* — the root *stu*, the Vedic *luṅ*; *iṣudhyā* — *iṣavo dhīyante 'syām*, the suffix *ki* of the root *dhā* by *karmaṇy adhikaraṇe ca*, final udātta by the *kṛt* accent, and the ending's udātta by *udāttayaṇo halpūrvāt*. *(Sūtra numbers are not printed here.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Raghumanyavaḥ* — O mild-tempered (non-angry) priests; *vaḥ* — you (by you); *pāntam* — protecting (to be protected); *yajñam* — the means of the sacrifice; *andhaḥ* — the food in the form of ghee and the like; *rudrāya* — to Rudra who destroys the sin that is the cause of suffering; *mīḷhuṣe* — in order to rain the fruits; *pra bharadhvam* — offer abundantly; (*aham ca* — and I) *iṣudhyā iva* — as (one who destroys the enemy) with the arrows in the quiver; *vīraiḥ* — with heroes who strike the enemies (with the Maruts who are his followers); *divaḥ* — from the region of the sky (from the three worlds); *asurasya* — of the Rākṣasas (of that Rudra who drives them away); *rodasyoḥ* — of the earth and the sky (standing in the middle); *marutaḥ* — the Marut gods too; *astoṣi* — I praise.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O mild-tempered priests, offer abundantly the oblation in the form of ghee and so on, which protects you and is the means of the sacrifice, to Rudra, who "milks" the fruits (in the form of rain), and who is the remover of the sin that causes suffering. And I praise (that Rudra god) who, with heroic (followers who are his own attendants), as the archer with the arrows in the quiver destroys the enemies, drives the Rākṣasas in the intermediate region from there, and also the Marut gods who are in the sky between earth and heaven.
+
+**Printed English (as printed):** *Present, mild-tempered (priests), the sacrificial viands which you have prepared, to the reward-showering Rudra. I praise him who, with his heroic (followers), as (with shafts) from a quiver, expelled (the Asuras) from heaven: and (I praise) the Maruts, (who abide) between heaven and earth.*
+
+### Printed p. 6  (PDF 27)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Special topics (Viśeṣaviṣayagaḷu).**
+
+***raghumanyavaḥ*** — Here *raghu* means *laghu*. In the Ṛgveda *r* is used in many places in place of *l*. For example:
+
+> अश्वं न त्वा वारवन्तं वन्दध्या अग्निं नमोभिः सम्राजन्तमध्वराणाम् ॥
+
+> *aśvaṃ na tvā vāravantaṃ vandadhyā agniṃ namobhiḥ samrājantamadhvarāṇām ‖*
+
+(Ṛ. Saṃ. 1-27-1 [?] — as read from the image; the reader's OCR of this reference is garbled.) In this ṛk *vāravantam* means *vālavantam* — a horse that has a tail (hair). Therefore here *raghumanyavaḥ* = *laghumanyavaḥ*: *laghukrodhāḥ, akrodhinaḥ* — "of little anger" (*light or little anger*, as printed in English), that is, those who are without anger — that is the sense.
+
+*Laghukrodhāḥ akrodhinaḥ ṛtvijaḥ* is how Sāyaṇa explained it. He too has shown that it is difficult to state the meaning properly for this word. Ordinarily *raghu* (*laghu*) comes to mean "quick"; the word *manyu* is recorded among the names of anger (*krodha*) (Ni. 3-9 [?] — as printed; the OCR reads 3-9). Therefore one ought, strictly, to understand it as "quick-tempered persons"; but this meaning is not so suitable. Sāyaṇa has explained *alpakrodhinaḥ, akrodhinaḥ*. But even that does not make clear the real nature of the priests. Of whom this word is the epithet, and what its right meaning is — that it is not easy to say, the scholar Wilson has said in this way in the preface of his book *The Rig-veda, Translation and Notes*:
+
+*"It may not be always possible to devise unexceptionable and felicitous equivalents for such expressions, but they may be so rendered as to eonvey [sic] with some degree of accuracy the substance of the text: the more unmanageable difficulties are those which are utterly insuperable except by guess ………… thus, as already observed, the substantive is vety [sic] often omitted and the adjective does double duty: the first Verse of the second Ashtaka offers an example: it begins—Raghu-manyavah (रघु मन्यवः)—"oh ye of little wrath"; "ye who are gentle, mild-tempered";but who they are that are so addressed does not appear. The scholiast says, mild-tempered priests, and it would not be easy to suggest a preferable application of the epithet, although, if not traditional. it is only conjectural."* (Vol II Introduction. P. XVII)
+
+From this it is hard to say in what way the epithet "non-angry" shows the real nature of the priests. Along with the meaning *akrodhinaḥ*, this word also has …
+
+---
+
+**Progress note:** Vol 10 — Pīṭhike, contents and Sūkta 122 Ṛk 1 through printed p. 6 done (Special Topics of Ṛk 1 in progress: *raghumanyavaḥ* paragraph, Wilson quotation done; continues on p. 7, PDF 28, with "ಇದರಿಂದ ಋತ್ವಿಕ್ಕುಗಳಿಗೆ…"). Printed page = PDF − 21. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664. Open: Pīṭhike Ṛk-reference lists (pp. i, viii) and Ai. Brā. numbers partly `[?]`; p. 3 total "151" and Bṛ. De. reference `[?]`; the end of the p. 3 sentence on *auśija* is only summarised.
