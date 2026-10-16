@@ -7727,4 +7727,128 @@ The word *vasu*, though it has many meanings, is here used in the sense of "weal
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 302 (PDF 323): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 Saṃhitā/Pada done and bhāṣya begun (breaks off mid-sentence at the foot of p. 302, "…upasarga-vyatya[?]"); resume p. 303 (PDF 324). Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 303  (PDF 324)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+*(Ṛk 8, Sāyaṇa-bhāṣya, continued from the foot of p. 302:)*
+
+> …उपसर्गवशाद्योग्यक्रियाध्याहारः । किमर्थम् । वयो हविर्लक्षणान्नमुद्दिश्य अग्निमुखादेवेतरेभ्यो दीयमानत्वात् । तत्र दृष्टान्तः । पितुर्न । पितुरन्तिके पुत्रादयो यथान्नाद्यर्थं सेवन्ते तद्वत् । किंच वया नेतारः [?] ऋत्विजो ऽपि देवेष्विज्यमानेषु मध्ये हव्या हवींष्या ददत्यग्नये । वेतेरौणादिको डिः । वीति वा गुणः । [?]
+
+> *…upasargavaśādyogyakriyādhyāhāraḥ | kimartham | vayo havirlakṣaṇānnamuddiśya agnimukhādevetarebhyo dīyamānatvāt | tatra dṛṣṭāntaḥ | piturna | piturantike putrādayo yathānnādyarthaṃ sevante tadvat | kiṃca vayā netāraḥ [?] ṛtvijo 'pi deveṣvijyamāneṣu madhye havyā havīṃṣyā dadatyagnaye | veterauṇādiko ḍiḥ | vīti vā guṇaḥ | [?]*
+
+*(Read from the image; the first words continue "…upasarga-vaśāt yogya-kriyādhyāhāraḥ"; the last clause on *vayaḥ* "vetir auṇādiko ḍiḥ" is small and doubtful.)* "…by the force of the prefix a suitable verb is to be supplied: [*āgacchanti*, 'they come']. Why? *Vayaḥ* — aiming at food in the form of oblation, since it is given to the others from Agni's mouth. An illustration: *pitur na* — as sons and others attend upon the father in order to get food and the like, so. Moreover, the priests who conduct [the sacrifice] too, among the gods who are being worshipped, give oblations (*havyā*) to Agni."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Viśvāsām* — all; *viśām* — the performers of sacrifice; *patim* — the protector; *sarvāsām* — all the people; *samānam* — the one who is of one form; *daṃpatim* — the guardian of the house (in the form of Gārhapatya and the like); *satyagirvāhasam* — [the one] who is the refuge of praises that yield the true fruit (of the priests who are bearers of true-fruited words); *tvā* — you; *bhuje* — for enjoyment (of the oblations and the like); *havāmahe* — we call; *mānuṣāṇām* — for men; *atithim* — [him] worthy of worship like a guest (Agni); *bhuje* — to accept (the oblation and so on); *havāmahe* — we call; *yasya* — whose Agni; *āsayā* — in the neighbourhood; *pituḥ na* — like [sons dwelling] near the father; *amṛtāsaḥ* — those known to be eaters of oblations; *amī viśve ca* — and all these gods; *vayaḥ* — to the food in the form of oblation (aiming at it); *ā* — (they come) (to that Agni); *vayaḥ* — (of the sacrifice) the priests, who conduct it; *deveṣu* — among the (other) gods; *havyā* — the oblations; *ā* — (give).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** We call Agni — the protector of all performers of sacrifice (as giver of what is desired), of one form for all people (as the aid to burning, cooking and the like), the guardian of the house (in forms such as Āhavanīya), the support of the praises that give the true fruit (of the priests who recite them), and, to men, worthy of worship like a guest — for the eating of the oblations and the like. As sons attend upon the father, so all these gods, known as the eaters of the shares of the oblation, come to the neighbourhood of Agni, aiming at the oblation; the priests, at the time of giving the oblation, give an oblation to Agni among the other gods too.
+
+**Printed English (as printed):** *We invoke you, the protector of all people, the same alike to all, the preserver of the house, to enjoy (the oblation); you who are the wafter of our infallible prayer, to enjoy (the oblation); we invoke you, who are the guest of men, to whom all these immortals apply for their sustenance, as (a son) to a father; you, to whom the priests offer oblations amongst the gods.*
+
+### Printed p. 304  (PDF 325)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 8.**
+
+In this ṛk, *viśvāsāṃ viśāṃ patiṃ samānaṃ havāmahe*: it is described that Agni is the protector of all the people, and of the sacrificers, since he grants to each what each desires; and that he is the same to all in rendering service.
+
+***daṃpatim*** — *gārhapatyādirūpeṇa gṛhasya pālakam*: under the name Gārhapatya, Agni protects the sacrificer's house. The author of the Nirukta reads the word *dame* among the twenty-two names of "house", *gayaḥ kṛtiḥ* [as printed, probably *kṛdaraḥ*] and so on (Ni. 3-13); by this *dame* is "in the house". And in explaining the word *damūnāḥ* he says *damūnā iti gṛhanāma tanmanāḥ syāt* (Ni. 4-4 [?]); Durgācārya: *damūnā ity etad gṛhanāma etad vā yasya manasi mameti saḥ damūnāḥ gṛhapatir agniḥ* — "the word *damūnas*, [derived from] *dama* 'house', for one who thinks 'it is mine' in the mind of the house; the master of the house is Agni". Since the explanation is that Agni is thus *gṛhapati*, "lord of the house, conscious of it as his own", the name Gārhapatya arises for Agni.
+
+***satyagirvāhasam*** — *yathārthabhūtānām avisaṃvādiphalānāṃ stutirūpāṇāṃ girāṃ voḍhāram | yadvā giraḥ mantrarūpāḥ vahantīti girvāhasaḥ ṛtvijaḥ | satyāḥ avisaṃvādiphalā girvāhaso yasya taṃ*: when praising Agni, since the sense of the words of praise that show his qualities and greatness is fixed in Agni, the meaning is that Agni has the greatness described by those words: that is one explanation; Sāyaṇa also gives another. In this meaning, *giraḥ* means mantras; the priests who practise these mantras are *girvāhasaḥ*; Agni has priests whose mantras are true, with fruit that does not fail, since they apply them in his service.
+
+***atithiṃ mānuṣāṇām*** — *manuṣyāṇām atithivat pūjyaṃ darśādi-tithim apekṣya āgantāraṃ vā*: like a guest who has come to the house, he is worthy of worship by the sacrificer; or [he comes] following the *tithi*, new moon and other dates, the sacrifices of the new and full moon: one comes at the wish of the sacrificer. The author of the Nirukta, citing
+
+> जुष्टो दमूना अतिथिर्दुरोण इमं नो यज्ञमुप याहि विद्वान् ।
+> विश्वा अग्ने अभियुजो विहत्य शत्रूयतामा भरा भोजनानि ॥
+
+> *juṣṭo damūnā atithirduroṇa imaṃ no yajñamupa yāhi vidvān |*
+> *viśvā agne abhiyujo vihatya śatrūyatāmā bharā bhojanāni ‖*
+
+(Ṛ. Saṃ. 7-1-[?] [?], as printed "೭-೪-೧"? — numerals small.) *(Read letter by letter.)* explains: *atithir abhyatito gṛhān bhavati | abhyeti tithiṣu parakulānīti vā paragṛhānīti vā ayam apītaro 'tithir etasmād eva*.
+
+### Printed p. 305  (PDF 326)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+Durgācārya: *gṛhān abhi abhimukhena āsa atitho bhavati* — "since he comes seeking houses, he is a guest"; or, on the *tithi*-days beginning with the full moon, he goes to the houses of the sacrificers: *abhyeti tithiṣu parakulāni paurṇamāsyādiṣu yajamānakulāny abhyāgacchati iti atithiḥ*; "*ayam apītaro 'tithir etasmād eva*": because he behaves like a guest, he too is a guest: so they explain in two ways. Sāyaṇa also states two kinds of meaning.
+
+***āsayā*** — *samīpe*: "near". The word *āsā*, *āmbaram* is recorded among the eleven names of "near" (Ni. 3-[?], as printed "೩-೯"?). All the gods who accept the portions of the oblation — because the portions are to be offered to them by the sacrificer through Agni — come near this Agni: so it is described.
+
+***vayaḥ pitur na*** — *havirlakṣaṇānnam uddiśya agnimukhād eva itarebhyo dīyamānatvāt | pitur antike putrādayo yathā annādyartham sevante tadvat*: in the world, sons and the like attend on their fathers for their food and so on; so all the gods, since their respective shares of oblations offered by the sacrificer are all offered to Agni, come near Agni to receive them: thus the father-and-son comparison is explained. The word *vayaḥ* is recorded among the twenty-eight names of food, *annaṃ vājaḥ* and so on (Ni. 3-9). And —
+
+> युवोः श्रियं परि योषावृणीत सूरो दुहिता परितक्म्यायाम् ।
+> यद्देवयन्तमवथः शचीभिः परि घ्रंसमोमना वां वयो गात् ॥
+
+> *yuvoḥ śriyaṃ pari yoṣāvṛṇīta sūro duhitā paritakmyāyām |*
+> *yaddevayantamavathaḥ śacībhiḥ pari ghraṃsamomanā vāṃ vayo gāt ‖*
+
+(Ṛ. Saṃ. 1-116-17 [?], as printed "೧-೧೧೬-೧೭"? — numerals small and doubtful.) *(Read letter by letter, and not claimed; I only record that the Kannada comment says Durgācārya explains *vayaḥ* here as *annaṃ havirlakṣaṇam*.)*
+
+***vayaḥ deveṣu havyā ā*** — *netāraḥ ṛtvijo 'pi itareṣu ijyamāneṣu madhye havīṃṣi dadati agnaye*: in this mantra the word *vayaḥ* is read twice. For the first *vayaḥ* the meaning "food in the form of oblation" is given. The second *vayaḥ* is used in the sense of "priests, who perform the works of the sacrifice rightly": the priests, when making oblations to other deities, offer to Agni too the portions of the oblation.
+
+Since prefixes have many meanings, the prefix *ā* here is explained as *dadati*, "they give"; likewise *ā* in *āgacchanti*, "they come": so he explains the meaning,
+
+### Printed p. 306  (PDF 327)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+— by the force of the prefix, supplying a verb suitable to it.
+
+**Vyākaraṇa-prakriyā (Ṛk 8; noted briefly, numbers as read by the OCR and the page).** *viśām* — genitive plural; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the case-ending. *havāmahe* — root *hveñ spardhāyāṃ śabde ca*; laṭ first person plural; *tiṅ-nighāta*. *daṃpatim* — *jāyā ca patiś ca daṃpatī*; *dama* is a name for 'house'; the loss of the end of the first member; *patyāv aiśvarye* (Pā. 6-2-18) gives the natural accent of the first member; accusative singular. *bhuje* — root *bhuja pālanābhyavahārayoḥ*; *kvip ca* (Pā. 3-2-76) gives *kvip*; dative singular; *sāvekācas tṛtīyādiḥ* gives the acute to the ending. *satyagirvāhasam* — *giraḥ vahanti iti girvāhasaḥ*; root *vaha prāpaṇe*; *vahihāhādhāñbhyaś chandasi* [print: "ವಹಿಹಾಧಾಙ್ಭ್ಯ", Uṇ. 4-?] gives *asun*; since the preceding sūtra continues with *ṇit*, *ata upadhāyāḥ* (Pā. 7-2-116) gives vṛddhi to the penultimate; the form *girvāhas*; *satyāḥ girvāhasaḥ yasya saḥ satyagirvāhāḥ, tam*; *bahuvrīhau prakṛtyā pūrvapadam* gives the natural accent of the first member. *mānuṣāṇām* — *manor jātāv ñyat tuk ca* (Pā. 4-1-161) gives the suffix *añ* to *manu* [print: "ಅಞ್"]; with it the augment *suk* [print]; *taddhiteṣv acāmādeḥ* (Pā. 7-2-117) gives vṛddhi to the initial; since the suffix has the marker *ñ*, *ñnityādir nityam* gives the first-syllable acute; genitive plural. *amṛtāsaḥ* — *na mṛtāḥ amṛtāḥ*; in the *nañ*-bahuvrīhi, as an exception to the accent of the *nañ*, *nañ jarāmarapriyamṛtāḥ* (Pā. 6-2-116) gives the first-syllable acute of the latter member; with *jas* following, *ājjaser asuk* gives the augment *asuk*. *vayā* [as read; the form is *vayaḥ*] — root *vī gatyādiṣu*; Adādi; the Uṇādi suffix *ḍi* [print "ಡಿ"]; by the force of *ḍit* the *ṭi* of the root is elided; the form *viḥ*; when *jas* follows, *jasi ca* gives guṇa; *āyādeśa*; by the suffix accent first-syllable acute.
+
+### Printed p. 307  (PDF 328)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+*(Alternative:)* by *vic* [as printed] *…anyebhyo 'pi dṛśyante* (Pā. 3-2-75); *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84) gives guṇa of the root's *i*; the form *ve*; *āyādeśa* in *jas*. *havyā* — *hūyante iti havyāni*; in the neuter, *śeś chandasi bahulam* (Pā. 6-1-70) elides *śi*. ‖ 8 ‖
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने सहसा सहन्तमः शुष्मिन्तमो जायसे देवतातये ।
+> रयिर्न देवतातये ।
+> शुष्मिन्तमो हि ते मदो द्युम्निन्तम उत क्रतुः ।
+> अध स्मा ते परि चरन्त्यजर श्रुष्टीवानो नाजर ॥ ९ ॥
+
+> *tvamagne sahasā sahantamaḥ śuṣmintamo jāyase devatātaye |*
+> *rayirna devatātaye |*
+> *śuṣmintamo hi te mado dyumnintama uta kratuḥ |*
+> *adha smā te pari carantyajara śruṣṭīvāno nājara ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । अग्ने । सहसा । सहन्ऽतमः । शुष्मिन्ऽतमः । जायसे । देवऽतातये । रयिः ।
+> न । देवऽतातये ।
+> शुष्मिन्ऽतमः । हि । ते । मदः । द्युम्निन्ऽतमः । उत । क्रतुः ।
+> अध । स्म । ते । परि । चरन्ति । अजर । श्रुष्टीऽवानः । न । अजर ॥ ९ ॥
+
+> *tvam | agne | sahasā | sahan 'tamaḥ | śuṣmin 'tamaḥ | jāyase | deva 'tātaye | rayiḥ |*
+> *na | deva 'tātaye |*
+> *śuṣmin 'tamaḥ | hi | te | madaḥ | dyumnin 'tamaḥ | uta | kratuḥ |*
+> *adha | sma | te | pari | caranti | ajara | śruṣṭī 'vānaḥ | na | ajara ‖ 9 ‖*
+
+### Printed p. 308  (PDF 329)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*(The Saṃhitā "tvam agne sahasā…" is on p. 307; the bhāṣya begins at the foot of p. 307: "he agne tvaṃ sahasā balena sahantamo 'tiśayena śatrūṇām abhibhavitā tathā śuṣmintamo 'tiśayena tejasvī jāyase | sahe lauṅādike kanin | nādyasyeti nuṭ | …".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वं सहसा बलेन सहन्तमो ऽतिशयेन शत्रूणामभिभविता तथा शुष्मिन्तमो ऽतिशयेन तेजस्वी जायसे । सहेर्लौकिकादिकः [?] कनिन् । नाद्यस्येति नुट् । किमर्थम् । देवतातये देवानां विस्तारयुक्ताय यागाय तदर्थं यज्ञानामृत्विग्भिरुत्पद्यसे [?] । यद्वा । उक्तगुणविशिष्टः सन् जायसे । अरण्योरुत्पद्यसे । यज्ञार्थत्वे दृष्टान्तः । रयिर्न देवतातये । धनं यथा यज्ञार्थमुच्यते । तथा चोक्तं यज्ञार्थं द्रव्यमुत्पन्नमिति । किंच ते तव मद आज्यस्वीकारजनितो हर्षः शुष्मिन्तमो ऽतिशयेन बलवान् । हिशब्दः प्रसिद्धौ । आज्येनाग्नेर्मदो भवतीति प्रसिद्धम् । अपि च ते क्रतुः कर्मविशेषो द्युम्निन्तमो यशोयुक्तो ऽन्नयुक्तो वा खलु । द्युम्नं द्योततेर्यशो वान्नं वेति यास्कः । नि. ५-५ । अधातः कारणात् अजर हे जरारहिताग्ने ते त्वां परि चरन्ति यजमानाः । तत्र दृष्टान्तः । श्रुष्टीवानो न दूता इव । ते यथा वार्ताविशेषप्रदानेन राजानं सेवन्ते तद्वत् । छन्दसीवनिपाविति वनिप् । छान्दसं प्रत्ययाद्युदात्तत्वम् । अजर भक्तानामजरयितः । अन्तर्भावितण्यर्थात्पचाद्यच् । यद्वा । अजरास्रोतः । जरा स्तुतिः । असौ कस्याप्यस्तोता भवति किंतु सर्वैः स्वयं स्तूयते । तादृशं त्वां परि चरन्तीत्यर्थः ॥
+
+> *he agne tvaṃ sahasā balena sahantamo 'tiśayena śatrūṇāmabhibhavitā tathā śuṣmintamo 'tiśayena tejasvī jāyase | saherlaukikādikaḥ [?] kanin | nādyasyeti nuṭ | kimartham | devatātaye devānāṃ vistārayuktāya yāgāya tadarthaṃ yajñānāmṛtvigbhirutpadyase [?] | yadvā | uktaguṇaviśiṣṭaḥ san jāyase | araṇyorutpadyase | yajñārthatve dṛṣṭāntaḥ | rayirna devatātaye | dhanaṃ yathā yajñārthamucyate | tathā coktaṃ yajñārthaṃ dravyamutpannamiti | kiṃca te tava mada ājyasvīkārajanito harṣaḥ śuṣmintamo 'tiśayena balavān | hiśabdaḥ prasiddhau | ājyenāgnermado bhavatīti prasiddham | api ca te kratuḥ karmaviśeṣo dyumnintamo yaśoyukto 'nnayukto vā khalu | dyumnaṃ dyotateryaśo vānnaṃ veti yāskaḥ | ni. 5-5 | adhātaḥ kāraṇāt ajara he jarārahitāgne te tvāṃ pari caranti yajamānāḥ | tatra dṛṣṭāntaḥ | śruṣṭīvāno na dūtā iva | te yathā vārtāviśeṣapradānena rājānaṃ sevante tadvat | chandasīvanipāviti vanip | chāndasaṃ pratyayādyudāttatvam | ajara bhaktānāmajarayitaḥ | antarbhāvitaṇyarthātpacādyac | yadvā | ajarāsrotaḥ | jarā stutiḥ | asau kasyāpyastotā bhavati kiṃtu sarvaiḥ svayaṃ stūyate | tādṛśaṃ tvāṃ pari carantītyarthaḥ ‖*
+
+*(Read from the image; the OCR is garbled in places. The readings marked [?] — "sahe laukikādikaḥ", "ṛtvigbhir utpadyase" — are small and doubtful. The Nirukta number is as printed "೫-೫" and as the OCR reads it.)* "O Agni, you by *sahasā* — strength — are *sahantamaḥ* — the greatest subduer of enemies, and *śuṣmintamaḥ* — extremely splendid — you are born (*jāyase*). [*Kanin* after *sah*; *nuṭ* by *nādyasya*.] For what? *Devatātaye* — for the sacrifice of the gods, which is extended; for that, by the priests of the sacrifices you are produced [?]; or else, being endowed with the qualities stated, you are born — from the two *araṇis* you are produced. An illustration for his being for the sake of the sacrifice: *rayir na devatātaye* — as wealth is said to be for the sake of sacrifice: so it is said, 'wealth is produced for the sake of sacrifice'. Moreover, your *mada* — the delight produced by accepting ghee — is *śuṣmintamaḥ* — the most powerful; the word *hi* is of fame: it is well known that Agni is exhilarated by ghee. And your *kratu*, the special rite, is *dyumnintamaḥ* — most endowed with glory or with food: '*dyumnaṃ dyoter yaśo vānnaṃ veti*' says Yāska (Ni. 5-5). *Adha* — therefore, O ageless (*ajara*) Agni, *te pari caranti* — the sacrificers serve you; an illustration: *śruṣṭīvāno na dūtāḥ* — as messengers serve a king by delivering particular messages. [*Chandasīvanipau* gives *vanip*; the first-syllable acute of the suffix is Vedic.] *Ajara* — O one who makes his devotees free from old age; *pacādi ac* after the root with included causative sense; or else *ajarāsrotaḥ*: *jarā* is praise: he is one who is not a praiser of anyone, but is himself praised by all: serving such a one, they serve: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He agne* — O Agni; *tvam* — you; *sahasā* — by (your) strength; *sahantamaḥ* — the best subduer (of enemies); *śuṣmintamaḥ* — most splendid (being so); *rayiḥ* — wealth; *devatātaye na* — as it is used for sacrifice; *devatātaye* — for the sacrifice that is spread out for the gods; *jāyase* — you are born (from the *araṇis*); *te* — your; *madaḥ* — joy (produced by accepting ghee and the like); *śuṣmintamaḥ hi* — is most powerful indeed; *utaḥ* — and; *kratuḥ* — your rite; *dyumnintamaḥ (hi)* — most endowed with glory (food); *adha* — therefore; *ajara* — O ageless; *ajara* — O one who makes the devotees ageless, or himself not praising anyone; *te* — you; *śruṣṭīvānaḥ na* — like messengers (who serve a king by carrying news); *pari caranti sma* — (the sacrificers) serve.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Agni, you overpower enemies by your strength; you are extremely splendid; as wealth is useful for sacrifice, so you are born from the *araṇis* for the sacrifice; your joy, produced by accepting ghee and the like, is most powerful; your rites are full of glory (food); therefore the sacrificers serve you, who are ageless and who make the devotees ageless, as messengers serve a king.
+
+**Printed English (as printed, begins):** *You, Agni, the destroyer (of enemies) by your strength, the possessor of great splendour, are born for the sake of sacrificing to the gods, as*
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 308 (PDF 329): Ṛks 1–8 complete (‖ 8 ‖); Ṛk 9 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done and the printed English begins at the foot of p. 308 ("…as"); resume p. 309 (PDF 330) with the rest of the Ṛk 9 English, Special Topics. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya.
