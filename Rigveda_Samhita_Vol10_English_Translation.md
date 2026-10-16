@@ -2435,4 +2435,148 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 123 through printed p. 91 (PDF 112): Ṛks 1–4 complete; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha done; its printed English begins on p. 92 (PDF 113). Printed page = PDF − 21. The reader's Google-Docs OCR now covers printed pp. 39–239; use `scratchpad/ocrp.py` style checks for Ṛk/Nirukta/sūtra numbers. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 92  (PDF 113)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* **Printed English of Ṛk 5 (as printed):** *Ushas, endowed with truth, you are the sister of Bhaga, the sister of Varuna, you are hymned first (of the gods): then let the worker of iniquity depart, for we shall overcome him with our chariot, through your assistance.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
+
+***bhagasya svasā*** — *sarvaiḥ bhajanīyasya ādityasya svasā svasṛsthānīyā asi*: "you are the sister of Āditya, who is to be worshipped by all" — Uṣas the deity is worshipped by all as the sister of the Sun. By the connection of being born together with the Āditya, she is, like the Āditya, worthy of worship by reason of greatness: that is the sense. The word *bhaga* has many meanings.
+
+The word *bhaga* is recorded (Ni. 1-7, as read by the reader's OCR) and, in the ṛk "*nūnaṃ sā te*" (Ṛ. Saṃ. 2-11-21, as read by the OCR), it is a word for "wealth", and in (Ni. 3-9, as read by the OCR; "39") the meaning "wealth" is also given.
+
+> वामंवामं त आदुरे देवो ददात्वर्यमा ।
+> वामं पूषा वामं भगो वामं देवः करूळती ॥
+
+> *vāmaṃvāmaṃ ta ādure devo dadātvaryamā |*
+> *vāmaṃ pūṣā vāmaṃ bhago vāmaṃ devaḥ karūḷatī ‖*
+
+(Ṛ. Saṃ. 5-4[?]-[?], as read; the OCR is garbled.) In this ṛk the word *bhaga* refers to a god, one among the Ādityas;
+
+> श्रद्धयाग्निः समिध्यते श्रद्धया हूयते हविः ।
+> श्रद्धां भगस्य मूर्धनि वचसा वेदयामसि ॥
+
+> *śraddhayāgniḥ samidhyate śraddhayā hūyate haviḥ |*
+> *śraddhāṃ bhagasya mūrdhani vacasā vedayāmasi ‖*
+
+(Ṛ. Saṃ. 10-151-1, as printed.) Here the vṛttikāra explains *bhagasya bhāgadheyasya dharmasya* — "of Bhaga, of the *bhāgadheya* [one's allotted portion], of *dharma*": he gives the word *bhaga* the sense *dharma*;
+
+> प्रातर्जितं भगमुग्रं हुवेम वयं पुत्रमदितेर्यो विधर्ता ।
+> आध्रश्चिद्यं मन्यमानस्तुरश्चिद्राजा चिद्यं भगं भक्षीत्याह ॥
+
+> *prātarjitaṃ bhagamugraṃ huvema vayaṃ putramaditeryo vidhartā |*
+> *ādhraścidyaṃ manyamānasturaścidrājā cidyaṃ bhagaṃ bhakṣītyāha ‖*
+
+(Ṛ. Saṃ. 7-41-2, as read.) — in ṛks such as this *bhaga* is used also as a name of the Sun.
+
+***varuṇasya jāmiḥ*** — *tamo vārakasya savitur devasya bhaginīsthānīyā asi* — "you stand in the place of a sister to the god Savitṛ, who restrains darkness": *janayanty apatyāny asyām apatkam anye iti jāmiḥ* … (the Kannada explains that Uṣas and Savitṛ, the Sun, have one origin; that is why Sāyaṇa says "they are born in one place"; since the root *jam* means 'to go', the word *jāmi* is formed from the root *jan*: in a woman, offspring are born; this woman is called *jāmi* because, since she is born here, the family goes to another house — the second sense.) Both these meanings are stated by Yāska.
+
+### Printed p. 93  (PDF 114)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
+
+> न जामये भगिन्यै जामिरन्यस्यां जनयन्ति जामिपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्रायो भवति ॥
+
+> *na jāmaye bhaginyai jāmiranyasyāṃ janayanti jāmipatyaṃ jamatervā syādgatikarmaṇo nirgamanaprāyo bhavati ‖*
+
+(Ni. 3-6, as printed "೩-೬"; the Sanskrit as read letter by letter from the large type; I read the first words as *na jāmaye bhaginyai* and the fourth as *jāmipatyam*.) Daughters are not entitled to the funeral oblations (? — *pāyasa-bhāga*) [`[?]` the first sentence of the Kannada gloss: "women are not fit for a share in the inheritance"]. They are not fit for a share in their brother's estate, since they, having nourished children, are given away to a husband. The word *jāmi* is well known in the sense "sister"; or the word *jāmi* formed from the root *jam* meaning 'to go' conveys the sense 'one who joins, from the family where she was born, another family' — such are the two meanings given by Sāyaṇa, in accord with the intention of the Nirukta writer.
+
+***prathamā jarasva*** — *itaradevebhyaḥ pūrvā utkṛṣṭā vā satī stutā bhava*: "Uṣas is praised first in the sacrifice; or, being chief above all other deities, is praised" — he gives these two meanings.
+
+Yāska explains *jarā stutiḥ jaratiḥ stutikarmaṇaḥ* (Ni. 10-8, as read by the OCR) — "*jarā* means praise: from the root *jṝ*, 'to praise'"; since the word *jarate* is recorded among the verbs of praising (Ni. 3-6 `[?]`), the verb *jarati* is explained by Sāyaṇa in the sense of praise.
+
+***yaḥ aghasya dhātā saḥ dadhyāḥ*** — *yaḥ kaścid duḥkhasya tadutpādakapāpasya vā dhārayitā saḥ gacchatu*: "he who holds sorrow — he who has sin that causes sorrow — let him go from here (by your grace) and be conquered by us" — this is the prayer that is explained.
+
+***dadhyāḥ*** — Yāska classes *dadhyati, dabhnoti* (Ni. 3-9, as read by the OCR on p. 93) among the verbs meaning 'to go'; hence here he explains the word *dadhyāḥ* as *gacchatu*.
+
+### Printed p. 94  (PDF 115)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 5; sūtra numbers as read by the reader's OCR for p. 94).** *Jāmiḥ* — the root *jani prādurbhāve*; the suffix *iñ* of the uṇādi class by *bahulagrahaṇa*; *vyatyaya* gives *m* for the *n*; *janayanty asyām apatyam anye iti jāmiḥ* — or *jamati gacchati svotpattisthānād anyatra iti jāmiḥ*; thus in the second sense, taking the root *jam adane*, with the suffix *iñ* as before; since roots have many meanings, it is used in the sense of going. *Sūnṛte* — the root *ūna parihāṇe*; *sutarāṃ ūnayati apriyam iti sūnā*; *vāk* of the pleasant and true; *sūnṛtā* — in the vocative *sūnṛte*; *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*. *Jarasva* — the root *jṝṣ vayohānau*; here used in the sense of praise; *loṭ*, 2nd singular; by *vyatyaya* no *yak*-type augment in the passive-like middle; *savābhyāṃ vāmau* (…) the *am*; after an *atiṅanta* the *nighāta*. *Paścā* — *paścāt* (Pā. Sū. 5-3-33) the substitution *paśca* for the word *apara*, and in the sense of the fifth case [*astāti*], the suffix *āti*, by irregular formation; in the Vedic way the final *t* drops; the first-syllable acute of the suffix. *Dadhyāḥ* — *dadhyati dabhnoti* (Ni. 3-9 and OCR "14-61" `[?]`) says the Nirukta, reading it among the verbs of going; hence here it is used in that sense; *liṅ*, 2nd singular; by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the *tip*-like singular ending; after an *atiṅanta* the *nighāta*. *Dhātā* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of the agent the suffix *tṛc*; since it is *cit*, the final acute; nominative singular. *Jayema* — the root *ji jaye*; *āśīrliṅ* [as printed *vidhiliṅ*], 1st plural, the form *jayema*; since *yat* is connected with the word *yaḥ* before it, *yadvṛttānnityam* (Pā. Sū. 8-1-66) prevents the *nighāta*; since the suffix is *lasārvadhātuka*, *tāsyanudāttet* (Pā. Sū. 6-1-186) the root accent remains. *Dakṣiṇayā* — the root *dakṣa vṛddhau*; *druhakṣibhyām inan* (Uṇ. Sū. 2-1[?]-[?], as read) the suffix *inan*; in the feminine, since it ends in *a*, *ṭāp*; since the suffix is *nit*, *ñnityādir nityam* (Pā. Sū. 6-1-197) the first-syllable acute; instrumental singular. ‖ 5 ‖
+
+#### Ṛk 6
+
+### Printed p. 95  (PDF 116)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
+
+**॥ संहितापाठः ॥**
+
+> उदीरतां सूनृता उत्पुरंधीरुदग्नयः शुशुचानासो अस्थुः ।
+> स्पार्हा वसूनि तमसापगूळ्हाविष्कृण्वन्त्युषसो विभातीः ॥ ६ ॥
+
+> *udīratāṃ sūnṛtā utpuraṃdhīrudagnayaḥ śuśucānāso asthuḥ |*
+> *spārhā vasūni tamasāpagūḷhāviṣkṛṇvantyuṣaso vibhātīḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत् । ईरताम् । सूनृताः । उत् । पुरंऽधीः । उत् । अग्नयः । शुशुचानासः । अस्थुः ।
+> स्पार्हा । वसूनि । तमसा । अपऽगूळ्हा । आविः । कृण्वन्ति । उषसः । विऽभातीः ॥ ६ ॥
+
+> *ut | īratām | sūnṛtāḥ | ut | puraṃ 'dhīḥ | ut | agnayaḥ | śuśucānāsaḥ | asthuḥ |*
+> *spārhā | vasūni | tamasā | apa 'gūḷhā | āviḥ | kṛṇvanti | uṣasaḥ | vi 'bhātīḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> सूनृताः प्रियसत्यात्मिका वाच उदीरताम् । उद्गच्छन्तु । हे ऋत्विज उत्कृष्टं यथा भवति तथा स्तोत्रं प्रवर्तयध्वम् । तथा पुरन्धीः पुरन्धयः । पुरं शरीरं यासु धीयते याभिर्वा ताः पुरन्धयः प्रज्ञाः प्रयोगविषयाः । ता उत्तिष्ठन्तु । प्रज्ञोपलक्षितानि कर्माणि प्रवर्तन्तामित्यर्थः । यद्यपि प्राणवायुना शरीरं धार्यते तथापि यो वै प्राणः सा प्रज्ञा या वा प्रज्ञा स प्राण इति श्रुतेः प्राणप्रज्ञयोरेकात्मत्वात्प्रज्ञायाः शरीरधारणमविरुद्धम् । तथाग्नय आहवनीयाद्याः शुशुचानासोऽत्यन्तं दीप्यमाना उदस्थुः । उत्तिष्ठन्तु । प्रज्वलयन्त्वित्यर्थः । किमर्थमेवमिति तदुच्यते । यतो विभातीर्विविधं भासमाना उषस उषो-देवताः तमसापगूळ्हान्धकारेणात्यन्तं गोपितानि स्पार्हा स्पृहणीयानि वसूनि वासयोग्यानि यज्ञसाधनभूतहविरादीन्याविष्कृण्वन्ति यथावस्तु प्रकटीकुर्वन्ति । तस्मात्स्तोत्रादिकं कुर्वन्त्वित्यर्थः ॥
+
+> *sūnṛtāḥ priyasatyātmikā vāca udīratām | udgacchantu | he ṛtvija utkṛṣṭaṃ yathā bhavati tathā stotraṃ pravartayadhvam | tathā purandhīḥ purandhayaḥ | puraṃ śarīraṃ yāsu dhīyate yābhirvā tāḥ purandhayaḥ prajñāḥ prayogaviṣayāḥ | tā uttiṣṭhantu | prajñopalakṣitāni karmāṇi pravartantāmityarthaḥ | yadyapi prāṇavāyunā śarīraṃ dhāryate tathāpi yo vai prāṇaḥ sā prajñā yā vā prajñā sa prāṇa iti śruteḥ prāṇaprajñayorekātmatvātprajñāyāḥ śarīradhāraṇamaviruddham | tathāgnaya āhavanīyādyāḥ śuśucānāso 'tyantaṃ dīpyamānā udasthuḥ | uttiṣṭhantu | prajvalayantvityarthaḥ | kimarthamevamiti taducyate | yato vibhātīrvividhaṃ bhāsamānā uṣasa uṣo-devatāḥ tamasāpagūḷhāndhakāreṇātyantaṃ gopitāni spārhā spṛhaṇīyāni vasūni vāsayogyāni yajñasādhanabhūtahavirādīnyāviṣkṛṇvanti yathāvastu prakaṭīkurvanti | tasmātstotrādikaṃ kurvantvityarthaḥ ‖*
+
+*(Read at 150 dpi; letters that were unclear are marked `[?]` or taken as the Kannada's plain sense.)* "May the pleasant and true words (*sūnṛtāḥ*) rise up (*udīratām*): let them go up. O priests, so recite the praise that it be excellent. Likewise *purandhīḥ* — *purandhayaḥ*: 'those in which the body (*pura*) is placed, or by which it is placed' — the powers of intelligence (*prajñā*), that are the field of operation: let them rise; that is, let acts marked by intelligence go forward. Although the body is held by the vital air, still, by the Śruti *yo vai prāṇaḥ sā prajñā, yā vā prajñā sa prāṇaḥ* (Kauṣītaki Upaniṣad 3-3, as read by the reader's OCR), since *prāṇa* and *prajñā* are one in nature, the holding of the body by *prajñā* is not inconsistent. Likewise the fires — Āhavanīya and the others — *śuśucānāsaḥ*, shining intensely, *udasthuḥ*: may they rise, may they blaze. Why so? It is said: because the Uṣases (the Uṣas deities), who shine (*vibhātīḥ*) in various ways, reveal (*āviṣkṛṇvanti*) in their true form the desirable riches (*spārhā vasūni*), the oblations and other means of sacrifice, suitable for dwelling, that were hidden by darkness; therefore they should do their praise and the rest."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Vibhātīḥ* — shining in various forms; *uṣasaḥ* — the Uṣas deities; *tamasā* — by darkness; *apagūḷhā* — well hidden; *spārhā* — desirable; *vasūni* — dwelling-suitable houses (the oblations and the like); *āviḥ kṛṇvanti* — make manifest; (therefore); *sūnṛtāḥ* — the pleasant and true (praise-) words; *ut īratām* — let them rise; …
+
+### Printed p. 96  (PDF 117)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* **Pratipadārtha, concluded:** …*ut īratām* — let them rise; *purandhīḥ* — (connected with action) the powers of knowledge, the actions marked by knowledge; *ut* [*asthuḥ*] — let them begin (and); *agnayaḥ* — the fires (Āhavanīya and the others); *śuśucānāsaḥ* — blazing; *ut asthuḥ* — let them blaze up.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** When the deities Uṣas arise in diverse forms, the houses — or the oblation materials — that are much desired and had been well hidden by the darkness (so that they were not seen with the eye) become manifest; therefore, O priests, at that time (*ut*) chant in a loud voice good praise-words; begin (acts that are the fruits of sacrificial knowledge); and let the fires (Āhavanīya and others) be kindled so that they shine brightly.
+
+**Printed English (as printed):** *Let words of truth be spoken : let works of wisdom (be performed) : let the blazing fires rise up, so that the many radiant Ushas may make manifest the desirable treasures hidden by the darkness.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 6.**
+
+***sūnṛtāḥ*** — *priyasatyātmikāḥ vācaḥ*: Yāska records the word *sūnṛtā* among the names of speech (Ni. 2-19, as read by the OCR) and among the names of food (Ni. 3-9, as read by the OCR). Sāyaṇa, however, explains that for it the meaning "speech that is beneficial and true" is used in another sense. The idea is: "may the priests recite hymns that are most agreeable, which will give delight to the deities".
+
+***purandhīḥ ut tiṣṭhantu*** — *puraṃ śarīraṃ yāsu dhīyate yābhir vā tāḥ purandhayaḥ prajñāḥ prayogaviṣayāḥ | prajñopalakṣitāni karmāṇi pravartantām ity arthaḥ*: the word *pura* conveys "body"; *purandhi* means *prajñā* ("wisdom") that holds the body properly in place. The sense is "let [acts] done with pure knowledge, or performed with conduct, begin".
+
+In the Kauṣītaki Upaniṣad it is said: *yo vai prāṇaḥ sā prajñā, yā vā prajñā sa prāṇaḥ* (Kau. Upa. 3-3, as read by the OCR). By this sentence the identity of *prāṇa* and *prajñā* is declared: *prāṇa* (vital air) itself holds the body in place; yet "that *prajñā* holds the body" appears to be a contradiction; but it is removed by the identity between *prāṇa* and *prajñā*.
+
+### Printed p. 97  (PDF 118)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* In the bhāṣya, by saying *yadyapi prāṇavāyunā śarīraṃ dhāryate tathāpi prāṇaprajñayor ekatvāt prajñāyāḥ śarīradhāraṇam aviruddham*, Sāyaṇa has described the manner of removing the contradiction, and given for the word *purandhi* the meaning *prajñā* ("[the powers of] knowledge, the acts joined with knowledge").
+
+Yāska reads the two words *purandhi* and *purandhī*, and has shown the difference of their meanings. The word *purandhī* means "Earth and Heaven" [as read: *vyāvāpṛthivīvācaka*] (Ni. 3-22, as read by the OCR).
+
+> ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि सन्ति देवाः ।
+> ताँ अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरन्धिम् ॥
+
+> *te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi santi devāḥ |*
+> *tā~ adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā purandhim ‖*
+
+(Ṛ. Saṃ. 7-3[?]-[?], as read.)
+
+> पुरन्धिर्बहुधीस्तत्र कर्मा [?] । पुरन्धिर्भगः पुरस्तात्स्यान्यादेश इत्येकम् । इन्द्र इत्यपरं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरम् ॥
+
+> *purandhirbahudhīstatra karmā [?] | purandhirbhagaḥ purastātsyānyādeśa ityekam | indra ityaparaṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparam ‖*
+
+(Ni. 6-1[?]-[?], as read.) Thus Yāska has said. According to one opinion [of the vṛttikāra Durgācārya], the word *purandhi* means the deity named Bhaga; according to another opinion, since *dhī* means "action", he who does many bold deeds is Indra — [this is] the meaning; and still others say that, since *purandhi* is he who destroys clouds and enemy cities, the word expresses the sense "Indra". Others [say] "Varuṇa":
+
+> इमामू नु कवितमस्य मायां महीं देवस्य नकिरा दधर्ष ।
+> एकं यदुद्ना न पृणन्त्येनीरासिञ्चन्तीरवनयः समुद्रम् ॥
+
+> *imāmū nu kavitamasya māyāṃ mahīṃ devasya nakirā dadharṣa |*
+> *ekaṃ yadudnā na pṛṇantyenīrāsiñcantīravanayaḥ samudram ‖*
+
+(Ṛ. Saṃ. 8-4[?]-[?], as read.) In this ṛk the seer of the mantra praises Varuṇa. *Dhīr iti prajñānāma sā yasya pūrvī bahvī sa purandhiḥ | varuṇaś ca prajñayā stūyate kasmāt varuṇaḥ purandhiḥ* — the vṛttikāra explains thus: *dhī* is a word for *prajñā*; since Varuṇa is praised with much *prajñā*, the doer of many things, he says the word *purandhi* has the sense "Varuṇa". That is one opinion.
+
+> *[the first line of this ṛk is in small type and I could not settle it letter by letter; not transcribed]*
+> अत्रा पुरन्धिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥
+
+> *atrā purandhirajahādarātīrmade somasya mūrā amūraḥ ‖*
+
+(Ṛ. Saṃ. 4-2[?]-[?], as read; the first line has been read doubtfully and is not transcribed as Sanskrit.) In this ṛk they explain the word *purandhi* as *bahuno dhanasya dātā*, "the giver of much wealth".
+
+---
+
+**Progress note:** Vol 10 — Sūkta 123 through printed p. 97 (PDF 118): Ṛks 1–5 complete; Ṛk 6 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done and its Special Topics in progress (*purandhi* discussion, p. 97; continues on p. 98, PDF 119 after the ṛk "adāya smā … purandhir ajahād arātīḥ" — Ṛ. Saṃ. 4-2?-?). Printed page = PDF − 21. The reader's OCR covers printed pp. 39–239; I take Nirukta/Ṛk/sūtra numbers from it where legible. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
