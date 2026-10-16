@@ -12606,4 +12606,82 @@ The Niruktakāra reads the word *rāti* among the ten names of the acts of givin
 
 ---
 
-**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 523 (PDF 544): Ṛks 1–3 complete; Ṛk 4 Saṃhitā…English, Special Topics and the grammar through *avratam* written (the grammar's last entries — *hṛṇāyantam* and the closing ‖ 4 ‖ — are on p. 524); resume p. 524 (PDF 545; images in w10f/). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 pp. 502–503; Ṛk 2 pp. 507–508, 511; Ṛk 3 pp. 514–518; Ṛk 4 bhāṣya p. 520 and the list of Ṛg-vedic/Brāhmaṇa references on p. 522, numerals unread); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 524  (PDF 545)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+*(Grammar of Ṛk 4, concluded.)* *hṛṇāyantam* — root *hṛṇīṅ roṣe*; *kaṇḍvādi*; *kaṇḍvādibhyo yak* (Pā. 3-1-27) gives *yak* in the proper sense; by *vyatyaya* the root takes *ā*; *śatṛ* in the present sense; the *yak*'s accent remains; accusative singular. ‖ 4 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> सं यज्जनान्क्रतुभिः शूर ईक्षयद्धने हिते तरुषन्त श्रवस्यवः ।
+> प्र यक्षन्त श्रवस्यवः ।
+> तस्मा आयुः प्रजावदिद्बाधे अर्चन्त्योजसा ।
+> इन्द्र ओक्यं दिधिषन्त धीतयो देवाँ अच्छा न धीतयः ॥ ५ ॥
+
+> *saṃ yajjanānkratubhiḥ śūra īkṣayaddhane hite taruṣanta śravasyavaḥ |*
+> *pra yakṣanta śravasyavaḥ |*
+> *tasmā āyuḥ prajāvadidbādhe arcantyojasā |*
+> *indra okyaṃ didhiṣanta dhītayo devā~ acchā na dhītayaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> सम् । यत् । जनान् । क्रतुऽभिः । शूरः । ईक्षयत् । धने । हिते । तरुषन्त । श्रवस्यवः ।
+> प्र । यक्षन्त । श्रवस्यवः ।
+> तस्मै । आयुः । प्रजावत् । इत् । बाधे । अर्चन्ति । ओजसा ।
+> इन्द्रे । ओक्यम् । दिधिषन्त । धीतयः । देवान् । अच्छ । न । धीतयः ॥ ५ ॥
+
+> *sam | yat | janān | kratu 'bhiḥ | śūraḥ | īkṣayat | dhane | hite | taruṣanta | śravasyavaḥ |*
+> *pra | yakṣanta | śravasyavaḥ |*
+> *tasmai | āyuḥ | prajāvat | it | bādhe | arcanti | ojasā |*
+> *indre | okyam | didhiṣanta | dhītayaḥ | devān | accha | na | dhītayaḥ ‖ 5 ‖*
+
+*(Read from the image: the Saṃhitā's third word is "*janān*"; the Pada gives *kratu-bhiḥ*, *prajā-vat*; "*ṇ*" and "*ṣ*" as printed.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few places doubtful: [?]).*
+
+> यद्यस्मात्कारणादिन्द्रः शूरो विक्रान्तः सन् जनान् सर्वान्प्राणिनः क्रतुभिः प्रज्ञाभिः समीक्षयत् सम्यग्गिच्छति तत्तत्कर्मसमीक्षणान् । अन्तर्यामिरूपेण सर्वेषां बुद्धिषु स्थित्वा तैर्विषयानुल्लेखयतीत्यर्थः । यद्वा । क्रतुभिः कर्मभिः सुकृतदुष्कृतरूपैस्तत्तत्फलेषु प्रेरयति । एवं प्रेरयति सति श्रवस्यवोऽन्नमिच्छन्तो यजमाना धने गवादिरूपे हिते ऽभिमते सति । यद्वा । हिते धने ऽभिप्रेते सति तरुषन्त हिंसन्ति शत्रून् ॥ तरुषतिर्वधकर्मा । छान्दसे लुङि व्यत्ययेन [?] ॥ अतः कारणात् श्रवस्यवोऽन्नमिच्छन्तो हविर्लक्षणमिन्द्रायात्मने वेच्छन्तः सन्तः प्र यक्षन्त । प्रकर्षेण यजन्ते ॥ छान्दसे लुङि व्यत्ययेन क्सः ॥ किंच तस्मा इत्तस्मै प्रसिद्धायेन्द्रायैव आयुः हविर्लक्षणमन्नं प्रजावत् पुत्रादिसहितमायुः [?] यजमानाः । बाधे बाधने शत्रूणां बाधने निमित्तभूते सति बाधितुं वा ॥ कृत्यार्थे तवै केन्केन्यत्वसनः इति केनन् प्रत्ययः ॥ अर्चन्ति । पूजयन्ति । यद्वा । तस्मा इद्यजमानायैव बाधे बले निमित्तभूते सति । बाध इति बलनाम बाधस्वेति तन्नामसु पाठात् । प्रजावत् पुत्राद्युपेतमायुरन्नं लब्ध्वोजसा बलेन युक्ता अर्चन्ति । इन्द्रं पूजयन्ति ऋत्विज इति शेषः ॥ किंच धीतयः कर्मवन्तो यजमाना इन्द्र इन्द्रसमीपे ओक्यं गङ्गायां घोष इतिवत् तत्सामीप्यं लक्ष्यते । इन्द्रलोक इत्यर्थः । तत्रैकमोकः निवासस्थानम् । स्वार्थे यत् ॥ दिधिषन्त । धारयन्ति । धिष शब्दे । अत्र धारणार्थः । जौहोत्यादिकः । वृत्त्यादिना[?] ॥ ते एव पुनर्विशेष्यन्ते । धीतयः स्वर्गसाधनकर्मवन्तः सन्तो देवान् अच्छ न देवानामभिमुखेन प्राप्तुमिवौक्यं दिधिषन्तेत्यन्वयः ॥
+
+> *yadyasmātkāraṇādindraḥ śūro vikrāntaḥ san janān sarvānprāṇinaḥ kratubhiḥ prajñābhiḥ samīkṣayat samyaggicchati tattatkarmasamīkṣaṇān | antaryāmirūpeṇa sarveṣāṃ buddhiṣu sthitvā tairviṣayānullekhayatītyarthaḥ | yadvā | kratubhiḥ karmabhiḥ sukṛtaduṣkṛtarūpaistattatphaleṣu prerayati | evaṃ prerayati sati śravasyavo 'nnamicchanto yajamānā dhane gavādirūpe hite 'bhimate sati | yadvā | hite dhane 'bhiprete sati taruṣanta hiṃsanti śatrūn ‖ taruṣatirvadhakarmā | chāndase luṅi vyatyayena [?] ‖ ataḥ kāraṇāt śravasyavo 'nnamicchanto havirlakṣaṇamindrāyātmane vecchantaḥ santaḥ pra yakṣanta | prakarṣeṇa yajante ‖ chāndase luṅi vyatyayena ksaḥ ‖ kiṃca tasmā ittasmai prasiddhāyendrāyaiva āyuḥ havirlakṣaṇamannaṃ prajāvat putrādisahitamāyuḥ [?] yajamānāḥ | bādhe bādhane śatrūṇāṃ bādhane nimittabhūte sati bādhituṃ vā ‖ kṛtyārthe tavai kenkenyatvasanaḥ iti kenan pratyayaḥ ‖ arcanti | pūjayanti | yadvā | tasmā idyajamānāyaiva bādhe bale nimittabhūte sati | bādha iti balanāma bādhasveti tannāmasu pāṭhāt | prajāvat putrādyupetamāyurannaṃ labdhvojasā balena yuktā arcanti | indraṃ pūjayanti ṛtvija iti śeṣaḥ ‖ kiṃca dhītayaḥ karmavanto yajamānā indra indrasamīpe okyaṃ gaṅgāyāṃ ghoṣa itivat tatsāmīpyaṃ lakṣyate | indraloka ityarthaḥ | tatraikamokaḥ nivāsasthānam | svārthe yat ‖ didhiṣanta | dhārayanti | dhiṣa śabde | atra dhāraṇārthaḥ | jauhotyādikaḥ | vṛttyādinā[?] ‖ te eva punarviśeṣyante | dhītayaḥ svargasādhanakarmavantaḥ santo devān accha na devānāmabhimukhena prāptumivaukyaṃ didhiṣantetyanvayaḥ ‖*
+
+*(Sense: "Since the hero Indra, brave, *samīkṣayat* — looks well on all creatures through their *kratus* (knowledge or deeds): staying within all, as the inner controller, he makes them look at their objects; or he impels them by their good and bad deeds to their results; and when he so impels, the sacrificers desiring food (*śravasyavaḥ*), when wealth, in the form of cattle and the like, is desired (*hite dhane*), *tarūṣanta* — destroy enemies. For this reason, desiring food or the oblation for themselves or for Indra, they sacrifice (*pra yakṣanta*) abundantly. Moreover for that Indra alone they present *āyuḥ* — the food in the form of oblation, accompanied by sons and the like; when there is *bādhe* — the harassing of enemies; or: *bādhe* is a name of strength: obtaining life and food accompanied by progeny, endowed with *ojas* — strength — they worship Indra. And the *dhītayaḥ* — the active sacrificers — *dadhiṣanta* — hold (aspire to) *okyam* — a dwelling-place in Indra's neighbourhood (as in 'a cowherd settlement on the Gaṅgā' the nearness is meant): the world of Indra; the pious ones, doing works that lead to heaven, aspire to dwell in front of the gods, as if reaching them.")*
+
+### Printed p. 525  (PDF 546)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *yat* — because; *śūraḥ* — the heroic (Indra); *janān* — all creatures; *kratubhiḥ* — by their deeds (or by their intelligence); *saṃ īkṣayat* — looks well at (clearly makes seen) [or, impels well to the results, good and bad]; *śravasyavaḥ* — those desiring food (the sacrificers); *dhane hite* — when wealth, in the form of cattle, is desired [or: *hite dhane* — when wealth is the object]; *taruṣanta* — destroy the enemies; *ataḥ* — therefore; *śravasyavaḥ* — desiring food (for themselves or for Indra); *pra yakṣanta* — sacrifice abundantly; *kiṃ ca* — and; *tasmā it* — for that Indra alone; *āyuḥ* — the food in the form of oblation; *prajāvat* — accompanied by progeny (comes to you); or the sacrificers (give it); *bādhe* — to harass the enemies; *arcanti* — worship (Indra); or *tasmā it* — for that sacrificer; *bādhe* — when strength is the cause; *prajāvat* — accompanied by sons and the like; *āyuḥ* — food (for obtaining); *ojasā* — endowed with strength; the priests; *arcanti* — worship (Indra); *dhītayaḥ* — the sacrificers who do works; *indre* — near Indra; *okyam* — a dwelling-place; *dadhiṣanta* — they hold (they seek); *devān accha na* — as facing the gods; *dhītayaḥ* — the sacrificers who do works leading to heaven; *okyam dadhiṣanta* — aspire to a dwelling-place (in front of the gods).
+
+### Printed p. 526  (PDF 547)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Indra, the hero, looks upon men, giving each the good and bad fruit according to his deeds; therefore, to defeat those who oppose them, the sacrificers who desire cattle and other wealth perform sacrifices for him and, desiring food, offer him oblations for his satisfaction; to conquer enemies by their own strength, they worship him; those who do works that lead to heaven aspire to a place near Indra, in front of the gods.
+
+**Printed English (heading "English Translation"; as printed):** *"Inasmuch as the hero, (Indra), rightly judges men by their deeds, therefore do the (pious), sacrificing (to him) for sustenance, become enabled, by the wealth that has been attained, to overcome (their foes): desirous of food, they diligently worship (him): the (sacrificial) food offered to him is the source of progeny (to the worshipper), and (men) worship him, that by their own strength they may overcome (their foes): pious sacrificers enjoy residence in the heaven of Indra; pious sacrificers are, as it were, in the presence of the gods."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).**
+
+***yat śūraḥ janān kratubhiḥ saṃ īkṣayat*** — here Sāyaṇa explains the word *kratu* in two ways: as *prajñā* ("intelligence", Ni. 3-[?]; as read "೩-೧೩") and as *karma* ("work", Ni. 2-[?]; as read "೩-೧"). In the sense "intelligence": "Indra, the hero, dwelling in all creatures as the inner controller, carefully looks upon and knows well the works they do and the thoughts in their minds"; in the sense "work": "Indra, who is the inner ruler in all, impels all the good and evil deeds that they do."
+
+***dhane hite taruṣanta śravasyavaḥ pra yakṣanta śravasyavaḥ*** — here the commentator explains the words *dhane hite* in two ways: "when wealth in the form of cattle is desired" — that is, to obtain wealth such as cows, or to obtain wealth, battle with enemies takes place, and it is proper (*hita*); the sacrificers obtain the wealth of their enemies by fighting and conquering them, and such wealth comes to us. Therefore war is the means of getting wealth. Because such a war is waged by the sacrificers together, to destroy their enemies, they prepare the food and oblations for the satisfaction of Indra and satisfy him with sacrifices and the like: so the meaning. The word *śravaḥ* is recorded among the names of wealth, *maghaṃ rekṇaḥ* and so on (Ni. 2-[?]; as read "೩-೯"), and the commentator explains it as wealth in the form of cattle or as food (in the form of oblation). *Śravasyavaḥ* means "those who desire food": since this word is repeated, in the first the meaning is "the sacrificers who desire food for themselves by Indra's grace"; in the second "the sacrificers who have prepared food in the form of oblation to offer to Indra".
+
+### Printed p. 527  (PDF 548)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(continued:)* "…with the wealth thus obtained, and by performing sacrifices, they satisfy Indra."
+
+***tasmai āyuḥ prajāvat it bādhe arcanti ojasā*** — here *āyuḥ* means "food": the word *āyu* is recorded among the eight names of food beginning with *vājaḥ* (Ni. 2-[?]; as read "೩-೯"). Therefore *āyuḥ prajāvat* means "food accompanied by sons and grandsons" — "life with sons and grandsons, and food". When the sacrificers are harassed by enemies, or in order to defeat and destroy those enemies, they offer oblations to Indra, with sons and grandsons, and worship him with their own power, that is, by sacrifices and the like, and by hymns: so one meaning. The word *bādhā* is recorded among the eight names of strength beginning with *ojaḥ* (Ni. 2-[?]; as read "೨-೯"): the meaning "strength". By offering oblations to Indra for the obtaining of sons and grandsons and for the gaining of food and the like, they worship Indra by sacrifices and by hymns: these are the two meanings, which the commentator explains.
+
+***indre okyaṃ dadhiṣanta dhītayaḥ*** — *indre* means "near Indra". *Okya* is "dwelling-place" (Ni. 3-[?]; as read "೩-೧೩"). Since the word *dhī* is recorded among the names of work (Ni. 2-[?]; as read "೨-೧"), *dhītayaḥ* means "sacrificers who do works such as sacrifices". "Such sacrificers wish to dwell near Indra." The word *dhītayaḥ* is used twice. In the second meaning, "the sacrificers who perform sacrifices leading to heaven wish to dwell in the presence of the gods; therefore they satisfy Indra by sacrifices and the like": so the purport.
+
+***devān accha na dhītayaḥ*** — "persons who wish for heaven perform sacrificial works that lead to heaven and wish to dwell facing the gods, that is, near the gods, in Indra's world": so the meaning.
+
+---
+
+**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 527 (PDF 548): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā…English and Special Topics written; resume p. 528 (PDF 549; images in w10f/) with the Ṛk 5 grammar, then Ṛk 6 (last). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 pp. 502–503; Ṛk 2 pp. 507–508, 511; Ṛk 3 pp. 514–518; Ṛk 4 pp. 520, 522; Ṛk 5 bhāṣya p. 524–525); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
