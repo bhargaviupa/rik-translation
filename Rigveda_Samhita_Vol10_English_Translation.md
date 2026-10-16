@@ -2933,4 +2933,172 @@ The second meaning: taking the meaning of the word *ṛta* as the sacrificial pl
 
 ---
 
-**Progress note:** Sūkta 123 through printed p. 113 (PDF 134): Ṛk 10 Saṃhitā/Pada/bhāṣya/Pratipadārtha done; resume p. 114 (PDF 135) with Ṛk 10 Bhāvārtha and printed English.
+### Printed p. 114  (PDF 135)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Like a maiden, having a clearly visible body, O goddess, you approach the resplendent (Sun, who is your dear one) and who is minded to give what is desired; then, like a young woman, in the presence of your husband you spread a gentle smile, and being of special radiance you make manifest all your limbs, beginning with the bosom; (or) in the eastern quarter, spreading a brilliance like a gentle smile, of special light, you make manifest many forms — blue, yellow and the like.
+
+**Printed English (as printed):** *Goddess, manifest in person like a maiden, you go to the resplendent and munificent (sun); and, like a youthful bride (before her husband), you uncover, smiling, your bosom in his presence.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 10.**
+
+In this ṛk Uṣas is compared to a woman who first has the state of a maiden (*kanyā*) and afterwards the state of a grown (*prauḍha*) woman.
+
+***kanyeva tanvā śāśadānā*** — *kamanīyā kanyeva | sā yathā janāntike vivasanā saṃcarati | tathā uṣaḥ tvaṃ kamanīyā apragalbhā satī kanyā tanvā śarīreṇa śāśadānā spaṣṭatāṃ gacchantī dṛśyase | śāśadānā śāśadyamānā spaṣṭatāṃ prāpnuvatī.* The Kannada comment: Uṣas is like a beautiful girl, like a small child knowing nothing, who goes about unclothed near people; that is, as soon as the time of dawn arises it is described as a beautiful girl.
+
+***Yāska*** — *kanyā kamanīyā bhavati | kaineyaṃ netavyeti vā | kamanenānīyata iti vā kanater vā syāt kāntikarmaṇaḥ* (Ni. 4-15, as printed "೪-೧೫"; the OCR agrees): the word *kanyā* is used with beauty as its cause. *Iyam* — this girl; either "*kai netavyā*": where is she to be led, [i.e. to join]; or *kamanena* — by the quality that attracts others she is led — she is taken along; or, from the root *kan* with the sense of "beautiful, shining", the word *kanyā* is derived. Following this, Sāyaṇa explains *kamanīyā* as "lovely with the beauty of the body".
+
+***śāśadānaḥ*** — *śāśadyamānaḥ* (Ni. 6-16, as printed "೬-೧೬"): since Yāska has so explained it, the sense is "possessing the manner of being perceived by everyone".
+
+### Printed p. 115  (PDF 136)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+***devi iyakṣamāṇaṃ devam eṣi*** — by this sentence it is described that Uṣas, whose nature is to spread light, goes to the Sun, the giver of light who fulfils the wishes of the sacrificer who wishes to sacrifice — like a girl choosing her husband, who obtains him as her husband.
+
+***saṃsmayamānā yuvatiḥ vakṣāṃsi āvir kṛṇuṣe*** — Sāyaṇa explains two meanings by this sentence. In the first meaning he explains the word *yuvatiḥ* as *yuvatir iva*, a case of the dropped simile-particle (*lupta-upamā*): thus, a mature woman, that is one with an age and bodily strength fit to enjoy pleasure, a beautiful woman, in front of her beloved displays the desire for enjoyment she has, shows a gentle smile and her own grace; so Uṣas acts in front of the Sun — this is the purport.
+
+In the second meaning, in the eastern quarter, spreading her own light that is like a gentle smile, and making her light and the objects in the world visible to all, Uṣas acts so that the beauty of the world becomes visible to all — this is the purport.
+
+> उपो अदर्शि शुन्ध्युवो न वक्षो नोधा इवाविरकृत प्रियाणि ।
+> अद्मसन्न ससतो बोधयन्ती शश्वत्तमागात्पुनरेयुषीणाम् ॥
+
+> *upo adarśi śundhyuvo na vakṣo nodhā ivāvirakṛta priyāṇi |*
+> *admasanna sasato bodhayantī śaśvattamāgātpunareyuṣīṇām ‖*
+
+(Ṛ. Saṃ. 1-124-4 [?] — as printed; the last numeral is doubtful in my reading, and the OCR shape "n-nge-V" gives only the first two groups.) *(Verse read letter by letter from the image; the OCR agrees except for "puna-reyuṣīṇām".)* Gloss: "[She] has been seen, like the bosom of a (self-)cleansing woman; as a Nodhas-like [poet] she has made her dear [forms] manifest; waking the sleepers who lie down for food, she has come, the most continual of those who return" — mine and tentative.
+
+In this ṛk the word *vakṣaḥ* is explained as *rūpāṇi* ("forms"). Sāyaṇa: *vakṣāṃsi — vakṣa iti rūpanāma | vantsthānīyāni nīlapītādīni rūpāṇi*: the word *vakṣaḥ* conveys the meaning "form". As a young woman makes manifest the parts of her body, her bosom and so on, so Uṣas makes manifest the forms of the objects — blue, yellow and so on; thus the meaning is explained.
+
+**Vyākaraṇa-prakriyā (grammar pages pp. 115–117; noted briefly, numbers as read by the OCR).** *tanvā* — instrumental singular, the ending *ṭā*; the *yaṇ* substitution in the place of the acute; since the ending follows that, *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. 8-2-4) gives the ending the *svarita*. *śāśadānā* — root *śada śātane*; *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22) gives *yaṅ* in the sense of intensity; *śānac* after it in the sense of laṭ; *chandasy ubhayathā* (Pā. 3-4-117) gives it ārdhadhātuka designation, hence *ato lopaḥ* (Pā. 6-4-48) elides the preceding *a* and *yasya halaḥ* (Pā. 6-4-49) the *y*; *dīrgho 'kitaḥ* (Pā. 6-4-83) lengthens the reduplication; since the preceding sūtra also gives the *sārvadhātuka* designation, *abhyastānām ādiḥ* (Pā. 6-1-189) gives the accent on the first syllable (so the word is not final-acute); in the feminine, *ajādyataṣṭāp* gives *ṭāp*; *aco 'prāgṛhya-* [the rule on nasalised ā] makes the ā nasalised.
+
+*eṣi* — root *iṅ* (*i gatau*); second person singular *sip*; *śap* with *luk*; guṇa of the root-vowel on account of *sip*; since it stands at the head of a pāda there is no *nighāta* accent; since *sip* is *pit* it is unaccented, so the root's accent remains; *ādeśapratyayayoḥ* gives *ṣatva* of the ending.
+
+*iyakṣamāṇam* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; in the sense of wish, *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. 3-1-7) gives *san*; *san-yaṅoḥ* (the reduplication of the root); for the reduplicative syllable the initial consonant remains, and in the Veda *saṃprasāraṇa* occurs; *pūrvarūpa*; *cojaḥ kuḥ* gives *ku* (guttural) for the *j* of the root; *khari ca* gives *ca*[r]; *ādeśapratyayayoḥ* gives *ṣa* for the *s* of *san*; *āne muk* (Pā. 7-2-82) gives the augment *muk* to the stem; *ṇatva* of the *n* of *śānac* on account of the *ṣ*; *abhyastānām ādiḥ* (Pā. 6-1-189) gives acute on the first syllable; accusative singular.
+
+*saṃsmayamānā* — root *ṣmiṅ īṣadhasane*; *śānac* in that sense, *śap* augment; guṇa and *ayādeśa* with that; *āne muk* gives *muk* to the stem ending in *a*; since the ending follows the *upadeśa* the *sārvadhātuka* occurs, so by *tāsyanudāttet* (Pā. 6-1-186) it is unaccented and the root-accent remains; in the compound *gatikārakopapadāt kṛt* gives the accent of the final member; in the feminine, because it ends in *a*, *ṭāp*.
+
+*yuvatiḥ* — the word *yuvan*; when the feminine is intended, *yūnas tiḥ* (Pā. 4-1-77) gives the suffix *ti*; *nalopaḥ prātipadikāntasya* gives the loss of the *n*; by the accent of the suffix it is final-acute.
+
+*purastāt* — *pūrvādharāvarāṇāṃ purdhavaś caiṣām* (Pā. 5-3-39) gives the suffix *astāti*; for *pūrva*, *pur* is substituted; the suffix has the acute on its first syllable.
+
+### Printed p. 116  (PDF 137)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123". Grammar page: the remainder of the notes on śāśadānā, then eṣi, iyakṣamāṇam, saṃsmayamānā, yuvatiḥ, purastāt — given together above with p. 115.)*
+
+### Printed p. 117  (PDF 138)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+*kṛṇuṣe* — root *kṛvi hiṃsākaraṇayoś ca*; laṭ second person singular, the ending *thās*; *thāsaḥ se* (Pā. 3-4-80) gives it the substitute *se*; *dhinvikṛṇvyor a ca* (Pā. 3-1-80, as read by the OCR) gives the *u*-suffix, with the *a* (the vowel *a* of the root-end); since it has the marker *i*, the augment *num*; *ato lopaḥ* gives the loss of the *a*; the *nighāta* accent of a verb-ending. ‖ 10 ‖
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> सुसंकाशा मातृमृष्टेव योषाविस्तन्वं कृणुषे दृशे कम् ।
+> भद्रा त्वमुषो वितरं व्युच्छ न तत्ते अन्या उषसो नशन्त ॥ ११ ॥
+
+> *susaṃkāśā mātṛmṛṣṭeva yoṣāvistanvaṃ kṛṇuṣe dṛśe kam |*
+> *bhadrā tvamuṣo vitaraṃ vyuccha na tatte anyā uṣaso naśanta ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> सुऽसंकाशा । मातृमृष्टाऽइव । योषा । आविः । तन्वम् । कृणुषे । दृशे । कम् ।
+> भद्रा । त्वम् । उषः । वितरम् । वि । उच्छ । न । तत् । ते । अन्याः । उषसः । नशन्त ॥ ११ ॥
+
+> *su 'saṃkāśā | mātṛmṛṣṭā 'iva | yoṣā | āviḥ | tanvam | kṛṇuṣe | dṛśe | kam |*
+> *bhadrā | tvam | uṣaḥ | vitaram | vi | uccha | na | tat | te | anyāḥ | uṣasaḥ | naśanta ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे उषोदेवि मातृमृष्टा मातृभिर्जननीभिः शुद्धीकृता योषेव सुसंकाशात्यर्थं प्रकाशमाना त्वं तन्वं स्वकीयां तनुं दृशे सर्वेषां दर्शनायाविः कृणुषे । प्रकटयसि । यथा लोके मात्रादिना स्वलंकृतात्यन्तं शोभना सती स्वकीयं लावण्योपेतं सर्वशरीरं दर्शनायाविष्करोति तद्वत्त्वमित्यर्थः । अत्र कमिति पादपूरणोऽत्र विशेषस्याभावात् शिशिरं जीवनाय कमिवत् । तथा च यास्काचार्यः । मिताक्षरेष्वनर्थकाः कमीमिदु इति । नि. १-९ । इति । यद्वा । कमिति सुखवचनः । सुखं यथा भवति तथाविष्कृणुष इत्यर्थः । हे उषः यत एवं करोषि अतो भद्रा कल्याणशीला स्तुत्या त्वं वितरं व्युच्छ । आवरकमन्धकारं विप्रकृष्टं यथा भवति तथा विवासय । अत्र यद्यपि विशेषो न श्रुतस्तथापि प्रकाशनिवर्त्यत्वात्परिहरणीयत्वाच्च विवासनीयं तम एवेति गम्यते । किंच ते तव तद्विवसनमन्या उषसोऽतीता आगामिन्यश्च न नशन्त । न व्याप्नुवन्ति । तथा व्युच्छेति भावः । नशतिर्व्याप्तिकर्मा । इन्नति नक्षतीति व्याप्तिकर्मसु पाठात् ॥
+
+> *he uṣodevi mātṛmṛṣṭā mātṛbhirjananībhiḥ śuddhīkṛtā yoṣeva susaṃkāśātyarthaṃ prakāśamānā tvaṃ tanvaṃ svakīyāṃ tanuṃ dṛśe sarveṣāṃ darśanāyāviḥ kṛṇuṣe | prakaṭayasi | yathā loke mātrādinā svalaṃkṛtātyantaṃ śobhanā satī svakīyaṃ lāvaṇyopetaṃ sarvaśarīraṃ darśanāyāviṣkaroti tadvattvamityarthaḥ | atra kamiti pādapūraṇo 'tra viśeṣasyābhāvāt śiśiraṃ jīvanāya kamivat | tathā ca yāskācāryaḥ | mitākṣareṣvanarthakāḥ kamīmidu iti | ni. 1-9 | iti | yadvā | kamiti sukhavacanaḥ | sukhaṃ yathā bhavati tathāviṣkṛṇuṣa ityarthaḥ | he uṣaḥ yata evaṃ karoṣi ato bhadrā kalyāṇaśīlā stutyā tvaṃ vitaraṃ vyuccha | āvarakamandhakāraṃ viprakṛṣṭaṃ yathā bhavati tathā vivāsaya | atra yadyapi viśeṣo na śrutastathāpi prakāśanivartyatvātpariharaṇīyatvācca vivāsanīyaṃ tama eveti gamyate | kiṃca te tava tadvivasanamanyā uṣaso 'tītā āgāminyaśca na naśanta | na vyāpnuvanti | tathā vyuccheti bhāvaḥ | naśatirvyāptikarmā | innati nakṣatīti vyāptikarmasu pāṭhāt ‖*
+
+*(Read from the image and compared with the OCR; the OCR's Devanagari is badly garbled in the middle ("tanvaṃ", "śiśiraṃ jīvanāya kamivat" are read from the image). A few words in the middle of the passage are small and doubtful, e.g. "mitākṣareṣv anarthakāḥ kam īm id u", and the numeral of the Nirukta reference, which I read as "1-9" ("೧-೯"; the OCR "१-९").)* "O goddess Uṣas, *mātṛmṛṣṭā* — purified by her mothers, the mothers who bore her — like a young woman (*yoṣā iva*), *susaṃkāśā* — shining exceedingly: you make your own body (*tanvam*) manifest for all to see (*dṛśe*). As in the world a woman well adorned by her mother and others, being exceedingly beautiful, reveals her whole body, full of loveliness, to be seen — so you: that is the sense. Here the word *kam* is merely a pāda-filler, since no special meaning is found — like *kam* in *śiśiraṃ jīvanāya kam*. And Yāska says: 'In the metres of limited syllables, [the particles] *kam, īm, id, u* are without meaning' (Ni. 1-9). Or else *kam* means 'happiness': you make [your body] manifest so that there is happiness. O Uṣas, since you do thus, therefore, auspicious and praiseworthy, *vitaraṃ vi uccha* — dispel (*vivāsaya*) the darkness that covers, so that it goes far. Although it is not stated here what is to be dispelled, it is understood to be darkness itself, since it is removed by light and must be got rid of. Moreover, this dispelling of yours — other dawns, past and future, *na naśanta* — do not reach it (do not pervade it); so *vi uccha*: that is the sense. The root *naś* has the sense of pervading, since it is read among the verbs of pervading: *innati, nakṣati*."
+
+### Printed p. 118  (PDF 139)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Uṣaḥ* — O goddess Uṣas; *mātṛmṛṣṭā* — adorned by her mother (made pure); *yoṣā iva* — like a woman; *susaṃkāśā* — exceedingly radiant; *tvam* — you; *tanvam* — (your) own body; *dṛśe* — for (everyone's) seeing; *kam* — so that it be pleasant; *āviḥ kṛṇuṣe* — you make manifest; (*ataḥ* — therefore); *bhadrā* — auspicious (therefore praiseworthy); (*tvam* — you); *vitaram* — the covering darkness; *vi uccha* — drive away; *te* — your; *tat* — that (work of dispelling the darkness); *anyāḥ atītāḥ ca anāgatāḥ ca uṣasaḥ* — other dawns, past and future; *na naśanta* — do not attain.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O goddess Uṣas, like a woman adorned by her mother, being of special radiance, you make your body to be seen (by all). Therefore, being auspicious (and praiseworthy), dispel the darkness that covers the world, in a manner that none of the dawns, past or future, can imitate.
+
+**Printed English (as printed):** *Radiant as a bride decorated by her mother, you willingly display your person to the view. Do you, auspicious Ushas, remove the investing (gloom), for other dawns than you do not disperse it.*
+
+**Special topics, Ṛk 11.**
+
+***mātṛmṛṣṭā yoṣā iva susaṃkāśā*** — *mātṛbhiḥ jananībhiḥ śuddhīkṛtā yoṣā iva atyantaṃ prakāśamānā. yathā loke mātrādinā svalaṅkṛtā atyantaṃ śobhanā satī svakīyaṃ lāvaṇyopetaṃ sarvaśarīraṃ darśanāyāviṣkaroti tadvat tvam ity arthaḥ.* A woman who has been prepared (or adorned) by her mother and other intimate women, a loving woman, being very beautiful, shows to others her body, full of loveliness, so that it comes within the sight of her beloved; so Uṣas too shows her form in front of the Sun — thus it is described.
+
+Yāska explains the word *yoṣā*: it is derived from the root *yu miśraṇe*, "*yoṣā yauteḥ*" (Ni. 3-15, as read by the OCR; the print "೩-೧೫"). The commentator (*vṛttikāra*) explains: *sā hi miśrayaty ātmānaṃ puruṣeṇa sākam* — a woman unites with a man in order to have union of bodies with him.
+
+### Printed p. 119  (PDF 140)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+***dṛśe kam*** — *atra kam iti pādapūraṇaḥ viśeṣasyābhāvāt śiśiraṃ jīvanāya kam iti vat | yadvā kam iti sukhavacanaḥ sukhaṃ yathā bhavati tathā āviṣkṛṇuṣe.* Here, because the word *kam* is an indeclinable, for want of any other special meaning it is, in one way, a mere pāda-filler; Sāyaṇa has explained it so. And Yāska:
+
+> अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रन्थेषु वाक्यपूरणा आगच्छन्ति पदेपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्धितेति
+
+> *atha ye pravṛtte 'rthe 'mitākṣareṣu grantheṣu vākyapūraṇā āgacchanti padepūraṇāste mitākṣareṣvanarthakāḥ kamīmiddhiteti*
+
+(Ni. 1-9, as printed "೧-೯", the shape in the image; read letter by letter, the last words doubtful.) Particles (indeclinables) used in sentences serve to fill out words. Since verses are bound by metres of measured syllables, the indeclinables *kam, īm, it, u* in them convey no meaning — so they are without meaning (*anarthaka*).
+
+> निष्टक्राः [?] भूरितोका वृकादिव । बिभ्यस्यन्तो वनाशिरे । शिशिरं जीवनाय कम् ॥
+
+> *niṣṭakrāḥ [?] bhūritokā vṛkādiva | bibhyasyanto vanāśire | śiśiraṃ jīvanāya kam ‖*
+
+(Ni. 1-[?]; the numerals "೧-೧೮" or similar are not clear to me.) In this quotation the word *kam* is, though it is absent, used without any purpose as if for the completion of the sense — thus an example is given.
+
+Moreover both words *kam* and *īm* are recorded among the names of water (Ni. 1-[?]4, numerals unclear), and *kam* is also recorded among the names of happiness (Ni. 3-[?]9, unclear). Following this explanation of Yāska, Sāyaṇa explains the word *kam* in the sense of happiness: Uṣas displays her own body to all in a manner that gives happiness — this is the second meaning.
+
+***bhadrā tvaṃ vyuccha*** — *kalyāṇaśīlā stutyā āvarakam andhakāraṃ viprakṛṣṭaṃ yathā bhavati tathā vivāsaya.* Since Uṣas is praised, she is prayed to destroy the dense darkness. Uṣas is described as the bringer of auspiciousness. Since Uṣas is always engaged in the act of bringing light, in the matter of the work of Uṣas there is no particular thing to be prayed for. Hence the addition (*upasaṃhāra*) is stated: of those past and future dawns pervading and destroying the covering darkness...
+
+### Printed p. 120  (PDF 141)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+***naśanta*** — *innati, nakṣati* — among these ten verbs of pervading, '*naśat*' is read (Ni. 3-10, as read by the OCR); so *naśanta* means 'they pervade'.
+
+**Vyākaraṇa-prakriyā (grammar page; noted briefly, numbers as read).** *susaṃkāśā* — root *kāśṛ dīptau*; since it belongs to the *pacādi* class, the suffix *aṭ*; *ṭāp* in the feminine; *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read by the OCR) gives the accent of the final member of the kṛt-compound; nominative singular. *mātṛmṛṣṭā* — *mātṛbhiḥ mṛṣṭā*; root *mṛjū śuddhau*; in the passive, *niṣṭhā* (Pā. 3-2-102) gives *kta*; *vraśca-bhrasja-…-ṣaḥ* (Pā. 8-2-36) gives *ṣa* for the root's *j*; *ṣṭutva* of the *t* of the ending following that; *tṛtīyā karmaṇi* (Pā. 6-2-48) gives the accent of the first member; then *ṭāp* in the feminine as before. *tanvam* — the word *tanu*; the accusative *am* following, *tanvādīnāṃ chandasy upasaṃkhyānam* gives *yaṇ*; the *yaṇ* stands at the place of the acute; since the ending follows it, *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. 8-2-4) gives the ending the *svarita*. *dṛśe* — root *dṛśir prekṣaṇe*; *dṛśe vikhye ca* (Pā. 3-4-11) records it as a *tumarthe* form in the Veda; since it ends in *e* and is a kṛdanta, *kṛnmejantaḥ* (Pā. 1-1-39) gives it the indeclinable designation. *bhadrā* — root *bhadi kalyāṇe sukhe ca*; the Uṇādi suffix *rak* (*bhadrā* nominative singular); final-acute by the accent of the suffix. *vitaram* — root *tṝ plavanataraṇayoḥ*; pacādi *aṭ*; guṇa and *raparatva* with that; in the compound *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the final member; the final member is final-acute by the suffix-accent. *uccha* — root *uchī vivāse*; loṭ second singular, *sip* with *hi* substituted; *ato heḥ* (Pā. 6-4-105) elides *hi*; the verb-accent *nighāta* after a non-verb.
+
+*naśanta* — root *naś adarśane*; here used in the sense of motion ('going'); recorded as *innati nakṣati* among the verbs of pervading. By *vyatyayo bahulam* the *ātmanepada* ending (Chāndasa) …
+
+### Printed p. 121  (PDF 142)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+…in the present sense, *laṅ* [?]; the third person plural *jhi* [rendered *ṅa/ṅi*, per the OCR "*ru*"] gets the substitute *anta* by *jhor jhantaḥ* [?]; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75) means the augment *aṭ* does not arise; since it follows a verb-ending the *nighāta* accent arises. ‖ 11 ‖
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अश्वावतीर्गोमतीर्विश्ववारा यतमाना रश्मिभिः सूर्यस्य ।
+> परा च यन्ति पुनरा च यन्ति भद्रा नाम वहमाना उषासः ॥ १२ ॥
+
+> *aśvāvatīrgomatīrviśvavārā yatamānā raśmibhiḥ sūryasya |*
+> *parā ca yanti punarā ca yanti bhadrā nāma vahamānā uṣāsaḥ ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> अश्वऽवतीः । गोऽमतीः । विश्वऽवाराः । यतमानाः । रश्मिऽभिः । सूर्यस्य ।
+> परा । च । यन्ति । पुनः । आ । च । यन्ति । भद्रा । नाम । वहमानाः । उषासः ॥ १२ ॥
+
+> *aśva 'vatīḥ | go 'matīḥ | viśva 'vārāḥ | yatamānāḥ | raśmi 'bhiḥ | sūryasya |*
+> *parā | ca | yanti | punaḥ | ā | ca | yanti | bhadrā | nāma | vahamānāḥ | uṣāsaḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अश्वावतीरश्ववत्यः बहुभिरश्वैस्तद्वत्यः । तथा गोमतीर्बहुभिर्गोभिस्तद्वत्यः । विश्ववारा विश्वे वारा वरणीयाः कालाः यासां ताः । सार्वकालीना इत्यर्थः । यद्वा । विश्वे वरितारो यासु ताः विश्ववाराः । विश्वैर्वरणीया इत्यर्थः । सूर्यस्य रश्मिभिर्यतमानाः सूर्यरश्मिभिः साकं तमोनिवारणाय प्रयत्नं कुर्वाणाः । यद्यपि सूर्यरश्मय एव जगत्प्रकाशनाय प्रभवन्ति तथापि सूर्योदयात्पूर्वं तमोनिवारणस्यापेक्षितत्वात्तासामपि प्रयत्नमविरुद्धम् । रश्मिदेवता अपि प्रकाशिका इत्यर्थः । किंच भद्रा भद्रं कल्याणं स्तुत्यं वा नाम नमनं सर्वजनानुकूल्यं वहमाना धारयमाणा उषास उषोदेवताः परा च यन्ति । परायन्ति च । तथा पुनरा च यन्ति । पुनरायन्ति च । परस्परापेक्षयोभयत्र चशब्दः । या एवातीतेषु दिनेषु गतास्ता एव पुनः पुनर्दिनान्तरेष्वस्माकमायन्तीति [?] । जगन्निर्वाहाय प्रतिदिनं गतागतं कुर्वन्तीत्यर्थः ॥
+
+> *aśvāvatīraśvavatyaḥ bahubhiraśvaistadvatyaḥ | tathā gomatīrbahubhirgobhistadvatyaḥ | viśvavārā viśve vārā varaṇīyāḥ kālāḥ yāsāṃ tāḥ | sārvakālīnā ityarthaḥ | yadvā | viśve varitāro yāsu tāḥ viśvavārāḥ | viśvairvaraṇīyā ityarthaḥ | sūryasya raśmibhiryatamānāḥ sūryaraśmibhiḥ sākaṃ tamonivāraṇāya prayatnaṃ kurvāṇāḥ | yadyapi sūryaraśmaya eva jagatprakāśanāya prabhavanti tathāpi sūryodayātpūrvaṃ tamonivāraṇasyāpekṣitatvāttāsāmapi prayatnamaviruddham | raśmidevatā api prakāśikā ityarthaḥ | kiṃca bhadrā bhadraṃ kalyāṇaṃ stutyaṃ vā nāma namanaṃ sarvajanānukūlyaṃ vahamānā dhārayamāṇā uṣāsa uṣodevatāḥ parā ca yanti | parāyanti ca | tathā punarā ca yanti | punarāyanti ca | parasparāpekṣayobhayatra caśabdaḥ | yā evātīteṣu dineṣu gatāstā eva punaḥ punardināntareṣvasmākamāyantīti [?] | jagannirvāhāya pratidinaṃ gatāgataṃ kurvantītyarthaḥ ‖*
+
+*(Read from the image; the OCR is garbled in this passage, e.g. "aśvāvaratsava". The words "asmākam" near the end are doubtful.)* "*Aśvāvatīḥ* — possessed of horses, possessing many horses; likewise *gomatīḥ* — possessed of many cows. *Viśvavārāḥ* — those whose times (*vārāḥ*) are choiceworthy for all, i.e. who belong to all times; or else those among whom all are choosers, i.e. choiceworthy by all. *Sūryasya raśmibhir yatamānāḥ* — striving together with the rays of the Sun to dispel darkness. Although the Sun's rays alone are able to illumine the world, still, since the dispelling of darkness is needed before sunrise, their effort too is not inconsistent: the deities of the rays too are illuminators, that is the sense. Moreover *bhadrā nāma vahamānāḥ* — bearing a name that is auspicious, praiseworthy, a bowing (*namanam*) favourable to all people — the Uṣases, the Uṣas deities, *parā ca yanti* — go away, and *punar ā ca yanti* — come back again; the word *ca* is in both places in view of each other. Those that have gone in past days are the very ones that come again to us on later days — so day by day they go and come for the maintenance of the world: that is the sense."
+
+---
+
+**Progress note:** Sūkta 123 through printed p. 121 (PDF 142): Ṛk 12 Saṃhitā/Pada/bhāṣya done; resume p. 122 (PDF 143) with Ṛk 12 Pratipadārtha/Bhāvārtha/English.
