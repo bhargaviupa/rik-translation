@@ -497,4 +497,189 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 Ṛk 1 complete through printed p. 10 (PDF 31; the Ṛk 1 grammar page was just noted). Next: Ṛk 2 from printed p. 11 (PDF 32, Saṃhitā "sa paṭṭaḥ …" — to be read from the image). Printed page = PDF − 21. Open: `[?]` on several Ṛk-reference numerals pp. 7–9 (2-3?-?, 1-151-4, 2-27-10, 2-28-?, 2-2-4); the Śa. Brā. four-part reference on p. 8; Uṇ. Sū. 1-29 and Pā. 8-3-60 on p. 10 read with the OCR (see text).
+
+### Printed p. 11  (PDF 32)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Grammar page, continued (Ṛk 1, noted briefly).** *Iṣudhyā iva* — *iṣavaḥ dhīyante 'tra iti iṣudhiḥ* (a quiver); the root *dhā dhāraṇapoṣaṇayoḥ*, the suffix *ki* in the locative sense by *karmaṇy adhikaraṇe ca*; the loss of the root's *ā* when *ki* (a *kit* suffix) follows by *ato lopa iṭi ca* (Pā. Sū. 6-4-64); the *kṛt*-accent of the latter member by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139 as I read it; the OCR has "6-2-19"); and since in the instrumental the ā is replaced by *yaṇ* … the ending takes the acute by *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-174). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> पत्नीव पूर्वहूतिं वावृधध्या उषासानक्ता पुरुधा विदाने ।
+> स्तरीर्नात्कं व्युतं वसाना सूर्यस्य श्रिया सुदृशी हिरण्यैः ॥ २ ॥
+
+> *patnīva pūrvahūtiṃ vāvṛdhadhyā uṣāsānaktā purudhā vidāne |*
+> *starīrnātkaṃ vyutaṃ vasānā sūryasya śriyā sudṛśī hiraṇyaiḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> पत्नीऽइव । पूर्वऽहूतिम् । ववृधध्यै । उषासानक्ता । पुरुधा । विदाने इति ।
+> स्तरीः । न । अत्कम् । विऽउतम् [?] । वसाना । सूर्यस्य । श्रिया । सुऽदृशी । हिरण्यैः ॥ २ ॥
+
+> *patnī 'iva | pūrva 'hūtim | vavṛdhadhyai | uṣāsānaktā | purudhā | vidāne iti |*
+> *starīḥ | na | atkam | vi 'utam [?] | vasānā | sūryasya | śriyā | su 'dṛśī | hiraṇyaiḥ ‖ 2 ‖*
+
+*(The Saṃhitā reads* vāvṛdhadhyā *and the Pada* vavṛdhadhyai *as printed; the Pada's *vi-utam* is read with doubt.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> पत्नीव पत्नी यथा पूर्वहूतिं पत्युः पूर्वाह्वानं ववृधध्यै वर्धयितुं शीघ्रगतिर्भवति तद्वदुषासानक्ताहोरात्रे देवते अपि पुरुधा बहुप्रकारं बहुविधैः स्तोत्रैर्विदाने ज्ञायमाने सत्यौ पूर्वहूतिं ववृधध्यै अस्मदीयं पूर्वाह्वानं वर्धयितुं शीघ्रमागच्छतमिति शेषः । यद्वा । ववृधध्यै अस्मद्वर्धनाय पुरुधा बहुप्रकारं विदाने वर्धनोपायो ज्ञानत्यौ [?] भवतमिति शेषः ॥ उषासानक्ता । उषासोषसः (पा. ६-३-३१) इति पूर्वपदस्योषासादेशः । देवताद्वन्द्वे चेत्युभयपदप्रकृतिस्वरत्वम् ॥ अथ केवलोषा उच्यते । स्तरीः शत्रूणां हिंसकस्तेजसा
+
+> *patnīva patnī yathā pūrvahūtiṃ patyuḥ pūrvāhvānaṃ vavṛdhadhyai vardhayituṃ śīghragatirbhavati tadvaduṣāsānaktāhorātre devate api purudhā bahuprakāraṃ bahuvidhaiḥ stotrairvidāne jñāyamāne satyau pūrvahūtiṃ vavṛdhadhyai asmadīyaṃ pūrvāhvānaṃ vardhayituṃ śīghramāgacchatamiti śeṣaḥ | yadvā | vavṛdhadhyai asmadvardhanāya purudhā bahuprakāraṃ vidāne vardhanopāyo jñānatyau [?] bhavatamiti śeṣaḥ ‖ uṣāsānaktā | uṣāsoṣasaḥ (pā. 6-3-31) iti pūrvapadasyoṣāsādeśaḥ | devatādvandve cetyubhayapadaprakṛtisvaratvam ‖ atha kevaloṣā ucyate | starīḥ śatrūṇāṃ hiṃsakastejasā*
+
+Like a wife who hastens to increase (*vavṛdhadhyai*) her husband's first call (*pūrvahūti*, the first summons), so, you two deities Night and Day (*uṣāsānaktā*), who are known (*vidāne*) in many ways (*purudhā*) by many kinds of praises, come quickly to increase our first summons — that is what must be supplied. Or else: "*vavṛdhadhyai*, for our increase, knowing (*vidāne*) the many means of increase, be [ours]". *Uṣāsānaktā*: by *uṣāsoṣasaḥ* (Pā. 6-3-31, as printed) the first member is replaced by *uṣāsā*; by *devatādvandve ca* both members keep their own accent. Now Dawn alone is spoken of: *starīḥ* — the destroyer of enemies by her radiance, …
+
+### Printed p. 12  (PDF 33)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* 
+
+> चैन्नो [?] वादित्यः स इव हिरण्यैर्हिरण्यवर्णै रश्मिभिर्वृतं निततं विशेषेण सम्बद्धमत्कमत्कं [?] सन्ततं वा रूपं वसानाच्छादयन्ती धारयन्ती सूर्यस्य श्रिया शोभया सुदृशी शोभनं दृश्यमाना सूर्यस्य पुरोगामिनी रश्मिभिः खल्वेषा जगद्वासयति । तादृश्युषा अस्मत्पूर्वहूतिं पालयत्वित्यर्थः । यद्वा । हिरण्यैर्हितरमणीयैः प्रकाशैर्धनविशेषैर्वा सहागच्छतु ॥ व्युतं । वेञो निष्ठायां वचिस्वपीत्यादिना सम्प्रसारणम् । स्तरीः । अवितृस्तृ [?] … इतीकारप्रत्ययः ॥
+
+> *cainno [?] vādityaḥ sa iva hiraṇyairhiraṇyavarṇai raśmibhirvṛtaṃ nitataṃ viśeṣeṇa sambaddhamatkamatkaṃ [?] santataṃ vā rūpaṃ vasānācchādayantī dhārayantī sūryasya śriyā śobhayā sudṛśī śobhanaṃ dṛśyamānā sūryasya purogāminī raśmibhiḥ khalveṣā jagadvāsayati | tādṛśyuṣā asmatpūrvahūtiṃ pālayatvityarthaḥ | yadvā | hiraṇyairhitaramaṇīyaiḥ prakāśairdhanaviśeṣairvā sahāgacchatu ‖ vyutaṃ | veño niṣṭhāyāṃ vacisvapītyādinā samprasāraṇam | starīḥ | avitṛstṛ [?] … itīkārapratyayaḥ ‖*
+
+(The beginning of this passage — *"… [she is] like the Sun, with golden (*hiraṇyaiḥ*) rays, covered (*vṛtam*) …"* — is read from the first words of the line; *ced no [?] vāditya*… is doubtful.) The sense: "like the Sun, with golden-coloured rays, a form (*atkam*, i.e. *atkam* = a covering or *saṃtatam*, "extended") covered, extended, joined in a special way; wearing (*vasānā*, covering, bearing) the beauty (*śriyā*, with the splendour) of the Sun, well-seen (*sudṛśī*), seen beautifully, going before the Sun — she, by her rays, makes the world dwell (*jagad vāsayati*). Such a Dawn, may she protect our first summons — that is the sense. Or else: let her come together with golden, i.e. beneficial and delightful lights or special treasures." *Vyutam*: from the root *ve*(*ñ*) with the *niṣṭhā* suffix, *saṃprasāraṇa* by *vacisvapi…*. *Starīḥ*: the suffix *ī* by *avitṛstṛ…* [?] — the grammatical tail, only characterised.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Uṣāsānaktā* — O Day and Night; *purudhā* — [known] by manifold (praises); *vidāne* — [you who are] to be known; *patnī iva* — like a wife (hastening, accepting her husband's first call); *pūrvahūtim* — the first call; *vavṛdhadhyai* — to increase, [come] quickly; [or: *vavṛdhadhyai* — for our welfare; *purudhā vidāne* — you who know the means (of increase); *patnī iva* — like a wife; *pūrvahūtim* — (our) first prayer (aiming at it) come;] *starīḥ na* — like Sūrya, who is of excellent power (the destroyer of enemies); *hiraṇyaiḥ* — with golden-coloured (rays) or with wealth; *vṛtam* — joined in a special way (possessed); *atkam* — the form; *vasānā* — wearing (and); *sūryasya śriyā* — with the lustre of the Sun; *sudṛśī* — the Dawn of lovely form; *(pūrvahūtim* — may she accept our first prayer).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Day and Night! You who are known by many praises, as a wife accepts her husband's first call and comes quickly, accept our first, early praise in the form of an invocation, so that we may prosper (and, knowing the various means of increase for us, accept our first call). And may the Dawn too, lovely in form, and — as the Sun does — endowed with golden rays, wearing the lustre of the Sun and pervading the sky, accept our first invocation.
+
+**Printed English (as printed):** *Animated by our deversified [sic] praise, hasten, Morning and Night, to attend to our first invocation, as a wife (to the first call of her husband); and may the Dawn, beautiful with the lustre of the (rising) Sun, and robing, like the Sun (her) vast expanse with golden rays, (come to our early rite).*
+
+### Printed p. 13  (PDF 34)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
+
+In this ṛk the beauty of the forms of Night and Dawn and their nature as benefactors are described, and their grace is prayed for. Comparing them to a wife shows their affection and sense of ownership. In the first half of this ṛk two kinds of construction are possible. First:
+
+***purudhā vidāne vavṛdhadhyai*** — *bahuprakāraṃ bahuvidhaiḥ stotrair jñāyamāne* — "you who are known by many kinds of praises"; and second:
+
+***vavṛdhadhyai*** — "for our welfare"; ***purudhā*** — by many kinds of ways; ***vidāne*** — "you who know [them]" — so the meaning is. Dawn and Night are, through the succession of the days, the cause of food and other wealth for men, and of joy and comfort. *Vājinīvatī* (giver of food), *sumnāvarī* (giver of comfort), *sūnṛtāvatī* (giver of pleasant words) and similar epithets that point to the nature of Dawn are recorded in the Nirukta as synonymous names of Dawn (2-18, as printed). Since Night and Dawn are the controllers of the whole world in every respect, the second meaning is more fitting.
+
+***patnī iva*** — Here, in the simile, beauty, possession and a sense of ownership are suggested. Comparing the character of Dawn to a lovely woman is a custom; and she is described as one who calls out to the children as a mother, and to the elders as a wife.
+
+***starīḥ*** — *śatrūṇāṃ hiṃsakaḥ; tejasā ācchannor vā ādityaḥ* — "the destroyer of enemies; or the Sun covered with radiance". The word *starī* has been explained as "the destroyer of enemies, or the Sun pervaded by splendour". Ordinarily *starī* means a [cow] that is useless, not giving fruit.
+
+For example:
+
+> स्तरीरु त्वद्भवति सूत उ त्वद्यथावशं तन्वं चक्र एषः ।
+
+> *starīru tvadbhavati sūta u tvadyathāvaśaṃ tanvaṃ cakra eṣaḥ |*
+
+(Ṛ. Saṃ. 7-101-3, as read — the reader's OCR is garbled here — the Parjanya verse.) In this ṛk the nature of Parjanya is described. One part of him is compared to a barren cow. Just as a barren cow gives no milk, so he is compared, when it is said "not giving rain", and for the word *starīḥ* Sāyaṇa has given the meaning *nivṛttaprasavā gauḥ*, "a cow that has ceased to bear". In just the same way:
+
+> स्तरीर्यत्सूत सद्योऽज्यमाना व्यथिरव्यः कृणुत स्वगोपा ।
+
+> *starīryatsūta sadyo 'jyamānā vyathiravyaḥ kṛṇuta svagopā |*
+
+(Ṛ. Saṃ. 10-31-10 [?], as read.) In this ṛk too the same meaning follows. In the Taittirīya Saṃhitā…
+
+### Printed p. 14  (PDF 35)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+> कदा चन स्तरीरसीत्याह न स्तरीं रात्रिं वसति ।
+
+> *kadā cana starīrasītyāha na starīṃ rātriṃ vasati |*
+
+(Tai. Saṃ. 1-5-8, as printed; the reader's OCR gives the same.) In this sentence, for the words *starīṃ rātrim* Sāyaṇa has given the sense "night full of thieves and scorpions and so on"; Bhaṭṭabhāskara has given the sense *starīṃ chādayitrīṃ vināśayitrīṃ rātrim* — "the destroying (night)". That is, the traditional meaning there too is "that which destroys benefit, or is useless". In just the same way in the ṛk in hand also *starīḥ śatrūṇāṃ hiṃsakaḥ*: "destroyer of enemies", the Sun that makes the enemies' effort fruitless, may be said.
+
+***atkaṃ vasānā*** — *rūpaṃ vasānā*: "wearing a form" — i.e. a lovely form; this word is used in many ṛks describing the Dawn (Ṛ. Saṃ. 6-29-3; 10-95-8 etc., as read, may be seen). *Sūryasya purogāminī raśmibhiḥ khalv eṣā jagad vāsayati* — Born before the Sun, with golden rays, she awakens and illumines the world — that is the sense.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Patnīva* — *patyur no yajñasaṃyoge* (Pā. Sū. 4-1-33), the *nuk* augment and the suffix *ṅīp* in the feminine; accent by the *p* of the suffix. *Pūrvahūtim* — the root *hveñ spardhāyām* …, *striyāṃ ktin* (Pā. Sū. 3-3-94), *saṃprasāraṇa*, lengthening by *halaḥ* (Pā. Sū. 6-4-2); accusative singular. *Vavṛdhadhyai* — the root *vṛdhu vṛddhau*; the sense of the infinitive (*tumartha*) by *tumarthe sesenasen…* (Pā. Sū. 3-4-9), the suffix *kadhyai*; *āgamānuśāsanam anityam* — so the augment (*rīk* etc.) is not added to the reduplicative syllable; since the suffix begins with an acute, the *dhai* gets the acute; *kṛn mejantaḥ* (Pā. Sū. 1-1-39) — the indeclinable designation; *avyayād āp supaḥ* (Pā. Sū. 2-4-82) — *luk* of the case endings. *Uṣāsānaktā* — *uṣā ca naktaṃ ca*; *uṣasaḥ …*: *uṣasoṣasaḥ* (Pā. Sū. 6-3-31) — the substitute *uṣāsā* in the first member; *supāṃ sulug…* (Pā. Sū. 7-1-39 [?] as read; the OCR has "3-1-39") — the ending is replaced by *ā*; *devatādvandve ca* (Pā. Sū. 6-2-41) — both members keep their own accent. (Only the sūtra names and numbers legible in the print are given.)
+
+### Printed p. 15  (PDF 36)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Grammar page, continued (Ṛk 2, noted briefly).** *Starīḥ* — the root *stṛ̥ ācchādane*, the suffix *ī* by *avitṛstṛtantribhyaḥ ī* (Uṇ. Sū. 4-438, as printed); taking that as the cause, guṇa of the root's *ṛ* by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84); *ra*-accent; because it ends in a consonant, the *su* is dropped by *hal̥ṅyābbhyo…*; the final udātta by the suffix's accent. *Vyutam* — the prefix *vi*; the root *veñ tantusantāne*; the suffix *kta* in the passive by *niṣṭhā* (Pā. Sū. 3-2-102); because it is *kit*, with that as the cause *saṃprasāraṇa* by *vacisvapiyajādīnāṃ kiti* (Pā. Sū. 6-1-15), *pūrvarūpa* by *saṃprasāraṇācca*; the *i* of the prefix becomes *y* by *yaṇ*; by *gatir anantaraḥ* (Pā. Sū. 6-2-49) the prefix (*vi*) gets the acute; and the udātta *i* followed by an anudātta is replaced by *yaṇ*, and by *udāttasvaritayor yaṇaḥ* (Pā. Sū. 8-2-4) the following anudātta becomes svarita. *Vasānā* — the root *vasa ācchādane*, the suffix *śānac*; by *bahulaṃ chandasi* the *śap* is not elided [lopped] (*luk*); since *lasārvadhātuka* follows, the root accent remains by *tāsyanudāttet* (Pā. Sū. 6-1-186); in the feminine, *ṭāp* because it ends in *a*; nominative singular. *Sūryasya* — *suvati karmaṇi lokaṃ preryati iti sūryaḥ*; the root *sū preraṇe*, of the *tudādi* class; formed by *rājasūyasūrya…* (Pā. Sū. 3-1-114). *Śriyā* — the instrumental singular; the ending gets the udātta by *sāvekācaḥ* (Pā. Sū. 6-1-168). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> ममत्तु नः परिज्मा वसर्हा ममत्तु वातो अपां वृषण्वान् ।
+> शिशीतमिन्द्रापर्वता युवं नस्तन्नो विश्वे वरिवस्यन्तु देवाः ॥ ३ ॥
+
+> *mamattu naḥ parijmā vasarhā mamattu vāto apāṃ vṛṣaṇvān |*
+> *śiśītamindrāparvatā yuvaṃ nastanno viśve varivasyantu devāḥ ‖ 3 ‖*
+
+### Printed p. 16  (PDF 37)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+**॥ पदपाठः ॥**
+
+> ममत्तु । नः । परिज्मा । वसर्हा । ममत्तु । वातः । अपाम् । वृषण्वान् ॥
+> शिशीतम् । इन्द्रापर्वता । युवम् । नः । तत् । नः । विश्वे । वरिवस्यन्तु । देवाः ॥ ३ ॥
+
+> *mamattu | naḥ | parijmā | vasarhā | mamattu | vātaḥ | apām | vṛṣaṇvān ‖*
+> *śiśītam | indrāparvatā | yuvam | naḥ | tat | naḥ | viśve | varivasyantu | devāḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> नोऽस्मान्वसर्हा वसनार्हो गार्हपत्यादिरूपेण । यद्वा । वासकानामाच्छादकानां वृष्ट्यादीनां हन्ताग्निः । अथवा । वसर्हा वासरो वासरस्य गमयिता । परिज्मा परितो गन्तादित्यो ममत्तु । मादयतु । तथापां वृष्ट्युदकानां वृषण्वान् वर्षयिता वृष्ट्यादिप्रदको [?] वातो वायुरस्मान्ममत्तु । किञ्च हे इन्द्रापर्वता । इन्द्रः प्रसिद्धः । पर्वतः पर्ववान् वृष्ट्यादिपूरणवान्पर्जन्यः । तौ युवं युवां नोऽस्मानस्मद्बुद्धिं वा शिशीतं तीक्ष्णीकुरुतम् । कोधयतम् [?] इत्यर्थः । तत्र स्मात् यस्मादहं सर्वान्देवान् स्तौमि तस्माद्विश्वे सर्वेऽपि देवा नोऽस्माकं वरिवस्यन्तु । प्रभूतमन्नं प्रदातुमिच्छन्तु । सम्यक् [?] अन्नप्रदानेन प्रीणयन्तित्यर्थः ॥
+
+> *no 'smānvasarhā vasanārho gārhapatyādirūpeṇa | yadvā | vāsakānāmācchādakānāṃ vṛṣṭyādīnāṃ hantāgniḥ | athavā | vasarhā vāsaro vāsarasya gamayitā | parijmā parito gantādityo mamattu | mādayatu | tathāpāṃ vṛṣṭyudakānāṃ vṛṣaṇvān varṣayitā vṛṣṭyādipradako [?] vāto vāyurasmānmamattu | kiñca he indrāparvatā | indraḥ prasiddhaḥ | parvataḥ parvavān vṛṣṭyādipūraṇavānparjanyaḥ | tau yuvaṃ yuvāṃ no 'smānasmadbuddhiṃ vā śiśītaṃ tīkṣṇīkurutam | kodhayatam [?] ityarthaḥ | tatra smāt yasmādahaṃ sarvāndevān staumi tasmādviśve sarve 'pi devā no 'smākaṃ varivasyantu | prabhūtamannaṃ pradātumicchantu | samyak [?] annapradānena prīṇayantityarthaḥ ‖*
+
+*(The remainder of the bhāṣya is the grammatical tail — *mamattu*: the root *madī harṣe*, with the sense of the causative included, in the *loṭ* the Vedic *śluḥ* in place of the vikaraṇa; reduplication; *śiśītam*: … *ī hal̥ghoḥ* …; *indrāparvatā*: by *devatādvandve ca* the former member gets *ānaṅ* — only characterised, not transcribed.)*
+
+May Agni, the wearer of garments (? — *vasarhā*, the one worthy of dwelling, in the form of the Gārhapatya and so on), delight us; or Agni the slayer of the covering rains and so on; or Āditya, who makes the day go; may the one who goes all round (*parijmā*) delight us; and the Wind (*vāta*), rainer (*vṛṣaṇvān*) of waters, giver of rain and so on, delight us. And, O Indra and Parvata (Indra the well known; Parvata — the cloud *parjanya* who has the filling of the rain, etc.), you two sharpen us, or our minds; therefore, since I praise all the gods, may all the gods [grant] us abundant food, wishing to give it — that is, may they please us by generously giving food.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Naḥ* — to us; *vasarhā* — Agni, [who is in] Gārhapatya and other forms (the destroyer of the covering rains and so on); (*vasarhā* — the one who makes the days go); *parijmā* — the one who moves all around (Āditya); *mamattu* — may he delight [us]; (*tathā* — likewise); *apām* — of the waters (the rain); *vṛṣaṇvān* — the one who makes it rain; *vātaḥ* — the wind; *mamattu* — may he delight (us), (and); *he indrāparvatā* — O Indra and (the one who is full of rain and the like) Parjanya; *yuvam* — you two; *naḥ* — our (minds), or (us); *śiśītam* — sharpen (or purify); *tat* — therefore (since I praise all the gods); *viśve devāḥ* — all the gods; *naḥ* — to us; *varivasyantu* — may they give abundant food.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** May Agni, in the forms Gārhapatya and so on, or the destroyer of the covering rains — and also the Āditya who moves everywhere (the lord of the days) — delight us; and may the Wind that makes the rain delight us; and O Indra and Parjanya, who are (full of rain and so on), purify our minds; may all the gods [being praised by us] graciously give us abundant food.
+
+### Printed p. 17  (PDF 38)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Printed English (as printed):** *May the circumambient divinity, the wearer of various forms, grant us delight; May the wind, the shedder of rain, grant us delight; do you, Indra and Parvata, sharpen our (intellects), and may all the gods show us favour and grant us abundant food.*
+
+*(The printed English reads "circumambient divinity. the wearer" with a full stop after "divinity" as printed.)*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 3.**
+
+***vasarhā*** — *vasanārho gārhapatyādirūpeṇa | yadvā vāsakānām ācchādakānāṃ vṛṣṭādīnāṃ hantā agniḥ | athavā vasarhā vāsaro vāsarasya gamayitā parijmā parito gantā ādityaḥ.* "Agni, who takes on many forms such as the Gārhapatya, or the Agni who destroys the clouds [and so on] that cover, or the Āditya who makes the days pass (*vasarhā*, the one who destroys the darkness at the time of dawn?)" — this is what Sāyaṇa says. On this same ṛk, in the Taittirīya Saṃhitā (2-1-11), Bhaṭṭabhāskara explains:
+
+> वसर्हा-अग्निहोत्रकरणाभिमुखस्थानार्हो वसनार्हः (पृषोदरादित्वात् न [?] शब्दो लुप्यते) यद्वा छादयित्रीणां काष्ठादीनां हन्ता अग्निः । यद्वा वासरस्य गमयिता आदित्य उच्यते ॥
+
+> *vasarhā-agnihotrakaraṇābhimukhasthānārho vasanārhaḥ (pṛṣodarāditvāt na [?] śabdo lupyate) yadvā chādayitrīṇāṃ kāṣṭhādīnāṃ hantā agniḥ | yadvā vāsarasya gamayitā āditya ucyate ‖*
+
+(Tai. Saṃ. 2-1-11, as printed; the OCR reads the same.) That is, either Agni of the sacrificial house or Āditya; either way the meaning is fitting here.
+
+***vṛṣaṇvān*** — *varṣaṇavān vṛṣṭyutpādakaḥ*: "the one who produces rain" — "wind", says Sāyaṇa; *apāṃ vṛṣā varṣitā parjanyaḥ tadvān vātaḥ* — "the wind accompanied by Parjanya who showers rain"; so too Bhaṭṭabhāskara (Tai. Saṃ. 2-1-11).
+
+***indrāparvatā*** — *indraḥ prasiddhaḥ | parvataḥ parvavān vṛṣṭyādipūraṇavān parjanyaḥ* — Sāyaṇa explains *parvata* as the deity Parjanya. Bhaṭṭabhāskara has said that the word *parvataḥ* is also the word *saṃvatsara* (year) — "*parvatas saṃvatsara-ity ete*" [as read, `[?]`]. Whichever sense is taken, it is clear that here the word *parvata* is a synonym of a deity who is to be worshipped. Since this word is used in many places as a synonym of *śatru* (enemy), etc., and it is said "by splitting the *parvata* Indra sent the rain", etc., it is proper to discuss this usage here.
+
+### Printed p. 18  (PDF 39)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* The use of the word *parvata* is found most in the Sūktas of Indra and the Maruts. The ordinary meaning of it is "mountain (hill)"; but it is common that here it is used as a synonym of "cloud (*megha*)". The Nirukta writer has said: 
+
+> पर्वतः पर्ववान्पर्वतः । पर्व पुनः पृणातेः प्रीणातेर्वा । मेघोऽपि गिरिरेतस्मादेव ।
+
+> *parvataḥ parvavānparvataḥ | parva punaḥ pṛṇāteḥ prīṇātervā | megho 'pi giriretasmādeva |*
+
+(Ni. 1-20, as printed.) *Parvata* from *parvavān*, "having joints"; and *parva*, from the root *pṛ* "to fill" (*pṛṇāti*) or from the root *prī* "to please": thus from the word *parva*, formed from the roots that mean "to fill" or "to please", the word *parvata* is explained as mountain (hill) or cloud (*megha*). The sense of this etymology gives either the idea of filling the region where the mountain is, or the idea of satisfying beings (with the rain and so on). Here one should notice that *parvata* is an obstructing thing and also a benefactor.
+
+Ordinarily the struggle of Indra with the Asuras and with the mountains may be called a struggle of lights with darknesses.
+
+> वि चिद्वृत्रस्य दोधतो वज्रेण शतपर्वणा । शिरो बिभेद वृष्णिना ॥
+
+> *vi cidvṛtrasya dodhato vajreṇa śataparvaṇā | śiro bibheda vṛṣṇinā ‖*
+
+(Ṛ. Saṃ. 8-6-6 [?], as read; the OCR is garbled.) In this ṛk, with the thunderbolt that has a hundred joints (*parvans*) and is made of rays, the Asura who is in the form of darkness and a coverer was destroyed. From such examples, words such as *vṛtra* show the darkness-nature that covers the world, and the word *parvata* too may be said to enter into that same darkness. Moreover, if one gives merely the ordinary meaning "hill" or "cloud", the full sense in harmony with the context will not be given. For, by the destruction of *parvata* he released the cows and the waters that had been hidden; and he made the Sun and the Dawn manifest — thus the work is fourfold. Therefore if *parvata* is taken simply as "cloud", that is not in harmony with the context.
+
+> अदर्दरुत्समसृजो वि खानि त्वमर्णवान्बद्बधानाँ अरम्णाः ।
+> महान्तमिन्द्र पर्वतं वि यद्वः सृजो वि धारा अव दानवं हन् ॥
+
+> *adardarutsamasṛjo vi khāni tvamarṇavānbadbadhānā~ aramṇāḥ |*
+> *mahāntamindra parvataṃ vi yadvaḥ sṛjo vi dhārā ava dānavaṃ han ‖*
+
+(Ṛ. Saṃ. 5-32-1 [?], as read in the small type; the OCR is garbled.) In this ṛk also — *"Śiśuṃ nadīnāṃ harim adribudhnam"* —
+
+> शिशुं नदीनां हरिमद्रिबुध्नमिति गिरिर्वा अद्रिर्गिरिबुध्ना ॥
+
+> *śiśuṃ nadīnāṃ harimadribudhnamiti girirvā adrirgiribudhnā ‖*
+
+(Śa. Brā. 7-3-2-15 [?], as read — a four-part reference in the small type, doubtful.) In this Brāhmaṇa sentence too, the words *parvata* and *megha* have a sense that is extraordinary and not of the world, as is shown …; this is a dark mass (*tamorāśi*) in the form of a mountain, and of the heavenly region …
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 18 (PDF 39): Ṛks 1–3 done; Ṛk 3 Special Topics (*parvata* discussion, Nirukta 1-20) in progress — continues on p. 19 (PDF 40, "ವೆಂದೂ, ಉದಕವನ್ನೂ ಗೋವನ್ನೂ ಮರೆಸಿಕೊಂಡಿರುವುದಾಗಿಯೂ…"). Printed page = PDF − 21. Ṛk 2's Saṃhitā begins "patnīva pūrvahūtiṃ vāvṛdhadhyā …". Open: `[?]` on Ṛk references pp. 7–9, 13, 17–18 where the OCR is garbled (8-6-6, 5-32-1, Śa. Brā. 7-3-2-15 etc.); Uṇ. Sū./Pā. numbers on pp. 10, 14 partly as read with the OCR.
