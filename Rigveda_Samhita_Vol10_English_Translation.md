@@ -7075,4 +7075,116 @@ Since the day (*ahas*) arises from a particular motion of the Sun, and is a part
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 272 (PDF 293): Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done, grammar (*yajiṣṭham*) begun; resume p. 273 (PDF 294). Page images PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264, 270 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 273  (PDF 294)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+*(Grammar of Ṛk 2, continued; noted briefly, numbers as read by the OCR and the page.)* *yajamānāḥ* — the root as before; *śānac* in the laṭ sense, *śap*; *āne muk* (Pā. 7-2-82) gives *muk* to the stem in *a*; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* makes it unaccented, so the root-accent remains. *huvema* — root *hveñ spardhāyāṃ śabde ca*; liṅ first person plural, *mas*; *nityaṃ ṅitaḥ* elides its *s*; *śap*; the augment *yāsuṭ* …; *iyaṅ*-substitution; *loponyoḥ* [print: "ಲೋಪೋವೋರ್ವ್ಯೋಃ"] elides the *y*; guṇa; *bahulaṃ chandasi* (Pā. 1-1-34 [?]) gives *saṃprasāraṇa*; by *vyatyaya* the *uvaṅ* substitution; *tiṅ-nighāta*. *jyeṣṭham* — *atiśayena praśasyaḥ jyeṣṭhaḥ*; when *iṣṭhan* comes in the sense of excess, *jya ca* (Pā. 5-3-61) gives *jya* for *praśasya*; since *prakṛtyaikāc* gives *prakṛtibhāva*, the *ā*-elision does not occur; guṇa; since the suffix has the marker *n*, first-syllable acute; accusative singular. *manmabhiḥ* — root *mana jñāne*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75) gives *manin*; since *n*-marked, first-syllable acute; instrumental plural. *viprebhiḥ* — *vipra* + *bhis*; since *bahulaṃ chandasi* applies, *bhis* does not become *ais*; by the *jhal* rule, *e* in the plural. *parijmānam* — *pari jāyate iti parijmā*; recorded as formed with *kanin* (Uṇ. 1-[?]), accusative singular. *carṣaṇīnām* — final-acute by the *prātipadika* accent; *nāmany atarasyām* [print: *nāmanyatarasyām*] (Pā. 6-1-177) gives the acute to the case-ending (genitive plural). *avantu* — root *ava rakṣaṇe*; loṭ third person plural; *tiṅ-nighāta*. *jūtaye* — *ūtijūtisātihetiḥ…* (Pā. 3-3-97) records the form formed with *ktin* as acute; dative singular. ‖ 2 ‖
+
+#### Ṛk 3
+
+### Printed p. 274  (PDF 295)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ संहितापाठः ॥**
+
+> स हि पुरू चिदोजसा विरुक्मता दीद्यानो भवति द्रुहन्तरः ।
+> परशुर्न द्रुहन्तरः ।
+> वीळु चिद्यस्य समृतौ श्रुवद्वनेव यत्स्थिरम् ।
+> निःषहमाणो यमते नायते धन्वासहा नायते ॥ ३ ॥
+
+> *sa hi purū cidojasā virukmatā dīdyāno bhavati druhantaraḥ |*
+> *paraśurna druhantaraḥ |*
+> *vīḷu cidyasya samṛtau śruvadvaneva yatsthiram |*
+> *niḥṣahamāṇo yamate nāyate dhanvāsahā nāyate ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । हि । पुरु । चित् । ओजसा । विरुक्मता । दीद्यानः । भवति । द्रुहःऽतरः ।
+> परशुः । न । द्रुहःऽतरः ।
+> वीळु । चित् । यस्य । सम्ऽऋतौ । श्रुवत् । वना ऽइव । यत् । स्थिरम् ।
+> निःऽसहमानः । यमते । न । आयते । धन्वऽसहा । न । आयते ॥ ३ ॥
+
+> *saḥ | hi | puru | cit | ojasā | virukmatā | dīdyānaḥ | bhavati | druhaḥ 'taraḥ |*
+> *paraśuḥ | na | druhaḥ 'taraḥ |*
+> *vīḷu | cit | yasya | sam 'ṛtau | śruvat | vanā 'iva | yat | sthiram |*
+> *niḥ 'sahamānaḥ | yamate | na | āyate | dhanva 'sahā | na | āyate ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> स हि स एव पूर्वं स्तुत एवाग्निर्विरुक्मता विशेषेण रोचनवता ओजसा ज्वालारूपेण बलेन पुरु चित् अत्यधिकमेव दीद्यानो दीप्यमानो द्रुहन्तरो द्रोग्ध्ऋणां तरिता निवारयिता भवति । अस्मासु द्रोहं कुर्वतां शत्रूणां हिंसको भवतीत्यर्थः । तत्र दृष्टान्तः । द्रुहन्तरः द्रुमाणां छेदनाय प्रयुक्तः परशुर्न परशुरिव । स यथा द्रुमं हिनस्ति तथायमपि । किंच यस्याग्नेः समृतौ संगतौ संयोगे वीळु चित् दृढमपि पाषाणादिकं श्रुवत् गच्छेत् क्षीयेत । तथा यत्स्थिरं पर्वतादि स्थिरमचलितं तदपि श्रुवत् । वीळिति दृढनाम वीळु च्छौतमिति तन्नामसु पाठात् । तत्र दृष्टान्तः । वनेव उदकमिव । उदकं यथाग्निसंयोगे शुष्यति तथेत्यर्थः । अत्यन्तदृढं स्थिरमपि हिनस्ति । अस्मद्द्रोग्धॄणामग्न्यादिरूपं शत्रुं हिंसतीति किमुतवक्तव्यमित्यभिप्रायः । किंचायमग्निर्निःषहमाणः शत्रून्नितरामभिभवन् यमते । उपरमते । शत्रुषु मध्ये क्रीडति । तानेव नाशयति । कथं कुर्वन्नायते । न गच्छति । शत्रोः सकाशात्पलायते । तत्र दृष्टान्तः । धन्वसहा न । धनुषा शत्रूनभिभवतीति धान्वष्कः । सहतेरसुन् छान्दसोऽन्त्यलोपः । स यथा शत्रुमभिमुखं विध्यति न पलायते तद्वदित्यर्थः । यद्वा । दृढधनुर्वहनक्षमो धन्वसहः । अस्मिन्पक्षे पचाद्यच् । सुपां सुलुगित्याकारः । दृढधन्वा सन्नायते न चलति ॥
+
+> *sa hi sa eva pūrvaṃ stuta evāgnirvirukmatā viśeṣeṇa rocanavatā ojasā jvālārūpeṇa balena puru cit atyadhikameva dīdyāno dīpyamāno druhantaro drogdhṛṇāṃ taritā nivārayitā bhavati | asmāsu drohaṃ kurvatāṃ śatrūṇāṃ hiṃsako bhavatītyarthaḥ | tatra dṛṣṭāntaḥ | druhantaraḥ drumāṇāṃ chedanāya prayuktaḥ paraśurna paraśuriva | sa yathā drumaṃ hinasti tathāyamapi | kiṃca yasyāgneḥ samṛtau saṃgatau saṃyoge vīḷu cit dṛḍhamapi pāṣāṇādikaṃ śruvat gacchet kṣīyeta | tathā yatsthiraṃ parvatādi sthiramacalitaṃ tadapi śruvat | vīḷiti dṛḍhanāma vīḷu cchautamiti tannāmasu pāṭhāt | tatra dṛṣṭāntaḥ | vaneva udakamiva | udakaṃ yathāgnisaṃyoge śuṣyati tathetyarthaḥ | atyantadṛḍhaṃ sthiramapi hinasti | asmaddrogdhṝṇāmagnyādirūpaṃ śatruṃ hiṃsatīti kimutavaktavyamityabhiprāyaḥ | kiṃcāyamagnirniḥṣahamāṇaḥ śatrūnnitarāmabhibhavan yamate | uparamate | śatruṣu madhye krīḍati | tāneva nāśayati | kathaṃ kurvannāyate | na gacchati | śatroḥ sakāśātpalāyate | tatra dṛṣṭāntaḥ | dhanvasahā na | dhanuṣā śatrūnabhibhavatīti dhānvaṣkaḥ | sahaterasun chāndaso 'ntyalopaḥ | sa yathā śatrumabhimukhaṃ vidhyati na palāyate tadvadityarthaḥ | yadvā | dṛḍhadhanurvahanakṣamo dhanvasahaḥ | asminpakṣe pacādyac | supāṃ sulugityākāraḥ | dṛḍhadhanvā sannāyate na calati ‖*
+
+*(Read from the image; checked against the OCR. The Nirukta citation "vīḷu cautam" is as printed and doubtful.)* "*Sa hi* — that same Agni praised before, with *virukmatā* — specially shining — *ojasā*, might in the form of flame, *puru cit* — most abundantly, *dīdyānaḥ* — blazing — *druhantaraḥ* — he becomes the one who crosses over, who wards off, those who injure (*drogdhṛṇām*): the destroyer of enemies who do harm to us. An illustration: *paraśur na druhantaraḥ* — like an axe used for cutting trees; as it destroys the tree, so he too. Moreover, *yasya samṛtau* — at whose contact, *vīḷu cit* — even the hard stone and the like *śruvat* — goes, wastes away; and likewise whatever is firm, a mountain and the like, immovable, also [wastes away]. (*Vīḷu* is a word for 'hard': '*vīḷu cautam*' is read among those names.) An illustration: *vaneva* — like water; as water dries up on contact with fire, so [they waste]. He destroys even the very hard and firm; what then need be said of enemies, in the form of fire and the rest, of those who harm us? That is the intention. Moreover, this Agni, *niḥṣahamāṇaḥ* — overpowering enemies, *yamate* — stays [amid them], sports among enemies; he destroys them. How does he act? *Nāyate* — he does not go; he does not flee from the enemy. An illustration: *dhanvasahā na* — as the one who overcomes enemies with the bow, an archer; *sahas*… the suffix *asun*, the last letter dropped in the Veda; as he, facing the foe, shoots and does not flee, so [Agni]. Or else *dhanvasaha* is one capable of bearing a strong bow; here the suffix *ac* in the *pacādi* sense; the augment *ā* by *supāṃ sulug*. Being one with a strong bow he does not go, does not waver."
+
+### Printed p. 275  (PDF 296)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yasya* — of which Agni; *saṃṛtau* — at the contact; *vīḷu cit* — even the very hard (mountains and the like); *yat sthiram (tat ca)* — whatever is firm (other things, whatever they are); *vaneva* — like water (as water is dried up by contact with fire); *śruvat* — go to destruction; *sa hi* — that Agni, praised before; *virukmatā* — specially shining; *ojasā* — with the strength in the form of flame; *puru cit* — most abundantly; *dīdyānaḥ* — blazing; *druhantaraḥ* — used for the destruction of enemies; *paraśuḥ na* — like an axe; *druhantaraḥ* — the destroyer of (our) enemies; *bhavati* — becomes; (*kiṃ ca* — moreover; *ayam agniḥ* — this Agni); *niḥsahamānaḥ* — wholly defeating the enemies; *yamate* — plays [among them] (destroys them); *yathā* — as; *dhanvasahā* — a hero who overcomes enemies as the bearer of a bow; *na āyate* — does not flee from enemies; (*tathā* — so); *na āyate* — does not run away (stays firm).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** In contact with Agni even the very hard and immovable mountains and the like, like water [dried by fire], perish; the same Agni, like an axe used to cut the enemies, shining especially with his flames, destroys our enemies; defeating them completely, he plays among them; like a hero bearing a bow, he does not flee, but stands firm.
+
+**Printed English (as printed):** *Verily, that Agni, far shining with brilliant vigour, is the destroyer of foes, like a hatchet that cuts down trees : whatever is most solid and stable dissolves like water at his contact : unsparing, he sports (amidst enemies), nor desists (from their destruction), like an archer who retreats not (from battle).*
+
+### Printed p. 276  (PDF 297)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 3.**
+
+In this ṛk there are three sentences: (1) *sa dīdyānaḥ druhantaraḥ paraśur na druhantaraḥ*; (2) *yasya saṃṛtau vīḷu cid yat sthiraṃ vaneva śruvat*; (3) *niṣṣahamāṇaḥ yamate dhanvasahā na nāyate nāyate*.
+
+In the first sentence the word *druhantaraḥ* is used twice. For this word the meaning "one who destroys" is explained. By this it is said that Agni, shining abundantly, destroys even those who do harm to sacrificers, or enemies, or makes them submerged. In this matter, by the second *druhantaraḥ* an illustration is cited: as the axe that is used for cutting down trees destroys them, so Agni too, it is compared, destroys like the axe.
+
+***puru*** — this word is recorded among the twelve names of "many" (Ni. 3-13 [?]); it gives the meaning "much".
+
+***cit*** — the author of the Nirukta records this word among the particles, explaining *cid iti ... anekakarmā* [as printed "ಚಿದಿತ್ಯೇಷೋऽನೇಕಕರ್ಮಾ", Ni. 1-4]: (the indeclinable *cit* conveys many meanings); *ācāryaḥ cid idaṃ brūyāt iti pūjāyām* — in the sentence "the teacher may say this" *cit* means respect; and in *caturdaśadamānāt* (Ni. 3-[?]) [as printed] *cit* is a word of comparison.
+
+> चिदिति निपातोऽनुदात्तः । अथापि पशुनामेह भवत्युदात्तः ॥
+
+> *ciditi nipāto 'nudāttaḥ | athāpi paśunāmeha bhavatyudāttaḥ ‖*
+
+(Ni. 5-[?] as printed.) *(Read letter by letter; the second half is doubtful.)* The indeclinable *cit* is used with an unaccented tone and is a sign of an unaccented sense; but when accented it conveys an animal [name, *cit* ... ]. In *sadyaś cid yaḥ śavasā pañca kṛṣṭīḥ* *cit* is a sign of the unaccented tone; in *cid asi manāsi dhīr asi* it is a sign of the accented tone; thus they say.
+
+In the second sentence it is explained that even the hard stones and the like, merely through contact with Agni, dissolve [or: waste away]; the mountain that is exceedingly strong and the like are made soft; as water is dried by contact with Agni: so he gives the example. By this illustration it is said that Agni is a wonder of capacity in destroying the enemies or the injurers of those who have performed the sacrifice, who cause difficulty to the firm mountain and (rock).
+
+***vīḷu*** — the meaning is "hard"; the word *vīḷu* is recorded in the twenty-eight names of strength: *vīḷu cautam* (Ni. 2-[?]).
+
+### Printed p. 277  (PDF 298)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+***vaneva*** — Sāyaṇa explains this as "like water". Yāska has recorded the word *vana* also among the names of rays (Ni. 1-[?]5 [as printed "೧-೧೫"? doubtful]) —
+
+> नियश्वश्नक्षि श्वसनस्य मूर्धनि कुष्ठस्य चिद्वनिनो रोरुवद्वना ॥
+
+> *niyaśvaśnakṣi śvasanasya mūrdhani kuṣṭhasya cidvanino roruvadvanā ‖*
+
+*(Read letter by letter; the first words are small and I cannot confirm them: I give the pāda as printed in the Kannada, "niyaśvaśnakṣi …", unverified.)* (Ṛ. Saṃ. 1-[?]-[?], as printed "೧-೫೪-೫"?) — in this ṛk the word *vanā* is explained as *vanāni udakāni*, "waters".
+
+> मेद्यन्तु ते वह्नयो येभिरीयसेऽरिषण्यन्वनस्पते ।
+> आयूया धृष्णो अभिगूर्या त्वं नेष्ट्रात्सोमं द्रविणोदः पिब ऋतुभिः ॥
+
+> *medyantu te vahnayo yebhirīyase 'riṣaṇyanvanaspate |*
+> *āyūyā dhṛṣṇo abhigūryā tvaṃ neṣṭrātsomaṃ draviṇodaḥ piba ṛtubhiḥ ‖*
+
+(Ṛ. Saṃ. 2-37-3 [?], as printed "೨-೩೭-೩"; the first words are doubtful in my reading.) Citing this ṛk, in explaining the word *vanaspate* — *vanaspatir ity eṣa hi vanānāṃ pātā vā pālayitā vā vanaṃ vanoteḥ* — he explains that the word *vana*, derived from the root *van* meaning "to ask", conveys the meaning "forest".
+
+In the third sentence it is described: *nāyate* — Agni does not flee, does not run in fear from enemies when they come against him; *niṣṣahamāṇaḥ yamate* — he, overcoming the enemies greatly and sporting in their midst, destroys them.
+
+And here, in this matter, the illustrative sentence *dhanvāsahā nāyate nāyate* is cited. The word *dhanvasaha* is used here. For *dhanvasaha* the meaning is *dhanuṣā śatrūn abhibhavati iti dhānuṣkaḥ* — "since he overcomes enemies by the bow, a bearer of a bow as weapon"; or, in the second explanation, "one who is able to bear a strong bow". By this Agni is compared to a hero who, bearing a bow or bearing a strong bow and fighting, does not move away from enemies but stays firm, facing them, or who, bending the bow firmly, fights without moving.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; noted briefly, numbers as read by the OCR and page).** *puru* — *nipātasya ca* (Pā. 6-3-136) lengthens the final vowel in the Saṃhitā. *virukmatā* — *viśiṣṭā ruk virukmā*, *tadvān virukmān*; when *matup* comes, since *ayasmayādīni* (Pā. 1-4-20) read it as having *pada* status, there is no *kutva*, and since it is *bha* there is no *jaś*-saṃdhi; instrumental singular. *dīdyānaḥ* — root *dīdī dīptidevanayoḥ*; this is a *sautra* root; by *vyatyaya* *śānac*; since it follows the *upadeśa* it is unaccented, so the root-accent remains.
+
+### Printed p. 278  (PDF 299)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*druhantaraḥ* — *drogdhṛṇāṃ taritā druhantaraḥ*; root *tṝ plavanataraṇayoḥ*; *saṃjñāyāṃ bhṛtvṛjidhārisahitapidamaḥ* [print: "ಸಂಜ್ಞಾಯಾಂ ಭೃತ್ಯ…", Pā. 3-2-46] gives the suffix *khac*; with it as cause guṇa of the root vowel; the form *tara*; from *druha jighāṃsāyām* — since it has *it* [penultimate], *igupadhajñāprīkirakaḥ* (Pā. 3-1-135) gives *ka*; *lakṣaṇe*… *aruddviṣad-ajantasya mum* (Pā. 6-3-67) gives the augment *mum* to the preceding word; *gatikārakopapadāt kṛt* gives the accent of the final member. *paraśuḥ* — *paraṃ śṛṇāti iti paraśuḥ*; root *śṝ hiṃsāyām*; *ājjaraśaraṇikhaniśyabhyāṃ ḍiccha* [print: "ಆಜ್ಜಪರಯೋಃ ಖನಿಕ್ಷ್ಯಭ್ಯಾಂ ಡಿಚ್ಚ", Uṇ. 1-[?]] gives *ku* ; by *ḍit* the *ṭi* of the root is elided; final-acute by the suffix accent. *śruvat* — root *śru śru gatau*; Bhvādi; leṭ third person singular *tip*; *itaś ca lopaḥ* (Pā. 3-4-97) elides *i*; *leṭo 'ṭāṭau* (Pā. 3-4-94) gives *aṭ*; *śap*; by the rule "*saṃjñāpūrvako vidhir anityaḥ*" no guṇa; *ācchinnu…* gives *uvaṅ* [*śruvaḥ*]; the form *śruvat*; since *yat* is connected, no *nighāta*; the root-accent remains. *vanā iva* — *supāṃ sulug…* (Pā. 7-1-39) gives *ā* to the ending. *niṣṣahamāṇaḥ* — root *saha marṣaṇe*; *śānac* in the place of *laṭ*; *śap*; *āne muk* gives *muk* to the stem in *a*; *tāsyanudāttet* makes the *sārvadhātuka* unaccented and the root-accent remains; in the *prādi* compound the accent of the final member. *yamate* — root *yama uparame*; laṭ third person singular; *tiṅ-nighāta* after a non-verb word. *āyate* — root *aya paya gatau*; laṭ third person singular; *tiṅ-nighāta*. *dhanvasahā* — root *saha marṣaṇe*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *sarvadhātubhya asun* gives *asun*; in the Veda the end of the root (*ha*) is dropped; since *n*-marked, first-syllable acute; in the compound the accent of the final member. In the second explanation, *ac* after *nandigrahapacādibhyaḥ* (Pā. 3-1-134); *supāṃ sulug…* gives *ā* to the case-ending. ‖ 3 ‖
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 278 (PDF 299): Ṛks 1–3 complete (‖ 3 ‖); resume p. 279 (PDF 300) with Ṛk 4 Saṃhitā. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264, 270, 276–277 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
