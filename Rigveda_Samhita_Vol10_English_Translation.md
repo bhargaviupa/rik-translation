@@ -13725,4 +13725,120 @@ Although the epithet *niyutvān* is generally more used of Vāyu, in some places
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛk 2 written through the start of its Special Topics (p. 574, which breaks off after the first entry *vāyo tvā indavaḥ mandantu*); resume p. 575, PDF 596; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 575  (PDF 596)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+***indavaḥ*** — *undanaśīlāḥ sarvaṃ jagad amṛtamayena kledayitāraḥ* — "that which wets the whole world with a nectar-like essence": that is, "Soma-juices that satisfy all, the gods and the rest, with an essence of the nature of nectar".
+
+***mandinaḥ*** — *mādayitāraḥ*: this shows the nature of Soma-juices that cause joy. The meaning has to be given in agreement with this attribute.
+
+*Mandī mandateḥ stutikarmaṇaḥ* (Ni. 4-[?], as read "೪-೩೮" [?]) — derived from the root *mand*, which has the meaning "to praise", it shows the sense "worthy of praise, and of worship". The Nirukta-author takes the Ṛk —
+
+> प्र मन्दिने पितुमदर्चता वचो यः कृष्णगर्भा निरहन्नृजिश्वना ।
+> अवस्यवो वृषणं वज्रदक्षिणं मरुत्वन्तं सख्याय हवामहे ॥
+
+> *pra mandine pitumad arcatā vaco yaḥ kṛṣṇagarbhā nirahann ṛjiśvanā |*
+> *avasyavo vṛṣaṇaṃ vajradakṣiṇaṃ marutvantaṃ sakhyāya havāmahe ‖*
+
+(Ṛ. Saṃ. 1-101-1 [as read].) — and gives the meaning of the word *mandine* [as above]. Durgācārya explains: *mandine mandanīyāya stutyāya stutimate vā indrāya*.
+
+*Matsaraḥ somo mandateḥ tṛptikarmaṇaḥ* (Ni. 2-[?], as read "೨-೫" [?]) — "*matsara* from the root *mand*, meaning to satisfy"; the use of the word *matsara* is explained at the same time. Because the root *mand* has both these meanings, the author of the Nirukta, in the Ṛk —
+
+> प्र वो महे मन्दमानायान्धसोऽर्चा विश्वानराय विश्वाभुवे ।
+> इन्द्रस्य यस्य सुमखं सहो महि श्रवो नृम्णं च रोदसी सपर्यतः ॥
+
+> *pra vo mahe mandamānāyāndhaso 'rcā viśvānarāya viśvābhuve |*
+> *indrasya yasya sumakhaṃ saho mahi śravo nṛmṇaṃ ca rodasī saparyataḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-1, as read "೧೦-೩೦-೧" [?].) — explains the word *mandamānāya* by synonyms: *modamānāya, stūyamānāya, śabdāya mānāyeti vā* — "the one who is delighted, or the one who is praised, or the one who is prayed to" (Ni. 11-[?], as read "೧೧-೧"). Besides this, in the explanation of these meanings he has included, among the names of "shining" (Ni. 2-[?]) and of "worship" [as read: *arcati karma*] (Ni. 3-[?]), the word *mandate*, which is also derived from the root *mand*. In the present Ṛk it means: "Soma-juices that gladden".
+
+***krāṇāsaḥ, krāṇāḥ*** — the word is used three times in this Ṛk. Yāska explains: "*krāṇāḥ kurvāṇāḥ*" (Ni. 4-[?], as read "೪-೧೯" [?]).
+
+***krāṇāsaḥ svakāryaṃ harṣādikaṃ kurvāṇāḥ*** — "those that produce satisfaction": this is an attribute of *indavaḥ*.
+
+### Printed p. 576  (PDF 597)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+***krāṇāḥ*** (the second) — *gobhiḥ mantrarūpābhir vāgbhiḥ kriyamāṇāḥ hūyamānāḥ* — "being prayed for by the Ṛks in the form of mantras": here too it is shown to be an attribute of *indavaḥ*.
+
+***krāṇāḥ*** (the third) — *svavyāpāraṃ rathavāhanādikaṃ kurvāṇāḥ* — "doing their own tasks, such as drawing the chariot": this is an attribute of the horses.
+
+***sadhrīcīnāḥ*** — *tvayā sahāñcantaḥ yugapad gacchantaḥ* — "going together at the same time": the inseparable connexion of the horses called *niyut* with Vāyu, and the unbroken companionship of the others, is well shown by this word. In the same way, the connexion between Indra and the Maruts, between the Aśvins, and between day and night is shown to be fixed companionship, by this word:
+
+> पदे इव निहिते दस्मे अन्तस्तयोरन्यद्गुह्यमाविरन्यत् ।
+> सध्रीचीना पथ्या सा विषूची महद्देवानामसुरत्वमेकम् ॥
+
+> *pade iva nihite dasme antas tayor anyad guhyam āvir anyat |*
+> *sadhrīcīnā pathyā sā viṣūcī mahad devānām asuratvam ekam ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?], as read "೩-೩೯-೩" [?].) Here, by the words *sadhrīcīnā pathyā* the "day and night" are said to be the path in the form of time which unites together. This is one kind of companionship.
+
+> उभा उ नूनं तदिदर्थयेथे वि तन्वाथे धियो वस्त्रापसेव ।
+> सध्रीचीना यातवे प्रेमजीगः सुदिनेव पृक्ष आ तंसयेथे ॥
+
+> *ubhā u nūnaṃ tad idarthayethe vi tanvāthe dhiyo vastrāpaseva |*
+> *sadhrīcīnā yātave prem ajīgaḥ sudineva pṛkṣa ā taṃsayethe ‖*
+
+(Ṛ. Saṃ. 10-106-1 [as read].) Here the mutual relation of the Aśvins, and their going always together, is indicated.
+
+> कृणोत्स्मै वरिवो य इत्थेन्द्राय सोममुषते सुनोति ।
+> सध्रीचीनेन मनसाविवेनन्तमित्सखायं कृणुते समत्सु ॥
+
+> *kṛṇotsmai varivo ya itthendrāya somam uṣate sunoti |*
+> *sadhrīcīnena manasāvivenantam it sakhāyaṃ kṛṇute samatsu ‖*
+
+(Ṛ. Saṃ. 4-24-6 [as read].) In this, *sadhrīcīnena manasā* ("with a united mind") indicates the devotion of the sacrificer: the relationship of the gods who are worshipped, with the sacrificer, that does not separate from him, from the mind fixed on Indra, loving him without interruption, without being attached to others.
+
+***iradhyai*** — *prāpayituṃ paricarituṃ vā* — derived from the root *īr* "to go", it shows the purpose: "to bring you [Vāyu], or to wait on you" is the meaning [text continues on p. 577].
+
+### Printed p. 577  (PDF 598)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Continuing:)* …*Iradhyati, vidhema* are given in the Nirukta as *iradhyatiḥ paricaraṇakarmā* ("*iradhyati* is a verb of service") — and, citing that authority, Sāyaṇa explains that the word *iradhyai* means service (*paricaraṇa*), the purport being "to serve". [In the Nirukta there is a different reading, *irajyati vidhema*.] Discussing the root of this word, the scholar Monier Williams, in his Dictionary, says:
+
+"*The inf* ಇರಧ್ಯೈ [*iradhyai*] *(R. VI. 134-2) is by B. R. D. (Bohtlingk & Roths, Dictionary) referred to this form, and regarded as a shortened form for* ಇರಧ್ಯೈ [sic; the printed second form is different in the Kannada print and is not legible to me [?]]; *but Sayana refer to* ईर्" [i.e. *īr*].
+
+That is: the opinion of that scholar is that it is from the root *rādh-saṃsiddhau*, whence *iradhyai* means "to worship" (*ārādhnoti* = *arcati*). For that he has given the support of another lexicon. Sāyaṇa explains it as derived from the root *īr*.
+
+***abhidyavaḥ*** — this word is used twice. First: *sukṛtā abhidyavaḥ* — "because they are purified, shining all round" — as an adjective of the word *indavaḥ*. Second: *gobhiḥ krāṇā abhidyavaḥ* — "because they are purified by mantras, they shine all round, and are powerful" — it means the Soma-juices.
+
+*Abhidyavaḥ* is a technical word. It indicates either the sacrificial times, or the times connected with the Soma-juices.
+
+> प्र वो वाजा अभिद्यवो हविष्मन्तो घृताच्या ।
+> देवाञ्जिगाति सुम्नयुः ॥
+
+> *pra vo vājā abhidyavo haviṣmanto ghṛtācyā |*
+> *devāñ jigāti sumnayuḥ ‖*
+
+(Ṛ. Saṃ. 3-27-1 [as read].) In this, he explains "*abhito dyavo divasā yeṣv ity abhidyavo 'rdhamāsāś ca*" and by *abhidyavaḥ* explains "half-months": [and]
+
+> प्र वो वाजा इत्याह मासा वै वाजा अर्धमासा अभिद्यवः ।
+
+> *pra vo vājā ity āha māsā vai vājā ardhamāsā abhidyavaḥ |*
+
+(Taittirīya Saṃhitā 3-3-2-4 [as read].) — in the Taittirīya Saṃhitā "*vāja*" is said to be "months" and *abhidyavaḥ* "half-months"; the previous Ṛk Ṛ. Saṃ. 3-27-1 is taken and explained. But,
+
+> विद्मा हि त्वा अभिद्यवः शिप्राः शीर्षन् हिरण्ययीः ।
+> शुभ्रा वि अञ्जत श्रिये ॥
+
+> *vidmā hi tvā abhidyavaḥ śiprāḥ śīrṣan hiraṇyayīḥ |*
+> *śubhrā vy añjata śriye ‖*
+
+(Ṛ. Saṃ. 8-2-[?], as read "೮-೨-೨೩" [?]; the first words of the quotation are doubtful [?].) In many such Ṛks, the word is meant as *abhigatadīptayaḥ*, "shining all around"; so in the present Ṛk too it means "shining Soma-juices".
+
+### Printed p. 578  (PDF 599)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+***gobhiḥ*** — *mantrarūpābhir vāgbhiḥ* — "by words of mantra-form". *Ilā, gauḥ* (Ni. 1-[?], as read "೧-೧೧" [?]) and so on are among the names of *vāc*; the word *go* has other meanings besides, such as *pṛthivī* (earth), which were explained in other contexts. Or [it is explained as] *gobhiḥ krāṇāḥ*; *gobhir gavyais tair āhavanīyaṃ pratyānetṛbhiḥ hūyamānāḥ* — "being poured by those who bring them, the cow-products, to the *āhavanīya* fire": thus another meaning also is said for the present Ṛk, "the Soma-juices (*indavaḥ*)".
+
+***dhiyaḥ*** — *karmavanto buddhimanto vā ṛtvijo yajamānā vā* — "the priests or sacrificers, possessed of rites or of intelligence": the many meanings of the word *dhī* were explained before.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; numbers as printed).** *mandantu* — root *madi stutimodamadasvapnakāntigatiṣu*; *vyatyayo bahulam* (Pā. 3-1-85 [as read]) gives Parasmaipada; *idito num dhātoḥ* gives the *num* augment; *loṭ* third person plural; as it is at the beginning of a pāda, the *nighāta* accent does not occur; since the *lasārvadhātuka* is *anudātta* by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 [as read]), the root's accent remains. *mandinaḥ* — [with the root] mentioned above, the suffix *ini* in the sense of *tācchīlya* [habit]; the first vowel of the suffix gets the udātta. *indavaḥ* — root *undī kledane*; *undeḥ ic cādeḥ* (Uṇ. 1-[?], as read "೧-೧೩" [?]) gives the suffix *un*; *i* for the first [vowel]; nominative plural. *krāṇāsaḥ* — root *ḍukṛñ karaṇe*; *śānac* for *laṭ*; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; *yaṇ* substitution; *āṅ-kuṭ-* [?] (Pā. 8-4-[?]) gives *ṇatva* of the *n*; *cita* (Pā. 6-1-163 [as read]) gives the final udātta; since *jas* follows, *ājjaser asuk* gives the *asuk* augment. *sukṛtāḥ* — *gatir anantaraḥ* (Pā. 6-2-49 [as read]) gives the *gati* (*su*) the *nighāta* [sic: prakṛti-svara]. *iradhyai* — *īra gatau*; when it takes the sense of the infinitive (*tumarthe*), *tumarthe sesenasenasen…* (Pā. 3-4-9 [as read]) gives the *kadhyai* suffix; the root has the short vowel by Vedic usage; since the suffix has the *k*-marker, the *laghūpadha guṇa* of the root does not occur; the suffix's first vowel is udātta.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛk 2 written through p. 578 (Special Topics complete; grammar of the first words *mandantu … iradhyai* on p. 578, the grammar continues on p. 579); resume p. 579, PDF 600; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
