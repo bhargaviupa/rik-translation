@@ -12684,4 +12684,86 @@ The Niruktakāra reads the word *rāti* among the ten names of the acts of givin
 
 ---
 
-**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 527 (PDF 548): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā…English and Special Topics written; resume p. 528 (PDF 549; images in w10f/) with the Ṛk 5 grammar, then Ṛk 6 (last). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 pp. 502–503; Ṛk 2 pp. 507–508, 511; Ṛk 3 pp. 514–518; Ṛk 4 pp. 520, 522; Ṛk 5 bhāṣya p. 524–525); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 528  (PDF 549)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; numbers as printed).** *īkṣayat* — root *īkṣa darśane*; after the *ṇic*-ending the Vedic *laṅ* in the present sense; by *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75) no augment *aṭ*; third person singular; because *yad* is connected, no *nighāta*; the *ṇic*-accent remains. *hite* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; suffix *kta*; *dadhāter hiḥ* (Pā. 7-4-42) gives *hi* to the root; acute on the last syllable by the suffix; locative singular. *taruṣanta* — root *taruṣa* [as read] is used in the sense of killing; by Vedic usage *luṅ*; third person plural, *ant* substituted; by *vyatyaya* *cli* gets *aj*; by Vedic usage no augment *aṭ*; or the root *tṝ plavanataraṇayoḥ*, with the Vedic *luṅ* as before; by *vyatyaya* the *u*, *sip*, *śap* — thus three *vikaraṇas*; because it follows a finite verb *nighāta* does not occur. *śravasyavaḥ* — after the word *śravas*, in the sense of *ātmecchā*, *kyac*; after the *kyac*-ending *u*; acute on the last syllable by the suffix; nominative plural. *yakṣanta* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *chandasi luṅlaṅliṭaḥ* gives *luṅ* in the present sense; by *vyatyaya* *cli* is replaced by *ksa*; *ant* replaces *jhi*; *vraścabhrasja…* (Pā. 8-2-36) gives *ṣ* for *j*; *ṣaḍhoḥ kaḥ si* (Pā. 8-2-41) gives *k* for it; because of that *ṣatva* of the *s*; *ato guṇe* gives *pararūpa*; by Vedic usage no augment; because it follows a finite verb, *nighāta*. *bādhe* — root *bādhṛ viloḍane*; *kṛtyārthe tavaikenkeny…* (Pā. 3-4-14) gives *kenan*; the *e* is left [as read]; *ñnityādir nityam* gives the acute on the first syllable; because it ends in *e*, *kṛnmejantaḥ* (Pā. 1-1-39) gives the name of an indeclinable. *arcanti* — root *arca pūjāyām*; *laṭ* third person plural; *tiṅ-nighāta*. *okyam* — *oka* means "place"; *yat* in the proper sense; *yasyeti ca* drops the *a*; *tit svaritam* (Pā. 6-1-185) gives the *svarita* accent. *dadhiṣanta* — root *dhiṣa śabde*; since roots have many meanings, here used in the sense of holding; *juhotyādi*; by Vedic usage *luṅ* in the present sense; third person plural
+
+### Printed p. 529  (PDF 550)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Grammar, concluded.)* *…* [the suffix] *ant* by the substitute; by *vyatyaya* the *ṛ*… doubling of the root; because it is *j*-marked [as read] no guṇa of the penult; by *bahulaṃ chandasy amāṅyoge 'pi* no augment *aṭ*; *tiṅ-nighāta*. *accha* — *nipātasya ca* (Pā. 6-3-136) gives the long vowel. ‖ 5 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 6 — (the last)
+
+**॥ संहितापाठः ॥**
+
+> युवं तमिन्द्रापर्वता पुरोयुधा यो नः पृतन्यादप तंतमिद्धतं वज्रेण तंतमिद्धतम् ।
+> दूरे चत्ताय च्छन्त्सद्गहनं यदिनक्षत् ।
+> अस्माकं शत्रून्परि शूर विश्वतो दर्मा दर्षीष्ट विश्वतः ॥ ६ ॥
+
+> *yuvaṃ tamindrāparvatā puroyudhā yo naḥ pṛtanyādapa taṃtamiddhataṃ vajreṇa taṃtamiddhatam |*
+> *dūre cattāya cchantsadgahanaṃ yadinakṣat |*
+> *asmākaṃ śatrūnpari śūra viśvato darmā darṣīṣṭa viśvataḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> युवम् । तम् । इन्द्रापर्वता । पुरःऽयुधा । यः । नः । पृतन्यात् । अप ।
+> तम्ऽतम् । इत् । हतम् । वज्रेण । तम्ऽतम् । इत् । हतम् ।
+> दूरे । चत्ताय । छन्त्सत् । गहनम् । यत् । इनक्षत् ।
+> अस्माकम् । शत्रून् । परि । शूर । विश्वतः । दर्मा । दर्षीष्ट । विश्वतः ॥ ६ ॥
+
+> *yuvam | tam | indrāparvatā | puraḥ 'yudhā | yaḥ | naḥ | pṛtanyāt | apa |*
+> *tam 'tam | it | hatam | vajreṇa | tam 'tam | it | hatam |*
+> *dūre | cattāya | chantsat | gahanam | yat | inakṣat |*
+> *asmākam | śatrūn | pari | śūra | viśvataḥ | darmā | darṣīṣṭa | viśvataḥ ‖ 6 ‖*
+
+*(Read from the image. In the Saṃhitā's second line the print "*dūre cattāya chantsad gahanaṃ yad inakṣat*" is partly doubtful ("*cattāya*", "*chantsat*"): given as printed [?]; the Pada divides *chantsat*, *inakṣat*. The upper half of Ṛk 6 is addressed to Indra and Parvata, the second half to Indra alone.)*
+
+**॥ सायणभाष्यम् ॥** *(begins at the foot of p. 529; read from the image).*
+
+> अविवाक्येऽहनि मानसग्रहभक्षणानन्तरं नक्षत्रेषु दृश्यमानेष्वध्वर्युप्रमुखाः सर्वे युवं तमिन्द्रैकेषां जपेयुः । गार्हपत्ये जुष्टस्तीति खण्डे सूत्रितम् । युवं तमिन्द्रापर्वता पुरोयुधेति जपन्तः । ऋ. ८-१३ [?] इति ॥
+
+> *avivākye 'hani mānasagrahabhakṣaṇānantaraṃ nakṣatreṣu dṛśyamāneṣvadhvaryupramukhāḥ sarve yuvaṃ tamindraikeṣāṃ japeyuḥ | gārhapatye juṣṭastīti khaṇḍe sūtritam | yuvaṃ tamindrāparvatā puroyudheti japantaḥ | ṛ. 8-13 [?] iti ‖*
+
+*(Sense: "On a non-*vivākya* day, after the drinking of the *mānasa*-grahas [?], when the stars are seen, all, with the Adhvaryu at their head, are to mutter this *yuvaṃ tam indra* [Ṛk]; stated in the Śrauta-sūtra, section 'gārhapatye juṣṭastīti' [?]: 'muttering *yuvaṃ tam indrāparvatā purojudhā*' (Āś. 8-13 [?], as read "೮-೧೩")." The reading of this small-type sūtra reference is doubtful: [?].)*
+
+### Printed p. 530  (PDF 551)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+> हे इन्द्रापर्वता । इन्द्रः प्रसिद्धः । पर्वतः पर्ववान्मेघः । तदभिमानिनौ देवौ । तौ युवं युवां पुरोयुधा सङ्ग्रामे पुरतो योद्धारौ नोऽस्माकं यः शत्रुः पृतन्यात् अस्मान् हन्तुं पृतनामात्मन इच्छति तं तमिद् सर्वमपि शत्रुमपहतम् । नाशयतम् । हन्तेर्लोट्यनुदात्तोपदेशेत्यनुनासिकलोपः ॥ केन साधनेनेति तदुच्यते । तं तस्मिन् सर्वमपि शत्रुं हन्तुं वज्रेण साधनेन प्राप्नुतम् । ईदृक् सामर्थ्यमस्तीति दर्शयति । यद्वोऽवज्रः । लिङ्गव्यत्ययः ॥ दूरे चत्तायोत्यन्तदूरदेशे गताय ॥ चतायतेर्वा नाशकर्मणः । निष्प्रायः । आदर्शनमापन्नायेत्यर्थः । ग्रसितस्कभितेत्यादौ निपातनादिडभावः ॥ ताद्दृशं शत्रुं छन्त्सत् छन्दयति कामयते हन्तुम् । छन्देः कान्तिकर्मण इदं रूपम् । किंच गहनं दुरवगाहं स्थानमतिकठिनं हृदयं शत्रुसमीपे वेनक्षत् व्याप्नोति । नक्ष गतौ । छान्दस इकारोपजनः । इनक्षतीर्वा प्रकृत्यन्तरम् ॥ इदानीमिन्द्र एव स्तूयते । हे शूर शौर्योपेतेन्द्र अस्माकं विरोधिनः शत्रून् विश्वतो विश्वान् । सार्वविभक्तिकस्तसिल् ॥ परि परितो विश्वतो विश्वरूपायैर्दर्षीष्ट । दारयसि । किंच दर्मा शत्रूणां दारकः । दारयतेर्मेन्भ्योऽपि दृश्यन्त इति मनिन् । णिलोप उदात्तनिवृत्तिस्वरेण मनिन उदात्तत्वम् ॥ दृ भये । घटादित्वान्मितां ह्रस्व इति ह्रस्वत्वम् ॥ कव पूर्वोक्तो वज्रो विश्वतः सर्वान्शत्रून् सर्वरूपायैर्वा दर्षीष्ट । दारयति । यद्वा । दर्मा शत्रूणां दारक इन्द्रो दर्षीष्ट । काष्ठ्स्नर्येन दारयति शत्रून् ॥
+
+> *he indrāparvatā | indraḥ prasiddhaḥ | parvataḥ parvavānmeghaḥ | tadabhimāninau devau | tau yuvaṃ yuvāṃ puroyudhā saṅgrāme purato yoddhārau no 'smākaṃ yaḥ śatruḥ pṛtanyāt asmān hantuṃ pṛtanāmātmana icchati taṃ tamid sarvamapi śatrumapahatam | nāśayatam | hanterloṭyanudāttopadeśetyanunāsikalopaḥ ‖ kena sādhaneneti taducyate | taṃ tasmin sarvamapi śatruṃ hantuṃ vajreṇa sādhanena prāpnutam | īdṛk sāmarthyamastīti darśayati | yadvo 'vajraḥ | liṅgavyatyayaḥ ‖ dūre cattāyotyantadūradeśe gatāya ‖ catāyatervā nāśakarmaṇaḥ | niṣprāyaḥ | ādarśanamāpannāyetyarthaḥ | grasitaskabhitetyādau nipātanādiḍabhāvaḥ ‖ tāddṛśaṃ śatruṃ chantsat chandayati kāmayate hantum | chandeḥ kāntikarmaṇa idaṃ rūpam | kiṃca gahanaṃ duravagāhaṃ sthānamatikaṭhinaṃ hṛdayaṃ śatrusamīpe venakṣat vyāpnoti | nakṣa gatau | chāndasa ikāropajanaḥ | inakṣatīrvā prakṛtyantaram ‖ idānīmindra eva stūyate | he śūra śauryopetendra asmākaṃ virodhinaḥ śatrūn viśvato viśvān | sārvavibhaktikastasil ‖ pari parito viśvato viśvarūpāyairdarṣīṣṭa | dārayasi | kiṃca darmā śatrūṇāṃ dārakaḥ | dārayatermenbhyo 'pi dṛśyanta iti manin | ṇilopa udāttanivṛttisvareṇa manina udāttatvam ‖ dṛ bhaye | ghaṭāditvānmitāṃ hrasva iti hrasvatvam ‖ kava pūrvokto vajro viśvataḥ sarvānśatrūn sarvarūpāyairvā darṣīṣṭa | dārayati | yadvā | darmā śatrūṇāṃ dāraka indro darṣīṣṭa | kāṣṭhsnaryena dārayati śatrūn ‖*
+
+*(Sense: "O Indra and Parvata — Indra the well-known; Parvata, the *parvavat* cloud — the deities presiding over them: you two, *purojudhā* — fighting in front in battle — whichever enemy of ours (*yaḥ pṛtanyāt*) wishes an army against us in order to kill us — destroy (*apa hatam*) each and every such enemy. With what? With the thunderbolt (*vajreṇa*) obtain [him] to kill every enemy; so it shows that such power exists. The enemy gone very far (*dūre cattāya*) [*cata* in the sense 'destroyed', 'out of sight'], or one who wishes to kill (*chantsat*, from *chand*, 'to desire'); the difficult, impenetrable place (*gahanam*), the very hard heart near the enemy, [the thunderbolt] pervades (*inakṣat*). Now Indra alone is praised: O hero Indra, our enemies on all sides (*viśvataḥ*) you tear apart (*dardṛṣṭa*); and *darmā* — the tearer of enemies; or the thunderbolt, mentioned before, tears all enemies completely.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) indrāparvatā* — O Indra and clouds (O Indra and the deity of the clouds); *yuvam* — you two; *puroyudhā* — fighting in front in battle; *naḥ* — our; *yaḥ* — which enemy; *pṛtanyāt* — desires an army to kill us; *tam tam it* — every such enemy; *apa hatam* — destroy; *yat* — which; *dūre* — far away; *cattāya* — gone (out of sight); *tam* — such an enemy; *chantsat* — desires to kill (and); *gahanam* — a very difficult place (the very hard-hearted enemy); *inakṣat* — pervades; *vajreṇa* — with the thunderbolt; *tam tam it hatam* — kill every such one; *he śūra* — O brave Indra; *asmākam* — our; *viśvataḥ* — all; *śatrūn* — enemies; *pari* — completely; *viśvataḥ* — by all means; *dardṛṣṭa* — you tear; *darmā* — the thunderbolt, destroyer of enemies [of Indra]; *(śatrūn* — enemies); *viśvataḥ* — completely; *dardṛṣṭa* — tears apart.
+
+### Printed p. 531  (PDF 552)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra and Parvata (the cloud), you who are in front in all battles: kill all those who wish to fight us; to destroy the enemies, with the thunderbolt that pursues them however far, in whatever dense place, and kills them; O brave Indra, destroy completely our enemies by all means; and may the thunderbolt, the tearer of enemies, kill them.
+
+**Printed English (heading "English Translation"; as printed):** *"Indra and Parvata, who are foremost in battles, slay every one who is arrayed against us; slay every such (adversary) with the thunderbolt — (the shaft that) bent upon his destruction pursues him, however far, or to whatever hiding-place he may have fled. You, hero, (tear) our enemies entirely to pieces; the tearer (of foes, the thunderbolt), rends them entirely asunder."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***indrāparvatā*** — by this word Indra and the cloud (or the deity presiding over the cloud) are addressed. This word is found in the Ṛgveda only in the Ṛks Ṛ. Saṃ. 1-132-6; 1-[?]-[?]; 3-[?]-[?]; and nowhere else. In explaining Ṛ. Saṃ. 1-132-6, the commentator explains this word: *indrāparvatā — indraḥ prasiddhaḥ, parvataḥ parvavān vṛṣṭyādipūraṇavān parjanyaḥ* — "Indra, the well known; *parvata*, the one who has parts, *parvavān* — Parjanya, the deity who fills the earth with rain and the like". In the present Ṛk: *parvataḥ parvavān meghaḥ* — "the cloud with its parts". Yāska, in his Nirukta: *parvavān parvataḥ | parva pṛṇāteḥ prīṇāteḥ vā* (Ni. 1-[?]; as read "೧-೨೦"): "*parvata* means 'having joints'; *parva* is from *pṛ* 'to fill' or *prī* 'to please'": the name *parvata* (mountain) is given because (stones) lie in heaps, or because it covers the earth and fills it, or because it pleases people; *parvataṃ meghaṃ* — a cloud (Ni. 1-[?] and 10-[?]; as read "೧-೩೧", "೧೦-೧೦"); *parvatānāṃ meghānām* (Ni. 11-[?]; as read "೧೧-೧೭"): the word *parvata* is thus explained as "cloud". —
+
+> बळित्था पर्वतानां खिद्रं बिभर्षि पृथिवि ।
+> प्र या भूमिं प्रवत्वति महना जिनोषि महिनि ॥
+
+> *baḷitthā parvatānāṃ khidraṃ bibharṣi pṛthivi |*
+> *pra yā bhūmiṃ pravatvati mahnā jinoṣi mahini ‖*
+
+(Ṛ. Saṃ. 5-84-1; Tai. Saṃ. 3-[?]-[?], as read "೫-೮೪-೧", "೩-೨-೧೧-೨" [?].) and others are given as illustrations.
+
+---
+
+**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 531 (PDF 552): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 (last) Saṃhitā…English written; Special Topics begun (the *indrāparvatā* entry, with its Ṛ. 5-84-1 illustration); resume p. 532 (PDF 553; images in w10f/) with the rest of the Ṛk 6 Special Topics and grammar and the closing line; Sūkta 133 begins on p. 534. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 pp. 502–503; Ṛk 2 pp. 507–508, 511; Ṛk 3 pp. 514–518; Ṛk 4 pp. 520, 522; Ṛk 5 pp. 524–525; Ṛk 6 Saṃhitā line 2 [*cattāya chantsat*] and bhāṣya p. 529–530, the Śrauta-sūtra reference, and the list of Ṛks on p. 531 with unread numerals); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
