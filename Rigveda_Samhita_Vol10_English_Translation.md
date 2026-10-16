@@ -15245,4 +15245,54 @@ In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇ
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 begun: Saṃhitā written (p. 635); resume p. 636 (PDF 657) with the Pada (crop from PDF 661 on if needed); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 636  (PDF 657)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+**॥ पदपाठः ॥**
+
+> इमे । वाम् । सोमाः । अप्ऽसु । आ । सुताः । इह । अध्वर्युऽभिः । भरमाणाः ।
+> अयंसत । वायो इति । शुक्राः । अयंसत ।
+> एते । वाम् । अभि । असृक्षत । तिरः । पवित्रम् । आशवः ।
+> युवऽवायवः । अति । रोमाणि । अव्यया । सोमासः । अति । अव्यया ॥ ६ ॥
+
+> *ime | vām | somāḥ | ap 'su | ā | sutāḥ | iha | adhvaryu 'bhiḥ | bharamāṇāḥ |*
+> *ayaṃsata | vāyo iti | śukrāḥ | ayaṃsata |*
+> *ete | vām | abhi | asṛkṣata | tiraḥ | pavitram | āśavaḥ |*
+> *yuva 'vāyavaḥ | ati | romāṇi | avyayā | somāsaḥ | ati | avyayā ‖ 6 ‖*
+
+*(Pada read from the image; the third pāda is printed "*yuvāyavaḥ*" as one word — I have given the Pada division as *युवऽवायवः*, which is doubtful [?].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image; doubtful words marked [?].)*
+
+> हे वायो वां युवयोस्तव चेन्द्रस्य च स्वभूता इमे सोमा अप्स्वप्सु [?] ऋत्विजां कर्मसु ॥ ऊडिदमित्यादिना विभक्त्युदात्तत्वम् ॥ इहास्मिन्नभिषवस्थाने सुता अभिषुता अध्वर्युभिर्भरमाणास्तैर्भ्रियमाणा गृहीता होतुं वा ह्रियमाणाः ॥ कर्मणि कर्तृप्रत्ययः ॥ सन्त अयंसते [?] आगच्छन्ति । युवयोर्नियता भवन्ति । किंचेत एव सोमाः शुक्राः शुभ्रा दीप्ता अयंसन्त नियता भवन्ति । किंचैते आशवो व्यापकाः सोमा वां युवां प्रीणयितुमिति शेषः । तिरः पवित्रं तिर्यग्गतं सोमान्तर्धायकं वोर्णामयं पवित्रमभ्यसृक्षत । अभिलक्ष्य सृज्यन्ते । सृष्टा भवन्ति । सृजेः कर्मणि लुङ् [?] । … किंच युवायवो युवां कामयमानाः सोमासः सोमा अव्यया अव्ययानि सूक्ष्माण्यव्यानि रोमाणि पवित्रसंबन्धीनि वारोमाणि । यद्वा । अव्यया अविमयानि [?] ॥ मकारो लुप्यते ॥ तादृशानि रोमाण्यतिक्रम्य पात्रादुद्गच्छन्तीति शेषः । पुनस्त एव विशेष्यन्ते । अत्यतिशयेनाव्यया व्ययरहिताः सोमासः सोमा अस्पृक्षतेति शेषः ॥
+
+> *he vāyo vāṃ yuvayostava cendrasya ca svabhūtā ime somā apsvapsu [?] ṛtvijāṃ karmasu ‖ ūḍidamityādinā vibhaktyudāttatvam ‖ ihāsminnabhiṣavasthāne sutā abhiṣutā adhvaryubhirbharamāṇāstairbhriyamāṇā gṛhītā hotuṃ vā hriyamāṇāḥ ‖ karmaṇi kartṛpratyayaḥ ‖ santa ayaṃsate [?] āgacchanti | yuvayorniyatā bhavanti | kiṃceta eva somāḥ śukrāḥ śubhrā dīptā ayaṃsanta niyatā bhavanti | kiṃcaite āśavo vyāpakāḥ somā vāṃ yuvāṃ prīṇayitumiti śeṣaḥ | tiraḥ pavitraṃ tiryaggataṃ somāntardhāyakaṃ vorṇāmayaṃ pavitramabhyasṛkṣata | abhilakṣya sṛjyante | sṛṣṭā bhavanti | sṛjeḥ karmaṇi luṅ [?] | … kiṃca yuvāyavo yuvāṃ kāmayamānāḥ somāsaḥ somā avyayā avyayāni sūkṣmāṇyavyāni romāṇi pavitrasaṃbandhīni vāromāṇi | yadvā | avyayā avimayāni [?] ‖ makāro lupyate ‖ tādṛśāni romāṇyatikramya pātrādudgacchantīti śeṣaḥ | punasta eva viśeṣyante | atyatiśayenāvyayā vyayarahitāḥ somāsaḥ somā aspṛkṣateti śeṣaḥ ‖*
+
+*(Sense: "O Vāyu, these Soma-juices, belonging to you, and to Indra, in the rites of the priests, are pressed here, at the place of pressing, being carried (*bharamāṇāḥ*) — held by the adhvaryus, taken, or about to be offered — *ayaṃsata*: they come, they are fixed for you two. Further, these very Soma-juices, *śukrāḥ* — clear, shining — *ayaṃsata*: they are fixed. And *āśavaḥ* — pervading — to please you. *Tiraḥ pavitram* — across the crosswise strainer, the woollen strainer that hides the Soma within, they are poured (*abhyasṛkṣata*). Further, *yuvāyavaḥ* — desiring you two — the Soma-juices, *avyayā*: [pass through] the fine hairs (*romāṇi*) of the sheep-wool strainer; or *avyayā* = made of wool [?], [the *m* elided]; having passed such hairs they go out of the vessel; and again they are specially described, *ati avyayā* — exceedingly inexhaustible, the Soma-juices.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he vāyo* — O Vāyu; *vām* — for you and for Indra (to both); *ime somāḥ* — these Soma-juices (in the various vessels); *apsu* — in (our) rites; *iha* — here, in this place of pressing; *sutāḥ* — pressed; *adhvaryubhiḥ* — by the adhvaryus; *bharamāṇāḥ* — carried; *ā ayaṃsata* — come (fixed for you); *(kiṃca — and)*; *(te eva somāḥ — those same Soma-juices)*; *śukrāḥ* — shining; *ayaṃsata* — are fixed for you; *(kiṃca — and)*; *āśavaḥ* — pervading ones; *ete* — these Soma-juices; *vām* — to please you two; *tiraḥ* — across; *pavitram* — the strainer (made of wool, which has to be placed on the Soma-juice); *abhi asṛkṣata* — are poured (made use of); *yuvāyavaḥ* — desiring you; *ati avyayāḥ* — extremely indestructible (inexhaustible); *somāsaḥ* — Soma-juices; *avyayā* — [and] fine; *romāṇi* — the hairs of the wool; *ati* — pass over (they go out of the vessel).
+
+### Printed p. 637  (PDF 658)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra and Vāyu, for you both these Soma-juices, pressed in our sacrificial rites and carried by the adhvaryus, are prepared; pure Soma-juices are prepared; these pervading juices, desiring you, have come through the sieve [*pavitra*] for you, and the hairs of the *pavitra* of the inexhaustible Soma-juices are passed, and the juices are poured [into the vessels].
+
+**Printed English (heading "English Translation"; as printed):** *"These Soma juices, poured out in our rites, and borne by the priests, are prepared for you both: the pure juices, Vayu (and Indra), are prepared: these pervading (juices) have passed through the oblique filter for you both; the Soma juices intended for you both, pass through the woolly fleece; the inexhaustible Soma juices."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+The nature of the Soma-juice is described: [it is] pressed with the specified rites, borne by the adhvaryus, shining with qualities such as purity, and so on.
+
+***adhvaryubhiḥ bharamāṇāḥ*** — *hotuṃ tair hriyamāṇāḥ bhriyamāṇā vā* — "taken to be offered by the adhvaryus, or held": it is an adjective of the Soma, [meaning] "carried by the adhvaryus, or taken for offering". After the pressing, the procedure to be followed by the adhvaryus in preparing the juice for offering, and the mantras to be recited at that time, are given in the Taittirīya Saṃhitā as follows. It is called *upāṃśugrahābhidhāna* (Tai. Saṃ. 1-4-[?], as read "೧-೪-೨" [?]).
+
+1. > वाचस्पतये पवस्व वाजिन्वृषा वृष्णो अंशुभ्यां गभस्तिपूतो देवो देवानां पवित्रमसि येषां भागोऽसि तेभ्यस्त्वा (गृह्णामि) ॥
+
+   > *vācaspataye pavasva vājinn vṛṣā vṛṣṇo aṃśubhyāṃ gabhastipūto devo devānāṃ pavitram asi yeṣāṃ bhāgo 'si tebhyas tvā (gṛhṇāmi) ‖*
+
+   "O Soma, who gives food, flow for the lord of speech, [Vācaspati]: hear — the Soma-god, purified by the fingers, you are the strainer of the gods; I take you for those whose portion you are." The Kannada explains: "O Soma, the giver of food, flow [for Vācaspati], the protecting deity, by the mantra related to speech; be the strengthener for the protecting deities..." (read partly [?]).
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 written through p. 637 (Special Topics begun: the *upāṃśugraha* mantras of the Taittirīya Saṃhitā, mantra 1 done; the list continues on p. 638); resume p. 638 (PDF 659; crop from PDF 661 on); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
