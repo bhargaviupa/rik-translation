@@ -4945,4 +4945,160 @@ Here ends the 124th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 124 complete (printed pp. 128–187). Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) begun: heading and Sanskrit introduction at the foot of p. 187 written; resume p. 188 (PDF 209) with the Kannada Anuvāda, the Ṛṣi/Devatā/Chandas table and Ṛk 1.
+### Printed p. 188  (PDF 209)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+**Anuvāda (Kannada).** This Sūkta, beginning *prātā ratnam*, is the fifth Sūkta in the eighteenth Anuvāka. It has seven ṛks. The ṛṣi of this Sūkta is Kakṣīvān Dairghatamasa Auśija. Since this Sūkta contains praise of a gift, its deity is said to be *dānastuti*, "praise of the gift": for the Anukramaṇī says *yā tenocyate sā devatā* (Anu. 2-5 as read by the OCR; print "೨-೫"), that is, "whatever subject is spoken of in the ṛks, that is the deity of that sūkta". The metre is Triṣṭubh; the two ṛks beginning *upa* (4–5) are of Jagatī metre; the remaining ṛks are Triṣṭubh. In the Anukramaṇī it is said "*prātā ratnaṃ sapta svanayasya dānastutis triṣṭup jagatyau*."
+
+**सूक्त—१२५ — Sūkta 125**
+
+मण्डल—१ ‖ अनुवाक—१८ ‖ सूक्त—१२५ ‖ अष्टक—२ ‖ अध्याय—१ ‖ वर्ग—१० ‖ (Maṇḍala 1; Anuvāka 18; Sūkta 125; Aṣṭaka 2; Adhyāya 1; Varga 10.)
+
+Number of ṛks in this Sūkta — 7. Ṛṣi — Kakṣīvān Dairghatamasa Auśija. Devatā — Svanaya's *dānastuti* ("praise of the gift of Svanaya"). Chandas — Triṣṭubh; 4–5 Jagatī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्रातारत्नं प्रातरित्वा दधाति तं चिकित्वान्प्रतिगृह्या नि धत्ते ।
+> तेन प्रजां वर्धयमान आयू रायस्पोषेण सचते सुवीरः ॥ १ ॥
+
+> *prātāratnaṃ prātaritvā dadhāti taṃ cikitvānpratigṛhyā ni dhatte |*
+> *tena prajāṃ vardhayamāna āyū rāyaspoṣeṇa sacate suvīraḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रातरिति [?] । रत्नम् । प्रातःऽइत्वा । दधाति । तम् । चिकित्वान् । प्रतिऽगृह्य । नि । धत्ते ।
+> तेन । प्रजाम् । वर्धयमानः । आयुः । रायः । पोषेण । सचते । सुऽवीरः ॥ १ ॥
+
+> *prātariti [?] | ratnam | prātaḥ 'itvā | dadhāti | tam | cikitvān | prati 'gṛhya | ni | dhatte |*
+> *tena | prajām | vardhayamānaḥ | āyuḥ | rāyaḥ | poṣeṇa | sacate | su 'vīraḥ ‖ 1 ‖*
+
+*(The first Pada word is as printed, "prātar iti" [?]; the Saṃhitā has "āyū" for the Pada's "āyuḥ".)*
+
+### Printed p. 189  (PDF 210)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अत्रेतिहासमाचक्षते । दैर्घतमसः कक्षीवान्नामर्षिर्ब्रह्मचर्यं चरिष्यन्वेदाभ्यासाय गुरुकुले चिरकालमुषित्वा वेदान्सम्यगधीत्य व्रतानि च चरित्वा तेनानुज्ञातः पुनः स्वगृहं प्रति प्रयास्यन्मध्ये मार्गे रात्रौ विश्रान्तः । प्रभाते भावयव्यस्य पुत्रः स्वनयो नाम राजानुचरैः संक्रीडमानोऽकस्मात्कक्षीवतोऽन्तिकमासासाद । स च रभसा प्रतिबुद्धः सहसोत्तस्थौ । तं च राजा पाणिं गृहीत्वा स्वकीय आसन उपवेश्यास्य सौन्दर्यमवगत्य कन्याप्रदानमनाः पप्रच्छ भगवन्कस्य पुत्रः किंनामा त्वमिति । स च पृष्टो मातरं पितरं च स्ववृत्तान्तं चाचचक्षे । स च राजा संभाव्य इत्यवगत्य मुदितमनाः स्वगृहं प्राप्यास्मै मधुपर्कमाचर्य वस्त्रमाल्यादिभिः पूजयित्वा रथेन [?] दश कन्याः शतं निष्कानश्वशतं पुंगवानां शतं … [?] पुनरेकादश रथान्प्रादात् । स च सर्वमनुक्रमेण प्रतिगृह्य दीर्घतमसोऽन्तिकमागत्य तस्मै प्रादर्शयत् ॥ …
+
+> *atretihāsamācakṣate | dairghatamasaḥ kakṣīvānnāmarṣirbrahmacaryaṃ cariṣyanvedābhyāsāya gurukule cirakālamuṣitvā vedānsamyagadhītya vratāni ca caritvā tenānujñātaḥ punaḥ svagṛhaṃ prati prayāsyanmadhye mārge rātrau viśrāntaḥ | prabhāte bhāvayavyasya putraḥ svanayo nāma rājānucaraiḥ saṃkrīḍamāno 'kasmātkakṣīvato 'ntikamāsāsāda | sa ca rabhasā pratibuddhaḥ sahasottasthau | taṃ ca rājā pāṇiṃ gṛhītvā svakīya āsana upaveśyāsya saundaryamavagatya kanyāpradānamanāḥ papraccha bhagavankasya putraḥ kiṃnāmā tvamiti | sa ca pṛṣṭo mātaraṃ pitaraṃ ca svavṛttāntaṃ cācacakṣe | sa ca rājā saṃbhāvya ityavagatya muditamanāḥ svagṛhaṃ prāpyāsmai madhuparkamācarya vastramālyādibhiḥ pūjayitvā rathena [?] daśa kanyāḥ śataṃ niṣkānaśvaśataṃ puṃgavānāṃ śataṃ … [?] punarekādaśa rathānprādāt | sa ca sarvamanukrameṇa pratigṛhya dīrghatamaso 'ntikamāgatya tasmai prādarśayat ‖ …*
+
+*(Read from the image. The first part of the bhāṣya, down to the list of gifts, is given as I read it; the list of gifts and the remaining ten lines of this long itihāsa passage are in very small type and not clear to me, so I do not transcribe them letter by letter here; their sense is given by the Kannada Anuvāda on pp. 191–192 and by the Bṛhaddevatā verses quoted on p. 193, which are clear. This is flagged as an open item.)* "Here they tell an itihāsa. The seer named Kakṣīvān, the son of Dīrghatamas, having lived long in the guru's house for the study of the Veda, having thoroughly learned the Vedas and performed the vows, and with his leave about to set out again for his own home, rested on the way at night. In the morning Svanaya, the son of Bhāvayavya, a king, sporting with his attendants, suddenly came near Kakṣīvat. He, waking quickly, rose at once. The king took him by the hand, seated him on his own seat, and seeing his beauty, with a mind to give him a maiden, asked: 'Sir, whose son are you, and what is your name?' Questioned, he told of his mother and father and his own story. The king, understanding that he was a worthy person, glad at heart, taking him to his house, honoured him with the *madhuparka*, with clothes, garlands and the like, and gave him ten maidens, … a hundred *niṣkas*, a hundred horses, a hundred bulls, … and eleven chariots. And he, receiving all this in order, came to Dīrghatamas and showed it to him."
+
+### Printed p. 190  (PDF 211)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+> नाम राजा प्रातरित्वा प्रातरेवात्मनः सकाशमागतः सन् रत्नं रमणीयं निष्कादिकं प्रातः प्रभातकाले दधाति । अस्मत्सन्निधौ स्थापयति । ददाति । तं स्थापितं सर्वं चिकित्वान् [?] अदुष्टमित्यवगतवान्प्रतिगृह्य स्वीकृत्य नि धत्ते । पितुः समीपे स्थापयति । अनन्तरं तेन दत्तेन निष्कादिना प्रजां पुत्रभृत्यादिरूपां वर्धयमानः पोषयन् आयुर्जीवितं च वर्धयन् सुवीरः शोभनैर्वीरैः पुत्रभृत्यादिभिरुपेतः सन् रायस्पोषेण धनानां पुनःपुनर्वर्धनेन सचते । असौ राजा संगच्छतामिति तव दातुराशिषं प्रार्थयते ॥
+
+> *nāma rājā prātaritvā prātarevātmanaḥ sakāśamāgataḥ san ratnaṃ ramaṇīyaṃ niṣkādikaṃ prātaḥ prabhātakāle dadhāti | asmatsannidhau sthāpayati | dadāti | taṃ sthāpitaṃ sarvaṃ cikitvān [?] aduṣṭamityavagatavānpratigṛhya svīkṛtya ni dhatte | pituḥ samīpe sthāpayati | anantaraṃ tena dattena niṣkādinā prajāṃ putrabhṛtyādirūpāṃ vardhayamānaḥ poṣayan āyurjīvitaṃ ca vardhayan suvīraḥ śobhanairvīraiḥ putrabhṛtyādibhirupetaḥ san rāyaspoṣeṇa dhanānāṃ punaḥpunarvardhanena sacate | asau rājā saṃgacchatāmiti tava dāturāśiṣaṃ prārthayate ‖*
+
+*(Read from the image; the first words continue the sentence begun on p. 189: "[the king] named [Svanaya]…". "chikitvān" is as printed; the OCR differs slightly in the gloss.)* "…the king (Svanaya), *prātar itvā* — having come in the early morning to his own presence — *ratnam* — the lovely gift, the *niṣka* and the rest — *prātaḥ*, in the early morning, *dadhāti* — places, gives, with us. Knowing (*cikitvān*) all that has been placed to be unfaulty, [Kakṣīvat] *pratigṛhya* — having received it — *ni dhatte* — places it near his father. Then, with the *niṣka* and the rest given by him, *prajām* — increasing his offspring in the form of sons, servants and the like, *āyuḥ* — and his life, *suvīraḥ* — endowed with good sons, servants and the like — he is joined (*sacate*) with growth of wealth, by the repeated increasing of riches. May that king be united with it: so [the seer] prays for the blessing of you the giver."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Prātaḥ itvā* — (the king called Svanaya) having come in the morning (to his own presence); *ratnam* — jewels and the like; *prātaḥ* — at the time of daybreak; *dadhāti* — places (in the presence of Kakṣīvat); *tam* — all that (offered); *cikitvān* — knowing it to be unfaulty; *pratigṛhya* — having accepted; *ni dhatte* — places it (in the presence of his father); (then) *tena* — by that (gift of the father); *prajām* — offspring (sons, servants and the like); *vardhayamānaḥ* — nourishing; *āyuḥ* — (of long) life; *suvīraḥ* — with excellent heroic sons; *rāyaḥ poṣeṇa* — with the growth of wealth; *sacate* — (he himself) is united.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The jewels and the like offered in the morning (by King Svanaya), (Kakṣīvat) understanding them to be faultless, accepts, offers them to his father; (then) nourishing sons, servants and the like with the wealth (given by the father), he is long-lived, with good offspring, and endowed with wealth.
+
+**Printed English (as printed):** *Having come in the early morning, (Swanaya) presents precious (wealth), knowing it (to be worthy of acceptance); and having, (therefore) accepted it, (Kashivat) brings it (to his father); wherewith the parent of excellent sons, maintaining his progeny, passes his life in the enjoyment of affluence.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 1.**
+
+> प्राता रत्नं सप्त स्वनयस्य दानस्तुतिरुपजगत्या ।
+
+> *prātā ratnaṃ sapta svanayasya dānastutirupajagatyā |*
+
+(Anukramaṇikā.)
+
+> ऋषिर्दानं च भाव्यस्य प्रातरित्यत्र शंसति ।
+
+> *ṛṣirdānaṃ ca bhāvyasya prātarityatra śaṃsati |*
+
+(Bṛ. De. 3-140 as read.) The Sūkta 1-125 beginning with *prātā ratnam* and the Sūkta 1-126 that follows it are both seen by Kakṣīvat, the son of Dīrghatamas; *svanaya* …
+
+### Printed p. 191  (PDF 212)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+…the name of the king; they are in praise of the gifts that he gave in abundance to Kakṣīvat. In this context Sāyaṇa tells the itihāsa of this in the manner given above (*dairghatamasaḥ kakṣīvān nāma … dānam iti prasiddham*, the itihāsa of p. 189).
+
+The ṛṣi-youth named Kakṣīvat, the son of Dīrghatamas, after completing his study of the Veda in the guru's house in the life of a *brahmacārin*, and performing all the vows there, and receiving the leave of his guru, as he was returning to his own home, rested in the middle of the road, slept at night; in the morning, Svanaya, the son of Bhāvayavya, sporting with his attendants, suddenly came near Kakṣīvat. Waking, he quickly rose. Then the king took his hand, seated him on his own seat, and, understanding that he was a youth full of beauty, wishing to give him his daughter, honoured him, and asked who he was and whose son. Kakṣīvat told the whole of his story at length. Then Svanaya, taking him to his house, prepared the *madhuparka*, honoured him with clothes, garlands and the like, and gave him chariots, a hundred gold ornaments, a hundred horses, a hundred bulls, a thousand and sixty cows, and eleven chariots (as the Kannada reads it), and gave him his ten daughters in marriage. Then Kakṣīvat received all this in order, went to his father Dīrghatamas, and showed the king's gifts to him.
+
+Here a difficulty arises. *Kakṣyā* means "the rope that ties a horse": *kakṣyā rajjū raśvasya* [as read, "kakṣyā rajjur aśvasya"] (Ni. 2-2 as read by the OCR). Because he has such a rope, Kakṣīvat gets the name *kakṣīvān* or *kakṣyāvān*. Horses, and the ropes that tie horses, are things useful to kings; so these belong to kings. There is no reason for them to be with a Brahmin. Since these ropes were with Kakṣīvat, he must have been a Kṣatriya. For a Kṣatriya, acceptance of gifts (*pratigraha*) is not a duty — as said in
+
+> याजनाध्यापने चैव विशुद्धाच्च प्रतिग्रहः ।
+
+> *yājanādhyāpane caiva viśuddhācca pratigrahaḥ |*
+
+(Manu 10-76, as read by the OCR.) that is, of the six duties of a Brahmin — study, teaching, sacrificing, officiating at sacrifices, giving, and receiving gifts — a Kṣatriya or Vaiśya has authority only in three: sacrificing, studying, and giving. In the other three — officiating as priest for others, teaching the Veda to others, and receiving what is given — he has no authority.
+
+### Printed p. 192  (PDF 213)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+Therefore how is Kakṣīvat, being a Kṣatriya, qualified to accept the gift given by Svanaya? Is this not improper? To answer this, Sāyaṇa narrates the birth of Kakṣīvat.
+
+The king named Kaliṅga had no children; he was old and unable to beget a son. Then the ṛṣi named Dīrghatamas, the son of Ucathya, came into the presence of the king, and the king, having no children, begged him to beget a son on the queen. In former times there was a custom by which, for various reasons, the childless obtained children for the increase of the line from a suitable Brahmin; this matter is clearly described in the Purāṇas and in the Mahābhārata. The ṛṣi accepted the king's request, and the king told his chief queen to go to the ṛṣi. The queen, being old and ugly, was ashamed to cohabit with the ṛṣi, and in her place she sent to the ṛṣi her own maid, a woman named Uśik, beautifully adorned with her own clothes and ornaments. The ṛṣi, understanding that the woman who had come to him, Uśik, was not the queen but her maid, sprinkled her with mantra-purified water, made her a ṛṣi's wife, purified her, and consorted with her. The son born to the ṛṣi by that woman Uśik is the ṛṣi Kakṣīvān. Although this son was born of a Kṣatriya woman, he is counted a Brahmin through the connection with the Brahmin. Thus although Kakṣīvat has connection with Kṣatriyas, because he was born of a Brahmin there is no obstacle to his being qualified to accept gifts. The story of the birth of this Kakṣīvat will be explained in the commentary on the Ṛk Saṃhitā 1-116th Sūkta [as read; the numerals are small — "೧-೧೧೬ನೆಯ"], earlier.
+
+In this Sūkta and in the next Sūkta the praise of Svanaya's gift is stated. But since the Anukramaṇī says that Kakṣīvat, delighted with the gift, praised Bhāvayavya (Svanaya's father), it is natural for the doubt to arise whether two different persons are praised. That in the first ṛk of the next Sūkta it is clearly said *adhi kṣiyato bhāvyasya* strengthens this doubt still more. But calling the son by the father's name is often customary: in the Veda itself, when speaking of the Maruts, who are Rudra's sons, the name of the father is used, *rudrāsaḥ*; and in that very Sūkta, in the third ṛk, *svanayena dattāḥ* is also said. Therefore, although the names of father and son are used here, these two Sūktas are to be understood as the praise of the gift of one and the same person.
+
+### Printed p. 193  (PDF 214)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+This story is told in the Bṛhaddevatā in this way —
+
+> अधिगम्य गुरोर्विद्यां गच्छन्स्वनिलयं किल ।
+> कक्षीवानध्वनि श्रान्तः सुष्वापारण्यगोचरः ॥
+> तं राजा स्वनयो नाम भावयव्यसुतो व्रजन् ।
+> क्रीडार्थं सानुगोऽपश्यत्सभार्यः सपुरोहितः ॥
+> अथैनं रूपसंपन्नं दृष्ट्वा देवसुतोपमम् ।
+> कन्यादाने मतिं चक्रे वर्णगोत्राविरोधतः ॥
+> संबोध्यैनं स पप्रच्छ वर्णगोत्रादिकं ततः ।
+> राजन्नाङ्गिरसोऽस्मीति कुमारः प्रत्युवाच तम् ॥
+> पुत्रोऽहं दीर्घतमस औचथ्यस्य ऋषेर्नृप ।
+> अथास्मै स ददौ कन्या दशाभरणभूषिताः ॥
+> तावतश्च रथानश्वान्वीड्वङ्गान्नै [?] चतुर्युजः ।
+> वधूनां वाहनार्थाय धनकुप्यमजाविकम् ॥
+> निष्काणां वृषभाणां च शतं शतमदात्प्रभुः ।
+> एतदुत्तरसूक्तेन शतमित्यादिनोदितम् ॥
+> शतमश्वाञ्छतं निष्कान् रथान्दश वधूमतः ।
+> चतुर्युजो गवां चैव सहस्रं षष्ट्यधिकम् ॥
+> स्वनयोद्भावयव्याद्यः कक्षीवान्प्रैपद्यत [?] ।
+> प्रतिगृह्य च तुष्टाव प्रातः पित्रे शशंस च ॥
+
+> *adhigamya gurorvidyāṃ gacchansvanilayaṃ kila |*
+> *kakṣīvānadhvani śrāntaḥ suṣvāpāraṇyagocaraḥ ‖*
+> *taṃ rājā svanayo nāma bhāvayavyasuto vrajan |*
+> *krīḍārthaṃ sānugo 'paśyatsabhāryaḥ sapurohitaḥ ‖*
+> *athainaṃ rūpasaṃpannaṃ dṛṣṭvā devasutopamam |*
+> *kanyādāne matiṃ cakre varṇagotrāvirodhataḥ ‖*
+> *saṃbodhyainaṃ sa papraccha varṇagotrādikaṃ tataḥ |*
+> *rājannāṅgiraso 'smīti kumāraḥ pratyuvāca tam ‖*
+> *putro 'haṃ dīrghatamasa aucathyasya ṛṣernṛpa |*
+> *athāsmai sa dadau kanyā daśābharaṇabhūṣitāḥ ‖*
+> *tāvataśca rathānaśvānvīḍvaṅgānnai [?] caturyujaḥ |*
+> *vadhūnāṃ vāhanārthāya dhanakupyamajāvikam ‖*
+> *niṣkāṇāṃ vṛṣabhāṇāṃ ca śataṃ śatamadātprabhuḥ |*
+> *etaduttarasūktena śatamityādinoditam ‖*
+> *śatamaśvāñchataṃ niṣkān rathāndaśa vadhūmataḥ |*
+> *caturyujo gavāṃ caiva sahasraṃ ṣaṣṭyadhikam ‖*
+> *svanayodbhāvayavyādyaḥ kakṣīvānpraipadyata [?] |*
+> *pratigṛhya ca tuṣṭāva prātaḥ pitre śaśaṃsa ca ‖*
+
+(Bṛ. De. 3-143 to 150, as read; the first numeral and the lines marked [?] are doubtful in the print.) *(Read letter by letter from the clear Latin-spaced print; the third and fourth lines of the sixth verse and the first word of the penultimate verse are doubtful and I do not complete them.)* "Having acquired learning from his guru, Kakṣīvat, going to his own home, tired on the road, slept in a forest region. King Svanaya, the son of Bhāvayavya, going about for sport with his followers, with his wife and his priest, saw him. Seeing him endowed with beauty, like a son of the gods, he decided to give him a maiden, there being no obstacle of class or lineage. Addressing him, he asked about his class and lineage. 'O king, I am of the Aṅgirases,' replied the youth. 'I am the son of the seer Dīrghatamas, son of Ucathya, O king.' Then he gave him ten maidens decked with ornaments, and as many four-yoked chariots and horses …, wealth, base metal, goats and sheep for the maidens' conveyance, a hundred *niṣkas*, a hundred bulls: this is stated by the next sūkta in 'a hundred' (*śatam*) and so on: a hundred horses, a hundred *niṣkas*, ten chariots with the brides, and a thousand and sixty cows, four-yoked. Kakṣīvat, receiving [all this] from Svanaya, the son of Bhāvayavya, praised [him] and told it in the morning to his father."
+
+Sāyaṇa has told this very story as his source, so its translation need not be given again.
+
+***prātar itvā*** — *prātar eva ātmanaḥ sakāśam āgataḥ san*: "having come at daybreak to his own presence", at the time of sunrise, to his presence.
+
+***rāyas-poṣeṇa*** — *dhanānāṃ punaḥ punar vardhanena*: "by the repeated increase of riches": since the wealth formerly held increases more and more.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; noted briefly, numbers as read by the OCR).** *ratnam* — *ramayatīti ratnam*, root *ramu krīḍāyām*; *rameś ca* [print: "ರಮೇಸ್ತ ಚ", Uṇ. 3-94 as read] gives the suffix *natn* [print: "ನಟ್"?]; *ta* as the ending-substitute for the root; since *nit* is carried on, first-syllable acute.
+
+---
+
+**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 193 (PDF 214): Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done, grammar (*ratnam*) begun; resume p. 194 (PDF 215). Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part (the list of gifts and the last ten lines in tiny type; sense given from the Kannada pp. 191–193).
