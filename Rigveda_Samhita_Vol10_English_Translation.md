@@ -14945,4 +14945,50 @@ The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of ho
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛk 3 complete; Ṛk 4 written through the start of its Pratipadārtha (breaks off after "*avase* — (our) protection" at the foot of p. 623); resume p. 624 (PDF 645) with the rest of the Pratipadārtha; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 624  (PDF 645)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Pratipadārtha of Ṛk 4, continued:)* …for protection (for coming); *(kiṃca — and)*; *sudhitāni* — well made ready; *prayāṃsi* — the oblation-food in the form of Soma; *vītaye* — to eat; *abhi* — (towards our sacrificial hall) facing; *ā vakṣat* — may it bring, having carried; *(tathā — likewise)*; *havyāni* — the other oblations (such as the *puroḍāśa*); *vītaye* — to receive (may the chariot call you); *pūrvapeyam* — the first drinking (before the other deities); *vām* — for you two; *hitam* — desired; *(ataḥ — therefore)*; *madhvaḥ* — endowed with sweet juice; *andhasaḥ* — Soma-food; *pibatam* — accept and drink; *(kiṃca — and)*; *(āgamanasamaye — at the time of coming)*; *he vāyo* — O Vāyu; *(tvam — you)*; *indraḥ ca* — and Indra too; *candreṇa* — delightful (with gold, cows and the like); *rādhasā* — wealth (and); *ā gatam* — come; *rādhasā* — with wealth (jewels etc.); *ā gatam* — come.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, may your chariot, drawn by the horses called *niyut*, bring you and Indra to protect us and to receive the Soma-food made ready, and may it call you to our sacrificial hall; likewise to accept the other oblations such as the *puroḍāśa*; for you two, the drinking [of Soma] before the other gods is desired; therefore drink this sweet Soma; and, coming, O Vāyu, you and Indra come with delightful wealth (gold, cows and the like); and come with wealth of jewels as well.
+
+**Printed English (heading "English Translation"; as printed):** *"Let the chariot drawn by the Niyuts convey you both, (Indra and Vayu, to the sacrifice), for our preservation, and to partake of the consecrated viands; to partake, Vayu, of the oblations: drink of the sweet beverage; for the first draught is your (joint) due. Vayu (and Indra), come with joy-bestowing wealth; Indra (and Vayu), come with wealth."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+Among the gods, there was a discussion as to who should have the first place in drinking Soma; finally, a contest of running was set up; in it Vāyu won and gained the first place. This is known from the story told in the Aitareya Brāhmaṇa, "*devā vai somasya rājño 'grapeyena na samapādayan*" (Ai. Brā. 3-[?], as read "೩-೩೫" [?]), which has been quoted above. Therefore the first place is secure for Vāyu among all the gods.
+
+### Printed p. 625  (PDF 646)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> अग्रं पिबा मधूनां सुतं वायो दिविष्टिषु । त्वं हि पूर्वपा असि ॥
+
+> *agraṃ pibā madhūnāṃ sutaṃ vāyo diviṣṭiṣu | tvaṃ hi pūrvapā asi ‖*
+
+(Ṛ. Saṃ. 4-46-1 [as read].)
+
+> आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार ।
+> उपो ते अन्धो मद्यमयामि यस्य देव दधिषे पूर्वपेयम् ॥
+
+> *ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra |*
+> *upo te andho madyam ayāmi yasya deva dadhiṣe pūrvapeyam ‖*
+
+(Ṛ. Saṃ. 2-41-1 [as read].) In Ṛks such as these too, the same matter, that Vāyu is to have the first place, is clear; Sāyaṇa explains. *Yadyapīndrād api vāyoḥ pūrvapānaṃ, tathāpīndrasyetaradevebhyaḥ pūrvaṃ vāyunā saha pānam indraturīyārthavādabrāhmaṇe pratipāditam* — "although Vāyu drinks before Indra, still the drinking of Indra, with Vāyu, before the other gods is established in the Brāhmaṇa on the meaning of *indraturīya*": [this he says, to show that] Indra, though Vāyu should get the first place, must still be before the other gods, and that Indra made an agreement with Vāyu; Sāyaṇa points to this by the words *devā vai* etc. of the Aitareya Brāhmaṇa. As this story was explained in the Special Topics of the first Ṛk [the passage cited above], here only the matter of Indra's prayer to Vāyu, that he be given the first place along with him, is cited:
+
+> सोऽवेदिन्द्रो वायुमुपैव जयतीति तमन्वपराप्तत्तमाह नावभोज्जयावेति स नेत्यब्रवीदहमेवोज्जेष्यामीति तृतीयं मेऽभोज्जयावेति नेति हैवाब्रवीदहमेवोज्जेष्यामीति तुरीयं मेऽभोज्जयावेति तथेति तं तुरीये त्यार्जत तत्तुरीयभागीन्द्रो भवत्रिभाग्वायुः ॥
+
+> *so 'ved indro vāyum upaiva jayatīti tam anvaparāptat tam āha nāvabhojjayāveti sa nety abravīd aham evojjeṣyāmīti tṛtīyaṃ me 'bhojjayāveti neti haivābravīd aham evojjeṣyāmīti turīyaṃ me 'bhojjayāveti tatheti taṃ turīye tyārjata tat turīyabhāgīndro bhavatribhāgvāyuḥ ‖*
+
+(Ai. Brā. 3-[?], as read "೩-೩೫" [?]; read from the image, with the doubts noted above [?].) In this contest, Indra, who knew that he would fall behind Vāyu, ran at Vāyu's speed and, reaching the goal, fell at Vāyu's side. When therefore he asked Vāyu, "We two have reached together, let us both share in the victory", Vāyu replied, "I alone won in the contest" [and refused]. Indra obtained the third share, but at last the fourth share was gained.
+
+> स एष इन्द्रतुरीयो ग्रहो गृह्यते यदैन्द्रवायवः । तदेतदृषिः पश्यन्नभ्यनूवाच नियुत्वा इन्द्रसारथिरिति । तस्माद्धैतर्हि भरताः सत्वनां वित्तं प्रयन्ति तुरीये हैव संगृहीतारो वदन्तेऽमुन्वैवानुकाशेन यदद इन्द्रः सारथिरिव भूत्वोदजयत् ॥
+
+> *sa eṣa indraturīyo graho gṛhyate yad aindravāyavaḥ | tad etad ṛṣiḥ paśyann abhyanūvāca niyutvā indrasārathir iti | tasmād dhaitarhi bharatāḥ satvanāṃ vittaṃ prayanti turīye haiva saṃgṛhītāro vadante 'munvaivānukāśena yad ada indraḥ sārathir iva bhūtvodajayat ‖*
+
+(Ai. Brā. 3-[?], as read "೩-೩೫" [?]; doubtful in the second half [?].) Therefore in the *aindravāya* cup the fixed quarter portion belongs to Indra, and the sage saw this: for that reason he used the mantra "*niyutvān indrasārathiḥ*" ("Vāyu, with Indra as charioteer") [as printed]. Even now …
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 625 (Special Topics: the Aitareya Brāhmaṇa passage on the *indraturīya* cup; the sentence "Even now …" breaks off at the foot of p. 625); resume p. 626 (PDF 647); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
