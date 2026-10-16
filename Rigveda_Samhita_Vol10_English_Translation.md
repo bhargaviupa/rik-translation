@@ -16443,4 +16443,70 @@ The manner of measuring and marking the earth in the form of the *uttaravedi* is
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through p. 679 (Special Topics: *jyotiṣmatīm aditiṃ kṣitiṃ dhārayat* and the Taittirīya Saṃhitā altar mantras 1–3; the entry continues); resume p. 680 (PDF 701; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 680  (PDF 701)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+4. > सिꣳहीरसि महिषीरसि ।
+
+   > *siṃhīr asi mahiṣīr asi |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೨" [?].) "You are a lioness; you are a she-buffalo." [According to Bodhāyana, this mantra is used for scattering the *purīṣa* — the earth and the powder of bricks — on the altar; according to Āpastamba, for gathering up the earth on the altar.]
+
+> सिꣳहीरसि महिषीरसीत्याह सिꣳह्येषा रूपं कृत्वोभयानन्तरापक्रम्यातिष्ठत् ।
+
+> *siṃhīr asi mahiṣīr asīty āha siṃhy eṣā rūpaṃ kṛtvobhayān antarāpakramyātiṣṭhat |*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩" [?].) This altar, having taken the form of a lioness, stood between the two [parties] after retreating from them; therefore he calls it "*siṃhī asi, mahiṣī asi*".
+
+5. > उरु प्रथस्वोरु ते यज्ञपतिः प्रथतां ध्रुवासि देवेभ्यः शुन्धस्व देवेभ्यः शुम्भस्व ।
+
+   > *uru prathasvoru te yajñapatiḥ prathatāṃ dhruvāsi devebhyaḥ śundhasva devebhyaḥ śumbhasva |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೩" [?].) "Spread wide; let the sacrificer too spread wide after you. You are firm; be purified for the gods, be adorned for the gods." [With these mantras are to be done the spreading of the earth, the brick-powder and the like, the sprinkling of water and the beating down.]
+
+> उरु प्रथस्वोरु ते यज्ञपतिः प्रथतामित्याह यजमानमेव प्रजया पशुभिः प्रथयति ध्रुवासीति धृत्यै देवेभ्यः शुन्धस्व देवेभ्यः शुम्भस्वेत्येवोक्षति प्र च किरति शुद्ध्यै ।
+
+> *uru prathasvoru te yajñapatiḥ prathatām ity āha yajamānam eva prajayā paśubhiḥ prathayati dhruvāsīti dhṛtyai devebhyaḥ śundhasva devebhyaḥ śumbhasvety evokṣati pra ca kirati śuddhyai |*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೪" [?].) By reciting mantras like *uru prathasva*, the sacrificer's cattle and offspring increase; by the mantra *dhruvāsi* he makes the earth firm; by *śundhasva*, *śumbhasva*, he sprinkles water and spreads the dust for purification.
+
+6. > इन्द्रघोषस्त्वा वसुभिः पुरस्तात्पातु मनोजवास्त्वा पितृभिर्दक्षिणतः पातु प्रचेतास्त्वा रुद्रैः पश्चात्पातु विश्वकर्मा त्वादित्यैरुत्तरतः पातु ।
+
+   > *indraghoṣas tvā vasubhiḥ purastāt pātu manojavās tvā pitṛbhir dakṣiṇataḥ pātu pracetās tvā rudraiḥ paścāt pātu viśvakarmā tvādityair uttarataḥ pātu |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೩" [?].)
+
+### Printed p. 681  (PDF 702)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+"May Indraghoṣa protect you in front, with the Vasus; may Manojava protect you on the south, with the Pitṛs; may Pracetas protect you behind, with the Rudras; may Viśvakarman protect you on the north, with the Ādityas." [With this mantra the *prokṣaṇī* water is to be sprinkled.]
+
+> इन्द्रघोषस्त्वा वसुभिः पुरस्तात्पात्वित्याह दिग्भ्य एवैनां प्रोक्षति देवाश्चोत्तरवेदिरुपावर्तेहैव विजयामहा इत्यसुरा वज्रमुद्यत्य देवानभ्यायन्त तानिन्द्रघोषो वसुभिः पुरस्तादपानुदत मनोजवाः पितृभिर्दक्षिणतः प्रचेता रुद्रैः पश्चाद्विश्वकर्मादित्यैरुत्तरतः ।
+
+> *indraghoṣas tvā vasubhiḥ purastāt pātv ity āha digbhya evainām prokṣati devāś cottaravedir upāvartehaiva vijayāmahā ity asurā vajram udyatya devān abhyāyanta tān indraghoṣo vasubhiḥ purastād apānudata manojavāḥ pitṛbhir dakṣiṇataḥ pracetā rudraiḥ paścād viśvakarmādityair uttarataḥ |*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೪, ೫" [?].) *Kannada sense:* "This *uttaravedi* has the gods as its refuge; we must bring it under our control", so thinking, the Asuras took up the thunderbolt and advanced against the gods; then Indraghoṣa, with the Vasus, in front; Manojava, with the Pitṛs, on the south; Pracetas, with the Rudras, behind; and Viśvakarman, with the Ādityas, on the north drove the Asuras off. Therefore with the mantra "*indraghoṣa…*" he should sprinkle the water in all directions.
+
+> यदेवमुत्तरवेदिं प्रोक्षति दिग्भ्य एव तद्यजमानो भ्रातृव्यान्प्रणुदते ।
+
+> *yad evam uttaravedim prokṣati digbhya eva tad yajamāno bhrātṛvyān praṇudate |*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೫" [?].) The sacrificer who sprinkles the altar in this way drives his enemies off from all directions.
+
+> इन्द्रो यतीन्सालावृकेभ्यः प्रायच्छत्तान्दक्षिणत उत्तरवेद्या आदधत्कृप्त्रीप्रणेनामुञ्चेषीतः तद्दक्षिणत उत्तरवेद्यै [?] नियेदेव तत्र क्रूरं तत्क्षत्रेण शमयति यं द्विष्यात्तं ध्यायेच्छुचैवैनमर्पयति ।
+
+> *indro yatīn sālāvṛkebhyaḥ prāyacchat tān dakṣiṇata uttaravedyā ādadhat kṛptrīpraṇenāmuñceṣītaḥ [?] tad dakṣiṇata uttaravedyai [?] niyed eva tatra krūraṃ tat kṣatreṇa śamayati yaṃ dviṣyāt taṃ dhyāyec chucaivainam arpayati |*
+
+(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೫" [?]; read from the image, badly doubtful [?].) *Kannada sense:* Indra gave the ascetics (*yati*) to the *sālāvṛka* wolves; they devoured them to the south of the *uttaravedi*. In that [southern] part, whatever evil may be, it is destroyed. One should know only who hates [the sacrificer]; the enemy then falls into trouble.
+
+7. > सिꣳहीरसि सपत्नसाही स्वाहा सिꣳहीरसि सुप्रजावनिः स्वाहा सिꣳहीरसि रायस्पोषवनिः स्वाहा सिꣳहीरस्यादित्यवनिः स्वाहा सिꣳहीरसि देवान्देवयते यजमानाय स्वाहा ।
+
+   > *siṃhīr asi sapatnasāhī svāhā siṃhīr asi suprajāvaniḥ svāhā siṃhīr asi rāyaspoṣavaniḥ svāhā siṃhīr asy ādityavaniḥ svāhā siṃhīr asi devān devayate yajamānāya svāhā |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೩, ೪" [?]; the mantra number is as read [?].) "You are a lioness, conqueror of rivals; you are a lioness, giver of good offspring; you are a lioness, giver of increase of wealth; you are a lioness, winner of the Ādityas' favour; you are a lioness, [giving] the gods to the sacrificer who desires gods: *svāhā*." — [the Kannada: "you conquer enemies; you give a beautiful progeny; you increase wealth; you win the favour of the Ādityas".]
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through p. 681 (Special Topics: Taittirīya Saṃhitā altar mantras 1–7 of the *uttaravedi*; the entry continues); resume p. 682 (PDF 703; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
