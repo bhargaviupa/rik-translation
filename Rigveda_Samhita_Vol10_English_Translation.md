@@ -12212,4 +12212,102 @@ Here ends the 131st Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 131 complete (printed pp. 466–501). Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) begun: introduction, heading and Ṛk 1 Saṃhitā/Pada done, bhāṣya begun at the foot of p. 502; resume p. 503 (PDF 524) with the rest of the Ṛk 1 bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 503  (PDF 524)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Bhāṣya of Ṛk 1, continued from p. 502 — small type, read from the image; doubtful places [?].)* "…*sasahyāma* — may we overcome; and *vanuṣyataḥ* — enemies who wish to harm us — *vanuyāma* — may we strike, may we anticipate them before they come. And in this very former wealth, in this sacrifice, *nediṣṭhe asmin ahani* — on this day very near, *adhi voca nu sunvate* — speak quickly, encouragingly to the sacrificer who presses Soma — you, Indra, say to him: 'Be quick, give the oblation' (*tuṃ havispradaṃ yajamānaṃ yajñaṃ vā kṣipram adhikaṃ brūhi*). [Grammar: *loṭ*, the Vedic *aṅ*, *vaca* with the augment *um*.] And, O Indra, in this sacrifice, *bhare kṛtam* — in battle, made victorious, we, desiring food, *vi cayema* — may we gather, offer to you, the doer of victory, the oblations and praises (*stotrādikaṃ haviradikaṃ vā*): *ci* with *śap* in the sense of collecting; and what kind of you? *bhare devānāṃ saṅgrāme 'surajaye devānāṃ samyaggamane kṛtaṃ kartāram* — the doer in the battle of the gods against the demons, in the meeting of gods. 'Bhara' is a name for battle (*bharati* or *haratīti*, Ni. 4-[?], as read "೪-೨೪", Yāska)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) maghavan* — O Indra of excellent happiness; *tvayā* — by you (who are able); *vayam* — we; *indratvotāḥ* — protected by Indra (so that we may win in battle); *pṛtanyataḥ* — enemies who come with powerful armies; *sasahyāma* — may we overcome; *vanuṣyataḥ* — those who come to attack us; *vanuyāma* — may we first meet (them); *kiṃ ca* — and; *pūrvye dhane* — in the earlier, special wealth; *asmin yajñe* — in this sacrifice; *nediṣṭhe asmin ahani* — on this day, very near (the day of pressing); *sunvate* — to the sacrificer who presses; *nu adhi voca* — speak quickly (encouragingly); *(he indra* — O Indra); *vayam* — we; *bhare* — in battle; *kṛtam* — you, the maker of victory; *(uddiśya* — for you); *vājayantaḥ* — bringing the oblation-food; *vi cayema* — may we gather together (oblations and the rest); *bhare* — in the battle of gods and demons (in the matter of the means of battle for the gods); *kṛtam* — you, the accomplisher; *(vi cayema* — may we gather the oblations).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra of excellent happiness, protected by you, may we overcome the enemies who come with powerful armies, and may we be the first to meet those who come to attack us. As before, in this sacrifice, which is near on this day, speak encouragingly to the sacrificer who presses Soma; we who serve you with oblations and the like for the sake of victory, you the victory-maker, gather these for you; and in the matter of the defeat of demons, for you who are able to give the gods the means, we offer oblations.
+
+### Printed p. 504  (PDF 525)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+**Printed English (heading "English Translation"; as printed):** *"(Possessed of) former opulence, Maghavan, (through your bounty), protected, Indra, by you, may we overcome those who are arrayed in (hostile) hosts: may we anticipate (our) assailants. (The sacrifice) of to-day being nigh, speak encouragingly to the presenter of the libation: May we bring together at this rite (suitable offerings and praises) to you, the victor in war; worshipping you, the victor in war."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***maghavan*** — *maghaḥ saukhyaṃ tadvan indra*: the word *magha* is explained *maghaṃ iti dhananāmadheyam mahater dānakarmaṇaḥ* (Ni. 1-[?]; as read "೧-೭"): "*magha* is a name of wealth, from *mah*, in the sense of giving"; the word is also recorded among the twenty-eight names of wealth, *maghaṃ rekṇaḥ* (Ni. 2-[?]; as read "೩-೯"). Sāyaṇa gives the word *magha* the sense "happiness" and describes Indra as endowed with happiness.
+
+***indratvotāḥ*** — *atiprabalena indreṇa tvayā rakṣitāḥ*: the word *indra* is explained in many ways in the earlier ṛks — *irāṃ dṛṇātīti vā*, and so on (Ni. 10-[?]; as read "೧೦-೮"). Here Sāyaṇa describes Indra as very powerful, and the ṛṣis as those who obtained protection by his grace.
+
+***pṛtanyataḥ sasahyāma*** — *prabalasenāyuktān śatrūn abhibhavema*: the word *pṛtanā* is recorded among the names of battle (Ni. 2-[?]; as read "೨-೯"). As *pṛtanā* is a word for the army which is eager for battle, Sāyaṇa explains *pṛtanā* as "army"; *pṛtanām ātmana icchati* is *pṛtanyati*: "enemies who desire an army": "may we, protected by Indra, overcome the powerful enemies without being overpowered".
+
+***vanuṣyataḥ vanuyāma*** — "from this sentence the enemies rush up in order to harm; may we, protected by Indra, the sacrificers and the priests, strike them down and defeat them first": so Indra's protection is described.
+
+***nu*** — *nu taṃ havispradaṃ yajamānaṃ yajñaṃ vā kṣipram adhikaṃ brūhi*: the Niruktakāra says *nu ity eṣo 'nekakarmā* — "the particle *nu* conveys many senses" (Ni. 1-[?]; as read "೧-೪"). The words *nu* and *sma* are recorded among the eight names of "quickly" (Ni. 2-[?]; as read "೩-೯"). —
+
+### Printed p. 505  (PDF 526)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(continued:)* "*idaṃ nu kariṣyati iti hetusaṃdeśe* [as read]; *kathaṃ nu kariṣyatīty anuprapte*" — in *idaṃ nu kariṣyati* the *nu* shows a reason; in *kathaṃ nu kariṣyati* it is a question. Here the particle is in the sense of comparison as well. —
+
+> अक्ष्णो न चक्रयोः शूर बृहन्ते महान्न रिरिचे रोदस्योः ।
+> वृक्षस्य नु ते पुरुहूत वया व्यू३तयो रुरुहुरिन्द्र पूर्वीः ॥
+
+> *akṣo na cakrayoḥ śūra bṛhan te mahān na ririce rodasyoḥ |*
+> *vṛkṣasya nu te puruhūta vayā vy ū3 tayo ruruhur indra pūrvīḥ ‖*
+
+(Ṛ. Saṃ. 6-24-5, as read "೬-೨೪-೫"; the second line has a doubtful word at its start: [?].) In this Ṛk *vṛkṣasya nu* is explained, in the Kannada, as meaning "like a tree": the word *nu* is in the sense of comparison. Sāyaṇa explains *nu* as *kṣipram* (*jāgarte*): that Indra must be told quickly — whether it be the sacrificers or the sacrifice — to show his greatness.
+
+***bhare kṛtaṃ vājayantaḥ vi cayema*** — *saṅgrāme jayasya kartāraṃ tvām uddiśya havirlakṣaṇānnam upācarantaḥ stotrādikaṃ haviradikaṃ vā vicinuyāma*: the Niruktakāra explains *bhara iti saṅgrāmanāma bharater harater vā* (Ni. 4-[?]; as read "೪-೨೪"); Durgācārya: "*bhriyante tasmin yoddhāraḥ* — the warriors are supported in it; *hriyante hi tasmin jīvitāni vasūni ca* — lives and wealth are taken away in it": the word *bhara* is thus explained as "battle". "The sacrificers offer oblation-food to Indra, the one who brings about victory in battle. The word *vāja* is explained by the Niruktakāra as food, water, battle." Sāyaṇa explains it here as "praise".
+
+The word *bhare* is used twice; in the second meaning, it is said that Indra is ready to bring about victory in the battle of the gods and demons, or to protect the gods.
+
+The word *kṛta* is formed from the root *ḍukṛñ karaṇe* with the suffix *kta*; Sāyaṇa explains it as "agent".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; numbers as printed).** *pūrvye* — *pūrve bhavaṃ pūrvyam*; *bhave chandasi* (Pā. 4-4-110) gives *yat*; *yasyeti ca* drops the *a*; *yato nāvaḥ* (Pā. 6-1-213) gives the acute on the first syllable. *indratvotāḥ* — *indreṇa tvayā ūtāḥ*; *pratyayottarapadayoś ca* (Pā. 7-2-98) gives *tva* for the *tvad* stem up to its last letter; *tatpuruṣe tulyārtha…* (Pā. 6-2-2)
+
+### Printed p. 506  (PDF 527)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+— the accent of the first member remains. *sasahyāma* — root *ṣaha marṣaṇe*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *liṅ* first person plural, *mas*; *niścaṃ jāte* [as read]: the *s* is dropped; by *bahulaṃ chandasi* the *śa*-affix on the suffix; the suffix gets *yāsuṭ*; the root is doubled; the reduplicative lengthened by Vedic usage; since it follows a finite verb *nighāta*. *pṛtanyataḥ* — *pṛtanām ātmana icchati pṛtanyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8); *sanādyantā dhātavaḥ* (Pā. 3-1-32) gives the name *dhātu*; *supo dhātuprātipadikayoḥ* (Pā. 2-4-71) drops the *supa* (*am*); *kyaci ca* (Pā. 7-4-33) with *kavatyadṛpṛṣaṅgena* [as read] drops the *a*; *pṛtanya* becomes a root; the acute on the last syllable by the suffix; after it *laṭ*, *śatṛ* in the place of the suffix; *śap*; accusative plural; since *num*-less *śatṛ*, *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute to the ending. *vanuyāma* — root *vana sambhaktau*; *liṅ* first person plural; by Vedic usage no *nighāta*; since *yāsuṭ* is acute, the *ā* following is acute. *vanuṣyataḥ* — a root with many senses; *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* (Pā. 3-2-124) gives *śatṛ*; accusative plural; *śatur anumo…* gives the acute to the ending. *nediṣṭhe* — when the sense of excess is shown, *iṣṭhan*; *antikabāḍhayor nedasādhau* (Pā. 5-3-63) gives *neda* for *antika*; *ṭeḥ* drops; acute on the first syllable because *n*-marked. *voca* — root *vaca paribhāṣaṇe*; *loṭ* second person singular, *sip*, *hi*; by *vyatyaya* the *aṅ*; *aṅ* following, *vaca um* (Pā. 7-4-20) gives the augment *um* to the root; guṇa when *um* is in the last place; *ato heḥ* drops *hi*; *tiṅ-nighāta*. *sunvate* — root *ṣuñ abhiṣave*; *śatṛ* in the present sense; the *vikaraṇa* *śnu*; dative singular; *śatur anumo…* gives the acute to the ending.
+
+### Printed p. 507  (PDF 528)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Grammar, concluded.)* *cayema* — root *ciñ cayane*, *svādi*; *liṅ* first person plural; by *vyatyayo bahulam* the *śap* [for *śnu*]; by it guṇa of the root's *i*, *ayādeśa*; the suffix gets *yāsuṭ*, with *iya*; *yalopa*; guṇa; *tiṅ-nighāta*. *vājayantaḥ* — after *vāja* in the sense of *ātmanaḥ* [as read], *kyac*; after it *laṭ* with *śatṛ*; nominative plural. ‖ 1 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> स्वर्जेषे भर आप्रस्य वक्मन्युषर्बुधः स्वस्मिन्नञ्जसि क्राणस्य स्वस्मिन्नञ्जसि ।
+> अहन्निन्द्रो यथा विदे शीर्ष्णाशीर्ष्णोपवाच्यः ।
+> अस्मत्रा ते सध्र्यक्सन्तु रातयो भद्रा भद्रस्य रातयः ॥ २ ॥
+
+> *svarjeṣe bhara āprasya vakmanyuṣarbudhaḥ svasminnañjasi krāṇasya svasminnañjasi |*
+> *ahannindro yathā vide śīrṣṇāśīrṣṇopavācyaḥ |*
+> *asmatrā te sadhryaksantu rātayo bhadrā bhadrasya rātayaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्वःऽजेषे । भरे । आप्रस्य । वक्मनि । उषःऽबुधः । स्वस्मिन् । अञ्जसि । क्राणस्य । स्वस्मिन् ।
+> अञ्जसि ।
+> अहन् । इन्द्रः । यथा । विदे । शीर्ष्णाऽशीर्ष्णा । उपऽवाच्यः ।
+> अस्मत्रा । ते । सध्र्यक् । सन्तु । रातयः । भद्राः । भद्रस्य । रातयः ॥ २ ॥
+
+> *svaḥ 'jeṣe | bhare | āprasya | vakmani | uṣaḥ 'budhaḥ | svasmin | añjasi | krāṇasya | svasmin |*
+> *añjasi |*
+> *ahan | indraḥ | yathā | vide | śīrṣṇā 'śīrṣṇā | upa 'vācyaḥ |*
+> *asmatrā | te | sadhryak | santu | rātayaḥ | bhadrāḥ | bhadrasya | rātayaḥ ‖ 2 ‖*
+
+*(Read from the image; the Saṃhitā prints "*svarjeṣe bhara āprasya*", and the Pada prints "*vakmani*" as the word in the Saṃhitā: I give what is printed; the line "*aham indro*" in the Saṃhitā is printed "*ahann indro yathā vide*" [*vide* as printed].)*
+
+**॥ सायणभाष्यम् ॥** *(begins at the foot of p. 507; read from the image).*
+
+> अयमिन्द्रः स्वर्जेषे स्वर्गगमनसाधने भरे सङ्ग्रामे । युद्धे ह्यभिमुखेन हतस्य स्वर्गो द्वाविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ । परा. ३-२३ [?] इत्यादिस्मृतिषु प्रसिद्धः ॥ आप्रस्याप्नुवतः शत्रुवधायेतस्ततो व्याप्नुवतः ॥ ओणादिकः रः । शूरस्य वक्मनि मार्गभूते स्वस्मिन्नञ्जसि स्वभूतेऽञ्जसि व्यक्तिकृति तमादिरहिते । पुनः स एव विशेष्यते । स्वस्मिन्नञ्जसि स्वकीये ऽञ्जसि मुख्ये महति सङ्ग्रामे । यद्वा ।
+
+> *ayamindraḥ svarjeṣe svargagamanasādhane bhare saṅgrāme | yuddhe hyabhimukhena hatasya svargo dvāvimau puruṣau loke sūryamaṇḍalabhedinau | parā. 3-23 [?] ityādismṛtiṣu prasiddhaḥ ‖ āprasyāpnuvataḥ śatruvadhāyetastato vyāpnuvataḥ ‖ oṇādikaḥ raḥ | śūrasya vakmani mārgabhūte svasminnañjasi svabhūte 'ñjasi vyaktikṛti tamādirahite | punaḥ sa eva viśeṣyate | svasminnañjasi svakīye 'ñjasi mukhye mahati saṅgrāme | yadvā |*
+
+---
+
+**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 507 (PDF 528): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 Saṃhitā/Pada written and the bhāṣya begun at the foot of p. 507 ("…aṅjasi svakīye 'ñjasi mukhye mahati saṅgrāme | yadvā"); resume p. 508 (PDF 529) with the rest of the Ṛk 2 bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 bhāṣya pp. 502–503; Ṛk 2 bhāṣya p. 507); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
