@@ -2757,4 +2757,180 @@ In the same way *anyac ca divasākhyam ahar abhi eti abhimukhena gacchati* — "
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 123 through printed p. 105 (PDF 126): Ṛks 1–7 complete; Ṛk 8 Saṃhitā, Pada, bhāṣya (astronomical passage), Pratipadārtha, Bhāvārtha, English done; its Special Topics are in progress on p. 105 (*sadṛśīr adya* paragraph; continues on p. 106, PDF 127 with "ವರುಣಸ್ಯ ದೀರ್ಘಂ ಧಾಮ…"). Printed page = PDF − 21. The reader's OCR covers printed pp. 39–239. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 106  (PDF 127)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* *(Special topics of Ṛk 8, continued; from here the Kannada text was read from the page image and cross-checked word by word against the reader's OCR, which for the Kannada prose is good.)* …"…when the stars are not seen and the Sun has not yet risen" — people reckon the time from twenty-one *ghaṭikās* to twenty-six *ghaṭikās* [before sunrise] as the dawn-time (*uṣaḥkāla*), which comes in the last part of the night. The Sun goes round Mount Meru each day in a clockwise circuit of five thousand and fifty-nine [`[?]` "ಐದು ಸಾವಿರದ ಐವತ್ತೊಂಭತ್ತು"] yojanas. Before the Sun rises (in the regions where he rises, Laṅkā and the rest), by the time the Sun comes there, the dawn has already arrived thirty yojanas ahead of him. Hence in the region ahead of where the Sun is, at a distance of thirty yojanas, the rising of the Sun is seen as the dawn. This arrangement holds in all regions.
+
+In the same way the dawn, too, rises in the region thirty yojanas ahead of the region where she herself is. For all who live in all regions, from Laṅkā onward, it is to be understood that the rising of Uṣas is perceived in one and the same manner.
+
+Thus, as the light of Uṣas is seen in one region, so at the same time in all the other regions the same equal light of Uṣas is perceived by all. Therefore, because the days are reckoned as different days beginning from the dawn-time, and because the regions are different, it is to be understood that the one Uṣas is many Uṣases, and the mutual likeness (*sādṛśya*, comparison) of these is here described.
+
+When the regions are not taken into account, Uṣas, rising of her own nature perfectly pure, and since in Uṣas there is a supreme purity that makes all things pure, there is no need to explain at length about Uṣas's purity.
+
+***varuṇasya dīrghaṃ dhāma sacante*** — *atyantam āyataṃ tamonivārakasya sūryasya meruvalayaṃ pratidinaṃ sevante*: "they serve every day the very extended ring of Meru of the Sun, the remover of darkness". Though the Sun's light is far from the region where he is, it destroys darkness, and the pervasion of the Sun's light is perceived. It is described that, just as the Sun goes round Meru in a clockwise circuit, so does Uṣas every day.
+
+***varuṇaḥ vṛṇotīti sataḥ*** (Ni. 10-5, as printed "೧೦-೫", the OCR reads "10-5") — "because he restrains the clouds, the Sun, remover of darkness, is called Varuṇa", and "he who illuminates the light of Varuṇa" is said; and further —
+
+### Printed p. 107  (PDF 128)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 6".)*
+
+> येना पावक चक्षसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥
+
+> *yenā pāvaka cakṣasā bhuraṇyantaṃ janā~ anu | tvaṃ varuṇa paśyasi ‖*
+
+(Ṛ. Saṃ. 1-50-6 [?], as read from the image "೧-೫೦-೬"; the OCR is garbled here.) In expounding this ṛk, [Sāyaṇa] explains the word *varuṇa* with the epithet *pāvaka* — "the maker of purity" — as "the Sun, the maker of purity". And —
+
+> वि द्यामेषि रजस्पृथ्वहा मिमानो अक्तुभिः । पश्यञ्जन्मानि सूर्य ॥
+
+> *vi dyāmeṣi rajaspṛthvahā mimāno aktubhiḥ | paśyañjanmāni sūrya ‖*
+
+(Ṛ. Saṃ. 1-50-7 [?], as read.) citing this mantra he addresses [him] as "Varuṇa, Sūrya", and the *tvaṃ varuṇa paśyasi* sentence explains the direct sight of the merits (*puṇyakṛt*) of Varuṇa. And —
+
+> प्रत्यङ्देवानां विशः प्रत्यङ्ङेषि मानुषान् । प्रत्यङ्विश्वं स्वर्दृशे ॥
+
+> *pratyaṅdevānāṃ viśaḥ pratyaṅṅeṣi mānuṣān | pratyaṅviśvaṃ svardṛśe ‖*
+
+(Ṛ. Saṃ. 1-50-5 [?], as read.) — reading this mantra: "Varuṇa, Pāvaka, you who make the light of Jana (*janā anu bhuraṇyantam*) shine, remover of darkness, maker of purity: you see the righteous people"; *pratyaṅ devānāṃ viśaḥ, pratyaṅṅ udeṣi mānuṣān*: "you rise in front of the gods and of men"; *pratyaṅ viśvaṃ svar dṛśe*: "you look at everything directly" — they have thus explained. Hence Sāyaṇa has explained the word *varuṇa* as the Sun.
+
+***sacante*** — *sacata iti sevamānasya* (Ni. 3-21, as read by the OCR) — Yāska explains that the word *sacate* has the sense "serving". And —
+
+> प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
+
+> *pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |*
+
+(Ṛ. Saṃ. 1-59-6 [?], as read.) Here *sacante* is explained as *sevante*, "serve". Thence Sāyaṇa has explained the word *sacante* as "to serve".
+
+***triṃśataṃ yojanāni*** — *triṃśadyojanāni purataḥ*: "thirty yojanas ahead — the sense is that Uṣas rises thirty yojanas in front of the region where the Sun rises".
+
+***ekaikā kratuṃ pari yanti*** — *uṣā laṅkādyaikaikabhūbhāgavartināṃ gamanāgamanādirūpaṃ karma tadviṣayāṃ prajñāṃ vā nirvahanti*: "the Uṣas that rises on each day brings to completion for those who live in the various regions the actions suited to their ways of life; or she graciously gives the knowledge suited to accomplish those acts" — that is the sense.
+
+### Printed p. 108  (PDF 129)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* Yāska reads the word *kratu* both among the names of action (Ni. 3-2, as printed and as read by the OCR) and among the names of knowledge (*prajñā*) (Ni. 3-13), citing:
+
+> उतस्य वाजी क्षिपणिं तुरण्यति ग्रीवायां बद्धो अपिकक्ष आसनि ।
+> क्रतुं दधिक्रा अनु संतवीत्वत्पथामङ्कांस्यन्वापनीफणत् ॥
+
+> *utasya vājī kṣipaṇiṃ turaṇyati grīvāyāṃ baddho apikakṣa āsani |*
+> *kratuṃ dadhikrā anu saṃtavītvatpathāmaṅkāṃsyanvāpanīphaṇat ‖*
+
+(Ṛ. Saṃ. 4-40-4, as printed "೪-೪೦-೪"; the OCR "v-vo-V" agrees on the shape.) — citing this ṛk, *kratuṃ dadhikrāḥ karma vā prajñāṃ vā* (Ni. 2-28, as read by the OCR) he explains the word *kratu* as "action or knowledge": both meanings; and Sāyaṇa too, following this, gives two meanings.
+
+> उदयो यो लङ्कायां सोऽस्तमयः सवितुरेव सिद्धपुरे ।
+> मध्याह्नो यवकोट्यां रोमकविषयेऽर्धरात्रः स्यात् ॥
+
+> *udayo yo laṅkāyāṃ so 'stamayaḥ savitureva siddhapure |*
+> *madhyāhno yavakoṭyāṃ romakaviṣaye 'rdharātraḥ syāt ‖*
+
+*(This is the verse whose end began on p. 105; here printed in full as a displayed verse.)* "When the Sun rises at the city of Laṅkā, it is sunset at Siddhapura, midday at Yavakoṭi, and midnight in the country of Romaka" — thus Sāyaṇa here describes a doctrine of astronomy (*jyotiḥśāstra*) that teaches the order of risings and settings caused by the Sun's particular motion.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 8; sūtra numbers as read by the reader's OCR).** *Sadṛśīḥ* — the root *dṛśir prekṣaṇe*; the suffix *kañ*; in the feminine, *ṭiḍḍhāṇañ…* (Pā. Sū. 4-1-15) the suffix *ṅīp*; when the plural follows, *supāṃ sulug…* (Pā. Sū. 7-1-39) the preceding vowel is lengthened. *Sacante* — the root *ṣaca secane sevane ca*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) the initial *s*; *laṭ*, 3rd plural; after an *atiṅanta* the *nighāta*. *Anavadyāḥ* — *na vidyate avadyaṃ yāsāṃ tāḥ anavadyāḥ*; *nañsubhyām* (Pā. Sū. 6-2-172) the accent of the end of the latter member. *Ekaikā* — *kriyāsamabhihāre sarvanāmno dve bhavataḥ* [as printed]: when repetition of action is shown, doubling; *tasya parām āmreḍitam* (Pā. Sū. 8-1-2) the second member gets the name *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-3) it is unaccented.
+
+### Printed p. 109  (PDF 130)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 6".)* **Grammar page, concluded (Ṛk 8).** *Yanti* — the root *iṇ gatau*; *adādi*; *laṭ*, 3rd plural, the suffix *jhi*; *jhoṃtaḥ* the *ant*-substitute; *iṇo yaṇ* (Pā. Sū. 6-4-81) *yaṇ* for the *i* of the root; after an *atiṅanta* the *nighāta*. ‖ 8 ‖
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> जानत्यह्नः प्रथमस्य नाम शुक्रा कृष्णादजनिष्ट श्वितीची ।
+> ऋतस्य योषा न मिनाति धामाहरहर्निष्कृतमाचरन्ती ॥ ९ ॥
+
+> *jānatyahnaḥ prathamasya nāma śukrā kṛṣṇādajaniṣṭa śvitīcī |*
+> *ṛtasya yoṣā na mināti dhāmāharaharniṣkṛtamācarantī ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> जानती । अह्नः । प्रथमस्य । नाम । शुक्रा । कृष्णात् । अजनिष्ट । श्वितीची ।
+> ऋतस्य । योषा । न । मिनाति । धाम । अहःऽअहः । निःऽकृतम् । आऽचरन्ती ॥ ९ ॥
+
+> *jānatī | ahnaḥ | prathamasya | nāma | śukrā | kṛṣṇāt | ajaniṣṭa | śvitīcī |*
+> *ṛtasya | yoṣā | na | mināti | dhāma | ahaḥ 'ahaḥ | niḥ 'kṛtam | ā 'carantī ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> उषाः प्रथमस्य मुख्यस्य प्रथमानस्य वाह्नो दिवसस्य नाम नमनमागमनं जानत्यवगच्छन्ती । प्राणिनां प्रज्ञापयन्तीत्यर्थः । सोषाः शुक्रा स्वतो दीप्ता अत एव श्वितीची श्वैत्यं गच्छन्ती प्रकाशं प्राप्नुवती कृष्णात् कृष्णवर्णात्तमसः सकाशादजनिष्ट । प्रादुर्भवति । यद्यपि तमसः सकाशान्नोत्पद्यते तथापि तदनन्तरभावित्वात्तत उत्पद्यत इत्युपचर्यते । उत्पन्ना सा ऋतस्य सत्यभूतस्यादित्यस्य धाम तेजोयुक्तं स्थानं योषा मिश्रयन्ती न मिनाति । न हिनस्ति । न तेनेयं तेजो न पराभवति । अपि त्वहरहः सर्वेष्वहःसु निष्कृतमाचरन्ती । अलङ्कारशोभां कुर्वती । यद्वा । ऋतस्य सत्यभूतस्य यज्ञस्य धाम देवयजनाख्यं स्थानं योषा मिश्रणशीला सती न मिनाति । न हिनस्ति । किन्त्वहरहः सर्वेषु यागदिवसेषु निष्कृतं हविरादीनां प्रकाशनरूपमलङ्कारमाचरन्ती कुर्वन्ती । तादृश्युषा अजनिष्टेति पूर्वत्रान्वयः ॥
+
+> *uṣāḥ prathamasya mukhyasya prathamānasya vāhno divasasya nāma namanamāgamanaṃ jānatyavagacchantī | prāṇināṃ prajñāpayantītyarthaḥ | soṣāḥ śukrā svato dīptā ata eva śvitīcī śvaityaṃ gacchantī prakāśaṃ prāpnuvatī kṛṣṇāt kṛṣṇavarṇāttamasaḥ sakāśādajaniṣṭa | prādurbhavati | yadyapi tamasaḥ sakāśānnotpadyate tathāpi tadanantarabhāvitvāttata utpadyata ityupacaryate | utpannā sā ṛtasya satyabhūtasyādityasya dhāma tejoyuktaṃ sthānaṃ yoṣā miśrayantī na mināti | na hinasti | na teneyaṃ tejo na parābhavati | api tvaharahaḥ sarveṣvahaḥsu niṣkṛtamācarantī | alaṅkāraśobhāṃ kurvatī | yadvā | ṛtasya satyabhūtasya yajñasya dhāma devayajanākhyaṃ sthānaṃ yoṣā miśraṇaśīlā satī na mināti | na hinasti | kintvaharahaḥ sarveṣu yāgadivaseṣu niṣkṛtaṃ havirādīnāṃ prakāśanarūpamalaṅkāramācarantī kurvantī | tādṛśyuṣā ajaniṣṭeti pūrvatrānvayaḥ ‖*
+
+*(Read from the image; the first half is clear; "nahinasti"/"tejo" in the middle is read as printed.)* "*Uṣas* knows (*jānatī*, understands) the *nāma* — the 'bowing', the coming — of the first (*prathama*), the chief, the beginning day (*ahnaḥ*); that is, she causes living beings to know it. She, Uṣas, *śukrā* (self-shining, of herself bright) and therefore *śvitīcī* (reaching whiteness, getting light), was born (*ajaniṣṭa*) from *kṛṣṇāt* — from the black darkness; that is, she appears. Although she is not born from the darkness, still, because she comes after it, it is said figuratively that she is born from it. Born, she, *yoṣā*, mingling with the *dhāma* (the brilliant place) of the true Āditya (*ṛtasya*), does not harm (*na mināti*) it — [her brightness] does not defeat his brilliance; rather, *aharahaḥ*, day by day on all days, *niṣkṛtam ācarantī*: she makes an ornament, a beauty. Or else: she, mingling with the place of the sacrifice of the true one (*ṛtasya* = of the true sacrifice), the place called the sacrificial ground (*devayajana*), does not harm it; on the contrary, day by day on all days of sacrifice she brings about the ornament in the form of the manifestation of the oblations and the like; may such an Uṣas [be born] — this is connected with what precedes."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Ṛtasya* — of the true Āditya (of the sacrifice); *dhāma* — the brilliant place (the region); *yoṣā* — having joined (Uṣas); *na mināti* — does not defeat (the Āditya's brilliance); (*api tu* — but); *aharahaḥ* — every day; *niṣkṛtam ācarantī* — giving the beauty that is an ornament (making the ornament of manifest oblations and the like); *(uṣāḥ* — the deity Uṣas); *ahnaḥ* — of the day; *prathamasya* — of the first part; *nāma* — the coming; *jānatī* — knowing (making the world know); *śukrā* — self-shining (and therefore); *śvitīcī* — possessed of whiteness; *kṛṣṇāt* — from black darkness; *ajaniṣṭa* — came into being.
+
+### Printed p. 110  (PDF 131)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* **॥ भावार्थः ॥ — Bhāvārtha.** Uṣas, though she joins the place of Āditya (and enters the sacrificial hall), does not diminish his radiance (nor does she cause the sacrifice delay); every day she gives Āditya (and the sacrificial hall) the beauty that is an ornament (an ornament in the form of the manifestation of oblations and the like), makes the world know the first part of the day, and being of herself shining, white, she is born from the black (from the darkness).
+
+**Printed English (as printed):** *The self-illumined Dawn, announcing the declination of the first (portion) of the day, is born white-shining out of the gloom : cleansing (with the radiance) of the sun, she impairs not his splendour, but daily adds embellishment (to his lustre).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 9.**
+
+***jānatī*** — *avagacchantī prāṇināṃ prajñāpayantī*: "Uṣas knows the beginning of the day and makes all beings know it" — that is the sense.
+
+***kṛṣṇāt ajaniṣṭa*** — *nikṛṣṭāt tamasaḥ sakāśāt prādurbhavati*: "Uṣas appears from base darkness, since the darkness of the night gives difficulty to others; after it has diminished, she is born from the darkness of a lower nature"; because the darkness in the night pervades widely, and because Uṣas rises in the last part of the night, the birth of Uṣas is described as from the darkness; and since she comes up after the darkness has gone, this expression is figurative (*aupacārika*). (See the introduction to this Sūkta.)
+
+***ṛtasya dhāma yoṣā na mināti*** — Sāyaṇa has given two meanings for this sentence. The first meaning: the word *ṛta* means the Āditya, who is truth; the place of his brilliance is joined by Uṣas with her own brilliance, but she does not disparage that brilliance.
+
+The word *ṛta* is recorded among the synonyms of water (Ni. 2-14, as read by the OCR on p. 110);
+ it is also recorded among the synonyms of *udaka* (water) — thus stated (as printed on p. 111: "ಋತಶಬ್ದವು ಉದಕ(ಸೂರ್ಯಯ)ನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೧೪) ಪಠಿತವಾಗಿದೆ"). In the Nirukta (4-19, as read by the OCR) he explains *satyaṃ vā yajñaṃ vā* — "truth or sacrifice" — so, following the meaning "truth", the first meaning has been explained.
+
+### Printed p. 111  (PDF 132)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 5.)*
+
+The second meaning: taking the meaning of the word *ṛta* as the sacrificial place in which oblations are offered to the deities — *devayajanākhyaṃ sthānaṃ yoṣā miśraṇaśīlā satī na mināti na hinasti*: Uṣas, mingling with the sacrificial ground, does not harm it; rather *aharahaḥ sarveṣu yāgadivaseṣu niṣkṛtaṃ havirādīnāṃ prakāśanarūpam alaṅkāram ācarantī kurvatī ajaniṣṭa*: on every day of sacrifice she makes the ornament consisting of the manifestation of the oblations and the like, and is born. That is: Uṣas, shedding her light in the sacrificial times of the various sacrifice-days that go on day after day, and making the various oblations manifest, brings the sacrifice to completion — thus the rising of Uṣas is described here.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers as read by the OCR where the page image is not clear).** Words treated: *jānatī* — from the root *jñā avabodhane* (Kryādi class); śatṛ in the sense of laṭ; *kryādibhyaḥ śnā* (Pā. 3-1-81) gives the *śnā* augment; *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the ā; *jñā janor jā* (Pā. 7-3-79) gives the substitute *jā*; in the feminine, *ugitaś ca* (Pā. 4-1-6) gives ṅīp; the śatṛ without *num* — *śatur anumo nadyajādī* (Pā. 6-1-173) — gives the acute accent on the ending. *kṛṣṇāt* — root *kṛṣ vilekhane*; *kṛṣer varṇe* [?] (Uṇ. 3-284 as read by the OCR) gives the suffix *nak*; as it has the indicatory *k* there is no guṇa; the suffix *n* becomes *ṇ* after the *ṣ*; the suffix-accent makes the word final-acute (ablative singular form). *ajaniṣṭa* — root *janī prādurbhāve*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 [?] — the OCR reads "3-3-6", the print is not clear to me) gives the present sense in the Veda, with luṅ; the third person singular *ta*; *siC* substitute; the *iṭ* augment by the rule on ārdhadhātuka; *ṣṭutva* of the *t* of the ending after the *ṣ*; the augment *aṭ* to the stem; since it follows a verb-ending that is not at the head, the *nighāta* accent. *śvitīcī* — root *añcu gatipūjanayoḥ*; the word *śvitam añcati iti śvitīcī*; *ṛtvik dadhṛk…* (Pā. 3-2-59 [?]; OCR "3-2-51") gives *kvin* when the *subanta śviti* stands as the upapada; by *aniditāṃ hala upadhāyāḥ kṅiti* the nasal of the root is elided; in the feminine, because of the *ug*-marker, ṅīp; by *ac* … (*aco* [?] Pā. 6-4-138, as read by the OCR) the stem having the *bha* designation loses the ā of the root…
+
+### Printed p. 112  (PDF 133)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+…*ca* (Pā. 6-3-138, as read by the OCR): the nasal being elided, since the root *añc* with its ā follows, the preceding *i* is lengthened; and taking as its cause the unaccented ṅīp, the accent on the root — whose *a* is elided — *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161) gives the acute accent on the remainder (the ṅīp).
+
+*mināti* — root *mīñ hiṃsāyām* (Kryādi); laṭ third person singular *tip*; *kryādibhyaḥ śnā* (Pā. 3-1-81) gives *śnā*; *mīnāter nigame* [?] (Pā. 7-3-81, as read by the OCR) shortens the root when *śnā* follows, and the form *mināti* results; since it stands after a non-verb word, the *nighāta* accent.
+
+*aharaha* — in the sense of constancy, *nityavīpsayoḥ* (Pā. 8-1-4) gives the doubling; since the latter has the designation *āmreḍita*, *anudāttaṃ ca* (Pā. 8-1-3) makes it wholly unaccented.
+
+*niṣkṛtam* — root *ḍukṛñ karaṇe*; in the passive, *niṣṭhā*, the suffix *kta*; *gatir anantaraḥ* — when the prefix would have its natural accent, *pravṛddhādīnāṃ ca* (Pā. 6-2-147, as read by the OCR) as an exception gives the accent of the latter member's own acute.
+
+*ācarantī* — root *cara gatibhakṣaṇayoḥ*; śatṛ in the laṭ sense; *śap* augment; in the feminine, *ugitaś ca* (Pā. 4-1-6) gives ṅīp; *śapśyanor nityam* [?] (Pā. 7-1-81, as read by the OCR) gives the *num* augment; since the *sārvadhātuka* is unaccented by *tāsyanudāttet* (Pā. 6-1-186) the accent of the root remains; in the *gati*-compound the accent of the latter member [*kṛdutarapada-prakṛtisvara*] arises. ‖ 9 ‖
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> कन्येव तन्वा शाशदाना एषि देवि देवमियक्षमाणम् ।
+> संस्मयमाना युवतिः पुरस्तादाविर्वक्षांसि कृणुषे विभाती ॥ १० ॥
+
+> *kanyeva tanvā śāśadānā eṣi devi devamiyakṣamāṇam |*
+> *saṃsmayamānā yuvatiḥ purastādāvirvakṣāṃsi kṛṇuṣe vibhātī ‖ 10 ‖*
+
+### Printed p. 113  (PDF 134)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 5.)*
+
+**॥ पदपाठः ॥**
+
+> कन्याऽइव । तन्वा । शाशदाना । एषि । देवि । देवम् । इयक्षमाणम् ।
+> संस्मयमाना । युवतिः । पुरस्तात् । आविः । वक्षांसि । कृणुषे । विभाती ॥ १० ॥
+
+> *kanyā 'iva | tanvā | śāśadānā | eṣi | devi | devam | iyakṣamāṇam |*
+> *saṃsmayamānā | yuvatiḥ | purastāt | āviḥ | vakṣāṃsi | kṛṇuṣe | vibhātī ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> तन्वा शरीरेण शाशदाना शाशद्यमाना स्पष्टतां प्राप्नुवती । शाशदानः शाशद्यमानः । नि. ६-१६ । इति यास्कः । कन्येव कमनीया कन्येव । कन्या कमनीया भवति कैनेयं नेतव्येति वा । नि. ४-१५ । इति यास्कः । सा यथा जनान्तिके विवसना संचरति तथा हे उषः त्वं कन्या कमनीयाप्रगल्भा सती तन्वा शरीरेण शाशदाना स्पष्टतां गच्छन्ती दृश्यसे । पश्चात्प्रगल्भा सती हे देवि देवनशीले इयक्षमाणं यष्टुमिच्छन्तमभिमतं दातुमिच्छन्तं वा देवं द्योतनस्वभावं सूर्यरूपं प्रियमेषि गच्छसि । ततः पश्चात् युवतिर्यौवनोपेता सती पुरस्तात्प्रत्युत सूर्यस्य पुरतः संस्मयमाना समीपदंशं [?] हास्यं कुर्वती विभाती अत्यन्तं भासमाना वक्षांसि वक्षसोऽलक्षितानि नानावर्णान्याविष्कृणुषे । प्रकटीकरोषि । यद्वा । युवतिरिति लुप्तोपमा । यथा लोके प्रगल्भा योषित् पुरस्तात् प्रियतमस्य पुरतः संस्मयमाना दन्तप्रदर्शनाय ईषदसनं कुर्वती वक्षांसि वक्षसोपलक्षितानि गोस्थानि बाहुमूलस्तनादीन्याविष्करोति तथा त्वमित्यर्थः । यद्वा । पुरस्तात् पूर्वस्यां दिशि संस्मयमाना स्मितोषमप्रकाशं कुर्वती युवतिः सर्वेषु भावेषु मिश्रणशीला वक्षांसि । वक्ष इति रूपनाम । वन्त्स्थानीयानि नीलपीतादीनि रूपाण्याविष्करोषि ॥
+
+> *tanvā śarīreṇa śāśadānā śāśadyamānā spaṣṭatāṃ prāpnuvatī | śāśadānaḥ śāśadyamānaḥ | ni. 6-16 | iti yāskaḥ | kanyeva kamanīyā kanyeva | kanyā kamanīyā bhavati kaineyaṃ netavyeti vā | ni. 4-15 | iti yāskaḥ | sā yathā janāntike vivasanā saṃcarati tathā he uṣaḥ tvaṃ kanyā kamanīyāpragalbhā satī tanvā śarīreṇa śāśadānā spaṣṭatāṃ gacchantī dṛśyase | paścātpragalbhā satī he devi devanaśīle iyakṣamāṇaṃ yaṣṭumicchantamabhimataṃ dātumicchantaṃ vā devaṃ dyotanasvabhāvaṃ sūryarūpaṃ priyameṣi gacchasi | tataḥ paścāt yuvatiryauvanopetā satī purastātpratyuta sūryasya purataḥ saṃsmayamānā samīpadaṃśaṃ [?] hāsyaṃ kurvatī vibhātī atyantaṃ bhāsamānā vakṣāṃsi vakṣaso 'lakṣitāni nānāvarṇānyāviṣkṛṇuṣe | prakaṭīkaroṣi | yadvā | yuvatiriti luptopamā | yathā loke pragalbhā yoṣit purastāt priyatamasya purataḥ saṃsmayamānā dantapradarśanāya īṣadasanaṃ kurvatī vakṣāṃsi vakṣasopalakṣitāni gosthāni bāhumūlastanādīnyāviṣkaroti tathā tvamityarthaḥ | yadvā | purastāt pūrvasyāṃ diśi saṃsmayamānā smitoṣamaprakāśaṃ kurvatī yuvatiḥ sarveṣu bhāveṣu miśraṇaśīlā vakṣāṃsi | vakṣa iti rūpanāma | vantsthānīyāni nīlapītādīni rūpāṇyāviṣkaroṣi ‖*
+
+*(Read from the image and checked against the OCR; the small-type words in the middle — "samīpadaṃśaṃ", "vakṣaso 'lakṣitāni", "gosthāni", "vantsthānīyāni" — are doubtful in the print and are given as I read them; the OCR text there is badly garbled.)* "*Tanvā* — with the body; *śāśadānā* — becoming visible, attaining clarity. '*Śāśadānaḥ* means *śāśadyamānaḥ*' (Ni. 6-16, as read by the OCR), says Yāska. *Kanyeva* — like a lovely maiden. '*Kanyā* is lovely; or [it is said] "by whom is she to be led?"' (Ni. 4-15, as read by the OCR), says Yāska. As such a maiden goes about near people in scanty dress, so, O Uṣas, you, a lovely maiden not yet bold, are seen becoming clear with your body. Afterwards, grown bold, O goddess (*devi*, of the shining nature), you go to the god (*devam*, of the shining nature, of the form of the Sun) who is dear to you, who wishes to sacrifice, or who wishes to give you what is desired. Thereafter, a young woman (*yuvatiḥ*) endowed with youth, in front of the Sun, smiling (*saṃsmayamānā*) a little, shining (*vibhātī*) exceedingly, you make manifest (*āviḥ kṛṇuṣe*) the breasts, the many-coloured [forms] [?] seen on the bosom. Or else: *yuvatiḥ* is a simile with the particle omitted. As in the world a bold woman, in front of her beloved, smiling, lightly laughing to show her teeth, reveals the parts of the bosom — the hollow of the arm, the breasts and the like — so you: that is the sense. Or else: *purastāt* — in the eastern quarter, smiling and making a light like a gentle smile, a young woman mingling in all existences, you reveal the *vakṣāṃsi* — '*vakṣa*' is a name for form — the forms such as blue and yellow, that take the place of [the parts of the body] [?]."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Devi* — O goddess; *kanyā iva* — like a maiden; *tanvā* — with the body; *śāśadānā* — having attained clarity; *iyakṣamāṇam* — wishing to give (what is desired); *devam* — the shining (the Sun, who is dear); *eṣi* — you approach; (*tataḥ* — afterwards); *yuvatiḥ* — endowed with youth (you); *purastāt* — in front of the beloved; *saṃsmayamānā* — with a slight smile; *vibhātī* — of special brilliance; *vakṣāṃsi* — the chest and all the other limbs; *ā kṛṇuṣe* — you make manifest. *Purastāt* — in the eastern quarter; *saṃsmayamānā* — spreading a brilliance like a gentle smile; *yuvatiḥ* — showing many colours; *vibhātī* — of special light; *vakṣāṃsi* — the forms (blue, yellow and the like); *āviḥ kṛṇuṣe* — you make manifest.
+
+---
+
+**Progress note:** Sūkta 123 through printed p. 113 (PDF 134): Ṛk 10 Saṃhitā/Pada/bhāṣya/Pratipadārtha done; resume p. 114 (PDF 135) with Ṛk 10 Bhāvārtha and printed English.
