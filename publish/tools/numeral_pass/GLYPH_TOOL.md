@@ -16,3 +16,9 @@ point (hyphen touching a digit, digit split into pieces, "ಸೂ." picked up as 
 digit). Needs: better segmentation (per-line projection, stricter hyphen test),
 a reject class for letters, and a check against the OCR / my reading.
 Use it as a second opinion, never as the only reading.
+
+## Classifier attempt (Oct 2026, Vol 10) — `dc/`
+- `dc/seed.py` cuts the reader's `Kannada_Numbers_0000_to_9999` sheets into 39,200 position-labelled digit glyphs.
+- `dc/train.py` trains an SVM on augmented seed glyphs + self-labelled book glyphs + a junk class (10). The seed font transfers well: 0, 1, 3, 4, 5, 7, 9 are recognised confidently on Vol 10 book glyphs; 2, 6, 8 with lower confidence (visual gallery check). OCR-aligned weak labels (`dc/label.py`) were NOT usable (alignment mostly hit non-numeral hyphens).
+- `dc/refs.py` finds and decodes hyphenated references per page (300 dpi). Visual check on 36 samples (PDF pp. 360–368): about half of real references decode fully correctly; typical failures are a dropped digit (hook-6, ಲ-8, a 2 after a 6), a missed hyphen, and false hits on Latin text ("English", "ation"). Comparison with the Google-Docs OCR (exact match 8 of 142 on PDF pp. 340–380) is not meaningful because the OCR itself drops digits.
+- Verdict: NOT reliable end to end; do not use to overwrite readings. Next steps if continued: segmentation at 600 dpi, a digit-count/format validator (e.g. Pāṇini refs are a-b-c with a ≤ 8), and a human-checked test set of ~200 references to measure accuracy.
