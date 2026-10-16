@@ -1942,6 +1942,8 @@ The seers have described the nature of this deity Uṣas in many ways, and have 
 
 ***arjunī*** — *śubhravarṇā*: "white" — *the white*. Recorded in Ṛ. Saṃ. 1-49-3; 5-84-2.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-20; 2-19; 1-30-20; 1-481; 1-48-10; 1-92-14; 4-526; 5-79-4; 5-79-10; 8-47-14; 1-48-10; 1-48-5; 148-8; 4-52-1; 7-01-1; 1-92-7; 1-113-4; 1-48-6; 8-69-2; 6-75-5; 7-77-3; 8-58-3; 1-49-3; 5-84-2
+
 ### Printed p. 72  (PDF 93)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 123".)*
@@ -1968,6 +1970,8 @@ These words are ordinarily used with reference to the deity Uṣas; in some cont
 
 *(Small type; the Anukramaṇikā words and the Āśvalāyana-sūtra references at the end are read with doubt, as marked.)* "Among the six Sūktas of the eighteenth Anuvāka, beginning *kad itthā*, *pṛthū rathaḥ* is the third; it has thirteen ṛks. The Anukramaṇikā says here: *pṛthuḥ saptonoṣasyaṃ tu* [as read]. The seer is Kakṣīvān, the son of Dīrghatamas — by the rule that the seer is the one who has been defined elsewhere; by the rule of the unspecified metre the metre is Triṣṭubh; from the use of the word *tu* this Sūkta and the next have Uṣas as the deity. In the *prātaranuvāka* the Sūkta has its application in the *uṣasya kratu* [the Uṣas rite] and the following; it is prescribed in the section … ; and the two Sūktas beginning with this one are applied in the Aśvina-śastra on the analogy of the *prātaranuvāka*."
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-6-1; 1-113-12; 1-123-4; 1-123-4; 1-1943-2; 10-75-6; 3-5-11; 4-52-2; 8-68-18; 1-8-8; 1-30-5; 1-403; 1-92-14; 1-22-3; 7-81-6; 4-52-4
+
 ### Printed p. 73  (PDF 94)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Anuvāda (Kannada).** Of the six Sūktas of the eighteenth Anuvāka, which begins with *kad itthā*, this Sūkta *pṛthū rathaḥ* is the third. It has thirteen ṛks. The Anukramaṇikā says "*pṛthuḥ saptonoṣasyaṃ tu*" [as read]. The seer of this Sūkta is Kakṣīvān, the son of Dīrghatamas; the metre is Triṣṭubh; since the word *tu* is used in the sūtra, this Sūkta and the next are addressed to Uṣas. At the time of reciting the *prātaranuvāka* mantras, this Sūkta and the following one are applied for the mantras connected with the Uṣas rite (*uṣasya kratu*) — so it is prescribed in the Āśvalāyana Śrauta Sūtra, section *ahoṣasyaḥ*, by the sūtra *pṛthū ratha iti sūkte pratyṛcam ityādi* (Āś. 4-14 [as read; the OCR has "4 14", the hyphen lost]); and for the Aśvina-śastra mantras too these two Sūktas are applied, as stated by the sentence *prātaranuvāka-nyāyena* (Āś. 6-3).
@@ -1992,6 +1996,8 @@ These words are ordinarily used with reference to the deity Uṣas; in some cont
 > *pṛthuḥ | rathaḥ | dakṣiṇāyāḥ | ayoji | ā | enam | devāsaḥ | amṛtāsaḥ | asthuḥ |*
 > *kṛṣṇāt | ut | asthāt | āryā | vi 'hāyāḥ | cikitsantī | mānuṣāya | kṣayāya ‖ 1 ‖*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 4-14
+
 ### Printed p. 74  (PDF 95)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 123".)*
@@ -2010,6 +2016,8 @@ These words are ordinarily used with reference to the deity Uṣas; in some cont
 
 **Printed English (as printed):** *The spacious chariot of the graceful (Dawn) has been harnessed ; the immortal gods have ascended it; the noble and all-pervading Ushas has risen up from the darkness, bringing health to human habitations.*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-20
+
 ### Printed p. 75  (PDF 96)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 1.**
@@ -2027,6 +2035,8 @@ Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in sev
 (Ṛ. Saṃ. 2-1[?]-[?], as read; the OCR is garbled.) For the word *dakṣiṇā* in this ṛk, the Nirukta explains in one way: *dakṣiṇā dakṣateḥ samardhayati karmaṇo vṛddham samardhayatīti* — "*dakṣiṇā* [is so called] because she completes (*samardhayati*) the work, brings the deficient to fullness". Here the vṛttikāra [Sāyaṇa's predecessor] says: *yajñe hi yat kiñcid vigataṛddhikaṃ kṛtaṃ bhavati tad iyaṃ samardhayati viśiṣṭaṃ hi yajñasya sādhanam etad iti* — "in the sacrifice, whatever is made deficient in its completeness is made complete by this; hence it is a special means of the sacrifice": whatever in the sacrifice is deficient in the means of completion, this makes perfect; therefore this produces prosperity; hence, in the matter of the completion of a sacrifice this is the means — so the meaning is explained. In the second explanation of the Nirukta: *api vā pradakṣiṇāgamanād diśam abhipretya digdiśasuprakṛtiḥ* [as read, doubtful] — *dakṣiṇa* means the southern direction. Here the vṛttikāra explains that the priests go round the sacrificial altar in a clockwise (*pradakṣiṇa*) circuit; the cause of this going round, namely to go first facing the south — [the sense is] that *dakṣiṇā* in the sense of the southern direction (Ni. 1-2, as read in the OCR). In the third explanation of the Nirukta, *dakṣiṇo hasto dakṣateḥ utsāhakarmaṇaḥ* ("*dakṣiṇa* is the hand, from *dakṣ* in the sense of exertion"): when working, the worker uses the right hand to show his exertion; hence *dakṣiṇā* means "the right hand". Following this meaning also, [*dakṣiṇā*] is derived from the root *dāś* "to give" (*dāśater vā syād dānakarmaṇaḥ*, "or [it comes] from the root *dāś*, in the sense of giving"), so that the word *dakṣiṇā* is formed. Following the three kinds of meaning given by the Nirukta writer, Sāyaṇa explains *pravṛddhāyāḥ*, "of one who has reached excess" (Ni. 1-3 [?], as read).
 
 ***kṛṣṇāt*** — *nikṛṣṭavarṇāt naiśāt tamasaḥ* (Ni. 1-7 [?], as read): "from the darkness of night, which is of a low (black) colour"; this is the sense. The Nirukta writer —
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-7; 1-7; 1-7
 
 ### Printed p. 76  (PDF 97)
 
@@ -2065,6 +2075,8 @@ Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in sev
 > *teṣāmiṣṭāni samiṣā madanti yatrā saptarṣīn para ekamāhuḥ ‖*
 
 (Ṛ. Saṃ. 10-82-[?], as read.)
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-20; 3-11; 7-10-5; 5-9; 3-13; 10-26
 
 ### Printed p. 77  (PDF 98)
 
@@ -2122,6 +2134,8 @@ Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in sev
 
 (Ṛ. Saṃ. 7-75-2 [?], as read.) — the words *bṛhatā rathena* and the like in these ṛks support [the meaning].
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 8-18; 5-80-2
+
 ### Printed p. 78  (PDF 99)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 123".)* ***ratho āyoji*** — *aśvair yuktaḥ saṃnaddho 'bhūt*: "the chariot was made ready, yoked with horses". Here "horses" does not mean stallions; as Yāska says in the Nirukta, *aruṇo gāva uṣasaḥ* — "the red cows are Uṣas's [horses]" — the horses of Uṣas's chariot are the red-coloured cows (or rays) (Ni. 2-18 [?], as read).
@@ -2130,8 +2144,7 @@ Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in sev
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 1, noted briefly; the sūtra numbers listed by the reader's OCR for this page are given in the block at the end).** *Ayoji* — the root *yuji yoge*; *luṅ* in the passive, 3rd singular, the suffix *ta*; *ciṇ bhāvakarmaṇoḥ* — *ciṇ* in place of *cli*, with the loss of *ta* by *ciṇo luk* (*ciṇo luk*, as printed); the augment *aṭ*; after an *atiṅanta* the *nighāta*. *Devāsaḥ* — the root *divu*; since it is of the *pacādi* group the suffix *ac*; the guṇa of the light penultimate; final acute by *cit*; when *jas* follows, *ājjaser asuk*. *Amṛtāsaḥ* — the root *mṛṅ prāṇatyāge*; the suffix *kta*; with *nañ* in the compound, *ñño jaramarami…* the final acute of the latter member; when *jas* follows, as before the *asuk*. *Asthuḥ* — the root *ṣṭhā gatinivṛttau*; *luṅ*, 3rd plural, *jhi*; *cleḥ sic*, and by *gātisthāghupābhūbhyaḥ sicaḥ* the *luk* of *sic*; *ātaḥ* the substitute *jus* for *jhi*; *usyapadāntāt* the *pararūpa*; since it follows an *atiṅanta* the *nighāta*; so too *asthāt* in the 3rd singular. *Cikitsantī* — the root *kita nivāse*; *kitaḥ…* (by the sūtra *kiter vyādhipratīkāre*) the suffix *san*; taking it as the cause, reduplication of the root by *sanyaṅoḥ*; by *sanādyantā dhātavaḥ* the stem *cikitsa* gets the name of a root; the suffix *śatṛ* in the sense of the present, …
 
----
-
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-1-66; 6-4-104; 7-1-50; 6-2-116; 2-4-77; 3-4-110; 61-96; 3-15-3
 
 ### Printed p. 79  (PDF 100)
 
@@ -2164,6 +2177,8 @@ Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in sev
 > *viśvasmādbhuvanātsarvasmātsuptādbhūtajātātpūrvā prathamā seyamuṣā abodhi | buddhābhūt | uṣaḥkālamupagamya hi paścātsarve prāṇinaḥ pratibudhyante | kīdṛśī sā | vājaṃ gamanaśīlaṃ prakāśaṃ nirvartyābhakāraṃ [?] jayantī parābhavaṃ kurvatī | yadvā | vājaśabdo 'nnanāmasu paṭhitatvādannaṃ nāma | annaṃ vai vājaḥ (śa. brā. 9-4-1-[?]) iti śruteḥ [?] | yajamānārthamannaṃ sampādayantī | bṛhatī mahatī sanutrī sarvaṃ jagatsambhajantī dhātrī vā prakāśasya | kiñca soṣā uccairuccairūrdhvapradeśeṣu sthitā satī vyakhyat | vicaṣṭe | sarvaṃ jagatprakṛtītyarthaḥ | kīdṛśī sā | yuvatirmiśraṇaśīlā nityayauvanā vā punarbhūḥ punaḥpunarbhavanaśīlā pratidinaṃ vartamānatvāt | soṣāḥ pūrvahūtau satyāṃ prathamā mukhyā prakṛṣṭā satyāgan devayajanadeśaṃ pratyāgacchati | prathama iti mukhyanāma pratamo bhavatīti yāskaḥ | ni. 2-21 [?] | itaradevebhyaḥ pūrvamāhūtā satī śīghramevāgacchatītyarthaḥ ‖*
 
 *(Small type at 150 dpi; the Śatapatha reference and the Nirukta number are partly doubtful, as marked.)* "From all beings (*viśvasmād bhuvanāt*) — from all creatures that were asleep — she is first (*pūrvā*): this Uṣas awoke (*abodhi*). For after Dawn's arrival all living beings wake. What is she like? *Jayantī vājam* — overcoming (*jayantī*) the *vāja*, the moving light — that is, defeating the darkness [or: *vāja* is among the names of food: 'food is *vāja*' (Śa. Brā. 9-4-1-? `[?]`) — providing food for the sacrificer]. *Bṛhatī*: great; *sanutrī*: she who shares out everything to the world, or the supporter of light. And further, she, Uṣas, standing in lofty regions, *vyakhyat*: looks at, sees all the world. What is she like? *Yuvatiḥ* — ever young, or mingling; *punarbhūḥ* — becoming again and again, as she comes each day. She, Uṣas, the first at the first invocation (*pūrvahūtau*), chief, excellent, comes (*agan*) to the place of the divine sacrifice. *Prathama* is a name of 'chief': 'it becomes *pratama*', says Yāska (Ni. 2-21 `[?]`). The sense: being invoked before the other gods, she comes at once."
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-1-189; 4-1-161; 3-1; 61-213
 
 ### Printed p. 80  (PDF 101)
 
@@ -2276,6 +2291,8 @@ Yāska gives for the word *prathama* the meaning "chief":
 It is Agni himself who apportions the oblation shares to the gods. But since, when the dawn-time has come, the oblation is at once offered in the fire, the character of "giver of the oblation shares" is attributed to Uṣas figuratively (*aupacārika*). He has stated this clearly: *uṣasi pravṛttāyāṃ haviṣo dīyamānatvāt uṣaso dātṛtvam upacaryate*.
 
 ***damūnāḥ*** — *yajamānebhyo 'bhimataphaladānamanāḥ*: "one with a mind to grant the desired fruit to the sacrificers". In the Nirukta the word *damūnāḥ* (Ni. 4-4 `[?]`) is explained *damanamanāḥ* — one with a cruel/restrained mind [as printed]; or *dānamanāḥ*, one willing to give; or *dāntamanāḥ*, one whose mind is calmed by the restraints (*yama*, *niyama*); or "…
+
+---
 
 ---
 
