@@ -11246,4 +11246,84 @@ The word *ojas* is used in the sense of "strength", as it was used many times be
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 455 (PDF 476): Ṛks 1–7 complete; Ṛk 8 complete except the end of its grammar page (the *dakṣat* entry breaks off at the foot of p. 455; remainder and ‖ 8 ‖ on p. 456); resume p. 456 (PDF 477), then Ṛk 9. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/, PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437; Ṛk 6 bhāṣya p. 442; Ṛk 7 bhāṣya p. 446; Ṛk 8 bhāṣya p. 451 and the Parāśara/Aṃśumatī passages pp. 453–454, with "hariyuttaravuḍa" doubtful); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 456  (PDF 477)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+*(Grammar of Ṛk 8, concluded; numbers as printed.)* *dakṣat* (cont.) — the *h* of the root becomes *gh*/*k*… by *dādher ghoḥ* [as read]; *ṣatva* of the *s* following the *k*; *ekāco baśo bhaṣ jhaṣantasya sdhvoḥ* (Pā. 8-2-37) gives *bh* for the root-initial; the form *dakṣat*; because it follows a finite verb *nighāta* is not applied; the root's accent remains since the suffix is *p*-marked. *tatṛṣāṇam* — root *ñitṛṣā pipāsāyām*; when *liṭ* follows, *kānac* replaces it; *citaḥ* (Pā. 6-1-163) gives the acute on the last syllable; accusative singular. *oṣati* — root *uṣa dāhe*; *laṭ* third person singular; *tiṅ-nighāta*. *arśasānam* — root *ṛ gatau*; *arter guṇaḥ śuṭ ca* (Uṇ. 3-[?]) gives the suffix *āsānac*; guṇa of the root; the augment *śuṭ*; because *ṭ*-marked the augment comes at the beginning of the suffix; *citaḥ* gives the acute on the last syllable. ‖ 8 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> सूरश्चक्रं प्र वृहज्जात ओजसा प्रपित्वे वाचमरुणो मुषायति ।
+> ईशान आ मुषायति ।
+> उशना यत्परावतोऽजगन्नूतये कवे ।
+> सुम्नानि विश्वा मनुषेव तुर्वणिरहा विश्वेव तुर्वणिः ॥ ९ ॥
+
+> *sūraścakraṃ pra vṛhajjāta ojasā prapitve vācamaruṇo muṣāyati |*
+> *īśāna ā muṣāyati |*
+> *uśanā yatparāvato 'jagannūtaye kave |*
+> *sumnāni viśvā manuṣeva turvaṇirahā viśveva turvaṇiḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> सूरः । चक्रम् । प्र । वृहत् । जातः । ओजसा । प्रऽपित्वे । वाचम् । अरुणः । मुषायति ।
+> ईशानः । आ । मुषायति ।
+> उशना । यत् । पराऽवतः । अजगन् । ऊतये । कवे ।
+> सुम्नानि । विश्वा । मनुषाऽइव । तुर्वणिः । अहा । विश्वाऽइव । तुर्वणिः ॥ ९ ॥
+
+> *sūraḥ | cakram | pra | vṛhat | jātaḥ | ojasā | pra 'pitve | vācam | aruṇaḥ | muṣāyati |*
+> *īśānaḥ | ā | muṣāyati |*
+> *uśanā | yat | parā 'vataḥ | ajagan | ūtaye | kave |*
+> *sumnāni | viśvā | manuṣā 'iva | turvaṇiḥ | ahā | viśvā 'iva | turvaṇiḥ ‖ 9 ‖*
+
+*(Read from the image. Saṃhitā "*pra vṛhaj jāta ojasā*" as printed, the Pada giving *jātaḥ*; *tuvarṇiḥ* is printed "*turvaṇiḥ*".)*
+
+### Printed p. 457  (PDF 478)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, many places doubtful: [?]).*
+
+> अत्रापीतिहासमाचक्षते । केचनासुराः पूर्वमिन्द्रवज्रेण वधो मा भूदिति ब्रह्मणो वरं लब्ध्वेन्द्रमगणयित्वोद्वृत्ता आसन् । तान् हन्तुमिन्द्रः सूर्यरथस्य चक्रमादायावधीदिति । तदिदमुच्यते । अयमिन्द्रः सूरः सूर्यस्य षष्ठ्यर्थे प्रथमा । चक्रं रथस्य चक्रमादायौजसा शारीरेण बलेन जातः सम्वृद्धः सन् प्र वृहत् । प्रकृष्टं वृक्णवान् । वृहू उद्यमने । तौदादिकः । किंचारुणोऽरुणवर्णोऽत्यन्तं तेजोयुक्तः सन् यद्वा गमनशीलः सन् प्रपित्वे तेषां समीपे [?] तेषामुपगम्य वाचं वागुपलक्षितं प्राणं मुषायति । मुमोष मुष्णाति वा । प्रपित्व इत्याद्यनामाम [?] । यद्वा । वाचं तेषां प्रहारध्वनिं मुषायति । तेषु हतेषु ध्वनिः स्वयमेव विश्रान्तो भवति । अवधीदित्यर्थः । अथवा । इन्द्र एव द्युस्थानः सन्नादित्यात्मना स्तूयते । सूरः सूर्यो जाते उदिते सन्नोजसा स्वकीयेन तेजसा युक्तश्चक्रं प्र वृहत् । तमोनिवारणार्थमसुरजयाय वा चक्रोपलक्षितं रथं प्रकर्षेणोद्यतं करोति । ततः पूर्वमरुणस्सूरथयन्ता प्रपित्वे मन्देहादीनामसुराणां प्रपित्वे समीपे वाचं तेषां जहद्भिन्दतीति दध्यनिं मुषायति । मुष्णाति । मुषेरुत्तरस्य क्ष्णोऽवानः । श्छन्दसि शायजपीति शायजादेशः ॥ तदनन्तरं सूर्य ईशानः सर्वाणि तमांस्यसुरान्वा निराकर्तुं समर्थः सन् आ मुषायति । समन्तान्मुष्णाति । अथ प्रकृतम् ॥ हे कवे क्रान्तदर्शिन् यद्यस्मात्त्वमुशनोऽनसा [?] युक्तः सन् परावतो दूरात्स्वर्गस्थानादजगन् [?] । उशना कविः तदुपेतमूतये रक्षणाय । परावतो दूरात्स्वर्गस्थानादजगन् गतवानसि प्राप्तवानसि ॥ गमेर्लुङि सिचि छान्दसः शपः श्लुः । हल्ङ्यादिलोपे [?] इति सलोपः ॥ यद्वा । उशना उशनसा ऋषिणा युक्तः सन् जगन् आगच्छ । आगत्य च विश्वा विश्वानि सुम्नानि सुखसाधनानि धनान्यादायास्माकं तुर्वणिः शीघ्रं सम्भक्ता भवेति शेषः । तुर्वणिः शीघ्रं सम्भक्तेति निरुक्तम् । नि. ६-१४ [?] । तत्र दृष्टान्तः । मनुषेव मनुष्येण । स यथा सम्भक्त्रेण [?] । यद्वा । मनुष्येण मनुष्याणामिव । इतरेषामृत्विजां विश्वा सुम्नानि सर्वाणि धनान्यादाय तुर्वणिर्भवसि । तद्वदस्माकमपि । न केवलमेकस्मिन्नेव यागादिने किंत्विहा विश्वेव विश्वस्यान्यहानि [?] सर्वेष्वप्यहःसु तुर्वणिर्भव । यद्वा । तुर्वणिस्त्वमहा विश्वेव विश्वस्यान्यहानीव । यथा दीर्घायुष्यं यथा ददासि तथा सुम्नान्यपि । उभयमपि देहीत्यर्थः ॥
+
+> *atrāpītihāsamācakṣate | kecanāsurāḥ pūrvamindravajreṇa vadho mā bhūditi brahmaṇo varaṃ labdhvendramagaṇayitvodvṛttā āsan | tān hantumindraḥ sūryarathasya cakramādāyāvadhīditi | tadidamucyate | ayamindraḥ sūraḥ sūryasya ṣaṣṭhyarthe prathamā | cakraṃ rathasya cakramādāyaujasā śārīreṇa balena jātaḥ samvṛddhaḥ san pra vṛhat | prakṛṣṭaṃ vṛkṇavān | vṛhū udyamane | taudādikaḥ | kiṃcāruṇo 'ruṇavarṇo 'tyantaṃ tejoyuktaḥ san yadvā gamanaśīlaḥ san prapitve teṣāṃ samīpe [?] teṣāmupagamya vācaṃ vāgupalakṣitaṃ prāṇaṃ muṣāyati | mumoṣa muṣṇāti vā | prapitva ityādyanāmāma [?] | yadvā | vācaṃ teṣāṃ prahāradhvaniṃ muṣāyati | teṣu hateṣu dhvaniḥ svayameva viśrānto bhavati | avadhīdityarthaḥ | athavā | indra eva dyusthānaḥ sannādityātmanā stūyate | sūraḥ sūryo jāte udite sannojasā svakīyena tejasā yuktaścakraṃ pra vṛhat | tamonivāraṇārthamasurajayāya vā cakropalakṣitaṃ rathaṃ prakarṣeṇodyataṃ karoti | tataḥ pūrvamaruṇassūrathayantā prapitve mandehādīnāmasurāṇāṃ prapitve samīpe vācaṃ teṣāṃ jahadbhindatīti dadhyaniṃ muṣāyati | muṣṇāti | muṣeruttarasya kṣṇo 'vānaḥ | śchandasi śāyajapīti śāyajādeśaḥ ‖ tadanantaraṃ sūrya īśānaḥ sarvāṇi tamāṃsyasurānvā nirākartuṃ samarthaḥ san ā muṣāyati | samantānmuṣṇāti | atha prakṛtam ‖ he kave krāntadarśin yadyasmāttvamuśano 'nasā [?] yuktaḥ san parāvato dūrātsvargasthānādajagan [?] | uśanā kaviḥ tadupetamūtaye rakṣaṇāya | parāvato dūrātsvargasthānādajagan gatavānasi prāptavānasi ‖ gamerluṅi sici chāndasaḥ śapaḥ śluḥ | halṅyādilope [?] iti salopaḥ ‖ yadvā | uśanā uśanasā ṛṣiṇā yuktaḥ san jagan āgaccha | āgatya ca viśvā viśvāni sumnāni sukhasādhanāni dhanānyādāyāsmākaṃ turvaṇiḥ śīghraṃ sambhaktā bhaveti śeṣaḥ | turvaṇiḥ śīghraṃ sambhakteti niruktam | ni. 6-14 [?] | tatra dṛṣṭāntaḥ | manuṣeva manuṣyeṇa | sa yathā sambhaktreṇa [?] | yadvā | manuṣyeṇa manuṣyāṇāmiva | itareṣāmṛtvijāṃ viśvā sumnāni sarvāṇi dhanānyādāya turvaṇirbhavasi | tadvadasmākamapi | na kevalamekasminneva yāgādine kiṃtvihā viśveva viśvasyānyahāni [?] sarveṣvapyahaḥsu turvaṇirbhava | yadvā | turvaṇistvamahā viśveva viśvasyānyahānīva | yathā dīrghāyuṣyaṃ yathā dadāsi tathā sumnānyapi | ubhayamapi dehītyarthaḥ ‖*
+
+*(Sense: "Here also they relate an itihāsa: certain demons formerly, having obtained from Brahmā the boon 'let there be no death by Indra's thunderbolt', became arrogant, disregarding Indra. To kill them Indra took the wheel of the Sun's chariot and slew them. That is told here: this Indra — *sūraḥ*, 'the Sun', the first case for the genitive — taking the wheel (*cakram*) of the chariot, grown (*jātaḥ*) in bodily strength (*ojasā*), *pra vṛhat* — tore out. Further, *aruṇaḥ* — reddish, exceedingly brilliant, or moving — at *prapitve*, near them, comes up and *muṣāyati* — takes away their breath marked by speech; or he stops the sound of their blows. Or: Indra himself, standing in heaven, is praised in the form of the Sun. When *sūra* the sun has risen, endowed with his own splendour, he lifts the wheel-marked chariot to dispel darkness or to conquer the demons. Then, before, *aruṇa* — the sun's charioteer — near the demons … *īśānaḥ* — able to remove all darknesses or the demons — *ā muṣāyati*, carries off all around. Now to the context: O sage (*kave*, far-seeing), since you came (*ajagan*) from afar (*parāvataḥ*), from the heavenly abode, for protection (*ūtaye*), joined with Uśanā [or: *uśanā kaviḥ* — the sage Uśanas]; coming, bring all (*viśvā*) the means of happiness (*sumnāni*), wealth, and be quick (*turvaṇiḥ* — 'quickly sharing', Nirukta) for us; as for man (*manuṣeva*) — as for other priests you bring all wealth, so for us too; and not only on one day of the sacrifice but on all days (*ahā viśveva*): or as you give long life, so give happiness: give both.")* *(Doubtful readings in the small type are marked [?]; the grammar tail on *muṣāyati* and *ajagan* is characterized only.)*
+
+### Printed p. 458  (PDF 479)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(ayam) indraḥ* — this Indra; *sūraḥ* — of the Sun; *cakram* — the wheel of the chariot (taking it); *ojasā* — by bodily strength; *jātaḥ* — grown; *pra vṛhat* — tore out against (the demons' bodies); *(kiṃ ca* — and); *aruṇaḥ* — reddish or moving; *prapitve* — near (them, going to them); *vācam* — speech or breath; *muṣāyati* — takes away [or: *(athavā) sūraḥ* — Indra in the form of the Sun; *jātaḥ* — risen; *ojasā* — with his own splendour; *cakram* — the wheel (chariot); *pra vṛhat* — lifts up (to remove darkness); *aruṇaḥ* — the sun's charioteer, named Aruṇa; *prapitve* — near the demons (Mandeha and the rest); *vācam* — their voice (the sound of demons, by the wheel); *muṣāyati* — makes them silent; *īśānaḥ* — able to remove darkness (or the demons); *ā muṣāyati* — destroys them entirely]; *(he) kave* — O sage; *uśanā* — joined with the sage named Uśanas; *ūtaye* — for our protection; *parāvataḥ* — from a very distant place (from the world of heaven); *ajagan* — came (or: *yat* — that you; *uśanā* — to Uśanas' protection; *parāvataḥ* — from heaven; *ajagan* — you came); *viśvā sumnāni* — all the means of happiness (taking); *manuṣā iva* — as (from a distant place) for a man the desired things are brought, or as for the other priests [wealth is granted]; *turvaṇiḥ (bhava)* — be quick to favour; *viśvā ahā iva* — on all days; *turvaṇiḥ (bhava)* — be quick to favour [or: *turvaṇiḥ* — you who give; *viśvā ahā iva* — as long life; *viśvā sumnāni* — all the means of happiness; *turvaṇiḥ (bhava)* — be one who favours quickly].
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Indra, endowed with extraordinary bodily strength, took up the wheel of the Sun's chariot and slew the demons; reddish, he destroyed them completely, being able (to destroy the Rākṣasas) — he made them lifeless; O wise Indra, as you came from the heavenly world, from far away, for the protection of Uśanas, so come and bring all the means of happiness for us and for the other priests; be quick to favour us, giving the means of happiness, every day.
+
+**Printed English (heading "English Translation"; as printed; begins here and continues on p. 459):** *"Endowed with augmented vigour, he hurled (against the foes) the wheel (of the chariot) of the sun; and, ruddy of hue, deprived them of existence; he, the sovereign lord, deprived them of existence. As you, sage Indra, come from afar to the succour of Ushanas, so do you come quickly, bearing all good things (to us), as you bear to (other) men; come quickly (to us) every day."*
+
+### Printed p. 459  (PDF 480)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 9).**
+
+***sūraś cakraṃ ojasā pravṛhat*** — *sūryasya rathasya cakram ādāya śārīreṇa balena samṛddhaḥ san prakṛṣṭavān*: "taking the wheel of the Sun's chariot, strong in body, Indra tore it out." Here too a legend is told: *kecana asurā indrasya vajrāyudhena asmākaṃ vadho mā bhūd iti brahmaṇā varaṃ labdhvā indram āgaṇayitvā uddhṛttāḥ sthitāḥ | tān hantum indraḥ sūryarathasya cakram ādāyāvadhīt iti* — "some demons, having obtained from Brahmā the boon that they should not die by Indra's thunderbolt, became arrogant, disregarding Indra, and Indra, taking the wheel of the Sun's chariot as his weapon, slew them all."
+
+> यमेन दत्तं त्रित एनमायुनगिन्द्र एणं प्रथमो अध्यतिष्ठत् ।
+> गन्धर्वो अस्य रशनामगृभ्णात्सूरादश्वं वसवो निरतष्ट ॥
+
+> *yamena dattaṃ trita enam āyunag indra eṇaṃ prathamo adhyatiṣṭhat |*
+> *gandharvo asya raśanām agṛbhṇāt sūrād aśvaṃ vasavo nir ataṣṭa ‖*
+
+(Ṛ. Saṃ. 1-163-2, as read "೧-೧೬೩-೨"; the first line has a doubtful word at its start: *yamena* [?]. The numerals "1-163-2" are my reading of the small type and are not confirmed by the numeral tool.) In this Ṛk Durgācārya has explained the word *sūrāt* as "from the Sun". Here Sāyaṇa explains *sūraḥ* as *sūryasya*, and for *ojasā*, recorded among the names of strength in the Nirukta (Ni. 2-[?]; as read "೨-೯"), the meaning "bodily strength".
+
+***aruṇaḥ prapitve vācaṃ muṣāyati*** — *aruṇavarṇaḥ atyantatejoyuktaḥ | yadvā gamanaśīlaḥ san prapitve teṣāṃ samīpam upāgatya vāgupalakṣitaṃ prāṇaṃ mumoṣa muṣṇāti vā* — three kinds of meaning are given by Sāyaṇa. In the first, Indra, very radiant and reddish in colour, or constantly moving, approaches the demons and takes away their very breath (so that they cannot even speak); the explanation is that he kills them.
+
+In the second meaning: *vācaṃ teṣāṃ prahāradhvaniṃ muṣāyati | teṣu hateṣu dhvaniḥ svayam eva viśrānto bhavati | avadhīd ity arthaḥ* — "Indra, at the time of battle, strikes the demons with his weapon so that they do not utter even a sound; and their breath, along with the sound of their blows, ceases": thus it is described. In the third meaning: *athavā indra iva dyusthānaḥ sann ādityātmanā stūyate* — "Indra, who is the deity of the heaven-region, is praised in the form of the Sun". The description of Indra's greatness is explained in this way. *(The remainder of this page and the explanation of the third meaning continue on p. 460.)*
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 459 (PDF 480): Ṛks 1–8 complete (‖ 8 ‖); Ṛk 9 Saṃhitā…English written, Special Topics begun (entries *sūraś cakraṃ ojasā pravṛhat*, *aruṇaḥ prapitve vācaṃ muṣāyati*; the page ends within the third meaning); resume p. 460 (PDF 481). Numeral tool (`publish/tools/numeral_pass/dc/pagerefs.sh FIRST_PDF LAST_PDF OUTDIR`, with `CLF=…/clf.pkl`, model rebuilt by `dc/train.py`) is used as a second opinion on references from here on: it gave no usable reading on pp. 456–459 beyond "3-9" at the foot of p. 459 (agrees with my reading). Page images PDF 261–360 in w10b/, 361–400 in w10c/, 401–460 in w10d/, 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, 129 (see earlier list) and 130 (Ṛk 1 p. 418; Ṛk 2 pp. 423–426; Ṛk 3 p. 428; Ṛk 4 pp. 432–435; Ṛk 5 p. 437; Ṛk 6 p. 442; Ṛk 7 p. 446; Ṛk 8 p. 451, 453–454; Ṛk 9 bhāṣya p. 457); OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
