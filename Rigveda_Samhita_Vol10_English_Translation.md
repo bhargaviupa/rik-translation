@@ -4381,4 +4381,160 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 170 (PDF 191): Ṛks 1–8 complete; Ṛk 9 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Special Topics (*asme*, Durga's comment) breaks off mid-quotation at the foot of p. 170; resume p. 171 (PDF 192).
+### Printed p. 171  (PDF 192)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+…(Durga's comment, continued from p. 170): "*asme* is a word that stands in all the seven cases; its sense is fixed according to the context. That is, *asme te bandhuḥ* — 'we [are] your kinsmen' — is the example for the nominative." Thus he states that this word *asme*, which can be used in all seven case-endings, must be explained in each instance according to the context; and of these *asme te bandhuḥ* is the example for the first case. And again —
+
+> आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः ।
+> हवे हि वामश्विना रातहव्यः शश्वत्तमायाँ उषसो व्युष्टौ ॥
+
+> *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*
+> *have hi vāmaśvinā rātahavyaḥ śaśvattamāyā~ uṣaso vyuṣṭau ‖*
+
+(Ṛ. Saṃ. 1-118-11, as read from the print.) — citing this ṛk, "*asme yātaṃ nāsatyā sajoṣāḥ* — *asmān*, 'to us'", he states that *asme* is used in the sense of the second case;
+
+> भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः ।
+> भूरीणि हि कृणवामा शविष्ठेन्द्र क्रत्वा मरुतो यद्वशाम ॥
+
+> *bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ |*
+> *bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yadvaśāma ‖*
+
+(Ṛ. Saṃ. 1-63-2 [?], as read from the print.) — citing this ṛk, that there it means "by us" (*asmābhiḥ*), in the third case;
+
+> अस्मे प्र यन्धि मघवन्नृजीषिन्निन्द्र रायो विश्ववारस्य भूरेः ।
+> अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इन्द्र शिप्रिन् ॥
+
+> *asme pra yandhi maghavannṛjīṣinnindra rāyo viśvavārasya bhūreḥ |*
+> *asme śataṃ śarado jīvase dhā asme vīrāñchaśvata indra śiprin ‖*
+
+(Ṛ. Saṃ. 2-22-? [?]; the numerals are not clear to me.) — citing this ṛk, that it means "for us" (*asmabhyam*) in the fourth case;
+
+> तस्य वयं सुमतौ यज्ञियस्यापि भद्रे सौमनसे स्याम ।
+> स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥
+
+> *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |*
+> *sa sutrāmā svavā~ indro asme ārācciddveṣaḥ sanutaryuyotu ‖*
+
+(Ṛ. Saṃ. 6-47-12, as read from the print.) — in this ṛk, *asmat* — "from us" — in the fifth case;
+
+> आ नो भर भगमिन्द्र द्युमन्तं नि ते देष्णस्य धीमहि प्ररेके ।
+> ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
+
+> *ā no bhara bhagamindra dyumantaṃ ni te deṣṇasya dhīmahi prareke |*
+> *ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnām ‖*
+
+(Ṛ. Saṃ. 3-30-13 [?], as read from the print; *deṣṇasya* as read.) — in this, *asmākam* — "our" — in the sixth case; and likewise —
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥
+
+> *agne vājasya gomata īśānaḥ sahaso yaho |*
+> *asme dhehi jātavedo mahi śravaḥ ‖*
+
+(Ṛ. Saṃ. 1-79-4, as read from the print.) — in this one the seventh case, "in us"; thus he has shown that the examples for all the case-endings occur in one and the same form (Ni. 6-7, as read by the OCR; the numerals in the print are "೬-೭").
+
+### Printed p. 172  (PDF 193)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 9; noted briefly, numbers as read by the OCR).** *āsām* — root *āsa upaveśane*; *kvip ca* gives *kvip*; genitive plural; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute accent to the case-ending. *ahasu* — the form of the word is *ahaḥsu*; the final of the word is lost in the Veda; locative plural. *eti* — root *iṇ gatau*; Adādi; laṭ third person singular; since it follows a non-verb word, the *nighāta* accent. *paścāt* — *paścāc* (Pā. 5-3-32) gives *paścā* for *apara* and the suffix *āti* in the sphere of *astāti*; by the suffix accent the *ā* is acute. *pratnavat* — *pratna iva pratnavat*; *pratnapūrvaviśvemāt thāl chandasi* [print: "ಪ್ರತ್ನ ಪುರಾಣೇ ಪ್ರಾತ್"] gives the suffix *tnap* to *pra* in the sense of *purāṇa*; *tatra tasyeva* (Pā. 5-1-116) gives the suffix *vati*; final-acute by the suffix accent. *navyasīḥ* — *atiśayena navaḥ navīyān*; *īyasun* in the sense of excess; *ugitaś ca* gives ṅīp in the feminine; in the Veda the *ī* of *īyasun* is lost; since the suffix has the marker *n*, the first-syllable acute; with *jas* following, *supāṃ sulug…* (Pā. 7-1-39) gives the lengthening by the preceding *savarṇa*. *asme* — the word *asmad*; with the locative [as printed "ಷಷ್ಠೀ"] plural following, *supāṃ sulug…* (Pā. 7-1-39) gives *śe*; *śeṣe lopaḥ* elides the initial. *revat* — *rayiḥ asya asti iti revat*; *rayer matau bahulam* gives *saṃprasāraṇa* to *rayi* when *matup* follows; *na saṃprasāraṇe saṃprasāraṇam* forbids it, so the *saṃprasāraṇa* is of the *y*; *saṃprasāraṇāc ca* (Pā. 6-1-108) gives *pūrvarūpa*; guṇa; *chandasīra* (Pā. 8-2-15) gives *va* for the *m* of *matup*; *re śabdāc ca matupa udāttatvaṃ vaktavyam* [print: "ರೇ ಶಬ್ದಾಚ್ಚ ಮತುಪ ಉದಾತ್ತತ್ವಂ ವಕ್ತವ್ಯಮ್"] gives the acute to *matup* though it has the marker *p*. *ucchantu* — root *uchī vivāse*; loṭ third person plural; since it follows a non-verb word, the *nighāta* accent.
+
+### Printed p. 173  (PDF 194)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+*sudināḥ* — *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119) gives the acute on the first syllable of the latter member. *uṣasaḥ* — the word *uṣas*; nominative plural; by *vyatyaya* the Saṃhitā has a long vowel [*uṣāsaḥ*]. ‖ 9 ‖
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> प्र बोधयोषः पृणतो मघोन्यबुध्यमानाः पणयः ससन्तु ।
+> रेवदुच्छ मघवद्भ्यो मघोनि रेवत्स्तोत्रे सूनृते जारयन्ती ॥ १० ॥
+
+> *pra bodhayoṣaḥ pṛṇato maghonyabudhyamānāḥ paṇayaḥ sasantu |*
+> *revaduccha maghavadbhyo maghoni revatstotre sūnṛte jārayantī ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । बोधय । उषः । पृणतः । मघोनि । अबुध्यमानाः । पणयः । ससन्तु ।
+> रेवत् । उच्छ । मघवत्ऽभ्यः । मघोनि । रेवत् । स्तोत्रे । सूनृते । जारयन्ती ॥ १० ॥
+
+> *pra | bodhaya | uṣaḥ | pṛṇataḥ | maghoni | abudhyamānāḥ | paṇayaḥ | sasantu |*
+> *revat | uccha | maghavat 'bhyaḥ | maghoni | revat | stotre | sūnṛte | jārayantī ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मघोनि मघवति अस्मभ्यं दातव्यैर्बहुभिर्धनैर्युक्ते हे उषोदेवि पृणतो हविःप्रदानेन यजमानान्प्र बोधय । प्रज्ञापय । प्रतिबुद्धान्कुरु । किंच पणयो व्यवहारासहिष्णवो वणिजः । पणिर्वणिग्भवतीति यास्कः । नि. २-१७ [?] । पणय इति लुब्धकाः [?] अबुध्यमाना यागादीन्कुर्वाणा अदानशीला अस्मच्छत्रवः ससन्तु । स्वपन्तु । दीर्घनिद्रा भवन्तु । म्रियन्तामित्यर्थः । तथा च मन्त्रान्तरम् । ससन्तु त्या अरातयो बोधन्तु शूर रातयः । ऋ. १-२९-४ । इति । किंच हे मघोनि मघवति हविर्भिस्त्वद्वति हे उषः मघवद्भ्यो हविर्लक्षणान्नवद्भ्यो यजमानेभ्यस्तेषामर्थं रेवद्धनवत्समृद्धिमदुच्छ । विभाहि । किंच हे सूनृते सुष्ठु मनुष्याणां नेत्रि देवि जारयन्ती सर्वप्राणिनः क्षपयन्ती त्वं स्तोत्रे स्तुतिकर्त्रे यजमानाय तदर्थं रेवद्धनवत्समृद्ध्यर्थमुच्छेति शेषः ॥
+
+> *he maghoni maghavati asmabhyaṃ dātavyairbahubhirdhanairyukte he uṣodevi pṛṇato haviḥpradānena yajamānānpra bodhaya | prajñāpaya | pratibuddhānkuru | kiṃca paṇayo vyavahārāsahiṣṇavo vaṇijaḥ | paṇirvaṇigbhavatīti yāskaḥ | ni. 2-17 [?] | paṇaya iti lubdhakāḥ [?] abudhyamānā yāgādīnkurvāṇā adānaśīlā asmacchatravaḥ sasantu | svapantu | dīrghanidrā bhavantu | mriyantāmityarthaḥ | tathā ca mantrāntaram | sasantu tyā arātayo bodhantu śūra rātayaḥ | ṛ. 1-29-4 | iti | kiṃca he maghoni maghavati havirbhistvadvati he uṣaḥ maghavadbhyo havirlakṣaṇānnavadbhyo yajamānebhyasteṣāmarthaṃ revaddhanavatsamṛddhimaduccha | vibhāhi | kiṃca he sūnṛte suṣṭhu manuṣyāṇāṃ netri devi jārayantī sarvaprāṇinaḥ kṣapayantī tvaṃ stotre stutikartre yajamānāya tadarthaṃ revaddhanavatsamṛddhyarthamuccheti śeṣaḥ ‖*
+
+*(Read from the image; the OCR is garbled in places. The Nirukta number "2-17" is as the OCR gives it and the print's numerals are unclear; "lubdhakāḥ" is doubtful.)* "O *maghoni* — O Uṣas, rich, possessed of many riches to be given to us — wake the sacrificers, *pṛṇataḥ*, those who give oblations; make them know; make them awake. Moreover, *paṇayaḥ* — traders who cannot bear the exchange [of giving]: 'a *paṇi* is a trader', says Yāska (Ni. [?]). Let the *paṇis* — the niggardly (?), who do not wake, who do not perform sacrifices and the like, the non-givers, our enemies — *sasantu*, sleep; may they sleep long; may they die: that is the sense. And likewise another mantra: '*sasantu tyā arātayo bodhantu śūra rātayaḥ*' (Ṛ. 1-29-4). Moreover, O *maghoni*, rich in oblations, O Uṣas, for the sacrificers *maghavadbhyaḥ* — who have food in the form of oblations — for their sake shine (*uccha*) wealth-bringing, abundantly. Further, O *sūnṛte*, good leader of men, O goddess, *jārayantī*, wearing out all living beings, for the praiser, the sacrificer, shine for him, with abundance of wealth: so is the sentence to be completed."
+
+### Printed p. 174  (PDF 195)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Maghoni* — (O Uṣas) possessed of wealth in the form of oblations (to be given to us); *(he) uṣaḥ* — O goddess Uṣas; *pṛṇataḥ* — of those giving oblations (the sacrificers); *pra bodhaya* — awaken well; *paṇayaḥ* — the merchant-like (niggards); *abudhyamānāḥ* — not performing the sacrifice and the rest (our enemies who are not givers); *sasantu* — let them sleep (let them perish); *(kiṃ ca* — and); *(he) maghoni* — O Uṣas, possessed of oblations; *maghavadbhyaḥ* — to the sacrificers who have food in the form of oblations; *revat* — so that they get wealth and the like; *uccha* — shine; *sūnṛte* — O best leader of men; *jārayantī* — [you who] make [all beings] old (cause decay); *stotre* — to the praising sacrificer; *revat* — so that he gets wealth; *uccha* — shine.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O goddess Uṣas, possessed of wealth in the form of oblations (to be given to us), awaken the sacrificers who give oblations; make those who perform no sacrifices and the like, the niggards, sleep on (the long sleep); (O you who make all grow old) shine so that those who have oblations and the like may obtain wealth.
+
+**Printed English (as printed):** *Awaken, wealth-abounding Ushas, those who delight (in holy offerings) : let the (niggard) traders, reluctant to wake (for such a purpose), sleep on. Arise, opulent Ushas, bearing wealth to the liberal (worshipper) : speaker of truth, who are the waster away (of living creatures), arise, bearing wealth to him who praises you.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 10.**
+
+***pṛṇataḥ*** — *havipradānasya yajamānān*: "us who give oblations, the sacrificers" is the meaning. The word *pṛṇāti* is recorded in the Nirukta among the names of the acts of giving (Ni. 3-19, as read by the OCR; print "೩-೧೯"). And, citing
+
+> अध्वर्यवो यो दिव्यस्य वस्वो यः पार्थिवस्य क्षम्यस्य राजा ।
+> तमूर्दरं न पृणता यवेनेन्द्रं सोमेभिस्तदपो वो अस्तु ॥
+
+> *adhvaryavo yo divyasya vasvo yaḥ pārthivasya kṣamyasya rājā |*
+> *tamūrdaraṃ na pṛṇatā yavenendraṃ somebhistadapo vo astu ‖*
+
+(Ṛ. Saṃ. 2-14-11, as read from the print.) — the author of the Nirukta explains in it the word *pṛṇata* as *pūrayata*, "fill"; here too the purport is the act of giving.
+
+### Printed p. 175  (PDF 196)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+***paṇayaḥ*** — *vyavahārāsahiṣṇavo vaṇijaḥ*: "traders (merchants) who cannot bear the spending" — thus Sāyaṇa explains it, and then cites the opinion of Yāska, *paṇir vaṇig bhavatīti yāskaḥ*. *Paṇiḥ paṇanāt | vaṇik paṇyaṃ nenekti*: the trader gets the name *paṇi* from his trading (*paṇana*), and because he always keeps his goods clean (pure) so that they may be fit for trade; and, citing
+
+> कदू महीरधृष्टा अस्य तविषीः कदु वृत्रघ्नो अस्तृतमस्ति ।
+> इन्द्रो विश्वान्बेकनाटाँ अहर्दृश उत क्रत्वा पणीरभि ॥
+
+> *kadū mahīradhṛṣṭā asya taviṣīḥ kadu vṛtraghno astṛtamasti |*
+> *indro viśvānbekanāṭā~ ahardṛśa uta kratvā paṇīrabhi ‖*
+
+(Ṛ. Saṃ. 8-66-10, as read from the print.) he explains the meaning of the word *paṇi* in (Ni. 6-26, as read) as *paṇīṃś ca vaṇijaḥ* [as printed]. In the present ṛk, Sāyaṇa explains: *paṇaya iti lubdhakā abudhyamānā yāgādīn akurvāṇā adānaśīlā asmacchatravaḥ* — "the *paṇis* are the niggardly, who are unaware, who do not perform sacrifices and the like, who do not give, our enemies". (The matter of the group of Asuras called the Paṇis was explained earlier.)
+
+***sūnṛte*** — *suṣṭhu manuṣyāṇāṃ netrī*: Uṣas is addressed as "the best leader of mankind". *Sūnṛtā*, *sūnṛtāvatī*, *sūnṛtāvarī* and the like are all epithets of Uṣas or synonyms (Ni. 3-19 [?]; as read by the OCR "३-१९"): *sūnṛteti vāṅnāma | netrī ud-vādayitrī | uṣasaḥ svābhāvānantaraṃ hi paśupakṣimṛgādayaḥ sarve śabdaṃ kurvanti | ata eva tāsāṃ vācāṃ pravartayiteti ucyate.* That is, the word *sūnṛtā* applies to all the usage of speech; because after the rising of Uṣas the speech-activities of all animals, birds and the rest begin, Uṣas is the originator of all of them. The Ṛṣis Kutsa and Vasiṣṭha use this epithet specially in their works. For example —
+
+> भास्वती नेत्री सूनृतानामचेति चित्रा वि दुरो न आवः ।
+> प्रार्प्या [?] जगद्व्यु नो रायो अख्यदुषा अजीगर्भुवनानि विश्वा ॥
+
+> *bhāsvatī netrī sūnṛtānāmaceti citrā vi duro na āvaḥ |*
+> *prārpyā [?] jagadvyu no rāyo akhyaduṣā ajīgarbhuvanāni viśvā ‖*
+
+(Ṛ. Saṃ. 1-92-14 [?], as read from the print.)
+
+> एषा नेत्री राधसः सूनृतानामुषा उच्छन्ती रिभ्यते वसिष्ठैः ।
+> दीर्घश्रुतं रयिमस्मे दधाना यूयं पात स्वस्तिभिः सदा नः ॥
+
+> *eṣā netrī rādhasaḥ sūnṛtānāmuṣā ucchantī ribhyate vasiṣṭhaiḥ |*
+> *dīrghaśrutaṃ rayimasme dadhānā yūyaṃ pāta svastibhiḥ sadā naḥ ‖*
+
+(Ṛ. Saṃ. 7-77-6 [?], as read from the print.) — in these and other ṛks Sāyaṇa has explained the word *sūnṛtānām* as *stutīnāṃ netrī*, "the leader of praises".
+
+***jārayantī*** — *sarvaprāṇinaḥ kṣapayantī*: "making all beings pass away (grow old)"; it is an epithet of Uṣas, in the sense of making all beings sleep.
+
+### Printed p. 176  (PDF 197)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 10; noted briefly, numbers as read by the OCR).** *bodhaya* — root *budha avagamane*; *hetumati ca* (Pā. 3-1-26) gives *ṇic*; loṭ second person singular after *ṇijanta*; since it follows a non-verb word, the *nighāta* accent. *uṣaḥ* — vocative singular; *āmantritasya ca* (Pā. 8-1-19) gives the *nighāta* [unaccented]. *pṛṇataḥ* — root *pṛṇa prīṇane*; Tudādi; śatṛ in the laṭ sense; accusative plural; since the case-ending follows a śatṛ without *num*, *śatur anumo nadyajādī* gives it the acute. *maghoni* — *maghaṃ vanati saṃbhajate iti maghavān*; *śvanyuvamaghonām* [print: "ಶ್ವನ್ನುಕ್ಷನ್", *vanisanyoh*?] (Uṇ. 1-157 as read) gives *kanin* to *maghavan*; when the feminine is intended, since it ends in *n*, *ṅīp* by *ṛnnebhyo ṅīp*; since it has the *bha* designation, *śvayuvamaghonām atddhite* gives *saṃprasāraṇa*, and *saṃprasāraṇāc ca* gives the *pūrvarūpa*; guṇa; in the vocative, *ambārthanadyor hrasvaḥ*, the shortening; *āmantritasya ca* (Pā. 8-1-19) gives the *nighāta*. *abudhyamānāḥ* — *na budhyamānāḥ abudhyamānāḥ*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the natural accent of the first member (the *nañ*). *sasantu* — root *ṣasa svapne*; Adādi; *dhātvādeḥ ṣaḥ saḥ* gives *s*; loṭ third person plural; *nighāta* after a non-verb word. *revat* — explained in the previous ṛk. *uccha* — root *uchī vivāse*; loṭ second person singular; *tiṅ*-*nighāta*. *stotre* — root *ṣṭuñ stutau*; *tṛc* in the agent sense; guṇa of the root-vowel; dative singular; *udāttayaṇo hal pūrvāt* gives the acute accent to the case-ending. *jārayantī* — root *jṛṣ vayohānau*; since it shows the causative sense, *hetumati ca* (Pā. 3-1-26) gives *ṇic*; *janīj̣ṛṣkṣnasuraṃjo 'mantāś ca* [print: "ಜನೀಜೃಷ್ಕ್ನಸುರಂಜೋಮಂತಾಶ್ಚ"] …
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 176 (PDF 197): Ṛks 1–9 complete; Ṛk 10 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done and grammar in progress (breaks off at *jārayantī*); resume p. 177 (PDF 198).
