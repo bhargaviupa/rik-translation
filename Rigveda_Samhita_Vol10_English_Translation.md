@@ -17083,4 +17083,66 @@ In this Ṛk, a kind of pride and also satisfaction are expressed: from the firm
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 6 complete; Ṛk 7 (the last of Sūkta 136) written through p. 705 (Special Topics: *maṃsīmahi*, *aśyāma* done; the grammar and the closing note follow); resume p. 706 (PDF 727; PDF 728 is the last image). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 706  (PDF 727)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Special Topics of Ṛk 7, concluded; no heading is printed — this is a closing note on the deities of the Sūkta.)* Although in the Sūkta before us Mitra and Varuṇa are chiefly addressed, Aryaman and Bhaga — these deities too — are prayed to along with Mitra and Varuṇa. At the end, Agni, Mitra and Varuṇa are named together. Since these deities are praised together in one Sūkta, and since some of them are put together in a single Ṛk, it is to be understood that they have a connexion in the original [nature]. On the basis of the Ṛgveda Saṃhitā all these may be called Ādityas. Although the number of Ādityas is given as eight, or twelve, in the Taittirīya and other texts, in the Ṛgveda alone this number is considered more [limited]. [This matter is explained in the introduction to the first part of the Ṛgveda Saṃhitā and on pp. 536–537.] On the basis of the Ṛk-Saṃhitā, the author of the Nirukta too has included under the word Āditya these six deities — Mitra, Varuṇa, Aryaman, Dakṣa, Bhaga and Aṃśa:
+
+> तथ्यं तस्मै त्रयस्य वरुणस्यार्यम्णो दक्षस्य भगस्यांशस्येति ।
+
+> *tathyaṃ tasmai trayasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti |*
+
+(Ni. 2-[?], as read "೨-೧೩" [?]; the Sanskrit is badly printed in the Kannada type and I read it only in part [?].) In the Taittirīya and other texts, Mitra is connected with the Sun, and Varuṇa with the Moon, and their mutual relations are shown. Mitra, they say, created the day; Varuṇa, the night. Sometimes, according to this division, a white animal is offered to Mitra and a black animal to Varuṇa. The nature of Aryaman and Bhaga is told in subtle terms in the Ṛks preceding this Sūkta. How these deities were all born from Aditi is described in the Taittirīya Brāhmaṇa in this way:
+
+> अदितिः पुत्रकामा साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै धाता चार्यमा चाजायेताम् । सा द्वितीयमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्मै मित्रश्च वरुणश्चाजायेताम् । सा तृतीयमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या अꣳशश्च भगश्चाजायेताम् ।
+
+> *aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyai dhātā cāryamā cājāyetām | sā dvitīyam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasmai mitraś ca varuṇaś cājāyetām | sā tṛtīyam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyā aṃśaś ca bhagaś cājāyetām |*
+
+(Tai. Brā. 1-1-9-1, 2 [as read: "೧-೧-೯-೧, ೨"]; read from the image; the form *ucchēṣaṇam* is as printed, [?].) *Kannada sense:* Aditi, desiring sons, cooked a *brahmaudana* for the Sādhya gods. They ate it and gave her the remainder. She ate that and conceived: from her Dhātṛ and Aryaman were born. The second time she cooked [again] and ate what was left; Mitra and Varuṇa were born. The third time Aṃśa and Bhaga were born.
+
+Though they are described each in a different way in different places, since in all these deities some aspect of the Sun is seen in one way or another, the old scholars have concluded that they are all Ādityas, parts of the Sun.
+
+### Printed p. 707  (PDF 728)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; numbers as printed).** *devānām* — the genitive in the sense of *karman*. *maṃsīmahi* — root *manu avabodhane*; *liṅ*, first person plural; *suhiṅ* for *mahiṅ*; *liṅaḥ sīyuṭ* (Pā. 3-4-102 [as read]) gives the *sīyuṭ* augment to *liṅ*; *yalopaḥ*; since by *chandasy ubhayathā* (Pā. 3-4-117 [as read]) it has the *ārdhadhātuka* term, the *s*-elision does not occur; or, by the strength of the *bahula* statement, *sip*; since it is not at the beginning of a pāda, the *nighāta* does not occur; the suffix's ādyudātta. *yaṃsan* — root *yamu uparame*; *leṭ*, third person plural, *jhi*; *itaś ca lopaḥ* (Pā. 3-4-97 [as read]) drops the *i*; *jher jus* [as read: *jho 'ntaḥ*] gives *ant*; *sibbahulaṃ leṭi* (Pā. 3-1-34 [as read]) gives *sip*; *leṭo 'ṭāṭau* (Pā. 3-4-94 [as read]) gives the *aṭ* augment to the suffix; as it follows a *tiṅanta*, *nighāta*. *aśyāma* — root *aśa bhojane*; *āśirliṅ* first person plural, *mas*; *nityaṃ ṅiti* (Pā. 7-2-81 [as read]) drops the *s*; *yāsuṭ* augment; by *chandasy ubhayathā* it is of the *sārvadhātuka* term; since it is *ṅit*, *sārvadhātukaliṅ…* [as read: *liṅaḥ salopo 'nantyasya* (Pā. 7-2-79 [as read])] gives the elision of the *s*; *nighāta* after a *tiṅanta*. *maghavānaḥ* — *chandasīvanipau* (Pā. 5-2-109 [as read]) gives *vanip* in the sense of *matup*; since it is *pit*, it is *anudātta*; nominative plural. ‖ 7 ‖
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃś caturo deyād vidyātīrthamaheśvaraḥ ‖*
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये द्वितीयाष्टके प्रथमोऽध्यायः समाप्तः ।
+
+> *iti śrīmad-rājādhirāja-parameśvara-vaidikamārga-pravartaka-śrī-vīrabukka-bhūpāla-sāmrājya-dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye dvitīyāṣṭake prathamo 'dhyāyaḥ samāptaḥ |*
+
+> ॐ तत्सत् ।
+
+> *oṃ tat sat |*
+
+*(The colophon verse and the colophon are in Sanskrit, in Kannada script.)* **Kannada closing line (translated):** "Here the First Adhyāya in the Second Aṣṭaka of the Ṛgveda Saṃhitā, with Sāyaṇa's commentary and the Kannada translation, is completed." *(Kannada: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ ಋಗ್ವೇದಸಂಹಿತೆಯ ಎರಡನೇ ಅಷ್ಟಕದಲ್ಲಿ ಮೊದಲನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತವಾದುದು".)*
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+
+> *yad akṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yad bhavet |*
+> *tat sarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*
+
+> शुभं भूयात् ।
+
+> *śubhaṃ bhūyāt |*
+
+> मङ्गलम् ।
+
+> *maṅgalam |*
+
+**Here ends the Sūkta 136, and with it the printed text of Volume 10** (Maṇḍala 1, Sūktas 122–136, the First Adhyāya of the Second Aṣṭaka). PDF 728 is the last page of the scan (printed p. 707); no further pages follow.
+
+---
+
+---
+
+**Progress note:** **Volume 10 is complete** — Maṇḍala 1, Sūktas 122–136 (the First Adhyāya of the Second Aṣṭaka), printed pp. 2–707 (PDF 23–728), with the Sanskrit colophon and the Kannada closing line on p. 707. Open flags: (1) numerals and references throughout Vol 10 need the separate numeral pass (many are marked [?] or "as read"; Sūkta 133 pp. 549–552 references were not transcribed and are marked [refs]); (2) the review pages (`publish/review/vol10/`) should be regenerated to include Sūktas 133–136 and the user's CSV answers applied; (3) small-type passages read with doubt: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Sūktas 127, 129–136, esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559, and the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658 and Sūkta 136 pp. 678–686, 695–699, which are given with [?] and mostly as sense; (4) the metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; (5) stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; (6) the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; (7) known slips: Sūkta 129 Ṛk 9 Saṃhitā "pathām̐" should read *pathā* (p. 404); Sūkta 129 Ṛk 11 Special Topics filed under p. 414 though the print runs on to p. 415; Sūkta 129 Ṛk 3 Pratipadārtha typo "aavindat"; Sūkta 128 p. 324 note on "mitramaha" confusingly worded. The numeral pass, the `.docx`/PDF build and checks of the Devanagari count are still to be done.
