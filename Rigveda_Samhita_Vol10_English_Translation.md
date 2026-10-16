@@ -6152,4 +6152,140 @@ In this ṛk the number of horses and the number of chariots are stated, as it i
 
 ---
 
-**Progress note:** Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 236 (PDF 257): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā only (as read, partly doubtful); resume p. 237 (PDF 258) with the Ṛk 5 Pada. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224 small type with several [?]; Ṛk 4 bhāṣya words in small type [?].
+### Printed p. 237  (PDF 258)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+*(The Ṛk 5 Saṃhitā of p. 236 is confirmed by the Pada below: it reads "…vo yuktān aṣṭau aridhāyasaḥ gāḥ", so the Saṃhitā "vastrīnyuktāṃ aṣṭāvaridhāyaso gāḥ" is correct as read; the earlier [?] marks on it are resolved.)*
+
+**॥ पदपाठः ॥** *(Ṛk 5)*
+
+> पूर्वाम् । अनु । प्रऽयतिम् । आ । ददे । वः । त्रीन् । युक्तान् । अष्टौ । अरिऽधायसः । गाः ।
+> सुऽबन्धवः । ये । विश्याःऽइव । व्राः । अनस्वन्तः । श्रवः । ऐषन्त । पज्राः ॥ ५ ॥
+
+> *pūrvām | anu | pra 'yatim | ā | dade | vaḥ | trīn | yuktān | aṣṭau | ari 'dhāyasaḥ | gāḥ |*
+> *su 'bandhavaḥ | ye | viśyāḥ 'iva | vrāḥ | anasvantaḥ | śravaḥ | aiṣanta | pajrāḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इदानीमानीतं धनं बन्धुभ्यो निवेदयन्नाह । हे सुबन्धवः पूर्वां प्रयतिं पूर्वप्रदानमनु तमनुसृत्य वक्ष्यमाणानि रथादीनि वो युष्मदर्थमा ददे । स्वीकृतवानस्मि । यद्वा । पूर्वां प्रयतिं प्रदेयं रथादिकमनु दानक्रमेणैवा ददे । प्रतिगृहीतवानस्मि । कानि तानीति । त्रीनष्टौ च युक्तान् चतुर्भिश्चतुर्भिरश्वैर्धनैर्वा युक्तान् रथानिति शेषः । अत्र संख्यापृथग्निर्देशो न विवक्षितः । तथारिधायसो रिभिरीश्वरैर्धारणीया बहुमूल्या असंख्याता गाश्चादे । अत्र वक्ष्यमाणं पूर्वं प्रतिगृहीतावधिकानीति युक्तम् । पूर्वमेव पित्रे निवेदितानां पुनर्बन्धुभ्यो निवेदनासंभवात् । वधूमन्तो दश रथासो अस्थुरिति दशानां रथानामुक्तत्वादत्र त्रीनष्टौ चेत्येकादशानां वक्ष्यमाणत्वान्नवानां रथानामन्येभ्यो दातुमुचितत्वाच्चान्यानीति युक्तम् । उक्तानामेवानुवदनपक्षे दश वधूमन्तो रथा एको धनपूर्ण इति विवेकः । उक्तानामेव रथादीनां पुनर्विधानं प्रकृष्टत्वज्ञापनार्थं सर्वे ब्राह्मणा आगता वसिष्ठश्चागत इतिवत् । इदानीं परोक्षेणाह । सुबन्धवः शोभना विद्या योनिसंबन्धिनो येषां ते तथोक्ताः । यद्वा । शोभनबान्धवोपेताः परस्परमनुरागयुक्ता इत्यर्थः । विशः प्रजाः । तत्र भवा विश्याः । व्रियन्त इति वा व्रातः । तकारलोपश्छान्दसः । विशां व्राता यथा परस्परमनुरागवन्तस्तद्वत्सन्त इत्यर्थः । पज्रा अन्नवन्तोऽङ्गिरसः संतानप्रभवा ये सन्ति ते सर्वे सुबन्धवोऽनस्वन्तः शकटवन्तो हविर्धानशकटोपलक्षितसोमयागवन्तः सन्तः श्रवः सर्वत्र श्रूयमाणां कीर्तिमैषन्त । इच्छन्ति इच्छन्तु वा तदर्थमा ददे इति शेषः ॥
+
+> *idānīmānītaṃ dhanaṃ bandhubhyo nivedayannāha | he subandhavaḥ pūrvāṃ prayatiṃ pūrvapradānamanu tamanusṛtya vakṣyamāṇāni rathādīni vo yuṣmadarthamā dade | svīkṛtavānasmi | yadvā | pūrvāṃ prayatiṃ pradeyaṃ rathādikamanu dānakrameṇaivā dade | pratigṛhītavānasmi | kāni tānīti | trīnaṣṭau ca yuktān caturbhiścaturbhiraśvairdhanairvā yuktān rathāniti śeṣaḥ | atra saṃkhyāpṛthagnirdeśo na vivakṣitaḥ | tathāridhāyaso ribhirīśvarairdhāraṇīyā bahumūlyā asaṃkhyātā gāścāde | atra vakṣyamāṇaṃ pūrvaṃ pratigṛhītāvadhikānīti yuktam | pūrvameva pitre niveditānāṃ punarbandhubhyo nivedanāsaṃbhavāt | vadhūmanto daśa rathāso asthuriti daśānāṃ rathānāmuktatvādatra trīnaṣṭau cetyekādaśānāṃ vakṣyamāṇatvānnavānāṃ rathānāmanyebhyo dātumucitatvāccānyānīti yuktam | uktānāmevānuvadanapakṣe daśa vadhūmanto rathā eko dhanapūrṇa iti vivekaḥ | uktānāmeva rathādīnāṃ punarvidhānaṃ prakṛṣṭatvajñāpanārthaṃ sarve brāhmaṇā āgatā vasiṣṭhaścāgata itivat | idānīṃ parokṣeṇāha | subandhavaḥ śobhanā vidyā yonisaṃbandhino yeṣāṃ te tathoktāḥ | yadvā | śobhanabāndhavopetāḥ parasparamanurāgayuktā ityarthaḥ | viśaḥ prajāḥ | tatra bhavā viśyāḥ | vriyanta iti vā vrātaḥ | takāralopaśchāndasaḥ | viśāṃ vrātā yathā parasparamanurāgavantastadvatsanta ityarthaḥ | pajrā annavanto 'ṅgirasaḥ saṃtānaprabhavā ye santi te sarve subandhavo 'nasvantaḥ śakaṭavanto havirdhānaśakaṭopalakṣitasomayāgavantaḥ santaḥ śravaḥ sarvatra śrūyamāṇāṃ kīrtimaiṣanta | icchanti icchantu vā tadarthamā dade iti śeṣaḥ ‖*
+
+*(Read from the image; the OCR confirms the structure but is garbled in the middle. The bhāṣya of this ṛk is long, in small type; I give it as read, with the doubtful clause "ayam eva yuktam / vadhūmanto … anyānīti" as printed — "[?]" marks are not needed where the print was clear to me, but the middle (from "atra vakṣyamāṇaṃ" to "anyānīti yuktam") is only partly legible and may contain slips.)* "Now, announcing to his kinsmen the wealth brought: O *subandhavaḥ* — O good kinsmen — *pūrvām prayatim anu* — following the earlier gift — the chariots and the rest that are going to be named, *vaḥ* — for you — *ā dade*: I have accepted. Or else: following the gift to be given — the chariots and the rest — in the order of giving, I have taken it, accepted. What are they? *Trīn aṣṭau ca yuktān* — eleven chariots yoked with four horses each or with wealth. Here the separate statement of the number is not intended. Likewise, *aridhāyasaḥ* — to be held by *ari*, by lords: valuable, countless — and cows I took. … [The text then argues that these eleven chariots are in addition to the ten already mentioned, since what was presented earlier to the father cannot be presented again to the kinsmen; 'ten chariots with wives' were stated, here 'three and eight', eleven, are to be stated; so the others are for giving to others.] If the sense is only a repetition of what was said, then there are ten chariots with wives, and one full of wealth: that is the distinction. The re-statement of the chariots already stated is to show their excellence, as in 'all the Brahmins have come, and Vasiṣṭha has come'. Now he speaks indirectly: *subandhavaḥ* — those whose kinship by birth (or by knowledge) is good; or those having good kinsmen, that is, bound by mutual affection. *Viśaḥ* are subjects; those who belong to them are *viśyāḥ*. *Vrāḥ* is *vrātāḥ* (or: those that are chosen); the loss of *t* is Vedic. As troops of subjects are attached to each other, so [you] are: that is the sense. *Pajrāḥ* — those Aṅgirases, endowed with food, who are the offspring [of the line], all *subandhavaḥ*, *anasvantaḥ* — possessing carts, performing the Soma sacrifice, marked by the carts for the *havirdhāna* — may they desire (*aiṣanta*) *śravaḥ* — fame heard of everywhere; for that [purpose] I have accepted it: this is the remainder."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He subandhavaḥ* — O good kinsmen; *pūrvām* — said before; *prayatim anu* — following the gift (following the order of gifts); *trīn aṣṭau [ca]* — eleven; *yuktān* — yoked (with horses or with wealth) (chariots); *aridhāyasaḥ* — fit to be held by lords (countless and priceless); *gāḥ ca* — and cows; *vaḥ* — for you; *ā dade* — I have accepted; *ye pajrāḥ* — those Aṅgirases (endowed with food); *subandhavaḥ* — those of good kinship; *vrāḥ* — (those of one troop), like *viśyāḥ iva* — like subjects (full of mutual love); *(subandhavaḥ — those my kinsmen all)*; *anasvantaḥ* — possessing carts (suited to the Soma sacrifice, those having carts to carry green food); *śravaḥ* — fame (heard of everywhere); *aiṣanta* — desire (let them desire).
+
+### Printed p. 238  (PDF 259)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O kinsmen, for you I have accepted cows fit for kings, eleven chariots endowed with wealth, of the kind of the gift mentioned before; (accepting these things) may all my kinsmen, bound together in mutual love, perform Soma sacrifices and gain fame.
+
+**Printed English (as printed):** *I have accepted a prior grant, (kinsmen), for you : three and eight harnessed chariots and cattle of incalculable value : may the kindred Pajras, like well-disposed relations, be desirous of acqiring renown by their abundant offerings.* *(sic: "acqiring")*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
+
+***aridhāyasaḥ*** — *aribhir īśvarair dharaṇīyāḥ bahumūlyā asaṃkhyātāḥ*: "to be held by lords (*īśvara*), that is, by wealthy persons; of great price; countless" — an epithet of cows. How the sense "lord" came to the word *ari* is explained by the author of the Nirukta thus: *arir amitram ṛcchateḥ | īśvaro 'ris tasmād eva* (Ni. 5-7 [?], as printed "೫-೭"): from the root *ṛ* meaning "to hurt", the word *ari* with the sense "enemy", as also, for the lord who has authority over servants, the name *ari* — and citing
+
+> पुरु त्वा दाश्वान्वोचेऽरिरग्ने तव स्विदा । तोदस्येव शरण आ महस्य ॥
+
+> *puru tvā dāśvānvoce 'riragne tava svidā | todasyeva śaraṇa ā mahasya ‖*
+
+(Ṛ. Saṃ. 1-150-1, as printed "೧-೧೫೦-೧"; *"tvā dāśvān"* as read.) as he says that the word *ari* means "lord", so in the present sūkta also the same meaning arises. That is: "a rich man fit to possess priceless cows".
+
+### Printed p. 239  (PDF 260)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+***pajrāḥ*** — the word *pajra* gives the same meaning in the previous ṛk and in this ṛk. Though here *pajrāḥ* is meant for Aṅgirases, the word is used in the sense of "those who have abundant food". In the previous ṛk Sāyaṇa explained it as *ghāsādyannavantaḥ santaḥ* — "being provided with food such as grass"; in the same way, in this sūkta too, *annavanto 'ṅgirasaḥ* — "Aṅgirases who have abundant food". The author of the Nirukta, citing
+
+> य इन्द्राग्नी सुतेषु वां स्तवत्तेष्वृतावृधा । जोषवाकं वदतः पज्रहोषिणा न देवा भसथश्चन ॥
+
+> *ya indrāgnī suteṣu vāṃ stavatteṣvṛtāvṛdhā | joṣavākaṃ vadataḥ pajrahoṣiṇā na devā bhasathaścana ‖*
+
+(Ṛ. Saṃ. 6-59-4, as read from the print "೬-೫೯-೪".) explains there *pajrahoṣiṇā* as *prārjitahoṣiṇaḥ*; of this Durgācārya says *prabhūtayāgau* — "[the two] of abundant sacrifice". By *pajra* the lineage of the Aṅgirases is also meant; the purport is "those who have abundant wealth". The *pajra* lineage is a famous name in the Ṛk Saṃhitā.
+
+> एतानि वां श्रवस्या सुदानू ब्रह्माङ्गूषं सदनं रोदस्योः ।
+> यद्वां पज्रासो अश्विना हवन्ते यातमिषा च विदुषे च वाजम् ॥
+
+> *etāni vāṃ śravasyā sudānū brahmāṅgūṣaṃ sadanaṃ rodasyoḥ |*
+> *yadvāṃ pajrāso aśvinā havante yātamiṣā ca viduṣe ca vājam ‖*
+
+(Ṛ. Saṃ. 1-112-10, as read from the print.) — in these and other ṛks the name of the *pajra* lineage is praised. Since Kakṣīvat was born in this lineage, he too has the name *pajriya*.
+
+> प्र या घोषे भृगवाणे न शोभे ययां वाचा यजति पज्रियो वाम् ।
+> प्रैषयुर्न विद्वान् ॥
+
+> *pra yā ghoṣe bhṛgavāṇe na śobhe yayāṃ vācā yajati pajriyo vām |*
+> *praiṣayurna vidvān ‖*
+
+(Ṛ. Saṃ. 1-120-5, as read from the print.) — in this ṛk *pajriyaḥ* is explained: *pajrā āṅgirasaḥ teṣāṃ kulotpannaḥ kakṣīvān* — "Kakṣīvat born in the family of the Pajras, the Aṅgirases".
+
+> सुषुप्सा वां वरुण मित्र रातिर्गवां शता पृक्षयामेषु पज्रे ।
+> श्रुतरथे प्रियरथे दधानाः सद्यः पुष्टिं निरुन्धानासो अग्मन् ॥
+
+> *suṣupsā vāṃ varuṇa mitra rātirgavāṃ śatā pṛkṣayāmeṣu pajre |*
+> *śrutarathe priyarathe dadhānāḥ sadyaḥ puṣṭiṃ nirundhānāso agman ‖*
+
+(Ṛ. Saṃ. 1-122-7 [?], as read from the print; "suṣupsā" is as read and doubtful.) — here too Kakṣīvat says of himself that he belongs to the Pajra lineage and that he is able in the management of sacrifices with abundant gifts of food. In the same way, in the present ṛk Sāyaṇa has explained *pajrā* as *annavantaḥ aṅgirasaḥ*.
+
+### Printed p. 240  (PDF 261)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 5; noted briefly, numbers as read by the OCR and the page).** *prayatim* — root *yam uparame*; *ktin*; *anudāttopadeśa…* (Pā. 6-4-37) elides the nasal *m* of the root; in the *prādi*-compound, *tādau ca niti kṛty atiḥ* (Pā. 6-2-50) as an exception to the accent of the final member gives the natural accent of the *gati* (*pra*); accusative singular. *dade* — root *ḍudāñ dāne*; liṭ first person singular; since it follows a non-verb word, the *nighāta*. *yuktān* — root *yujir yoge*; *niṣṭhā* gives *kta*; *coḥ kuḥ* gives *ku* for the *j*; final-acute by the suffix; accusative plural. *aridhāyasaḥ* — *aribhiḥ dharaṇīyāḥ aridhāyasaḥ tān*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *vahihāhādhāñbhyaś chandasi* (Uṇ. 4-?) gives *asun*; the preceding sūtra's *ṇit* is carried on, so *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33) gives the augment *yuk*; the form *dhāyas*. *subandhavaḥ* — *śobhanāḥ bandhavaḥ yeṣāṃ te subandhavaḥ*; *nañsubhyām* would give the final-acute, but as an exception *bahuvrīhau ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119) gives the first-syllable acute of the latter member; nominative plural. *viśyāḥ* — *viśi bhavāḥ viśyāḥ*; *yat* in the sense of "belonging to"; *tit svaritam* (Pā. 6-1-185) gives the *svarita*. *vrāḥ* — *vriyante iti vrāḥ*; the form *vrātāḥ*; the loss of *t* is Vedic; or else *ghaṅarthe kavidhānam* gives the suffix *ka*. *anasvantaḥ* — *anaḥ* means a cart; *anāṃsi yeṣāṃ santi iti anasvantaḥ*; since *ap* [as printed] follows, *mādupadhāyāś ca…* gives *va* for the *m* of *matup*; since *pit*, unaccented. *aiṣanta* — root *iṣu icchāyām*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives laṅ in the present sense; by *vyatyaya*, *ātmanepada*; likewise *iṣugamiyamāṃ chaḥ* does not give the *cha*, in the Veda; in the third person plural
+
+### Printed p. 241  (PDF 262)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 11.)*
+
+*anta* substitution; *āḍ ajādīnām* (Pā. 6-4-72) gives *āṭ* to the stem; *āṭaś ca* gives vṛddhi; since *yaḥ* is connected, *yadvṛttānnityam* [print: *yadvṛttātnityam*?] prohibits the *nighāta*, so the first-syllable acute. ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आगधिता परिगधिता या कशीकेव जङ्गहे ।
+> ददाति मह्यं यादुरी याशूनां भोज्या शता ॥ ६ ॥
+
+> *āgadhitā parigadhitā yā kaśīkeva jaṅgahe |*
+> *dadāti mahyaṃ yādurī yāśūnāṃ bhojyā śatā ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> आऽगधिता । परिऽगधिता । या । कशीकाऽइव । जङ्गहे ।
+> ददाति । मह्यम् । यादुरी । याशूनाम् । भोज्या । शता ॥ ६ ॥
+
+> *ā 'gadhitā | pari 'gadhitā | yā | kaśīkā 'iva | jaṅgahe |*
+> *dadāti | mahyam | yādurī | yāśūnām | bhojyā | śatā ‖ 6 ‖*
+
+*(The word "yāśūnām" is as printed in the Saṃhitā and Pada; the bhāṣya below explains it with "yaśa".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> संभोगाय प्रार्थितो भावयव्यः स्वभार्यां रोमशामप्रौढेति बुद्ध्वा परिहसन्नाह । भोज्या भोगयोग्याग्धिता [?] आ समन्ताद्गृहीता स्वीकृता । तथा परिगधिता परितो गृहीता । आदरातिशयाय पुनर्वचनम् । गध्यं गृह्णातेरिति यास्कः । नि. ५-१५ । यद्वा । आगधिता आसमन्तादाश्रयन्ती । अन्तरं प्रजननेन वाक्यं भुजादिभिरित्यर्थः [?] । गद्यतिर्मिथोभावकर्मेति यास्कः । नि. ५-१५ । पूर्वस्मिन्पक्षे पुरुषस्य प्राधान्यमुत्तरस्मिन्स्त्रिया योषिता इति भेदः । कीदृशी सा । या जङ्गहे अत्यर्थं गृह्णाति कदाचिदपि न मुञ्चति । अत्याग्रे दृष्टान्तः । कशीकेव । कशीका नाम सुतवत्सा नकुली । सा यथा पत्या सह चिरकालं क्रीडति न कदाचिदपि विमुञ्चति तद्वदेषापि । किंच भोज्यैषा यादुरी । यादुरिर्यादनाम् [?] रेतोलक्षणमुदकं प्रभूतं ददातीति यादुरी । बहुरेतोयुक्तेत्यर्थः । तादृशी सती याशूनां संभोगानां । यश इति प्रजननं नाम तत्संबन्धीनि कर्माणि यशूनि भोगाः तेषां शता शतान्यसंख्यातानि मह्यं ददाति ॥
+
+> *saṃbhogāya prārthito bhāvayavyaḥ svabhāryāṃ romaśāmaprauḍheti buddhvā parihasannāha | bhojyā bhogayogyāgdhitā [?] ā samantādgṛhītā svīkṛtā | tathā parigadhitā parito gṛhītā | ādarātiśayāya punarvacanam | gadhyaṃ gṛhṇāteriti yāskaḥ | ni. 5-15 | yadvā | āgadhitā āsamantādāśrayantī | antaraṃ prajananena vākyaṃ bhujādibhirityarthaḥ [?] | gadyatirmithobhāvakarmeti yāskaḥ | ni. 5-15 | pūrvasminpakṣe puruṣasya prādhānyamuttarasminstriyā yoṣitā iti bhedaḥ | kīdṛśī sā | yā jaṅgahe atyarthaṃ gṛhṇāti kadācidapi na muñcati | atyāgre dṛṣṭāntaḥ | kaśīkeva | kaśīkā nāma sutavatsā nakulī | sā yathā patyā saha cirakālaṃ krīḍati na kadācidapi vimuñcati tadvadeṣāpi | kiṃca bhojyaiṣā yādurī | yāduriryādanām [?] retolakṣaṇamudakaṃ prabhūtaṃ dadātīti yādurī | bahuretoyuktetyarthaḥ | tādṛśī satī yāśūnāṃ saṃbhogānāṃ | yaśa iti prajananaṃ nāma tatsaṃbandhīni karmāṇi yaśūni bhogāḥ teṣāṃ śatā śatānyasaṃkhyātāni mahyaṃ dadāti ‖*
+
+*(Read from the image; the OCR is partly garbled. The words "agdhitā [?]" in the first sentence — the print has "bhojyā bhogayogyāgdhitā", which I read as "…āgadhitā" — and "yādanāma [?]" are doubtful.)* "Having been asked for union, Bhāvayavya, realising that his own wife Romaśā is not mature, says it, laughing. *Bhojyā* — fit for enjoyment, *āgadhitā* — taken on all sides, accepted; likewise *parigadhitā* — taken all round; the repetition is for the sake of great regard: '*gadhyaṃ gṛhṇāteḥ*', says Yāska (Ni. 5-15). Or else *āgadhitā* — one who approaches from all sides … with the inner [that is, secret] speech by procreation, by arms and the rest: '*gadyatir mitho-bhāvakarmā*', says Yāska (Ni. 5-15). In the first view the man is the principal one; in the latter, the woman: that is the difference. What is she like? She who *jaṅgahe* — grips exceedingly, never lets go. A simile of the strong grasp: *kaśīkā iva* — *kaśīkā* is the weasel with young; as she plays long with her mate and never lets him go, so she. Moreover this enjoyable one is *yādurī*: *yādurī* — she who gives much water in the form of semen, i.e. rich in semen. Such a one *yāśūnām* — of acts of union: *yaśa* is a name for procreation; the acts connected with it, *yaśūni*, are enjoyments; hundreds, countless, of these she gives to me."
+
+### Printed p. 242  (PDF 263)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 126".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Bhojyā* — fit for enjoyment; *yā* — which (Romaśā); *āgadhitā* — accepted (and); *parigadhitā* — embraced; *kaśīkā iva* — like a female weasel; *jaṅgahe* — [she] who tightly clasps; (*sā* — she); *yādurī* — one richly provided with the water of semen; *yāśūnām śatā* — hundreds (countless) of acts of enjoyment; *mahyam* — to me; *dadāti* — gives.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Romaśā, fit for enjoyment, accepted, clasps tightly like a female weasel; and, being rich in semen, gives me endless pleasures of union.
+
+**Printed English (as printed):** *She, who, when her desires are assented to, clings as tenaciously as a female weasel, and who is ripe for enjoyment, yields me infinite delight.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 6.**
+
+This ṛk and the next are the conversation between Bhāvayavya and his wife Romaśā. This Romaśā is the daughter of Bṛhaspati; at one time, with a desire for union, she went to her husband Bhāvayavya and asked that her desire be satisfied; in reply to that, Bhāvayavya spoke this ṛk. In reply to Bhāvayavya's words, Romaśā speaks the next ṛk. In these two ṛks, as in a dialogue of union, there is no matter such as the praise of a deity, which is common to sūktas and ṛks. Since the talk of union in these ṛks is not connected with the subject of this sūkta, some express doubt as to how it came to be included here. Moreover, of the seven ṛks of this sūkta, the first five are of Triṣṭubh metre and only these two ṛks are of Anuṣṭubh metre; so they are not a part of this sūkta. Somehow, for some other reason, they have been included here. It is indeed a wonder that matters of private life, unconnected with the subject, have been inserted into ṛks and included here.
+
+The main idea of this ṛk and of the next may be stated thus: Bhāvayavya and his wife Romaśā speak teasingly to each other; Bhāvayavya, speaking indirectly, says in this way —
+
+---
+
+**Progress note:** Sūkta 126 (*amandān stomān*, 7 ṛks, printed pp. 219–248) through printed p. 242 (PDF 263): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, Special Topics begun (breaks off at "Bhāvayavya … says in this way —"); resume p. 243 (PDF 264). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5 bhāṣya (p. 237) small type, middle part partly legible. Page images for PDF 261+ are in scratchpad w10b/.
