@@ -15145,4 +15145,56 @@ In this Ṛk the ṛṣi describes the process of pressing the Soma-juice at the
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 written through p. 631 (bhāṣya, pratipadārtha, bhāvārtha, English; Special Topics begun with the Aitareya Brāhmaṇa passage on the implements of pressing, whose last lines continue on p. 632); resume p. 632 (PDF 653); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 632  (PDF 653)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(The Aitareya Brāhmaṇa passage of p. 631, explained in Kannada:)* …*daśāpavitra, pūtabhṛt, ādhavanīya, sthālī, camasa* and so on: from those the implements needed there are listed. [This is the order in which the juice is obtained; or the order may differ in the rites.]
+
+The *adhvaryu* takes the skin and puts on it the Soma-plant in the form of *aṃśu* (stalks); first, he places the pressing-boards over them (the plank or stones) and beats them with the *grāvan*. Then he ties the crushed Soma-stalks with the end of the plank, together. Then he places another plank over it and, pouring on the board the water of the *vasatīvarī* [water] kept the previous day, in the *camasa*-vessel of another priest, the *hotṛ*, he sprinkles the crushed Soma-stalks three times, [the water] coming from the *vasatīvarī*. After this *nigrāha* procedure, he pours the water of the *vasatīvarī* vessel on the *adri*, [the stone], and then, placing the *grāvan* above, he spreads a little grass over it and beats once more with the *grāvan* to extract the juice. This act of beating is called *abhiṣavaṇa*. In this *abhiṣava* procedure there are three rounds: the first, as stated above, the *adhvaryu* beats eight times and completes the *nigrāha* rite; in the second round he beats eleven times, and in the third twelve times. After this *abhiṣava* rite, which comes first, [following] the procedure stated above, he performs [also] the great *abhiṣava* (*mahābhiṣava*) — for the *āyā savana* — and pours the juice he has obtained into the *ādhavanīya* vessel. After this, filtering it with a cloth called the *daśāpavitra*, he pours it into the *pūtabhṛt* vessel below. At that time the *udgātṛ* [or the *unnetṛ*] must hold this *daśāpavitra* cloth.
+
+In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇa saṃmārjayanti* is explained: "the adhvaryus cleanse with the *daśāpavitra*" is the matter that is shown. In the above-mentioned procedure, here the action *adribhiḥ sutānām* is described in the Taittirīya Saṃhitā as follows (Tai. Saṃ. 1-4-1 [as read]):
+
+> आ ददे ग्रावास्यध्वरकृद्देवेभ्यो गम्भीरमिमम् [?] अध्वरं कृधीन्द्राय सोमꣳ सुषुतं मधुमन्तं पयस्वन्तं वृष्टिवनिम् ।
+
+> *ā dade grāvāsy adhvarakṛd devebhyo gambhīram imam [?] adhvaraṃ kṛdhīndrāya somaguṃ suṣutaṃ madhumantaṃ payasvantaṃ vṛṣṭivanim |*
+
+(The middle of this quotation is garbled in the print — "*kṛdhyatrena savi* …" — and is doubtful [?].) "O *grāvan* (the *upāṃśugraha*-pressing-stone), who makes the sacrifice for the gods, [I take hold of] you, to press the Soma-plant; make with your sweet [?] shape the sacrifice deep, [pressing] the Soma that is sweet, rich in essence, and that brings rain, for Indra. [With this mantra the *grāvan* is taken.]"
+
+### Printed p. 633  (PDF 654)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> इन्द्राय त्वा वृत्रघ्न इन्द्राय त्वा वृत्रतुर इन्द्राय त्वाभिमातिघ्न इन्द्राय त्वादित्यवत इन्द्राय त्वा विश्वदेव्यावते ॥
+
+> *indrāya tvā vṛtraghna indrāya tvā vṛtratura indrāya tvābhimātighna indrāya tvādityavata indrāya tvā viśvadevyāvate ‖*
+
+"For Indra the slayer of Vṛtra [I take] you; for Indra the conqueror of Vṛtra, you; for Indra the slayer of enemies, you; for Indra accompanied by the Ādityas, you; for Indra accompanied by all the gods, you: [with this mantra, the offering is to be made for the first oblation, and the five separate offerings are indicated and the washing done]." —
+
+> श्वात्राः स्थ वृत्रतुरो राधोगूर्ता अमृतस्य पत्नीस्ता देवीर्देवत्रेमं यज्ञं धत्तोपहूताः सोमस्य पिबतोपहूतो युष्माकं सोमः पिबतु ॥
+
+> *śvātrāḥ stha vṛtraturo rādhogūrtā amṛtasya patnīs tā devīr devatremaṃ yajñaṃ dhattopahūtāḥ somasya pibatopahūto yuṣmākaṃ somaḥ pibatu ‖*
+
+"O waters, full of essence, conquerors of Vṛtra, wives of the immortal [Soma], divine ones, establish this our sacrifice among the gods; invited by us, drink the Soma; may your Soma, invited by you, also drink. [With this mantra the water is to be sprinkled on the Soma-stalks.]" —
+
+> यत्ते सोम दिवि ज्योतिर्यत्पृथिव्यां यदुरावन्तरिक्षे तेनास्मै यजमानायोरु राय कृधि दात्रे वोचः ॥
+
+> *yat te soma divi jyotir yat pṛthivyāṃ yad urāv antarikṣe tenāsmai yajamānāyoru rāya kṛdhi dātre vocaḥ ‖*
+
+"O Soma, with that light of yours which is in heaven, on earth, and in the wide *antarikṣa*, make abundant wealth for this sacrificer, and show [your] favour to the giver. [With this mantra the water is mixed with the Soma.]" —
+
+> धिषणे वीडू सती वीडयेथामूर्जं दधाथामूर्जं मे धत्तं मा वां हिꣳसिषं मा मा हिꣳसिष्टम् ।
+
+> *dhiṣaṇe vīḍū satī vīḍayethām ūrjaṃ dadhāthām ūrjaṃ me dhattaṃ mā vāṃ hiṃsiṣaṃ mā mā hiṃsiṣṭam |*
+
+"O two strong *dhiṣaṇās* [boards], may your strength increase; take strength, and give me strength; I shall not hurt you, do not hurt me. [With this mantra the pressing-boards (*abhiṣava-phalaka*) are beaten.]" —
+
+> प्रागपागुदगधराक्त्वा दिश आ धावन्त्वम्ब नि ष्वर [?] ।
+
+> *prāg apāg udag adharāktvā diśa ā dhāvantv amba ni ṣvara [?] |*
+
+"Let the east, the west, the north and the south, and the quarters between, rush towards you; O mother, come out swiftly. [This mantra belongs to the *nigrāha* procedure; the *unnetṛ* pours the water into the vessel of his *hotṛ*, and the Soma is thereby pressed.]" (These small-type Yajus mantras of the Taittirīya Saṃhitā, 1-4-1 [as read], are read from the image and are doubtful in a number of letters [?]; the Kannada gloss in the print is what I have followed for the sense.)
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 written through p. 633 (Special Topics: the Soma-pressing procedure and the Taittirīya Yajus mantras; the passage continues on p. 634); resume p. 634 (PDF 655) — crop PDF 661 on if needed; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
