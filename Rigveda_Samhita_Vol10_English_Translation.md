@@ -14705,4 +14705,64 @@ Vāyu is the giver of life to the sacrifice. The sacrifice of Vāyu is sustained
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛk 2 written through its Pratipadārtha (p. 613); resume p. 614 (PDF 635) with its Bhāvārtha; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 614  (PDF 635)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Pratipadārtha, concluded.)* …*hūyate* — is offered (to the *homa*); *he vāyo* — O Vāyu; *asmayuḥ* — joined with us (being favourable to us); *tvam* — you; *niyutaḥ* — the horses; *vaha* — bring (to take the Soma-juice, call them here and come); *yāhi* — start (afterwards towards heaven); *(tathā kurvan)* — so doing; *asmayuḥ* — joined to us (having a mind of favour to us); *juṣāṇaḥ* — pleased; *yāhi* — go.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, for you [everyone] has to desire this pure Soma-juice, purified by the stones (the instruments of pressing); it reaches the proper vessel (the *graha*); and, shining (with a colour), this Soma reaches you; the Soma-juices prepared among men for your share are offered to you, first among the deities; send the horses to carry it; go [to heaven] accepting it, and with a favourable mind towards us; go, pleased, with a favourable mind towards us.
+
+**Printed English (heading "English Translation"; as printed):** *"For you this Soma juice, purified by the stones (that bruise the plant), and clothed with enviable (splendour), flows to its (appropriate) receptacle; clothed with brilliant (splendour), this Soma is offered as they portion amongst men and amongst gods; (having received it), harness your horses, and depart well affected towards us; gratified, and well disposed towards us, depart."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+In this Ṛk of the *prauga-śastra* it is shown that Soma-juice is made ready and purified, the order in which it is offered in the *homa*, and the prayer addressed to Vāyu to accept it.
+
+***adribhiḥ*** — *abhiṣavasādhanaiḥ* — "by the stones, the instruments with which Soma is pressed". For this instrument, two words, *adri* and *grāvan*, are in use. Although both words have the general meaning "stone", there must be a difference in their nature between the *adri* and the *grāvan* as instruments for pressing Soma, and this can be said from their epithets, or from words suggesting sound. Ordinarily, in all places Sāyaṇa explains the word *adri* as *grāvan* and the word *grāvan* as *pāṣāṇa* ("stone"); but the difference between them is not shown by such a meaning, nor are they to be taken as synonyms; it is understood from the adjectives and similes that tell the nature of those two [objects] and from the words that indicate the sound they make in pressing Soma that the two instruments are different. *Babṛhāṇa* (Ṛ. Saṃ. 4-[?]-[?], as read "೪-೫೯-೨" [?]); *parvata* (1-[?]-[?]); *aśramaṇa*, *aśrathita*, *amṛtyu*, *anātura*, *ajara*, *amavipsnu* (1-[?]-[?], as read "೧-೬೪-೧೧" [?]); *dhruva*, *kṣemakāmu* (1-[?]-[?]) — all these are epithets that show the specialities of the *adri*. Likewise *pṛthu*, *pṛthubudhna* and the like are epithets that show the speciality of *grāvan* only. The *grāvan* is commonly compared with the bull, and the *adri* with the horse.
+
+> अद्रिरादृणात्येतेन । अपि वा अत्तेः स्यात् ॥
+
+> *adrir ādṛṇāty etena | api vā atteḥ syāt ‖*
+
+(Ni. 4-[?], as read "೪-೪" [?].) *Adri* is formed either from the root *dṛ*, which gives the sense of "to split", or from the root *ad*, which gives the sense of "to eat".
+
+This word is used in other senses also, besides "pressing the juice" or "the instrument for it". For example:
+
+> उत स्म ते परुष्ण्यामूर्णा वसत शुन्ध्यवः ।
+> उत पव्या रथानामद्रिं बिभन्त्योजसा ॥
+
+> *uta sma te paruṣṇyām ūrṇā vasata śundhyavaḥ |*
+> *uta pavyā rathānām adriṃ bibhanty ojasā ‖*
+
+(Ṛ. Saṃ. 5-52-9 [as read]; the last word of the second line is doubtful: the print has "*bindanty*" [?].) In this the strength of the chariots of the Maruts is described: by the strength of the wheels of that chariot, mountains are split. When it is so said, the word *adri* means "cloud, or mountain" — *megham girim vā*.
+
+### Printed p. 615  (PDF 636)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> ब्रह्माणि मे मतयः शं सुतासः शुष्म इयर्ति प्रभृतो मे अद्रिः ।
+> आ शासते प्रति हर्यन्त्युक्थेमा हरी वहतस्ता नो अच्छ ॥
+
+> *brahmāṇi me matayaḥ śaṃ sutāsaḥ śuṣma iyarti prabhṛto me adriḥ |*
+> *ā śāsate prati haryanty ukthemā harī vahatas tā no accha ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೮೩-೪" [?]; the quotation is doubtful in places [?].) In this, in a speech between Indra and the Maruts, Indra praises the power of his own thunderbolt. Here the word *adri* means *śatrūṇāṃ bhakṣako vajraḥ* — "the thunderbolt, the devourer of enemies": that is, the thunderbolt, the weapon that destroys enemies.
+
+> बृहस्पतिर्भिनदद्रिं विदद्गाः समुस्रियाभिर्वावशन्त नरः ।
+
+> *bṛhaspatir bhinad adriṃ vidad gāḥ sam usriyābhir vāvaśanta naraḥ ‖*
+
+(Ṛ. Saṃ. 1-62-3 [as read].) In Ṛks of this kind the word means "Asura", and:
+
+> महः स राय एषते पतिर्दन्निन इनस्य वसुनः पद आ ।
+> उप ध्रजन्तमद्रयो विधन्नित् ॥
+
+> *mahaḥ sa rāya eṣate patir dann ina inasya vasunaḥ pada ā |*
+> *upa dhrajantam adrayo vidhann it ‖*
+
+(Ṛ. Saṃ. 1-[?]-1, as read "೧-೧೮೪-೧" [?]; the quotation is doubtful in several letters [?].)
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛk 2 written through p. 615 (Special Topics: entry *adribhiḥ* continues on p. 616, after the quotation Ṛ. 1-[?]-1); resume p. 616 (PDF 637); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
