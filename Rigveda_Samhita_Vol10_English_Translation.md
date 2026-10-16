@@ -15379,4 +15379,54 @@ The author of the Nirukta has given different meanings of this word, but to show
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 written through p. 639 (Special Topics: the *upāṃśugraha* mantras 1–7 and *pavitram* done; the sentence on *avyayāḥ somāsaḥ* breaks off at the foot of p. 639); resume p. 640 (PDF 661; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 640  (PDF 661)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Special Topics of Ṛk 6, concluded from p. 639:)* …so *avyayā romāṇi ati* ("passing the fine hairs") must be understood as "the sound, passing through this woollen cloth": the very matter described in this Ṛk [that the Soma goes through the *avya*-hairs] —
+
+> प्र ते धारा अत्यण्वानि मेष्यः पुनानस्य संयतो यन्ति रंहयः ।
+> यद्गोभिरिन्दो चम्वोः समज्यस आ सुवानः सोम कलशेषु सीदसि ॥
+
+> *pra te dhārā atyaṇvāni meṣyaḥ punānasya saṃyato yanti raṃhayaḥ |*
+> *yad gobhir indo camvoḥ samajyasa ā suvānaḥ soma kalaśeṣu sīdasi ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೧೩-೧" [?]; the quotation's wording is partly doubtful [?].) — in this, too, the order in which the Soma-juice is cleansed is described in the same way. *Raṃhayaḥ dhārāḥ meṣyaḥ aṇvāni aṇūni lomāni atiyanti* — "the streams, the quick flows, pass over the fine hairs of the woollen cloth": it is explained [by Sāyaṇa] as the streams, though fine, passing through the woollen strainer, [as described here].
+
+***avyayāḥ*** — the word *avyayā* is repeated; the second time it is an epithet of *somāsaḥ*. There it means "that which has no decay (*vyaya*)": "imperishable".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *apsu* — the locative plural; *ūḍidaṃ padādi* (Pā. 6-1-171 [as read]) gives the udātta to the case-ending. *bharamāṇāḥ* — root *bhṛñ bharaṇe*; by *vyatyaya* the active suffix in the passive; *śānac* for *laṭ*; *śap* as *vikaraṇa*; *guṇa* of the root's *ṛ*; as the *lasārvadhātuka* is *anudātta*, the accent of the root remains. *ayaṃsata* — root *yamu uparame*; *luṅ*, third person plural; by *nighāta* after a *tiṅanta*. *asṛkṣata* — root *sṛja visarge*; *luṅ* in the passive, third person plural; *ātmanepadeṣv anataḥ* (Pā. 7-1-5 [as read]) gives *ata* [for the suffix]; *sic* for *cli*; *liṅsicāvātmanepadeṣu* (Pā. 1-2-11 [as read]) gives the *kittva* of *sic*, so the *laghūpadha guṇa* of the root does not occur; therefore *sṛjidṛśor jhaly am akiti* (Pā. 6-1-58 [as read]) does not give the *am* augment; *vraścabhrasja…* (Pā. 8-2-36 [as read]) gives *ṣa* for the *ja*; *ṣaḍhoḥ kaḥ si* gives *ka* to it; because of that, the *s* becomes *ṣa*; *āgama* of the *aṅga*; *nighāta* after a *tiṅanta*. *āśavaḥ* — root *aśū vyāptau*; *kṛvāpājimisvadisādhyaśūbhya uṇ* (Uṇ. 1-1 [as read]) gives the suffix *uṇ*; *ata upadhāyāḥ* (Pā. 7-2-116 [as read]) gives *vṛddhi* to the penultimate of the root; by the suffix accent, the final udātta; nominative plural.
+
+### Printed p. 641  (PDF 662)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+*(Grammar, concluded.)* *yuvāyavaḥ* — after the word *yuṣmad*, *supa ātmanaḥ kyac* (Pā. 3-1-8 [as read]) gives the suffix *kyac*, with doubling; since the stem is *pratipādaka*, *yuvā* [is substituted] for the base; *asyaiṣā mahidṛṅkṛte* [as read] gives the lengthening; *kyācchandasi* (Pā. 3-2-170 [as read]) gives the suffix *u* after the *kya*-ending; *ato lopaḥ* (Pā. 6-4-48 [as read]) drops the *a* before *kya*; by the suffix accent, the final udātta. *avyayā* — *śeś chandasi bahulam* (Pā. 6-1-70 [as read]) drops *śi*; in *avimayāni*, by Vedic usage the elision of the letter occurs. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अति वायो ससतो याहि शश्वतो यत्र ग्रावा वदति तत्र गच्छतं गृहमिन्द्रश्च गच्छतम् ।
+> वि सूनृता ददृशे रीयते घृतमा पूर्णया नियुता याथो अध्वरमिन्द्रश्च याथो अध्वरम् ॥ ७ ॥
+
+> *ati vāyo sasato yāhi śaśvato yatra grāvā vadati tatra gacchataṃ gṛhamindraśca gacchatam |*
+> *vi sūnṛtā dadṛśe rīyate ghṛtamā pūrṇayā niyutā yātho adhvaramindraśca yātho adhvaram ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> अति । वायो इति । ससतः । याहि । शश्वतः । यत्र । ग्रावा । वदति । तत्र । गच्छतम् । गृहम् । इन्द्रः । च । गच्छतम् ।
+> वि । सूनृता । ददृशे । रीयते । घृतम् । आ । पूर्णया । नियुता । याथः । अध्वरम् । इन्द्रः । च । याथः । अध्वरम् ॥ ७ ॥
+
+> *ati | vāyo iti | sasataḥ | yāhi | śaśvataḥ | yatra | grāvā | vadati | tatra | gacchatam | gṛham | indraḥ | ca | gacchatam |*
+> *vi | sūnṛtā | dadṛśe | rīyate | ghṛtam | ā | pūrṇayā | niyutā | yāthaḥ | adhvaram | indraḥ | ca | yāthaḥ | adhvaram ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 7; read from the image; begins at the foot of p. 641.)*
+
+> हे वायो त्वं ससत आलस्यादिना निद्रां कुर्वतः शश्वतो बहून्यजमानान् । शश्वदिति बहुनाम शश्वद्विश्वमिति तन्नामसु पाठात् । अत्यतिक्रम्योपेक्ष्यास्मद्यज्ञं याहि गच्छ । इन्द्रश्च तथा करोतु । तं देशमिति तमाह । यत्र ग्रावा वदति
+
+> *he vāyo tvaṃ sasata ālasyādinā nidrāṃ kurvataḥ śaśvato bahūnyajamānān | śaśvaditi bahunāma śaśvadviśvamiti tannāmasu pāṭhāt | atyatikramyopekṣyāsmadyajñaṃ yāhi gaccha | indraśca tathā karotu | taṃ deśamiti tamāha | yatra grāvā vadati*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 complete; Ṛk 7 begun: Saṃhitā, Pada and the first words of the bhāṣya written (foot of p. 641; bhāṣya breaks off after "*yatra grāvā vadati*"); resume p. 642 (PDF 663; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
