@@ -15429,4 +15429,66 @@ The author of the Nirukta has given different meanings of this word, but to show
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 complete; Ṛk 7 begun: Saṃhitā, Pada and the first words of the bhāṣya written (foot of p. 641; bhāṣya breaks off after "*yatra grāvā vadati*"); resume p. 642 (PDF 663; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 642  (PDF 663)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Bhāṣya of Ṛk 7, continued from p. 641; read from the image; doubtful words marked [?].)*
+
+> यस्मिन्देशेऽभिषवार्थः पाषाणध्वनिः श्रूयते तत्र गच्छतं तं देशं प्रत्यागच्छतम् । गृहं यज्ञगृहं गच्छतं । पुनः स्थानमेव विशेष्यते । सूनृता प्रियतथ्यात्मिका स्तुतिरूपा वाङ्मात्रं वि ददृशे विशेषेण दृश्यते श्रूयते इत्यर्थः । तत्र गच्छतं । यत्र च घृतमुत्कृष्टमाज्यं होमार्थं गृहीतं रीयते गच्छति आहवनीयं प्रति नीयते ॥ रीङ् स्रवणे । दिवादित्वात् श्यन् ॥ तत्र गच्छतम् । गमनप्रकार एव विशेष्यते । पूर्णया संपूर्णया पुष्टाङ्गया [?] नियुता ॥ जातावेकवचनम् । नियुद्भिस्त्वदध्वरमस्मदीयं यज्ञमा याथः । अभिमुख्येन प्रयाथः । किंच हे वायो त्वमिन्द्रश्च युवामध्वरमस्मदीयं यागमा याथः । सहैवागच्छतं तथास्माभिरपि सहैव गच्छतमित्यर्थः ॥
+
+> *yasmindeśe 'bhiṣavārthaḥ pāṣāṇadhvaniḥ śrūyate tatra gacchataṃ taṃ deśaṃ pratyāgacchatam | gṛhaṃ yajñagṛhaṃ gacchataṃ | punaḥ sthānameva viśeṣyate | sūnṛtā priyatathyātmikā stutirūpā vāṅmātraṃ vi dadṛśe viśeṣeṇa dṛśyate śrūyate ityarthaḥ | tatra gacchataṃ | yatra ca ghṛtamutkṛṣṭamājyaṃ homārthaṃ gṛhītaṃ rīyate gacchati āhavanīyaṃ prati nīyate ‖ rīṅ sravaṇe | divāditvāt śyan ‖ tatra gacchatam | gamanaprakāra eva viśeṣyate | pūrṇayā saṃpūrṇayā puṣṭāṅgayā [?] niyutā ‖ jātāvekavacanam | niyudbhistvadadhvaramasmadīyaṃ yajñamā yāthaḥ | abhimukhyena prayāthaḥ | kiṃca he vāyo tvamindraśca yuvāmadhvaramasmadīyaṃ yāgamā yāthaḥ | sahaivāgacchataṃ tathāsmābhirapi sahaiva gacchatamityarthaḥ ‖*
+
+*(Sense: "To the place where the sound of the pressing-stones is heard for the pressing, go — come back to that place; go to the house — the sacrificial house; and again the place itself is described: where *sūnṛtā* — speech in the form of praise, of the nature of what is dear and true — *vi dadṛśe* is specially seen and heard; go there; and where *ghṛtam* — excellent ghee taken for the oblation — *rīyate*, flows, is carried to the *āhavanīya* [*rīṅ sravaṇe*, *śyan* of the *divādi* class]; go there; the manner of going is further described: with *pūrṇayā* — full, with well-nourished limbs [?] — *niyutā* [the generic singular], you come to our sacrifice with your horses; go straight towards it. And further, O Vāyu, you and Indra, come to our sacrifice; going together, you two go with us as well.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) vāyo* — O Vāyu; *(tvam)* — you; *sasataḥ* — [those who are] sleeping out of laziness; *śaśvataḥ* — many persons (sacrificers); *ati yāhi* — pass over (go to our sacrificial hall); *indraḥ ca* — and Indra too (may he do likewise); *yatra* — in which place; *grāvā* — the stones (that press the Soma-juice); *vadati* — make sound; *tatra* — to that place; *gacchatam* — [you two] go; *gṛham* — to the sacrificial house; *gacchatam* — go; *sūnṛtā* — (in which place) true and praise-form speech; *vi dadṛśe* — is seen specially (go there); *ghṛtam* — (where) ghee; *rīyate* — is brought for the oblation (go there); *pūrṇayā* — with well-nourished; *niyutā* — [with] the horses called *niyut*; *adhvaram* — to our sacrificial hall; *ā yāthaḥ* — come face-to-face; *(kiṃca — and)* *(he vāyo)* — O Vāyu; *indraḥ ca* — and Indra too; *adhvaram* — to our sacrifice; *(ā)* *yāthaḥ* — come together.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, with Indra, leaving those who are asleep from laziness, go to the house where the pressing-stones (to prepare the Soma-juice) sound; O Indra and Vāyu, go to that house; go to the place of true speech (praise-form); go to the place where the ghee enters the fire [the oblation]; go to the sacrifice with well-nourished horses; O Indra and Vāyu, come both together to our sacrificial hall.
+
+**Printed English (heading "English Translation"; as printed):** *"Pass, (Vayu), by the many sleeping (worshippers), and go (with Indra) to the house where the stone resounds: Indra (and Vayu), go to that dwelling; (go where) the (word of) truth is manifest; (go where) the butter flows; go both with well-fed horses to the sacrifice; Indra (and Vayu), repair to the sacrifice."*
+
+### Printed p. 643  (PDF 664)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read]; the English of the last Ṛk runs on from the foot of p. 642 as printed.)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 7).**
+
+Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinking occurs, with their attractive circumstances, are described by *yatra grāvā vadati*, *yatra sūnṛtā vi dadṛśe*, *ghṛtaṃ rīyate* and the like.
+
+***yatra grāvā vadati*** — "where the stones that press the Soma give a sound that follows the praise-words of men": the attractive sound of the *grāvan* stones that press Soma is described. To the question whether such circumstances as "the *grāvan* sounds" are not impossible, Sāyaṇa has given his reply in the introduction to his commentary, which may be seen in the first part of the Ṛgveda Saṃhitā. The speech-like sound of the stones is described in the Ṛks of the Ṛgveda Saṃhitā thus (Ṛ. Saṃ. 10-[?], as read "೧೦-೯೪", the verses as numbered 1–4 in the print [?]):
+
+> प्रैते वदन्तु प्र वयं वदाम ग्रावभ्यो वाचं वदता वदद्भ्यः ।
+> यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेन्द्राय सोमिनः ॥ १ ॥
+
+> *praite vadantu pra vayaṃ vadāma grāvabhyo vācaṃ vadatā vadadbhyaḥ |*
+> *yad adrayaḥ parvatāḥ sākam āśavaḥ ślokaṃ ghoṣaṃ bharathendrāya sominaḥ ‖ 1 ‖*
+
+"Let these [stones] speak; let us speak to the *grāvan*s; speak your words to the speaking ones; O you who press for Indra [the Soma-bearing], bring the sound of praise." The *grāvan*s which press the Soma — "may these make sounds; we too will praise them; O Ṛks, join them and make the sound that may be heard".
+
+> एते वदन्ति शतवत्सहस्रवदभि क्रन्दन्ति हरितेभिरासभिः ।
+> विष्टवी ग्रावाणः सुकृतः सुकृत्यया होतुश्चित्पूर्वे हविरद्यमाशत ॥ २ ॥
+
+> *ete vadanti śatavat sahasravad abhi krandanti haritebhir āsabhiḥ |*
+> *viṣṭvī grāvāṇaḥ sukṛtaḥ sukṛtyayā hotuś cit pūrve haviradyam āśata ‖ 2 ‖*
+
+"As men speak in hundreds and thousands, so these stones make sounds, and call to the gods, in the Soma-giving [?], with green mouths" (the Kannada gloss).
+
+> एते वदन्ति विदन्ना मधु न्योखयन्ते अधि पक्व आमिषि ।
+> वृक्षस्य शाखामरुणस्य बप्सतस्ते सूभर्वा वृषभाः प्रेमराविषुः ॥ ३ ॥
+
+> *ete vadanti vidannā madhu nyokhayante adhi pakva āmiṣi |*
+> *vṛkṣasya śākhām aruṇasya bapsatas te sūbharvā vṛṣabhāḥ premarāviṣuḥ ‖ 3 ‖*
+
+"As the strong bulls make noise when they eat the branch of a red tree, and as beings eating cooked flesh make sounds, so these stones make sound." (The quotation is read with doubt in several letters [?].)
+
+> बृहद्वदन्ति मदिरेण मन्दिनेन्द्रं क्रोशन्तोऽविदन्ना मधु ।
+> संरभ्या धीराः स्वसृभिरर्चिषुराघोषयन्तः पृथिवीमुपब्दिभिः ॥ ४ ॥
+
+> *bṛhad vadanti madireṇa mandinendraṃ krośanto 'vidannā madhu |*
+> *saṃrabhyā dhīrāḥ svasṛbhir arciṣur āghoṣayantaḥ pṛthivīm upabdibhiḥ ‖ 4 ‖*
+
+(Read from the image; the quotation is doubtful in the last words [?].)
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 7 (the last of Sūkta 135) written through p. 643 (Special Topics: the *grāvan* Ṛks quoted; more entries and the grammar follow); resume p. 644 (PDF 665; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
