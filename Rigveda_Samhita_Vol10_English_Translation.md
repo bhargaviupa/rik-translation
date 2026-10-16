@@ -17031,4 +17031,56 @@ But if different words are used in different *pāda*s of one Ṛk there is no fa
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 6 written through p. 703 (printed English, Special Topics, grammar through *sumṛḷīkāya*; the rest of the grammar on p. 704); resume p. 704 (PDF 725; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 704  (PDF 725)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Grammar of Ṛk 6, concluded.)* *stuhi* — root *ṣṭuñ stutau*; *loṭ*, second person singular; *nighāta* after a *tiṅanta*. *jīvantaḥ* — root *jīva prāṇadhāraṇe*; *śatṛ* for *laṭ*; nominative plural; as the *lasārvadhātuka* is *anudātta* by *tāsyanudāttenṅidvidupadeśāt…* (Pā. 6-1-186 [as read]), the root's accent remains. *prajayā* — root *janī prādurbhāve*; *prajāyate iti prajā*; *upasarge ca saṃjñāyām* (Pā. 3-2-99 [as read]) gives the suffix *ḍa*; because it is *ḍit*, by force the *ṭi* of the root is elided; *kṛduttarapadaprakṛtisvara*; instrumental singular. *sacemahi* — root *ṣaca samavāye*; *liṅ*, first person plural; *nighāta* after a *tiṅanta*. *ūtī* — *ūtiyūtijūti…* (Pā. 3-3-97 [as read]) — the *ktin*-ending, being udātta, is formed by *nipātana*; the instrumental singular, being *para*; *supāṃ sulug…* gives lengthening of the preceding vowel. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> ऊती देवानां वयमिन्द्रवन्तो मꣳसीमहि स्वयशसो मरुद्भिः ।
+> अग्निर्मित्रो वरुणः शर्म यꣳसन्तदश्याम मघवानो वयं च ॥ ७ ॥
+
+> *ūtī devānāṃ vayamindravanto mam̐sīmahi svayaśaso marudbhiḥ |*
+> *agnirmitro varuṇaḥ śarma yam̐santadaśyāma maghavāno vayaṃ ca ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> ऊती । देवानाम् । वयम् । इन्द्रऽवन्तः । मꣳसीमहि । स्वऽयशसः । मरुत्ऽभिः ।
+> अग्निः । मित्रः । वरुणः । शर्म । यꣳसन् । तत् । अश्याम । मघऽवानः । वयम् । च ॥ ७ ॥
+
+> *ūtī | devānām | vayam | indra 'vantaḥ | mam̐sīmahi | sva 'yaśasaḥ | marut 'bhiḥ |*
+> *agniḥ | mitraḥ | varuṇaḥ | śarma | yam̐san | tat | aśyāma | magha 'vānaḥ | vayam | ca ‖ 7 ‖*
+
+### Printed p. 705  (PDF 726)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 7; read from the image.)*
+
+> इन्द्रवन्तः प्रीतेनेन्द्रेण तद्वन्तो वयं देवानां देवान् ॥ कर्मणि षष्ठी ॥ ऊती ऊत्या तर्पणेन हविरादिना मंसीमहि । मन्यामहे । कीदृशा वयम् । स्वयशसः स्वायत्तकीर्तयो मरुद्भिः स्तुत्वा हृष्टैर्मरुद्देवैरनुगृहीताः । यद्वा । देवानामूत्या रक्षणेन रक्षिता मंसीमहि ज्ञातारो भवेम । सामर्थ्यादेषामेव महत्त्वस्य । किंचाग्निर्मित्रवरुणा देवाः शर्म यंसन् । अस्माकं सुखं प्रायच्छन् । तं तं वरं । मघवानो वयं च त्रैदश्यान्नवन्तः संतस्तत्सुखमश्याम । व्याप्नुयाम । अश्नोतेराशिषि लिङ् च्छन्दस्युभयथेति सार्वधातुकत्वात्सलोपः ॥
+
+> *indravantaḥ prītenendreṇa tadvanto vayaṃ devānāṃ devān ‖ karmaṇi ṣaṣṭhī ‖ ūtī ūtyā tarpaṇena havirādinā maṃsīmahi | manyāmahe | kīdṛśā vayam | svayaśasaḥ svāyattakīrtayo marudbhiḥ stutvā hṛṣṭairmaruddevairanugṛhītāḥ | yadvā | devānāmūtyā rakṣaṇena rakṣitā maṃsīmahi jñātāro bhavema | sāmarthyādeṣāmeva mahattvasya | kiṃcāgnirmitravaruṇā devāḥ śarma yaṃsan | asmākaṃ sukhaṃ prāyacchan | taṃ taṃ varaṃ | maghavāno vayaṃ ca traidaśyānnavantaḥ saṃtastatsukhamaśyāma | vyāpnuyāma | aśnoterāśiṣi liṅ cchandasyubhayatheti sārvadhātukatvātsalopaḥ ‖*
+
+*(Sense: "We, *indravantaḥ* — endowed with the pleased Indra — *devānām ūtī* — by the satisfaction of the gods, with oblations and the like — *maṃsīmahi*, 'may we think' [or: 'may we know']. What kind of us? *Svayaśasaḥ* — of our own fame, favoured by the Maruts, who are pleased by our praise. Or: protected by the gods' protection, may we be knowers (of their greatness). And Agni, Mitra and Varuṇa, the gods, *yaṃsan* — have given us joy — each desired boon; and we, *maghavānaḥ* — possessing food [from those gods], may we pervade, may we gain, that joy." (*Aśyāma* — *liṅ* of *aśnoti* in the benedictive; by *chandasy ubhayathā* it is *sārvadhātuka*, so *s*-elision.) )*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *indravantaḥ* — endowed with Indra; *svayaśasaḥ* — of our own renown; *marudbhiḥ* — by the Maruts (pleased by our praise), [favoured]; *vayam* — we; *devānām* — the gods; *ūtī* — by protection (satisfaction by oblations and so on); *maṃsīmahi* — may we know (their greatness); *(or)* *devānām* — of the gods; *ūtī* — by the protection; *maṃsīmahi* — (may we) know; *(kiṃca — and)*; *agniḥ mitraḥ varuṇaḥ* — Agni, Mitra and Varuṇa; *śarma* — joy; *yaṃsan* — gave (blessed); *maghavānaḥ* — [from them] possessing food; *vayaṃ ca* — and we; *tat* — that joy; *aśyāma* — may we get (may we enjoy).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** May we, worthy of Indra's pleasure and the favour of the Maruts, and ourselves of renown, receive the protection of the gods; and may we, possessing food, enjoy the happiness that Agni, Mitra and Varuṇa have blessed us with.
+
+**Printed English (heading "English Translation"; as printed):** *"Worshipping Indra, and favoured by the Maruts, may we rely upon the protection of the gods; and may we affluent (through their bounty), enjoy the felicity which Agni, Mitra, and Varuna are bestowing (upon us)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 7).**
+
+In this Ṛk, a kind of pride and also satisfaction are expressed: from the firm trust that "we have the favour of Indra, whom our praise has pleased, and the help of the Maruts in full", the faith that the protection of the other gods is also assured is expressed.
+
+***maṃsīmahi*** — *jñātāro bhavema*: "may we become knowers"; by experiencing their protection, "may we know their nature through it" is the meaning.
+
+***aśyāma*** — *vyāpnuyāma*: "may we pervade", i.e. "may we get fully" is the meaning.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 6 complete; Ṛk 7 (the last of Sūkta 136) written through p. 705 (Special Topics: *maṃsīmahi*, *aśyāma* done; the grammar and the closing note follow); resume p. 706 (PDF 727; PDF 728 is the last image). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
