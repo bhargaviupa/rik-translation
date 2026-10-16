@@ -9150,4 +9150,82 @@ For the word *dhūrti* two kinds of meaning are given: "harm" and "the harmer".
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 360 (PDF 381): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 (last) Saṃhitā/Pada/bhāṣya done; resume p. 361 (PDF 382) with the Ṛk 8 Pratipadārtha, Bhāvārtha, English, Special Topics, grammar, then the closing Kannada line of Sūkta 128 and Sūkta 129 (begins p. 364). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357; OCR reference-number lines missing for pp. 249–360.
+### Printed p. 361  (PDF 382)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 16 [as read: "೧೬"].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *hotā-m* — the invoker of the gods; *agnim* — Agni; *īḷate* — they praise; *vasudhitim* — the support of wealth (the giver of wealth); *priyam* — dear (to all); *cetiṣṭham* — endowed with great intelligence (who awakens the sacrificers); *aratim* — the lord, Agni; *ni erire* — approached; *havyavāham* — the bearer of oblations to the gods; *viśvāyum* — the life (in the form of life) of all creatures; *viśvavedasam* — the all-knowing; *hotāram* — the invoker of the gods (the accomplisher of the oblation); *yajatam* — to be worshipped (by sacrifices and the like); *kavim* — the knower of the three times; *ni erire* — they reached; *(kiṃ ca* — and); *devāsaḥ* — the priests given to worship; *raṇvam* — Agni, who sounds (blazing); *avase* — for the protection (of this sacrificer); *vasūyavaḥ* — desirous of wealth; *gīrbhiḥ* — with words of praise; *raṇvam* — the delightful; *vasūyavaḥ* — those desiring food in the form of oblations in order to offer it in Agni; *(nyerire* — reached).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The priests praise Agni, who invokes the gods to the sacrificial place; the support of wealth (the giver of wealth), dear to all, the one who warns the sacrificers in the matter of the sacrifice, the lord, the life of all creatures, the all-knowing, the *hotṛ* (the accomplisher of the oblation, or the one who calls the gods), the one to be worshipped in the sacrifices, who knows the three times; the priests approached him; the priests, being devoted to worship, desirous of wealth for the protection of the sacrificer, and desiring the delightful food in the form of oblations by their praise-words, approached the blazing, sounding Agni.
+
+**Printed English (heading "English Translation"; as printed):** *"They, (the devout), praise Agni, the invoker (of the gods), the possessor of wealth, the beloved, the thoughtful; they have recourse to him as to a sovereign; they have recourse to him as the bearer of oblations; to him, who is the life (of all living beings), who knows all things, the offerer of oblations, the object of worship, the sage: the sacred (priests), desirous of affluence, murmur (his praises) to obtain his protection; desirous of affluence, they murmur (his praises) in their hymns."*
+
+### Printed p. 362  (PDF 383)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 8).**
+
+***hotāram īḷate*** — *homaniṣpādakam āhvātāraṃ vā*: "Agni accomplishes the oblation, or he calls the gods to accept the oblations offered as homa; the priests praise such an Agni."
+
+***vasudhitim*** — *dhanasya dhārayitāraṃ dātāraṃ vā*: "Agni holds wealth, or gives wealth": so the meaning. The Niruktakāra says that the words *vasudhiti* and *vasudhī* do not convey different meanings; he explains *vasudhītī vasudhānyau — vasūnāṃ nidhānabhūte* ("in the form of a store of wealth": the support of riches) (Ni. 9-42 [?], as read "೯-೪೨").
+
+***cetiṣṭham*** — *atiśayena yajamānānāṃ cetayitāraṃ yadvā prakṛṣṭacetanavantam*: "Agni grants great knowledge to the sacrificers; or he himself has great wisdom."
+
+***havyavāhaṃ nyerire*** — *niḥśeṣeṇa prāptāḥ*: "Agni is able, with delight, to bear the oblations to the other gods; they serve such an Agni": so it is described.
+
+***raṇvam*** — *atipravṛddhatayā śabdayantaṃ ramaṇīyaṃ vā*: "when he blazes well he makes a sound; or he is delightful."
+
+***vasūyavaḥ*** — *vasukāmāḥ | vasu haviḥrūpam annam agnaye pradātum ātmana icchantaḥ*: "those who want wealth, or the sacrificers who wish to obtain from Agni abundant food in order to offer food in the form of oblations to Agni; the sacrificers who, having obtained plenty of food and wealth from Agni, satisfy Agni with oblations, so that Agni, content, may grant wealth, serve Agni in this way": so it is described. —
+
+> कारुरहं ततो भिषगुपलप्रक्षिणी नना ।
+> नानाधियो वसूयवोऽनु गा इव तस्थिमेन्द्रायेन्दो परि स्रव ॥
+
+> *kārur ahaṃ tato bhiṣag upalaprakṣiṇī nanā |*
+> *nānādhiyo vasūyavo 'nu gā iva tasthimendrāyendo pari srava ‖*
+
+(Ṛ. Saṃ. 9-112-3, as printed.) Here *vasūyavaḥ* is explained as *vasukāmāḥ* (Ni. 6-[?]; as read "೬-೫"?). And —
+
+> इन्द्रो अश्रायि सुध्यो निरेके पज्रेषु स्तोमो दुर्यो न यूपः ।
+> अश्वयुर्गव्यू रथयुर्वसूयुरिन्द्र इद्रायः क्षयति प्रयन्ता ॥
+
+> *indro aśrāyi sudhyo nireke pajreṣu stomo duryo na yūpaḥ |*
+> *aśvayur gavyū rathayur vasūyur indra id rāyaḥ kṣayati prayantā ‖*
+
+(Ṛ. Saṃ. 1-31-14 [?], as read "೧-೩೧-೧೪"; the first line has doubtful letters in the print: [?].)
+
+### Printed p. 363  (PDF 384)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 16 [as read].)*
+
+In this Ṛk *vasūyuḥ* is explained as *vasumān*, "possessing wealth". From this the word *vasūyavaḥ* is explained as "those who desire wealth" or "those who possess wealth".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar pages, noted briefly; numbers as read).** *hotāram* — root *hveñ spardhāyāṃ śabde ca*; *tṛn* in the agent sense; Vedic *saṃprasāraṇa* and *pūrvarūpa*; guṇa of *u* because of the suffix; since *n*-marked the acute on the first syllable; accusative singular. *īḷate* — root *īḍa stutau*, *adādi*; *laṭ* third person plural; *ātmanepadeṣv anataḥ* (Pā. 7-1-5) gives *at* for *jha*; *luk* for *śap*; *tiṅ-nighāta*. *vasudhitim* — *vasunaḥ dhitiḥ*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; by the power of *bahulagrahaṇa* the suffix *ktin* in the agent sense; the root takes *i*; *pūrvapadaprakṛtisvara*. *cetiṣṭham* — root *citī saṃjñāne*; *tṛc* in the agent sense; when *atiśayena cetayitā* is meant, *tuśchandasi* [as read: Pā. 5-3-59] gives *iṣṭhan* after its own kind; with *iṣṭhan* following, *turiṣṭhemeyaḥsu* (Pā. 6-4-154) drops *tṛc*; since *n*-marked, the acute on the first syllable. *aratim* — root *ṛ gatau*; the Uṇādi suffix *ati*; since *cit* is continued from the previous sūtra, the acute on the last syllable; accusative singular. *erire* — root *īra preraṇe* or *īr gatau*; *liṭ* third person plural; because it follows a non-finite word, *nighāta*. *havyavāham* — root *vah prāpaṇe*; *vahaś ca* (Pā. 3-2-64) gives *ṇi* [as read]; since *ṇ*-marked, *ata upadhāyāḥ* (Pā. 7-2-116) gives *vṛddhi* of the penult; everything drops in the suffix; *gatikārakopapadāt kṛt* (Pā. 6-2-139) gives the accent of the latter member; accusative singular. *viśvavedasam* — *viśvaṃ vedo yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1) gives the accent of the first member. *yajatam* — root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *bhṛmṛśiyajiparvi…* (Uṇ. 3-110) gives *atac*; *citaḥ* (Pā. 6-1-163) gives the acute on the last syllable. *devāsaḥ* — *ājjasera suk* (Pā. 7-1-50) gives the augment *asuk* to *jas*. *raṇvam* — root *raṇa gatau*; *idito num dhātoḥ* gives *num*; suffix *k*; *aṭkupvāṅ…* gives *ṇ* for the *n*; acute on the last syllable by the accent of the suffix.
+
+### Printed p. 364  (PDF 385)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128" [as read: "೧೨೯"?].)*
+
+*(Grammar, concluded.)* *avase* — root *av rakṣaṇe*; Uṇādi *asun*; since *n*-marked the acute on the first syllable. *vasūyavaḥ* — *vasum ātmana icchantaḥ vasūyavaḥ*; *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *kyāc chandasi* (Pā. 3-2-170) gives *u* after the *kyac*-ending; *ato lopaḥ* drops the *a* of *kyac*; by the suffix's accent, the acute on the last syllable; nominative plural. ‖ 8 ‖
+
+Here ends the 128th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತೆಂಟನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 129 — *yaṃ tvaṃ ratham indra* (begins on printed p. 364; Anuvāka 19, third Sūkta)
+
+### Printed p. 364 (continued; PDF 385, lower part)
+
+**ನೂರ ಇಪ್ಪತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು — Nūra ippattoṃbhattaneya sūktavu** (the one hundred and twenty-ninth Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; several letters doubtful [?]).**
+
+> यं त्वं रथमित्येकादशर्चं तृतीयं सूक्तं पारुच्छेपं सर्वमात्यष्टमित्युक्तत्वादत्यष्टिच्छन्दस्कम् [?] । अनुक्तत्वादैन्द्रम् । प्रप्रा वो अस्मे इत्यादिके द्वे अतिशक्वर्यौ षष्ट्यक्षरोपेतत्वात् [?] । पाहि न इत्यन्त्याष्टिः चतुःषष्ट्यक्षरोपेतत्वात् । प्र तद्वोचेयमिति षष्ठीन्दुदेवत्या । तथा चानुक्रमणिका । यं त्वमेकादश षष्ठैन्दवी प्रप्रा वोऽतिशक्वर्यावष्टिरन्त्येति । दशरात्रस्य षष्ठेऽहनि मरुत्वतीये शस्त्र एतत्सूक्तं षष्ठस्येति खण्डे सूत्रितम् । यं त्वं रथमिन्द्र स यो वृषा । आ. ८-१ [?] इति ॥
+
+> *yaṃ tvaṃ rathamityekādaśarcaṃ tṛtīyaṃ sūktaṃ pārucchepaṃ sarvamātyaṣṭamityuktatvādatyaṣṭicchandaskam [?] | anuktatvādaindram | praprā vo asme ityādike dve atiśakvaryau ṣaṣṭyakṣaropetatvāt [?] | pāhi na ityantyāṣṭiḥ catuḥṣaṣṭyakṣaropetatvāt | pra tadvoceyamiti ṣaṣṭhīndudevatyā | tathā cānukramaṇikā | yaṃ tvamekādaśa ṣaṣṭhaindavī praprā vo 'tiśakvaryāvaṣṭirantyeti | daśarātrasya ṣaṣṭhe 'hani marutvatīye śastra etatsūktaṃ ṣaṣṭhasyeti khaṇḍe sūtritam | yaṃ tvaṃ rathamindra sa yo vṛṣā | ā. 8-1 [?] iti ‖*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *yaṃ tvaṃ ratham* is the third Sūkta in the nineteenth Anuvāka. It has eleven ṛks. The ṛṣi of this Sūkta is Paruccheṣa; since it is said that all the Sūktas seen by this ṛṣi are in the Atyaṣṭi metre, this Sūkta too is in the Atyaṣṭi metre. Of the two ṛks that begin *pra prā vo asme* (the eighth and ninth ṛks) there are sixty syllables each [as read], and so they have the metre Atiśakvarī; the last ṛk *pāhi na indra* has sixty-four syllables, so its metre is Aṣṭi; the sixth ṛk, *pra tad voceyam*, has Indu (Soma) for deity; Indra is the deity of the remaining ṛks. In the Anukramaṇikā it is said: "*yaṃ tvam ekādaśa ṣaṣṭhaindavī prapra vo 'tiśakvaryāv aṣṭir antyā*". On the sixth day of the *daśarātra* sacrifice this Sūkta is used in the *marutvatīya śastra*, as stated in the Āśvalāyana Śrauta-sūtra in the section *ṣaṣṭhasya*: *yaṃ tvaṃ ratham indra sa yo vṛṣā* (Āś. 8-1 [?], as read "೮-೧-೧").
+
+---
+
+**Progress note:** Sūktas 127 and 128 complete (printed pp. 249–364). Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19, third Sūkta; printed pp. 364–416) begun: heading and the Sanskrit/Kannada introduction at the foot of p. 364 done; resume at head of p. 365 (PDF 386) with the Sūkta table (devatā/chandas/varga) and Ṛk 1. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357; OCR reference-number lines missing for pp. 249–364 (to add by regex script).
