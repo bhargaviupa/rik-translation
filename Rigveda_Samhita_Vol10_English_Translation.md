@@ -14209,4 +14209,52 @@ By the sentence *vakṣaṇābhyaḥ marutaḥ ajanayaḥ*, too, the above meani
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 592 (Special Topics: *vakṣaṇābhyaḥ* with Max Müller's note done; more entries and grammar follow); resume p. 593, PDF 614; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 593  (PDF 614)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+> प्र ये मे बन्ध्वेषे गां वोचन्त सूरयः पृश्निं वोचन्त मातरम् ।
+
+> *pra ye me bandhveṣe gāṃ vocanta sūrayaḥ pṛśniṃ vocanta mātaram |*
+
+(Ṛ. Saṃ. 5-52-16 [as read].) — in Ṛks such as this, the *dhenu* in the form of Pṛśni is said to be the mother of the Maruts; and as the origin of the Maruts is stated in the present Ṛk also, it is fitting, in this scholar's [Max Müller's] opinion, to show a connexion between the word *vakṣaṇābhyaḥ* and the word *dhenuḥ*.
+
+***vakṣaṇābhyaḥ*** — the word is repeated. The first, *pravahaṇaśīlābhya udabhyaḥ vṛṣṭilakṣaṇābhyaḥ* — "for the waters that flow, in the form of rain, [fit to flow]"; the second, *nadīnām aitat; tāsām arthāya* — "this is a name of rivers (Ni. 1-[?], as read "೧-೧೩" [?]); for their sake", the sense is "for the rivers".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly; numbers as printed).** *uṣāsaḥ* — long in the Saṃhitā by Vedic usage. *bhadrā* — root *bhadi kalyāṇe sukhe ca*; Uṇ. suffix *rak*; in the neuter plural *śeś chandasi bahulam* (Pā. 6-1-70 [as read]) gives *luk* of *śi*; in *vastrā* also the Uṇ. suffix *stran* comes and *śi* is dropped. *tanvate* — root *tanu vistāre*; *laṭ*, third person plural; as it follows a *tiṅanta*, *nighāta*. *daṃsu* — *daṃsa śabde*; locative plural, a *para* [?]; by Vedic usage the final is dropped. *navyeṣu* — root *ṇu stutau*; *aco yat* (Pā. 3-1-97 [as read]) gives *yat*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* to the final *i*-vowel of the root; *vānto yi pratyaye* (Pā. 6-1-79 [as read]) gives *av*; *yato nāvaḥ* (Pā. 6-1-213 [as read]) gives the ādyudātta; locative plural. *sabardughā* — root *duha prapūraṇe*; when *sabar* is the *upapada*, *duhaḥ kab ghaś ca* (Pā. 3-2-70 [as read]) gives the suffix *kap*; *gha* for the root; since the suffix is *pit*, it is *anudātta*, so the accent of the root remains; in the compound, *kṛduttarapadaprakṛtisvara*; in the feminine, *ṭāp* by *adantanibandhana*. *viśvā* — *śeś chandasi bahulam* drops *śi*. *dohate* — root *duha prapūraṇe*; used in the active-passive sense [*karmakartari*]; *karmavat karmaṇā tulyakriyaḥ* (Pā. 3-1-87 [as read]) gives Ātmanepada and so on; *na duhasnamām* [as read] (Pā. 3-1-89 [as read]) forbids *yak*; the suffix in the singular, *ta*, with *e*; by Vedic usage the *śap* is not *luk*-ed; *pugantalaghūpadhasya ca* (Pā. 7-3-86 [as read]) gives the *laghūpadha guṇa*; as it follows a *tiṅanta*, *nighāta*.
+
+### Printed p. 594  (PDF 615)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+*(Grammar, concluded.)* *ajanayaḥ* — root *janī prādurbhāve*; the *ṇic* appears, as the causal action is shown; *janīvṛṣaṃ…* [*jñaji-*] *…* (Pā. 6-4-[?]) gives the term *mit*; *mitāṃ hrasvaḥ* (Pā. 6-4-92 [as read]) shortens the penultimate; by Vedic usage *laṅ* in the sense of the present [*vartamāna*]; second person singular; as it is at the beginning of a pāda, the *nighāta* accent does not occur, the ādyudātta. *divaḥ* — *ūḍidaṃ padādi* (Pā. 6-1-171 [as read]) gives the udātta to the case-ending. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> तुभ्यं शुक्रासः शुचयस्तुरण्यवो मदेषूग्रा इषणन्त भुर्वण्यपामिषन्त भुर्वणि ।
+> त्वां त्सारी दसमानो भगमीट्टे तक्ष्ववीर्ये ।
+> त्वं विश्वस्माद्भुवनात्पासि धर्मणासुर्यात्पासि धर्मणा ॥ ५ ॥
+
+> *tubhyaṃ śukrāsaḥ śucayasturaṇyavo madeṣūgrā iṣaṇanta bhurvaṇyapāmiṣanta bhurvaṇi |*
+> *tvāṃ tsārī dasamāno bhagamīṭṭe takṣvavīrye |*
+> *tvaṃ viśvasmādbhuvanātpāsi dharmaṇāsuryātpāsi dharmaṇā ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> तुभ्यम् । शुक्रासः । शुचयः । तुरण्यवः । मदेषु । उग्राः । इषणन्त । भुर्वणि ।
+> अपाम् । इषन्त । भुर्वणि ।
+> त्वाम् । त्सारी । दसमानः । भगम् । ईट्टे । तक्ष्वऽवीर्ये ।
+> त्वम् । विश्वस्मात् । भुवनात् । पासि । धर्मणा । असुर्यात् । पासि । धर्मणा ॥ ५ ॥
+
+> *tubhyam | śukrāsaḥ | śucayaḥ | turaṇyavaḥ | madeṣu | ugrāḥ | iṣaṇanta | bhurvaṇi |*
+> *apām | iṣanta | bhurvaṇi |*
+> *tvām | tsārī | dasamānaḥ | bhagam | īṭṭe | takṣva 'vīrye |*
+> *tvam | viśvasmāt | bhuvanāt | pāsi | dharmaṇā | asuryāt | pāsi | dharmaṇā ‖ 5 ‖*
+
+*(Saṃhitā and Pada read from the image; "*tsārī*" and "*takṣvavīrye*" are as printed [?].)*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 begun: Saṃhitā and Pada written (p. 594); resume p. 595, PDF 616, with its bhāṣya; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
