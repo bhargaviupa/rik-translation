@@ -586,7 +586,7 @@ For example:
 
 ***atkaṃ vasānā*** — *rūpaṃ vasānā*: "wearing a form" — i.e. a lovely form; this word is used in many ṛks describing the Dawn (Ṛ. Saṃ. 6-29-3; 10-95-8 etc., as read, may be seen). *Sūryasya purogāminī raśmibhiḥ khalv eṣā jagad vāsayati* — Born before the Sun, with golden rays, she awakens and illumines the world — that is the sense.
 
-**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Patnīva* — *patyur no yajñasaṃyoge* (Pā. Sū. 4-1-33), the *nuk* augment and the suffix *ṅīp* in the feminine; accent by the *p* of the suffix. *Pūrvahūtim* — the root *hveñ spardhāyām* …, *striyāṃ ktin* (Pā. Sū. 3-3-94), *saṃprasāraṇa*, lengthening by *halaḥ* (Pā. Sū. 6-4-2); accusative singular. *Vavṛdhadhyai* — the root *vṛdhu vṛddhau*; the sense of the infinitive (*tumartha*) by *tumarthe sesenasen…* (Pā. Sū. 3-4-9), the suffix *kadhyai*; *āgamānuśāsanam anityam* — so the augment (*rīk* etc.) is not added to the reduplicative syllable; since the suffix begins with an acute, the *dhai* gets the acute; *kṛn mejantaḥ* (Pā. Sū. 1-1-39) — the indeclinable designation; *avyayād āp supaḥ* (Pā. Sū. 2-4-82) — *luk* of the case endings. *Uṣāsānaktā* — *uṣā ca naktaṃ ca*; *uṣasaḥ …*: *uṣasoṣasaḥ* (Pā. Sū. 6-3-31) — the substitute *uṣāsā* in the first member; *supāṃ sulug…* (Pā. Sū. 7-1-39 [?] as read; the OCR has "3-1-39") — the ending is replaced by *ā*; *devatādvandve ca* (Pā. Sū. 6-2-41) — both members keep their own accent. (Only the sūtra names and numbers legible in the print are given.)
+**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Patnīva* — *patyur no yajñasaṃyoge* (Pā. Sū. 4-1-33), the *nuk* augment and the suffix *ṅīp* in the feminine; accent by the *p* of the suffix. *Pūrvahūtim* — the root *hveñ spardhāyām* …, *striyāṃ ktin* (Pā. Sū. 3-3-94), *saṃprasāraṇa*, lengthening by *halaḥ* (Pā. Sū. 6-4-2); accusative singular. *Vavṛdhadhyai* — the root *vṛdhu vṛddhau*; the sense of the infinitive (*tumartha*) by *tumarthe sesenasen…* (Pā. Sū. 3-4-9), the suffix *kadhyai*; *āgamānuśāsanam anityam* — so the augment (*rīk* etc.) is not added to the reduplicative syllable; since the suffix begins with an acute, the *dhai* gets the acute; *kṛn mejantaḥ* (Pā. Sū. 1-1-39) — the indeclinable designation; *avyayād āp supaḥ* (Pā. Sū. 2-4-82) — *luk* of the case endings. *Uṣāsānaktā* — *uṣā ca naktaṃ ca*; *uṣasaḥ …*: *uṣasoṣasaḥ* (Pā. Sū. 6-3-31) — the substitute *uṣāsā* in the first member; *supāṃ sulug…* (Pā. Sū. 7-1-39; the OCR prints the same on pp. 20 and 27) — the ending is replaced by *ā*; *devatādvandve ca* (Pā. Sū. 6-2-41) — both members keep their own accent. (Only the sūtra names and numbers legible in the print are given.)
 
 ### Printed p. 15  (PDF 36)
 
@@ -817,4 +817,225 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 23 (PDF 44): Ṛks 1–4 translated; Ṛk 4 Special Topics in progress (Svanaya/Sindhu passage begins "ಇದೇ ಸೂಕ್ತದಲ್ಲಿ ಸಿಂಧೂ ನದಿಯ ದಡದಲ್ಲಿದ್ದ ಭಾವಯವ್ಯನ ಮಗನಾದ ಸ್ವನಯನು…" — continues on p. 24, PDF 45). Printed page = PDF − 21. Open: `[?]` on Ṛk-reference numerals where the OCR is garbled (pp. 17–20), Śa. Brā. four-part refs, and the poor-scan Sāyaṇa bhāṣya of Ṛk 4 (p. 22: several letters `[?]`).
+
+### Printed p. 24  (PDF 45)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* …praises him for having given [gifts]. The occasion for giving this gift, and the close relation between the two, are known from the story told in the Bṛhaddevatā:
+
+> आधिगम्य गुरोर्विद्यां गच्छन् स्वनिलयं किल ।
+> कक्षीवानध्वनि श्रान्तः सुष्वापारण्यगोचरः ॥
+> तं राजा स्वनयो नाम भावयव्यसुतो व्रजन् ।
+> क्रीडार्थं सानुगोऽपश्यत् सभार्यः सपुरोहितः ॥
+> अथैनं रूपसम्पन्नं दृष्ट्वा देवसुतोपमम् ।
+> कन्यादाने मतिं चक्रे वर्णगोत्राविरोधतः ॥
+> सम्बोध्यैनं स पप्रच्छ वर्णगोत्रादिकं ततः ।
+> राजन्नाङ्गिरसोऽस्मीति कुमारः प्रत्युवाच तम् ॥
+> पुत्रोऽहं दीर्घतमस औचथ्यस्य ऋषेर्नृप ।
+> अथास्मै स ददौ कन्या दशाभरणभूषिताः ॥
+> तावतश्च रथाञ्श्यावान् सैन्धवांश्चतुर्युजः [?] ।
+> वधूनां वाहनार्थाय धनकुप्यमजाविकम् ॥
+> निष्काणां वृषभाणां च शतं शतमुदात्पनः [?] ।
+> एतदुत्तरसूक्तेन शतमित्यादिनोदितम् ॥
+> शतमश्वाञ्छतं निष्कान् रथान् दश वधूमतः ।
+> चतुर्युजो गवां चैव सहस्रं षष्ट्यधिकम् ॥
+> स्वनयाद्भावयव्याद्यः कक्षीवान् प्रत्यपद्यत ।
+> प्रतिगृह्य च तुष्टाव प्रातः पित्रे शशंस च ॥
+
+> *ādhigamya gurorvidyāṃ gacchan svanilayaṃ kila |*
+> *kakṣīvānadhvani śrāntaḥ suṣvāpāraṇyagocaraḥ ‖*
+> *taṃ rājā svanayo nāma bhāvayavyasuto vrajan |*
+> *krīḍārthaṃ sānugo 'paśyat sabhāryaḥ sapurohitaḥ ‖*
+> *athainaṃ rūpasampannaṃ dṛṣṭvā devasutopamam |*
+> *kanyādāne matiṃ cakre varṇagotrāvirodhataḥ ‖*
+> *sambodhyainaṃ sa papraccha varṇagotrādikaṃ tataḥ |*
+> *rājannāṅgiraso 'smīti kumāraḥ pratyuvāca tam ‖*
+> *putro 'haṃ dīrghatamasa aucathyasya ṛṣernṛpa |*
+> *athāsmai sa dadau kanyā daśābharaṇabhūṣitāḥ ‖*
+> *tāvataśca rathāñśyāvān saindhavāṃścaturyujaḥ [?] |*
+> *vadhūnāṃ vāhanārthāya dhanakupyamajāvikam ‖*
+> *niṣkāṇāṃ vṛṣabhāṇāṃ ca śataṃ śatamudātpanaḥ [?] |*
+> *etaduttarasūktena śatamityādinoditam ‖*
+> *śatamaśvāñchataṃ niṣkān rathān daśa vadhūmataḥ |*
+> *caturyujo gavāṃ caiva sahasraṃ ṣaṣṭyadhikam ‖*
+> *svanayādbhāvayavyādyaḥ kakṣīvān pratyapadyata |*
+> *pratigṛhya ca tuṣṭāva prātaḥ pitre śaśaṃsa ca ‖*
+
+(Bṛ. De. 4-2[?] to 4-[?], as printed in small type: the digits are not reliably read; the verses were read from the bold type.) After finishing his studies in the guru's house, when Kakṣīvān was returning to his own home he became tired on the road and lay down in a forest and fell asleep. Then the king named Svanaya, son of Bhāvayavya, came there for sport with his wife, servants and the rest of his retinue, and saw him. Seeing his beauty he was pleased, and thinking that if there were nothing against it from the point of view of *varṇa* and *gotra* he would give him a daughter in marriage and have the wedding performed, he woke him and asked about his family and so on. Then Kakṣīvān said that he was of the line of Aṅgiras, a son of Dīrghatamas who was the son of Ucathya; and at once Svanaya gave him ten adorned maidens, and with them horses, chariots, wealth, and goats, sheep and other possessions in abundance. About this matter —
+
+### Printed p. 25  (PDF 46)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)*
+
+> अमन्दान्त्स्तोमान्प्र भरे मनीषा सिन्धावधि क्षियतो भाव्यस्य ।
+> यो मे सहस्रममिमीत सवानतूर्तो राजा श्रव इच्छमानः ॥
+> शतं राज्ञो नाधमानस्य निष्कान् शतमश्वान् प्रयतान्त्सद्य आदम् ।
+> शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवोऽजरसा ततान ॥
+
+> *amandāntstomānpra bhare manīṣā sindhāvadhi kṣiyato bhāvyasya |*
+> *yo me sahasramamimīta savānatūrto rājā śrava icchamānaḥ ‖*
+> *śataṃ rājño nādhamānasya niṣkān śatamaśvān prayatāntsadya ādam |*
+> *śataṃ kakṣīvā~ asurasya gonāṃ divi śravo 'jarasā tatāna ‖*
+
+(Ṛ. Saṃ. 1-126-1 and 2, as printed — the OCR gives "1-126-1 and 2"; I had at first read the second number as 3.) — this is told in the ṛks. In the Ṛksaṃhitā and in the Brāhmaṇas and the like he is praised as a learned (*prājña*) and venerable seer.
+
+> अहं मनुरभवं सूर्यश्चाहं कक्षीवाँ ऋषिरस्मि विप्रः ।
+
+> *ahaṃ manurabhavaṃ sūryaścāhaṃ kakṣīvā~ ṛṣirasmi vipraḥ |*
+
+(Ṛ. Saṃ. 4-26-1, as printed.)
+
+> अयं कक्षीवतो महो वि वो मदे मतिं विप्रस्य वर्धयद्विवक्षसे ॥
+
+> *ayaṃ kakṣīvato maho vi vo made matiṃ viprasya vardhayadvivakṣase ‖*
+
+(Ṛ. Saṃ. 10-25-10, as printed.) And in ṛks such as these, and then:
+
+> एताभिर्ह श्विनोः कक्षीवान् प्रियं धामोपागच्छत्स्व [?] परमं लोकमजयत् ।
+
+> *etābhirha śvinoḥ kakṣīvān priyaṃ dhāmopāgacchatsva [?] paramaṃ lokamajayat |*
+
+(Ai. Brā. 1-31 [?], as printed in small type, doubtful.) "Reciting the ṛks Ṛ. Saṃ. 1-120-1 to 9 [?], Kakṣīvān went to the abode of the Aśvin deities, and, graced by them, reached an even better world" — in the Aitareya Brāhmaṇa; and in the Śatapatha Brāhmaṇa also:
+
+> कक्षीवन्तं य औशिजः । यो देवान्योऽमीवहा । वसुवित्पुष्टिवर्धनः । स नः सिषक्तु यस्तुरः ॥
+
+> *kakṣīvantaṃ ya auśijaḥ | yo devānyo 'mīvahā | vasuvitpuṣṭivardhanaḥ | sa naḥ siṣaktu yasturaḥ ‖*
+
+(Śa. Brā. 2-3-4-35, as printed; the OCR gives the same.) "Let Kakṣīvān, the son of Uśij, who is full of nourishment, a destroyer of enemies, a giver of wealth, an increaser of prosperity, be with us" — in the Śatapatha Brāhmaṇa sentences also Kakṣīvān is praised as an excellent person.
+
+> याभिः शन्तुरभवद्विचक्षणा [?] स्वरूषु ऊतिभिरश्विना गतम् ।
+
+> *yābhiḥ śanturabhavadvicakṣaṇā [?] svarūṣu ūtibhiraśvinā gatam |*
+
+(Ṛ. Saṃ. 1-112-1[?]-[?], as read, doubtful.) In this ṛk it is said that Kakṣīvān had obtained complete knowledge about the Pāka-yajña, the Havir-yajña and the Soma-yajña. Because he was extremely dull at first, he performed a sacrifice for the Aśvin deities with the great wish that he must somehow, by effort, acquire unsurpassed knowledge of all the affairs of the past, future and present; and after it they, being pleased, graciously gave him knowledge relating to the three times and to all matters — this is the story.
+
+### Printed p. 26  (PDF 47)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+> युवं नरा स्तुवते पज्रियाय कक्षीवते अरदतं पुरन्धिम् ।
+
+> *yuvaṃ narā stuvate pajriyāya kakṣīvate aradataṃ purandhim |*
+
+(Ṛ. Saṃ. 1-116-7, as printed.) In this ṛk too he has indicated this story of Kakṣīvān. By the epithets *trimantuḥ* and *vicakṣaṇaḥ* it is known that Kakṣīvān knew all matters and was a wise man.
+
+***apāṃ napātam*** — *apāṃ udakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vāgnim | adbhya oṣadhivanaspatayaḥ tābhyo 'gnir ity apāṃ naptṛtvam agneḥ* — "the grandson (*napāt*) of the waters: [Agni] who causes the waters to fall, or who is their grandson — from the waters the plants and trees are born, and from them Agni; hence the waters' grandson." Sāyaṇa explains that the name *apāṃ napāt* is well known for Agni.
+
+The word *napāt* has the senses "son" and "grandson". In both senses it is used. But the Nirukta writer says: *napād ity anantarāyāḥ prajāyā nāmadheyam* ("*napāt* is the name of the next generation of offspring") — and that "it is not directly a son, but one of the grandson-type and the like, that is the sense of this word" (Ni. 8-5, as printed; the OCR reads the same), and in giving the derivation of the word *tanūnapāt*: *āpaḥ atra tanna ucyante | tathāntarikṣe tābhyaḥ oṣadhivanaspatayo jāyante oṣadhivanaspatibhyaḥ eṣa jāyate* ("the waters are called *tan*; likewise in the sky; from them are born the plants and trees; from the plants and trees he is born" — the reading of this passage is only partly sure `[?]`), and then he says that it is the "grandson of the waters" and, according to the view of Śākapūṇi, a synonym of Agni.
+
+> आनन्तरां प्रजामाहुर्नपादिति कृपण्यवः ।
+> नपादमुष्य चैवायमग्निस्तेन तनूनपात् ॥
+
+> *ānantarāṃ prajāmāhurnapāditi kṛpaṇyavaḥ |*
+> *napādamuṣya caivāyamagnistena tanūnapāt ‖*
+
+(Bṛ. De., the number is left blank in the print.) Thus also in the Bṛhaddevatā the same view is followed. Here whether *apāṃ napāt* is a synonym of Agni or the name of some other deity is to be known from the words of the Nirukta writer, "*agnir iti śākapūṇiḥ*" ("Agni, [says] Śākapūṇi"). Whether it is the epithet of Agni himself or whether there is another deity with this name — on this matter, some modern scholars' opinions, based on the Ṛksaṃhitā sentences, are discussed in the special topics of the ṛk Ṛ. Saṃ. 1-1[?]-1[?] (the number is not legible to me `[?]`).
+
+***rāspinasya*** — *rāspino rāspī rapater vā rasater vā* (Ni. 6-21, as printed; the OCR agrees). By the derivation given by the Nirukta writer, this word is formed from the root *raṣ* or *ras* and means "one who praises, the sacrificer". At the time of praise he is with the sacrificer, who holds the *camasa* cup, because an auspicious (praise-)sound arises, as a result of which it [the sound] —
+
+> मातुष्पदे परमे शुक्र आयोर्विपन्यवो रास्पिरासो अग्मन् ।
+
+> *mātuṣpade parame śukra āyorvipanyavo rāspirāso agman |*
+
+(Ṛ. Saṃ. 3-5[?]-1[?], as read.) In this ṛk *rāspirāsaḥ* is said.
+
+### Printed p. 27  (PDF 48)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 4, noted briefly).** *Tyā* — the pronoun *tyad* (the word equal in sense to *tad*); when the dual ending *au* follows, the *ā*-substitution for it by *supāṃ sulug…* (Pā. Sū. 7-1-39 as I read; the OCR reads 6-1-36 here); in *yaśasā* also the *ā*-substitution is the same. *Śvetanāyai* — by the statement *supāṃ suluk…* the dative is used in the sense of the genitive. *Vyantā* — the root *vī gativyāptiprajanakāntyasanakhādaneṣu*, of the *adādi* class; the suffix *śatṛ* in the sense of the present; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) the *luk* of *śap*; since *sārvadhātukam apit* (Pā. Sū. 1-2-4) the suffix is *ṅit*-like, no guṇa; *yaṇ* substitution; the form *vyat*; with the dual (ending) following, by *supāṃ sulug…* (Pā. Sū. 7-1-39; the OCR prints 6-1-36) the *ā* in its place; since it is *ugit*, the augment *num*, the anusvāra and the *paravarṇa*; by the suffix's first-acute accent. *Pāntā* — the root *pā pāne*; the suffix *śatṛ* in the sense of the present; when the vikaraṇa *śap* comes, *bahulaṃ chandasi* its *luk*; the word *pāt*; since *śap* has been dropped, there is no substitute *piba*; the dual *ā* as before. *Auśijaḥ* — *uśija apatyaṃ pumān auśijaḥ*; by *tasyāpatyam* (Pā. Sū. 4-1-92) the suffix *aṇ* in the sense of "descendant"; since it is *ṇit*, *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117 as read; the OCR prints 7-2-112) *vṛddhi* of the first vowel; the final udātta by the suffix accent. *Huvadhyai* — the root *hvañ spardhāyāṃ śabde ca*; with the infinitive sense by *tumarthe sesenasen…* (Pā. Sū. 3-4-9) the suffix *śadhyai*; by *bahulaṃ chandasi* *saṃprasāraṇa* of the root; *pūrvarūpa*; and because of the suffix, by *aci śnudhātubhruvām…* the *uvaṅ* substitute; by the suffix's initial acute the word is *madhyodātta*; since it ends in *e-ñ*, *kṛn mejantaḥ* (Pā. Sū. 1-1-39) it gets the indeclinable name. *Napātam* — *na pāt napāt*; *pāt* is a *śatṛ*-ending; in the negative compound, *nabhrāṇ napāt…* (Pā. Sū. 6-3-75): the *n* is not elided, as an irregular form; by *tatpuruṣe tulyārthā…* (Pā. Sū. 6-2-2) the accent of the first member in an indeclinable-prefixed compound; accusative singular. *Apām* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. (Only the sūtra names and numbers legible in the print are given.)
+
+### Printed p. 28  (PDF 49)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 4, noted briefly).** *Kṛṇudhvam* — the root *kṛvi hiṃsākaraṇayośca*; since it is *idit*, the *num* augment; by *dhinvikṛṇvyor a ca* (Pā. Sū. 3-1-80) the *a* substitute and the suffix *u*; by *ato lopaḥ* the loss of the *a*; *loṭ*, 2nd plural middle, the suffix *dhvam*; by *savābhyāṃ vāmau* the substitute *am* (in place of the *ṭi*-portion, as printed); after an *atiṅanta* the *nighāta* accent. *Mātarā* — *supāṃ sulug…*: the ending replaced by *ā*. *Rāspinasya* — the root *rap vyaktāyāṃ vāci* or *ras śabde*; when the suffix *phiñ* comes, the augments *s* and *p* come in order in the Vedic way; the form *rāspa* ("praise"); when the sense "he has *rāspa*" is intended, the suffix *ini* by *ata ini-ṭhanau*; *rāspi* means praise; when the sense "he has *rāspi*" is intended, in the possessive sense the suffix *aṇ*; the form *rāspina*; final udātta by the suffix accent. ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आ वो रुवण्युमौशिजो हुवध्यै घोषेव शंसमर्जुनस्य नंशे ।
+> प्र वः पूष्णे दावन आ अच्छा वोचेय वसुतातिमग्नेः ॥ ५ ॥
+
+> *ā vo ruvaṇyumauśijo huvadhyai ghoṣeva śaṃsamarjunasya naṃśe |*
+> *pra vaḥ pūṣṇe dāvana ā acchā voceya vasutātimagneḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । वः । रुवण्युम् । औशिजः । हुवध्यै । घोषाऽइव । शंसम् । अर्जुनस्य । नंशे ।
+> प्र । वः । पूष्णे । दावने । आ । अच्छ । वोचेय । वसुऽतातिम् । अग्नेः ॥ ५ ॥
+
+> *ā | vaḥ | ruvaṇyum | auśijaḥ | huvadhyai | ghoṣā 'iva | śaṃsam | arjunasya | naṃśe |*
+> *pra | vaḥ | pūṣṇe | dāvane | ā | accha | voceya | vasu 'tātim | agneḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देवा औशिजः कक्षीवानहं वो युष्माकं सम्बन्धिनं रुवण्युं रवणीयं शब्दनीयं शंसं स्तोत्रमा हुवध्यै युष्मदाह्वानाय [?] अच्छा वोचेय । अभिमुख्येन ब्रवीमि । यद्वा । अत्राश्विनावुच्येते । तस्मिन्पक्षे बहुवचनं पूजार्थम् । हे अश्विनौ वो युष्मान् घोषेत्येन्नामिका [?] ब्रह्मवादिनीव । सा यथार्जुनस्य श्वेतवर्णस्य स्वशरीरगतकुष्ठरोगस्य नंशे नाशनाय यथाश्विनोः शंसमकार्षीत् तद्वदहमपीत्यर्थः । हे देवाः युष्मत्सम्बन्धिने दावने आ अभिमुख्येन फलस्य दात्रे पूष्णे पोषकायैतन्नामकाय देवायापि ॥ आकारस्य … छन्दसीति प्रकृतिभावः [?] ॥ अच्छाभिमुख्यगमनेन वोचेय । स्तौमि । वचे परिभाषणे । लिङ्याशिष्यङ् । वच उम् ॥ किञ्चाग्नेर्वसुतातिं तत्सम्बन्धि धनमपि वोचेय । स्तौमि तमेवाग्निम् ॥
+
+> *he devā auśijaḥ kakṣīvānahaṃ vo yuṣmākaṃ sambandhinaṃ ruvaṇyuṃ ravaṇīyaṃ śabdanīyaṃ śaṃsaṃ stotramā huvadhyai yuṣmadāhvānāya [?] acchā voceya | abhimukhyena bravīmi | yadvā | atrāśvināvucyete | tasminpakṣe bahuvacanaṃ pūjārtham | he aśvinau vo yuṣmān ghoṣetyennāmikā [?] brahmavādinīva | sā yathārjunasya śvetavarṇasya svaśarīragatakuṣṭharogasya naṃśe nāśanāya yathāśvinoḥ śaṃsamakārṣīt tadvadahamapītyarthaḥ | he devāḥ yuṣmatsambandhine dāvane ā abhimukhyena phalasya dātre pūṣṇe poṣakāyaitannāmakāya devāyāpi ‖ ākārasya … chandasīti prakṛtibhāvaḥ [?] ‖ acchābhimukhyagamanena voceya | staumi | vace paribhāṣaṇe | liṅyāśiṣyaṅ | vaca um ‖ kiñcāgnervasutātiṃ tatsambandhi dhanamapi voceya | staumi tamevāgnim ‖*
+
+*(Part of the passage is read from small type; the grammatical remarks after "*pūṣṇe … devāya*" are only characterised.)* "O gods, I, Kakṣīvān the Auśija, that I may call (*huvadhyai*) your pleasing (*ruvaṇyum*: *ravaṇīyam*, 'to be sounded') praise (*śaṃsam*), shall address it to you (*accha vocheya*, 'I speak towards you'). Or else, here the Aśvins are spoken to; in that case the plural is out of respect. O Aśvins, you — as *Ghoṣā*, as it were a woman who knew the Veda (*brahmavādinī*), praised the Aśvins in order to destroy (*naṃśe*) the white skin-disease (*arjuna*) in her own body, so do I too." Also: to your giver (*dāvane*), the one who gives fruit, to Pūṣan, the nourisher, the god of this name also …; *vocheya* — "I would praise"; *vaca* *paribhāṣaṇe* … Further, the wealth connected with Agni (*vasutāti*) too I would praise; I praise that same Agni.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** (*devāḥ* — O Aśvin deities,) *auśijaḥ* — I, Kakṣīvān; *vaḥ* — your; *ruvaṇyum* — which is to be sounded; *śaṃsam* — the praise; *ā huvadhyai* — for your invocation; *accha ā voceya* — (addressing [you]) I say; *ghoṣā* — the woman called Ghoṣā; *arjunasya* — of the white (skin-disease); *naṃśe iva* — for the removal; *iva* — just as she praised, [so] (I too praise); (*he devāḥ* — O gods); *vaḥ* — to you; *dāvane* — the giver of fruits; *pūṣṇe* — to the god named Pūṣan too; (*voceya* — I praise); *agneḥ* — of Agni; *vasutātim* — the wealth-giving nature also; (*voceya* — I praise).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** (O Aśvin deities,) I, Kakṣīvān, offer you praise with a pleasing sound, to call you — as the woman named Ghoṣā praised [you] to remove (her) white disease (the skin disease), I shall utter [praise]; O gods, I also praise Pūṣan, the one who gives fruit; likewise I praise the wealth-giving nature of Agni.
+
+### Printed p. 29  (PDF 50)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* *(The bhāṣya of Ṛk 5 ends at the top of this page with its grammatical tail: "…phalasya dātre pūṣṇe poṣakāyaitannāmakāya devāyāpi ‖ ākārasya … chandasīti prakṛtibhāvaḥ ‖ acchābhimukhyagamanena voceya | staumi | vace paribhāṣaṇe | liṅyāśiṣyaṅ | vaca um | kiñcāgner vasutātiṃ tatsambandhi dhanam api voceya | staumi tam evāgnim ‖" — as transcribed above.)*
+
+**Printed English (as printed):** *I, the son of Usij [sic], address to you (Ashwins) audible praises, in like mauner [sic] as Ghosha praised you for the removal of her white-tinted (skin); I glorify (gods) the bauntiful [sic] Pushan (associated) with you, and I proclaim the munificnce [sic] of Agni.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
+
+***ghoṣā*** — She is known as the daughter of Kakṣīvān, and as the seer of the Sūktas 39–40 [?] of the tenth Maṇḍala (as printed "೧೦-೩೯, ೪೦" in the OCR; here "the Sūktas 3?–40 of the tenth Maṇḍala"), and also as their composer [*nirmātrī*]. To cure the skin disease of her own, she prayed to the Aśvin deities, got their help, and, as is suggested here, this Sūkta's seer also, in the same way, begs for their grace by praising those deities. The occasion on which the woman Ghoṣā obtained help from the Aśvin deities is told in this way in the Bṛhaddevatā:
+
+### Printed p. 30  (PDF 51)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+> आसीत्काक्षीवती घोषा पापरोगेण दुर्भगा ।
+> उवास षष्टिं वर्षाणि पितुरेव गृहे पुरा ॥
+> अतस्थी [?] महतीं चिन्तां न पुत्रो न पतिर्मम ।
+> जरां प्राप्स्या [?] मुधा तस्मात्प्रपद्येऽहं शुभस्पती ॥
+> यथैतौ मामकस्त्रात [?] आराध्यावाप यौवनम् ।
+> आयुरारोग्यमैश्वर्यं सर्वभूतहने विषम् ॥
+> रूपवत्त्वं च सौभाग्यमहं तस्य सुता यदि ।
+> ममापि मन्त्राः प्रादुःस्युर्यैस्तोष्येते मयाश्विनौ ॥
+> चिन्तयन्तीति सूक्ते द्वे यो वां परि ददर्श सा ।
+> स्तुतौ तावश्विनौ देवौ प्रीतौ तस्या भगान्तरम् ॥
+> प्रविश्य विजरारोगां सुभगां चक्रतुश्च तौ ।
+> भर्तारं ददतुस्तस्यै सुहस्त्यं च सुतं मुनिम् ॥
+> ददतुस्तत्सपर्णाभ्यां [?] यन्नासत्येति कीर्त्यते ।
+> काक्षीवत्यै च घोषायै न तस्यामाजुरोऽनया ॥
+
+> *āsītkākṣīvatī ghoṣā pāparogeṇa durbhagā |*
+> *uvāsa ṣaṣṭiṃ varṣāṇi pitureva gṛhe purā ‖*
+> *atasthī [?] mahatīṃ cintāṃ na putro na patirmama |*
+> *jarāṃ prāpsyā [?] mudhā tasmātprapadye 'haṃ śubhaspatī ‖*
+> *yathaitau māmakastrāta [?] ārādhyāvāpa yauvanam |*
+> *āyurārogyamaiśvaryaṃ sarvabhūtahane viṣam ‖*
+> *rūpavattvaṃ ca saubhāgyamahaṃ tasya sutā yadi |*
+> *mamāpi mantrāḥ prāduḥsyuryaistoṣyete mayāśvinau ‖*
+> *cintayantīti sūkte dve yo vāṃ pari dadarśa sā |*
+> *stutau tāvaśvinau devau prītau tasyā bhagāntaram ‖*
+> *praviśya vijarārogāṃ subhagāṃ cakratuśca tau |*
+> *bhartāraṃ dadatustasyai suhastyaṃ ca sutaṃ munim ‖*
+> *dadatustatsaparṇābhyāṃ [?] yannāsatyeti kīrtyate |*
+> *kākṣīvatyai ca ghoṣāyai na tasyāmājuro 'nayā ‖*
+
+(Bṛ. De. 7-42 to 48, as printed; the OCR gives the same.) *(The verses are read from the bold type at 300 dpi; the third, fourth, fifth and thirteenth lines contain letters I could not settle and are marked `[?]`; the translation below follows the Kannada account that comes after them.)*
+
+Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disease. For that reason she had to remain in her father's house even until her sixtieth year. Then, finding herself without husband and sons, and filled with despair about her life, she wished to know which deities her father worshipped to win his youth; she decided to worship those same Aśvin deities, who are *Śubhaspatī*, and to learn the rules to be followed in worship and the tantras. While she was in that meditation she was granted a vision of two Sūktas beginning with the sentence *yo vāṃ parijmā* (10-39, 40, as printed `[OCR: "೧೦-೩೯,೪೦"]`). She recited them and praised the Aśvin deities; they made her free of disease, beautiful, and gave her a husband and a son named Suhastya — this story is indicated here. That her illness was "Arjuna" is known from the description in this ṛk. Ordinarily the word *ārjuna* has the sense of "whiteness (radiance)".
+
+> वयश्चित्ते पतत्रिणो द्विपच्चतुष्पदर्जुनि ।
+
+> *vayaścitte patatriṇo dvipaccatuṣpadarjuni |*
+
+(Ṛ. Saṃ. 5-?[?]-? [?], as read; the reader's OCR has "5-25-4", which I cannot confirm.)
+
+> अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
+
+> *ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ |*
+
+(Ṛ. Saṃ. 6-9-1, as printed.)
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 30 (PDF 51): Ṛks 1–5 translated (first 30-page batch complete). Ṛk 5 Special Topics in progress — *ghoṣā* paragraph with the Bṛhaddevatā verses (7-42 to 48) done; the passage on *ārjuna* ("ಸಾಧಾರಣವಾಗಿ ಆರ್ಜುನ ಶಬ್ದಕ್ಕೆ…") continues on p. 31 (PDF 52) after the ṛk "ahaś ca kṛṣṇam ahar arjunaṃ ca" (6-9-1). Printed page = PDF − 21. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664. Open: `[?]` on Ṛk-reference numerals where the OCR is garbled (pp. 7–9, 13, 17–20, 25, 30), Śa. Brā. four-part refs, poor-scan bhāṣya of Ṛk 4 (p. 22), Pīṭhike ṛk-lists (pp. i, viii); the digit-glyph tool was not used for these pages (it is still a prototype).
