@@ -9996,4 +9996,80 @@ For the second *manma*: *teṣām eva karma hananādirūpam* — "the work of su
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 393 (PDF 414): Ṛks 1–5 complete; Ṛk 6 (Indu/Soma) Saṃhitā…English and Special Topics written to the end of p. 393 (the *aghaśaṃsaḥ* entry is complete); resume p. 394 (PDF 415) with any remaining Ṛk 6 Special Topics and the grammar, then Ṛk 7. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385) and Ṛk 6 (pp. 390–393 Nirukta/Durga passages); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 394  (PDF 415)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+(Continuing from p. 393:) …"as water goes little by little and perishes, so the thief too": so he explains. The word *aghaśaṃsa* is recorded among the fourteen names of thief — *tṛpuḥ*, *takvā* and so on (Ni. 3-[?]; as read "೩-೧೯"). And —
+
+> इन्द्रासोमा समघशंसमभ्यघं तपुर्ययस्तु चरुरग्निवाँ इव ।
+> ब्रह्मद्विषे क्रव्यादे घोरचक्षसे द्वेषो धत्तमनवायं किमीदिने ॥
+
+> *indrāsomā samaghaśaṃsam abhy aghaṃ tapur yayastu carur agnivām̐ iva |*
+> *brahmadviṣe kravyāde ghoracakṣase dveṣo dhattam anavāyaṃ kimīdine ‖*
+
+(Ṛ. Saṃ. 7-104-2, as read "೭-೧೦೪-೨".) Citing this Ṛk, Yāska explains the words *aghaśaṃsam abhy agham* as "*aghasya śaṃsitāram, agham hanter nirhasitopasarga āhantīti*"; Durgācārya says: *aghasya śaṃsitāram* — one who praises sins; *abhy agham* — one who uses his lifetime for doing sins alone.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *voceyam* — root *vaca paribhāṣaṇe*; *liṅ* first person singular; *mip* gets *am* by *tasthasthamipāṃ tāṃtaṃtāmaḥ* [as read: Pā. 3-4-101]; the augment *yāsuṭ*; *liṅy āśiṣy aṅ* (Pā. 3-1-86) gives *aṅ*, with which following *vacaḥ um* (Pā. 7-4-20 [?]) gives the augment *um* to the root; *āyeyaḥ* [as read: *ato yeyaḥ*, Pā. 7-2-80] gives *iya* for *yāsuṭ*; when *um* follows, guṇa; *tiṅ-nighāta* since it follows a finite verb. *bhavyāya* — root *bhū sattāyām*; *bhavyageyapravacanīya…* (Pā. 3-4-68) gives the form with *yat*, irregular; *yato nāvaḥ* (Pā. 6-1-213) gives the acute on the first syllable. *indave* — root *undī kledane*; *undeḥ icca ādeḥ* (Uṇ. 1-[?]) gives *u* → *i* and the suffix *un*; *undati kledayati iti induḥ*; since *n*-marked the acute on the first syllable. *rejati* — root *reja gatau*; *rejati dabhrotīti* (Ni. 2-14 [?]) is among the verbs of motion; *laṭ* third person singular; because of the connection with *yad* no *nighāta*; since *śap* and *tip* are unaccented the root's accent remains. *rakṣohā* — root *han hiṃsāgatyoḥ*; *rakṣasāṃ hantā rakṣohā*; *kvip ca* gives *kvip*; nominative singular; *kṛd-uttarapadaprakṛtisvara*. *asmat* — *supāṃ sulug* drops the ending.
+
+### Printed p. 395  (PDF 416)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+*(Grammar, concluded.)* *nidaḥ* — root *ṇidi kutsāyām*; *ṇo naḥ* (Pā. 6-1-65) gives *n*; *kvip*; *sāvekācas tṛtīyādiḥ* gives the acute to the ending. *vadhraiḥ* — root *han hiṃsāgatyoḥ*; *hanaś ca vadhaḥ* (Pā. 3-3-76) gives the suffix *ap* in the abstract sense with the substitute *vadha* for the root; the suffix *ima* [as printed], acute on the last syllable; instrumental plural. *ajeta* — root *aja gatikṣepaṇayoḥ*; the ātmanepada by *vyatyaya*; *liṅ* third person singular; *nighāta* since it follows a finite verb. *sravet* — root *sru prasravaṇe*; *liṅ* third person singular; *tiṅ-nighāta*. *aghaśaṃsaḥ* — *aghe pāpe śaṃsaḥ manasi abhilāṣaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member. *kṣudram* — root *kṣudir saṃpeṣaṇe*; *sthāyitañcivañci…* (Uṇ. 2-[?]) gives *rak*; since *k*-marked no guṇa; acute on the last syllable by the suffix. ‖ 6 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> वनेम तद्धोत्रया चितन्त्या वनेम रयिं रयिवः सुवीर्यं रण्वं सन्तं सुवीर्यम् ।
+> दुर्मन्मानं सुमन्तुभिरेमिषा पृचीमहि ।
+> आ सत्याभिरिन्द्रं द्युम्नहूतिभिर्यजत्रं द्युम्नहूतिभिः ॥ ७ ॥
+
+> *vanema taddhotrayā citantyā vanema rayiṃ rayivaḥ suvīryaṃ raṇvaṃ santaṃ suvīryam |*
+> *durmanmānaṃ sumantubhiremiṣā pṛcīmahi |*
+> *ā satyābhirindraṃ dyumnahūtibhiryajatraṃ dyumnahūtibhiḥ ‖ 7 ‖*
+
+### Printed p. 396  (PDF 417)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+**॥ पदपाठः ॥**
+
+> वनेम । तत् । होत्रया । चितन्त्या । वनेम । रयिम् । रयिऽवः । सुऽवीर्यम् । रण्वम् । सन्तम् । सुऽवीर्यम् ।
+> दुःऽमन्मानम् । सुमन्तुऽभिः । आ । ईम् । इषा । पृचीमहि ।
+> आ । सत्याभिः । इन्द्रम् । द्युम्नऽहूतिऽभिः । यजत्रम् । द्युम्नऽहूतिऽभिः ॥ ७ ॥
+
+> *vanema | tat | hotrayā | citantyā | vanema | rayim | rayi 'vaḥ | su 'vīryam | raṇvam | santam | su 'vīryam |*
+> *duḥ 'manmānam | sumantu 'bhiḥ | ā | īm | iṣā | pṛcīmahi |*
+> *ā | satyābhiḥ | indram | dyumna 'hūti 'bhiḥ | yajatram | dyumna 'hūti 'bhiḥ ‖ 7 ‖*
+
+*(Read from the image: *citantyā*, *sumantu-bhiḥ*, *ā īm iṣā*, *dyumna-hūti-bhiḥ*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र वयं यजमानास्त्वत्प्रशंसकं स्तुत्यं तव रूपं यद्वा तत्ते वयं चितन्त्या तव गुणान् ज्ञापयन्त्या ॥ चिती संज्ञाने । अस्माण्यन्ताच्छतरि व्यत्ययेन शः ॥ होत्रया होमसाधनभूतया स्तुतिरूपया वाचा वनेम । सम्भजेम । यद्वा । शब्दयेम । स्तुतिं करवामेत्यर्थः । होत्रेति वाङ्नाम होत्रा गीरिति तन्नामसु पाठात् । किंचैवं स्तोतारो वयमपि हे रयिवो विशिष्टधनवन्निन्द्र रयिं धनं वनेम । सम्भजेम । कीदृशं रयिम् । सुवीर्यं शोभनसामर्थ्योपेतं रण्वं रमणीयं गन्तव्यं वार्थिभिः सन्तं सर्वदा वर्तमानं यज्ञादिद्वारा बहुशो दीयमानमपि प्रवर्धमानम् । पुनस्तदेव विशेष्यते । सुवीर्यं शोभनपुत्रभृत्याद्युपेतं धनेन तेषां सम्पादयितुं शक्यत्वात् । वीरवीर्ये चेत्युत्तरपदाद्युदात्तत्वम् ॥ किंच हे इन्द्र दुर्मन्मानं दुःखेन मन्तुं शक्यं त्वां तव महिम्नोऽतिमहत्त्वात् सुमन्तुभिः शोभनैर्मननैः स्तुतिसाधनैः स्तोत्रैरिषा हविरूपेणान्नेन च पृचीमहि । सर्वतः सम्पृक्ता भूयास्म । यद्वा । इषान्नेन निमित्तेन । पूर्वं धनस्य प्रार्थितत्वादिदानीमन्नं प्रार्थ्यते । पृची सम्पर्के । लिङि छान्दसो विकरणस्य लुक् ॥ किंच यजत्रं यागनिष्पादकमिन्द्रं सत्याभिरविसंवादिनीभिर्यथाभिलाषमुपजायमानफलाभिर्द्युम्नहूतिभिः । हरिव आगच्छ मेधातिथेर्मेषेत्याह्वानैरित्यर्थः । पुनस्ता एव विशेष्यन्ते । द्युम्नहूतिभिर्हविर्लक्षणान्ननिमित्तैराह्वानैरा पृचीमहीति शेषः । द्युम्नं द्योततेर्यशो वान्नं वा । नि. ५-५ [?] इति यास्कः ॥
+
+> *he indra vayaṃ yajamānāstvatpraśaṃsakaṃ stutyaṃ tava rūpaṃ yadvā tatte vayaṃ citantyā tava guṇān jñāpayantyā ‖ citī saṃjñāne | asmāṇyantācchatari vyatyayena śaḥ ‖ hotrayā homasādhanabhūtayā stutirūpayā vācā vanema | sambhajema | yadvā | śabdayema | stutiṃ karavāmetyarthaḥ | hotreti vāṅnāma hotrā gīriti tannāmasu pāṭhāt | kiṃcaivaṃ stotāro vayamapi he rayivo viśiṣṭadhanavannindra rayiṃ dhanaṃ vanema | sambhajema | kīdṛśaṃ rayim | suvīryaṃ śobhanasāmarthyopetaṃ raṇvaṃ ramaṇīyaṃ gantavyaṃ vārthibhiḥ santaṃ sarvadā vartamānaṃ yajñādidvārā bahuśo dīyamānamapi pravardhamānam | punastadeva viśeṣyate | suvīryaṃ śobhanaputrabhṛtyādyupetaṃ dhanena teṣāṃ sampādayituṃ śakyatvāt | vīravīrye cetyuttarapadādyudāttatvam ‖ kiṃca he indra durmanmānaṃ duḥkhena mantuṃ śakyaṃ tvāṃ tava mahimno 'timahattvāt sumantubhiḥ śobhanairmananaiḥ stutisādhanaiḥ stotrairiṣā havirūpeṇānnena ca pṛcīmahi | sarvataḥ sampṛktā bhūyāsma | yadvā | iṣānnena nimittena | pūrvaṃ dhanasya prārthitatvādidānīmannaṃ prārthyate | pṛcī samparke | liṅi chāndaso vikaraṇasya luk ‖ kiṃca yajatraṃ yāganiṣpādakamindraṃ satyābhiravisaṃvādinībhiryathābhilāṣamupajāyamānaphalābhirdyumnahūtibhiḥ | hariva āgaccha medhātithermeṣetyāhvānairityarthaḥ | punastā eva viśeṣyante | dyumnahūtibhirhavirlakṣaṇānnanimittairāhvānairā pṛcīmahīti śeṣaḥ | dyumnaṃ dyotateryaśo vānnaṃ vā | ni. 5-5 [?] iti yāskaḥ ‖*
+
+*(Read from the image; some small-type letters are doubtful: [?] — e.g. "*vīravīrye ca*", "*harivaḥ āgaccha medhātither meṣa*" (the cited invocation), and the Nirukta number "५-५".)* Sense: "O Indra, we sacrificers *vanema* — praise, or serve — with *hotrayā*, the sacrificial praise-speech, that praiseworthy form of yours, or [that] making known your qualities (*citantyā*). *Hotrā* is a name of speech, 'hotrā, gīḥ'. And thus, we who praise, O possessor of wealth (*rayivaḥ*), may we obtain (*vanema*) wealth (*rayim*) — which is *suvīryam* (with good ability), *raṇvam* (delightful, to be sought by petitioners), *santam* (always existing, increasing though given away often through sacrifices); again, *suvīryam* — endowed with good sons, servants and the like, since they can be obtained with wealth. And, O Indra, hard to think of (*durmanmānam*) because of your exceeding greatness, we would be united (*pṛcīmahi*) with you by good thoughts — praise-hymns — and by food in the form of oblations (*iṣā*): we pray now for food, since wealth was prayed for before. And the sacrificer-fulfilling (*yajatram*) Indra, with true (unfailing) invocations (*satyābhiḥ*, *dyumnahūtibhiḥ*): 'come, *harivaḥ*, come…' — invocations — again with invocations offering food; *dyumna* is 'fame or food' (Yāska)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *tat* — that (praiseworthy form of yours); *citantyā* — making known your qualities; *hotrayā* — by speech (in the form of praise) that is the means of homa; *vanema* — let us praise; *rayivaḥ* — O Indra, possessed of special wealth; *(kiṃ ca* — and, we who praise); *suvīryam* — of good strength; *raṇvam* — delightful (to be approached by petitioners); *santam* — lasting (growing though given freely at the sacrifice); *suvīryam* — endowed with good heroic sons and the like; *rayim* — wealth; *vanema* — may we obtain; *(kiṃ ca* — and); *durmanmānam* — difficult to know; *īm* — you; *sumantubhiḥ* — by good thoughts (praises); *iṣā (ca)* — also by food in the form of oblations (for food); *ā pṛcīmahi* — may we be well united; *(kiṃ ca* — and); *yajatram* — worthy of sacrifice (the accomplisher of the sacrifice); *indram* — Indra; *satyābhiḥ* — by true (fruit-giving); *dyumnahūtibhiḥ* — by invocations in praise, for fame (and); *dyumnahūtibhiḥ* — by invocations that provide the food of oblation; *ā pṛcīmahi* — may we be united.
+
+### Printed p. 397  (PDF 418)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, we praise you with speech that makes known your qualities and is the means of homa; O Indra, possessed of wealth, we ask for the wealth that gives heroism, is desirable and lasting (always growing though given), and gives heroic sons and so on; difficult to know, we approach you with praises and with food in the form of oblations; O Indra, worthy of worship, we approach you with true, fruit-giving invocations and with praise that carries oblations.
+
+**Printed English (heading "English Translation"; as printed):** *"We praise you, Indra, with praises, making known (your glory): we solicit, giver of riches, the wealth that bestows vigour, that is agreeable, durable, and the support of progeny. May we (ever) be possessed of (abundant) food, through the praises of you, whom it is difficult adequately to honour: may we attain the adorable (Indra) by true and earnest invocation; by invocations (offering sacrificial) food."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 7).**
+
+***tat citantyā hotrayā vanema*** — here the word *tat* is explained in two ways: as the form of Indra worthy of praise, and as the sacrificers (*yajamānāḥ*) well known in performing sacrifice.
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 397 (PDF 418): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā…English done, Special Topics begun (first entry *tat citantyā hotrayā vanema* at the foot of p. 397); resume p. 398 (PDF 419). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393) and Ṛk 7 bhāṣya (p. 396); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
