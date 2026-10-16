@@ -10072,4 +10072,78 @@ For the second *manma*: *teṣām eva karma hananādirūpam* — "the work of su
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 397 (PDF 418): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā…English done, Special Topics begun (first entry *tat citantyā hotrayā vanema* at the foot of p. 397); resume p. 398 (PDF 419). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393) and Ṛk 7 bhāṣya (p. 396); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 398  (PDF 419)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+(Special Topics of Ṛk 7, continued:) The word ***hotrā*** is recorded among the fifteen names of sacrifice, *yajñaḥ, venaḥ* and so on (Ni. 3-19 [?]), and among the fifty-seven names of speech, *ślokaḥ, dhārā* (Ni. 2-[?]; as read "೩-೩೨"?). Here *homasādhanabhūtayā stutirūpayā vācā* gives the sense "speech in the form of praise recited while the oblation is made". The meaning is stated: "those who are skilled in the performance of sacrifice praise Indra with the *mantras* recited at the time of homa that make known the form and the qualities of Indra worthy of praise." So the prayer is that they may be fit to praise.
+
+***raṇvaṃ suvīryaṃ santaṃ rayiṃ vanema*** — the word *rayi* is recorded among the names of water (Ni. 1-[?]; as read "೩-೩೪") and of wealth (Ni. 2-[?]; "೩-೯"): "*rayir iti dhananāma rāter dānakarmaṇaḥ*" (Ni. 4-17 [?]); from the root *rā* in the sense of giving, the word *rayi* means wealth.
+
+The word *suvīryam* is an adjective of *dhana*: the wealth that produces excellent and great strength and also gives sons and servants. For the word *santam* he explains: though it is spent on good works such as sacrifices, wealth increases. The prayer is that they may obtain from Indra, the wealthy, wealth that is delightful, gives happiness and grows by good works fit to be given to petitioners.
+
+***durmanmānaṃ sumantubhir iṣā ā pṛcīmahi*** — "Because Indra's greatness cannot be known nor meditated upon, the sacrificers pray, with praises worthy of meditation even with great effort, and by offering oblations, to obtain food. The previous sentence prayed for wealth; this sentence, it is explained, prays for food."
+
+The word ***dyumnahūtibhiḥ*** is used twice, and two kinds of meaning are given. The first meaning is "the manner of invoking Indra, who gives fixed results, in the sacrifice: *harivaḥ, āgaccha, medhātither meṣa* [as read, doubtful: [?]]". In the second, since the word *dyumna* is recorded among the names of wealth (Ni. 2-[?]; as read "೩-೯") and has been explained by Yāska as *dyumnaṃ dyoter yaśo vā annaṃ vā* (Ni. 5-[?]; as read "೫-೬"), it is explained here as "food": with such invocations, they pray that, having invoked Indra at the sacrifice, they may offer oblations and obtain food.
+
+### Printed p. 399  (PDF 420)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; numbers as printed).** *vanema* — root *vana ṣaṇa sambhaktau*; *liṅ* first person plural; since at the beginning of the *pāda* there is no *nighāta*; the *yāsuṭ* is acute; the substitute coming from it too; by *ekādeśa udāttenodāttaḥ* (Pā. 8-2-5) the *e* becomes acute. *citantyā* — root *citī saṃjñāne*; after the causative *ṇic*, *śatṛ* in the present sense; by *vyatyayo bahulam* (Pā. 3-1-85) the *śa* as the *vikaraṇa*; *sārvadhātukam apit* — since *ṅit*, no guṇa of the penult; when the feminine is intended after the *śatṛ* ending, *ugitaś ca* (Pā. 4-1-6) gives *ṅīp*; accent of the *vikaraṇa*; instrumental singular. *rayivaḥ* — *rayiḥ asya asti iti rayivān*; *chandasīraḥ* (Pā. 8-2-15) gives *va* in place of the *m* of *matup*; *matuvasor ruḥ sambuddhau* gives *ru* in the vocative; *āmantritasya ca* gives *nighāta*. *suvīryam* — *śobhanaṃ vīryaṃ yasya tam*; *vīravīryau ca* (Pā. 6-2-120) gives, against the accent of *su*, the acute on the first syllable of the latter member. *durmanmānam* — *duḥkhena mantuṃ śakyaḥ durmanmā, tam*; root *mana jñāne*; the suffix *manin*; since *n*-marked, the acute on the first syllable; in the compound *kṛd-uttarapadaprakṛtisvara*; accusative singular. *sumantubhiḥ* — *śobhanāḥ mantavaḥ sumantavaḥ*; root *mana jñāne*; Uṇādi *tun*; since *n*-marked, the acute on the first syllable; the compound as before; instrumental plural. *iṣā* — instrumental singular; *sāvekācas tṛtīyādiḥ* gives the acute to the ending. *pṛcīmahi* — root *pṛcī saṃparke*; *liṅ* first person plural, suffix *mahiṅ*; *liṅaḥ sīyuṭ* (Pā. 3-4-102) gives the augment *sīyuṭ*; *lopo vyor vali* drops the *y* of *sīyuṭ* [as read]; *sko*… drops the *s* [as read: Pā. 6-2-69?]; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; *tiṅ-nighāta*. *dyumnahūtibhiḥ* — *bahuvrīhi* compound; the accent of the first member.
+
+### Printed p. 400  (PDF 421)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*yajatram* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *amiṇakṣiyaji…* (Uṇ. 3-[?]) gives *atran*; *jñityādir nityam* gives the acute on the first syllable. ‖ 7 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> प्रप्रा वो अस्मे स्वयशोभिरूती परिवर्ग इन्द्रो दुर्मतीनां दरीमन्दुर्मतीनाम् ।
+> स्वयं सा रिषयध्यै या न उपेषे अत्रैः ।
+> हतेमसन्न वक्षति क्षिप्ता जूर्णिर्न वक्षति ॥ ८ ॥
+
+> *praprā vo asme svayaśobhirūtī parivarga indro durmatīnāṃ darīmandurmatīnām |*
+> *svayaṃ sā riṣayadhyai yā na upeṣe atraiḥ |*
+> *hatemasanna vakṣati kṣiptā jūrṇirna vakṣati ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रप्र । वः । अस्मे इति । स्वयशःऽभिः । ऊती । परिऽवर्गे । इन्द्रः । दुःऽमतीनाम् । दरीमन् । दुःऽमतीनाम् ।
+> स्वयम् । सा । रिषयध्यै । या । नः । उपऽईषे । अत्रैः ।
+> हता । ईम् । असत् । न । वक्षति । क्षिप्ता । जूर्णिः । न । वक्षति ॥ ८ ॥
+
+> *prapra | vaḥ | asme iti | svayaśaḥ 'bhiḥ | ūtī | pari 'varge | indraḥ | duḥ 'matīnām | darīman | duḥ 'matīnām |*
+> *svayam | sā | riṣayadhyai | yā | naḥ | upa 'īṣe | atraiḥ |*
+> *hatā | īm | asat | na | vakṣati | kṣiptā | jūrṇiḥ | na | vakṣati ‖ 8 ‖*
+
+*(Read from the image. The Saṃhitā begins "*prapra vo asme*" — printed with a doubled *pra*; the Pada gives *prapra*, *asme iti*, *svayaśaḥ-bhiḥ*, *pari-varge*, *duḥ-matīnām*, *upa-īṣe*; the metre of Ṛks 8 and 9 is Atiśakvarī.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few places doubtful: [?]).*
+
+> हे ऋत्विजः वो युष्मदर्थमस्मे अस्मदर्थं चायमिन्द्रः स्वयशोभिः स्वकीययशोयुक्तैरूतीभी रक्षणैर्दुर्मतीनां दुर्मनोयुक्तानां विरोधिनां परिवर्गे परितो वर्जने निमित्तभूते सति प्रप्र । प्रकृष्टो भवति । समर्थो भवतीत्यर्थः । द्विर्भावः पादपूरणः । यद्वा । हे ऋत्विजः वो युष्मदर्थमस्मे अस्माकं सम्बन्धिभिः स्वयशोभिः स्वयमेवान्यैरसापेक्षेण स्तोत्रं समर्थैः स्तोत्रैः स्तुतः सन् ऊती ऊत्या रक्षणे प्रप्र । प्रकृष्टो भवति । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ कुत्रेति तदुच्यते । दुर्मतीनां दुष्टानां परिवर्गे परितो वर्जने सङ्ग्रामे योगे वा । पुनः स एव विशेष्यते । दुर्मतीनां दुष्टबुद्धिमानवतां हननबुद्धीनां दरीमन् दरीमणि अतिशयेन दारयितरि ॥
+
+> *he ṛtvijaḥ vo yuṣmadarthamasme asmadarthaṃ cāyamindraḥ svayaśobhiḥ svakīyayaśoyuktairūtībhī rakṣaṇairdurmatīnāṃ durmanoyuktānāṃ virodhināṃ parivarge parito varjane nimittabhūte sati prapra | prakṛṣṭo bhavati | samartho bhavatītyarthaḥ | dvirbhāvaḥ pādapūraṇaḥ | yadvā | he ṛtvijaḥ vo yuṣmadarthamasme asmākaṃ sambandhibhiḥ svayaśobhiḥ svayamevānyairasāpekṣeṇa stotraṃ samarthaiḥ stotraiḥ stutaḥ san ūtī ūtyā rakṣaṇe prapra | prakṛṣṭo bhavati | upasargaśruteryogyakriyādhyāhāraḥ ‖ kutreti taducyate | durmatīnāṃ duṣṭānāṃ parivarge parito varjane saṅgrāme yoge vā | punaḥ sa eva viśeṣyate | durmatīnāṃ duṣṭabuddhimānavatāṃ hananabuddhīnāṃ darīman darīmaṇi atiśayena dārayitari ‖*
+
+### Printed p. 401  (PDF 422)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+> एवमिन्द्रे सम्यक्पालयति सत्यत्रैर्भक्षकैरस्मद्विरोधिभिर्या जूर्णिर्जूर्णवती सेना । जूर्णिर्जवतेर्वा द्रवतेर्वा दूनोतेर्वेति यास्कः । नि. ६-१४ [?] । नोऽस्मान् प्रति रिषयध्यै हिंसितुम् ॥ रिषेर्णिजन्तात्तुमर्थे शध्यै प्रत्ययः ॥ उपेषे उपगन्तुमस्मान् प्राप्तुम् । ईङ् गतौ । तुमर्थे क्सेप्रत्ययः । क्षिप्ता प्रेरिता सा सेना स्वयं हतेमसत् । हिंसितैवासीत् । न वक्षति । अस्मान्न वहेत् । न प्राप्नोति । तथास्मद्विषाभ्यां [?] नापि पुनर्वक्षति । न वहति ॥ वहेर्लेट्यडागमः । सिब्बहुलमिति सिप् ॥ इन्द्रसामर्थ्येन तत्रैव नष्टाभूदित्यर्थः ॥
+
+> *evamindre samyakpālayati satyatrairbhakṣakairasmadvirodhibhiryā jūrṇirjūrṇavatī senā | jūrṇirjavatervā dravatervā dūnoterveti yāskaḥ | ni. 6-14 [?] | no 'smān prati riṣayadhyai hiṃsitum ‖ riṣerṇijantāttumarthe śadhyai pratyayaḥ ‖ upeṣe upagantumasmān prāptum | īṅ gatau | tumarthe ksepratyayaḥ | kṣiptā preritā sā senā svayaṃ hatemasat | hiṃsitaivāsīt | na vakṣati | asmānna vahet | na prāpnoti | tathāsmadviṣābhyāṃ [?] nāpi punarvakṣati | na vahati ‖ vaherleṭyaḍāgamaḥ | sibbahulamiti sip ‖ indrasāmarthyena tatraiva naṣṭābhūdityarthaḥ ‖*
+
+*(Sense: "O priests, for you and for us this Indra, by his own-fame protections, when there is the avoidance (*parivarga*) of the ill-minded enemies, becomes *prapra* — eminent, able; the doubling is a metrical filler. Or: praised by us with praises that need no help from others [?], he becomes eminent in protection. Where? In the avoidance of the ill-minded, in battle; again, the same Indra, in the tearing (*darīman*) of the ill-minded, who intend killing — the great tearer. Thus when Indra protects well, the army (*jūrṇi*) of our enemies who devour us (*atraiḥ*) — 'jūrṇi from *jū* to go quickly, *dru* to run, or *du* to burn': Yāska (Ni. 6-14 [?]) — that comes to harm us, to attack us, *kṣiptā* — sent forth, itself is destroyed; it does not carry (*na vakṣati*) us — does not reach us; nor does it come again.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he ṛtvijaḥ* — O priests); *vaḥ* — for you; *asme* — for us; *(ayam* — this); *indraḥ* — Indra; *svayaśobhiḥ* — with his own glories; *ūtī* — by protective deeds; *durmatīnām* — of the evil-minded (our enemies); *parivarge* — in the matter of defeating them; *prapra* — becomes mighty [or, *vaḥ* — for you; *indraḥ* — Indra; *asme* — in what concerns us; *svayaśobhiḥ* — able to praise us without any help from others (by praises); *durmatīnām* — of the evil; *parivarge* — in the battle where they are shunned (in the sacrifice); *ūtī* — in your protection; *prapra* — becomes eminent]; *durmatīnām* — of the wicked; *darīman* — the one who tears asunder (protector); *atraiḥ* — by the devourers (our enemies); *yā* — which; *jūrṇiḥ* — swift army; *naḥ* — us; *riṣayadhyai* — to harm; *upeṣe* — to approach; *kṣiptā* — sent forth; *sā* — that army; *svayam* — of itself; *hatā īm asat* — it is destroyed; *na vakṣati* — does not reach us; *(and)* *na vakṣati* — does not go back to the enemies' side.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O priests, this Indra becomes mighty, by his protective deeds that bring him glory, in the matter of your and our adversaries; in subduing the evil-minded he, the protector, is strong; the swift army sent against us by our enemies, to approach and harm us, is destroyed of itself; it does not reach us; or (does not go back to the enemies).
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 401 (PDF 422): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 (Atiśakvarī) Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha written; resume p. 402 (PDF 423) with the Ṛk 8 printed English, Special Topics and grammar, then Ṛk 9. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393), Ṛk 7 bhāṣya (p. 396) and Ṛk 8 bhāṣya (pp. 400–401); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
