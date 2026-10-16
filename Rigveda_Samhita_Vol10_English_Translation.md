@@ -10900,4 +10900,120 @@ In the matter of Indra's coming to the sacrificial hall, the sentence *astaṃ r
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 438 (PDF 459): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha written (the Bhāvārtha's last words are on p. 439); resume p. 439 (PDF 460) with the end of the Bhāvārtha, English, Special Topics, grammar. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ with `crop_pages.py Rig_Vol10.pdf 461 540 $S/w10e --dpi 150` when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 439  (PDF 460)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+*(Bhāvārtha of Ṛk 5, concluded from p. 438:)* "…as cows give all things to Manu, or as they are milked for all men, so the rivers (as if milked) join their water (in a single purpose)."
+
+**Printed English (heading "English Translation"; as printed):** *"You have without effort created the rivers (that are) to flow to the sea, like chariots (bearing you to sacrifices), as those (construct) chariots who are desirous of (going to) battle: (the streams) flowing hither have gathered together their water for a common purpose, like the cows that yielded all things to Manu; that yield all things to man."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).**
+
+***rathān iva vājayato rathān iva*** — *tatra dṛṣṭāntaḥ yathā tvaṃ rathān asmadyāgaṃ prati abhimukhyena prāptuṃ asṛṣṭavān asi tadvat | saṅgrāmam annaṃ vā icchanto rājādayo rathān iva | te yathā saṅgrāmaṃ prati oṣadhyādikaṃ vātisartuṃ rathān sṛjanti tadvat*: "Indra, whatever effort he makes, causes the rivers to bring together their water to the sea — splitting the cloud and giving abundant water in the rivers. In this matter two comparisons are given: the first sentence means 'as a chariot is built to bring us to the sacrifice of those who sacrifice'; in the second, kings and others who wish to fight, or to collect grain and the like, prepare chariots and cause them to run swiftly to the various places: so" is the meaning.
+
+The word ***vāja*** is recorded among the names of food (Ni. 2-[?]; as read "೨-೯") and among the names of battle (Ni. 2-[?]); *ṛbhukṣā viśvā vāja iti* (Ni. 11-[?]; as read "೧೧-೧೭") is said also of a certain name [?]. —
+
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
+
+> *pāvakā naḥ sarasvatī vājebhir vājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*
+
+(Ṛ. Saṃ. 1-3-10, as read.) In this Ṛk *vājebhiḥ* is explained as *annena haviṣā udakena vā tadvatī* — hence the word *vāja* is used in the senses "food" and "water". Sāyaṇa too, for *vājayataḥ*, gives the meaning "battle or food".
+
+***ūtīḥ akṣitam ayuñjata*** — *gamanavatyo rakṣaṇavatyo vā nadyaḥ udakaṃ yojitavatyaḥ*: the word *akṣita* is recorded among the names of water (Ni. 1-[?]; as read "೧-೩೪"). The word *ūti*
+
+### Printed p. 440  (PDF 461)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+(continued:) …is explained: —
+
+> आ त्वा रथं यथोतये सुम्नाय वर्तयामसि ।
+> तुविकूर्मिमृतीषहमिन्द्र शविष्ठ सत्पते ॥
+
+> *ā tvā rathaṃ yathotaye sumnāya vartayāmasi |*
+> *tuvikūrmim ṛtīṣaham indra śaviṣṭha satpate ‖*
+
+(Ṛ. Saṃ. 8-68-1, as read "೮-೬೮-೧"; small type, doubtful: [?].) In this Ṛk *ūtaye* is explained as *avanāt* (Ni. 11-[?]; as read "೧೧-೨") — "protection". Here the sense "flowing or protecting" is given and is used as an epithet of the rivers.
+
+"That the rivers join their water, to be of use to those who perform the sacrifice, is through Indra's favour": so he describes.
+
+***manave dhenūr iva viśvadohasaḥ, janāya viśvadohasaḥ*** — these two sentences are also stated in the form of an illustration. The rivers are compared to cows: as cows give a person such as Manu all that is needed, so the rivers are useful. And that the rivers flow so as to be favourable to all people and be useful to the life of crops and so on, and do many benefits, is compared; thus he praises Indra, who gives the rain that causes the rivers to do such services.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; numbers as printed).** *sartave* — root *sṛ gatau*; when *tumartha* is intended, *tumarthe sese…* (Pā. 3-4-9) gives *tavai*; [the form *tavenn*]; guṇa of the root with *raparatva* by *sārvadhātukārdhadhātukayoḥ*; *jñityādir nityam* (Pā. 6-1-197) gives the acute on the first syllable; *kṛn mejantaḥ* (Pā. 1-1-39) gives the name of an indeclinable. *accha* — *nipātasya ca* (Pā. 6-3-136) gives the long vowel in the Saṃhitā. *asṛjaḥ* — root *sṛja visarge*, *tudādi*; *laṅ* second person singular; *tiṅ-nighāta* since it follows a finite verb. *vājayataḥ* — *vājam ātmana icchanti vājayanti*; *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *na chandasy apuṭrasya* (Pā. 7-4-35) forbids lengthening and the like; after the *kyac*-ending, *śatṛ* in the present sense; accusative plural; since *num*-less, the case-ending after *śatṛ* gets *catur…* [as read: *śatur anumo nadyajādī*, Pā. 6-1-173] the acute. *ūtīḥ* — *ūtiyūtijūti…* (Pā. 3-3-97) gives *ktic* with the acute on the last syllable, irregular; the plural following, *supāṃ sulug…* (Pā. 7-1-39) lengthens the previous vowel.
+
+### Printed p. 441  (PDF 462)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+*(Grammar, concluded.)* *ayuñjata* — root *yujir yoge*, *rudhādi*; *laṅ* third person plural; *tiṅ-nighāta*. *artham* — root *ṛ gatau*; *uṣikuṣigarbhibhyaḥ than* (Uṇ. 2-[?]) gives *than*; guṇa of the root; since *n*-marked the acute on the first syllable; though masculine, here, being an epithet of the neuter *akṣitam*, it is neuter. *viśvadohasaḥ* — *viśvaṃ dohaḥ yāsāṃ tāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member. ‖ 5 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> इमां ते वाचं वसूयन्त आयवो रथं न धीरः स्वपा अतक्षिषुः ।
+> सुम्नाय त्वामतक्षिषुः ।
+> शुम्भन्तो जेन्यं यथा वाजेषु विप्र वाजिनम् ।
+> अत्यमिव शवसे सातये धना विश्वा धनानि सातये ॥ ६ ॥
+
+> *imāṃ te vācaṃ vasūyanta āyavo rathaṃ na dhīraḥ svapā atakṣiṣuḥ |*
+> *sumnāya tvāmatakṣiṣuḥ |*
+> *śumbhanto jenyaṃ yathā vājeṣu vipra vājinam |*
+> *atyamiva śavase sātaye dhanā viśvā dhanāni sātaye ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> इमाम् । ते । वाचम् । वसुऽयन्तः । आयवः । रथम् । न । धीरः । सुऽअपाः । अतक्षिषुः ।
+> सुम्नाय । त्वाम् । अतक्षिषुः ।
+> शुम्भन्तः । जेन्यम् । यथा । वाजेषु । विप्र । वाजिनम् ।
+> अत्यम्ऽइव । शवसे । सातये । धना । विश्वा । धनानि । सातये ॥ ६ ॥
+
+> *imām | te | vācam | vasu 'yantaḥ | āyavaḥ | ratham | na | dhīraḥ | su 'apāḥ | atakṣiṣuḥ |*
+> *sumnāya | tvām | atakṣiṣuḥ |*
+> *śumbhantaḥ | jenyam | yathā | vājeṣu | vipra | vājinam |*
+> *atyam 'iva | śavase | sātaye | dhanā | viśvā | dhanāni | sātaye ‖ 6 ‖*
+
+### Printed p. 442  (PDF 463)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, doubtful places [?]).*
+
+> हे इन्द्र ते त्वदर्थं वसूयन्तो धनमात्मन इच्छन्त आयवो दातव्यहविरूपान्नवन्त ऋत्विजः ॥ आयव इति मनुष्यनामसु पाठात् ॥ इमां क्रियमाणां स्तुतिरूपां वाचमतक्षिषुः । सम्पादितवन्तः । स्वपाः शोभनकर्मवान् कुशली ॥ बहुव्रीहौ सोर्मनसी इत्यत्र पदाद्युदात्तत्वम् ॥ धीरो धीमान् रथं न रथमिव । तं यथा प्रयत्नेन साधु करोति तद्वत् । एवं कृत्वा त्वां सुम्नाय सुखायातक्षिषुः । अनुकूलमुत्पादयन्ति । सुम्नमिति सुखनाम । सुम्नं सुग्मियमिति तन्नामसु पाठात् ॥ किंच हे विप्र मेधाविन्निन्द्र वाजेषु सङ्ग्रामेषु वाजिनं वेगवन्तं त्वां शुम्भन्तो गुणैर्दीपयन्त उत्कृष्टं कुर्वन्तो ऋत्विजः स्तुत्या प्रीणयन्ति । तत्र दृष्टान्तः । जेन्यं यथा जयशीलं शूरं यथा भटाः स्तुवन्ति तद्वत् । यद्वा । जेन्यं जयशीलं वाजिनं वेगवन्तमश्वं वाजेषु सङ्ग्रामेषु यथोत्साहयन्ति तद्वत् । किंच शवसे बलाय धना धनानां सातये लाभाय च स्तुम इति शेषः । ऊतियूतिजूतिसातीत्यादिना क्तिन उदात्तत्वम् ॥ न केवलं धनमात्रं किंतु विश्वा धनानि सातये कृत्स्नानि प्रीणनसाधनानि गवादिधनानि । षष्ठ्यर्थे द्वितीया । तेषां लाभाय । तत्र दृष्टान्तः । धना धने सङ्ग्रामे शवसे वैरिजयसाधनबलाय सातये तेषामेव धनानां प्राप्तये चात्यमिवाश्वमिव सततगामिनमश्वमिव । तं यथा स्तुवन्ति तद्वत् ॥
+
+> *he indra te tvadarthaṃ vasūyanto dhanamātmana icchanta āyavo dātavyahavirūpānnavanta ṛtvijaḥ ‖ āyava iti manuṣyanāmasu pāṭhāt ‖ imāṃ kriyamāṇāṃ stutirūpāṃ vācamatakṣiṣuḥ | sampāditavantaḥ | svapāḥ śobhanakarmavān kuśalī ‖ bahuvrīhau sormanasī ityatra padādyudāttatvam ‖ dhīro dhīmān rathaṃ na rathamiva | taṃ yathā prayatnena sādhu karoti tadvat | evaṃ kṛtvā tvāṃ sumnāya sukhāyātakṣiṣuḥ | anukūlamutpādayanti | sumnamiti sukhanāma | sumnaṃ sugmiyamiti tannāmasu pāṭhāt ‖ kiṃca he vipra medhāvinnindra vājeṣu saṅgrāmeṣu vājinaṃ vegavantaṃ tvāṃ śumbhanto guṇairdīpayanta utkṛṣṭaṃ kurvanto ṛtvijaḥ stutyā prīṇayanti | tatra dṛṣṭāntaḥ | jenyaṃ yathā jayaśīlaṃ śūraṃ yathā bhaṭāḥ stuvanti tadvat | yadvā | jenyaṃ jayaśīlaṃ vājinaṃ vegavantamaśvaṃ vājeṣu saṅgrāmeṣu yathotsāhayanti tadvat | kiṃca śavase balāya dhanā dhanānāṃ sātaye lābhāya ca stuma iti śeṣaḥ | ūtiyūtijūtisātītyādinā ktina udāttatvam ‖ na kevalaṃ dhanamātraṃ kiṃtu viśvā dhanāni sātaye kṛtsnāni prīṇanasādhanāni gavādidhanāni | ṣaṣṭhyarthe dvitīyā | teṣāṃ lābhāya | tatra dṛṣṭāntaḥ | dhanā dhane saṅgrāme śavase vairijayasādhanabalāya sātaye teṣāmeva dhanānāṃ prāptaye cātyamivāśvamiva satatagāminamaśvamiva | taṃ yathā stuvanti tadvat ‖*
+
+*(Sense: "O Indra, for you the *āyavaḥ* — priests, who desire wealth and have food in the form of oblation to give (*āyu* is recorded among the names of man) — have fashioned (*atakṣiṣuḥ*) this praise-speech being made; *svapāḥ* — skilled, doing good work, wise — as a skilful man makes a chariot well by effort, so they made it. Having done so, they have made you favourable for *sumna*, happiness (*sumna* is a name of happiness). And, O wise Indra, the priests adorn you with qualities, glorify you, swift in battles, as soldiers praise a conquering hero; or as one encourages a swift horse in battle. And we praise you for strength, for the gaining of wealth; not wealth alone but all kinds of wealth such as cows, the means of satisfaction. The example: as one praises a swift horse that always runs, for victory in battle, for the gaining of that very wealth.")*
+
+### Printed p. 443  (PDF 464)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read: "೨೦"].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *vasūyantaḥ* — desirous of wealth; *āyavaḥ* — the priests who have food in the form of oblation to give; *svapāḥ* — skilful; *dhīraḥ* — wise (man); *rathaṃ na* — as (he prepares) a chariot (with effort); *te* — for you; *imāṃ* — this; *vācam* — word (of praise); *atakṣiṣuḥ* — have fashioned; *tvām* — you; *sumnāya* — for their happiness; *atakṣiṣuḥ* — have made favourable; *(he vipra* — O wise Indra); *vājeṣu* — in battles; *vājinam* — the swift; *śumbhantaḥ* — adorning (with qualities in praise); *jenyaṃ yathā* — as a victorious hero (is praised by soldiers) or as a swift horse is encouraged in battle; *(ātakṣiṣuḥ* — they please with words of praise); *(kiṃ ca* — and); *śavase* — for strength; *dhanā* — of wealth; *sātaye* — for gaining; *viśvā dhanāni* — all kinds of wealth such as cows; *sātaye* — for gaining; *atyam iva* — as (they praise) the best horse (that wins battle); *(stumaḥ* — we praise you).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, the priests who desire wealth and have food in the form of oblation, have fashioned this praise for you, as a wise and skilful man makes a chariot, to make you favourable to their happiness; O wise one, the sages praise you, swift in battle, as soldiers praise a victorious hero; we too praise you for strength, wealth and all kinds of affluence, as they praise an excellent horse for victory in battle.
+
+**Printed English (heading "English Translation"; as printed):** *"Men who are desirous of wealth have recited this your praise, as a resolute and provident man (prepares) a chariot (for a journey): they have propitiated you for their good: glorifying you, sage Indra, as impetuous in conflicts, they have praised you (as men praise) a conqueror. We praise you for (the acquirement of) strength, wealth, and every kind of affluence; as (they commend) a courser (for his good qualities) in battle."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***vasūyantaḥ āyavaḥ*** — *dhanamātmana icchantaḥ dātavyahavirūpānnavantaḥ ṛtvijaḥ*: the word *āyu* is recorded among the names of man (Ni. 2-[?]; as read "೨-೩"): "the priests who have food in the form of oblations to be given to the gods in the sacrifice". Also it is described that these priests praise Indra with these Ṛks with the wish that wealth may come to them.
+
+***svapāḥ dhīraḥ rathaṃ na*** — *śobhanakarmavān kuśalī dhīmān rathamiva | taṃ yathā prayatnena sādhu karoti tadvat*: the word *svapāḥ* —
+
+> आ नो यज्ञं भारती तूयमेत्विळा मनुष्वदिह चेतयन्ती ।
+> तिस्रो देवीर्बर्हिरेदं स्योनं सरस्वती स्वपसः सदन्तु ॥
+
+> *ā no yajñaṃ bhāratī tūyam etv iḷā manuṣvad iha cetayantī |*
+> *tisro devīr barhir edaṃ syonaṃ sarasvatī svapasaḥ sadantu ‖*
+
+(Ṛ. Saṃ. 10-110-8, as read "೧೦-೧೧೦-೮".) is used in this Ṛk in the sense "doing good deeds".
+
+"One who does good work, who is wise, by his own effort prepares the chariot"; the meaning of this is that
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 443 (PDF 464): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā…English done; Special Topics begun (entries *vasūyantaḥ āyavaḥ* and *svapāḥ dhīraḥ rathaṃ na*; the latter breaks off at the foot of p. 443); resume p. 444 (PDF 465). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/, PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437 and the *vājayataḥ* topics p. 439; Ṛk 6 bhāṣya p. 442); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
