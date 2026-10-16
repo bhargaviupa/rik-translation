@@ -15609,4 +15609,58 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 7 complete (grammar on p. 646). Ṛk 8 written through the middle of its Pratipadārtha (p. 647, which breaks off after *santu*; the rest of the Pratipadārtha continues on p. 648); resume p. 648 (PDF 669; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 648  (PDF 669)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Pratipadārtha of Ṛk 8, concluded:)* *santu* — let them be [capable of carrying out the rites for us]; *(he indravāyū)* — O Indra and Vāyu; *iha* — in this sacrifice; *gāvaḥ* — the cows; *sākam* — (together for you); *suvate* — (to give milk for you) produce [or: *gāvaḥ* — cows; *sākam* — together; *suvate* — to give you milk, they produce]; *(kiṃca)* — and; *iha* — and here; *yavaḥ* — the barley and the like; *pacyate* — is cooked (for *puroḍāśa* and the like); *he vāyo (indra ca)* — O Vāyu and Indra; *te* — those of you, who are intended for you; *dhenavaḥ* — the cows; *na upa dasyanti* — are not wasted (by disease and the like); *(and)* *dhenavaḥ* — those cows that are pleasing to you; *na apa dasyanti* — are not carried away (by thieves and the like).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The victorious sacrificers stand round the *aśvattha* tree; O Indra and Vāyu, both of you accept the offering of the sweet Soma-juice in such a sacrificial hall; may the priests be capable of carrying out the sacrifice for us; here the cows give birth [yield milk] at one time, to give you milk; barley is cooked for you; these cows, which are devoted to you, are not wasted by disease and the like; and are not stolen by thieves and the like.
+
+**Printed English (heading "English Translation"; as printed):** *"Then, accept the libations of the sweet juice at the sacrifice in which the triumphant priests stand round the rock-born (plant): may they ever be victorious for us: (for you) together the cows distil (their milk); the (offering of) barley is dressed; and never for you, (Vayu), will the cows grow meagre; never will the cows be carried off (by thieves)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 8).**
+
+***jāyavaḥ aśvatthaṃ yam upatiṣṭhante*** — "the victorious sacrificers surround the Soma, as they stand at the *aśvattha*": here Sāyaṇa has not given a proper explanation of the word *aśvattha*. His explanation, *parvatādivyāptipradeśe sthitam*, "which stands in the mountain and the like, in a pervading place", is not clear. It would not be wrong to say simply "the *aśvattha* tree". Probably, as the Soma-creeper grows resting on the *aśvattha* tree, this identity may be told. In this context the meaning may be either the *aśvattha* tree, or the vessel made from that tree. Then the relation of cause and effect between victory and the Soma-juice that is in the *aśvattha* is clear.
+
+> अथ यदाश्वत्थानि तेजसो वा एष वनस्पतिरजायत यदश्वत्थः साम्राज्यं वा एतद्वनस्पतीनां तेज एवास्मिन् [?] तत्साम्राज्यं च वनस्पतीनां क्षत्रे दधाति ।
+
+> *atha yad āśvatthāni tejaso vā eṣa vanaspatir ajāyata yad aśvatthaḥ sāmrājyaṃ vā etad vanaspatīnāṃ teja evāsmin [?] tat sāmrājyaṃ ca vanaspatīnāṃ kṣatre dadhāti |*
+
+(Ai. Brā. 2-[?], as read "೭-೩೧" [?]; read from the image, doubtful in the middle [?].) "The *aśvattha* arose from [the *tejas* — splendour]; it is the sovereign of the trees": it is the chief of all trees, and is the basis of the *kṣatriya* energy.
+
+### Printed p. 649  (PDF 670)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> एतान्यस्य पुरस्तादुपकल्प्यानि भवन्त्यथ सोमं राजानं क्रीणन्ति ।
+
+> *etāny asya purastād upakalpyāni bhavanty atha somaṃ rājānaṃ krīṇanti |*
+
+(Ai. Brā. 2-[?], as read "೭-೩೧" [?].) "When the parts of the *aśvattha* etc. [for the vessel] have been made ready, then the adhvaryu buys the Soma from the *kṣatriya*", is explained in this way: the *kṣatriya* energy and the *aśvattha* are connected. And also:
+
+> ब्रह्मलोके तृतीयस्यामितो दिवि तद्यैरं मदीयं सरस्तदश्वत्थः सोमसवनस्तदपराजिता पूर्ब्रह्मणः प्रभुविमितं हिरण्मयम् ।
+
+> *brahmaloke tṛtīyasyām ito divi tad airaṃ madīyaṃ saras tad aśvatthaḥ somasavanas tad aparājitā pūr brahmaṇaḥ prabhuvimitaṃ hiraṇmayam |*
+
+(Chāndogya Upaniṣad 8-[?]-[?], as read "೮-೫-೩" [?]; this small-type Sanskrit is read from the image and is doubtful throughout [?].) In the *brahmaloka*, an *aśvattha* tree that gives Soma-juice is described in the Chāndogya and other Upaniṣads. Therefore, it appears that the meaning here may be: "the Soma-creepers' juices, which resort to the *aśvattha* trees well known on the mountains and so on". The sacrificer, who desires victory, must press this Soma-juice, perform the sacrifice, and himself drink the juice also.
+
+***jāyavaḥ*** — the word is repeated. For the first, "the sacrificers who desire victory"; for the second, "the priests who have the strength to carry out the sacrifice and to gain victory": it is explained.
+
+***sākaṃ gāvaḥ suvate*** — by the praises of this kind, Indra and Vāyu are shown to be the protectors of cows: [it is said] that, by their protection, cows give milk and the like in abundance, freed from disease, and live well.
+
+> यदाह नियुद्भिर्वायविह ता विमुञ्चेति पशवो वै नियुतस्तत्पशुभिरेवैतत्स्वात्राणि [?] विमुञ्चन्ते ।
+
+> *yad āha niyudbhir vāyav iha tā vimuñceti paśavo vai niyutas tat paśubhir evaitat svātrāṇi [?] vimuñcante |*
+
+(Śa. Brā. 4-[?]-[?]-[?], as read "೪-೪-೧-೧೭" [?]; read from the image, partly doubtful [?].) In such sentences, the *niyut*s that are always connected with Vāyu are said to be animals (*paśu*), and Vāyu is said to be the protector and lord of all animals.
+
+> दोहाशं सख्यं तव गौरसि वीर गव्यते । अश्वो अश्वायते भव ॥
+
+> *dohāśaṃ [?] sakhyaṃ tava gaur asi vīra gavyate | aśvo aśvāyate bhava ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?], as read "೬-೪೫-೩೩" [?]; the first word is doubtful [?].) "For the sacrificer who wants a cow, Indra becomes a cow; for him who wants a horse, he is the horse, and helps him": thus described, one may expect to get wealth of cattle protected by the help of Indra and Vāyu.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 649 (Special Topics: *jāyavaḥ aśvatthaṃ*, *sākaṃ gāvaḥ suvate* done; more entries and the grammar follow); resume p. 650 (PDF 671; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
