@@ -14795,4 +14795,108 @@ This word is used in other senses also, besides "pressing the juice" or "the ins
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete (p. 617); resume p. 618 (PDF 639) with Ṛk 3; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 618  (PDF 639)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ नो नियुद्भिः शतिनीभिरध्वरं सहस्रिणीभिरुप याहि वीतये वायो हव्यानि वीतये ।
+> तवायं भाग ऋत्वियः सरश्मिः सूर्ये सचा ।
+> अध्वर्युभिर्भरमाणा अयंसत वायो शुक्रा अयंसत ॥ ३ ॥
+
+> *ā no niyudbhiḥ śatinībhiradhvaraṃ sahasriṇībhirupa yāhi vītaye vāyo havyāni vītaye |*
+> *tavāyaṃ bhāga ṛtviyaḥ saraśmiḥ sūrye sacā |*
+> *adhvaryubhirbharamāṇā ayaṃsata vāyo śukrā ayaṃsata ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । नियुत्ऽभिः । शतिनीभिः । अध्वरम् । सहस्रिणीभिः । उप । याहि । वीतये ।
+> वायो इति । हव्यानि । वीतये ।
+> तव । अयम् । भागः । ऋत्वियः । सऽरश्मिः । सूर्ये । सचा ।
+> अध्वर्युऽभिः । भरमाणाः । अयंसत । वायो इति । शुक्राः । अयंसत ॥ ३ ॥
+
+> *ā | naḥ | niyut 'bhiḥ | śatinībhiḥ | adhvaram | sahasriṇībhiḥ | upa | yāhi | vītaye |*
+> *vāyo iti | havyāni | vītaye |*
+> *tava | ayam | bhāgaḥ | ṛtviyaḥ | sa 'raśmiḥ | sūrye | sacā |*
+> *adhvaryu 'bhiḥ | bharamāṇāḥ | ayaṃsata | vāyo iti | śukrāḥ | ayaṃsata ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 3; read from the image; doubtful words marked [?].)*
+
+> हे वायो त्वं नोऽध्वरमस्मत्संबन्धिनं यज्ञं शतिनीभिर्नियुद्भिः सहस्रिणीभिश्च ताभिस्त्वदीयैरश्वैर्नोऽस्मदध्वरमुपायाहि । उपागच्छ । किमर्थम् । वीतये त्वदभिमतकामाय [?] । आगत्य च हव्यानि वीतये सोमादिभिर्भक्षणार्थमध्वरं हव्यानि चोपलक्ष्य तेषामेव भक्षणाय शतसहस्रैरश्वैरतिशीघ्रमागच्छेत्यर्थः ॥ किंचायं तव भागो भजनीयः सोम ऋत्वियः प्राप्तकालः प्रदानावसरं प्राप्तः । ऋतुशब्देन प्रदानकालो लक्ष्यते ॥ छन्दसि घस् । पा. ५-१-१०६ [?] । सिति च । पा. १-४-१६ [?] । इति पदसंज्ञया भसंज्ञाया बाधादोर्गुणाभावे यण् ॥ किंच सोमः सूर्य उदिते सति तस्य रश्मिभिः सचा सह सरश्मिर्भवति । समानदीप्तिर्भवति । यद्वा । तैः सहितो भवति । यतः सूर्य उदिते सति रश्मिर्भवति अतः प्राप्तकाल इत्यर्थः ॥ किंच सोमा अध्वर्युभिश्चमसाध्वर्युभिः । तेषां दशत्वाद्बहुवचनं । तैर्भरमाणा भ्रियमाणा अयंसत नियता अभवन् । किंच हे वायो ते सोमाः शुक्रा अयंसत । अत्यन्तदीप्ता उद्यताः । अतस्तेषां भक्षणायागाहीत्यर्थः ॥
+
+> *he vāyo tvaṃ no 'dhvaramasmatsaṃbandhinaṃ yajñaṃ śatinībhirniyudbhiḥ sahasriṇībhiśca tābhistvadīyairaśvairno 'smadadhvaramupāyāhi | upāgaccha | kimartham | vītaye tvadabhimatakāmāya [?] | āgatya ca havyāni vītaye somādibhirbhakṣaṇārthamadhvaraṃ havyāni copalakṣya teṣāmeva bhakṣaṇāya śatasahasrairaśvairatiśīghramāgacchetyarthaḥ ‖ kiṃcāyaṃ tava bhāgo bhajanīyaḥ soma ṛtviyaḥ prāptakālaḥ pradānāvasaraṃ prāptaḥ | ṛtuśabdena pradānakālo lakṣyate ‖ chandasi ghas | pā. 5-1-106 [?] | siti ca | pā. 1-4-16 [?] | iti padasaṃjñayā bhasaṃjñāyā bādhādorguṇābhāve yaṇ ‖ kiṃca somaḥ sūrya udite sati tasya raśmibhiḥ sacā saha saraśmirbhavati | samānadīptirbhavati | yadvā | taiḥ sahito bhavati | yataḥ sūrya udite sati raśmirbhavati ataḥ prāptakāla ityarthaḥ ‖ kiṃca somā adhvaryubhiścamasādhvaryubhiḥ | teṣāṃ daśatvādbahuvacanaṃ | tairbharamāṇā bhriyamāṇā ayaṃsata niyatā abhavan | kiṃca he vāyo te somāḥ śukrā ayaṃsata | atyantadīptā udyatāḥ | atasteṣāṃ bhakṣaṇāyāgāhītyarthaḥ ‖*
+
+*(Sense: "O Vāyu, come to our sacrifice (*adhvara*) with your horses, with the hundreds (*śatinībhiḥ niyudbhiḥ*) and thousands (*sahasriṇībhiḥ*), for *vīti* — for the satisfaction of your desire [?]; having come, for the eating of the oblations — Soma and the rest — come very quickly with hundreds and thousands of horses, for eating them. Further, this share of yours, the Soma, is *ṛtviyaḥ* — has come to its time, the time for giving. [Here *ṛtu* indicates the time of giving; *ghas* by Vedic usage (Pā. 5-1-106 [as read, [?]]), and *siti ca* (Pā. 1-4-16 [as read]); by the *pada*-term overriding the *bha*-term, in the absence of *guṇa* of *o*, *yaṇ* comes.] Further, the Soma, at sunrise, is *saraśmiḥ* — together with the rays of the Sun: of equal brightness, or accompanied by them; since at sunrise the rays arise, the time has come. And the Soma-juices, borne by the *adhvaryus* — the *camasa*-adhvaryus (the plural because they are ten) — *ayaṃsata*, have been made ready. O Vāyu, those Soma-juices, bright, *ayaṃsata*: raised extremely shining. Therefore come to consume them.")*
+
+### Printed p. 619  (PDF 640)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he vāyo* — O Vāyu; *naḥ* — our; *adhvaram* — to the sacrifice; *śatinībhiḥ* — by hundreds (accompanied); *sahasriṇībhiḥ* — by thousands; *niyudbhiḥ* — with your horses (joined); *vītaye* — for the satisfaction of desire (and fulfilment) [*iṣṭārthapūrti*]; *upa ā yāhi* — come near (having come); *havyāni* — [Soma and other] oblations; *vītaye* — to eat (come quickly); *ayam* — this; *tava* — your; *bhāgaḥ* — share, the Soma-juice; *ṛtviyaḥ* — (for giving) has arrived at the time; *(kiṃca — and, the Soma-juice)*; *sūrye sacā* — when the Sun has risen (with his rays); *saraśmiḥ* — shining equally (and); *somāḥ* — Soma-juices (in the various vessels); *adhvaryubhiḥ* — by the *camasa*-adhvaryus; *bharamāṇāḥ* — carried; *ayaṃsata* — made ready; *(kiṃca) he vāyo* — (and) O Vāyu; *(te somāḥ)* — those Soma-juices; *śukrāḥ* — extremely clear; *ayaṃsata* — are ready.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, with hundreds and thousands of your horses come to our sacrifice for the fulfilment of your desire; come to receive the oblations, Soma and the rest; the time has come for your share to be given; after sunrise the Soma is ready, shining with the rays of the sun; borne by the *camasa*-adhvaryus, [the Soma-juice] (in various vessels) is ready for you; clear [juice] (flowing) is ready.
+
+**Printed English (heading "English Translation"; as printed):** *"Come with hundreds and thousands of your steeds to our sacrifice to partake of (the sacrificial) food; (come), Vayu, to partake of the oblations: this is your reasonable portion, and it is radiant along with the sun; the juices borne by the priests are prepared; the pure juices, Vayu, are prepared."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of horses — [saying] that the radiant Soma-juice is ready.
+
+***adhvaram*** — *adhvara* is the name of the sacrifice: *dhvaratir hiṃsākarmā tatpratiṣedhaḥ* — "as it is devoid of violence, the name *adhvara* is given to the sacrifice": thus the author of the Nirukta explains (Ni. 1-[?], as read "೧-೮" [?]). The same derivation is told in the Śatapatha Brāhmaṇa also:
+
+### Printed p. 620  (PDF 641)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+> तं वा एतमध्वरवन्तं तृचमन्वाह । देवान् ह वै यज्ञेन यजमानांस्तस्मा असुरा दुदूर्षां चक्रुस्ते दुधूर्षन्त इव न शेकुर्हर्वितुं ते पराबभूवुस्तस्माद्यज्ञोऽध्वरो नाम मधूर्षन्न वा [?] … परा भवति यस्यैवं विमुखोऽध्वरवन्तं तृचमन्वाह यावद्वेव सौम्येनाध्वरेणेष्ट्वा जयति तावज्जयति ॥
+
+> *taṃ vā etam adhvaravantaṃ tṛcam anvāha | devān ha vai yajñena yajamānāṃs tasmā asurā dudūrṣāṃ cakruste dudhūrṣanta iva na śekur hartuṃ te parābabhūvus tasmād yajño 'dhvaro nāma madhūrṣann a vā [?] … parā bhavati yasyaivaṃ vimukho 'dhvaravantaṃ tṛcam anvāha yāvad eva saumyenādhvareṇeṣṭvā jayati tāvaj jayati ‖*
+
+(Ai. Brā. 1-[?]-[?], as read "೧-೪-೧-೪೦" [?]; this small-type passage is read from the image and is badly doubtful in several places [?].) Sense, as the Kannada gives it: Once, when the gods began to perform a sacrifice, their enemies the Asuras wished to harm them; but their wish [to harm] was not fulfilled, they failed. Therefore the sacrifice, which prevents harm, acquired the name *adhvara*. Knowing this secret, if one recites the *tṛca* that contains *adhvara*, the efforts of his enemy to harm him fail; whatever benefit is obtained by performing a Soma-sacrifice, the same benefit he obtains. Because of this meaning, the sacrifice has the name [*adhvara*]. Ordinarily this word is used independently as a synonym of *yajña*. Thus:
+
+> अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥
+
+> *agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi | sa id deveṣu gacchati ‖*
+
+(Ṛ. Saṃ. 1-1-4 [as read].) Here the word *adhvara* is an epithet of the word *yajña*: it is clear that it means "a sacrifice that is without violence, and prevents violence". [In the Nirukta the word *adhvara* is also found among the names of *antarikṣa* (Ni. 3-[?], as read "೩-೧೦" [?]).]
+
+> यस्य त्वमग्ने अध्वरं जुजोषो देवो मर्तस्य सुधितं रराणः ।
+
+> *yasya tvam agne adhvaraṃ jujoṣo devo martasya sudhitaṃ rarāṇaḥ |*
+
+(Ṛ. Saṃ. 4-[?]-[?], as read "೪-२-೧೦" [?].) In some such Ṛks, for the word *adhvara*, "*anusahakam annam*" is explained — "unharmed food": it means food that has not been violated (*ahiṃsita*). In the present Ṛk it means *yāga*, "sacrifice"; Vāyu is prayed to come to that sacrifice to drink the Soma.
+
+***śatinībhiḥ sahasriṇībhiḥ niyudbhiḥ*** — "with your horses that are hundreds in number and thousands in number", so the very large number of Vāyu's horses is shown. As in *sahasriṇo rathāsaḥ* (Ṛ. Saṃ. 2-[?]-1, as read "೨-೪೧-೧" [?]) and *vahantu tvā manoyujo yuktāso navatir nava* (4-[?]-[?], as read "೪-೪೮-೪, ೫" [?]) and the like, in many places the great number of the chariots and horses of Vāyu is told, so it is in the present Ṛk too.
+
+***adhvaryubhiḥ*** — *adhvaryur adhvarayur adhvaraṃ yunakty adhvarasya netādhvaraṃ kāmayata iti vā* (Ni. 1-[?], as read "೧-೮" [?]): "he who carries out the sacrifice, or who leads the sacrifice, or who is anxious for the sacrifice", or
+
+### Printed p. 621  (PDF 642)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+…"one who has an eye on the sacrifice (*yajñe śraddhā*)", hence the name *adhvaryu*. Here *adhvaryu* should be taken as "*camasa*-adhvaryus": *teṣāṃ daśatvād bahuvacanam* — "since there are ten of them, the plural"; "since the number of *camasa*-adhvaryus is ten, here there is the plural", the commentator's solution.
+
+> ते द्वो विष्यतीति स यदग्निं जुषन्ते तदेनान्नवत्यथ यद्यः सोमं बिभ्रत उपर्युपरि चरिष्यन्ति … ते द्वो विष्यतीति स यदेनान्सोमं बिभ्रते उपर्युपरि चरन्ति तदेनान्नवति तस्मादध्वर्युः समयाऽतिष्ठ्यान्नातीयादध्वर्युर्हि सोमं बिभर्ति ।
+
+> *te dvo viṣyatīti sa yad agniṃ juṣante tad enān navaty atha yadyaḥ somaṃ bibhrata uparyupari cariṣyanti … te dvo viṣyatīti sa yad enān somaṃ bibhrate uparyupari caranti tad enān navati tasmād adhvaryuḥ samayātiṣṭhyān nātīyād adhvaryur hi somaṃ bibharti |*
+
+(Śa. Brā. [?]-[?]-[?]-[?], as read "೩-೯-೨-೧೦" [?]; the passage is read with great doubt: only its sense is reliable [?].) *Sense:* while the *adhvaryu* carries the Soma and moves round near the *vedi*, the gods, eager for it, sit around; for their satisfaction the Soma-juice has to be carried by the *adhvaryu* — so the duties and the nature of the *camasa*-adhvaryus are shown. The same idea is also told in the present Ṛk: *adhvaryubhiḥ bharamāṇāḥ somāḥ* — "the Soma-juices carried by the adhvaryus (are ready)".
+
+***śukrāḥ*** — *śukraṃ śocater jvalatikarmaṇaḥ* (Ni. 5-[?], as read "೫-೧೧" [?]) — from the root *śuc*, giving the sense "to shine"; an epithet describing the Soma in this context: the purified Soma, extremely radiant, shines.
+
+***ṛtviyaḥ*** — *prāptakālaḥ pradānāvasaraṃ prāptaḥ | ṛtuśabdena pradānakālo lakṣyate* — *ṛtu* has the meaning "time", so here *ṛtviyaḥ* means "the time when Soma is offered". The author of the Nirukta:
+
+> उत ग्ना व्यन्तु देवपत्नीरिन्द्राण्यग्नाय्यश्विनी राट् ।
+> आ रोदसी वरुणानी शृणोतु व्यन्तु देवीर्य ऋतुर्जनीनाम् ॥
+
+> *uta gnā vyantu devapatnīr indrāṇy agnāyy aśvinī rāṭ |*
+> *ā rodasī varuṇānī śṛṇotu vyantu devīr ya ṛtur janīnām ‖*
+
+(Ṛ. Saṃ. 5-46-8 [as read].) — taking this Ṛk, explains the word *ṛtu* as "all the time" [i.e. *sakālam*], indicating the context there: in those fitting times the divine wives enjoy their happiness; so in the present Ṛk also, with *ṛtviyaḥ* it points to the time fit for Soma to be drunk by the deity Vāyu: the time of the morning pressing. As the Soma must be offered to Vāyu before all the other deities, *sūrye sacā saraśmiḥ* — "by the rays of the newly risen sun", that is, "shining along with the rays of the dawn" is the meaning.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛk 3 written through p. 621 (Special Topics, entry *ṛtviyaḥ* and *sūrye sacā saraśmiḥ* done; more entries and the grammar follow); resume p. 622 (PDF 643); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
