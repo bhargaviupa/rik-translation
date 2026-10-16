@@ -1,6 +1,6 @@
 # Rigveda Samhita translation (Kannada → English) — working instructions
 
-Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhāṣya + H. P. Venkata Rao's Kannada explanation) into English, one volume per source PDF. **Volumes 1–8 are complete** (Vol 8 = Sūktas 95–112, the Seventh Adhyāya). **Volume 9 is translated (complete, Sūktas 113–121):** `Rig_Vol9.pdf` (623 PDF pp., Git LFS — `git lfs pull` if it is a 133-byte pointer), Maṇḍala 1 **Sūktas 113–121, the Eighth Adhyāya**; output `Rigveda_Samhita_Vol9_English_Translation.md` (append-only; header + one trailing progress note, which holds the position). Full per-volume history, sūkta page starts and build statuses: **`docs/HISTORY.md`** (read only when needed). Branch: `claude/modest-ptolemy-9efv8s`; commit and push each batch; no PRs unless asked. Volumes 1–7 files are closed (do not edit). Vol 8 may be edited only for numeral corrections.
+Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhāṣya + H. P. Venkata Rao's Kannada explanation) into English, one volume per source PDF. **Volumes 1–9 are complete (Vol 10 has been set up)** (Vol 8 = Sūktas 95–112, the Seventh Adhyāya). **Volume 9 is translated (complete, Sūktas 113–121):** `Rig_Vol9.pdf` (623 PDF pp., Git LFS — `git lfs pull` if it is a 133-byte pointer), Maṇḍala 1 **Sūktas 113–121, the Eighth Adhyāya**; output `Rigveda_Samhita_Vol9_English_Translation.md` (append-only; header + one trailing progress note, which holds the position). Full per-volume history, sūkta page starts and build statuses: **`docs/HISTORY.md`** (read only when needed). Branch: `claude/modest-ptolemy-9efv8s`; commit and push each batch; no PRs unless asked. Volumes 1–7 files are closed (do not edit). Vol 8 may be edited only for numeral corrections.
 
 **Printed page = PDF page − k:** Vol 2–3: 15; Vol 4: 14; Vol 5: 16; Vol 6: 18; Vol 7: 15; Vol 8: 20; **Vol 9: 20** (title page PDF 21 = printed 1; Sūkta 113 on printed p. 2; Pīṭhike PDF 8–20; contents PDF 14–20). Re-check the offset at the start of every volume. Headers: even pages "Maṃ. 1 A. 15 Sū. N", odd pages "Aṣṭaka 1, Adhyāya 8, Varga N" (small Kannada numerals; closing notes "… vargavu mugidudu" are more reliable for varga numbers).
 
@@ -25,3 +25,7 @@ Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhā�
 
 ## Open items (not blockers)
 Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~280 flagged pages remain); 14 first-person phrases for `voice.EXACT`. Vols 1–2: outside Vedic expert review wanted; ~9,000 `[?]` readings overall.
+
+
+## Volume 10 (set up Oct 2026)
+`Rig_Vol10.pdf` (728 PDF pp., Git LFS), Maṇḍala 1 **Sūktas 122–136**, from the First Adhyāya of the Second Aṣṭaka (Sūkta 122 on printed p. 2 = PDF 23; **printed page = PDF − 21**, to be re-checked); output `Rigveda_Samhita_Vol10_English_Translation.md`. Header on even pages reads "Maṃ. 1 A. 18 Sū. N" (Anuvāka 18). Numeral aids: the reader's Google-Docs OCR of printed pp. 4–60 and `publish/tools/numeral_pass/glyphs.py` (prototype; second opinion only — see `GLYPH_TOOL.md`).
