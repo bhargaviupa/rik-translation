@@ -5383,4 +5383,148 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 ---
 
-**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 205 (PDF 226): Ṛks 1–3 complete; Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, Special Topics (*mayobhuvaḥ*) breaks off at the foot of p. 205; resume p. 206 (PDF 227). Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
+### Printed p. 206  (PDF 227)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+*(Special topics, Ṛk 4, continued — **mayobhuvaḥ**:)* …it is used; but in some places it shows the nature of the sacrifice and the sacrificial materials that give happiness. In the present ṛk it is an epithet of the cows that give milk.
+
+***papurim*** — *piparti papurir iti pṛṇāti nigamau vā* [print: "ಪಿಪರ್ತಿ ಪಪುರಿರಿತಿ ಪೃಣಾತಿ ನಿಗಮೌ ವಾ"] *prīṇāti nigamau vā* (Ni. 5-24 [?], as printed "೩-೨೪" or similar — doubtful): the words *piparti* and *papuri* are used in the senses "fills" or "satisfies"; so the author of the Nirukta explains, and, citing
+
+> हविषा जारो आसां पिपर्ति पपुरिर्नरा । पिता कुटस्य चर्षणिः ॥
+
+> *haviṣā jāro āsāṃ piparti papurirnarā | pitā kuṭasya carṣaṇiḥ ‖*
+
+(Ṛ. Saṃ. 1-46-4, as read from the print.) he has explained there the word *papuri* as above. Likewise in
+
+> कथा शृणोति हूयमानमिन्द्रः कथा शृण्वन्नवसामस्य वेद ।
+> का अस्य पूर्वीरुपमातयो ह कथैनमाहुः पपुरिं जरित्रे ॥
+
+> *kathā śṛṇoti hūyamānamindraḥ kathā śṛṇvannavasāmasya veda |*
+> *kā asya pūrvīrupamātayo ha kathainamāhuḥ papuriṃ jaritre ‖*
+
+(Ṛ. Saṃ. 4-23-2 [?], as read; the numerals are small.) — here too *jaritre stotuḥ saṃbandhināṃ kāmānāṃ papuriṃ pūrayitāram enam indram* — "Indra, the one who fills the desires of the praiser" — thus the meaning of *papuri* is shown. As the meaning is "to fill" or "to satisfy", in the present ṛk the construction is "the sacrificer who satisfies the gods with oblations and gifts".
+
+***pṛṇantam*** — this word is recorded among the names of acts of giving (Ni. 3-19, as printed). In this ṛk Sāyaṇa explains it as *pitṝn prīṇayantam* — "him who satisfies the ancestors".
+
+**Vyākaraṇa-prakriyā (Ṛk 4; noted briefly, numbers as read by the OCR).** *kṣaranti* — root *kṣara prasravaṇe*; laṭ third person plural; *nighāta* accent. *sindhavaḥ* — root *syandū prasravaṇe*; *syandeḥ saṃprasāraṇaṃ dhaś ca* (Uṇ. 1-11 as read) gives the suffix *u* with *saṃprasāraṇa* and *dha*; nominative plural. *mayobhuvaḥ* — *mayas* is a word for happiness; when it is the upapada, *kvip* after the root *bhū* with included causative sense; the accent of the final member's own nature. *ījānam* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; in the Veda *kānac* in the *liṭ* sense; since it is *kit*, *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15) gives *saṃprasāraṇa* to the root;
+
+### Printed p. 207  (PDF 228)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+*saṃprasāraṇāc ca* gives *pūrvarūpa*; doubling of the root; *citaḥ* (Pā. 6-1-163) gives the final-acute; accusative singular. *yakṣyamāṇam* — the same root; when *laṭ* has come, *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* [print: "ಲಟಃ ಸದ್ವಾ"] (Pā. 3-3-14) gives *śānac*; *syatāsī lṛluṭoḥ* (Pā. 3-1-33) gives the *sya*-augment; *vraśca-…* gives *ṣa* for the *j*; *ṣaḍhoḥ kaḥ si* gives *ka* for it; with it as cause, *ṣatva* of the *s* of the suffix; *āne muk* gives *muk* to the stem in *a*; the accent of the *sya* remains. *pṛṇantam* — root *pṝ pālanapūraṇayoḥ*; Kryādi; śatṛ in the laṭ sense; *kryādibhyaḥ śnā*; *svādīnāṃ hrasvaḥ* shortens the root (Pā. 7-3-80); *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the *ā* of the verb-suffix; by the statement *ṛvarṇān ṇatvaṃ vācyam*, *ṇatva*; the first-syllable acute of the suffix remains; accusative singular. *papurim* — root *pṝ pālanapūraṇayoḥ*; Juhotyādi; *ādṛgamahanajanaḥ kikinau liṭ ca* (Pā. 3-2-171) gives the suffix *kin*; since *liṭ* is treated [as in force], the root is doubled; *urat* gives *a* for the reduplicative syllable; since a *r* follows, the initial consonant remains; *udoṣṭhyapūrvasya* (Pā. 7-1-102) gives *u* to the member of the stem; *uraṇ raparaḥ* gives *raparatva*; *ñnityādir nityam* gives the first-syllable acute. *śravasyavaḥ* — *śravaḥ ātmana icchanti iti śravasyavaḥ*; *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *kyāc chandasi* (Pā. 3-2-170) gives the suffix *u* after the *kyac*-ending; *ato lopaḥ* elides the *a* of *kyac*; final-acute by the suffix accent; nominative plural. *yanti* — root *iṇ gatau*; laṭ third person plural; *tiṅ-nighāta*. *viśvataḥ* — *pañcamyās tasil* (Pā. 5-3-7) gives *tasil* to the word *viśva* in the ablative sense; *litaḥ* (Pā. 6-1-193) gives the acute before the suffix. ‖ 4 ‖
+
+#### Ṛk 5
+
+### Printed p. 208  (PDF 229)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+**॥ संहितापाठः ॥**
+
+> नाकस्य पृष्ठे अधि तिष्ठति श्रितो यः पृणाति स ह देवेषु गच्छति ।
+> तस्मा आपो घृतमर्षन्ति सिन्धवस्तस्मा इयं दक्षिणा पिन्वते सदा ॥ ५ ॥
+
+> *nākasya pṛṣṭhe adhi tiṣṭhati śrito yaḥ pṛṇāti sa ha deveṣu gacchati |*
+> *tasmā āpo ghṛtamarṣanti sindhavastasmā iyaṃ dakṣiṇā pinvate sadā ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> नाकस्य । पृष्ठे । अधि । तिष्ठति । श्रितः । यः । पृणाति । सः । ह । देवेषु । गच्छति ।
+> तस्मै । आपः । घृतम् । अर्षन्ति । सिन्धवः । तस्मै । इयम् । दक्षिणा । पिन्वते । सदा ॥ ५ ॥
+
+> *nākasya | pṛṣṭhe | adhi | tiṣṭhati | śritaḥ | yaḥ | pṛṇāti | saḥ | ha | deveṣu | gacchati |*
+> *tasmai | āpaḥ | ghṛtam | arṣanti | sindhavaḥ | tasmai | iyam | dakṣiṇā | pinvate | sadā ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> सोमयागप्रशंसाप्रसङ्गेन सामान्यतो दानमेतदादिभिस्तिसृभिः प्रशंसति । यद्वा । सोमस्यैव स्तुतत्वाद्दक्षिणाशब्दस्य योग एव प्रसिद्धत्वाच्च सूक्तपरिसमाप्तेः सोमयाग एव प्रस्तूयते । यः यो मर्त्यः पृणाति हविरादिदानेन देवादीन्प्रीणाति स नाकस्य । कमिति सुखनाम । तद्विरुद्धमकम् । न विद्यते कं दुःखं तत्साधनं पापं वेति नाको द्युलोकः । तथा श्रूयते । न वा अमुं लोकं जग्मुषे किं च नाकमिति [?] । नि. २-१४ [?] । तस्य पृष्ठे उन्नते उपरिदेशे श्रितः सन्नध्यधिकमाकल्पान्तं तिष्ठति । यद्वा । अधि तिष्ठति । अधिष्ठाय प्रमुखो भूत्वा तिष्ठति । न केवलं स्वर्गाश्रयणं किंतु देवेषु मध्ये ह इति प्रसिद्धौ । तस्मै प्रीणयित्रे पुरुषाय सिन्धवः स्यन्दनशीला आपो घृतं तेजोवत्सारमर्षन्ति । गच्छन्ति । रसवत्यो भवन्तीत्यर्थः । किंचेयं भूमिरपि दक्षिणा सस्यादिफलसंपादनेन सती सदा सर्वकालं पिन्वते । सेचयति । तोषयतीत्यर्थः । दातुर्जीवनसाधकान्नोदकानि रुचिराणि समृद्धानि भवन्तीत्यर्थः ॥
+
+> *somayāgapraśaṃsāprasaṅgena sāmānyato dānametadādibhistisṛbhiḥ praśaṃsati | yadvā | somasyaiva stutatvāddakṣiṇāśabdasya yoga eva prasiddhatvācca sūktaparisamāpteḥ somayāga eva prastūyate | yaḥ yo martyaḥ pṛṇāti havirādidānena devādīnprīṇāti sa nākasya | kamiti sukhanāma | tadviruddhamakam | na vidyate kaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyulokaḥ | tathā śrūyate | na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākamiti [?] | ni. 2-14 [?] | tasya pṛṣṭhe unnate uparideśe śritaḥ sannadhyadhikamākalpāntaṃ tiṣṭhati | yadvā | adhi tiṣṭhati | adhiṣṭhāya pramukho bhūtvā tiṣṭhati | na kevalaṃ svargāśrayaṇaṃ kiṃtu deveṣu madhye ha iti prasiddhau | tasmai prīṇayitre puruṣāya sindhavaḥ syandanaśīlā āpo ghṛtaṃ tejovatsāramarṣanti | gacchanti | rasavatyo bhavantītyarthaḥ | kiṃceyaṃ bhūmirapi dakṣiṇā sasyādiphalasaṃpādanena satī sadā sarvakālaṃ pinvate | secayati | toṣayatītyarthaḥ | dāturjīvanasādhakānnodakāni rucirāṇi samṛddhāni bhavantītyarthaḥ ‖*
+
+*(Read from the image; the OCR is garbled in places. The Nirukta citation "2-14" and the Veda quotation "na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākam" are small and I give them as read.)* "By way of praise of the Soma sacrifice, in these three [ṛks] beginning with this, he praises giving in general. Or else, since only the Soma sacrifice has been praised, and since the word *dakṣiṇā* ('fee') is well known only in connection with it, and the sūkta is to be completed, it is the Soma sacrifice itself that is being described. *Yaḥ* — the mortal who *pṛṇāti* — satisfies the gods and others by gifts of oblations and the like, *nākasya* — *kam* is a name of happiness; the opposite is *akam*; *nāka* is the heaven in which there is no *kam* — no sorrow, or no sin that is its means: thus it is heard: 'to the one who has gone to yonder world there is nothing that is not *nāka*' (Ni. 2-14 [?]) — on its back (*pṛṣṭhe*), the high upper region, resting (*śritaḥ*), *adhi tiṣṭhati* — dwells till the end of the age; or *adhi tiṣṭhati* — presides, standing as the foremost. Not only does he gain heaven, but *ha* — it is well known — he goes (*gacchati*) among the gods, that is, himself becomes a god. For that satisfier of the gods, the *sindhavaḥ* — flowing waters — *ghṛtam* — with radiant essence — *arṣanti* — flow, they become full of juice. And, moreover, this earth too, being *dakṣiṇā* ('fee', 'fertile'), by yielding grain and the like, *sadā* — always — *pinvate* — drenches, satisfies: that is, for the giver, the food and waters that support life become lovely and abundant."
+
+### Printed p. 209  (PDF 230)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yaḥ* — which man; *pṛṇāti* — satisfies (the gods and others) with oblations and the like; *saḥ* — that man; *nākasya pṛṣṭhe* — on the high region of the world of heaven; *śritaḥ* — dwelling there; *adhi tiṣṭhati* — resides, [having obtained] pre-eminence for ever; *deveṣu* — among the gods; *gacchati* — goes (joins); *ha* — (this) is well known; *tasmai* — to him (who has satisfied the gods); *sindhavaḥ* — flowing (the nature of flowing); *āpaḥ* — the waters; *ghṛtam* — as juice (with radiant quality); *arṣanti* — go (and become); *tasmai* — to such a one; *iyam* — this earth; *dakṣiṇā* — fertile (in producing grain and the like); *sadā* — always; *pinvate* — gives satisfaction.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** If one satisfies the gods with oblations and the like, that man is honoured in the heaven-world; (not only that) he becomes one among the gods; for such a one the flowing waters become full of essence (radiant); and the earth, by giving grain and other fruits, always gives satisfaction.
+
+**Printed English (as printed):** *He who propitiates (the gods), gives to the gods, and sits at ease upon the summit of heaven : to him the flowing waters bear their essence ; to him this fertile (earth) every yields abundance.* *(sic: "every" for "ever")*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
+
+***nākasya*** — the author of the Nirukta includes the word *nāka* among six "common" (*sādhāraṇa*) names and explains its meaning as common: *sādhāraṇāny uttarāṇi ṣaṭ divaś cādityasya ca* (Ni. 2-13, as printed "೨-೧೩") — the later six are synonyms common to heaven and to the Āditya. Then, showing the derivation of this word: *nāka ādityo bhavati | netā rasānāṃ | netā bhāsāṃ jyotiṣāṃ praṇayaḥ* (Ni. 2-14, as printed) — "the Āditya is *nāka*, the carrier of the juices, the carrier of the lights" — he points out that the word is a synonym of Āditya, the carrier of juices and of light. Then: *atha dyauḥ | kam iti sukhanāma | tatra pratiṣiddhaṃ pratiṣidhyeta* [?] — "*kam* is a name for happiness; the negation of it is *akam*, that is, absence of happiness; the *nāka* is that which is free of sorrow", and, citing the text
+
+> न वा अमुं लोकं जग्मुषे किं च नाकम् ।
+
+> *na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākam |*
+
+(Kāṭhaka Saṃhitā 21-2 [?], as read.) he explains: *na vā amuṃ lokaṃ gatavate kiṃ ca nāsukham; puṇyakṛto hy eva tatra gacchanti* — "to those who have gone to that world there is nothing that is not happiness; only doers of good deeds go there".
+
+### Printed p. 210  (PDF 231)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+Thus the meaning of the word *nāka* is stated. In the Ṛk Saṃhitā this word is used in some places as a synonym of Āditya, in some places as a synonym of heaven.
+
+> त्रिश्चिन्नो अद्य सिन्धुभिः सप्तमातृभिस्त्र आहावास्त्रेधा हविष्कृतम् [?] ।
+> तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितम् ॥
+
+> *triścinno adya sindhubhiḥ saptamātṛbhistra āhāvāstredhā haviṣkṛtam [?] |*
+> *tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitam ‖*
+
+(Ṛ. Saṃ. 1-34-8 [?], as read from the print; the first line is doubtful.)
+
+> ये नाकस्याधि रोचने दिवि देवास आसते । मरुद्भिरग्न आ गहि ॥
+
+> *ye nākasyādhi rocane divi devāsa āsate | marudbhiragna ā gahi ‖*
+
+(Ṛ. Saṃ. 1-19-6, as read from the print.) — in these ṛks it is a synonym of Āditya;
+
+> ते अवर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः ।
+> विष्णुर्यद्धावद्वृषणं मदच्युतं वयो न सीदन्नधि बर्हिषि प्रिये ॥
+
+> *te avardhanta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ |*
+> *viṣṇuryaddhāvadvṛṣaṇaṃ madacyutaṃ vayo na sīdannadhi barhiṣi priye ‖*
+
+(Ṛ. Saṃ. 1-85-7 [?], as read from the print.)
+
+> यज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन् ।
+> ते ह नाकं महिमानः सचन्त यत्र पूर्वे साध्याः सन्ति देवाः ॥
+
+> *yajñena yajñamayajanta devāstāni dharmāṇi prathamānyāsan |*
+> *te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ ‖*
+
+(Ṛ. Saṃ. 1-164-50, as read from the print.) — in these it is a synonym of heaven.
+
+> वृषैव कपिलो भूत्वा यन्नाकमधिरोहति ।
+
+> *vṛṣaiva kapilo bhūtvā yannākamadhirohati |*
+
+(Bṛ. De. 3-86 [?], as read.) — in this Bṛhaddevatā sentence "atmosphere" (*antarikṣa*) is clear.
+
+> इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकम् ॥
+
+> *ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokam ‖*
+
+(Chā. U. 3-10-3, as read from the print "೩-೧೦-೩".) — in this sentence of the Chāndogya Upaniṣad the heaven-world, free from sorrow, is said to be beyond the world of the Āditya. [In the Śatapatha Brāhmaṇa and the Taittirīya Upaniṣad the name *nāka* is well known for the son of Mudgala, a knower of Brahman; there it means "free of sorrow".]
+
+In the present ṛk Sāyaṇa explains *na vidyate akaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyuloka* — "the heaven-world in which there is neither sorrow nor the sin that is its cause". Such a *nākasya pṛṣṭhe unnate upariprade…*
+
+### Printed p. 211  (PDF 232)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+***arṣanti*** — this word, from the root meaning "to go", means "go, reach, join"; in the present ṛk it means "they obtain the state of ripening".
+
+***pinvate*** — *secayati toṣayatīty arthaḥ*: the purport is that, pouring out abundantly the waters that are the means of life of the giver, there is satisfaction for him.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; noted briefly, numbers as read by the OCR).** *nākasya* — *na akam nākam*; *nabhrāṇnapāt…* (Pā. 6-3-75) gives the natural-accent condition to the *nañ*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the accent of the first member, the indeclinable. *tiṣṭhati* — root *ṣṭhā gatinivṛttau*; laṭ third person singular; *nighāta*. *śritaḥ* — root *śriñ sevāyām*; *niṣṭhā* (Pā. 3-2-102) gives *kta*; final-acute by the suffix accent. *pṛṇāti* — root *pṝ pālanapūraṇayoḥ*; Kryādi; laṭ third person singular; since *yaḥ* precedes, *yadvṛttānnityam* (Pā. 8-1-66) gives the *nighāta*; the accent of the verb-suffix remains. *gacchati* — root *gam gatau*; laṭ third person singular; *nighāta*. *arṣanti* — root *ṛ gatau*; leṭ third person plural; *anta* in place of *jhi*; *sibbahulaṃ leṭi* (Pā. 3-1-34) gives *sip*; with it as cause guṇa of the root and *raparatva*; *nighāta*. *dakṣiṇā* — root *dakṣa vṛddhau*; *drudakṣibhyām inan* (Uṇ. 2-50 as read) gives the suffix *inan*; *āṭ kupāñ* [as printed] gives *ṇatva*; *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute. *pinvate* — root *pivi secane*; *idito num dhātoḥ* (Pā. 7-1-58) gives *num*; *vyatyayo bahulam* (Pā. 3-1-85) gives *ātmanepada*; laṭ third person singular; since it follows a non-verb word, the *nighāta*. ‖ 5 ‖
+
+---
+
+**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 211 (PDF 232): Ṛks 1–5 complete (‖ 5 ‖); resume p. 212 (PDF 233) with Ṛk 6 Saṃhitā. Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
