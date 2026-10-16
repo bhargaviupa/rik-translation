@@ -9560,4 +9560,58 @@ The word ***vedhasām*** is used twice. The first *vedhasām* is explained as "a
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 371 (PDF 392): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 Saṃhitā/Pada/bhāṣya done and the Pratipadārtha begun at the foot of p. 371 ("Indra — O Indra; saḥ — …; nṛbhiḥ — with men…"); resume p. 372 (PDF 393). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 and the Ṛk 2 bhāṣya (p. 371); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 372  (PDF 393)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Pratipadārtha of Ṛk 2, continued from p. 371:)* "…*nṛbhiḥ* — with men; being men first, then having obtained divinity [i.e. the Maruts]; *nṛbhiḥ* — with the leaders (in battle), the Maruts; *kāsu cit pṛtanāsu* — in various battles; *bharahūtaye* — with cries of encouragement (calling to battle); *pratūrtaye* — for the very great slaying (of enemies); *dakṣāyyaḥ asi* — you are capable [for encouraging the call, and for slaying the enemies]; or, *nṛbhiḥ* — being prayed to by the sacrificers; *pratūrtaye* — to destroy enemies or sins; *dakṣāyyaḥ asi* — you are capable; *(kiṃ ca* — and); *yaḥ (tvam)* — you who; *śūraiḥ* — with the brave (Maruts or other warriors), *svaḥ* — by yourself; *sanitā* — can give victory in battle or other desired things; *yaḥ (tvam)* — you who; *vipraiḥ* — praised by the wise priests, or endowed with the wise Maruts; *vājam* — food (to those priests); *tarutā* — can give; *tam* — such; *vājinam* — swift; *pṛkṣam* — possessed of food in the form of oblation, Indra; *īśānāsaḥ* — the priests able in prayer; *vājinam* — swift (and possessed of fodder, grass and so on); *atyam* — a horse; *na* — as (people able to) nourish; *iradhanta* — worship (serve)."
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, hear our praise (grant our invocation): you, first men and afterwards gods, are able to destroy the enemies through the encouraging cries made by the Maruts, the leaders of battle; accompanied by the brave (the Maruts or warriors), or yourself, without the help of others, giving victory in battle; prayed to by the wise priests, giving them food; such you, endowed with these qualities, going to sacrifices, giver of food in the form of oblations — the priests skilled in prayer serve, as brave men tend a swift horse with grass and the like.
+
+**Printed English (heading "English Translation"; as printed):** *"Hear our invocation, Indra: you, who in various battles (associated with the Maruts, are animated through their encouragement; (and are able), with the Maruts, to destroy (your foes): (for you are) he, who, (aided) by heroes, are of yourself the giver (of victory); or, (when praised) by the pious, the giver of food, and whom the lords (of prayer) celebrate, as swift-moving and eager (for sacrificial food), like a fleet courser (eager for forage)."* *(The printed parentheses are unbalanced here, as printed.)*
+
+### Printed p. 373  (PDF 394)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+***nṛbhiḥ*** — *manuṣyair eva sadbhiḥ paścāt devatvam āpannair marudbhiḥ*; *nṛbhiḥ — saṅgrāmanayanaśīlaiḥ*: "Indra's help from the Maruts; 'Indra with the Maruts' (Tai. Saṃ. 6-5-5-1 [?], as read; numerals doubtful); 'for the Maruts called him to the contest' (Ait. Br. 3-20 [?])" — thus well known. The word *nara* is recorded among the names of horse (Ni. 2-[?]; as read "೨-೨೭") and among the names of man (Ni. 3-[?], "೩-೭"). So Indra is with the Maruts — the groups of gods who, though they were men, performed the sacrifice and obtained, as its fruit, the state of gods; or, he grows in company of the groups of gods who help him in fighting: so the meaning. That the Maruts help Indra is well known from the Taittirīya Saṃhitā sentence "*indro marudbhiḥ*" and the Aitareya Brāhmaṇa sentence "*maruto hainaṃ vājahuḥ*" [as read: *vāja-*, doubtful].
+
+***pṛtanāsu bharahūtaye pratūrtaye dakṣāyyaḥ*** — *sarvāsu prauḍhāsv api saṅgrāmeṣu bharaṇaviśiṣṭāhvānayuktāya prakṛṣṭahiṃsanāya | yadvā śūro bhava prahara ity evamādi bharaṇayuktāhvānāya śūrāṇāṃ prakṛṣṭavadhāya ca pravardhanaśīlaḥ asi*: one meaning is that in the places where fierce battles go on, Indra is called by the others, "protect us, kill the enemies"; in another sense: "O Indra, be brave, subdue the enemies" — to the call of all the brave soldiers worthy of protection and for the great slaying of the enemies Indra, competent, is by nature one who grows. For *nṛbhiḥ pṛtanāsu* Sāyaṇa gives another meaning: "following the prayer of the sacrificer, Indra is able to subdue enemies and evil-doers": thus Indra's greatness is described.
+
+Following the explanation of the word *indra* given by Yāska, Durgācārya says, "*irādāro 'ndra iti parokṣeṇocyate*" [reading doubtful: [?]]: though Indra does not show his form directly, he is recognized by his work. In all words that name deities, though the several deities are the thing denoted, they remain unseen to those who serve them and accomplish their respective works; and the deities hide their own true forms and greatness: "*parokṣapriyā iva hi devāḥ pratyakṣadviṣaḥ*" (as read) — "the gods are, as it were, fond of the unseen and averse to the seen"; for this reason the gods are not willing to show themselves in their own visible form; the Śruti also says their attachment is greater to the unseen. The wise, knowing this secret of the gods, from the derivations of the words that denote the deities,
+
+### Printed p. 374  (PDF 395)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+learn well the nature, qualities, greatness and works of the several deities, serve them, meditate on them, and by identification with them accomplish their respective desires. From this, all deities have both an inner (*ādhyātmika*) and a divine (*ādhidaivata*) form; Yāska describes how these become manifest to the worshippers of the several deities. Indra too, being very powerful in this matter, performs protection and the like: so his nature and greatness are described.
+
+***yaḥ śūraiḥ svaḥ sanitā tarutā*** — "Indra, accompanied by the heroic Maruts or by other soldiers, accomplishes his desire, either himself in battle or in some other way. Though there may be much help to assist him, he does not depend on it but, by his greatness, can accomplish the works alone": so the meaning is stated.
+
+***vipraiḥ vājaṃ tarutā*** — *medhāvibhir ṛtvigbhiḥ stutaḥ sann tebhyo 'nnasya dātāsi | vipraiḥ marudbhiḥ iti sambandhaḥ*: the word *vipra* is recorded among the names of the wise (Ni. 3-19 [?]). By repeating the word *vipraiḥ* he gives one meaning "by the wise priests" and another "by the Maruts": Indra, accompanied by the Marut gods and praised by the priests, gives food to the priests: so it is described.
+
+***pṛkṣaṃ havirlakṣaṇānnavantam indram*** — the word *pṛkṣa* is recorded among the names of food (Ni. 2-[?], "೨-೯"); used as an epithet of Indra: "Indra is the possessor of food in the form of oblations."
+
+***atyaṃ na*** — *aśvam iva*: the word *atya* is recorded among the names of horse (Ni. 1-[?]; as read "೧-೨೨"). The word *na* is recorded among the particles of comparison; in "*nendraṃ devam amaṃsata*" (Ṛ. Saṃ. 3 [?], numerals unreadable) it is used in the sense of negation, and in —
+
+> हृत्सु पीतासो युध्यन्ते दुर्मदासो न सुरायाम् ।
+> ऊधर्न नग्ना जरन्ते ॥
+
+> *hṛtsu pītāso yudhyante durmadāso na surāyām |*
+> *ūdhar na nagnā jarante ‖*
+
+(Ṛ. Saṃ. 8-2-12, as printed "೮-೨-೧೨".) in the sense of comparison, as Yāska explains; so in *atyaṃ na* the word *na* is a particle of comparison: "like a horse".
+
+***vājinaṃ pṛkṣam atyaṃ na*** — *vejanavantaṃ ghāsādyannavantam aśvam iva*: this sentence is used as an illustration (*upamāna-vākya*) for the sentence *vājinaṃ pṛkṣam īśānāsaḥ*: as people in the world nourish a swift horse by giving it palatable grass, so the priests able to serve Indra, who moves with food in the form of oblation, serve him: so it is compared. Since this usage is in the Veda, there is no room for the charge that it is a base comparison.
+
+### Printed p. 375  (PDF 396)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; numbers as printed).** *śrudhi* — root *śru śravaṇe*; *loṭ* second person singular; the *hi* by *śruśṛṇupṛkṛvṛbhyaś chandasi* (Pā. 6-4-102) becomes *dhi*; by the Vedic *luk* the *śnu*-suffix is dropped; *tiṅ-nighāta* since it follows a finite word. *sma* — *nipātasya ca* (Pā. 6-3-136) gives the long vowel in the Saṃhitā. *dakṣāyyaḥ* — root *dakṣa vṛddhau*; Uṇādi *āyyac* (Uṇ. 3-[?]); the acute on the first syllable of the suffix. *bharahūtaye* — *bharo hūtir yasyāṃ sā bharahūtiḥ*; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member; dative singular. *pratūrtaye* — root *turvī hiṃsāyām*; *striyāṃ ktin* gives *ktin*; *upadhāyāś ca* (Pā. 7-1-101) lengthens *u*; where *lopo vyor vali* would drop the *v*, *rāllopaḥ* (Pā. 6-4-21) prevents it; *tāddau ca niti* (Pā. 6-2-50) gives the prefix (*pra*) its natural accent. *śūraiḥ* — *śū* is a sautra root; root *śū gatau*; *kuśīsyamīnāṃ…* (Uṇ. 2-[?]) gives *ran*, lengthening; since *n*-marked the acute on the first syllable. *svaḥ* — *svar* becomes *svarit* (Phiṭ-sūtra 4 [as read]). *sanitā* — root *ṣaṇa sambhaktau*; *tṛn* in the agent sense, with the augment *iṭ*; the acute on the first syllable. *tarutā* — root *tṝ plavanataraṇayoḥ*; *tṛn* in the agent sense, *grasitaskabhita…* (Pā. 6-2-[?]) gives the irregular form *tarutṛ*. *īśānāsaḥ* — root *īśa aiśvarye*; *śānac* in the present sense; *citaḥ* (Pā. 6-1-163) gives the acute on the last syllable; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives the augment *asuk*.
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 375 (PDF 396): Ṛk 1 complete; Ṛk 2 complete except the last entries of its grammar page (the page-375 list ends at *īśānāsaḥ*; the remainder, if any, and ‖ 2 ‖ are on p. 376); resume p. 376 (PDF 397). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 and the Ṛk 2 bhāṣya (p. 371) and Special Topics (p. 373); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
