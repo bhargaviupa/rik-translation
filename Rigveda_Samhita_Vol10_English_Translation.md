@@ -9396,4 +9396,70 @@ Here ends the 128th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūktas 127 and 128 complete (printed pp. 249–364). Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19, third Sūkta; printed pp. 364–416) begun: heading and the Sanskrit/Kannada introduction at the foot of p. 364 done; resume at head of p. 365 (PDF 386) with the Sūkta table (devatā/chandas/varga) and Ṛk 1. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357; OCR reference-number lines added for pp. 105–364.
+### Printed p. 365  (PDF 386)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 16, 17 [as read: "೧೬, ೧೭"].)*
+
+**ಸೂಕ್ತ—೧೨೯ — Sūkta 129.** *Maṇḍala 1 ‖ Anuvāka 19 ‖ Sūkta 129 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Varga 16, 17 ‖ Number of ṛks in the Sūkta: 11 ‖ Ṛṣi: Paruccheṣa Daivodāsi ‖ Devatā: Ṛks 1–5 and 7–11 Indra; Ṛk 6 Indu (Soma) ‖ Chandas: Ṛks 1–7 and 10 Atyaṣṭi; Ṛks 8, 9 Atiśakvarī; Ṛk 11 Aṣṭi.* *(Numerals of the ṛk-groups as printed; "೧-೭, ೧೦" for the Atyaṣṭi ṛks.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> यं त्वं रथमिन्द्र मेधसातयेऽपाका सन्तमिषिर प्रणयसि प्रानवद्य नयसि ।
+> सद्यश्चित्तमभिष्टये करो वशश्च वाजिनम् ।
+> सास्माकमनवद्य तूतुजान वेधसामिमां वाचं न वेधसाम् ॥ १ ॥
+
+> *yaṃ tvaṃ rathamindra medhasātaye 'pākā santamiṣira praṇayasi prānavadya nayasi |*
+> *sadyaścittamabhiṣṭaye karo vaśaśca vājinam |*
+> *sāsmākamanavadya tūtujāna vedhasāmimāṃ vācaṃ na vedhasām ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> यम् । त्वम् । रथम् । इन्द्र । मेधऽसातये । अपाका । सन्तम् । इषिर । प्रऽनयसि । प्र । अनवद्य । नयसि ।
+> सद्यः । चित् । तम् । अभिष्टये । करः । वशः । च । वाजिनम् ।
+> सः । अस्माकम् । अनवद्य । तूतुजान । वेधसाम् । इमाम् । वाचम् । न । वेधसाम् ॥ १ ॥
+
+> *yam | tvam | ratham | indra | medha 'sātaye | apākā | santam | iṣira | pra 'nayasi | pra | anavadya | nayasi |*
+> *sadyaḥ | cit | tam | abhiṣṭaye | karaḥ | vaśaḥ | ca | vājinam |*
+> *saḥ | asmākam | anavadya | tūtujāna | vedhasām | imām | vācam | na | vedhasām ‖ 1 ‖*
+
+*(Read from the image. The Saṃhitā prints *prānavadya* with a long *ā*; the Pada divides *pra-nayasi*, *pra*, *anavadya*, *nayasi*; and *medha-sātaye*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्रेषिर यज्ञगमनशील त्वं मेधसातये यज्ञस्य दानाय लाभाय वा यं यजमानं प्रति रथं प्रणयसि प्रापयसि ॥ द्विकर्मकोऽयम् ॥ कीदृशं यजमानम् । अपाका अपाकमनल्पप्रज्ञयाधिकारवन्तम् । पाकः पक्वो भवतीति यास्कः ।
+
+> *he indreṣira yajñagamanaśīla tvaṃ medhasātaye yajñasya dānāya lābhāya vā yaṃ yajamānaṃ prati rathaṃ praṇayasi prāpayasi ‖ dvikarmako 'yam ‖ kīdṛśaṃ yajamānam | apākā apākamanalpaprajñayādhikāravantam | pākaḥ pakvo bhavatīti yāskaḥ |*
+
+*(Read from the image; the bhāṣya continues at the head of p. 366. "*indreṣira*" is printed as one word, i.e. *he indra iṣira*.)*
+
+### Printed p. 366  (PDF 387)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+> नि. ३-१२ [?] । अत एव सन्तं पण्डितं सन्तम् । किंच हे अनवद्यानिन्दित यं यजमानं धनविद्यादिना प्रणयसि प्रकृष्टं नयसि । तं यजमानं सद्यश्चित् तदानीमेव तदनुग्रहकाल एवाभिष्टये आभिमुख्येन यागायाभिमतप्राप्तये वा ॥ अभिपूर्वादिषेः क्रिन् । शकन्ध्वादित्वात्पररूपत्वम् [?] । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् ॥ करः । समर्थं करोषि । लेटि व्यत्ययेन शप् ॥ एवं कृत्वा च वाजिनं हविर्लक्षणमन्नं तद्वन्तं वा वशः । कामयसे च । वष्टेर्लेट्यडागमः । तिङः परत्वान्निघातः ॥ यजमानेनाहूतः सन् शीघ्रमेवागत्य हविः स्वीकृत्य यागं साधु निर्वर्त्य तं चाभिमतफलेन संयोज्य पुनर्हविः करोषीत्यर्थः । हे इन्द्रानवद्यानिन्दित सर्वैः स्तूयमान तूतुजानात्मानमनुग्रहीतुं त्वरमाण ॥ तुजेः प्रेरणार्थात्कानच् । तुजादीनां दीर्घोऽभ्यासस्येत्यभ्यासस्य दीर्घत्वम् ॥ स त्वम् ॥ सोचि लोपे चेदिति संहितायां सोर्लोपः ॥ वेधसां विविधफलकर्तॄणां मध्ये श्रेष्ठतया वेधसां मेधाविनामस्माकं सम्बन्धि हविः स्वीकुर्वित्यर्थः । तत्र दृष्टान्तः । इमां वाचं नास्मदीयां स्तुतिरूपां वाचमिव । स्तुतिं यथा स्वीकरोषि तथा हविरपीत्यर्थः ॥
+
+> *ni. 3-12 [?] | ata eva santaṃ paṇḍitaṃ santam | kiṃca he anavadyānindita yaṃ yajamānaṃ dhanavidyādinā praṇayasi prakṛṣṭaṃ nayasi | taṃ yajamānaṃ sadyaścit tadānīmeva tadanugrahakāla evābhiṣṭaye ābhimukhyena yāgāyābhimataprāptaye vā ‖ abhipūrvādiṣeḥ krin | śakandhvāditvātpararūpatvam [?] | gatiranantara iti gateḥ prakṛtisvaratvam ‖ karaḥ | samarthaṃ karoṣi | leṭi vyatyayena śap ‖ evaṃ kṛtvā ca vājinaṃ havirlakṣaṇamannaṃ tadvantaṃ vā vaśaḥ | kāmayase ca | vaṣṭerleṭyaḍāgamaḥ | tiṅaḥ paratvānnighātaḥ ‖ yajamānenāhūtaḥ san śīghramevāgatya haviḥ svīkṛtya yāgaṃ sādhu nirvartya taṃ cābhimataphalena saṃyojya punarhaviḥ karoṣītyarthaḥ | he indrānavadyānindita sarvaiḥ stūyamāna tūtujānātmānamanugrahītuṃ tvaramāṇa ‖ tujeḥ preraṇārthātkānac | tujādīnāṃ dīrgho 'bhyāsasyetyabhyāsasya dīrghatvam ‖ sa tvam ‖ soci lope cediti saṃhitāyāṃ sorlopaḥ ‖ vedhasāṃ vividhaphalakartṝṇāṃ madhye śreṣṭhatayā vedhasāṃ medhāvināmasmākaṃ sambandhi haviḥ svīkurvityarthaḥ | tatra dṛṣṭāntaḥ | imāṃ vācaṃ nāsmadīyāṃ stutirūpāṃ vācamiva | stutiṃ yathā svīkaroṣi tathā havirapītyarthaḥ ‖*
+
+*(Read from the image; the Nirukta reference "३-१२" at the head is small and doubtful [?]; the grammar tail is characterized, not completed: *abhi + iṣ* with *kri*; the *pararūpa* by *śakandhvādi* [doubtful]; *tuj* with *kānac* and lengthening of the reduplicative; *so 'ci lope ced* — the loss of *sa*.)* Sense: "O Indra, *iṣira* — quick-going to the sacrifices — for the giving or obtaining of the sacrifice (*medhasātaye*) you drive your chariot to the sacrificer, who is *apākā* — of not small, i.e. mature, wisdom and fitness — (*pāka* = ripe, Yāska); therefore *santam* — learned; and, O blameless one, the sacrificer whom you *pra-nayasi*, lead forward with wealth and learning, him you at once (*sadyaś cit*), at the very time of favouring him, *abhiṣṭaye* — turning toward him, for the sacrifice or for the attainment of the desired; *karaḥ* — you make capable (*laṭ* by *vyatyaya*); having done so, you desire (*vaśaḥ*) the oblation-food or the one who has it. Called by the sacrificer, you come quickly, accept the oblation, complete the sacrifice well, unite him with the desired fruit, and again make an oblation… O blameless, praised by all, *tūtujāna* — hastening to favour us: you, as the best among the makers of various fruits (*vedhasām*), accept the oblation of us the wise, as you accept this our speech in praise."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he indra* — O Indra; *iṣira* — whose nature is to go to sacrifices; *tvam* — you; *medhasātaye* — for the giving (obtaining) of the sacrifice; *apākā* — of mature knowledge, qualified; *santam* — wise; *yam* — whichever sacrificer; *ratham* — the chariot; *pra nayasi* — you drive (to him); *he anavadya* — O faultless (praised by all); *(yam* — whom); *pra nayasi* — you lead forward (with wealth and learning); *tam* — that sacrificer; *cit* — at once; *abhiṣṭaye* — to turn toward the sacrifice (for the attainment of the desired); *karaḥ* — you make able; *vājinam* — the food in the form of an oblation; *vaśaḥ ca* — you desire and desire; *anavadya* — O faultless; *tūtujāna* — eager to favour us; *saḥ* — you; *vedhasām* — (among) makers of various fruits (as best); *vedhasām* — of the wise; *asmākam* — our (oblation); *imām vācaṃ na* — as this praise; *(svīkuru* — accept).
+
+### Printed p. 367  (PDF 388)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(its first lines are at the foot of p. 366, the end on p. 367).* O Indra, whose nature is to go to sacrifices: to the house of whichever sacrificer, mature in knowledge and learned, you drive your chariot; O faultless Indra, whomever you lead forward with wealth and learning — make that man at once able to obtain the fruit he desires, intent on the sacrifice; and you, faultless one, eager to favour me, accept our oblations, as you accept my praise, being the best among the givers of various fruits.
+
+**Printed English (heading "English Translation"; as printed):** *"Indra, frequenter of sacrifices, quickly enable him to attain his desires, to whom you repair in your car to receive the oblation; and for whom, as he is mature (in understanding) and devout, you who are without fault, entertain regard. Accept his offering, for you who are without fault, are prompt to favour us (among) the pious (offerers of oblations), as (you accept) this our praise."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***medhasātaye*** — *yajñasya dānāya lābhāya vā*: since the Niruktakāra gives the word *medha* the sense "sacrifice" (Ni. 3-19 [?], as read "೩-೧೯"), Sāyaṇa follows the same meaning: Indra drives his chariot to the sacrificial hall in order to complete the sacrificer's sacrifice, or to receive the oblations himself.
+
+The Niruktakāra explains the word *indra* in many ways: *indra irāṃ dṛṇātīti vā* — "because he splits [the cloud and] sends rain, he makes the seeds of rice and the like sprout and shoot"; *irāṃ dadātīti vā* — "because he sends rain he gives food"; *irāṃ dadhātīti vā* — "he gives or holds food for creatures"; *irāṃ dhārayate, dārayate iti vā* (the sense is as above); *indave dravatīti vā* — "he hastens to the drinking of Soma"; *indau ramata iti vā* — "he delights in the drinking of Soma"; *indhe bhūtānīti vā* — "he kindles creatures", as said in the Brāhmaṇa sentence, "*tad yad enaṃ prāṇaiḥ samaindhaṃs tad indrasya indratvam iti vijñāyate*" ("because the gods kindled him with the vital breaths, that is the Indra-ness of Indra") — he is within creatures in the spiritual form, makes them brilliant and causes them to grow, or is the one made brilliant by the breaths. The Niruktakāra then gives other views: "*idaṃ karaṇād ity āgrāyaṇaḥ*" — the teacher Āgrāyaṇa says that he is Indra because he makes all this; "*idaṃ darśanād ity aupamanyavaḥ*" — Aupamanyava, the ṛṣi, says that he is Indra because he looks upon all this to protect it; "*indater aiśvaryakarmaṇaḥ*" — from *ind* in the sense "to be lord"; and "*indraḥ śatrūṇāṃ dārayitā vā drāvayitā vā ādārayitā*" — "Indra is the one who splits the enemies, or makes them run, or tears them apart". *(Read from the image; the Sanskrit of these Nirukta passages is in small Kannada type and is given as read, doubtful in places: [?]; the passage continues on p. 368.)*
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 367 (PDF 388): Ṛk 1 Saṃhitā…English done; Special Topics begun (the *medhasātaye* / *indra* Nirukta etymologies run on to p. 368); resume p. 368 (PDF 389). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad; crop 401+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
