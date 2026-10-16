@@ -14141,4 +14141,72 @@ In the second sense, in the Agni-form too: for the Vāyu deity in the sacrificia
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 590 (Special Topics start; *parāvati*, *citrā bhadrā vastrā* done); resume p. 591, PDF 612; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 591  (PDF 612)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Continuing the entry on the flames:)*
+
+> काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा ।
+> स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥
+
+> *kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā |*
+> *sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*
+
+(Muṇḍakopaniṣad 1-2-4 [as read].) "[The flames of the fire are:] black-coloured, terrible in form, extremely red-brown in colour, of the colour of smoke, shining, everywhere gleaming, divine": because of the colour of the flames of Agni, all such flames of every colour adorn Vāyu, as garments do; this is the purport.
+
+***bhadrā*** — *kalyāṇāni*; "that which causes auspiciousness" is the meaning. *Bhadraṃ bhagena vyākhyātam | bhajanīyaṃ bhūtānām abhidravaṇīyaṃ bhavaty amayam ayatīti vā bhājanavad vā* (Ni. 4-[?], as read "೪-೯" [?]). The word *bhadra* is used in the sense of "making fortunate" or "auspicious". Explained more fully: [it is used in the senses] that which is fit for enjoyment, that which beings eagerly desire, or that which yields pleasure; or that which is fit for a person of dignity, a vessel-like [receptacle]. The author of the Nirukta, in explaining this word, has given its sense in agreement with the context by the example of a passage from the Śruti:
+
+> सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।
+> अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
+
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata |*
+> *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ‖*
+
+(Ṛ. Saṃ. 10-71-2 [as read].) It was explained that the word *bhadra* here has an extensive meaning, showing prosperity, auspiciousness, happiness. Likewise in the present Ṛk, if explained in connexion with the glory of Uṣas in the *antarikṣa*, it is the mass of radiance that attracts all, is full of beauty, and gives happiness; if in connexion with the flames of fire, it is a mass of radiance that is auspicious and brings happiness: this is the purport.
+
+***navyeṣu*** — *nūtaneṣu; stūyamāneṣu*: "new or praiseworthy"; in the rays; for the rays of Uṣas come new at each rising, they are new. Or, the word *nauti* is found among the names of "worship" (*arcati-karman*) [Ni. 3-[?]], and since *navya* is derived from it, it means "worthy of praise, to be praised".
+
+> व्यूर्णोति हृदा मतिं नव्यो जायतामृतं विद्मा मे अस्य रोदसी ॥
+
+> *vy ūrṇoti hṛdā matiṃ navyo jāyatām ṛtaṃ vidmā me asya rodasī ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೦೫-೧೫" [?]; the quotation is partly doubtful [?].)
+
+### Printed p. 592  (PDF 613)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+*(Continuing:)* In this [Ṛk] the poet prays to that Varuṇa with a sincere praise. Varuṇa, the object of the praise, is to help us: so *navya* is explained as "worthy of praise". Likewise in the present Ṛk too, it means the rays that are praiseworthy.
+
+***sabardughā*** — *sabar iti amṛtanāma | tasya dogdhrī* — "the cow that milks nectar" is the meaning.
+
+> धेनुं सबर्दुघां चक्रुरमृतं सबरुच्यते ।
+
+> *dhenuṃ sabardughāṃ cakrur amṛtaṃ sabar ucyate |*
+
+(Bṛhaddevatā 3-[?], as read "೩-೯೫" [?].) *Sabar* is nectar. Since the cow was made to give milk of the nature of nectar, *sabardughā* is the famous *mādhyamikā vāk* (middle-region speech) of the form of nectar-wealth. As an example:
+
+> त्वे धेनुः सुदुघा जातवेदोऽसश्चतेव समना सबर्धुक् ।
+> त्वं नृभिर्दक्षिणावद्भिरग्ने सुमित्रेभिरिध्यसे देवयद्भिः ॥
+
+> *tve dhenuḥ sudughā jātavedo 'saścateva samanā sabardhuk |*
+> *tvaṃ nṛbhir dakṣiṇāvadbhir agne sumitrebhir idhyase devayadbhiḥ ‖*
+
+(Ṛ. Saṃ. 10-69-[?], as read "೧೦-೬೯-೭" [?].) In this it means the one who milks the nectar in the lightning-form Agni, [a cow] in the form of a cow, i.e. the *mādhyamikā vāk*. And likewise:
+
+> आ सखायः सबर्दुघां धेनुमजध्वमुप नव्यसा वचः ।
+> सृजध्वमनपस्फुराम् ॥
+
+> *ā sakhāyaḥ sabardughāṃ dhenum ajadhvam upa navyasā vacaḥ |*
+> *sṛjadhvam anapasphurām ‖*
+
+(Ṛ. Saṃ. 6-48-11 [as read].) In this the author of the Nirukta explains: *marutāṃ mātā pṛśnyākhyā mādhyamikā vāg dhenuḥ | marujjananahetubhūtasya payaso dogdhrīṃ dhenuṃ pṛśnim* — "the mother of the Maruts, called Pṛśni, the *mādhyamikā vāc*, is the *dhenu*; the cow Pṛśni, who is the milker of the milk that is the cause of the birth of the Maruts": the mother of the Maruts, Pṛśni, is the *mādhyamikā vāc*, and the cow that gives nectar-milk. Not only that, but in the present Ṛk also it is said of Vāyu that *marutaḥ ajanayaḥ*, "you created the Maruts"; therefore here too the *sabardughā dhenuḥ* (the cow of nectar-milk), as cited above in the Ṛks, is the Agni-form lightning-cow, and the Pṛśni-cow, and the nectar-cow described here: it cannot be wrong to say that they are one.
+
+By the sentence *vakṣaṇābhyaḥ marutaḥ ajanayaḥ*, too, the above meaning can be established. The scholar Max Müller explains that *vakṣaṇābhyaḥ* is connected with *dhenuḥ*:
+
+"*It would be better if we could refer* वक्षणाभ्यः [*vakṣaṇābhyaḥ*] *to* धेनुः [*dhenuḥ*], *the cow, the mother of the Maruts, whole Dyaus is their father. Here, however, Vayu is conceived as their father, and Dyaus as their mother.*" [Vedic Hymns II. p. 448.]
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 592 (Special Topics: *vakṣaṇābhyaḥ* with Max Müller's note done; more entries and grammar follow); resume p. 593, PDF 614; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
