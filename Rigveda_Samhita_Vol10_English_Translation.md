@@ -11596,4 +11596,144 @@ The word *dyumna* is recorded among the names of wealth (Ni. 2-[?]; as read "೨
 
 ---
 
-**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 472 (PDF 493): Ṛk 1 complete except the end of its grammar page (entries to *savanāni* written; remaining entries and ‖ 1 ‖ on p. 473); resume p. 473 (PDF 494), then Ṛk 2. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 bhāṣya p. 468 and the Nirukta/Durga/Śruti quotations pp. 470–471; slip in the Ṛk 1 Saṃhitā line 1 "anamnatendrāya" is as printed); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 473  (PDF 494)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+*(Grammar of Ṛk 1, concluded; numbers as printed.)* *mānuṣā* — *manuṣyasya imāni mānuṣāṇi*; the suffix *aṇ* in the sense of relation; acute on the last syllable by the suffix; in the neuter plural *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*. *rātāni* — root *rā ādāne*; *kta*; accent by the suffix. *santu* — root *as bhuvi*; *loṭ* third person plural; *tiṅ-nighāta*. ‖ 1 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> विश्वेषु हि त्वा सवनेषु तुञ्जते समानमेकं वृषमण्यवः ।
+> पृथक् स्वः सनिष्यवः पृथक् ।
+> तं त्वा नावं न पर्षणिं शूषस्य धुरि धीमहि ।
+> इन्द्रं न यज्ञैश्चितयन्त आयवः स्तोमेभिरिन्द्रमायवः ॥ २ ॥
+
+> *viśveṣu hi tvā savaneṣu tuñjate samānamekaṃ vṛṣamaṇyavaḥ |*
+> *pṛthak svaḥ saniṣyavaḥ pṛthak |*
+> *taṃ tvā nāvaṃ na parṣaṇiṃ śūṣasya dhuri dhīmahi |*
+> *indraṃ na yajñaiścitayanta āyavaḥ stomebhirindramāyavaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वेषु । हि । त्वा । सवनेषु । तुञ्जते । समानम् । एकम् । वृषऽमन्यवः । पृथक् ।
+> स्वः । सनिष्यवः । पृथक् ।
+> तम् । त्वा । नावम् । न । पर्षणिम् । शूषस्य । धुरि । धीमहि ।
+> इन्द्रम् । न । यज्ञैः । चितयन्तः । आयवः । स्तोमेभिः । इन्द्रम् । आयवः ॥ २ ॥
+
+> *viśveṣu | hi | tvā | savaneṣu | tuñjate | samānam | ekam | vṛṣa 'manyavaḥ | pṛthak |*
+> *svaḥ | saniṣyavaḥ | pṛthak |*
+> *tam | tvā | nāvam | na | parṣaṇim | śūṣasya | dhuri | dhīmahi |*
+> *indram | na | yajñaiḥ | citayantaḥ | āyavaḥ | stomebhiḥ | indram | āyavaḥ ‖ 2 ‖*
+
+*(Read from the image: the Pada gives *vṛṣa-manyavaḥ*, *svar iti svaḥ*, *sanisyavaḥ*; the Saṃhitā's first line prints "*tuñjate samānam ekaṃ vṛṣamaṇyavaḥ*", and in the Pada "*vṛṣamanyavaḥ*" — the Saṃhitā spelling with *ṇ* is as printed.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, doubtful places [?]).*
+
+> हे इन्द्र त्वा त्वामेकमेकमेव सन्तं विश्वेषु सर्वेषु सवनेषु तद्वत्सु स्वैः [?] काहाहीनसत्ररूपेषु सर्वेषु सोमयागेषु यजमानास्तुञ्जते । त्वरयन्ति । हविरादीनि ददते । कीदृशं त्वाम् । समानं सर्वेषामेकरूपम् । कीदृशा यजमानाः । वृषमण्यवो वृषमन्यवः । अभिमतवर्षणाय त्वामेव मन्यमानाः । पृथग्भिन्नरूपैः [?] । पृथगेव त्वरयन्ति । पृथक् प्रत्येकं तत्तद्यागेषु हविरादीनि दद्युः । तुञ्जतिर्दानार्थः । शिक्षति तुञ्जत इति तन्नामसु पाठात् । तं तादृशं त्वा त्वां शूषस्य बलस्य सेनारूपस्य धुरि वहने तज्जयाय धीमहि । स्थापयामः । यद्वा । शूषस्य सुखस्य । शरीरबलस्य [?] धुरि धीमहि । शूषमिति बलनाम । शूषं सह इति तन्नामसु पाठात् । तत्र दृष्टान्तः । पर्षणिं नावं न पारस्य सम्भक्त्रीं पूरयित्रीं वा फलस्य नावमिव । तां यथा भारवहने स्थापयन्ति । पारतीरं कर्मसमाप्तौ [?] । छन्दसि वनसनेति सनेरिन्प्रत्ययः । पृषोदरादित्वाद् [?] । पिपर्तेर्वौणादिकः सनिप्रत्ययो वा ॥ कीदृशा वयम् । आयवो मनुष्या यजमाना यज्ञैः साधनैरिन्द्रं न चितयन्तः परमेश्वरमिव त्वां चेतयन्तः । परमेश्वरबुद्ध्या भावयन्त इत्यर्थः । यद्वा । नशब्द उपमार्थः । इन्द्रमेव त्वां जानन्तः । तथा स्तोमेभिः स्तोत्रैरिन्द्रमिन्द्रमेवायवो गच्छन्तो वयं धीमहि ॥ दधातेर्लिङि [?] छान्दसः शपो लुक् ॥
+
+> *he indra tvā tvāmekamekameva santaṃ viśveṣu sarveṣu savaneṣu tadvatsu svaiḥ [?] kāhāhīnasatrarūpeṣu sarveṣu somayāgeṣu yajamānāstuñjate | tvarayanti | havirādīni dadate | kīdṛśaṃ tvām | samānaṃ sarveṣāmekarūpam | kīdṛśā yajamānāḥ | vṛṣamaṇyavo vṛṣamanyavaḥ | abhimatavarṣaṇāya tvāmeva manyamānāḥ | pṛthagbhinnarūpaiḥ [?] | pṛthageva tvarayanti | pṛthak pratyekaṃ tattadyāgeṣu havirādīni dadyuḥ | tuñjatirdānārthaḥ | śikṣati tuñjata iti tannāmasu pāṭhāt | taṃ tādṛśaṃ tvā tvāṃ śūṣasya balasya senārūpasya dhuri vahane tajjayāya dhīmahi | sthāpayāmaḥ | yadvā | śūṣasya sukhasya | śarīrabalasya [?] dhuri dhīmahi | śūṣamiti balanāma | śūṣaṃ saha iti tannāmasu pāṭhāt | tatra dṛṣṭāntaḥ | parṣaṇiṃ nāvaṃ na pārasya sambhaktrīṃ pūrayitrīṃ vā phalasya nāvamiva | tāṃ yathā bhāravahane sthāpayanti | pāratīraṃ karmasamāptau [?] | chandasi vanasaneti sanerinpratyayaḥ | pṛṣodarāditvād [?] | pipartervauṇādikaḥ sanipratyayo vā ‖ kīdṛśā vayam | āyavo manuṣyā yajamānā yajñaiḥ sādhanairindraṃ na citayantaḥ parameśvaramiva tvāṃ cetayantaḥ | parameśvarabuddhyā bhāvayanta ityarthaḥ | yadvā | naśabda upamārthaḥ | indrameva tvāṃ jānantaḥ | tathā stomebhiḥ stotrairindramindramevāyavo gacchanto vayaṃ dhīmahi ‖ dadhāterliṅi [?] chāndasaḥ śapo luk ‖*
+
+*(Sense: "O Indra, in all pressings (*savaneṣu*) — the Soma sacrifices of all kinds, the one-day, the several-day, the long sessions — the sacrificers, regarding you alone, *samānam ekam* — the same for all, of one form — urge (*tuñjate*) and give oblations; they are *vṛṣamanyavaḥ*, thinking of you as the showerer of the desired; *pṛthak* — each separately, in their own several sacrifices, giving oblations (*tuñj* is a verb of giving: 'śikṣati tuñjate' in the lists of its names); *svaḥ sanisyavaḥ* — each desiring heaven. Such as you are we place (*dhīmahi*) at the yoke of *śūṣa* — strength, in the form of an army — for victory over it; or *śūṣa* is happiness or bodily strength (the word *śūṣa* is recorded among the names of strength). The example: like a boat (*nāvaṃ na parṣaṇim*) that carries one across — a ferry that is placed to bear the burden to the other bank, or fills the fruit; we the *āyavaḥ*, men, sacrificers, by sacrifices thinking of you as the Supreme Lord, or *na* is a word of comparison: knowing you as Indra alone; and with *stomas*, going to Indra alone, we meditate."*)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *viśveṣu savaneṣu* — in all Soma sacrifices; *(yajamānāḥ* — the sacrificers); *pṛthak* — each separately (in their own sacrifices); *vṛṣamanyavaḥ* — thinking of you as the showerer of desires; *samānam* — the same for all; *ekam* — one; *tvā* — you; *tuñjate* — urge (and give oblations); *hi* — indeed; *svaḥ* — heaven; *sanisyavaḥ* — those desiring to obtain; *pṛthak* — separately (urge you); *tam* — such; *tvā* — you; *śūṣasya* — of strength (of the army); *dhuri* — at the yoke (to bear it, for victory); *parṣaṇim* — one who carries across; *nāvaṃ na* — like a boat (put to bear the load); *dhīmahi* — we place; *āyavaḥ* — we men (sacrificers); *yajñaiḥ* — by sacrifices; *indraṃ na* — as the Supreme Lord; *citayantaḥ* — meditating; *kathā* — likewise; *stomebhiḥ* — with hymns; *indram* — Indra; *āyavaḥ* — going to him (we place, delighting him).
+
+### Printed p. 474  (PDF 495)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Your worshippers, regarding you alone as the showerer of the desired, offer oblations to you in all the sacrifices, each separately, in their several sacrifices; each, desiring heaven (happiness), regards you; we too, regarding you as the Supreme Lord, thinking of you — you who are the support of our strength, like a boat that carries men across — we please you with hymns and with the means of sacrifice; we, the sacrificers, regarding you as Indra, meditate on you, going to you alone with hymns.
+
+*(The Kannada bhāvārtha as printed is rendered above: "(Your worshippers), regarding you alone as the bestower of what is wished, each separately in each sacrifice regard you; each desiring heaven, seeking your protection; we, regarding you as Indra, praise you only, as the support of our strength, like a ferry-boat that carries (people) across…")*
+
+### Printed p. 475  (PDF 496)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read: "೨೧"].)*
+
+**Printed English (heading "English Translation"; as printed):** *"Hoping to partake of your bounties, (your worshippers) hasten severally in every rite to (adore) you, who ask one and all; each severally seeking heaven. We meditate on you, the sustainer of our strength, like a boat that bears (passengers) across (a stream): mortals, indeed, knowing Indra, propitiate him with sacrifices: mortals (propitiate him) with hymns."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+***vṛṣamanyavaḥ samānam ekaṃ viśveṣu savaneṣu tuñjate*** — *abhimatavarṣaṇāya tvām eva manyamānāḥ sarveṣām ekarūpam ekam eva santam ekāhīnasatrarūpeṣu somayāgeṣu tvarayanti havirādīni dadate*: "regarding you alone as the one who gives what is wished, the sacrificers, in the one-day (*ekāha*), several-day (*ahīna*) and long (*satra*) Soma sacrifices, urge you and give you oblations. In the matter of fulfilling their desires every one is equally partial to Indra: they believe he is the only one. In the Soma sacrifices of one day etc., consisting of the three pressings in morning and the rest, they offer oblations to Indra": so the meaning.
+
+The Niruktakāra says that *tuñjati* is recorded among the ten verbs of giving beginning *dāti, dāśati* (Ni. 3-[?]; as read "೩-೧೯"). And —
+
+> तुञ्जेतुञ्जे य उत्तरे स्तोमा इन्द्रस्य वज्रिणः ।
+> न विन्धे अस्य सुष्टुतिम् ॥
+
+> *tuñje-tuñje ya uttare stomā indrasya vajriṇaḥ |*
+> *na vindhe asya suṣṭutim ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೭-೭" [?]; small type.) citing this, he explains *tuñje tuñje* as *dāne dāne*; Durgācārya says the word *tuj* is a synonym of *dāna*, "giving".
+
+***pṛthak svaḥ sanisyavaḥ*** — "the sacrificers, who perform the sacrifices separately, each offering oblations to Indra in their own sacrifices, desire heaven or extraordinary happiness". The word *svaḥ* is recorded among the six common names *svaḥ, pṛśniḥ* (Ni. 3-[?]; as read "೩-೧೩") and is explained: *svar ādityo bhavati, su araṇaḥ, su īraṇaḥ, svato rasān, svato bhāsaṃ jyotiṣām, svato bhāsety vā* (Ni. 2-[?]; as read "೨-೧೪"), recorded also among the hundred and one names of water (Ni. 1-[?]; "೧-೩೪"). And —
+
+### Printed p. 476  (PDF 497)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+> परं मृत्यो अनु परेहि पन्थां यस्ते स्व इतरो देवयानात् ।
+> चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् ॥
+
+> *paraṃ mṛtyo anu parehi panthāṃ yas te sva itaro devayānāt |*
+> *cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān ‖*
+
+(Ṛ. Saṃ. 10-18-1, as read "೧೦-೧೮-೧".) In this Ṛk the word *sva* is explained as "your own".
+
+***śūṣasya dhuri dhīmahi*** — *senārūpasya balasya vahane jayāya sthāpayāmaḥ | yadvāsmadīyaśārīrabalasya dhuri dhīmahi*: two meanings are given for the word *śūṣa*. In the first, the strength in the form of an army; that we the sacrificers may be in the front in conquering the army; in the second, to increase greatly the strength of our body, as sacrificers, Indra is first prayed to. Since the word *śūṣa* is recorded among the eight names of strength (Ni. 2-[?]; as read "೨-೯"), Sāyaṇa gives two meanings of "strength": army, or bodily strength.
+
+***parṣaṇiṃ nāvaṃ na*** — *pārasya sambhaktrīṃ pūrayitrīṃ vā phalasya nāvam iva*: "as a boat that carries a heavy load and countless things is placed to bring it to the far shore of the sea, and gives the fruit": so Indra is compared; he gives the sacrificer the completion of the sacrifice and its fruit.
+
+***āyavaḥ indraṃ na citayantaḥ*** — *manuṣyāḥ yajamānāḥ parameśvaram iva tvāṃ bhāvayantaḥ | yadvā na śabda upamārthaḥ | indram eva tvāṃ jānantaḥ*: "men, sacrificers, regarding you as the Supreme Lord; or *na* is in the sense of emphasis: knowing you, the very Indra." The word *āyavaḥ* is used twice. The Niruktakāra reads *āyavaḥ* among the names of men (Ni. 2-[?]; as read "೨-೮"). In the first meaning, "sacrificers"; "regarding Indra as the Supreme Lord, they satisfy him by sacrifices". *Indater aiśvaryakarmaṇaḥ* (Ni. 10-[?]; as read "೧೦-೮") — the word *indra* is formed from the root *ind*, expressing lordship, so that *indra* gives the sense "one who has lordship and gives it"; and, since those who sacrifice regard him as the Supreme Lord, it is explained. Or, when the Niruktakāra explains the word *indra*: *idaṃ bhūtānīti vā* [as read: *indhe bhūtāni*], "*tad yad enaṃ prāṇaiḥ samaindhaṃs tad indrasyendratvam iti vijñāyate*" — "he kindles creatures; because the gods kindled him with the vital breaths, that is Indra's Indra-ness": it is explained that he makes living beings brilliant. Durgācārya: "*bhūtāni hy asya adhidevatvena adhyātmatvena abhyavahārayan vibhajamānaś ca dīpayati dyumantaṃ karoti*" — he is within beings as presiding deity and within the self, and, dividing, kindles and makes them brilliant. Therefore, the meaning of the word *indra* is stated: that he is the Supreme Lord.
+
+### Printed p. 477  (PDF 498)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+In the second meaning the word *āyavaḥ* is explained as "those who know"; Indra, who has the nature of supreme lordship, is known as the Supreme Lord, and we, the sacrificers, meditate on him by sacrifices and by hymns. And since particles have many meanings, *na* is explained as having the sense of comparison and of emphasis.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar pages, noted briefly; numbers as printed).** *tuñjate* — *tuja* is a *sautra* root of the sense "giving"; *śikṣati tuñjate* (Ni. 3-[?]; as read "೩-೨೦-೮"?) is read among the verbs of giving; *laṭ* third person plural; *hi ca* (Pā. 8-1-34) forbids *nighāta*; acute on the first syllable of the suffix. *vṛṣamanyavaḥ* — root *mana jñāne*; *yaji-mani…* (Uṇ. 3-[?]) gives *yuc*; in the compound the acute on the first syllable; nominative plural. *svaḥ* — *svar* becomes *svarita* by Phiṭ-sūtra 4 [as read]. *sanisyavaḥ* — root *ṣaṇu dāne*; *in sarvadhātubhyaḥ* [as read: *iṇ sarvadhātubhyaḥ*, Uṇ. 4-[?]] gives *iṇ*; when "desiring to give" is intended, *supa ātmanaḥ kyac* (Pā. 3-1-8) gives *kyac*; *sarvaprātipadikebhyo lālasāyām asuk vaktavyaḥ…* [as read: Kāś. 3-1-8 vārttika] gives *suk*; after the *kyac*-ending, *kyāc chandasi* (Pā. 3-2-170) gives *u*; *ato lopaḥ* (Pā. 6-4-48) drops the *a* of *kyac*; acute on the last syllable by the suffix. *parṣaṇim* — root *pṝ pālanapūraṇayoḥ* or *paṇa sambhaktau*; *chandasi vanasana…* (Pā. 3-2-27) gives *in*; with *pṛṣodarādīni yathopadiṣṭam* the form is obtained; the acute on the first syllable by the suffix. *dhīmahi* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṅ* first person plural, *mahiṅ*; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; since the suffix is *j*-marked, *ghumāsthāgāpājahātisāṃ hali* (Pā. 6-4-66) gives *ī*; *tiṅ-nighāta*.
+
+### Printed p. 478  (PDF 499)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+*(Grammar, concluded.)* *citayantaḥ* — root *citī saṃjñāne*; *satyāpapāśa…* (Pā. 3-1-25) gives *ṇic* in the proper sense; by the statement *saṃjñāpūrvako vidhir anityaḥ* no guṇa; after the *ṇic*-ending, *śatṛ* in the present sense; guṇa, *ayādeśa* of the *ṇic*; the acute of *ṇic*. *āyavaḥ* — root *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-[?]) gives *uṇ*; *aco ñṇiti* gives *vṛddhi*; *ayādeśa*; nominative plural. *stomebhiḥ* — by *bahulaṃ chandasi*, *bhis* takes *ais* optionally; since it is optional, *bahuvacane jhaly et* (Pā. 7-3-103) gives *e*. ‖ 2 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> वि त्वा ततस्रे मिथुना अवस्यवो व्रजस्य साता गव्यस्य निःसृजः ।
+> सक्षन्त इन्द्र निःसृजः ।
+> यद्गव्यन्ता द्वा जना स्वर्यन्ता समूहसि ।
+> आविष्करिक्रद्वृषणं सचाभुवं वज्रमिन्द्र सचाभुवम् ॥ ३ ॥
+
+> *vi tvā tatasre mithunā avasyavo vrajasya sātā gavyasya niḥsṛjaḥ |*
+> *sakṣanta indra niḥsṛjaḥ |*
+> *yadgavyantā dvā janā svaryantā samūhasi |*
+> *āviṣkarikradvṛṣaṇaṃ sacābhuvaṃ vajramindra sacābhuvam ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> वि । त्वा । ततस्रे । मिथुनाः । अवस्यवः । व्रजस्य । साता । गव्यस्य । निःऽसृजः । सक्षन्तः ।
+> इन्द्र । निःऽसृजः ।
+> यत् । गव्यन्ता । द्वा । जना । स्वःऽयन्ता । सम्ऽऊहसि ।
+> आविः । करिक्रत् । वृषणम् । सचाऽभुवम् । वज्रम् । इन्द्र । सचाऽभुवम् ॥ ३ ॥
+
+> *vi | tvā | tatasre | mithunāḥ | avasyavaḥ | vrajasya | sātā | gavyasya | niḥ 'sṛjaḥ | sakṣantaḥ |*
+> *indra | niḥ 'sṛjaḥ |*
+> *yat | gavyantā | dvā | janā | svaḥ 'yantā | sam 'ūhasi |*
+> *āviḥ | karikrat | vṛṣaṇam | sacā 'bhuvam | vajram | indra | sacā 'bhuvam ‖ 3 ‖*
+
+*(Read from the image; in the Saṃhitā's third line the print has "*gavyantā dvā janā svaryantā samūhasi*"; the Pada writes *dvā* as a separate word. Doubtful letters in the Saṃhitā: "*ततस्रे*" is the form as printed.)*
+
+---
+
+**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 478 (PDF 499): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā/Pada written; resume p. 479 (PDF 500) with the Ṛk 3 bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 bhāṣya p. 473, quotations pp. 475–476); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
