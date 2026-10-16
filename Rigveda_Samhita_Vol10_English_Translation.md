@@ -1907,4 +1907,229 @@ About the deity Uṣas, Yāska says: *uṣāḥ kasmād ucchatīti satyā rātre
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 complete (printed pp. 1–70, closing line "illige nūra ippatteraḍane sūkta mugidudu"). Sūkta 123 (*pṛthū rathaḥ*) has begun at the foot of printed p. 70 (the contents table gives p. 71): its introduction on Uṣas and Yāska's Nirukta passage is partly written; the verse Yāska cites and the rest continue on p. 71 (PDF 92, header "Aṣṭaka 2, Adhyāya 1, Varga 4" expected). Printed page = PDF − 21. No OCR beyond printed p. 36; many Ṛk/sūtra numerals on pp. 37–70 are my own small-type readings (`[?]`) or omitted. Sūkta starts: 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 71  (PDF 92)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* *(The verse that Yāska cites at the foot of p. 70:)*
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा ।
+> यथा प्रसूता सवितुः सवायैवा रात्र्युषसे योनिमारैक् ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*
+> *yathā prasūtā savituḥ savāyaivā rātryuṣase yonimāraik ‖*
+
+(Ṛ. Saṃ. 1-113-1, as printed; the OCR reads "…113-1" with letter-shaped digits.) — this ṛk he has cited. And, following this order, since sunrise comes after the dawn-time, he cites, on the matter that the Sun is born from Uṣas:
+
+> रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः ।
+> समानबन्धू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥
+
+> *ruśadvatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ |*
+> *samānabandhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*
+
+(Ṛ. Saṃ. 1-113-2, as printed.) This ṛk is cited in support of the matter (Ni. 2-20, as read by the reader's OCR).
+
+The seers have described the nature of this deity Uṣas in many ways, and have used many epithets according to these descriptions. Of them, sixteen principal words that apply to the deity Uṣas are listed by Yāska in this way (Ni. 2-19, OCR). *(In the lists of Ṛk references below, the reader's OCR often drops hyphens; where I give a number it is the printed one as I read it, confirmed by the OCR unless marked `[?]`.)*
+
+***vibhāvarī*** — *viśeṣaprabhāvayuktā | viśiṣṭaprakāśayuktā* — "possessed of special glory; possessed of special light; very resplendent" — *Resplendent* (as printed in English). This word is recorded in the ṛks Ṛ. Saṃ. 1-30-20; 1-48-1; 1-48-10; 1-92-14; 4-52-6; 5-79-4; 5-79-10; 8-47-14 (the second and fifth have the hyphens lost in the OCR: "1-481", "4-526").
+
+***sūnarī*** — *suṣṭhu netrī* — "good leader": *Beautiful* (as printed, English). Recorded in Ṛ. Saṃ. 1-48-10; 1-48-5; 1-48-8; 4-52-1; 7-81-1 `[?]` (the OCR has "7-01-1").
+
+***bhāsvatī*** — *tejasvatī | viśiṣṭaprakāśanayuktā*: "shining" (*Shining*, as printed). Recorded in Ṛ. Saṃ. 1-92-7; 1-113-4.
+
+***odatī*** — *undī kledane | unatti sarvaṃ nīhāreṇodakī*: "wetting everything with dew; flowing, gushing & c." (as printed). Recorded only in Ṛ. Saṃ. 1-48-6; 8-69-2.
+
+***citramaghā*** — *vicitradhanā | vividhaśrākhyadhanā vā*: "of various or shining riches" — *possessd [sic] of brilliant riches*. Recorded in Ṛ. Saṃ. 6-75-5; 7-77-3; 8-58-3.
+
+***arjunī*** — *śubhravarṇā*: "white" — *the white*. Recorded in Ṛ. Saṃ. 1-49-3; 5-84-2.
+
+### Printed p. 72  (PDF 93)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+***vājinī*** or ***vājinīvatī*** — *vājo 'nnam asyāḥ astīti*: "she who has food, who has/brings food" — *the bringer of food*. These words are recorded in Ṛ. Saṃ. 3-6-1; 2-20-0 `[?]`; 5-80-? `[?]`; … and the remaining references (about eighteen in all) — the digits of this long list are so small, and the OCR so garbled ("2-EN-E 23", "n-v3-L; n-veZ-OL; C-F3-09"…), that I do not give them `[?]`.
+
+***sumnāvarī*** — *sumnam iti sukhanāma | tadvatī*: "joy-giving" — *the giver of joy*. Only in Ṛ. Saṃ. 1-113-12.
+
+***ahanā, dyotanā*** — *kṛṣṇaṃ jagad dyotanaśīlā*: "bright" — *Bright*. These words only in Ṛ. Saṃ. 1-123-4 and 5, and 1-123-4 [as printed twice, the OCR agrees].
+
+***śvetyā*** — *śvetavarṇoṣāḥ | śvitā varṇe*: "white-coloured" — *the fair-colured [sic]*. In Ṛ. Saṃ. 1-113-2 [the OCR reads "1-1943-2", with a stray digit]; 10-75-6.
+
+***aruṣī*** — *ārocamānā | raktavarṇā vā*: "of red colour, slightly red in tinge" — *the ruddy*. In Ṛ. Saṃ. 3-5-11; 4-52-2; 8-68-18 and other ṛks.
+
+***sūnṛtā, sūnṛtāvatī, sūnṛtāvarī*** — *priyasatyarūpā | priyasatyātmikā vāk tādṛśyā vācā yuktā*: "of dear and true form; possessed of speech that is dear, true and beneficial" — *the utterer of pleasent [sic] or sacred voices*. These words in Ṛ. Saṃ. 1-8-8 `[?]`; 1-30-5; 1-40-3 `[?]` and other ṛks, also Ṛ. Saṃ. 1-92-14; 1-22-3 `[?]`; 7-81-6; and Ṛ. Saṃ. 4-52-4 (as read; some hyphens lost in the OCR).
+
+These words are ordinarily used with reference to the deity Uṣas; in some contexts they are used also of other deities.
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (introduction to Sūkta 123)**
+
+> कदित्थेत्यष्टादशानुवाके षट् सूक्तानि । तत्र पृथू रथ इति तृतीयं सूक्तं त्रयोदशर्चम् । अत्रानुक्रमणिका । पृथुः सप्तोनोषस्यं तु इति । दीर्घतमसः पुत्रः कक्षीवान्नृषिः शिष्यश्चान्यस्मादृषेरिति परिभाषितत्वात् । अनादेशपरिभाषया त्रिष्टुप् छन्दः । तुशब्दप्रयोगादिदमादिके सूक्ते उषोदेवताके । प्रातरनुवाके उषस्ये क्रतावस्य चोत्तरस्य च विनियोगः । अहोषस्य इति खण्डे सूत्रितम् । पृथू रथ इति सूक्ते प्रत्यृचं रित्थ [?] । आश्व० [?] इति । तथाश्वि[?]नशस्त्रस्य इदमादिसूक्तद्वयस्य विनियोगः प्रातरनुवाकन्यायेन । आश्व० [?] इत्यादिसूत्रात् ॥
+
+> *kaditthetyaṣṭādaśānuvāke ṣaṭ sūktāni | tatra pṛthū ratha iti tṛtīyaṃ sūktaṃ trayodaśarcam | atrānukramaṇikā | pṛthuḥ saptonoṣasyaṃ tu iti | dīrghatamasaḥ putraḥ kakṣīvānnṛṣiḥ śiṣyaścānyasmādṛṣeriti paribhāṣitatvāt | anādeśaparibhāṣayā triṣṭup chandaḥ | tuśabdaprayogādidamādike sūkte uṣodevatāke | prātaranuvāke uṣasye kratāvasya cottarasya ca viniyogaḥ | ahoṣasya iti khaṇḍe sūtritam | pṛthū ratha iti sūkte pratyṛcaṃ rittha [?] | āśva0 [?] iti | tathāśvi[?]naśastrasya idamādisūktadvayasya viniyogaḥ prātaranuvākanyāyena | āśva0 [?] ityādisūtrāt ‖*
+
+*(Small type; the Anukramaṇikā words and the Āśvalāyana-sūtra references at the end are read with doubt, as marked.)* "Among the six Sūktas of the eighteenth Anuvāka, beginning *kad itthā*, *pṛthū rathaḥ* is the third; it has thirteen ṛks. The Anukramaṇikā says here: *pṛthuḥ saptonoṣasyaṃ tu* [as read]. The seer is Kakṣīvān, the son of Dīrghatamas — by the rule that the seer is the one who has been defined elsewhere; by the rule of the unspecified metre the metre is Triṣṭubh; from the use of the word *tu* this Sūkta and the next have Uṣas as the deity. In the *prātaranuvāka* the Sūkta has its application in the *uṣasya kratu* [the Uṣas rite] and the following; it is prescribed in the section … ; and the two Sūktas beginning with this one are applied in the Aśvina-śastra on the analogy of the *prātaranuvāka*."
+
+### Printed p. 73  (PDF 94)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Anuvāda (Kannada).** Of the six Sūktas of the eighteenth Anuvāka, which begins with *kad itthā*, this Sūkta *pṛthū rathaḥ* is the third. It has thirteen ṛks. The Anukramaṇikā says "*pṛthuḥ saptonoṣasyaṃ tu*" [as read]. The seer of this Sūkta is Kakṣīvān, the son of Dīrghatamas; the metre is Triṣṭubh; since the word *tu* is used in the sūtra, this Sūkta and the next are addressed to Uṣas. At the time of reciting the *prātaranuvāka* mantras, this Sūkta and the following one are applied for the mantras connected with the Uṣas rite (*uṣasya kratu*) — so it is prescribed in the Āśvalāyana Śrauta Sūtra, section *ahoṣasyaḥ*, by the sūtra *pṛthū ratha iti sūkte pratyṛcam ityādi* (Āś. 4-14 [as read; the OCR has "4 14", the hyphen lost]); and for the Aśvina-śastra mantras too these two Sūktas are applied, as stated by the sentence *prātaranuvāka-nyāyena* (Āś. 6-3).
+
+**Sūkta 123** — Maṇḍala 1 ‖ Anuvāka 18 ‖ Sūkta 123 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Vargas 4, 5, 6 ‖ number of ṛks in this Sūkta: 13 ‖ Seer: Kakṣīvān Dairghatamasa Auśija ‖ Deity: Uṣas ‖ Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> पृथू रथो दक्षिणाया अयोज्यैनं देवासो अमृतासो अस्थुः ।
+> कृष्णादुदस्थादर्या विहाया चिकित्सन्ती मानुषाय क्षयाय ॥ १ ॥
+
+> *pṛthū ratho dakṣiṇāyā ayojyainaṃ devāso amṛtāso asthuḥ |*
+> *kṛṣṇādudasthādaryā vihāyā cikitsantī mānuṣāya kṣayāya ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> पृथुः । रथः । दक्षिणायाः । अयोजि । आ । एनम् । देवासः । अमृतासः । अस्थुः ।
+> कृष्णात् । उत् । अस्थात् । आर्या । विऽहायाः । चिकित्सन्ती । मानुषाय । क्षयाय ॥ १ ॥
+
+> *pṛthuḥ | rathaḥ | dakṣiṇāyāḥ | ayoji | ā | enam | devāsaḥ | amṛtāsaḥ | asthuḥ |*
+> *kṛṣṇāt | ut | asthāt | āryā | vi 'hāyāḥ | cikitsantī | mānuṣāya | kṣayāya ‖ 1 ‖*
+
+### Printed p. 74  (PDF 95)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> दक्षिणायाः प्रवृद्धायाः स्वव्यापारकुशलाया उषोदेवतायाः पृथुर्विस्तीर्णो रथोऽयोजि । अश्वैर्युक्तः सन्नद्धोऽभूत् । अत्र यद्यपि देवताविशेषो न श्रुतस्तथापि सूक्तस्योषोदेवताकत्वादुषस इति गम्यते । एनं सन्नद्धं रथममृतासोऽमरणधर्माणो देवासो देवनशीला हविर्भाजो देवा आस्थुः । आस्थितवन्तः । देवयजनं गन्तुमारूढा इत्यर्थः । अनन्तरं सोषाः कृष्णात् कृष्णवर्णाद्रात्रिरूपात्तमसः सकाशादुदस्थात् । उत्थिताभूत् । कृष्णं कृष्यतेर्निकृष्टो वर्णः (नि. २-२०) इति यास्कः । कीदृशी सा । अर्या अरणीया पूजनीया विहाया विविधगमनयुक्ता महती वा । विहाया इति महन्नाम विहायो यह्वः इति तन्नाममु पाठात् । मानुषाय क्षयाय मनुष्याणां निवासाय चिकित्सन्ती अन्धकारनिवारणरूपां चिकित्सां कुर्वती । तमो निवारयन्तीत्यर्थः ॥
+
+> *dakṣiṇāyāḥ pravṛddhāyāḥ svavyāpārakuśalāyā uṣodevatāyāḥ pṛthurvistīrṇo ratho 'yoji | aśvairyuktaḥ sannaddho 'bhūt | atra yadyapi devatāviśeṣo na śrutastathāpi sūktasyoṣodevatākatvāduṣasa iti gamyate | enaṃ sannaddhaṃ rathamamṛtāso 'maraṇadharmāṇo devāso devanaśīlā havirbhājo devā āsthuḥ | āsthitavantaḥ | devayajanaṃ gantumārūḍhā ityarthaḥ | anantaraṃ soṣāḥ kṛṣṇāt kṛṣṇavarṇādrātrirūpāttamasaḥ sakāśādudasthāt | utthitābhūt | kṛṣṇaṃ kṛṣyaternikṛṣṭo varṇaḥ (ni. 2-20) iti yāskaḥ | kīdṛśī sā | aryā araṇīyā pūjanīyā vihāyā vividhagamanayuktā mahatī vā | vihāyā iti mahannāma vihāyo yahvaḥ iti tannāmamu pāṭhāt | mānuṣāya kṣayāya manuṣyāṇāṃ nivāsāya cikitsantī andhakāranivāraṇarūpāṃ cikitsāṃ kurvatī | tamo nivārayantītyarthaḥ ‖*
+
+*(The phrase "tasmin sūkte" and the number-reference of Yāska are read as printed: Ni. 2-20, as in the OCR "2-20" on p. 76; at the end the small-type grammar reference is only characterised.)* "Of Dakṣiṇā — the grown (*pravṛddhā*), skilled in her work — the goddess Uṣas, the broad (*pṛthu*, wide) chariot was yoked (*ayoji*): it was made ready, fitted with horses. Here, though no particular deity is named, it is understood to be Uṣas, since the Sūkta is addressed to Uṣas. This ready chariot the immortal (*amṛtāsaḥ*, of deathless nature) gods (*devāsaḥ*, the shining; the gods who partake of oblations) mounted (*āsthuḥ*): that is, they ascended in order to go to the place of the divine sacrifice. Afterwards she, Uṣas, *kṛṣṇāt*, from the black — from the darkness in the form of night — rose up (*udasthāt*). *Kṛṣṇa* [is derived] from the root *kṛṣ*; it is a lower colour (Ni. 2-20), says Yāska. What kind is she? *Āryā*: worthy of approach, worthy of worship; *vihāyāḥ*: of various motion, or great — *vihāyaḥ* is a name of 'great', by its reading among the names of 'great' (*yahvaḥ*). *Mānuṣāya kṣayāya*: for the dwelling of men, *cikitsantī* — making the cure in the form of the removal of darkness: that is, dispelling the darkness."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Dakṣiṇāyāḥ* — of the skilful (Uṣas deity); *pṛthuḥ* — broad; *rathaḥ* — the chariot; *ayoji* — was made ready (yoked with horses); *enam* — this (ready chariot); *amṛtāsaḥ* — immortal; *devāsaḥ* — gods; *ā asthuḥ* — mounted (afterwards); *āryā* — worshipful; *vihāyāḥ* — of manifold motion (Uṣas); *mānuṣāya kṣayāya* — for the dwelling of men; *cikitsantī* — performing the cure in the form of removing darkness; *kṛṣṇāt* — from black (darkness); *ut asthāt* — rose up.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The broad chariot of the skilful (Uṣas deity) was yoked with horses; the immortal gods mounted it. Afterwards the worshipful and many-moving (Uṣas deity), performing a cure in the form of removing darkness for the dwellings of men, rose up from the black (darkness).
+
+**Printed English (as printed):** *The spacious chariot of the graceful (Dawn) has been harnessed ; the immortal gods have ascended it; the noble and all-pervading Ushas has risen up from the darkness, bringing health to human habitations.*
+
+### Printed p. 75  (PDF 96)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 1.**
+
+***dakṣiṇāyāḥ*** — *pravṛddhāyāḥ svavyāpārakuśalāyāḥ*: "of her who is much developed and skilled in carrying out her own work, [the goddess] Uṣas" — the two senses having been given, he has joined this word as an epithet of the deity Uṣas.
+
+Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in several meanings (Ni. 1-7, as read by the reader's OCR).
+
+> नूनं सा ते प्रति वरं जरित्रे दुहीयदिन्द्र दक्षिणा मघोनी ।
+> शिक्षा स्तोतृभ्यो मा ति धग्भगो नो बृहद्वदेम विदथे सुवीराः ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadindra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo mā ti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖*
+
+(Ṛ. Saṃ. 2-1[?]-[?], as read; the OCR is garbled.) For the word *dakṣiṇā* in this ṛk, the Nirukta explains in one way: *dakṣiṇā dakṣateḥ samardhayati karmaṇo vṛddham samardhayatīti* — "*dakṣiṇā* [is so called] because she completes (*samardhayati*) the work, brings the deficient to fullness". Here the vṛttikāra [Sāyaṇa's predecessor] says: *yajñe hi yat kiñcid vigataṛddhikaṃ kṛtaṃ bhavati tad iyaṃ samardhayati viśiṣṭaṃ hi yajñasya sādhanam etad iti* — "in the sacrifice, whatever is made deficient in its completeness is made complete by this; hence it is a special means of the sacrifice": whatever in the sacrifice is deficient in the means of completion, this makes perfect; therefore this produces prosperity; hence, in the matter of the completion of a sacrifice this is the means — so the meaning is explained. In the second explanation of the Nirukta: *api vā pradakṣiṇāgamanād diśam abhipretya digdiśasuprakṛtiḥ* [as read, doubtful] — *dakṣiṇa* means the southern direction. Here the vṛttikāra explains that the priests go round the sacrificial altar in a clockwise (*pradakṣiṇa*) circuit; the cause of this going round, namely to go first facing the south — [the sense is] that *dakṣiṇā* in the sense of the southern direction (Ni. 1-2, as read in the OCR). In the third explanation of the Nirukta, *dakṣiṇo hasto dakṣateḥ utsāhakarmaṇaḥ* ("*dakṣiṇa* is the hand, from *dakṣ* in the sense of exertion"): when working, the worker uses the right hand to show his exertion; hence *dakṣiṇā* means "the right hand". Following this meaning also, [*dakṣiṇā*] is derived from the root *dāś* "to give" (*dāśater vā syād dānakarmaṇaḥ*, "or [it comes] from the root *dāś*, in the sense of giving"), so that the word *dakṣiṇā* is formed. Following the three kinds of meaning given by the Nirukta writer, Sāyaṇa explains *pravṛddhāyāḥ*, "of one who has reached excess" (Ni. 1-3 [?], as read).
+
+***kṛṣṇāt*** — *nikṛṣṭavarṇāt naiśāt tamasaḥ* (Ni. 1-7 [?], as read): "from the darkness of night, which is of a low (black) colour"; this is the sense. The Nirukta writer —
+
+### Printed p. 76  (PDF 97)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+> रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः ।
+> समानबन्धू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥
+
+> *ruśadvatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ |*
+> *samānabandhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*
+
+(Ṛ. Saṃ. 1-113-2, as printed on p. 71.) — citing this ṛk, [he says] *kṛṣṇavarṇā rātriḥ | kṛṣṇaṃ kṛṣyater nikṛṣṭo varṇaḥ* (Ni. 2-20) — "*kṛṣṇa* is black-coloured night; [the word] *kṛṣṇa* is formed from the root *kṛṣ*; it means a low, base colour" — thus he has explained it.
+
+***āryā*** — *araṇīyā pūjanīyā* — "worthy of worship": that is, that which is worthy of worship. The word *ārya* is recorded among the four names of Īśvara ("lord") (Ni. 3-11, as read). The Nirukta writer cites a use of the word *ārya* in the sense of Īśvara; but the meaning "lord" is explained as fitting one who deserves praise. For example:
+
+> प्र तत्ते अद्य शिपिविष्ट नामार्यः शंसामि वयुनानि विद्वान् ।
+> तं त्वा गृणामि तवसमतव्यान् क्षयन्तमस्य रजसः पराके ॥
+
+> *pra tatte adya śipiviṣṭa nāmāryaḥ śaṃsāmi vayunāni vidvān |*
+> *taṃ tvā gṛṇāmi tavasamatavyān kṣayantamasya rajasaḥ parāke ‖*
+
+(Ṛ. Saṃ. 7-100-5 [?], as read; the OCR has "7-10-5".)
+
+> अर्योऽहमीश्वरः स्तोतॄणामर्यस्त्वमसीति वा ।
+
+> *aryo 'hamīśvaraḥ stotṝṇāmaryastvamasīti vā |*
+
+(Ni. 5-9 [?], as read by the OCR.) Here the vṛttikāra says: *yasmād aryo 'hamasmi īśvaraḥ stutīnām udīraṇe* … or *arya asi, ārya īśvaraḥ mad-anugrahāya samarthaḥ* — "since I am a master (*ārya*), able to utter praises, I know well your qualities in order to praise you; therefore you, who are worthy of praise, [I am] able to praise; or, since you are able to show grace, you are (*ārya*) worshipful" — he explains thus. In this ṛk the word *uṣas* does not occur, but from the context he has given the sense *pūjanīyā* for the word *āryā* in describing the qualities of the deity Uṣas.
+
+***vihāyāḥ*** — *vividhagamanayuktā mahatī vā*: "Uṣas moves about in many ways, or is filled with greatness". The word *vihāyāḥ* is recorded in the group of twenty-five names of 'great', beginning with *mahat, brahman* [as read] (Ni. 3-13, as read by the OCR). The Nirukta writer has cited a use of the word *vihāyāḥ* in this same sense (Ni. 10-26, as read by the OCR). For example:
+
+> विश्वकर्मा विमना आद्विहाया धाता विधाता परमोत संदृक् ।
+> तेषामिष्टानि समिषा मदन्ति यत्रा सप्तर्षीन् पर एकमाहुः ॥
+
+> *viśvakarmā vimanā ādvihāyā dhātā vidhātā paramota saṃdṛk |*
+> *teṣāmiṣṭāni samiṣā madanti yatrā saptarṣīn para ekamāhuḥ ‖*
+
+(Ṛ. Saṃ. 10-82-[?], as read.)
+
+### Printed p. 77  (PDF 98)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)*
+
+> परि सोम प्र धन्वा स्वस्तये नृभिः पुनानो अभि वासयाशिरम् ।
+> ये ते मदा आहनसो विहायसस्तेभिरिन्द्रं चोदय दातवे मघम् ॥
+
+> *pari soma pra dhanvā svastaye nṛbhiḥ punāno abhi vāsayāśiram |*
+> *ye te madā āhanaso vihāyasastebhirindraṃ codaya dātave magham ‖*
+
+(Ṛ. Saṃ. 9-6[?]-[?], as read.) In these ṛks the vṛttikāra has explained that for the words *vihāyaḥ, vihāyasaḥ* the meaning is *mahāntaḥ*, "those filled with greatness".
+
+***mānuṣāya kṣayāya*** — *manuṣyāṇāṃ nivāsāya*: "for the dwelling of men: that men may live there".
+
+> अञ्जन्ति त्वामध्वरे देवयन्तो वनस्पते मधुना दैव्येन ।
+> यदूर्ध्वस्तिष्ठा द्रविणेह धत्तादद्वा क्षयो मातुरस्या उपस्थे ॥
+
+> *añjanti tvāmadhvare devayanto vanaspate madhunā daivyena |*
+> *yadūrdhvastiṣṭhā draviṇeha dhattādadvā kṣayo māturasyā upasthe ‖*
+
+(Ṛ. Saṃ. 3-8-1, as read.) For the word *kṣaya* in this ṛk the meaning *kṣayo nivāsaḥ* is given in the Nirukta explanation (Ni. 8-18 [?], as read by the OCR: "8-18"); so Sāyaṇa too gives "dwelling".
+
+***pṛthuḥ rathaḥ*** — *pṛthur vistīrṇo rathaḥ*: "a large or extended chariot" — *Chariot of massive construction, spacious chariot* (as printed in English). The matter that the chariot of the goddess Uṣas is extremely large and comfortable —
+
+> विश्वस्य हि प्राणनं जीवनं त्वे वि यदुच्छसि सूनरि ।
+> सा नो रथेन बृहता विभावरि श्रुधि चित्रामघे हवम् ॥
+
+> *viśvasya hi prāṇanaṃ jīvanaṃ tve vi yaducchasi sūnari |*
+> *sā no rathena bṛhatā vibhāvari śrudhi citrāmaghe havam ‖*
+
+(Ṛ. Saṃ. 1-48-10, as printed; the OCR "n-ve-no" agrees on the last digits.)
+
+> सुपेशसं सुखं रथं यमध्यस्था उषस्त्वम् ।
+> तेना सुश्रवसं जनं प्रावाद्य दुहितर्दिवः ॥
+
+> *supeśasaṃ sukhaṃ rathaṃ yamadhyasthā uṣastvam |*
+> *tenā suśravasaṃ janaṃ prāvādya duhitardivaḥ ‖*
+
+(Ṛ. Saṃ. 1-49-1 [?], as read.)
+
+> एषा जनं दर्शता बोधयन्ती सुगान्पथः कृण्वती यात्यग्रे ।
+> बृहद्रथा बृहती विश्वमिन्वोषा ज्योतिर्यच्छत्यग्रे अह्नाम् ॥
+
+> *eṣā janaṃ darśatā bodhayantī sugānpathaḥ kṛṇvatī yātyagre |*
+> *bṛhadrathā bṛhatī viśvaminvoṣā jyotiryacchatyagre ahnām ‖*
+
+(Ṛ. Saṃ. 5-80-2, as read by the reader's OCR.)
+
+> प्रति केतवः प्रथमा अदृश्रन्नूर्ध्वा अस्या अञ्जयो वि श्रयन्ते ।
+> उषो अर्वाचा बृहता रथेन ज्योतिष्मता वामममस्मभ्यं वक्षि ॥
+
+> *prati ketavaḥ prathamā adṛśrannūrdhvā asyā añjayo vi śrayante |*
+> *uṣo arvācā bṛhatā rathena jyotiṣmatā vāmamamasmabhyaṃ vakṣi ‖*
+
+(Ṛ. Saṃ. 7-75-2 [?], as read.) — the words *bṛhatā rathena* and the like in these ṛks support [the meaning].
+
+### Printed p. 78  (PDF 99)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* ***ratho āyoji*** — *aśvair yuktaḥ saṃnaddho 'bhūt*: "the chariot was made ready, yoked with horses". Here "horses" does not mean stallions; as Yāska says in the Nirukta, *aruṇo gāva uṣasaḥ* — "the red cows are Uṣas's [horses]" — the horses of Uṣas's chariot are the red-coloured cows (or rays) (Ni. 2-18 [?], as read).
+
+***enaṃ devāso amṛtāso asthuḥ*** — the gods, deathless, mounted Uṣas's chariot. The gods' mounting Uṣas's chariot means that at dawn the sacrificer who begins the sacrifice invokes the gods, so that those gods go to the sacrificial altar at dawn together with Uṣas who is riding in her chariot — that is the sense.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 1, noted briefly; the sūtra numbers listed by the reader's OCR for this page are given in the block at the end).** *Ayoji* — the root *yuji yoge*; *luṅ* in the passive, 3rd singular, the suffix *ta*; *ciṇ bhāvakarmaṇoḥ* — *ciṇ* in place of *cli*, with the loss of *ta* by *ciṇo luk* (*ciṇo luk*, as printed); the augment *aṭ*; after an *atiṅanta* the *nighāta*. *Devāsaḥ* — the root *divu*; since it is of the *pacādi* group the suffix *ac*; the guṇa of the light penultimate; final acute by *cit*; when *jas* follows, *ājjaser asuk*. *Amṛtāsaḥ* — the root *mṛṅ prāṇatyāge*; the suffix *kta*; with *nañ* in the compound, *ñño jaramarami…* the final acute of the latter member; when *jas* follows, as before the *asuk*. *Asthuḥ* — the root *ṣṭhā gatinivṛttau*; *luṅ*, 3rd plural, *jhi*; *cleḥ sic*, and by *gātisthāghupābhūbhyaḥ sicaḥ* the *luk* of *sic*; *ātaḥ* the substitute *jus* for *jhi*; *usyapadāntāt* the *pararūpa*; since it follows an *atiṅanta* the *nighāta*; so too *asthāt* in the 3rd singular. *Cikitsantī* — the root *kita nivāse*; *kitaḥ…* (by the sūtra *kiter vyādhipratīkāre*) the suffix *san*; taking it as the cause, reduplication of the root by *sanyaṅoḥ*; by *sanādyantā dhātavaḥ* the stem *cikitsa* gets the name of a root; the suffix *śatṛ* in the sense of the present, …
+
+---
+
+**Progress note:** Vol 10 — Sūkta 123 (*pṛthū rathaḥ*) through printed p. 78 (PDF 99): introduction (Uṣas epithets, Anuvāda p. 73) and Ṛk 1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics) done; Ṛk 1 grammar page begun on p. 78 (*ayoji* … *cikitsantī*), continues on p. 79 (PDF 100). The reader's OCR (Google Docs) now covers printed pp. 39–79 only; from p. 80 numerals are my own reading. Printed page = PDF − 21. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
