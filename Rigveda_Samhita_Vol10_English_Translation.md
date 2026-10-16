@@ -16205,4 +16205,40 @@ At the time of offering the oblation to Mitra and Varuṇa, their special qualit
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 written through p. 669 (Special Topics: *mṛḷayadbhyām*, *havyaṃ matim*, *ghṛtāsutī*, *enoḥ kṣatram* done; more entries and the grammar follow); resume p. 670 (PDF 691; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 670  (PDF 691)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar pages, noted briefly; numbers as printed).** *jyeṣṭham* — after the word *praśasya* in the sense of intensity the suffix *iṣṭhan*; *jyāc ca* (Pā. 5-3-61 [as read]) gives *jya* as the substitute for the stem; by *prakṛtyaikāc* (Pā. 6-4-163 [as read]) as an exception to the elision of *ṭi*, the stem-form remains; *guṇa*; since the suffix is *nit*, the ādyudātta. *namaḥ* — root *ṇamu prahvatve śabde ca*; Uṇ. suffix *asun*; since *nit*, the ādyudātta. *matim* — root *mana jñāne*; *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* (Pā. 3-3-96 [as read]) gives *ktin* the udātta. *bharata* — root *bhṛñ bharaṇe*; *loṭ*, second person plural, *ta* → *tāta*? [as read: *tādeśa*]; *śap* conditions the *guṇa* of the root's *ṛ*; as it follows a *tiṅanta* [?], *nighāta*. *mṛḷayadbhyām* — root *mṛḍa sukhane*; after the *ṇijanta* the suffix *śatṛ*; *śap* conditions the *guṇa* of *ṇic* and *ay* substitution; dative dual. *svādiṣṭham* — *atiśayena svādu*; *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55 [as read]) gives *iṣṭhan*; *ṭeḥ* (Pā. 6-4-155 [as read]) drops *u* [of *svādu*]; the ādyudātta. *samrājā* — root *rājṛ dīptau*; the suffix *kvip*; as the root *rāj*, ending in *kvip*, is *para* [?], *mo rājisamaḥ kvau* (Pā. 8-3-25 [as read]) gives *m* for the *m* of *sam*; an exception to the anusvāra; as it is dual, *supāṃ sulug…* gives *ā*; *kṛduttarapadaprakṛtisvara*. *ghṛtāsutī* — *ghṛtam āsūyate yābhyāṃ tau*; root *ṣuñ abhiṣave*; *ktin*; in the *bahuvrīhi*, the earlier member keeps its accent; dual. *yajñe-yajñe* — *nityavīpsayoḥ* (Pā. 8-1-4 [as read]) gives doubling; *anudāttaṃ ca* (Pā. 8-1-3 [as read]) makes the *pararūpa* [second] wholly *anudātta* [?]. *upastutā* — root *ṣṭuñ stutau*; *kta* in the passive; *gatir anantaraḥ* (Pā. 6-2-49 [as read]) gives the *gati* (*upa*) its own accent; as before, *ā* for the dual.
+
+### Printed p. 671  (PDF 692)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+*(Grammar, concluded.)* *enoḥ* — *etad* + *os*; by the *paribhāṣā* "a rule preceded by a *saṃjñā* is non-eternal", *osi ca* (Pā. 6-3-[?], as read "೬-೩-೧೦೩" [?]) does not give *guṇa*; *ato guṇe* (Pā. 6-1-94 [as read]) gives the *pararūpa*; the *s* becomes *ruṭva*, *visarga*. *ādhṛṣe* — root *ñidhṛṣā prāgalbhye*; since it has the sense of *śakya*, *kṛtyārthe tavaikenkeniṇtvanaḥ* (Pā. 3-4-14 [as read]) gives the suffix *kena*; as it is *kit*, the *laghūpadha-guṇa* does not occur; *kṛduttarapadaprakṛtisvara*; since it ends in *e* [?], it is *avyaya*. *devatvam* — *tasya bhāvas tvatalau* (Pā. 5-1-119 [as read]) gives the suffix *tva* in the sense of state; by the suffix accent, the final udātta. *nu* — *ṛci tunughamakṣutaṅkutroruṣyāṇām* (Pā. 6-3-133 [as read]) gives the lengthening in the Saṃhitā. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अदर्शि गातुरुरवे वरीयसी पन्था ऋतस्य समयंस्त रश्मिभिश्चक्षुर्भगस्य रश्मिभिः ।
+> द्युक्षं मित्रस्य सादनमर्यम्णो वरुणस्य च ।
+> अथा दधाते बृहदुक्थ्यं वय उपस्तुत्यं बृहद्वयः ॥ २ ॥
+
+> *adarśi gātururave varīyasī panthā ṛtasya samayaṃsta raśmibhiścakṣurbhagasya raśmibhiḥ |*
+> *dyukṣaṃ mitrasya sādanamaryamṇo varuṇasya ca |*
+> *athā dadhāte bṛhadukthyaṃ vaya upastutyaṃ bṛhadvayaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अदर्शि । गातुः । उरवे । वरीयसी । पन्थाः । ऋतस्य । सम् । अयंस्त । रश्मिऽभिः । चक्षुः । भगस्य । रश्मिऽभिः ।
+> द्युऽक्षम् । मित्रस्य । सदनम् । अर्यम्णः । वरुणस्य । च ।
+> अथ । दधाते इति । बृहत् । उक्थ्यम् । वयः । उपऽस्तुत्यम् । बृहत् । वयः ॥ २ ॥
+
+> *adarśi | gātuḥ | urave | varīyasī | panthāḥ | ṛtasya | sam | ayaṃsta | raśmi 'bhiḥ | cakṣuḥ | bhagasya | raśmi 'bhiḥ |*
+> *dyu 'kṣam | mitrasya | sadanam | aryamṇaḥ | varuṇasya | ca |*
+> *atha | dadhāte iti | bṛhat | ukthyam | vayaḥ | upa 'stutyam | bṛhat | vayaḥ ‖ 2 ‖*
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 begun: Saṃhitā and Pada written (p. 671); resume p. 672 (PDF 693; images in w10h/ for PDF 661–728) with its bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
