@@ -14079,4 +14079,66 @@ Here, Vāyu is compared to a paramour, and the sacrificer, who is the *purandhi*
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through its Bhāvārtha (p. 588); resume p. 589, PDF 610 (printed English and Special Topics of Ṛk 4); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 589  (PDF 610)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+**Printed English (heading "English Translation"; as printed):** *"For you, the brilliant dawns, (raising) from afar, spread abroad their auspicious raiment in inviting rays; in variegated and glorious rays: for you, the cow that yields ambrosia milks all kinds of treasure: you beget the Maruts, of the firmament, (for the purpose of) showering rain; (for the purpose of replenishing) the rivers."* [Print: "raising" for "rising" (sic).]
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
+
+In this Ṛk, two kinds of meaning are given for the first half. According to the first construction, the dawns, in the *antarikṣa*, adorn Vāyu with rays of many colours; according to the second construction, it is described that Vāyu in the sacrificial houses is adorned with garments made of the flames of the fire.
+
+According to the first: *śucayaḥ uṣasaḥ navyeṣu raśmiṣu citrā bhadrā vastrā tanvate* — "the shining dawns spread out, with their new and many-coloured rays, auspicious and covering garments"; according to the second: *parāvati śucayaḥ uṣasaḥ daṃsu navyeṣu raśmiṣu citrā bhadrā vastrā tanvate* — "the dawns, far away and shining, in the sacrificial houses spread out for Vāyu, with the flames of the fire — of many colours, auspicious — garments in the form of coverings": thus Sāyaṇa too has explained.
+
+***parāvati*** — there is no difference in the sense of this word in the two constructions. *Āke, parāke* and so on are found among the names of "distance" (Ni. 3-[?], as read "೩-೧೯" [?]). The author of the Nirukta, taking the Ṛk —
+
+> एतदस्या अनः शये सुसंपिष्टं विपाश्या ।
+> ससार सीं परावतः ॥
+
+> *etad asyā anaḥ śaye susaṃpiṣṭaṃ vipāśyā |*
+> *sasāra sīṃ parāvataḥ ‖*
+
+(Ṛ. Saṃ. 4-30-11 [as read]) — explains in it (Ni. 11-[?], as read "೧೧-೪೬" [?]) the sense of the word *parāvataḥ*. Among the deities of heaven, Uṣas is counted.
+
+> व्युर्णुवती दिवो अन्ताँ अबोध्यप स्वसारं सनुतर्युयोति ।
+> प्रमिनती मनुष्या युगानि योषा जारस्य चक्षसा वि भाति ॥
+
+> *vy ūrṇuvatī divo antāṁ abodhy apa svasāraṃ sanutar yuyoti |*
+> *pramināti manuṣyā yugāni yoṣā jārasya cakṣasā vi bhāti ‖*
+
+(Ṛ. Saṃ. 1-92-11 [as read].) In Ṛks such as this, the description that she unfastens all the ends of the *antarikṣa* from darkness and makes [them] shine, shows the far-off path of Uṣas's movement.
+
+> सद्यश्चिद्या सद्यश्चिरिद्या [?] श्वो दीर्घं सचन्ते वरुणस्य धाम ।
+> अनवद्यास्त्रिंशतं योजनान्येकैका क्रतुं परि यन्ति सद्यः ॥
+
+> *sadyaś cid yā sadyaś cirid yā [?] śvo dīrghaṃ sacante varuṇasya dhāma |*
+> *anavadyās triṃśataṃ yojanāny ekaikā kratuṃ pari yanti sadyaḥ ‖*
+
+(Ṛ. Saṃ. 1-123-8 [as read]; the first line's wording is doubtful in several letters [?].) In Ṛks such as this, the movement of Uṣas, going round thirty *yojanas* in a day, is described: this part is suggested in the present passage by the word *parāvati*. Although Uṣas is so far away, it is said that she spreads for you [Vāyu] *citrā, bhadrā, vastrā*; the *citra-rūpa* garments of the Uṣas — that is, her rays of many colours — adorn the *antarikṣa* Vāyu. This unique greatness of Uṣas is counted as a wonder. Therefore:
+
+### Printed p. 590  (PDF 611)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+> वाजिनीवती सूर्यस्य योषा चित्रामघा राय ईशे वसूनाम् ।
+> ऋषिष्टुता जरयन्ती मघोन्युषा उच्छति वह्निभिर्गृणाना ॥
+
+> *vājinīvatī sūryasya yoṣā citrāmaghā rāya īśe vasūnām |*
+> *ṛṣiṣṭutā jarayantī maghony uṣā ucchati vahnibhir gṛṇānā ‖*
+
+(Ṛ. Saṃ. 1-48-[?], as read "೧-೪೮-೩" [?].) In this Ṛk there is the epithet *citrāmaghā*: "she has wonderful riches", *vicitradhanā*; *vicitraraśmyaiśvaryavatī* [?] — "one who has the many kinds of wealth in the form of rays". As she has rays of many different colours, Uṣas has epithets such as *vibhāvarī* (Ṛ. 1-[?]-[?], "೧-೯೩-೪" [?]); *āhanā* (1-[?]-[?], "೧-೧೨೩-೪" [?]); *aruṣī* (3-[?]-[?], "೩-೩೯-೫" [?]); *aruṇapsu* (4-[?]-[?]). It is stated in the Nirukta itself that *vibhāvarī* and *bhāsvatī* are synonyms of Uṣas. *Vibhāvarī* means *vibhāyuktā* ("endowed with *vibhā*, brilliance"): *vibhā* is the mass of various lights, and a person having such a mass of radiance is meant. *Aruṣī* means "red"; *aruṇapsu* means "golden-coloured". And —
+
+> विषा वैनी भवति द्विबर्हा आविष्कृण्वाना तन्वं पुरस्तात् ।
+> ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ॥
+
+> *viṣā vainī bhavati dvibarhā āviṣkṛṇvānā tanvaṃ purastāt |*
+> *ṛtasya panthām anveti sādhu prajānatīva na diśo mināti ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?], as read "೩-೬೧-೪" [?]; the first line is doubtful [?].) In this Ṛk it is described that Uṣas, while changing her colour, and at the same time putting on new radiance, follows the path of *ṛta*. Such Uṣas, who has a colour of many kinds, in her glory she puts on Vāyu garments, and thereby spreads him out.
+
+In the second sense, in the Agni-form too: for the Vāyu deity in the sacrificial houses also, *citrā bhadrā vastrā tanvate* — "of wonderful form, auspicious, [Agni] spreads the garment". *Agnidvāreti pakṣe jvālānāṃ kālīkarālītyādirūpeṇa nānāvarṇatvāc citratvam* — "in the case where [the dawns] come by the door of the fire, the flames are wonderful because of their many colours, such as the *kālī* (black) and the *karālī* (fierce)": the description is thus because the flames of Agni have many forms.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through p. 590 (Special Topics start; *parāvati*, *citrā bhadrā vastrā* done); resume p. 591, PDF 612; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
