@@ -16827,4 +16827,62 @@ Know that although the word *arvan* in the Ṛk-Saṃhitā has the meaning "hors
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 5 written through p. 695 (Special Topics: *anarvāṇam* with the Wilson/Max Müller notes and *enoḥ vrataṃ ukthaiḥ* begun; more entries and the grammar follow); resume p. 696 (PDF 717; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 696  (PDF 717)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Special Topics of Ṛk 5, continued from p. 695:)* Since, in the Ṛk before us, the praise of Mitra and Varuṇa comes in a context of praising the *uktha*, the greatness of the *uktha*, and through it the greatness of Mitra and Varuṇa, are described in the light of an old story. A story in the Aitareya Brāhmaṇa tells how the power of the *uktha* is exceedingly great, how the Asuras took shelter behind it and so became formidable to the gods, and how Indra, on being praised, came and drove them away.
+
+> ते वा असुरा मैत्रावरुणस्योक्थमभ्यपद्यन्त सोऽब्रवीदिन्द्रः कः क्षाहं [?] चेमानितोऽसुरानोत्स्यावहा इत्यहं चेत्यब्रवीद्वरुणस्तस्माद्वैन्द्रावरुणं मैत्रावरुणस्तृतीयसवने शंसतीन्द्रश्च हि तान्वरुणश्च नुदेताम् ।
+
+> *te vā asurā maitrāvaruṇasyokthamabhyapadyanta so 'bravīd indraḥ kaḥ kṣāhaṃ [?] cemān ito 'surān otsyāvahā ity ahaṃ cety abravīd varuṇas tasmād vaindrāvaruṇaṃ maitrāvaruṇas tṛtīyasavane śaṃsatīndraś ca hi tān varuṇaś ca nudetām |*
+
+(Ai. Brā. 3-[?], as read "೩-೩೦" [?]; read from the image, doubtful in the words marked [?].) *Kannada sense:* The Asuras entered the *maitrāvaruṇa-uktha*. Then Indra, seeking to drive them out by the *uktha*, asked, "Who will help me?" Varuṇa said that he would help. Accordingly, in the third pressing, the *maitrāvaruṇa* priest, an assistant of the *hotṛ*, [recites]
+
+> इन्द्रावरुणा युवमध्वराय नो विशे जनाय महि शर्म यच्छतम् ।
+
+> *indrāvaruṇā yuvam adhvarāya no viśe janāya mahi śarma yacchatam |*
+
+(Ṛ. Saṃ. 6-[?]-[?], as read "೬-೬೮-೧" [?].) — taking the Sūkta that begins with this Ṛk, and praising Indra and Varuṇa; Indra and Varuṇa then drove the Asuras off from the *uktha*. In the same way those Asuras, entering the *brāhmaṇācchaṃsin*'s *uktha* and being driven out from there, joined the *acchāvāka*'s *uktha* and, being driven out from there too by Indra and Viṣṇu — such is another story of the power of the *uktha*.
+
+> यदाह बृहदुक्थे वयस्वते [?] इत्युक्थ्यं ग्रहं गृह्णामीत्युक्थेभ्यो ह्येनं गृह्णाति ।
+
+> *yad āha bṛhaduktha vayasvate [?] ity ukthyaṃ grahaṃ gṛhṇāmīty ukthebhyo hy enaṃ gṛhṇāti |*
+
+(Śa. Brā. 4-[?]-[?]-[?], as read "೪-೩-೩-೧೦" [?]; the opening is doubtful [?].) Also in the Śatapatha Brāhmaṇa, "*bṛhaduktha*" is said of Indra ["him who has great *uktha*s, and is vigorous"], and thus the *uktha* — the cause of the satisfaction of Indra's valour — and through it Indra himself are praised.
+
+> उक्थ्यो भवति पशवो वा उक्थानि पशूनामवरुद्ध्यै । तस्य पञ्चदशस्तोत्राणि भवन्ति पञ्चदशशस्त्राणि ……… ॥
+
+> *ukthyo bhavati paśavo vā ukthāni paśūnām avaruddhyai | tasya pañcadaśastotrāṇi bhavanti pañcadaśaśastrāṇi ……… ‖*
+
+(Ai. Brā. 4-[?], as read "೪-೧೩" [?].) The *ukthya* is in the form of animals; it is the means of obtaining animal-wealth. It is said in the Aitareya Brāhmaṇa that fifteen *śastra*s and fifteen *stotra*s are included in it.
+
+As the power of the *uktha* was described at the time of sacrifices and other rites, so in the context of instruction in spiritual knowledge too, the greatness of the *uktha*, in the form of *stotra* and *śastra*, is praised.
+
+### Printed p. 697  (PDF 718)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> उक्थं प्राणो वा उक्थं प्राणो हीदं सर्वमुत्थापयत्युद्स्माद्उक्थविद्वीरस्तिष्ठत्युक्थस्य सायुज्यꣳ सलोकतां जयति य एवं वेद ।
+
+> *uktham prāṇo vā uktham prāṇo hīdaṃ sarvam utthāpayaty ud asmād uktha-vid vīras tiṣṭhaty ukthasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*
+
+(Bṛ. Up. 5-1-[?], as read "೫-೧-೧" [?]; read from the image, partly doubtful [?].)
+
+> उक्थं कथोपासनानन्तरम् । उक्थं शस्त्रं तद्धि प्रधानं महाव्रते क्रतौ ।
+
+> *uktham kathopāsanānantaram | uktham śastraṃ tad dhi pradhānaṃ mahāvrate kratau |*
+
+(Śaṅkara's *bhāṣya*.) In the sacrifice called *mahāvrata*, the *uktha* is the principal *śastra*; the *uktha* is the breath (*prāṇa*): it lifts everything up; thus the son who knows the *uktha* is born well, and gains the greatness of the *uktha*, [attains] union with it and the same world. Explaining the greatness of the *uktha*, [he says] that by reciting such an *uktha* one performs the *vrata* for Mitra and Varuṇa, as the Ṛk under discussion tells.
+
+***ukthaiḥ paribhūṣati — stomair ābhūṣati*** — as stated, [the second half of the sentence] shows the order of procedure that performs the rite completely. Like the *uktha*, the *stoma* too has power. The nature and the various forms of the *stoma* are explained at length in the 138th to 150th pages of the third part of the Ṛgveda Saṃhitā [as read, [?]]; here only the benefit obtained by the *stoma* is told.
+
+> प्रातःसवने वै गायत्रेण छन्दसा त्रिवृते स्तोमाय ज्योतिर्दधाति त्रिवृता ब्रह्मवर्चसेन पञ्चदशाय ज्योतिर्दधाति पञ्चदशेनौजसा वीर्येण सप्तदशाय ज्योतिर्दधाति सप्तदशेन प्राजापत्येन प्रजननेनैकविꣳशाय ज्योतिर्दधाति स्तोम एव तत्स्तोमाय ज्योतिर्दधात्यथो स्तोममेव स्तोममभि प्रणयति यावन्तो वै स्तोमास्तावन्तः कामास्तावन्तो लोकास्तावन्ति ज्योतीꣳष्येतावत एव स्तोमानेतावतः कामानेतावतो लोकानेतावन्ति ज्योतीꣳष्यवरुन्धे ॥
+
+> *prātaḥsavane vai gāyatreṇa chandasā trivṛte stomāya jyotir dadhāti trivṛtā brahmavarcasena pañcadaśāya jyotir dadhāti pañcadaśenaujasā vīryeṇa saptadaśāya jyotir dadhāti saptadaśena prājāpatyena prajananenaikaviṃśāya jyotir dadhāti stoma eva tat stomāya jyotir dadhāty atho stomam eva stomam abhi praṇayati yāvanto vai stomās tāvantaḥ kāmās tāvanto lokās tāvanti jyotīṃṣy etāvata eva stomān etāvataḥ kāmān etāvato lokān etāvanti jyotīṃṣy avarundhe ‖*
+
+(Tai. Saṃ. 6-2-[?]-[?], as read "೭-೨-೨-೧" [?]; read from the image [?].) By such sentences of the Taittirīya Saṃhitā the powers of the *stoma*s are to be understood. The sacrificer, at the morning pressing, in the place of the *gāyatrī* metre sets up the *trivṛt-stoma* with *brahmavarcasa*; likewise from the *trivṛt*, which is of the form of light, the *pañcadaśa-stoma*; from the *pañcadaśa*, full of valour, the *saptadaśa-stoma*; and, being connected with Prajāpati, from the *saptadaśa*, which is helpful to procreation, he makes the *ekaviṃśa-stoma* shine. Thus a *stoma* of one kind gives another kind of power and brilliance to another *stoma*. There are as many kinds of *stoma* in the *stoma* as there are worlds, brilliances and desired objects. And by the *stoma* the sacrificer obtains as many worlds, brilliances and desired objects.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 5 written through p. 697 (Special Topics: the *uktha* and *stoma* passages; the Kannada text of p. 697 ends with the *stoma* sentence and continues on p. 698); resume p. 698 (PDF 719; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
