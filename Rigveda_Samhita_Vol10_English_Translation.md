@@ -11872,4 +11872,80 @@ In the second meaning the word *āyavaḥ* is explained as "those who know"; Ind
 
 ---
 
-**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 486 (PDF 507): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā…English and Special Topics begun (entries *pūravaḥ…*, *śāradīḥ*, *pṛthivīm imā apaḥ amuṣṇāḥ* written; the page may carry more entries — re-check the end of p. 486 against p. 487 on resuming); resume p. 487 (PDF 508). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484); a Kannada-transliteration slip in the last Special Topics entry on p. 486 ("belaydu annādigaḷu…" is my own transliteration of Kannada words, not Sanskrit); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 487  (PDF 508)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as printed).** *viduḥ* — root *vida jñāne*; *laṭ* third person plural, *jhi*; *vido laṭo vā* (Pā. 3-4-83) gives *jus* for *jhi*; since *j*-marked, no guṇa of the penult; since at the beginning of the *pāda* no *nighāta*; the acute on the last syllable by the suffix. *vīryasya* — *kartṛkarmaṇoḥ kṛti* (Pā. 2-3-65) gives the genitive for the object. *viduṣ ṭe* — when *viduḥ te*, *yuṣmattatakṣuṣu* (Pā. 8-3-103) gives *ṣatva* of the visarga and so *ṣ*. *avātiraḥ* — *ava* a preposition; *tira* a root with the sense of destroying; *laṅ* second person singular; because *yad* is connected there is no *nighāta*; the augment *aṭ* being acute, the first syllable is acute; *tiṅ codāttavati* (Pā. 8-1-71) gives the preposition (*ava*) the unaccented tone. *sasahānaḥ* — root *saha marṣaṇe*; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *dhātor ekāco halādeḥ kvasur…* [as read: *chandasi liṭ*]; *liṭaḥ kānajvā* (Pā. 3-2-106) gives *kānac*; since *c*-marked [as read: *yajoc ca*]; the root is doubled; *dīrgho 'kitaḥ* (Pā. 7-4-83) lengthens the reduplicative; after the *yañluk*-ending [?] *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. 3-2-129) gives *cānaś*; *citaḥ* gives the acute on the last syllable. *śāsaḥ* — root *śāsu anuśiṣṭau*; *laṅ* second person singular, *sip*; *itaś ca* drops *i*; *śap*'s *luk* is not applied by Vedic usage; the *s* of the suffix becomes *ru*, visarga; *bahulaṃ chandasy amāṅyoge 'pi* — no augment *aṭ*; at the beginning of the *pāda* no *nighāta*; *śap* unaccented so the root's accent remains. *ayajyum* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yaji-mani-śundhi…* (Uṇ. 3-[?]) gives *yuc*; in the *tatpuruṣa*, *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the accent of the first member (the indeclinable *a*). *śavasaspate* — *subāmantrite parāṅgavat svare* (Pā. 2-1-2) treats the genitive as part of the following; so the whole has the *āmantrita-nighāta*. *amuṣṇāḥ* — root *muṣa steye*, *kryādi*; *laṅ* second person singular, *sip*; *itaś ca* drops *i*; *kryādibhyaḥ śnā* (Pā. 3-1-81) gives *śnā*; *ṛṣābhyāṃ ṇo naḥ* [as read: *raṣābhyāṃ no ṇaḥ samānapade*] gives *ṇ* for the *n*; the *s* becomes *ru*, visarga; the augment *aṭ*; because it follows a finite verb, *nighāta*.
+
+### Printed p. 488  (PDF 509)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+*(Grammar, concluded.)* *āpaḥ* — accusative plural; *ūḍidaṃ padādi…* (Pā. 6-1-171) gives the acute to the ending. *mandasānaḥ* — root *madi stutimodamadasvapnakāntigatiṣu*; the suffix *āsānac* continued by *ṛñji-vṛdhi-mandi…* [as read: *ṛñji-vṛdhimandi-…*, Uṇ. 2-[?]]; *citaḥ* gives the acute on the last syllable. ‖ 4 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आदित्ते अस्य वीर्यस्य चर्किरन्मदेषु वृषन्नुशिजो यदाविथ ।
+> सखीयतो यदाविथ ।
+> चकर्थ कारमेभ्यः पृतनासु प्रवन्तवे ।
+> ते अन्यामन्यां नद्यं सनिष्णत श्रवस्यन्तः सनिष्णत ॥ ५ ॥
+
+> *āditte asya vīryasya carkiranmadeṣu vṛṣannuśijo yadāvitha |*
+> *sakhīyato yadāvitha |*
+> *cakartha kāramebhyaḥ pṛtanāsu pravantave |*
+> *te anyāmanyāṃ nadyaṃ saniṣṇata śravasyantaḥ saniṣṇata ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> आत् । इत् । ते । अस्य । वीर्यस्य । चर्किरन् । मदेषु । वृषन् । उशिजः । यत् । आविथ ।
+> सखिऽयतः । यत् । आविथ ।
+> चकर्थ । कारम् । एभ्यः । पृतनासु । प्रऽवन्तवे ।
+> ते । अन्याम्ऽअन्याम् । नद्यम् । सनिष्णत । श्रवस्यन्तः । सनिष्णत ॥ ५ ॥
+
+> *āt | it | te | asya | vīryasya | carkiran | madeṣu | vṛṣan | uśijaḥ | yat | āvitha |*
+> *sakhi 'yataḥ | yat | āvitha |*
+> *cakartha | kāram | ebhyaḥ | pṛtanāsu | pra 'vantave |*
+> *te | anyām 'anyām | nadyam | saniṣṇata | śravasyantaḥ | saniṣṇata ‖ 5 ‖*
+
+*(Read from the image: the Pada's last line prints "*te anyām-anyām*" as one compound; Saṃhitā "*cakartha kāram ebhyaḥ*".)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image).*
+
+> हे इन्द्र आदित्ते आदित्त एव ते वीर्यस्य तव सम्बन्धिने वीर्याय तवाभिवृद्धये चर्किरन् । पुनः पुनः सोमं विकिरन्ति । किरतेर्यङ्लुगन्ताल्लट्यभ्यासस्य रुगागमः ॥ सर्वेषु सवनेषु विकिरन्ति यजमानाः । आदित्युत्कृतं कुत इत्याह । मदेषु वृषन् सोमजनितमदेषु सत्सु हे कामानां वर्षितः उशिजस्त्वां कामयमानान्यजमानान् यद्यस्मात्कारणादाविथ रक्षसि । किंच सखीयतस्त्वं सखित्वमात्मन इच्छतोऽस्मान् यद्यस्मादाविथ तर्पयसि अभिमतेन प्रीणयसि । अत एव कारणादेभ्यो यजमानेभ्यः कारं शब्दं सिंहनादलक्षणं चकर्थ करोषि । पृतनासु सङ्ग्रामेषु । किमर्थम् । प्रवन्तवे प्रकर्षेण वनितुं सम्भक्तुं युद्धाय हि धीराः सम्भजन्ते । वनतेस्तुमर्थे तवेन्प्रत्ययः ॥ ताडा चेति गतेः प्रकृतिस्वरत्वम् । किंच ते तव सङ्ग्रामवासिनस्त्वय्यासन्नाः अन्यामन्यां नद्यं नदीं सन्तोषं सम्बृद्धिं तुनदि सम्बृद्धौ [?] ॥ पूर्वरूपं बाधित्वा भावेसो यणादेशः ॥ सनिष्णत सम्भजन्ते । सनेर्लेटि सिब्बहुलमिति सिप् इट् । व्यत्ययेन पुनः श्नाप्रत्ययः । आत्मनेपदेष्वनत इत्यादेशे श्नाभ्यस्तयोरातो लोप इत्यकारलोपः ॥ छान्दसस्तेरेत्वाभावः ॥ तथा श्रवस्यन्तोऽन्नमिच्छन्तो जयालब्धमन्नं काङ्क्षन्तः सनिष्णत सम्भजन्ते ॥
+
+> *he indra āditte āditta eva te vīryasya tava sambandhine vīryāya tavābhivṛddhaye carkiran | punaḥ punaḥ somaṃ vikiranti | kirateryaṅlugantāllaṭyabhyāsasya rugāgamaḥ ‖ sarveṣu savaneṣu vikiranti yajamānāḥ | ādityutkṛtaṃ kuta ityāha | madeṣu vṛṣan somajanitamadeṣu satsu he kāmānāṃ varṣitaḥ uśijastvāṃ kāmayamānānyajamānān yadyasmātkāraṇādāvitha rakṣasi | kiṃca sakhīyatastvaṃ sakhitvamātmana icchato 'smān yadyasmādāvitha tarpayasi abhimatena prīṇayasi | ata eva kāraṇādebhyo yajamānebhyaḥ kāraṃ śabdaṃ siṃhanādalakṣaṇaṃ cakartha karoṣi | pṛtanāsu saṅgrāmeṣu | kimartham | pravantave prakarṣeṇa vanituṃ sambhaktuṃ yuddhāya hi dhīrāḥ sambhajante | vanatestumarthe tavenpratyayaḥ ‖ tāḍā ceti gateḥ prakṛtisvaratvam | kiṃca te tava saṅgrāmavāsinastvayyāsannāḥ anyāmanyāṃ nadyaṃ nadīṃ santoṣaṃ sambṛddhiṃ tunadi sambṛddhau [?] ‖ pūrvarūpaṃ bādhitvā bhāveso yaṇādeśaḥ ‖ saniṣṇata sambhajante | sanerleṭi sibbahulamiti sip iṭ | vyatyayena punaḥ śnāpratyayaḥ | ātmanepadeṣvanata ityādeśe śnābhyastayorāto lopa ityakāralopaḥ ‖ chāndasasteretvābhāvaḥ ‖ tathā śravasyanto 'nnamicchanto jayālabdhamannaṃ kāṅkṣantaḥ saniṣṇata sambhajante ‖*
+
+*(Sense: "O Indra, thereafter (*ād it*) they strew (*cakiran*) Soma again and again in all the pressings for your vigour (*vīryasya*), i.e. for your increase. [*kir* in the intensive with *luk*: the reduplicative takes *ruk*.] When, *madeṣu*, in the exhilarations produced by Soma, O showerer of desires, you protect (*āvitha*) the *uśijaḥ* — sacrificers who desire you — and since you favour us who seek your friendship, satisfying us with what is wished: for that reason you utter (*cakartha kāram*) for them the lion-roar in battles (*pṛtanāsu*): for what? *pravantave* — to win, since the brave seek battle. And those who dwell in your battles, near you, obtain one enjoyment after another (*anyām-anyāṃ nadyam*, the Vedic sense 'satisfaction, growth'); *saniṣṇata* — they partake; and, desiring food, wishing for food won by victory, they partake.")*
+
+### Printed p. 489  (PDF 510)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) indra* — O Indra; *(tvam* — you); *yat* — because; *madeṣu* — when exhilaration arises from Soma; *vṛṣan* — O showerer of desires; *uśijaḥ* — the sacrificers desiring you; *āvitha* — you protect; *(kiṃ ca* — and); *sakhīyataḥ* — us, desiring your friendship; *yat āvitha* — because you favour (and satisfy); *āt it* — therefore indeed; *te* — your; *asya vīryasya* — for this increase of valour; *cakiran* — they strew Soma again and again; *ebhyaḥ* — for them (the sacrificers); *pṛtanāsu* — in battles; *kāram* — the lion-roar; *pravantave* — to encourage; *cakartha* — you make; *(kiṃ ca* — and); *te* — your (worshippers); *anyām-anyām* — various, or successive; *nadyam* — satisfaction; *saniṣṇata* — obtain; *(tathā* — likewise); *śravasyantaḥ* — desiring food (won by victory); *saniṣṇata* — obtain (from you).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, satisfied with Soma, you protect the sacrificers who desire you and seek your friendship; therefore, to increase your valour, they pour out Soma again and again; in battles you make a lion's roar to encourage them; through you they obtain various kinds of satisfaction, and, desiring food, they obtain it from you.
+
+### Printed p. 490  (PDF 511)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+**Printed English (heading "English Translation"; as printed):** *"Thenceforth have your worshippers scattered (libations) for the augmentation of your vigour, that in your exhilaration, showerer (of benefits), you may defend those who are solicitous (of your favour); that you may defend those who are desirous of (your) friendship: for them you have uttered a shout to encourage them in combats; from you they obtain many and many an enjoyment; anxious for food, they obtain it (from you)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).**
+
+***te vīryasya cakiran*** — *tava sambandhine vīryāya tadabhivṛddhaye punaḥ punaḥ somaṃ vikiranti*: "the sacrificers pour out Soma in all the pressings, often, for the increase of Indra's strength, or so that his power may grow."
+
+***uśijaḥ āvitha*** — *tvāṃ kāmayamānān yajamānān rakṣasi*: the word *uśij* is recorded among the eighteen names of "radiance-acts" beginning *vaṣṭi*, *uśnasi* (Ni. 3-[?]; as read "೩-೯") and among the names of the wise (Ni. 3-[?]; "೩-೧೯"). *Uśik* is formed from the root *vaś kāntau*, with the sense of desire; "Indra protects the sacrificers who have much desire to please him".
+
+***āvitha*** — the word is used twice. For the first, "protect"; in the second meaning, "Indra gratifies the sacrificers who seek his friendship by satisfying them".
+
+***pṛtanāsu pravantave kāraṃ cakartha*** — *saṅgrāmeṣu prakarṣeṇa sambhaktuṃ siṃhanādalakṣaṇaṃ śabdaṃ karoṣi*: the word *pṛtanā* is recorded among the names of battle (Ni. 2-[?]; as read "೨-೯"). "When fighting, Indra makes a lion-roar to defeat the enemies": so the meaning. Since the root *vana* with the prefix *pra* has the sense of begging, the meaning of the verb differs; so the wise (*dhīrāḥ*) always get ready for battle with enthusiasm: thus it is described.
+
+---
+
+**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 490 (PDF 511): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā…English done, Special Topics begun (entries to *pṛtanāsu pravantave kāraṃ cakartha*); resume p. 491 (PDF 512). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484; Ṛk 5 bhāṣya p. 488); the last entry of the Ṛk 4 Special Topics on p. 486 contains a stray Kannada transliteration ("belaydu annādigaḷu…") that should read as Kannada, not Sanskrit; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
