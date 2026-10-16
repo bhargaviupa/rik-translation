@@ -7187,4 +7187,126 @@ And here, in this matter, the illustrative sentence *dhanvāsahā nāyate nāyat
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 278 (PDF 299): Ṛks 1–3 complete (‖ 3 ‖); resume p. 279 (PDF 300) with Ṛk 4 Saṃhitā. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264, 270, 276–277 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 279  (PDF 300)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> दृळ्हा चिदस्मा अनु दुर्यथा विदे तेजिष्ठाभिररणिभिर्दाष्ट्यवसेऽग्नये दाष्ट्यवसे ।
+> प्र यः पुरूणि गाहते तक्षद्वनेव शोचिषा ।
+> स्थिरा चिदन्ना नि रिणात्योजसा नि स्थिराणि चिदोजसा ॥ ४ ॥
+
+> *dṛḷhā cidasmā anu duryathā vide tejiṣṭhābhiraraṇibhirdāṣṭyavase 'gnaye dāṣṭyavase |*
+> *pra yaḥ purūṇi gāhate takṣadvaneva śociṣā |*
+> *sthirā cidannā ni riṇātyojasā ni sthirāṇi cidojasā ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> दृळ्हा । चित् । अस्मै । अनु । दुः । यथा । विदे । तेजिष्ठाभिः । अरणिऽभिः । दाष्टि ।
+> अवसे । अग्नये । दाष्टि । अवसे ।
+> प्र । यः । पुरूणि । गाहते । तक्षत् । वनाऽइव । शोचिषा ।
+> स्थिरा । चित् । अन्ना । नि । रिणाति । ओजसा । नि । स्थिराणि । चित् । ओजसा ॥ ४ ॥
+
+> *dṛḷhā | cit | asmai | anu | duḥ | yathā | vide | tejiṣṭhābhiḥ | araṇi 'bhiḥ | dāṣṭi |*
+> *avase | agnaye | dāṣṭi | avase |*
+> *pra | yaḥ | purūṇi | gāhate | takṣat | vanā 'iva | śociṣā |*
+> *sthirā | cit | annā | ni | riṇāti | ojasā | ni | sthirāṇi | cit | ojasā ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्मा अग्नये दृळ्हा चिद्दृढान्यपि सारवन्ति हवींष्यनुक्रमेण प्रतिमन्त्रं दुः । ददाति । ददातेर्लुङि गातिस्थेति सिचो लुक् । आत इति झेर्जुस् । यजमाना ददति । दाने दृष्टान्तः । यथा विदे विदुषे परमार्थदर्शिन उत्कृष्टानि धनानि वितरन्ति दानशीलाः । यद्वा । अयमग्निर्यथा विदे विन्दते स्वातिरिक्तं हविर्देवेभ्यो दातुं लभते स्वीकरोति तथा दुः ददति । विन्दतेः श्यनः [?] शपो लुक् । लोपस्त आत्मनेपदेष्विति तलोपः । किंच सोऽग्निस्तेजिष्ठाभिरत्यन्ततेजोयुक्ताभिरग्नेर्ऋज्वग्निर्यज्ञादिरूपैः [?] दाष्टि । पूजितः सन् स्वर्गादिकं ददाति । दाश्च दाने । शपो लुक् । किमर्थमवसे तद्रक्षणाय । यद्वा । तेजिष्ठाभिरतिशयेन तेजोवद्भिररणिभिर्गमनैरन्यैरितरदेवानुद्दिश्य यजमानेन दत्तं हविरिवस्तेषां स्वीकाराय दाष्टि । अयमग्निर्ददाति । नयति । किंचाग्नये इतरदेवताप्रदानसमये ऽपि यजमानोऽग्नये प्रीतये दाष्टि । प्रथमं ददाति । किमर्थमवसे रक्षणार्थम् । यद्ययमतृप्तः स्यादितरेभ्यो दत्तमपि स्वयं
+
+> *asmā agnaye dṛḷhā ciddṛḍhānyapi sāravanti havīṃṣyanukrameṇa pratimantraṃ duḥ | dadāti | dadāterluṅi gātistheti sico luk | āta iti jherjus | yajamānā dadati | dāne dṛṣṭāntaḥ | yathā vide viduṣe paramārthadarśina utkṛṣṭāni dhanāni vitaranti dānaśīlāḥ | yadvā | ayamagniryathā vide vindate svātiriktaṃ havirdevebhyo dātuṃ labhate svīkaroti tathā duḥ dadati | vindateḥ śyanaḥ [?] śapo luk | lopasta ātmanepadeṣviti talopaḥ | kiṃca so 'gnistejiṣṭhābhiratyantatejoyuktābhiragnerṛjvagniryajñādirūpaiḥ [?] dāṣṭi | pūjitaḥ san svargādikaṃ dadāti | dāśca dāne | śapo luk | kimarthamavase tadrakṣaṇāya | yadvā | tejiṣṭhābhiratiśayena tejovadbhiraraṇibhirgamanairanyairitaradevānuddiśya yajamānena dattaṃ havirivasteṣāṃ svīkārāya dāṣṭi | ayamagnirdadāti | nayati | kiṃcāgnaye itaradevatāpradānasamaye 'pi yajamāno 'gnaye prītaye dāṣṭi | prathamaṃ dadāti | kimarthamavase rakṣaṇārtham | yadyayamatṛptaḥ syāditarebhyo dattamapi svayaṃ*
+
+*(Read from the image; checked against the OCR, which is garbled in places. The words marked [?] — "śyanaḥ", "agner ṛjvagnir-yajñādirūpaiḥ" — are small and doubtful and the clause is given as read; the paraphrase on p. 281 gives the sense.)*
+
+### Printed p. 280  (PDF 301)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+> स्वीकुर्यात् तस्मादग्नये प्रयाजादिरूपेण ददातीत्यर्थः । किंच यः पुरूणि बहूनि सामर्थ्याद्यजमानधनादीनि प्र गाहते । प्रविशति । प्रविश्य च वाश्यादिरूपया ज्वालया तक्षत् तनूकरोति । नाशयतीत्यर्थः । तत्र दृष्टान्तः । वनेव । वृक्षादिसमूहानि वनानि यथा प्रविश्य तक्षति दहति तथेत्यर्थः । किंचायमग्निः स्थिरा स्थिराणि कठिनान्यन्नान्नानि [?] प्रीह्यादीन्योजसा तेजोरूपया ज्वालया नि रिणाति । नितरां रिणाति । गच्छति । पचतीत्यर्थः । री गतिरेषणयोः क्र्यादिः । प्वादीनां ह्रस्वः । तथौजसा स्वकीयेन तेजसा स्थिराण्यपरिहरणीयानि पापान्यमित्राणि वा नि रिणाति । निःशेषेण गच्छति । नाशयतीत्यर्थः ॥
+
+> *svīkuryāt tasmādagnaye prayājādirūpeṇa dadātītyarthaḥ | kiṃca yaḥ purūṇi bahūni sāmarthyādyajamānadhanādīni pra gāhate | praviśati | praviśya ca vāśyādirūpayā jvālayā takṣat tanūkaroti | nāśayatītyarthaḥ | tatra dṛṣṭāntaḥ | vaneva | vṛkṣādisamūhāni vanāni yathā praviśya takṣati dahati tathetyarthaḥ | kiṃcāyamagniḥ sthirā sthirāṇi kaṭhinānyannānnāni [?] prīhyādīnyojasā tejorūpayā jvālayā ni riṇāti | nitarāṃ riṇāti | gacchati | pacatītyarthaḥ | rī gatireṣaṇayoḥ kryādiḥ | pvādīnāṃ hrasvaḥ | tathaujasā svakīyena tejasā sthirāṇyapariharaṇīyāni pāpānyamitrāṇi vā ni riṇāti | niḥśeṣeṇa gacchati | nāśayatītyarthaḥ ‖*
+
+*(Read from the image; "annānnāni" is doubtful in the print.)* "To this Agni *dṛḷhā cid* — even the hard, [i.e.] sappy oblations, in order, with each mantra, *duḥ* — they give; the sacrificers give. [*Duḥ* is the aorist of *dā*, with the loss of *siC* by *gātisthā…* and *jus* for *jhi*.] An illustration in giving: *yathā vide* — as the generous give excellent riches to the knower, the one who sees the highest truth; or else, as this Agni *vide* — gets (*vindate*) oblations over and above his own to give to the gods, accepts them: so they give. Moreover that Agni, by the *tejiṣṭhābhiḥ* — extremely radiant — *araṇibhiḥ* — [forms or ways] such as sacrifice, *dāṣṭi* — being honoured, gives heaven and the like. For what? *Avase* — for the protection of them. Or else: by *araṇibhiḥ* — with goings, most radiant — the oblation given by the sacrificer with reference to other gods, for their acceptance, he gives; this Agni gives, leads. Moreover, *agnaye* — to Agni, even at the time of giving to other deities, the sacrificer gives first, for his satisfaction: for what? *avase* — for protection; for if he were unsatisfied, he himself would take even what is given to the others; therefore he gives to Agni in the form of the *prayājas* and the like: that is the sense. Further, *yaḥ* — he who *puruṇi pra gāhate* — enters many things, [the property of the sacrificer], and entering, with flame in the form of an adze and the like *takṣat* — thins them, destroys. An illustration: *vaneva* — as forests, masses of trees and the like, are entered, cut, burnt. Moreover this Agni, *sthirā anna* — firm foods (rice, grain and the like) *ojasā* — with flame that is brightness — *ni riṇāti* — goes thoroughly, cooks them. (*Rī* — Kryādi class, 'to go', 'to hurt'; *prādīnāṃ hrasvaḥ* [shortening].) And with his own brightness *sthirāṇi* — unavoidable sins or enemies — *ni riṇāti* — goes through completely, destroys."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yaḥ* — which Agni; *puruṇi* — many (oblations and the like); *pra gāhate* — pervades; *śociṣā* — with the flame; *vaneva* — as a forest; *takṣat* — destroys (reduces); *sthirā cit* — even hard; *annā* — grains and the like; *ojasā* — with the bright flame; *ni riṇāti* — cooks well; *(tathā* — likewise); *ojasā* — with his own power; *sthirāṇi cit* — even the unavoidable (sins or enemies); *(ni riṇāti* — destroys); *asmai* — to such Agni; *dṛḷhā cit* — even the sappy [oblations]; *vide yathā* — as to the wise (the givers give); *anu* — in order (with each mantra); *duḥ* — they give; (*kiṃ ca* — and, Agni); *athavā* — or; *tejiṣṭhābhiḥ* — most radiant; *araṇibhiḥ* — (with sacrifice and other) ways [*mārga*]; (being honoured) *avase* — for the protection (of us the doers); *dāṣṭi* — gives (heaven and the like); [*athavā* — or; *tejiṣṭhābhiḥ* — most radiant; *araṇibhiḥ* — (with his) goings; *avase* — for the protection of the sacrifice; *dāṣṭi* — gives (the oblations to other deities); (and the sacrificer, when making the oblations to other deities,) *agnaye* — to Agni; *avase* — for the protection of the sacrifice; *dāṣṭi* — gives (oblation and the like)].
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, entering the many things (given by the sacrificer), burns them like a forest (quickly); however hard the grains (given by the sacrificer) may be, he cooks them with his flame; and he destroys, by his power, the unavoidable (sins or enemies). To this Agni the sacrificers, as the givers to a knower, offer sappy oblations with each mantra; Agni too, with his flames most radiant, being honoured by the sacrificer, gives heaven and the like; and the sacrificer, even when offering to other gods, gives the oblation first to Agni, for the protection of the sacrifice.
+
+### Printed p. 281  (PDF 302)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+**Printed English (as printed):** *They have presented substantial offerings to him, as (they give riches) to a sage, and by resplendent means he grants us (grace) for our preservation : (the worshipper) presents (gifts) to Agni for preservation : he who pervades the (many offerings made to him) consumes them (as rapidly) as (he consumes) forests : he matures the standing corn by his potency ; he destroys whatever (things) are stationary by his potency.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 4.**
+
+***asmai dṛḷhā cid anu duryathā vide*** — *agnaye sāravanti havīṃṣi anukrameṇa pratimantraṃ dadati yajamānāḥ | viduṣe paramārthadarśine utkṛṣṭāni dhanāni vitaranti dānaśīlāḥ | yadvā ayam agnir yathā vide vindate svātiriktaṃ havir devebhyo dātuṃ labhate svīkaroti tathā duḥ dadati.* The sacrificers who perform the sacrifice offer to Agni the substantial oblations in order, with the various mantras. As, in the world, generous persons give the best things and wealth to a wise, learned man, so the comparison is made in the matter of offering oblations to Agni; this is one meaning that Sāyaṇa gives for the sentence.
+
+In the second way of explaining the meaning, though the meaning of the illustrating sentence is the same, it is described that, as Agni receives his own share of the oblation and also separately receives the oblations to be offered to the other gods, the sacrificers offer the oblations.
+
+That the particle *cit* is used in the sense *dhārtha* [as printed; the sense given there is that of emphasis] has been explained in the special topics of the previous ṛk (Ṛ. Saṃ. 1-127-3).
+
+***tejiṣṭhābhir araṇibhir dāṣṭy avase agnaye dāṣṭy avase*** — in this sentence the word *dāṣṭy avase* is repeated twice. In the first meaning it is explained that Agni, honoured by the performance of sacrifices and the like that are full of splendour, bestows heaven and the like for the protection of those who perform the sacrifice.
+
+### Printed p. 282  (PDF 303)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+In the second meaning it is described that Agni, with the goings that shine by his own radiance, protects the oblations offered by the sacrificers with reference to other gods, so that the respective gods may accept them, and carries them to each of them.
+
+By the second sentence *agnaye dāṣṭy avase*: when the sacrificer offers oblations for other gods, he first offers the oblation to Agni, in order that Agni be pleased. If Agni is not satisfied, there is no protection for the sacrificer in his offering also the oblations of the other gods to him; therefore, for Agni's satisfaction, he describes that the sacrificer first performs the *prayājas* and the like.
+
+***araṇibhiḥ*** — *yajñādirūpaiḥ mārgaiḥ gamanaiḥ*: two kinds of meaning are given for *araṇi*: "the ways that exist in forms such as the sacrifice", and "goings, courses". Yāska —
+
+> अग्निं नरो दीधितिभिररण्योर्हस्तच्युती जनयन्त प्रशस्तम् ।
+> दूरेदृशं गृहपतिमथर्युम् ॥
+
+> *agniṃ naro dīdhitibhiraraṇyorhastacyutī janayanta praśastam |*
+> *dūredṛśaṃ gṛhapatimatharyum ‖*
+
+(Ṛ. Saṃ. 7-1-1, as printed "೭-೧-೧".) *(Read letter by letter.)* — citing this ṛk, he explains *araṇī — agniḥ samaraṇāj jāyata iti vā*; and he gives for the word *araṇi* the meaning "a particular wood".
+
+***puruṇi pra gāhate takṣat vaneva*** — *bahūni | sāmarthyāt yajamānadhanādīni praviśati praviśya ca vāśyādirūpayā jvālayā tanūkaroti nāśayatīty arthaḥ | vṛkṣādisamūhāni vanāni yathā praviśya takṣati dahati tathā*: this Agni, as one enters and burns the forests that are masses of trees, enters with his flames the things of the sacrificers and destroys them; so it is described.
+
+***sthirā annā ojasā ni riṇāti sthirāṇi ni cid ojasā*** — in this sentence the verb *ni riṇāti* is stated twice. In this sentence the word *sthirā* is explained as "hard", and made an epithet of the word *annā*, *annāni vrīhyādīni* ("grains such as rice"): Agni cooks with his flames, that are of the nature of heat, the hard rice and the like. The meaning is as such.
+
+For the other word *sthirāṇi*, [Sāyaṇa] explains *aparihāraṇīyāni pāpāni amitrāṇi vā*, "unavoidable sins or enemies", and says that Agni destroys these by his flames, which are of the nature of radiance.
+
+### Printed p. 283  (PDF 304)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+***annā*** — *annāni vrīhyādīni* — Sāyaṇa so explains. The word *anna* is stated among the one hundred and one names of water (Ni. 1-[?]4, as printed "೨-೨೪" [?]); *annaṃ kasmād ānatam bhūtebhyo 'rtvā* [as printed "ಅರ್ತ್ವಾ"?] (Ni. 3-[?]) — "because it is bent [to] beings, [it is] food", because it is food for creatures.
+
+> आद्यते चात्ति च भूतानि । तस्मादन्नं तदुच्यते ॥
+
+> *ādyate cātti ca bhūtāni | tasmādannaṃ taducyate ‖*
+
+(Tai. U. 2-2 [?], as printed "ತೈ. ಉ. ೨-೨".) This is stated in the *śruti*: the word *anna* is derived from the root *ad* (to eat); it is that which is eaten by living creatures, or that which eats living creatures; thus it is described.
+
+***ojasā*** — *tejorūpayā jvālayā, svakīyena tejasā*: Sāyaṇa explains the word *ojas* here as the flames, which are of the nature of brightness, or as "radiance belonging to Agni". The word *ojas* is recorded among the twenty-eight names of strength, beginning *ojaḥ pājaḥ* (Ni. 2-[?]; as printed "೨-೯"); the meaning is "strength".
+
+> श्रायन्त इव सूर्यं विश्वेदिन्द्रस्य भक्षत ।
+> वसूनि जाते जनमान ओजसा प्रति भागं न दीधिम ॥
+
+> *śrāyanta iva sūryaṃ viśvedindrasya bhakṣata |*
+> *vasūni jāte janamāna ojasā prati bhāgaṃ na dīdhima ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as printed "೧-೫೫-೫"? — numerals unclear.) Citing this ṛk in the Nirukta (Ni. 6-8 [?]), he explains *ojasā* as *balena*, "with strength"; and says that the form *ojas* is from the root *oj* or from the root *ubj*.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; noted briefly, numbers as read by the OCR and the page).** *dṛḷhā* — root *dṛha dṛhi vṛddhau*; *dṛḍhaḥ sthūlabalayoḥ* (Pā. 7-2-20) records it as formed with *kta*; in the neuter plural *dṛḷhāni*; *śeś chandasi bahulam* (Pā. 6-1-70) elides *śi*. *duḥ* — root *ḍudāñ dāne*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives luṅ in the present sense; for *cli*, *siC*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77) gives *luk* of it; since the root ends in *ā*, *ātaḥ* (Pā. 3-4-110) gives *jus* for the following *jhi*; *usyapadāntāt* (Pā. 6-1-96) gives *pararūpa*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75) gives no augment; *tiṅ-nighāta*. *vide* — root *vida jñāne*; *kvip* by *kvasuś ca* [print: "ಕ್ವಿಸ್ ಚ"]; dative singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the ending. In the second explanation, from *vidḷ lābhe*; *bahulaṃ chandasi* gives *luk* of *śyan*; laṭ third person singular *ta*; *ṭi* becomes *e*; *lopas ta ātmanepadeṣu* (Pā. 7-1-41) elides the *t*; since *yathā* precedes, no *nighāta*; final-acute by the suffix accent.
+
+### Printed p. 284  (PDF 305)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*tejiṣṭhābhiḥ* — the word *tejas*; in the sense of possession, *asmāyāmedhāsrajo viniḥ* (Pā. 5-2-121) gives *vin*; with the sense of excess *iṣṭhan*; with it following, *vinmatorluk* (Pā. 5-3-65) gives *luk* of *vin*; *ṭeḥ* (Pā. 6-4-155) elides the *ṭi* (*as*); since the suffix has the marker *n*, first-syllable acute; instrumental plural. *dāṣṭi* — root *dāśṛ dāne*; laṭ third person singular *tip*; *bahulaṃ chandasi* gives *luk* of *śap*; *vraścabhrasja…* (Pā. 8-2-36) gives *ṣa* for the *ś*; taking it as cause, *ṣṭutva* of the *t* of the ending; *tiṅ-nighāta*. *avase* — root *ava rakṣaṇe*; suffix *asun*; since *n*-marked, first-syllable acute; dative singular. *gāhate* — root *gāhū viloḍane*; laṭ third person singular; since *yaḥ* is connected, no *nighāta*; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* makes it unaccented, so the root-accent remains. *takṣat* — root *takṣū tanūkaraṇe*; in the Veda laṅ in the present sense, third person singular; *bahulaṃ chandasy amāṅyoge 'pi* gives no augment *aṭ*; since it comes after a verb (*yaḥ pra gāhate*), no *nighāta*; the root-accent remains. *vanā* — *supāṃ sulug…* (Pā. 7-1-39) gives *ā* to the accusative plural. *sthirā* — neuter plural, by *śeś chandasi bahulam* elision of *śi*; likewise in *annā*. *riṇāti* — root *rī gatireṣaṇayoḥ*; Kryādi; laṭ third person singular *tip*; *kryādibhyaḥ śnā* (Pā. 3-1-81); *svādīnāṃ hrasvaḥ* (Pā. 7-3-80) shortens the root; *āṭ kupvāṅ…* gives *ṇatva* of the suffix; *tiṅ-nighāta*. ‖ 4 ‖
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 284 (PDF 305): Ṛks 1–4 complete (‖ 4 ‖); resume p. 285 (PDF 306) with Ṛk 5 Saṃhitā. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264, 270, 276–277 small type [?]; Ṛk 4 bhāṣya (p. 279) small type; Sūkta 126 Ṛk 5/7 bhāṣya.
