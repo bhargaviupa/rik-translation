@@ -1155,8 +1155,81 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 **Printed English (as printed):** *I praise you, Mitra and Varuna, for your gift of numerous cattle to the Pajra, and (from those praises) may abundant food (proceed). May (the gods), bestowiug [sic] nourishment on me, come quickly unimpeded, (each) in his famous and favourite car.*
 
-**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.** ***pṛkṣayāmeṣu*** — *pṛkṣa*śabda is recorded among the names of food (Ni. 2-7 [?], as read), *pṛkṣāṇām annānāṃ niyamanaṃ yeṣu stotreṣu yajñeṣu vā* — [in the praises or the sacrifices] in which food is regulated, or the …
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.** ***pṛkṣayāmeṣu*** — *pṛkṣa*śabda is recorded among the names of food (Ni. 3-9, as read by the reader's OCR), *pṛkṣāṇām annānāṃ niyamanaṃ yeṣu stotreṣu yajñeṣu vā* — [in the praises or the sacrifices] in which food is regulated, or the …
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 36 (PDF 57): Ṛks 1–7 translated; Ṛk 7 Special Topics begun (*pṛkṣayāmeṣu*, Ni. 2-7 [?]; continues on p. 36 line "ಪೃಕ್ಷಯಾಮೇಷು—ಪೃಕ್ಷಶಬ್ದವು ಅನ್ನನಾಮಗಳಲ್ಲಿ…" and p. 37, PDF 58). Printed page = PDF − 21. The reader's OCR (Google Docs) covers up to printed p. 36 only; from p. 37 the numerals are my own reading (`[?]` where doubtful). Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664. Open: `[?]` as listed in `docs/vol10_nonnumeral_qmarks_ocr_check.md` and in the text.
+
+### Printed p. 37  (PDF 58)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* …*pṛkṣayāmeṣu* (continued): "…whether for the sake of sacrifices or [of praises] — this is the sense." The scholar Monier Williams, in his Sanskrit-English Dictionary, has pointed to this word in this same ṛk and given the meaning *"Driviug [sic] swift horses"* and *"Probably name of a family"* — "probably the name of a family", he has inferred. The epithets that follow, *priyarathe śrutarathe*, refer to Kakṣīvān's chariots, so this meaning, it appears, was probably given for them.
+
+***nirundhānāsaḥ*** — *āvarundhānāḥ asmāsv eva sthāpayantaḥ | yadvā | mayi puṣṭiṃ dadhānāḥ kurvāṇāḥ nirundhānāsaḥ kṛtsnām eva puṣṭiṃ mayi sthirāṃ kurvantaḥ* — "establishing in me alone the nourishment of cattle and so on" — or "making the nourishment that they have established firm [in me]". 
+
+***priyarathe śrutarathe*** — By Svanaya, the cows and chariots given in great numbers, who were lords (*svāmin*) over them — it seems probable that Kakṣīvān described himself by these epithets.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 7, noted briefly).** *Stuṣe* — the root *ñiṣṭuñ stutau*, *adādi*; by *vyatyayo bahulam* the *laṭ* 1st-person singular suffix is replaced by *thās*, and by *thāsaḥ se* the *se*; the *śap* has *luk*; after an *atiṅanta* no *nighāta*; the suffix accent. *Rātiḥ* — the root *rā dāne*; by *striyāṃ ktin* the suffix *ktin* in the sense of the action; though *nit*, by *mantre vṛṣeṣapacamanavidabhūvīrā…* (Pā. Sū. 3-3-96 [?]) the acute on the suffix. *Śatā* — the word *śata*, the genitive plural; *supāṃ sulug…* (Pā. Sū. 7-1-39) lengthening of the preceding vowel. *Pṛkṣayāmeṣu* — *pṛkṣāṇāṃ yāmāḥ yeṣu te pṛkṣayāmāḥ*, among them; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member; likewise in *śrutarathe priyarathe*. *Dadhānāḥ* — the root *dhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*, the suffix *śānac*; *juhotyādibhyaḥ śluḥ* (Pā. Sū. 2-4-75) *śluḥ* for the vikaraṇa; *ślau* reduplication of the root; *hrasvaḥ* (shortening) and *jakṣ…* ; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute.
+
+### Printed p. 38  (PDF 59)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 7).** *Nirundhānāsaḥ* — the prefix *ni*; the root *rudhir āvaraṇe*; *laṭ*, the suffix *śānac*; *rudhādibhyaḥ śnam* (Pā. Sū. 3-1-78) the vikaraṇa *śnam*, which is *mit*, so it is placed after the last vowel; since it is *apit*, the *sārvadhātuka* suffix is *ṅit*, so there is no guṇa; *śnasor alloṣaḥ* (Pā. Sū. 6-4-111) the elision of the *a* of the vikaraṇa; the remaining *n* becomes anusvāra with *paravarṇa*; *cita* (Pā. Sū. 6-1-163) the final udātta; when *jas* follows, *ājjaser asuk* (Pā. Sū. 7-1-50) the augment *asuk*. *Agman* — the root *gamḷ gatau*; to show the sense of the aorist in the Chandas, *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *luṅ*; 3rd plural, *jhi* has *ant*, the elision of the *i*; *mantre ghasahvaranaśavṛdahādvṛc…* (Pā. Sū. 2-4-80) the *luk* of *cli*; since the suffix is *jit*/*ṇit*, the loss of the root's penultimate; the augment *aṭ* for the stem; after an *atiṅanta* the *nighāta*. ‖ 7 ‖
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> अस्य स्तुषे महिमघस्य राधः सचा सनेम नहुषः सुवीराः ।
+> जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः ॥ ८ ॥
+
+> *asya stuṣe mahimaghasya rādhaḥ sacā sanema nahuṣaḥ suvīrāḥ |*
+> *jano yaḥ pajrebhyo vājinīvānaśvāvato rathino mahyaṃ sūriḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्य । स्तुषे । महिऽमघस्य । राधः । सचा । सनेम । नहुषः । सुऽवीराः ।
+> जनः । यः । पज्रेभ्यः । वाजिनीवान् । अश्वऽवतः । रथिनः । मह्यम् । सूरिः ॥ ८ ॥
+
+> *asya | stuṣe | mahi 'maghasya | rādhaḥ | sacā | sanema | nahuṣaḥ | su 'vīrāḥ |*
+> *janaḥ | yaḥ | pajrebhyaḥ | vājinīvān | aśva 'vataḥ | rathinaḥ | mahyam | sūriḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> महिमघस्य । महि महत्पूज्यं मघो धनमन्नं वा यस्य देवसंघस्य स तथोक्तः । तादृशस्यास्य राधो धनं स्तुषे । स्तुवे । व्यत्ययेन मध्यमः । धनलाभाय प्रभूतधनं देवसंघं स्तौमीत्यर्थः । किञ्च नहुषः । मनुष्यनामैतत् ।
+
+> *mahimaghasya | mahi mahatpūjyaṃ magho dhanamannaṃ vā yasya devasaṃghasya sa tathoktaḥ | tādṛśasyāsya rādho dhanaṃ stuṣe | stuve | vyatyayena madhyamaḥ | dhanalābhāya prabhūtadhanaṃ devasaṃghaṃ staumītyarthaḥ | kiñca nahuṣaḥ | manuṣyanāmaitat |*
+
+### Printed p. 39  (PDF 60)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)*
+
+> परस्परस्नेहबन्धोपेता मनुष्या वयं कक्षीवन्तः सुवीराः शोभनपुत्राद्युपेताः सन्तः सचा सह परस्परैकमत्येन सनेमु [?] । त्वद्दत्तं धनं सम्भजेमहि । लभेमहि । देवसंघो विशेष्यते । यो जनो देवजनो यष्ट [?] देवसंघः पज्रेभ्योऽङ्गिरोगोत्रोत्पन्नेभ्यः कक्षीवद्भ्यः । पज्रा वा अङ्गिरस इति श्रुतेः । तेभ्यो वाजिनीवान् । वाजोऽन्नम् । तद्वती क्रिया वाजिनी । तया तद्वान् वाजिनीवान् । यद्वा । एको मत्वर्थीयप्रत्ययश्छान्दसः । अस्मभ्यं प्रदेयेन वत्रेण वान्नेन तद्वान्वाजिनीवानित्यर्थः । यश्च देवसंघोऽश्वावतो बहुभिस्तद्दत्त्रैरश्वैस्तद्वतो रथिनो रथवतो मह्यं मे सूरिः प्रेरको भवति । अश्वानां रथानां प्रेरयितारं देवसंघं स्तुष इत्यर्थः ॥ सुवीराः । वीरवीर्ये चेत्युत्तरपदाद्युदात्तत्वम् । अश्वावतः । अश्वशब्दस्य मन्त्रे सोमाश्वेत्यादिना मतुपि दीर्घत्वम् ॥
+
+> *parasparasnehabandhopetā manuṣyā vayaṃ kakṣīvantaḥ suvīrāḥ śobhanaputrādyupetāḥ santaḥ sacā saha parasparaikamatyena sanemu [?] | tvaddattaṃ dhanaṃ sambhajemahi | labhemahi | devasaṃgho viśeṣyate | yo jano devajano yaṣṭa [?] devasaṃghaḥ pajrebhyo 'ṅgirogotrotpannebhyaḥ kakṣīvadbhyaḥ | pajrā vā aṅgirasa iti śruteḥ | tebhyo vājinīvān | vājo 'nnam | tadvatī kriyā vājinī | tayā tadvān vājinīvān | yadvā | eko matvarthīyapratyayaśchāndasaḥ | asmabhyaṃ pradeyena vatreṇa vānnena tadvānvājinīvānityarthaḥ | yaśca devasaṃgho 'śvāvato bahubhistaddattrairaśvaistadvato rathino rathavato mahyaṃ me sūriḥ prerako bhavati | aśvānāṃ rathānāṃ prerayitāraṃ devasaṃghaṃ stuṣa ityarthaḥ ‖ suvīrāḥ | vīravīrye cetyuttarapadādyudāttatvam | aśvāvataḥ | aśvaśabdasya mantre somāśvetyādinā matupi dīrghatvam ‖*
+
+(The last two sentences are the grammatical tail, partly legible; they are given as read.) "Of that [assembly of the gods] who have great (*mahi*) wealth (*magha*, wealth or food), I praise the gift (*rādhaḥ*, wealth); *stuṣe* — 'I praise'; the second person is used for the first by *vyatyaya* — that is, 'to obtain wealth I praise the assembly of the gods which has abundant wealth'. And further, *nahuṣaḥ*: this is a name for men: we men, joined by mutual affection and ties, the Kakṣīvats, with good sons and the like (*suvīrāḥ*), together, with mutual unity of mind, might gain (*sanemu*) [it]; might share (*sambhajemahi*) the wealth given by you. [Then] the assembly of the gods is qualified: the people, the divine people, the sacrificer [?], the assembly of the gods is *vājinīvān* for the Pajras — the descendants of Aṅgiras, the Kakṣīvats; for the śruti says *pajrā vā aṅgirasaḥ* ("Pajras indeed are Aṅgirases"). *Vāja* is food; the action connected with it is *vājinī*; he who has it is *vājinīvān*. Or else, a single possessive suffix, in the Vedic way: he who has food or the like to be given to us. And the assembly of the gods who, to me — who have horses (*aśvavataḥ*) given by them in great numbers and who have chariots (*rathinaḥ*) — is *sūri*, the impeller; that is: 'I praise the assembly of the gods who impel [or give] the horses and chariots'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yaḥ janaḥ* — which assembly of the gods; *pajrebhyaḥ* — to the Pajras born in the Aṅgiras line (to us who are called Kakṣīvats); *vājinīvān* — (giving) one with food; (*yaḥ janaḥ* — which assembly of the gods); *aśvavataḥ* — one with horses (given by them); *rathinaḥ* — one with chariots; *mahyam* — to me; *sūriḥ* — the impeller; (*tasya* — of such [an assembly]); *mahimaghasya* — endowed with excellent wealth (food); *asya* — of this assembly of the gods; *rādhaḥ* — the wealth; *stuṣe* — I praise; *kiñca* — and; *nahuṣaḥ* — we men; *suvīrāḥ* — having excellent sons and the like; *sacā* — with one mind; *sanema* — may we gain the wealth (given by them).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** In order to obtain wealth I praise the deities who give us food, to be given by the Aṅgirases, who impel me — I who have horses and chariots given by them — and who are of excellent wealth. Grant that we, with heroic sons and with one mind, may obtain the wealth given by you.
+
+**Printed English (as printed):** *I laud the treasures of that opulent (assembly of the god s) : may we, men who (are blessed) with excellent descendants, partake of them together : the assembly conferring upon the Pajras abundant food, has been my benefactor, and has made me the master of horses and chariots.*
+
+### Printed p. 40  (PDF 61)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 8.**
+
+***nahuṣaḥ*** — This word is recorded among the names of *manuṣya* ("man") (Ni. 2-2 [?], as read). *Parasparasnehabandhopetā manuṣyā vayaṃ kakṣīvantaḥ* — "we, Kakṣīvān's people, bound by mutual affection and kinship": the sense indicated by the word *nahuṣa* has been explained [above]. [The matter of Nahuṣa has been told earlier.]
+
+***sūriḥ*** — The word *sūri* is recorded among the names of the praiser (*stotṛ*) (Ni. 3-1[?]-[?], as read); it has been used in the Saṃhitās in the senses *medhāvin*, *krāntadarśin*, *tattvajña* ("intelligent", "far-seeing", "knower of the truth"); here the Nirukta writers have given the meaning *preraka* ("impeller") for the word *sūri*.
+
+> जिष्णुर्वामन्यः सुमुखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ।
+
+> *jiṣṇurvāmanyaḥ sumukhasya sūrirdivo anyaḥ subhagaḥ putra ūhe |*
+
+(Ṛ. Saṃ. 1-181-4 [?], as read.) In citing this ṛk they have shown, for the word *sūri* in it, that the sense is *erayitā*, *prerakaḥ* ("one who sets in motion, an impeller") (Ni. 13-2 [?], as read). In the same way here too: "the assembly of the gods, the people, is for me *sūri* — that is: 'the impeller to carry out the sacrificial duties and the like'."
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 8, noted briefly).** *Asya* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. *Stuṣe* — the root *ñiṣṭuñ stutau*, *adādi*; *vyatyayo bahulam* — the *laṭ* 1st-person suffix is replaced by *thās*; by *se* ; *śap* has *luk*; after an *atiṅanta* the *nighāta*. *Mahimaghasya* — *mahi pūjyaṃ maghaṃ dhanaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *Rādhaḥ* — *rādhnuvanti anena iti rādhaḥ dhanam*; the root *rādha saṃsiddhau*; *sarvadhātubhya asun* (Uṇ. Sū. 4-6[?]-[?], as read) the suffix *asun*; since *nit*, the initial acute. *Sacā* — the root *ṣacaḥ samavāye*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *sa* for the initial; since it belongs to the *sampadādi* group, *sampadādibhyaḥ kvip* (Pā. Sū. 3-3-108 [?], as read) the suffix *kvip* in the sense of the action; instrumental singular; though a word of one syllable, by *vyatyaya* the root accent remains.
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 40 (PDF 61): Ṛks 1–8 translated; Ṛk 8's Special Topics (*nahuṣaḥ*, *sūriḥ*) and grammar page done. Next: Ṛk 9 from printed p. 41 (PDF 62). Printed page = PDF − 21. The reader's OCR covers only up to printed p. 36; from p. 37 numerals are my own reading (`[?]` where doubtful). Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
