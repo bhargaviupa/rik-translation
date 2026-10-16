@@ -8712,4 +8712,104 @@ And the word *adhvara* is recorded among the sixteen names of the middle space (
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 342 (PDF 363): Ṛks 1–3 complete; Ṛk 4 Saṃhitā…Special Topics done (to end of p. 342); resume p. 343 (PDF 364) with the Ṛk 4 grammar, then Ṛk 5. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338; OCR reference-number lines missing for pp. 249–342.
+### Printed p. 343  (PDF 364)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read: "೧೫"].)*
+
+(Continuing the Special Topics of Ṛk 4:) The word *vahni* is recorded among the twenty-six names of horse (Ni. 1-[?]; as read "೧-೧೨"). And —
+
+> न जामये तान्वो रिक्थमारैक् चकार गर्भं सनितुर्निधानम् ।
+> यदी मातरो जनयन्त वह्निमन्यः कर्ता सुकृतोरन्य ऋन्धन् ॥
+
+> *na jāmaye tānvo riktham āraik cakāra garbhaṃ sanitur nidhānam |*
+> *yadī mātaro janayanta vahnim anyaḥ kartā sukṛtor anya ṛndhan ‖*
+
+(Ṛ. Saṃ. 3-31-2, as read; the numerals are small and doubtful [?].) Here the word *vahni* is explained as *vodhāraṃ putram*, "the bearer, the son". And —
+
+> मेद्यन्तु ते वह्नयो येभिरीयसेऽरिषण्यन् वीळयस्वा वनस्पते ।
+> आयूया धृष्णो अभिगूर्या त्वं नेष्ट्रात् सोमं द्रविणोदः पिब ऋतुभिः ॥
+
+> *medyantu te vahnayo yebhir īyase 'riṣaṇyan vīḷayasvā vanaspate |*
+> *āyūyā dhṛṣṇo abhigūryā tvaṃ neṣṭrāt somaṃ draviṇodaḥ piba ṛtubhiḥ ‖*
+
+(Ṛ. Saṃ. 2-37-3 [?], as read; the numerals are doubtful. The word "*neṣprāt*" is printed as in the Kannada letters "ನೇಷ್ಪ್ರಾತ್"; I give the letters I read, without completing: [?].) In this Ṛk the word *vahni* is explained as *vodhā* — "the bearer".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as read).** *sukratuḥ* — *śobhanaḥ kratuḥ yasya saḥ*; *kṛtyādayaś ca* [as read, Pā. 6-2-[?]] the acute on the first syllable of the latter member. *purohitaḥ* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, the suffix *kta* in the passive; *dadhāter hiḥ* (Pā. 7-4-42) the root becomes *hi*; *gatir anantaraḥ* (Pā. 6-2-49) gives the preceding member its accent. *damedame* — *nityavīpsayoḥ* (Pā. 8-1-4) the doubling in the sense of repetition; since the second member has the name *āmreḍita*, *anudāttaṃ ca* (Pā. 8-1-3) gives all unaccented. *adhvarasya* — *na vidyate dhvaraḥ hiṃsā yatra* ("where there is no harm"); *nañsubhyām* (Pā. 6-2-172) gives the acute on the last syllable of the latter member. *cetati* — root *citī saṃjñāne*, *bhvādi*; *laṭ* third person singular; *tiṅ-nighāta*. *kratvā* — *kratu + ā*; by the statement *jasādiṣu chandasi vāvacanam* (as read) *nābhāva* does not occur (no *nā*); *yaṇ*-substitution. *vedhāḥ* — root *ḍudhāñ*; *vidhāñ vedha ca* (Uṇ. 4-[?]) the suffix *asi* after the prefix *vi*; the root with prefix becomes *vedhā*; the acute on the first syllable of the suffix; a stem ending in *s*. *iṣūyate* — *iṣum ātmana icchati iṣūyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8) the suffix *kyac* in the sense of desire; *śatṛ* in the present sense after the *kyac*-ending; dative singular; *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute to the ending. *viśvā* — *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*. *paspaśe* — root *spaśa bādhanasparśanayoḥ*; *liṭ* third person singular, the substitution *eś*; the root is doubled; *kurhoś cuḥ*… by *pūrvāṅkhayaḥ* [as read: Pā. 7-4-61] the *s* remains in the reduplicative; *tiṅ-nighāta*. *ghṛtaśrīḥ* — *ghṛtaṃ śrayate iti ghṛtaśrīḥ*; the root *śriñ*; *kvip* [Uṇ. 2-215 as read]; by *tat-saṃyoga* the root is lengthened; *kṛd-uttarapadaprakṛtisvara*. *ajāyata* — root *janī prādurbhāve*; *laṅ* third person singular; because of *yad* no *nighāta*; the augment *aṭ* is acute, so the first syllable is acute. ‖ 4 ‖
+
+***(ornamental rule)***
+
+### Printed p. 344  (PDF 365)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+*(The grammar entries of Ṛk 4 (*iṣūyate* to *ajāyata*) occupy the head of this page; I have given them above. The Ṛk 5 follows.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> क्रत्वा यदस्य तविषीषु पृञ्चतेऽग्नेरवेण मरुतां न भोज्यैः ।
+> इषिराय न भोज्या ।
+> स हि ष्मा दानमिन्वति वसूनां च मज्मना ।
+> स नस्त्रासते दुरितादभिह्रुतः शंसादघादभिह्रुतः ॥ ५ ॥
+
+> *kratvā yadasya taviṣīṣu pṛñcate 'gneraveṇa marutāṃ na bhojyaiḥ |*
+> *iṣirāya na bhojyā |*
+> *sa hi ṣmā dānaminvati vasūnāṃ ca majmanā |*
+> *sa nastrāsate duritādabhihrutaḥ śaṃsādaghādabhihrutaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> क्रत्वा । यत् । अस्य । तविषीषु । पृञ्चते । अग्नेः । अवेन । मरुताम् । न । भोज्यैः ।
+> इषिराय । न । भोज्या ।
+> सः । हि । स्म । दानम् । इन्वति । वसूनाम् । च । मज्मना ।
+> सः । नः । त्रासते । दुःऽइतात् । अभिऽह्रुतः । शंसात् । अघात् । अभिऽह्रुतः ॥ ५ ॥
+
+> *kratvā | yat | asya | taviṣīṣu | pṛñcate | agneḥ | avena | marutām | na | bhojyaiḥ |*
+> *iṣirāya | na | bhojyā |*
+> *saḥ | hi | sma | dānam | invati | vasūnām | ca | majmanā |*
+> *saḥ | naḥ | trāsate | duḥ 'itāt | abhi 'hrutaḥ | śaṃsāt | aghāt | abhi 'hrutaḥ ‖ 5 ‖*
+
+*(Read from the image: *tavisīṣu* is printed "taviṣīṣu"; the Saṃhitā has "*bhojyaiḥ*" in the first line and "*bhojyā*" in the second.)*
+
+### Printed p. 345  (PDF 366)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यद्यस्मात्कारणात्सर्वे यजमानाः क्रत्वा प्रकृष्टेन कर्मणा हविष्प्रदानादिरूपेणास्याग्नेस्तविषीषु प्रबलासु ज्वालास्ववेन तृप्तिनिमित्तेन भोज्या भक्ष्याणि पुरोडाशादीनि पृञ्चते मिश्रयन्ति । तविषीति बलनामसु तविषी शुष्मिति तन्नामसु पाठात् [?] । तत्र दृष्टान्तः । मरुतां न भोज्या वायूनां सम्बन्धीनि व्रीह्यादीनीव । वायुर्हि मेघं निर्भिद्य वृष्टिं जनयति तस्मात्सस्यादिद्वारा व्रीह्यादिभोज्यानि यथा पृञ्चते तथेत्यर्थः । दाने दृष्टान्तः । इषिराय न भोज्या । एषणयुक्ताय याचमानायार्थिने भोज्या भोज्यानि भक्ष्यादीनि यथा दीयन्ते तद्वत् । इषिरशब्दो यास्केनैवं निरुक्तः । ईषणेन वैषणेन वा । नि. ४-७ [?] इति । अतः कारणात् स खलु यजमानो दानमिन्वति । हविष्प्रदानं तस्मै व्याप्नोति । यद्वा । स्वयमभिमतं दानमिन्वति । इन्वतिर्व्याप्तिकर्मा इन्वति ननक्षतीति तत्कर्मसु पाठात् । केन सामर्थ्येनेति । वसूनां च मज्मना निवासयोग्यानां धनानामग्निना लब्धानां बलेनैव । यद्वा । सोऽग्निर्वसूनां हविर्निवासयोग्यानां ज्वालारूपाणां धनानां मज्मना बलेन दानमिन्वतीति शेषः । किंच सोऽग्निरभिह्रुतः अभिमुखेन पाप्मना ह्रियमाणान् नोऽस्मान् दुरितात्पापात् त्रासते । त्रायते । तथा शंसाच्छंसनीयात् [?] यद्वा हिंसकात् अभिह्रुतोऽभितो ह्रियमाणादघादुःखात् तत्कारणात्पापाद्वा त्रासते । त्रायते ॥
+
+> *yadyasmātkāraṇātsarve yajamānāḥ kratvā prakṛṣṭena karmaṇā haviṣpradānādirūpeṇāsyāgnestaviṣīṣu prabalāsu jvālāsvavena tṛptinimittena bhojyā bhakṣyāṇi puroḍāśādīni pṛñcate miśrayanti | taviṣīti balanāmasu taviṣī śuṣmiti tannāmasu pāṭhāt [?] | tatra dṛṣṭāntaḥ | marutāṃ na bhojyā vāyūnāṃ sambandhīni vrīhyādīnīva | vāyurhi meghaṃ nirbhidya vṛṣṭiṃ janayati tasmātsasyādidvārā vrīhyādibhojyāni yathā pṛñcate tathetyarthaḥ | dāne dṛṣṭāntaḥ | iṣirāya na bhojyā | eṣaṇayuktāya yācamānāyārthine bhojyā bhojyāni bhakṣyādīni yathā dīyante tadvat | iṣiraśabdo yāskenaivaṃ niruktaḥ | īṣaṇena vaiṣaṇena vā | ni. 4-7 [?] iti | ataḥ kāraṇāt sa khalu yajamāno dānaminvati | haviṣpradānaṃ tasmai vyāpnoti | yadvā | svayamabhimataṃ dānaminvati | invatirvyāptikarmā invati nanakṣatīti tatkarmasu pāṭhāt | kena sāmarthyeneti | vasūnāṃ ca majmanā nivāsayogyānāṃ dhanānāmagninā labdhānāṃ balenaiva | yadvā | so 'gnirvasūnāṃ havirnivāsayogyānāṃ jvālārūpāṇāṃ dhanānāṃ majmanā balena dānaminvatīti śeṣaḥ | kiṃca so 'gnirabhihrutaḥ abhimukhena pāpmanā hriyamāṇān no 'smān duritātpāpāt trāsate | trāyate | tathā śaṃsācchaṃsanīyāt [?] yadvā hiṃsakāt abhihruto 'bhito hriyamāṇādaghāduḥkhāt tatkāraṇātpāpādvā trāsate | trāyate ‖*
+
+*(Read from the image; small type, and a few places are doubtful: [?] — esp. the clause on *śaṃsāt*, *tavisīti balanāmasu*, and the Nirukta reference "४-७".)* Sense: "Because all the sacrificers by *kratu*, an excellent work in the form of offering oblations and the like, mix the foods fit to be eaten — *puroḍāśa* and the rest — in the powerful flames of this Agni (*tavisīṣu*), for his satisfaction; the word *taviṣī* is recorded among the names of strength — and the example: like grains and so on, belonging to the winds (*marutāṃ*), since the wind breaks the clouds and produces rain, and through crops and so on grain-foods are mixed (*pṛñcate*): so [they mix the food for Agni]. An example of giving: *iṣirāya na bhojyā* — as foods, edibles and the like, are given to a petitioner who is a seeker and a beggar. The word *iṣira* is explained by Yāska thus: *eṣaṇena vā iṣaṇena vā* (Ni. 4-7 [?]). Therefore that sacrificer *dānam invati* — gives the gift of oblation to him; or (*yadvā*): of himself fulfils the gift desired [*invati* has the sense of pervading — *invati nanakṣati* is read among the words of this meaning]. By what ability? *vasūnāṃ ca majmanā* — by the strength of the wealth, suited to dwelling, obtained by Agni; or: Agni, by the strength of the wealth of flames in which the oblations dwell, gives; and further this Agni protects us from evil (*duritāt*), who are carried off toward sin, from the sin that is praiseworthy [?] or from the destroyer, from the pain and its cause, the sin."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *yat* — because (all the sacrificers); *kratvā* — by the work (in the form of offering oblations); *asya agneḥ* — of this Agni; *taviṣīṣu* — in the powerful (flames); *avena* — for (Agni's) satisfaction; *(bhojyā* — the foods like *puroḍāśa*); *marutām* — belonging to the wind; *bhojyā na* — as foods of grain are mixed; *iṣirāya* — to a petitioner; *bhojyā na* — as food is given; *pṛñcate* — they mix (because of that); *saḥ* — that sacrificer; *vasūnāṃ ca* — of the wealth obtained from Agni (wealth in the form of flames suited for placing the oblations); *majmanā* — by strength; *dānam* — the gift of oblation (the desired gift); *invati hi* — gives (to Agni; or makes for the sacrificer); *(kiṃ ca* — and); *saḥ* — that Agni; *abhihrutaḥ* — being harmed; *naḥ* — us; *duritāt* — from sin; *trāsate* — protects; *(tathā* — likewise); *śaṃsāt* — from great and; *abhihrutaḥ* — from harm everywhere; *aghāt* — from sorrow (from sin, the cause of sorrow); *(trāsate* — protects).
+
+### Printed p. 346  (PDF 367)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** All the sacrificers, by their excellent rites, in the powerful flames of Agni, for his satisfaction, offer *puroḍāśa* and the like, as grains belonging to the wind (the wind splits the clouds and brings rain, and through that grain arises) and as food is given to a guest who has come; the sacrificer too, by the strength of the wealth given by Agni, makes the gift of oblation; (Agni accepts the oblation by the strength of the flames fit to receive it, or grants the sacrificer the gift he desires); Agni, thus satisfied, protects us from the sin and sorrow that harass and overcome us.
+
+**Printed English (heading "English Translation"; as printed):** *"Inasmuch as (all men) offer in holy rite (food) for his satisfaction in the blazing (flames) of Agni, like (the grains that) are to be enjoyed by the winds, and like the viands that are to be given to him who solicits them: therefore the worshipper presents gifts to him, according to the extent of his opulence; and he preserves us, when oppressed (by sin), from wickedness; from overpowering malevolence and sin."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).**
+
+***taviṣīṣu avena pṛñcate*** — *prabalāsu jvālāsu tṛptinimittena bhojyā bhakṣyāṇi puroḍāśādīni miśrayanti*: the sacrificer, as an offering of the oblations, throws into the powerful flames, so that Agni may be satisfied, the *puroḍāśa* and other suitable foods. The word *taviṣī* is recorded among the twenty-eight names of strength (Ni. 3-9 [?]). And —
+
+> पितुं नु स्तोषं महो धर्माणं तविषीम् ।
+> यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् ॥
+
+> *pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīm |*
+> *yasya trito vy ojasā vṛtraṃ viparvam ardayat ‖*
+
+(Ṛ. Saṃ. 1-187-1, as read.) Here, "*taviṣīti balanāma tavater vṛddhikarmaṇaḥ*" — the word *taviṣī* is used in the sense of strength; Sāyaṇa explains it with the same sense as the Niruktakāra intended.
+
+***marutāṃ na bhojyā*** — *vāyūnāṃ sambandhīni vrīhyādīnīva*: since the wind, splitting the clouds, brings about rain, from that rain crops arise, and in them the foods fit to be eaten…
+
+[*the Special Topics continue on p. 347*]
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 346 (PDF 367): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, Special Topics begun (the *marutāṃ na bhojyā* entry breaks off at the foot of p. 346); resume p. 347 (PDF 368) with the continuation of that entry ("…the foods fit to be eaten [are produced]"). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/ (scratchpad). Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343; OCR reference-number lines missing for pp. 249–346.
