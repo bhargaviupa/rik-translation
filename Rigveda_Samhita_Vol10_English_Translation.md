@@ -6765,4 +6765,166 @@ Second: among the duties that must necessarily be done first in sacrifices, sinc
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 260 (PDF 281): Kannada introduction, Sanskrit bhūmikā, table, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Ṛk 1 Special Topics (*agniṃ* — Nirukta etymology, second derivation) breaks off mid-sentence at the foot of p. 260; resume p. 261 (PDF 282). Page images PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 261  (PDF 282)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+*(Special topics, Ṛk 1, continued — **agniṃ**:)* The second explanation [is that he is] the one who, among sacrifices, is made ready first; *agraṃ praṇayanāt* — since he is first made ready (or: brought forward) and carried: so the word *agni* is appropriately [explained as] "one who is called by the word *agni*".
+
+The third derivation of the word *agni* is *aṅgaṃ nayati sannamamānaḥ* [as printed; read in the Nirukta as *aṅgaṃ nayati sannamamānaḥ*]. This god, in all rites, worldly or Vedic, is himself the chief; he makes everything else (that is inferior to himself) subordinate to himself; or, when he takes up a blade of grass or a piece of firewood, he makes it subordinate to himself and keeps it so; therefore he is called *agni*.
+
+*Agraṃ nayatīty agniḥ, agraṃ nīyata ity agniḥ, aṅgaṃ nayatīty agniḥ* — thus Yāska has described the derivation of the word *agni* in three ways. The teacher Sthaulāṣṭhīvi [as printed "ಸ್ಥೌಲಾಷ್ಠೀವಿ"; the OCR "राज्यपि"] describes the nature of Agni as "one who makes whatever he receives ugly (burns it black)"; and the teacher Śākapūṇi —
+
+> त्रिभ्य आख्यातेभ्यो जायते । इताद्अक्ताद्दग्धाद्वा नीतात् । स खल्वेतेरकारमादत्ते गकारमनक्तेर्वा दहतेर्वा नीः परः ॥
+
+> *tribhya ākhyātebhyo jāyate | itādaktāddagdhādvā nītāt | sa khalveterakāramādatte gakāramanaktervā dahatervā nīḥ paraḥ ‖*
+
+(Ni. 7-14 [?], as printed "೭-೧೪"; the OCR reads "२-१४".) *(Read letter by letter; "itād aktād dagdhād vā nītāt" and the second half are small and doubtful.)* — gives the derivation of the word *agni*: [it is formed] from three verbs — from *i* ("goes"), from *añj* ("anoints") or *dah* ("burns"), and from *nī* ("leads"); he takes the *a* from *eti* (he goes), the *g* from *anakti* or *dahati*, and *nī* after it. Durgācārya describes Agni's nature by his actions: *eti ca nayati ca havīṃṣi dahati ca* — or *eti*, *vyanakti*: he comes (*eti*), he carries oblations (*nayati*), he burns (*dahati*), he transforms (*vyanakti*). Sāyaṇa, explaining the word *agni* as one who is in front of the divine army, or one who is chief in the sacrifices, gives only two meanings.
+
+***hotāram*** — *asmadyāgaṃ prati devānām āhvātāraṃ yadvā homaniṣpādakaṃ hotāram*: "the one who calls the gods to our sacrifice, or the *hotṛ* who performs the oblation (and recites the mantra)": thus he explains two senses. The derivation of the word *hotṛ* is from the root *hu dānādanayoḥ*. The *śruti* "*agnim adya hotāram avṛṇīta*" (Tai. Brā. 2-6-15-1) shows that Agni is to be chosen as the *hotṛ* in the sacrifice; and the *śruti* "*agnim agna āvaha*" (Tai. Brā. 3-5-[?]) shows that one should first invoke Agni to call the gods. Hence both senses are possible. Therefore here too [Sāyaṇa] has said *agniṃ hotāraṃ manye*, and explained *hotāram* as the predicate-epithet of the word *agni*, the second-case words as the epithets of the word *agni*.
+
+### Printed p. 262  (PDF 283)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+— the one sense. *Yadvā yāganiṣpatter evāpekṣitatvād etad eva vidheyaviśeṣaṇam, itarāṇi tu vakṣyamāṇaviśeṣaṇāni stutiparāṇi*: since the sacrifice must necessarily be completed, the word *hotāram* is the predicate-epithet and the other epithets are for praising Agni: this is the second explanation. By this the meaning arises that Agni himself is meant by the word *hotṛ*. Yāska, in the Nirukta, citing
+
+> अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥
+
+> *agnimīḷe purohitaṃ yajñasya devamṛtvijam | hotāraṃ ratnadhātamam ‖*
+
+(Ṛ. Saṃ. 1-1-1, as printed.) says *hotāraṃ hvātāraṃ juhoter hotā ity aurṇavābhaḥ* (Ni. 7-15): the view of Aurṇavābha, that *hotā* derived from the root *hu* is "one who calls the gods to the sacrifice".
+
+***dāsvantam*** — *atiśayena dānavantam*: "the one who gives to the sacrificers in great quantity wealth and the like".
+
+***vasum*** — *sarveṣāṃ nivāsahetum*: "the cause of dwelling at ease for all". The word *vasu* is recorded among the names of rays (Ni. 1-[?]5, as printed "೨-೧೫" [?]) and among the names of wealth (Ni. 3-9). And in
+
+> सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मे वय इन्द्रो दधाति ।
+> यस्त्वायन्तं वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति ॥
+
+> *sugurasatsuhiraṇyaḥ svaśvo bṛhadasme vaya indro dadhāti |*
+> *yastvāyantaṃ vasunā prātaritvo mukṣījayeva padimutsināti ‖*
+
+(Ṛ. Saṃ. 1-125-2, as printed.) *vasunā* is explained as *annena*, so the meaning "food" too arises.
+
+> देवी जोष्ट्री वसुधिती ययोरन्या ... [?] द्वेषांसि युयवदन्याव [?] ... ।
+> वार्याणि यजमानाय सुन्वते वसुवने वसुधेयस्य वीतां यज ॥
+
+> *devī joṣṭrī vasudhitī yayoranyā ... [?] dveṣāṃsi yuyavadanyāva [?] ... |*
+> *vāryāṇi yajamānāya sunvate vasuvane vasudheyasya vītāṃ yaja ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?], as printed "೨-೫-೧"? — doubtful; the middle of the first line I cannot read.) Here the word *vasu* is explained with the sense "wealth".
+
+> जम्या अत्र वसवो रन्त देवा उरावन्तरिक्षे मर्जयन्त शुभ्राः ।
+> अर्वाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य ॥
+
+> *jamyā atra vasavo ranta devā urāvantarikṣe marjayanta śubhrāḥ |*
+> *arvākpatha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asya ‖*
+
+(Ṛ. Saṃ. 6-62-5 [?], as printed "೬-೬೨-೬"? — numerals small.) *(Read letter by letter; *jamyā* / *jmayā* — the first word is doubtful in the print.)* Here the word *vasavaḥ* is explained as "gods". But Sāyaṇa explains the word *vasu* as "cause of dwelling".
+
+### Printed p. 263  (PDF 284)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+***sahasaḥ sūnum*** — *balasya putram*: "the son of strength": at the sacrifice, men churn in the *araṇi* with strength and thereby produce Agni; since Agni is born by strength, the figurative usage "son of strength" is here.
+
+The word *sahas* is recorded among the one hundred and one names of water (Ni. 1-[?]4, as printed "೨-೩೪" [?]) and among the twenty-eight names of strength (Ni. 2-9 [?]).
+
+> एता विश्वा सवना तूतुमा कृषे स्वयं सूनो सहसो यानि दधिषे ।
+> वराय ते पात्रं धर्मणे तना यज्ञो मन्त्रो ब्रह्मोद्यतं वचः ॥
+
+> *etā viśvā savanā tūtumā kṛṣe svayaṃ sūno sahaso yāni dadhiṣe |*
+> *varāya te pātraṃ dharmaṇe tanā yajño mantro brahmodyataṃ vacaḥ ‖*
+
+(Ṛ. Saṃ. 10-80-6 [?], as printed "೧೦-೮೦-೬"? — numerals small.) *(Read letter by letter; the second half is as printed and I do not claim it.)* In this ṛk, *sahasaḥ sūno* "O son of strength" is said to be addressed to Agni, and Durgācārya has described [it as] "some say (*sutam*) his son".
+
+***jātavedasam*** — *jātānāṃ veditāraṃ jātaprajñaṃ jātabalaṃ vā*: "the knower of all that is born; or one whose knowledge is born; or one whose strength is born": Sāyaṇa explains the word *jātaveda*, which teaches the nature of Agni, in three ways: he who knows all that has come into being; he who has the power of intelligence by which everything natural can be known; he who has abundant power. Yāska in the Nirukta says —
+
+> जातानि वेद । जातानि वैनं विदुः । जाते जाते विद्यत इति वा । जातवित्तो वा जातधनः । जातविद्यो वा जातप्रज्ञानः ॥
+
+> *jātāni veda | jātāni vainaṃ viduḥ | jāte jāte vidyata iti vā | jātavitto vā jātadhanaḥ | jātavidyo vā jātaprajñānaḥ ‖*
+
+(Ni. 7-19, as printed "೭-೧೯"; the OCR reads "२-१०".) Nothing in this world that is born is unknown to him; hence Agni is omniscient; all beings that are born know Agni; hence he is fit to be known by all.
+
+> यत्र ज्ञातः पशूनविन्देति तद्ज्ञातवेदसो जातवेदस्त्वमिति ब्राह्मणं तस्मात्सर्वान्पशवोऽग्निमभि सर्पन्तीति च ॥
+
+> *yatra jñātaḥ paśūnavindeti tadjñātavedaso jātavedastvamiti brāhmaṇaṃ tasmātsarvānpaśavo 'gnimabhi sarpantīti ca ‖*
+
+*(The Brāhmaṇa passage is small and the OCR garbles it; I give it as read and mark it uncertain.)* — this *śruti* sentence clearly says that Agni pervades everything that is born.
+
+Describing the nature of Agni as one who has wealth and who by nature has wisdom, [Yāska cites]
+
+> जातवेदसे सुनवाम सोममरातीयतो नि दहाति वेदः ।
+> स नः पर्षदति दुर्गाणि विश्वा नावेव सिन्धुं दुरितात्यग्निः ॥
+
+> *jātavedase sunavāma somamarātīyato ni dahāti vedaḥ |*
+> *sa naḥ parṣadati durgāṇi viśvā nāveva sindhuṃ duritātyagniḥ ‖*
+
+(Ṛ. Saṃ. 1-99-1, as printed "೧-೯೯-೧".)
+
+### Printed p. 264  (PDF 285)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+and
+
+> प्र नूनं जातवेदसमश्वं हिनोत वाजिनम् । इदं नो बर्हिरासदे ॥
+
+> *pra nūnaṃ jātavedasamaśvaṃ hinota vājinam | idaṃ no barhirāsade ‖*
+
+(Ṛ. Saṃ. 10-188-1, as printed "೧೦-೧೮೮-೧".) — in these ṛks he explains the praise of Agni called *jātavedas*. And:
+
+> तदेतदेकमेव जातवेदस्यं गायत्रं तृचं दशतयीषु विद्यते । यत्तु किंचिदाग्नेयं तज्जातवेदसानां स्थाने युज्यते ॥
+
+> *tadetadekameva jātavedasyaṃ gāyatraṃ tṛcaṃ daśatayīṣu vidyate | yattu kiṃcidāgneyaṃ tajjātavedasānāṃ sthāne yujyate ‖*
+
+(Ni. 7-20 [?], as printed "೭-೨०"?; the OCR reads "८-२०".) *(Read letter by letter; "daśatayīṣu vidyate" and the second sentence are in small type and doubtful.)* "The *Pra nūnam* is the one *gāyatra tṛca* connected with Jātavedas that is found in the ten books; whatever else is Āgneya is employed in the place of the Jātavedas [hymns]"; thus there is no other Gāyatrī-verse connected with Jātavedas that is used in ritual; Agni himself is indicated by the word *jātavedāḥ*. Therefore —
+
+> स न मर्त्यायैवाग्निरित्येशे उत्तरे ज्योतिषी जातवेदसी उच्येते ततो नु मध्यमः । अभि प्रवन्त समनेव योषा इति तत्पुरस्ताद्व्याख्यातम् । अथासावादित्य उदुत्यं जातवेदसमिति तदुपरिष्टाद्व्याख्यास्यामः ॥
+
+> *sa na martyāyaivāgnirityeśe uttare jyotiṣī jātavedasī ucyete tato nu madhyamaḥ | abhi pravanta samaneva yoṣā iti tatpurastādvyākhyātam | athāsāvāditya udutyaṃ jātavedasamiti tadupariṣṭādvyākhyāsyāmaḥ ‖*
+
+(Ni. 7-[?], as printed.) *(Read letter by letter; the first words, "sa na martyāyaivāgnir iti" [?], are doubtful.)* Though the nature of Agni is described also by the mantra *abhi pravanta samaneva yoṣā*, when one discusses the sense of the word *jātavedas*, the word *agni* [in that mantra] is an epithet of the sense of *jātavedas*; and by the mantra *ud u tyaṃ jātavedasam* it is understood that the Sun too is denoted by the word *jātavedas*. Durgācārya —
+
+> जातवेदसं सूर्यमुद्वहन्तीति तु विशेषणविशेष्यसामानाधिकरण्यैकवाक्यप्रसिद्धाभिः स्वनिगमसिद्धमस्मिन्मन्त्रे जातवेदाः सूर्य इति ॥
+
+> *jātavedasaṃ sūryamudvahantīti tu viśeṣaṇaviśeṣyasāmānādhikaraṇyaikavākyaprasiddhābhiḥ svanigamasiddhamasminmantre jātavedāḥ sūrya iti ‖*
+
+*(Read letter by letter; the Durga passage is small type and doubtful.)* — in the mantra *ud u tyaṃ jātavedasam*, in order to show the identity of the Sun and the Agni called Jātavedas, he accepts a single sentence through the relation of qualifier and qualified, and explains that the Sun is also Jātavedas. And —
+
+> यस्तु सूक्तं भजते यस्मै हविर्निरुप्यते [?] अयमेव सोऽग्निर्जातवेदा निपातमेवैते उत्तरे ज्योतिषी इत्येन नामधेयेन भजेते ॥
+
+> *yastu sūktaṃ bhajate yasmai havirnirupyate [?] ayameva so 'gnirjātavedā nipātamevaite uttare jyotiṣī ityena nāmadheyena bhajete ‖*
+
+(Ni. 7-?? [?], as printed.) — the Agni of terrestrial form, indicated by the word *jātavedas*, is invoked in sacrifices by various sūktas and mantras and accepts the oblations; Vaidyuta Agni (lightning), Vaiśvānara Agni and the Sun are varieties of Agni; but the word *jātavedas*, though it can denote them too, by its established usage denotes the terrestrial Agni: so he has explained.
+
+### Printed p. 265  (PDF 286)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+***vipraṃ na jātavedasam*** — *jātavidyaṃ medhāvinaṃ brāhmaṇam iva*: "like a Brāhmaṇa of wisdom born, intelligent". Yāska —
+
+> नेति प्रतिषेधार्थीयो भाषायाम् । उभयमन्वध्यायम् ॥
+
+> *neti pratiṣedhārthīyo bhāṣāyām | ubhayamanvadhyāyam ‖*
+
+(Ni. 1-4, as printed "೧-೪".) The word *na* is known in the sense of negation in the language; in the Veda it is used in both senses, negation and *upamā* (comparison): he has explained; in the phrase *vipraṃ na*, since the word *na* is used in the sense of comparison, Sāyaṇa says "like a Brāhmaṇa". The sense: the seer, the seer of the mantra, as one respectfully honours a learned Brāhmaṇa, so with respect and regard I praise Agni too.
+
+***ūrdhvayā devāc'yā kṛpā*** — *utpannayā utkṛṣṭayā devān pūjayantyā devān pratyaktayā vā kṛpayā sāmarthyalakṣaṇayā*: the word *ūrdhva* conveys by usage the meaning "high"; here, as an epithet of the word *kṛpā*, it means "excellent" or "exceeding". The *kṛpā* that Agni has toward the gods is [his power of] sending the oblations offered in the sacrifice to each god, and of honouring the gods.
+
+Yāska, in the Nirukta, *devo devāc'yā kṛpā* (Ni. 6-8) — *devo devān pratyakṣayā* [as printed "ಪ್ರತ್ಯಕ್ತಯಾ"] *kṛpā kṛpater vā kalpater vā* — explains thus. Durgācārya, citing the same ṛk *agniṃ hotāraṃ manye* (Tai. Saṃ. 2-1-12-1 [?], as printed), says that because the word *kṛpā* is formed from the root *kṛp* (*kṛpū sāmarthye*) or from the root *kalp*, it means: by power Agni has a mind directed towards the gods.
+
+***śociṣā vaṣṭi*** — *jvālayā kāmayate svīkarotīty arthaḥ*: "with the flame he desires, accepts": it is described that Agni, following the spreading of the ghee that is offered all round and abundantly flows about him, himself shining, accepts with his flames the burning ghee. The words *śocati*, *śociḥ* are recorded among the names of burning, among the names of the burning (Ni. 1-[?]8, as printed "೨-೨೮" [?]); the sense is "flames".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; noted briefly, numbers as read by the OCR).** *hotāram* — root *hu dānādanayoḥ*; *tṛn* in the agent sense; guṇa of the root vowel; since it has the marker *n*, first-syllable acute; accusative singular. *manye* — root *manu avabodhane*; laṭ first person singular; *tiṅ-nighāta*.
+
+### Printed p. 266  (PDF 287)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*dāsvantam* — root *ḍudāñ dāne*; *sarvadhātubhya asun* gives *asun*, the form *dāś*; *dāḥ dānaṃ yasya saḥ dāsvān*; *tad asyāsty* gives *matup*; *mādupadhāyāś ca…* gives *va* for *m*; *tasau matvarthe* (Pā. 1-4-19) gives *bha*-designation to the ending in *s*, so no *rutva*; since *matup* is unaccented, the first-syllable acute remains. *jātavedasam* — root *vida jñāne*; with *jāta* as upapada, *gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca* (Uṇ. 4-?, as printed "೪-೬೬೦" [?]) gives the suffix *asi*; the accent of the first member as an exception to the natural accent of the final member; guṇa of the short penultimate of the root; accusative singular. *svadhvaraḥ* — *śobhanaḥ adhvaraḥ yasya saḥ svadhvaraḥ*; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member. *devāc'yā kṛpā* — *supāṃ sulug…* (Pā. 7-1-39) gives *luk* to the instrumental ending. *vibhrāṣṭim* — root *bhrāja dīptau*; *striyāṃ ktin* (Pā. 3-3-94) gives *ktin*; *vraśca…* gives *ṣa* for the *j*; taking it as cause, *ṣṭutva*; *tādau ca niti kṛty ati* (Pā. 6-2-50) gives the natural accent of the *gati* (*vi*). *vaṣṭi* — root *vaś kāntau* (to desire); laṭ third person singular; *tiṅ-nighāta*. *śociṣā* — root *śuca śoke*; *arciśuciḥ* (Uṇ. 2-?, as printed "೨-೨೬೫") gives *isi*; guṇa of the short penultimate; first-syllable acute of the suffix. *ājuhvānasya* — root *hu dānādanayoḥ*; in the passive, *śānac* in the laṭ sense; in the Veda no *yak*; *śluḥ* [print: *śluvikaraṇa*]; doubling of the root; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the first-syllable acute; in the *prādi*-compound the accent of the final member; genitive singular. *sarpiṣaḥ* — root *sṛp gatau*; *arciśuciḥ* gives *isi*; guṇa of the short penultimate; genitive singular. ‖ 1 ‖
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 266 (PDF 287): Ṛk 1 complete (‖ 1 ‖); resume p. 267 (PDF 288) with Ṛk 2 Saṃhitā. Page images PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
