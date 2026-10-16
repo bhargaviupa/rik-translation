@@ -15775,4 +15775,76 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 653 (the *indravāyustavopasaṃhāra* section on the *upāṃśugraha*, Tai. Saṃ. quotations, mantras 1–3; the section runs on and covers the *antaryāma* and *aindravāyava* cups); resume p. 654 (PDF 675; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 654  (PDF 675)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+> मनस्त्वाष्ट्वित्याह मन एवाप्नोत्युरु अन्तरिक्षमन्विहीत्याहान्तरिक्षदेवत्यो [?] हि प्राणः स्वाहा त्वा सुभवः सूर्यायेत्याह प्राणा वै सुभवसो देवास्तेष्वेव परोक्षं जुहोति देवेभ्यस्त्वा मरीचिपेभ्य इत्याहादित्यस्य वै रश्मयो देवा मरीचिपास्तेषां तद्भागधेयं तानेव केन प्रीणाति ।
+
+> *manas tvāṣṭv ity āha mana evāpnoty uru antarikṣam anvihīty āhāntarikṣadevatyo [?] hi prāṇaḥ svāhā tvā subhavaḥ sūryāyety āha prāṇā vai subhavaso devās teṣv eva parokṣaṃ juhoti devebhyas tvā marīcipebhya ity āhādityasya vai raśmayo devā marīcipās teṣāṃ tad bhāgadheyaṃ tān eva kena prīṇāti |*
+
+(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?]; read from the image, doubtful in places [?].) *Kannada sense:* "May the mind pervade you" — saying this, he gains the mind himself. Since the breath belongs to the *antarikṣa*-deity, he says "go along the *antarikṣa*". "You, well-born, offered to Sūrya" — by this a *homa* is made indirectly [*parokṣa*]. Saying "*prāṇebhyaḥ svāhā*" he leaves the *prāṇa*s — the breaths — since the deities seated in the body are themselves directly [*pratyakṣa*] the objects of the *homa*; so he makes the *homa* to Sūrya, indirectly: "*sūryāya tvā*". Then the rays of the Sun are the breaths; those conscious rays, satisfied, protect the unconscious *marīci*s.
+
+> यदि कामयेत वर्षुकः पर्जन्यः स्यादिति नीचा हस्तेन नि मृज्याद्वृष्टिमेव नि यच्छति यदि कामयेतावर्षुकः स्यादित्युत्ताानेन नि मृज्याद्वृष्टिमेवोद्यच्छति ।
+
+> *yadi kāmayeta varṣukaḥ parjanyaḥ syād iti nīcā hastena ni mṛjyād vṛṣṭim eva ni yacchati yadi kāmayetāvarṣukaḥ syād ity uttānena ni mṛjyād vṛṣṭim evod yacchati |*
+
+(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?].) If the sacrificer desires that Parjanya may rain, with the hand downward he wipes the vessel [i.e. holds it face down]; then rain falls. If he desires that it should not rain, with the hand upward he wipes it; then there is no rain.
+
+> यद्यभिचरेदमुं जहि [?] त्वा होष्यामीति ब्रूयादाहुतिमेवैनं प्रेप्सन्तं हन्ति यदि दूरे स्यादा तमितोऽस्तीत्येव [?] प्राणमेवास्यानुगत्क [?] पन्ति ।
+
+> *yady abhicaredam umaṃ jahi [?] tvā hoṣyāmīti brūyād āhutim evainaṃ prepsantaṃ hanti yadi dūre syād ā tam ito 'stīty eva [?] prāṇam evāsyānugatka [?] panti |*
+
+(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?]; this sentence is read with doubt in several words [?].) If a [rite of] *abhicāra* is performed, [the sacrificer] says "kill so-and-so, [and] I will offer to you"; then the deity, desirous of the *āhuti*, harms that enemy.
+
+4. By the mantra *eṣa te yoniḥ prāṇāya tvā* the remainder is poured into the *agrayaṇa* vessel, and a stalk is put into the empty vessel.
+
+> षड्भिरꣳशुभिः पवयति षड्वा ऋतव ऋतुभिरेवैनं पवयति ।
+
+> *ṣaḍbhir aṃśubhiḥ pavayati ṣaḍ vā ṛtava ṛtubhir evainaṃ pavayati |*
+
+"He purifies the Soma with six stalks": there are six seasons; by the seasons he purifies it.
+
+### Printed p. 655  (PDF 676)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+> त्रिः पवयति त्रय इमे लोका एभिरेवैनं लोकैः पवयति ।
+
+> *triḥ pavayati traya ime lokā ebhir evainaṃ lokaiḥ pavayati |*
+
+"He purifies three times; there are these three worlds; with these worlds he purifies it." Since the number of the worlds is three, he purifies the Soma-juice three times, that is, with two stalks each time.
+
+> ब्रह्मवादिनो वदन्ति कस्मात्सत्यात्त्रयः पशूनाꣳ हस्तादानाः इति यत्त्रिरूपाꣳशुग्रहꣳ हस्तेन वि गृह्णाति तस्मात्त्रयः पशूनाꣳ हस्तादानाः पुरुषो हस्ती मर्कटः ।
+
+> *brahmavādino vadanti kasmāt satyāt trayaḥ paśūnāṃ hastādānāḥ iti yat trir upāṃśugrahaṃ hastena vi gṛhṇāti tasmāt trayaḥ paśūnāṃ hastādānāḥ puruṣo hastī markaṭaḥ |*
+
+(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೬" [?]; read from the image, doubtful in the first words [?].) "Why do three kinds of animals take with the hand?" — so the *brahmavādins* ask; the answer: "Because the *upāṃśugraha* is taken with the hand three times, [so too] man, the elephant and the monkey take [everything] with their hands" (the cow, the buffalo and the like take with the mouth).
+
+The *upāṃśugraha*'s use is summed up by Sāyaṇa in verses:
+
+> वाचोऽह्युपांशुग्रहणं स्वामादत्त्रेऽन्यहस्ततः ।
+> उरु गत्वा मनस्त्वेति वेदेर्दक्षिणतः स्थितिः ॥
+> स्वाहा जुहोति देवेभ्यो मध्यमे परिधौ तथा ।
+> लेपं निमार्ष्टि एषः पात्रं सादयेत्सप्त वर्णिताः ॥
+
+> *vāco 'hy upāṃśugrahaṇaṃ svām ādattre 'nyahastataḥ |*
+> *uru gatvā manas tveti veder dakṣiṇataḥ sthitiḥ ‖*
+> *svāhā juhoti devebhyo madhyame paridhau tathā |*
+> *lepaṃ nimārṣṭy eṣa pātraṃ sādayet sapta varṇitāḥ ‖*
+
+(Read from the image; these two verses are doubtful in several words [?].) With such verses he gives the summary of the *viniyoga* of the *upāṃśugraha*.
+
+***antaryāmagrahasya mahimā*** *(Kannada heading "ಅಂತರ್ಯಾಮಗ್ರಹದ ಮಹಿಮೆಯು" — "The greatness of the *antaryāmagraha*").*
+
+By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryāmagraha* also is to be carried out in the same way as the *upāṃśugraha*: this was told before. The description of this vessel is given in the sixth Kāṇḍa (Tai. Saṃ. 6-4-[?], as read "೬-೪-೬" [?]).
+
+> देवा वै यद्यज्ञेऽकुर्वत तदसुरा अकुर्वत ते देवा उपांशौ यज्ञꣳ संस्थाप्यमपश्यन्नुपांशौ समस्थापयन्तेऽसुरा वज्रमुद्यत्य देवान्भ्यायन्त ते देवा बिभ्यत इन्द्रमुपाधावन्नान्तरेन्द्रो ऽन्तर्यामेणान्तरधत्त तदन्तर्यामस्यान्तर्यामत्वं यदन्तर्यामो गृह्यते भ्रातृव्यानेव तद्यजमानोऽन्तर्धत्ते ॥
+
+> *devā vai yad yajñe 'kurvata tad asurā akurvata te devā upāṃśau yajñaṃ saṃsthāpyam apaśyan upāṃśau samasthāpayan te 'surā vajram udyatya devān abhyāyanta te devā bibhyata indram upādhāvann āntarendro 'ntaryāmeṇāntar adhatta tad antaryāmasyāntaryāmatvaṃ yad antaryāmo gṛhyate bhrātṛvyān eva tad yajamāno 'ntardhatte ‖*
+
+(Tai. Saṃ. 6-4-6-1 [as read]; read from the image, doubtful in a few words [?].) *Kannada sense:* Whatever the gods did in the sacrifice, the Asuras did also; the gods saw that the sacrifice could be established in the *upāṃśu* [cup] and established it so, and then the Asuras, taking up the thunderbolt, advanced against the gods. The gods, afraid, approached Indra [who] with the *antaryāma* put them [the Asuras] in between [?]. Hence *antaryāma* is so called: when the *antaryāmagraha* is taken the sacrificer shuts out the enemies.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 655 (the *indravāyustavopasaṃhāra* section: *upāṃśugraha* done, *antaryāmagraha* begun; the section continues with the *antaryāma* and *aindravāyava* cups); resume p. 656 (PDF 677; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
