@@ -11948,4 +11948,90 @@ In the second meaning the word *āyavaḥ* is explained as "those who know"; Ind
 
 ---
 
-**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 490 (PDF 511): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā…English done, Special Topics begun (entries to *pṛtanāsu pravantave kāraṃ cakartha*); resume p. 491 (PDF 512). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484; Ṛk 5 bhāṣya p. 488); the last entry of the Ṛk 4 Special Topics on p. 486 contains a stray Kannada transliteration ("belaydu annādigaḷu…") that should read as Kannada, not Sanskrit; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 491  (PDF 512)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+***anyām-anyāṃ nadyaṃ saniṣṇata*** — *tava saṅgrāmavāsinaḥ tvayi anyam-anyaṃ prati santoṣaṃ saṃvṛddhiṃ sambhajante*: "in battle the soldiers of Indra's army, wishing to gain superiority one over another, or to bring about each other's greater increase, work with enthusiasm": so the meaning. Here the word *anya* is, by Vedic usage, an adjective of the word *nadyam*; it is repeated. The Niruktakāra —
+
+> न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतम् ।
+> अन्यस्य चित्तमभि सञ्चरेण्यमुताधीतं वि नश्यति ॥
+
+> *na nūnam asti no śvaḥ kas tad veda yad adbhutam |*
+> *anyasya cittam abhi sañcareṇyam utādhītaṃ vi naśyati ‖*
+
+(Ṛ. Saṃ. 1-170-1, as read "೧-೧೭೦-೧".) — in this Ṛk explains the word *anyasya* as *nānāgatasya* (Ni. 4-[?]). Here Sāyaṇa explains *anyām-anyām* as *anyam anyaṃ prati*, "toward one another".
+
+***śravasyantaḥ saniṣṇata*** — *annam icchanto jayālabdham annaṃ kāṅkṣanto sambhajante*: "the warriors of Indra desire food, or, having obtained victory, desire the food obtained by it from the enemies, and join Indra." The word *śravas* is recorded by the Niruktakāra among the names of wealth (Ni. 2-[?]; as read "೨-೯") and is used also in the sense "fame" (Ṛ. Saṃ. 3-1-11-1; 6-[?]). —
+
+> आसश्रासः शवसानमच्छेन्द्रं सुचक्रासो रथ्यासो अश्वाः ।
+> अभि श्रव ऋज्यन्तो वहेयुर्नू चिन्नु वायोरमृतं वि दस्येत् ॥
+
+> *āsaścāsaḥ śavasānam acchendraṃ sucakrāso rathyāso aśvāḥ |*
+> *abhi śrava ṛjyanto vaheyur nū cin nu vāyor amṛtaṃ vi dasyet ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?], as read "೫-೬೨-೩" [?]; same Ṛk as on p. 353.) Here *śravaḥ* is explained, by *śravaḥ annanāma śrūyata iti sataḥ*, as "food". Since the word *śravas* has many senses — wealth, fame, food — Sāyaṇa explains the word *śravasyantaḥ* as "those desiring food": and, further, it is described that they enjoy the food obtained by conquering and subduing enemies.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; numbers as printed).** *cakiran* — root *kṝ vikṣepe*; when the intensive sense is shown, *yaṅ*; after it, in the sense of an *aiśvarya* [as read], the *luk* of *yaṅ*; *kuhoś cuḥ* (Pā. 7-4-62) gives *c* in the reduplicative; the Vedic *laṭ*, third person plural, *jhi*; *ant* by the substitution *ant*; *i*-elision; by *vyatyaya* the *śa*-vikaraṇa; *pararūpa*; because it follows a finite verb, *nighāta*.
+
+### Printed p. 492  (PDF 513)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+*(Grammar, continued.)* *vṛṣan* — root *vṛṣu secane*; *kanin yuvṛṣitakṣirājidhanidyuprākṣāṇām* [as read: *kanin yuvṛṣi…*, Uṇ. 1-[?]] gives *kanin*; *ṇaja sambuddhyoḥ* (Pā. 8-2-8) — no loss of *n* in the vocative; *āmantrita-nighāta*. *uśijaḥ* — root *vaś kāntau*; *vaśeḥ kit* (Uṇ. 2-[?]) gives *iji*; since *kit*, *saṃprasāraṇa*; acute on the first syllable of the suffix; accusative plural. *āvitha* — root *ava rakṣaṇe*; the Vedic *liṭ*, second person singular; since *yad* is connected, no *nighāta*; *thal*; because of *liti* (Pā. 6-1-193) the acute falls on the syllable before the suffix. *sakhīyataḥ* — *sakhāyam ātmana icchantaḥ*; *supa ātmanaḥ kyac* (Pā. 3-1-8); the long vowel by Vedic usage; after the *kyac*-ending *śatṛ*; accusative plural; *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute to the ending. *cakartha* — root *ḍukṛñ karaṇe*; *liṭ* second person singular; at the beginning of the *pāda*, no *nighāta*; *liti* gives the acute before the suffix. *kāram* — the root as before; the suffix *ghañ* in the object sense; *aco ñṇiti* gives *vṛddhi*, with *raparatva*; *kṛṣāv…* [as read: *kharṣāt* …] gives the acute on the last syllable. *pravantave* — root *vana sambhaktau*; when the sense of *tumun* is shown, *tumarthe sesenase…* (Pā. 3-4-9) gives *tavenn*; *tāḍau ca niti* (Pā. 6-2-50) gives the prefix (*pra*) the acute; the form is an indeclinable. *anyām-anyām* — in reciprocity, *sarvanāmno dve vācye* (Pā. 8-1-12 [?]), by *samāsavac ca bahulam* the doubling in the sense of *kriyāvinimaya*; by the power of the *bahulagrahaṇa* the compound-like state does not occur, so *suṭ* and the like do not; the second member takes the name *āmreḍita*; *anudāttaṃ ca* (Pā. 8-1-3) makes it all unaccented. *nadyam* — root *ṭunadi samṛddhau*; Uṇādi *iya*; with *am* following, *ami pūrvaḥ* (Pā. 6-1-107) would give *pūrvarūpa*, which is set aside by Vedic *yaṇ*-substitution; *udāttasvaritayor yaṇaḥ svaritaḥ* (Pā. 8-2-4) gives the *svarita* to the ending.
+
+### Printed p. 493  (PDF 514)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+*(Grammar, concluded.)* *saniṣṇata* — root *paṇa sambhaktau* [as printed: the root is *ṣaṇa*]; *dhātvādeḥ ṣaḥ saḥ* gives *s*; *leṭ* third person plural, *ru* [?]; *sibbahulaṃ leṭi* (Pā. 3-1-34) gives *sip*; *ārdhadhātukasyeḍ valādeḥ* gives *iṭ*; by *vyatyaya* again *śnā* as the *vikaraṇa*; *ātmanepadeṣv anataḥ* (Pā. 7-1-5) gives *at* for the ending; since it is *j*-marked [as read], *śnābhyastayor ātaḥ* (Pā. 6-4-112) drops the *ā* of the *śnā*; Vedically the *ṭi* does not take *e*; *ādeśapratyayayoḥ* (Pā. 8-3-59) gives *ṣatva* of the *s* of the *sic*, and because of this the *n* of the *vikaraṇa* becomes *ṇ*; the form *saniṣṇata*; *tiṅ-nighāta*. *śravasyantaḥ* — *supa ātmanaḥ kyac* after *śravas*; *śatṛ* after the *kyac*-ending; the *kyac*'s accent remains. ‖ 5 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> उतो नो अस्या उषसो जुषेत ह्यर्कस्य बोधि हविषो हवीमभिः ।
+> स्वर्षाता हवीमभिः ।
+> यदिन्द्र हन्तवे मृधो वृषा वज्रिञ्चिकेतसि ।
+> आ मे अस्य वेधसो नवीयसो मन्म श्रुधि नवीयसः ॥ ६ ॥
+
+> *uto no asyā uṣaso juṣeta hyarkasya bodhi haviṣo havīmabhiḥ |*
+> *svarṣātā havīmabhiḥ |*
+> *yadindra hantave mṛdho vṛṣā vajriñciketasi |*
+> *ā me asya vedhaso navīyaso manma śrudhi navīyasaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> उतो इति । नः । अस्याः । उषसः । जुषेत । हि । अर्कस्य । बोधि । हविषः । हवीमऽभिः ।
+> स्वःऽसाता । हवीमऽभिः ।
+> यत् । इन्द्र । हन्तवे । मृधः । वृषा । वज्रिन् । चिकेतसि ।
+> आ । मे । अस्य । वेधसः । नवीयसः । मन्म । श्रुधि । नवीयसः ॥ ६ ॥
+
+> *uto iti | naḥ | asyāḥ | uṣasaḥ | juṣeta | hi | arkasya | bodhi | haviṣaḥ | havīma 'bhiḥ |*
+> *svaḥ 'sātā | havīma 'bhiḥ |*
+> *yat | indra | hantave | mṛdhaḥ | vṛṣā | vajrin | ciketasi |*
+> *ā | me | asya | vedhasaḥ | navīyasaḥ | manma | śrudhi | navīyasaḥ ‖ 6 ‖*
+
+*(Read from the image: the Pada gives *uto iti*, *svaḥ-sātā*, *havīma-bhiḥ*.)*
+
+### Printed p. 494  (PDF 515)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few places doubtful: [?]).*
+
+> अयमिन्द्रो नोऽस्माकं सम्बन्धिनीमस्या उषसः ॥ कर्मणि षष्ठी ॥ विशामुषसं सुक्याः सम्बन्धिनीमुषःकालमुतो जुषेत । अपि नाम सेवेत । उपस्येसुवास्माकमयमिन्द्रो यज्ञं गच्छेदित्यर्थः ॥ हि पूरणार्थः । गत्वा चार्कस्य हविषः ॥ पूर्ववत्कर्मणि षष्ठी । अर्चनसाधनं हविर्हवीमभिर्हवनप्रकारविशेषैर्दत्तं हविरुतो बोधि । अपि नाम जानीहि । किंच स्पर्धाता स्वर्गस्यान्यस्य सुखविशेषस्य वा सम्भजनस्थाने यज्ञे हवीमभिराह्वानैराहूतो भवेति शेषः । अस्माभिराहूतः सन्नुपस्यैवागत्य हविः स्वीकरोतीत्यर्थः ॥ कस्मादिदमुच्यते । यद्यस्मात्कारणात् हे वज्रिन् वज्रयुक्तेन्द्र मृधो हिंसकाञ्छत्रून् हन्तवे हन्तुं वृषा वर्षिता सन् कामानां चिकेतसि अवबुध्यसे । कित ज्ञाने । जौहोत्यादिकः । लेट्यडागमः । नाभ्यस्तस्याचि पिति सार्वधातुके [?] इत्यत्र छन्दसि बहुलमिति वचनाल्लघूपधगुणप्रतिषेधाभावः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥ तस्माद्ब्रूमः । हे इन्द्र मे मम मन्म मननीयं स्तोत्रमा श्रुधि । सर्वतः शृणु । कीदृशस्य मे । वेधसो मेधाविनः नवीयसो नवतरस्य । दीक्षितसंस्कारैः संस्कृतत्वान्नवीयस्त्वं पुनर्विशेष्यते । नवीयसोऽतिशयेन नवनवतोत्साधारणस्तुतिमतः । अत्र यजमानविशेषणत्वेऽपि तत्कर्तृकं स्तोत्रमेव विशिष्टं भवति ॥
+
+> *ayamindro no 'smākaṃ sambandhinīmasyā uṣasaḥ ‖ karmaṇi ṣaṣṭhī ‖ viśāmuṣasaṃ sukyāḥ sambandhinīmuṣaḥkālamuto juṣeta | api nāma seveta | upasyesuvāsmākamayamindro yajñaṃ gacchedityarthaḥ ‖ hi pūraṇārthaḥ | gatvā cārkasya haviṣaḥ ‖ pūrvavatkarmaṇi ṣaṣṭhī | arcanasādhanaṃ havirhavīmabhirhavanaprakāraviśeṣairdattaṃ haviruto bodhi | api nāma jānīhi | kiṃca spardhātā svargasyānyasya sukhaviśeṣasya vā sambhajanasthāne yajñe havīmabhirāhvānairāhūto bhaveti śeṣaḥ | asmābhirāhūtaḥ sannupasyaivāgatya haviḥ svīkarotītyarthaḥ ‖ kasmādidamucyate | yadyasmātkāraṇāt he vajrin vajrayuktendra mṛdho hiṃsakāñchatrūn hantave hantuṃ vṛṣā varṣitā san kāmānāṃ ciketasi avabudhyase | kita jñāne | jauhotyādikaḥ | leṭyaḍāgamaḥ | nābhyastasyāci piti sārvadhātuke [?] ityatra chandasi bahulamiti vacanāllaghūpadhaguṇapratiṣedhābhāvaḥ | abhyastānāmādirityādyudāttatvam ‖ tasmādbrūmaḥ | he indra me mama manma mananīyaṃ stotramā śrudhi | sarvataḥ śṛṇu | kīdṛśasya me | vedhaso medhāvinaḥ navīyaso navatarasya | dīkṣitasaṃskāraiḥ saṃskṛtatvānnavīyastvaṃ punarviśeṣyate | navīyaso 'tiśayena navanavatotsādhāraṇastutimataḥ | atra yajamānaviśeṣaṇatve 'pi tatkartṛkaṃ stotrameva viśiṣṭaṃ bhavati ‖*
+
+*(Sense: "This Indra may enjoy (*juṣeta*) this dawn (*uṣasaḥ*) of ours — the time of dawn belonging to the *sūkta* — i.e. may come to our sacrifice early. [*hi* is a filler.] And having come, *bodhi* — know (accept) the oblation of the one who praises (*arkasya haviṣaḥ*), given with the particular kinds of invocations (*havīmabhiḥ*); and be called by invocations at the sacrifice, the place of enjoyment of heaven or other happiness (*svarsātā*): called by us, he comes early and accepts the oblation. Why this? Because, O thunderer, you are aware (*ciketasi*), as the showerer, of desires, for the slaying of the injuring enemies (*mṛdhaḥ*). Therefore we say: O Indra, hear (*śrudhi*) my praise (*manma*), the praise worthy of thought, of the new — consecrated by initiation — wise *vedhas*, of the extraordinary newest praiser.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(ayam) indraḥ* — this Indra; *naḥ* — our; *asyāḥ uṣasaḥ* — this dawn (the morning rite); *juṣeta hi* — may serve; *(he indra* — O Indra); *havīmabhiḥ* — by invocations of various kinds (given); *arkasya* — for worship; *haviṣaḥ* — the oblation; *bodhi* — know; *(kiṃ ca* — and); *svarṣātā* — at the sacrifice (a place of the enjoyment of heaven or happiness); *havīmabhiḥ* — by invocations; *(āhūtaḥ bhava* — be called); *yat* — because; *vajrin* — O wielder of the thunderbolt; *indra* — O Indra; *tvam* — you; *vṛṣā* — showerer of desires; *mṛdhaḥ* — enemies who harm; *hantave* — to slay; *cikētasi* — you are aware; *tat* — therefore; *vedhasaḥ* — of the wise; *navīyasaḥ* — made new by initiation and other rites (extraordinary in praise); *asya me* — this my; *manma* — praise; *ā śrudhi* — hear.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(begins at the foot of p. 494).* Indra comes early in the morning to our rite. O Indra, accept the oblations of various kinds, offered for worship, and [come] to the heavenly
+
+---
+
+**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 494 (PDF 515): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā/Pada/bhāṣya/Pratipadārtha written and the Bhāvārtha begun at the foot of p. 494 ("…accept the oblations … and [come] to the heavenly"); resume p. 495 (PDF 516) with the rest of the Bhāvārtha, English, Special Topics, grammar, then Ṛk 7 (last). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484; Ṛk 5 bhāṣya p. 488; Ṛk 6 bhāṣya p. 494); stray Kannada transliteration in the last entry of the Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
