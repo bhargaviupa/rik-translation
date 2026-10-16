@@ -14033,4 +14033,50 @@ Here, Vāyu is compared to a paramour, and the sacrificer, who is the *purandhi*
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete (p. 586); resume p. 587, PDF 608, with Ṛk 4; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 587  (PDF 608)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तुभ्यमुषासः शुचयः परावति भद्रा वस्त्रा तन्वते दंसु रश्मिषु चित्रा नव्येषु रश्मिषु ।
+> तुभ्यं धेनुः सबर्दुघा विश्वा वसूनि दोहते ।
+> अजनयो मरुतो वक्षणाभ्यो दिव आ वक्षणाभ्यः ॥ ४ ॥
+
+> *tubhyamuṣāsaḥ śucayaḥ parāvati bhadrā vastrā tanvate daṃsu raśmiṣu citrā navyeṣu raśmiṣu |*
+> *tubhyaṃ dhenuḥ sabardughā viśvā vasūni dohate |*
+> *ajanayo maruto vakṣaṇābhyo diva ā vakṣaṇābhyaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> तुभ्यम् । उषसः । शुचयः । पराऽवति । भद्रा । वस्त्रा । तन्वते । दंसु । रश्मिऽसु । चित्रा । नव्येषु । रश्मिऽषु ।
+> तुभ्यम् । धेनुः । सबःऽदुघा । विश्वा । वसूनि । दोहते ।
+> अजनयः । मरुतः । वक्षणाभ्यः । दिवः । आ । वक्षणाभ्यः ॥ ४ ॥
+
+> *tubhyam | uṣasaḥ | śucayaḥ | parā 'vati | bhadrā | vastrā | tanvate | daṃsu | raśmi 'su | citrā | navyeṣu | raśmi 'ṣu |*
+> *tubhyam | dhenuḥ | sabaḥ 'dughā | viśvā | vasūni | dohate |*
+> *ajanayaḥ | marutaḥ | vakṣaṇābhyaḥ | divaḥ | ā | vakṣaṇābhyaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; doubtful words marked [?].)*
+
+> हे वायो तुभ्यं त्वदर्थमुषास उषसः पूर्वोक्तरीत्या त्वया प्रकाशिताः शुचयः शुद्धा दीप्ता वा परावत्यत्यन्तदूरदेशेऽन्तरिक्षे दंसु दंसेषु कर्मवत्सु [?] । यद्वा । गृहनामैतत् ॥ अन्त्यलोपश्छान्दसः ॥ गृहवदाच्छादकेषु । रश्मिषु स्वकीयेषु तैर्भद्रा भन्दनीयानि कल्याणानि वस्त्राच्छादनयोग्यानि वस्त्राणि तन्वते । विस्तारयन्ति । यद्वा । उषसो दंसु यागगृहेषु देवयजनेषु रश्मिषु होमाय प्रदीप्ताग्निज्वालावत्सु [?] आगताय तुभ्यं भद्रा वस्त्रा तन्वते । अग्निज्वाला एव वस्त्राणि विस्तारयन्तीत्यर्थः । उषःकालेऽग्नीनां प्रज्वाल्यमानत्वात्ता एव वस्त्राणीत्युपचर्यते । ननु केवलं साधारणानि वस्त्राणि नेत्याह । नव्येषु नूतनेषु स्तुत्येष्वेषु [?] । णु स्तुतौ । अचो यत् । वाङोयि प्रत्यये इत्यनादेशः । यतोनाव इत्याद्युदात्तत्वम् ॥ रश्मिषु चित्राणि नानावर्णयुक्तान्याश्चर्यभूतानि तन्वते । उषःकाले रश्मीनां नानावर्णत्वादिति भावः । अग्निद्वारेति पक्षे ज्वालानां कालीकरालीत्यादिरूपेण नानावर्णत्वाच्चित्रत्वम् ॥ किंच हे वायो तुभ्यं त्वदर्थं त्वद्यागार्थमेव धेनुर्घातादिना प्रीणयित्री गौः । जातावेकवचनम् । सबर्दुघा सबरित्यमृतनाम । तस्य दोग्ध्री । दुहः कब्बश्छेति कप् ॥ सती विश्वा वसूनि सर्वाणि धनान्याज्यादिरूपाणि दोहते स्वयमेव दुग्धे । प्रीणयतीत्यर्थः ॥ कर्मकर्तरि न दुहस्नमामिति [?] पा. ३-१-८९ [?] इति यगभावः ॥ छान्दसे शपो लुगभावः ॥ कस्तत्र विशेष इति चेत् उच्यते । हे वायो दिवो द्योतमानादन्तरिक्षान्मरुतो देवाने तन्मानकान् मेघं विशीर्य वृष्ट्युत्पादकान् त्वदंशभूतान्त्स्वीयानजनयः जनयसि उत्पादयसि । किमर्थमिति तदुच्यते । वक्षणाभ्यः प्रवहणशीलाभ्य उदभ्यः वृष्टिलक्षणाभ्यः । तथा वक्षणाभ्यः नदीनाम्नैतत् वक्षणा रुजाना इति तन्नाम्नु पाठात् । तासामर्थायेति ॥
+
+> *he vāyo tubhyaṃ tvadarthamuṣāsa uṣasaḥ pūrvoktarītyā tvayā prakāśitāḥ śucayaḥ śuddhā dīptā vā parāvatyatyantadūradeśe 'ntarikṣe daṃsu daṃseṣu karmavatsu [?] | yadvā | gṛhanāmaitat ‖ antyalopaśchāndasaḥ ‖ gṛhavadācchādakeṣu | raśmiṣu svakīyeṣu tairbhadrā bhandanīyāni kalyāṇāni vastrācchādanayogyāni vastrāṇi tanvate | vistārayanti | yadvā | uṣaso daṃsu yāgagṛheṣu devayajaneṣu raśmiṣu homāya pradīptāgnijvālāvatsu [?] āgatāya tubhyaṃ bhadrā vastrā tanvate | agnijvālā eva vastrāṇi vistārayantītyarthaḥ | uṣaḥkāle 'gnīnāṃ prajvālyamānatvāttā eva vastrāṇītyupacaryate | nanu kevalaṃ sādhāraṇāni vastrāṇi netyāha | navyeṣu nūtaneṣu stutyeṣveṣu [?] | ṇu stutau | aco yat | vāṅoyi pratyaye ityanādeśaḥ | yatonāva ityādyudāttatvam ‖ raśmiṣu citrāṇi nānāvarṇayuktānyāścaryabhūtāni tanvate | uṣaḥkāle raśmīnāṃ nānāvarṇatvāditi bhāvaḥ | agnidvāreti pakṣe jvālānāṃ kālīkarālītyādirūpeṇa nānāvarṇatvāccitratvam ‖ kiṃca he vāyo tubhyaṃ tvadarthaṃ tvadyāgārthameva dhenurghātādinā prīṇayitrī gauḥ | jātāvekavacanam | sabardughā sabarityamṛtanāma | tasya dogdhrī | duhaḥ kabbaścheti kap ‖ satī viśvā vasūni sarvāṇi dhanānyājyādirūpāṇi dohate svayameva dugdhe | prīṇayatītyarthaḥ ‖ karmakartari na duhasnamāmiti [?] pā. 3-1-89 [?] iti yagabhāvaḥ ‖ chāndase śapo lugabhāvaḥ ‖ kastatra viśeṣa iti cet ucyate | he vāyo divo dyotamānādantarikṣānmaruto devāne tanmānakān meghaṃ viśīrya vṛṣṭyutpādakān tvadaṃśabhūtāntsvīyānajanayaḥ janayasi utpādayasi | kimarthamiti taducyate | vakṣaṇābhyaḥ pravahaṇaśīlābhya udabhyaḥ vṛṣṭilakṣaṇābhyaḥ | tathā vakṣaṇābhyaḥ nadīnāmnaitat vakṣaṇā rujānā iti tannāmnu pāṭhāt | tāsāmarthāyeti ‖*
+
+*(Sense: "O Vāyu, for you (*tubhyam*) — for your sake — the dawns, lit by you in the way stated before, shine, pure (*śucayaḥ*) or bright, in the far distance (*parāvati*), in the sky, in the *daṃsu* — houses, or acts [*daṃsa* is a name of house; the final elision by Vedic usage]. With their rays they spread out fine, covering-fit robes (*vastrā*); or: for you who come, at the sacrificial houses (*devayajana*), for the oblation, with rays — in the blazing flames of fire — they spread lovely garments; i.e. the flames of Agni themselves spread out as garments, because at dawn the fires are kindled — so the flames are called "garments". Not merely common garments: *navyeṣu* — in new, praiseworthy [rays], *citrā* — wonderful, of many colours, they spread out (*tanvate*), because the rays of the dawn have many colours; and in the Agni-flame sense, the flames are of many colours by being dark, fierce etc. Further, O Vāyu, for your sacrifice the *dhenu* — the cow that gives joy [by nourishing] — *sabardughā* [*sabar* is a name of nectar; the milker of it, *kap* suffix after *duh*] — milks of herself all the *vasūni* — wealth in the form of ghee and the like [*dohate*: the passive *yak* is absent, the *śap* is not elided by Vedic usage]. You, O Vāyu, from the shining sky, beget (*ajanayaḥ*) the Maruts, your parts, who break the cloud and produce rain, for *vakṣaṇābhyaḥ* — for the rain-waters of flowing nature; and for *vakṣaṇābhyaḥ* — the rivers [*vakṣaṇā* is a name of rivers: *vakṣaṇā rujānā*, as read in the Nighaṇṭu [?]] — for their sake.")*
+
+### Printed p. 588  (PDF 609)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+*(The bhāṣya of Ṛk 4 concludes at the top of this page — the passage transcribed above ends at "*tāsām arthāya*"; the Sanskrit of both pages is one continuous passage, which I have read as above, with the splitting of lines at the page break as printed.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) vāyo* — O Vāyu; *tubhyam* — for you; *śucayaḥ* — shining; *uṣasaḥ* — the dawns; *parāvati* — in the far-off place; *daṃsu* — in the houses of the doers [or in the acts]; *navyeṣu* — newly, praiseworthy; *raśmiṣu* — with the rays; *bhadrā* — auspicious; *vastrā* — garments (fit for covering); *tanvate* — spread out [or: *parāvati* — in the far-off place; *śucayaḥ* — shining ones; *uṣasaḥ* — dawns; *daṃsu* — in the sacrificial houses; *navyeṣu* — newly; *raśmiṣu* — in the flames of the fire kindled for the sake of the Soma (for the oblation); *tubhyam* (to you who come); *bhadrā* — auspicious; *vastrā* — garments, (flame-form garments); *tanvate* — spread out]; *raśmiṣu* — with the rays or the flames; *citrā* — of many colours, [black, fierce and so on]; *tanvate* — spread out; and *tubhyam* — for you; *sabardughā* — giving nectar; *dhenuḥ* — the cow; *viśvā vasūni* — all wealth (of ghee and the like); *dohate* — milks (by herself); *divaḥ* — from the shining sky; *vakṣaṇābhyaḥ* — for the rain-water of flowing nature; *vakṣaṇābhyaḥ* — and for the rivers; *marutaḥ* — the deities called Maruts, who split the clouds and make the rain; *ā ajanayaḥ* — you produce (you create).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, at dawn, for you, in the sacrificial houses, the fires kindled for you spread their flames — black, fierce and the rest [sic: the print says "Kālī, Karālī and so on, in the form of flames, are spread" (the dawns spread coloured rays)]; the cow that gives nectar (for you alone) also milks of herself the ghee and the like; and you, too, produce the Maruts, to bring rain for the rain-waters, and to give water to the rivers [from the shining sky].
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 written through its Bhāvārtha (p. 588); resume p. 589, PDF 610 (printed English and Special Topics of Ṛk 4); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
