@@ -12034,4 +12034,114 @@ In the second meaning the word *āyavaḥ* is explained as "those who know"; Ind
 
 ---
 
-**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 494 (PDF 515): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā/Pada/bhāṣya/Pratipadārtha written and the Bhāvārtha begun at the foot of p. 494 ("…accept the oblations … and [come] to the heavenly"); resume p. 495 (PDF 516) with the rest of the Bhāvārtha, English, Special Topics, grammar, then Ṛk 7 (last). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484; Ṛk 5 bhāṣya p. 488; Ṛk 6 bhāṣya p. 494); stray Kannada transliteration in the last entry of the Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 495  (PDF 516)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+*(Bhāvārtha of Ṛk 6, concluded from p. 494:)* "…heaven and the like, when you are called by the invocations at the sacrifice; O thunderer, showerer of desires: you know that the spoilers of the sacrifice are to be killed; therefore hear the praise of me, who am new (consecrated by rites), unique and highly distinguished in praise, wise."
+
+**Printed English (heading "English Translation"; as printed):** *"Will (Indra) be present at this our morning rite: be apprized, (Indra), of the oblation offered with (due) observances; offered with (due) observances for the sake of (obtaining) heaven: and since, wielder of the thunderbolt, showerer (of benefits), you know how to destroy the malevolent, therefore, listen to my acceptable (praise) intelligent, though a novice; (hear it from me) a novice."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***asyāḥ uṣasaḥ uto juṣeta*** — *viśām uṣasaṃ sūktyāhaḥ sambandhinīm uṣaḥkālam api nāma sevetā*: "Indra is prayed to come and accept the oblations at dawn, on the day of the sacrifice (the *sūkta*-day) that the sacrificers perform."
+
+***havīmabhiḥ*** — *havanaprakāraviśeṣaiḥ*: "the ways in which the *homa* of oblations, prepared for acceptance at the sacrifice, is performed in the fire, according to the order of the various injunctions".
+
+***svarṣātā havīmabhiḥ*** — *svargasyānyasya sukhaviśeṣasya vā sambhajanasthāne yajñe āhvānair āhūto bhava*: "since the sacrifice gives heaven or another special happiness, Indra is called at it by the sacrificers and priests, and comes to accept the oblation at dawn."
+
+***mṛdhaḥ hantave vṛṣā ciketasi*** — *śatrūn hantuṃ kāmānāṃ varṣitā avabudhyase*: "the sacrificers know that Indra destroys the enemies who harm and fulfils the wishes of the sacrificers."
+
+***navīyasaḥ*** — the word is used twice. For the first, as an epithet *navīyasaḥ vedhasaḥ*, it is explained as "wise, consecrated by the rites that a person initiated (*dīkṣita*) must undergo".
+
+### Printed p. 496  (PDF 517)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+For the second *navīyasaḥ* he explains "one who offers extraordinary praise, such as no one else can utter", as an epithet of the sacrificer.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *uṣasaḥ* — the genitive is used for the object; likewise *arkasya haviṣaḥ*. *juṣeta* — root *juṣī prītisevanayoḥ*, *tudādi*; *liṅ* third person singular; *cādilope vibhāṣā* (Pā. 8-1-63) forbids *nighāta*, the *vikaraṇa*'s accent remains; so *madhyodātta*. *bodhi* — root *budha avagamane*; *loṭ* second person singular, *sip*, replaced by *hi*; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; *vā chandasi* (Pā. 3-4-88) gives *apit* when not [required]; since *j*-marked and not *p*-marked the guṇa of the penult occurs because of the suffix; *hurhaldher dhiḥ* (Pā. 6-4-101) gives *dhi* for *hi*; the final drops by Vedic usage; *tiṅ-nighāta*. *havīmabhiḥ* — root *hveñ spardhāyāṃ śabde ca*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75) gives *manin* in the agent sense (where the independence of the instrument is intended); by Vedic usage the augment *iḍ*; *bahulaṃ chandasi* (Pā. 6-1-34) gives *saṃprasāraṇa* of the root; *pūrvarūpa*; guṇa because of the suffix, *avādeśa*; *jñityādir nityam* gives the acute on the first syllable. *svarṣātā* — root *paṇa saṃbhaktau* [as printed; the root is *ṣaṇu*]; *ktin*; *janasanakhanāṃ sañjhalośh* (Pā. 6-4-42) gives *ā*; locative singular; *supāṃ sulug* (Pā. 7-1-39) gives *ḍā*. *hantave* — root *han hiṃsāgatyoḥ*; when *tumun* sense is shown, *tumarthe sesenase…* (Pā. 3-4-9) gives *tavenn*; the acute on the first syllable since *n*-marked. *mṛdhaḥ* — root *mṛdhu undane*; *kvip ca* gives *kvip*; accusative plural. *ciketasi* — root *kita jñāne*, *juhotyādi*; *leṭ* second person singular, *sip*; *leṭo 'ḍāṭau* gives the augment *aṭ*; *ślau* doubles the root; *kuhoś cuḥ* (Pā. 7-4-62) gives *c* for the *k*;
+
+### Printed p. 497  (PDF 518)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+*(Grammar, concluded.)* …*nābhyastasyāci piti sārvadhātuke* (Pā. 7-3-87) — by the statement *bahulaṃ chandasi* the prohibition of guṇa of the light penult does not apply; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the acute on the first syllable; because *yad* is connected, no *nighāta*. *navīyasaḥ* — when the sense of excess is shown, the suffix *īyasun*; *yasyeti ca* drops the *a*; since *n*-marked the acute on the first syllable; genitive singular. *manma* — root *mana jñāne*; Uṇādi *manin*; since *n*-marked the acute on the first syllable. *śrudhi* — root *śru śravaṇe*; *loṭ* second person singular, *sip*; *bahulaṃ chandasi* gives *luk* of the *vikaraṇa*; *śruśṛṇupṛkṛvṛbhyaś chandasi* (Pā. 6-4-102) gives *dhi* for *hi*; since *apit*, no guṇa; *tiṅ-nighāta*. ‖ 6 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> त्वं तमिन्द्र वावृधानो अस्मयुरमित्रयन्तं तुविजात मर्त्यम् ।
+> वज्रेण शूर मर्त्यम् ।
+> जहि यो नो अघायति शृणुष्व सुश्रवस्तमः ।
+> रिष्टं न यामन्नप भूतु दुर्मतिर्विश्वाप भूतु दुर्मतिः ॥ ७ ॥
+
+> *tvaṃ tamindra vāvṛdhāno asmayuramitrayantaṃ tuvijāta martyam |*
+> *vajreṇa śūra martyam |*
+> *jahi yo no aghāyati śṛṇuṣva suśravastamaḥ |*
+> *riṣṭaṃ na yāmannapa bhūtu durmatirviśvāpa bhūtu durmatiḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । तम् । इन्द्र । ववृधानः । अस्मयुः । अमित्रयन्तम् । तुविऽजात । मर्त्यम् ।
+> वज्रेण । शूर । मर्त्यम् ।
+> जहि । यः । नः । अघऽयति । शृणुष्व । सुश्रवःऽतमः ।
+> रिष्टम् । न । यामन् । अप । भूतु । दुःऽमतिः । विश्वा । अप । भूतु । दुःऽमतिः ॥ ७ ॥
+
+> *tvam | tam | indra | vavṛdhānaḥ | asmayuḥ | amitrayantam | tuvi 'jāta | martyam |*
+> *vajreṇa | śūra | martyam |*
+> *jahi | yaḥ | naḥ | agha 'yati | śṛṇuṣva | suśravaḥ 'tamaḥ |*
+> *riṣṭam | na | yāman | apa | bhūtu | duḥ 'matiḥ | viśvā | apa | bhūtu | duḥ 'matiḥ ‖ 7 ‖*
+
+*(Read from the image: the Pada gives *vavṛdhānaḥ*, *asmayuḥ*; the Saṃhitā prints "*vāvṛdhāno*".)*
+
+### Printed p. 498  (PDF 519)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few places doubtful: [?]).*
+
+> हे इन्द्र तुविजात बहुभावमापन्न शूर विक्रान्त त्वं वावृधानो वर्धमानोऽस्मयुरस्मान् कामयमानस्तम् ॥ अमित्रयन्तमस्मासु शत्रुमाचरन्तं मर्त्यं मरणस्वभावं तं मर्त्यं वज्रेण जहि ॥ हन्तेर्जादेशः । तस्यासिद्धवदत्राभादित्यसिद्धत्वाद्धेर्लुग्भावः ॥ तमित्युक्तं कमित्याह । यो मर्त्यो नोऽस्माकमघायति । अघं पापं दुःखं वेच्छति तं जहि । अश्वाघस्यात्मनः क्यङ् [?] । किंच सुश्रवस्तमोऽतिशयेन शोभनश्रवस्त्वं शृणुष्व । श्रावयोऽस्माकम् [?] । कीदृशं तदित्युच्यते । हे इन्द्र स्वत्प्रसादाद्दुर्मतिर्दुष्टा बुद्धिर्हिंसाविषया दुष्कर्मणि बुद्धिरप भूतु । अपगता भवतु ॥ छान्दसः शपो लुक् । भूसुवोस्तिङीति गुणप्रतिषेधः ॥ न केवलं हिंसारूपा अपि तु विश्वा सर्वापि क्रोधपरिवादादिरूपा दुर्मतिरप भूतु । तत्र दृष्टान्तः । यामन् यामन्यध्वनि रिष्टं न । अध्वनः श्रमेण हिंसितं परिश्रान्तं यथा दुर्मतिः क्षुधादिविषया बाधते तद्वदस्मान्बाधमाना दुर्मतिरपगच्छतु । यद्वा । यामनि मार्गे यज्ञादिरूपे रिष्टमसुररक्षः कृतहिंसादिरूपं विघ्नं परिहरसि तद्वत् ॥
+
+> *he indra tuvijāta bahubhāvamāpanna śūra vikrānta tvaṃ vāvṛdhāno vardhamāno 'smayurasmān kāmayamānastam ‖ amitrayantamasmāsu śatrumācarantaṃ martyaṃ maraṇasvabhāvaṃ taṃ martyaṃ vajreṇa jahi ‖ hanterjādeśaḥ | tasyāsiddhavadatrābhādityasiddhatvāddherlugbhāvaḥ ‖ tamityuktaṃ kamityāha | yo martyo no 'smākamaghāyati | aghaṃ pāpaṃ duḥkhaṃ vecchati taṃ jahi | aśvāghasyātmanaḥ kyaṅ [?] | kiṃca suśravastamo 'tiśayena śobhanaśravastvaṃ śṛṇuṣva | śrāvayo 'smākam [?] | kīdṛśaṃ tadityucyate | he indra svatprasādāddurmatirduṣṭā buddhirhiṃsāviṣayā duṣkarmaṇi buddhirapa bhūtu | apagatā bhavatu ‖ chāndasaḥ śapo luk | bhūsuvostiṅīti guṇapratiṣedhaḥ ‖ na kevalaṃ hiṃsārūpā api tu viśvā sarvāpi krodhaparivādādirūpā durmatirapa bhūtu | tatra dṛṣṭāntaḥ | yāman yāmanyadhvani riṣṭaṃ na | adhvanaḥ śrameṇa hiṃsitaṃ pariśrāntaṃ yathā durmatiḥ kṣudhādiviṣayā bādhate tadvadasmānbādhamānā durmatirapagacchatu | yadvā | yāmani mārge yajñādirūpe riṣṭamasurarakṣaḥ kṛtahiṃsādirūpaṃ vighnaṃ pariharasi tadvat ‖*
+
+*(Sense: "O Indra, *tuvijāta* — taking many forms — brave, you, growing (*vāvṛdhānaḥ*), desiring us (*asmayuḥ*), strike with your thunderbolt that mortal, acting as an enemy (*amitrayantam*) toward us, mortal by nature. [Grammar: *jahi* with the substitute *jā* for *han*; the *hi* is not dropped by *asiddhavad atrābhāt*.] Which mortal? Whoever wishes us harm (*aghāyati*: *agha* is sin or pain); strike him. And hear (*śṛṇuṣva*), you most renowned (*suśravastamaḥ*). How? O Indra, by your grace may the evil intent (*durmatiḥ*) — the mind bent on harm — be gone (*apa bhūtu*); not only that of harm but all evil intent in the form of anger or abuse. The example: as a weary traveller on the road (*yāmann riṣṭaṃ na*) is attacked, harmed by the toil of the way, by hunger and the like, so may the evil intent that harms us go away; or, as on the path of the sacrifice you remove the obstruction in the form of violence caused by the *asuras* and *rākṣasas*.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *tuvijāta* — O Indra of many forms (by our praises); *śūra* — O brave (Indra); *(he) indra* — O Indra; *tvam* — you; *vāvṛdhānaḥ* — greatly growing; *asmayuḥ* — loving us; *yaḥ* — whoever; *naḥ* — to us; *aghāyati* — wishes sin or sorrow; *tam* — that; *amitrayantam* — acting as an enemy; *martyam* — the mortal, of the nature of death; *vajreṇa* — with the thunderbolt; *jahi* — strike; *(kiṃ ca* — and); *suśravastamaḥ* — you who listen to prayers with special attention; *śṛṇuṣva* — hear (our prayer); *durmatiḥ* — the evil intent (to harm us); *apa bhūtu* — be removed; *yāmann riṣṭaṃ na* — as on the road a harm due to robbers and the like; *yāmann* — on the path of the sacrifice; *riṣṭaṃ na* — as harm due to demons and the like; *viśvā* — all (anger and the like); *durmatiḥ* — evil intents; *apa bhūtu* — be removed.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(its first lines are at the foot of p. 498).* O Indra, of many forms, growing by our praises, loving us: with the thunderbolt kill the mortals who are our enemies and wish us harm; hear our prayer with special attention; may their evil intent to harm us be removed;
+
+### Printed p. 499  (PDF 520)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 21 [as read].)*
+
+…may the intent be removed by your grace, as on the road the harm [of robbers] is removed (when one is weary of travel), or, as in the sacrifice, the harm caused by the demons is removed; may all intents of anger and the like be removed.
+
+**Printed English (heading "English Translation"; as printed):** *"Indra, endowed with many (excellences), you are exalted (by our praises), and are well disposed towards us, (slay) the man who is unfriendly to us; (slay) such a man, hero, with your thunderbolt: kill him who sins against us; ever most prompt to hear, hear (us): let every ill-intent (towards us, such as alarms) a wearied (traveller) on the road, be counteracted; let every ill-intent be counteracted."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 7).**
+
+Indra grows by the praises recited by the priests and the sacrificers; he has many forms: this is the explanation of *tuvijāta* and *vāvṛdhānaḥ*. By the epithet *asmayuḥ* it is said that Indra regards as his own devotees those who praise him with a pure mind.
+
+The word *martyam* is used twice; the first is explained as "one who is by nature subject to death", and in the second *martya* is qualified by *amitrayantam*; the prayer is that Indra regard as enemies, and destroy with the thunderbolt, the men who regard the priests and the sacrificers as enemies. The word *amitra* conveys "not a friend"; the suffix *kyac* in the sense of conduct (*ācāra*) is applied after this word; "one who acts as an enemy" is the explanation. The word *martya* is recorded among the names of men (Ni. 2-[?]; as read "೨-೮").
+
+***aghāyati*** — *aghaṃ pāpaṃ duḥkhaṃ vā icchati*: the word *agha* is formed from the root *han* with the prefix removed — *aghaṃ hanter nirhasitopasarga āhantīti* (Ni. 6-[?]; as read "೬-೧೧"): it denotes an action which brings men to sorrow, to sin. Here, "a person who wishes to cause sorrow or sin to the priests or the sacrificers": Indra is asked to destroy him.
+
+***suśravastamaḥ*** — Indra's strength and renown are extremely great and, he is described, by his mere hearing (*śravaṇa*) he gives welfare.
+
+### Printed p. 500  (PDF 521)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+***durmatiḥ apa bhūtu*** — *duṣṭabuddhir apagatā bhavatu*: "the intent, with anger, to do harm to the sacrificer — to utter abuses — may it be destroyed by Indra's grace": so he prays.
+
+***yāman riṣṭaṃ na*** — *adhvanaḥ śrameṇa hiṃsitaṃ pariśrāntaṃ yathā durmatiḥ kṣudhādiviṣayā bādhate tadvad asmān bādhamānā durmatir apagacchatu | yadvā yāmani yajñādimārge … riṣṭam asurarakṣaḥkṛtahiṃsādirūpaṃ vighnaṃ pariharasi tadvat*: Sāyaṇa gives two meanings for this sentence. "As the hunger and the like of a traveller who is weary of the road, and the fear of robbers, harass him, so may the evil intent that harasses us — of those who injure the priests and the sacrificers — go by Indra's grace": by this familiar example; in the second meaning, "in the path of the sacrifice and the like, the harm caused by the demons and Rākṣasas is warded off as Indra protects the sacrificer."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar pages, noted briefly; numbers as printed).** *vāvṛdhānaḥ* — root *vṛdhu vṛddhau*; when *liṭ* follows, *liṭaḥ kānajvā* (Pā. 3-2-106) gives *kānac*; the root is doubled; *citaḥ* gives the acute on the last syllable. *asmayuḥ* — *asmān ātmana icchati*; *supa ātmanaḥ kyac* (Pā. 3-1-8); *kyāc chandasi* (Pā. 3-2-170) gives *u* after the *kyac*-ending; *ato lopaḥ* drops the *a* of *kyac*; the acute on the last syllable by the suffix. *amitrayantam* — after the *kyac*-ending as before, *śatṛ* in the present sense; the *kyac*'s accent remains; accusative singular, with the augment *num*. *tuvijāta* — in the vocative, *āmantrita-nighāta*. *jahi* — root *han hiṃsāgatyoḥ*; *loṭ* second person singular, *sip*, replaced by *hi*; the *luk* of the *vikaraṇa*; *hanter jaḥ* (Pā. 6-4-36) gives *ja* for the root; *asiddhavad atrābhāt* (Pā. 6-4-22) makes the *ja*-substitution as if not effective, so *ato heḥ* (Pā. 6-4-105) does not give *luk* to *hi*.
+
+---
+
+**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 500 (PDF 521): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 (last) Saṃhitā…English, Special Topics and the grammar begun (entries to *jahi* at the foot of p. 500); resume p. 501 (PDF 522) with the rest of the Ṛk 7 grammar (‖ 7 ‖) and the closing Kannada line; Sūkta 132 begins on p. 501. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad); crop 541+ when needed (`crop_pages.py Rig_Vol10.pdf 541 620 $S/w10f --dpi 150`). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 pp. 468–471; Ṛk 2 pp. 473–476; Ṛk 3 pp. 479–482; Ṛk 4 bhāṣya p. 484; Ṛk 5 bhāṣya p. 488; Ṛk 6 bhāṣya p. 494; Ṛk 7 bhāṣya p. 498); stray Kannada transliteration in the last entry of the Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
