@@ -6504,4 +6504,119 @@ Here ends the 126th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 126 complete (printed pp. 219–248). Sūkta 127 (begins printed p. 249 = PDF 270; page images for PDF 261–300 are in scratchpad w10b/) — not yet begun. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5 bhāṣya (p. 237) and Ṛk 7 bhāṣya (p. 246) small type with several [?].
+
+---
+
+## Sūkta 127 — *agniṃ hotāram* (begins at the head of printed p. 249; the Anuvāka 19 opens here)
+
+### Printed p. 249  (PDF 270)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 12 [as read].)*
+
+**ನೂರ ಇಪ್ಪತ್ತೇಳನೆಯ ಸೂಕ್ತವು — Nūra ippattēḷaneya sūktavu** (the one hundred and twenty-seventh Sūkta).
+
+*(This Sūkta opens with a long Kannada introduction on the ṛṣi Paruccheṣa, on the style of his ṛks and on their use in the śastra; the Sanskrit introduction (*bhūmikā*) of Sāyaṇa and the table follow later. I give the Kannada in translation.)*
+
+With this Sūkta the nineteenth Anuvāka of the first Maṇḍala begins. In this Anuvāka there are 7 Sūktas, 127 to 133. In the next Anuvāka, the twentieth, there are 6 Sūktas, 134 to 139. The ṛṣi of all the 13 Sūktas of these two Anuvākas is Paruccheṣa Daivodāsi, that is, the son of Divodāsa, named Paruccheṣa. We have already explained about Divodāsa: Divodāsa or Divodāsa Atithigva is a king of very ancient times (the Vedic age). He was the son of Vadhryaśva and the father of Sudās [as read: "ವದ್ಧ್ರ್ಯಶ್ವ … ಸುವಾಸ" — the names are small and I give them as I read]. His name occurs in many places in the Ṛgveda. The chief enemy of this Divodāsa was Śambara, or Dāsa, the leader of the forest people who lived in hills and mountains; this is said there. The sūktas seen by Divodāsa himself are not found anywhere in the Ṛgveda. Therefore modern scholars differ in opinion whether his son, the ṛṣi Paruccheṣa, is the seer of these sūktas. Be that as it may, according to the Anukramaṇī — *agnimīḷādaśa paruccheṣo daivodāsirāgneyaṃ tu pārucchepaṃ sarvam atyaṣṭaṃ tatrādyātiśakvarī …* [as read; the last word, "ṣaṣṭhīti", is doubtful] — it is established that the ṛṣi of all 13 Sūktas (127–139) is Paruccheṣa. Yāska says in his Nirukta —
+
+> परुच्छेप ऋषिः । पर्ववच्छेपः परुषिपरुषि शेपोऽस्येति वा ।
+
+> *parucchepa ṛṣiḥ | parvavacchepaḥ paruṣiparuṣi śepo 'syeti vā |*
+
+(Ni. 10-42, as printed "೧೦-೪೨"; the OCR reads "१०-४३".) That is, because he grew up in great comfort, [he had] a *śepa* in every joint, i.e., one endowed with good development in all the limbs and joints: such is the main idea. The literal sense of the word *paruccheṣa* here is not so important. The story of this ṛṣi is told in the Aitareya Brāhmaṇa (Adhyāya 22, Khaṇḍa 5–6) and in the Kauṣītaki Brāhmaṇa (13-4-5). In these 13 Sūktas seen by Paruccheṣa there are in all 100 ṛks. [A statement about the son of Paruccheṣa, Ānānata Pāruccheṣi, follows:] Ānānataḥ Pāruccheṣi is the seer of the ṛks 1–[?] of the 1[?]th Sūkta of the ninth maṇḍala [as printed; numerals small]. All these ṛks have a special feature of their own. They are in the metres Atyaṣṭi, Atiśakvarī and Atidhṛti, the plural count of which is… The 127th sūkta is of the metre Atiśakvarī; the rest of the sūktas (except some ṛks) are composed in Atyaṣṭi. Such metres have 8 *pādas* and in all 6[?]… syllables, with an addition or deficiency of one or two syllables in some contexts. We have described the characteristics of these metres with examples in Ṛk Saṃhitā, part 1, pp. 221–231. Another peculiarity of the ṛks seen by Paruccheṣa — Yāska says —
+
+### Printed p. 250  (PDF 271)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयाहो दर्शनीयेति । तत्परुच्छेपस्य शीलम् ॥
+
+> *abhyāse bhūyāṃsamarthaṃ manyante yathāho darśanīyāho darśanīyeti | tatparucchepasya śīlam ‖*
+
+(Ni. 10-43 [?], as printed "೧೦-೪೩".) That is, in the ṛks seen by this ṛṣi *abhyāsa*, that is, repetition, is seen specially. Ordinarily in ṛks of metres such as Gāyatrī, Triṣṭubh and Jagatī there are only two parts, a first half and a second half. But in ṛks seen by Paruccheṣa, of Atyaṣṭi and other metres, there are three halves. At the end of the first and third of these three halves one or two words recur like a refrain (*pallavi*). For example —
+
+> अग्निं होतारं मन्ये दास्वन्तं वसुं सूनुं सहसो जातवेदसं विप्रं न जातवेदसम् ।
+
+> *agniṃ hotāraṃ manye dāsvantaṃ vasuṃ sūnuṃ sahaso jātavedasaṃ vipraṃ na jātavedasam |*
+
+(Ṛ. Saṃ. 1-127-1, the first ṛk of this very Sūkta, as printed; the OCR agrees.) In this ṛk the word *jātavedasam* is repeated; between this repetition stand the words *vipraṃ na*. This repeating word is always at the end of a sentence.
+
+> निष्षहमाणो यमते नायते धन्वासहा नायते ।
+
+> *niṣṣahamāṇo yamate nāyate dhanvāsahā nāyate |*
+
+*(Read letter by letter; the sense is "he who overpowers restrains, does not move away; he who surpasses in the bow does not move away" — I give no gloss for the unclear words.)* In this ṛk the words *na āyate* are repeated, and between them stands the word *dhanvāsahā*. Yāska states this subject of repetition: *abhyāse bhūyāṃsam arthaṃ manyante yathāho darśanīyāho darśanīyeti*, and explains its meaning. The commentator on this sentence of the Nirukta (Durga) —
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते । शब्दाभ्यासे यत्रान्यो विशेषो नास्ति शिष्टं विशेषमाचार्या मन्त्रार्थचिन्तका मन्यन्ते — यदुतार्थभूयस्त्वमिति । न ह्येकस्मात्स एव शब्दः पुनरभ्यस्यते । लोकेऽपि चैतद्दृष्टम् — शब्दाभ्यासेऽर्थभूयस्त्वमिति । यथा — अहो दर्शनीयः ! अहो दर्शनीयः ! इति । गुणातिशये हि स्त्रियाः शब्दाभ्यासः । तस्मान्मन्त्रेष्वपि तद्वदेवेति न्यायम् ॥
+
+> *abhyāse bhūyāṃsamarthaṃ manyante | śabdābhyāse yatrānyo viśeṣo nāsti śiṣṭaṃ viśeṣamācāryā mantrārthacintakā manyante — yadutārthabhūyastvamiti | na hyekasmātsa eva śabdaḥ punarabhyasyate | loke 'pi caitaddṛṣṭam — śabdābhyāse 'rthabhūyastvamiti | yathā — aho darśanīyaḥ ! aho darśanīyaḥ ! iti | guṇātiśaye hi striyāḥ śabdābhyāsaḥ | tasmānmantreṣvapi tadvadeveti nyāyam ‖*
+
+*(Read letter by letter from the print; "mantrārthacintakāḥ" and "stṛiyāḥ" [?] are doubtful.)* That is, when a word is uttered twice in a sentence, in the case where the word has no two different senses, the repetition of the word indicates excess of meaning; that is, it is used in order to give prominence to the matter said, or to say it so that it is well fixed in the mind. For example, when describing the beauty of women, the repeated "*aho darśanīyā, aho darśanīyā*" — "what a lovely one! what a lovely one!" —
+
+### Printed p. 251  (PDF 272)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 12.)*
+
+— there is a custom in the world of speaking so, to make clear the idea of surpassing beauty; as there, so it must be thought here too, he has said. But Sāyaṇa has in general explained the repeated words in these ṛks by giving them different meanings.
+
+This kind of repetition has another purpose. Many ṛks of the Ṛgveda have been composed so as to be fit for singing. It is well known to all in the world that when a composition set to a *rāga* and the like is sung, the *pallavi* and the *anupallavi* are sung again and again. Therefore these ṛks, and many other ṛks, must have been composed with the purpose of being sung so as to be pleasing to hear. For this very reason, it is stated in the Aitareya Brāhmaṇa that these Pārucchepa mantras are laid down for the recitation of the *śastra*; and for this very reason the greater part of the Sāmaveda consists of Ṛgveda ṛks.
+
+When the Vedic mantras are understood with their meaning and recited or sung with devotion and faith, with the accents, there arises, for those who recite and for the audience who hear such Vedic chanting, an indescribable joy; this has come into the experience of many. Some modern scholars, such as Westerners, look at the Vedic mantras only from the point of view of meaning, and therefore have no chance of understanding fully the musical nature of the Vedic mantras; so they do not take pains for it. Some say that, though these ṛks are metrical, there are many dropped syllables (*lopa*) and violations of grammar in them, and that they are not suited to mature poetry. But their opinion is not tenable. For at that time there was no written language; everything had to be learnt by heart; therefore it is natural that attention should be given to pronunciation more than to meaning. And, there being no written language and no grammar, it is natural that words and the style of language current at that time were used. It must not be forgotten that grammatical treatises such as Pāṇini's were composed on the basis of Vedic words. Grammar comes out of language, not language out of grammar; language is the root; grammar is made to follow it. Therefore, it is not appropriate to apply grammatical rules strictly to the forms of words and so on that are seen in the Vedic mantras.
+
+As was said before, many ṛks may have been composed from the point of view of singing. For that reason, in many contexts short syllables are used as long ones and long ones as short; this is seen here and there. For example, words such as *ādha*, *ghā*, *sma* and others are long in the Saṃhitā text. In the same way *ṛtavṛdhā* is pronounced as *ṛtāvṛdhā*.
+
+### Printed p. 252  (PDF 273)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+…and so on. In many contexts one or two syllables of words are dropped; for example, *tmanā* in place of *ātmanā*, and *bhāvyasya* in place of *bhāvayavyasya*. Such defects of dropping are not new in the modern languages either. For example, singers, when they sing compositions, sing *Kṛṣṇā mūruti* in place of *Kṛṣṇamūrti*, and *kīruti* for *kīrti*. Such drops are many. Since the Vedic mantras have come down handed on by pronunciation alone through tradition, such small drops (which are not drops at all) are natural.
+
+There is no doubt that the sūktas seen by Paruccheṣa belong to very ancient mantras. Because the meaning of some words and sentences in these ṛks is very difficult and unclear, the meaning does not fit well in many contexts. A large part of these mantras has been included in the *śastra* mantras. Their explanation is in the Aitareya Brāhmaṇa as follows:
+
+> देवासुरा वा एषु लोकेषु समयतन्त ते वै देवाः षष्ठेनैवाह्ना [?] लोकेभ्योऽसुरान्प्राणुदन्त तेषां यान्यन्तर्हस्तीनानि [?] वसून्यासंस्तान्यादाय समुद्रं प्रौहन् [?] ते वा एतेनैव छन्दसानुहायान्तर्हस्तीनानि [?] वसून्यादत्त तद्यदेतत्पदं पुनःपदं स एनान्कुत आसञ्जनाय [?] । आ द्विषतो वसु दत्ते निरेनमेभ्यः सर्वेभ्यो लोकेभ्यो नुदते य एवं वेद ॥
+
+> *devāsurā vā eṣu lokeṣu samayatanta te vai devāḥ ṣaṣṭhenaivāhnā [?] lokebhyo 'surānprāṇudanta teṣāṃ yānyantarhastīnāni [?] vasūnyāsaṃstānyādāya samudraṃ prauhan [?] te vā etenaiva chandasānuhāyāntarhastīnāni [?] vasūnyādatta tadyadetatpadaṃ punaḥpadaṃ sa enānkuta āsañjanāya [?] | ā dviṣato vasu datte nirenamebhyaḥ sarvebhyo lokebhyo nudate ya evaṃ veda ‖*
+
+(Ai. Br. 22-6, as printed "ಐ. ಬ್ರಾ. ೨೨-೬".) *(Read letter by letter; this long passage is in small type and I have marked the words I could not make out reliably. The words *antarhastīnāni*, *prauhan* and *kuta āsañjanāya* are the doubtful ones.)* The gods and the Asuras once fought a great battle in this world. Then the gods, performing the rites on the sixth day (of the *dvādaśāha* sacrifice) and conquering the Asuras, drove them out of this world. Then the Asuras, being defeated, took the wealth — gold and the like — that had come into their hands, and went away from the battlefield and threw it into the sea. Afterwards the gods, pursuing the Asuras, recovered, by the power of reciting the ṛks seen by Paruccheṣa, the riches the Asuras had thrown into the sea. In this recovery, the repeated seventh *pāda* of the Paruccheṣa ṛks (the *pāda* like *sumṛḷīko na ā gahi* — "be gracious, come to us") helped them. In the world it is natural that people draw out with a hook (*hook* in the print, in Latin letters) a thing that has fallen into a depth, with a rod joined to it. In the same way, the repeated seventh *pāda* of ṛks seen by this ṛṣi has the intent that, drawing the wealth lying in the midst of the sea so as to make it return to the gods, one … Understanding this matter well, and reciting the mantra accordingly and performing the rite, a man conquers enemies and drives them out of this world, and himself gets their wealth.
+
+### Printed p. 253  (PDF 274)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 12.)*
+
+The use (*viniyoga*) of the ṛks seen by Paruccheṣa and the explanation of their inner meaning is stated in the Aitareya Brāhmaṇa thus (Ai. Br. 22-5 [?]):
+
+> पारुच्छेपीरुपदधाति पूर्वयोः सवनयोः पुरस्तात्प्रस्थितयाज्यानां रोहितं वै नामैतच्छन्दो यत्पारुच्छेपमेतेन वा इन्द्रः सप्त स्वर्गान्लोकानरोहत् । रोहति सप्त स्वर्गान्लोकान्य एवं वेद । तदाहुर्यत्पञ्चपदा एव पञ्चमस्याह्नो रूपं षट्पदाः षष्ठस्याथ कस्मात्सप्तपदाः पारुच्छेपीः षष्ठेऽहन्नुच्यन्त इति । षड्भिरेव पद्भिः षष्ठमहराप्नुवन्ति । अथ यदेतत्सप्तमं पदं तदेव सप्तमेन पदेनाभ्यारभ्य वसन्ति वाचमेव तत्सप्तरूपां संतन्वन्ति ॥
+
+> *pārucchepīrupadadhāti pūrvayoḥ savanayoḥ purastātprasthitayājyānāṃ rohitaṃ vai nāmaitacchando yatpārucchepametena vā indraḥ sapta svargānlokānarohat | rohati sapta svargānlokānya evaṃ veda | tadāhuryatpañcapadā eva pañcamasyāhno rūpaṃ ṣaṭpadāḥ ṣaṣṭhasyātha kasmātsaptapadāḥ pārucchepīḥ ṣaṣṭhe 'hannucyanta iti | ṣaḍbhireva padbhiḥ ṣaṣṭhamaharāpnuvanti | atha yadetatsaptamaṃ padaṃ tadeva saptamena padenābhyārabhya vasanti vācameva tatsaptarūpāṃ saṃtanvanti ‖*
+
+*(Read letter by letter from the print and from the OCR, which is garbled here; the numbers and a few syllables are doubtful and I give the passage as read, marked as unverified.)* In the morning pressing and the midday pressing (*savana* means the act of pressing and extracting the Soma from the creeper) of the sixth day of the *dvādaśāha* or *daśarātra* sacrifice, the seven priests belonging to the *hotṛ* group recite the *prasthita-yājyā* mantras. That is, one must first recite the Pārucchepa ṛks one by one, and then recite the *prasthita-yājyā* mantras one by one. Which Pārucchepa mantras are to be recited in this context? —
+
+The ṛks from *vṛṣaṃ indra vṛṣapāṇāsa indavaḥ* (Ṛ. Saṃ. 1-139-6, as printed) up to the last ṛk of this [139th] sūkta (1-139-11), and from *pibā somam indra suvānam adribhiḥ* (Ṛ. Saṃ. 1-130-2) up to the last ṛk of that sūkta (1-130-[?]) — these ṛks are to be recited one by one. The ṛks seen by Paruccheṣa are called "*rohita*" ("ascending"), because by reciting these ṛks Indra once mounted the seventh heaven. Here the "seven heavens" are the seven divisions of heaven, differing in excellence and inferiority; whoever recites these mantras thus and performs the sacrifice, he too ascends the seven heavens.
+
+Here there is a special matter. It is the custom that on the fifth day of this sacrifice, at the times of pressing, ṛks of five *pādas* (Paṅkti metre) are recited; and on the sixth day, ṛks of six *pādas*. Yet why are the seven-*pāda* Pārucchepa ṛks recited on that day? — They say: on all six days one goes beyond the six heavens by the six *pādas* of the ṛk, and mounts the seventh heaven by the seventh *pāda*. Because the seventh *pāda* is a repetition, in the ṛk there are counted only six *pādas*; the seventh *pāda* is [also] praised, and by reciting it one obtains…
+
+### Printed p. 254  (PDF 275)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+…the excellent seventh heaven: so it is said; this is the main idea.
+
+What the Aitareya Brāhmaṇa says on the use of the Paruccheṣa sūktas in the *śastra* mantras is explained here —
+
+> द्यौर्हैव देवता षष्ठमहर्वहति त्रयस्त्रिंशस्तोमो रैवतं साम अतिच्छन्दा छन्दो यथादेवतमेतेन यथास्तोमं यथासाम यथाच्छन्दसं राध्नोति य एवं वेद ॥
+
+> *dyaurhaiva devatā ṣaṣṭhamaharvahati trayastriṃśastomo raivataṃ sāma aticchandā chando yathādevatametena yathāstomaṃ yathāsāma yathācchandasaṃ rādhnoti ya evaṃ veda ‖*
+
+(Ai. Br. 22-? [?], as printed "ಐ. ಬ್ರಾ. ೨೨-೭" (?), numerals small.) In the programme of the sixth day of the *daśarātra* sacrifice mentioned above, the details of the deity and others are thus: on the sixth day *dyauḥ* is the deity; one must praise with the *trayastriṃśa* stoma; one must sing with the Sāman named *Raivata*; one must recite ṛks of an *atichandas* metre (for the *śastra* mantras). These are the special rites of the sixth day.
+
+We have explained the *trayastriṃśa* stoma before. Yet the description of this stoma in the Tāṇḍya Brāhmaṇa, as follows —
+
+> एकादश हिंकरोति स तिसृभिः स सप्तभिः स एकया । एकादश हिंकरोति स एकया स तिसृभिः स सप्तभिः । एकादश हिंकरोति स सप्तभिः स एकया स तिसृभिः ॥
+
+> *ekādaśa hiṃkaroti sa tisṛbhiḥ sa saptabhiḥ sa ekayā | ekādaśa hiṃkaroti sa ekayā sa tisṛbhiḥ sa saptabhiḥ | ekādaśa hiṃkaroti sa saptabhiḥ sa ekayā sa tisṛbhiḥ ‖*
+
+*(Read letter by letter from the print; the second and third cycles are as printed and I give them without correcting.)* [that is, eleven *hiṅkāras*, of three, seven and one; and so on] — the *tṛca* (three ṛks) to be recited: in the first round the first ṛk three times and the second ṛk seven times (by which eleven ṛks [verses] are recited, as the print has "೧೧" [?]); in the second round the first ṛk once, the second ṛk three times, the third ṛk seven times (in all 11 ṛks); in the third round the first ṛk seven times, the second once, the third three times (in all 11 ṛks). In this way the number of ṛks recited in three rounds comes to 33, [and] for this reason this stoma is called *trayastriṃśa*. The Sāman produced from the ṛk *revatīr naḥ sadhamāde* (Ṛ. Saṃ. 1-30-13, as printed) is called *Raivata*. Metres with more syllables than Gāyatrī are called *Atichandas*. On this sixth day the deities are Vāk, Go and Dyaus. One must praise with the *trayastriṃśa* stoma; one must sing with the Sāman called Raivata; one must recite ṛks of the *atichandas* metres (as *śastra* mantras). These are the special rites of this sixth day.
+
+---
+
+**Progress note:** Sūkta 127 (begins printed p. 249 = PDF 270; Anuvāka 19; 10 ṛks, pp. 249–320) through printed p. 254 (PDF 275): the long Kannada introduction on the ṛṣi Paruccheṣa and the use of his ṛks in the śastra (Aitareya Brāhmaṇa passages, small type, flagged [?]) written; resume p. 255 (PDF 276) — Sanskrit introduction, table, Ṛk 1. The sūkta title "*agniṃ hotāram*" is from the first word of Ṛk 1 (to be confirmed on p. 255). Page images for PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5/7 bhāṣya of Sūkta 126.
