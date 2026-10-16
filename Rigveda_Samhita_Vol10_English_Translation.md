@@ -9686,4 +9686,68 @@ learn well the nature, qualities, greatness and works of the several deities, se
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 378 (PDF 399): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā…English done and the Special Topics begun (first two entries: *dasmo … pinvasi*, *arum martyaṃ yāvīḥ*); resume p. 379 (PDF 400), where the Special Topics continue (*parivṛṇakṣi*, *vocam*, Mitra/Varuṇa/Rudra …). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373) and Ṛk 3 (p. 377, Śruti quotations); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 379  (PDF 400)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+***martyaṃ parivṛṇakṣi*** — *maraṇaśīlaṃ śīryamāṇasvabhāvaṃ kaṃcin meghaṃ nirudakaṃ sarvato varjayasi audāsīnyaṃ karoṣi*: the word *martya* is recorded among the names of men (Ni. 2-[?]; as read "೨-೮"). "When a cloud has no water and is perishing by itself, Indra does nothing at all about it, he remains indifferent": so the meaning.
+
+***saprathaḥ*** — *sarvataḥ pṛthu yathā bhavati tathā*: "I shall praise Indra so that it may be in every way exceeding": the word is used as an adverb. Explaining the meaning *sarvataḥ pṛthuḥ* (Ni. 6-[?]; as read "೬-೮"), the Niruktakāra cites —
+
+> त्वमग्ने सप्रथा असि जुष्टो होता वरेण्यः ।
+> त्वया यज्ञं वि तन्वते ॥
+
+> *tvam agne saprathā asi juṣṭo hotā vareṇyaḥ |*
+> *tvayā yajñaṃ vi tanvate ‖*
+
+(Ṛ. Saṃ. 3-14-4 [?], as read "೩-೧೪-೪".) and —
+
+> योना [?] पृथिवि भवानृक्षरा निवेशनी ।
+> यच्छा नः शर्म सप्रथः ॥
+
+> *yonā [?] pṛthivi bhavānṛkṣarā niveśanī |*
+> *yacchā naḥ śarma saprathaḥ ‖*
+
+(Ṛ. Saṃ. 1-22-15, as read; the first word of the first line is printed "ಸೋನಾ" and I give it as read: [?].) Yāska cites these Ṛks for this meaning.
+
+***dive uta tat vocam*** — *dyulokadevatāyai api tvadāśrayabhūtāyai tādṛśaṃ karma bravīmi*: "the heaven-world is protected through Indra's support, and the work of raining done by Indra is favourable to the deity of heaven; therefore the ṛṣi of the mantra says that he will make Indra's deed known (to her too)."
+
+***rudrāya*** — *jagatāṃ duḥkhadrāvayitre rodanaśīlāya vā agnaye tat vocam*: "He explains the word *rudra* as 'one who makes sorrow flee' or 'one given to weeping', and says that Agni is meant by the word *rudra*. That Rudra is Agni is stated in Tai. Saṃ. 5-2-3-2 [?, as read "೬-೨-೩-೨"], and that Rudra wept in Tai. Saṃ. 1-5-1-1 [?], in the sentences '*rudro vai krūro yad ayam agniḥ*' and '*so 'rodīd yad arodīt tad rudrasya rudratvam*' (*he wept; that is the Rudra-ness of Rudra*)." Because Agni, by offering the oblations, is favourable to the work of raining, and because he is renowned for the greatness of his work, it is proper to tell Agni of the raining deed that Indra performs. *(This clearer printing corrects the garbled small-type reading of the Rudra quotation on p. 377: the Śruti words are "rudro vai krūro yad ayam agniḥ" and "so 'rodīd yad arodīt tad rudrasya rudratvam".)* By saying that Rudra and Agni are not different, Rudra too is described as *svayaśas*, "possessing his own glory".
+
+***mitrāya varuṇāya tad vocam*** — *aharabhimānidevatāyai rātryabhimānidevatāyai*: Mitra is the deity of the day, Varuṇa the deity of the night: "*ahorātre vai mitrāvaruṇau*" (Tāṇḍya Br. 25-10-10 [?], as read "೨೫-೧೦-೧೦" or "೨೩-…"), "*maitraṃ vā ahaḥ | vāruṇī rātriḥ*" (Tai. Saṃ. 2-1-7-3 [?]); from these Śruti sentences Mitra and Varuṇa are known as the deities of day and night;
+
+### Printed p. 380  (PDF 401)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+well known. "*ahorātrābhyāṃ khalu vai parjanyo varṣati*" (Tai. Saṃ. 2-1-7-3 [?]): by this sentence it is said that the rain comes from these deities, the deities of day and night. It is described here that it is proper to make known the deeds of Indra to Mitra and Varuṇa, the givers of rain.
+
+***sumṛḷīkāya saprathaḥ*** — "Indra's rain-favouring deeds will be described at length to all the deities who bring great happiness to the people": so he explains.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; numbers as printed).** *dasmaḥ* — root *dasu upakṣaye*; *iṣiyudhīndhidabhi…* [as printed] (Uṇ. 1-[?]) gives *makan*; acute on the last syllable by the suffix's accent. *pinvasi* — root *pivi secane*, *bhvādi*; *idito num dhātoḥ* gives *num*; *laṭ* second person singular, *sip*, *śap*; because of *hi* [the particle] *hi ca* (Pā. 8-1-34) forbids *nighāta*; the root's accent remains because *śap* and *sip* are *p*-marked. *yāvīḥ* — root *yu miśraṇāmiśraṇayoḥ*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives *luṅ* in the present sense; second person singular *sip*; *itaś ca* drops its *i*; *cli* is replaced by *siṭ*; the augment *iṭ* by *ārdhadhātukasyeḍ valādeḥ*; *astisico 'prkte* (Pā. 7-3-96) gives *īṭ* to the suffix; *sici vṛddhiḥ parasmaipadeṣu* (Pā. 7-2-1) gives *vṛddhi* of the root's *u*; *iṭa īṭi* (Pā. 8-2-28) drops *sic*; *āv* substitution; *bahulaṃ chandasy amāṅyoge 'pi* — no augment *aṭ*; *tiṅ-nighāta*. *arum* — root *ṛ gatau*; *ārter ruḥ* [as read: Uṇ. 4-[?]] gives *ru*; guṇa with *raparatva*; acute on the first syllable of the suffix. *parivṛṇakṣi* — root *vṛjī varjane*, *rudhādi*; *laṭ* second person singular, *sip*; *rudhādibhyaḥ śnam* (Pā. 3-1-78) gives *śnam*, which, being *m*-marked, comes after the last vowel; *coḥ kuḥ* gives *k* for the *j* of the root, *ś*…; *ṣatva* for the *s*; since *cādilope vibhāṣā* (Pā. 8-1-63) forbids *nighāta*, the *vikaraṇa*'s accent remains; *tiṅ ca…* [as read: *tiṅ codāttavati*, Pā. 8-1-71] gives *nighāta* of the preverb (*pari*).
+
+### Printed p. 381  (PDF 402)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 17 [as read].)*
+
+*(Grammar, concluded.)* *dive* — *ūḍidaṃ padādi* (Pā. 6-1-171) gives the acute to the dative ending. *rudrāya* — *rodayatīti rudraḥ*; root *rudir aśruvimocane*; *roder ṇilug ca* (Uṇ. 2-[?]) gives *rak*, with *luk* of *ṇi*; because of this no guṇa by *pratyayalakṣaṇa*; acute on the last syllable by the suffix. *svayaśase* — *svīyaṃ yaśo yasya saḥ svayaśāḥ, tasmai*; in the *bahuvrīhi* the accent of the first member remains. *vocam* — root *brūñ vyaktāyāṃ vāci*; the Vedic *luṅ* in the present sense; *bruvo vaciḥ* (Pā. 2-4-53) gives the substitute *vac*; *asti-vakti-khyātibhyo 'ṅ* (Pā. 3-1-52) gives *aṅ* for *cli*; *vaca um* gives the augment *um*; when it comes after the last vowel, guṇa; *tiṅ-nighāta*. *saprathaḥ* — root *pratha prakhyāne*, suffix *asun*; *prathasā saha vartata iti saprathaḥ*; *tena saheti tulyayoge* (Pā. 2-2-28) makes the compound; *vopasarjanasya* (Pā. 6-3-82) gives *sa* in place of *saha*; *kṛd-uttarapadaprakṛtisvara*. *sumṛḷīkāya* — *nañsubhyām* (Pā. 6-2-172) gives the acute on the last syllable of the latter member; dative singular. ‖ 3 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अस्माकं व इन्द्रमुश्मसीष्टये सखायं विश्वायुं प्रासहं युजं वाजेषु प्रासहं युजम् ।
+> अस्माकं ब्रह्मोतयेऽवा पृत्सुषु कासु चित् [?] ।
+> नहि त्वा शत्रुः स्तरते स्तृणोषि यं विश्वं शत्रुं स्तृणोषि यम् ॥ ४ ॥
+
+> *asmākaṃ va indramuśmasīṣṭaye sakhāyaṃ viśvāyuṃ prāsahaṃ yujaṃ vājeṣu prāsahaṃ yujam |*
+> *asmākaṃ brahmotaye 'vā pṛtsuṣu kāsu cit [?] |*
+> *nahi tvā śatruḥ starate stṛṇoṣi yaṃ viśvaṃ śatruṃ stṛṇoṣi yam ‖ 4 ‖*
+
+*(Read from the image; the first line begins "*asmākaṃ va indram uśmasīṣṭaye*"; the second line is printed "*asmākaṃ brahmotayevā pṛtsuṣu kāsu cit*" — the division "*brahmotaye 'vā*" is mine and doubtful until the Pada is read: [?]. The Pada is on the next page.)*
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 381 (PDF 402): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā (first-reading) written at the foot of p. 381; resume p. 382 (PDF 403) with the Ṛk 4 Pada (re-check the Saṃhitā line 2 division "brahmotaye 'vā") and bhāṣya. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373) and Ṛk 3 (p. 377, Śruti quotations — corrected on p. 379); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
