@@ -7309,4 +7309,164 @@ For the other word *sthirāṇi*, [Sāyaṇa] explains *aparihāraṇīyāni pā
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 284 (PDF 305): Ṛks 1–4 complete (‖ 4 ‖); resume p. 285 (PDF 306) with Ṛk 5 Saṃhitā. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 and Nirukta/Durga passages pp. 261–264, 270, 276–277 small type [?]; Ṛk 4 bhāṣya (p. 279) small type; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 285  (PDF 306)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14 [as read; the print shows "೧೪"].)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> तमस्य पृक्षमुपरासु धीमहि नक्तं यः सुदर्शतरो दिवातरादप्रायुषे दिवातरात् ।
+> आदस्यायुर्ग्रभणवद्वीळु शर्म न सूनवे ।
+> भक्तमभक्तमवो व्यन्तो अजरा अग्नयो व्यन्तो अजराः ॥ ५ ॥
+
+> *tamasya pṛkṣamuparāsu dhīmahi naktaṃ yaḥ sudarśataro divātarādaprāyuṣe divātarāt |*
+> *ādasyāyurgrabhaṇavadvīḷu śarma na sūnave |*
+> *bhaktamabhaktamavo vyanto ajarā agnayo vyanto ajarāḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । अस्य । पृक्षम् । उपरासु । धीमहि । नक्तम् । यः । सुदर्शतरः । दिवातरात् ।
+> अप्रायुषे । दिवातरात् ।
+> आत् । अस्य । आयुः । ग्रभणवत् । वीळु । शर्म । न । सूनवे ।
+> भक्तम् । अभक्तम् । अवः । व्यन्तः । अजराः । अग्नयः । व्यन्तः । अजराः ॥ ५ ॥
+
+> *tam | asya | pṛkṣam | uparāsu | dhīmahi | naktam | yaḥ | sudarśataraḥ | divātarāt |*
+> *aprāyuṣe | divātarāt |*
+> *āt | asya | āyuḥ | grabhaṇavat | vīḷu | śarma | na | sūnave |*
+> *bhaktam | abhaktam | avaḥ | vyantaḥ | ajarāḥ | agnayaḥ | vyantaḥ | ajarāḥ ‖ 5 ‖*
+
+*(The Saṃhitā "*dasya*"/"*adasya*" is read as *ād asya*, as the Pada shows.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्यास्मै पृक्षं हविर्लक्षणमन्नमुपरासु । उपरमन्तेऽस्मिन्हवींष्युपरा वेदिसमीपभूमयः । तासु धीमहि । धारयामः । अस्येत्युक्तं कस्येत्यत आह । यो ऽग्निर्नक्तं रात्रौ दिवातरात् अहोऽपि सुदर्शतरः अत्यर्थं सर्वैर्दर्शनीयो भवति । यतोऽयं रात्रौ सर्वेषु भावेषु तमसावृतत्वाददृश्यमानेष्वपि स्वयमत्यर्थं प्रकाशते । अतोऽस्मै धीमहि । पुनः कीदृशायेति । दिवातरादह्नः सकाशादेवाप्रायुषे । प्रगतमायुर्यस्यासौ प्रायुः । न प्रायुरप्रायुः । तस्मै । असौ योऽस्तमेति स सर्वेषां भूतानां प्राणानादायास्तमेतीति श्रुतेः । रात्रौ सर्वे भावा निद्रयावृतत्वात्प्रायुष इव भवन्ति । अयमग्निस्तु सर्वप्राणिप्राणापहर्तुः सूर्यस्य रात्रौ स्वस्मिन्नेव प्रवेशात्प्रकृष्टायुर्भवति । अतोऽपि धीमहि । किंचात एव कारणाद्यतोऽयं सुदर्शतरो यतश्चाप्रायुः । अतः कारणादस्मै तदर्थमायुर्हविर्लक्षणमन्नं ग्रभणवत् ग्रहणयुक्तमभूत् [?]
+
+> *asyāsmai pṛkṣaṃ havirlakṣaṇamannamuparāsu | uparamante 'sminhavīṃṣyuparā vedisamīpabhūmayaḥ | tāsu dhīmahi | dhārayāmaḥ | asyetyuktaṃ kasyetyata āha | yo 'gnirnaktaṃ rātrau divātarāt aho 'pi sudarśataraḥ atyarthaṃ sarvairdarśanīyo bhavati | yato 'yaṃ rātrau sarveṣu bhāveṣu tamasāvṛtatvādadṛśyamāneṣvapi svayamatyarthaṃ prakāśate | ato 'smai dhīmahi | punaḥ kīdṛśāyeti | divātarādahnaḥ sakāśādevāprāyuṣe | pragatamāyuryasyāsau prāyuḥ | na prāyuraprāyuḥ | tasmai | asau yo 'stameti sa sarveṣāṃ bhūtānāṃ prāṇānādāyāstametīti śruteḥ | rātrau sarve bhāvā nidrayāvṛtatvātprāyuṣa iva bhavanti | ayamagnistu sarvaprāṇiprāṇāpahartuḥ sūryasya rātrau svasminneva praveśātprakṛṣṭāyurbhavati | ato 'pi dhīmahi | kiṃcāta eva kāraṇādyato 'yaṃ sudarśataro yataścāprāyuḥ | ataḥ kāraṇādasmai tadarthamāyurhavirlakṣaṇamannaṃ grabhaṇavat grahaṇayuktamabhūt [?]*
+
+*(Read from the image; checked against the OCR, which is garbled in places. The sentence continues on p. 286.)*
+
+### Printed p. 286  (PDF 307)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+> ग्रहणे दृष्टान्तः । सूनवे पुत्राय पितॄणां वीळु शर्म दृढं सुखसाधनं गृहं यथा ग्रहणवद्भवति तथेत्यर्थः । शर्मेति गृहनाम शर्म वर्मेति तन्नामसु पाठात् । इदानीमाहवनीयादिरूपेणाग्नेर्बहुत्वमपेक्ष्याह । एतेऽग्नयो भक्तं सेवमानमभक्तमसेवमानं च व्यन्तः एते प्राणिनोऽनुग्राह्या इति बुध्यमानाः अवः रक्षन्ति । यद्यपि विशेषेण प्राणिनो दाहपाकादिद्वारा रक्षन्ति तथाप्यस्मिन्यजमानेऽत्यन्तं कृतवन्त इत्याह । व्यन्तस्तस्मै प्रत्तं हविरश्नन्तो ऽजरा भवन्ति । स्वयं हविषाजराः सन्तो यजमानानप्यजरान्कुर्वन्तीत्यर्थः ॥
+
+> *grahaṇe dṛṣṭāntaḥ | sūnave putrāya pitṝṇāṃ vīḷu śarma dṛḍhaṃ sukhasādhanaṃ gṛhaṃ yathā grahaṇavadbhavati tathetyarthaḥ | śarmeti gṛhanāma śarma varmeti tannāmasu pāṭhāt | idānīmāhavanīyādirūpeṇāgnerbahutvamapekṣyāha | ete 'gnayo bhaktaṃ sevamānamabhaktamasevamānaṃ ca vyantaḥ ete prāṇino 'nugrāhyā iti budhyamānāḥ avaḥ rakṣanti | yadyapi viśeṣeṇa prāṇino dāhapākādidvārā rakṣanti tathāpyasminyajamāne 'tyantaṃ kṛtavanta ityāha | vyantastasmai prattaṃ haviraśnanto 'jarā bhavanti | svayaṃ haviṣājarāḥ santo yajamānānapyajarānkurvantītyarthaḥ ‖*
+
+*(Read from the image.)* "[He is] one whom *asya* [*asmai*] — for him — *pṛkṣam* — food in the form of oblation — *uparāsu* — (*uparāḥ* are the lands near the vedi where the oblations are laid down) — in those *dhīmahi* — we place. Of whom? He says: the Agni who *naktam* — by night — is *divātarāt* — even more than by day — *sudarśataraḥ* — to be seen by all exceedingly, since in the night when all things are covered with darkness and invisible, he shines exceedingly himself. Therefore we place [the food] for him. And what is he like? *Divātarāt* — from the day alone — *aprāyuṣe* — [for him] 'whose life is not advanced': *prāyuḥ* is 'one whose life has advanced'; *aprāyuḥ* is its negative: 'The one who sets takes the breaths of all beings and sets,' says the *śruti*; at night all things are, as it were, *prāyuṣaḥ* [near-dead] because overcome by sleep. But Agni, because at night the Sun, who takes the breaths of all beings, enters into him alone, has a long life. Therefore we also place [the food] for him. Moreover for this very reason, since he is *sudarśatara* and *aprāyu*, for that reason for him, therefore, *āyuḥ* — food in the form of oblation — *grabhaṇavat* — became [fit for] seizure — [as in the simile:] *sūnave* — for a son, from the fathers, *vīḷu* — firm, *śarma* — house, the means of happiness, as it becomes fit for taking, so [the oblation]. (*Śarma* is a name for 'house'; *śarma varma* are read among its names.) Now, with regard to the plurality of Agni in the forms of Āhavanīya and the others, he says: *ete agnayaḥ* — these fires — *bhaktam* — the one who serves — *abhaktam* — and the one who does not serve — *vyantaḥ* — [knowing] these beings are to be favoured — *avaḥ* — protect. Though they specially protect beings through burning, cooking and the like, they have done this especially for this sacrificer: so he says. *Vyantaḥ* — eating the oblation offered to them, they become *ajarāḥ* — free from old age; themselves ageless by the oblation, they make even the sacrificers ageless: this is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yaḥ* — which Agni; *naktam* — in the night; *divātarāt* — more than by day; *sudarśataraḥ* — most worth seeing; *divātarāt* — from the day itself; *aprāyuṣe* — (in the night, since the Sun has entered into the fire) not [easily] destroyed; *asya* — for such Agni; *tam pṛkṣam* — that food in the form of oblation; *uparāsu* — in the places near the vedi; *dhīmahi* — we place; *āt* — for that reason itself; *asya* — his; *āyuḥ* — (in the form of oblation) food; *sūnave* — for a son; *vīḷu* — (given by the father) house; *śarma na* — as a means of happiness; *grabhaṇavat* — is fit for seizure; *agnayaḥ* — the fires, Āhavanīya and the others; *bhaktam* — [those] who serve them; *abhaktam* — [those] who do not serve; *vyantaḥ* — knowing (that all are to be favoured); *avaḥ* — protect; (and) *vyantaḥ* — those who eat the oblation offered by him; *ajarāḥ* — become ageless (making the sacrificers ageless too).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** We place the oblations in the places near the vedi for that Agni who shines more at night than by day and, because at night the Sun enters into him, is not, like other beings, exhausted of life. (Since he is of this nature) the oblations offered by us are fit for his acceptance, like a house given by a father to a son. The fires — the Āhavanīya and others — protect all, whether they serve [the fire] or not, thinking "all are to be favoured"; they themselves eat the oblation and become ageless (and make the sacrificers ageless).
+
+**Printed English (as printed):** *We place near the altar the (sacrificial) food of him who is more conspicuous by night than by day : (we offer it) to him who is scarcely alive by day : hence his (sacrificial) food finds prompt acceptance, like*
+
+### Printed p. 287  (PDF 308)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+*a dwelling (given by a father) to a son : these undecaying fires, (although) discriminating between the devout and the undevout, grant (both) protection, and accepting (the offerings of the pious), they are exempt from decay.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
+
+***pṛkṣam — havirlakṣaṇam annam*** — the word *pṛkṣa* is recorded among the names of food (Ni. 3-9). Sāyaṇa explains: "food in the form of oblation".
+
+***uparāsu*** — *uparamante 'smin havīṃṣity uparāḥ vedisamīpabhūmayaḥ*: the places near the sacrificial altar, where the oblations to be offered are got ready and placed. The word *upara* is recorded among the eight names of the quarters, *āśāḥ* (Ni. 2-16, as printed "೨-೧೬"); hence Yāska explains it as "quarter". The word *upara* is also stated among the names of clouds. It is described that for Agni, in the regions near the sacrificial altar, food in the form of oblation is prepared.
+
+***naktam*** — *rātrau*: "in the night": the word *nakta* is recorded among the twenty-three names of night (Ni. 1-[?]8 [as printed "೨-೧೮"]).
+
+***divātarāt sudarśatarah*** — *ahno 'pi atyarthaṃ sarvaiḥ darśanīyo bhavati*: even when, in the night, all things are covered with darkness and are not properly visible, Agni, by his own light, shines more than he shines in the day (than the light of the day): this is the meaning.
+
+***divātarāt aprāyuṣe*** — *ahnaḥ sakāśād eva aprāyuṣe | pragatam āyur yasyāsau prāyuḥ | na prāyuḥ aprāyuḥ*: one who has no [long] life is called *prāyu*; *aprāyu* conveys "one endowed with life"; hence the sense: Agni has long life through the day.
+
+> असौ योऽस्तमेति स सर्वेषां भूतानां प्राणानादायास्तमेति ॥
+
+> *asau yo 'stameti sa sarveṣāṃ bhūtānāṃ prāṇānādāyāstameti ‖*
+
+(Tai. Ā. 1-14 [?], as printed "ತೈ. ಆ. ೧-೧೪".) It is said in the Taittirīya *śruti* that when the Sun sets, he takes the breaths of all beings and makes them as if inactive, and sets. By this, all beings (in sleep) are as if without life. Sāyaṇa explains this same idea with the sentence *rātrau sarve bhāvā nidrayāvṛtatvāt prāyuṣa iva bhavanti*.
+
+### Printed p. 288  (PDF 309)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*Ayam agnis tu sarvaprāṇiprāṇāpahartuḥ sūryasya rātrau svasminn eva praveśāt prakṛṣṭāyur bhavati* — only Agni, in whom the Sun, the taker of the breaths of all, enters at night, has a long life. It is stated in the Taittirīya *śruti* "the Sun enters Agni" (as in *agnir vāyum ādityaḥ …*, as printed); thus it is stated. We meditate on Agni, whose glory is of this kind.
+
+***āyuḥ — havirlakṣaṇam annam*** — "food that exists in the form of oblation". Yāska has recorded the word *āyuḥ* among the twenty-eight names of food (Ni. 3-9).
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् ।
+> यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि ॥
+
+> *mā no mitro varuṇo aryamāyurindra ṛbhukṣā marutaḥ pari khyan |*
+> *yadvājino devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi ‖*
+
+(Ṛ. Saṃ. 1-162-1, as printed "೧-೧೬೨-೧".) *(Read letter by letter.)* Here *āyuḥ* is *vāyuḥ* with loss of the *v*: *āyanāt etīti hy asau viśvam*, says Durgācārya, explaining the sentence *vāyur ayanaḥ*, and explains the word *āyus* as "wind".
+
+> वात आ वातु भेषजं शंभु मयोभु नो हृदे ।
+> प्र ण आयूंषि तारिषत् ॥
+
+> *vāta ā vātu bheṣajaṃ śaṃbhu mayobhu no hṛde |*
+> *pra ṇa āyūṃṣi tāriṣat ‖*
+
+(Ṛ. Saṃ. 10-186-1, as printed "೧೦-೧೮೬-೧".) Here the word *āyus* is explained with the sense "time of life".
+
+> असुनीते मनो अस्मासु धारय जीवातवे सु प्र तिरा न आयुः ।
+
+> *asunīte mano asmāsu dhāraya jīvātave su pra tirā na āyuḥ |*
+
+(Ṛ. Saṃ. 10-59-5 [?], as printed "೧೦-೫೯-೫"; the second line in the print is garbled in my reading.)
+
+> भागं देवेभ्यो वि दधात्यायन्प्र चन्द्रमास्तिरते दीर्घमायुः ॥
+
+> *bhāgaṃ devebhyo vi dadhātyāyanpra candramāstirate dīrghamāyuḥ ‖*
+
+(Ṛ. Saṃ. 10-85-19 [?], as printed "೧೦-೮೫-೧೯".) In these ṛks the word *āyus* is explained as "time of life". Here the food in the form of oblation, which is conveyed by the word *āyuḥ*, has been taken for offering to Agni (that is, prepared).
+
+***sūnave vīḷu śarma na grabhaṇavat*** — *pitroḥ putrāya dṛḍhaṃ sukhasādhanaṃ gṛhaṃ yathā grahaṇavad bhavati tathā*: the comparison is that, as a house giving happiness, given by the father to the son, is fit to be accepted by the son, so the oblation that we prepare is fit to be accepted by Agni.
+
+***vīḷu*** — this word is recorded among the names of strength (Ni. 3-9). The word *śarma* is recorded among the twenty-two names of house, *gayaḥ, kṛdaraḥ* and the like (Ni. 3-4 [?], as printed "೩-೧೩").
+
+> स्योना पृथिवि भवानृक्षरा निवेशनी । यच्छा नः शर्म सप्रथः ॥
+
+> *syonā pṛthivi bhavānṛkṣarā niveśanī | yacchā naḥ śarma saprathaḥ ‖*
+
+(Ṛ. Saṃ. 1-22-15, as printed "೧-೨೨-೧೫".)
+
+### Printed p. 289  (PDF 310)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+Here *śarma* is explained as "happiness".
+
+***agnayaḥ vyantaḥ ajarāḥ*** — *taiḥ prattaṃ havir aśnantaḥ ajarāḥ bhavanti | svayaṃ haviṣā ajarāḥ santo yajamānān api ajarān kurvanti*: here the plural "*agnayaḥ*" is used. The plurality of Agni, by the divisions Gārhapatya, Āhavanīya and Dakṣiṇāgni, is appropriate. It is described that these fires, enkindled by the oblations offered by the sacrificers, make the sacrificers who perform the sacrifice endowed with brilliance.
+
+And, repeating the word *vyantaḥ* in this mantra, these fires protect beings by the acts of burning and cooking [for them], by making their radiance grow so as to be favourable to them, and by cooking their food; and, explaining that a result surpassing the protection of other beings comes to the sacrificer from the fires, he also describes the purpose of the repetition of the words *vyantaḥ ajarāḥ*.
+
+***agnayaḥ bhaktaṃ sevamānam abhaktam asevamānaṃ ca vyantaḥ ete prāṇino 'nugrāhyā iti buddhyamānāḥ avaḥ rakṣanti*** — the fires, knowing that some serve what is cooked and some serve what is uncooked (i.e. do not serve the fire) and that they are to be favoured, protect them: this describes the compassion Agni has in the matter of protecting beings. But by the sentence *vyantaḥ ajarā bhavanti*, it also shows the distinction, from the protection of other beings, [of the sacrificer], who, increased by the offering of the oblation, receives in addition the best brilliance.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; noted briefly, numbers as read by the OCR and the page).** *dhīmahi* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; liṅ first person plural, *mahiṅ*; *liṅaḥ sīyuṭ* (Pā. 3-4-102) gives *sīyuṭ*; *chandasy ubhayathā* (Pā. 3-4-117) gives the *sārvadhātuka* designation; *liṅaḥ salopo 'nantyasya* (Pā. 7-2-79) elides the *s* of *sīyuṭ*; *śap*; *lopo vyor vali* elides the *y*; *ātaś lopa iṭi ca* (Pā. 6-4-64) elides the *ā* of the root; *tiṅ-nighāta*. *sudarśataraḥ, divātarāt* — in both places *tarap* in the sense of itself. *aprāyuṣe* — *pragatam āyur yasya asau prāyuḥ, na prāyuḥ aprāyuḥ*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the natural accent of the first member, the indeclinable.
+
+### Printed p. 290  (PDF 311)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+*grabhaṇavat* — root *graha upādāne*; *lyuṭ*; *yuvor anākau* (Pā. 7-1-1) gives *ana* for *yu*; *liti* (Pā. 6-1-193) gives the acute before the suffix; after that *matup*; *mādupadhāyāś ca…* gives *va*; *hṛgrahor bhaś chandasi* gives *bha* for the *h*. *bhaktam* — root *bhaja sevāyām*; *niṣṭhā* gives *kta*; *coḥ kuḥ* gives *ku* for the *j*; *car*; final-acute by the suffix accent. In *abhaktam* the *nañ*-tatpuruṣa compound; *tatpuruṣe tulyārthatṛtīyā…* gives the natural accent of the indeclinable first member. *ajarāḥ* — *na vidyate jarā yeṣāṃ te ajarāḥ*; as an exception to the accent of *nañ*, *nañ jarāmarapriyamṛtāḥ* [print: "ನಞೋ ಜರಮರ…"] (Pā. 6-2-116) gives the first-syllable acute of the latter member. *vyantaḥ* — root *vī gatyādiṣu*; roots of motion are used also in the sense of knowledge; śatṛ in the laṭ sense; *ādiprabhṛtibhyaḥ śapaḥ* gives *luk* of *śap*; since the ending has *jātīya*, no guṇa; *tanvādīnāṃ chandasy upasaṃkhyānam* [as printed] by the force of the word *bahula* gives *yaṇādeśa*; nominative plural; first-syllable acute of the suffix. ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> स हि शर्धो न मारुतं तुविष्वणिरप्नस्वतीषूर्वरास्विष्टनिरार्तनास्विष्टनिः [?] ।
+> आदद्व्यान्याददिर्यज्ञस्य केतुरर्हणा ।
+> अध स्मास्य हर्षतो हृषीवतो विश्वे जुषन्त पन्थां नरः शुभे न पन्थाम् ॥ ६ ॥
+
+> *sa hi śardho na mārutaṃ tuviṣvaṇirapnasvatīṣūrvarāsviṣṭanirārtanāsviṣṭaniḥ [?] |*
+> *ādadvyānyādadiryajñasya keturarhaṇā |*
+> *adha smāsya harṣato hṛṣīvato viśve juṣanta panthāṃ naraḥ śubhe na panthām ‖ 6 ‖*
+
+*(Read from the image letter by letter; the first two pādas are in a long run of small syllables and several are doubtful — "tuviṣvaṇir apnasvatīṣūrvarāsviṣṭanir ārtanāsviṣṭaniḥ" is how I read it; the Pada text on p. 291 will fix the division. I do not complete from memory.)*
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 290 (PDF 311): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā only (as read, partly doubtful); resume p. 291 (PDF 312) with the Ṛk 6 Pada. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya.
