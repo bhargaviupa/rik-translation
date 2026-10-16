@@ -4687,4 +4687,126 @@ As described in statements such as *divo duhitā bhānum aśret* (1-92-5), in th
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 182 (PDF 203): Ṛks 1–11 complete; Ṛk 12 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done and Special Topics begun (*vayaś cit*); resume p. 183 (PDF 204).
+### Printed p. 183  (PDF 204)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+*(Special topics, Ṛk 12, continued.)* ***pitubhājaḥ*** — the word *pitu* is recorded among the names of food (Ni. 3-9 [?], as printed "೩-೯"). *Pitubhājaḥ* — *annavantaḥ annārthinaḥ*: it is explained as "those who strive for food". *Kṛṣivāṇijyādikartāraḥ svasvavyāpārārthaṃ udanmukhā apaptan*: those who live by agriculture, trade and the like, with their eyes on their own work, set out as soon as Uṣas rises: that is the purport.
+
+***amā*** — this word is recorded among the names of the house, *gayaḥ kṛdaraḥ* and the like (Ni. 3-[?]; print "೩-೧೩" or similar, not clear to me). The author of the Nirukta, citing
+
+> स्वस्तिरिद्धि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेति ।
+> सा नो अमा सो अरणे नि पातु स्वावेशा भवतु देवगोपा ॥
+
+> *svastiriddhi prapathe śreṣṭhā rekṇasvatyabhi yā vāmameti |*
+> *sā no amā so araṇe ni pātu svāveśā bhavatu devagopā ‖*
+
+(Ṛ. Saṃ. 10-63-15, as read from the print "೧೦-೬೩-೧೫".) *(Read letter by letter; "sā no amā so araṇe" is as printed and doubtful.)* shows that the word *amā* there means "house" (Ni. 11-46 as read by the OCR). In the present ṛk, for *amā sate* Sāyaṇa explains *devayajanākhye gṛhe* — "in the house called the sacrificial ground", the sacrificial hall.
+
+**Vyākaraṇa-prakriyā (Ṛk 12; noted briefly, numbers as read by the OCR).** *vayaḥ* — root *vā gatigandhanayoḥ*; *vāter ḍit* [print: "ವಾತೇರ್ಡಿತ್"] (Uṇ. 4-573 as read) gives the suffix *is*; because of the marker *ḍ*, the *ṭi* is elided; the form is *vayaḥ*; nominative plural. *vasateḥ* — root *vasa nivāse*; *vahivasyarti…* [as printed, Uṇ. 4-?] gives the suffix *ati*; since *ṇit*/*cit* is stated, *citaḥ* (Pā. 6-1-163) gives the final-acute; ablative singular. *apaptan* — root *patḷ gatau*; *chandasi luṅlaṅliṭaḥ* gives luṅ in the present sense; third person plural *jhi*; *itaś ca* elides the *i*; *anta* substitution; since the *ṅit*-marker [as printed *lyadittāt*?] — *puṣādidyutādyḷdita…* (Pā. 3-1-55) gives *aṅ* for *cli*; *patapum* [print: "ಪತ ಪುಮ್", Pā. 7-4-19] gives the augment *puk* to the root; since it has the marker *mit* it stands after the last vowel; since it follows a non-verb word, the *nighāta* accent. *naraḥ* — root *ṇī nayane*; *kvip*; with *jas* following, *ṛto ñi sarvanāmasthānayoḥ* [print: "ಋತೋಜಿ ಸರ್ವನಾಮಸ್ಥಾನಯೋಃ"] gives guṇa. *pitubhājaḥ* — *pituṃ bhajante iti pitubhājaḥ*; root *bhaja sevāyām*; *bhajo ṇviḥ* (Pā. 3-2-62) gives the suffix *ṇvi*; since it is *ṇit*, *ata upadhāyāḥ* (Pā. 7-2-116) gives vṛddhi to the penultimate; of the *ṇvi* everything is elided; nominative plural.
+
+### Printed p. 184  (PDF 205)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+*sate* — root *as bhuvi*; śatṛ in the laṭ sense; *luk* of *śap*; *śnasor alloḥ* [*śnasor allopaḥ*] (Pā. 6-4-111) elides the *a*; dative singular; since the case-ending follows a śatṛ without *num*, *śatur anumo nadyajādī* (Pā. 6-1-173) gives it the acute. *vahasi* — root *vaha prāpaṇe*; laṭ second person singular; the *tiṅ*-*nighāta*. *dāśuṣe* — root *dāś dāne*; *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12) records it as formed with the suffix *kvasu*; in the dative singular *vasoḥ saṃprasāraṇam* gives *saṃprasāraṇa*; *śāsivasighasīnāṃ ca* gives *ṣa*. *martyāya* — root *mṛṅ prāṇatyāge*; *asi-hasi-mṛ…* (Uṇ. 3-166 as read) gives the Uṇādi suffix *tan*; guṇa of the root-vowel; the form *marta*; *martasya bhavaḥ martyaḥ*; *bhave chandasi* (Pā. 4-4-110) gives the suffix *yat*; *yasyeti ca* elides the *a*; *yato nāvaḥ* (Pā. 6-1-213) gives the first-syllable acute; dative singular. ‖ 12 ‖
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> अस्तोढ्वं स्तोम्या ब्रह्मणा मे अवीवृधध्वमुशतीरुषासः ।
+> युष्माकं देवीरवसा सनेम सहस्रिणं च शतिनं च वाजम् ॥ १३ ॥
+
+> *astoḍhvaṃ stomyā brahmaṇā me avīvṛdhadhvamuśatīruṣāsaḥ |*
+> *yuṣmākaṃ devīravasā sanema sahasriṇaṃ ca śatinaṃ ca vājam ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्तोढ्वम् । स्तोम्याः । ब्रह्मणा । मे । अवीवृधध्वम् । उशतीः । उषसः ।
+> युष्माकम् । देवीः । अवसा । सनेम । सहस्रिणम् । च । शतिनम् । च । वाजम् ॥ १३ ॥
+
+> *astoḍhvam | stomyāḥ | brahmaṇā | me | avīvṛdhadhvam | uśatīḥ | uṣasaḥ |*
+> *yuṣmākam | devīḥ | avasā | sanema | sahasriṇam | ca | śatinam | ca | vājam ‖ 13 ‖*
+
+### Printed p. 185  (PDF 206)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 8.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> एवं सूक्तद्वयोक्तरीत्या बहुधा स्तुत्वा तां च स्तुतिमनया निवेद्य स्वाभीष्टं प्रार्थयते । हे स्तोम्याः । स्तोमः स्तोत्रं तदर्हन्तीति स्तोम्याः स्तुत्यर्हा उषसः । यतो यूयं तादृश्यः अतो मे मत्संबन्धिभूतेन ब्रह्मणा सूक्तद्वयगतमन्त्ररूपेण स्तोत्रेणास्तोढ्वम् । स्तुता भवत । किंच हे उषासः उषसः उशतीः स्तोतॄन्मां अस्मत्समृद्धिं वा कामयमाना यूयमवीवृधध्वम् । अस्मान्वर्धयत । किंच हे देवीर्देव्यो देवनशीलाः युष्माकमवसा युष्मत्संबन्धिना रक्षणेन वयं सहस्रिणं सहस्रसंख्याकमभीष्टं धनं सनेम । लभेमहि । तथा शतिनं च वाजं शतसंख्याकमपरिमितं धनं सनेम । युष्मद्रक्षणेन शतसहस्रपरिमितधनादिरूपरक्षणेन वयमपि अर्थिभ्यः शतसहस्रपरिमितस्य धनस्य सनितारो भवेमेत्यर्थः ॥
+
+> *evaṃ sūktadvayoktarītyā bahudhā stutvā tāṃ ca stutimanayā nivedya svābhīṣṭaṃ prārthayate | he stomyāḥ | stomaḥ stotraṃ tadarhantīti stomyāḥ stutyarhā uṣasaḥ | yato yūyaṃ tādṛśyaḥ ato me matsaṃbandhibhūtena brahmaṇā sūktadvayagatamantrarūpeṇa stotreṇāstoḍhvam | stutā bhavata | kiṃca he uṣāsaḥ uṣasaḥ uśatīḥ stotṝnmāṃ asmatsamṛddhiṃ vā kāmayamānā yūyamavīvṛdhadhvam | asmānvardhayata | kiṃca he devīrdevyo devanaśīlāḥ yuṣmākamavasā yuṣmatsaṃbandhinā rakṣaṇena vayaṃ sahasriṇaṃ sahasrasaṃkhyākamabhīṣṭaṃ dhanaṃ sanema | labhemahi | tathā śatinaṃ ca vājaṃ śatasaṃkhyākamaparimitaṃ dhanaṃ sanema | yuṣmadrakṣaṇena śatasahasraparimitadhanādirūparakṣaṇena vayamapi arthibhyaḥ śatasahasraparimitasya dhanasya sanitāro bhavemetyarthaḥ ‖*
+
+*(Read from the image; the last sentence is small in the print, and the OCR is garbled there.)* "Having thus praised in many ways in the manner stated in the two sūktas, and having offered that praise, he now prays for his own desire with this [ṛk]. O *stomyāḥ* — *stoma* is praise; those who deserve it are *stomyāḥ*, worthy of praise, Uṣases; since you are such, therefore be praised (*astoḍhvam*) by my *brahman* — the praise in the form of the mantras contained in the two sūktas. Moreover, O Uṣases, desiring me, the praisers (*uśatīḥ*), or our prosperity, you have made us grow (*avīvṛdhadhvam*). And, O goddesses, with your protection, we would win (*sanema*) a thousandfold (*sahasriṇam*) wealth that we desire — we would obtain it; likewise a hundredfold (*śatinam*) wealth, measureless: may we, through your protection that takes the form of hundred-thousand-measured wealth and the like, become winners of a hundred-thousand measure of wealth for those who ask: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(He) stomyāḥ* — O praiseworthy goddess Uṣases; *me* — my; *brahmaṇā* — by the mantra (in the two sūktas); *astoḍhvam* — be praised; *(he) uṣāsaḥ* — O goddess Uṣases; *uśatīḥ* — desiring (our prosperity, or us, your praisers); *avīvṛdhadhvam* — make [us] grow; *he devīḥ* — O goddesses; *yuṣmākam* — your; *avasā* — with protection (being so endowed, we); *śatinaṃ ca sahasriṇaṃ ca* — hundred-fold and thousand-fold; *vājam* — wealth; *sanema* — may we obtain.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O praised goddess Uṣases, praised by our mantras (the two sūktas), desiring only our growth, make us grow; protected by you may we obtain immeasurable wealth (by your favour).
+
+**Printed English (as printed):** *Praiseworthy Ushasas, be glorified by this (my) hymn ; graciously disposed towards us, augment (our prosperity); and may we obtain, goddesses, through your favour, wealth, a hundred and a thousand fold.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 13.**
+
+***brahmaṇā*** — *sūktadvayagatamantrarūpeṇa stotreṇa*: "by praise in the form of mantras contained in the two sūktas": the sūkta before this (1-123) and the present one are both included, and are in the form of mantras: "by praise" is the meaning given.
+
+### Printed p. 186  (PDF 207)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+The word *brahma* has many meanings. This word is recorded among the names of food (Ni. 3-9, as printed) and among the names of wealth (Ni. 2-10 [?], as printed "೨-೧೦"?); besides these it has also been used as a synonym of *stotra* (praise) and *karma* (rite).
+
+> ब्रह्मा कृणोति वरुणो गातुविदं तमीमहे ।
+> व्यूर्णोति हृदा मतिं नव्यो जायतामृतं विश्वं मे अस्य रोदसी ॥
+
+> *brahmā kṛṇoti varuṇo gātuvidaṃ tamīmahe |*
+> *vyūrṇoti hṛdā matiṃ navyo jāyatāmṛtaṃ viśvaṃ me asya rodasī ‖*
+
+(Ṛ. Saṃ. 1-105-15 [?], as I read the print.) — in this ṛk *brahma* is explained as "an act in the form of protection" (*karma*), thus: "a rite". The author of the Nirukta too, citing
+
+> यामथर्वा मनुष्पिता दध्यङ्धियमत्नत ।
+> तस्मिन्ब्रह्माणि पूर्वथेन्द्र उक्था समग्मतार्चन्ननु स्वराज्यम् ॥
+
+> *yāmatharvā manuṣpitā dadhyaṅdhiyamatnata |*
+> *tasminbrahmāṇi pūrvathendra ukthā samagmatārcannanu svarājyam ‖*
+
+(Ṛ. Saṃ. 1-80-16, as read from the print.) explains *brahmāṇi* as "rites" (*karmāṇi*). And —
+
+> अन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
+> अग्नीषोमा ब्रह्मणा वावृधानोरुं यज्ञाय चक्रथुरु लोकम् ॥
+
+> *anyaṃ divo mātariśvā jabhārāmathnādanyaṃ pari śyeno adreḥ |*
+> *agnīṣomā brahmaṇā vāvṛdhānoruṃ yajñāya cakrathuru lokam ‖*
+
+(Ṛ. Saṃ. 1-93-6, as read from the print.) — here it is explained as *mantrarūpeṇa stotreṇa haviḥ-lakṣaṇenānnena vā* — "by praise in the form of a mantra, or by food in the form of oblation". In the present ṛk it is evident that the meaning is "by praise in the form of mantras".
+
+**Vyākaraṇa-prakriyā (Ṛk 13, pp. 186–187; noted briefly, numbers as read by the OCR).** *astoḍhvam* — root *ṣṭuñ stutau*; luṅ in the passive, second person plural, the ending *dhvam*; with it as cause, guṇa of the root-vowel; the augment *aṭ*; *iṇaḥ ṣīdhvaṃluṅliṭāṃ dho 'ṅgāt* (Pā. 8-3-78) gives the cerebral *ḍha* for the *dh*; since it stands at the head of a pāda, no *nighāta*; since the augment is acute, the first syllable is acute. *stomyāḥ* — *stomam arhanti iti stomyāḥ*; *yat* in the sense of "worthy"; in the vocative, *āmantritasya ca* (Pā. 8-1-19) gives the *nighāta*. *avīvṛdhadhvam* — root *vṛdhu vṛddhau*; the causative sense gives *ṇic* by *hetumati ca*; luṅ in the sense of loṭ in the Veda after *ṇyanta*; second person plural, *dhvam*; *ṇiśrisrukubhyaḥ kartari caṅ* gives *caṅ* for *cli*; *caṅi* gives doubling of the root; here, since *ṛd-ṛt* … (Pā. 7-4-7) prescribes just *ṛ* for the penultimate *ṛ*, guṇa does not arise though it is internal; when doubling has occurred, the initial consonant remains; *sanvallaghuni* (Pā. 7-4-93) gives *sanvadbhāva*, and *sanyataḥ* (Pā. 7-4-79) gives *i* to the reduplicative syllable; *dīrgho laghoḥ* (Pā. 7-4-94) lengthens it; *ṇeraniṭi* elides the *ṇic*; the augment *aṭ*; no *nighāta* because it stands at the head of a pāda; first-syllable acute from the acute augment.
+
+### Printed p. 187  (PDF 208)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10 [as read; the Kannada numeral "೧೦"].)*
+
+*uśatīḥ* — root *vaś kāntau*; when *āṭ* ("*vaś*" with the augment) comes, *vaś* is replaced by *uś* [as printed "ವಶ್ ... ಉಶ್"]; *ādiprabhṛtibhyaḥ śapaḥ* gives *luk* of *śap*; *sārvadhātukam apit*: since the śatṛ suffix is [treated as] *cit*, *grahijyāvayi…* (Pā. 6-1-16) gives *saṃprasāraṇa* with *pūrvarūpa*; *ugitaś ca* gives ṅīp; since ṅīp follows a śatṛ without *num*, *śatur anumo nadyajādī* (Pā. 6-1-173) gives it the acute; accusative plural. *uṣāsaḥ* — with *jas* following, a long vowel in the Saṃhitā in the Veda. *devīḥ* — the word *devī*; in the vocative plural, *supāṃ sulug…* (Pā. 7-1-39) gives lengthening by the preceding *savarṇa*; *āmantritasya ca* gives the *nighāta*. *avasā* — root *ava rakṣaṇe*; *asun* by *sarvadhātubhya asun*; since it has the marker *n*, first-syllable acute; instrumental singular. *sanema* — root *ṣaṇa saṃbhaktau*; *dhātvādeḥ ṣaḥ saḥ* gives *s* for the initial; *vidhiliṅ* first person plural; since it follows a non-verb word, the *nighāta* accent. *sahasriṇam, śatinam* — the suffix *ini* in the sense of possession; the first-syllable acute of the suffix; accusative singular. ‖ 13 ‖
+
+Here ends the 124th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತನಾಲ್ಕನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 125 — *prātā ratnam* (begins at the foot of printed p. 187)
+
+**ನೂರ ಇಪ್ಪತ್ತೈದನೆಯ ಸೂಕ್ತವು — Nūra ippattaidaneya sūktavu** (the one hundred and twenty-fifth Sūkta).
+
+**॥ भूमिका ॥ — Introduction (Sanskrit, from the Sāyaṇa text):**
+
+> प्रातारत्नमिति सप्तर्चं पञ्चमं सूक्तं काक्षीवतम् । दानस्य स्तूयमानत्वाद्दानदेवत्यं यातेनोच्यते [?] सा देवता । अनु. २-५ [?] । इति परिभाषितत्वात् । त्रैष्टुभम् । उपेत्यादिके द्वे जगत्यौ । प्रातारत्नं सप्त सैनयस्य दानस्तुतिस्त्रिष्टुप्जगत्यावित्यनुक्रमणिका ॥
+
+> *prātāratnamiti saptarcaṃ pañcamaṃ sūktaṃ kākṣīvatam | dānasya stūyamānatvāddānadevatyaṃ yātenocyate [?] sā devatā | anu. 2-5 [?] | iti paribhāṣitatvāt | traiṣṭubham | upetyādike dve jagatyau | prātāratnaṃ sapta sainayasya dānastutistriṣṭupjagatyāvityanukramaṇikā ‖*
+
+*(Read from the image; "yā tenocyate sā devatā" is the Anukramaṇī's rule, with the reference "Anu. 2-5" as read by the OCR; the print's numerals are not clear to me.)* "*Prātā ratnam* — the fifth sūkta, of seven ṛks, of Kākṣīvata (Kakṣīvat). Since gift (*dāna*) is what is praised, the deity is *dāna* (the gift): 'that which is said by it, that is the deity' (Anukramaṇī rule). Triṣṭubh; the two beginning with *upa* are Jagatī. *Prātā ratnam* — seven; the praise of the gift of Sainya; Triṣṭubh and Jagatī — thus the Anukramaṇī."
+
+*(The Kannada Anuvāda and the Ṛṣi–Devatā–Chandas table of Sūkta 125 are on p. 188.)*
+
+---
+
+**Progress note:** Sūkta 124 complete (printed pp. 128–187). Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) begun: heading and Sanskrit introduction at the foot of p. 187 written; resume p. 188 (PDF 209) with the Kannada Anuvāda, the Ṛṣi/Devatā/Chandas table and Ṛk 1.
