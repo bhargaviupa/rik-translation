@@ -13925,4 +13925,86 @@ This word *purandhi* indicates "abundance, plenty, ability, wealth" — [though]
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛk 3 written through p. 582 (Special Topics continue at the Ṛ. 2-31 quotation explaining *purandhim*, whose explanation runs on to p. 583); resume p. 583, PDF 604; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 583  (PDF 604)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Continuing the explanation of *purandhim* from p. 582: the author of the Nirukta, Yāska, says —)*
+
+> पुरन्धिर्बहुधीः । पुरन्धिर्भगः पुरःस्त्रात्र्यान्नादेक इत्येकम् । इन्द्र इत्येके परं स बहुकर्मा तैः पुरां च दारयितृतमः । वरुण इत्येके परं तं प्रज्ञया स्तौति ॥
+
+> *purandhir bahudhīḥ | purandhir bhagaḥ puraḥstrātryānnādeka ity ekam | indra ity eke paraṃ sa bahukarmā taiḥ purāṃ ca dārayitṛtamaḥ | varuṇa ity eke paraṃ taṃ prajñayā stauti ‖*
+
+(Ni. 6-13 [as read, numerals doubtful [?]; the wording of the Sanskrit is doubtful in several letters [?]].) — "*purandhi* means one of great intelligence; one view, in the Ṛk quoted, takes *bhaga* as *purandhi*; others say it qualifies Indra, who has many deeds and is the greatest splitter of citadels (*purām dārayitṛtamaḥ*); others say it is Varuṇa, whom [the ṛṣi] praises for his wisdom." That is: the word *purandhi* means one possessing abundant intellect. But the question is who is meant by it. Some say that, in the Ṛk cited, as the word *bhaga* occurs before this word, it is its adjective. As *dhī* is among the names of *karman* (action), *purandhi* means one who has many kinds of work, or one who splits (breaks) the citadels of enemies, and some say, therefore, it is an epithet of Indra. Or, as in Ṛks such as "*imā mū nu kavitamasya māyām*" (Ṛ. Saṃ. 7-[?]-[?], as read "೭-೬೧-೩" [?]) the excellent wisdom of Varuṇa is praised, so in the present Ṛk too (the one cited by the author of the Nirukta, 2-31-4) it may be an epithet of Varuṇa describing his intelligence — thus some hold; and there are other views [of different kinds] which Yāska notes. In the matter of the performance of sacrifice, when the superiority of the offering to the gods is to be shown, or the prosperity of the oblations the sacrificer offers to the gods, this word is used — the author of the Nirukta shows in addition other examples.
+
+> आदाय श्येनो अभरत्सोमं सहस्रं सवां अयुतं च साकम् ।
+> अत्रा पुरन्धिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥
+
+> *ādāya śyeno abharat somaṃ sahasraṃ savāṃ ayutaṃ ca sākam |*
+> *atrā purandhir ajahād arātīr made somasya mūrā amūraḥ ‖*
+
+(Ṛ. Saṃ. 4-26-[?], as read "೪-೨೬-೬" [?].) For the word in this Ṛk, Durgācārya (Ni. 11-[?], as read "೧೧-೨" [?]) explains *purandhiḥ bahu naḥ dhanasya dātā* — "the giver of much wealth to us" — and Sāyaṇa *bahukarmā* ("of many works"). This word here is an epithet of Indra, the purport being "the giver".
+
+> स्वधूतो अद्रिषुतो बर्हिषि प्रियः पतिर्गवां प्रदिव इन्दुरृत्वियः ।
+> पुरन्धिवान्मनुषो यज्ञसाधनः शुचिर्धिया पवते सोम इन्द्र ते ॥
+
+> *svadhūto adriṣuto barhiṣi priyaḥ patir gavāṃ pradiva induṛ ṛtviyaḥ |*
+> *purandhivān manuṣo yajñasādhanaḥ śucir dhiyā pavate soma indra te ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೨೬-೪" [?].) In this Ṛk it is explained as *bahukarmavān* ("having many kinds of works") for the sake of the satisfaction of the gods of the man.
+
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः ।
+> विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरन्ध्या ॥
+
+> *pāvīravī tanyatur ekapād ajo divo dhartā sindhur āpaḥ samudriyaḥ |*
+> *viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ purandhyā ‖*
+
+(Ṛ. Saṃ. 10-65-13 [as read].) In this, for this word the author of the Nirukta (Ni. 11-[?], as read "೧೧-೩೦" [?]) explains *purandhyā stutyā prayuktāni* — "[words] used with [various kinds of] praise" — i.e. "with many kinds of praise". *Bahuvidhayā prajñayā* (sic [?]) is the meaning of *sahitā sarasvatī*: "Sarasvatī, joined with much intelligence" — this is the adjective of Sarasvatī.
+
+### Printed p. 584  (PDF 605)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+*(Continuing:)* …the intelligence of many kinds; but the explanation of Durgācārya, *bahudhātrī mādhyamikīyā vāk* (Ni. 11-[?], as read "೧೧-೩೦" [?]), shows that Sarasvatī is a particular deity like [the *mādhyamikā vāk*]. In the same way —
+
+> शं नो भगः शमु नः शंसो अस्तु शं नः पुरन्धिः शमु सन्तु रायः ।
+> शं नः सत्यस्य सुयमस्य शंसः शं नो अर्यमा पुरुजातो अस्तु ॥
+
+> *śaṃ no bhagaḥ śam u naḥ śaṃso astu śaṃ naḥ purandhiḥ śam u santu rāyaḥ |*
+> *śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no aryamā purujāto astu ‖*
+
+(Ṛ. Saṃ. 2-38-[?], as read "೨-೩೮-೩" [?].) In Ṛks such as this *purandhi* is understood to be a separate deity. Even Sāyaṇa did not make *bhaga* and the other words in this Ṛk epithets of it. And —
+
+> देवो भगः सविता रायो अंश इन्द्रो वृत्रस्य संजितो धनानाम् ।
+> ऋभुक्षा वाज उत वा पुरन्धिरवन्तु नो अमृतासस्तुरासः ॥
+
+> *devo bhagaḥ savitā rāyo aṃśa indro vṛtrasya saṃjito dhanānām |*
+> *ṛbhukṣā vāja uta vā purandhir avantu no amṛtāsas turāsaḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?], as read "೩-೪೯-೩" [?].) — here *purandhi* is a synonym of Vibhvan [sic: of "Vibhu", as printed].
+
+> पुराणी देवि युवतिः पुरन्धिर्व्रतं चरसि विश्ववारे ।
+
+> *purāṇī devi yuvatiḥ purandhir vrataṃ carasi viśvavāre |*
+
+(Ṛ. Saṃ. 3-[?]-1 [as read "೩-೬೧-೧" [?]].) In such places it is an epithet of Uṣas: "one with many hymns".
+
+In many places the word is used in respect of the wife, or in reference to women in general, giving the meaning "women who are able to get progeny — not [only] barren women — and who are stout".
+
+> अग्निः सप्तिं वाजंभरं ददात्यग्निर्वीरं श्रुत्यं कर्मनिष्ठाम् ।
+> अग्नी रोदसी वि चरत्समञ्जन्नग्निर्नारीं वीरकुक्षिं पुरन्धिम् ॥
+
+> *agniḥ saptiṃ vājaṃbharaṃ dadāty agnir vīraṃ śrutyaṃ karmaniṣṭhām |*
+> *agnī rodasī vi carat samañjann agnir nārīṃ vīrakukṣiṃ purandhim ‖*
+
+(Ṛ. Saṃ. 10-80-1 [as read].) In all such Ṛks it means "a wife able to give birth"; or it may mean "a beautiful woman". As explained in the present Ṛk (I. 134-3), the word means, in many places, a woman beautiful in all limbs. The reader can note that both meanings are explained in Sāyaṇa's commentary itself.
+
+> पुरन्धिर्योषेत्याह । योषित्येव रूपं दधाति । तस्मात्स्त्री युवतिः प्रियो भावुका ॥
+
+> *purandhir yoṣety āha | yoṣity eva rūpaṃ dadhāti | tasmāt strī yuvatiḥ priyo bhāvukā ‖*
+
+(Tai. Brā. 3-[?]-[?], as read "೩-೮-೧೩-೨" [?].) In this Brāhmaṇa sentence, for the word *purandhi* it is explained that *puraṃ sarvaguṇasampūrṇaṃ śarīraṃ dhārayatīti purandhiḥ*, "a woman with a beautiful body" [text continues on p. 585: "and for this same word the Taittirīya…"].
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛk 3 written through p. 584 (Special Topics, entry *purandhim*, runs on: "and for this same word the Taittirīya…" on p. 585); resume p. 585, PDF 606; images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
