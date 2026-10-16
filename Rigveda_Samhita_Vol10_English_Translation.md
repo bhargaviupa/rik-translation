@@ -3935,4 +3935,138 @@ Or else, some scholars hold that *admasat* may also mean "the *hotṛ* priest"; 
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 152 (PDF 173): Ṛks 1–4 complete; Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done; resume p. 153 (PDF 174) with Ṛk 5 printed English ("Born in the eastern …") and Special Topics.
+### Printed p. 153  (PDF 174)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+**Printed English (Ṛk 5, as printed):** *Born in the eastern quarter of the spacious firmament, she displays a banner of rays of light. Placed on the lap of both parents (heaven and earth), filling them (with radiance), she enjoys vast and wide-spread renown.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
+
+For the first half of this ṛk two kinds of meaning are stated. First: *aptyasya rajasaḥ pūrve ardhe janitrī gavāṃ ketuṃ pra akṛta* — in the front part (the first part) of the atmosphere, which is widely pervading, Uṣas is born and produces the knowledge of the ten quarters; second: *aptyasya* — for the creature engaged in works — *rajasaḥ* — of the day — *pūrve ardhe* — in the first half — *gavām* — of voices — *janitrī* — as the mother — *ketum* — the knowledge of actions — *pra akṛta* — she produces well. Therefore for the words *aptyasya* and the others both meanings must be given.
+
+***aptyasya*** — *vyāpanaśīlasya vistṛtasya* — "very widely spread out": as an epithet of the atmosphere; or else, since the word *apas* is recorded among the names of *karman*, *aptyasya* means *karmasu sthitasya jantoḥ* — "of the creature engaged in the doing of work".
+
+***rajasaḥ*** — *rajaśabdo 'ntarikṣalokavācī | lokā rajāṃsy ucyanta iti yāskoktatvāt* (Ni. 4-19, as printed "೪-೧೯") *tasya pūrve 'rdhe*. According to Yāska's opinion the word *rajas* means "atmosphere"; Sāyaṇa, giving this as the first meaning of the word, says "in the front part of such an atmosphere"; and second, *rajasaḥ rañjakasyāhnaḥ | rajaśabdo 'havācī | asyāhanī rajasī iti yāskoktatvāt* (4-19) *tasya pūrve 'rdhe* — since it is of the nature of colouring (*rañjana*), the day is named *rajas*; quoting Yāska's own sentence he has explained "of such *rajas*, i.e. of the day, in the first part". Thus the meanings are not only "atmosphere" and "day"; in some ṛks the word *rajas* is even explained as "water" —
+
+> क्व स्विदस्य रजसो महस्परं क्वावरं मरुतो यस्मिन्नायय ।
+> यच्च्यावयथ विथुरेव संहितं व्यद्रिणा पतथ त्वेषमर्णवम् ॥
+
+> *kva svidasya rajaso mahasparaṃ kvāvaraṃ maruto yasminnāyaya |*
+> *yaccyāvayatha vithureva saṃhitaṃ vyadriṇā patatha tveṣamarṇavam ‖*
+
+(Ṛ. Saṃ. 1-168-6, as read from the print; *vy adriṇā* as printed.)
+
+***gavām*** — *diśāṃ raśmīnāṃ vā*: of the quarters, or of the rays — one meaning; or *gavāṃ vācāṃ janitrī* — "the mother of voices" — another meaning is stated. The word *go* is recorded in the Nirukta among words of many meanings. This is explained elsewhere.
+
+### Printed p. 154  (PDF 175)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+***pitroḥ*** — *pālayitroḥ dyāvāpṛthivyoḥ*: "of the heaven and earth who are its protectors" — the heaven and earth are called the parents of Uṣas.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; noted briefly, numbers as read by the OCR).** *janitrī* — root *janī prādurbhāve*; the suffix *tṛc* [the print: *tṛn*] in the agent sense; *ārdhadhātukasyeḍ valādeḥ* gives the augment *iṭ*; when the feminine is intended, *ṛnnebhyo ṅīp* gives ṅīp; *yaṇ* substitution; *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute. *akṛta* — root *ḍukṛñ karaṇe*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives luṅ in the present sense; as explained in the previous mantra, *luk* of *cli*; *nighāta* accent. *prathate* — root *prathaḥ prakhyāne*; laṭ third person singular; the *nighāta* accent. *vitaram* — root *tṝ plavanataraṇayoḥ*; *pacādi aṭ* [*ac*]; guṇa with *raparatva*; final-acute by the suffix; in the compound the accent of the final member's own nature. *variyaḥ* — *atiśayena uru variyaḥ*; the suffix *īyasun* in the sense of excess; with it following, *priyasthirasphirorubahulagavyaprthucchandārasāṃ…* [print: *priyasthira-…-ror…*] (Pā. 6-4-157) gives *var* in place of *uru*; since the suffix is *nit* [as printed], *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute. *ubhā* — *supāṃ sulug…* (Pā. 7-1-39) gives *ā* to the case-ending (nominative dual, or genitive dual); likewise *ā* for the locative in *upasthā*. *pṛṇantī* — root *pṝ pālanapūraṇayoḥ*; Kryādi; śatṛ in the laṭ sense; *kryādibhyaḥ śnā*; since it belongs to the *prādi* group, *svādīnāṃ hrasvaḥ* shortens the root (Pā. 7-3-80); *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the *ā* of *śnā*; *ugitaś ca* gives ṅīp and *num* in the feminine; since a *ṛ*-vowel precedes, the *n* of the suffix becomes *ṇ*; the first-syllable acute of the śatṛ suffix. ‖ 5 ‖
+
+#### Ṛk 6
+
+### Printed p. 155  (PDF 176)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+**॥ संहितापाठः ॥**
+
+> एवेदेषा पुरुतमा दृशे कं नाजामिं न परि वृणक्ति जामिम् ।
+> अरेपसा तन्वा शाशदाना नार्भादीषते न महो विभाती ॥ ६ ॥
+
+> *evedeṣā purutamā dṛśe kaṃ nājāmiṃ na pari vṛṇakti jāmim |*
+> *arepasā tanvā śāśadānā nārbhādīṣate na maho vibhātī ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> एव । इत् । एषा । पुरुऽतमा । दृशे । कम् । न । अजामिम् । न । परि । वृणक्ति । जामिम् ।
+> अरेपसा । तन्वा । शाशदाना । न । अर्भात् । ईषते । न । महः । विऽभाती ॥ ६ ॥
+
+> *eva | it | eṣā | puru 'tamā | dṛśe | kam | na | ajāmim | na | pari | vṛṇakti | jāmim |*
+> *arepasā | tanvā | śāśadānā | na | arbhāt | īṣate | na | mahaḥ | vi 'bhātī ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> एषोषा एवेत् । इच्छब्द एवकारार्थः । एवमेवेदानींभासमानप्रकारेणैव पुरुतमा विपुलतमात्यन्तविस्तृता सत्यजामिं [?] विजातीयं मनुष्यादिजातिं न परि वृणक्ति । परितः सर्वतो न वर्जयति । तथा जामिं सजातीयं देवजातिं न परि वृणक्ति । न परिवर्जयति । मनुष्यादिकं देवादिकं च तदुपलक्षितं लोकद्वयं वा कात्स्न्र्येन प्रकाशयतीत्यर्थः । किमर्थमिति तदुच्यते । दृशे कं सुखेन सर्वेषां दर्शनाय । सुखं यथा भवति तथा सर्वान्दर्शयितुं वा । किंचारेपसापापया निर्मलया तन्वा शरीरेण शाशदाना शाशद्यमाना । शाशदानः शाशद्यमान इति यास्कः । नि. ६-१६ । स्पष्टतां गच्छन्तीत्यर्थः । विभाती विशेषेण प्रकाशयन्ती सार्भादल्पादपि वस्तुनः कस्मादपि सकाशान्नेषते । न गच्छति । तमसि प्रकाशयति । तथा महो महतो मेर्वादेः सकाशान्नेषते । न गच्छति । तमसि प्रकाशयति । पूर्वं लोकद्वयं प्रकाशत इत्युक्तम् । इदानीमस्मिँल्लोके परमाण्वादि पर्वतपर्यन्तं कृत्स्नं प्रकाशयतीत्यर्थः ॥
+
+> *eṣoṣā evet | icchabda evakārārthaḥ | evamevedānīṃbhāsamānaprakāreṇaiva purutamā vipulatamātyantavistṛtā satyajāmiṃ [?] vijātīyaṃ manuṣyādijātiṃ na pari vṛṇakti | paritaḥ sarvato na varjayati | tathā jāmiṃ sajātīyaṃ devajātiṃ na pari vṛṇakti | na parivarjayati | manuṣyādikaṃ devādikaṃ ca tadupalakṣitaṃ lokadvayaṃ vā kātsnryena prakāśayatītyarthaḥ | kimarthamiti taducyate | dṛśe kaṃ sukhena sarveṣāṃ darśanāya | sukhaṃ yathā bhavati tathā sarvāndarśayituṃ vā | kiṃcārepasāpāpayā nirmalayā tanvā śarīreṇa śāśadānā śāśadyamānā | śāśadānaḥ śāśadyamāna iti yāskaḥ | ni. 6-16 | spaṣṭatāṃ gacchantītyarthaḥ | vibhātī viśeṣeṇa prakāśayantī sārbhādalpādapi vastunaḥ kasmādapi sakāśānneṣate | na gacchati | tamasi prakāśayati | tathā maho mahato mervādeḥ sakāśānneṣate | na gacchati | tamasi prakāśayati | pūrvaṃ lokadvayaṃ prakāśata ityuktam | idānīmasmi~lloke paramāṇvādi parvataparyantaṃ kṛtsnaṃ prakāśayatītyarthaḥ ‖*
+
+*(Read from the image; checked against the OCR. The word "satyajāmiṃ" [?] near the beginning is as printed and doubtful, and several words in the second half are small in the print.)* "*Eṣā uṣāḥ eva it* — here *it* has the sense of *eva*. In just this way, as she now appears, *purutamā* — greatly extensive, spread out very widely — she does not exclude (*na pari vṛṇakti*, does not avoid on all sides) the *ajāmi*, the creatures of a different kind, men and the rest; likewise, the *jāmi*, those of her own kind, the race of the gods, she does not exclude; that is, she illumines entirely, men and the others and the gods and the others, or the two worlds characterized by them. What for? That is said: *dṛśe kam* — to be seen by all easily; or, so that all are seen, so that it is pleasant. Moreover with a faultless body (*arepasā*, free of sin, pure), *śāśadānā* — becoming visible ('*śāśadānaḥ* means *śāśadyamānaḥ*', says Yāska, Ni. 6-16), that is, going toward clarity. Shining specially (*vibhātī*), she does not go away from even a small thing (*arbhāt*), but lights it in the dark; and likewise from the great (*mahaḥ*), from Meru and the like, she does not go away: she lights it in the dark. It was said before that she shines on the two worlds; now, in this world, she lights up the whole, from an atom to a mountain: that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Eṣā* — this Uṣas; *eva it* — in this very way; *purutamā* — most extensively spread out; *ajāmim* — those of a different kind, men and the rest (the world of men); *kaṃ dṛśe* — for easy seeing; *na pari vṛṇakti* — does not leave out; *jāmim* — those of her own kind, the gods; (the world of the gods); *na (pari vṛṇakti)* — does not leave out; *arepasā* — free of sin (pure); *tanvā* — with the body; *śāśadānā* — becoming visible; *vibhātī* — specially bright (Uṣas); *arbhāt* — from what is extremely small; *na īṣate* — does not go away; *mahaḥ* — from the very great; *na (īṣate)* — does not go away.
+
+### Printed p. 156  (PDF 177)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** In this manner, spreading out extremely (widely), the Uṣas, leaving out neither the world of men (those of a different kind) nor the world of the gods (those of her own kind), becoming visible with a pure body, and having more light, illumines all objects, with no distinction of the small and the great.
+
+**Printed English (as printed):** *Verily she, the wide-expanded Ushas, neglects not (to give) the joy of sight to those of her own or of a different nature : visible in her faultless person, and brightly shining, she passes not by the little or the great.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 6.**
+
+***jāmiṃ ajāmim*** — for the word *jāmi* the meaning "gods of the same kind", and for *ajāmi* the meaning "humans and others of a different kind", is given. For the word *jāmi* the author of the Nirukta says: *jāmir anyasyāṃ janayanti jāmy apatyam | jamater vā syād gatikarmaṇo nirgamanaprāyā bhavati* (Ni. 3-6, as printed "೩-೬"). One derivation of *jāmi* is from the root *jan*, which gives the meaning "to be born", expressing the intention that "another helps her to produce children"; another derivation is from the root *jam*, meaning "to go", expressing that "she is one who goes to the house of her husband". By these two explanations it is known from the Nirukta explanation that the word *jāmi* means "sister". In support of this meaning —
+
+> न जामये तान्वो रिक्थमारैक्चकार गर्भं सनितुर्निधानम् ।
+> यदी मातरो जनयन्त वह्निमन्यः कर्ता सुकृतोरन्य ऋन्धन् ॥
+
+> *na jāmaye tānvo rikthamāraikcakāra garbhaṃ saniturnidhānam |*
+> *yadī mātaro janayanta vahnimanyaḥ kartā sukṛtoranya ṛndhan ‖*
+
+(Ṛ. Saṃ. 3-31-2, as read from the print "೩-೩೧-೨".) *(Read letter by letter; "rikthamāraik" is as printed and doubtful.)* — citing this ṛk, the word *jāmi* is explained as "sister". Likewise, as explained in the preceding sūkta in this section,
+
+### Printed p. 157  (PDF 178)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+> भगस्य स्वसा वरुणस्य जामिरुषः सूनृते प्रथमा जरस्व ।
+> पश्चा स दध्या यो अघस्य धाता जयेम तं दक्षिणया रथेन ॥
+
+> *bhagasya svasā varuṇasya jāmiruṣaḥ sūnṛte prathamā jarasva |*
+> *paścā sa dadhyā yo aghasya dhātā jayema taṃ dakṣiṇayā rathena ‖*
+
+(Ṛ. Saṃ. 1-123-5, as printed "೧-೧೨೩-೫".) — in this and other ṛks too the meaning "sister" is the sense of the word *jāmi*.
+
+But in the present ṛk the meaning of this word comes out in a wider extent, as "kinsmen". *Jāmiṃ ajāmim* — the gods who are kinsmen, and men and the rest who are not kinsmen: that is the meaning. In the same way the extended sense "kinsmen":
+
+> जामिः सिन्धूनां भ्रातेव स्वस्रामिभ्यान्न राजा वनान्यत्ति ।
+> यद्वातजूतो वना व्यस्थादग्निर्ह दाति रोमा पृथिव्याः ॥
+
+> *jāmiḥ sindhūnāṃ bhrāteva svasrāmibhyānna rājā vanānyatti |*
+> *yadvātajūto vanā vyasthādagnirha dāti romā pṛthivyāḥ ‖*
+
+(Ṛ. Saṃ. 1-65-4, as read from the print.)
+
+> कस्ते जामिर्जनानामग्ने को दाश्वध्वरः । को ह कस्मिन्नसि श्रितः ॥
+
+> *kaste jāmirjanānāmagne ko dāśvadhvaraḥ | ko ha kasminnasi śritaḥ ‖*
+
+(Ṛ. Saṃ. 1-75-3, as read from the print.) — in these and other ṛks the meaning "kinsmen" is given just as in this ṛk.
+
+***na parivṛṇakti*** — *na parivarjayati | manuṣyādikaṃ devādikaṃ ca tadupalakṣitaṃ lokadvayaṃ vā kārtsnyena prakāśayatīty arthaḥ*: she illumines the two worlds that are filled with gods, men and others, without making a distinction — that is the meaning.
+
+***arepasā*** — *apāpayā nirmalayā tanvā*: "with a body free of sin", that is, with a pure body. The author of the Nirukta, citing
+
+> इदेह जाता समवावशीतामरेपसा तन्वा नामभिः स्वैः ।
+> जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ॥
+
+> *ideha jātā samavāvaśītāmarepasā tanvā nāmabhiḥ svaiḥ |*
+> *jiṣṇurvāmanyaḥ sumakhasya sūrirdivo anyaḥ subhagaḥ putra ūhe ‖*
+
+(Ṛ. Saṃ. 1-181-4 [?], as I read the print.) — as the words *arepasā tanvā* in it are explained as "with a body not touched by sin", so it is to be said here too.
+
+**Vyākaraṇa-prakriyā (Ṛk 6, pp. 157–158; noted briefly, numbers as read by the OCR).** *purutamā* — suffix *tamap* in the sense of excess; in the feminine, *ṭāp*, taking the stem ending in *a* as its cause. *dṛśe* — root *dṛśir prekṣaṇe*; *dṛśe vikhye ca* (Pā. 3-4-11) records it as *dṛśe*; since it ends in *e*, it becomes an indeclinable.
+
+### Printed p. 158  (PDF 179)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+*ajāmim* — *na jāmiḥ ajāmiḥ tam*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2) gives the natural accent of the first member, the negative *nañ*; accusative singular. *vṛṇakti* — root *vṛjī varjane*; Rudhādi; laṭ third person singular *tip*; *rudhādibhyaḥ śnam* (Pā. 3-1-78) gives *śnam*; *midaco 'ntyāt paraḥ* places it after the last vowel; *coḥ kuḥ* gives the guttural for the *j* of the root, and *car*; since a *ṛ* precedes, the *n* becomes *ṇ*; since it follows a non-verb word, the *nighāta* accent. *arepasā* — *na vidyate repaḥ yasyāḥ sā arepāḥ tayā arepasā*; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member. *tanvā* — with the instrumental singular following, *tanvādīnāṃ chandasy upasaṃkhyānam* gives *yaṇ*; the *yaṇ* stands in the place of the acute; the case-ending follows it; *udāttasvaritayor yaṇaḥ svaritaḥ* (Pā. 8-2-4) gives the *svarita*. *śāśadānā* — explained in Ṛk 10 of 1-123; only the nasalisation (*anunāsikatva*) does not occur here. *īṣate* — root *īṣa gatihiṃsādarśaneṣu*; Bhvādi; laṭ third person singular *īṣate*; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* (Pā. 6-1-186) makes it unaccented, and since *śap* is *pit* the root-accent remains. *mahaḥ* — *mahataḥ*, with the loss of the *t* in the Veda; or else the root *maha pūjāyām*, with *kvip* (*kvip ca*); ablative singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the case-ending. *vibhātī* — root *bhā dīptau*; śatṛ in the laṭ sense; *ugitaś ca* (Pā. 4-1-6) gives ṅīp in the feminine; since ṅīp follows a śatṛ without *num*, *śatur anumo nadyajādī* (Pā. 6-1-173) gives it the acute accent; in the compound the accent of the final member. ‖ 6 ‖
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 158 (PDF 179): Ṛks 1–6 complete (‖ 6 ‖); resume p. 159 (PDF 180) with Ṛk 7 Saṃhitā.
