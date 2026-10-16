@@ -16283,4 +16283,70 @@ As soon as Uṣas rises, the path of *ṛta* has been lit by the rays of Āditya
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 written through p. 673 (Special Topics: *ṛtasya panthāḥ* with the zodiac Ṛks done; more entries and the grammar follow); resume p. 674 (PDF 695; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 674  (PDF 695)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+> जानात्यह्नः प्रथमस्य नाम शुक्रा कृष्णादजनिष्ट श्वितीची ।
+> ऋतस्य योषा न मिनाति धामाहरहर्निष्कृतमाचरन्ती ॥
+
+> *jānāty ahnaḥ prathamasya nāma śukrā kṛṣṇād ajaniṣṭa śvitīcī |*
+> *ṛtasya yoṣā na mināti dhāmāharahar niṣkṛtam ācarantī ‖*
+
+(Ṛ. Saṃ. 1-123-9 [as read].) The Dawn-goddess, of bright form, resplendent, knows the first day's name; she is born from the black [night]; and the goddess does not transgress the path of *ṛta* at all, but day after day follows it, obediently.
+
+> एषा दिवो दुहिता प्रत्यदर्शि ज्योतिर्वसाना समना पुरस्तात् ।
+> ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ॥
+
+> *eṣā divo duhitā praty adarśi jyotir vasānā samanā purastāt |*
+> *ṛtasya panthām anveti sādhu prajānatīva na diśo mināti ‖*
+
+(Ṛ. Saṃ. 1-124-3 [as read].) This Dawn-goddess, the daughter of heaven, adorned with a garment in the form of her own radiance, rises in the eastern quarter; and she follows the path of *ṛta* in the most excellent way, without missing a step.
+
+> अग्निं विश ईळते मानुषीर्या अग्निं मनुषो नहुषो वि जाताः ।
+> अग्निर्गान्धर्वीं पथ्यामृतस्याग्नेर्गव्यूतिर्घृत आ निषत्ता ॥
+
+> *agniṃ viśa īḷate mānuṣīr yā agniṃ manuṣo nahuṣo vi jātāḥ |*
+> *agnir gāndharvīṃ pathyām ṛtasyāgner gavyūtir ghṛta ā niṣattā ‖*
+
+(Ṛ. Saṃ. 10-80-6 [as read].) In this, *ṛtasya pathyā* ("path of *ṛta*") is described as a path very high up in the *antarikṣa*, fit for the movement of the Gandharvas; and the description in the Ṛk under discussion is that Uṣas, rising on this path, makes room for the revolution of the Sun, and makes the world bright.
+
+After the rise of Uṣas, the dwellings of Bhaga, Aryaman, Mitra and Varuṇa are described as lit. There is a difference of opinion whether Bhaga and Aryaman are other names of Āditya or different deities.
+
+> दक्षस्य वादिते जन्मनि व्रते राजाना मित्रावरुणा विवाससि ।
+> अतूर्तपन्थाः पुरुरथो अर्यमा सप्तहोता विषुरूपेषु जन्मसु ॥
+
+> *dakṣasya vāditer janmani vrate rājānā mitrāvaruṇā vivāsasi |*
+> *atūrtapanthāḥ pururatho aryamā saptahotā viṣurūpeṣu janmasu ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೬೪-೫" [?]; doubtful in the first line [?].) Quoting this Ṛk, [Yāska] explains for the word *aryamā* there, *aryamā āditya ariṃ niyacchati* — "Aryaman is Āditya, who restrains enemies" (Ni. 11-[?], as read "೧೧-೨೩" [?]); and —
+
+> तत्सु नः सविता भगो वरुणो मित्रो अर्यमा ।
+> शर्म यच्छन्तु सप्रथो यदीमहे ॥
+
+> *tat su naḥ savitā bhago varuṇo mitro aryamā |*
+> *śarma yacchantu sapratho yad īmahe ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?], as read "೮-೧೮-೩" [?].) Here Bhaga, Varuṇa, Mitra and Aryaman — all four — are said together to be sons of Aditi.
+
+### Printed p. 675  (PDF 696)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> यो वा अर्यमणं वेद । दानकामा अस्मै प्रजा भवन्ति । यज्ञो वा अर्यमा ।
+
+> *yo vā aryamaṇaṃ veda | dānakāmā asmai prajā bhavanti | yajño vā aryamā |*
+
+(Tai. Brā. 2-[?]-[?], as read "೨-೩-೫-೪" [?].) In this, Aryaman is declared to be identical with the sacrifice.
+
+> भगस्य स्वसा वरुणस्य जामिरुषः सूनृते प्रथमा जरस्व ॥
+
+> *bhagasya svasā varuṇasya jāmir uṣaḥ sūnṛte prathamā jarasva ‖*
+
+(Ṛ. Saṃ. 1-123-5 [as read].) In Ṛks such as this, Uṣas is called the sister of Bhaga. Some descriptions of this kind, which are singular, do not seem to fit with Aryaman and Bhaga as they are in other deities; this matter will be examined more closely and explained later.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; numbers as printed).** *adarśi* — root *dṛśir prekṣaṇe*; in the passive *luṅ*; third person singular, the suffix *ta*; *ciṇ* for *ta* [by] *ciṇ bhāvakarmaṇoḥ*; *ciṇo luk* (Pā. 6-4-104 [as read]) drops the word *ta*; since *ciṇ* conditions it, the *guṇa* of the root's *ṛ*; the *āgama* of the *aṅga*; as it is at the beginning of a pāda, there is no *nighāta*, the ādyudātta. *gātuḥ* — root *gā gatau*; *kami-mani-jani…* (Uṇ. 1-[?], as read "೧-೭೩" [?]) gives the suffix *tu*; by the suffix accent, the final udātta. *varīyasī* — *atiśayena uru varīyasī*; the suffix *īyasun*; it being *para*, *priyasthirasphira…* (Pā. 6-4-157 [as read]) gives *var* as the substitute for *uru*; since it is *ugit*, *ṅīp* in the feminine; since it is *sit* [?], the ādyudātta. *ayaṃsta* — root *yamu uparame*; *luṅ*, third person singular; *nighāta* after a *tiṅanta*. *sadanam* — root *ṣadḷ viśaraṇagatyavasādaneṣu*; *lyuṭ* in the sense of *adhikaraṇa*; *yuvor anākau* (Pā. 7-1-1 [as read]) gives *ana* for *yu*; *liti* (Pā. 6-1-193 [as read]) gives the udātta to the syllable before the suffix. *aryamṇaḥ* — the word *aryaman*; the genitive singular; *ālloṇyāne* [as read: *allopo 'naḥ* (Pā. 6-4-134 [as read])] drops the *a* of the stem before *as* [in *aryamṇaḥ*]; as the word ends in the suffix *kanin*, the *a* is udātta; since the case-ending is *anudātta* and comes after, the udātta is dropped; *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161 [as read]) gives the udātta to the case-ending.
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 written through p. 675 (Special Topics done; grammar through *aryamṇaḥ*, the rest of the grammar follows); resume p. 676 (PDF 697; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
