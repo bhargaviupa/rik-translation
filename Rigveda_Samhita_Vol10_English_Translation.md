@@ -5221,4 +5221,166 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 
 ---
 
-**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 199 (PDF 220): Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha done; resume p. 200 (PDF 221) with Ṛk 3 printed English. Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
+### Printed p. 200  (PDF 221)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+**Printed English (Ṛk 3, as printed):** *Desirous (of again beholding thee), I have this day obtained thee, who hast done in the morning a good deed; the performer of a sacrifice, with a wealth-laden car, refresh thyself with the effused juice of the exhilarating (Soma) creeper, and augment with sincere prayers (the prosperity) of the chief of a flourishing race.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 3.**
+
+***rathena*** — *raṃhaṇaśīlena athavā ramaṇīyena…* [as printed, the Nirukta etymology:] *rathaḥ raṃhater gatikarmaṇaḥ sthiratervā syād viparītasya | ramater vā | rasater vā* (Ni. 9-11, as read by the OCR; the print's numerals are small) — the author of the Nirukta shows the derivation of this word either from the root *raṃh*, meaning motion or speed, or, with a change of letters, from *sthira* (steady); or from the root *ram*, which gives the meaning "to sit and enjoy"; or from *ras*, meaning "to make a sound": it is to be a thing that yields these. And he has shown the nature of the chariot by citing
+
+> वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणः सुवीरः ।
+> गोभिः संनद्धो असि वीळयस्वास्थाता ते जयतु जेत्वानि ॥
+
+> *vanaspate vīḍvaṅgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ |*
+> *gobhiḥ saṃnaddho asi vīḷayasvāsthātā te jayatu jetvāni ‖*
+
+(Ṛ. Saṃ. 6-47-26, as read from the print.)
+
+***kṣayadvīram*** — *atibalinaṃ yasmin sarve vīrāḥ kṣīyante* [as printed; the sense is: "he in whose [power] all heroes dwell"]: the word *kṣi* means "dwelling", and *kṣayadvīra* is he who makes heroes dwell: *kṣi nivāsagatyoḥ vīrāṇāṃ nivāsayitā kṣayadvīraḥ | pūṣā hy astaṃ gacchan sarvavīrān sve sve sthāne nivāsayati | tenāsau kṣayadvīra ity ucyate* — as Skandasvāmin has explained, the word *kṣi* means "dwelling-place"; Pūṣan, at the time of setting, settles all the heroes each in his own dwelling-place, and hence has the name *kṣayadvīra*; this was explained before (Ṛ. 1-106-4). In the present ṛk, Sāyaṇa explains: *kṣiyanto nivasanto vīrāḥ putrabhṛtyādayo yasya taṃ tādṛśam* — "him whose sons, servants and others dwell with him, such a one". And in
+
+> स्तोमं वो अद्य रुद्राय शिक्वसे क्षयद्वीराय नमसा दिदिष्टन ।
+> येभिः शिवः स्ववाँ एवयावभिर्दिवः सिषक्ति स्वयशा निकामभिः ॥
+
+> *stomaṃ vo adya rudrāya śikvase kṣayadvīrāya namasā didiṣṭana |*
+> *yebhiḥ śivaḥ svavā~ evayāvabhirdivaḥ siṣakti svayaśā nikāmabhiḥ ‖*
+
+(Ṛ. Saṃ. 1-114-1, as read from the print.)
+
+### Printed p. 201  (PDF 222)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+— in this and other ṛks (1-114-1; 1-114-3) *kṣayadvīrāya rudrāya* means *kṣitaśatrave rudrāya*, "to Rudra who has destroyed his enemies"; in the present ṛk the purport is "as one who dwells together with sons and the rest".
+
+***aṃśoḥ*** — in general *aṃśu* means a ray. But since the parts of the Soma plant, being shining and fine, spread like rays in many directions, these parts are called *aṃśu*. In the present ṛk Sāyaṇa explains *aṃśoḥ* as *vallīrūpasya (somasya)*, "of Soma in the form of the vine" — the vine of the Soma plant, full of juice. The author of the Nirukta, giving the derivation of this word, says *aṃśuḥ kam aśnuta iva* [?] *bhavati | ananāya śaṃ bhavatīti vā* (Ni. 2-5, as read by the OCR): as soon as it enters the body it is wholesome, or it gives well-being to life; therefore it has the name; and he cites
+
+> ते सोमादो हरी इन्द्रस्य निंसतेंऽशुं दुहन्तो अध्यासते गवि ।
+> तेभिर्दुग्धं पपिवान्सोम्यं मध्विन्द्रो वर्धते प्रथते वृषायते ॥
+
+> *te somādo harī indrasya niṃsateṃ 'śuṃ duhanto adhyāsate gavi |*
+> *tebhirdugdhaṃ papivānsomyaṃ madhvindro vardhate prathate vṛṣāyate ‖*
+
+(Ṛ. Saṃ. 10-94-? [?], as I read the print; the middle numeral is small and doubtful.) *(Read letter by letter; "somādo" and "niṃsate" are as printed and doubtful.)* But here *aṃśu* means Soma juice. Likewise in
+
+> आसाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः । श्येनो न योनिमासदत् ॥
+
+> *āsāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ | śyeno na yonimāsadat ‖*
+
+(Ṛ. Saṃ. 9-?-? [?], as read — numerals unclear.) — in ṛks like this too the meaning is Soma juice. When the word *aṃśu* comes as an epithet of the word *soma*, it means a piece of the Soma vine.
+
+> प्र यत्सिन्धवः प्रसवं यथायन्नापः समुद्रं रथ्येव जग्मुः ।
+> अतश्चिदिन्द्रः सदसो वरीयान्यदीं सोमः पृणति दुग्धो अंशुः ॥
+
+> *pra yatsindhavaḥ prasavaṃ yathāyannāpaḥ samudraṃ rathyeva jagmuḥ |*
+> *ataścidindraḥ sadaso varīyānyadīṃ somaḥ pṛṇati dugdho aṃśuḥ ‖*
+
+(Ṛ. Saṃ. 3-36-6, as read from the print.)
+
+> समुद्रेण सिन्धवो यादमाना इन्द्राय सोमं सुषुतं भरन्तः ।
+> अंशुं दुहन्ति हस्तिनो भरित्रैर्मध्वः पुनन्ति धारया पवित्रैः ॥
+
+> *samudreṇa sindhavo yādamānā indrāya somaṃ suṣutaṃ bharantaḥ |*
+> *aṃśuṃ duhanti hastino bharitrairmadhvaḥ punanti dhārayā pavitraiḥ ‖*
+
+(Ṛ. Saṃ. 9-?-2 [?], as read.) — since in such ṛks it is an epithet of the word *soma*, *latākhaṇḍarūpaḥ alpaḥ somaḥ*, the Soma in the form of a piece of the vine and small, is stated; the small quantity of the Soma is stated.
+
+### Printed p. 202  (PDF 223)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: even though Indra has a great body, the small Soma satisfies him. In the present sūkta Indra, being satisfied, is prayed to increase the prosperity of Svanaya.
+
+***matsarasya*** — *mādanasādhanasya somasya*; "the cause of joy". The author of the Nirukta gives two meanings for this word: *matsaraḥ somo mandater* [*mandateḥ*] *stṛptikarmaṇaḥ* (Ni. 2-25, as read) — formed from the root *mand* meaning "to satisfy", it is a synonym of Soma juice; or *matsara iti lobhanāma* — since it is something that shows eagerness (*atyāśā*) or emulation, it is called *matsara*: so he gives the derivation. This word is used in both senses. For example —
+
+> सुषुमा यातमद्रिभिर्गोश्रीता मत्सरा इमे । सोमासो मत्सरा इमे ॥
+
+> *suṣumā yātamadribhirgośrītā matsarā ime | somāso matsarā ime ‖*
+
+(Ṛ. Saṃ. 1-137-1, as read from the print.) — here the word *matsara* is used to show that the present Soma juices are excellent in rivalry with the Soma juices of other sacrifices.
+
+> मत्सि सोमं वरुणं मत्सि मित्रं मत्सीन्द्रमिन्दो पवमान विष्णुम् ।
+> मत्सि शर्धो मारुतं मत्सि देवान्मत्सि महामिन्द्रमिन्दो मदाय ॥
+
+> *matsi somaṃ varuṇaṃ matsi mitraṃ matsīndramindo pavamāna viṣṇum |*
+> *matsi śardho mārutaṃ matsi devānmatsi mahāmindramindo madāya ‖*
+
+(Ṛ. Saṃ. 9-80-2, as read from the print.) — in ṛks like this the meaning "satisfying" is understood. In the present ṛk it is "the juice that is the means of satisfaction, giving joy".
+
+***putram*** — *putraḥ puru trāyate* (Ni. 2-11, as read): the name "son" is because he protects exceedingly; here it means "the performer of the sacrifice". Sāyaṇa too, citing Yāska's etymology, shows that *kartāram ity arthaḥ*, "the doer", means the performer of the sacrifice.
+
+**Vyākaraṇa-prakriyā (Ṛk 3, pp. 202–203; noted briefly, numbers as read by the OCR).** *āyam* — root *iṇ gatau*; laṅ first person singular, *mip*; *tasthasthamipāṃ tāmtamtāmaḥ* (Pā. 3-4-101) gives *am* in place of the *mip*; *āḍ ajādīnām* (Pā. 6-4-72) gives the augment *āṭ* to the stem; *āṭaś ca* (Pā. 6-1-90) gives vṛddhi; *eco 'yavāyāvaḥ* gives *āy*; since it stands at the head of a pāda, no *nighāta*; since the augment is acute, the first syllable is acute.
+
+### Printed p. 203  (PDF 224)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+*sukṛtam* — *śobhanaṃ karoti iti sukṛt*; root *ḍukṛñ karaṇe*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. 6-1-71) gives *tuk*; in the *prādi*-compound the accent of the final member; accusative singular. *icchan* — root *iṣu icchāyām*; śatṛ in the laṭ sense; *śa*-augment; *iṣugamiyamāṃ chaḥ* (Pā. 7-3-77) gives *cha* to the root; the accent of the verb-suffix remains. *iṣṭeḥ* — the root as before; *mantre vṛṣeṣapacamanaviduśrībhūvārtta…* (Pā. 3-3-96) gives *ktin* acute. *putram* — root *pūñ pavane*; *puvo hrasvaś ca* (Uṇ. 4-165 as read) gives the suffix *tra*; as it is *kit* there is no guṇa. *pāyaya* — root *pā pāne*; since it shows the causative sense, *hetumati ca* gives *ṇic*; with it following, *śācchāsāhvāvyāvepāṃ yuk* (Pā. 7-3-37) gives the augment *yuk*; loṭ second person singular after the *ṇijanta*; *nighāta* accent. *kṣayadvīram* — root *kṣi nivāsagatyoḥ*; śatṛ in the laṭ sense; by *vyatyaya* guṇa; *ayādeśa*; *kṣayantaḥ vīrāḥ yasya saḥ tam*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1) gives the natural accent of the first member. *vardhaya* — root *vṛdhu vṛddhau*; as before, loṭ second person singular after the *ṇijanta*; *nighāta*. ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> उप क्षरन्ति सिन्धवो मयोभुव ईजानं च यक्ष्यमाणं च धेनवः ।
+> पृणन्तं च पपुरिं च श्रवस्यवो घृतस्य धारा उप यन्ति विश्वतः ॥ ४ ॥
+
+> *upa kṣaranti sindhavo mayobhuva ījānaṃ ca yakṣyamāṇaṃ ca dhenavaḥ |*
+> *pṛṇantaṃ ca papuriṃ ca śravasyavo ghṛtasya dhārā upa yanti viśvataḥ ‖ 4 ‖*
+
+### Printed p. 204  (PDF 225)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+**॥ पदपाठः ॥**
+
+> उप । क्षरन्ति । सिन्धवः । मयःऽभुवः । ईजानम् । च । यक्ष्यमाणम् । च । धेनवः ।
+> पृणन्तम् । च । पपुरिम् । च । श्रवस्यवः । घृतस्य । धाराः । उप । यन्ति । विश्वतः ॥ ४ ॥
+
+> *upa | kṣaranti | sindhavaḥ | mayaḥ 'bhuvaḥ | ījānam | ca | yakṣyamāṇam | ca | dhenavaḥ |*
+> *pṛṇantam | ca | papurim | ca | śravasyavaḥ | ghṛtasya | dhārāḥ | upa | yanti | viśvataḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्वस्यामृच्यानीतेन धनेन सोमयागं कुर्वित्युक्तम् । तमेव सोमयागं फलप्रदर्शनेन स्तौति । सिन्धवः स्यन्दनशीलाः प्रस्रुतपयोधराः । सिन्धुः स्यन्दनादिति यास्कः । नि. ९-२६ [?] । मयोभुवः सुखभावयित्र्यः । मय इति सुखनाम मयः शर्म सुखमिति तन्नामसु पाठात् । धेनवः प्रीणयित्र्यो गाव ईजानं सोमयागमनुतिष्ठन्तं तथा यक्ष्यमाणं यक्ष्य इति प्रणतिं कुर्वन्तं च । न केवलमीजानमपि तु यक्ष्य इत्यध्यवसितवन्तमुप समीपमेत्य क्षरन्ति । स्रवन्ति । प्रीणयन्तीत्यर्थः । न च पूर्वस्यामृचि सोमं पिबेत्युक्तत्वात्सर्वेषां सोमयागानामग्निष्टोमात्मकज्योतिष्टोमस्य प्रकृतस्य ज्योतिष्टोमेन स्वर्गकामो यजेतेति स्वर्ग एव फलत्वेन श्रुतेः न गवादिकमिति वाच्यम् । स्वर्गवद्गवादिकामनयापि सोमयागस्य कर्तुं शक्यत्वात् । न केवलं सोमयागमनुतिष्ठतामेव महत्फलं अपि तु सुकृतसाधनानि कर्मान्तराण्यनुतिष्ठतामपि महत्फलमस्त्येवेति दर्शयति । पृणन्तं पितॄन्प्रीणयन्तं [?] पपुरिं प्रीणनशीलमिष्टदातारं प्राणिनः सर्वदा प्रीणयन्तं च पुरुषं श्रवस्यवोऽन्नमिच्छन्तोऽन्नसमृद्धिहेतवो घृतस्य धाराः । यद्वा । घृतकुल्याः । विश्वतः सर्वत उप उपेत्य यन्ति । प्राप्नुवन्ति । प्रीणयन्तीत्यर्थः ॥
+
+> *pūrvasyāmṛcyānītena dhanena somayāgaṃ kurvityuktam | tameva somayāgaṃ phalapradarśanena stauti | sindhavaḥ syandanaśīlāḥ prasrutapayodharāḥ | sindhuḥ syandanāditi yāskaḥ | ni. 9-26 [?] | mayobhuvaḥ sukhabhāvayitryaḥ | maya iti sukhanāma mayaḥ śarma sukhamiti tannāmasu pāṭhāt | dhenavaḥ prīṇayitryo gāva ījānaṃ somayāgamanutiṣṭhantaṃ tathā yakṣyamāṇaṃ yakṣya iti praṇatiṃ kurvantaṃ ca | na kevalamījānamapi tu yakṣya ityadhyavasitavantamupa samīpametya kṣaranti | sravanti | prīṇayantītyarthaḥ | na ca pūrvasyāmṛci somaṃ pibetyuktatvātsarveṣāṃ somayāgānāmagniṣṭomātmakajyotiṣṭomasya prakṛtasya jyotiṣṭomena svargakāmo yajeteti svarga eva phalatvena śruteḥ na gavādikamiti vācyam | svargavadgavādikāmanayāpi somayāgasya kartuṃ śakyatvāt | na kevalaṃ somayāgamanutiṣṭhatāmeva mahatphalaṃ api tu sukṛtasādhanāni karmāntarāṇyanutiṣṭhatāmapi mahatphalamastyeveti darśayati | pṛṇantaṃ pitṝnprīṇayantaṃ [?] papuriṃ prīṇanaśīlamiṣṭadātāraṃ prāṇinaḥ sarvadā prīṇayantaṃ ca puruṣaṃ śravasyavo 'nnamicchanto 'nnasamṛddhihetavo ghṛtasya dhārāḥ | yadvā | ghṛtakulyāḥ | viśvataḥ sarvata upa upetya yanti | prāpnuvanti | prīṇayantītyarthaḥ ‖*
+
+*(Read from the image; the small type of the middle sentences is doubtful in places, and the Nirukta number "9-26" is as the OCR reads it ["೯-೨೬"]. The words "pitṝn prīṇayantam" are my reading of a small phrase.)* "In the previous ṛk it was said 'perform the Soma sacrifice with the wealth brought'. Now he praises that very Soma sacrifice by showing its fruit. *Sindhavaḥ* — flowing, with streaming udders; '*sindhuḥ syandanāt*' says Yāska (Ni. 9-26 [?]). *Mayobhuvaḥ* — causers of happiness; *maya* is a name for 'happiness', since *mayaḥ śarma sukham* are read among its names. *Dhenavaḥ* — the cows that give delight; *ījānam* — to him who performs the Soma sacrifice; and *yakṣyamāṇam* — to him who makes the resolve 'I will sacrifice'; not only the performer but also him who has decided 'I will sacrifice' — coming near, they *kṣaranti* — flow, satisfy. It should not be said that, since the previous ṛk says 'drink Soma', and the Jyotiṣṭoma is the prescribed Agniṣṭoma-type of all Soma sacrifices, and the text 'one desiring heaven should sacrifice with the Jyotiṣṭoma' gives only heaven as the fruit, cows and the like are not meant; for the Soma sacrifice can be performed also with a desire for cows and the like, as for heaven. And not only for those who perform the Soma sacrifice is the fruit great; for those who perform other rites that are means of good deeds also there is a great fruit: this he shows. *Pṛṇantam* — him who satisfies the ancestors [?], *papurim* — the one who is given to satisfying, the giver of what is desired, the person who constantly gratifies living beings: to him, *śravasyavaḥ* — desiring food, the causes of the abundance of food, *ghṛtasya dhārāḥ* — streams of ghee; or else *ghṛtakulyāḥ*, rivers of ghee; from every side *upa yanti* — come near, reach, satisfy."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Sindhavaḥ* — [cows] yielding milk in streams; *mayobhuvaḥ* — (and) the means of happiness; *dhenavaḥ* — the cows; *ījānam ca* — him who performs the (Soma) sacrifice; *yakṣyamāṇam ca* — and him who has taken the vow, 'I will perform the (Soma) sacrifice'; *upa* — nearby; *kṣaranti* — yield (milk); *pṛṇantam ca* — him who satisfies (the ancestors); *papurim ca* — and who delights (living beings); *śravasyavaḥ* — causes of abundance of food; *ghṛtasya dhārāḥ* — streams of ghee; *viśvataḥ* — from all sides; *upa yanti* — come near (satisfy).
+
+### Printed p. 205  (PDF 226)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The cows, which pour forth milk in streams and are the means of happiness, satisfy by giving milk to him who performs the Soma sacrifice and to him who has taken the vow "I will perform it"; (not to them alone) to the one who pleases the ancestors and all living beings, the ghee flows in streams (becomes the cause of satisfaction).
+
+**Printed English (as printed):** *The copiously yielding and joy-conferring cows, distil (their milk) for the celebration of the (Soma) sacrifice, and for him who has undertaken its celebration : the nutritious streams of butter converge from every quarter towards him, who both propitiates (his progenitors), and benefits (mankind).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 4.**
+
+***sindhavaḥ*** — *avanayaḥ*, *yahvyaḥ* and the like — this word is recorded among the names of rivers (Ni. 2-24, as printed). The author of the Nirukta, citing
+
+> सुदेवो असि वरुण यस्य ते सप्त सिन्धवः ।
+> अनुक्षरन्ति काकुदं सूर्म्यं सुषिरामिव ॥
+
+> *sudevo asi varuṇa yasya te sapta sindhavaḥ |*
+> *anukṣaranti kākudaṃ sūrmyaṃ suṣirāmiva ‖*
+
+(Ṛ. Saṃ. 8-41-2, as read from the print.) shows the derivation of this word there: *sindhuḥ sravaṇāt* (*sindhuḥ syandanāt*, Ni. 9-26) — "because of flowing, the Gaṅgā and the other rivers are called *sindhus*". This word is used not only as a synonym of river; it is also used as an epithet for things that flow, like milk.
+
+> श्रुधी हवमिन्द्र मा रिषण्यः स्याम ते दावने वसूनाम् ।
+> इमा हि त्वामूर्जो वर्धयन्ति वसूयवः सिन्धवो न क्षरन्तः ॥
+
+> *śrudhī havamindra mā riṣaṇyaḥ syāma te dāvane vasūnām |*
+> *imā hi tvāmūrjo vardhayanti vasūyavaḥ sindhavo na kṣarantaḥ ‖*
+
+(Ṛ. Saṃ. 3-41-1, as read from the print.) — in these and other ṛks, in the sense of *ājya* (ghee) and milk, so in the present ṛk the word is used as a synonym of the milk of the cows.
+
+***mayobhuvaḥ*** — the word *mayas* is recorded among the names of happiness (Ni. 3-13). *Mayobhuvaḥ* means "causers of happiness". This word is generally used as an epithet of the gods…
+
+---
+
+**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 205 (PDF 226): Ṛks 1–3 complete; Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, Special Topics (*mayobhuvaḥ*) breaks off at the foot of p. 205; resume p. 206 (PDF 227). Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
