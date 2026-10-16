@@ -9840,4 +9840,66 @@ who spoil the sacrifice, and prevents them from fulfilling their wishes": so the
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 385 (PDF 406): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā/Pada written (doubtful words marked); resume p. 386 (PDF 407) with the Ṛk 5 bhāṣya. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379) and Ṛk 4 bhāṣya (p. 382); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 386  (PDF 407)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 5; read from the image; a few letters of the small type are doubtful: [?].)*
+
+> हे इन्द्र कयस्य कस्य चित् त्वद्भक्तस्य यजमानस्यातिमतिमतिक्रान्तमननं विरुद्धमनस्कं शत्रुं नि षू नम । नितरां सुष्ठु नामय । अस्मत्प्रणतं कुरु ॥ अन्तर्भावितण्यर्थोऽयम् ॥ हे उग्र उद्गूर्णबल ऊतिभी रक्षणैः प्रीतिभिर्वा युक्तः सन् तेजिष्ठाभिररणिभिर्नातिशयेन तेजस्विभिर्युद्धादिरूपैर्मार्गैरिव ॥ तेजस्वच्छब्दादतिशायनिक इष्ठन् । विन्मतोर्लुक् । टेरिति टिलोपः ॥ अतिमतिं वृत्रादिं यथा नामितवान् तथास्मद्विरोधिनमप्रीत्यर्थः । यद्वा । उत्तरान्वयः । तेजिष्ठाभिररणिभिर्न तेजोयुक्तैर्गमनसाधनैर्यज्ञादिमार्गैर्यथास्मान्योजितवानसि तथोग्राभिः प्रकाशकाभिरूतिभी रक्षणैर्यागफलभूतैर्नोऽस्मान्नेषि । नयसि । अभिमतस्वर्गादिफलं प्रापयसीत्यर्थः ॥ नयतेश्छान्दसः शपो लुक् ॥ तत्र दृष्टान्तः । पुरा पूर्वस्मिन् काले अस्मत्पित्रादीन् [?] ऊतिभिर्नीतवानसि । तथा नेतीत्यर्थः । हे शूर विक्रान्त त्वमनेना मन्यसे । सर्वैरपापत्वेनावबुध्यसे । स्वर्गाद्यभिमतसाधकत्वादिति भावः । यद्वा । अनेना अस्मानेनसो मन्यसे । किंच हे इन्द्र वह्निर्वृष्ट्यादिप्रदानेन जगतां निर्वाहकः सन् पूरोर्मनुष्यस्य यजमानस्य । पूरुरिति मनुष्यनाम पूरवो जगत इति तन्नामसु पाठात् । तस्य विश्वानि सर्वाण्येनांस्यप पर्षि । अपकृष्य पालयसि । पृणोतेश्छान्दसः शपो लुक् ॥ अतो नोऽस्माकमप्यासान्तिके देवयजनदेशेऽच्छाभिमुख्येनागत्य वह्निरभिमतानां वोढा सन्ननभिमतमपकृष्याभिमतं पूरयसि ॥
+
+> *he indra kayasya kasya cit tvadbhaktasya yajamānasyātimatimatikrāntamananaṃ viruddhamanaskaṃ śatruṃ ni ṣū nama | nitarāṃ suṣṭhu nāmaya | asmatpraṇataṃ kuru ‖ antarbhāvitaṇyartho 'yam ‖ he ugra udgūrṇabala ūtibhī rakṣaṇaiḥ prītibhirvā yuktaḥ san tejiṣṭhābhiraraṇibhirnātiśayena tejasvibhiryuddhādirūpairmārgairiva ‖ tejasvacchabdādatiśāyanika iṣṭhan | vinmatorluk | ṭeriti ṭilopaḥ ‖ atimatiṃ vṛtrādiṃ yathā nāmitavān tathāsmadvirodhinamaprītyarthaḥ | yadvā | uttarānvayaḥ | tejiṣṭhābhiraraṇibhirna tejoyuktairgamanasādhanairyajñādimārgairyathāsmānyojitavānasi tathogrābhiḥ prakāśakābhirūtibhī rakṣaṇairyāgaphalabhūtairno 'smānneṣi | nayasi | abhimatasvargādiphalaṃ prāpayasītyarthaḥ ‖ nayateśchāndasaḥ śapo luk ‖ tatra dṛṣṭāntaḥ | purā pūrvasmin kāle asmatpitrādīn [?] ūtibhirnītavānasi | tathā netītyarthaḥ | he śūra vikrānta tvamanenā manyase | sarvairapāpatvenāvabudhyase | svargādyabhimatasādhakatvāditi bhāvaḥ | yadvā | anenā asmānenaso manyase | kiṃca he indra vahnirvṛṣṭyādipradānena jagatāṃ nirvāhakaḥ san pūrormanuṣyasya yajamānasya | pūruriti manuṣyanāma pūravo jagata iti tannāmasu pāṭhāt | tasya viśvāni sarvāṇyenāṃsyapa parṣi | apakṛṣya pālayasi | pṛṇoteśchāndasaḥ śapo luk ‖ ato no 'smākamapyāsāntike devayajanadeśe 'cchābhimukhyenāgatya vahnirabhimatānāṃ voḍhā sannanabhimatamapakṛṣyābhimataṃ pūrayasi ‖*
+
+*(Sense: "O Indra, bend down thoroughly — *ni ṣū nama*, make bow to us — the enemy *atimati* ('of excessive or hostile mind') of any (*kayasya cit*) sacrificer devoted to you. [This root has the causative sense hidden in it.] O fierce (*ugra*) Indra, of mighty strength, endowed with protections or affection, by your radiant (*tejiṣṭhābhiḥ*) ways such as war, as by paths: as you bent down Vṛtra and the like, so bend the one who is hostile to us. Or taking with what follows: as you have yoked us to the paths of sacrifice that are full of splendour, so lead us (*neṣi*) by your shining protections, the fruit of the sacrifice, to the desired heaven and the like. Example: as in former times you led our fathers and the others by your protections; so now. O brave one, you are *anenāḥ* — known by all as sinless, since you give heaven and what is desired; or, you think us sinless. And O Indra, as the *vahni* — sustaining the world by giving rain and so on — you remove all the sins of *pūru*, i.e. man, the sacrificer (the word *pūru* is recorded among the names of man — *pūravo jagataḥ*); you protect him. Therefore, coming facing us, near, at the sacrificial place, as bearer of what is wished, you remove what is not wished and fulfil what is wished.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *ugra* — O fierce Indra; *kayasya cit* — (of your devotee) the sacrificer; *atimatim* — the hostile-minded one (enemy); *ūtibhiḥ* — by your protections; *tejiṣṭhābhiḥ* — by the exceedingly brilliant; *araṇibhiḥ na* — (like) the paths (of war and the like); *ni ṣū nama* — bend well, make him bow; *tejiṣṭhābhiḥ* — splendid; *araṇibhiḥ na* — as by means of going (the paths of sacrifice, in which you set us); *ugrābhiḥ* — shining; *ūtibhiḥ* — by protections (the fruits of sacrifice); *naḥ* — us; *purā* — formerly (our fathers and the rest); *yathā* — as (you protected and led); *(tathā* — so); *neṣi* — lead us (so that we obtain heaven and the like); *śūra* — O hero; *anenāḥ* — sinless; *manyase* — you are known; *anenāḥ* — you who are sinless; *manyase* — you think (us too sinless); *(indra* — O Indra); *vahniḥ* — the sustainer of the world by rain and the like; *pūroḥ* — of the man (the sacrificer); *viśvāni* — all (sins); *apa parṣi* — you remove, protect; *(ataḥ* — therefore); *naḥ* — for us; *āsā* — near (at the sacrificial hall); *accha* — facing (coming); *vahniḥ* — the bearer of the desired; *(apa parṣi* — you remove the undesired and protect).
+
+### Printed p. 387  (PDF 408)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read: "೧೮"].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O fierce Indra, by your protecting acts, as by the fierce paths of war, make the enemies of the sacrificer bow down; as formerly you led our fathers and the others by your shining protections that are the fruit of the sacrifice, so now grant us the desired heaven and the like; all call you the heroic, sinless one; you, sinless, regard us too as sinless. O Indra, sustainer of the world by rain and the like, you remove all the sins of the sacrificer and protect him; therefore come near our sacrificial hall, bearing what we desire, and, removing the undesired, guard us.
+
+**Printed English (heading "English Translation"; as printed):** *"Humble the adversary of every one (your worshipper), fierce (Indra), by your aids, like radiant paths, (to glory); by your powerful aids, guide us, hero, as you have guided our forefather, for you are honoured (by all). You, (Indra), who are the sustainer (of the world), remove all (the sins) of man: present at our sacrifice, you are the bearer (of good things)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 5).**
+
+***kayasya cit atimatiṃ ni ṣū nama*** — *kasyacit tvadbhaktasya yajamānasya viruddhamanaskaṃ śatruṃ asmatpraṇataṃ kuru*: the ṛṣi prays Indra to make hostile, ill-minded one — an enemy like one who acts contrary to a sacrificer devoted to him and eager to win his favour — obedient to the sacrificer.
+
+***ūtibhiḥ tejiṣṭhābhir araṇebhir na*** — this sentence is given as an illustration of how an enemy is made obedient. Sāyaṇa gives two meanings for it. In one: Indra, endowed with complete strength, with the many splendid means (war and the rest) by which he protects those who depend on him, and with affection toward them, subdued Vṛtra and others who acted contrary to the world; so he is asked to subdue the opponents of the sacrificers. In the second meaning, he is asked to protect us who sacrifice with his shining protections, in whom he has made the sacrificers eager in the performance of sacrifices that give an excellent course by greatly increasing splendour; and to grant us the fruit of the sacrifice, our desired attainment of heaven and the like.
+
+### Printed p. 388  (PDF 409)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+***purā yathā*** — this clause too is given in the manner of an illustration: as Indra formerly protected the fathers and others of the sacrificers and brought about their desired attainments, so now may he fulfil our wishes.
+
+***anenāḥ manyase*** — *sarvair apāpatvena avabudhyase yadvā anenāḥ tvam asmān anenaso manyase*: "Indra is known as great and sinless, because he accomplishes the merits such as heaven according to the sacrificers' wishes; or: Indra regards the sacrificers who satisfy him by sacrificing as sinless." The word *anenāḥ* is repeated and is used as an epithet of Indra and of the sacrificers respectively, so that these two meanings can be given.
+
+***vahnir pūroḥ viśvāni enāṃsi apa parṣi*** — *vṛṣṭyādipradānena jagatāṃ nirvāhakaḥ san yajamānasya sarvāṇi enāṃsi apakṛṣya pālayasi*: the word *vahni* is applied to Indra; he is described as one who carries on the work of protecting the world by giving rain and what dependants need; and it is said that, to protect the sacrificer, he removes all his sins.
+
+The word ***pūru*** is recorded among the names of men (Ni. 2-[?]; as read "೨-೮"). And —
+
+> प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
+> वैश्वानरो दस्युमग्निर्जघन्वाँ अधूनोत्काष्ठा अव शम्बरं भेत् ॥
+
+> *pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |*
+> *vaiśvānaro dasyum agnir jaghanvām̐ adhūnot kāṣṭhā ava śambaraṃ bhet ‖*
+
+(Ṛ. Saṃ. 1-59-6, as printed.) In this Ṛk the Niruktakāra explains *pūravaḥ* as *pūrayitavyāḥ manuṣyāḥ* (Ni. 7-[?]; as read "೭-೨೩"): "men who are to be filled".
+
+***āsā*** — *āsāt* is recorded among the names of near (Ni. 2-[?]; as read "೩-೯"): "near, in the place of divine worship."
+
+***naḥ āsā accha*** — *abhimukhenāgatyābhimatānāṃ voḍhā san anabhimatam apakṛṣya abhimataṃ pūrayasi*: "Indra comes to the place of the sacrifice, to accomplish the wishes of the priests and sacrificers, removes their unwished things and fulfils their wishes": so the meaning.
+
+### Printed p. 389  (PDF 410)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly; numbers as printed).** *nama* — root *ṇamu prahvatve*; *ṇo naḥ* (Pā. 6-1-65) gives *n* for the first letter; since the causative sense is hidden in the root, *loṭ* second person singular gives the form *nama*. *atimatim* — *atikrāntā matir yasmāt saḥ atimatiḥ, tam*; in the *bahuvrīhi* the accent of the first member remains. *tejiṣṭhābhiḥ* — *tejo 'sya asti iti tejasvī*; *asmāyāmedhāsrajo viniḥ* (Pā. 5-2-121) gives *vini*; *atiśayena tejasvī tejiṣṭhaḥ*; when excess is meant, *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55) gives *iṣṭhan*; with it following, *vinmator luk* (Pā. 5-3-65) drops *vin*; *ṭeḥ* (Pā. 6-4-155) drops *ṭi*; *ñnityādir nityam* (Pā. 6-1-197) gives the acute on the first syllable; feminine *ṭāp*; instrumental plural. *ugrābhiḥ* — root *uca samavāye*; *ujjer ndra…* [as read: *ucer rak*, Uṇ. 2-[?]] gives the suffix *ran* by irregular formation; feminine *ṭāp*; in *ugra* the vocative *āmantrita-nighāta*. *neṣi* — root *ṇīñ prāpaṇe*; *ṇo naḥ* gives *n*; *laṭ* second person singular, *sip*; by *bahulaṃ chandasi* the *luk* of *śap*; *sārvadhātukārdhadhātukayoḥ* gives guṇa of the root's *ī*; since it stands at the beginning of the *pāda* [as read] there is no *nighāta*; since the suffix is *p*-marked the root's accent remains. *anenāḥ* — *na vidyate enaḥ yasya saḥ anenāḥ*; *nañsubhyām* (Pā. 6-2-172) gives the acute on the last syllable of the latter member. *manyase* — root *manu avabodhane*, *divādi*; *laṭ* second person singular; because of *yathā* no *nighāta*; *śyan*, being *n*-marked, gives the acute on the first syllable. *parṣi* — root *pṛ pālanapūraṇayoḥ*; *laṭ* second person singular, *sip*; by *bahulaṃ chandasi* the *luk* of *śap*; because of *sip* guṇa of the root; *ra* follows; because it follows a finite verb, *nighāta*. ‖ 5 ‖
+
+***(ornamental rule)***
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 389 (PDF 410): Ṛks 1–5 complete (‖ 5 ‖); resume p. 390 (PDF 411) with Ṛk 6 (Indu/Soma). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382) and Ṛk 5 Saṃhitā/Pada (p. 385: *atimatim*, *araṇebhiḥ* doubtful); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
