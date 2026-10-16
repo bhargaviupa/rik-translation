@@ -15197,4 +15197,52 @@ In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇ
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 written through p. 633 (Special Topics: the Soma-pressing procedure and the Taittirīya Yajus mantras; the passage continues on p. 634); resume p. 634 (PDF 655) — crop PDF 661 on if needed; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 634  (PDF 655)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+> यत्ते सोमादाभ्यं नाम जागृवि तस्मै ते सोम सोमाय स्वाहा ॥
+
+> *yat te somādābhyaṃ nāma jāgṛvi tasmai te soma somāya svāhā ‖*
+
+[With this mantra the *pratiprasthātṛ* gives the Soma-stalks which he has taken, the other six, for [the second pressing] [as read: "the six Soma-stalks are taken by him"].] In this way the origin of the Soma-juice and its purification are described, and then Indra and Vāyu are prayed to come for the drinking of it. The prayer is in the Taittirīya Saṃhitā in this way:
+
+> आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार । उपो ते अन्धो मद्यमयामि यस्य देव दधिषे पूर्वपेयम् । उपयामगृहीतोऽसि वायवे त्वेन्द्रवायू इमे सुताः । उप प्रयोभिरा गतमिन्दवो वामुशन्ति हि । उपयामगृहीतोऽसीन्द्रवायुभ्यां त्वैष ते योनिः सजोषाभ्यां त्वा ॥
+
+> *ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra | upo te andho madyam ayāmi yasya deva dadhiṣe pūrvapeyam | upayāmagṛhīto 'si vāyave tvendravāyū ime sutāḥ | upa prayobhir ā gatam indavo vām uśanti hi | upayāmagṛhīto 'sīndravāyubhyāṃ tvaiṣa te yoniḥ sajoṣābhyāṃ tvā ‖*
+
+(Tai. Saṃ. 1-4-4 [as read].) "O Vāyu, who drinks pure [Soma], with a thousand of your horses give grace to us; for the drinking of the pure juice; the sweet Soma is ready for you; for the first drinking [as before], O Indra and Vāyu: come, with your food, these Soma-juices are prepared and long for you; [I take you] for Indra and Vāyu, [together] pleased; this is your place": such is the prayer to Indra and Vāyu: come, bringing wealth to us; drink this sweet and well-prepared Soma-juice, for it is prepared and ready, being clear and pure.
+
+***vājinam imaṃ vājinaṃ na*** — the word *vājinam* is repeated; the meaning of both words is the same, "moving". The first word is an attribute of *indum*, and gives the sense that it goes quickly [from the *droṇakalaśa*] to the cups [*graha*]; this is compared to a swift horse. The second *vājinam* is an attribute of *atyam*.
+
+***atyam*** — *āsetrita-deśaṃ prati atanaśīlaḥ*: "one who travels continuously to the desired place"; this word is used as a synonym of Agni, of Āditya, and of the horse:
+
+> अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः ।
+
+> *asya śloko divīyate pṛthivyām atyo na yaṃsad yakṣabhṛd vicetāḥ |*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೯೦-೪" [?].) In this, *atanaśīlaḥ* is "Āditya" ["the one who goes constantly"]; in the present Ṛk the synonym is "horse": "the quick-going horse".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar pages, noted briefly; numbers as printed).** *vavṛtyuḥ* — root *vṛtu vartane*; in the sense of intensity, *dhātor ekācaḥ halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22 [as read]) gives *yaṅ*; the *lup* is elided by *anyemitrakavāgi* [as read]; after *yaṅluganta*, *liṭ*, third person plural; *jhi* → *jus*; the *āgama* *yāsuṭ*; *ussya padāntāt* (Pā. 6-1-96 [as read]) gives the single-form (*pararūpa*); as it follows a *tiṅanta*, *nighāta*.
+
+### Printed p. 635  (PDF 656)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+*(Grammar, continued.)* *marmṛjanta* — root *mṛjū śuddhau*; as before the *yaṅ* is *luk*-ed; after *yaṅluganta*, by Vedic usage *laṅ*; *vyatyayo bahulam* gives the Ātmanepada suffix; *jha* → *ata* [as printed]; *guṇo yaṅluk…* (Pā. 7-4-82 [as read]) gives *guṇa* to the reduplicate; as it follows a *tiṅanta*, *nighāta*. *asmayū* — after the word *asmad*, in the sense of *iccha*, *kyac*; after it the suffix *u*; vocative dual; *āmantritasya* gives *nighāta*. *gatam* — root *gam̐lṛ gatau*; *loṭ*, second person dual, *tam*; *chandasy ubhayathā* (Pā. 3-4-117 [as read]) gives the *ārdhadhātuka* term; the suffix is *ṅit* [?], so *anudāttopadeśa…* does not drop the *m* of the root [?]; *anusvāra* with *paravarṇa*; *nighāta* after a *tiṅanta*. *indravāyū* — as *indra* and *vāyu* are well-known deities, *ānaṅ* [before the earlier member] is not ordained here; *devatādvandve ca* (Pā. 6-2-141 [as read]) gives both members their own accent. *vājadā* — *vājaṃ dadāti iti vājadāḥ*; root *ḍudāñ dāne*; *ato 'nupasarge kaḥ* (Pā. 3-2-3 [as read]) gives the suffix *ka*; *āto lopa iṭi ca* (Pā. 6-4-64 [as read]) drops the *ā* of the root; *supāṃ sulug…* (Pā. 7-1-39 [as read]) gives *ā* for the dual ending; *āmantrita-nighāta*. *sutānām* — root *ṣuñ abhiṣave*; *kta* in the passive; by the suffix accent, final udātta; genitive in the object-sense. ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> इमे वां सोमा अप्स्वा सुता इहाध्वर्युभिर्भरमाणा अयंसत वायो शुक्रा अयंसत ।
+> एते वामभ्यसृक्षत तिरः पवित्रमाशवः ।
+> युवायवोऽति रोमाण्यव्यया सोमासो अत्यव्यया ॥ ६ ॥
+
+> *ime vāṃ somā apsvā sutā ihādhvaryubhirbharamāṇā ayaṃsata vāyo śukrā ayaṃsata |*
+> *ete vāmabhyasṛkṣata tiraḥ pavitramāśavaḥ |*
+> *yuvāyavo 'ti romāṇyavyayā somāso atyavyayā ‖ 6 ‖*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 6 begun: Saṃhitā written (p. 635); resume p. 636 (PDF 657) with the Pada (crop from PDF 661 on if needed); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
