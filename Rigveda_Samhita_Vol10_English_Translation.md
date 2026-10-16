@@ -7597,4 +7597,134 @@ shortening; *ātolopa iṭi ca* (Pā. 6-4-64) elides the *ā*; by the suffix acc
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 296 (PDF 317): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā only (as read, "kīstāsaḥ" doubtful); resume p. 297 (PDF 318) with the Ṛk 7 Pada. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 (esp. Ṛk 6 bhāṣya p. 291); Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 297  (PDF 318)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**॥ पदपाठः ॥** *(Ṛk 7)*
+
+> द्विता । यत् । ईम् । कीस्तासः । अभिद्यवः । नमस्यन्तः । उपऽवोचन्त । भृगवः ।
+> मथ्नन्तः । दाशा । भृगवः ।
+> अग्निः । ईशे । वसूनाम् । शुचिः । यः । धर्णिः । एषाम् ।
+> प्रियान् । अपिऽधीन् । वनिषीष्ट । मेधिरः । आ ।
+> वनिषीष्ट । मेधिरः ॥ ७ ॥
+
+> *dvitā | yat | īm | kīstāsaḥ | abhidyavaḥ | namasyantaḥ | upa 'vocanta | bhṛgavaḥ |*
+> *mathnantaḥ | dāśā | bhṛgavaḥ |*
+> *agniḥ | īśe | vasūnām | śuciḥ | yaḥ | dharṇiḥ | eṣām |*
+> *priyān | api 'dhīn | vaniṣīṣṭa | medhiraḥ | ā |*
+> *vaniṣīṣṭa | medhiraḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> यद्यं द्विता द्वित्वमापन्नं द्विप्रकारं श्रौतस्मार्तभेदेन द्वित्वमापन्नम् । यद्वा । उपलक्षणमेतत् । आहवनीयादिरूपेण नानाविधम् । यद्वा । द्विता द्विविधाय ऐहिकामुष्मिकफलायोभयाय । विभक्तेराजादेशः । ईमिममग्निं कीस्तासः कीर्तनं कुर्वन्तः स्तोतारः । पचाद्यचि छान्दसं सत्वम् । अभिद्यवः अभितो द्योतमानाः नमस्यन्तो नमस्कारोपलक्षितमुपस्थानं कुर्वन्तः भृगवः भृगुगोत्रोत्पन्ना महर्षय उपवोचन्त । उपेत्य ब्रुवन्ति । किं कुर्वन्तः । दाशा दानेन निमित्तभूतेन हविर्दानार्थं मथ्नन्तः अरण्योरग्निं मन्थनं कुर्वन्तः तथा भृगवो भ्रष्टारो हविषा पापानां वा । किंच यो ऽग्निः शुचिर्दीप्तो धर्णिर्धारणकुशलो ऽयमग्निरेषां दीयमानानां वसूनां हविर्लक्षणानामीशे ईष्टे । समर्थो भवति । लोपस्त आत्मनेपदेष्विति तलोपः । यद्वा । एषां दृश्यमानानां मणिमुक्तादीनां वसूनामीशे ईष्टे । समर्थो भवति प्रदातुमिति शेषः । किंचायमग्निर्मेधिरः । मेधो यज्ञः । तद्वान् स्वयं यष्टव्यत्वेन प्रधानभूतः सन् प्रियान् स्वप्रीतिहेतून्याज्यादीनपिधीन् पर्याप्तिपर्यन्तं [?] दत्तान्वनिषीष्ट । संभजताम् । संभजतां वा । तथा मेधिरो मेधावान् असौ अन्यदेवताकेष्वपि यज्ञेषु स्वयमाज्यभागप्रयाजादिरूपं हविः संभजते ॥
+
+> *yadyaṃ dvitā dvitvamāpannaṃ dviprakāraṃ śrautasmārtabhedena dvitvamāpannam | yadvā | upalakṣaṇametat | āhavanīyādirūpeṇa nānāvidham | yadvā | dvitā dvividhāya aihikāmuṣmikaphalāyobhayāya | vibhakterājādeśaḥ | īmimamagniṃ kīstāsaḥ kīrtanaṃ kurvantaḥ stotāraḥ | pacādyaci chāndasaṃ satvam | abhidyavaḥ abhito dyotamānāḥ namasyanto namaskāropalakṣitamupasthānaṃ kurvantaḥ bhṛgavaḥ bhṛgugotrotpannā maharṣaya upavocanta | upetya bruvanti | kiṃ kurvantaḥ | dāśā dānena nimittabhūtena havirdānārthaṃ mathnantaḥ araṇyoragniṃ manthanaṃ kurvantaḥ tathā bhṛgavo bhraṣṭāro haviṣā pāpānāṃ vā | kiṃca yo 'gniḥ śucirdīpto dharṇirdhāraṇakuśalo 'yamagnireṣāṃ dīyamānānāṃ vasūnāṃ havirlakṣaṇānāmīśe īṣṭe | samartho bhavati | lopasta ātmanepadeṣviti talopaḥ | yadvā | eṣāṃ dṛśyamānānāṃ maṇimuktādīnāṃ vasūnāmīśe īṣṭe | samartho bhavati pradātumiti śeṣaḥ | kiṃcāyamagnirmedhiraḥ | medho yajñaḥ | tadvān svayaṃ yaṣṭavyatvena pradhānabhūtaḥ san priyān svaprītihetūnyājyādīnapidhīn paryāptiparyantaṃ [?] dattānvaniṣīṣṭa | saṃbhajatām | saṃbhajatāṃ vā | tathā medhiro medhāvān asau anyadevatākeṣvapi yajñeṣu svayamājyabhāgaprayājādirūpaṃ haviḥ saṃbhajate ‖*
+
+*(Read from the image; the OCR is garbled in the middle. "paryāptiparyantam" and the reading of the last clause are small and doubtful.)* "*Yat ayam dvitā* — this [Agni] having become twofold, twofold by the division into *śrauta* and *smārta*; or this is only an indication: of many kinds, by the forms Āhavanīya and so on; or *dvitā* — for the twofold fruit, this-worldly and the next-worldly, both; the ending *ā* by substitution of the case-ending. *Īm* — this Agni — *kīstāsaḥ* — those who sing the praise, the praisers (the Vedic *sat*-form from the suffix *ac* in the *pacādi* class); *abhidyavaḥ* — shining all round; *namasyantaḥ* — doing homage, offering attendance marked by salutation; *bhṛgavaḥ* — the great seers born in the lineage of Bhṛgu *upavocanta* — come near and speak. What are they doing? *Dāśā* — for the giving of oblations, with the giving as the cause; *mathnantaḥ* — churning the fire out of the two *araṇis*; and *bhṛgavaḥ*, the burners — the destroyers of sins by the oblation. Moreover, the Agni who is *śuciḥ* — bright, *dharṇiḥ* — skilled in bearing, this Agni *īśe* — has power over *eṣām vasūnām* — these oblations in the form of what is given; he is capable. Or else, of these visible jewels, pearls and the like, treasures, he is able to give. Moreover this Agni is *medhiraḥ* — *medha* is the sacrifice; he, endowed with it, being chief as himself to be worshipped, *priyān* — dear to himself, ghee and the like, *apidhīn* — as much as are given to satisfaction — *vaniṣīṣṭa* — may he partake; or may he partake of [them]. Likewise *medhiraḥ* — the intelligent, in sacrifices addressed to other deities also, he himself partakes of the oblation in the form of the *ājya-bhāga*, the *prayājas* and the like."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Dvitā* — (in the forms *śrauta* and *smārta*) of two kinds, or of many forms such as the Āhavanīya and the others, or for the twofold fruit of this world and the next; *yat* — which; *īm* — Agni; *kīstāsaḥ* — those who praise; *abhidyavaḥ* — those who make [him] famous; *namasyantaḥ* — [those who] make homage (in the form of attendance); *bhṛgavaḥ* — the sages born of the Bhṛgu lineage; *bhṛgavaḥ* — those who burn up sins, or those who give oblations; *dāśā* — for giving oblations; *mathnantaḥ* — churning (in the *araṇis*); *upavocanta* — come near and praise; *yaḥ agniḥ* — which Agni; *śuciḥ* — shining; *eṣām vasūnām* — of these oblations (of treasures such as jewels); *dharṇiḥ* — the protector; *īśe* — is able to give (them); *(saḥ* — that Agni); *medhiraḥ* — chief in the sacrifice; *apidhīn* — to the satisfied ones; *priyān* — dear (ghee and the like; and satisfaction); *vaniṣīṣṭa* — may he partake; *medhiraḥ* — intelligent Agni; *ā vaniṣīṣṭa* — (in sacrifices for other deities also) may he partake of the share of the oblation.
+
+### Printed p. 298  (PDF 319)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The sages of the Bhṛgu lineage, who in every place make known this Agni who is of the *śrauta* and *smārta* forms or of many forms such as the Āhavanīya (for the sake of attaining the twofold fruit of this world and the next), and who do him homage (in the form of attendance), come near and praise him while churning him for the oblation; the radiant Agni, being the support of the oblations that are given (and of jewels, pearls and the like), is able to give them; and, being chief in the sacrifice, may he accept the dear oblations of those who are satisfied; and, being intelligent, may he accept his share of the oblations (in sacrifices to other deities too).
+
+**Printed English (as printed):** *The descendants of Bhrigu, celebrating him (Agni) in both his forms, glorifying him, and paying him homage, proclaim his praises ; the descendants of Bhrigu, rubbing (the sticks to kindle flame) for the oblation. For the radiant Agni, who is the guardian of all these treasures, has power (to distribute them). May he, the receiver of sacrifices, partake of the agreeable (offerings) given to satiety ; may he, the receiver of sacrifices, partake (of the oblations).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.**
+
+***dvitā īṃ kīstāsaḥ*** — *dvitvam āpannaṃ dviprakāraṃ śrautasmārtabhedena dvitvam āpannam | yadvā dvividhāya aihikāmuṣmikaphalāya ubhayāya imam agniṃ kīrtanaṃ kurvantaḥ stotāraḥ*. For the word *dvitā*, first, they serve Agni both by the order of the observances stated in the *śrauta-sūtra* and by the order of the *smārta* rites stated in the *gṛhya-sūtras*; second, for the fruit that is to be enjoyed in this world and the benefit of the world beyond, in the worlds of virtue, they worship Agni too: this is the meaning he has given.
+
+### Printed p. 299  (PDF 320)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+***bhṛgavo mathnanto dāśā bhṛgavaḥ*** — *bhṛgugotrotpannā maharṣayaḥ havirdānārthaṃ araṇyām agnimathanaṃ kurvantaḥ | tathā bhṛgavaḥ bhrastāro haviṣā pāpānāṃ vā*: the word *bhṛgavaḥ* is said twice. For the first, the great seers born in the Bhṛgu lineage; for the second, "burners of sins" — the great seers of the Bhṛgu lineage who give oblations to Agni so that sins are washed away; they churn Agni in the *araṇis* and produce him. The author of the Nirukta, explaining the word *bhṛgu*, says —
+
+> भृगुरर्चिषि संबभूव भृगुर्भ्रज्यमानो न देहे ॥
+
+> *bhṛgurarciṣi saṃbabhūva bhṛgurbhrajyamāno na dehe ‖*
+
+(Ni. 3-17, as printed "೩-೧೭".) — and describes "the seer Bhṛgu was born from the flame of Agni".
+
+In the sentences of the *vākya* texts, the indeclinables occur as fillers (*padapūraka*) to complete the sentence; in verse-bound usage the indeclinables *kam*, *īm*, *it*, *u* have no meaning, and so they are said to be fillers (*padapūraṇa*) — thus Yāska has explained (Ni. 1-9).
+
+> एमेनं सृजता सुते मन्दिमिन्द्राय मन्दिने । चक्रिं विश्वानि चक्रये ॥
+
+> *emenaṃ sṛjatā sute mandimindrāya mandine | cakriṃ viśvāni cakraye ‖*
+
+(Ṛ. Saṃ. 8-1-[?]-[?], as printed "೮-೧-೨"? — I have read it so; the first numeral is doubtful.) *(Read letter by letter; "emenaṃ" for "enam" as printed.)* Here *īm* is cited as a filler word; and "*pari īm sīm iti vyākhyātāḥ*" is said in the Nirukta (Ni. 5-28 [?], as printed "೫-೨೮").
+
+***agniḥ śuciḥ dharṇiḥ eṣāṃ vasūnām īśe*** — *dīptaḥ dhāraṇakuśalaḥ ayam agniḥ dīyamānānāṃ havirlakṣaṇānām īṣṭe samartho bhavati | yadvā eṣāṃ dṛśyamānānāṃ maṇimuktādīnāṃ vasūnāṃ pradātuṃ samartho bhavati*: Agni is shining, endowed with the power to bear (to support); he is capable in the matter of the oblations that are given, which are of the nature of food; or he is capable of giving the visible treasures, such as jewels and pearls. The author of the Nirukta —
+
+> त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
+> त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥
+
+> *tvamagne dyubhistvamāśuśukṣaṇistvamadbhyastvamaśmanaspari |*
+> *tvaṃ vanebhyastvamoṣadhībhyastvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ‖*
+
+(Ṛ. Saṃ. 2-1-1, as printed "೨-೧-೧".) citing this ṛk, *śuciḥ śocater jvalatikarmaṇaḥ ayam apīta(ra)ḥ śuciḥ etasmād eva jvalati* — the word *śuci* is formed from the root *śuc* meaning "to burn", and so he explains that the word *śuci* means Agni;
+
+### Printed p. 300  (PDF 321)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+and also, stating another view, that this Agni is the worldly fire, he describes the greatness of this Agni, that sins are removed by this Agni.
+
+The word *vasu*, though it has many meanings, is here used in the sense of "wealth" and "food in the form of oblation".
+
+***medhiraḥ*** — *medho yajñaḥ tadvān svayaṃ yaṣṭavyatvena pradhānabhūtaḥ*: the word *medha* is used in the sense of "sacrifice"; Agni himself is the principal deity for those who perform the sacrifice: thus it is described.
+
+***medhira āvaniṣīṣṭa*** — *medhāvān asau anyadevatākeṣv api yajñeṣu svayam ājyabhāgaprayājādirūpaṃ haviḥ saṃbhajate*: here the word *medhira* is explained as "intelligent"; the intelligent Agni, even in sacrifices that are performed with reference to other deities, takes for himself the portions of the oblation, separately, and especially: thus he describes it.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; noted briefly, numbers as read by the OCR and the page).** *dvitā* — the suffix *dhā* in the sense of manner; in the Veda, *ta* is substituted; in the second explanation *supāṃ sulug…* (Pā. 7-1-39) gives *ā* to the case-ending; since *cit*, final-acute. *kīstāsaḥ* — root *kṛta saṃśabdane*; *upadhāyāś ca* (Pā. 7-1-101) gives *i* for the penultimate *ṛ*; *raparatva*; *upadhāyāṃ ca* (Pā. 8-2-78) lengthens it; since it belongs to the *pacādi*, *nandigrahapacādibhyaḥ* (Pā. 3-1-134) gives the suffix *ac*; in the Veda *s* occurs for the *r*; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives *asuk*. *abhidyavaḥ* — *abhigatā dyauḥ yaiḥ te abhidyavaḥ*; the word *abhi* has the final-acute by the *prātipadika* accent; in the *bahuvrīhi* the accent of the first member. *namasyantaḥ* — *namovarivaścitraṅaḥ kyac* (Pā. 3-1-19) gives *kyac* in the sense of worship; after the *kyac*-ending, śatṛ in the laṭ sense; nominative plural; the accent of *kyac* remains. *upavocanta* — root *brūñ vyaktāyāṃ vāci*; in the Veda luṅ in the present sense; third person plural, *anta* in place of *jhi*; when *ci* comes, *bruvo vaciḥ* (Pā. 2-4-53) gives *vac*; *asyativaktikhyātibhyo 'ṅ* (Pā. 3-1-52) gives *aṅ* for *cli*; *vaca um* (Pā. 7-4-20) gives *um* to the root; *bahulaṃ chandasy amāṅyoge 'pi* gives no augment *aṭ*; since *yat* is connected [in the Saṃhitā; as printed], no *nighāta*; since the word has an acute, the *gati* (*upa*) gets the *nighāta* accent by *tiṅ ca udāttavati* (Pā. 8-1-71).
+
+### Printed p. 301  (PDF 322)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+*mathnantaḥ* — root *manth viloḍane*; Kryādi; śatṛ in the laṭ sense; *śnā*; *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the *ā*; first-syllable acute of the suffix. *dāśā* — root *dāś dāne*; *kvip*; instrumental singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the case-ending. *īśe* — root *īśa aiśvarye*; Adādi; laṭ third person singular *ta*; *ṭita ātmanepadānāṃ ṭer e* gives *e* for *ṭi*; *ādiprabhṛtibhyaḥ śapaḥ* gives *luk* of *śap*; *lopas ta ātmanepadeṣu* (Pā. 7-1-41) elides the *t* of the ending; *tiṅ-nighāta*. *dharṇiḥ* — root *dhṛñ dharaṇe*; Uṇādi suffix *ni*; taking it as cause, guṇa of the root; final-acute by the suffix accent. *apidhīn* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *upasarge ghoḥ kiḥ* (Pā. 3-3-92) gives *ki*; *ātolopa iṭi ca* (Pā. 6-4-64) elides the *ā* of the root; in the *prādi*-compound the accent of the final member; accusative plural. *vaniṣīṣṭa* — root *vana saṃbhaktau*; *vyatyayo bahulam* (Pā. 3-1-85) gives *ātmanepada*; liṅ third person singular; since it follows a non-verb word, the *nighāta*. *medhiraḥ* — root *medhṛ medhāhiṃsanayoḥ*; the Uṇādi suffix *iran*; *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute. ‖ 7 ‖
+
+#### Ṛk 8
+
+### Printed p. 302  (PDF 323)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ संहितापाठः ॥**
+
+> विश्वासां त्वा विशां पतिं हवामहे सर्वासां समानं दम्पतिम् ।
+> भुजे सत्यगिर्वाहसं भुजे ।
+> अतिथिं मानुषाणां पितुर्न यस्यासया ।
+> अमी च विश्वे अमृतास आ वयो हव्या देवेष्वा वयः ॥ ८ ॥
+
+> *viśvāsāṃ tvā viśāṃ patiṃ havāmahe sarvāsāṃ samānaṃ dampatim |*
+> *bhuje satyagirvāhasaṃ bhuje |*
+> *atithiṃ mānuṣāṇāṃ piturna yasyāsayā |*
+> *amī ca viśve amṛtāsa ā vayo havyā deveṣvā vayaḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वासाम् । त्वा । विशाम् । पतिम् । हवामहे । सर्वासाम् । समानम् । दम्ऽपतिम् । भुजे ।
+> सत्यऽगिर्वाहसम् । भुजे ।
+> अतिथिम् । मानुषाणाम् । पितुः । न । यस्य । आसया ।
+> अमी इति । च । विश्वे । अमृतासः । आ । वयः । हव्या । देवेषु । आ । वयः ॥ ८ ॥
+
+> *viśvāsām | tvā | viśām | patim | havāmahe | sarvāsām | samānam | dam 'patim | bhuje |*
+> *satya 'girvāhasam | bhuje |*
+> *atithim | mānuṣāṇām | pituḥ | na | yasya | āsayā |*
+> *amī iti | ca | viśve | amṛtāsaḥ | ā | vayaḥ | havyā | deveṣu | ā | vayaḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वासां सर्वासां विशां प्रजानां यजमानानां पतिमभिमतफलदानेन पालकं हवामहे । आह्वयामः । न केवलं यजमानानां किंतु सर्वासां प्रजानां समानमेकरूपं दहनपचनाद्युपकारस्य सर्वेषां समत्वात् । तथा दंपतिं गार्हपत्यादिरूपेण गृहस्य पालकम् । दम इति गृहनाम दमूनाः क्रतुरिति तन्नामसु पाठात् । अकारलोपश्छान्दसः । किमर्थम् । भुजे भोगाय हवामहे । आह्वयामः । पुनः स एव विशेष्यते । सत्यगिर्वाहसं यथार्थभूतानामविसंवादिफलानां स्तुतिरूपाणां गिरां वोढारम् । यद्वा । गिरो मन्त्ररूपा वहन्तीति गिर्वाहसः ऋत्विजः । सत्या अविसंवादिफला गिर्वाहसो यस्य तं तादृशं हवामह इति शेषः । वहिहाधाञ्भ्य इत्यसुन् । नित्वादाद्युदात्तत्वम् [?] । पुनः कीदृशं मानुषाणां मनुष्याणामतिथिमतिथिवत्पूज्यं दर्शनादतिथिमिव सर्वदा आगन्तारं वा । किंच यस्याग्नेरासया आस्येन [?] आस्येत्यन्तिकनाम आसन्नमित्यादि तन्नामसु पाठात् । तत्समीपे ऽमी विश्वे ऽमृतासो हविर्भोक्तृत्वेन प्रसिद्धाः सर्वे देवा अस्मिन्गच्छन्ति । उपसर्गव्यत्य [?]…
+
+> *viśvāsāṃ sarvāsāṃ viśāṃ prajānāṃ yajamānānāṃ patimabhimataphaladānena pālakaṃ havāmahe | āhvayāmaḥ | na kevalaṃ yajamānānāṃ kiṃtu sarvāsāṃ prajānāṃ samānamekarūpaṃ dahanapacanādyupakārasya sarveṣāṃ samatvāt | tathā daṃpatiṃ gārhapatyādirūpeṇa gṛhasya pālakam | dama iti gṛhanāma damūnāḥ kraturiti tannāmasu pāṭhāt | akāralopaśchāndasaḥ | kimartham | bhuje bhogāya havāmahe | āhvayāmaḥ | punaḥ sa eva viśeṣyate | satyagirvāhasaṃ yathārthabhūtānāmavisaṃvādiphalānāṃ stutirūpāṇāṃ girāṃ voḍhāram | yadvā | giro mantrarūpā vahantīti girvāhasaḥ ṛtvijaḥ | satyā avisaṃvādiphalā girvāhaso yasya taṃ tādṛśaṃ havāmaha iti śeṣaḥ | vahihādhāñbhya ityasun | nitvādādyudāttatvam [?] | punaḥ kīdṛśaṃ mānuṣāṇāṃ manuṣyāṇāmatithimatithivatpūjyaṃ darśanādatithimiva sarvadā āgantāraṃ vā | kiṃca yasyāgnerāsayā āsyena [?] āsyetyantikanāma āsannamityādi tannāmasu pāṭhāt | tatsamīpe 'mī viśve 'mṛtāso havirbhoktṛtvena prasiddhāḥ sarve devā asmingacchanti | upasargavyatya [?]…*
+
+*(Read from the image; the end of this sentence continues on p. 303, and the readings marked [?] are doubtful in the small type.)*
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 302 (PDF 323): Ṛks 1–7 complete (‖ 7 ‖); Ṛk 8 Saṃhitā/Pada done and bhāṣya begun (breaks off mid-sentence at the foot of p. 302, "…upasarga-vyatya[?]"); resume p. 303 (PDF 324). Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya.
