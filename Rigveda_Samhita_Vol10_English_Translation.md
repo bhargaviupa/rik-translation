@@ -1814,4 +1814,63 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 67 (PDF 88): Ṛk 14 complete (with the seven-case *asme* discussion); Ṛk 15 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha done; its printed English begins on p. 68 (PDF 89). Printed page = PDF − 21. No OCR beyond printed p. 36; Ṛk references on pp. 64–65 and sūtra numbers on grammar pages are partly omitted/`[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 68  (PDF 89)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Printed English of Ṛk 15 (as printed):** *The four (silly) sons of Masarsara, the three of the victorious monarch Ayavasa, (annoy) me. Let your spacious and bright-rayed chariot, Mitra and Varuna, blaze (before them) like the sun, (filling them with fear).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 15.**
+
+***maśarśārasya, āyavasasya*** — The commentator's explanation is that these are names of two kings. Who are they? Their story is not told. Since their names are not found elsewhere in the Ṛgveda either, more details cannot be learned. A German scholar named Ludwig has held that *Maśarśāra* is *Murmurāra*, *Nāpusasa*; but there is no proper evidence for it.
+
+***dīrghāpsāḥ*** — *apsas* is recorded among the fifteen names of form (Ni. 3-1[?], as read). *Dīrgha* means large, extended; the chariot is "of large, extended form".
+
+***syūmagabhastiḥ*** — *syūmam iti sukhanāma* — "*syūma* means comfort-giving; *gabhasti* — a light or rays": the sense is "with comforting rays".
+
+> रथो वां मित्रावरुणा दीर्घाप्साः स्यूमगभस्तिः सूरो नाद्यौत् ।
+
+> *ratho vāṃ mitrāvaruṇā dīrghāpsāḥ syūmagabhastiḥ sūro nādyaut |*
+
+(Ṛ. Saṃ. 1-122-15.) Mitra and Varuṇa, [we pray], may your chariot, of very bright form, though comforting for the eyes of those who worship, be fierce and terrible, like the light of the Sun, to our enemies — thus Mitra and Varuṇa are prayed.
+
+As to the chariot of Mitra and Varuṇa, whose form is mild to the eyes of the worshippers:
+
+> दर्शं नु विश्वदर्शतं दर्शं रथमधि क्षमि । एता जुषत मे गिरः ॥
+
+> *darśaṃ nu viśvadarśataṃ darśaṃ rathamadhi kṣami | etā juṣata me giraḥ ‖*
+
+(Ṛ. Saṃ. 1-3?-[?], as read.) Punaḥśepa says that the chariot of Mitra and Varuṇa is seen by all, and that he himself saw it.
+
+> हिरण्यरूपमुषसो व्युष्टावयःस्थूणमुदिता सूर्यस्य ।
+> आ रोहथो वरुण मित्र गर्तमतश्चक्षाथे अदितिं दितिं च ॥
+
+> *hiraṇyarūpamuṣaso vyuṣṭāvayaḥsthūṇamuditā sūryasya |*
+> *ā rohatho varuṇa mitra gartamataścakṣāthe aditiṃ ditiṃ ca ‖*
+
+(Ṛ. Saṃ. 5-6[?]-[?], as read.) In ṛks such as these the matter of Mitra and Varuṇa mounting the chariot is described.
+
+### Printed p. 69  (PDF 90)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3 [Varga 4 begins at the Sūkta that follows]".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 15, noted briefly; sūtra numbers not reproduced).** *Catvāraḥ* — the word *catur*; in the nominative plural, *catur anaḍuhor āmudāttaḥ* — the augment *ām* with the acute; since it is *mit*, it comes after the last vowel. *Maśarśārasya* — the root *śṝ hiṃsāyām*; after a *ṇijanta*, the suffix *ghañ*; *vṛddhi* of the root's *ṛ*, with *ra*; the initial acute by *ñnityādir nityam*; in the compound, *gatikārakopapadāt kṛt* — the accent of the final member by the accent of the original; genitive singular. *Śiśvaḥ* — *śiśu + jas*; *jasādiṣu chandasi vā vacanam* — by this statement, and *jasi ca* — no guṇa comes; *iko yaṇaci* — *yaṇ* substitution. *Jiṣṇoḥ* — the root *ji jaye*; *glājisthaś ca gnuḥ* — the suffix *gnu*; since it is *git*, *kṅiti ca* — guṇa is prohibited; *ādeśapratyayayoḥ* — the *s* of the suffix becomes *ṣ*; the final acute by the suffix accent; genitive singular. *Mitrāvaruṇā* — *devatādvandve ca* — *ānaṅ* for the former member; the dual ending *au*, and *supāṃ sulug…* — *ā* for it; *āmantritasya ca* — the *nighāta*. *Syūmagabhastiḥ* — *syūmāḥ gabhastayaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Adyaut* — the root *dyut dīptau*; *chandasi luṅlaṅliṭaḥ* — *luṅ* in the sense of *loṭ*; though it is *ātmanepadin*, *dyudbhyo luṅi* — it becomes *parasmaipadin*; 3rd singular, *tip*; *iś ca* — the loss of its *i*; *cleḥ sic* — the substitute *sic*; *bahulaṃ chandasi* — the augment *aṭ* does not come; *sici vṛddhiḥ parasmaipadeṣu* — *vṛddhi* of the root since *sic* follows a *parasmaipada* suffix; the stem is *adyaut + s + t*; *halṅyābbhyo dīrghāt…* — the loss of the suffix; *saṃyogāntasya lopaḥ* — the loss of the *s* of *sic*; the form *adyaut*. Or: the root *dya abhigamane* …
+
+### Printed p. 70  (PDF 91)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, concluded (Ṛk 15).** …*ādādika*; in the Vedic way *luṅ*; 3rd singular *tip*, its *i* is dropped; *ato vṛddhir luki hali* — *vṛddhi* for the *u*; by the same [process] the form arises; since it follows an *atiṅanta*, by *tiṅ atiṅaḥ* the *nighāta*. ‖ 15 ‖
+
+**Colophon of the Sūkta (Kannada):** *illige nūra ippatteraḍane sūkta mugidudu* — "Here the hundred-and-twenty-second Sūkta ends."
+
+## Sūkta 123 — *pṛthū rathaḥ* (begins at the foot of printed p. 70; the contents table gives p. 71)
+
+**Heading (Kannada):** *nūra ippattamūraneya sūktavu* — "The hundred-and-twenty-third Sūkta."
+
+This Sūkta, like the one that follows, is addressed to Uṣas. In this first Maṇḍala the following are the only Sūktas addressed to Uṣas: 30th Sūkta, ṛks 20–22 [?]; the 48th Sūkta (15 ṛks) [?], the 49th Sūkta (4 ṛks) [?], the 92nd Sūkta (18 ṛks) [?], the 113th Sūkta (20 ṛks) [?], the 123rd Sūkta (13 ṛks) [?] and the 124th Sūkta (13 ṛks) [?] (the numerals in this passage are small and were read at 150 dpi only). Leaving aside the last two of these, the others were explained in the earlier parts; now we shall comment on the 123rd and 124th Sūktas.
+
+About the deity Uṣas, Yāska says: *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ* (Ni. 2-19 [?], as read): that is, who is the deity Uṣas? What is her nature? What is the reason for this name? Raising such questions he says: *uṣaḥ kasmāt | ucchatīti satyaḥ | ucchī vivāse | vivāsayati hīyaṃ tamāṃsi tasmād ucchatīty enam asyāḥ karttari kārake uṣā ity etad abhidhānaṃ bhavati | kā punar iyam uṣā iti | rātrer aparaḥ kālaḥ sa uṣā ity ucyate* — he explains that the name is formed from the root *ucchī vivāse* ("to shine out"), which has the sense of "to send out". What is sent out? Darkness. Because this deity dispels darkness and spreads light, she is called Uṣas. And that time is what? The last part of the night: the time that has no darkness and is full of light, just before sunrise as the night ends, is named *uṣaḥkāla*, "dawn-time".
+
+"Since the dawn-time arrives after the night passes, the dawn-time is said to be born from the night" — a custom. To support this, Yāska:
+
+*(The verse that Yāska cites continues at the top of p. 71, where it is given in full; it is not written here to avoid reproducing a half-read line.)*
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 complete (printed pp. 1–70, closing line "illige nūra ippatteraḍane sūkta mugidudu"). Sūkta 123 (*pṛthū rathaḥ*) has begun at the foot of printed p. 70 (the contents table gives p. 71): its introduction on Uṣas and Yāska's Nirukta passage is partly written; the verse Yāska cites and the rest continue on p. 71 (PDF 92, header "Aṣṭaka 2, Adhyāya 1, Varga 4" expected). Printed page = PDF − 21. No OCR beyond printed p. 36; many Ṛk/sūtra numerals on pp. 37–70 are my own small-type readings (`[?]`) or omitted. Sūkta starts: 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
