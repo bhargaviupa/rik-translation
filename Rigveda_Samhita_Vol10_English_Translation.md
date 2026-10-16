@@ -10222,4 +10222,86 @@ of the enemy, sent against us with such force, is made to perish itself by Indra
 
 ---
 
-**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 405 (PDF 426): Ṛks 1–8 complete (‖ 8 ‖); Ṛk 9 (Atiśakvarī) Saṃhitā/Pada/bhāṣya/Pratipadārtha done and the Bhāvārtha begins at the foot of p. 405 ("O Indra, free from Rākṣasas … be with us even when you are far away…; (even when you are at"); resume p. 406 (PDF 427) with the rest of the Ṛk 9 Bhāvārtha, English, Special Topics. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393), Ṛk 7 bhāṣya (p. 396), Ṛk 8 bhāṣya (pp. 400–401) and Ṛk 9 Pada (*astam-īke*) / bhāṣya (p. 405); a slip in the Ṛk 9 Saṃhitā ("pathām̐" should read *pathā*) — see the note on p. 404; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 406  (PDF 427)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+*(Bhāvārtha of Ṛk 9, continued from p. 405:)* "…(even when you are at) the places, in the sacrificial hall, near at hand, and when you favour the sacrifice (by means of the sacrifice); ever give the desired objects, and (coming to the sacrifice) protect us."
+
+**Printed English (heading "English Translation"; as printed):** *"Indra, come to us with abundant riches by a path free from evil; (by a path) unobstructed by Rakshasas: be with us when afar; be with us when nigh; favour us, whether afar or nigh, with the objects of our desires; ever favour us with the objects of our desires."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 9).**
+
+***arakṣasā anehasā pathā yāhi*** — *rakṣovarjitena āpāpena asmatsambandhinā mārgeṇa | yadvā naḥ asmān uddiśya yāhi | yajñāgamanamārgasya stutyoditatvāt anehastvam*: "Indra is prayed to come to our sacrifice by the path that is free of sin and purified, in which the Rākṣasas do not move, along which we invoke him; or he is prayed to come with the purpose of protecting us who praise him": two kinds of meaning are given. (The path of coming to the sacrifice is called "sinless" because it has been spoken of in the praise.)
+
+***naḥ parāke ā sacasva*** — *asmān atyantadūradeśāt svargalakṣaṇāt samavetaḥ bhava*: "Indra, from heaven, which is very distant, come together with us." Since *āke, parāke, parācaiḥ* are recorded among the five names of "far" (Ni. 3-20 [?]), *parāke* means "far".
+
+***asmīke sacasva*** — *atyantāntike devayajanadeśe asmatsambandhi havis sevasva saṅgacchasva vā*: "Indra, come to the sacrificial hall, which is very near, and accept the oblations we offer, or be together with us." Since *tālit* [?], *āsāt* and others are recorded among the names of near (Ni. 2-[?]; as read "೩-೯"), the word *asmīke* is explained.
+
+***ārāt*** — *sannihitāt ihalokāt yadvā dūrāt*: "when Indra is at hand, because he accepts the oblation, and when the sacrifice goes on; when far away in heaven — may he protect us from places and times far and near, by space and time."
+
+### Printed p. 407  (PDF 428)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+***abhiṣṭibhiḥ*** — *abhimukhyaiḥ yāgaiḥ yadvā kanyāvāgaiḥ* [as read, doubtful: [?]] *yāgaiḥ yadvā abhyāgamanaiḥ — abhita eṣaṇaiḥ*: "the means of fulfilling the sacrifice that makes Indra turn toward us, or by Indra's visits, or at the time of sacrifice, when the sacrifice is not being performed, far away or near, may he grant the many kinds of wishes the sacrificer prays for and protect us": so he blesses.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly; numbers as printed).** *rāyā* — the stem *rai*; instrumental singular; *ūḍidaṃ padādi…* (Pā. 6-1-171) gives the acute to the ending. *parīṇasā* — root *ṇasa kauṭilye*; *parito nasati iti parīṇasaḥ*; *ṇo naḥ* gives *n* for the first letter; *kvip ca* gives *kvip*; *nipātasya ca* (Pā. 6-3-136) lengthens the preposition; *upasargād asamāse 'pi ṇopadeśasya* (Pā. 8-4-14) gives *ṇ* for the *n* of the root; instrumental singular; the acute on the first syllable by the suffix. *yāhi* — root *yā prāpaṇe*; *loṭ* second person singular; since *hi* is prescribed as *apit*, the acute [on the ending]. *pathā* — the stem *pathin*; since the instrumental singular follows, *bhasya ṭer lopaḥ* (Pā. 7-1-88) drops *ṭi* (*in*); *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161) gives the acute to the ending; *ato 'prgṛhyasyā…* [as read: Pā. 8-4-57] the *ā* is nasalized [?]. *anehasā*, *arakṣasā* — *nañ* + a prior member, *bahuvrīhi*; *nañsubhyām* (Pā. 6-2-172) gives the acute on the last syllable of the latter member. *sacasva* — root *saca samavāye*; *loṭ* second person singular; because it stands at the beginning of the *pāda* there is no *nighāta*; *tāsyanudāttenṅidvidāder…* (Pā. 6-1-186) makes the *lasārvadhātuka* unaccented so that the root's accent remains. *pāhi* — root *pā rakṣaṇe*; *loṭ* second person singular; no *nighāta* at the beginning of the *pāda*; as *hi* is prescribed, the accent of the suffix. *abhiṣṭibhiḥ* — root *iṣu icchāyām*; *striyāṃ ktin* gives *ktin*; *titutratatha…* (Pā. 7-2-9) forbids *iṭ*; *vimunnādiṣu chandasi pararūpam vaktavyam* (vārttika on Pā. 6-1-94 [?]) gives *pararūpa*; *tāddau ca niti kṛtyatau* (Pā. 6-2-50) gives the prefix (*abhi*) its natural accent; instrumental plural. ‖ 9 ‖
+
+***(ornamental rule)***
+
+### Printed p. 408  (PDF 429)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 129".)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> त्वं न इन्द्र राया तरूषसोग्रं चित्त्वा महिना सक्षदवसे महे मित्रं नावसे ।
+> ओजिष्ठ त्रातरविता रथं कं चिदमर्त्य ।
+> अन्यमस्मद्रिरिषेः कं चिदद्रिवो रिरिक्षन्तं चिदद्रिवः ॥ १० ॥
+
+> *tvaṃ na indra rāyā tarūṣasograṃ cittvā mahinā sakṣadavase mahe mitraṃ nāvase |*
+> *ojiṣṭha trātaravitā rathaṃ kaṃ cidamartya |*
+> *anyamasmadririṣeḥ kaṃ cidadrivo ririkṣantaṃ cidadrivaḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । नः । इन्द्र । राया । तरूषसा । उग्रम् । चित् । त्वा । महिना । सक्षत् । अवसे ।
+> महे । मित्रम् । न । अवसे ।
+> ओजिष्ठ । त्रातः । अविता [?] । रथम् । कम् । चित् । अमर्त्य ।
+> अन्यम् । अस्मत् । रिरिषेः । कम् । चित् । अद्रिवः । रिरिक्षन्तम् । चित् । अद्रिवः ॥ १० ॥
+
+> *tvam | naḥ | indra | rāyā | tarūṣasā | ugram | cit | tvā | mahinā | sakṣat | avase |*
+> *mahe | mitram | na | avase |*
+> *ojiṣṭha | trātaḥ | avitā [?] | ratham | kam | cit | amartya |*
+> *anyam | asmat | ririṣeḥ | kam | cit | adrivaḥ | ririkṣantam | cit | adrivaḥ ‖ 10 ‖*
+
+*(Read from the image; in the Saṃhitā I read "*mahinā*" ("ಮಹಿನಾ") and in the Pada "*mahinā*" (the bhāṣya's "*mahimā*" is the printed explanation); *avitā* is doubtful in the Pada: [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं नोऽस्मांस्तरूषसा तरणकुशलेनास्मानापद्भ्य उत्तारयितुं शक्तेन रायो धनेनोपेतर्ता भवेति शेषः । हे इन्द्र त्वा त्वामुग्रं जिदूर्णबलं [?] सन्तं त्वामेव महिना महत्त्वेन मदस्तोत्रजनितः कश्चिदतिशयः सक्षत् । सेवते । सम्भजते । उत्कर्षयतीत्यर्थः । किमर्थम् । आवसे तृप्तीतये । तत्र दृष्टान्तः । महे महते वसे रक्षणाय प्रकाशरोगादिरूपाय मित्रं न सर्वजनमित्रं सूर्यमिव । तं यथा महत्त्वेन संयोजयन्ति तथेत्यर्थः । यद्वा । मित्रं न प्रियहितरूपं सखायमिव । तं यथा महत्त्वे प्रीतये सम्भजन्ते तद्वत् । किंच हे ओजिष्ठ ओजस्वितम त्रातः रक्षितरस्मान् पालयितर्वा अमर्त्य मरणधर्मरहितेन्द्र अविता रक्षणेन तर्पयिता त्वं कं चिद्रथं वेगवन्तमारुह्यास्मद्देवयजनं शीघ्रमागच्छेति शेषः । तथा हे अद्रिवो वज्रवन्निन्द्र अस्मदन्यं रिरिषेः । बाधस्व । तथा हे अद्रिवः शत्रूणामतिशयेन भक्षकेन्द्र अस्मदन्यं रिरिक्षन्तं चिदल्पं महान्तं वा शत्रुमिति शेषः रिरिषेः । बाधस्व । तथा हे अद्रिवो द्रोरादर्तर्भक्षकवा [?] शत्रूणाम् । अद्रिवन्नद्रिराद्यात्कृतेनापि वाक्त्री स्यादिति निरुक्तम् [?] । नि. ६-४ [?] । रिरिक्षन्तम्
+
+> *he indra tvaṃ no 'smāṃstarūṣasā taraṇakuśalenāsmānāpadbhya uttārayituṃ śaktena rāyo dhanenopetartā bhaveti śeṣaḥ | he indra tvā tvāmugraṃ jidūrṇabalaṃ [?] santaṃ tvāmeva mahinā mahattvena madastotrajanitaḥ kaścidatiśayaḥ sakṣat | sevate | sambhajate | utkarṣayatītyarthaḥ | kimartham | āvase tṛptītaye | tatra dṛṣṭāntaḥ | mahe mahate vase rakṣaṇāya prakāśarogādirūpāya mitraṃ na sarvajanamitraṃ sūryamiva | taṃ yathā mahattvena saṃyojayanti tathetyarthaḥ | yadvā | mitraṃ na priyahitarūpaṃ sakhāyamiva | taṃ yathā mahattve prītaye sambhajante tadvat | kiṃca he ojiṣṭha ojasvitama trātaḥ rakṣitarasmān pālayitarvā amartya maraṇadharmarahitendra avitā rakṣaṇena tarpayitā tvaṃ kaṃ cidrathaṃ vegavantamāruhyāsmaddevayajanaṃ śīghramāgaccheti śeṣaḥ | tathā he adrivo vajravannindra asmadanyaṃ ririṣeḥ | bādhasva | tathā he adrivaḥ śatrūṇāmatiśayena bhakṣakendra asmadanyaṃ ririkṣantaṃ cidalpaṃ mahāntaṃ vā śatrumiti śeṣaḥ ririṣeḥ | bādhasva | tathā he adrivo drorādartarbhakṣakavā [?] śatrūṇām | adrivannadrirādyātkṛtenāpi vāktrī syāditi niruktam [?] | ni. 6-4 [?] | ririkṣantam*
+
+### Printed p. 409  (PDF 430)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 18 [as read].)*
+
+> चिदेत्यन्तं कुत्सितं हिंसन्तमपि शत्रुं रिरिषेः । बाधस्व ॥ रिष हिंसायाम् । छान्दसः शप् श्लुः । पुनर्व्यत्ययेन शः । रिरिक्षन्तम् । अस्मादेव सनि हलन्ताच्चेति सनः किद्भावः [?] । चिदित्यकुत्सितः [?] । कुल्माषाङ्कि [?] … इति यास्केनोक्तत्वात् । नि. १-४ [?] । यद्वा । समुच्चयार्थः । कंचिदित्येन सह समुच्चीयते ॥
+
+> *cidetyantaṃ kutsitaṃ hiṃsantamapi śatruṃ ririṣeḥ | bādhasva ‖ riṣa hiṃsāyām | chāndasaḥ śap śluḥ | punarvyatyayena śaḥ | ririkṣantam | asmādeva sani halantācceti sanaḥ kidbhāvaḥ [?] | cidityakutsitaḥ [?] | kulmāṣāṅki [?] … iti yāskenoktatvāt | ni. 1-4 [?] | yadvā | samuccayārthaḥ | kaṃcidityena saha samuccīyate ‖*
+
+*(Read from the image; the clauses on *adrivaḥ* and on *ririkṣantam* are small and in parts illegible: I give them as read with [?]. Sense: "O Indra, bring us across [calamity] with wealth that is *tarūṣasā* — skilled in carrying across, able to take us across distress — you be [the one that gives it]. O Indra, you, the fierce (*ugra*), of mighty strength, this greatness of yours, produced by praise-hymns, *sakṣat* — serves you, i.e. exalts you. For what? for *avase* — for pleasing: example: *mahe avase mitraṃ na* — as the sun, the friend of all people, whose form is light and so on, for the great protection (*mahe avase*): as they join him to greatness, so; or like a friend who is dear and beneficial, as they approach him with delight in greatness. And O most mighty (*ojiṣṭha*) protector (*trātaḥ*), O immortal Indra, satisfying us by protection, mount a swift chariot and come quickly to our place of worship. O *adrivaḥ* — possessing the thunderbolt — harass (*ririșeḥ*) any other than us; O *adrivaḥ* — devourer of enemies — harass any enemy (small or great) who wishes to hurt us (*ririkṣantam*) even if base (*cit*)…")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *tvam* — you; *naḥ* — us; *tarūṣasā* — able to carry us over calamities; *rāyā* — with wealth (supply us); *ugram* — fierce; *tvā cit* — you yourself; *mahinā* — by greatness (produced by our praises); *mahe* — great; *avase* — for pleasing (for health and the like, for the sake of affection); *mitram na* — like the Sun (the friend); *avase* — for your pleasure; *sakṣat* — serves; *(kiṃ ca* — and); *ojiṣṭha* — most mighty; *trātaḥ* — protector; *amartya* — immortal, O Indra; *avitaḥ* [as printed: *avite*] — you who gratify (us with wealth and the like); *kaṃ cit ratham* — any chariot; *(ārohya* — mounting); *adrivaḥ* — O destroyer (devourer) of enemies; *indra* — O Indra; *asmat* — us; *anyam ririkṣantam cit* — any other who wishes to harm; *ririṣeḥ* — harass; *he adrivaḥ* — O mountain-wielder; *kaṃ cit* — any (harmful) one; *(ririṣeḥ* — harass: *bādhasva*).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, raise us with wealth that is able to remove calamities (the greatness that arises from our praise); we serve you, the fierce, for health and the like, with affection, as we serve the Sun, our friend, for great well-being; O mightiest, protector, immortal one, gratifying us with wealth and the like — mount any swift chariot and come to our place of sacrifice; and likewise destroy whoever else, other than us, wishes to harm us. O Indra, O wielder of the mountain, destroy our enemies.
+
+**Printed English (heading "English Translation"; begins at the foot of p. 409):** *"Indra, (sustain us) with wealth that transports (man beyond calamity); for, (enhanced) greatness accrues to you, however mighty (from our thanks) for (your) protection, as it does to Mitra for his powerful,"* [continues on p. 410]
+
+---
+
+**Progress note:** Sūkta 129 (*yaṃ tvaṃ ratham indra*, 11 ṛks, Paruccheṣa, Indra [Ṛk 6 Indu], Atyaṣṭi; Anuvāka 19; printed pp. 364–416) through printed p. 409 (PDF 430): Ṛks 1–9 complete (‖ 9 ‖); Ṛk 10 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha written; the printed English begins at the foot of p. 409 ("Indra, (sustain us) with wealth that transports … as it does to Mitra for his powerful,"); resume p. 410 (PDF 431) with the rest of the Ṛk 10 English, Special Topics, grammar, then Ṛk 11 (last; Aṣṭi) and the closing line (Sūkta 130 begins p. 417). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 Ṛk 2 (pp. 371, 373), Ṛk 3 (p. 377, corrected on p. 379), Ṛk 4 bhāṣya (p. 382), Ṛk 5 (p. 385), Ṛk 6 (pp. 390–393), Ṛk 7 bhāṣya (p. 396), Ṛk 8 bhāṣya (pp. 400–401), Ṛk 9 Pada/bhāṣya (p. 405; slip "pathām̐" in the Saṃhitā, see p. 404 note) and Ṛk 10 bhāṣya (pp. 408–409); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
