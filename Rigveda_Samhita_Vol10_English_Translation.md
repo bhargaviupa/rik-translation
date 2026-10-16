@@ -2132,4 +2132,151 @@ Yāska in the Nirukta has given the derivation of the word *dakṣiṇā* in sev
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 123 (*pṛthū rathaḥ*) through printed p. 78 (PDF 99): introduction (Uṣas epithets, Anuvāda p. 73) and Ṛk 1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics) done; Ṛk 1 grammar page begun on p. 78 (*ayoji* … *cikitsantī*), continues on p. 79 (PDF 100). The reader's OCR (Google Docs) now covers printed pp. 39–79 only; from p. 80 numerals are my own reading. Printed page = PDF − 21. Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 79  (PDF 100)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Grammar page, concluded (Ṛk 1; sūtra numbers as read by the reader's OCR for pp. 78–79).** *Cikitsantī* (concluded) — in the feminine *ṅīp*; since it is *ugit*, the augment *num*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute. *Mānuṣāya* — *manor jātāv aṇyatau ṣuk ca* (Pā. Sū. 4-1-161) the suffix *añ* [as printed "*a*-suffix"], and by its conjunction the augment *ṣuk*; *taddhiteṣv acām ādeḥ* the *vṛddhi* of the first vowel; *ñnityādir nityam* the first-syllable acute; dative singular. *Kṣayāya* — the root *kṣi nivāsagatyoḥ*; *aco yat* (Pā. Sū. 3-1-97) the suffix *yat*; *yato 'nāvaḥ* (Pā. Sū. 6-1-213) the first-syllable acute; the suffix as the cause, guṇa of the root's *i* and the *ay*-substitute; dative singular. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> पूर्वा विश्वस्माद्भुवनादबोधि जयन्ती वाजं बृहती सनुत्री ।
+> उच्चा व्यख्ययुवतिः पुनर्भूरोषा अगन्प्रथमा पूर्वहूतौ ॥ २ ॥
+
+> *pūrvā viśvasmādbhuvanādabodhi jayantī vājaṃ bṛhatī sanutrī |*
+> *uccā vyakhyayuvatiḥ punarbhūroṣā aganprathamā pūrvahūtau ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> पूर्वा । विश्वस्मात् । भुवनात् । अबोधि । जयन्ती । वाजम् । बृहती । सनुत्री ।
+> उच्चा । वि । अख्यत् । युवतिः । पुनःऽभूः । आ । उषाः । अगन् । प्रथमा । पूर्वऽहूतौ ॥ २ ॥
+
+> *pūrvā | viśvasmāt | bhuvanāt | abodhi | jayantī | vājam | bṛhatī | sanutrī |*
+> *uccā | vi | akhyat | yuvatiḥ | punaḥ 'bhūḥ | ā | uṣāḥ | agan | prathamā | pūrva 'hūtau ‖ 2 ‖*
+
+*(I read the second line's* व्यख्यत्‌ *as* वि अख्यत्; *the Saṃhitā's* ऊर्ध्वा/उच्चा *is as printed* उच्चा.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वस्माद्भुवनात्सर्वस्मात्सुप्ताद्भूतजातात्पूर्वा प्रथमा सेयमुषा अबोधि । बुद्धाभूत् । उषःकालमुपगम्य हि पश्चात्सर्वे प्राणिनः प्रतिबुध्यन्ते । कीदृशी सा । वाजं गमनशीलं प्रकाशं निर्वर्त्याभकारं [?] जयन्ती पराभवं कुर्वती । यद्वा । वाजशब्दोऽन्ननामसु पठितत्वादन्नं नाम । अन्नं वै वाजः (श. ब्रा. ९-४-१-[?]) इति श्रुतेः [?] । यजमानार्थमन्नं सम्पादयन्ती । बृहती महती सनुत्री सर्वं जगत्सम्भजन्ती धात्री वा प्रकाशस्य । किञ्च सोषा उच्चैरुच्चैरूर्ध्वप्रदेशेषु स्थिता सती व्यख्यत् । विचष्टे । सर्वं जगत्प्रकृतीत्यर्थः । कीदृशी सा । युवतिर्मिश्रणशीला नित्ययौवना वा पुनर्भूः पुनःपुनर्भवनशीला प्रतिदिनं वर्तमानत्वात् । सोषाः पूर्वहूतौ सत्यां प्रथमा मुख्या प्रकृष्टा सत्यागन् देवयजनदेशं प्रत्यागच्छति । प्रथम इति मुख्यनाम प्रतमो भवतीति यास्कः । नि. २-२१ [?] । इतरदेवेभ्यः पूर्वमाहूता सती शीघ्रमेवागच्छतीत्यर्थः ॥
+
+> *viśvasmādbhuvanātsarvasmātsuptādbhūtajātātpūrvā prathamā seyamuṣā abodhi | buddhābhūt | uṣaḥkālamupagamya hi paścātsarve prāṇinaḥ pratibudhyante | kīdṛśī sā | vājaṃ gamanaśīlaṃ prakāśaṃ nirvartyābhakāraṃ [?] jayantī parābhavaṃ kurvatī | yadvā | vājaśabdo 'nnanāmasu paṭhitatvādannaṃ nāma | annaṃ vai vājaḥ (śa. brā. 9-4-1-[?]) iti śruteḥ [?] | yajamānārthamannaṃ sampādayantī | bṛhatī mahatī sanutrī sarvaṃ jagatsambhajantī dhātrī vā prakāśasya | kiñca soṣā uccairuccairūrdhvapradeśeṣu sthitā satī vyakhyat | vicaṣṭe | sarvaṃ jagatprakṛtītyarthaḥ | kīdṛśī sā | yuvatirmiśraṇaśīlā nityayauvanā vā punarbhūḥ punaḥpunarbhavanaśīlā pratidinaṃ vartamānatvāt | soṣāḥ pūrvahūtau satyāṃ prathamā mukhyā prakṛṣṭā satyāgan devayajanadeśaṃ pratyāgacchati | prathama iti mukhyanāma pratamo bhavatīti yāskaḥ | ni. 2-21 [?] | itaradevebhyaḥ pūrvamāhūtā satī śīghramevāgacchatītyarthaḥ ‖*
+
+*(Small type at 150 dpi; the Śatapatha reference and the Nirukta number are partly doubtful, as marked.)* "From all beings (*viśvasmād bhuvanāt*) — from all creatures that were asleep — she is first (*pūrvā*): this Uṣas awoke (*abodhi*). For after Dawn's arrival all living beings wake. What is she like? *Jayantī vājam* — overcoming (*jayantī*) the *vāja*, the moving light — that is, defeating the darkness [or: *vāja* is among the names of food: 'food is *vāja*' (Śa. Brā. 9-4-1-? `[?]`) — providing food for the sacrificer]. *Bṛhatī*: great; *sanutrī*: she who shares out everything to the world, or the supporter of light. And further, she, Uṣas, standing in lofty regions, *vyakhyat*: looks at, sees all the world. What is she like? *Yuvatiḥ* — ever young, or mingling; *punarbhūḥ* — becoming again and again, as she comes each day. She, Uṣas, the first at the first invocation (*pūrvahūtau*), chief, excellent, comes (*agan*) to the place of the divine sacrifice. *Prathama* is a name of 'chief': 'it becomes *pratama*', says Yāska (Ni. 2-21 `[?]`). The sense: being invoked before the other gods, she comes at once."
+
+### Printed p. 80  (PDF 101)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Vājam* — the moving (the darkness that moves away) or [alternatively] food; *jayantī* — she who has conquered (and brings [it] to the sacrificer); *viśvasmāt* — all; *bhuvanāt* — from creatures (those asleep, born beings); *pūrvā* — first; *bṛhatī* — great; *sanutrī* — giving light (to the world) [she]; *uṣāḥ* — the deity Uṣas; *abodhi* — awoke (appeared); (*kiñca* — and); *yuvatiḥ* — ever young; *punarbhūḥ* — she who again and again appears (that [Uṣas]); *uccā* — from the lofty (regions); *vi akhyat* — looks at all the world (gives light); (*sā* — she); *pūrvahūtau* — at the first prayer (of the day); *prathamā* — before all, as excellent; *ā agan* — comes (to the sacrificial region).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Casting off the transient (shadowy) darkness and giving light (to the whole world), the great Uṣas awoke first among all the world (showed herself). Ever young and rising day after day; from a lofty region she looks at the whole world (gives light); at the sacrifice she comes first of all (before all the deities) at the first invocation.
+
+**Printed English (as printed):** *First of all the world is she awake, triumphing over transitory (darkness): the mighty, the giver (of light) from on high, she beholds (all things): ever youthful, ever reviving, she comes first to the invocation.*
+
+### Printed p. 81  (PDF 102)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
+
+***viśvasmāt bhuvanāt pūrvā abodhi*** — *suptāt bhūtajātāt iyam uṣāḥ prathamā abodhi*: "from the sleeping creatures, this Uṣas awoke first". For after the dawn-time comes, all living beings awaken afterwards. The sense is: she wakes before all the creatures that sleep; that is, Uṣas rises. Then all awake — this is the sense. Here Sāyaṇa explains the word *pūrvā* as *prathamā*.
+
+***vājaṃ jayantī*** — *gamanaśīlaṃ prakāśaṃ nirvartya andhakāraṃ parābhavaṃ kurvatī*: "the deity Uṣas, removing the darkness connected with the night, makes light so that beings may move about" — this is one sense. Here Sāyaṇa has explained the word *vāja* as darkness. Then he says *yadvā vājaśabdo 'nnanāmasu paṭhitatvād annanāma* — "or the word *vāja* is recorded among names of food": the word *vāja* is read among the names of food (Ni. 2-7 `[?]`), among the names of battle (Ni. 2-1[?] `[?]`), and as the name of a king (Ni. 11-1[?]); and "oblations" or "water" (Ni. 11-2[?]) — he thus gives these meanings, because the Nirukta writer gives them; and since the word is used in the Śruti passages in the sense of food — *annaṃ vai vājaḥ* (Śa. Brā. 9-4-1-1 `[?]`, Tai. Brā. 1-3-2-3 `[?]`) — he also gives the meaning "food". Thereby *yajamānārthaṃ annaṃ saṃpādayantī*, "she provides food for the sake of the sacrificer" — another meaning. Thus he has given two meanings.
+
+***bṛhatī sanutrī*** — *mahatī sarvaṃ jagat sambhajantī dātrī vā prakāśasya*: "great, sharing everything with the world, or giver of light". He explains that Uṣas stirs all the creatures in the world to go about their tasks, or that she is endowed with a greatness by which she makes light for the benefit of the whole world: two meanings. The Nirukta writer says that the word *bṛhatī* denotes "filled with greatness".
+
+> रमध्वं मे वचसे सोम्याय ऋतावरीरुप मुहूर्तमेवैः ।
+> प्र सिन्धुमच्छा बृहती मनीषावस्युरहवे कुशिकस्य सूनुः ॥
+
+> *ramadhvaṃ me vacase somyāya ṛtāvarīrupa muhūrtamevaiḥ |*
+> *pra sindhumacchā bṛhatī manīṣāvasyurahave kuśikasya sūnuḥ ‖*
+
+(Ṛ. Saṃ. 3-33-5, as read.) For the word *bṛhatī* in this ṛk he has given the meaning *mahatyā*, "great".
+
+### Printed p. 82  (PDF 103)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)* *(The reader's OCR ends at p. 79; the Ṛk and Nirukta numerals from here are my own readings, `[?]` where doubtful.)*
+
+> आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
+
+> *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 10-110-6 [?], as read.) For the word *bṛhatī* in this ṛk too he has given the meaning *bṛhatyau mahatyau*, "great".
+
+***punarbhūḥ*** — *punaḥ punar bhavanaśīlā pratidinaṃ vartamānatvāt*: "she who becomes again and again, since she is present every day": because Uṣas rises every day, it means she has a nature that stays differently on each day. That is, she is born again and again. Therefore in many ṛks it is said that this deity Uṣas is ever young:
+
+> पुनःपुनर्जायमाना पुराणी समानं वर्णमभि शुम्भमाना ।
+
+> *punaḥpunarjāyamānā purāṇī samānaṃ varṇamabhi śumbhamānā |*
+
+(Ṛ. Saṃ. 1-92-10 [?], as read.) In ṛks such as these Uṣas is described as rising again and again.
+
+***pūrvahūtau satyām uṣāḥ prathamā — mukhyā*** — that Uṣas, at the sacrifice, when she is invoked before the other deities for the acceptance of the oblation, comes to the place where the sacrifice is going on, in front of all the deities: that is the sense. *Itaradevebhyaḥ pūrvam āhūtā satī śīghram evāgacchatīty arthaḥ* — this is Sāyaṇa's explanation.
+
+Yāska gives for the word *prathama* the meaning "chief":
+
+> देवानां माने प्रथमा अतिष्ठन् कृन्तत्रादेषामुपरा उदायन् ।
+> त्रयस्तपन्ति पृथिवीमनूपा द्वा बर्बूकं वहतः पुरीषम् ॥
+
+> *devānāṃ māne prathamā atiṣṭhan kṛntatrādeṣāmuparā udāyan |*
+> *trayastapanti pṛthivīmanūpā dvā barbūkaṃ vahataḥ purīṣam ‖*
+
+(Ṛ. Saṃ. 10-72-[?], as read.) In this ṛk, *prathama iti mukhyanāma pratamo bhavati* (Ni. 2-2[?], as read): for the word *prathama* he gives the sense "chief". In this ṛk the vṛttikāra explains *prathamāḥ* as *prakṛṣṭatamāḥ* — "most excellent" — i.e. "chief".
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 2; the sūtra numbers on pp. 82–83 are in small type and are not reproduced here).** *Ābodhi* — the root *budha avagamane*; *luṅ*, 3rd singular, the suffix *ta*; *dīpajana…budhapūriṭāyi…* — *ciṇ* in place of *cli*; taking it as the cause, guṇa of the root's … 
+
+### Printed p. 83  (PDF 104)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Grammar page, continued (Ṛk 2).** …the light vowel; *ciṇo luk* — the loss of the following *ta*; the augment *aṭ* for the stem; after an *atiṅanta* the *nighāta*. *Jayantī* — the root *ji jaye*; *śatṛ* in the sense of the present; the vikaraṇa *śap*; taking it as the cause, guṇa of the root's *i*; *ay*-substitution; in the feminine, *ugitaś ca* the suffix *ṅīp*; since it follows an *anupadeśa* [*śap*-vikaraṇa] and *lasārvadhātuka*, the acute is not on it, so the root accent remains; since *ṅīp* is *pit*, unaccented. *Akhyat* — the root *khyā prakathane*; *chandasi luṅlaṅliṭaḥ* — *luṅ* in the sense of the present; *asyativaktikhyātibhyo 'ṅ* — *aṅ* in place of *cli*; *ato lopa iṭi ca* — the loss of the root's *ā*; the augment *aṭ* for the stem; after an *atiṅanta* the *nighāta*. *Yuvatiḥ* — the word *yuvan*; when the feminine is intended, *yūnas tiḥ* the suffix *ti*; since *ṭi*-loss is the exception, the *prakṛtibhāva*, *nalopaḥ prātipadikāntasya* the *n*-loss; the final acute by the suffix accent. *Agan* — the root *gamḷ gatau*; as before *luṅ* in the sense of the present; in the Vedic way the loss of the *m* of the root; by *vyatyaya* the plural suffix in place of the 3rd person singular; the *nighāta*. *Pūrvahūtau* — the root *hveñ spardhāyāṃ śabde ca*; *striyāṃ ktin* the suffix *ktin* in the sense of action; *bahulaṃ chandasi* the *saṃprasāraṇa* and *pūrvarūpa* of the root; *halaḥ* the lengthening of the *saṃprasāraṇa*; *tādau ca niti* — the accent of the first member; locative singular. ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> यदद्य भागं विभजासि नृभ्य उषो देवि मर्त्यत्रा सुजाते ।
+> देवो नो अत्र सविता दमूना अनागसो वोचति सूर्याय ॥ ३ ॥
+
+> *yadadya bhāgaṃ vibhajāsi nṛbhya uṣo devi martyatrā sujāte |*
+> *devo no atra savitā damūnā anāgaso vocati sūryāya ‖ 3 ‖*
+
+### Printed p. 84  (PDF 105)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ पदपाठः ॥**
+
+> यत् । अद्य । भागम् । विऽभजासि । नृऽभ्यः । उषः । देवि । मर्त्यऽत्रा । सुऽजाते ।
+> देवः । नः । अत्र । सविता । दमूनाः । अनागसः । वोचति । सूर्याय ॥ ३ ॥
+
+> *yat | adya | bhāgam | vi 'bhajāsi | nṛ 'bhyaḥ | uṣaḥ | devi | martya 'trā | su 'jāte |*
+> *devaḥ | naḥ | atra | savitā | damūnāḥ | anāgasaḥ | vocati | sūryāya ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> सुजाते शोभनजनने देवि देवनशीले हे उषः उषःकालाभिमानिदेवते मर्त्यत्रा मनुष्याणां पालयित्री त्वमद्यास्मिन्काले नृभ्यो मनुष्येभ्यो यदद्य भागं भजनीयं स्वकीयप्रकाशस्यांशं विभजासि विभज्य ददासि । यद्वा । मर्त्येषु मध्ये नृभ्यो यजमानेभ्यो देवानां भागं विभज्य ददासि । उषसि प्रवृत्तायां हविषो दीयमानत्वादुषसो वाऽतृत्वमुपचर्यते । अत्रास्मिन्भागविषये दमूना यजमानेभ्योऽभिमतफलदानमनाः । दमूना दममना वा दानमना वा दान्तमना वेति निरुक्तवचनं (नि. ४-४ [?]) तादृशः सविता प्रेरको देवोऽस्मान् अनागसो वोचति । अपापान् याग-योग्यान्स्वेतु । अनुग्रहाया… इत्यर्थः । किमर्थम् । सूर्यायास्माद्यागदेशं प्रति सूर्यस्यागमनार्थम् ॥
+
+> *sujāte śobhanajanane devi devanaśīle he uṣaḥ uṣaḥkālābhimānidevate martyatrā manuṣyāṇāṃ pālayitrī tvamadyāsminkāle nṛbhyo manuṣyebhyo yadadya bhāgaṃ bhajanīyaṃ svakīyaprakāśasyāṃśaṃ vibhajāsi vibhajya dadāsi | yadvā | martyeṣu madhye nṛbhyo yajamānebhyo devānāṃ bhāgaṃ vibhajya dadāsi | uṣasi pravṛttāyāṃ haviṣo dīyamānatvāduṣaso vā 'tṛtvamupacaryate | atrāsminbhāgaviṣaye damūnā yajamānebhyo 'bhimataphaladānamanāḥ | damūnā damamanā vā dānamanā vā dāntamanā veti niruktavacanaṃ (ni. 4-4 [?]) tādṛśaḥ savitā prerako devo 'smān anāgaso vocati | apāpān yāga-yogyānsvetu | anugrahāyā… ityarthaḥ | kimartham | sūryāyāsmādyāgadeśaṃ prati sūryasyāgamanārtham ‖*
+
+*(Small type; I could not settle some letters at the end of the passage; the sense as given in the Kannada follows.)* "O well-born, divine Uṣas, deity presiding over the dawn-time, protectress of mortals (*martyatrā*): whatever share (*bhāga*) to be enjoyed, a part of your own light, you apportion (*vibhajāsi*) to men today — or: among mortals, you divide and give the gods' portion to the sacrificers, since the oblation is given once Uṣas has begun, [and hence] the giving is figuratively attributed to Uṣas. In this matter of the share, may the god Savitṛ, the impeller, *damūnāḥ* — whose mind is bent on giving the desired fruit to the sacrificers [*damūnā* is *dama-manāḥ*, 'of subdued mind', or *dāna-manāḥ*, 'of giving mind', or *dānta-manāḥ*, 'of restrained mind' — Nirukta (Ni. 4-4 `[?]`)] — declare us (*vocati*) sinless (*anāgasaḥ*), fit for the sacrifice: out of grace. For what purpose? For the sake of the Sun's coming (*sūryāya*) to the sacrificial place."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Sujāte* — O well-born one; *devi* — O one of shining nature; *he uṣaḥ* — O deity Uṣas; *martyatrā* — protectress of men (you); *adya* — now; *nṛbhyaḥ* — for men (for the sacrificers); *yat* — whatever; *bhāgam* — (your) share of light (and the share of oblation); *vibhajāsi* — you apportion (to the gods); *atra* — in this matter of the share; *damūnāḥ* — (disposed to give the desired [fruit] to the sacrificers) or in giving, of good mind; *devaḥ savitā* — the god Savitṛ; *naḥ* — us; *anāgasaḥ* — free from sin (fit for the sacrifice); *sūryāya* — for the Sun (to come to our sacrificial hall); *vocati* — may he tell.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O well-born, divine Uṣas, you who protect men! Whatever portion of your light you now apportion to men — to men who perform sacrifices, the portion of the oblation to the several gods — in that matter may the god Savitṛ, disposed to give what is desired to the sacrificers, declare us sinless and fit for the sacrifice, so that the Sun may come to our sacrificial hall.
+
+### Printed p. 85  (PDF 106)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 4".)* **Printed English (as printed):** *Well-born and divine Ushas, you are the protectress of mortals; whatever share (of light) you apportion to-day to men, may the radiant Savitri be disposed (to confirm) the gift, and declare us free from sin; so that (he) the sun (may come to our sacrificial hall).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 3.**
+
+***martyatrā bhāgaṃ vibhajāsi nṛbhyaḥ*** — *manuṣyāṇāṃ pālayitrī tvaṃ manuṣyebhyaḥ svakīyaprakāśasyāṃśaṃ vibhajya dadāsi | yadvā martyeṣu madhye yajamānebhyo devānāṃ bhāgaṃ vibhajya dadāsi*: "Uṣas, the protectress of men, gives men separately a part of her light for their benefit — that is one sense." "To the sacrificers, who deserve protection among men, Uṣas gets the gods' respective shares of the oblation distributed separately" — that is another sense. Both meanings are explained by Sāyaṇa in the bhāṣya. In the first meaning the word *martyatrā* is used in the sense "protectress of men"; in the second meaning the word *nṛbhyaḥ*, though a general word for men, indicates a speciality of those who perform sacrifices.
+
+It is Agni himself who apportions the oblation shares to the gods. But since, when the dawn-time has come, the oblation is at once offered in the fire, the character of "giver of the oblation shares" is attributed to Uṣas figuratively (*aupacārika*). He has stated this clearly: *uṣasi pravṛttāyāṃ haviṣo dīyamānatvāt uṣaso dātṛtvam upacaryate*.
+
+***damūnāḥ*** — *yajamānebhyo 'bhimataphaladānamanāḥ*: "one with a mind to grant the desired fruit to the sacrificers". In the Nirukta the word *damūnāḥ* (Ni. 4-4 `[?]`) is explained *damanamanāḥ* — one with a cruel/restrained mind [as printed]; or *dānamanāḥ*, one willing to give; or *dāntamanāḥ*, one whose mind is calmed by the restraints (*yama*, *niyama*); or "…
+
+---
+
+**Progress note:** Vol 10 — Sūkta 123 through printed p. 85 (PDF 106): Ṛks 1–2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; its Special Topics are in progress on p. 85 (*damūnāḥ* — continues on p. 86, PDF 107 with "…ಎಂದು ಅಭಿಮಾನವುಳ್ಳವನು"). Printed page = PDF − 21. The reader's OCR (Google Docs) ends at printed p. 79; Ṛk/Nirukta numerals after p. 79 are my own reading (`[?]` where doubtful). Sūkta starts: 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
