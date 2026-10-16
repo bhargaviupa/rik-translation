@@ -16509,4 +16509,56 @@ The manner of measuring and marking the earth in the form of the *uttaravedi* is
 
 ---
 
-**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through p. 681 (Special Topics: Taittirīya Saṃhitā altar mantras 1–7 of the *uttaravedi*; the entry continues); resume p. 682 (PDF 703; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 682  (PDF 703)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 136" [as read].)*
+
+*(Mantra 7 of the altar series, concluded:)* "…bring the gods to the sacrificer's sacrifice; may it be auspicious for you." [With this mantra five *āghāra*s [?] are performed.] As to its greatness:
+
+> स्रोत्रवेदिरब्रवीत्स्वर्गान्मया कामान्स्यृक्ष्यध्वेति ते देवा अकामयन्तासुरान्भ्रातृव्यानभिभवेमेति तेऽजुहवुः सिꣳहीरसि सपत्नसाहीति ते ऽसुरान्भ्रातृव्यानभ्यभवन्ते ऽसुरान्भ्रातृव्यानभिभूयाकामयन्त प्रजां विन्देमहीति तेऽजुहवुः सिꣳहीरसि सुप्रजावनिः स्वाहेति ते प्रजामविन्दन्त ते प्रजां वित्त्वाकामयन्त पशून्विन्देमहीति तेऽजुहवुः सिꣳहीरसि रायस्पोषवनिः स्वाहेति ते पशूनविन्दन्त ते पशून्वित्त्वाकामयन्त प्रतिष्ठां विन्देमहीति तेऽजुहवुः सिꣳहीरस्यादित्यवनिः स्वाहेति त इमां प्रतिष्ठामविन्दन्त त इमां प्रतिष्ठां वित्त्वाकामयन्त देवता आशिष उपेयामेति तेऽजुहवुः सिꣳहीरस्यावह देवान्देवयते यजमानाय स्वाहेति ते देवता आशिष उपायन् ॥
+
+> *srotravedir abravīt svargān mayā kāmān spṛkṣyadhveti te devā akāmayantāsurān bhrātṛvyān abhibhavemeti te 'juhavuḥ siṃhīr asi sapatnasāhīti te 'surān bhrātṛvyān abhyabhavan te 'surān bhrātṛvyān abhibhūyākāmayanta prajāṃ vindemahīti te 'juhavuḥ siṃhīr asi suprajāvaniḥ svāheti te prajām avindanta te prajāṃ vittvākāmayanta paśūn vindemahīti te 'juhavuḥ siṃhīr asi rāyaspoṣavaniḥ svāheti te paśūn avindanta te paśūn vittvākāmayanta pratiṣṭhāṃ vindemahīti te 'juhavuḥ siṃhīr asy ādityavaniḥ svāheti ta imāṃ pratiṣṭhām avindanta ta imāṃ pratiṣṭhāṃ vittvākāmayanta devatā āśiṣa upeyāmeti te 'juhavuḥ siṃhīr asy āvaha devān devayate yajamānāya svāheti te devatā āśiṣa upāyan ‖*
+
+(Tai. Saṃ. 6-2-[?]-[?], as read "೬-೨-೯-೧, ೨, ೩" [?]; read from the image, doubtful in places [?].) *Kannada sense:* The *uttaravedi* said, "Through me you will obtain all desired objects." Then the gods, wishing "may we conquer our enemies, the Asuras", made the offering with "*siṃhīr asi sapatnasāhī svāhā*" and became able to conquer their enemies. After conquering the Asuras, desiring offspring, they offered with "*siṃhīr asi suprajāvaniḥ svāhā*" and obtained sons. After obtaining offspring, desiring *paśu*-wealth they offered "*siṃhīr asi rāyaspoṣavaniḥ svāhā*" and obtained cattle. After obtaining cattle, desiring a firm footing, they offered "*siṃhīr asy ādityavaniḥ svāhā*" and obtained a firm footing. Then, to approach the favour of the deities, they offered "*siṃhīr asy āvaha devān devayate yajamānāya svāhā*" and gained the favour of the deities.
+
+> पञ्च कृत्वो व्याघारयति पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञो यज्ञमेवावरुन्धे ।
+
+> *pañca kṛtvo vyāghārayati pañcākṣarā paṅktiḥ pāṅkto yajño yajñam evāvarundhe |*
+
+(Tai. Saṃ. 6-2-[?]-[?], as read "೬-೨-೯-೩" [?].) A foot of the *paṅkti* metre has five syllables; therefore he offers the *āghāra* five times and gets the power of the sacrifice, which has five parts.
+
+### Printed p. 683  (PDF 704)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
+
+> अप्स्नेया व्याघारयति तस्माद्दक्षिण्यो पशवोऽङ्गानि प्र हरन्ति प्रतिष्ठित्यै ।
+
+> *apsneyā vyāghārayati tasmād dakṣiṇyā paśavo 'ṅgāni pra haranti pratiṣṭhityai |*
+
+(Tai. Saṃ. 6-2-[?]-[?], as read "೬-೨-೯-೩" [?]; the first word is doubtful [?].) By performing the sprinkling in a curved manner, the animals too put forth their limbs [in a curve] for their support.
+
+8. *bhūtebhyas tvā* (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೩" [?]) — "for the beings" — reciting this mantra he takes up the *sruc* ladle.
+
+> भूतेभ्यस्त्वेति स्रुचमुदृह्णाति ये एव देवा भूतास्तेषां तद्भागधेयं तानेव तेन प्रीणाति ।
+
+> *bhūtebhyas tveti srucam udgṛhṇāti ye eva devā bhūtās teṣāṃ tad bhāgadheyaṃ tān eva tena prīṇāti |*
+
+(Tai. Saṃ. 6-2-[?]-[?], as read "೬-೨-೯-೩" [?].) By reciting this mantra, as he takes up the *sruc*, the portion of the deities is prepared, so they are pleased.
+
+9. > विश्वायुरसि पृथिवीं दृꣳह ध्रुवक्षिदस्यन्तरिक्षं दृꣳहाच्युतक्षिदसि दिवं दृꣳह ।
+
+   > *viśvāyur asi pṛthivīṃ dṛṃha dhruvakṣid asy antarikṣaṃ dṛṃhācyutakṣid asi divaṃ dṛṃha |*
+
+   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೩" [?].) "You are *viśvāyus*; make the earth firm. You are *dhruvakṣit*: make the *antarikṣa* firm. You are *acyutakṣit*: make the heaven firm." [With this mantra the *paridhi*s [fire-sticks laid around] are to be arranged.]
+
+10. *agner bhasmāsy agneḥ purīṣam asi* (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೩" [?]) — "you are Agni's ashes and Agni's dung [?]" (with this mantra the fuel-sticks and the like are to be set). Its propriety is explained by a story:
+
+> अग्नेस्त्रयो ज्यायाꣳसो भ्रातर आसन्ते देवेभ्यो हव्यं वहन्तः प्रामीयन्त सोऽग्निरबिभेदित्थं वाव स्य आर्तिमारिष्यतीति स निलायत सयां वनस्पतिप्रविशत् तां पूतद्रुः [?] यामोषधीषु तागं सुगन्धितेजने यां पशुषु ताम् । पेत्वस्यान्कराः [?] शृङ्गे तं देवताः प्रैषमैच्छन्तमन्वविन्दन्तम् अब्रुवन्सु [?] न आ वर्तस्व हव्यं नो वहेति सोऽब्रवीद्वरं वृणै यदेव गृहीतस्याहुतस्य बहिःपरिधि स्कन्दात्तन्मे भ्रातॄणां भागधेयमसदिति तस्माद्यद्गृहीतस्याहुतस्य बहिःपरिधि स्कन्दति तेषां तद्भागधेयं तानेव तेन प्रीणाति सोऽमन्यतास्यन्तो मे पूर्वे भ्रातरः प्रामेषताश्वानि [?] शातयेति स यान्यस्थान्यशातयत तत्पूतुद्रु [?] अभवद्यन्मांसमुपभृतं तद्गुग्गुलु ॥
+
+   > *agnes trayo jyāyāṃso bhrātara āsan te devebhyo havyaṃ vahantaḥ prāmīyanta so 'gnir abibhed itthaṃ vāva sya ārtim ārṣyatīti sa nilāyata sayāṃ vanaspatiṃ praviśat tāṃ pūtadruḥ [?] yām oṣadhīṣu tāgaṃ sugandhitejane yāṃ paśuṣu tām | petvasyānkarāḥ [?] śṛṅge taṃ devatāḥ praiṣam aicchan tam anvavindan tam abruvan su [?] na ā vartasva havyaṃ no vaheti so 'bravīd varaṃ vṛṇai yad eva gṛhītasyāhutasya bahiḥparidhi skandāt tan me bhrātṝṇāṃ bhāgadheyam asad iti tasmād yad gṛhītasyāhutasya bahiḥparidhi skandati teṣāṃ tad bhāgadheyaṃ tān eva tena prīṇāti so 'manyatāsyanto me pūrve bhrātaraḥ prāmeṣatāśvāni [?] śātayeti sa yāny asthāny aśātayata tat pūtudru [?] abhavad yan māṃsam upabhṛtaṃ tad guggulu ‖*
+
+   (Tai. Saṃ. 6-2-[?]-[?], as read "೬-೨-೯-೪, ೫" [?]; this small-type passage is read from the image and is very doubtful in many words [?]; only the outline of the story is reliable.) *Outline:* Agni had three elder brothers, who were carrying the oblation to the gods and died. Agni, afraid that he too would meet the same fate, hid himself; he entered the trees, the plants, the animals [and so on]; the gods searched for him and found him; they said, "Return, carry the oblation for us." He asked a boon: "Whatever falls outside the *paridhi* from an oblation that has been taken and offered shall be the portion of my brothers." Therefore what falls outside the *paridhi* is the share of those [brothers]; by it he pleases them. Of the bones, he made the *pūtudru*; the flesh that was gathered became *guggulu* [as printed].
+
+---
+
+**Progress note:** Sūkta 135 complete (9 ṛks; printed pp. 606–664). Sūkta 136 (*pra su jyeṣṭham*, 7 ṛks, Paruccheṣa; Mitrāvaruṇau 1–5, liṅgokta 6–7; Atyaṣṭi 1–6, Triṣṭubh 7; Anuvāka 20, third Sūkta; printed pp. 664–697 + any end matter) in progress: Ṛk 1 complete; Ṛk 2 complete; Ṛk 3 written through p. 683 (Special Topics: Taittirīya Saṃhitā altar mantras 1–10 and the Agni-brothers story; the entry continues); resume p. 684 (PDF 705; images in w10h/ for PDF 661–728). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–135 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559; the Brāhmaṇa/Taittirīya-Saṃhitā passages in Sūkta 135 pp. 631–633, 650–658, which are given with [?] and mostly as sense); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
