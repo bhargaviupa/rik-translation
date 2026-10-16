@@ -11326,4 +11326,140 @@ In the second meaning: *vācaṃ teṣāṃ prahāradhvaniṃ muṣāyati | te�
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 459 (PDF 480): Ṛks 1–8 complete (‖ 8 ‖); Ṛk 9 Saṃhitā…English written, Special Topics begun (entries *sūraś cakraṃ ojasā pravṛhat*, *aruṇaḥ prapitve vācaṃ muṣāyati*; the page ends within the third meaning); resume p. 460 (PDF 481). Numeral tool (`publish/tools/numeral_pass/dc/pagerefs.sh FIRST_PDF LAST_PDF OUTDIR`, with `CLF=…/clf.pkl`, model rebuilt by `dc/train.py`) is used as a second opinion on references from here on: it gave no usable reading on pp. 456–459 beyond "3-9" at the foot of p. 459 (agrees with my reading). Page images PDF 261–360 in w10b/, 361–400 in w10c/, 401–460 in w10d/, 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, 129 (see earlier list) and 130 (Ṛk 1 p. 418; Ṛk 2 pp. 423–426; Ṛk 3 p. 428; Ṛk 4 pp. 432–435; Ṛk 5 p. 437; Ṛk 6 p. 442; Ṛk 7 p. 446; Ṛk 8 p. 451, 453–454; Ṛk 9 bhāṣya p. 457); OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 460  (PDF 481)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+*(Special Topics of Ṛk 9, continued — the third meaning:)* *sūraḥ sūryo jātaḥ udita san ojasā svakīyena tejasā yukta ś cakraṃ pravṛhat | tamo nivāraṇārtham asurajayāya vā cakropalakṣitaṃ rathaṃ prakarṣeṇa udyataṃ karoti | tataḥ pūrvam aruṇaḥ sūrathayantā prapitve mandehādyasurāṇāṃ samīpe vācaṃ teṣāṃ jahad bhindati ity ādidhvaniṃ muṣāyati muṣṇāti*: "As soon as the Sun has risen, endowed with his own splendour, he makes the chariot, marked by its wheel, speed along, to dispel darkness or to conquer the demons; before that, Aruṇa, the Sun's charioteer, near the demon-hosts such as Mandeha, silences the sound of their words — he breaks it": so it is explained. The Niruktakāra —
+
+> यदुदञ्चो वृषाकपे गृहमिन्द्राजगन्तन ।
+> क्वस्य पुल्वघो मृगः कमगञ्जनयोपनो विश्वस्मादिन्द्र उत्तरः ॥
+
+> *yad udañco vṛṣākape gṛham indrājagantana |*
+> *kvasya pulvagho mṛgaḥ kam agañ janayopano viśvasmād indra uttaraḥ ‖*
+
+(Ṛ. Saṃ. 10-86-[?], as read "೧೦-೮೬-೨೩" [?]; the small type is hard to read: [?].) — citing this Ṛk, he explains *kam agam uddiśya janayopanaḥ sarvasmād indra uttaraḥ*, and (Ni. 12-[?]) says that Indra is invisible, while Āditya (the Sun) is visible; the wise know the identity of the two from the "knowledge of the form of the Sun" in the sacrificer; among the gods Indra is the foremost; therefore it is described that Indra is called by the name Āditya.
+
+***prapitve*** — *teṣāṃ samīpe prapitve abhīke ity āsannasya | prapitve prāpte*: the Niruktakāra reads *prapitve prāpte, abhīke abhyakte* (Ni. 3-30 [?]) and explains *prapitve abhīke ity āsannasya* — both words denote nearness. And —
+
+> यथा गौरो अपा कृतं तृष्यन्नेत्यवेरिणम् ।
+> आपित्वे नः प्रपित्वे तूयमा गहि कण्वेषु सु सचा पिब ॥
+
+> *yathā gauro apā kṛtaṃ tṛṣyann ety averiṇam |*
+> *āpitve naḥ prapitve tūyam ā gahi kaṇveṣu su sacā piba ‖*
+
+(Ṛ. Saṃ. 8-4-3, as read "೮-೪-೩".) From this Ṛk the word *prapitve* is explained as *prāpte*; by this it is stated that a word meaning "near" is used without a gap.
+
+***īśānaḥ ā muṣāyati*** — *sarvāṇi tamāṃsi asurān vā nirākartuṃ samarthaḥ san samantāt muṣṇāti*: "the Sun is able to remove all darkness, or the demons."
+
+### Printed p. 461  (PDF 482)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+(…) "while he is risen, the Sun destroys the darkness or the demons entirely, as one endowed with the means and power to subdue them."
+
+***kave yat uśanā ūtaye parāvataḥ ajagan*** — *krāntadarśin uśanas iti nāmnaḥ maharṣeḥ rakṣaṇāya dūrāt svargasthānāt prāptavān asi*: two kinds of meaning are given. Indra is addressed as *kavi*, "one who sees everything directly". "When the sage named Uśanas prayed to Indra for protection, Indra came from the far-off heaven and protected him": this story is alluded to; one meaning. In the second, the word *uśanā* is explained as *uśanasā* — together with Bhārgava (Śukrācārya), the coming of Indra is prayed for, and his protection.
+
+***viśvā sumnāni turvaṇiḥ*** — *sarvāṇi sukhasādhanāni dhanāni ādāya asmākaṃ kṣipraṃ saṃbhaktā bhava*: the word *sumna* is recorded among the names of happiness (Ni. 3-[?]; as read "೩-೧೪"); *turvaṇi* is explained as *turvaṇis tūrṇavaniḥ* (Ni. 6-[?]; as read "೬-೧೪"). "Indra is prayed to bring wealth, the means of happiness, to us and to give us happiness carefully."
+
+***manuṣeva turvaṇiḥ*** — *manuṣyeṇeva yathā tvoteṇa parivṛḍhāya deśāntarād abhimataṃ dhanam ānīyate tadvat | yadvā manuṣeva manuṣyāṇām iva itareṣām ṛtvijāṃ viśvā sumnāni sarvāṇi dhanāny ādāya turvaṇir bhavasi tadvad asmākam api*: "as a man goes to another country and brings the wealth he needs, so Indra is asked to bring wealth for the sacrificers; or, as Indra brings all the wealth that the other priests desire, so for us".
+
+***ahā viśveva turvaṇiḥ*** — *sarveṣv apy ahaḥsu turvaṇir bhava | yadvā turvaṇis tvam ahā viśveva atidīrghāyuṣyaṃ yathā dadāsi tathā sumnāny api ubhayam api dehi*: "on all days be the quick giver; or, as you give very long life, give happiness too — give both": so it is prayed that when the sacrifice is being performed Indra give wealth and, on all other days, favour us.
+
+### Printed p. 462  (PDF 483)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar pages, noted briefly; numbers as printed).** *sūraḥ* — root *ṣūṅ prāṇigarbhavimocane* [as read], suffix *kran* by *susūdhāgṛdhibhyaḥ kran* (Uṇ. 2-[?]); no guṇa since *k*-marked; by *n*-marker the acute on the first syllable; first case in the sense of the genitive. *bṛhat* — root *vṛhū udyamane*, *tudādi*; *laṅ* third person singular; *itaś ca* drops *i*; *tudādibhyaḥ śaḥ* gives *śa*; since *sārvadhātukam apit* no guṇa of the penult; *bahulaṃ chandasy amāṅyoge 'pi* gives no augment *aṭ*; *tiṅ-nighāta*. *muṣāyati* — root *muṣa steye*; by the statement *ghuṇarthakaviṣaya* [as read] *ṇic*…; *muṣam ātmana icchati*, *supa ātmanaḥ kyac* (Pā. 3-1-8); *na chandasy aputrasya* (Pā. 7-4-35) forbids lengthening, but by *vyatyaya* the preceding lengthening occurs; after the *kyac*-ending *laṭ* third person singular; or by *bahulaṃ chandasi* the *ṇic* as *vikaraṇa*; by the statement *sañjñāpūrvako vidhir anityaḥ* no guṇa of the penult; *tiṅ-nighāta*; or when *śāyac* … *chandasi śāyajapi* (Pā. 3-1-84) gives *śāyac*. *īśānaḥ* — root *īśa aiśvarye*; *śānac* in the present sense; *citaḥ* gives the acute on the last syllable. *uśanā* — root *vaśa kāntau*; *vaśeḥ kanasi* (Uṇ. 4-[?]) gives *kanasi*; *grahijyāvayi…* (Pā. 6-1-16) gives *saṃprasāraṇa*, *pūrvarūpa*; the stem *uśanas*; acute on the first syllable by the suffix; by *vyatyaya* the first case. *ajagan* — root *gamḷ gatau*; *luṅ* second person singular, *sip*; *bahulaṃ chandasi* gives *śap*→*śluh*; *ślau* doubles the root; *kuhoś cuḥ* (Pā. 7-4-62) gives *j* for the reduplicative *g*; *hal ṅyābbhyo dīrghāt…* drops *sip*; *no no dhātoḥ* [as read: Pā. 8-2-64?] gives *n* for the *m*; since *yad* is connected, *nighāta* does not occur; the augment *aṭ* is acute so that the first syllable is acute.
+
+### Printed p. 463  (PDF 484)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+*(Grammar, concluded.)* *turvaṇiḥ* — root *turvī hiṃsāyām*; Uṇādi *ani*; the acute on the first syllable of the suffix. *ahā* — in the neuter plural *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi*. ‖ 9 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> स नो नव्येभिर्वृषकर्मन्नुक्थैः पुरां दर्तः पायुभिः पाहि शग्मैः ।
+> दिवोदासेभिरिन्द्र स्तवानो वावृधीथा अहोभिरिव द्यौः ॥ १० ॥
+
+> *sa no navyebhirvṛṣakarmannukthaiḥ purāṃ dartaḥ pāyubhiḥ pāhi śagmaiḥ |*
+> *divodāsebhirindra stavāno vāvṛdhīthā ahobhiriva dyauḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । नः । नव्येभिः । वृषकर्मन् । उक्थैः । पुराम् । दर्तः । दर्तरिति दर्तः । पायुऽभिः । पाहि । शग्मैः ।
+> दिवःऽदासेभिः । इन्द्र । स्तवानः । ववृधीथाः । अहःऽभिःऽइव । द्यौः ॥ १० ॥
+
+> *saḥ | naḥ | navyebhiḥ | vṛṣakarman | ukthaiḥ | purām | dartaḥ | dartariti dartaḥ | pāyu 'bhiḥ | pāhi | śagmaiḥ |*
+> *divaḥ 'dāsebhiḥ | indra | stavānaḥ | vavṛdhīthāḥ | ahaḥ 'bhiḥ 'iva | dyauḥ ‖ 10 ‖*
+
+*(Read from the image: the Saṃhitā's first line is printed over two lines; the Triṣṭubh metre of the last ṛk is as stated in the table.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few places doubtful: [?]).*
+
+> हे इन्द्र वृषकर्मन्नभिमतवर्षणव्यापारवन् पुरां दर्तरसुरपुराणां दारयिता ॥ सुबामन्त्रिते [?] इति षष्ठ्याः पराङ्गवद्भावात्षष्ठ्यामन्त्रितसमुदायस्य पादादित्वादाष्टमिकमाद्युदात्तत्वम् ॥ स तादृशो महानुभावस्त्वं नोऽस्मत्सम्बन्धिभिर्नव्येभिर्नूतनैरुक्थैरिदानीं प्रतिपादितप्रकारैः स्तोत्रैस्तुष्टः सन् पायुभिः पालनप्रकारैः शग्मैः सुखैश्चैहिकामुष्मिकरूपैः पाहि । पालय । किंच हे इन्द्र दिवोदासेभिर्दिवोदासगोत्रोत्पन्नैरस्माभिः पारुच्छेपैः ॥ अश आदिभ्योऽच् । यद्वा । पूजार्थं बहुवचनम् ॥ स्तवानः स्तूयमानः कर्मणि कर्तृप्रत्ययः । वावृधीथाः प्रवृद्धो भव । वृधेर्लिङि छान्दसः शपः श्लुः । किमिव । अहोभिरिव द्यौः । द्योतनशीलः आदित्योऽहोभिः प्रसिद्धैर्यथा प्रवृद्धो भवति । तथास्मत्स्तुत्या त्वमपि प्रवृद्धो भवेत्यर्थः ॥
+
+> *he indra vṛṣakarmannabhimatavarṣaṇavyāpāravan purāṃ dartarasurapurāṇāṃ dārayitā ‖ subāmantrite [?] iti ṣaṣṭhyāḥ parāṅgavadbhāvātṣaṣṭhyāmantritasamudāyasya pādāditvādāṣṭamikamādyudāttatvam ‖ sa tādṛśo mahānubhāvastvaṃ no 'smatsambandhibhirnavyebhirnūtanairukthairidānīṃ pratipāditaprakāraiḥ stotraistuṣṭaḥ san pāyubhiḥ pālanaprakāraiḥ śagmaiḥ sukhaiścaihikāmuṣmikarūpaiḥ pāhi | pālaya | kiṃca he indra divodāsebhirdivodāsagotrotpannairasmābhiḥ pārucchepaiḥ ‖ aśa ādibhyo 'c | yadvā | pūjārthaṃ bahuvacanam ‖ stavānaḥ stūyamānaḥ karmaṇi kartṛpratyayaḥ | vāvṛdhīthāḥ pravṛddho bhava | vṛdherliṅi chāndasaḥ śapaḥ śluḥ | kimiva | ahobhiriva dyauḥ | dyotanaśīlaḥ ādityo 'hobhiḥ prasiddhairyathā pravṛddho bhavati | tathāsmatstutyā tvamapi pravṛddho bhavetyarthaḥ ‖*
+
+*(Sense: "O Indra, *vṛṣakarman* — whose work is the showering of the desired — *purāṃ dartaḥ* — the splitter of the cities of demons: you, such a great one, pleased by our new (*navyebhiḥ*) hymns (*ukthaiḥ*) as now stated, protect us with protections (*pāyubhiḥ*) and with the happiness (*śagmaiḥ*) of this world and the next. And, O Indra, praised by us, the Paruccheṣas, born in the line of Divodāsa — the plural is of respect — increase (*vāvṛdhīthāḥ*): as *dyauḥ* — the shining Sun — grows by the days, so you grow by our praise.")*
+
+### Printed p. 464  (PDF 485)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) indra* — O Indra; *vṛṣakarman* — shower of the desired; *puraṃ dartaḥ* — destroyer of the cities of enemies (and so); *saḥ* — that (great one); *naḥ* — us; *navyebhiḥ ukthaiḥ* — pleased with new praises; *pāyubhiḥ* — with protective acts; *śagmaiḥ* — with happiness in this world and the next; *pāhi* — protect; *(he indra* — O Indra); *divodāsebhiḥ* — by us of the line of Divodāsa (Paruccheṣa) or by Divodāsa; *stavānaḥ* — praised; *dyauḥ* — the Sun; *ahobhiḥ iva* — as by days; *vāvṛdhīthāḥ* — increase.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, giver of the desired, destroyer of the cities, great one: pleased by our new praises, protect us with protective acts and with happiness in this world and the next; and, as the Sun grows by days, so, praised by us of Divodāsa's line, grow and increase.
+
+**Printed English (heading "English Translation"; as printed):** *"Showerer of benefits, destroyer of cities, propitiated by our new songs, reward us with gratifying blessings: glorified, Indra, by the descendants of Divodasa, increase (in power), like the sun in (revolving) days."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 10).**
+
+***vṛṣakarman*** — *abhimatavarṣaṇavyāpāravān*: "Indra performs the work of showering rain that is desired by the world."
+
+***purāṃ dartaḥ*** — *asurapurāṇāṃ dārayitā*: "the destroyer of the cities where the demons live."
+
+***navyebhir ukthaiḥ pāyubhiḥ śagmaiḥ pāhi*** — "Indra, satisfied by praises recited in a new manner by the ṛṣi who saw the mantra, is prayed to protect us by the various kinds of protective acts and by the happiness of this world and the next."
+
+### Printed p. 465  (PDF 486)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+***ahobhir iva dyauḥ*** — *dyotanaśīla ādityo 'hobhiḥ prasiddhair yathā pravṛddho bhavati kathā asmatstutyā tvam api pravṛddho bhava*: "as the Sun grows through days, so may Indra, praised by Paruccheṣa, who is born in the line of Divodāsa, grow through the days and become mighty": so he wishes.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly; numbers as printed).** *navyebhiḥ* — *bhave chandasi* (Pā. 4-4-110) gives *yat*; *yato nāvaḥ* (Pā. 6-1-213) gives the acute on the first syllable; *bahulaṃ chandasi* gives no *ais* for *bhis*; *bahuvacane jhaly et* (Pā. 7-3-103) gives *e*. *vṛṣakarman* — *ṇaja sambuddhyoḥ* (Pā. 8-2-8) gives no loss of *n* in the vocative; *āmantritasya ca* gives *nighāta*. *ukthaiḥ* — root *vaca paribhāṣaṇe*; *pātṛtudivaci…* (Uṇ. 2-[?]) gives *thak*; since *k*-marked, *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15) gives *saṃprasāraṇa*, *pūrvarūpa*; *coḥ kuḥ* gives *k* for *c*; acute on the last syllable by the suffix. *purāṃ dartaḥ* — root *dṝ vidāraṇe*; *tṛc* in the agent sense; guṇa of the root because of it; in the vocative *dartaḥ*; by *subāmantrite parāṅgavat svare* (Pā. 2-1-2) the word *purām* is treated as part of the following so that, being at the beginning of the *pāda*, the *aṣṭamika* [i.e. *āmantrita*] *nighāta* does not occur; *āmantritasya ca* (Pā. 6-1-198) gives the acute on the first syllable. *pāyubhiḥ* — root *pā rakṣaṇe*; *kṛvāpā…* (Uṇ. 1-1) gives *uṇ*; *ato yuk ciṇkṛtoḥ* (Pā. 7-3-33) gives the augment *yuk*; acute on the last syllable by the suffix; instrumental plural. *pāhi* — as before: a *loṭ* second person singular; *tiṅ-nighāta*. *divodāsebhiḥ* — *divodāse ṣaṣṭhyā aluk* (Kāśikā 6-3-21 [?], as read "೬-೩-೨೧-೨೫") gives no loss of the genitive of *divaḥ*; *divodāso 'sya asti iti divodāsaḥ*; *arśa ādibhyo 'c* (Pā. 5-2-127) gives *ac* in the possessive sense; *yasyeti ca* drops *a*; by the suffix's accent the acute on the last syllable; by the optional rule *bhis* → *ais* for the *a*-ending is not required, hence *ebhiḥ*.
+
+### Printed p. 466  (PDF 487)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131" [as read: "೧೩೧"].)*
+
+*(Grammar, concluded.)* *stavānaḥ* — root *ṣṭuñ stutau*; *vyatyayo bahulam* gives the suffix of the agent in the passive; *śānac* in the present sense; guṇa; *avādeśa*; because it follows a [word with] *anudātta* [as read], the *lasārvadhātuka* is unaccented and the root's accent remains. *vāvṛdhīthāḥ* — root *vṛdhu vṛddhau*; *liṅ* second person singular, suffix *thās*; *bahulaṃ chandasi* gives *śluḥ* for *śap*; *ślau* doubles the root; *urat* gives *at*, *raparatva*, *halādiḥ śeṣaḥ*; *liṅaḥ sīyuṭ* (Pā. 3-4-102) gives *sīyuṭ*; *sutiṅopor…* [as read: *suṭ tithoḥ*, Pā. 3-4-107] gives *suṭ*; *liṅaḥ salopo 'nantyasya* (Pā. 7-2-79) drops both *s*; *lopo vyor vali* drops *y*; because at the beginning of the *pāda* no *nighāta*; acute on the last syllable by the suffix. ‖ 10 ‖
+
+Here ends the 130th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಮೂವತ್ತನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 131 — *indrāya hi dyaur asuro* (begins on printed p. 466; Anuvāka 19, fifth Sūkta)
+
+### Printed p. 466 (continued; PDF 487, lower part)
+
+**ನೂರ ಮೂವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು — Nūra mūvattoṃdaneya sūktavu** (the one hundred and thirty-first Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; several letters doubtful [?]).**
+
+> इन्द्राय हि सप्तर्चं पञ्चमं सूक्तम् । इन्द्राय सप्तेत्यनुक्रमणिका । पारुच्छेपमात्यष्टिच्छन्दः । इन्द्रो देवता ॥ पृष्ठ्यस्य षष्ठेऽहनि माध्यन्दिनसवने होत्रकाः सस्स्तशस्त्रे एतत्सूक्तं तृचत्रयं कृत्स्नारम्भणीयाभ्य ऊर्ध्वं मावपेयुः । आश्रायणं विभागः । आद्यास्तिस्त्रो मैत्रावरुणस्य । तृतीयाद्यास्तिस्रो ब्राह्मणाच्छंसिनः । पञ्चम्याद्यास्तिस्र उक्थावाकस्य । एतच्चतुर्थेऽहनीति खण्डे सूत्रितम् । पष्ठेऽहनीन्द्राय हि द्यौरसुरो अनम्नतेत्येवमेव । आ. ८-११ [?] इति ॥ शस्त्रेऽहनि तस्मिन्नेव सवने प्रशास्त्रादीनां प्रस्थितयाज्याभ्यः पुरस्ताद्यादिते [?] … पष्ठस्येति खण्डे सूत्रितम् । इन्द्राय हि द्यौरसुरो अनम्नतेति षट् । आ. ८-१ [?] इति ॥ महाव्रते निष्केवल्ये इन्द्राय हीति तृचो नैकल्पिकानुरूपत्पद्यतीयः [?] । महाव्रतस्येति खण्डे सूत्रितम् । इन्द्रं याह्युप नः परावत इन्द्राय हि द्यौरसुरो अनम्नत । ऐ. आ. ५-१-१ [?] इति ॥
+
+> *indrāya hi saptarcaṃ pañcamaṃ sūktam | indrāya saptetyanukramaṇikā | pārucchepamātyaṣṭicchandaḥ | indro devatā ‖ pṛṣṭhyasya ṣaṣṭhe 'hani mādhyandinasavane hotrakāḥ sasstaśastre etatsūktaṃ tṛcatrayaṃ kṛtsnārambhaṇīyābhya ūrdhvaṃ māvapeyuḥ | āśrāyaṇaṃ vibhāgaḥ | ādyāstistro maitrāvaruṇasya | tṛtīyādyāstisro brāhmaṇācchaṃsinaḥ | pañcamyādyāstisra ukthāvākasya | etaccaturthe 'hanīti khaṇḍe sūtritam | paṣṭhe 'hanīndrāya hi dyaurasuro anamnatetyevameva | ā. 8-11 [?] iti ‖ śastre 'hani tasminneva savane praśāstrādīnāṃ prasthitayājyābhyaḥ purastādyādite [?] … paṣṭhasyeti khaṇḍe sūtritam | indrāya hi dyaurasuro anamnateti ṣaṭ | ā. 8-1 [?] iti ‖ mahāvrate niṣkevalye indrāya hīti tṛco naikalpikānurūpatpadyatīyaḥ [?] | mahāvratasyeti khaṇḍe sūtritam | indraṃ yāhyupa naḥ parāvata indrāya hi dyaurasuro anamnata | ai. ā. 5-1-1 [?] iti ‖*
+
+*(The Sanskrit introduction is small and in several places unreadable to me; I give what is legible and mark [?]; the sense follows.)*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *indrāya hi dyaur asuraḥ* is the fifth Sūkta in the nineteenth Anuvāka. It has seven ṛks; the Anukramaṇikā says "*indrāya sapta*". The ṛṣi is Paruccheṣa; the deity is Indra; the metre is Atyaṣṭi. On the sixth day of the *pṛṣṭhya* ṣaḍaha sacrifice, at the midday pressing, the ṛks seen by this ṛṣi, which the *hotrakas* recite as *sasta-śastra* mantras, are used; of these ṛks the first three are for the Maitrāvaruṇa priest, the next three for the Brāhmaṇācchaṃsin, and the last three for the Ukthāvāka [as read; the allotment is doubtful: [?]]. This is expounded in the Āśvalāyana Śrauta-sūtra, in the section beginning "*ṣaṣṭhe 'hani*", by the sūtra *indrāya hi dyaur asuro anamnata* (Āś. 8-1 [?]; as read "೮-೧೧" in one place and "೮-೧" in another). In the *mahāvrata* sacrifice, in the *niṣkevalya śastra*, the three ṛks beginning *indrāya hi* are used as *anurūpa* — as stated by Śaunaka in the Aitareya Āraṇyaka, in the section *mahāvratasya*, by the sūtra *indraṃ yāhy upa naḥ parāvata indrāya hi dyaur asuro anamnata* (Ait. Ār. 5-1-1 [?]).
+
+---
+
+**Progress note:** Sūkta 130 complete (printed pp. 417–466). Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) begun: heading and Sanskrit/Kannada introduction at the foot of p. 466 done (Sanskrit small type partly illegible, marked [?]); resume p. 467 (PDF 488) with the Sūkta table and Ṛk 1. Workflow from here: no numeral tool and no OCR reference lines (user's decision to save tokens); read cropped page images directly with the digit key; doubtful numerals marked [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad); crop 541+ when needed. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists; Ṛk 9 bhāṣya p. 457 and Ṛk 9 Special Topics pp. 459–461 in 130); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
