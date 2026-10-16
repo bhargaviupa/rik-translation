@@ -3267,4 +3267,212 @@ The word *rāyaḥ* and the word *magha* in *maghavatsu* also convey the meaning
 
 ---
 
-**Progress note:** Sūkta 123 through printed p. 127 (PDF 148): Ṛk 13 Special Topics and grammar (*suhavā*) in progress; resume p. 128 (PDF 149) — grammar of Ṛk 13 continues, then Ṛk 14 etc.; Sūkta 124 starts at printed p. 128.
+### Printed p. 128  (PDF 149)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+…by *saṃprasāraṇa* and *pūrvarūpa* of the root, taking which as its cause *sārvadhātukārdhadhātukayoḥ* gives the guṇa of the root's *u*, and the *av*-substitution; as the *ap*-suffix has the marker *p* it is unaccented, so the root accent remains; in the compound the accent of the final member's own nature arises.
+
+*maghavatsu* — *magham asya asti iti maghavān*; the suffix *matup* [rendered by the print as *matuṣ*] comes after a stem ending in *a*; *mādupadhāyāś ca* gives *va* for the *m* of *matup*; being *pit* it is unaccented; locative plural.
+
+*rāyaḥ* — the word *rai*; its nominative plural with *jas* following; *echo 'yavāyāvaḥ* gives *āy* [as printed "ಏಚೋಽಯವಾಯಾವಃ"]. *syuḥ* — root *as bhuvi*; *liṅ* third person plural, the suffix *jhi*; for it the substitute *us*; the augment *yāsuṭ*; since it has the marker *p* [*pit*? as read], *śnasor allopaḥ* (Pā. 6-4-111) elides the *a* of the root; since it follows a non-verb word, the *nighāta* accent. ‖ 13 ‖
+
+Here ends the 123rd Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಇಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತ ಮುಗಿಯಿತು" — "Here the 123rd Sūkta is finished.")*
+
+---
+
+## Sūkta 124 — *uṣā ucchantī* (begins at the foot of printed p. 128)
+
+**ನೂರ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು — Nūra ippattanālkaneya sūktavu** (the one hundred and twenty-fourth Sūkta).
+
+**॥ भूमिका ॥ — Introduction (Sanskrit, from the Sāyaṇa text):**
+
+> उषा उच्छन्तीति त्रयोदशर्चं चतुर्थं सूक्तं दैर्घतमसः कक्षीवत आर्षं त्रैष्टुभमुषस्यम् । उषा उच्छन्तीत्यनुक्रान्तम् । विनियोगस्तु पूर्वसूक्त एवोक्तः ॥
+
+> *uṣā ucchantīti trayodaśarcaṃ caturthaṃ sūktaṃ dairghatamasaḥ kakṣīvata ārṣaṃ traiṣṭubhamuṣasyam | uṣā ucchantītyanukrāntam | viniyogastu pūrvasūkta evoktaḥ ‖*
+
+*(Read from the image; the last word, "evoktaḥ", is given as read.)* "The fourth sūkta, of thirteen ṛks, beginning *uṣā ucchantī*, of Kakṣīvat Dairghatamasa, in the Triṣṭubh metre, addressed to Uṣas. It is listed in the Anukramaṇī as *uṣā ucchantī*; its application (*viniyoga*) has been stated in the preceding sūkta itself."
+
+**Anuvāda (Kannada).** This Sūkta, beginning *uṣā ucchantī*, is the fourth Sūkta in the eighteenth Anuvāka. It has thirteen ṛks. The ṛṣi of this Sūkta is Kakṣīvān Dairghatamasa; the deity is Uṣas; the metre is Triṣṭubh. In the Anukramaṇī it is stated as *uṣā ucchantī*; its *viniyoga* has been stated before.
+
+### Printed p. 129  (PDF 150)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+**सूक्त—१२४ — Sūkta 124**
+
+मण्डल—१ ‖ अनुवाक—१८ ‖ सूक्त—१२४ ‖ अष्टक—२ ‖ अध्याय—१ ‖ वर्ग—७, ८, ९ ‖ (Maṇḍala 1; Anuvāka 18; Sūkta 124; Aṣṭaka 2; Adhyāya 1; Vargas 7, 8, 9.)
+
+*(Varga numerals read from the image "೭, ೮, ೯"; the OCR page text of this page is empty, so this could not be second-checked.)*
+
+Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣīvān Dairghatamasa Auśija (as printed: "ಕಕ್ಷೀವಾನ್ ದೈರ್ಘತಮಸ ಔಶಿಜಃ"). Devatā — Uṣas. Chandas — Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> उषा उच्छन्ती समिधाने अग्ना उद्यन्त्सूर्य उर्विया ज्योतिरश्रेत् ।
+> देवो नो अत्र सविता न्वर्थं प्रासावीद्द्विपत्प्र चतुष्पदित्यै ॥ १ ॥
+
+> *uṣā ucchantī samidhāne agnā udyantsūrya urviyā jyotiraśret |*
+> *devo no atra savitā nvarthaṃ prāsāvīddvipatpra catuṣpadityai ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> उषाः । उच्छन्ती । सम्ऽइधाने । अग्नौ । उत्ऽयन् । सूर्यः । उर्विया । ज्योतिः । अश्रेत् ।
+> देवः । नः । अत्र । सविता । नु । अर्थम् । प्र । असावीत् । द्विऽपत् । प्र । चतुःऽपत् । इत्यै ॥ १ ॥
+
+> *uṣāḥ | ucchantī | sam 'idhāne | agnau | ut 'yan | sūryaḥ | urviyā | jyotiḥ | aśret |*
+> *devaḥ | naḥ | atra | savitā | nu | artham | pra | asāvīt | dvi 'pat | pra | catuḥ 'pat | ityai ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> एषोषाः समिधानेऽग्नौ । अग्निषु सामान्यैकवचनम् । अग्निषु समिध्यमानेषु सत्सु । कर्मार्थे कर्तृप्रयोगः [?] । उषःकाले ह्याहवनीयादयः प्रज्वाल्यन्ते । उच्छन्ती तमो विवासयन्ती उर्विया उरु बहुलं ज्योतिः प्रकाशमश्रेत् । सेवते । प्रकाशते प्रकाशयति वा सर्वम् । किमिव उद्यन्सूर्यः । उपमाप्रधाननिर्देशः ॥
+
+> *eṣoṣāḥ samidhāne 'gnau | agniṣu sāmānyaikavacanam | agniṣu samidhyamāneṣu satsu | karmārthe kartṛprayogaḥ [?] | uṣaḥkāle hyāhavanīyādayaḥ prajvālyante | ucchantī tamo vivāsayantī urviyā uru bahulaṃ jyotiḥ prakāśamaśret | sevate | prakāśate prakāśayati vā sarvam | kimiva udyansūryaḥ | upamāpradhānanirdeśaḥ ‖*
+
+*(The bhāṣya begins on this page and continues at the top of p. 130. Read from the image; the first sentence — "eṣoṣāḥ …" and the phrase "karmārthe kartṛprayogaḥ" — is doubtful in the print and given as read.)*
+
+### Printed p. 130  (PDF 151)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+> उदितः सूर्य इव सूर्यो यथा प्रकाशयति तथेत्यर्थः । अत्र त्वदुदयानन्तरमस्मिन्कर्मणि वा सविता देवः सर्वस्य प्रेरकः सूर्यो नोऽस्मदर्थं नु क्षिप्रमर्थमपेक्षितम् । अर्थशब्दोऽत्र विशेषणवाची नपुंसकलिङ्गः । अयन्नर्थानि कृण्वन्नांसीत्यादौ (ऋ. ७-६३-४ [?]) तथादृष्टत्वात् ॥ अरणीयं [?] द्विपत् पादद्वयोपेतं मनुष्यादिरूपं धनं प्रासावीत् । अनुजानातु ददात्वित्यर्थः । तथा चतुष्पत् पादचतुष्टयोपेतं गवादिरूपं धनं प्रासावीत् । किमर्थम् । इत्यै । द्विपदां चतुष्पदां च गमनाय । यद्वा । न इत्यै इति संबन्धः । अस्मद्गमनागमनादिव्यापाराये[त्यर्थः] ॥
+
+> *uditaḥ sūrya iva sūryo yathā prakāśayati tathetyarthaḥ | atra tvadudayānantaramasminkarmaṇi vā savitā devaḥ sarvasya prerakaḥ sūryo no 'smadarthaṃ nu kṣipramarthamapekṣitam | arthaśabdo 'tra viśeṣaṇavācī napuṃsakaliṅgaḥ | ayannarthāni kṛṇvannāṃsītyādau (ṛ. 7-63-4 [?]) tathādṛṣṭatvāt ‖ araṇīyaṃ [?] dvipat pādadvayopetaṃ manuṣyādirūpaṃ dhanaṃ prāsāvīt | anujānātu dadātvityarthaḥ | tathā catuṣpat pādacatuṣṭayopetaṃ gavādirūpaṃ dhanaṃ prāsāvīt | kimartham | ityai | dvipadāṃ catuṣpadāṃ ca gamanāya | yadvā | na ityai iti saṃbandhaḥ | asmadgamanāgamanādivyāpārāye[tyarthaḥ] ‖*
+
+*(Read from the image; the first half of the passage is doubtful in the print — "atra tvad-udayānantaram asminkarmaṇi vā" and "araṇīyam [?]" are my readings; the OCR garbles them. The Ṛg reference "7-63-4" is read from the image "೭-೬೩-೪" (the OCR agrees on the shape).)* Sense: "This Uṣas, when the fires (the Āhavanīya and the others) are being kindled — for the Āhavanīya and the other fires are kindled at the time of Uṣas — *ucchantī*, driving away the darkness, *urviyā* — abundantly — has resorted to (*aśret*, 'serves', 'shines' or 'illumines') the light (*jyotiḥ*, brightness), like the rising Sun (*udyan sūryaḥ*), that is, as the Sun illuminates when risen. Here, after your rising, the god Savitṛ, the impeller of all, the Sun, for us — *nu*, quickly — *artham* (the desired): the word *artha* here, as an epithet, is a neuter noun, as seen in such places as *ayann arthāni kṛṇvann ajāsīt* … Let him bestow (*prāsāvīt*, let him permit, let him give) wealth in the form of men and the like, 'two-footed' (*dvipat*, possessed of two feet); and likewise wealth in the form of cattle and the like, 'four-footed' (*catuṣpat*). For what? *Ityai* — for the going of the two-footed and the four-footed. Or else, the connection is: *na ityai* — for our activity of going and coming and the like."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Agnau* — when the fire (the fires); *samidhāne* — are kindled; *uṣāḥ* — the goddess Uṣas; *udyan sūryaḥ* — like the rising Sun; *ucchantī* — driving away (the darkness); *urviyā* — abundantly; *jyotiḥ* — light; *aśret* — attains (she illumines everything); *atra* — after this (in this rite); *savitā devaḥ* — the god Savitṛ (the impeller of all); *naḥ* — for us; *nu* — quickly; *artham* — the desired; *dvipat* — beings with two feet (wealth in the form of men and the like); *ityai* — for (our) going and coming; *(pra asāvīt)* — may he grant; *catuṣpat* — beings with four feet (wealth in the form of cattle and the like); *(pra asāvīt)* — may he grant.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** While the Āhavanīya and other fires are kindled, the goddess Uṣas, driving away the darkness with her (own) boundless brilliance, like the Sun, shines; after her rising, may the god Savitṛ, the Sun, for the sake of our going and coming and other works, quickly favour us with two-footed and four-footed beings.
+
+**Printed English (as printed):** *When the (sacred) fire is kindled, Ushas sheds abundant light, dispersing (the darkness) like the rising sun; may the divine Savitri bestow upon us for our use, wealth of both bipeds and quadrupeds.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 1.**
+
+***ucchantī*** — For this word one may give, by way of the root *uchī* ("driving away"), the meaning "destroying", or, in another way, "shining with brilliance". The derivation of the word *uṣāḥ* is also from *ucchati*: *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ*…
+
+### Printed p. 131  (PDF 152)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+— with this sentence the author of the Nirukta states this etymology (Ni. 2-18, as printed "೨-೧೮"; the OCR agrees). But by the sentence *uṣā vaṣṭeḥ kāntikarmaṇa ucchater itarā mādhyamikā* (Ni. 12-7, as read by the OCR; the print "೧೨-೭") the word *ucchati* may be derived either from the root *vaś kāntau* or from the root *uchī vivāse*. *Ucchantī uṣāḥ* means "Uṣas who, driving away the darkness, appears outside", or "Uṣas who shines".
+
+***nu*** — *nu ity eṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatīty anupraśne* (Ni. 1-4, as printed "೧-೪"). The indeclinable *nu* has many meanings. When one says *idaṃ nu kariṣyati* the *nu* means "therefore", "because of this" (the sense of a reason); when one says *kathaṃ nu kariṣyati* the *nu* is an inquiry, "how?". Likewise *athāpy upamārthe bhavati*: even in indicating a comparison the word *nu* is used. For example —
+
+> अक्षो न चक्र्योः शूर बृहन्ते महना रिरिचे रोदस्योः ।
+> वृक्षस्य नु ते पुरुहूत वया व्यूतयो रुरुहुरिन्द्र पूर्वीः ॥
+
+> *akṣo na cakryoḥ śūra bṛhante mahanā ririce rodasyoḥ |*
+> *vṛkṣasya nu te puruhūta vayā vyūtayo ruruhurindra pūrvīḥ ‖*
+
+(Ṛ. Saṃ. 6-24-? — numerals "೬-೨೪-೯" as I read the print; doubtful [?].) — citing this ṛk, the author of the Nirukta (1-4) gives *vṛkṣasyeva te puruhūta śākhāḥ* — "like a tree, or like the branches of a tree" — for the word *nu*, with the sense of comparison. Likewise it also has the sense "quickly", "in a hurry".
+
+> नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् ।
+> प्र यः सत्राचा मनसा यजात एतावन्तं नर्यमाविवासात् ॥
+
+> *nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*
+> *pra yaḥ satrācā manasā yajāta etāvantaṃ naryamāvivāsāt ‖*
+
+(Ṛ. Saṃ. 7-100-1, as I read the print "೭-೧೦೦-೧"; the OCR "2-100-1" is letter-shaped.) — in such ṛks *nu* has the sense "quickly" (*kṣipram*).
+
+> नू इन्द्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा वावृधस्व ।
+> उप नो वाजान्मिमीह्युप स्त्रीन्यूयं पात स्वस्तिभिः सदा नः ॥
+
+> *nū indra śūra stavamāna ūtī brahmajūtastanvā vāvṛdhasva |*
+> *upa no vājānmimīhyupa strīnyūyaṃ pāta svastibhiḥ sadā naḥ ‖*
+
+(Ṛ. Saṃ. 7-98-11 [?], as I read the print.) *(Read letter by letter; "upa stīn / strīn" — the print shows "ಉಪ ಸ್ತ್ರೀನ್ಯೂಯಂ", given as "upa strīn yūyam" without completing it from memory.)* In these and other places *adya*, that is, "now", "at once" is the meaning; likewise, as the author of the Nirukta says, *nu ity eṣo 'nekakarmā* (Ni. 1-4) — "this *nu* has many meanings" — in the present ṛk it means "quickly, soon".
+
+***ityai*** — this word means "going": "for going and coming", that is, for moving about. Here one connection is *dvipadāṃ catuṣpadāṃ ca gamanāya* — "for the going of the two-footed and the four-footed"…
+
+### Printed p. 132  (PDF 153)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+…and another connection — *asmad-gamanāgamanādi-vyāpārāya* — "for our activity of going and coming and the like" — is also possible. That is: for our moving about, or for the moving about of all living beings.
+
+> त्वं क्षत्राय त्वं श्रवसे त्वं महीया इष्टये त्वमर्थमिव त्वमित्यै ।
+> विसदृशा जीविताभिप्रचक्ष उषा अजीगर्भुवनानि विश्वा ॥
+
+> *tvaṃ kṣatrāya tvaṃ śravase tvaṃ mahīyā iṣṭaye tvamarthamiva tvamityai |*
+> *visadṛśā jīvitābhipracakṣa uṣā ajīgarbhuvanāni viśvā ‖*
+
+(Ṛ. Saṃ. 1-113-6, as read from the print "೧-೧೧೩-೬".) *(Read letter by letter; the Kannada reading of the second line is doubtful: "ajīr" / "ajīgar" given as "ajīgaḥ" [?] — taken exactly as printed.)* — in these ṛks too Uṣas is the one addressed. Here also, in the present ṛk, this word is used to show that she, and she alone, is the helper of the moving about of beings: "you for strength (*kṣatrāya*), you for fame (*śravase*), you ... for going (*ityai*)".
+
+***urviyā*** — *uruśabdāt tṛtīyaikavacane urviyā iti rūpam | uruṇā iti | uruśabdāt tṛtīyā vibhaktyekavacane prayuktāyāṃ urviyā*: from the word *uru*, in the instrumental singular, the form is *urviyā*; its meaning is "widely": the sense "extending everywhere, spreading and pervading".
+
+> व्यचस्वतीरुर्विया वि श्रयन्तां पतिभ्यो न जनयः शुम्भमानाः ।
+> देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः ॥
+
+> *vyacasvatīrurviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*
+> *devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-5 [?], as I read the print; the OCR shape agrees.) — as it is used in this ṛk and similar ones, so here also: "may Uṣas, pervading widely, spread out and shine".
+
+> इन्द्रं कक्षीवदेवं [?] च प्रौषसे पृथुरुत्तरे ।
+
+> *indraṃ kakṣīvadevaṃ [?] ca prauṣase pṛthuruttare |*
+
+(Bṛ. De. 3-140 [?], as read; the first words of the pāda are doubtful in the print.) — that the two Sūktas Ṛ. Saṃ. 1-123 and 1-124 are addressed to the deity Uṣas is the statement of the *Bṛhaddevatā*.
+
+> तथाश्विनशस्त्रे इदमादिसूक्तद्वयस्य विनियोगः ।
+
+> *tathāśvinaśastre idamādisūktadvayasya viniyogaḥ |*
+
+(Sā. Bhā. Pīṭhikā, Ṛ. Saṃ. 1-123.) — thus Sāyaṇa has stated the *viniyoga* of this Sūkta and of the preceding (1-123) Sūkta. In this context, since the connection that exists between the Āśvina-śastra and the present ṛk must be understood, the nature of the Āśvina-śastra and its narrative context is described. This section is stated in the Aitareya Brāhmaṇa as follows (Ai. Br. 4-7 to 11 [as read by the OCR]) —
+
+### Printed p. 133  (PDF 154)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्मै सर्वे देवा वरा आगच्छंस्तस्या एतत्सहस्रं वहतुमन्वकरोद्यदेतदाश्विनमित्याचक्षतेऽनश्चैव तद्यदर्वाक्कुहस्तं [?] तस्मात्सहस्रं वैव शंसेद्यो वा प्राश्य घृतं शंसेद्यथा ह वा इदमनो वा रथो वाक्तो [?] वर्तत एवं हैवाक्तो [?] वर्तते । शकुनिरिवोत्पतिष्यन्नाहैयात ।
+
+> *prajāpatirvai somāya rājñe duhitaraṃ prāyacchatsūryāṃ sāvitrīṃ tasmai sarve devā varā āgacchaṃstasyā etatsahasraṃ vahatumanvakarodyadetadāśvinamityācakṣate 'naścaiva tadyadarvākkuhastaṃ [?] tasmātsahasraṃ vaiva śaṃsedyo vā prāśya ghṛtaṃ śaṃsedyathā ha vā idamano vā ratho vākto [?] vartata evaṃ haivākto [?] vartate | śakunirivotpatiṣyannāhaiyāta |*
+
+*(Read letter by letter from the image; the words "arvākkuhastam" and "vākto/ākto" are doubtful in the print, and I give them as read, not as I would complete them; the OCR of this page is garbled and does not help here.)* In the earlier part Prajāpati, resolving to give his daughter Sūryā to Soma for marriage, all the gods came wishing to choose her. Then Prajāpati laid down a condition that the thousand mantras known as the Āśvina-śastra be recited, and that it should not fall short of that. As a cart-wheel, once it is smeared with oil, turns smoothly, so after drinking ghee (*kṛtapāna*) the mantras can be recited smoothly; therefore one must first drink ghee and afterwards recite. And just as a bird, ready to fly, makes its body light, so the suitor of her must have that quality [of lightness].
+
+> तस्मिन्देवा न समजानत ममेदं ममेदमस्त्विति ते संजानाना अब्रुवन्नाजिमस्यायामहे स यो न उज्जेष्यति तस्येदं भविष्यतीति तेऽग्नेरेवाधि गृहपतेरादित्यं काष्ठामकुर्वत तस्मादाग्नेयी प्रतिपद्भवत्याश्विनस्याग्निर्होता गृहपतिः स राजेति ।
+
+> *tasmindevā na samajānata mamedaṃ mamedamastviti te saṃjānānā abruvannājimasyāyāmahe sa yo na ujjeṣyati tasyedaṃ bhaviṣyatīti te 'gnerevādhi gṛhapaterādityaṃ kāṣṭhāmakurvata tasmādāgneyī pratipadbhavatyāśvinasyāgnirhotā gṛhapatiḥ sa rājeti |*
+
+Then the gods, not agreeing among themselves (each saying "let her be mine, let her be mine"), all came together for one agreement: "In the race, whoever wins — to him she belongs"; and they went to a single race-ground. Then, starting from Agni, the *gṛhapati*, they ran as far as the Sun. Therefore the first mantra is the one addressed to Agni:
+
+> स त्वं दक्षस्यावृको वृधो भूर्यः परस्यान्तरस्य तरुषः ।
+> रायः सूनो सहसो मर्त्येष्वा छर्दिर्यच्छ वीतहव्याय सप्रथो भरद्वाजाय सप्रथः ॥
+
+> *sa tvaṃ dakṣasyāvṛko vṛdho bhūryaḥ parasyāntarasya taruṣaḥ |*
+> *rāyaḥ sūno sahaso martyeṣvā chardiryaccha vītahavyāya sapratho bharadvājāya saprathaḥ ‖*
+
+(Ṛ. Saṃ. 6-15-2, as I read the print "೬-೧೫-೨"; the OCR gives no usable numerals [?].) *(Read letter by letter from the image; the pāda division and a few syllables are not completely clear in the print, I give them as read.)* — this is the ṛk addressed to Agni. This is one view. But others say that one should begin with:
+
+> अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायम् ।
+> अग्नेरनीकं बृहतः सपर्यं दिवि शुक्रं यजतं सूर्यस्य ॥
+
+> *agniṃ manye pitaramagnimāpimagniṃ bhrātaraṃ sadamitsakhāyam |*
+> *agneranīkaṃ bṛhataḥ saparyaṃ divi śukraṃ yajataṃ sūryasya ‖*
+
+(Ṛ. Saṃ. 10-7-3, as read from the print "೧೦-೭-೩"; the OCR agrees.)
+
+### Printed p. 134  (PDF 155)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+— this is a still other view (a few details of this are given when the Agni sūkta that relates to the Āśvina-śastra is explained [as printed: "ಋ. ಸಂ. ೧-೧೪೪ನೇ ಸೂಕ್ತದ ಪೀಠಿಕೆ"? (the OCR: "1-144th sūkta's pīṭhikā"); numeral doubtful [?]]). Since here the Sūkta with the deity Uṣas is being explained, only the connection that exists between it and the Āśvina-śastra is stated.
+
+> तासां वै देवतानामाजिं धावन्तीनामभिसृप्यानामग्निर्मुखं प्रथमः प्रत्यपद्यत तमश्विनावन्वागच्छतां तमब्रूतामपोदिह्यावां वा इदं जेष्याव इति स तथेत्यब्रवीत्तस्य वै ममेहास्त्विति [?] तथेति तस्मा अप्याकुरुतां [?] तस्मादाग्नेयमाश्विने शस्यते । ता उषसमन्वागच्छतां ताम[ब्रूताम्] अपोदिह्यावां वा इदं जेष्याव इति सा तथेत्यब्रवीत्तस्यै वै ममेहास्त्विति [?] तथेति तस्या अप्याकुरुतां [?] तस्मादुषस्यमाश्विने शस्यते ।
+
+> *tāsāṃ vai devatānāmājiṃ dhāvantīnāmabhisṛpyānāmagnirmukhaṃ prathamaḥ pratyapadyata tamaśvināvanvāgacchatāṃ tamabrūtāmapodihyāvāṃ vā idaṃ jeṣyāva iti sa tathetyabravīttasya vai mamehāstviti [?] tatheti tasmā apyākurutāṃ [?] tasmādāgneyamāśvine śasyate | tā uṣasamanvāgacchatāṃ tāma[brūtām] apodihyāvāṃ vā idaṃ jeṣyāva iti sā tathetyabravīttasyai vai mamehāstviti [?] tatheti tasyā apyākurutāṃ [?] tasmāduṣasyamāśvine śasyate |*
+
+*(Read letter by letter from the image; the OCR is garbled. The words marked [?], "mamehāstviti" and "apyākurutām", are doubtful in the print and are given as read; they match the sense of the Kannada paraphrase that follows.)* All the deities, running together in this race, and Agni, the foremost, came in front of all. Then the two Aśvins approached Agni and asked: "Give us the way; help us to win in this race." Agni agreed, and asked that he too be given a share in the victory; therefore in the Āśvina-śastra there is a portion for him too. Afterwards the two Aśvins followed Uṣas: "Give us the way; help us to win in this race." Then the goddess Uṣas agreed, and laid down the condition that she too have a share in their victory; they consented, and the Āśvina-śastra therefore contains the recitation of the Sūkta addressed to Uṣas. In the same way the Aśvins asked Indra as well, and made him a sharer in this.
+
+> तदाहुर्यद्वृत आग्नेयं शस्यत उषस्यं शस्यत ऐन्द्रमथ कस्मादेतदाश्विनमित्याचक्षत इत्यश्विनौ हि तदुदजयतामश्विनावाक्कुमातां [?] तस्मादेतदाश्विनमित्याचक्षते ॥
+
+> *tadāhuryadvṛta āgneyaṃ śasyata uṣasyaṃ śasyata aindramatha kasmādetadāśvinamityācakṣata ityaśvinau hi tadudajayatāmaśvināvākkumātāṃ [?] tasmādetadāśvinamityācakṣate ‖*
+
+(Ai. Br. 4-? to ?, as read from the print — the numerals "೪-೭ ರಿಂದ ೯" are doubtful [?].) *(Read letter by letter; "āvākkumātām" is doubtful in the print.)* In this context, since the mantras addressed to Agni, to Indra, and to Uṣas have to be recited, the objection comes up how it came to be named "Āśvina-śastra"; the answer is that, since it is chiefly recited for the victory of the Aśvin deities, this name belongs to all these mantras. The connection that exists between the present Sūktas 1-123 and 1-124 and the Āśvina-śastra is as stated above.
+
+---
+
+**Progress note:** Sūkta 123 complete (pp. 70–128). Sūkta 124 (*uṣā ucchantī*, 13 ṛks, printed pp. 128–187) through printed p. 134 (PDF 155): Ṛk 1 Special Topics (the Aitareya Brāhmaṇa Āśvina-śastra passage) done; resume p. 135 (PDF 156) — grammar of Ṛk 1, then Ṛk 2.
