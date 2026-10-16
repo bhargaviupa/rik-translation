@@ -10832,4 +10832,72 @@ In the matter of Indra's coming to the sacrificial hall, the sentence *astaṃ r
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 434 (PDF 455): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā…English and Special Topics begun (first two entries *gabhastyoḥ*, *tigmam*); resume p. 435 (PDF 456) with the rest of the Ṛk 4 Special Topics. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 Saṃhitā line 3 "saṃśiśad … saṃ śyat" doubtful, p. 432, and bhāṣya p. 433); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 435  (PDF 456)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+***kṣadmeva*** — *udakam iva*: the word *kṣadma* is recorded among the names of water (Ni. 1-[?]; as read "೧-೩೪"?) and among the names of food (Ni. 2-[?]; "೨-೯"?). "*udakaṃ yathā śatrūṇāṃ nirasanāyābhimantraṇādisaṃskāreṇa tīkṣṇīkaroti tadvat*" — "as water is made sharp by being charmed with mantras for destroying the enemies, so Indra, holding in his hands the thunderbolt, makes it very sharp when destroying enemies": this is the illustration given.
+
+***ahihatyāya*** — *aher vṛtrasya meghasya vā hananāya*: the Niruktakāra explains the meaning with the explanation: *ahir ayanād eti, ā-hanter vā*; *ahir ayam apīta iro 'hir eti*, *ahir meghaḥ nirhrasitopasarga āhantīti* (as read; small type, doubtful: [?]): from the root *iṇ* (to go) "*ayanāt*" (because it moves), or the root *han* with *ā*: *āhanti*, "strikes". The word *ahi* is recorded among the names of cloud (Ni. 1-[?]; as read "೧-೧೦") and of water (Ni. 1-[?], "೧-೩೪"). Sāyaṇa explains the meaning "Indra makes the thunderbolt sharper, in order to slay the demon Vṛtra, the enemy, or to destroy the cloud, which is naturally sharp [?]".
+
+***ojasā, majmanā, śavobhiḥ*** — *parābhibhavasāmarthyena śārīreṇa balena senālakṣaṇair balaiḥ*: the word *ojas* is recorded among the names of water (Ni. 1-[?]; "೧-೩೪") and of strength (Ni. 2-[?]; "೨-೯"); *majmanā* among the names of strength (Ni. 2-[?], "೨-೯"); and *śavas* among the names of water and strength. Since these three words are recorded among the names of strength and convey the same sense "strength", Sāyaṇa distinguishes among them: *ojas* is the power of overcoming others, *majman* is bodily strength, and *śavas* is the strength of an army (as warriors and the like). Indra is described as being endowed with these three strengths.
+
+***taṣṭeva vṛkṣaṃ vanino ni vṛścasi*** — *vṛkṣāṇāṃ takṣaṇasya sādhukartā vanasambandhino vṛkṣān stopabhogāya yathā nitarāṃ chinatti*: "as a carpenter, who cuts the trees of the forest so that they may be used, does the work of cutting the tree; and *paraśveva nivṛścasi* — as with an axe one cuts the trees; so Indra, by his three kinds of strength, destroys the enemies of the sacrificers": the carpenter's work is the comparison.
+
+### Printed p. 436  (PDF 457)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as printed).** *dādhṛhāṇaḥ* — root *dṛha dṛhi vṛddhau*; when *liṭ* follows, *liṭaḥ kānajvā* (Pā. 3-2-106) gives *kānac*; the root is doubled; since *ur* ends, *urat* gives *at*; *halādiḥ śeṣaḥ* leaves the first consonant; the long vowel of the reduplicative is Vedic; since the suffix has *k*-marker the *n* [as read]; *citaḥ* (Pā. 6-1-163) gives the acute on the last syllable. *vajram* — root *vaja gatau*; *ujjer…* [as read: *ṛjendrāgravajra…* Uṇ. 2-28] gives *ran* by irregular formation; since *n*-marked the acute on the first syllable. *tigmam* — root *tija niśāne*; *yujirucitijāṃ kuś ca* (Uṇ. 1-[?]) gives *mak*; *ku* for the final *j* of the root; acute on the last syllable by the suffix. *asanāya* — root *asu kṣepaṇe*; *lyuṭ* in the abstract sense; *yuvor anākau* (Pā. 7-1-1) gives *ana*; *liti* gives the acute before the suffix. *śyat* — root *śo tanūkaraṇe*, *divādi*; *laṅ* third person singular, *tip*; *itaś ca* drops *i*; *divādibhyaḥ śyan* (Pā. 3-1-69) gives *śyan*; *ote śyani* (Pā. 7-3-71) drops the *o* of the root; *bahulaṃ chandasy amāṅyoge 'pi* gives no augment *aṭ*; or by *leṭi*, *itaś ca lopaḥ* drops *i*. *ahihatyāya* — *aher hatyaṃ tasmai*; root *han hiṃsāgatyoḥ*; *hanas ta ca* (Pā. 3-1-97) gives *kyap*; *t* replaces the root's end; since *p*-marked the root's accent remains; *kṛd-uttarapadaprakṛtisvara*. *saṃvivyānaḥ* — root *vyeñ saṃvaraṇe*; when *liṭ* follows, *liṭaḥ kānac* gives *kānac*; since *k*-marked, *grahijyāvayi…* (Pā. 6-1-16) gives *saṃprasāraṇa*, *pūrvarūpa*; *vi + āna* by *yaṇ*; *citaḥ* gives the acute on the last syllable; in the compound *kṛd-uttarapadaprakṛtisvara*. *taṣṭā* — root *takṣū tanūkaraṇe*; *tṛn* in the agent sense; *skoḥ saṃyogādyor ante ca* (Pā. 8-2-29) drops the *k*; *ṣatva* of the suffix; since *n*-marked the acute on the first syllable. *vaninaḥ* — *vanam asyāsti iti vanī, tasya*; *ini* in the possessive sense; genitive singular.
+
+### Printed p. 437  (PDF 458)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+*(Grammar, concluded.)* *vṛścasi* — root *oścū chedane*; *laṭ* second person singular; because it follows a finite verb, *nighāta*. *paraśvā* — *paraṃ śṛṇāti iti paraśuḥ*; root *śṝ hiṃsāyām*; *ajiśṛbhyāṃ…* [as read: *ājñāsarayoḥ khanibhyāṃ ḍit*, Uṇ. 1-[?]] gives *u* after *śṝ* with the *ḍit* marker; because of *ḍit* the *ṭi* (*ṛ*) drops; the acute on the last syllable by the suffix; by the statement *jasādiṣu chandasi vā vacanam* [as read] the instrumental singular following does not give *nā*; *yaṇ* substitution; *udāttayaṇo hal pūrvāt* (Pā. 6-1-174) gives the acute to the ending. ‖ 4 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> त्वं वृथा नद्य इन्द्र सर्तवेऽच्छा समुद्रमसृजो रथाँ इव वाजयतो रथाँ इव ।
+> इतः ऊतीरयुञ्जत समानमर्थमक्षितम् ।
+> धेनूरिव मनवे विश्वदोहसो जनाय विश्वदोहसः ॥ ५ ॥
+
+> *tvaṃ vṛthā nadya indra sartave 'cchā samudramasṛjo rathā~ iva vājayato rathā~ iva |*
+> *itaḥ ūtīrayuñjata samānamarthamakṣitam |*
+> *dhenūriva manave viśvadohaso janāya viśvadohasaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । वृथा । नद्यः । इन्द्र । सर्तवे । अच्छ । समुद्रम् । असृजः । रथान्ऽइव । वाजयतः । रथान्ऽइव ।
+> इतः । ऊतीः । अयुञ्जत । समानम् । अर्थम् । अक्षितम् ।
+> धेनूःऽइव । मनवे । विश्वऽदोहसः । जनाय । विश्वऽदोहसः ॥ ५ ॥
+
+> *tvam | vṛthā | nadyaḥ | indra | sartave | accha | samudram | asṛjaḥ | rathān 'iva | vājayataḥ | rathān 'iva |*
+> *itaḥ | ūtīḥ | ayuñjata | samānam | artham | akṣitam |*
+> *dhenūḥ 'iva | manave | viśva 'dohasaḥ | janāya | viśva 'dohasaḥ ‖ 5 ‖*
+
+*(Read from the image. The Saṃhitā prints "*itaḥ ūtīr ayuñjata*"; the Pada gives *itaḥ | ūtīḥ | ayuñjata*; *rathān-iva*, *vājayataḥ*.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, partly doubtful: [?]).*
+
+> हे इन्द्र त्वं वृथा प्रयत्नेनैव । अनायासेनैवेत्यर्थः । नद्यो नदीः समुद्रमच्छाभिमुख्येन सर्तवे प्रसर्तुमसृजः । मेघं निर्भिद्योत्पादितवानसि । तत्र दृष्टान्तः । रथानिव । यथा त्वं रथानस्मद्यागं प्रत्येतुं सर्तवे अभिमुखेन प्रासृजः सृष्टवानसि तद्वत् । किंच वाजयतो रथानिव । सङ्ग्रामं वा वाजमन्नमभिलषन्तो राजादयो रथान् यथा सृजन्ति तद्वत् । कृ . ... जन्तात् शतुरनुम इति विभक्तेरुदात्तत्वम् ॥ किंचेतोऽस्मत्सन्निधिदेशम् ॥ द्वितीयार्थे तसिल् । अस्मान् प्रत्योतीरूतयो गमनवत्यो रक्षणवत्यो वा नद्यः समानमर्थं समानप्रयोजनवदक्षितमुदकमयुञ्जत । योजितवत्यः । त्वत्प्रसादादिति भावः ॥ अर्थशब्द उदकविशेषः सन्नपुंसकलिङ्गः । अक्षितमित्युदकनामसु अक्षितं बर्हिरिति तन्नामसु पाठात् । तत्र दृष्टान्तः । मनवे मनोरर्थाय धेनूरिव धेनवो यथा विश्वदोहसः सर्वार्थं दोग्ध्र्यो भवन्ति । यथा वा जनाय यस्मै कस्मै चिज्जनायार्थाय तदर्थं विश्वदोहसो भवन्ति सर्वक्षीरप्रदा भवन्ति । यद्वा । जनाय सर्वजनार्थं सस्यादीनभिलक्ष्य नद्यो विश्वदोहसः सम्पूर्णदोग्ध्र्यो भवन्ति । सर्वत्र प्रवहन्ति । अत्र नद्यः प्रीणनादिदोहस इत्युपचर्यते । ऊर्ध्वगग्रामनुपकारिवृष्टिप्रद इतीन्द्रस्यैव स्तुतिः ॥
+
+> *he indra tvaṃ vṛthā prayatnenaiva | anāyāsenaivetyarthaḥ | nadyo nadīḥ samudramacchābhimukhyena sartave prasartumasṛjaḥ | meghaṃ nirbhidyotpāditavānasi | tatra dṛṣṭāntaḥ | rathāniva | yathā tvaṃ rathānasmadyāgaṃ pratyetuṃ sartave abhimukhena prāsṛjaḥ sṛṣṭavānasi tadvat | kiṃca vājayato rathāniva | saṅgrāmaṃ vā vājamannamabhilaṣanto rājādayo rathān yathā sṛjanti tadvat | kṛ . ... jantāt śaturanuma iti vibhakterudāttatvam ‖ kiṃceto 'smatsannidhideśam ‖ dvitīyārthe tasil | asmān pratyotīrūtayo gamanavatyo rakṣaṇavatyo vā nadyaḥ samānamarthaṃ samānaprayojanavadakṣitamudakamayuñjata | yojitavatyaḥ | tvatprasādāditi bhāvaḥ ‖ arthaśabda udakaviśeṣaḥ sannapuṃsakaliṅgaḥ | akṣitamityudakanāmasu akṣitaṃ barhiriti tannāmasu pāṭhāt | tatra dṛṣṭāntaḥ | manave manorarthāya dhenūriva dhenavo yathā viśvadohasaḥ sarvārthaṃ dogdhryo bhavanti | yathā vā janāya yasmai kasmai cijjanāyārthāya tadarthaṃ viśvadohaso bhavanti sarvakṣīrapradā bhavanti | yadvā | janāya sarvajanārthaṃ sasyādīnabhilakṣya nadyo viśvadohasaḥ sampūrṇadogdhryo bhavanti | sarvatra pravahanti | atra nadyaḥ prīṇanādidohasa ityupacaryate | ūrdhvagagrāmanupakārivṛṣṭiprada itīndrasyaiva stutiḥ ‖*
+
+*(Sense: "O Indra, *vṛthā* — without effort — you released the rivers to flow (*sartave*) toward the sea, splitting the cloud. The example: as you released chariots toward our sacrifice, so; and as kings and others eager for battle or food send forth chariots. And hence the flowing rivers (*ūtīḥ*) — those that go or protect — yoked (*ayuñjata*) to the common purpose water that does not diminish (*akṣitam*): by your grace. *Artha* is a kind of water [neuter]. *Akṣita* is recorded among the names of water and of *barhis*. The example: as cows, for Manu or for any person whomever, are *viśvadohasaḥ* — yielding all milk — so, or: the rivers, for all people, looking to the crops and so on, yield fully and flow everywhere; here the rivers are said, figuratively, to 'milk' through gratification. This is a praise of Indra alone, the giver of rain beneficial to all.")*
+
+### Printed p. 438  (PDF 459)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) indra* — O Indra; *tvam* — you; *vṛthā* — without effort; *nadyaḥ* — the rivers; *samudram accha* — toward the sea; *sartave* — to flow; *rathān iva* — as chariots (are sent toward our sacrifice); *(kiṃ ca* — and); *vājayataḥ* — (kings and others) desiring battle or food; *rathān iva* — as chariots (are sent); *asṛjaḥ* — you released (splitting the clouds); *(kiṃ ca* — and also); *itaḥ* — here (toward the place near us); *ūtīḥ* — the rivers that flow (and protect us); *samānam* — equal; *arthaṃ* — in purpose; *akṣitam* — water; *manave* — for the sake of Manu; *dhenūḥ iva* — as cows; *viśvadohasaḥ* — milking all things; *janāya* — for any man; *(dhenūr iva viśvadohasaḥ* — cows give milk fully); or *janāya* — for the people; *viśvadohasaḥ (iva)* — the rivers (flow and make crops grow, bringing the desired fruits); *ayuñjata* — [by your favour] have yoked.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, you, effortlessly, send the rivers toward the sea by splitting the clouds, as one sends chariots to our sacrifice, or as kings eager for battle or food send chariots; and here, the rivers that flow close to us (protecting us) are united in one purpose with the water that does not waste away; for Manu, as cows yield all things, and for all people as cows yield milk in full, all the rivers, flowing everywhere, make crops grow and bring all desired fruits.
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 438 (PDF 459): Ṛks 1–4 complete (‖ 4 ‖); Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha written (the Bhāvārtha's last words are on p. 439); resume p. 439 (PDF 460) with the end of the Bhāvārtha, English, Special Topics, grammar. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ with `crop_pages.py Rig_Vol10.pdf 461 540 $S/w10e --dpi 150` when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 written under p. 414 though the print runs on to p. 415), Sūkta 130 (Ṛk 1 bhāṣya p. 418; Ṛk 2 pp. 423–426; Ṛk 3 bhāṣya p. 428 with typo "aavindat" in the Pratipadārtha; Ṛk 4 p. 432 line 3 doubtful, bhāṣya p. 433, Special Topics p. 435; Ṛk 5 bhāṣya p. 437); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
