@@ -1218,20 +1218,19 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 *(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 8.**
 
-***nahuṣaḥ*** — This word is recorded among the names of *manuṣya* ("man") (Ni. 2-2 [?], as read). *Parasparasnehabandhopetā manuṣyā vayaṃ kakṣīvantaḥ* — "we, Kakṣīvān's people, bound by mutual affection and kinship": the sense indicated by the word *nahuṣa* has been explained [above]. [The matter of Nahuṣa has been told earlier.]
+***nahuṣaḥ*** — This word is recorded among the names of *manuṣya* ("man") (Ni. 3-7, as read by the reader's OCR). *Parasparasnehabandhopetā manuṣyā vayaṃ kakṣīvantaḥ* — "we, Kakṣīvān's people, bound by mutual affection and kinship": the sense indicated by the word *nahuṣa* has been explained [above]. [The matter of Nahuṣa has been told earlier.]
 
-***sūriḥ*** — The word *sūri* is recorded among the names of the praiser (*stotṛ*) (Ni. 3-1[?]-[?], as read); it has been used in the Saṃhitās in the senses *medhāvin*, *krāntadarśin*, *tattvajña* ("intelligent", "far-seeing", "knower of the truth"); here the Nirukta writers have given the meaning *preraka* ("impeller") for the word *sūri*.
+***sūriḥ*** — The word *sūri* is recorded among the names of the praiser (*stotṛ*) (Ni. 3-19, as read by the reader's OCR); it has been used in the Saṃhitās in the senses *medhāvin*, *krāntadarśin*, *tattvajña* ("intelligent", "far-seeing", "knower of the truth"); here the Nirukta writers have given the meaning *preraka* ("impeller") for the word *sūri*.
 
 > जिष्णुर्वामन्यः सुमुखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ।
 
 > *jiṣṇurvāmanyaḥ sumukhasya sūrirdivo anyaḥ subhagaḥ putra ūhe |*
 
-(Ṛ. Saṃ. 1-181-4 [?], as read.) In citing this ṛk they have shown, for the word *sūri* in it, that the sense is *erayitā*, *prerakaḥ* ("one who sets in motion, an impeller") (Ni. 13-2 [?], as read). In the same way here too: "the assembly of the gods, the people, is for me *sūri* — that is: 'the impeller to carry out the sacrificial duties and the like'."
+(Ṛ. Saṃ. 1-181-4 [?], as read.) In citing this ṛk they have shown, for the word *sūri* in it, that the sense is *erayitā*, *prerakaḥ* ("one who sets in motion, an impeller") (Ni. 12-3, as read by the reader's OCR; my own first reading "13-2" was wrong). In the same way here too: "the assembly of the gods, the people, is for me *sūri* — that is: 'the impeller to carry out the sacrificial duties and the like'."
 
-**Vyākaraṇa-prakriyā (grammar page, Ṛk 8, noted briefly).** *Asya* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. *Stuṣe* — the root *ñiṣṭuñ stutau*, *adādi*; *vyatyayo bahulam* — the *laṭ* 1st-person suffix is replaced by *thās*; by *se* ; *śap* has *luk*; after an *atiṅanta* the *nighāta*. *Mahimaghasya* — *mahi pūjyaṃ maghaṃ dhanaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *Rādhaḥ* — *rādhnuvanti anena iti rādhaḥ dhanam*; the root *rādha saṃsiddhau*; *sarvadhātubhya asun* (Uṇ. Sū. 4-6[?]-[?], as read) the suffix *asun*; since *nit*, the initial acute. *Sacā* — the root *ṣacaḥ samavāye*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *sa* for the initial; since it belongs to the *sampadādi* group, *sampadādibhyaḥ kvip* (Pā. Sū. 3-3-108 [?], as read) the suffix *kvip* in the sense of the action; instrumental singular; though a word of one syllable, by *vyatyaya* the root accent remains.
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 8, noted briefly).** *Asya* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. *Stuṣe* — the root *ñiṣṭuñ stutau*, *adādi*; *vyatyayo bahulam* — the *laṭ* 1st-person suffix is replaced by *thās*; by *se* ; *śap* has *luk*; after an *atiṅanta* the *nighāta*. *Mahimaghasya* — *mahi pūjyaṃ maghaṃ dhanaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *Rādhaḥ* — *rādhnuvanti anena iti rādhaḥ dhanam*; the root *rādha saṃsiddhau*; *sarvadhātubhya asun* (Uṇ. Sū. 4-628, as read by the reader's OCR) the suffix *asun*; since *nit*, the initial acute. *Sacā* — the root *ṣacaḥ samavāye*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *sa* for the initial; since it belongs to the *sampadādi* group, *sampadādibhyaḥ kvip* (Pā. Sū. 3-3-108 [?], as read) the suffix *kvip* in the sense of the action; instrumental singular; though a word of one syllable, by *vyatyaya* the root accent remains.
 
----
-
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-7; 3-19; 12-3; 6-1-171; 6-1-171; 6-2-1; 4-628; 6-1-68; 3-3-108-6
 
 ### Printed p. 41  (PDF 62)
 
@@ -1254,6 +1253,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *janaḥ | yaḥ | mitrāvaruṇau | abhi 'dhruk | apaḥ | na | vām | sunoti | akṣṇayā 'dhruk |*
 > *svayam | saḥ | yakṣmam | hṛdaye | ni | dhatte | āpa | yat | īm | hotrābhiḥ | ṛta 'vā ‖ 9 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-10; 8-2-15; 5-2-98; 8-2-9; 6-3-131
 
 ### Printed p. 42  (PDF 63)
 
@@ -1285,7 +1286,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 (Bhagavadgītā 3-12, as printed "೩-೧೨".) As this saying has it, one who, having enjoyed the food produced by the gods' favour — rain and the like — from the rain and so on that were granted by the deities, does not practise sacrifice in thankfulness to them, commits a kind of treason against the gods. This *droha* is of two kinds: *abhidhruk*, direct hatred, and *akṣṇayādhruk*, acting with hostility by deceitfully going the crooked way, as a performer of sacrifice. Those who live out the life of such hatred have no kind of wealth. Seeing all the wealth the sacrificers enjoy, they feel jealousy, and this jealousy burns the heart. That disease is called *yakṣma*. Ordinarily *yakṣma* is consumption (*kṣayaroga*); because jealousy causes the heart to waste, it too is called *yakṣma*.
 
-***hotrābhiḥ*** — The word *hotrā* is recorded among the names of speech (*vāṅnāmāni*) (Ni. 1-1[?]-[?], as read) — "by praising words"; it is also recorded among the names of sacrifice (Ni. 3-1[?], as read); so it can also mean "by sacrificial acts".
+***hotrābhiḥ*** — The word *hotrā* is recorded among the names of speech (*vāṅnāmāni*) (Ni. 2-23, as read by the reader's OCR) — "by praising words"; it is also recorded among the names of sacrifice (Ni. 3-19, as read by the reader's OCR); so it can also mean "by sacrificial acts".
 
 > समानं योनिमनु सञ्चरन्तं द्रप्सं जुहोम्यनु सप्त होत्राः ।
 
@@ -1294,6 +1295,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 (Ṛ. Saṃ. 10-11[?]-[?], as read.) In this ṛk, for the word *hotrāḥ*, whichever of these two meanings is taken it fits, as may be seen in the bhāṣya.
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 9, noted briefly).** *Mitrāvaruṇau* — *mitraś ca varuṇaś ca*; by *devatādvandve ca* the *ānaṅ* substitution for the first member; in the vocative by *āmantritasya ca* the *nighāta* accent. *Abhidhruk* — the root *druha jighāṃsāyām*; *satsūdviṣadruhaduha…* the suffix *kvip*; with *su* following, by *vā druhamuha…* the *gh*-substitution optionally, and by *ekāco baśo bhaṣ…* the *bhaṣ* substitution; *gatikārakopapadāt kṛt* the accent of the last member.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-12; 2-23; 3-19; 6-3-26; 8-1-19; 3-2-61; 3-2-61; 8-2-32; 6-2-139
 
 ### Printed p. 44  (PDF 65)
 
@@ -1316,6 +1319,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *saḥ | vrādhataḥ | nahuṣaḥ | daṃsu 'jūtaḥ | śardhaḥ 'taraḥ | narām | gūrta 'śravāḥ |*
 > *visṛṣṭa 'rātiḥ | yāti | bāḷha 'sṛtvā | viśvāsu | pṛt 'su | sadam | it | śūraḥ ‖ 10 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-1-171; 3-4-66; 6-1-193; 3-1-84; 6-3-137
 
 ### Printed p. 45  (PDF 66)
 
@@ -1381,6 +1386,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 10, noted briefly).** *Vrādhataḥ* — the root *vṛdhu vṛddhau*, with the *uṇādi* suffix *ati*; the augment *a*… by that [combination]; *vṛṣādīnāṃ ca* — the initial acute. *Daṃsujūtaḥ* — the root *damu upaśame*; *anyebhyo 'pi dṛśyate* the suffix *vic*; in *vic*, total elision; *jū* is a *sautra* root of the sense of motion; the suffix *kta* in the passive by *niṣṭhā*; *tṛtīyā karmaṇi* — the first member keeps its natural accent. *Narām* — the word *nṛ*; the genitive plural; *jasādiṣu chandasi vāvacanam* — the *nuṭ* does not come; guṇa by *vyatyaya*; *sāvekācas tṛtīyādiḥ…* — the ending takes the acute. *Gūrtaśravāḥ* — the root *gurī udyamane*; the suffix *kta* by *niṣṭhā*; since it is *ra*-… the cerebral *ṇ* is not [substituted]; *gūrtaṃ śravaḥ yasya saḥ gūrtaśravāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Visṛṣṭarātiḥ* — the root *sṛja visarge*; with the prefix *vi*, the *niṣṭhā* suffix in the passive; *vraścabhrasja…* — *ṣatva* of the *j*; the suffix *kta* in the sense of *ṣṭu*; *gatir anantaraḥ* — the prefix keeps its own accent.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-1-203; 3-2-75; 3-2-102; 6-2-48; 61-168; 8-2-61; 6-2-1; 8-2-36; 6-2-49
+
 ### Printed p. 48  (PDF 69)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Grammar page, continued (Ṛk 10, noted briefly).** *Visṛṣṭarātiḥ* (concluded) — *visṛṣṭā rātir yena saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member. *Yāti* — the root *yā prāpaṇe*; *laṭ*, 3rd singular; after an *atiṅanta* the *nighāta*. *Bāḷhasṛtvā* — *bāḍhaṃ sarati iti bāḷhasṛtvā*; the root *sṛ gatau*; *anyebhyo 'pi dṛśyate* the suffix *kvanip*; since it is *kit*, no guṇa; since it is *pit*, by *hrasvasya piti kṛti tuk* the *tuk* augment for the short vowel — the word *sṛtvan*; *gatikārakopapadāt kṛt*: the accent of the last member. *Pṛtsu* — the word *pṛtanā*; when the locative plural follows, by the statement *pādādiṣu māṃspṛtsnām upasaṅkhyānam* the substitute *pṛd*; *khari ca* the *d* becomes *t*; because it has one syllable, *sāvekācas tṛtīyādiḥ…* the ending takes the acute. ‖ 10 ‖
@@ -1404,6 +1411,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 > *nabhaḥ 'juvaḥ | yat | niravasya | rādhaḥ | pra 'śastaye | mahinā | ratha 'vate ‖ 11 ‖*
 
 *(The Saṃhitā's* ग्मन्ता *is as printed; the Pada reads* ग्मन्त.)*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-1; 3-2-75; 6-1-71; 2-139; 8-4-55; 6-1-168
 
 ### Printed p. 49  (PDF 70)
 
@@ -1436,9 +1445,9 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 ***gmantā*** — the final syllable of this word is lengthened in the Saṃhitā text, for the sake of the metre.
 
-***nahuṣaḥ*** — since the word *nahuṣaḥ* is recorded among the twenty-five names of man, *manuṣyāḥ, narāḥ* and so on (Ni. 2-2 [?], as read), *nahuṣaḥ* means "of man". Here the word *nahuṣaḥ* is the genitive singular of the word *nahus*.
+***nahuṣaḥ*** — since the word *nahuṣaḥ* is recorded among the twenty-five names of man, *manuṣyāḥ, narāḥ* and so on (Ni. 3-7, as read by the reader's OCR), *nahuṣaḥ* means "of man". Here the word *nahuṣaḥ* is the genitive singular of the word *nahus*.
 
-***sūreḥ*** — *stotrādipreṇakasya*: "of the one who impels praise and so on". Since the word *sūri* is recorded in the group of thirteen names of praisers beginning with *rebhaḥ, jaritā* (Ni. 3-1[?], as read), *sūreḥ* means "of one who makes praise and so on".
+***sūreḥ*** — *stotrādipreṇakasya*: "of the one who impels praise and so on". Since the word *sūri* is recorded in the group of thirteen names of praisers beginning with *rebhaḥ, jaritā* (Ni. 3-19, as read by the reader's OCR), *sūreḥ* means "of one who makes praise and so on".
 
 ***amṛtasya*** — the bhāṣyakāra has given for this word the ordinary meaning *amaraṇasya*, "of the deathless". Since this word is an epithet of *nahuṣaḥ* — "of man (of me)" — the doubt naturally arises how a man can be deathless. The bhāṣyakāra has not given a proper explanation of this.
 
@@ -1454,11 +1463,15 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 ***rādhaḥ*** — *samṛddhisādhanaṃ havirlakṣaṇaṃ saṃrādhakaṃ stotraṃ vā*: "the oblation that is the means of prosperity, or the praise that gives satisfaction" — that is, for praising the food in the form of oblation which we have prepared for prosperity, or the praise which we offer in a special way.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-7; 3-19
+
 ### Printed p. 51  (PDF 72)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* The greater part of this ṛk, and in it the second half, is full of difficulties. The meaning does not fit properly; the word *amṛtasya* in the first half is opposed to the nature of man: all men must be subject to death, so how can they be deathless? In the second half too, the use of the word *rathavate* cannot be explained as it ought to be, as the sacrificing *yajamāna* who is said to be fed; and since there is no verb in this sentence, neither the main intention of the sentence nor the seer's meaning is clear.
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 11, noted briefly; sūtra numbers not reproduced).** *Adha* — when *atha* is said, the *dh* replaces the *th* by *vyatyaya*. *Gmanta* — the root *gamḷ gatau*; *chandasi luṅlaṅliṭaḥ* — *laṅ* in the sense of the imperative; by *vyatyayo bahulam* the suffix *jhi* … in the second-person plural; *bahulaṃ chandasi* the *luk* of the vikaraṇa; *sārvadhātukam apit* — since the suffix is *ṅit*-like, *gamahanajana…* the loss of the penultimate of the root; the suffix *jhi* … *jhoṃtaḥ* — the *ant*; *bahulaṃ chandasy amāṅyoge 'pi* — the augment *aṭ* is not [added]; since *adha* is connected as an *nipāta*, *nipātair yad yady…* the *nighāta* is prevented, so the suffix's first acute remains. *Havam* — the root *hveñ spardhāyāṃ śabde ca*; in the sense of action by *bhāve 'nupasargasya* the suffix *ap*; *saṃprasāraṇa*, *saṃprasāraṇācca* the *pūrvarūpa*; taking the suffix as the cause, by *sārvadhātukārdhadhātukayoḥ* the guṇa for the *u*; *av*-substitution; the suffix is *pit*, so it is unaccented, and the root accent remains; accusative singular. *Śrota* — the root *śru śravaṇe*; *loṭ*, 2nd plural, with the *lat*-like *ta*-substitute; by *bahulaṃ chandasi* the *luk* of *śap*; by *vyatyaya* the guṇa of the root's *u* with the suffix as the cause; since it stands at the beginning of the verse-quarter, no *nighāta*; the root accent remains; *dvyaco 'tastiṅaḥ* — in the Saṃhitā the lengthening of the *i*. *Rājānaḥ* — the root *rājṛ dīptau*; the *uṇādi* suffix *kanin*; nominative plural in the vocative; *āmantritasya ca* the *nighāta*.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-4-6; 3-1-85; 1-2-4; 6-4-98; 7-1-3; 64-75; 81-30; 3-3-75; 6-3-135; 8-1-19
 
 ### Printed p. 52  (PDF 73)
 
@@ -1483,6 +1496,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 > *dyumnāni | yeṣu | vasu 'tātī | rāran | viśve | sanvantu | pra 'bhṛtheṣu | vājam ‖ 12 ‖*
 
 *(The first word of the Ṛk is not settled letter by letter; the Saṃhitā and Pada print the same syllables.)*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-116; 3-3-94; 6-2-50
 
 ### Printed p. 53  (PDF 74)
 
@@ -1512,7 +1527,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 **Special topics (Viśeṣaviṣayagaḷu), Ṛk 12.**
 
-***śardham*** — Among the twenty-eight names of strength beginning *ojaḥ, pājaḥ*, the word *śardha* is recorded (Ni. 2-9 [?], as read), so *śardha* means strength. The bhāṣyakāra has given, in this ṛk, for the word *śardha* the meaning *balam* and, as *pareṣām abhibhāvakam annam* — "food that gives the capacity to overcome others (enemies)". Besides this, in other ṛks, according to the context, he has given different meanings to this word. For example:
+***śardham*** — Among the twenty-eight names of strength beginning *ojaḥ, pājaḥ*, the word *śardha* is recorded (Ni. 2-9 [?] — as read by me; the reader's OCR gives "39", the hyphen lost, which may be 3-9 or 2-9), so *śardha* means strength. The bhāṣyakāra has given, in this ṛk, for the word *śardha* the meaning *balam* and, as *pareṣām abhibhāvakam annam* — "food that gives the capacity to overcome others (enemies)". Besides this, in other ṛks, according to the context, he has given different meanings to this word. For example:
 
 > क्रीळं वः शर्धो मारुतमनर्वाणं रथे शुभम् । कण्वा अभि प्र गायत ॥
 
@@ -1526,6 +1541,8 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 (Ṛ. Saṃ. 1-37-5 [?], as read.) *śardhaḥ* — *prasahanaśīlaṃ tejaḥ*: "a power that overpowers" — that is, an unobstructed brilliance (*tejas*), he says.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 1-106-1
+
 ### Printed p. 55  (PDF 76)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Special topics, Ṛk 12 (continued).** ***śardham*** (continued):
@@ -1534,15 +1551,15 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *indraṃ mitraṃ varuṇamagnimūtaye mārutaṃ śardho aditiṃ havāmahe |*
 
-(Ṛ. Saṃ. 1-10[?]-2 [?], as read.) In this ṛk *mārutaṃ śardhaḥ* means the strength of the Maruts — a strength in the form of a group-power.
+(Ṛ. Saṃ. 1-106-1, as read.) In this ṛk *mārutaṃ śardhaḥ* means the strength of the Maruts — a strength in the form of a group-power.
 
 > स हि शर्धो न मारुतं तुविष्वणिरप्नस्वतीषूर्वरास्विष्टनिरार्तनास्विष्टनिः ।
 
 > *sa hi śardho na mārutaṃ tuviṣvaṇirapnasvatīṣūrvarāsviṣṭanirārtanāsviṣṭaniḥ |*
 
-(Ṛ. Saṃ. 1-127-6 [?], as read.) In this ṛk *mārutaṃ śardhaḥ* is explained as the strength of the Maruts — or the strength in the form of the group-power of the deities, the Maruts, which ordinarily this word indicates; and in ṛks such as Ṛ. Saṃ. 1-1[?]-[?]; 1-1[?]-[?] it is used of Agni too. Since food, or sustenance, is a strengthener of power, the bhāṣyakāra has taken the word in the ṛk in hand as food that gives strength.
+(Ṛ. Saṃ. 1-127-6 [?], as read.) In this ṛk *mārutaṃ śardhaḥ* is explained as the strength of the Maruts — or the strength in the form of the group-power of the deities, the Maruts, which ordinarily this word indicates; and in ṛks such as Ṛ. Saṃ. 1-71-8; 1-139-1 it is used of Agni too. Since food, or sustenance, is a strengthener of power, the bhāṣyakāra has taken the word in the ṛk in hand as food that gives strength.
 
-***daśatayasya*** — *daśendriyasaṃvardhakatvena daśāvayavasyānnasya*: "of the food of ten parts, as it increases the ten organs" — that is, food that nourishes the body that has ten organs. In the next ṛk of this same Sūkta [that is, Ṛ. Saṃ. 1-12?-? `[?]`] this word occurs; there the bhāṣyakāra says *daśatayasya dhāseḥ dāśendriyatṛptisādhanatvena daśāvayavasyānnasya* … *daśacamasagṛhītatvād annasya daśavidhatvam* — he explains it as "ten kinds of food that are the means of satisfying the ten organs". [As] the food (or Soma) is held in ten *camasa* vessels, there are ten kinds. And in
+***daśatayasya*** — *daśendriyasaṃvardhakatvena daśāvayavasyānnasya*: "of the food of ten parts, as it increases the ten organs" — that is, food that nourishes the body that has ten organs. In the next ṛk of this same Sūkta [that is, Ṛ. Saṃ. 1-122-13] this word occurs; there the bhāṣyakāra says *daśatayasya dhāseḥ dāśendriyatṛptisādhanatvena daśāvayavasyānnasya* … *daśacamasagṛhītatvād annasya daśavidhatvam* — he explains it as "ten kinds of food that are the means of satisfying the ten organs". [As] the food (or Soma) is held in ten *camasa* vessels, there are ten kinds. And in
 
 > मा मामेधो दशतयश्चितो धाक् प्र यद्वां बद्धस्त्मनि खादति ष्ठाम् ।
 
@@ -1552,11 +1569,13 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 ***naṃśe*** — *daśatayasya naṃśe* — "to us, [the sacrificers] who offer food in the form of oblation and call [you], give the food that gives strength to bring about the defeat of enemies" — thus the gods speak among themselves; that is the sense.
 
-***dyumnāni*** — Among the twenty-eight names of wealth, *mahaṃ rekṇaḥ* and so on, the word *dyumna* is recorded (Ni. 2-10 [?], as read), so *dyumnāni* means "riches". In this ṛk the bhāṣyakāra has explained *dyotamānānnāni*:
+***dyumnāni*** — Among the twenty-eight names of wealth, *mahaṃ rekṇaḥ* and so on, the word *dyumna* is recorded (Ni. 2-10 [?] — as read by me; the reader's OCR gives "39" for the Nirukta reference here too, the hyphen lost), so *dyumnāni* means "riches". In this ṛk the bhāṣyakāra has explained *dyotamānānnāni*:
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 1-71-8; 1-139-1; 1-122-13
 
 ### Printed p. 56  (PDF 77)
 
-*(Header: "Maṃ. 1 A. 18 Sū. 122".)* "foods that shine, that is, nourishing foods" (Ni. 5-5 [?], as read). Yāska says: *dyumnaṃ dyotateḥ yaśo vā annaṃ vā* — "*dyumna* is from *dyut*, 'to shine': glory, or food" — and with this derivation (of "the glory that shines well, or food"), to support this meaning:
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* "foods that shine, that is, nourishing foods" (Ni. 5-5 [?] — as read by me; the OCR has "39" in this place). Yāska says: *dyumnaṃ dyotateḥ yaśo vā annaṃ vā* — "*dyumna* is from *dyut*, 'to shine': glory, or food" — and with this derivation (of "the glory that shines well, or food"), to support this meaning:
 
 > शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु ।
 > जहि वर्धर्नुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥
@@ -1574,12 +1593,13 @@ As the main intention of the second half of this ṛk, one may say, according to
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 12, noted briefly; sūtra numbers not reproduced).** *Dhāma* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ* — *loṭ*-sense in *luṅ*; in the 1st person plural the suffix *mas*; *nityaṃ ṅitaḥ* — the *s* is dropped; when *cli* comes, *sic*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — its *luk*; *bahulaṃ chandasy amāṅyoge 'pi* — the *aṭ* augment does not come; after an *atiṅanta* the *nighāta*. *Avocan* — the root *vaca paribhāṣaṇe*; *luṅ*, 3rd plural, the suffix *jhi*; elision of the *i*; *jhoṃtaḥ* — the *ant*; when *cli* comes, *asyativakti khyātibhyo 'ṅ* — the *aṅ*; *vaca um* — …
 
----
-
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-4-6; 2-4-77; 6-4-75; 3-1-52; 7-4-20
 
 ### Printed p. 57  (PDF 78)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Grammar page, continued (Ṛk 12, noted briefly).** *Avocan* (concluded) — the augment *um* in the root after *aṅ* …; by *mider guṇaḥ* [as printed in part] guṇa; the augment *aṭ* for the stem; after an *atiṅanta* the *nighāta*. *Daśatayasya* — *daśa avayavā asya, daśatayan*; *saṅkhyāyā avayave tayap* the suffix *tayap*; since it is *pit*, the suffix *ini*-like is unaccented. *Vasutātiḥ* — *vasūnāṃ tātiḥ vasutātiḥ*; the root *tan vistāre*; in the sense of action by *striyāṃ ktin* the suffix *ktin*; by *vyatyaya* the *ā*-substitution for the root when it follows; *marutvṛdhādīnāṃ chandasy upasaṅkhyānam* — the accent of the end of the first member; or by *sarvadevāt tātil* the suffix *tātil*, which was prescribed [for *sarva* and *deva*], comes by *vyatyaya* in its own sense after this word too; by *liti* the first-member acute. *Rāran* — the root *ramu krīḍāyām*; in the sense of intensity, *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* the suffix *yaṅ*; *yaṅo 'ci ca* the *luk*; after a *yaṅluganta* the Vedic present sense *luṅ*; 3rd plural, *jhi*, the *ant*, loss of the *i*; *dīrgha iṇkitaḥ* — the lengthening of the reduplicative syllable; the connection with the word *yeṣu* before it, *yadvṛttānnityam* — the *nighāta* is prevented; the first-syllable acute of the suffix; the augment *aṭ* is not [added] in the Vedic way. In the second explanation, the root *rā dāne*; *leṭ*, 3rd plural, *jhi*; *itaś ca lopaḥ parasmaipadeṣu* — the loss of the *i*; *bahulaṃ chandasi* — a substitute for *śap*, *śluḥ*; taking this as the cause, doubling of the root; *chandasy ubhayathā* — since the vikaraṇa has the name *ārdhadhātuka*, *sārvadhātuka*-cause *jit*… *ato lopa iṭi ca* the loss of the root's *ā*; for that reason *abhyastānām ādiḥ* the first-syllable acute does not arise. *Sanvantu* — the root *ṣaṇu dāne*; *loṭ*, 3rd plural; after an *atiṅanta* the *nighāta*. In the second explanation, the root *vana ṣaṇa sambhaktau*; as before the suffix *jhi*, the *ut* substitute; *vyatyayo bahulam* — *u* as the vikaraṇa for *śap*; the form as before. ‖ 12 ‖
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 5-2-42; 3-3-94; 6-2-102-2; 6-1-193; 3-1-22; 2-4-74; 7-4-83; 8-1-66; 3-4-117; 6-4-64; 6-1-189
 
 ### Printed p. 58  (PDF 79)
 
@@ -1623,11 +1643,13 @@ As the main intention of the second half of this ṛk, one may say, according to
 
 **Special topics (Viśeṣaviṣayagaḷu), Ṛk 13.**
 
-***daśatayasya dhāseḥ*** — *daśendriyatṛptisādhanatvena daśāvayavasyānnasya*: the commentator explains it as food which is the means of satisfying the ten organs — the five organs of action and the five organs of knowledge, ten in all. Since *daśatayasya* means "of ten kinds", it can also mean the oblations, Soma, ghee and other materials placed in the ten *camasa* vessels. The word *dhāsi* is recorded among the twenty-eight names of food (Ni. 2-7 [?], as read).
+***daśatayasya dhāseḥ*** — *daśendriyatṛptisādhanatvena daśāvayavasyānnasya*: the commentator explains it as food which is the means of satisfying the ten organs — the five organs of action and the five organs of knowledge, ten in all. Since *daśatayasya* means "of ten kinds", it can also mean the oblations, Soma, ghee and other materials placed in the ten *camasa* vessels. The word *dhāsi* is recorded among the twenty-eight names of food (Ni. 3-9, as read by the reader's OCR).
 
 ***dviḥ pañca*** — that is, ten. *Daśavidhānyannāni* — *daśacamasagṛhītatvād annasya daśavidhatvam*: here the foods placed in the ten *camasa* vessels are called "foods of ten kinds".
 
 ***bibhrataḥ yanti annā*** — *ṛtvijaḥ*, that is, the Adhvaryus and the rest, carry in their hands the foods with which the ten vessels are filled, in order to offer them to the gods, and go to the *āhavanīya* fire to make the oblation.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-9
 
 ### Printed p. 60  (PDF 81)
 
@@ -1640,6 +1662,8 @@ As the main intention of the second half of this ṛk, one may say, according to
 The meaning of the second half of this ṛk is obscure; the seer's intention is not clearly understood.
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 13, noted briefly; sūtra numbers not reproduced).** *Mandāmahe* — the root *madi stutau*; *idito num dhātoḥ* the *num* augment; *laṭ*, 1st plural, the suffix *mahiṅ*; *ṭita ātmanepadānāṃ ṭere* — *e* for the *ṭi*-part; the vikaraṇa *śap*; *ato dīrgho yañi* — lengthening of the stem's *a*; at the beginning of the verse-quarter no *nighāta*; since a *lasārvadhātuka* follows the *a* of the stem, by *tāsyanudāttet…* the *a* is unaccented, so the root accent remains. *Bibhrataḥ* — the root *ḍubhṛñ bharaṇe*; in the sense of *laṭ* the suffix *śatṛ*; the vikaraṇa *śluḥ*; reduplication of the root; *bhṛñām it* — *i* in the reduplicative syllable; since *sārvadhātukam apit* the suffix is *ṅit*-like, no guṇa; *yaṇ* substitution; *nābhyastāc chatuḥ* — in the nominative plural the *num* augment does not come; *abhyastānām ādiḥ* — the first-syllable acute. *Yanti* — the root *iṇ gatau*, *adādi*; *laṭ*, 3rd plural, *jhi*; *jhoṃtaḥ* — *ant*; *iṇo yaṇ* — *yaṇ* for the root; since *yvoḥ…* the *nighāta* does not arise; the suffix's first-syllable acute. *Annā* — in the neuter plural, when *śi* has come, *śeś chandasi bahulam* the *śi* is dropped.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 7-1-58; 7-3-101; 6-1-186; 6-4-76; 6-1-189; 6-4-81; 6-1-70
 
 ### Printed p. 61  (PDF 82)
 
@@ -1663,8 +1687,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 > *hiraṇya 'karṇam | maṇi 'grīvam | arṇaḥ | tat | naḥ | viśve | varivasyantu | devāḥ |*
 > *aryaḥ | giraḥ | sadyaḥ | ā | jagmuṣīḥ | ā | usrāḥ | cākantu | ubhayeṣu | asme iti ‖ 14 ‖*
 
----
-
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-1; 7-1-50; 6-1-197
 
 ### Printed p. 62  (PDF 83)
 
@@ -1690,19 +1713,21 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 ***hiraṇyakarṇam, maṇigrīvam*** — the prayer is that the deities should bless us with children and others who wear golden ornaments such as earrings in the ears and jewelled necklaces and other ornaments on the neck. Or the prayer is: "Be gracious so that we ourselves may wear earrings and the like and jewelled necklaces on the neck."
 
-***arṇaḥ*** — though the word *arṇa* is recorded among the hundred names of water (Ni. 1-1[?]-[?], as read), here the bhāṣyakāra explains *araṇīyaṃ rūpaṃ* — "a son of pleasing form".
+***arṇaḥ*** — though the word *arṇa* is recorded among the hundred names of water (Ni. 2-23, as read by the reader's OCR), here the bhāṣyakāra explains *araṇīyaṃ rūpaṃ* — "a son of pleasing form".
 
 ***aryaḥ*** — the word *arya* has the meaning of master, lord; here the bhāṣyakāra says "the group of the Viśvedevas".
 
 ***gira ā jagmuṣīḥ*** — the praising words coming forth from our mouth.
 
-***usrāḥ*** — *usriyeti gonāma | usrāviśvo 'syāṃ bhogāḥ usreti ca* (Ni. 4-1[?], as read) — "*usriyā* is a name of the cow; *usrā* …". Though the word *usrāḥ* means "cows that give milk", as the bhāṣyakāra says, *vikāre prakṛtiśabdaḥ* — "the name of the original is used for the product": *kṣīrājyādīni haviṃṣi ca* — milk, ghee and the like; by usage the word *usrāḥ* is employed for things made from cows, namely milk, ghee and the like. In some places *usrāḥ* also means "rays" (Ṛ. Saṃ. 1-1?[?]-3 and so on).
+***usrāḥ*** — *usriyeti gonāma | usrāviśvo 'syāṃ bhogāḥ usreti ca* (Ni. 4-19, as read by the reader's OCR) — "*usriyā* is a name of the cow; *usrā* …". Though the word *usrāḥ* means "cows that give milk", as the bhāṣyakāra says, *vikāre prakṛtiśabdaḥ* — "the name of the original is used for the product": *kṣīrājyādīni haviṃṣi ca* — milk, ghee and the like; by usage the word *usrāḥ* is employed for things made from cows, namely milk, ghee and the like. In some places *usrāḥ* also means "rays" (Ṛ. Saṃ. 1-171-5 and so on).
 
 ***ubhayeṣu*** — two kinds of people, those who praise and those who sacrifice; or, in another sense, this world and the other world.
 
 ***asme*** — this word is used in the sense of all seven cases. For example:
 
 (1) *asme te bandhuḥ | vayam ity arthaḥ* — "*asme ity etat padaṃ sarvavibhaktyantam | tasmād ekārtham | ekam eva hy etac chabdarūpaṃ saptasv api vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati | tadyathā — prathamāyās tvat — asme te bandhuḥ | vayam ity arthaḥ*" — that is, the word *asme* is used in the sense of the seven cases according to the context; according to the context in each place, any of the seven cases may be given to this word. For example, in the sentence *asme te bandhuḥ* the word *asme* has the sense *vayam*, "we"; this is an example of the meaning of the first case —
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 2-24; 4-19; 1-171-5
 
 ### Printed p. 64  (PDF 85)
 
@@ -1772,7 +1797,9 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 (Ṛ. Saṃ. 1-7[?]-[?], as read.) For the word *asme* in this ṛk the sense is the seventh case, *asmāsu*, "in us".
 
-**Vyākaraṇa-prakriyā (grammar page, Ṛk 14, noted briefly; sūtra numbers not reproduced).** *Hiraṇyakarṇam* — *hiraṇyaṃ karṇau yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member; accusative singular. *Arṇaḥ* — the root *ṛ gatau*; *arti iti arṇaḥ*; *udake nuṭ ca* (Uṇ. Sū. 4-5[?]-[?], as read) the suffix *asun* and the augment *nuṭ*; guṇa of the root and *ra*; *ñnityādir nityam* — the initial acute. *Varivasyantu* — *varivas* is a nominal stem; when the sense "to do this" is intended, *namovarivaścitrāṅaḥ kyac* the suffix *kyac*; *sanādyantā dhātavaḥ* — it takes the name of a root; *loṭ*, 3rd plural, *jhi*, the substitute *ut*, *ant*; after an *atiṅanta* the *nighāta*. *Aryaḥ* — the root *ṛ gatau*; *āryaḥ svāmivaiśyayoḥ* — the suffix *yat* by irregular formation; *āryasya svāmyākhyā ceti* (Phiṭ. Sū. 1[?]) the final acute.
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 14, noted briefly; sūtra numbers not reproduced).** *Hiraṇyakarṇam* — *hiraṇyaṃ karṇau yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member; accusative singular. *Arṇaḥ* — the root *ṛ gatau*; *arti iti arṇaḥ*; *udake nuṭ ca* (Uṇ. Sū. 4-636, as read by the reader's OCR) the suffix *asun* and the augment *nuṭ*; guṇa of the root and *ra*; *ñnityādir nityam* — the initial acute. *Varivasyantu* — *varivas* is a nominal stem; when the sense "to do this" is intended, *namovarivaścitrāṅaḥ kyac* the suffix *kyac*; *sanādyantā dhātavaḥ* — it takes the name of a root; *loṭ*, 3rd plural, *jhi*, the substitute *ut*, *ant*; after an *atiṅanta* the *nighāta*. *Aryaḥ* — the root *ṛ gatau*; *āryaḥ svāmivaiśyayoḥ* — the suffix *yat* by irregular formation; *āryasya svāmyākhyā ceti* (Phiṭ. Sū. 1[?]) the final acute.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-1; 4-636; 6-1-197; 3-1-19; 3-1-103
 
 ### Printed p. 66  (PDF 87)
 
@@ -1787,6 +1814,8 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 > *catvāro mā maśarśārasya śiśvastrayo rājña āyavasasya jiṣṇoḥ |*
 > *ratho vāṃ mitrāvaruṇā dīrghāpsāḥ syūmagabhastiḥ sūro na dyaut ‖ 15 ‖*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-2-107; 7-4-62; 4-48; 6-4-131; 8-3-60; 3-1-85; 6-1-7; 3-1-22; 7-4-85; 4-83; 7-1-39
 
 ### Printed p. 67  (PDF 88)
 
@@ -1812,8 +1841,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 **॥ भावार्थः ॥ — Bhāvārtha.** O Mitra and Varuṇa, the four immature sons of the king named Maśarśāra and the three sons of the king named Āyavasa trouble me, Kakṣīvān; may your chariot, of vast form and comforting light, shine like the Sun (to be terrifying to them).
 
----
-
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 1-3-91; 72-2
 
 ### Printed p. 68  (PDF 89)
 
@@ -1823,7 +1851,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 ***maśarśārasya, āyavasasya*** — The commentator's explanation is that these are names of two kings. Who are they? Their story is not told. Since their names are not found elsewhere in the Ṛgveda either, more details cannot be learned. A German scholar named Ludwig has held that *Maśarśāra* is *Murmurāra*, *Nāpusasa*; but there is no proper evidence for it.
 
-***dīrghāpsāḥ*** — *apsas* is recorded among the fifteen names of form (Ni. 3-1[?], as read). *Dīrgha* means large, extended; the chariot is "of large, extended form".
+***dīrghāpsāḥ*** — *apsas* is recorded among the fifteen names of form (Ni. 3-13, as read by the reader's OCR). *Dīrgha* means large, extended; the chariot is "of large, extended form".
 
 ***syūmagabhastiḥ*** — *syūmam iti sukhanāma* — "*syūma* means comfort-giving; *gabhasti* — a light or rays": the sense is "with comforting rays".
 
@@ -1849,9 +1877,13 @@ As to the chariot of Mitra and Varuṇa, whose form is mild to the eyes of the w
 
 (Ṛ. Saṃ. 5-6[?]-[?], as read.) In ṛks such as these the matter of Mitra and Varuṇa mounting the chariot is described.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-13
+
 ### Printed p. 69  (PDF 90)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3 [Varga 4 begins at the Sūkta that follows]".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 15, noted briefly; sūtra numbers not reproduced).** *Catvāraḥ* — the word *catur*; in the nominative plural, *catur anaḍuhor āmudāttaḥ* — the augment *ām* with the acute; since it is *mit*, it comes after the last vowel. *Maśarśārasya* — the root *śṝ hiṃsāyām*; after a *ṇijanta*, the suffix *ghañ*; *vṛddhi* of the root's *ṛ*, with *ra*; the initial acute by *ñnityādir nityam*; in the compound, *gatikārakopapadāt kṛt* — the accent of the final member by the accent of the original; genitive singular. *Śiśvaḥ* — *śiśu + jas*; *jasādiṣu chandasi vā vacanam* — by this statement, and *jasi ca* — no guṇa comes; *iko yaṇaci* — *yaṇ* substitution. *Jiṣṇoḥ* — the root *ji jaye*; *glājisthaś ca gnuḥ* — the suffix *gnu*; since it is *git*, *kṅiti ca* — guṇa is prohibited; *ādeśapratyayayoḥ* — the *s* of the suffix becomes *ṣ*; the final acute by the suffix accent; genitive singular. *Mitrāvaruṇā* — *devatādvandve ca* — *ānaṅ* for the former member; the dual ending *au*, and *supāṃ sulug…* — *ā* for it; *āmantritasya ca* — the *nighāta*. *Syūmagabhastiḥ* — *syūmāḥ gabhastayaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Adyaut* — the root *dyut dīptau*; *chandasi luṅlaṅliṭaḥ* — *luṅ* in the sense of *loṭ*; though it is *ātmanepadin*, *dyudbhyo luṅi* — it becomes *parasmaipadin*; 3rd singular, *tip*; *iś ca* — the loss of its *i*; *cleḥ sic* — the substitute *sic*; *bahulaṃ chandasi* — the augment *aṭ* does not come; *sici vṛddhiḥ parasmaipadeṣu* — *vṛddhi* of the root since *sic* follows a *parasmaipada* suffix; the stem is *adyaut + s + t*; *halṅyābbhyo dīrghāt…* — the loss of the suffix; *saṃyogāntasya lopaḥ* — the loss of the *s* of *sic*; the form *adyaut*. Or: the root *dya abhigamane* …
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-139; 1-1-5; 7-1-39; 8-1-19; 6-2-1; 3-4-6; 1-3-91; 7-2-1
 
 ### Printed p. 70  (PDF 91)
 
@@ -1865,11 +1897,13 @@ As to the chariot of Mitra and Varuṇa, whose form is mild to the eyes of the w
 
 This Sūkta, like the one that follows, is addressed to Uṣas. In this first Maṇḍala the following are the only Sūktas addressed to Uṣas: 30th Sūkta, ṛks 20–22 [?]; the 48th Sūkta (15 ṛks) [?], the 49th Sūkta (4 ṛks) [?], the 92nd Sūkta (18 ṛks) [?], the 113th Sūkta (20 ṛks) [?], the 123rd Sūkta (13 ṛks) [?] and the 124th Sūkta (13 ṛks) [?] (the numerals in this passage are small and were read at 150 dpi only). Leaving aside the last two of these, the others were explained in the earlier parts; now we shall comment on the 123rd and 124th Sūktas.
 
-About the deity Uṣas, Yāska says: *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ* (Ni. 2-19 [?], as read): that is, who is the deity Uṣas? What is her nature? What is the reason for this name? Raising such questions he says: *uṣaḥ kasmāt | ucchatīti satyaḥ | ucchī vivāse | vivāsayati hīyaṃ tamāṃsi tasmād ucchatīty enam asyāḥ karttari kārake uṣā ity etad abhidhānaṃ bhavati | kā punar iyam uṣā iti | rātrer aparaḥ kālaḥ sa uṣā ity ucyate* — he explains that the name is formed from the root *ucchī vivāse* ("to shine out"), which has the sense of "to send out". What is sent out? Darkness. Because this deity dispels darkness and spreads light, she is called Uṣas. And that time is what? The last part of the night: the time that has no darkness and is full of light, just before sunrise as the night ends, is named *uṣaḥkāla*, "dawn-time".
+About the deity Uṣas, Yāska says: *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ* (Ni. 2-19, as read by the reader's OCR): that is, who is the deity Uṣas? What is her nature? What is the reason for this name? Raising such questions he says: *uṣaḥ kasmāt | ucchatīti satyaḥ | ucchī vivāse | vivāsayati hīyaṃ tamāṃsi tasmād ucchatīty enam asyāḥ karttari kārake uṣā ity etad abhidhānaṃ bhavati | kā punar iyam uṣā iti | rātrer aparaḥ kālaḥ sa uṣā ity ucyate* — he explains that the name is formed from the root *ucchī vivāse* ("to shine out"), which has the sense of "to send out". What is sent out? Darkness. Because this deity dispels darkness and spreads light, she is called Uṣas. And that time is what? The last part of the night: the time that has no darkness and is full of light, just before sunrise as the night ends, is named *uṣaḥkāla*, "dawn-time".
 
 "Since the dawn-time arrives after the night passes, the dawn-time is said to be born from the night" — a custom. To support this, Yāska:
 
 *(The verse that Yāska cites continues at the top of p. 71, where it is given in full; it is not written here to avoid reproducing a half-read line.)*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 7-3-89; 8-1-28; 20-22; 2-19
 
 ---
 
