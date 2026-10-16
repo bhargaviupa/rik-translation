@@ -13322,4 +13322,79 @@ Some Piśācas that move on the earth are not harmful; [from] them we get help. 
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–5 complete (Special Topics 549–555 with [refs] for the numeral pass); Ṛk 6 begun: Saṃhitā, Pada and the start of the bhāṣya (the itihāsa on the heaven and earth burning for fear; the first part is only sensed, [?]) written to p. 556; resume p. 557 (PDF 578) with the end of the bhāṣya, which should be tidied then; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 557  (PDF 578)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 6, concluded; read from the image; doubtful words marked [?].)*
+
+> अतिशयेन बलवान् खलु । अतः कारणादुग्रेभिरुद्गूर्णैर्वधैः [?] सहितस्त्वमीयसे । शत्रून् मेघान्वा गच्छसि ॥ ईङ् गतौ । दैवादिकत्वाच्छ्यन् ॥ यद्वा । शुष्मिभिर्वधैरिति संबन्धः । हे शूर विक्रान्त सत्वभिः सत्त्ववद्भिरप्रतीत अप्रतिगत [?] । अप्रत्यर्थिन [?] इत्यर्थः । रक्षःप्रभृतिभिरप्रतिगतो युद्धे शत्रुभिराक्रान्तः । यद्वा । सत्वभिः प्राणिभिरसंस्कृतमनस्कैरनधिगतः । अपूरुषघ्नः पौरुषोपेतानां यजनसमर्थानामहननस्त्वम् । त्रिसप्तैः सत्वभिस्त्रिभिः सप्तभिर्वा सत्वभिरनुचरैरुपेतः सन् । ईयसे इत्यन्वयः ॥
+
+> *atiśayena balavān khalu | ataḥ kāraṇādugrebhirudgūrṇairvadhaiḥ [?] sahitastvamīyase | śatrūn meghānvā gacchasi ‖ īṅ gatau | daivādikatvācchyan ‖ yadvā | śuṣmibhirvadhairiti saṃbandhaḥ | he śūra vikrānta satvabhiḥ sattvavadbhirapratīta apratigata [?] | apratyarthina [?] ityarthaḥ | rakṣaḥprabhṛtibhirapratigato yuddhe śatrubhirākrāntaḥ | yadvā | satvabhiḥ prāṇibhirasaṃskṛtamanaskairanadhigataḥ | apūruṣaghnaḥ pauruṣopetānāṃ yajanasamarthānāmahananastvam | trisaptaiḥ satvabhistribhiḥ saptabhirvā satvabhiranucarairupetaḥ san | īyase ityanvayaḥ ‖*
+
+*(Sense: "You, certainly extremely strong, are on that account [*ī-yase*, from *īṅ gatau*, *śyan* by the Daivādika class] accompanied by fierce (*ugra*) and mighty blows, going to enemies or to clouds. Or *śuṣmibhir vadhaiḥ* connected: O hero, courageous, with beings [*sattva*]; O *apratīta* — one against whom Rākṣasas and others cannot advance, one attacked by enemies in battle; or, not attained by creatures of unrefined minds. *Apuruṣaghnaḥ* — you who do not kill men who are manly and capable of sacrifice. *Trisaptaiḥ sattvaiḥ* — attended by three or seven followers; so goes the construction with *īyase*." The printed passage is partly compressed and some words are doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) adrivaḥ* — O (Indra) joined with clouds; *ghṛṇāt* — of the blazing Tvaṣṭṛ, or of Agni; *bhīṣā na* — as through fear (as heaven and earth formerly were frightened); *(he) adrivaḥ* — O Indra, wielder of the thunderbolt; *hi* — for which reason; *kṣā* — of the earth; *bhīṣā na* — through fear [because of the lack of rain] that crops and so on will dry up, as she grieves; *dyauḥ* — the heaven-world also (the support of the gods); *śuśoca* — grieves (through the fear that offerings and so on will cease); *[or: as the earth (*kṣā*) and the heaven (*dyauḥ na*) grieve through fear of the Asuras who encircle the world]*; *(tat)* — for that reason; *naḥ* — our (prayer); *śrudhi* — listen; *(he) indra* — O Indra; *mahaḥ* — the great (the water-bearing cloud, or the demon Vṛtra); *avaḥ* — face downward; *dādṛhi* — split (make it burst); *(he indra tvam)* — O Indra, you; *śuṣmibhiḥ* — with strength; *śuṣmintamaḥ hi* — are exceedingly strong (for which reason); *(he) śūra* — O hero; *sattvabhiḥ* — with beings that have become enemies (Rākṣasas and the like), or with the unrefined; *apratīta* — of the unapproached (the unconquered); *apuruṣaghnaḥ* — and the one who does not kill men [capable of sacrifice]; *trisaptaiḥ* — with three times seven (some twenty-one) [as read]; *sattvabhiḥ* — with followers; *ugrebhiḥ* — extremely fierce; *vadhaiḥ* — with means of slaying; *īyase* — goes (to face enemies or clouds).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, accompanied by clouds and wielder of the thunderbolt, formerly the earth and heaven were frightened at the fear of Tvaṣṭṛ (or of Agni); [now] the earth grieves through fear that the crops and so on will wither for lack of rain, and the heaven-world grieves through fear that the offerings will cease; or: unable to bear the Asura party that has encompassed the two worlds, heaven and earth grieve. [So,] O Indra, listen to our prayer; split the clouds, face downward, and make rain. O hero Indra, you are most heroic. Unapproached by Rākṣasas and the like [so as to be conquered], or by the fools with unrefined minds [sic: *asaṃskṛta-mati*], and slaying not those men [fit for sacrifice] but the Rākṣasas, [you go] against the enemies (the clouds), accompanied by twenty-one (or seven times three) [as read] followers and by very fierce means of slaying.
+
+### Printed p. 558  (PDF 579)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Bhāvārtha, concluded:)* …[you] who are not conquered by enemies (Asuras with unrefined minds), the slayer [not] of men fit for sacrifice (but of Asuras), accompanied by those thrice seven followers, with very fierce means of slaying, face the enemies (the clouds).
+
+**Printed English (heading "English Translation"; as printed):** *"Hurl headlong, Indra, the vast (cloud): hear our supplications: verily the heaven is in sorrow like the earth, through fear, wielder of the thunderbolt, (of famine), as (formerly through fear of) Twashtri: most powerful with mighty energies, you assail, Indra, (the clouds) with terrible blows; and, doing no injury to man, (you march) invincible, hero, by (your) enemies; attended, hero, by three or by seven followers."* [Note: in the print "Indra." and "earth." and "mareh" appear as read; "mareh" is a misprint for "march" [sic].]
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+The Sūkta's first two Ṛks are to be used by the Hotṛ's assistant, the Acchāvāka [?], when reciting the *tṛca* ("three Ṛks") for Indra in the *prauga-śastra* on the sixth day of the *daśarātra* sacrifice; this is stated in Āśvalāyana's Śrautasūtra in the section called "*ṣaṣṭhasya*", by the sūtra "*avarmaha indra vṛṣann indra*" (Āś. [refs] [?]).
+
+***avarmaha indra dādṛhi*** — *maho mahato meghasya | karmaṇi ṣaṣṭhī | mahāntaṃ jaladhāriṇaṃ megham mahāntaṃ vṛtraṃ vāvaravastrā…[?] avāñcaṃ dādṛhi vidāraya*. Here the word *mahaḥ* is used in the place of *mahataḥ*; the loss of the *t* is by Vedic usage; and the sense of the third case-ending [*sic*, "accusative"?] has to be said by *ṣaṣṭhī-vibhakti*. Therefore, if *mahaḥ* is taken as *mahāntam*, it must be meant: "the great cloud, full of water, or the Asura Vṛtra". Indra is prayed to break such a cloud, or the Asura Vṛtra (with his thunderbolt), headlong, and destroy [him]. The initial syllable of *dādṛhi* is long by Vedic usage in the Saṃhitā-pāṭha.
+
+***śrudhī naḥ*** — *noʼsmadīyaṃ śrudhi śṛṇu*: "O Indra, listen with attention to our word, which is the prayer-wording to be said hereafter", the ṛṣi prays Indra. The final syllable of *śrudhi* is long in the Saṃhitā text, by Vedic usage.
+
+***śuśoca hi dyauḥ kṣā na bhīṣā adrivaḥ*** — the word *adri* is found among the names of cloud and of thunderbolt (Ni. 1-[?], as read "೨-೩೦"); therefore the word *adrivaḥ* means "O Indra, the one who breaks the clouds or the enemies (with the thunderbolt)". O Indra, as the earth, from lack of rain, undergoes harm in the production and nourishment of crops and so on, so also the heaven-world, the support of the gods, is harmed, as the sacrifices and the like of men [do not occur] — [text continues on p. 559].
+
+### Printed p. 559  (PDF 580)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+*(Continuing:)* …through Agni they obtain satisfaction; if there is no rain there is no growth of crops and so on. For lack of such crops (rice, barley and so on) sacrificial acts will not take place in due order, and therefore even the offerings of oblations to the gods do not occur; as, without rain, the earth is subject to suffering, so, from the lack of rain, the heaven-world is anxious and also suffers — this is the chief meaning. Here the commentator explains the words *dyauḥ*, *kṣā*: *dyaur dyuloko devānām āśrayabhūtaḥ* ("the heaven-world, the support of the gods" — i.e. the heaven where the deities live) and *kṣā*: *kṣeti bhūnāma | kṣāyanti nivasanty asyām iti kṣā | sarvanivāsāśrayabhūmiḥ* — that is, the word *kṣā* is found among the twenty-odd names of earth (Ni. 1-[?], as read "೧-೩") hence "earth"; and as it is derived from the root *kṣā* ("to dwell") the earth, where all dwell, gets the name *kṣā*. The ṛṣi explains that "the Asuras, who have grown strong in the two worlds heaven and earth and have become thorns to the worlds, cause obstruction to sacrifices and the like, and heaven and earth, unable to bear it, suffer: [Indra,] listen to this my prayer".
+
+***ghṛṇāt na bhīṣā adrivaḥ*** — here there is an illustration related to heaven and earth being afraid. The commentator gives, as an example, the old itihāsa related in Ṛ. Saṃ. 1-[?]-[?] [as read "೧-೯೫-೧" [?]] —
+
+> हे अद्रिवः शत्रूणां भक्षक । यद्वा । अद्रिर्वज्रः । तेन तद्वन् । हे इन्द्र घृणाद्भीषा न दीप्तादग्नेर्मूर्त्यन्तरात्त्वष्टृभीत्येव । त्वष्टृभीत्या पूर्वं यथा द्यावापृथिव्यौ शोचतस्तद्वत् । अत्रेतिहासमाहुः । पूर्वं जगति महान्धकारेणावृते सति देवा विचिन्त्याग्निं प्रार्थितवन्तः । स च त्वष्टृरूपेण द्यावापृथिवीभ्यां सकाशात्...[sic] उदपद्यत । तं दृष्ट्वा द्यावापृथिव्यौ बिभ्यतुरिति । स चोभे त्वष्टृबिभ्यतुः —
+
+> *he adrivaḥ śatrūṇāṃ bhakṣaka | yadvā | adrirvajraḥ | tena tadvan | he indra ghṛṇādbhīṣā na dīptādagnermūrtyantarāttvaṣṭṛbhītyeva | tvaṣṭṛbhītyā pūrvaṃ yathā dyāvāpṛthivyau śocatastadvat | atretihāsamāhuḥ | pūrvaṃ jagati mahāndhakāreṇāvṛte sati devā vicintyāgniṃ prārthitavantaḥ | sa ca tvaṣṭṛrūpeṇa dyāvāpṛthivībhyāṃ sakāśāt...[sic] udapadyata | taṃ dṛṣṭvā dyāvāpṛthivyau bibhyaturiti | sa cobhe tvaṣṭṛbibhyatuḥ —*
+>
+> उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रति जोषयेते ।
+
+> *he adrivaḥ śatrūṇāṃ bhakṣaka | yadvā | adrir vajraḥ | tena tadvan | he indra ghṛṇād bhīṣā na dīptād agner mūrtyantarāt tvaṣṭṛbhītyeva | tvaṣṭṛbhītyā pūrvaṃ yathā dyāvāpṛthivyau śocatas tadvat | atretihāsam āhuḥ | pūrvaṃ jagati mahāndhakāreṇāvṛte sati devā vicintyāgniṃ prārthitavantaḥ | sa ca tvaṣṭṛrūpeṇa dyāvāpṛthivībhyāṃ sakāśāt… udapadyata | taṃ dṛṣṭvā dyāvāpṛthivyau bibhyatur iti | sa cobhe tvaṣṭṛbibhyatuḥ —*
+> *ubhe tvaṣṭur bibhyatur jāyamānāt pratīcī siṃhaṃ prati joṣayete |*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೯೫-೨" [?]. The itihāsa passage is partly illegible in the small type; I read it as above with the break marked.) "In former times, when the whole world was covered with darkness (great darkness), all the gods together considered and prayed to Agni to remove this darkness. Then Agni, taking the form of Tvaṣṭṛ [*sic*: Kannada "Tvaṣṭṛ"], arose in the earth and the middle region and, with his blazing flames, made light everywhere. Seeing the terrible form of Agni, burning in that period, heaven and earth trembled in fear" — this is what is said by the Ṛk *ubhe tvaṣṭur bibhyatuḥ*, which the commentator has now cited as an illustration (or, in this connection, [heaven and earth], having seen Agni in the form of Tvaṣṭṛ, [because] of the lack of rain, trembled).
+
+### Printed p. 560  (PDF 581)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+*(Continuing:)* …"just as they trembled then, they tremble even now, and suffer" — thus the commentator explained the illustrative sentence. Or the word *ghṛṇa* may be taken as meaning only "Agni": that heaven and earth, in fear of such an Agni, trembled and shook, —
+
+> आरेजेतां रोदसी होतृवूर्ये ऽसघ्न्योर्भारमयजो महो वसो ।
+
+> *ārejetāṃ rodasī hotṛvūrye 'saghnyor bhāram ayajo maho vaso |*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೩೧-೩" [?]; the Saṃhitā text of this quotation is doubtful in several letters [?].) — thus, as said in this Ṛk, is quoted as an illustration. Therefore, O Indra, wielder of the thunderbolt, he is prayed to remove the suffering of heaven and earth by striking the clouds and producing rain.
+
+***śuṣmintamo hi śuṣmibhiḥ vadhair ugrebhir īyase*** — the word *śuṣma* is found among the twenty-eight names of strength, *ojaḥ*, *jaḥ* and so on (Ni. 2-[?], as read "೨-೯"); so "*śuṣma*" means "strength". *Śuṣmo 'syāstīti śuṣmī, taiḥ śuṣmibhiḥ*; *atiśayena śuṣmī śuṣmintamaḥ*: he who is strong is *śuṣmī*, and among such strong ones one who has surpassing strength is called *śuṣmintama*. Indra is the strongest of all the strong. "O Indra, such a strong one, you go near the enemies (to destroy them) endowed with all the means of slaying enemies" is the purport.
+
+***apuruṣaghnaḥ*** — *pauruṣopetānāṃ yajanasamarthānām ahananaḥ*: "one who slays men; *apuruṣaghna* — one who does not slay men", that is, one who slays the Rākṣasas but not men fit for sacrifice and so on, who are endowed with manly valour and heroism: this is the purport [sic: "who do not kill the sacrificers" is the sense].
+
+***apratīta*** — *avasanne rakṣaḥprabhṛtibhir apratigate yudhe śatrubhir ākrānte | yadvā | sattvabhiḥ prāṇibhir asaṃskṛtamanaskair anadhigate*: "in battle one not attained by Rākṣasas and the like — enemies — who are to be conquered; or, one not understood by men of unrefined (or little) intelligence, the dull-witted: for the people of ordinary kind do not know the greatness and the power of Indra; only the wise and those who perform sacrifices and good deeds can know the greatness of Indra", is the purport. [Also:] "how could enemies approach him in battle, and still less conquer him?"
+
+***trisaptaiḥ śūra sattvabhiḥ*** — here the commentator gives for *trisaptaiḥ* the meaning *tribhiḥ saptabhir vā*: "by three or by seven". But the meaning "twenty-one times", *trisaptaiḥ* ("three times seven") fits better, and the meaning is more suited than either [three or seven]. On this point Wilson says —
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–5 complete (Special Topics 549–555 with [refs] for the numeral pass); Ṛk 6 written through p. 560 (bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics up to Wilson's note on *trisaptaiḥ*, which opens p. 560 and continues on p. 561; resume p. 561, PDF 582; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
