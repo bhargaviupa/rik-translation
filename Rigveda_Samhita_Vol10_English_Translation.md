@@ -1576,4 +1576,93 @@ As the main intention of the second half of this ṛk, one may say, according to
 
 ---
 
-**Progress note:** Vol 10 — Sūkta 122 through printed p. 56 (PDF 77): Ṛks 11–12 done; the grammar page of Ṛk 12 begins on p. 56 (*dhāma*, *avocan*) and continues on p. 57 (PDF 78). Printed page = PDF − 21. No OCR beyond printed p. 36; sūtra numbers on grammar pages pp. 41–56 are omitted (small type); doubtful readings `[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
+
+### Printed p. 57  (PDF 78)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Grammar page, continued (Ṛk 12, noted briefly).** *Avocan* (concluded) — the augment *um* in the root after *aṅ* …; by *mider guṇaḥ* [as printed in part] guṇa; the augment *aṭ* for the stem; after an *atiṅanta* the *nighāta*. *Daśatayasya* — *daśa avayavā asya, daśatayan*; *saṅkhyāyā avayave tayap* the suffix *tayap*; since it is *pit*, the suffix *ini*-like is unaccented. *Vasutātiḥ* — *vasūnāṃ tātiḥ vasutātiḥ*; the root *tan vistāre*; in the sense of action by *striyāṃ ktin* the suffix *ktin*; by *vyatyaya* the *ā*-substitution for the root when it follows; *marutvṛdhādīnāṃ chandasy upasaṅkhyānam* — the accent of the end of the first member; or by *sarvadevāt tātil* the suffix *tātil*, which was prescribed [for *sarva* and *deva*], comes by *vyatyaya* in its own sense after this word too; by *liti* the first-member acute. *Rāran* — the root *ramu krīḍāyām*; in the sense of intensity, *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* the suffix *yaṅ*; *yaṅo 'ci ca* the *luk*; after a *yaṅluganta* the Vedic present sense *luṅ*; 3rd plural, *jhi*, the *ant*, loss of the *i*; *dīrgha iṇkitaḥ* — the lengthening of the reduplicative syllable; the connection with the word *yeṣu* before it, *yadvṛttānnityam* — the *nighāta* is prevented; the first-syllable acute of the suffix; the augment *aṭ* is not [added] in the Vedic way. In the second explanation, the root *rā dāne*; *leṭ*, 3rd plural, *jhi*; *itaś ca lopaḥ parasmaipadeṣu* — the loss of the *i*; *bahulaṃ chandasi* — a substitute for *śap*, *śluḥ*; taking this as the cause, doubling of the root; *chandasy ubhayathā* — since the vikaraṇa has the name *ārdhadhātuka*, *sārvadhātuka*-cause *jit*… *ato lopa iṭi ca* the loss of the root's *ā*; for that reason *abhyastānām ādiḥ* the first-syllable acute does not arise. *Sanvantu* — the root *ṣaṇu dāne*; *loṭ*, 3rd plural; after an *atiṅanta* the *nighāta*. In the second explanation, the root *vana ṣaṇa sambhaktau*; as before the suffix *jhi*, the *ut* substitute; *vyatyayo bahulam* — *u* as the vikaraṇa for *śap*; the form as before. ‖ 12 ‖
+
+### Printed p. 58  (PDF 79)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)*
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> मन्दामहे दशतयस्य धासेर्द्विर्यत्पञ्च बिभ्रतो यन्त्यन्ना ।
+> किमिष्टाश्व इष्टरश्मिरेत ईशानासस्तरुष ऋञ्जते नॄन् ॥ १३ ॥
+
+> *mandāmahe daśatayasya dhāserdviryatpañca bibhrato yantyannā |*
+> *kimiṣṭāśva iṣṭaraśmireta īśānāsastaruṣa ṛñjate nṝn ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> मन्दामहे । दशतयस्य । धासेः । द्विः । यत् । पञ्च । बिभ्रतः । यन्ति । अन्ना ।
+> किम् । इष्टाश्वः । इष्टरश्मिः । एते । ईशानासः । तरुषः । ऋञ्जते । नॄन् ॥ १३ ॥
+
+> *mandāmahe | daśatayasya | dhāseḥ | dviḥ | yat | pañca | bibhrataḥ | yanti | annā |*
+> *kim | iṣṭāśvaḥ | iṣṭaraśmiḥ | ete | īśānāsaḥ | taruṣaḥ | ṛñjate | nṝn ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> मन्दामहे । स्तुमो वयं देवान् । मदि स्तुतौ । इदित्त्वान्नुम् ॥ किमर्थम् । दशतयस्य धासेर्दशेन्द्रियतृप्तिसाधनत्वेन दशावयवस्यान्नस्य यद्यस्माद्द्विः पञ्च दशविधान्यन्नानि । दशचमसगृहीतत्वादन्नस्य दशविधत्वम् । एवंविधमन्नं बिभ्रतो धारयन्तो दश चमसाध्वर्यवो यन्ति होमाय गच्छन्त्याहवनीयं प्रति । यद्वा । आश्वमेधिकानि दशान्नानि जुहोतीत्याम्नातान्याज्यमधुप्रभृतीनि [?] दशविधान्यन्नानि विश्वेभ्यो होतुं धारयन्तो यन्ति यदा तदा मन्दामह इति । न चेष्टाश्वप्रभृतीन्यप्यनिहाय [?] कस्मादस्मान्स्तुत्यागमिष्यन्तीति वाच्यम् । तरुषः शत्रूणां तारकान् । तरतेरौणादिक उसिन् ॥ नॄन् नेतृकर्माणाम् [?] । एवं महानुभावान् वरुणादीन्विश्वांश्च देवानेतन्नामको राजा किमृञ्जते । किं प्रसाधयति । तथेष्वरश्च [?] किमृञ्जते । एते इदानीं वर्तमाना ईशानासः पृथिव्या ईश्वरा राजानश्च किं प्रसाधयन्ति । यद्वा । येषां स्तोतॄणामस्माकमेते स्तुता देवा ईशानासः स्वामिनः किल तादृशांस्तरुषः शत्रूणां तारकान् नॄन् कर्मनिर्वाहकानस्मानिष्टाश्वादयः किं साधयन्ति किमुपद्रवन्ति प्रभवन्तीत्यर्थः ॥
+
+> *mandāmahe | stumo vayaṃ devān | madi stutau | idittvānnum ‖ kimartham | daśatayasya dhāserdaśendriyatṛptisādhanatvena daśāvayavasyānnasya yadyasmāddviḥ pañca daśavidhānyannāni | daśacamasagṛhītatvādannasya daśavidhatvam | evaṃvidhamannaṃ bibhrato dhārayanto daśa camasādhvaryavo yanti homāya gacchantyāhavanīyaṃ prati | yadvā | āśvamedhikāni daśānnāni juhotītyāmnātānyājyamadhuprabhṛtīni [?] daśavidhānyannāni viśvebhyo hotuṃ dhārayanto yanti yadā tadā mandāmaha iti | na ceṣṭāśvaprabhṛtīnyapyanihāya [?] kasmādasmānstutyāgamiṣyantīti vācyam | taruṣaḥ śatrūṇāṃ tārakān | taraterauṇādika usin ‖ nṝn netṛkarmāṇām [?] | evaṃ mahānubhāvān varuṇādīnviśvāṃśca devānetannāmako rājā kimṛñjate | kiṃ prasādhayati | tatheṣvaraśca [?] kimṛñjate | ete idānīṃ vartamānā īśānāsaḥ pṛthivyā īśvarā rājānaśca kiṃ prasādhayanti | yadvā | yeṣāṃ stotṝṇāmasmākamete stutā devā īśānāsaḥ svāminaḥ kila tādṛśāṃstaruṣaḥ śatrūṇāṃ tārakān nṝn karmanirvāhakānasmāniṣṭāśvādayaḥ kiṃ sādhayanti kimupadravanti prabhavantītyarthaḥ ‖*
+
+*(150 dpi; some words doubtful, as marked.)* "*Mandāmahe*: we praise the gods (the root *madi stutau*; the *num* augment because it has the indicatory *i*). For what purpose? *Daśatayasya dhāseḥ* — of the food (*dhāsi*, food) of ten parts, as it is the means of satisfying the ten organs: since there are twice five, ten kinds of food — the food has ten kinds because it is held in ten *camasa* vessels. Bearing food of this kind, the ten *camasa*-priests (*adhvaryus*) go to the *āhavanīya* fire to make the offering. Or else: ten kinds of food — ghee, honey and so on, mentioned in the Āśvamedhika text ["he offers the ten foods"] — they go carrying, to offer to all the gods; when it is so, *mandāmahe*, 'we praise'. It must not be said, 'why will [the gods] come to us, leaving even Iṣṭāśva and the others?' [The gods are] *taruṣaḥ*, 'rescuers (*tāraka*) of enemies' — from the root *tṛ*, the *uṇādi* suffix *usin*. *Nṝn* — 'the leaders of deeds'. 'What does the king of this name (Iṣṭāśva) *ṛñjate*, what does he accomplish [against] such great-souled deities Varuṇa and the rest and all the gods? And so too Iṣṭaraśmi, what do they accomplish? What do these now-existing lords (*īśānāsaḥ*) of the earth, the kings, accomplish?' Or else: 'to us the praisers who have praised these gods, who are indeed lords (*svāmin*), what can Iṣṭāśva and the others accomplish [against] such men, we the *taruṣaḥ* (rescuers of enemies?), the leaders who carry out the sacrificial work — what can they trouble, what power can they have?' — that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yat* — because; *daśatayasya* — (that increases the ten organs) of ten kinds; *dhāseḥ* — of food; *dviḥ pañca* — ten (since it is held in ten *camasa* vessels); *annā* — (in the form of oblation) the foods; *bibhrataḥ* — carrying (the Adhvaryus and others); *yanti* — go (to make the offering).
+
+### Printed p. 59  (PDF 80)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* *Pratipadārtha, concluded:* *mandāmahe* — we (to the deities) praise; *īśānāsaḥ* — (the lords of the earth), kings; *taruṣaḥ* — (such) the rescuers of enemies; *nṝn* — the leaders of men, Varuṇa and the others (in respect of Varuṇa and the others); *kim ṛñjate* — what can they accomplish? Or else [*ete* — these deities, *īśānāsaḥ* — those who are our lords, *taruṣaḥ* — such rescuers of enemies, *nṝn* — us who carry out the work, *iṣṭāśvaś ca ete īśānāsaḥ iṣṭaraśmiḥ* — Iṣṭāśva, Iṣṭaraśmi, and the rest, the kings, *kim ṛñjate* — what can they accomplish? (How can they harm?)]
+
+**॥ भावार्थः ॥ — Bhāvārtha.** When (the Adhvaryus and others) go to offer the ten kinds of food, having taken it in the ten *camasas*, we praise the Viśvedevas. What satisfaction can Iṣṭāśva, Iṣṭaraśmi and other kings give, as the Viśvedevas are the rescuers of enemies and the carriers out of sacrificial works? (Having obtained the Viśvedevas as lords, how can Iṣṭāśva and the others harm us, who are rescuers of enemies and workers at the rites?)
+
+**Printed English (as printed):** *we rejoice that for the satisfaction of the ten (organs of sense) the (priests) bearing the twice five (ladles of) sacrificial food, proceed (to the altar). What can Ishtashwa; (what can) Ishtarashmi, (what can) those who are now lords of the earth, achieve (with respect) to the leaders of men, the conquerors of their foes?*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 13.**
+
+***daśatayasya dhāseḥ*** — *daśendriyatṛptisādhanatvena daśāvayavasyānnasya*: the commentator explains it as food which is the means of satisfying the ten organs — the five organs of action and the five organs of knowledge, ten in all. Since *daśatayasya* means "of ten kinds", it can also mean the oblations, Soma, ghee and other materials placed in the ten *camasa* vessels. The word *dhāsi* is recorded among the twenty-eight names of food (Ni. 2-7 [?], as read).
+
+***dviḥ pañca*** — that is, ten. *Daśavidhānyannāni* — *daśacamasagṛhītatvād annasya daśavidhatvam*: here the foods placed in the ten *camasa* vessels are called "foods of ten kinds".
+
+***bibhrataḥ yanti annā*** — *ṛtvijaḥ*, that is, the Adhvaryus and the rest, carry in their hands the foods with which the ten vessels are filled, in order to offer them to the gods, and go to the *āhavanīya* fire to make the oblation.
+
+### Printed p. 60  (PDF 81)
+
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* *(Special topics of Ṛk 13, continued.)* …(they go to the fire) with the intention of going near that fire in order to offer. Or else, in the Aśvamedha sacrifice, the commentator gives another meaning: they prepare ten kinds of oblation materials — ghee, honey, food and so on — and go near the fire to offer them to the Viśvedevas.
+
+***iṣṭāśvaḥ, iṣṭaraśmiḥ*** — The commentator has explained these words as kings of these names. Since these words occur nowhere else in the Ṛgveda except in this ṛk, nothing more can be said about them.
+
+***īśānāsaḥ*** — *vartamānā pṛthivyā īśvarā rājānaś ca*: "the present lords of the earth" — that is, kings, chiefs and so on.
+
+The meaning of the second half of this ṛk is obscure; the seer's intention is not clearly understood.
+
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 13, noted briefly; sūtra numbers not reproduced).** *Mandāmahe* — the root *madi stutau*; *idito num dhātoḥ* the *num* augment; *laṭ*, 1st plural, the suffix *mahiṅ*; *ṭita ātmanepadānāṃ ṭere* — *e* for the *ṭi*-part; the vikaraṇa *śap*; *ato dīrgho yañi* — lengthening of the stem's *a*; at the beginning of the verse-quarter no *nighāta*; since a *lasārvadhātuka* follows the *a* of the stem, by *tāsyanudāttet…* the *a* is unaccented, so the root accent remains. *Bibhrataḥ* — the root *ḍubhṛñ bharaṇe*; in the sense of *laṭ* the suffix *śatṛ*; the vikaraṇa *śluḥ*; reduplication of the root; *bhṛñām it* — *i* in the reduplicative syllable; since *sārvadhātukam apit* the suffix is *ṅit*-like, no guṇa; *yaṇ* substitution; *nābhyastāc chatuḥ* — in the nominative plural the *num* augment does not come; *abhyastānām ādiḥ* — the first-syllable acute. *Yanti* — the root *iṇ gatau*, *adādi*; *laṭ*, 3rd plural, *jhi*; *jhoṃtaḥ* — *ant*; *iṇo yaṇ* — *yaṇ* for the root; since *yvoḥ…* the *nighāta* does not arise; the suffix's first-syllable acute. *Annā* — in the neuter plural, when *śi* has come, *śeś chandasi bahulam* the *śi* is dropped.
+
+### Printed p. 61  (PDF 82)
+
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 3".)* **Grammar page, continued (Ṛk 13).** *Iṣṭāśvaḥ, iṣṭaraśmiḥ* — *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member. *Īśānāsaḥ* — in the nominative plural when *jas* comes, *ājjaser asuk* the augment *asuk*; for the final *s*, *ruṭ* and *visarga*. *Taruṣaḥ* — the root *tṝ plavanataraṇayoḥ*; the *uṇādi* suffix *usin*; with that as the cause, guṇa of the root's *ṛ*; since *ra*-… the *s* … ; because the suffix is followed by *iṇ*, *ādeśapratyayayoḥ* — *ṣatva*; since the suffix is *nit*, *ñnityādir nityam* — the initial acute. *Ṛñjate* — the root *ṛji bharjane*; since the roots have many meanings it is used here in the sense of accomplishing; *laṭ*, 3rd singular; since it is *idit*, the augment *num*; after an *atiṅanta* the *nighāta*. ‖ 13 ‖
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> हिरण्यकर्णं मणिग्रीवमर्णस्तन्नो विश्वे वरिवस्यन्तु देवाः ।
+> अर्यो गिरः सद्य आ जग्मुषीरोस्राश्चाकन्तूभयेष्वस्मे ॥ १४ ॥
+
+> *hiraṇyakarṇaṃ maṇigrīvamarṇastanno viśve varivasyantu devāḥ |*
+> *aryo giraḥ sadya ā jagmuṣīrosrāścākantūbhayeṣvasme ‖ 14 ‖*
+
+**॥ पदपाठः ॥**
+
+> हिरण्यऽकर्णम् । मणिऽग्रीवम् । अर्णः । तत् । नः । विश्वे । वरिवस्यन्तु । देवाः ।
+> अर्यः । गिरः । सद्यः । आ । जग्मुषीः । आ । उस्राः । चाकन्तु । उभयेषु । अस्मे इति ॥ १४ ॥
+
+> *hiraṇya 'karṇam | maṇi 'grīvam | arṇaḥ | tat | naḥ | viśve | varivasyantu | devāḥ |*
+> *aryaḥ | giraḥ | sadyaḥ | ā | jagmuṣīḥ | ā | usrāḥ | cākantu | ubhayeṣu | asme iti ‖ 14 ‖*
+
+---
+
+**Progress note:** Vol 10 — Sūkta 122 through printed p. 61 (PDF 82): Ṛks 1–13 complete; Ṛk 14 Saṃhitā and Pada given at the foot of p. 61; its bhāṣya starts on p. 62 (PDF 83). Printed page = PDF − 21. No OCR beyond printed p. 36; sūtra numbers on grammar pages pp. 41–61 are omitted (small type); doubtful readings `[?]`. Sūkta starts: 122→1, 123→71, 124→128, 125→188, 126→219, 127→249, 128→321, 129→364, 130→417, 131→466, 132→501, 133→534, 134→566, 135→606, 136→664.
