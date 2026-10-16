@@ -14421,4 +14421,52 @@ When the construction *apāṃ bhurvaṇi* is made, [the word] is in the sense o
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Ṛk 6 (the last of Sūkta 134) begun: Saṃhitā written (p. 601); resume p. 602 (PDF 623) with the Pada; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 602  (PDF 623)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 134" [as read].)*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । नः । वायो इति । एषाम् । अपूर्व्यः । सोमानाम् । प्रथमः । पीतिम् । अर्हसि ।
+> सुतानाम् । पीतिम् । अर्हसि ।
+> उतो इति । विहुत्मतीनाम् । विशाम् । ववर्जुषीणाम् ।
+> विश्वाः । इत् । ते । धेनवः । दुह्रे । आशिरम् । घृतम् । दुह्रते । आशिरम् ॥ ६ ॥
+
+> *tvam | naḥ | vāyo iti | eṣām | apūrvyaḥ | somānām | prathamaḥ | pītim | arhasi |*
+> *sutānām | pītim | arhasi |*
+> *uto iti | vihutmatīnām | viśām | vavarjuṣīṇām |*
+> *viśvāḥ | it | te | dhenavaḥ | duhre | āśiram | ghṛtam | duhrate | āśiram ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image; doubtful words marked [?].)*
+
+> हे वायो त्वमपूर्व्यः । न विद्यते पूर्वं यस्मात् तत्स्थानमपूर्वम् । तदर्हतीत्यपूर्व्यः । तादृशः अत एव प्रथमः इतरदेवेभ्यः पूर्वभूतः सन् सोमानां पीतिं पानमर्हसि । प्राप्नोषि । सुतानामभिषवकृतानां सोमानां पीतिं पानमर्हसि । यत्र यत्राभिषवोऽस्ति तत्र सर्वत्र नियमेन पिबसीत्यर्थः । पूर्वं प्राथम्याभिप्रायेण इदानीं तु सर्वत्र सोमवति योगेऽस्य पानमस्तीति ज्ञापयितुं पृथगभिधानम् । न केवलं सोमपानमात्रम् । उतो अपि तु विहुत्मतीनां विशेषेण होमवतीनामाह्वानवतीनां वा ॥ जुहोतेः संपदादिलक्षणो भावे क्विप् । ततो मतुब्भीष [?] । ववर्जुषीणामनभिमतपापं वर्जयन्तीनां वर्जयतेर्लिटः क्वसुः जक्षद्वित् [?] । विशामृत्विग्यजमानरूपाणां प्रजानां संबन्धि हविः स्वीकरोषीति शेषः । यद्वा । तेषां यष्ट्णां विश्वा इद्धेनवः सर्वा अपि गावस्ते त्वदर्थमाशिरमाश्रयणद्रव्यं क्षीरं दुह्रे दुहन्ति स्वयमेव ॥ कर्तरि न दुहस्नमामिति यगभावः । लोपस्त आत्मनेपदेष्विति तलोपः । बहुलं छन्दसीति रुट् ॥ तथाशिरं घृतमुपस्तरणाभिघारणाद्याश्रयणाय [?] योग्यं करणं द्रव्यं दुह्रते ॥
+
+> *he vāyo tvamapūrvyaḥ | na vidyate pūrvaṃ yasmāt tatsthānamapūrvam | tadarhatītyapūrvyaḥ | tādṛśaḥ ata eva prathamaḥ itaradevebhyaḥ pūrvabhūtaḥ san somānāṃ pītiṃ pānamarhasi | prāpnoṣi | sutānāmabhiṣavakṛtānāṃ somānāṃ pītiṃ pānamarhasi | yatra yatrābhiṣavo 'sti tatra sarvatra niyamena pibasītyarthaḥ | pūrvaṃ prāthamyābhiprāyeṇa idānīṃ tu sarvatra somavati yoge 'sya pānamastīti jñāpayituṃ pṛthagabhidhānam | na kevalaṃ somapānamātram | uto api tu vihutmatīnāṃ viśeṣeṇa homavatīnāmāhvānavatīnāṃ vā ‖ juhoteḥ saṃpadādilakṣaṇo bhāve kvip | tato matubbhīṣa [?] | vavarjuṣīṇāmanabhimatapāpaṃ varjayantīnāṃ varjayaterliṭaḥ kvasuḥ jakṣadvit [?] | viśāmṛtvigyajamānarūpāṇāṃ prajānāṃ saṃbandhi haviḥ svīkaroṣīti śeṣaḥ | yadvā | teṣāṃ yaṣṭṇāṃ viśvā iddhenavaḥ sarvā api gāvaste tvadarthamāśiramāśrayaṇadravyaṃ kṣīraṃ duhre duhanti svayameva ‖ kartari na duhasnamāmiti yagabhāvaḥ | lopasta ātmanepadeṣviti talopaḥ | bahulaṃ chandasīti ruṭ ‖ tathāśiraṃ ghṛtamupastaraṇābhighāraṇādyāśrayaṇāya [?] yogyaṃ karaṇaṃ dravyaṃ duhrate ‖*
+
+*(Sense: "O Vāyu, you are *apūrvya*: that from which nothing is earlier is *apūrva*, a station; he who deserves it is *apūrvya*. Such, and for that very reason *prathamaḥ* — being before the other gods — you deserve (*arhasi*, you obtain) the drinking (*pīti*) of the *somas*; the drinking of the pressed (*sutānām*) Soma-juices you deserve — wherever there is pressing, everywhere you drink by rule: this is the meaning. Previously this was said with the idea of priority; now, to make known that at every Soma-rite your drinking occurs, it is stated separately. Not merely the drinking of Soma: *uto*, but also [you accept the oblation] of the *vihutmatīnām* — those offering specially, or invoking — and *vavarjuṣīṇām* — those who avoid unwanted sin — of the people (*viśām*), the sacrificers and priests. Or: of those sacrificers, all the cows *viśvā id dhenavaḥ* yield for you — they themselves milk (*duhre*) — milk, the *āśira* (mixing material); and also ghee is milked (*duhrate*), as material for spreading and pouring etc." Grammatical details of *vavarjuṣīṇām* and *duhre* are partly doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) vāyo* — O Vāyu; *tvam* — you; *apūrvyaḥ* — (in the drinking of Soma-juice) one with no one before him; *(ata eva)* — for that very reason; *prathamaḥ* — (before the other deities) the first; *naḥ* — our; *eṣām* — these (placed before); *somānām* — of the Soma-juices (in the various vessels); *pītim* — the drinking; *arhasi* — are fit for; *sutānām* — of those pressed (all Soma-juices); *pītim* — the drinking; *arhasi* — are fit for; *uto* — and; *vihutmatīnām* — those who specially have soma-offerings (those having invocations of praise);
+
+### Printed p. 603  (PDF 624)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24 [as read].)*
+
+*(Pratipadārtha continued:)* *vavarjuṣīṇām* — (those who wish to give up unwanted sin) and *viśām* — of priests and of the sacrificers (their offerings you accept) [or: *vihutmatīnām* — those having special Soma-offerings; *vavarjuṣīṇām* — wishing to abandon unwanted sin; *viśām* — of the priests and the like]; *viśvāḥ it dhenavaḥ* — all cows; *te* — for you; *āśiram* — milk; *duhre* — milk (of themselves); *(tathā)* — and; *āśiram* — [a substance] fit for pouring [as an *abhighāraṇa*]; *ghṛtam* — ghee; *duhrate* — milk.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Vāyu, [in the drinking of Soma] you are the first fit one: therefore you are worthy to drink first, before the other deities, these Soma-juices of ours; at all the Soma-pressings you are the first to drink; and you accept the Soma-offerings of those priests and others who desire to give up sin; all their cows milk the milk and the ghee for you alone.
+
+**Printed English (heading "English Translation"; as printed):** *"You, Vayu, who are preceded by none, are entitled to drink first of these our libations: you are entitled to drink of the effused (juices), moreover, (of all) oblations and sin-offerings of men: for you, their cattle yield milk; (for you) they yield butter."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 6).**
+
+***tvam apūrvyaḥ prathamaḥ somānāṃ pītim arhasi*** — "In drinking Soma, no one before you; you are the first of all" — this indicates an old story. That Vāyu drinks before all is said in the Aitareya Brāhmaṇa in this way:
+
+> देवा वै सोमस्य राज्ञोऽग्रपेयेन न समपादयन्नहं प्रथमः पिबेयमहं प्रथमः पिबेयमित्येवाकामयन्त । ते संपादयन्तोऽब्रुवन्नन्तां [?] आजिमयाम । स यो न उज्जेष्यति स प्रथमः सोमस्य पास्यतीति । तथेति । स आजिमयुस्तेषामाजिं यतामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेन्द्रोऽथ मित्रावरुणावथाश्विनौ ।
+
+> *devā vai somasya rājño 'grapeyena na samapādayann ahaṃ prathamaḥ pibeyam ahaṃ prathamaḥ pibeyam ity evākāmayanta | te saṃpādayanto 'bruvann [?] ājimayāma | sa yo na ujjeṣyati sa prathamaḥ somasya pāsyatīti | tatheti | sa ājimayus teṣām ājiṃ yatām abhisṛṣṭānāṃ vāyur mukhaṃ prathamaḥ pratyapadyatātha indro 'tha mitrāvaruṇāv athāśvinau |*
+
+*(Read from the image; the text of this small-type Brāhmaṇa passage is partly doubtful [?]. Sense: "The gods, for the first drinking of King Soma, could not agree, each desiring 'May I drink first, may I drink first.' Not reaching agreement they said: 'Let us run a race (*āji*); whoever of us wins will drink Soma first.' 'So be it.' They ran the race; of them, as they set out, Vāyu was first at the goal (*mukham*); then Indra; then Mitra and Varuṇa; then the Aśvins.")*
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Ṛk 6 (the last of Sūkta 134) written through the start of its Special Topics (Aitareya Brāhmaṇa passage on Vāyu drinking first, p. 603); resume p. 604 (PDF 625); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
