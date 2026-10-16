@@ -13238,4 +13238,88 @@ These Piśācas or *bhūtas* have the forms of dog, owl, cuckoo, [*kokila* [?]] 
 
 ---
 
-**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–4 complete, Ṛk 5 Special Topics written through p. 552 (the Piśāca passage runs on; resume p. 553, PDF 574; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 553  (PDF 574)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+*(Special Topics of Ṛk 5, continued from p. 552.)* …four eyes, five feet, toes without feet [?], feet turned backwards, or horns on the hands, and so on (Atharvaveda [refs]; Hiraṇyakeśi Gṛhyasūtra [refs]); the Piśācas are also said to have blue and yellow colours and green [dress?]; among them also are males and females, married households, and kings (Ath. Ved. [refs]); they too are mortal (Ath. Ved. [refs] etc.).
+
+The Yātudhānas eat the flesh of men and horses, and drink cow's milk [refs]. To satisfy their desire for blood and flesh Rākṣasas attack men; this attack is usually through entering them; so Agni is prayed to restrain the Rākṣasas, as one stops those who would enter [refs]. Here and there a Piśāca, a presumed cause of disease, enters men (Ath. Ved. [refs]). These *bhūtas*, *pretas* usually enter us through our mouth, when we eat or drink (Ath. Ved. [refs]); they also enter through other doors (Ath. Ved. [refs]). Having entered inside, they obstruct, cut and eat the flesh of the man, and cause disease; they cause madness and destroy speech (Ath. Ved. [refs]; Hir. Gṛ. Sū. [refs]); they attack the dwellings of men (Kau. Sū. [refs]); some *bhūtas* in the evening hours dance round houses and howl like jackals, or wander about in the forests, or stand about on hills, laugh, and drink out of skulls (Ath. Ved. [refs]; Hir. Gṛ. Sū. [refs]).
+
+Their time of movement is night or evening [refs]. In the east they are not allowed to walk; the sun that rises there drives them away [refs]. [In the Taittirīya Saṃhitā it is said that] the burning brand is thought to be the form of a *bhūta*. (Kau. Sū. [refs]) The new-moon night, the darkness, is favourable for the movement of *pretas*, and also for *bhūtas* (Ath. Ved. [refs]).
+
+From these there is no danger to sacrifices of any kind. In sacrifices fit for gods, the Piśācas cause omission and confusion [?]; and the Yātus eat the offerings, scattering them about [refs]; they are not visible when one looks at praise (Stotra) [refs]. Agni is prayed, as a curse suited to a sacrifice, to burn *bhūtas* and the like ([refs]). There is a mantra which makes the sacrifice of an enemy not effective by the illusion of Yātudhānas and Rākṣasas (Ath. Ved. [refs]). Those who come and obstruct as *pretas* when oblations are given to the dead (Ath. Ved. [refs]; compare Vājasaneyi Saṃhitā [refs]). In the Purāṇas it is common that these Rākṣasa-groups (they are generally spoken of as Rākṣasas) trouble the yogis.
+
+### Printed p. 554  (PDF 575)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+Agni is prayed to burn, to drive away or to destroy those who play with fields [?], and the sacrificer at the sacrifice, and those who have hatred against them [refs]. Because of this work Agni and some other deities have the name "*rakṣohā*" ("destroyer of Rākṣasas").
+
+These *bhūtas* are not harmful merely by nature; they may do harm even when impelled by others. The word *rakṣoyujaḥ* ("those who incite Rākṣasas") is found [refs]. And there are *bhūtas* and Yātus that are sent by mantra-wielders [refs]. A *bhūta*-attack sent by an enemy may be made to fall back, [the sufferer] being a victim, with a plant called *yaviṣṭha* [as read] and the one who sent it be swallowed up — such is also dedicated to the *bhūtas* themselves (Ath. Ved. [refs]).
+
+Among the *bhūtas* the word *rakṣaḥ* is used both in the masculine and feminine; in the neuter it also has the sense of "danger". It may be from the root *rakṣ* ("to guard") — *rakṣa*, [the root] "do trouble", i.e. rākṣasa as harmful (*Ṛkvāṇām*? [as read]); but this usage is very rare. Ordinarily it may be from *rakṣ* "to protect". In this connection *rakṣaḥ* means "to be avoided".
+
+***piśācāḥ*** — the third class of *bhūtas* are the Piśācas. In the Ṛgveda they occur in only one place [refs], the word *piśāca* in the singular, in which Indra is prayed to destroy the *piśācī* of tawny colour and having a crest [?], and the one living in water, striking each *bhūta* and destroying it. Asuras, Rākṣasas and Piśācas are, respectively, enemies of the gods, of men, and of the Pitṛs. With the Piśācas, intercourse is mostly connected with the *pretas*. The *pretas* are called *kravyād* (eater of raw flesh, or of dead bodies) (Ath. Ved. [refs] etc.): the word *piśāca* has a similar meaning. Agni is prayed to restore the flesh of a sick man eaten by Piśācas (Ath. Ved. [refs]); and therefore there may also have been a class of Piśācas who eat the flesh of women [?]; the Piśācas roam in the water of rivers (Ath. Ved. [refs]) or ravage the houses and villages of men, [passing] through forests (Ath. Ved. [refs]).
+
+The feminine word *arāti* (miserliness) and the masculine and feminine word *druh* (harm, causing trouble) are also reckoned as kinds of Piśācas.
+
+*Kimīdin*, etc. — a class of *bhūtas* ([refs]).
+
+Of our daily life there are many Piśācas connected with it. By their names alone, one can know the troubles caused by them. They have no connexion with the Prakṛti [i.e. physical nature]; commonly it is a belief that, being enemies to us, it is the dead themselves who come in this form and cause us harm.
+
+### Printed p. 555  (PDF 576)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 23 [as read].)*
+
+Less often, some powers, with a connexion to the person [i.e. to the dead person?], running about in the air, cause men diseases, childlessness, sin, and the like, and suffering. The chief use of *mantra-vidyā* is to turn these away against those who are not ours.
+
+Some Piśācas that move on the earth are not harmful; [from] them we get help. They give help to those who ask, and long life to brides. Arbuda, one of the chief Piśāca-groups, causes terror to enemies and helps us in battles (Ath. Ved. [refs]).
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly; numbers as printed).** *piśaṅgabhṛṣṭim* — *piśaṅgā bhṛṣṭir yasya tam*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 [as read]) gives the earlier member its own accent. *ambhṛṇam* — root *bhṛṇa śabde*; *yaj* (*yañ*) is used in the sense of intensity; for it the *anyemitrakavāgi* [as read: elision, *luk*]; after *yaj-luk-anta*, *nandigrahapacādibhyaḥ* (Pā. 3-1-134 [as read]) gives the *ac* suffix; the change of the letter *bha* is by Vedic usage [as read]. Or *ambhṛṇa* is a name of "great" (*mahat*), a *prātipadika* without derivation; *ñiti nityam* [as read: *phiṣo 'nta udāttaḥ*, "*phiṣ*"] — the final udātta accent comes. *mṛṇa* — root *mṛṇa hiṃsāyām*, *tudādi*; *loṭ* second person singular; as it follows a *tiṅanta*, the *nighāta*. *barhaya* — root *bṛha hiṃsāyām*, *curādi*; *satyāpapāśa…* (Pā. 3-1-25 [as read]) gives *ṇic* in its own sense; *pugantalaghūpadhasya ca* (Pā. 7-3-86 [as read]) gives the *laghūpadha guṇa*; after *ṇijanta*, *loṭ* second person singular, hence the form *barhaya*; after *tiṅanta*, *nighāta*. ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अवर्मह इन्द्र दादृहि श्रुधी नः शुशोच हि द्यौः क्षा न भीषाँ अद्रिवो घृणान्न भीषाँ अद्रिवः ।
+> शुष्मिन्तमो हि शुष्मिभिर्वधैरुग्रेभिरीयसे ।
+> अपूरुषघ्नो अप्रतीत शूर सत्वभिस्त्रिसप्तैः शूर सत्वभिः ॥ ६ ॥
+
+> *avarmaha indra dādṛhi śrudhī naḥ śuśoca hi dyauḥ kṣā na bhīṣā~ adrivo ghṛṇānna bhīṣā~ adrivaḥ |*
+> *śuṣmintamo hi śuṣmibhirvadhairugrebhirīyase |*
+> *apūruṣaghno apratīta śūra satvabhistrisaptaiḥ śūra satvabhiḥ ‖ 6 ‖*
+
+### Printed p. 556  (PDF 577)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read].)*
+
+**॥ पदपाठः ॥**
+
+> अवः । महः । इन्द्र । दादृहि [?] । श्रुधि । नः । शुशोच । हि । द्यौः । क्षा । न । भीषा ।
+> अद्रिवः । घृणात् । न । भीषा । अद्रिवः ।
+> शुष्मिन्ऽतमः । हि । शुष्मिऽभिः । वधैः । उग्रेभिः । ईयसे ।
+> अपुरुषऽघ्नः । अप्रतिऽइत । शूर । सत्वऽभिः । त्रिऽसप्तैः । शूर । सत्वऽभिः ॥ ६ ॥
+
+> *avaḥ | mahaḥ | indra | dādṛhi [?] | śrudhi | naḥ | śuśoca | hi | dyauḥ | kṣā | na | bhīṣā |*
+> *adrivaḥ | ghṛṇāt | na | bhīṣā | adrivaḥ |*
+> *śuṣmin 'tamaḥ | hi | śuṣmi 'bhiḥ | vadhaiḥ | ugrebhiḥ | īyase |*
+> *apuruṣa 'ghnaḥ | aprati 'ita | śūra | satva 'bhiḥ | tri 'saptaiḥ | śūra | satva 'bhiḥ ‖ 6 ‖*
+
+*(The Pada's verb is printed "*dadṛhi*"-like and the Saṃhitā "*dādṛhi*"; given as in the Saṃhitā with [?].)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image; begins p. 556, continues p. 557.)*
+
+> दशरात्रस्य षष्ठेऽहनि प्रउगशस्त्र इन्द्रश्च स्यावर्मह इन्द्रेत्यादिके प्रथमाद्वितीये । षष्ठस्येति खण्डे सूत्रितं । अवर्मह इन्द्र वृषन्निन्द्र [?] । आ. ८-१ [?] इति ॥
+
+> *daśarātrasya ṣaṣṭhe 'hani praugaśastra indraśca syāvarmaha indretyādike prathamādvitīye | ṣaṣṭhasyeti khaṇḍe sūtritaṃ | avarmaha indra vṛṣannindra [?] | ā. 8-1 [?] iti ‖*
+>
+> हे इन्द्र महो महतो मेघस्य ॥ कर्मणि षष्ठी ॥ महान्तं जलधारिणं मेघं महान्तं वृत्रं वावरवस्त्रदवाज्ञ्मुखं [?] ॥ पूर्वाधरेत्यादिनासिप्रत्ययोर्वारादेशश्च । अम्नरूधरवरित्यम्भयथा छन्दसि । पा. ८-२-७० [?] इति रेफः ॥ दादृहि विदारय । किंच नोऽस्माकं श्रुधि । शृणु । हे अद्रिवः । अद्रिर्मेघः । तद्वन्निन्द्र । हि यस्मात्कारणाद्द्यौर्द्युलोको देवानामाश्रयभूतः शुशोच शोचति । वृष्ट्यभावेन हविरादिभावादिति भावः । तत्र दृष्टान्तः । क्षा न । क्षेति भूनाम । क्षायन्ति निवसन्त्यस्यामिति क्षा । क्षै जै पै क्षये । अधिकरणे क्विप् ॥ क्षा न सर्वनिवासाश्रयभूमिरिव । सा यथा भीषा वृष्ट्यभावात्सस्यादिनाशभीत्या शोचति तद्वत् । लोकद्वयमपि वृष्ट्यभावेन शोचतीत्यर्थः । असुरपक्षं लोकद्वयमावृत्य प्रवर्धमानं धर्तुमसहमाने द्यावापृथिव्यौ शोचत इत्यर्थः । कस्माच्छुधीति पूर्वत्रान्वयः । भीतौ दृष्टान्तः । हे अद्रिवः शक्रोकां भक्षक । यद्वा । अद्रिर्वज्रः । तेन तद्वन् । हे इन्द्र घृणाद्भीषा न दीप्तादग्नेर्मूर्त्यन्तरात्तत्पुरुषभीत्येव । ज्वलद्भिर्भीत्या पूर्वं यथा द्यावापृथिव्यौ शोचतस्तद्वत् ॥ अत्रेतिहासमाहुः । पूर्वं जगति महान्धकारेणावृते सति देवा विचिन्त्याग्निं प्रार्थितवन्तः । स च त्रसपुरुषरूपेण द्यावापृथिवीभ्यां सकाशात्...
+
+> *he indra maho mahato meghasya ‖ karmaṇi ṣaṣṭhī ‖ mahāntaṃ jaladhāriṇaṃ meghaṃ mahāntaṃ vṛtraṃ vāvaravastradavājñmukhaṃ [?] ‖ pūrvādharetyādināsipratyayorvārādeśaśca | amnarūdharavarityambhayathā chandasi | pā. 8-2-70 [?] iti rephaḥ ‖ dādṛhi vidāraya | kiṃca no 'smākaṃ śrudhi | śṛṇu | he adrivaḥ | adrirmeghaḥ | tadvannindra | hi yasmātkāraṇāddyaurdyuloko devānāmāśrayabhūtaḥ śuśoca śocati | vṛṣṭyabhāvena havirādibhāvāditi bhāvaḥ | tatra dṛṣṭāntaḥ | kṣā na | kṣeti bhūnāma | kṣāyanti nivasantyasyāmiti kṣā | kṣai jai pai kṣaye | adhikaraṇe kvip ‖ kṣā na sarvanivāsāśrayabhūmiriva | sā yathā bhīṣā vṛṣṭyabhāvātsasyādināśabhītyā śocati tadvat | lokadvayamapi vṛṣṭyabhāvena śocatītyarthaḥ | asurapakṣaṃ lokadvayamāvṛtya pravardhamānaṃ dhartumasahamāne dyāvāpṛthivyau śocata ityarthaḥ | kasmācchudhīti pūrvatrānvayaḥ | bhītau dṛṣṭāntaḥ | he adrivaḥ śakrokāṃ bhakṣaka | yadvā | adrirvajraḥ | tena tadvan | he indra ghṛṇādbhīṣā na dīptādagnermūrtyantarāttatpuruṣabhītyeva | jvaladbhirbhītyā pūrvaṃ yathā dyāvāpṛthivyau śocatastadvat ‖ atretihāsamāhuḥ | pūrvaṃ jagati mahāndhakāreṇāvṛte sati devā vicintyāgniṃ prārthitavantaḥ | sa ca trasapuruṣarūpeṇa dyāvāpṛthivībhyāṃ sakāśāt...*
+
+*(The bhāṣya runs on to p. 557; because the print is small and several words here are doubtful I mark the whole passage "as read, [?]". Sense so far: "The *daśarātra*, sixth day, in the *prauga-śastra* Indra …; stated in the Śrauta-sūtra, section 'ṣaṣṭhasya'. O Indra: *mahaḥ* — of the great cloud (genitive in the sense of the object); break the great, water-bearing cloud, the great Vṛtra [?]; and listen to us, O *adrivaḥ* — O possessor of the cloud. For the sky, the support of the gods, burns (*śuśoca*) because, there being no rain, there are no oblations and the like. Illustration: *kṣā na* — like the earth [*kṣā* = earth, the dwelling (*kṣāyanti*) of all], which when there is no rain burns from fear of the destruction of crops: so both worlds burn for lack of rain. [Or:] the heaven and earth burn, unable to bear the growing Asura-party that has pervaded the two worlds. *Ghṛṇāt* — from fear of a blazing fire, an embodied other form, as heaven and earth burned formerly in fear of blazing ones: [Here they] tell an itihāsa — formerly, when the world was covered with great darkness, the gods, having reflected, prayed to Agni; and he in the form of a *trasa*-man [?] …")*
+
+---
+
+**Progress note:** Sūkta 132 complete. Sūkta 133 (*ubhe punāmi*, 7 ṛks; Anuvāka 19; printed pp. 534–565) in progress: Ṛks 1–5 complete (Special Topics 549–555 with [refs] for the numeral pass); Ṛk 6 begun: Saṃhitā, Pada and the start of the bhāṣya (the itihāsa on the heaven and earth burning for fear; the first part is only sensed, [?]) written to p. 556; resume p. 557 (PDF 578) with the end of the bhāṣya, which should be tidied then; all Ṛgveda reference numerals in pp. 549–552 marked [refs] for the numeral pass; images in w10f/, PDF 541–620 cropped). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132; metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
