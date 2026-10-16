@@ -5527,4 +5527,202 @@ In the present ṛk Sāyaṇa explains *na vidyate akaṃ duḥkhaṃ tatsādhan
 
 ---
 
-**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 211 (PDF 232): Ṛks 1–5 complete (‖ 5 ‖); resume p. 212 (PDF 233) with Ṛk 6 Saṃhitā. Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
+### Printed p. 212  (PDF 233)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> दक्षिणावतामिदिमानि चित्रा दक्षिणावतां दिवि सूर्यासः ।
+> दक्षिणावन्तो अमृतं भजन्ते दक्षिणावन्तः प्र तिरन्त आयुः ॥ ६ ॥
+
+> *dakṣiṇāvatāmidimāni citrā dakṣiṇāvatāṃ divi sūryāsaḥ |*
+> *dakṣiṇāvanto amṛtaṃ bhajante dakṣiṇāvantaḥ pra tiranta āyuḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> दक्षिणाऽवताम् । इत् । इमानि । चित्रा । दक्षिणाऽवताम् । दिवि । सूर्यासः ।
+> दक्षिणाऽवन्तः । अमृतम् । भजन्ते । दक्षिणाऽवन्तः । प्र । तिरन्ते । आयुः ॥ ६ ॥
+
+> *dakṣiṇā 'vatām | it | imāni | citrā | dakṣiṇā 'vatām | divi | sūryāsaḥ |*
+> *dakṣiṇā 'vantaḥ | amṛtam | bhajante | dakṣiṇā 'vantaḥ | pra | tirante | āyuḥ ‖ 6 ‖*
+
+*(The Saṃhitā is printed "dakṣiṇāvatām idimāni"; the Pada reads *it* *imāni*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> दक्षिणावतां बहुविधगोहिरण्यादिरूपदक्षिणाप्रदात्‍ऋणाम् । इच्छब्द एवकारार्थः । तेषामेवार्थ इमानि भूमौ दृश्यमानानि चित्राणि चायनीयानि स्यन्दनमणिमुक्तादिरूपाणि [?] समृद्धानि भवन्तीति शेषः । किंच दक्षिणावतामेव दिवि द्युलोके सूर्यासः सूर्यसंबन्धिनो लोकास्तदनुगृहीता भोगा वा समृद्धा भवन्ति । किंच दक्षिणावन्त एवामृतं जरामरणरहितं स्थानं भजन्ते । सेवन्ते । यद्वा । दानेनापहतपाप्मान आत्मानं विदित्वामृतमनश्नानं मोक्षं भजन्ते । प्राप्नुवन्ति । यज्ञेनैव दानेनेति श्रुतेः । किंच दक्षिणावन्त एवायुः प्र तिरन्ते । अतिदीर्घमेवमायुष्यं लभन्ते । प्रपूर्वस्तिरतिर्वर्धनार्थः । इतीति सर्वत्र संबध्यते ॥
+
+> *dakṣiṇāvatāṃ bahuvidhagohiraṇyādirūpadakṣiṇāpradātṛṇām | icchabda evakārārthaḥ | teṣāmevārtha imāni bhūmau dṛśyamānāni citrāṇi cāyanīyāni syandanamaṇimuktādirūpāṇi [?] samṛddhāni bhavantīti śeṣaḥ | kiṃca dakṣiṇāvatāmeva divi dyuloke sūryāsaḥ sūryasaṃbandhino lokāstadanugṛhītā bhogā vā samṛddhā bhavanti | kiṃca dakṣiṇāvanta evāmṛtaṃ jarāmaraṇarahitaṃ sthānaṃ bhajante | sevante | yadvā | dānenāpahatapāpmāna ātmānaṃ viditvāmṛtamanaśnānaṃ mokṣaṃ bhajante | prāpnuvanti | yajñenaiva dāneneti śruteḥ | kiṃca dakṣiṇāvanta evāyuḥ pra tirante | atidīrghamevamāyuṣyaṃ labhante | prapūrvastiratirvardhanārthaḥ | itīti sarvatra saṃbadhyate ‖*
+
+*(Read from the image and checked against the OCR; a few small words — "syandanamaṇimuktādi" and the quotation "yajñenaiva dānena" — are given as read.)* "*Dakṣiṇāvatām* — of those who give fees (*dakṣiṇā*) of many kinds, in the form of cows, gold and the like. The word *it* has the sense of *eva*: for them alone these *imāni* — the things seen on earth, wonderful and desirable, in the form of chariots, jewels, pearls and the like — become abundant; this is the remainder of the sentence. Moreover for the givers of fees alone, *divi* — in the heaven-world — *sūryāsaḥ* — the worlds belonging to the Sun, or the enjoyments favoured by him — become abundant. Moreover only the givers of fees attain (*bhajante*, resort to) *amṛtam* — a state free of old age and death; or else, with their sin removed by giving, knowing the Self, they attain *amṛta*, the state of release, the not-eating: [as in] the text 'by sacrifice, by giving'. Moreover only the givers of fees *prātirante* — greatly lengthen their life, *āyuḥ*; they obtain very long life; the verb *tir* with the prefix *pra* has the sense of increase. The word *iti* is connected throughout."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Dakṣiṇāvatām it* — only to those who give fees (in the form of cows and gold); *citrā* — desirable; *imāni* — these (the things such as chariots obtainable on this earth); *dakṣiṇāvatām* — to those who give fees; *divi* — in the atmosphere; *sūryāsaḥ* — the worlds connected with the Sun (enjoyments obtained by the Sun's favour); *dakṣiṇāvantaḥ* — the givers of fees alone; *amṛtam* — the state free of old age and death; *bhajante* — obtain; *dakṣiṇāvantaḥ* — the givers of fees; *āyuḥ* — long life; *pra tirante* — gain and increase.
+
+### Printed p. 213  (PDF 234)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** To those who give fees of cows, gold and the like (having performed the Soma sacrifices and others) come the desirable things on this earth, such as chariots; to them the worlds of the Sun and others in the atmosphere (enjoyments obtained by the Sun's favour); and they themselves obtain the worlds free of old age and death, and (in this world) long life.
+
+**Printed English (as printed):** *These wonderful (rewards) verily are for those who give (pious) donations : for the donors of (pious) gifts the suns shine in heven : the givers of (pious) donations attain immortality : the givers of (pious) gifts prolong their (wordly) existence.* *(sic: "heven", "wordly")*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 6.**
+
+In this ṛk the excellent place that the givers of fees obtain is praised. For the word *dakṣiṇā* the author of the Nirukta shows four derivations (Ni. 1-7, as printed "೧-೭"; the OCR reads "१-७"):
+
+> दक्षिणा दक्षतेः समर्धयतीति कर्मणो वृद्धं समर्धयतीति ।
+
+> *dakṣiṇā dakṣateḥ samardhayatīti karmaṇo vṛddhaṃ samardhayatīti |*
+
+"*Dakṣiṇā* from *dakṣ* — she increases; the work that has grown she makes still more complete": derived from the root *dakṣ* with the meaning "to make grow". As it is said in this very ṛk, *dakṣiṇāvantaḥ āyuḥ pratirante* — those who give fees lengthen their life — the substance given as a fee makes increase in another form; hence the name *dakṣiṇā*.
+
+Second: *api vā pradakṣiṇāgamanāt* — at the places of sacrifice the priest goes round in circumambulation (*pradakṣiṇā*), and afterwards carries out his work; the circumambulation of this kind gets the name *dakṣiṇā*.
+
+Third: *diśam abhipretya digdhastaprakṛtiḥ dakṣiṇo ha dakṣater utsāhakarmaṇaḥ* [as printed] — because the right hand has the strength to work with effort, the right hand is naturally called *dakṣiṇa*.
+
+Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning "to give": since the right hand is used when giving, the gift has the name *dakṣiṇā*. Thus he has explained in four ways; in the present ṛk all the meanings are suggested as included.
+
+### Printed p. 214  (PDF 235)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+***pratirante*** — *pratiratiḥ vṛddhikarmā*: "they obtain increase": this is the purport. The glory of giving in the form of the fee is praised in many places in this way.
+
+> अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति हृष्यैष दक्षिणाभ्युक्तम् [?] ।
+
+> *ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hṛṣyaiṣa dakṣiṇābhyuktam [?] |*
+
+(Śa. Brā. 10-1-1-10 [?], as read; the print is small.) — that giving the fee produces food; and
+
+> य एष तपति तदेवैतद्दादित्यो यशो यज्ञो हैव तद्यशस्तद्यज्ञस्तद्दक्षिणा हैव तद्यशस्तस्माद्यामस्मै दक्षिणामानयेयुर्न तां इत्वा मोऽन्यस्मा अतिदिशेत् ॥
+
+> *ya eṣa tapati tadevaitaddādityo yaśo yajño haiva tadyaśastadyajñastaddakṣiṇā haiva tadyaśastasmādyāmasmai dakṣiṇāmānayeyurna tāṃ itvā mo 'nyasmā atidiśet ‖*
+
+(Śa. Brā. 4-1-1-33 as read — the Sanskrit of this quotation is read from small print and is doubtful in many syllables.) — since the fee itself is glory (*yaśas*) and welfare, one should not despise it; and, as Sāyaṇa has cited,
+
+> ब्राह्मणा विविदिषन्ति यज्ञेन दानेन ।
+
+> *brāhmaṇā vividiṣanti yajñena dānena |*
+
+(Bṛ. U. 4-4-22, as read.) — "Brahmins seek to know by sacrifice, by giving"; thus in other ways too there is praise of the fee.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; noted briefly, numbers as read by the OCR).** *dakṣiṇāvatām* — *dakṣiṇā yeṣām asti iti dakṣiṇāvantaḥ*; *tad asyāsty asminn iti matup* (Pā. 5-2-94) gives *matup*; *mādupadhāyāś ca…* (Pā. 8-2-9) gives *va* for the *m*; since the suffix has the marker *p* it is unaccented; genitive plural. *citrā* — root *ciñ cayane*; *ami-ci-mi-di…* (Uṇ. 4-163 as read) gives the suffix *tra*; since it is *kit* there is no guṇa; in the neuter *śi* arises; *śeś chandasi bahulam* (Pā. 6-1-70) elides the *śi*. *divi* — *ūḍidaṃpadādi…* (Pā. 6-1-171) gives the acute to the locative ending. *sūryāsaḥ* — root *sṛ gatau*; *rājasūyasūrya…* (Pā. 3-1-114) records it as ending in *kyap*; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives the augment *asuk*.
+
+### Printed p. 215  (PDF 236)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+*amṛtam* — *nañ* + *mṛta*; *nañsubhyām*… [print: *jaramarapriyamṛtāḥ*] (Pā. 6-2-116) gives the first-syllable acute of the latter member as an exception to the natural accent of the *nañ*. *bhajante* — root *bhaja sevāyām*; laṭ third person plural; *nighāta*. *tirante* — the root *tira* with *pra* is used in the sense of increase; laṭ third person plural; *tiṅ-nighāta*. *āyuḥ* — root *iṇ gatau*; *chandasīṇ* [print: Uṇ. 1-2] gives the suffix *uṇ*; *ācoṇṇiti* gives vṛddhi; since *ac* follows, *āy* substitution. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> मा पृणन्तो दुरितमेन आरन्मा जारिषुः सूरयः सुव्रतासः ।
+> अन्यस्तेषां परिधिरस्तु कश्चिदपृणन्तमभि सं यन्तु शोकाः ॥ ७ ॥
+
+> *mā pṛṇanto duritamena āranmā jāriṣuḥ sūrayaḥ suvratāsaḥ |*
+> *anyasteṣāṃ paridhirastu kaścidapṛṇantamabhi saṃ yantu śokāḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> मा । पृणन्तः । दुःऽइतम् । एनः । आ । अरन् । मा । जारिषुः । सूरयः । सुऽव्रतासः ।
+> अन्यः । तेषाम् । परिऽधिः । अस्तु । कः । चित् । अपृणन्तम् । अभि । सम् । यन्तु । शोकाः ॥ ७ ॥
+
+> *mā | pṛṇantaḥ | duḥ 'itam | enaḥ | ā | aran | mā | jāriṣuḥ | sūrayaḥ | su 'vratāsaḥ |*
+> *anyaḥ | teṣām | pari 'dhiḥ | astu | kaḥ | cit | apṛṇantam | abhi | sam | yantu | śokāḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अन्वयव्यतिरेकाभ्यां दानं प्रशंसितुमाह । पृणन्तो देवादीन्हविरादिना प्रीणयन्तः सन्तो दुरितं दुष्टं यथा भवति तथा प्राप्तं दुःखमेनस्तत्साधनं पापं च मारन् । मा प्राप्नुवन् । न केवलं दातार एव अपि तु सूरयो देवानां स्तोतारो विद्वांसो मा जारिषुः । जरया न जीर्णा भवेयुः । तथा सुव्रतासः
+
+> *anvayavyatirekābhyāṃ dānaṃ praśaṃsitumāha | pṛṇanto devādīnhavirādinā prīṇayantaḥ santo duritaṃ duṣṭaṃ yathā bhavati tathā prāptaṃ duḥkhamenastatsādhanaṃ pāpaṃ ca māran | mā prāpnuvan | na kevalaṃ dātāra eva api tu sūrayo devānāṃ stotāro vidvāṃso mā jāriṣuḥ | jarayā na jīrṇā bhaveyuḥ | tathā suvratāsaḥ*
+
+### Printed p. 216  (PDF 237)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+> शोभनकृच्छ्रचान्द्रायणादिनियमवन्तोऽपि मा जारिषुः । तेषामन्यः कश्चन [?] । यः कश्चन तेषां दातॄणां स्तोतॄणां वा अन्यो ऽपि पुरुषः परिधिः पापस्य परितो धारकोऽस्तु । यद्वा । अन्यो यः कश्चित्पापदेवस्तेषां परिधिस्थानीयो व्यवधायकोऽस्तु । यथाग्नेः परिधिः स्वयं रक्षःप्रकृतिभिर्बाध्यमानः स्वान्तर्हितमग्निं रक्षति तद्वत् । अथवा । अन्यो धर्मविशेषस्तेषां परिधिः परिधानमस्तु । कवचस्थानीयोऽस्तु । तर्हि किं प्राप्नुयुरिति उच्यते । अपृणन्तं देवादीनप्रीणयन्तमदातारं शोकाः क्लेशाः पीडकास्तत्साधनाः पाप्मानोऽभ्यभिमुखं सं यन्तु । सम्यक् प्राप्नुवन्तु । वयं सुखिनो भवेमेत्यर्थः ॥
+
+> *śobhanakṛcchracāndrāyaṇādiniyamavanto 'pi mā jāriṣuḥ | teṣāmanyaḥ kaścana [?] | yaḥ kaścana teṣāṃ dātṝṇāṃ stotṝṇāṃ vā anyo 'pi puruṣaḥ paridhiḥ pāpasya parito dhārako 'stu | yadvā | anyo yaḥ kaścitpāpadevasteṣāṃ paridhisthānīyo vyavadhāyako 'stu | yathāgneḥ paridhiḥ svayaṃ rakṣaḥprakṛtibhirbādhyamānaḥ svāntarhitamagniṃ rakṣati tadvat | athavā | anyo dharmaviśeṣasteṣāṃ paridhiḥ paridhānamastu | kavacasthānīyo 'stu | tarhi kiṃ prāpnuyuriti ucyate | apṛṇantaṃ devādīnaprīṇayantamadātāraṃ śokāḥ kleśāḥ pīḍakāstatsādhanāḥ pāpmāno 'bhyabhimukhaṃ saṃ yantu | samyak prāpnuvantu | vayaṃ sukhino bhavemetyarthaḥ ‖*
+
+*(Read from the image; the words marked [?] near the beginning — "teṣām anyaḥ kaścana" — are small and doubtful.)* "To praise giving by the method of agreement and difference, he says: those who satisfy (*pṛṇantaḥ*) the gods and others with oblations and the like — let them not incur (*mā āran*) evil that has come about — *duritam* (sorrow, evil) and *enaḥ* (sin that is its cause). Not only the givers, but also *sūrayaḥ* — the wise praisers of the gods — let them not *mā jāriṣuḥ* — not be worn out by old age; and likewise *suvratāsaḥ* — those who keep the vows such as *kṛcchra* and *cāndrāyaṇa* — let them not be worn out. For them, some other person, *anyaḥ kaścid*, who is another person of the givers or praisers, let him be a *paridhi* — a surrounding protector against sin; or let some other deity of sin be as a *paridhi* — a barrier — for them: as the *paridhi* of the fire, itself beaten by the Rākṣasas and the like, protects the fire hidden within it, so; or let some special dharma be their *paridhāna*, as it were a coat of mail. If so, what will befall? That is said: *apṛṇantam* — him who does not satisfy the gods and others, the non-giver — *śokāḥ* — troubles, tormentors, the sins that are their cause — *abhi saṃ yantu* — let them come upon him; let them reach him thoroughly: that we may be happy."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Pṛṇantaḥ* — those who have satisfied (the gods with oblations and the like); *duritam* — sorrow; *enaḥ* — sin (the cause of sorrow); *mā ā aran* — let them not incur; *sūrayaḥ* — the praisers; (and) *suvratāsaḥ* — those who perform good vows; *mā jāriṣuḥ* — let them not be worn out by old age; *teṣām* — (for the givers and praisers); *anyaḥ kaścit* — some other person; *paridhiḥ* — the guard (the one who keeps off sin) or (the barrier that holds off sin); *astu* — let him be; *apṛṇantam* — him who does not satisfy the gods and others (the non-giver); *śokāḥ* — afflictions (sins, or the sinful); *abhi* — against; *saṃ yantu* — let them come.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** For those who satisfy the gods with oblations and the like there is no sorrow or sin; for the praisers and those who perform other vows (*kṛcchra*, *cāndrāyaṇa* and the like) there is no old age; let some other protect them from sin; let afflictions come upon him who does not satisfy the gods.
+
+**Printed English (as printed):** *May those who propitiate (the gods), never commit degrading sin : may those who praise the gods and observe holy vows, never experience decay : may some (honorable) individual ever be their defence ; and may afflictions fall upon him who does not propitiate (the gods).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 7.**
+
+***sūrayaḥ*** — since this word is recorded among the names of praisers, *rebha*, *jaritā*, *kāru* and the like (Ni. 3-19, as printed; the OCR reads "३-१९"), *sūrayaḥ* means "praisers, devotees who make praise". The word *sūri* has been used in many places in senses such as "wise", "discriminating", "intelligent".
+
+### Printed p. 217  (PDF 238)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 10.)*
+
+When it is used of ṛṣis who have the supernatural power of vision, visual and mental, by which they grasp the essential nature of the deities and the secret truths of the universe, this epithet gives a special sense.
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः । दिवीव चक्षुराततम् ॥
+
+> *tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣurātatam ‖*
+
+(Ṛ. Saṃ. 1-22-20, as read from the print.) — in such contexts it indicates not only "those who praise" but the extraordinary power of vision of the ṛṣis. And it is used as an epithet not only of ṛṣis but also of Indra and other deities.
+
+> अस्मा इदु त्यमुपमं स्वर्षां भराम्याङ्गूषमास्येन ।
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ॥
+
+> *asmā idu tyamupamaṃ svarṣāṃ bharāmyāṅgūṣamāsyena |*
+> *maṃhiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai ‖*
+
+*(No reference is printed; read letter by letter, with "āṅgūṣam" as printed.)* — in ṛks such as this *vipaścitam indram* ("the wise Indra") shows the wisdom of Indra and other deities. Besides, the word *sūri* is also used to suggest the sense "lord, impeller, guide on the good path".
+
+> अस्य स्तुषे महिमघस्य राधः सचा सनेम नहुषः सुवीराः ।
+> जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः ॥
+
+> *asya stuṣe mahimaghasya rādhaḥ sacā sanema nahuṣaḥ suvīrāḥ |*
+> *jano yaḥ pajrebhyo vājinīvānaśvāvato rathino mahyaṃ sūriḥ ‖*
+
+(Ṛ. Saṃ. 1-122-8, as printed.)
+
+> एवेदिन्द्रः सुते अस्तावि सोमे भरद्वाजेषु क्षयदिन्मघोनः ।
+> असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ॥
+
+> *evedindraḥ sute astāvi some bharadvājeṣu kṣayadinmaghonaḥ |*
+> *asadyathā jaritra uta sūririndro rāyo viśvavārasya dātā ‖*
+
+(Ṛ. Saṃ. 6-33-? [?], as read.)
+
+> विश्वकर्मन्हविषा वावृधानः स्वयं यजस्व पृथिवीमुत द्याम् ।
+> मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ॥
+
+> *viśvakarmanhaviṣā vāvṛdhānaḥ svayaṃ yajasva pṛthivīmuta dyām |*
+> *muhyantvanye abhito janāsa ihāsmākaṃ maghavā sūrirastu ‖*
+
+(Ṛ. Saṃ. 10-81-6, as read from the print.) — in these and other places the gods who are lords and guides on the good path are described by their qualities. And
+
+> रथो न यातः शिक्वभिः कृतो द्यामङ्गेभिररुषेभिरीयते ।
+> आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ॥
+
+> *ratho na yātaḥ śikvabhiḥ kṛto dyāmaṅgebhiraruṣebhirīyate |*
+> *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathādīṣate vayaḥ ‖*
+
+(Ṛ. Saṃ. 1-141-? [?], as read.) — in some such places it gives more rarely the sense "path" [*mārga*].
+
+### Printed p. 218  (PDF 239)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
+
+In the present ṛk the sense is: "praisers (*stotṛ*) who are endowed with excellent devotion and are wise".
+
+***paridhiḥ*** — *pāpasya paritaḥ dhārakaḥ*: "the one who has the power to stop sin on all sides and make it stand"; or *yathā agniḥ paridhiḥ svayaṃ rakṣaḥprakṛtibhir bādhyamānaḥ svāntarhitam agniṃ rakṣati tadvat*: as the *paridhi* of the fire, though itself struck by Rākṣasas and the like, protects the fire that is within it, so the excellent lord (*sūri*), himself checking sin, protects those within his protection: that is the purport.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; noted briefly, numbers as read by the OCR).** *pṛṇantaḥ* — root *pṝ pālanapūraṇayoḥ*; *śatṛ* for *laṭ*; *śnā*; *svādīnāṃ hrasvaḥ* shortens the root; the first-syllable acute of the suffix; nominative plural. *duritam* — prefix *dur*, root *iṇ gatau*; in the passive, *niṣṭhā* (Pā. 3-2-102) gives *kta*; *gatir anantaraḥ* (Pā. 6-2-49) gives the natural accent of the *gati* (*dur*). *enaḥ* — root *iṇ gatau*; *iṇa āgasi* (Uṇ. 4-?) gives the suffix *asun*, with the augment *nuṭ*; taking that as cause, guṇa of the root vowel; *ñnityādir nityam* gives the first-syllable acute. *āran* — root *ṛ gatau*; luṅ third person plural *jhi*; *itaś ca* elides the *i*; *anta* substitution; the final of the conjunct is lost; *sarti-śāsty-ṛti-bhyaś ca* (Pā. 3-1-56) gives *aṅ* for *cli*; *ṛdṛśo 'ṅi guṇaḥ* (Pā. 7-4-16) gives guṇa of the root for *aṅ*; *raparatva*; since *mā* is connected, *na māṅyoge* (Pā. 6-4-74) gives no augment *aṭ*; *nighāta*. *jāriṣuḥ* — root *jṝṣ vayohānau*; luṅ third person plural *jhi*; *siC* for *cli*; the augment *iṭ*; *sijabhyastavidibhyaś ca* (Pā. 3-4-109) gives *jus* for *jhi*; *sici vṛddhiḥ parasmaipadeṣu* (Pā. 7-2-1) gives vṛddhi and *raparatva* to the root; *ṣatva* of the *siC*; as before, no augment *aṭ* since *mā* is connected; *nighāta*. *suvratāsaḥ* — *śobhanāni vratāni yeṣāṃ te suvratāsaḥ*; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member; with *jas* following, *ājjasar asuk* (Pā. 7-1-50) gives *asuk* to it, …
+
+---
+
+**Progress note:** Sūkta 125 (*prātā ratnam*, 7 ṛks, printed pp. 187–218) through printed p. 218 (PDF 239): Ṛks 1–7 written; the grammar of Ṛk 7 (*suvratāsaḥ*, *paridhi*, …) breaks off at the foot of p. 218 and continues on p. 219 (PDF 240), followed by the colophon and Sūkta 126 (starts p. 219). Open flag: the long itihāsa passage of the p. 189 bhāṣya is transcribed only in part.
