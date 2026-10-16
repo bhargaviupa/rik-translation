@@ -10458,4 +10458,84 @@ Here ends the 129th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūktas 127, 128 and 129 complete (printed pp. 249–416). Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) begun: heading and the Sanskrit/Kannada introduction (the whole of p. 417) done; resume at head of p. 418 (PDF 439) with the Sūkta table (varga, devatā, chandas) and Ṛk 1. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 (Ṛk 2 pp. 371, 373; Ṛk 3 p. 377 corrected on p. 379; Ṛk 4 p. 382; Ṛk 5 p. 385; Ṛk 6 pp. 390–393; Ṛk 7 p. 396; Ṛk 8 pp. 400–401; Ṛk 9 p. 405 — slip "pathām̐" in the Saṃhitā, see p. 404 note; Ṛk 10 pp. 408–409; Ṛk 11 p. 413) and a possibly mis-placed page-division on pp. 414/415 (the Special Topics of Ṛk 11 are written under p. 414); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 418  (PDF 439)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130" [as read: "೧೩೦"].)*
+
+**ಸೂಕ್ತ—೧೩೦ — Sūkta 130.** *Maṇḍala 1 ‖ Anuvāka 19 ‖ Sūkta 130 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Varga 19, 20 [as read: "೧೯, ೨೦"] ‖ Number of ṛks in the Sūkta: 10 ‖ Ṛṣi: Paruccheṣa Daivodāsi ‖ Devatā: Indra ‖ Chandas: Ṛks 1–9 Atyaṣṭi; Ṛk 10 Triṣṭubh.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> एन्द्र याह्युप नः परावतो नायमच्छा विदथानीव सत्पतिरस्तं राजेव सत्पतिः ।
+> हवामहे त्वा वयं प्रयस्वन्तः सुते सचा ।
+> पुत्रासो न पितरं वाजसातये मंहिष्ठं वाजसातये ॥ १ ॥
+
+> *endra yāhyupa naḥ parāvato nāyamacchā vidathānīva satpatirastaṃ rājeva satpatiḥ |*
+> *havāmahe tvā vayaṃ prayasvantaḥ sute sacā |*
+> *putrāso na pitaraṃ vājasātaye maṃhiṣṭhaṃ vājasātaye ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । इन्द्र । याहि । उप । नः । पराऽवतः । न । अयम् । अच्छ । विदथानिऽइव । सत्ऽपतिः । अस्तम् । राजाऽइव । सत्ऽपतिः ।
+> हवामहे । त्वा । वयम् । प्रयस्वन्तः । सुते । सचा ।
+> पुत्रासः । न । पितरम् । वाजऽसातये । मंहिष्ठम् । वाजऽसातये ॥ १ ॥
+
+> *ā | indra | yāhi | upa | naḥ | parā 'vataḥ | na | ayam | accha | vidathāni 'iva | sat 'patiḥ | astam | rājā 'iva | sat 'patiḥ |*
+> *havāmahe | tvā | vayam | prayasvantaḥ | sute | sacā |*
+> *putrāsaḥ | na | pitaram | vāja 'sātaye | maṃhiṣṭham | vāja 'sātaye ‖ 1 ‖*
+
+*(Read from the image. The Saṃhitā prints *endra yāhy upa naḥ* (*ā indra*), *nāyam acchā*; the Pada: *parā-vataḥ*, *vidathāni-iva*, *rājā-iva*, *vāja-sātaye*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र परावतो दूरदेशात् स्वर्गलक्षणान्नोऽस्मानुप सामीप्येन याहि । अस्मत्समीपं प्रत्यागच्छ । तत्र दृष्टान्तः । अयं न पुरोवर्त्यग्निरभिषुतः सोमो वा प्रस्तुतेऽस्मिन् निर्दिश्यते । स इव । यद्यपि पुरस्तादुपाचारानिषेधार्थीयो नकारः सर्वत्र तथास्य प्रैतिकेनोपमार्थीयो गृह्यते [?] । यद्वा । परावतो न दूरदेशादिव । यद्यपि यज्ञे सर्वदा सन्निहितस्तथापि स्वर्गाख्याद्दूरदेशादिवास्मिन् यज्ञे ॥ आयमिति विभक्तिव्यत्ययः । अमुं देवयजनदेशमच्छाभिप्राप्तुं मायाहीति शेषः । तत्र दृष्टान्तः । सत्पतिः सतां सर्वदा वर्तमानानामृत्विजां पालको यजमान इव । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वम् । स यथा विदथानि वेदनान्युपेयुर्ज्ञानानि [?] । यद्वा । सतां विद्यमानानां फलानां पालकोऽग्निः । स यथा विदथानि यज्ञगृहाण्यागच्छति तद्वत्त्वमपि यज्ञगृहानागच्छ । यद्वा । सतां नक्षत्राणां पतिः राजा चन्द्रमा अस्तमिव । स यथा स्वधामस्थानमागच्छति तद्वत् । किंच प्रयस्वन्तो हविर्लक्षणान्नवन्तो वयं यजमानास्त्वां हवामहे । आह्वयामः । किमर्थम् । सुतेऽभिषुते सोमे निमित्तभूते सति । कीदृशा वयम् । सचा ऋत्विग्भिः सहिताः । सचा सहेत्यर्थ इति यास्कः । नि. ५-५ [?] । आह्वाने दृष्टान्तः । पुत्रासः पुत्राः पितरं न पालकं जनकमिव तं यथा वाजसातयेऽन्नस्य सम्भजनायाह्वयन्ति तथा वयमपि त्वां तदर्थमाह्वयामः । किंच मंहिष्ठं मंहनीयं त्वां वाजसातये सङ्ग्रामप्राप्तये तज्जयाय हविःस्वीकाराय वाह्वयामः ॥
+
+> *he indra parāvato dūradeśāt svargalakṣaṇānno 'smānupa sāmīpyena yāhi | asmatsamīpaṃ pratyāgaccha | tatra dṛṣṭāntaḥ | ayaṃ na purovartyagnirabhiṣutaḥ somo vā prastute 'smin nirdiśyate | sa iva | yadyapi purastādupācārāniṣedhārthīyo nakāraḥ sarvatra tathāsya praitikenopamārthīyo gṛhyate [?] | yadvā | parāvato na dūradeśādiva | yadyapi yajñe sarvadā sannihitastathāpi svargākhyāddūradeśādivāsmin yajñe ‖ āyamiti vibhaktivyatyayaḥ | amuṃ devayajanadeśamacchābhiprāptuṃ māyāhīti śeṣaḥ | tatra dṛṣṭāntaḥ | satpatiḥ satāṃ sarvadā vartamānānāmṛtvijāṃ pālako yajamāna iva | patyāvaiśvarya iti pūrvapadaprakṛtisvaratvam | sa yathā vidathāni vedanānyupeyurjñānāni [?] | yadvā | satāṃ vidyamānānāṃ phalānāṃ pālako 'gniḥ | sa yathā vidathāni yajñagṛhāṇyāgacchati tadvattvamapi yajñagṛhānāgaccha | yadvā | satāṃ nakṣatrāṇāṃ patiḥ rājā candramā astamiva | sa yathā svadhāmasthānamāgacchati tadvat | kiṃca prayasvanto havirlakṣaṇānnavanto vayaṃ yajamānāstvāṃ havāmahe | āhvayāmaḥ | kimartham | sute 'bhiṣute some nimittabhūte sati | kīdṛśā vayam | sacā ṛtvigbhiḥ sahitāḥ | sacā sahetyartha iti yāskaḥ | ni. 5-5 [?] | āhvāne dṛṣṭāntaḥ | putrāsaḥ putrāḥ pitaraṃ na pālakaṃ janakamiva taṃ yathā vājasātaye 'nnasya sambhajanāyāhvayanti tathā vayamapi tvāṃ tadarthamāhvayāmaḥ | kiṃca maṃhiṣṭhaṃ maṃhanīyaṃ tvāṃ vājasātaye saṅgrāmaprāptaye tajjayāya haviḥsvīkārāya vāhvayāmaḥ ‖*
+
+*(Read from the image; the small type is partly doubtful: [?] — notably the clause on the particle *na* ("*yady api purastād…*") and "*vidathāni vedanāny upeyur jñānāni*". Sense: "O Indra, come near us from afar (*parāvataḥ*) — from heaven — return to us. The example: like this (*ayam na*) fire before us, or the pressed Soma that is pointed to in the present context — like him; though the particle *na* is generally negative, here it is taken as a particle of comparison. Or: as if from a distant place (*parāvato na*), though you are always present at the sacrifice, as if from far-off heaven to this sacrifice. [Case variation: *āyam* for *amum*.] Come to this place of sacrifice, to reach it. Example: like a *satpati* — the sacrificer, protector of the priests who are always present; [the accent of the first member is from *patyāvaiśvarye*]; as he comes to *vidathāni* — the places of knowledge/of the ceremonies; or, as Agni, the protector of existing fruits, comes to *vidathāni* — the sacrificial houses — so you come to the sacrificial houses; or, as the Moon, king (*rājā*) and lord of the stars, comes to his setting-place (*astam*), his own abode. And we sacrificers, possessed of food in the form of oblations, call you (*havāmahe*), for the pressed Soma, together with the priests (*sacā* — 'together', Yāska, Ni. 5-5 [?]). Example for the invocation: as sons call a father — a protector — for the *vājasāti* — to partake of food; so we also call you for that; and we call you, the most worthy of honour (*maṃhiṣṭha*), for the winning of battle, for the acceptance of oblations.")*
+
+### Printed p. 419  (PDF 440)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *parāvataḥ* — from a very distant place (from heaven); *ayaṃ na* — like this (the fire before us) [or: (this pressed) Soma]; *naḥ* — us; *upa yāhi* — approach; or, *parāvataḥ na* — as if from a distant place; *naḥ* — to us; *ā* — here, at this sacrificial hall; *upa yāhi* — come near; *satpatiḥ* — the sacrificer who is the protector of the priests who are always present, or Agni, protector of existing fruits; *vidathāni iva* — as one comes to rites that are to be known, or as to the sacrificial houses; or *satpatiḥ* — the lord of the stars; *rājā iva* — like the Moon; *astam* — to his own setting-place; *(ayam* — to this sacrificial entry); *accha ā (yāhi)* — come, facing us; *(kiṃ ca* — and); *prayasvantaḥ* — possessed of food in the form of oblations; *sacā* — together with the priests; *vayam* — we (the sacrificers); *putrāsaḥ* — sons; *pitaram na* — as a father is called; *sute* — for the pressed Soma; *tvā* — you; *havāmahe* — we invoke; *maṃhiṣṭham* — you, the most worthy of honour; *vāja-sātaye* — for the winning of battle (for victory in battle) or for the acceptance of oblations; *(havāmahe* — we invoke).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(its first part is at the foot of p. 419, the rest on p. 420).* O Indra, (though you are always near) as if from a distant place, or like this fire that came from afar — come to us; as the sacrificer goes to the priests, as Agni goes to the sacrificial halls, as the Moon, lord of the stars, goes to his abode, set out facing us toward the sacrificial hall; we, the sacrificers, with the priests, having prepared the Soma, as sons call a father to share food, call you, the most worthy, for the winning of battle or for the acceptance of the oblation.
+
+### Printed p. 420  (PDF 441)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**Printed English (heading "English Translation"; as printed):** *"Come to us, Indra, from afar: not as this (fire) which is before us, (but) like the pious instituter of sacrifices, or like the royal lord of the constellations (when going) to his setting. Bearing oblations, we, along with (the priests), invoke you to accept the effused (juices), as sons (invite) a father to partake of food: (we invoke) you, who are most entitled to reverence, to (accept of) the sacrificial viands."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***parāvataḥ naḥ upa yāhi ayaṃ na*** — *svargalakṣaṇāt dūradeśāt asmatsamīpaṃ pratyāgaccha | purovartī agnir iva*: the word *parāvat* is recorded among the names of "far" (Ni. 3-20 [?]; as read "೩-೩೦"). "From heaven, far away, Indra is prayed to come near us for the sacrifice." By the sentence *ayaṃ na* — "like this" — the ṛṣi directly points out, before the priests and the sacrificers, that Indra should come near to us, like another fire, or like the Soma-juice that has been prepared and brought near. The particle *na* always denotes a prohibition; but here, it is explained in one meaning that it is used only in the sense of comparison (*upamārthe*).
+
+In the second meaning it is said together with the word *parāvataḥ* in the sense "as from a distant place": whether it be Agni or Indra, those who are always present in the places where sacrifice is going on, are thought of by those who call them as living far away in heaven; so it is customary that they are prayed, "come to the place where the sacrifice is going".
+
+***satpatiḥ*** — *satāṃ sarvadā vartamānānām ṛtvijāṃ pālakaḥ yajamāna iva*: "As the sacrificer, who always protects the priests present at the sacrifice when it is performed in the sacrificial hall, is near them, so may Indra be near the sacrificer": and the meaning is given that "the sacrificer, having knowledge of the duties to be performed at the sacrifice, protects the sacrifice"; by the sentence *vidathānīva satpatiḥ*, the first meaning is described.
+
+### Printed p. 421  (PDF 442)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+In the second meaning: *satāṃ vidyamānānāṃ phalānāṃ pālako 'gniḥ vidathāni yajñagṛhāṇi āgacchati tadvat* — "as Agni, who protects the fruits of sacrificial acts so that the fruit be certain, comes to the sacrificial hall, so may Indra come to protect the sacrifice."
+
+In the matter of Indra's coming to the sacrificial hall, the sentence *astaṃ rājeva satpatiḥ* is used as a comparison. The words *gayaḥ, kṛdaraḥ* [as read, doubtful: [?]] — *asta* is recorded among the two names of "house" (Ni. 3-[?]; as read "೩-೧೩"); "*house*" is the meaning: as the Moon, king of the stars, comes to his own abode, so Indra too may come to the sacrificial hall.
+
+***prayasvantaḥ*** — *havirlakṣaṇānnavantaḥ*: the word *prayas* is recorded among the names of food (Ni. 2-[?]; as read "೨-೯"): "the sacrificers who have prepared the food in the form of oblation."
+
+***sacā*** — this word, which has the meaning "together" (*saha*), is explained by Yāska (Ni. 3-[?]; as read "೩-೩೨" [?]): here the meaning "with the priests" is given.
+
+***putrāsaḥ pitaraṃ na vājasātaye*** — *putrāḥ pitaraṃ janakaṃ pālakam iva annasya sambhajanāya āhvayanti tadvat*: "as sons call a father — the protector — to share food, so the sacrificers, having prepared the Soma-pressing, call Indra to accept it": so the meaning.
+
+***maṃhiṣṭhaṃ vājasātaye*** — *maṃhanīyaṃ tajjayāya saṅgrāmaprāptaye havissvīkārāya vā āhvayāmaḥ*: "we call Indra, who deserves honour or worship, to bring about victory in battle, or to accept the oblation": so the meaning. The word *vājasātau* is recorded among the names of battle (Ni. 2-[?]; as read "೨-೯").
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly; numbers as printed).** *yāhi* — root *yā prāpaṇe*; *loṭ* second person singular; *tiṅ-nighāta*. *āyam* — by the statement *supāṃ suluk…* the first case ending becomes the second. *accha* — *nipātasya ca* (Pā. 6-3-136) gives the long vowel in the Saṃhitā. *satpatiḥ* — *satāṃ patiḥ satpatiḥ*; though *patyāvaiśvaryeṇe* (Pā. 6-2-18) gives the accent of the first member remains.
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 421 (PDF 442): Ṛk 1 written through the Special Topics and the start of its grammar page (entries *yāhi*, *āyam*, *accha*, *satpatiḥ* begun — the *satpatiḥ* entry breaks off); resume p. 422 (PDF 443) with the rest of the Ṛk 1 grammar (‖ 1 ‖) and Ṛk 2. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 (see earlier list; slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 are written under p. 414 though the print runs on to p. 415) and in Sūkta 130 Ṛk 1 bhāṣya (p. 418); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
