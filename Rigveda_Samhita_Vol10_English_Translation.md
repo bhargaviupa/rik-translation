@@ -6619,4 +6619,150 @@ We have explained the *trayastriṃśa* stoma before. Yet the description of thi
 
 ---
 
-**Progress note:** Sūkta 127 (begins printed p. 249 = PDF 270; Anuvāka 19; 10 ṛks, pp. 249–320) through printed p. 254 (PDF 275): the long Kannada introduction on the ṛṣi Paruccheṣa and the use of his ṛks in the śastra (Aitareya Brāhmaṇa passages, small type, flagged [?]) written; resume p. 255 (PDF 276) — Sanskrit introduction, table, Ṛk 1. The sūkta title "*agniṃ hotāram*" is from the first word of Ṛk 1 (to be confirmed on p. 255). Page images for PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Ṛk 5/7 bhāṣya of Sūkta 126.
+### Printed p. 255  (PDF 276)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 12.)*
+
+*(Continuing the Aitareya Brāhmaṇa passage on the sixth day:)*
+
+> यद्वै समानोदर्कं तत्षष्ठस्याह्नो रूपं यद्वै तृतीयमहस्तदेतत्तुर्यं यदश्ववदृतुवदावृत्तं यत्सनिवृत्तं यद्रतवद्यदन्तवद्यत्रिर्यथास्तवं [?] यदन्तरूपं यदुत्तमे पदे देवता निरुच्यते यदसौ लोकोऽभ्युदितः ॥
+
+> *yadvai samānodarkaṃ tatṣaṣṭhasyāhno rūpaṃ yadvai tṛtīyamahastadetatturyaṃ yadaśvavadṛtuvadāvṛttaṃ yatsanivṛttaṃ yadratavadyadantavadyatriryathāstavaṃ [?] yadantarūpaṃ yaduttame pade devatā nirucyate yadasau loko 'bhyuditaḥ ‖*
+
+(Ai. Br. 22-? [?], as printed "ಐ. ಬ್ರಾ. ೨೨-೭" — numerals small.) *(Read from the print and the OCR; a very small passage, flagged as unverified.)* The rites of the third day of this sacrifice are to be observed also on the sixth day. What was said at the recitation of mantras on the third day, such as "*aśvavat*", "*antavat*" (those containing the word *aśva* and so on), must be recited again on the sixth day. But on the sixth day there is a special order.
+
+> यत्पारुच्छेपं यत्सप्तपदं यन्नाराशंसं यन्नाभानेदिष्ठं यद्वैरतवं यदतिच्छन्दा यत्कृतं यत्तृतीयस्याह्नो रूपमेतानि वै षष्ठस्याह्नो रूपाणि ॥
+
+> *yatpārucchepaṃ yatsaptapadaṃ yannārāśaṃsaṃ yannābhānediṣṭhaṃ yadvairatavaṃ yadaticchandā yatkṛtaṃ yattṛtīyasyāhno rūpametāni vai ṣaṣṭhasyāhno rūpāṇi ‖*
+
+On that day one must recite ṛks seen by the ṛṣi Paruccheṣa, which have seven *pādas*; ṛks seen by Nābhānediṣṭha; ṛks in praise of the deity Narāśaṃsa; one must sing with the Sāman called *Raivata*; ṛks of *atichandas* metres (metres with more syllables than the Gāyatrī) must be used; … these are the special rules of the sixth day, to be observed in addition to those said or not said for the third day.
+
+> अयं जायत मनुषो धरीमणीति षष्ठस्याह्न आज्यं भवति पारुच्छेपमतिच्छन्दाः सप्तपदं षष्ठेऽहनि षष्ठस्याह्नो रूपम् ।
+
+> *ayaṃ jāyata manuṣo dharīmaṇīti ṣaṣṭhasyāhna ājyaṃ bhavati pārucchepamaticchandāḥ saptapadaṃ ṣaṣṭhe 'hani ṣaṣṭhasyāhno rūpam |*
+
+The *ājya-śastra* mantra to be recited on the sixth day must be the ṛks of the sūkta *ayaṃ jāyata manuṣo dharīmaṇi* [Ṛ. Saṃ. 1-128], seen by Paruccheṣa. The metre of these is *ati*, that is, they have more syllables than the ordinary metres, and these ṛks have seven *pādas* (3 *pādas* in the first half, 2 in the middle half, 2 in the last half — in all 7). All these are special rites of the sixth day.
+
+> स्तीर्णं बर्हिरुप नो याहि वीतये । आ वां रथो नियुत्वान्वक्षदवसे । सुषुमा यातमद्रिभिः । युवां स्तोमेभिर्देवयन्तो अश्विनावर्मह इन्द्र । वृषन्निन्द्रास्तु शौषट् [?]… ज्ञातवे [?]… ये देवासो…
+
+> *stīrṇaṃ barhirupa no yāhi vītaye | ā vāṃ ratho niyutvānvakṣadavase | suṣumā yātamadribhiḥ | yuvāṃ stomebhirdevayanto aśvināvarmaha indra | vṛṣannindrāstu śauṣaṭ [?]… jñātave [?]… ye devāso…*
+
+*(These are the opening words of the ṛks listed on the next page; I give them in the order in which the print lists them and do not complete them from memory.)*
+
+### Printed p. 256  (PDF 277)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+> दिव्येकादशस्थेयमददाद्रभसमृणच्युतमिति प्रउगं पारुच्छेपमतिच्छन्दाः सप्तपदं षष्ठेऽहनि षष्ठस्याह्नो रूपम् ॥
+
+> *divyekādaśastheyamadadādrabhasamṛṇacyutamiti praugaṃ pārucchepamaticchandāḥ saptapadaṃ ṣaṣṭhe 'hani ṣaṣṭhasyāhno rūpam ‖*
+
+(Ai. Br. 22-? [?], as printed.) In the *praüga* [as printed, *prauga*] śastra mantras there are the following ṛks. They are ṛks seen by Paruccheṣa, in the *atichandas* metre of more syllables, with seven *pādas*. Their order is —
+
+* *stīrṇaṃ barhir upa no yāhi vītaye* (Ṛ. Saṃ. 1-135-1, three ṛks from there; as printed);
+* *ā vāṃ ratho niyutvān vakṣad avase* (Ṛ. Saṃ. 1-135-4, the ṛks from 4 to 6);
+* *suṣumā yātam adribhiḥ* (Ṛ. Saṃ. 1-137-1, three ṛks);
+* *yuvāṃ stomebhir devayanto aśvinā* (Ṛ. Saṃ. 1-139-3 to 6 [?]; "೧-೧೩೯-೩ ರಿಂದ ೬ರ ವರೆಗಿನ" as printed);
+* *āvarmaha indra dāddhi śrudhī naḥ* (Ṛ. Saṃ. 1-133-6 and 7 [?], as printed);
+* *astu śrauṣaṭ puro agniṃ dhiyā dadhe* (Ṛ. Saṃ. 1-139-1);
+* *o ṣū ṇo agne śṛṇuhi tvam īḷitaḥ* (Ṛ. Saṃ. 1-139-2);
+* *ye devāso divy ekādaśa stha* (Ṛ. Saṃ. 1-139-11);
+* *iyam adadād rabhasam ṛṇacyutam* (Ṛ. Saṃ. 6-61-1, three ṛks).
+
+*(Read from the print, with the OCR; the word-forms are printed in Devanagari in the source here and are given as printed; the numerals are small and I mark them as read.)* The ṛks stated above, taken together, are the *praüga* śastra mantras. Of these, only the ṛks at the end, *iyam adadāt* etc., are seen by the ṛṣi Bharadvāja; all the other ṛks are seen by Paruccheṣa.
+
+In the *maruttvatīya śastra* mantras beginning with the ṛk *sa pūrvyo mahānām* (Ṛ. Saṃ. 8-63-1 [?], as printed), only one ṛk seen by Paruccheṣa is included —
+
+* *yaṃ tvaṃ ratham indra medhasātaye* (Ṛ. Saṃ. 1-129-1, as printed) —
+
+the remaining ṛks being seen by other ṛṣis, they are not described here.
+
+**॥ सायणभाष्यम् — Sanskrit introduction (*bhūmikā*) ॥**
+
+> एकोनविंशेऽनुवाके सप्त सूक्तानि । तत्राग्निं होतारमिति प्रथमं सूक्तमेकादशर्चं दिवोदासपुत्रस्य परुच्छेपस्यार्षमाग्नेयमात्यष्टम् । सहि
+
+> *ekonaviṃśe 'nuvāke sapta sūktāni | tatrāgniṃ hotāramiti prathamaṃ sūktamekādaśarcaṃ divodāsaputrasya parucchepasyārṣamāgneyamātyaṣṭam | sahi*
+
+### Printed p. 257  (PDF 278)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 12.)*
+
+> शर्ध इत्यस्याः षट्सप्तत्यक्षराऽतिधृतिः । उत्कृत्यभिकृतिसंकृतिविकृत्याकृतिप्रकृतिकृत्यतिकृतिषु चतुरुत्तरशताक्षरमारभ्य चतुर्णां परित्याग एकैकमुक्तं छन्दो जायते । तथा सत्यतिधृतिः उक्तसंख्योपेता स्यात् । एतत्सर्वं छन्दोग्रन्थे चतुःशतमुत्कृतिरित्यादिसूत्रैः प्रतिपादितम् । पि. ४-१ । तथा चानुक्रान्तम् । अग्निमेकादश परुच्छेपो दैवोदासिराग्नेयं तु पारुच्छेपं सर्वमात्यष्टं तत्राद्यतिधृतिः षष्ठीति [?] ॥ सूक्तस्य विशेषविनियोगो लैङ्गिकः । दशरात्रस्य षष्ठेऽहनि प्रातःसवने प्रस्थितयाज्यानां पुरस्ताद्अन्या ऋचः कृत्वा प्राकृतीभिश्च सह यष्टव्यम् । तत्राग्नेयीस्त्वेषा प्रथमा । षष्ठस्य प्रातःसवन इति खण्डे सूत्रितम् । अग्निं होतारं मन्ये दास्वन्तं दधर्षज्ञ ह मे जनुषं पूर्वो अङ्गिराः । आ. ८-१ [?] इति ॥
+
+> *śardha ityasyāḥ ṣaṭsaptatyakṣarā 'tidhṛtiḥ | utkṛtyabhikṛtisaṃkṛtivikṛtyākṛtiprakṛtikṛtyatikṛtiṣu caturuttaraśatākṣaramārabhya caturṇāṃ parityāga ekaikamuktaṃ chando jāyate | tathā satyatidhṛtiḥ uktasaṃkhyopetā syāt | etatsarvaṃ chandogranthe catuḥśatamutkṛtirityādisūtraiḥ pratipāditam | pi. 4-1 | tathā cānukrāntam | agnimekādaśa parucchepo daivodāsirāgneyaṃ tu pārucchepaṃ sarvamātyaṣṭaṃ tatrādyatidhṛtiḥ ṣaṣṭhīti [?] ‖ sūktasya viśeṣaviniyogo laiṅgikaḥ | daśarātrasya ṣaṣṭhe 'hani prātaḥsavane prasthitayājyānāṃ purastādanyā ṛcaḥ kṛtvā prākṛtībhiśca saha yaṣṭavyam | tatrāgneyīstveṣā prathamā | ṣaṣṭhasya prātaḥsavana iti khaṇḍe sūtritam | agniṃ hotāraṃ manye dāsvantaṃ dadharṣajña ha me januṣaṃ pūrvo aṅgirāḥ | ā. 8-1 [?] iti ‖*
+
+*(Read from the print; this paragraph is in small type and several words, marked [?], are doubtful. The OCR is badly garbled here. The metre-names and the sūtra reference "Piṅ. 4-1" [?] are as read; "ṣaṣṭhīti" at the end of the Anukramaṇī quotation I cannot confirm.)* "In the nineteenth Anuvāka there are seven sūktas. Of them, the first, beginning *agniṃ hotāram*, of eleven ṛks, is of Paruccheṣa son of Divodāsa, addressed to Agni, in Aṣṭi [as printed *ātyaṣṭi*] metre. *Sa hi śardhaḥ* is of seventy-six syllables, Atidhṛti. Among the metres Utkṛti, Abhikṛti, Saṃkṛti, Vikṛti, Ākṛti, Prakṛti, Kṛti, Atikṛti, [Dhṛti, Atidhṛti, Aṣṭi, Atyaṣṭi], beginning at one hundred and four syllables and dropping four each time, each metre comes about; thus Atidhṛti would have the stated count. All this is stated in the metre-treatise in the sūtras beginning *catuḥśataṃ utkṛtiḥ* (Piṅgala 4-1 [?]). And so the Anukramaṇī says: 'Agni — eleven; Paruccheṣa Daivodāsi; Āgneya; Pārucchepa; all Atyaṣṭi; in it the first Atidhṛti; the sixth …'. The special application of the sūkta is by *liṅga*: in the sixth day of the Daśarātra, in the morning pressing, one should sacrifice with other ṛks first before the *prasthita-yājyās*, together with the *prākṛta* ones. Of these, the first, addressed to Agni, is this one; it is laid down in the section 'of the sixth day, in the morning pressing' [Āśvalāyana Śrauta Sūtra]: '*agniṃ hotāraṃ manye dāsvantaṃ dadharṣajña ha me januṣaṃ pūrvo aṅgirāḥ*' (Āś. 8-1 [?])."
+
+**Anuvāda (Kannada).** With this Sūkta the nineteenth Anuvāka of the first Maṇḍala begins. In this Anuvāka there are seven Sūktas. Of these seven Sūktas, the Sūkta beginning *agniṃ hotāram* is the first; it has eleven ṛks. The ṛṣi of this Sūkta is Paruccheṣa, the son of Divodāsa; the deity is Agni; the metre is Atyaṣṭi. The ṛk *sa hi śardhaḥ* is of the metre Atidhṛti, of 76 syllables. In the metres Utkṛti, Abhikṛti, Saṃkṛti, Vikṛti, Ākṛti, Prakṛti, Kṛti, Atidhṛti [as printed: "ಅತಿಧೃತಿ"], Dhṛti, Atyaṣṭi, Aṣṭi, the syllable-count of each ṛk goes down by four syllables from 104, and the last, the Aṣṭi, has 64 syllables. That is, from Utkṛti to Aṣṭi the counts are 104, 100, 96, 92, 88, 84, 80, 76, 72, 68, 64 (as printed: "೧೦೪, ೧೦೦, ೯೬, ೯೨, ೮೮, ೮೪, ೮೦, ೭೬, ೭೨, ೬೮, ೬೪" — I give the series as consistent with the printed pattern; the printed digits are small). Therefore the metres Atyaṣṭi and Atidhṛti are of 68 and 76 syllables. All this has been established in the metre-treatise by the sūtras beginning *catuḥśatam utkṛtiḥ* (Piṅ. 4-1 [?]). In the Anukramaṇī: *agnim ekādaśa paruccheṣo daivodāsir āgneyaṃ tu pārucchepaṃ sarvam atyaṣṭaṃ tatrātidhṛtiḥ ṣaṣṭhīti*. The special application of the sūkta is *liṅga*-based: on the sixth day of the Daśarātra sacrifice, in the morning pressing, in the rite of the *prasthita-yājyā* mantras, it is the custom to recite a ṛk before each *yājyā* mantra; of these the first, *agniṃ hotāram*, is to be recited by the Agni-priest. This matter is explained in the Āśvalāyana Śrauta Sūtra, in the section *ṣaṣṭhasya prātaḥsavane*, in the sūtra *agniṃ hotāraṃ manye dāsvantaṃ dadharṣajña ha me januṣaṃ pūrvo aṅgirāḥ* (Āś. 8-1).
+
+### Printed p. 258  (PDF 279)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**सूक्त—१२७ — Sūkta 127**
+
+मण्डल—१ ‖ अनुवाक—१९ ‖ सूक्त—१२७ ‖ अष्टक—२ ‖ अध्याय—१ ‖ वर्ग—१३, १४ ‖ *(Varga numerals as read; the print shows "೧೩, ೧೪".)*
+
+Number of ṛks in this Sūkta — 11. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — Agni. Chandas — 1–10 Atyaṣṭi; 11 Atidhṛti (as printed: "ಛಂದಃ—೧-೧೦ ಅತ್ಯಷ್ಟಿ; ೧೧ ಅತಿಧೃತಿಃ" — read).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अग्निं होतारं मन्ये दास्वन्तं वसुं सूनुं सहसो जातवेदसं विप्रं न जातवेदसम् ।
+> य ऊर्ध्वया स्वध्वरो देवो देवाच्या कृपा । घृतस्य विभ्राष्टिमनु वष्टि शोचिषाजुह्वानस्य सर्पिषः ॥ १ ॥
+
+> *agniṃ hotāraṃ manye dāsvantaṃ vasuṃ sūnuṃ sahaso jātavedasaṃ vipraṃ na jātavedasam |*
+> *ya ūrdhvayā svadhvaro devo devācyā kṛpā | ghṛtasya vibhrāṣṭimanu vaṣṭi śociṣājuhvānasya sarpiṣaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> अग्निम् । होतारम् । मन्ये । दास्वन्तम् । वसुम् । सूनुम् । सहसः । जातऽवेदसम् ।
+> विप्रम् । न । जातऽवेदसम् ।
+> यः । ऊर्ध्वया । सुऽअध्वरः । देवः । देवाच्या । कृपा ।
+> घृतस्य । विऽभ्राष्टिम् । अनु । वष्टि । शोचिषा । आऽजुह्वानस्य । सर्पिषः ॥ १ ॥
+
+> *agnim | hotāram | manye | dāsvantam | vasum | sūnum | sahasaḥ | jāta 'vedasam |*
+> *vipram | na | jāta 'vedasam |*
+> *yaḥ | ūrdhvayā | su 'adhvaraḥ | devaḥ | devācyā | kṛpā |*
+> *ghṛtasya | vi 'bhrāṣṭim | anu | vaṣṭi | śociṣā | ā 'juhvānasya | sarpiṣaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अग्निं सर्वासां देवसेनानामग्रणीं यज्ञेष्वग्रं नीयमानं वा होतारमस्माद्यागं प्रति देवानामाह्वातारं । यद्वा । होमनिष्पादकं होतारम् । जुहोतेर्होतेत्यौर्णवाभ इति यास्कः । नि. ७-१५ । अग्निमद्य होतारमवृणीत [?] । तै. ब्रा. २-६-१५-१ [?] । इति श्रुतेः । अग्निमग्न आवहेति चाग्नेराह्वातृत्वं प्रसिद्धम् । अग्निं होतारं मन्ये । एवं प्रतिविशेषणं मन्य इति संबन्धः । यद्वा । यागनिष्पत्तेरेवापेक्षितत्वादेतदेव विधेयविशेषणम् । इतराणि पश्चाद्वक्ष्यमाणविशेषणानि स्तुतिपराणि । दास्वन्तमतिशयेन दानवन्तं वसुं सर्वेषां निवासहेतुं सहसः सूनुं बलस्य पुत्रम् । अग्निमन्थनकाले बलेन मथ्यमान उत्पद्यत इति पुत्रत्वमुपचर्यते । जातवेदसं जातानां वेदितारं जातप्रज्ञं जातबलं वा । जातवेदःशब्दो यास्केन बहुधा निरुक्तः । नि. ७-१९ । अग्नेर्जातवेदस्त्वे दृष्टान्तः । विप्रं न जातवेदसं जातविद्यं मेधाविनं ब्राह्मणमिव । तं यथा बहु मन्यन्ते तथा त्वामपि मन्ये । स्तौमीत्यर्थः । उक्तगुणविशिष्टो यो देवः स्वध्वरः शोभनयज्ञवान् यज्ञं सम्यङ्निर्वहन् ऊर्ध्वया उन्नतयोत्कृष्टया देवाच्या देवानञ्चन्त्या देवान्पूजयन्त्या वा कृपा कृपया सामर्थ्यलक्षणया [?] । देवानात्मनः कृपेति [?] यास्कः । नि. ६-८ [?] । तेभ्यो हविर्वहनबुद्ध्या युक्तः सन् आजुह्वानस्य समन्ताद्धूयमानस्य सर्पिषः सरणशीलस्य घृतस्य विलापनेन [?] दीप्तस्याज्यस्य विभ्राष्टिं विशेषेण भ्राजमानमनु स्वयमपि तदाज्यं शोचिषा ज्वालया वष्टि । कामयते । स्वीकरोतीत्यर्थः ॥
+
+> *agniṃ sarvāsāṃ devasenānāmagraṇīṃ yajñeṣvagraṃ nīyamānaṃ vā hotāramasmādyāgaṃ prati devānāmāhvātāraṃ | yadvā | homaniṣpādakaṃ hotāram | juhoterhotetyaurṇavābha iti yāskaḥ | ni. 7-15 | agnimadya hotāramavṛṇīta [?] | tai. brā. 2-6-15-1 [?] | iti śruteḥ | agnimagna āvaheti cāgnerāhvātṛtvaṃ prasiddham | agniṃ hotāraṃ manye | evaṃ prativiśeṣaṇaṃ manya iti saṃbandhaḥ | yadvā | yāganiṣpatterevāpekṣitatvādetadeva vidheyaviśeṣaṇam | itarāṇi paścādvakṣyamāṇaviśeṣaṇāni stutiparāṇi | dāsvantamatiśayena dānavantaṃ vasuṃ sarveṣāṃ nivāsahetuṃ sahasaḥ sūnuṃ balasya putram | agnimanthanakāle balena mathyamāna utpadyata iti putratvamupacaryate | jātavedasaṃ jātānāṃ veditāraṃ jātaprajñaṃ jātabalaṃ vā | jātavedaḥśabdo yāskena bahudhā niruktaḥ | ni. 7-19 | agnerjātavedastve dṛṣṭāntaḥ | vipraṃ na jātavedasaṃ jātavidyaṃ medhāvinaṃ brāhmaṇamiva | taṃ yathā bahu manyante tathā tvāmapi manye | staumītyarthaḥ | uktaguṇaviśiṣṭo yo devaḥ svadhvaraḥ śobhanayajñavān yajñaṃ samyaṅnirvahan ūrdhvayā unnatayotkṛṣṭayā devācyā devānañcantyā devānpūjayantyā vā kṛpā kṛpayā sāmarthyalakṣaṇayā [?] | devānātmanaḥ kṛpeti [?] yāskaḥ | ni. 6-8 [?] | tebhyo havirvahanabuddhyā yuktaḥ san ājuhvānasya samantāddhūyamānasya sarpiṣaḥ saraṇaśīlasya ghṛtasya vilāpanena [?] dīptasyājyasya vibhrāṣṭiṃ viśeṣeṇa bhrājamānamanu svayamapi tadājyaṃ śociṣā jvālayā vaṣṭi | kāmayate | svīkarotītyarthaḥ ‖*
+
+*(Read from the image; the words marked [?] are small or garbled in the print and the OCR; the Nirukta/Taittirīya Brāhmaṇa numerals are as read: Ni. 7-15, TB 2-6-15-1 [?], Ni. 7-19, Ni. 6-8 [?].)*
+
+### Printed p. 259  (PDF 280)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
+
+"[I think of] Agni — the leader of all the divine armies, or, in sacrifices, the one led first — the *hotṛ*, who calls the gods to this sacrifice; or else, the *hotṛ*, the performer of the oblation: '*juhoter hotety aurṇavābhaḥ*', says Yāska (Ni. 7-15). By the text 'he chose Agni today as *hotṛ*' [TB, as read], and *agnim agna āvaha* ('Agni, bring [the gods]'), the calling of the gods by Agni is well known. *Agniṃ hotāraṃ manye* — thus, *manye* ('I think') is connected with each epithet. Or else, since the performance of the sacrifice alone is desired, this alone is the predicate-epithet; the other epithets that follow are for praise. *Dāsvantam* — most generous; *vasum* — the cause of everyone's dwelling; *sahasaḥ sūnum* — the son of strength: at the time of the kindling by friction he is born, being churned with force; hence 'son' is figuratively said. *Jātavedasam* — the knower of what is born, one whose knowledge or strength is born; the word *jātavedas* has been explained in many ways by Yāska (Ni. 7-19). An illustration of *jātavedas*-ness: *vipraṃ na jātavedasam* — like a Brahmin, learned, intelligent, whom people hold in high esteem; so I too hold you: I praise [you]. The god endowed with the qualities stated — *svadhvaraḥ*, having a good sacrifice, well conducting the sacrifice — with *ūrdhvayā* — lofty, excellent — *devāc'yā*, that goes to the gods or worships the gods, *kṛpā* — with compassion, characterised by capacity: 'to the gods, one's own compassion' says Yāska (Ni. 6-8 [?]); endowed with the intent of carrying the oblation to them, *ājuhvānasya* — of the ghee being offered all round, *sarpiṣaḥ* — flowing, *ghṛtasya* — of the ghee that is melted and shining, *vibhrāṣṭim anu* — following specially its glow, he himself *vaṣṭi* — desires, accepts, the ghee with his flame."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Yaḥ devaḥ* — which god Agni; *svadhvaraḥ* — endowed with a sacrifice beautified by him (one who conducts the sacrifice well); *ūrdhvayā* — excellent; *devāc'yā* — worshipping the gods; *kṛpā* — with compassion (being endowed with the power of carrying the oblation); *ājuhvānasya* — of (the sacrificer) who is invoking; *sarpiṣaḥ* — liquid; *ghṛtasya* — of the ghee; *vibhrāṣṭim anu* — following the flame; *śociṣā* — with (his own) flame; *vaṣṭi* — accepts; *(taṃ* — that); *agnim* — Agni (the leader of all the gods); *hotāram* — the one who calls the gods to our sacrifice (and the priest who performs the oblation); *dāsvantam* — the generous; *vasum* — the cause of dwelling (for all); *sahasaḥ sūnum* — the son of strength (necessarily produced in the kindling); *jātavedasam* — the intelligent; *vipraṃ na* — like a Brahmin; *jātavedasam* — one who knows everything that has been born; *manye* — I know (I praise).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, who adorns (our) sacrifice, with excellent power that worships the gods (in the form of carrying the oblations), accepts, with his flames, the liquefied ghee offered by the sacrificer who invokes [the gods]; I know (I praise) such an Agni as the *hotṛ* who calls the gods to our sacrifice, as generous, as the cause of dwelling for all, and as omniscient like a wise Brahmin.
+
+### Printed p. 260  (PDF 281)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**Printed English (as printed):** *I venerate Agni, the invoker (of the gods), the munificent, the giver of dwellings, the son of strength : he who knows all that exists, like a sage who is endowed with knowledge : who, the divine regenerator of sacrifices, through his lofty and reverential devotion, covets for the gods the blaze of the liquefied butter which is offered in oblation with his flames.* *(Printed as such; "regenerator" and "sacrfices"/"sacrifices" are as the print has them.)*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 1.**
+
+***agniṃ*** — *sarvāsāṃ devasenānām agraṇyaṃ yajñeṣv agraṃ nīyamānaṃ vā*: The word *agni* is used in two senses. In the first sense, "one who is the foremost of the divine armies, the army of the gods"; in the second, "the one who is led first, in sacrifices, before all, being invoked". On this Yāska says —
+
+> अग्निः पृथिवीस्थानस्तं प्रथमं व्याख्यास्यामः । अग्रणीर्भवति । अग्रं यज्ञेषु प्रणीयते । अङ्गं नयति सन्नममानः ॥
+
+> *agniḥ pṛthivīsthānastaṃ prathamaṃ vyākhyāsyāmaḥ | agraṇīrbhavati | agraṃ yajñeṣu praṇīyate | aṅgaṃ nayati sannamamānaḥ ‖*
+
+(Ni. 7-14 [?], as printed "೭-೧೪".) Agni has three places. Agni's work is spread through the three places — atmosphere, heaven and earth. Among these, since he pervades most the place of the earth, beginning with the terrestrial Agni he first explains, and gives three derivations of the form of the word *agni*. For the first, *agraṇīr bhavati*, Durgācārya says: *sarveṣv artheṣu asāv ātmānam agraṃ nayati, sarvatra tathopakaroti yathā agraṃ sampadyate* [?] — "in all matters he leads himself in front; he helps everywhere in such a way that the foremost place is attained", [or:] he is the chief (principal) one in Vedic rites and in worldly acts. Therefore *agraṇīḥ*, or — since it is said *agnir vai devānāṃ senānīḥ*, "Agni is the general of the gods' army" — because Agni himself, going first, is first for leading the gods to the sacrifices and so on, he is *agraṇīḥ*; and because he makes eminence for those who serve him he is also *agraṇīḥ*: thus the meaning is explained by the derivation *agraṃ nayati iti agraṇīḥ*.
+
+Second: among the duties that must necessarily be done first in sacrifices, since no rite is done before the carrying forward (*praṇayana*) of Agni, [it is said] *yajñeṣu agraṃ praṇīyate* ("in sacrifices he is first led forward").
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 260 (PDF 281): Kannada introduction, Sanskrit bhūmikā, table, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; Ṛk 1 Special Topics (*agniṃ* — Nirukta etymology, second derivation) breaks off mid-sentence at the foot of p. 260; resume p. 261 (PDF 282). Page images PDF 261–360 are in scratchpad w10b/. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; Aitareya Brāhmaṇa passages pp. 252–256 small type [?]; Sūkta 126 Ṛk 5/7 bhāṣya.
