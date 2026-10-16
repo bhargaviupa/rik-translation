@@ -2772,6 +2772,8 @@ When the regions are not taken into account, Uṣas, rising of her own nature pe
 
 ***varuṇaḥ vṛṇotīti sataḥ*** (Ni. 10-5, as printed "೧೦-೫", the OCR reads "10-5") — "because he restrains the clouds, the Sun, remover of darkness, is called Varuṇa", and "he who illuminates the light of Varuṇa" is said; and further —
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 10-5
+
 ### Printed p. 107  (PDF 128)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 6".)*
@@ -2828,6 +2830,8 @@ When the regions are not taken into account, Uṣas, rising of her own nature pe
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 8; sūtra numbers as read by the reader's OCR).** *Sadṛśīḥ* — the root *dṛśir prekṣaṇe*; the suffix *kañ*; in the feminine, *ṭiḍḍhāṇañ…* (Pā. Sū. 4-1-15) the suffix *ṅīp*; when the plural follows, *supāṃ sulug…* (Pā. Sū. 7-1-39) the preceding vowel is lengthened. *Sacante* — the root *ṣaca secane sevane ca*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) the initial *s*; *laṭ*, 3rd plural; after an *atiṅanta* the *nighāta*. *Anavadyāḥ* — *na vidyate avadyaṃ yāsāṃ tāḥ anavadyāḥ*; *nañsubhyām* (Pā. Sū. 6-2-172) the accent of the end of the latter member. *Ekaikā* — *kriyāsamabhihāre sarvanāmno dve bhavataḥ* [as printed]: when repetition of action is shown, doubling; *tasya parām āmreḍitam* (Pā. Sū. 8-1-2) the second member gets the name *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-3) it is unaccented.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-13; 2-28; 4-1-15; 7-1-39; 6-1-64; 6-2-172; 8-1-2; 8-1-3
+
 ### Printed p. 109  (PDF 130)
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 6".)* **Grammar page, concluded (Ṛk 8).** *Yanti* — the root *iṇ gatau*; *adādi*; *laṭ*, 3rd plural, the suffix *jhi*; *jhoṃtaḥ* the *ant*-substitute; *iṇo yaṇ* (Pā. Sū. 6-4-81) *yaṇ* for the *i* of the root; after an *atiṅanta* the *nighāta*. ‖ 8 ‖
@@ -2860,6 +2864,8 @@ When the regions are not taken into account, Uṣas, rising of her own nature pe
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Ṛtasya* — of the true Āditya (of the sacrifice); *dhāma* — the brilliant place (the region); *yoṣā* — having joined (Uṣas); *na mināti* — does not defeat (the Āditya's brilliance); (*api tu* — but); *aharahaḥ* — every day; *niṣkṛtam ācarantī* — giving the beauty that is an ornament (making the ornament of manifest oblations and the like); *(uṣāḥ* — the deity Uṣas); *ahnaḥ* — of the day; *prathamasya* — of the first part; *nāma* — the coming; *jānatī* — knowing (making the world know); *śukrā* — self-shining (and therefore); *śvitīcī* — possessed of whiteness; *kṛṣṇāt* — from black darkness; *ajaniṣṭa* — came into being.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-4-81
+
 ### Printed p. 110  (PDF 131)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 123".)* **॥ भावार्थः ॥ — Bhāvārtha.** Uṣas, though she joins the place of Āditya (and enters the sacrificial hall), does not diminish his radiance (nor does she cause the sacrifice delay); every day she gives Āditya (and the sacrificial hall) the beauty that is an ornament (an ornament in the form of the manifestation of oblations and the like), makes the world know the first part of the day, and being of herself shining, white, she is born from the black (from the darkness).
@@ -2877,6 +2883,8 @@ When the regions are not taken into account, Uṣas, rising of her own nature pe
 The word *ṛta* is recorded among the synonyms of water (Ni. 2-14, as read by the OCR on p. 110);
  it is also recorded among the synonyms of *udaka* (water) — thus stated (as printed on p. 111: "ಋತಶಬ್ದವು ಉದಕ(ಸೂರ್ಯಯ)ನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೧೪) ಪಠಿತವಾಗಿದೆ"). In the Nirukta (4-19, as read by the OCR) he explains *satyaṃ vā yajñaṃ vā* — "truth or sacrifice" — so, following the meaning "truth", the first meaning has been explained.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-14
+
 ### Printed p. 111  (PDF 132)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 123"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 5.)*
@@ -2884,6 +2892,8 @@ The word *ṛta* is recorded among the synonyms of water (Ni. 2-14, as read by t
 The second meaning: taking the meaning of the word *ṛta* as the sacrificial place in which oblations are offered to the deities — *devayajanākhyaṃ sthānaṃ yoṣā miśraṇaśīlā satī na mināti na hinasti*: Uṣas, mingling with the sacrificial ground, does not harm it; rather *aharahaḥ sarveṣu yāgadivaseṣu niṣkṛtaṃ havirādīnāṃ prakāśanarūpam alaṅkāram ācarantī kurvatī ajaniṣṭa*: on every day of sacrifice she makes the ornament consisting of the manifestation of the oblations and the like, and is born. That is: Uṣas, shedding her light in the sacrificial times of the various sacrifice-days that go on day after day, and making the various oblations manifest, brings the sacrifice to completion — thus the rising of Uṣas is described here.
 
 **Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers as read by the OCR where the page image is not clear).** Words treated: *jānatī* — from the root *jñā avabodhane* (Kryādi class); śatṛ in the sense of laṭ; *kryādibhyaḥ śnā* (Pā. 3-1-81) gives the *śnā* augment; *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the ā; *jñā janor jā* (Pā. 7-3-79) gives the substitute *jā*; in the feminine, *ugitaś ca* (Pā. 4-1-6) gives ṅīp; the śatṛ without *num* — *śatur anumo nadyajādī* (Pā. 6-1-173) — gives the acute accent on the ending. *kṛṣṇāt* — root *kṛṣ vilekhane*; *kṛṣer varṇe* [?] (Uṇ. 3-284 as read by the OCR) gives the suffix *nak*; as it has the indicatory *k* there is no guṇa; the suffix *n* becomes *ṇ* after the *ṣ*; the suffix-accent makes the word final-acute (ablative singular form). *ajaniṣṭa* — root *janī prādurbhāve*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 [?] — the OCR reads "3-3-6", the print is not clear to me) gives the present sense in the Veda, with luṅ; the third person singular *ta*; *siC* substitute; the *iṭ* augment by the rule on ārdhadhātuka; *ṣṭutva* of the *t* of the ending after the *ṣ*; the augment *aṭ* to the stem; since it follows a verb-ending that is not at the head, the *nighāta* accent. *śvitīcī* — root *añcu gatipūjanayoḥ*; the word *śvitam añcati iti śvitīcī*; *ṛtvik dadhṛk…* (Pā. 3-2-59 [?]; OCR "3-2-51") gives *kvin* when the *subanta śviti* stands as the upapada; by *aniditāṃ hala upadhāyāḥ kṅiti* the nasal of the root is elided; in the feminine, because of the *ug*-marker, ṅīp; by *ac* … (*aco* [?] Pā. 6-4-138, as read by the OCR) the stem having the *bha* designation loses the ā of the root…
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 4-19; 3-1-81; 6-4-112; 7-3-79; 4-16; 6-1-173; 3-284; 3-3-6; 3-2-51; 6-4-138
 
 ### Printed p. 112  (PDF 133)
 
@@ -2909,6 +2919,8 @@ The second meaning: taking the meaning of the word *ṛta* as the sacrificial pl
 > *kanyeva tanvā śāśadānā eṣi devi devamiyakṣamāṇam |*
 > *saṃsmayamānā yuvatiḥ purastādāvirvakṣāṃsi kṛṇuṣe vibhātī ‖ 10 ‖*
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 6-3-138; 6-1-161; 3-1-81; 7-3-81; 8-1-4; 8-1-3; 6-2-147; 4-1-6; 7-181; 6-1-186
+
 ### Printed p. 113  (PDF 134)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 5.)*
@@ -2933,6 +2945,8 @@ The second meaning: taking the meaning of the word *ṛta* as the sacrificial pl
 
 ---
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 4-15
+
 ### Printed p. 114  (PDF 135)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
@@ -2950,6 +2964,8 @@ In this ṛk Uṣas is compared to a woman who first has the state of a maiden (
 ***Yāska*** — *kanyā kamanīyā bhavati | kaineyaṃ netavyeti vā | kamanenānīyata iti vā kanater vā syāt kāntikarmaṇaḥ* (Ni. 4-15, as printed "೪-೧೫"; the OCR agrees): the word *kanyā* is used with beauty as its cause. *Iyam* — this girl; either "*kai netavyā*": where is she to be led, [i.e. to join]; or *kamanena* — by the quality that attracts others she is led — she is taken along; or, from the root *kan* with the sense of "beautiful, shining", the word *kanyā* is derived. Following this, Sāyaṇa explains *kamanīyā* as "lovely with the beauty of the body".
 
 ***śāśadānaḥ*** — *śāśadyamānaḥ* (Ni. 6-16, as printed "೬-೧೬"): since Yāska has so explained it, the sense is "possessing the manner of being perceived by everyone".
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 4-15; 6-16
 
 ### Printed p. 115  (PDF 136)
 
@@ -2983,9 +2999,13 @@ In this ṛk the word *vakṣaḥ* is explained as *rūpāṇi* ("forms"). Sāya
 
 *purastāt* — *pūrvādharāvarāṇāṃ purdhavaś caiṣām* (Pā. 5-3-39) gives the suffix *astāti*; for *pūrva*, *pur* is substituted; the suffix has the acute on its first syllable.
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 8-2-4; 3-1-22
+
 ### Printed p. 116  (PDF 137)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123". Grammar page: the remainder of the notes on śāśadānā, then eṣi, iyakṣamāṇam, saṃsmayamānā, yuvatiḥ, purastāt — given together above with p. 115.)*
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-4-117; 6-4-49; 6-4-49; 6-4-83; 6-1-189; 3-1-7; 7-2-82; 6-1189; 6-1-186; 4-1-77; 5-3-39
 
 ### Printed p. 117  (PDF 138)
 
@@ -3019,6 +3039,8 @@ In this ṛk the word *vakṣaḥ* is explained as *rūpāṇi* ("forms"). Sāya
 
 *(Read from the image and compared with the OCR; the OCR's Devanagari is badly garbled in the middle ("tanvaṃ", "śiśiraṃ jīvanāya kamivat" are read from the image). A few words in the middle of the passage are small and doubtful, e.g. "mitākṣareṣv anarthakāḥ kam īm id u", and the numeral of the Nirukta reference, which I read as "1-9" ("೧-೯"; the OCR "१-९").)* "O goddess Uṣas, *mātṛmṛṣṭā* — purified by her mothers, the mothers who bore her — like a young woman (*yoṣā iva*), *susaṃkāśā* — shining exceedingly: you make your own body (*tanvam*) manifest for all to see (*dṛśe*). As in the world a woman well adorned by her mother and others, being exceedingly beautiful, reveals her whole body, full of loveliness, to be seen — so you: that is the sense. Here the word *kam* is merely a pāda-filler, since no special meaning is found — like *kam* in *śiśiraṃ jīvanāya kam*. And Yāska says: 'In the metres of limited syllables, [the particles] *kam, īm, id, u* are without meaning' (Ni. 1-9). Or else *kam* means 'happiness': you make [your body] manifest so that there is happiness. O Uṣas, since you do thus, therefore, auspicious and praiseworthy, *vitaraṃ vi uccha* — dispel (*vivāsaya*) the darkness that covers, so that it goes far. Although it is not stated here what is to be dispelled, it is understood to be darkness itself, since it is removed by light and must be got rid of. Moreover, this dispelling of yours — other dawns, past and future, *na naśanta* — do not reach it (do not pervade it); so *vi uccha*: that is the sense. The root *naś* has the sense of pervading, since it is read among the verbs of pervading: *innati, nakṣati*."
 
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-1-80; 1-9
+
 ### Printed p. 118  (PDF 139)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
@@ -3034,6 +3056,8 @@ In this ṛk the word *vakṣaḥ* is explained as *rūpāṇi* ("forms"). Sāya
 ***mātṛmṛṣṭā yoṣā iva susaṃkāśā*** — *mātṛbhiḥ jananībhiḥ śuddhīkṛtā yoṣā iva atyantaṃ prakāśamānā. yathā loke mātrādinā svalaṅkṛtā atyantaṃ śobhanā satī svakīyaṃ lāvaṇyopetaṃ sarvaśarīraṃ darśanāyāviṣkaroti tadvat tvam ity arthaḥ.* A woman who has been prepared (or adorned) by her mother and other intimate women, a loving woman, being very beautiful, shows to others her body, full of loveliness, so that it comes within the sight of her beloved; so Uṣas too shows her form in front of the Sun — thus it is described.
 
 Yāska explains the word *yoṣā*: it is derived from the root *yu miśraṇe*, "*yoṣā yauteḥ*" (Ni. 3-15, as read by the OCR; the print "೩-೧೫"). The commentator (*vṛttikāra*) explains: *sā hi miśrayaty ātmānaṃ puruṣeṇa sākam* — a woman unites with a man in order to have union of bodies with him.
+
+*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-15
 
 ### Printed p. 119  (PDF 140)
 
