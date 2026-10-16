@@ -11462,4 +11462,138 @@ Here ends the 130th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 ---
 
-**Progress note:** Sūkta 130 complete (printed pp. 417–466). Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) begun: heading and Sanskrit/Kannada introduction at the foot of p. 466 done (Sanskrit small type partly illegible, marked [?]); resume p. 467 (PDF 488) with the Sūkta table and Ṛk 1. Workflow from here: no numeral tool and no OCR reference lines (user's decision to save tokens); read cropped page images directly with the digit key; doubtful numerals marked [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad); crop 541+ when needed. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists; Ṛk 9 bhāṣya p. 457 and Ṛk 9 Special Topics pp. 459–461 in 130); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 467  (PDF 488)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read: "೨೦"].)*
+
+*(The Kannada anuvāda of the introduction, continued from p. 466: at the midday pressing this Sūkta is made into three *tṛcas* (groups of three ṛks) and recited, and the *stomāvāpa* is done after them; the division is: the first three ṛks for the Maitrāvaruṇa priest, the next three for the Brāhmaṇācchaṃsin, and the last for the Acchāvāka — as stated in the Āśvalāyana Śrauta-sūtra, in the section *caturthe 'hani*, by the sūtra *ṣaṣṭhe 'hani indrāya hi dyaur asuro anamnata* (Āś. 8-11 [?], as read). On the same day, at the same pressing, the six ṛks of this Sūkta are recited one by one by the Praśāstṛ and others as preliminary to the *prasthitayājyā* mantras, by the sūtra *indrāya hi dyaur asuro anamnateti ṣaṭ* in the section *ṣaṣṭhasya* (Āś. 8-1 [?]). In the *mahāvrata*, at the *niṣkevalya śastra*, the three ṛks beginning *indrāya hi* are recited as alternative *anurūpa* ṛks, by Śaunaka's Aitareya Āraṇyaka sūtra *indraṃ yāhy upa naḥ parāvata indrāya hi dyaur asuro anamnata* (Ait. Ār. 5-1-1 [?]).)*
+
+**ಸೂಕ್ತ—೧೩೧ — Sūkta 131.** *Maṇḍala 1 ‖ Anuvāka 19 ‖ Sūkta 131 ‖ Aṣṭaka 2 ‖ Adhyāya 1 ‖ Varga 20 ‖ Number of ṛks in the Sūkta: 7 ‖ Ṛṣi: Paruccheṣa Daivodāsi ‖ Devatā: Indra ‖ Chandas: Atyaṣṭi.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> इन्द्राय हि द्यौरसुरो अनम्नतेन्द्राय मही पृथिवी वरीमभिः ।
+> द्युम्नसाता वरीमभिः ।
+> इन्द्रं विश्वे सजोषसो देवासो दधिरे पुरः ।
+> इन्द्राय विश्वा सवनानि मानुषा रातानि सन्तु मानुषा ॥ १ ॥
+
+> *indrāya hi dyaurasuro anamnatendrāya mahī pṛthivī varīmabhiḥ |*
+> *dyumnasātā varīmabhiḥ |*
+> *indraṃ viśve sajoṣaso devāso dadhire puraḥ |*
+> *indrāya viśvā savanāni mānuṣā rātāni santu mānuṣā ‖ 1 ‖*
+
+### Printed p. 468  (PDF 489)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+**॥ पदपाठः ॥**
+
+> इन्द्राय । हि । द्यौः । असुरः । अनम्नत । इन्द्राय । मही । पृथिवी । वरीमऽभिः ।
+> द्युम्नऽसाता । वरीमऽभिः ।
+> इन्द्रम् । विश्वे । सऽजोषसः । देवासः । दधिरे । पुरः ।
+> इन्द्राय । विश्वा । सवनानि । मानुषा । रातानि । सन्तु । मानुषा ॥ १ ॥
+
+> *indrāya | hi | dyauḥ | asuraḥ | anamnata | indrāya | mahī | pṛthivī | varīma 'bhiḥ |*
+> *dyumna 'sātā | varīma 'bhiḥ |*
+> *indram | viśve | sa 'joṣasaḥ | devāsaḥ | dadhire | puraḥ |*
+> *indrāya | viśvā | savanāni | mānuṣā | rātāni | santu | mānuṣā ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few places doubtful: [?]).*
+
+> द्यौर्द्योतनशीलो द्युलोकस्तन्निवासी देवसंघो वा स चासुरो निरसनशीलः शत्रूणां पुण्यकृतामेव तन्निवासात् । इन्द्रायै हीन्द्रायैवानम्नत । स्वयमेव प्रह्वीभवति ॥ नमेश्छान्दसे लुङ् [?] कर्मकर्तर्यात्मनेपदम् । न दुहस्नुनमामिति यगभावः । पा. ३-१-८९ ॥ छान्दसः शपः श्लुः । हलादिशेषाभावश्च । अनुनासिकलोपः ॥ हिशब्दः प्रसिद्ध्यर्थो वा । तथेन्द्रायेन्द्रार्थं मही महती पृथिवी भूमिस्तत्रत्यः सर्वो जनो वानम्नत । उभयत्राश्रयवाचिशब्देनाश्रया लक्ष्यन्ते ग्राम आगत इतिवत् । केन साधनेनेति तदुच्यते । वरीमभिर्वरणीयैः स्तोत्रैर्हविर्भिर्वा । किंच द्युम्नसाता द्युम्नसातावन्नस्य यशसो वा लाभे सति वरीमभिर्वरणीयैर्हविर्भिर्युक्ता यजमानाः प्रह्वा भवन्ति । किंचेन्द्रमेव विश्वे सर्वे देवासो देवाः सजोषसः समानप्रीतियुक्ता ऐकमत्यभाजः पूर्वमसुरजयार्थं पुरो दधिरे । पुरतः स्थापितवन्तः । इन्द्रमुखेनैवासुराञ्जितवन्त इत्यर्थः । तथा मानुषा सवनानि मनुष्याणां सम्बन्धीन्यभिषवयुक्तानि प्रातरादिसवनानीन्द्रायैव सन्तु । इन्द्रायैव भवन्तु । तथा मानुषा मनुष्याणामृत्विजां सम्बन्धीनि रातानि दातव्यानि पुरोडाशादीनीन्द्रायैव सन्तु । इन्द्रं प्रीणयितुं समर्थानि भवन्तित्यर्थः ॥
+
+> *dyaurdyotanaśīlo dyulokastannivāsī devasaṃgho vā sa cāsuro nirasanaśīlaḥ śatrūṇāṃ puṇyakṛtāmeva tannivāsāt | indrāyai hīndrāyaivānamnata | svayameva prahvībhavati ‖ nameśchāndase luṅ [?] karmakartaryātmanepadam | na duhasnunamāmiti yagabhāvaḥ | pā. 3-1-89 ‖ chāndasaḥ śapaḥ śluḥ | halādiśeṣābhāvaśca | anunāsikalopaḥ ‖ hiśabdaḥ prasiddhyartho vā | tathendrāyendrārthaṃ mahī mahatī pṛthivī bhūmistatratyaḥ sarvo jano vānamnata | ubhayatrāśrayavāciśabdenāśrayā lakṣyante grāma āgata itivat | kena sādhaneneti taducyate | varīmabhirvaraṇīyaiḥ stotrairhavirbhirvā | kiṃca dyumnasātā dyumnasātāvannasya yaśaso vā lābhe sati varīmabhirvaraṇīyairhavirbhiryuktā yajamānāḥ prahvā bhavanti | kiṃcendrameva viśve sarve devāso devāḥ sajoṣasaḥ samānaprītiyuktā aikamatyabhājaḥ pūrvamasurajayārthaṃ puro dadhire | purataḥ sthāpitavantaḥ | indramukhenaivāsurāñjitavanta ityarthaḥ | tathā mānuṣā savanāni manuṣyāṇāṃ sambandhīnyabhiṣavayuktāni prātarādisavanānīndrāyaiva santu | indrāyaiva bhavantu | tathā mānuṣā manuṣyāṇāmṛtvijāṃ sambandhīni rātāni dātavyāni puroḍāśādīnīndrāyaiva santu | indraṃ prīṇayituṃ samarthāni bhavantityarthaḥ ‖*
+
+*(Sense: "Heaven (*dyauḥ*, the shining heaven-world, or the host of gods who dwell there) and the *asura* (the repeller of enemies, because the dwellers there are the righteous) bows (*anamnata*) to Indra alone, of its own accord. [Grammar: the Vedic *luṅ* of *nam*, the ātmanepada in the intransitive sense; *na duhasnunamām yag abhāvaḥ* (Pā. 3-1-89 [?]); *śluḥ* for *śap*; no *halādiśeṣa*; loss of the nasal.] *hi* is for emphasis. So for Indra the great earth (*mahī pṛthivī*) — or all people dwelling on it — bows; the words naming the support stand for the supported, as in 'the village has come'. By what means? *varīmabhiḥ* — by choice praises or oblations. And when there is *dyumnasātā* — winning food or fame — the sacrificers, furnished with choice oblations, bow. And all the gods (*viśve devāsaḥ*), united in affection (*sajoṣasaḥ*), of one mind, formerly put Indra in front (*puro dadhire*) to conquer the demons: they conquered the demons through Indra. Likewise may the human pressings (*mānuṣā savanāni*), the morning and other pressings, be for Indra alone; and the offerings to be given by the human priests, the *puroḍāśa* and the rest, be for Indra, able to please him.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *asuraḥ* — the repeller of enemies (that gives no room for enemies); *dyauḥ* — the heaven-world; *indrāya hi* — to Indra only; *anamnata* — bows [becomes submissive]; *indrāya* — to Indra; *mahī* — the great; *pṛthivī* — the earth (the people on it); *varīmabhiḥ* — by praises (oblations); *anamnata* — bow; *dyumnasātā* — for food or the winning of fame; *varīmabhiḥ* — with oblations; *(anamnata* — they bow); *viśve devāsaḥ* — all the gods; *sajoṣasaḥ* — with equal affection (in unity, for conquering the demons); *puraḥ dadhire* — placed in front (made Indra the leader and conquered the demons by him); *mānuṣā* — belonging to men; *viśvā savanāni* — all pressings (connected with extraction, the morning and others); *indrāya santu* — be for Indra; *mānuṣā* — belonging to men (the priests); *rātāni* — offerings to be given (the *puroḍāśa* and the rest); *(indrāya santu* — be for Indra).
+
+### Printed p. 469  (PDF 490)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The heaven-world, that gives no room to the wicked, is subject to Indra alone; with offerings that have no equal this great earth is submissive to Indra; for food or fame, the sacrificers worship Indra; the gods, united in affection (in agreement, for conquering the demons), gave Indra the first place; may the pressings of men be for Indra; may the *puroḍāśa* and other offerings made by men be for Indra.
+
+**Printed English (heading "English Translation"; as printed):** *"To Indra heaven, that excludes the wicked, verily has bowed: to Indra the wide-spread earth (has offered homage) with acceptable (praises); with acceptable praises (the worshipper has propitiated Indra) for the sake of food: all the gods well pleased have given precedence to Indra: let all the sacrifices of men (be appropriated) to Indra; let all the offerings of men be (presented to him)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 1).**
+
+***dyauḥ*** — *dyotanaśīlaḥ dyulokaḥ tannivāsī devasaṅgho vā*: "the shining heaven-world, or the company of gods who dwell there." The word *dyauḥ* is recorded among the twelve names of day (*vastoḥ, dyauḥ, bhānuḥ* etc.; Ni. 1-[?]; as read "೧-೨೦" [?]). And —
+
+> त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
+> त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥
+
+> *tvam agne dyubhis tvam āśuśukṣaṇis tvam adbhyas tvam aśmanas pari |*
+> *tvaṃ vanebhyas tvam oṣadhībhyas tvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ‖*
+
+(Ṛ. Saṃ. 2-1-1, as read "೨-೧-೧"; the same Ṛk was cited on p. 430.) Here *dyubhiḥ* is explained as *ahobhiḥ* ("by days").
+
+### Printed p. 470  (PDF 491)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+> उप श्वासय पृथिवीमुत द्यां पुरुत्रा ते मनुतां विष्ठितं जगत् ।
+> स दुन्दुभे सजूरिन्द्रेण देवैर्दूराद्दवीयो अप सेध शत्रून् ॥
+
+> *upa śvāsaya pṛthivīm uta dyāṃ purutrā te manutāṃ viṣṭhitaṃ jagat |*
+> *sa dundubhe sajūr indreṇa devair dūrād davīyo apa sedha śatrūn ‖*
+
+(Ṛ. Saṃ. 6-47-29, as read "೬-೪೭-೨೯".) In this Ṛk *dyām* is explained as *divam*. Sāyaṇa explains *dyauḥ* as "the heaven-world", very bright, or as "the company of the gods who live in the heaven-world".
+
+***asuraḥ indrāya hi anamnata*** — *śatrūṇāṃ nirasanaśīlaḥ indrāyaiva svayam eva prahvo bhavati*: the word *asura* is recorded among the names of cloud (Ni. 2-[?]; as read "೨-೩೧"). The Niruktakāra —
+
+> तदिद्ध्यस्य वाचः प्रथमं मसीयं येनासुरां अभि देवा असाम ।
+> ऊर्जादः उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम् ॥
+
+> *tad id dhy asya vācaḥ prathamaṃ masīyaṃ yenāsurām̐ abhi devā asāma |*
+> *ūrjādaḥ uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ‖*
+
+(Ṛ. Saṃ. 10-53-4, as read "೧೦-೫೩-೪".) — citing this Ṛk, explains *asurāḥ asuratāḥ sthāneṣu sthāneṣu* [?] — "the *asuras* are so called because (*asu* = breath) or because they are 'not set' (*a-sthita*)": "*asuḥ prāṇaḥ tena tadvantaḥ*", and by *so 'deva*… *sa devān asṛjata tat surāṇāṃ suratvam*: "he created the gods; that is the god-hood of the gods; *asor asurān asṛjata tad asurāṇām asuratvam*": so it is known (Ni. 3-[?]). Durgācārya says, "one who stands in one place, firm, as persons of fickle mind who flee to other places, are gods or ... ; because they stand firmly (*asthitāḥ*) they are asuras"; or, as stated in the Śruti "*ūrdhvam udait pūrvapakṣaḥ … tena sa devān asṛjata tat surāṇāṃ suratvam*": "Brahmā, by his excellent self, created gods; therefore they are *suras*"; "*arvāñjyotir … aparapakṣaḥ … tenāsurān asṛjata*": "the later half [of the day] has the name *asu*, hence he created the asuras": so he explains (see Ṛg-Saṃhitā vol. 10, pp. 8–9 in this edition).
+
+Sāyaṇa explains *asura* as "one who is cast out by the company of the gods", and so as "one who is not suited to dwell in the heaven-world, where only the righteous have a place"; thus he points out the greatness of Indra, to whom the great heaven-world is itself subservient.
+
+***indrāya mahī pṛthivī anamnata*** — *indrārthaṃ mahatī pṛthivī tatratyaḥ sarvo jano vā anamnata | ubhayatrāśrayavācī śabdenāśrayā lakṣyate | grāmaḥ āgata itivat*: "heaven and the earth, the dwelling-places of the gods and of men, are named by the words *dyauḥ* and *pṛthivī*; here the dwellers are meant by these words."
+
+### Printed p. 471  (PDF 492)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 20 [as read].)*
+
+(…) As one says, "the village has come" — when what comes is the people of the village; so here the people living on the earth are meant by the word "earth". The gods too are subject to Indra; the people on the earth also are submissive to Indra of their own accord; and the earth is subject to Indra in every way.
+
+***varīmabhiḥ dyumnasātā varīmabhiḥ*** — *stotraiḥ havirbhir vā annasya yaśaso vā lābhe sati havirbhir yuktāḥ yajamānāḥ prahvā bhavanti*: "the sacrificers, who are fit to propitiate the god they desire, by praises or by oblations bow down again to the gods, to offer oblations, because they have obtained food and fame." The words *varīmabhiḥ* are used twice; in the one the meaning is *varaṇīya*, "to be chosen"; in the second *varaṇīyair havirbhiḥ*, "with oblations that are choice".
+
+The word *dyumna* is recorded among the names of wealth (Ni. 2-[?]; as read "೨-೯") and in *dyumnam adhiraṣmaṃ ca dhehi* [as read] *dyumnaṃ dyoter yaśo vā annaṃ vā* (Ni. 5-[?]; as read "೫-೬") the word is explained: *dyumna* from the root *dyut* gives the many senses "fame" or "food", as Yāska says.
+
+***sajoṣasaḥ puro dadhire*** — *samānaprītiyuktā aikamatyabhājaḥ*: "gods, united in affection for each other, in agreement, to conquer the demons, made Indra their leader and by him obtained victory". The word *sajoṣas* is explained in the Nirukta as "joined" (Ni. 8-[?]; as read "೮-೮"). —
+
+> आजुह्वान ईड्यो वन्द्यश्चा याह्यग्ने वसुभिः सजोषाः ।
+> त्वं देवानामसि यह्व होता स एनान्यक्षीषितो यजीयान् ॥
+
+> *ājuhvāna īḍyo vandyaś cā yāhy agne vasubhiḥ sajoṣāḥ |*
+> *tvaṃ devānām asi yahva hotā sa enān yakṣīṣito yajīyān ‖*
+
+(Ṛ. Saṃ. 10-110-[?], as read "೧೦-೧೧೦-೩".) Here *sajoṣāḥ* is explained as *saha joṣaṇaḥ samānaprītiyuktaḥ*. And —
+
+> आ रुद्रासः इन्द्रवन्तः सजोषसो हिरण्यरथाः सुविताय गन्तन ।
+> इयं वो अस्मत्प्रति हर्यते मतिस्तृणाजे [?] न दिव उत्सा उदन्यवे ॥
+
+> *ā rudrāsa indravantaḥ sajoṣaso hiraṇyarathāḥ suvitāya gantana |*
+> *iyaṃ vo asmat prati haryate matis tṛṇāje [?] na diva utsā udanyave ‖*
+
+(Ṛ. Saṃ. 5-3-[?] as read "೫-೩-೧-೧"? [?]; small type, doubtful.) Here, *indreṇa saha joṣaṇāḥ sajoṣasaḥ*, "served together with Indra in the greatness of lordship": as the reading in small type is unclear, the explanation is given only as read.
+
+### Printed p. 472  (PDF 493)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 131".)*
+
+***mānuṣā savanāni indrāya santu*** — "May the pressings (extracting the Soma-juice), by which men bring the Soma and grind it and prepare the morning libation, be for Indra."
+
+***mānuṣā rātāni*** — "The mantra-seer prays, in a fit of inspiration, that the *puroḍāśa* and other offerings made by the priests may be able to please Indra alone."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly; numbers as printed).** *asuraḥ* — root *asu kṣepaṇe*; *āser uraN* (Uṇ. 1-[?]) gives *uran*; *jñityādir nityam* gives the acute on the first syllable. *anamnata* — root *ṇamu prahvatve śabde ca*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives *laṅ* in the present sense; since the agent of the middle-sense is intended, *karmavat karmaṇā tulyakriyaḥ* (Pā. 3-1-87) gives the ātmanepada; third person singular *ta*; *namatiśapo…* [as read: *na duhasnunamāṃ yag* …] — no *yak*; *śluḥ* in place of *śap*; the root is doubled; no *halādiśeṣa* in the reduplicative; *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. 6-4-37) drops the nasal; the augment *aṭ*; because *hi* is connected, *hi ca* (Pā. 8-1-34) forbids *nighāta*; the augment being acute, the first syllable is acute. *pṛthivī* — root *pratha prakhyāne*; *pratheḥ ṣivan saṃprasāraṇaṃ ca* (Uṇ. 1-[?]) gives *ṣivan*; in the feminine *ṣidgaurādibhyaś ca* (Pā. 4-1-41) gives *ṅīṣ*; acute on the last syllable by the suffix. *varīmabhiḥ* — root *vṛñ varaṇe*; Uṇādi *īman* with *ninc*; guṇa of the root by the suffix with *raparatva*; since *n*-marked the acute on the first syllable. *dadhire* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* third person plural; *tiṅ-nighāta*. *savanāni* — root *ṣuñ abhiṣave*; *lyuṭ*; *yuvor anākau* gives *ana*; *liti* gives the acute before the suffix.
+
+---
+
+**Progress note:** Sūkta 131 (*indrāya hi dyaur asuro*, 7 ṛks, Paruccheṣa, Indra, Atyaṣṭi; Anuvāka 19, fifth Sūkta; printed pp. 466–500) through printed p. 472 (PDF 493): Ṛk 1 complete except the end of its grammar page (entries to *savanāni* written; remaining entries and ‖ 1 ‖ on p. 473); resume p. 473 (PDF 494), then Ṛk 2. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129, 130 (see earlier lists) and 131 (introduction p. 466; Ṛk 1 bhāṣya p. 468 and the Nirukta/Durga/Śruti quotations pp. 470–471; slip in the Ṛk 1 Saṃhitā line 1 "anamnatendrāya" is as printed); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
