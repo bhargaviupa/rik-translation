@@ -10538,4 +10538,114 @@ In the matter of Indra's coming to the sacrificial hall, the sentence *astaṃ r
 
 ---
 
-**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 421 (PDF 442): Ṛk 1 written through the Special Topics and the start of its grammar page (entries *yāhi*, *āyam*, *accha*, *satpatiḥ* begun — the *satpatiḥ* entry breaks off); resume p. 422 (PDF 443) with the rest of the Ṛk 1 grammar (‖ 1 ‖) and Ṛk 2. Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, in Sūkta 129 (see earlier list; slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 are written under p. 414 though the print runs on to p. 415) and in Sūkta 130 Ṛk 1 bhāṣya (p. 418); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
+### Printed p. 422  (PDF 443)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+*(Grammar of Ṛk 1, continued; numbers as printed.)* *satpatiḥ* (cont.) — *patyāvaiśvaryeṇe* (Pā. 6-2-18) gives the accent of the first member. *vidathāni* — root *vida jñāne*; *rudhivididhyām…* [as read: *ruditviditam*…; Uṇ. 3-[?]] gives the suffix *athac*; since *j*-marked, no guṇa of the penult; acute on the first syllable of the suffix. *havāmahe* — root *hveñ spardhāyāṃ śabde ca*; *laṭ* first person plural; because at the beginning of the *pāda*, no *nighāta*; *tāsyanudāttenṅidvidāder…* (Pā. 6-1-186): the *lasārvadhātuka* is unaccented, so the root's accent remains. *prayasvantaḥ* — *prayaḥ yeṣām asti iti prayasvantaḥ*; suffix *matup*; since *p*-marked it is unaccented. *sute* — root *ṣuñ abhiṣave*; *kta* in the passive by *niṣṭhā*; acute on the last syllable by the suffix's accent; locative singular. *putrāsaḥ* — root *pūñ savane*; *puvaḥ ṣaṣṭhaḥ…* [as read: *puvo hrasvaś ca*, Uṇ. 4-[?]] gives *kran* [as read: *tran*]; the root is shortened; since *k*-marked no guṇa; with *jas* following, *ājjaser asuk* (Pā. 7-1-50) gives the augment *asuk*. *vājasātaye* — root *ṣaṇa sambhaktau*; *ūtiyūtijūti…* (Pā. 3-3-97) gives *ktic* by irregular formation; a *bahuvrīhi* [as printed]; the accent of the first member; dative singular. *maṃhiṣṭham* — *atiśayena maṃhitā maṃhiṣṭhaḥ*; *tuścchandasi* (Pā. 5-3-59) gives, when excess is meant, *iṣṭhan* after the *tṛc* ending; with it following, *turiṣṭhemeyaḥsu* (Pā. 6-4-154) drops *tṛc*; since *n*-marked the acute on the first syllable. ‖ 1 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> पिबा सोममिन्द्र सुवानमद्रिभिः कोशेन सिक्तमवतं न वंसगस्तातृषाणो न वंसगः ।
+> मदाय हर्यताय ते तुविष्टमाय धायसे ।
+> आ त्वा यच्छन्तु हरितो न सूर्यमहा विश्वेव सूर्यम् ॥ २ ॥
+
+> *pibā somamindra suvānamadribhiḥ kośena siktamavataṃ na vaṃsagastātṛṣāṇo na vaṃsagaḥ |*
+> *madāya haryatāya te tuviṣṭamāya dhāyase |*
+> *ā tvā yacchantu harito na sūryamahā viśveva sūryam ‖ 2 ‖*
+
+### Printed p. 423  (PDF 444)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+**॥ पदपाठः ॥**
+
+> पिब । सोमम् । इन्द्र । सुवानम् । अद्रिऽभिः । कोशेन । सिक्तम् । अवतम् । न । वंसगः ।
+> तातृषाणः । न । वंसगः ।
+> मदाय । हर्यताय । ते । तुविष्टमाय । धायसे ।
+> आ । त्वा । यच्छन्तु । हरितः । न । सूर्यम् । अहा । विश्वाऽइव । सूर्यम् ॥ २ ॥
+
+> *piba | somam | indra | suvānam | adri 'bhiḥ | kośena | siktam | avatam | na | vaṃsagaḥ |*
+> *tātṛṣāṇaḥ | na | vaṃsagaḥ |*
+> *madāya | haryatāya | te | tuviṣṭamāya | dhāyase |*
+> *ā | tvā | yacchantu | haritaḥ | na | sūryam | ahā | viśvā 'iva | sūryam ‖ 2 ‖*
+
+*(Read from the image; the Saṃhitā's third word prints "*soma-m indra*"; the first line ends "…*vaṃsagaḥ*"; the Pada gives *tātṛṣāṇaḥ* (print "ತತ್ಋಷಾಣಃ"), *tuviṣṭamāya*, *aha viśvā-iva*.)*
+
+**॥ सायणभाष्यम् ॥** *(read from the image; small type, a few doubtful places [?]).*
+
+> षष्ठेऽहनि माध्यन्दिने सवने प्रस्थितयाज्यानां पुरस्तादेन्या ऋचः प्रक्षेपणीययोः । तत्र होतुः पुरस्तात् पिबा सोममिन्द्रेत्येषा । षष्ठस्य प्रातःसवन इति खण्डे सूत्रितम् । पिबा सोममिन्द्र सुवानमद्रिभिरिन्द्राय हि द्यौरसुरो अनम्नतेति । आ. ८-१ [?] इति ॥
+
+> *ṣaṣṭhe 'hani mādhyandine savane prasthitayājyānāṃ purastādenyā ṛcaḥ prakṣepaṇīyayoḥ | tatra hotuḥ purastāt pibā somamindretyeṣā | ṣaṣṭhasya prātaḥsavana iti khaṇḍe sūtritam | pibā somamindra suvānamadribhirindrāya hi dyaurasuro anamnateti | ā. 8-1 [?] iti ‖*
+
+> हे इन्द्र वंसगो वननीयगमनस्त्वं सोमं पिब ॥ द्व्यचोऽतस्तिङ इति दीर्घः ॥ कीदृशं तम् । अद्रिभिरभिषवसाधनैर्ग्रावभिः सुवानं सूयमानम् ॥ कर्मणि कर्तृप्रत्ययः ॥ कोशेन सिक्तं कोशस्थानीयेन दशापवित्रेण शोधितम् । यद्वा । अवतमित्यनेन सह सम्बन्धः । कोशेनेति लक्षणेन सिक्तं स्वोचितजलेन पूरितमवतं नाहावलक्षणमवटमिव । तं यथा वंसगो वननीयगमनस्तृषा शीघ्रगामी वृषभः पिबति तद्वत् । तत्तृषाणो न वंसगः । यथात्यन्तं तृषितो वंसगो वननीयगमनः शीघ्रगामी पुरुष अहावादिमागत्य पिबति तद्वत् । किमर्थं पानमिति तत्राह । ते तव मदाय तृप्तये हर्यताय विक्रान्तिहेतवे कान्त्यर्थं वा ॥ हर्य गतिकान्त्योः । भृमृदृशीत्यादिनातच् ॥ तुविष्टमाय महत्त्वाय प्रवृद्धत्वाय धायसे यदर्थं मद उपजायते तदर्थाय ॥ धाञ् वहिपाधाञ्भ्य इत्यसुनि नित्त्वात् [?] ॥ यद्वा । ते तव तुविष्टमाय धायसे इति प्रभूताय पानाय । त्वा त्वामश्वा यच्छन्तु । अभिमुख्येन गमयन्तु । अश्वा इति शेषः । तत्र दृष्टान्तः । हरितो न सूर्यं हरिद्वर्णविशिष्टा एतन्नामका अश्वाः सूर्यमिव । तं यथा चित्रैराभिमतदेशमभिप्रेरिता वहन्ति तद्वत् । किंचाहा विश्वा सर्वाण्यहानि सूर्यमिव । तं यथा त एव प्रतिदिनं वहन्ति तथास्माद्यागादिषेषु प्रतिदिनमावहन्तु ॥
+
+> *he indra vaṃsago vananīyagamanastvaṃ somaṃ piba ‖ dvyaco 'tastiṅa iti dīrghaḥ ‖ kīdṛśaṃ tam | adribhirabhiṣavasādhanairgrāvabhiḥ suvānaṃ sūyamānam ‖ karmaṇi kartṛpratyayaḥ ‖ kośena siktaṃ kośasthānīyena daśāpavitreṇa śodhitam | yadvā | avatamityanena saha sambandhaḥ | kośeneti lakṣaṇena siktaṃ svocitajalena pūritamavataṃ nāhāvalakṣaṇamavaṭamiva | taṃ yathā vaṃsago vananīyagamanastṛṣā śīghragāmī vṛṣabhaḥ pibati tadvat | tattṛṣāṇo na vaṃsagaḥ | yathātyantaṃ tṛṣito vaṃsago vananīyagamanaḥ śīghragāmī puruṣa ahāvādimāgatya pibati tadvat | kimarthaṃ pānamiti tatrāha | te tava madāya tṛptaye haryatāya vikrāntihetave kāntyarthaṃ vā ‖ harya gatikāntyoḥ | bhṛmṛdṛśītyādinātac ‖ tuviṣṭamāya mahattvāya pravṛddhatvāya dhāyase yadarthaṃ mada upajāyate tadarthāya ‖ dhāñ vahipādhāñbhya ityasuni nittvāt [?] ‖ yadvā | te tava tuviṣṭamāya dhāyase iti prabhūtāya pānāya | tvā tvāmaśvā yacchantu | abhimukhyena gamayantu | aśvā iti śeṣaḥ | tatra dṛṣṭāntaḥ | harito na sūryaṃ haridvarṇaviśiṣṭā etannāmakā aśvāḥ sūryamiva | taṃ yathā citrairābhimatadeśamabhipreritā vahanti tadvat | kiṃcāhā viśvā sarvāṇyahāni sūryamiva | taṃ yathā ta eva pratidinaṃ vahanti tathāsmādyāgādiṣeṣu pratidinamāvahantu ‖*
+
+*(Sense. At the sixth day, at the midday pressing, the ṛks before the *prasthita-yājyās* are the *praṣepaṇīyas* [?]; in this, before the Hotṛ, *pibā somam indra* is recited: as stated in the section *ṣaṣṭhasya prātaḥsavane*: "*pibā somam indra suvānam adribhir indrāya hi dyaur asuro anamnata*" (Āś. 8-1 [?]). "O Indra, *vaṃsagaḥ* — of desirable going — drink the Soma. [Lengthening by *dvyaco 'tastiṅaḥ*.] What kind? *suvānam* — being pressed (*adribhiḥ*) by the pressing-stones; *kośena siktam* — purified by the *daśāpavitra* (the ten-fold strainer) that serves as a receptacle; or taken with the following *avatam*: as a well (*avata*) filled with the water suitable for it, like a well at the watering-place; as the swift bull, of desirable going (*vaṃsaga*), drinks it when thirsty; or the man who is very thirsty and swift going to the watering-place and drinks: so. For what purpose? For your exhilaration (*madāya*), for *haryatāya* (heroism or splendour) [root *hary* in the sense of going and desire], for *tuviṣṭamāya* — greatness, growth, for *dhāyase* — for that for which the exhilaration arises. Or: *tuviṣṭamāya dhāyase* — for much drinking. May the horses bring you, bring you facing us (*ā yacchantu*); example: *harito na sūryam* — as the horses called *harit*, of golden-green colour, bring the sun; as they carry him impelled toward the desired place; and *ahā viśvā* — all days — as the same horses carry the sun every day, so may they bring you every day to our sacrifices and the like.")*
+
+### Printed p. 424  (PDF 445)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *vaṃsagaḥ* — you who go swiftly; *adribhiḥ* — by the stones (the means of pressing); *suvānam* — being pressed; *kośena* — by the ten-fold strainer; *siktam* — made pure (and); *somam* — the Soma-juice; *(kośena siktam* — filled with water as with a vessel); *avatam* — [as] a well; *vaṃsagaḥ na* — as a swift bull drinks water [or] — *tātṛṣāṇaḥ* — very thirsty; *vaṃsagaḥ na* — as a swift man (reaching the well and drinking); *piba* — drink; *te* — for your; *madāya* — satisfaction; *haryatāya* — for valour (splendour); and *tuviṣṭamāya* — for growth (greatness) — *dhāyase* — drink; (or: *tuviṣṭamāya* — very great; *dhāyase* — for drinking); *tvā* — you; *haritaḥ* — the sun's horses; *sūryam na* — as they bring the sun; *ā yacchantu* — may (your horses) bring you facing (the sacrifice); *(kiṃ ca* — and); *viśvā ahā* — on all days; *sūryam iva* — as the sun (they bring); (may they bring you) every day to the sacrificial hall.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O Indra, drink the Soma-juice, pressed with the stones and purified by the ten-fold strainer, as a swift bull, or a man exceedingly thirsty, goes to a well and drinks; drink it for your satisfaction, for valour and splendour, and for growth (greatness); may your horses bring you, facing the place of sacrifice, as the sun's horses bring the sun to the place he desires; and may they bring you every day to our sacrificial hall as they bring the sun every day.
+
+**Printed English (heading "English Translation"; as printed):** *"Drink, Indra, the Soma juice, that has been expressed by the stones, and sprinkled with the sacred grass, as a thirsty ox or a thirsty man hastens to a well. (Drink) for your exhilaration, for your invigoration, for your exceedingly great augmentation: let your horses bring you hither, as his steeds convey the sun; as they carry him (through heaven) day by day."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 2).**
+
+*(The first sentence of this section is the Kannada introduction (to the use of the Ṛk in the sacrifice):)* "In the *ṣaṣṭha* (sixth) day of the sacrifice, at the time of the midday pressing, certain ṛks are recited as the preliminary (*pūrvabhāvi*) for the *prasthitayājyā* mantras. Then the Hotṛ recites this Ṛk *pibā somam* as a preliminary to the *yājyā* mantra — as explained in the Āśvalāyana Śrauta-sūtra, section *ṣaṣṭhasya prātaḥsavane*, by the sūtra *pibā somam indra suvānam adribhir indrāya hi dyaur asuro anamnata* (Āś. 8-1-… [as read "೮-೧-೧"?])."
+
+### Printed p. 425  (PDF 446)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 19 [as read].)*
+
+***vaṃsagaḥ*** — *vananīyagamanaḥ*: "one whose going is desirable": the going of Indra is described as to be desired.
+
+***adribhiḥ*** — *abhiṣavasādhanair grāvabhiḥ*: "with the stones used to press out the Soma-creeper." The word *adri* is recorded among the names of cloud (Ni. 1-[?]; as read "೧-೧೦") and is explained as *adrir ādṛṇāter ātter vātreyaḥ syāt* (Ni. 4-4 [?]). And —
+
+> स्यै ते वदन्तु प्र वयं वदाम ग्रावभ्यो वाचं वदता वदद्भ्यः ।
+> यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेन्द्राय सोमिनः ॥
+
+> *syai te vadantu pra vayaṃ vadāma grāvabhyo vācaṃ vadatā vadadbhyaḥ |*
+> *yad adrayaḥ parvatāḥ sākam āśavaḥ ślokaṃ ghoṣaṃ bharathendrāya sominaḥ ‖*
+
+(Ṛ. Saṃ. 10-94-1, as read "೧೦-೯೪-೧"; the first line is printed differently from what I give and the letters are doubtful — I record it as read from the small type: [?].) In this Ṛk *adrayaḥ* is explained as *ādaraṇīyāḥ* — "worthy of respect".
+
+***kośena siktam*** — *kośasthānīyena daśāpavitreṇa śodhitam | yadvā svocitajalena pūritam*: "the Soma-juice, purified by the strainer which acts as its receptacle, or filled with its own water." *Kośa* means a large (wooden) vessel that holds the Soma-juice. Or this word is connected with *avatam*: "the Soma-juice mixed with water in the proper proportion."
+
+***avatam na*** — *ahāvalakṣaṇam avaṭam iva*: "as a swift ox, drinking from a well (a trough, a pit) filled with water to drink, Indra is prayed to drink the Soma-juice purified by the strainer that is taken out with stones."
+
+***tatṛṣāṇo na vaṃsagaḥ*** — *atyantaṃ tṛṣitaḥ*: "one who is very thirsty": "As a man very thirsty goes quickly to a well and the like and drinks water, so Indra is prayed to drink Soma."
+
+***haryatāya*** — *vikrāntihetave kāntyarthāya vā*: since the root *hary* conveys the two meanings "going" and "desire", it is said that by the drinking of Soma valour and splendour grow, and that for this very purpose Indra drinks Soma-juice.
+
+***tuviṣṭamāya dhāyase*** — two kinds of meaning are given: the word *tuvi* is recorded among the names of "much" (Ni. 3-[?]; as read "೩-೧೩"). "In order that very great exhilaration arise, the drinking of Soma is for Indra"; this is the first meaning. In the second meaning, *tvā*
+
+### Printed p. 426  (PDF 447)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 130".)*
+
+*(continued:)* …*ā yacchantu* — since "bring" is the verb used here, the sense is that Indra's horses bring him and that he may come, called, for much drinking of Soma.
+
+***harito na sūryam*** — this sentence is given as a comparison here. The word *harit* is recorded among the names of the quarters (Ni. 1-[?]; as read "೩-೧೬") and of rivers (Ni. 1-[?]; "೩-೩೨"). And —
+
+> हरी इन्द्रस्य रोहिता अग्नेः हरित आदित्यस्य रासभावश्विनोः । अजाः पूष्णः पृषत्यो मरुतामरुणो गावः उषसः श्यावाः सवितुः विश्वरूपा बृहस्पतेः नियुतो वायोः ।
+
+> *harī indrasya rohitā agneḥ harita ādityasya rāsabhāv aśvinoḥ | ajāḥ pūṣṇaḥ pṛṣatyo marutām aruṇo gāvaḥ uṣasaḥ śyāvāḥ savituḥ viśvarūpā bṛhaspateḥ niyuto vāyoḥ |*
+
+(Ni. 1-[?], as read "೩-೧೪", a list of the vehicles of the gods; the passage is in small type and doubtful in places: [?].) In this and other passages, the word *harit* is used for the "vehicle" of the sun. For this reason Sāyaṇa explains *harit* as *haridvarṇaviśiṣṭāḥ* — "horses called *harit* by name, of golden-green colour". As these horses, driven by the charioteer, carry the sun, who has many horses, to the place he must go, so may Indra's horses bring him to the sacrifice: so it is described.
+
+***ahā viśvā sūryam iva — sarvāṇy ahāni iva | yathā ta eva pratidinaṃ vahanti tathā asmadyāgādiṣeṣu pratidinam āvahantu*** — this sentence is given as a comparison in the matter of Indra's coming. As the horses carry the sun every day to the place he must go, so they should carry Indra to the sacrificial hall every day: so he is compared.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly; numbers as printed).** *piba* — root *pā pāne*; *loṭ* second person singular, *sip*; its substitute *hi*; *śap*; *pāghrādhmā…* (Pā. 7-3-78) gives *piba* for the root; *ato he* (Pā. 6-4-105) drops *hi*; at the beginning of the *pāda* there is no *nighāta*; since *śap* is *p*-marked the root's accent remains; *dyaucotas… [as read: dyubhyo… ]* gives the long vowel in the Saṃhitā. *suvānam* — root *ṣuñ abhiṣave*; *vyatyayo bahulam* (Pā. 3-1-85) gives the agent-suffix in the passive; *śānac* in the present sense; by Vedic usage the *vikaraṇa* has *luk*; since *j*-marked [as read] no guṇa; the substitute *uvaṅ*; *citaḥ* (Pā. 6-1-163) gives the acute on the last syllable. *siktam* — root *ṣiñc kṣaraṇe*; *kta* in the passive; since *k*-marked, no guṇa of the penult; *coḥ kuḥ* gives *k* for *c*; acute on the last syllable by the suffix. *avatam* — in *avaṭam* the *ṭ* becomes *t* by Vedic letter-interchange; the stem's accent on the last syllable.
+
+---
+
+**Progress note:** Sūkta 130 (*indra yāhy upa naḥ*, 10 ṛks, Paruccheṣa, Indra, Atyaṣṭi, last ṛk Triṣṭubh; Anuvāka 19, fourth Sūkta; printed pp. 417–465) through printed p. 426 (PDF 447): Ṛk 1 complete (‖ 1 ‖); Ṛk 2 complete except the end of its grammar page (entries *piba*, *suvānam*, *siktam*, *avatam* written; the rest, ‖ 2 ‖, is on p. 427); resume p. 427 (PDF 448). Page images PDF 261–360 are in w10b/, PDF 361–400 in w10c/, PDF 401–460 in w10d/ (scratchpad; crop 461+ when needed). Open flags: numerals/references throughout Vol 10 need a separate pass (user's decision; glyphs.py has no classifier yet); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūkta 127, Sūkta 129 (see earlier list; slip "pathām̐" in the Ṛk 9 Saṃhitā, p. 404 note; Special Topics of Ṛk 11 are written under p. 414 though the print runs on to p. 415), Sūkta 130 Ṛk 1 bhāṣya (p. 418) and Ṛk 2 (p. 423 bhāṣya; the Nirukta list of *harit* on p. 426; the Ṛ. 10-94-1 quotation on p. 425); the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368; OCR reference-number lines added for pp. 105–364 (pp. 365+ still to add).
