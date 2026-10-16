@@ -14657,4 +14657,52 @@ Vāyu is the giver of life to the sacrifice. The sacrifice of Vāyu is sustained
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 written through p. 611 (grammar of *stīrṇam … śatinībhiḥ* done; the grammar continues on p. 612); resume p. 612 (PDF 633); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 612  (PDF 633)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+*(Grammar of Ṛk 1, continued.)* *tubhyam* — dative, of the *yuṣmad* [stem]; *jayi ca* (Pā. 6-1-[?], as read "೬-೧-೩೫" [?]) gives the ādyudātta. *yemire* — root *yama uparame*; *liṭ* third person plural; *hi ca* (Pā. 8-1-34 [as read]) prevents the *nighāta* accent; as the suffix has the *c*-marker [*cit*], *cita* (Pā. 6-1-163 [as read]) gives the final udātta. *sutāsaḥ* — root *ṣuñ abhiṣave*; *ādi*: *sa* [for *ṣa*]; in the passive, *niṣṭhā* gives *kta*; since *jas* follows, *ājjaser asuk* (Pā. 7-1-50 [as read]) gives the *asuk* augment. *asthiran* — root *ṣṭhā gatinivṛttau*; by *chandasi luṅlaṅliṭaḥ* [as read] *luk* [i.e. *luṅ* by Vedic usage]; *vyatyayo bahulam* gives *ran* for the suffix; *sic* by *sicā…* [for *luṅ*]; *sthāghvor ic ca* (Pā. 1-2-17 [as read]) gives *kittva* [of *sic*] and *itva* to the root; since a short vowel follows, *hrasvād aṅgāt* (Pā. 8-2-27 [as read]) drops the *s* of *sic*; the *āgama* of the *aṅga*; as it follows a *tiṅanta*, *nighāta*. *kratve* — the word *kratu* denotes action; as the dative singular follows, by the statement *jasādiṣu chandasi vāvacanam*, *guṇa* and the like are optional [?]; the *yaṇ*-substitution. ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> तुभ्यायं सोमः परिपूतो अद्रिभिः स्पार्हा वसानः परि कोशमर्षति शुक्रा वसानो अर्षति ।
+> तवायं भाग आयुषु सोमो देवेषु हूयते ।
+> वह वायो नियुतो याह्यस्मयुर्जुषाणो याह्यस्मयुः ॥ २ ॥
+
+> *tubhyāyaṃ somaḥ paripūto adribhiḥ spārhā vasānaḥ pari kośamarṣati śukrā vasāno arṣati |*
+> *tavāyaṃ bhāga āyuṣu somo deveṣu hūyate |*
+> *vaha vāyo niyuto yāhyasmayurjuṣāṇo yāhyasmayuḥ ‖ 2 ‖*
+
+### Printed p. 613  (PDF 634)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+**॥ पदपाठः ॥**
+
+> तुभ्य । अयम् । सोमः । परिऽपूतः । अद्रिऽभिः । स्पार्हा । वसानः । परि । कोशम् ।
+> अर्षति । शुक्रा । वसानः । अर्षति ।
+> तव । अयम् । भागः । आयुषु । सोमः । देवेषु । हूयते ।
+> वह । वायो इति । नियुतः । याहि । अस्मयुः । जुषाणः । याहि । अस्मयुः ॥ २ ॥
+
+> *tubhya | ayam | somaḥ | pari 'pūtaḥ | adri 'bhiḥ | spārhā | vasānaḥ | pari | kośam |*
+> *arṣati | śukrā | vasānaḥ | arṣati |*
+> *tava | ayam | bhāgaḥ | āyuṣu | somaḥ | deveṣu | hūyate |*
+> *vaha | vāyo iti | niyutaḥ | yāhi | asmayuḥ | juṣāṇaḥ | yāhi | asmayuḥ ‖ 2 ‖*
+
+*(The Pada prints "*tubhya*" with short final, as in the Saṃhitā "*tubhyāyam*"; recorded as printed.)*
+
+**॥ सायणभाष्यम् ॥** *(Ṛk 2; read from the image; doubtful words marked [?].)*
+
+> हे वायो तुभ्य तुभ्यं त्वदर्थम् । सुपां सुलुगिति चतुर्थ्या लुक् ॥ अयं सोमो हूयमानः कोशं कोशस्थानीयं ग्रहमर्षति । गच्छति । प्राप्नोति । कीदृशः सोमः । अद्रिभिः परिपूतः । अभिषवसाधनैर्ग्रावभिरुपगतैर्जघ्नत्वेन [?] शोधितः । यद्वा । अद्रिभिरभिषुतो दशापवित्रशोधनेन ग्रहणेन वा शोधितः । तथा स्पार्हा स्पृहणीयानि तेजांसि वसानः । पिदधानः [?] । किंच शुक्रा निर्मलानि दीप्तानि वा तेजांसि वसानः सोमोऽर्षति त्वां प्राप्नोति ॥ ऋषी गतौ । व्यत्ययेन शप् ॥ हे वायो आयुषु मनुष्येषु यज्ञ्वव्यक्त्वेन [?] स्थितो भागो भजनीयः सोमस्तव त्वदर्थं देवेषु मध्ये हूयते । सर्वेषु देवेषु यतः सोमस्तव भागः अतः प्रथमं तुभ्यं हूयत इत्यर्थः । किंच हे वायो एवं तं सोममस्मयुरस्माभिस्त्वद्यार्थान् [?] मत्स्वार्थीयो [?] युः ॥ त्वं नियुतो वह । नियुत्संज्ञकानश्वानाहनाय प्रापय । ततः परं याहि दिवं प्रति गच्छ । तथा कुर्वन् अस्मयुरस्माभिर्युक्तः सन् अस्मानुनुगृह्णन् अस्मान्कामयमानो वा [?] जुषाणः प्रीयमाणो याहि । गच्छ ॥
+
+> *he vāyo tubhya tubhyaṃ tvadartham | supāṃ sulugiti caturthyā luk ‖ ayaṃ somo hūyamānaḥ kośaṃ kośasthānīyaṃ grahamarṣati | gacchati | prāpnoti | kīdṛśaḥ somaḥ | adribhiḥ paripūtaḥ | abhiṣavasādhanairgrāvabhirupagatairjaghnatvena [?] śodhitaḥ | yadvā | adribhirabhiṣuto daśāpavitraśodhanena grahaṇena vā śodhitaḥ | tathā spārhā spṛhaṇīyāni tejāṃsi vasānaḥ | pidadhānaḥ [?] | kiṃca śukrā nirmalāni dīptāni vā tejāṃsi vasānaḥ somo 'rṣati tvāṃ prāpnoti ‖ ṛṣī gatau | vyatyayena śap ‖ he vāyo āyuṣu manuṣyeṣu yajñvavyaktvena [?] sthito bhāgo bhajanīyaḥ somastava tvadarthaṃ deveṣu madhye hūyate | sarveṣu deveṣu yataḥ somastava bhāgaḥ ataḥ prathamaṃ tubhyaṃ hūyata ityarthaḥ | kiṃca he vāyo evaṃ taṃ somamasmayurasmābhistvadyārthān [?] matsvārthīyo [?] yuḥ ‖ tvaṃ niyuto vaha | niyutsaṃjñakānaśvānāhanāya prāpaya | tataḥ paraṃ yāhi divaṃ prati gaccha | tathā kurvan asmayurasmābhiryuktaḥ san asmānunugṛhṇan asmānkāmayamāno vā [?] juṣāṇaḥ prīyamāṇo yāhi | gaccha ‖*
+
+*(Sense: "O Vāyu, *tubhya* — for you (the dative case-ending elided). This Soma, offered, goes (*arṣati*) to the *kośa* — the cup (*graha*), the container. What kind of Soma? *Adribhiḥ paripūtaḥ* — purified by the pressing-stones, the instruments of pressing; or purified by the strainer of woollen fringe [*daśāpavitra*] and the cup. Likewise *spārhā vasānaḥ* — wearing desirable lustres. And further, wearing pure and bright lustres, the Soma comes to you [*ṛṣī gatau*; *śap* by *vyatyaya*]. O Vāyu, this Soma — your share, that which is to be shared — is offered, among men in the world [?], for you among the gods: since among all the gods the Soma is your share, therefore first to you it is offered. Further, O Vāyu: thus [approach that Soma], desirous of us (*asmayuḥ*). Bring the *niyut* horses to the offering; then go to heaven; doing so, joined with us, favouring us, or desiring us, being pleased (*juṣāṇaḥ*), go." Several words of the commentary here are doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) vāyo* — O Vāyu; *tubhya* — for you; *adribhiḥ* — by the pressing-stones (instruments of pressing); *paripūtaḥ* — purified; *spārhā* — desirable (lustres); *vasānaḥ* — wearing (this Soma-juice); *ayam somaḥ* — this Soma-juice; *kośam* — the large vessel that receives the Soma-juice; *pari arṣati* — reaches; *(kiṃca)* — and; *śukrā* — pure (bright) [lustres]; *vasānaḥ* — wearing (the Soma-juice); *arṣati* — reaches (you); *āyuṣu* — among men (prepared for the sacrifice); *bhāgaḥ* — your share; *ayam* — this; *somaḥ* — Soma-juice; *deveṣu* — among the gods; *tava* — for you; *hūyate* — is offered; *vāyo* — O Vāyu; *niyutaḥ* — the horses called *niyut*; *vaha* — bring; *asmayuḥ* — desiring us; *yāhi* — come; *juṣāṇaḥ* — being pleased; *asmayuḥ* — [and] desiring us (favouring us); *yāhi* — go.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛk 2 written through its Pratipadārtha (p. 613); resume p. 614 (PDF 635) with its Bhāvārtha; images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
