@@ -12462,4 +12462,98 @@ The Niruktakāra reads the word *rāti* among the ten names of the acts of givin
 
 ---
 
-**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 515 (PDF 536): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā/Pada/bhāṣya written (the bhāṣya ends mid-p. 515 with *vide … udakaprāptiprakāraṃ jānāti*); resume p. 515 lower part: the Ṛk 3 Pratipadārtha (on the same page: "(he indra) yajñe yasmin havirdāne sandarbhe…"), Bhāvārtha begins at the foot of p. 515; then p. 516 (PDF 537). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 bhāṣya pp. 502–503; Ṛk 2 bhāṣya pp. 507–508 and the Ṛ. verse on p. 511 with an unclear reference; Ṛk 3 bhāṣya pp. 514–515); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 515 (continued, lower part; PDF 536)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra* — O Indra); *yajñe* — in the sacrifice; *yasmin* — in which oblation (context); *vāram* — desirable; *kṣayam* — the place of the altar; *akṛṇvata* — [the priests] make; *tat tu* — that well-known; *prayaḥ* — the food in the form of oblation; *śuśukvanam* — greatly bright by contact with ghee and the like; *pratnathā* — as formerly (as in earlier times); *te* — yours; *ṛtasya* — of the sacrifice that gives true fruit; *kṣayam* — the place; *vāḥ asi* — you have reached; or *[ṛtasya* — of water; *kṣayam* — the place; *vāḥ asi* — you reach (giving rain)]; or *[ṛtasya* — of the Sun; *kṣayam* — the place (the heaven-world); *vāḥ asi* — you take the sacrificer to]; *tat* — such (deed of rain); *vi voceḥ* — make known; *adha* — therefore; *dvitā antaḥ* — in the middle of the two (heaven and earth, in the sky); *raśmibhiḥ* — with the rays of the Sun; *paśyanti* — (people) see (your deed of rain); *saḥ ghā indraḥ* — that very Indra; *goveṣaṇaḥ* — the seeker of water; *bandhukṣidbhyaḥ* — for the sacrificers who have become kin (through oblations); *goveṣaṇaḥ* — the seeker of cows; *anu vide* — in due order he knows (the way of the water).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** *(begins at the foot of p. 515)* "The sacrificial food, greatly kindled by ghee and the like, which the priests offer to you, Indra, on the altar of the sacrifice, is yours as it was formerly; you go to the place of the sacrifice that gives true fruit; or you go to the place of water, giving rain; or you take the sacrificer to the heaven of the Sun; make known your deed of rain; (and) all people see by the rays of the Sun, in the sky between heaven and earth, the rain you cause; and Indra, who seeks water, seeks also cows for the sacrificers who are his kin; and he knows in due order the way to obtain them."
+
+### Printed p. 516  (PDF 537)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+**Printed English (heading "English Translation"; as printed):** *"Indra, in whatsoever rite (the priests) from of old have placed the brilliant (sacrificial) food for you upon the altar, in that place of sacrifice you abide: you declare that (rite), that men may thence behold the intermediate (firmament bright) with the rays (of the sun): for this, Indra, the searcher (of rain, is) the searcher after cattle, for (the benefit of) his kindred (worshippers), and knows in due course (the season of the rain)."*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+***prayaḥ śuśukvanam*** — *havirlakṣaṇam annam ājyādisaṃyogena bhṛśaṃ dīptam*: the word *prayas* is recorded among the names of food (Ni. 2-[?]; as read "೨-೯"); the root *śuc* gives the sense of radiance, and *śuśukvanam* is formed by the suffix *vanip* after the doubled-root (*yaṅ-luk*) form; so it means "greatly bright". Sāyaṇa explains it as the food, the oblation, made very bright by ghee and other substances.
+
+***pratnathā*** — *itaḥ pūrvaṃ yathā yāgaśāle haviḥ tava svaṃ bhavati tathādyatanam api*: "as the sacrificer offers oblations to Indra, hoping to please him, in the past, so now too": the sense is that, without distinguishing between past and present times, they always offer oblations to Indra.
+
+***vāraṃ kṣayam akṛṇvata*** — *varaṇīyaṃ vedilakṣaṇaṃ sthānaṃ ṛtvijaḥ kurvanti*: "the priests make the altar, the place where oblations are made to Indra, the best place in the sacrificial hall". The Niruktakāra —
+
+> अञ्जन्ति त्वामध्वरे देवयन्तो वनस्पते मधुना दैव्येन ।
+> यदूर्ध्वस्तिष्ठा द्रविणेह धत्तादयद्वा क्षयो मातुरस्या उपस्थे ॥
+
+> *añjanti tvām adhvare devayanto vanaspate madhunā daivyena |*
+> *yad ūrdhvas tiṣṭhā draviṇeha dhattād yad vā kṣayo mātur asyā upasthe ‖*
+
+(Ṛ. Saṃ. 3-8-1, as read "೩-೮-೧".) — in this Ṛk explains the word *kṣaya* as *nivāsasthāna* ("dwelling-place").
+
+***ṛtasya vārasi kṣayam*** — *satyaphalasya yajñasya nivāsasthānaṃ sambhaktāsi | yadvā ṛtam ity udakanāma, tasya kṣayaṃ sthānaṃ prāptāsi | athavā ṛtasyādityasya kṣayaṃ sthānaṃ dyulokākhyaṃ yajamānaṃ gamayitāsi*: the word *ṛta* is recorded among the names of water (Ni. 1-[?]; as read "೧-೧೪"?) and is explained as "truth" or "sacrifice" (Ni. 4-19 [?]). Indra is said to dwell at the sacrifice that gives true fruit; or to be the giver of rain; or to take the sacrificer to the place of the Sun in the heaven-world: by these three meanings Indra's greatness is described.
+
+### Printed p. 517  (PDF 538)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+***dvitā antaḥ raśmibhiḥ paśyanti*** — *dvayor dyāvāpṛthivyor madhye antarikṣe ādityakiraṇaiḥ paśyanti | megham nirbhidya raśmidvārā pravarṣaṇarūpaṃ karma sarve janāḥ pratyakṣataḥ paśyanti*: "Indra produces rain in order to nourish the world. Heaven and earth always exist together; in the sky between them, people everywhere see, through the Sun's rays, the rain falling from the clouds, which are split by the rays": so in the Manu-smṛti —
+
+> अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ।
+> आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥
+
+> *agnau prāstāhutiḥ samyag ādityam upatiṣṭhate |*
+> *ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ ‖*
+
+(Manu 3-76, as read "೩-೭೬".) The oblations offered in the fire for Indra and the other gods reach the Sun; since the Śruti says Indra and the Sun are one in nature, Indra receives the oblations in the form of the Sun, gives rain, food and prosperity to the people. Sāyaṇa explains: "*asmaddattaṃ havir ādityaṃ prāpayitvā tadadvārā vṛṣṭiṃ janayasīty etat sarvair dṛśyate*" — "you send to the Sun the oblation given by us and through it produce rain; this all see".
+
+***goveṣaṇaḥ bandhukṣidbhyo goveṣaṇaḥ*** — *udakasyānveṣaṇaśīlaḥ havispradānādinā bandhubhāvaṃ prāptavadbhyo yajamānebhyo gavāṃ praśiddhānām eṣaṇakartā | yadvā yajamānaphalasya mṛgayitā*: "the sacrificers become, as it were, relations of Indra through offering oblations; Indra, out of kindness, produces rain for them". The word *goveṣaṇa* is used twice: in the first the meaning is "one who seeks water (rain-water)", i.e. "one who gives it"; in the second, "one who gives the sacrificers the fruit of sacrifice"; these are explained as epithets of Indra.
+
+***sa ghā vide anu*** — "as stated above, Indra himself knows well how to give the sacrificers rain and the other fruits of the sacrifice."
+
+### Printed p. 518  (PDF 539)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+"Indra acts like a friend and a kinsman toward the sacrificer — this is described in many Ṛks (Ṛ. Saṃ. 3-[?]-[?]; 3-[?]; 5-[?]; 8-[?]…: the list of numerals is small and not reliably read: [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly; numbers as printed).** *pratnathā* — *pratnapūrvaviśvemāt thāl chandasi* (Pā. 5-3-111) gives *thāl* in the sense of similarity; *thāl* is *l*-marked, so *liti* (Pā. 6-1-193) gives the acute before the suffix. *śuśukvanam* — root *śuca dīptau*; after the *yaṅ-luk* form, *vanip*; *am* following, the Vedic lengthening does not occur; by *vyatyaya* the acute on the last syllable. *vāram* — root *vṛñ varaṇe*; suffix *ghañ*; *aco ñṇiti* gives *vṛddhi*; *ñnityādir nityam* (Pā. 6-1-197) gives the acute on the first syllable. *akṛṇvata* — root *kṛñ hiṃsākaraṇayoś ca*; the Vedic *laṅ* in the present sense; third person plural; *ātmanepadeṣv anataḥ* (Pā. 7-1-5) gives *at*; *dhinvikṛṇvyor a ca* (Pā. 3-1-80) gives *u* as *vikaraṇa* and *a* ending; since *it*-marked, *num*; *ato lopaḥ* drops the *a*; the augment *aṭ*; because *yad* is connected no *nighāta*; the acute on the first syllable. *kṣayam* — root *kṣi nivāsagatyoḥ*; *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* gives *gha* [Pā. 3-3-118]; guṇa by *sārvadhātukārdhadhātukayoḥ*, *ayādeśa*; *kṣayo nivāse* (Pā. 6-1-201) gives the acute on the first syllable. *asi* — root *as bhuvi*; *loṭ*… [as read: *laṭ*] second person singular; *tiṅ-nighāta*. *voceḥ* — root *vaca paribhāṣaṇe*; *luṅ* second person singular, *sip*; *itaś ca* drops *i*; by *vyatyaya* the *aṅ*; since *aṅ* follows, *vaca um* (Pā. 7-4-20) gives *um*; guṇa; *yāsuṭ* with *iya* by *ato yeyaḥ* (Pā. 7-2-80); *lopo vyor vali* drops *y*; *s* becomes *ru*, visarga; *tiṅ-nighāta*.
+
+### Printed p. 519  (PDF 540)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Grammar, concluded.)* *ghā* — *ṛtitghā…* [as read: *ṛcitunughākṣuttutāṃ…*, Pā. 6-3-133] gives lengthening in the Saṃhitā. *vide* — explained in two ways in the earlier mantra. *goveṣaṇaḥ* — by *bahulagrahaṇa* (*kṛtyalyuṭo bahulam*, Pā. 3-3-113) *lyuṭ* in the agent sense after the root *iṣ*; *yuvor anākau* gives *ana*; because of the suffix guṇa of the root; since *aj* follows, *anādeśa*; or the root *gaveṣa mārgaṇe*; *lyuṭ* as before; *kṛd-uttarapadaprakṛtisvara*. *bandhukṣidbhyaḥ* — root *kṣi nivāsagatyoḥ*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. 6-1-71) gives *tuk* to the root; *kṛd-uttarapadaprakṛtisvara*. ‖ 3 ‖
+
+***(ornamental rule)***
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> नू इत्था ते पूर्वथा च प्रवाच्यं यदङ्गिरोभ्योऽवृणोरप व्रजम् ।
+> इन्द्र शिक्षन्नप व्रजम् ।
+> ऐभ्यः समान्या दिशास्मभ्यं जेषि योत्सि च ।
+> सुन्वद्भ्यो रन्धया कं चिदव्रतं हृणायन्तं चिदव्रतम् ॥ ४ ॥
+
+> *nū itthā te pūrvathā ca pravācyaṃ yadaṅgirobhyo 'vṛṇorapa vrajam |*
+> *indra śikṣannapa vrajam |*
+> *aibhyaḥ samānyā diśāsmabhyaṃ jeṣi yotsi ca |*
+> *sunvadbhyo randhayā kaṃ cidavrataṃ hṛṇāyantaṃ cidavratam ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> सु । इत्था । ते । पूर्वथा । च । प्रवाच्यम् । यत् । अङ्गिरःऽभ्यः । अवृणोः । अप ।
+> व्रजम् । इन्द्र । शिक्षन् । अप । व्रजम् ।
+> आ । एभ्यः । समान्या । दिश । अस्मभ्यम् । जेषि । योत्सि । च ।
+> सुन्वत्ऽभ्यः । रन्धय । कम् । चित् । अव्रतम् । हृणायन्तम् । चित् । अव्रतम् ॥ ४ ॥
+
+> *su | itthā | te | pūrvathā | ca | pravācyam | yat | aṅgiraḥ 'bhyaḥ | avṛṇoḥ | apa |*
+> *vrajam | indra | śikṣan | apa | vrajam |*
+> *ā | ebhyaḥ | samānyā | diśa | asmabhyam | jeṣi | yotsi | ca |*
+> *sunvat 'bhyaḥ | randhaya | kam | cit | avratam | hṛṇāyantam | cit | avratam ‖ 4 ‖*
+
+*(Read from the image: the Saṃhitā's first word is printed "*nū ittā*"; I give it as the Pada has "*su*" — "*nū itthā*" in the Saṃhitā against "*su*" in the Pada is as printed: a discrepancy in the print, not resolved here: [?]. The Pada has "*sunvadbhyaḥ*", "*hṛṇāyantam*".)*
+
+---
+
+**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 519 (PDF 540): Ṛks 1–3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā/Pada written (note the print's discrepancy: Saṃhitā "nū itthā" vs Pada "su"); resume p. 520 (PDF 541; images in w10f/) with the Ṛk 4 bhāṣya. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Page images PDF 461–540 in w10e/, 541–620 in w10f/ (scratchpad). Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 pp. 502–503; Ṛk 2 pp. 507–508, 511; Ṛk 3 pp. 514–518); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
