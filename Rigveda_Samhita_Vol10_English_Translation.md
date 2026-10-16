@@ -12766,4 +12766,54 @@ The Niruktakāra reads the word *rāti* among the ten names of the acts of givin
 
 ---
 
-**Progress note:** Sūkta 132 (*tvayā vayaṃ maghavan*, 6 ṛks, Paruccheṣa, Indra [latter half of Ṛk 6 Indra and Parvata], Atyaṣṭi; Anuvāka 19, sixth Sūkta; printed pp. 501–533) through printed p. 531 (PDF 552): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 (last) Saṃhitā…English written; Special Topics begun (the *indrāparvatā* entry, with its Ṛ. 5-84-1 illustration); resume p. 532 (PDF 553; images in w10f/) with the rest of the Ṛk 6 Special Topics and grammar and the closing line; Sūkta 133 begins on p. 534. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–131 (see earlier lists) and 132 (Ṛk 1 pp. 502–503; Ṛk 2 pp. 507–508, 511; Ṛk 3 pp. 514–518; Ṛk 4 pp. 520, 522; Ṛk 5 pp. 524–525; Ṛk 6 Saṃhitā line 2 [*cattāya chantsat*] and bhāṣya p. 529–530, the Śrauta-sūtra reference, and the list of Ṛks on p. 531 with unread numerals); stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 532  (PDF 553)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 132".)*
+
+*(Special Topics of Ṛk 6, continued from p. 531:)*
+
+***puroyudhā*** — *saṅgrāme puratao yoddhārau*: "those who fight in front of all in battle", is the meaning.
+
+***pṛtanyāt*** — *raṇaḥ vivāk* [as read] and the like are the forty names of battle in the Nirukta (Ni. 2-[?]; as read "೨-೯"); since the word *pṛtanā* is recorded among them, *pṛtanā* means "war"; *pṛtanām ātmana icchatīti pṛtanyati* — "one who desires war against us": the enemy who wishes to fight us. "Destroy such enemies": so he is prayed.
+
+***taṃ-tam it vajreṇa hatam*** — "whichever enemy wishes to kill us in battle, kill him, every one, with the thunderbolt."
+
+***cattāya*** — *gatāya | cātayater vā nāśakarmaṇaḥ | niṣprāyaḥ | adarśanam āpannāyety arthaḥ*: "to the enemy who has hidden himself in a hiding place, so as to be invisible to the eye": Indra is prayed to destroy such an enemy.
+
+***asmākaṃ śatrūn pari śūra viśvataḥ darmā dardṛṣṭa viśvataḥ*** — "O Indra, the hero, the destroyer of enemies: kill our enemies everywhere by all means" — so the immeasurable power of Indra is described.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *indrāparvatā* — *indraś ca parvataś ca indrāparvatau*, *devatādvandve ca* (Pā. 6-3-26) gives *ānaṅ* to the first member; *supāṃ sulug* (Pā. 7-1-39) gives *ā* in place of the dual ending; *āmantritasya ca* gives *nighāta*. *puroyudhā* — root *yudha saṃprahāre*; *kvip ca* gives *kvip*; *kṛd-uttarapadaprakṛtisvara*; as before, a dual-ending change to *ā*. *pṛtanyāt* — *pṛtanām ātmana icchati pṛtanyati*; *supa ātmanaḥ kyac* (Pā. 3-1-8); *kavyadhvaropapṛtanasya…* [as read: *lopaḥ kyaci*, Pā. 7-4-39] drops the *a*; after the *kyac*-ending, *liṅ* third person singular [as read: *laṭ*]; hence the form; because *yad* is connected no *nighāta*; *yāsuṭ* is acute so the *ā* is acute; *chandasy ubhayathā* (Pā. 3-4-117) makes the suffix *ārdhadhātuka*-named so *kyac* drops. *taṃ-tam* — by *nityavīpsayoḥ* (Pā. 8-1-4) doubling; since the second has the name *āmreḍita*, *anudāttaṃ ca* (Pā. 8-1-3) makes it unaccented.
+
+### Printed p. 533  (PDF 554)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 22 [as read].)*
+
+*(Grammar, continued.)* *hatam* — root *han hiṃsāgatyoḥ*; *loṭ* second person dual, *tam* [replaced]; since *t*-marked [as read: *ṅit*], *anudāttopadeśavanatitanotyādīnām…* (Pā. 6-4-37) drops the nasal; *tiṅ-nighāta*. *cattāya* — root *cate yācane* [as read]; here used in the sense of destroying; by *grasitaskabhita…* (Pā. 7-2-34) the suffix *kta* is irregularly formed (without *iṭ*); acute on the last syllable by the suffix; dative singular. *chantsat* — root *chadi kāntau*; *leṭ* third person singular, *tip*; *itaś ca lopaḥ* (Pā. 3-4-97) drops *i*; *leṭo 'ḍāṭau* gives the augment *aṭ*; by Vedic usage *luk* of the *vikaraṇa*; *sibbahulaṃ leṭi* (Pā. 3-1-34) gives *sip*; because *it*-marked the root gets *num*; *khari ca* gives *car* for the *d*; *tiṅ-nighāta*. *inakṣat* — root *nakṣa gatau*; as before, *leṭ* third person singular; the prefix *i* comes in as an augment by Vedic usage; or the root *inakṣa*, as one infers, in the *bhvādi* [list], is established as *ākṛtigaṇa*; because *yad* is connected no *nighāta*; the first syllable acute by *vyatyaya*. *viśvataḥ* — in the sense of the second case, the suffix *tasil*; *liti* gives the acute before the suffix. *darmā* — root *dṝ vidāraṇe*; when *ṇic* follows, *aco ñṇiti* gives *vṛddhi*, giving the form *dār*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75) gives *manin* after the *ṇic*-ending; *ner aniṭi* (Pā. 6-4-51) drops *ṇic*; since *manin* is *n*-marked [as read: *nit* / unaccented] and follows, the loss of *ṇic* — the accent rule *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161) gives the acute to *manin*; by Vedic usage the root is shortened. Or the root *dṝ bhaye*; since it is read in the *ghaṭādi* group, *mitāṃ hrasvaḥ* (Pā. 6-4-92) shortens the penult when *ṇic* follows; nominative singular.
+
+### Printed p. 534  (PDF 555)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 133" [as read: "೧೩೩"].)*
+
+*(Grammar, concluded.)* *dardṛṣṭa* — root *dṝ vidāraṇe*; after the *ṇic*-ending *liṅ* third person singular, *ta*; *liṅaḥ sīyuṭ* (Pā. 3-4-102) gives *sīyuṭ*; *suṭ tithoḥ* (Pā. 3-4-107) gives *suṭ*; *chandasy ubhayathā* (Pā. 3-4-117) gives the suffix both names, so *ṇic* drops; as before the penult is shortened; *tiṅ-nighāta*. ‖ 6 ‖
+
+Here ends the 132nd Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನೂರ ಮೂವತ್ತೆರಡನೇ ಸೂಕ್ತ ಮುಗಿದುದು".)*
+
+---
+
+## Sūkta 133 — *ubhe punāmi* (begins on printed p. 534; Anuvāka 19, seventh and last Sūkta)
+
+### Printed p. 534 (continued; PDF 555, lower part)
+
+**ನೂರ ಮೂವತ್ತಮೂರನೆಯ ಸೂಕ್ತವು — Nūra mūvattamūraneya sūktavu** (the one hundred and thirty-third Sūkta).
+
+**॥ सूक्तभूमिका ॥ — Introduction (Sanskrit, small type; read from the image; several letters doubtful [?]).**
+
+> उभे पुनामीति सप्तर्चं सप्तमं सूक्तं पारुच्छेपमैन्द्रम् । आद्या त्रिष्टुप् । अभिल्गेत्याद्यास्तिस्रोऽनुष्टुभः । पिशङ्गभृष्टिमिति षष्ठी गायत्री । अन्वर्महेत्येषा धृतिः । वनोति हीत्यभिधानात्कृत्यः [?] । अत्राह्नुक्रमणिका । उभे सप्तादौ त्रिष्टुप् तिस्रोऽनुष्टुभो गायत्री धृतिरिति ॥ अस्य सूक्तस्य विनियोगमाह शौनकः । उभे पुनामि पुरा रिपुघ्न्यस्तु प्रकीर्तिताः । ता जपन् प्रयतो नित्यमिष्ठान् कामान् समश्नुते । ता जपन् हन्ति रक्षांसि सपत्नांश्च नियच्छति । ऋ. वि. १-३१ [?] इति ॥
+
+> *ubhe punāmīti saptarcaṃ saptamaṃ sūktaṃ pārucchepamaindram | ādyā triṣṭup | abhilgetyādyāstisro 'nuṣṭubhaḥ | piśaṅgabhṛṣṭimiti ṣaṣṭhī gāyatrī | anvarmahetyeṣā dhṛtiḥ | vanoti hītyabhidhānātkṛtyaḥ [?] | atrāhnukramaṇikā | ubhe saptādau triṣṭup tisro 'nuṣṭubho gāyatrī dhṛtiriti ‖ asya sūktasya viniyogamāha śaunakaḥ | ubhe punāmi purā ripughnyastu prakīrtitāḥ | tā japan prayato nityamiṣṭhān kāmān samaśnute | tā japan hanti rakṣāṃsi sapatnāṃśca niyacchati | ṛ. vi. 1-31 [?] iti ‖*
+
+**Kannada anuvāda (translated).** *Anuvāda* — This Sūkta *ubhe punāmi* is the seventh Sūkta in the nineteenth Anuvāka. It has seven ṛks. The ṛṣi of this Sūkta is Paruccheṣa; the deity is Indra. The first ṛk of this Sūkta is in the Triṣṭubh metre; the three ṛks beginning *abhilgā* [as read: *abhi-lgya*…] are Anuṣṭubh; the ṛk *piśaṅgabhṛṣṭim* is Gāyatrī; the ṛk *anarmaha* is Dhṛti; and the ṛk *vanoti hi* is Atyaṣṭi [as read: "Atyaṣṭi" here and earlier given "Dhṛti"; the Kannada text prints these as given]. In the Anukramaṇikā it is said: "*ubhe sapta ādau triṣṭup tisro 'nuṣṭubho gāyatrī dhṛtiḥ*". Śaunaka states the use of this Sūkta as follows: "*ubhe punāmi purā ripughnyas tu prakīrtitāḥ | tā japan prayato nityam iṣṭān kāmān samaśnute | tā japan hanti rakṣāṃsi sapatnāṃś ca niyacchati*" (Ṛgvidhāna 1-[?], as read "೧-೩೨" [?]). *Ubhe punāmi* is a Sūkta that destroys enemies: it is said that, if one recites its mantras with faith and regularly every day, enemies are destroyed and all desires are fulfilled.
+
+---
+
+**Progress note:** Sūkta 132 complete (printed pp. 501–534). Sūkta 133 (*ubhe punāmi*, 7 ṛks, Paruccheṣa, Indra; Anuvāka 19, seventh and last Sūkta; metres: Ṛk 1 Triṣṭubh, Ṛks 2–4 Anuṣṭubh, 5 Gāyatrī, 6 Dhṛti, 7 Atyaṣṭi [as the intro gives them: [?]]; printed pp. 534–565) begun: heading and the Sanskrit/Kannada introduction at the foot of p. 534 done; resume p. 535 (PDF 556; images in w10f/) with the Sūkta table and Ṛk 1. Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass; p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–132 (see earlier lists); the metre list in the Sūkta 133 introduction (p. 534) is internally inconsistent in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
