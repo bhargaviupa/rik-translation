@@ -3101,4 +3101,170 @@ Moreover both words *kam* and *īm* are recorded among the names of water (Ni. 1
 
 ---
 
-**Progress note:** Sūkta 123 through printed p. 121 (PDF 142): Ṛk 12 Saṃhitā/Pada/bhāṣya done; resume p. 122 (PDF 143) with Ṛk 12 Pratipadārtha/Bhāvārtha/English.
+### Printed p. 122  (PDF 143)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 12).** *Aśvāvatīḥ* — possessed of horses; *gomatīḥ* — possessed of cows; *viśvavārāḥ* — belonging to all times (desired by all); *sūryasya* — of the Sun; *raśmibhiḥ* — with the rays; *yatamānāḥ* — striving (to dispel the darkness); *bhadrā* — auspicious; *nāma* — favour (to all people); *vahamānāḥ* — bringing about; (the) *uṣāsaḥ* — Uṣas deities; *parā yanti* — depart; *punaḥ ca ā yanti* — and come again.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Possessed of horses and cows, at all times striving at the work of dispelling darkness together (in concert) with the rays of the Sun, and bringing auspiciousness to all, the Uṣas deities keep going and keep coming.
+
+**Printed English (as printed):** *Possessed of horses, possessed of cows, existing through all time, vying with the rays of the sun (in dissipating darkness) auspicious Dawns, sending down benefits (on mankind), pass away and again return.*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 12.**
+
+***viśvavārāḥ*** — *viśve vārāḥ varaṇīyāḥ kālā yāsāṃ tāḥ | sārvakālīnāḥ | yadvā viśve varitāro yāsu tāḥ | viśvair varaṇīyāḥ.* The word *vāra* is derived from the root *vṝ* (*vṛñ varaṇe*) which conveys "choose, desire", so it means "desired"; thus the word *viśvavārāḥ*, used as an epithet of the word *uṣāsaḥ*, is explained in one way as "for them all the times of dawn are desired", and Sāyaṇa explains it in another way as "all desire the times of dawn" (*viśvaiḥ varaṇīyāḥ*). By both these meanings the beauty of the times of dawn, and its being a benefit to all, becomes evident.
+
+***sūryasya raśmibhir yatamānāḥ*** — *sūryaraśmibhiḥ sākaṃ tamonivāraṇāya prayatnaṃ kurvāṇāḥ.* The sense: the dawns, joining with the rays of the Sun, strive to remove the darkness. The darkness is removed by the Sun's rays themselves; but before the Sun rises, in order to destroy darkness by making the Sun's rays manifest, Uṣas spreads her own light and is a helper — this is the sense.
+
+### Printed p. 123  (PDF 144)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+***bhadrā nāma vahamānāḥ*** — *bhadraṃ kalyāṇaṃ stutyaṃ vā namanaṃ sarvajanānukūlyaṃ dhārayamāṇāḥ.* Yāska, in the Nirukta, for the word *bhadra*: *bhajanīyaṃ bhūtānām abhidravaṇīyaṃ bhavad ramayatīti vā bhājanavad vā* [as read; no reference number is printed]: "that which is to be resorted to by beings, to be approached; or that which gives delight (to beings); or [fit as] a vessel" — he has explained it as "fit to be approached by living beings", "delighting living beings", and "making men blessed"; hence, because Uṣas produces auspiciousness, and because she brings what is favourable to all, she is worthy of the praise of all — he explains two meanings.
+
+> सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।
+> अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
+
+> *saktumiva titaunā punanto yatra dhīrā manasā vācamakrata |*
+> *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīrnihitādhi vāci ‖*
+
+(Ṛ. Saṃ. 10-71-2, as printed; the image "೧೦-೭೧-೨"; the OCR is letter-shaped. *titaunā* as printed.) Gloss (the source gives none; mine and tentative): "Where the wise, purifying (speech) as with a sieve, have made speech with the mind — there friends know friendships; an auspicious mark of them is set in speech."
+
+and in the ṛk
+
+> शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि ।
+> विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥
+
+> *śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi |*
+> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*
+
+(Ṛ. Saṃ. 6-58-1, as read from the image "೬-೫೮-೧"; the middle numeral is doubtful in print.) — in this ṛk too the word *bhadra* is used in this same sense.
+
+> या एवातीतेषु दिनेषु गताः ता एव पुनःपुनः दिनान्तरेषु अपि आयन्ति ।
+> जगन्निर्वाहाय प्रतिदिनं गतागतं कुर्वन्ति ॥
+
+> *yā evātīteṣu dineṣu gatāḥ tā eva punaḥpunaḥ dināntareṣu api āyanti |*
+> *jagannirvāhāya pratidinaṃ gatāgataṃ kurvanti ‖*
+
+The Uṣas deities, those that went in the days that have passed, those very ones come again and again also on other days, to protect the world, it is described.
+
+**Vyākaraṇa-prakriyā (grammar pp. 123–124; noted briefly, numbers as read by the OCR).** *aśvāvatīḥ* — *aśvāḥ āsāṃ santīti aśvavatyaḥ*; *tad asyāsty asminn iti matup* (Pā. 5-2-94) gives *matup*; *mantre somāśvendriya-…* (Pā. 6-3-131) lengthens *aśva* before *matup*; *ugitaś ca* (Pā. 4-1-6) gives *ṅīp* in the feminine; with *jas* following, *supāṃ sulug…* (Pā. 7-1-39) and the lengthening of the preceding *savarṇa*. In *gomatīḥ* also *matup* and *pūrvasavarṇadīrgha*; since it follows a long *ā*… [no] *matup*'s *m* is not changed to *v*; since *matup* has the marker *p* it is unaccented. *viśvavārāḥ* — *viśve vārāḥ yāsāṃ tāḥ*; *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. 6-2-106) gives the final-acute of the first member; nominative plural.
+
+### Printed p. 124  (PDF 145)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+*yatamānāḥ* — root *yatī prayatne*; *śānac* in the sense of laṭ, *śap* augment; *āne muk* (Pā. 7-2-82) gives *muk* to a stem in *a*; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* (Pā. 6-1-186) makes it unaccented, and the root-accent remains.
+
+*sūryasya* — root *ṣū gatau* [as printed "ಸೃ ಗತೌ"]; *rājasūyasūrya…* (Pā. 3-1-114) records the form as ending in *kyap*; since the suffix has the marker *p* it is unaccented; genitive singular.
+
+*yanti* — root *iṇ gatau* (Adādi); laṭ third person plural *jhi*; *jhor antaḥ* gives *ant*; *iṇo yaṇ* (Pā. 6-4-81) gives *yaṇ* to the root; since *ca* stands before it, *cavāyoge prathamā* (Pā. 8-1-59) prohibits the *nighāta* accent in the first [verb]; the suffix is acute (? accent as printed: "ಪ್ರತ್ಯಯದ ಆದ್ಯುದಾತ್ತ"); in the second verb there is no prohibition, so the *nighāta* accent applies.
+
+*vahamānāḥ* — root *vaha prāpaṇe*, ubhayapadī; *śānac* in the sense of laṭ, *śap* augment; as before *muk* is added to a stem in *a*, and the *sārvadhātuka* is unaccented since it follows the *upadeśa*, so the root accent remains. ‖ 12 ‖
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> ऋतस्य रश्मिमनुयच्छमाना भद्रंभद्रं क्रतुमस्मासु धेहि ।
+> उषो नो अद्य सुहवा व्युच्छास्मासु रायो मघवत्सु च स्युः ॥ १३ ॥
+
+> *ṛtasya raśmimanuyacchamānā bhadraṃbhadraṃ kratumasmāsu dhehi |*
+> *uṣo no adya suhavā vyucchāsmāsu rāyo maghavatsu ca syuḥ ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> ऋतस्य । रश्मिम् । अनुऽयच्छमाना । भद्रम्ऽभद्रम् । क्रतुम् । अस्मासु । धेहि ।
+> उषः । नः । अद्य । सुऽहवा । वि । उच्छ । अस्मासु । रायः । मघवत्ऽसु । च । स्युः ॥ १३ ॥
+
+> *ṛtasya | raśmim | anu 'yacchamānā | bhadram 'bhadram | kratum | asmāsu | dhehi |*
+> *uṣaḥ | naḥ | adya | su 'havā | vi | uccha | asmāsu | rāyaḥ | maghavat 'su | ca | syuḥ ‖ 13 ‖*
+
+### Printed p. 125  (PDF 146)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे उषः ऋतस्य सत्यभूतादित्यस्य रश्मिं रश्मीननुयच्छमानानुकूल्येन प्रवर्तमाना त्वं भद्रं भद्रं क्रतुं तत्तत्कल्याणं स्तुत्यं वा लौकिकं वैदिकं कर्म तद्विषयां प्रज्ञां वा धेहि । स्थापय । हे उषः नोऽस्मदर्थं सुहवा सुष्ठ्वाहूता सती व्युच्छ । तमो विवासय । प्रकाशं कुर्वित्यर्थः । किमर्थमिति तदुच्यते । मघवत्सु । मघमिति धननाम । हविर्लक्षणधनयुक्तेष्वस्मासु यजमानेषु रायश्च स्युः । बहुविधानि धनानि संभवन्तीति पूर्वोक्तेन क्रतुना सह समुच्चयार्थश्चशब्दः ॥
+
+> *he uṣaḥ ṛtasya satyabhūtādityasya raśmiṃ raśmīnanuyacchamānānukūlyena pravartamānā tvaṃ bhadraṃ bhadraṃ kratuṃ tattatkalyāṇaṃ stutyaṃ vā laukikaṃ vaidikaṃ karma tadviṣayāṃ prajñāṃ vā dhehi | sthāpaya | he uṣaḥ no 'smadarthaṃ suhavā suṣṭhvāhūtā satī vyuccha | tamo vivāsaya | prakāśaṃ kurvityarthaḥ | kimarthamiti taducyate | maghavatsu | maghamiti dhananāma | havirlakṣaṇadhanayukteṣvasmāsu yajamāneṣu rāyaśca syuḥ | bahuvidhāni dhanāni saṃbhavantīti pūrvoktena kratunā saha samuccayārthaścaśabdaḥ ‖*
+
+*(Read from the image; checked against the OCR, which is garbled in several words.)* "O Uṣas, following (*anuyacchamānā*) the ray (*raśmim* — the rays) of the true Āditya (*ṛtasya*) — acting in accord with them — place (*dhehi*, establish) in us each auspicious *kratu*, that is, each auspicious and praiseworthy action, worldly or Vedic, or the wisdom concerned with it. O Uṣas, well invoked for us (*suhavā*), *vi uccha* — dispel the darkness; make light: that is the sense. For what? That is said: *maghavatsu* — *magha* is a name for wealth: in us the sacrificers possessed of wealth in the form of oblations, may *rāyaḥ* (riches) — of many kinds — arise; the word *ca* has the sense of conjunction with the *kratu* mentioned before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *He uṣaḥ* — O goddess Uṣas; *ṛtasya* — of the true (Āditya); *raśmim* — the rays; *anuyacchamānā* — acting in accord with all (you); *bhadraṃ bhadraṃ kratum* — each auspicious action (and the knowledge of it); *asmāsu* — in us; *dhehi* — establish; (*uṣaḥ* — O goddess Uṣas;) *suhavā* — well (with praise) invoked (by us); *naḥ* — for us; *vi uccha* — dispel the darkness; *maghavatsu* — those possessed of wealth in the form of oblations; *asmāsu* — (among us) the sacrificers; *adya* — now; *rāyaḥ ca syuḥ* — may many kinds of wealth arise.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** O goddess Uṣas, directing the rays of Āditya to suit us, make each of (our) auspicious [works] firm; well praised (by us) dispel the darkness for us; grant many kinds of prosperity to the sacrificers who are possessed of oblations and the like.
+
+**Printed English (as printed):** *Co-operating with the rays of the true (sun), confirm in us every propitious act : earnestly invoked by us to-day, disperse, Ushas, (the darkness), that wealth may devolve upon us, (already) affluent (in sacrificial treasures).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 13.**
+
+***ṛtasya — satyabhūtādityasya*** — The word *ṛta* is used in the senses *udaka* (water) (Ni. 2-24, as printed, the OCR agrees), *muhūrta* (a particular division of time) (Ni. 2-25), *satya* or *yajña* (Ni. 4-19)…
+
+### Printed p. 126  (PDF 147)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 123".)*
+
+…thus the word *ṛta* has many meanings; here it is an epithet of the word *Āditya*. It is described that Uṣas follows the ray of the true Āditya and spreads light.
+
+***bhadraṃ bhadraṃ kratuṃ dehi*** [as printed; the bhāṣya reads *dhehi*] — *tattat kalyāṇaṃ stutyaṃ vā laukikaṃ vaidikaṃ karma tadviṣayāṃ prajñāṃ vā sthāpaya.* In the world, skill in carrying out acts related to conduct that is praiseworthy and auspicious in various ways, or proficiency in doing the actions prescribed in the Veda — this Uṣas is prayed to bring about for us.
+
+Yāska records the word *kratu* among the names of *karma* (Ni. 3-2) and among the names of *prajñā* (Ni. 3-13):
+
+> उतस्य वाजी क्षिपणिं तुरण्यति ग्रीवायां बद्धो अपिकक्ष आसनि ।
+> क्रतुं दधिक्रा अनु संतवीत्वत्पथामङ्कांस्यन्वापनीफणत् ॥
+
+> *utasya vājī kṣipaṇiṃ turaṇyati grīvāyāṃ baddho apikakṣa āsani |*
+> *kratuṃ dadhikrā anu saṃtavītvatpathāmaṅkāṃsyanvāpanīphaṇat ‖*
+
+(Ṛ. Saṃ. 4-40-4, as printed "೪-೪೦-೪".) — citing this ṛk he has stated for *kratu* the meaning "action or wisdom". Sāyaṇa too has explained the word *kratu* in both these ways.
+
+***suhavā*** — *suṣṭhu āhūtā*: the sense is that Uṣas is invoked in the sacrifices, in the order prescribed by the Veda, in the proper way.
+
+***vyuccha*** — *tamo vivāsaya, prakāśaṃ kuru.* The root *uchī* conveys "removal" (*vivāsana*, meaning "destroy"), with the prefix *vi*; so Uṣas is prayed to root out the darkness and spread the light exceedingly.
+
+***asmāsu rāyaḥ maghavatsu ca syuḥ*** — by this sentence Uṣas is prayed that to us who perform the sacrifice there may be wealth in the form of oblations, to offer to the various deities, and that the various rites may be completed.
+
+The word *rāyaḥ* and the word *magha* in *maghavatsu* also convey the meaning "wealth", being recorded among the twenty-eight names of wealth (Ni. 3-9, as read by the OCR): "*magham*, *reknaḥ*" and so on.
+
+> परिषद्यं हिरण्यस्य रेक्णो नित्यस्य रायः पतयः स्याम ।
+> न शेषो अग्ने अन्यजातमस्त्यचेतानस्य मा पथो वि दुक्षः ॥
+
+> *pariṣadyaṃ hiraṇyasya rekṇo nityasya rāyaḥ patayaḥ syāma |*
+> *na śeṣo agne anyajātamastyacetānasya mā patho vi dukṣaḥ ‖*
+
+(Ṛ. Saṃ. 7-4-2 [?], as I read the print "೭-೪-೨"; the OCR "2-4-2" is letter-shaped; *hiraṇyasya* as read — the print may be *hairaṇyasya* [?].) In this ṛk, having explained for the word *rāyaḥ* the sense "of wealth, [rāyaḥ = *dhanasya*]",
+
+### Printed p. 127  (PDF 148)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
+
+…and in the ṛk
+
+> इषिरेण ते मनसा सुतस्य भक्षीमहि पित्र्यस्येव रायः ।
+> सोम राजन्प्र ण आयूंषि तारीरहानीव सूर्यो वासराणि ॥
+
+> *iṣireṇa te manasā sutasya bhakṣīmahi pitryasyeva rāyaḥ |*
+> *soma rājanpra ṇa āyūṃṣi tārīrahānīva sūryo vāsarāṇi ‖*
+
+(Ṛ. Saṃ. 8-48-2 [?], as I read the print "೮-೪೮-೨".) — in this ṛk too Yāska has explained for the word *rai* the sense of wealth. Likewise in
+
+> दक्षिणा मघोनी ...
+
+> *dakṣiṇā maghonī ...*
+
+(Ṛ. Saṃ. 2-11-21 as read by the OCR) and
+
+> मानो मघेव निष्ठपी परादाः
+
+> *māno magheva niṣṭhapī parādāḥ*
+
+(Ṛ. Saṃ. 1-104-5 as read by the OCR) — in these ṛks the word *magha* is used with the sense of wealth. Only Sāyaṇa here explains the word *magha* as "wealth in the form of oblations"; by this repetition (*punarukti*) is avoided. *(The Sanskrit of the first quotation is only partly legible in the print: I give what is legible.)*
+
+**Vyākaraṇa-prakriyā (pp. 127–128; noted briefly, numbers as read by the OCR).** *raśmim* — by *vyatyaya* the singular ending for a plural. *anuyacchamānā* — to the root *yam*, when *śānac* comes in the sense of laṭ, *iṣugamiyamāṃ chaḥ* (Pā. 7-3-77) gives the substitute *cha* for the root; *āne muk* (Pā. 7-2-82) gives *muk* to a stem in *a*; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* (Pā. 6-1-186) makes it unaccented and the root-accent remains; in the kṛt-compound with *uttarapada* the natural accent arises; in the feminine *ṭāp*, since it ends in *a*; nominative singular. *bhadraṃ bhadram* — *nityavīpsayoḥ* (Pā. 8-1-4) gives doubling; since the latter has the designation *āmreḍita*, *anudāttaṃ ca* (Pā. 8-1-3) gives it the all-unaccented accent. *dhehi* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; loṭ second person singular, *sip* replaced by *hi*, *śnu*-augment (*śluḥ*) [as printed "ಶ್ಲು ವಿಕರಣ"]; taking that as its cause the root is doubled; *snasor allopaḥ* — the elision of the reduplicative syllable and the change of the root's *ā* to *e* (*ghvasor eddhāv abhyāsalopaś ca*, Pā. 6-4-119); since it follows a non-verb word, the *nighāta* accent. *suhavā* — *śobhanaṃ havaḥ yasyāḥ sā suhavā*; the root *hvaiñ spardhāyāṃ śabde ca*; *bhāve 'nupasargasya* (Pā. 3-3-75) gives the suffix *ap* in the sense of the action… *(page ends; continues on p. 128)*
+
+---
+
+**Progress note:** Sūkta 123 through printed p. 127 (PDF 148): Ṛk 13 Special Topics and grammar (*suhavā*) in progress; resume p. 128 (PDF 149) — grammar of Ṛk 13 continues, then Ṛk 14 etc.; Sūkta 124 starts at printed p. 128.
