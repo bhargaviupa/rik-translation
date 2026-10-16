@@ -15987,4 +15987,68 @@ By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*l
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 9 (the last of Sūkta 135) written through the printed English (p. 661; its Special Topics and grammar follow, then the Kannada closing line); resume p. 662 (PDF 683; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 662  (PDF 683)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 9).**
+
+Here, describing the strength of Vāyu's horses, [the ṛṣi] makes the invitation to come and drink Soma, mounted on such horses, whose carrying power is great. The words *ukṣaṇaḥ* and the like are epithets that describe the nature of the horses.
+
+***ukṣaṇaḥ*** — this word is repeated. Though it is explained twice, the sense is one. The first time it is explained as *sektāraḥ* ("sprinklers") and *yuvānaḥ*: "young, having the ability to sprinkle [semen]" is the meaning, and it comes from the root *ukṣ*, which gives the meaning "to sprinkle". Probably the word is also an epithet of the deities who bestow the desired objects on their devotees. The author of the Nirukta placed the word *ukṣan* among the names of *mahat* ("great") (Ni. 3-[?], as read "೩-೧೪" [?]). And:
+
+> घृतसक्त्र [?] इन्द्र उक्षणः प्रियं काचित्करं हविर्विश्वस्मादिन्द्र उत्तरः ॥
+
+> *ghṛtasaktra [?] indra ukṣaṇaḥ priyaṃ kācitkaraṃ havir viśvasmād indra uttaraḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೮೬-೧೫" [?]; the quotation is doubtful in the first words [?].) Quoting this Ṛk, in explaining the word *ukṣaṇaḥ* used there, [Yāska] says *ukṣaṇa ukṣateḥ vṛddhikarmaṇaḥ ukṣanty udakeneti vā* (Ni. 5-[?], as read "೫-೯೪" [?]) — "from the root *ukṣ*, which gives the sense of increase, or *ukṣanti* by water" — so in that context he gives the meaning "growth, as by water". Ordinarily the word is used only in contexts that show strength and capacity. In the sense of capacity to sprinkle, it has the same purport. As in the Ṛk under discussion,
+
+> ते जज्ञिरे दिव ऋष्वास उक्षणो रुद्रस्य मर्या असुरा अरेपसः ।
+
+> *te jajñire diva ṛṣvāsa ukṣaṇo rudrasya maryā asurā arepasaḥ |*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೬೪-೨" [?].)
+
+> शृण्वन्तमग्निं घृतपृष्ठमुक्षणं प्रणयन्तं देवं प्रणते सुवीर्यम् ।
+
+> *śṛṇvantam agniṃ ghṛtapṛṣṭham ukṣaṇaṃ praṇayantaṃ devaṃ praṇate suvīryam |*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೧೩೩-೪" [?]; doubtful [?].) In Ṛks like these also, in the word *ukṣaṇa*, the sense is "sprinkling": since the sense relates to the power of sprinkling, Sāyaṇa explains it as *yuvānaḥ* ("young"). In the Ṛk under discussion, as well, he explains the first word as *yuvānaḥ* and the second as "like bulls that have the ability to sprinkle".
+
+***vrādhantaḥ*** — *vardhamānāḥ*: "growing, increasing". The word *vrādhan* is among the names of *mahat* ("great"); it means "one who is excessively great". This epithet is used also as a synonym of an enemy who possesses abundant strength, a matter of praise. For example,
+
+> स व्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः ।
+> विश्वस्पराति [?] र्योति वाळ्हसृत्वा विश्वासु पृत्सु सदमिच्छूरः ॥
+
+> *sa vrādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ |*
+> *viśvasparātir yoti vāḷhasṛtvā viśvāsu pṛtsu sadam ic chūraḥ ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೩೩-೧೦" [?]; the quotation is partly doubtful [?].)
+
+### Printed p. 663  (PDF 684)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+In this the meaning of the word is "violent, [even those who] cause harm": *himsakān mahataḥ api* — the sense of "enemies that are very strong". Likewise:
+
+> शत्रूयन्तो अभि ये नस्तस्रे मह्ना व्राधन्त ओगणास इन्द्र ।
+> अन्धेनामित्रास्तमसा सचन्तां सुज्योतिषो अक्तवस्ताँ अभि ष्युः ॥
+
+> *śatrūyanto abhi ye nas tatsre mahnā vrādhanta ogaṇāsa indra |*
+> *andhenāmitrās tamasā sacantāṃ sujyotiṣo aktavas tāṁ abhi ṣyuḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೮೪-೧೫" [?]; the first line is doubtful in places [?].) Here too *vrādhantaḥ* means "*asmān bādhamānāḥ*": "those who harm us exceedingly". In the present Ṛk it is an epithet describing the horses' prowess and their growing, [increasing] valour.
+
+***dhanvan cit*** — *dhanvani udakanirgamanāpādānabhūte 'ntarikṣe 'pi nirālambe*: "even in the empty sky, without support": the word *dhanva* is also among the names of *antarikṣa*: *ambaram, viyat, vyoma* and so on, in the list of *antarikṣa* names (Ni. 1-[?], as read "೧-೧೦" [?]). *Dhanvāntarikṣaṃ dhanvanty asmād āpaḥ* — "water runs from it; therefore it is called *dhanva*". The author of the Nirukta, citing:
+
+> यः परस्याः परावतस्तिरो धन्वातिरोचते । स नः पर्षदति द्विषः ॥
+
+> *yaḥ parasyāḥ parāvatas tiro dhanvātirocate | sa naḥ parṣad ati dviṣaḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೬೨-೩" [?].) — has explained, in a sentence, the derivation of the word *dhanva*, as said above.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 9; grammar pages, noted briefly; numbers as printed).** *bāhvojasaḥ* — *bāhuṣu ojo yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 [as read]) gives the earlier member its own accent; the *u* [of *bāhu*] becomes udātta; in place of the udātta, *yaṇ* comes, and the following [vowel] is *anudātta*; by *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* (Pā. 8-2-4 [as read]) the *svarita* accent comes. *patayanti* — root *pata gatau*, *curādi*; by *satyāpapāśa…* (Pā. 3-1-25 [as read]) *ṇic* in its own sense; *aceḥ parasmin pūrvavidhau* (Pā. 1-1-57 [as read]) — since *ṇi*-lopa is *sthānivat*, the lengthening of the penultimate does not occur; *laṭ*, third person plural; since it is connected with *yat* [as read], there is no *nighāta*; the accent of *ṇic* remains. *ukṣaṇaḥ* — root *ukṣa secane*; *śvanukṣan…* (Uṇ. 1-[?], as read "೧-೧೫೭" [?]) gives *kanin* [as read: *kasi*]; the suffix's ādyudātta accent; since *jas* follows, *vā ṣapūrvasya nigame* (Pā. 6-4-9 [as read]) — the lengthening of the penultimate does not occur.
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 9 (the last of Sūkta 135) written through p. 663 (Special Topics complete; grammar through *ukṣaṇaḥ*, the rest of the grammar and the closing line follow); resume p. 664 (PDF 685; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
