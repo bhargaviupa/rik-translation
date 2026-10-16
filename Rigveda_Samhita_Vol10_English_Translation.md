@@ -8400,4 +8400,142 @@ The word ***parāvataḥ*** is recorded among the five names of "far" (Ni. 3-20 
 
 ---
 
-**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 331 (PDF 352): Ṛks 1 complete; Ṛk 2 complete except the grammar page, which was begun (*yajñasādham*, *vātayāmasi* …); resume p. 332 (PDF 353) with the rest of the Ṛk 2 grammar, then Ṛk 3. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya; the Yajus quotation on p. 330; OCR reference-number lines missing for pp. 249–331.
+### Printed p. 332  (PDF 353)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+*(Grammar of Ṛk 2, continued; numbers as printed, noted briefly.)* *vātayāmasi* (cont.) — guṇa and *ayādeśa* because of the *śap* (*ṇic*) ending; *idanto masiḥ* (Pā. 7-1-46) gives the augment *iṭ* to the suffix; *tiṅ-nighāta* since it follows a non-finite word. *pathā* — the stem *pathin*; when the instrumental singular follows, *bhasyāṭ ṭelopaḥ* (Pā. 7-1-88 [?]) elides the *ṭi*; *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161) gives the acute to the ending. *devatātā* — *sarvadevāt tātil* (Pā. 4-4-142 [?]) gives *tātil*; *liti* (Pā. 6-1-193) gives the acute on the syllable before the suffix; *supāṃ sulug* (Pā. 7-1-39) gives *ā* in place of the locative ending; likewise in *haviṣmatā*, the locative ending becomes *ā*. *ūrjām* — *ūrk* is a name for food; genitive plural; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute on the ending. *upābhṛtyā* — *upa* and *ā* are preverbs; root *hṛñ haraṇe*; *striyāṃ kriṇ* (Pā. 3-3-94 [?]) gives the suffix *kriṇ*; since *k*-marked no guṇa; *gṛhor bhaś chandasi* gives *bh* for the root's *h*; the following locative ending drops by *supāṃ sulug…* (Pā. 7-1-39); *tāddhe ceti* [as read: "*tādau ca niti*"] (Pā. 6-2-50) gives the preverb (*ā*) its own accent; *gatir gatau* (Pā. 8-1-70) gives the earlier preverb (*upa*) the *anudātta*. *āyā* — the form *anayā*, with the Vedic loss of the letter *n*. *jūryati* — root *jṝṣ vayohānau*, *divādi*, *laṭ* third person singular, *tip*, *śyan*; *bahulaṃ chandasi* gives *u* in place of the root-vowel with *rapara*; *hali ca* lengthens the penult; *tiṅ-nighāta*. *bhāḥ* — root *bhā dīptau*; *luṅ* third person singular, *sip* by *vyatyaya*; *itaś ca* drops *i*; *luk* for *śap*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75) — no augment *aṭ*; because of *yad* no *nighāta*; the final-acute of the root remains; the *s* of the suffix becomes *ru*, visarga. ‖ 2 ‖
+
+***(ornamental rule)***
+
+### Printed p. 333  (PDF 354)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> एवेन सद्यः पर्येति पार्थिवं मुहुर्गीरेतो वृषभः कनिक्रदत् ।
+> दधद्रेतः कनिक्रदत् ।
+> शतं चक्षाणो अक्षभिर्देवो वनेषु तुर्वणिः ।
+> सदो दधान उपरेषु सानुष्वग्निः परेषु सानुषु ॥ ३ ॥
+
+> *evena sadyaḥ paryeti pārthivaṃ muhurgīreto vṛṣabhaḥ kanikradat |*
+> *dadhadretaḥ kanikradat |*
+> *śataṃ cakṣāṇo akṣabhirdevo vaneṣu turvaṇiḥ |*
+> *sado dadhāna upareṣu sānuṣvagniḥ pareṣu sānuṣu ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> एवेन । सद्यः । परि । एति । पार्थिवम् । मुहुःऽगीः । रेतः । वृषभः । कनिक्रदत् ।
+> दधत् । रेतः । कनिक्रदत् ।
+> शतम् । चक्षाणः । अक्षऽभिः । देवः । वनेषु । तुर्वणिः ।
+> सदः । दधानः । उपरेषु । सानुषु । अग्निः । परेषु । सानुषु ॥ ३ ॥
+
+> *evena | sadyaḥ | pari | eti | pārthivam | muhuḥ 'gīḥ | retaḥ | vṛṣabhaḥ | kanikradat |*
+> *dadhat | retaḥ | kanikradat |*
+> *śatam | cakṣāṇaḥ | akṣa 'bhiḥ | devaḥ | vaneṣu | turvaṇiḥ |*
+> *sadaḥ | dadhānaḥ | upareṣu | sānuṣu | agniḥ | pareṣu | sānuṣu ‖ 3 ‖*
+
+*(Read from the image. In the Saṃhitā the first line ends "…vṛṣabhaḥ" and the second begins "kanikradad dadhadretaḥ…"; the Pada gives *muhuḥ-gīḥ*.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अयमग्निरेवेन गमनसाधनेन गमनेन वा सद्योऽस्मदाह्वानानन्तरं पार्थिवं पृथिवीसम्बन्धि स्थानं वेदिलक्षणमेव परि परितः । यद्वा । अनर्थक अभिमुख्यार्थो वा परि । एति । गच्छति । कीदृशोऽग्निः । मुहुर्गीः सर्वदा गीयमानः । रेतःशब्देन तत्कार्यं हविरूपमन्नमुच्यते । तद्वान् ॥ मत्वर्थीयो लुप्यते ॥ वृषभः कामानां वर्षिता कनिक्रदत् शब्दयन् पर्येति । पुनः स एव विशेष्यते । रेतो दधदाज्यादिस्वीकारेणात्यधिकं सामर्थ्यं दधानः कनिक्रदत् शब्दयन् पर्येतीति शेषः । पुनः स एव विशेष्यते । अयमग्निर्देवो वनेषु सम्भजनेषु स्तोत्रेषु निमित्तभूतेष्वक्षस्थानीयाभिर्ज्वालाभिः शतं चक्षाणः सर्वतः प्रकाशमानः । यद्वा । ज्वालोत्कर्षेण यजमानेन कृतं शतगुणितं प्रख्यापयन् । तथा तुर्वणिः शीघ्रगन्ता शत्रूणां हिंसको वा । तुर्वणिस्त्वर्वणिरिति यास्कः । नि. ६-१४ [?] । किंच सानुषु समुच्छ्रितेषु । सानु समुच्छ्रितं भवतीति यास्कः । नि. २-३१ [?] । तेष्वपरेषु । उपरमन्त इत्युपरा [?]
+
+> *ayamagnirevena gamanasādhanena gamanena vā sadyo 'smadāhvānānantaraṃ pārthivaṃ pṛthivīsambandhi sthānaṃ vedilakṣaṇameva pari paritaḥ | yadvā | anarthaka abhimukhyārtho vā pari | eti | gacchati | kīdṛśo 'gniḥ | muhurgīḥ sarvadā gīyamānaḥ | retaḥśabdena tatkāryaṃ havirūpamannamucyate | tadvān ‖ matvarthīyo lupyate ‖ vṛṣabhaḥ kāmānāṃ varṣitā kanikradat śabdayan paryeti | punaḥ sa eva viśeṣyate | reto dadhadājyādisvīkāreṇātyadhikaṃ sāmarthyaṃ dadhānaḥ kanikradat śabdayan paryetīti śeṣaḥ | punaḥ sa eva viśeṣyate | ayamagnirdevo vaneṣu sambhajaneṣu stotreṣu nimittabhūteṣvakṣasthānīyābhirjvālābhiḥ śataṃ cakṣāṇaḥ sarvataḥ prakāśamānaḥ | yadvā | jvālotkarṣeṇa yajamānena kṛtaṃ śataguṇitaṃ prakhyāpayan | tathā turvaṇiḥ śīghragantā śatrūṇāṃ hiṃsako vā | turvaṇistvarvaṇiriti yāskaḥ | ni. 6-14 [?] | kiṃca sānuṣu samucchriteṣu | sānu samucchritaṃ bhavatīti yāskaḥ | ni. 2-31 [?] | teṣvapareṣu | uparamanta ityuparā [?]*
+
+*(Read from the image; the page runs on at the foot with the small type "*teṣūpareṣu | uparamanta ity upara…*", a passage on the etymology of *upara*, which I give only as far as legible: [?].)*
+
+### Printed p. 334  (PDF 355)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+> सदो दधानः स्थानं धारयमानोऽग्निः सद्यः पर्येतीति पूर्वत्रान्वयः । किमर्थम् । परेषूत्कृष्टेषु सानुषु समुच्छ्रितेषु कर्मसु हवीःषु वा निमित्तभूतेषु ॥
+
+> *sado dadhānaḥ sthānaṃ dhārayamāno 'gniḥ sadyaḥ paryetīti pūrvatrānvayaḥ | kimartham | pareṣūtkṛṣṭeṣu sānuṣu samucchriteṣu karmasu havīḥṣu vā nimittabhūteṣu ‖*
+
+*(Read from the image; "*dadhānaḥ… pūrvatrānvayaḥ*" connects with the earlier clause: "Agni, holding his seat, comes at once". For what? for the sake of the highest exalted rites or oblations.)* Sense: "This Agni comes at once, soon after our invocation, by his *eva* (his way of going, or going), to the earth-place, the altar, all around — or the particle *pari* is without meaning or has the sense 'facing'; *eti* — goes. What kind of Agni? *muhurgīḥ* — constantly sung; the word *retas* here means the oblation-food that is its product — [Agni is] 'possessing that' (the possessive suffix is dropped); *vṛṣabhaḥ* — the showerer of desires; *kanikradat* — sounding, comes round. Again, the same Agni, bearing great power (*retas*) through accepting ghee etc., roaring, comes. Again: this god Agni, among the praises (*vaneṣu*) that are the occasion of worship, with flames like eyes (*akṣa*) *śataṃ cakṣāṇaḥ* — shining on all sides, or making known the sacrifice performed by the sacrificer as a hundred-fold through the greatness of his flames; swift-going (*turvaṇiḥ*) or destroyer of enemies — 'Yāska: *turvaṇiḥ* is *tvarvaṇiḥ*' [as read: Ni. 6-14 [?]]; and *sānuṣu* — in the high places — 'Yāska: *sānu* is "elevated"' [Ni. 2-31 [?]] — in the lower (*upareṣu*) ones…"
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *muhurgīḥ* — ever praised; *vṛṣabhaḥ* — showerer of desires; *retaḥ* — endowed with food in the form of oblation; *kanikradat* — the roaring Agni; *evena* — by going; *sadyaḥ* — immediately after our invocation; *pārthivam* — belonging to the earth (the altar-ground); *pari eti* — comes facing; *retaḥ dadhat* — bearing strength (by accepting ghee etc.); *kanikradat* — roaring (greatly); *(pari eti* — comes facing); *agniḥ devaḥ* — the god Agni; *vaneṣu* — when praises are used; *akṣabhiḥ* — by flames in the form of eyes; *śataṃ cakṣāṇaḥ* — shining well (making the sacrifice done by the sacrificer known a hundred-fold); *turvaṇiḥ* — destroyer of enemies (swift-going); *sānuṣu* — in the raised; *upareṣu* — in the altar-grounds (in the houses of the sacrificers); *sadaḥ dadhānaḥ* — taking his place; *pareṣu* — in the excellent; *sānuṣu* — in the rites (turning to the rites); *(pari eti* — comes facing).
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, ever praised, rich in oblations, showerer of what is desired and full of sound, comes directly after our invocation to this earthly altar, powerful by acceptance of the oblations, roaring greatly; and this Agni, praised, blazing greatly with his flames (making the sacrificer's work a hundred-fold famed), slaying enemies (swift), taking his place on the exalted altar-grounds, comes to the excellent rites.
+
+**Printed English (heading "English Translation"; as printed):** *"Agni, who is ever to be hymned, the giver of food, the showerer (of benefits), comes immediately (upon our invocation), in approach to (the altar of) earth, loud-sounding, vigorous, and loud-sounding: the rapid and divine (Agni, incited by praise), manifests himself a hundred-fold by his flames; Agni, having his abode in high places, (comes quickly) to pious rites."*
+
+### Printed p. 335  (PDF 356)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 15 [as read].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 3).**
+
+***evena*** — *paryeti gamanasādhanena gamanena vā paritaḥ | yadvā anarthaka abhimukhyārtho vā pari eti gacchati*. The Niruktakāra says that the particles in the mantras bound by metre are meaningless (*anarthakāḥ*; as read in small type, *mitākṣarepy anarthakāḥ* [?]); the Vṛttikāra explains "*nipātaḥ pādapūraṇaḥ*", that the indeclinable is a filler of the foot. Following this Sāyaṇa gives two kinds of meaning to the indeclinable *pari* in *pari + eti*: "meaningless", or "facing". Since the word *eva* is formed from the root *iṇ gatau* he explains *evena* as "by going".
+
+When Agni comes to the place of sacrifice, whether by means of a conveyance for going or on foot, he comes and takes up a position facing the sacrificer at the altar: so the meaning.
+
+The Niruktakāra says that *eva* and *evam* are particles; the word *evaḥ*, with the case-endings of nouns, alone conveys the meanings "going" and the like. —
+
+> विश्वानरस्य वस्तिमनानतस्य शवसः ।
+> एवैश्च चर्षणीनामूती हुवे रथानाम् ॥
+
+> *viśvānarasya vastim anānatasya śavasaḥ |*
+> *evaiś ca carṣaṇīnām ūtī huve rathānām ‖*
+
+(Ṛ. Saṃ. 6-[?]-4, as read; numerals doubtful. The first word is printed "viśvānarasya", not "vaiśvānarasya" — as printed: [sic?].) Here he explains *evaiḥ* as *kāmyair ayanair avanair vā* (Ni. 12-22 [?]). Durgācārya explains: *kāmyaiḥ ayanaiḥ, avanaiḥ gamanaiḥ* — "by the desired goings (or: protections), the goings". By this too Sāyaṇa's explanation of *evena* is confirmed.
+
+The words *retaḥ kanikradat* are used twice. For the first *retaḥ* he gives, *tatkāryaṃ haviḥrūpam annam ucyate tadvān*: since the word *retas* is recorded among the hundred-and-one names of water (Ni. 1-[?]; as read "೧-೧೨"? [?]) it conveys the sense "water"; the grain and the like, produced by water, are used in the form of oblations; so they are results of *retas*; it is described thus; and Agni is "the possessor of food in the form of oblation".
+
+For the second *retas*, the first meaning is explained again: since ghee and the like are oblations, by offering ghee and the like as oblations Agni accepts them and possesses extraordinary strength: so the meaning.
+
+***kanikradat*** — *śabdayan paryeti*: because Agni accepts the oblation, he comes making a loud sound — i.e. there is a crackling sound when Agni burns.
+
+### Printed p. 336  (PDF 357)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 128".)*
+
+> कनिक्रदज्ज्ञनुषं [?] प्रब्रुवाण इयर्ति वाचमरितेव नावम् ।
+> सुमङ्गलश्च शकुने भवासि मा त्वा का चिदभिभा विश्व्या [?] विदत् ॥
+
+> *kanikradaj-jñanuṣaṃ [?] prabruvāṇa iyarti vācam ariteva nāvam |*
+> *sumaṅgalaś ca śakune bhavāsi mā tvā kā cid abhibhā viśvyā [?] vidat ‖*
+
+(Ṛ. Saṃ. 2-43-1, as printed; the first word and the last words are doubtful in my reading: [?].) In this Ṛk the Vṛttikāra explains the word *kanikradat* as *punaḥ punaḥ bhṛśaṃ vā akradat*, and Sāyaṇa's meaning is explained.
+
+***vṛṣabhaḥ*** — *kāmānāṃ varṣitā*: "Agni is the fulfiller of the desires of the sacrificers": so the meaning. The Niruktakāra gives the meaning of the word *vṛṣabha* and illustrates it: *prajāṃ varṣatīti vā bṛhati reta iti vā tat vṛṣakarmā varṣaṇāt vṛṣabhaḥ* [as read; small type: [?]] — this is the Niruktakāra's etymology; the Vṛttikāra explains: "the emission of semen, which is the cause of offspring, and the free use of his body for the sake of seminal emission — *vṛṣakarma*"; *vṛṣaṇāt retovarṣaṇāt* — "from the pouring out of semen, a *vṛṣabha* (bull)": the meaning of the word *vṛṣabha* is explained so. Here Agni is called *vṛṣabha* from performing only the act of "raining" (*varṣaṇa*). The word *vṛṣabha* is used in the Nirukta in another sense as well. —
+
+> मरुत्वाँ इन्द्र वृषभो रणाय पिबा सोमं अनुष्वधं [?] मदाय ।
+> आ सिञ्चस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानाम् ॥
+
+> *marutvām̐ indra vṛṣabho raṇāya pibā somam anuṣvadhaṃ [?] madāya |*
+> *ā siñcasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānām ‖*
+
+(Ṛ. Saṃ. 3-32-1, as printed "೩-೩೨-೧".) Here *vṛṣabhaḥ* is explained as *varṣitā apām* — "the one who rains the waters". In the same way —
+
+> प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
+> वैश्वानरो दस्युमग्निर्जघन्वाँ अधूनोत्काष्ठा अव शम्बरं भेत् ॥
+
+> *pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |*
+> *vaiśvānaro dasyum agnir jaghanvām̐ adhūnot kāṣṭhā ava śambaraṃ bhet ‖*
+
+(Ṛ. Saṃ. 1-59-6, as printed.) — here too *vṛṣabhasya* is explained as *varṣituḥ apām*, "of the rainer of the waters, of one who sends rain".
+
+***devaḥ vaneṣu akṣabhiḥ śataṃ cakṣāṇaḥ*** — *sambhajaneṣu stotreṣu nimittabhūteṣu akṣasthānīyābhir jvālābhiḥ sarvataḥ prakāśamānaḥ | yadvā | jvālotkarṣeṇa yajamānena kṛtaṃ śataguṇitaṃ prakhyāpayan*: "Agni, when the praise-hymns are recited by the sacrificers, shines on all sides by his flames, suitable for filling every direction with light; or by the greatness of his flames he declares that what the sacrificers have offered him is a hundred-fold": so he explains.
+
+The Niruktakāra explains the word *akṣa* — *aśnoter ity eke* ("some say from *aś*, to pervade"): the word *akṣa* is formed from the root *aś* of the sense "to pervade": the meaning "pervading" is stated. And —
+
+> अनूपे गोमान् गोभिरक्षाः सोमो दुग्धाभिरक्षाः ।
+
+> *anūpe gomān gobhir akṣāḥ somo dugdhābhir akṣāḥ |*
+
+(Ṛ. Saṃ. 9-107-[?], as printed: the numerals "೯-೧೦೭" and the *pāda* are small and doubtful: [?].) and —
+
+> न यस्य द्यावापृथिवी न धन्व नान्तरिक्षं नाद्रयः सोमो अक्षाः । [?]
+
+> *na yasya dyāvāpṛthivī na dhanva nāntarikṣaṃ nādrayaḥ somo akṣāḥ [?]*
+
+(Ṛ. Saṃ. [?]; as read from the OCR. **The passage is cut off at the page end and small-type letters are doubtful; the quotation is not claimed: [?].**)
+
+---
+
+**Progress note:** Sūkta 128 (*ayaṃ jāyata*, 8 ṛks, Paruccheṣa, Agni, Atyaṣṭi; Anuvāka 19; printed pp. 321–363) through printed p. 336 (PDF 357): Ṛks 1–2 complete (‖ 2 ‖); Ṛk 3 Saṃhitā…English done, Special Topics begun (through the *akṣa* quotations at the foot of p. 336); resume p. 337 (PDF 358) with the rest of the Ṛk 3 Special Topics and the grammar. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; the Yajus quotation on p. 330 and the quotations on pp. 333, 336; OCR reference-number lines missing for pp. 249–336.
