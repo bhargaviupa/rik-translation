@@ -3591,4 +3591,184 @@ In this ṛk a kind of sadness is mixed with the joy. By describing the beauty a
 
 ---
 
-**Progress note:** Sūkta 124 through printed p. 140 (PDF 161): Ṛk 2 complete (‖ 2 ‖); resume p. 141 (PDF 162) with Ṛk 3 Saṃhitā.
+### Printed p. 141  (PDF 162)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> एषा दिवो दुहिता प्रत्यदर्शि ज्योतिर्वसाना समना पुरस्तात् ।
+> ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ॥ ३ ॥
+
+> *eṣā divo duhitā pratyadarśi jyotirvasānā samanā purastāt |*
+> *ṛtasya panthāmanveti sādhu prajānatīva na diśo mināti ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> एषा । दिवः । दुहिता । प्रति । अदर्शि । ज्योतिः । वसाना । समना । पुरस्तात् ।
+> ऋतस्य । पन्थाम् । अनु । एति । साधु । प्रजानतीऽइव । न । दिशः । मिनाति ॥ ३ ॥
+
+> *eṣā | divaḥ | duhitā | prati | adarśi | jyotiḥ | vasānā | samanā | purastāt |*
+> *ṛtasya | panthām | anu | eti | sādhu | prajānatī 'iva | na | diśaḥ | mināti ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> एषोषा दिवो द्योतमानात्मकस्य द्युलोकस्य दुहिता दुहितृस्थानीया । तत उत्पद्यमानत्वाद्दुहितेत्युपचर्यते । पुरस्तात्पूर्वस्यां दिशि प्रति प्रत्येकमदर्शि । दृश्यते । सर्वेषामपि प्राणिनामाभिमुख्येन प्रकाशत इत्यर्थः । कीदृशी सा । ज्योतिर्वसाना तेजोरूपं वस्त्रमाच्छादयन्ती तेजसा प्रकाशयन्ती समना सम्यगानयित्री चेष्टयित्री । अन्तर्भावितण्यर्थोऽयम् । यद्वा । सह युगपदेव मन्यतेऽवबुध्यते प्राणिभिरिति समना । व्युत्पत्त्यन्तरावधारणादनवग्रहः । सा तादृशी ऋतस्यादित्यस्य पन्थां पन्थानं मेरोः प्रान्तप्रदेशमनुक्रमेण साधु सम्यगेति । गच्छति । सूर्यो यत्र यत्र गच्छति तत्र तत्र पुरस्तादुषा अपि गच्छतीत्यर्थः । सैव विशेष्यते । प्रजानतीव प्रियभूतस्य सूर्यस्य मार्गो मयापि गन्तव्य इति चेतयन्तीव । यथा लोके प्रियस्यानुरागायुक्ता काचिद्भर्तारं सर्वास्ववस्थासु न विमुञ्चति तथेयमपीत्यर्थः । किंच दिशः प्राच्यादिका न मिनाति । न हिनस्ति । किंतूषा यत्र गच्छति सा प्राचीत्येवं प्राच्यादिव्यवहारं करोतीत्यर्थः ॥
+
+> *eṣoṣā divo dyotamānātmakasya dyulokasya duhitā duhitṛsthānīyā | tata utpadyamānatvādduhitetyupacaryate | purastātpūrvasyāṃ diśi prati pratyekamadarśi | dṛśyate | sarveṣāmapi prāṇināmābhimukhyena prakāśata ityarthaḥ | kīdṛśī sā | jyotirvasānā tejorūpaṃ vastramācchādayantī tejasā prakāśayantī samanā samyagānayitrī ceṣṭayitrī | antarbhāvitaṇyartho 'yam | yadvā | saha yugapadeva manyate 'vabudhyate prāṇibhiriti samanā | vyutpattyantarāvadhāraṇādanavagrahaḥ | sā tādṛśī ṛtasyādityasya panthāṃ panthānaṃ meroḥ prāntapradeśamanukrameṇa sādhu samyageti | gacchati | sūryo yatra yatra gacchati tatra tatra purastāduṣā api gacchatītyarthaḥ | saiva viśeṣyate | prajānatīva priyabhūtasya sūryasya mārgo mayāpi gantavya iti cetayantīva | yathā loke priyasyānurāgāyuktā kācidbhartāraṃ sarvāsvavasthāsu na vimuñcati tatheyamapītyarthaḥ | kiṃca diśaḥ prācyādikā na mināti | na hinasti | kiṃtūṣā yatra gacchati sā prācītyevaṃ prācyādivyavahāraṃ karotītyarthaḥ ‖*
+
+*(Read from the image; checked against the OCR, whose Devanagari is garbled in the second half. A few small words — "meroḥ prāntapradeśam", "anavagrahaḥ" — are given as I read them.)* "This Uṣas is the *duhitā* — in the position of a daughter — of *divaḥ* — the shining heaven; since she arises from it she is figuratively called 'daughter'. *Purastāt* — in the eastern quarter — she is *pratyadarśi*, 'seen each one by one'; that is, she shines before the face of all living beings. What is she like? *Jyotir vasānā* — clothing herself in a garment of radiance, making things shine with brightness; *samanā* — she who well leads, who makes [beings] active (the verb *ana* here has the causative sense included); or else *samanā* — she whom living beings know, apprehend together, simultaneously; this is a derivation for which no break (*avagraha*) is given. Such a one follows well (*sādhu*) the path (*panthām*) of *ṛta*, i.e. of the Āditya — the border regions of Meru — in order; wherever the Sun goes, there Uṣas also goes in front: that is the sense. She is further described: *prajānatīva* — as if reflecting 'the path of the beloved Sun must be gone along by me too'. As in the world a woman full of love does not leave her husband in any condition, so this one: that is the sense. And *na dišo minā​ti* — she does not injure the quarters, east and the others; but where Uṣas goes, that is 'east' — thus she gives rise to the usage 'east' and so on."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Eṣā* — this; *divaḥ* — of the world of the atmosphere (heaven); *duhitā* — in the position of a daughter, the goddess Uṣas; *jyotirvasānā* — wearing a garment of light; *samanā* — [she who] makes beings well engaged in their various occupations (or [she who] shows herself to all beings at one time); *purastāt* — in the eastern quarter; *prati adarśi* — is seen one by one; (*sā* — she); *ṛtasya* — of the Āditya; *panthām* — the path (the way); *prajānatī iva* — like a woman who has understood that she must follow in all circumstances the way of her beloved; *sādhu* — well; *eti* — goes (follows); (*kiṃca* — and); *diśaḥ* — the quarters, east and others; *na minā​ti* — does not harm (does not destroy).
+
+### Printed p. 142  (PDF 163)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha.** The goddess Uṣas, in the form of the daughter of heaven, wearing a garment of light, showing herself at one time (to all beings), rises in the eastern quarter; as a woman who knows that she must follow the path of her beloved, she follows well the path of Āditya; (when she thus follows) she does not obstruct the (affairs of living beings) of the quarters.
+
+**Printed English (as printed):** *She, the daughter of heaven, is beheld in the east, gracious and arrayed in light : she travels steadily along the path of the sun, as if cognizant (of his pleasure), and damages not the quarters (of the horizon).*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 3.**
+
+In this ṛk it is described how Uṣas, the daughter of heaven, follows the path of *ṛta* and moves in a fixed course. One must consider what the "path of *ṛta*" is. Here the word *ṛta* is explained as "Āditya". Therefore scholars hold that "the path of *ṛta*" may be the zodiac (*rāśicakra*). [The following English is printed as such:]
+
+> *"When, in the Rig-veda, the fixed Path of Rita unerringly followed by the Devas (originally the shining ones or the luminaries) is spoken of in the Rig-veda it should, in my opinion, naturally mean Zodiac or the imaginary belt or Zone in the heavens, within which the apparent motions of the Sun, moon and the Principal Planet or Devas are confined."*
+
+(A. B. O. R. I.) *(as printed, with the source abbreviation.)* That there is some truth in this explanation is helped by the description in the ṛk which is cited below.
+
+### Printed p. 143  (PDF 164)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+> द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।
+> आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः ॥
+
+> *dvādaśāraṃ nahi tajjarāya varvarti cakraṃ pari dyāmṛtasya |*
+> *ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ ‖*
+
+(Ṛ. Saṃ. 1-164-11, as printed "೧-೧೬೪-೧೧".) The wheel of *ṛta* has twelve spokes; that wheel revolves around the sky; and on this wheel's path seven hundred and twenty sons stand in pairs — this is the purport of this ṛk. Probably in this description the twelve months and the three hundred and sixty days and nights are indicated.
+
+> वेद मासो धृतव्रतो द्वादश प्रजावतः । वेदा य उपजायते ॥
+
+> *veda māso dhṛtavrato dvādaśa prajāvataḥ | vedā ya upajāyate ‖*
+
+(Ṛ. Saṃ. 1-25-8, as read from the print "೧-೨೫-೮".) — as is said in this ṛk, it may also be said that the 360 days and nights are the offspring of these twelve months.
+
+The ṛks cited below, which describe the goddess Uṣas and her path of movement, make us acquainted with the path of *ṛta*.
+
+> ता आ चरन्ति समना पुरस्तात्समानतः समना पप्रथानाः ।
+> ऋतस्य देवीः सदसो बुधाना गवां न सर्गा उषसो जरन्ते ॥
+
+> *tā ā caranti samanā purastātsamānataḥ samanā paprathānāḥ |*
+> *ṛtasya devīḥ sadaso budhānā gavāṃ na sargā uṣaso jarante ‖*
+
+(Ṛ. Saṃ. 4-51-9, as read from the print "೪-೫೧-೯".) From a certain regulated place of this *ṛta*, the goddess Uṣas, like other luminous bodies, begins her movement visible to us. If she follows this path of *ṛta* without leaving it even a little, then her straight path does not fail.
+
+> जानत्यह्नः प्रथमस्य नाम शुक्रा कृष्णादजनिष्ट श्वितीची ।
+> ऋतस्य योषा न मिनाति धामाहरहर्निष्कृतमाचरन्ती ॥
+
+> *jānatyahnaḥ prathamasya nāma śukrā kṛṣṇādajaniṣṭa śvitīcī |*
+> *ṛtasya yoṣā na mināti dhāmāharaharniṣkṛtamācarantī ‖*
+
+(Ṛ. Saṃ. 1-123-9.)
+
+> एषा स्या वेनी [?] भवति द्विबर्हा आविष्कृण्वाना तन्वं पुरस्तात् ।
+> ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ॥
+
+> *eṣā syā venī [?] bhavati dvibarhā āviṣkṛṇvānā tanvaṃ purastāt |*
+> *ṛtasya panthāmanveti sādhu prajānatīva na diśo mināti ‖*
+
+(Ṛ. Saṃ. 5-80-4 [?], as read from the print; the word "*vainī*"/"*venī*" is doubtful in my reading.) — the daughter of heaven, wearing a garment in the form of splendour, follows the path of *ṛta* in a straight line: thus it is described in many contexts. But what is this path of *ṛta*?
+
+> अग्निं विश ईळते मानुषीर्या अग्निं मनुषो नहुषो वि जाताः ।
+> अग्निर्गान्धर्वीं पथ्यामृतस्याग्नेर्गव्यूतिर्घृत आ निषत्ता ॥
+
+> *agniṃ viśa īḷate mānuṣīryā agniṃ manuṣo nahuṣo vi jātāḥ |*
+> *agnirgāndharvīṃ pathyāmṛtasyāgnergavyūtirghṛta ā niṣattā ‖*
+
+(Ṛ. Saṃ. 10-80-6, as read from the print.)
+
+### Printed p. 144  (PDF 165)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+Since the path of this *ṛta* is the path on which the Gandharvas move, it must be in a very high place in the atmosphere. This is the path of the Āditya, and —
+
+> उदु त्यच्चक्षुर्महि मित्रयोरा एति प्रियं वरुणयोरदब्धम् ।
+> ऋतस्य शुचि दर्शतमनीकं रुक्मो न दिव उदिता व्यद्यौत् ॥
+
+> *udu tyaccakṣurmahi mitrayorā eti priyaṃ varuṇayoradabdham |*
+> *ṛtasya śuci darśatamanīkaṃ rukmo na diva uditā vyadyaut ‖*
+
+(Ṛ. Saṃ. 6-51-1, as printed.)
+
+> इदमु त्यन्महि महामनीकं यदुस्रिया सचत पूर्व्यं गौः ।
+> ऋतस्य पदे अधि दीद्यानं गुहा रघुष्यद्रघुयद्विवेद ॥
+
+> *idamu tyanmahi mahāmanīkaṃ yadusriyā sacata pūrvyaṃ gauḥ |*
+> *ṛtasya pade adhi dīdyānaṃ guhā raghuṣyadraghuyadviveda ‖*
+
+(Ṛ. Saṃ. 4-5-5 [?], as read; the print's middle numeral is doubtful.) *(Read letter by letter; the last two pāda words are doubtful.)* — in these ṛks the rising of the Āditya, who is of the nature of *ṛta*, and his charming form are described —
+
+> कविर्नृचक्षा अभि षीमचष्ट ऋतस्य योना विघृते मदन्ती ।
+> नाना चक्राते सदनं यथा वेः समानेन क्रतुना संविदाने ॥
+
+> *kavirnṛcakṣā abhi ṣīmacaṣṭa ṛtasya yonā vighṛte madantī |*
+> *nānā cakrāte sadanaṃ yathā veḥ samānena kratunā saṃvidāne ‖*
+
+(Ṛ. Saṃ. 3-54-6 [?], as read from the print.) — in this ṛk it is described that the Sun, rejoicing in the womb (*yoni*) of *ṛta*, is watching heaven and earth. In the same way, in many other ṛks the summit and the root of *ṛta* are described —
+
+> ऋतस्य बुध्न उषसामिषण्यन्वृषा मही रोदसी आ विवेश ।
+> मही मित्रस्य वरुणस्य माया चन्द्रेव भानुं वि दधे पुरुत्रा ॥
+
+> *ṛtasya budhna uṣasāmiṣaṇyanvṛṣā mahī rodasī ā viveśa |*
+> *mahī mitrasya varuṇasya māyā candreva bhānuṃ vi dadhe purutrā ‖*
+
+(Ṛ. Saṃ. 3-61-7 [?], as read from the print.) — here the root-region of *ṛta*, the light of heaven and earth in that region, and the entrance of the Āditya between them, are stated. In many such contexts the Western scholars have not explained the word *ṛta* in a physical sense but everywhere only in a moral sense. But in the present ṛk (1-124-3) all this description is included, and a path of a physical orb of light which Uṣas follows is indicated.
+
+**Vyākaraṇa-prakriyā (Ṛk 3, pp. 144–145; noted briefly, sūtra numbers as read by the OCR).** *divaḥ* — genitive singular; *ūḍidaṃpadādyappumrainyuvidbhyaḥ* (Pā. 6-1-171) gives the acute accent to the case-ending. *adarśi* — root *dṛśir prekṣaṇe*; in the Veda, in the present sense, in the passive, luṅ; third person singular, the ending *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. 3-1-66) gives *ciṇ* for *ci*; *ciṇo luk* (Pā. 6-4-104) elides the *ta*; with *ciṇ* as cause there is guṇa of the *ṛ* of the root; the augment *aṭ* to the stem; since it follows a non-verb word, the *nighāta* accent.
+
+### Printed p. 145  (PDF 166)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
+
+*vasānā* — root *vasa ācchādane*; *śānac* in the laṭ sense; by *vyatyaya* the *luk* of *śap* does not occur; since the *sārvadhātuka* follows the *upadeśa*, *tāsyanudāttet* (Pā. 6-1-186) makes it unaccented and the root-accent remains. *samanā* — prefix *sam*, root *ana prāṇane*; as it shows a causative sense the root is of included-causative sense; *ac* in the agent sense; *ṭāp* in the feminine; *citaḥ* (Pā. 6-1-163) gives the final-acute. Or else from the root *man avabodhane*: *saha yugapad eva manyate avabudhyate prāṇibhir iti samanā*; since this derivation was not considered, no *avagraha* is shown in the pada text. *purastāt* — the word *pūrva*; *pūrvādharāvarāṇāṃ purdhavaś caiṣām* (Pā. 5-3-39) gives the suffix *astāti* and the substitution *pur* for the base; the suffix is acute on its first syllable. *panthām* — the word *pathin*; with the accusative singular following, *vyatyayo bahulam* and *pathimathyṛbhukṣām āt* (Pā. 7-1-85) give *ā*; *tho nthaḥ* changes *th* to *nth*; because the word *pathin* is formed with a suffix [Uṇ. 4-?, as printed "೪-೪೫೨" — doubtful [?]] it would be final-acute, but *pathimathoḥ sarvanāmasthāne* (Pā. 6-1-199) gives it the first-syllable acute. *eti* — root *iṇ gatau*; Adādi; laṭ third person singular; since it follows a non-verb word the *nighāta* accent. *prajānatī* — root *jñā avabodhane*; śatṛ in the laṭ sense; *kryādibhyaḥ śnā* (Pā. 3-1-81); *jñājanor jā* (Pā. 7-3-79) gives the substitute *jā*; *śnābhyastayor ātaḥ* (Pā. 6-4-112) elides the *ā* of the verb-suffix; *ugitaś ca* gives ṅīp in the feminine; *śatur anumo nadyajādī* (Pā. 6-1-173) gives the acute on the ṅīp, since it follows a śatṛ without *num*; in the compound the accent of the final member. *minā​ti* — root *mīñ hiṃsāyām* (Kryādi); laṭ third person singular *tip*; *śnā*; *svādīnāṃ hrasvaḥ* (as printed; the OCR "Pā. 7-3-80") shortens the root; since it follows a non-verb word, the *nighāta* accent. ‖ 3 ‖
+
+#### Ṛk 4
+
+### Printed p. 146  (PDF 167)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
+
+**॥ संहितापाठः ॥**
+
+> उपो अदर्शि शुन्ध्युवो न वक्षो नोधा इवाविरकृत प्रियाणि ।
+> अद्मसन्न ससतो बोधयन्ती शश्वत्तमागात्पुनरेयुषीणाम् ॥ ४ ॥
+
+> *upo adarśi śundhyuvo na vakṣo nodhā ivāvirakṛta priyāṇi |*
+> *admasanna sasato bodhayantī śaśvattamāgātpunareyuṣīṇām ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> उपो इति । अदर्शि । शुन्ध्युवः । न । वक्षः । नोधाःऽइव । आविः । अकृत । प्रियाणि ।
+> अद्मसत् । न । ससतः । बोधयन्ती । शश्वत्ऽतमा । आ । अगात् । पुनः । आऽईयुषीणाम् ॥ ४ ॥
+
+> *upo iti | adarśi | śundhyuvaḥ | na | vakṣaḥ | nodhāḥ 'iva | āviḥ | akṛta | priyāṇi |*
+> *admasat | na | sasataḥ | bodhayantī | śaśvat 'tamā | ā | agāt | punaḥ | ā 'īyuṣīṇām ‖ 4 ‖*
+
+*(This is the ṛk that was cited by number on p. 115 above, there given as "1-124-4 [?]": the number is thereby confirmed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> एषोषाः । उपो इति निपातद्वयसमुदायात्मक एको निपातः । सर्वैः समीप एवादर्शि । दृश्यते । तत्र दृष्टान्तः । शुन्ध्युवो न वक्षः । अत्र नकार उपमार्थीय उपरिष्टादुपयुज्यमानत्वात् । यत्र तु प्रतिषेधो विवक्षितस्तत्र पुरस्तान्नकारः प्रयुज्यते । तथा च यास्कः । पुरस्तादुपाचारस्य यत्प्रतिषेधतीति । तस्योदाहरणं नेन्द्रं देवममंसतेति । उपरिष्टादपाचारस्य येनोपमिमीते इति । तस्योदाहरणं दुर्मदासो न सुरायामिति । नि. १-४ । ऋ. १०-८६-१ । ऋ. ८-२-१२ । शुन्ध्युरादित्यः सर्वेषां शोधकत्वात् । तस्य च वक्षःस्थानीयो रश्मिसमूहः । स यथा प्रकाशमानो दृश्यते तद्वदित्यर्थः । यद्वा शुन्ध्युरिति जलचरः श्वेतवर्णः पक्षिविशेषः । स यथा स्वकीयं वक्षः प्रकाशयन्दृश्यते तद्वदित्यर्थः । किंच नोधा इव प्रियाण्याविरकृत । नवनं स्तोत्रं धारयतीति नोधाः । एतन्नामा महर्षिर्देवताः स्तुतिव्याजेन नानाविधैर्मन्त्रैः प्रियाणि स्वमनीषितान्याविष्कृतवान् । तद्वदेषापि स्वकीयानि सर्वलोकस्य प्रियाणि तेजांस्याविरकरोत् । किंचाद्मसन्न । अत्राप्युपमार्थीयो नकारः । अद्यते इत्यद्मानम् । तस्य पाकाय गृहे सीदतीत्यद्मसत् । पाचिका योषित् ससतो बोधयन्ती । सा यथा स्वपतः पुत्रादीन्भोजनाय …
+
+> *eṣoṣāḥ | upo iti nipātadvayasamudāyātmaka eko nipātaḥ | sarvaiḥ samīpa evādarśi | dṛśyate | tatra dṛṣṭāntaḥ | śundhyuvo na vakṣaḥ | atra nakāra upamārthīya upariṣṭādupayujyamānatvāt | yatra tu pratiṣedho vivakṣitastatra purastānnakāraḥ prayujyate | tathā ca yāskaḥ | purastādupācārasya yatpratiṣedhatīti | tasyodāharaṇaṃ nendraṃ devamamaṃsateti | upariṣṭādapācārasya yenopamimīte iti | tasyodāharaṇaṃ durmadāso na surāyāmiti | ni. 1-4 | ṛ. 10-86-1 | ṛ. 8-2-12 | śundhyurādityaḥ sarveṣāṃ śodhakatvāt | tasya ca vakṣaḥsthānīyo raśmisamūhaḥ | sa yathā prakāśamāno dṛśyate tadvadityarthaḥ | yadvā śundhyuriti jalacaraḥ śvetavarṇaḥ pakṣiviśeṣaḥ | sa yathā svakīyaṃ vakṣaḥ prakāśayandṛśyate tadvadityarthaḥ | kiṃca nodhā iva priyāṇyāvirakṛta | navanaṃ stotraṃ dhārayatīti nodhāḥ | etannāmā maharṣirdevatāḥ stutivyājena nānāvidhairmantraiḥ priyāṇi svamanīṣitānyāviṣkṛtavān | tadvadeṣāpi svakīyāni sarvalokasya priyāṇi tejāṃsyāvirakarot | kiṃcādmasanna | atrāpyupamārthīyo nakāraḥ | adyate ityadmānam | tasya pākāya gṛhe sīdatītyadmasat | pācikā yoṣit sasato bodhayantī | sā yathā svapataḥ putrādīnbhojanāya …*
+
+*(Read from the image; checked against the OCR. The Ṛg references after Ni. 1-4 — "10-86-1" and "8-2-12" — follow the OCR where the print is small; "10-86-1" is doubtful [?]. The passage continues on p. 147.)* "*Upo* — one particle made up of the two particles *upa* and *u*: she is seen quite near, by all. A comparison there: *śundhyuvo na vakṣaḥ*. Here the *na* has the sense of comparison, since it is used after [the word compared]. Where a negation is intended, the *na* is used before: and so Yāska says: '*purastād upacārasya yat pratiṣedhati*' ('when it negates what is said before'), the example of which is *nendraṃ devam amaṃsata*; and '*upariṣṭād apacārasya yenopamimīte*' ('when it is used after, for what it compares'), the example of which is *durmadāso na surāyām*" (Ni. 1-4; Ṛ. 10-86-1 [?]; Ṛ. 8-2-12). "*Śundhyu* is Āditya, since he purifies all; his bosom is the mass of rays. As it appears shining, so she: that is the sense. Or else *śundhyu* is a water-bird, a kind of white bird; as it is seen displaying its own breast, so she. Moreover, *nodhā iva priyāṇy āvir akṛta* — *navanaṃ stotraṃ dhārayatīti nodhāḥ*: the great seer of this name, with various mantras in the guise of praise of the deities, made manifest his own desired, dear things; just so this Uṣas made manifest her own radiances, dear to the whole world. And *admasan na* — here too the *na* is of the sense of comparison. *Admānam* is 'what is eaten'; she who sits in the house for its cooking is *admasat*; the woman who cooks, awakening those who sleep; as she, for the meals of her sleeping husband, sons and others, …"
+
+---
+
+**Progress note:** Sūkta 124 through printed p. 146 (PDF 167): Ṛk 3 complete (‖ 3 ‖); Ṛk 4 Saṃhitā/Pada done, Sāyaṇa-bhāṣya in progress (breaks off at *sā yathā svapataḥ putrādīn bhojanāya …*); resume p. 147 (PDF 168).
