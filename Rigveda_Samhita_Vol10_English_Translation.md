@@ -15663,4 +15663,70 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 ---
 
-**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 649 (Special Topics: *jāyavaḥ aśvatthaṃ*, *sākaṃ gāvaḥ suvate* done; more entries and the grammar follow); resume p. 650 (PDF 671; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
+### Printed p. 650  (PDF 671)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
+
+***indravāyustavopasaṃhāraḥ*** *(Kannada heading: "ಇಂದ್ರವಾಯುಸ್ತವದ ಉಪಸಂಹಾರ" — "Conclusion of the praise of Indra and Vāyu").*
+
+In this Sūkta, Indra and Vāyu are together invoked to accept the offering of Soma-juice. In this context the matters of the carrying of Soma, the pressing of the juice, the placing of the juice, as prescribed in the Śāstra, in the proper vessels, and the offering as oblation have been described in due course. In making ready and offering the Soma-juice, three portions are made, called the *upāṃśugraha*, *antaryāmagraha* and *aindravāyavagraha*. The *upāṃśu*-pressing is the earlier part of the *mahābhiṣava*; with this the Soma-juice is placed in the *upāṃśugraha*. The juice pressed by the *adhvaryu*, the *pratiprasthātṛ* and the *unnetṛ* is poured into the *ādhavanīya* vessel; mixed with the water there, it is then poured through the *daśāpavitra* into the vessel called *pūtabhṛt*: this was explained before. In the present [Sūkta], the power and greatness of the *upāṃśugraha*, *antaryāmagraha* and *aindravāyavagraha* may be understood. In the sentence *adribhiḥ sutānām* of the first Ṛk [as printed: "೧-೧೩೫" [?]], the order in which the juice is pressed, by the rule *upāṃśusavana*, is shown; this order is described in seven parts. [The Taittirīya Saṃhitā 6-4-1 [as read, [?]], where their power and greatness are stated in the sentences of Tai. Saṃ. 6-4-4 to 6-4-6 [?], is to be understood here at length.]
+
+1. By the mantra *ā dade grāvāsy adhvarakṛt* (Tai. Saṃ. 1-4-1 [as read]) when the *grāvan* is taken the divine power enters the priest — this explanation is given in the Āraṇeya section at length.
+
+> देवस्य त्वा सवितुः प्रसव इति ग्राणावनादत्ते प्रसूत्या अश्विनोर्बाहुभ्यां पूष्णो हस्ताभ्यामित्याहाश्विनौ हि देवानामध्वर्यू आस्तां पूष्णो हस्ताभ्यामित्याह यत्यै ॥
+
+> *devasya tvā savituḥ prasava iti grāvāṇam ādatte prasūtyā aśvinor bāhubhyāṃ pūṣṇo hastābhyām ity āhāśvinau hi devānām adhvaryū āstāṃ pūṣṇo hastābhyām ity āha yatyai ‖*
+
+(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೧" [?]; the words *grāṇāvana* and *yatyai* are as printed [?].) The Aśvins were the *adhvaryus* of the gods; therefore, by the help of the arms of the Aśvins, and for support, by the help of Pūṣan, saying "at the impulse of Savitṛ", the *adhvaryu* takes the *grāvan* in his hand.
+
+2. By the mantra *indrāya tvā* the Soma is sprinkled [as read: "is made wet"].
+
+> पशवो वै सोमो व्यान उपांशुसवनो यदुपांशुसवनमभिमिमीते व्यानमेव पशुषु दधाति इन्द्राय त्वेन्द्राय त्वेति मिमीत इन्द्राय हि सोम आ ह्रियते पञ्चकृत्वो यजुषा मिमीते पञ्चाक्षरा पङ्क्तिः पाङ्क्तो यज्ञो यज्ञमेवावरुन्धे पञ्चकृत्वस्तूष्णीं दश संपद्यन्ते दशाक्षरा विराडन्नं विराड् विराजैवान्नाद्यमवरुन्धे ।
+
+> *paśavo vai somo vyāna upāṃśusavano yad upāṃśusavanam abhimimīte vyānam eva paśuṣu dadhāti indrāya tvendrāya tveti mimīta indrāya hi soma ā hriyate pañcakṛtvo yajuṣā mimīte pañcākṣarā paṅktiḥ pāṅkto yajño yajñam evāvarundhe pañcakṛtvas tūṣṇīṃ daśa saṃpadyante daśākṣarā virāḍ annaṃ virāḍ virājaivānnādyam avarundhe |*
+
+(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೨" [?]; read from the image; doubtful in details [?].) Soma is animal (*paśu*); the *upāṃśu* pressing is *vyāna* [the breath that pervades]. By beating and offering [Soma] he gives *vyāna* to the animals. As Soma is offered to Indra, he beats it five times with the mantra *indrāya tvā*; five-syllabled is the *paṅkti*; the sacrifice is *pāṅkta*; thus he obtains the sacrifice. Further, [he does] five times silently; in all, ten is the number; the *virāj* has ten syllables; *virāj* is food; with the *virāj* he gets food.
+
+### Printed p. 651  (PDF 672)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+
+*(Continuing the Kannada explanation of p. 650:)* …Soma is the animal; the *upāṃśu*-pressing is *vyāna*. By it he gives the animals *vyāna*. Because Soma is offered to Indra, he pours it five times, reciting the mantra *indrāya tvā* ("for Indra, you"); as the five-syllabled [verse] is *paṅkti* and the sacrifice is *pāṅkta*, he gets the power of the sacrifice. And by being silent [five times] the measure increases to ten. The ten-syllabled *virāj* is food; by the *virāj* he gets food.
+
+3. By the mantra *śvātrāḥ stha vṛtraturaḥ* ("you are the strong ones, the conquerors of Vṛtra") he sprinkles water.
+
+> श्वात्राः स्थ वृत्रतुर इत्याहैष वा अपां सोमपीथो य एवं वेदं नाप्सु [?] आर्तिमार्च्छति ॥
+
+> *śvātrāḥ stha vṛtratura ity āhaiṣa vā apāṃ somapītho ya evaṃ veda nāpsv ārtim ārcchati ‖*
+
+(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?].) This is the Soma-drinking of the waters; he who knows this does not meet with destruction in [water].
+
+4. By the mantra *yat te soma divi jyotiḥ* he mixes the Soma with water.
+
+> यत्ते सोम दिवि ज्योतिरित्याहेभ्य एवैनं लोकेभ्यः सं भरति ।
+
+> *yat te soma divi jyotir ity āhebhya evainaṃ lokebhyaḥ saṃ bharati |*
+
+(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?].) Reciting "*antarikṣasthena tava tejasā*" [as read, doubtful [?]] he sprinkles the Soma.
+
+5. By the mantra *dhiṣaṇe vīḍū satī* he touches the boards.
+
+6. *prāg apāk* — this is the *nigrāha* rule; it has been explained before.
+
+> सोमो वै राजा दिशोऽभ्यध्यायत्स दिशोऽनु प्राविशत्प्रागपागुदगधराक्त्वेत्याह दिग्भ्य एवैनं संभरत्यथो दिश एवास्मा अव रुन्धेऽम्ब निष्वरेत्याह कामुका एनं स्त्रियो भवन्ति य एवं वेद ॥
+
+> *somo vai rājā diśo 'bhyadhyāyat sa diśo 'nu prāviśat prāg apāg udag adharāktvety āha digbhya evainaṃ saṃbharaty atho diśa evāsmā ava rundhe 'mba niṣvarety āha kāmukā enaṃ striyo bhavanti ya evaṃ veda ‖*
+
+(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?]; doubtful in places [?].) "King Soma reflected on the directions and entered the directions": reciting "*prāg apāg udag adharāk tvā*" ["from east, west, north, south"], he [the adhvaryu] gets Soma from the directions; "*amba niṣvara*" ("Mother, come out") — by this mantra, women become desirous of him who knows this secret.
+
+7. By the mantra *yat te somādābhyaṃ nāma jāgṛvi* the *pratiprasthātṛ* takes up the Soma-stalks.
+
+> यत्ते सोमादाभ्यं नाम जागृवीत्याहैष वै सोमस्य सोमपथो य एवं वेद न सौम्यामार्तिमार्च्छति नार्ध्नोति घ्नन्ति वा एतत्सोमं यदभिषुण्वन्ति सꣳ शूनस्य ग्रहाति त्रायत एवैनं प्राणा वा आꣳशवः पशवः सोमः ।
+
+> *yat te somādābhyaṃ nāma jāgṛvīty āhaiṣa vai somasya somapatho ya evaṃ veda na saumyām ārtim ārcchati nārdhnoti ghnanti vā etat somaṃ yad abhiṣuṇvanti saṃ śūnasya gṛhṇāti trāyata evainaṃ prāṇā vā āṃśavaḥ paśavaḥ somaḥ |*
+
+(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೪" [?]; the last part is doubtful [?].)
+
+---
+
+**Progress note:** Sūkta 133 complete. Sūkta 134 (*ā tvā juvaḥ*, 6 ṛks, Paruccheṣa, Vāyu; Anuvāka 20; printed pp. 566–605) in progress: heading, introduction and Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛk 4 complete; Ṛk 5 complete; Sūkta 134 complete (pp. 566–606). Sūkta 135 (*stīrṇaṃ barhiḥ*, 9 ṛks, Paruccheṣa; Vāyu 1–3, 9, Indra 4–8; Anuvāka 20, second Sūkta; printed pp. 606–663) begun: introduction, Ṛk 1 complete; Ṛks 1–2 complete; Ṛks 1–3 complete; Ṛks 1–4 complete; Ṛk 5 complete; Ṛk 8 written through p. 651 (Special Topics done up to the *indravāyustavopasaṃhāra* section on the *upāṃśugraha*, Tai. Saṃ. quotations 1–7; the section runs on); resume p. 652 (PDF 673; images in w10h/ for PDF 661–728); images in w10g/ (PDF 621–660 cropped; later pages: crop 661 on); images in w10f/ up to PDF 620, then crop more from PDF 621). Workflow: no numeral tool, no OCR reference lines; read cropped page images directly; doubtful numerals [?] for the separate numeral pass. Open flags: numerals/references throughout Vol 10 need a separate pass (Sūkta 133 pp. 549–552 references marked [refs] and not transcribed); p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type passages in Sūktas 127, 129–134 (esp. Sūkta 133 Ṛk 6 bhāṣya pp. 556–557 and the itihāsa quotation p. 559); metre list in the Sūkta 133 table (p. 535) differs from the p. 534 introduction in my reading; stray Kannada transliteration in the last entry of the Sūkta 131 Ṛk 4 Special Topics on p. 486; the Yajus quotation on p. 330 and quotations on pp. 333, 336–338, 343, 348, 353, 357, 368.
