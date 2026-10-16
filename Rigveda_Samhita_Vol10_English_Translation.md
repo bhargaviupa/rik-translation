@@ -7469,4 +7469,132 @@ And, repeating the word *vyantaḥ* in this mantra, these fires protect beings b
 
 ---
 
-**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 290 (PDF 311): Ṛks 1–5 complete (‖ 5 ‖); Ṛk 6 Saṃhitā only (as read, partly doubtful); resume p. 291 (PDF 312) with the Ṛk 6 Pada. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127; Sūkta 126 Ṛk 5/7 bhāṣya.
+### Printed p. 291  (PDF 312)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**॥ पदपाठः ॥** *(Ṛk 6)*
+
+> सः । हि । शर्धः । न । मारुतम् । तुविऽस्वनिः । अप्नस्वतीषु । उर्वरासु । इष्टनिः ।
+> आर्तनासु । इष्टनिः ।
+> आदत् । हव्यानि । आददिः । यज्ञस्य । केतुः । अर्हणा ।
+> अध । स्म । अस्य । हर्षतः । हृषीवतः । विश्वे । जुषन्त । पन्थाम् । नरः । शुभे । न ।
+> पन्थाम् ॥ ६ ॥
+
+> *saḥ | hi | śardhaḥ | na | mārutam | tuvi 'svaniḥ | apnasvatīṣu | urvarāsu | iṣṭaniḥ |*
+> *ārtanāsu | iṣṭaniḥ |*
+> *ādat | havyāni | ādadiḥ | yajñasya | ketuḥ | arhaṇā |*
+> *adha | sma | asya | harṣataḥ | hṛṣīvataḥ | viśve | juṣanta | panthām | naraḥ | śubhe | na |*
+> *panthām ‖ 6 ‖*
+
+*(Read from the image; the Pada confirms the division of the Saṃhitā: *tuvi-svaniḥ* / *apnasvatīṣu* / *urvarāsu* / *iṣṭaniḥ* / *ārtanāsu* / *iṣṭaniḥ*; the earlier [?] marks in the Saṃhitā of p. 290 are therefore resolved, *iṣṭaniḥ* being read twice.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> स हि स एव स्तुत्यतया प्रसिद्ध एवाग्निस्तुविष्वणिः । तुवीति बहुनाम तुरु तुवीति तन्नामसु पाठात् । बहुस्वनिः प्रभूतध्वनिर्युक्तो वर्तते । अत्यन्तज्वलितेऽग्नौ वायुसंपर्कात् भुगुभुगिति ध्वनिरुद्यते । ज्वलतीत्यर्थः । ध्वनने दृष्टान्तः । मारुतं शर्धो न मरुत्संबन्धि बलमिव मरुतां समूहो यथा ध्वनयति तथेत्यर्थः । कुत्रेति तदुच्यते । अप्नस्वतीषु खननप्रोक्षणादिकर्मोपेतासु । अप्न इति कर्मनाम अप्नो दंस इति तन्नामसु पाठात् । उर्वरासूरुवरणयुक्तासु श्रेष्ठासु वेदिभूमिषु । कीदृशोऽयम् । इष्टनिर्यष्टव्यः । तथा आर्तनासु । आर्तान्करोतीत्यार्तयिता [?] । आर्तयन्तीत्यार्तनाः पृतनाः । तासां जयाय इष्टनिः यष्टव्यो वा । संकटे कुर्वन्ति [?] । किंचैवं स्तुतोऽग्निः हव्यान्याज्यपुरोडाशादीन्यादत् । अत्ति । भक्षयति । छान्दसो लुङ् । यद्वा । आज्पूर्वाद्ददातेराजो ऽनाशास्यविहरणादीत्यादिना [?] व्यत्ययेनात्मनेपदाभावः । गातिस्थेति सिचो लुक् । छान्दसो ह्रस्वः । केवलादेव वा छन्दस्यपि दृश्यत इत्यनाजादेरप्याडागमः । आत एवानवग्रहः । स एव शिष्यते । आददिः सर्वत्र हविरादानशीलः । तथा यज्ञस्य केतुः प्रज्ञापकः केतुस्थानीयो वा । अर्हणा पूजनीयः । सुपां सुलुगिति सोराकारः । प्रत्ययाद्युदात्तत्वं छान्दसम् । किंच हर्षतो हविर्भक्षणादत्यन्तहर्षयुक्तस्य यद्वाभिमतफलदानेन यजमानान्हर्षयतो हृषीवत आज्यादिस्वीकारेण हर्षयुक्तस्याग्नेः पन्थां पन्थानं मार्गं विश्वे सर्वे मनुष्या जुषन्त । प्रीणयन्ति । असेवन्त वा । किमर्थम् । शुभे शुभाय शोभनाय सुखप्राप्तये । पन्थानं सर्वैर्गन्तव्यं निर्भयं प्रौढमार्गमिव [?] । तथा लोके नरो मनुष्याः शुभे शोभनाय सुखप्राप्तये पन्थानं सर्वैर्गन्तव्यं निर्भयं प्रौढमार्गमिव । सेवन्ते [?] । तथा विश्वे नरोऽग्निमेव प्रीणयन्ति साधयन्ति ॥ [?]
+
+> *sa hi sa eva stutyatayā prasiddha evāgnistuviṣvaṇiḥ | tuvīti bahunāma turu tuvīti tannāmasu pāṭhāt | bahusvaniḥ prabhūtadhvaniryukto vartate | atyantajvalite 'gnau vāyusaṃparkāt bhugubhugiti dhvanirudyate | jvalatītyarthaḥ | dhvanane dṛṣṭāntaḥ | mārutaṃ śardho na marutsaṃbandhi balamiva marutāṃ samūho yathā dhvanayati tathetyarthaḥ | kutreti taducyate | apnasvatīṣu khananaprokṣaṇādikarmopetāsu | apna iti karmanāma apno daṃsa iti tannāmasu pāṭhāt | urvarāsūruvaraṇayuktāsu śreṣṭhāsu vedibhūmiṣu | kīdṛśo 'yam | iṣṭaniryaṣṭavyaḥ | tathā ārtanāsu | ārtānkarotītyārtayitā [?] | ārtayantītyārtanāḥ pṛtanāḥ | tāsāṃ jayāya iṣṭaniḥ yaṣṭavyo vā | saṃkaṭe kurvanti [?] | kiṃcaivaṃ stuto 'gniḥ havyānyājyapuroḍāśādīnyādat | atti | bhakṣayati | chāndaso luṅ | yadvā | ājpūrvāddadāterājo 'nāśāsyaviharaṇādītyādinā [?] vyatyayenātmanepadābhāvaḥ | gātistheti sico luk | chāndaso hrasvaḥ | kevalādeva vā chandasyapi dṛśyata ityanājāderapyāḍāgamaḥ | āta evānavagrahaḥ | sa eva śiṣyate | ādadiḥ sarvatra havirādānaśīlaḥ | tathā yajñasya ketuḥ prajñāpakaḥ ketusthānīyo vā | arhaṇā pūjanīyaḥ | supāṃ sulugiti sorākāraḥ | pratyayādyudāttatvaṃ chāndasam | kiṃca harṣato havirbhakṣaṇādatyantaharṣayuktasya yadvābhimataphaladānena yajamānānharṣayato hṛṣīvata ājyādisvīkāreṇa harṣayuktasyāgneḥ panthāṃ panthānaṃ mārgaṃ viśve sarve manuṣyā juṣanta | prīṇayanti | asevanta vā | kimartham | śubhe śubhāya śobhanāya sukhaprāptaye | panthānaṃ sarvairgantavyaṃ nirbhayaṃ prauḍhamārgamiva [?] | tathā loke naro manuṣyāḥ śubhe śobhanāya sukhaprāptaye panthānaṃ sarvairgantavyaṃ nirbhayaṃ prauḍhamārgamiva | sevante [?] | tathā viśve naro 'gnimeva prīṇayanti sādhayanti ‖ [?]*
+
+*(Read from the image; the OCR is partly garbled and the passage is in small type. The Devanagari I give for the middle of this long bhāṣya — especially from "ārtanāsu" to "ādatti", and the end — is partly uncertain and is marked [?]; the sense is fixed by the Kannada pratipadārtha and the passage on p. 292–293.)*
+
+"*Sa hi* — that very Agni, well known as the one to be praised, *tuviṣvaṇiḥ* — *tuvi* is a name for 'much' (*turu*, *tuvi* are read among its names); one who has a loud sound, who is endowed with abundant noise: when the fire is brightly burning, by contact with the wind the sound 'bhugubhugu' arises: that is, he blazes. An illustration of the sounding: *mārutaṃ śardho na* — as the host of the Maruts makes the force of the Maruts roar, so. Where? *Apnasvatīṣu* — in the [places] with works such as digging and sprinkling (*apnaḥ* is a name for 'work': *apno daṃsaḥ* are read among its names); *urvarāsu* — in the excellent places of the sacrificial altar, spread out. What is he like? *Iṣṭaniḥ* — to be worshipped; likewise *ārtanāsu iṣṭaniḥ* — in [those] battles that cause distress (*ārtanāḥ* are armies, *pṛtanāḥ*), he is to be worshipped for victory over them. Moreover Agni, thus praised, *havyāni ādat* — eats, consumes the oblations of ghee, cakes and the like; *ādat* is a Vedic aorist; or [the form arises] from the root *dā* with the prefix *ā*, with the absence of *ātmanepada* by *vyatyaya*; loss of *siC* by *gātisthā…*; Vedic shortening; the augment *aṭ* also appears in the Veda even for a stem not beginning with a vowel; for this very reason there is no *avagraha* [in the Pada]: that alone remains. *Ādadiḥ* — always one whose nature is to take the oblation; likewise *yajñasya ketuḥ* — the one who makes it known, or the banner (*ketu*) of the sacrifice; *arhaṇā* — worthy of worship (*su* → *ā* by *supāṃ sulug*; the accent on the first syllable of the suffix is Vedic). Moreover, *harṣataḥ* — of Agni, who is full of delight through eating the oblation, or who gladdens the sacrificers by giving the desired fruit, *hṛṣīvataḥ* — who is joyful on accepting ghee and the like, *panthām* — the path — *viśve* — all men — *juṣanta* — love, serve. For what? *Śubhe* — for the good, for the attainment of happiness: as in the world men go by a path that all must go, free of fear, like a broad road; so all men serve Agni alone, and attain their end through him."
+
+### Printed p. 292  (PDF 313)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Apnasvatīṣu* — endowed with works (digging and the like); *urvarāsu* — in the excellent altars; *mārutam* — connected with the Maruts; *śardhaḥ na* — like the force; *tuviṣvaṇiḥ* — of great sound; *iṣṭaniḥ* — (in sacrifices) worthy of worship; *ārtanāsu* — in battles, for gaining victory; *iṣṭaniḥ* — to be worshipped (desired); *ādadiḥ* — of the nature of taking up the oblations and the like; *yajñasya ketuḥ* — the one who makes the sacrifice known (the banner of the sacrifice); *arhaṇā* — worthy of worship; *sa hi* — that very Agni; *havyāni* — oblations such as ghee, cakes and the like; *ādat* — eats; *atha* — therefore; *harṣataḥ* — made joyful (by eating the oblation) or (by giving the desired gifts) gladdening the sacrificers; *hṛṣīvataḥ* — joyful (with the acceptance of ghee and the like); *asya* — of this Agni; *panthām* — the path; *śubhe* — for the attainment of happiness; *naraḥ* — men; *(śubhe* — for happiness); *panthām na* — as an excellent path (they follow); *viśve* — all men; *juṣanta sma* — serve.
+
+**॥ भावार्थः ॥ — Bhāvārtha.** Agni, roaring like the wind that blows strongly, shining in the altars that are furnished with rites (digging, sprinkling and the like), to be worshipped for the destruction of enemies, the one who makes the sacrifice known (the banner of the sacrifice), and worthy of worship, accepts the ghee, cakes and the like; (satisfied by the oblations) he is gladdened and, by giving the desired gifts, gladdens the sacrificers; all men, wishing happiness, follow his very path, as men in the world follow the road to happiness.
+
+**Printed English (as printed):** *He roars aloud, like the roaring of the winds, amidst the sanctified and selected (rites of sacred) solemnities ; he who is to be worshipped, who is to be adored (for victory) over hosts (of enemies) ; he, the receiver (of oblations), the manifester of the sacrifice ; he, who is deserving of veneration, devours the oblations : hence, all men for their good pursue the path of Agni, who gives pleasure (to his worshippers), being pleased (himself), in like manner as men follow a path (that leads) to happiness.*
+
+### Printed p. 293  (PDF 314)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**Special topics (Viśeṣaviṣayagaḷu), Ṛk 6.**
+
+***sa hi tuviṣvaṇiḥ mārutaṃ śardho na*** — *sa eva stutyatayā prasiddha evāgniḥ prabhūtadhvaniyukto vartate | atyantajvalite 'gnau vāyusaṃparkāt bhugubhugiti dhvanir udyate jvalatīty arthaḥ | tatra dṛṣṭāntaḥ marutsaṃbandhi balam iva marutāṃ samūho yathā dhvanayati tathā*: it is a well-known fact that when a fire blazes brightly, from contact with the wind a sound is produced; just as the host of the Maruts, the force of the strong wind, causes a sound, so does this Agni.
+
+***śardho na*** — the word *śardha* is stated among the names of strength (Ni. 2-[?]; as printed "೩-೯"). By this it is explained that the word *śardha* means "strength".
+
+***apnasvatīṣu urvarāsu iṣṭaniḥ*** — since the word *apnaḥ* is recorded among the twenty-six names of works, *apno daṃsaḥ* (Ni. 2-1 [?], as printed "೨-೧"), the word *apnas* conveys the meaning "work". It is described that Agni is to be honoured in the excellent sacrificial altar, which is endowed with many good qualities, and, for purification of the sacrificial ground, with rites such as *khanana* (digging) and *prokṣaṇa* (sprinkling with water).
+
+***ārtanāsu iṣṭaniḥ*** — *ārtān karotīty ārtayati | ārtayantīty ārtanāḥ pṛtanāḥ | tāsāṃ jayāya iṣṭavyaḥ yaṣṭavyo vā*: armies that put into distress, or that make others distressed, are indicated by the word *ārtanā*. Agni is to be worshipped for the conquest of these armies, he explains.
+
+***yajñasya ketuḥ*** — *prajñāpakaḥ ketusthānīyo vā*: Sāyaṇa explains that Agni is the one who gives knowledge or who indicates victory. The author of the Nirukta records *ketu*, *keta*, among the eleven names of *prajñā* (Ni. 3-13), which gives the meaning "wisdom".
+
+> नवोनवो भवति जायमानोऽह्नां केतुरुषसामेत्यग्रम् ।
+> भागं देवेभ्यो वि दधात्यायन्प्र चन्द्रमास्तिरते दीर्घमायुः ॥
+
+> *navonavo bhavati jāyamāno 'hnāṃ keturuṣasāmetyagram |*
+> *bhāgaṃ devebhyo vi dadhātyāyanpra candramāstirate dīrghamāyuḥ ‖*
+
+(Ṛ. Saṃ. 10-85-19, as printed "೧೦-೮೫-೧೯".) There, Durgācārya, [explaining] *ahnāṃ ketuḥ*: *lakṣaṇaṃ tatkālopacayāpacayābhyāṃ ahāni lakṣyante* — "the days are known by the waxing and waning of the moon"; or *ahnāṃ ketuḥ kartā svagativiśeṣaiḥ* — "the maker of days by its particular motions": the moon, by his particular motions, causes the waxing and waning of time, and is thus the sign of the day;
+
+### Printed p. 294  (PDF 315)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+or, "he makes the day by his own special motions": thus he explains it, and gives the two senses *prajñāpakaḥ*, *kartā*.
+
+> महो अर्णः सरस्वती प्र चेतयति केतुना । धियो विश्वा वि राजति ॥
+
+> *maho arṇaḥ sarasvatī pra cetayati ketunā | dhiyo viśvā vi rājati ‖*
+
+(Ṛ. Saṃ. 1-3-12, as printed "೧-೩-೧೨".) Here *ketu* is explained as *karmaṇā prajñayā vā*, "by work or by wisdom"; the two senses of "work" or "wisdom" result.
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
+> निष्कृण्वाना आयुधानीव धृष्णवः प्रति गावोऽरुषीर्यन्ति मातरः ॥
+
+> *etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate |*
+> *niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ prati gāvo 'ruṣīryanti mātaraḥ ‖*
+
+(Ṛ. Saṃ. 1-92-1, as printed "೧-೯೨-೧".) Here the word *ketu* is explained as *prajñāna*, "wisdom".
+
+> उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥
+
+> *udu tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ | dṛśe viśvāya sūryam ‖*
+
+(Ṛ. Saṃ. 1-50-1, as printed "೧-೫೦-೧".) Here *ketu* is explained as "ray". Sāyaṇa has explained for the many-meaning word *ketu* here the sense "the one who makes known (indicator)".
+
+***harṣataḥ*** — *havirbhakṣaṇād atyantaharṣayuktasya yadvā abhimataphaladānena yajamānān harṣayataḥ*: the sense is: "one who is exceedingly delighted by eating oblations, or who gladdens the sacrificers by giving them desired things".
+
+***hṛṣīvataḥ panthāṃ viśve juṣanta śubhe*** — by this sentence it is stated that all worship Agni, or satisfy him, and follow the path that leads to fulfilment in this world and the next; and the comparison *śubhe na panthāṃ naraḥ* is given: as in the world men, for the sake of happiness, follow a path that all must go, free from fear — [that is,] a broad road: the sense is that, by performing in the world acts that must be done for happiness, they take to the path that brings the fruit by that practice.
+
+***naraḥ — manuṣyāḥ*** — the word *naraḥ* is recorded among the twenty-five names of men, *manuṣyāḥ naraḥ* (Ni. 3-8). *Narā manuṣyā nṛtyanti karmasu* (Ni. 5-1 [?], as printed "೫-೧"?) — the author of the Nirukta, giving the formation of the word *narā*, explains the meaning: "since men, when their various works demand it, move the limbs of their body here and there while doing the various works, they are *nṛtyanti*, 'dance', hence *narāḥ*".
+
+### Printed p. 295  (PDF 316)
+
+*(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 14.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 6; noted briefly, numbers as read by the OCR and the page).** *śardhaḥ* — root *kṛtha kutsāyām* [as printed "ಕೃಥು ಕುತ್ಸಾಯಾಂ"; the OCR "कृष्ण कुत्ताय"]; the suffix *asun*; taking it as cause, guṇa of the short penultimate of the root. *apnasvatīṣu* — the word *apas*; *apaḥ karmākhyāyāṃ hrasvaḥ nuṭ ca vā* (Uṇ. 4-642 as read) gives the suffix *asun* and the augment *nuṭ*; *apnaḥ yāsāṃ santi iti apnasvatyaḥ*; *matup*; since it is *upadheya* [?], *mādupadhāyāś ca…* gives *va*; *tasau matvarthe* (Pā. 1-4-19) gives *bha* designation, so no *rutva* and the like; first-syllable acute; locative plural. *iṣṭaniḥ* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; the Uṇādi suffix *anik*; the augment *tuk* in connection with it; since the suffix is *kit*, *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15) gives *saṃprasāraṇa* to the root; *pūrvarūpa*; *vraścabhrasja…* gives *ṣa* for the *j*; taking it as cause *ṣṭutva* of the *t*; the suffix being first-syllable-acute, the word is final-acute.
+
+*ārtanāsu* — *ārtān karoti ārtayati* (to make distressed); in the sense "he does that, he declares that" *ṇic* after the word *ārta*; after the *ṇijanta*, *nyāsaśrantho yuc* (Pā. 3-3-107) gives *yuc*; *ṇeraniṭi* (Pā. 6-4-51) elides the *ṇic*; *yuvor anākau* (Pā. 7-1-1) gives *ana* for the suffix; since it belongs to the *vṛṣādi* group, *vṛṣādīnāṃ ca* (Pā. 6-1-203) gives the first-syllable acute. *ādat* — root *ada bhakṣaṇe*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives luṅ in the present sense, third person singular *tip*; *itaś ca* elides the *i*; *ādiprabhṛtibhyaḥ śapaḥ* gives *luk* of *śap*; *adaḥ sarveṣām* (Pā. 7-3-100) gives *aḍ* [print: *aṭ*] for the *apṛkta* suffix; the augment *aṭ* to the stem; no *nighāta* because it stands at the head of a pāda; the *aṭ* being acute, the first-syllable acute. Or else from the root *dā* with *ā*; by *vyatyaya*, *ātmanepada* does not occur [*ājo 'nāsyavihasane*, Pā. 1-3-20]; *luṅ*; *siC* for *cli*; *gātisthāghupābhūbhyaḥ* (Pā. 2-4-77) gives *luk* of the *siC*; the shortening is Vedic; *kevalād dhātor api chandasy ajādyabhāve 'pi dṛśyate* (Pā. 6-4-73) gives *āṭ* though it is *ajādi*; hence no *avagraha* is marked in the Pada.
+
+*ādadiḥ* — prefix *ā*, root *ḍudāñ dāne*; *ādṛgamahanajanaḥ kikinau liṭ ca* (Pā. 3-2-171) gives the suffix *ki*; since *liṭ* is stated to be in effect, doubling; for the reduplicative syllable
+
+### Printed p. 296  (PDF 317)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
+
+shortening; *ātolopa iṭi ca* (Pā. 6-4-64) elides the *ā*; by the suffix accent the final-acute; in the compound the accent of the final member's own nature. *arhaṇā* — *supāṃ sulug…* (Pā. 7-1-39) gives *ā* to the case-ending *su*; since it ends in the suffix *lyuṭ*, the acute on the preceding syllable of the suffix is overridden, and by *vyatyaya* the first-syllable acute of the suffix arises. *adha* — in *atha* a Vedic modification of the letter has occurred. *juṣanta* — root *juṣī prītisevanayoḥ*; in the Veda laṭ third person plural; *bahulaṃ chandasy amāṅyogepi* (Pā. 6-4-75) gives no augment; since it follows a non-verb word, the *nighāta* accent. *panthām* — the word *pathin*; in the accusative singular, by *vyatyaya* *pathimathyṛbhukṣām āt* (Pā. 7-1-85) gives *ā*; *tho nthaḥ* gives *nth*; *pathimathoḥ sarvanāmasthāne* (Pā. 6-1-199) as an exception to the suffix-accent gives the first-syllable acute. *śubhe* — root *śubha dīptau*; *kvip ca* (Pā. 3-2-76) gives *kvip*; dative singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) gives the acute to the case-ending. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> द्विता यदीं कीस्तासो अभिद्यवो नमस्यन्त उपवोचन्त भृगवो मथ्नन्तो दाशा भृगवः ।
+> अग्निरीशे वसूनां शुचिर्यो धर्णिरेषाम् ।
+> प्रियाँ अपिधीर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ॥ ७ ॥
+
+> *dvitā yadīṃ kīstāso abhidyavo namasyanta upavocanta bhṛgavo mathnanto dāśā bhṛgavaḥ |*
+> *agnirīśe vasūnāṃ śuciryo dharṇireṣām |*
+> *priyā~ apidhīrvaniṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ ‖ 7 ‖*
+
+*(Read from the image letter by letter; "kīstāsaḥ" is as printed and doubtful — I do not correct it; the Pada text on p. 297 will fix the division.)*
+
+---
+
+**Progress note:** Sūkta 127 (*agniṃ hotāram*, 11 ṛks, Anuvāka 19; printed pp. 249–320) through printed p. 296 (PDF 317): Ṛks 1–6 complete (‖ 6 ‖); Ṛk 7 Saṃhitā only (as read, "kīstāsaḥ" doubtful); resume p. 297 (PDF 318) with the Ṛk 7 Pada. Page images PDF 261–360 are in scratchpad w10b/; PDF 361+ still to be cropped. Open flags: p. 189 itihāsa bhāṣya (partial); TS quotations pp. 222–224; small-type Nirukta/Durga/Brāhmaṇa passages in Sūkta 127 (esp. Ṛk 6 bhāṣya p. 291); Sūkta 126 Ṛk 5/7 bhāṣya.
