@@ -26,3 +26,21 @@ All earlier `[?]` rows above were accepted by the reader and removed from the te
 | 12 (v) | "ಇವರ ಕಾಲವನ್ನು ___ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ" | ನಿರ್ಧಾರವಾಗಿ | Resolved by the reader: ನಿರ್ಧಾರವಾಗಿ (long ā). |
 
 Zoomed and resolved: PDF 11, last paragraph "ನಾವು ೨೫ ಪ್ರಕರಣಗಳನ್ನೊಳಗೊಂಡ" — number read at 300 dpi as ೨೫; matches the 25 chapters of the Pīṭhike in the contents.
+
+## Test page: PDF 41 (printed 15) — list with numerals
+Read at 450 dpi with the digit key. The serial numbers (೧–೩೦) are in sequence; the doubtful items are the **references** (digits after "ಮಂ"). Please check each against the scan.
+
+| Row | Written | Issue |
+|---|---|---|
+| ೩ | ಮಂ ೨-೩೨ | second digit ೨ vs ೩ (೩೨ / ೩೩). |
+| ೭ | ಮಂ ೫-೫೧ | last digit (೫೧ / ೫೩). |
+| ೧೬ | ಮಂ ೭-೯೬ | ೯೬ vs ೬೯ / ೯೭. |
+| ೧೮ | ಮಂ ೯-೬೭ | last digit ೭ vs ೨. |
+| ೨೬ | ೧೦-೧೨೭ | middle/last digits (೧೨೭ / ೧೨೨). |
+| ಪಿಶಂಗಭೃಷ್ಟಿ | ೧-೧೩೩-೫ | middle three digits unclear. |
+| ೩೦ | ಮಂ ೧೦-೧೪೩ | last digit ೩ vs ೨. |
+| ೨೨ | ೧-೭೫-೫ | printed with no "೧೦"/"ಮಂ" prefix, "as printed"; first number may be ೧೦ with the ೦ merged. |
+| ೧ | ಶನ್ನೈಶ್ಚಿದದ್ಯ | word read letter by letter, no [?] but unusual. |
+| ೨೭ | serial "೨೭-" | printed with a hyphen instead of a period. |
+
+Other points: the page number is printed in Latin digits ("15"); the running head reads ಪೂರ್ವಪೀಠಿಕೆ. The dotted ellipsis after "ತ್ವಾ" in row ೩೦ is as printed. Ditto marks ",," are kept as printed.
