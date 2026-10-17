@@ -102,3 +102,14 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 38 | "೬೫, ೬೬, ೬೭[?], ೬೮, ೬೯, ೭೦[?]ನೇ ಸೂಕ್ತಗಳು" | List read at 500 dpi; ೬೭ and ೭೦ could differ (flat-footed ೭ vs curled ೨). |
 | 38 | "ಐದನೆಯ ಮಂಡಲದ ೨೪[?]ನೇ ಸೂಕ್ತ … ೪ ಋಕ್ಕುಗಳು" | First digit ೨ vs ೩ not settled. |
 | 38 | table | Latin digits; the printed row/column sums check (anuvākas 85, sūktas 1028, mantras 10552). |
+
+## PDF 39–40 (printed 13–14)
+| PDF | Place | Note |
+|---|---|---|
+| 39 | "ಎಂಟನೆಯ ಮಂಡಲದ ೨೯[?]ನೇ ಸೂಕ್ತ" and "ಹತ್ತನೆಯ ಮಂಡಲದಲ್ಲಿರುವ ೧೨೨[?]ನೇ ಸೂಕ್ತ" | Both sūkta numbers read at 500 dpi but not settled: the first has a curled ೨ followed by a ೯/೫-like glyph; the second begins ೧ and ends in a curled ೨ (middle digit unclear). |
+| 39 | "೬೪ … ೩೨", "ಒಟ್ಟು ೧೦೫೫೨" | Read at 300/500 dpi; 64→32 halving and 10552 agree with the Latin figure in the table on PDF 38. |
+| 39 | "ಉಷಸ್ಸು" | The typeface prints ಷ like ಪ ("ಉಪಸ್ಸು", "ಪುರುಪಸೂಕ್ತ"); read as ಷ in these known words. |
+| 39 | Latin numerals "1ನೆಯ … 102ರವರೆಗೆ … 111ರಿಂದ 253ರ ವರೆಗೆ … 254ರಿಂದ 350ರವರೆಗೆ" | As printed (the ranges leave 103–110 unassigned in the print). |
+| 40 | "ಹದಿಮೂರನೆಯ ಮಂಡಲ ಒಂಭತ್ತನೆಯ ಮಂತ್ರಕ್ಕೆ" | As printed (a slip for ಸೂಕ್ತ?). |
+| 40 | "ಪ್ರಾರಂಭುಸುತ್ತದೆ" | As printed (ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?). |
+| 40 | bold Sanskrit "ಪರಶಾಖೀಯಂ ಸ್ವಶಾಖಾಯಾಮವೇಕ್ಷ್ಯಾವಶಾತ್ಪ್ರಕ್ಷೇಪಕೇ ತತ್ಖಿಲಮುಚ್ಯತೇ" | Read from a 300 dpi zoom; the ವೇ/ಪೇ after ಯಾಮ and the word ಪ್ರಕ್ಷೇಪಕೇ are small. |
