@@ -22,6 +22,8 @@ CFG = {
 
  9: dict(title='Maṇḍala 1 · Sūktas 113–121 · Eighth Adhyāya of the First Aṣṭaka', cover='cover_vol9.jpg',
          expected={113:20,114:11,115:6,116:25,117:25,118:11,119:10,120:12,121:15}),
+ 10: dict(title='Maṇḍala 1 · Sūktas 122–136 · First Adhyāya of the Second Aṣṭaka', cover='cover_vol10.jpg',
+         expected={122:15,123:13,124:13,125:7,126:7,127:11,128:8,129:11,130:10,131:7,132:6,133:7,134:6,135:9,136:7}),
 }
 
 def short_label(title):
