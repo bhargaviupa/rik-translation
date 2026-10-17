@@ -2380,7 +2380,7 @@ In the time of the Mahābhārata there was, to the west of Bhārata, a large pro
 
 #### Many names of the clan, gotra and father
 
-According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (1-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (1-7-51) in this very manner…
+According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (3-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (7-51) in this very manner…
 
 <div class="pgmark">original p. 103</div>
 
@@ -2538,7 +2538,7 @@ Elsewhere, in the Vāyu and other Purāṇas also, in the passage that speaks of
 
 <div class="pgmark">original p. 106</div>
 
-According to this lineage, Hiraṇyanābha belongs to the time of the Mahābhārata. According to the first genealogy, he is a descendant twelve generations after Bṛhadbala, who belonged to the time of the Mahābhārata. What is found to be true is difficult to determine. If one trusts the first view, it is possible that there were two Yājñavalkyas: one the Vājasaneya Yājñavalkya, and the other a much earlier Yājñavalkya, disciple of Jaimini and teacher of Hiraṇyanābha Kausalya. But the Purāṇic text itself is more likely corrupt, and Hiraṇyanābha and Kausalya may have been two persons; in the same way there may have been only one Yājñavalkya. Or the reigns of the twelve Kosala kings before Bṛhadbala may have been very short. Or there may have been several persons named Jaimini; among them the first Jaimini's teacher may have been not Kṛṣṇa Dvaipāyana Vyāsa but someone earlier, bearing another Vyāsa's name. According to the Skānda Purāṇa, Nāgara-khaṇḍa (5-6-26), a certain Yājñavalkya used to perform the Udgātṛ's work in the sacrifice of Triśaṅku, king of the Solar dynasty.
+According to this lineage, Hiraṇyanābha belongs to the time of the Mahābhārata. According to the first genealogy, he is a descendant twelve generations after Bṛhadbala, who belonged to the time of the Mahābhārata. What is found to be true is difficult to determine. If one trusts the first view, it is possible that there were two Yājñavalkyas: one the Vājasaneya Yājñavalkya, and the other a much earlier Yājñavalkya, disciple of Jaimini and teacher of Hiraṇyanābha Kausalya. But the Purāṇic text itself is more likely corrupt, and Hiraṇyanābha and Kausalya may have been two persons; in the same way there may have been only one Yājñavalkya. Or the reigns of the twelve Kosala kings before Bṛhadbala may have been very short. Or there may have been several persons named Jaimini; among them the first Jaimini's teacher may have been not Kṛṣṇa Dvaipāyana Vyāsa but someone earlier, bearing another Vyāsa's name. According to the Skānda Purāṇa, Nāgara-khaṇḍa (5-6), a certain Yājñavalkya used to perform the Udgātṛ's work in the sacrifice of Triśaṅku, king of the Solar dynasty.
 
 ### The Teacher of Vājasaneya Yājñavalkya
 
@@ -2778,7 +2778,7 @@ In all, 25 names of branch-originators of the Śukla Yajurveda are found in thes
 
 ### 1. Jābālāḥ
 
-Our conjecture is that Mahāśāla Satyakāma Jābāla, the well-known ācārya of the *Jābāla-upaniṣad*, was the exponent of this branch. He was a disciple of Yājñavalkya and a contemporary of King Janaka. According to the Sabhā-parvan of the Mahābhārata (1-7-55) a certain Jābāli belonged to the family of Viśvāmitra —
+Our conjecture is that Mahāśāla Satyakāma Jābāla, the well-known ācārya of the *Jābāla-upaniṣad*, was the exponent of this branch. He was a disciple of Yājñavalkya and a contemporary of King Janaka. According to the Sabhā-parvan of the Mahābhārata (7-55) a certain Jābāli belonged to the family of Viśvāmitra —
 
 <div class="pgmark">original p. 112</div>
 
