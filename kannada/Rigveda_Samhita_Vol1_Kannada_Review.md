@@ -8,7 +8,7 @@ Each row: page · location · what I wrote · the issue. Resolve by comparing wi
 | 8 (i) | "ಮತ್ತರಾಗಿ ತಮ್ಮ ಪೂರ್ವ ಸಂಸ್ಕೃತಿಯನ್ನೂ" | ಮತ್ತರಾಗಿ | Letter forms small; could be ಮತ್ತಾರಾಗಿ. Sense ("intoxicated") supports ಮತ್ತರಾಗಿ. |
 | 8 (i) | "ವಿಶೇಷ ಪುರಸ್ಕಾರ ___ ಮೂಲೆಯಲ್ಲಿ" | ದೊರೆತು | Vowel sign could be ಇ-form (ದೊರಿತು). |
 | 9 (ii) | "ಜರ್ಮನಿಯ ___ ಎಂಬ ಪಂಡಿತೋತ್ತಮರು" | ಮ್ಯಾಕ್ಸ್‌ಮುಲ್ಲರ್ | Spelling of the name (ಮ್ಯಾಕ್ಸ್/ಮಾಕ್ಸ್/ಮಾರ್ಕ್ಸ್). Same name on PDF 9 (twice) and 10. |
-| 9 (ii) | "ಅಪಾರವಾದ ಉಪಕಾರವನ್ನೇ ___" | ಸಗಿದಾರೆ | Verb unclear (ಸಲ್ಲಿಸಿದ್ದಾರೆ? ಮಾಡಿದ್ದಾರೆ?). |
+| 9 (ii) | "ಅಪಾರವಾದ ಉಪಕಾರವನ್ನೇ ___" | ಸಲ್ಲಿಸಿದ್ದಾರೆ | Resolved by the reader (I had read ಸಗಿದಾರೆ). |
 | 9 (ii) | "ಆತ್ಯವಶ್ಯಕವಾದುದರಿಂದಲೂ" | ಆತ್ಯವಶ್ಯಕ | Printed vowel may be ಅತ್ಯಾವಶ್ಯಕ. |
 | 9 (ii) | "ಉದಾರವಾದ ಸಹಾಯವು ___" | ದೊರೆಯಿತು | ದೊರೆಯಿತು vs ದೊರಿಯಿತು. |
 | 9 (ii) | "ಪರಿಶೋಧನ ಕಾರ್ಯಕ್ಕೆ ___ ವರ್ಷಗಳು" | ೩೯ | Second digit 9 or 0 (earlier on this page: ೩೦ twice). English says 30. |
