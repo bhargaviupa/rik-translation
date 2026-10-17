@@ -44,3 +44,12 @@ Reader's verdict: every numeral and word correct except row ೩೦ (fixed below)
 | ೨೭ | serial "೨೭-" | printed with a hyphen instead of a period. |
 
 Other points: the page number is printed in Latin digits ("15"); the running head reads ಪೂರ್ವಪೀಠಿಕೆ. The dotted ellipsis after "ತ್ವಾ" in row ೩೦ is as printed. Ditto marks ",," are kept as printed.
+
+## Batch 3 (PDF 13–18, printed vi–xi)
+| PDF | Place | Note |
+|---|---|---|
+| 15 | (12) "ಸಾಯಣಭಾಷ್ಯವನ್ನನುಸರಿಸಿ" | Print breaks the word at the line end ("…ವನ್ನ / ನು ಸರಿಸಿ"); read as ವನ್ನು+ಅನುಸರಿಸಿ joined. |
+| 16 | running head | Printed "xi" (sic) on the page that follows viii (should be ix); a stray mark at left. I numbered the page ix. |
+| 17 | "ಈ ಗ್ರಂಥವು ೧೦೦೦ ಪೇಜುಗಳ ಸುಮಾರು ೨೫ ಭಾಗಗಳಲ್ಲಿ" | Number read at 300 dpi as ೨೫ (curled ೨ + ೫). |
+| 17 | "ಪ್ರಜೆಗಳ ಮೇಲಣ" | Possibly printed "ಗ್ರಜೆಗಳ"; I read ಪ್ರಜೆಗಳ. |
+| 18 | "ಸರ್ವಜಿನ್ನಾಮ ಸಂ||" | Year-name word as read (ಸರ್ವಜಿತ್ ?). Date printed in Latin: 24-10-1947. |
