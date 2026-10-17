@@ -114,4 +114,42 @@ O Mitra and Varuṇa, come (*ā yātam*): approach our sacrifice. If it is asked
 
 ---
 
-**Progress note:** Sūkta 137 in progress: printed pp. 1–4 (PDF 19–22) done (through the start of the Special Topics on adri/grāvan, cut at the page edge). Next: printed p. 5 (PDF 23). Open flags: p. 1 "atyaṣṭi-paribhāṣā" reading; p. 3 Nirukta, Pāṇini and Taittirīya Saṃhitā numerals, the vārttika after *divispṛśā*, and *gobhir uvakebhiḥ*; p. 3 Pratipadārtha *dayamāḍiri* (first letter doubtful).
+### Printed p. 5  (PDF 23)
+
+*(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)* **Special Topics (continued).** …*babbṛhāṇa* [?] (numeral not legible [?]); *parvata* (10-[?]-1 [?]); *aśramaṇa, aśrathita, amṛtyu, anātura, ajara, amaviṣṇu* [?] (…[?]), *dhruva, kṣemakāma* (…[?]): all these are epithets showing the speciality of the *adri*. In the same way *pṛthu, pṛthubudhna* and the like are epithets showing the speciality of the *grāvan* alone. The *grāvan* is, in general, compared to a bull (*vṛṣabha*), and the *adri* to a horse.
+
+The word *adri* is read among the names of the cloud and among the names of the thunderbolt (*vajra*), as was said earlier together with the Nirukta explanations. In ṛks such as *śuṣma iyarti prabhṛto me adriḥ* (1-[?]-[?]) it is understood as the thunderbolt weapon that devours enemies; in ṛks such as *uta patnī rathānām adrim* (…[?]) as the cloud or the mountain.
+
+**gośrītāḥ** — *payobhir miśritāḥ*: Soma juice mixed with milk. Sentences such as "*tasmān maitrāvaruṇaṃ payasā śrīṇāti*" (Tai. Saṃ. 6-4-[?]) say that to mix milk with the Soma juice to be offered to Mitra and Varuṇa is a rule prescribed in the scripture. The context in which the offering of milk-mixed Soma was prescribed for Mitra and Varuṇa, the deities presiding over day and night, and the account of the deities connected with it, are told in the Taittirīya Saṃhitā:
+
+> मित्रं देवा अब्रुवन्सोमग्ं राजानग्ं हनामेति सोऽब्रवीन्नाहग्ं सर्वस्य वा अहं मित्रमस्मीति तमब्रुवन् हनामैवेति सोऽब्रवीद्वरं वृणै पयस्वैव मे सोमग्ं श्रीणन्निति तस्मान्मैत्रावरुणं पयसा श्रीणन्ति ।
+
+> *mitraṃ devā abruvansomagṃ rājānagṃ hanāmeti so 'bravīnnāhagṃ sarvasya vā ahaṃ mitramasmīti tamabruvan hanāmaiveti so 'bravīdvaraṃ vṛṇai payasvaiva me somagṃ śrīṇanniti tasmānmaitrāvaruṇaṃ payasā śrīṇanti |*
+
+(Tai. Saṃ. 6-4-[?]) The gods said to Mitra, "Let us kill Soma the king"; Mitra said that he was the friend of everyone and therefore he alone would not agree. Even so, when the gods wished to put him [Soma] to death, Mitra asked as a boon that milk be mixed with the Soma when it is offered; the gods then, having made Mitra and Varuṇa agree, mixed milk into the Soma that is offered. This is the context told.
+
+**gavāśiraḥ** — the details and the purpose of the *āśira* substances to be added to the Soma juice were told at length in the Ṛgveda Saṃhitā, Bhāga [?], p. [?], and in Bhāga [?], pp. [?]–[?] (numerals not legible [?]). In this Sūkta the word occurs twice. For the first, Sāyaṇa has explained "*gobhiḥ kṣīraiḥ miśritāḥ*", and for the second "*gobhiḥ udakaiḥ miśritāḥ*, or *yad vā stutilakṣaṇair mantraiḥ*" [mixed with cows, with water; or with mantras of the nature of praise].
+
+### Printed p. 6  (PDF 24)
+
+*(Header: "Maṃ. 1 A. 20 Sū. 137".)* **matsarāḥ** — this word too is repeated. Sāyaṇa has explained it once as *madahetu* ("cause of exhilaration") and the other time as *mātsaryavantaḥ* [as read]. The Nirukta-writers also give both meanings to this word. "*Matsaraḥ somo mandater tṛptikarmaṇaḥ*" (Ni. 2-[?]) — it is formed from the root *mand*, which gives the meaning "to make satisfied", and is used as a synonym of the Soma juice; and "*matsara iti lobhanāma*" — since it shows excessive desire and self-assertion (*ahamahamikā*) it gets the name *matsara*: such is the explanation of the Nirukta-writers for this word. In the ṛk at hand, for the second *matsara* the meaning is "excellent, vying with the Soma juices of other sacrifices".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; numbers as printed, doubtful ones [?]).** Words treated, with the processes in Kannada: *suṣuma* (root *ṣuñ abhiṣave*, perfect 3rd plural; *mas* → *ma*, *s*-substitution, reduplication, *kit* so no guṇa, no *nighāta* at the head of the pāda, final-acute by the suffix; Pā. 6-1-64, 1-2-5 [?]); *yātam* (root *yā prāpaṇe*, *loṭ* 2nd dual; *nighāta* after a *tiṅanta* [?]); *gośrītāḥ* (*śrīñ pāke*, *niṣṭhā* Pā. 3-2-102 [?], *tṛtīyā karmaṇi* Pā. 6-2-48 [?], accent of the first member); *matsarāḥ* (root *mad tṛptiyoge*, *kṛdhūmadibhyaḥ kit* Uṇ. 3-[?], no *iṭ*, *cit* final accent Pā. 6-1-163); *somāsaḥ* (*ājjaser asuk* Pā. 7-1-50 [?]); *rājānā* (root *rājṛ dīptau*, *kanin* Uṇ. 1-154 [?], *supāṃ sulug…*, vocative *nighāta*).
+
+### Printed p. 7  (PDF 25)
+
+*(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)* **Vyākaraṇa-prakriyā (continued, noted briefly).** *divispṛśā* (*spṛśo 'nudake kvin* Pā. 3-2-58 [?]; the printed remark "*hṛdbhyāṃ jīrupasaṃkhyānam*" [?] [as in p. 3] for the *aluk* of the locative; vocative: *ā*-substitution and *nighāta* by *āmantritasya ca* Pā. 6-1-198 [?]); *asmatrā* (*asmad* with *trā* in the sense of the seventh case, by the *bahula* word in Pā. 5-4-[?]; final-acute by the suffix); *gantam* (root *gam*, *loṭ* 2nd dual, *tam*; *bahulaṃ chandasi* gives *luk* for the *vikaraṇa*; no nasal-elision; the alternative *tapa*-substitution; the *nighāta*); *mitrāvaruṇā* (*devatādvandve ca* Pā. 6-3-26 [?] gives *ānaṅ* to the first member; *supāṃ sulug…*; *āmantritasya ca*).
+
+**Ṛk 2**
+
+**॥ संहितापाठः ॥**
+
+> इमा आ यातमिन्दवः सोमासो दध्याशिरः सुतासो दध्याशिरः ।
+> उत वामुषसो बुधि साकं सूर्यस्य रश्मिभिः ।
+> सुतो मित्राय वरुणाय पीतये चारुर्ऋताय पीतये ॥ २ ॥
+
+*(The first word is printed "ಇನು" or similar; read as *imā* [?]. Both *dadhyāśiraḥ*, the first printed without its visarga [as read].)*
+
+---
+
+**Progress note:** Sūkta 137 in progress: printed pp. 1–7 (PDF 19–25) done; Ṛk 2 Saṃhitā given (p. 7); next: printed p. 8 (PDF 26), Ṛk 2 Pada. Open flags: p. 1 "atyaṣṭi-paribhāṣā" reading; p. 3 Nirukta, Pāṇini and Taittirīya Saṃhitā numerals, the vārttika after *divispṛśā*, and *gobhir uvakebhiḥ*; p. 3 Pratipadārtha *dayamāḍiri*; pp. 5–7 almost all small-type numerals (Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ.) not read, marked [?]; p. 7 *gantam* paragraph (small type) partly doubtful; Ṛk 2 Saṃhitā first word *imā* [?].
