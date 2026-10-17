@@ -85,3 +85,10 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 31 | "ಸೂತ್ರಸ್ಥಾನ—೧-೧೪." | Numeral as read (೧-೧೪); right-aligned in the print. |
 | 32 | "(೧-೫-೩)" | Reference after the Amarakośa quotation, read as ೧-೫-೩ (6/7 and 3/5 confusions possible). |
 | 32 | bold Sanskrit quotations | Bold kept; the ya- and ya-like vattus (ವಿದಂತ್ಯ…, ವ್ಯುತ್ಪದ್ಯ…, ವೇದ್ಯಂ) were read from the shared hooked glyph, not completed from memory. |
+
+## PDF 33–34 (printed 7–8), Sanskrit lines read from 300 dpi zooms
+| PDF | Place | Note |
+|---|---|---|
+| 33 | Dayānanda quotation, line 2 "ಸತ್ಯವಿದ್ಯಾ ಯೈರ್ಯೇಷು" | The glyph before ರ್ is printed like ಯ್ಯೈ; read ಯೈರ್. |
+| 33 | "ಓಪಚಾರಿಕ" | The typeface prints initial ಔ like ಓ (as in the contents: ಓದ್ದಾಲಕಿ, ಓರ್ಗುಂಡಿ); kept as printed. |
+| 34 | "ಹವಿಸ್ಸನ್ನರ್ಪಿಸಿ" | As read; not zoomed. |
