@@ -75,3 +75,13 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 29 | verse line 5 | **Clearer later printing:** line 5 reads "ಉತತ್ವಃ ಪಶ್ಯನ್ನ ದದರ್ಶ ವಾಚಮುತ ತ್ವಃ …". The contents entry on PDF 24 (read at 150 dpi as "ಉತೆತ್ವಃ … ದೆದರ್ಶ ವಾಚಃ") is probably the same text; the PDF 24 reading should be taken as less reliable. |
 | 29 | "ಹವ್ಯಾಸಕ್ಕೇ" | Read as ಹವ್ಯಾಸ (habit/interest). |
 | 30 | "ಇಲ್ಲವೆಂದಮೇಲೆ" | Spelling as read. |
+
+## PDF 31–32 (printed 5–6), read from 300 dpi zooms
+| PDF | Place | Note |
+|---|---|---|
+| 31 | "ಅನ್ವವಿಂದ್ರ್ದ[?]" | The first form in the list of Taittirīya forms is unclear at the end (… ವಿಂದ್ರ್ದ). |
+| 31 | "ಘಞ್", "ಉಞ್ಛಾ…" | The ಞ glyph is printed like ಇ in this typeface; read as ಞ because ಇ cannot carry a virama. |
+| 31 | "ಹ್ಯೇವೈನಂ" | In the Pippalāda quotation the letters after ಹ್ಯೇ are small; read ವೈನಂ. |
+| 31 | "ಸೂತ್ರಸ್ಥಾನ—೧-೧೪." | Numeral as read (೧-೧೪); right-aligned in the print. |
+| 32 | "(೧-೫-೩)" | Reference after the Amarakośa quotation, read as ೧-೫-೩ (6/7 and 3/5 confusions possible). |
+| 32 | bold Sanskrit quotations | Bold kept; the ya- and ya-like vattus (ವಿದಂತ್ಯ…, ವ್ಯುತ್ಪದ್ಯ…, ವೇದ್ಯಂ) were read from the shared hooked glyph, not completed from memory. |
