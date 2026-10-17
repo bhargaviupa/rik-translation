@@ -17,3 +17,12 @@ Each row: page · location · what I wrote · the issue. Resolve by comparing wi
 | 10 (iii) | "…ಅಪೂರ್ಣವಾಗಿ ___ ವಿಷಾದಕರವಾಗಿದೆ" | ಸಮಾಪ್ತಿಗೊಂಡಿರುವುದು | Ending partly unclear (ಗೊಂಡುದು / ಗೊಂಡಿರುವುದು). |
 
 Other notes: (1) Line-end word-splits in the print (e.g. ಪಂಡಿತ|ನಿಗೆ) are rejoined. (2) Where the print splits a word with a stray space mid-line (e.g. "ಮಾಡುವಸಂದರ್ಭದಲ್ಲಿ" with the space missing) I kept the print's spacing. (3) The last paragraph of PDF 9 ends "ವೇದವಿಚಾರವಾದ" and continues on PDF 10; the sentence at the end of PDF 10's first paragraph has no full stop in the print.
+
+## Batch 2 (PDF 11–12, printed iv–v)
+All earlier `[?]` rows above were accepted by the reader and removed from the text.
+
+| PDF (printed) | Place | Written | Issue |
+|---|---|---|---|
+| 12 (v) | "ಇವರ ಕಾಲವನ್ನು ___ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ" | ನಿರ್ಧರವಾಗಿ | Could be ನಿರ್ಧಾರವಾಗಿ (long ā). |
+
+Zoomed and resolved: PDF 11, last paragraph "ನಾವು ೨೫ ಪ್ರಕರಣಗಳನ್ನೊಳಗೊಂಡ" — number read at 300 dpi as ೨೫; matches the 25 chapters of the Pīṭhike in the contents.
