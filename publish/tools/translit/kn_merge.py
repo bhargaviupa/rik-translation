@@ -12,15 +12,18 @@ sys.path.insert(0, os.path.dirname(__file__))
 from deva_to_kannada import deva2kn
 
 def en_blocks(en, printed):
-    m = re.search(r'^### Printed p\. %s\b.*?$(.*?)(?=^### Printed p\. |^## |\Z)' % re.escape(printed), en, re.M | re.S)
-    assert m, 'no English section for printed p. ' + printed
+    # all sections headed '### Printed p. N' (a continuation heading after a Sūkta break counts too)
+    secs = re.findall(r'^### Printed p\. %s\b.*?$(.*?)(?=^### Printed p\. |^## |\Z)' % re.escape(printed), en, re.M | re.S)
+    secs += re.findall(r'^### Printed p\. %s\b.*?$(.*?)(?=^### Printed p\. |^## |\Z)' % re.escape(printed), '', re.M | re.S)
+    assert secs, 'no English section for printed p. ' + printed
+    # sections that follow a '## Sūkta' heading carry the same page number (continuation): find them separately
     blocks, cur = [], []
-    for ln in m.group(1).split('\n') + ['']:
-        if ln.startswith('> ') and not ln.startswith('> *'):
-            cur.append(ln[2:])
-        else:
-            if cur: blocks.append('\n'.join(cur)); cur = []
-            if ln.startswith('> *'): pass
+    for sec in secs:
+        for ln in sec.split('\n') + ['']:
+            if ln.startswith('> ') and not ln.startswith('> *'):
+                cur.append(ln[2:])
+            elif cur:
+                blocks.append('\n'.join(cur)); cur = []
     return blocks
 
 def main(draft, en_path, kn_path):
