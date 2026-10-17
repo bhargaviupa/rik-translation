@@ -140,13 +140,17 @@ The word *adri* is read among the names of the cloud and among the names of the 
 
 *(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)* **Vyākaraṇa-prakriyā (continued, noted briefly).** *divispṛśā* (*spṛśo 'nudake kvin* Pā. 3-2-58 [?]; the printed remark "*hṛdbhyāṃ jīrupasaṃkhyānam*" [?] [as in p. 3] for the *aluk* of the locative; vocative: *ā*-substitution and *nighāta* by *āmantritasya ca* Pā. 6-1-198 [?]); *asmatrā* (*asmad* with *trā* in the sense of the seventh case, by the *bahula* word in Pā. 5-4-[?]; final-acute by the suffix); *gantam* (root *gam*, *loṭ* 2nd dual, *tam*; *bahulaṃ chandasi* gives *luk* for the *vikaraṇa*; no nasal-elision; the alternative *tapa*-substitution; the *nighāta*); *mitrāvaruṇā* (*devatādvandve ca* Pā. 6-3-26 [?] gives *ānaṅ* to the first member; *supāṃ sulug…*; *āmantritasya ca*).
 
-**Ṛk 2**
+#### Ṛk 2
 
 **॥ संहितापाठः ॥**
 
 > इमे [?] आ यातमिन्दवः सोमासो दध्याशिरः सुतासो दध्याशिरः ।
 > उत वामुषसो बुधि साकं सूर्यस्य रश्मिभिः ।
 > सुतो मित्राय वरुणाय पीतये चारुर्ऋताय पीतये ॥ २ ॥
+
+> *ime [?] ā yātamindavaḥ somāso dadhyāśiraḥ sutāso dadhyāśiraḥ |*
+> *uta vāmuṣaso budhi sākaṃ sūryasya raśmibhiḥ |*
+> *suto mitrāya varuṇāya pītaye cārurṛtāya pītaye ‖ 2 ‖*
 
 *(The first word is printed doubtfully; it is read *ime* [?] — the Pada on p. 8 gives *ime* and the bhāṣya *ime indavaḥ*. The first *dadhyāśiraḥ* seems printed without its visarga [as read].)*
 
@@ -202,4 +206,124 @@ O Mitra and Varuṇa, come (*ā yātam*): approach. For these *indavaḥ* — th
 
 ---
 
-**Progress note:** Sūkta 137 in progress: printed pp. 1–10 (PDF 19–28) done; Ṛk 1 and Ṛk 2 complete. Next: printed p. 11 (PDF 29), Ṛk 3. Open flags: p. 1 "atyaṣṭi-paribhāṣā" reading; p. 3 Nirukta/Pāṇini/Tai. Saṃ. numerals, vārttika after *divispṛśā*, *gobhir uvakebhiḥ*; pp. 5–10 most small-type numerals (Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ.) marked [?]; p. 7 *gantam* paragraph; p. 8 bhāṣya *dadhyavanayana* [?], *pītaye sātra…* tail and *cāruś caraṇīyo* [?]; p. 8 *indavaḥ* Pratipadārtha *pravisatakka* [?]; p. 10 gloss on *āśīḥ*; Ṛk 2 first word *ime* [?] in the Saṃhitā.
+### Printed p. 11  (PDF 29)
+
+#### Ṛk 3
+
+*(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)*
+
+**॥ संहितापाठः ॥**
+
+> तां वां धेनुं न वासरीमंशुं दुहन्त्यद्रिभिः सोमं दुहन्त्यद्रिभिः ।
+> अस्मत्रा गन्तमुप नोऽर्वाञ्चा सोमपीतये ।
+> अयं वां मित्रावरुणा नृभिः सुतः सोम आ पीतये सुतः ॥ ३ ॥
+
+> *tāṃ vāṃ dhenuṃ na vāsarīmaṃśuṃ duhantyadribhiḥ somaṃ duhantyadribhiḥ |*
+> *asmatrā gantamupa no 'rvāñcā somapītaye |*
+> *ayaṃ vāṃ mitrāvaruṇā nṛbhiḥ sutaḥ soma ā pītaye sutaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> ताम् । वाम् । धेनुम् । न । वासरीम् । अंशुम् । दुहन्ति । अद्रिऽभिः । सोमम् । दुहन्ति । अद्रिऽभिः ॥
+> अस्मत्रा । गन्तम् । उप । नः । अर्वाञ्चा । सोमऽपीतये ॥
+> अयम् [?] । वाम् । मित्रावरुणा । नृऽभिः । सुतः । सोमः । आ । पीतये । सुतः ॥ ३ ॥
+
+> *tām | vām | dhenum | na | vāsarīm | aṃśum | duhanti | adri 'bhiḥ | somam | duhanti | adri 'bhiḥ ‖*
+> *asmatrā | gantam | upa | naḥ | arvāñcā | soma 'pītaye ‖*
+> *ayam [?] | vām | mitrāvaruṇā | nṛ 'bhiḥ | sutaḥ | somaḥ | ā | pītaye | sutaḥ ‖ 3 ‖*
+
+(Note: the first word of the third line of the Pada is printed ā-like, "ಆಯಂ"; read *ayam* [?]; the last word is read *sutaḥ*.)
+
+**॥ सायणभाष्यम् ॥**
+
+> वां युवयोः सम्बन्धिनमंशुं वल्लीरूपं सोमं दुहन्ति । सम्पादयन्त्यध्वर्यवः । किमिव । तां प्रसिद्धामग्निहोत्राद्यर्थां वासरीं सर्वाङ्गाच्छादितपयस्कां । बहुक्षीरामित्यर्थः । यद्वा । पयआदिनाच्छादयित्रीं ॥ वस आच्छादने । औणादिकोऽरिप्रत्ययः । कृदिकारादक्तिन इति ङीष् । यद्वा । केवल औणादिकोऽरप्रत्ययः । स्वार्थिकोऽण् ॥ धेनुं न प्रीणयित्रीं गामिव । केन साधनेनेति तदाह । अद्रिभिरभिषवसाधनैर्ग्रावभिः । किंचाद्रिभिस्तैरेव साधनैः सोमं युष्मदर्थमेव दुहन्ति । वल्लीरूपं सोमं युष्मदर्थमेवोदकेनाप्लाव्य रसं दुहन्ति । किंचार्वाञ्चास्मदभिमुखौ सन्तौ सोमपीतये सोमपानायास्मत्रास्मत्त्रातारौ युवां नोऽस्मदीयं यज्ञमुप गन्तम् । उपागच्छतम् । किंच वां युष्मदर्थमयं सोमो नृभिर्नेतृभिर्यज्ञनिर्वाहकैरृत्विग्भिः सुतः । अभिषुतः । किंचा पीतये सम्पूर्णपानाय सुतः । अत आगच्छतमित्यर्थः ॥
+
+> *vāṃ yuvayoḥ sambandhinamaṃśuṃ vallīrūpaṃ somaṃ duhanti | sampādayantyadhvaryavaḥ | kimiva | tāṃ prasiddhāmagnihotrādyarthāṃ vāsarīṃ sarvāṅgācchāditapayaskāṃ | bahukṣīrāmityarthaḥ | yadvā | payaādinācchādayitrīṃ ‖ vasa ācchādane | auṇādiko 'ripratyayaḥ | kṛdikārādaktina iti ṅīṣ | yadvā | kevala auṇādiko 'rapratyayaḥ | svārthiko 'ṇ ‖ dhenuṃ na prīṇayitrīṃ gāmiva | kena sādhaneneti tadāha | adribhirabhiṣavasādhanairgrāvabhiḥ | kiṃcādribhistaireva sādhanaiḥ somaṃ yuṣmadarthameva duhanti | vallīrūpaṃ somaṃ yuṣmadarthamevodakenāplāvya rasaṃ duhanti | kiṃcārvāñcāsmadabhimukhau santau somapītaye somapānāyāsmatrāsmattrātārau yuvāṃ no 'smadīyaṃ yajñamupa gantam | upāgacchatam | kiṃca vāṃ yuṣmadarthamayaṃ somo nṛbhirnetṛbhiryajñanirvāhakairṛtvigbhiḥ sutaḥ | abhiṣutaḥ | kiṃcā pītaye sampūrṇapānāya sutaḥ | ata āgacchatamityarthaḥ ‖*
+
+The Adhvaryus milk (produce) for you, i.e. belonging to you, the *aṃśu*, the Soma in creeper-form. Like what? Like that well-known *vāsarī* [cow] meant for the Agnihotra and the rest, whose milk covers all her limbs — i.e. with abundant milk; or, one who covers (the calf) with milk and so on. (Grammar:) root *vas ācchādane*; the Uṇādi suffix *ari*; *ṅīṣ* by "*kṛdikārād aktinaḥ*"; or the Uṇādi suffix *ara* alone, with the *svārthika aṇ*. *Dhenuṃ na*: like a cow that gladdens. By what means? He says: *adribhiḥ*, with the pressing-stones (*grāvan*). Further, with those very instruments they milk the Soma for you alone; having drenched the Soma in creeper-form with water for you alone, they milk the juice. Further: *arvāñcā* — turned towards us, for *somapītaye*, the drinking of Soma, O you who are our protectors (*asmatrā*), come to our sacrifice (*upa gantam*: approach). Further, for you this Soma has been pressed by the *nṛbhiḥ* — the leaders, the priests who carry out the sacrifice. *Ā pītaye*: pressed for complete drinking. Therefore the sense is "come".
+
+**Pratipadārtha (Kannada, begins on p. 12).**
+
+### Printed p. 12  (PDF 30)
+
+*(Header: "Maṃ. 1 A. 20 Sū. 137".)* **Pratipadārtha.** *vāsarīm* — filled fully with milk; *dhenuṃ na* — as one milks a cow; *vām* — belonging to you (for you); *tām aṃśum* — that Soma creeper; *adribhiḥ* — with the pressing-stones; *duhanti* — (the Adhvaryus) press and milk (the juice) (and); *adribhiḥ* — with those same pressing-stones; *somam* — the Soma juice; *duhanti* — they press (for your drinking) (therefore); *arvāñcā* — turned towards (us); *somapītaye* — for drinking the Soma juice; *asmatrā* — you two, our protectors, as well; *naḥ* — our (sacrifice); *upa gantam* — kindly come; *mitrāvaruṇā* — O Mitra and Varuṇa; *vām* — for you; *ayaṃ somaḥ* — this Soma juice; *nṛbhiḥ* — by the priests who carry out the sacrifice; *sutaḥ* — has been pressed; *ā pītaye* — for your complete drinking; *sutaḥ* — pressed (therefore kindly come).
+
+**Bhāvārtha.** O Mitra and Varuṇa, as one milks a cow full of milk, the Adhvaryus press and milk, for you, that juicy Soma creeper with the pressing-stones; with those same pressing-stones they press the Soma juice. Therefore, turned towards us, come to our sacrifice, you who are our protectors, to drink the Soma juice. O Mitra and Varuṇa, this Soma juice has been pressed for you by the priests. Come to drink it.
+
+**English Translation (as printed):** They milk for you two with stones, that succulent creeper, like a productive milch cow ; they milk the Soma plant with stones ; come to us as our protectors ; be present with us to drink Soma juice : this Soma juice has been effused, Mitra and Varuna, for you both ; effused for your drinking.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**vāsarīm** — *sarvāṅgācchāditapayaskām, bahukṣīrām ity arthaḥ*: "(over the whole body [?] — in the udder) having filled with milk, i.e. having abundant milk", is the meaning.
+
+**aṃśum** — *vallīrūpaṃ somam*: "the Soma creeper"; for the word *aṃśu* Sāyaṇa has given the meaning "the creeper of the juice-filled Soma". The Nirukta-writers give an explanation of this word: "*aṃśuḥ śam aśnute mātro bhavati; anāya śaṃ bhavatīti vā*" (Ni. 2-[?]) [as read] — as soon as it enters the body it becomes pleasant; or it is cooling to life; therefore it is named *aṃśu*, it is said. (continues on p. 13)
+
+### Printed p. 13  (PDF 31)
+
+*(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)* They have cited the ṛk:
+
+> ते सोमादो हरी इन्द्रस्य निंसतेऽंशुं दुहन्तो अध्यासते गवि ।
+
+> *te somādo harī indrasya niṃsate 'ṃśuṃ duhanto adhyāsate gavi |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) Here the word *aṃśu* means the Soma juice. Likewise:
+
+> पिपीले अंशुर्मद्यो न सिन्धुरा त्वा शमी शशमानस्य शक्तिः ।
+
+> *pipīle aṃśurmadyo na sindhurā tvā śamī śaśamānasya śaktiḥ |*
+
+(Ṛ. Saṃ. [?]-[?]-[?] [?])
+
+> असाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः । श्येनो न योनिमासदत् ॥
+
+> *asāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ | śyeno na yonimāsadat ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?] [?])
+
+In ṛks such as these the meaning everywhere is the Soma juice. But when the word *aṃśu* comes as an epithet of the word *soma*, it must be said to mean the Soma creeper [?] (a doubtful phrase before "Soma creeper" [?]). For example:
+
+> आत्सि इन्द्रः सदसो वरीयान्यदीं सोमः पृणति [?] मग्धो [?] अंशुः ॥
+
+> *ātsi indraḥ sadaso varīyānyadīṃ somaḥ pṛṇati [?] magdho [?] aṃśuḥ ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?])
+
+> अंशुं दुहन्ति हस्तिनो भरित्रैर्मध्वः पुनन्ति धारया पवित्रैः ।
+
+> *aṃśuṃ duhanti hastino bharitrairmadhvaḥ punanti dhārayā pavitraiḥ |*
+
+(Ṛ. Saṃ. [?]-[?]-[?])
+
+In ṛks such as these, since the word *aṃśu* is an epithet of the word *soma*, [it means] "*latākhaṇḍarūpaḥ alpaḥ somaḥ*": a small piece of the creeper, and so a small Soma; it tells of the small quantity of the Soma. "*Alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*": it is understood that, though Indra is a great deity, the small Soma satisfies him. Thus, though the principal meaning of the word *aṃśu* is the Soma juice itself, in some places it also means the Soma creeper.
+
+**asmatrā** — "you who are our protectors", the protection of Mitra and Varuṇa is praised. As the epithets "*viśvasya bhuvanasya gopāḥ*" ([?]-[?]-[?], [?]-[?]-[?]) and the like describe the protection of the world that Mitra and Varuṇa do day and night, this epithet too tells that point.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; numbers as printed, doubtful ones [?]).** *vāsarīm* — root *vas ācchādane*, an Uṇādi suffix *ari*, *vṛddhi* of the initial by *vyatyaya* [as read]; for the feminine, *ṅīp* by *kṛdikārād aktinaḥ* (the *-i*-final *kṛdanta* other than *ktin*); or the Uṇādi suffix *ara*; belonging to the *prajñādi* class, *prajñādibhyaś ca* Pā. 5-4-38 [?] gives *aṇ* in the self-sense; *taddhiteṣv acām ādeḥ* Pā. 7-2-117 [?] gives the *vṛddhi* of the initial; in the feminine *ṭiḍḍhāṇañ…* gives *ṅīp*; *yasyeti ca* drops the *a*; *anudāttasya ca yatrodāttalopaḥ* Pā. 6-1-161 [?] gives the acute on the *ṅīp*; accusative singular. (The grammar of the remaining words continues on p. 14.)
+
+---
+
+### Printed p. 14  (PDF 32)
+
+*(Header: "Maṃ. 1 A. 20 Sū. 137".)* **Vyākaraṇa-prakriyā of Ṛk 3 (continued; grammar page, noted briefly; numbers as printed, doubtful ones [?]).** *duhanti* — root *duha prapūraṇe*, *adādi* class; *laṭ* 3rd plural, *jhi* → *ant*; *ādiprabhṛtibhyaḥ śapaḥ* gives *luk* of *śap*; after a *tiṅanta* [as read, "atiṅantada"], *nighāta*. *asmatrā* — *asmān trāyete iti asmatrā*, root *traiṅ pālane*, *kvip* by *kvip ca*; *supāṃ sulug…* Pā. 7-1-39 gives *ā* for the case-ending; in the compound *gatikārakopapadāt kṛt* Pā. 6-2-139 [?] gives the accent of the *kṛdanta* second member [as read]. *arvāñcā* — *supāṃ sulug…* Pā. 7-1-39 gives *ā* for the dual *au*. *somapītaye* — *somasya pītiḥ somapītiḥ tasmai*; *pīti* was explained in the previous mantra; *tādau ca niti* Pā. 6-2-50 [?] gives the accent of the first member; dative singular. *nṛbhiḥ* — root *nṛ nayet*, *kvip*; instrumental plural. *sutaḥ* — root *ṣuñ abhiṣave*, *niṣṭhā* gives *kta*; final acute by the suffix.
+
+**Here ends Sūkta 137** (*susumā yātam*; 3 ṛks; printed pp. 1–14).
+
+---
+
+## Sūkta 138 — *pra pra pūṣṇaḥ* (begins at the foot of printed p. 14; Anuvāka 20, fifth Sūkta; 4 ṛks)
+
+### Printed p. 14 (cont.)  (PDF 32)
+
+The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta" (ನೂರ ಮೂವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು).
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (introduction)**
+
+> प्रप्र पूष्ण इति चतुर्ऋचं पञ्चमं सूक्तं पारुच्छेपमात्यष्टं पूषदेवताकम् । प्रप्र चतुष्कं पौष्णमित्यनुक्रान्तम् ॥ विनियोगो लैङ्गिकः ॥
+
+*Prapra pūṣṇaḥ* is the fifth Sūkta, of four ṛks, of Pārucchepa [i.e. of Parucchepa], in the Atyaṣṭi metre, with Pūṣan as deity. The Anukramaṇikā says "*prapra catuṣkaṃ pauṣṇam*". Its application is *laiṅgika*.
+
+**Anuvāda (Kannada translation).** This Sūkta *prapra pūṣṇaḥ* is the fifth Sūkta in the twentieth Anuvāka. It has four ṛks. The seer of this Sūkta is Parucchepa, son of Divodāsa. Pūṣan is the deity. The metre is Atyaṣṭi. In the Anukramaṇikā they have said "*prapra catuṣkaṃ pauṣṇam*". The application of the Sūkta is *laiṅgika*.
+
+---
+
+**Progress note:** **Sūkta 137 complete** (printed pp. 1–14, PDF 19–32). Sūkta 138 begun at the foot of p. 14 (heading, bhāṣya introduction, Anuvāda). Next: printed p. 15 (PDF 33), the Sūkta 138 table and Ṛk 1. Open flags for Sūkta 137: p. 1 "atyaṣṭi-paribhāṣā" reading; pp. 3, 5–14 small-type numerals of Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ. mostly not read, marked [?]; p. 3 vārttika after *divispṛśā* and *gobhir uvakebhiḥ*; p. 7 *gantam* paragraph; p. 8 bhāṣya *dadhyavanayana* [?], tail of *pītaye*, *cāruś caraṇīyo* [?]; p. 10 gloss on *āśīḥ*; p. 11 Pada *ayam* [?]; p. 13 the Ṛg quotations (esp. the fourth) and the phrase before "Soma creeper"; Ṛk 2 Saṃhitā first word *ime* [?]. The Pīṭhike and contents table (PDF 7–18) are not yet done.
