@@ -2924,7 +2924,7 @@ It is more probable that Kaṇva and his disciples mentioned at the beginning of
 >
 > "These, indeed, are attached to the Āṅgirasa side — Kaṇva and the Maudgalas." (The last word is printed *naudgalāḥ*; the sense suggests *maudgalāḥ*.)
 
-Likewise in the Brahmāṇḍa Purāṇa (1-1[?]-?) and the Vāyu Purāṇa (59-100), in these places too, the Kaṇvas are said to belong to the Āṅgirasa gotra.
+Likewise in the Brahmāṇḍa Purāṇa (1-112) and the Vāyu Purāṇa (59-100), in these places too, the Kaṇvas are said to belong to the Āṅgirasa gotra.
 
 #### Kaṇva's hermitage
 
