@@ -35,3 +35,11 @@ Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~28
 
 ## Volume 10 (set up Oct 2026; translated Oct 2026; **fully translated**, Sūktas 122–136, printed pp. 2–707; the progress note at the end of the output file lists the open flags)
 `Rig_Vol10.pdf` (728 PDF pp., Git LFS), Maṇḍala 1 **Sūktas 122–136**, from the First Adhyāya of the Second Aṣṭaka (Sūkta 122 on printed p. 2 = PDF 23; **printed page = PDF − 21**, to be re-checked); output `Rigveda_Samhita_Vol10_English_Translation.md`. Header on even pages reads "Maṃ. 1 A. 18 Sū. N" (Anuvāka 18). Numeral aids were dropped (the classifier and OCR reference lines did not help); read numerals from the images with the digit key above, `[?]` where doubtful, and do a separate numeral pass later (`publish/tools/numeral_pass/METHOD.md`).
+
+## Cost-saving rules for Volume 11 onwards (decided Oct 2026)
+- **Bhāṣya stays in Sanskrit:** transcribe the Sāyaṇa-bhāṣya in Devanagari (IAST by script) and give **no English rendering of it**, only a one-line gist (≤ 25 words) per Ṛk when the sense is not obvious from the Pratipadārtha. The Kannada file converts it by script as before. Its grammatical tail is still transcribed (it is Sanskrit, cheap) but not explained.
+- **Grammar pages:** English note only (2–4 lines naming words); the Kannada file carries the headwords and legible sūtra names, not every numeral. Small-type numerals: `[?]`, no zooming.
+- **Printed English of each Ṛk:** start from `english_block.py` output and compare, not retype.
+- **Images:** view at ~120 dpi; zoom only a crop that cannot be read.
+- **Kannada prose drafts** (Pratipadārtha, Bhāvārtha, Special Topics): may be drafted by a smaller model if the user asks; I review `[?]` lines and the Sanskrit.
+- Put italic notes **before** a Devanagari block or after its IAST line (a note right after the block stops `add_iast.py` adding the IAST).
