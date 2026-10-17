@@ -4,7 +4,119 @@
 **Covers:** Maṇḍala 1, the Second Adhyāya of the Second Aṣṭaka ("ದ್ವಿತೀಯಾಷ್ಟಕೇ ದ್ವಿತೀಯೋ ಽಧ್ಯಾಯಃ"), **Sūktas 137–157** per the contents table (21 Sūktas: 137 *susumā yātam*, 138 *pra hotā*, 139 *asti hy asmai*, 140 *vediṣade*, 141 *baḍ itthā*, 142 *samiddho agne*, 143 *pra tavyasīm*, 144 *eti pra hotā*, 145 *taṃ pṛcchata*, 146 *trimūrdhānam*, 147 *kathā te*, 148 *mathīd yad*, 149 *mahaḥ sa*, 150 *puru tvā*, 151 *mitraṃ na yam*, 152 *yuvaṃ vastrāṇi*, 153 *yajāmahe vām*, 154 *viṣṇor nu kam*, 155 *pra vaḥ pāntam*, 156 *bhavā mitro*, 157 *abodhy agniḥ*; headings read from the table, numbers by the ordinal words). Sūkta 137 is on printed p. 2 (PDF 20); the contents table gives Sūkta 138 on p. 14 and Sūkta 157 on p. 668.
 **Page offset:** title page = PDF 19 (= printed p. 1); **printed page = PDF − 18**. Pīṭhike PDF 7–12, contents (Viṣayānukramaṇike) PDF 13–18 (roman vii–xii). Headers: even pages "Maṃ. 1 A. 20 Sū. N" (Anuvāka 20), odd pages "Aṣṭaka 2, Adhyāya 2, Varga N".
 **Conventions:** carried over unchanged from Volumes 1–10 (see `CLAUDE.md`). Companion file: `Rigveda_Samhita_Vol11_Kannada_Text.md`.
-**Status:** Pīṭhike and contents table not yet done (to be added if wanted); translation in progress.
+**Status:** Pīṭhike done (printed pp. i–vi); contents table (PDF 13–18) not translated; translation in progress.
+
+---
+
+## Pīṭhike (Preface) — Kannada, printed pp. i–vi
+
+*(PDF 7–12; printed page = PDF − 6 here, the Pīṭhike having its own roman numbering. Small-type references and numerals are very small: doubtful ones are marked `[?]`. The Sūkta numbers in the opening paragraph are as read and agree with the contents table.)*
+
+### Printed p. i  (PDF 7)
+
+In this eleventh part of the Ṛgveda Saṃhitā, this volume has in all 21 Sūktas of Maṇḍala 1, Sūktas 137 to 157 [as read]. Of these, the first three Sūktas (137–139 [as read]), seen by Parucchepa Daivodāsi, praise Mitra-Varuṇa, Pūṣan and the Viśvedevas; the remaining Sūktas, seen by the seer Dīrghatamas, praise Jātavedas, Agni, Mitra-Varuṇa, Aditi, Viṣṇu, Indra-Viṣṇu and the Aśvin deities. Like the works of Kutsa Āṅgirasa, the works of Parucchepa and Dīrghatamas contain exalted ideas and are of a beautiful style. Both are very famous for their personal influence and for their skill in composition.
+
+> दध्यङ् ह मे जनुषं पूर्वे अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ।
+
+> *dadhyaṅ ha me januṣaṃ pūrve aṅgirāḥ priyamedhaḥ kaṇvo atrirmanurviduste me pūrve manurviduḥ |*
+
+(Ṛ. Saṃ. 1-139-9 [?]) Parucchepa tells the fame of himself and his line: "the ancient seers Dadhīci, Aṅgiras, Priyamedha, Kaṇva, Atri and Manu knew well my fathers and grandfathers, and me, the son of Divodāsa." The Taittirīya Saṃhitā praises his personal influence as superhuman. A scene showing that he was the greatest knower of mantras is described thus:
+
+> नृमेधश्च परुच्छेपश्च ब्रह्मवाद्यमवदेतामस्मिन् [?] सारार्द्रेऽग्निं [?] जनयाव यतरो नौ ब्राह्मीयानिति नृमेधोऽभ्यवदत्त धूममजनयत्परुच्छेपोऽभ्यवदत्तोऽग्निमजनयत् प्र [?] इत्यब्रवीत् नृमेधाव् [?] कथा त्वामग्निमजीजनो नाहमिति सामिधेनीनामेवाहं वर्णं पेदेत्यब्रवीत् [?] ॥
+
+> *nṛmedhaśca parucchepaśca brahmavādyamavadetāmasmin [?] sārārdre 'gniṃ [?] janayāva yataro nau brāhmīyāniti nṛmedho 'bhyavadatta dhūmamajanayatparucchepo 'bhyavadatto 'gnimajanayat pra [?] ityabravīt nṛmedhāv [?] kathā tvāmagnimajījano nāhamiti sāmidhenīnāmevāhaṃ varṇaṃ pedetyabravīt [?] ‖*
+
+(Tai. Saṃ. 2-3-8-3 to 4 [?]; the passage is in small type and read with doubt.) Between Nṛmedha and Parucchepa, when the question arose who knew the secret of the śāstra and who was the true knower of reality, it was decided that the one who could produce fire from green wood should be reckoned the knower of the śāstra. When Nṛmedha uttered the mantra, only smoke appeared; when Parucchepa uttered it, the fire blazed up. Nṛmedha asked how, their knowledge being the same, fire could be kindled by Parucchepa and not by him; Parucchepa answered that he knew the secret of the Sāmidhenī verses, and so it was possible. This is the praise in the Taittirīya Saṃhitā.
+
+### Printed p. ii  (PDF 8)
+
+Not only from knowing the secret of mantras but also in the composition of mantras Parucchepa is famous for his skill in construction. In composing the repeated phrases (*abhyāsa-vākyas*) that give to an excellent idea a kind of force, power and beauty for its development, Parucchepa's speciality is outstanding. Praising this power, the Nirukta-writers say "*teppurucchepasya śīlam*" [?] (Ni. 10-43 [?]), "this is Parucchepa's personality", and cite
+
+> प्र तेऽग्नोचीयं [?] भव्यायेन्दवे हव्यो न य इषवान्मन्म रेजति रक्षोहा मन्म रेजति ॥
+
+> *pra te 'gnocīyaṃ [?] bhavyāyendave havyo na ya iṣavānmanma rejati rakṣohā manma rejati ‖*
+
+(Ṛ. Saṃ. 1-143-6 [?]) the repeated phrase in this ṛk, praising Parucchepa's style. The Aitareya Brāhmaṇa too describes the seer Parucchepa's style, the nature of his subjects and the application of the mantras (Ai. Brā. 5-10 to 13 khaṇḍa [?]); all these matters we have explained at length in the preface to the 19th Sūkta in Ṛg. Saṃ. Bhāga 10 [?].
+
+The birth of Dīrghatamas, his series of troubles after birth, his devotion to God even in the greatest calamity, how by his great power of faith he obtained the grace of the Aśvins and other deities, and so on, have been explained in the Special Topics of Ṛks 1-141-3 [?] and 1-158-1 [?]. Because he was the best in hymns and devoted to ritual, he is famous with the epithet *brahmapriya*. Besides, in
+
+> दीर्घतमा मामतेयो जुजुर्वान् दशमे युगे । अपामर्थं यतीनां ब्रह्मा भवति सारथिः ॥
+
+> *dīrghatamā māmateyo jujurvān daśame yuge | apāmarthaṃ yatīnāṃ brahmā bhavati sārathiḥ ‖*
+
+(Ṛ. Saṃ. 1-158-6 [?]) he himself describes the nature of the excellent position he obtained. After he had obtained the grace of Agni and other deities, his praising them is described in the Bṛhaddevatā:
+
+> स वेदिषद इत्येतच्चतुर्भिर्जातवेदसम् । समिद्ध आप्रियोऽत्यन्द्री [?] तमित्यग्नेः पराणि षट् ॥
+
+> *sa vediṣada ityetaccaturbhirjātavedasam | samiddha āpriyo 'tyandrī [?] tamityagneḥ parāṇi ṣaṭ ‖*
+
+(Bṛ. De. 4-16 [?])
+
+> तुष्टाव चैव सूक्ताभ्यामाबोधीत्यैश्विनावृषिः [?] । प्रेति द्यावापृथिव्यौ तु पराभ्यामेतदुत्तरम् ॥
+
+> *tuṣṭāva caiva sūktābhyāmābodhītyaiśvināvṛṣiḥ [?] | preti dyāvāpṛthivyau tu parābhyāmetaduttaram ‖*
+
+(Bṛ. De. 4-33 [?]) The works of this seer are also special in the next adhyāya, and his depth of philosophy and power of exposition are expressed there in a special way; so his great qualities are described there.
+
+### Printed p. iii  (PDF 9)
+
+In the Mitra-Varuṇa Sūkta seen by Parucchepa (1-137) there is no description of the special qualities of those deities; there is only an invitation, with praise, for the drinking of Soma. In Sūkta 138 there is a description of Pūṣan's special qualities. In it the epithet *āghṛṇi* has caused disagreement, in determining Pūṣan's nature, between those of the Vedic tradition and modern scholars. The views of Yāska and others, Bloomfield and other scholars following them, and some scholars who give different opinions, are stated in the Special Topics of Ṛk 4 of Sūkta 138 (pp. 53–54 [?]).
+
+When Yāska and others argue that Pūṣan is an Āditya deity, the epithets they take up need not refer to the Āditya alone; some argue that they can apply to all deities. In stating such opposing views too, the recent scholars show certain grounds and establish their position. For example:
+
+> यास्ते पूषन्नावो अन्तः समुद्रे हिरण्ययीरन्तरिक्षे चरन्ति । ताभिर्यासि दूत्यं सूर्यस्य कामेन कृत श्रव इच्छमानः ॥
+
+> *yāste pūṣannāvo antaḥ samudre hiraṇyayīrantarikṣe caranti | tābhiryāsi dūtyaṃ sūryasya kāmena kṛta śrava icchamānaḥ ‖*
+
+(Ṛ. Saṃ. 6-58-3 [?]) In this ṛk Pūṣan is regarded as the messenger of the Sun; and likewise, from other examples, they show that many points differ between Āditya and Pūṣan. Moreover, in the Sūkta [numeral not legible [?]] which describes the nature of the Viśvedevas, there is no description of Pūṣan's solar quality, and so on; arguing thus, they conclude that Pūṣan is not an Āditya deity as traditionally held, and that "he", being a deity who protects cattle, has acquired a distinct peculiarity of his own.
+
+The main part of the hymns to Pūṣan is contained in the sixth Maṇḍala of the Ṛgveda, from Sūkta 53 to the 58th [as read]. It is learned that the seers of the Bhāradvāja line kept Pūṣan as their chief deity. Some scholars call this portion "Pūṣasaṃhitā". Besides, in other parts of the Saṃhitā too Pūṣan is praised along with other deities such as Indra and Soma. In Ṛks such as 6-53-3, 6-54-1, 6-58-1, 6-59-3 [as read; doubtful], the descriptions "*kapardin*", "*paśusādhane*", "*aṣṭrā*", "*karambhād*", "*ajāśva*" give us a definite picture of Pūṣan. Along with the general qualities shared with other deities, Pūṣan seems in the sixth Maṇḍala to have a special aspect of prominence: it is clearly stated that he is the deity who protects cattle, that by this deity's grace the worshippers' cattle-wealth should increase, and that he alone is the protector of cows and the like that have lost their way.
+
+### Printed p. iv  (PDF 10)
+
+> पूषा गा अन्वेतु नः पूषा रक्षत्वर्वतः । पूषा वाजं सनोतु नः ॥
+
+> *pūṣā gā anvetu naḥ pūṣā rakṣatvarvataḥ | pūṣā vājaṃ sanotu naḥ ‖*
+
+(Ṛ. Saṃ. 6-54-5 [?])
+
+> माकिर्नेशन्माकीं रिषन्माकीं सं शारि केवटे । अथारिष्टाभिरा गहि ॥
+
+> *mākirneśanmākīṃ riṣanmākīṃ saṃ śāri kevaṭe | athāriṣṭābhirā gahi ‖*
+
+(Ṛ. Saṃ. 6-54-7 [?]) In such ways, praying in many ways, they asked that their cattle-wealth be increased. Modern critics conjecture that this Bharadvāja line did not settle in one place but made frequent journeys, and that in their travels they took Pūṣan as guide and protector.
+
+In the Sūkta addressed to Mitra-Varuṇa (152 [?]) some descriptions contain ideas that are profound from the philosophical and the spiritual point of view. For example, in Ṛk 152-3 [?], for the sentence "*ṛtād annaṃ…*" [as read: "*ṛtād an[n]akramād adādhe*"] one cannot give a meaning from an ordinary point of view; there must be an extraordinary and deep meaning. Roughly speaking: *ṛtāt*, from the Āditya; *annam* (*ṛtam*), water [?]; one may say "they take". But it is not easy to say what quality the name *ṛta* describes for the Āditya. *Ṛta* is the eternal path of the Āditya, and *ṛta* is his source and support (Ṛ. Saṃ. 3-33-1 [?]; 7-60-5 [?]); even in this description the nature of *ṛta* cannot be explained [?]; such an inseparable connection, and sometimes identity, is deeper than a merely material meaning.
+
+In the fifth ṛk of the same Sūkta, "*mā vāṃ rātir upa dasat kadā cana asmad rātiḥ kadā cana*", it is shown that there is a relation of mutual dependence between man's gift in the form of the oblation and the gods' gift of food and other wealth; these two are like warp and woof, causes of all the business of the world. It says that the source of the gods' gift is the sacrifice, and the basis of the sacrifice's growth is the gods' favour; it makes known the world-rule that, for the mutual relation of gods and men to grow continuous and bring welfare to the world, the prescribed ritual must be performed.
+
+In telling the same idea, Dīrghatamas compares the sacrifice to a boat and states the principle in a figurative style; this is a very good matter from the poetic point of view (Ṛ. Saṃ. 1-140-12 [?]). By saying that the boat of ritual is the chief means both for worldly prosperity and for the otherworldly good, it tells the need to increase worldly wealth and, together with it, the way to escape the sorrow of worldly life, showing the greatness of the Vedic teaching. In the prayer "*asmākaṃ vīrān maghonaḥ*" … [the sentence is cut at the page end, continuing on p. v].
+
+### Printed p. v  (PDF 11)
+
+…In "*uta naḥ janāṃś ca pārayot*" the need of renouncing worldly life, and in "*yo śarma nāvaṃ*" [?] the happiness of the world of Brahman, are explained; and showing how the boat of sacrifice can help these two opposite means, it also tells the need of sacrificial rites. Comparing the priests who perform the sacrifice to the ever-ready (*nityārikta* [?]), it tells their heavy responsibility, a means for the welfare of the world.
+
+The 142nd Sūkta [as read], addressed to the Āprī deities, is full of a very mature style and deep ideas; it is one of Dīrghatamas's most excellent works. The importance of the Āprī Sūkta, the nature of the particular deities and the seer's exalted frame of mind are explained in detail in the commentary on the Sūkta (pp. 221 to 286 [?]).
+
+In Sūktas 154, 155, 156 [as read] the description of the all-pervading Viṣṇu gives room for disagreement among those who try to know Viṣṇu's nature. Sentences such as "*pārthivāni vimame rajāṃsi*" (Ṛ. Saṃ. 1-154-1) and "*yasyoruṣu triṣu vikramaṇeṣv adhikṣiyanti bhuvanāni viśvā*" (Ṛ. Saṃ. 1-154-2) do not give a refined meaning. For "*triṣu vikramaṇeṣu*" the Nirukta-writers, taking the three states of the Sun — rising, being at the zenith, and setting — gave the view of Aurṇavābha and others with illustrations (p. 562 [?]). To support this view some Ṛgveda Saṃhitā sentences may be taken as a basis (Ṛ. Saṃ. 1-154-1, 1-154-4 [?]).
+
+Even in the Purāṇic descriptions there are some epithets that approve this view: the *Sudarśana* discus indicates the solar disc, the lotus the energy of heaven that gives life to the world, and the yellow garment reflects masses of radiance (cf. P.O.S. No. 75, p. 99). The description in the Śatapatha Brāhmaṇa that when Viṣṇu's head was cut off it was changed into the form of the Sun makes this point clear.
+
+If thus the description of Viṣṇu is explained only as referring to the Āditya deity, then the sentence "*viṣṇoḥ pade parame madhva utsaḥ*" (Ṛ. Saṃ. 1-154-5) gets no proper meaning. This sentence describes the Satya-loka told of in the Upaniṣads; the Upaniṣads' view is that the path of the Āditya is only a means to this Satya-loka. In sentences such as "*sūryadvāreṇa te virajāḥ prayānti yatrāmṛtaḥ sa puruṣo hy avyayātmā*" (Mu. U. 1-2-11) the supreme state is described as beyond even the Sun's world. Therefore some hold that it must be the abode of the supreme Person in the form of Viṣṇu. On their view there is no doubt that Viṣṇu had a most exalted place; one cannot say he was lower than Indra and the other deities merely because the Sūktas to him are few. On examining the description of this deity, [he is …] the deity of the Satya-loka, the best among all worlds [continuing on p. vi].
+
+### Printed p. vi  (PDF 12)
+
+…and some have proposed that the position described for Viṣṇu, the Supreme Person, in the Purāṇas and elsewhere is described in the Ṛgveda too.
+
+*(Printed English, in Latin type:)* Macdonell brings forth other traces of Hindu Vishnu's general character as the 'Preserver' in the Veda. Vishnu is beneficent (I-156-5), is innocuous and bountiful (VIII. 25. 12.) and a generous protector (I. 155. 4.) but only such features of an ordinary sun-god cannot adequately account for Vishnu's sudden rise to prominence in Hindu Mythology. Vishnu must have already been a great God among 'extra-Vedic' circles and his later eminence was merely a legitimately recognised come-back. [P. O. S. No. 75. P. 104-5].
+
+Citing sentences that describe Viṣṇu's hospitality, they argue that these qualities are not possible for the Sun-deity alone; therefore the description of the supreme Person, the best of the gods and described in the Purāṇas as Nārāyaṇa, praises Viṣṇu's nature in these sentences.
+
+The description of Viṣṇu in Dīrghatamas's Sūktas gives room for both views. But since the words of this seer, of superhuman greatness, point to a very deep meaning, their refined meaning is not easy to know. Just as Viṣṇu's nature cannot be settled as "thus and so", the relation of Indra and Viṣṇu too is hard to understand correctly; these matters will be discussed later with scriptural grounds.
+
+To publish in simple Kannada, with critical discussion, such a Ṛgveda Saṃhitā — most ancient, most profound, most extensive, the root of all the śāstras — is not an easy task. Yet with the weighty purpose that all people, learned and unlearned, may gain growth in knowledge and become worthy of God's grace through such a great work, His Highness **Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I.**, Lord of the throne of Karnataka, a lover of Vedic learning, himself learned, beloved of the people and devoted to God, is encouraging the publication of this very costly work with his generous patronage; this must be called the merit of the whole Karnataka people. I pray that the Lord of all, the Veda-Puruṣa, bestow on such a generous-minded prince, his family, the princess [named after the Gāyatrī mantra, regarded as the foremost of the Vedic mantras] and all his subjects the worldly fruits — long life, health, wealth and all prosperity — and also spiritual knowledge, in abundance.
+
+Mysore, Vikṛti year, Āṣāḍha śuddha pañcamī, Tuesday, 20-6-1950. Translator: H. P. Venkatarao, Āsthāna Mahāvidvān.
 
 ---
 
@@ -326,4 +438,4 @@ The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta
 
 ---
 
-**Progress note:** **Sūkta 137 complete** (printed pp. 1–14, PDF 19–32). Sūkta 138 begun at the foot of p. 14 (heading, bhāṣya introduction, Anuvāda). Next: printed p. 15 (PDF 33), the Sūkta 138 table and Ṛk 1. Open flags for Sūkta 137: p. 1 "atyaṣṭi-paribhāṣā" reading; pp. 3, 5–14 small-type numerals of Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ. mostly not read, marked [?]; p. 3 vārttika after *divispṛśā* and *gobhir uvakebhiḥ*; p. 7 *gantam* paragraph; p. 8 bhāṣya *dadhyavanayana* [?], tail of *pītaye*, *cāruś caraṇīyo* [?]; p. 10 gloss on *āśīḥ*; p. 11 Pada *ayam* [?]; p. 13 the Ṛg quotations (esp. the fourth) and the phrase before "Soma creeper"; Ṛk 2 Saṃhitā first word *ime* [?]. The Pīṭhike and contents table (PDF 7–18) are not yet done.
+**Progress note:** **Pīṭhike (printed pp. i–vi) done and Sūkta 137 complete** (printed pp. 1–14, PDF 19–32). Sūkta 138 begun at the foot of p. 14 (heading, bhāṣya introduction, Anuvāda). Next: printed p. 15 (PDF 33), the Sūkta 138 table and Ṛk 1. Open flags for Sūkta 137: p. 1 "atyaṣṭi-paribhāṣā" reading; pp. 3, 5–14 small-type numerals of Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ. mostly not read, marked [?]; p. 3 vārttika after *divispṛśā* and *gobhir uvakebhiḥ*; p. 7 *gantam* paragraph; p. 8 bhāṣya *dadhyavanayana* [?], tail of *pītaye*, *cāruś caraṇīyo* [?]; p. 10 gloss on *āśīḥ*; p. 11 Pada *ayam* [?]; p. 13 the Ṛg quotations (esp. the fourth) and the phrase before "Soma creeper"; Ṛk 2 Saṃhitā first word *ime* [?]. Pīṭhike open flags: all small-type Ṛg/Tai. Saṃ./Ni./Ai. Brā./Bṛ. De. numerals [?], the Taittirīya passage on p. i, the Nirukta phrase *teppurucchepasya śīlam* [?] and the Ṛg quote on p. ii; the contents table (PDF 13–18) is not translated. Sūkta 137 may be revisited (shorten bhāṣya English; resolve `[?]`).
