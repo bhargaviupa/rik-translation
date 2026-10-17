@@ -144,12 +144,62 @@ The word *adri* is read among the names of the cloud and among the names of the 
 
 **॥ संहितापाठः ॥**
 
-> इमा आ यातमिन्दवः सोमासो दध्याशिरः सुतासो दध्याशिरः ।
+> इमे [?] आ यातमिन्दवः सोमासो दध्याशिरः सुतासो दध्याशिरः ।
 > उत वामुषसो बुधि साकं सूर्यस्य रश्मिभिः ।
 > सुतो मित्राय वरुणाय पीतये चारुर्ऋताय पीतये ॥ २ ॥
 
-*(The first word is printed "ಇನು" or similar; read as *imā* [?]. Both *dadhyāśiraḥ*, the first printed without its visarga [as read].)*
+*(The first word is printed doubtfully; it is read *ime* [?] — the Pada on p. 8 gives *ime* and the bhāṣya *ime indavaḥ*. The first *dadhyāśiraḥ* seems printed without its visarga [as read].)*
 
 ---
 
-**Progress note:** Sūkta 137 in progress: printed pp. 1–7 (PDF 19–25) done; Ṛk 2 Saṃhitā given (p. 7); next: printed p. 8 (PDF 26), Ṛk 2 Pada. Open flags: p. 1 "atyaṣṭi-paribhāṣā" reading; p. 3 Nirukta, Pāṇini and Taittirīya Saṃhitā numerals, the vārttika after *divispṛśā*, and *gobhir uvakebhiḥ*; p. 3 Pratipadārtha *dayamāḍiri*; pp. 5–7 almost all small-type numerals (Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ.) not read, marked [?]; p. 7 *gantam* paragraph (small type) partly doubtful; Ṛk 2 Saṃhitā first word *imā* [?].
+### Printed p. 8  (PDF 26)
+
+*(Header: "Maṃ. 1 A. 20 Sū. 137".)*
+
+**॥ पदपाठः ॥** *(Ṛk 2; the Pada confirms *ime* as the first word)*
+
+> इमे । आ । यातम् । इन्दवः । सोमासः । दधिऽआशिरः । सुतासः । दधिऽआशिरः ॥
+> उत । वाम् । उषसः । बुधि । साकम् । सूर्यस्य । रश्मिऽभिः ॥
+> सुतः । मित्राय । वरुणाय । पीतये । चारुः । ऋताय । पीतये ॥ २ ॥
+
+> *ime | ā | yātam | indavaḥ | somāsaḥ | dadhi 'āśiraḥ | sutāsaḥ | dadhi 'āśiraḥ ‖*
+> *uta | vām | uṣasaḥ | budhi | sākam | sūryasya | raśmi 'bhiḥ ‖*
+> *sutaḥ | mitrāya | varuṇāya | pītaye | cāruḥ | ṛtāya | pītaye ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मित्रावरुणौ आ यातम् । आगच्छतम् । यतो युष्मदर्थमिमे इन्दवः क्लेदनसमर्थाः सोमासः सोमा दध्याशिरो दध्याश्रयणवन्तः सन्ते इमे पुरतो ग्रहेण गृहीता वर्तन्ते अत आ यातम् । किंच दध्याशिरो दीयमानाशिरः सोमाः सुतासो मन्त्रेण ग्रावभिरभिषुताः सम्पन्नाः । अत आ यातमिति शेषः । आदित्यग्रहे दध्यवनयन [?] सद्भावात्तदपेक्षया दध्याशिर इत्युक्तम् । उतापि च वां युवयोः प्रीतये पालनायोषसो बुध्युषसः सम्बन्धिनि बोधे सति ॥ सम्पदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वम् ॥ प्रकाशे सञ्जाते सति । न केवलमुषस एव बोधः अपि तु सूर्यस्य रश्मिभिः साकं सूर्यकिरणैः सह प्रकाशे हविःप्रदानाय सञ्जाते सति सुतः सोमोऽभिषुतः । इदानीं वियुज्योच्यते [?] । मित्राय सर्वहितायैतन्नामकायाहरभिमानिदेवाय तथा वरुणायावरकाय रात्र्यभिमानिदेवाय च तदर्थं सोमः सुत इति शेषः । किंच ऋताय यज्ञाय तन्निर्वाहकाय तदर्थं पीतये पानाय । यज्ञसिद्ध्यर्थं हि देवानां सोमपानम् । यद्वा ॥ कर्तरि क्विच् ॥ पीतये सात्र ऋत्विगादयो ऋताय यज्ञाय तन्निर्वाहकाय [?] । चारुश्चरणीयो भक्षणीयः [?] सोमः सुतोऽभिषुतः ॥
+
+> *he mitrāvaruṇau ā yātam | āgacchatam | yato yuṣmadarthamime indavaḥ kledanasamarthāḥ somāsaḥ somā dadhyāśiro dadhyāśrayaṇavantaḥ sante ime purato graheṇa gṛhītā vartante ata ā yātam | kiṃca dadhyāśiro dīyamānāśiraḥ somāḥ sutāso mantreṇa grāvabhirabhiṣutāḥ sampannāḥ | ata ā yātamiti śeṣaḥ | ādityagrahe dadhyavanayana [?] sadbhāvāttadapekṣayā dadhyāśira ityuktam | utāpi ca vāṃ yuvayoḥ prītaye pālanāyoṣaso budhyuṣasaḥ sambandhini bodhe sati ‖ sampadādilakṣaṇo bhāve kvip | sāvekāca iti vibhakterudāttatvam ‖ prakāśe sañjāte sati | na kevalamuṣasa eva bodhaḥ api tu sūryasya raśmibhiḥ sākaṃ sūryakiraṇaiḥ saha prakāśe haviḥpradānāya sañjāte sati sutaḥ somo 'bhiṣutaḥ | idānīṃ viyujyocyate [?] | mitrāya sarvahitāyaitannāmakāyāharabhimānidevāya tathā varuṇāyāvarakāya rātryabhimānidevāya ca tadarthaṃ somaḥ suta iti śeṣaḥ | kiṃca ṛtāya yajñāya tannirvāhakāya tadarthaṃ pītaye pānāya | yajñasiddhyarthaṃ hi devānāṃ somapānam | yadvā ‖ kartari kvic ‖ pītaye sātra ṛtvigādayo ṛtāya yajñāya tannirvāhakāya [?] | cāruścaraṇīyo bhakṣaṇīyaḥ [?] somaḥ suto 'bhiṣutaḥ ‖*
+
+O Mitra and Varuṇa, come (*ā yātam*): approach. For these *indavaḥ* — the Somas able to moisten — are for you, *dadhyāśiraḥ*, having a mixture of curds; they are ready here, taken in the cup before [you]; therefore come. Further, the Somas with the *āśir* that is being put in [*dadhyāśiraḥ*] have been pressed (*sutāsaḥ*) with the mantra, by the pressing-stones. "Therefore come" is the supplied remainder. Since in the Āditya-graha there is the presence of the curd [?], with reference to that the word *dadhyāśiraḥ* was used. And again, for your protection (*pītaye*, "for your drinking/protection"), at the awaking (*budhi*) belonging to the dawn (*uṣas*) — on that awaking [the Soma is pressed]. [Grammar:] *bhāve kvip* of the *sampadādi* class; by "*sāv ekācaḥ*" the case-ending is acute. When the light has appeared — not the dawn's awakening alone, but together with the rays of the sun (*sūryakiraṇaiḥ saha*), when the light has appeared for the offering of the oblation, the Soma has been pressed. Now it is [further?] specified [?]: for Mitra, the benefactor of all, the god of this name presiding over the day, and for Varuṇa, the "coverer", the god presiding over the night, the Soma has been pressed (the supplied remainder). And further for *ṛta*, the sacrifice, i.e. for the one who carries it out, for the sake of that, for *pītaye*, drinking; for the drinking of Soma by the gods is for the accomplishment of the sacrifice. Or (*yad vā*) — with *kvic* in the agent sense — [the priests etc. here …] [?]. *Cāruḥ*: to be partaken of, to be eaten [?]; the Soma has been pressed.
+
+**Pratipadārtha (Kannada).** (O Mitra-Varuṇas!) *indavaḥ* — flowing [?] (*pravisatakka* [?]); *ime somāsaḥ* — these Soma juices; *dadhyāśiraḥ* — mixed with curds (are ready, and); *dadhyāśiraḥ* — mixed with curds; *sutāsaḥ* — (with mantras) pressed and ready; (therefore) *ā yātam* — please come; *uta* — and; *vām* — for your (satisfaction); *uṣasaḥ budhi* — at the time the dawn is perceived (whether made ready then, or); *sūryasya* — of the sun (at sunrise); *raśmibhiḥ sākam* — together with (his) rays; *sutaḥ* — pressed (that); *cāruḥ* — pleasantly; *mitrāya* — for Mitra; *varuṇāya* — for Varuṇa; *pītaye* — for drinking (and besides); *ṛtāya* — for the sacrifice that is to be carried out as its limb; *pītaye* — for (those gods') drinking (pressed and made ready).
+
+### Printed p. 9  (PDF 27)
+
+*(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)* **Bhāvārtha.** O Mitra and Varuṇa, these flowing [?] Soma juices, pressed with mantras and mixed with curds, are ready for your drinking. So please come. Whether made ready at the very time of dawn for your satisfaction, or made ready at sunrise, mixed with the rays of the sun, that juice has been pressed pleasantly, for the carrying out of the sacrifice, and for the drinking of those Mitra and Varuṇa.
+
+**English Translation (as printed):** Come, for these dripping Soma juices are mixed with curds: they are expressed and mixed with curds; whether they be prepared for you at the awaking of the dawn, or (be associated) with the rays of the sun: the juice is effused for Mitra and for Varuna, for their drinking the grateful (libation); for their drinking at the sacrifice.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**indavaḥ** — *undanaśīlāḥ, sarvaṃ jagat amṛtamayena kledayitāraḥ* [as read]: the Soma juices that satisfy the whole world, that is gods, men and the rest, with the juice of the nature of nectar.
+
+**dadhyāśiraḥ** — *dadhyāśrayaṇavantaḥ*: Soma juice mixed with curds. The matter of *dadhyāśir* too was told in full in the Ṛgveda Saṃhitā, Bhāga [?], p. [?], and Bhāga [?], pp. [?]–[?] (numerals not legible [?]).
+
+**ṛtāya** — the word *ṛta* here means "sacrifice". *Ṛtāya* means *yajñāya*, and *pītaye* means "for the drinking of the one who carries it out" (*tannirvāhakāya pānāya*): the Soma juice has been pressed and made ready for the drinking of Soma juice that carries out the sacrifice, "therefore come" is the prayer. This same prayer is in the Taittirīya Saṃhitā, in the passage including the Ṛgveda-Saṃhitā sentence of Ṛ. Saṃ. 2-[?]-[?] [?]:
+
+> आयं वां मित्रावरुणा सुतस्सोम ऋतावृधा । ममेदिह श्रुतग्ं हवम् । उपयामगृहीतोऽसि मित्रावरुणाभ्यां त्वैष ते योनिर्ऋतायुभ्यां त्वा ।
+
+> *āyaṃ vāṃ mitrāvaruṇā sutassoma ṛtāvṛdhā | mamediha śrutagṃ havam | upayāmagṛhīto 'si mitrāvaruṇābhyāṃ tvaiṣa te yonirṛtāyubhyāṃ tvā |*
+
+(Tai. Saṃ. 1-[?]-[?] [?]) In this sentence too, the bhāṣya explains the word *ṛtāyubhyām* as "*ṛtaṃ satyaṃ yajñaṃ vā ātmana yajamānānāṃ vā icchatīti ṛtāyuḥ*" (he who wishes truth or sacrifice for himself or for the sacrificers): since he wishes the status of a limb of the sacrifice [?] for himself or for the sacrificers, [the meaning is] *ṛtāyu*.
+
+### Printed p. 10  (PDF 28)
+
+*(Header: "Maṃ. 1 A. 20 Sū. 137".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; numbers as printed, doubtful ones [?]).** *indavaḥ* — root *undī kledane*; *undeś cādeḥ* [as printed *undeśicchādeḥ*?] Uṇ. 1-77 [?] gives the *un* suffix, with *i* for the initial of the root; *jñityādir nityam* Pā. 6-1-197 [?] gives the initial acute; nominative plural. *dadhyāśiraḥ* — *dadhāti puṣṇāti iti dadhi* (root *dudhāñ dhāraṇapoṣaṇayoḥ*), *ādyagamhanajanaḥ kikinau liṭ ca* Pā. 3-2-171 [?] gives *kin*, reduplication, loss of *ā* by *āto lopa iṭi ca* Pā. 6-4-64; *āśīḥ* from root *śṛ hiṃsāyām*, *kvip*, *ṛta id dhātoḥ* Pā. 7-1-100, *uraṇ raparaḥ*; the compound *bahuvrīhau prakṛtyā pūrvapadam* Pā. 6-2-1 gives the accent of the first member; a Sanskrit gloss on *āśīḥ* in the text read with doubt [?]. *sutāsaḥ* — root *ṣuñ abhiṣave*, *niṣṭhā* Pā. 3-2-102, *ājjaser asuk* Pā. 7-1-50. *budhi* — root *budha avagamane*, *sampadādibhyaḥ kvip* Pā. 3-3-108 [?], locative singular, *sāv ekācas tṛtīyādiḥ* Pā. 6-1-168 [?] gives the acute on the case-ending. *sūryasya* — root *sṛ gatau*, *rājasūyasūrya…* Pā. 3-1-114 [?] (irregular formation in *kyap*), genitive singular. *pītaye* — root *pā pāne* or *rakṣaṇe*, *sthāgāpāpacāṃ bhāve* Pā. 3-3-95 [?] gives *ktin*; *ghumāsthā…* Pā. 6-4-66 gives *ī*; accent on the final; or by *kvic* in the agent sense (Pā. 3-3-[?] [?]), accent by *citaḥ* Pā. 6-1-163; dative singular. ‖ 2 ‖
+
+---
+
+**Progress note:** Sūkta 137 in progress: printed pp. 1–10 (PDF 19–28) done; Ṛk 1 and Ṛk 2 complete. Next: printed p. 11 (PDF 29), Ṛk 3. Open flags: p. 1 "atyaṣṭi-paribhāṣā" reading; p. 3 Nirukta/Pāṇini/Tai. Saṃ. numerals, vārttika after *divispṛśā*, *gobhir uvakebhiḥ*; pp. 5–10 most small-type numerals (Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ.) marked [?]; p. 7 *gantam* paragraph; p. 8 bhāṣya *dadhyavanayana* [?], *pītaye sātra…* tail and *cāruś caraṇīyo* [?]; p. 8 *indavaḥ* Pratipadārtha *pravisatakka* [?]; p. 10 gloss on *āśīḥ*; Ṛk 2 first word *ime* [?] in the Saṃhitā.
