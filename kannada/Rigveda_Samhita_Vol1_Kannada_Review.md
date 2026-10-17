@@ -53,3 +53,6 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 17 | "ಈ ಗ್ರಂಥವು ೧೦೦೦ ಪೇಜುಗಳ ಸುಮಾರು ೨೫ ಭಾಗಗಳಲ್ಲಿ" | Number read at 300 dpi as ೨೫ (curled ೨ + ೫). |
 | 17 | "ಪ್ರಜೆಗಳ ಮೇಲಣ" | Possibly printed "ಗ್ರಜೆಗಳ"; I read ಪ್ರಜೆಗಳ. |
 | 18 | "ಸರ್ವಜಿನ್ನಾಮ ಸಂ||" | Year-name word as read (ಸರ್ವಜಿತ್ ?). Date printed in Latin: 24-10-1947. |
+| 19–20 | contents | Numerals read at 300 dpi: ೨೧ (ಋಕ್ಶಾಖೆಗಳು), ೧೦೧, ೧೭, ೧೫, ೧೨, ೧೫ (Madhyandina / Kāṇva / Caraka / Vājasaneya counts), ೮೬ (Kṛṣṇa-Yajurveda). Please check ೧೭, ೧೫, ೧೨, ೮೬. |
+| 20 | "ಪಾಲಂಗಿಶಾಖೆಗಳು, ಕ್ಷ[?] ಕಮಲಶಾಖೆ" | A stray ಕ್ಷ-like mark before ಕಮಲಶಾಖೆ; kept with [?]. |
+| 19–20 | numbering | PDF 18 = xi, PDF 19 = (number not shown), PDF 20 = printed XIV: one page number is unaccounted for between them. |
