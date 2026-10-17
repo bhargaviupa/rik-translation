@@ -222,12 +222,12 @@ Agni, Indra, Soma, the Ashvin deities, Mitra, Varuna, the Vishvedevas, Dyava-pri
 The defining characteristics of the meters, with examples; the specific features of Gayatri and its variants, Ushnih, Anushtubh, Brihati, Pankti, Trishtubh, and Jagati; the Pragatha and Sankirna (mixed) meters; the general principles defining meter. ................................. p. 221
 
 **Chapter 13 — The Commentators on the Rigveda**
-Skandaswami, Narayana, Uddhitha, Haskyamalaka [?], Venkatamadhava — the distinguishing features and style of Venkatamadhava's commentary — other Rigveda commentators including Jayatirtha, Narasimha's commentary, Raghavendra Yati's *Mantrartha Manjari*, Atmananda, and Sayana — Sayanacharya's own works, his Veda-commentaries and their introductions (bhashya-bhumikas) — an account of Sayanacharya's commentary — Ravana, Mudgala, Chaturvedaswami, Devaswami, Bhatta Bhaskara, Uvata, Haradatta. ................................. p. 232
+Skandaswami, Narayana, Udgeetha, Haskyamalaka, Venkatamadhava — the distinguishing features and style of Venkatamadhava's commentary — other Rigveda commentators including Jayatirtha, Narasimha's commentary, Raghavendra Yati's *Mantrartha Manjari*, Atmananda, and Sayana — Sayanacharya's own works, his Veda-commentaries and their introductions (bhashya-bhumikas) — an account of Sayanacharya's commentary — Ravana, Mudgala, Chaturvedaswami, Devaswami, Bhatta Bhaskara, Uvata, Haradatta. ................................. p. 232
 
 <div class="pgmark">original p. xvi</div>
 
 **Chapter 14 — The Commentators on the Yajurveda**
-The commentators of the Madhyandina branch — Shaunaka, Harisvamin, Uvata, Gauridhara Ravana [?], Mahidhara; the commentators on the Kanva Samhita — Sayanacharya, Anandabodha, Anantacharya, Kalanatha, Murarimishra, Halayudha, Adityadarshana, Devapala, and the son of Somananda; the commentators on the Taittiriya Samhita — Bhavaswami, Guhadeva, Bhatta Bhaskara Mishra, Kshura, Sayanacharya, Venkateshvara, Balakrishna, Haradatta Mishra, Shatrughna. ................................. p. 261
+The commentators of the Madhyandina branch — Shaunaka, Harisvamin, Uvata, Gauridhara Ravana, Mahidhara; the commentators on the Kanva Samhita — Sayanacharya, Anandabodha, Anantacharya, Kalanatha, Murarimishra, Halayudha, Adityadarshana, Devapala, and the son of Somananda; the commentators on the Taittiriya Samhita — Bhavaswami, Guhadeva, Bhatta Bhaskara Mishra, Kshura, Sayanacharya, Venkateshvara, Balakrishna, Haradatta Mishra, Shatrughna. ................................. p. 261
 
 **Chapter 15 — The Commentators on the Samaveda**
 Madhava, Bharatasvamin, Sayanacharya, Surya, Daivajna, Mahasvamin, Shobhakara Bhatta, Gunavishnu. ................................. p. 279
