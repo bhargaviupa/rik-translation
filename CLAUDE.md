@@ -23,6 +23,12 @@ Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhā�
 - **Progress-note pattern:** one block at the very end of the .md (printed page reached, one-line summary, open flags); each new note replaces the previous. Append helper must strip only the final "**Progress note:**" (assert it lies in the last ~20,000 characters), assert the file did not shrink, and assert exactly one note afterwards. Never `git checkout`/restore the output file mid-session.
 - No `.docx`/PDF generation mid-stream; at the end of a sūkta or on request: `pandoc -f markdown-yaml_metadata_block FILE.md -o FILE.docx --toc --toc-depth=2 -V geometry:margin=1in -V mainfont="Noto Serif Devanagari"`, LibreOffice PDF, and check the Devanagari count matches the .md. Designed print PDF: `python3 publish/build_vol45.py N full` (cleaner `publish/vol67_clean.py`; first-person remarks are rewritten impersonally by `publish/voice.py`: run `voice.residual()` and add new phrases to `voice.EXACT`); review worklist: `python3 publish/review_all.py`.
 
+## Kannada text deliverable (decided Oct 2026)
+A faithful Kannada transcription of each volume (page-marked with printed page numbers, `[?]` where unsure; not a guarantee of "identical"), to serve later Telugu/Hindi translation.
+- **Vol 9 and Vol 10:** continue the current workflow unchanged; no Kannada file yet.
+- **Vol 11 onwards:** build the Kannada file alongside the English, sūkta by sūkta, from the same single viewing of each page, to avoid re-transcribing. Output `Rigveda_Samhita_VolN_Kannada_Text.md`. Sanskrit layers (Saṃhitā, Pada, bhāṣya) may be script-converted from the Devanagari; Kannada prose (Pratipadārtha, Bhāvārtha, Special Topics, closing notes) is transcribed by hand.
+- **Vols 1–10:** one combined back-fill pass per volume: resolve every `[?]` in the English file and create the Kannada file in the same pass, so each page is re-read once. Needs the user's answers for `[?]` readings; Vols 1–7 files stay closed until that pass is agreed.
+
 ## Open items (not blockers)
 Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~280 flagged pages remain); 14 first-person phrases for `voice.EXACT`. Vols 1–2: outside Vedic expert review wanted; ~9,000 `[?]` readings overall.
 
