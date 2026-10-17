@@ -57,3 +57,13 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 20 | "ಪಾಲಂಗಿಶಾಖೆಗಳು, ಕ್ಷ[?] ಕಮಲಶಾಖೆ" | A stray ಕ್ಷ-like mark before ಕಮಲಶಾಖೆ; kept with [?]. |
 | 19–20 | numbering | PDF 18 = xi, PDF 19 = (number not shown), PDF 20 = printed XIV: one page number is unaccounted for between them. |
 | 24 | contents, entry for p. 527 | The Sanskrit fragment "ಉತೆತ್ವಃ ಪಶ್ಯನ್ ನ ದೆದರ್ಶ ವಾಚಃ" is in Kannada script; transcribed letter by letter (the vowel signs in ಉತೆತ್ವಃ and ದೆದರ್ಶ are as I read them; not completed from memory). |
+
+## Pūrva-pīṭhike begins (PDF 27–28, printed 1–2)
+| PDF | Place | Note |
+|---|---|---|
+| 27 | verse line 2 "ತಸ್ಯ … ಲೀನಸ್ಯ" | The vattu after ಸ್ is the same glyph as in ವೇದಾಧ್ಯಾಯೀ (line 3); read as ya-vattu (ಸ್ಯ), not ma-vattu. |
+| 27 | verse line 3 first word | Zoom shows "ವೇದಃ" (with visarga). |
+| 27 | verse line 4 | Read at 150 dpi only (not zoomed): ತಸ್ಮಾತ್ಸರ್ವಪ್ರಯತ್ನೇನ ವೇದಮೇವ ಸದಾ ಜಪೇತ್. |
+| 28 | "ನಿಸ್ಸರ್ಜ್ಜ[?]" | Word unclear (…ನಿಸ್ಸರ್ಜ ಮಾಡಿರುತ್ತಾರೆ). |
+| 28 | "ಕ್ಲೃಪ್ತ[?]ಮಾಡಿ" | Conjunct unclear. |
+| 28 | "ತಮುಗೆ" | Read as printed (ತಮಗೆ expected). |
