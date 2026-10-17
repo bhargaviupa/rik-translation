@@ -56,3 +56,4 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 19–20 | contents | Numerals read at 300 dpi: ೨೧ (ಋಕ್ಶಾಖೆಗಳು), ೧೦೧, ೧೭, ೧೫, ೧೨, ೧೫ (Madhyandina / Kāṇva / Caraka / Vājasaneya counts), ೮೬ (Kṛṣṇa-Yajurveda). Please check ೧೭, ೧೫, ೧೨, ೮೬. |
 | 20 | "ಪಾಲಂಗಿಶಾಖೆಗಳು, ಕ್ಷ[?] ಕಮಲಶಾಖೆ" | A stray ಕ್ಷ-like mark before ಕಮಲಶಾಖೆ; kept with [?]. |
 | 19–20 | numbering | PDF 18 = xi, PDF 19 = (number not shown), PDF 20 = printed XIV: one page number is unaccounted for between them. |
+| 24 | contents, entry for p. 527 | The Sanskrit fragment "ಉತೆತ್ವಃ ಪಶ್ಯನ್ ನ ದೆದರ್ಶ ವಾಚಃ" is in Kannada script; transcribed letter by letter (the vowel signs in ಉತೆತ್ವಃ and ದೆದರ್ಶ are as I read them; not completed from memory). |
