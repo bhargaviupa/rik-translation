@@ -2,9 +2,17 @@
 """Convert Devanagari text to Kannada script (codepoint-aligned blocks).
 Usage: deva_to_kannada.py FILE   (prints converted text)   or import deva2kn(str).
 Only Devanagari characters are mapped; danda/double danda and everything else are kept."""
-import sys
+import sys, re
 
-def deva2kn(s):
+_VARGA = {'ङ': 'कखगघङ', 'ञ': 'चछजझञ', 'ण': 'टठडढण', 'न': 'तथदधन', 'म': 'पफबभम'}
+
+def _anusvara(s):
+    # homorganic nasal + virama + stop of its own class -> anusvara (the print writes anusvara there)
+    return re.sub('([ङञणनम])\u094d([कखगघचछजझटठडढतथदधपफबभ])',
+                  lambda m: ('\u0902' + m.group(2)) if m.group(2) in _VARGA[m.group(1)] else m.group(0), s)
+
+def deva2kn(s, anusvara=True):
+    if anusvara: s = _anusvara(s)
     out = []
     for ch in s:
         o = ord(ch)
