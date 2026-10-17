@@ -67,3 +67,11 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 28 | "ನಿಸ್ಸರ್ಜ್ಜ[?]" | Word unclear (…ನಿಸ್ಸರ್ಜ ಮಾಡಿರುತ್ತಾರೆ). |
 | 28 | "ಕ್ಲೃಪ್ತ[?]ಮಾಡಿ" | Conjunct unclear. |
 | 28 | "ತಮುಗೆ" | Read as printed (ತಮಗೆ expected). |
+
+## PDF 29–30 (printed 3–4)
+| PDF | Place | Note |
+|---|---|---|
+| 29 | Nirukta verse (8 lines) | Read from a 300 dpi zoom, letter by letter. Doubtful: line 6 "ತ್ವಸ್ಯೈ" (the vattu is the same hooked glyph as the ya-vattu elsewhere, so read ಸ್ಯ); line 8 "ಮಾಯಯೈಷ" and "ಅಫಲಾಮ" (the ಯೈ and ಫ glyphs are small), and the mark after ಶುಶ್ರುವಾ (written ಁ). |
+| 29 | verse line 5 | **Clearer later printing:** line 5 reads "ಉತತ್ವಃ ಪಶ್ಯನ್ನ ದದರ್ಶ ವಾಚಮುತ ತ್ವಃ …". The contents entry on PDF 24 (read at 150 dpi as "ಉತೆತ್ವಃ … ದೆದರ್ಶ ವಾಚಃ") is probably the same text; the PDF 24 reading should be taken as less reliable. |
+| 29 | "ಹವ್ಯಾಸಕ್ಕೇ" | Read as ಹವ್ಯಾಸ (habit/interest). |
+| 30 | "ಇಲ್ಲವೆಂದಮೇಲೆ" | Spelling as read. |
