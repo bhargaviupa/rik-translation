@@ -23,6 +23,6 @@ All earlier `[?]` rows above were accepted by the reader and removed from the te
 
 | PDF (printed) | Place | Written | Issue |
 |---|---|---|---|
-| 12 (v) | "ಇವರ ಕಾಲವನ್ನು ___ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ" | ನಿರ್ಧರವಾಗಿ | Could be ನಿರ್ಧಾರವಾಗಿ (long ā). |
+| 12 (v) | "ಇವರ ಕಾಲವನ್ನು ___ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ" | ನಿರ್ಧಾರವಾಗಿ | Resolved by the reader: ನಿರ್ಧಾರವಾಗಿ (long ā). |
 
 Zoomed and resolved: PDF 11, last paragraph "ನಾವು ೨೫ ಪ್ರಕರಣಗಳನ್ನೊಳಗೊಂಡ" — number read at 300 dpi as ೨೫; matches the 25 chapters of the Pīṭhike in the contents.
