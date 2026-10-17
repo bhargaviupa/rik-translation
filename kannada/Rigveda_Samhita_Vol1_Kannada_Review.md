@@ -92,3 +92,13 @@ Other points: the page number is printed in Latin digits ("15"); the running hea
 | 33 | Dayānanda quotation, line 2 "ಸತ್ಯವಿದ್ಯಾ ಯೈರ್ಯೇಷು" | The glyph before ರ್ is printed like ಯ್ಯೈ; read ಯೈರ್. |
 | 33 | "ಓಪಚಾರಿಕ" | The typeface prints initial ಔ like ಓ (as in the contents: ಓದ್ದಾಲಕಿ, ಓರ್ಗುಂಡಿ); kept as printed. |
 | 34 | "ಹವಿಸ್ಸನ್ನರ್ಪಿಸಿ" | As read; not zoomed. |
+
+## PDF 37–38 (printed 11–12)
+| PDF | Place | Note |
+|---|---|---|
+| 37 | "ಸಾಮವೇದದಲ್ಲಿ ೭೫[?] ಮಂತ್ರಗಳು" | First digit ೭ (flat-footed) vs ೨; second ೫. Compared against the ೨೫ read on PDF 17. |
+| 37 | "ತದ್ದೃಢಂ[?]" | Last word of the Taittirīya quotation; the conjunct (ದ್ದ/ದ್ಧ) is unclear. |
+| 37 | Chāndogya quotation | Read at 150 dpi only (not zoomed); "ಭಗವೋಽಧ್ಯೇಮಿ" is the doubtful part. |
+| 38 | "೬೫, ೬೬, ೬೭[?], ೬೮, ೬೯, ೭೦[?]ನೇ ಸೂಕ್ತಗಳು" | List read at 500 dpi; ೬೭ and ೭೦ could differ (flat-footed ೭ vs curled ೨). |
+| 38 | "ಐದನೆಯ ಮಂಡಲದ ೨೪[?]ನೇ ಸೂಕ್ತ … ೪ ಋಕ್ಕುಗಳು" | First digit ೨ vs ೩ not settled. |
+| 38 | table | Latin digits; the printed row/column sums check (anuvākas 85, sūktas 1028, mantras 10552). |
