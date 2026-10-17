@@ -2380,7 +2380,7 @@ In the time of the Mahābhārata there was, to the west of Bhārata, a large pro
 
 #### Many names of the clan, gotra and father
 
-According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (3-5-3 [?]), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (9-6-? [?]) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (4-53 [?]) in this very manner…
+According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (1-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (1-7-51) in this very manner…
 
 <div class="pgmark">original p. 103</div>
 
@@ -2508,15 +2508,15 @@ Again, in the Madhyabhāga of the Brahmāṇḍa Purāṇa, chapter 64, it is wr
 > हिरण्यनाभः कौसल्यो वरिष्ठस्तत्सुतोऽभवत् ।
 > पौष्पञ्जेश्च स वै शिष्यः स्मृतः प्राच्येषु सामसु ॥२०८॥
 > शतानि संहितानां तु पञ्च योऽधीतवांस्ततः ।
-> तस्मादधिगतो योगो याज्ञवल्क्येन धीमता ॥१०९॥
+> तस्मादधिगतो योगो याज्ञवल्क्येन धीमता ॥२०९॥
 >
 > *vṛṣitāśva-sutaś cāpi rājā viśvasahaḥ kila ||207||*
 > *hiraṇyanābhaḥ kausalyo variṣṭhas tat-suto 'bhavat |*
 > *pauṣpaṃjeś ca sa vai śiṣyaḥ smṛtaḥ prācyeṣu sāmasu ||208||*
 > *śatāni saṃhitānāṃ tu pañca yo 'dhītavāṃs tataḥ |*
-> *tasmād adhigato yogo yājñavalkyena dhīmatā ||109||*
+> *tasmād adhigato yogo yājñavalkyena dhīmatā ||209||*
 >
-> "The son of Vṛṣitāśva too was King Viśvasaha, it is said. His son was the excellent Hiraṇyanābha Kausalya, who is remembered as the disciple of Pauṣpañji in the Prācya Sāmans — he who studied five hundred saṃhitās. From him yoga was obtained by the wise Yājñavalkya." (The verse numbers 207–208 are as corrected by the reviewer; the third marker, 109, is as read [?].)
+> "The son of Vṛṣitāśva too was King Viśvasaha, it is said. His son was the excellent Hiraṇyanābha Kausalya, who is remembered as the disciple of Pauṣpañji in the Prācya Sāmans — he who studied five hundred saṃhitās. From him yoga was obtained by the wise Yājñavalkya." (The verse numbers are 207–209.)
 
 That is: Yājñavalkya learned the science of yoga from Hiraṇyanābha Kausalya, the disciple of Pauṣpañji.
 
@@ -2538,7 +2538,7 @@ Elsewhere, in the Vāyu and other Purāṇas also, in the passage that speaks of
 
 <div class="pgmark">original p. 106</div>
 
-According to this lineage, Hiraṇyanābha belongs to the time of the Mahābhārata. According to the first genealogy, he is a descendant twelve generations after Bṛhadbala, who belonged to the time of the Mahābhārata. What is found to be true is difficult to determine. If one trusts the first view, it is possible that there were two Yājñavalkyas: one the Vājasaneya Yājñavalkya, and the other a much earlier Yājñavalkya, disciple of Jaimini and teacher of Hiraṇyanābha Kausalya. But the Purāṇic text itself is more likely corrupt, and Hiraṇyanābha and Kausalya may have been two persons; in the same way there may have been only one Yājñavalkya. Or the reigns of the twelve Kosala kings before Bṛhadbala may have been very short. Or there may have been several persons named Jaimini; among them the first Jaimini's teacher may have been not Kṛṣṇa Dvaipāyana Vyāsa but someone earlier, bearing another Vyāsa's name. According to the Skānda Purāṇa, Nāgara-khaṇḍa (6-6 [?]), a certain Yājñavalkya used to perform the Udgātṛ's work in the sacrifice of Triśaṅku, king of the Solar dynasty.
+According to this lineage, Hiraṇyanābha belongs to the time of the Mahābhārata. According to the first genealogy, he is a descendant twelve generations after Bṛhadbala, who belonged to the time of the Mahābhārata. What is found to be true is difficult to determine. If one trusts the first view, it is possible that there were two Yājñavalkyas: one the Vājasaneya Yājñavalkya, and the other a much earlier Yājñavalkya, disciple of Jaimini and teacher of Hiraṇyanābha Kausalya. But the Purāṇic text itself is more likely corrupt, and Hiraṇyanābha and Kausalya may have been two persons; in the same way there may have been only one Yājñavalkya. Or the reigns of the twelve Kosala kings before Bṛhadbala may have been very short. Or there may have been several persons named Jaimini; among them the first Jaimini's teacher may have been not Kṛṣṇa Dvaipāyana Vyāsa but someone earlier, bearing another Vyāsa's name. According to the Skānda Purāṇa, Nāgara-khaṇḍa (5-6-26), a certain Yājñavalkya used to perform the Udgātṛ's work in the sacrifice of Triśaṅku, king of the Solar dynasty.
 
 ### The Teacher of Vājasaneya Yājñavalkya
 
@@ -2778,17 +2778,17 @@ In all, 25 names of branch-originators of the Śukla Yajurveda are found in thes
 
 ### 1. Jābālāḥ
 
-Our conjecture is that Mahāśāla Satyakāma Jābāla, the well-known ācārya of the *Jābāla-upaniṣad*, was the exponent of this branch. He was a disciple of Yājñavalkya and a contemporary of King Janaka. According to the Sabhā-parvan of the Mahābhārata (chapter 4-5 [?]) a certain Jābāli belonged to the family of Viśvāmitra —
+Our conjecture is that Mahāśāla Satyakāma Jābāla, the well-known ācārya of the *Jābāla-upaniṣad*, was the exponent of this branch. He was a disciple of Yājñavalkya and a contemporary of King Janaka. According to the Sabhā-parvan of the Mahābhārata (1-7-55) a certain Jābāli belonged to the family of Viśvāmitra —
 
 <div class="pgmark">original p. 112</div>
 
-— and was probably also the founder of a gotra. According to the Nāgara-khaṇḍa of the Skānda Purāṇa (112-24) those of the Jābāla gotra lived in the town named Nagara. In the Matsya Purāṇa also (198-4) Jābālas are called Kauśikas. The text of this matter is not present in the Vāyu and Brahmāṇḍa Purāṇas. References concerning Jābāla are found in the Jaiminīya Upaniṣad Brāhmaṇa (3-2-3 [?]).
+— and was probably also the founder of a gotra. According to the Nāgara-khaṇḍa of the Skānda Purāṇa (112-24) those of the Jābāla gotra lived in the town named Nagara. In the Matsya Purāṇa also (198-4) Jābālas are called Kauśikas. The text of this matter is not present in the Vāyu and Brahmāṇḍa Purāṇas. References concerning Jābāla are found in the Jaiminīya Upaniṣad Brāhmaṇa (1-7-2).
 
 At the present time, apart from the *Jābāla-upaniṣad*, no other work of this branch is known to us, and none is found in any library.
 
 One reference concerning the Jābāla-śruti is found in the work *Bālakrīḍā*, in the 2nd part, at pp. 94, 95. Although the *Bṛhaj-jābāla-upaniṣad* is a recent work, there are many proofs of the antiquity of the *Jābāla-upaniṣad*.
 
-Śaṅkarācārya has quoted this Upaniṣad in his Vedānta-sūtra-bhāṣya (3-3-30 [?]); there is also a statement concerning Jābāla in Śaṅkara's Brahma-sūtra-bhāṣya (3-3-32 [?]). A statement of the Jābāla-śruti is quoted in the 112th fascicle of the work *Madana-pārijāta*. In the Maskarī-bhāṣya on the Gautama-dharma-sūtra, at pp. 28, 61, 66, 85, 86 and 247, there are statements concerning the Jābāla-śruti. In that same work, at pp. 267 and 389, the Jābāla-gṛhya-sūtra, belonging to this branch, is mentioned. In the pariśiṣṭas composed by the sage Kātyāyana the Hautra-sūtra of this branch has become famous. A bhāṣya on it by Tarka-upādhyāya is also available. In the 2nd adhyāya, 8th khaṇḍa of that bhāṣya:
+Śaṅkarācārya has quoted this Upaniṣad in his Vedānta-sūtra-bhāṣya (3-4-20); there is also a statement concerning Jābāla in Śaṅkara's Brahma-sūtra-bhāṣya (3-3-37). A statement of the Jābāla-śruti is quoted in the 112th fascicle of the work *Madana-pārijāta*. In the Maskarī-bhāṣya on the Gautama-dharma-sūtra, at pp. 28, 61, 66, 85, 86 and 247, there are statements concerning the Jābāla-śruti. In that same work, at pp. 267 and 389, the Jābāla-gṛhya-sūtra, belonging to this branch, is mentioned. In the pariśiṣṭas composed by the sage Kātyāyana the Hautra-sūtra of this branch has become famous. A bhāṣya on it by Tarka-upādhyāya is also available. In the 2nd adhyāya, 8th khaṇḍa of that bhāṣya:
 
 > नववतीश्चि कीर्षेत्-इति जाबालाः ।
 >
@@ -2910,9 +2910,9 @@ The Kāṇva-saṃhitā has 40 adhyāyas, 328 anuvākas and 2086 mantras. Their 
 
 ### The founders of the Kāṇva branch
 
-The disciples of Kaṇva are called Kāṇvas. This Kāṇva branch was at first current among Kaṇva's disciples, that is, among the Kāṇvas. The sage Kaṇva has a gotra; and yet it is known that there were many sages of the name Kaṇva. Among sages of this name the principal ones are: Kaṇva Nārṣada (Jaiminīya Brāhmaṇa 2-126), Kaṇva Śrāyasa (Taittirīya Saṃhitā 5-4-7-5, Kāṇva Saṃhitā 20-8 [?], Maitrāyaṇīya Saṃhitā 3-3-9), Kaṇva Sauśravasa (Kāṇva Saṃhitā 13-2 [?]), Kaṇva Ghaura (Ṛgveda-saṃhitā 1-36 to 43) and others. It is known that the Kaṇva who lived in the time of Mahārāja Duṣyanta belonged to the Kaśyapa gotra. In his hermitage Śakuntalā lived. The sage Kaṇva described in Kālidāsa's play *Śākuntalā* is this same person. He had performed an Aśvamedha sacrifice for King Bharata. In the Ādi-parvan (69-48) it is said *yājayām āsa taṃ kaṇvaḥ* ("Kaṇva made him sacrifice").
+The disciples of Kaṇva are called Kāṇvas. This Kāṇva branch was at first current among Kaṇva's disciples, that is, among the Kāṇvas. The sage Kaṇva has a gotra; and yet it is known that there were many sages of the name Kaṇva. Among sages of this name the principal ones are: Kaṇva Nārṣada (Jaiminīya Brāhmaṇa 2-126), Kaṇva Śrāyasa (Taittirīya Saṃhitā 5-4-7-5, Kāṇva Saṃhitā 21-8, Maitrāyaṇīya Saṃhitā 3-3-9), Kaṇva Sauśravasa (Kāṇva Saṃhitā 13-12), Kaṇva Ghaura (Ṛgveda-saṃhitā 1-36 to 43) and others. It is known that the Kaṇva who lived in the time of Mahārāja Duṣyanta belonged to the Kaśyapa gotra. In his hermitage Śakuntalā lived. The sage Kaṇva described in Kālidāsa's play *Śākuntalā* is this same person. He had performed an Aśvamedha sacrifice for King Bharata. In the Ādi-parvan (69-48) it is said *yājayām āsa taṃ kaṇvaḥ* ("Kaṇva made him sacrifice").
 
-In the first chapter of the Śānti-parvan of the Mahābhārata there is a description that the sages Dvaipāyana, Nārada, Devala, Devasthāna and Kaṇva, with their disciples, after the Bhārata war, went to console Yudhiṣṭhira. Again, in the 344th chapter of the Śānti-parvan it is stated that there was a king named Upacarivasu, a disciple of Bṛhaspati, called after the son of Aṅgiras, Citraśikhaṇḍī; that he performed a great Aśvamedha sacrifice; and that among the 16 officiating priests of that sacrifice there was a sage named Kaṇva. The real names of these many Kaṇvas are not known to us. In the Mausala-parvan too (3-4 [?]) the name of a Kaṇva is indicated; it is said that this Kaṇva, who was with Viśvāmitra and Nārada, cursed that the Yādava clan would perish.
+In the first chapter of the Śānti-parvan of the Mahābhārata there is a description that the sages Dvaipāyana, Nārada, Devala, Devasthāna and Kaṇva, with their disciples, after the Bhārata war, went to console Yudhiṣṭhira. Again, in the 344th chapter of the Śānti-parvan it is stated that there was a king named Upacarivasu, a disciple of Bṛhaspati, called after the son of Aṅgiras, Citraśikhaṇḍī; that he performed a great Aśvamedha sacrifice; and that among the 16 officiating priests of that sacrifice there was a sage named Kaṇva. The real names of these many Kaṇvas are not known to us. In the Mausala-parvan too (2-4) the name of a Kaṇva is indicated; it is said that this Kaṇva, who was with Viśvāmitra and Nārada, cursed that the Yādava clan would perish.
 
 <div class="pgmark">original p. 115</div>
 
