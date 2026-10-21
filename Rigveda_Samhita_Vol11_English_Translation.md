@@ -1428,4 +1428,64 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–53 done: Ṛks 1–2 complete; Ṛk 3 through Special Topics; its grammar begun on p. 53). Next: printed p. 54 (PDF 72) — grammar of Ṛk 3 concluded, then Ṛk 4. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–3 largely unread); Varga numerals of Sūkta 139; the long Taittirīya Saṃhitā quotations on pp. 50–52 and the Ṛg/Nirukta quotations on p. 53 are read with doubtful words and unread numerals; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 54  (PDF 72)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Grammar of Ṛk 3, concluded; noted briefly.)* *devayantaḥ* (concluded: *kyac*-ending verb, *śatṛ* in the sense of the present, *śap*; accent as *kyac* is *cit*: *citaḥ* (Pā. Sū. 6-1-[?]) final-syllable accent; nominative plural), *aśvinā* (*supāṃ sulak…* for the dual: *ā*-substitution; *āmantrita nighāta*), *āśrāvayantaḥ* (root *śru śravaṇe*; causal, *hetumati ca* (Pā. Sū. 3-1-[?]) *ṇic*; …; *śatṛ*, *śap*; accent as *ṇic* is *cit*), *havyā* (for *havyāni*: *śeś chandasi bahulam* (Pā. Sū. 6-1-[?]) drops *śi*; or an instrumental singular with *supāṃ sulak…* and *ḍāc*), *viśvavedasā* (dual; *ā*-substitution; vocative accent), *hiraṇyaye* (*mayaṭ* in the sense of "made of"; the loss of the *m* of *mayaṭ* by *nipātana*; locative singular), *pruṣāyante* (root *pruṣa pluṣa snehanasecanapūraṇeṣu*; *laṭ* third person plural; *jha* → *ant*; *kryādibhyaḥ śnā*; *śāyac* by *chandasi śāyajapi* (Pā. Sū. 3-1-[?]); the suffix has *e*; no *nighāta* as it begins a *pāda*; accent by *śāyac*, *citaḥ* (Pā. Sū. 6-1-[?]) final accent). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अचेति दस्रा व्यु नाकमृण्वथो युञ्जते वां रथयुजो दिविष्टिषु ।
+> दिविष्टिष्वध्वस्मानो दिविष्टिषु [?] ।
+> अधि वां स्थाम वन्धुरे रथे दस्रा हिरण्यये ।
+> पथेव यन्तावनुशासता रजोऽञ्जसा शासता रजः ॥ ४ ॥
+
+> *aceti dasrā vyu nākamṛṇvatho yuñjate vāṃ rathayujo diviṣṭiṣu |*
+> *diviṣṭiṣvadhvasmāno diviṣṭiṣu [?] |*
+> *adhi vāṃ sthāma vandhure rathe dasrā hiraṇyaye |*
+> *patheva yantāvanuśāsatā rajo 'ñjasā śāsatā rajaḥ ‖ 4 ‖*
+
+### Printed p. 55  (PDF 73)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Gist, mine: Dasras, your journey to heaven is known; your chariot-drivers harness for heavenward journeys; we mount your golden three-shafted car; you rule the sky like a road.)*
+
+**॥ पदपाठः ॥**
+
+> अचेति । दस्रा । वि । ऊँ इति । नाकम् । ऋण्वथः । युञ्जते । वाम् । रथऽयुजः । दिविष्टिषु ।
+> अध्वस्मानः । दिविष्टिषु ।
+> अधि । वाम् । स्थाम । वन्धुरे । रथे । दस्रा । हिरण्यये ।
+> पथाऽइव । यन्तौ । अनुऽशासता । रजः । अञ्जसा । शासता । रजः ॥ ४ ॥
+
+> *aceti | dasrā | vi | ū~ iti | nākam | ṛṇvathaḥ | yuñjate | vām | ratha 'yujaḥ | diviṣṭiṣu |*
+> *adhvasmānaḥ | diviṣṭiṣu |*
+> *adhi | vām | sthāma | vandhure | rathe | dasrā | hiraṇyaye |*
+> *pathā 'iva | yantau | anu 'śāsatā | rajaḥ | añjasā | śāsatā | rajaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Dasras, it is known that you go to heaven; your charioteers yoke for journeys to heaven; we mount your three-shafted golden chariot; you rule the sky.* Small type; doubtful words marked)
+
+> हे दस्रा दस्रावश्विनौ अचेति वक्ष्यमाणं युष्माभिः [?] इत्थं ज्ञायते सर्वैः । केनेति । तदुच्यते । नाकं स्वर्गं व्यृण्वथः [?] विशेषेण गच्छथः । ऋणु गतौ तानादिकः । लेट्यडागमः । यज्ञसंपूर्तयः [?] । यज्ञसमाप्त्यनन्तरमिति यावत् । उकारो वधारणे [?] । यद्वा । नाकं अकं दुःखम् । तदप्यहितम् । यज्ञमृण्वथः [?] । विशेषेण गच्छत इव । तदर्थं वां रथयुजो युष्मत्सम्बन्धिनो रथस्य योजयितारः सारथयो दिविष्टिषु स्वर्गगमनेषु ज्योतनात्मकस्य यज्ञस्यैवेषु [?] गमनेषु वा निमित्तभूतेषु युञ्जते । अश्वान् रथे योजयन्ति । युक्ते रथे वा युष्मान् [?] । ते च विशेषमृण्वते । दिविष्टिषु दिवो गमनेषु निरालम्बाकाशगमनेऽस्पृश्यमानो रथस्य तदाघातस्य च ध्वंसमकुर्वाणाः । किञ्च हे दस्राश्विनौ वां युवयोर्बन्धुरे बन्धुरत्रयायुक्ते । योगबन्धनाधारे [?] काष्ठे । विशेषो बन्धुरः । ताद्दशत्रयायुक्तं रथो यो वां त्रिबन्धुरः [?] । ऋ. [?] । इत्यादिषु प्रसिद्धम् । हिरण्यये हिरण्मये रथेऽधि तादृशस्य रथस्योपरि स्थाम [?] । अस्मासयामः [?] । छान्दसे लुङ् [?] बहुलं छन्दसीत्यडभावः । [… the remainder is in very small type and not read; it explains *pātheva*, *yantau*, *anuśāsatā*, *rajaḥ* (the sky or the rain-water) and *aṅjasā* …]
+
+> *he dasrā dasrāvaśvinau aceti vakṣyamāṇaṃ yuṣmābhiḥ [?] itthaṃ jñāyate sarvaiḥ | keneti | taducyate | nākaṃ svargaṃ vyṛṇvathaḥ [?] viśeṣeṇa gacchathaḥ | ṛṇu gatau tānādikaḥ | leṭyaḍāgamaḥ | yajñasaṃpūrtayaḥ [?] | yajñasamāptyanantaramiti yāvat | ukāro vadhāraṇe [?] | yadvā | nākaṃ akaṃ duḥkham | tadapyahitam | yajñamṛṇvathaḥ [?] | viśeṣeṇa gacchata iva | tadarthaṃ vāṃ rathayujo yuṣmatsambandhino rathasya yojayitāraḥ sārathayo diviṣṭiṣu svargagamaneṣu jyotanātmakasya yajñasyaiveṣu [?] gamaneṣu vā nimittabhūteṣu yuñjate | aśvān rathe yojayanti | yukte rathe vā yuṣmān [?] | te ca viśeṣamṛṇvate | diviṣṭiṣu divo gamaneṣu nirālambākāśagamane 'spṛśyamāno rathasya tadāghātasya ca dhvaṃsamakurvāṇāḥ | kiñca he dasrāśvinau vāṃ yuvayorbandhure bandhuratrayāyukte | yogabandhanādhāre [?] kāṣṭhe | viśeṣo bandhuraḥ | tāddaśatrayāyuktaṃ ratho yo vāṃ tribandhuraḥ [?] | ṛ. [?] | ityādiṣu prasiddham | hiraṇyaye hiraṇmaye rathe 'dhi tādṛśasya rathasyopari sthāma [?] | asmāsayāmaḥ [?] | chāndase luṅ [?] bahulaṃ chandasītyaḍabhāvaḥ | [… the remainder is in very small type and not read; it explains *pātheva*, *yantau*, *anuśāsatā*, *rajaḥ* (the sky or the rain-water) and *aṅjasā* …]*
+
+### Printed p. 56  (PDF 74)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+**Pratipadārtha (Kannada).** *dasrā* — O Aśvins; *acheti* — (your purpose) is made known (*acheti* means "it is known"); *nākam* — towards the heaven; *vi ṛṇvathaḥ* — you go; *diviṣṭiṣu* — (to the world of heaven) in the journeys heavenward, or in the sacrifice; *u* — ; *adhvasmānaḥ* — (not injured, i.e. unhurt) the horses; *vām* — your; *rathayujaḥ* — the charioteers; *diviṣṭiṣu* — for travelling to heaven; *yuñjate* — (harnessing the horses) fasten them to the chariot; *dasrā* — O Aśvins; *pātheva* — as on a road; *yantau* — going; *anuśāsatā* — punishing the foes; *rajaḥ* — to the heaven; *yantau* — going; *rajaḥ* — the water of the sky; *añjasā* — straightly; *śāsatā* — those who make [?] rain; *vām* — you; *bandhure* — with the three-shafted [?] and well-made; *hiraṇyaye* — golden; *rathe* — in the chariot; *adhi sthāma* — we place [you / mount] …
+
+**Bhāvārtha.** O Aśvins, we make known your purpose: you are willing to go towards heaven. Unsupported in the sky, your charioteers yoke the car to the horses for your journey to heaven; and you, going by the excellent road, punishing the foes and sending the rain, we place you in your golden, three-shafted car.
+
+**English Translation (as printed).** Dasras, your purpose is known: you would repair to heaven: your charioteers harness (your steeds) for your heavenward journey; the horses that injure not (the car) on your journey to heaven. We have placed you, Dasras, in your golden three-shafted chariot, going by an (easy) road to heaven, humiliators (of enemies), and principal regulators of the rain.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***nākam; ṛṇvathaḥ.*** *Nākaṃ svargaṃ svargalokam* — "to the world of heaven; *ṛṇvathaḥ* you go and reach"; or *nākam* — "you come towards the sacrifice and reach it": Sāyaṇa has given two senses of *nāka*. That *nāka* means "sacrifice" by derivation of the word is seen to be a traditional sense; "heaven" is the sense in more common use. The word is also used as a synonym of the sun. The Nirukta-author classes the word among the *sādhāraṇa* ("common") names, and, explaining its sense as common, says *sādhāraṇāny uttarāṇi ṣaṭ dinasthādityaś ca* [?] … *dyuloke kyo…* (continues on p. 57).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–56 done: Ṛks 1–3 complete; Ṛk 4 through printed English and the start of the Special Topics, *nākam*). Next: printed p. 57 (PDF 75) — Special Topics of Ṛk 4 continued, grammar, then Ṛk 5. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–4 largely unread; p. 55 tail unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Tai./Up. numerals and many quotations; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
