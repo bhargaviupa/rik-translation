@@ -5757,4 +5757,170 @@ On whether this deity is Agni alone, there is from ancient times a disagreement;
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–231 done (essay on the Āprī-sūktas with the Nirukta/Bṛhaddevatā passages and the table of Āprī deities on pp. 226–228; Ṛk 1 on pp. 229–231, Special Topics continuing; p. 231 ends mid-way into an Aitareya-Brāhmaṇa remark on *tantu*, to be continued on p. 232). Next: printed p. 232 (PDF 250). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227 and the table on p. 228 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 232  (PDF 250)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Continuation of the Special Topics of Ṛk 1, on *tantu*; the account of the Aitareya Brāhmaṇa passage that began on p. 231.)*
+
+> तन्तुं तन्वन् रजसो भानुमन्विहीति प्राजापत्यां शंसति प्रजा वै तन्तुः प्रजामेवास्मा विकल्पयन्ती [?] ।
+
+> *tantuṃ tanvan rajaso bhānumanvihīti prājāpatyāṃ śaṃsati prajā vai tantuḥ prajāmevāsmā vikalpayantī [?] |*
+
+(Ai. Brā. 3-[?].) From this sentence it is shown that *yajña*, *prakāśa* and *prajā* are all meant by the word *tantu*, which confirms the meaning given above.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *samiddhaḥ* (*sam* + *idh*; suffix *kta*; *aniditāṃ hala…* drops the nasal; *jhaṣas tathor dho 'dhaḥ* [?] (Pā. Sū. 8-2-40): *dhatva* of the suffix, *jaśtva* of the root-final; *gatir anantaraḥ* (Pā. Sū. 6-2-49): the prefix *sam* keeps its accent), *vaha* (root *vaha prāpaṇe*; *loṭ*, second person singular; accent of the verb lost, being preceded by a word), *yatasruce* (*yatā sruk yena saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member keeps its natural accent; dative singular), *tanuṣva* (root *tanu vistāre*; *loṭ*, second person singular middle; *tiṅ*… accent of the verb lost), *pūrvyam* (*pūrvaiḥ kṛtam iti*; suffix *yat*; *yasyeti ca* drops the *a*; accent on the end by the suffix; accusative singular), *sutasomāya* (root *ṣuñ abhiṣave*; suffix *kta* in the passive; the *bahuvrīhi* compound keeps the first member's natural accent), *dāśuṣe* (root *dāś dāne*; *dāśvān sāhvān mīḍvāṃś ca* (Pā. Sū. 6-1-12) [?]: suffix *kvasu*; dative singular; *vasoḥ samprasāraṇam*; *samprasāraṇāc ca* drops the preceding vowel; *śāsivasighasīnāṃ ca* (Pā. Sū. 8-3-60) gives *ṣa* [?]). ‖ 1 ‖
+
+### Printed p. 233  (PDF 251)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> घृतवन्तमुप मासि मधुमन्तं तनूनपात् ।
+> यज्ञं विप्रस्य मावतः शशमानस्य दाशुषः ॥ २ ॥
+
+> *ghṛtavantamupa māsi madhumantaṃ tanūnapāt |*
+> *yajñaṃ viprasya māvataḥ śaśamānasya dāśuṣaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> घृतऽवन्तम् । उप । मासि । मधुऽमन्तम् । तनूनपात् । यज्ञम् । विप्रस्य । मावतः । शशमानस्य । दाशुषः ॥ २ ॥
+
+> *ghṛta 'vantam | upa | māsi | madhu 'mantam | tanūnapāt | yajñam | viprasya | māvataḥ | śaśamānasya | dāśuṣaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Tanūnapāt, you measure out (arrange) the sacrifice of the wise, praising, oblation-giving sacrificer like me, full of ghee and sweetness; the name is explained as ghee or as the fire born of the waters and plants.* Small type; doubtful words marked)
+
+> हे तनूनपात् । तनूनपादाज्यमिति काठ्कपक्षे [?] तनूः गावः भोगानां ताः सु जायमानत्वात् [?] ताभ्यः उत्पन्नं क्षीरं क्षीरात् सर्पिः इत्याज्यस्य तनूनपात्वं [?] तदाज्यम् । अग्निपक्षे अपस्तु [?] ओषधिवनस्पतयः तेभ्योऽग्निरिति तनूनपात्वम् [?] । अरणिभ्यामिति भावः । हे तनूनपात्नामक हे अग्ने विप्रस्य मेधाविनः शशमानस्य शंसमानस्य स्तुवतः दाशुषो हविर्दत्तवतो मावतो मत्सदृशस्य यजमानस्य ॥ घृतवन्तं क्षरदाज्योपेतं मधुमन्तं माधुर्योपेतं सोमादिमधुरद्रव्येण तद्वन्तं यज्ञमुपमासि निर्मिमीषे । मिञ् [?] भवसि वा । सम्पूर्तिपर्यन्तं तिष्ठसीत्यर्थः । मा मानेऽ । आदादिकः ॥
+
+> *he tanūnapāt | tanūnapādājyamiti kāṭhkapakṣe [?] tanūḥ gāvaḥ bhogānāṃ tāḥ su jāyamānatvāt [?] tābhyaḥ utpannaṃ kṣīraṃ kṣīrāt sarpiḥ ityājyasya tanūnapātvaṃ [?] tadājyam | agnipakṣe apastu [?] oṣadhivanaspatayaḥ tebhyo 'gniriti tanūnapātvam [?] | araṇibhyāmiti bhāvaḥ | he tanūnapātnāmaka he agne viprasya medhāvinaḥ śaśamānasya śaṃsamānasya stuvataḥ dāśuṣo havirdattavato māvato matsadṛśasya yajamānasya ‖ ghṛtavantaṃ kṣaradājyopetaṃ madhumantaṃ mādhuryopetaṃ somādimadhuradravyeṇa tadvantaṃ yajñamupamāsi nirmimīṣe | miñ [?] bhavasi vā | sampūrtiparyantaṃ tiṣṭhasītyarthaḥ | mā māne ' | ādādikaḥ ‖*
+
+**Pratipadārtha (Kannada).** *tanūnapāt* — O Agni, famed by the name "Tanūnapāt"; *viprasya* — of the wise one; *śaśamānasya* — who praises (you); *dāśuṣaḥ* — who offers the oblation; *māvataḥ* — who is like me (full of faith), of such a sacrificer; *ghṛtavantam* — which is filled with ghee; *madhumantam* — which is full of sweet things such as soma; *yajñam* — to the sacrifice; *upa māsi* — be pleased to come (and stay) up to the completion of the sacrifice.
+
+**Bhāvārtha.** O Agni, famed by the name Tanūnapāt! For the sacrifice of the wise one who praises you, who offers oblations, and who is like me full of faith, which is filled with ghee and full of sweet things such as soma, be pleased to be present up to the completion of the sacrifice.
+
+---
+
+### Printed p. 234  (PDF 252)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(The Bhāvārtha ends: "… up to the completion of the sacrifice.")*
+
+**English Translation (as printed).** Tanunapat, be present at this well-flavoured and butter-fed sacrifice, (the offering) of a pious offerer (of oblations) ; glorifying you.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***tanūnapāt*** — here Sāyaṇa gives two kinds of meaning, on the authority of the Nirukta. First: तनूनपादाज्यमिति काठ्कपक्षे तनूर्गावो भोगानां ताः सु जायमानत्वात् (*tanūnapādājyamiti kāṭhkapakṣe tanūrgāvo bhogānāṃ tāḥ su jāyamānatvāt*) [?]; the "bodies" (*tanu*) are the cows, being (the producers) of the enjoyments; from them is produced milk, from milk ghee (*ājya*): thus, in the view of the Kāṭhaka [?] school, *tanūnapāt* is ghee, and the *yajña* is that ghee. Taking *tanūnapāt* as meaning *ājya* (ghee), according to Kātthakya, the word *tanu* means "cow"; from it ghee is produced by way of milk; *tanūnapāt* means ājya, or the sacrifice that has ghee. Second: अग्निपक्षे अपस्तु (*agnipakṣe apastu*) [?] — in the Agni view, from the waters the plants and trees (*oṣadhi-vanaspati*) are produced, from them (the churning sticks, *araṇi*) Agni is born; hence the name *tanūnapāt*. *Tanu* here means "water". The Bṛhaddevatā says:
+
+> अयं तनूनपाद्ग्निरसौ हि तनूनपात् नः [?] ।
+> ततस्तु मध्यमो जज्ञे स्थाने यं मध्यमात्रतः [?] ॥
+> अनन्तरं प्रजामाहुर्नपादित्यपदं नवः [?] ।
+> नपादेमुष्य चैवायम् अग्निस्त्रेन तनूनपात् ॥
+
+> *ayaṃ tanūnapādgnirasau hi tanūnapāt naḥ [?] |*
+> *tatastu madhyamo jajñe sthāne yaṃ madhyamātrataḥ [?] ‖*
+> *anantaraṃ prajāmāhurnapādityapadaṃ navaḥ [?] |*
+> *napādemuṣya caivāyam agnistrena tanūnapāt ‖*
+
+> तनूनपादयं त्वेन नामा यच्चेष्ट तनूनम् [?] ।
+> नपादिति प्रजा माहुरमुतोऽस्य च सम्भवम् ॥
+
+> *tanūnapādayaṃ tvena nāmā yacceṣṭa tanūnam [?] |*
+> *napāditi prajā māhuramuto 'sya ca sambhavam ‖*
+
+(Bṛ. De. 3-[?] to 3-[?], and 3-[?]; these verses are only partly legible and are given with doubt.) The sense of these Bṛhaddevatā verses, as the Kannada explains: the *nap(āt)* word in *tanūnapāt* means "grandson" (*pautra*) in the sense of progeny; the "celestial" fire of the heavenly world is, by its spreading power, called *tanūnapāt*, hence *tanūnapāt* is its synonym. From this the Agni of the atmosphere (the lightning) and the terrestrial Agni are also born from the *tanū* of the waters; so for the earthly Agni too the name *tanūnapāt* …
+
+---
+
+### Printed p. 235  (PDF 253)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+… has been explained as meaning "the name *tanūnapāt*". The relation of this form of Agni with the Agni *Narāśaṃsa* and the differences between them will be explained in the Special Topics that follow.
+
+***māsi*** — निर्मिमीषे मिमीते भवसि वा । सम्पूर्तिपर्यन्तं तिष्ठसीति वा (*nirmimīṣe mimīte bhavasi vā | sampūrtiparyantaṃ tiṣṭhasīti vā*) [?]: "you prepare, or you are; or you remain until the sacrifice is completely finished" — the meaning is "stay until the complete completion of the sacrifice".
+
+***viprasya*** — the word *vipra* is read among the names of the wise (Ni. 3-[?]-[?]); "of the wise, one possessing intelligence, and of the praising [?]": of the sacrificer.
+
+***māvataḥ*** — मत्सदृशस्य यजमानस्य (*matsadṛśasya yajamānasya*): of a sacrificer who is like me, "who is endowed with the same faith [?]".
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ghṛtavantam* (*ghṛtam asyāsti*; suffix *matup*; *tadasyāsti*…; *pit*, hence *anudātta*), *māsi* (root *mā māne*, *adādi*; *laṭ*, second person singular; *sip* ending; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap* (Pā. Sū. 2-4-72); *lopaḥ* (Pā. Sū. [?]): *ati̇ṅ*, *nighāta* accent), *tanūnapāt* (*āmantritasya ca* (Pā. Sū. 6-1-198): *āmantrita* accent), *yajñam* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yajayācayatavicchaprachvarakṣo naṅ* (Pā. Sū. 3-3-90): suffix *naṅ*; accent of the suffix, end-accent; second vowel...), *māvataḥ* (*yuṣmadasmador vatuṣ sādṛśye* [?] (Pā. Sū. 4-3-[?]): suffix *vatup* after *asmad*; *pratyayottarapadayoś ca* (Pā. Sū. 7-2-98): replaced by *ma*; *ā sarvanāmnaḥ* (Pā. Sū. 6-3-91): lengthening; *vatup* is *pit*, hence *anudātta*), *śaśamānasya* (from *śaṃsamāna*, *ramaṇa* [?] becomes *śaśamāna*; *cit*, hence end-accent by *citaḥ* (Pā. Sū. 6-1-163); genitive singular), *dāśuṣaḥ* (explained in the previous mantra; genitive singular). ‖ 2 ‖
+
+---
+
+#### Ṛk 3
+
+### Printed p. 236  (PDF 254)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**॥ संहितापाठः ॥**
+
+> शुचिः पावको अद्भुतो मध्वा यज्ञं मिमिक्षति ।
+> नराशंसस्त्रिरा दिवो देवो देवेषु यज्ञियः ॥ ३ ॥
+
+> *śuciḥ pāvako adbhuto madhvā yajñaṃ mimikṣati |*
+> *narāśaṃsastrirā divo devo deveṣu yajñiyaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> शुचिः । पावकः । अद्भुतः । मध्वा । यज्ञम् । मिमिक्षति ।
+> नराशंसः । त्रिः । आ । दिवः । देवः । देवेषु । यज्ञियः ॥ ३ ॥
+
+> *śuciḥ | pāvakaḥ | adbhutaḥ | madhvā | yajñam | mimikṣati |*
+> *narāśaṃsaḥ | triḥ | ā | divaḥ | devaḥ | deveṣu | yajñiyaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni Narāśaṃsa, among the gods pure, purifying, wonderful, shining and fit for the sacrifice, praised by the priests, comes from heaven and thrice sprinkles our sacrifice with sweet fruit; the alternative view of Kātthakya takes Narāśaṃsa as the sacrifice-presiding deity.* Small type; doubtful words marked)
+
+> देवेषु मध्ये शुचिः शुद्धो दीप्तो वा पावकोऽन्नस्य पूतस्य [?] शोधयिता अद्भुतोऽद्भुत इव [?] भवति । आश्चर्यभूत इत्यर्थः । देवो द्योतनशीलो यज्ञियो यज्ञसम्पादनार्हः । नराशंसो नर्यः कर्मनेतृभिर्ऋत्विग्भिः शंसनीयोऽग्निर्दिवो द्युलोकादागत्य मध्वा मधुरेण रसेन यज्ञमस्मदीयं त्रिरा मिमिक्षति । त्रिवारं समन्तात् सिञ्चति । स्वदेयमित्यर्थः । यद्वा मधुरेण फलेन त्रिरा मिमिक्षति । योजयतीत्यर्थः । नराशंसो यज्ञ इति कात्थक्यपक्षे यज्ञाभिमानी देवो द्योतमानो द्युलोकादागत्यास्मदीयं यज्ञं त्रिरा मिमिक्षति [?] । उपसर्गव्यवहितयोगः [?] क्रियाध्याहारः [?] । त्रिवारमागच्छति । त्रिराहरति [?] वा फलम् । अवशिष्टं पूर्ववन्नेयम् ॥
+
+> *deveṣu madhye śuciḥ śuddho dīpto vā pāvako 'nnasya pūtasya [?] śodhayitā adbhuto 'dbhuta iva [?] bhavati | āścaryabhūta ityarthaḥ | devo dyotanaśīlo yajñiyo yajñasampādanārhaḥ | narāśaṃso naryaḥ karmanetṛbhirṛtvigbhiḥ śaṃsanīyo 'gnirdivo dyulokādāgatya madhvā madhureṇa rasena yajñamasmadīyaṃ trirā mimikṣati | trivāraṃ samantāt siñcati | svadeyamityarthaḥ | yadvā madhureṇa phalena trirā mimikṣati | yojayatītyarthaḥ | narāśaṃso yajña iti kātthakyapakṣe yajñābhimānī devo dyotamāno dyulokādāgatyāsmadīyaṃ yajñaṃ trirā mimikṣati [?] | upasargavyavahitayogaḥ [?] kriyādhyāhāraḥ [?] | trivāramāgacchati | trirāharati [?] vā phalam | avaśiṣṭaṃ pūrvavanneyam ‖*
+
+**Pratipadārtha (Kannada).** *deveṣu* — among the gods; *śuciḥ* — the pure one; *pāvakaḥ* — who purifies (the food); *adbhutaḥ* — wonderful; *devaḥ* — shining; *yajñiyaḥ* — fit for obtaining the sacrifice; *narāśaṃsaḥ* — Agni, famed as Narāśaṃsa (praised by the priests); *divaḥ* — having come from the heavenly world; *madhvā* — with sweet juice or fruit; *yajñam* — the sacrifice; *triḥ* — thrice; *ā mimikṣati* — sprinkles all round, or brings the fruit thrice at the three sacrifice-times.
+
+**Bhāvārtha.** Agni, who is pure among the gods, who purifies the food, wonderful, shining, fit for obtaining the sacrifice and famed as Narāśaṃsa, comes from the heavenly world and thrice joins this our sacrifice with a sweet fruit.
+
+---
+
+### Printed p. 237  (PDF 255)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+**English Translation (as printed).** The pure, purifying, wonderful Narasansa, an adorable god among gods, (having come) from heaven, thrice mixes the sacrifice with the sweet (juice of the Soma).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***narāśaṃsaḥ*** — नर्यैः शंसनीयः (अग्निः) (*naryaiḥ śaṃsanīyaḥ (agniḥ)*): "Agni, who is praised by men", and (it is also said) the name of "the sacrifice". Or नराशंसोऽग्निर्यज्ञो वा (*narāśaṃso 'gniryajño vā*): *narāśaṃsa* is either Agni or the sacrifice. This is the view meant by the commentator that the word *narāśaṃsa* means either Agni or the sacrifice, and the Nirukta passage supports these two opinions:
+
+> नराशंसो यज्ञ इति कात्थक्यः । नरा अस्मिन्नासीनाः शंसन्ति । अग्निरिति शाकपूणिः । नर्यैः प्रशस्यो भवति ।
+
+> *narāśaṃso yajña iti kātthakyaḥ | narā asminnāsīnāḥ śaṃsanti | agniriti śākapūṇiḥ | naryaiḥ praśasyo bhavati |*
+
+(Ni. 8-[?].) "*Narāśaṃsa* is the sacrifice, says Kātthakya; men sit in it and recite praise; Agni, says Śākapūṇi: he is praised by men." After pointing out these two opinions it says (Yāska):
+
+> नराशंसस्य महिमानमेषामुपस्तोषाम यजतस्य यज्ञैः ।
+> ये सुक्रतवः शुचयो धियन्धाः स्वदन्ति देवा उभयानि हव्या ॥
+
+> *narāśaṃsasya mahimānameṣāmupastoṣāma yajatasya yajñaiḥ |*
+> *ye sukratavaḥ śucayo dhiyandhāḥ svadanti devā ubhayāni havyā ‖*
+
+(Ṛ. Saṃ. 7-2-2 [?].) Citing this Ṛk, "in this Ṛk the meaning 'Agni' is appropriate". In the Nighaṇṭu, the deity *narāśaṃsa* is understood to be one of the forms of Agni [?]. The author of the Bṛhaddevatā says the same:
+
+> नराशंसस्त्रिस्थानमेनमेवाग्निः [?] त्रिष्टुः [?] ।
+> बर्हिर्द्वारश्च देव्योऽग्निमेनमेव तु संश्रिताः [?] ॥
+
+> *narāśaṃsastristhānamenamevāgniḥ [?] triṣṭuḥ [?] |*
+> *barhirdvāraśca devyo 'gnimenameva tu saṃśritāḥ [?] ‖*
+
+(Bṛ. De. 1-[?]; read with doubt.) In this verse *narāśaṃsa* is said to be inherent in Agni, like the other deities mentioned here. And:
+
+> पृथक्त्वेन समासैस्तु यज्ञे यच्च स्तुतिर्नृभिः [?] ।
+> स्तुत्यन्ताप्रीषु तेनेमं नराशंसं तु कारवः [?] ॥
+
+> *pṛthaktvena samāsaistu yajñe yacca stutirnṛbhiḥ [?] |*
+> *stutyantāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ [?] ‖*
+
+(Bṛ. De. 3-[?].) Since in the sacrifice he is separately praised, also in combination, by all men, the poets [?] have called this (Agni) "Narāśaṃsa" in the Āprī-sūktas; thus the author of the Nirukta, giving a different view …
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–237 done (introductory essay; Ṛk 1 pp. 229–232; Ṛk 2 pp. 233–235; Ṛk 3 begun p. 236, Special Topics on *narāśaṃsa* continuing on p. 237, which ends mid-way into Yāska's other view, to be continued on p. 238). Next: printed p. 238 (PDF 256). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237 and the table on p. 228 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
