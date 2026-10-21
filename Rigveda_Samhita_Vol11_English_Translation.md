@@ -4892,4 +4892,128 @@ Besides, since there are also passages in which the feminine word *aruṣī* is 
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–195 done: Ṛks 1–7 complete; Ṛk 8 through printed English and Special Topics (*śikvabhiḥ*, *aruṣebhiḥ* with Max Müller quotations) begun)). Next: printed p. 196 (PDF 214) — Special Topics of Ṛk 8 continued (*aruṣī*, *kṛṣṇāsaḥ* …), grammar; then Ṛk 9. Images exist to PDF 215; recrop 216 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 196  (PDF 214)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 195.)*
+
+> वयं हि ते अमन्महि [?] आन्तादा [?] पराकात् । अश्वे न चक्रे अरुषी [?] ॥
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) In such Ṛks *aruṣī* denotes Uṣas as the deity; and
+
+> युक्ष्वा ह्यरुषी रथे हरितो देव रोहितः । ताभिर्देवाँ इहा वह ॥
+
+(Ṛ. Saṃ. 1-14-12 [?].)
+
+> अधि श्रियं नि दधुश्चारुमस्मिन्दिवो यदक्षी अमृता अकृण्वन् । अध क्षरन्ति सिन्धवो न सृष्टाः प्र नीचीरग्ने अरुषीरजानन् ॥
+
+(Ṛ. Saṃ. 1-71-10 [?].) In such Ṛks *aruṣī* is understood as the golden-hued mare of Agni; in the others, 1-14-12 and the like, as an ordinary mare. Regarding the special senses of the word *aruṣī* used in the feminine, Max Müller says again:
+
+> *Further on, where the meanings attributed to Arushi in the Veda are collected, it is said: that Arushi means a red horse, also the teams of Agni and Ushas. Now, here surely, a distinction should have been made between those passages in which Arushi means a real horse and those where it expresses the imaginary steeds of Agni. The former, it should be observed, occur in one Mandala only, and in places of somewhat doubtful authority. Again, two passages are set apart where Arushi is supposed to mean flames. Now, it may be perfectly true that the red horses of Agni are meant for flames, just as the red horses of Indra may be the rays of the Sun. But, in that case, the red horses of Agni should always have been thus translated, or rather interpreted, and not in one passage only.* (S. B. E. XXXII, p. 27.)
+
+In the present Ṛk, for the word *aruṣebhiḥ* one may give the sense "of moving nature" or "golden-hued".
+
+***sūrayaḥ*** — *saraṇayaḥ mārgāḥ*: Sāyaṇa explains it as "paths that spread". Ordinarily the word *sūri* is used in the sense "wise"; the purport is "a wise praiser". *Rebhaḥ*, *jaritā* and the like are read in the Nirukta among the names of praisers (Ni. 3-[?]).
+
+> उषो ये ते प्र यामेषु युञ्जते मनो दानाय सूरयः । अत्राह तत्कण्व एषां कण्वतमो नाम गृणाति नृणाम् ॥
+
+(Ṛ. Saṃ. 1-48-4.)
+
+### Printed p. 197  (PDF 215)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 8 [?].)*
+
+> इदं नमो वृषभाय स्वराजे सत्यशुष्माय तवसेऽवाचि । अस्मिन्निन्द्र वृजने सर्ववीराः स्मत्सूरिभिस्तव शर्मन्त्स्याम ॥
+
+(Ṛ. Saṃ. 7-23-6 [?].) In such Ṛks *vipraḥ*, *vidvadbhiḥ* is the sense. In the present Ṛk, and in a few others also, as said above, "paths" — the paths of Agni's spreading — are suggested.
+
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar pages 197–198, noted briefly).** *yātaḥ* (root *yā prāpaṇe*; suffix *kta*; as it is *aniṭ*, no *iṭ*; accent of the suffix, final-syllable *udātta*), *aṅgebhiḥ* (by *bahulaṃ chandasi* the *ais* substitution for *bhis* is optional here, so does not come; *bahuvacane jhaly et* gives *e*), *aruṣebhiḥ* (root *ṛ̥ gatau*; *ṛ̥hanibhyām uṣan* (Uṇ. Sū. 4-[?]) suffix *uṣan*; *guṇa*; *raparatva*; final-syllable accent by suffix [?]; *e* as before), *īyate* (root *īṅ gatau*; *divādi*; *laṭ*, third person singular; *ṭe* → *e*; *divādibhyaḥ śyan* (Pā. Sū. 3-1-69) *śyan*; *sārvadhātukamapit*: no *guṇa* to the *ī*; because of *ati-jñanta*, *nighāta*), *kṛṣṇāsaḥ* (root *kṛṣa vilekhane*; *kṛṣer varṇe* (Uṇ. Sū. 3-[?]) suffix *naj*; the accent by suffix: last-syllable; *jas*: *ājjaser asuk*), *dakṣi* (root *daha bhasmīkaraṇe*; *vyatyayo bahulam*: *sip* in place of *tip*; *bahulaṃ chandasi*: *luk* of *śap*; *ho ḍhaḥ*: *ḍha*; *jhaṣas tathor dho 'dhaḥ* [?]: *dha*; *ṣaḍhoḥ kaḥ si*: *ka*; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59): *ṣa*; the form *dhakṣi*; *ati-jñanta*, *nighāta*), *sūrayaḥ* (root *ṣūṅ prāṇiprasave*; *sūjākṛṣīti* (Uṇ. Sū. 4-[?]): suffix *kri*; it is *kit*, so no *guṇa*; accent of the suffix; nominative plural), *tveṣathāt* (root *tviṣa dīptau*; in the *uṇādi* (*bahulagrahaṇa*) suffix *athac*; *guṇa* of the light penultimate by the suffix cause; first-syllable accent by the suffix; ablative singular), *īṣate* (root *īṣa gatihiṃsādarśaneṣu*; *bhvādi*; *laṭ*, third person plural, *jha*; *śap* is *luk* by *bahulaṃ chandasi*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5) gives *at* for *jha*; *tiṅ*, *nighāta*), *vayaḥ* (root *vā gatigandhanayoḥ*; *vāteḍ ḍit* (Uṇ. Sū. 2-[?]) suffix *iṇ*; by *ḍit*, the *ṭi* is dropped; accent of the suffix; *vi* is the form; nominative plural). ‖ 8 ‖
+
+---
+
+#### Ṛk 9
+
+### Printed p. 198  (PDF 216)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**॥ संहितापाठः ॥**
+
+> त्वया ह्यग्ने वरुणो धृतव्रतो मित्रः शाशद्रे अर्यमा सुदानवः ।
+> यत्सीमनु क्रतुना विश्वथा विभुररान्न नेमिः परिभूरजायथाः ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वया । हि । अग्ने । वरुणः । धृतऽव्रतः । मित्रः । शाशद्रे । अर्यमा । सुऽदानवः ।
+> यत् । सीम् । अनु । क्रतुना । विश्वऽथा । विऽभुः । अरान् । न । नेमिः । परिऽभूः । अजायथाः ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *By you, Agni, Varuṇa keeps his vows, Mitra and Aryaman are bountiful and strong; you, pervading all like a felly encircling the spokes, were born through all rites.* Small type; doubtful words marked)
+
+> हे अग्ने त्वया खलु वरुणो रात्र्यभिमानी देवो धृतव्रतः स्वीकृतवर्षादिकर्मा भवति । तथा मित्रोऽहरभिमानी देवः शाशद्रे शातयति तमः । शद्लृ शातने । छान्दसो लिट् । बहुलं छन्दसीति रुट् । तुजादित्वादभ्यासदीर्घः [?] ॥ तथार्यमोभयोर्मध्यवर्ती देवः सुदानवः शोभनदानो भवति । व्यत्ययेन बहुवचनम् ॥ यद्वा । एते वरुणादयः सुदानवः शोभनदानाः स्वस्वकार्यकर्तारस्सन्त्यो [?] …
+
+### Printed p. 199  (PDF 217)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 8 [?].)*
+
+> … हि शाशद्रे । शात्रे [?] … तीक्ष्णीक्रियन्ते [?] । … मन्त्रात्मक … श्रेयमग्ने [?] वरुणो जायसे । … इति रेभ्यभावे [?] … । हि चेति निघातभावः ॥ वरुणादीनामनुग्रहाय [?] यत् यस्मात्कारणात् हे अग्ने सीम् सर्वतः क्रतुना कर्मणा विश्वथा विश्वे इव विश्वात्मके इव विभुर्मित्रायामात्मना सर्वव्यापी परिभूः स्वतेजसा सर्वतः परिवर्तिता सन् अजायथाः जायसे प्रादुर्भवसि । तत्र दृष्टान्तः । अरान्नेमिः [?] इव नेमिरिव वाह्यवलयं इव । स यथा व्याप्य तस्मिन् तत्पदेयमग्निर्वरुणादीनां व्याप्य तिष्ठसि [?] ॥ [partly unread]
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *tvayā hi* — by you alone (by your help); [*varuṇaḥ* — Varuṇa; *dhṛtavrataḥ* — carries out (his duties of rain and so on) correctly; *mitraḥ* — Mitra, the deity presiding over the day; *śāśadre* — destroys the darkness [?]; *āryamā* — Aryaman; *sudānavaḥ* — becomes an excellent giver]; or [*dhṛtavrataḥ* — he who fulfils his duties, *varuṇaḥ* — Varuṇa; *sudānavaḥ* — those of generous gifts, *mitraḥ* — Mitra (and) *āryamā* — Aryaman too; *tvayā hi* — by you alone; *śāśadre* — acquire keen intelligence]; *yat* — because; *sīm* — everywhere; *kratunā* — by all rites; *viśvathā* — as of universal nature; *arān nemiḥ na* — as the felly of a chariot-wheel surrounds the spokes (surrounding all rites); *vibhuḥ* — all-pervading; *paribhūḥ* — (by your radiance) surpassing all; *ajāyathāḥ* — you are born.
+
+**Bhāvārtha.** O Agni, Varuṇa, who correctly fulfils his duties, and Mitra and Aryaman, generous givers, acquire keen intelligence by your help alone. And for that very reason you, as the felly of a chariot-wheel surrounds the spokes, by all your rites too are born as of universal nature, all-pervading, and, by your radiance, encompassing everywhere.
+
+**English Translation (as printed).** By you Agni, Varuna, observant of his duties, and Mitra and Aryaman, bountiful divinities, are animated, so that you have been born comprehending them all universally in all (their) functions, and encompassing (them all) as the circumference (encompasses) the spokes (of a wheel).
+
+### Printed p. 200  (PDF 218)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** Sāyaṇa has given two kinds of construction to the first half of this Ṛk. By the first construction, assigning individual qualities and duties to these deities, Varuṇa, Mitra and Aryaman, and saying that all of them perform their qualities and duties only by Agni's help, he makes it end in the praise of Agni. According to this construction Varuṇa is *dhṛtavrata*; Mitra is the destroyer of darkness; and Aryaman is a generous giver; this construction has the support of *śruti* sentences.
+
+That Varuṇa is *dhṛtavrata* is well known in the Ṛk-saṃhitā. In many places he is praised as the leader and teacher in every kind of moral conduct.
+
+> त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः । त्वमर्यमा सत्पतिर्यस्य सम्भुजं त्वमंशो विदथे देव भाजयुः ॥
+
+(Ṛ. Saṃ. 2-1-4.) As in this Ṛk it is said that Varuṇa of firm vows, Mitra the worthy of praise, and Aryaman the true lord are all Agni himself, so in this Ṛk also, in *tvayā hy agne varuṇo dhṛtavrataḥ* and so on, it is said that Agni is the root cause of all the activity of Varuṇa and the others. And further —
+
+> सोऽग्नेरेको भागो यद्वारुणो यमेवामुष्मिन्नंभूर्भवति यो ऽपि वरुणः । सोऽग्निः सोऽग्नेर्द्वितीयो भागः ॥ [?]
+
+(Śa. Brā. 3-4-4-[?]; read with doubt.) Such sentences declare identity between Agni and Varuṇa. And of Mitra and Varuṇa, who are Agni's own, whose functions in worldly affairs are fixed —
+
+> क्रतोदक्षौ वा अस्य मित्रावरुणौ । वितेन्न्याध्यात्मं [?] स यदेव मनसा कामयत इदं मे स्यादिदं कुर्वीयेति स एव क्रतुरथ यदस्यै तत्समृद्ध्यते स दक्षो मित्र इव क्रतुर्वरुणो दक्षो ब्रह्मैव मित्रः क्षत्रं वरुणः ॥ [?]
+
+(Śa. Brā. 4-1-4-[?]; read with doubt.) In such sentences the relation of each to the other is told: Mitra is the maker of the resolve, and Varuṇa the agent that carries out that resolve.
+
+***mitraḥ śāśadre*** — *aharabhimānī devaḥ tamaḥ śātayati*: Mitra is the deity presiding over the day, who destroys all the darkness of night: his work and nature are stated. In the same way it is said in many places that Varuṇa is the deity presiding over the night.
+
+### Printed p. 201  (PDF 219)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 8 [?].)*
+
+> प्राणापानौ [?] वा एतौ यदुपांश्वन्तर्यामौ मित्रो ऽहरजनयद्वरुणो रात्रिं ततो वा इदं व्यैच्छद्यन्मैत्रावरुणो गृह्यते व्युष्ट्यै ॥ [?]
+
+(Tai. Saṃ. 6-4-[?]-[?]; read with doubt.) What is said in these Saṃhitā sentences and in the Brāhmaṇas will be set out later, in the explanation of Sūktas 151–153 of this same adhyāya.
+
+By the second construction, *mitraḥ śāśadre* is "Mitra destroys the enemies with Agni's help", and one has to address Agni thus: "By you alone are Mitra, Varuṇa and Aryaman invigorated, all these deities."
+
+> उषसो हि वसो अग्रमेषि त्वं यमयोरभवो विभावा । ऋताय सप्त दधिषे पदानि जनयन्मित्रं तन्वे स्वायै ॥
+
+(Ṛ. Saṃ. 10-[?]-[?].) In such Ṛks, because Agni is the cause of the birth of Mitra and the others, it is said that he is their invigorator; so the second construction too is possible.
+
+In the second half of the Ṛk the epithets *vibhuḥ* and *paribhūḥ* indicate Agni's all-pervasiveness and all-surpassing. And since the sacrificial acts and Agni are compared to the nave and the felly of a chariot, the identity of the sacrificial rites and Agni, and their dear, inseparable relation, are understood.
+
+The sacrifice mirrors the principle of the universe. The altar is the navel of the sacrifice, and so is the navel of the universe. Agni, established in this navel, is the centre of all the principles of the world and the all-pervader. The sun, moon and all the planets rest their movements on this centre.
+
+> द्यौर्ह वै [?] … एष्योऽग्निः [?] । तस्यापः एव परिश्रयो यथा ह वा इदं कोशे समुब्जिते [?] एवमिमे लोका अप्स्वन्तः … इमान् लोकान् … आपः परिश्रिताः … देवा यजुष्मत्यः इष्टका यदेनैस्मिल्लोके … पूर्णेष्टकानि पुरीष्या … । यद्वा अस्मिल्लोकं … तद्वा वितत्सर्वमादित्यमेवाभिसंपद्यते तस्मात्सर्वोऽग्निः ॥ [?]
+
+(Śa. Brā. 10-[?]-[?]-[?]; garbled at this resolution.)
+
+> सर्वाणि ह श्वेव भूतानि । सर्वे देवा एषो ऽग्नौ चित आपो वै सर्वे देवास्ता हैता आप एवाग्नेः परिश्रिताः [?] … त्रीणि च शतानि भवन्ति … योऽसावादित्यो हिरण्मयः पुरुषः ॥ [?]
+
+(Śa. Brā. 10-[?]-[?]-[?].)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–201 done: Ṛks 1–8 complete; Ṛk 9 through printed English and Special Topics (Varuṇa/Mitra/Aryaman; Agni as centre; Śa. Brā. quotations))). Next: printed p. 202 (PDF 220) — Special Topics of Ṛk 9 continued, grammar; then Ṛk 10. Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
