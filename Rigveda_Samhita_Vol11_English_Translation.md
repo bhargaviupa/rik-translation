@@ -520,4 +520,86 @@ The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–17 done: Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun). Next: printed p. 18 (PDF 36): the Ṛg quotation after *tuvijātasya* (continues from p. 17), rest of Ṛk 1 Special Topics and grammar, then Ṛk 2. Workflow as in CLAUDE.md "Cost-saving rules": bhāṣya in Devanagari, no English, one-line gist; images cropped at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost); `english_block.py` fails here (use the printed English as seen). Helpers: /tmp/v11/app11.py (append English), kn_merge.py (Kannada). Open flags: Sūkta 138 p. 15 header Varga numeral; p. 15–16 bhāṣya small words ([?] in *na tandate* gloss, *antyūtim* gloss, *makha* clause); p. 17 all Ni./Tai. Brā./Bṛ. De./Ṛg numerals and the Bṛhaddevatā verse and Ṛg quotation. Earlier flags for Sūkta 137 and Pīṭhike: see the previous note (retained in the Kannada file).
+### Printed p. 18  (PDF 36)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Special Topics of Ṛk 1, continued from p. 17.)* [The quotation of p. 17 ends: …] "…is an epithet of Indra: *bahūni jātāni pṛthivyādīni yasmāt so 'yaṃ tuvijātaḥ* — Indra, from whom many beings such as the earth were born." So it is explained.
+
+> नमः पुरा [?] ते वरुणोत नूनमुतापरं तुविजात ब्रवाम ।
+
+> *namaḥ purā [?] te varuṇota nūnamutāparaṃ tuvijāta bravāma |*
+
+(Ṛ. Saṃ. 7-[?]-[?] [?].)
+
+> प्र मित्रयोर्वरुणयोः स्तोमो न एतु शूष्यः । नमस्वान्तुविजातयोः [?] ।
+
+> *pra mitrayorvaruṇayoḥ stomo na etu śūṣyaḥ | namasvāntuvijātayoḥ [?] |*
+
+(Ṛ. Saṃ. 5-[?]-[?] [?].) In such Ṛks the word is an epithet of Mitra and Varuṇa, meaning "those who have appeared in many forms (*bahubhāva*)".
+
+> वि षा आग्ने [?] गृणते मनीषां खं वेपसा तुविजात स्ववानः [?] ।
+
+> *vi ṣā āgne [?] gṛṇate manīṣāṃ khaṃ vepasā tuvijāta svavānaḥ [?] |*
+
+(Ṛ. Saṃ. 4-[?]-[?] [?].) Here Agni is described and addressed as "many-born" (*bahujanman*), i.e. Agni arising in different forms such as lightning; in the same way in many places the forms of Indra and other gods are described. The authors of the Bṛhaddevatā have taken *tuvijāta* to name a separate deity. They say:
+
+> कृणोतु मित्रो अर्यमा भगो न स्तुविजातो वरुणो दक्षो अंशः [?] ।
+
+> *kṛṇotu mitro aryamā bhago na stuvijāto varuṇo dakṣo aṃśaḥ [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].) Taking this Ṛk as their guide they have included the deity *Tuvijāta* in the group of Mitra and the rest. Sāyaṇa explains this word as "one who has appeared in many places for the sake of favour" and takes it as an epithet of Varuṇa [the exact wording of the print here is not legible to me [?]]. But the Bṛhaddevatā authors follow the Nirukta meaning "*dhātā*" [?]:
+
+> मित्रावरुणदेवत्साम् [?] तुविजातभगार्यम्णाम् ।
+> आदित्यानामिमाः सूक्तमिदं वारुणमुच्यते ॥ [?]
+
+> *mitrāvaruṇadevatsām [?] tuvijātabhagāryamṇām |*
+> *ādityānāmimāḥ sūktamidaṃ vāruṇamucyate ‖ [?]*
+
+(Bṛ. De. 6-[?] [?].) By this statement they indicate Dhātṛ, one of the seven Ādityas [as read].
+
+Like *tuvijāta* there are uses of the words *tuviṣmān*, *tuvirādhaḥ*, *tuvinṛmṇa*, *tuvigrīva*, *tuvisvarṇa*.
+
+> अहं ह्युग्रस्तुविष्मान् [?] विष्णोः [?] शत्रोर्नमं [?] वधस्नैः [?] ।
+
+> *ahaṃ hyugrastuviṣmān [?] viṣṇoḥ [?] śatrornamaṃ [?] vadhasnaiḥ [?] |*
+
+(Ṛ. Saṃ. 7-[?]-[?] [?]; the quotation is badly read, [?].)
+
+### Printed p. 19  (PDF 37)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?]-[?] [?]) means abundant wealth, and *tuvisvana* (Ṛ. Saṃ. [?]) means one of abundant [loud?] sound [?]. In the Ṛk at hand, as stated above, it describes Pūṣan's quality of appearing in many places to favour the sacrificers.
+
+***antyūtim*** — *asannarakṣaṇam*: "very near protection". Like the descriptions *paśupāḥ* (Ṛ. Saṃ. 6-[?]-[?] [?]), *puṣṭiṃbhara* and the like, the epithet *antyūti* also shows Pūṣan's act of protection.
+
+***makhaḥ viśvasya manaḥ āyuyuve*** — two constructions are possible, as shown when the sense is explained: *āyuyuve* — *samantāt sampūrtiparyantaṃ miśrayati*: "he joins [with the sacrifice] until it is completed without hindrance" (with reference to the sacrifice), and *yajamānasya manaḥ samantāt āyuyuve*: "he makes the sacrificer's mind, not turned elsewhere, fixed in the sacrifice" (with *manas* as the object): so two senses are possible.
+
+***sumnayan*** — *sumna* is read among the names of happiness (Ni. 3-[?] [?]); *sukham icchan* — "wishing happiness".
+
+***mana āyuyuve makho deva āyuyuve makhaḥ*** — repetition here; it is a style; in this repetition the intensity [of feeling] is seen, and the Nirukta-author has defended the excellence of this style:
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयाहो दर्शनीयेति ।
+
+> *abhyāse bhūyāṃsamarthaṃ manyante yathāho darśanīyāho darśanīyeti |*
+
+(Ni. 10-43 [as read, [?]].) By repetition a special force and power of expression is shown; as in "she is beautiful, very beautiful", a special regard is seen in describing her beauty; in the same way there are many occasions where, to bring out a superior feeling, texts are recited showing special regard. Among them the style of Parucchepa is praised by the Nirukta-authors as "*tat paruccheapasya śīlam*" (Ni. 10-43 [?]), the speciality of Parucchepa; and
+
+> प्र तद्वोचेयं भव्यायेन्दवे हव्यो न य इषवान्मन्म रेजति रक्षोहा मन्म रेजति ।
+
+> *pra tadvoceyaṃ bhavyāyendave havyo na ya iṣavānmanma rejati rakṣohā manma rejati |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+### Printed p. 20  (PDF 38)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+[The Kannada:] "…the repetition in this Ṛk is shown by the Nirukta by way of example; likewise here too, in the repetition *āyuyuve makho deva āyuyuve makhaḥ*, there is a kind of poetic beauty."
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *prapra* (doubling by *nityavīpsayoḥ*, accent by *anudāttaṃ ca*), *pūṣṇaḥ* (root *pūṣ vṛddhau*, *kasi* by an Uṇ. sūtra), *tuvijātasya*, *śasyate* (root *śaṃsu stutau*; *laṭ*, *yak*), *mahitvam* (root *mah pūjāyām*, *iman*/*tva*), *tandate*, *arcāmi*, *sumnayan* (*supa ātmanaḥ kyac*, *śatṛ*), with their accent rules; sūtra numbers not read.
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–20 done: all of Ṛk 1 except the end of its grammar). Next: printed p. 21 (PDF 39): the remaining grammar entries of Ṛk 1 (*āyuyuve*, *makhaḥ* … and the closing ‖ 1 ‖), then Ṛk 2. Workflow as in CLAUDE.md "Cost-saving rules": bhāṣya in Devanagari, no English, one-line gist; images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost); `english_block.py` fails here (use the printed English as seen); helpers /tmp/v11/app11.py (English), kn_merge.py (Kannada). Open flags: Sūkta 138 pp. 15–16 bhāṣya small words (*na tandate* gloss, *antyūtim* gloss, *makha* clause); pp. 17–19 all Ni./Tai. Brā./Bṛ. De./Ṛg numerals, the Bṛhaddevatā verses and the Ṛg quotations (read at 120 dpi, many letters guessed and marked [?]); the paragraph on Sāyaṇa vs. Bṛhaddevatā on *tuvijāta* (p. 18) is only roughly read; Sūkta 137 and Pīṭhike flags as in the earlier note.
