@@ -806,4 +806,68 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–29 done: Ṛks 1–3 complete). Next: printed p. 30 (PDF 48) — Ṛk 4 Saṃhitā, Pada, bhāṣya … (images at 120 dpi in /tmp/v11a, PDF 33–60; recrop with crop_pages.py if lost). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (run iast.py with PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–3; all Ni./Ṛg/Tai. Brā./Bṛ. De. numerals and quotations (pp. 17–19, 23–24, 28–29); grammar sūtra numbers (not read); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 30  (PDF 48)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Grammar of Ṛk 3, concluded; noted briefly.)* *navīyasīm* (*navī* + *īyasun*; *ugitaś ca* gives *ṅīp*; *yasyeti ca* drops the *a*), *rāyaḥ* (accusative plural; accent), *īmahe* (root *īj gatau*, read among the verbs of asking, Ni. 3-[?]; *liṭ* first person plural, *ṭhāc* substituted [?]; *bahulaṃ chandasi*; *luk* of the *vikaraṇa*; as a *tiṅanta* following, *nighāta* accent), *aheḷamānaḥ* (root *heḍ anādare*, *bhvādi*; *laṭ* → *śānac*, *śap*; *āne muk* (Pā. Sū. 7-2-[?]) *muk* augment; negative compound — *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-[?]) *naṅ*, accent of the first member), *sarī* (root *sṛ gatau*; an Uṇādi suffix; *guṇa*; *uraṇ raparaḥ*; the word *sarin*; first syllable accented; nominative singular), *vāje vāje* (*nityavīpsayoḥ* (Pā. Sū. 8-1-[?]) doubling; second member *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-[?])). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अस्या ऊ षु ण उप सातये भुवोऽहेळमानो ररिवाँ अजाश्व ।
+> अजाश्व श्रवस्यतामजाश्व ।
+> ओ षु त्वा ववृतीमहि स्तोमेभिर्दस्म साधुभिः ।
+> नहि त्वा पूषन्नतिमन्य आघृणे न ते सख्यमपह्नुवे ॥ ४ ॥
+
+> *asyā ū ṣu ṇa upa sātaye bhuvo 'heḷamāno rarivā~ ajāśva |*
+> *ajāśva śravasyatāmajāśva |*
+> *o ṣu tvā vavṛtīmahi stomebhirdasma sādhubhiḥ |*
+> *nahi tvā pūṣannatimanya āghṛṇe na te sakhyamapahnuve ‖ 4 ‖*
+
+### Printed p. 31  (PDF 49)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+*(Gist, mine: be near us, Ajāśva, unangry and generous, that we may receive; we turn to you with good hymns, and never disregard your friendship.)*
+
+**॥ पदपाठः ॥**
+
+> अस्याः । ऊँ इति । सु । नः । उप । सातये । भुवः । अहेळमानः । ररिऽवान् । अजऽअश्व ।
+> अजऽअश्व । श्रवस्यताम् । अजऽअश्व ।
+> ओ इति । सु । त्वा । ववृतीमहि । स्तोमेभिः । दस्म । साधुऽभिः ।
+> नहि । त्वा । पूषन् । अतिऽमन्ये । आघृणे । न । ते । सख्यम् । अपऽह्नुवे ॥ ४ ॥
+
+> *asyāḥ | ū~ iti | su | naḥ | upa | sātaye | bhuvaḥ | aheḷamānaḥ | rari 'vān | aja 'aśva |*
+> *aja 'aśva | śravasyatām | aja 'aśva |*
+> *o iti | su | tvā | vavṛtīmahi | stomebhiḥ | dasma | sādhu 'bhiḥ |*
+> *nahi | tvā | pūṣan | ati 'manye | āghṛṇe | na | te | sakhyam | apa 'hnuve ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Pūṣan, Ajāśva, be near us, unangry and generous; with good hymns we turn to you; I do not disregard your friendship.* Very small type; doubtful words marked)
+
+> हे अजाश्व पूषन् । अजाश्वः पूषणमाहेति यास्कः । नि. ६-[?] । अस्याः [?] चतुर्थ्यर्थे षष्ठी । सातये लाभायाहेळमानोऽक्रुध्यन्नादरमकुर्वन् ररिवान् दाता च सन् सु सुष्ठु उप भुवः । समीपस्थो भव । रातेश्छन्दसि [?] क्वसुः । [? ...] ऊ इति पादपूरणः । किञ्च श्रवस्यतामन्नमिच्छतामस्माकं हे अजाश्व अजा [?] यस्य तादृशस्त्वं [?] पूषणमेदम् [?] ररिवान् सन्नुप भुवः । अजाश्व पूषन् इति यास्कः । ओ इति निपातद्वयसमुदायात्मकः [?] निपातः । हे दस्म शत्रूणामुपक्षयितः पूषन् त्वा त्वामो षु ववृतीमहि सर्वतो वर्तयेमहि [?] । वृत्रेर [?] बहुलं छन्दसि शपः श्लुः । यज्ञान्तरगमनान्नि वर्तयाम इत्यर्थः । केन साधनेनेति तदुच्यते । साधुभिः स्तोमेभिः स्तोत्रैः [?] । किञ्च हे पूषन् आघृणे सर्वतो वृष्टिप्रदीप्ते [?] । यद्वा । आघृणे पविषामाहर्तः [?] स्वीकर्तः त्वां नहि अतिमन्ये । अनमतिं नैव करोमि । न केवलमनतिक्रममात्रं किन्तु ते सख्यं तव सवित्वं हितकर्तृत्वं नह्यपह्नुवे । नैवापलपामि । न त्यजामि । सर्वतः प्रख्यापयामीत्यर्थः ॥
+
+> *he ajāśva pūṣan | ajāśvaḥ pūṣaṇamāheti yāskaḥ | ni. 6-[?] | asyāḥ [?] caturthyarthe ṣaṣṭhī | sātaye lābhāyāheḷamāno 'krudhyannādaramakurvan rarivān dātā ca san su suṣṭhu upa bhuvaḥ | samīpastho bhava | rāteśchandasi [?] kvasuḥ | [? ...] ū iti pādapūraṇaḥ | kiñca śravasyatāmannamicchatāmasmākaṃ he ajāśva ajā [?] yasya tādṛśastvaṃ [?] pūṣaṇamedam [?] rarivān sannupa bhuvaḥ | ajāśva pūṣan iti yāskaḥ | o iti nipātadvayasamudāyātmakaḥ [?] nipātaḥ | he dasma śatrūṇāmupakṣayitaḥ pūṣan tvā tvāmo ṣu vavṛtīmahi sarvato vartayemahi [?] | vṛtrera [?] bahulaṃ chandasi śapaḥ śluḥ | yajñāntaragamanānni vartayāma ityarthaḥ | kena sādhaneneti taducyate | sādhubhiḥ stomebhiḥ stotraiḥ [?] | kiñca he pūṣan āghṛṇe sarvato vṛṣṭipradīpte [?] | yadvā | āghṛṇe paviṣāmāhartaḥ [?] svīkartaḥ tvāṃ nahi atimanye | anamatiṃ naiva karomi | na kevalamanatikramamātraṃ kintu te sakhyaṃ tava savitvaṃ hitakartṛtvaṃ nahyapahnuve | naivāpalapāmi | na tyajāmi | sarvataḥ prakhyāpayāmītyarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *ajāśva* — O Pūṣan; *naḥ* — our; *asyāḥ sātaye* — for receiving this (praise or offering); *aheḷamānaḥ* — without anger (without disregard); *rarivān* — liberally giving; *su* — well; *upa bhuvaḥ* — be near us; *ajāśva* — O Pūṣan; *śravasyatām* — of us who desire food; *su* — … be close by; *dasma* — destroyer of foes, Pūṣan; *tvā* — you; *sādhubhiḥ* — to please you; *stomebhiḥ* — with hymns; *o ṣu* — well (taking refuge, restraining); *vavṛtīmahi* — (continued on p. 32).
+
+### Printed p. 32  (PDF 50)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Pratipadārtha, concluded.)* *vavṛtīmahi* — we obtain (your) support; (and) *āghṛṇe* — O Pūṣan, who rain all around, or who accept the oblation; *nahi atimanye* — I surely do not disregard you; *te* — your; *sakhyam* — friendship; *na apahnuve* — I do not neglect and cast away (do not lose).
+
+**Bhāvārtha.** O Pūṣan, whose steeds are goats [?], be near us, free from disregard and liberal in giving, to accept our worship; be near us who desire food. O destroyer of foes, with hymns able to please you we seek your support on every side. O Pūṣan, giver of rain, I surely do not disregard you; and I do not neglect your friendship or lose it.
+
+**English Translation (as printed).** Free from anger, and liberal of gifts, be near to us, Ajaswa, for the acceptance of this our (offering); be near to those, Ajaswa, who solicit food: we have recourse to you, destroyer of enemies, with pious hymns. I never cease, Pushan, accepter of offerings, to think of you; I never disregard your friendship.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***ajāśva.*** हरी इन्द्रस्य । रोहितौ अग्नेः । अजाः पूष्णः [?] (*harī indrasya | rohitau agneḥ | ajāḥ pūṣṇaḥ [?]*) (Ni. 2-[?]) — in this way Yāska lists in order the vehicles of Indra and the other gods; *ajāśva* means Pūṣan, whose vehicle is the goat. Explaining the present Ṛk, Yāska shows that *asyā naḥ sātaye upabhuvaḥ*, *aheḷamāno 'krudhyan*, *ririvān* (*rātiḥ* …) etc. are addressed to *ajāśva* [?]; the Kannada says that in this way he has said that Pūṣan, with the goats as his steeds, is so addressed. *Ririvān*: Yāska explains the word: the root *rā* of giving, reduplicated (that is, doubled), becomes *ririvān*; "one who gives liberally" is the sense (Ni. 4-[?]).
+
+***dasma.*** *Śatrūṇām upakṣayitā* — "destroyer of foes"; Pūṣan is so addressed. The word *dasma* has two senses: one, destroyer of foes; the other, "beautiful" … (continues on p. 33).
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–32 done: Ṛks 1–3 complete; Ṛk 4 through Special Topics *ajāśva*, *dasma* begun). Next: printed p. 33 (PDF 51) — *dasma* continued, rest of Ṛk 4 Special Topics and grammar, then Ṛk 5. Images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–4; all Ni./Ṛg/Tai. Brā./Bṛ. De. numerals and quotations (pp. 17–19, 23–24, 28–29, 32); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
