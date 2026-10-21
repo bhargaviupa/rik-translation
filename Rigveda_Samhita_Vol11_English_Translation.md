@@ -2626,4 +2626,150 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 
 ---
 
-**Progress note:** **Sūkta 139 complete (printed pp. 36–98); Sūkta 140 begun** (printed p. 99: Anukramaṇī and Anuvāda — the first sūkta of Anuvāka 21; 13 Ṛks; ṛṣi Dīrghatamas Aucathya; Agni; Jagatī, the last two Triṣṭubh). Next: printed p. 100 (PDF 118) — the Sūkta 140 header table and Ṛk 1 (Saṃhitā, Pada, bhāṣya …). Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11 largely unread); Varga numerals of Sūkta 139; the Nirukta/Ṛg/Śa. Brā./Ai. Brā. quotations and numerals on pp. 96–97; the Anukramaṇī of Sūkta 140 (p. 99) small type; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 100  (PDF 118)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**॥ ओम् ॥**
+
+**Sūkta 140** — Maṇḍala 1, Anuvāka 21, Sūkta 140; Aṣṭaka 2, Adhyāya 2, Varga [?3, 4, 5]. Number of Ṛks in the sūkta: 13. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: 1–9 and 11 Jagatī; 10 Triṣṭubh or Jagatī; 12–13 Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये ।
+> वस्त्रेणेव वासया मन्मना शुचिं ज्योतीरथं शुक्रवर्णं तमोहनम् ॥ १ ॥
+
+> *vediṣade priyadhāmāya sudyute dhāsimiva pra bharā yonimagnaye |*
+> *vastreṇeva vāsayā manmanā śuciṃ jyotīrathaṃ śukravarṇaṃ tamohanam ‖ 1 ‖*
+
+*(Gist, mine: prepare for Agni, who sits on the altar, a place as one offers food; cover it with kuśa-grass as with a garment — the pure, light-borne, bright, darkness-destroying one.)*
+
+**॥ पदपाठः ॥**
+
+> वेदिऽसदे । प्रियऽधामाय । सुऽद्युते । धासिम्ऽइव । प्र । भर । योनिम् । अग्नये ।
+> वस्त्रेणऽइव । वासय । मन्मना । शुचिम् । ज्योतिःऽरथम् । शुक्रऽवर्णम् । तमःऽहनम् ॥ १ ॥
+
+> *vedi 'sade | priya 'dhāmāya | su 'dyute | dhāsim 'iva | pra | bhara | yonim | agnaye |*
+> *vastreṇa 'iva | vāsaya | manmanā | śucim | jyotiḥ 'ratham | śukra 'varṇam | tamaḥ 'hanam ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O adhvaryu, prepare for Agni, who sits on the altar and loves his place, a seat on the altar as one brings food, and cover it with grass as with a cloth.* Small type; doubtful words marked)
+
+> हे अध्वर्यो वेदिषदे वेद्यां सीदते नित्यं प्रियधाम्ने प्रियस्थानायोत्तरवेदिलक्षणप्रियाय सुद्युते शोभनदीतयेऽग्नये योनिं स्थानं वेद्याख्यं धासिमिव हविर्लक्षणमन्नमिव प्र भर प्रहर । प्रकर्षेण सम्पादयेत्यर्थः । तच्चे [?] स्थानं वस्त्रेणेव तेन यथा देवदत्तो [?] … मन्मना मनसाभिमानेन [?] सम्भारेण बर्हिषा वा वेदिस्थानं वासय । आच्छादय । कीदृशं तत्स्थानमिति तदुच्यते । शुचिमुत्पवनप्रोक्षणादिनामेध्यासुरादीनामपगतत्वाच्छुद्धं ज्योतीरथं ज्योतिषा अग्न्यादेर्गम्भीर्या [?] रथस्थानीयमा-
+
+> *he adhvaryo vediṣade vedyāṃ sīdate nityaṃ priyadhāmne priyasthānāyottaravedilakṣaṇapriyāya sudyute śobhanadītaye 'gnaye yoniṃ sthānaṃ vedyākhyaṃ dhāsimiva havirlakṣaṇamannamiva pra bhara prahara | prakarṣeṇa sampādayetyarthaḥ | tacce [?] sthānaṃ vastreṇeva tena yathā devadatto [?] … manmanā manasābhimānena [?] sambhāreṇa barhiṣā vā vedisthānaṃ vāsaya | ācchādaya | kīdṛśaṃ tatsthānamiti taducyate | śucimutpavanaprokṣaṇādināmedhyāsurādīnāmapagatatvācchuddhaṃ jyotīrathaṃ jyotiṣā agnyādergambhīryā [?] rathasthānīyamā-*
+
+### Printed p. 101  (PDF 119)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Bhāṣya of Ṛk 1, continued from p. 100; small type.)*
+
+> धारभूतत्वात् शुक्रवर्णं अग्निज्वलेतत्वात्पीतवर्णं [?] अत एव तमोहनं तमसोऽन्धकारस्य हन्तारमज्ञानस्य वा । अग्निसाध्ययज्ञद्वारा ज्ञानविचारादिति भावः ॥ यद्वा । तस्मा अग्नये योनिं स्थानं वस्त्रेण [?] … ज्योतीरथं दीप्तिरथोऽग्निः [?] … शेषं पूर्ववत् ॥
+
+> *dhārabhūtatvāt śukravarṇaṃ agnijvaletatvātpītavarṇaṃ [?] ata eva tamohanaṃ tamaso 'ndhakārasya hantāramajñānasya vā | agnisādhyayajñadvārā jñānavicārāditi bhāvaḥ ‖ yadvā | tasmā agnaye yoniṃ sthānaṃ vastreṇa [?] … jyotīrathaṃ dīptiratho 'gniḥ [?] … śeṣaṃ pūrvavat ‖*
+
+**Pratipadārtha (Kannada).** *vediṣade* — (to Agni), seated on the altar; *priyadhāmāya* — who loves his station (the northern altar); *sudyute* — who shines excellently; *agnaye* — to Agni; *śuciṃ* — pure; *jyotīrathaṃ* — carrying radiance as a chariot does; *śukravarṇaṃ* — of bright colour; *tamohanaṃ* — that destroys darkness (or ignorance); *yoniṃ* — the place in the form of the altar; *dhāsiṃ* — (like) food in the form of an oblation; *pra bhara* — prepare abundantly (and) that place; *vastreṇeva* — as with a garment, to make it soft; *manmanā* — with kuśa-grass spread agreeably; *vāsaya* — cover (adorn), or (as one wipes a thing hidden by a cloth) wipe that place with sticks and the like.
+
+**Bhāvārtha.** O adhvaryu, for Agni, who sits on the altar and loves his own place, the northern altar, prepare well the altar-place — pure, carrying radiance like a chariot, of bright colour, destroying darkness — as one offers an oblation of food. And cover that place with the agreeable darbha seat, as with a cloth to make it soft, and adorn it.
+
+**English Translation (as printed).** Prepare a (fit) place, as it were an offering for the radiant Agni, who is seated on the altar, and fond of his station: strew the sacred, light-bearing, bright and gloom-dispelling (spot), with agreeable (kusa) grass, as with a garment.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***agnaye yoniṃ pra bhara; manmanā vāsaya.*** There are two sentences: "prepare for Agni a place in the form of the altar" and "cover or adorn it with darbha grass". *Agnaye* has the epithets *vediṣade*, *priyadhāmāya*, *sudyute*.
+
+### Printed p. 102  (PDF 120)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+***vediṣade.*** *Vedyāṃ sīdate nityam iti vediṣad* — he who is always seated on the altar is called *vediṣad*.
+
+> होता वेदिषदित्येष वै होता वेदिषत् ।
+
+> *hotā vediṣadityeṣa vai hotā vediṣat |*
+
+(Ai. Brā. 4-[?] [?].) Since the *hotṛ*'s place is always the altar, and since Agni is *hotṛ* for every sacrifice, this epithet is given to him.
+
+> होता वेदिषदित्यग्निर्वै होता वेदिषत् ।
+
+> *hotā vediṣadityagnirvai hotā vediṣat |*
+
+(Śa. Brā. 6-[?]-[?]-[?] [?].) In such sentences the epithet *vediṣad* of Agni as *hotṛ* is well known. Śaṅkarācārya in his commentary on the passage [*hotā vediṣad*] [?] writes:
+
+> होता अग्निः । अग्निर्वै होता इति श्रुतेः । वेद्यां पृथिव्यां सीदतीति वेदिषत् । इयं वेदिः परोऽन्तः पृथिव्याः । यो यज्ञे प्रसिद्धा इयं वेदिः पृथिव्याः परोऽन्तः परः स्वभावः इति वेद्या पृथिवीस्वभावत्वकीर्तनात् पृथिवी वेदिषच्छब्दवाच्या भवतीत्यर्थः [?] ।
+
+> *hotā agniḥ | agnirvai hotā iti śruteḥ | vedyāṃ pṛthivyāṃ sīdatīti vediṣat | iyaṃ vediḥ paro 'ntaḥ pṛthivyāḥ | yo yajñe prasiddhā iyaṃ vediḥ pṛthivyāḥ paro 'ntaḥ paraḥ svabhāvaḥ iti vedyā pṛthivīsvabhāvatvakīrtanāt pṛthivī vediṣacchabdavācyā bhavatītyarthaḥ [?] |*
+
+Thus he gives a sense that shows the identity of the earth and the altar. Hence it is explained that it is Agni's dear abode.
+
+***dhāsiṃ.*** *Dhāsi* is read among the names of food, such as *irā* (Nighaṇṭu 2-[?]-[?]); derived from the root *dhā* of drinking it means food in the form of an oblation, or it may mean "the sustainer of life".
+
+> कृष्णा सती रुशता धासिनैषा जामर्येण पयसा पीपाय ।
+
+> *kṛṣṇā satī ruśatā dhāsinaiṣā jāmaryeṇa payasā pīpāya |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+> के धासिमग्ने अन्यस्य पान्ति के आसतो वचसः सन्ति गोपाः ।
+
+> *ke dhāsimagne anyasya pānti ke āsato vacasaḥ santi gopāḥ |*
+
+(Ṛ. Saṃ. 5-[?]-[?] [?].) As in these Ṛks *dhāsi* has the sense of "sustaining", so here it can be. Here *yoni* is likened to *dhāsi*.
+
+***yoniṃ.*** *Yoni* means the place called the altar. "Prepare for Agni, who sits on the altar, the *yoni* called the altar" is the sense. Citing the Ṛk आ स्वे योनौ निषीदतु [?] (*ā sve yonau niṣīdatu [?]*) (Ṛ. Saṃ. 6-[?]-[?]) and the Aitareya Brāhmaṇa sentence एष ह वा अस्य स्वो योनिर्यदग्नेरग्ने [?] (*eṣa ha vā asya svo yoniryadagneragne [?]*) (Ai. Brā. 1-[?]), he makes known that *yoni* is the place of origin of the Āhavanīya fire.
+
+### Printed p. 103  (PDF 121)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+***tamohanaṃ.*** *Tamasaḥ andhakārasya hantāraṃ, ajñānasya vā* — "the destroyer of darkness, or of ignorance": the physical or the spiritual sense is given. Since the performance of rites such as sacrifices, accomplished through Agni, serves knowledge, it means the removal of ignorance; "the *yoni* that is the destroyer of ignorance" — an epithet of the *yoni*.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *vediṣade* (*vedyāṃ sīdati iti vediṣat*; root *ṣad viśaraṇagatyavasādaneṣu*; *satsūdviṣadruhaduha…* (Pā. Sū. 3-2-[?]) *kvip*; *gatikārakopapadāt kṛt* gives first-member accent of the *kṛt*-ending; dative singular), *priyadhāmāya* (*priyaṃ dhāma sthānaṃ yasya saḥ tasmai*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-[?]) first-member accent), *sudyute* (*śobhanaṃ dyutaṃ yasya saḥ tasmai*; *nañsubhyām* (Pā. Sū. 6-2-[?]) final-syllable accent of the second member), *bhara* (root *bhṛñ bharaṇe*; *loṭ* second person singular; *sip* → *hi*; *śap*; *ato heḥ* (Pā. Sū. 6-4-[?]) *luk*; by the statement *hṛgrahor bhaś chandasi*, the *bh* [for *h*]; since a *tiṅanta* follows, *nighāta*), *agnaye* (root *agi gatau*; *agner lopaś ca* gives *lopa* to the *n* of *num*; *ni* suffix; dative singular), *vāsaya* (root *vasa ācchādane*; causal, *ṇic*; *ato 'upadhāyāḥ* (Pā. Sū. 7-2-[?]) *vṛddhi* of the penultimate; *śap*; by the *ṇic* the *i* becomes *guṇa*, *ay*; *loṭ* second person singular; *ā + hi* → *luk* as before; *nighāta*), *manmanā* (root *mana jñāne*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-[?]) *manin*; *ñnityādir nityam* first-syllable accent; instrumental singular), *jyotīratham* (*jyotiṣā rathaṃ tam jyotīratham*; first-member accent), *tamohanam* (root *han hiṃsāgatyoḥ*; *tamasaḥ hantā tamohā*; *bahulaṃ chandasi* *kvip*; in the accusative singular, by *vyatyaya* the lengthening does not occur; or in the agent sense the suffix *ap* by the wide scope of *bahula*; by *vyatyaya* the *vadha*-substitution does not occur; accent of the *kṛdutara* member). ‖ 1 ‖
+
+#### Ṛk 2
+
+### Printed p. 104  (PDF 122)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**॥ संहितापाठः ॥**
+
+> अभि द्विजन्मा त्रिवृदन्नमृज्यते संवत्सरे वावृधे जग्धमी पुनः ।
+> अन्यस्यासा जिह्वया जेन्यो वृषा न्यन्येन वनिनो मृष्ट वारणः ॥ २ ॥
+
+> *abhi dvijanmā trivṛdannamṛjyate saṃvatsare vāvṛdhe jagdhamī punaḥ |*
+> *anyasyāsā jihvayā jenyo vṛṣā nyanyena vanino mṛṣṭa vāraṇaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अभि । द्विऽजन्मा । त्रिऽवृत् । अन्नम् । युज्यते [?] । संवत्सरे । ववृधे । जग्धम् । ईम् इति । पुनरिति ।
+> अन्यस्य । आसा । जिह्वया । जेन्यः । वृषा । नि । अन्येन । वनिनः । मृष्ट । वारणः ॥ २ ॥
+
+> *abhi | dvi 'janmā | tri 'vṛt | annam | yujyate [?] | saṃvatsare | vavṛdhe | jagdham | īm iti | punariti |*
+> *anyasya | āsā | jihvayā | jenyaḥ | vṛṣā | ni | anyena | vaninaḥ | mṛṣṭa | vāraṇaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *this twice-born Agni takes the threefold food (ghee, cake, Soma), and after a year renews what has been eaten; as the showerer he grows by the tongue of the priest, and in another form, as forest fire, burns the trees.* Small type; doubtful words marked)
+
+> द्विजन्मा द्वाभ्यामरणिभ्यां जायमानः । यद्वा । मथनेनाधानसंस्कारेण च उत्पन्नत्वाद्द्विजन्मत्वम् ॥ अन्यभ्योऽपि दृश्यन्ते इति मनिन् ॥ अयमग्निस्त्रिवृदन्नमाज्यपुरोडाशसोमरूपेण त्रिप्रकारमन्नमुदनीयमभि युज्यते । प्राप्नोति । अभितः अभिमुख्येन नयति भक्षयतीति । यज गतिस्थानार्जनेषु [?] व्यत्ययेन श्यन् ॥ यद्वा । भृज्यते भ्रस्ज पाके । पक्वं करोतीति वा । किञ्च ईम् इदं [?] ईमित्येतत्र मलोपश्छान्दसः ॥ जग्धं भक्षितं संवत्सरे पूर्वे [?] पुनर्वावृधे । अग्निर्वर्धयति जीर्णस्य पुनर्वृद्ध्यभावाद्वा [?] मानं हविर्द्रव्यं प्रतिसंवत्सरं योगासमर्थं [?] करोतीत्यर्थः । यद्वा । एकवारं भक्षितं हविः पुनः संवत्सरे पूर्वे संवत्सर उदरस्थं वर्धते वर्धयति वा भक्षितारम् । किञ्चायमग्निर्वृषा वर्षकः सन्नन्यस्य हविष आसा आस्येन जिह्वया जेन्यः प्रभुतो भवतीति शेषः । यद्वा । वर्षिता सन्नेकेन रूपेणान्यस्मिन् यज्ञे होत्रादेर्जिह्वया [?] … स्रुचा जेन्यः प्रवृद्धो भवति । तथान्येन दावाग्निरूपेण वारणः सर्वेषां वारकः सन् वनिनो वनसम्बन्धिनो वृक्षान् मृष्ट । नि मार्ष्टि । दहतीत्यर्थः । मृजेश्छन्दसि लङि [?] व्यत्ययेनात्मनेपदम् ॥
+
+> *dvijanmā dvābhyāmaraṇibhyāṃ jāyamānaḥ | yadvā | mathanenādhānasaṃskāreṇa ca utpannatvāddvijanmatvam ‖ anyabhyo 'pi dṛśyante iti manin ‖ ayamagnistrivṛdannamājyapuroḍāśasomarūpeṇa triprakāramannamudanīyamabhi yujyate | prāpnoti | abhitaḥ abhimukhyena nayati bhakṣayatīti | yaja gatisthānārjaneṣu [?] vyatyayena śyan ‖ yadvā | bhṛjyate bhrasja pāke | pakvaṃ karotīti vā | kiñca īm idaṃ [?] īmityetatra malopaśchāndasaḥ ‖ jagdhaṃ bhakṣitaṃ saṃvatsare pūrve [?] punarvāvṛdhe | agnirvardhayati jīrṇasya punarvṛddhyabhāvādvā [?] mānaṃ havirdravyaṃ pratisaṃvatsaraṃ yogāsamarthaṃ [?] karotītyarthaḥ | yadvā | ekavāraṃ bhakṣitaṃ haviḥ punaḥ saṃvatsare pūrve saṃvatsara udarasthaṃ vardhate vardhayati vā bhakṣitāram | kiñcāyamagnirvṛṣā varṣakaḥ sannanyasya haviṣa āsā āsyena jihvayā jenyaḥ prabhuto bhavatīti śeṣaḥ | yadvā | varṣitā sannekena rūpeṇānyasmin yajñe hotrāderjihvayā [?] … srucā jenyaḥ pravṛddho bhavati | tathānyena dāvāgnirūpeṇa vāraṇaḥ sarveṣāṃ vārakaḥ san vanino vanasambandhino vṛkṣān mṛṣṭa | ni mārṣṭi | dahatītyarthaḥ | mṛjeśchandasi laṅi [?] vyatyayenātmanepadam ‖*
+
+**Pratipadārtha (Kannada).** *dvijanmā* — Agni, born twice — from the two kindling-sticks, or once by churning and once by the rite of placing; *trivṛd annaṃ* — the food that is eaten in three ways, ghee, cake and Soma; *abhi yujyate* — eats completely (or makes cooked); *īṃ jagdhaṃ* — that food eaten; *saṃvatsare* — when the year is over; *punaḥ* — again; *vavṛdhe* — makes the oblation grow (as new vigour); (and) *vṛṣā* — as one who showers the desired; *anyasya* — of the oblation; *āsā* — by the mouth; *jihvayā* — by the tongue, or *anyasya* — of the *hotṛ*; *jihvayā* — by the flame-like tongue; *jenyaḥ* — he grows; *anyena* — by another, the form of forest fire; *vāraṇaḥ* — restraining everything; *vaninaḥ* — all trees of the forest; *ni mṛṣṭa* — burns completely.
+
+### Printed p. 105  (PDF 123)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Bhāvārtha.** Agni, twice born, devours fully the food that is eaten in three ways — ghee, cake and Soma juice. He makes the food he has eaten grow again when the year has passed. As the giver of desired things he grows in one way by the tongue that tastes the oblation; in another form, that of the forest fire, he restrains whatever stands before him and burns all trees of the forest.
+
+**English Translation (as printed).** (Agni), the two-fold generated, devours the triple (sacrificial) food, and when the year expires renovates what has been eaten; the showerer (of benefits) is invigorated (in one from [sic]), by eating with the tongue of another; in a different form the restrainer (of all) consumes the forest trees.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***dvijanmā.*** *Dvābhyām araṇībhyāṃ jāyamānaḥ; yadvā mathanena ādhānasaṃskāreṇa ca utpannatvād dvijanmatvam* — Agni is called *dvijanman* either because he is born of two pieces of wood, or because he is born once by churning and once by the rite of *ādhāna*. This epithet, in a Ṛk of Ṛ. Saṃ. 10-[?]-[?] [?] too, has the two alternative senses "born of two [, heaven and earth]" and "born of two kindling-sticks": *dvayor dyāvāpṛthivyor vā jāyamānam, araṇyor vā jāyamānam*. The account of the manner of Agni's birth, told differently in different places, has been given earlier, citing Ṛksaṃhitā sentences, in the Special Topics of Ṛ. Saṃ. 1-65-1 [?]; *trīṇi* … (continues on p. 106).
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–105 done: header table; Ṛk 1 complete; Ṛk 2 through printed English, Special Topics (*dvijanmā*) begun). Next: printed p. 106 (PDF 124) — rest of the Ṛk 2 Special Topics (*trivṛt*, *jagdham*, *jihvayā*, *vāraṇaḥ* …) and grammar; then Ṛks 3–13. Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–2 largely unread); Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); Ni./Ṛg/Ai. Brā./Śa. Brā. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
