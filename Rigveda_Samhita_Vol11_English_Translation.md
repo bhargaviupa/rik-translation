@@ -6684,4 +6684,204 @@ Citing this Ṛk, he explains the word *sidhram* as "means" (*sādhana*). In the
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–261 done (introductory essay; Ṛks 1–7 complete; Ṛk 8 *mandrajihvā … daivyā hotārā*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics complete; its grammar on p. 261 ends at *yakṣatām* and continues on p. 262). Next: printed p. 262 (PDF 280). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 262  (PDF 280)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 8, concluded; grammar page, noted briefly).** *sidhram* (root *ṣidhu gatyām*; *sphāyitañcivañci…* (Uṇ. Sū. 2-[?]): suffix *rak*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64): *ṣa* becomes *sa* at the beginning; by the suffix-accent the end is *udātta*), *divispṛśam* (*divi spṛśati iti divispṛk*; *kvip ca* (Pā. Sū. 3-2-76): suffix *kvip*; *tatpuruṣe kṛti bahulam* (Pā. Sū. 6-3-14): the locative case-ending is not elided (*aluk*); *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the natural accent of the *kṛdanta* member). ‖ 8 ‖
+
+---
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> शुचिर्देवेष्वर्पिता होत्रा मरुत्सु भारती ।
+> इळा सरस्वती मही बर्हिः सीदन्तु यज्ञियाः ॥ ९ ॥
+
+> *śucirdeveṣvarpitā hotrā marutsu bhāratī |*
+> *iḷā sarasvatī mahī barhiḥ sīdantu yajñiyāḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> शुचिः । देवेषु । अर्पिता । होत्रा । मरुत्ऽसु । भारती ।
+> इळा । सरस्वती । मही । बर्हिः । सीदन्तु । यज्ञियाः ॥ ९ ॥
+
+> *śuciḥ | deveṣu | arpitā | hotrā | marut 'su | bhāratī |*
+> *iḷā | sarasvatī | mahī | barhiḥ | sīdantu | yajñiyāḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Bhāratī, pure and fixed among the shining gods, the praisers, the Maruts or the priests, with Iḷā (terrestrial speech) and Sarasvatī (speech of the middle region), the great ones fit for sacrifice, are to sit on the spread grass.* Small type; many words doubtful)
+
+> शुचिः शुद्धा मरुत्सु विरुद्धलक्षणेषु [?] देवेषु द्योतनशीलेषु स्तोतृषु मरुत्सु ऋत्विक्षु वा अर्पिता नियता होत्रा होमनिष्पादिका भारती भरतस्यादित्यस्य सम्बन्धिनी द्युस्थाना वाक् [?] तथेळा पार्थिवी प्रैषादिरूपा मही सरस्वती । सर इत्युदकनाम [?] तद्वती स्तनितादिरूपा माध्यमिका च वाक् । … स्थानवागभिमानिदेवता यज्ञिया यज्ञार्हाः सत्त्वो [?] बर्हिः स्तीर्णं सीदन्तु । उपविशन्तु ॥
+
+> *śuciḥ śuddhā marutsu viruddhalakṣaṇeṣu [?] deveṣu dyotanaśīleṣu stotṛṣu marutsu ṛtvikṣu vā arpitā niyatā hotrā homaniṣpādikā bhāratī bharatasyādityasya sambandhinī dyusthānā vāk [?] tatheḷā pārthivī praiṣādirūpā mahī sarasvatī | sara ityudakanāma [?] tadvatī stanitādirūpā mādhyamikā ca vāk | … sthānavāgabhimānidevatā yajñiyā yajñārhāḥ sattvo [?] barhiḥ stīrṇaṃ sīdantu | upaviśantu ‖*
+
+---
+
+### Printed p. 263  (PDF 281)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11 [?].)*
+
+**Pratipadārtha (Kannada).** *marutsu* — among the immortal; *deveṣu* — among the shining ones, (that is) either among the praisers, or among the Maruts, or among the priests; *arpitā* — fixed; *śuciḥ* — pure; *hotrā* — accomplisher of the offering; *bhāratī* — the goddess of speech belonging to the world of heaven and to the Āditya; *iḷā* — the goddess of speech belonging to the earth; *mahī* — of great form; *sarasvatī* — the goddess of speech belonging to the middle, that is the atmospheric, world; *yajñiyāḥ* — fit for the sacrifice; *barhiḥ* — on the *darbha* seat; *sīdantu* — let them sit.
+
+**Bhāvārtha.** May the three goddesses of speech — Bhāratī, of heaven and of the Āditya; Iḷā, of the earth; and Sarasvatī, of the middle world — pure, fixed among the immortal, shining praisers, Maruts or priests, the accomplisher of the offering, of great form, come fit for the sacrifice and sit on our *darbha* seat in the sacrificial house.
+
+**English Translation (as printed).** May the pure Hotra, placed among the gods, and Bharati, among the Maruts, and may the adorable Ila, Saraswati, and Mahi, sit down upon the sacred grass.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk a group of three goddesses is addressed and prayed to favour the sacrifice. Except the present sūkta and Sūkta 188 of this Maṇḍala, all the other Āprī-sūktas also place these goddesses together and name them collectively as *tisro devīḥ*. The three are *Iḷā*, *Sarasvatī* and *Bhāratī*. There is considerable disagreement about the nature of these goddesses. In this sūkta the goddess Bhāratī has the epithets *hotrā*, *śuciḥ* and *arpitā* (*marutsu, deveṣu*), and the goddess Sarasvatī the word *mahī*. In some sūktas the word *mahī* is not an epithet but is used as a synonym of the goddess Bhāratī. Whether the nature of these goddesses can now be determined precisely may be considered by taking the Veda and the like as authority. If we look at the mantra in the Praiṣa-sūkta, which gathers the main points of the Āprī-sūktas and addresses these goddesses —
+
+---
+
+### Printed p. 264  (PDF 282)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+> होतायक्षत्तिस्रो देवीरपसामपस्तमा अच्छिद्रमद्यैदमुपस्तन्वतां [?] ।
+> देवेभ्यो देवीर्देवमपो नियन्त्याज्यस्य होतर्यज ॥
+
+> *hotāyakṣattisro devīrapasāmapastamā acchidramadyaidamupastanvatāṃ [?] |*
+> *devebhyo devīrdevamapo niyantyājyasya hotaryaja ‖*
+
+(Tai. Brā. 3-6-[?]-[?]; partly legible.) In the original it is only *tisro devīḥ*. Explaining it, the commentator says: इडा सरस्वती भारतीत्येवमुपास्त्रीः [?] अनुप्रयाजदेव्यस्त्रिरूपमग्निं दैव्यो होता यजतु (*iḍā sarasvatī bhāratītyevamupāstrīḥ [?] anuprayājadevyastrirūpamagniṃ daivyo hotā yajatu*) [?]: Iḷā, Sarasvatī and Bhāratī, the three *anuprayāja* goddesses, reflect Agni; and *apasām apastamā* — "the most active of the active ones" (*karmavatīnām madhye atiśayena karmavatī*), says the epithet, "exceedingly active". In the Aitareya Brāhmaṇa:
+
+> तिस्रो देवीर्यजति प्राणो वा अ[पा]नो [?] व्यानस्तिस्रो देव्यस्ता एव तत्प्रीणाति ता यजमाने दधाति ।
+
+> *tisro devīryajati prāṇo vā a[pā]no [?] vyānastisro devyastā eva tatprīṇāti tā yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) Thus it declares the identity of these three deities with the three life-principles *prāṇa*, *apāna* and *vyāna*. The Nirukta author, citing the Ṛk *ā no yajñam* (Ṛ. Saṃ. 10-110-8), gives this explanation:
+
+> आ भारती भारतीभिः [?] … भरत आदित्यस्तस्य भा इळा च मनुष्यवती चेतयन्ती तिस्रो देव्यो बर्हिरिदं सुखं सरस्वती च सुकमाना [?] आसीदन्ते [?] ।
+
+> *ā bhāratī bhāratībhiḥ [?] … bharata ādityastasya bhā iḷā ca manuṣyavatī cetayantī tisro devyo barhiridaṃ sukhaṃ sarasvatī ca sukamānā [?] āsīdante [?] |*
+
+(Ni. 8-[?].) "Bhāratī: the radiance of Bharata (the sun); Iḷā; Sarasvatī: these three come and adorn the *barhis*." In the Bṛhaddevatā:
+
+> तिस्रस्तु देव्यो याः प्रोक्तास्त्रिस्थानेष्वेव सा तु वाक् [?] ।
+> त्रिविधेनैव सैतेन नाम्ना ज्योतिष्मतीश्विनि [?] ।
+> अग्नेर्मेनानुगेळा तु मध्यमा प्राप्ता सरस्वती ।
+> अमूर्तिस्त्वाथ लोकं तु भारती भवति ह्यसौ [?] ।
+> स्यैषा तु त्रिविधा वाग्वै दिवि भूम्यां च [?] …
+> व्यस्ता चैव समस्ता च भजन्ते [?] ह्यग्निमानसि [?] ॥
+
+> *tisrastu devyo yāḥ proktāstristhāneṣveva sā tu vāk [?] |*
+> *trividhenaiva saitena nāmnā jyotiṣmatīśvini [?] |*
+> *agnermenānugeḷā tu madhyamā prāptā sarasvatī |*
+> *amūrtistvātha lokaṃ tu bhāratī bhavati hyasau [?] |*
+> *syaiṣā tu trividhā vāgvai divi bhūmyāṃ ca [?] …*
+> *vyastā caiva samastā ca bhajante [?] hyagnimānasi [?] ‖*
+
+(Bṛ. De. 2-[?] to 2-[?].) *Tisro devīḥ* are the goddesses of speech who are in the three worlds. [The three forms of speech are explained in Bṛ. De. 2-7 to 2-8 [?].]
+
+> आयं प्रयोगस्त्वेतेषां ज्योतिषां त्रिषु वर्तताम् [?] ।
+
+> *āyaṃ prayogastveteṣāṃ jyotiṣāṃ triṣu vartatām [?] |*
+
+(Bṛ. De. 2-[?].)
+
+---
+
+### Printed p. 265  (PDF 283)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11 [?].)*
+
+So the different goddesses in the three worlds are the manifestations of one goddess of speech. Of these Iḷā followed the earthly Agni; Sarasvatī passed through the middle world; and Bhāratī is established in heaven. Yet —
+
+> देव्यस्तिस्रः श्रितास्त्वग्निं त्वष्टा चैत्वेदाश्रयः [?] ।
+
+> *devyastisraḥ śritāstvagniṃ tvaṣṭā caitvedāśrayaḥ [?] |*
+
+(Bṛ. De. 1-106 [?].) as this sentence says, the goddesses of the three worlds all serve the earthly Agni; thus everything is brought to a close with reference to Agni.
+
+***mahī*** — *mahatī*, "of great form"; an epithet of Sarasvatī. In some places *mahī* has been interpreted as a separate deity; in the opinion of others it is a common epithet of the three goddesses. In Ṛ. Saṃ. 2-3-8 and 9-5-8 [?] (Āprī-sūktas) it is an epithet of *uṣāsānaktā*. Moreover,
+
+> इळा सरस्वती मही तिस्रो देवीर्मयोभुवः ।
+> बर्हिः सीदन्त्वस्रिधः ॥
+
+> *iḷā sarasvatī mahī tisro devīrmayobhuvaḥ |*
+> *barhiḥ sīdantvasridhaḥ ‖*
+
+(Ṛ. Saṃ. 1-13-9.) In this Ṛk and in Ṛ. Saṃ. 6-31 [?] likewise, since there is no mention of *bhāratī* [in the same sequence], Sāyaṇa says that *mahī* is a synonym of the goddess Bhāratī. In the Ṛk in hand and in —
+
+> भारती पवमानस्य सरस्वतीळा मही ।
+> इमं नो यज्ञमा गमन्तिस्रो देवीः सुपेशसः ॥
+
+> *bhāratī pavamānasya sarasvatīḷā mahī |*
+> *imaṃ no yajñamā gamantisro devīḥ supeśasaḥ ‖*
+
+(Ṛ. Saṃ. 9-5-8 [?].) it is likewise an epithet.
+
+***iḷā*** — in the Bṛhaddevatā, *agnim evānugeḷā* (2-13 [?]): "Iḷā followed the earthly Agni"; and in the Ṛk —
+
+> प्र दीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै ।
+> अच्छा नमोभिर्वृषभं वन्दध्यै स देवान् यक्षदिषितो यजीयान् ॥
+
+> *pra dīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai |*
+> *acchā namobhirvṛṣabhaṃ vandadhyai sa devān yakṣadiṣito yajīyān ‖*
+
+(Ṛ. Saṃ. 3-4-3.) the word *iḷā* is taken as food in the form of oblation; and since in Ṛ. Saṃ. 6-1-4 [?] the epithet *ghṛtahastā* and in 10-70 [?] the epithet *ghṛtapadī* occur, it appears that the meaning "cow" can be given to *iḷā*. Perhaps for this very reason,
+
+---
+
+### Printed p. 266  (PDF 284)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+> उत्तानायामव भरा चिकित्वान्त्सद्यः प्रवीता वृषणं जजान ।
+> अरुषस्तूपो रुशदस्य पाज इळायास्पुत्रो वयुने ऽजनिष्ट ॥
+
+> *uttānāyāmava bharā cikitvāntsadyaḥ pravītā vṛṣaṇaṃ jajāna |*
+> *aruṣastūpo ruśadasya pāja iḷāyāsputro vayune 'janiṣṭa ‖*
+
+(Ṛ. Saṃ. 3-29-3.) in this Ṛk Agni is called the son of Iḷā.
+
+***bhāratī*** — the Nirukta says "the radiance of Āditya" (*bharata ādityaḥ tasya bhāḥ*). The scholar Macdonell, in his *Vedic Mythology*, says (p. 87) that it is the oblation resorted to by the Bharata clan, and Grassmann that it is the goddess of speech; it may also be taken as belonging to Agni.
+
+> तस्मा अग्निर्भारतः शर्म यंसज्ज्योक्पश्यात्सूर्यमुच्चरन्तम् ।
+> य इन्द्राय सुनवामेत्याह नरे नर्याय नृतमाय नृणाम् ॥
+
+> *tasmā agnirbhārataḥ śarma yaṃsajjyokpaśyātsūryamuccarantam |*
+> *ya indrāya sunavāmetyāha nare naryāya nṛtamāya nṛṇām ‖*
+
+(Ṛ. Saṃ. 4-25-4.) since in this Ṛk *bhārataḥ* is an epithet of Agni, some think that the deity related to him may be named *bhāratī*.
+
+***sarasvatī*** — सर इत्युदकनाम । तद्वती स्तनितादिरूपा माध्यमिका च वाक् (*sara ityudakanāma | tadvatī stanitādirūpā mādhyamikā ca vāk*): "*sara* means water; the possessor of it, in the form of thunder and the like, is the speech of the middle region". The sense of *sara* is "water"; the goddess of speech belonging to the atmosphere, who has water and sounds such as thunder, is explained as a form (of the three). Some say *sarasvatī* is a grouping of the deities. Or (others) because *devyas tisraḥ śritās tv agnim* (Bṛ. De. 1-106) says that these three resort to Agni, and Agni has three forms in earth, atmosphere and heaven; since Bhāratī is said to be the sun's radiance and Sarasvatī the deity of thunder and lightning, and Iḷā has a direct relation to Agni, some hold that these three are forms of Agni. About *traidrūpam agnim* in the explanation of the Praiṣa-sūkta, it was said above.
+
+**Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly).** *arpitā* (*umbhādīnāṃ ca* (Pā. Sū. 6-1-170) [?]: first-syllable *udātta* accent), *iḷā* (root *iḍa stutau*; by Vedic usage the root takes *ḷa*; *kvip ca*: suffix *kvip*; the root accent; *ṭāp* even after a consonant-ending stem, as in *yathā vācā diśā* [?]), *sarasvatī* (root *sṛ gatau*; suffix *asun*; since *saras* ends in the *sit* suffix it is *ādyudātta*; *saraḥ asyāsti iti*, *tadasyāsti*: suffix *matup*; by *tasau matvarthe* [?] the stem has the *bha* designation, so *rutva* and the like do not apply) …
+
+---
+
+### Printed p. 267  (PDF 285)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11 [?].)*
+
+*Grammar (Ṛk 9, concluded; noted briefly).* … (*trai* [?] (Pā. Sū. 1-4-18)) since the *bha* designation applies, *rutva* and the like do not arise; *ugitaś ca* (Pā. Sū. 4-1-6): *ṅīp* when the feminine is intended; *matup* and *ṅīp* being *pit*, the *anudātta* accent. *mahī* (from *mahatī*, by Vedic usage the *t* is dropped; *yasyeti ca* (Pā. Sū. 6-4-148) drops the *a*; by *udāttanivṛttisvara* the *ṅīp* is *udātta*). *sīdantu* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *loṭ*, third person plural, ending *jhi*, *anta* substituted; *pāghrādhmā…* (Pā. Sū. 7-3-78): *sīda* replaces the root; standing after a *ati…* word, the *nighāta* accent). *yajñiyāḥ* (*yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-71): suffix *gha*; *āyaneyī…* (Pā. Sū. 7-1-2): *iya* for *gha*; *yasyeti ca* drops the *a*; the first-syllable *udātta* of the suffix). ‖ 9 ‖
+
+---
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> तन्नस्तुरीपमद्भुतं पुरु वारं पुरु त्मना ।
+> त्वष्टा पोषाय वि ष्यतु राये नाभा नो अस्मयुः ॥ १० ॥
+
+> *tannasturīpamadbhutaṃ puru vāraṃ puru tmanā |*
+> *tvaṣṭā poṣāya vi ṣyatu rāye nābhā no asmayuḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> तत् । नः । तुरीपम् । अद्भुतम् । पुरु । वारम् । पुरु । त्मना ।
+> त्वष्टा । पोषाय । वि । स्यतु । राये । नाभा । नः । अस्मयुः ॥ १० ॥
+
+> *tat | naḥ | turīpam | adbhutam | puru | vāram | puru | tmanā |*
+> *tvaṣṭā | poṣāya | vi | syatu | rāye | nābhā | naḥ | asmayuḥ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the bhāṣya begins at the foot of this page and continues on p. 268; small type, only partly read)
+
+> नोऽस्मदर्थं तत् तादृशं तुरीपं [?] रेतः [?] व्याप्य [?] अद्भुतं सद्य आविर्भवदभूतमिव सत् । यद्वा [?] … पुरु वारं बहूनां प्राणिनामर्थायैवारमलं समर्थम् । यद्वा पुरु वारं बहु प्रभूतं च [?] …
+
+> *no 'smadarthaṃ tat tādṛśaṃ turīpaṃ [?] retaḥ [?] vyāpya [?] adbhutaṃ sadya āvirbhavadabhūtamiva sat | yadvā [?] … puru vāraṃ bahūnāṃ prāṇināmarthāyaivāramalaṃ samartham | yadvā puru vāraṃ bahu prabhūtaṃ ca [?] …*
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–267 done (introductory essay; Ṛks 1–9 complete; Ṛk 10 *tan nas turīpam* (Tvaṣṭā): Saṃhitā and Pada given and the bhāṣya begun at the foot of p. 267, to be continued on p. 268). Next: printed p. 268 (PDF 286). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
