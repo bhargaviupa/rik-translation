@@ -438,4 +438,86 @@ The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta
 
 ---
 
-**Progress note:** **Pīṭhike (printed pp. i–vi) done and Sūkta 137 complete** (printed pp. 1–14, PDF 19–32). Sūkta 138 begun at the foot of p. 14 (heading, bhāṣya introduction, Anuvāda). Next: printed p. 15 (PDF 33), the Sūkta 138 table and Ṛk 1. Open flags for Sūkta 137: p. 1 "atyaṣṭi-paribhāṣā" reading; pp. 3, 5–14 small-type numerals of Ṛg refs, Tai. Saṃ., Ni., Pā., Uṇ. mostly not read, marked [?]; p. 3 vārttika after *divispṛśā* and *gobhir uvakebhiḥ*; p. 7 *gantam* paragraph; p. 8 bhāṣya *dadhyavanayana* [?], tail of *pītaye*, *cāruś caraṇīyo* [?]; p. 10 gloss on *āśīḥ*; p. 11 Pada *ayam* [?]; p. 13 the Ṛg quotations (esp. the fourth) and the phrase before "Soma creeper"; Ṛk 2 Saṃhitā first word *ime* [?]. Pīṭhike open flags: all small-type Ṛg/Tai. Saṃ./Ni./Ai. Brā./Bṛ. De. numerals [?], the Taittirīya passage on p. i, the Nirukta phrase *teppurucchepasya śīlam* [?] and the Ṛg quote on p. ii; the contents table (PDF 13–18) is not translated. Sūkta 137 may be revisited (shorten bhāṣya English; resolve `[?]`).
+### Printed p. 15  (PDF 33)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral read as 2 [?]. A decorated heading "Sūkta — 138" opens the page.)*
+
+**Sūkta 138.** Maṇḍala 1; Anuvāka 20; Sūkta 138; Aṣṭaka 2, Adhyāya 2. Number of ṛks in the Sūkta: 4. Ṛṣi: Parucchepa Daivodāsi. Devatā: Pūṣan. Chandas: Atyaṣṭi.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्रप्र पूष्णस्तुविजातस्य शस्यते महित्वमस्य तवसो न तन्दते स्तोत्रमस्य न तन्दते ।
+> अर्चामि सुम्नयन्नहमन्त्यूतिं मयोभुवं ।
+> विश्वस्य यो मन आयुयुवे मखो देव आयुयुवे मखः ॥ १ ॥
+
+> *prapra pūṣṇastuvijātasya śasyate mahitvamasya tavaso na tandate stotramasya na tandate |*
+> *arcāmi sumnayannahamantyūtiṃ mayobhuvaṃ |*
+> *viśvasya yo mana āyuyuve makho deva āyuyuve makhaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रऽप्र । पूष्णः । तुविऽजातस्य । शस्यते । महित्वम् । अस्य । तवसः । न । तन्दते । स्तोत्रम् । अस्य । न । तन्दते ।
+> अर्चामि । सुम्नऽयन् । अहम् । अन्तिऽऊतिम् । मयःऽभुवम् ।
+> विश्वस्य । यः । मनः । आऽयुयुवे । मखः । देवः । आऽयुयुवे । मखः ॥ १ ॥
+
+> *pra 'pra | pūṣṇaḥ | tuvi 'jātasya | śasyate | mahitvam | asya | tavasaḥ | na | tandate | stotram | asya | na | tandate |*
+> *arcāmi | sumna 'yan | aham | anti 'ūtim | mayaḥ 'bhuvam |*
+> *viśvasya | yaḥ | manaḥ | ā 'yuyuve | makhaḥ | devaḥ | ā 'yuyuve | makhaḥ ‖ 1 ‖*
+
+*(Gist, mine: Pūṣan's greatness is praised by all and his praise is never abandoned; the sacrificer too worships him, the giver of happiness, who unites the minds of all worshippers with himself and attends the whole sacrifice.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English)
+
+> तुविजातस्य बहुयजमानार्थमुत्पन्नस्यास्य पूष्णः पोषकस्यैतन्नामकस्य देवस्य तवसो महित्वं बलस्य महत्त्वं प्रप्र शस्यते । प्रशस्यते सर्वैः ॥ वीप्सा पादपूरणे । न तन्दते । न हिनस्ति कश्चित्त्रदसि [?] । किंचास्य पूष्णः स्तोत्रं न तन्दते ।
+
+> *tuvijātasya bahuyajamānārthamutpannasyāsya pūṣṇaḥ poṣakasyaitannāmakasya devasya tavaso mahitvaṃ balasya mahattvaṃ prapra śasyate | praśasyate sarvaiḥ ‖ vīpsā pādapūraṇe | na tandate | na hinasti kaścittradasi [?] | kiṃcāsya pūṣṇaḥ stotraṃ na tandate |*
+
+### Printed p. 16  (PDF 34)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+> न हिनस्ति । न विरमति । सर्वोऽपि जन एनं स्तौतीत्यर्थः । जगत्पोषकत्वादिति भावः । अतः कारणादहमपि यजमानः सुम्नयन् सुखमिच्छन्नर्चामि स्तौमि । कीदृशं तम् । अन्त्यूतिं मानस [?] रक्षणं कादिलोपो बहुलमिति कलोपः ॥ स्तुत्यन्तमेव [?] वरप्रदमित्यर्थः । मयोभुवं सुखस्योत्पादकं भावयितारं वा । यः पूषा महो यज्ञवान् ॥ मखशब्दोऽर्थो लुप्यते [?] ॥ विश्वस्य सर्वस्य स्तोतुर्यजमानस्य मन आयुयुवे समन्तान्मिश्रयति । शीघ्रवरप्रदानादिति भावः । किंच देवो दीप्यमान एष महो मखं यज्ञमायुयुवे । सम्पूर्तिपर्यन्तं मिश्रयति । यद्वा । विश्वस्य मनो मिश्रणे यजमाने किमायोतमिति चेत् उच्यते । महो यज्ञनिर्वाहकोऽयं पूषा देवो यजमानस्य मन आयुयुवे । समन्तान्मिश्रयति । सामर्थ्याद्यजमानस्य मन इति लभ्यते ॥ यौतेश्छान्दसो लिट् ॥
+
+> *na hinasti | na viramati | sarvo 'pi jana enaṃ stautītyarthaḥ | jagatpoṣakatvāditi bhāvaḥ | ataḥ kāraṇādahamapi yajamānaḥ sumnayan sukhamicchannarcāmi staumi | kīdṛśaṃ tam | antyūtiṃ mānasa [?] rakṣaṇaṃ kādilopo bahulamiti kalopaḥ ‖ stutyantameva [?] varapradamityarthaḥ | mayobhuvaṃ sukhasyotpādakaṃ bhāvayitāraṃ vā | yaḥ pūṣā maho yajñavān ‖ makhaśabdo 'rtho lupyate [?] ‖ viśvasya sarvasya stoturyajamānasya mana āyuyuve samantānmiśrayati | śīghravarapradānāditi bhāvaḥ | kiṃca devo dīpyamāna eṣa maho makhaṃ yajñamāyuyuve | sampūrtiparyantaṃ miśrayati | yadvā | viśvasya mano miśraṇe yajamāne kimāyotamiti cet ucyate | maho yajñanirvāhako 'yaṃ pūṣā devo yajamānasya mana āyuyuve | samantānmiśrayati | sāmarthyādyajamānasya mana iti labhyate ‖ yauteśchāndaso liṭ ‖*
+
+**Pratipadārtha (Kannada).** *tuvijātasya* — born for many sacrificers, or worshipful to many; *asya pūṣṇaḥ* — of this god Pūṣan; *tavasaḥ* — of the strength; *mahitvam* — the greatness; *prapra śasyate* — is praised exceedingly; *na tandate* — (without fatigue) no one stops it; *asya* — of this Pūṣan; *stotram* — the praise (of his greatness); *na tandate* — all do not stop (everyone praises); therefore *aham* — I too; *sumnayan* — wishing happiness; *antyūtim* — [one] with very near protection; *mayobhuvam* — and the giver of happiness, Pūṣan; *arcāmi* — I worship and praise; *yaḥ* — which same Pūṣan; *makhaḥ* — being the owner of the sacrifice; *viśvasya* — of all sacrificers; *manaḥ* — the mind; *āyuyuve* — joins well (by his boon); or [*devaḥ* — the shining Pūṣan; *makhaḥ* — the sacrifice; *ā yuyuve* — joins evenly (until it is complete)]; or [*makhaḥ* — the conductor of the sacrifice; *devaḥ* — the divine Pūṣan; *manaḥ* — the sacrificer's mind; *ā yuyuve* — joined into one (I praise such a Pūṣan)].
+
+**Bhāvārtha.** The greatness of the strength of this god Pūṣan, born for many sacrificers, is praised exceedingly; no one stops this praise without faith; all praise him without fail. Therefore I too, wishing happiness, worship and praise Pūṣan, whose protection is very near and who gives happiness. Pūṣan, being possessed of sacrifice, unites the minds of all sacrificers well by his boon-grace. The shining Pūṣan stays united with the sacrifice until it is complete. *(The Kannada has "atyatiraya" for "atiśaya" [sic?].)*
+
+### Printed p. 17  (PDF 35)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+**English Translation (as printed).** The greatness of the strength of the many-worshipped Pushan is universally lauded: no one detracts (from his praise); his praise displeases no one. Desirous of happiness, I adore him, whose protection is ever nigh; who is the source of felicity: who, when devoutly worshipped, blends with the thoughts of all (his worshippers): who, (though) a deity, is united with the sacrifice.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***pūṣṇaḥ.*** The Nirukta derivation is given: *pūṣā yad asmin raśmipoṣaṃ puṣyati tat pūṣā bhavati* (Ni. 12-[?] [?]) — "because he nourishes with rays he is Pūṣan". The Śatapatha Brāhmaṇa too, [and the Taittirīya Brāhmaṇa:]
+
+> इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किंच ।
+
+> *iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃca |*
+
+(Tai. Brā. 1-[?]-[?] [?].) — "this [earth] is Pūṣan, for she nourishes all this." The Kannada adds that such a meaning supports Pūṣan being one of the twelve Ādityas [reading doubtful [?]]. A verse of the Bṛhaddevatā is quoted as follows [the print is hard to read; the verse is given with [?]]:
+
+> पूषन् क्षितिं पोषयति प्रणदेन रश्मिभिस्तनः [?] ।
+> तेनैनमुस्त्रोपेति [?] भरद्वाजस्तु पेञ्चिभिः [?] ॥
+
+> *pūṣan kṣitiṃ poṣayati praṇadena raśmibhistanaḥ [?] |*
+> *tenainamustropeti [?] bharadvājastu peñcibhiḥ [?] ‖*
+
+(Bṛ. De. 3-[?] [?].) The Kannada then says that the sage Bharadvāja praised Pūṣan in Maṇḍala 6, Sūktas 53–57 [numerals as read, [?]].
+
+***tuvijātasya.*** *Tuvi* is read among the names meaning "many" (Ni. 3-[?] [?]). Sāyaṇa explains the word as "born for the sake of many sacrificers". The epithet *tuvijāta* is also used of other gods, Indra, Agni, Varuṇa and so on; in many places there is a difference of the order of the words; since two or three kinds of *vigraha* are possible for the compound, the sense suited to each context must be given. For example:
+
+> अहन्नहिं परिशयानमर्णः [?] ओजायमानं तुविजात [?] कव्यान् [?] ।
+
+> *ahannahiṃ pariśayānamarṇaḥ [?] ojāyamānaṃ tuvijāta [?] kavyān [?] |*
+
+(Ṛ. Saṃ. 2-[?]-[?] [?]; the quotation continues on p. 18; its reading here is doubtful throughout [?].)
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–17 done: Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun). Next: printed p. 18 (PDF 36): the Ṛg quotation after *tuvijātasya* (continues from p. 17), rest of Ṛk 1 Special Topics and grammar, then Ṛk 2. Workflow as in CLAUDE.md "Cost-saving rules": bhāṣya in Devanagari, no English, one-line gist; images cropped at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost); `english_block.py` fails here (use the printed English as seen). Helpers: /tmp/v11/app11.py (append English), kn_merge.py (Kannada). Open flags: Sūkta 138 p. 15 header Varga numeral; p. 15–16 bhāṣya small words ([?] in *na tandate* gloss, *antyūtim* gloss, *makha* clause); p. 17 all Ni./Tai. Brā./Bṛ. De./Ṛg numerals and the Bṛhaddevatā verse and Ṛg quotation. Earlier flags for Sūkta 137 and Pīṭhike: see the previous note (retained in the Kannada file).
