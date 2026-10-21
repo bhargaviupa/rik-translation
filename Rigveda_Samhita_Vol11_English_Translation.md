@@ -4234,4 +4234,144 @@ the speeches in the form of praise, connected with the sacrifice and flowing fro
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–165 done: Ṛk 1 complete; Ṛk 2 through printed English and Special Topics begun, the three forms of Agni, Nirukta/Bṛhaddevatā)). Next: printed p. 166 (PDF 184) — Special Topics of Ṛk 2 continued (Bṛhaddevatā), grammar; then Ṛk 3. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 166  (PDF 184)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 165.)* … [Prajāpati,] the source of all beings, [and all moving and unmoving beings] in the past, future and present: from the origin of creation Agni, in three forms, holds his existence in three places; and the sages praise the manifestations of Agni by three names, as the same verses go on to say in praising Agni:
+
+> त्रिस्थानं चैनमर्चन्ति होत्रायोग्यं [?] वृक्तबर्हिषः । इहैव पावमानोऽग्निर्मध्यमो [?] वैद्युतः [?] । अमुष्मिन्नेव [?] … लोके शुचिर्बृहत् [?] । इहाग्निर्भूतस्थो [?] … स्तुतिभिरीडितः । जातवेदाः स्तुतो मध्ये स्तुतो वैश्वानरो दिवि ॥
+
+> *tristhānaṃ cainamarcanti hotrāyogyaṃ [?] vṛktabarhiṣaḥ | ihaiva pāvamāno 'gnirmadhyamo [?] vaidyutaḥ [?] | amuṣminneva [?] … loke śucirbṛhat [?] | ihāgnirbhūtastho [?] … stutibhirīḍitaḥ | jātavedāḥ stuto madhye stuto vaiśvānaro divi ‖*
+
+(Bṛ. De. 1-[?] to 1-[?]; read with doubt.) Of these three forms, the Agni who appears on earth is called *pavamāna*; the Agni who goes in the middle world is called *vanasyati* [?]; the Agni of heaven is called *śuci*: so it is known. By the same sentence —
+
+> दिवस्परि प्रथमं जज्ञे अग्निरस्मद्द्वितीयं परि जातवेदाः । तृतीयमप्सु नृमणा अजस्रमिन्धान एनं जरते स्वाधीः ॥
+
+> *divaspari prathamaṃ jajñe agnirasmaddvitīyaṃ pari jātavedāḥ | tṛtīyamapsu nṛmaṇā ajasramindhāna enaṃ jarate svādhīḥ ‖*
+
+(Ṛ. Saṃ. 10-45-1; Vā. Saṃ. 12-[?]; Tai. Saṃ. 4-2-[?]-[?].) — it is explained in all the Saṃhitās.
+
+***pṛkṣaḥ*** — the word *pṛkṣa* is read among the names of food (Ni. 2-7); here *annasādhakaḥ pākādinā*: one who supports food by cooking and so on.
+
+***pitumān*** — *havirlakṣaṇānnayuktaḥ*: one provided with food in the form of oblations.
+
+***saptaśivāsu mātṛṣu*** — *saptalokaśivakarīṣu mātṛsthānīyāsu hitakarīṣu vṛṣṭiṣu*: in the rains that bring good to the seven worlds [and are mother-like]; … he is in the middle region, or is in the form of lightning (*vidyut*).
+
+***daśapramatim*** — *daśasu dikṣu prakṛṣṭamananavantaṃ pūjyatāyai*: one who is revered and meditated on in the ten quarters, is one sense; or, *mathanakāle daśabhir aṅgulībhir utpannaṃ lokatraye daśadikṣu ca vyāptam*: one born at the time of churning by the ten fingers, and spread through the three worlds and the ten quarters, is another sense. Both senses have *śruti* authority. The account of the generation of Agni, [in which] the subtle Agni is made to appear on earth and in the atmosphere — (continues on p. 167)
+
+### Printed p. 167  (PDF 185)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+> यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान । पन्थामनु प्रविद्वान्पितृयाणं द्युमदग्ने समिधानो वि भाहि ॥
+
+> *yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna | panthāmanu pravidvānpitṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*
+
+(Ṛ. Saṃ. 10-2-7 [?].) In such passages it is explained that Heaven and Earth, containing the ten quarters, are the source of Agni's birth. And again —
+
+> द्विर्यं पञ्च जीजनन्त्संवसानाः स्वसारो अग्निं मानुषीषु विक्षु । उषर्बुधमथर्यो न दन्तं शुक्रं स्वासं परशुं न तिग्मम् ॥
+
+> *dviryaṃ pañca jījanantsaṃvasānāḥ svasāro agniṃ mānuṣīṣu vikṣu | uṣarbudhamatharyo na dantaṃ śukraṃ svāsaṃ paraśuṃ na tigmam ‖*
+
+(Ṛ. Saṃ. 4-6-8 [?].) In such Ṛks it is explained that the ten fingers of the two hands begot Agni — the manner of Agni's birth. Therefore in this context the word *daśa* may be taken as the ten quarters, in which earth and atmosphere are included, or as the ten fingers engaged in the work of churning.
+
+***yoṣaṇaḥ*** — *miśraṇaśīlāḥ sarvā diśaḥ*: all the quarters, joined together, is one sense; or *ekasmin pāṇau saṃhatya avasthitāḥ*: the ten fingers gathered together in one hand and standing in one place, is another sense.
+
+***vṛṣabhasya dohase*** — because it has the power of shedding rain, the lightning-fire has the epithet *vṛṣabha*; the derivation of this word has been shown in detail before. Sāyaṇa explains the word *dohase* as follows: *ādityaraśmayaḥ gharmakāle bhūmisthamudakamākṛṣya sūryaṃ prāpya tatra cirakālaṃ dhṛtvā punar antarikṣaṃ prāpya megheṣu sthitvā varṣakāle pravarṣantīti prasiddham; ato raśmidogdhṛtvam*: "it is well known that in the hot season the rays of the sun draw the water on earth up to the sun, hold it there for a long time, bring it again to the atmosphere, and, remaining in the clouds, rain in the rainy season; hence the sun's rays are the milkers"; so the word *dohase* shows the milking-power of the sun's rays.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar pages 167–168, noted briefly).** *śaye* (root *śīṅ svapne*; *laṭ*, third person singular; *ṭe* → *e*; *lopas ta ātmanepadeṣu*; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; *sārvadhātukamapit*… *guṇa*; *ay*; because it follows an *ati-jñanta*, *nighāta*), *pṛkṣaḥ* (root *pṛcī samparke*; suffix *asun*; *coḥ kuḥ* gives *k*, *ṣatva*; nominative singular; accent [?]), *pitumān* (the word *pitu*, with *matup*; *hrasvanudbhyāṃ matup* (Pā. Sū. 6-1-[?]) gives the *udātta*; nominative singular) …
+
+### Printed p. 168  (PDF 186)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*Grammar (Ṛk 2, concluded; noted briefly):* *nityaḥ* (*tyap* suffix for the indeclinable *ni* by *nityaṃ svaraṃ vā*… [?]; being *pit*, it is *anudātta*), *dvitīyam* (*dvestīyaḥ* (Pā. Sū. 5-2-54) suffix *tīya*; the accent of the suffix is *ādyudātta*, the *ī* is *udātta*), *tṛtīyam* (*trayasya saṃprasāraṇaṃ ca*; the *tṛ* by *saṃprasāraṇa*; *igyaṇaḥ saṃprasāraṇam*: *ṛ* for the *r*; the accent as before), *dohase* (root *duha prapūraṇe*; *sarvadhātubhya asun* in the agent sense; *pugantalaghūpadhasya ca* gives *guṇa*; dative singular), *janayanta* (root *janī prādurbhāve*; *ṇic* by *hetumati ca* (Pā. Sū. 3-1-26); *upadhāvṛddhi*, *mitām hrasvaḥ* by *janivadhyoś ca*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the present sense; third person plural; *bahulaṃ chandasy amāṅyoge 'pi*: no *aḍ*; *tiṅ*, *nighāta*). ‖ 2 ‖
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> निर्यदीं बुध्नान्महिषस्य वर्पस ईशानासः शवसा क्रन्त सूरयः ।
+> यदीमनु प्रदिवो मध्व आधवे गुहा सन्तं मातरिश्वा मथायति ॥ ३ ॥
+
+> *niryadīṃ budhnānmahiṣasya varpasa īśānāsaḥ śavasā kranta sūrayaḥ |*
+> *yadīmanu pradivo madhva ādhave guhā santaṃ mātariśvā mathāyati ‖ 3 ‖*
+
+### Printed p. 169  (PDF 187)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+**॥ पदपाठः ॥**
+
+> निः । यत् । ईम् । बुध्नात् । महिषस्य । वर्पसः । ईशानासः । शवसा । क्रन्त । सूरयः ।
+> यत् । ईम् । अनु । प्रऽदिवः । मध्वः । आऽधवे । गुहा । सन्तम् । मातरिश्वा । मथायति ॥ ३ ॥
+
+> *niḥ | yat | īm | budhnāt | mahiṣasya | varpasaḥ | īśānāsaḥ | śavasā | kranta | sūrayaḥ |*
+> *yat | īm | anu | pra 'divaḥ | madhvaḥ | ā 'dhave | guhā | santam | mātariśvā | mathāyati ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Because the wise priests, masters of their work, by the strength of their mantras draw Agni forth from the root of the great sacrifice, Mātariśvan churns him, hidden, for the offering of honey.* Small type; doubtful words marked)
+
+> ईमेनमग्निं यद्यस्मात्कारणान्महिषस्य महतो यज्ञस्य बुध्नात् [?] मूलादाधानादारभ्य वर्पसः रूपस्य यज्ञरूपस्य [?] संपादनाय ईशानासः स्वकीयव्यापारसमर्थाः सूरयो मेधाविन ऋत्विजः शवसा बलेन मन्त्रादिरूपेण शरीरेण वा निः क्रन्त निष्क्रमयन्ति [?] साधयन्ति उत्पादयन्ति काष्ठात् [?] … यद्वा [?] … इमेनमग्निं बुध्नादादितो मथनादारभ्य महिषस्य वर्पसो महतो रूपस्य हुतिस्वीकारसमर्थस्य सिद्धये निष्क्रमयन्ति [?] ॥ क्रमतेर्लुङि [?] मन्त्रे घसह्वरणश [?] इत्यादिना च्लेर्लुक् [?] वृत्त्यर्थे [?] … । किंच यदीमेनमग्निं अनु प्रदिवः [?] पुराणात् [?] अनादिकालमारभ्य … मध्वः मधुनो मधुसदृशस्याहुतिरूपस्य आधवे आप्रक्षेपे निमित्ते सति गुहा सन्तं गुहायां वेदाग्नौ काष्ठेषु निगूढं सन्तं मातरिश्वान्तरिक्षे चेष्टमानो वायुरनुक्रमेण मथायति चालयति । उद्वोधयतीत्यर्थः । यद्वा मातरि फलस्य मातरि योगे शेते चेष्टकः इति मातरिश्वा यजमानः गुहा सन्तमरण्यादिनिगूढं सन्तं प्रादुर्भावाय [?] अनुक्रमेण मथ्नाति उत्पादयतीत्यर्थः ॥ [partly unread]
+
+> *īmenamagniṃ yadyasmātkāraṇānmahiṣasya mahato yajñasya budhnāt [?] mūlādādhānādārabhya varpasaḥ rūpasya yajñarūpasya [?] saṃpādanāya īśānāsaḥ svakīyavyāpārasamarthāḥ sūrayo medhāvina ṛtvijaḥ śavasā balena mantrādirūpeṇa śarīreṇa vā niḥ kranta niṣkramayanti [?] sādhayanti utpādayanti kāṣṭhāt [?] … yadvā [?] … imenamagniṃ budhnādādito mathanādārabhya mahiṣasya varpaso mahato rūpasya hutisvīkārasamarthasya siddhaye niṣkramayanti [?] ‖ kramaterluṅi [?] mantre ghasahvaraṇaśa [?] ityādinā clerluk [?] vṛttyarthe [?] … | kiṃca yadīmenamagniṃ anu pradivaḥ [?] purāṇāt [?] anādikālamārabhya … madhvaḥ madhuno madhusadṛśasyāhutirūpasya ādhave āprakṣepe nimitte sati guhā santaṃ guhāyāṃ vedāgnau kāṣṭheṣu nigūḍhaṃ santaṃ mātariśvāntarikṣe ceṣṭamāno vāyuranukrameṇa mathāyati cālayati | udvodhayatītyarthaḥ | yadvā mātari phalasya mātari yoge śete ceṣṭakaḥ iti mātariśvā yajamānaḥ guhā santamaraṇyādinigūḍhaṃ santaṃ prādurbhāvāya [?] anukrameṇa mathnāti utpādayatītyarthaḥ ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** *īm* — this Agni; *yat* — for what reason; *mahiṣasya* — of the great sacrifice; *budhnāt* — from the time of the setting up of the fire onward; *varpasaḥ* (the form that undertakes and ends) — to obtain the form fit to receive the oblation; *īśānāsaḥ* — those competent in their duties; *sūrayaḥ* — the wise sacrificial priests; *śavasā* — by the strength of their mantras, or by the power of the body; *niḥ krānta* — bring forth (cause to arise) from the kindling-wood; [or: *budhnāt* — by the (first) effort of churning in the body; *mahiṣasya varpasaḥ* — to gain a vast form fit to receive the oblations; *niḥ krānta* — cause to arise from the wood] (and) *guhā santam yadīm* — this Agni, hidden in the kindling-sticks; *pradivaḥ* — from the beginningless time; *madhvaḥ ādhave* — for casting in the offering, like honey; *mātariśvā* — the wind that moves in the atmosphere; *mathāyati* — blows and kindles; [or *mātariśvā* — the sacrificer, a performer of the sacrifice; *mathāyati* — causes to be kindled (by the sticks)] (the sacrificer, so that this Agni, praiseworthy, ...).
+
+### Printed p. 170  (PDF 188)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**Bhāvārtha.** In the great sacrifice, from the time of the setting up of the fire onward, in order to obtain a form fit for receiving the oblation, the wise priests, competent in their own duties, bring forth this Agni from the kindling-wood by the power of their mantras and by the strength of the body. And from the beginningless time, in the same way, in order to cast into him the honey-like oblation, the wind, moving in the atmosphere, blows upon this Agni, hidden in the sticks, and makes him blaze. Therefore this Agni is worthy of praise.
+
+**English Translation (as printed).** As powerful priests extract by the force (of prayer), this Agni from his primitive seat, (for the evolvement) of his mighty form; as the wind arouses him lurking in the hiding-place (of the altar), for the sake of offering oblations now as of old.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***mahiṣasya*** — the word *mahiṣa* is read among the names of the great (Ni. 3-[?]). The Nirukta authors cite
+
+> अपामुपस्थे महिषा अगृभ्णत विशो राजानमुप तस्थुर्ऋग्मियम् । आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥
+
+> *apāmupasthe mahiṣā agṛbhṇata viśo rājānamupa tasthurṛgmiyam | ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*
+
+(Ṛ. Saṃ. 6-8-4.) and for the word *mahiṣāḥ* there show the sense "greatness", or "the great Maruts", and show that the sense of the present Ṛk is as in the Ṛk cited [?].
+
+In the present Ṛk the commentator has connected the word *mahiṣasya* with *budhnāt* in one construction, and with *varpasaḥ* in another. By the first construction *mahiṣasya budhnāt* is "from the time of setting up the fire of the great sacrifice"; by the second, *mahiṣasya varpasaḥ* is "of the vast form". (continues on p. 171)
+
+### Printed p. 171  (PDF 189)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+To learn the particulars of this context one must understand correctly the meaning of the word *budhnāt*. For *budhnāt* the commentator has given the sense *mūlāt, ādhānād ārabhya*. In the Ṛk-saṃhitā the word *budhna* is used for the most part as a synonym of "atmosphere"; but even when it gives the sense "atmosphere", it is because *baddhā asmin dhṛtā āpaḥ* — "in it the waters are held and fixed"; being the support of the waters, the atmosphere is called *budhna* (Ni. 10-44).
+
+> इन्द्राय गिरो अनिशितसर्गा अपः प्रैरयत्सगरस्य बुध्नात् । यो अक्षेणेव चक्रिया शचीभिर्विष्वक्तस्तम्भ पृथिवीमुत द्याम् ॥
+
+> *indrāya giro aniśitasargā apaḥ prairayatsagarasya budhnāt | yo akṣeṇeva cakriyā śacībhirviṣvaktastambha pṛthivīmuta dyām ‖*
+
+(Ṛ. Saṃ. 10-89-4.) In this Ṛk *sagarasya budhnāt* is "from the support of the atmosphere, the deep root region of the atmosphere". In the present Ṛk, too, this very sense is to be taken. Then the deep root of the sacrifice is either the time of setting up the fire, or the churning of the causes (the two sticks). The sense is that from such a beginning the wise priests, by their effort, caused Agni to arise and be favourable to the sacrifice.
+
+***īśānāsaḥ*** — *svakīyavyāpārasamarthāḥ*: those able in fulfilling their own duty. The word *īśāna* means "lord, master".
+
+> आर्वाच्यग्ने [?] अवर्तो [?] … [rest unread] ईशानासो पित्वैस्य रायो वि सूरयः शतहिमा नो अर्कः [?] ॥
+
+> *ārvācyagne [?] avarto [?] … [rest unread] īśānāso pitvaisya rāyo vi sūrayaḥ śatahimā no arkaḥ [?] ‖*
+
+(Ṛ. Saṃ. 7-82-6 [?]; this Ṛk is garbled at this resolution.)
+
+> ईशानमस्य जगतः स्वर्दृशम् ।
+
+> *īśānamasya jagataḥ svardṛśam |*
+
+(Ai. Brā. 17-[?] [?].)
+
+> ईशानं भूतभव्यस्य ।
+
+> *īśānaṃ bhūtabhavyasya |*
+
+(Ka. U. 4-12.) In all such passages the sense "lord" is clear; so here too the sense is that the sacrificer is lord of his acts. Since it says *īśānāsaḥ sūrayaḥ*, the sense is that the wise priests will perform their duty without fault. Such wise priests, by prayerful means, cause the wind Mātariśvan to kindle the Agni, himself hidden in sleep [?]; this is said by *mātariśvā mathāyati*. (continues on p. 172)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–171 done: Ṛks 1–2 complete; Ṛk 3 through printed English and Special Topics (*budhnāt*, *īśānāsaḥ*) begun)). Next: printed p. 172 (PDF 190) — Special Topics of Ṛk 3 continued (*mātariśvā*), grammar; then Ṛk 4. Recrop from PDF 190. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
