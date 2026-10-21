@@ -2082,4 +2082,124 @@ In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo a
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–79 done: Ṛks 1–8 complete; Ṛk 9 Saṃhitā, Pada, Āśvalāyana citation and the start of the bhāṣya). Next: printed p. 80 (PDF 98) — bhāṣya of Ṛk 9 continued, Pratipadārtha, Bhāvārtha, printed English, Special Topics, grammar; then Ṛks 10–11 to finish the sūkta. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–9 largely unread); Varga numerals of Sūkta 139; Ṛk 9 Pada words *pūrvaḥ*, *āyatiḥ* doubtful; Aitareya Brāhmaṇa quotation (p. 76) heavily doubtful; all Ni./Ṛg/Ai./Śa. Brā./Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 80  (PDF 98)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Bhāṣya of Ṛk 9, concluded from p. 79; small type, partly read, doubtful words marked.)*
+
+> येते ऽपि पूर्वे मानवश्च [?] । अको विमरीति भानः [?] । सुसां सुलुगिति जसो लुक् [?] ॥ तेषां ज्ञाने उपपत्तिमाह । तेषां दध्यङ्ङादीनां देवेषु देवसम्बन्धिषु [?] महर्षित्वात्तेषां मध्ये आयतिर्दीर्घकालसम्बन्धोऽस्ति [?] । अको विमरितिर्थः [?] । तत्र किमित्याह । अस्माकं नाभयो जीवनेन सह बन्धनेन [?] प्राणाः फलेन सम्बद्धा यागा नाः तेषु तेष्वेव वर्तन्ते [?] । अनो विशिष्टजन्मतोऽ यज्ञयोग्य इति कैवर्त्यत्वेन तदधीनत्वम् [?] । तेषां दध्यङ्ङादीनां पदेनास्मदीयपदेन महत्त्वेन निमित्तेन गिरा स्तुतिरूपया वाचा महि महदत्यधिकं नमे । नमति सर्वो जनः [?] । किञ्च तेषामनुग्रहाद्यजनयोग्यः सन्निन्द्राग्नी गिरा स्तुतिरूपया वाचा युक्तः सन्ना नमे । अभिमुख्येन नमामि स्वामि [?] चेत्यर्थः । नमेः … [?] ॥ यद्वा । कर्मकर्तरि न मुह्स्सु नमामिति यकः प्रतिषेधः । स्वयमेव नत्येऽस्मि [?] ॥
+
+> *yete 'pi pūrve mānavaśca [?] | ako vimarīti bhānaḥ [?] | susāṃ sulugiti jaso luk [?] ‖ teṣāṃ jñāne upapattimāha | teṣāṃ dadhyaṅṅādīnāṃ deveṣu devasambandhiṣu [?] maharṣitvātteṣāṃ madhye āyatirdīrghakālasambandho 'sti [?] | ako vimaritirthaḥ [?] | tatra kimityāha | asmākaṃ nābhayo jīvanena saha bandhanena [?] prāṇāḥ phalena sambaddhā yāgā nāḥ teṣu teṣveva vartante [?] | ano viśiṣṭajanmato ' yajñayogya iti kaivartyatvena tadadhīnatvam [?] | teṣāṃ dadhyaṅṅādīnāṃ padenāsmadīyapadena mahattvena nimittena girā stutirūpayā vācā mahi mahadatyadhikaṃ name | namati sarvo janaḥ [?] | kiñca teṣāmanugrahādyajanayogyaḥ sannindrāgnī girā stutirūpayā vācā yuktaḥ sannā name | abhimukhyena namāmi svāmi [?] cetyarthaḥ | nameḥ … [?] ‖ yadvā | karmakartari na muhssu namāmiti yakaḥ pratiṣedhaḥ | svayameva natye 'smi [?] ‖*
+
+**Pratipadārtha (Kannada).** *dadhyañc ha* — the seer Dadhīci; *pūrvaḥ* — very ancient; *aṅgirāḥ* — the seer Aṅgiras; *priyamedhaḥ* — Priyamedha; *kaṇvaḥ* — Kaṇva; *atriḥ* — the seer Atri; *manuḥ* — and Manu (all these seers); *me januṣam* — my birth (of me, son of Divodāsa, named Parucchepa); *viduḥ* — have known; *pūrve* — the very ancient; *te* — these seers all; *manuḥ* — and Manu (my forefathers, father and grandfather); *me* — my; *viduḥ* — have known; *teṣām* — to those seers; *deveṣu* — with the other shining seers [?]; *āyatiḥ* — a long connection is there; *asmākam* — our; *nābhayaḥ* — chief vital breaths, or the sacrifices that are the place of birth and give fruit; *teṣu* — in them they lie (their help is sought); *teṣām* — of Dadhīci and the others; *padena* — for the sake of the greatness; *girā* — with a praising speech; *mahi* — exceedingly; *name* — I bow (and by their favour I have become fit for the sacrifice); *indrāgnī* — Indra and Agni; *girā* — with praising speech; *name* — I bow.
+
+**Bhāvārtha.** The ancient seers Dadhīci, Aṅgiras, Priyamedha, Kaṇva, Atri, Manu and the like know well my forefathers and me, the son of Divodāsa. Since they are long-lived, they have a long connection with the gods and with other seers called by divine names. Our chief breaths and our states depend on them. To win [high] positions [?] I praise the gods; and with praises I worship Indra and Agni.
+
+**English Translation (as printed).** The ancient Dadhyanch, Angiras, Priyamedha, Kanwa, Atri, Manu, have known my birth: they who were of old and Manu have known (my progenitors); for of them is long life amongst the gods, and in them is our existence: for the sake of their high station, I adore (the gods) with praise; I worship Indra and Agni with praise.
+
+### Printed p. 81  (PDF 99)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+On the sixth day of the *Pṛṣṭhya-ṣaḍaha* sacrifice, at the midday pressing, the priest called *Acchāvāka* is to recite this Ṛk *dadhyaṅ ha me* as the introductory part of the *yājyā* mantra [?]; the Āśvalāyana Śrautasūtra sets this out by the sūtra दध्यङ् ह मे जनुषं पूर्वो अङ्गिरा इत्येवमेव माध्यंदिने (*dadhyaṅ ha me januṣaṃ pūrvo aṅgirā ityevameva mādhyaṃdine*) (Āś. [?]-[?]). In this Ṛk the seer Parucchepa, in connection with his own and his forefathers' acquaintance, indicates what his relation was with the ancient seers beginning with Dadhīci, and declares that he praises Indra and Agni in order to obtain a position as good as theirs.
+
+***dadhyaṅ.*** *Atharvagotrotpanno dadhyaṅ etannāmako maharṣiḥ* — "the great seer of this name, born in the Atharva line" (he is also called son of Atharvan). He gained mastery of the *madhuvidyā* ("honey-lore"); he was Indra's direct pupil, and taught this lore also to the Aśvins. The story about this, which Sāyaṇa tells in the commentary on Ṛ. Saṃ. 1-116-12 [?], was given earlier in the Special Topics of that Ṛk. Without repeating it here, what is told is how the same story is narrated in the Śatapatha Brāhmaṇa and in the Upaniṣads and so on, the nature of the *madhuvidyā*, and how famous the name of Dadhīci became through that lore. The occasion on which Dadhīci taught this lore to the Aśvins is in the Śatapatha Brāhmaṇa as follows:
+
+> दध्यङ् ह वा आथर्वणः । एतं शुक्रमेतं यज्ञं विदाञ्चकार । यथा यज्ञस्यैतस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति । स हेन्द्रेणोक्त आस । एतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिन्द्यामिति [?] ।
+
+> *dadhyaṅ ha vā ātharvaṇaḥ | etaṃ śukrametaṃ yajñaṃ vidāñcakāra | yathā yajñasyaitasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati | sa hendreṇokta āsa | etaṃ cedanyasmā anubrūyāstata eva te śiraśchindyāmiti [?] |*
+
+Dadhīci, son of Atharvan, learnt this bright lore of the sacrifice — how the head of the sacrifice is set in place and how the sacrifice becomes complete. Indra told him: "If you teach this to anyone else, I shall cut off your head."
+
+> तेदु हाश्विनोरनुशुश्रुवामास [?] । दध्यङ् ह वा आथर्वण एतं शुक्रमेतं यज्ञं वेद यथा यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति ।
+
+> *tedu hāśvinoranuśuśruvāmāsa [?] | dadhyaṅ ha vā ātharvaṇa etaṃ śukrametaṃ yajñaṃ veda yathā yajñasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati |*
+
+Then the Aśvins, hearing this, wished to obtain for themselves the knowledge of the sacrifice that Dadhīci possessed (continued on p. 82).
+
+### Printed p. 82  (PDF 100)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+> ता हेमां चक्रतुः [?] । उप त्वायोवेति [?] कमनुवक्ष्यमाणाविति [?] एतं शुक्रमेतं यज्ञं यथा … कृत्स्नो यज्ञो भवतीति [?] ।
+
+> *tā hemāṃ cakratuḥ [?] | upa tvāyoveti [?] kamanuvakṣyamāṇāviti [?] etaṃ śukrametaṃ yajñaṃ yathā … kṛtsno yajño bhavatīti [?] |*
+
+Then they went to him, and said that they would become his pupils and learn that lore, asking him to instruct them also.
+
+> स होवाच । इन्द्रेण वा उक्तोऽस्म्येतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिन्द्यामिति तस्माद्वै बिभेमि यद्वै मे स शिरो न छिन्द्यान्नेति वामुपवेयाम् इति [?] ।
+
+> *sa hovāca | indreṇa vā ukto 'smyetaṃ cedanyasmā anubrūyāstata eva te śiraśchindyāmiti tasmādvai bibhemi yadvai me sa śiro na chindyānneti vāmupaveyām iti [?] |*
+
+In reply he told them of the order Indra had given him, and said that he could not accept them as pupils.
+
+> तौ होचतुः । आवां त्वा तस्मात्त्रायिष्यावह इति कथं मा त्रास्येथे इति यदा नावुपसेत्स्यस्येथ [?] तेरश्वस्य [?] शिर आहृत्य तेत्र [?] प्रतिधास्यावस्तेन नावनुशासिष्यसि [?] यदेन्द्रः शिरश्छेत्स्यते ते स्वं शिर आहृत्य तेत्र [?] प्रतिधास्याव इति ।
+
+> *tau hocatuḥ | āvāṃ tvā tasmāttrāyiṣyāvaha iti kathaṃ mā trāsyethe iti yadā nāvupasetsyasyetha [?] teraśvasya [?] śira āhṛtya tetra [?] pratidhāsyāvastena nāvanuśāsiṣyasi [?] yadendraḥ śiraśchetsyate te svaṃ śira āhṛtya tetra [?] pratidhāsyāva iti |*
+
+They answered, "We shall protect you." How? — they took his head off and put it safely away in another place, and in that place …; after Indra had cut off the head put on in its stead, they would bring back his own natural head. On this being said, Dadhīci agreed.
+
+> तौ होपेनिस्ने । तौ यदोपेनिस्नेत्यास्य शिरश्छित्त्वान्यत्र निदधतुरश्वस्य शिर आहृत्यै तद्यास्य प्रतिदधतुस्तेन हाभ्यामनूवाच स यदाभ्यामनूवाचाथास्य तदिन्द्रः शिरश्छेदाथास्य शिर आहृत्यै तद्यास्य प्रतिदधतुः [?] ।
+
+> *tau hopenisne | tau yadopenisnetyāsya śiraśchittvānyatra nidadhaturaśvasya śira āhṛtyai tadyāsya pratidadhatustena hābhyāmanūvāca sa yadābhyāmanūvācāthāsya tadindraḥ śiraśchedāthāsya śira āhṛtyai tadyāsya pratidadhatuḥ [?] |*
+
+At once the two became pupils and took in the teaching; then Indra came and cut off that horse's head; and the Aśvins at once set in place Dadhīci's own natural head.
+
+> तस्मादेतदृषिणाभ्यनूक्तम् । दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाचेत्थायतं तदुवाचेति हैतदुक्तम् [?] ।
+
+> *tasmādetadṛṣiṇābhyanūktam | dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvācetthāyataṃ taduvāceti haitaduktam [?] |*
+
+(Śa. Brā. 14-[?]-[?]-[?] to [?].) Therefore it is famous that Dadhīci, the son of Atharvan, taught this *madhuvidyā* by means of the horse's head: so goes the story in the Śatapatha Brāhmaṇa. This same story in the Bṛhaddevatā too:
+
+### Printed p. 83  (PDF 101)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> प्रादाद्वै हापि सुप्रीतः सुताय तदथर्वणः ।
+> स चाभवद्विस्तेन ब्रह्मणा दीप्तिमत्तरः [?] ॥
+> तमैषिं इषिषेन्द्रो नैवं वोचेः क्वचिन्नृधु [?] ।
+> नहि प्रोक्ते मधुन्यस्मिञ्जीवन्तं त्वा त्रय्याम्यहम् [?] ॥
+> तमन्विषं त्वैषिनौ देवौ विनिक्ते मद्ध्यू योचताम् [?] ।
+> स च ताभ्यां तदाचक्षे यदुवाच शचीपतिः ॥
+> तमब्रूतां तु नासत्यावश्व्येन शिरसा भवान् ।
+> मधु सु ग्राहयत्यानां नेन्द्रश्च त्वा वधिष्यति [?] ॥
+> अश्व्येन शिरसा तु दध्यङ्ङ ह यदेष्यानू [?] ।
+> तेन स्मैन्द्रो हरत्यश्वं तन्यृधत्तामस्य यत्कृतः [?] ॥
+> दधीचश्च शिरश्छित्त्वं कृत्वं वज्रेण वज्रिणा [?] ।
+> पपात सरसो मध्ये पर्वते शर्यणावति ॥
+> तेनद्वैस्तु समुत्थाय भूतेभ्यो विनिधान्यरान् [?] ।
+> प्रादाय युगपर्यन्तं शास्वेवाप्यु निमज्जति [?] ॥
+
+> *prādādvai hāpi suprītaḥ sutāya tadatharvaṇaḥ |*
+> *sa cābhavadvistena brahmaṇā dīptimattaraḥ [?] ‖*
+> *tamaiṣiṃ iṣiṣendro naivaṃ voceḥ kvacinnṛdhu [?] |*
+> *nahi prokte madhunyasmiñjīvantaṃ tvā trayyāmyaham [?] ‖*
+> *tamanviṣaṃ tvaiṣinau devau vinikte maddhyū yocatām [?] |*
+> *sa ca tābhyāṃ tadācakṣe yaduvāca śacīpatiḥ ‖*
+> *tamabrūtāṃ tu nāsatyāvaśvyena śirasā bhavān |*
+> *madhu su grāhayatyānāṃ nendraśca tvā vadhiṣyati [?] ‖*
+> *aśvyena śirasā tu dadhyaṅṅa ha yadeṣyānū [?] |*
+> *tena smaindro haratyaśvaṃ tanyṛdhattāmasya yatkṛtaḥ [?] ‖*
+> *dadhīcaśca śiraśchittvaṃ kṛtvaṃ vajreṇa vajriṇā [?] |*
+> *papāta saraso madhye parvate śaryaṇāvati ‖*
+> *tenadvaistu samutthāya bhūtebhyo vinidhānyarān [?] |*
+> *prādāya yugaparyantaṃ śāsvevāpyu nimajjati [?] ‖*
+
+(Bṛ. De. 3-[?] to [?].) These sentences tell the same story. There is no difference in the telling; only at the end it is added that the horse's head, cut off by Indra's thunderbolt, fell into the lake on the mountain called Śaryaṇāvat, and, rising from the water at every step, giving all beings the boons suited to them in abundance, remains submerged there to the end of the age.
+
+That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sacrifice, is stated in the Bṛhadāraṇyaka also, as in the Śatapatha Brāhmaṇa, where, praising the greatness of other things, it says that this is the truth of the Supreme Person in the self; there the Ṛks तद्वां नरा सनये दंस उग्रम् [?] (*tadvāṃ narā sanaye daṃsa ugram [?]*) (Ṛ. Saṃ. 1-116-12 [?]) and अथर्वणायाश्विना दधीचेऽश्व्यं शिरः [?] (*atharvaṇāyāśvinā dadhīce 'śvyaṃ śiraḥ [?]*) (1-119-[?]) are cited, and also
+
+> रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय ।
+> इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥
+
+> *rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya |*
+> *indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*
+
+(Ṛ. Saṃ. 6-47-18 [?].) After citing this Ṛk it says इयं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच (*iyaṃ vai tanmadhu dadhyaṅṅātharvaṇo 'śvibhyāmuvāca*) [?] — "Dadhīci Ātharvaṇa taught the Aśvins that [lore]" — and that this brings one to the same supreme truth (Bṛ. U. 2-5-[?] to [?]).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–83 done: Ṛks 1–8 complete; Ṛk 9 through printed English and most of its Special Topics — *dadhyaṅ* and the Aśvins' *madhuvidyā* story). Next: printed p. 84 (PDF 102) — rest of the Ṛk 9 Special Topics (*aṅgirāḥ*, *priyamedhaḥ*, *kaṇvaḥ*, *atriḥ*, *manuḥ* …) and grammar; then Ṛks 10–11 to finish the sūkta. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–9 largely unread; Ṛk 9 bhāṣya pp. 79–80 only partly read); Varga numerals of Sūkta 139; the Śatapatha Brāhmaṇa and Bṛhaddevatā quotations on pp. 81–83 are transcribed with many doubtful words (the Bṛ. De. verses especially); all Ni./Ṛg/Śa. Brā./Bṛ. De./Bṛ. Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
