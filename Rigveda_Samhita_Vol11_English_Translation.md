@@ -3792,4 +3792,144 @@ In the Ṛks it is commonly seen that poverty and similar sorrows, the sin that 
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–147 done: Ṛks 1–11 complete; Ṛk 12 through Special Topics (begun, *jātavedase* Ṛk cited on p. 147)). Next: printed p. 148 (PDF 166) — Special Topics of Ṛk 12 continued, grammar; then Ṛk 13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–12 largely unread (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg quotations on pp. 125, 133 and 137 only partly legible (Ṛk 9 Special Topics p. 137 Ṛg verse garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 148  (PDF 166)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+> नू नो इन्द्रावरुणा गृणाना पृङ्क्तं रयिं सौश्रवसाय देवा । इत्था गृणन्तो महिनस्य शर्धोऽपो न नावा दुरिता तरेम ॥
+
+> *nū no indrāvaruṇā gṛṇānā pṛṅktaṃ rayiṃ sauśravasāya devā | itthā gṛṇanto mahinasya śardho 'po na nāvā duritā tarema ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) In these and other Ṛks, just as one crosses a river easily by boat, so the prayer is that by the help of Agni, Indra and other gods we may cross over sin (*durita*); and so here Agni is prayed to bestow the boat consisting of the sacrifice. Here it is said that the service of the boat consisting of the Soma-sacrifice is threefold: first, it makes the sacrificers and their sons wealthy; second, it carries the sacrificers across worldly existence; third, it gives the bliss of Brahma's world — thus Sāyaṇa has explained the passage *asmākaṃ vīrān maghonaḥ; uta no janāṃś ca pārayāt; yā śarma nāvam*. Not only in the Ṛk-saṃhitā but also in the Śatapatha Brāhmaṇa the same comparison is well known. For example —
+
+> नौर्ह वा एषा स्वर्ग्या यद्बहिष्पवमानं तस्या ऋत्विज इव स्फ्याश्चारित्राणि [?] स्वर्गस्य लोकस्य संपारणाय [?] तस्या एक एव मज्जयिता य एव निन्द्यः [?] स यथा पूर्णामभ्यारुह्य मज्जयेदेवं हैनां समज्जयति केद्वे सर्व एव यज्ञो नः स्वर्ग्या तस्मादु सर्वस्मादेव यज्ञानिन्द्यं परिबिबाधिषेत ।
+
+> *naurha vā eṣā svargyā yadbahiṣpavamānaṃ tasyā ṛtvija iva sphyāścāritrāṇi [?] svargasya lokasya saṃpāraṇāya [?] tasyā eka eva majjayitā ya eva nindyaḥ [?] sa yathā pūrṇāmabhyāruhya majjayedevaṃ haināṃ samajjayati kedve sarva eva yajño naḥ svargyā tasmādu sarvasmādeva yajñānindyaṃ paribibādhiṣeta |*
+
+(Śa. Brā. 4-[?]-[?]-[?].) The Soma-sacrifice, and the *bahiṣpavamāna* hymn that is to be recited on the first day of the Soma-sacrifice, are boats that carry one to heaven; the priests themselves are their oarsmen. If even one of these priests is of a blameworthy way of life, he will cause this boat to sink. Therefore such a one must be kept away from the sacrificial act: so says the Śatapatha Brāhmaṇa; and likewise —
+
+> यज्ञो वै सुशर्मा नौः ।
+
+> *yajño vai suśarmā nauḥ |*
+
+(Ai. Brā. 1-[?].)
+
+> नावमिवारुहेमेति सम् एव नावमेतदधिरोहति स्वर्गस्य लोकस्य समृत्यै । संपत्त्यै संगत्यै ॥
+
+> *nāvamivāruhemeti sam eva nāvametadadhirohati svargasya lokasya samṛtyai | saṃpattyai saṃgatyai ‖*
+
+(Ai. Brā. 4-[?].) Thus in the Aitareya Brāhmaṇa also this comparison is well known. And as the fruit of this sacrifice is exceedingly great, even the gods desire it and are devoted to sacrifice; so, following them, men too should be devoted to sacrificial work: thus it is taught — (continues on p. 149)
+
+### Printed p. 149  (PDF 167)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+> ते आसते श्रियं गच्छेमा यशः स्यामान्नादाः स्यामेति । ते होचुः । यो नः श्रमेण तपसा श्रद्धया यज्ञस्योद्देशं पूर्वो वा गच्छात्स नः श्रेष्ठोऽसत् सर्वेषां सहेति । तद्विष्णुः प्रथमः प्राप । स देवानां श्रेष्ठो [?] भवत्तस्मादाहुर्विष्णुर्देवानां श्रेष्ठ इति ।
+
+> *te āsate śriyaṃ gacchemā yaśaḥ syāmānnādāḥ syāmeti | te hocuḥ | yo naḥ śrameṇa tapasā śraddhayā yajñasyoddeśaṃ pūrvo vā gacchātsa naḥ śreṣṭho 'sat sarveṣāṃ saheti | tadviṣṇuḥ prathamaḥ prāpa | sa devānāṃ śreṣṭho [?] bhavattasmādāhurviṣṇurdevānāṃ śreṣṭha iti |*
+
+(Śa. Brā. [?]-[?]-[?]-[?]; the passage is garbled at this resolution and is given only as read.) By the practice of sacrifice, fruit and the place of the boat and birth-wealth are obtained [?]; so the gods wished for it and performed sacrifice. Since Viṣṇu among them attained the first place, he became the best among the gods: thus the fruit of sacrifice is praised. And likewise —
+
+> तस्माद्धाहुः पुण्यलोक ईजान इति ।
+
+> *tasmāddhāhuḥ puṇyaloka ījāna iti |*
+
+(Śa. Brā. [?]-[?]-[?]-[?].) What this says — that the sacrificer becomes lord of the world of merit — is just what is suggested in the present Ṛk by the word *śarma*. For the word *śarma* Sāyaṇa gives *sukhaṃ niratiśayaṃ brahma prāpayet*, "may it bring the unsurpassed bliss of Brahma's world", and cites, to explain the word *śarma*, the sentence of the Bṛhadāraṇyaka Upaniṣad:
+
+> विविदिषन्ति यज्ञेन दानेन ।
+
+> *vividiṣanti yajñena dānena |*
+
+(Bṛ. U. 4-4-22.) Thus the boat that bestows so excellent a fruit, consisting of the Soma-sacrifice, is prayed of Agni for the sacrificer.
+
+***rathāya*** — *raṃhaṇāya yajamānāya*: the word is thus shown to be an epithet of the sacrificer. For the word *ratha* the Nirukta author says: *ratho raṃhater gatikarmaṇaḥ; sthirater vā syād viparītasya; ramater vā; rasater vā* (Ni. 9-[?]): that is, from the root *raṃh* meaning going or speed; or, with a change of letters, from *sthira*; or from the root *ram*, "those who sit in it rejoice"; or from the root *ras*, "it makes a sound"; and the Nirukta author shows this derivation of *ratha* under the Ṛk *vanaspate vīḍvaṅgo* (Ṛ. Saṃ. 6-4[?]-[?]). But in the present Ṛk the word must be an epithet of the sacrificer, and so one of these senses must be shown: the sacrificer is eager for the performance of the sacrifice and active; or, he is of steady mind when he is initiated (*dīkṣita*); or, he utters sounds of praise. Since the epithet *rāsmanasya* [?] (1-[?]-[?]) is given him, the epithet *rathāya* may belong to the sacrificer in any of the senses stated by the Nirukta author. (continues on p. 150)
+
+### Printed p. 150  (PDF 168)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+***rathāya, gṛhāya*** — the two epithets suggest the greatness of the sacrificer who performs the sacrifice, and his divine position, which produces good for the whole world. Because he is the cause of the origin and continuance of the sacrifice, and the cause of the sacrifice, in many places identity (*tādātmya*) is declared between the two; hence identity is also declared between the sacrificer and Prajāpati. In explaining the sacrificer's supernatural power the Taittirīya Saṃhitā says that he becomes the acquirer of a dwelling in heaven, the support of the greatest bliss:
+
+> नाकसद्भिर्वै देवास्स्वर्गं लोकमायन्नाकसदां नाकसत्त्वं यन्नाकसद उपदधाति नाकसद्भिरेव तद्यजमानस्स्वर्गं लोकमेति सुवर्गो वै लोको नाकः [?] … नास्मा अकं भवति यजमानायतनं वै नाकसदो यन्नाकसद उपदधात्यायतनमेव तद्यजमानः कुरुते पृष्ठानां वा एते तेजः संभृतं यन्नाकसदो यन्नाकसद [?] …
+
+> *nākasadbhirvai devāssvargaṃ lokamāyannākasadāṃ nākasattvaṃ yannākasada upadadhāti nākasadbhireva tadyajamānassvargaṃ lokameti suvargo vai loko nākaḥ [?] … nāsmā akaṃ bhavati yajamānāyatanaṃ vai nākasado yannākasada upadadhātyāyatanameva tadyajamānaḥ kurute pṛṣṭhānāṃ vā ete tejaḥ saṃbhṛtaṃ yannākasado yannākasada [?] …*
+
+(Tai. Saṃ. 5-3-[?]-[?]; garbled in part at this resolution.) In these sentences the nature of the sacrificer's house (*gṛha*) and its special features are described in detail — what excellent dwelling the sacrificer, skilled in the work of building the altar and in the piling of the fire (*agnicayana*), brings about; hence the epithet *gṛhāya* in the present Ṛk gathers the same point. The word *gṛha* here may mean a worldly house with every kind of wealth, or a dwelling in heaven with exceeding good fortune.
+
+**Vyākaraṇa-prakriyā (Ṛk 12; grammar pages 150–151, noted briefly).** *nāvam* (root *ṇud preraṇe*; suffix *ḍau* by *glānudibhyāṃ ḍau* (Uṇ. Sū. 2-[?]); by the power of *ḍit* the *ṭi* of the root is dropped; final-syllable accent; accusative singular, *am* for *am*), *gṛhāya* (root *graha upādāne*; *loṭ* second person singular; *hi* substitution; *chandasi śāyajapi* (Pā. Sū. 3-1-[?]), *śāyac* for *śap*; *ato heḥ* gives *luk*; by *vyatyaya* no *bhava*), *nityāritrām* (*nityaṃ niyataṃ aritraṃ yasyāḥ sā*; *bahuvrīhau prakṛtyā pūrvapadam*: the earlier member keeps its accent). (continues on p. 151)
+
+### Printed p. 151  (PDF 169)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+*Grammar (Ṛk 12, concluded; noted briefly):* *padvatīm* (*pāt pādo 'syāḥ asti iti padvat*; *matup*; *ugitaś ca* (Pā. Sū. 4-1-6) gives *ṅīp*; *hrasvanudbhyāṃ matup* (Pā. Sū. 6-1-[?]) the accent of *matup*; accusative singular), *rāsi* (root *rā ādāne*; *laṭ* second person singular; as it follows *agne*, *nighāta*; *rāsi* is read among the *dāna* roots, Ni. 2-[?]), *vīrān* (root *aja gatikṣepaṇayoḥ*; *sphāyi*… (Uṇ. Sū. 2-[?]) *rak*; *vī* substitution; final-syllable accent by the suffix; accusative plural), *maghonaḥ* (*maghaṃ asyāstīti maghavān*; *chandasi vanip ca* gives *vanip* in the sense of *matup*; accusative plural; *śayuvamaghonām atad dhite* (Pā. Sū. 6-4-[?]) *samprasāraṇa*, *pūrvarūpa*, *guṇa*, *ekādeśa udāttena* (Pā. Sū. 8-2-5) gives the *udātta*), *pārayāt* (root *pāra tīrakarmasamāptau*; *loṭ*, third person singular; *tip* → *at* [?]; *satyāpapāśa…* (Pā. Sū. 3-1-[?]) *ṇic*; *iṭ* *aka*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94) gives *aḍāgama*; *guṇa* in *ṇic*; *ayādeśa*; the *yat*-connected *nighāta* barred by *yadvṛttānnityam* (Pā. Sū. 8-1-66); the *ṇic* accent remains), *vīrān uta* (*dīrghād aṭi samānapāde* (Pā. Sū. 8-3-[?]) gives *ru* for the *n*; *āto 'ṭi nityam* (Pā. Sū. 8-3-[?]): the preceding *ā* takes a nasal). Sūtra numbers in small type are read with doubt. ‖ 12 ‖
+
+---
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> अभी नो अग्न उक्थमिज्जुगुर्या द्यावाक्षामा सिन्धवश्च स्वगूर्ताः ।
+> गव्यं यव्यं यन्तो दीर्घाहेषं वरमरुण्यो वरन्त ॥ १३ ॥
+
+> *abhī no agna ukthamijjuguryā dyāvākṣāmā sindhavaśca svagūrtāḥ |*
+> *gavyaṃ yavyaṃ yanto dīrghāheṣaṃ varamaruṇyo varanta ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> अभि । नः । अग्ने । उक्थम् । इत् । जुगुर्याः । द्यावाक्षामा । सिन्धवः । च । स्वऽगूर्ताः ।
+> गव्यम् । यव्यम् । यन्तः । दीर्घाहा । इषम् । वरम् । अरुण्यः । वरन्त ॥ १३ ॥
+
+> *abhi | naḥ | agne | uktham | it | juguryāḥ | dyāvākṣāmā | sindhavaḥ | ca | sva 'gūrtāḥ |*
+> *gavyam | yavyam | yantaḥ | dīrghāhā | iṣam | varam | aruṇyaḥ | varanta ‖ 13 ‖*
+
+### Printed p. 152  (PDF 170)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, approve our hymn by praising it; may heaven and earth and the self-flowing rivers bring us milk and barley-cakes; may the ruddy dawns bring us food through the long days.* Small type; doubtful words marked)
+
+> हे अग्ने नः उक्थं शस्त्रमभि जुगुर्याः । अभिमुखेन स्तुहि प्रोत्साहय । सम्यक् शस्त्रमिति अंगीकुरु इति । गृ शब्दे । लिङि छन्दसि [?] … बहुलं छन्दसीत्यादिना [?] प्रोत्साहयताम् । तथा द्यावाक्षामा द्यावापृथिव्यौ यज्ञसाधनसंपादनेन प्रोत्साहयताम् । तथा सिन्धवः स्यन्दनशीला नद्यश्च स्वगूर्ताः स्वयमेव गामिन्यः गव्यं गोसमूहं क्षीरादिकं गवां तृणाम्भस्संपादनद्वारा यव्यं । उपलक्षणमेतत् । यवव्रीह्यादिजन्यं पुरोडाशादिकं यन्तः प्रापयन्तः प्रोत्साहयन्तु । तथा अरुण्यः अरुणवर्णगोयुक्ता मत्स्यर्थो [?] उषसः [?] … आरुण्यसाधनभूता उषसः तद्देषु [?] दीर्घाहा सर्वाण्यहानि सर्वकालमिष्यमाणमन्नमरादिकं वरं वरणीयं श्रेष्ठमन्नमपि [?] यागसाधनं वरन्त वृण्वन्तु । प्रापयन्तु । वृञ् संभक्तौ । अन्तर्भावितण्यर्थः [?] … छान्दसो लङ् [?] … प्रसादादित्यग्नेरेव स्तुतित्वादग्नेरेवात्र [?] … ॥ [partly unread]
+
+> *he agne naḥ ukthaṃ śastramabhi juguryāḥ | abhimukhena stuhi protsāhaya | samyak śastramiti aṃgīkuru iti | gṛ śabde | liṅi chandasi [?] … bahulaṃ chandasītyādinā [?] protsāhayatām | tathā dyāvākṣāmā dyāvāpṛthivyau yajñasādhanasaṃpādanena protsāhayatām | tathā sindhavaḥ syandanaśīlā nadyaśca svagūrtāḥ svayameva gāminyaḥ gavyaṃ gosamūhaṃ kṣīrādikaṃ gavāṃ tṛṇāmbhassaṃpādanadvārā yavyaṃ | upalakṣaṇametat | yavavrīhyādijanyaṃ puroḍāśādikaṃ yantaḥ prāpayantaḥ protsāhayantu | tathā aruṇyaḥ aruṇavarṇagoyuktā matsyartho [?] uṣasaḥ [?] … āruṇyasādhanabhūtā uṣasaḥ taddeṣu [?] dīrghāhā sarvāṇyahāni sarvakālamiṣyamāṇamannamarādikaṃ varaṃ varaṇīyaṃ śreṣṭhamannamapi [?] yāgasādhanaṃ varanta vṛṇvantu | prāpayantu | vṛñ saṃbhaktau | antarbhāvitaṇyarthaḥ [?] … chāndaso laṅ [?] … prasādādityagnereva stutitvādagnerevātra [?] … ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *naḥ* — our; *uktham* — hymn; *abhi jugurāḥ* — praise as excellent [say the word of approval]; may heaven and earth also praise; *sindhavaḥ* — those of flowing form; *svagūrtāḥ ca* — rivers that flow of their own nature, too; *gavyam* — (by growing grass and feeding them) the milk and the like of cows; *yavyam* — barley-made offerings such as *purodāśa*; *yantaḥ* — bringing (may they praise our hymn); *aruṇyaḥ* — the dawns, accompanied by golden-hued cows; *dīrghāhā* — on all days; *varam* — excellent; *iṣam* — food; *varanta* — may they bring.
+
+**Bhāvārtha.** O Agni, praise our hymn as excellent, and speak the word of approval. May heaven and earth likewise praise it. May the rivers, flowing of their own nature, also, by raising the grass that is the food of cows and so providing us with the milk and the like of cows and with barley-made offerings such as *purodāśa*, praise our hymn. May the dawns, with their golden-hued cows, bring excellent food on all days.
+
+**English Translation (as printed).** Agni, be propitiated by this our earnest praise, and may heaven and earth, and the spontaneously-flowing (streams), provide for us the produce of the herd, and of the field; and may the purple coursers (of the dawn) bestow upon us abundant food through a length of days. [continued on p. 153: "…the herd, and of the field; …" — the printed English runs over the page break.]
+
+### Printed p. 153  (PDF 171)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+*(Printed English continued from p. 152: "the herd, and of the field; and may the purple coursers (of the dawn) bestow upon us abundant food through a length of days.")*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***uktham abhi jugurāḥ*** — the prayer to Agni is: "praise our *uktha* as excellent". Here Sāyaṇa explains *uktha* as *śastra*. Pointing out the fine difference between *śastra* and *stotra* that holds in some places, Sāyaṇa, in the Śatapatha [?] Brāhmaṇa [?] 4-[?]-[?]-[?], takes the word *uktha* to mean "hymn" (*stotra*) by the sentence there [?]; in the sentences 1-[?]-[?] the senses of the word *uktha* are shown. Here, since the sacrificer's *uktha* is to be praised by Agni and Heaven and Earth, one must understand what good effect (*suphala*) this *uktha*, which gladdens the gods, has [?].
+
+Since the power of the *uktha* is surpassing, increase will certainly come to all who know it. The story is in the Aitareya Brāhmaṇa: once the Asuras took refuge in the *uktha* and they too gained surpassing strength and increase; then Indra came and, praising [Varuṇa], sought to drive them out.
+
+> ते वा असुरा मैत्रावरुणमुक्थमाश्रयन्ते [?] सोऽब्रवीदिन्द्रः कः [?] साहं क्वेमानितोऽसुरानोत्स्यानहा [?] इत्थं चेत् [?] ब्रवीद्वरुणस्त्वा [?] … मैत्रावरुणस्य तृतीयसवने शंसन्तीन्द्रश्च हि तान्वरुणश्च ततो नुदेताम् [?] ।
+
+> *te vā asurā maitrāvaruṇamukthamāśrayante [?] so 'bravīdindraḥ kaḥ [?] sāhaṃ kvemānito 'surānotsyānahā [?] itthaṃ cet [?] bravīdvaruṇastvā [?] … maitrāvaruṇasya tṛtīyasavane śaṃsantīndraśca hi tānvaruṇaśca tato nudetām [?] |*
+
+(Ai. Brā. [?]-[?].) [The passage is given only as far as read.] The Asuras entered the Maitrāvaruṇa *uktha*. Then Indra asked who among them would help him drive the Asuras out of this *uktha*, and Varuṇa said that he would help. At that time the Maitrāvaruṇa, who is the helper of the *hotṛ*, at the time of the third pressing —
+
+> इन्द्रावरुणा युवमध्वराय नो विशे जनाय महि शर्म यच्छतम् ।
+
+> *indrāvaruṇā yuvamadhvarāya no viśe janāya mahi śarma yacchatam |*
+
+(Ṛ. Saṃ. 7-82-[?].) — recited the *sūkta* that begins with this Ṛk, and praised Indra and Varuṇa. Then Indra and Varuṇa drove those Asuras out of the Maitrāvaruṇa *śastra*.
+
+> के वै ते [?] असुरा ब्राह्मणाच्छंसिन उक्थमाश्रयन्ते सोऽब्रवीदिन्द्रः कः [?] साहं क्वेमानितोऽसुरानोत्स्यानहा [?] इत्थं चेत् [?] ब्रवीद्बृहस्पतिस्त्वा [?] ब्राह्मणाच्छंसिनस्तृतीयसवने शंसन्तीन्द्रश्च हि तान्बृहस्पतिश्च ततो नुदेताम् [?] ।
+
+> *ke vai te [?] asurā brāhmaṇācchaṃsina ukthamāśrayante so 'bravīdindraḥ kaḥ [?] sāhaṃ kvemānito 'surānotsyānahā [?] itthaṃ cet [?] bravīdbṛhaspatistvā [?] brāhmaṇācchaṃsinastṛtīyasavane śaṃsantīndraśca hi tānbṛhaspatiśca tato nudetām [?] |*
+
+(Ai. Brā. [?]; given only as far as read; continues on p. 154.)
+
+---
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–153 done: Ṛks 1–12 complete; Ṛk 13 through printed English and Special Topics begun (*uktham abhi jugurāḥ*, Aitareya Brāhmaṇa story, p. 153)). Next: printed p. 154 (PDF 172) — Special Topics of Ṛk 13 continued (Ai. Brā. quotation), grammar; then the sūkta ends (Sūkta 141 follows). Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–13 largely unread (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
