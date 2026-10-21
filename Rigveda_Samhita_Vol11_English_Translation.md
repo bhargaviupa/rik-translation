@@ -5156,4 +5156,127 @@ in this Ṛk *kāre* is *kīryante āyudhāny atra iti kāraḥ yuddhaṃ tasmin
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–207 done: Ṛks 1–10 complete; Ṛk 11 Saṃhitā and Pada (p. 207))). Next: printed p. 208 (PDF 226) — Ṛk 11 bhāṣya, Pratipadārtha etc.; then Ṛks 12–13. Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 208  (PDF 226)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *You give us, as wealth, a son well-disposed, tractable and capable of holding learning; and Agni, who stretches out his rays and both his birthplaces, also keeps the praise of the gods going in our sacrifice.* Small type; doubtful words marked)
+
+> हे अग्ने त्वमस्मे अस्मासु स्वर्थं सुष्ठु अरणीयं [?] दमूनसं दमनीयं [?] उपाज्यम् [?] । दमेरूनसि (उ. सू. ४-[?]) इत्यूनसिप्रत्ययः । रयिं न पप्रचासि धनं यथा संपन्नक्षि [?] तथा धर्णसिं विद्यार्थधारणकुशलं पुत्रं यथा पप्रचासि संपन्नक्षि उभयमपि ददासीत्यर्थः । पृची संपर्के । लेट्यडागमः । बहुलं छन्दसीति विकरणस्य श्लुः । इदानीं परोक्षकृतः [?] … । यः अग्निः रश्मीरिव स्वकीयान् रश्मीन् यथा यमति नियमयति विस्तारयति कश्चित् स उभे जन्मनी जननाधारभूतौ उभौ लोकौ द्यावापृथिव्यौ यमति नियच्छति । तथा सुक्रतुः शोभनकर्मा अयं ऋते अस्मदीये यज्ञे देवानां देवसंबन्धिनं शंसं स्तोत्रं चायमति आयच्छति सर्वदा ददाति । यद्वा । पूर्वार्धे पप्रचासीत्येषि परोक्षत्वाय प्रथमपुरुषतया योज्यम् ॥ [partly unread]
+
+**Pratipadārtha (Kannada).** (*agne* — O Agni; *tvam* — you;) *asme* — to us; *rayiṃ na* — as you give wealth; *svartham* — one greatly desired; *damūnasam* — [a gentle one]; *bhagam* — a beloved one; *dakṣam* — a capable one; *dharṇasim* — one fit to hold learning: (such) a son; *papracāsi* — you graciously give; *yaḥ* — who, that Agni; *raśmīn iva* — as he spreads his rays; *ubhe janmanī* — the two worlds of his birth; *yamati* — he controls and extends (so too); *sukratuḥ* — Agni of excellent works; *ṛte* — in our sacrifice; *devānām* — directed to the gods; *śaṃsaṃ ca* — the hymn also; *ā (yamati)* — controls and extends.
+
+**Bhāvārtha.** O Agni, as you give us wealth, you graciously give us a son who is greatly desired, gentle, beloved, capable, and fit to hold learning. That Agni, as he extends his rays, also extends his two birthplaces, the two worlds (heaven and earth). In the same way Agni of excellent deeds extends, in our sacrifice, the hymns directed to the gods, regularly.
+
+**English Translation (as printed).** In like manner as you confer upon us riches, (so you bestow upon us) a well-disposed, obedient, and energetic (son); the receptacle (of
+
+### Printed p. 209  (PDF 227)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+*(Printed English continued from p. 208:)* learning and other merits), one who is the performer of holy rites. Agni, who regulates as it were his own rays, (and the condition of) both (his) births, (or heaven and earth), he regulates at (our) sacrifice the adoration of the gods.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk Agni, who gives wealth such as a son, is described as generous, as having the power to extend heaven and earth, and as one who regulates and extends the priests' hymns.
+
+***svartham*** — *suṣṭhu araṇīyam* [?]: one who pursues an excellent aim, or one with the power of excellent conduct: it is an epithet of the son. [The explanation of the word *svartha*, from the root *ṛ* "to go", and of the sense of *artha* as "purpose" is garbled at this resolution and is given only in outline] [?].
+
+***damūnasam*** — *damanīyam upājyam* [?]: the sense is "one who is gentle". The explanation of the Nirukta authors for the word *damūnāḥ* — *damanā vā dānamanā vā dāntamanā vā; api vā dama iti gṛhanāma tanmanāḥ syāt* (Ni. 4-4) — and the particular senses of this word have been given in the Special Topics of Ṛk 1-140-10 of this same part. In the present Ṛk it may be taken as "a son endowed with self-control and modesty".
+
+***bhagam*** — *bhago bhajateḥ*: citing the sentence of the previous Ṛk, [it is said that] the word gives the sense "worshipful". Here it must be said "a beloved son".
+
+***dharṇasim*** — the Nirukta authors read the word *dharṇasi* among the names of strength (Ni. 2-9). Ordinarily the word is used in the sense "supporting power". For example —
+
+> आ धर्णसिर्बृहद्दिवो रराणो विश्वेभिर्गन्त्वोमभिर्हुवानः । ग्ना वसान ओषधीरमृध्रस्त्रिधातुशृङ्गो वृषभो वयोधाः ॥
+
+(Ṛ. Saṃ. 3-[?]-[?] [?].) here as *sarvasya dhārakaḥ*, "supporter of all", an epithet of Agni; and
+
+> आ वच्यस्व महि प्सरो वृषेन्दो द्युमत्तमः । आ योनिं धर्णसिः सदः ॥
+
+(Ṛ. Saṃ. 9-[?]-[?].) here *dhartā tvam*, "you, the supporter", addressed to Soma; so in other places too it is used with the sense that indicates supporting power. In the present Ṛk (continues on p. 210)
+
+### Printed p. 210  (PDF 228)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+Sāyaṇa explains *vidyādhidhāraṇakuśalaṃ putram*: a son with the power fit to grasp learning and to hold it.
+
+***papracāsi*** — earlier it was said that the word *papracānāsaḥ* has the sense of an undivided relation. Here too: "make the excellent son related to us", that is, the prayer is "bestow a son worthy of great regard"; or the assurance is suggested that "you will certainly give to the sacrificers".
+
+> अग्निं स्तोमं विश्रवस्तमं सुविब्रह्माणमुत्तमम् । आतोत्रं [?] श्रावयेत्त्विति [?] पुत्रं ददाति दाशुषे ॥ [?]
+
+(Ṛ. Saṃ. 3-[?]-[?] [?]; read with doubt.) On the basis of the sentences in such Ṛks — that to the sacrificer who offers oblations Agni gives a son who is best, noblest, and who brings good fame to his father and the rest — the same assurance is given in the present Ṛk.
+
+***ubhe janmanī yamati*** — *janānādhārabhūtau ubhau lokau yamati niyacchati*: "he controls, restrains, the two worlds that are the support of beings"; the sense is that he controls and extends the sky and the earth, the causes of his own origin.
+
+> अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः । प्रिया पदानि पश्वो नि पाहि विश्वायुरग्ने गुहा गुहं गाः ॥
+
+(Ṛ. Saṃ. 1-67-3.) As described in such Ṛks, the purport is that he upheld heaven and earth, and, like extending his rays, so made these worlds shine and expand.
+
+***śaṃsaṃ ca ā yamati*** — *stavaṃ ca āyacchati sarvadā dadāti*: "he gives continually the invocation-hymn to the gods". Because Agni is the *hotṛ* of the sacrifice —
+
+> वाग्वै यज्ञस्य होता तद्येयं वाक्सोऽयमग्निः स होता सा मुक्तिः । साशमुक्तिः [?] ॥
+
+(Bṛ. U. 1-[?]-[?] [?]; read with doubt.) such sentences state the identity of the speech of praise and the *hotṛ*; and since Agni is both *hotṛ* and the presiding deity of speech, the purport is that he makes the praise extend.
+
+**Vyākaraṇa-prakriyā (Ṛk 11; grammar pages 210–211, noted briefly).** *asme* (the word *asmad*; when the case-ending follows, *supāṃ sulug…* (Pā. Sū. 7-1-39) gives *śe* for it; loss of the *a* by *pararūpa* [?]). (continues on p. 211)
+
+### Printed p. 211  (PDF 229)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+*Grammar (Ṛk 11, continued; noted briefly):* *damūnasam* (root *damu upaśame*; *dameḥ ūnasi* (Uṇ. Sū. 4-[?]): suffix *ūnasi*, whose *i* is *it*-marked; the stem *damūnas*; accusative singular), *papracāsi* (root *pṛcī saṃparke*; *leṭ*, second person singular, *sip*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94): *aṭ*; by *bahulaṃ chandasi*, *śap* is replaced by *śluḥ*; the root's reduplication; *urat* (Pā. Sū. 7-4-66): *a* for the *ṛ̥* of the reduplicate; *ādihalśeṣa*; because of *ati-jñanta*, *nighāta*), *dharṇasim* (root *dhṛñ dhāraṇe*; *sānasivarṇasi* … (Uṇ. Sū. 4-[?]): suffix *asi*, *asit*-ending, accomplished by *nipātana*; *cit*: last-syllable accent; accusative singular), *yamati* (root *yamu uparame*; *laṭ*, third person singular; no *gam*-like *chatva* in Vedic; because of the connected *yat*, *nighāta* barred by *yadvṛttān nityam* (Pā. Sū. 8-1-66); *śap*, *tip* is *pit* hence *anudātta*, so the root accent remains), *janmanī* (root *janī prādurbhāve*; *anyebhyo 'pi dṛśyante* gives *manin*; *nit*: first-syllable accent; dual), *śaṃsam* (root *śaṃsu stutau*; *halaś ca* (Pā. Sū. 3-3-121): *ghañ*; *ñit*, *ñnityādir nityam*: first-syllable accent), *sukratuḥ* (*śobhanaḥ kratuḥ yasya saḥ sukratuḥ*; *kratvādayaś ca* (Pā. Sū. 6-2-118): the last member's accent). ‖ 11 ‖
+
+---
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> उत नः सुद्योत्मा जीराश्वो होता मन्द्रः शृणवच्चन्द्ररथः ।
+
+### Printed p. 212  (PDF 230)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+> स नो नेषन्नेषतमैरमूरोऽग्निर्वामं सुवितं वस्यो अच्छ ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । नः । सुऽद्योत्मा । जीरऽअश्वः । होता । मन्द्रः । शृणवत् । चन्द्रऽरथः ।
+> सः । नः । नेषत् । नेषऽतमैः । अमूरः । अग्निः । वामम् । सुवितम् । वस्यः । अच्छ ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *May Agni, bright, swift-horsed, joyous, golden-chariot'd hotṛ, hear us and lead us by his best leadings to the desirable, accessible heaven.* Small type; doubtful words marked)
+
+> उतशब्दोऽर्थः [?] । स च संभावनायां । सोऽग्निरस्मदीयमाह्वानमुतापि शृणवत् । अपि नामाशृणुयात् । यद्वा नोऽस्मान् श्रावयेत् । देवेषु मध्ये प्रख्यापयेत् । श्रुनोतेर्लेट्यडागमः । कीदृशोऽयं । सुद्योत्मा सुद्योतमानः । द्युत दीप्तौ । अन्येभ्योऽपि दृश्यन्ते इति मनिन् । जीराश्वः शीघ्रगमनाश्वः । होता देवानामाह्वाता । मन्द्रो मदनशीलः । चन्द्ररथः सुवर्णमयरथः । किंचायमग्निरमूढबलो [?] वस्योवसनीयः [?] सः प्रसिद्धोऽग्निः नेषतमैर्नेतृतमैः कर्मभिः स्तोत्रैर्वा नोऽस्मान् नेषत् । अपि नयेत् । यज्ञस्य पारं प्रापयेत् । नयतेर्लेट्यडागमः । सिब्बहुलमिति सिप् । किमर्थं । वामं वननीयं सुवितं सुष्ठु प्राप्यं सर्वैः काङ्क्षणीयं स्वर्गमच्छाभिमुख्येन प्रापयितुं नेषत् ॥ [partly unread]
+
+**Pratipadārtha (Kannada).** *sudyotmā* — extremely bright; *jīrāśvaḥ* — having swift horses; *hotā* — the one who invites the (gods); *mandraḥ* — joyous by nature; *candrarathaḥ* — having a golden chariot, that Agni; *naḥ* — our (invocation); *uta śṛṇavat* — may he hear; *amūraḥ* — of unfailing strength; *vasyaḥ* — dispenser of dwelling [?]; *saḥ* — that well-known; *agniḥ* — Agni; *neṣatamaiḥ* — the best leaders, with the best leading acts of the sacrifice or with hymns; *naḥ* — us; *vāmam* — desirable; *suvitam* — easily to be entered, favourable; *accha* — facing; *neṣat* — may he take us.
+
+**Bhāvārtha.** May Agni, extremely bright, with swift horses, the invoker of the gods, joyous, with a golden chariot, hear our call; may he, of unfailing strength, the well-known Agni, lead us, with the best of leading rites and hymns, to the desirable and easily entered heaven and take us forward.
+
+### Printed p. 213  (PDF 231)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+**English Translation (as printed).** May he who is one with light, who has fleet horses, the invoker (of the gods), full of joy, and borne in a golden chariot, listen to us: may that irresistible, yet placable Agni, conduct us, by the most efficacious (means), to that desirable and accessible (heaven).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In the first half of the Ṛk Agni is described by epithets such as *jīrāśvaḥ*.
+
+***jīrāśvaḥ*** — the word *jīra* is read among the names of the swift (Ni. 2-15); *jīra* or *jīram* occurs separately, and in compounds such as *jīrāśva*, *jīrādvara*, *jīradānu*, in many places.
+
+> दिवस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्नमिष्टये । प्राचीनरश्मिमाहुतं घृतेन तद्देवानामवो अद्या वृणीमहे ॥ [?]
+
+(Ṛ. Saṃ. 10-[?]-[?].) In this Ṛk the Aśvins are prayed to make our rite *jīrādhvara*; here *jīrādhvara* means: "not obstructed by hindrances, free from injury, quickly completed — complete it for us".
+
+> प्र क्षे तु [?] विश्वा भुवना ववक्षिरे मित्राय वा सदमा जीरदानवः । प्रपन्वशासो अनभ्रराधस उज्ज्यासो न वयोनेषु धूषहे [?] ॥
+
+(Ṛ. Saṃ. 3-[?]-[?]; read with doubt.) here *jīradānavaḥ* is an epithet of the Maruts: they who fulfil the sacrificer's wishes most swiftly. In the same way the compounds *jīrāśvaḥ*, *jīrāśvam* are also epithets of Agni and other deities; or they are sometimes epithets of their chariot. For example —
+
+> आ वां रथं पुरुमायं मनोजुवं जीराश्वं यज्ञियं जीवसे हुवे । सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टीवानं वरिवोधामभि प्रयः ॥
+
+(Ṛ. Saṃ. 8-[?]-[?].)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–213 done: Ṛks 1–11 complete; Ṛk 12 through printed English and Special Topics begun (*jīrāśvaḥ*))). Next: printed p. 214 (PDF 232) — Special Topics of Ṛk 12 continued, grammar; then Ṛk 13 (the sūkta has 13 Ṛks). Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
