@@ -1892,4 +1892,86 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–71 done: Ṛks 1–6 complete; Ṛk 7 through printed English and Special Topics begun, *aṅgirobhyo dhenuṃ devā adattana*). Next: printed p. 72 (PDF 90) — Special Topics of Ṛk 7 continued (the Aṅgiras story, *aryamā* …), grammar, then Ṛk 8. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–7 largely unread; Ṛk 7 bhāṣya partly unread on p. 69); Varga numerals of Sūkta 139; Part/page references to earlier volumes (pp. 66, 71) doubtful; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Ai. Brā./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 72  (PDF 90)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Special Topics of Ṛk 7, continued from p. 71.)* …in the Aitareya Brāhmaṇa:
+
+> येऽङ्गिरा असंस्तेऽङ्गिरसोऽभवन् [?] ।
+
+> *ye 'ṅgirā asaṃste 'ṅgiraso 'bhavan [?] |*
+
+(Ai. Brā. 3-[?] [?].) In the same way, in several other places also, the story is told that the seers called Aṅgirases searched for Agni, who had hidden in a cave, and obtained him.
+
+> समिद्धिर्ह्येतमङ्गिरस इन्धते [?] ।
+
+> *samiddhirhyetamaṅgirasa indhate [?] |*
+
+(Śa. Brā. 1-[?]-[?]-[?] [?].) The Śatapatha Brāhmaṇa describes how the Aṅgirases obtained Agni and how they worshipped him. In the Ṛk at hand, *agniro dhenustvartham eva* [?] — "such a cow is milked only for your worship": this is praise of Agni. The special matters suggested by the word *Aṅgiras* may be seen in the explanation of Ṛ. Saṃ. 1-1-[?].
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly).** *śṛṇuhi* (root *śru śravaṇe*; *loṭ* second person singular, *sip* → *hi*; *śruvaḥ śṛ ca* (Pā. Sū. 3-1-[?]) gives *śṛ*; *śnu*; *hi* is not dropped by the vārttika *saṃyogapūrvāt* [?]; *vā vacanam* …; *tiṅanta nighāta*), *īḷitaḥ* (root *īḍa stutau*; *niṣṭhā* [*kta*] in the passive; *iḍāgama*; final-syllable accent), *bravasi* (root *brūñ vyaktāyāṃ vāci*; *leṭ* second person singular *sip*; *leṭo 'ṭāṭau* gives *aṭ*; *ādiprabhṛtibhyaḥ śapaḥ*; *guṇa*; *vaḥ*-substitution; *nighāta*), *yajñiyebhyaḥ* (*yajñāya arhāḥ*; *yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-[?]) *gha* in the sense of "worthy"; *gha* → *iya* by *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* (Pā. Sū. 7-1-[?]); *yasyeti ca* drops the *a*; first-syllable accent), *devāḥ* (root *divu*, used in the sense of lustre; *nandigrahapacādibhyo 'c*; *laghūpadhaguṇa*; vocative plural; *āmantrita nighāta*) …
+
+### Printed p. 73  (PDF 91)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 7, continued; noted briefly).** *adattana* (root *dudāñ dāne*; *laṅ* second person plural; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-[?]) with the Vedic *tana*; as *yad* is connected, *nighāta* is barred by *nipātair yadyadi…* (Pā. Sū. 8-1-[?]); the *aḍāgama* is *udātta*, so first-syllable accent), *duhre* (root *duha prapūraṇe*; *laṭ* third person singular, *ta*; *liṭastajhayor eśirec* (Pā. Sū. 3-4-[?]) *irec*; *bahulaṃ chandasi*…; as a *tiṅanta* follows, *nighāta*), *kartarī* (root *ḍukṛñ karaṇe*; *tṛc* in the agent sense; *guṇa*; locative singular *ṅi*; *ṛto ṅisarvanāmasthānayoḥ* [?] gives *guṇa* with *r*; *tṛc* is *cit*: final-syllable accent), *sacā* (root *saca samavāye*; *dhātvādeḥ ṣaḥ saḥ*; *kvip* by *kvip ca*; *supāṃ sulak…* gives *ā*), *vede* (root *vida jñāne*; *laṭ* third person singular; *vido laṭo vā* (Pā. Sū. 3-4-[?]) *ṇal*-substitution; *pugantalaghūpadhasya ca* guṇa; *tiṅanta nighāta*). ‖ 7 ‖
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> मो षु वो अस्मदभि तानि पौंस्या सना भूवन्द्युम्नानि मोत जारिषुरस्मत्पुरोत जारिषुः ।
+> यद्वश्चित्रं युगेयुगे नव्यं घोषादमर्त्यम् ।
+> अस्मासु तन्मरुतो यच्च दुष्टरं दिद्धृता यच्च दुष्टरम् ॥ ८ ॥
+
+> *mo ṣu vo asmadabhi tāni pauṃsyā sanā bhūvandyumnāni mota jāriṣurasmatpurota jāriṣuḥ |*
+> *yadvaścitraṃ yugeyuge navyaṃ ghoṣādamartyam |*
+> *asmāsu tanmaruto yacca duṣṭaraṃ diddhṛtā yacca duṣṭaram ‖ 8 ‖*
+
+### Printed p. 74  (PDF 92)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Gist, mine: Maruts, may your mighty powers never work against us; may our wealth and towns never decay; whatever is wonderful and immortal of yours, and whatever is hard to win, set in us.)*
+
+**॥ पदपाठः ॥**
+
+> मो इति । सु । वः । अस्मत् । अभि । तानि । पौंस्या । सना । भूवन् । द्युम्नानि । मा । उत । जारिषुः । अस्मत् । पुरा । उत । जारिषुः ।
+> यत् । वः । चित्रम् । युगेऽयुगे । नव्यम् । घोषात् । अमर्त्यम् ।
+> अस्मासु । तत् । मरुतः । यत् । च । दुष्टरम् । दिद्धृत । यत् । च । दुष्टरम् ॥ ८ ॥
+
+> *mo iti | su | vaḥ | asmat | abhi | tāni | pauṃsyā | sanā | bhūvan | dyumnāni | mā | uta | jāriṣuḥ | asmat | purā | uta | jāriṣuḥ |*
+> *yat | vaḥ | citram | yuge 'yuge | navyam | ghoṣāt | amartyam |*
+> *asmāsu | tat | marutaḥ | yat | ca | duṣṭaram | diddhṛta | yat | ca | duṣṭaram ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the Āśvalāyana citation, then the bhāṣya. Gist: *Maruts, may your powers never turn against us nor our wealth and towns decay; set in us what is wonderful, ever new, immortal and hard to win.* Very small type; read only in part, doubtful words marked)
+
+> मो षु वो अस्मदिति पृष्ठितियाज्या । सूत्रितं च । मो षु वो अस्मदभि तानि पौंस्या षू णो अग्ने । आ. [?] । इति ॥
+
+> *mo ṣu vo asmaditi pṛṣṭhitiyājyā | sūtritaṃ ca | mo ṣu vo asmadabhi tāni pauṃsyā ṣū ṇo agne | ā. [?] | iti ‖*
+
+> हे मरुतः वो युष्मत्सम्बन्धीनि तानि प्रसिद्धानि पौंस्या पौंस्यानि बलानि सना सदातनानि नित्यानि द्युम्नानि प्रकाशकयुक्तानि [?] । यद्वा । सना सम्भजनीयानि द्युम्नानि धनवन्ति यशोवन्ति वा [?] । मत्सङ्घातीयो [?] … । मो इति निपातद्वयसमुदायः [?] । अस्माकं नो [?] अभि भूवन् [?] सुष्ठु मा भूवन् । यद्वा । अस्मत्सकाशादभि मा भूवन् । उत अपि च । यद्वा । द्युम्नानि धनानि यशांसि वास्मदीयानि मा जारिषुः । क्षीणानि मा भूवन् । उतापि चास्मत्पुरा पुराणि लक्षणया तत्स्थाः प्राणिनो मा जारिषुः । जीर्णा नष्टा मा भूवन् । किञ्च वो युष्मत्सम्बन्धि चित्रं चायनीयं नानाविधं नव्यं नूतनं स्तोतव्यं वा अमर्त्यमरणधर्मकं [?] मर्त्येषु दुर्लभं यत् … घोषाद्घोषात् [?] शब्दोपेताः गवादयो घोषोपलक्षितः ग्रामः [?] नगरादयो वा ये सन्ति तैः सर्वं युगे युगे युगभेदोपलक्षिते काले [?] अस्मास्वेव भवत्विति शेषः । नान्यस्य । किञ्च हे मरुतः यच्च दुस्तरं दुःखेन तरणीयं सम्पादनीयं धनं दिद्धृत धारयत तदस्मासु [?] । किञ्च दुस्तरं शत्रुभिरुत्संपीडितं तद्धनमपि विशेषेणास्मासु स्थापयत ॥
+
+> *he marutaḥ vo yuṣmatsambandhīni tāni prasiddhāni pauṃsyā pauṃsyāni balāni sanā sadātanāni nityāni dyumnāni prakāśakayuktāni [?] | yadvā | sanā sambhajanīyāni dyumnāni dhanavanti yaśovanti vā [?] | matsaṅghātīyo [?] … | mo iti nipātadvayasamudāyaḥ [?] | asmākaṃ no [?] abhi bhūvan [?] suṣṭhu mā bhūvan | yadvā | asmatsakāśādabhi mā bhūvan | uta api ca | yadvā | dyumnāni dhanāni yaśāṃsi vāsmadīyāni mā jāriṣuḥ | kṣīṇāni mā bhūvan | utāpi cāsmatpurā purāṇi lakṣaṇayā tatsthāḥ prāṇino mā jāriṣuḥ | jīrṇā naṣṭā mā bhūvan | kiñca vo yuṣmatsambandhi citraṃ cāyanīyaṃ nānāvidhaṃ navyaṃ nūtanaṃ stotavyaṃ vā amartyamaraṇadharmakaṃ [?] martyeṣu durlabhaṃ yat … ghoṣādghoṣāt [?] śabdopetāḥ gavādayo ghoṣopalakṣitaḥ grāmaḥ [?] nagarādayo vā ye santi taiḥ sarvaṃ yuge yuge yugabhedopalakṣite kāle [?] asmāsveva bhavatviti śeṣaḥ | nānyasya | kiñca he marutaḥ yacca dustaraṃ duḥkhena taraṇīyaṃ sampādanīyaṃ dhanaṃ diddhṛta dhārayata tadasmāsu [?] | kiñca dustaraṃ śatrubhirutsaṃpīḍitaṃ taddhanamapi viśeṣeṇāsmāsu sthāpayata ‖*
+
+**Pratipadārtha (Kannada).** *(he) marutaḥ* — O Maruts; *vaḥ* — your; *tāni* — those well-known; *pauṃsyā* — powers (strengths, capabilities); *sanā* — that last for ever (without decay); (and) *dyumnāni* — shining (excellent) [or: *sanā* — fit to be obtained; *dyumnāni* — that make wealth or fame]; (those powers of yours) *asmat* — us; *abhi mo ṣu bhūvan* — may they not turn against us (or: may they not leave us) [?]; *uta* — and; (*dyumnāni*) — our wealth or fame; *mā jāriṣuḥ* — let it not decay; *uta* — and; *asmat* — our; *purā* — towns (or the people and creatures in them); (*mā*) *jāriṣuḥ* — let them not perish; (and) *vaḥ* — yours (made for you); *yat citram* — whatever of many kinds, wonderful; *navyam* — new (or praiseworthy); *amartyam* — a thing hard to find among mortals; *yat* — whichever; *ghoṣāt* — [of the creatures that sound] and the people also; *tat* — that thing; *yuge yuge* — in every age; *asmāsu* — may it be among us (*asmāsu*; O) *marutaḥ* — Maruts; *dustaram* — hard to obtain, to be won with great effort; *yat ca* — whatever wealth there is; *didhṛtā* — set it in us (make us hold it); (and) *dustaram* — that cannot be taken by foes; *yat ca* — whatever things there are (make them dwell in us).
+
+### Printed p. 75  (PDF 93)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Bhāvārtha.** O Maruts, may your well-known powers of protection not harm us. May our wealth not decay. May our towns (and the people and animals in them) not perish. Whatever is wonderful, excellent and imperishable, may it always be with us, with the creatures that make sound and with us men. May wealth that must be won with great hardship, and that cannot be taken by foes, remain with us.
+
+**English Translation (as printed).** Never, Maruts, may your glorious energies be exerted against us; may our (riches) never diminish: never may our towns decay: and may whatever is wonderful, admirable, immortal, or (whatever is recognized to be living), from its sound, that has been yours from age to age, (devolve) upon us; whatever is most difficult (of attainment) bestow upon us; whatever is most difficult (to be attained).
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo asmat* too is to be recited as a *pṛṣṭhitayājyā* mantra, as the Āśvalāyana Śrautasūtra sets out by the sūtra मो षु वो अस्मदभि तानि पौंस्या षू णो अग्ने (*mo ṣu vo asmadabhi tāni pauṃsyā ṣū ṇo agne*) (Āś. [?]-[?]).
+
+***vaḥ tāni pauṃsyā.*** *Yuṣmatsaṃbandhīni balāni* — "your well-known powers": the collective power of the Maruts is praised (continued on p. 76).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–75 done: Ṛks 1–7 complete; Ṛk 8 through printed English; Special Topics begun). Next: printed p. 76 (PDF 94) — Special Topics of Ṛk 8 continued, grammar, then Ṛks 9–11 to finish the sūkta (11 Ṛks). Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–8 largely unread; Ṛk 8 bhāṣya p. 74 partly read); Varga numerals of Sūkta 139; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Ai. Brā./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
