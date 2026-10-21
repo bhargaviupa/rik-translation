@@ -1666,4 +1666,78 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–62 done: Ṛks 1–4 complete; Ṛk 5 through printed English and the Special Topics, *śacīvasū*, *mā upadasat*, *naktam* begun). Next: printed p. 63 (PDF 81) — *naktam* continued, rest of Special Topics, grammar of Ṛk 5, then Ṛk 6. **Images:** /tmp/v11a holds PDF 33–80 only; recrop 81 onward: `python3 publish/tools/pageprep/crop_pages.py Rig_Vol11.pdf 81 110 /tmp/v11a --dpi 120`. Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–5 largely unread); Varga numerals of Sūkta 139; Śa. Brā./Tai. Saṃ. quotations on p. 62 are garbled in places; all numerals of Ni./Ṛg/Śa. Brā./Tai. Saṃ.; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 63  (PDF 81)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Special Topics of Ṛk 5, concluded from p. 62.)* …The Bṛhaddevatā authors also (give the sense of *nakta*):
+
+> तमसु उच्छ्त्यषा नक्तानक्त्येमां हिमबिन्दुभिः [?] ।
+> अपि व्यक्त्यक्ति वर्णेनी नक्तं पूर्वाञ्जेर्लीन भवेत् [?] ॥
+
+> *tamasu ucchtyaṣā naktānaktyemāṃ himabindubhiḥ [?] |*
+> *api vyaktyakti varṇenī naktaṃ pūrvāñjerlīna bhavet [?] ‖*
+
+(Bṛ. De. [?]-[?].) They say that night has the synonym *nakta* either because it smears the world with drops of dew, or because its colour is indistinct.
+
+***mā upa dasat.*** *Das* is the negative of a root *das* meaning "to waste away"; "let it not diminish" is the sense — "let it go on without decrease".
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *śacībhiḥ* (read among the *rājan* words [?], hence ending in *jin*… [?]; accent by *iṣṭī…* [?] (Pā. Sū. 6-1-[?]) final-syllable; instrumental plural), *śacīvasū* (*āmantritasya ca* (Pā. Sū. 8-1-[?]) *nighāta*; vocative dual), *daśasyatam* (root *daśa dāne*, read among the *puṣādi* [?]; Vedic form of the wished-for sense; or the root *daśasya* used in the sense of giving, *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-[?]) *yak* in its own sense; *loṭ* second person dual; *tiṅanta nighāta*), *rātiḥ* (root *rā dāne*; *ktic ktau ca saṃjñāyām* (Pā. Sū. 3-3-[?]) *ktic*; final-syllable accent), *dasat* (root *dasu upakṣaye*; as it is in the *puṣādi* class, *luṅ* third person singular *tip*; *iteś ca lopaḥ*; *puṣādidyutādi…* (Pā. Sū. 3-1-[?]) *aṅ* for *cli*; *na māṅyoge* (Pā. Sū. 6-4-[?]) bars the *āṭ* augment; the word following a non-*tiṅanta*, *nighāta*). ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> वृषन्निन्द्र वृषपाणास इन्दव इमे सुता अद्रिषुतास उद्भिदस्तुभ्यं सुतास उद्भिदः ।
+> ते त्वा मन्दन्तु दावने महे चित्राय राधसे ।
+> गीर्भिर्गिर्वाहः स्तवमान आ गहि सुमृळीको न आ गहि ॥ ६ ॥
+
+> *vṛṣannindra vṛṣapāṇāsa indava ime sutā adriṣutāsa udbhidastubhyaṃ sutāsa udbhidaḥ |*
+> *te tvā mandantu dāvane mahe citrāya rādhase |*
+> *gīrbhirgirvāhaḥ stavamāna ā gahi sumṛḷīko na ā gahi ‖ 6 ‖*
+
+### Printed p. 64  (PDF 82)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Gist, mine: Indra, these pressed Soma juices, pressed with stones, are for you; may they please you for great and wonderful wealth; come to us, praised, and gracious.)*
+
+**॥ पदपाठः ॥**
+
+> वृषन् । इन्द्र । वृषऽपाणासः । इन्दवः । इमे । सुताः । अद्रिऽसुतासः । उत्ऽभिदः ।
+> तुभ्यम् । सुतासः । उत्ऽभिदः ।
+> ते । त्वा । मन्दन्तु । दावने । महे । चित्राय । राधसे ।
+> गीःऽभिः । गिर्वाहः । स्तवमानः । आ । गहि । सुऽमृळीकः । नः । आ । गहि ॥ ६ ॥
+
+> *vṛṣan | indra | vṛṣa 'pāṇāsaḥ | indavaḥ | ime | sutāḥ | adri 'sutāsaḥ | ut 'bhidaḥ |*
+> *tubhyam | sutāsaḥ | ut 'bhidaḥ |*
+> *te | tvā | mandantu | dāvane | mahe | citrāya | rādhase |*
+> *gīḥ 'bhiḥ | girvāhaḥ | stavamānaḥ | ā | gahi | su 'mṛḷīkaḥ | naḥ | ā | gahi ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; first the Āśvalāyana citation of the use of the Ṛk, then the bhāṣya. Gist: *Indra, these pressed, stone-pressed Soma juices are for you; may they please you for great and varied wealth; come, praised by our hymns, and be gracious.* Small type; doubtful words marked)
+
+> पृष्ठ्यस्य षष्ठेऽहनि प्रउगशस्त्रे ऐन्द्रे तृचे तृतीया वृषन्निन्द्रेत्येषा । वृषन्निन्द्र वृषपाणास इन्दवः सुषुमा यातमद्रिभिः [?] । आ. [?] इति । तत्रैव सवने पृष्ठ्यस्तोत्रे [?] … सूत्रितं च । पृष्ठ्यस्य प्रातःसवने पृष्ठितयाज्यानां पुरस्ताद्विन्या [?] … आ. [?] इति ॥
+
+> *pṛṣṭhyasya ṣaṣṭhe 'hani praugaśastre aindre tṛce tṛtīyā vṛṣannindretyeṣā | vṛṣannindra vṛṣapāṇāsa indavaḥ suṣumā yātamadribhiḥ [?] | ā. [?] iti | tatraiva savane pṛṣṭhyastotre [?] … sūtritaṃ ca | pṛṣṭhyasya prātaḥsavane pṛṣṭhitayājyānāṃ purastādvinyā [?] … ā. [?] iti ‖*
+
+> हे इन्द्र वृषन् वर्षितः कामानां इमे पुरतो दृश्यमानाः इन्दवः सोमाः सुताः [?] त्वदर्थमभिषुताः । कीदृक्शाः । वृषपाणासः अभिमतवर्षकेण त्वया पातव्याः । अद्रिसुतासः अद्रिभिर्ग्रावभिः सुताः उद्भिदः उद्भेदिका वर्षस्य [?] … तुभ्यं सुतासः सुताः … उद्भिदः … ते एव [?] … ते सोमास्त्वां मन्दन्तु तर्षयन्तु [?] । दावने दानवते [?] … महे महते चित्राय चायनीयाय नानाविधाय वा राधसे धनाय । किञ्च हे गिर्वाहः गिरां स्तुतीनामस्मदीयानां वोढः । वहिहाधाङ्भ्यश्छन्दसि [?] । गीर्भिरस्मत्स्तुतिभिः स्तवमानः सन् आ गहि आगच्छ । नोऽस्मान् सुमृळीकः सुष्ठु मृडयिता सन् आ गहि आगच्छ ॥
+
+> *he indra vṛṣan varṣitaḥ kāmānāṃ ime purato dṛśyamānāḥ indavaḥ somāḥ sutāḥ [?] tvadarthamabhiṣutāḥ | kīdṛkśāḥ | vṛṣapāṇāsaḥ abhimatavarṣakeṇa tvayā pātavyāḥ | adrisutāsaḥ adribhirgrāvabhiḥ sutāḥ udbhidaḥ udbhedikā varṣasya [?] … tubhyaṃ sutāsaḥ sutāḥ … udbhidaḥ … te eva [?] … te somāstvāṃ mandantu tarṣayantu [?] | dāvane dānavate [?] … mahe mahate citrāya cāyanīyāya nānāvidhāya vā rādhase dhanāya | kiñca he girvāhaḥ girāṃ stutīnāmasmadīyānāṃ voḍhaḥ | vahihādhāṅbhyaśchandasi [?] | gīrbhirasmatstutibhiḥ stavamānaḥ san ā gahi āgaccha | no 'smān sumṛḷīkaḥ suṣṭhu mṛḍayitā san ā gahi āgaccha ‖*
+
+### Printed p. 65  (PDF 83)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Pratipadārtha (Kannada).** *vṛṣan* — O showerer of desired things; *indra* — O Indra; *indavaḥ* — flowing; *vṛṣapāṇāsaḥ* — to be drunk by you, who grant what is wished; *udbhidaḥ* — that cause rain to fall; *adriṣutāsaḥ* — that are pressed and ground with stones; *ime* — these Soma juices; *sutāḥ* — have been pressed; *udbhidaḥ* — these Soma plants grown on mountains and the like; *tubhyam* — for you; *sutāsaḥ* — have been pressed and made ready; *te* — these juices; *dāvane* — at sacrificial times rich in gifts; *mahe* — great; *citrāya* — and of many kinds; *rādhase* — for the gain of wealth; *tvā* — you; *mandantu* — may they satisfy; *girvāhaḥ* — Indra, bearer of praise; *gīrbhiḥ* — by our hymns; *stavamānaḥ* — being praised; *ā gahi* — come (be gracious); *naḥ* — us; *sumṛḷīkaḥ* — giving us happiness; *ā gahi* — come here.
+
+**Bhāvārtha.** O showerer of desired things, Indra, these Soma juices that flow, are to be drunk by you, the giver of what is wished, help to make rain fall, and are pressed and ground with stones, have been pressed. These Soma plants grown on the mountains have been pressed and made ready for you. At times of sacrifice rich in gifts, may these juices satisfy you, for the gain of great and manifold wealth. O Indra, bearer of praise, come, praised by our hymns. Come here, making us happy.
+
+**English Translation (as printed).** Indra, showerer (of blessings) these effused juices, (expressed) by stones and which have sprung (from mountain plants), are for your drinking; these libations have burst forth for you: may they satisfy you as an offering presented (in the hope of receiving) great and wonderful riches. Accepter of laudations, come to us, glorified by our hymns; come to us well pleased.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+On the sixth day of the sacrifice called *Pṛṣṭhya-ṣaḍaha*, when the *Praüga-śastra* mantras are recited, a *tṛca* (three Ṛks) relating to Indra must be recited; the Āśvalāyana Śrautasūtra says so in the sūkta वृषन्निन्द्र वृषपाणास सुषुमा यातमद्रिभिः [?] (*vṛṣannindra vṛṣapāṇāsa suṣumā yātamadribhiḥ [?]*) (Āś. [?]-[?]); and at the morning pressing of the same sacrifice, before the *pṛṣṭhitayājyā* mantra is recited, the *hotṛ* priest joins this Ṛk with other Ṛks … (continues on p. 66).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–65 done: Ṛks 1–5 complete; Ṛk 6 through printed English and the start of its Special Topics). Next: printed p. 66 (PDF 84) — Special Topics of Ṛk 6 continued, grammar, then Ṛk 7. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–6 largely unread); Varga numerals of Sūkta 139; Bṛ. De. quotation on p. 63 and Āśvalāyana citation on p. 64 garbled in places; all Ni./Ṛg/Bṛ. De./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
