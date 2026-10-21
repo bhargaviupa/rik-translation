@@ -7500,4 +7500,184 @@ As to metre there is no such restriction. The sūktas 1-13; 1-188; 5-5 and 9-5 [
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–289 done (Anukramaṇī and Anuvāda; Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English; Special Topics begun at the foot of p. 289, to continue on p. 290). Next: printed p. 290 (PDF 308). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284 read at low confidence; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 290  (PDF 308)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+*(Continuation of the Special Topics of Ṛk 1 on the use of the sūkta in the Āgnimāruta-śastra.)*
+
+He also cites the authority of the Āśvalāyana Śrauta-sūtra (5-30 [?]). It is well known as the *nivid* mantra of Jātavedas. Since the *vaiśvānara-nivid* mantra is a part of the Āgnimāruta-śastra, [the Sūtra] has said, to give it its due place, *jātavedasyanividdhānīyam* ("it is to be employed as the *nivid* of Jātavedas"). Of these, —
+
+> प्र वैश्वानराय पृथुपाजसे विपो रत्ना विधन्त धरुणेषु गातवे ।
+> अग्निर्हि देवाँ अमृतो दुवस्यत्यथा धर्माणि सनता न दूदुषत् ॥
+
+> *pra vaiśvānarāya pṛthupājase vipo ratnā vidhanta dharuṇeṣu gātave |*
+> *agnirhi devā~ amṛto duvasyatyathā dharmāṇi sanatā na dūduṣat ‖*
+
+(Ṛ. Saṃ. 3-3-1.) the sūkta beginning with this Ṛk relates to Vaiśvānara Agni. The present sūkta, and
+
+> आपो हि ष्ठा मयोभुवस्ता न ऊर्जे दधातन । महे रणाय चक्षसे ॥
+
+> *āpo hi ṣṭhā mayobhuvastā na ūrje dadhātana | mahe raṇāya cakṣase ‖*
+
+(Ṛ. Saṃ. 10-9-1.) the sūkta beginning with this Ṛk and the next two sūktas relate to the Agni called Jātavedas.
+
+The story that is the cause (*hetubhūta*) of this Āgnimāruta and is its old tale is told in both the Aitareya Brāhmaṇa and the Śatapatha Brāhmaṇa. In the two there is a slight difference in the narration; so the two are explained separately here. Of these, the original story of the Vaiśvānara-related Āgnimāruta hymn is given in the Aitareya Brāhmaṇa thus —
+
+> वैश्वानरीयेणाग्निमारुतं प्रतिपद्यते वैश्वानरो वा एतद्रेतः सिक्त्वा [?] प्राच्यावयत्तस्माद्वैश्वानरीयेणाग्निमारुतं प्रतिपद्यते ।
+
+> *vaiśvānarīyeṇāgnimārutaṃ pratipadyate vaiśvānaro vā etadretaḥ siktvā [?] prācyāvayattasmādvaiśvānarīyeṇāgnimārutaṃ pratipadyate |*
+
+(Ai. Brā. 3-23 [?].) "Vaiśvānara made the seed that was poured fall away eastwards (?), therefore with the Vaiśvānara (hymn) the Āgnimāruta is begun" — thus, the sentence suggests the background of the sūktas' recitation, and that preceding context is this:
+
+> प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद् दिवमित्यन्य आहुरुषसमित्यन्ये तामृश्यो भूत्वा रोहितं भूतामभ्यैत् तं देवा अपश्यन्नकृतं वै प्रजापतिः करोतीति ते तमैच्छन् य एनमारिष्यत्येतमन्योऽस्मिन्नविन्दन्नेषां या एव घोरतमास्तन्वः आसन् ता एकधा समभरन् संभृता एष देवोऽभवत् तस्मा एतद्रूपमभवत् [?]
+
+> *prajāpatirvai svāṃ duhitaramabhyadhyāyad divamityanya āhuruṣasamityanye tāmṛśyo bhūtvā rohitaṃ bhūtāmabhyait taṃ devā apaśyannakṛtaṃ vai prajāpatiḥ karotīti te tamaicchan ya enamāriṣyatyetamanyo 'sminnavindanneṣāṃ yā eva ghoratamāstanvaḥ āsan tā ekadhā samabharan saṃbhṛtā eṣa devo 'bhavat tasmā etadrūpamabhavat [?]*
+
+(Ai. Brā. 3-33 [?]; partly legible, given as read.) On one occasion Prajāpati looked at his own daughter with desire, and, in the form of a roe-stag (*ṛśya*), approached her, she having become a doe (*rohit*); the Gods perceived this and said, "Prajāpati is doing what has not been done"; they sought one who would punish him; they could not find one in another; they gathered the most terrible bodies of themselves into one; thus gathered this god (Bhūtapati) came into being. Seeing it, the Kannada continues: the gods commanded him to punish Prajāpati. …
+
+---
+
+### Printed p. 291  (PDF 309)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+… [They said:] "He is to be punished; and the form he has taken is fearful; let it be a union of the most terrible forms of all", and so they made this *bhūta* (being) of the gathered fearful bodies. Him, as lord of beings (Bhūtapati), —
+
+> तं देवा अब्रुवन्नयं वै प्रजापतिरकृतमकरिमं विध्येति स तथेत्यब्रवीत्स वै वो वरं वृणा इति वृणीष्वेति स एतमेव वरमवृणीत पशूनामाधिपत्यं तदस्यैतत्पशुमन्नाम ।
+
+> *taṃ devā abruvannayaṃ vai prajāpatirakṛtamakarimaṃ vidhyeti sa tathetyabravītsa vai vo varaṃ vṛṇā iti vṛṇīṣveti sa etameva varamavṛṇīta paśūnāmādhipatyaṃ tadasyaitatpaśumannāma |*
+
+(Ai. Brā. 3-33.) The gods told him, "This Prajāpati has done what is not done; pierce him"; he said "so be it"; "I choose a boon from you"; "choose"; and he chose this very boon, the lordship over animals: that is why he has the name Paśupati. Then, the gods understood Prajāpati's doing, and Bhūtapati took the lordship over the beasts, in the form of a boon, and the gods gave him the consent.
+
+> तमभ्यायत्तात्वा [?] विध्यत् ऊर्ध्व उदस्पप्तत् [?] इते मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव सा यो रोहित्सा रोहिणी यो एवेषुस्त्रिकाण्डा सो एवेषुस्त्रिकाण्डा [?]
+
+> *tamabhyāyattātvā [?] vidhyat ūrdhva udaspaptat [?] ite mṛga ityācakṣate ya u eva mṛgavyādhaḥ sa u eva sā yo rohitsā rohiṇī yo eveṣustrikāṇḍā so eveṣustrikāṇḍā [?]*
+
+(Ai. Brā. 3-33 [?]; partly legible.) Then Bhūtapati, in the form of a three-pointed arrow (*three-pointed arrow* is printed in English in the Kannada text), pierced Prajāpati with his hunting-spear. At once —
+
+> तद्वा इदं प्रजापतेः रेतः सिच्यमानमधावत् तत्रोधं [?] पद्मत्ते [?] देवा अब्रुवन् नैदं प्रजापते रेतो मुषदिति तन्मादुषमभवत् तन्मादुषस्य मादुषत्वं माद्षं ह वै नामैतद्यन्नासुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः [?] ।
+
+> *tadvā idaṃ prajāpateḥ retaḥ sicyamānamadhāvat tatrodhaṃ [?] padmatte [?] devā abruvan naidaṃ prajāpate reto muṣaditi tanmāduṣamabhavat tanmāduṣasya māduṣatvaṃ mādṣaṃ ha vai nāmaitadyannāsuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ [?] |*
+
+(Ai. Brā. 3-33.) At once the seed of Prajāpati began to flow; and the gods, seeing the seed flowing, [said "let it not be lost"] … therefore called *mādhuṣa* [?]; the gods are fond of indirect speech. Then the gods collected the seed into a lake [*sarasa*]; —
+
+> तेन्ग्निना निर्माविधुस्तुप्सुमरुतोऽधून्वस्तेऽग्निर्न प्राच्यावयन्न वैश्वानरेण सर्वान्दहत् [?] सा वैश्वानरो मन्त्रैः प्राच्यावयन्त्यस्य तेद्रेतसः प्रथममुदद्रुप्त तेजसादित्योऽभवत् [?] ……
+
+> *tengninā nirmāvidhustupsumaruto 'dhūnvaste 'gnirna prācyāvayanna vaiśvānareṇa sarvāndahat [?] sā vaiśvānaro mantraiḥ prācyāvayantyasya tedretasaḥ prathamamudadrupta tejasādityo 'bhavat [?] ……*
+
+(Ai. Brā. 3-33 [?]; heavily garbled at this resolution.) The gods then surrounded Agni with that seed, as it were with a lake; they made the Maruts shake it; but Agni could not be moved. Then it was said to be possible by the aid of Vaiśvānara to cause the Maruts to move. Therefore, with the mantra *pra vaiśvānarāya pṛthupājase* (Ṛ. Saṃ. 3-3-1) the Vaiśvānara *nivid* mantra begins, and Vaiśvānara Agni is praised. And —
+
+---
+
+### Printed p. 292  (PDF 310)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+> जातवेदस्यं शंसति । प्रजापतिः प्रजा असृजत ताः सृष्टाः परान्वीभ्यो [?] विवायेनिनिर्वर्तन्त [?] ता अग्निना पर्यगृह्णात् ता अग्निमुपावर्तन्त तेनैवाद्यावृपास्वाप्त्वा [?] सोऽब्रवीज्जाता वै प्रजा अनेनायीमिति तज्जातवेदस्यमभवत्तज्जातवेदसो जातवेदस्त्वम् [?]
+
+> *jātavedasyaṃ śaṃsati | prajāpatiḥ prajā asṛjata tāḥ sṛṣṭāḥ parānvībhyo [?] vivāyeninirvartanta [?] tā agninā paryagṛhṇāt tā agnimupāvartanta tenaivādyāvṛpāsvāptvā [?] so 'bravījjātā vai prajā anenāyīmiti tajjātavedasyamabhavattajjātavedaso jātavedastvam [?]*
+
+(Ai. Brā. 3-34 [?]; partly legible.) Prajāpati created creatures; those created ran away, scattered; they did not return; then Agni enclosed them all round, and, being enclosed by Agni, they approached Agni. Prajāpati, because his creatures were thus brought back by Agni, gave him the name Jātavedas. Therefore, from the sūkta which begins with the Ṛk *pra tavyasīm* this Agni is praised, hence the Āgnimāruta *nivid* mantra; thus the Kannada concludes the origin of the recitation. The same thing is told in the Śatapatha Brāhmaṇa:
+
+> प्रजापतिर्वै स्वां दुहितरमभ्यध्यायत् । दिवं वोषसं वा मिथुन्येनेयां [?] स्यामिति । तां संबभूव । तद्वै देवानामागस आस । य इत्थं स्वां दुहितरमस्माकं स्वसारं करोतीति । ते ह देवा ऊचुः । योऽयं देवः पशूनामीष्ट एतिसंधं [?] वा अयं चरति य इत्थं स्वां दुहितरमस्माकं स्वसारं करोति विध्यैनमिति तं रुद्रो भूत्वाभ्यायत्य विव्याध तस्य सा रेतः प्रासिञ्चत तदेवेतत् [?] । तस्मादेतद्विणिभ्यां [?] । पिता यस्त्वां दुहितरमधिष्कन् प्रजया रेतः संजग्मानो निषिञ्चत् [?] ॥
+
+> *prajāpatirvai svāṃ duhitaramabhyadhyāyat | divaṃ voṣasaṃ vā mithunyeneyāṃ [?] syāmiti | tāṃ saṃbabhūva | tadvai devānāmāgasa āsa | ya itthaṃ svāṃ duhitaramasmākaṃ svasāraṃ karotīti | te ha devā ūcuḥ | yo 'yaṃ devaḥ paśūnāmīṣṭa etisaṃdhaṃ [?] vā ayaṃ carati ya itthaṃ svāṃ duhitaramasmākaṃ svasāraṃ karoti vidhyainamiti taṃ rudro bhūtvābhyāyatya vivyādha tasya sā retaḥ prāsiñcata tadevetat [?] | tasmādetadviṇibhyāṃ [?] | pitā yastvāṃ duhitaramadhiṣkan prajayā retaḥ saṃjagmāno niṣiñcat [?] ‖*
+
+(Śa. Brā. 1-[?]-[?]-[?] to [?]; partly legible, given as read.) Prajāpati had desire for his own daughter, Heaven or Dawn; she, becoming a doe …; that was a sin of the gods: "who treats his own daughter as our sister?"; the gods said: "this god, lord of the beasts … goes about; pierce him". Rudra, taking the form, assailed him and pierced him; his seed fell. In the same matter —
+
+> पिता यत्स्वां दुहितरमधिष्कन् क्ष्मया रेतः संजग्मानो नि षिञ्चत् ।
+> स्वाध्योऽजनयन् ब्रह्म देवा वास्तोष्पतिं व्रतपां निरतक्षन् ॥
+
+> *pitā yatsvāṃ duhitaramadhiṣkan kṣmayā retaḥ saṃjagmāno ni ṣiñcat |*
+> *svādhyo 'janayan brahma devā vāstoṣpatiṃ vratapāṃ niratakṣan ‖*
+
+(Ṛ. Saṃ. 10-61-7.) In this Ṛk it is said: "the father (Prajāpati), uniting with his own daughter, poured his seed down on the earth" — thus; this mantra became famed as "Agnimāruta". In the Aitareya Brāhmaṇa, the Āgnimāruta śastra, which relates to Jātavedas and is prescribed by the sūkta of the present context, is further described, explaining its efficacy —
+
+---
+
+### Printed p. 293  (PDF 311)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+> जातवेदसे सुनवाम सोममिति जातवेदस्यां पुरस्तात्सूक्तस्य शंसति स्वस्त्ययनं वै जातवेदस्याः स्वस्तये । स्वस्त्ययनमेव तत्कुरुते [?] स्वस्ति संवत्सरस्य पारमश्नुते य एवं वेद ।
+
+> *jātavedase sunavāma somamiti jātavedasyāṃ purastātsūktasya śaṃsati svastyayanaṃ vai jātavedasyāḥ svastaye | svastyayanameva tatkurute [?] svasti saṃvatsarasya pāramaśnute ya evaṃ veda |*
+
+> प्र तव्यसीं नव्यसीं धीतिमग्नय इति जातवेदस्यां प्रति प्रथमेऽहनि प्रथमस्याह्नो रूपं । समानमाग्निमारुतं भवति यज्ञाग्निष्टोमे यद्येयज्ञे [?] समानं क्रियते तत्प्रजा अनु समनन्ति तस्मात्समानमाग्निमारुतं भवति ।
+
+> *pra tavyasīṃ navyasīṃ dhītimagnaya iti jātavedasyāṃ prati prathame 'hani prathamasyāhno rūpaṃ | samānamāgnimārutaṃ bhavati yajñāgniṣṭome yadyeyajñe [?] samānaṃ kriyate tatprajā anu samananti tasmātsamānamāgnimārutaṃ bhavati |*
+
+(Ai. Brā. 3-34 / 3-35 [?]; partly legible.) The Āgnimāruta-śastra, which relates to Jātavedas, is auspicious (*maṅgalātmaka*) and brings peace and well-being, and so on; thus it is described; therefore the greatness of the sūkta in hand is increased.
+
+***apāṃ napāt*** — "*adbhya oṣadhayaḥ, oṣadhibhyo 'gniḥ*" (so on): from the waters the plants, and from the plants Agni is born; so Agni is called the "grandson" (*napāt*) of the waters. Or, *apāṃ na pātayitā* — he who does not cause the waters to fall [?]: in the form of lightning-Agni he "moves in front", and so Sāyaṇa explains this name, showing that derivation. The Nirukta author's explanation of *apāṃ napāt* is, like that of *tanūnapāt*:
+
+> तनूनपादयं त्वेव नाम्ना यच्चेष्ट तनूनम् [?] ।
+> नपादिति प्रजा माहुरमुतोऽस्य च सम्भवात् ॥
+
+> *tanūnapādayaṃ tveva nāmnā yacceṣṭa tanūnam [?] |*
+> *napāditi prajā māhuramuto 'sya ca sambhavāt ‖*
+
+(Bṛ. De. 2-[?].) as *tanūnapāt* got his name because his own son was born from his own body [?], and as in many places it is said, *apāṃ napāt* too has this same explanation. This matter is told fully in the Special Topics of Ṛg Saṃhitā, part 10 [?], Ṛ. Saṃ. 1-[?]-[?]. Now whether the deity *apāṃ napāt* is distinct from Agni or is only Agni is the subject of a dispute. Earlier, in discussing the deity Tanūnapāt in the Āprī-sūkta (Ṛ. Saṃ. 1-142), we cited the Bṛhaddevatā and others and said that the deity is Agni in form; it is also clear that Agni and Apāṃ Napāt are not distinct. Looking at the Ṛks, it appears that in the Ṛks the word *apāṃ napāt* is for some places given as a separate deity from Agni [?], and Agni too (2-[?]; 3-[?]) as an Āprī deity; but it is stated that when the two are combined they are the same deity. According to the Nirukta author, the deity *apāṃ napāt* and the deity Tanūnapāt are one; hence the same sort of explanation tells the nature of two deities. In the present context, it must be considered in which place the deity *apāṃ napāt* occurs in the Ṛk. In the sūktas to the Viśvedevas the deity *apāṃ napāt* is seen to be (referred to in) many *ārabdha* [?] places.
+
+---
+
+### Printed p. 294  (PDF 312)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+> प्र नः पूषा चरथं विश्वदेव्योऽपां नपादवतु वायुरिष्टये ।
+> आत्मानं वस्यो अभि वातमर्चत तदश्विना सुहवा यामनि श्रुतम् ॥
+
+> *pra naḥ pūṣā carathaṃ viśvadevyo 'pāṃ napādavatu vāyuriṣṭaye |*
+> *ātmānaṃ vasyo abhi vātamarcata tadaśvinā suhavā yāmani śrutam ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) In this Ṛk Pūṣan, then Apāṃ Napāt, are prayed for, among the Viśvedevas. In the third Ṛk of this sūkta (10-[?]-3) Agni is praised as the increaser of the sacrifice. In the second Maṇḍala, Ṛks in the sūkta 2-[?]-[?] say *ajaikapāt*, *ahirbudhnya*, *samudra*, *apāṃ napāt* and *pṛśni*; these deities are taken together; and in the first Ṛk of the same, Indra and Agni; and in the fourth Ṛk, Agni. In the Ṛk of the earlier sūkta, 2-[?]-[?], *apāṃ napāt* and Agni, and of the 3rd Ṛk and the 2nd, *apāṃ napāt* as protector and Mitra as well are mentioned [?]. In the seventh Maṇḍala, in the sūkta 7-[?]-[?], in the 2nd Ṛk with *apāṃ napāt* other deities are invoked; and in the 4th Ṛk and in the 2nd Agni is prayed for. In this way, in 2-[?] and in 7-[?] sūktas, both Agni and Apāṃ Napāt are mentioned separately. In none of these Ṛks is it found that Agni and Apāṃ Napāt are one deity. In the whole of the sūkta 2-[?], *apāṃ napāt* is the sole deity; only in the [?]th Ṛk is Agni addressed; from there to the end no Ṛk names Agni; yet it must be interpreted as being about Agni; only the 2nd and 4th Ṛks are explicit (…); even there the description does not make Agni evident. Taking these examples, the scholar Bloomfield has given his opinion thus —
+
+"While Agni became more and more conspicuous, Apam Napat seems to have waned in popularity, until he was so far forgotten that a confusion arose concerning the two uses of the expression (अपां नपात्) and Apam Napat, "the son of the waters" was swallowed up in Agni, a "son of the waters" as he was occasionally (twice in the Rik) called, since he too, because of his original lightning nature, was supposed to have been born of the rain-clouds. To the same source is to be traced the myth of his hiding in the waters, for this myth probably had no connection originally with Apam Napat, beyond the mere fact that both he and Agni were forms of lightning which, appearing when the thunderstorm was at its height, seemed to disappear in the clouds from which they came.
+
+The conclusion seems to be warranted, therefore, that Agni and Apam Napat were once distinct Gods—Gods, of the lightning, who were, however, associated with each other and
+
+---
+
+### Printed p. 295  (PDF 313)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+were much alike in certain particulars, and that this association, and resemblance ultimately resulted, possibly at the close of the Vedic Period, in a confusion and Union of the two, as a result of which Apam Napat was absorbed by Agni."
+
+(Journal of American Oriental Society. Vol. XIX. (2) p. 144. — English as printed.)
+
+***tavyasīm*** — तवीयसीमतिशयेन वर्धयित्रीं तवतिर्वृद्ध्यर्थः (*tavīyasīmatiśayena vardhayitrīṃ tavatirvṛddhyarthaḥ*): "the one who increases exceedingly; the root *tavati* has the sense of growth"; it is an epithet of *dhītim*, "giving strength" or "bringing about growth"; so too *matim*. For instance,
+
+> स शेवृधमधि धा द्युम्नमस्मे महि क्षत्रं जनाषाळिन्द्र तव्यम् ।
+> रक्षा च नो मघोनः पाहि सूरीन्राये च नः स्वपत्या इषे धाः ॥
+
+> *sa śevṛdhamadhi dhā dyumnamasme mahi kṣatraṃ janāṣāḷindra tavyam |*
+> *rakṣā ca no maghonaḥ pāhi sūrīnrāye ca naḥ svapatyā iṣe dhāḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) in this Ṛk *tavyam kṣatram* has the sense of "strength" (*balam*) and "possessing power" (*prabhūta*, *śaktiyukta*), both meanings being indicated.
+
+***dhītim*** — यागफलानामुत्कृष्टगुणकं कर्म (*yāgaphalānāmutkṛṣṭaguṇakaṃ karma*): "an act that has the excellent quality of the fruits of sacrifice"; the sacrificial act, the one in the form of sacrifice. *Dhīti* has two meanings, *karma* and *prajñā*. [In the Nirukta it is read among names of action, Ni. 2-[?], and among names of intelligence]. The Nirukta author, citing two Ṛks in support, —
+
+> इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः ।
+> पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ॥
+
+> *iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ |*
+> *pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivāsema dhītibhiḥ ‖*
+
+(Ṛ. Saṃ. 6-61-2.) in this Ṛk *dhītibhiḥ* is explained as *karmabhiḥ* ("by actions");
+
+> ऋतस्य हि शुरुधः सन्ति पूर्वीरृतस्य धीतिर्वृजिनानि हन्ति ।
+> ऋतस्य श्लोको बधिरा ततर्द कर्णा बुधानः शुचमान आयोः ॥
+
+> *ṛtasya hi śurudhaḥ santi pūrvīrṛtasya dhītirvṛjināni hanti |*
+> *ṛtasya śloko badhirā tatarda karṇā budhānaḥ śucamāna āyoḥ ‖*
+
+(Ṛ. Saṃ. 4-23-8.) in this *dhīti* is explained as *prajñā*. In many places this word is used also in the sense of "praise". In the Ṛk in hand it means "the act that is the sacrifice".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *tavyasīm* (the root *tavati*, formed by the sūtras, is used in the sense of growth; *ṇvultṛcau* (Pā. Sū. 3-1-133): suffix *tṛc*; *[chandasi…]* (Pā. Sū. 5-3-[?]): the suffix *īyasun* after *tṛc*; *turiṣṭhemeyaḥsu* (Pā. Sū. 6-4-154): loss of *tṛc*; *yasyeti ca* drops the *a*; Vedic …) *(continues on p. 296)*.
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–295 done (Anukramaṇī and Anuvāda; Ṛk 1 complete except the end of its grammar, which begins at the foot of p. 295; the Special Topics on the Āgnimāruta-śastra legend (Ai. Brā. and Śa. Brā. passages on Prajāpati and Rudra), *apāṃ napāt* and Bloomfield's remark, *tavyasīm*, *dhītim*). Next: printed p. 296 (PDF 314). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294 and the Brāhmaṇa quotations on pp. 290–293 read at low confidence; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
