@@ -8024,4 +8024,198 @@ Here the *na* is "a word of comparison": "the rays of Āditya, of whom the stren
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–307 done (Anukramaṇī and Anuvāda; Ṛks 1–3 complete with Special Topics and grammar; Ṛk 4 *yam erire bhṛgavaḥ*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the opening of the Special Topics on p. 307, to continue on p. 308). Next: printed p. 308 (PDF 326). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293 read at low confidence; the bhāṣya of Ṛks 3–4 (pp. 302, 306–307) largely unread; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 308  (PDF 326)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+***varuṇo na*** — here the commentator explains the word *varuṇa* as *vāraka*, "the restrainer", i.e. the Āditya. Agni's lordship is compared with the sole lordship of Āditya.
+
+***rājati*** — *rājṛ dīptau* ("to shine"); *rājati* and the like are read among the names of the activity of lordship (*aiśvaryakarma*; Ni. 2-[?]). *Īśvaro bhavati*: he is the lord of all wealth.
+
+> सप्त क्षरन्ति शिशवे मरुत्वते पित्रे पुत्रासो अप्यवीवतन्नृतम् ।
+> उभे इदस्योभयस्य राजत उभे यतेते उभयस्य पुष्यतः ॥
+
+> *sapta kṣaranti śiśave marutvate pitre putrāso apyavīvatannṛtam |*
+> *ubhe idasyobhayasya rājata ubhe yatete ubhayasya puṣyataḥ ‖*
+
+(Ṛ. Saṃ. 10-13-[?].) In this Ṛk the word *rājate* is the illustration, the Nirukta author has shown, of the sense *īśate*, "rules"; here too the sense is the same.
+
+***bhṛgavaḥ, īrire*** — भृगुगोत्रोत्पन्नाः (*bhṛgugotrotpannāḥ*): "sages born in the lineage of Bhṛgu established Agni first in the sacrificial house": this indicates the earlier story.
+
+> अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः ।
+> यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभवं विशेविशे ॥
+
+> *ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ |*
+> *yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhavaṃ viśeviśe ‖*
+
+(Tai. Saṃ. 1-3-[?]-[?].) In such Taittirīya Saṃhitā sentences it is told that the Bhṛgus first established Agni, who is the Hotṛ. In the Ṛk-saṃhitā too —
+
+> दधुष्ट्वा भृगवो मानुषेष्वा रयिं न चारुं सुहवं जनेभ्यः ।
+> होतारमग्ने अतिथिं वरेण्यं मित्रं न शेवं दिव्याय जन्मने ॥
+
+> *dadhuṣṭvā bhṛgavo mānuṣeṣvā rayiṃ na cāruṃ suhavaṃ janebhyaḥ |*
+> *hotāramagne atithiṃ vareṇyaṃ mitraṃ na śevaṃ divyāya janmane ‖*
+
+(Ṛ. Saṃ. 1-58-6.)
+
+> द्विता यदीं कीस्तासो अभिद्यवो नमस्यन्त उपवोचन्त भृगवो मथ्नन्तो दाशा भृगवे ।
+> अग्निरीशे वसूनां शुचिर्यो धर्णिरेषां । प्रियाँ अपिधीर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ॥
+
+> *dvitā yadīṃ kīstāso abhidyavo namasyanta upavocanta bhṛgavo mathnanto dāśā bhṛgave |*
+> *agnirīśe vasūnāṃ śuciryo dharṇireṣāṃ | priyā~ apidhīrvaniṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ ‖*
+
+(Ṛ. Saṃ. 1-1[?]-[?].) In such Ṛks it is said, in many places, that the Bhṛgus, by churning, established Agni in the sacrificial house, and that, again, by Mātariśvan Agni was brought from a far-off place and praised. This context is indicated in the Ṛk in hand also.
+
+---
+
+### Printed p. 309  (PDF 327)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+***bhṛgave*** — भृज्जतो [?] हविषां पाकानां भर्जका वा (*bhṛjjato [?] haviṣāṃ pākānāṃ bharjakā vā*): "those who roast oblations (the cooked), or the roasters of the cooked"; since the Bhṛgus roast the oblations offered (*arpisuvavaru*), or since they remove sin, that is, they destroy sin, this name has been given to these sages by both kinds of power, Sāyaṇa explains. The Nirukta author:
+
+"आर्चिति [?] भृगुः संभूतो भृगुर्भ्रज्यमानो न देहे" (Nirukta 3-[?]),
+
+so, showing the derivation of the word *bhṛgu* ("Bhṛgu, sprung from the flame, was not consumed in the fire": having arisen from fire, he was not burnt in it), that sage is of this name. These two kinds of power, of Agni, are of great help to the sacrificial rites and also to destroying sin. In the Śatapatha Brāhmaṇa —
+
+> अथाङ्गारेभ्यो भृहति [?] । भृगूणामङ्गिरसां तेजसा तस्यैतन्नमुक्ते [?] भृग्वङ्गिरसां तेजसा तेजो यद्भृग्वङ्गिरसां सुकृप्तान्य सन्ति तस्मादेनमभ्यूहति [?] ।
+
+> *athāṅgārebhyo bhṛhati [?] | bhṛgūṇāmaṅgirasāṃ tejasā tasyaitannamukte [?] bhṛgvaṅgirasāṃ tejasā tejo yadbhṛgvaṅgirasāṃ sukṛptānya santi tasmādenamabhyūhati [?] |*
+
+(Śa. Brā. 1-3-[?]-[?]; partly legible.) By such sentences it is said that Bhṛgu and the Aṅgirasas are, by their connection with *vāk* [?], endowed with great radiance; and also —
+
+> अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्य इत्यादि [?]
+
+> *ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍya ityādi [?]*
+
+(Tai. Brā. 3-[?]-[?]-[?]; and Tai. Saṃ. 1-[?]-[?].)
+
+> द्वे अग्नेर्ज्योती [?] । द्विपाद्यजमानो यजमानोऽग्निर्यावान्नग्निर्यावत्यस्य मात्रा तावत्यैवैतद्यज्ञं संस्थापयतीष्टो यज्ञो भृगुभिराहुतोऽग्निरायुः [?] पिपर्ति [?] इति ।
+
+> *dve agnerjyotī [?] | dvipādyajamāno yajamāno 'gniryāvānnagniryāvatyasya mātrā tāvatyaivaitadyajñaṃ saṃsthāpayatīṣṭo yajño bhṛgubhirāhuto 'gnirāyuḥ [?] piparti [?] iti |*
+
+(Śa. Brā. 1-2-[?]-[?]; partly legible.) By such sentences the order in which the Bhṛgus honoured Agni and performed the sacrifice is also described.
+
+***pṛthivyā nābhā bhuvanasya majmanā īrire*** — by this mantra the order in which the Bhṛgus established Agni is told. Here the word *pṛthivyā nābhā* is taken as meaning *uttaravedi*.
+
+> उत्तरं परिग्राहं परि गृह्णात्येतावती वै पृथिवी यावती वेदिस्तस्या एतावत एव ।
+
+> *uttaraṃ parigrāhaṃ pari gṛhṇātyetāvatī vai pṛthivī yāvatī vedistasyā etāvata eva |*
+
+(Tai. Saṃ. 6-2-4-3 [?].) In such Saṃhitā sentences, as is said, *pṛthivī* is the *vedi*; here too it has been given the same sense. Thus on the *vedi* of the earth form, in the strength of all beings, the Bhṛgus established Agni.
+
+---
+
+### Printed p. 310  (PDF 328)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+> यद्वै तेमत्राहरन्ति [?] । योऽन्नै [?] तान्नस्त पुरुषानेकं पुरुषमुकर्वन्नेवैतद्यमेषां [?] … तेद्येतमाहरन्ति [?] । स यो ऽयमग्निश्चितस्ते थ्यो [?] यमेषां शामूर्धाग्ं श्रियै रसग्ं समूहन्त्यन्नेष स यमेतमाहरन्ति तद्यमेतमाहरन्ति येतेषाग्ं सप्तानां पुरुषाणां श्रीर्यो रसस्तमेतदूर्ध्वग्ं समुद्यन्ति तदस्यैतच्छिर आत्मायमग्निश्चित आत्मानमेवास्यैतस्याग्नेः शिरः प्रतिदधाति ॥ [?]
+
+> *yadvai tematrāharanti [?] | yo 'nnai [?] tānnasta puruṣānekaṃ puruṣamukarvannevaitadyameṣāṃ [?] … tedyetamāharanti [?] | sa yo 'yamagniścitaste thyo [?] yameṣāṃ śāmūrdhāgṃ śriyai rasagṃ samūhantyanneṣa sa yametamāharanti tadyametamāharanti yeteṣāgṃ saptānāṃ puruṣāṇāṃ śrīryo rasastametadūrdhvagṃ samudyanti tadasyaitacchira ātmāyamagniścita ātmānamevāsyaitasyāgneḥ śiraḥ pratidadhāti ‖ [?]*
+
+(Śa. Brā. 9-2-3-[?]; garbled at this resolution.) By such mantras it is stated here too that Agni established on the *vedi* has the nature of the *sapta puruṣa* (seven persons), who reflect all beings.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *īrire* (root *īra gatau preraṇe ca*; *liṭ*, third person plural; *liṭas tajhayoḥ* … *irec* (Pā. Sū. 3-4-81): *ire* is the substitute; being after an *ati…* word, the *nighāta* accent), *viśvavedasam* (*viśvaṃ vedo yasya saḥ viśvavedāḥ*, tam; in the *bahuvrīhi* the first member keeps its natural accent), *nābhā* (*supāṃ sulug…* (Pā. Sū. 7-1-39): *ā* replaces the case-ending), *majmanā* (root *ṭumasjo śuddhau*; *ṣoḍaśādika* suffix *manin*; by the suffix-accent first-syllable *udātta*; instrumental singular), *gīrbhiḥ* (root *gṝ śabde*; *kvip ca*: suffix *kvip*; *ṛta iddhātoḥ* (Pā. Sū. 7-1-100): the root vowel becomes *i*, *gir*; *bhis* following: *halī ca* (Pā. Sū. 8-2-77): lengthening of the penultimate), *hinuhi* (root *hi gatau vṛddhau ca*; *loṭ*, second person singular *sip*, *hi*; *svādibhyaḥ śnuḥ*: vikaraṇa *śnu*; *utaś ca pratyayāc chandasi vā vacanam* (Pā. Sū. 6-4-106): *hi* is *luk* [here not]; *sārvadhātukam apit*: since the suffix is *apit* the *guṇa* does not occur; being after an *ati…* word, the *tiṅ*-*nighāta* accent), *vasvaḥ* (the word *vasu*; with a *ṣaṣṭhī* case-ending following, by *jasādiṣu chandasi vā vacanam* the *num* is not added and *guṇa* etc. do not occur; *yaṇ* substitution).
+
+---
+
+### Printed p. 311  (PDF 329)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+*rājati* — the root *rāja* has the meaning of lordship (*aiśvarya*), which is a verb of activity: "*śayati* [?] *rājati*" (Ni. 2-[?]-[?]) is read. *laṭ*, third person singular. Because of the connection with the word *yaḥ* the *nighāta* is prevented by *yadvṛttānnityam* (Pā. Sū. 8-1-66); the root accent remains, since *śap* and *tip* are *pit*. ‖ 4 ‖
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> न यो वराय मरुतामिव स्वनः सेनेव सृष्टा दिव्या यथाशनिः ।
+> अग्निर्जम्भैस्तिगितैरत्ति भर्वति योधो न शत्रून्त्स वना नि ऋञ्जते ॥ ५ ॥
+
+> *na yo varāya marutāmiva svanaḥ seneva sṛṣṭā divyā yathāśaniḥ |*
+> *agnirjambhaistigitairatti bharvati yodho na śatrūntsa vanā ni ṛñjate ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> न । यः । वराय । मरुताम्ऽइव । स्वनः । सेनाऽइव । सृष्टा । दिव्या । यथा । अशनिः ।
+> अग्निः । जम्भैः । तिगितैः । अत्ति । भर्वति । योधः । न । शत्रून् । सः । वना । नि । ऋञ्जते ॥ ५ ॥
+
+> *na | yaḥ | varāya | marutām 'iva | svanaḥ | senā 'iva | sṛṣṭā | divyā | yathā | aśaniḥ |*
+> *agniḥ | jambhaiḥ | tigitaiḥ | atti | bharvati | yodhaḥ | na | śatrūn | saḥ | vanā | ni | ṛñjate ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *The Agni who cannot be checked or restrained, like the roaring of the Maruts, like an army let loose, like a thunderbolt of heaven, consumes with his sharp jaws the forests as a warrior destroys his foes.* Small type, partly legible)
+
+> योऽग्निर्वराय वरणाय निग्रहाय न शक्यो न भवति [?] । तत्र दृष्टान्तैर्योऽ… मरुतां स्वन इव । स यथा ग्राह्यः स्यात् तथा सृष्टा [?] पैरिकार्थं [?] प्रबलेनातिस्पष्टं [?] सेनेव । सा यथा ग्रहणं [?] तथा दिव्या [?] अशनिर्यथा [?] … निवार्यते [?] । अग्निः तीक्ष्णैर्जम्भैर्दन्तस्थानीयाभिज्वालाभिः । अत्ति । अस्मद्विरोधिनो भक्षयति । तथा भर्वति । हिंसति । भर्व हिंसायाम् । यास्कः [?] … भवतिरर्कर्मेति (नि. ३-२१ [?]) । यद्वा [?] … । योधो न योद्धा यथा शत्रून् भक्षयति तद्वत् । किंच [?] सोऽग्निः वनान्यरण्यानि वृक्षादिसमूहान् ऋञ्जते । निकरां प्रसाधयति । दहतीत्यर्थः ॥ ऋञ्जते प्रसाधनकर्मेति यास्कः [?] ॥
+
+> *yo 'gnirvarāya varaṇāya nigrahāya na śakyo na bhavati [?] | tatra dṛṣṭāntairyo '… marutāṃ svana iva | sa yathā grāhyaḥ syāt tathā sṛṣṭā [?] pairikārthaṃ [?] prabalenātispaṣṭaṃ [?] seneva | sā yathā grahaṇaṃ [?] tathā divyā [?] aśaniryathā [?] … nivāryate [?] | agniḥ tīkṣṇairjambhairdantasthānīyābhijvālābhiḥ | atti | asmadvirodhino bhakṣayati | tathā bharvati | hiṃsati | bharva hiṃsāyām | yāskaḥ [?] … bhavatirarkarmeti (ni. 3-21 [?]) | yadvā [?] … | yodho na yoddhā yathā śatrūn bhakṣayati tadvat | kiṃca [?] so 'gniḥ vanānyaraṇyāni vṛkṣādisamūhān ṛñjate | nikarāṃ prasādhayati | dahatītyarthaḥ ‖ ṛñjate prasādhanakarmeti yāskaḥ [?] ‖*
+
+---
+
+### Printed p. 312  (PDF 330)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+**Pratipadārtha (Kannada).** *yaḥ* — which Agni; *marutāṃ svanaḥ iva* — like the roar of the Maruts; *varāya na* — not to be checked (not suppressible); *sṛṣṭā* — let loose (to destroy enemies); *senā iva* — like a mighty army; *divyā* — born in the sky (heaven); *aśaniḥ yathā* — like the thunderbolt; *varāya na* — not to be checked (unobstructible, with a spreading that is unrestrained); *agniḥ* — this Agni; *jambhaiḥ* — with his teeth, sharp; *yodhaḥ* — a warrior; *śatrūn na* — as he destroys enemies; *tigitaiḥ* — with the keen flames that are his teeth; *atti* — (our) enemies; *bhurvati* — destroys, causes loss; (and) *saḥ* — that Agni; *vanā* — the trees of the forests; *ni ṛñjate* — burns up completely.
+
+**Bhāvārtha.** The roar of the Maruts is as unstoppable as, to destroy enemies, a mighty army let loose, or the thunderbolt born in heaven; likewise is the spread of this Agni, unstoppable; as a warrior destroys enemies, so this Agni destroys our enemies with his keen flames that are his teeth; and he burns up the trees of the forests entirely.
+
+**English Translation (as printed).** Agni, who, like the roaring of the winds, like a victorious host, like the thunderbolt in heaven, is not to be arrested, devours and destroys (our foes) with sharpened teeth, and, as a warrior (annihilates his enemies) he, (Agni), lays waste the woods.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk, the unrestrained spreading of Agni's flames is compared with the roar of the Maruts, the speed of a mighty army, and the thunderbolt that is not to be checked; and Agni is said to destroy the enemies as a warrior does, and to consume the trees. It is a description that is frightening in one way, and attractive in another. The same description is noticed, appearing as attractive and frightful, in the Taittirīya Saṃhitā —
+
+---
+
+### Printed p. 313  (PDF 331)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+> तव भ्रमास आशुया पतन्त्यनु स्पृश धृषता शोशुचानः ।
+> तपूंष्यग्ने जुह्वा पतङ्गानसन्दितो वि सृज विष्वगुल्काः ॥
+
+> *tava bhramāsa āśuyā patantyanu spṛśa dhṛṣatā śośucānaḥ |*
+> *tapūṃṣyagne juhvā pataṅgānasandito vi sṛja viṣvagulkāḥ ‖*
+
+(Tai. Saṃ. 4-2-[?]-[?].)
+
+> ऋतावा भर्ता कृष्टीनामुत मध्य इद्वः । साधिमानां [?] कर्देवात्रेतं [?] … स आयुरानत्कुर्वि नासानो भद्राणि भद्रंकर्देवहूतिं नो अद्य ॥
+> अक्रन्दद्ग्निः स्तनयन्निव द्यौः क्षामा रेरिहद्वीरुधः समञ्जन् ।
+> सद्यो जज्ञानो वि हीमिद्धो अख्यदा रोदसी भानुना भात्यन्तः ॥
+
+> *ṛtāvā bhartā kṛṣṭīnāmuta madhya idvaḥ | sādhimānāṃ [?] kardevātretaṃ [?] … sa āyurānatkurvi nāsāno bhadrāṇi bhadraṃkardevahūtiṃ no adya ‖*
+> *akrandadgniḥ stanayanniva dyauḥ kṣāmā rerihadvīrudhaḥ samañjan |*
+> *sadyo jajñāno vi hīmiddho akhyadā rodasī bhānunā bhātyantaḥ ‖*
+
+(Tai. Saṃ. 1-5-[?]-[?]; partly legible.)
+
+> सप्त्रितानसन्नतुरोचनस्ताऽअजरेभिर्नानद्दद्भिर्यविष्ठ [?] ।
+> यः पावकः पुरुतमः पुरूणि पृथून्यग्निरनुयाति भर्वन् ॥
+
+> *saptritānasannaturocanastā 'ajarebhirnānaddadbhiryaviṣṭha [?] |*
+> *yaḥ pāvakaḥ purutamaḥ purūṇi pṛthūnyagniranuyāti bharvan ‖*
+
+(Tai. Saṃ. 4-[?]-[?]-[?]; partly legible.) In such sentences it is the case that Agni, like the roaring of the clouds in the atmosphere, makes a sound; with his radiant flames spreads like beautiful cloth; devours the trees and creepers caught around; and spreads all over with his flames that are the cause of fire in the atmosphere. As described in the Ṛk in hand, such a form of Agni, both attractive and terrible, is shown.
+
+***varāya*** — *varaṇāya*, *nigrahāya* (*na*): "to check, to restrain". The word is derived both from the root *vṛñ* (*varaṇe*) giving the sense "to wish, to choose", and from the root *vṛ* (*āvaraṇe*) giving the sense "to check, to hide"; so it has been used in both meanings.
+
+> यस्ता चकार स कुह स्विदिन्द्रः कमा जनं चरति कासु विक्षु ।
+> कस्ते यज्ञो मनसे शं वराय को अर्क इन्द्र कतमः स होता ॥
+
+> *yastā cakāra sa kuha svidindraḥ kamā janaṃ carati kāsu vikṣu |*
+> *kaste yajño manase śaṃ varāya ko arka indra katamaḥ sa hotā ‖*
+
+(Ṛ. Saṃ. 3-30-[?].) In this Ṛk *varāya* is *tava varaṇāya* ("for choosing you") *kaḥ kīdṛśaḥ arkaḥ mantraḥ samarho bhavati*: "for the choice of you, what mantra will be capable of making you favourable?": the root *vṛñ* gives the sense "to choose, to select". Moreover, in the sūkta 8-44-22 [?], *varāya* is "to the excellent one (*śreṣṭhāya*), to the very self"; the meaning is thus obtained.
+
+> इषा मन्दस्वादु तेऽरं वराय मन्यवे ।
+> भुवत्त इन्द्र शं हृदे ॥
+
+> *iṣā mandasvādu te 'raṃ varāya manyave |*
+> *bhuvatta indra śaṃ hṛde ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].)
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–313 done (Anukramaṇī and Anuvāda; Ṛks 1–4 complete; Ṛk 5 *na yo varāya marutām iva svanaḥ*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the Special Topics through *varāya*, which ends with a quoted Ṛk at the foot of p. 313; the rest of the Ṛk 5 Special Topics and its grammar follow on p. 314). Next: printed p. 314 (PDF 332). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–5 (pp. 302, 306–307, 311) largely unread; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
