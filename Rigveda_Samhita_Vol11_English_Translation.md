@@ -3660,4 +3660,136 @@ In these and similar Ṛks the word *jrayaḥ* is explained as "speed". And agai
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–141 done: Ṛks 1–9 complete; Ṛk 10 through Special Topics, grammar begun on p. 141). Next: printed p. 142 (PDF 160) — grammar of Ṛk 10 concluded; then Ṛks 11–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–10 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg quotations on pp. 125, 133 and 137 only partly legible (Ṛk 9 Special Topics p. 137 Ṛg verse garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 142  (PDF 160)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 10, concluded; noted briefly).** *damūnāḥ* (root *damu upaśame*; suffix *unasi* by *dameḥ ūnasi* (Uṇ. Sū. 4-[?]); the Nirukta is quoted: *damūnā damanā vā dānamanā vā dāntamanā vā api vā dama iti gṛhanāma tanmanāḥ syāt* (Niru. 4-[?]); *avāsya* (root *asu kṣepaṇe* with the prefix *ava*; *samāse 'nañpūrve ktvo lyap* (Pā. Sū. 7-1-37) *lyap*; *pit*, so the root accent remains; *gatikārakopapadāt kṛt* — accent by the *kṛdutarapada-prakṛtisvara*), *adīdeḥ* (root *dīdī dīptau*; by *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *laṅ* in the sense of *loṭ*; second person singular; *tiṅ*, *nighāta*), *yutsu* (root *yu miśraṇāmiśraṇayoḥ*; *kvip* by *kvip ca* (Pā. Sū. 3-2-[?]); *tuk* by *hrasvasya piti kṛti tuk*; locative plural; *sāvekāco* … *tṛtīyādiḥ* (Pā. Sū. 6-1-[?]) accent of the case ending), *parijarbhurāṇaḥ* (root *bhṛ̥ṅ haraṇe*, intensive; *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre*; *yajaloci* gives *luk*; *vyatyayo bahulam* (Pā. Sū. 3-1-85) *śānac*; *ruk rik* of the reduplicate by *rugrikau ca luki* (Pā. Sū. 7-4-91); *abhyastānām ādiḥ*; as a prefix compound, *kṛdutarapada-prakṛtisvara*). Sūtra numbers as printed in small type; those marked [?] not read. ‖ 10 ‖
+
+---
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इदमग्ने सुधितं दुर्धितादधि प्रियादु चिन्मन्मनः प्रेयो अस्तु ते ।
+> यत्ते शुक्रं तन्वो रोचते शुचि तेनास्मभ्यं वनसे रत्नमा त्वम् ॥ ११ ॥
+
+> *idamagne sudhitaṃ durdhitādadhi priyādu cinmanmanaḥ preyo astu te |*
+> *yatte śukraṃ tanvo rocate śuci tenāsmabhyaṃ vanase ratnamā tvam ‖ 11 ‖*
+
+### Printed p. 143  (PDF 161)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+**॥ पदपाठः ॥**
+
+> इदम् । अग्ने । सुऽधितम् । दुःऽधितात् । अधि । प्रियात् । ऊं इति । चित् । मन्मनः ।
+> प्रेयः । अस्तु । ते । यत् । ते । शुक्रम् । तन्वः । रोचते । शुचि । तेन । अस्मभ्यम् । वनसे । रत्नम् । आ । त्वम् ॥ ११ ॥
+
+> *idam | agne | su 'dhitam | duḥ 'dhitāt | adhi | priyāt | ūṃ iti | cit | manmanaḥ |*
+> *preyaḥ | astu | te | yat | te | śukram | tanvaḥ | rocate | śuci | tena | asmabhyam | vanase | ratnam | ā | tvam ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, may this oblation, well placed on hard fuel, be dearer to you than anything dear; with the pure brightness of your body, bring us treasure.* Small type; doubtful words marked)
+
+> हे अग्ने इदमस्मदीयं सोमादिरूपं हविः । कीदृशं तत् । दुर्धितात् दुःस्थापितात् [?] काष्ठादेः अधि उपरि सुधितं सुहितं सुस्थापितं वर्तते । मन्मनः मननीयं [?] प्रियादु चित् यदपि तव प्रियाद्वस्तुनोऽपि [?] … प्रेयः प्रियतरं अस्तु ते तव । … यत्ते तव तन्वः शरीरस्य ज्वालात्मकस्य [?] … शुक्रं शुक्लं निर्मलं शुचि दीप्तं … तेजो रोचते तेन सह रत्नं रमणीयं मणिमुक्तादिकं इतरत् … अस्मभ्यं वनसे त्वमा सम्भजस्व । वनतेर्व्यत्ययेनात्मनेपदं ॥ [partly unread]
+
+> *he agne idamasmadīyaṃ somādirūpaṃ haviḥ | kīdṛśaṃ tat | durdhitāt duḥsthāpitāt [?] kāṣṭhādeḥ adhi upari sudhitaṃ suhitaṃ susthāpitaṃ vartate | manmanaḥ mananīyaṃ [?] priyādu cit yadapi tava priyādvastuno 'pi [?] … preyaḥ priyataraṃ astu te tava | … yatte tava tanvaḥ śarīrasya jvālātmakasya [?] … śukraṃ śuklaṃ nirmalaṃ śuci dīptaṃ … tejo rocate tena saha ratnaṃ ramaṇīyaṃ maṇimuktādikaṃ itarat … asmabhyaṃ vanase tvamā sambhajasva | vanatervyatyayenātmanepadaṃ ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *durdhitāt adhi* — upon hard fuel and the like; *sudhitam* — placed with care; *idam* — this oblation of Soma and the like; *manmanaḥ* — worthy of praise; *priyādu cit* — than all things beneficial (and dear); *preyaḥ* — most dear; *astu* — be; *te* — to you; *tanvaḥ* — of the body (blazing as flames with the ghee); *śuci* — pure; *śukram* — shining; *yat* — which brightness; *rocate* — shines; *tena* — with that; *tvam* — you; *ratnam* — delightful wealth; *asmabhyam* — to us; *ā vanase* — fill (and give).
+
+**Bhāvārtha.** O Agni, may this oblation of Soma and the like, placed with care upon hard fuel, worthy of praise and beneficial, be dearer to you than all other things. Coming with the pure, shining brightness of your flame-body, kindled by ghee, give us delightful wealth, fully.
+
+**English Translation (as printed).** May this oblation, Agni, carefully placed upon the rugged but agreeable (pile of fuel), be most acceptable to you, so that the pure radiance of your person may shine brightly, and you may grant us wealth.
+
+### Printed p. 144  (PDF 162)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***durdhitāt adhi sudhitam*** — the prayer to Agni is that, though the fuel is hard, the oblations placed on it be both well placed and beneficial.
+
+***manmanaḥ*** — *manma* is explained as "worthy of thought, of meditation"; in the sense of "praiseworthy, worshipful" this word is used in many Ṛks, e.g. 1-[?]-[?]; 1-[?]-[?]; 1-[?]-[?]. In these and many other Ṛks the words *manmanā*, *manmabhiḥ* denote the mental activity (*manaḥpravṛtti*) that is full of praise and worthy of praise. The Nirukta author cites three Ṛks in which the word *manma* is used. First —
+
+> उप प्रागात्सुमन्मेधायि मन्म देवानामाशा उप वीतपृष्ठाः [?] । अन्वेनं विप्रा ऋषयो मदन्ति देवानां पुष्टे चकृमा सुबन्धुम् ॥
+
+> *upa prāgātsumanmedhāyi manma devānāmāśā upa vītapṛṣṭhāḥ [?] | anvenaṃ viprā ṛṣayo madanti devānāṃ puṣṭe cakṛmā subandhum ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk the Nirukta author explains *manma* as *mantra* (Ni. 6-[?]); the sense is "a mantra worthy of meditation". Sāyaṇa explains it as "a fruit worthy of meditation". Second —
+
+> तनूनपात्पथ ऋतस्य यानान्मध्वा समञ्जन्त्स्वदया सुजिह्व । मन्मानि धीभिरुत यज्ञमृन्धन्देवत्रा च कृणुह्यध्वरं नः ॥
+
+> *tanūnapātpatha ṛtasya yānānmadhvā samañjantsvadayā sujihva | manmāni dhībhiruta yajñamṛndhandevatrā ca kṛṇuhyadhvaraṃ naḥ ‖*
+
+(Ṛ. Saṃ. 10-110-[?].) Here Sāyaṇa explains *asmadabhipretāni stotrāṇi*, "the hymns desired by us". Likewise the Nirukta author cites 1-[?]-[?] (Ni. 11-[?]) and shows that the same sense results there. In the present Ṛk the sense "worthy of praise" results.
+
+***te tanvaḥ śuci śukram*** — "the pure and shining brightness of the flame-form body, kindled by the ghee": thus, on the offering of the oblation, the peculiarity of Agni's brightness is described.
+
+> अग्निः शुचिव्रततमः शुचिर्विप्रः शुचिः कविः । शुची रोचत आहुतः । उदग्ने शुचयस्तव शुक्रा भ्राजन्त ईरते । तव ज्योतींष्यर्चयः ॥
+
+> *agniḥ śucivratatamaḥ śucirvipraḥ śuciḥ kaviḥ | śucī rocata āhutaḥ | udagne śucayastava śukrā bhrājanta īrate | tava jyotīṃṣyarcayaḥ ‖*
+
+(Tai. Saṃ. 1-3-[?].) As this is described in the Taittirīya Saṃhitā, so Agni's pure brightness is described here.
+
+***ratnam*** — the word *ratna* is read among the names of wealth (Ni. 2-[?]); "delightful wealth" is the sense. (continues on p. 145)
+
+### Printed p. 145  (PDF 163)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly).** Headwords: *sudhitam* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive sense; *gatir anantaraḥ* gives the accent; the same for *durdhitāt*), *manmanaḥ* (root *mana jñāne*; suffix *manin* by *anyebhyo 'pi dṛśyate*; first-syllable accent; ablative singular), *preyaḥ* (suffix *iyasun* in the sense of excess; *priyasthira*… gives *pra*; *nit*, first-syllable accent), *astu* (root *as bhuvi*, *adādi*, *loṭ*; *tiṅ*, *nighāta*), *tanvaḥ* (*tanūnāṃ chandasy upasaṃkhyānam*; *yaṇ*; *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. Sū. 8-2-4), *rocate* (root *ruca dīptau*; because of the connected *yat*, *nighāta* is barred by *yadvṛttān nityam*, Pā. Sū. 8-1-66; *tāsyanudāttet*: the root accent remains), *vanase* (root *vana ṣaṇa sambhaktau*; *vyatyayo bahulam*, *ātmanepada*; *leṭ*), *ratnam* (root *ramu krīḍāyām*; suffix *na* [?]; *nit*, first-syllable accent). Sūtra numbers as read; [?] where the small type was not legible. ‖ 11 ‖
+
+---
+
+#### Ṛk 12
+
+### Printed p. 146  (PDF 164)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**॥ संहितापाठः ॥**
+
+> रथाय नावमुत नो गृहाय नित्यारित्रां पद्वतीं रास्यग्ने ।
+> अस्माकं वीराँ उत नो मघोनो जनाँश्च या पारयाच्छर्म या च ॥ १२ ॥
+
+> *rathāya nāvamuta no gṛhāya nityāritrāṃ padvatīṃ rāsyagne |*
+> *asmākaṃ vīrā~ uta no maghono janā~śca yā pārayāccharma yā ca ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> रथाय । नावम् । उत । नः । गृहाय । नित्यऽअरित्राम् । पत्ऽवतीम् । रासि । अग्ने ।
+> अस्माकम् । वीरान् । उत । नः । मघोनः । जनान् । च । या । पारयात् । शर्म । या । च ॥ १२ ॥
+
+> *rathāya | nāvam | uta | naḥ | gṛhāya | nitya 'aritrām | pat 'vatīm | rāsi | agne |*
+> *asmākam | vīrān | uta | naḥ | maghonaḥ | janān | ca | yā | pārayāt | śarma | yā | ca ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, give our sacrificer the boat that carries across worldly existence — the Soma-sacrifice, equipped with oars and feet — which makes our heroic sons rich and bears our people across to the bliss of Brahma's world.* Small type; doubtful words marked)
+
+> हे अग्ने उतापि च रथाय रंहणाय गृहाय सर्वस्याश्रयभूताय [?] नोऽस्माकं यजमानानां नावं संसारोत्तारिकां सोमयागात्मिकां नावं । यज्ञो वै सुतमः [?] नौरित्यादिषु श्रुतिषु नौरूपेण स्तुतत्वात् । कीदृशीं तां । नित्यारित्रां नियतैरित्रैः [?] … पद्वतीं … ह्रस्वस्येत्यादिना मतुपः उदात्तत्वम् ॥ … [middle lines of the small type not read] … यो नः शर्म सुखं निरतिशयं ब्रह्म [?] प्रापयेत् … कृतसर्वाणाम् [?] … [remainder not read]
+
+> *he agne utāpi ca rathāya raṃhaṇāya gṛhāya sarvasyāśrayabhūtāya [?] no 'smākaṃ yajamānānāṃ nāvaṃ saṃsārottārikāṃ somayāgātmikāṃ nāvaṃ | yajño vai sutamaḥ [?] naurityādiṣu śrutiṣu naurūpeṇa stutatvāt | kīdṛśīṃ tāṃ | nityāritrāṃ niyatairitraiḥ [?] … padvatīṃ … hrasvasyetyādinā matupaḥ udāttatvam ‖ … [middle lines of the small type not read] … yo naḥ śarma sukhaṃ niratiśayaṃ brahma [?] prāpayet … kṛtasarvāṇām [?] … [remainder not read]*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *nityāritrām* — having ever-ready oars [?]; *padvatīm* — having feet in the form of the substances, deities, mantras and so on; *uta* — and; *yā* — that which; *asmākam* — our; *vīrān* — heroic sons; *maghonaḥ* — rich ones (makes); *uta* — and; *naḥ* — our; *janān ca* — sacrificers too; *pārayāt* — carries across (from worldly existence); *yā* — which; *śarma* — (gives) the bliss (of the supreme world of Brahma); *nāvam* — the boat (consisting of the Soma-sacrifice); *rathāya* — to the dear one [?]; *gṛhāya* — to him who is a shelter like a house; *naḥ* — to our sacrificer; *rāsi* — give.
+
+### Printed p. 147  (PDF 165)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+**Bhāvārtha.** O Agni, grant to our sacrificer, who is dear and a shelter like a house, the boat — consisting of the Soma-sacrifice — whose oars are the everlasting priests, and which has feet in the form of substances, deities, mantras and the like; which makes our heroic sons rich; which carries (us, the performers of the sacrifice, or our sacrificers) across worldly existence and gives the supreme bliss of Brahma's world.
+
+**English Translation (as printed).** Bestow, Agni, upon our excellent patron a boat ever fitted with oars and feet, (one that may render) our posterity prosperous, and may bear mankind across (the ocean of life) to felicity.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk the sacrifice is compared to a boat, worldly existence (*saṃsāra*) to the ocean, and the priests (*ṛtvijaḥ*) to the oars. Poverty, fear of enemies and other kinds of sorrow are the dreadful circumstances of the ocean of worldly existence. If one is to cross this ocean, it cannot be done without the boat as a stout means; this boat must carry the sacrificer safely across the ocean; and the boat cannot do so without its oars. Hence the prayer is that the boat of the Soma-sacrifice, driven by the excellent priests as oars, may carry us safely across worldly existence.
+
+In the Ṛks it is commonly seen that poverty and similar sorrows, the sin that causes them, an enemy, are compared to a deep flood of water, and the help of the gods to a boat; this is a most fitting comparison. For example —
+
+> जातवेदसे सुनवाम सोममरातीयतो नि दहाति वेदः । स नः पर्षदति दुर्गाणि विश्वा नावेव सिन्धुं दुरितात्यग्निः ॥
+
+> *jātavedase sunavāma somamarātīyato ni dahāti vedaḥ | sa naḥ parṣadati durgāṇi viśvā nāveva sindhuṃ duritātyagniḥ ‖*
+
+(Ṛ. Saṃ. 1-99-1.)
+
+---
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–147 done: Ṛks 1–11 complete; Ṛk 12 through Special Topics (begun, *jātavedase* Ṛk cited on p. 147)). Next: printed p. 148 (PDF 166) — Special Topics of Ṛk 12 continued, grammar; then Ṛk 13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–12 largely unread (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg quotations on pp. 125, 133 and 137 only partly legible (Ṛk 9 Special Topics p. 137 Ṛg verse garbled); Sūkta 137 and Pīṭhike flags as before.
