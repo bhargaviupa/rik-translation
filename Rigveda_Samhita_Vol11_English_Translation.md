@@ -3504,4 +3504,160 @@ In the world, women who have enjoyed their husbands' company and then, when the 
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–135 done: Ṛks 1–8 complete; Ṛk 9 Saṃhitā, Pada and bhāṣya (p. 135)). Next: printed p. 136 (PDF 154) — Ṛk 9 bhāṣya continued, Pratipadārtha; then Ṛks 10–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–9 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg quotations on pp. 125 and 133 only partly legible; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 136  (PDF 154)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*Bhāṣya of Ṛk 9 (concluding lines, small type).*
+
+> … [?] सचते । सेवते । यत्र यत्राग्निर्गच्छति तत्र तत्र मार्गोऽपि कृष्णो भवति । अहेति प्रसिद्धौ ॥
+
+> *… [?] sacate | sevate | yatra yatrāgnirgacchati tatra tatra mārgo 'pi kṛṣṇo bhavati | aheti prasiddhau ‖*
+
+**Pratipadārtha (Kannada).** *mātuḥ* — of the earth, the mother (of all beings); *adhīvāsam* — the grass, thickets and so on that lie like a covering over her; *pari* — all round; *rihan aha* — as if licking (invading); or: *mātuḥ* — for Mother Earth; *adhīvāsam* — an upper covering; *pari* — all round; *rihan* — procuring (by invading); *tuvigrebhiḥ* — making great noise (from fear); *satvabhiḥ* — together with the creatures; *jrayaḥ* — swiftly; *vi yāti* — spreads in various directions; *padvate* — (to all creatures with two or four feet); *vayaḥ* — food; *dadhat* — providing; *sadā* — always; *rerihat* — burning (the grass etc.); *śyenī* — dark-coloured; *vartanīḥ* — (this Agni's) path; *anu sacate aha* — follows (Agni), does it not?
+
+**Bhāvārtha.** This forest-fire spreads swiftly in all directions: invading, as if licking, all the grass and thickets that lie like a covering over Mother Earth; providing food to all the creatures that move about; always burning the grass and the like; and joined by the creatures that cry out loudly in terror. The dark-coloured path follows Agni's path alone.
+
+**English Translation (as printed).** Licking up the (verdant) vesture of the mother (of all things, earth) the rapid (Agni) proceeds with resounding existences: granting sustenance to (every) footed (creature): ever consuming (fuel), so that a blackened track follows (his path).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***mātuḥ adhīvāsaṃ pari rihan*** — Sāyaṇa shows that this can be explained in two ways. First: *mātuḥ* = *bhūtānāṃ nirmātuḥ bhūmeḥ*, of the earth, the maker of all beings; *adhīvāsam* = *uparyācchādanasthānīyaṃ tṛṇagulmauṣadhyādikam*, the grass, thickets and plants lying over her like a covering; *pari paritaḥ rihan lihan*, licking all round, i.e. invading. Second: *mātuḥ* = *bhūmeḥ*; *adhīvāsam* = *upari dhāryamāṇaṃ vastraṃ* (a garment worn over); *pari paritaḥ rihan saṃpādayan*: by his invasion all round procuring a covering for Mother Earth.
+
+***padvate*** — *pādavate, dvipade catuṣpade ca*: for all creatures with two feet and four feet. (continues on p. 137)
+
+### Printed p. 137  (PDF 155)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+It is customary to use the word *padvat* to denote living beings in general, and the word *apāt* to denote snakes and the like. For example —
+
+> द्वे वै [?] अक्षरे भवत उभयोरन्नाद्ययोरुपाप्त्यै यच्च पद्वच्च [?] द्विपाच्च [?] पादाभ्यामिति [?] ।
+
+> *dve vai [?] akṣare bhavata ubhayorannādyayorupāptyai yacca padvacca [?] dvipācca [?] pādābhyāmiti [?] |*
+
+(Ai. Āraṇyaka 1-[?]-[?].) In this passage *padvat* is explained as animals with feet, and *apāt* as snakes and the like, without feet. But in the Ṛk-saṃhitā, in some Ṛks the word *padvat* is used only of creatures that walk on feet, while birds that fly are separately named, as is clear from these:
+
+> आ घा योषेव सूनर्युषा याति प्रभुञ्जती । जरयन्ती वृजनं पद्वदीयत उत्पातयति पक्षिणः ॥
+
+> *ā ghā yoṣeva sūnaryuṣā yāti prabhuñjatī | jarayantī vṛjanaṃ padvadīyata utpātayati pakṣiṇaḥ ‖*
+
+(Ṛ. Saṃ. 1-48-[?].) Because *pakṣiṇaḥ* is separately named in this Ṛk, the word *padvat* is evidently meant only of creatures that move on feet. Likewise —
+
+> नि ग्रामासो अविक्षत नि पद्वन्तो नि पक्षिणः । नि श्येनासश्चिदर्थिनः ॥
+
+> *ni grāmāso avikṣata ni padvanto ni pakṣiṇaḥ | ni śyenāsaścidarthinaḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) Here too *padvantaḥ* and *pakṣiṇaḥ* are separately named.
+
+***tuvigrebhiḥ*** — the word *tuvi* is read among the names of the many (Ni. 3-1 [?]): *prabhūtaṃ śabdayadbhiḥ*, those making great noise; as an epithet of *satvabhiḥ*, the creatures that cry out loudly in terror at the spread of the forest-fire. Or, *prabhūtagamanaiḥ*, as creatures that run in all directions (Sāyaṇa says it can also be so explained).
+
+***jrayaḥ*** — *jrayasā javena*, swiftly. In the lists of verbs of motion (*gatikarmanāmāni*) the roots *vartate*, *ayate*, *loṭate* etc. are read, among which *jrayati* "goes" is also read (Ni. 2-[?]); so *jraya* is "motion". But the word is used for the speed that marks a particular kind of motion. For example:
+
+> यावृग्वैव देव्यते तान्यग्मं [?] ते सं थायया दधिरे सिप्रयोप्ताः [?] । महीमेषामुरुषामुरुज्रयो बृहत्कवीरमनपत्यकं सहः [?] ॥
+
+> *yāvṛgvaiva devyate tānyagmaṃ [?] te saṃ thāyayā dadhire siprayoptāḥ [?] | mahīmeṣāmuruṣāmurujrayo bṛhatkavīramanapatyakaṃ sahaḥ [?] ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?]; this Ṛk is garbled at this resolution and is given only as far as read.)
+
+> अवितासि सुन्वतो वृक्तबर्हिषः पिबा सोमं मदाय कं शतक्रतो । यं ते भागमधारयन्विश्वाः सेहानः पृतना उरु ज्रयः समप्सुजिन्मृत्येन्द्र सत्पते [?] ॥
+
+> *avitāsi sunvato vṛktabarhiṣaḥ pibā somaṃ madāya kaṃ śatakrato | yaṃ te bhāgamadhārayanviśvāḥ sehānaḥ pṛtanā uru jrayaḥ samapsujinmṛtyendra satpate [?] ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) (continues on p. 138)
+
+### Printed p. 138  (PDF 156)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+In these and similar Ṛks the word *jrayaḥ* is explained as "speed". And again —
+
+> प्रतिभद्रा अदृक्षत गवां सर्गा न रश्मयः । ओषा अप्रा उरु ज्रयः ॥
+
+> *pratibhadrā adṛkṣata gavāṃ sargā na raśmayaḥ | oṣā aprā uru jrayaḥ ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) Here the word *jraya* means great brilliance (*mahattvāda tejas*); but the speed of power is suggested here too. In the present Ṛk also, the speed of the creatures running in all directions in utmost fear at the time of the forest-fire's spread is what is stated.
+
+**Vyākaraṇa-prakriyā (Ṛk 9; grammar pages 138–139, noted briefly).** Headwords: *adhīvāsam* (root *vasa ācchādane*, suffix *ghañ*; *vṛddhi* of the penultimate by *ata upadhāyāḥ*; lengthening of the earlier member by *anyeṣām api dṛśyate*; accent), *mātuḥ* (root *māṅ māne*; suffix *tṛc*; *cita*: last-syllable accent), *rihan* (root *rihi* [?], *tudādi*; *śatṛ*; the *śa* suffix), *tuvigrebhiḥ* (*bahulaṃ chandasi*: no *ais* for *bhis*; accent), *yāti* (root *yā prāpaṇe*, *adādi*; *tiṅ*, hence *nighāta*), *jrayaḥ* (root *jri abhibhave*; *sarvadhātubhyo 'sun*; *nit*, first-syllable accent), *dadhat* (root *dudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *śatṛ*; *abhyastānām ādiḥ*), *padvate* (*padasyāsti ity padvat*; *matup*, its *m* becomes *v*; dative singular; accent). Sūtra numbers in small type, mostly [?].
+
+### Printed p. 139  (PDF 157)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+*Grammar (continued, noted briefly):* *rerihat* (intensive sense; *yaṅ-luk*; *śatṛ*; *abhyastānām ādiḥ*, first-syllable accent), *śyenī* (root *śyaita gatau*; feminine in *ṅīp* by *varṇād anudāttāt*… (Pā. Sū. 4-1-[?]); *t* becomes *n*), *sacate* (root *paca samavāye*; *tiṅ*, *nighāta*), *vartanīḥ* (*vartate 'nena iti vartanī*; root *vṛtu vartane*; accent by *vartaniḥ srotre*, Pā. Sū. 6-1-[?]). ‖ 9 ‖
+
+---
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> अस्माकमग्ने मघवत्सु दीदिह्यध श्वसीवान्वृषभो दमूनाः ।
+> अवास्या [?] शिशुमतीरदीदेर्वर्मेव युत्सु परिजर्भुराणः ॥ १० ॥
+
+> *asmākamagne maghavatsu dīdihyadha śvasīvānvṛṣabho damūnāḥ |*
+> *avāsyā [?] śiśumatīradīdervarmeva yutsu parijarbhurāṇaḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्माकम् । अग्ने । मघवत्ऽसु । दीदिहि । अध । श्वसीऽवान् । वृषभः । दमूनाः ।
+> अव । अस्य [?] । शिशुऽमतीः । अदीदेः । वर्मऽइव । युत्ऽसु । परिऽजर्भुराणः ॥ १० ॥
+
+> *asmākam | agne | maghavat 'su | dīdihi | adha | śvasī 'vān | vṛṣabhaḥ | damūnāḥ |*
+> *ava | asya [?] | śiśu 'matīḥ | adīdeḥ | varma 'iva | yut 'su | pari 'jarbhurāṇaḥ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, shine in our wealthy houses; vivifying us, showering boons, be bountiful; forsaking the infant flames, blaze, and like armour in battles ward off the blows.* Small type; doubtful words marked)
+
+> हे अग्ने अस्माकं मघवत्सु स्वसंबन्धिषु धनवत्सु यागेषु गृहेषु वा दीदिहि दीप्यस्व । अथानन्तरं श्वसीवान् श्वसनवान् ज्वालाभिः प्राणवान् अस्मान् [?] … वृषभो वर्षिता अभिमतानां दमूनाः दानमनाः दमना दान्तमना वा सर्वत्र भव । स उक्तलक्षणस्त्वं शिशुमतीः [?] … तदवस्थाः लक्ष्यन्ते श्वसनवतीर्ज्वाला [?] … विहायादीदेः भृशं दीप्यस्व [?] … युत्सु
+
+> *he agne asmākaṃ maghavatsu svasaṃbandhiṣu dhanavatsu yāgeṣu gṛheṣu vā dīdihi dīpyasva | athānantaraṃ śvasīvān śvasanavān jvālābhiḥ prāṇavān asmān [?] … vṛṣabho varṣitā abhimatānāṃ damūnāḥ dānamanāḥ damanā dāntamanā vā sarvatra bhava | sa uktalakṣaṇastvaṃ śiśumatīḥ [?] … tadavasthāḥ lakṣyante śvasanavatīrjvālā [?] … vihāyādīdeḥ bhṛśaṃ dīpyasva [?] … yutsu*
+
+### Printed p. 140  (PDF 158)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*Bhāṣya (continued, small type).*
+
+> संग्रामेषु वर्मेव परिजर्भुराणो भव ॥ हरतेर्यङ्लुगन्ताच्छानच् [?] । अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥ उक्तगुणको भवानस्माकं मघवत्सु यज्ञेषु दीप्यस्व ॥
+
+> *saṃgrāmeṣu varmeva parijarbhurāṇo bhava ‖ harateryaṅlugantācchānac [?] | abhyastānāmādirityādyudāttatvam ‖ uktaguṇako bhavānasmākaṃ maghavatsu yajñeṣu dīpyasva ‖*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *asmākam* — of us; *maghavatsu* — in our sacrificial houses, filled with food; *dīdihi* — shine; *adha* — afterwards; *śvasīvān* — burning with flames, that is, making us full of life; *vṛṣabhaḥ* — the one who showers desired objects; *damūnāḥ* — be generous, or of a self-controlled mind; *śiśumatīḥ* — the young (dim) flames; *avāsya* — leaving off, leaving off; *adīdeḥ* — blaze exceedingly; *yutsu* — in battles; *varmeva* — as armour protects; *pari jarbhurāṇaḥ* — warding off (the repeated blows of enemies) again and again, protect us.
+
+**Bhāvārtha.** O Agni, shine exceedingly in our sacrificial houses, filled with food. Then, making us full of life with your flames, be both the one who showers desired objects and the generous one. Leaving off the dim young flames, shine with your fierce flames. As a coat of mail protects in battles, ward off the repeated blows of enemies and protect us.
+
+**English Translation (as printed).** Shine, Agni, in our opulent (abodes), vivifying, showering (blssings [sic]) bounteous, casting off infantine (glimmerings): blaze (fiercely), repelling repeatedly like a coat of mail, (our enemies) in combats.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***asmākam*** — this word is used ordinarily only in the sense of the genitive (*ṣaṣṭhī*); but there are also places where it is used by way of a mere indication of the other cases (*vibhakti*). Many such uses will be noted; in some places it has the sense of a verbal modifier.
+
+> नू नो अग्न ऊतये सबाधसश्च रातये । अस्माकासश्च सूरयो विश्वा आशास्तरीषणि ॥
+
+> *nū no agna ūtaye sabādhasaśca rātaye | asmākāsaśca sūrayo viśvā āśāstarīṣaṇi ‖*
+
+(Ṛ. Saṃ. 3-10-[?].) In this the word *sūrayaḥ* is used with *asmākāsaḥ* in the nominative (*prathamā*),
+
+### Printed p. 141  (PDF 159)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+> स रथेन रथीतमोऽस्माकेनाभियुग्वना । जेषि जिष्णो हितं धनम् ॥
+
+> *sa rathena rathītamo 'smākenābhiyugvanā | jeṣi jiṣṇo hitaṃ dhanam ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) and here in the instrumental (*tṛtīyā*). So the word *asme* also is used with all case endings, as the Nirukta author shows with examples (Ni. [?]-[?]); the particulars are given in the Special Topics of Ṛk 1-10-3.
+
+***damūnāḥ*** — *damūnā damanā vā, dānamanā vā, dāntamanā vā; api vā dama iti gṛhanāma tanmanāḥ syāt* (Ni. [?]). The epithet *damūnāḥ* is either because he has a mind full of compassion (*dayāpūrita*) [?], or one that gives, or because he is given to self-control; or, as *dama* is a synonym of "house", the word can mean one whose mind is attached to the house (Ni. [?]). Therefore Sāyaṇa too explains it as: "be of a giving mind, a mind of self-control, a house-loving mind, everywhere", and so prays to Agni.
+
+***varma iva*** — *kavacam iva*: like armour; the protection to be had from Agni is compared with armour.
+
+> न तस्य मायया चन रिपुरीशीत मर्त्यः । यो अग्नये ददाश हव्यदातिभिः ॥
+
+> *na tasya māyayā cana ripurīśīta martyaḥ | yo agnaye dadāśa havyadātibhiḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In these Ṛks it is said that no enemy, however powerful, can harm one who has obtained Agni's shelter; such protection is prayed for here for ourselves as well.
+
+**Vyākaraṇa-prakriyā (Ṛk 10; grammar pages 141–142, noted briefly).** Headwords: *maghavatsu* (*maghaṃ eṣām asti*; suffix *matup*; *pit*; locative plural), *dīdihi* (root *dīdī dīptau*, Vedic; *loṭ* second person singular; *śap* lost by *luk*), *adha* (Vedic change of the letter: *tha* → *dha*), *śvasīvān* (root *śvasa prāṇane*; *matup*; *pit*: the root accent is lost), *vṛṣabhaḥ* (root *vṛṣu secane*; suffix *abhac* by *ṛśivṛṣibhyāṃ kit* (Uṇ. Sū. 4-[?]); *kit*, so no *guṇa*; *cita*, last-syllable accent). (continues on p. 142)
+
+---
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–141 done: Ṛks 1–9 complete; Ṛk 10 through Special Topics, grammar begun on p. 141). Next: printed p. 142 (PDF 160) — grammar of Ṛk 10 concluded; then Ṛks 11–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–10 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg quotations on pp. 125, 133 and 137 only partly legible (Ṛk 9 Special Topics p. 137 Ṛg verse garbled); Sūkta 137 and Pīṭhike flags as before.
