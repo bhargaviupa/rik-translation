@@ -3922,14 +3922,170 @@ Since the power of the *uktha* is surpassing, increase will certainly come to al
 
 (Ṛ. Saṃ. 7-82-[?].) — recited the *sūkta* that begins with this Ṛk, and praised Indra and Varuṇa. Then Indra and Varuṇa drove those Asuras out of the Maitrāvaruṇa *śastra*.
 
-> के वै ते [?] असुरा ब्राह्मणाच्छंसिन उक्थमाश्रयन्ते सोऽब्रवीदिन्द्रः कः [?] साहं क्वेमानितोऽसुरानोत्स्यानहा [?] इत्थं चेत् [?] ब्रवीद्बृहस्पतिस्त्वा [?] ब्राह्मणाच्छंसिनस्तृतीयसवने शंसन्तीन्द्रश्च हि तान्बृहस्पतिश्च ततो नुदेताम् [?] ।
+> ते वै ते [?] असुरा ब्राह्मणाच्छंसिन उक्थमाश्रयन्ते सोऽब्रवीदिन्द्रः कः [?] साहं क्वेमानितोऽसुरानोत्स्यानहा [?] इत्थं चेत् [?] ब्रवीद्बृहस्पतिस्त्वा [?] ब्राह्मणाच्छंसिनस्तृतीयसवने शंसन्तीन्द्रश्च हि तान्बृहस्पतिश्च ततो नुदेताम् [?] ।
 
-> *ke vai te [?] asurā brāhmaṇācchaṃsina ukthamāśrayante so 'bravīdindraḥ kaḥ [?] sāhaṃ kvemānito 'surānotsyānahā [?] itthaṃ cet [?] bravīdbṛhaspatistvā [?] brāhmaṇācchaṃsinastṛtīyasavane śaṃsantīndraśca hi tānbṛhaspatiśca tato nudetām [?] |*
+> *te vai te [?] asurā brāhmaṇācchaṃsina ukthamāśrayante so 'bravīdindraḥ kaḥ [?] sāhaṃ kvemānito 'surānotsyānahā [?] itthaṃ cet [?] bravīdbṛhaspatistvā [?] brāhmaṇācchaṃsinastṛtīyasavane śaṃsantīndraśca hi tānbṛhaspatiśca tato nudetām [?] |*
 
-(Ai. Brā. [?]; given only as far as read; continues on p. 154.)
+(Ai. Brā. [?]; given as far as read; the account of it follows on p. 154.)
+
+---
+
+---
+
+### Printed p. 154  (PDF 172)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+The Asuras driven out from there entered the *uktha* of the Brāhmaṇācchaṃsin. Then Indra rose and asked who would help him drive these Asuras out of it; Bṛhaspati rose and said he would help. Then the Brāhmaṇācchaṃsin, at the time of the third pressing —
+
+> उदप्रुतो न वयो रक्षमाणा वावदतो अभ्रियस्येव घोषाः । गिरिभ्रजो नोर्मयो मदन्तो बृहस्पतिमभ्यर्का अनावन् ॥
+
+> *udapruto na vayo rakṣamāṇā vāvadato abhriyasyeva ghoṣāḥ | giribhrajo normayo madanto bṛhaspatimabhyarkā anāvan ‖*
+
+(Ṛ. Saṃ. 10-68-1.) — recited the *sūkta* beginning with this Ṛk and praised Indra and Bṛhaspati; and then Indra and Bṛhaspati drove the Asuras out from there.
+
+> ते वै ते ऽसुरा अच्छावाकस्योक्थमाश्रयन्ते सोऽब्रवीदिन्द्रः कः साहं क्वेमानितोऽसुरानोत्स्यामहा [?] इत्थं चेत् [?] अब्रवीद्विष्णुस्त्वा [?] … अच्छावाकस्तृतीयसवने शंसेदिन्द्रश्च हि तान्विष्णुश्च ततो नुदेताम् ।
+
+> *te vai te 'surā acchāvākasyokthamāśrayante so 'bravīdindraḥ kaḥ sāhaṃ kvemānito 'surānotsyāmahā [?] itthaṃ cet [?] abravīdviṣṇustvā [?] … acchāvākastṛtīyasavane śaṃsedindraśca hi tānviṣṇuśca tato nudetām |*
+
+(Ai. Brā. 13-[?] [?]; garbled in part.) The Asuras driven out of the Brāhmaṇācchaṃsin's *uktha* took refuge in the Acchāvāka's *uktha*. Then Indra rose and asked which of them would help him drive them out from there; Viṣṇu said he would help. At that time the Acchāvāka —
+
+> सं वां कर्मणा समिषा हिनोमीन्द्राविष्णू अपसस्पारे अस्य । जुषेथां यज्ञं द्रविणं च धत्तमरिष्टैर्नः पथिभिः पारयन्ता ॥
+
+> *saṃ vāṃ karmaṇā samiṣā hinomīndrāviṣṇū apasaspāre asya | juṣethāṃ yajñaṃ draviṇaṃ ca dhattamariṣṭairnaḥ pathibhiḥ pārayantā ‖*
+
+(Ṛ. Saṃ. 6-69-[?].) — recited the *sūkta* beginning with this Ṛk and praised Indra and Viṣṇu; and then they drove the Asuras out from there too. So runs the story in the Aitareya Brāhmaṇa (13-[?]). From it the power of the *uktha*, and the benefit that comes by it to the sacrificer who protects it, are known.
+
+As the power of the *uktha* is described at the time of sacrificial rites, so, in the same way, at the time of teaching spiritual knowledge, the greatness of this hymnic *uktha* is praised. In the Bṛhadāraṇyaka Upaniṣad:
+
+> उक्थं प्राणो वा उक्थं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मादुक्थविद्वीरस्तिष्ठत्युक्थस्य सायुज्यं सलोकतां जयति य एवं वेद ।
+
+> *ukthaṃ prāṇo vā ukthaṃ prāṇo hīdaṃ sarvamutthāpayatyuddhāsmādukthavidvīrastiṣṭhatyukthasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*
+
+(Bṛ. U. 5-13-1.)
+
+> उक्थं त्वोपासनान्तरम् [?] । उक्थं शस्त्रम् । तद्धि प्रधानं महाव्रते क्रतौ [?] ।
+
+> *ukthaṃ tvopāsanāntaram [?] | ukthaṃ śastram | taddhi pradhānaṃ mahāvrate kratau [?] |*
+
+(Śāṅkarabhāṣya.) (continues on p. 155)
+
+### Printed p. 155  (PDF 173)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+In the sacrifice called Mahāvrata the *uktha*, the chief *śastra*, is the breath (*prāṇa*): from it comes rising up (*utthāna*); therefore a son who knows the *uktha* is born, and obtains standing (*tattvamānatā* [?]) and equal honour: so the greatness of the *uktha* is told. When such a great *uktha* is praised, the sense is "knowing its other greatness, praise it" [?]: that is, "may it give you joy, and be worthy of your praise".
+
+***abhi jugurāḥ*** — *abhimukhena stuhi; protsāhaya; samyak śastram ity aṅgīkuru*: "praise facing it; encourage; accept, saying 'well recited'": the sense is "with special affection speak the word of acceptance praising it". Or —
+
+> प्र स्तोषदुप गासिषच्छ्रवत्साम गीयमानम् । अभि राधसा जुगुरत् ॥
+
+> *pra stoṣadupa gāsiṣacchravatsāma gīyamānam | abhi rādhasā jugurat ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this Ṛk the verb *abhi jugurat* means *abhigṛṇātu*, "may he accept (approve)"; here too the sense "accept" may result, and the purport agrees.
+
+***svagūrtāḥ*** — *svayam eva gāminyaḥ*: Sāyaṇa explains it as "flowing of their own nature". But the word *gūrta* ordinarily has the sense "praiseworthy, famed"; it also has the sense "praisers, those who commend". For example —
+
+> तं गूर्तयो नेमन्निषः परीणसः समुद्रं न संचरणे सनिष्यवः । पतिं दक्षस्य विदथस्य नू सहो गिरिं न वेना अधि रोह तेजसा ॥
+
+> *taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ | patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhi roha tejasā ‖*
+
+(Ṛ. Saṃ. 1-56-[?].) In this Ṛk *gūrtayaḥ* is explained as *stotāraḥ*;
+
+> तं वः सखायो मदाय पुनानमभि गायत । शिशुं न यज्ञैः स्वदयन्त गूर्तिभिः ॥
+
+> *taṃ vaḥ sakhāyo madāya punānamabhi gāyata | śiśuṃ na yajñaiḥ svadayanta gūrtibhiḥ ‖*
+
+(Ṛ. Saṃ. 9-104-1.) here *gūrtibhiḥ* is explained as *stutibhiḥ*, "with hymns"; and in other places too the sense "praiseworthy, famed" is found. So in the present Ṛk also the meaning may be: rivers "worthy of praise", or "having abundant flow".
+
+**Vyākaraṇa-prakriyā (Ṛk 13; grammar pages 155–156, noted briefly).** *abhi* (an indeclinable; the *saṃhitā* lengthening in *abhī* by *nipātasya ca* (Pā. Sū. 6-3-[?])), *jugurāḥ* (root *gṝ śabde*; *liṅ*, second person singular, *sip*; *itaś ca* gives loss of the *i*; the suffix is dropped by *bahulaṃ chandasi*; reduplication). (continues on p. 156)
+
+### Printed p. 156  (PDF 174)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*Grammar (Ṛk 13, continued; noted briefly):* *dyāvākṣāmā* (*dyauś ca kṣamā ca*; *divo dyāvā* (Pā. Sū. 6-3-[?]); *supāṃ sulug…* (Pā. Sū. 7-1-39); *devatādvandve ca*: both members keep their accent; *kṣāmā* is a Vedic synonym of *bhūmi*), *sindhavaḥ* (root *syandū prasravaṇe*; *syandeḥ samprasāraṇaṃ dhaś ca* (Uṇ. Sū. [?]); *nit*, first-syllable accent), *gavyam* (*gor idam gavyam*; *yat* by *gopayasor yat* (Pā. Sū. 4-3-[?]); *vānto yi pratyaye* (Pā. Sū. 6-1-79) gives *av*; *yato 'nāvaḥ* (Pā. Sū. 6-1-213): the first-syllable accent; likewise *yavyam*), *yantaḥ* (root *iṇ gatau*; used in the sense of causing to go; *śatṛ*; first-syllable accent of the suffix), *aho* [?] (*śeś chandasi bahulam* (Pā. Sū. 6-1-70): *śi* is dropped), *aruṇyaḥ* (the *matvarthīya* suffix is dropped), *varanta* (root *vṛñ sambhaktau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) gives *loṭ*; the root has a causative sense; third person plural, *jha* → *anta*; *śap*; *guṇa*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75): no *aḍāgama*; *tiṅ*, *nighāta*). Sūtra numbers in small type; [?] where not read. ‖ 13 ‖
+
+*Here the 140th Sūkta ends.*
+
+---
+
+### Printed p. 157  (PDF 175)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+## Sūkta 141
+
+### Printed p. 157 (continued; PDF 175)
+
+*(The Kannada heading reads "The 141st Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the second sūkta of the twenty-first anuvāka, "Baḷitthā", of thirteen Ṛks, is Dairghatamasa; its metre is Jagatī, the last two Ṛks Triṣṭubh; the deity is Agni; its use at the Prātaranuvāka and the Aśvina-śastra is stated.)*
+
+> बळित्थेति त्रयोदशर्चं द्वितीयं सूक्तं दैर्घतमसं जागतम् । अन्त्ये त्रिष्टुभौ । अग्निर्देवता । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+> *baḷittheti trayodaśarcaṃ dvitīyaṃ sūktaṃ dairghatamasaṃ jāgatam | antye triṣṭubhau | agnirdevatā | prātaranuvākāśvinaśastrayorukto viniyogaḥ ‖*
+
+*Anuvāda (Kannada).* The sūkta *Baḷitthā* is the second sūkta in the twenty-first anuvāka. It has thirteen Ṛks. Its ṛṣi is Dīrghatamas. Agni is the deity. The last two Ṛks have the metre Triṣṭubh; the remaining Ṛks have the metre Jagatī. The use of this sūkta at the time of reciting the mantras of the Prātaranuvāka and of the mantras of the Aśvina-śastra is stated (by the Anukramaṇī).
+
+---
+
+**॥ ओम् ॥**
+
+**Sūkta 141** — Maṇḍala 1, Anuvāka 21, Sūkta 141; Aṣṭaka 2, Adhyāya 2, Varga [?7, 8 — 'as read']. Number of Ṛks in the sūkta: 13. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: 1–11 Jagatī; 12–13 Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> बळित्था तद्वपुषे धायि दर्शतं देवस्य भर्गः सहसो यतो जनि ।
+> यदीमुप ह्वरते साधते मतिर्ऋतस्य धेना अनयन्त सस्रुतः ॥ १ ॥
+
+> *baḷitthā tadvapuṣe dhāyi darśataṃ devasya bhargaḥ sahaso yato jani |*
+> *yadīmupa hvarate sādhate matirṛtasya dhenā anayanta sasrutaḥ ‖ 1 ‖*
+
+### Printed p. 158  (PDF 176)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**॥ पदपाठः ॥**
+
+> बट् । इत्था । तत् । वपुषे । धायि । दर्शतम् । देवस्य । भर्गः । सहसः । यतः । जनि ।
+> यत् । ईम् । उप । ह्वरते । साधते । मतिः । ऋतस्य । धेनाः । अनयन्त । सस्रुतः ॥ १ ॥
+
+> *baṭ | itthā | tat | vapuṣe | dhāyi | darśatam | devasya | bhargaḥ | sahasaḥ | yataḥ | jani |*
+> *yat | īm | upa | hvarate | sādhate | matiḥ | ṛtasya | dhenāḥ | anayanta | sasrutaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the visible brightness of the shining Agni is held by all for the body, being born of strength; my mind approaches it and accomplishes its aim; the speech of the sacrifice, flowing together, leads on his praise.* Small type; doubtful words marked)
+
+> देवस्य द्योतनशीलस्याग्नेः दर्शतं सर्वैर्दर्शनीयं तत् प्रसिद्धं भर्गः तेजः इत्थं सर्वैर्दृश्यमानप्रकारेण वपुषे शरीरव्यवहाराय दार्ढ्याय धायि धार्यते सर्वैः । बळित्थेत्युभे अपि सत्यनामनी । बट् शृत् सत्येत्येकं [?] तन्नामसु पाठात् । जाराग्निना भुक्तानां जरणेन शरीरधारणं प्रसिद्धम् [?] । के ऽग्रेपतिमाहः [?] । यतः सहसो जनि यतः कारणात् सहनकाले बलेनोत्पन्नः । अतो बलाय धार्यते इत्यर्थः । यदीमुप यदेतत्तेजः [?] … लोकोपकारकं … मतिर्बुद्धिः … उपह्वरते उपगच्छति [?] । ह्वृ कौटिल्ये । साधते च येनैव तेजसा साधयति स्वाभीष्टम् । किंच ऋतस्य यज्ञसाधकस्याग्नेस्तेजसा धेनाः [?] वाचः सस्रुतः समानं गच्छन्त्यः [?] ऋत्विजः … अनयन्ते नयन्ति [?] निर्वहन्ति जगद्व्यवहारं … व्यत्ययेनात्मनेपदम् ॥ यद्वा ऋतस्य धेना यज्ञस्य सम्बन्धिन्यो मन्त्ररूपा वाचः सस्रुतो होत्रादिमुखेन समानं प्रवर्तमाना अनयन्ते नयन्ति । अग्नेः स्तोत्रं निर्वहन्ति । अग्नेस्तेजसा वा यज्ञं निर्वहन्ति । तेजोमयी वागिति श्रुतेः (भा. उ. ३-१-३ [?]) । अतः कारणात् तिरुपस्करे [?] इत्यर्थः । धेनेति वाङ्नाम धेना ग्ना इति तन्नामसु पाठात् ॥ [partly unread]
+
+> *devasya dyotanaśīlasyāgneḥ darśataṃ sarvairdarśanīyaṃ tat prasiddhaṃ bhargaḥ tejaḥ itthaṃ sarvairdṛśyamānaprakāreṇa vapuṣe śarīravyavahārāya dārḍhyāya dhāyi dhāryate sarvaiḥ | baḷitthetyubhe api satyanāmanī | baṭ śṛt satyetyekaṃ [?] tannāmasu pāṭhāt | jārāgninā bhuktānāṃ jaraṇena śarīradhāraṇaṃ prasiddham [?] | ke 'grepatimāhaḥ [?] | yataḥ sahaso jani yataḥ kāraṇāt sahanakāle balenotpannaḥ | ato balāya dhāryate ityarthaḥ | yadīmupa yadetattejaḥ [?] … lokopakārakaṃ … matirbuddhiḥ … upahvarate upagacchati [?] | hvṛ kauṭilye | sādhate ca yenaiva tejasā sādhayati svābhīṣṭam | kiṃca ṛtasya yajñasādhakasyāgnestejasā dhenāḥ [?] vācaḥ sasrutaḥ samānaṃ gacchantyaḥ [?] ṛtvijaḥ … anayante nayanti [?] nirvahanti jagadvyavahāraṃ … vyatyayenātmanepadam ‖ yadvā ṛtasya dhenā yajñasya sambandhinyo mantrarūpā vācaḥ sasruto hotrādimukhena samānaṃ pravartamānā anayante nayanti | agneḥ stotraṃ nirvahanti | agnestejasā vā yajñaṃ nirvahanti | tejomayī vāgiti śruteḥ (bhā. u. 3-1-3 [?]) | ataḥ kāraṇāt tirupaskare [?] ityarthaḥ | dheneti vāṅnāma dhenā gnā iti tannāmasu pāṭhāt ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** *devasya* — of the shining Agni; *darśatam* — which is visible (to all); *tat* — that well-known; *bhargaḥ* — brightness; *itthā* — in this manner; *yataḥ* — for which reason; *sahasaḥ* — from strength; *jani* — was born (kaṃtapa [?]); *vapuṣe* — for the firmness of the body; *dhāyi* — is held (by all); *yadīm* — which well-known brightness, beneficial to the world; *matiḥ* — my intellect; *upahvarate* — approaches (with effort); *sādhate* — accomplishes (its desired aim); *ṛtasya* — (with the brightness) of Agni, the accomplisher of the sacrifice; *dhenāḥ* — the speech of all creatures; *sasrutaḥ* — flowing together, joining; *anayante* — carry on (the business of the world); [or: *ṛtasya* — pertaining to the sacrifice; *dhenāḥ* — these speeches in the form of mantras; *sasrutaḥ* — issuing from the mouths of the *hotṛ* and others; *anayante* — carry through (Agni's praise)].
+
+### Printed p. 159  (PDF 177)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Bhāvārtha.** The well-known brightness of Agni, which is visible to all, has been produced from strength in order to give all creatures firmness of body. For the sake of that firmness all people hold this brightness. My intellect also takes up this well-known brightness, beneficial to the world, and accomplishes its desired aim. At the time of the sacrifice the mantric speech issuing from the mouths of the *hotṛ* and others carries through the praise of this Agni.
+
+**English Translation (as printed).** Verily, that visible radiance of the divine (Agni) has been so apprehended (by all, that it may be) for (the support of) the body, for which end it has been generated by (bodily) strength: and that my mind may apprehend and apply (that radiance), they address the sacred prayers associated with oblations (to Agni).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***bhargaḥ*** — *tejaḥ*: the word *bharga* is customarily used only of the brightness of Agni (in the form of the Āditya). Sāyaṇa, in the Ṛk
+
+> तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥
+
+> *tatsaviturvareṇyaṃ bhargo devasya dhīmahi | dhiyo yo naḥ pracodayāt ‖*
+
+(Ṛ. Saṃ. 3-62-10.) explains the word *bharga* as *avidyā-tatkāryayor bharjanād bhargaḥ*: "because it burns up ignorance and its effects, desire, delusion and the like, it is *bharga*" — showing that the nature of Savitṛ is declared by the word *bharga*.
+
+***sahasaḥ jani*** — "born of strength": at the time of the churning of the *araṇi* sticks he is born of strength; so it is described as *sahasaḥ jani*.
+
+***ṛtasya dhenāḥ*** — here the word *ṛta* means sacrifice. Showing the construction as "of *ṛta*, i.e. of the sacrifice-related (or sacrifice-accomplishing) Agni, the *dhenāḥ*", Sāyaṇa explains *dhenāḥ* as *sarvaprāṇināṃ vācaḥ*; or, *yajñasya sambandhinyaḥ mantrarūpā vācaḥ*, and cites the Upaniṣad sentence *tejomayī vāk* (Bhā. U. 3-[?]-[?] [?]). From this very example the word *dhenā* is understood not as ordinary speech but as supernatural and luminous [?] … (continues on p. 160)
 
 ---
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–153 done: Ṛks 1–12 complete; Ṛk 13 through printed English and Special Topics begun (*uktham abhi jugurāḥ*, Aitareya Brāhmaṇa story, p. 153)). Next: printed p. 154 (PDF 172) — Special Topics of Ṛk 13 continued (Ai. Brā. quotation), grammar; then the sūkta ends (Sūkta 141 follows). Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–13 largely unread (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+**Progress note:** Sūkta 140 complete (printed pp. 99–156). **Sūkta 141** begun: printed pp. 157–159 (Anukramaṇī, header table, Ṛk 1 through printed English; Special Topics begun, *bhargaḥ*, *ṛtasya dhenāḥ*). Next: printed p. 160 (PDF 178) — Special Topics of Sūkta 141 Ṛk 1 continued (*dhenāḥ*), grammar; then Ṛk 2. Images at 120 dpi in /tmp/v11a (PDF 33–189; recrop 190 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–13 largely unread (Ṛk 12 middle lines unread); Sūkta 141 Ṛk 1 partly read; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
