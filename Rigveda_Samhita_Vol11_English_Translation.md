@@ -7422,4 +7422,82 @@ As to metre there is no such restriction. The sūktas 1-13; 1-188; 5-5 and 9-5 [
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–285 done (introductory essay; Ṛks 1–12 complete; Ṛk 13 *svāhākṛtāny ā gahi* (Indra): Saṃhitā through Special Topics, then the closing *upasaṃhāra* on the Āprī-sūktas (pp. 283–285); the grammar of Ṛk 13 is begun at the foot of p. 285 and continues on p. 286, where the sūkta ends). Next: printed p. 286 (PDF 304), then Sūkta 143. Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 286  (PDF 304)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*Grammar (Ṛk 13, concluded; noted briefly).* *gahi* (…; *āto heḥ* [?]: because of this the *luk* does not apply; standing after an *ati…* word, *nighāta*), *vītaye* (root *vī gatiprajananakāntyasanakhādaneṣu*; *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* (Pā. Sū. 3-3-96) [?]: *ktin* is *udātta*; dative singular), *indra* (being at the head of the pāda there is no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-198): the first syllable is *udātta*), *śrudhi* (root *śru śravaṇe*; *loṭ*, second person singular, *sip*; *bahulaṃ chandasi*: *luk* of the vikaraṇa; *śṛṇuhi*… (Pā. Sū. 6-4-102): *hi* becomes *dhi*; as it has no [*ati*]… the *guṇa* does not occur; since it stands after an *ati…* word it has the *nighāta* but *atiṅ* … is not prohibited [?]; by the *apit* rule for the suffix, the last syllable is *udātta*), *havam* (root *hveñ spardhāyāṃ śabde ca*; *ap* suffix in the abstract sense; *samprasāraṇa* of the root; *pūrvarūpa*; *guṇa* of the root vowel; *avādeśa*; the suffix is *pit*, so the root accent remains), *havante* (the same root as before; *loṭ*, third person plural, *jhi*; *e* [for *ṭi*]; *ghvoḥ* … (Pā. Sū. 7-1-[?]): *anta* substitution; *bahulaṃ chandasi*: *samprasāraṇa* of the root; *pūrvarūpa*; the *śap* vikaraṇa; *guṇa* of the *u* before it; *avādeśa*; standing after an *ati…* word, *nighāta*), *adhvare* (*na vidyate dhvaro hiṃsā yatra saḥ adhvaraḥ*, tasmin; *nañsubhyām* (Pā. Sū. 6-2-172): the final of the last member is *udātta*; locative singular). ‖ 13 ‖
+
+*Here the 142nd Sūkta ends.*
+
+---
+
+### Printed p. 287  (PDF 305)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+## Sūkta 143
+
+### Printed p. 287 (continued; PDF 305)
+
+*(The Kannada heading reads "The 143rd Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; partly legible, not rendered in English. Gist: the sūkta of eight Ṛks beginning "Pra tavyasīm" is the fourth sūkta; ṛṣi Dīrghatamas; "from this sūkta on, eight sūktas are addressed to Agni"; the last Ṛk is Triṣṭubh and the others Jagatī [as the text reads]; its use at the Prātaranuvāka, the Āśvina-śastra, and, as a *nivid* for Jātavedas, in the Āgnimāruta-śastra of the Agniṣṭoma, with the Āśvalāyana Śrauta-sūtra cited.)*
+
+> प्र तव्यसीमिति अष्टर्चं चतुर्थं सूक्तं दैर्घतमसं । तथा चानुक्रान्तं प्र तव्यसीमष्टाग्नेयं तु त्रिष्टुबन्तमिति । तु तदितिकृत्वा [?] आद्यं सूक्तप्रभृत्यष्टाग्निदेवता [?] । अन्त्यं त्रिष्टुप् शिष्टाः [?] जगत्यः । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः । अग्निष्टोमे आग्निमारुते शस्त्रे (अग्निः) सूक्तं जातवेदस्यनिविद्धानीयम् [?] । अथ यथेतमुक्ते खण्डे सूत्रितम् — प्र तव्यसीं नव्यसीमपो हि ष्ठेति तिस्रः [?] (आ. श्रौ. ३-१०) इति । वरोरात्रस्य [?] प्रथमेऽहनि जातवेदस्यनिविद्धानं अश्वमेधिके मध्यमेऽहनि च निविद्धानं । तथा चाज्ञायोतिदेशः [?] । एकाहिकान्युपसंशस्य तेषु निविदो दध्यादेवमेवाग्निमारुते (आ. १०-१०) इति ॥ [?]
+
+> *pra tavyasīmiti aṣṭarcaṃ caturthaṃ sūktaṃ dairghatamasaṃ | tathā cānukrāntaṃ pra tavyasīmaṣṭāgneyaṃ tu triṣṭubantamiti | tu taditikṛtvā [?] ādyaṃ sūktaprabhṛtyaṣṭāgnidevatā [?] | antyaṃ triṣṭup śiṣṭāḥ [?] jagatyaḥ | prātaranuvākāśvinaśastrayorukto viniyogaḥ | agniṣṭome āgnimārute śastre (agniḥ) sūktaṃ jātavedasyanividdhānīyam [?] | atha yathetamukte khaṇḍe sūtritam — pra tavyasīṃ navyasīmapo hi ṣṭheti tisraḥ [?] (ā. śrau. 3-10) iti | varorātrasya [?] prathame 'hani jātavedasyanividdhānaṃ aśvamedhike madhyame 'hani ca nividdhānaṃ | tathā cājñāyotideśaḥ [?] | ekāhikānyupasaṃśasya teṣu nivido dadhyādevamevāgnimārute (ā. 10-10) iti ‖ [?]*
+
+**Anuvāda (Kannada).** The sūkta *pra tavyasīm* is the fourth sūkta of the twenty-first anuvāka; it has eight Ṛks. The ṛṣi of this sūkta is Dīrghatamas. The Anukramaṇī says "*pra tavyasīm aṣṭāgneyaṃ tu triṣṭubantam*"; from the use of the words *tu* and *tat* here it is to be understood that this and the following sūktas, eight in number, have Agni as their deity. The last Ṛk of this sūkta is in the Triṣṭubh metre and the rest in Jagatī. These sūktas are also employed as mantras of the *pātrānuṣavaṇa* [?] and the Āśvina-śastra; and, when the mantras of the Āgnimāruta-śastra are recited at the Agniṣṭoma, this sūkta is used as the *nivid* mantras relating to Jātavedas. The Āśvalāyana Śrauta-sūtra, in the section *yathetam*, explains it with the sūtra *pra tavyasīṃ navyasīm apo hi ṣṭheti tisraḥ* (Āś. [?]-10) [?]; and further: "on the first day of the *ahorātra*, the *nivid* for Jātavedas; and in the Aśvamedha, on the middle day, the *nivid* too" — and in the Āśvalāyana the teacher states that in the *ekāhika* rites, in the Āgnimāruta the *nivid* is to be inserted (Āś. [?]-10).
+
+---
+
+### Printed p. 288  (PDF 306)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+**॥ ओम् ॥**
+
+**Sūkta 143** — Maṇḍala 1, Anuvāka 21, Sūkta 143; Aṣṭaka 2, Adhyāya 2, Varga 13 [?]. Number of Ṛks in the sūkta: 8. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: 1–2 Jagatī; 3–8 Triṣṭubh [as read].
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र तव्यसीं नव्यसीं धीतिमग्नये वाचो मतिं सहसः सूनवे भरे ।
+> अपां नपाद्यो वसुभिः सह प्रियो होता पृथिव्यां न्यसीददृत्वियः ॥ १ ॥
+
+> *pra tavyasīṃ navyasīṃ dhītimagnaye vāco matiṃ sahasaḥ sūnave bhare |*
+> *apāṃ napādyo vasubhiḥ saha priyo hotā pṛthivyāṃ nyasīdadṛtviyaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । तव्यसीम् । नव्यसीम् । धीतिम् । अग्नये । वाचः । मतिम् । सहसः । सूनवे । भरे ।
+> अपाम् । नपात् । यः । वसुऽभिः । सह । प्रियः । होता । पृथिव्याम् । नि । असीदत् । ऋत्वियः ॥ १ ॥
+
+> *pra | tavyasīm | navyasīm | dhītim | agnaye | vācaḥ | matim | sahasaḥ | sūnave | bhare |*
+> *apām | napāt | yaḥ | vasu 'bhiḥ | saha | priyaḥ | hotā | pṛthivyām | ni | asīdat | ṛtviyaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *I offer to Agni, son of strength, the most vigorous and most new act of devotion and thoughtful speech of praise; he, the grandson of the waters, dear, the Hotṛ, takes his seat in due season on the earth (the altar) with the Vasus.* Small type; many words doubtful)
+
+> अहमग्नये तव्यसीं तवीयसीमतिशयेन वर्धयित्रीं [?] । तवतिर्वृद्ध्यर्थः । सौत्रो धातुः । अस्मात् तृजन्तात् [?] छन्दसि ईयसुन् । तुरिष्ठमेयेष्ठेषु [?] इति तृलोपः । छान्दस ईकारलोपः । नव्यसीं नवतरामपूर्वां धीतिं योगलक्षणां [?] स्तुतिगुणकं कर्म प्र भरे । प्रकर्षेण करोमि । तथोक्तलक्षणां वाचो मतिं स्तुतिरूपं कर्म भरे । कीदृशायाग्नये । सहसो बलस्य सूनवे पुत्राय । कीदृशो योऽग्निरपां नपात् तासां नप्ता । अद्भ्य ओषधिभ्यः [?] … वा अपां नपाताद्वा [?] … यो ऽग्निः वसुभिः सह प्रियो यजमानस्य प्रीणयिता प्रियतमो वा तस्य होता होमनिष्पादकः ऋत्वियः [?] सोऽग्निः … पृथिव्यां वेदिलक्षणायां वसुभिर्वासनाश्रयोग्य [?] … न्यसीदत् । नितरां सीदति ॥
+
+> *ahamagnaye tavyasīṃ tavīyasīmatiśayena vardhayitrīṃ [?] | tavatirvṛddhyarthaḥ | sautro dhātuḥ | asmāt tṛjantāt [?] chandasi īyasun | turiṣṭhameyeṣṭheṣu [?] iti tṛlopaḥ | chāndasa īkāralopaḥ | navyasīṃ navatarāmapūrvāṃ dhītiṃ yogalakṣaṇāṃ [?] stutiguṇakaṃ karma pra bhare | prakarṣeṇa karomi | tathoktalakṣaṇāṃ vāco matiṃ stutirūpaṃ karma bhare | kīdṛśāyāgnaye | sahaso balasya sūnave putrāya | kīdṛśo yo 'gnirapāṃ napāt tāsāṃ naptā | adbhya oṣadhibhyaḥ [?] … vā apāṃ napātādvā [?] … yo 'gniḥ vasubhiḥ saha priyo yajamānasya prīṇayitā priyatamo vā tasya hotā homaniṣpādakaḥ ṛtviyaḥ [?] so 'gniḥ … pṛthivyāṃ vedilakṣaṇāyāṃ vasubhirvāsanāśrayogya [?] … nyasīdat | nitarāṃ sīdati ‖*
+
+---
+
+### Printed p. 289  (PDF 307)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+**Pratipadārtha (Kannada).** *(ahaṃ — I)*; *sahasaḥ* — of strength; *sūnave* — to the son; *agnaye* — to Agni (addressing Agni); *tavyasīm* — the most invigorating; *navyasīm* — the very new; *dhītim* — the sacrificial act; *vācaḥ matim* — together with speech in the form of praise; *pra bhare* — I perform in a high degree; *yaḥ* — which Agni; *apāṃ napāt* — the grandson of the waters; *priyaḥ* — pleasing (to the sacrificer), or most dear; *hotā* — the accomplisher of the offering (that Agni); *ṛtviyaḥ* — being present in due time; *pṛthivyām* — on the earth called the altar; *vasubhiḥ* — with the Vasus [?]; *saha* — together; *ni asīdat* — sits down.
+
+**Bhāvārtha.** Addressing Agni, the son of strength, I perform in a high degree, with speech in the form of praise, the sacrificial act, which is most invigorating and new. That Agni, the grandson of the waters, who pleases the sacrificer and accomplishes the offering, comes, at the proper time of the sacrifice, to the altar with the Vasus [?] and sits down.
+
+**English Translation (as printed).** I offer devoutly to Agni, the son of strength, an invigorating and most new sacrifice, with words of adoration ; (that Agni), the grandson of the waters, who, (present) in due season, the friend and ministering priest (to the sacrificer) sits upon the alter [sic] with (many) good things.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** *(begins; the page ends after the first lines.)* The Sanskrit sentence *āgniṣṭome āgnimārute śastre idaṃ sūktaṃ jātavedasyanividdhānīyam* (as in the Anukramaṇī) is again quoted: *āgnimāruta*-related ... This sūkta, Sāyaṇa has said in his introduction, is of the nature of the *āgnimāruta-śastra* mantras; (and) *pra tavyasīṃ navyasīm apo hi ṣṭheti tisraḥ* [?].
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–289 done (Anukramaṇī and Anuvāda; Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English; Special Topics begun at the foot of p. 289, to continue on p. 290). Next: printed p. 290 (PDF 308). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284 read at low confidence; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
