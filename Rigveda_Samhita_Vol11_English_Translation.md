@@ -7680,4 +7680,180 @@ were much alike in certain particulars, and that this association, and resemblan
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–295 done (Anukramaṇī and Anuvāda; Ṛk 1 complete except the end of its grammar, which begins at the foot of p. 295; the Special Topics on the Āgnimāruta-śastra legend (Ai. Brā. and Śa. Brā. passages on Prajāpati and Rudra), *apāṃ napāt* and Bloomfield's remark, *tavyasīm*, *dhītim*). Next: printed p. 296 (PDF 314). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294 and the Brāhmaṇa quotations on pp. 290–293 read at low confidence; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 296  (PDF 314)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 1, concluded; grammar page, noted briefly).** *tavyasīm* (continued: the suffix-*ī* is dropped; since *īyasun* is *nit*, by *ñnityādir nityam* the first syllable is *udātta*), *navyasīm* (when *īyasun* comes in the sense of excess, the *a* is dropped as before; the accent as before), *matim* (*mantre vṛṣeṣa…* (Pā. Sū. 3-3-96): *ktin* is *udātta*; accusative singular), *bhare* (root *bhṛñ bharaṇe*; *laṭ*, first person singular; *tiṅ*-*nighāta* accent), *apām* (*ūḍidaṃ padādi…* (Pā. Sū. 6-1-171): the case-ending is *udātta*), *napāt* (root *pā rakṣaṇe*; with *śatṛ* the form is *pāt*; with *nañ* prefixed in the compound, *nabhrāṇnapāt…* (Pā. Sū. 6-3-75): formed irregularly with non-loss of *n* [i.e. *na* is retained]), *pṛthivyām* (the word *pṛthivī* is *jas*-ending [?: ṅīṣ-ending, *antodātta*]; when a case-ending follows, *yaṇ* is the substitute, and as the case-ending after it is *anudātta*, *udāttayaṇo…* (Pā. Sū. 6-1-174) gives it the *udātta* accent), *asīdet* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6): *laṅ* in the present sense; third person singular, *tip*; *itaś ca*: loss of *i*; *śap*; *pāghrādhmā…* (Pā. Sū. 7-3-78): *sīda* for the root; because of the connection with *yaḥ* (the relative) there is no *nighāta*; the augment *aṭ* is *udātta*, so the first syllable is *udātta*), *ṛtviyaḥ* (*ṛtu*; *yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-71): suffix *gha*; *āyaneyī…* (Pā. Sū. 7-1-2): *iya*; *yasyeti ca* drops the *a*; by the first-syllable *udātta* of the suffix the *i* is *udātta*). ‖ 1 ‖
+
+---
+
+#### Ṛk 2
+
+### Printed p. 297  (PDF 315)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+**॥ संहितापाठः ॥**
+
+> स जायमानः परमे व्योमन्याविरग्निरभवन्मातरिश्वने ।
+> अस्य क्रत्वा समिधानस्य मज्मना प्र द्यावा शोचिः पृथिवी अरोचयत् ॥ २ ॥
+
+> *sa jāyamānaḥ parame vyomanyāviragnirabhavanmātariśvane |*
+> *asya kratvā samidhānasya majmanā pra dyāvā śociḥ pṛthivī arocayat ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । जायमानः । परमे । विऽओमनि । आविः । अग्निः । अभवत् । मातरिश्वने ।
+> अस्य । क्रत्वा । सम्ऽइधानस्य । मज्मना । प्र । द्यावा । शोचिः । पृथिवी इति । अरोचयत् ॥ २ ॥
+
+> *saḥ | jāyamānaḥ | parame | vi 'omani | āviḥ | agniḥ | abhavat | mātariśvane |*
+> *asya | kratvā | sam 'idhānasya | majmanā | pra | dyāvā | śociḥ | pṛthivī iti | arocayat ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *That Agni, as soon as born from the two fire-sticks, appeared before Mātariśvan (the wind) in the highest atmosphere; kindled by mighty effort, his flame lit up heaven and earth; an alternative: Mātariśvan is the sacrificer and the "firmament" is the altar.* Small type; some words doubtful)
+
+> स पूर्वोक्तोऽग्निर्जायमानोऽरणिभ्यामुत्पद्यमानः काष्ठेषु वा प्रादुर्भूतः सन् तदानीमेव परमे उत्कृष्टे व्योमनि विविधरक्षणवति [?] नेदिदेशे [?] मातरिश्वने अन्तरिक्षसंचारिणे वायवे प्रथममाविरभवत् । प्रत्यक्षोऽभूत् । श्रूयते च — अग्ने प्रथमो मातरिश्वन आविर्भव (ऋ. १-३१-३) इत्यादि प्रत्यन्तरप्रसिद्धेः । वायुसंयोगात् प्रज्वलतीत्यर्थः । अथवा मातरि फलस्य निर्मात्र्यां यज्ञे श्वसिति चेष्टते इति मातरिश्वा यजमानः । तदर्थं कृतं [?] किंचित् समिधानस्येन्धनैः सम्यग्गृह्यमाणस्याग्नेर्मज्मना बलनामैतत् । बलवता क्रत्वा कर्मणा ज्वालनाव्यापारेण शोचिर्द्युलोकं पृथिवीं च प्रारोचयत् । प्रकर्षेण दीपयत् ॥ मज्मना क्रत्वा समिधानस्येति वा योज्यं । प्रबलेन समिन्धनाध्यापारेण समिद्ध्यमानस्येत्यर्थः ॥
+
+> *sa pūrvokto 'gnirjāyamāno 'raṇibhyāmutpadyamānaḥ kāṣṭheṣu vā prādurbhūtaḥ san tadānīmeva parame utkṛṣṭe vyomani vividharakṣaṇavati [?] nedideśe [?] mātariśvane antarikṣasaṃcāriṇe vāyave prathamamāvirabhavat | pratyakṣo 'bhūt | śrūyate ca — agne prathamo mātariśvana āvirbhava (ṛ. 1-31-3) ityādi pratyantaraprasiddheḥ | vāyusaṃyogāt prajvalatītyarthaḥ | athavā mātari phalasya nirmātryāṃ yajñe śvasiti ceṣṭate iti mātariśvā yajamānaḥ | tadarthaṃ kṛtaṃ [?] kiṃcit samidhānasyendhanaiḥ samyaggṛhyamāṇasyāgnermajmanā balanāmaitat | balavatā kratvā karmaṇā jvālanāvyāpāreṇa śocirdyulokaṃ pṛthivīṃ ca prārocayat | prakarṣeṇa dīpayat ‖ majmanā kratvā samidhānasyeti vā yojyaṃ | prabalena samindhanādhyāpāreṇa samiddhyamānasyetyarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *saḥ* — that, described before; *agniḥ* — Agni; *jāyamānaḥ* — as soon as he was born; *parame* — in the highest; *vyomani* — in the atmosphere; *mātariśvane* — before the wind; *āviḥ abhavat* — became manifest; [*vyomani* — on the altar; *mātariśvane* — before the sacrificer; *āviḥ abhavat* — became manifest]; (and) *majmanā* — of great power; *kratvā* — by his act of blazing and the like; *samidhānasya asya* — of this Agni who is kindled by fuel; *śociḥ* — the radiance; *dyāvā* — heaven; *pṛthivī* — and earth; *pra arocayat* — lit up.
+
+---
+
+### Printed p. 298  (PDF 316)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+**Bhāvārtha.** As soon as he was born, Agni became manifest before the wind in the excellent atmosphere. And the radiance of this Agni, kindled by fuels, with the power of blazing and so on, lit up heaven and earth.
+
+**English Translation (as printed).** As soon as born, was that (Agni) manifested to Matarishwan in the highest atmosphere, and his radiance, kindled by vigorous effort, spread through heaven and earth.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk it is described that Agni, as soon as he was born, became manifest in the sky (*vyoman*) before Mātariśvan, and that thereafter his kindled radiance lit up heaven and earth. Here two kinds of construction of the first half are possible. First: *vyomani* — in the atmosphere; *mātariśvane* — before Mātariśvan; *āvir abhavat* — became manifest. Second: *vyomani* — on the sacrificial altar; *mātariśvane* — before the sacrificer; *āvir abhavat*.
+
+(1) That Agni became manifest to Mātariśvan in the *vyoman* is well known. The word *vyoman* is read among the names of the atmosphere (Ni. 1-[?]): it is derived from the root *vī + om*, "to pervade, to cover"; the meaning is "the pervading atmosphere".
+
+> त्वमग्ने प्रथमो मातरिश्वन आविर्भव सुक्रतो यो विवस्वते ।
+> अरेजेतां रोदसी होतृवूर्ये सहोभिर्भारमयजो महो वसो ॥
+
+> *tvamagne prathamo mātariśvana āvirbhava sukrato yo vivasvate |*
+> *arejetāṃ rodasī hotṛvūrye sahobhirbhāramayajo maho vaso ‖*
+
+(Ṛ. Saṃ. 1-31-3.) In such Ṛks it is well known that the manifestation of Agni, first to the wind, is in the form of lightning. Moreover,
+
+> वह्निं यशसं विदथस्य केतुं सुप्राव्यं दूतं सद्योअर्थम् ।
+> द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा ॥
+
+> *vahniṃ yaśasaṃ vidathasya ketuṃ suprāvyaṃ dūtaṃ sadyoartham |*
+> *dvijanmānaṃ rayimiva praśastaṃ rātiṃ bharadbhṛgave mātariśvā ‖*
+
+(Ṛ. Saṃ. 1-60-1.) in such Ṛks it is said in many places that Mātariśvan brought the hidden Agni from a far-off place and gave him to the earth, for the use of Bhṛgu and Manu, the performers of sacrifice, and for the benefit of all creatures on earth.
+
+---
+
+### Printed p. 299  (PDF 317)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+Hence there is ample support for stating the first meaning. 
+
+(2) In stating the second meaning, what ground there is, and whether it suffices, are to be considered. *Vyomani* — here *vedīdeśe* ("in the region of the altar") is Sāyaṇa's sense of the word *vyoman*: the root *vi* + *avati* (to protect) gives *vi-oman*, "a place endowed with various kinds of protection, the altar (*vedī*)": this is the explanation. In the Ṛks too, this word is seen to have this meaning in many places. For instance —
+
+> इयं वेदिः परो अन्तः पृथिव्या अयं यज्ञो भुवनस्य नाभिः ।
+> अयं सोमो वृष्णो अश्वस्य रेतो ब्रह्मायं वाचः परमं व्योम ॥
+
+> *iyaṃ vediḥ paro antaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ |*
+> *ayaṃ somo vṛṣṇo aśvasya reto brahmāyaṃ vācaḥ paramaṃ vyoma ‖*
+
+(Ṛ. Saṃ. 1-164-35.) in this Ṛk *vyoma* means "the highest place that protects", and
+
+> ऋतेन ऋतं धरुणं धारयन्त यज्ञस्य शाके परमे व्योमन् ।
+> दिवो धर्मन् धरुणे सेदुषो नॄञ्जातैरजातां अभि ये ननक्षुः ॥
+
+> *ṛtena ṛtaṃ dharuṇaṃ dhārayanta yajñasya śāke parame vyoman |*
+> *divo dharman dharuṇe seduṣo nṝñjātairajātāṃ abhi ye nanakṣuḥ ‖*
+
+(Ṛ. Saṃ. 3-39-2 [?].) in this Ṛk *utkṛṣṭe sthāne* ("in the highest place") is *uttaravedī* (the northern altar): "in the *utkṛṣṭa uttaravedī*" is the meaning. Here, in the present Ṛk, if *vyoman* is taken as the *vedī*, then *mātariśvā* [would be] *mātari phalasya nirmātryāṃ yajñe śvasiti ceṣṭate iti mātariśvā*, "the one who moves in the sacrifice, the maker of the fruit"; so, since he conducts himself in the sacrifice that gives all kinds of fruit, *mātariśvā* means the sacrificer. Hence the sense: "Agni, as soon as kindled, became manifest on the altar for the sacrificer". The Brāhmaṇa sentence
+
+> व्योमसदसि वै व्योमसद् [?] व्योमा वै पशुः [?] ।
+
+> *vyomasadasi vai vyomasad [?] vyomā vai paśuḥ [?] |*
+
+(Ai. Brā. 1-[?]; read with doubt.) supports this meaning.
+
+As in the first sense, if *mātariśvan* means the wind, then Agni and this *mātariśvan* have relations that are to be considered as distinct, and Agni being manifest as having been brought by him will mean that the two are separate beings. Yet in the history stated here, if looked at carefully, there are some grounds for their identity —
+
+> उदु ष्टुतः समिधा यज्ञो अद्यौद्वर्ष्मन् दिवो अधि नाभा पृथिव्याः ।
+> मित्रो अग्निरीड्यो मातरिश्वा दूतो वक्षद्यजथाय देवान् ॥
+
+> *udu ṣṭutaḥ samidhā yajño adyaudvarṣman divo adhi nābhā pṛthivyāḥ |*
+> *mitro agnirīḍyo mātariśvā dūto vakṣadyajathāya devān ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].)
+
+---
+
+### Printed p. 300  (PDF 318)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+In this Ṛk, for the word *mātariśvā*, Sāyaṇa gives the sense of *mātari antarikṣe śvasiti*, "he who breathes in the atmosphere", that is *prāṇiti* (lives): "he who moves as the sun in the atmosphere", or *mātṛ-araṇye* "in the forest-mother (the fire-sticks)" he moves — in the atmosphere, or in the *araṇi*s; as Agni is moving in them, he is called by this name; the Nirukta authors too show this very derivation and explain it as Agni; so Sāyaṇa shows the basis of his own derivation. In the same way —
+
+> तं शुभ्रमग्निमवसे हवामहे वैश्वानरं मातरिश्वानमुक्थ्यम् ।
+> बृहस्पतिं मनुषो देवताताये विप्रं श्रोतारमतिथिं रघुष्यदम् ॥
+
+> *taṃ śubhramagnimavase havāmahe vaiśvānaraṃ mātariśvānamukthyam |*
+> *bṛhaspatiṃ manuṣo devatātāye vipraṃ śrotāramatithiṃ raghuṣyadam ‖*
+
+(Ṛ. Saṃ. 3-26-2.) in this Ṛk, and in *sa mātariśvā puruvārapuṣṭiḥ* ("that Mātariśvan of abundant nourishment") in the Ṛk 1-[?]-[?], the identity of Agni and Mātariśvan is declared; and in the Ṛk in the present context (1-143-2):
+
+> उदस्तम्भीत्समिधा नाकमृष्वो ऽग्निर्भवन्नुत्तमो रोचनानाम् ।
+> यदी भृगुभ्यः परि मातरिश्वा गुहा सन्तं हव्यवाहं समीधे ॥
+
+> *udastambhītsamidhā nākamṛṣvo 'gnirbhavannuttamo rocanānām |*
+> *yadī bhṛgubhyaḥ pari mātariśvā guhā santaṃ havyavāhaṃ samīdhe ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) in this Ṛk it is clear that the two are said to be separate. [But this is itself a sentence of Ṛk 3-9-4 [?], which says that Agni and Mātariśvan are identical, or that the word *mātariśvā* is an epithet of Agni.]
+
+The other qualities and powers of Mātariśvan will be told later at the suitable contexts.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *jāyamānaḥ* (root *janī prādurbhāve*; *śānac* in the present sense; *śyan* vikaraṇa; *jñājanor jā* (Pā. Sū. 7-3-79): *jā* substituted; *āne muk* (Pā. Sū. 7-2-82): the augment *muk* of the suffix; being after an *ati…* [word] *tāsyanudāttet* (Pā. Sū. 6-1-186) makes it *anudātta*; since *śyan* is *śit* [*sit*], first-syllable *udātta*), *mātariśvane* (*mātari śvayati iti mātariśvā*; *śvannukṣan…* (Uṇ. Sū. 1-[?]): formed by the suffix *kani*; dative singular; by the suffix-accent the *i* is *udātta*).
+
+---
+
+### Printed p. 301  (PDF 319)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+*kratvā* — *kratu* + *ā*; being followed by *ā*, *jasādiṣu chandasi vāvacanam* gives the non-occurrence of *nābhāva* [?]; *yaṇ* substituted.
+
+*samidhānasya* — root *iñdhī dīptau*; *śānac* in the present sense; *bahulaṃ chandasi*: *luk* of the vikaraṇa; the suffix being *cit*, *anidītāṃ…* drops the nasal [of the root]; *śānac* being *cit*, the accent is last-syllable *udātta* by *citaḥ* (Pā. Sū. 6-1-163); genitive singular.
+
+*majmanā* — root *ṭumasjo śuddhau*; with *ṣoḍaśādika* [?] *manin* suffix; by the suffix-accent it is last-syllable *udātta* [?].
+
+*dyāvāpṛthivī* — *dyauś ca pṛthivī ca dyāvāpṛthivyau*; *divo dyāvā* (Pā. Sū. 6-3-29) [?]: *dyāvā* for the former member; by Vedic usage *dyāvā* is used, and the word *śociḥ* becomes [?]; by *supāṃ sulug* the second case-ending gets *pūrvasavarṇa* lengthening.
+
+*arocayat* — root *ruca dīptau*; *hetumati ca* (Pā. Sū. 3-1-26): *ṇic* indicating the causal action; *pugantalaghūpadhasya ca*: *guṇa* of the penultimate short vowel; *laṅ*, third person singular; being after an *ati…* word, the *tiṅ*-*nighāta* accent. ‖ 2 ‖
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अस्य त्वेषा अजरा अस्य भानवः सुसंदृशः सुप्रतीकस्य सुद्युतः ।
+> भात्वक्षसो अत्यक्तुर्न सिन्धवोऽग्ने रेजन्ते असन्तो अजराः ॥ ३ ॥
+
+> *asya tveṣā ajarā asya bhānavaḥ susaṃdṛśaḥ supratīkasya sudyutaḥ |*
+> *bhātvakṣaso atyakturna sindhavo 'gne rejante asanto ajarāḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्य । त्वेषाः । अजराः । अस्य । भानवः । सुऽसंदृशः । सुऽप्रतीकस्य । सुऽद्युतः ।
+> भात्वक्षसः । अति । अक्तुः । न । सिन्धवः । अग्नेः । रेजन्ते । असन्तः । अजराः ॥ ३ ॥
+
+> *asya | tveṣāḥ | ajarāḥ | asya | bhānavaḥ | su 'saṃdṛśaḥ | su 'pratīkasya | su 'dyutaḥ |*
+> *bhātvakṣasaḥ | ati | aktuḥ | na | sindhavaḥ | agneḥ | rejante | asantaḥ | ajarāḥ ‖ 3 ‖*
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–301 done (Anukramaṇī and Anuvāda; Ṛk 1 and Ṛk 2 complete with Special Topics and grammar; Ṛk 3 begun: Saṃhitā and Pada on p. 301, the bhāṣya to follow on p. 302). Next: printed p. 302 (PDF 320). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293 read at low confidence; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
