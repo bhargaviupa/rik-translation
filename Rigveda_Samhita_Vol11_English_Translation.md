@@ -4616,4 +4616,156 @@ The description in this Ṛk that Agni, as soon as kindled, becomes pure, gracio
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–183 done: Ṛks 1–5 complete; Ṛk 6 through printed English and Special Topics (*papracānāsaḥ*, *hotāram*))). Next: printed p. 184 (PDF 202) — Special Topics of Ṛk 6 continued (*hotāram*), grammar; then Ṛk 7. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 184  (PDF 202)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+***diviṣṭiṣu*** — *diviṣṭiṣu diva iṣaṇeṣu* (Ni. 6-[?]); the Nirukta authors say the sense is "the sacrifices that procure the road to heaven", and cite
+
+> स्थूरं राधः शताश्वं कुरुङ्गस्य दिविष्टिषु । राज्ञस्त्वेषस्य सुभगस्य रातिषु तुर्वशेष्वमन्महि ॥
+
+> *sthūraṃ rādhaḥ śatāśvaṃ kuruṅgasya diviṣṭiṣu | rājñastveṣasya subhagasya rātiṣu turvaśeṣvamanmahi ‖*
+
+(Ṛ. Saṃ. 8-4-19 [?].) to show the right sense of the word. Sāyaṇa also explains this word: *divaḥ svargasyaiṣaṇeṣu prāptihetubhūtāsu yāgakriyāsu*, "in the sacrificial acts that are the means of obtaining heaven".
+
+***ṛñjate*** — *ṛñjatiḥ prasādhanakarmā* (Ni. 6-31): the Nirukta authors say it means "adorn", citing
+
+> आ व ऋञ्जस ऊर्जां व्युष्ट्विन्द्रं मरुतो रोदसी अनक्तन । उभे यथा नो अहनी सचाभुवा सदःसदो वरिवस्यात उद्भिदा ॥
+
+> *ā va ṛñjasa ūrjāṃ vyuṣṭvindraṃ maruto rodasī anaktana | ubhe yathā no ahanī sacābhuvā sadaḥsado varivasyāta udbhidā ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) — the Ṛk containing *ṛñjase*. Sāyaṇa too explains this word as *prasādhayanti, alaṅkurvanti*.
+
+***majmanā*** — this word is read among the names of strength (Ni. 2-9): *śārīreṇa balena*, "with bodily strength", Sāyaṇa explains.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar pages 184–185, noted briefly).** *hotāram* (root *hu dānādanayoḥ*; suffix *tṛn* in the agent sense; *guṇa* by the suffix; *nit*, first-syllable accent; accusative singular), *vṛṇate* (root *vṛñ sambhaktau*; *laṭ*, third person plural; *ati-jñanta*, hence *tiṅ-nighāta*), *diviṣṭiṣu* (*diva iṣṭayaḥ* — in the locative; by *divi-ṣṭiṣu* … *sarve vidhayaś chandasi vikalpyante* gives *vivalut* (Pā. Sū. 6-1-[?]) which does not apply here; *bahuvrīhau prakṛtyā pūrvapadam*: the first member's accent), *papracānāsaḥ* (root *pṛcī saṃparke*; *chandasi luṅlaṅliṭaḥ* gives *liṭ* in the present sense; *liṭaḥ kānac* (Pā. Sū. 3-2-106); the root takes reduplication; …). (continues on p. 185)
+
+### Printed p. 185  (PDF 203)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+*Grammar (Ṛk 6, continued; noted briefly):* *papracānāsaḥ* (*jas* follows: *ājjaser asuk* gives *asuk*; *kānac* is *cit*, hence *citaḥ*, last-syllable accent), *ṛñjate* (*ṛñji prasādhana*; *laṭ*, third person plural; *ati-jñanta*, *nighāta*), *kratvā* (*kratu*; instrumental *ṭā*; *jasādiṣu chandasi vā vacanam*: optional *nābhāva*, not here; *yaṇ* substitution), *majmanā* (root *ṭuosvi* … *manin* by *anyebhyo 'pi dṛśyate*; *mukāra* … *udātta*; instrumental), *puruṣṭutaḥ* (*purubhir bahubhiḥ stutaḥ puruṣṭutaḥ*; root *ṣṭuñ stutau*; *niṣṭhā*: suffix *kta* in the passive; the accent of the suffix, the final syllable *udātta*; *gatikārakopapadāt kṛt*: the *kṛt*-final member's accent), *martam* (root *mṛṅ prāṇatyāge*; *asiṣīmṣi* … (Uṇ. Sū. 3-[?]) suffix *tan*; *guṇa*; *nit*: first-syllable accent), *śaṃsam* (root *śaṃsu stutau*; *halaś ca* (Pā. Sū. 3-3-121) *ghañ* in the sense of *bhāva* and the like; *ñit*, first-syllable accent), *veti* (root *vī gatiprajanakāntyasanakhādaneṣu*; *adādi*; *laṭ*, third person singular; because of *yat*, *nighāta* barred by *nipātair yadyadi*… (Pā. Sū. 8-1-30); *tip* is *pit*, so the root accent remains), *dhāyase* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *vahihāṅ…* (Uṇ. Sū. 4-[?]) suffix *asun*; *ātodhātoḥ* … *yuk* (Pā. Sū. 6-4-[?]) augment; *nit*, first-syllable accent; dative singular). ‖ 6 ‖
+
+---
+
+#### Ṛk 7
+
+### Printed p. 186  (PDF 204)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**॥ संहितापाठः ॥**
+
+> वि यदस्थाद्यजतो वातचोदितो ह्वारो न वक्वा जरणा अनाकृतः ।
+> तस्य पत्मन्दक्षुषः कृष्णजंहसः शुचिजन्मनो रज आ व्यध्वनः ॥ ७ ॥
+
+> *vi yadasthādyajato vātacodito hvāro na vakvā jaraṇā anākṛtaḥ |*
+> *tasya patmandakṣuṣaḥ kṛṣṇajaṃhasaḥ śucijanmano raja ā vyadhvanaḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> वि । यत् । अस्थात् । यजतः । वातऽचोदितः । ह्वारः । न । वक्वा । जरणा । अनाकृतः ।
+> तस्य । पत्मन् । दक्षुषः । कृष्णऽजंहसः । शुचिऽजन्मनः । रजः । आ । विऽअध्वनः ॥ ७ ॥
+
+> *vi | yat | asthāt | yajataḥ | vāta 'coditaḥ | hvāraḥ | na | vakvā | jaraṇā | anākṛtaḥ |*
+> *tasya | patman | dakṣuṣaḥ | kṛṣṇa 'jaṃhasaḥ | śuci 'janmanaḥ | rajaḥ | ā | vi 'adhvanaḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *When Agni, urged by wind, spreads unchecked in many directions like a roving, crooked talker, the world is intent on the sacrificial way of this all-burning, dark-pathed one.* Small type; doubtful words marked)
+
+> यद्यदायमग्निर्वातचोदितो वायुना प्रेरितः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । यजतः सर्वैर्यष्टव्यो यष्टुं योग्यः सन् व्यस्थात् विविधं तिष्ठति [?] सर्वतो व्याप्तो भवति । तत्र दृष्टान्तः । अनाकृतः [?] अनिवारितोऽप्रहतप्रसरः । वक्वा बहुवक्ता ॥ वचेरन्येभ्योऽपि दृश्यत इति वनिप् । दृशिग्रहणात्कन्प्रत्ययः [?] ॥ ह्वारो न कुटिल इव [?] । ह्वरतेर्ण्यन्ताच्चाद्यच् [?] । स यथा जरणा स्तुतीर्विशिष्टा [?] विविधं कुर्वन् वर्तते तद्वदयमप्यनाकृतोऽप्रतिबद्धप्रसरो व्यवस्थितः [?] । कदा । तस्याग्नेः सर्वत्र पत्मन् पतने मार्गे यज्ञरूपे रजो रञ्जनात्मके [?] लोके आ [?] … तस्य दक्षुषः दहतः कृष्णजंहसः कृष्णमार्गस्य । पुनःपुनर्गम्यते इति जंहा मार्गः । हन्तेरञ्लुगन्तात्मणसुन् [?] … शुचिजन्मनः मन्त्रसहिताभ्यामरणिभ्यामुत्पन्नत्वात् [?] … विविधजन्मस्य … व्यध्वनः नानामार्गस्य … [partly unread]
+
+> *yadyadāyamagnirvātacodito vāyunā preritaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam | yajataḥ sarvairyaṣṭavyo yaṣṭuṃ yogyaḥ san vyasthāt vividhaṃ tiṣṭhati [?] sarvato vyāpto bhavati | tatra dṛṣṭāntaḥ | anākṛtaḥ [?] anivārito 'prahataprasaraḥ | vakvā bahuvaktā ‖ vaceranyebhyo 'pi dṛśyata iti vanip | dṛśigrahaṇātkanpratyayaḥ [?] ‖ hvāro na kuṭila iva [?] | hvaraterṇyantāccādyac [?] | sa yathā jaraṇā stutīrviśiṣṭā [?] vividhaṃ kurvan vartate tadvadayamapyanākṛto 'pratibaddhaprasaro vyavasthitaḥ [?] | kadā | tasyāgneḥ sarvatra patman patane mārge yajñarūpe rajo rañjanātmake [?] loke ā [?] … tasya dakṣuṣaḥ dahataḥ kṛṣṇajaṃhasaḥ kṛṣṇamārgasya | punaḥpunargamyate iti jaṃhā mārgaḥ | hanterañlugantātmaṇasun [?] … śucijanmanaḥ mantrasahitābhyāmaraṇibhyāmutpannatvāt [?] … vividhajanmasya … vyadhvanaḥ nānāmārgasya … [partly unread]*
+
+**Pratipadārtha (Kannada).** *anākṛtaḥ* — he who has unchecked flow of speech; *hvāraḥ na* — like a deceitful man; *vakvā* — as a babbler; *jaraṇāḥ* — (without discrimination of rank) extends his talk with praises of many kinds, so (this Agni); *vātacoditaḥ* — impelled by the wind; *yajataḥ* — worthy of the worship of all; *yat* — when; *vi asthāt* — [he], with unchecked spread, spreads in many directions (then); *dakṣuṣaḥ* — the all-consuming; *kṛṣṇajaṃhasaḥ* — whose path is dark; *śucijanmanaḥ* — of pure birth (by mantra); *vyadhvanaḥ* — whose flames spread by many paths; *tasya agneḥ* — of that Agni; *patman* — in the way of worship in the form of sacrifice; *rajaḥ* — the world; *ā (asthāt)* — remains intent.
+
+### Printed p. 187  (PDF 205)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Bhāvārtha.** As a babbler with unchecked flow of speech, a deceiver, extends his talk with praises of many kinds, with no sense of due order, so this Agni too — impelled by the wind, worthy of the worship of all, spreading with unchecked flow in many directions, consuming everything, of the dark path, of pure birth by mantra, with flames spread along many paths — in the way of worship that is the sacrifice of this Agni the whole world is intent.
+
+**English Translation (as printed).** Since the adorable (Agni), impelled by the wind, spreads, in various directions, like an insincere and unrestrained chatterer, (who utters indiscriminate) praises, therefore the world is assiduous in the worship of him, the consumer of all, whose way is dark, who is pure of birth, and follows various paths.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk the growth of Agni, with his unchecked spreading, is compared to the growth of an unbroken talker's words.
+
+***anākṛtaḥ*** — *anivāritaḥ apratihataprasaraḥ*: Sāyaṇa explains it as "having unobstructed flow". The other derivation can be arrived at in two ways. *Anā* and *kṛtaḥ*: "made without obstruction" — the derivation can be shown suitably in this context. Thus —
+
+> अभ्रातृव्यो अना त्वमनापिरिन्द्र जनुषा सनादसि । युधेदापित्वमिच्छसे ॥
+
+> *abhrātṛvyo anā tvamanāpirindra januṣā sanādasi | yudhedāpitvamicchase ‖*
+
+(Ṛ. Saṃ. 8-21-13.) In this Ṛk Sāyaṇa explains the word *anā* as *aniyantrake*, "unrestrained"; for the word *anā* other senses also are given — *āsyena* (1-12-3), *prāṇarūpeṇa balena* (4-30-3) — but those senses are not apt here. Hence *anā-kṛtaḥ* means "a talker who keeps going without check" [?].
+
+***hvāraḥ*** — *kuṭila*: not straight, that is, one without a truthful feeling and conduct, a deceiver. The babbler, because he rambles beyond measure, has no straight and definite object; because he is crooked the epithet *hvāraḥ* is used. This epithet is also used of a thief. For example (continues on p. 188)
+
+### Printed p. 188  (PDF 206)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+> युवं पयो उस्रियायामधत्तं पक्वमामायामव पूर्व्यं गोः । अन्तर्यद्वनिनो वामृतस्पृशा ह्वारो न शुचिर्यजते हविष्मान् [?] ॥
+
+> *yuvaṃ payo usriyāyāmadhattaṃ pakvamāmāyāmava pūrvyaṃ goḥ | antaryadvanino vāmṛtaspṛśā hvāro na śuciryajate haviṣmān [?] ‖*
+
+(Ṛ. Saṃ. 1-180-3.) In this Ṛk the vigilance of the sacrificer is compared to the vigilance of a thief; here *hvāro na* means "like a thief". The senses "thief" and "deceiver" for the word *hvāra* came by tradition; the root sense of this word is "crooked, curved".
+
+> क्रत्वा हि द्रोणे अज्यसेऽग्ने वाजी न कृत्व्यः । परिज्मेव स्वधा गयोऽत्यो न ह्वार्यः शिशुः ॥
+
+> *kratvā hi droṇe ajyase 'gne vājī na kṛtvyaḥ | parijmeva svadhā gayo 'tyo na hvāryaḥ śiśuḥ ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) In this Ṛk the word *hvāryaḥ* shows the crooked gait of a young horse; and
+
+> उत स्म दुर्गृभीयसे पुत्रो न ह्वार्याणाम् । पुरू यो दग्धासि वनाग्ने पशुर्न यवसे ॥
+
+> *uta sma durgṛbhīyase putro na hvāryāṇām | purū yo dagdhāsi vanāgne paśurna yavase ‖*
+
+(Ṛ. Saṃ. 4-4-[?].) in this Ṛk the word *hvāryāṇām* shows *kuṭilaṃ gacchatāṃ sarpāṇām*, the crooked movement of snakes moving crookedly. In the present Ṛk, the epithet *hvāraḥ* is used to show the crooked way of a babbler who talks merely for the sake of talking, with no definite aim, and to show his deceitful dealing.
+
+***vakvā*** — *bahuvaktā*, "a great talker": saying this, Sāyaṇa shows that it is formed from the root *vac*. But it appears more correct to say that its root is the verb *vaki* (*kauṭilye gatau ca*). The sense of this word is "crooked", or "crookedness". To show the derivation *vakvā* from *vac* does not seem fit [?]; the sense also agrees with the second root. But since the word *vakvā* is used in all the contexts of making great noise, one has to say that there it comes from the root *vac*. For example —
+
+> असर्जि वक्वा रथ्ये यथाजौ धिया मनोता प्रथमो मनीषी । दश स्वसारो अधि सानो अव्ये जिन्वन्ति वह्निं सदनान्यच्छ ॥
+
+> *asarji vakvā rathye yathājau dhiyā manotā prathamo manīṣī | daśa svasāro adhi sāno avye jinvanti vahniṃ sadanānyaccha ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) in this Ṛk it is an epithet of Soma, "making a sound", and
+
+> श्रुधी हवमिन्द्र शूर पृथ्या उत स्तवसे वेन्यस्यार्कैः । आ यस्ते योनिं घृतवन्तमस्वारूर्मिर्न निम्नैर्द्रवयन्त वक्वाः ॥
+
+> *śrudhī havamindra śūra pṛthyā uta stavase venyasyārkaiḥ | ā yaste yoniṃ ghṛtavantamasvārūrmirna nimnairdravayanta vakvāḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) (continues on p. 189)
+
+### Printed p. 189  (PDF 207)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+in this Ṛk as an epithet of the sounding praisers; and,
+
+> प्राग्रुवो नभन्वो न वक्वा ध्वस्रा अपिन्वन्युवतीर्ऋतज्ञाः [?] । धन्वान्यज्रा अपृणक् तृषाणा अधोगिन्द्रः स्त्रो [?] … दंसुपुष्टीः [?] ॥
+
+> *prāgruvo nabhanvo na vakvā dhvasrā apinvanyuvatīrṛtajñāḥ [?] | dhanvānyajrā apṛṇak tṛṣāṇā adhogindraḥ stro [?] … daṃsupuṣṭīḥ [?] ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?]; read with doubt.) in this Ṛk, since it is an epithet of the sounding army, one has to say that the root is *vac*. In the present Ṛk, since both qualities, sound and crookedness, are present, it may be formed from either root. "A babbler" is the sense.
+
+***jaraṇāḥ*** — this word is ordinarily formed from the root *jṝ* (*vayohānau*) and indicates old age and decay [as used in Ṛks 1-[?]-[?]; 10-[?]-[?] and others]. But in the Ṛk
+
+> अध प्र जज्ञे तरणिर्ममत्तु प्र रोच्यस्या उषसो न सूरः । इन्दुर्येभिराष्ट स्वेदुहव्यैः स्रुवेण सिञ्चञ्जरणाभि धाम ॥
+
+> *adha pra jajñe taraṇirmamattu pra rocyasyā uṣaso na sūraḥ | induryebhirāṣṭa sveduhavyaiḥ sruveṇa siñcañjaraṇābhi dhāma ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?]; read with doubt.) it is also used in the sense of praise. Sāyaṇa, showing another derivation, explains *jarati stutikarmā* (Ni. 3-[?]), *asmāt karmaṇi lyuṭ*, and explains *jaraṇā* as *stotavyaḥ* in the explanation of Ṛk 1-66-1. The Nirukta authors
+
+> जराबोध तद्विविड्ढि विशेविशे यज्ञियाय । स्तोमं रुद्राय दृशीकम् ॥
+
+> *jarābodha tadviviḍḍhi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkam ‖*
+
+(Ṛ. Saṃ. 1-27-10.) citing this Ṛk, showing the derivation of the word *jarābodha*, indicate the sense of this word thus: *jarā jaratiḥ stutikarmā* (Ni. 10-[?]). Accordingly in the present Ṛk also *jaraṇā* means "a praiser". The common quality between the babbler and the praisers here is that both extend their sentences without measure.
+
+Thus the epithets *anākṛtaḥ*, *hvāraḥ*, *jaraṇāḥ*, as they tell the nature of *vakvā na*, also become epithets of Agni and tell his unobstructed, crooked and noise-filled spread.
+
+***kṛṣṇajaṃhasaḥ*** — *kṛṣṇamārgasya*: "of the dark path" is an epithet of Agni. Showing the derivation of the word *jaṃha* as *punaḥpunargamyate iti jaṃhā mārgaḥ*, Sāyaṇa explains it as "path". (continues on p. 190)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–189 done: Ṛks 1–6 complete; Ṛk 7 through printed English and Special Topics (*anākṛtaḥ*, *hvāraḥ*, *vakvā*, *jaraṇāḥ*, *kṛṣṇajaṃhasaḥ* begun))). Next: printed p. 190 (PDF 208) — Special Topics of Ṛk 7 continued (*jaṃhasaḥ*), grammar; then Ṛk 8. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
