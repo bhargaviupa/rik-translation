@@ -602,4 +602,78 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–20 done: all of Ṛk 1 except the end of its grammar). Next: printed p. 21 (PDF 39): the remaining grammar entries of Ṛk 1 (*āyuyuve*, *makhaḥ* … and the closing ‖ 1 ‖), then Ṛk 2. Workflow as in CLAUDE.md "Cost-saving rules": bhāṣya in Devanagari, no English, one-line gist; images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost); `english_block.py` fails here (use the printed English as seen); helpers /tmp/v11/app11.py (English), kn_merge.py (Kannada). Open flags: Sūkta 138 pp. 15–16 bhāṣya small words (*na tandate* gloss, *antyūtim* gloss, *makha* clause); pp. 17–19 all Ni./Tai. Brā./Bṛ. De./Ṛg numerals, the Bṛhaddevatā verses and the Ṛg quotations (read at 120 dpi, many letters guessed and marked [?]); the paragraph on Sāyaṇa vs. Bṛhaddevatā on *tuvijāta* (p. 18) is only roughly read; Sūkta 137 and Pīṭhike flags as in the earlier note.
+### Printed p. 21  (PDF 39)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 1, grammar page continued, noted briefly).** *antyūtim* (*antikā āsannā ūtir yasya saḥ*; elision of *ka* by *kādilopo bahulam*; *yaṇ*; *bahuvrīhau prakṛtyā pūrvapadam* gives the first member's accent), *mayobhuvam* (root *bhū sattāyām*; *kvip*; *gatikārakopapadāt kṛt* — the *kṛdutta-pada-prakṛtisvara*), *yuyuve* (root *yu miśraṇe*; *vyatyayo bahulam*; the Ātmanepada by *chandasi luṅlaṅliṭaḥ*), *makhaḥ* (*mukha*-type derivation with *matup* elided, or *ac* by *arśa-ādibhyo 'c*; *yasyeti ca* drops the *a*). ‖ 1 ‖ Sūtra numbers not read.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> प्र हि त्वा पूषन्नजिरं न यामनि स्तोमेभिः कृण्व ऋणवो यथा मृध उष्ट्रो न पीपरो मृधः ।
+> हुवे यत्त्वा मयोभुवं देवं सख्याय मर्त्यः ।
+> अस्माकमाङ्गूषान्द्युम्निनस्कृधि वाजेषु द्युम्निनस्कृधि ॥ २ ॥
+
+> *pra hi tvā pūṣannajiraṃ na yāmani stomebhiḥ kṛṇva ṛṇavo yathā mṛdha uṣṭro na pīparo mṛdhaḥ |*
+> *huve yattvā mayobhuvaṃ devaṃ sakhyāya martyaḥ |*
+> *asmākamāṅgūṣāndyumninaskṛdhi vājeṣu dyumninaskṛdhi ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । हि । त्वा । पूषन् । अजिरम् । न । यामनि । स्तोमेभिः । कृण्वे । ऋणवः । यथा ।
+> मृधः । उष्ट्रः । न । पीपरः । मृधः ।
+
+> *pra | hi | tvā | pūṣan | ajiram | na | yāmani | stomebhiḥ | kṛṇve | ṛṇavaḥ | yathā |*
+> *mṛdhaḥ | uṣṭraḥ | na | pīparaḥ | mṛdhaḥ |*
+
+### Printed p. 22  (PDF 40)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+> हुवे । यत् । त्वा । मयःऽभुवम् । देवम् । सख्याय । मर्त्यः ।
+> अस्माकम् । आङ्गूषान् । द्युम्निनः । कृधि । वाजेषु । द्युम्निनः । कृधि ॥ २ ॥
+
+> *huve | yat | tvā | mayaḥ 'bhuvam | devam | sakhyāya | martyaḥ |*
+> *asmākam | āṅgūṣān | dyumninaḥ | kṛdhi | vājeṣu | dyumninaḥ | kṛdhi ‖ 2 ‖*
+
+*(Gist, mine: with praises I exalt Pūṣan, the swift traveller, as one rouses a courser for battle; as a mortal I call him for friendship, and ask that our praises and our fights may bring wealth and success.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; small type read at 170 dpi, doubtful words marked)
+
+> हे पूषन् अजिरं यज्ञदेशं प्रति गमनवन्तं त्वां यामनि गमने निमित्तभूते सति स्तोमेभिः स्तोत्रैः प्र कृण्वे । प्रकृष्टं करोमि । तत्र दृष्टान्तः । यामनि शीघ्रगमनेऽजिरं न शीघ्रगामिनमश्वमिव । स यथा प्रस्तूयते तद्वत् । किंच यथा मृधः संग्रामानुद्दिश्य ऋणवः गच्छेः तथा प्र कृण्वे । यद्वा । यथा ऋणवः अस्मद्यज्ञं प्रति गच्छेः ॥ ऋण गतौ तानादिकः । लेट्यडागमः ॥ तथा त्वां कृण्वे । किंच मृधो हिंसकान्योद्धॄन् संग्रामे पीपरः । पारं नयसि ॥ पारयतेः [?] रूपम् । तत्र दृष्टान्तः । उष्ट्रो न । उष्ट्रो यथा भारं वोढा पारयति तद्वन्मृधः संग्रामात्पीपरः । पारं नयसि । अतः कारणात् त्वा त्वां मयोभुवं सुखस्य भावयितारं देवं देवनशीलं पूषणं मर्त्योऽहं हुवे । आह्वयामि । किमर्थम् । सख्याय समानख्यानाय प्रियकरणाय । अस्माकमाङ्गूषानाङ्गोषान् [?] स्तोमान् । आङ्गूषः स्तोम आघोष इति यास्कः । द्युम्निनस्कृधि । ज्योतिष्मतः कुरु । यद्वा । स्तोमान् यशोवतो [?] न्नवतो वा कृधि । अस्मत्स्तुत्या प्रीतस्त्वमेनान् कुर्वित्यर्थः । किंच वाजेषु संग्रामेषु द्युम्निनोऽन्नवतः कृधि । अस्मद्वैरिणो जित्वा तेषामन्नं मयि कुर्वित्यर्थः ॥
+
+> *he pūṣan ajiraṃ yajñadeśaṃ prati gamanavantaṃ tvāṃ yāmani gamane nimittabhūte sati stomebhiḥ stotraiḥ pra kṛṇve | prakṛṣṭaṃ karomi | tatra dṛṣṭāntaḥ | yāmani śīghragamane 'jiraṃ na śīghragāminamaśvamiva | sa yathā prastūyate tadvat | kiṃca yathā mṛdhaḥ saṃgrāmānuddiśya ṛṇavaḥ gaccheḥ tathā pra kṛṇve | yadvā | yathā ṛṇavaḥ asmadyajñaṃ prati gaccheḥ ‖ ṛṇa gatau tānādikaḥ | leṭyaḍāgamaḥ ‖ tathā tvāṃ kṛṇve | kiṃca mṛdho hiṃsakānyoddhṝn saṃgrāme pīparaḥ | pāraṃ nayasi ‖ pārayateḥ [?] rūpam | tatra dṛṣṭāntaḥ | uṣṭro na | uṣṭro yathā bhāraṃ voḍhā pārayati tadvanmṛdhaḥ saṃgrāmātpīparaḥ | pāraṃ nayasi | ataḥ kāraṇāt tvā tvāṃ mayobhuvaṃ sukhasya bhāvayitāraṃ devaṃ devanaśīlaṃ pūṣaṇaṃ martyo 'haṃ huve | āhvayāmi | kimartham | sakhyāya samānakhyānāya priyakaraṇāya | asmākamāṅgūṣānāṅgoṣān [?] stomān | āṅgūṣaḥ stoma āghoṣa iti yāskaḥ | dyumninaskṛdhi | jyotiṣmataḥ kuru | yadvā | stomān yaśovato [?] nnavato vā kṛdhi | asmatstutyā prītastvamenān kurvityarthaḥ | kiṃca vājeṣu saṃgrāmeṣu dyumnino 'nnavataḥ kṛdhi | asmadvairiṇo jitvā teṣāmannaṃ mayi kurvityarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *pūṣan* — O Pūṣan; *yathā* — as; *mṛdhaḥ* — in battles; *ajiram* — swiftly moving; *na* — like [a courser]; *ṛṇavaḥ* — going (or: those who go to the sacrifice; as one does so); *ajiram* — swift-moving; *tvā* — you; *yāmani* — for (your) coming; [as one praises a horse that goes swiftly to battle]; *stomebhiḥ* — with hymns; *pra kṛṇve* — I make [you] excel (I exalt); *uṣṭraḥ na* — as a camel that carries a single load across; *mṛdhaḥ* — in battle; *pīparaḥ* — [you] take [us] across the foes; *yat* — therefore; *martyaḥ* — I, a mortal; *mayobhuvam* — the giver of happiness; *devam* — the god; *tvā* — you; *sakhyāya* — for the sake of the friend[ship] that gives pleasure; *huve* — I call; *asmākam* — our; *āṅgūṣān* — [hymns] praised aloud (praise); *dyumninaḥ kṛdhi* — make [them] productive of benefit [wealth]; *vājeṣu* — in battles; *dyumninaḥ* — [make] our [enemies'] food [ours]; *kṛdhi* — do.
+
+### Printed p. 23  (PDF 41)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+**Bhāvārtha.** O Pūṣan, as one praises a courser that goes swiftly to the battle, I praise you with hymns, who for the sake of the sacrifice go quickly; as a camel carries a single load across and puts it down, you carry us across the fighting with the foes. A mortal such as I call you, the giver of happiness, who are dear to me, for friendship. Accept our hymns and make them fruitful; give us success in battles and let the food of our enemies fall to us.
+
+**English Translation (as printed).** I exalt you, Pushan, with praises, that you may hasten (to the sacrifice), like a rapid (courser) to the battle: that you may bear us across the combat, like a camel; therefore do I a mortal, invoke you, the divine bestower of happiness, for your friendship; and do thou render our invocations productive (of benefit); render them productive (of success) in battles.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***ṛṇavaḥ.*** The word is made from the root *ṛṇu* meaning "to go"; *ṛṇoti*, *puṇoti* are read among the verbs of motion (Ni. 2-[?] [?]). The sense is "going to a place where the sacrifice is performed, or going to the place where a ritual is carried out". Quotations:
+
+> उषो यदद्य भानुना वि द्वारावृणवो दिवः ।
+
+> *uṣo yadadya bhānunā vi dvārāvṛṇavo divaḥ |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].)
+
+> कया नो अग्ने वि वसः सुवृक्तिं कामु स्वधामृणवः शस्यमानः ।
+
+> *kayā no agne vi vasaḥ suvṛktiṃ kāmu svadhāmṛṇavaḥ śasyamānaḥ |*
+
+(Ṛ. Saṃ. 2-[?]-[?] [?].) In such Ṛks the word *ṛṇavaḥ* has the sense "may you go", as here: "as you go to the sacrifice", or "may you go to our sacrifice".
+
+***ajiram.*** *Ajira* is read among the names of "swift" (Ni. 2-[?] [?]): one who goes quickly. Agni, as he burns quickly, increases his brilliance in that speed. Then *girā vājiraśociṣam* (Ṛ. Saṃ. 6-[?]-[?] [?]) — "swift-flamed" — the sentence continues on p. 24.
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–23 done: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics through *ajiram* begun). Next: printed p. 24 (PDF 42): the sentence on *ajiram* continues (Ṛg *girā vājiraśociṣam* …), rest of Ṛk 2 Special Topics and grammar, then Ṛk 3. Workflow: CLAUDE.md "Cost-saving rules"; images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost), zoom only dense Sanskrit small type; helpers /tmp/v11/app11.py, kn_merge.py, setkn.py. Open flags: as in the previous note, plus Ṛk 2 bhāṣya on p. 22 (small type; *pārayateḥ* phrase and the *stomān yaśovato* clause), all Ni./Ṛg numerals, and the Pratipadārtha first clauses (rough).
