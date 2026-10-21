@@ -1488,4 +1488,102 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–56 done: Ṛks 1–3 complete; Ṛk 4 through printed English and the start of the Special Topics, *nākam*). Next: printed p. 57 (PDF 75) — Special Topics of Ṛk 4 continued, grammar, then Ṛk 5. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–4 largely unread; p. 55 tail unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Tai./Up. numerals and many quotations; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 57  (PDF 75)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Special Topics of Ṛk 4, continued from p. 56.)* …and says that these are common synonyms also of the sun (Ni. [?]-[?]). Then, giving the derivation of the word: *nāka ādityo bhavati — netā bhāsāṃ jyotiṣāṃ praṇayaḥ* (Ni. [?]-[?]) — "*nāka* is the sun, the leader of lights, of radiances"; *ka* is a name for happiness, *a-ka* its absence, and *nāka* what is without the absence of happiness: "that which is free from unhappiness" is the sense. He then cites the passage
+
+> न वा अमुं लोकं जग्मुषे किञ्च नाकम् [?] ।
+
+> *na vā amuṃ lokaṃ jagmuṣe kiñca nākam [?] |*
+
+(Kāṭhaka Saṃ. [?]-[?]) and the sentence *na vā amuṃ lokaṃ gacchate kiñca nāsukhaṃ, puṇyakṛto hy eva tatra gacchanti* [?] — "no unhappiness goes to that world; only doers of good go there" — to show the meaning of *nāka*. In the Ṛksaṃhitā this word is used in some places as a synonym of the sun, in others of heaven:
+
+> तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितम् ।
+
+> *tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitam |*
+
+(Ṛ. Saṃ. 1-34-8 [?].)
+
+> ये नाकस्याधि रोचने दिवि देवास आसते ।
+
+> *ye nākasyādhi rocane divi devāsa āsate |*
+
+(Ṛ. Saṃ. 1-19-6 [?].) In such Ṛks it is a synonym of the sun;
+
+> त्वे वर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः [?] ।
+
+> *tve vardhanta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+> ते ह नाकं महिमानः सचन्त यत्र पूर्वे साध्याः सन्ति देवाः ।
+
+> *te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ |*
+
+(Ṛ. Saṃ. 10-90-16 [?].) In such Ṛks it is also a synonym of heaven;
+
+> वृषैव कपिलो भूत्वा यन्नाकमधिरोहति [?] ।
+
+> *vṛṣaiva kapilo bhūtvā yannākamadhirohati [?] |*
+
+(Bṛ. De. [?]-[?]) in this Bṛhaddevatā sentence it is plainly the sky (*antarikṣa*) [?];
+
+> इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकम् [?] ।
+
+> *ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokam [?] |*
+
+(Chā. Up. [?]-[?]-[?] [?].) In this Chāndogya Upaniṣad sentence the world of heaven, free from sorrow, is said to be beyond the sun's world. In the Śatapatha Brāhmaṇa and the Taittirīya Upaniṣad the name *Nāka* is also famous for the knower of Brahman, Mudgalaputra [?]; the sense is "free from sorrow".
+
+### Printed p. 58  (PDF 76)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+***rajaḥ.*** The word *rajaḥ* is repeated. Sāyaṇa takes the first *rajaḥ* as "heaven", which delights (*rañjanātmaka*), and the second as "water"; both senses have the Nirukta's support — *rajaḥ: rajo rajater jyotir vā raja ucyate; udakaṃ raja ucyate; lokā rajāṃsy ucyante* (Ni. [?]-[?]): the word *rajas*, derived from the root *rañj* ("to colour, to shine"), means light, water and the worlds. Besides, *ahas sragahane rajasī ucyete* [?] — it is also a synonym of "blood" and "day". Yāska cites
+
+> रजांसि चित्रा वि चरन्ति तन्यवो दिवः संव्रजा पयसा न उक्षतम् [?] ।
+
+> *rajāṃsi citrā vi caranti tanyavo divaḥ saṃvrajā payasā na ukṣatam [?] |*
+
+(Ṛ. Saṃ. 3-[?]-[?] [?]) and shows that *rajāṃsi* here means "worlds" (Ni. 11-[?]); and
+
+> अज्मामुक्थै रहिं [?] गृणीषे बुध्ने नदीनां रजःसु षीदन् [?] ।
+
+> *ajmāmukthai rahiṃ [?] gṛṇīṣe budhne nadīnāṃ rajaḥsu ṣīdan [?] |*
+
+(Ṛ. Saṃ. 7-[?]-[?] [?]) where *rajaḥsu* means "in the waters"; and
+
+> पिता उ त्वा उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते [?] ।
+
+> *pitā u tvā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?]) where *rajasaḥ* is taken as the sky; and
+
+> त्रीणि भाति रजांस्यस्य यत्त्राणि तु तेजसा [?] ।
+
+> *trīṇi bhāti rajāṃsyasya yattrāṇi tu tejasā [?] |*
+
+(Bṛ. De. [?]-[?]) where the Bṛhaddevatā author says that Viṣṇu, who took the three strides, made the three worlds shine with his feet, thus giving the sense of the word *rajāṃsi*. In the Ṛk at hand the first *rajaḥ* means the delightful sky, and the second the rain-water.
+
+***hiraṇyaye rathe.*** *Hiraṇmaye madhupūrṇe rathe* — "in the golden chariot full of honey": a description of the Aśvins' chariot. Sāyaṇa cites
+
+> त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः [?] ।
+
+> *trayaḥ pavayo madhuvāhane rathe somasya venāmanu viśva idviduḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?]) to show that the Aśvins' chariot is described as full of honey.
+
+### Printed p. 59  (PDF 77)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+***bandhure.*** *Bandhuratrayayukte* — the chariot with three seats [?] (or shafts). In Ṛks such as रथो यो वां त्रिबन्धुरः [?] (*ratho yo vāṃ tribandhuraḥ [?]*) (Ṛ. Saṃ. 8-[?]-[?]) the Aśvins' chariot is described as having three *bandhuras*, so here too it is called a three-*bandhura* chariot.
+
+***añjasā.*** *Mukhyatvena* [?] — Sāyaṇa takes it as "chiefly, directly" [?]. Ordinarily *añjas* means "straight, directly"; here it means that the Aśvins themselves are the direct cause of the rain. In the Śatapatha Brāhmaṇa and the Taittirīya Saṃhitā the word *añjasāyana* is used, meaning a straight, not crooked, road.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *dasrā* (*supāṃ sulak…*: *ā*; *āmantrita nighāta*), *acheti* (root *citī saṃjñāne*; passive *luṅ* third person singular, *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-[?]) *ciṇ*; *ciṇo luk* drops *ta*; the *aḍāgama* does not come at the beginning of a *pāda*, no *nighāta*; the *aḍ* is *udātta*), *ṛṇvathaḥ* (root *ṛṇu gatau*, *tanādi*; *leṭ* second person dual, *thas*; *leṭo 'ṭāṭau* (Pā. Sū. 3-4-[?]) the *aṭ* augment; *tanādikṛñbhya uḥ* (Pā. Sū. 3-1-[?]) the *u* *vikaraṇa*; *nighāta* as *tiṅanta* follows), *nākam* (*na aka*, *nāka*; *nalopo nañaḥ* [?] (Pā. Sū. 6-3-[?]) and *nabhrāṇnapāt…* (Pā. Sū. 6-3-[?]) *prakṛtibhāva*; in a negative *tatpuruṣa* the accent of the first member), *yuñjate* (root *yujir yoge*; causal; *laṭ* third person plural; being *tiṅanta*, *nighāta* barred; suffix first-syllable accent), *rathayujaḥ* (*rathe yojayanti*; *kvip* after *yuj* with *antarbhāvitaṇyartha*; nominative plural; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-[?]) accent of the first member), *diviṣṭiṣu* (*iṣṭiḥ eṣaṇāni*; *divaḥ svargasya eṣaṇāni yeṣu gameṣu te diviṣṭayaḥ*; *sarve vidhayaś chandasi vikalpyante* with *divalut* (Pā. Sū. 6-1-[?]) [?]) …; page ends, continued on p. 60.
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–59 done: Ṛks 1–4 complete except the tail of Ṛk 4's grammar, which continues on p. 60). Next: printed p. 60 (PDF 78) — end of Ṛk 4 grammar, then Ṛk 5. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–4 largely unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Kāṭh./Bṛ. De./Up. numerals and many quotations (pp. 57–58 especially); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
