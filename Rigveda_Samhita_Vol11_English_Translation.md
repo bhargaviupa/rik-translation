@@ -4088,4 +4088,150 @@ In the sacrifice called Mahāvrata the *uktha*, the chief *śastra*, is the brea
 
 ---
 
-**Progress note:** Sūkta 140 complete (printed pp. 99–156). **Sūkta 141** begun: printed pp. 157–159 (Anukramaṇī, header table, Ṛk 1 through printed English; Special Topics begun, *bhargaḥ*, *ṛtasya dhenāḥ*). Next: printed p. 160 (PDF 178) — Special Topics of Sūkta 141 Ṛk 1 continued (*dhenāḥ*), grammar; then Ṛk 2. Images at 120 dpi in /tmp/v11a (PDF 33–189; recrop 190 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–13 largely unread (Ṛk 12 middle lines unread); Sūkta 141 Ṛk 1 partly read; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 160  (PDF 178)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 159.)* … [the word *dhenā* is thus shown to be] speech accompanied by mantra. Since Sāyaṇa has in some places given a different sense, it has to be examined whether this word has one clear sense or the sense varies with the context.
+
+> सम्यक्स्रवन्ति सरितो न धेना अन्तर्हृदा मनसा पूयमानाः । एते अर्षन्त्यूर्मयो घृतस्य मृगा इव क्षिपणोरीषमाणाः ॥
+
+> *samyaksravanti sarito na dhenā antarhṛdā manasā pūyamānāḥ | ete arṣantyūrmayo ghṛtasya mṛgā iva kṣipaṇorīṣamāṇāḥ ‖*
+
+(Ṛ. Saṃ. 4-58-6.)
+
+> क्रीळन्निन्द्र [?] प्रवितेव [?] अपस्यः परिष्ठिता अहिना शूर पूर्वीः । … द्वावक्रे [?] रथ्यो न धेना रेजन्ते विश्वा कृत्रिमाणि भीषा ॥
+
+> *krīḷannindra [?] praviteva [?] apasyaḥ pariṣṭhitā ahinā śūra pūrvīḥ | … dvāvakre [?] rathyo na dhenā rejante viśvā kṛtrimāṇi bhīṣā ‖*
+
+(Ṛ. Saṃ. 2-30-[?]; the Ṛk is only partly legible at this resolution.) In these Ṛks Sāyaṇa explains *dhenā* as "flowing river";
+
+> मादयस्व हरिभिर्ये त इन्द्र वि ष्यस्व शिप्रे वि सृजस्व धेने । आ त्वा सुशिप्र हरयो वहन्तूशन्हव्यानि प्रति नो जुषस्व ॥
+
+> *mādayasva haribhirye ta indra vi ṣyasva śipre vi sṛjasva dhene | ā tvā suśipra harayo vahantūśanhavyāni prati no juṣasva ‖*
+
+(Ṛ. Saṃ. 1-101-10.) in this Ṛk he explains *jihvopajihvike*, "the tongue and the uvula (?), the instruments of drinking" [?]. The Nirukta author cites this very Ṛk (1-101-10) and shows the derivation *dhenā dadhāteḥ* … [and explains it as … ] (Ni. 6-[?]). Apart from these, in the other Ṛks Sāyaṇa gives the sense "speech". If one examines the contexts of this word in the Saṃhitā and elsewhere, there seems no reason for any sense other than "speech in the form of praise". In this matter, too, the passages used in the Śrauta Sūtras give more room for this very sense.
+
+In the Śrauta Sūtras, when the wives of the gods are named, *senendrasya, dhenā bṛhaspateḥ* — the name *dhenā* is well known for Bṛhaspati's wife; in these places there is no room for the sense "speech in the form of praise" [?]. In the other places, where the Ṛks cited above are concerned, it would be no mistake to give this very sense. For example, in Ṛk 4-58-6, *samyak sravanti sarito na dhenā antarhṛdā manasā pūyamānāḥ*: "like rivers flowing unchecked, the *dhenāḥ*, purified in the heart and by the mind" — to take them as speeches in the form of praise, coming forth naturally from the heart and with purity of mind, is fitting, and not wrong. Besides, the words *manasā* and *antarhṛdā pūyamānāḥ* agree naturally with *dhenāḥ*. Sāyaṇa joins those words with the others [?] (continues on p. 161)
+
+### Printed p. 161  (PDF 179)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+… *ghṛtasya ūrmayaḥ* — that does not give a living sense. Likewise in Ṛk 1-101-10 the dual *dhene* may point to the two senses "praise" and "oblation". Thus —
+
+> पितुश्चिदूधर्जनुषा विवेद व्यस्य धारा असृजद्वि धेनाः । गुहा चरन्तं सखिभिः शिवेभिर्दिवो यह्वीभिर्न गुहा बभूव ॥
+
+> *pituścidūdharjanuṣā viveda vyasya dhārā asṛjadvi dhenāḥ | guhā carantaṃ sakhibhiḥ śivebhirdivo yahvībhirna guhā babhūva ‖*
+
+(Ṛ. Saṃ. 3-1-[?].) In this Ṛk *ūdhaḥ* is explained as "the atmosphere", *dhārā* as "stream of rain", and *dhenā* as … [?]. Apart from these few examples, in the remaining ones —
+
+> विश्रन्तिशं [?] मघोना पर्यायते जनानां धेना अवचाकशद्वृषा । यस्मादा शक्रः सवनेषु रण्यति स तीव्रैः सोमैः सहते पृतन्यतः ॥
+
+> *viśrantiśaṃ [?] maghonā paryāyate janānāṃ dhenā avacākaśadvṛṣā | yasmādā śakraḥ savaneṣu raṇyati sa tīvraiḥ somaiḥ sahate pṛtanyataḥ ‖*
+
+(Ṛ. Saṃ. 10-43-[?]; read with doubt.)
+
+> वीरेण्यः क्रतुरिन्द्रः सुशस्तिरुतापि धेना पुरुहूतमीट्टे । आर्दयद्वृत्रमकृणोदु लोकं ससाहे शक्रः पृतना अभिष्टिः ॥
+
+> *vīreṇyaḥ kraturindraḥ suśastirutāpi dhenā puruhūtamīṭṭe | ārdayadvṛtramakṛṇodu lokaṃ sasāhe śakraḥ pṛtanā abhiṣṭiḥ ‖*
+
+(Ṛ. Saṃ. 10-104-10 [?].) In all such Ṛks Sāyaṇa has explained it as *prīṇayitrī stutivāk*, "gladdening speech of praise". In the same way the *dhene* of 1-101-10 above —
+
+> स्त्रियो हि दास आयुधानि चक्रे किं मा करन्नबला अस्य सेनाः । अन्तर्ह्यख्यदुभे अस्य धेने अथोप प्रैद्युद्धयये दस्युमिन्द्रः ॥
+
+> *striyo hi dāsa āyudhāni cakre kiṃ mā karannabalā asya senāḥ | antarhyakhyadubhe asya dhene athopa praidyuddhayaye dasyumindraḥ ‖*
+
+(Ṛ. Saṃ. 5-30-9.) — in the first half of this Ṛk, too, there are duals in two places, so the senses "praise" and "oblation" may be given. In 5-30-9 Sāyaṇa explains *asya* (the Asura's) *dhene ubhe antarakhyat*: "the two women of the Asura stood in the middle of the house; then Indra fought Namuci face to face" — taking *dhenā* in the sense "woman". It fits better to say: when Namuci produced an army in the form of women, praise and oblation entered the heart of Indra and roused him for the fight.
+
+So in the present Ṛk too, for *ṛtasya dhenāḥ sasrutaḥ*, rather than Sāyaṇa's first interpretation, (continues on p. 162)
+
+### Printed p. 162  (PDF 180)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+the speeches in the form of praise, connected with the sacrifice and flowing from the mouths of the *hotṛ*s — that is, Sāyaṇa's second sense — appears clear and correct.
+
+***itthā*** — *baṭ* and *itthā* are both read among the names of truth (Ni. 3-10): "truly, certainly".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar pages 162–163, noted briefly).** Headwords: *itthā* (from *idam*; suffix *thamu* by *idamas thamuḥ*; case-ending changed by *vyatyaya*), *dhāyi* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *luṅ* by *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) in the present sense; *ciṇ* in the passive; *luk* of the ending; *yuk* after the *ā*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aḍ*; *tiṅ*, *nighāta*), *darśatam* (root *dṛśir prekṣaṇe*; *bhṛmṛdṛśi*… (Uṇ. Sū. 3-[?]) suffix *ata*; *guṇa*; *cit*: last-syllable accent), *sahasaḥ* (root *saha marṣaṇe*; suffix *asun*; *nit*: first-syllable accent), *jani* (root *janī prādurbhāve*; as before, *luṅ* in the Vedic sense; third person singular; because of the connected *yat*, no *nighāta*), *hvarate* (root *hvṛ kauṭilye*; *laṭ*, third person singular; *śap*; *guṇa*; *raparatva*; because of *yad* no *nighāta*), *sādhate* (root *sādha saṃsiddhau*; *ṇic* by *hetumati ca*; *śap* by *chandasy ubhayathā* (Pā. Sū. 3-4-117); *ṇeraniṭi* (Pā. Sū. 6-4-51) drops *ṇic*; no *nighāta*; the root accent remains). Sūtra numbers as read; [?] where small type was not legible.
+
+### Printed p. 163  (PDF 181)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+*Grammar (Ṛk 1, concluded; noted briefly):* *anayanta* (root *ṇīñ prāpaṇe*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the present sense; *vyatyayo bahulam*, *ātmanepada*; third person plural; *ati-jñanta*, so *nighāta*), *sasrutaḥ* (*samānaṃ sravanti iti sasrutaḥ*; root *sru gatau*; *kvip ca* (Pā. Sū. 3-2-[?]); *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-[?]) gives *tuk*, a *tuk*-augment; *samāna* → *sa*; *gatikārakopapadāt kṛt* — the accent of the *kṛt*-final member; nominative plural). ‖ 1 ‖
+
+---
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> पृक्षो वपुः पितुमान्नित्य आ शये द्वितीयमा सप्तशिवासु मातृषु ।
+> तृतीयमस्य वृषभस्य दोहसे दशप्रमतिं जनयन्त योषणः ॥ २ ॥
+
+> *pṛkṣo vapuḥ pitumānnitya ā śaye dvitīyamā saptaśivāsu mātṛṣu |*
+> *tṛtīyamasya vṛṣabhasya dohase daśapramatiṃ janayanta yoṣaṇaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> पृक्षः । वपुः । पितुऽमान् । नित्यः । आ । शये । द्वितीयम् । आ । सप्तऽशिवासु । मातृषु ।
+> तृतीयम् । अस्य । वृषभस्य । दोहसे । दशऽप्रमतिम् । जनयन्त । योषणः ॥ २ ॥
+
+> *pṛkṣaḥ | vapuḥ | pitu 'mān | nityaḥ | ā | śaye | dvitīyam | ā | sapta 'śivāsu | mātṛṣu |*
+> *tṛtīyam | asya | vṛṣabhasya | dohase | daśa 'pramatim | janayanta | yoṣaṇaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni, the food-giver and body-builder, rests first on the earth; second among the seven auspicious mothers; third, the ten quarters bring him forth in the shower-bringing Āditya.* Small type; doubtful words marked)
+
+> अयमग्निः पृक्षः अन्नस्य [?] साधकः पाकादिना वपुः पुष्ट्यर्थं शरीराभिवृद्धिहेतुः पितुमान् पितु इत्यन्ननाम तद्वान् नित्यः शाश्वतः । ईश्वरः सन् प्रथमं पृथिवीस्थाने सन्ना शये आशेते । दापसाकादि [?] लौकिकं कर्म यज्ञादि दैविकं कर्म च निर्वर्तयन् … वर्तते । तथा सप्तशिवासु सप्तलोकेषु शिवासु हितकरीषु मातृषु मातृस्थानीयासु वृष्टिषु द्वितीयमाशेते [?] … । अस्य वृषभस्य वर्षितुः आदित्यस्य … दोहसे दोग्ध्रे … अग्नेः सहायत्वेन संबन्धिने … दशप्रमतिम् दशदिक्षु प्रकृष्टमननं … पूज्यम् … जनयन्त उत्पादयन्ति … योषणः संयुक्ताः सर्वा दिशः … । [partly unread]
+
+> *ayamagniḥ pṛkṣaḥ annasya [?] sādhakaḥ pākādinā vapuḥ puṣṭyarthaṃ śarīrābhivṛddhihetuḥ pitumān pitu ityannanāma tadvān nityaḥ śāśvataḥ | īśvaraḥ san prathamaṃ pṛthivīsthāne sannā śaye āśete | dāpasākādi [?] laukikaṃ karma yajñādi daivikaṃ karma ca nirvartayan … vartate | tathā saptaśivāsu saptalokeṣu śivāsu hitakarīṣu mātṛṣu mātṛsthānīyāsu vṛṣṭiṣu dvitīyamāśete [?] … | asya vṛṣabhasya varṣituḥ ādityasya … dohase dogdhre … agneḥ sahāyatvena saṃbandhine … daśapramatim daśadikṣu prakṛṣṭamananaṃ … pūjyam … janayanta utpādayanti … yoṣaṇaḥ saṃyuktāḥ sarvā diśaḥ … | [partly unread]*
+
+### Printed p. 164  (PDF 182)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*Bhāṣya (continued, small type; read only in part).*
+
+> … वर्षितुः सिद्धस्यादित्यस्य संबन्धिनि [?] दोहसे … रश्मयो … भूमिः [?] … प्रसवेन … प्रवर्षन्ति प्रसिद्धम् । अतो रश्मिदोहने [?] … सर्वा दिशो जनयन्ते । उत्पादयन्ति । सर्वासु दिक्षु प्रसृते इत्यर्थः । कीदृशं तं । दशप्रमतिम् दशसु दिक्षु प्रकृष्टमननं पूज्यतायै । यद्वा मथनकाले दशभिरङ्गुलीभिरुत्पन्नं लोकत्रये दशदिक्षु च व्याप्तमित्यर्थः ॥ [partly unread]
+
+> *… varṣituḥ siddhasyādityasya saṃbandhini [?] dohase … raśmayo … bhūmiḥ [?] … prasavena … pravarṣanti prasiddham | ato raśmidohane [?] … sarvā diśo janayante | utpādayanti | sarvāsu dikṣu prasṛte ityarthaḥ | kīdṛśaṃ taṃ | daśapramatim daśasu dikṣu prakṛṣṭamananaṃ pūjyatāyai | yadvā mathanakāle daśabhiraṅgulībhirutpannaṃ lokatraye daśadikṣu ca vyāptamityarthaḥ ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** (*ayam agniḥ* — this Agni;) *pṛkṣaḥ* — as the food-giver by cooking and so on, [as the digestive faculty (*jaraṇa-kāraka*)]; *vapuḥ* — as the cause of growth of the body; *pitumān* — rich in food, in the form of oblations; *nityaḥ* — eternal; *ā śaye* — (first, in the form of Agni) he lies spread out on the earth; *dvitīyam* — secondly (in a second form); *saptaśivāsu* — in the seven worlds, the givers of auspiciousness; *mātṛṣu* — in the places of the mothers, the rains, that are mother-like; *ā* (*śaye*) — he lies spread out (in the form of lightning); *tṛtīyam* — thirdly (in yet another form); *asya vṛṣabhasya* — of the showerer, belonging to the Āditya; *dohase* — for the milking of rain; *daśaprematim* — worshipful, delightful through the rays of the ten quarters, or [the one] born by the ten fingers, in churning; *yoṣaṇaḥ* — all the quarters united; *janayante* — bring forth (cause to blossom).
+
+**Bhāvārtha.** Agni, who is the digestive faculty and the cause of the growth of the body, and rich in food in the form of oblations, and everlasting, first performs worldly acts such as cooking and divine acts such as sacrifice, and lies spread out on the earth. Second, he is spread out among the seven worlds that give auspiciousness, the places of the mothers, as lightning (*vidyut*) in the regions of rain. Third, by the activity of the rays of the Āditya, associated with the one who showers rain, he is spread out in the heaven; and all the quarters, united, make this Agni, who is worthy of worship and gladdening to the ten quarters because of the light, to blossom.
+
+**English Translation (as printed).** First, he reposes (on the earth) as the digestive (faculty), the embodied, the accepter of food, the eternal: secondly, (he dwells) among the seven
+
+### Printed p. 165  (PDF 183)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+*(Printed English continued from p. 164:)* auspicious mothers (of fertility): thirdly, the associated (regions) generate him, delighting in the ten (quarters) of space, for the sake of milking this showerer (of rain).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** Three kinds of manifestation of Agni are described in this Ṛk. The Nirukta authors say that all the sages worship the deity Agni who is in the form of the Āditya in heaven, in the form of lightning in the atmosphere, and in the form of fire on earth; and then they have explained at length these three forms in the three places with examples from Saṃhitā passages. If the Nirukta passage is followed in the order of this Ṛk, first —
+
+> स्तोमेन हि दिवि देवा अग्निमजनयन्नस्कृत [?] कर्मभिर्द्यावापृथिव्योः [?] । पूरणं तमकुर्वंस्त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः ॥
+
+> *stomena hi divi devā agnimajanayannaskṛta [?] karmabhirdyāvāpṛthivyoḥ [?] | pūraṇaṃ tamakurvaṃstredhābhāvāya pṛthivyāmantarikṣe divīti śākapūṇiḥ ‖*
+
+(Ni. 7-[?]; read with doubt.) By this sentence the Nirukta authors, following Śākapūṇi's explanation, say that Agni appears in three forms in the three places — earth, atmosphere and heaven — as Agni, Jātavedas and Vaiśvānara. This order is shown in the Nirukta (Ni. 7-[?] to 7-[?]) on the basis of Ṛks such as *… mūrdhā bhuvo bhavati nakṣan …* (Ṛ. Saṃ. 10-88-6). The same division —
+
+> अग्नये पवमानाय पुरोडाशमष्टाकपालं निर्वपेदग्नये पावकायाग्नये शुचये ।
+
+> *agnaye pavamānāya puroḍāśamaṣṭākapālaṃ nirvapedagnaye pāvakāyāgnaye śucaye |*
+
+(Tai. Saṃ. 2-2-[?].) — is stated in these Taittirīya Saṃhitā sentences in the order *pavamāna*, *śuci*, *pāvaka*. It is to be understood that this threefold existence of Agni, and the threefold manifestation corresponding to it, reflect the fundamental principle of the three worlds; so says the Bṛhaddevatā:
+
+> भवद्भूतेष्वस्य भव्यस्य जङ्गमस्याध्रुवस्य च । अस्यैको सूर्यमेकैकं प्रभवनं प्रलयं विदुः ॥ एतेष्वेतेषु लोकेषु अग्निर्भूतं स्थितं भूतं [?] ऋषयो गीर्भिरर्चन्ति व्यञ्जितं नामभिस्त्रिभिः ॥
+
+> *bhavadbhūteṣvasya bhavyasya jaṅgamasyādhruvasya ca | asyaiko sūryamekaikaṃ prabhavanaṃ pralayaṃ viduḥ ‖ eteṣveteṣu lokeṣu agnirbhūtaṃ sthitaṃ bhūtaṃ [?] ṛṣayo gīrbhirarcanti vyañjitaṃ nāmabhistribhiḥ ‖*
+
+(Bṛ. De. 1-[?]; 1-[?]; read with doubt.) In these verses the Bṛhaddevatā author, in describing the greatness of Agni, [says that] Prajāpati, the source of all beings, [and] all the beings, moving and unmoving, in the past, future and present … (continues on p. 166)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–165 done: Ṛk 1 complete; Ṛk 2 through printed English and Special Topics begun, the three forms of Agni, Nirukta/Bṛhaddevatā)). Next: printed p. 166 (PDF 184) — Special Topics of Ṛk 2 continued (Bṛhaddevatā), grammar; then Ṛk 3. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
