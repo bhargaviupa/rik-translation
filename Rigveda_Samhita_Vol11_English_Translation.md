@@ -6500,4 +6500,188 @@ By these sentences the commentator explains, with *duro dvārasaṃjñāḥ pañ
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–255 done (introductory essay; Ṛks 1–6 complete; Ṛk 7 *ā bhandamāne* (Night and Dawn): Saṃhitā, Pada (p. 252), bhāṣya, Pratipadārtha, Bhāvārtha, English, and Special Topics through *naktoṣāsā*; p. 255 ends mid-sentence ("…bearing Agni among themselves"), continuing on p. 256). Next: printed p. 256 (PDF 274). Images at 120 dpi in /tmp/v11a (PDF 33–275; recrop 276 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 256  (PDF 274)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Continuation of the Special Topics of Ṛk 7, on *naktoṣāsā*.)*
+
+> नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची ।
+> द्यावाक्षामा रुक्मो अन्तर्वि भाति देवा अग्निं धारयन् द्रविणोदाम् ॥
+
+> *naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samīcī |*
+> *dyāvākṣāmā rukmo antarvi bhāti devā agniṃ dhārayan draviṇodām ‖*
+
+(Ṛ. Saṃ. 1-96-5.) Such Ṛks tell us that these goddesses help in nourishing Agni, who is of the form of a child. Because of this relation they are said to be near to the sacrificers. In the Āprī-sūktas in general the description of this point recurs. For example —
+
+> आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
+
+> *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 10-110-6.) In this Ṛk of the Āprī-sūkta too, the same subject is stated. From this it is understood that the deities Uṣāsānaktā have not a secondary place in the sacrificial acts, but a most important place. This eminence is hinted in the mantra of the Praiṣa-sūkta:
+
+> होता यक्षदुषासानक्ता बृहती सुपेशसा नृग्मं [?] पतिभ्यो योनिं कृण्वाने ।
+> सग्मंस्यमाने [?] इन्द्रेण देवैरिदं बर्हिः सीदतां वीतामाज्यस्य होतर्यज ॥
+
+> *hotā yakṣaduṣāsānaktā bṛhatī supeśasā nṛgmaṃ [?] patibhyo yoniṃ kṛṇvāne |*
+> *sagmaṃsyamāne [?] indreṇa devairidaṃ barhiḥ sīdatāṃ vītāmājyasya hotaryaja ‖*
+
+(Tai. Brā. 3-6-3 [?]; partly legible.) in which Uṣāsānaktā are prayed not only along with Agni but also with Indra and the other deities to sit on the *darbha* seat. In the Aitareya Brāhmaṇa they are addressed as *ahorātre* ("day and night"). The Nirukta authors have explained the nature of these deities (Ṛ. Saṃ. 1-[?]-[?]) [?]; the derivation of the two words *uṣas* and *naktā*, and the nature of these deities, as explained by the Nirukta authors, was told earlier. In the Bṛhaddevatā too they are described thus:
+
+> नक्तोषासा च ये देव्याग्नेय्यो वेव ते स्मृते ।
+> श्याव्याग्नेयी हि कालस्य तस्यैषोषाः कलेव तु ॥
+
+> *naktoṣāsā ca ye devyāgneyyo veva te smṛte |*
+> *śyāvyāgneyī hi kālasya tasyaiṣoṣāḥ kaleva tu ‖*
+
+(Bṛ. De. 3-[?].) Both these deities, Uṣas and Naktā, are known to be related to Agni. Of them, Śyāvī (night) (Ni. 1-17 [?]) has a close relation to Agni, and by the Nirukta sentence *uṣaḥ kasmād ucchatīti satyā rātreranta kāle* (Ni. 2-19 [?]) it is known that Uṣas is the last time of the night.
+
+> तमे [?] उच्चैस्तृषा नक्ता नक्तेमां हिमबिन्दुभिः [?] ।
+> अपि नामाक्तवर्णेति नैद्ध [?] पूर्वाह्णैरेदं भनेत् [?] ॥
+
+> *tame [?] uccaistṛṣā naktā naktemāṃ himabindubhiḥ [?] |*
+> *api nāmāktavarṇeti naiddha [?] pūrvāhṇairedaṃ bhanet [?] ‖*
+
+(Bṛ. De. 3-[?]; the verse is garbled at this resolution.)
+
+---
+
+### Printed p. 257  (PDF 275)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11.)*
+
+Of these two, Uṣas drives away the darkness; Night makes all things wet and pervaded with dew-drops. Or, since it has no definite colour (*varṇa*), the root *añj* is joined in the word *naktā* and gives the sense "of an unmanifest colour" [?].
+
+> सा हि दोषा भवत्याद्यौ निशीथे सा तमस्वते [?] ।
+> नाम्ना भवत्युषाश्चैव सैषा प्राग्गुदयाद्रात्रेः ॥
+
+> *sā hi doṣā bhavatyādyau niśīthe sā tamasvate [?] |*
+> *nāmnā bhavatyuṣāścaiva saiṣā prāggudayādrātreḥ ‖*
+
+(Bṛ. De. 3-10.) At the beginning of the night this goddess is called *(pra)doṣā*, at midnight *tamasvatī*, and before sunrise *uṣas*. *Doṣā*, *tamasvatī*, *śyāvī*, *naktā*: all these are read as names of Night in the Nighaṇṭu (Nigh. 1-7 [?]). In the Ṛks and in other places, by the epithet *tantuṃ tatena saṃnayantī* (3-[?]-[?]) [?] and the like, the help of Uṣāsānaktā in the extension of the sacrifice is described.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly).** *bhandamāne* (root *bhadi kalyāṇe sukhe ca*, *bhvādi*; *laṭ*, *śānac*; *idito num dhātoḥ* (Pā. Sū. 7-1-58): *num* augment; *śap* vikaraṇa; *ānaṅ muk* (Pā. Sū. 7-2-82): *muk* augment; the *anudātta* accent of the vikaraṇa is lost since it comes after *ati…*; *tāsyanudāttet* (Pā. Sū. 6-1-186): the root accent remains; dual, loc. of *seṭ* [?]), *upāke* (the *antodātta* accent being expected, it becomes *ādyudātta* by *vyatyaya*), *naktoṣasā* (*naktaṃ ca uṣāḥ ca*, *naktoṣasā*; dual; *supāṃ sulug*… (Pā. Sū. 7-1-39): *ākāra* replaces the case-ending; *pūrvasya makārasya lopaḥ* (the *m* of the first member is dropped) and the final of the latter member is lengthened by Vedic usage), *supeśasā* (*śobhanaṃ peśo rūpaṃ yayos te*; *piśi avayave* [?]; *nañsubhyām* (Pā. Sū. 6-2-172): the final is *udātta*; *ādyudāttaś ca chandasi* (Pā. Sū. 6-1-[?]): first-syllable *udātta*, hence the accent is first-syllable *udātta*), *mātarā* (*supāṃ sulug*: *ā* replaces the case-ending), *sīdatām* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *loṭ*, third person dual, *tām*; the *ādeśa*; *pāghrādhmā…* (Pā. Sū. 7-3-78): *sīda* replaces *sad*; the accent is *anudātta* by *tāsyanudāttet* … ; since it stands at the beginning of the pāda, there is no *nighāta*). ‖ 7 ‖
+
+---
+
+#### Ṛk 8
+
+### Printed p. 258  (PDF 276)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**॥ संहितापाठः ॥**
+
+> मन्द्रजिह्वा जुगुर्वणी होतारा दैव्या कवी ।
+> यज्ञं नो यक्षतामिमं सिध्रमद्य दिविस्पृशम् ॥ ८ ॥
+
+> *mandrajihvā jugurvaṇī hotārā daivyā kavī |*
+> *yajñaṃ no yakṣatāmimaṃ sidhramadya divispṛśam ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> मन्द्रऽजिह्वा । जुगुर्वणी इति । होतारा । दैव्या । कवी इति ।
+> यज्ञम् । नः । यक्षताम् । इमम् । सिध्रम् । अद्य । दिविऽस्पृशम् ॥ ८ ॥
+
+> *mandra 'jihvā | jugurvaṇī iti | hotārā | daivyā | kavī iti |*
+> *yajñam | naḥ | yakṣatām | imam | sidhram | adya | divi 'spṛśam ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the two divine hotṛs, whose tongues delight the gods, who favour the praising sacrificers, wise, are to perform today this our fruit-bearing sacrifice that touches heaven.* Small type; many words doubtful)
+
+> मन्द्रजिह्वा देवानां मादयित्र्यौ जिह्वे ज्वाले ययोस्तौ [?] । जुगुर्वणी भृशं गृणतां स्तुवतां यजमानानाम् [?] गृणातेर्यङ्लुगन्तात् क्विप् छान्दसो रूपसिद्धिः [?] । कस्मिन्नुपपदे वनसे [?] … छन्दसि वनसनरक्षमथानीत्य [?] प्रत्ययः । कवी मेधाविनौ क्रान्तदर्शिनौ दैव्या होतारा देवसम्बन्धिनौ होतारौ अयं च मध्यमस्थानेऽन्तेभ्यो [?] सिध्रं फलसाधकभूतम् । सिधेः स्वायतमित्यादिना रक् [?] । दिविस्पृशं द्युलोकवासिनो देवान् स्पृशन्तं [?] त्रैदशीषु स्वीक्रियमाणत्वादिति भावः [?] । उद्दशं [?] नोऽस्मदीयमिमं यज्ञमद्य यक्षतां अनुतिष्ठतां पूजयतां [?] । सम्यग्भूर्वाहयतामित्यर्थः ॥
+
+> *mandrajihvā devānāṃ mādayitryau jihve jvāle yayostau [?] | jugurvaṇī bhṛśaṃ gṛṇatāṃ stuvatāṃ yajamānānām [?] gṛṇāteryaṅlugantāt kvip chāndaso rūpasiddhiḥ [?] | kasminnupapade vanase [?] … chandasi vanasanarakṣamathānītya [?] pratyayaḥ | kavī medhāvinau krāntadarśinau daivyā hotārā devasambandhinau hotārau ayaṃ ca madhyamasthāne 'ntebhyo [?] sidhraṃ phalasādhakabhūtam | sidheḥ svāyatamityādinā rak [?] | divispṛśaṃ dyulokavāsino devān spṛśantaṃ [?] traidaśīṣu svīkriyamāṇatvāditi bhāvaḥ [?] | uddaśaṃ [?] no 'smadīyamimaṃ yajñamadya yakṣatāṃ anutiṣṭhatāṃ pūjayatāṃ [?] | samyagbhūrvāhayatāmityarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *mandrajihvā* — those whose flames (tongues) give delight to the gods; *jugurvaṇī* — who favour the praising sacrificers; *kavī* — the wise; *daivyā hotārā* — the two forms of Agni who call the gods (to the sacrifice); *sidhram* — fruit-giving; *divispṛśam* — touching the world of heaven (joining the gods); *naḥ imaṃ yajñam* — this our sacrifice; *adya* — now; *yakṣatām* — let them perform.
+
+**Bhāvārtha.** May the two forms of Agni, whose flames give delight to the gods, who favour the praising sacrificers, and who are fruit-giving, now perform this our sacrifice, which touches heaven and joins the gods.
+
+---
+
+### Printed p. 259  (PDF 277)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11.)*
+
+**English Translation (as printed).** May the two pleasing-tongued receivers of praise, the divine and sage invokers (of the gods), officiate to-day at this our sacrifice, which confers (rewards) and attains heaven.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***daivyā hotārā*** — देवसम्बन्धिनौ होतारौ । अयं च मध्यमः (*devasambandhinau hotārau | ayaṃ ca madhyamaḥ*) [?]: "the two *hotṛs* related to the gods; one is Agni of the earth and the other the Agni of the middle region (atmosphere)", Sāyaṇa has explained. Some scholars, following their own opinions, have shown different views of the meaning: Geldner takes the two as the sacrificer's *hotṛ* and his Agni; Haug as the *hotṛ* and the *adhvaryu*; Oldenberg as the *hotṛ* and his assistant the Maitrāvaruṇa. None of these is harmonious.
+
+The principal duty of these *hotṛs* is the performance of the sacrifice, as told in *yajñaṃ no yakṣatām imam* (Ṛ. Saṃ. 1-142-8) and in *devāṃ yajantāv ṛtuthā* (Ṛ. Saṃ. 3-[?]-[?]). This duty is attributed to the human *hotṛ*, in the case of whom, who is fit for praise, and to Agni, who is addressed in a figurative sense. In the same way —
+
+> देव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै ।
+> प्रचोदयन्ता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशन्ता ॥
+
+> *devyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai |*
+> *pracodayantā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśantā ‖*
+
+(Ṛ. Saṃ. 10-110-7.) In this Ṛk, by "those who impel the sacrifice, or who promote it", the opinion of some scholars is hinted that these are human *hotṛs*. Likewise (they say) both epithets in the pair of epithets apply equally to both, and certain epithets also apply to both together; but those that apply to the divine *hotṛ* Agni describe the duties of Agni. For example —
+
+> देव्या होतारा प्रथमा न्यञ्जे सप्त पृक्षासः स्वधया मदन्ति ।
+> ऋतं शंसन्त ऋतमित्त आहुरनु व्रतं व्रतपा दीध्यानाः ॥
+
+> *devyā hotārā prathamā nyañje sapta pṛkṣāsaḥ svadhayā madanti |*
+> *ṛtaṃ śaṃsanta ṛtamitta āhuranu vrataṃ vratapā dīdhyānāḥ ‖*
+
+(Ṛ. Saṃ. 3-4-[?].) In this Ṛk there is no doubt that the epithet *prathamā* belongs to the divine *hotṛ* Agni, as the Kannada says.
+
+---
+
+### Printed p. 260  (PDF 278)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+In Ṛ. Saṃ. 10-[?]-[?] [?], "*hotā manurhitaḥ*" is an epithet of Agni. The difference [?] between these two *hotṛs* is stated in the Praiṣa-sūkta as follows:
+
+> होता यक्षद्दैव्या होतारा मन्द्रा पोतारा कवी प्रचेतसा । स्पृष्टम् [?] … इषा स्थिभिर्गोर्तमन्य ऊर्जा सवेस्नेमं यज्ञं दिवि देवेषु धत्तां वीतामाज्यस्य होतर्यज ।
+
+> *hotā yakṣaddaivyā hotārā mandrā potārā kavī pracetasā | spṛṣṭam [?] … iṣā sthibhirgortamanya ūrjā savesnemaṃ yajñaṃ divi deveṣu dhattāṃ vītāmājyasya hotaryaja |*
+
+(Tai. Brā. 3-[?]-[?]-[?]; partly legible.) In this sentence one *hotṛ* is to accept the sacrifice with the oblation in the form of food, and the other to establish this sacrifice among the gods in heaven; the difference between the human *hotṛ* and the divine *hotṛ* Agni is thus shown, it says. In the Aitareya Brāhmaṇa:
+
+> दैव्या होतारा यजति प्राणापानौ वै दैव्या होतारा प्राणापानावेव तत्प्रीणाति प्राणापानौ यजमाने दधाति ।
+
+> *daivyā hotārā yajati prāṇāpānau vai daivyā hotārā prāṇāpānāveva tatprīṇāti prāṇāpānau yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) Having thus told the identity of these *hotṛs* with *prāṇa* and *apāna*, it says that the one who recites this mantra gives the sacrificer a long life, the satisfaction of *prāṇa* and *apāna*. In the Nirukta:
+
+> दैव्या होतारा दैव्यौ होतारावयं चाग्निरसौ च मध्यमः [?] ।
+
+> *daivyā hotārā daivyau hotārāvayaṃ cāgnirasau ca madhyamaḥ [?] |*
+
+(Ni. 8-[?].) Thus, by the basis-sentences supporting Sāyaṇa's meaning, the *hotṛs* are the earthly Agni and the Agni of the atmosphere. The Bṛhaddevatā too gives the same meaning:
+
+> दैव्याविति तु होतारावग्निः पार्थिवमध्यमौ ।
+> दिव्यादग्नेर्हि जज्ञाते दैव्यौ तेनेह जन्मना ॥
+
+> *daivyāviti tu hotārāvagniḥ pārthivamadhyamau |*
+> *divyādagnerhi jajñāte daivyau teneha janmanā ‖*
+
+(Bṛ. De. 3-11.) These two *hotṛs* are said to be the earthly and the middle (atmospheric) Agnis.
+
+***jugurvaṇī*** — भृशं गृणतां यजमानानां संभक्तारौ (*bhṛśaṃ gṛṇatāṃ yajamānānāṃ saṃbhaktārau*) ("who favour the praising sacrificers abundantly"): meaning "those who favour the sacrificers that praise".
+
+***sidhram*** — फलसाधनभूतम् (*phalasādhanabhūtam*): "that which gives fruit" (*phaladāyaka*). The Nirukta author:
+
+> द्यावा नः पृथिवी इमं सिध्रमद्य दिविस्पृशम् । यज्ञं देवेषु यच्छताम् ॥
+
+> *dyāvā naḥ pṛthivī imaṃ sidhramadya divispṛśam | yajñaṃ deveṣu yacchatām ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].)
+
+---
+
+### Printed p. 261  (PDF 279)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12 [?].)*
+
+Citing this Ṛk, he explains the word *sidhram* as "means" (*sādhana*). In the Ṛk in hand it means "the sacrifice, which brings fruit".
+
+***mandrajihvā*** — देवानां मादयित्र्यौ जिह्वे ज्वाले (*devānāṃ mādayitryau jihve jvāle*): "those whose flames delight the gods". The words *mandra* and *mandrajihvā* have been explained in the Special Topics of Ṛ. Saṃ. 1-[?]-[?]. Since the word *mandrajihvā* cannot be an epithet of the human *hotṛ*, it indicates that the *daivyā hotārā* must be two forms of Agni; only then is this epithet in harmony.
+
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly).** *mandrajihvā* (root *madi stutimodamadasvapnakāntigatiṣu* [as printed *madi harṣe*?]; *sphāyitañcivañci…* (Uṇ. Sū. 2-[?]): suffix *rak*; by the suffix-accent the end is *udātta*; *mandrā jihvā yayoḥ te mandrajihvau*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member keeps its accent; *supāṃ sulug* gives *ā* for the case-ending), *jugurvaṇī* (root *gṝ śabde*; in the repeated sense *yaṅ*; *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. Sū. 3-1-22); *yaṅ* is *luk*-dropped in Vedic usage [?], and by *chandasi* *jugur* results; the root *van saṃbhaktau*; when *jugur* is the *upapada*, *chandasi vanasana…* (Pā. Sū. 3-2-27 [?]): suffix *iṇ*; the form *jugurvaṇī*; *āṭ kuṣṇājjāt* [?]: the root takes *ṇatva*; dual), *hotārā* (root *hu dānādanayoḥ*; suffix *tṛc* in the agent sense; *nityād vā* [?]: first-syllable *udātta*; dual; *supāṃ sulug*), *daivyā* (*devasya idaṃ daivyam*; suffix *yat* in the sense of *devād yañ…*; *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117): *vṛddhi* of the first; *yasyeti ca* drops the *a*; first-syllable *udātta* by the suffix [?]; *supāṃ sulug*), *yakṣatām* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *loṭ*, third person dual, ending *tām*; by *śap* … in the sense of repeated-wish *sib bahulaṃ leṭi* (Pā. Sū. 3-1-34): *siP*; *coḥ kuḥ* (Pā. Sū. 8-2-30): *ja* becomes *ka*; *khari ca* (Pā. Sū. 8-4-55): *ṣatva*; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59): *ṣa* of the suffix *s*; since it comes after *ati…* the *nighāta* accent) *(continues on p. 262)*.
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–261 done (introductory essay; Ṛks 1–7 complete; Ṛk 8 *mandrajihvā … daivyā hotārā*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics complete; its grammar on p. 261 ends at *yakṣatām* and continues on p. 262). Next: printed p. 262 (PDF 280). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
