@@ -1348,4 +1348,84 @@ Of the *stomas*, the nine kinds mentioned above can be increased by sub-varietie
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–50 done: Ṛks 1–2 complete; Ṛk 3 through printed English and the start of the Special Topics, *stomebhiḥ*). Next: printed p. 51 (PDF 69) — the Tai. Saṃ. quotation on *stoma*s concluded, Special Topics (*viśvavedasā*, *pavayaḥ*… ) and grammar of Ṛk 3; then Ṛk 4. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–3 largely unread); Varga numerals of Sūkta 139; the part/page reference to the earlier stoma discussion (p. 50) read doubtfully; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 51  (PDF 69)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(The Taittirīya Saṃhitā quotation on the powers of the* stomas*, concluded from p. 50.)*
+
+> लोकास्तावन्ति ज्योतींष्यावते वै स्तोमा एतावतः कामा एतावन्तो लोका एतावन्ति ज्योतींष्यवरुन्धे [?] ।
+
+> *lokāstāvanti jyotīṃṣyāvate vai stomā etāvataḥ kāmā etāvanto lokā etāvanti jyotīṃṣyavarundhe [?] |*
+
+(Tai. Saṃ. 2-[?]-[?]-[?] [?].) These sentences show the powers of the four kinds of *stoma* used in the Agniṣṭoma. At the morning pressing the sacrificer, by the *trivṛt* *stoma* in the Gāyatrī metre, is placed in a place of greatness [?]. In the same way, by the *trivṛt*, which is of the nature of light, he makes the *pañcadaśa* *stoma* [rich in light]; by the *pañcadaśa*, which is full of vigour, the *saptadaśa*; by the *saptadaśa*, which is connected with Prajāpati and makes for procreation, the *ekaviṃśa* — he makes them radiant. So each kind of *stoma* gives power and radiance to another kind. As many kinds as there are of *stoma*, so many are the worlds, so many the kinds of radiance, so many the kinds of desired ends; and the sacrificer, by reciting the *stomas*, obtains so many worlds, radiances and desired ends. Having told the power of the *stoma*, the text goes on to tell the loss that comes from not reciting it:
+
+> ब्रह्मवादिनो वदन्ति स त्वै [?] यजेत योऽग्निष्टोमेन यजमानोऽथ सर्वस्तोमेन यजेतेति यस्य त्रिवृतमन्तर्यन्ति प्राणांस्तस्यान्तर्यन्ति प्राणेषु मेऽस्यसदिति [?] खलु वै यज्ञेन यजमानो यजते यस्य पञ्चदशमन्तर्यन्ति वीर्यं तस्यान्तर्यन्ति वीर्ये मेऽस्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य सप्तदशमन्तर्यन्ति प्रजां तस्यान्तर्यन्ति प्रजायां मेऽस्यसदिति खलु वै यज्ञेन यजमानो यजते यस्यैकविंशमन्तर्यन्ति प्रतिष्ठां तस्यान्तर्यन्ति प्रतिष्ठायां मेऽस्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य त्रिणवमन्तर्यन्ति [?] ऋतुषु मेऽस्यसन्नक्षत्रियां च विराजं च [?] खलु वै यज्ञेन यजमानो यजते यस्य त्रयस्त्रिंशमन्तर्यन्ति देवतास्तस्यान्तर्यन्ति देवतासु मेऽस्यसदिति खलु वै यज्ञेन यजमानो यजते यो वै स्तोमानां परमतां गच्छन्तं वेद परमतामेव गच्छति त्रिवृद्वै स्तोमानामवमस्त्रिवृत्परमो य एवं वेद परमतामेव गच्छति [?] ।
+
+> *brahmavādino vadanti sa tvai [?] yajeta yo 'gniṣṭomena yajamāno 'tha sarvastomena yajeteti yasya trivṛtamantaryanti prāṇāṃstasyāntaryanti prāṇeṣu me 'syasaditi [?] khalu vai yajñena yajamāno yajate yasya pañcadaśamantaryanti vīryaṃ tasyāntaryanti vīrye me 'syasaditi khalu vai yajñena yajamāno yajate yasya saptadaśamantaryanti prajāṃ tasyāntaryanti prajāyāṃ me 'syasaditi khalu vai yajñena yajamāno yajate yasyaikaviṃśamantaryanti pratiṣṭhāṃ tasyāntaryanti pratiṣṭhāyāṃ me 'syasaditi khalu vai yajñena yajamāno yajate yasya triṇavamantaryanti [?] ṛtuṣu me 'syasannakṣatriyāṃ ca virājaṃ ca [?] khalu vai yajñena yajamāno yajate yasya trayastriṃśamantaryanti devatāstasyāntaryanti devatāsu me 'syasaditi khalu vai yajñena yajamāno yajate yo vai stomānāṃ paramatāṃ gacchantaṃ veda paramatāmeva gacchati trivṛdvai stomānāmavamastrivṛtparamo ya evaṃ veda paramatāmeva gacchati [?] |*
+
+(Tai. Saṃ. 2-[?]-[?] [?].) The scholars have ordained that those who sacrifice with the Agniṣṭoma should do so with every *stoma*. In this rule, if the *trivṛt* *stoma* is left out, the principal breath is lost; so the sacrificer performs the *trivṛt* *stoma* with the intention that this sacrifice may be included in his principal breath. In the same way, if the *pañcadaśa* *stoma* is left out, vigour is lost; if the *saptadaśa* (continued on p. 52)
+
+### Printed p. 52  (PDF 70)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+…is left out, progeny is lost; if the *ekaviṃśa* is left out, the very support of his life is torn away; if the *triṇava* is left out, the seasons and constellations that are there for his benefit and the powers of his foes are no longer helpful to his side; if the *trayastriṃśa* is left out, the presence of the chief deities is lacking. Hence the sacrificer performs the sacrifice with the *pañcadaśa* *stoma* for acquiring strength, with the *saptadaśa* for progeny, with the *ekaviṃśa* for support of life, with the *triṇava* for the benefit of the influence of the seasons and constellations, and with the recitation of the *trayastriṃśa* for the presence of his chief deities. The sacrificer who knows the greatness of the *trivṛt* *stoma*, which holds first place among all *stomas*, obtains the first place among sacrificers.
+
+Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, which must be recited in order on the six days of the *Pṛṣṭhya-ṣaḍaha* sacrifices:
+
+> त्रिवृदग्निष्टोमो भवति तेज एवाव रुन्धे पञ्चदशो भवतीन्द्रियमेवाव रुन्धे सप्तदशो भवत्यन्नाद्यस्यावरुद्ध्या [?] अथो प्रैव तेन जायन्ते [?] एकविंशो भवति प्रतिष्ठित्यै [?] अथो [?] आत्मन्धत्ते [?] त्रिणवो भवति विजित्यै त्रयस्त्रिंशो भवति प्रतिष्ठित्यै [?] ।
+
+> *trivṛdagniṣṭomo bhavati teja evāva rundhe pañcadaśo bhavatīndriyamevāva rundhe saptadaśo bhavatyannādyasyāvaruddhyā [?] atho praiva tena jāyante [?] ekaviṃśo bhavati pratiṣṭhityai [?] atho [?] ātmandhatte [?] triṇavo bhavati vijityai trayastriṃśo bhavati pratiṣṭhityai [?] |*
+
+(Tai. Saṃ. [?]-[?]-[?] [?].) By the *trivṛt*-Agniṣṭoma *tejas*, by the *pañcadaśa* *indriya* [vigour], by the *saptadaśa* food and offspring, by the *ekaviṃśa* a firm footing, by the *triṇava* victory and by the *trayastriṃśa* firm establishment are obtained; the Kannada thus states the benefits of reciting the *stomas*. In the Upaniṣads too the greatness of the *stoma* is shown and the way it brings spiritual fruit:
+
+> स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः [?] ।
+
+> *stomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ [?] |*
+
+(Kaṭha Up. [?]-[?]-[?] [?].) By this sentence the greatness of the *udgītha* and the spiritual way of attaining it are shown. In the Chāndogya Upaniṣad:
+
+> येन छन्दसा स्तोष्यन् स्यात्तच्छन्द उपधावेदेन स्तोमेन स्तोष्यमाणः स्यात्तं स्तोममुपधावेत् [?] ।
+
+> *yena chandasā stoṣyan syāttacchanda upadhāvedena stomena stoṣyamāṇaḥ syāttaṃ stomamupadhāvet [?] |*
+
+(Chā. Up. [?]-[?]-[?] [?].) By this sentence, describing the greatness of the *udgītha*, it is ordained that one should meditate on that *stoma* by which, being of the right qualities [?], the *stotra* becomes complete. In the same way, in the sūkta at hand, *stomebhiḥ* means a *stotra* that is of the nature of song and gives exceeding benefit.
+
+### Printed p. 53  (PDF 71)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+***devayantaḥ.*** *Yuvām ātmana icchantaḥ* — "wishing to have you, the gods, as our own", that is, wishing to obtain your complete regard.
+
+***āyavaḥ.*** It has been told earlier that *āyu* may mean "men", "life", a particular deity representing life, or a proper name of a person. In this Ṛk it means "we men".
+
+***pṛkṣaḥ.*** The word *pṛkṣa* means battle (Ni. 2-[?]), a swift horse, and food. Here it means abundant food.
+
+***dasrā.*** *Śatrūṇām upakṣayitārau* or *darśanīyau* — "those whose power destroys foes" or "those of beautiful form"; the peculiarity of the name *dasra* was told earlier.
+
+***pavayaḥ.*** The word *pavi* is read among the names of speech (Ni. 3-[?]) and of the thunderbolt (Ni. 2-[?]); besides, *pavi rathanemir bhavati yad vipunāti bhūmim* (Ni. [?]-[?]-[?]) — "the *pavi* is the felly of the chariot, because it scours the earth": Yāska takes it as the name of a chariot wheel, citing
+
+> उते पव्या रथानामद्रिं भिन्दन्त्योजसा [?] ।
+
+> *ute pavyā rathānāmadriṃ bhindantyojasā [?] |*
+
+(Ṛ. Saṃ. 5-[?]-[?] [?]) where he shows that *pavi* means the felly of a chariot; in the Ṛk at hand too the sense is the wheel of the Aśvins' chariot. Showing that *pavi* also means an arrow-head (*śalya*):
+
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः [?] ।
+
+> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) — citing which, (Ni. [?]-[?]) *paviḥ śalyo bhavati yad vipunāti kāyaṃ tadvajraṃ pavīravān*: "the *pavi* is an arrow-head, because it pierces the body"; because Indra has it, he is called *pavīravān*; and he explains with
+
+> यो जनान्महिषा इवातितस्थौ पवीरवान् । उतापवीरवान् युधा [?] ।
+
+> *yo janānmahiṣā ivātitasthau pavīravān | utāpavīravān yudhā [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) …he has cited this Ṛk.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *stomebhiḥ* (by *bahulaṃ chandasi* the *bhis* does not become *ais*; the *e*), *devayantaḥ* (*devān ātmana icchantaḥ*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-[?]), *kyac* in the sense of wishing; *na chandasy aputrasya* (Pā. Sū. 7-4-[?]) …, the lengthening [?] prevented); the page ends here, continued on p. 54.
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–53 done: Ṛks 1–2 complete; Ṛk 3 through Special Topics; its grammar begun on p. 53). Next: printed p. 54 (PDF 72) — grammar of Ṛk 3 concluded, then Ṛk 4. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–3 largely unread); Varga numerals of Sūkta 139; the long Taittirīya Saṃhitā quotations on pp. 50–52 and the Ṛg/Nirukta quotations on p. 53 are read with doubtful words and unread numerals; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
