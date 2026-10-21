@@ -1818,4 +1818,78 @@ On the sixth day of the sacrifice called *Pṛṣṭhya-ṣaḍaha*, when the *P
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–68 done: Ṛks 1–6 complete; Ṛk 7 Saṃhitā, Pada and the Āśvalāyana citation written; its bhāṣya begins at the foot of p. 68). Next: printed p. 69 (PDF 87) — bhāṣya of Ṛk 7 (continuing), Pratipadārtha, Bhāvārtha, printed English, Special Topics. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–7 largely unread); Varga numerals of Sūkta 139; the Tai. Saṃ. quotation on p. 66 and the Āśvalāyana citations (pp. 64, 66, 68) garbled in places; all Ni./Ṛg/Tai./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 69  (PDF 87)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Gist, mine: Agni, hear our call, and tell the gods who deserve sacrifice of our rite; the cow the gods gave the Aṅgirases, which Aryaman milked, is known to him with me.)*
+
+*(The Āśvalāyana citation, continued from p. 68, then the bhāṣya of Ṛk 7. Small type; doubtful words marked.)*
+
+> ओ षू णो अग्ने शृणुहि त्वमीळितोऽग्निं होतारम् [?] । आ. [?] । इति । तस्मिन्नेव सवने प्रउगशस्त्रे द्वितीया । सूत्रितं च । अस्तु श्रौषळो षू णो अग्ने । आ. [?] । इति ॥
+
+> *o ṣū ṇo agne śṛṇuhi tvamīḷito 'gniṃ hotāram [?] | ā. [?] | iti | tasminneva savane praugaśastre dvitīyā | sūtritaṃ ca | astu śrauṣaḷo ṣū ṇo agne | ā. [?] | iti ‖*
+
+> हे अग्ने त्वं नोऽस्मदीयमाह्वानं स्तुतिं [?] ईळितः अस्माभिः स्तुत्यः सन् [?] सुष्ठु शृणुहि । ओ इति निपातद्वयसमुदायात्मक एको निपातः [?] । अभिमुख्येनैव सम्भजामहे [?] … उत्तरत्र [?] … देवेभ्यो यज्ञियेभ्यो यज्ञार्हेभ्यो हविर्भागार्हेभ्यः स्तुतिभागार्हेभ्यश्च [?] । यज्ञिया इति … ब्रवसि । ब्रूहि । ब्रवीतेर्लेट्त्वादागमः [?] । केदृक्षेभ्यः … राजभ्यो राजमानेभ्यः । इदानीं देवाः प्रत्ना [?] … अत्रेतिहासमाहुः । अङ्गिरसो नाम महर्षयः पूर्वं यज्ञार्थं देवान् स्तुत्वा प्रीणयित्वा गा आयाचन्त । ते प्रीताः कामानुषां [?] प्रादुः । लब्धां चेतां [?] धेनुं क्षीरं दोग्धुमशक्नुवाना आर्यमणं देवं प्रार्थयन् । स च प्रार्थितोऽग्निहोत्रार्थं क्षीरं दुदोहेति [?] । तदिदमुच्यते । यद्ध त्यां तां प्रसिद्धां धेनुं क्षीरादिना प्रीणयित्रीं गां हे देवा अङ्गिरोभ्यस्तदर्थमदत्तन [?] … तां धेनुमर्यमा सनयुं [?] नियुक्तान् देवः कर्तरी [?] सनसश्चासावेको [?] … सचेतः [?] देवेभिः साकं [?] वि दुह्रे । विशेषेण दुग्धवान् [?] … लिट् बहुलं छन्दसीति रुट् [?] … एषः एष अर्यमा तां धेनुं [?] वेद जानाति [?] । [… the remainder of the bhāṣya unread at this resolution …]
+
+> *he agne tvaṃ no 'smadīyamāhvānaṃ stutiṃ [?] īḷitaḥ asmābhiḥ stutyaḥ san [?] suṣṭhu śṛṇuhi | o iti nipātadvayasamudāyātmaka eko nipātaḥ [?] | abhimukhyenaiva sambhajāmahe [?] … uttaratra [?] … devebhyo yajñiyebhyo yajñārhebhyo havirbhāgārhebhyaḥ stutibhāgārhebhyaśca [?] | yajñiyā iti … bravasi | brūhi | bravīterleṭtvādāgamaḥ [?] | kedṛkṣebhyaḥ … rājabhyo rājamānebhyaḥ | idānīṃ devāḥ pratnā [?] … atretihāsamāhuḥ | aṅgiraso nāma maharṣayaḥ pūrvaṃ yajñārthaṃ devān stutvā prīṇayitvā gā āyācanta | te prītāḥ kāmānuṣāṃ [?] prāduḥ | labdhāṃ cetāṃ [?] dhenuṃ kṣīraṃ dogdhumaśaknuvānā āryamaṇaṃ devaṃ prārthayan | sa ca prārthito 'gnihotrārthaṃ kṣīraṃ dudoheti [?] | tadidamucyate | yaddha tyāṃ tāṃ prasiddhāṃ dhenuṃ kṣīrādinā prīṇayitrīṃ gāṃ he devā aṅgirobhyastadarthamadattana [?] … tāṃ dhenumaryamā sanayuṃ [?] niyuktān devaḥ kartarī [?] sanasaścāsāveko [?] … sacetaḥ [?] devebhiḥ sākaṃ [?] vi duhre | viśeṣeṇa dugdhavān [?] … liṭ bahulaṃ chandasīti ruṭ [?] … eṣaḥ eṣa aryamā tāṃ dhenuṃ [?] veda jānāti [?] | [… the remainder of the bhāṣya unread at this resolution …]*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *tvam* — you; *naḥ* — our; (*naḥ*) praise-form invocation; *īḷitaḥ* — praised by us; *o ṣu śṛṇuhi* — listen, turned towards us; (then) *rājabhyaḥ* — to the radiant; *yajñiyebhyaḥ* — worthy of the praise or the oblation connected with the sacrifice; *devebhyaḥ* — to the gods; *yajñiyebhyaḥ* — (the rite) considered by the sacrificer [?]; *bravasi* — tell; *yat tyām* — which well-known; *dhenum* — cow; *devāḥ* — the gods; *aṅgirobhyaḥ* — to the Aṅgirases; *adattana* — gave; *tām* — that cow; *aryamā* — Aryaman; *saṃyamisatakka karmavannu* [?]; *kartarī* — in you, the maker; *sacā* — together with the other gods; *vi duhre* — milked; (and) *eṣaḥ* — this Aryaman; *tām* — that cow; *me sacā* — together with me; *vede* — knows.
+
+**Bhāvārtha.** O Agni, praised by us, listen to this invocation of ours that takes the form of praise, turning towards us. Then tell the radiant gods, who deserve the praise and oblation of the sacrifice, of the rite performed by us, the sacrificers (continued on p. 70).
+
+### Printed p. 70  (PDF 88)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Bhāvārtha, concluded.)* …Tell the gods who are worthy of oblations the rite performed by us, the sacrificers. In return for this rite the gods favour us; the cow well known [as given] by them to the Aṅgirases, Aryaman milked, together with those gods, for you [Agni]. That same Aryaman, even now, together with me, knows that cow as ready for the sacrifice.
+
+**English Translation (as printed).** Agni, listen attentively when you are praised by us, and repeat (those praises) to the gods who are entitled to worship; to the royal (deities) entitled to worship: on which account the gods gave to the Angirasas the milch cow which Aryman milked for (you), the maker (of all), together with the gods; that cow (the nature of which you have said), be along wtih [sic] me, comprehends.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+On the sixth day of the sacrifice called *Daśarātra*, performed over ten days, at the morning pressing, before the priest called *Neṣṭṛ* recites the *pṛṣṭhitayājyā* mantra [?], this Ṛk *o ṣū ṇo agne* and the Ṛk *agniṃ hotāram* are joined and recited at the time of the sacrifice; so the Āśvalāyana Śrautasūtra, in the section beginning *ṣaṣṭhasya*, sets out by the sūtra ओ षू णो अग्ने शृणुहि त्वमीळितोऽग्निं होतारम् (*o ṣū ṇo agne śṛṇuhi tvamīḷito 'gniṃ hotāram*) (Āś. [?]-[?]); and that when the *Praüga-śastra* mantras are recited at the same pressing, this Ṛk is to be recited as the second mantra, by the sūtra अस्तु श्रौषळो षू णो अग्ने (*astu śrauṣaḷo ṣū ṇo agne*) (Āś. [?]-[?]).
+
+***yajñiyebhyo rājabhyo yajñiyebhyo bravasi.*** Here the first *yajñiyebhyaḥ* means, as an epithet of the gods, *yajñārhebhyo havirbhāgbhyaḥ stutibhāgbhyaś ca* — "to those worthy of sacrifice, who deserve a share of the oblation and of the praise". The second *yajñiyebhyaḥ* is an epithet of the sacrificers, *yajñārhebhyo yajamānebhyaḥ saṃbandhi karma* — the rite belonging to the sacrificers who are fit to sacrifice. The sense is: tell or convey to the gods, fit to receive the sacrifice, the praises and oblations of men fit to sacrifice. From this sentence it is understood that Agni, as the leader of the sacrifice, is a messenger who builds the relation between the sacrificers and the gods.
+
+> त्वे अग्ने विश्वे अमृतासो अद्रुह आसा देवा हविरदन्त्याहुतम् ।
+> त्वया मर्तासः स्वदन्त आसुतिं त्वं गर्भो वीरुधां जज्ञिषे शुचिः ॥
+
+> *tve agne viśve amṛtāso adruha āsā devā haviradantyāhutam |*
+> *tvayā martāsaḥ svadanta āsutiṃ tvaṃ garbho vīrudhāṃ jajñiṣe śuciḥ ‖*
+
+(Ṛ. Saṃ. 2-1-[?] [?].) As described in such Ṛks, and
+
+> अग्निर्वै देवानां दूत आस [?] ।
+
+> *agnirvai devānāṃ dūta āsa [?] |*
+
+(Śa. Brā. 1-[?]-[?]-[?] [?]) (continued on p. 71).
+
+### Printed p. 71  (PDF 89)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> यज्ञस्य शिरः प्रति दधात्यग्निर्देवानां दूत आसीत् [?] ।
+
+> *yajñasya śiraḥ prati dadhātyagnirdevānāṃ dūta āsīt [?] |*
+
+(Tai. Saṃ. 3-[?]-[?]-[?] [?].) As said also in such sentences, Agni, being the messenger common to the gods and to the sacrificers, men, is addressed by the sacrificers with the prayer that he speak their praises before the gods.
+
+***aṅgirobhyo dhenuṃ devā adattana.*** *Atretihāsam āhuḥ* — "here they tell a story: the great seers named Aṅgirases, in the past, praised the gods for the sake of a sacrifice and pleased them, and asked for cows. Pleased, they gave them the cow of desire. Unable to milk the milk of that cow, they prayed to the god Aryaman; and he, asked, milked the milk for the Agnihotra and so on." The Kannada gives it thus: the great seers called Aṅgirases, wishing to obtain cows for sacrifice, praised the gods and delighted them; the gods gave them the cow that grants all desires; then, unable to milk it, they prayed to the god Aryaman to help; and Aryaman milked for them the milk needed for the Agnihotra which the Aṅgirases were to perform — this story is hinted here. And that before all, the Aṅgirases made Agni shine in the Agnihotra sacrifice:
+
+> अङ्गिरसः [?] ते ऽग्नेर्नाग्निमयजन्त ते स्वर्गं लोकमायन् [?] ।
+
+> *aṅgirasaḥ [?] te 'gnernāgnimayajanta te svargaṃ lokamāyan [?] |*
+
+(Ai. Brā. 1-[?]) and similar sentences say so. *Aṅgiras* is used in three ways: as a proper name; as the name of a line of seers; and as a name connected with a company of gods. By the epithet *aṅgirobhyaḥ*, *aṅgirasaḥ* it is shown, in the Ṛgveda Saṃhitā, Part 1, pp. 94–95 [?], that Indra and the Aṅgirases are closely related. Here the relation of Agni and the Aṅgirases is to be understood. Since this Ṛk has the plural *aṅgirobhyaḥ*, the line of the Aṅgiras seers is meant. Agni is the original ancestor of this line; from him the seer Aṅgiras himself came into being, and that line grew — a story told in
+
+> त्वमग्ने प्रथमो अङ्गिरा ऋषिर्देवो देवानामभवः शिवः सखा ।
+
+> *tvamagne prathamo aṅgirā ṛṣirdevo devānāmabhavaḥ śivaḥ sakhā |*
+
+(Ṛ. Saṃ. 1-31-[?] [?].) This same story (continues on p. 72).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–71 done: Ṛks 1–6 complete; Ṛk 7 through printed English and Special Topics begun, *aṅgirobhyo dhenuṃ devā adattana*). Next: printed p. 72 (PDF 90) — Special Topics of Ṛk 7 continued (the Aṅgiras story, *aryamā* …), grammar, then Ṛk 8. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–7 largely unread; Ṛk 7 bhāṣya partly unread on p. 69); Varga numerals of Sūkta 139; Part/page references to earlier volumes (pp. 66, 71) doubtful; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Ai. Brā./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
