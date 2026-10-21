@@ -5279,4 +5279,124 @@ Sāyaṇa explains *vidyādhidhāraṇakuśalaṃ putram*: a son with the power 
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–213 done: Ṛks 1–11 complete; Ṛk 12 through printed English and Special Topics begun (*jīrāśvaḥ*))). Next: printed p. 214 (PDF 232) — Special Topics of Ṛk 12 continued, grammar; then Ṛk 13 (the sūkta has 13 Ṛks). Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 214  (PDF 232)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 213.)* In some Ṛks of this kind, the chariot of the Aśvins is described as drawn by swiftly running horses. In the present Ṛk the word *jīrāśva* describes Agni as one who has horses of a moving nature; and not only the epithet *jīrāśva*, but also epithets such as *ghṛtapṛṣṭha*, *vātajūta*, *svañca* tell the nature of his vehicles.
+
+***sudyotmā*** — *sudyotamānaḥ*: an epithet of Agni, "shining supremely and excessively".
+
+> अग्निः शुचिव्रततमः शुचिर्विप्रः शुचिः कविः । शुची रोचते आहुतः । उदग्ने शुचयस्तव शुक्रा भ्राजन्त ईरते । तव ज्योतींष्यर्चयः । आयुर्दा अग्नेऽस्यायुर्मे देहि वर्चोदा अग्नेऽसि वर्चो मे देहि [?] … सं श्वे [?] मग्ने सूर्यस्य वर्चसागथाः [?] स्वर्णं [?] स्तुतेन सं प्रियेण धाम्ना ॥ [?]
+
+(Tai. Saṃ. 1-3-14 [?].) In such sentences the description of Agni tells of his brightness and power: the chief quality of Agni, who is self-luminous and the illuminator of the whole world, is stated.
+
+***mandraḥ*** — the word *mandra* is read among the names of speech (Ni. 1-11): sweet and delighting speech. The word *mandrajihva* is used as an epithet both of Agni and of Bṛhaspati and describes the nature of each; but the sense differs a little. For example —
+
+> आ नो बर्हिणं वृषभं मन्द्रजिह्वं बृहस्पतिं वर्धया नव्यमर्कैः । गाथान्यः सुरुचो यस्य देवा आशृण्वन्ति नवमानस्य मर्ताः ॥
+
+(Ṛ. Saṃ. 1-190-1.) In this Ṛk, as an epithet of Bṛhaspati, it means "having delightful speech". When the same epithet is used of Agni, in 1-[?]-[?] and 3-[?]-[?], it means "having tongues in the form of flames that are lovely and delighting". In the present Ṛk, the word *mandra* means Agni, whose nature is lovely and joyous.
+
+***candrarathaḥ*** — the word *candra* is read among the names of gold (Ni. 1-10). *Candraratha* means "one having a golden chariot", or, since *candraḥ kānteḥ kāntikarmaṇaḥ* (Ni. 11-3), as it gives the sense "radiant and beautiful", the word *candra* may be formed from the root *cand*; following the Nirukta authors' derivation, Sāyaṇa in the Ṛk 6-32-1 [?] (continues on p. 215)
+
+### Printed p. 215  (PDF 233)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+has explained *candrarathāḥ*, an epithet of the dawns, as *kāntirathāḥ*. Likewise —
+
+> चन्द्रमग्निं चन्द्ररथं हरिव्रतं वैश्वानरमप्सुषदं स्वर्विदम् । विगाहं तूर्णिं तविषीभिरावृतं भूर्णिं देवास इह सुश्रियं दधुः ॥
+
+(Ṛ. Saṃ. 3-2-4 [?].) in this Ṛk Sāyaṇa explains *candraratha*, an epithet of Vaiśvānara Agni, as *āhlādake rathe yasya*, "one with a gladdening chariot". Here too the sense may be so taken.
+
+***śṛṇavat*** — *śṛṇuyāt*, or *śrāvayet, deveṣu madhye prakhyāpayet*: may Agni himself attend to and hear our invocation, or may he make the gods hear it; that is, may our invocation be proclaimed before them.
+
+***vasyaḥ*** — formed from the root *vas*, meaning radiance, *vasanīyaḥ* [?]: "one of a gentle form".
+
+***amūraḥ*** — Sāyaṇa explains it as *amūḍhabalaḥ*, "of unfailing strength". Ordinarily *mūra* means "the foolish", and *amūra*, "not foolish", that is, "wise". The Nirukta authors —
+
+> मूरा अमूर न वयं चिकित्वो महित्वमग्ने त्वमङ्ग विद्से [?] । शये वव्रिश्चरति जिह्वयादन्नेरिहाणः [?] युवतिं विश्पतिः सन् ॥
+
+(Ṛ. Saṃ. 10-4-4 [?].) citing this Ṛk, explain it as *mūḍhā vayaṃ tvam amūḍhas tvam asi*, "we are foolish, you are wise". Likewise here too one may give the sense "wise", as an epithet of Agni.
+
+***neṣatamaiḥ*** — *asmadarthaṃ netṛbhiḥ karmabhiḥ stotrair vā*: "by the best leading acts or hymns", that is, by guiding and excellent acts or hymns.
+
+**Vyākaraṇa-prakriyā (Ṛk 12; grammar pages 215–216, noted briefly).** *sudyotmā* (root *dyuta dīptau*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) gives *manin*; the guṇa of the light penultimate by *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86); *kratvādayaś ca* (Pā. Sū. 6-2-118): *ādyudātta* for the second member). (continues on p. 216)
+
+### Printed p. 216  (PDF 234)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*Grammar (Ṛk 12, continued; noted briefly):* *jīrāśvaḥ* (*jīraḥ aśvo yasya saḥ jīrāśvaḥ*; the root *ju* [saura root]; *jor īc ca* (Uṇ. Sū. 2-[?]): suffix *rak*; *vṛttikāra's* view: from the root *jyā*, *rak*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member's accent), *mandraḥ* (root *madī harṣe*; *syāyitañcivañci…* (Uṇ. Sū. 2-[?]): suffix *rak*; *idito num dhātoḥ*: *num*; the suffix-accent: last syllable *udātta*), *śṛṇavat* (root *śru śravaṇe*; *leṭ*, third person singular, *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-97): loss of the final *i*; *leṭo 'ḍāṭau*: *aṭ*; *śruvaḥ śṛ ca* (Pā. Sū. 3-1-74): *śṛ* for the root, *śnu* as the vikaraṇa; the *u* before a vowel-initial..., *av*; the form *śṛṇavat*; *ati-jñanta*, *nighāta*), *candrarathaḥ* (a *bahuvrīhi* as before; the *rak* suffix: final-syllable accent; the first member's accent in the *bahuvrīhi*), *neṣat* (root *ṇīñ prāpaṇe*; *leṭ*, third person singular, *tip*; *itaś ca lopaḥ*; *leṭo 'ḍāṭau*; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-34): *sip*; because of it the guṇa of the root's *ī*; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59): *ṣatva*; *tiṅ*, *nighāta*), *neṣatamaiḥ* (*atiśāyane tamabiṣṭhanau*: *tamap*; being *pit*, anudātta; instrumental plural), *suvitam* (root *iṇ gatau*; *kta* in the passive; *tannādīnāṃ chandasy upasaṃkhyānam* (?); *gatir anantaraḥ* (Pā. Sū. 6-2-49): the *gati*'s accent; *sūpamānāt ktaḥ* (Pā. Sū. 6-2-144): the last member's *ādyudātta* [?]; accusative singular), *vasyaḥ* (*yato 'nāvaḥ* (Pā. Sū. 6-1-213): *ādyudātta*). ‖ 12 ‖
+
+---
+
+#### Ṛk 13
+
+### Printed p. 217  (PDF 235)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+**॥ संहितापाठः ॥**
+
+> अस्तावि अग्निः शिमीवद्भिरर्कैः साम्राज्याय प्रतरं दधानः ।
+> अमी च ये मघवानो वयं च मिहं न सूरो अति निः तत्न्युः ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्ताविः । अग्निः । शिमीवत्ऽभिः । अर्कैः । साम्ऽराज्याय । प्रऽतरम् । दधानः ।
+> अमी इति । च । ये । मघवानः । वयम् । च । मिहम् । न । सूरः । अति । निः । तत्न्युः ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni has been praised by us with hymns and sacrificial acts, holding the highest sovereignty; may these rich patrons and we thunder his praise as the sun makes a rain-cloud thunder.* Small type; doubtful words marked)
+
+> अयमग्निः शिमीवद्भिर्हविष्प्रदानादिकर्मवद्भिरर्कैरर्चनसाधनैर्मन्त्रैश्च अस्तावि स्तुतोऽस्माभिर्यजमानैः । शिमी शमीति कर्मनाम शमी शक्तिरिति तन्नामसु पाठात् । कीदृशोऽयं । साम्राज्याय साम्राज्यं सम्यक् राजमानत्वं तस्मै प्रतरं प्रकृष्टतरमैश्वर्यं दधानः धारयन् । अमू च [?] छान्दस इत्यसौ उपप्रत्ययः [?] । किंचेमग्निमिमा च पुरोवर्तमाना ऋत्विजः पुत्रादयो वा । ये वयं च पूर्वं स्तोतृत्वेन प्रसिद्धा वयमप्यस्मत्कर्तृकं निष्टतन्युः [?] । शब्दयन्तु । निष्पूर्वः स्तनतिः शब्दकर्मा । इतः परमपुष्यप्रस्ताव [?] … वयं चागम्य स्तुमः इत्यर्थः । तत्र दृष्टान्तः । मिहं न सूरः । मिहं मेघं मेहनशीलं मेढं सूरः सूर्यः वृष्ट्यर्थं शब्दयति तद्वत् । लिङ् छान्दसो विकरणस्य श्लुः [?] । अभिनिः स्तनः शब्दसंज्ञायां । पा. ८-४-[?] इति षत्वम् ॥ [partly unread]
+
+**Pratipadārtha (Kannada).** *sāmrājyāya* — for the sake of supreme sovereignty; *prataram* — the most excellent dignity (*ārhatā*); *dadhānaḥ* — possessing; *agniḥ* — Agni; *śimīvadbhiḥ* — with acts such as offering oblations; *arkaiḥ* — with mantras worthy of worship; *astāvi* — has been praised (this Agni); *amī ca* — those who stand before him, the priests or our sons and the rest; *ye maghavānaḥ* — (by his favour) rich; *vayaṃ ca* — we also; *sūraḥ* — the sun; *mihaṃ na* — as (for rain) he makes the cloud thunder; *ati* — with deep (grave) sound; *niṣṭatanyuḥ* — let us praise (him).
+
+### Printed p. 218  (PDF 236)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**Bhāvārtha.** We praise this Agni, who has attained the supreme sovereignty, with offerings of oblations and other acts and with mantras fit for worship. Moreover, these priests and sons standing before him, and we, enriched by his favour, praise him with deep and grave sound, as the sun makes the cloud thunder for rain.
+
+**English Translation (as printed).** Agni, possessing eminent (fitness) for supreme sovereignty, has been glorified by us with holy rites, and with hymns: Let all who are present, as well as we ourselves, enriched (by his favour), shout aloud (the praise of Agni), as (loudly as) the sun (causes) the rain-cloud to thunder.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***sāmrājyāya prataram*** — *sāmrājyāya prakṛṣṭataram aiśvaryaṃ dadhānaḥ*: the word that should be in the genitive, *sāmrājyasya*, stands in the dative in this place; Agni is praised as one who has attained a position of supreme sovereignty.
+
+> प्र साम्राजो असुरस्य प्रशस्तिं पुंसः कृष्टीनामनुमाद्यस्य । इन्द्रस्येव प्र तवसस्कृतानि वन्दे दारुं वन्दमानो विवक्मि ॥ [?]
+
+(Ṛ. Saṃ. 2-[?]-[?] [?].) And in such Ṛks too,
+
+> अग्निर्ह दैवीनां विशां पुर एत्यग्निर्हि देवतानां मुखम् । [?]
+
+(Śa. Brā. 3-[?]-[?]-10 [?].) as described in such Brāhmaṇa sentences too, the power of Agni, the sovereign over even the gods, is expressed by the phrase *sāmrājyāya prataram*.
+
+***śimīvadbhiḥ*** — *śimīti karmanāma; śimī śaktiḥ* (Ni. 2-1): since it is so read among those names. *Haviṣpradānādi karmavadbhiḥ*: Sāyaṇa explains it as "with acts such as the giving of oblations", on the authority of the Nirukta sentence.
+
+***arkaiḥ*** — *arcanasādhanair mantraiḥ*: "with mantras, the means of worship": thus it is explained here.
+
+### Printed p. 219  (PDF 237)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+> अर्को देवो भवति यदेनमर्चन्ति । अर्को मन्त्रो भवति यदेनेनार्चन्ति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥
+
+(Ni. 5-4.) The Nirukta authors give different senses: as it is the object of worship, *arka* is a god; as a means of worship, *arka* is a mantra; as it gives vitality to beings, *arka* is food; as it is pungent, *arka* is a tree (the *arka* plant); and then —
+
+> गायन्ति त्वा गायत्रिणोऽर्चन्त्यर्कमर्किणः । ब्रह्माणस्त्वा शतक्रत उद्वंशमिव येमिरे ॥
+
+(Ṛ. Saṃ. 1-10-1.) citing this Ṛk, they explain the nature of *arka*. The *arka* is of surpassing power, and its greatness is praised in many places. In the Aitareya Āraṇyaka —
+
+> अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छन्दसां गायत्र्यग्रमङ्गानां शिरः । तेनार्कवतीषु भवत्यर्को वा अर्कः [?] । ता नव भवन्ति नव कपालं शिरः ॥ [?]
+
+(Ai. Ār. 1-4-1 [?].) And by *indram id gāthino bṛhad indram arkebhir arkiṇaḥ* (Ṛ. Saṃ. 1-7-1), it is said that the nine Ṛks beginning with it are *arka* mantras, that they are the mantras that are the head; and that since these mantras, as the principal principle in the form of the Gāyatrī, are in the form of Gāyatrī, the *arka* mantras hold the principal place among all mantras [?].
+
+***mihaṃ na*** — *mehanaśīlaṃ meghaṃ yathā*: "like the cloud, which sheds rain": the sacrificer's deep and sonorous praise is compared to the thunder of the cloud.
+
+**Vyākaraṇa-prakriyā (Ṛk 13; grammar page 219, noted briefly).** *astāvi* (root *ṣṭuñ stutau*; *luṅ* in the passive; third person singular, *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-66): *ciṇ* for *cli*; *acaḥ ñniti* (Pā. Sū. 7-2-115): *vṛddhi*; *ciṇo luk* (Pā. Sū. 6-4-104): *luk* of the *ta*; the *aṅga* takes *aḍ*; since it stands at the beginning of the *pāda*, no *nighāta*; since the augment is *udātta*, the word is *ādyudātta*). (continues on p. 220)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–219 done: Ṛks 1–12 complete; Ṛk 13 through printed English and Special Topics (*sāmrājyāya*, *arka*); grammar begun on p. 219)). Next: printed p. 220 (PDF 238) — grammar of Ṛk 13 concluded; the sūkta then ends (Sūkta 142 follows). Images exist to PDF 245; recrop 246 onward. Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
