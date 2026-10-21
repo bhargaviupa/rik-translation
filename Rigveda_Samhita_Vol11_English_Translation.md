@@ -6280,4 +6280,224 @@ One more point to be noticed: the word *dvāraḥ* ("doors") is in the plural. A
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–249 done (introductory essay; Ṛks 1–5 complete; Ṛk 6 *dvāro devīḥ*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the Special Topics begun on p. 249 (list of the doors' duties, ending at item 4; continues on p. 250)). Next: printed p. 250 (PDF 268). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239 and 249 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 250  (PDF 268)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Continuation of the Special Topics of Ṛk 6 on *dvāro devīḥ*.)*
+
+Thus many kinds of functions of these (door-deities) are mentioned. In these duties many actions are attributed to them only figuratively (*aupacārika*), as an ornament of speech; some hold that there is no substantial truth in them. For instance,
+
+> समिद्धो अस्य मनुषो दुरोणे देवो देवान् यजसि जातवेदः ।
+> आ च वह मित्रमहश्चिकित्वान्त्वं दूतः कविरसि प्रचेताः ॥
+
+> *samiddho asya manuṣo duroṇe devo devān yajasi jātavedaḥ |*
+> *ā ca vaha mitramahaścikitvāntvaṃ dūtaḥ kavirasi pracetāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-1.) In this Ṛk, *manuṣo duroṇe* ("in the house of the man") — since what is faced is the man's sacrificial house, these house-doors are said to have only a worldly (*laukika*) sense and to be figuratively (*aupacārika*) spoken of; but the epithets *nṛpeśasaḥ*, *ṛtāvṛdhaḥ*, *pāvakāḥ* and the like are not suitable to them, say some critics. Whether these views are to be supported or refuted must be understood in the light of the earlier Vedic scholars' opinions.
+
+> स्वाध्यो वि दुरो देवयन्तोऽशिश्रयू रथयुर्देवताता ।
+> पूर्वी शिशुं न मातरा रिहाणे समग्रुवो न समनेष्वञ्जन् ॥
+
+> *svādhyo vi duro devayanto 'śiśrayū rathayurdevatātā |*
+> *pūrvī śiśuṃ na mātarā rihāṇe samagruvo na samaneṣvañjan ‖*
+
+(Ṛ. Saṃ. 2-3-5 [?].) In this Ṛk of the Āprī-sūkta, *yajñagṛhadvārāṇi* ("the doors of the sacrificial house") is the sense. Some scholars, for the verb *[?]* in the Ṛk, take *yajamānaḥ* as the subject (doer) and construe that they stand resorting to the doors of the sacrificial house [?]. The English scholars Oldenberg, Grassmann and Ludwig have also accepted this explanation. In:
+
+> विराट् सम्राड्विभ्वीः प्रभ्वीर्बह्वीश्च भूयसीश्च याः । दुरो घृतान्यक्षरन् ॥
+
+> *virāṭ samrāḍvibhvīḥ prabhvīrbahvīśca bhūyasīśca yāḥ | duro ghṛtānyakṣaran ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?]; as read.) the words *virāṭ* and *samrāṭ* are two names. Max Müller, the scholar, says that these deities are doors of heaven [?: the Kannada words are *… upasargadiṃ iḍiduberuva svargadvāragaḷeṃdiddāne*] (History of Ancient Sanskrit Literature, p. 245). In the Praiṣa-sūkta:
+
+> होता यक्षद्दुरः कुष्पाः कवष्यः कोषधानीर् [?] … वि पक्ष्मोभिः श्रयन्तामं [?] सुप्रायणा अस्मिन्यज्ञे विश्रयन्तामृतावृधो वियन्तु [?] आज्यस्य होतर्यज ।
+
+> *hotā yakṣadduraḥ kuṣpāḥ kavaṣyaḥ koṣadhānīr [?] … vi pakṣmobhiḥ śrayantāmaṃ [?] suprāyaṇā asminyajñe viśrayantāmṛtāvṛdho viyantu [?] ājyasya hotaryaja |*
+
+(Tai. Brā. 3-[?]-[?]-[?]; partly legible.)
+
+---
+
+### Printed p. 251  (PDF 269)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11 [?].)*
+
+By these sentences the commentator explains, with *duro dvārasaṃjñāḥ pañcamaprayājadevatāḥ…* (the doors, the deities of the fifth *prayāja*), *…hotā yajatu*. These sentences, it is said, are in conflict with the foregoing opinion of Sāyaṇa [?]; hence the idea that "doors" are a poetic figure is one that some would hold [?]; (read at low confidence). In the Aitareya Brāhmaṇa:
+
+> दुरो यजति वृष्टिर्वै दुरो वृष्टिमेव तत्प्रीणाति वृष्टिमन्नाद्यं यजमाने दधाति ।
+
+> *duro yajati vṛṣṭirvai duro vṛṣṭimeva tatprīṇāti vṛṣṭimannādyaṃ yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) Thus the sense of *dvāraḥ* is taken as *vṛṣṭi* ("rain"); how this can be is not made clear. The Nirukta author:
+
+> द्वारो जवतेर्वा [?] द्रवतेर्वा [?] वृणोतेर्वा [?] ।
+
+> *dvāro janatervā [?] pravṛtervā [?] pātayatervā [?] |*
+
+(Ni. [?].) — thus the Nirukta author, as the Kannada explains, derives *dvāra* either from the root *ju* (giving a sense of pressing on [?]), or from the root *dru* (giving the sense of running [?]), or from the root *vṛ* (giving the sense of separating [?]); the Sanskrit words are read with doubt. And:
+
+> व्यचस्वतीरुर्विया वि श्रयन्तां पतिभ्यो न जनयः शुम्भमानाः ।
+> देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः ॥
+
+> *vyacasvatīrurviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*
+> *devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-5.) Citing this Ṛk, while explaining the meaning of the word *dvār*, the Nirukta author says: "*gṛhadvāra* (house-door), says Kātthakya; Kātthakya's opinion is *gṛhadvāra*; Agni, says Śākapūṇi" (Ni. 8-[?]) — he gives the different views, the second being that the deity is Agni. The Bṛhaddevatā:
+
+> द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां [?] ताः तासु पत्न्यः ।
+> अग्नायीमनुवर्तन्ते तेथाग्नाय्यग्निमेव च [?] ।
+> अग्नेः ध्रुवं स्थितास्तासु संस्तुत्यन्तेऽग्निना सह ।
+> प्राधान्यं तासु चैवाग्नेः स्तुतिष्वेव च [?] ॥
+
+> *dvārastu devyo yāḥ proktā viśveṣāṃ [?] tāḥ tāsu patnyaḥ |*
+> *agnāyīmanuvartante tethāgnāyyagnimeva ca [?] |*
+> *agneḥ dhruvaṃ sthitāstāsu saṃstutyante 'gninā saha |*
+> *prādhānyaṃ tāsu caivāgneḥ stutiṣveva ca [?] ‖*
+
+(Bṛ. De. 2-[?] to 2-[?]; partly legible.) "These doors are the wives of the gods, and they follow Agni's wife [?], who is Agni himself; being firmly in Agni they are praised along with Agni; the chief of them is Agni": thus it is said. This explanation is quite reasonable.
+
+***asaścataḥ*** — *asajjamānāḥ*: "not clinging to each other, standing separate" (*parasparam vipraṛkṛṣṭāḥ* [?]), the sense is "separate".
+
+---
+
+### Printed p. 252  (PDF 270)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *śrayantām* (root *śriñ sevāyām*; *loṭ*, third person plural, form *śrayantām*; being in a word with *ati*… the *nighāta* accent), *ṛtāvṛdhaḥ* (*ṛtaṃ vardhayanti iti ṛtāvṛdhaḥ*; root *vṛdhu vṛddhau*; used in the causative sense, the root is *aṇyarthānvarthādhātu* [?]; suffix *kvip ca* (Pā. Sū. 3-2-76); *upapada* compound; *anveṣām api dṛśyate* (Pā. Sū. 6-3-136 [?]): lengthening of the former member in the Saṃhitā; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the natural accent of the *kṛdanta*), *prayai* (root *yā prāpaṇe*; *prayai rohiṣyai avyathiṣyai* (Pā. Sū. 3-4-10): formed as an *avyaya* infinitive; *kṛnmejantaḥ* [?]: the name *avyaya*), *mahīḥ* (*mahatī*; the *t* of *mahatī* is dropped by Vedic usage; *vibhakti* following, *supāṃ sulukpūrvasavarṇa…* (Pā. Sū. 7-1-39): *pūrvasavarṇa* lengthening), *pāvakāsaḥ* (*jas* following; *ājjaser asuk* (Pā. Sū. 7-1-50): *asuk* augment), *puruspṛhaḥ* (root *spṛha īpsāyām*; suffix *kvip*; the natural accent of the *kṛdanta* in the last member), *asaścataḥ* (root *ṣaścā gatau* [?]; the *ca* is changed to *ka* by *vyatyaya* [?]; *śatṛ* in the present sense; *na vidyate saścantaḥ gacchantaḥ yeṣu te asaścantaḥ*; *nañsubhyām* (Pā. Sū. 6-2-172): the final of the last member is *udātta*). ‖ 6 ‖
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> आ भन्दमाने उपाके नक्तोषासा सुपेशसा ।
+> यह्वी ऋतस्य मातरा सीदतां बर्हिरा सुमत् ॥ ७ ॥
+
+> *ā bhandamāne upāke naktoṣāsā supeśasā |*
+> *yahvī ṛtasya mātarā sīdatāṃ barhirā sumat ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । भन्दमाने इति । उपाके इति । नक्तोषसा । सुऽपेशसा ।
+> यह्वी इति । ऋतस्य । मातरा । सीदताम् । बर्हिः । आ । सुऽमत् ॥ ७ ॥
+
+> *ā | bhandamāne iti | upāke iti | naktoṣasā | su 'peśasā |*
+> *yahvī iti | ṛtasya | mātarā | sīdatām | barhiḥ | ā | su 'mat ‖ 7 ‖*
+
+---
+
+### Printed p. 253  (PDF 271)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 11.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the goddesses Night and Dawn, praised by all, close to each other, beautiful, great, makers of the sacrifice, are asked to come of their own accord and sit on the spread grass.* Small type; only partly legible)
+
+> भन्दमाने सर्वैः स्तूयमाने उपाके परस्परं सन्निहिते सुपेशसा शोभनरूपे [?] पेश इति रूपनाम । यह्वी महत्क्यौ [?] अत्यन्तरूपे वा प्रतिदिनं [?] जायमानत्वात् । यह्वीति महन्नाम [?] । ऋतस्य मातरा यज्ञस्य निर्मात्र्यौ ताभ्यामागन्तुना [?] यज्ञस्य सम्पूर्तेः यज्ञमात्रत्वमुपचर्यते [?] । तथाभूतयोः यद्वा अहोरात्रादीनामहोरात्रत्वं साधयितृत्वात् [?] । नक्तोषासा उक्तगुणविशिष्टे अहोरात्रे एते वा सुमत् स्वयमेव अस्माभिरप्रार्थिते इत्यर्थः । यद्वा सुमद् [?] विस्तृतं बर्हिः सीदतां स्वयमेवा सीदतां [?] ॥
+
+> *bhandamāne sarvaiḥ stūyamāne upāke parasparaṃ sannihite supeśasā śobhanarūpe [?] peśa iti rūpanāma | yahvī mahatkyau [?] atyantarūpe vā pratidinaṃ [?] jāyamānatvāt | yahvīti mahannāma [?] | ṛtasya mātarā yajñasya nirmātryau tābhyāmāgantunā [?] yajñasya sampūrteḥ yajñamātratvamupacaryate [?] | tathābhūtayoḥ yadvā ahorātrādīnāmahorātratvaṃ sādhayitṛtvāt [?] | naktoṣāsā uktaguṇaviśiṣṭe ahorātre ete vā sumat svayameva asmābhiraprārthite ityarthaḥ | yadvā sumad [?] vistṛtaṃ barhiḥ sīdatāṃ svayamevā sīdatāṃ [?] ‖*
+
+**Pratipadārtha (Kannada).** *bhandamāne* — those praised by all; *upāke* — those who are close to each other; *supeśasā* — of charming form; *yahvī* — of great form, or (since they are born daily) of the form of offspring [?]; *ṛtasya* — of the sacrifice; *mātarā* — the makers; *naktoṣāsā* — the deities Night and Dawn themselves; *sumat* — (even though we have not prayed) of their own accord; *barhiḥ* — on the *darbha* seat; *ā sīdatām* — come and sit facing; or *sumat* — on the *barhis* spread out widely, *ā sīdatām* — come and sit.
+
+**Bhāvārtha.** O deities of Night and Day, praised by all, close to each other, of charming form, of great form, makers of the sacrifice! Even though we have not prayed, be pleased, of your own accord, to sit on our *darbha* seats spread out widely.
+
+**English Translation (as printed).** Beautiful night and morning, ever hymned, ever associated, progeny (of time), parents of sacrifice, sit down of your own good-will on the sacred grass.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** (a) ***bhandamāne*** — सर्वैः स्तूयमाने (*sarvaiḥ stūyamāne*): "praised by all"; this is an epithet of the deities *naktoṣāsā*. In the Nirukta-list of names of the verbs of worship (Ni. 3-[?]) *arcati* and *gāyati* ("worships", "sings") are read, and *bhandanā* — from the root *bhand* — "worship". *Bhandanā*:
+
+---
+
+### Printed p. 254  (PDF 272)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+भन्दना भन्दतेः स्तुतिकर्मणः (*bhandanā bhandateḥ stutikarmaṇaḥ*) (Ni. 6-[?]): *bhandanā* is from the root *bhand*, meaning praise, says the Nirukta author, who cites these two Ṛks:
+
+> आ विवेश रोदसी भूरिवर्पसा पुरुप्रियो भन्दते धामभिः कविः ।
+
+> *ā viveśa rodasī bhūrivarpasā purupriyo bhandate dhāmabhiḥ kaviḥ |*
+
+(Ṛ. Saṃ. 3-5-4 [?].)
+
+> स भन्दना उदियर्ति प्रजावतीर्विश्वायुर्विश्वाः सुभरा अहर्दिवि ।
+
+> *sa bhandanā udiyarti prajāvatīrviśvāyurviśvāḥ subharā ahardivi |*
+
+(Ṛ. Saṃ. 4-61-7 [?].) By citing these two Ṛks he shows the propriety of the use of this word in the passages where excellent praise is made (Ni. 6-[?]).
+
+(b) ***sumat*** — स्वयमेव (*svayameva*) ("of their own accord"; Sāyaṇa: "even though not prayed by us"): this indicates the deities' self-motivation and respect. The Nirukta author explains *sumat* as "*svayam*", i.e. "of oneself" (Ni. 6-[?]). Besides this, the word is found in the sense *kalyāṇa* ("auspicious"), *śobhana* ("beautiful") or *bhadra* ("good"); to see it, look at the many words that are used with it — *sumadgaṇaḥ*, *sumadrathaḥ*, *sumadaṃśaḥ* etc.:
+
+> आमेनं सुदुघा आ हि गन्तेन नि बर्हिषि सदतना रणिष्टन ।
+> अथा मन्दस्व जुजुषाणो अन्धसस्त्वष्टर्देवेभिर्जनिभिः सुमद्गणः ॥
+
+> *āmenaṃ sudughā ā hi gantena ni barhiṣi sadatanā raṇiṣṭana |*
+> *athā mandasva jujuṣāṇo andhasastvaṣṭardevebhirjanibhiḥ sumadgaṇaḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In this Ṛk the word *sumadgaṇaḥ* is explained as "*śobhanagaṇaḥ*" ("of fine retinue"); and:
+
+> विभावा देवः सुरणः परि क्षितीरग्निर्बभूव शवसा सुमद्रथः ।
+> तस्य व्रतानि भूरिपोषिणो वयमुप भूषेम दम आ सुवृक्तिभिः ॥
+
+> *vibhāvā devaḥ suraṇaḥ pari kṣitīragnirbabhūva śavasā sumadrathaḥ |*
+> *tasya vratāni bhūripoṣiṇo vayamupa bhūṣema dama ā suvṛktibhiḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) in this the word *sumadrathaḥ* means "of a beautiful chariot". Here too *sumat* is a synonym of the words "auspicious" and "beautiful". Therefore here, too, this word, when applied to the deities Night and Dawn who are pleasing, bright and auspicious, is seen to be proper.
+
+(c) ***upāke*** — this word is read among the names of the "near" (*antika*) (Ni. 3-[?]): "close to each other"; the sense is "near one another".
+
+(d) ***supeśasā*** — पेश इति रूपनाम । पिंशतेर्विपिशितं भवति (*peśa iti rūpanāma | piṃśatervipiśitaṃ bhavati*) [?]: "*peśas* means 'form' (*rūpa*); it is related to the root *piś*, 'to be shaped'"; and, because the word *piś* gives the sense "adorned" and "made beautiful", the Nirukta author explains "*supeśasā*" in this very Ṛk (Ni. 4-[?]): "of extremely beautiful form".
+
+---
+
+### Printed p. 255  (PDF 273)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 3 [?], Varga 11.)*
+
+(e) ***yahvī*** — महात्मा अपत्यरूपे वा (*mahātmā apatyarūpe vā*) [?]: "of very great form, or of the form of offspring"; the word is among the names of the great (*mahat*) in the Nirukta (Ni. 3-[?]), and (also) *tuk*, *tokam* (offspring) are read in it (Ni. 3-[?]). These two kinds of nature are described in the Ṛks; for instance:
+
+> उप वो हविषे वन्द्येभिः शूषैः प्र यह्वी दिवश्चितयद्भिरर्कैः ।
+> उषासानक्ता विदुषीव विश्वमा हा वहतो मर्त्याय यज्ञम् ॥
+
+> *upa vo haviṣe vandyebhiḥ śūṣaiḥ pra yahvī divaścitayadbhirarkaiḥ |*
+> *uṣāsānaktā viduṣīva viśvamā hā vahato martyāya yajñam ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].)
+
+> उते योषणे [?] दिव्ये महीन उषासानक्ता सुमृघेव [?] धेनुः ।
+> बर्हिषदा पुरुहूते मघोनी आ यज्ञिये सुविताय श्रयेताम् ॥
+
+> *ute yoṣaṇe [?] divye mahīna uṣāsānaktā sumṛgheva [?] dhenuḥ |*
+> *barhiṣadā puruhūte maghonī ā yajñiye suvitāya śrayetām ‖*
+
+(Ṛ. Saṃ. 2-3-6 [?].) In such Ṛks the greater form of the deities Uṣāsānaktā is described. And:
+
+> द्वे विरूपे चरतः स्वर्थे अन्यान्या वत्समुप धापयेते ।
+> हरिरन्यस्यां भवति स्वधावाञ्छुक्रो अन्यस्यां ददृशे सुवर्चाः ॥
+
+> *dve virūpe carataḥ svarthe anyānyā vatsamupa dhāpayete |*
+> *hariranyasyāṃ bhavati svadhāvāñchukro anyasyāṃ dadṛśe suvarcāḥ ‖*
+
+(Ṛ. Saṃ. 1-95-1.)
+
+> पुनः पुनर्जायमाना पुराणी समानं वर्णमभिशुम्भमाना ।
+> श्वघ्नीव कृत्नुर्विज आमिनाना मर्तस्य देवी जरयन्त्यायुः ॥
+
+> *punaḥ punarjāyamānā purāṇī samānaṃ varṇamabhiśumbhamānā |*
+> *śvaghnīva kṛtnurvija āminānā martasya devī jarayantyāyuḥ ‖*
+
+(Ṛ. Saṃ. 1-92-10.) In such Ṛks, since night and dawn are born again and again, it is also described that they have the form of children. Therefore, for the word *yahvī* either of the two above meanings can be given.
+
+(f) ***naktoṣāsā*** — together with the other epithets of these deities, the epithet *ṛtasya mātarā* is very important.
+
+> द्रवतां त उषसा वाजयन्ती अग्ने वातस्य पथ्याभिरच्छ ।
+> यत्सीमञ्जन्ति [?] पूर्व्यं परिभ्रा [?] बन्धुरेव तस्थतुर्दुरोणे [?] ॥
+
+> *dravatāṃ ta uṣasā vājayantī agne vātasya pathyābhiraccha |*
+> *yatsīmañjanti [?] pūrvyaṃ paribhrā [?] bandhureva tasthaturduroṇe [?] ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?]; the Ṛk is partly legible.) In this Ṛk the permanent connection of these deities with the sacrifice is described. All the Ṛks that invite them (there are some twenty-five such Ṛks) pray that they should come with the other deities and sit on the *darbha* seat. Moreover, at the time of dawn and also at evening they have a very close relation with the kindled Agni. Hence it is that they are described figuratively as bearing Agni among themselves *(continues on p. 256)*.
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–255 done (introductory essay; Ṛks 1–6 complete; Ṛk 7 *ā bhandamāne* (Night and Dawn): Saṃhitā, Pada (p. 252), bhāṣya, Pratipadārtha, Bhāvārtha, English, and Special Topics through *naktoṣāsā*; p. 255 ends mid-sentence ("…bearing Agni among themselves"), continuing on p. 256). Next: printed p. 256 (PDF 274). Images at 120 dpi in /tmp/v11a (PDF 33–275; recrop 276 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
