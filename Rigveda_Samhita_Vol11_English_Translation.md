@@ -2772,4 +2772,126 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–105 done: header table; Ṛk 1 complete; Ṛk 2 through printed English, Special Topics (*dvijanmā*) begun). Next: printed p. 106 (PDF 124) — rest of the Ṛk 2 Special Topics (*trivṛt*, *jagdham*, *jihvayā*, *vāraṇaḥ* …) and grammar; then Ṛks 3–13. Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–2 largely unread); Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); Ni./Ṛg/Ai. Brā./Śa. Brā. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 106  (PDF 124)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*(Special Topics of Ṛk 2, continued from p. 105.)* …the description *jāna* [?] is explained. Because Agni exists in all three worlds in different forms, the nature of his origin is not of one kind — this is easy to see. For example, in the Śatapatha Brāhmaṇa:
+
+> ऋतसदिति सत्यसदित्येतद्यो ऽस्यो [?] सर्वेषु ह्येष व्योमसु सन्योजा गोजा इत्याभ्यां [?] … ह्येष गोजा ऋतजा इति सत्यजा इत्येतदद्रिजा इत्ये- [?] …
+
+> *ṛtasaditi satyasadityetadyo 'syo [?] sarveṣu hyeṣa vyomasu sanyojā gojā ityābhyāṃ [?] … hyeṣa gojā ṛtajā iti satyajā ityetadadrijā itye- [?] …*
+
+(Śa. Brā. 6-[?]-[?]-[?] [?].) In these sentences Agni is described as "born of water", "born of cows" (i.e. of milk), "born of truth (*ṛta*)" and "born of stone". And:
+
+> दिवस्परि प्रथमं जज्ञे अग्निरिति । प्राणो वै दिवः प्राणादु वा एष प्रथमं जायते द्वितीयं परि जातवेदा इति यदेनमुदाना [?] … इति द्वितीयं पुरुषे … तृतीयमप्सु … अजस्रमिति [?] ।
+
+> *divaspari prathamaṃ jajñe agniriti | prāṇo vai divaḥ prāṇādu vā eṣa prathamaṃ jāyate dvitīyaṃ pari jātavedā iti yadenamudānā [?] … iti dvitīyaṃ puruṣe … tṛtīyamapsu … ajasramiti [?] |*
+
+(Śa. Brā. 6-[?]-[?]-[?] [?].) These sentences tell that Agni was born first from the heavenly world, born a second time among men at sacrificial times, and a third time from water. Of his varied births, *dvijanmā* is here described as befits the context.
+
+***trivṛd annam.*** The three kinds of food: ghee, cake and Soma. This has been told in the first part of the Ṛgveda Saṃhitā, in the introduction. These are the foods offered in the *haviryajña*, the *pākayajña* and the Soma sacrifices.
+
+***saṃvatsare vāvṛdhe jagdham īṃ punaḥ.*** "He makes the food eaten in the sacrifice at hand grow again when a year has passed." The sacrifice causes rain, and rain increases the sacrificer's wealth, so after a year the Agniṣṭoma sacrifices are performed again in due order.
+
+> संवत्सरोऽग्निर्वैश्वानरोऽग्निष्टोमः [?] ।
+
+> *saṃvatsaro 'gnirvaiśvānaro 'gniṣṭomaḥ [?] |*
+
+(Brā. [?]-[?]) In such sentences the identity of Agni, Agniṣṭoma and the year is stated. The oblations made through the year are digested and come to be again lost, and so they grow [again]; this will be set out fully when the *Atirātra*, *Ukthya* and *Agniṣṭoma* are explained.
+
+***anyasyāsā jihvayā jenyaḥ.*** Two senses are given here: *anyasya āsā jihvayā* means first "by the tongue that tastes the oblation", and second "by the ladle, which is the tongue of the *hotṛ*". Both are causes of Agni's growth.
+
+### Printed p. 107  (PDF 125)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *dvijanmā* (*dve janmanī yasya saḥ*; the suffix *manin* by *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-[?]); as it is *nit*, first-syllable accent; nominative singular, *janī prādurbhāve*), *trivṛt* (root *vṛtu vartane*; *kvip*; *kṛdutarapada*, first-member accent), *yujyate* (root *yuja* "to go, stand, acquire" [?]; *laṭ* third person singular, *ta*; *ṭita ātmanepadānāṃ ṭer e* gives *e*; *vyatyayo bahulam*: *śyan* in place of the vikaraṇa; *ñitvāt* [?] the root's first syllable is doubled; *nighāta* as a *tiṅanta* follows), *vavṛdhe* (root *vṛdhu vṛddhau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *liṭ* in the sense of the present; third person singular *ta*; in the Veda *saṃhitāyām* the reduplicate is lengthened; *nighāta*), *jagdham* (root *ada bhakṣaṇe*; *niṣṭhā* (Pā. Sū. 3-2-[?]) *kta*; *ado jagdhir lyapi kiti* (Pā. Sū. 2-4-[?]) *jagdha*-substitution; *dhatva*; *lopa*; second-syllable accent of the suffix, final-syllable; accusative singular), *īm* (the *m* of *īm* is dropped in the Veda in *saṃhitā*), *āsā* (root *āsya*, *pad*-substitution as the instrumental follows; *pad dan nomāsa…* (Pā. Sū. 6-1-[?]) gives *āsan*-substitution; by *supāṃ sulak…* *ḍā*; as *ṭit*, *ā* [?]; by *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-[?]) the case-ending is *udātta*), *jenyaḥ* (root *ji jaye*; *kṛtyalyuṭo bahulam* (Vā. Sū. 3-3-[?]) *yat* in the agent sense; *āto yuk…*; *yato 'nāvaḥ* (Pā. Sū. 6-1-[?]) first-syllable accent), *vṛṣā* (root *vṛṣu secane*; *kanin yuvṛṣi…* (U. Sū. 1-[?]) *kanin*; *nit*, first-syllable accent), *mṛṣṭa* (root *mṛjūṣ śuddhau*; *chandasi luṅlaṅliṭaḥ* gives *laṅ*; *vyatyayo bahulam* gives *ātmanepada*; third person singular *ta*; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; *vṛśca…* *ṣatva*, *ṭatva*; as the suffix, the *ṣṭutva*; *nighāta* follows a *tiṅanta*). ‖ 2 ‖
+
+#### Ṛk 3
+
+### Printed p. 108  (PDF 126)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**॥ संहितापाठः ॥**
+
+> कृष्णप्रुतौ वेविजे अस्य सक्षिता उभा तरेते अभि मातरा शिशुम् ।
+> प्राचाजिह्वं ध्वसयन्तं तृषुच्युतमा साच्यं कुपयं वर्धनं पितुः ॥ ३ ॥
+
+> *kṛṣṇaprutau vevije asya sakṣitā ubhā tarete abhi mātarā śiśum |*
+> *prācājihvaṃ dhvasayantaṃ tṛṣucyutamā sācyaṃ kupayaṃ vardhanaṃ pituḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> कृष्णऽप्रुतौ । वेविजे इति । अस्य । सक्षिता । उभा । तरेते इति । अभि । मातरा । शिशुम् ।
+> प्राचाऽजिह्वम् । ध्वसयन्तम् । तृषुऽच्युतम् । आ । साच्यम् । कुपयम् । वर्धनम् । पितुः ॥ ३ ॥
+
+> *kṛṣṇa 'prutau | vevije iti | asya | sakṣitā | ubhā | tarete iti | abhi | mātarā | śiśum |*
+> *prācā 'jihvam | dhvasayantam | tṛṣu 'cyutam | ā | sācyam | kupayam | vardhanam | pituḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the two kindling-sticks, his mothers, blackened by the fire, tremble and bring forth the infant Agni, flame-tongued, dispelling darkness, swift to appear, to be guarded, increaser of the sacrificer.* Small type; doubtful words marked)
+
+> अस्याग्नेर्मातरा मातृस्थानीये उत्पादयित्र्यौ उभे अरणी [?] … वेविजे चलितः । ओविजी भयचलनयोः । अस्माद्यङ्लुगन्ताद्व्यत्ययेनात्मनेपदमेकवचनं च [?] । लोपश्च आत्मनेपदेष्विति तेर्लोपः । चादिलोपे विभाषेति निघातभावः ॥ मथनोत्कर्षणे [?] कृष्णप्रुतौ अग्निसंपर्कात्कृष्णवर्णतां प्राप्नुवत्यौ [?] … तथा सक्षिता समानकार्यमग्निसंस्थापनं गच्छन्त्यौ [?] … एवंभूते मातरौ शिशुं शिशुवदुत्पत्तिसमये [?] … तरेते । अभिमुख्येन प्राप्नुतः [?] । कीदृशं शिशुम् । प्राचाजिह्वं प्रागञ्चनशीलतेजोज्वलनस्थानं [?] ऊर्ध्वज्वलनशीलां जिह्वां यस्य … ध्वसयन्तं तमसो नाशयन्तं तृषुच्युतं तृषु क्षिप्रं च्युतं निर्गतं [?] … आ ईषत्साच्यं सम्भजनीयं मृदुकाष्ठचूर्णादिना कुपयं गोपनीयं पितुः पालकस्य यजमानस्य वर्धनं प्रवर्धयितारम् । उत्कृष्टप्रकार्य… लौकिकशिशुसाधारणैरुपेतं शिशुमग्निं मातरावुत्पादयत इत्यर्थः ॥
+
+> *asyāgnermātarā mātṛsthānīye utpādayitryau ubhe araṇī [?] … vevije calitaḥ | ovijī bhayacalanayoḥ | asmādyaṅlugantādvyatyayenātmanepadamekavacanaṃ ca [?] | lopaśca ātmanepadeṣviti terlopaḥ | cādilope vibhāṣeti nighātabhāvaḥ ‖ mathanotkarṣaṇe [?] kṛṣṇaprutau agnisaṃparkātkṛṣṇavarṇatāṃ prāpnuvatyau [?] … tathā sakṣitā samānakāryamagnisaṃsthāpanaṃ gacchantyau [?] … evaṃbhūte mātarau śiśuṃ śiśuvadutpattisamaye [?] … tarete | abhimukhyena prāpnutaḥ [?] | kīdṛśaṃ śiśum | prācājihvaṃ prāgañcanaśīlatejojvalanasthānaṃ [?] ūrdhvajvalanaśīlāṃ jihvāṃ yasya … dhvasayantaṃ tamaso nāśayantaṃ tṛṣucyutaṃ tṛṣu kṣipraṃ cyutaṃ nirgataṃ [?] … ā īṣatsācyaṃ sambhajanīyaṃ mṛdukāṣṭhacūrṇādinā kupayaṃ gopanīyaṃ pituḥ pālakasya yajamānasya vardhanaṃ pravardhayitāram | utkṛṣṭaprakārya… laukikaśiśusādhāraṇairupetaṃ śiśumagniṃ mātarāvutpādayata ityarthaḥ ‖*
+
+### Printed p. 109  (PDF 127)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Pratipadārtha (Kannada).** *asya* — of this Agni; *mātarā* — the two mothers (the causes of his birth); *ubhā* — both kindling-sticks; *vevije* — move; *kṛṣṇaprutau* — (turning black from contact with the fire), or those that make the ground black; *sakṣitā* — (for the setting up of Agni) joined together, these two mother-sticks; *prācājihvaṃ* — he whose flame stands like a tongue towards the east; *dhvasayantaṃ* — who destroys (darkness); *tṛṣucyutaṃ* — who shows himself outside at once (from the sticks); *ā sācyaṃ* — who grows with (wood-dust and the like); *kupayaṃ* — to be guarded; *pituḥ* — of the sacrificer, who is like a father; *vardhanaṃ* — the cause of the increase; *śiśuṃ* — the infant-form Agni; *abhi tarete* — they bring forth.
+
+**Bhāvārtha.** The two kindling-sticks, the cause of Agni's birth, move. Becoming black from contact with the fire and joined for setting up the fire, they bring forth the infant-formed Agni, whose flame in the east is like a tongue, who destroys darkness, who appears from the sticks as soon as they are churned, who grows with wood-dust and the like, who is to be guarded, and who is the cause of the prosperity of the sacrificer, who is like a father.
+
+**English Translation (as printed).** Both his associated mothers, blackened (by combustion), are in movement and give birth to an infant, whose tongue (of flame glows) in the east: (who) dissipates darkness; (who) rapidly issues forth; (who) is readily developed; (who) is (ever) to be cherished, and is the augmenter (of the prosperity) of his parent, (the institutor of the rite).
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***mātarau.*** The two kindling-sticks, the cause of Agni's origin, are well known as Agni's mothers.
+
+> अस्तीदमधिमन्थनमस्ति प्रजननं कृतम् ।
+
+> *astīdamadhimanthanamasti prajananaṃ kṛtam |*
+
+(Ṛ. Saṃ. 3-29-1 [?].)
+
+> अरण्योर्निहितो जातवेदा गर्भ इव सुधितो गर्भिणीषु ।
+
+> *araṇyornihito jātavedā garbha iva sudhito garbhiṇīṣu |*
+
+(Ṛ. Saṃ. 3-29-2 [?].) In these Ṛks, as the child within the womb of pregnant women, Agni lies hidden between the two kindling-sticks and is born at the time of churning. Therefore the two sticks are his mothers, and as *dvijanmā* so he has the epithet *dvimātā* (Ṛ. Saṃ. 1-[?]-[?]) for Agni.
+
+***tṛṣucyutam.*** *Tṛṣu iti kṣipranāma tarater vā tvarater vā* (Ni. 6-[?] [?]) — from the root *tṛ* ("to cross over, go on") or from the root *tvar* ("to move quickly") the word *tṛṣu* is formed, with the sense "with great speed". *Tṛṣucyutam* means: appearing swiftly at the very time of churning the kindling-sticks.
+
+### Printed p. 110  (PDF 128)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+***kupayam.*** For this word the scholar Monier Williams, in his Sanskrit-English Dictionary, citing this same Ṛk, first gives the sense "heaving, swelling with emotion" — rising, bulging upward — and then also indicates the sense of Sāyaṇa's *gopanīyam*, "that which is to be guarded".
+
+***pituḥ vardhanam.*** "The cause of the prosperity of the sacrificer who caused his birth in the sacrificial rite." It is described that even in the most ancient times the gods, men and others who made Agni blaze on the sacrificial ground prospered, and still prosper. In the Taittirīya Saṃhitā sentences:
+
+> स इत्यब्रवीद्यो मद्देवत्वमग्निमादधातै इति तं पूषादधत्त तेन पूषार्ध्नोत् पौष्णाः पशव उच्यन्ते तं त्वष्टादधत्त तेन त्वष्टार्ध्नोत् त्वाष्टाः पशव उच्यन्ते तं मनुरादधत्त तेन मनुरार्ध्नोन्मानव्यः प्रजा उच्यन्ते तं धातादधत्त तेन धातार्ध्नोत् [?] ।
+
+> *sa ityabravīdyo maddevatvamagnimādadhātai iti taṃ pūṣādadhatta tena pūṣārdhnot pauṣṇāḥ paśava ucyante taṃ tvaṣṭādadhatta tena tvaṣṭārdhnot tvāṣṭāḥ paśava ucyante taṃ manurādadhatta tena manurārdhnonmānavyaḥ prajā ucyante taṃ dhātādadhatta tena dhātārdhnot [?] |*
+
+(Tai. Saṃ. 2-[?]-[?]-[?] [?].) Agni gave the boon: "To those who set up Agni in my godhead, all kinds of prosperity will come." Then Pūṣan, Tvaṣṭṛ, Manu and Dhātṛ set up Agni, and they all prospered. *Pituḥ vardhanam* means Agni, the cause of the increase of the sacrificer who is the cause of his origin. This praise is
+
+> समिधा यस्त आहुतिं निशितिं मर्त्यो नशत् । वयावन्तं स पुष्यति क्षयमग्ने शतायुषम् ॥
+
+> *samidhā yasta āhutiṃ niśitiṃ martyo naśat | vayāvantaṃ sa puṣyati kṣayamagne śatāyuṣam ‖*
+
+(Ṛ. Saṃ. 6-2-[?] [?].) and such Ṛks tell the same matter.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *kṛṣṇaprutau* (root *pruja gatau*; *kṛṣṇaṃ kṛṣṇavarṇatāṃ prāpnutaḥ kṛṣṇaprutau*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-[?]) *tuk*; in the compound *kṛdutarapadaprakṛtisvara*; dual) …
+
+### Printed p. 111  (PDF 129)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 3, continued; noted briefly).** *vevije* (root *ovijī bhayacalanayoḥ*; when *yaj*… (Pā. Sū. 3-4-[?]) *luk*; *vyatyayo bahulam* gives the *ātmanepada* and the suffix; third person dual; *ṭe* → *e*; *lopaś ca ātmanepadeṣu* (Pā. Sū. 7-1-[?]); as *cādilope vibhāṣā* (Pā. Sū. 8-1-[?]) there is no *nighāta*, so the suffix's accent makes it final-accented), *sakṣitā* (*samānaṃ kṣiyantī sakṣitā*; root *kṣi nivāsagatyoḥ*; *kvip*; *tuk* as above; the substitution of *sa* for *samāna* [?]; *kṛdutarapadaprakṛtisvara*), *ubhā*, *mātarā* (the dual *au* → *ā* by *supāṃ sulak…*), *tarete* (root *tṛ plavanataraṇayoḥ*; *laṭ* third person dual; *nighāta* follows a *tiṅanta*), *prācājihvam* (*prācī jihvā yasya saḥ*; Vedic *ā* in the first member; *bahuvrīhau prakṛtyā pūrvapadam*, first-member accent), *dhvasayantam* (root *dhvaṃsu avasraṃsane*; *hetumati ca* (Pā. Sū. 3-1-[?]) *ṇic*; *chandasy ubhayathā* (Pā. Sū. 3-4-[?]) the *ārdhadhātuka*-character; loss of the *n*; *śatṛ* in the sense of the present after the *ṇic*-ending; *śap*; *guṇa*; *ay*; accusative singular), *tṛṣucyutam* (*tṛṣu jyoti* [?]; *cyutir kṣaraṇe*; *kvip ca*; *kṛdutarapada* first-member accent), *sācyam* (root *saca samavāye*; *dhātvādeḥ ṣaḥ saḥ*; *ṛhaloṇ nyat* (Pā. Sū. 3-1-[?]) *ṇyat*; *ata upadhāyāḥ* (Pā. Sū. 7-2-[?]) *vṛddhi*), *vardhanam* (root *vṛdhu vṛddhau*, with the causal sense; in the agent sense *lyuṭ*; *yuvor anākau* (Pā. Sū. 7-1-[?]) *ana*); the page ends here.
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–111 done: Ṛks 1–2 complete; Ṛk 3 through Special Topics and most of its grammar, to the foot of p. 111). Next: printed p. 112 (PDF 130) — end of Ṛk 3 grammar, then Ṛk 4 onward (Ṛks 4–13 remain). Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–3 largely unread); Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); the Śa. Brā. quotations on p. 106 and the Taittirīya quotation on p. 110 are garbled in places; Ni./Ṛg/Ai. Brā./Śa. Brā./Tai. Saṃ. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
