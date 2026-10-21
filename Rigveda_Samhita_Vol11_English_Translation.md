@@ -3044,4 +3044,160 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–117 done: Ṛks 1–4 complete; Ṛk 5 through printed English and the start of its Special Topics, *vṛthā*). Next: printed p. 118 (PDF 136) — Special Topics of Ṛk 5 continued, grammar; then Ṛks 6–13. Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–5 largely unread); Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); the Śatapatha Brāhmaṇa quotation on pp. 113–114 and the grammar of Ṛk 4 (pp. 115–116) doubtful in places; Ni./Ṛg/Ai. Brā./Śa. Brā. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 118  (PDF 136)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+***kṛṣṇam abhvam.*** *Abhva* is read among the names of water (Ni. 3-[?]) and of the great (Ni. 3-[?]). But since neither of these senses is possible here, Sāyaṇa has taken the word according to context. If one first knows what senses he gives the word elsewhere, the right sense in the Ṛk at hand can be fixed.
+
+> नेमा आपो अनिमिषं चरन्तीर्न ये वातस्य प्रमिनन्त्यभ्वम् [?] ।
+
+> *nemā āpo animiṣaṃ carantīrna ye vātasya praminantyabhvam [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) This Ṛk praises Varuṇa. Here Sāyaṇa explains *vātasya ye gativiśeṣāḥ te varuṇīyam abhvaṃ vegaṃ na hiṃsanti*: the speeds of the wind itself cannot check Varuṇa's speed; he takes *abhva* as "speed".
+
+> युष्मेषितो मरुतो मर्त्येषित आ यो नो अभ्व ईषते [?] ।
+
+> *yuṣmeṣito maruto martyeṣita ā yo no abhva īṣate [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) Here the Maruts are praised. Sāyaṇa says that *abhva* means "enemy": *yaḥ kaścid abhvaḥ śatruḥ naḥ prāpnoti taṃ śavasā ni yuyota*. In Ṛ. Saṃ. 1-[?]-[?], *abhvam* is explained as "cloud"; in 1-[?]-[?] as "water"; and in 3-[?]-[?] as "great".
+
+> अर्हन्बिभर्षि सायकानि धन्वार्हन्निष्कं यजतं विश्वरूपम् ।
+> अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र त्वदस्ति ॥
+
+> *arhanbibharṣi sāyakāni dhanvārhanniṣkaṃ yajataṃ viśvarūpam |*
+> *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ‖*
+
+(Ṛ. Saṃ. 2-33-10 [?].) In this Ṛk *viśvam abhvam* — since it is read among the names of the great, *mahan nāmasu* — means "this extremely vast world"; the word is also used when showing the greatness of [mighty beings].
+
+> भूरिं द्वे अचरन्ती चरन्तं पद्वन्तं गर्भमपदी दधाते ।
+> नित्यं न सूनुं पित्रोरुपस्थे द्यावा रक्षतं पृथिवी नो अभ्वात् ॥
+
+> *bhūriṃ dve acarantī carantaṃ padvantaṃ garbhamapadī dadhāte |*
+> *nityaṃ na sūnuṃ pitrorupasthe dyāvā rakṣataṃ pṛthivī no abhvāt ‖*
+
+(Ṛ. Saṃ. 1-185-3 [?].) Here Heaven and Earth are prayed: *naḥ asmān abhvāt mahato bhayahetoḥ pāpāt rakṣatam pālayatam*: "protect us from the great, fear-causing sin". In the same way in the twelfth Ṛk of this very sūkta the word *abhvāt* is used in the sense of great fear. So the various senses so arrived at … [as to] what the root sense of *abhva* is, from which these derived senses are possible (continued on p. 119).
+
+### Printed p. 119  (PDF 137)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+…one learns the root sense by noting the word *abhva* used in the Śatapatha Brāhmaṇa:
+
+> अथ ब्रह्मैव परमेष्ठी भवति । तत्परार्धं गच्छेदिति । कथं स्विमान्लोकान्स्त्रैवेयो [?] मिति तद्ध वै मेव प्रत्यक्षेणैव नाम्ना चैव [?] स यस्य कस्य च नामास्ति तन्नाम यस्यो हि नाम नास्ति यद्वेद रूपेदग्ं रूपमिति तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च । ते हैते ब्रह्मणो महती अभ्वे । स यो हैते ब्रह्मणो महती अभ्वे वेद महद्धैवाभ्वं भवति [?] ।
+
+> *atha brahmaiva parameṣṭhī bhavati | tatparārdhaṃ gacchediti | kathaṃ svimānlokānstraiveyo [?] miti taddha vai meva pratyakṣeṇaiva nāmnā caiva [?] sa yasya kasya ca nāmāsti tannāma yasyo hi nāma nāsti yadveda rūpedagṃ rūpamiti tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca | te haite brahmaṇo mahatī abhve | sa yo haite brahmaṇo mahatī abhve veda mahaddhaivābhvaṃ bhavati [?] |*
+
+(Śa. Brā. 11-[?]-[?]-[?] [?].) In these sentences name and form are called the two great *abhva*s of Brahman [here it is shown that *abhva* and *yakṣa* have one sense]. The *abhva* of Brahman is of two kinds, concrete (*mūrta*) and abstract (*amūrta*): that is, Brahman's great powers are of two kinds, concrete power and abstract power, and they pervade the universe. From this root sense these meanings come about. In this way the pervading sense, as a wide sense.
+
+> उदू अयाँ उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका । दिवो रोहांस्यरुहत्पृथिव्या अरीरमत्पतयत्कच्चिदभ्वम् [?] ।
+
+> *udū ayā~ upavakteva bāhū hiraṇyayā savitā supratīkā | divo rohāṃsyaruhatpṛthivyā arīramatpatayatkaccidabhvam [?] |*
+
+(Ṛ. Saṃ. 6-71-[?] [?].) The sense is contained in the word *abhva* in this Ṛk. Explaining it, Sāyaṇa says *abhvam mahat sarvaṃ vastujātam*, giving its wide sense. In some places the pervading power of being, and in other places the concrete power, is indicated. The word is used in the Ṛksaṃhitā in both senses. For example:
+
+> प्र यो वसुभ्य आ इदा नमो दुर्यो मित्रे वरुणे सूक्तवाचः । अव्येभ्यः कृणुता वरीयो दिवस्पृथिव्योरवसा मदेम [?] ।
+
+> *pra yo vasubhya ā idā namo duryo mitre varuṇe sūktavācaḥ | avyebhyaḥ kṛṇutā varīyo divaspṛthivyoravasā madema [?] |*
+
+(Ṛ. Saṃ. 3-[?]-[?] [?].) Here *abhvam mahad dhanaṃ tejo vā* — great radiance, power; and
+
+> द्यावो न यस्य सनयन्त्यभ्वं भासांसि वस्ते सूर्यो न शुक्रः । वि य इणोत्यजरः पावकोऽश्नस्य चिच्छिश्नथत्पृथ्वाजानन् [?] ।
+
+> *dyāvo na yasya sanayantyabhvaṃ bhāsāṃsi vaste sūryo na śukraḥ | vi ya iṇotyajaraḥ pāvako 'śnasya cicchiśnathatpṛthvājānan [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].) Here *abhvam mahat karma* means great power of action. Both are powers of being.
+
+### Printed p. 120  (PDF 138)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+> ता इन्म [?] समना समानीरमीतवर्णा उषसश्चरन्ति । गूहन्तीरभ्वमसितं रुशद्भिः शुक्राः तनूभिः शुचयो रुचानाः [?] ।
+
+> *tā inma [?] samanā samānīramītavarṇā uṣasaścaranti | gūhantīrabhvamasitaṃ ruśadbhiḥ śukrāḥ tanūbhiḥ śucayo rucānāḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) In this Ṛk *ati mahat kṛṣṇaṃ rūpam* — "great black darkness" — is the sense. Just as the word *abhva* is used when the power of beings that is deformed and harmful is indicated, so it is used in the Ṛk at hand. In this Ṛk *kṛṣṇam abhvam* is explained as "the path of pitch darkness spread all around"; that is, extremely great black darkness.
+
+***varpaḥ.*** *Rūpaṃ prakāśam* — "radiant form".
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *īrate* (root *īra gatau kampane ca*; *laṭ* third person plural, *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-[?]) *at*-substitution; *luk* of *śap*; as a *tiṅanta* is followed, *nighāta*), *mahi* (root *maha pūjāyām*; *sarvadhātubhya in* gives *in*; by *nittva*, *ñnityādir nityam* (Pā. Sū. 6-1-[?]) first-syllable accent), *mahīm* (for *mahīm*, Vedic loss of the *ṭi*; though it is *jīp*, by *pittvāt* … *śatrunumo nadyajādī* (Pā. Sū. 6-1-[?]), and by the statement *bṛhanmahoruṣasaṃkhyānam*, the *udātta*; *ekādeśa udātto…* (Pā. Sū. 8-2-[?])), *mamṛśat* (root *mṛśa āmarśane*; *tudādi*; with *yaṅ-luk*; *dhātor ekāco…* (Pā. Sū. 6-1-[?]); *yajaloci* (Pā. Sū. 7-4-[?]) …; *guṇo yaṅluk…* (Pā. Sū. 7-4-[?]) the reduplicate; *ādir abhyastānām* (Pā. Sū. 6-1-[?]) first-syllable accent), *abhiśvasan* (root *śvasa prāṇane*; *śatṛ* in the sense of the present; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; first-syllable accent of the suffix; as a prefix compound, *kṛdutarapadaprakṛtisvara*; nominative singular), *stanayan* (root *stana devaśabde*, *curādi*; *satyāpapāśarūpa…* (Pā. Sū. 3-1-[?]) *ṇic*; after the *ṇic*-ending, *śatṛ* in the sense of the present; *śap*; the *a* of the root is dropped as the root has *ṇic*; hence no *upadhāvṛddhi*; *guṇa*, *ay*; as it is not *ārdhadhātuka*, *nighāta*), …
+
+### Printed p. 121  (PDF 139)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 5, concluded; noted briefly).** *eti* (root *iṇ gatau*, *adādi*; *laṭ* third person singular; as *yad* is connected, *nighāta* is barred by *nipātair yadyadi…* (Pā. Sū. 8-1-[?]), so the root's accent remains), *nānadat* (root *ṇada avyakte śabde*; *noṇaḥ* (Pā. Sū. 6-1-[?]) *na* for the initial; with *yaṅ-luk*, *laṭ* in the sense of the present, *śatṛ*; *ābhyastānām ādiḥ* (Pā. Sū. 6-1-[?]) first-syllable accent). ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> भूषन्न योऽधि बभ्रूषु नम्नते वृषेव पत्नीरभ्येति रोरुवत् ।
+> ओजायमानस्तन्वश्च शुम्भते भीमो न शृङ्गा दविधाव दुर्गृभिः ॥ ६ ॥
+
+> *bhūṣanna yo 'dhi babhrūṣu namnate vṛṣeva patnīrabhyeti roruvat |*
+> *ojāyamānastanvaśca śumbhate bhīmo na śṛṅgā davidhāva durgṛbhiḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> भूषन् । न । यः । अधि । बभ्रुषु । नम्नते । वृषाऽइव । पत्नीः । अभि । एति । रोरुवत् ।
+> ओजायमानः । तन्वः । च । शुम्भते । भीमः । न । शृङ्गा । दविधाव । दुःऽगृभिः ॥ ६ ॥
+
+> *bhūṣan | na | yaḥ | adhi | babhruṣu | namnate | vṛṣā 'iva | patnīḥ | abhi | eti | roruvat |*
+> *ojāyamānaḥ | tanvaḥ | ca | śumbhate | bhīmaḥ | na | śṛṅgā | davidhāva | duḥ 'gṛbhiḥ ‖ 6 ‖*
+
+*(Gist, mine: Agni enters the brown bushes as if adorning them, bellows like a bull among cows, swells his power and puts forth his limbs; like a fearful beast he tosses his horn-like flames.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni enters the brown plants as if adorning them; roaring like a bull among his mates, he gathers strength and spreads his flames, which none can seize.* Small type; doubtful words marked)
+
+> योऽग्निर्बभ्रुषु बभ्रुवर्णास्वोषधीषु [?] भरणकुशलासु [?] ना जगतां मध्यमधिकं नम्नते नमति काष्ठानि प्रविशति । नमतेर्लेट्यडागमः । व्यत्ययेन शा । यद्वा । लटि छान्दसः शपः श्लुः । व्यत्ययेन हलादिशेषाभावः ॥ भूषन् भूतान्येव स्वतेजसा भूषयन्निव । किञ्चायं प्रविशन् वृषेव सेक्ता वृषभ इव पत्नीः स्वपत्नीरेव पालयन्तीः [?] समन्तादुपयुक्तां प्रीणयन्ती [?] ओषधीः रोरुवत् । रौतेर्यङ्लुगन्ताच्छतरि यङ्लुकि [?] … अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥ आत्मार्थं शब्दयन्नेति [?] अभितो गच्छति । प्रथमोषधीः प्रविश्य पश्चाद्बुद्ध्वा संस्था एव वहतीत्यर्थः । किञ्चैवं कृत्वा ओजायमानः । ओज इति बलनाम । स्वयं बलमिवाचरन् । क्यङः क्यङ् सलोपश्चेति [?] । भूवादिभिर्विना केवलमग्निस्तेजोरूप एव संस्तन्वः स्वशरीरभूता ज्वाला … शुम्भते [?]
+
+> *yo 'gnirbabhruṣu babhruvarṇāsvoṣadhīṣu [?] bharaṇakuśalāsu [?] nā jagatāṃ madhyamadhikaṃ namnate namati kāṣṭhāni praviśati | namaterleṭyaḍāgamaḥ | vyatyayena śā | yadvā | laṭi chāndasaḥ śapaḥ śluḥ | vyatyayena halādiśeṣābhāvaḥ ‖ bhūṣan bhūtānyeva svatejasā bhūṣayanniva | kiñcāyaṃ praviśan vṛṣeva sektā vṛṣabha iva patnīḥ svapatnīreva pālayantīḥ [?] samantādupayuktāṃ prīṇayantī [?] oṣadhīḥ roruvat | rauteryaṅlugantācchatari yaṅluki [?] … abhyastānāmādirityādyudāttatvam ‖ ātmārthaṃ śabdayanneti [?] abhito gacchati | prathamoṣadhīḥ praviśya paścādbuddhvā saṃsthā eva vahatītyarthaḥ | kiñcaivaṃ kṛtvā ojāyamānaḥ | oja iti balanāma | svayaṃ balamivācaran | kyaṅaḥ kyaṅ salopaśceti [?] | bhūvādibhirvinā kevalamagnistejorūpa eva saṃstanvaḥ svaśarīrabhūtā jvālā … śumbhate [?]*
+
+### Printed p. 122  (PDF 140)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*(Bhāṣya of Ṛk 6, concluded from p. 121; small type.)*
+
+> अपि दीपयति । पोषयतीत्यर्थः ॥ किञ्च प्रवृद्धो ज्वालो [?] मृगैः केनचिदपि गृहीतुमशक्यः [?] सन् भीमो न भयंकरो मृगः यथा दुर्गृभ्यः … शृङ्गे [?] तद्वदयमपि शृङ्गाण्युन्नतानि ज्वालाः [?] दविधाव [?] … [… the remainder of the line (the explanation of *davidhāva*) is not legible at this resolution …]
+
+> *api dīpayati | poṣayatītyarthaḥ ‖ kiñca pravṛddho jvālo [?] mṛgaiḥ kenacidapi gṛhītumaśakyaḥ [?] san bhīmo na bhayaṃkaro mṛgaḥ yathā durgṛbhyaḥ … śṛṅge [?] tadvadayamapi śṛṅgāṇyunnatāni jvālāḥ [?] davidhāva [?] … [… the remainder of the line (the explanation of *davidhāva*) is not legible at this resolution …]*
+
+**Pratipadārtha (Kannada).** *yaḥ* — which (that) Agni; *babhruṣu* — in the brown bushes; *bhūṣan na* — as if adorning (them with his flames); *adhi namnate* — enters exceedingly; *vṛṣā iva* — as a bull among cows, with a bellow; *patnīḥ* …; *roruvat* — roaring; *abhyeti* — rushes with force; *ojāyamānaḥ* — increasing his power (by the burning of the bushes); *tanvaś ca* — his bodies too, in the form of flame (that has no smoke); *śumbhate* — he enlarges and spreads; (and) *bhīmo na* — like a fearful beast that cannot be checked by anyone; *durgṛbhiḥ* — beyond check; *śṛṅgā* — his flames that are like horns; *davidhāva* — tosses (terribly).
+
+**Bhāvārtha.** Agni enters the clumps of brown bushes as if adorning them with his flames. And, bellowing among them like a bull among cows, he rushes forward with force. Increasing his power by the burning of the bushes, he enlarges his flame-formed bodies, free of smoke, and spreads. And, like a fearful beast which none can check, tossing its terrible horns, this Agni too spreads his horn-like flames and burns so that none can check him.
+
+**English Translation (as printed).** He gets down among the bushes as if embellishing them (with his lustre), and rushes roaring like a bull amongst (a herd of) cows: thence increasing in intensity, he enhances (the fierceness) of his form, and is difficult to be arrested as a formidable (animal), when he brandishes his horns.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+In this Ṛk the spread of the flames of Agni, charming and terrible, of irresistible power, is described. First, as he attacks the brown bushes, the attractive radiance of Agni is like an ornament to the bushes.
+
+### Printed p. 123  (PDF 141)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+…Then, when his own power is increased by burning the bushes, he takes a fearful shape and shows his terrible form. In the same way the description of Agni's various forms is a praise of Agni's greatness in the mantras that are to be recited with the *puronuvākyā* at the *kāmyeṣṭi* times; in the Taittirīya Saṃhitā the mantras of the *Kāmyeṣṭi-kāṇḍa* are cited [?]:
+
+> अक्रन्दद्ग्निः स्तनयन्निव द्यौः क्षामा रेरिहद्वीरुधः समञ्जन् ।
+> सद्यो जज्ञानो वि हीमिद्धो अख्यदा रोदसी भानुना भात्यन्तः ॥
+
+> *akrandadgniḥ stanayanniva dyauḥ kṣāmā rerihadvīrudhaḥ samañjan |*
+> *sadyo jajñāno vi hīmiddho akhyadā rodasī bhānunā bhātyantaḥ ‖*
+
+(Ṛ. Saṃ. 10-45-[?] [?]; Tai. Saṃ. 1-[?]-[?]-[?] [?].) In these Saṃhitā sentences too the description of the mantra that praises this forest-fire; and the Brāhmaṇa sentences that explain it:
+
+> अक्रन्दद्ग्निः स्तनयन्निव द्यौरिति । क्रन्दतीव हि पर्जन्यः स्तनयन् क्षामा रेरिहद्वीरुधः समञ्जन्निति क्षामा वै पर्जन्यो रेरिह्यमाणो वीरुधः समनक्ति सद्योजज्ञानो वि हीमिद्धो अख्यदिति सद्यो वा एष जज्ञान इदं सर्वं विख्यापयेत्या रोदसी भानुना भात्यन्तरितीमे वै द्यावापृथिवी रोदसी ते एष भानुना भाति [?] ।
+
+> *akrandadgniḥ stanayanniva dyauriti | krandatīva hi parjanyaḥ stanayan kṣāmā rerihadvīrudhaḥ samañjanniti kṣāmā vai parjanyo rerihyamāṇo vīrudhaḥ samanakti sadyojajñāno vi hīmiddho akhyaditi sadyo vā eṣa jajñāna idaṃ sarvaṃ vikhyāpayetyā rodasī bhānunā bhātyantaritīme vai dyāvāpṛthivī rodasī te eṣa bhānunā bhāti [?] |*
+
+(Śa. Brā. 6-[?]-[?]-[?] [?].) — in these too the description of the nature of the forest fire is given in detail.
+
+***babhrūṣu.*** *Babhru* means brown; "in the bushes of this colour".
+
+***vṛṣā.*** The word *vṛṣan*, as an epithet of Indra and other deities, in the sense "those who shower desired things in abundance", has been told earlier with examples. In the Ṛk at hand there is no room for that sense; here only the sense that shows virile power is possible. This sense too is derived. Following this, it becomes necessary to examine what the root sense of the word is, how the sense "virile power" arises, and what is the special character of this use. The word *vṛṣā* is formed either from the root *vṛṣa*, giving the sense "to shower, to sprinkle" (the two roots being *vṛṣu secane* and *vṛṣu śaktibandhane*), or from the second root, giving "power, capacity". What we must examine in the present case are only the uses with the sense of a male capable of sprinkling. Ordinarily the word is used as a synonym of "male" (masculine), or of any other possessor of power; and in many places it is used as a masculine synonym alone. For example — (continues on p. 124).
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–123 done: Ṛks 1–5 complete; Ṛk 6 through printed English and Special Topics, *vṛṣā* begun). Next: printed p. 124 (PDF 142) — Special Topics of Ṛk 6 continued (*vṛṣā* examples), grammar; then Ṛks 7–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–6 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); Ni./Ṛg/Śa. Brā./Tai. Saṃ. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
