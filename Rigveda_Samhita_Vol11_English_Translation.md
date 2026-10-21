@@ -5923,4 +5923,196 @@ On whether this deity is Agni alone, there is from ancient times a disagreement;
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–237 done (introductory essay; Ṛk 1 pp. 229–232; Ṛk 2 pp. 233–235; Ṛk 3 begun p. 236, Special Topics on *narāśaṃsa* continuing on p. 237, which ends mid-way into Yāska's other view, to be continued on p. 238). Next: printed p. 238 (PDF 256). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237 and the table on p. 228 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 238  (PDF 256)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Continuation of the Special Topics of Ṛk 3 on *narāśaṃsa*; the Bṛhaddevatā verses begin the page.)*
+
+> नराशंसमिहैके तु अग्निमाहुर्भेतरे [?] ।
+> नरैः शंसन्ति सर्वेऽस्मिन्नासीना इति नाध्वरे [?] ।
+> एतमेवाहुरग्निं नराशंसोऽध्वरे ह्ययम् ।
+> नरैः प्रशस्य आसीनैः [?] … नरः ॥
+
+> *narāśaṃsamihaike tu agnimāhurbhetare [?] |*
+> *naraiḥ śaṃsanti sarve 'sminnāsīnā iti nādhvare [?] |*
+> *etamevāhuragniṃ narāśaṃso 'dhvare hyayam |*
+> *naraiḥ praśasya āsīnaiḥ [?] … naraḥ ‖*
+
+(Bṛ. De. 3-3 to 3-6 [?]; partly legible.) Some say that Narāśaṃsa is Agni; since men gather in the sacrifice and praise, others say it is the sacrifice itself. A third group says that, since Agni is praised by the men gathered in the sacrifice, Narāśaṃsa is Agni himself; this is the opinion of still others. The third is a reconciliation of the first and second opinions. Along with these two meanings Sāyaṇa has also given a third, in explaining Ṛ. Saṃ. 10-[?]-[?] in his bhāṣya:
+
+> नराशंस इत्येतन्नामकं देवविशेषं यद्वा अनयार्थवृत्त्या सदसस्पतिदेवताप्रकारोऽयं शब्दः । अत्र अग्निवत् सदसस्पतेरपि नर्यैः शस्यमानत्वात् नराशंसस्त्वम् [?] । एतमेवाभिष्टुवन्तो [?] हृदि निधाय ब्राह्मणमेवामान्नायते — प्रजा वै नरो वाक् शंसः । (ऐ. ब्रा. २-[?]) इति ।
+
+> *narāśaṃsa ityetannāmakaṃ devaviśeṣaṃ yadvā anayārthavṛttyā sadasaspatidevatāprakāro 'yaṃ śabdaḥ | atra agnivat sadasaspaterapi naryaiḥ śasyamānatvāt narāśaṃsastvam [?] | etamevābhiṣṭuvanto [?] hṛdi nidhāya brāhmaṇamevāmānnāyate — prajā vai naro vāk śaṃsaḥ | (ai. brā. 2-[?]) iti |*
+
+The word *narāśaṃsa* can then mean either a deity of this name, or the deity Sadasaspati; and the idea that it means the latter is signalled by the Aitareya Brāhmaṇa passage quoted. Yet in the Ṛks in this context the sense seems to be Agni throughout, and none can say otherwise.
+
+> नराशंसः प्रति धामान्यञ्जन् तिस्रो दिवः प्रति मह्ना स्वर्चिः ।
+> घृतप्रुषा मनसा हव्यमुन्दन् मूर्धन्यज्ञस्य समनक्तु देवान् ॥
+
+> *narāśaṃsaḥ prati dhāmānyañjan tisro divaḥ prati mahnā svarciḥ |*
+> *ghṛtapruṣā manasā havyamundan mūrdhanyajñasya samanaktu devān ‖*
+
+(Ṛ. Saṃ. 2-3-2 [?].) In this and such Ṛks too, the sense is Agni.
+
+In the ten Āprī-sūktas the deity Narāśaṃsa is addressed six times and the deity Tanūnapāt six times [?]. In the first Maṇḍala, in the two sūktas, they are both addressed together. How these two deities have been treated, the contradiction found in them, how it has been explained and how scholars have discussed this matter, is the topic of the discussion that follows.
+
+Regarding the *prayāja* principle the main point to be noted is that there is no necessity to invoke these two deities together, since …
+
+---
+
+### Printed p. 239  (PDF 257)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+… these two deities are portions of Agni, and the first fruit of Agni is called *āprī*; therefore it is not proper to address them. Haug (Aitareya Brāhmaṇa translator) says that these are two distinct deities; but that opinion is not sound. Here the following should be noted: in the Āprī-sūktas where it occurs, the word *tanūnapāt*, as vocative, is an epithet of Agni; likewise, among the epithets of Narāśaṃsa, *kavi*, *sujihva*, *śuci*, *deva*, *devatama* and others belong to Agni too; the sense is that Narāśaṃsa is known to the priests as dear, terrestrial Agni in form, and *tanūnapāt* as the one who has, from the other heavenly form, been invited here; (it is held that) in person, he is the one who, on the prayer of the sacrificers, has accepted the oblation and delivers it to the gods. This opinion of some scholars is valid, and in its explanation truth is mixed with fancy. *(This paragraph is read at low confidence; the Kannada print is small and dense.)*
+
+By their sweet tongue they make the sacrifice rich in honey; both these deities have the nature of the performer. *Prathidhāmāni añjan* (Ṛ. Saṃ. [?]); by such epithets Narāśaṃsa shows the sacrifice to the men:
+
+> तनूनपात्पथ ऋतस्य यानान्मध्वा समञ्जन् स्वदया सुजिह्व ।
+> मन्मानि धीभिरुत यज्ञमृन्धन् देवत्रा च कृणुह्यध्वरं नः ॥
+
+> *tanūnapātpatha ṛtasya yānānmadhvā samañjan svadayā sujihva |*
+> *manmāni dhībhiruta yajñamṛndhan devatrā ca kṛṇuhyadhvaraṃ naḥ ‖*
+
+(Ṛ. Saṃ. 10-110-2.) As described in such Ṛks, Tanūnapāt makes the paths of the sacrifice sweet and pleasant; thus his nature is told. These descriptions are given thus in the Praiṣa-sūkta:
+
+> होता यक्षत्तनूनपातमदितेर्गर्भं भुवनस्य गोपाम् । मध्वाद्य देवो देवेभ्यो देवयानान् [?] पथोऽनक्तु [?] … होतर्यज [?] ।
+
+> *hotā yakṣattanūnapātamaditergarbhaṃ bhuvanasya gopām | madhvādya devo devebhyo devayānān [?] patho 'naktu [?] … hotaryaja [?] |*
+
+(Tai. Brā. 2-[?]-[?]-[?].)
+
+> होता यक्षन्नराशंसं नृशंसं [?] स्वर्गं [?] प्रयेतारम् । गोभिर्वसावान्नः [?] … शक्रीवान् [?] प्रथमयावा हिरण्यैः … होतर्यज [?] ।
+
+> *hotā yakṣannarāśaṃsaṃ nṛśaṃsaṃ [?] svargaṃ [?] prayetāram | gobhirvasāvānnaḥ [?] … śakrīvān [?] prathamayāvā hiraṇyaiḥ … hotaryaja [?] |*
+
+(Tai. Brā. 3-[?]-[?]-[?]; the quotations are only partly legible and are given with doubt.) By these sentences Tanūnapāt is called "the son of Aditi" and the lighter of the gods' path; Narāśaṃsa is called "the first to go" (*prathamayāvan*) (Ṛ. Saṃ. 10-[?]-[?]) — as the representative of the deities, the first to go for men; it is described that he is the guide of men. In the Aitareya Brāhmaṇa:
+
+---
+
+### Printed p. 240  (PDF 258)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+> तनूनपातं यजति प्राणो वै तनूनपात्स हि तन्वः पाति प्राणमेव तत्प्रीणाति प्राणं यजमाने दधाति ।
+
+> *tanūnapātaṃ yajati prāṇo vai tanūnapātsa hi tanvaḥ pāti prāṇameva tatprīṇāti prāṇaṃ yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) By this sentence the identity of Tanūnapāt and Prāṇa is told; and:
+
+> नराशंसं यजति प्रजा वै नरो वाक्शंसः प्रजां चैव तद्वाचं च प्रीणाति प्रजां च वाचं च यजमाने दधाति ।
+
+> *narāśaṃsaṃ yajati prajā vai naro vākśaṃsaḥ prajāṃ caiva tadvācaṃ ca prīṇāti prajāṃ ca vācaṃ ca yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) By this sentence the identity of Narāśaṃsa and Prajā is told. Considering the variety of these opinions, Haug, the scholar, says:
+
+"It clearly follows from this distinction between the invocation of these two deities—both representing a particular kind of Agni that certain gotras regarded Tanunapet [sic] as their tutelary deity or rather as one of their deified ancestors." (English, as printed.)
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *pāvakaḥ* (*pāvayati iti pāvakaḥ*; suffix *ṇvul* in the agent sense; *aco ñṇiti* gives *vṛddhi*; *yuvor anākau* (Pā. Sū. 7-1-1): *aka* replaces *vu*; *uṅ-*… the final syllable is accented), *madhvā* (*madhu* is *ādyudātta*; instrumental singular, where *āṅ* has no *vibhakti*… the *nā* is replaced by [?]; *chandasi vā vacanam* [?]), *mimikṣati* (root *miha secane*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. Sū. 3-1-7): *san*; *sanyaṅoḥ* (Pā. Sū. 6-1-9): reduplication; *hoḍhaḥ* [?]; *ḍhatvādi*: *ḍha* becomes *ṭha*… *kasya*; *sa* becomes *ṣa*; *tiṅ* after *ati*… *nighāta*), *narāśaṃsam* (*nara* + *śaṃsa*; *aṇ* [?]; *śaṃsa* (*śaṃs* + *ghañ*); *ṣaṣṭhyāḥ*… the first member and the last member are both accented *prakṛtisvara*; *ubhe vanaspatyādiṣu yugapat* (Pā. Sū. 6-2-140) [?]), *triḥ* (*dvitricatur…* (Pā. Sū. 5-4-18): suffix *suc* in the sense of repetition of action; the *s* of *suc*… *visarga*).
+
+---
+
+### Printed p. 241  (PDF 259)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+*Grammar (Ṛk 3, concluded; noted briefly).* *divaḥ* (*ūḍidam-padādi*… (Pā. Sū. 6-1-171): the case-ending gets the *udātta* accent), *yajñiyaḥ* (root *yaja*; *yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-71 [?]): suffix *gha*; *āyaneyīnīyiyaḥ…* (Pā. Sū. 7-1-2): *iya*; *yasyeti ca* drops the *a*; by the first-syllable accent of the suffix the *i* is *udātta*). ‖ 3 ‖
+
+---
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> ईळितो अग्न आ वहेन्द्रं चित्रमिह प्रियम् ।
+> इयं हि त्वा मतिर्ममाच्छा सुजिह्व वच्यते ॥ ४ ॥
+
+> *īḷito agna ā vahendraṃ citramiha priyam |*
+> *iyaṃ hi tvā matirmamācchā sujihva vacyate ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> ईळितः । अग्ने । आ । वह । इन्द्रम् । चित्रम् । इह । प्रियम् ।
+> इयम् । हि । त्वा । मतिः । मम । अच्छ । सुऽजिह्व । वच्यते ॥ ४ ॥
+
+> *īḷitaḥ | agne | ā | vaha | indram | citram | iha | priyam |*
+> *iyam | hi | tvā | matiḥ | mama | accha | su 'jihva | vacyate ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, called Iḷā, praised by all, bring here to us Indra, wonderful and dear, to accept the oblation; O bright-tongued one, this my praise, a meditation, is spoken towards you; the sacrificer's purpose and the Soma-offering are also explained.* Small type; many words doubtful)
+
+> हे अग्ने ईळितः सर्वैः स्तुत्य इळनामकस्त्वमिहास्मिन्यज्ञे चित्रं चायनीयं [?] प्रियं प्रीणयितारमस्मान् हविः स्वीकर्तुं वा प्रीतियुक्तमिन्द्रमा वह । आहर । हे सुजिह्व घृतपानेन [?] श्रेष्ठजिह्व [?] … इयं हि मम मतिर्मननीयोक्तिः [?] स्तुतिरूपा वाक् त्वामच्छाभिमुखेन प्राप्तुं वच्यते । मतिर्मननसाधना [?] ईळितोऽग्न [?] पूर्वार्धे [?] वर्जयित्वा [?] … वा छन्दसीति विकल्पेन … अत्र पुरोडाशादिभिर्नानयज्ञ [?] … यज्ञसम्बन्धिदेवताभिश्च यज्ञः प्रवर्त्यते इति स्पष्टत्वेन व्याख्येयम् ॥
+
+> *he agne īḷitaḥ sarvaiḥ stutya iḷanāmakastvamihāsminyajñe citraṃ cāyanīyaṃ [?] priyaṃ prīṇayitāramasmān haviḥ svīkartuṃ vā prītiyuktamindramā vaha | āhara | he sujihva ghṛtapānena [?] śreṣṭhajihva [?] … iyaṃ hi mama matirmananīyoktiḥ [?] stutirūpā vāk tvāmacchābhimukhena prāptuṃ vacyate | matirmananasādhanā [?] īḷito 'gna [?] pūrvārdhe [?] varjayitvā [?] … vā chandasīti vikalpena … atra puroḍāśādibhirnānayajña [?] … yajñasambandhidevatābhiśca yajñaḥ pravartyate iti spaṣṭatvena vyākhyeyam ‖*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *iḷitaḥ* — you who are famed by the name Iḷā (praised by all); *iha* — in this sacrifice; *citram* — the one who causes wonder; *priyam* — the one who is dear (to us); *indram* — Indra; *ā vaha* — bring; *suj̈ihva* — O Agni with the bright tongue (radiant with the ghee you drink); *iyaṃ hi mama matiḥ* — this my praise, which is thoughtful; *tvā acchā* — towards you; *vacyate* — is recited.
+
+---
+
+### Printed p. 242  (PDF 260)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Bhāvārtha.** O Agni, praised by all and famed by the name Iḷā! Bring to us in this sacrifice Indra, the one who causes wonder and is dear to us. O Agni, bright with the ghee you drink, this my praise, full of meditation, is being recited before you.
+
+**English Translation (as printed).** Agni, who is Ilita, bring hither Indra, the wonderful, the beloved; this my praise is recited, bright-tongued, before you.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***iḷitaḥ*** — ईळितः—सर्वैः स्तुत्यः इळ नामकः त्वम् (*īḷitaḥ—sarvaiḥ stutyaḥ iḷa nāmakaḥ tvam*): "you who are praised by all and are known by the name *iḷā*": this is the sense given. *Iḷa* is the root *īḍ stutau* (*īḍe stutikarmaṇi*; *indhate vā*, "he is kindled"); the word *iḷā* is explained as derived from the root *īḍ* in the sense of praise, or from the root *indh* in the sense of kindling: Ni. 8-[?], and the Nirukta author, showing the derivation of this word, has explained the true sense of the word in Ṛ. Saṃ. 10-110-8 [?]. Like *prathama* and *samiddha*, this word too has no distinct deity-name in this context; it appears to be used only as an adjective of Agni. In the order of the sacrificial rites, Agni is the helper and, being completely present with the ladle, he is naturally praised. At the beginning (1) Agni is to be *samiddha*; then (2) as *tanūnapāt* or *narāśaṃsa*, to make the oblations rich in sweetness; afterwards (3) he is to bring the gods to the sacrifice. For that work he must be praised; hence at this juncture he is addressed as (3) *iḷita* (a prayer).
+
+In the Āprī-sūktas this word, derived from the root *iḍ*, occurs in eight places either as meaning "praised" or as an epithet "praise-worthy" [?], and in one place the same is used for Agni to show his radiant nature; in nine places it is used for Agni's power. And in the Ṛk of Viśvāmitra:
+
+> प्र दीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै ।
+> अच्छा नमोभिर्वृषभं वन्दध्यै स देवान् यक्षदिषितो यजीयान् ॥
+
+> *pra dīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai |*
+> *acchā namobhirvṛṣabhaṃ vandadhyai sa devān yakṣadiṣito yajīyān ‖*
+
+(Ṛ. Saṃ. 3-4-3.) In this Ṛk alone *iḷa* is understood as food (*anna*); both that and the chief deity Agni of the Ṛk are connected; this meaning differs from the Āprī-sūktas' tradition. But in the Praiṣa-sūkta alone the sense is Agni.
+
+---
+
+### Printed p. 243  (PDF 261)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+> होता यक्षदग्निमिळ ईळितो देवो देवानां [?] आवक्षद्द्वारो हव्यवाडमूरः [?] ।
+> उपेमं यज्ञमुपेमां [?] देवो देवपूतमवतु वेत्वाज्यस्य होतर्यज ॥
+
+> *hotā yakṣadagnimiḷa īḷito devo devānāṃ [?] āvakṣaddvāro havyavāḍamūraḥ [?] |*
+> *upemaṃ yajñamupemāṃ [?] devo devapūtamavatu vetvājyasya hotaryaja ‖*
+
+(Tai. Brā. 3-[?]-[?]-[?]; partly legible.) On this sentence the commentator says: "*iḷā ity etan nāmakam agniṃ tṛtīyaprayājadevam*", giving Agni as the synonym. In the Aitareya Brāhmaṇa:
+
+> इळो यजत्यन्नं वा इळान्नमेव तत्प्रीणात्यन्नं यजमाने दधाति ।
+
+> *iḷo yajatyannaṃ vā iḷānnameva tatprīṇātyannaṃ yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) *Iḷā* means the offering-substance that is the sacrifice's food; it says that by this food, as the beneficial fruit, there is food for the sacrificer himself.
+
+As explained above, Yāska also shows the connection of this word with the root *indh*, but not rightly interpreted. Here Kātthakya's opinion is presented to us by Yāska. In the Bṛhaddevatā:
+
+> इळस्त्वेधिकेनं [?] रूपमिळेत्थं स्तुतिकर्मणः ।
+> इळावांस्तेन वोक्तोऽग्निरिडिना वृद्धिकर्मणा ॥
+
+> *iḷastvedhikenaṃ [?] rūpamiḷetthaṃ stutikarmaṇaḥ |*
+> *iḷāvāṃstena vokto 'gniriḍinā vṛddhikarmaṇā ‖*
+
+(Bṛ. De. 3-[?].) By these sentences it is shown that this word means *ārcīya* ("worthy of worship") and synonym of Agni; and the word *iḷāvān* is also an epithet of Agni:
+
+> गोमाँ अग्नेविमाँ अश्वी यज्ञो नृवत्सखा सदमिदप्रमृष्यः ।
+> इळावाँ एषो असुर प्रजावान् दीर्घो रयिः पृथुबुध्नः सभावान् ॥
+
+> *gomā~ agnevimā~ aśvī yajño nṛvatsakhā sadamidapramṛṣyaḥ |*
+> *iḷāvā~ eṣo asura prajāvān dīrgho rayiḥ pṛthubudhnaḥ sabhāvān ‖*
+
+(Ṛ. Saṃ. 4-2-5 [?].) In this Ṛk, the word *iḷāvān* is an adjective of Agni, hence the Bṛhaddevatā indicates this portion.
+
+Such different traditions, appearing in the explanations, are all taken as saying that the fourth place in the Āprī-sūktas is held by Agni as the deity.
+
+***matiḥ*** — मनननसाधना स्तुतिरूपा वाक् (*manananasādhanā stutirūpā vāk*): speech that is a means of thought and takes the form of praise. The meaning: speech which is thoughtful and in the form of praise.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, begun; noted briefly).** *iḷitaḥ* (root *iḍa stutau*; suffix *kta* by *niṣṭhā*; *ārdhadhātukasyeḍ valādeḥ* (Pā. Sū. 7-2-35): the augment *iṭ*; by the suffix-accent the end is *udātta*) …
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–243 done (introductory essay; Ṛks 1–3 complete; Ṛk 4 begun: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics through *iḷitaḥ* and *matiḥ*; grammar of Ṛk 4 begun on p. 243 and continuing on p. 244). Next: printed p. 244 (PDF 262). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243 and the table on p. 228 read at low confidence; p. 239 prose paragraph on Narāśaṃsa/Tanūnapāt read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
