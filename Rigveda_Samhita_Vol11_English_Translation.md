@@ -3362,4 +3362,146 @@ In the Ṛk-saṃhitā too:
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–129 done: Ṛks 1–6 complete; Ṛk 7 through Special Topics and the start of its grammar on p. 129). Next: printed p. 130 (PDF 148) — grammar of Ṛk 7 continued; then Ṛks 8–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–7 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 header read as 3, 4, 5, 6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛk 6 Special Topics Ṛg quotation on p. 125 only partly legible; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 130  (PDF 148)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*Grammar page (continuation of the Ṛk 7 grammar; noted briefly).* Headwords: *saṃstiraḥ* (concluded; *vistiraḥ* likewise, accent by *parādiś chandasi bahulam*), *gṛbhāyati*, *jānan* (root *jñā avabodhane*; *śatṛ*), *jānatīḥ*, *nitye*, *śaye* (root *śīṅ svapne*), *vardhante*, *devyam* (*devāya yogyam*; suffix *yat*; accent), *kṛṇvate* (root *kṛvi*; *vyatyayo bahulam* gives the *ātmanepada*). Sūtra numbers are in small type and marked [?].
+
+### Printed p. 131  (PDF 149)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+*Grammar (end of Ṛk 7):* *sacā* (root *pace samavāye*, *kvip* by *kvip ca* [?]; *supāṃ sulug…* gives *ā* for the case ending) ‖ 7 ‖
+
+---
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> तमग्रुवः केशिनीः सं हि रेभिर ऊर्ध्वास्तस्थुर्मम्रुषीः प्रायवे पुनः ।
+> तासां जरां प्रमुञ्चन्नेति नानददसुं परं जनयञ्जीवमस्तृतम् ॥ ८ ॥
+
+> *tamagruvaḥ keśinīḥ saṃ hi rebhira ūrdhvāstasthurmamruṣīḥ prāyave punaḥ |*
+> *tāsāṃ jarāṃ pramuñcanneti nānadadasuṃ paraṃ janayañjīvamastṛtam ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । अग्रुवः । केशिनीः । सम् । हि । रेभिरे । ऊर्ध्वाः । तस्थुः । मम्रुषीः । प्र । आयवे ।
+> पुनरिति । तासाम् । जराम् । प्रऽमुञ्चन् । एति । नानदत् । असुम् । परम् । जनयन् । जीवम् । अस्तृतम् ॥ ८ ॥
+
+> *tam | agruvaḥ | keśinīḥ | sam | hi | rebhire | ūrdhvāḥ | tasthuḥ | mamruṣīḥ | pra | āyave |*
+> *punariti | tāsām | jarām | pra 'muñcan | eti | nānadat | asum | param | janayan | jīvam | astṛtam ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the flames, like fingers and hair-like, embrace Agni and, though dead as embers, rise again for him; he, roaring, frees them from age and gives them life.* Small type; doubtful words marked)
+
+> तमग्निमग्रुवः अङ्गुलयः [?] अङ्गुलय इवाकुटिलाः केशिनीः केशसदृश्यः ऊर्ध्वभाविन्यो ज्वालाः सं रेभिरे हि परितो भृशं [?] आलिङ्गन्ति खलु । किंचैनं कुर्वन्त्यो ममम्रुषीः मृताः अङ्गारभावमापन्ना अपि म्रियतेः क्वसुप्रत्ययान्ताज्जसि रूपम् [?] आयवे आगच्छते अग्नये पुनः स्नेहात् [?] ऊर्ध्वाः सत्य उत्थिताः तस्थुः । मृतप्राया अपि प्रत्युत्थानं कृतवत्य इत्यर्थः । एवं कृतवतीषु सतीषु स भर्ता [?] अग्निस्तासां ज्वालानां जरां वयोहानिं प्रमुञ्चन् प्रकर्षेण मोचयन् नानदत् [?] शब्दं कुर्वन् एति … परं उत्कृष्टं असुं प्राणं जनयन् [?] … अस्तृतं अहिंसितं जीवं प्राणधारणसामर्थ्यं जनयन् … गच्छति ॥ [remainder of the small type not read]
+
+> *tamagnimagruvaḥ aṅgulayaḥ [?] aṅgulaya ivākuṭilāḥ keśinīḥ keśasadṛśyaḥ ūrdhvabhāvinyo jvālāḥ saṃ rebhire hi parito bhṛśaṃ [?] āliṅganti khalu | kiṃcainaṃ kurvantyo mamamruṣīḥ mṛtāḥ aṅgārabhāvamāpannā api mriyateḥ kvasupratyayāntājjasi rūpam [?] āyave āgacchate agnaye punaḥ snehāt [?] ūrdhvāḥ satya utthitāḥ tasthuḥ | mṛtaprāyā api pratyutthānaṃ kṛtavatya ityarthaḥ | evaṃ kṛtavatīṣu satīṣu sa bhartā [?] agnistāsāṃ jvālānāṃ jarāṃ vayohāniṃ pramuñcan prakarṣeṇa mocayan nānadat [?] śabdaṃ kurvan eti … paraṃ utkṛṣṭaṃ asuṃ prāṇaṃ janayan [?] … astṛtaṃ ahiṃsitaṃ jīvaṃ prāṇadhāraṇasāmarthyaṃ janayan … gacchati ‖ [remainder of the small type not read]*
+
+### Printed p. 132  (PDF 150)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*Bhāṣya (continued, small type).*
+
+> लोके काश्चन रमण्यो रमणेन सह निर्भरं क्रीडित्वा पश्चात्प्रोषिते तस्मिन्विरहेण जीर्णा म्रियमाणाः पश्चात्तस्मिन्नागते सति स्वप्राबल्यमगमयित्वा [?] संकोचेन [?] परिष्वङ्गाय चेष्टन्ते । स भर्ता मन्त्रोच्चारणेन जरामपनीयोचितप्रदानेन [?] प्राणयन् रक्षतीत्ययं भावोऽत्रानुसंधेयः [?] ॥
+
+> *loke kāścana ramaṇyo ramaṇena saha nirbharaṃ krīḍitvā paścātproṣite tasminviraheṇa jīrṇā mriyamāṇāḥ paścāttasminnāgate sati svaprābalyamagamayitvā [?] saṃkocena [?] pariṣvaṅgāya ceṣṭante | sa bhartā mantroccāraṇena jarāmapanīyocitapradānena [?] prāṇayan rakṣatītyayaṃ bhāvo 'trānusaṃdheyaḥ [?] ‖*
+
+**Pratipadārtha (Kannada).** *tam* — Agni, (the husband); *agruvaḥ* — standing in front, or straight like fingers; *keśinīḥ* — dark like the hair on the head, those flames; *saṃrebhire hi* — they embrace, indeed; *mamruṣīḥ* — though they have gone out and are as if dead; *āyave* — to Agni, the husband coming to them; *punaḥ* — again (not noticing their own hardship); *ūrdhvāḥ* — rising upward; *pratasthuḥ* — stand facing him; *tāsām* — of those flames, so filled with love; *jarām* — the old-age-like slackness of body; *pramuñcan* — loosening; *nānadat* — sounding (as a husband murmurs a mantra to remove his wife's decrepitude); *param* — exceedingly; *asum* — vital energy; *astṛtam* — unimpaired; *jīvam* — the power of sustaining life; *janayan* — producing; *eti* — he joins (those flames).
+
+**Bhāvārtha.** The beautiful flames, curving like the hair on the head and dark in their upper part, though extinguished and as if dead, rise upward like loving wives, not heeding their own hardship, as their husband Agni comes toward them, face him and embrace him. Loosening the slackness of body, like old age, of those loving flames, and making a sound as a husband murmurs a mantra to remove his wife's decrepitude, Agni produces in them exceeding energy and an unimpaired power of sustaining life, and joins the flames.
+
+**English Translation (as printed).** The curving tresses (of the flames) embrace him (Agni), and when expiring spring aloft again to (greet) their coming (lord); rescuing them from decrepitude, he comes sounding aloud, generating (in them) intenser animation and unimpaired vitality.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***agruvaḥ*** — this word is read both in the names of rivers (Ni. 1-[?]-[?]) and in the names of fingers (Ni. 2-[?]-[?]); in both senses the word is used in the Ṛk-saṃhitā. (continues on p. 133)
+
+### Printed p. 133  (PDF 151)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+> अजीजनन्नमृतं मर्त्यासोऽस्रेमाणं तरणिं वीळुजम्भम् । दश स्वसारो अग्रुवः समीचीः पुमांसं जातमभि सं रभन्ते ॥
+
+> *ajījanannamṛtaṃ martyāso 'sremāṇaṃ taraṇiṃ vīḷujambham | daśa svasāro agruvaḥ samīcīḥ pumāṃsaṃ jātamabhi saṃ rabhante ‖*
+
+(Ṛ. Saṃ. 3-29-[?] [?].)
+
+> तमीं हिन्वन्त्यग्रुवो धमन्ति बाकुरं दृतिम् । त्रिधातुं वारणं मधु ॥
+
+> *tamīṃ hinvantyagruvo dhamanti bākuraṃ dṛtim | tridhātuṃ vāraṇaṃ madhu ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) In these Ṛks *agruvaḥ* is the fingers; since they go forward to accomplish the rites, the fingers are explained (*nirvacana*) as *agruvaḥ*.
+
+> प्राग्रुवो नभन्वो न वक्वा ध्वस्रा अपिन्वन्द्युवतीर्ऋतज्ञाः [?] । धन्वान्यज्रा अपस्तक्वा [?] … [rest of the line unread]
+
+> *prāgruvo nabhanvo na vakvā dhvasrā apinvandyuvatīrṛtajñāḥ [?] | dhanvānyajrā apastakvā [?] … [rest of the line unread]*
+
+(Ṛ. Saṃ. [?]-[?]-[?]; this Ṛk is only partly legible at this resolution.)
+
+> स्वध्वरा वि दुरो देवयन्तोऽश्रिश्रयू रथयुर्देवताता । पूर्वी शिशुं न मातरा रिहाणे समग्रुवो न समनेष्वञ्जन् ॥
+
+> *svadhvarā vi duro devayanto 'śriśrayū rathayurdevatātā | pūrvī śiśuṃ na mātarā rihāṇe samagruvo na samaneṣvañjan ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) In these Ṛks, "*agruvaḥ* is a river-name" — *agragāminīḥ nadīḥ*, rivers that spread and flow forward; hence the river is called *agru*, as the etymology says. And not only this:
+
+> वस्त्रेभिः पुत्रमग्रुवो अदानं निवेशनाद्धरिव आ जभर्थ [?] । व्यङ्गो अख्यदहिमादादानो निर्भूदुखिच्छ्र [?] मुन्ते [?] सर्पः ॥
+
+> *vastrebhiḥ putramagruvo adānaṃ niveśanāddhariva ā jabhartha [?] | vyaṅgo akhyadahimādādāno nirbhūdukhicchra [?] munte [?] sarpaḥ ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) In these Ṛks *agruvaḥ* appears to mean (the possessor of) a woman named *agrū* [?].
+
+In the present Ṛk *agruvaḥ* is the epithet of the flames: either *agre sthitāḥ*, "spreading in front", or *aṅgulaya iva akuṭilāḥ*, "like fingers straight, not curved, stretched out". In this Ṛk Agni is compared to the husband and his flames to the wives. Sāyaṇa has described this comparison as follows:
+
+> यथा लोके काश्चन रमण्यो रमणेन सह निर्भरं क्रीडित्वा पश्चात्प्रोषिते तस्मिन्विरहेण जीर्णा म्रियमाणाः पश्चात्तस्मिन्नागते सति स्वप्राबल्यमगमयित्वा [?] संकोचेन [?] परिष्वङ्गाय चेष्टन्ते । स भर्ता मन्त्रोच्चारणेन जरामपनीयोचितप्रदानेन [?] प्राणयन् रक्षतीत्ययं भावोऽत्रानुसंधेयः [?] ॥
+
+> *yathā loke kāścana ramaṇyo ramaṇena saha nirbharaṃ krīḍitvā paścātproṣite tasminviraheṇa jīrṇā mriyamāṇāḥ paścāttasminnāgate sati svaprābalyamagamayitvā [?] saṃkocena [?] pariṣvaṅgāya ceṣṭante | sa bhartā mantroccāraṇena jarāmapanīyocitapradānena [?] prāṇayan rakṣatītyayaṃ bhāvo 'trānusaṃdheyaḥ [?] ‖*
+
+In the world, women who have enjoyed their husbands' company and then, when the husbands go abroad, grow thin with grief, forget their own exhaustion on the husbands' return and strive eagerly to embrace them. In the same way the thinned flames of Agni, when fuel comes, embrace Agni. The husbands then recite mantras that remove the wives' emaciation and old age and fill them with new life; so too Agni, making a sound, removes the weakness of the flames and makes them grow: this is the sense. (continues on p. 134)
+
+### Printed p. 134  (PDF 152)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*(Continuation of the Special Topics of Ṛk 8: "… makes them grow; this is the sense.")*
+
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar pages 134–135, noted briefly).** Headwords: *keśinīḥ* (*keśā asāṃ santi*; suffix *ini* by *ata ini ṭhanau*, Pā. Sū. 5-2-115 [?]; feminine *ṅīp*; *supāṃ sulug…*; accent on the suffix), *rebhire* (root *rabha rābhasye*; *liṭ*, third person plural; *ire*; loss of the reduplicate), *tasthuḥ*, *mamruṣīḥ* (root *mṛṅ prāṇatyāge*; *kvasu*; *ugitaś ca*, *ṅīp*; *samprasāraṇa*), *pramuñcan* (root *muñcḷ mokṣaṇe*; *śatṛ*; *num*), *nānadat* (root *ṇada avyakte śabde*; *yaṅ-luk*; *ābhyastānām ādiḥ*). Sūtra numbers are in small type, mostly [?]. (continues on p. 135)
+
+### Printed p. 135  (PDF 153)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+*Grammar (end of Ṛk 8):* *janayan* (root *janī prādurbhāve*; *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26; *vṛddhi* and *mit* rules; *śatṛ*; accent), *astṛtam* (*na stṛtam*; *nañ*-compound, *tatpuruṣe tulyārtha…*, Pā. Sū. 6-2-2 [?]: accent on the final member) ‖ 8 ‖
+
+---
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> अधीवासं परि मातू रिहन्नह तुविग्रेभिः सत्वभिर्याति वि ज्रयः ।
+> वयो दधत्पद्वते रेरिहत्सदानु श्येनी सचते वर्तनीरहः ॥ ९ ॥
+
+> *adhīvāsaṃ pari mātū rihannaha tuvigrebhiḥ satvabhiryāti vi jrayaḥ |*
+> *vayo dadhatpadvate rerihatsadānu śyenī sacate vartanīrahaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> अधिऽवासम् । परि । मातुः । रिहन् । अह । तुविऽग्रेभिः । सत्ऽवभिः । याति । वि । ज्रयः ।
+> वयः । दधत् । पद्वते । रेरिहत् । सदा । अनु । श्येनी । सचते । वर्तनीः । अहः ॥ ९ ॥
+
+> *adhi 'vāsam | pari | mātuḥ | rihan | aha | tuvi 'grebhiḥ | sat 'vabhiḥ | yāti | vi | jrayaḥ |*
+> *vayaḥ | dadhat | padvate | rerihat | sadā | anu | śyenī | sacate | vartanīḥ | ahaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni, licking round his mother's covering, goes with swift living beings; like a falcon he follows the paths.* Small type; only the beginning legible)
+
+> अधीवासं मातुः [?] भूमेरधीवासमुपर्याच्छादनस्थानीयं तृणगुल्मादिकं [?] परि परितो रिहन् लिहन् । अहेति प्रसिद्धौ [?] । यद्वा मातुर्भूमेरधिवासमुपरि धार्यमाणं वस्त्रं परि परितो रिहन् संसादयन् [?] । तुविग्रेभिः प्रभूतं शब्दयद्भिः प्रभूतगर्जनैर्वा सत्वभिः प्राणिभिः [?] ज्रयो जवेन वि याति विविधं गच्छति । किंच … [remainder of the small type not read]
+
+> *adhīvāsaṃ mātuḥ [?] bhūmeradhīvāsamuparyācchādanasthānīyaṃ tṛṇagulmādikaṃ [?] pari parito rihan lihan | aheti prasiddhau [?] | yadvā māturbhūmeradhivāsamupari dhāryamāṇaṃ vastraṃ pari parito rihan saṃsādayan [?] | tuvigrebhiḥ prabhūtaṃ śabdayadbhiḥ prabhūtagarjanairvā satvabhiḥ prāṇibhiḥ [?] jrayo javena vi yāti vividhaṃ gacchati | kiṃca … [remainder of the small type not read]*
+
+---
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–135 done: Ṛks 1–8 complete; Ṛk 9 Saṃhitā, Pada and bhāṣya (p. 135)). Next: printed p. 136 (PDF 154) — Ṛk 9 bhāṣya continued, Pratipadārtha; then Ṛks 10–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–9 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg quotations on pp. 125 and 133 only partly legible; Sūkta 137 and Pīṭhike flags as before.
