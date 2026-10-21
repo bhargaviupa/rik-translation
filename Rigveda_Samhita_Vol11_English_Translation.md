@@ -6884,4 +6884,196 @@ So the different goddesses in the three worlds are the manifestations of one god
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–267 done (introductory essay; Ṛks 1–9 complete; Ṛk 10 *tan nas turīpam* (Tvaṣṭā): Saṃhitā and Pada given and the bhāṣya begun at the foot of p. 267, to be continued on p. 268). Next: printed p. 268 (PDF 286). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 268  (PDF 286)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Continuation of the bhāṣya of Ṛk 10; small type, only partly read.)*
+
+> अरम् अलम् । त्मनात्मना । पुरु बहुक्रियाविशेषणमेतत् । … उदकं त्वष्टा वृष्ट्यादेः कर्ता [?] । त्वष्टा तोर्णमत्स्य [?] … नाभा नाभ्यां वृष्टेर्बन्धके [?] मेघस्य नाभिस्थाने [?] … पुष्पये … पोषाय … वि ष्यतु उत्कृलक्षणमुदकं वृष्टिं मुञ्चतु [?] । विविधं गमयतु ॥
+
+> *aram alam | tmanātmanā | puru bahukriyāviśeṣaṇametat | … udakaṃ tvaṣṭā vṛṣṭyādeḥ kartā [?] | tvaṣṭā torṇamatsya [?] … nābhā nābhyāṃ vṛṣṭerbandhake [?] meghasya nābhisthāne [?] … puṣpaye … poṣāya … vi ṣyatu utkṛlakṣaṇamudakaṃ vṛṣṭiṃ muñcatu [?] | vividhaṃ gamayatu ‖*
+
+**Pratipadārtha (Kannada).** *tvaṣṭā* — Agni, who is of the form of lightning (*vidyud-rūpa*) and brings about rain [?]; *asmayuḥ* — being kindly disposed to us; *naḥ* — for our; *poṣāya* — nourishment; *rāye* — prosperity; *nābhā* — from the middle (navel) of the cloud; (or *naḥ* — our; *nābhā* — at the *uttaravedi*, the navel of the sacrifice); *rāye* — for wealth such as cattle; *poṣāya* — for protection; *tat* — that well-known; *turīpam* — quickly falling; *adbhutam* — wonderful; *puru vāram* — sufficient for many creatures, or very abundant; *tmanā puru* — doing much good of itself, the rain; *vi syatu* — let him send down in many ways.
+
+**Bhāvārtha.** May Agni, who is in the form of lightning, being kindly disposed to us, send down in abundance, for our nourishment and for our prosperity, the rain, famous and from the centre of the cloud, quickly falling, wonderful, needed by many creatures, and very abundant.
+
+**English Translation (as printed).** May Twashtri, favourably disposed towards us, send to us, for our nourishment and prosperity, the quick (falling) wonderful, abundant (water), in the centre (of the cloud, effecting) of itself much (good).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***tvaṣṭā*** — *tvaṣṭā* is explained in the account of the *navana-prayāja* [?]; in the Praiṣa-sūkta, the nature of this deity is told by four or five epithets.
+
+---
+
+### Printed p. 269  (PDF 287)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12 [?].)*
+
+The passages of the Praiṣa-sūkta that give his individual views about the deity Tvaṣṭṛ are these. It addresses only the deity concerned with the Āprī-sūkta:
+
+> होता यक्षत्त्वष्टारमजिष्ट्वाम् [?] अपाकं रेतोधां विश्वरूपं यशोधां ।
+> पुरुरूपमकामकर्शनं सुपोषैः पोषैः स्यात्त्वष्टा वीरो वीर्येणास्य होतर्यज ॥
+
+> *hotā yakṣattvaṣṭāramajiṣṭvām [?] apākaṃ retodhāṃ viśvarūpaṃ yaśodhāṃ |*
+> *pururūpamakāmakarśanaṃ supoṣaiḥ poṣaiḥ syāttvaṣṭā vīro vīryeṇāsya hotaryaja ‖*
+
+(Tai. Brā. 3-6-6-3 [?]; partly legible.) In this mantra the epithets are *ajiṣṭnu* [?], *apākam*, *retodhām*, *viśvarūpam*, *yaśodhām*, *pururūpam* and *akāmakarśanam*. Of these:
+
+*ajiṣṭnum* — "without *jaiṣṭnya*"; without fickleness, steady, not fickle but steady.
+
+*apākam* — *abālam, prājñam*: "not a child, but wise".
+
+*retodhām* — *putrādibījasya yajamāne dhārayitāram*: "who plants the seed of sons and the like in the sacrificer".
+
+*viśvavasum* [as printed; the Praiṣa has *viśvarūpam*] — *vividhakīrtiyuktam*: "endowed with manifold fame".
+
+*yaśodhām* — *yajamānasya yaśaso dhārayitāram*: "who makes the sacrificer a sharer of glory".
+
+*pururūpam* — *bahurūpam*: "having many kinds of form".
+
+*akāmakarśanam* — *kāmānām anāśayitāram*: "who does not destroy desires; who fulfils the sacrificer's desires".
+
+These epithets show the individual nature of Tvaṣṭṛ. The Nirukta author, showing the derivation of the word *tvaṣṭṛ* (Ni. 8-[?]) says: *tvaṣṭā tūrṇam aśnuta iti nairuktāḥ; tviṣer vā syād dīptikarmaṇaḥ; tvakṣater vā syāt karotikarmaṇaḥ* [?] — "he pervades quickly: so say the etymologists; or from *tviṣ*, 'to shine'; or from *tvakṣ* [?], 'to do'". From these derivations it is understood that Tvaṣṭṛ is one who pervades quickly, who shines, and who is the maker. To show to which world this deity belongs he says: माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातेः । अग्निरिति शाकपूणिः (*mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnāteḥ | agniriti śākapūṇiḥ*) [?] — some say he belongs to the group of the deities of the atmosphere (*mādhyamika*), and Śākapūṇi says he is Agni; he gives these opinions. In the Bṛhaddevatā, approving the first view,
+
+---
+
+### Printed p. 270  (PDF 288)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+> त्वष्टा रूपविकर्ता च योऽसौ माध्यमिके गणे ।
+> स्तुतः स च निपातेन सूक्तं तस्य विद्यते ॥
+
+> *tvaṣṭā rūpavikartā ca yo 'sau mādhyamike gaṇe |*
+> *stutaḥ sa ca nipātena sūktaṃ tasya vidyate ‖*
+
+(Bṛ. De. 3-33 [?].) this verse says that he belongs to the group of the deities of the middle world. Before it:
+
+> त्वष्टा तु यस्यायमेव पार्थिवोऽग्निरिति स्तुतिः [?] ।
+> पार्थिवस्यास्य वर्चः स्यात् कस्माद्भ्यक्तं चात्मवेषु च [?] ।
+> त्विषेस्तु च त्विषेर्वा स्यात् तोर्णमत्स्न्वेव [?] वा ।
+> कर्मसत्त्वारोऽवेति तेन नाम्नैतदुच्यते [?] ।
+> येनः सहस्रतमो रश्मीरिनेद्रमुपाश्रिताः [?] ।
+> सोऽपि त्वष्टारमेवाग्निं परं तेहज्ञ [?] यज्ञ्ञदु [?] ॥
+
+> *tvaṣṭā tu yasyāyameva pārthivo 'gniriti stutiḥ [?] |*
+> *pārthivasyāsya varcaḥ syāt kasmādbhyaktaṃ cātmaveṣu ca [?] |*
+> *tviṣestu ca tviṣervā syāt torṇamatsnveva [?] vā |*
+> *karmasattvāro 'veti tena nāmnaitaducyate [?] |*
+> *yenaḥ sahasratamo raśmīrinedramupāśritāḥ [?] |*
+> *so 'pi tvaṣṭāramevāgniṃ paraṃ tehajña [?] yajññadu [?] ‖*
+
+(Bṛ. De. 2-[?] to 2-[?]; garbled at this resolution.) What the Kannada says of these verses: "whatever praise there is of the earthly Agni is addressed to Tvaṣṭṛ; there is also a suggestion in some places that he is a deity related to the earth. Moreover the authors of the Bṛhaddevatā describe him as a part of Agni [?]. Then the Nirukta's derivation of the word *tvaṣṭṛ* is stated [?]. It is also described that he pervades the thousand-rayed honey [?] of the sun and the other world and the earth [?]. In the matter of this deity the Bṛhaddevatā mainly approves the opinion of Śākapūṇi given in the Nirukta. In the Nighaṇṭu, Tvaṣṭṛ is classed first with the Āprī deities (Nigh. 1-[?]), then with the deities of the atmosphere (5-4) and also with those of heaven (5-6)." *(This paragraph read at low confidence.)*
+
+The story of Tvaṣṭṛ and the sage Dadhyañc has been given in the Special Topics of Sūkta 1-116. In the Aitareya Brāhmaṇa:
+
+> त्वष्टारं यजति वाग्वै त्वष्टा वाग्घीदं सर्वम् । क्षाप्नोति [?] वाचेवेन [?] तत्प्रीणाति वाचं यजमाने दधाति ।
+
+> *tvaṣṭāraṃ yajati vāgvai tvaṣṭā vāgghīdaṃ sarvam | kṣāpnoti [?] vācevena [?] tatprīṇāti vācaṃ yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) this sentence shows the identity of Tvaṣṭṛ and Speech (*vāc*): this is one opinion.
+
+> ये इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥
+
+> *ye ime dyāvāpṛthivī janitrī rūpairapiṃśadbhuvanāni viśvā |*
+> *tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*
+
+(Ṛ. Saṃ. 10-110-9.) In this Ṛk it is told that this deity has a divine birth, and that therefore even at the time of creation he is praised as "former, ancient". The idea that Tvaṣṭṛ is very ancient —
+
+---
+
+### Printed p. 271  (PDF 289)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12 [?].)*
+
+> इह त्वष्टारमग्रियं विश्वरूपमुपह्वये ।
+> अस्माकमस्तु केवलः ॥
+
+> *iha tvaṣṭāramagriyaṃ viśvarūpamupahvaye |*
+> *asmākamastu kevalaḥ ‖*
+
+(Ṛ. Saṃ. 1-13-10.)
+
+> त्वष्टारमग्रजां गोपां पुरोयावानमा हुवे ।
+> इन्दुरिन्द्रो वृषा हरिः पवमानः प्रजापतिः ॥
+
+> *tvaṣṭāramagrajāṃ gopāṃ puroyāvānamā huve |*
+> *indurindro vṛṣā hariḥ pavamānaḥ prajāpatiḥ ‖*
+
+(Ṛ. Saṃ. 9-5-9 [?].) By such Ṛks it is understood through the epithets *agriya* and *agraja* ("first-born").
+
+> त्वष्टा रूपाणि हि प्रभुः पशून्विश्वान्त्समानजे ।
+> तेषां नः स्फातिमा यज ॥
+
+> *tvaṣṭā rūpāṇi hi prabhuḥ paśūnviśvāntsamānaje |*
+> *teṣāṃ naḥ sphātimā yaja ‖*
+
+(Ṛ. Saṃ. 10-64-9 [?].)
+
+> त्वष्टा रूपाणि विकरोति ।
+
+> *tvaṣṭā rūpāṇi vikaroti |*
+
+(Tai. Saṃ. 1-3-7-1 [?].) By such sentences the role of Tvaṣṭṛ as the maker of forms is declared. Of these, for him the epithet *viśvarūpa* ("having all forms") is also there (Ṛ. Saṃ. 1-13-10).
+
+***turīpam*** — considering only the derivation of the word *turīpa*, it is *tūrṇaṃ vyāpi*: "that which pervades quickly"; the meaning is "what is quick, falls swiftly or pervades". According to the commentator it is "rain" or "seed": in this Ṛk the commentator makes it an epithet of rain. And Ṛ. Saṃ.
+
+> तन्न स्तुरीपमध पोषयित्नु देव त्वष्टर्वि रराणः स्यस्व ।
+> यतो वीरः कर्मण्यः सुदक्षो युक्तग्रावा जायते देवकामः ॥
+
+> *tanna sturīpamadha poṣayitnu deva tvaṣṭarvi rarāṇaḥ syasva |*
+> *yato vīraḥ karmaṇyaḥ sudakṣo yuktagrāvā jāyate devakāmaḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) in this Ṛk the commentator explains the word *turīpa* as "seed" (*retas*). In the Praiṣa-sūkta the epithet *retodhām* is used of Tvaṣṭṛ, which gives the same sense. For example:
+
+> त्वष्ट्रे स्वाहा । त्वष्ट्रे तुरीपाय स्वाहा । त्वष्ट्रे पुरुरूपाय स्वाहा ।
+
+> *tvaṣṭre svāhā | tvaṣṭre turīpāya svāhā | tvaṣṭre pururūpāya svāhā |*
+
+(Tai. Saṃ. 2-3-[?].) In such Saṃhitā sentences the identity of Tvaṣṭṛ and *turīpa* is declared; the commentator takes *turīpa* as "seed". The scholar Keith translates this mantra "To Tvashtra, the Seminal". Or, since he belongs to the middle world, it may be said that he is the cause of the falling of rain.
+
+---
+
+### Printed p. 272  (PDF 290)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly).** *aram* (*vālamūla…* (Pā. Sū. 8-2-[?]): *ra* is the substitute for the *la*; *alam* is the natural form), *tmanā* (*ātmanā*; in mantras *tmanātmanā*… *ātmanaḥ* (Pā. Sū. 6-4-141): the *a* of *ātman* is dropped), *tvaṣṭā* (root *tviṣ dīptau*, or *tvakṣū tanūkaraṇe*; suffix *tṛn* in the agent sense; being *nit* it is *ādyudātta*; *skoḥ saṃyogādyor ante ca* (Pā. Sū. 8-2-29) drops the *k*; nominative singular), *poṣāya* (root *puṣa puṣṭau*; *halaś ca* (Pā. Sū. 3-3-121): suffix *ghañ*; *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86): *guṇa*; by the suffix, the first-syllable *udātta*; dative singular), *vi syatu* (root *ṣo antakarmaṇi*; *loṭ*, third person singular, ending *ti*; *ṭi*, *tu*; *ṣatva*… *vyatyaya*: *śyan* vikaraṇa [*divādibhyaḥ śyan*]; *oter ... śyati* (Pā. Sū. 6-4-67): loss of the root vowel; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64): *sa*; hence *syatu*; the prefix *vi* causes *ṣatva* by *upasargāt sunoti…* (Pā. Sū. 8-3-65): *ṣa*; standing after *ati…* the *tiṅ* has *nighāta* accent; in the second explanation, *upasargeṇa dhātvarthe balād anyaḥ pratīyate* (the sense of the root is changed by the prefix), since *vi* is joined the sense is "release, letting go"), *rāye* (*rai*, dative singular; *ūḍidam padādi…* (Pā. Sū. 6-1-171): the case-ending gets the *udātta*; in the second explanation it is dative in the sense of the fourth case), *nābhā* (*supāṃ sulug*… (Pā. Sū. 7-1-39): *ā* replaces the case-ending; *ṭi* loses [*ṭe*] *lopa*), *asmayuḥ* (*asmān ātmanaḥ icchati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8): *kyac*; *kyāc chandasi* (Pā. Sū. 3-2-170): suffix *u* after the *kyac*-ending; *ato lopaḥ* (Pā. Sū. 6-4-48): the *a* is dropped; by the suffix-accent the last syllable is *udātta*). ‖ 10 ‖
+
+---
+
+#### Ṛk 11
+
+### Printed p. 273  (PDF 291)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12.)*
+
+**॥ संहितापाठः ॥**
+
+> अवसृजन्नुप त्मना देवान्यक्षि वनस्पते ।
+> अग्निर्हव्या सुषूदति देवो देवेषु मेधिरः ॥ ११ ॥
+
+> *avasṛjannupa tmanā devānyakṣi vanaspate |*
+> *agnirhavyā suṣūdati devo deveṣu medhiraḥ ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> अवऽसृजन् । उप । त्मना । देवान् । यक्षि । वनस्पते ।
+> अग्निः । हव्या । सुऽसूदति । देवः । देवेषु । मेधिरः ॥ ११ ॥
+
+> *ava 'sṛjan | upa | tmanā | devān | yakṣi | vanaspate |*
+> *agniḥ | havyā | su 'sūdati | devaḥ | deveṣu | medhiraḥ ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Vanaspati (Agni presiding over the sacrificial post), setting the priests each to their tasks, come of yourself to the gods and sacrifice; the shining, wise Agni among the gods graciously accepts the oblations.* Small type; some words doubtful)
+
+> हे वनस्पते वनानां पालक [?] यूपाभिमानिदेवाग्ने अवसृजन् स्वरं [?] ऋत्विजः स्वस्वकर्मसु व्यापारयन् त्मना आत्मना देवान् विभर्ज [?] उप यक्षि । उपेत्य यज । बहुलं छन्दसीति शपो लुक् । देवो द्योतमानो मेधिरो मेधावान् अग्निर्देवेषु मध्ये येषां मध्ये [?] हव्या हवींषि सुषूदति सुष्ठु स्वीकरोति । षूद क्षरणे । बहुलं छन्दसीति शपः श्लुः । लेटोऽडाटावित्यडागमः । यद्वा यूपाग्निरेव परोक्षे …स्त्वा [?] उच्यते । सोऽग्निर्हवींषि सुष्ठु स्वीकरोति ॥
+
+> *he vanaspate vanānāṃ pālaka [?] yūpābhimānidevāgne avasṛjan svaraṃ [?] ṛtvijaḥ svasvakarmasu vyāpārayan tmanā ātmanā devān vibharja [?] upa yakṣi | upetya yaja | bahulaṃ chandasīti śapo luk | devo dyotamāno medhiro medhāvān agnirdeveṣu madhye yeṣāṃ madhye [?] havyā havīṃṣi suṣūdati suṣṭhu svīkaroti | ṣūda kṣaraṇe | bahulaṃ chandasīti śapaḥ śluḥ | leṭo 'ḍāṭāvityaḍāgamaḥ | yadvā yūpāgnireva parokṣe …stvā [?] ucyate | so 'gnirhavīṃṣi suṣṭhu svīkaroti ‖*
+
+**Pratipadārtha (Kannada).** *vanaspate* — O Agni, the deity presiding over the sacrificial post; *avasṛjan* — (setting the priests) each to their own duty; *tmanā* — yourself (having come); *devān* — the gods; *upa* — approaching; *yakṣi* — sacrifice; *devaḥ* — shining; *medhiraḥ* — wise; *agniḥ* — Agni; *deveṣu* — among the gods; *havyā* — the oblations; *suṣūdati* — accepts; or (distributes the oblations to the gods).
+
+**Bhāvārtha.** O Agni, the deity presiding over the sacrificial post! Setting the priests each to their duty, come of yourself to the sacrificial house and perform the sacrifice addressing the gods. The shining, wise Agni takes the oblations and distributes them among the gods.
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–273 done (introductory essay; Ṛks 1–10 complete; Ṛk 11 *avasṛjann upa tmanā* (Vanaspati): Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha on p. 273; its printed English and Special Topics follow on p. 274). Next: printed p. 274 (PDF 292). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
