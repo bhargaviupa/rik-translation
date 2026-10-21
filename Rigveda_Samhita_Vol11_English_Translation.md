@@ -1974,4 +1974,112 @@ In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo a
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–75 done: Ṛks 1–7 complete; Ṛk 8 through printed English; Special Topics begun). Next: printed p. 76 (PDF 94) — Special Topics of Ṛk 8 continued, grammar, then Ṛks 9–11 to finish the sūkta (11 Ṛks). Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–8 largely unread; Ṛk 8 bhāṣya p. 74 partly read); Varga numerals of Sūkta 139; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Ai. Brā./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 76  (PDF 94)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Special Topics of Ṛk 8, continued from p. 75.)* ***sanā dyumnāni.*** These two words are epithets. Sāyaṇa explains *sanā* first as *sadātanāni*, *nityāni* — "eternal"; and *dyumnāni* as *prakāśayuktāni* — "radiant". Or *sanā* — *saṃbhajanīyāni*, "to be resorted to", and *dyumnāni* — "possessing wealth or fame": he gives this second sense too. Since the Maruts' powers have been famous and radiant from beginningless time, the first sense is fitting.
+
+> प्र वेपयन्ति पर्वतान्वि विञ्चन्ति वनस्पतीन् [?] ।
+
+> *pra vepayanti parvatānvi viñcanti vanaspatīn [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+> वना चिदुग्रा जिहते नि वो भिया पृथिवी चिद्रेजते पर्वतश्चित् [?] ।
+
+> *vanā cidugrā jihate ni vo bhiyā pṛthivī cidrejate parvataścit [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) As described in such Ṛks, the mountains and the earth tremble through the might of the Maruts. Since earth and sky tremble, there is no one who does not know their power. Hence the second sense is also natural. Whoever moves in the sky cannot move without informing the Maruts; if one slights the Maruts, they are certain to bar the way.
+
+> तासु पदमस्ति स्वस्ति रायो मरुतो दधातनेति मरुतो ह वै देवविशो [?] … तेरित्यभाजनान्यां [?] … स्वर्गं लोकमेतीश्वरा हैनं [?] निरोद्धोर्वा मथितोर्वा स यदाह स्वस्ति रायो मरुतो दधातनेति तं मरुद्भ्यो देवविद्भ्यो यजमानो निवेदयति न हैनं मरुतो देवविशः स्वर्गं लोकं यन्तं निरुन्धते [?] । स्वस्ति हैनं मर्त्यान्ति [?] स्वर्गं लोकमभि य एवं वेद ॥
+
+> *tāsu padamasti svasti rāyo maruto dadhātaneti maruto ha vai devaviśo [?] … terityabhājanānyāṃ [?] … svargaṃ lokametīśvarā hainaṃ [?] niroddhorvā mathitorvā sa yadāha svasti rāyo maruto dadhātaneti taṃ marudbhyo devavidbhyo yajamāno nivedayati na hainaṃ maruto devaviśaḥ svargaṃ lokaṃ yantaṃ nirundhate [?] | svasti hainaṃ martyānti [?] svargaṃ lokamabhi ya evaṃ veda ‖*
+
+(Ai. Brā. 1-[?]-[?] [?].) The Maruts, as the people of the gods, pervade all the sky. Those who go to heaven without informing them they surely stop or destroy. If, reciting the sentence *svasti rāye marutaḥ*, one worships them, they do not hinder. From the Aitareya Brāhmaṇa and the like, in which it is said that he who knows this secret surely attains welfare, the Maruts' power, whether of favour or of restraint, is described. For this reason it is prayed: *asmat purā mā jāriṣuḥ* — "may our wealth and our sons and grandsons not decay; help us so".
+
+***ghoṣāt.*** *Śabdopetā gavādayo ghoṣopalakṣitā grāmanagarādayo vā ye santi* — "those cows and others that make sound, or villages and towns characterized by sound, as there are": cows with their sounds, and villages and towns, are here indicated; the prayer is that these may be ours lastingly. The word *ghoṣa* is read among the names of speech (Ni. 1-[?]). Ordinarily this word means "sound"; it is used here in the sense of a sound that shows a distinctive power (continued on p. 77).
+
+### Printed p. 77  (PDF 95)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+…In the Saṃhitās and in the Brāhmaṇas and the like, the word *ghoṣa* means a sound that carries an extraordinary power: *vi rodasī atapat ghoṣa viṣām* [?] (Ṛ. Saṃ. 1-[?]-[?]), *āyāmi ghoṣa indra* (Ṛ. Saṃ. 2-[?]-[?]) and other Saṃhitā sentences; and
+
+> ता वा एताः सर्वा ऋचः सर्वे वेदाः सर्वे घोषा एकैव व्याहृतिः [?] ।
+
+> *tā vā etāḥ sarvā ṛcaḥ sarve vedāḥ sarve ghoṣā ekaiva vyāhṛtiḥ [?] |*
+
+(Ai. Ā. 3-[?]-[?] [?].)
+
+> मयि स्तोभो मयि स्तोमो [?] मयि श्लोको मयि घोषो मयि यशः [?] ।
+
+> *mayi stobho mayi stomo [?] mayi śloko mayi ghoṣo mayi yaśaḥ [?] |*
+
+(Brā. Ā. [?]-[?]-[?] [?].)
+
+> येनेदमन्नं पच्यते यदिदमद्यते तस्यैष घोषो भवति [?] ।
+
+> *yenedamannaṃ pacyate yadidamadyate tasyaiṣa ghoṣo bhavati [?] |*
+
+(Śa. Brā. 14-[?]-[?]-[?] [?].)
+
+> सर्वे स्वरा घोषवन्तो बलवन्तो वक्तव्याः [?] ।
+
+> *sarve svarā ghoṣavanto balavanto vaktavyāḥ [?] |*
+
+(Chā. Up. [?]-[?]-[?] [?].) In these and other places it is used with the sense of a sound that has extraordinary power. In the Ṛk at hand, though it has no such special sense, it means the sound of cows and the like, or of villages and towns, that causes exceeding delight. The prayer is: give us permanently wealth of cows and the like, accompanied by such joy-giving sounds.
+
+***dustaram.*** The word is repeated. The first means the toil of acquiring wealth, the second the toil of guarding wealth. *Dustaram* — *duḥkhena taraṇīyaṃ saṃpādanīyam* — "to be obtained with great trouble"; and *dustaram* — *śatrubhir ahiṃsitam* — "not harmed by foes".
+
+***yuge yuge.*** *Yugaśabdaḥ kālavacanaḥ* — "in the respective ages (times)"; it means either in the times of our sacrifices, or in the lifetimes of ourselves and our sons and grandsons.
+
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly).** *mo ṣu* (*mā* and *u*: two particles), *suñaḥ* (Pā. Sū. 8-3-[?]) *ṣatva* of the *s* of *su*), *asmat* (ablative plural; *supāṃ sulak…*: the case-ending *luk* in the first-named [?]).
+
+### Printed p. 78  (PDF 96)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Grammar of Ṛk 8, continued; noted briefly.)* *pauṃsyā* (for *pauṃsyāni*: *śeś chandasi bahulam* (Pā. Sū. 6-1-[?]) drops *śi*; likewise *sanā*), *bhūvan* (root *bhū sattāyām*; *laṅ* third person plural; the *aṭ* augment does not come by *na māṅyoge* (Pā. Sū. 6-4-[?]); *tiṅanta nighāta*), *jāriṣuḥ* (root *jṛṣ vayohānau*; *luṅ* third person plural, *jhi*; *cli* → *sic*; *jher jus* by *sijabhyastavidibhyaś ca* (Pā. Sū. 3-4-[?]); *vṛddhi* of the root's *ṛ* by *sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-[?]); *rapara*; as it is connected with *māṅ*, no augment by *na māṅyoge*; *nighāta* since a *tiṅanta* follows), *yuge yuge* (*nityavīpsayoḥ* (Pā. Sū. 8-1-[?]) doubling; the second is *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-[?]) makes it wholly *anudātta*), *navyam* (*yat*-ending, hence first-syllable accent), *ghoṣāt* (must be *ghoṣāḥ*; by the statement *supāṃ supo bhavanti* the ablative has come), *amartyam* (*na martyaḥ*; negative *tatpuruṣa*, *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-[?]), accent of the first member), *dustaram* (root *tṝ plavanataraṇayoḥ*; *dus* as prefix; *īṣaddustuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. Sū. 3-3-[?]) *khal*; *guṇa*, *rapara*; accent), *didhṛta* (root *dhṛṅ dhāraṇe*; *loṭ* second person plural; because of the lack of *ātmanepada* … *tāsthā*…; *ślau* doubling; *bahulaṃ chandasi* *ittva* of the reduplicate; as *yat* is connected, *nighāta* barred by *nipātair yadyadi…*; first-syllable accent of the suffix). ‖ 8 ‖
+
+### Printed p. 79  (PDF 97)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> दध्यङ् ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ।
+> तेषां देवेष्वायतिरस्माकं तेषु नाभयः ।
+> तेषां पदेन मह्या नमे गिरेन्द्राग्नी आ नमे गिरा ॥ ९ ॥
+
+> *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrirmanurviduste me pūrve manurviduḥ |*
+> *teṣāṃ deveṣvāyatirasmākaṃ teṣu nābhayaḥ |*
+> *teṣāṃ padena mahyā name girendrāgnī ā name girā ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> दध्यङ् । ह । मे । जनुषम् । पूर्वः [?] । अङ्गिराः । प्रियऽमेधः । कण्वः । अत्रिः । मनुः । विदुः । ते । मे । पूर्वे । मनुः । विदुः ।
+> तेषाम् । देवेषु । आऽयतिः [?] । अस्माकम् । तेषु । नाभयः ।
+> तेषाम् । पदेन । महि । आ । नमे । गिरा । इन्द्राग्नी इति । आ । नमे । गिरा ॥ ९ ॥
+
+> *dadhyaṅ | ha | me | januṣam | pūrvaḥ [?] | aṅgirāḥ | priya 'medhaḥ | kaṇvaḥ | atriḥ | manuḥ | viduḥ | te | me | pūrve | manuḥ | viduḥ |*
+> *teṣām | deveṣu | ā 'yatiḥ [?] | asmākam | teṣu | nābhayaḥ |*
+> *teṣām | padena | mahi | ā | name | girā | indrāgnī iti | ā | name | girā ‖ 9 ‖*
+
+*(Gist, mine: Dadhyañc, Aṅgiras, Priyamedha, Kaṇva, Atri and Manu knew my birth; their favour with the gods is ours; by their footing I bow with my hymn to Indra and Agni.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the Āśvalāyana citation, then the bhāṣya. Small type; doubtful words marked)
+
+> पृष्ठ्यस्य षष्ठेऽहन्यच्छावाकस्य पृष्ठितियाज्यायाः पुरस्ताद्दध्यङ् ह मे इत्येषा । सूत्रितं च । दध्यङ् ह मे जनुषं पूर्वो अङ्गिरा इत्येवमेव माध्यंदिने । आ. [?] । इति ॥
+
+> *pṛṣṭhyasya ṣaṣṭhe 'hanyacchāvākasya pṛṣṭhitiyājyāyāḥ purastāddadhyaṅ ha me ityeṣā | sūtritaṃ ca | dadhyaṅ ha me januṣaṃ pūrvo aṅgirā ityevameva mādhyaṃdine | ā. [?] | iti ‖*
+
+> दध्यङ्ङथर्वणगोत्रोत्पन्न [?] एतन्नामको महर्षिः स च पूर्वः पूर्वकः सर्वस्य पुरातनो [?] वा । अङ्गिरा अङ्गिराः । यद्वा । अङ्गिरा विना [?] अङ्गिरसोऽभवन् । येऽङ्गिरा असंस्तेऽङ्गिरसोऽभवन्निति श्रुतेः । अङ्गिरा अङ्गारा अङ्गनाः अञ्चना इति निरुक्तम् [?] । एतन्नामा महर्षिश्च । प्रियमेधः मेधाप्रियः । प्रियमेधः प्रिया अस्य मेधाः (नि. [?]-[?]) इति यास्कः । स च कण्वो मेधावी [?] । स च चात्रिः [?] दर्शनः तमोरहितः [?] । अत्रिरत्त्रिणो [?] इति निरुक्तम् (नि. [?]-[?]) । मनुर्मननान्नेतन्नामा महर्षिः [?] । एते सर्वे मे जनुषं जन्म दैवोदासपुत्रस्य परुच्छेपस्य जन्म विदुः । जानन्ति । वेत्तेर्लिटो लट् वेति [?] … मनुर्मनुष्यः [?] जनुः … मे पूर्वे पूर्वकाले [?] … [… the remainder of the bhāṣya continues on p. 80 …]
+
+> *dadhyaṅṅatharvaṇagotrotpanna [?] etannāmako maharṣiḥ sa ca pūrvaḥ pūrvakaḥ sarvasya purātano [?] vā | aṅgirā aṅgirāḥ | yadvā | aṅgirā vinā [?] aṅgiraso 'bhavan | ye 'ṅgirā asaṃste 'ṅgiraso 'bhavanniti śruteḥ | aṅgirā aṅgārā aṅganāḥ añcanā iti niruktam [?] | etannāmā maharṣiśca | priyamedhaḥ medhāpriyaḥ | priyamedhaḥ priyā asya medhāḥ (ni. [?]-[?]) iti yāskaḥ | sa ca kaṇvo medhāvī [?] | sa ca cātriḥ [?] darśanaḥ tamorahitaḥ [?] | atrirattriṇo [?] iti niruktam (ni. [?]-[?]) | manurmananānnetannāmā maharṣiḥ [?] | ete sarve me januṣaṃ janma daivodāsaputrasya parucchepasya janma viduḥ | jānanti | vetterliṭo laṭ veti [?] … manurmanuṣyaḥ [?] januḥ … me pūrve pūrvakāle [?] … [… the remainder of the bhāṣya continues on p. 80 …]*
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–79 done: Ṛks 1–8 complete; Ṛk 9 Saṃhitā, Pada, Āśvalāyana citation and the start of the bhāṣya). Next: printed p. 80 (PDF 98) — bhāṣya of Ṛk 9 continued, Pratipadārtha, Bhāvārtha, printed English, Special Topics, grammar; then Ṛks 10–11 to finish the sūkta. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–9 largely unread); Varga numerals of Sūkta 139; Ṛk 9 Pada words *pūrvaḥ*, *āyatiḥ* doubtful; Aitareya Brāhmaṇa quotation (p. 76) heavily doubtful; all Ni./Ṛg/Ai./Śa. Brā./Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
