@@ -924,4 +924,72 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–35 done: Ṛks 1–4 complete). Next: printed p. 36 (PDF 54) — rest of Ṛk 4 grammar (if any), then Ṛk 5 and the remaining Ṛks of Sūkta 138. Images at 120 dpi in /tmp/v11a (PDF 33–60; recrop with crop_pages.py if lost). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–4; all Ni./Ṛg/Bṛ. De. numerals and quotations (pp. 17–19, 23–24, 28–29, 32–34, incl. garbled Bṛ. De. quotation on p. 34); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 36  (PDF 54)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly.)* *atimanye* (concluded: because the following word is a *tiṅanta*…; *tiṅ atiṅaḥ* (Pā. Sū. 8-1-[?]) gives *nighāta* by *ati*), *āghṛṇe* (root *ghṛ kṣaraṇadīptyoḥ*; the *ni* suffix by *ghṛṇipṛśnipārṣṇi…* (U. Sū. 4-[?]); *nipātana*; the *vārṇāc cetikramyam* statement; *prādi* compound; vocative form; the *āmantrita-nighāta* accent), *apahnuve* (root *hnuṅ apanayane*, *adādi*; *laṭ* first person singular; as the suffix is treated as *ṅit*, *guṇa* does not arise). ‖ 4 ‖
+
+*Here the 138th Sūkta ends.*
+
+## Sūkta 139
+
+*(The Kannada heading reads "The 139th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: "Astu śrauṣaṭ", the sixth sūkta of the twentieth anuvāka, has eleven Ṛks; Parucchepa is the ṛṣi; Viśvedevāḥ the deity of the whole sūkta, with separate deities for individual Ṛks; the last Ṛk is Triṣṭubh, the fifth Bṛhatī, the rest Atyaṣṭi; its use in the Daśarātra rite is cited from the Āśvalāyana Śrautasūtra. Small type; doubtful words marked.)*
+
+> अस्तु श्रौषडेकादशर्चं षष्ठं सूक्तम् । अत्रानुक्रमणिका । अस्तु श्रौषळेकादश वैश्वदेवो मैत्रावरुणाश्विनस्तिस्र ऐन्द्राग्नेय [?] बार्हस्पत्या वैश्वदेव्यन्त्या त्रिष्टुप्पञ्चमी बृहती वैश्वदेवमेतदेवमनुन्नासामि [?] सूक्तप्रयोगे वैश्वदेवत्वं सूक्तभेदप्रयोगे यल्लिङ्गं सा देवतेति । परुच्छेप ऋषिः । अन्त्या त्रिष्टुप् पञ्चमी बृहती । अन्या अत्यष्टयो निशेषाभावात् [?] । कृत्स्नं सूक्तं वैश्वदेवम् । तत्राद्यायां विश्वे देवा देवता । द्वितीयाया मित्रावरुणौ । अथ तिस्रोऽश्विदेवताकाः । ऐन्द्री षष्ठी । सप्तम्याग्नेयी । अष्टमी मारुती । नवम्यैन्द्राग्नी । दशमी बार्हस्पत्या । एकादशी वैश्वदेवी । सूक्तविनियोगो लैङ्गिकः । दशरात्रस्य षष्ठेऽहनि प्रउगशस्त्र आद्यं वैश्वदेवं तृचे प्रथमा षष्ठस्येति खण्डे सूत्रम् । अस्तु श्रौषळो सू नो अग्ने । आ. [?] इति ॥
+
+> *astu śrauṣaḍekādaśarcaṃ ṣaṣṭhaṃ sūktam | atrānukramaṇikā | astu śrauṣaḷekādaśa vaiśvadevo maitrāvaruṇāśvinastisra aindrāgneya [?] bārhaspatyā vaiśvadevyantyā triṣṭuppañcamī bṛhatī vaiśvadevametadevamanunnāsāmi [?] sūktaprayoge vaiśvadevatvaṃ sūktabhedaprayoge yalliṅgaṃ sā devateti | parucchepa ṛṣiḥ | antyā triṣṭup pañcamī bṛhatī | anyā atyaṣṭayo niśeṣābhāvāt [?] | kṛtsnaṃ sūktaṃ vaiśvadevam | tatrādyāyāṃ viśve devā devatā | dvitīyāyā mitrāvaruṇau | atha tisro 'śvidevatākāḥ | aindrī ṣaṣṭhī | saptamyāgneyī | aṣṭamī mārutī | navamyaindrāgnī | daśamī bārhaspatyā | ekādaśī vaiśvadevī | sūktaviniyogo laiṅgikaḥ | daśarātrasya ṣaṣṭhe 'hani praugaśastra ādyaṃ vaiśvadevaṃ tṛce prathamā ṣaṣṭhasyeti khaṇḍe sūtram | astu śrauṣaḷo sū no agne | ā. [?] iti ‖*
+
+*Anuvāda (Kannada).* The sūkta "*Astu śrauṣaṭ*" is the sixth sūkta in the twentieth anuvāka; it has eleven Ṛks. The Anukramaṇī says what is quoted above. The ṛṣi of this sūkta is Parucchepa. The last Ṛk has the metre Triṣṭubh; the fifth is Bṛhatī; the other Ṛks are of the metre called Atyaṣṭi. For the whole sūkta, taken together, the deities are the Viśvedevas. Taken separately: the first Ṛk has the Viśvedevas as deity; the second, Mitra and Varuṇa; the next three Ṛks have the Aśvins; the sixth, Indra; the seventh, Agni; the eighth, the Maruts; the ninth, Indra and Agni; the tenth, Bṛhaspati; the eleventh, the Viśvedevas. The application (*viniyoga*) of the sūkta is *laiṅgika* (by the indication of the text). Though on the whole the sūkta is addressed to the Viśvedevas, a separate application is stated for each Ṛk in relation to its deity. In the sacrifice called *Daśarātra*, performed over ten days, on the sixth day, when the *Praüga-śastra* is recited, a *tṛca* (triplet) addressed to the Viśvedevas is recited; that the first Ṛk of this sūkta is so applied is set out in the Āśvalāyana Śrautasūtra, in the section beginning *ṣaṣṭhasya*, by the sūtra *astu śrauṣaḷ… sū no agne* (continued on p. 37).
+
+### Printed p. 37  (PDF 55)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(The Anuvāda of the Anukramaṇī concluded: …the Ṛks of the sūkta thus have their several applications.)*
+
+**॥ ओम् ॥**
+
+**Sūkta 139** — Maṇḍala 1, Anuvāka 20, Sūkta 139; Aṣṭaka 2, Adhyāya 2, Varga [?3–4 as printed]. Number of Ṛks in the sūkta: 11. Ṛṣi: Parucchepa Daivodāsi. Devatā: Ṛk 1 Viśvedevāḥ; 2 Mitrāvaruṇau; 3–5 Aśvinau; 6 Indra; 7 Agni; 8 Marutaḥ; 9 Indrāgnī; 10 Bṛhaspati; 11 Viśvedevāḥ. Chandas: 1–4 and 6–10 Atyaṣṭi [?]; 5 Bṛhatī; 11 Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अस्तु श्रौषट् पुरो अग्निं धिया दध आ नु तच्छर्धो दिव्यं वृणीमह इन्द्रवायू वृणीमहे [?] ।
+> यद्ध क्राणा विवस्वति नाभा संदायि नव्यसी ।
+> अध प्र सू न उप यन्तु धीतयो देवाँ अच्छा न धीतयः ॥ १ ॥
+
+> *astu śrauṣaṭ puro agniṃ dhiyā dadha ā nu tacchardho divyaṃ vṛṇīmaha indravāyū vṛṇīmahe [?] |*
+> *yaddha krāṇā vivasvati nābhā saṃdāyi navyasī |*
+> *adha pra sū na upa yantu dhītayo devā~ acchā na dhītayaḥ ‖ 1 ‖*
+
+### Printed p. 38  (PDF 56)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Gist, mine: I set Agni before me with devotion; we quickly choose that divine might and Indra and Vāyu; when a new hymn has been given at the navel of the radiant one, may our prayers go to the gods.)*
+
+**॥ पदपाठः ॥**
+
+> अस्तु । श्रौषट् । पुरः । अग्निम् । धिया । दधे । आ । नु । तत् । शर्धः । दिव्यम् । वृणीमहे । इन्द्रवायू इति । वृणीमहे ।
+> यत् । ह । क्राणा । विवस्वति । नाभा । संदायि । नव्यसी ।
+> अध । प्र । सु । नः । उप । यन्तु । धीतयः । देवान् । अच्छ । न । धीतयः ॥ १ ॥
+
+> *astu | śrauṣaṭ | puraḥ | agnim | dhiyā | dadhe | ā | nu | tat | śardhaḥ | divyam | vṛṇīmahe | indravāyū iti | vṛṇīmahe |*
+> *yat | ha | krāṇā | vivasvati | nābhā | saṃdāyi | navyasī |*
+> *adha | pra | su | naḥ | upa | yantu | dhītayaḥ | devān | accha | na | dhītayaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *I place Agni before me on the northern altar with devotion; we quickly choose that divine might, and Indra and Vāyu; because a fresh hymn is offered, may our prayers come to us and go to the gods.* Small type; heavily doubtful, read only in part)
+
+> अहं पुरः पुरस्तात् उत्तरवेद्यां अग्निं आहवनीयम् [?] धिया प्रज्ञया प्रणयनादिकर्मणा [?] दधे । धारयामि । तच्छर्धः [?] तादृशं बलवन्तं नाग्निं [?] यद्वा तत्र शर्धः तादृशं मरुतां स्वरूपं बलं दिव्यं दिवि भवं नु क्षिप्रमा वृणीमहे । अभिमुख्येन सम्भजामहे । किञ्चेन्द्रवायू वृणीमहे । यद्ध स्मात्कारणाद्विवस्वति दीप्यमति [?] नाभा नाभौ भूम्याः [?] नाभिस्थाने देवयजने वेदिरूपे [?] । यद्वा । नाभौ सर्वफलस्य सम्बन्धके यज्ञे । यज्ञमाहुर्भुवनस्य नाभिमिति श्रुतेः । क्राणा कुर्वाणा स्वार्थप्रकाशनं [?] नवतरा स्तुतिरूपा वाक् संदायि सम्बद्ध्यते [?] ॥ [… the remainder of the bhāṣya (the *adha pra sū na upa yantu dhītayaḥ* part and its grammar) is in very small type and not read at this resolution; it is not given here …]
+
+> *ahaṃ puraḥ purastāt uttaravedyāṃ agniṃ āhavanīyam [?] dhiyā prajñayā praṇayanādikarmaṇā [?] dadhe | dhārayāmi | tacchardhaḥ [?] tādṛśaṃ balavantaṃ nāgniṃ [?] yadvā tatra śardhaḥ tādṛśaṃ marutāṃ svarūpaṃ balaṃ divyaṃ divi bhavaṃ nu kṣipramā vṛṇīmahe | abhimukhyena sambhajāmahe | kiñcendravāyū vṛṇīmahe | yaddha smātkāraṇādvivasvati dīpyamati [?] nābhā nābhau bhūmyāḥ [?] nābhisthāne devayajane vedirūpe [?] | yadvā | nābhau sarvaphalasya sambandhake yajñe | yajñamāhurbhuvanasya nābhimiti śruteḥ | krāṇā kurvāṇā svārthaprakāśanaṃ namsskṛtām [?] navatarā stutirūpā vāk saṃdāyi sambaddhyate [?] ‖ [… the remainder of the bhāṣya (the *adha pra sū na upa yantu dhītayaḥ* part and its grammar) is in very small type and not read at this resolution; it is not given here …]*
+
+**Pratipadārtha (Kannada).** (*aham* — I); *puraḥ* — in front, on the northern altar; *agnim* — the Āhavanīya-form Agni; *dadhe* — I have established; *divyam* — born in the heavenly world; *tat śardhaḥ* — that Agni-power (the Agni with power), or the power that is the combined form of the Maruts; *nu* — quickly (we); *ā vṛṇīmahe* — we resort to, with worship; *indravāyū* — Indra and Vāyu; *vṛṇīmahe* — we serve; *yat ha* — which (cause of our devotion); *vivasvati* — in the radiant; *nābhā* — at the navel of the earth, the altar, or at the sacrifice which is the navel of the world; *navyasī* — (our) fresh praise; *krāṇā* — doing, making its own light known; *saṃdāyi* — (offered to the gods) the speed… (continued on p. 39).
+
+---
+
+**Progress note:** **Sūkta 138 complete (printed pp. 14–36); Sūkta 139 in progress** (Anukramaṇī, header table and Ṛk 1 Saṃhitā, Pada, bhāṣya (partly), Pratipadārtha begun, to printed p. 38). Next: printed p. 39 (PDF 57) — Pratipadārtha of Ṛk 1 concluded, Bhāvārtha, printed English, Special Topics; then Ṛk 2. Images at 120 dpi in /tmp/v11a (PDF 33–60; recrop with crop_pages.py if lost, e.g. 61 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–4 of Sūkta 138 and Ṛk 1 of Sūkta 139 (p. 38 largely unread); Varga numerals of Sūkta 139 header (p. 37); Anukramaṇī small type (p. 36); all Ni./Ṛg/Bṛ. De. numerals and quotations; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
