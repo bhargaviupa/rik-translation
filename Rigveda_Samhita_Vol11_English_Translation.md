@@ -2202,4 +2202,146 @@ That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sa
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–83 done: Ṛks 1–8 complete; Ṛk 9 through printed English and most of its Special Topics — *dadhyaṅ* and the Aśvins' *madhuvidyā* story). Next: printed p. 84 (PDF 102) — rest of the Ṛk 9 Special Topics (*aṅgirāḥ*, *priyamedhaḥ*, *kaṇvaḥ*, *atriḥ*, *manuḥ* …) and grammar; then Ṛks 10–11 to finish the sūkta. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–9 largely unread; Ṛk 9 bhāṣya pp. 79–80 only partly read); Varga numerals of Sūkta 139; the Śatapatha Brāhmaṇa and Bṛhaddevatā quotations on pp. 81–83 are transcribed with many doubtful words (the Bṛ. De. verses especially); all Ni./Ṛg/Śa. Brā./Bṛ. De./Bṛ. Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 84  (PDF 102)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Special Topics of Ṛk 9, continued from p. 83.)* That Dadhīci was Agni's [associate] [?] is stated in the Taittirīya Saṃhitā. First:
+
+> त्वामग्ने पुष्करादध्यथर्वा निरमन्थत [?] । (…) पुष्करपर्णे हैनमुपश्रितमविन्दत् तमु त्वा दध्यङ्ङृषिरित्याह दध्यङ् वा आथर्वणस्तेजस्व्यासीत् तेज एवास्मिन् दधाति [?] ।
+
+> *tvāmagne puṣkarādadhyatharvā niramanthata [?] | (…) puṣkaraparṇe hainamupaśritamavindat tamu tvā dadhyaṅṅṛṣirityāha dadhyaṅ vā ātharvaṇastejasvyāsīt teja evāsmin dadhāti [?] |*
+
+(Tai. Saṃ. 5-[?]-[?]-[?] [?].) "O Agni, Dadhīci, the son of Atharvan, most radiant, found you, who had taken refuge in a lotus leaf" — having said this, then:
+
+> इन्द्रो दधीचो अस्थभिर्वृत्राण्यप्रतिष्कुतः । जघान नवतीर्नव ॥
+
+> *indro dadhīco asthabhirvṛtrāṇyapratiṣkutaḥ | jaghāna navatīrnava ‖*
+
+(Ṛ. Saṃ. 1-84-13 [?].) Having cited this Ṛk,
+
+> प्रजापतिरथर्वाणम् [?] … अग्निरेव दध्यङ्ङाथर्वणः … इन्द्रो दधीचो अस्थभिरिति यदिष्टकाभिर्जिनोति [?] ।
+
+> *prajāpatiratharvāṇam [?] … agnireva dadhyaṅṅātharvaṇaḥ … indro dadhīco asthabhiriti yadiṣṭakābhirjinoti [?] |*
+
+(Tai. Saṃ. 5-[?]-[?]-[?] [?].) Atharvan is Prajāpati; Dadhīci Ātharvaṇa is Agni; his bones are the bricks; reciting the mantra *indro dadhīco asthabhiḥ* the sacrificer builds the fire-altar with bricks. In this way the identity of Dadhīci with Agni is stated. The seer Parucchepa, the seer of the sūkta, tells of his own relation with such a Dadhīci, of great greatness.
+
+***aṅgirāḥ.*** The seer called Aṅgiras, or the line, or a synonym of Agni. Their explanation is given in the Special Topics of Ṛ. Saṃ. 1-1-[?]; 1-100-4 [?]; 1-119-[?] [?].
+
+***priyamedhaḥ.*** *Priyā asya medhāḥ* (Ni. 3-[?]) — he to whom sacrifices are dear, so Yāska's explanation. It can be an epithet of a seer devoted to sacrifice, or the name of a person. In the Ṛksaṃhitā the seership of some sūktas is known. Of this seer see the Special Topics of Ṛ. Saṃ. 1-14-3 [?].
+
+***kaṇvaḥ.*** The name of Kaṇva is very famous in the Ṛksaṃhitā and in the other Saṃhitās, Brāhmaṇas and so on. Much of the eighth maṇḍala of the Ṛgveda consists of sūktas seen by seers of the Kāṇva line, and that maṇḍala is known as the *Kāṇva-maṇḍala*. It is said in many places that he is a devotee dear to the Maruts and of exceeding greatness. For example, the Śatapatha Brāhmaṇa:
+
+### Printed p. 85  (PDF 103)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> चित्रामहं वृणे सुमतिं विश्वजन्यां यामस्य कण्वो अदुहत्प्रपीनां सहस्रधारां पयसा महीं गामिति कण्वो हैनां ददर्श सा हास्मै सहस्रधारा सर्वान्कामान्दुदोह [?] ।
+
+> *citrāmahaṃ vṛṇe sumatiṃ viśvajanyāṃ yāmasya kaṇvo aduhatprapīnāṃ sahasradhārāṃ payasā mahīṃ gāmiti kaṇvo haināṃ dadarśa sā hāsmai sahasradhārā sarvānkāmāndudoha [?] |*
+
+(Śa. Brā. 4-[?]-[?]-[?] [?].) In these sentences it is said that Kaṇva milked a cow with a thousand streams (it was possible only for him), and obtained by her all his desires; his greatness is praised. The same is said in the Taittirīya Saṃhitā (Tai. Saṃ. 4-[?]-[?]). In the Bṛhaddevatā Kaṇva and Pragātha are said to be sons of Ghora, and:
+
+> कण्वश्चैव प्रगाथश्च घोरपुत्रौ बभूवतुः ।
+> गुरुणा तावनुज्ञातावूषतुः सहितौ वने ॥
+> वसतोस्तु तयोस्तत्र कण्वपत्न्याः शिरः स्पृशत् [?] ।
+> कृत्वा कनीयान् कण्वस्य उत्सङ्गे नान्वबुध्यत [?] ॥
+> शप्तुकामस्तु तं कण्वः क्रुद्धः पापाशिशङ्कया [?] ।
+> बोधयामास पादेन विधित्वान्नीव तेजसा [?] ॥
+> विदित्वा तस्य तं भावं प्रगाथे प्राञ्जलिस्त्वितः [?] ।
+> मातृत्वे च पितृत्वे च वरयामास तावुभौ ॥
+> स घोरो वाथ काण्वो ना वंशज्ञर्जपभुभिः सह [?] ।
+> देवर्शान्यैत्स्क सहिते ऋषिभुण्डलनुष्टमं [?] ॥
+
+> *kaṇvaścaiva pragāthaśca ghoraputrau babhūvatuḥ |*
+> *guruṇā tāvanujñātāvūṣatuḥ sahitau vane ‖*
+> *vasatostu tayostatra kaṇvapatnyāḥ śiraḥ spṛśat [?] |*
+> *kṛtvā kanīyān kaṇvasya utsaṅge nānvabudhyata [?] ‖*
+> *śaptukāmastu taṃ kaṇvaḥ kruddhaḥ pāpāśiśaṅkayā [?] |*
+> *bodhayāmāsa pādena vidhitvānnīva tejasā [?] ‖*
+> *viditvā tasya taṃ bhāvaṃ pragāthe prāñjalistvitaḥ [?] |*
+> *mātṛtve ca pitṛtve ca varayāmāsa tāvubhau ‖*
+> *sa ghoro vātha kāṇvo nā vaṃśajñarjapabhubhiḥ saha [?] |*
+> *devarśānyaitska sahite ṛṣibhuṇḍalanuṣṭamaṃ [?] ‖*
+
+(Bṛ. De. 6-[?] to [?] [?].) In these sentences the matter of the sūkta-seeing of the eighth maṇḍala by the Kāṇvas is told. Since the Pragāthas are of the Kāṇva line and the author of the first sūkta of the eighth maṇḍala is [also] a Pragātha, the Āśvalāyanas have called them all together *Pragātha*.
+
+***atriḥ.*** Atri and the Atri line are well known as the seers of the fifth maṇḍala of the Ṛksaṃhitā. Atri is said to be a son of Prajāpati, and the manner of this seer's origin is told in the Bṛhaddevatā:
+
+> त्रिसांवत्सरिकं सत्रं प्रजाकामः प्रजापतिः ।
+> आहरत्सहितः साध्यैर्विश्वैर्देवैः सहेच [?] ॥
+> तत्रे वाग्ब्रह्मेयेयां [?] अजगाम शरीरिणी ।
+> तां दृष्ट्वा युगपत्तत्र कस्मात् [?] वरुणस्य च ॥
+> शुक्रं चस्कन्द तद्वायुर्दृष्टं [?] …
+> केरोर्ज्योभ्मो [?] भृगुर्जज्ञे अङ्गारेभ्योऽङ्गिरा ऋषिः ॥
+
+> *trisāṃvatsarikaṃ satraṃ prajākāmaḥ prajāpatiḥ |*
+> *āharatsahitaḥ sādhyairviśvairdevaiḥ saheca [?] ‖*
+> *tatre vāgbrahmeyeyāṃ [?] ajagāma śarīriṇī |*
+> *tāṃ dṛṣṭvā yugapattatra kasmāt [?] varuṇasya ca ‖*
+> *śukraṃ caskanda tadvāyurdṛṣṭaṃ [?] …*
+> *kerorjyobhmo [?] bhṛgurjajñe aṅgārebhyo 'ṅgirā ṛṣiḥ ‖*
+
+### Printed p. 86  (PDF 104)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+> प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वाग्भ्यभाषत [?] ।
+> अभ्यामयप्रिस्त्रीयोः पि भवेदन्त्रे व मे सुते [?] ॥
+> प्रजापतिस्त्वथेत्युक्ताः प्रत्यभाषत भारतीम् [?] ।
+> ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः [?] ॥
+
+> *prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgbhyabhāṣata [?] |*
+> *abhyāmayapristrīyoḥ pi bhavedantre va me sute [?] ‖*
+> *prajāpatistvathetyuktāḥ pratyabhāṣata bhāratīm [?] |*
+> *ṛṣiratristato jajñe sūryānalasamadyutiḥ [?] ‖*
+
+(Bṛ. De. 4-[?] to [?] [?].) Once, when Prajāpati was performing the three-year *satra* sacrifice, the goddess of speech took a body and came there to take part. Because a disturbance of mind arose in Prajāpati, Bhṛgu and Aṅgiras were born. Then the goddess of speech prayed to Prajāpati that yet one more son might be born; Prajāpati agreed, and the seer Atri, with a radiance equal to the sun and fire, was born: so goes the story. The words अभ्यधायि यतामत्रिं महर्षिं दीप्ततेजसम् [?] (*abhyadhāyi yatāmatriṃ maharṣiṃ dīptatejasam [?]*) (Bṛ. De. 4-[?]) also praise this great seer's radiance. This follows the Nirukta sentence अत्रिक्रीव त्रयीयमुच्यते क्षोणः तस्मादत्रिः [?] (*atrikrīva trayīyamucyate kṣoṇaḥ tasmādatriḥ [?]*) (Ni. 3-[?]).
+
+In the Taittirīya Saṃhitā, praising the greatness of Atri, it is told how Atri performed the *Caturātra* sacrifice, which bestows wealth:
+
+> अत्रिरददा [?] … प्रजां पुत्रकामाय … स एतं चतुरात्रमपश्यत्तमाहरत्तेनायजत ततो वै तस्मै चत्वारो वीरा अजायन्त … य एवं वेद विद्वान् … तामेव यजमान यज्ञोति [?] ।
+
+> *atriradadā [?] … prajāṃ putrakāmāya … sa etaṃ caturātramapaśyattamāharattenāyajata tato vai tasmai catvāro vīrā ajāyanta … ya evaṃ veda vidvān … tāmeva yajamāna yajñoti [?] |*
+
+(Tai. Saṃ. 7-[?]-[?] [?].) In these sentences, telling of the wealth Atri obtained through the *Caturātra*, it is said that any sacrificer who knows this secret learnt from Atri and sacrifices will receive the same victory and prosperity as Atri.
+
+By the epithet *sūryānalasamadyutiḥ* the self-luminous nature of Atri is meant; the Ṛksaṃhitā and the Śatapatha Brāhmaṇa also describe how he lights even the sun and the like, the bases of light, when they are enveloped in darkness. For example:
+
+> गूळ्हं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविन्ददत्रिः [?] ।
+
+> *gūḷhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindadatriḥ [?] |*
+
+(Ṛ. Saṃ. 5-40-6 [?].)
+
+> अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अधुक्षत् [?] ।
+
+> *atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā adhukṣat [?] |*
+
+(Ṛ. Saṃ. 5-40-9 [?].)
+
+### Printed p. 87  (PDF 105)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+In such Ṛks the power of Atri is praised: when Svarbhānu (Rāhu) attacked the sun and caused darkness, the seer Atri destroyed the darkness and made the sun shine. Likewise in the Śatapatha Brāhmaṇa:
+
+> अत्रिर्णः [?] … होतासाप्येतेषाम् [?] … असुरस्तमसाभि पप्लुवे ते कुसयोत्रीमब्रुवन्नेहि प्रत्यज्ञं तमो जहीति स एतत् [?] … वै ज्योतिश्च इदं तमोऽसाबधीतीति तस्मा एतेज्योतिरिरण्यं … तस्मादात्रेयाय हिरण्यम् [?] ।
+
+> *atrirṇaḥ [?] … hotāsāpyeteṣām [?] … asurastamasābhi papluve te kusayotrīmabruvannehi pratyajñaṃ tamo jahīti sa etat [?] … vai jyotiśca idaṃ tamo 'sābadhītīti tasmā etejyotiriraṇyaṃ … tasmādātreyāya hiraṇyam [?] |*
+
+(Śa. Brā. 5-[?]-[?]-[?] [?].) When Atri was the *hotṛ* of the seers and was performing a sacrifice, the darkness of the Asuras spread all through the sacrificial hall. The seers sought Atri's help to destroy that darkness, and he destroyed it. Then the seers, recognising him as the embodiment of radiance, brought gold, a form of radiance, to give as a sacrificial gift.
+
+Atri's nature is not only physical radiance; it is spiritual radiance too, as the Bṛhadāraṇyaka and the like say:
+
+> अत्रिर्ह वै नामैतद्यदत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवति य एवं वेद [?] ।
+
+> *atrirha vai nāmaitadyadatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavati ya evaṃ veda [?] |*
+
+(Bṛ. Up. 2-[?]-[?] [?].)
+
+**Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly).** *januṣam* (root *janī prādurbhāve*; *janerusi* (U. Sū. 2-[?]) the *Auṇādika* suffix *usi*, giving *janus*; final-syllable accent by the suffix; accusative singular), *aṅgirāḥ* (Yāska says *aṅgirā aṅgārāḥ* (Ni. 3-[?]); the Aitareya Brāhmaṇa says *ye 'ṅgirā āsaṃs te 'ṅgiraso 'bhavan* (Ai. Brā. 3-[?]); so the name *Aṅgiras* comes by the name of *aṅgāra* [?], from Agni), *priyamedhaḥ* (Yāska: *priyā medhāḥ asya* (Ni. 4-[?]); *priyo medho yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-[?]) first-member accent), *atriḥ* (Yāska: *na vidyate trīṇi yasya saḥ atriḥ* (Ni. 3-[?]); the *tri* suffix, carried on by *ca* in the Uṇādi sūtra (U. Sū. 4-[?]), comes after the same root; first-syllable accent by *vyatyaya*). Sūtra numbers not read.
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–87 done: Ṛks 1–8 complete; Ṛk 9 through the Special Topics (*aṅgirāḥ*, *priyamedhaḥ*, *kaṇvaḥ*, *atriḥ*) and the start of its grammar). Next: printed p. 88 (PDF 106) — Special Topics (*manuḥ*) and grammar of Ṛk 9 concluded; then Ṛks 10–11 to finish the sūkta. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–9 largely unread); Varga numerals of Sūkta 139; the Taittirīya Saṃhitā, Śatapatha Brāhmaṇa, Bṛhaddevatā verse quotations on pp. 84–87 carry many doubtful words; all Ni./Ṛg/Tai./Śa. Brā./Bṛ. De./Bṛ. Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
