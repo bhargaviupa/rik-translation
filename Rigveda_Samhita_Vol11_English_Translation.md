@@ -3200,4 +3200,166 @@ In this Ṛk the spread of the flames of Agni, charming and terrible, of irresis
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–123 done: Ṛks 1–5 complete; Ṛk 6 through printed English and Special Topics, *vṛṣā* begun). Next: printed p. 124 (PDF 142) — Special Topics of Ṛk 6 continued (*vṛṣā* examples), grammar; then Ṛks 7–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–6 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); Ni./Ṛg/Śa. Brā./Tai. Saṃ. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 124  (PDF 142)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+> प्रेङ्खं होताधिरोहत्यौदुम्बरीमासन्दीमुद्गाता वृषा वै प्रेङ्खो योषासन्दी तन्मिथुनं मिथुनमेव तदुक्थमुखे करोति प्रजात्यै [?] ।
+
+> *preṅkhaṃ hotādhirohatyaudumbarīmāsandīmudgātā vṛṣā vai preṅkho yoṣāsandī tanmithunaṃ mithunameva tadukthamukhe karoti prajātyai [?] |*
+
+(Ai. Āraṇyaka 1-[?]-[?].) The *hotṛ* mounts the swing (*āndolana*), the *udgātṛ* the *audumbarī* seat (*āsandī*). The swing is the male (*vṛṣā*), the seat is the female (*yoṣā*). Those who desire offspring must obtain this pair before reciting the mantras: so say the sentences of the Aitareya Āraṇyaka; and likewise —
+
+> ब्रह्म वै हिंकारो ब्रह्मैतदर्धर्चैव [?] तद्ब्रह्म प्रतिपद्यते य एवं वेद । यदेव हिंकारेण प्रतिपद्यते वृषा वै हिंकारो योषर्क् [?] तन्मिथुनं मिथुनमेव तदुक्थमुखे करोति प्रजात्यै ।
+
+> *brahma vai hiṃkāro brahmaitadardharcaiva [?] tadbrahma pratipadyate ya evaṃ veda | yadeva hiṃkāreṇa pratipadyate vṛṣā vai hiṃkāro yoṣark [?] tanmithunaṃ mithunameva tadukthamukhe karoti prajātyai |*
+
+(Ai. Ār. [?]-[?]-[?].) The *hiṃkāra* is the male (*vṛṣā*), the Ṛk the female. One who desires offspring must secure this pair. In this sentence too the word *vṛṣā* stands as a synonym of "male" (*puṃstva*): it means a person with the power of sprinkling semen, who may be a man or a horse and other animals. On this basis the word is also used for the males of horses and other creatures.
+
+In the Ṛk-saṃhitā too:
+
+> असमं क्षत्रमसमा मनीषा प्र सोमपा अपसा सन्तु नेमे । ये त इन्द्र ददुषो वर्धयन्ति महि क्षत्रं स्थविरं वृष्ण्यं च ॥
+
+> *asamaṃ kṣatramasamā manīṣā pra somapā apasā santu neme | ye ta indra daduṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In the Ṛk containing *vṛṣṇyam*, the word is taken as *vṛṣatvam*, maleness with the power of sprinkling (*secana-sāmarthya*).
+
+> पूर्वीरहं शरदः शश्रमाणा दोषा वस्तोरुषसो जरयन्तीः । मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ॥
+
+> *pūrvīrahaṃ śaradaḥ śaśramāṇā doṣā vastoruṣaso jarayantīḥ | mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In the Ṛk containing *vṛṣaṇaḥ*, the word is explained as *sektāraḥ puruṣāḥ*, "males, who sprinkle". In many other places likewise the word is used in senses that indicate the masculine and the power of the male creature. And further:
+
+> महाँ असि महिष वृष्ण्येभिर्धनस्पृदुग्र सहमानो अन्यान् । एको विश्वस्य भुवनस्य राजा स योधया च क्षयया च जनान् ॥
+
+> *mahā~ asi mahiṣa vṛṣṇyebhirdhanaspṛdugra sahamāno anyān | eko viśvasya bhuvanasya rājā sa yodhayā ca kṣayayā ca janān ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].)
+
+### Printed p. 125  (PDF 143)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+> वृष[?]भ्नो [?] मित्रो अद्य [?] । वि चर्मेव [?] धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ण्यम् [?] ।
+
+> *vṛṣa[?]bhno [?] mitro adya [?] | vi carmeva [?] dhiṣaṇe avartayadvaiśvānaro viśvamadhatta vṛṣṇyam [?] |*
+
+(Ṛ. Saṃ. [?]-[?]-[?]; this Ṛk is only partly legible at this resolution.) In these and many other Ṛks the word *vṛṣan* commonly has the sense of virility (*vīrya*) and prowess (*parākrama*). In the present Ṛk, since the comparison is with the speed and excellence of bulls rushing forward in a herd of cows, the sense must be the unobstructed power (*apratihata śakti*). Here the thickets are compared with wives and Agni with the husband; Agni's entry into the thickets is ornamental (*alaṅkāraprāya*) like the union of husband and wife, so the Ṛk says *bhūṣan … adhi namnate*.
+
+***śumbhate*** — this word arises from the root *śubh* in the sense of shining, or from *śumbh* in the sense of hurting (*hiṃsā*); since there is no cause here for the second sense, the first alone is intended.
+
+> व्यचस्वतीरुर्विया वि श्रयन्तां पतिभ्यो न जनयः शुम्भमानाः । देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः ॥
+
+> *vyacasvatīrurviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ | devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-[?].) Citing this Ṛk, the Nirukta author (Ni. [?]-[?]) explains *śumbhamānāḥ* as *śobhamānāḥ*, "shining"; so here too the sense is "shining together", *saha dīpayati*, as the commentary says.
+
+***durgṛbhiḥ*** — *kenāpi gṛhītum aśakyaḥ*: one that cannot be seized by anyone; the sense is: of unobstructed power, whom no one can stop. In other places too the unobstructed power of Agni is spoken of:
+
+> उत स्म दुर्गृभीयसे पुत्रो न ह्वार्याणाम् । पुरू यो दग्धासि वनाग्ने पशुर्न यवसे [?] ॥
+
+> *uta sma durgṛbhīyase putro na hvāryāṇām | purū yo dagdhāsi vanāgne paśurna yavase [?] ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) In this Ṛk too, by the word *durgṛbhīyase*, the same is described.
+
+***davidhāva*** — *ātmīyaṃ rathaṃ cālayati*: sets his own chariot in motion; the sense is that the terrifying movement, the tremor and the swift spread of Agni are suggested by this word.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar pages 125–127, noted briefly).** Headwords treated: *bhūṣan* (root *bhūṣa alaṃkāre*; *śatṛ*), *babhruṣu* (suffix *uj* by the statement *ṛjādīnām upasaṃkhyānam*, sūtra number [?]; final-syllable accent), *namnate*, *patnīḥ*, *roruvat*, *ojāyamānaḥ*, *tanvaḥ*, *śumbhate*, *bhīmaḥ* (root *bhī bhaye*; *bhīmādayo 'pādāne*, sūtra number [?]), *śṛṅgā* (*śeś chandasi bahulam*, Pā. Sū. 6-1-[?]: elision of *śi*), *davidhāva* (root *dhū kampane*; *atiśaya* sense; *yaṅ-luk*; *liṭ*). Most sūtra numbers are in small type and marked [?].
+
+### Printed p. 126  (PDF 144)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*Grammar page (continuation of the Ṛk 6 grammar; noted briefly):* *namnate*, *gonaḥ* [?], *patnīḥ*, *roruvat*, *ojāyamānaḥ*, *tanvaḥ*, *śumbhate*, *bhīmaḥ*, *śṛṅgā*. Legible sūtra names include *vyatyayo bahulam*, *halādiśeṣaḥ*, *ṅit* and *ātmanepada* matters; sūtra numbers [?] (small type).
+
+### Printed p. 127  (PDF 145)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+*Grammar (end of Ṛk 6):* *davidhāva* (root *dhū kampane*, intensive sense; *yaṅ-luk*; *liṭ* gives *davidhāva*; accent noted at the end). ‖ 6 ‖
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> स संस्तिरो विष्टिरः सं गृभायति जानन्नेव जानतीर्नित्य आ शये ।
+> पुनर्वर्धन्ते अपि यन्ति देव्यमन्यद्वर्पः पित्रोः कृण्वते सचा ॥ ७ ॥
+
+> *sa saṃstiro viṣṭiraḥ saṃ gṛbhāyati jānanneva jānatīrnitya ā śaye |*
+> *punarvardhante api yanti devyamanyadvarpaḥ pitroḥ kṛṇvate sacā ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । संस्तिरः । विस्तिरः । सम् । गृभायति । जानन् । एव । जानतीः । नित्ये । आ । शये ।
+> पुनः । वर्धन्ते । अपि । यन्ति । देव्यम् । अन्यत् । वर्पः । पित्रोः । कृण्वते । सचा ॥ ७ ॥
+
+> *saḥ | saṃstiraḥ | vistiraḥ | sam | gṛbhāyati | jānan | eva | jānatīḥ | nitye | ā | śaye |*
+> *punaḥ | vardhante | api | yanti | devyam | anyat | varpaḥ | pitroḥ | kṛṇvate | sacā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni, now hidden, now spread out, seizes the fuel as if knowing the sacrificer's purpose; the flames, grown again, go to the divine, and together with it give another form to heaven and earth.* Small type; doubtful words marked)
+
+> सोऽग्निः संस्तिरः आच्छन्नः । संपूर्वात्स्तृणातेर्मूलविभुजादित्वात्कप्रत्ययः । [?] परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् ॥ तथा विस्तिरः कदाचिद्विस्तीर्णः सन् संगृभायति संगृह्णाति [?] । किंचाग्निः जानन्नेव यजमानार्थं प्रवृद्धेन भवितव्यमित्येवं ज्ञात्वैव [?] ज्वालाः जानतीः [?] नित्ये [?] सन् आ शये । आशेते । आश्रयतीत्यर्थः ॥ लोपस्त आत्मनेपदेष्विति तलोपः ॥ एवंभूता ज्वालाः पुनः पूर्वं [?] प्रवृद्धा एव पुनरपि यागयोग्या यथा भवन्ति तथा वर्धन्ते । देव्यं देवानां योग्यं [?] … यन्ति । [?] … अन्यत् वर्पः रूपं पित्रोः द्यावापृथिव्योः [?] सचा सह संभूय [?] कृण्वते कुर्वन्ति ॥ … [remainder of the small type not read]
+
+> *so 'gniḥ saṃstiraḥ ācchannaḥ | saṃpūrvātstṛṇātermūlavibhujāditvātkapratyayaḥ | [?] parādiśchandasi bahulamityuttarapadādyudāttatvam ‖ tathā vistiraḥ kadācidvistīrṇaḥ san saṃgṛbhāyati saṃgṛhṇāti [?] | kiṃcāgniḥ jānanneva yajamānārthaṃ pravṛddhena bhavitavyamityevaṃ jñātvaiva [?] jvālāḥ jānatīḥ [?] nitye [?] san ā śaye | āśete | āśrayatītyarthaḥ ‖ lopasta ātmanepadeṣviti talopaḥ ‖ evaṃbhūtā jvālāḥ punaḥ pūrvaṃ [?] pravṛddhā eva punarapi yāgayogyā yathā bhavanti tathā vardhante | devyaṃ devānāṃ yogyaṃ [?] … yanti | [?] … anyat varpaḥ rūpaṃ pitroḥ dyāvāpṛthivyoḥ [?] sacā saha saṃbhūya [?] kṛṇvate kurvanti ‖ … [remainder of the small type not read]*
+
+### Printed p. 128  (PDF 146)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+**Pratipadārtha (Kannada).** *saḥ* — Agni; *saṃstiraḥ* — (at one time) hidden, covered; *vistiraḥ* — (at another) spread out and coming into view; *saṃgṛbhāyati* — seizes (the fuel) by assailing it; *jānanneva* — as if knowing (the sacrificer's purpose) that he must grow; *jānatīḥ* — thus knowing, the flames; *nitye* — undying (?) [?]; *ā śaye* — takes refuge, lies down; *punaḥ* — again; *vardhante* — (these flames) grow by increase; *devyam* — the Agni who is divine, worthy of worship (by sacrifices etc.); *api yanti* — go and join; *sacā* — together with this sacrificial Agni; *pitroḥ* — their parents, or the protectors (of the world) heaven and earth; *anyat* — another, which was not before, wonderful; *varpaḥ* — (made of light) form; *kṛṇvate* — they make.
+
+**Bhāvārtha.** Agni, at one time hidden, at another spread out and coming into view, seizes the fuel as if knowing that he must grow for the sacrificer, and takes refuge in the flames he knows. Though these flames have grown, they again grow in the same way. And they go to and join that Agni, who is worthy of worship and is useful in sacrifices and the like; together with this sacrificial Agni they make another, unprecedented form of light for their parents, heaven and earth, the protectors of the world.
+
+**English Translation (as printed).** Now hidden, now displayed, he seizes (on the fuel), as if understanding (the purpose of the worshipper), and even reposes amidst the conscious (flames): again they break forth, and repair to the divine (fire of sacrifice), blending with which they give a different (luminous) form to their parent (heaven and earth).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** By the epithet *durgṛbhiḥ* in the previous Ṛk Agni's unobstructed power was shown; here the word *saṃgṛbhāyati* indicates the unobstructed spreading, and the epithets *saṃstiraḥ* and *vistiraḥ* explain the order of that spreading.
+
+***jānanneva*** — *yajamānārthaṃ pravṛddhena bhavitavyam* [?] …: the sense is that he grows, knowing that he must be grown for the sacrificer. (continues on p. 129)
+
+### Printed p. 129  (PDF 147)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6 [?].)*
+
+> जनस्य गोपा अजनिष्ट जागृविरग्निः सुदक्षः सुविताय नव्यसे । घृतप्रतीको बृहता दिविस्पृशा द्युमद्वि भाति भरतेभ्यः शुचिः ॥
+
+> *janasya gopā ajaniṣṭa jāgṛviragniḥ sudakṣaḥ suvitāya navyase | ghṛtapratīko bṛhatā divispṛśā dyumadvi bhāti bharatebhyaḥ śuciḥ ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?]; Tai. Saṃ. [?]-[?]-[?].) As described in these passages, so here too the favourable growth of Agni is praised.
+
+***pitroḥ*** — *jagatpālayitroḥ*: the two protectors of the world, i.e. Heaven and Earth, or his own parents, Heaven and Earth.
+
+> उत मन्ये पितुरद्रुहो मनो मातुर्महि स्वतवस्तद्धवीमभिः । सुरेतसा पितरा भूम चक्रतुरुरु प्रजाया अमृतं वरीमभिः [?] ॥
+
+> *uta manye pituradruho mano māturmahi svatavastaddhavīmabhiḥ | suretasā pitarā bhūma cakratururu prajāyā amṛtaṃ varīmabhiḥ [?] ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In many Ṛks like this, since Heaven and Earth are called the parents of the world (*jagatpitṛ*), the first sense is clear; and for the second sense:
+
+> स रोचयज्जनुषा रोदसी उभे स मात्रोरभवत्पुत्र ईड्यः । हव्यवाळग्निरजरश्चनोहितो दूळभो [?] विशामतिथिर्विभावसुः ॥
+
+> *sa rocayajjanuṣā rodasī ubhe sa mātrorabhavatputra īḍyaḥ | havyavāḷagnirajaraścanohito dūḷabho [?] viśāmatithirvibhāvasuḥ ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].)
+
+> अग्ने दिवः सूनुरसि प्रचेतास्तना पृथिव्या उत विश्ववेदाः । ऋधग्देवाँ इह यजा चिकित्वः ॥
+
+> *agne divaḥ sūnurasi pracetāstanā pṛthivyā uta viśvavedāḥ | ṛdhagdevā~ iha yajā cikitvaḥ ‖*
+
+(Ṛ. Saṃ. 3-25-1.) In these Ṛks Agni is said to be the son of Heaven and Earth; hence the second sense is stated; so too this very idea:
+
+> स जातो गर्भो असि रोदस्योरग्ने चारुर्विभृत ओषधीषु । चित्रः शिशुः परि तमांस्यक्तून्प्र मातृभ्यो अधि कनिक्रदद्गाः ॥
+
+> *sa jāto garbho asi rodasyoragne cārurvibhṛta oṣadhīṣu | citraḥ śiśuḥ pari tamāṃsyaktūnpra mātṛbhyo adhi kanikradadgāḥ ‖*
+
+(Ṛ. Saṃ. 10-1-2.) is said; and in the Taittirīya Saṃhitā too this Ṛk is cited as an illustration and Agni is praised.
+
+***anyat varpaḥ kṛṇvate*** — they make an unprecedented form which was not there before. The sense is that, owing to the Mantra's power, Agni, with an exceeding brightness of his light, adorns the sacrificial ground.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, begun).** *saṃstiraḥ* — root *stṛñ ācchādane*; with the prefix *sam*, by the statement *ka prakaraṇe mūlavibhujādīnām upasaṃkhyānam* (Pā. Sū. 3-2-5 [?]), the suffix *ka*; … (continues on p. 130)
+
+---
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–129 done: Ṛks 1–6 complete; Ṛk 7 through Special Topics and the start of its grammar on p. 129). Next: printed p. 130 (PDF 148) — grammar of Ṛk 7 continued; then Ṛks 8–13. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–7 largely unread; Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 header read as 3, 4, 5, 6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛk 6 Special Topics Ṛg quotation on p. 125 only partly legible; Sūkta 137 and Pīṭhike flags as before.
