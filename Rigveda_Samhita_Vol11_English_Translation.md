@@ -4478,4 +4478,142 @@ The description in this Ṛk that Agni, as soon as kindled, becomes pure, gracio
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–177 done: Ṛks 1–3 complete; Ṛk 4 through printed English and Special Topics; grammar begun on p. 177)). Next: printed p. 178 (PDF 196) — grammar of Ṛk 4 concluded; then Ṛk 5. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 178  (PDF 196)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*Grammar (Ṛk 4, concluded):* *abhavat* (root *bhū sattāyām*; *laṅ*, third person singular; *tiṅ*, *nighāta*). ‖ 4 ‖
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आदिन्मातॄराविशद्यास्वा शुचिरहिंस्यमान उर्विया वि वावृधे ।
+> अनु यत्पूर्वा अरुहत्सनाजुवो नि नव्यसीष्ववरासु धावते ॥ ५ ॥
+
+> *ādinmātṝrāviśadyāsvā śucirahiṃsyamāna urviyā vi vāvṛdhe |*
+> *anu yatpūrvā aruhatsanājuvo ni navyasīṣvavarāsu dhāvate ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> आत् । इत् । मातॄः । आ । अविशत् । यासु । आ । शुचिः । अहिंस्यमानः । उर्विया । वि । ववृधे ।
+> अनु । यत् । पूर्वाः । अरुहत् । सनाऽजुवः । नि । नव्यसीषु । अवरासु । धावते ॥ ५ ॥
+
+> *āt | it | mātṝḥ | ā | aviśat | yāsu | ā | śuciḥ | ahiṃsyamānaḥ | urviyā | vi | vavṛdhe |*
+> *anu | yat | pūrvāḥ | aruhat | sanā 'juvaḥ | ni | navyasīṣu | avarāsu | dhāvate ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni, bright and praised, entered the ten quarters, his mothers, in which he grew unharmed; then he ascends the old branches in order and runs among the newer, inferior ones.* Small type; doubtful words marked)
+
+> अयमग्निः शुचिर्दीप्तः सन् आदित् पूर्वमन्त्रे यविष्ठो भवदित्युक्तत्वात्तदनन्तरमेव मातॄः उपादयित्रीर्मातृस्थानीया दश दिशः [?] आविशत् । सर्वतः प्राविशत् [?] । पूर्वत्र दशप्रमतिं जनयन्त योषण इत्युक्तत्वात् दिशां मातृत्वम् । दिक्षु प्रकाशेन व्याप्त इत्यर्थः । मातरो विशेष्यन्ते । यासु मातृषु अहिंस्यमानः परिपीड्यमान उर्विया उरु [?] अतिप्रभूतं नि [?] … वि ववृधे विविधं प्रवृद्धो ऽभवत् तास्वाविशदित्यन्वयः । यथा लोके कश्चित्त्रैजन्य [?] … सनाजुवः सनातनाः … [rest of the small type not read]
+
+> *ayamagniḥ śucirdīptaḥ san ādit pūrvamantre yaviṣṭho bhavadityuktatvāttadanantarameva mātṝḥ upādayitrīrmātṛsthānīyā daśa diśaḥ [?] āviśat | sarvataḥ prāviśat [?] | pūrvatra daśapramatiṃ janayanta yoṣaṇa ityuktatvāt diśāṃ mātṛtvam | dikṣu prakāśena vyāpta ityarthaḥ | mātaro viśeṣyante | yāsu mātṛṣu ahiṃsyamānaḥ paripīḍyamāna urviyā uru [?] atiprabhūtaṃ ni [?] … vi vavṛdhe vividhaṃ pravṛddho 'bhavat tāsvāviśadityanvayaḥ | yathā loke kaścittraijanya [?] … sanājuvaḥ sanātanāḥ … [rest of the small type not read]*
+
+**Pratipadārtha (Kannada).** (*ayam agniḥ* — this Agni;) *ā śuciḥ* — extremely bright; *ādit* — at once, having been praised in the preceding Ṛk; *yat* — when; *sanājuvaḥ* — [those] [?] ... of long standing; *pūrvāḥ* — the earlier, [dried] and excellent plants and the like; *anu* — in order, one after another; *aruhat* — mounts and burns; *navyasīṣu* — new; *avarāsu* — inferior (not so dry) plants and the like; *ni dhāvate* — enters and burns; then *yāsu* — in which ten quarters; *ahiṃsyamānaḥ* — unharmed (by others); *urviyā* — exceedingly; *vi vavṛdhe* — grew with flames of many kinds; *mātṝḥ* — the ten quarters standing in the places of mothers; *ā aviśat* — has entered, enveloping them on all sides.
+
+### Printed p. 179  (PDF 197)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Bhāvārtha.** This extremely brilliant Agni, as soon as he is praised in the preceding mantra, mounts successively the very ancient and excellent plants and the like, and also the new and not so excellent plants and the like, and burns them. Then, unharmed by others and exceedingly abundant, he grows with flames of many kinds in the ten quarters, and, entering them on all sides — the ten quarters standing in the places of mothers — he shines.
+
+**English Translation (as printed).** Therefore has the brilliant Agni entered the maternal (quarters of space), amidst which, pure and unharmed he had evolved into magnitude so that he mounted (the bushes) placed before him, as he had (consumed others) prior to them, and runs rapidly among the more recent and inferior branches.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***vi vavṛdhe*** — *vividhaṃ pravṛddho 'bhavat*: he grew great, covering the world with forms of many kinds; thus Agni's growth is described.
+
+***ādit*** — by this word the time and cause of Agni's growth are stated. In the previous mantra it was said "*yaviṣṭho 'bhavat*" (he became youthful); the sense is that as soon as he became youthful he grew; or, as soon as he was praised in the preceding mantra. The description that he entered all the plants and the like, both those well dried and favourable to the kindling of fire and those not well dried but green, and spread, is given in many places as the very manner of Agni's pervading.
+
+***sanājuvaḥ*** — though ancient, existing from a long time [?]; hence, the sense is that they were fit at the time of Agni's attack.
+
+### Printed p. 180  (PDF 198)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page 180, noted briefly).** *āviśat* (root *viśa praveśane*; *laṅ*, third person singular; *tiṅ*, *nighāta*), *ahiṃsyamānaḥ* (root *hisi hiṃsāyām*; *idito num dhātoḥ* gives *num*; *śānac* in the passive; *sārvadhātuke yak*; *anemuk*; *nañ*-compound, *tatpuruṣe tulyārthatṛtīya…* (Pā. Sū. 6-2-2): the accent of the first member of a negated compound), *urviyā* (*iyāḍiyājīkārāṇām upasaṃkhyānam*: *iyāt* for the case-ending; *cit*: last-syllable accent), *vāvṛdhe* (root *vṛdhu vṛddhau*; *liṭ*, third person singular; in Vedic, lengthening of the reduplicate in the *saṃhitā*; *ati-jñanta*, *nighāta*), *aruhat* (root *ruha bījajanmani prādurbhāve ca*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the present sense; *tip*; *itaś ca lopaḥ parasmaipadeṣu*; *kṛmṛdṛruhibhyaś chandasi* (Pā. Sū. 3-1-59) gives *aṅ* for *cli*; no *aḍ*; because of *yat*, *nighāta* is barred by *yadvṛttān nityam* (Pā. Sū. 8-1-66), and the augment *aḍ* is *udātta*, so *ādyudātta*), *navyasīṣu* (*nava*; *īyasun* in the sense of excess; *ugitaś ca* gives *ṅīp*; *yasyeti ca* drops the final *a*; *chāndasa* loss of the *ī* of *īyasun*; *nit*, first-syllable accent by *ñnityādir nityam*), *dhāvate* (root *dhāvu gatiśuddhyoḥ*; *laṭ*, third person singular; *ati-jñanta*, no *nighāta*). ‖ 5 ‖
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आदिद्धोतारं वृणते दिविष्टिषु भगमिव पप्रचानास ऋञ्जते ।
+
+> *ādiddhotāraṃ vṛṇate diviṣṭiṣu bhagamiva papracānāsa ṛñjate |*
+
+### Printed p. 181  (PDF 199)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> देवान्यत्क्रत्वा मज्मना पुरुष्टुतो मर्तं शंसं विश्वधा वेति धायसे ॥ ६ ॥
+
+> *devānyatkratvā majmanā puruṣṭuto martaṃ śaṃsaṃ viśvadhā veti dhāyase ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> आत् । इत् । होतारम् । वृणते । दिविष्टिषु । भगम्ऽइव । पप्रचानासः । ऋञ्जते ।
+> देवान् । यत् । क्रत्वा । मज्मना । पुरुऽस्तुतः । मर्तम् । शंसम् । विश्वधा । वेति । धायसे ॥ ६ ॥
+
+> *āt | it | hotāram | vṛṇate | diviṣṭiṣu | bhagam 'iva | papracānāsaḥ | ṛñjate |*
+> *devān | yat | kratvā | majmanā | puru 'stutaḥ | martam | śaṃsam | viśvadhā | veti | dhāyase ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *The priests and sacrificers choose Agni as hotṛ for the sake of the gods and adorn him as one adorns a king; for the much-praised, all-upholding Agni brings gods and mortal worshippers together by his sacrificial act and bodily strength, for the sake of food.* Small type; doubtful words marked)
+
+> होतारं होमनिष्पादकमाह्वातारं वा देवानां ऋद्दर्शनमग्निं [?] दिविष्टिषु दिवस्येषेषु [?] निमित्तभूतेषु वृणते । संभजन्ते । आदिदनन्तरमेव [?] तथा पप्रचानासः [?] स्तुत्या संपन्ना ऋत्विजो यजमानाः । प्रच्छेः [?] छान्दसो लिटः कानच् । ऋञ्जते प्रसाधयन्ति । किमिव । भगमिव । तं यथा जनाः प्रसाधयन्ति तद्वत् । यद्वा । महान्तं राजानमिव सूर्यं दीप्तिवत्त्वाज्जम् [?] … ऋञ्जतिः प्रसाधनकर्मेति यास्कः । यद्यस्मादयमग्निः पुरुष्टुतः बहुभिर्बहुधा वा स्तूयमानः क्रत्वा क्रतुना कर्मणा योगादिरूपेण [?] मज्मना शारीरेण बलेन च युक्तानेवान्यानृत्विग्यजमानान् [?] … देवान्मा क्रत्वा मज्मना च योजयितुं तथा मर्तं यजमानं शंसं स्तुतिं च स्तुत्यं वा तं विश्वधा विश्वस्य धर्ता यद्वा विश्वात्मकः [?] … वेति पूर्वोक्तान्मायते [?] । किमर्थं । धायसे हविर्लक्षणान्नाय । तस्माद्धोतारमग्निं वृणते ऋञ्जते च ॥ [partly unread]
+
+> *hotāraṃ homaniṣpādakamāhvātāraṃ vā devānāṃ ṛddarśanamagniṃ [?] diviṣṭiṣu divasyeṣeṣu [?] nimittabhūteṣu vṛṇate | saṃbhajante | ādidanantarameva [?] tathā papracānāsaḥ [?] stutyā saṃpannā ṛtvijo yajamānāḥ | praccheḥ [?] chāndaso liṭaḥ kānac | ṛñjate prasādhayanti | kimiva | bhagamiva | taṃ yathā janāḥ prasādhayanti tadvat | yadvā | mahāntaṃ rājānamiva sūryaṃ dīptivattvājjam [?] … ṛñjatiḥ prasādhanakarmeti yāskaḥ | yadyasmādayamagniḥ puruṣṭutaḥ bahubhirbahudhā vā stūyamānaḥ kratvā kratunā karmaṇā yogādirūpeṇa [?] majmanā śārīreṇa balena ca yuktānevānyānṛtvigyajamānān [?] … devānmā kratvā majmanā ca yojayituṃ tathā martaṃ yajamānaṃ śaṃsaṃ stutiṃ ca stutyaṃ vā taṃ viśvadhā viśvasya dhartā yadvā viśvātmakaḥ [?] … veti pūrvoktānmāyate [?] | kimarthaṃ | dhāyase havirlakṣaṇānnāya | tasmāddhotāramagniṃ vṛṇate ṛñjate ca ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** *papracānāsaḥ* — the priests and the sacrificers who worship (with oblations and with hymns); *hotāram* — Agni, who accomplishes the oblation or who gives the invitation to the gods; *diviṣṭiṣu* — for the gratification of the gods; *vṛṇate* — they worship; *ādit* — thereafter; *bhagam iva* — as one worships and adorns the sun in the form of Bhaga, or a king; *ṛñjate* — they adorn; *yat* — because; *puruṣṭutaḥ* — praised in many ways (or by many); *viśvadhā* — Agni, who protects and upholds all; *kratvā* — by the sacrificial act in the form of sacrifices and the like; *majmanā* — with bodily strength; *devān* — the gods, or the priests; *śaṃsam* — the praiser; *martam* — the sacrificer also; *veti* — brings together; *dhāyase* — for food in the form of oblations.
+
+### Printed p. 182  (PDF 200)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**Bhāvārtha.** The priests and the sacrificers worship Agni, who accomplishes the oblation, with the aim of gratifying the gods. As many adorn a king and worship him, so they adorn this one. Agni, praised by many and upholding the whole world, brings together, by sacrificial act and bodily strength, the gods, or the priests, and the devoted sacrificer, for the sake of food in the form of oblations.
+
+**English Translation (as printed).** Pious worshippers then adore the invoker (of the gods), for (the propitiation of) the dwellers in heaven, as (such men) adore a powerful prince, since the manylauded, and all-upholding (Agni) knows how by (holy) act and (bodily) strength to bring together the gods and their mortal worshippers for the sake of obtaining (mutual) sustenance.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***papracānāsaḥ*** — formed from the root *pṛc*, which gives the sense "to come in contact". It is an epithet of the priests and of the sacrificer: it means that the priests and sacrificers who worship Agni were joined with the oblations and the hymns, which are the means of worship. This word is used in contexts where identification is attained (*tādātmya*). For example —
+
+> अद्भिः सोम पप्रचानस्य ते रसोऽव्यो वारं वि पवमान धावति । स मृज्यमानः कविभिर्मदिन्तम स्वदस्वेन्द्राय पवमान पीतये ॥
+
+> *adbhiḥ soma papracānasya te raso 'vyo vāraṃ vi pavamāna dhāvati | sa mṛjyamānaḥ kavibhirmadintama svadasvendrāya pavamāna pītaye ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?]; read with doubt.) In this Ṛk *papracānasya te* addresses the Soma that is to be mixed with purified water. Here the word is used because of the aptness of the mingling of Soma juice and water. In the present Ṛk also an inseparable relation between the priests and the oblations, which they hold with undivided mind and worship with the utmost devotion and faith, is suggested.
+
+***hotāram*** — *homaniṣpādakam āhvātāraṃ vā*: the one who accomplishes the oblation by offering substances, or the one who gives the invitation to the gods: thus the word *hotṛ* has two senses, since there are two kinds of acts. The same view in the Aitareya Brāhmaṇa — (continues on p. 183)
+
+### Printed p. 183  (PDF 201)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> यज्ञो वै देवेभ्य उदक्रामत्तमन्विच्छन्भिः प्रैषैः प्रैषमैच्छन् [?] … अनुवित्त्वा [?] यज्ञो राधेनैति [?] … आहुतिर्वै नाम्नाम् [?] … यजमानस्य … ऊतयः खलु वै ता नाम यद्भिर्देवा यजमानस्य जवनायन्ति ये वै पन्थानो यः स्रुतयस्ता वा ऊतयस्त [?] …
+
+> *yajño vai devebhya udakrāmattamanvicchanbhiḥ praiṣaiḥ praiṣamaicchan [?] … anuvittvā [?] yajño rādhenaiti [?] … āhutirvai nāmnām [?] … yajamānasya … ūtayaḥ khalu vai tā nāma yadbhirdevā yajamānasya javanāyanti ye vai panthāno yaḥ srutayastā vā ūtayasta [?] …*
+
+(Ai. Brā. 1-[?]; this passage is garbled at this resolution.) Once the sacrifice went away from the gods. Then, offering oblations, they got it back. *Āhuti*, "oblation", means the offering by the invocation, pronouncing the name of the deity. If it is said that one who offers such an oblation is called *hotṛ*, then another question arises —
+
+> तेदामयज्ञेन [?] जुहोत्यथ यो नु चाहि यजति च कस्मात्तं होतेत्याचक्षते इति यद्यावानस तत्र यथाभजनं देवता अमुमावहामुमावहेत्यावापयति तदेव होतुर्होतृत्वं होता भवति । होतेत्येनमाचक्षते य एवं वेद ॥
+
+> *tedāmayajñena [?] juhotyatha yo nu cāhi yajati ca kasmāttaṃ hotetyācakṣate iti yadyāvānasa tatra yathābhajanaṃ devatā amumāvahāmumāvahetyāvāpayati tadeva hoturhotṛtvaṃ hotā bhavati | hotetyenamācakṣate ya evaṃ veda ‖*
+
+(Ai. Brā. 1-[?].) The one who offers the oblation is one, and the one who gives the invitation for the offering and recites the mantra is another; how does the name *hotṛ* apply to the one who recites the mantra? — to this question: since the reciter of this mantra calls the various deities in accordance with each offering's outcome, the name *hotṛ* is rightly his. After this explanation, the Brāhmaṇa gives —
+
+> मनो वै यज्ञस्य मैत्रावरुणो वाग्यज्ञस्य होता ।
+
+> *mano vai yajñasya maitrāvaruṇo vāgyajñasya hotā |*
+
+(Ai. Brā. 2-[?].) — in this sentence it says that there is identity between the speech reciting the mantra and the *hotṛ*. And again —
+
+> सीद होतः स्व उ लोके चिकित्वान्त्सादया यज्ञं सुकृतस्य योनौ । … अग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदिनाभिः [?] … नि होता होतृषदने विदान इत्यग्निर्वै देवानां होता तस्यैतत्स्वं होतृषदनं यदुत्तरवेदिनाभिः ॥
+
+> *sīda hotaḥ sva u loke cikitvāntsādayā yajñaṃ sukṛtasya yonau | … agnirvai devānāṃ hotā tasyaiṣa svo loko yaduttaravedinābhiḥ [?] … ni hotā hotṛṣadane vidāna ityagnirvai devānāṃ hotā tasyaitatsvaṃ hotṛṣadanaṃ yaduttaravedinābhiḥ ‖*
+
+(Ai. Brā. 1-[?]; read with doubt.) Such sentences address Agni, the accomplisher of oblations, as the *veda-hotṛ* [?]. Hence in the present Ṛk, for the word *hotāram*, the commentator has given the sense *homaniṣpādakam āhvātāraṃ vā* and shown it to be an epithet of Agni.
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–183 done: Ṛks 1–5 complete; Ṛk 6 through printed English and Special Topics (*papracānāsaḥ*, *hotāram*))). Next: printed p. 184 (PDF 202) — Special Topics of Ṛk 6 continued (*hotāram*), grammar; then Ṛk 7. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
