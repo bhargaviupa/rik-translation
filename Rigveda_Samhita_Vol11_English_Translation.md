@@ -7856,4 +7856,172 @@ The other qualities and powers of Mātariśvan will be told later at the suitabl
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–301 done (Anukramaṇī and Anuvāda; Ṛk 1 and Ṛk 2 complete with Special Topics and grammar; Ṛk 3 begun: Saṃhitā and Pada on p. 301, the bhāṣya to follow on p. 302). Next: printed p. 302 (PDF 320). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293 read at low confidence; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 302  (PDF 320)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+**॥ सायणभाष्यम् ॥** (Ṛk 3; Sanskrit, not rendered in English; gist: *The blazing, undecaying rays of this lovely-faced Agni spread everywhere, bright, piercing the darkness of night, and never cease from their work; like the streams of a river, or the rays of the sun, they are never idle.* Small type, only partly read)
+
+> अस्य स्तूयमानस्याग्नेस्त्वेषा दीप्तयोऽजरा जरारहिता अजीर्णाः । अविरीताः [?] इत्यर्थः । नीलो [?] जरमारेतादि [?] … कथा सुप्रतीकस्य शोभनमुखस्याग्नेर्भानवो रश्मयः । दीप्तेरुक्तत्वादत्र विष्णुलिङ्गा [?] … ते च सुसंदृशः सुष्ठु सम्यग्द्रष्टारः [?] सर्वतो व्याप्ता इत्यर्थः । सुद्युतः सुष्ठु सर्वतो द्योतमानाः । त्वक्षः इति बलनाम त्वक्षः शर्धः इति बलनामसु पाठात् । भासमानं बलम् । अक्तूरिति रात्रिनामैतत् । अक्तून् [?] … । द्वितीयोर्थे प्रथमा । अक्तुं जगद्व्यञ्जकं नैकं तमोऽतिक्रम्य सिन्धवः स्यन्दमानाः सर्वत्र व्याप्नुवन्तोऽसन्तः स्वव्यापारेष्वसन्तोऽविरीताः । अतएव अजरा न रेजन्ते । न कम्पन्ते । दाहपाकादिषु न चलन्ति न चाल्यन्ते वान्यैः । यद्वा [?] … भात्वक्षसो भा इव त्वक्षो बलं यस्य ताद्वशस्यादित्यस्य सिन्धवो न रश्मय इव । ते यथा स्यन्दनशीला व्याप्तिमन्तः ॥ [?]
+
+> *asya stūyamānasyāgnestveṣā dīptayo 'jarā jarārahitā ajīrṇāḥ | avirītāḥ [?] ityarthaḥ | nīlo [?] jaramāretādi [?] … kathā supratīkasya śobhanamukhasyāgnerbhānavo raśmayaḥ | dīpteruktatvādatra viṣṇuliṅgā [?] … te ca susaṃdṛśaḥ suṣṭhu samyagdraṣṭāraḥ [?] sarvato vyāptā ityarthaḥ | sudyutaḥ suṣṭhu sarvato dyotamānāḥ | tvakṣaḥ iti balanāma tvakṣaḥ śardhaḥ iti balanāmasu pāṭhāt | bhāsamānaṃ balam | aktūriti rātrināmaitat | aktūn [?] … | dvitīyorthe prathamā | aktuṃ jagadvyañjakaṃ naikaṃ tamo 'tikramya sindhavaḥ syandamānāḥ sarvatra vyāpnuvanto 'santaḥ svavyāpāreṣvasanto 'virītāḥ | ataeva ajarā na rejante | na kampante | dāhapākādiṣu na calanti na cālyante vānyaiḥ | yadvā [?] … bhātvakṣaso bhā iva tvakṣo balaṃ yasya tādvaśasyādityasya sindhavo na raśmaya iva | te yathā syandanaśīlā vyāptimantaḥ ‖ [?]*
+
+**Pratipadārtha (Kannada).** *asya* — of this Agni; *tveṣāḥ* — the radiances; *ajarāḥ* — free from decay; *supratīkasya* — who has an excellent face; *asya* — of this Agni; *bhānavaḥ* — the rays (sparks); *susaṃdṛśaḥ* — which spread so as to be visible to all; *sudyutaḥ* — most bright; *agneḥ* — of Agni; [*bhātvakṣasaḥ* — the powers of brilliant form]; *aktūn* — the darkness that pervades (the world); *ati* — crossing over (piercing); *sindhavaḥ* — flowing; *asantaḥ* — without breaks (in their work); *ajarāḥ* — not wasting away; *na rejante* — (in their tasks) they do not hesitate; [(or) *bhātvakṣasaḥ* — the sun, with brilliant strength; *sindhavaḥ na* — like rays; *aktūn ati* — piercing the darkness; *asantaḥ* — [and] without breaks (in their duties); *rejante* — they spread in the form of vibration].
+
+**Bhāvārtha.** The radiances of Agni do not decay. The rays — the fire-crown — of this Agni of excellent face spread so as to be seen by all and are most bright. The radiance of this Agni, like the rays of the sun whose strength is brilliant, pierces the darkness that pervades the world, and without a break, undiminished in their work, they pervade the world.
+
+---
+
+### Printed p. 303  (PDF 321)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+**English Translation (as printed).** His radiance is undecaying ; the rays of him who is of pleasing aspect, are everywhere visible and bright : the intensely shining, all-pervading, unceasing, undecaying (rays) of Agni, desist not (from their functions).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk the radiance of Agni and his power in the form of radiance, which pierce the darkness, are described as ever pursuing their work.
+
+***supratīkasya*** — *pratīkam* means "face" (*mukha*), or "radiant" (*prakāśāḍhyam*), or "appearance" (*darśana*). The word *pratīka* means a face, or an appearance, in a body of brightness. The Nirukta author:
+
+> यावन्नात्रमुषसो न प्रतीकं सुसंकाशं [?] … मातरिश्वा ।
+> तावद्दधात्मन्युप यज्ञमायन् ब्राह्मणो होतुरवरो निषीदन [?] ॥
+
+> *yāvannātramuṣaso na pratīkaṃ susaṃkāśaṃ [?] … mātariśvā |*
+> *tāvaddadhātmanyupa yajñamāyan brāhmaṇo hoturavaro niṣīdana [?] ‖*
+
+(Ṛ. Saṃ. 10-88-[?]; partly legible.) Citing this Ṛk, he explains *pratīka* as "an appearance (*ābhāsa*) that has brightness (*kānti*)". In this Ṛk the word is used by combining the two meanings, "a shining appearance" and "face".
+
+***bhānavaḥ*** — the word *bhānu* has two meanings, "sun" and "rays".
+
+> उदपप्तन्नरुणा भानवो वृथा स्वायुजो अरुषीर्गा अयुक्षत ।
+> अक्रन्नुषासो वयुनानि पूर्वथा रुशन्तं भानुमरुषीरशिश्रयुः ॥
+
+> *udapaptannaruṇā bhānavo vṛthā svāyujo aruṣīrgā ayukṣata |*
+> *akrannuṣāso vayunāni pūrvathā ruśantaṃ bhānumaruṣīraśiśrayuḥ ‖*
+
+(Ṛ. Saṃ. 1-92-2.) In this Ṛk the "rays" of the ruddy dawns are being described, [rising] ……; their ruddy forms [are said to have been united with the sun / worked] …; thus for the word *bhānu* both meanings are seen in one and the same Ṛk. In the Aitareya Brāhmaṇa:
+
+> कविरस्तो बृहता भानुनागा हव्या जुषस्व ।
+
+> *kavirasto bṛhatā bhānunāgā havyā juṣasva |*
+
+(Ai. Brā. 3-[?].) "with his great splendour, come; accept the offerings": thus great Agni is prayed to come with his radiance. In the same way here the word means "rays", the radiating light of Agni.
+
+***susaṃdṛśaḥ*** — *suṣṭhu samyag draṣṭāraḥ* [?]: "seen well by all"; the meaning is "pervading so as to be visible to all".
+
+---
+
+### Printed p. 304  (PDF 322)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+***aktūn*** — this word is read among the names of Night, in the list beginning with *śyāvī*, *kṣapā*, *śarvarī* (Ni. 1-[?]). In many places the word *aktu* means "night"; it has also the meanings "ray", "weapon" and the like. The root *añj* gives the sense of "to cover", "to anoint", "to be bright", and so "to pervade"; from this, "night" (as it covers); "ray" (as it spreads); "weapon" (as it covers the body): these are the meanings. For example —
+
+> घनेव विष्वग्वि जह्यराव्णस्तपुर्जम्भ यो अस्मध्रुक् ।
+> यो मर्त्यः शिशीते अत्यक्तुभिर्मा नः स रिपुरीशत ॥
+
+> *ghaneva viṣvagvi jahyarāvṇastapurjambha yo asmadhruk |*
+> *yo martyaḥ śiśīte atyaktubhirmā naḥ sa ripurīśata ‖*
+
+(Ṛ. Saṃ. 1-36-[?].) In this Ṛk *aktubhiḥ* is explained as *āvarakair āyudhaiḥ* ("with covering weapons"). It is thus that in this meaning the word has been employed in the plural; the use of the meanings "night", "ray" and "darkness (that spreads with night)" is greater.
+
+> उत्तानायामजनयन्सुषूतं भुवदग्निः पुरुपेशासु गर्भः ।
+> शिरिणायां चिदक्तुना महोभिरपरीवृतो वसति प्रचेताः ॥
+
+> *uttānāyāmajanayansuṣūtaṃ bhuvadagniḥ purupeśāsu garbhaḥ |*
+> *śiriṇāyāṃ cidaktunā mahobhiraparīvṛto vasati pracetāḥ ‖*
+
+(Ṛ. Saṃ. 3-1-[?].) In such Ṛks *aktunā* is *añjanādiguṇakena tamasā*, "by the darkness that has the quality of covering". As explained here also in the present Ṛk, the meaning of *aktūn* is "the darkness that pervades the world": the Agni, radiance, is said to pierce such darkness.
+
+***asantaḥ*** — *svavyāpāreṣu asajjantaḥ aviratāḥ* ("not clinging, ceaseless, in their own tasks"): without sloth, with unbroken activity in their own tasks, "endowed with ceaseless activity", the meaning. The Nirukta author —
+
+> अति वायोः ससतो याहि शश्वतो यत्र ग्रावा वदति तत्र गच्छतं गृहमिन्द्रश्च गच्छतम् ।
+> वि सूनृता ददृशे रीयते घृतमा पूर्णया नियुता याथो अध्वरमिन्द्रश्च याथो अध्वरम् ॥
+
+> *ati vāyoḥ sasato yāhi śaśvato yatra grāvā vadati tatra gacchataṃ gṛhamindraśca gacchatam |*
+> *vi sūnṛtā dadṛśe rīyate ghṛtamā pūrṇayā niyutā yātho adhvaramindraśca yātho adhvaram ‖*
+
+(Ṛ. Saṃ. 1-135-2.) citing this Ṛk, explains the word *sasataḥ* as "those who sleep" (*ālasyādinā nidrāṃ kurvataḥ*): such sloth and sleep do not exist for them (the rays), who are constantly engaged in their tasks.
+
+***bhātvakṣasaḥ*** — *tvakṣaḥ*, *śardhaḥ* are read as names of strength (Ni. 2-[?]; Nigh. 2-9 [?]) so *bhāsamānabalāḥ*: "those whose strength shines": the word *tvakṣa* is read among the names of strength, the meaning is "the shining power"…
+
+---
+
+### Printed p. 305  (PDF 323)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+> इन्द्रियं वीर्यमात्मन्धत्ते तेजो वा अग्निरिन्द्रियं वीर्यमिन्द्र उभे वीर्ये [?] ।
+
+> *indriyaṃ vīryamātmandhatte tejo vā agnirindriyaṃ vīryamindra ubhe vīrye [?] |*
+
+(Śa. Brā. 3-[?]-[?]-1.) By such Brāhmaṇa sentences the powers of Agni in the form of brilliance are described here.
+
+In this Ṛk Sāyaṇa has shown two modes of construction for the second half. First —
+
+*sindhavaḥ, asantaḥ, ajarāḥ* are epithets of *bhātvakṣasaḥ*: the powers (*śakti*), in the form of brilliance, which flow, which have no break in their tasks, and which do not waste away; *na rejante* is taken [as a negative], "they do not tremble": so that in their works they do not shiver; second:
+
+> न शब्दो दृष्टान्तवचनः । भात्वक्षसो भा इव त्वक्षो बलं यस्य ताद्दृशस्यादित्यस्य सिन्धवो न रश्मय इव । ते यथा स्यन्दनशीला व्याप्तिमन्तः । अक्तूरति अञ्जनं तमोऽतिक्रम्यासन्तो रेजन्ते तद्वद्भात्वक्षसोऽस्याग्नेरुक्तलक्षणा दीप्तयोऽपि सर्वत्र रेजन्ते कम्पन्ते । व्याप्नुवन्तीत्यर्थः ।
+
+> *na śabdo dṛṣṭāntavacanaḥ | bhātvakṣaso bhā iva tvakṣo balaṃ yasya tāddṛśasyādityasya sindhavo na raśmaya iva | te yathā syandanaśīlā vyāptimantaḥ | aktūrati añjanaṃ tamo 'tikramyāsanto rejante tadvadbhātvakṣaso 'syāgneruktalakṣaṇā dīptayo 'pi sarvatra rejante kampante | vyāpnuvantītyarthaḥ |*
+
+Here the *na* is "a word of comparison": "the rays of Āditya, of whom the strength is, as it were, brilliance (*bhā*): *sindhavaḥ na*, like rays; as they are flowing and pervading, and, crossing the darkness, unceasing they shake [spread]; so likewise the radiances of this Agni, described before, everywhere shake [spread]": the meaning is that they pervade. This is a *dṛṣṭānta* ("simile"); the author, taking the rays of the sun that pierce the darkness and pervade the world without interruption in their action, explains that the flames of Agni pervade in the same way.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *tveṣāḥ* (root *tviṣ dīptau*; *pāṭādiṣu* …: since it is in the *pāṭādi* list, *ac* suffix; the root has *guṇa* by *laghūpadha*; since *cit* the end is *udātta*), *ajarāḥ* (*na vidyate jarā yeṣāṃ te ajarāḥ*; *nañsvara*: the *nañ* …; *nañsubhyām* (Pā. Sū. 6-2-172): the last member's final is *udātta*), *asya* (*ūḍidam padādi…* (Pā. Sū. 6-1-171): the case-ending is *udātta*), *bhānavaḥ* (root *bhā dīptau*; *bhābhyāṃ nuḥ* (Uṇ. Sū. 3-[?]): suffix *nu*; the suffix-accent gives the last syllable *udātta*), *susaṃdṛśaḥ* (*su* + *saṃ* + root *dṛśir prekṣaṇe*; suffix *kvip*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the natural accent of the *kṛdanta*; nominative plural), *supratīkasya* (*śobhanaṃ pratīkaṃ yasya saḥ supratīkaḥ*, genitive; *krtvāyeddha…* (Pā. Sū. 6-[?]-[?]): by *uttarapada* the first-syllable *udātta*) *(continues on p. 306)*.
+
+---
+
+### Printed p. 306  (PDF 324)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+*bhātvakṣasaḥ* (*bhā eva tvakṣaḥ balaṃ yasya saḥ bhātvakṣāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member keeps its accent), *rejante* (root *reja kampane*; *laṭ*, third person plural; being after an *ati…* word, the *nighāta* accent), *asantaḥ* (*na sasantaḥ asantaḥ*; root *pasa spṛṣṭau* [?: *ṣasa*]; *śatṛ* in the present sense; nominative plural; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2): the *nañ* has its natural accent). ‖ 3 ‖
+
+---
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> यमेरिरे भृगवो विश्ववेदसं नाभा पृथिव्या भुवनस्य मज्मना ।
+> अग्निं तं गीर्भिर्हिनुहि स्व आ दमे य एको वस्वो वरुणो न राजति ॥ ४ ॥
+
+> *yamerire bhṛgavo viśvavedasaṃ nābhā pṛthivyā bhuvanasya majmanā |*
+> *agniṃ taṃ gīrbhirhinuhi sva ā dame ya eko vasvo varuṇo na rājati ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> यम् । आऽईरिरे । भृगवः । विश्वऽवेदसम् । नाभा । पृथिव्याः । भुवनस्य । मज्मना ।
+> अग्निम् । तम् । गीःऽभिः । हिनुहि । स्वे । आ । दमे । यः । एकः । वस्वः । वरुणः । न । राजति ॥ ४ ॥
+
+> *yam | ā 'īrire | bhṛgavaḥ | viśva 'vedasam | nābhā | pṛthivyāḥ | bhuvanasya | majmanā |*
+> *agnim | tam | gīḥ 'bhiḥ | hinuhi | sve | ā | dame | yaḥ | ekaḥ | vasvaḥ | varuṇaḥ | na | rājati ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *The Agni whom the Bhṛgus established on the navel of the earth, the lord of all wealth, ruling alone like Varuṇa: bring him by praises to our own house.* Small type; many words doubtful)
+
+> विश्ववेदसं सर्वधनं । वेद इति धननाम वेदो वरिव इति तेन्नामसु पाठात् । तादृशं यमग्निं भृगवो भृगुगोत्रोत्पन्नाः पाप्त्य [?] भर्जकाः [?] पृथिव्या वेद्याः एकदेशे कृत्स्नशब्दः । यद्वा [?] स्थिता वै पृथिवीत्यादिश्रुतेर्वेद्याः [?]
+
+> *viśvavedasaṃ sarvadhanaṃ | veda iti dhananāma vedo variva iti tennāmasu pāṭhāt | tādṛśaṃ yamagniṃ bhṛgavo bhṛgugotrotpannāḥ pāptya [?] bharjakāḥ [?] pṛthivyā vedyāḥ ekadeśe kṛtsnaśabdaḥ | yadvā [?] sthitā vai pṛthivītyādiśrutervedyāḥ [?]*
+
+---
+
+### Printed p. 307  (PDF 325)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 14 [?].)*
+
+*(Continuation of the bhāṣya.)*
+
+> पृथिवीत्वम् [?] । तस्मान्नाभावुत्तरवेद्यां भुवनस्य भूतजातस्य मज्मना बलेन निमित्तेन [?] तमग्निं स्वे स्वकीये दमे गृहे उत्तरवेद्यां गीर्भिः स्तुतिभिर्हिनुहि [?] प्रापय । हि गतौ वृद्धौ च । उत्तरवेद्यां इत्यादि । स्थितः पृष्ठे [?] यद्वा । उत्तरवेद्याः इत्यादि प्रत्ययानुवादेन [?] योऽग्निर्द्वन्द्वादीनां [?] एकः एकमात्रः सन् । एकैव वा वस्वो वसूनो गवादिधनस्य राजति ईश्वरो भवति । प्रदातुमिति शेषः । राजतिरैश्वर्यकर्मा [?] क्रियायुक्ताद्राजति राजतीति तन्नामसु पाठात् । तत्र दृष्टान्तः । वरुणो न वारकः आदित्य इव । स यथा सर्वस्येशे तद्वत् ॥
+
+> *pṛthivītvam [?] | tasmānnābhāvuttaravedyāṃ bhuvanasya bhūtajātasya majmanā balena nimittena [?] tamagniṃ sve svakīye dame gṛhe uttaravedyāṃ gīrbhiḥ stutibhirhinuhi [?] prāpaya | hi gatau vṛddhau ca | uttaravedyāṃ ityādi | sthitaḥ pṛṣṭhe [?] yadvā | uttaravedyāḥ ityādi pratyayānuvādena [?] yo 'gnirdvandvādīnāṃ [?] ekaḥ ekamātraḥ san | ekaiva vā vasvo vasūno gavādidhanasya rājati īśvaro bhavati | pradātumiti śeṣaḥ | rājatiraiśvaryakarmā [?] kriyāyuktādrājati rājatīti tannāmasu pāṭhāt | tatra dṛṣṭāntaḥ | varuṇo na vārakaḥ āditya iva | sa yathā sarvasyeśe tadvat ‖*
+
+**Pratipadārtha (Kannada).** *yaḥ* — which Agni; *varuṇaḥ na* — like Āditya; *ekaḥ* — having sole lordship; *vasvaḥ* — of the cattle and other wealth; *rājati* — is the lord; (and) *viśvavedasam* — who possesses all wealth; *yam* — which Agni; *bhṛgavaḥ* — the sages born in the lineage of Bhṛgu; *pṛthivyāḥ* — of the altar; *nābhā* — in the northern part (of the altar); *bhuvanasya* — of all beings; *majmanā* — with strength; *īrire* — established; *taṃ agnim* — that Agni; *sve dame* — into your own house (the *uttaravedi*); *gīrbhiḥ* — with praises; *ā hinuhi* — bring.
+
+**Bhāvārtha.** Bring, with praises, into the northern part of your own house, the altar, that Agni who rules alone, like Āditya, with sole lordship over the cattle and other wealth, and who is the possessor of all wealth, and whom the sages born in the lineage of Bhṛgu have established with the strength of all beings at the navel of the earth.
+
+**English Translation (as printed).** Bring to his own abode with hymns that Agni, the possessor of all riches, whom the descendants of Bhrigu placed by the strength of all beings upon the navel of the earth : for, like Veruna [sic], he reigns sole (monarch) over (all) treasure.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk, after praising Agni as the sole lord and as the owner of all wealth, the sacrificer is told to bring such a *viśvavedas* (all-wealthy) Agni, established on the northern part of the altar.
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–307 done (Anukramaṇī and Anuvāda; Ṛks 1–3 complete with Special Topics and grammar; Ṛk 4 *yam erire bhṛgavaḥ*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the opening of the Special Topics on p. 307, to continue on p. 308). Next: printed p. 308 (PDF 326). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293 read at low confidence; the bhāṣya of Ṛks 3–4 (pp. 302, 306–307) largely unread; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
