@@ -2894,4 +2894,154 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ---
 
-**Progress note:** **Sūkta 140 in progress** (printed pp. 99–111 done: Ṛks 1–2 complete; Ṛk 3 through Special Topics and most of its grammar, to the foot of p. 111). Next: printed p. 112 (PDF 130) — end of Ṛk 3 grammar, then Ṛk 4 onward (Ṛks 4–13 remain). Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–3 largely unread); Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); the Śa. Brā. quotations on p. 106 and the Taittirīya quotation on p. 110 are garbled in places; Ni./Ṛg/Ai. Brā./Śa. Brā./Tai. Saṃ. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 112  (PDF 130)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*(Grammar of Ṛk 3, concluded; noted briefly.)* *vardhanam* (concluded: the *guṇa* of the root's light penultimate; *rapara*; the first part of the suffix gets *udātta* by *liti* (Pā. Sū. 6-1-[?])). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> मुमुक्ष्वो मनवे मानवस्यते रघुद्रुवः कृष्णसीतास ऊ जुवः ।
+> असमना अजिरासो रघुष्यदो वातजूता उप युज्यन्त आशवः ॥ ४ ॥
+
+> *mumukṣvo manave mānavasyate raghudruvaḥ kṛṣṇasītāsa ū juvaḥ |*
+> *asamanā ajirāso raghuṣyado vātajūtā upa yujyanta āśavaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> मुमुक्ष्वः । मनवे । मानवऽस्यते । रघुऽद्रुवः । कृष्णऽसीतासः । ऊँ इति । जुवः ।
+> असमनाः । अजिरासः । रघुऽस्यदः । वातऽजूताः । उप । युज्यन्ते । आशवः ॥ ४ ॥
+
+> *mumukṣvaḥ | manave | mānava 'syate | raghu 'druvaḥ | kṛṣṇa 'sītāsaḥ | ū~ iti | juvaḥ |*
+> *asamanāḥ | ajirāsaḥ | raghu 'syadaḥ | vāta 'jūtāḥ | upa | yujyante | āśavaḥ ‖ 4 ‖*
+
+*(Gist, mine: Agni's flames — swift, dark-tracked, restless, wind-driven, all-pervading — are kindled together for the devout sacrificer, to lead him to Brahma's world.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the flames of Agni, swift, dark-tracked, of many minds, wind-borne, all-pervading, are kindled together in the sacrifice for the pious sacrificer, wishing to free him through the oblation and lead him to Brahma's world.* Small type; doubtful words marked)
+
+> मनवे मननवते मानवस्यते मानवानात्मन इच्छते [?] कर्मार्थमिच्छते यजमानाय । तदर्थमध्वर्य्वादिभिरग्निज्वाला उपयुज्यन्ते यज्ञेषु । सूक्ष्माः [?] … अग्नेर्यज्ञोपकारिणीति [?] । मुमुक्ष्वः मुमुक्षन्तः आहुतिद्वारा यजमानं मोक्तुमिच्छन्तः ब्रह्मलोकं प्रापयन्त्यः । जसादिषु छन्दसि वा वचनमिति गुणाभावः । ज्वालानामाहुतिद्वारा ब्रह्मलोकप्राप्तिसाधनत्वं [?] कालीकरालीत्युपक्रम्य [?] … श्रूयते [?] । विशेषेण यज्ञेषु रतः [?] भ्राजमानेषु यथाकालं … मुण्डकोपनिषदि [?] … इति । रघुद्रुवः क्षिप्रं गच्छन्त्यः । कृष्णसीतासः कृष्णमार्गाः । उकारः समुच्चयार्थः । जुवो जवनशीलाः शीघ्रकारिण्यः । स्वव्यापारेषु । असमनाः असमानमनस्काः । काश्चन प्राङ्मुख्यो गच्छन्ति काश्चन प्रत्यङ्मुख्य इति विविधमनस्काः । व्यत्ययेनैकवचनम् । यद्वा । असमनाः भिन्नवर्णाः । भिन्नवर्णत्वं च तत्रैव श्रूयते । काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः इति । अजिरासो गमनशीलाः रघुष्यदः शीघ्रं स्यन्दमानाः वातजूता वातप्रेरिताः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । आशवो व्यापनशीलाः ॥
+
+> *manave mananavate mānavasyate mānavānātmana icchate [?] karmārthamicchate yajamānāya | tadarthamadhvaryvādibhiragnijvālā upayujyante yajñeṣu | sūkṣmāḥ [?] … agneryajñopakāriṇīti [?] | mumukṣvaḥ mumukṣantaḥ āhutidvārā yajamānaṃ moktumicchantaḥ brahmalokaṃ prāpayantyaḥ | jasādiṣu chandasi vā vacanamiti guṇābhāvaḥ | jvālānāmāhutidvārā brahmalokaprāptisādhanatvaṃ [?] kālīkarālītyupakramya [?] … śrūyate [?] | viśeṣeṇa yajñeṣu rataḥ [?] bhrājamāneṣu yathākālaṃ … muṇḍakopaniṣadi [?] … iti | raghudruvaḥ kṣipraṃ gacchantyaḥ | kṛṣṇasītāsaḥ kṛṣṇamārgāḥ | ukāraḥ samuccayārthaḥ | juvo javanaśīlāḥ śīghrakāriṇyaḥ | svavyāpāreṣu | asamanāḥ asamānamanaskāḥ | kāścana prāṅmukhyo gacchanti kāścana pratyaṅmukhya iti vividhamanaskāḥ | vyatyayenaikavacanam | yadvā | asamanāḥ bhinnavarṇāḥ | bhinnavarṇatvaṃ ca tatraiva śrūyate | kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā | sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ iti | ajirāso gamanaśīlāḥ raghuṣyadaḥ śīghraṃ syandamānāḥ vātajūtā vātapreritāḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam | āśavo vyāpanaśīlāḥ ‖*
+
+### Printed p. 113  (PDF 131)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Pratipadārtha (Kannada).** *mumukṣvaḥ* — (the flames) that, through the oblation, secure Brahma's world for the sacrificer and set him free; *raghudruvaḥ* — swift-going; *kṛṣṇasītāsaḥ* — having a black path; *juvaḥ* — quick in their several works; *asamanāḥ* — blazing, spread in different directions, or of different colours; *ajirāsaḥ* — of a moving nature; *raghuṣyadaḥ* — flowing swiftly (charmingly); *vātajūtāḥ* — driven by the wind; *āśavaḥ* — (the flames of Agni) pervading all around; *manave* — for the sacrificer full of faith; *mānavasyate* — who honours and wishes (for the sake of the rite) for the sages; *upa yujyante* — are kindled together.
+
+**Bhāvārtha.** The flames of Agni — which, through the oblation, secure Brahma's world for the sacrificer and free him; swift; having a dark path; quick in their work of burning; spreading in different directions; of a moving nature; blazing swiftly and charmingly; driven by the wind; and pervading all around — are kindled together for the sacrificer, who is full of faith and honours the sages for the sake of the rite.
+
+**English Translation (as printed).** The (flames of Agni), light-moving, dark-trackel [sic], quick (consuming), capricious, restless, lambent, fanned by the wind, wide-spreading, and ensuring liberation (to the devout), are kindled for (the benefit of) the pious reverencer of (holy) priests.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***mumukṣvaḥ.*** *Āhutidvārā yajamānaṃ moktum icchantyaḥ brahmalokaṃ prāpayantyaḥ* — "wishing, through the oblation, to free the sacrificer and lead him to Brahma's world": a praising epithet of the flames, that they secure Brahma's world for the sacrificer and make him free. That Prajāpati created Agni in order that the fruit of the oblation, attainment of Brahma's world, should come to the sacrificer who sets up Agni on the earthly sacrificial altar and offers the oblation, is told in the Śatapatha Brāhmaṇa:
+
+> यत्र वै प्रजापतिः प्रजाः ससृजे । स यत्राग्निं ससृजे स इदं जातः सर्वमेव दग्धुं दध्रे [?] … ताः [?] प्रजा आसुस्ता हैनं सम्पेष्ट्वं [?] …
+
+> *yatra vai prajāpatiḥ prajāḥ sasṛje | sa yatrāgniṃ sasṛje sa idaṃ jātaḥ sarvameva dagdhuṃ dadhre [?] … tāḥ [?] prajā āsustā hainaṃ sampeṣṭvaṃ [?] …*
+
+### Printed p. 114  (PDF 132)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+> सम्पेष्पुं [?] … सहोवाच । ने वा इति तितिक्षे हन्त त्वा प्रविशानि तं मा जनयित्रा [?] बिभ्यहि [?] … त्वमस्मिँल्लोके जनयित्वा भरिष्यसि एवाहमेव त्वामुष्मिँल्लोके जनयित्वा भरिष्यामीति [?] ।
+
+> *sampeṣpuṃ [?] … sahovāca | ne vā iti titikṣe hanta tvā praviśāni taṃ mā janayitrā [?] bibhyahi [?] … tvamasmi~lloke janayitvā bhariṣyasi evāhameva tvāmuṣmi~lloke janayitvā bhariṣyāmīti [?] |*
+
+(Śa. Brā. [?]-[?]-[?]-[?] [?].) When Prajāpati created Agni, he ran round to burn up the whole world. Then the creatures created by Prajāpati himself tried to destroy Agni. Agni, unable to bear it, came to men and said: "I cannot withstand the retaliation that is to come upon me from you; I shall enter you. Hold me, making me come to be in the sacrificial house and the like. To those who do so I shall make it well in the other world." So he gave a boon. In the Aitareya Brāhmaṇa too:
+
+> सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिः [?] ।
+
+> *saiṣā svargyāhutiryadagnyāhutiḥ [?] |*
+
+(Ai. Brā. 1-[?]) The fruit of the Agni-oblation is thus praised. Likewise:
+
+> एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन् ।
+> तं नयन्त्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः ॥
+
+> *eteṣu yaścarate bhrājamāneṣu yathākālaṃ cāhutayo hyādadāyan |*
+> *taṃ nayantyetāḥ sūryasya raśmayo yatra devānāṃ patireko 'dhivāsaḥ ‖*
+
+(Muṇḍaka Up. 1-2-5.) As the Muṇḍaka and other Upaniṣads praise the fruit of making oblations — that to the sacrificer who offers oblations at fixed times in these shining flames of Agni, the oblations become the sun's rays and bring him to the place of the lord of the gods — so here too the flames of Agni that receive the oblations are described.
+
+***raghudruvaḥ.*** *Kṣipraṃ gacchantyaḥ* — "going swiftly": moving quickly.
+
+***asamanāḥ.*** *Asamānamanaskāḥ; kāścana prāṅmukhyo gacchanti kāścana pratyaṅmukhya iti vividhamanaskāḥ* — "of unlike minds: some go eastward, some westward" — that is, they spread and burn in different directions. Or *asamanāḥ* may mean *bhinnavarṇāḥ*, "of different colours".
+
+> काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा ।
+> स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥
+
+> *kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā |*
+> *sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*
+
+(Muṇḍaka [Up.] 1-2-4.) Since there is a description of the tongues of flame — black, of terrible form, swift as thought, deep red, smoky brown, glittering, all-shining — Sāyaṇa explains that *asamanāḥ* may also be taken as "of different colours".
+
+### Printed p. 115  (PDF 133)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *mumukṣvaḥ* (root *muñc̣ mokṣaṇe*; *mokṣam icchanti iti mumukṣvaḥ*; *sanāśaṃsabhikṣa uḥ* (Pā. Sū. 3-2-[?]) *u* after a desiderative; the form *mumukṣuḥ*; final-syllable accent of the suffix; as a *jas* follows, though *guṇa* is obtained by *jasi ca* it does not come in the Veda by *jasādiṣu chandasi vā vacanam*; *yaṇ*-substitution; since the *yaṇ* has come in the place of an *udātta* and a case-ending follows, the *svarita* accent by *udāttasvaritayor yaṇaḥ svaritaḥ* (Pā. Sū. 8-2-[?])), *mānavasyate* (*mānavān ātmana icchati mānavasyati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-[?]) *kyac* in the sense of wishing; *sarvaprātipadikebhyaḥ kyac* … [?]; *śatṛ* after a verb-root so formed; dative singular, *śatuḥ anum nadyajādī* (Pā. Sū. 6-1-[?]) gives the case-ending *udātta*), *raghudruvaḥ* (*laghu drutam* [?]; root *dru gatau*, *bhvādi*; *kvip ca* (Pā. Sū. 3-2-[?]) *kvip*; *ra*-for-*la* of the first member by *ṭālamūlalakṣaṇe* [?] (Pā. Vā. [?]); nominative plural; *kṛdutarapadaprakṛtisvara*), *kṛṣṇasītāsaḥ* (*kṛṣṇā sītā yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam*; as a *jas* follows, *āj jaser asuk* (Pā. Sū. 7-1-[?]) gives *asuk*), *juvaḥ* (the root *ju* is read in the Dhātupāṭha as having the sense of "going"; *kvip*; as *jas* follows, *uvaṅ*-substitution), *asamanāḥ* (*na vidyate samānaṃ manaḥ yeṣām te*; *vyatyayo bahulam* gives the singular suffix for the plural; *nañsubhyām* (Pā. Sū. 6-2-[?]) final-syllable accent of the second member), *ajirāsaḥ* (root *aja gatikṣepaṇayoḥ*; *ajirāśirī…* (U. Sū. 1-[?]) *kirac* suffix, *nipātana*; *citaḥ* (U. Sū. 1-[?]) final accent; as a *jas* follows, *asuk*) …
+
+### Printed p. 116  (PDF 134)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly.)* *raghuṣyadaḥ* (*laghu syandante iti raghuṣyadaḥ*; root *syandū prasravaṇe*; *kvip ca* gives *kvip*; *anidit* [*anidithāṃ halupadhānām*] (Pā. Sū. 6-4-[?]) drops the *n*; since *ra*/*la* are optionally alike in the Veda, the first member has *ra*; *gatikārakopapadāt kṛt* gives accent of the *kṛdutara* member), *vātajūtāḥ* (*vātaiḥ jūtāḥ*; *kta* in the passive sense; *tṛtīyā karmaṇi* (Pā. Sū. 6-2-[?]) first-member accent). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आदस्य ते ध्वसयन्तो वृथेरते कृष्णमभ्वं महि वर्पः करिक्रतः ।
+> यत्सीं महीमवनिं प्राभि मर्मृशदभिश्वसन्स्तनयन्नेति नानदत् ॥ ५ ॥
+
+> *ādasya te dhvasayanto vṛtherate kṛṣṇamabhvaṃ mahi varpaḥ karikrataḥ |*
+> *yatsīṃ mahīmavaniṃ prābhi marmṛśadabhiśvasanstanayanneti nānadat ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> आत् । अस्य । ते । ध्वसयन्तः । वृथा । ईरते । कृष्णम् । अभ्वम् । महि । वर्पः । करिक्रतः ।
+> यत् । सीम् । महीम् । अवनिम् । प्र । अभि । मर्मृशत् । अभिऽश्वसन् । स्तनयन् । एति । नानदत् ॥ ५ ॥
+
+> *āt | asya | te | dhvasayantaḥ | vṛthā | īrate | kṛṣṇam | abhvam | mahi | varpaḥ | karikrataḥ |*
+> *yat | sīm | mahīm | avanim | pra | abhi | marmṛśat | abhi 'śvasan | stanayan | eti | nānadat ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *then the well-known flames of Agni spread in all directions, dispelling darkness and making great light, when he, snorting and roaring, repeatedly touches the broad earth.* Small type; doubtful words marked)
+
+> आदनन्तरमस्य स्तूयमानस्याग्नेः ते प्रसिद्धा विष्णुलिङ्गा [?] वृथा सहेरते [?] । सर्वतो गच्छन्ति । कीदृशास्ते । ध्वसयन्तस्तमांसि ध्वंसयन्तः तथा कृष्णवर्णमभ्वं महान्तं मार्गं [?] … महि महत् वर्पो रूपं प्रकाशं करिक्रतः कुर्वन्तः [?] । कदा कुर्वन्ति इति तदुच्यते । यद्यदा सीम् सीमिति सर्वनामस्थानं [?] … महीं भूमिं सीम् सर्वतो मर्मृशत् पुनः पुनराम्रृशत् । मृशेर्यङ्लुगन्ताच्छप्तेर्यभ्यस्तानामादि [?] … उदात्तत्वम् । अभिश्वसन् सर्वतोऽभिश्वसन् स्तनयन् शब्दं कुर्वन् नानदत् नानादेवार्थं शब्दयन् । पूर्ववत्प्रत्ययस्वराः । अभितः प्रकर्षेण एति गच्छति । यद्वेदेस्तदा जिह्वाभिर्लेलिहानो भुगुभुगुध्वनिं कुर्वन् … लोके … तदा … ज्वाला उद्वधन्तीत्यर्थः ॥
+
+> *ādanantaramasya stūyamānasyāgneḥ te prasiddhā viṣṇuliṅgā [?] vṛthā saherate [?] | sarvato gacchanti | kīdṛśāste | dhvasayantastamāṃsi dhvaṃsayantaḥ tathā kṛṣṇavarṇamabhvaṃ mahāntaṃ mārgaṃ [?] … mahi mahat varpo rūpaṃ prakāśaṃ karikrataḥ kurvantaḥ [?] | kadā kurvanti iti taducyate | yadyadā sīm sīmiti sarvanāmasthānaṃ [?] … mahīṃ bhūmiṃ sīm sarvato marmṛśat punaḥ punarāmrṛśat | mṛśeryaṅlugantācchapteryabhyastānāmādi [?] … udāttatvam | abhiśvasan sarvato 'bhiśvasan stanayan śabdaṃ kurvan nānadat nānādevārthaṃ śabdayan | pūrvavatpratyayasvarāḥ | abhitaḥ prakarṣeṇa eti gacchati | yadvedestadā jihvābhirlelihāno bhugubhugudhvaniṃ kurvan … loke … tadā … jvālā udvadhantītyarthaḥ ‖*
+
+### Printed p. 117  (PDF 135)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Pratipadārtha (Kannada).** *yat* — when (Agni); *abhiśvasan* — making a throbbing sound like heaving breath; *stanayan* — making a roaring sound; *nānadat* — thundering; *mahīm* — the vast; *avanim* — earth; *sīm* — all around; *mamṛśat* — touching repeatedly; *pra eti* — burns [?], blazing; *āt* — at once; *asya* — of this Agni; *te* — the well-known flames; *dhvasayantaḥ* — destroying (the darkness); *kṛṣṇam abhvam* — the path of pitch darkness, on all sides; *mahi* — vast; *varpaḥ* — light; *karikrataḥ* — spreading; *vṛthā* — joined together; *īrate* — burn well.
+
+**Bhāvārtha.** When Agni, making a throbbing sound like heaving breath, a roaring sound and a thunder, burns on all sides, touching the vast earth all around, then at once his well-known flames, destroying the darkness and spreading vast light around the path of pitch darkness, burn well together.
+
+**English Translation (as printed).** Thereupon those (flames of Agni) extend together in all directions, dispersing gloom, and spreading great light along the path of darkness; when (Agni) illumines repeatedly the whole earth, and proceeds panting, thundering, and roaring aloud.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***vṛthā.*** *Saheva* — "together", Sāyaṇa has explained; "with no effort" in the other places:
+
+> यो वातजूतो अवतसेषु तिष्ठति वृथा जुहूभिः सृण्या तुविष्वणिः [?] ।
+
+> *yo vātajūto avataseṣu tiṣṭhati vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+> अस्तोभयद्वृथासामनु स्वधां गभस्त्योः [?] ।
+
+> *astobhayadvṛthāsāmanu svadhāṃ gabhastyoḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) In these and all other Ṛks where the word *vṛthā* occurs, Sāyaṇa explains *vṛthā iti anāyāsavacanaḥ*: the word *vṛthā* means "without fatigue, without toil"; the sense is that Agni spreads without any effort. In the Ṛk at hand he explains that all the flames of Agni spread together; here too it may be said that the flames of Agni spread without the least hindrance.
+
+---
+
+**Progress note:** **Sūkta 140 in progress** (printed pp. 99–117 done: Ṛks 1–4 complete; Ṛk 5 through printed English and the start of its Special Topics, *vṛthā*). Next: printed p. 118 (PDF 136) — Special Topics of Ṛk 5 continued, grammar; then Ṛks 6–13. Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Ṛks 1–5 largely unread); Varga numerals (Sūkta 140 header read as 3, 4, 5 [?]); the Śatapatha Brāhmaṇa quotation on pp. 113–114 and the grammar of Ṛk 4 (pp. 115–116) doubtful in places; Ni./Ṛg/Ai. Brā./Śa. Brā. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
