@@ -732,4 +732,78 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–26 done: Ṛks 1–2 complete; Ṛk 3 Saṃhitā written at the foot of p. 26). Next: printed p. 27 (PDF 45): Ṛk 3 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; then Ṛk 4. Workflow: CLAUDE.md "Cost-saving rules"; images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost), zoom only dense Sanskrit small type; helpers /tmp/v11/app11.py, kn_merge.py, setkn.py (all in /tmp, may need recreating: app11 = append English before the final progress note; setkn = replace the Kannada file's final note). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛk 1 and Ṛk 2; all Ni./Ṛg/Tai. Brā./Bṛ. De. numerals and quotations on pp. 17–19, 23–24; grammar sūtra numbers (not read); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 27  (PDF 45)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+*(Gist, mine: those who in friendship with you, by diligent worship, enjoy your protection — we too ask for abundant new wealth; be gracious, be our leader in every battle.)*
+
+**॥ पदपाठः ॥**
+
+> यस्य । ते । पूषन् । सख्ये । विऽपन्यवः । क्रत्वा । चित् । सन्तः । अवसा । बुभुज्रिरे ।
+> इति । क्रत्वा । बुभुज्रिरे ।
+> तां । अनु । त्वा । नवीयसीम् । नियुतम् । रायः । ईमहे ।
+> अहेळमानः । उरुऽशंस । सरिः । भव । वाजेऽवाजे । सरिः । भव ॥ ३ ॥
+
+> *yasya | te | pūṣan | sakhye | vi 'panyavaḥ | kratvā | cit | santaḥ | avasā | bubhujrire |*
+> *iti | kratvā | bubhujrire |*
+> *tāṃ | anu | tvā | navīyasīm | niyutam | rāyaḥ | īmahe |*
+> *aheḷamānaḥ | uru 'śaṃsa | sariḥ | bhava | vāje 'vāje | sariḥ | bhava ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the worshippers, protected by you, enjoy riches through their rites; we ask for new wealth; be gracious and lead us in every battle.* Small type; doubtful words marked)
+
+> हे पूषन् देव यस्य ते रक्षकत्वेन प्रसिद्धस्य तव सख्ये सखित्वे हितकरणे सति क्रत्वा चित् क्रतुना प्रकृष्टेन कर्मणैव । जसादिषु छन्दसि वा वचनमिति नाभावाभावः । सन्तो भवन्तं प्रीणयितारः सन्तो विपन्यवो विशेषेण स्तोत्रशीलाः । यद्वा । मेधाविनामैतत् । मेधाविनः । यजमाना अवसा त्वत्कृतेन रक्षणेन रक्षिताः सन्तो बुभुज्रिरे । भुञ्जते भोगान् । इति एवमेन सर्वदा क्रत्वा कर्मणा बुभुज्रिरे । भुञ्जते सर्वे पाल्यन्ते इति वा । भुजेर्लिटि छन्दसि बहुलं छन्दसीति रुट् ।
+> तां तादृशीं नवीयसीं नवतरां स्तुतिं त्वां रक्षणमनुसृत्य रक्षणाय [?] आनन्तरं त्वां नियुतं रायः धनानि असंख्यातान्यनीमहे [?] । याचामहे । किञ्च हे उरुशंस बहुभिः स्तुत्य त्वमहेळमानः क्रोधादिकमकुर्वाणः अस्माभिर्गन्तव्यः [? ... small type unreadable ...] । किञ्च त्वं वाजे वाजे सर्वेष्वपि संग्रामेषु सरी भव । गमनशीलो भव । पुरतो गन्ता भवेत्यर्थः ॥
+
+> *he pūṣan deva yasya te rakṣakatvena prasiddhasya tava sakhye sakhitve hitakaraṇe sati kratvā cit kratunā prakṛṣṭena karmaṇaiva | jasādiṣu chandasi vā vacanamiti nābhāvābhāvaḥ | santo bhavantaṃ prīṇayitāraḥ santo vipanyavo viśeṣeṇa stotraśīlāḥ | yadvā | medhāvināmaitat | medhāvinaḥ | yajamānā avasā tvatkṛtena rakṣaṇena rakṣitāḥ santo bubhujrire | bhuñjate bhogān | iti evamena sarvadā kratvā karmaṇā bubhujrire | bhuñjate sarve pālyante iti vā | bhujerliṭi chandasi bahulaṃ chandasīti ruṭ |*
+> *tāṃ tādṛśīṃ navīyasīṃ navatarāṃ stutiṃ tvāṃ rakṣaṇamanusṛtya rakṣaṇāya [?] ānantaraṃ tvāṃ niyutaṃ rāyaḥ dhanāni asaṃkhyātānyanīmahe [?] | yācāmahe | kiñca he uruśaṃsa bahubhiḥ stutya tvamaheḷamānaḥ krodhādikamakurvāṇaḥ asmābhirgantavyaḥ [? ... small type unreadable ...] | kiñca tvaṃ vāje vāje sarveṣvapi saṃgrāmeṣu sarī bhava | gamanaśīlo bhava | purato gantā bhavetyarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *pūṣan* — O Pūṣan; *yasya te* — of you who are (the protector); *sakhye* — in the friendship, the friendly affection that does good; *kratvā cit* — by excellent sacrificial works; *santaḥ* — being (those who worship you); *viṣpanyavaḥ* — the wise sacrificers who praise with devotion; *avasā* — by your protection; *bubhujrire* — enjoy pleasures; *iti* — thus, always; *kratvā* — by works done with faith; *bubhujrire* — all enjoy pleasures, or are protected; *tām* — that; *navīyasīm* — fresh; *anu* — following [the fruit of] praise, your protection; *niyutam* — countless; *rāyaḥ* — riches; *īmahe* — we ask; *uruśaṃsa* — Pūṣan, worthy of manifold praise; *aheḷamānaḥ* — [towards us] without anger, kindly give… (continued on p. 28).
+
+### Printed p. 28  (PDF 46)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Pratipadārtha, concluded.)* *sarī bhava* — be easy of approach to us (so that we may approach you without fear); *vāje vāje* — in all battles; *sarī bhava* — be our leader, going before us.
+
+**Bhāvārtha.** O Pūṣan, protector, those who worship you with sacrificial works out of the affection that does us good, and praise you with devotion — the wise sacrificers — enjoy all pleasures under your protection. After obtaining that protection we ask for countless riches as the fruit of fresh praise. O Pūṣan, worthy of manifold praise, be kind and free from anger towards us, so that we may approach you without fear; be in front of us and our leader in all battles.
+
+**English Translation (as printed).** Through your praise, and assiduous in your worship they enjoy (abundance), through your protection; by (assiduous) worship they enjoy (abundance); as consequent upon your recent favour, we solicit infinite riches. Free from anger, and entitled to ample praise, be ever acceesible [sic] to us: be our leader in every encounter.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***viṣpanyavaḥ.*** *Vipra*, *vigra* and the like are read among the names of the wise (Ni. 3-[?]); the word is used in the Ṛksaṃhitā in the sense of devoted praisers, e.g. तद्विप्रासो विपन्यवः [?] (*tadviprāso vipanyavaḥ [?]*) (Ṛ. Saṃ. 1-[?]-[?]), अवसा विपन्यवः [?] (*avasā vipanyavaḥ [?]*) (Ṛ. Saṃ. 1-[?]-[?]) and विपन्यवो दीध्यतो मनीषा [?] (*vipanyavo dīdhyato manīṣā [?]*) (Ṛ. Saṃ. 1-30-[?] [?]). *Viśeṣeṇa stotāraḥ*: those who praise exceedingly.
+
+***niyutam.*** *Asaṃkhyāvāda saṃkhye* — a countless number. In one place the word is used for a particular number; in तक्षद्वज्रं नियुतं [?] (*takṣadvajraṃ niyutaṃ [?]*) (Ṛ. Saṃ. 1-[?]-[?]) the sense given is "firmly joined" [?]; in the Ṛk at hand it is a numeral word.
+
+***āheḷamānaḥ.*** *Reḷate*, *heḷate* and the like are read among the names of anger (Ni. 2-[?]); so *heḷamānaḥ* is "being angry", *āheḷamānaḥ* "not being angry". Compare:
+
+> आहेळमानो वरुणेह बोधि उरुशंस मा न आयुः प्र मोषीः [?] ।
+
+> *āheḷamāno varuṇeha bodhi uruśaṃsa mā na āyuḥ pra moṣīḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+### Printed p. 29  (PDF 47)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+> आहेळमान उप याहि यज्ञं तुभ्यं पवन्त इन्दवः सुतासः [?] ।
+
+> *āheḷamāna upa yāhi yajñaṃ tubhyaṃ pavanta indavaḥ sutāsaḥ [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].) In this and in 10-[?]-[?] and many other Ṛks the same prayer is made: Agni, Varuṇa and the like punish sinners, and one hopes for no favour from such gods; yet we sacrificers, afraid of the greater punishment, pray that they be not angry, that they not disregard us, and that they favour us rather than the opposite.
+
+***sarī bhava.*** Derived from the root *sṛ* of motion, *sarī* is used here in two senses: first, *asmābhir gantavyo bhava* — "may we approach you without fear"; second, *gamanaśīlo bhava, purato gantā bhava* — "go in front of us, be our leader". Similarly *sarīmaṇi* and *sarīsṛpa* are derived; *sarīsṛpa* means a creature that glides swiftly, a serpent. The word *sarīsṛpa* is used in the Ṛk
+
+> यस्ते हन्ति पतयन्तं निषत्स्नुं यः सरीसृपम् [?] ।
+
+> *yaste hanti patayantaṃ niṣatsnuṃ yaḥ sarīsṛpam [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) in the sense of an unborn / moving embryo [?]. Here *sarī bhava* means "be our leader in front of us".
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *viṣpanyavaḥ* (*vi* prefix; root *pana stutau*; *bahulam*; suffix *yu*; accent), *kratvā* (*kratu*; instrumental singular; *jasādiṣu chandasi vā vacanam* — no *nā* form here), *avasā* (root *av rakṣaṇe*; *asun*; accent of the first syllable by *ñit*), *bubhujrire* (root *bhuja pālanābhyavahārayoḥ*; *liṭ* by *chandasi luṅlaṅliṭaḥ*; reduplication; *ruṭ* augment by *bahulaṃ chandasi*); sūtra numbers mostly not read.
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–29 done: Ṛks 1–3 complete). Next: printed p. 30 (PDF 48) — Ṛk 4 Saṃhitā, Pada, bhāṣya … (images at 120 dpi in /tmp/v11a, PDF 33–60; recrop with crop_pages.py if lost). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (run iast.py with PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–3; all Ni./Ṛg/Tai. Brā./Bṛ. De. numerals and quotations (pp. 17–19, 23–24, 28–29); grammar sūtra numbers (not read); Sūkta 137 and Pīṭhike flags as before.
