@@ -1266,4 +1266,86 @@ But that *anṛta* here is an epithet of water is a point worth some thought. Th
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–47 done: Ṛks 1–2 complete). Next: printed p. 48 (PDF 66) — Ṛk 3 (the Aśvins' triplet begins): Saṃhitā, Pada, bhāṣya, …. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–2 largely unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations (esp. pp. 45–46); the "ṛta/anṛta" discussion pp. 44–46; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 48  (PDF 66)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Grammar of Ṛk 2, concluded; noted briefly.)* *svebhiḥ* (by *bahulaṃ chandasi* the *bhis* does not become *ais*; by *bahuvacane jhaly et* [?] the *e*), *akṣabhiḥ* (*chandasy api dṛśyate* (Pā. Sū. 6-4-[?]) gives *anaṅ*-substitution; the *ā* is *udātta*; *nalopaḥ prātipadikāntasya* drops the *n*; the *a* being *udātta*, the word is middle-accented). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> युवां स्तोमेभिर्देवयन्तो अश्विनाश्रावयन्त इव श्लोकमायवो युवां हव्याभ्यायवः ।
+> युवोर्विश्वा अधि श्रियः पृक्षश्च विश्ववेदसा ।
+> प्रुषायन्ते वां पवयो हिरण्यये रथे दस्रा हिरण्यये ॥ ३ ॥
+
+> *yuvāṃ stomebhirdevayanto aśvināśrāvayanta iva ślokamāyavo yuvāṃ havyābhyāyavaḥ |*
+> *yuvorviśvā adhi śriyaḥ pṛkṣaśca viśvavedasā |*
+> *pruṣāyante vāṃ pavayo hiraṇyaye rathe dasrā hiraṇyaye ‖ 3 ‖*
+
+*(Gist, mine: the worshippers, wishing to win you, make their praises heard, offering oblations; from you they gain wealth and food; the fellies of your golden car drip honey.)*
+
+**॥ पदपाठः ॥**
+
+> युवाम् । स्तोमेभिः । देवऽयन्तः । अश्विना । अश्रावयन्तः । इव । श्लोकम् । आयवः ।
+> युवाम् । हव्या । अभि । आयवः ।
+> युवोः । विश्वाः । अधि । श्रियः । पृक्षः । च । विश्वऽवेदसा ।
+> प्रुषायन्ते । वाम् । पवयः । हिरण्यये । रथे । दस्रा । हिरण्यये ॥ ३ ॥
+
+> *yuvām | stomebhiḥ | deva 'yantaḥ | aśvinā | aśrāvayantaḥ | iva | ślokam | āyavaḥ |*
+> *yuvām | havyā | abhi | āyavaḥ |*
+> *yuvoḥ | viśvāḥ | adhi | śriyaḥ | pṛkṣaḥ | ca | viśva 'vedasā |*
+> *pruṣāyante | vām | pavayaḥ | hiraṇyaye | rathe | dasrā | hiraṇyaye ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; first the Āśvalāyana citation of the use of the Ṛk, then the bhāṣya, which runs on to p. 49. Small type; doubtful words marked)
+
+> पृष्ठ्यस्य षष्ठेऽहनि प्रउगशस्त्रे युवां स्तोमेभिरित्याश्विनस्तृचः । पञ्चमस्येति [?] खण्डे सूत्रितम् । युवां स्तोमेभिर्देवयन्तो अश्विनावर्मूह [?] इन्द्र [?] । आ. [?] । इति ॥
+
+> *pṛṣṭhyasya ṣaṣṭhe 'hani praugaśastre yuvāṃ stomebhirityāśvinastṛcaḥ | pañcamasyeti [?] khaṇḍe sūtritam | yuvāṃ stomebhirdevayanto aśvināvarmūha [?] indra [?] | ā. [?] | iti ‖*
+
+> हे अश्विनौ देवौ युवां स्तोमेभिः स्तोत्रैर्देवयन्तो युवां [?] आत्मन इच्छन्त आयवः मनुष्यनामैतत् । यजमानाः श्लोकं यस्मै [?] स्तुतिरूपां वाचमश्रावयन्त इव सर्वतः श्रवणविषयां कुर्वन्ते इव
+
+> *he aśvinau devau yuvāṃ stomebhiḥ stotrairdevayanto yuvāṃ [?] ātmana icchanta āyavaḥ manuṣyanāmaitat | yajamānāḥ ślokaṃ yasmai [?] stutirūpāṃ vācamaśrāvayanta iva sarvataḥ śravaṇaviṣayāṃ kurvante iva*
+
+### Printed p. 49  (PDF 67)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Bhāṣya of Ṛk 3, continued from p. 48; small type, only partly read.)*
+
+> स्तुवन्ति । श्लोक इति वाङ्नाम । श्लोको धारयति [?] तेन्नामसूक्तस्तुतः [?] वा । यद्वा । युवां हव्याभ्यायवः [?] हविर्भिराहुतिभिर्मनुष्याः स्तुवन्ति [?] । किञ्च हे विश्ववेदसा सर्वधनौ युवोरेव युवयोः सम्बन्धिन्यो विश्वाः श्रियः सेवनीयाः सर्वा लक्ष्म्यः [?] अध्यधिकं भजन्ते इति शेषः । किञ्च पृक्षश्चान्नमपि युष्मत्सकाशादध्यधिकं लभन्ते [?] । किञ्च हे दस्रा शत्रूणामुपक्षयितारौ वां हिरण्यये रथे हिरण्मये [?] मधुपूर्णे रथे पवयः [?] … प्रुषायन्ते क्षरन्ति स्रवन्ति । प्रुष प्लुष स्नेहनसेचनपूरणेषु । छन्दसि शायजपि [?] । मधुपूर्णपात्रोपेतत्वाद्रथस्यागमनेन चक्रेषु मधूनि स्रवन्तीति भावः । पवि रथनेमिर्भवति यद्विपुनाति भूमिमिति निरुक्तम् (नि. [?]-[?]) । अश्विनो रथस्य मधुपूर्णत्वं त्रय्याः पवयो मधुपात्राः [?] (ऋ. १-[?]-[?]) इत्यादिषु प्रसिद्धम् । किञ्च तादृशे हिरण्यये रथे मधुरं हविर्वाहनमिति शेषः ॥
+
+> *stuvanti | śloka iti vāṅnāma | śloko dhārayati [?] tennāmasūktastutaḥ [?] vā | yadvā | yuvāṃ havyābhyāyavaḥ [?] havirbhirāhutibhirmanuṣyāḥ stuvanti [?] | kiñca he viśvavedasā sarvadhanau yuvoreva yuvayoḥ sambandhinyo viśvāḥ śriyaḥ sevanīyāḥ sarvā lakṣmyaḥ [?] adhyadhikaṃ bhajante iti śeṣaḥ | kiñca pṛkṣaścānnamapi yuṣmatsakāśādadhyadhikaṃ labhante [?] | kiñca he dasrā śatrūṇāmupakṣayitārau vāṃ hiraṇyaye rathe hiraṇmaye [?] madhupūrṇe rathe pavayaḥ [?] … pruṣāyante kṣaranti sravanti | pruṣa pluṣa snehanasecanapūraṇeṣu | chandasi śāyajapi [?] | madhupūrṇapātropetatvādrathasyāgamanena cakreṣu madhūni sravantīti bhāvaḥ | pavi rathanemirbhavati yadvipunāti bhūmimiti niruktam (ni. [?]-[?]) | aśvino rathasya madhupūrṇatvaṃ trayyāḥ pavayo madhupātrāḥ [?] (ṛ. 1-[?]-[?]) ityādiṣu prasiddham | kiñca tādṛśe hiraṇyaye rathe madhuraṃ havirvāhanamiti śeṣaḥ ‖*
+
+**Pratipadārtha (Kannada).** *aśvinā* — O Aśvins; *yuvām* — you; *stomebhiḥ* — with hymns; *devayantaḥ* — desiring to win (you); *yuvām* — you; *havyā* — with oblations in the form of ghee and the like; *abhi āyavaḥ* — approaching; *āyavaḥ* — men; *ślokam* — praise-words (that praise you); *āśrāvayanta iva* — recite as if making them fall upon your ears; (then) *viśvavedasā* — O Aśvins, lords of all wealth; *yuvoḥ* — belonging to you; *viśvā śriyaḥ* — all riches; *pṛkṣaḥ ca* — and also food; *adhi* — in great measure (they enjoy); *dasrā* — O Aśvins, destroyers of foes; *vām* — your; *hiraṇyaye rathe* — in the golden chariot; *pavayaḥ* — the wheels of the chariot; *pruṣāyante* — let drip honey; *hiraṇyaye* — in that golden chariot, of wondrous work (carrying the oblation, come and go).
+
+**Bhāvārtha.** O Aśvins, the sacrificers who wish to win you with hymns offer you oblations, approach you, and recite the hymns that praise you so that they fall upon your ears. O Aśvins, lords of all wealth, your worshippers who have praised you enjoy all the wealth and food that belongs to you. In your golden chariot, joined with fellies that make honey flow, full of honey and of wondrous work, come and carry off the oblation offered by us.
+
+### Printed p. 50  (PDF 68)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+**English Translation (as printed).** Aswins, men who desire to glorify you with (their) hymns, cause, as it were, their praises to be heard, propitiating you with oblations; for, from you, who are possessed of all opulence, (they obtain) every kind of wealth and abundant food. Dasras, the fellies (of the wheels) of your honey-laden car drop honey, (carried) in your golden (car).
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***stomebhiḥ.*** By the sentence एकं साम तृचे क्रियते तस्य च तृचस्यावृत्त्या ऋचां संख्या वर्धनीया भवति या स्तोमशब्देनोच्यते [?] (*ekaṃ sāma tṛce kriyate tasya ca tṛcasyāvṛttyā ṛcāṃ saṃkhyā vardhanīyā bhavati yā stomaśabdenocyate [?]*) the characteristic of the *stoma* is told. Among *stomas* there are nine kinds — *trivṛt*, *pañcadaśa*, *saptadaśa*, *ekaviṃśa*, *caturviṃśa*, *triṇava*, *trayastriṃśa*, *catuścatvāriṃśa*, *aṣṭācatvāriṃśa* — which, with their *viṣṭutis*, have been set out very fully in the Ṛgveda Saṃhitā, Part [?], pp. [?]–[?] (as printed "13th part, pp. 131–136" [?]); so here only the benefits to be obtained by reciting those *stomas* are told.
+
+Of the *stomas*, the nine kinds mentioned above can be increased by sub-varieties such as *trayodaśa*, *caturdaśa*, *ṣoḍaśa*. For example:
+
+> वसवस्त्रयोदशाक्षरेण त्रयोदशग्ं स्तोममुदजयन् [?] उद्राक्षश्चतुर्दशाक्षरेण चतुर्दशग्ं स्तोममुदजयन्नादित्याः पञ्चदशाक्षरेण पञ्चदशग्ं स्तोममुदजयन्नदितिः षोडशाक्षरेण षोडशग्ं स्तोममुदजयत् प्रजापतिः सप्तदशाक्षरेण सप्तदशग्ं स्तोममुदजयत् [?] ।
+
+> *vasavastrayodaśākṣareṇa trayodaśagṃ stomamudajayan [?] udrākṣaścaturdaśākṣareṇa caturdaśagṃ stomamudajayannādityāḥ pañcadaśākṣareṇa pañcadaśagṃ stomamudajayannaditiḥ ṣoḍaśākṣareṇa ṣoḍaśagṃ stomamudajayat prajāpatiḥ saptadaśākṣareṇa saptadaśagṃ stomamudajayat [?] |*
+
+(Tai. Saṃ. 1-[?]-[?]-[?] [?].) From these Taittirīya Saṃhitā sentences the order in which the Vasus, Rudras [?], Ādityas, Aditi and Prajāpati won the *stomas* of thirteen, fourteen, fifteen, sixteen and seventeen is told. The power of the *stomas* is very great, and that by reciting them all desired ends may be attained is made clear in the Taittirīya Saṃhitā itself:
+
+> प्रातःसवने वै गायत्रेण छन्दसा त्रिवृते स्तोमाय ज्योतिर्दधेति त्रिवृता ब्रह्मवर्चसेन पञ्चदशाय ज्योतिर्दधाति पञ्चदशेनोजसा वीर्येण सप्तदशाय ज्योतिर्दधाति सप्तदशेन प्राजापत्यैन प्रजननेनैकविंशाय ज्योतिर्दधाति स्तोम एव तत्स्तोमाय ज्योतिर्दधात्यथो स्तोम एव स्तोममभि प्रणयति यावन्तो वै स्तोमास्तावन्तः कामास्तावन्तो [?] …
+
+> *prātaḥsavane vai gāyatreṇa chandasā trivṛte stomāya jyotirdadheti trivṛtā brahmavarcasena pañcadaśāya jyotirdadhāti pañcadaśenojasā vīryeṇa saptadaśāya jyotirdadhāti saptadaśena prājāpatyaina prajananenaikaviṃśāya jyotirdadhāti stoma eva tatstomāya jyotirdadhātyatho stoma eva stomamabhi praṇayati yāvanto vai stomāstāvantaḥ kāmāstāvanto [?] …*
+
+(Tai. Saṃ. [?]-[?]-[?]-[?] [?]; the quotation runs on to p. 51.)
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–50 done: Ṛks 1–2 complete; Ṛk 3 through printed English and the start of the Special Topics, *stomebhiḥ*). Next: printed p. 51 (PDF 69) — the Tai. Saṃ. quotation on *stoma*s concluded, Special Topics (*viśvavedasā*, *pavayaḥ*… ) and grammar of Ṛk 3; then Ṛk 4. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–3 largely unread); Varga numerals of Sūkta 139; the part/page reference to the earlier stoma discussion (p. 50) read doubtfully; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
