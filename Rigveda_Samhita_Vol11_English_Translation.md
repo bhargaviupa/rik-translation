@@ -1586,4 +1586,84 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–59 done: Ṛks 1–4 complete except the tail of Ṛk 4's grammar, which continues on p. 60). Next: printed p. 60 (PDF 78) — end of Ṛk 4 grammar, then Ṛk 5. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–4 largely unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Kāṭh./Bṛ. De./Up. numerals and many quotations (pp. 57–58 especially); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 60  (PDF 78)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly.)* *diviṣṭiṣu* (concluded: *utva* does not occur; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member), *sthāma* (root *ṣṭhā gatinivṛttau*; *laṅ* in the sense of the present by *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]); first person plural *mas*; *nityaṃ ṅitaḥ* (Pā. Sū. 3-4-[?]) drops the *s*; by *bahulaṃ chandasi* the *luk* of *śap*; the *aḍāgama* does not come by *bahulaṃ chandasy māṅyoge 'pi*; in place of the *nighāta* accent the first-syllable accent by Vedic usage), *yantau* (root *iṇ gatau*, *adādi*; *śatṛ* in the sense of the present; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; *iṇo yaṇ* (Pā. Sū. 6-4-[?]) *yaṇ*; dual; *num* augment, the suffix's first syllable accented), *anuśāsatā* (root *śāsu anuśiṣṭau*, *adādi*; *śatṛ*; included in *jakṣityādayaḥ ṣaṭ* (Pā. Sū. 6-1-[?]) so *abhyasta*; *āmantrita*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-[?]) first-syllable accent; compound with a prefix, *kṛdutarapadaprakṛtisvara*; instrumental singular), *añjasā* (root *añju vyaktimrakṣaṇakāntigatiṣu*; *asun*; being *sit*, first-syllable accent). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> शचीभिर्नः शचीवसू दिवा नक्तं दशस्यतम् ।
+> मा वां रातिरुप दसत्कदा चनास्मद्रातिः कदा चन ॥ ५ ॥
+
+> *śacībhirnaḥ śacīvasū divā naktaṃ daśasyatam |*
+> *mā vāṃ rātirupa dasatkadā canāsmadrātiḥ kadā cana ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> शचीभिः । नः । शचीवसू इति शचीऽवसू । दिवा । नक्तम् । दशस्यतम् ।
+> मा । वाम् । रातिः । उप । दसत् । कदा । चन । अस्मत् । रातिः । कदा । चन ॥ ५ ॥
+
+> *śacībhiḥ | naḥ | śacīvasū iti śacī 'vasū | divā | naktam | daśasyatam |*
+> *mā | vām | rātiḥ | upa | dasat | kadā | cana | asmat | rātiḥ | kadā | cana ‖ 5 ‖*
+
+### Printed p. 61  (PDF 79)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Gist, mine: Aśvins, whose wealth is our rites, give us by day and night the wealth that our rites deserve; may your gifts and ours never fail.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Aśvins, rich in our rites, by day and night give us what our rites deserve; may neither your gift nor ours ever fail.* Small type; doubtful words marked)
+
+> हे शचीवसू शचीति कर्मनाम । अस्मदनुष्ठितैर्ज्योतिष्टोमादिकर्मधनौ युवां शचीभिरस्मदीयैः कर्मभिः [?] निमित्तभूतैः अनुग्रहीतव्यम् [?] दिवा नक्तं दिने रात्रौ च दशस्यतम् [?] [… ] अभिमतं देयम् । वां युवयोः रातिर्दानं कदा चन सर्वदा मा उपदसत् मोपक्षीणं भूत् । उपक्षये दसु उपक्षये [?] । न केवलं युष्मदीयं दानमस्मदीयमपि [?] रातिर्दानं हविरादिप्रदानं सर्वदापि कदा चन सर्वदा मोप दसत् [?] । उपक्षीणं मा भूत् । सर्वदा वर्तेताम् [?] । अहमपि सर्वदा युष्मदर्थं [?] … मित्यर्थः ॥
+
+> *he śacīvasū śacīti karmanāma | asmadanuṣṭhitairjyotiṣṭomādikarmadhanau yuvāṃ śacībhirasmadīyaiḥ karmabhiḥ [?] nimittabhūtaiḥ anugrahītavyam [?] divā naktaṃ dine rātrau ca daśasyatam [?] [… ] abhimataṃ deyam | vāṃ yuvayoḥ rātirdānaṃ kadā cana sarvadā mā upadasat mopakṣīṇaṃ bhūt | upakṣaye dasu upakṣaye [?] | na kevalaṃ yuṣmadīyaṃ dānamasmadīyamapi [?] rātirdānaṃ havirādipradānaṃ sarvadāpi kadā cana sarvadā mopa dasat [?] | upakṣīṇaṃ mā bhūt | sarvadā vartetām [?] | ahamapi sarvadā yuṣmadarthaṃ [?] … mityarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *śacīvasū* — O Aśvins, whose wealth is the rites performed by us; *naḥ* — our; *śacībhiḥ* — on account of our rites (wealth that is to be bestowed as a favour); *divā naktam* — by day and by night (continuously); *daśasyatam* — give; *vām* — your (that is to be given by you); *rātiḥ* — gift; *kadā cana* — ever; *mā upa dasat* — let it not fail; *asmat* — from us (that is to be offered); *rātiḥ* — the gifts of oblations and the like also; *kadā cana* — ever (let them not cease).
+
+**Bhāvārtha.** O Aśvins, whose wealth is the rites we perform, give us continuously, by day and by night, the wealth that is to be bestowed on account of our rites. May your gift never cease; and we, for our part, shall never cease to offer you oblations and other gifts.
+
+**English Translation (as printed).** Enriched by holy rites, grant us, by day and night, (all good things) on account of our pious acts; never may your donation, never may our (donations) be witheld [sic].
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***śacīvasū.*** *Śacīti karmanāma; asmadanuṣṭhitair jyotiṣṭomādikarmadhanau* — the Aśvins are addressed as "those whose wealth is the *jyotiṣṭoma* and other rites performed by us, the sacrificers". The oblations and the like offered in sacrifices are the gods' wealth, and in return they give wealth to the sacrificers; this is a mutual dependence (continued on p. 62).
+
+### Printed p. 62  (PDF 80)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+***mā upadasat; asmadrātiḥ kadā cana.*** It is prayed that the gifts of both, mutually nourishing — ours and yours — may be carried on without a break. The Śatapatha Brāhmaṇa describes a story: men on earth, devoid of the knowledge of the prescribed rites, let sacrifices lapse, and the gods, who live by offerings, became anxious and grieved at this:
+
+> ते [?]श्रद्धा मनुष्यान्निवेद [?] …. ते इतो देवा हविर्न जग्मुस्ते प्रदानाद्धि देवा उपजीवन्ति [?] ।
+
+> *te [?]śraddhā manuṣyānniveda [?] …. te ito devā havirna jagmuste pradānāddhi devā upajīvanti [?] |*
+
+(Śa. Brā. [?]-[?]-[?] [?].) Because the gods live by the gifts of oblations and the like, and the gifts had stopped through lack of rites, the gods consulted one another, and Bṛhaspati taught the Aṅgirases the way in which rites might be perfectly performed in future. In the same way, it is known from many sentences that the gods' wealth of food is possible only through the performance of rites, and that rites and the praises that belong to them are the gods' food:
+
+> यज्ञो वो अन्नम् [?] ।
+
+> *yajño vo annam [?] |*
+
+(Śa. Brā. 3-[?]-[?]-[?] [?].)
+
+> अर्को वै देवानामन्नमन्नं यज्ञो [?] …
+
+> *arko vai devānāmannamannaṃ yajño [?] …*
+
+(Śa. Brā. [?]-[?]-[?].) From such sentences it follows that, since the gods are called *śacīvasu*, in the Ṛk at hand the sacrificer prays to the Aśvins, "rich in our rites", that he will perform the rites and offer oblations, and that their gift, the fruit of this, may continue in the same way unbroken. This mutual dependence is shown in
+
+> यत्पृथिव्यै प्रतिगृणाति [?] अमुष्मा एव तदद्युर्जयन्तीति तिष्ठतीव ह्यसाना [?] … तस्मादितः प्रदानं मनुष्या उपजीवन्ति यत्प्रतिगृणाति तस्मादमुतः प्रदानं मनुष्या उपजीवन्ति [?] ।
+
+> *yatpṛthivyai pratigṛṇāti [?] amuṣmā eva tadadyurjayantīti tiṣṭhatīva hyasānā [?] … tasmāditaḥ pradānaṃ manuṣyā upajīvanti yatpratigṛṇāti tasmādamutaḥ pradānaṃ manuṣyā upajīvanti [?] |*
+
+(Tai. Saṃ. 2-[?]-[?] [?].) The Taittirīya Saṃhitā explains that the gods live by the praise and oblations offered from the earth, and in return men live by the wealth that the gods grant. Therefore, desiring that the two actions of both sides never stop —
+
+***naktam.*** *Naktety rātrināma — nakti bhūtāny avyaktāni vā naktāvyaktavarṇā* [?]: "because it makes all beings enveloped as if by mist, it is named *nakta*", or "because its colour is indistinct"; derived from the root *añj* "to shine", the word *akta*, with the negative *na*: *na* + *akta*; thus *nakta* means "that of indistinct colour": two senses are given by Yāska (Ni. [?]-[?]). The Bṛhaddevatā authors also … (continues on p. 63).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–62 done: Ṛks 1–4 complete; Ṛk 5 through printed English and the Special Topics, *śacīvasū*, *mā upadasat*, *naktam* begun). Next: printed p. 63 (PDF 81) — *naktam* continued, rest of Special Topics, grammar of Ṛk 5, then Ṛk 6. **Images:** /tmp/v11a holds PDF 33–80 only; recrop 81 onward: `python3 publish/tools/pageprep/crop_pages.py Rig_Vol11.pdf 81 110 /tmp/v11a --dpi 120`. Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–5 largely unread); Varga numerals of Sūkta 139; Śa. Brā./Tai. Saṃ. quotations on p. 62 are garbled in places; all numerals of Ni./Ṛg/Śa. Brā./Tai. Saṃ.; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
