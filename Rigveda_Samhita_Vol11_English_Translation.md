@@ -7242,4 +7242,184 @@ In this Ṛk, *śamitā* is "the purifier (*saṃskartā*)" of the oblation [?],
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–279 done (introductory essay; Ṛks 1–11 complete; Ṛk 12 *pūṣaṇvate marutvate* (Svāhākṛtayaḥ): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics on *gāyatravepase*, and grammar begun on p. 279, continuing on p. 280). Remaining in the sūkta: Ṛk 12 grammar, Ṛk 13 (Indra), the closing discussion of the Āprī-sūktas. Next: printed p. 280 (PDF 298). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 280  (PDF 298)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 12, concluded; grammar page, noted briefly).** *gāyatravepase* (*gāyatraṃ vepaḥ yasya saḥ gāyatravepāḥ*, tasmai; as before, the first member keeps its natural accent; dative singular), *kartana* (root *ḍukṛñ karaṇe*; *loṭ*, second person plural, ending *tha*; *bahulaṃ chandasi*: *śap* is *luk*; *taptanaptanathanāś ca* (Pā. Sū. 7-1-45): *tana* substituted for the ending; being *pit* [?], *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84): *guṇa* of the final *i* [sic: of the root vowel]; standing after an *ati…* word the *nighāta* accent). ‖ 12 ‖
+
+---
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> स्वाहाकृतान्या गह्युप हव्यानि वीतये ।
+> इन्द्रा गहि श्रुधी हवं त्वां हवन्ते अध्वरे ॥ १३ ॥
+
+> *svāhākṛtānyā gahyupa havyāni vītaye |*
+> *indrā gahi śrudhī havaṃ tvāṃ havante adhvare ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्वाहाऽकृतानि । आ । गहि । उप । हव्यानि । वीतये ।
+> इन्द्र । आ । गहि । श्रुधि । हवम् । त्वाम् । हवन्ते । अध्वरे ॥ १३ ॥
+
+> *svāhā 'kṛtāni | ā | gahi | upa | havyāni | vītaye |*
+> *indra | ā | gahi | śrudhi | havam | tvām | havante | adhvare ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Indra, come near to eat the oblations offered with the call "svāhā"; come and hear our invocation, since the priests call you at the non-violent sacrifice.* Small type; a few words doubtful)
+
+> हे इन्द्र स्वाहाकृतानि । स्वाहेत्येवंपूर्वा कृतिः करणमुच्चारणं यस्यां [?] यज्यमानदेवतानां ताः स्वाहाकृतयः । तद्वन्ति हव्यानि हवींषि । अत्र प्रयाजेषु वषट्कारप्रदानात् स्वाहाकृतं हविरित्यर्थः [?] । तद्वा उप समीपे गहि आगच्छ । वीतये भक्षणाय । गहि आगच्छ [?] । तथा हे इन्द्र आ गहि स्तोत्राण्यभिलक्ष्य गच्छ [?] । आगत्य अस्मदीयमाह्वानं श्रुधि शृणु । यतस्त्वा अध्वरे हिंसात्मके [?] योगे अह्वयन्ति ऋत्विजः । अतः श्रुधि । श्रुतेर्बहुलं छन्दसीति सम्प्रसारणम् ॥
+
+> *he indra svāhākṛtāni | svāhetyevaṃpūrvā kṛtiḥ karaṇamuccāraṇaṃ yasyāṃ [?] yajyamānadevatānāṃ tāḥ svāhākṛtayaḥ | tadvanti havyāni havīṃṣi | atra prayājeṣu vaṣaṭkārapradānāt svāhākṛtaṃ havirityarthaḥ [?] | tadvā upa samīpe gahi āgaccha | vītaye bhakṣaṇāya | gahi āgaccha [?] | tathā he indra ā gahi stotrāṇyabhilakṣya gaccha [?] | āgatya asmadīyamāhvānaṃ śrudhi śṛṇu | yatastvā adhvare hiṃsātmake [?] yoge ahvayanti ṛtvijaḥ | ataḥ śrudhi | śruterbahulaṃ chandasīti samprasāraṇam ‖*
+
+---
+
+### Printed p. 281  (PDF 299)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+**Pratipadārtha (Kannada).** *indra* — O Indra; *svāhākṛtāni* — offered with the call *svāhā*; *havyāni* — the oblations; *vītaye* — to eat; *upa* — near; *ā gahi* — come, be pleased; *tvām* — you; *adhvare* — in the non-violent sacrifice; *havante* — (the priests) call; (therefore) *ā gahi* — come (and); *havam* — our invocation; *śrudhi* — hear.
+
+**Bhāvārtha.** O Indra, come near us to eat the oblations offered with the call *svāhā*. Since the priests call you in the non-violent sacrifice, come, and hear our invocation.
+
+**English Translation (as printed).** Approach, Indra, to partake of the oblations consecrated with Swaha ; approach and hear the invocation, as they invoke you to the sacrifice.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***svāhākṛtāni*** — स्वाहा इत्येवंपूर्वा कृतिः करणमुच्चारणं यासां ताः स्वाहाकृतयः (*svāhā ityevaṃpūrvā kṛtiḥ karaṇamuccāraṇaṃ yāsāṃ tāḥ svāhākṛtayaḥ*): "the oblations which have the call *svāhā* as their utterance"; and *havyāni* is the epithet of the oblations (*havis*) joined with the mantra *svāhā*. This word occurs mostly at the end of the Āprī-sūktas. In some sūktas it is used in a more particular sense: in 1-[?]-[?] *svāhā kṛṇotana*, in 1-[?]-[?] *svāhā kartana*; in 1-[?]-[?]; 3-4-[?] as the epithet of *kṛtis* (the acts); in 1-[?]-[?] as an epithet of *havyam*; in 10-110-[?] as an epithet of *haviḥ*; and in the present sūkta *havyāni* is an epithet. In this word, since the deity of the term is the divine *svāhākṛti*, some have taken the deity here to be not Agni; others hold that Agni is meant. In the Praiṣa-sūkta:
+
+> होता यक्षदग्निग्ं स्वाहाज्यस्य … वीयन्तु [?] होतर्यज ।
+
+> *hotā yakṣadagnigṃ svāhājyasya … vīyantu [?] hotaryaja |*
+
+(Tai. Brā. 3-6-[?]-[?]; partly legible.) The commentator on this explains: ओयुं स्वाहाशब्दोदिते [?] उत्तमप्रयाजदेवः अग्निः (*oyuṃ svāhāśabdodite [?] uttamaprayājadevaḥ agniḥ*) — "the last *prayāja* deity, Agni, called by *svāhā*" — thus explaining it as a synonym of Agni. The Nirukta author:
+
+---
+
+### Printed p. 282  (PDF 300)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+> स्वाहाकृतयः स्वाहेत्येतत् सु आहेति वा स्वा वागाहेति वा स्वं प्राहेति वा स्वाहुतं हविर्जुहोतीति वा ।
+
+> *svāhākṛtayaḥ svāhetyetat su āheti vā svā vāgāheti vā svaṃ prāheti vā svāhutaṃ havirjuhotīti vā |*
+
+(Ni. 8-21 [?].) The sense given is: either that it is *su-āha* — spoken well; or in the manner of "well-spoken" (*svāha*), the word being so pronounced in speech; or "the offerer of *svāhā*" that is, the *mantra* with which an oblation is purified (*pūta*) and well offered, as famed. He then cites Ṛ. Saṃ. 10-110-11 and explains this sense in detail. In the Aitareya Brāhmaṇa:
+
+> स्वाहाकृतीर्यजति प्रतिष्ठा वै स्वाहाकृतयः प्रतिष्ठयैवैनं [?] तद्यज्ञमन्ततः प्रतिष्ठापयति ।
+
+> *svāhākṛtīryajati pratiṣṭhā vai svāhākṛtayaḥ pratiṣṭhayaivainaṃ [?] tadyajñamantataḥ pratiṣṭhāpayati |*
+
+(Ai. Brā. 2-9 [?].) It is explained that, since the oblation is made by *svāhā*, it is the end of the rite and the sacrifice is thereby set on a right foundation. In the Bṛhaddevatā:
+
+> स्वाहाकृतयोऽनेकाश्च विदुषां मतेऽभवन् [?] ।
+> कृत्स्नवर्गं [?] त्रयीमेनमग्निं विनिश्चयः ।
+> अयं हि कर्ता स्वाहानां कृतिस्त्रा [?] सामिधेन्यकेजा [?] ।
+> आयं प्रसूतिर्भूतानां सर्वेषामव्ययः [?] ॥
+
+> *svāhākṛtayo 'nekāśca viduṣāṃ mate 'bhavan [?] |*
+> *kṛtsnavargaṃ [?] trayīmenamagniṃ viniścayaḥ |*
+> *ayaṃ hi kartā svāhānāṃ kṛtistrā [?] sāmidhenyakejā [?] |*
+> *āyaṃ prasūtirbhūtānāṃ sarveṣāmavyayaḥ [?] ‖*
+
+(Bṛ. De. 2-9 to 2-10 [?]; partly legible.) On the subject of the *svāhākṛtis*, there are different opinions of the learned; all the ideas are indicated by this term, in order to indicate this earthly Agni. "This Agni is the doer of the *svāhās*; he is called the maker; by all other makers too, therefore, he is thus remembered; hence the earthly Agni alone is the begetter of all"; thus, following the opinion of the Nirukta author, *āgneya iti tu sthitiḥ* (Ni. 8-22) the Bṛhaddevatā states its own opinion.
+
+In the last Ṛks of the Āprī-sūktas, which conclude with *svāhā*, Dawn (Uṣas), the Maruts, Vāyu, Sūrya, Indra, Varuṇa and others are addressed; but above all (Agni):
+
+> पुरोगा अग्निर्देवानां गायत्रेण समज्यते । स्वाहाकृतीषु रोचते ॥
+
+> *purogā agnirdevānāṃ gāyatreṇa samajyate | svāhākṛtīṣu rocate ‖*
+
+(Ṛ. Saṃ. 1-188-11.)
+
+> सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः ।
+> अस्य होतुः प्रदिश्यृतस्य वाचि स्वाहाकृतं हविरदन्तु देवाः ॥
+
+> *sadyo jāto vyamimīta yajñamagnirdevānāmabhavatpurogāḥ |*
+> *asya hotuḥ pradiśyṛtasya vāci svāhākṛtaṃ haviradantu devāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-11.)
+
+---
+
+### Printed p. 283  (PDF 301)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+In such Ṛks it is praised that from the time of his birth Agni is the leader of the gods; and, explaining the greatness of the *svāhākṛti*:
+
+> आ याह्यग्ने समिधानो अर्वाङिन्द्रेण देवैः सरथं तुरेभिः ।
+> बर्हिर्न आस्तामदितिः सुपुत्रा स्वाहा देवा अमृता मादयन्ताम् ॥
+
+> *ā yāhyagne samidhāno arvāṅindreṇa devaiḥ sarathaṃ turebhiḥ |*
+> *barhirna āstāmaditiḥ suputrā svāhā devā amṛtā mādayantām ‖*
+
+(Ṛ. Saṃ. 3-4-11.)
+
+> अग्ने वह वरुणमिष्टये न इन्द्रं दिवो मरुतो अन्तरिक्षात् ।
+> सीदन्तु बर्हिर्विश्व आ यजत्राः स्वाहा देवा अमृता मादयन्ताम् ॥
+
+> *agne vaha varuṇamiṣṭaye na indraṃ divo maruto antarikṣāt |*
+> *sīdantu barhirviśva ā yajatrāḥ svāhā devā amṛtā mādayantām ‖*
+
+(Ṛ. Saṃ. 10-[?]-11.) In these Ṛks (and so on) it is signalled that the sacrificial offering of oblations is made with *svāhā*, which delights the gods.
+
+**(Āprī-sūktas) — Concluding Remarks (*upasaṃhāra*)**
+
+On the necessity of the Āprī-sūktas and their purpose, the scholar Max Müller first says that those deities were hymns for the appeasement of families or kinsmen [?], and, after that, said of the interpretation of their mystery, thus:
+
+"It is possible that Apri hymns may have been the songs of reconciliation and that they were called Apri, i.e., appeasing hymns, not because of their appeasing the anger of Gods but the enmities of the members of the same or different families. However it may be, they indeed prove an active intercourse between the ancient families of India long before the final collection of the ten books.......The original purpose of the Apri hymns and the motive for allowing the priests to choose, are difficult to discover" (Ancient Sanskrit Literature P. 246-7; English as printed).
+
+Regarding the places of the Āprī-sūktas in sacrificial rites and the deities, although there is disagreement even among scholars of the East and West, there are many common features in all the Āprī-sūktas; since the composition of the sūktas and the subjects each have a fixed pattern, it is said that all of them are seen to be composed together or to be connected with one another. Except the sages of the fourth [?] and sixth Maṇḍalas, all the others …
+
+---
+
+### Printed p. 284  (PDF 302)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+… the sages of the other Maṇḍalas all have the traditional Āprī-sūktas of their own families. In the eighth Maṇḍala the descendants of Kaṇva [?] have no separate Āprī-sūkta, yet it is famous that they use [Sūkta 1-13] (the Kāṇva Sūkta); the sages of the fourth and the sixth Maṇḍalas have no need of them, and the reason cannot be said [?]; or the descendants of Vāmadeva and Bhāradvāja may have used some other mantras (since Bharadvāja was born in the Āṅgirasa gotra, the well-known sūkta) in this place [?].
+
+*Mantras indicated by the terms Āprī and Āpra* — Kātyāyana in the Sarvānukramaṇī: विकदाप्रीसूक्तं … नाराशंसानि अप्रशब्दोक्तानि आतेनूनपात्रान्ति (*vikadāprīsūktaṃ … nārāśaṃsāni apraśabdoktāni ātenūnapātrānti*) [?] — the mantras addressed to the deity Narāśaṃsa are called *āpra*, although the mantras addressed to Tanūnapāt are famous as *āprī*; his sentences show this difference in the Nirukta and the like. Whether the term *āprī* belongs to the deity or to the sūkta also is a question; looking at the sūkta, it can be said that it is a sūkta for the deity, and the others are mantras of the deities [?].
+
+*Nature of the rite* — the sacrificial rite accomplished by the Āprī-sūktas, though it might be said to hold a secondary place, as an accessory to Brāhmaṇa-type rites, can in truth be said to have held the principal place. Its connection with the *prayāja* is known in many places: in the Ṛks 1-13-[?]; 1-142-[?]; 10-[?]-[?]; 3-4-[?]; 5-5-[?]; 7-2-[?] the mantra *imaṃ yajñam* occurs, in 3-4-[?]; 7-2-11 *no yajñam*, and in 1-142-[?]; 10-110-[?] *asmin yajñe* occurs, which indicate the sacrificial rite itself; and in the *prayāja* and other sūktas no rite whatever is seen to be treated as being of secondary place.
+
+*tridhā ā mimikṣati* (1-142-3); *tri-ṣadhasthāya* [?] (3-4-5): from these mantras it is understood that this rite is to be performed in the three periods of the day; and from *samiddho adya manuṣo duroṇe* (10-110-1) that there was a separate house for it, but that Agni can be installed in an ordinary house.
+
+> समिध्द्वमित्थुना [?] बोध्यस्मे शुचा शुचा सुमतिं रासि वस्वः ।
+> आ देव देवान्यजथाय वक्षि सखा सखीन्त्सुमना यक्ष्यग्ने ॥
+
+> *samidhdvamitthunā [?] bodhyasme śucā śucā sumatiṃ rāsi vasvaḥ |*
+> *ā deva devānyajathāya vakṣi sakhā sakhīntsumanā yakṣyagne ‖*
+
+(Ṛ. Saṃ. 2-9-4 [?].)
+
+---
+
+### Printed p. 285  (PDF 303)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 13 [?].)*
+
+In this Ṛk, and in this one that follows, the sage Viśvāmitra describes poetically the blazing of Agni and its being —
+
+> जुषस्व नः समिधमग्ने अद्य शोचा बृहद्यजतं धूममृण्वन् ।
+> उप स्पृश दिव्यं सानु स्तूपैः सं रश्मिभिस्ततनः सूर्यस्य ॥
+
+> *juṣasva naḥ samidhamagne adya śocā bṛhadyajataṃ dhūmamṛṇvan |*
+> *upa spṛśa divyaṃ sānu stūpaiḥ saṃ raśmibhistatanaḥ sūryasya ‖*
+
+(Ṛ. Saṃ. 2-3-1 [?].) in this Ṛk the description of the flame of Agni and the rays of the sun spreading together also shows the poetic form of the mantras. These very descriptions show that the sacrifice is performed at the beginning of the morning.
+
+The mantra *pūrvyaṃ tantuṃ tanuṣva* (1-142-1) shows that the sacrifice is ancient. Since this sacrifice is performed by the priests, together with the help of Agni, the divine *hotṛ*, the oblation of ghee is first to be offered to Agni. After the kindling of Agni the offering [of praise] goes towards the atmosphere (1-[?]-3), and then he brings the gods; Agni performs this service as the helper of men (3-4-5).
+
+*Artistry* [heading as read: *kṛtikauśalya* [?]] — Although the Āprī-sūktas were composed apart from one another, at different times, and are related to different families of sages, the sentence structure and the usage of words are of the same kind in all these sūktas, and so their special excellence shows a greater harmony and certainty than other sūktas.
+
+(Except two sūktas [?]) all the sūktas have eleven Ṛks, begin with the word *samidh* and end with *svāhā*, which shows a regular pattern from the point of view of poetry and art alike.
+
+As to metre there is no such restriction. The sūktas 1-13; 1-188; 5-5 and 9-5 [as read] are in the Gāyatrī metre; Sūkta 1-142 in Anuṣṭubh; and 3-4; 7-2; 2-3; 10-70 and 10-110 in Triṣṭubh. The mantra-parts *devān āvaha*, *devān yakṣi*, *viprā yajñeṣu mānuṣeṣu kāravaḥ* and so on are repeated.
+
+**Vyākaraṇa-prakriyā (Ṛk 13; grammar page, begun; noted briefly).** *gahi* (root *gamḷ gatau*; *loṭ*, second person singular, *sip*, *hi*; *bahulaṃ chandasi*: *śap* is *luk*; *anudāttopadeśa…* (Pā. Sū. 6-4-37): loss of the nasal *m* of the root; *asiddhavat…* …) *(continues on p. 286)*.
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–285 done (introductory essay; Ṛks 1–12 complete; Ṛk 13 *svāhākṛtāny ā gahi* (Indra): Saṃhitā through Special Topics, then the closing *upasaṃhāra* on the Āprī-sūktas (pp. 283–285); the grammar of Ṛk 13 is begun at the foot of p. 285 and continues on p. 286, where the sūkta ends). Next: printed p. 286 (PDF 304), then Sūkta 143. Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
