@@ -4768,4 +4768,128 @@ Thus the epithets *anākṛtaḥ*, *hvāraḥ*, *jaraṇāḥ*, as they tell the
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–189 done: Ṛks 1–6 complete; Ṛk 7 through printed English and Special Topics (*anākṛtaḥ*, *hvāraḥ*, *vakvā*, *jaraṇāḥ*, *kṛṣṇajaṃhasaḥ* begun))). Next: printed p. 190 (PDF 208) — Special Topics of Ṛk 7 continued (*jaṃhasaḥ*), grammar; then Ṛk 8. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 190  (PDF 208)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 189.)*
+
+> आ यस्मिन्त्वे स्वपाके यजत्र यक्षद्राजन्त्सर्वतातेव नु द्यौः । त्रिषधस्थस्ततरुषो न जंहो हव्या मघानि मानुषा यजध्यै ॥
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].) In this Ṛk, as the word *jaṃha* means *śīghraṃ gantā*, "one who goes swiftly", here too the sense is "he whose path of going"; and as Agni has the epithet *kṛṣṇavartmā*, so *kṛṣṇajaṃhāḥ* tells his nature.
+
+***patman*** — "on the way", that is, here "on the way of worship in the form of sacrifice".
+
+***rajaḥ*** — the special senses of this word have been given in the Special Topics of Ṛk 1-[?]-[?].
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar pages 190–191, noted briefly).** *asthāt* (root *ṣṭhā gatinivṛttau*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the present sense; third person singular, *tip*; loss of the *i*; when *cli* is replaced by *sic*, *gātisthāghupā*… (Pā. Sū. 2-4-77) gives *luk* of it; the augment *aṭ*; the accent: *ādyudātta* by the *aṭ*-augment, no *nighāta* because of the connected *yat*), *yajataḥ* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *bhṛmṛdṛśiyajiparvipatibhyo 'tac* (Uṇ. Sū. 3-110) suffix *atac*; *cit*: last-syllable accent), *vātacoditaḥ* (*vātena coditaḥ*; root *cuda preraṇe*; *kta* in the passive; *tṛtīyā karmaṇi* (Pā. Sū. 6-2-48): the first member's accent), *hvāraḥ* (root *hvṛ kauṭilye*; *bhvādi*; *ṇic* by *hetumati ca*; *āto 'nupasarge kaḥ*…; *ac* suffix; *ṇeraniṭi* drops *ṇic*; *cita*: last-syllable accent), *vakvā* (root *vaca paribhāṣaṇe*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) suffix *vanip*; by the mention of *dṛśyate* the *kārya* occurs without other causes too; *ku*-change of *c*; *pit*: *anudātta*, so the root accent remains; nominative singular), *jaraṇāḥ* (root *jṝ* in the sense of praise; *lyuṭ* in the passive; *yuvoranākau* (Pā. Sū. 7-1-1) *ana* for *yu*; *guṇa* by suffix-cause; *raparatva*; by *vyatyaya*, *liṅga*-… *āṭ* … *ṭāp*).
+
+### Printed p. 191  (PDF 209)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 8 [?].)*
+
+*Grammar (Ṛk 7, concluded; noted briefly):* *anākṛtaḥ* (a negated compound; *tatpuruṣe*…, Pā. Sū. 6-2-2: the accent of the first member), *patman* (root *patḷ gatau*; *anyebhyo 'pi dṛśyante* gives *manin*; *nit*: first-syllable accent; *supāṃ sulug…* (Pā. Sū. 7-1-39) *luk*), *dakṣuṣaḥ* (root *daha bhasmīkaraṇe*; *liṭ*; *kvasu* by *kvasuś ca* (Pā. Sū. 3-2-107); in the *kvasu* the reduplication does not apply in Vedic; *sip*; …; *ha* → *gha*, *ghatva*; *jhaṣ* …; *vasoḥ samprasāraṇam* (Pā. Sū. 6-4-131); *śāsivasighasīnāṃ ca* (Pā. Sū. 8-3-60) gives *ṣatva*), *kṛṣṇajaṃhasaḥ* (*kṛṣṇaḥ jaṃhā yasya saḥ*; *punaḥ punar gamyate iti jaṃhāḥ mārgaḥ*; root *han hiṃsāgatyoḥ*; *yaṅ-luk*; *asun* by *ṇ*…; Vedic *abhyāsācca* (Pā. Sū. 7-3-55) *ku*-change not here; *bahuvrīhau prakṛtyā pūrvapadam*: the first member's accent), *śucijanmanaḥ* (a *bahuvrīhi*, likewise the first member's accent), *vyadhvanaḥ* (*vividhā adhvānaḥ jvālāḥ yasya sa vyadhvā*; in the *bahuvrīhi* the first member's accent). ‖ 7 ‖
+
+---
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> रथो न यातः शिक्वभिः कृतो द्यामङ्गेभिररुषेभिरीयते ।
+> आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ॥ ८ ॥
+
+### Printed p. 192  (PDF 210)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**॥ पदपाठः ॥**
+
+> रथः । न । यातः । शिक्वऽभिः । कृतः । द्याम् । अङ्गेभिः । अरुषेभिः । ईयते ।
+> आत् । अस्य । ते । कृष्णासः । दक्षि । सूरयः । शूरस्यऽइव । त्वेषऽथात् । ईषते । वयः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni, set up by us, goes to the sky with his moving flame-limbs like a chariot bound with ropes; his paths turn black with smoke, and beasts and birds flee from his radiance as from a hero's might.* Small type; doubtful words marked)
+
+> अयमग्निः शिक्वभी रज्जुभिः कृतो बद्धो रथो न रथ इव । स यथा स्वैर्नाद्भिः [?] अङ्गैरीयते तद्वत् [?] … ज्वालादिरूपैरवयवैर्द्यामन्तरिक्षं [?] स्पृष्ट्वा सन्नीयते । गच्छति । ईङ् गतौ ॥ आत् प्रवृद्ध्यनन्तरमस्याग्नेस्ते सूरयः सरणयो मार्गाः कृष्णासः कृष्णवर्णा भवन्ति । यते [?] एवं भवन्ति तदेवाह । दक्षि दहति काष्ठानि [?] । छान्दसः शपो लुक् [?] । किंच ज्वलितस्याग्नेस्त्वेषथात् दीप्त्यात् [?] तेजसः सकाशाद्यज्ञोपकारार्थं [?] वयः पक्ष्यादि ईषते गच्छन्ति । ईष गतौ । बहुलं छन्दसीति शपो लुक् । पलायन्ते । तत्र दृष्टान्तः । शूरस्य त्वेषथादिव कस्यचिदाक्रान्तस्य दीप्त्या तेजसः सकाशादित्यपलायमानाः [?] … एवमन्तरिक्षं स्पृशन् सर्वतो दहतीति सर्वदा दावाग्निरूपेण स्तूयते ॥ [partly unread]
+
+**Pratipadārtha (Kannada).** *śikvabhiḥ* — with ropes; *kṛtaḥ* — bound; *ratho na* — as a chariot moves easily; *yātaḥ* — Agni, established (by us); *aruṣebhiḥ* — having the nature of moving about; *aṅgebhiḥ* — with the limbs in the form of flames; *dyām* — to the atmosphere; *īyate* — goes; *āt* — as soon as he has grown thus; *asya* — of this Agni; *sūrayaḥ* — the paths; *dakṣi* — by burning (the fuel); *kṛṣṇāsaḥ* — become black (with smoke); *śūrasya iva* — like an enemy that flees, terrified by the radiance of a hero; *tveṣathāt* — from the brilliant radiance (of this Agni); *vayaḥ* — all the beasts and birds that move about; *īṣate* — flee far away.
+
+**Bhāvārtha.** As a chariot bound with ropes moves easily, so Agni, established by us, goes to the atmosphere with his limbs in the form of flames that have the nature of moving about. As soon as he has grown thus, his paths, because they burn fuel and the like, become black with smoke. And as enemies, terrified by the radiance of a valiant hero, flee far away, so all the beasts and birds moving about, terrified by the brilliant radiance of this Agni, flee far away.
+
+### Printed p. 193  (PDF 211)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 8 [?].)*
+
+**English Translation (as printed).** Like a chariot drawn by ropes, Agni, set in movement by his own revolving members (his flames) proceeds to the heavens; the paths he traverses are blackened by smoke, as he consumes (the fuel), and (beasts and) birds fly from his radiance as (enemies) fly from the prowess of a hero.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***śikvabhiḥ*** — for this word in this Ṛk Sāyaṇa gives the sense *rajjubhiḥ*, "with ropes". The scholar Monier Williams, in his Sanskrit–English Dictionary, first gives for this word the sense "Skilful, clever, artistic", and afterwards (the English text reads: "accord. say. — Rajju and tejas") gives Sāyaṇa's view. Sāyaṇa too, except at this one place, has in all other places explained *śikva* as "strength" (*śakti*) or "brilliance" (*tejas*). For example —
+
+> प्र ये मे बन्धुवेशे गां वोचन्त सूरयः पृश्निं वोचन्त मातरम् । अथा पितरमिष्मिणं रुद्रं वोचन्त शिक्वसः ॥
+
+(Ṛ. Saṃ. 5-52-[?].)
+
+> व्यक्रन्द्रा [?] व्यहानि शिक्वसो व्यन्तरिक्षं वि रजांसि धूतयः । वि यदज्रान् अजथ नाव ईं यथा वि दुर्गाणि मरुतो नाह रिष्यथ [?] ॥
+
+(Ṛ. Saṃ. 5-54-[?].)
+
+> त्वं त्या चिदच्युताग्ने पशुर्न यवसे । धामा ह यत्ते अजर वना वृश्चन्ति शिक्वसः ॥
+
+(Ṛ. Saṃ. 6-3-[?].) In these Ṛks Sāyaṇa explains *śikvasaḥ* as *śaktāḥ*, "the powerful"; and in
+
+> तमस्मेरा युवतयो युवानं मर्मृज्यमानाः परि यन्त्यापः । स शुक्रेभिः शिक्वभी रेवदस्मे दीदायानिध्मो घृतनिर्णिगप्सु ॥
+
+(Ṛ. Saṃ. 2-35-4.) it is "shining" (*dīptasya prakāśamānasya*); and in this Ṛk *śikvabhiḥ* means *tejobhiḥ*, "with brilliances". All these senses support the sense given by Monier Williams. Only in this one place has the sense *rajjubhiḥ* been given. This sense also is suitable to this context. (continues on p. 194)
+
+### Printed p. 194  (PDF 212)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+***aruṣebhiḥ*** — for this word Sāyaṇa gives *gamanaśīlaiḥ*, "of a moving nature", and shows it as an epithet of *aṅgebhiḥ*. Or, since the word *aruṣa* has many senses, those that fit the context can be noticed. The Nirukta authors have counted this word among the names of the horse (Ni. 1-[?]), among the names of motion (Ni. 2-[?]) and as a synonym of "Uṣas" (Ni. 3-[?]). Also —
+
+> विता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते । निष्कृण्वाना आयुधानीव धृष्णवः प्रति गावोऽरुषीर्यन्ति मातरः ॥
+
+(Ṛ. Saṃ. 1-92-1.) citing this Ṛk, *aruṣīḥ* there is an epithet of Uṣas, in the sense *ārocamānā*, "radiant, brilliant". Thus this word is used in some places as an epithet and in others as the subject, giving different senses. For example —
+
+> युञ्जन्ति ब्रध्नमरुषं चरन्तं परि तस्थुषः । रोचन्ते रोचना दिवि ॥
+
+(Ṛ. Saṃ. 1-6-1.) If one examines the word *aruṣa* in this Ṛk, the sage here describes sunrise. Indra is conceived as the radiant deity desired, the Sun as his horse, the Maruts as his companions. Though the word *aruṣa* gives the sense "reddish-brown", here it is a synonym of "horse" or of "sun" as a synonym of horse; *bradhna* is an epithet of *aruṣa*. In the same manner, there are many contexts where *aruṣa* gives an independent and conventional sense as the subject. For example —
+
+> ये [?] ते अग्ने हरितो घृतस्ना रोहितास ऋजुअञ्चः स्वञ्चः । अरुषासो वृषण ऋजुमुष्का आ देवताति मिमृक्षन्त दस्माः ॥
+
+(Ṛ. Saṃ. 4-[?]-[?].) In this Ṛk the colour-words *haritaḥ*, *rohitāsaḥ*, *aruṣāsaḥ* denote horses of those colours. And —
+
+> आ वर्धयन्त्सुभगं सप्त यह्वीः श्वेतं जज्ञानमरुषं महित्वा । शिशुं न जातमभ्यारुरश्वा देवासो अग्निं जनिमन्वपुष्यन् ॥
+
+(Ṛ. Saṃ. 3-1-[?].) here it is an epithet of Agni; and
+
+> त्वं नृचक्षा वृषभानु पूर्वीः कृष्णास्वग्ने अरुषो वि भाहि । वसो नेषि च पर्षि चात्यंहः कृधी नो राय उशिजो यविष्ठ ॥
+
+(Ṛ. Saṃ. 3-15-3.) here it is an adverb (*kriyāviśeṣaṇa*). In this way in Ṛks 4-[?]-[?]; 1-[?]-[?]; 4-[?]-[?]; 4-[?]-[?] and many others it is used as an epithet. In some places one can see it used as a name denoting the visible deity himself — (continues on p. 195)
+
+### Printed p. 195  (PDF 213)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 8 [?].)*
+
+— taking just two Ṛks as examples:
+
+> अप स्वसुरुषसो नग्जिहीते रिणक्ति कृष्णीररुषाय पन्थाम् । अश्वामघा गोमघा वां हुवेम दिवा नक्तं शरुमस्मद्युयोतम् ॥
+
+(Ṛ. Saṃ. 6-65-1 [?].) Here Sāyaṇa himself has not given a settled sense for the word *aruṣāya*; he has given both *ārocamānāya agnaye sūryāya vā*, "to the radiant Agni or to the Sun", as alternatives. In explaining this Ṛk the view of the scholar Max Müller is noteworthy. He says:
+
+> *Here Arusha shares the same half-mythological character as Ushas, where we should speak of Dawn and morning as mere periods of time, the Vedic poet speaks of them as living and intelligent beings, half human, half divine, as powers of nature capable of understanding his prayers and powerful enough to reward his praises. I do not think that we need hesitate to take Arusha in this passage as a proper name of the morning, or of the morning sun to whom the dark Goddess, the Night, yields the path when he rises in the East.* (The Sacred Books of the East, Vol. XXXII, p. 21.)
+
+In the same way —
+
+> विरोचिष्ट [?] … दिवः शिशुं सहसः सूनुमग्निं यज्ञस्य केतुमरुषं यजध्यै ॥
+
+(Ṛ. Saṃ. 6-[?]-[?]; the first line is garbled at this resolution.) in this Ṛk too, although it is clear that *aruṣam* is an epithet of Agni, it would be no mistake to say that the word *aruṣa* is itself another proper name that is a synonym of Agni and indicates his nature. In explaining this Ṛk too the scholar Max Müller indicates his view of this word in this way:
+
+> *… … But I return to my original translation, and I prefer to see in Arusha the representative of the rising Sun and, at the same time, of the sacrificial fire of the morning, but nevertheless as having in the mind of the poet a personality of his own. He is the child of Dyu, originally the offspring of heaven. He is the son of strength, originally generated by the strong rubbing of the Aranis. He is the light of the sacrifice, whether as reminding man that the time for the morning sacrifice has come, or as himself lighting the sacrifice on the eastern altar of the sky. He is Arusha, originally as clothed in bright red colour, but gradually changed into the representative of the morning.* (S. B. E. Vol. 32, pp. 25–6.)
+
+Besides, since there are also passages in which the feminine word *aruṣī* is used [?] … if one considers the senses, (continues on p. 196)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–195 done: Ṛks 1–7 complete; Ṛk 8 through printed English and Special Topics (*śikvabhiḥ*, *aruṣebhiḥ* with Max Müller quotations) begun)). Next: printed p. 196 (PDF 214) — Special Topics of Ṛk 8 continued (*aruṣī*, *kṛṣṇāsaḥ* …), grammar; then Ṛk 9. Images exist to PDF 215; recrop 216 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
