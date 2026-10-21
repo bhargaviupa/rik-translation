@@ -5016,4 +5016,144 @@ The sacrifice mirrors the principle of the universe. The altar is the navel of t
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–201 done: Ṛks 1–8 complete; Ṛk 9 through printed English and Special Topics (Varuṇa/Mitra/Aryaman; Agni as centre; Śa. Brā. quotations))). Next: printed p. 202 (PDF 220) — Special Topics of Ṛk 9 continued, grammar; then Ṛk 10. Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 202  (PDF 220)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 201.)* In these sentences Agni, set upon the altar, is described as pervading all the worlds, and as the centre on which all the rites and all the cosmic workings are based; the sense is that all the activity of the *adhvaryu* proceeds on this basis. Hence Agni's Viśvātmaka nature is shown in the present Ṛk. Agni himself is *hotṛ*, Agni himself is *adhvaryu*, Agni himself is the sacrifice; and since all the parts of the sacrifice and all the sacrificial acts find their support and stability in Agni, this simile of the felly of the chariot-wheel is apt.
+
+> दिवि क्षयं [?] बृहतो जातवेदो वैश्वानर प्र रिरिचे महित्वम् । राजा कृष्टीनामसि मानुषीणां युधा देवेभ्यो वरिवश्चकर्थ ॥
+
+> *divi kṣayaṃ [?] bṛhato jātavedo vaiśvānara pra ririce mahitvam | rājā kṛṣṭīnāmasi mānuṣīṇāṃ yudhā devebhyo varivaścakartha ‖*
+
+(Ṛ. Saṃ. 1-59-5 [?].)
+
+> वैश्वानर तव धामान्या चके येभिः स्वर्विदभवो विचक्षण । जात आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ॥
+
+> *vaiśvānara tava dhāmānyā cake yebhiḥ svarvidabhavo vicakṣaṇa | jāta āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūrasi tmanā ‖*
+
+(Ṛ. Saṃ. 6-8-2.) In such Ṛks Agni's all-pervasiveness (*vibhutva*) and all-surpassing (*paribhāvukatva*) are described, and the point, that Agni surpasses all the deities by his own radiance, is stated in the present Ṛk also.
+
+**Vyākaraṇa-prakriyā (Ṛk 9; grammar pages 202–203, noted briefly).** *agne* (vocative; *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*), *dhṛtavrataḥ* (*dhṛtaṃ vrataṃ yena saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member's accent), *śāśadre* (root *śadḷ śātane*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6): *liṭ* in the present sense; third person singular; *liṭas tajhayor eśirec* (Pā. Sū. 3-4-81): *eś*; reduplication; *tujādīnāṃ dīrgho 'bhyāsasya* (Pā. Sū. 6-1-7): lengthening of the reduplicate; *bahulaṃ chandasi*: *ruṭ* augment to the suffix; because of the *ṭit*, *ādyudātta*-position [?]; because of the connected *hi*, *hica* (Pā. Sū. 8-1-34) barring *nighāta*; accent of the suffix, the final syllable *udātta*), *sudānavaḥ* (*śobhanaṃ dānaṃ yasya saḥ sudānuḥ*; root *dāñ dāne*; *dābhyāṃ nuḥ* (Uṇ. Sū. 3-[?]): suffix *nu*; final-syllable accent; compound: *nañsubhyām* (Pā. Sū. 6-2-172): the final accent; *vyatyayo bahulam*: the plural suffix for the singular).
+
+### Printed p. 203  (PDF 221)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+*Grammar (Ṛk 9, concluded; noted briefly):* *śāśadre* (in the second construction its process is different: root *śadḷ śātane*, in the passive *liṭ*; *iraśrore* … (Pā. Sū. 6-4-[?]): *ire* for the suffix; accents as before), *viśvathā* (*viśva*, in the sense of *prakāra*, by *pratnapūrvaviśvemāt thāl chandasi* (Pā. Sū. 5-3-111): suffix *thāl*; *lit*, so *litaḥ* (Pā. Sū. 6-1-193): accent of the preceding syllable *udātta*), *paribhūḥ* (*sarvataḥ bhāvitā paribhūḥ*; root *bhū sattāyām*; *kvip*; as a prefix compound, *gatikārakopapadāt kṛt*: the accent of the *kṛt*-final member), *ajāyathāḥ* (root *janī prādurbhāve*; in Vedic *laṅ* in the present sense; second person singular, *thās*; *divādibhyaḥ śyan*; *jñājanor jā* (Pā. Sū. 7-3-79): *jā*; *aṅga* takes *aḍ*; because of *yat*, *nipātair yadyadi*… bars *nighāta*; so the *aḍ*, *udātta*, makes it *ādyudātta*). ‖ 9 ‖
+
+---
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने शशमानाय सुन्वते रत्नं यविष्ठ देवतातिमिन्वसि ।
+> तं त्वा नु नव्यं सहसो युवन्वयं भगं न कारे महिरत्न धीमहि ॥ १० ॥
+
+> *tvamagne śaśamānāya sunvate ratnaṃ yaviṣṭha devatātiminvasi |*
+> *taṃ tvā nu navyaṃ sahaso yuvanvayaṃ bhagaṃ na kāre mahiratna dhīmahi ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । अग्ने । शशमानाय । सुन्वते । रत्नम् । यविष्ठ । देवऽतातिम् । इन्वसि ।
+> तम् । त्वा । नु । नव्यम् । सहसः । युवन् । वयम् । भगम् । न । कारे । महिऽरत्न । धीमहि ॥ १० ॥
+
+> *tvam | agne | śaśamānāya | sunvate | ratnam | yaviṣṭha | deva 'tātim | invasi |*
+> *tam | tvā | nu | navyam | sahasaḥ | yuvan | vayam | bhagam | na | kāre | mahi 'ratna | dhīmahi ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O youngest Agni, for the sacrificer who praises you and presses Soma, you convey the precious oblation to the gods; O son of strength, we place you, ever new and rich in treasure, in our hymn, as men praise a king.* Small type; doubtful words marked)
+
+> हे अग्ने यविष्ठ युवतम शंसं [?] शशमानाय त्वां स्तुवते । शशमानः शंसमानः इति यास्कः (नि. ३-८) । सुन्वते त्वदर्थं सोमाभिषवं कुर्वते यजमानाय [?] रत्नं रमणीयं हविर्देवतातिं देवानां [?] प्रीतिकरं देवेषु तायमानं विस्तार्यमाणं इन्वसि । व्याप्नोषि [?] …
+
+> *he agne yaviṣṭha yuvatama śaṃsaṃ [?] śaśamānāya tvāṃ stuvate | śaśamānaḥ śaṃsamānaḥ iti yāskaḥ (ni. 3-8) | sunvate tvadarthaṃ somābhiṣavaṃ kurvate yajamānāya [?] ratnaṃ ramaṇīyaṃ havirdevatātiṃ devānāṃ [?] prītikaraṃ deveṣu tāyamānaṃ vistāryamāṇaṃ invasi | vyāpnoṣi [?] …*
+
+### Printed p. 204  (PDF 222)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*Bhāṣya (continued, small type).*
+
+> … इन्वतिर्व्याप्तिकर्मा (नि. २-१८) [?] … हे सहसो युवन् युवतम [?] … बलेन [?] उत्पन्न … सहसस्तव [?] … मथनकाले बलेनोत्पन्नं बलस्य मिश्रयितारं वा । यद्वा सहसः सहस्कृतं युवानमुत्पन्न … नव्यं नवतरं स्तुत्यं वा तं तादृशं [?] त्वा त्वां वयं यजमानाः कारे शब्दे स्तोत्रलक्षणे नु क्षिप्रं धीमहि स्थापयामः । हविष्यदानसमये [?] स्तुमः इत्यर्थः । तत्र दृष्टान्तः । भगं नादित्यमिव । यद्वा । महान्तं राजानमिव । तं यथा स्तुवन्ति तद्वत् ॥ [partly unread]
+
+> *… invatirvyāptikarmā (ni. 2-18) [?] … he sahaso yuvan yuvatama [?] … balena [?] utpanna … sahasastava [?] … mathanakāle balenotpannaṃ balasya miśrayitāraṃ vā | yadvā sahasaḥ sahaskṛtaṃ yuvānamutpanna … navyaṃ navataraṃ stutyaṃ vā taṃ tādṛśaṃ [?] tvā tvāṃ vayaṃ yajamānāḥ kāre śabde stotralakṣaṇe nu kṣipraṃ dhīmahi sthāpayāmaḥ | haviṣyadānasamaye [?] stumaḥ ityarthaḥ | tatra dṛṣṭāntaḥ | bhagaṃ nādityamiva | yadvā | mahāntaṃ rājānamiva | taṃ yathā stuvanti tadvat ‖ [partly unread]*
+
+**Pratipadārtha (Kannada).** *yaviṣṭha* — extremely youthful; *agne* — O Agni; *tvam* — you; *śaśamānāya* — (to you) who praises; *sunvate* — (for you) who presses the Soma-juice, the sacrificer; *ratnam* — delightful oblation; *devatātim* — pleasing to the gods; *inyasi* — you cause to reach; *sahasaḥ yuvan* — [O you] born of strength, or ever young by strength; *mahiratna* — O Agni, possessed of vast wealth (to be bestowed on us); *navyam* — new-born, or worthy of praise; *tam* — that oblation, well known; *tvā* — you; *vayam* — we, the sacrificers; *kāre* — in the hymn in the form of praise; *bhagam na* — as one would a Bhaga, or a great king; *nu* — quickly; *dhīmahi* — we place [you] in praiseworthy fashion (we make you the subject of a hymn).
+
+**Bhāvārtha.** O most youthful Agni, for the sacrificer who praises you and presses Soma for you, you carry the delightful oblation, so that it may be pleasing to the gods. O Agni, born of strength, ever youthful, possessing abundant wealth, new-born and worthy of the sacrificer's oblation, we sacrificers earnestly make you the subject of praise in the hymn, as men eulogize a mighty prince.
+
+**English Translation (as printed).** Most youthfull Agni, for the good of him who praises you and offers you libations, you make the precious (offering) acceptable to the gods: new-born of strength, we glorify you who is to be lauded: to whom rich offerings (are to be presented:) we glorify you in (our) hymn as (men eulogize) a powerful prince.
+
+### Printed p. 205  (PDF 223)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***śaśamānāya*** — citing the Nirukta sentence *śaśamānaḥ śaṃsamānaḥ* (Ni. 3-8), Sāyaṇa explains it as *stuvate*, "to the sacrificer who praises". The Nirukta authors, citing —
+
+> यो वां यज्ञैः शशमानो ह दाशति कविर्होता यजति मन्मसाधनः । उपाह तं गच्छथो वीथो अध्वरमच्छा गिरः सुमतिं गन्तमस्मयू ॥
+
+> *yo vāṃ yajñaiḥ śaśamāno ha dāśati kavirhotā yajati manmasādhanaḥ | upāha taṃ gacchatho vītho adhvaramacchā giraḥ sumatiṃ gantamasmayū ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) — explain the sense of the word *śaśamānaḥ* (Ni. 3-8).
+
+In the first half of the Ṛk, the favour that Agni does to the sacrificer is described: he takes the delightful oblation and carries it to the gods and offers it.
+
+***inyasi*** — *invatiḥ vyāptikarmā* (Ni. 2-18): *asmadīyaṃ havir devān prāpayasi*: "you make our oblation reach the gods"; the word suggests the sense of distributing it among all the gods and gratifying them all.
+
+***navyam*** — *nava, nūtana* and the like are read among the names of the new (Ni. 3-[?]): *kṣipropapannaṃ nūtanam*: "just now come into being"; therefore "worthy of praise".
+
+***kāre*** — *stotralakṣaṇe śabde*: "in the word that is a hymn". *dhīmahi* is "we place": we make you the subject of a splendid hymn. Since the word *kāra* shows *kriyate iti kāraḥ*, "what is done", it may be the act of sacrifice, the act of battle, or the act of praise; the meaning of this word must be understood according to each context. For example —
+
+> सहावा पृत्सु तरणिर्नार्वा व्यानशे रोदसी मेहनावान् । भगो न कारे हव्यो मतीनां पितेव चारुः सुहवो वयोधाः ॥
+
+> *sahāvā pṛtsu taraṇirnārvā vyānaśe rodasī mehanāvān | bhago na kāre havyo matīnāṃ piteva cāruḥ suhavo vayodhāḥ ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?] [?].) in this Ṛk the word *kāra* is given the sense "sacrifice" (*kriyate iti kāraḥ yajñādiḥ; tasmin yajñe*), and
+
+> जयेम कारे पुरुहूत कारिणोऽभि तिष्ठेम दूढ्यः । नृभिर्वृत्रं हन्याम शूशुयाम चावेरिन्द्र प्र णो धियः ॥
+
+> *jayema kāre puruhūta kāriṇo 'bhi tiṣṭhema dūḍhyaḥ | nṛbhirvṛtraṃ hanyāma śūśuyāma cāverindra pra ṇo dhiyaḥ ‖*
+
+(Ṛ. Saṃ. 8-21-12 [?].) (continues on p. 206)
+
+### Printed p. 206  (PDF 224)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+in this Ṛk *kāre* is *kīryante āyudhāny atra iti kāraḥ yuddhaṃ tasmin jayema*: "the battle, in which weapons are sharply discharged, is called *kāra*; in this battle may we conquer." The word *kāra* suggests the prayer for victory. In the present Ṛk it means the act of praise.
+
+***bhagaṃ na*** — here the word *bhaga* is said to mean either the god Bhaga, one of the Ādityas, or a great king. *Bhago bhajateḥ* (Ni. 1-2): since it expresses the sense of worship, either of these two senses may be given. As the god Bhaga, or the worshipful king, becomes the subject of praise, so we make Agni too the subject of praise: so it is compared.
+
+**Vyākaraṇa-prakriyā (Ṛk 10; grammar pages 206–207, noted briefly).** *śaśamānāya* (*śaṃsamānaḥ* (Niru. 3-8) says Yāska; root *śasu stutau*; *śānac* in the present sense; *cit*: last-syllable accent; dative singular), *sunvate* (root *ṣuñ abhiṣave*; *dhātor ādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64): initial *ṣ* → *s*; *laṭ*-sense *śatṛ*; *svādibhyaḥ śnuḥ* (Pā. Sū. 3-1-73): *śnu*; *sārvadhātukamapit*: no *guṇa*; *yaṇ*; dative singular, *num*-less since the suffix is without *num*; *śatuḥ anumo nadyajādī* (Pā. Sū. 6-1-173): the case-ending *udātta*), *ratnam* (*ramayatīti ratnam*; *rameś ca* (Uṇ. Sū. 3-[?]): suffix *na*; *m* of the root → *t*; *nit*, first-syllable accent), *yaviṣṭha* (*atiśayena yuvā yaviṣṭhaḥ*; *yuvan*; *ātiśāyane tamabiṣṭhanau* (Pā. Sū. 5-3-55): suffix *iṣṭhan*; *sthūladūra*… (Pā. Sū. 6-4-156): loss of *van*; *guṇa* of *u*; *av*; vocative: *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*), *devatātim* (*sarvadevāt tātil* (Pā. Sū. 4-4-142): suffix *tātil*; *lit*, so *litaḥ* (Pā. Sū. 6-1-193): the accent of the syllable before the suffix *udātta*), *inyasi* (root *invi vyāptau*; *invati, nakṣati* are read as verbs of pervading (Niru. 2-[?]); *iditaḥ num*: *num*; *laṭ* second person singular; as it follows an *ati-jñanta*, *nighāta*).
+
+### Printed p. 207  (PDF 225)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+*Grammar (Ṛk 10, concluded; noted briefly):* *navyam* (*bhave chandasi* (Pā. Sū. 4-4-110): suffix *yat*; *yasyeti ca*: loss of the *a*; *yato 'nāvaḥ* (Pā. Sū. 6-1-213): *ādyudātta*), *sahaso yuvan* (*sāmantrite parāṅgavat svare* (Pā. Sū. 2-1-2): *parāṅgavad* in the accent, so the whole combination gets *nighāta* by *āmantritasya ca* (Pā. Sū. 8-1-19)), *mahiratna* (*mahi ratnaṃ yasya saḥ mahiratnaḥ*; in the vocative *āmantrita*, *nighāta*), *dhīmahi* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṅ*, first person plural, *mahiṅ*; *liṅaḥ sīyuṭ*: *sīyuṭ*; *lopo vyor vali*: loss of *y*; *chandasy ubhayathā* (Pā. Sū. 3-4-117): the *liṅ* has *sārvadhātuka* status too; *liṅaḥ salopo 'nantyasya* (Pā. Sū. 7-2-79): loss of *s*; *śap* is *luk* by *bahulaṃ chandasi*; because of the *ārdhadhātuka* status, *ato lope iṭi ca* (Pā. Sū. 6-4-64): loss of the *ā* of the root; the form *dhīmahi*; *ati-jñanta*, so *nighāta*). ‖ 10 ‖
+
+---
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> अस्मे रयिं न स्वर्थं दमूनसं भगं दक्षं न पप्रचासि धर्णसिम् ।
+> रश्मीँरिव यो यमति जन्मनी उभे देवानां शंसमृत आ च सुक्रतुः ॥ ११ ॥
+
+> *asme rayiṃ na svarthaṃ damūnasaṃ bhagaṃ dakṣaṃ na papracāsi dharṇasim |*
+> *raśmī~riva yo yamati janmanī ubhe devānāṃ śaṃsamṛta ā ca sukratuḥ ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्मे इति । रयिम् । न । सुऽअर्थम् । दमूनसम् । भगम् । दक्षम् । न । पप्रचासि । धर्णसिम् ।
+> रश्मीन्ऽइव । यः । यमति । जन्मनी इति । उभे इति । देवानाम् । शंसम् । ऋते [?] । आ । च । सुऽक्रतुः ॥ ११ ॥
+
+> *asme iti | rayim | na | su 'artham | damūnasam | bhagam | dakṣam | na | papracāsi | dharṇasim |*
+> *raśmīn 'iva | yaḥ | yamati | janmanī iti | ubhe iti | devānām | śaṃsam | ṛte [?] | ā | ca | su 'kratuḥ ‖ 11 ‖*
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–207 done: Ṛks 1–10 complete; Ṛk 11 Saṃhitā and Pada (p. 207))). Next: printed p. 208 (PDF 226) — Ṛk 11 bhāṣya, Pratipadārtha etc.; then Ṛks 12–13. Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
