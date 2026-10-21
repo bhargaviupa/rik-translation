@@ -1178,4 +1178,92 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–44 done: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya (partly), Pratipadārtha, Bhāvārtha, printed English, Special Topics begun). Next: printed p. 45 (PDF 63) — Special Topics of Ṛk 2 continued (*ṛta*, *mitrāvaruṇa*…), grammar, then Ṛk 3. Images at 120 dpi in /tmp/v11a (PDF 33–80). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–2 largely unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations; grammar sūtra numbers; the Kannada "balls of sacrifice" is the source's misprint for "halls"; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 45  (PDF 63)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Special Topics of Ṛk 2, continued from p. 44.)* …[these two orders] are carried out by them is explained later, in the sūkta addressed to Mitra and Varuṇa themselves. Here one must understand how Mitra and Varuṇa obtained the *anṛta* from the *ṛta* and how they supplied it to the world.
+
+Here *ṛta* may be said to mean "that which has an eternal state", and *anṛta* "that which has a non-eternal state, since water dries up and disappears". As the Upaniṣads and others say, *satya* and *anṛta* also mean "true" and "untrue". In this Ṛk *ṛta* also means the orb of the sun, which has an eternal state: in the Ṛksaṃhitā it is customary to call the radiant orb, which keeps to its rule in moving through the quarters of the sky, *ṛta*.
+
+> द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।
+> आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः [?] ॥
+
+> *dvādaśāraṃ nahi tajjarāya varvarti cakraṃ pari dyāmṛtasya |*
+> *ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ [?] ‖*
+
+(Ṛ. Saṃ. 1-164-11.) The wheel of *ṛta* with twelve spokes revolves round the sky; the description that its seven hundred and twenty sons stand in pairs, each occupying its place, indicates the twelve spokes as twelve months and the 360 days and nights [as printed]. It is described, with other examples, how Uṣas too follows this path of *ṛta* by rule, without a break. To show the relation between the sun and this wheel of *ṛta*, it is fitting in the Ṛk at hand to take *ṛta* as the sun.
+
+> अदर्शि गातुरुरवे वरीयसी पन्था ऋतस्य समयंस्त रश्मिभिश्चक्षुर्भगस्य रश्मिभिः [?] ।
+
+> *adarśi gātururave varīyasī panthā ṛtasya samayaṃsta raśmibhiścakṣurbhagasya raśmibhiḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) In the description that for the sun, of vast form, the still wider path of *ṛta* is made with the help of his rays, the wide path of *ṛta* in the sky is indicated. This same path of *ṛta*
+
+> अग्निर्गन्धर्वीं पथ्यामृतस्य [?] … आ निषत्ता [?] ।
+
+> *agnirgandharvīṃ pathyāmṛtasya [?] … ā niṣattā [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) is described as the very lofty, wide *gandharva*-path. And
+
+> उरु त्यच्चक्षुर्महि मित्रयोरा [?] एति प्रियं वरुणयोरदब्धम् ।
+> ऋतस्य शुचि दर्शतमनीकं रुक्मो न दिव उदिता व्यद्यौत् [?] ।
+
+> *uru tyaccakṣurmahi mitrayorā [?] eti priyaṃ varuṇayoradabdham |*
+> *ṛtasya śuci darśatamanīkaṃ rukmo na diva uditā vyadyaut [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?])
+
+> ऋतस्य पदे अधि दीद्यानं गुहा रघुष्यद्रघुयद्विवेद [?] ।
+
+> *ṛtasya pade adhi dīdyānaṃ guhā raghuṣyadraghuyadviveda [?] |*
+
+(Ṛ. Saṃ. 9-[?]-[?] [?]) (continued on p. 46).
+
+### Printed p. 46  (PDF 64)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+In these Ṛks the sun, rising at the "face" of *ṛta* (in the sky), shines most beautifully; and in
+
+> परि श्रिता पितरा पूर्वजावरी ऋतस्य योना क्षयतः समोकसा [?] ।
+> द्यावापृथिवी वरुणाय सव्रते घृतवत्पयो महिषाय पिन्वतः [?] ॥
+
+> *pari śritā pitarā pūrvajāvarī ṛtasya yonā kṣayataḥ samokasā [?] |*
+> *dyāvāpṛthivī varuṇāya savrate ghṛtavatpayo mahiṣāya pinvataḥ [?] ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) it is described that the sun moves in the middle, the "womb" of *ṛta*, looking upon heaven and earth. Likewise in Ṛ. Saṃ. 1-164-[?], 10-[?]-[?] and others, the sun is described as shining in the region of *ṛta*. Therefore in this Ṛk *ṛtāt* means "from the sun in the orb of *ṛta*".
+
+But that *anṛta* here is an epithet of water is a point worth some thought. The word *ṛta* is read among the names of water in the Nirukta (Ni. [?]-[?]); in the Ṛksaṃhitā too, in about twenty Ṛks, *ṛta* means water. So how does *anṛta* come to mean water here? If *ṛta* is taken as "truth", the view of some philosophers that water is the first principle of the universe is understood as "water, which is of the nature of truth". In the Nirukta the words *ṛtam*, *yoniḥ*, *ṛtasya yoniḥ*, *satyam*, *nīram* are all put together among the names of water. And water, whose nature is to sink away in streams and the like, is impermanent and so momentary in its form of truth. Therefore Sāyaṇa explains *anṛtaṃ naśvaraṃ śoṣaṇasvabhāvam*. The sense is: Mitra and Varuṇa, taking the water, here called *anṛta*, from the sun, here called *ṛta*, poured it on the world.
+
+***manyunā.*** The word *manyu* is used in the Ṛksaṃhitā in two or three senses. In the Nirukta the word is explained: *manyur manyater dīptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā* (Ni. 10-[?]) — from the root *man* meaning shining, or being angry, or smiting. Here *svena manyunā* means "by their own radiance, by their own power".
+
+> वर्धयेतामोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू [?] ।
+> चित्रेभिरभ्रैरुप तिष्ठथो रवं द्यां वर्षयथो असुरस्य मायया [?] ।
+
+> *vardhayetāmoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū [?] |*
+> *citrebhirabhrairupa tiṣṭhatho ravaṃ dyāṃ varṣayatho asurasya māyayā [?] |*
+
+(Ṛ. Saṃ. 5-[?]-[?] [?]) (continued on p. 47).
+
+### Printed p. 47  (PDF 65)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+…As described in such Ṛks, Mitra and Varuṇa pour water from the sky; it is said that the raining of rain is possible only by their power.
+
+***dakṣasya.*** *Samarthasya* — "of the capable"; the sense is "by his power of protection". Since *dakṣa* is read among the names of strength (Ni. 2-[?]), the meaning is given thus. Or:
+
+> दक्षस्य वादि [?] जन्मनि व्रते राजाना मित्रावरुणा विवाससि [?] ।
+
+> *dakṣasya vādi [?] janmani vrate rājānā mitrāvaruṇā vivāsasi [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) as said in this Ṛk, Dakṣa's power also abides in Mitra and Varuṇa; since this is proper, it may also be taken as "by the *manyu* related to Dakṣa".
+
+***hiraṇyayam.*** *Hiraṇyarūpam* — "having a golden form".
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ādadāthe* (root *dudhāñ dāne*; *liṭ* second person dual, *āthām*; reduplication; as *yat* precedes and is connected, *nighāta* is barred by *nipātair yad yadi…* (Pā. Sū. 8-1-[?]); the suffix takes the first-syllable accent), *itthā* (*idamas thamu* (Pā. Sū. 5-3-[?]), in the sense of manner; the case-ending replaced by *supāṃ sulukpūrva…* (Pā. Sū. 7-1-[?]) with *ḍāc*/*ṭi*-loss; *antodāttaś ca yatrodāttalopaḥ* [?] (Pā. Sū. 6-1-[?])), *sadmasu* (root *sad*, "going, sitting, perishing"; *manin* by *anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-[?]); *nit*, first-syllable accent), *apaśyāma* (root *dṛśir prekṣaṇe*; Vedic *laṅ* first person plural; first-syllable accent), *yuvoḥ* (*yuvayoḥ*, the *y* dropped by Vedic usage), *hiraṇyayam* (*mayaṭ* in the sense of "made of"; the *ṭ* of *mayaṭ* is lost by *ṛtyakaḥ*…/*nityaṃ vṛddhaśaradibhyaḥ* [?] (Pā. Sū. 6-[?]-[?]) by *nipātana*), *dhībhiḥ* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?]): the case-ending takes the *udātta*). Sūtra numbers not read.
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–47 done: Ṛks 1–2 complete). Next: printed p. 48 (PDF 66) — Ṛk 3 (the Aśvins' triplet begins): Saṃhitā, Pada, bhāṣya, …. Images at 120 dpi in /tmp/v11a (PDF 33–80; recrop 81 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–2 largely unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations (esp. pp. 45–46); the "ṛta/anṛta" discussion pp. 44–46; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
