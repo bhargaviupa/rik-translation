@@ -934,6 +934,8 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ## Sūkta 139
 
+### Printed p. 36 (continued; PDF 54)
+
 *(The Kannada heading reads "The 139th Sūkta".)*
 
 *(Anukramaṇī, Sanskrit; not rendered in English. Gist: "Astu śrauṣaṭ", the sixth sūkta of the twentieth anuvāka, has eleven Ṛks; Parucchepa is the ṛṣi; Viśvedevāḥ the deity of the whole sūkta, with separate deities for individual Ṛks; the last Ṛk is Triṣṭubh, the fifth Bṛhatī, the rest Atyaṣṭi; its use in the Daśarātra rite is cited from the Āśvalāyana Śrautasūtra. Small type; doubtful words marked.)*
