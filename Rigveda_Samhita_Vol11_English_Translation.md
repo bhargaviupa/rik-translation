@@ -676,4 +676,60 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–23 done: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics through *ajiram* begun). Next: printed p. 24 (PDF 42): the sentence on *ajiram* continues (Ṛg *girā vājiraśociṣam* …), rest of Ṛk 2 Special Topics and grammar, then Ṛk 3. Workflow: CLAUDE.md "Cost-saving rules"; images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost), zoom only dense Sanskrit small type; helpers /tmp/v11/app11.py, kn_merge.py, setkn.py. Open flags: as in the previous note, plus Ṛk 2 bhāṣya on p. 22 (small type; *pārayateḥ* phrase and the *stomān yaśovato* clause), all Ni./Ṛg numerals, and the Pratipadārtha first clauses (rough).
+### Printed p. 24  (PDF 42)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Special Topics of Ṛk 2, continued from p. 23.)* [The sentence on *ajiram* ends:] "…from its speed [as in *vājiraśociṣam*] the radiant Agni is described." In the same way *ajira* is an epithet of swift enemies, of swift horses, and of gods who go swiftly to the sacrifice. In the Ṛk at hand it describes Pūṣan, who comes quickly to the sacrifice; Sāyaṇa, giving the example *ajiraṃ na śīghragāminam aśvam iva*, makes it also an epithet of a horse that runs swiftly.
+
+***mṛdhaḥ.*** *Mṛdh* is read among the names of battle (Ni. 2-[?] [?]); the Kannada says the word also has the sense "enemy" in some places, as Yāska shows in the Ṛk
+
+> वि न इन्द्र मृधो जहि नीचा यच्छ पृतन्यतः [?] ।
+
+> *vi na indra mṛdho jahi nīcā yaccha pṛtanyataḥ [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?] [?]) where *mṛdhaḥ* are those who make war (Ni. 2-[?] [?]). In the Ṛk at hand the word is used in two senses: first *saṃgrāmān uddiśya*, "with battle in view"; second *saṃgrāme hiṃsakān yoddhṝn*, "in battle, the warriors who harm".
+
+***pīparaḥ.*** *Pāraṃ nayasi* — "you carry across". Yāska reads *pīparat* among the verbs of carrying across/protecting (Ni. 3-[?] [?]); in the Saṃhitā the form occurs in
+
+> अंहसो यत्र पीपरद्यथा नो नावेव यान्तमुभये हवन्ते [?] ।
+
+> *aṃhaso yatra pīparadyathā no nāveva yāntamubhaye havante [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+> आश्वो न स्वे दम आ हेम्यावान्तमंहसः पीपरो दाश्वांसम् [?] ।
+
+> *āśvo na sve dama ā hemyāvāntamaṃhasaḥ pīparo dāśvāṃsam [?] |*
+
+(Ṛ. Saṃ. 4-[?]-[?] [?].) In these Ṛks *aṃhasaḥ pīparaḥ* means "carry across from sin"; "as one crosses a river"; likewise here, "carry us across the fighting, from the harassment of enemies".
+
+***āṅgūṣān.*** *Āṅgūṣaḥ stoma āghoṣaḥ* (Ni. 5-[?] [?]): a *stotra* which must be recited aloud is called *āṅgūṣa*. In explaining Ṛ. Saṃ. 1-[?]-[?] [?] Skandasvāmin says that both "Soma" and "*stoma*" may be meant; but this word is used in many places of the Ṛgveda, and in all it means *stotra*.
+
+### Printed p. 25  (PDF 43)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ajiram* (root *aja gatikṣepaṇayoḥ*; the Uṇ. suffix *kirac*, by *nipātana*; no *vī*-substitution; accent by *cita*), *yāmani* (root *yā prāpaṇe*; *mani*; accent *jñatyāḥ…*; locative with *vibhāṣā*), *stomebhiḥ* (*bhis* → *ais* is not made by *bahulaṃ chandasi*), *kṛṇve* (root *kṛñ*; Ātmanepada by *kṛñ*; *laṭ* first person; *iṭ*; *ṭita ātmanepadānām* gives *e*; *dhinvikṛṇvyor a*), *ṛṇavaḥ* (root *ṛṇa gatau*; *tanādi*; *leṭ* second person; *aṭ* augment; *u* by *tanādikṛñbhya uḥ*), *pīparaḥ* (root *pṝ pālanapūraṇayoḥ*; *jeṣamati* …; *luṅ*/*śap*; reduplication), with accent rules; sūtra numbers mostly not read.
+
+### Printed p. 26  (PDF 44)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+*(Grammar of Ṛk 2, concluded; noted briefly.)* *huve* (root *hvem̐ spardhāyāṃ śabde ca*; *laṭ* first person; *saṃprasāraṇa*; *e*), *devam* (root *divu*, in the sense of play and the like; *nandigrahapacādibhyo 'c*; *laghūpadhaguṇa*), *sakhyāya* (*sakhyuḥ ya*; *yasyeti ca*; dative), *āṅgūṣān* (*āṅgūṣaḥ stoma āghoṣaḥ*, Ni.; root *ghuṣ* with *ā*; *prṣodarādi*; accent by *thāthaghañ…*), *kṛdhi* (root *ḍukṛñ karaṇe*; *loṭ* second person; *hi* → *dhi*; *luk* of the *vikaraṇa* by *bahulaṃ chandasi*; *śrusṛkṛ…*; *nighāta* after a tiṅanta). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> यस्य ते पूषन्त्सख्ये विपन्यवः क्रत्वा चित्सन्तोऽवसा बुभुज्रिर इति क्रत्वा बुभुज्रिरे ।
+> तामनु त्वा नवीयसीं नियुतं रायं ईमहे ।
+> अहेळमान उरुशंस सरी भव वाजेवाजे सरी भव ॥ ३ ॥
+
+> *yasya te pūṣantsakhye vipanyavaḥ kratvā citsanto 'vasā bubhujrira iti kratvā bubhujrire |*
+> *tāmanu tvā navīyasīṃ niyutaṃ rāyaṃ īmahe |*
+> *aheḷamāna uruśaṃsa sarī bhava vājevāje sarī bhava ‖ 3 ‖*
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–26 done: Ṛks 1–2 complete; Ṛk 3 Saṃhitā written at the foot of p. 26). Next: printed p. 27 (PDF 45): Ṛk 3 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; then Ṛk 4. Workflow: CLAUDE.md "Cost-saving rules"; images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost), zoom only dense Sanskrit small type; helpers /tmp/v11/app11.py, kn_merge.py, setkn.py (all in /tmp, may need recreating: app11 = append English before the final progress note; setkn = replace the Kannada file's final note). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛk 1 and Ṛk 2; all Ni./Ṛg/Tai. Brā./Bṛ. De. numerals and quotations on pp. 17–19, 23–24; grammar sūtra numbers (not read); Sūkta 137 and Pīṭhike flags as before.
