@@ -870,4 +870,58 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–32 done: Ṛks 1–3 complete; Ṛk 4 through Special Topics *ajāśva*, *dasma* begun). Next: printed p. 33 (PDF 51) — *dasma* continued, rest of Ṛk 4 Special Topics and grammar, then Ṛk 5. Images at 120 dpi in /tmp/v11a (PDF 33–60; recrop if lost). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–4; all Ni./Ṛg/Tai. Brā./Bṛ. De. numerals and quotations (pp. 17–19, 23–24, 28–29, 32); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 33  (PDF 51)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+*(Special Topics of Ṛk 4, continued from p. 32.)* [*dasma*, continued:] …"one possessing beauty" is the other sense. Derived from the root *dasi darśanadaṃśanayoḥ* the word means "worth seeing, charming"; derived from *dasu upakṣaye* it means "destroyer (of foes)". Since gods such as Indra possess both kinds of power, it is shown that *dasma* may be taken in either of the two senses. For example:
+
+> जुजोषदिन्द्रो दस्मवर्चा नासत्येव सुग्म्यो रथेषाः [?] ।
+
+> *jujoṣadindro dasmavarcā nāsatyeva sugmyo ratheṣāḥ [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].)
+
+> त्वं भगो न आ हि रत्नमिषे परिज्मेव क्षयसि दस्मवर्चाः [?] ।
+
+> *tvaṃ bhago na ā hi ratnamiṣe parijmeva kṣayasi dasmavarcāḥ [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].)
+
+> पूषा सुबन्धुर्दिव आ पृथिव्या इळस्पतिर्मघवा दस्मवर्चाः [?] ।
+
+> *pūṣā subandhurdiva ā pṛthivyā iḷaspatirmaghavā dasmavarcāḥ [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].) In such Ṛks, in the first place *śatrūpakṣayaṇabalaḥ* — "one whose strength destroys foes"; in the second, *varcaḥ* is a name for form: *dasmaṃ darśanīyaṃ varcaḥ yasya tādṛśaḥ* — "one whose form is charming", is shown to be the sense. As the adjective *dasma* is applied in many places of the Ṛksaṃhitā to Indra and other gods, in the Ṛk at hand it is applied to Pūṣan, describing his foe-destroying power and his lovely form.
+
+***āghṛṇe.*** *Sarvato vṛṣṭeḥ kṣārayituḥ*; or *haviṣām āhartaḥ svīkartaḥ* — Sāyaṇa explains that Pūṣan is addressed as "one who pours down rain on all sides" or "one who receives oblations". That Pūṣan has this epithet is a matter of discussion among critics. His qualities are of many kinds, and as they show various aspects of his nature it is hard to decide what his original nature is; for recent critics it is a difficult question. Yāska counts Pūṣan among the gods of the sky region [sic, *dyusthāna*]; the scholar Bloomfield, following Yāska, on the strength of the epithet *āghṛṇi* in Ṛ. Saṃ. 6-[?]-[?], 6-[?]-[?], 6-[?]-[?] and the like, maintains that Pūṣan is the Sun who gives light. Some oppose this: they say the word *āghṛṇi* relates only to radiance and may be used of any radiant deity, with no rule that it must be the Sun; for example in Ṛ. Saṃ. 9-[?]-[?] [?] it is also an epithet of Agni; so from this one epithet it cannot be decided that Pūṣan is the Sun. Yāska, the author of the Bṛhaddevatā and other followers of the Vedic tradition (continued on p. 34)
+
+### Printed p. 34  (PDF 52)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
+
+…have shown clearly that *āghṛṇi* is an epithet showing only Pūṣan's distinction. Yāska, giving the derivation of the word in the Nirukta, explains *āgatahṛṇiḥ* ("one whose *hṛṇi* has come") and cites the Ṛk in which the word occurs:
+
+> एहि वां विमुचो नपादाघृणे सं सचावहै । रथीर्ऋतस्य नो भव [?] ॥
+
+> *ehi vāṃ vimuco napādāghṛṇe saṃ sacāvahai | rathīrṛtasya no bhava [?] ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?].) The Kannada says: *hṛṇi* is read both among words for radiance (Ni. 3-[?]) and among names of anger (Ni. 2-[?]); so Durgācārya, commenting on the word, says *āghṛṇi-śabdo dīptivācakaḥ; dīptikarmasu ca paṭhito vinā 'yaṃ hṛṇiḥ iti* ("the word *āghṛṇi* means radiance; *hṛṇi* is read among words of radiance") — "radiant" is one sense — and *krodho 'pi hṛṇir ity ucyate* ("anger too is called *hṛṇi*"), so another sense is possible: "the one whose wrath is directed at us — may we appease him". In sum, it is an epithet showing Pūṣan's distinction. The authors of the Bṛhaddevatā, in the verses
+
+> त्रैको विश्वेषां देवानां पूष्ण आघृणये त्र्यचे [?] । [… rest of the quotation not legible at this resolution …] ॥
+
+> *traiko viśveṣāṃ devānāṃ pūṣṇa āghṛṇaye tryace [?] | [… rest of the quotation not legible at this resolution …] ‖*
+
+(Bṛ. De. [?]-[?]-[?] [?]) show that because a leather bag filled with *ghṛṇi* (an intoxicating substance) is tied to his chariot he is called *āghṛṇi*, and that the poets, singers of praise, therefore praised Pūṣan as *āghṛṇi*. Sāyaṇa gives the sense given above — *vṛṣṭeḥ kṣārayituḥ* or *haviṣām āhartuḥ* — only in the present Ṛk, but in all the other Ṛks where the word occurs (3-[?]-[?], 6-[?]-[?] and others) he explains it as *āgate dīpte pūṣan*. In 6-[?]-[?] alone is the epithet used of Agni; elsewhere it is always Pūṣan's, and shows his distinction.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *ūṣu* (*su* by Pā. Sū. 8-3-[?]; the preceding word is a *nimitta*), *sātaye* (*ūtiyūti jūti sāti heti kīrtayaś ca* (Pā. Sū. 3-3-[?]): *ktin*, final-accent; dative singular), *bhuvaḥ* (root *bhū sattāyām*; *leṭ* second person singular, *sip*; *iteś ca lopaḥ* (Pā. Sū. 3-4-[?]) drops *i*; *bahulaṃ chandasi*).
+
+### Printed p. 35  (PDF 53)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4, continued; noted briefly).** *asyāḥ* (*ūḍidaṃpadādi* (Pā. Sū. 6-1-[?]): the case-ending takes the *udātta*), *ririvān* (root *rā ādāne*; *kvasu* by *bhāṣāyāṃ…* (Pā. Sū. 3-2-[?]); reduplication; *ārdhadhātuke…*; *ririvān* not *pada*, hence the *ni*… [?]), *śravasyatām* (*śravaḥ ātmana icchati*, *kyac*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-[?]); the root so formed; *śatṛ* suffix, *śap*; genitive plural), *vavṛtīmahi* (root *vṛtu vartane*; *ṇic*; *liṅ* first person plural; *sīyuṭ*; *bahulaṃ chandasi*: *luk* of *śap* and so on), *dasma* (*iṣiyudhīndhi…* (U. Sū. 1-[?]) *ma* suffix; vocative; *āmantritasya ca* (Pā. Sū. 8-1-[?]) *nighāta*), *atimanye* (root *man̐ avabodhane*, *divādi*; *laṭ* first person singular; *hiṅ ca* (Pā. Sū. 8-1-[?]) prevents *nighāta*; *śyan*, so the first syllable is accented). Sūtra numbers not read.
+
+---
+
+**Progress note:** **Pīṭhike done; Sūkta 137 complete; Sūkta 138 in progress** (printed pp. 14–35 done: Ṛks 1–4 complete). Next: printed p. 36 (PDF 54) — rest of Ṛk 4 grammar (if any), then Ṛk 5 and the remaining Ṛks of Sūkta 138. Images at 120 dpi in /tmp/v11a (PDF 33–60; recrop with crop_pages.py if lost). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–4; all Ni./Ṛg/Bṛ. De. numerals and quotations (pp. 17–19, 23–24, 28–29, 32–34, incl. garbled Bṛ. De. quotation on p. 34); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
