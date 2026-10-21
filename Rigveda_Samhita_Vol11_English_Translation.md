@@ -7076,4 +7076,170 @@ The story of Tvaṣṭṛ and the sage Dadhyañc has been given in the Special T
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–273 done (introductory essay; Ṛks 1–10 complete; Ṛk 11 *avasṛjann upa tmanā* (Vanaspati): Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha on p. 273; its printed English and Special Topics follow on p. 274). Next: printed p. 274 (PDF 292). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 274  (PDF 292)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**English Translation (as printed).** Vanaspati, here present of your own accord, convey our offerings to the gods ; the divine and intelligent Agni accepts (the oblations) for the deities.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***vanaspate*** — what the nature of *vanaspati* is must be understood after much deliberation. On the basis of this word, some modern Western scholars have concluded that in Vedic times the violent animal sacrifice was strong, and that the Āprī-sūktas are *prayāja* mantras belonging to such a sacrifice. Looked at in a gross way, *vanaspati* means the sacrificial post (*yūpa-stambha*) to which the sacrificial animal is tied. But whether this is a post for binding the sacrificial animal or not may be determined by attending to the Śruti sentences and then reasoning from them. In the Praiṣa-sūkta:
+
+> होता यक्षद्वनस्पतिमुपावसृक्षद्धियो जोष्टारं [?] शशमानं नरि [?] स्वदात्त्वधितिः [?]
+> ऋतुथाद्य देवो देवेभ्यो हव्यवाडन्येऽन्यस्य [?] होतर्यज ॥
+
+> *hotā yakṣadvanaspatimupāvasṛkṣaddhiyo joṣṭāraṃ [?] śaśamānaṃ nari [?] svadāttvadhitiḥ [?]*
+> *ṛtuthādya devo devebhyo havyavāḍanye 'nyasya [?] hotaryaja ‖*
+
+(Tai. Brā. 3-6-[?]-[?]; partly legible.) The commentator's gloss on this mantra is of this kind: वनस्पतिं योऽसाधारणभूतं दशमप्रयाजदेवतात्मकमग्निं दैव्यो होता यजतु (*vanaspatiṃ yo 'sādhāraṇabhūtaṃ daśamaprayājadevatātmakamagniṃ daivyo hotā yajatu*) [?]: "the *vanaspati* is the support of the post, and is the tenth *prayāja* deity, Agni; let the divine Hotṛ sacrifice to him". To this *vanaspati* are applied the epithets *dhiyo joṣṭā*, *svadāt svadhitiḥ*, *devebhyaḥ ṛtuthā havyavāṭ*, *yajñasya āyuḥ kalpamānaḥ* and so on. Of these, *dhiyo joṣṭā* is "one who pleases the intellect" [?]; *svadhitiḥ* — with the axe [?], a divider; *ṛtuthā* — at the proper time (*kālaviśeṣe*) *adya*, in this rite, he makes sweet the oblation given by us [?]; and *yajñasya āyuḥ kalpamānaḥ* means "one who prolongs the life of the sacrificer". By such epithets the Praiṣa-sūkta states the identity of Agni and *vanaspati*. In the Aitareya Brāhmaṇa *prāṇo vai vanaspatiḥ* (2-[?]) is said. The Nirukta author first gives the derivation and then in the Āprī-sūkta … *(this paragraph read at low confidence)*
+
+---
+
+### Printed p. 275  (PDF 293)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12.)*
+
+… tells us the nature of *vanaspati*. While explaining the Ṛk 3-[?]-[?] he shows the derivation of the word *vanaspati* (Ni. 8-[?]): *vanānāṃ pā vā pālayitā vā* — "the protector or guardian of the forests (*vana*)" — and says that, since Agni is the lord (*prabhu*) of the *vana*s, he is called *vanaspati*; and *vanoti* [?], from the root *van* meaning "to take, to obtain", he is called *vanaspati*. Then in discussing the nature of the deities of the Āprī-sūkta (Ni. 8-[?]) he says *tat ko vanaspatiḥ; yūpa iti kātthakyaḥ; agnir iti śākapūṇiḥ* — giving the two opinions, "he is the post (*yūpa*)", say Kātthakya, "he is Agni", says Śākapūṇi — and to support Kātthakya's view he cites:
+
+> आञ्जन्ति त्वामध्वरे देवयन्तो वनस्पते मधुना दैव्येन ।
+> यदूर्ध्वस्तिष्ठा द्रविणेह धत्तादद्वा क्षयो मातुरस्या उपस्थे ॥
+
+> *āñjanti tvāmadhvare devayanto vanaspate madhunā daivyena |*
+> *yadūrdhvastiṣṭhā draviṇeha dhattādadvā kṣayo māturasyā upasthe ‖*
+
+(Ṛ. Saṃ. 3-8-1.) In this Ṛk Sāyaṇa has addressed *vanaspati* as *yūpa*. Then, to support Śākapūṇi's view the Nirukta author cites:
+
+> वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् ।
+> स्वदाति देवः कृणवद्धवींष्यवताद्द्यावापृथिवी हवं मे ॥
+
+> *vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān |*
+> *svadāti devaḥ kṛṇavaddhavīṃṣyavatāddyāvāpṛthivī havaṃ me ‖*
+
+(Ṛ. Saṃ. 10-70-10.) Sāyaṇa has taken even this as *yūpa*; but Durgācārya, in his Nirukta commentary, explaining this Ṛk and *yat punarvanaspatiḥ* [?], says: यूपान्तर्गतो ऽग्निः (*yūpāntargato 'gniḥ*) — "the Agni within the post", and *atra bravīti: agnir evāsau yūpāntargato yūpātmanā vartamāno yūpa-jañjanīyo vanaspatiśabdenocyate* [?]: "Agni residing within the post, being in the post's form, is called *vanaspati*". Here *vanaspati* means the Agni within the post, and not another; the Nirukta author, he says, has established. The author of the Bṛhaddevatā says:
+
+> वनस्पतिं तु यं प्राहुरयं सोऽग्निर्वनस्पतिः ।
+> अयं वनानां हि पतिः पाता पालयितेति वा ।
+> अग्निर्गृह्णमदेनायं वनस्पतिरितीरितः [?] ।
+> मन्दस्त्वेकस्य सूक्तस्य पल्यचस्य [?] तृतीयया ।
+> यूपवर्त्मोपवच्चैव स्तुतिरस्य प्रसङ्गजा ।
+> सर्वेणाञ्जाति सूक्तेन तृतीये सा तु मण्डले [?] ॥
+
+> *vanaspatiṃ tu yaṃ prāhurayaṃ so 'gnirvanaspatiḥ |*
+> *ayaṃ vanānāṃ hi patiḥ pātā pālayiteti vā |*
+> *agnirgṛhṇamadenāyaṃ vanaspatiritīritaḥ [?] |*
+> *mandastvekasya sūktasya palyacasya [?] tṛtīyayā |*
+> *yūpavartmopavaccaiva stutirasya prasaṅgajā |*
+> *sarveṇāñjāti sūktena tṛtīye sā tu maṇḍale [?] ‖*
+
+(Bṛ. De. 3-48 to 3-50 [?]; partly legible.)
+
+---
+
+### Printed p. 276  (PDF 294)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+By these sentences, the nature of the Āprī deity aimed at in Ṛ. Saṃ. 10-[?]-[?] is discussed. Here *vanaspati* is simply "Agni", and in Ṛ. Saṃ. 3-8-[?] a Ṛk in the third Maṇḍala … having accepted *yūpa*, Durga, on the strength of *gṛhyamadena* [?] and *vanaspati* word, says that it means Agni; in the third Maṇḍala, in certain Ṛks only, *yūpa* or the "tree" is the meaning, he shows, and *prasaṅgaja* ("incidental"). In the same way —
+
+> इहैव पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः ।
+> अमुष्मिन्नेव लोकेऽग्निः [?] … रुच्यते [?] ॥
+
+> *ihaiva pavamāno 'gnirmadhyamo 'gnirvanaspatiḥ |*
+> *amuṣminneva loke 'gniḥ [?] … rucyate [?] ‖*
+
+(Bṛ. De. 1-44 [?].) In this verse *vanaspati* is the Agni of the middle world, and in the Ṛks, leaving aside certain places, it is clearly said that in many places this word is applied to Agni alone.
+
+In the Ṛk 10-70-10 cited above, *rasanayā niyūya devānām upavakṣi*, it is a prayer that the oblation be carried to the gods tied firmly, as it were with a rope; there, it is not at all necessary that a sacrificial animal be tied to the *yūpa* ... [?]. In the Āprī-sūktas, when examined all together, in no Ṛk is the binding of the sacrificial animal indicated. And in Ṛks 1-188-10, 3-4-10, 7-2-10 the word *havyāni*, the oblations, and in the present sūkta *havyā* [?], in 10-110-10 and the like the words *haviṣī*, *havyam* are used, and the oblations are appropriately indicated by words of common sense and meaning (*sāmānya*); words that relate to the offerings (*ājya*, *haviṣ*) are indicated.
+
+The word *śamitā* applied to *vanaspati* occurs, in worldly usage, in the sense of "one who kills" or "who destroys" (*nāśa*). In the Āprī-sūktas, in four Ṛks besides this one of the other places, this word is used. In 1-[?]-[?] and 10-[?] the general meaning "who makes" [?] appears. In the Ṛk 3-[?]-[?] "who cuts the soma-creeper" and in 3-[?]-[?] "who cuts the skin", it is only a word applying to the officiating priest [?], and only those who rely on the sacrificial animal take this word, in general, for them (the animal-slaughter school). If we take only the Ṛks of the Āprī-sūktas in which this word is used —
+
+> वनस्पतिरवसृजन्नुपस्थादग्निर्हविः सूदयाति प्रधीभिः ।
+> त्रिधा समक्तं नयतु प्रजानन् देवेभ्यो दैव्यः शमितोप हव्यम् ॥
+
+> *vanaspatiravasṛjannupasthādagnirhaviḥ sūdayāti pradhībhiḥ |*
+> *tridhā samaktaṃ nayatu prajānan devebhyo daivyaḥ śamitopa havyam ‖*
+
+(Ṛ. Saṃ. 3-4-10.)
+
+---
+
+### Printed p. 277  (PDF 295)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12.)*
+
+In this Ṛk, *śamitā* is "the purifier (*saṃskartā*)" of the oblation [?], or the divine *śamitā* named Agni [?]: "Agni is the *śamitā* of the gods, so it is said" [?]. And:
+
+> उपावसृज त्मन्या समञ्जन् देवानां पाथ ऋतुथा हवींषि ।
+> वनस्पतिः शमिता देवो अग्निः स्वदन्तु हव्यं मधुना घृतेन ॥
+
+> *upāvasṛja tmanyā samañjan devānāṃ pātha ṛtuthā havīṃṣi |*
+> *vanaspatiḥ śamitā devo agniḥ svadantu havyaṃ madhunā ghṛtena ‖*
+
+(Ṛ. Saṃ. 10-110-10.) In this Ṛk, since Sāyaṇa explains *śamitā* as the god named Agni (or, "named *śamitṛ*"), the word *śamitā* there has not been taken as "slaughterer of the sacrificial animal"; accordingly the word *vanaspati*, the sacrificial post in which the animal is bound, is not meant as the *yūpa-stambha*.
+
+***avasṛjan*** — स्वरं वर्तयन् ऋत्विजः स्वस्वकर्मसु न्यापारयन् (*svaraṃ vartayan ṛtvijaḥ svasvakarmasu nyāpārayan*): "setting the priests to their own acts"; the meaning is "putting the priests to their several duties".
+
+**Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly).** *avasṛjan* (root *sṛja visarge*; in the present sense *śatṛ*; *tudādibhyaḥ śaḥ*: vikaraṇa *śa*; here there is no *guṇa* because of *ṅit* [?]; *tiṅ ca* … (Pā. Sū. 8-1-[?]) the *gati* (*ava*) has *nighāta* accent), *tmanā* (when the form *ātmanā* arises, *mantreṣv āṅyādes ātmanaḥ* (Pā. Sū. 6-4-141) drops the *ā*), *yakṣi* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*, *bhvādi*; *laṭ*, second person singular; *sip*; *bahulaṃ chandasi*: *śap* is *luk*; *vraścabhrasja…* (Pā. Sū. 8-2-36): *ṣatva* of the *ja*; *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41): *kṣatva*; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59): *ṣatva* of the suffix *s*; after *ati…* the *nighāta*), *vanaspate* (*pāraskaraprabhṛtīni ca saṃjñāyām* (Pā. Sū. 6-1-157): *suṭ*; hence *nighāta* in the vocative; *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*), *havyā* (*havyāni*; *śeś chandasi bahulam* (Pā. Sū. 6-1-70): loss of *śi*), *suṣūdati* (root *ṣūda kṣaraṇe*; *leṭ* third person singular, *tip*; *bahulaṃ chandasi*: *śap* gets *ślu*; *ślu* causes reduplication of the root …
+
+---
+
+### Printed p. 278  (PDF 296)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+… *dvitva*; *hrasvaḥ* [by *abhyāsasya hrasvaḥ*]; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94): *aṭ* augment for the suffix; being after an *ati…* word the *nighāta* accent), *medhiraḥ* (root *medhṛ medhāhiṃsanayoḥ*; *iran*, an *ṇidādika* [?] suffix; *jhaṣkāḥ…* (Pā. Sū. 6-1-[?]): first-syllable *udātta* accent). ‖ 11 ‖
+
+---
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> पूषण्वते मरुत्वते विश्वदेवाय वायवे ।
+> स्वाहा गायत्रवेपसे हव्यमिन्द्राय कर्तन ॥ १२ ॥
+
+> *pūṣaṇvate marutvate viśvadevāya vāyave |*
+> *svāhā gāyatravepase havyamindrāya kartana ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> पूषण्ऽवते । मरुत्ऽवते । विश्वऽदेवाय । वायवे ।
+> स्वाहा । गायत्रऽवेपसे । हव्यम् । इन्द्राय । कर्तन ॥ १२ ॥
+
+> *pūṣaṇ 'vate | marut 'vate | viśva 'devāya | vāyave |*
+> *svāhā | gāyatra 'vepase | havyam | indrāya | kartana ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O priests, make the offering with "svāhā" to Indra, in the form of the Gāyatra, accompanied by Pūṣan, the Maruts, the whole assembly of gods, and Vāyu.* Small type)
+
+> पूषण्वते पूषा तदस्यास्ति । अनो नुडिति नुट् । ह्रस्वनुड्भ्यां मतुबिति मतुप उदात्तत्वम् ॥ मरुत्वते मरुद्भिः सह वर्तमानाय विश्वदेवाय सर्वदेवसंघाय वायवे गमनशीलाय च तथा गायत्रवेपसे । वेप इति रूपनाम । गायत्रशब्द इतरसामोपलक्षणः । गायत्रस्य वेपो रूपं यस्य ताद्दृशायेन्द्राय हव्यं हविः प्रदातुं स्वाहा कर्तन स्वाहाकारं कुरुत ऋत्विजः । करोतेर्लोटि तप्तनप्तनथनाश्चेति तनबादेशः ॥
+
+> *pūṣaṇvate pūṣā tadasyāsti | ano nuḍiti nuṭ | hrasvanuḍbhyāṃ matubiti matupa udāttatvam ‖ marutvate marudbhiḥ saha vartamānāya viśvadevāya sarvadevasaṃghāya vāyave gamanaśīlāya ca tathā gāyatravepase | vepa iti rūpanāma | gāyatraśabda itarasāmopalakṣaṇaḥ | gāyatrasya vepo rūpaṃ yasya tāddṛśāyendrāya havyaṃ haviḥ pradātuṃ svāhā kartana svāhākāraṃ kuruta ṛtvijaḥ | karoterloṭi taptanaptanathanāśceti tanabādeśaḥ ‖*
+
+**Pratipadārtha (Kannada).** *pūṣaṇvate* — accompanied by Pūṣan; *marutvate* — by the Maruts, the gods; *viśvadevāya* — to the assembly of all the gods; *vāyave* — to Vāyu; *gāyatravepase* — who has the Gāyatra form; *indrāya* — to Indra; *havyam* — the oblation; *svāhākartana* — make the *svāhā*-call (to offer it).
+
+---
+
+### Printed p. 279  (PDF 297)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 12.)*
+
+**Bhāvārtha.** Make the call *svāhā* and offer the oblation to Indra, who is accompanied by Pūṣan, who is with the Maruts, the assembly of all the gods, and Vāyu, and who has the Gāyatra form.
+
+**English Translation (as printed).** (Priests), present the oblation with Swaha to Indra, in the form of the Gayatra, along with Pushan and the Maruts ; also the assembled gods, and to Vayu.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***gāyatravepase*** — वेप इति रूपनाम । गायत्रशब्द इतरसामोपलक्षणः (*vepa iti rūpanāma | gāyatraśabda itarasāmopalakṣaṇaḥ*) ("*vepa* is a name for form; the word *gāyatra* indicates the other *sāmans* also"): "to Indra, who has the form of *gāyatra*"; Sāyaṇa explains it as "for Indra, who has the form of the Gāyatra [Sāman]; the one who is pleased by song and who has a form that is supreme by song". The meaning is that he is the praised by song, and has a beautiful form. In the epithet —
+
+> आ त्वेहि [?] सबर्दुघां हुवे गायत्रवेपसम् ।
+> इन्द्रं धेनुं सुदुघामन्यामिषमुरुधारामरंकृताम् ॥
+
+> *ā tvehi [?] sabardughāṃ huve gāyatravepasam |*
+> *indraṃ dhenuṃ sudughāmanyāmiṣamurudhārāmaraṃkṛtām ‖*
+
+(Ṛ. Saṃ. 8-6-10 [?].) in this Ṛk the nature of Indra is told. But Sāyaṇa there has made *gāyatravepasam* an epithet of *dhenum* (cow) and explained *praśastavegām* "of excellent speed [?]". Here some hold that the epithet is applicable to Indra. In the Ṛk 8-[?]-[?], the word *gāthaśravasam* is an epithet of Indra, and given the sense *gāthayā kīrtivantam* ("famed through song"); likewise here also the word *gāyatravepase* has the same sense and is an epithet of Indra.
+
+***svāhā kartana*** — स्वाहाकारं कुरुते (*svāhākāraṃ kurute*) ("make the *svāhā*-call"). Its further particulars will be given in the next Ṛk.
+
+**Vyākaraṇa-prakriyā (Ṛk 12; grammar page, noted briefly).** *pūṣaṇvate* (*pūṣā tasyāsti* [= *pūṣā asya asti*]; *tadasyāsti*… gives suffix *matup*; *ano nuḍ* (Pā. Sū. 6-4-[?]) gives *nuṭ* augment; *hrasvanuḍbhyāṃ matup* (Pā. Sū. 6-1-176): *matup* is *udātta*; dative singular), *viśvadevāya* (*viśve devā yasya saḥ viśvadevaḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member keeps its natural accent).
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–279 done (introductory essay; Ṛks 1–11 complete; Ṛk 12 *pūṣaṇvate marutvate* (Svāhākṛtayaḥ): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics on *gāyatravepase*, and grammar begun on p. 279, continuing on p. 280). Remaining in the sūkta: Ṛk 12 grammar, Ṛk 13 (Indra), the closing discussion of the Āprī-sūktas. Next: printed p. 280 (PDF 298). Images at 120 dpi in /tmp/v11a (PDF 33–305; recrop 306 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277 read at low confidence; grammar pages read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
