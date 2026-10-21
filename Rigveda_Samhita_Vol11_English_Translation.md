@@ -2430,4 +2430,78 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–91 done: Ṛks 1–9 complete; Ṛk 10 through printed English; Special Topics (*hotā*, *bṛhaspatiḥ*, *ukṣabhiḥ*, *adreḥ ślokam*, *arariṇdāni*) begun). Next: printed p. 92 (PDF 110) — the rest of the Ṛk 10 Special Topics and grammar; then Ṛk 11 to finish the sūkta (PDF 111 onward need recropping: `python3 publish/tools/pageprep/crop_pages.py Rig_Vol11.pdf 111 140 /tmp/v11a --dpi 120`). Images at 120 dpi in /tmp/v11a (PDF 33–110). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–10 largely unread); Varga numerals of Sūkta 139; Nirukta/Nighaṇṭu/Upaniṣad numerals; the Bṛ. De. quotation and the *arariṇda* etymology on pp. 91 doubtful; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 92  (PDF 110)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Special Topics of Ṛk 10, concluded from p. 91.)* …*ārabhogaṃ dadātīty arthaḥ* [?] — "it gives the enjoyment". *Rari* means "gift"; since it gives an enjoyment that cannot be got from others and benefits the world, it is called *arariṇda*: so a third derivation is possible.
+
+***sukratuḥ.*** This word may mean either the sacrificer, the doer of excellent rites, or Bṛhaspati. If the sacrificer is meant, *arariṇdāni* is to be taken as the water that is the means of sacrifice; if Bṛhaspati, as the water that takes the form of rain.
+
+**Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly).** *hotā* (root *hu dānādanayoḥ*; *tṛn* in the agent sense; *guṇa* of the root; first-syllable accent by *nityādir nityam*; nominative singular), *yakṣat* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *leṭ* third person singular, *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-[?]) drops the *i*; *leṭo 'ṭāṭau* (Pā. Sū. 3-4-[?]) *aṭ*; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-[?]) *sip*; *coḥ kuḥ* (Pā. Sū. 8-2-[?]) *kutva* for the *j*; *khari ca* (Pā. Sū. 8-4-[?]) *carva*; hence *yakṣat*; as a *tiṅanta* follows, *nighāta*), *vanta* (root *vana saṃbhaktau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *laṅ* in the sense of *loṭ*; third person plural *jhi*, *jho 'ntaḥ* gives *anta*; by *vyatyayo bahulam* it is *ātmanepada* in place of *parasmaipada*; *bahulaṃ chandasi*: *luk* of *śap*; Vedic loss of the final of the root; *nighāta*), *vāryam* (root *vṛñ varaṇe*; *ṛhaloṇ nyat* (Pā. Sū. 3-1-[?]) *ṇyat*; as it is *ñit*, *vṛddhi*; *iḍāgama*; first-syllable accent), *bṛhaspatiḥ* (*tadbṛhatoḥ karapatyoś coradevatayoḥ* (Pā. Sū. 6-1-[?]) *suṭ*; *ubhe vanaspatyādiṣu* (Pā. Sū. 6-2-[?]) accent of both members), *yajati* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *laṭ* third person singular; *tiṅanta nighāta*), *veṇaḥ* (the Nirukta reads *veṇa kāntikarmā*; in the agent sense, by its place among the *pacādi* roots, *ac*; as it is *cit*, final-syllable accent) …
+
+### Printed p. 93  (PDF 111)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 10, continued; noted briefly).** *ukṣabhiḥ* (root *ukṣa secane*; *kani* by U. Sū. 1-[?]; *nipātana*; first-syllable accent of the suffix; instrumental plural), *puruvārebhiḥ* (root *vṛñ varaṇe*; suffix; by *ñittva* the root takes *vṛddhi*; the first-syllable accent by *ñnityādir nityam*; in a compound, *kṛdutarapadaprakṛtisvara*; in the instrumental plural *bahulaṃ chandasi* gives no *ais* to *bhis*; *bahuvacane jhaly et* gives *e*), *jagṛbhma* (root *graha upādāne*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *liṭ* in the sense of the present; first person plural *masi*, *mas*; *babhūvā…*, by *bahulaṃ chandasi* the *iḍ* augment is *nipātana*; by the statement *ghṛgrahor bhaś chandasi* the *h* → *bh*; no *nighāta* since at the beginning of a *pāda*; final-syllable accent by the suffix), *dūreādiśam* (*dūre ādiśyate yasya saḥ taṃ dūreādiśam*; *haladantāt saptamyāḥ saṃjñāyām* (Pā. Sū. 6-3-[?]) *aluk* of the locative in a compound; first-member accent), *adha* (= *atha*; Vedic change of letter), *tmanā* (for *ātmanā*; *mantreṣv āṅyādeḥ…* drops the initial *ā*), *adhārayat* (root *dhṛñ dhāraṇe*; *hetumati ca* *ṇic*; Vedic *laṅ* in the sense of the present; third person singular; no *nighāta*; the *aḍ* being *udātta*, first-syllable accent), *arariṇdāni* (root *rari dāne*; *rā dāne*; *ki* suffix; "*nāsya anyo rariḥ pipāsopaśamanasya*…"; or *arariḥ…*, *ātonupasarge kaḥ* (Pā. Sū. 3-2-[?]) *ka*; *pṛṣodarādi* form-formation and accent; *āpomayaḥ prāṇaḥ* (as the Śruti says), its meaning "giving"), *sukratuḥ* (*kratvādayaś ca* (Pā. Sū. 6-2-[?]) the first member's *udātta*). ‖ 10 ‖
+
+#### Ṛk 11
+
+### Printed p. 94  (PDF 112)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+**॥ संहितापाठः ॥**
+
+> ये देवासो दिव्येकादश स्थ पृथिव्यामध्येकादश स्थ ।
+> अप्सुक्षितो महिनैकादश स्थ ते देवासो यज्ञमिमं जुषध्वम् ॥ ११ ॥
+
+> *ye devāso divyekādaśa stha pṛthivyāmadhyekādaśa stha |*
+> *apsukṣito mahinaikādaśa stha te devāso yajñamimaṃ juṣadhvam ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> ये । देवासः । दिवि । एकऽदश । स्थ । पृथिव्याम् । अधि । एकऽदश । स्थ ।
+> अप्सुऽक्षितः । महिना । एकऽदश । स्थ । ते । देवासः । यज्ञम् । इमम् । जुषध्वम् ॥ ११ ॥
+
+> *ye | devāsaḥ | divi | eka 'daśa | stha | pṛthivyām | adhi | eka 'daśa | stha |*
+> *apsu 'kṣitaḥ | mahinā | eka 'daśa | stha | te | devāsaḥ | yajñam | imam | juṣadhvam ‖ 11 ‖*
+
+*(Gist, mine: gods, eleven in heaven, eleven on earth, eleven in the waters or sky by your greatness: come together and enjoy this sacrifice.)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the Āśvalāyana citation, then the bhāṣya. Gist: *O gods, you who are eleven in heaven, eleven on earth, eleven in the mid-air by your greatness, delight in this our sacrifice.* Small type; doubtful words marked)
+
+> दशरात्रे षष्ठेऽहनि प्रउगशस्त्रे वैश्वदेवतृचस्य द्वितीया ये देवासः इत्येषा । सूत्रितं च । ये देवासो दिव्येकादश स्थेयमुदापद्भृषसं [?] । आ. [?] इति ॥
+
+> *daśarātre ṣaṣṭhe 'hani praugaśastre vaiśvadevatṛcasya dvitīyā ye devāsaḥ ityeṣā | sūtritaṃ ca | ye devāso divyekādaśa stheyamudāpadbhṛṣasaṃ [?] | ā. [?] iti ‖*
+
+> हे देवासो देवा द्योतनशीला यो यूयं दिवि द्युलोके एकादश स्थ एकं च दश चेत्येकत्रंख्याका [?] भवथ तथा पृथिव्यामधि पृथिव्यामेकादश स्थ एतत्संख्याका भवथ । किञ्चाप्सुक्षितः । तदुच्यते । अप्सु अन्तरिक्षे क्षियन्ति निवसन्तीत्यप्सुक्षितः । क्षियतेः क्विप् । तत्पुरुषे कृति बहुलमिति [?] अलुक् [?] । अन्तरिक्षवासिनो देवाः महिना महत्त्वेन [?] … एकादश स्थ तत्संख्याका भवथ । यद्वा । अन्तरिक्षस्यैवायं संज्ञा । अपः पृथिवीयन्तरिक्षनामसु पाठात् [?] । यद्यपि तिस्र एव देवताः इत्युक्तत्वात् [?] … त्रयस्त्रिंशत्संख्याका भवन्ति । तत्र त्वष्टा नाम अन्य … अन्न [?] … यज्ञं युष्मदीयं यज्ञं जुषध्वं सेवध्वम् । सम्भजध्वं तत्सम्बन्धि हविर्भागं सेवित्वा प्रीणयध्वम् । एकं च दश चैकादश प्राग्वेकादश्वः [?] (पा. [?]) इति निपातनादीर्घः । संख्येति पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+> *he devāso devā dyotanaśīlā yo yūyaṃ divi dyuloke ekādaśa stha ekaṃ ca daśa cetyekatraṃkhyākā [?] bhavatha tathā pṛthivyāmadhi pṛthivyāmekādaśa stha etatsaṃkhyākā bhavatha | kiñcāpsukṣitaḥ | taducyate | apsu antarikṣe kṣiyanti nivasantītyapsukṣitaḥ | kṣiyateḥ kvip | tatpuruṣe kṛti bahulamiti [?] aluk [?] | antarikṣavāsino devāḥ mahinā mahattvena [?] … ekādaśa stha tatsaṃkhyākā bhavatha | yadvā | antarikṣasyaivāyaṃ saṃjñā | apaḥ pṛthivīyantarikṣanāmasu pāṭhāt [?] | yadyapi tisra eva devatāḥ ityuktatvāt [?] … trayastriṃśatsaṃkhyākā bhavanti | tatra tvaṣṭā nāma anya … anna [?] … yajñaṃ yuṣmadīyaṃ yajñaṃ juṣadhvaṃ sevadhvam | sambhajadhvaṃ tatsambandhi havirbhāgaṃ sevitvā prīṇayadhvam | ekaṃ ca daśa caikādaśa prāgvekādaśvaḥ [?] (pā. [?]) iti nipātanādīrghaḥ | saṃkhyeti pūrvapadaprakṛtisvaratvam ‖*
+
+**Pratipadārtha (Kannada).** *devāsaḥ* — O gods; *ye* — you who; *mahinā* — by the strength of your greatness; *divi* — in the heavenly world; *ekādaśa* — in a number of eleven; *stha* — are; *pṛthivyām adhi* — on the earth; *ekādaśa* — eleven in number; *stha* — are; *apsukṣitaḥ* — dwelling in the sky; *ekādaśa* — eleven in number; *stha* — are; *te devāsaḥ* — such of you, all together; *imaṃ yajñam* — this (our) sacrifice; *juṣadhvam* — enjoy.
+
+### Printed p. 95  (PDF 113)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**Bhāvārtha.** O gods, you are eleven in number in the world of heaven, eleven in number on the earth, and eleven in number as dwellers in mid-air. I show forth the greatness of all of you. All of you, assembling, come and enjoy this our sacrifice.
+
+**English Translation (as printed).** Gods who are eleven in heaven; who are eleven on earth; and who are eleven dwelling with glory in mid-air; may ye be pleased with this our sacrifice.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastra* mantras are recited and the *tṛca* addressed to the Viśvedevas is recited, this Ṛk *ye devāso divy ekādaśa stha* is to be recited as its second Ṛk, as the Āśvalāyana Śrautasūtra sets out by the sūtra ये देवासो दिव्येकादश स्थेयमुदाद्भृषसम् [?] (*ye devāso divyekādaśa stheyamudādbhṛṣasam [?]*) (Āś. [?]-[?]).
+
+***te devāsaḥ yajñam imaṃ juṣadhvam.*** The gods of all three worlds are addressed: "you, all the gods, enjoy this our sacrifice." In *divi ekādaśa*, *pṛthivyām ekādaśa*, *apsukṣito ekādaśa* the number of the gods in the three worlds is given together as thirty-three. Sāyaṇa, following the Nirukta statement तिस्र एव देवताः [?] (*tisra eva devatāḥ [?]*) (Ni. 7-[?]), explains that though the deities who are presiding over the earth and the like are only three, they become thirty-three in number, each through his own greatness and his own manifold power; and that the gods in those worlds [are] "manifestations of these". Though the deities presiding over earth, sky and heaven are only three, they appear thirty-three in number through their abundant greatness; all the other gods in those worlds are their manifestations, it is explained. The authors of the Nirukta also:
+
+> तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इन्द्रो वान्तरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यादेकैकस्यापि बहूनि नामधेयानि भवन्ति । अपि वा कर्मपृथक्त्वात् [?] ।
+
+> *tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā indro vāntarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyādekaikasyāpi bahūni nāmadheyāni bhavanti | api vā karmapṛthaktvāt [?] |*
+
+(Ni. 7-[?] [?].) According to the view of the Nairuktas, three deities — Agni, Vāyu or Indra, and Sūrya — are the presiding deities of the three worlds, earth, sky and heaven. These same deities have many names each, either according to their greatness or by the difference of their functions; and having said this, [Yāska says] अथातोऽनुक्रमिष्यामः अग्निः पृथिवीस्थानः प्रथमं व्याख्यास्यामः [?] (*athāto 'nukramiṣyāmaḥ agniḥ pṛthivīsthānaḥ prathamaṃ vyākhyāsyāmaḥ [?]*) — "we shall now go on in order: Agni, whose place is the earth, we shall explain first" (continued on p. 96).
+
+---
+
+**Progress note:** **Sūkta 139 in progress — final Ṛk 11** (printed pp. 36–95 done: Ṛks 1–10 complete; Ṛk 11 Saṃhitā, Pada, bhāṣya (partly), Pratipadārtha, Bhāvārtha, printed English, and the first part of the Special Topics, on the 33 gods and Yāska's three deities, to the foot of p. 95). Next: printed p. 96 (PDF 114) — the rest of the Ṛk 11 Special Topics, grammar, and the end of the sūkta (Sūkta 139 closing note, if any); then Sūkta 140 (printed p. 14 + …, check the contents table). Images at 120 dpi in /tmp/v11a (PDF 33–140). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11 largely unread); Varga numerals of Sūkta 139; the *arariṇda* grammar and the Āśvalāyana sūtra for Ṛk 11 doubtful; all Ni./Ṛg/Tai./Śa. Brā./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
