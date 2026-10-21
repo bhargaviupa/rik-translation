@@ -4374,4 +4374,108 @@ To learn the particulars of this context one must understand correctly the meani
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–171 done: Ṛks 1–2 complete; Ṛk 3 through printed English and Special Topics (*budhnāt*, *īśānāsaḥ*) begun)). Next: printed p. 172 (PDF 190) — Special Topics of Ṛk 3 continued (*mātariśvā*), grammar; then Ṛk 4. Recrop from PDF 190. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 172  (PDF 190)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+*(Continued from p. 171.)* … Agni's supernatural manifestation and his worldly origin are described in many ways. That Agni, the father of the sacrifice, was first manifested in the form of lightning by the wind, the Ṛk-saṃhitā says:
+
+> अग्ने प्रथमो मातरिश्वने [?] आविर्भव सुक्रतो [?] … विवस्वते । अरेजेतां रोदसी होतृवूर्ये [?] … भारमयजो महो वसो [?] ॥
+
+(Ṛ. Saṃ. 1-31-3 [?]; the verse is only partly legible.) As said in such Ṛks, how Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, brought to earth the Agni who was hidden in a far place, and did good to all the creatures on earth, has been told in detail before. In the present Ṛk also, by the epithet *guhā santam* the same point is stated. Here the word *mātariśvā* has, besides the sense *antarikṣe ceṣṭamāno vāyuḥ* "the wind moving in the atmosphere", a second sense: *mātari yoge śvasiti ceṣṭate iti mātariśvā yajamānaḥ*, "he who breathes, strives in the *mātṛ*, the arrangement of the rite, is *mātariśvā*, the sacrificer"; he churns the Agni *guhā santam araṇyor nigūḍham santam*, hidden in the two kindling-sticks. Because the sacrificer acts in the sacrifice that produces every kind of fruit, he is called Mātariśvan, and it is said that by effort he blows and kindles the Agni hidden in the sticks: so the second sense is given.
+
+***pradivaḥ*** — the word *pradiva* is read among the names of the ancient (Ni. 3-[?]). The Nirukta authors cite —
+
+> मरुत्वां इन्द्र वृषभो रणाय पिबा सोममनुष्वधं मदाय । आ सिञ्चस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानाम् ॥
+
+(Ṛ. Saṃ. 3-47-1.) and explain the word *pradivaḥ* there as *pūrveṣv ahaḥsu*, "in the former days (as before)". In the present Ṛk also the sense is: for offering now, in the same way, the oblation that has been offered since beginningless time.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar pages 172–173, noted briefly).** *budhnāt* (root *badha bandhane*; *bandhe bradhibudhī ca* (Uṇ. Sū. 3-[?]) suffix *nak*; the root takes *budhi*; last-syllable accent by the suffix; ablative singular), *mahiṣasya* (root *maha pūjāyām*; *amiṇ hy.* [?] … (Uṇ. Sū. 1-[?]) suffix *iṣac*; *cita*: last-syllable accent), *varpasaḥ* (root *vṛja sambhaktau*; *vṛjaśīṅbhyāṃ rūpasyāṅgayoḥ puṭ ca* (Uṇ. Sū. 4-[?]) suffix *asun* in the sense of form; *puṭ* to the root; *nit*, first-syllable accent). (continues on p. 173)
+
+### Printed p. 173  (PDF 191)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+*Grammar (Ṛk 3, continued; noted briefly):* *īśānāsaḥ* (root *īśa aiśvarye*; *tācchīlyavayovacaneṣu cānaś* (Pā. Sū. 3-2-129); *cit*: last-syllable accent; *jas*; *ājjaser asuk*), *krānta* (root *dukṛñ karaṇe*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the present sense; second person plural *tha*; *cli*… *luṅ*, *cleḥ luk*; by *mantre ghasa…* the *luk* of *cli*; root *guṇa* not; *ya* … no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*), *sūrayaḥ* (root *ṣūṅ prāṇiprasave*; *sūrkṣy…* (Uṇ. Sū. [?]) suffix *kri*; as it is *kit*, no *guṇa*; *cit*, last-syllable accent), *pradivaḥ* (*pragato divo yasmāt saḥ*; *gatikārakopapadāt kṛt*: the accent of the *kṛt*-final member), *guhā* (root *guhū saṃvaraṇe*; *supāṃ sulug…* (Pā. Sū. 7-1-39)), *santam* (root *as bhuvi*; *śatṛ*; *ādiprabhṛtibhyaḥ śapaḥ*; *śnasor allopaḥ* (Pā. Sū. 6-4-111); first-syllable accent of the suffix), *mātariśvā* (*mātari śvayati iti mātariśvā*; *śvanukṣan…* (Uṇ. Sū. 1-[?]) *kvanip*; accent), *mathāyati* (root *mantha vilodane*; *laṭ*, third person singular; *chandasi śāyajapi* (Pā. Sū. 3-1-84) gives *śāyac* in place of *śnā*; *sārvadhātukamapit*; *anidita*; the *n* of the root's penultimate is dropped; *yat*-connected, *nighāta* barred; *śāyac* is *cit*: last-syllable accent). ‖ 3 ‖
+
+---
+
+#### Ṛk 4
+
+### Printed p. 174  (PDF 192)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**॥ संहितापाठः ॥**
+
+> प्र यत्पितुः परमान्नीयते पर्या पृक्षुधो वीरुधो दंसु रोहति ।
+> उभा यदस्य जनुषं यदिन्वत आदिद्यविष्ठो अभवद्घृणा शुचिः ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> प्र । यत् । पितुः । परमात् । नीयते । परि । आ । पृक्षुधः । वीरुधः । दंसु । रोहति ।
+> उभा । यत् । अस्य । जनुषम् । यत् । इन्वतः । आत् । इत् । यविष्ठः । अभवत् । घृणा । शुचिः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *When Agni is led round for the sake of choice food, and rises among the plants hungry for oblations, and both adhvaryu and sacrificer combine for his birth, he becomes youthful, pure and radiant.* Small type; doubtful words marked)
+
+> यद्यस्मात् पितुः पशुलक्षणस्यान्नस्य [?] … प्रथमा ॥ तस्मै [?] परमात् उत्कृष्टात् [?] प्र परि नीयते प्रकर्षेण परितो नीयते । पर्यग्निकरणं इत्यर्थः । यद्वा । पितुरुत्पादकात्परमादुत्कृष्टाद्गार्हपत्यलक्षणादग्नेः सकाशादाहवनीयं प्रति प्र परि नीयते प्रकर्षेण नीयते । पर्यग्निक्रियेत्यर्थः । किंच पृक्षुधः प्रकर्षेण बुभुक्षिताः [?] … ज्वालाः पशुपुरोडाशादिषु दाहात्मके मध्ये [?] … यद्वा । प्रकृष्टबुभुक्षावान् … पृक्षुध इति [?] … वीरुधो दंसु दंसनेषु ज्वालासु मध्ये आरोहति । आरोहन्ति । प्रविशन्तीत्यर्थः । यद्यस्मादुभौ [?] अध्वर्युयजमानौ उभे अरणी वा अस्याग्नेर्जनुषं जन्मोत्पत्तिमिन्वतः व्याप्नुतः । स्वीकुरुत इत्यर्थः । इवि व्याप्तौ । अदिति … । आदिदेव [?] कारणाच्चैः शुद्ध्योऽयमग्निर्घृणा यजमानस्यानुग्रहेण । यद्वा घृणा घृणिर्दीप्यमान [?] … यविष्ठः युवतमः [?] … अभवत् संपन्नः स्वीकारसमर्थो ऽभवदित्यर्थः ॥ [partly unread]
+
+**Pratipadārtha (Kannada).** *yat* — for what reason; *pituḥ* — the food in the form of beasts; *paramāt* — for the sake of its excellent [obtaining]; *pra pari nīyate* — (this Agni) is carried round, in the sunwise direction (*pradakṣiṇa*) …
+
+### Printed p. 175  (PDF 193)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+*Pratipadārtha (continued).* Or: [*paramāt* — excellent; *pituḥ* — the one who is the root-cause; and as the Gārhapatya fire is carried from (*pra pari nīyate*, led round)] the Āhavanīya (to the vicinity of the Āhavanīya) exceedingly; *pṛkṣudhaḥ* — (the flames) eager to eat the oblations, those that stand up in the form of burning on the beast-offerings and the *purodāśa*; and *vīrudhaḥ* — (the Agni) of the plants, in the form of creepers, standing upright, rising upwards; *daṃsu* — amidst the flames, resembling teeth; *rohati* — ascend upwards; *yat* — for which reason; *ubhā* — the *adhvaryu* and the sacrificer, or the two kindling-sticks, both together; *asya* — of this Agni; *januṣam* — the birth; *invate* — bring about (spread); *ādit* — then; *śucīḥ* — he is of pure form; *ghṛṇā* — (to the sacrificer) gracious, or bright with the light of flame; *yaviṣṭhaḥ* — extremely youthful; *abhavat* — came to be.
+
+**Bhāvārtha.** In order that food in the form of beasts may be obtained in excellent measure, this Agni is led round in procession. The flames of Agni, eager to eat the oblations, those that stand up burning in the *purodāśa* and beast-offerings, and those that stand rising up in the form of creepers, rise upward amid the flames like teeth. The *adhvaryu* and the sacrificer together bring about the birth of this Agni. For all these reasons Agni is born as pure, as gracious to the sacrificer, and as exceedingly youthful and radiant.
+
+**English Translation (as printed).** As for securing the perfection of food (Agni) is generated and the consumable branches rise amidst (the flames); and as both (the institutor of the rite and the priest) combine for his generation, therefore has he been generated, pure, youthful, and radiant.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***pituḥ*** — the word *pitu* is read among the names of food (Ni. 2-9). While giving the derivation of the word *pitu*, the Nirukta author cites
+
+> पितुं नु स्तोषं महो धर्माणं तविषीम् । यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् ॥
+
+(Ṛ. Saṃ. 1-187-1.) and says *pituḥ pitur ity annanāma; pāter vā pibater vā pyāyater vā*: from the root *pā* "to protect", or from the root *pā* "to drink", or (continues on p. 176)
+
+### Printed p. 176  (PDF 194)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+from the root *pyai* "to grow"; "I praise the food that is exceedingly strong and strength-giving", is the sense of the cited Ṛk. In the present Ṛk Sāyaṇa takes *pituḥ* in one sense as "food" and in another as "father". By the first, *pituḥ* is nominative and an adverb to *paramāt*: "in order that food in the form of beasts may be obtained excellently, this Agni is led round (*pra pari nīyate*)". By the second, *pituḥ* is ablative, an epithet of *paramāt*: "from the excellent Gārhapatya fire, which is the support of all and protector of the sacrifice, he is led forth and round (*pra pari nīyate*)".
+
+***pṛkṣudhaḥ*** — *prakarṣeṇa bubhukṣitā bhoktum icchamānāḥ*: those eager to eat the oblations; or, another sense is possible: those that stand up burning in the midst of beast-offerings, *purodāśa* and so on. [?] It is an epithet of *vīrudhaḥ*.
+
+***vīrudhaḥ*** — *vīrudha oṣadhayo bhavanti virohaṇāt*: "plants (creepers) are called so because they grow in a special way": so the derivation is given (Ni. 6-3), citing —
+
+> ओषधीः प्रति मोदध्वं पुष्पवतीः प्रसूवरीः । अश्वा इव सजित्वरीर्वीरुधः पारयिष्णवः ॥
+
+(Ṛ. Saṃ. 10-97-3.) — and the aptness of the word *vīrudhaḥ* here is shown.
+
+***daṃsu*** — amid the flames, which are like teeth.
+
+***invate*** — *invati, nakṣati* and others are read among the names of verbs of pervading (Ni. 2-10): "they cause to pervade".
+
+***ghṛṇā*** — the word *ghṛṇi* is read among the names suggesting shining by flame: *jamat*, *arciḥ*, *śociḥ* and others (Ni. 2-[?]); so the word may mean "shining", or, since *ghṛṇā* means compassion, "one who shows kindness to the sacrificer"; either way it is an epithet of Agni.
+
+The description in this Ṛk that Agni, as soon as kindled, becomes pure, gracious and most youthful —
+
+> अग्निर्होता नि ससादा यजीयानुपस्थे मातुः सुरभावु लोके । युवा कविः पुरुनिष्ठ ऋतावा धर्ता कृष्टीनामुत मध्य इद्धः ॥
+
+(Ṛ. Saṃ. [?]-[?]-[?]; read with doubt.) (continues on p. 177)
+
+### Printed p. 177  (PDF 195)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 7 [?].)*
+
+> अग्निः शुचिव्रततमः शुचिर्विप्रः शुचिः कविः । शुची रोचत आहुतः ॥
+
+(Tai. Saṃ. 1-3-[?].) In such Saṃhitā sentences too the primacy of Agni is shown.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar pages 177–178, noted briefly).** *pituḥ* (root *pā pāne*; suffix *tu* by *peḥ kicca* (Uṇ. Sū. 1-[?]); by *kit*, *ghumāsthā*… the root's *ā* becomes *i*; by *vyatyaya* the sixth case-ending is nominative), *nīyate* (root *ṇīñ prāpaṇe*; *laṭ*, third person singular in the passive; *nighāta* barred by *yadvṛttān nityam* (Pā. Sū. 8-1-66), so the *yak* accent remains), *pṛkṣudhaḥ* (prefix *pra*, root *kṣudha bubhukṣāyām*; by *bahulaṃ chandasi*, the *ra* of *pra* is *saṃprasāraṇa*, *saṃprasāraṇācca*, *pūrvarūpa*; *kvip ca*; plural; *gatikārakopapadāt kṛt*: the accent of the *kṛt* member), *rohati* (root *ruha bījajanmani prādurbhāve ca*; *laṭ* third person singular; *vyatyayo bahulam*, the plural → singular; *ati-jñanta*, so *nighāta*), *ubhā* (*supāṃ sulug…* (Pā. Sū. 7-1-39): the dual *au* takes *ā*), *inyate* (here *invate*) (root *invi vyāptau*; *laṭ*, dual *tas*; *idito num dhātoḥ* (Pā. Sū. 7-1-58) gives *num*; *śap*; the suffix-accent *rut*, *visarga*; *nighāta* barred by *yadvṛttān nityam* (Pā. Sū. 8-1-66); *tāsyanudāttet*: the root accent remains), *yaviṣṭhaḥ* (*atiśayena yuvā yaviṣṭhaḥ*; *tuśchandasi* …; *iṣṭhan* by *ātiśāyane tamabiṣṭhanau* (Pā. Sū. 5-3-55); *sthūladūra*… (Pā. Sū. 6-4-156) loss of *van*; *guṇa*; *ājñāt*…; *ñnityādir nityam*: first-syllable accent), *ghṛṇā* (the *matup* is dropped in Vedic; *supāṃ sulug…*: *ā* for the case-ending). (continues on p. 178)
+
+---
+
+---
+
+**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–177 done: Ṛks 1–3 complete; Ṛk 4 through printed English and Special Topics; grammar begun on p. 177)). Next: printed p. 178 (PDF 196) — grammar of Ṛk 4 concluded; then Ṛk 5. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
