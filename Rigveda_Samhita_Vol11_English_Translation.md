@@ -2504,4 +2504,126 @@ On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastr
 
 ---
 
-**Progress note:** **Sūkta 139 in progress — final Ṛk 11** (printed pp. 36–95 done: Ṛks 1–10 complete; Ṛk 11 Saṃhitā, Pada, bhāṣya (partly), Pratipadārtha, Bhāvārtha, printed English, and the first part of the Special Topics, on the 33 gods and Yāska's three deities, to the foot of p. 95). Next: printed p. 96 (PDF 114) — the rest of the Ṛk 11 Special Topics, grammar, and the end of the sūkta (Sūkta 139 closing note, if any); then Sūkta 140 (printed p. 14 + …, check the contents table). Images at 120 dpi in /tmp/v11a (PDF 33–140). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11 largely unread); Varga numerals of Sūkta 139; the *arariṇda* grammar and the Āśvalāyana sūtra for Ṛk 11 doubtful; all Ni./Ṛg/Tai./Śa. Brā./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 96  (PDF 114)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Special Topics of Ṛk 11, continued from p. 95.)* …From Ni. 7-[?] to 9-[?] [?] the nature of the deities whose place is the earth is told; then "*athāto madhyasthānā devatāḥ; tāsāṃ vāyuḥ prathamāgāmī bhavati*" (Ni. 10-[?] to 10-[?]) the nature of the deities of the middle region, the sky; and "*athāto dyusthānā devatāḥ*" (Ni. 11-[?] to the end of the chapter) the nature of the deities of the heavenly world. Though there are differences of opinion as to how many of these divided deities there are, one and the same view is seen in many places in the Ṛksaṃhitā:
+
+> आ नासत्या त्रिभिरेकादशैरिह देवेभिर्यातं मधुपेयमश्विना ।
+> प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥
+
+> *ā nāsatyā tribhirekādaśairiha devebhiryātaṃ madhupeyamaśvinā |*
+> *prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖*
+
+(Ṛ. Saṃ. 1-34-11 [?].) The Aśvins are told: "Come here with thirty-three gods (eleven + eleven + eleven, with the two), desiring the drinking of honey";
+
+> श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः ।
+> तान्रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ॥
+
+> *śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |*
+> *tānrohidaśva girvaṇastrayastriṃśatamā vaha ‖*
+
+(Ṛ. Saṃ. 1-45-2 [?].) Agni is prayed to bring thirty-three gods, as the Ṛk at hand prays. Likewise:
+
+> अभिर्ग्ने सरथं याह्यर्वाङ् नानारथं वा विभवो ह्यश्वाः ।
+> पत्नीवतस्त्रिंशतं त्रींश्च देवाननुष्वधमा वह मादयस्व ॥
+
+> *abhirgne sarathaṃ yāhyarvāṅ nānārathaṃ vā vibhavo hyaśvāḥ |*
+> *patnīvatastriṃśataṃ trīṃśca devānanuṣvadhamā vaha mādayasva ‖*
+
+(Ṛ. Saṃ. 3-6-9 [?].)
+
+> इति स्तुतासो असथा रिशादसो ये स्थ त्रयश्च त्रिंशच्च । मनोर्देवा यज्ञियासः [?] ।
+
+> *iti stutāso asathā riśādaso ye stha trayaśca triṃśacca | manordevā yajñiyāsaḥ [?] |*
+
+(Ṛ. Saṃ. 8-30-3 [?].)
+
+> विश्वैर्देवैस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा [?] ।
+
+> *viśvairdevaistribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā [?] |*
+
+(Ṛ. Saṃ. 8-35-3 [?].)
+
+> तव त्ये सोम पवमान निण्ये विश्वे देवास्त्रय एकादशासः । दश स्वधाभिरधि सानो अव्ये मृजन्ति त्वा नद्यः सप्त यह्वीः ॥
+
+> *tava tye soma pavamāna niṇye viśve devāstraya ekādaśāsaḥ | daśa svadhābhiradhi sāno avye mṛjanti tvā nadyaḥ sapta yahvīḥ ‖*
+
+(Ṛ. Saṃ. 9-92-4 [?].) In such Ṛks too it is plain that the number of the gods is thirty-three. In the Śatapatha Brāhmaṇa also:
+
+> अष्टौ वसवः । एकादश रुद्राः । द्वादशादित्या इमे एव द्यावापृथिवी त्रयस्त्रिंशद्देवाः प्रजापतिश्च [?] ।
+
+> *aṣṭau vasavaḥ | ekādaśa rudrāḥ | dvādaśādityā ime eva dyāvāpṛthivī trayastriṃśaddevāḥ prajāpatiśca [?] |*
+
+(Śa. Brā. 4-[?]-[?]-[?] [?]) (continued on p. 97).
+
+### Printed p. 97  (PDF 115)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three gods; Prajāpati is the thirty-fourth, it is said in one place. But in another place, in those same thirty-three, Indra and Prajāpati are put in place of Heaven and Earth:
+
+> ते त्रयस्त्रिंशदष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिन्द्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति [?] ।
+
+> *te trayastriṃśadaṣṭau vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadindraścaiva prajāpatiśca trayastriṃśāviti [?] |*
+
+(Śa. Brā. 11-[?]-[?]-[?] [?].) In the Aitareya Brāhmaṇa also:
+
+> त्रयस्त्रिंशद्वै देवाः सोममपिबन् [?] त्रयस्त्रिंशत्सोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चेते देवाः सोमपाः [?] ।
+
+> *trayastriṃśadvai devāḥ somamapiban [?] trayastriṃśatsomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiśca vaṣaṭkāraścete devāḥ somapāḥ [?] |*
+
+(Ai. Brā. 3-[?]) Those who drink the Soma are thirty-three gods: the eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati and Vaṣaṭkāra. So there is one and the same view on this number in the Saṃhitā and in the Brāhmaṇas. And
+
+> त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् ।
+> औक्षन् घृतैरस्तृणन् बर्हिरस्मा आदिद्धोतारं न्यसादयन्त ॥
+
+> *trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan |*
+> *aukṣan ghṛtairastṛṇan barhirasmā ādiddhotāraṃ nyasādayanta ‖*
+
+(Ṛ. Saṃ. 3-9-9 [?].) Likewise in Ṛ. Saṃ. 10-52-6 [?] it is said that three thousand three hundred and thirty-nine gods worshipped Agni. The same order is found in the Vājasaneyi Saṃhitā (33-[?]). Besides this:
+
+> नमो महद्भ्यो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः ।
+> यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवाः ॥
+
+> *namo mahadbhyo namo arbhakebhyo namo yuvabhyo nama āśinebhyaḥ |*
+> *yajāma devānyadi śaknavāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ ‖*
+
+(Ṛ. Saṃ. 1-27-13 [?].) When salutation is made to all sorts of gods — of great qualities, of gross qualities, young and old — the variety of the forms of the gods is understood. This same Ṛk is recited in the Aitareya Brāhmaṇa too (2-[?]), in the Śunaḥśepa story, in the setting of the prayer to the Viśvedevas. And
+
+> नहि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतोमहान्त इत् ॥
+
+> *nahi vo astyarbhako devāso na kumārakaḥ | viśve satomahānta it ‖*
+
+(Ṛ. Saṃ. 8-30-1 [?].) — here there is no distinction among the gods of small and great; all gods are great beings: this is the praise. It is to all gods of such greatness that the seer addresses his prayer in the Ṛk at hand —
+
+### Printed p. 98  (PDF 116)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 11; grammar page, noted briefly).** *devāsaḥ* (a *jas* follows the word *deva*; *āj jaser asuk* (Pā. Sū. 7-1-[?]) gives *asuk* to it; the *s* → *ru*, *visarga*), *divi* (locative singular; *ūḍidaṃpadādi…* (Pā. Sū. 6-1-[?]) gives the case-ending *udātta*), *ekādaśa* (*eka ca daśa ca*; *prāg ekādaśabhyaḥ* … (Pā. Sū. 8-[?]-[?]) makes the former member long; *saṃkhyā* … (Pā. Sū. 6-2-[?]) gives the accent of the first member), *stha* (root *as bhuvi*; *laṭ* second person plural, *tha*; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; as *sārvadhātukam apit* makes the suffix *ṅit*, *śnasor allopaḥ* (Pā. Sū. 6-4-[?]) drops the root's *a*; *tiṅanta nighāta*), *pṛthivyām* (the word *pṛthivī*, being *jīn*-ending, is final-syllable accented; in the locative the *yaṇ*-substitution is made, so the following case-ending is *udātta* by *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-[?])), *apsukṣitaḥ* (*apsu kṣiyanti*; root *kṣi nivāsagatyoḥ*; *kvip* by *kvip ca*; being *pit*, *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-[?]) *tuk*; *tatpuruṣe kṛti bahulam* (Pā. Sū. 6-3-[?]) *aluk* in the compound; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-[?]) accent of the *kṛt*-ending member), *mahinā* (root *mahi pūjāyām*; *sarvadhātubhya in* (U. Sū. 4-[?]) the suffix *in*; by *vyatyaya* the case-ending is *udātta*; or because *mahi* is read among the *pṛthvādi* words, in the abstract sense *pṛthvādibhya imanij vā* (Pā. Sū. 5-1-[?]) *imanic*; *ṭeḥ* drops the *ṭi*; instrumental singular; *āllopa* does not occur; *citaḥ*: as it is *udātta*, by *udāttanivṛtti* the case-ending is *udātta*), *yajñam* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *yajayācayatavicchaprachvarakṣo naṅ* (Pā. Sū. 3-3-[?]) *naṅ*; *ścutva*; final-syllable accent by the suffix), *juṣadhvam* (root *juṣī prītisevanayoḥ*; *loṭ* second person plural; as a *tiṅanta* follows a non-*tiṅanta*, *nighāta*). ‖ 11 ‖
+
+*Here the 139th Sūkta ends.*
+
+### Printed p. 99  (PDF 117)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+## Sūkta 140
+
+### Printed p. 99 (continued; PDF 117)
+
+*(The Kannada heading reads "The 140th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: in the twenty-first anuvāka there are seventeen sūktas; the first, "Vediṣade", has thirteen Ṛks; ṛṣi Dīrghatamas Aucathya; deity Agni; the last two Ṛks Triṣṭubh, the rest Jagatī, the tenth Triṣṭubh or Jagatī; its use at the Prātaranuvāka and at the Aśvina-śastra is given from the Āśvalāyana Śrautasūtra. Small type; doubtful words marked.)*
+
+> एकविंशेऽनुवाके सप्तदश सूक्तानि । तत्र वेदिषद इति प्रथमं सूक्तं त्रयोदशर्चम् । उचथ्यपुत्रस्य दीर्घतमस आर्षम् । आग्नेयम् । अन्त्ये त्रिष्टुभौ शिष्टा जगत्यः । दशमी त्रिष्टुब्जगती वा । अत्रानुक्रमणिका । वेदिषदे सप्तोना दीर्घतमा औचथ्य आग्नेयं तु द्वित्रिष्टुबन्तं तु त्रिष्टुबशमि नेति [?] ॥ प्रातरनुवाकस्याग्नेये क्रतौ जागते छन्दसीदमादीनि तृतीयवर्जितानि षट् सूक्तानि विनियुक्तानि । तथाश्विनशस्त्रे षण्णां तृतीयवर्जितानां सूक्तानां विनियोगः । सूत्रितं च । वेदिषद इति षण्णां तृतीयमुद्धरेत् । आ. [?] । इति ॥
+
+> *ekaviṃśe 'nuvāke saptadaśa sūktāni | tatra vediṣada iti prathamaṃ sūktaṃ trayodaśarcam | ucathyaputrasya dīrghatamasa ārṣam | āgneyam | antye triṣṭubhau śiṣṭā jagatyaḥ | daśamī triṣṭubjagatī vā | atrānukramaṇikā | vediṣade saptonā dīrghatamā aucathya āgneyaṃ tu dvitriṣṭubantaṃ tu triṣṭubaśami neti [?] ‖ prātaranuvākasyāgneye kratau jāgate chandasīdamādīni tṛtīyavarjitāni ṣaṭ sūktāni viniyuktāni | tathāśvinaśastre ṣaṇṇāṃ tṛtīyavarjitānāṃ sūktānāṃ viniyogaḥ | sūtritaṃ ca | vediṣada iti ṣaṇṇāṃ tṛtīyamuddharet | ā. [?] | iti ‖*
+
+*Anuvāda (Kannada).* In the twenty-first anuvāka of the first maṇḍala there are seventeen sūktas, and of them this sūkta *Vediṣade* is the first. This sūkta has thirteen Ṛks. Its ṛṣi is Dīrghatamas, son of Ucathya. Agni is the deity. The last two Ṛks have the metre Triṣṭubh; the remaining Ṛks have the metre Jagatī. The tenth Ṛk may be either Triṣṭubh or Jagatī [?]. The Anukramaṇī says what is quoted above. At the time of reciting the mantras of the *Prātaranuvāka*, six sūktas beginning with this one (leaving out the third sūkta) are applied for reciting the Ṛks in the Jagatī metre connected with the Agni-*kratu*; and likewise for the *Aśvina-śastra* mantras the sūktas, leaving out the third, are applied: this is set out in the Āśvalāyana Śrautasūtra by the sūtra *vediṣada iti ṣaṇṇāṃ tṛtīyam uddharet* (Āś. [?]-[?]).
+
+---
+
+**Progress note:** **Sūkta 139 complete (printed pp. 36–98); Sūkta 140 begun** (printed p. 99: Anukramaṇī and Anuvāda — the first sūkta of Anuvāka 21; 13 Ṛks; ṛṣi Dīrghatamas Aucathya; Agni; Jagatī, the last two Triṣṭubh). Next: printed p. 100 (PDF 118) — the Sūkta 140 header table and Ṛk 1 (Saṃhitā, Pada, bhāṣya …). Images at 120 dpi in /tmp/v11a (PDF 33–140; recrop 141 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11 largely unread); Varga numerals of Sūkta 139; the Nirukta/Ṛg/Śa. Brā./Ai. Brā. quotations and numerals on pp. 96–97; the Anukramaṇī of Sūkta 140 (p. 99) small type; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
