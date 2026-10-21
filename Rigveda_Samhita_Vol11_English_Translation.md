@@ -5526,4 +5526,235 @@ It is known from the explanation of the Nirukta author that from the time of the
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks) begun: printed pp. 221–225 (Anukramaṇī, Anuvāda, header table, essay on the Āprī-sūktas; it continues with the Nirukta passage on the Āprī deities on p. 226). Next: printed p. 226 (PDF 244). Images at 120 dpi in /tmp/v11a (PDF 33–245; recrop 246 onward with `publish/tools/pageprep/crop_pages.py Rig_Vol11.pdf 246 275 /tmp/v11a --dpi 120`). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–141 (Sūkta 140 Ṛk 12 middle lines unread); Varga numerals of the Sūkta 140–142 headers and page headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible at this resolution (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 226  (PDF 244)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Continuation of the Nirukta passage on the Āprī deities. Top of page, the end of the Brāhmaṇa quotations; small type, doubtful words marked.)*
+
+> प्राणा वा अनुयाजाः इति च ब्राह्मणम् । आत्मा देवता इत्येवरं [?] । आत्मा वै प्रयाजा आत्मा वा अनुयाजा इति च ब्राह्मणम् । आग्नेयो [?] इति तु स्थितिः । भक्तिमात्रमितरम् ।
+
+> *prāṇā vā anuyājāḥ iti ca brāhmaṇam | ātmā devatā ityevaraṃ [?] | ātmā vai prayājā ātmā vā anuyājā iti ca brāhmaṇam | āgneyo [?] iti tu sthitiḥ | bhaktimātramitaram |*
+
+(Ref. [?].) Saying thus the several opinions, Yāska first cites a Ṛk:
+
+> तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वन्तो हविष्मन्तो [?] सन्तु भागाः ।
+> तवाग्ने यज्ञोऽयमस्तु सर्वस्तुभ्यं नमन्तां प्रदिशश्चतस्रः ॥
+
+> *tava prayājā anuyājāśca kevala ūrjasvanto haviṣmanto [?] santu bhāgāḥ |*
+> *tavāgne yajño 'yamastu sarvastubhyaṃ namantāṃ pradiśaścatasraḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) Having cited this Ṛk, Yāska says that, as stated in it, the *prayāja* and *anuyāja* mantras are addressed to Agni alone. After giving his own explanation he states the other opinions too. Of these, this same opinion is supported by the Brāhmaṇa sentence. But some say that the Chandas-deities are meant (Śa. Brā. 1-[?]-[?]-[?]); some, that the deities of the Ṛtus [?] are meant; others, that the *yogahaviṣ* (the oblation proper) is meant (Kau. Brā. [?]); others, that the Prāṇa-deities are meant (Ai. Brā. [?], Śa. Brā. [?]); still others, that Ātman is meant (Tai. Saṃ. [?]). Having gathered all that is said, he states his own straightforward opinion: that the sound view is that at the beginning the sūkta is addressed to Agni.
+
+In Kātyāyana's Sarvānukramaṇī the difference between *āpra* and *āprī* is pointed out (this difference is given at the end of the sūkta facing the Āprī-sūkta [?]): the Ṛks addressed to the deity Narāśaṃsa are known as *āpra* mantras, and those addressed to the deity Tanūnapāt as *āprī* mantras. In the Bṛhaddevatā (the verses below):
+
+> द्वितीयो द्वादशर्चे तु पृक्षैचं [?] यास्तु देवताः ।
+> स्तूयन्ते ह्यग्निना साधं तासां नामानि मे शृणु ।
+> प्रथमः स्तुतेच्छो [?] द्वितीयं तनूनपात् ।
+> नराशंसस्तृतीये तु चतुर्थ्यामिळ ईळितः ।
+> बर्हिरेव तु पञ्चम्यां द्वारो देव्यस्त्र [?]
+> नक्तोषासा तु सप्तम्यामष्टम्यां संस्तुता सह [?] ।
+> दैव्याविति तु होतारौ नवम्यामृच्य [?] संस्तुताः ।
+> तिस्रो देव्यो दशम्यां तु ज्ञेयस्त्वष्टैव स्तुतः [?] ॥
+
+> *dvitīyo dvādaśarce tu pṛkṣaicaṃ [?] yāstu devatāḥ |*
+> *stūyante hyagninā sādhaṃ tāsāṃ nāmāni me śṛṇu |*
+> *prathamaḥ stuteccho [?] dvitīyaṃ tanūnapāt |*
+> *narāśaṃsastṛtīye tu caturthyāmiḷa īḷitaḥ |*
+> *barhireva tu pañcamyāṃ dvāro devyastra [?]*
+> *naktoṣāsā tu saptamyāmaṣṭamyāṃ saṃstutā saha [?] |*
+> *daivyāviti tu hotārau navamyāmṛcya [?] saṃstutāḥ |*
+> *tisro devyo daśamyāṃ tu jñeyastvaṣṭaiva stutaḥ [?] ‖*
+
+(Bṛ. De. 3-[?]; the verses are only partly legible and the ordinal forms do not follow the printed numbering of the Ṛks; read with doubt. The passage continues on p. 227.)
+
+---
+
+### Printed p. 227  (PDF 245)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Continuation of the Bṛhaddevatā verses.)*
+
+> एकादश्यां तु सूक्तस्य स्तुतं [?] विद्याद्वनस्पतिम् ।
+> द्वादश्यां तु स्तुता देवीर्विद्या [?] हाक्यतीरिति [?] ।
+> सूक्तेऽस्मिंस्त्र्यृचं [?] यास्तु देवताः परिकीर्तिताः ।
+> ता एव सर्वास्वाप्रीषु द्वितीयो तु विकल्पते [?] ॥
+
+> *ekādaśyāṃ tu sūktasya stutaṃ [?] vidyādvanaspatim |*
+> *dvādaśyāṃ tu stutā devīrvidyā [?] hākyatīriti [?] |*
+> *sūkte 'smiṃstryṛcaṃ [?] yāstu devatāḥ parikīrtitāḥ |*
+> *tā eva sarvāsvāprīṣu dvitīyo tu vikalpate [?] ‖*
+
+(Bṛ. De. 3-[?] to 3-[?].) Having thus indicated the names of all the deities and the order of the sūkta, the book points out which separate deity each Ṛk addresses.
+
+Speaking of the sūktas called Āprī, the Nirukta author says:
+
+> इतीमा एकादशप्राप्रीसूक्तानि [?] तेषां वासिष्ठमात्रेयं वाध्र्यश्वं गार्त्समदमिति नाराशंसवन्ति ; मेधातिथिं दैर्घतमसं प्रैषिकमित्युभयवन्त्य- केवलानि तनूनपान्ति तनूनपान्ति [?] ।
+
+> *itīmā ekādaśaprāprīsūktāni [?] teṣāṃ vāsiṣṭhamātreyaṃ vādhryaśvaṃ gārtsamadamiti nārāśaṃsavanti ; medhātithiṃ dairghatamasaṃ praiṣikamityubhayavantya- kevalāni tanūnapānti tanūnapānti [?] |*
+
+(Ni. 8-[?].) In these sūktas, the praises seen by Vasiṣṭha, Atri, Vadhryaśva and Gṛtsamada are Narāśaṃsa-oriented. Those seen by the sages Medhātithi and Dīrghatamas, and the Praiṣa-sūkta, address both deities, Tanūnapāt and Narāśaṃsa. The remaining four sūktas are devoted solely to the deity Tanūnapāt. In all (counting the Praiṣa-sūkta) there are eleven Āprī-sūktas. The same opinion is stated in the Bṛhaddevatā [?]:
+
+> प्रैषे सहाप्रीसूक्तानि तान्येकादश सन्ति च ।
+> यजूंषि प्रैषसूक्तं वा देश्यानीतराणि तु ।
+> सौत्रामण्यानि त्रीणि प्राजापत्यश्च मेधिके [?] ।
+> पुरुषस्य तु यन्मेधे यजुः सा तानि षट् [?] ।
+> अत्रैव प्रैषसूक्तं स्यान्न यजुःस्थान्यतः [?] तत् ।
+> तेषां प्रैषगतं सूक्तं यच्चे [?] दीर्घतमा जगौ ।
+> मेधातिथिर्यदुक्तं च त्रीण्युभयवन्ति तु ।
+> कुशा [?] गृत्समदे यच्च प्राप्रश्लेषे [?] च यमुते [?] ।
+> नराशंसवदेतेषु दैर्घं च यच्चौर्वशः [?] ।
+> तनूनपादगस्त्यस्य जमदग्निश्च यज्ञगौ [?] ।
+> विश्वरूपश्च ऋषिर्यच्चे [?] जगौ वै प्रोक्तसिते [?] ।
+> मेधातिथेरृचां यास्तु द्वादश देवताः ।
+> सम्पद्यते यथाग्निं [?] ताः सम्पदं तां निबोधत ॥
+
+> *praiṣe sahāprīsūktāni tānyekādaśa santi ca |*
+> *yajūṃṣi praiṣasūktaṃ vā deśyānītarāṇi tu |*
+> *sautrāmaṇyāni trīṇi prājāpatyaśca medhike [?] |*
+> *puruṣasya tu yanmedhe yajuḥ sā tāni ṣaṭ [?] |*
+> *atraiva praiṣasūktaṃ syānna yajuḥsthānyataḥ [?] tat |*
+> *teṣāṃ praiṣagataṃ sūktaṃ yacce [?] dīrghatamā jagau |*
+> *medhātithiryaduktaṃ ca trīṇyubhayavanti tu |*
+> *kuśā [?] gṛtsamade yacca prāpraśleṣe [?] ca yamute [?] |*
+> *narāśaṃsavadeteṣu dairghaṃ ca yaccaurvaśaḥ [?] |*
+> *tanūnapādagastyasya jamadagniśca yajñagau [?] |*
+> *viśvarūpaśca ṛṣiryacce [?] jagau vai proktasite [?] |*
+> *medhātitherṛcāṃ yāstu dvādaśa devatāḥ |*
+> *sampadyate yathāgniṃ [?] tāḥ sampadaṃ tāṃ nibodhata ‖*
+
+(Bṛ. De. 3-[?] to 3-[?]; these verses are only partly legible at this resolution, and many words are marked [?].)
+
+---
+
+### Printed p. 228  (PDF 246)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+In these sentences (Yāska's), if the Praiṣa-sūkta is counted there are eleven Āprī-sūktas in all, otherwise ten. According to the very same Nirukta sentences, the deities **Narāśaṃsa** and **Tanūnapāt** and others are the deities of the Ṛks seen by the sages, and the order of the sūktas is given.
+
+The Praiṣa-sūkta, being in an orderly sequence, gives a pictorial description (a "picture" in outline) that contains, in a fixed order, the beginnings of all the Āprī-sūktas. In the Āprī-sūktas the particular qualities of the deities are mentioned; the Praiṣa-sūkta gathers all of them and, taking the nature of the deities and the agent of each, divides and shows them. Before each deity the formula *hotā yakṣat* ("the Hotṛ shall sacrifice") is recited: one fixed mantra-part, and then the deities are invoked. After examining the qualities, the deity and the doer described in the Praiṣa-sūkta, one can learn the agreement or the difference of opinions as to the purpose of the Āprī mantras of this kind, their characteristics and their effects.
+
+*(Table, "number — deity — epithets", as printed; small type read with doubt.)*
+
+| No. | Deity | Epithets |
+|---|---|---|
+| 1 | अग्निः (समित्) (*agniḥ (samit)*) | समिधा, सुसमिद्धः, समिद्धः (*samidhā, susamiddhaḥ, samiddhaḥ*) |
+| 2 | अग्निः (तनूनपात्) (*agniḥ (tanūnapāt)*) | अदितेः गर्भं भुवनस्य गोपाम् (*aditeḥ garbhaṃ bhuvanasya gopām*) |
+| 3 | अग्निः (नराशंसः) (*agniḥ (narāśaṃsaḥ)*) | वृषणं नः प्रयेतारम् (*vṛṣaṇaṃ naḥ prayetāram*) [?] |
+| 4 | अग्निः (इळः) (*agniḥ (iḷaḥ)*) | ईळितो देवः, हव्यवाट्, अमूरः (*īḷito devaḥ, havyavāṭ, amūraḥ*) |
+| 5 | बर्हिः (*barhiḥ*) | सुस्तरीम, ऊर्णम्रदः, देवेभ्यः, स्वासस्थम् (*sustarīma, ūrṇamradaḥ, devebhyaḥ, svāsastham*) |
+| 6 | देवीर्द्वारः (*devīrdvāraḥ*) | कुष्पाः, कवष्यः, कोषधानः (*kuṣpāḥ, kavaṣyaḥ, koṣadhānaḥ*) [?] |
+| 7 | उषासानक्ता (*uṣāsānaktā*) | बृहती, सुवर्चसः, पतिभ्यः, योनिं कृण्वाने, संस्यमाने (*bṛhatī, suvarcasaḥ, patibhyaḥ, yoniṃ kṛṇvāne, saṃsyamāne*) [?] |
+| 8 | दैव्या होतारा (*daivyā hotārā*) | मन्द्रा, प्रोथारा, कवी, प्रचेतसा (*mandrā, prothārā, kavī, pracetasā*) [?] |
+| 9 | तिस्रो देवीः (*tisro devīḥ*) | अपसाम् अपस्तमा देवी (*apasām apastamā devī*) |
+| 10 | त्वष्टा (*tvaṣṭā*) | अचिष्टिः, अपाकः, रेतोधाः, विश्वरूपः, यशोधाः, पुरुपोषः, अकामकर्शनः (*aciṣṭiḥ, apākaḥ, retodhāḥ, viśvarūpaḥ, yaśodhāḥ, purupoṣaḥ, akāmakarśanaḥ*) [?] |
+| 11 | वनस्पतिः (*vanaspatiḥ*) | धियो जैत्र, स्पन्दः, स्वधितिः [?], देवेभ्यः, घृतं घृतपाट् [?], यज्ञस्य, आयुः कल्पमानः (*dhiyo jaitra, spandaḥ, svadhitiḥ [?], devebhyaḥ, ghṛtaṃ ghṛtapāṭ [?], yajñasya, āyuḥ kalpamānaḥ*) |
+| 12 | अग्निः (स्वाहा) (*agniḥ (svāhā)*) | आज्यस्य मेदः स्वाहा (*ājyasya medaḥ svāhā*) |
+
+Thus the Praiṣa-sūkta gives a connected picture that gathers up the whole of the Āprī-sūktas.
+
+---
+
+### Printed p. 229  (PDF 247)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+Their purposes, their poetic nature and the opinions of modern scholars about them will likewise be stated at the end of this sūkta, after the explanation of Ṛk 13.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> समिद्धो अग्न आ वह देवाँ अद्य यतस्रुचे ।
+> तन्तुं तनुष्व पूर्व्यं सुतसोमाय दाशुषे ॥ १ ॥
+
+> *samiddho agna ā vaha devā~ adya yatasruce |*
+> *tantuṃ tanuṣva pūrvyaṃ sutasomāya dāśuṣe ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> सम्ऽइद्धः [?] । अग्ने । आ । वह । देवान् । अद्य । यतऽस्रुचे । तन्तुम् । तनुष्व । पूर्व्यम् । सुतऽसोमाय । दाशुषे ॥ १ ॥
+
+> *sam 'iddhaḥ [?] | agne | ā | vaha | devān | adya | yata 'sruce | tantum | tanuṣva | pūrvyam | suta 'somāya | dāśuṣe ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, called Samiddha, bring today to the sacrificer with raised ladle the gods who enjoy the oblations; for the one who has pressed Soma and gives the oblation, extend the ancient sacrifice.* Small type; doubtful words marked)
+
+> हे अग्ने समिद्धः सम्यग्दीपितः एतन्नामकः [?] त्वं अद्य अस्मिन् यज्ञदिने देवान् हविषां भोक्तॄन् अग्न्यादीन् वह अस्मद्यज्ञं प्रति प्रापय । यतस्रुचे यागाय उद्यतस्रुचे यजमानाय तदर्थं । आ वह च । सुतसोमाय यागार्थमभिषुतसोमाय दाशुषे हविर्दात्रे । यद्वा [?] … पूर्व्यं पूर्वेभ्यो यज्ञेभ्यो हितं पूर्वकालीनं वा तन्तुं यज्ञं तनुष्व विस्तारय ॥
+
+> *he agne samiddhaḥ samyagdīpitaḥ etannāmakaḥ [?] tvaṃ adya asmin yajñadine devān haviṣāṃ bhoktṝn agnyādīn vaha asmadyajñaṃ prati prāpaya | yatasruce yāgāya udyatasruce yajamānāya tadarthaṃ | ā vaha ca | sutasomāya yāgārthamabhiṣutasomāya dāśuṣe havirdātre | yadvā [?] … pūrvyaṃ pūrvebhyo yajñebhyo hitaṃ pūrvakālīnaṃ vā tantuṃ yajñaṃ tanuṣva vistāraya ‖*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *samiddhaḥ* — you, who are famed as "Samiddha" (well kindled, blazing); *adya* — at this time of the sacrifice; *yatasruce* — for the sacrificer who holds up the ladle for the sacrifice; *devān* — the gods (who accept the oblation); *ā vaha* — bring and bring together; (and) *sutasomāya* — for him who has the soma juice [?]; *dāśuṣe* — who offers the oblation, the sacrificer; *pūrvyam* — the ancient; *tantum* — sacrifice; *tanuṣva* — extend and complete.
+
+---
+
+### Printed p. 230  (PDF 248)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Bhāvārtha.** O Agni, famed as Samiddha, kindled well! At this time of the sacrifice bring and bring together the gods who accept the oblation, which has been got ready with the ladle, for the sacrificer who is ready for the sacrifice. And for the sacrificer who has the soma juice and who offers the oblation, extend and complete the ancient sacrifice.
+
+**English Translation (as printed).** Agni, who is Samiddha, bring the gods to-day (to the worshipper), whose ladle is uplifted : extend (the merit of) former sacrifice to the giver (of the Soma libation) is poured forth [sic: the sentence is as printed, evidently with a misprint].
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***samiddhaḥ*** — समिद्धः—सम्यग्दीप्तितः एतन्नामकस्त्वम् (*samiddhaḥ—samyagdīptitaḥ etannāmakastvam*) [?]: Sāyaṇa explains that the Agni famed by the name *samiddha*; in the Āprī-sūkta this refers to the Samit-Agni who holds the first place. The Bṛhaddevatā says:
+
+> इध्मो यः सर्वमेवाग्निरयं हीद्धः समिध्यते ।
+> धातेर्वैतत्कृतं रूपं हीध्म समिध्यते ॥
+
+> *idhmo yaḥ sarvamevāgnirayaṃ hīddhaḥ samidhyate |*
+> *dhātervaitatkṛtaṃ rūpaṃ hīdhma samidhyate ‖*
+
+(Bṛ. De. 3-[?]; read with doubt.) The *idhma* of the same bodily form, and Agni, who is all-pervading, are given identity here. By the root *dhā* [?] the word *idhma* is derived from *idh*, that is, "being kindled". The author of the Bṛhaddevatā has given the derivations of the words *idhma* and *samit*; this derivation follows the account of the Nirukta author. In the Nirukta also:
+
+> तासामिध्मः प्रथमागामी भवति । इध्मः समिन्धनात् ।
+
+> *tāsāmidhmaḥ prathamāgāmī bhavati | idhmaḥ samindhanāt |*
+
+(Ni. 8-[?].) so is said regarding the first deity of the Āprī-sūkta. In the Taittirīya Brāhmaṇa also, at the beginning of the Praiṣa-sūkta:
+
+> होता यक्षदग्निं समिधा सुसमिधा समिद्धं नाभा पृथिव्याः सङ्गथे वामस्य ।
+
+> *hotā yakṣadagniṃ samidhā susamidhā samiddhaṃ nābhā pṛthivyāḥ saṅgathe vāmasya |*
+
+(Tai. Brā. 3-[?]-[?]-[?].) Agni, thus called *samit* and appearing with the first *prayāja* deity, is addressed in this sense and called to the sacrifice.
+
+---
+
+### Printed p. 231  (PDF 249)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+Here one more matter must be noticed. The name *idhma* (as a deity name) does not occur in the Āprī-sūktas, nor does this name occur in the Praiṣa-sūktas. Only in the Sarvānukramaṇī:
+
+> सुसमिद्धमितीध्मं समिद्धो वा अग्निः …… इति प्रत्यृचं देवताः ।
+
+> *susamiddhamitīdhmaṃ samiddho vā agniḥ …… iti pratyṛcaṃ devatāḥ |*
+
+(Ref. [?].) so it is said. Since the Aitareya Brāhmaṇa also has this usage in this context, the Nirukta author, Śaunaka [?] and Kātyāyana [?] take the deity to be Agni [?; the Kannada words are small and partly unclear]. Moreover, the adjective *samiddha* or *susamiddha* occurs in these sūktas, and the adjective *samidh* is used in three other sūktas, Ṛ. Saṃ. 3-[?]-[?]; 2-[?]-[?]; 10-[?]-[?]; hence these are used for the Āprī-sūktas [?].
+
+These deities are to be invoked first. In the opening Ṛks of these sūktas, the first-in-order is the doer: *susamiddho na ā vaha devāṃ agne haviṣmate* (Ṛ. Saṃ. 1-[?]-[?]; as printed, with several reference numerals [?]) — the prayer with which the duty of Agni is indicated; he is asked to bring the oblation-takers, and nothing more.
+
+On whether this deity is Agni alone, there is from ancient times a disagreement; Yāska, having stated it, then states his own opinion:
+
+यज्ञद्धे (*yajñaddhe*) [?] इति कात्थक्यः (*iti kātthakyaḥ*); अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) (Ni. 8-[?]) — thus giving the opinions of the respective sages — and then आग्नेय इति तु स्थितिः (*āgneya iti tu sthitiḥ*) (Ni. 8-[?]), thus stating his own opinion. In the Aitareya Brāhmaṇa:
+
+> समिधो यजति । प्राणा वै समिधः । प्राणा हीदं सर्वं समिन्धते यदिदं किञ्चित् प्राणानेव तत्प्रीणाति प्राणान् यजमाने दधाति ।
+
+> *samidho yajati | prāṇā vai samidhaḥ | prāṇā hīdaṃ sarvaṃ samindhate yadidaṃ kiñcit prāṇāneva tatprīṇāti prāṇān yajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) From sentences such as these, equating *samidh* and *prāṇa*, and from many other grounds, this deity must be Agni alone.
+
+***tantum*** — by the word *tantu* the commentator here means "sacrifice". It is *anusyūta* (strung through, continuous) even when it is *vicchinna* (broken up into parts), and being spread out in manifold offerings of oblations, from "stretching" it is called *tantu*. These two qualities apply to other objects too, and *tantu* is their name. For example:
+
+> तन्तुं तन्वन् रजसो भानुमन्विहि ज्योतिष्मतः पथो रक्ष धिया कृतान् ।
+> अनुल्बणं वयत जोगुवामपो मनुर्भव जनया दैव्यं जनम् ॥
+
+> *tantuṃ tanvan rajaso bhānumanvihi jyotiṣmataḥ patho rakṣa dhiyā kṛtān |*
+> *anulbaṇaṃ vayata joguvāmapo manurbhava janayā daivyaṃ janam ‖*
+
+(Ṛ. Saṃ. 10-53-6.) Having cited this Ṛk, in the Aitareya [?] Brāhmaṇa … *(continues on p. 232)*
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–231 done (essay on the Āprī-sūktas with the Nirukta/Bṛhaddevatā passages and the table of Āprī deities on pp. 226–228; Ṛk 1 on pp. 229–231, Special Topics continuing; p. 231 ends mid-way into an Aitareya-Brāhmaṇa remark on *tantu*, to be continued on p. 232). Next: printed p. 232 (PDF 250). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227 and the table on p. 228 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
