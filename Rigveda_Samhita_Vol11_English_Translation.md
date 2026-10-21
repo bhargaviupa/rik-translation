@@ -5399,4 +5399,131 @@ has explained *candrarathāḥ*, an epithet of the dawns, as *kāntirathāḥ*. 
 
 ---
 
-**Progress note:** (**Sūkta 141 in progress** (printed pp. 157–219 done: Ṛks 1–12 complete; Ṛk 13 through printed English and Special Topics (*sāmrājyāya*, *arka*); grammar begun on p. 219)). Next: printed p. 220 (PDF 238) — grammar of Ṛk 13 concluded; the sūkta then ends (Sūkta 142 follows). Images exist to PDF 245; recrop 246 onward. Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 220  (PDF 238)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 141".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 13, concluded; noted briefly).** *śimīvadbhiḥ* (*śimyaḥ santi eṣām iti śimīvantaḥ*; suffix *matup*; by *chandasīra* (Pā. Sū. 8-2-15) the *m* of *matup* becomes *v*; *pit*, hence *anudātta*), *arkaiḥ* (root *arca pūjāyām*; *kṛdādhārārci…* (Uṇ. Sū. 3-[?]): suffix *ka*; because of *bahulagrahaṇa* the *k* is not *it*-marked; last-syllable accent by the suffix), *prataram* (in the sense of excess the suffix *tarap*; *amu ca chandasi* (Pā. Sū. 5-4-[?]): the suffix *amu* after *tarap*; the *u* is dropped as *it*; last-syllable accent by the suffix), *dadhānaḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the present sense; *śnu* [?] vikaraṇa; *abhyastānām ādiḥ* (Pā. Sū. 6-1-186): first-syllable accent), *sāmrājyāya* (*samrājo bhāvaḥ sāmrājyam*; *guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca* (Pā. Sū. 5-1-124): suffix *ṣyañ*; *ñnityādir nityam*: first-syllable accent; the dative stands in the place of the genitive), *miham* (root *miha secane*; *mehati siñcati iti mih*; *kvip ca* (Pā. Sū. 3-2-76): *kvip*; accusative singular), *niṣṭatanyuḥ* (the prefix *nis*; the root *tan* is read here among verbs of sounding; *liṅ*, third person plural, *jha*, which becomes *jus*; by *bahulaṃ chandasi* the *śap* becomes *ślu*; *ślau* (Pā. Sū. 6-1-10): reduplication; *yāsuṭ* augment; *liṅaḥ salopo 'nantyasya*: loss of *s*; *usyapadāntāt* (Pā. Sū. 6-1-96): *pararūpa*; *abhinisaḥ stanaḥ śabdasaṃjñāyām* (Pā. Sū. 8-3-86): *ṣatva*; *tiṅ*, *nighāta*). ‖ 13 ‖
+
+*Here the 141st Sūkta ends.*
+
+---
+
+### Printed p. 221  (PDF 239)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 9 [?].)*
+
+## Sūkta 142
+
+### Printed p. 221 (continued; PDF 239)
+
+*(The Kannada heading reads "The 142nd Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of thirteen Ṛks beginning "Samiddho" is an Āprī-sūkta; the first Ṛk is addressed to Samiddha Agni; the second and following to Tanūnapāt, Narāśaṃsa, Iḍā, Barhis, Devīdvāra, Uṣāsānaktā, the two divine Hotṛs, the three goddesses Sarasvatī–Iḍā–Bhāratī, Tvaṣṭṛ, Vanaspati, Svāhākṛti; the last to Indra; Śākapūṇi's and Kātthakya's views on the deities are given. Small type; only partly read.)*
+
+> समिद्ध इति त्रयोदशर्चं तृतीयं सूक्तमाप्रीसूक्तम् [?] । प्रथमायाः समिद्धोऽग्निर्देवता [?] । द्वितीयादीनां तनूनपान्नराशंस इळो बर्हिर्देवीद्वार उषासानक्ता दैव्या होतारौ प्रचेतसौ तिस्रो देव्यः सरस्वतीळाभारत्यः त्वष्टा वनस्पतिः स्वाहाकृतय इति । अन्त्याया इन्द्रः [?] । … [remainder of the small type not read]
+
+> *samiddha iti trayodaśarcaṃ tṛtīyaṃ sūktamāprīsūktam [?] | prathamāyāḥ samiddho 'gnirdevatā [?] | dvitīyādīnāṃ tanūnapānnarāśaṃsa iḷo barhirdevīdvāra uṣāsānaktā daivyā hotārau pracetasau tisro devyaḥ sarasvatīḷābhāratyaḥ tvaṣṭā vanaspatiḥ svāhākṛtaya iti | antyāyā indraḥ [?] | … [remainder of the small type not read]*
+
+**Anuvāda (Kannada).** The sūkta *Samiddho agne* is the third sūkta of the twenty-first anuvāka. It has thirteen Ṛks. The deity of the first Ṛk is Samiddha Agni (the kindled fire) [?]. From the second to the twelfth the deities are, in order, Tanūnapāt, Narāśaṃsa, Iḍā, Barhis, Devīdvāraḥ, Uṣāsānaktā, the two divine Hotṛs Pracetasau, the three goddesses Sarasvatī, Iḍā, Bhāratī, Tvaṣṭṛ, Vanaspati, Svāhākṛtis. The deity of the last Ṛk is Indra. "*Tisro devyaḥ*" means the three goddesses Sarasvatī, Iḍā and Bhāratī. In the Anukramaṇī it is said: "*samiddhe āprī anuṣṭubhaṃ antyendrī*" [?]. Since *idhma*, *tanūnapāt* and the like are names of the limbs of the sacrifice, all these denote the sacrifice itself; so the opinion of Kātthakya is that the deity of this sūkta is the sacrifice (*yajña*) itself. Since the words *samidh* and the rest apply to Agni, Śākapūṇi's opinion is that Agni alone is the deity of this sūkta [?]. In the Nirukta — "*kiṃ devatāḥ prayājānuyājāḥ*", "what deities have the *prayājas* and *anuyājas*?" — the oblations called *prayāja* and *anuyāja* are described as the deities of this sūkta, and Brāhmaṇa sentences are cited in support. In the Ṛks … (continues on p. 222)
+
+### Printed p. 222  (PDF 240)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+*(Anuvāda continued.)* … the Ṛks give grounds (*pakṣāntara*) in agreement with the sense told above, that all these Ṛks relate to Agni. In the Āśvalāyana Śrautasūtra (Ā. 3-[?]) the use of this Āprī-sūkta is stated in the section called *ekādaśa prayāja*, in the case of the *paśuhoma* offering, for those born in the line of the sage Aṅgiras — *samiddho 'gna ity ābrūyāt sarveṣāṃ yathāyajuṣaṃ* — and by the word *yathā-yajuṣam* in it, the Āprī-sūktas are of three kinds: the four Āprī-sūktas seen by the sages Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada are concerned with Narāśaṃsa; the two seen by Medhātithi and by Dīrghatamas are concerned with both Narāśaṃsa and Tanūnapāt; the remaining Āprī-sūktas are concerned with Tanūnapāt. Hence this sūkta, seen by Dīrghatamas, belongs to the group concerned with both Narāśaṃsa and Tanūnapāt.
+
+---
+
+**॥ ओम् ॥**
+
+**Sūkta 142** — **Āprī-sūktam**. Maṇḍala 1, Anuvāka 21, Sūkta 142; Aṣṭaka 2, Adhyāya 2, Varga 10, 11 [?]. Number of Ṛks in the sūkta: 13. Ṛṣi: Dīrghatamas Aucathya. Devatā: 1. Samit; 2. Tanūnapāt; 3. Narāśaṃsa; 4. Iḍā; 5. Barhis; 6. Devīdvāraḥ; 7. Uṣāsānaktā; 8. Daivyā Hotārau Pracetasau; 9. Tisro devyaḥ Sarasvatī–Iḍā–Bhāratyaḥ; 10. Tvaṣṭā; 11. Vanaspati; 12. Svāhākṛtayaḥ; 13. Indra. Chandas: Anuṣṭubh.
+
+**The Āprī-sūktas.** We have given an account of the Āprī-sūktas in the Ṛgveda-saṃhitā, part 3, pages 73–74 and 528 [?]. In the Ṛgveda there are ten Āprī-sūktas in all. In them are mantras whose deities are: *idhma* (or *samiddha*), *tanūnapāt*, *narāśaṃsa*, *iḍā*, *barhis*, *devīdvāraḥ*, *uṣāsānaktā*, *daivyā hotārau pracetasau*, *tisro devyaḥ sarasvatīḍābhāratyaḥ*, *tvaṣṭā*, *vanaspati*, *svāhākṛtayaḥ*. But, as regards the deities Narāśaṃsa and Tanūnapāt, in some sūktas only a single deity called Narāśaṃsa is praised, (continues on p. 223)
+
+### Printed p. 223  (PDF 241)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+in some others only the single deity Tanūnapāt, and in some both Narāśaṃsa and Tanūnapāt. In accordance with this arrangement these Āprī-sūktas have been divided into three groups. Those seen by the sages Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada are:
+
+1) *Juṣasvana samidham agne* — Ṛ. Saṃ. 7-[?] (Maitrāvaruṇi Vasiṣṭha);
+2) *Susamiddhāya śociṣe* — Ṛ. Saṃ. 5-5 [?] (Vasuśruta Ātreya);
+3) *Imāṃ me agne samidham* — Ṛ. Saṃ. 10-[?] (Sumitra Vādhryaśva);
+4) *Samiddho agnir nihite* — Ṛ. Saṃ. 2-3 [?] (Gṛtsamada).
+
+These four sūktas belong to one group. In each of them there is one Ṛk whose deity is Narāśaṃsa. Hence these four sūktas are named *narāśaṃsavanti sūktāni*, "Āprī-sūktas that praise only the deity Narāśaṃsa".
+
+1) *Susamiddho na ā vaha* — Ṛ. Saṃ. 1-13 (Medhātithi Kāṇva); 2) *Samiddho agna ā vaha* — Ṛ. Saṃ. 1-142 (Dīrghatamas Aucathya): these two Āprī-sūktas belong to the second group. In each of these there is one Ṛk for each of the two deities, Narāśaṃsa and Tanūnapāt. Hence these Āprī-sūktas are well known as those having both deities, Narāśaṃsa and Tanūnapāt. Since both deities are in these sūktas (except Indra in the present sūkta) [?], the twelve *prayāja* offerings come to be twelve offerings [?].
+
+(1) *Samiddho adya rājasi* — Ṛ. Saṃ. 1-188 (Agastya Maitrāvaruṇi); (2) *Samit-samit sumanāḥ* — Ṛ. Saṃ. 3-4 [?] (Gādhina Viśvāmitra); (3) *Samiddho viśvatas patiḥ* — Ṛ. Saṃ. 9-5 (Kāśyapa Asita or Devala); (4) *Samiddho adya manuṣaḥ* — Ṛ. Saṃ. 10-110 (Jāmadagnya Rāma Bhārgava): these sūktas belong to the third group. In these there are Ṛks whose deity is Tanūnapāt alone (there are no Ṛks with the deity Narāśaṃsa). Hence these are named *tanūnapātvanti sūktāni*, Āprī-sūktas with mantras (Ṛks) whose deity is Tanūnapāt.
+
+These Āprī-sūktas are recited in the *paśuhoma* for performing the eleven *prayāja* oblations. There is a sentence of the Taittirīya Saṃhitā: *ekādaśa prayājān anvāha; daśa vai paśoḥ prāṇā ātmaikādaśaḥ* (Tai. Saṃ. 6-3-[?]-[?]), "he recites eleven *prayājas*; the ten vital airs of the animal, and the self is the eleventh". When these Āprī-sūktas are recited and the *paśuhoma* done, there is a special rule: (continues on p. 224)
+
+### Printed p. 224  (PDF 242)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+the sacrificers, who are of various *gotra*-sages, must recite at the sacrifice the very Āprī-sūktas seen by their own sage (Ā. 3-3 [?]). The present Āprī-sūkta is to be recited by those born in the line of the sage Aṅgiras.
+
+To know the nature of the Āprī-sūktas and the place they hold in the performance of rites, we have two kinds of authority: first, the *śruti*-sentences of the Brāhmaṇas and the like; second, the sentences of derivation (*nirvacana*) in the Nirukta and the like. Of these two kinds, the Nirukta-type sentences are more reasoned and are also accompanied by a more scientific explanation.
+
+If one considers the derivation of the word *āprī* given in the Brāhmaṇas, such as the Aitareya, it may be said that those texts have understood and explained this word from the standpoint of the performance of rites such as sacrifice. For example —
+
+> तद्यदाप्रीणाति तस्मादाप्रियो नाम [?] ।
+
+> *tadyadāprīṇāti tasmādāpriyo nāma [?] |*
+
+(Kauṣ. Brā. 10-3 [?].) so the name arises from its being a means of gratifying; and in the Kauṣītaki Brāhmaṇa, and
+
+> आप्रीभिराप्नुवन् [?] । तदाप्रीणामाप्रित्वम् ।
+
+> *āprībhirāpnuvan [?] | tadāprīṇāmāpritvam |*
+
+(Tai. Brā. 3-2-8-6 [?].) says the same idea, as does the Taittirīya Brāhmaṇa, and —
+
+> यदेवैतान्याप्रिय आज्यानि भवन्ति । आत्मानमेवैतैराप्रीणाति ।
+
+> *yadevaitānyāpriya ājyāni bhavanti | ātmānamevaitairāprīṇāti |*
+
+(Tā. Brā. 3-9-8-3 [?].) so the Tāṇḍya Brāhmaṇa too tells the nature of the word *āprī*.
+
+In the Aitareya Brāhmaṇa, in indicating the duties the *hotṛ* must perform at the time of the Agniṣomīya sacrifice, the explanation of the Āprīs is given. After the description of the animal, to be offered to Agni and Soma (2-3), eleven *prayāja* mantras are stated (2-4). In that context —
+
+> आप्रीभिराप्रीणाति । तेजो वै ब्रह्मवर्चसमाप्रियस्तेजस्यैनं ब्रह्मवर्चसेन समर्धयति ॥
+
+> *āprībhirāprīṇāti | tejo vai brahmavarcasamāpriyastejasyainaṃ brahmavarcasena samardhayati ‖*
+
+(Ai. Brā. 2-4.) the Āprī Ṛks are full of radiance and with *brahmavarcas*; by such Ṛks the (hotṛ) becomes a cause of gratification: thus it shows that they are a means for one's own gratification. Afterwards (continues on p. 225)
+
+### Printed p. 225  (PDF 243)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+it tells that the deities *samidh*, *tanūnapāt* and so on are identified with the vital airs and the like.
+
+The Aitareya Brāhmaṇa, saying of these sūktas that are given in different maṇḍalas, and of their fruit, first of all gives the matter of the sages who recited them —
+
+> ताभिर्ऋषयः प्रीणायोद्यथा [?] ऋषयः प्रीणाति यजमानमेव तद्बन्धुतायाः उत्सृजति [?] ॥
+
+> *tābhirṛṣayaḥ prīṇāyodyathā [?] ṛṣayaḥ prīṇāti yajamānameva tadbandhutāyāḥ utsṛjati [?] ‖*
+
+(Ai. Brā. 2-4.) This tells the fruit of reciting these sūktas: that by reciting those sūktas of the sages, the sacrificer is freed from the bond of the sacrifice and protected. Different sages saw these sūktas on their own happy occasions; yet the nature of the sūktas, and the fruit of reciting them, appear as the same in all.
+
+It is known from the explanation of the Nirukta author that from the time of the Brāhmaṇas and the like there has been a difference of opinion about these Āprī-sūktas and about their deities.
+
+> अथातो ऽऽप्रियः । आप्रियः कस्मादाप्नोतेः प्रीणातेर्वा । आप्रीभिराप्रीणातीति च ब्राह्मणम् ॥
+
+> *athāto ' 'priyaḥ | āpriyaḥ kasmādāpnoteḥ prīṇātervā | āprībhirāprīṇātīti ca brāhmaṇam ‖*
+
+(Ni. 8-4.) By this the Nirukta author shows that the opinion of the Brāhmaṇas and the like regarding the Āprī-sūktas is different from his own. And he has cited from time to time the opinions of sages such as Kātthakya, Śākapūṇi and Mādhyamika. Though Kātthakya and the rest were *yājñikas*, it is shown in the particulars of each Ṛk that in many specific contexts they do not agree with what is said in the Brāhmaṇas and the like. Having set out all these opinions, Yāska at last states his own settled view. For instance, as to the Āprī deities, he first records that the Brāhmaṇas and the rest say so and so, and collects them all —
+
+> इतीमा आप्रीदेवता अनुक्रान्ताः । अथ किं देवताः प्रयाजानुयाजाः । आग्नेया इत्येके । आग्नेया वै प्रयाजा आग्नेया अनुयाजा इति च ब्राह्मणम् । छन्दोदेवता इत्यात्मपरम् । छन्दांसि वै प्रयाजाश्छन्दांस्यनुयाजा इति च ब्राह्मणम् । ऋतुदेवता इत्यात्मपरम् । ऋतवो वै प्रयाजा ऋतवोऽनुयाजा इति च ब्राह्मणम् । पशुदेवता इत्यात्मपरम् । पशवो वै प्रयाजाः पशवोऽनुयाजा इति च ब्राह्मणम् । प्राणदेवता इत्यात्मपरम् । प्राणा वै प्रयाजाः [continues on p. 226]
+
+> *itīmā āprīdevatā anukrāntāḥ | atha kiṃ devatāḥ prayājānuyājāḥ | āgneyā ityeke | āgneyā vai prayājā āgneyā anuyājā iti ca brāhmaṇam | chandodevatā ityātmaparam | chandāṃsi vai prayājāśchandāṃsyanuyājā iti ca brāhmaṇam | ṛtudevatā ityātmaparam | ṛtavo vai prayājā ṛtavo 'nuyājā iti ca brāhmaṇam | paśudevatā ityātmaparam | paśavo vai prayājāḥ paśavo 'nuyājā iti ca brāhmaṇam | prāṇadevatā ityātmaparam | prāṇā vai prayājāḥ [continues on p. 226]*
+
+---
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta) begun: printed pp. 221–225 (Anukramaṇī, Anuvāda, header table, essay on the Āprī-sūktas, up to Nirukta 8-[?] quotation on the deities, continuing on p. 226). Next: printed p. 226 (PDF 244) — essay on the Āprī deities continued, then Ṛk 1 of Sūkta 142 (13 Ṛks). Images exist to PDF 245; recrop 246 onward. Images exist to PDF 215; recrop 216 onward. Images at 120 dpi in /tmp/v11a (PDF 33–175; recrop 176 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–11; Sūkta 140 Sūkta 141 Ṛk 1 bhāṣya partly read (Ṛk 12 middle lines unread); Ṛk 6 bhāṣya tail on p. 122 unread); the *abhva* discussion quotations (pp. 118–120) and the Śatapatha Brāhmaṇa passage on p. 119 doubtful; Varga numerals (Sūkta 140 headers read as 3–6 [?]); Ni./Ṛg/Ai. Ār./Tai. Saṃ. numerals; grammar sūtra numbers (pp. 125–127 grammar of Ṛk 6 only summarised; several words garbled in the vyākaraṇa small type); Ṛg and Brāhmaṇa quotations on pp. 125, 133, 137, 148–150 and 153 only partly legible (Śa. Brā./Tai. Saṃ./Ai. Brā. passages garbled); Sūkta 137 and Pīṭhike flags as before.
