@@ -1740,4 +1740,82 @@ On the sixth day of the sacrifice called *Pṛṣṭhya-ṣaḍaha*, when the *P
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–65 done: Ṛks 1–5 complete; Ṛk 6 through printed English and the start of its Special Topics). Next: printed p. 66 (PDF 84) — Special Topics of Ṛk 6 continued, grammar, then Ṛk 7. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–6 largely unread); Varga numerals of Sūkta 139; Bṛ. De. quotation on p. 63 and Āśvalāyana citation on p. 64 garbled in places; all Ni./Ṛg/Bṛ. De./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 66  (PDF 84)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Special Topics of Ṛk 6, continued from p. 65.)* …makes the *hotṛ* priest offer the oblation; this is set out in the Āśvalāyana Śrautasūtra by the sūtra षष्ठस्य प्रातःसवने पृष्ठितेयाज्यानां पुरस्तादन्या कृत्वेभ्यामवनानन्तरो यजन्ति [?] (*ṣaṣṭhasya prātaḥsavane pṛṣṭhiteyājyānāṃ purastādanyā kṛtvebhyāmavanānantaro yajanti [?]*) (Āś. [?]-[?]).
+
+***vṛṣan; vṛṣapāṇāsaḥ.*** Sāyaṇa explains *vṛṣan* as *kāmānāṃ varṣitaḥ* — "one who showers desired things" — and *vṛṣapāṇāsaḥ* as *abhimatavarṣaṇena tvayā pātavyāḥ* — "to be drunk by you, who shower what is wished". That is, the drinking of the Soma juice is the intent that gives Indra [joy] [?]:
+
+> इति वा इति मे मनो गामश्वं सनुयामिति । कुवित्सोमस्यापामिति ॥
+
+> *iti vā iti me mano gāmaśvaṃ sanuyāmiti | kuvitsomasyāpāmiti ‖*
+
+(Ṛ. Saṃ. 10-119-1 [?].) Indra says that he has drunk the Soma that encourages him to give cows and horses to the praisers. Likewise:
+
+> कदा चन स्तरीरसि नेन्द्र सश्चसि दाशुषे । उपोपेन्नु मघवन्भूय इन्नु ते दानं देवस्य पृच्यते [?] । उपयाम गृहीतोऽस्यादित्येभ्यस्त्वा [?] । कदा चन प्रयुच्छसि [?] … सवनं त इन्द्रियामृतस्था [?] ।
+
+> *kadā cana starīrasi nendra saścasi dāśuṣe | upopennu maghavanbhūya innu te dānaṃ devasya pṛcyate [?] | upayāma gṛhīto 'syādityebhyastvā [?] | kadā cana prayucchasi [?] … savanaṃ ta indriyāmṛtasthā [?] |*
+
+(Tai. Saṃ. [?]-[?]-[?] [?].) In these Saṃhitā sentences too the drinking of the Soma juice is said to be the means of favouring the sacrificers who offer oblations; the same is said here.
+
+***udbhidaḥ.*** *Balasya udbhedakāḥ, udbhinnā vā parvatādau tādṛśāḥ somāḥ* — "(Soma juices) that bring out strength", or "(plants) that have sprung up on mountains and the like": the commentator says the two senses are possible.
+
+> प्र वाता इव दोधत उन्मा पीता अयंसत । कुवित्सोमस्यापामिति ॥
+
+> *pra vātā iva dodhata unmā pītā ayaṃsata | kuvitsomasyāpāmiti ‖*
+
+(Ṛ. Saṃ. 10-119-3 [?].)
+
+> न हि मे रोदसी उभे अन्यं पक्षं चन प्रति । कुवित्सोमस्यापामिति ॥
+
+> *na hi me rodasī ubhe anyaṃ pakṣaṃ cana prati | kuvitsomasyāpāmiti ‖*
+
+(Ṛ. Saṃ. 10-119-[?].) In such Ṛks, since there are the words of Indra that his strength grew through drinking Soma and that none with strength like his is found in heaven and earth, the first sense is correct. For the second, Sāyaṇa points out that the Soma plant grows on mountains and the like and so has the epithet *udbhid*. The growth, form, colour, taste and so on of the Soma plant are set out fully in Part [?] of the Ṛgveda Saṃhitā. Recent critics have discussed the Soma plant and given their views; a summary of the articles written in the *Journal of the Royal Asiatic Society*, the *Indian Antiquary* and other journals is given briefly in the Pūrvapīṭhikā of this part. Whether those views are right or wrong the reader must judge for himself.
+
+### Printed p. 67  (PDF 85)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+***dāvane.*** *Dāvati yāge* — "in the sacrifice that gives desired things"; an epithet of the sacrifice. The word is also used as an epithet of Indra and other gods, showing their giving nature.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *vṛṣan* (root *vṛṣu secane*; *kanin yuvṛṣi…* (U. Sū. 1-[?]) *kanin*; the *n* is not dropped in the vocative; as it is at the start of a *pāda*, no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-[?]) first-syllable accent), *vṛṣapāṇāsaḥ* (*vṛṣṇaḥ pānāḥ*; root *pā pāne*; *lyuṭ* in the passive sense; *yuvor anākau* (Pā. Sū. 7-1-[?]) *ana*; accent of the first member of a *kṛt*-compound; the *jas* with *ajjhalī…* *asuk* (Pā. Sū. 7-1-[?])), *adriṣutāsaḥ* (*adribhiḥ sutāḥ*; root *ṣuñ abhiṣave*; *kta* in the passive; *tṛtīyā karmaṇi* (Pā. Sū. 6-2-[?]) first-member accent; as before *asuk*), *udbhidaḥ* (root *bhidir vidāraṇe*; *kvip*; prefix compound; accent; nominative plural), *mandantu* (root *madi harṣaglepanayoḥ*; *iditaś ca* gives *num*; *loṭ* third person plural; *nighāta* as a *tiṅanta* follows a non-*tiṅanta*), *dāvane* (root *dudāñ dāne*; *āto maniṅ…* (Pā. Sū. 3-2-[?]) *vanip*; dative singular; Vedic non-*luk* of the *ṅe*), *mahe* (for *mahate*; Vedic loss of the *t*; *sāvekācas tṛtīyādiḥ* gives *udātta* to the case-ending), *girvāhaḥ* (*girāṃ vāhaḥ*; root *vah prāpaṇe*; *vahihādhāṅbhyaś chandasi* (U. Sū. 4-[?]) *asun*; vocative; *āmantritasya ca*), *stavamānaḥ* (root *ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ*; *śānac* in the passive sense; *vyatyaya*: *śap*; *āne muk*), *gahi* (root *gamḷ gatau*; *loṭ* second person singular *sip* → *hi*; *bahulaṃ chandasi* *luk* of *śap*; the nasal of the root dropped), *sumṛḷīkaḥ* (*sukhaṃ mṛḷīkaṃ yasya saḥ*; *nañsubhyām* (Pā. Sū. 6-2-[?]) accent of the last member's first syllable). ‖ 6 ‖ Sūtra numbers not read.
+
+#### Ṛk 7
+
+*(The Ṛk 7 Saṃhitā stands on p. 68.)*
+
+### Printed p. 68  (PDF 86)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+**॥ संहितापाठः ॥**
+
+> ओ षू णो अग्ने शृणुहि त्वमीळितो देवेभ्यो ब्रवसि यज्ञियेभ्यो राजभ्यो यज्ञियेभ्यः ।
+> यद्ध त्यामङ्गिरोभ्यो धेनुं देवा अदत्तन ।
+> वि तां दुह्रे अर्यमा कर्तरी सचा एष तां वेद मे सचा ॥ ७ ॥
+
+> *o ṣū ṇo agne śṛṇuhi tvamīḷito devebhyo bravasi yajñiyebhyo rājabhyo yajñiyebhyaḥ |*
+> *yaddha tyāmaṅgirobhyo dhenuṃ devā adattana |*
+> *vi tāṃ duhre aryamā kartarī sacā eṣa tāṃ veda me sacā ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> ओ इति । सु । नः । अग्ने । शृणुहि । त्वम् । ईळितः । देवेभ्यः । ब्रवसि । यज्ञियेभ्यः । राजऽभ्यः । यज्ञियेभ्यः ।
+> यत् । ह । त्याम् । अङ्गिरःऽभ्यः । धेनुम् । देवाः । अदत्तन ।
+> वि । ताम् । दुह्रे । अर्यमा । कर्तरी । सचा । एषः । ताम् । वेद । मे । सचा ॥ ७ ॥
+
+> *o iti | su | naḥ | agne | śṛṇuhi | tvam | īḷitaḥ | devebhyaḥ | bravasi | yajñiyebhyaḥ | rāja 'bhyaḥ | yajñiyebhyaḥ |*
+> *yat | ha | tyām | aṅgiraḥ 'bhyaḥ | dhenum | devāḥ | adattana |*
+> *vi | tām | duhre | aryamā | kartarī | sacā | eṣaḥ | tām | veda | me | sacā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; Āśvalāyana citation of the use of the Ṛk; the bhāṣya itself begins at the foot of this page and runs on. Small type; doubtful words marked)
+
+> दशरात्रस्य षष्ठेऽहनि प्रातःसवने नेष्टुः पृष्ठितयाज्यायाः पुरस्तादो षू णो अग्न इत्यापसनेयैकेत्थोभ्याम् [?] योगः । षष्ठस्येति खण्डे सूत्रितम् [?] …
+
+> *daśarātrasya ṣaṣṭhe 'hani prātaḥsavane neṣṭuḥ pṛṣṭhitayājyāyāḥ purastādo ṣū ṇo agna ityāpasaneyaiketthobhyām [?] yogaḥ | ṣaṣṭhasyeti khaṇḍe sūtritam [?] …*
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–68 done: Ṛks 1–6 complete; Ṛk 7 Saṃhitā, Pada and the Āśvalāyana citation written; its bhāṣya begins at the foot of p. 68). Next: printed p. 69 (PDF 87) — bhāṣya of Ṛk 7 (continuing), Pratipadārtha, Bhāvārtha, printed English, Special Topics. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–7 largely unread); Varga numerals of Sūkta 139; the Tai. Saṃ. quotation on p. 66 and the Āśvalāyana citations (pp. 64, 66, 68) garbled in places; all Ni./Ṛg/Tai./Āś. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
