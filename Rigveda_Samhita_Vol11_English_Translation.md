@@ -6115,4 +6115,169 @@ Such different traditions, appearing in the explanations, are all taken as sayin
 
 ---
 
-**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–243 done (introductory essay; Ṛks 1–3 complete; Ṛk 4 begun: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics through *iḷitaḥ* and *matiḥ*; grammar of Ṛk 4 begun on p. 243 and continuing on p. 244). Next: printed p. 244 (PDF 262). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243 and the table on p. 228 read at low confidence; p. 239 prose paragraph on Narāśaṃsa/Tanūnapāt read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 244  (PDF 262)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4, concluded; grammar page, noted briefly).** *vaha* (root *vaha prāpaṇe*; *loṭ*, second person singular, form *vaha*; being in a word after *ati*… the *nighāta* accent), *citram* (root *ciñ cayane* [?]; suffix *kra* by *amicimidiśasibhyaḥ kraḥ* [?] (Uṇ. Sū. 4-[?]); *guṇa* is excluded because the suffix is *kit*; suffix-accent, end-*udātta*), *matiḥ* (root *man avabodhane*; *striyāṃ ktin* (Pā. Sū. 3-3-94): suffix *ktin*; *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* (Pā. Sū. 3-3-96) [?]: *ktin* is *udātta*), *accha* (*nipātasya ca* (Pā. Sū. 6-3-136): lengthening in the Saṃhitā [?]), *sujihva* (*śobhanā jihvā yasya saḥ*; *gostriyor upasarjanasya* (Pā. Sū. 1-2-48) [?] shortens in the compound; the vocative, *āmantritasya ca* (Pā. Sū. 6-1-198) gives the *nighāta* accent), *hi* (*pādapūraṇe* [?]: the particle *hi* here fills the pāda), *vacyate* (root *vaca paribhāṣaṇe*; passive *laṭ*, third person singular; *taptanatanathanāś ca* … ending *ta*; *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79): *e*; *sārvadhātuke yak* (Pā. Sū. 3-1-67): *yak*; *vacisvapiyajādīnāṃ kiti* (Pā. Sū. 6-1-15) would give *samprasāraṇa*, which does not occur because of *bahulaṃ chandasi*; *hi* being in connexion, *hi ca* (Pā. Sū. 8-1-34) prevents the *nighāta* accent; being an *ādyudātta* form (*tiṅ* following *yak*) the *yak* accent remains). ‖ 4 ‖
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स्तृणानासो यतस्रुचो बर्हिर्यज्ञे स्वध्वरे ।
+> वृञ्जे देवव्यचस्तममिन्द्राय शर्म सप्रथः ॥ ५ ॥
+
+> *stṛṇānāso yatasruco barhiryajñe svadhvare |*
+> *vṛñje devavyacastamamindrāya śarma saprathaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्तृणानासः । यतऽस्रुचः । बर्हिः । यज्ञे । सुऽअध्वरे ।
+> वृञ्जे । देवऽव्यचःऽतमम् । इन्द्राय । शर्म । सऽप्रथः ॥ ५ ॥
+
+> *stṛṇānāsaḥ | yata 'srucaḥ | barhiḥ | yajñe | su 'adhvare |*
+> *vṛñje | deva 'vyacaḥ 'tamam | indrāya | śarma | sa 'prathaḥ ‖ 5 ‖*
+
+---
+
+### Printed p. 245  (PDF 263)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *In the well-ordered soma sacrifice the priests with ladles raised strew the barhis; they prepare for Indra the wide house, a comfort, which most pleases the gods.* Small type; a few words doubtful)
+
+> स्वध्वरे शोभनप्रायणीयोदयनीयाद्यनुयागवति [?] यज्ञे सोमयागे बर्हिर्दर्भान् स्तृणानासः आस्तृण्वन्तो यतस्रुचो नियमितजुहूपात्राः ऋत्विजो देवव्यचस्तमम् अतिशयेन देवानामिमं [?] सप्रथः सर्वतो विस्तीर्णं शर्म सुखसाधनं गृहमिन्द्राय वृञ्जे । विवर्जयन्ति [?] सम्पादयन्तीत्यर्थः ॥
+
+> *svadhvare śobhanaprāyaṇīyodayanīyādyanuyāgavati [?] yajñe somayāge barhirdarbhān stṛṇānāsaḥ āstṛṇvanto yatasruco niyamitajuhūpātrāḥ ṛtvijo devavyacastamam atiśayena devānāmimaṃ [?] saprathaḥ sarvato vistīrṇaṃ śarma sukhasādhanaṃ gṛhamindrāya vṛñje | vivarjayanti [?] sampādayantītyarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *svadhvare* — in this soma sacrifice, which is excellent and preceded by preliminary rites such as the *prāyaṇīya*; *yajñe* — in the sacrifice; *barhiḥ* — the seats of *darbha* grass; *stṛṇānāsaḥ* — strewing; *yatasrucaḥ* — those priests who hold the ladles and vessels such as *juhū* for the sacrifice; *devavyacastamam* — which most pleases (invites) the gods; *saprathaḥ* — wide; *śarma* — the sacrificial house, a means of comfort; *indrāya* — for Indra; *vṛñje* — they prepare.
+
+**Bhāvārtha.** The priests who hold the ladles and vessels such as the *juhū* for the sacrifice, in this soma sacrifice, which is excellent and endowed with preliminary rites such as the *prāyaṇīya*, strew the *darbha* seats and prepare for Indra the sacrificial house, wide, a means of comfort, and one which pleases the gods in the highest degree by calling them.
+
+**English Translation (as printed).** The priests, bearing ladles, are strewing the sacred grass in this holy sacrifice, to prepare a god-frequented and well-spread abode for Indra.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***barhiḥ*** — "Like the ideas *idhma* and *iḷā*, this implement is much more of a concrete, material form. *Barhis* means the seat of *darbha* grass. Unlike the doors in *devīr dvāraḥ*, to which a divine element is ascribed, no such element was ascribed to the *barhis*; only the sense 'seat of the gods' is suggested. Moreover, the doors are asked to open of themselves, without other help, and make a way for the arrival of the gods: the doors being inanimate, they cannot make a wide way for themselves without some divine power; in the case of the *barhis* alone, no such power is ascribed. The priests must spread it. And not only in this Ṛk but in the other Ṛks of the Āprī-sūktas too it is stated plainly that the *barhis* is to be spread with the help of the priests and others. For instance —" *(the example, a Ṛk, stands at the head of the next page.)*
+
+---
+
+### Printed p. 246  (PDF 264)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+> प्राचीनं बर्हिरोजसा सहस्रवीरमस्तृणन् । यत्रादित्या विराजथ ॥
+
+> *prācīnaṃ barhirojasā sahasravīramastṛṇan | yatrādityā virājatha ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this Ṛk, and likewise in Ṛ. Saṃ. 9-5-4 [?] (*prācīnaṃ barhiḥ pavamāno stṛṇan hariḥ* [?]), the priests are described as spreading the *barhis*. So in the Ṛks of the other Āprī-sūktas too the *barhis* is called an earthly thing and inanimate, but yet a place that is holy to the gods. In the Praiṣa-sūkta:
+
+> होता यक्षद्बर्हिः सुष्वरीर्णोर्णम्रदा अस्मिन्यज्ञे वि च प्र च प्रथताम् [?] स्वासस्थं देवेभ्यः । ऐमेनमद्य वसवो रुद्रा आदित्याः सदन्तु [?] प्रियमिन्द्रस्य … होतर्यज [?] ॥
+
+> *hotā yakṣadbarhiḥ suṣvarīrṇorṇamradā asminyajñe vi ca pra ca prathatām [?] svāsasthaṃ devebhyaḥ | aimenamadya vasavo rudrā ādityāḥ sadantu [?] priyamindrasya … hotaryaja [?] ‖*
+
+(Tai. Brā. 3-[?]-[?]-[?].) Here the commentator says that the *barhis* is, as a synonym of Agni, the fourth *prayāja* deity, with the character of a deity, and a seat. In the Aitareya Brāhmaṇa:
+
+> बर्हिर्यजति पशवो वै बर्हिः पशूनेव तत्प्रीणाति पशून्यजमाने दधाति ।
+
+> *barhiryajati paśavo vai barhiḥ paśūneva tatprīṇāti paśūnyajamāne dadhāti |*
+
+(Ai. Brā. 2-[?].) here the *barhis* is explained as the animal that grazes grass and is soft [?]; but it is understood that there is no scope at all for this meaning here.
+
+The Nirukta author says: *barhiḥ paribarhaṇāt* — "*barhis*, from growing quickly" — since *darbha* grass grows fast it is called *barhis* (Ni. 8-[?]). In the Bṛhaddevatā:
+
+> बर्हिरेवायमग्निस्तु सर्वं हि परिबर्हितम् ।
+> अन्नेन यद्वृतो वा सन्नीयमानेन परिबर्हितः ॥
+
+> *barhirevāyamagnistu sarvaṃ hi paribarhitam |*
+> *annena yadvṛto vā sannīyamānena paribarhitaḥ ‖*
+
+(Bṛ. De. 3-[?].) "Because it is surrounded by food, and because after the *ājya*-offering it is filled by the *idhma*, it is Agni himself in the form of *barhis*", thus it says of the identity.
+
+In many matters the author of the Bṛhaddevatā follows the Nirukta, but in this context he shows a little difference; the author of the Nirukta takes *barhis* simply as the seat of the gods, while he explains it as being at once the divine, a synonym of Agni, and a seat.
+
+***stṛṇānāsaḥ*** — *āstṛṇate*: "spreading" — those who spread them.
+
+***saprathaḥ*** — *saprathāḥ sarvataḥ pṛthuḥ*: "spread out on all sides"; the Nirukta author explains it as "widely extended" (Ni. 8-[?]).
+
+---
+
+### Printed p. 247  (PDF 265)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+> त्वमग्ने सप्रथा असि जुष्टो होता वरेण्यः । त्वया यज्ञं वितन्वते ॥
+
+> *tvamagne saprathā asi juṣṭo hotā vareṇyaḥ | tvayā yajñaṃ vitanvate ‖*
+
+(Ṛ. Saṃ. 5-13-4 [?].) Having cited this Ṛk, he explains the meaning of the word *saprathāḥ* there. As in this case, in the other Ṛks too the epithet *saprathāḥ* is applied to the divine sacrificial houses, which are extended on all sides.
+
+***yatasrucaḥ*** — *bhāratāḥ, vṛktabarhiṣaḥ, yatasrucaḥ* and similar words are read among the names of priests (Ni. [?]). The meaning is "priests who are ready, holding the ladles such as *juhū*, for the sake of the sacrifice".
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *stṛṇānāsaḥ* (root *stṛñ ācchādane*, *kryādi*; *śānac* in the present sense; *kryādibhyaḥ śnā* (Pā. Sū. 3-1-81): the *śnā* vikaraṇa; *prādīnāṃ [?]*: *pratyayasvara*, the suffix *śānac* being *cit*, last-syllable accent; *jas* with *ājjaser asuk* (Pā. Sū. 7-1-50): *asuk* augment; *s* becomes *ru*, *visarga*), *yatasrucaḥ* (*yatā sruk yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): first member keeps its accent; nominative plural), *svadhvare* (*śobhano 'dhvaro yasmin saḥ svadhvaraḥ*; *nañsubhyām* (Pā. Sū. 6-2-172): the last member is *udātta*; locative singular), *vṛñje* (root *vṛjī varjane*, *adādi*; the nasal augment because of the *it*; *laṭ*, third person plural; by *vyatyaya* a plural becomes singular, ending *ta*; hence *e*; *lopas ta ātmanepadeṣu* (Pā. Sū. 7-1-41): loss of *t* of the ending; as *pādādi* there is no *nighāta*; by the suffix-accent the last syllable is *udātta*), *saprathaḥ* (root *prathaḥ prakhyāne*; *sarvadhātubhya asun* (Uṇ. Sū. 4-[?]): suffix *asun*; *prathanena saha vartate iti saprathaḥ*; *tena saheti tulyayoge* (Pā. Sū. 2-2-28): compound; *vopasarjanasya* (Pā. Sū. 6-3-82): *saha* becomes *sa* [?]; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the *kṛdanta* keeps its natural accent). ‖ 5 ‖
+
+---
+
+#### Ṛk 6
+
+### Printed p. 248  (PDF 266)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 142".)*
+
+**॥ संहितापाठः ॥**
+
+> वि श्रयन्तामृतावृधः प्रयै देवेभ्यो महीः ।
+> पावकासः पुरुस्पृहो द्वारो देवीरसश्चतः ॥ ६ ॥
+
+> *vi śrayantāmṛtāvṛdhaḥ prayai devebhyo mahīḥ |*
+> *pāvakāsaḥ puruspṛho dvāro devīrasaścataḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> वि । श्रयन्ताम् । ऋतऽवृधः । प्रऽयै । देवेभ्यः । महीः ।
+> पावकासः । पुरुऽस्पृहः । द्वारः । देवीः । असश्चतः ॥ ६ ॥
+
+> *vi | śrayantām | ṛta 'vṛdhaḥ | pra 'yai | devebhyaḥ | mahīḥ |*
+> *pāvakāsaḥ | puru 'spṛhaḥ | dvāraḥ | devīḥ | asaścataḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Let the divine doors, presiding deities of the doors of the sacrificial house, open wide, separate, to let the gods enter; they increase the sacrifice, are great, purify, are much desired, and cling not to one another.* Small type)
+
+> द्वारो देवीर्यज्ञस्य द्वाराभिमानिन्यो देवताः वि श्रयन्ताम् । विविधं श्रयन्तु । विवृता भवन्तु । किमर्थं देवेभ्यः प्रयै प्रयातुं देवानां प्रपत्त्यै [?] । प्रयै [?] रोहिष्यै [?] (Pā. 6-4-[?]) इति निपातितः । कीदृश्यः । ऋतवृधो यज्ञस्य वर्धयित्र्यः पूज्या मही [?] महत्यः पावकासः शोधयित्र्यः पुरुस्पृहो बहुस्पृहणीयाः असश्चतो [?] असज्जमानाः परस्परमविप्रकृष्टाः [?] इत्यर्थः ॥
+
+> *dvāro devīryajñasya dvārābhimāninyo devatāḥ vi śrayantām | vividhaṃ śrayantu | vivṛtā bhavantu | kimarthaṃ devebhyaḥ prayai prayātuṃ devānāṃ prapattyai [?] | prayai [?] rohiṣyai [?] (Pā. 6-4-[?]) iti nipātitaḥ | kīdṛśyaḥ | ṛtavṛdho yajñasya vardhayitryaḥ pūjyā mahī [?] mahatyaḥ pāvakāsaḥ śodhayitryaḥ puruspṛho bahuspṛhaṇīyāḥ asaścato [?] asajjamānāḥ parasparamaviprakṛṣṭāḥ [?] ityarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *ṛtavṛdhaḥ* — those who make the sacrifice grow; *mahīḥ* — of great form; *pāvakāsaḥ* — having the power of purifying; *puruspṛhaḥ* — those desired by the people [?]; *asaścataḥ* — those who, without clinging, stand separate (to each other); *dvāro devīḥ* — the deities who preside over the doors (of the sacrificial house); *devebhyaḥ* — for the gods; *prayai* — for entering; *viśrayantām* — let them, separately, move apart and make the way.
+
+**Bhāvārtha.** May the deities who preside over the doors of the sacrificial house — those who cause the sacrifice to grow, of great form, who have the power to purify, desired by many, and who stand separate without clinging to each other — move aside separately and open the way for the entrance of the gods.
+
+**English Translation (as printed; heading printed "English Tranlation" [sic]).** Let the bright, separable doors, the augmenters of sacrifice, the purifiers of rites, the desired of many, be set open for the gods to enter.
+
+---
+
+### Printed p. 249  (PDF 267)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 10 [?].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***dvāro devīḥ*** — यज्ञगृहस्य द्वाराभिमानिन्यो देवताः (*yajñagṛhasya dvārābhimāninyo devatāḥ*) (Sāyaṇa: "the deities presiding over the doors of the sacrificial house"). There is a difference of opinion as to whether these doors are the doors of the sacrificial house itself or merely a figurative (poetic) usage. If the word here does not mean house-doors, then, in the matter of the deities of the Āprī-sūktas too, we must imagine points that differ from those stated.
+
+From the point of view of ritual procedure, only the *barhis* and the *svāhākṛti* lack a deity-form [?] and are merely earthly things, yet, because they belong to the sacrifice, qualities that are beyond the ordinary are spoken of. In *tisro devīḥ*, since Sarasvatī has a pure divine element, and the other two rivers are added together with her, they are called deities counted together [?]. Likewise in *daivyā hotārau* the earthly *hotṛ*, being connected with the Vedic Agni, is addressed as a deity. But in *devīr dvāraḥ* alone this has no room. If these doors were the doors of the sacrificial house, the question arises why they should have the special place that the *barhis* and *svāhākṛti* have. If only some of the implements that are limbs of the sacrifice are to be viewed as deities, then the most important of them all, the *vedī*, has no name here at all. *(Read at low confidence.)*
+
+One more point to be noticed: the word *dvāraḥ* ("doors") is in the plural. And:
+
+> सप्त होत्राणि मनसा वृणाना इन्वन्तो विश्वं प्रति यन्नृतेन ।
+> नृपेशसो विदथेषु प्र जाता अभीमं यज्ञं वि चरन्त पूर्वीः ॥
+
+> *sapta hotrāṇi manasā vṛṇānā invanto viśvaṃ prati yannṛtena |*
+> *nṛpeśaso vidatheṣu pra jātā abhīmaṃ yajñaṃ vi caranta pūrvīḥ ‖*
+
+(Ṛ. Saṃ. 3-4-[?].) in this Ṛk of the Āprī-sūkta the adjective *pūrvīḥ* ("former") is likewise in the plural. And in the duties of these deities we notice:
+
+1) *vi śrayantām ṛtāvṛdho dvāro devīr asaścataḥ* — "they take them separately for the work of the sacrifice" (this Ṛk, 1-142-6) and in the Ṛk (1-[?]-[?]);
+2) *[?]* — "they poured out waters" (1-188-5 [?]);
+3) *pra pra yajñaṃ pṛṇītana* [?] — "they fill the sacrifice with the fruit" (5-5-5 [?]);
+4) *invanto viśvaṃ prati yanty ṛtena* — "they carry all water-resources as the ritual path requires" (3-4-[?]).
+
+---
+
+**Progress note:** Sūkta 141 complete (printed pp. 157–220). **Sūkta 142** (Āprī-sūkta, 13 Ṛks): printed pp. 221–249 done (introductory essay; Ṛks 1–5 complete; Ṛk 6 *dvāro devīḥ*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the Special Topics begun on p. 249 (list of the doors' duties, ending at item 4; continues on p. 250)). Next: printed p. 250 (PDF 268). Images at 120 dpi in /tmp/v11a (PDF 33–275). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–142; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239 and 249 read at low confidence; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
