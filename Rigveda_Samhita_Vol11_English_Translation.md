@@ -1118,4 +1118,64 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–41 done: Ṛk 1 complete through Special Topics and the start of its grammar). Next: printed p. 42 (PDF 60) — rest of Ṛk 1 grammar, then Ṛk 2. Images at 120 dpi in /tmp/v11a (PDF 33–80). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; if a '## Sūkta' heading falls mid-page, put a '### Printed p. N (continued)' heading after it so kn_merge sees the blocks). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛk 1 largely unread); Varga numerals of Sūkta 139 header; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations (pp. 28–29, 32–34, 39–41); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 42  (PDF 60)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Grammar of Ṛk 1, concluded; noted briefly.)* *indravāyū* (*indraś ca vāyuś ca*; the *ānaṅ* that *devatādvandve ca* (Pā. Sū. 6-3-[?]) would give is barred by the vārttika *ubhayatra vāyoḥ pratiṣedho vaktavyaḥ*; the both-members accent that *devatādvandve ca* (Pā. Sū. 6-2-[?]) would give is barred by *notarapade 'nudāttādau* (Pā. Sū. 6-2-[?]); then *samāsasya* (Pā. Sū. 6-1-[?]) gives final-syllable accent), *krāṇā* (root *ḍukṛñ karaṇe*; *śānac* in the sense of a present; *bahulaṃ chandasi*: *luk* of the *u* of the *vikaraṇa*; as *sārvadhātukam apit* makes the suffix *ṅit*, *guṇa* does not arise; *yaṇ* substitution; *ciite* (Pā. Sū. 6-1-[?]) final-syllable accent; feminine *ṭāp*; nominative singular), *nābhā* (*supāṃ sulukpūrvasavarṇa…* (Pā. Sū. 7-1-[?]) gives *ā* for the locative ending), *saṃdāyi* (prefix *sam*; root *dāñ dāne*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *luṅ* in the sense of the present, passive; third person singular, *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-[?]) *ciṇ*; *āto yuk ciṇkṛtoḥ* (Pā. Sū. 7-3-[?]) *yuk*; *ciṇo luk* (Pā. Sū. 6-4-[?]) drops *ta*; by *bahulaṃ chandasy…* (Pā. Sū. 6-4-[?]) the augment *āṭ* does not come; as it is joined with *yajña*, no *nighāta* accent), *navyasī* (suffix *īyasun* in the comparative sense; Vedic loss of the *i*; final-syllable… first syllable accented by *nitya*; feminine *ṅīp* by *ugit*…), *adha* (= *atha*; Vedic change of letter), *yantu* (root *iṇ gatau*; *loṭ* third person plural; *tiṅanta nighāta*), *devān + acchā* (*dīrghād aṭi samānapāde* (Pā. Sū. 8-3-[?]) *ruttva* for the *n*; *āto 'ṭi nityam* (Pā. Sū. 8-3-[?]) nasalization of the preceding vowel; in *acchā*, *nipātasya ca* (Pā. Sū. 6-3-[?]) gives the long vowel). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यद्ध त्यन्मित्रावरुणावृतादध्याददाथे अनृतं स्वेन मन्युना ।
+> दक्षस्य स्वेन मन्युना ।
+> युवोरित्थाधि सद्मस्वपश्याम हिरण्ययम् ।
+> धीभिश्चन मनसा स्वेभिरक्षभिः सोमस्य स्वेभिरक्षभिः ॥ २ ॥
+
+> *yaddha tyanmitrāvaruṇāvṛtādadhyādadāthe anṛtaṃ svena manyunā |*
+> *dakṣasya svena manyunā |*
+> *yuvoritthādhi sadmasvapaśyāma hiraṇyayam |*
+> *dhībhiścana manasā svebhirakṣabhiḥ somasya svebhirakṣabhiḥ ‖ 2 ‖*
+
+### Printed p. 43  (PDF 61)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Gist, mine: Mitra and Varuṇa, you take from the sun the unenduring water by your own might; thus in our sacrificial halls we have seen your golden forms, with our rites, minds and senses.)*
+
+**॥ पदपाठः ॥**
+
+> यत् । ह । त्यत् । मित्रावरुणा [?] । ऋतात् । अधि । आऽददाथे इति आऽददाथे । अनृतम् ।
+> स्वेन । मन्युना । दक्षस्य । स्वेन । मन्युना ।
+> युवोः । इत्था । अधि । सद्मऽसु । अपश्याम । हिरण्ययम् ।
+> धीभिः । चन । मनसा । स्वेभिः । अक्षऽभिः । सोमस्य । स्वेभिः । अक्षऽभिः ॥ २ ॥
+
+> *yat | ha | tyat | mitrāvaruṇā [?] | ṛtāt | adhi | ā 'dadāthe iti ā 'dadāthe | anṛtam |*
+> *svena | manyunā | dakṣasya | svena | manyunā |*
+> *yuvoḥ | itthā | adhi | sadma 'su | apaśyāma | hiraṇyayam |*
+> *dhībhiḥ | cana | manasā | svebhiḥ | akṣa 'bhiḥ | somasya | svebhiḥ | akṣa 'bhiḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Mitra and Varuṇa, from the sun you take the unenduring water by your own might; in the sacrificial houses we see your golden form, with rites, mind and senses.* Small type; only partly read, doubtful words marked)
+
+> हे मित्रावरुणौ ऋतादादित्यात् तत्त्यदुदकं [?] यद्यत् [?] … अनृतं सर्वप्रशोषणस्वभावं [?] … अध्याददाथे । आदत्तम् । केन साधनेन । स्वेन मन्युना स्वकीयेन तेजसा । दक्षस्य … बलस्य स्वेन मन्युना [?] । किञ्च हे मित्रावरुणौ युवोः युवयोः सम्बन्धि हिरण्ययं हिरण्मयं रूपम् । … सद्मसु यज्ञसदनेषु [?] अपश्याम । केन साधनेनेति तदुच्यते । धीभिः चन स्तुतिभिरपि कर्मभिर्यज्ञादिरूपैः मनसा चन त्वदासक्तेन चेतसा च स्वेभिरक्षभिः स्वकीयैरिन्द्रियैः । किञ्च सोमस्य सोमं स्वेभिरक्षभिः … ॥ [… the remainder of the line unreadable at this resolution …]
+
+> *he mitrāvaruṇau ṛtādādityāt tattyadudakaṃ [?] yadyat [?] … anṛtaṃ sarvapraśoṣaṇasvabhāvaṃ [?] … adhyādadāthe | ādattam | kena sādhanena | svena manyunā svakīyena tejasā | dakṣasya … balasya svena manyunā [?] | kiñca he mitrāvaruṇau yuvoḥ yuvayoḥ sambandhi hiraṇyayaṃ hiraṇmayaṃ rūpam | … sadmasu yajñasadaneṣu [?] apaśyāma | kena sādhaneneti taducyate | dhībhiḥ cana stutibhirapi karmabhiryajñādirūpaiḥ manasā cana tvadāsaktena cetasā ca svebhirakṣabhiḥ svakīyairindriyaiḥ | kiñca somasya somaṃ svebhirakṣabhiḥ … ‖ [… the remainder of the line unreadable at this resolution …]*
+
+### Printed p. 44  (PDF 62)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+**Pratipadārtha (Kannada).** *mitrāvaruṇau* — O Mitra and Varuṇa; *svena manyunā* — by your own greatness; *dakṣasya* — of the capable; *svena* — your own; *manyunā* — by the mighty power of the mind; *ṛtāt* — from the sun; *anṛtam* — the water that dries away and is unenduring; *tat* — that well-known; *yat ha* — for which reason; *adhi* — abundantly; *ādadāthe* — you bring (from it); *yuvoḥ* — your two; *hiraṇyayam* — golden-formed; *itthā* — in this manner; *sadmasu* — in the sacrificial halls; *dhībhiḥ* — by rites directed to you; *manasā cana* — by a mind attached (to you); *svebhir akṣabhiḥ* — by our own eyes and other senses, with no attention elsewhere; *apaśyāma* — we behold, with a fixed gaze; *svebhiḥ akṣabhiḥ* — by our own eyes and other senses; *somasya* — also the Soma (that is to be offered to you) (we behold).
+
+**Bhāvārtha.** O Mitra and Varuṇa, by your own capable might you bring down abundantly the water that is in the world of the sun and, when it is poured on the earth, dries away and is unenduring; therefore we behold you, through our sacrifices and the like, with a mind attached to you alone and with our eyes and other senses fixed on nothing else. And we attend to the Soma that is to be offered to you.
+
+**English Translation (as printed).** Mitra and Varuna, bestow (upon us) abundantly that unenduring water which you obtain from the sun, through your own energy; through the inherent energy of the vigorous: may we thus behold your golden (forms) in our balls [sic] of sacrifice, (brought thither) by our sacred rites, and by our thoughts and senses (intent upon you); by our senses (intent upon offering) the Soma libation.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***ṛtād adhy anṛtam ādadāthe.*** *Ṛtāt* — from the sun (*ādityāt*); *anṛtam* — *śoṣaṇasvabhāvam*, "of the nature of drying up" (water). Sāyaṇa takes the word *ṛta* as the sun and *anṛta* as water; he explains that the epithet *anṛta* shows the impermanent state of water. The Kannada notes that the word *ṛta* reflects a principle that signifies the physical and moral order of the universe, as was said briefly earlier (in the Pīṭhike of Part [?] [?]). These two orders of Mitra and Varuṇa (continued on p. 45).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–44 done: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya (partly), Pratipadārtha, Bhāvārtha, printed English, Special Topics begun). Next: printed p. 45 (PDF 63) — Special Topics of Ṛk 2 continued (*ṛta*, *mitrāvaruṇa*…), grammar, then Ṛk 3. Images at 120 dpi in /tmp/v11a (PDF 33–80). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; a '## Sūkta' heading mid-page needs a '### Printed p. N (continued)' heading after it). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–2 largely unread); Varga numerals of Sūkta 139; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations; grammar sūtra numbers; the Kannada "balls of sacrifice" is the source's misprint for "halls"; Sūkta 137 and Pīṭhike flags as before.
