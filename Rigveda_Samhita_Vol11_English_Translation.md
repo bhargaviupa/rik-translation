@@ -994,4 +994,128 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 ---
 
-**Progress note:** **Sūkta 138 complete (printed pp. 14–36); Sūkta 139 in progress** (Anukramaṇī, header table and Ṛk 1 Saṃhitā, Pada, bhāṣya (partly), Pratipadārtha begun, to printed p. 38). Next: printed p. 39 (PDF 57) — Pratipadārtha of Ṛk 1 concluded, Bhāvārtha, printed English, Special Topics; then Ṛk 2. Images at 120 dpi in /tmp/v11a (PDF 33–60; recrop with crop_pages.py if lost, e.g. 61 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small words of Ṛks 1–4 of Sūkta 138 and Ṛk 1 of Sūkta 139 (p. 38 largely unread); Varga numerals of Sūkta 139 header (p. 37); Anukramaṇī small type (p. 36); all Ni./Ṛg/Bṛ. De. numerals and quotations; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 39  (PDF 57)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Pratipadārtha of Ṛk 1, concluded.)* *… (of that Agni)*; *astu śrauṣaṭ* — may our praise be heard by all the gods; *adha* — thereafter; *naḥ dhītayaḥ* — our praise-acts; *pra su upa yantu* — may they go well and in order to the gods; (*naḥ*) *dhītayaḥ* — our sacrificial rites also; *devān* — Agni and the other gods; *acchā na* — going towards them, may they reach them.
+
+**Bhāvārtha.** I have established Agni, of the Āhavanīya form, on the northern altar in front. Let us resort to that divine might of Agni; likewise let us resort to Indra and Vāyu. Because we, full of devotion, have offered our fresh praise at this sacrifice, which is the navel of the earth, may this our praise reach the ears of the gods. May our praise-acts and the other rites of sacrifice go and reach the gods with the utmost faith.
+
+**English Translation (as printed).** May our prayers be heard. I place before (me) Agni with reverence; we have recourse to his celestial might; we have recourse to Indra and to Vayu: which doing, a new (hymn) has been addressed (by us) to the radiant navel (of the earth); and thereupon may our pious rites attain the gods; may our pious rites attain the presence of the gods.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***tac chardhaḥ.*** *Tādṛśaṃ balavantaṃ vā agniṃ; yadvā tac chardhaḥ tādṛśaṃ marutāṃ svarūpaṃ balam* — Sāyaṇa shows two senses to be possible: the powerful Agni, or the natural, collective power of the Maruts. The word *śardha* is read among the names of strength (Ni. 2-[?]); ordinarily it is used of the Maruts, meaning the power of their company. From such statements as
+
+> सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः [?] ।
+
+> *sapta sapta hi māruto gaṇastasmānmārutaḥ saptakapālaḥ [?] |*
+
+(Śa. Brā. 3-[?]-[?]-[?] [?])
+
+> सप्त सप्त हि मारुतो गणः सर्वमेव्येतेन रथं प्रीणाति [?] ।
+
+> *sapta sapta hi māruto gaṇaḥ sarvamevyetena rathaṃ prīṇāti [?] |*
+
+(Śa. Brā. 5-[?]-[?]-[?] [?]) it is known that the Maruts always keep in a band; in such a band a kind of victorious power is natural. The word *śardhaḥ* is also used in the masculine; in Ṛ. Saṃ. 1-[?]-[?]; 1-[?]-[?]; 6-[?]-[?] and others it is *a*-ending (continued on p. 40).
+
+### Printed p. 40  (PDF 58)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+…and in Ṛ. Saṃ. 1-[?]-[?] and others it is *s*-ending [?]. Though the word is ordinarily used of the Maruts, it sometimes denotes the company of other gods as well:
+
+> शृणोतु नो दैव्यं शर्धो अग्निः शृण्वन्तु विश्वे महिषा अमूराः [?] ।
+
+> *śṛṇotu no daivyaṃ śardho agniḥ śṛṇvantu viśve mahiṣā amūrāḥ [?] |*
+
+(Ṛ. Saṃ. 2-[?]-[?] [?].)
+
+> स आ वह देवताति यविष्ठ शर्धो यदद्य दिव्यं यजासि [?] ।
+
+> *sa ā vaha devatāti yaviṣṭha śardho yadadya divyaṃ yajāsi [?] |*
+
+(Ṛ. Saṃ. 3-[?]-[?] [?].) Everywhere *daivyaṃ śardhaḥ*, *divyaṃ śardhaḥ* means the collective power consisting of gods. In the same way the word is used when speaking of an ordinary, worldly company. For example
+
+> तं वः शर्धं रथानां त्वेषं गणं मारुतं नव्यसीनाम् [?] ।
+
+> *taṃ vaḥ śardhaṃ rathānāṃ tveṣaṃ gaṇaṃ mārutaṃ navyasīnām [?] |*
+
+(Ṛ. Saṃ. 5-[?]-[?] [?]) where it means the collective power of chariots; and
+
+> अवासां मघवञ्जहि शर्धो यातुमतीनाम् [?] ।
+
+> *avāsāṃ maghavañjahi śardho yātumatīnām [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?]) where it also means the power of weapons, or of harmful beings. In the Ṛk at hand it means Agni's power or the Maruts' power.
+
+***nābhā.*** *Bhūmyā nābhisthāne devayajane vedirūpe* — the place of sacrifice that is the navel-place of the earth and has the form of an altar; or *nābhau sarvaphalasya saṃbandhake yajñe* — the sacrifice that gives every fruit: Sāyaṇa explains both. With
+
+> विश्वायुरसि पृथिवीं दृंह ध्रुवक्षिदसि [?] ।
+
+> *viśvāyurasi pṛthivīṃ dṛṃha dhruvakṣidasi [?] |*
+
+(Tai. Saṃ. 1-[?]-[?] [?]) the northern altar is praised, so the first sense fits; and if "sacrifice" is meant, that sense too is supported by
+
+> इयं वेदिः परो अन्तः पृथिव्या अयं यज्ञो भुवनस्य नाभिः [?] ।
+
+> *iyaṃ vediḥ paro antaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ [?] |*
+
+(Ṛ. Saṃ. 1-164-[?] [?])
+
+> यज्ञमाहुर्भुवनस्य नाभिम् [?] ।
+
+> *yajñamāhurbhuvanasya nābhim [?] |*
+
+(Tai. Saṃ. [?]-[?]-[?] [?]) and similar texts of the Saṃhitā. Either sense may be given.
+
+***vivasvati.*** *Dīptimati* — "radiant"; an epithet of *nābhā*. The word *vivasvat* is used in the Ṛksaṃhitā in different senses: besides "possessing radiance" and "man", it is also a proper name of a person (continued on p. 41).
+
+### Printed p. 41  (PDF 59)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> अमूरो कविरदितिर्विवस्वान्त्सुसंसन्मित्रो अतिथिः शिवो नः [?] ।
+
+> *amūro kaviraditirvivasvāntsusaṃsanmitro atithiḥ śivo naḥ [?] |*
+
+(Ṛ. Saṃ. 2-[?]-[?] [?].)
+
+> विवस्वता चक्षसा द्यामुपश्च देवा अग्निं धारयन्द्रविणोदाम् [?] ।
+
+> *vivasvatā cakṣasā dyāmupaśca devā agniṃ dhārayandraviṇodām [?] |*
+
+(Ṛ. Saṃ. 1-[?]-[?] [?].) In such Ṛks the sense "radiant" is meant;
+
+> आ मो अग्निं मभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः [?] ।
+
+> *ā mo agniṃ mabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ [?] |*
+
+(Ṛ. Saṃ. 6-[?]-[?] [?]) here the sense is "the Sun";
+
+> स रेवद् [?] विवस्वति विश्वस्यैक ईशिषे [?] ।
+
+> *sa revad [?] vivasvati viśvasyaika īśiṣe [?] |*
+
+(Ṛ. Saṃ. 3-[?]-[?] [?])
+
+> नस्त्रीभिर्यो विवस्वतः शुभ्रो न मामृजे युवा । गाः कृष्णोन [?] निर्णिजम् [?] ।
+
+> *nastrībhiryo vivasvataḥ śubhro na māmṛje yuvā | gāḥ kṛṣṇona [?] nirṇijam [?] |*
+
+(Ṛ. Saṃ. 9-[?]-[?] [?]) and such Ṛks mean a man who performs the sacrifice. And
+
+> यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ।
+> अपागूहन्नमृतं मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते [?] ।
+
+> *yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa |*
+> *apāgūhannamṛtaṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate [?] |*
+
+(Ṛ. Saṃ. 10-[?]-[?], [?]) in these Ṛks *vivasvān* is a proper name. The marriage of Vivasvān and Saraṇyū and the matter of their offspring will be told later, when Vivasvān comes up for discussion. Of these several senses, in the Ṛk at hand *vivasvati* means "radiant".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *astu* (root *as bhuvi*; *loṭ* third person singular; being at the beginning of a *pāda*, no *nighāta* accent; the suffix being *sit*, the root-accent remains), *dhiyā* (instrumental singular; the case-ending is *udātta* by *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?])), *dadhe* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* first person singular; *tiṅanta* *nighāta* accent), *vṛṇīmahe* (root *vṛñ saṃbhaktau*; *laṭ* first person plural, *mahiṅ*; *śnā* by *kryādibhyaḥ śnā* (Pā. Sū. 3-1-[?]); *ī* by *īhalyoḥ* (Pā. Sū. 6-4-[?]); *tiṅanta nighāta*) …; sūtra numbers not read.
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–41 done: Ṛk 1 complete through Special Topics and the start of its grammar). Next: printed p. 42 (PDF 60) — rest of Ṛk 1 grammar, then Ṛk 2. Images at 120 dpi in /tmp/v11a (PDF 33–80). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit; if a '## Sūkta' heading falls mid-page, put a '### Printed p. N (continued)' heading after it so kn_merge sees the blocks). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛk 1 largely unread); Varga numerals of Sūkta 139 header; all Ni./Ṛg/Śa. Brā./Tai. Saṃ./Bṛ. De. numerals and many quotations (pp. 28–29, 32–34, 39–41); grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
