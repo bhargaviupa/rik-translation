@@ -2344,4 +2344,90 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 ---
 
-**Progress note:** **Sūkta 139 in progress** (printed pp. 36–87 done: Ṛks 1–8 complete; Ṛk 9 through the Special Topics (*aṅgirāḥ*, *priyamedhaḥ*, *kaṇvaḥ*, *atriḥ*) and the start of its grammar). Next: printed p. 88 (PDF 106) — Special Topics (*manuḥ*) and grammar of Ṛk 9 concluded; then Ṛks 10–11 to finish the sūkta. Images at 120 dpi in /tmp/v11a (PDF 33–110; recrop 111 onward). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–9 largely unread); Varga numerals of Sūkta 139; the Taittirīya Saṃhitā, Śatapatha Brāhmaṇa, Bṛhaddevatā verse quotations on pp. 84–87 carry many doubtful words; all Ni./Ṛg/Tai./Śa. Brā./Bṛ. De./Bṛ. Up. numerals; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 88  (PDF 106)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Grammar of Ṛk 9, concluded; noted briefly.)* *viduḥ* (root *vida jñāne*; *laṭ* third person plural; *vido laṭo vā* (Pā. Sū. 3-4-[?]) gives *jhi* → *us*; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; the *s* of the suffix to *ru*, *visarga*; as a *tiṅanta* follows a non-*tiṅanta*, *nighāta*), *manuḥ* (a *jas* follows; *supāṃ sulak…* (Pā. Sū. 7-1-[?]) gives *luk* to it), *mahi* (root *maha pūjāyām*; the Auṇādika suffix *iṇ*; by being *nit*, first-syllable accent by *ñnityādir nityam* (Pā. Sū. 6-1-[?])), *name* (root *ṇama prahvatve śabde ca*; *vyatyayo bahulam* (Pā. Sū. 3-1-[?]) makes it *ātmanepada*; *laṭ* first person singular *iṭ*; *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-[?]) *e* for *ṭi*; with *śap*, *pararūpa*; *ṇo naḥ* gives *na* for the root's initial; as a *tiṅanta* follows, *nighāta*), *girā* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?]) *udātta* on the case-ending), *indrāgnī* (*indraś ca agniś ca*; though *ānaṅ* is prescribed where the pair is well known, it does not occur here; *samāsasya* (Pā. Sū. 6-1-[?]) final accent; since *agni* begins with an *anudātta*, *notarapade 'nudāttādau* (Pā. Sū. 6-2-[?]) bars it and *devatādvandve ca* (Pā. Sū. 6-2-[?]) does not give the both-members accent; dual). ‖ 9 ‖
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> होता यक्षद्वनिनो वन्त वार्यं बृहस्पतिर्यजति वेन उक्षभिः पुरुवारेभिरुक्षभिः ।
+> जगृभ्म दूरआदिशं श्लोकमद्रेरध त्मना ।
+> अधारयदररिन्दानि सुक्रतुः पुरू सद्मानि सुक्रतुः ॥ १० ॥
+
+> *hotā yakṣadvanino vanta vāryaṃ bṛhaspatiryajati vena ukṣabhiḥ puruvārebhirukṣabhiḥ |*
+> *jagṛbhma dūraādiśaṃ ślokamadreradha tmanā |*
+> *adhārayadararindāni sukratuḥ purū sadmāni sukratuḥ ‖ 10 ‖*
+
+### Printed p. 89  (PDF 107)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+*(Gist, mine: let the invoker sacrifice and the gods take the desired Soma; Bṛhaspati worships with copious libations; from afar we hear the stone's sound, and the doer of good works has gained waters and homes.)*
+
+**॥ पदपाठः ॥**
+
+> होता । यक्षत् । वनिनः । वन्त । वार्यम् । बृहस्पतिः । यजति । वेनः । उक्षऽभिः । पुरुऽवारेभिः । उक्षऽभिः ।
+> जगृभ्म । दूरेऽआदिशम् । श्लोकम् । अद्रेः । अध । त्मना ।
+> अधारयत् । अररिन्दानि । सुऽक्रतुः । पुरु । सद्मानि । सुऽक्रतुः ॥ १० ॥
+
+> *hotā | yakṣat | vaninaḥ | vanta | vāryam | bṛhaspatiḥ | yajati | venaḥ | ukṣa 'bhiḥ | puru 'vārebhiḥ | ukṣa 'bhiḥ |*
+> *jagṛbhma | dūre 'ādiśam | ślokam | adreḥ | adha | tmanā |*
+> *adhārayat | ararindāni | su 'kratuḥ | puru | sadmāni | su 'kratuḥ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the invoker sacrifices; those who desire the offering take the choice Soma; Bṛhaspati worships with libations; we hear the stone's sound from afar; the doer of good works has secured waters and homes.* Very small type; only partly read, doubtful words marked)
+
+> अयं होता दैव्योऽग्निर्मानुषो वा देवानामाह्वाता यक्षत् । यजेर्लेटि अडागमः ॥ सिब्बहुलमिति सिप् ॥ वनिनः वननवन्तः हविःकामयमानाः वा देवा वार्यं वरणीयं सोमं वन्त । वनतेः सम्भजनार्थस्य लोडर्थे लङि वा [?] छन्दसि शपो लुक् । छान्दसोऽन्त्यलोपः [?] ॥ तदर्थं बृहस्पतिर्बृहतो मन्त्रस्य हविषो वा पालकोऽध्वर्युर्दैव्यो बृहस्पतिर्वा [?] । स्वयमेव यजति । योगं करोति [?] । कीदृशः सः । वेनः कामयमानः । केन साधनेनेति तदुच्यते । उक्षभिः सेचकैः सोमैः । पुरुवारेभिर्बहुभिर्वरणीयैः [?] तैः । तथोक्षभिः [?] सेचनसमर्थैः [?] … उदकैः [?] … वयं यजमाना दूरादिशं दूरदेशे आदिश्यते यस्य तादृशं [?] … श्लोकं वाचं ध्वनिं जग्गृभ्म । गृह्णीमः श्रोत्राभ्याम् । पूजार्थं बहुवचनं [?] … अद्रेः ग्राव्णः [?] … अध अथ । इदानीं परोक्षकृतः [?] सुक्रतुः शोभनकर्मायं यजमानोऽथाध [?] योगसंपूर्त्यै [?] … अररिन्दानि । उदकनामैतत् … [… the remainder is in very small type and not read …]
+
+> *ayaṃ hotā daivyo 'gnirmānuṣo vā devānāmāhvātā yakṣat | yajerleṭi aḍāgamaḥ ‖ sibbahulamiti sip ‖ vaninaḥ vananavantaḥ haviḥkāmayamānāḥ vā devā vāryaṃ varaṇīyaṃ somaṃ vanta | vanateḥ sambhajanārthasya loḍarthe laṅi vā [?] chandasi śapo luk | chāndaso 'ntyalopaḥ [?] ‖ tadarthaṃ bṛhaspatirbṛhato mantrasya haviṣo vā pālako 'dhvaryurdaivyo bṛhaspatirvā [?] | svayameva yajati | yogaṃ karoti [?] | kīdṛśaḥ saḥ | venaḥ kāmayamānaḥ | kena sādhaneneti taducyate | ukṣabhiḥ secakaiḥ somaiḥ | puruvārebhirbahubhirvaraṇīyaiḥ [?] taiḥ | tathokṣabhiḥ [?] secanasamarthaiḥ [?] … udakaiḥ [?] … vayaṃ yajamānā dūrādiśaṃ dūradeśe ādiśyate yasya tādṛśaṃ [?] … ślokaṃ vācaṃ dhvaniṃ jaggṛbhma | gṛhṇīmaḥ śrotrābhyām | pūjārthaṃ bahuvacanaṃ [?] … adreḥ grāvṇaḥ [?] … adha atha | idānīṃ parokṣakṛtaḥ [?] sukratuḥ śobhanakarmāyaṃ yajamāno 'thādha [?] yogasaṃpūrtyai [?] … ararindāni | udakanāmaitat … [… the remainder is in very small type and not read …]*
+
+### Printed p. 90  (PDF 108)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Bhāṣya of Ṛk 10, concluded; small type, partly read.)*
+
+> यद्वा । बृहस्पतिः सुक्रतुः शोभनप्रज्ञः [?] … अररिन्दान्युदकानि [?] लक्षणान्यभिषवसाधनानि … काष्ठादि [?] धारयत् । धारितवान् । तथा सुक्रतुः शोभनप्रज्ञः पुरु सद्मानि [?] … आसादनान्यधारयत् [?] ॥
+
+> *yadvā | bṛhaspatiḥ sukratuḥ śobhanaprajñaḥ [?] … ararindānyudakāni [?] lakṣaṇānyabhiṣavasādhanāni … kāṣṭhādi [?] dhārayat | dhāritavān | tathā sukratuḥ śobhanaprajñaḥ puru sadmāni [?] … āsādanānyadhārayat [?] ‖*
+
+**Pratipadārtha (Kannada).** *hotā* — Agni, the sacrificer of the gods, or the human *hotṛ* priest; *yakṣat* — let him recite the sacrificial mantra; *vaninaḥ* — those who desire the oblation; *vāryam* — the desired (oblation); *vanta* — let them take; *bṛhaspatiḥ* — Bṛhaspati, the priest of the gods, or the *adhvaryu*; *venaḥ* — desiring (the sacrificial oblation); *ukṣabhiḥ* — with the Soma juices that sprinkle (and likewise); *puruvārebhiḥ* — chosen by many; *ukṣabhiḥ* — with the waters able to sprinkle; *yajati* — performs the sacrifice; (*vayam* — we sacrificers) *dūra ādiśam* — heard from afar; *adreḥ* — of the stones that press the Soma; *ślokam* — the sound; *jagṛbhma* — we hear; *sukratuḥ* — the sacrificer, doer of excellent rites; *adha* — after the sacrifice is complete; *arariṃdāni* — waters in the form of rain; *tmanā* — in himself; *adhārayat* — has obtained; *sukratuḥ* — the same sacrificer; *sadmāni* — comfortable houses; *puru* — in abundance (has obtained).
+
+**Bhāvārtha.** Let the *hotṛ* recite the sacrificial mantra; let those who desire the offering partake of the desired nectar [Soma]. The *adhvaryu*, desiring the sacrificial oblation, performs the sacrifice with Soma juices that sprinkle and are wished by many, and with pure waters. We sacrificers hear from very far the sound of the stones that press the Soma, falling on our ears. The sacrificer who does excellent rites, after the sacrifice is complete, will have obtained waters in the form of rain and comfortable houses.
+
+**English Translation (as printed).** Let the invoker (of the gods) offer sacrifice, and may they, desirous of the offering, (partake of) the acceptable (libation): Brihaspati himself, desiring (libation), celebrates worship with libations; with copious and excellent libations. We catch from a distant quarter the sound of the stones, whereby the performer of pious acts has of himself secured the waters (of the clouds): the performer of pious acts (has secured) many habitations.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+***hotā.*** *Daivyo 'gnir mānuṣo vā devānām āhvātā* — "the divine Agni or the human *hotṛ*, who calls the gods" — whether the human *hotṛ*, who invites the gods, or Agni; *yakṣat*: let him recite the sacrificial mantra, or recite the praise (*āhva* [?]) (continued on p. 91).
+
+### Printed p. 91  (PDF 109)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+
+> यक्षदग्निर्देवो देवानिति [?] ।
+
+> *yakṣadagnirdevo devāniti [?] |*
+
+(Ai. Brā. 10-[?] [?].) Since it is thus well known, *yakṣat* is understood as "let Agni worship, or perform the sacrifice".
+
+***bṛhaspatiḥ.*** *Bṛhato mantrasya haviṣo vā pālakaḥ adhvaryuḥ daivyo bṛhaspatir vā* — the *adhvaryu* who guards the great mantra or the oblation, or the divine Bṛhaspati.
+
+> मारुतैका तत इन्द्राग्न्यनन्तरा बार्हस्पत्या चोत्तमा स्तौति देवान् [?] ।
+
+> *mārutaikā tata indrāgnyanantarā bārhaspatyā cottamā stauti devān [?] |*
+
+(Bṛ. De. [?]-[?]) The Bṛhaddevatā author says this Ṛk is a Bārhaspatya Ṛk (addressed to Bṛhaspati). Since Bṛhaspati is the deity of this Ṛk, the word *bṛhaspati* may be taken here to mean the deity; Sāyaṇa also takes it as *adhvaryu*. As Bṛhaspati too is the priest of the gods, the sense may apply to him as well.
+
+***ukṣabhiḥ yajati.*** "He performs the sacrifice with the sprinkling Soma juice (with libation of the juice)." The word *ukṣabhiḥ* is repeated; the first means "with Soma juice", the second "with water".
+
+***adreḥ ślokaṃ jagṛbhma.*** "We hear the sound of the stone that presses the Soma." As said in बृहस्पतिस्त्वा श्लोकेन [?] (*bṛhaspatistvā ślokena [?]*) (Tai. Saṃ. 1-[?]-[?]), since Bṛhaspati presses with stones, that sound is called *śloka*. *Śloka* here is to be understood as the sound born of the stones. Earlier the difference between the two instruments, *adri* and *grāvan*, was shown. For the most part the word *ślokam* is used with the sense "sound" in company with the word *adri*, and shows the distinctive character of the word *adri*.
+
+***arariṇdāni.*** The word *arariṇda* is read among the names of water (Nighaṇṭu 1-[?]-[?]); its derivation can be given in two or three ways. *Nāsya nyo rarir pipāsopaśamanasya tādṛśaṃ pipāsopaśamanaṃ dadātīty arariṇdāni* [?] — "there is nothing else like this for quenching thirst; because it gives such relief it is *arariṇda*"; or *arariḥ ity etasya gamanam* … *tadvad etīty arariṇdāni; udakāni ceṣṭāpradānīty arthaḥ* [?] — because water gives the power of moving from place to place, water is called *arariṇda*. Sāyaṇa, relying on the Upaniṣad sentence अपोमयः प्राणः [?] (*apomayaḥ prāṇaḥ [?]*) (Chā. Up. 6-[?]-[?]) "life is made of water", says the second sense is right, since water is itself life. He also gives another explanation … *anyebhyaḥ* … (continues on p. 92).
+
+---
+
+**Progress note:** **Sūkta 139 in progress** (printed pp. 36–91 done: Ṛks 1–9 complete; Ṛk 10 through printed English; Special Topics (*hotā*, *bṛhaspatiḥ*, *ukṣabhiḥ*, *adreḥ ślokam*, *arariṇdāni*) begun). Next: printed p. 92 (PDF 110) — the rest of the Ṛk 10 Special Topics and grammar; then Ṛk 11 to finish the sūkta (PDF 111 onward need recropping: `python3 publish/tools/pageprep/crop_pages.py Rig_Vol11.pdf 111 140 /tmp/v11a --dpi 120`). Images at 120 dpi in /tmp/v11a (PDF 33–110). Helpers /tmp/v11/app11.py, setkn.py, publish/tools/translit/kn_merge.py (iast.py needs PYTHONPATH=publish/tools/translit). Open flags: p. 15 header Varga numeral; bhāṣya small type (Sūkta 138 Ṛks 1–4; Sūkta 139 Ṛks 1–10 largely unread); Varga numerals of Sūkta 139; Nirukta/Nighaṇṭu/Upaniṣad numerals; the Bṛ. De. quotation and the *arariṇda* etymology on pp. 91 doubtful; grammar sūtra numbers; Sūkta 137 and Pīṭhike flags as before.
