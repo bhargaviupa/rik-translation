@@ -11129,4 +11129,174 @@ Being fierce, as the wind, "you are Ugra"; and again Agni asked for another name
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 147 complete (printed pp. 404–423). Sūkta 148 (5 Ṛks, Triṣṭubh) begun: printed pp. 423–427 done (Anukramaṇī, heading, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English; Special Topics of Ṛk 1 begun, running on beyond p. 427 with Śatapatha-Brāhmaṇa quotations). Next: printed p. 428 (PDF 446). Images in /tmp/v11a (PDF 33–445; recrop 446+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Taittirīya/Bṛhaddevatā/Śatapatha quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–148; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 428  (PDF 446)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+*(Ṛk 1, Special Topics continued; the Śatapatha-Brāhmaṇa narrative of the names given by Prajāpati to Agni.)* *(Prajāpati, calling him Aśani, because he was lightning:)* "…since you are Aśani, your name is Aśani" — Agni, again, [said he was] greater than that.
+
+> तमब्रवीत्पर्जन्योऽसीति । तद्वाऽअस्य तन्नामाकरोत्पर्जन्यो भवत्पर्जन्यो वै [?] ... सोऽब्रवीत् ... ॥
+
+> *tamabravītparjanyo 'sīti | tadvā 'asya tannāmākarotparjanyo bhavatparjanyo vai [?] ... so 'bravīt ... ‖*
+
+To "you are Parjanya" [Agni, becoming Parjanya, the cloud, again said he was greater and asked for another name]:
+
+> तमब्रवीन्महादेवोऽसीति । तद्वाऽअस्य तन्नामाकरोन्महादेवः प्रजापतिर्वै महान्देवः सोऽब्रवीत् ... ॥
+
+> *tamabravīnmahādevo 'sīti | tadvā 'asya tannāmākaronmahādevaḥ prajāpatirvai mahāndevaḥ so 'bravīt ... ‖*
+
+Prajāpati, being "the great god" (*mahādeva*): "you are Mahādeva"; Agni said: "I am still more; give me another name"; Prajāpati then said:
+
+> तमब्रवीदीशानोऽसीति । तद्वाऽअस्य तन्नामाकरोदादित्यो वा ईशान आदित्यो ह्यस्य सर्वस्येष्टे [?] ... तान्येतान्यष्टावग्निरूपाणि ॥
+
+> *tamabravīdīśāno 'sīti | tadvā 'asya tannāmākarodādityo vā īśāna ādityo hyasya sarvasyeṣṭe [?] ... tānyetānyaṣṭāvagnirūpāṇi ‖*
+
+(Śa. Brā. 6-1-3-[?]–[?].) "You are Īśāna — the Āditya, lord of all the worlds" [says Agni]. The eight names — Rudra, Sarva, Paśupati, Ugra, Mahādeva, Aśani, Bhava and Īśāna — are the eight qualities-names of Agni; *tāny etāny aṣṭāv agnirūpāṇi*: "these are the eight forms of Agni", is the explanation in the Śatapatha Brāhmaṇa. Hence the adjective *viśvāpsum* means "having the many forms described above".
+
+***viśvadevyam*** — *sarvadevayogyakriyāsādhakam*: "the accomplisher of acts fit for all the gods"; the representative of the worship of all the gods.
+
+> त्वामग्न आदित्यास आस्यं त्वां जिह्वां शुचयश्चक्रिरे कवे । त्वां रातिषाचो अध्वरेषु सश्चिरे त्वे देवा हविरदन्त्याहुतम् ॥
+
+> *tvāmagna ādityāsa āsyaṃ tvāṃ jihvāṃ śucayaścakrire kave | tvāṃ rātiṣāco adhvareṣu saścire tve devā haviradantyāhutam ‖*
+
+(Ṛ. Saṃ. 2-1-13.) As described in such Ṛks, Agni, being the representative of all the gods, receives the oblations for all; hence this adjective.
+
+***svaḥ*** — *svar ādityo bhavati*; *su araṇaḥ, su īraṇaḥ, svato rasān, svato bhāsaṃ jyotiṣām, svato bhāsate vā* (Ni. 2-[?]). Being extremely …
+
+---
+
+### Printed p. 429  (PDF 447)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 31 [?].)*
+
+… far-off, because it gives light on all sides; because it enters and is within the rays; because it contains [?] the light — it is the Āditya, thus the Nirukta author explains *svar* (Ni. 2-[?]): *svaḥ* as "Āditya"; "*svasyaraṇī*" [?] — "*svar* is the Āditya, who makes the lights move" — in the Ṛk-saṃhitā this word is used only in the sense of the Āditya in many places:
+
+> वन्वासो ये स्रजः स्वतवः [?] इषं स्वरभिजायन्ते धूतयः । सहस्रियासो अपां नोर्मय आसा गावो वन्द्यासो नोक्षणः ॥ [?]
+
+> *vanvāso ye srajaḥ svatavaḥ [?] iṣaṃ svarabhijāyante dhūtayaḥ | sahasriyāso apāṃ normaya āsā gāvo vandyāso nokṣaṇaḥ ‖ [?]*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk *svar* is taken as "heaven", and in other places as "light". In the Ṛk at hand the sense "Āditya" is correct.
+
+***mātariśvā mathīt*** — "Mātariśvan, the wind moving in the atmosphere, entered the fuel and kindled Agni": *mātariśvā guhā santaṃ havyavāhaṃ samīdhire* (Ṛ. Saṃ. 3-9-5) [as printed] — in such statements, the story of the churning of Agni by Mātariśvan was told before.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *mathīt* (root *mathe vilodane*; *luṅ* 3rd sg. *tip*; loss of *i*; *sic* with the *iṭ* augment; loss of *sic* by *iṭa īṭi*; *hmyantakṣaṇaśvasajāgṛ…* (Pā. Sū. 7-2-5) prohibition of *vṛddhi*; *bahulaṃ chandasy māṅyoge 'pi* no *aṭ* augment; no *nighāta* because *pāda*-initial; the augment is *anudātta*, hence the root accent remains); *viṣṭaḥ* (root *viśa praveśane*; *niṣṭhā* *kta*; *vraścabhrasjasṛj…* (Pā. Sū. 8-2-36) *ṣatva* of the *ś*; on account of it *ṭatva* of the suffix; suffix accent: final *udātta*); *hotāram* (root *hveñ spardhāyāṃ śabde ca*; agent *tṛn*; *bahulaṃ chandasi*: *saṃprasāraṇa*; *pūrvarūpa*; *sārvadhātukārdhadhātukayoḥ* guṇa; suffix being *nit*, first *udātta*); *viśvāpsum* (*viśvam āpo yasya saḥ viśvāpsuḥ*; *bahuvrīhau prakṛtyā pūrvapadam* prior-member accent); *dadhuḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* 3rd plural; *tiṅ*-*nighāta*).
+
+---
+
+### Printed p. 430  (PDF 448)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+*(Ṛk 1 grammar, continued, noted briefly.)* *manuṣyāsu* (the word *manuṣya* is explained variously in the Nirukta; from the roots *man jñāne* and *śiva*-… *manur apatyam manuṣyaḥ*, or *manuṣo bhavaḥ manuṣyaḥ* by *bhave chandasi* (Pā. Sū. 4-4-110) *yat*; locative plural); *vikṣu* (the word *viś*; locative plural; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) case-ending *udātta*); *svaḥ* (*svar* indeclinable; *svarasvaritau* [?] (Phiṭ-Sū. 4) *svarita*); *citram* (root *ciñ cayane*; *amicimidi…* (Uṇ. Sū. 4-[?]) *tra* suffix; no guṇa since *kit*; suffix accent: final *udātta*). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> ददानमिन्न ददभन्त मन्माग्निर्वरूथं मम तस्य चाकन् ।
+> जुषन्त विश्वान्यस्य कर्मोपस्तुतिं भरमाणस्य कारोः ॥ २ ॥
+
+> *dadānaminna dadabhanta manmāgnirvarūthaṃ mama tasya cākan |*
+> *juṣanta viśvānyasya karmopastutiṃ bharamāṇasya kāroḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> ददानम् । इत् । न । ददभन्त । मन्म । अग्निः । वरूथम् । मम । तस्य । चाकन् ।
+> जुषन्त । विश्वानि । अस्य । कर्म । उपऽस्तुतिम् । भरमाणस्य । कारोः ॥ २ ॥
+
+> *dadānam | it | na | dadabhanta | manma | agniḥ | varūtham | mama | tasya | cākan |*
+> *juṣanta | viśvāni | asya | karma | upa 'stutim | bharamāṇasya | kāroḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(printed under the Kannada heading "Viśeṣaviṣayagaḷu" [sic] on this page; gist: let those who injure not harm me, who offer praise; Agni desires my praise; and all the gods accept the acts of the praiser and sacrificer.)*
+
+> मन्म मननीयं स्तोत्रं हविरादिकं वा ददानमिदग्नये कुर्वाणमेव मां दम्भितारो वैरिणो न ददभन्त दम्भितुं हिंसितुं न प्रभवन्ति । दम्भेर्बहुलं छन्दसीति विकरणस्य श्लुः ॥ व्यत्येयेनान्तादेशः ॥ मम कोतिथ्ये [?] इति उच्यते । तस्य दातुःहविस्सस्य [?] प्रदातुर्मम वरूथं वरणीयं स्तोत्रादिरूपमयमग्निश्चाकन् आत्यर्थं कामयते । कनतेः कान्तिकर्मा अस्माद्यजन्तान्ताल्लुङ्सत्तेः [?] ... बहुलं छन्दसः ... केवलमग्निरेव कामयते किन्तु सर्वे देवाः कामयन्ते इत्याह । उपस्तुतिं भरमाणस्य कुर्वाणस्य कारोः स्तोतुरस्य यजमानस्य मम विश्वानि सर्वाणि हविष्पाकादिरूपाणि जुषन्ते सर्वे देवा । आदो न ददभन्तेत्यर्थः ॥ *[small type; many words doubtful]*
+
+> *manma mananīyaṃ stotraṃ havirādikaṃ vā dadānamidagnaye kurvāṇameva māṃ dambhitāro vairiṇo na dadabhanta dambhituṃ hiṃsituṃ na prabhavanti | dambherbahulaṃ chandasīti vikaraṇasya śluḥ ‖ vyatyeyenāntādeśaḥ ‖ mama kotithye [?] iti ucyate | tasya dātuḥhavissasya [?] pradāturmama varūthaṃ varaṇīyaṃ stotrādirūpamayamagniścākan ātyarthaṃ kāmayate | kanateḥ kāntikarmā asmādyajantāntālluṅsatteḥ [?] ... bahulaṃ chandasaḥ ... kevalamagnireva kāmayate kintu sarve devāḥ kāmayante ityāha | upastutiṃ bharamāṇasya kurvāṇasya kāroḥ stoturasya yajamānasya mama viśvāni sarvāṇi haviṣpākādirūpāṇi juṣante sarve devā | ādo na dadabhantetyarthaḥ ‖ *[small type; many words doubtful]**
+
+---
+
+### Printed p. 431  (PDF 449)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 32 [?].)*
+
+*(Ṛk 2 bhāṣya, end.)*
+
+> केवलमग्निरेव कामयते किन्तु सर्वे देवाः कामयन्त इत्याह । उपस्तुतिं भरमाणस्य कुर्वाणस्य कारोः स्तोतुः [?] अस्य यजमानस्य मम विश्वानि सर्वाणि हविष्पाकादिरूपाणि [?] जुषन्ते [...] सर्वे देवाः ॥ *[small type]*
+
+> *kevalamagnireva kāmayate kintu sarve devāḥ kāmayanta ityāha | upastutiṃ bharamāṇasya kurvāṇasya kāroḥ stotuḥ [?] asya yajamānasya mama viśvāni sarvāṇi haviṣpākādirūpāṇi [?] juṣante [...] sarve devāḥ ‖ *[small type]**
+
+**Pratipadārtha (Kannada).** *manma* — the praise accompanied with faith, or the oblation; *dadānam it* — (to Agni) the one who offers; *na dadabhante* — the enemies (as destroyers) are unable to harm; (the doubt thus: "in whom [?]"); *tasya* — he who offers thus; *mama* — my; *varūtham* — dear praise and the like; *agniḥ* — Agni; *cākan* — desires greatly (the root *kan*, "to desire"); *upastutim* — the praise of him; *bharamāṇasya* — I who bear; *kāroḥ* — who sings of fame; *asya* — of the sacrificer (me); *viśvā ni karma* — all acts (of offering oblations and praises); *juṣanta* — all the gods enjoy and are satisfied.
+
+**Bhāvārtha.** Enemies are not able to harm me, who offer praises with faith to Agni. Indeed Agni with great regard desires my dear praise and the like; and the gods too, enjoying my praise, my fame-singing and all the acts of me, the sacrificer, are satisfied.
+
+**English Translation (as printed).** Let not ( my enemies ) prevail against me, when presenting acceptable (oblations), for (Agni) is desirous of my so offered adoration, and all they (the gods) are gratified by the (pious) acts of me, the reciter of their praise, and the celebrator (of the sacrifice).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***manma*** — *mananīyaṃ stotraṃ havirādikaṃ vā*: "praise to be reflected on, or the oblation and the like"; "praise of which Agni is the object [?]"; it is explained as "the word (*manma*) *manasaḥ ṛddhiḥ* [?]" "prosperity of the mind"; in the Ṛk-saṃhitā the use of this word is seen where objects of desire are shown. The Nirukta author:
+
+> उपे प्रागात्समन्मे धायि मन्म देवानामाशा उप वीक्षमाणः ।
+> अन्वेनं विप्रा ऋषयो मदन्ति देवानां पुष्टे चकृमा सुबन्धुम् ॥
+
+> *upe prāgātsamanme dhāyi manma devānāmāśā upa vīkṣamāṇaḥ |*
+> *anvenaṃ viprā ṛṣayo madanti devānāṃ puṣṭe cakṛmā subandhum ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+---
+
+### Printed p. 432  (PDF 450)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+Citing this Ṛk, he shows the sense of the word *manma*. Durgācārya, explaining the word, says *manma = mananīyam ṛddhijātam* — "the thing that is a prosperity-product, to be thought of" — "the thing of *ādyut* [?] nature"; in the Ṛks *1-[?]*, *1-[?]*, *1-[?]*… the word, with the same sense, is applied to the praise or the oblation that is the object of the sacrificer's thought: "praise that is worshipped, desired and the like, which is dear" — in the Ṛk at hand also, both the praise and the oblation that is worshipful and to be meditated on. In sentences such as *agniḥ prajñena manmanā* (Ai. Brā. 1-[?]) too the extra sense of this word may be seen.
+
+***varūtham*** — the word *varūtha* is read in the Nirukta among the names of houses (Ni. 3-[?]); this word is made from the root *vṛ varaṇe*, "to choose, to cover", meaning "that which is to be chosen, desired" or "that which protects"; the word is used in the Ṛk-saṃhitā in different ways, pointing to objects:
+
+> तां ईयानो महि वरूथमूतये उप ब्रुवे नमसा गृणीमसि । त्रिषधस्थो न यान्संच [?] पोत्रानभिष्यय आवर्त [?] ... ॥
+
+> *tāṃ īyāno mahi varūthamūtaye upa bruve namasā gṛṇīmasi | triṣadhastho na yānsaṃca [?] potrānabhiṣyaya āvarta [?] ... ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) In this Ṛk *varūtham* is "that which is to be chosen" (*varaṇīyaṃ dhanam*), that is "excellent wealth"; and in
+
+> मा ते अस्माँ सहसावन्परिष्ठावघाय भूम हरिवः परादै । त्रायस्व नोऽवृकेभिर्वरूथैस्तव प्रियासः सूरिषु स्याम ॥
+
+> *mā te asmā~ sahasāvanpariṣṭhāvaghāya bhūma harivaḥ parādai | trāyasva no 'vṛkebhirvarūthaistava priyāsaḥ sūriṣu syāma ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) *vārayanty etāni* ... *varūthāni rakṣaṇāni* — "protections, which keep off; the protective [powers]" is the meaning, from *upapravartakāt* [?]. Thus, though used in different meanings, in the Ṛk at hand the sense is "the dear praise that is worth choosing".
+
+***kāroḥ*** — *stotuḥ asya yajamānasya mama*: "of the praiser, the sacrificer, me": "of me, who praise, of the sacrificer". The Nirukta author reads the word *kāru* among the names of the praisers (Ni. 3-[?]); the author of the Bṛhaddevatā has used this word as the sense of "the ṛṣis who are the poets, the authors of the sūktas":
+
+> अग्नेस्तु योनि सूक्तानि पञ्च नामानि कारवः । षड्विंशतिस्तु धेन्वस्य प्राहुः सूर्यस्य सप्त च ॥
+
+> *agnestu yoni sūktāni pañca nāmāni kāravaḥ | ṣaḍviṃśatistu dhenvasya prāhuḥ sūryasya sapta ca ‖*
+
+(Bṛ. De. 3-[?].)
+
+---
+
+### Printed p. 433  (PDF 451)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 32 [?].)*
+
+> पृथक्त्वेन समास्तैस्तु यज्ञे यज्ञीयस्थे [?] नभः । स्तुवन्तश्चैषु तेनेमं नराशंसं तु कारवः ॥
+
+> *pṛthaktvena samāstaistu yajñe yajñīyasthe [?] nabhaḥ | stuvantaścaiṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*
+
+(Bṛ. De. 3-[?].) In such statements the word *kāru* is used with the nature of a synonym of the word "poet" (*kavi*), saying that the *kāru* praise (*stutisuttāre*). In the Ṛk-saṃhitā:
+
+> प्रदक्षिणिद्धि गृणन्ति कारवो वयो वदन्त ऋतुथा शकुन्तयः । उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति ॥
+
+> *pradakṣiṇiddhi gṛṇanti kāravo vayo vadanta ṛtuthā śakuntayaḥ | ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+> वि चेदुच्छन्त्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरन्ते । ऊर्ध्वं भानुं सविता देवो अश्रेद्बृहदग्नयः समिधा जरन्ते ॥
+
+> *vi ceducchantyaśvinā uṣāsaḥ pra vāṃ brahmāṇi kāravo bharante | ūrdhvaṃ bhānuṃ savitā devo aśredbṛhadagnayaḥ samidhā jarante ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) In such Ṛks it means "the praisers". In the Ṛk at hand also the same meaning.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *dadānam* (root *dudāñ dāne*; *śānac* in the sense of *laṭ*; *ślu* vikaraṇa; by *vyatyaya*, final *udātta*); *dadabhanta* (root *dambhu dambhane*; *leṭ* 3rd plural, by *vyatyaya* the ending *anta*; *bahulaṃ chandasi* *śap* → *śluḥ*; *ślau* doubling of the root; after a *tiṅanta*, *nighāta*); *manma* (root *mana jñāne*; *ṇādika*: suffix *man*; *ñnityādir nityam* (Pā. Sū. 6-1-197) first *udātta*); *varūtham* (root *vṛñ varaṇe*; *jvaryaivībhyāmūthan* [?] (Uṇ. Sū. 2-[?]) *ūthan* suffix; on account of the suffix guṇa of the *ṛ*; *ra* follows; suffix being *nit*, first *udātta*); *cākan* (root *kana kāntau*; *kānti* = wish; the root being *tṛpaṇārtha* [?] *dhātor ekāco…* (Pā. Sū. 3-1-22) *yaṅ* suffix; *yajluk* [?] (Pā. Sū. 2-4-74) *luk* of *yaṅ*; after *yaṅluganta*, *laṅ*; or *bahulaṃ chandasi*: *śap* → *śluḥ*; 3rd sg., *bahulaṃ chandasy māṅyoge 'pi* no *aṭ* augment; *tiṅ*-*nighāta*).
+
+---
+
+**Progress note:** Vol 11 — Sūkta 148 (5 Ṛks) done through printed p. 433 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done; its grammar note ends on p. 434). Next: printed p. 434 (PDF 452), then Ṛks 3–5, then Sūkta 149. Images in /tmp/v11a (PDF 33–451; recrop 452+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Śatapatha/Bṛhaddevatā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–148; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
