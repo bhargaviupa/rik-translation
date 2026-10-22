@@ -8920,4 +8920,116 @@ Having cited this Ṛk, he explains the word *māyā* as "knowledge" (Ni. 7-[?];
 
 ---
 
-**Progress note:** Sūkta 143 complete (printed pp. 287–330). **Sūkta 144** (*eti pra hotā*, 7 Ṛks, Agni, Jagatī): printed pp. 330–337 done (Ṛk 1 complete with Special Topics on the Āśvina-śastra legend, *śucipeśasam*, *dhiyam*, *māyayā*, and grammar; Ṛk 2 *abhī ṛtasya dohanā anūṣata* begun: Saṃhitā, Pada and bhāṣya on p. 337). Next: printed p. 338 (PDF 356). Images at 120 dpi in /tmp/v11a (PDF 33–380; recrop 381 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–144; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300, 333–335 and the Brāhmaṇa quotations on pp. 290–293, 309–310, 333–335 read at low confidence; the bhāṣya of Sūkta 143 Ṛks 3–8 and Sūkta 144 Ṛks 1–2 (pp. 302, 306–307, 311, 316, 319, 326, 331–332, 337) largely unread; the English quotations of Müller/Oldenberg/Bloomfield on pp. 322–324 copied as printed; grammar pages read at low confidence (esp. pp. 326, 329–330); the Anukramaṇīs of Sūktas 143–144 (pp. 287, 330) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 338  (PDF 356)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+**Pratipadārtha (Kannada).** *agniḥ* — Agni; *yat* — when; *apāṃ upasthe* — in the middle of the waters; *vibhṛtaḥ* — held with special regard (by them); *ā avasat* — abides, having taken possession (of them); (then) *ṛtasya* — of water; *dohanāḥ* — the streams; *yonau* — in their birth-place; *devasya* — of the shining Āditya; *sadane* — in the abode; *parivṛtāḥ* — enveloped (by his rays), having received a refinement; *abhi anūṣata* — become renewed with a new refinement; *adha* — thereafter; *yābhiḥ* — with which waters; *īyate* — (Agni in the form of lightning) joins; *svadhāḥ* — (such) waters of the rain, of nectar-like quality; *adhayat* — (the whole world) drinks.
+
+**Bhāvārtha.** When Agni, held with special regard by the waters, abides in their midst having taken possession of them, then the streams of water, enveloped in the abode of the radiant Āditya, their place of origin, by his rays, receive a new refinement. Thereafter Agni in the form of lightning unites with the waters. Immediately the whole world drinks the nectar-like waters of the rain.
+
+**English Translation (as printed).** The drops of rain, enveloped (by the solar rays), are renewed in the dwelling of the divine (sun), their birth-place: when he, (Agni), abides cherished on the lap of the waters, then (the world) drinks the nectareous rain, with which he, (as the lightning), associates.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk the nature of the waters purified by the rays of the sun, and the nature of Agni, who is within the waters of the cloud and is in the form of lightning, are explained.
+
+***apāṃ upasthe*** — उदकानामुत्सङ्गे अन्ते (*udakānāmutsaṅge ante*): "in the lap of the waters"; the sense is "within, in the midst of the waters". The Nirukta author:
+
+> अपामुपस्थे महिषा अग्रभ्णत विशो राजानमुप तस्थुर्ऋग्मियम् ।
+> आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ॥
+
+> *apāmupasthe mahiṣā agrabhṇata viśo rājānamupa tasthurṛgmiyam |*
+> *ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ ‖*
+
+(Ṛ. Saṃ. 6-8-4.)
+
+---
+
+### Printed p. 339  (PDF 357)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 17 [?].)*
+
+Citing this Ṛk, he explains *apām upasthe* as *mahat antarikṣaloke āsīnāḥ* — "being in the great atmospheric world"; Durgācārya, giving the explanation in the sense "*yatropagamya tiṣṭhanti sopasthaḥ*" (the place where they come and stay is the *upastha*), says: "*upasthe*: in the atmospheric world, *tasmin antarikṣaloke*, which is the place where all the waters meet and stay, as the middle region of the atmosphere (*nābhiyalli*) — the lap". Thus the sense is shown.
+
+***ṛtasya*** — *udakasya*: "of water". The word *ṛta* was told before to mean "truth, sacrifice" and the like; since it also has the meaning "water", it must be given this sense here with attention to the context. The Nirukta author reads this word among the names of water (Ni. 1-[?]) and (afterwards) *arṇas*, *kṣodaḥ*, etc.; and in the Ṛk
+
+> रमध्वं मे वचसे सोम्याय ऋतावरीरुप मुहूर्तमेवैः ।
+> प्र सिन्धुमच्छा बृहती मनीषावस्युरह्वे कुशिकस्य सूनुः ॥
+
+> *ramadhvaṃ me vacase somyāya ṛtāvarīrupa muhūrtamevaiḥ |*
+> *pra sindhumacchā bṛhatī manīṣāvasyurahve kuśikasya sūnuḥ ‖*
+
+(Ṛ. Saṃ. 3-33-5.) the word *ṛtāvarīḥ* is explained: "full of the waters, with water" — thus explaining that this is the name of rivers.
+
+***svadhāḥ*** — it is read among the names of water (Ni. 1-[?]) and among the names of food (Ni. 6-[?]). Here the sense of water, which has the quality of nectar, is given.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *dohanāḥ* (root *duha prapūraṇe*; suffix *lyuṭ*; *yuvor anākau* (Pā. Sū. 7-1-1): *ana* for *yu*; because of it the root takes *laghūpadha-guṇa* by *pugantalaghūpadhasya ca*; by the suffix the first-syllable *udātta*), *anūṣata* (root *ṇū stutau*; *vyatyayo bahulam*: *ātmanepada*; by Vedic usage *luṅ*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5): *jha* for *at*; *cli*: *sic*; *sic* dropped by *gāṅkuṭādibhyo ñṇin ṅit* (Pā. Sū. 1-2-1)? [?]: since *sic* is *ṅit* no *guṇa* of the root; by Vedic usage *iḍabhāva* and lengthening of the root's *u*; after an *ati…* word the *nighāta* accent), *sadane* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the sense of *adhikaraṇa* (locus) *lyuṭ*; as before, *ana*; *liti* (Pā. Sū. 6-1-193): the suffix's preceding syllable is *udātta*), *parivṛtāḥ* (root *vṛñ varaṇe*; *niṣṭhā*: suffix *kta*; *gatir anantaraḥ* (Pā. Sū. 6-2-49): the *gati* (*pari*) keeps its natural accent; *anveṣām api dṛśyate* (Pā. Sū. 6-3-137): lengthening of the former member …
+
+---
+
+### Printed p. 340  (PDF 358)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+… *apām* (genitive plural; *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171): the case-ending is *udātta*), *upasthe* (root *ṣṭhā gatinivṛttau*; *ātaś copasarge* (Pā. Sū. 3-1-136): suffix *ka*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64): loss of *ā*; locative singular), *vibhṛtaḥ* (root *bhṛñ bharaṇe*; *kta* in the passive; *gatir anantaraḥ*: the *gati* (*vi*) keeps its natural accent), *āvasat* (root *vasa nivāse*; in the sense of the present, *laṅ* by Vedic usage; connected with *yat*, hence there is no *nighāta*; *aḍāgama* is *udātta*, hence first-syllable *udātta*), *adhayat* (root *dheṭ pāne*; *laṅ*, third person singular, *tip*; *itaś ca*: loss of *i*; *śap*, *ghrā…* [?]: *eca āyāvaḥ* (Pā. Sū. 6-1-78); the suffix's *a*; the augment *aṭ*; after an *ati…* word, *nighāta*), *īyate* (root *īṅ gatau*; *divādi*: *śyan* vikaraṇa, *laṭ*, third person singular; since *yat* is connected, *yadvṛttānnityam* (Pā. Sū. 8-1-66) prevents *nighāta*; since *śyan* is *nit*, *ñnityādir nityam* gives first-syllable *udātta*). ‖ 2 ‖
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> युयूषतः सवयसा तदिद्वपुः समानमर्थं वितरित्रता मिथः ।
+> आदीं भगो न हव्यः समस्मदा वोळ्हुर्न रश्मीन्त्समयंस्त सारथिः ॥ ३ ॥
+
+> *yuyūṣataḥ savayasā tadidvapuḥ samānamarthaṃ vitaritratā mithaḥ |*
+> *ādīṃ bhago na havyaḥ samasmadā voḷhurna raśmīntsamayaṃsta sārathiḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> युयूषतः । सवयसा । तत् । इत् । वपुः । समानम् । अर्थम् । वितरित्रता । मिथः ।
+
+> *yuyūṣataḥ | savayasā | tat | it | vapuḥ | samānam | artham | vitaritratā | mithaḥ |*
+
+---
+
+### Printed p. 341  (PDF 359)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 17 [?].)*
+
+> आत् । ईम् । भगः । न । हव्यः । सम् । अस्मत् । आ । वोळ्हुः । न । रश्मीन् । सम् । अयंस्त । सारथिः ॥ ३ ॥
+
+> *āt | īm | bhagaḥ | na | havyaḥ | sam | asmat | ā | voḷhuḥ | na | raśmīn | sam | ayaṃsta | sārathiḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *The two of equal strength, the Hotṛ and the Adhvaryu, mutually working for a common aim, wish to join Agni's body; whereupon the oblation-receiver gathers the oblations as Bhaga accepts all, or as a charioteer gathers the reins.* Small type; partly legible)
+
+> सवयसा समानवयस्कौ [?] । वयःशब्देन सामर्थ्यं लक्ष्यते । समानसामर्थ्यौ तदित् तदानीमेव [?] यदा प्रयत्नवन्तौ भवतस्तदानीमेव समानमर्थं समानप्रयोजनं निष्पत्तिं [?] मिथः प्रत्येकं परस्परं वितरित्रता विशेषेण तरन्तौ होत्राध्वर्यू वपुः शरीरमग्नेः [?] युयूषतः मिश्रयितुमिच्छतः [?] । स्वस्वकर्मापारेण मिश्रयितुमिच्छतः । प्रैषानन्तरं याज्यादिपाठेन होतुर्व्यापारः वषट्कारानन्तरं होमोत्पन्नक्रियेति विभागः [?] । अत्रैवमनुसन्धेयम् । सवयसा समानवयस्कौ मिथः प्रत्येकं समानप्रयोजनं सुखप्राप्तिं विवितरित्रता विशेषेण तरितुमिच्छन्तौ [?] । … तदनन्तरं [?] आदीं । आदीमनन्तरमेव हव्यः आहवनीयोऽग्निः सारथिः सरणशीलः [?] सारथिवद्यज्ञरथस्य निर्वाहकः [?] । यद्वा सन्मित्रमस्माकं सम्बन्धिनो रश्मीन् रश्मिवदायतान् घृतधारा आ सर्वतः समयंस्त । सम्यक् स्वीकरोति । तत्र दृष्टान्तेनायमुच्यते । भगो न सर्वेः सेवनीय आदित्यः सर्वतः पूजामादत्ते तद्वत् । सारथिः रथस्य यन्ता वोळ्हुरश्वस्य वाहकस्य सम्बन्धिनो रश्मीन् प्रग्रहानिव । तान्यथा स्वीकरोति तद्वदयमग्निरपि हवींषि समयंस्त ॥
+
+> *savayasā samānavayaskau [?] | vayaḥśabdena sāmarthyaṃ lakṣyate | samānasāmarthyau tadit tadānīmeva [?] yadā prayatnavantau bhavatastadānīmeva samānamarthaṃ samānaprayojanaṃ niṣpattiṃ [?] mithaḥ pratyekaṃ parasparaṃ vitaritratā viśeṣeṇa tarantau hotrādhvaryū vapuḥ śarīramagneḥ [?] yuyūṣataḥ miśrayitumicchataḥ [?] | svasvakarmāpāreṇa miśrayitumicchataḥ | praiṣānantaraṃ yājyādipāṭhena hoturvyāpāraḥ vaṣaṭkārānantaraṃ homotpannakriyeti vibhāgaḥ [?] | atraivamanusandheyam | savayasā samānavayaskau mithaḥ pratyekaṃ samānaprayojanaṃ sukhaprāptiṃ vivitaritratā viśeṣeṇa taritumicchantau [?] | … tadanantaraṃ [?] ādīṃ | ādīmanantarameva havyaḥ āhavanīyo 'gniḥ sārathiḥ saraṇaśīlaḥ [?] sārathivadyajñarathasya nirvāhakaḥ [?] | yadvā sanmitramasmākaṃ sambandhino raśmīn raśmivadāyatān ghṛtadhārā ā sarvataḥ samayaṃsta | samyak svīkaroti | tatra dṛṣṭāntenāyamucyate | bhago na sarveḥ sevanīya ādityaḥ sarvataḥ pūjāmādatte tadvat | sārathiḥ rathasya yantā voḷhuraśvasya vāhakasya sambandhino raśmīn pragrahāniva | tānyathā svīkaroti tadvadayamagnirapi havīṃṣi samayaṃsta ‖*
+
+**Pratipadārtha (Kannada).** *tadit* — when Agni has blazed up; *savayasā* — those of equal strength (the Hotṛ and the Adhvaryu); *samānam arthaṃ* — a common object, the same aim; *mithaḥ* — mutually; *vitaritratā* — striving with faith and by their own acts; [(or) *savayasā* — of equal strength, one in all in doing; *samānam arthaṃ* — a common object; *mithaḥ vitaritratā* — each achieving, in friendly acts]; *vapuḥ* — their own bodies; *yuyūṣataḥ* — (by embracing) wish to unite, as a wedded pair; *vapuḥ* — Agni's body; *yuyūṣataḥ* — they wish to join (by their acts); *ādīm* — immediately; *havyaḥ* — Agni, fit to receive the oblation; *asmat* — from us; *raśmīn* — like rays, the streams of ghee spread out in the *juhū* and the like; *bhagaḥ na* — like Bhaga, the sun; *sarvān* — the worship of all; *sārathiḥ* — like the charioteer; *vāhaḥ* — the reins of the horses that draw the chariot; *ā sam ayaṃsta* — gathers together and accepts in one.
+
+---
+
+### Printed p. 342  (PDF 360)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+**Bhāvārtha.** When Agni has blazed up, the Hotṛ and the Adhvaryu, of equal strength and each working with faith for the same common aim, desire to unite Agni's body with their own acts, as a wedded pair [embrace and] unite. Immediately thereupon, as the sun gathers up the worship of all, and as a charioteer gathers into one hand the reins of the horses that draw the chariot, so Agni, fit to receive the oblations, gathers together the streams of ghee spread out like rays, and accepts them.
+
+**English Translation (as printed).** The two (priests, the Hotri and Adhwaryu), of equal honour, and alike assiduous, labouring mutually for a common object, combine the form of Agni ( with their respective functions ) ; whereupon he to whom the oblation is to be offered, collects the drops (of clarified butter), as Bhaga (accepts the worship of all), or as a charioteer (gathers the reins of the horses) that draw (the car).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk the nature of the performance of the rite is told. Here two kinds of construction of the first half are possible, Sāyaṇa shows. First, *savayasā* — *vitaritratā* (*hotṛ-adhvaryū*) *vapuḥ yuyūṣataḥ*: "the Hotṛ and the Adhvaryu, by their several acts, wish to combine Agni's body" (to unite it); the second: *dampatī*, the married couple, wish to join their bodies by embrace; in the same way the Hotṛ and the Adhvaryu join their acts with Agni. That is the sense.
+
+***savayasā*** — an epithet of the Hotṛ and the Adhvaryu; here the word *vayas* must mean "strength"; the two are of equal strength; in the rite of the Hotṛ, after the *praiṣa*, the recitation of the *yājyā* and the like is the Hotṛ's function, and after the *vaṣaṭkāra* the offering is the Adhvaryu's duty; thus a division. Of the pair (*dampatī*), the epithet is *samānayasya* — "of equal [strength]".
+
+---
+
+### Printed p. 343  (PDF 361)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 17 [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *yuyūṣataḥ* (root *yu miśraṇāmiśraṇayoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. Sū. 3-1-7): *san* in the sense of wishing; *ajjhanagamāṃ sani* (Pā. Sū. 6-4-16): lengthening of the root vowel before *san*; *laṭ*, third person dual; since it comes at the pāda-beginning no *nighāta*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189): first-syllable *udātta*), *savayasā* (*samānaṃ vayo yayos tau savayasau*; *vibhāṣā* [?]; *supāṃ sulug…* (Pā. Sū. 7-1-39): *ā* for the dual ending; in the *bahuvrīhi* the first member's natural accent), *vitaritratā* (root *tṝ plavanatarṇayoḥ* with *vi*; *dhātor ekācaḥ…* (Pā. Sū. 6-1-[?]): *yaṅ*; *yajocic* [?]: *yaṅ* *luk*; reduplication; *rugrikau ca luki* (Pā. Sū. 7-4-91): *rīk*-like augments; *śatṛ* in the present sense; *supāṃ sulug*; *abhyastānām ādiḥ*: first-syllable *udātta*; in the *upasarga*-compound the *kṛdanta*'s natural accent), *havyaḥ* (root *hu dānādanayoḥ*; *āco 'yat* (Pā. Sū. 3-1-[?]): suffix *yat*; *sārvadhātukārdhadhātukayoḥ*: *guṇa* of the final; *vānto yi pratyaye* (Pā. Sū. 6-1-79): *av*; *yatonāvaḥ* (Pā. Sū. 6-1-213): first-syllable *udātta*), *asmat* (*supāṃ sulug*: *luk* of the case-ending (*ṅasi*)), *voḷhuḥ* (root *vaha prāpaṇe*; suffix *tṛc*; by *hoḍhaḥ* the *h* of the root becomes *ḍh*; *jhaṣas tathor dho 'dhaḥ*: *dh* of the suffix; *ṣṭutva*; *ḍho ḍhe lopaḥ* (Pā. Sū. 8-3-13): loss of one *ḍh*; *sahivahor odavarṇasya* (Pā. Sū. 6-3-112): *o* for the *a* of the root; genitive singular), *dhārtha* [?] (*vartaṃtu* … (Pā. Sū. 6-4-[?]): formed irregularly), *ayaṃsta* (root *yamu uparame*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6): *laṅ* in the present sense; third person singular, *ta*; *ṭita ātmanepadānāṃ ṭer e*: *e*; the root's *m* becomes *anusvāra*; the augment *aṭ*; after an *ati…* word, the *nighāta* accent). ‖ 3 ‖
+
+---
+
+**Progress note:** Vol 11 — Sūkta 144 done through printed p. 343 (Ṛks 1–3 complete). Next: printed p. 344 (PDF 362), Ṛk 4. Images in /tmp/v11a (PDF 33–380; recrop 381+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya, Bṛhaddevatā/Brāhmaṇa quotes, reference and sūtra numerals, Anukramaṇīs of 143–144). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
