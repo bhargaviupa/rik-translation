@@ -10419,4 +10419,146 @@ In this Ṛk, *dhenū* is an adjective of heaven and earth. In the passage where
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 146 (5 Ṛks) done through printed p. 398 (Ṛks 1–3 complete; Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done; its grammar note may run on to p. 399). Next: printed p. 399 (PDF 417), then Ṛk 5 (last of the sūkta). Images in /tmp/v11a (PDF 33–416; recrop 417+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 399  (PDF 417)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 27 [?].)*
+
+*(Ṛk 4 grammar, end.)* *sindhum* (root *syandū prasravaṇe*; *syandeḥ saṃprasāraṇaṃ dhaś ca* (Uṇ. Sū. 1-[?]) *u* suffix; *saṃprasāraṇa* of the root's *ya*; *dha* for the *da*; accusative sg.; final *udātta*); *sūryaḥ* (root *ṣūṅ prasave*; *dhātvādeḥ ṣaḥ saḥ* *sa* for the initial; *rājasūyasūrya…* (Pā. Sū. 3-1-114) *kyap*-ending, *nipātita*); *nṝn* (the word *nṛ*; the fourth-case sense with the accusative plural, by *vyatyaya* the third-case plural ending; or, by supplying *anugṛhītam* [?], it being the object of the verb, the accusative plural). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> दिदृक्षेण्यः परि काष्ठासु जेन्य ईळेन्यो महो अर्भाय जीवसे ।
+> पुरुत्रा यदभवत्सूरहैभ्यो गर्भेभ्यो मघवा विश्वदर्शतः ॥ ५ ॥
+
+> *didṛkṣeṇyaḥ pari kāṣṭhāsu jenya īḷenyo maho arbhāya jīvase |*
+> *purutrā yadabhavatsūrahaibhyo garbhebhyo maghavā viśvadarśataḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> दिदृक्षेण्यः । परि । काष्ठासु । जेन्यः । ईळेन्यः । महः । अर्भाय । जीवसे ।
+> पुरुऽत्रा । यत् । अभवत् । सूः । अह । एभ्यः । गर्भेभ्यः । मघवा । विश्वऽदर्शतः ॥ ५ ॥
+
+> *didṛkṣeṇyaḥ | pari | kāṣṭhāsu | jenyaḥ | īḷenyaḥ | mahaḥ | arbhāya | jīvase |*
+> *puru 'trā | yat | abhavat | sūḥ | aha | ebhyaḥ | garbhebhyaḥ | maghavā | viśva 'darśataḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni is to be seen in all ten quarters, victorious, worthy of praise; for the life of great and small he has become the begetter of these embryos, the opulent, visible to all.)*
+
+> अयमग्निः काष्ठासु परस्परं क्रान्तास्व [?] वर्तमानासु दशसु दिक्षु दिदृक्षेण्यः अनुग्रहयुक्तैः दर्शनयुक्तो भवति । यद्वा प्रसृत्य [?] ... दर्शनेच्छाविषयीभूतः । दृशेः सनन्तात् [?] ... कन् [?] प्रत्ययः । अत एव जेन्यः सर्वत्र प्रादुर्भवनशीलो भवति जयशीलो वा । किञ्च प्रदानसमये ईळेन्यः स्तुत्यो भवति । किमर्थमित्याह । महो देवादेरर्भायार्भकस्याल्पस्य यजमानादेर्वा जीवसे जीवनाय । हविर्हननेन धनप्रदानेनेति विवेकः । तत्रोपपत्तिमाह । यदह यस्माद्बहुषु देशेषु पुरुत्रा बहुषु देशेषु ... देवमनुष्येत्यादिना त्रा प्रत्ययः । मघवा हविर्लक्षणान्न [?] ... विश्वदर्शतः सर्वविषयैर्दृश्य ... गर्भेभ्यः गर्भवत् ... *[small type; the sentence continues on p. 400; many words doubtful]*
+
+> *ayamagniḥ kāṣṭhāsu parasparaṃ krāntāsva [?] vartamānāsu daśasu dikṣu didṛkṣeṇyaḥ anugrahayuktaiḥ darśanayukto bhavati | yadvā prasṛtya [?] ... darśanecchāviṣayībhūtaḥ | dṛśeḥ sanantāt [?] ... kan [?] pratyayaḥ | ata eva jenyaḥ sarvatra prādurbhavanaśīlo bhavati jayaśīlo vā | kiñca pradānasamaye īḷenyaḥ stutyo bhavati | kimarthamityāha | maho devāderarbhāyārbhakasyālpasya yajamānādervā jīvase jīvanāya | havirhananena dhanapradāneneti vivekaḥ | tatropapattimāha | yadaha yasmādbahuṣu deśeṣu purutrā bahuṣu deśeṣu ... devamanuṣyetyādinā trā pratyayaḥ | maghavā havirlakṣaṇānna [?] ... viśvadarśataḥ sarvaviṣayairdṛśya ... garbhebhyaḥ garbhavat ... *[small type; the sentence continues on p. 400; many words doubtful]**
+
+---
+
+### Printed p. 400  (PDF 418)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+*(Ṛk 5 bhāṣya, continued.)*
+
+> ... यजमानादेर्वा जीवसे जीवनाय । हविर्हननेन धनप्रदानेनेति विवेकः । तत्रोपपत्तिमाह । यदह यस्माद्बहुषु देशेषु [?] ... मघवा हविर्लक्षणान्नवानेवमुपयोगिधनवान् [?] ... सूः प्रसवितोत्पादयिताभवत् भवति । तस्मान्नाना हृदा रक्षमाणाः कवयः पदं नयन्तीति पूर्वत्र सम्बन्धः ॥ *[small type; many words doubtful]*
+
+> *... yajamānādervā jīvase jīvanāya | havirhananena dhanapradāneneti vivekaḥ | tatropapattimāha | yadaha yasmādbahuṣu deśeṣu [?] ... maghavā havirlakṣaṇānnavānevamupayogidhanavān [?] ... sūḥ prasavitotpādayitābhavat bhavati | tasmānnānā hṛdā rakṣamāṇāḥ kavayaḥ padaṃ nayantīti pūrvatra sambandhaḥ ‖ *[small type; many words doubtful]**
+
+**Pratipadārtha (Kannada).** *(Agni —)* *mahaḥ* — (by carrying the oblation) of those great, the powerful gods; *arbhāya* — and of the small, the humans; *jīvase* — for the sake of life; *kāṣṭhāsu* — in the ten quarters; *pari dideṛkṣeṇyaḥ* — he who is to be seen by all, as he is wished to be seen (by himself too); *jenyaḥ* — (everywhere) manifest, or victorious; *īḷenyaḥ* — worthy of praise (is praised); *yat aha* — since indeed; *purutrā* — in many places; *maghavā* — in the form of oblation, the bearer of food; *viśvadarśataḥ* — Agni, visible to all; *ebhyaḥ garbhebhyaḥ* — like an embryo (child) the child in the womb, to these hymns and the rest, which are fit to be protected; *sūḥ abhavat* — has become the begetter.
+
+**Bhāvārtha.** Agni, by carrying the oblations, is propitious to the powerful gods and, by giving wealth, for the life of the small humans; by his favour, in the ten quarters, all desire to see him; therefore he is manifest and victorious everywhere and worthy of praise. And since he, in many places, in the form of oblation, in the form of food, visible to all, is the begetter of these hymns and the rest, which are like embryos to be protected.
+
+**English Translation (as printed).** He his [sic] willing to be seen in the (ten) regions (of space); the victorious, the adorable, the source of life to great and small: inasmuch as in many places the opulent (possessor of sacrificial food), who is visible to all, s [sic] the parent of that (pious) progeny.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***arbhāya*** — *arbhakasya alpasya yajamānādeḥ*: "of the small one, of the sacrificer and the like"; the word *arbhaka* is read among the names of the small (Ni. 3-[?]); the Nirukta author —
+
+---
+
+### Printed p. 401  (PDF 419)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 27 [?].)*
+
+> कनिनकेव विद्रधे नवे द्रुपदे अर्भके । बभ्रू यामेषु शोभेते ॥
+
+> *kaninakeva vidradhe nave drupade arbhake | babhrū yāmeṣu śobhete ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) Citing this Ṛk, he explains *arbhake* as *avadde* [?] — in the sense that "in the youthful state which is small (*anu*) …" (Ni. [?]). Agni, in comparison with the greatness of the gods, is *alpa*, "small" — the sacrificer, the sacrificer-like man — is the meaning.
+
+***kāṣṭhāsu*** — this word is read among the names of directions (Ni. [?]). *tatra kāṣṭhā ity etad anekasyāpi sattvasya nāma bhavati* [?]:
+
+> काष्ठा हि शो भवन्ति क्रान्त्वा स्थिता भवन्ति ।
+> काष्ठा उपशिशो भवन्तीतरेतरं क्रान्त्वा स्थिता भवन्ति ।
+> आदित्योऽपि काष्ठोच्यते क्रान्त्वा स्थितो भवति ।
+> आपोऽपि काष्ठा उच्यन्ते क्रान्त्वा स्थिता भवन्तीति [?] ॥
+
+> *kāṣṭhā hi śo bhavanti krāntvā sthitā bhavanti |*
+> *kāṣṭhā upaśiśo bhavantītaretaraṃ krāntvā sthitā bhavanti |*
+> *ādityo 'pi kāṣṭhocyate krāntvā sthito bhavati |*
+> *āpo 'pi kāṣṭhā ucyante krāntvā sthitā bhavantīti [?] ‖*
+
+(Ni. [?].) Because, having gone across all the regions, it spreads, it is called *kāṣṭhā*, "direction"; and because they, spreading, going across one another, remain, they are called *kāṣṭhā*; the sun, going across all regions, remains; and *Āditya*, "who stands having gone across his own course" — thus the sense is obtained. And "the distance that must be crossed", the goal of going, is also called *kāṣṭhā*.
+
+> त्वामिद्धि हवामहे सातौ वाजस्य कारवः । त्वां वृत्रेष्विन्द्र सत्पतिं नरस्त्वां काष्ठास्वर्वतः ॥
+
+> *tvāmiddhi havāmahe sātau vājasya kāravaḥ | tvāṃ vṛtreṣvindra satpatiṃ narastvāṃ kāṣṭhāsvarvataḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].)
+
+> उपो ह यद्विदथं वाजिनो गुर्भिर्विप्राः प्रमतिमिच्छमानाः । अर्वन्तो न काष्ठां नक्षमाणा इन्द्राग्नी जोहुवतो नरस्ते [?] ॥
+
+> *upo ha yadvidathaṃ vājino gurbhirviprāḥ pramatimicchamānāḥ | arvanto na kāṣṭhāṃ nakṣamāṇā indrāgnī johuvato naraste [?] ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) In such Ṛks the word *kāṣṭhā* is explained as a place (*pradeśa*; "destination") to be reached, i.e. the ground that is the goal of the racers.
+
+> तं वा एतमाहुरतिपितामहो [?] ... परमां काष्ठां प्राप्य [?] यशसा ब्रह्मवर्चसेन ॥
+
+> *taṃ vā etamāhuratipitāmaho [?] ... paramāṃ kāṣṭhāṃ prāpya [?] yaśasā brahmavarcasena ‖*
+
+(Bṛ. U. 4-[?]-[?].)
+
+---
+
+### Printed p. 402  (PDF 420)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+> महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ॥
+
+> *mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiñcitsā kāṣṭhā sā parā gatiḥ ‖*
+
+(Kaṭha 3-11.) In such statements, *kāṣṭhā* means "the place that is to be reached — the highest place". The *kāṣṭhāsu* in the Ṛk in question means "in the ten quarters".
+
+***jenyaḥ*** — *sarvatra prādurbhavanaśīlo bhavati jayaśīlo vā*: "he becomes one who appears everywhere, or one given to victory": the two meanings are given as synonyms: "manifest everywhere or victorious". According to the commentator it is derived either from the root *jani prādurbhāve* or from *ji jaye*, "to conquer"; this word is used in both these senses.
+
+> जनिष्वा हि जेन्यो अग्रे अह्नां हितो हितेष्वरुषो वनेषु । दमेदमे सप्त रत्ना दधानोऽग्निर्होता नि षसादा यजीयान् ॥
+
+> *janiṣvā hi jenyo agre ahnāṃ hito hiteṣvaruṣo vaneṣu | damedame sapta ratnā dadhāno 'gnirhotā ni ṣasādā yajīyān ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk *jenya* is explained as *utpādanīyaḥ*, "to be produced", as an adjective of Agni; and
+
+> होता जनिष्ट चेतनः पिता पितृभ्य ऊतये । प्रयक्षज्जिन्यं वसु शकेम वाजिनो यमम् ॥
+
+> *hotā janiṣṭa cetanaḥ pitā pitṛbhya ūtaye | prayakṣajjinyaṃ vasu śakema vājino yamam ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) in such Ṛks *jainyam* means "wealth to be won"; and
+
+> ते हिन्विरे अरुणं जेन्यं वस्वेकं पुत्रं तिसृणाम् । ते धामान्यमृता मर्त्यानामद्वषो अभि चक्षते ॥
+
+> *te hinvire aruṇaṃ jenyaṃ vasvekaṃ putraṃ tisṛṇām | te dhāmānyamṛtā martyānāmadvaṣo abhi cakṣate ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) in such Ṛks it is understood as "victory-bearing" or "means of victory". In the Ṛk in question either meaning agrees with Agni.
+
+***garbhebhyaḥ*** — by Agni's action in the interval, the self-nature of these [hymns] is produced; therefore the arising of these hymns and the like is such that Agni is the cause, it is explained.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** Words treated, with the *san* desiderative of *dṛś* and a *kenya* suffix in *didṛkṣeṇyaḥ*; sūtra numbers small-type, not read [?].
+
+---
+
+### Printed p. 403  (PDF 421)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 28 [?].)*
+
+*(Ṛk 5 grammar, continued, noted briefly.)* *didṛkṣeṇyaḥ* (continued: *kenya* suffix, loss of the final *a*, *ṇatva*, suffix accent); *jenyaḥ* (root *janī prādurbhāve* with *kenya*, or root *ji jaye*; "*kṛtyalyuṭo bahulam*" cited for the agent sense; guṇa of the root vowel; first *udātta*); *īḷenyaḥ* (root *iḍa stutau*; *kenya*; first *udātta*); *mahaḥ* (genitive sg. of *mahat* with loss of *ta* in Vedic, or root *maha pūjāyām* with *kvip*); *jīvase* (root *jīva prāṇadhāraṇe*; suffix *ase* in the infinitive sense; suffix accent); *purutrā* (*puru* + suffix *trā*; final *udātta*); *abhavat* (no *nighāta* because of *yat*; *aṭ* augment is *udātta*, so first-syllable *udātta*); *sūḥ* (root *ṣūṅ prasave*; *kvip*); *ebhyaḥ* (a dative sense with a case-ending substituted); *viśvadarśataḥ* (*viśvaiḥ darśataḥ*; root *dṛś*; *atac* suffix, *Uṇ.* 3-110 as printed [?]; in the *marudvṛdhādi* class, first member accent). ‖ 5 ‖
+
+*Here the 146th Sūkta ends.*
+
+---
+
+**Progress note:** Vol 11 — Sūkta 146 complete (printed pp. 380–403). Next: Sūkta 147 (5 Ṛks, Triṣṭubh), whose Anukramaṇī and heading fill printed p. 404 (PDF 422); Ṛk 1 starts on p. 405. Images in /tmp/v11a (PDF 33–422; recrop 423+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad quotes with [?] references; reference and sūtra numerals — grammar notes of pp. 402–403 kept to headwords; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
