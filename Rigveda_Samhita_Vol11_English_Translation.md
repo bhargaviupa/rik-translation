@@ -10957,4 +10957,176 @@ Thus, we may, I believe, translate here, "Agni, with such guardians as thine who
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 147 (5 Ṛks) done through printed p. 421 (Ṛks 1–4 complete; Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; its Special Topics and grammar to come, ending the sūkta). Next: printed p. 422 (PDF 440). Images in /tmp/v11a (PDF 33–439; recrop 440+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Gītā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–147; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 422  (PDF 440)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5).** ***sahasya*** — *saha iti balanāma* — "*sahas* is a name of strength"; *tatra bhavaḥ sahasyaḥ* — "born in it, therefore *sahasya*": Agni is addressed as "O one born of strength". *yate kāraṇānmathanakāle baleneṣyate*: "because, at the time of churning, by strength he is wished for [?]"; since Agni is born from the power (*bala*) of friction, this adjective is given. *sahasaḥ putra*, *sahasā jāyamānaḥ* and many such adjectives show Agni's origin and birth in many places.
+
+***duritāya*** — *śatrukṛtāya durmantraprayuktaduḥkhāya*: "for the suffering caused by a bad mantra applied by an enemy" — the sense is *śatruvinda ujjārita* [?] "a word produced by the enemy, and the sorrow arising from the mantra made by it".
+
+***mākir dhāyīḥ*** — *mākiḥ* is of the group of words *sarvapadasūnām mnātam* (?): "*hikaṃ*, *nukaṃ*" and the like (Ni. 1-[?]); these are *nipāta* particles and are among the *sambandhasūcaka* *avyaya*s; *mākiḥ* belongs to that group. *mākir dhāyīḥ* means "do not make (us) the recipients (of the bad mantra)" (*mā kṣamasva*) — or "do not give anyone the opportunity to harm us" — such is the purport.
+
+> प्रति ष्य शोको विश्वजन्यो [?] तोऽवि [?] भवा पायुर्विशो अस्या अदब्धः । यो नो दूरे अघशंसो यो अन्त्यग्ने माकिष्टे व्यथिरा दधर्षीत् ॥
+
+> *prati ṣya śoko viśvajanyo [?] to 'vi [?] bhavā pāyurviśo asyā adabdhaḥ | yo no dūre aghaśaṃso yo antyagne mākiṣṭe vyathirā dadharṣīt ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) In such Ṛks, as *mākiḥ* means "let none (harm)", so here too the prayer is made.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *sahasya* (*sahas* "strength"; *tatra bhavaḥ sahasyaḥ*; *bhave chandasi* (Pā. Sū. 4-4-110) *yat* suffix; in the vocative, *āmantritasya ca* (Pā. Sū. 6-1-198) accent: *nighāta*); *pravidvān* (*prakarṣeṇa vetti pravidvān*; root *vida jñāne*; *vido laṭo vā* … *vidaḥ śatur vasuḥ* (Pā. Sū. 7-1-36) *vasu*; *prādisamāsa*: *kṛdutarapada-prakṛtisvara*); *martaḥ* (root *mṛṅ prāṇatyāge*; *asisaṃjimṛ…* (Uṇ. Sū. 3-[?]) *tan* suffix; on account of it guṇa of the root's *ṛ*; *ra* follows; being *nit*, first *udātta*); *pāhi* (root *pā rakṣaṇe*; *loṭ* 2nd sg.; *tiṅ*-*nighāta*).
+
+---
+
+### Printed p. 423  (PDF 441)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 31 [?].)*
+
+*(Ṛk 5 grammar, continued, noted briefly.)* *stavamāna* (root *ṣṭuñ stutau*; *śānac* in the sense of *laṭ*; by *vyatyaya* *śap*-*luk* does not occur; *śap* being the cause of guṇa *o* → *ava*; *ānemuk* (Pā. Sū. 7-2-82) *muk* augment; in the vocative, *āmantrita* *nighāta*); *stuvantam* (the root as above; *śatṛ* in the sense of *laṭ*; *śap* *luk*; *sārvadhātukam apit* — since *cit*, no guṇa; *ajiśṛ…dhātubhruvām* (Pā. Sū. 6-4-87) *uvaṅ* substitution; suffix accent: first *udātta*); *agne* (being *pāda*-initial, no *aṣṭamika-nighāta*; *āmantritasya ca* first *udātta*); *duritāya* (*dur* prefix, root *iṇ gatau*; *kta*; *gatikārakopapadāt kṛt* *kṛdutarapada-prakṛtisvara*; dative sg.); *dhāyīḥ* (root *dhā dhāraṇe*; *luṅ* 2nd sg., *sip*; *itaś ca* loss of *i*; *cli* → *sic*; by *vyatyaya* the augment *iṭ*; *astisico 'pṛkte* (Pā. Sū. 7-3-96) *īṭ* for the suffix; *iṭa īṭi* (Pā. Sū. 8-2-28) loss of *sic*; *sicivṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-1) *vṛddhi* of the root's final vowel [?]; *aci* [*ac ṇiti*?] *āyādeśa*; because of *na māṅyoge* (Pā. Sū. 6-4-74) no augment *aṭ*; *tiṅ*-*nighāta*). ‖ 5 ‖
+
+*Here the 147th Sūkta ends.*
+
+---
+
+## Sūkta 148
+
+### Printed p. 423 (continued; PDF 441)
+
+*(The Kannada heading reads "The 148th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of five Ṛks beginning "Mathīd yat" is the eighth sūkta, of Dīrghatamas, Triṣṭubh, Agni deity; its use, as the middle of the three sūktas, was stated earlier [by the third and last of the group].)*
+
+> मथीद्यदिति पञ्चर्चमष्टमं सूक्तं दैर्घतमसं त्रैष्टुभमाग्नेयम् । मथीद्यदित्यनुक्रमणिका ॥ सूक्तत्रयस्य मध्यस्य तृतीयेनान्त्येन [?] पूर्वं विनियोग उक्तः ॥
+
+> *mathīdyaditi pañcarcamaṣṭamaṃ sūktaṃ dairghatamasaṃ traiṣṭubhamāgneyam | mathīdyadityanukramaṇikā ‖ sūktatrayasya madhyasya tṛtīyenāntyena [?] pūrvaṃ viniyoga uktaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *mathīd yat* is the eighth sūkta in the twenty-first anuvāka. It has five Ṛks. The ṛṣi of this sūkta is Dīrghatamas Aucathya. Agni is the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said to begin *mathīd yadīm*. As this sūkta is one of the three sūktas mentioned before, the use [of the group] has been stated already.
+
+---
+
+### Printed p. 424  (PDF 442)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+**॥ ओम् ॥**
+
+**Sūkta 148** — Maṇḍala 1, Anuvāka 21, Sūkta 148; Aṣṭaka 2, Adhyāya 2, Varga 31 [?]. Number of Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> मथीद्यदीं विष्टो मातरिश्वा होतारं विश्वाप्सुं विश्वदेव्यम् ।
+> नि यं दधुर्मनुष्यासु विक्षु स्वर्ण चित्रं वपुषे विभावम् ॥ १ ॥
+
+> *mathīdyadīṃ viṣṭo mātariśvā hotāraṃ viśvāpsuṃ viśvadevyam |*
+> *ni yaṃ dadhurmanuṣyāsu vikṣu svarṇa citraṃ vapuṣe vibhāvam ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> मथीत् । यत् । ईम् । विष्टः । मातरिश्वा । होतारम् । विश्वऽआप्सुम् । विश्वऽदेव्यम् ।
+> नि । यम् । दधुः । मनुष्यासु । विक्षु । स्वः । न । चित्रम् । वपुषे । विऽभावम् ॥ १ ॥
+
+> *mathīt | yat | īm | viṣṭaḥ | mātariśvā | hotāram | viśva 'āpsum | viśva 'devyam |*
+> *ni | yam | dadhuḥ | manuṣyāsu | vikṣu | svaḥ | na | citram | vapuṣe | vi 'bhāvam ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Mātariśvan, entering, churned out Agni, the invoker, many-formed, fit for all the gods, whom men established among human tribes, wonderful like the sun, for the sake of the sacrifice.)*
+
+> होतारं देवानामाह्वातारं विश्वाप्सुं आप्स्निति रूपनाम । नानारूपं पार्थिववैद्युतजाठराद्भेदेनाहवनीयादिभेदेन वा । यद्वा । कालीकरालयादिरूपेण ज्वालानां वैरूप्याद्विश्वरूपत्वम् । विश्वदेव्यं सर्वदेवयोग्यक्रियासाधकम् । यदीं यमेनमग्निं मातरिश्वा वृष्ट्यादिनानाम [?] ... वायुर्विष्टः काष्ठे [?] ... मथीत् अमथ्नात् । प्रावर्धयदित्यर्थः ॥ मथे विलोडने । हृस्यन्तेक्षणेति वृद्धिप्रतिषेधः ॥ पुनः स एव विशेष्यते । यमग्निं मनुष्यासु मनुष्या [...] *[small type; largely illegible; the sentence continues on p. 425]*
+
+> *hotāraṃ devānāmāhvātāraṃ viśvāpsuṃ āpsniti rūpanāma | nānārūpaṃ pārthivavaidyutajāṭharādbhedenāhavanīyādibhedena vā | yadvā | kālīkarālayādirūpeṇa jvālānāṃ vairūpyādviśvarūpatvam | viśvadevyaṃ sarvadevayogyakriyāsādhakam | yadīṃ yamenamagniṃ mātariśvā vṛṣṭyādinānāma [?] ... vāyurviṣṭaḥ kāṣṭhe [?] ... mathīt amathnāt | prāvardhayadityarthaḥ ‖ mathe viloḍane | hṛsyantekṣaṇeti vṛddhipratiṣedhaḥ ‖ punaḥ sa eva viśeṣyate | yamagniṃ manuṣyāsu manuṣyā [...] *[small type; largely illegible; the sentence continues on p. 425]**
+
+---
+
+### Printed p. 425  (PDF 443)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 31 [?].)*
+
+*(Ṛk 1 bhāṣya, continued; small type, partly legible.)*
+
+> ... कर्मे कुर्वतीषु विक्षु [?] प्रजासु पूर्वं वपुषे यज्ञसिद्ध्ये नि दधुः । धारयन्ति । मनुष्यस्य मनुषो वेति [?] ... ॥ मनुष्यास्तेजसां तेजोऽग्निं स्वर्णं स्वरेणेव सूर्यमिव चित्रं ... विभावं विविधप्रकारेण दीप्तिमन्तं [?] ... स्वश्शब्दो यास्कैवं निरुवाच ... स्वरादिक्मो भवति सु अरणः सु ईरणः स्वतो रसान्सृतो भासो ज्योतिरुत्सृतो भासते वा (नि. २-[?]) इति । ईदृशं यं निदधुस्तं मथीदिति पूर्वत्रान्वयः ॥ *[many words doubtful]*
+
+> *... karme kurvatīṣu vikṣu [?] prajāsu pūrvaṃ vapuṣe yajñasiddhye ni dadhuḥ | dhārayanti | manuṣyasya manuṣo veti [?] ... ‖ manuṣyāstejasāṃ tejo 'gniṃ svarṇaṃ svareṇeva sūryamiva citraṃ ... vibhāvaṃ vividhaprakāreṇa dīptimantaṃ [?] ... svaśśabdo yāskaivaṃ niruvāca ... svarādikmo bhavati su araṇaḥ su īraṇaḥ svato rasānsṛto bhāso jyotirutsṛto bhāsate vā (ni. 2-[?]) iti | īdṛśaṃ yaṃ nidadhustaṃ mathīditi pūrvatrānvayaḥ ‖ *[many words doubtful]**
+
+**Pratipadārtha (Kannada).** *hotāram* — the one who invites the gods to the sacrifice; *viśvāpsum* — having many forms, by the differences such as earthly, lightning-born, belly-born, or from the dark-and-fierce flames, the many-formed; *viśvadevyam* — the representative worthy of the worship of all the gods (and); *yam* — whom; *manuṣyāsu* — in the human; *vikṣu* — the sacrificers' tribes; *vapuṣe* — for the sake of the sacrifice (for its performance) [or: for an embodiment of the accomplishment]; *citram* — one pleasing to the mind; *vibhāvam* — the one possessed of various kinds of radiance, as the *sūrya*; *svaḥ na* — like the sun; *ni dadhuḥ* — they establish, being well-founded in the human species (as one on whom the sacrifice rests); *yadīm* — whom indeed; *mātariśvā* — the wind that moves in the sky; *viṣṭaḥ* — having entered (into the fuel, etc.); *mathīt* — (Agni) he churned out, he kindled.
+
+**Bhāvārtha.** The wind, entering the fuel, kindled Agni — the invoker of the gods, the many-formed, the worthy representative of the worship of all the gods — whom, for the sake of the sacrifice, the human sacrificers established among mortal men, like the wonderful, variously radiant sun, who is pleasing to the mind.
+
+**English Translation (as printed).** The wind, penetrating ( amidst the fuel ), has excited ( Agni ), the invoker (of the gods) the multiform, the minister of all the deities, whom they have established amongst mortal worshippers for the accomplishment of sacrifice, like the wonderful and variously radiant sun.
+
+---
+
+### Printed p. 426  (PDF 444)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***viśvāpsum*** — *āpsiti rūpanāma*: "*āpsa* is a name of form"; *nānārūpaṃ pārthivavaidyutajātharādibhedenāhavanīyādibhedena vā*: "of many forms, by the differences earthly, lightning, belly and the like, or by the differences of the Āhavanīya and the others"; or [*yadvā*] *kālīkarālyādirūpeṇa jvālānāṃ vairūpyād viśvarūpatvam*: "from the many forms of the flames, such as Kālī, Karālī, the all-formedness". *pārthiva*, *vaidyuta*, *jāṭhara* — with the differences earthly, in lightning and in the belly; or the Dakṣiṇāgni, Gārhapatya and Āhavanīya — and in the many-formed flames from Kālī and Karālī etc.: thus the adjective of Agni.
+
+***trīṇi jānā*** (*trīṇi jānā vibhṛtā*) — in such passages the three different forms of manifestation of Agni, who reflect the root-principle of the world, are shown. What are they?
+
+> त्रिस्थानं जैनमर्चन्ति [?] होत्रायामवृक्तबर्हिषः । इह्यैव पवमानोऽग्निर्मध्ये मोघे ग्निर्वनस्पतिः ॥ [?]
+> अमुष्मिन्नेव विप्रैस्तु लोके ऽग्निः शुचिरुच्यते । इहाग्निर्भूतस्तु शिखिर्लोके स्तुतिभिरीळिते [?] ॥
+> जातवेदाः स्तुतो मध्ये स्तुतो वैश्वानरो दिवि ॥
+
+> *tristhānaṃ jainamarcanti [?] hotrāyāmavṛktabarhiṣaḥ | ihyaiva pavamāno 'gnirmadhye moghe gnirvanaspatiḥ ‖ [?]*
+> *amuṣminneva vipraistu loke 'gniḥ śucirucyate | ihāgnirbhūtastu śikhirloke stutibhirīḷite [?] ‖*
+> *jātavedāḥ stuto madhye stuto vaiśvānaro divi ‖*
+
+(Bṛ. De. 1-[?]–[?].) Of these three kinds, Agni that manifests on earth is known as *Pavamāna* Agni; the Agni in the middle world as the *Vanaspati*-Agni [?]; the Agni in heaven as *Śuci* Agni. These three divisions are also given in the Taittirīya-saṃhitā:
+
+> अग्नये पवमानाय पुरोडाशमष्टाकपालं निर्वपेदग्नये पावकायाग्नये शुचये ।
+
+> *agnaye pavamānāya puroḍāśamaṣṭākapālaṃ nirvapedagnaye pāvakāyāgnaye śucaye |*
+
+(Tai. Saṃ. 2-[?]-[?].) The divisions *Pavamāna, Śuci, Pāvaka* are read in it. Besides these, Agni, *Jātavedas* and *Vaiśvānara* are also names showing three kinds of forms of Agni; in some places *divas pari prathamaṃ jajñe* (Ṛ. Saṃ. 10-[?]-[?]; Tai. Saṃ. 1-[?]-[?]) and the like, Agni, as the submarine fire (*baḍabānala*) in the water, as the Āditya in heaven [?], as lightning in the atmosphere, is said to be perceived. Likewise:
+
+> विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम् ।
+
+> *viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapantam |*
+
+(Praśna Up. 1-8.) In such statements he is praised as the "all-formed", as having a thousand rays, as all-knowing, as the inner self of all beings. And:
+
+---
+
+### Printed p. 427  (PDF 445)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 31 [?].)*
+
+> काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥
+
+> *kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā | sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*
+
+(Muṇḍaka 1-2-4.) In such sentences, since the variform nature of the flames of Agni is said, the adjective *viśvāpsum* can be applied to this aspect of Agni's description. The all-formedness of Agni, who is all-formed, is described in the Śatapatha Brāhmaṇa:
+
+> तमब्रवीद्रुद्रोऽसीति । तद्वाऽअस्य तन्नामाकरोद्यदग्निं रुद्रोऽभवदग्निर्वै रुद्रो यदरोदीत्तस्माद्रुद्रः । सोऽब्रवीज्ज्यायान्वा अतोऽस्मि धेह्येव मे नामेति ॥
+
+> *tamabravīdrudro 'sīti | tadvā 'asya tannāmākarodyadagniṃ rudro 'bhavadagnirvai rudro yadarodīttasmādrudraḥ | so 'bravījjyāyānvā ato 'smi dhehyeva me nāmeti ‖*
+
+Prajāpati, calling Agni "Rudra", [Agni] said, "I am greater than that; give me another name".
+
+> तमब्रवीत्सर्वोऽसीति । तद्वाऽअस्य तन्नामाकरोदापोऽभवन्नापो वै सर्वोद्भ्यो हीदं सर्वं जायते । सोऽब्रवीज्ज्यायान्वा अतोऽस्मि धेह्येव मे नामेति ॥
+
+> *tamabravītsarvo 'sīti | tadvā 'asya tannāmākarodāpo 'bhavannāpo vai sarvodbhyo hīdaṃ sarvaṃ jāyate | so 'bravījjyāyānvā ato 'smi dhehyeva me nāmeti ‖*
+
+Then Prajāpati said to Agni, "You are Sarva"; Agni said that he was greater than that and asked for another name.
+
+> तमब्रवीत्पशुपतिरसीति । तद्वाऽअस्य तन्नामाकरोदोषधयोऽभवन्नोषधयो वै पशुपतिस्तस्माद्यदा पशव ओषधीर्लभन्तेऽथ पतीयन्ति । सोऽब्रवीज्ज्यायान्वा ... ॥
+
+> *tamabravītpaśupatirasīti | tadvā 'asya tannāmākarodoṣadhayo 'bhavannoṣadhayo vai paśupatistasmādyadā paśava oṣadhīrlabhante 'tha patīyanti | so 'bravījjyāyānvā ... ‖*
+
+The forms of the plants, because they are of his inner nature [?], "you are Paśupati"; he said: "I am greater; give me another name."
+
+> तमब्रवीदुग्रोऽसीति । तद्वाऽअस्य तन्नामाकरोद्वायुरभवद्वायुर्वा उग्रस्तस्माद्यदा बलवद्वात्युग्रो वातीत्याहुः । सोऽब्रवीज्ज्यायान् ... ॥
+
+> *tamabravīdugro 'sīti | tadvā 'asya tannāmākarodvāyurabhavadvāyurvā ugrastasmādyadā balavadvātyugro vātītyāhuḥ | so 'bravījjyāyān ... ‖*
+
+Being fierce, as the wind, "you are Ugra"; and again Agni asked for another name:
+
+> तमब्रवीदशनिरसीति । तद्वाऽअस्य तन्नामाकरोद्विद्युदभवद्विद्युद्वा अशनिस्तस्माद्यं विद्युद्धन्त्यशनिरवधीरित्याहुः ... ॥
+
+> *tamabravīdaśanirasīti | tadvā 'asya tannāmākarodvidyudabhavadvidyudvā aśanistasmādyaṃ vidyuddhantyaśaniravadhīrityāhuḥ ... ‖*
+
+(Śa. Brā. 6-1-3-[?].)
+
+---
+
+**Progress note:** Vol 11 — Sūkta 147 complete (printed pp. 404–423). Sūkta 148 (5 Ṛks, Triṣṭubh) begun: printed pp. 423–427 done (Anukramaṇī, heading, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English; Special Topics of Ṛk 1 begun, running on beyond p. 427 with Śatapatha-Brāhmaṇa quotations). Next: printed p. 428 (PDF 446). Images in /tmp/v11a (PDF 33–445; recrop 446+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Taittirīya/Bṛhaddevatā/Śatapatha quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–148; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
