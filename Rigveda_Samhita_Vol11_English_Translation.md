@@ -11299,4 +11299,148 @@ Citing this Ṛk, he shows the sense of the word *manma*. Durgācārya, explaini
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 148 (5 Ṛks) done through printed p. 433 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done; its grammar note ends on p. 434). Next: printed p. 434 (PDF 452), then Ṛks 3–5, then Sūkta 149. Images in /tmp/v11a (PDF 33–451; recrop 452+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Śatapatha/Bṛhaddevatā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–148; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 434  (PDF 452)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+*(Ṛk 2 grammar, end, noted briefly.)* *juṣanta* (root *juṣī prītisevanayoḥ*; *chandasi* *laṅ* [?]; 3rd plural; by *bahulaṃ chandasy māṅyoge 'pi* no *aṭ* augment; no *nighāta* since *pāda*-initial; suffix accent); *upastutim* (root *ṣṭuñ stutau*; in the sense of action, *striyāṃ ktin* (Pā. Sū. 3-3-94) *ktin*; *tāsau ca niti* [?] (Pā. Sū. 6-2-50) *gati* (*upa*) keeps its natural accent); *bharamāṇasya* (root *bhṛñ bharaṇe*; *śānac* in the sense of *laṭ*; *śap*; *ānemuk* *muk* augment; the *lasārvadhātuka anudātta* (*tāsyanudāttet…*), so the root accent remains); *kāroḥ* (root *ḍukṛñ karaṇe*; *kṛvāpājimi…* (Uṇ. Sū. 1-1) *uṇ* suffix; *ac ṇṇiti* [?] *vṛddhi*; *ra* follows; suffix accent: final *udātta*). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> नित्ये चिन्नु यं सदने जग्रभ्रे प्रशस्तिभिर्दधिरे यज्ञियासः ।
+> प्र सू नयन्त गृभयन्त इष्ट्वी अश्वासो न रथ्यो रराहाणाः ॥ ३ ॥
+
+> *nitye cinnu yaṃ sadane jagrabhre praśastibhirdadhire yajñiyāsaḥ |*
+> *pra sū nayanta gṛbhayanta iṣṭvī aśvāso na rathyo rarāhāṇāḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> नित्ये । चित् । नु । यम् । सदने । जग्रभ्रे । प्रऽशस्तिऽभिः । दधिरे । यज्ञियासः ।
+> प्र । सु । नयन्ते । गृभयन्तः । इष्ट्वी । अश्वासः । न । रथ्यः । रराहाणाः ॥ ३ ॥
+
+> *nitye | cit | nu | yam | sadane | jagrabhre | pra 'śasti 'bhiḥ | dadhire | yajñiyāsaḥ |*
+> *pra | su | nayante | gṛbhayantaḥ | iṣṭvī | aśvāsaḥ | na | rathyaḥ | rarāhāṇāḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: the sacrificers lay hold of Agni in his own constant seat and keep him there with praises, then, as rapid horses draw the chariot, they lead him on to the sacrifice.)*
+
+> यज्ञियासो यज्ञयोग्या यजमाना ऋत्विजो वा यं मथनेनोत्पन्नमग्निं नित्ये चित्सदने नित्य इव गार्हपत्यलक्षणेऽग्न्यासादनस्थाने नु क्षिप्रं जग्रभ्रे गृह्णन्ति । ग्रहेर्लिटीरो र इति रेभावः ॥ हृग्रहोर्भ इति भत्वम् ॥ नित्यं गतेः [?] ... धार्यते नित्यं गार्हपत्यमिति सूत्रार्थाद्गार्हपत्यो नित्यः ... तदाश्रयेत्यनन्तरं [?] ... प्रशस्तिभिः स्तुतिभिर्दधिरे [?] ... *[small type; the remainder continues on p. 435; many words doubtful]*
+
+> *yajñiyāso yajñayogyā yajamānā ṛtvijo vā yaṃ mathanenotpannamagniṃ nitye citsadane nitya iva gārhapatyalakṣaṇe 'gnyāsādanasthāne nu kṣipraṃ jagrabhre gṛhṇanti | graherliṭīro ra iti rebhāvaḥ ‖ hṛgrahorbha iti bhatvam ‖ nityaṃ gateḥ [?] ... dhāryate nityaṃ gārhapatyamiti sūtrārthādgārhapatyo nityaḥ ... tadāśrayetyanantaraṃ [?] ... praśastibhiḥ stutibhirdadhire [?] ... *[small type; the remainder continues on p. 435; many words doubtful]**
+
+---
+
+### Printed p. 435  (PDF 453)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 32 [?].)*
+
+*(Ṛk 3 bhāṣya, continued.)*
+
+> मुच्यते [?] गृहीत्वा प्रशस्तिभिः प्रशंसाभिः स्तुतिभिर्दधिरे । धारयन्त्याहवनीयार्थं [?] तत्रैव [?] स्थापयन्ति । ततः [?] यज्ञनिमित्तभूते सति यज्ञयित्वा प्र सू नयन्ते [?] प्रणयन्ति । तत्र दृष्टान्तः । रराहाणा रंहसा गच्छन्तः । रहि गतौ । छान्दसे लिटः कानच् । अनिट्कमागमशासनमनित्यमिति नुमभावः ॥ रथ्यो रथवन्तः [?] । यथा रथ्यानश्वासो ना अश्वा इव । ते यथा धृष्टा रथस्वामिनमभिमतदेशं नयन्ति तद्वत् ॥ *[small type; partly legible]*
+
+> *mucyate [?] gṛhītvā praśastibhiḥ praśaṃsābhiḥ stutibhirdadhire | dhārayantyāhavanīyārthaṃ [?] tatraiva [?] sthāpayanti | tataḥ [?] yajñanimittabhūte sati yajñayitvā pra sū nayante [?] praṇayanti | tatra dṛṣṭāntaḥ | rarāhāṇā raṃhasā gacchantaḥ | rahi gatau | chāndase liṭaḥ kānac | aniṭkamāgamaśāsanamanityamiti numabhāvaḥ ‖ rathyo rathavantaḥ [?] | yathā rathyānaśvāso nā aśvā iva | te yathā dhṛṣṭā rathasvāminamabhimatadeśaṃ nayanti tadvat ‖ *[small type; partly legible]**
+
+**Pratipadārtha (Kannada).** *yajñiyāsaḥ* — the sons fit for the sacrifice, or the sacrificers; *yam* — (born of the churning of the fire-sticks) whom, that Agni; *nitye cit sadane* — in the eternal abode, in the Gārhapatya; *nu* — quickly; *jagrabhre* — they lay hold of (and); *praśastibhiḥ* — with praises; *dadhire* — they keep him established, so that he remains (in the Āhavanīya also); *iṣṭvī* — for the sake of the sacrifice, [thus] having sacrificed; *gṛbhayantaḥ* — (thus) holding; *rarahāṇāḥ* — those who run speedily; *rathyaḥ* — the horses yoked to the chariot; *aśvāsaḥ na* — like mares; *pra su nayante* — they lead him eagerly to the place of the sacrifice.
+
+**Bhāvārtha.** The sons fit to perform the sacrifice, or the sacrificers, quickly hold the Agni born of the churning in his eternal abode of the Gārhapatya and keep him established there with praises, for the Āhavanīya. After that, for the sacrifice, thus holding him, they lead him, as the speedily running chariot-horses, yoked, bear a rider to the place of the sacrifice.
+
+**English Translation (as printed).** Him, whom the worshippers lay hold of in his perpetual abode, they detain by their praises, and the holders convey him diligently to the sacrifice, as rapid coursers, harnessed to a car, (bear the rider to his destination).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***rarahāṇāḥ*** — *gatyarthakavāda rahi dhātuvinda niṣpannavāgi raṃhasā gacchantaḥ*: "derived from the root *rahi*, in the sense of going; going with speed" — "moving rapidly" is an adjective of the horses.
+
+---
+
+### Printed p. 436  (PDF 454)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+> आ त्वा जुवो रारहाणा अभि प्रयो वायुं न वहन्त्विह पूर्वपीतये । सोमस्य पूर्वपीतये ॥
+
+> *ā tvā juvo rārahāṇā abhi prayo vāyuṃ na vahantviha pūrvapītaye | somasya pūrvapītaye ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In such Ṛks too, the same sense is given, and it is used as a qualifier of the horses.
+
+***nitye cit sadane*** — *gārhapatyalakṣaṇe agnyāsādanasthāne śāśvatasthāne*: "in the place for the settling of the fire, of the form of the Gārhapatya; in the eternal place" — "in the established place that is of the form of the Gārhapatya".
+
+***iṣṭvī*** — the meaning of the word *iṣṭi* was explained in the previous sūkta.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *nitye* (*tyap*: *neddhrūva* … *iti vaktavyam* [?]: by this statement the suffix *tyap* is *pit*, hence *anudātta*); *jagrabhre* (root *graha upādāne*; *chandasi* present sense *liṭ*; *irayor re* (Pā. Sū. 6-4-76) *re* for the suffix; doubling of the root; *kuhoś cuḥ* (Pā. Sū. 7-4-62) *ja* for the reduplicate's *ga* [sic]; *hṛgraholbhaś chandasi* *bha* for the root's *ha*; since *yat* is connected [?], *nighāta* is prevented; suffix accent: final *udātta*); *praśastibhiḥ* (root *śaṃsu stutau*; in the sense of action, *ktin*; *anidītāṃ hala…* loss of the nasal; *tāsau ca niti* *gati* natural accent; instr. plural); *dadhire* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* 3rd plural; suffix accent: final *udātta*); *yajñiyāsaḥ* (*yajñam arhanti iti yajñiyāḥ*; *yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-71) *gha* suffix; *āyaneyīnīyiyaḥ…* (Pā. Sū. 7-1-2) *iya* for *gha*; suffix accent: first *udātta*); *su* (*nipātasya ca* (Pā. Sū. 6-3-[?]) lengthening in the *saṃhitā*); *nayante* (root *ṇīñ prāpaṇe*; *chandasi* present sense *laṭ*; 3rd plural; *chandasi* no *aṭ*; *tiṅ*-*nighāta*); *gṛbhayantaḥ* (root *graha upādāne*; *ṇijanta*, on that *laṭ* → *śatṛ*; *hṛgraholbhaś chandasi* *bha*; the *lasārvadhātuka* *anudātta*, so the *ṇic* accent remains).
+
+---
+
+### Printed p. 437  (PDF 455)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 33 [?].)*
+
+*(Ṛk 3 grammar, end, noted briefly.)* *aśvāsaḥ* (*jas* following, *ājjaserasuk* (Pā. Sū. 7-1-50) *asuk*); *rathyaḥ* (*rathaḥ yeṣām asti iti rathyāḥ*; *chandasīvanipau* (Pā. Sū. 5-2-109) *ya* in the sense of *matup*; *jas* following, *yāṇādeśa*; as the *udātta* is to be replaced by *yaṇ*, *anudātta* vibhakti follows, *udāttasvaritayor yaṇaḥ svaritaḥ* (Pā. Sū. 8-2-4) *svarita* accent); *rarahāṇāḥ* (root *rahi gatau*; in *chandasi* *liṭ*, then *liṭaḥ kānajvā* (Pā. Sū. 3-2-106) *kānac*; by the *paribhāṣā* *āgamānuśāsanam anityam*, no *nuṃ* augment; because of the suffix, doubling of the root; *aṭkupvāṅ…* *ṇatva* of the suffix's *n*; *cit*: final *udātta*). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> पुरूणि दस्मो नि रिणाति जम्भैरादोचते वन आ विभावा ।
+> आदस्य वातो अनु वाति शोचिरस्तुर्न शर्यामसनामनु द्यून् ॥ ४ ॥
+
+> *purūṇi dasmo ni riṇāti jambhairādocate vana ā vibhāvā |*
+> *ādasya vāto anu vāti śocirasturna śaryāmasanāmanu dyūn ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> पुरूणि । दस्मः । नि । रिणाति । जम्भैः । आत् । रोचते । वने । आ । विभावा ।
+> आत् । अस्य । वातः । अनु । वाति । शोचिः । अस्तुः । न । शर्याम् । असनाम् । अनु । द्यून् ॥ ४ ॥
+
+> *purūṇi | dasmaḥ | ni | riṇāti | jambhaiḥ | āt | rocate | vane | ā | vibhāvā |*
+> *āt | asya | vātaḥ | anu | vāti | śociḥ | astuḥ | na | śaryām | asanām | anu | dyūn ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: the destroyer, Agni, burns many trees with his jaws of flame and shines in the forest; the wind blows after his flame, as an archer's arrow-flight, every day.)*
+
+> अत्र दावाग्निरूपेणायं स्तूयते । दस्मः उपक्षयितायाग्निः पुरूणि बहूनि वृक्षादीनि नि रिणाति [?] निरेकत्र [?] हिनस्ति ॥ री गतिरेषणयोः [?] । प्यादीनां ह्रस्वः [?] । केन साधनेनेति तदुच्यते । जम्भैर्दन्तस्थानीयैर्ज्वालाभिः [?] । आदनन्तरं वने वृक्षाधाने [?] ... विभावा विविधप्रकाशयुक्तः सन्रोचते दीप्तो भवति । आदनन्तरमस्य ... वातो अग्निं सखिभूतो वायुर्द्यून् [?] ... *[small type; the remainder on p. 438; partly legible]*
+
+> *atra dāvāgnirūpeṇāyaṃ stūyate | dasmaḥ upakṣayitāyāgniḥ purūṇi bahūni vṛkṣādīni ni riṇāti [?] nirekatra [?] hinasti ‖ rī gatireṣaṇayoḥ [?] | pyādīnāṃ hrasvaḥ [?] | kena sādhaneneti taducyate | jambhairdantasthānīyairjvālābhiḥ [?] | ādanantaraṃ vane vṛkṣādhāne [?] ... vibhāvā vividhaprakāśayuktaḥ sanrocate dīpto bhavati | ādanantaramasya ... vāto agniṃ sakhibhūto vāyurdyūn [?] ... *[small type; the remainder on p. 438; partly legible]**
+
+---
+
+### Printed p. 438  (PDF 456)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+*(Ṛk 4 bhāṣya, continued.)*
+
+> प्रतिदिनमनुकूलं वाति । ज्वाला आदाय गच्छति । तत्र दृष्टान्तः । अस्तुः प्रेषकः [?] सकाशादेषाणां [?] गच्छन्तीं शर्यां न । शरो नाम हिंसासाधनलोहमयमिषुमुखम् । तत्प्रचुरम् । यद्वा । शरो नाम वंशान्तरजातीयः काष्ठविशेषः [?] । तद्विकारमिषुमिव । शर्याम् इषवः [?] शरमय्यः [?] । यद्वा शरः शरमय्यः । शर इव शर्याः । अथवा शरो हिंसा तत्कारोतीति शर्याः इषवः । ... तां यथा वायुर्नोदेकजन्मोपेगो वानुकूलं प्रेरयति तद्वत् ॥ *[small type; partly legible]*
+
+> *pratidinamanukūlaṃ vāti | jvālā ādāya gacchati | tatra dṛṣṭāntaḥ | astuḥ preṣakaḥ [?] sakāśādeṣāṇāṃ [?] gacchantīṃ śaryāṃ na | śaro nāma hiṃsāsādhanalohamayamiṣumukham | tatpracuram | yadvā | śaro nāma vaṃśāntarajātīyaḥ kāṣṭhaviśeṣaḥ [?] | tadvikāramiṣumiva | śaryām iṣavaḥ [?] śaramayyaḥ [?] | yadvā śaraḥ śaramayyaḥ | śara iva śaryāḥ | athavā śaro hiṃsā tatkārotīti śaryāḥ iṣavaḥ | ... tāṃ yathā vāyurnodekajanmopego vānukūlaṃ prerayati tadvat ‖ *[small type; partly legible]**
+
+**Pratipadārtha (Kannada).** *dasmaḥ* — Agni, of the nature of burning; *purūṇi* — many trees; *jambhaiḥ* — by the flames that are like his teeth; *ni riṇāti* — burns up completely; *āt* — after that; *vane* — in the forest, [now] bare of trees; *vibhāvā* — shining with various kinds of light; *rocate* — shines; *āt* — afterwards; *vātaḥ* — (his friend) the wind; *astuḥ na* — like the arrow shot by an archer; *śaryām* — [at the speed] of a fast-moving arrow; *asanām* — an arrow going with speed; *anu dyūn* — every day; *asya* — of this Agni; *śociḥ* — the flame (bearing it along); *anu vāti* — blows favourably.
+
+**Bhāvārtha.** The burning Agni completely consumes many trees with his tooth-like flames. After that, in the forest now bare of trees, he shines with many kinds of light. And his friend the wind, like a fast arrow shot by an archer, bears his flame along and blows favourably every day.
+
+**English Translation (as printed).** The destroyer, (Agni), consumes numerous (tree) by his flames and shines with manifold radiance in the forest: the favouring wind blows (the flames) onwards day by day, like the swift arrows of an archer.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***dasmaḥ*** — the word *dasma* in the sense "burning" and "beautiful, to be seen" — both meanings are made known in the same section, in the Ṛk 1-[?]-[?].
+
+***jambhaiḥ*** — the particular sense of this word is given in the Ṛk 1-[?]-[?]; in this Ṛk "by the flames, like teeth".
+
+---
+
+### Printed p. 439  (PDF 457)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 33 [?].)*
+
+> शर्या अङ्गुलयो भवन्ति सृजन्ति कर्माणि । शर्या इषवः शरमय्यः । शरः शृणातेः ॥
+
+> *śaryā aṅgulayo bhavanti sṛjanti karmāṇi | śaryā iṣavaḥ śaramayyaḥ | śaraḥ śṛṇāteḥ ‖*
+
+(Ni. 2-16.) The Nirukta author has given two meanings for *śaryā*: first, "the fingers are called *śaryā* since they produce actions (*sṛjanti karmāṇi*)"; second, the derivation of *śaryā* in the sense "arrows" from the root *śṛ*, "to hurt", is given. Then —
+
+> अभ्यभि हि श्रवसा ततर्दिथोत्सं न कं चिज्जनपानमक्षितम् । शर्याभिर्न भरमाणो गभस्त्योः ॥
+
+> *abhyabhi hi śravasā tatardithotsaṃ na kaṃ cijjanapānamakṣitam | śaryābhirna bharamāṇo gabhastyoḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) Durgācārya, explaining this Ṛk, says *śaryābhir na bharamāṇaḥ*: "bearing, as one bears with arrows" — *yathā kaścit kaṃcit abhighātāya iṣubhir yodhet* ("as someone fights someone with arrows to strike him"); for the word *śaryābhiḥ* he gives "by arrows". Sāyaṇa, however, gives "by fingers". Both are possible. In the Ṛk at hand Sāyaṇa explains *śaraḥ nāma hiṃsāsādhanalohamayam iṣumukham tatpracuram* — "*śara* is an iron arrow-head, a means of killing; one who is rich in these" — or "*śaraḥ nāma vaṃśāntarajātīyaḥ kāṣṭhaviśeṣaḥ*, a kind of wood, of a species of reed; arrows made of that"; or the sense that they are made as *śara*, "means of harm". This derivation he has shown.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *dasmaḥ* (root *dasu upakṣaye*, *antarbhāvitaṇyartha*; *iṣiyudhīndhi…* (Uṇ. Sū. [?]) *mak* suffix; suffix accent: final *udātta*); *riṇāti* (root *rī gatireṣaṇayoḥ*; *laṭ* 3rd sg. *tip*; *kryādibhyaḥ śnā*: *śnā*; *prādīnāṃ hrasvaḥ* (Pā. Sū. 6-4-113 [?]) shortening of the root; *aṭkupvāṅ…*; the *vikaraṇa* accent; *tiṅ*-*nighāta*); *rocate* (root *ruca dīptau*; *laṭ* 3rd sg.; *tiṅ*-*nighāta*); *vibhāvā* (*vividhaṃ bhāḥ yasya saḥ vibhāvā*; *ato manin…* (Pā. Sū. 3-2-74) *vanip* suffix; being *pit*, it is *anudātta*; *kṛdutarapada-prakṛtisvara*).
+
+---
+
+**Progress note:** Vol 11 — Sūkta 148 (5 Ṛks) done through printed p. 439 (Ṛks 1–3 complete; Ṛk 4 complete except its grammar note, which ends on p. 440). Next: printed p. 440 (PDF 458), then Ṛk 5, then Sūkta 149. Images in /tmp/v11a (PDF 33–457; recrop 458+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Śatapatha/Bṛhaddevatā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–148; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
