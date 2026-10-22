@@ -10277,4 +10277,146 @@ In such Ṛks, *vavakṣe* is "is carried (or: made to be borne)": *uhyate*, *va
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 146 (5 Ṛks) done through printed p. 392 (Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; its Special Topics and grammar to come on p. 393). Next: printed p. 393 (PDF 411). Images in /tmp/v11a (PDF 33–410; recrop 411+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 393  (PDF 411)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 26 [?].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3).** ***sumeke*** — *śobhanakarmāṇau śobhanamehane vā, paricaraṇakuśale ity arthaḥ* — "having excellent actions, or excellent … ; skilled in service": Sāyaṇa here explains it thus. In general this word is used in many places in the sense of "firmly established" (*pratiṣṭhāpita*) [?]. Examples:
+
+> अच्छिद्रा शर्म जरितः पुरूणि देवाँ अच्छा दीद्यानः सुमेधाः । रथो न सस्निरभि वक्षि वाजमग्ने त्वं रोदसी नः सुमेके ॥
+
+> *acchidrā śarma jaritaḥ purūṇi devā~ acchā dīdyānaḥ sumedhāḥ | ratho na sasnirabhi vakṣi vājamagne tvaṃ rodasī naḥ sumeke ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In such Ṛks *sumeke* — *śobhanarūpopete svakīyaprabhābhiḥ prakāśayukte*: "endowed with beautiful form, shining with their own lustre"; i.e. "having beautiful form, shining with their own splendour". In the Ṛk at hand, the Hotṛ and Adhvaryu, or the sacrificer and his wife — the two (*dhenū*) — are praised for their excellent acts of service; this adjective probably belongs to them.
+
+***mimāne*** — *sampādayitryau, parisṛtya saṃvādi-takartṛ* [?]: "the two who accomplish; having surrounded".
+
+***viṣvak*** — *sarvataḥ*: "everywhere" or "together"; both meanings are possible.
+
+> तव भ्रमास आशुया पतन्त्यनु स्पृश धृषता शोशुचानः । तपूंष्यग्ने जुह्वा पतङ्गानसंदितो वि सृज विष्वगुल्काः ॥
+
+> *tava bhramāsa āśuyā patantyanu spṛśa dhṛṣatā śośucānaḥ | tapūṃṣyagne juhvā pataṅgānasaṃdito vi sṛja viṣvagulkāḥ ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) In such Ṛks, everywhere *viṣvak* is given the sense "on all sides". In the Ṛk at hand it is the sense that the Hotṛ and Adhvaryu, together, serve him.
+
+***dhenū*** — *īdṛśyau adhvaryuyajamānarūpe jāyāpatirūpe vā dhenū*: "the two cows, in the form of the Adhvaryu and sacrificer, or of the wife and husband": here Agni is the calf, and to the sacrificer and his wife (or the Hotṛ and the Adhvaryu) as cows are likened. As for Agni and them there is such mutual relationship of affection, and as, to the cows, the arrival of the calf gives delight, so the arrival of Agni gives delight to them — such is the purport. This word is used in many places in the sense *prīṇayitryau harṣadāyakau*, "the two who please, the two who give delight":
+
+> महास्त्वधस्थे ध्रुव आ निषत्तोऽन्तर्द्यावा माहिने हर्यमाणः । आस्क्रे सपत्नी अजरे अमृक्ते सबर्दुघे उरुगायस्य धेनू ॥
+
+> *mahāstvadhasthe dhruva ā niṣatto 'ntardyāvā māhine haryamāṇaḥ | āskre sapatnī ajare amṛkte sabardughe urugāyasya dhenū ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].)
+
+---
+
+### Printed p. 394  (PDF 412)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+In this Ṛk, *dhenū* is an adjective of heaven and earth. In the passage where Agni is described as of the form of a calf, the word *dhenū* is explained as *prīṇayitryau*, "the two who please".
+
+> माता च यत्र दुहिता च धेनू सबर्दुघे धापयेते समीची । ऋतस्य ते सदसीळे अन्तर्महद्देवानामसुरत्वमेकम् ॥
+
+> *mātā ca yatra duhitā ca dhenū sabardughe dhāpayete samīcī | ṛtasya te sadasīḷe antarmahaddevānāmasuratvamekam ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In this Ṛk too, it is an adjective of heaven and earth: *jagataḥ prīṇayitryau jagatsarvasya harṣadāyakau* — "the two who please the world, who give delight to the whole world". By this, in the Ṛk at hand too, the attribute *harṣadāyakatva* is the principal one. The Hotṛ and Adhvaryu — and the sacrificer and his wife — go out to meet and serve Agni, who is in the form of a calf, with affection, is the purport.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *vatsam* (root *vada vyaktāyāṃ vāci*; *vyatyayo bahulam* [?] (Uṇ. Sū. 3-[?]) *sa* suffix; *khari ca*: *takāra* substituted for the root's *dakāra*; final *udātta* from the suffix accent); *saṃcarantī* (root *cara gatibhakṣaṇayoḥ*; *śatṛ* in the sense of *laṭ*; feminine: *ugitaś ca* *ṅīp*; *śapśyanoḥ nityam* (Pā. Sū. 7-1-81) *num* augment; *lasārvadhātuka* *anudātta*, hence the root accent remains; *prādisamāsa*: *kṛdutarapada-prakṛtisvara*; dual: *supāṃ sulug* (Pā. Sū. 7-1-39) preceding-vowel lengthening); *viṣvak* (root *añcu gatipūjanayoḥ*; with *viṣu* as the *upapada*, *ṛtvik-dadhṛk…* (Pā. Sū. 3-2-59) *kvin* suffix; *anidītāṃ halaḥ…* (Pā. Sū. 6-4-24) loss of the penultimate nasal; *kvinpratyayasya kuḥ* (Pā. Sū. 8-2-62) *ku* for the root's *c*); *carataḥ* (root *cara gatibhakṣaṇayoḥ*; *laṭ* 3rd dual; *tiṅ*-*nighāta*); *sumeke* (root *miṅ* [mi?] *snehane*; *ghañ* in the sense of action and state; *lopo 'sya* [?]: *yor*… by *vyatyaya* *hakāra* → *kakāra*; the accent by *ñit*: *ādyudātta*; in the compound *ādyudāttaṃ dvyac chandasi* (Pā. Sū. 6-1-119) *uttarapadāntodātta* [?]; dual); *anapavṛjyān* (*na apavṛjyaḥ*, *anapavṛjyaḥ*; *nañsubhyām* (Pā. Sū. 6-2-172) *uttarapadāntodātta*; accusative plural).
+
+---
+
+### Printed p. 395  (PDF 413)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 26 [?].)*
+
+*(Ṛk 3 grammar, end.)* *adhvanaḥ* (root *ada bhakṣaṇe*; *adervṛcche* [?] (Uṇ. Sū. 4-[?]) *kvanip* suffix; *ṭakāra* → *antarvartinī* [?]; the root accent remains, the suffix being *pit*; *saṃyogāder…*, since *nasaṃyogān manttāt* (Pā. Sū. 6-4-137) ... in the accusative plural the *a* of *an* is not lost [?]); *mimāne* (root *māṅ māne*; *juhotyādi*; *laṭ*, *śānac*; *śluḥ* vikaraṇa; *bhṛñāmit* (Pā. Sū. 7-4-76) *itva* of the reduplicate; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*; dual; likewise in *dadhāne* the root *dhāñ* gets *śānac*, thus the form); *mahaḥ* (root *maha pūjāyām*; *kvip ca* *kvip*; accusative plural; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) case-ending *udātta*). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> धीरासः पदं कवयो नयन्ति नाना हृदा रक्षमाणा अजुर्यम् ।
+> सिषासन्तः पर्यपश्यन्त सिन्धुमाविरेभ्यो अभवत्सूर्यो नॄन् ॥ ४ ॥
+
+> *dhīrāsaḥ padaṃ kavayo nayanti nānā hṛdā rakṣamāṇā ajuryam |*
+> *siṣāsantaḥ paryapaśyanta sindhumāvirebhyo abhavatsūryo nṝn ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> धीरासः । पदम् । कवयः । नयन्ति । नाना । हृदा । रक्षमाणाः । अजुर्यम् ।
+> सिषासन्तः । परि । अपश्यन्त । सिन्धुम् । आविः । एभ्यः । अभवत् । सूर्यः । नॄन् ॥ ४ ॥
+
+> *dhīrāsaḥ | padam | kavayaḥ | nayanti | nānā | hṛdā | rakṣamāṇāḥ | ajuryam |*
+> *siṣāsantaḥ | pari | apaśyanta | sindhum | āviḥ | ebhyaḥ | abhavat | sūryaḥ | nṝn ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: the wise priests bring the unageing Agni to the altar, guarding him in many ways in their hearts; wishing to serve, they worship him; as the Sun he becomes manifest to them.)*
+
+> धीरासो धीरा धीमन्तः प्रयोगज्ञा अध्वर्य्वादयोऽजुर्य्यमजर्य्यं नारहितमग्निं पदं स्थानं वेदिलक्षणं नयन्ति । प्रापयन्ति । मथनदेशात् [?] गार्हपत्यादा... अथवा वक्ष्यमाणलक्षणा यजमानादयः पदमस्यदं [?] सर्वकामा... *[the remainder of this bhāṣya runs on to p. 396; small type, largely illegible]*
+
+> *dhīrāso dhīrā dhīmantaḥ prayogajñā adhvaryvādayo 'juryyamajaryyaṃ nārahitamagniṃ padaṃ sthānaṃ vedilakṣaṇaṃ nayanti | prāpayanti | mathanadeśāt [?] gārhapatyādā... athavā vakṣyamāṇalakṣaṇā yajamānādayaḥ padamasyadaṃ [?] sarvakāmā... *[the remainder of this bhāṣya runs on to p. 396; small type, largely illegible]**
+
+---
+
+### Printed p. 396  (PDF 414)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+*(Ṛk 4 bhāṣya, continued.)*
+
+> ...नामास्पदेनेनं गमयन्ति । कीदृशास्ते । कवयः क्रान्तदर्शिनो मेधाविनः । अनूचानाः वा । ये वा अनूचानास्ते कवयः इति श्रुतेः । किञ्च नाना हृदा बहुप्रकारया बुद्ध्या रक्षमाणा धारयमाणाः । किञ्चैतदूपास्ते सिन्धुं स्यन्दमानम् [?] यज्ञद्वारा फलानि स्रवन्तमग्निं सिषासन्तः सम्भक्तुमिच्छन्तः [?] । सनेतेः [?] सनिः सनिवन्तर्थेत्यादिना विकल्पनादिभावः । जनसनखनामित्यादिना [?] ... पर्यपश्यन्त परितः पश्यन्ति शुश्रूषन्त इत्यर्थः । किञ्च सूर्यः सर्वस्य प्रसवितायाग्निरेभ्य एवं कुर्वद्भ्य एभ्यो नॄन्नेतृभ्य आविरभवत् तेषामनुग्रहेण प्रत्यक्षोऽभवत् । नॄन् नेतॄन् [?] ... अनुग्रहीतुमिति वा योज्यम् ॥ *[small type; many words doubtful]*
+
+> *...nāmāspadenenaṃ gamayanti | kīdṛśāste | kavayaḥ krāntadarśino medhāvinaḥ | anūcānāḥ vā | ye vā anūcānāste kavayaḥ iti śruteḥ | kiñca nānā hṛdā bahuprakārayā buddhyā rakṣamāṇā dhārayamāṇāḥ | kiñcaitadūpāste sindhuṃ syandamānam [?] yajñadvārā phalāni sravantamagniṃ siṣāsantaḥ sambhaktumicchantaḥ [?] | saneteḥ [?] saniḥ sanivantarthetyādinā vikalpanādibhāvaḥ | janasanakhanāmityādinā [?] ... paryapaśyanta paritaḥ paśyanti śuśrūṣanta ityarthaḥ | kiñca sūryaḥ sarvasya prasavitāyāgnirebhya evaṃ kurvadbhya ebhyo nṝnnetṛbhya āvirabhavat teṣāmanugraheṇa pratyakṣo 'bhavat | nṝn netṝn [?] ... anugrahītumiti vā yojyam ‖ *[small type; many words doubtful]**
+
+**Pratipadārtha (Kannada).** *kavayaḥ* — the wise; *dhīrāsaḥ* — the Adhvaryu and others, skilled in application, or the sacrificers and the rest; *ajuryam* — the imperishable Agni; *hṛdā* — in their hearts; *nānā* — in manifold ways; *rakṣamāṇāḥ* — cherishing; *padam* — to the altar; *nayanti* — bring and place [or *padam* — Agni, the resort of all desired aims; *nayanti* — carry (him)]. (And) *sindhum* — Agni who makes the fruits flow through the sacrifice; *siṣāsantaḥ* — desirous of serving; *paryapaśyanta* — they worship all round; (therefore) *sūryaḥ* — Agni in the form of the Sun; *ebhyaḥ nṝn* [?] — to these, the guides; *āvirabhavat* — became manifest, visible.
+
+**Bhāvārtha.** The wise, skilled in application, the Adhvaryu and the rest, bring the imperishable Agni to the altar, cherishing him in manifold ways in their hearts. Desirous of serving him, who yields the fruits of the sacrifice, they worship him all round. Agni, who in the form of the Sun makes all things arise, becomes visible to these guides.
+
+**English Translation (as printed).** Experienced sages bring the invincible (Agni) to his station (on the altar) ; cherishing him in manifold (ways) in their hearts : desirous of propitiating him they worship the (boon)-shedding (Agni) ; and to those men he is manifest as the Sun.
+
+---
+
+### Printed p. 397  (PDF 415)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 27 [?].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4).** ***dhīrāsaḥ*** — *dhīro dhīmān*; *prajñāvantaḥ* (Ni. 3-[?]) — "the wise; the possessors of understanding". This word is read among the names of the intelligent (Ni. 3-[?]); Sāyaṇa too, on this Ṛk, explains: *prayogajñā adhvaryvādayaḥ* — "the Adhvaryu and others who are skilled in application", "the Adhvaryu and the like who are skilled in the performance". From this we see that the word *dhīra* means "courageous", "steadfast, brave" (*dhairyavāna*). In the Vedic texts, too, in the Upaniṣads, "the wise, the discriminating" (*vivekī*) is the meaning that is shown; they are said to be firm and unshaken even in danger; quiet-minded, they remain firm even in a calamity — it is said — it is the purport that they have this kind of qualities.
+
+> युना सुवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । तं धीरासः कवय उन्नयन्ति स्वाधियो मनसा देवयन्तः ॥
+
+> *yunā suvāsāḥ parivīta āgātsa u śreyānbhavati jāyamānaḥ | taṃ dhīrāsaḥ kavaya unnayanti svādhiyo manasā devayantaḥ ‖*
+
+(Ṛ. Saṃ. 3-8-4.) In such Ṛks, and in
+
+> श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति धीरः । श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते ॥
+
+> *śreyaśca preyaśca manuṣyametastau samparītya vivinakti dhīraḥ | śreyo hi dhīro 'bhipreyaso vṛṇīte preyo mando yogakṣemādvṛṇīte ‖*
+
+(Kaṭha 2-2.)
+
+> महान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥
+
+> *mahāntaṃ vibhumātmānaṃ matvā dhīro na śocati ‖*
+
+(Kaṭha 2-[?].) in such Upaniṣad statements too, the word *dhīra* gives the sense "intelligent, wise".
+
+***ajuryam*** — *ajīrṇam*, *nārarahitam*: "one without decay"; it is an adjective of Agni.
+
+***sindhum*** — *sindhuḥ syandanāt*: "*sindhu* from flowing"; hence the name; it is read also among the names of the river.
+
+*prakṛtaḥ syandamānaṃ yajñadvārā phalāni* — "here the flowing, giving the fruits by the sacrifice" is the meaning of this adjective of Agni.
+
+***padaṃ nayanti*** — for this the meaning has been given in two ways. First, *padaṃ sthānaṃ vedilakṣaṇaṃ nayanti* — "they bring to the place, the altar", i.e. they carry him to the altar; or second, *yajamānādayaḥ sarvakāmānām āspadam enaṃ nayanti* — "the sacrificers and others carry him, the resort of all desires" — the sense is "they bring Agni, the resort of all desired aims".
+
+***paryapaśyanta*** — *paritaḥ paśyanti, śuśrūṣante ity arthaḥ*: "they look all round — they wait upon", i.e. worship on all sides.
+
+---
+
+### Printed p. 398  (PDF 416)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *dhīrāsaḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *susūdhāgṛdhibhyaḥ kran* (Uṇ. Sū. 2-[?]) *kran*; because of *kit*, *ghumāsthā…* (Pā. Sū. 6-4-66) *ī* for the root; *jas* following, *ājjaserasuk* (Pā. Sū. 7-1-50) *asuk*; *ñnityādir nityam*: first *udātta*); *kavayaḥ* (root *ku śabde*; *ācaḥ iḥ* [?] (Uṇ. Sū. 4-[?]) *i* suffix; guṇa of the root's *i*-less … *avādeśa*; final *antodātta* by the suffix accent; *jas* following, *jasi ca* guṇa, *ayādeśa*); *nayanti* (root *ṇīñ prāpaṇe*; *ṇo naḥ* (Pā. Sū. 6-1-65) *na* for the initial; *laṭ* 3rd plural; *tiṅ*-*nighāta*); *hṛdā* (*hṛdayaśabda*; instr. sg. following: *padannomāsa…* (Pā. Sū. 6-1-63) *hṛd* substitution; *ūḍidaṃpadādi* (Pā. Sū. 6-1-171) case-ending *udātta*); *rakṣamāṇāḥ* (root *rakṣa pālane*; *śānac* in the sense of *laṭ*; *śap*; *ānemuk* (Pā. Sū. 7-2-82) *muk* augment; the *lasārvadhātuka anudātta* per *tāsyanudāttet…*, so the root accent remains); *ajuryam* (root *jṝṣ vayohānau*; in the sense of action, *ṇyat*; *ac ṇṇiti* [?] *vṛddhi* of the root; *ra* follows; by *vyatyaya* *ākāra* → *ukāra*; *na vidyate jaryaṃ jarā yasya saḥ ajuryaḥ tam*; *nañsubhyām* (Pā. Sū. 6-2-172) *uttarapada-antodātta*); *siṣāsantaḥ* (root *ṣaṇa sambhaktau*; *dhātoḥ karmaṇaḥ…* (Pā. Sū. 3-1-7) *san* in the desiderative sense; *sanīvantardha…* (Pā. Sū. 7-2-49) *iḍāgama* optional; the option rejected here so no *iṭ*; *janasanakhanāṃ sanjhalo* (Pā. Sū. 6-4-42) *ā* for the root; *sanyataḥ* (Pā. Sū. 7-4-79) *itva* for the reduplicate; after the *sannanta*, *laṭ*: *śatṛ*; nom. plural; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*); *apaśyanta* (root *dṛśir prekṣaṇe*; *vyatyayo bahulam*: *ātmanepada*; *śa*; *chandasi* present sense *laṅ*; 3rd plural; after a *tiṅanta*, *nighāta*).
+
+---
+
+**Progress note:** Vol 11 — Sūkta 146 (5 Ṛks) done through printed p. 398 (Ṛks 1–3 complete; Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics done; its grammar note may run on to p. 399). Next: printed p. 399 (PDF 417), then Ṛk 5 (last of the sūkta). Images in /tmp/v11a (PDF 33–416; recrop 417+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
