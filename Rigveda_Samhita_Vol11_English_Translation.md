@@ -10829,4 +10829,132 @@ Thus, we may, I believe, translate here, "Agni, with such guardians as thine who
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 147 (5 Ṛks) done through printed p. 415 (Ṛks 1–2 complete; Ṛk 3 complete except the end of its grammar note on p. 416). Next: printed p. 416 (PDF 434), then Ṛks 4–5. Images in /tmp/v11a (PDF 33–433; recrop 434+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread — Ṛk 3's Dīrghatamas story and the Bṛhaddevatā verses on pp. 412–414 only partly legible; Ṛg/Nirukta/Brāhmaṇa/Śruti quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–147; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 416  (PDF 434)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+*(Ṛk 3 grammar, continued, noted briefly.)* *viśvavedāḥ* (root *vida jñāne*; *gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca* (Uṇ. Sū. 4-[?]) *asun* suffix; the later-member accent is overridden by the first-member accent; guṇa of the root's short *i* on account of the suffix); *dipsantaḥ* (root *dambhu dambhe*; *dhātoḥ karmaṇaḥ…* (Pā. Sū. 3-1-7) *san* in the desiderative sense; *sanyaṅoḥ* doubling; *dambha iccha* (Pā. Sū. 7-4-56) *dhip*, *dhīp* substitution for the root; *halantāc ca* (Pā. Sū. 1-2-10) the *san* is *kit*, so loss of the root's penultimate nasal by *anidītāṃ hala…*; *atra lopo 'bhyāsasya* (Pā. Sū. 7-4-58) loss of the reduplicate; *kharica* *car*-substitution; *śatṛ* after the *sannanta*; *ñnityādir nityam* first *udātta*); *debhuḥ* (the root as above; *liṭ* 3rd plural, *us* substitution; the *saṃyoga*…; *śrantha-granthi-dambhi-svañjīnām iti vaktavyam* (Kā. [?]) *kit* for the suffix; loss of the nasal by *anidītāṃ hala…*; this being *asiddha*, *ata ekahalmadhye* (Pā. Sū. 6-4-120) *etva-abhyāsalopa*, taught by *devebhyaś cheti vaktavyam* [?]: loss of the *abhyāsa*; *tiṅ*-*nighāta*). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> यो नो अग्ने अररिवाँ अघायुरराती वा मर्चयति द्वयेन ।
+> मन्त्रो गुरुः पुनरस्तु सो अस्मा अनु मृक्षीष्ट तन्वं दुरुक्तैः ॥ ४ ॥
+
+> *yo no agne ararivā~ aghāyurarātī vā marcayati dvayena |*
+> *mantro guruḥ punarastu so asmā anu mṛkṣīṣṭa tanvaṃ duruktaiḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । नः । अग्ने । अररिवान् । अघऽयुः । अरातिऽवा । मर्चयति । द्वयेन ।
+> मन्त्रः । गुरुः । पुनः । अस्तु । सः । अस्मै । अनु । मृक्षीष्ट । तन्वम् । दुःऽउक्तैः ॥ ४ ॥
+
+> *yaḥ | naḥ | agne | ararivān | agha 'yuḥ | arāti 'vā | marcayati | dvayena |*
+> *mantraḥ | guruḥ | punaḥ | astu | saḥ | asmai | anu | mṛkṣīṣṭa | tanvam | duḥ 'uktaiḥ ‖ 4 ‖*
+
+---
+
+### Printed p. 417  (PDF 435)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 30 [?].)*
+
+**॥ सायणभाष्यम् ॥** *(gist: the foe who, malicious and withholding gifts, harms us with a twofold — mental and verbal — spell, let his own spell fall heavily back on him, and let his own body be marred by his evil words.)*
+
+> हे अग्ने नोऽस्माकं यः शत्रुरघायुः पापेच्छुः [?] ... अररिवान् अस्मद्दानप्रतिबन्धकः [?] [...] रातेर्लुङ् [?] छान्दसः ... क्वसुः । अरातिवा अदातापि [?] ... स्वयमदावान् [?] ... यः शत्रुर्द्वयेन मानसवाचिकभेदेन द्विविधेन । न दद्यात् [?] मानसो मन्त्रः ... निन्दाभ्यां [?] ... स्वसन्तं [?] ... मर्चयति । उद्वेजयतीत्यर्थः [?] ... पुनरस्तु [?] ... तस्मै ... अनुमृक्षीष्ट अनुकरेण [?] ... दुरुक्तैः ... यद्वा । स द्विविधो मन्त्रः अस्मै प्रयोक्त्रैव गुरुर्गरीयान् [?] अस्तु ... दुरुक्तैः कोऽरातिः स्वतनुमेव [?] ... दहत्वित्यर्थः ॥ *[small type; largely illegible; only fragments read]*
+
+> *he agne no 'smākaṃ yaḥ śatruraghāyuḥ pāpecchuḥ [?] ... ararivān asmaddānapratibandhakaḥ [?] [...] rāterluṅ [?] chāndasaḥ ... kvasuḥ | arātivā adātāpi [?] ... svayamadāvān [?] ... yaḥ śatrurdvayena mānasavācikabhedena dvividhena | na dadyāt [?] mānaso mantraḥ ... nindābhyāṃ [?] ... svasantaṃ [?] ... marcayati | udvejayatītyarthaḥ [?] ... punarastu [?] ... tasmai ... anumṛkṣīṣṭa anukareṇa [?] ... duruktaiḥ ... yadvā | sa dvividho mantraḥ asmai prayoktraiva gururgarīyān [?] astu ... duruktaiḥ ko 'rātiḥ svatanumeva [?] ... dahatvityarthaḥ ‖ *[small type; largely illegible; only fragments read]**
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *naḥ* — (your devotees) us; *aghāyuḥ* — the sinner; *arirvān* — who obstructs our offering of oblations; *arātī vā* — and himself without gifts; *yaḥ* — which enemy; *dvayena* — with a twofold, mental and verbal; (or) with two kinds of mantras; *marcayati* — (us) he harms, afflicts; *saḥ mantraḥ* — that mantra of his, fashioned by the mind; *asmai punaḥ* — to him again; *guruḥ* — heavy, burdensome; *astu* — let it be (so); *durukteḥ* [as printed *duruktaiḥ*] — by his evil words; *tanvam* — his own body; *anu mṛkṣīṣṭa* — let him be made to be burned.
+
+**Bhāvārtha.** O Agni, may the enemy who, sinful and obstructing our offering of oblations, himself giving nothing, harms us with a twofold, mental and verbal, evil spell — may that spell fall heavily back on its user; and may he himself burn his own body by his evil words.
+
+---
+
+### Printed p. 418  (PDF 436)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+**English Translation (as printed).** When a wicked (man), with twofold (malignity of thought and speech), obstructing our offerings, and refraining from gifts (himself) reviles us, may his prayer be heavy on him and involve his person ( in the consequences of ) his evil works.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***aghāyuḥ*** — *māraṇādirūpāpecchāvān*: "one who wishes for the evil, in the form of killing and the like"; "one who looks to our destruction, of sinful mind". In present usage the word *aghāyu* is taken to mean "one whose life (*āyu*) is of the nature of sin (*agha*)", i.e. one who lives sinfully. Example:
+
+> अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ।
+
+> *aghāyurindriyārāmo moghaṃ pārtha sa jīvati |*
+
+(Bh. Gī. 3-16.) In this verse, for the word *aghāyuḥ* Śaṅkarācārya, explaining it as *agham pāpam āyur jīvanaṃ yasya saḥ aghāyuḥ pāpajīvanaḥ*, has given the meaning "one whose life is full of sin" in the commentary on the Gītā verse; but in the Ṛk-saṃhitā there is no such usage. Here it is *agham icchatīty aghāyuḥ*, "one who wishes evil" — one who wishes us harm, a sinner. As in:
+
+> यस्ते इध्मं जभरत्सिष्विदानो मूर्धानं वा ततपते त्वाया । भुवस्तस्य स्वतवाँः पायुरग्ने विश्वस्मात्सीमघायत उरुष्य ॥
+
+> *yaste idhmaṃ jabharatsiṣvidāno mūrdhānaṃ vā tatapate tvāyā | bhuvastasya svatavā~ḥ pāyuragne viśvasmātsīmaghāyata uruṣya ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) In such Ṛks *aghāyataḥ* means "one who wishes to commit sin", "one who does evil" — hence, or *pāpam ātmana icchati* — "one who wishes sin for himself" — thus explained; the meaning in the earlier sense is the same. In the Ṛk at hand it means the sinner who wishes harm to the sacrificer.
+
+***arirvān*** — *rarivān*, the sense *dānavān*, "one who gives". *Arirvān* means *adānavān*, "one who does not give". But since it is said *arātī vā*, and since it is *a-* *sneyam adānavān* [?], the word *arirvān* is explained by Sāyaṇa as "the obstructor of our offerings (*dāna*)".
+
+***marcayati*** — *bhartsayati vidheyāṃ karoti vā asmān*: "he threatens us, or makes us subject to him". "By abusing us he makes us obedient to the enemy [i.e. harms us]" [partly unclear]; "that enemy's [?] harm — protect us — and may that mantra rebound upon him" is the prayer. Also in the other sense
+
+---
+
+### Printed p. 419  (PDF 437)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 30 [?].)*
+
+> यो न आगो अभ्येनो भरात्यधीदघमघशंसे दधात । जही चिकित्वो अभिशस्तिमेतामग्ने यो नो मर्चयति द्वयेन ॥
+
+> *yo na āgo abhyeno bharātyadhīdaghamaghaśaṃse dadhāta | jahī cikitvo abhiśastimetāmagne yo no marcayati dvayena ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In this Ṛk too it is in the same order. There *marcayati* is explained as *bādhate*, "he troubles"; the prayer is made also in the Ṛk at hand: "in what way does the enemy trouble us by a twofold sin, or [?] — whoever he is, do thou destroy him"; so is the sense.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *arirvān* (root *rā dāne*; *chandasi luṅlaṅliṭaḥ*: *liṭ*, then *kvasu* by *kvasuś ca*; *vasvekācād ghasām* (Pā. Sū. 7-2-67) *iṭ* augment; doubling of the root; nom. sg. *rarivān*; *na ririvān* — *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) *nañ*-first-member accent); *aghāyuḥ* (*agham ātmana icchati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8) *kyac* suffix; *na chandasy aputtrasya* (Pā. Sū. 7-4-35) no lengthening, etc.; *aghāyaśyāt* [?]; *kyajantāt* (Pā. Sū. 3-2-170) *u* suffix, *chandasi*; *ako lopaḥ* [?]: loss of the *a*; suffix accent: final *udātta*); *arātīvā* (*rātir dānam asyāsti*, taken in the sense of *vanip*; *chandasi vanisanarakṣimathām* [?]: *vanip*; *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137) lengthening of the earlier member; *arātīvā* in the nom. sg.; *nañ*-*tatpuruṣa*: first-member accent); *marcayati* (root *marca śabdārthe*, *curādi*; *satyāpāśa…* (Pā. Sū. 3-1-25) *ṇic* in the *svārtha*; after a *ṇijanta*, *laṭ* 3rd sg.; *yadvṛttānnityam* the *nighāta* is prevented; the *ṇic* accent remains); *dvayena* (*dvau avayavau yasya dvitrībhyāṃ tayasyāyajvā* (Pā. Sū. 5-2-43) *tayap* in the sense of part; *ayādeśa*; *yasyeti ca* loss of the *i*; *cit*: final *udātta*; instr. sg.).
+
+---
+
+### Printed p. 420  (PDF 438)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+*(Ṛk 4 grammar, end.)* *mantraḥ* (root *mantri guptaparibhāṣaṇe*; *nandigrahapacādibhyo…* (Pā. Sū. 3-1-134) *ac* suffix; *vṛṣādīnāṃ ca* (Pā. Sū. 6-1-203) first *udātta*); *astu* (root *as bhuvi*; *loṭ* 3rd sg.; *tiṅ*-*nighāta*); *asmai* (*supāṃ suluk*: the fourth case in the sense of the sixth); *mṛkṣīṣṭa* (root *mṛjūś śuddhau*; *liṅ* 3rd sg., *ta* suffix; *liṅāśiṣy aṅ* [?]; *sīyuṭ* (Pā. Sū. 3-4-102) *sīyuṭ* augment; *suṭ tithoḥ* (Pā. Sū. 3-4-107) *suṭ* for the suffix *ta*; *yaṇ lopa*; *vraścabhrasjasṛjamṛja…* (Pā. Sū. 8-2-36) *ṣatva*; *ṣaḍhoḥ kaḥ si* *katva*; *ṣatva* of the *s* on account of it; *tiṅ*-*nighāta*); *tanvam* (*tanvādīnāṃ chandasy upasaṃkhyānam*: *yaṇ*; *udāttasvaritayor yaṇaḥ* *svarita*); *duruktaiḥ* (root *vaca paribhāṣaṇe*; passive *kta*; *vacisvapiyajādīnāṃ kiti* (Pā. Sū. 6-1-15) *saṃprasāraṇa* of the *va*; *pūrvarūpa*; *kṛdutarapada-prakṛtisvara*). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> उत वा यः सहस्य प्रविद्वान्मर्तो मर्तं मर्चयति द्वयेन ।
+> अतः पाहि स्तवमान स्तुवन्तमग्ने माकिर्नो दुरिताय धायीः ॥ ५ ॥
+
+> *uta vā yaḥ sahasya pravidvānmarto martaṃ marcayati dvayena |*
+> *ataḥ pāhi stavamāna stuvantamagne mākirno duritāya dhāyīḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत । वा । यः । सहस्यः । प्रऽविद्वान् । मर्तः । मर्तम् । मर्चयति । द्वयेन ।
+
+> *uta | vā | yaḥ | sahasyaḥ | pra 'vidvān | martaḥ | martam | marcayati | dvayena |*
+
+---
+
+### Printed p. 421  (PDF 439)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 30 [?].)*
+
+> अतः । पाहि । स्तवमान । स्तुवन्तम् । अग्ने । माकिः । नः । दुःऽइताय । धायीः ॥ ५ ॥
+
+> *ataḥ | pāhi | stavamāna | stuvantam | agne | mākiḥ | naḥ | duḥ 'itāya | dhāyīḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: whichever skilled mortal assails another with a twofold spell, protect us who praise you from that, O Agni, and do not put us into misfortune.)*
+
+> पूर्वमन्त्रे द्विविधकुटिलमन्त्रेण कर्तारं तन्मन्त्रेण प्राप्नोत्विति [?] प्रार्थितम् । अत्र तु तन्मन्त्रेणात्मानं पाहीत्येवं प्रार्थ्यते । उत वा हे सहस्य बलनाम [?] ... सहः इति बलनाम । सहसः उत्पन्न [?] ... यः कश्चित् मर्तः प्रविद्वान् मायामन्त्रं प्रकर्षेण जानन् द्वयेन पूर्वोक्तरीत्या द्विविधेन मन्त्रेण मर्तं मनुष्यं मर्चयति विधेयं करोति भर्त्सयति वा । अतः तस्मात् हे स्तवमान स्तूयमान अग्ने स्तुवन्तं स्तुतिं कुर्वन्तं मां पाहि रक्ष । किञ्च नोऽस्मान् रिपुभिः [?] ... दुरितायेत्य [?] दुर्मन्त्रप्रयोक्तुर्दुःखाय [?] ... नः अस्मान् मा कीर्धायीः [?] ... धा धारणे । व्यत्ययेनेट् । सिचि वृद्धिः । न माङ्योगे [?] इत्यडभावः ॥ *[small type; partly legible]*
+
+> *pūrvamantre dvividhakuṭilamantreṇa kartāraṃ tanmantreṇa prāpnotviti [?] prārthitam | atra tu tanmantreṇātmānaṃ pāhītyevaṃ prārthyate | uta vā he sahasya balanāma [?] ... sahaḥ iti balanāma | sahasaḥ utpanna [?] ... yaḥ kaścit martaḥ pravidvān māyāmantraṃ prakarṣeṇa jānan dvayena pūrvoktarītyā dvividhena mantreṇa martaṃ manuṣyaṃ marcayati vidheyaṃ karoti bhartsayati vā | ataḥ tasmāt he stavamāna stūyamāna agne stuvantaṃ stutiṃ kurvantaṃ māṃ pāhi rakṣa | kiñca no 'smān ripubhiḥ [?] ... duritāyetya [?] durmantraprayokturduḥkhāya [?] ... naḥ asmān mā kīrdhāyīḥ [?] ... dhā dhāraṇe | vyatyayeneṭ | sici vṛddhiḥ | na māṅyoge [?] ityaḍabhāvaḥ ‖ *[small type; partly legible]**
+
+**Pratipadārtha (Kannada).** *uta vā* — or; *sahasya* — Agni, born of strength; *yaḥ martyaḥ* — whichever human; *pravidvān* — knowing well the mantras of deceit; *dvayena* — mental and verbal, two kinds of mantras; *martam* — another man; *marcayati* — troubles; *ataḥ* — from the fear of this mantra-force; *stavamāna* — O Agni, who art worthy of praise; *stuvantam* — me who praise (you); *pāhi* — protect; (and) *naḥ* — us; *duritāya* — for the mouth of bad mantras; *mākiḥ dhāyīḥ* — do not make us a receptacle.
+
+**Bhāvārtha.** O Agni, born of strength, whichever wicked man, skilled in deceitful mantras, troubles another man by two kinds of mantra, mental and verbal — protect me, who praise you, from the fear of that mantra-force; and do not make us the receptacle of bad mantras.
+
+**English Translation (as printed).** When, Son of Strength, a man skilful (in deception) assails another man with a doubly (malignant prayer), do you, Agni, duly propitiated, protect him who worships you ( from its effects ); consign us not to misfortune.
+
+---
+
+**Progress note:** Vol 11 — Sūkta 147 (5 Ṛks) done through printed p. 421 (Ṛks 1–4 complete; Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; its Special Topics and grammar to come, ending the sūkta). Next: printed p. 422 (PDF 440). Images in /tmp/v11a (PDF 33–439; recrop 440+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Gītā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–147; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
