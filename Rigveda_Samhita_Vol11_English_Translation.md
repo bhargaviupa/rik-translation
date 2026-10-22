@@ -9632,4 +9632,147 @@ here *yasya iṣṭau preṣaṇe* ("in whose sacrifice, in sending") — since 
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 145 done through printed p. 367 (Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada and the start of its bhāṣya, which continues on p. 368). Next: printed p. 368 (PDF 386). Images in /tmp/v11a (PDF 33–385; recrop 386+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya partly read, Ṛg/Nirukta/Brāhmaṇa quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–145, Varga numbers; Sūkta 145 Ṛk 3 Pada *acchidrotiḥ*/*adatta* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 368  (PDF 386)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+*(Ṛk 3 bhāṣya, continued from p. 367; small type, only partly legible.)*
+
+> ... र्थमपि हूयमानं चेति भावः । किञ्चार्वतीः प्राप्तिमत्यः स्तुतयस्तमित् [?] गच्छन्ति सर्वदेवतात्मकत्वादेव । स एवैकोऽयमग्निर्विश्वानि मे मदीयानि वचांसि सर्वाणि शृणवत् शृणोति । अग्निर्हि सर्वदेवतात्मकः । तै. सं. [?] ... तथात्रैव पुरस्तात् [?] ... त्वमग्ने वरुणो जायसे यत्त्वं मित्रो [?] ... (ऋ. सं. [?]) इत्यादिकोऽस्य विशेष इत्येके [?] । पुरुप्रैषो बहुप्रैषसंभाक् । यद्वा बहुप्रेषणः सर्वस्मै ज्ञापयितेत्यर्थः । तुरिः तारयिता । तरतेर्णर्थात् [?] ... इति किन्प्रत्ययः । बहुलं छन्दसीत्वम् । यज्ञसाधनो यज्ञसाधकः । अग्निर्हि [?] ... अच्छिद्रोतिः अच्छिन्नरक्षणः । शिशुः शिशुवत्प्रियकारी शोचयिता वा शत्रूणाम् । एवंभूतोऽग्निः सं रभो यज्ञादिसंरम्भवान् सन् आदत्ते । हविरादिकं स्वीकरोति ॥ *[a Taittirīya-Saṃhitā citation and an Ṛg citation inside this bhāṣya are not legible; references left out]*
+
+> *... rthamapi hūyamānaṃ ceti bhāvaḥ | kiñcārvatīḥ prāptimatyaḥ stutayastamit [?] gacchanti sarvadevatātmakatvādeva | sa evaiko 'yamagnirviśvāni me madīyāni vacāṃsi sarvāṇi śṛṇavat śṛṇoti | agnirhi sarvadevatātmakaḥ | tai. saṃ. [?] ... tathātraiva purastāt [?] ... tvamagne varuṇo jāyase yattvaṃ mitro [?] ... (ṛ. saṃ. [?]) ityādiko 'sya viśeṣa ityeke [?] | purupraiṣo bahupraiṣasaṃbhāk | yadvā bahupreṣaṇaḥ sarvasmai jñāpayitetyarthaḥ | turiḥ tārayitā | taraterṇarthāt [?] ... iti kinpratyayaḥ | bahulaṃ chandasītvam | yajñasādhano yajñasādhakaḥ | agnirhi [?] ... acchidrotiḥ acchinnarakṣaṇaḥ | śiśuḥ śiśuvatpriyakārī śocayitā vā śatrūṇām | evaṃbhūto 'gniḥ saṃ rabho yajñādisaṃrambhavān san ādatte | havirādikaṃ svīkaroti ‖ *[a Taittirīya-Saṃhitā citation and an Ṛg citation inside this bhāṣya are not legible; references left out]**
+
+**Pratipadārtha (Kannada).** *juhvaḥ* — the ladles such as the *juhū*, filled with ghee and the like, or the oblations of Soma and the like, or the ghee and the like in the vessels; *tam it* — towards that very Agni; *gacchanti* — go (facing him); *arvatīḥ* — all the hymns; *tam* — (reach) him alone; *ekaḥ* — Agni, the sole representative of all the deities; *me* — my; *viśvāni vacāṃsi* — all the hymn-words; *śṛṇavat* — hears; *purupraiṣaḥ* — the impeller of all; *turiḥ* — who carries (across the world); *yajñasādhanaḥ* — the cause of the sacrifice; *acchidrotiḥ* — whose protection is unbroken; *śiśuḥ* — he who is like a child (doing what is dear), or who makes (enemies) grieve — that Agni; *saṃ rabhaḥ* — together with the equipment (needed for the sacrifice and the like); *ā adatte* — accepts (the oblations).
+
+**Bhāvārtha.** The ladles and other vessels filled with ghee and the like go facing that Agni. As the sole representative of all the gods he hears all my hymns, and the hymns too reach him alone. The impeller of all, who carries across worldly existence, the cause of the sacrifice, whose protection is unceasing, who is like a child to us and makes enemies grieve, Agni accepts the oblations together with the equipment needed for the sacrifice.
+
+---
+
+### Printed p. 369  (PDF 387)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 22 [?].)*
+
+**English Translation (as printed).** To him the (sacrificial) ladles are directed ; to him (our) praises are addressed ; he alone hears all my prayers; he is the instigator of many, the transporter (across the world), the instrument of sacrifice, the unintermitting preserver (of mankind), and (gentle as) an infant: provided with the preparations (of sacrifice), he accepts the oblation.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***arvatīḥ*** — *prāptimatyaḥ stutayaḥ*: "hymns that reach"; here it means "hymns approaching Agni". In general *arvatī* means "mares"; since the hymns are said to go near Agni like mares being yoked [?], this word is used for hymns also.
+
+***tāraḥ*** [*turiḥ*] — *tārayitā*: "one who carries across worldly existence".
+
+***eko viśvāni vacaḥ śṛṇavat*** — "he alone hears all my hymn-words"; how Agni is the sole representative of all the gods Sāyaṇa explains by citing the Taittirīya-Brāhmaṇa [?]: *agnir vai sarvā devatāḥ* ("Agni is all the deities"), and *te devā bibhyatas tvāgniṃ prāviśan tasmād āhur agniḥ sarvā devatā iti* ("the frightened gods entered Agni; therefore they say Agni is all the deities"). The statement of the Taittirīya Saṃhitā that all the gods, being frightened, took refuge in Agni and that thus he alone is their sole representative is recalled here. In the Ṛk-saṃhitā too:
+
+> यदीं गणस्य रशनामजीगः शुचिरङ्क्ते शुचिभिर्गोभिरग्निः । आद्दक्षिणा युज्यते वाजयन्त्यु [?] नामूर्ध्वो [?] अध्वयुः [?] ॥
+
+> *yadīṃ gaṇasya raśanāmajīgaḥ śuciraṅkte śucibhirgobhiragniḥ | āddakṣiṇā yujyate vājayantyu [?] nāmūrdhvo [?] adhvayuḥ [?] ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) the same sense is expressed. Hence *eko viśvāni vacāṃsi śṛṇavat*: it praises him.
+
+***śiśuḥ*** — *śiśuvat priyakārī* ("doing what pleases, like a child") and *śocayitā vā śatrūṇām* ("or one who causes enemies to grieve") — Sāyaṇa gives two senses; both are possible with regard to Agni.
+
+> हस्ताभ्यां ह्येनं मन्थन्ति शिशुं जातमिति शिशुरिव वा एष प्रथमजातो यदग्निः ।
+
+> *hastābhyāṃ hyenaṃ manthanti śiśuṃ jātamiti śiśuriva vā eṣa prathamajāto yadagniḥ |*
+
+(Ai. Brā. 1-[?].)
+
+---
+
+### Printed p. 370  (PDF 388)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+Thus in the Aitareya Brāhmaṇa and in other places this quality of his is described. The word *śiśu* does not mean only "child"; to show that it also means "praiseworthy, yes", the Nirukta author says: *śiśuḥ śaṃsanīyo bhavati* (Ni. 10-[?]): "*śiśu* is called so from being fit for praise". Or —
+
+> शिशीतेर्वा स्याद्धानकर्मणः । चिरलब्धो गर्भो भवति ।
+
+> *śiśītervā syāddhānakarmaṇaḥ | ciralabdho garbho bhavati |*
+
+(Ni. 10-[?].) Because of the form of a woman's being the abode of a long-obtained child, it is called *śiśu*; thus this word's derivation is shown.
+
+> अन्यान्या वत्सम्[?] उपधापयेते तयोरेकैता वत्सा । अग्निश्चादित्यश्च । रात्रेर्वत्सः । श्वेत आदित्यः । अहोऽग्निः ।
+
+> *anyānyā vatsam[?] upadhāpayete tayorekaitā vatsā | agniścādityaśca | rātrervatsaḥ | śveta ādityaḥ | aho 'gniḥ |*
+
+(Tai. Ā. [?].) In such statements too this child-nature is praised.
+
+In the second sense, *śocayitā vā śatrūṇām*, Agni consumes his foes entirely; hence this name.
+
+> न तस्य मायया चन रिपुरीशीत मर्त्यः । यो अग्नये ददाश हव्यदातिभिः ॥
+
+> *na tasya māyayā cana ripurīśīta martyaḥ | yo agnaye dadāśa havyadātibhiḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) In such Ṛks, since "no enemy can win against Agni, nor conquer him", and since Agni is described as able to harm all, the second sense is also possible.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *gacchanti* (root *gamḷ gatau*; *laṭ* 3rd plural; *tiṅ*-*nighāta*); *juhvaḥ* (root *hu dānādanayoḥ*; *huvaḥ śluvac ca* [?] (Uṇ. Sū. 4-[?]) *kvip*; lengthening of the root; *śluvadbhāva*; doubling of the root; … *udāttasvaritayor* [?] (Pā. Sū. 8-4-66) *svarita*-accent)
+
+---
+
+### Printed p. 371  (PDF 389)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 23 [?].)*
+
+*(Ṛk 3 grammar, noted briefly.)* *arvatī* (root *ṛ gatau*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) *vanip*; *strītva*-intention: *ṅīp*; *vanor ca* [?] *r* for *n*; *ar-vanī*… *jas* ending; *supāṃ sulug* (Pā. Sū. 7-1-39) lengthening of the preceding vowel); *śṛṇavat* (root *śru śravaṇe*; *loṭ* 3rd sg. *tip*; *itaścalopaḥ*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94) *aṭ*; *śruvaḥ śṛc* [?] (Pā. Sū. 3-1-74) *śṛ* for the root; *nu*-vikaraṇa; *guṇa*; *ṇatva*; *nighāta*); *turiḥ* (root *tṝ plavanataraṇayoḥ*; *prayojaka*-process, *antarbhāvitaṇyartha*; *adyagṛmahanajana* [?] (Pā. Sū. 3-2-171) *kin* suffix; doubling of the root; *bahulaṃ chandasi*: *ut* for the root; *repha*; *ñnityādir nityam* first *udātta*); *yajñasādhanaḥ* (root *sādha saṃsiddhau*; *lyuṭ* after a *ṇyanta*; *yuvor anākau* (Pā. Sū. 7-1-1) *ana*; *ṇer aniṭi* loss of *ṇi*; *liti* (Pā. Sū. 6-1-193) *udātta* before the suffix; in the compound, *kṛdutarapada-prakṛtisvara*); *acchidrotiḥ* (*na chidrā ūtir yasya saḥ*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) *nañ*: prior-member accent); *adatta* (root *dudāñ dāne*; *chandasi* present sense *laṅ*, 3rd sg.; *nighāta* since after a *tiṅanta*). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> उपस्थायं चरति यत्समारत सद्यो जातस्तत्सार यज्ञेभिः ।
+> अभि श्वान्तं मृशते नान्द्ये मुदे यदीं गच्छन्त्युशतीरपिस्थितम् [?] ॥ ४ ॥
+
+> *upasthāyaṃ carati yatsamārata sadyo jātastatsāra yajñebhiḥ |*
+> *abhi śvāntaṃ mṛśate nāndye mude yadīṃ gacchantyuśatīrapisthitam [?] ‖ 4 ‖*
+
+---
+
+### Printed p. 372  (PDF 390)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+**॥ पदपाठः ॥**
+
+> उपऽस्थायम् । चरति । यत् । सम्ऽआरते । सद्यः । जातः । तत्सार । यज्ञेभिः ।
+> अभि । श्वान्तम् । मृशते । नान्द्ये । मुदे । यत् । ईम् । गच्छन्ति । उशतीः । आपिऽस्थितम् [?] ॥ ४ ॥
+
+> *upa 'sthāyam | carati | yat | sam 'ārate | sadyaḥ | jātaḥ | tatsāra | yajñebhiḥ |*
+> *abhi | śvāntam | mṛśate | nāndye | mude | yat | īm | gacchanti | uśatīḥ | āpi 'sthitam [?] ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: when the Adhvaryu performs the act helpful to Agni's birth, Agni appears at once; born, he moves with the sacrifices; ladles and hymns, desiring him, reach him pervading everywhere, and he is touched for joy.)*
+
+> यद्याध्वर्युरुपस्थायं चरति उपस्थायाग्निमुत्पत्त्यनुकूलव्यापारं करोति । कदेत्याह । यत् समारते समागच्छते मथनेनाविर्भवति ॥ सद्यः तदानीमेव जातः उत्पन्नः सन् यज्ञेभिर्योक्त्रं [?] संबद्धं सम्पर्यै [?] फलैर्हविःप्रयुक्तं [?] ... तत्सार अरण्योर्मध्ये सन् चचार [?] । यद्वा । यज्ञेभिः । अश्वैः [?] जातमात्र इव सर्वत्र संचचार [?] ... श्वान्तं [?] श्रान्तं श्रमयुक्तम् । नान्द्ये नन्दनीये [?] कर्मणि निमित्तभूते सति मुदे तस्य संतोषायाभि मृशते अभिमर्शनं करोति । फलप्रदानेति भावः । यथा लोके गुर्वादिः श्रान्तं शिष्यादिकं स्पृशति तद्वत् । कदेति चेत् उच्यते । यद्वा । आपिस्थितं [?] व्याप्य वर्तमानमिममग्निम् उशतीः कामयमाना आज्यधाराः स्तुतयो वा गच्छन्ति प्राप्नुवन्ति तदाभि मृशते ॥ *[small type; several words doubtful]*
+
+> *yadyādhvaryurupasthāyaṃ carati upasthāyāgnimutpattyanukūlavyāpāraṃ karoti | kadetyāha | yat samārate samāgacchate mathanenāvirbhavati ‖ sadyaḥ tadānīmeva jātaḥ utpannaḥ san yajñebhiryoktraṃ [?] saṃbaddhaṃ samparyai [?] phalairhaviḥprayuktaṃ [?] ... tatsāra araṇyormadhye san cacāra [?] | yadvā | yajñebhiḥ | aśvaiḥ [?] jātamātra iva sarvatra saṃcacāra [?] ... śvāntaṃ [?] śrāntaṃ śramayuktam | nāndye nandanīye [?] karmaṇi nimittabhūte sati mude tasya saṃtoṣāyābhi mṛśate abhimarśanaṃ karoti | phalapradāneti bhāvaḥ | yathā loke gurvādiḥ śrāntaṃ śiṣyādikaṃ spṛśati tadvat | kadeti cet ucyate | yadvā | āpisthitaṃ [?] vyāpya vartamānamimamagnim uśatīḥ kāmayamānā ājyadhārāḥ stutayo vā gacchanti prāpnuvanti tadābhi mṛśate ‖ *[small type; several words doubtful]**
+
+
+**Pratipadārtha (Kannada).** *yat* — whenever (the Adhvaryu); *upasthāyam* — (for the arising of Agni) a favourable activity; *carati* — performs; *samārate* — Agni appears (visibly); *sadyaḥ* — at once; *jātaḥ* — being born; *yajñebhiḥ* — joined with the proper powers (or with the means of fruit); *tatsāra* — moved among (the two fire-sticks) and; *yat* — when; *āsisthitam* — pervading (all round); *īm* — this Agni; *uśatīḥ* — the ladles of ghee or hymns that desire (his acceptance); *gacchanti* — approach (him) — then; *śrāntam* — (by the sacrificial acts) wearied, or the sacrificer made cheerful; *nāndye* — in the pleasing rite; *mude* — for the joy (of the sacrificer); *abhimṛśate* — he becomes joined, touched.
+
+**Bhāvārtha (begins).** As soon as the Adhvaryu performs the act helpful to the arising of Agni, Agni appears. And at once, born, he moves about with his rays joined —
+
+---
+
+### Printed p. 373  (PDF 391)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 23 [?].)*
+
+*(Bhāvārtha continued.)* — and as soon as the ladles of ghee, desiring him, reach the all-pervading Agni, he, for the joy of the sacrificer wearied by the sacrificial acts, is joined to the pleasing rite and becomes satisfying. (Reading of the last words, "*vṛddhi yāgutrāni*" [?], unclear.)
+
+**English Translation (as printed).** When (the priest) proceeds to effect his development, he is (at once) manifested ; and as soon as engendered, is associated with his objects : he provides for the gratification ( of his worshipper ), placidly engaged in the agreeable (rite), when the (oblations) that desire (his acceptance) reach him present (at the sacrifice).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***upasthāyam*** — *upasthānam asti iti*; *utpattyanukūlavyāpāram*: "an activity favourable to the origin"; at the sacrificial altar the Adhvaryu performs, sitting, the activity favourable to the birth of Agni.
+
+***samārate*** — *samāgacchate*, *mathanenāvirbhavat*: "comes together; appears by the churning"; the verb *ṛ* with the prefix *sam* gives this word. Thus:
+
+> इन्द्रेषिते प्रसवं भिक्षमाणे अच्छा समुद्रं रथ्येव याथः । समारणे ऊर्मिभिः पिन्वमाने अन्या वामन्यामप्येति शुभ्रे ॥
+
+> *indreṣite prasavaṃ bhikṣamāṇe acchā samudraṃ rathyeva yāthaḥ | samāraṇe ūrmibhiḥ pinvamāne anyā vāmanyāmapyeti śubhre ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) here too the prefix *sam* with the root *ṛ* has the sense "come together"; thus "appear before (the sacrificer)" is the sense. In the Ṛk at hand: "appeared on the churning of the fire-sticks"; the origin of Agni from the *araṇi*s, is the point.
+
+***yujyebhiḥ*** — *yoktuṃ sambandhuṃ samarthaiḥ phalaiḥ, mitrayutair [?] ... tejobhir vā*: "with the powers fit to be joined, or with the fruits; or with the brilliances". (*as being joined with abilities, that may be associated with their objects, or with energies fit to be connected with their consequences, or with his horses joined to his Car. Tr. Wilson*)
+
+***tatsāra*** — from a root meaning "to go": it is derived from *sṛ*-root; "moved about" (*sañcacāra*, "moved"). Or *yajyebhir aśvair jātamātra iva sarvatra sañcacāra*: "as if, just born, he went about everywhere with his horses [?]" — he moved about with his chariot-horses, is the sense.
+
+***āsisthitam*** — *vyāpya vartamānam*: "being present, pervading"; "Agni who pervades all places".
+
+---
+
+**Progress note:** Vol 11 — Sūkta 145 done through printed p. 373 (Ṛks 1–3 complete; Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, its Special Topics begun on p. 373 and running on). Next: printed p. 374 (PDF 392). Images in /tmp/v11a (PDF 33–391; recrop 392+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya of Ṛks 3–4 only partly read, Ṛg/Nirukta/Brāhmaṇa/Taittirīya quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–145, Varga numbers; Ṛk 4 Saṃhitā *samārata*/*apisthitam* and Pada *āpisthitam* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
