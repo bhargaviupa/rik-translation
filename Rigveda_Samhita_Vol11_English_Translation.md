@@ -11443,4 +11443,144 @@ Citing this Ṛk, he shows the sense of the word *manma*. Durgācārya, explaini
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 148 (5 Ṛks) done through printed p. 439 (Ṛks 1–3 complete; Ṛk 4 complete except its grammar note, which ends on p. 440). Next: printed p. 440 (PDF 458), then Ṛk 5, then Sūkta 149. Images in /tmp/v11a (PDF 33–457; recrop 458+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Śatapatha/Bṛhaddevatā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–148; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 440  (PDF 458)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+*(Ṛk 4 grammar, end, noted briefly.)* *vātaḥ* (root *vā gatigandhanayoḥ*; *hasimṛgṛṇ…* (Uṇ. Sū. 3-86) *tan* suffix; *nit*, first *udātta*); *vāti* (the root as above; *laṭ* 3rd sg.; *tiṅ*-*nighāta*); *astuḥ* (root *asu kṣepaṇe*; agent *tṛn*, *astṛ*; suffix *nit*, first *udātta*; ablative sg. *pañcamyāḥ parasya… ṛta ut* (Pā. Sū. 6-1-111) *ut*; *repha* follows; *rātsasya* (Pā. Sū. 8-2-24) loss of *s*); *śaryām* (*śara eva śaryā*; *cetvarṇādibhya upasaṃkhyānam* [?] *ṣyañ* suffix; *yasyeti ca* loss of the *a*; *ñit*: first *udātta*; or in the sense of product, *yat*; *yato 'nāvaḥ* first *udātta*); *asanām* (root *asu kṣepaṇe*; *bahulagrahaṇāt* in the sense of the object, *lyuṭ* suffix; *yuvor anākau* (Pā. Sū. 7-1-1) *ana*; in the *phiṭ*-class, so final *udātta*). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> न यं रिपवो न रिषण्यवो गर्भे सन्तं रेषणा रेषयन्ति ।
+> अन्धा अपश्या न दभन्नभिख्या नित्यास ईं प्रेतारो अरक्षन् ॥ ५ ॥
+
+> *na yaṃ ripavo na riṣaṇyavo garbhe santaṃ reṣaṇā reṣayanti |*
+> *andhā apaśyā na dabhannabhikhyā nityāsa īṃ pretāro arakṣan ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> न । यम् । रिपवः । न । रिषण्यवः । गर्भे । सन्तम् । रेषणाः । रेषयन्ति ।
+> अन्धाः । अपश्याः । न । दभन् । अभिऽख्या । नित्यासः । ईम् । प्रेतारः । अरक्षन् ॥ ५ ॥
+
+> *na | yam | ripavaḥ | na | riṣaṇyavaḥ | garbhe | santam | reṣaṇāḥ | reṣayanti |*
+> *andhāḥ | apaśyāḥ | na | dabhan | abhi 'khyā | nityāsaḥ | īm | pretāraḥ | arakṣan ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: no enemies, no harmful ones can harm Agni even in the embryo-state; the blind or sightless cannot dim his glory; his constant helpers protect him.)*
+
+> यमग्निं गर्भे गर्भवद्र्चक्रे [?] अरणिमध्ये सन्तं वर्तमानं रिपवो नेरा [?] ... रेषयन्ति न दुःखयन्ति । कथा रिषण्यवोऽन्ये हिंसकाः । दुरस्मुर्दर्शिनः स्वयं पश्यन्तः [?] ... *[small type; the sentence continues on p. 441]*
+
+> *yamagniṃ garbhe garbhavadrcakre [?] araṇimadhye santaṃ vartamānaṃ ripavo nerā [?] ... reṣayanti na duḥkhayanti | kathā riṣaṇyavo 'nye hiṃsakāḥ | durasmurdarśinaḥ svayaṃ paśyantaḥ [?] ... *[small type; the sentence continues on p. 441]**
+
+---
+
+### Printed p. 441  (PDF 459)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 33 [?].)*
+
+*(Ṛk 5 bhāṣya, continued.)*
+
+> रिषण्यवः । पा. ३-१-३२ [?] इति क्यचि निपातत्वाद्रिषण्यवः [?] । क्यच्छन्दस्युत्कः [?] । न हिंसन्ति कीदृशास्ते [?] रेषणा हिंसनस्वभावाः । यद्वा । तेषां क्रियमाणं हिंसनमप्रकारः [?] ... अभिख्याभिख्यां [?] माहात्म्यं मन्दा अविद्वांसः अत्र विनाशयित्वारः [?] अद्ध्वा [?] ... विद्वांसोऽप्यभयाविद्यातारः [?] ... न दभन्ति न दभ्नुवन्ति न हिंसन्ति लोकोपकारिणामपि प्रयोजनं च्छाशातीति भावः । तथ्यं सपारमार्थिकं रूपं के जानन्तीति चेत् उच्यते । नित्यासो नित्या अनिलेतिभक्ष्यः अग्निहोत्रादिनित्यकर्मरता वा । अग्निं नुग्रहात्ययमपि नित्या भविष्यन्तीति भासि नित्यत्वमाश्रित्य नित्या उच्यन्ते [?] । तादृशा यजमानाः प्रेतारो यज्ञादिना तमेव तर्पयितारः सन्तः एमेनमरक्षन् रक्षन्ति । यज्ञादिरूपेण भजन्ते इत्यर्थः ॥ *[small type; many words doubtful]*
+
+> *riṣaṇyavaḥ | pā. 3-1-32 [?] iti kyaci nipātatvādriṣaṇyavaḥ [?] | kyacchandasyutkaḥ [?] | na hiṃsanti kīdṛśāste [?] reṣaṇā hiṃsanasvabhāvāḥ | yadvā | teṣāṃ kriyamāṇaṃ hiṃsanamaprakāraḥ [?] ... abhikhyābhikhyāṃ [?] māhātmyaṃ mandā avidvāṃsaḥ atra vināśayitvāraḥ [?] addhvā [?] ... vidvāṃso 'pyabhayāvidyātāraḥ [?] ... na dabhanti na dabhnuvanti na hiṃsanti lokopakāriṇāmapi prayojanaṃ cchāśātīti bhāvaḥ | tathyaṃ sapāramārthikaṃ rūpaṃ ke jānantīti cet ucyate | nityāso nityā aniletibhakṣyaḥ agnihotrādinityakarmaratā vā | agniṃ nugrahātyayamapi nityā bhaviṣyantīti bhāsi nityatvamāśritya nityā ucyante [?] | tādṛśā yajamānāḥ pretāro yajñādinā tameva tarpayitāraḥ santaḥ emenamarakṣan rakṣanti | yajñādirūpeṇa bhajante ityarthaḥ ‖ *[small type; many words doubtful]**
+
+**Pratipadārtha (Kannada).** *garbhe* — between the fire-sticks, like an embryo that is to be protected well; *santam* — being present; *yam* — whom, that Agni; *ripavaḥ* — enemies, of the sacrificers; *na reṣayanti* — cannot harm; *reṣaṇāḥ* — those whose nature is to cause damage; *riṣaṇyavaḥ* — other harmful ones too; *na* — cannot harm; (and) *andhāḥ* — those who are blind, like those without knowledge, the ignorant; *apaśyāḥ* — those who, with eyes, are unable to see; (or) those who, even with knowledge, by devotion and faith … worship; thus — these unwise ones; *abhikhyā* — his famous glory (greatness); *na dabhan* — cannot make dim; *nityāsaḥ* — those who are of constant faith in devotion; *pretāraḥ* — the sacrificers who please Agni by sacrifices; *īm* — this Agni; *arakṣan* — protect, serve.
+
+**Bhāvārtha.** Agni, who is in the midst of the fire-sticks like an embryo to be protected, cannot be harmed by his enemies, the foes of the sacrificers, or by other harmful ones given to doing damage; and the blind, as men without knowledge, the ignorant, are unable to know him and cannot dim his famous glory. The sacrificers, of constant faith and devotion, who please Agni by sacrifices, protect and serve him.
+
+**English Translation (as printed).** The blind (of intellect), or those who see not (physically), detract not from his glory, whom no enemies, no malevolent adversaries, harm, even whilst yet in (his) embryo (condition); for his constant encouragers defend him.
+
+---
+
+### Printed p. 442  (PDF 460)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 148".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***garbhe santam*** — *garbhavad rakṣaṇīyaṃ*: "in the embryo, being a being protected well, between the fire-sticks, like an embryo", thus Sāyaṇa has explained it in this Ṛk too; and:
+
+> गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथाम् । अद्रौ चिदस्मा अन्तर्दुरोणे विशां न विश्वो अमृतः स्वाधीः ॥
+
+> *garbho yo apāṃ garbho vanānāṃ garbhaśca sthātāṃ garbhaścarathām | adrau cidasmā antarduroṇe viśāṃ na viśvo amṛtaḥ svādhīḥ ‖*
+
+(Ṛ. Saṃ. 1-70-3.) In this Ṛk: (1) *apāṃ garbhaḥ* — *garbhavad antar vartī, apām napāt*, "like an embryo being within the waters, the Apāṃnapāt" — in the name of the Apām Napāt, the Agni who is in the form of an embryo within the waters; (2) *vanānāṃ garbhaḥ* — *araṇyānām garbhaḥ dāvāgnī rūpeṇa tanmadhye vartate*: "the embryo of the forests; in the form of the forest-fire he abides within them"; (3) *sthātāṃ garbhaḥ* — *sthāvarāṇāṃ kāṣṭhādīnāṃ garbhaḥ antaravasthitaḥ*: "the embryo of the stationary ones, wood and the rest, abiding within"; (4) *caratāṃ garbhaḥ* — *jaṅgamānāṃ garbhaḥ jāṭharāgnirūpeṇa dehamadhye sthitaḥ*: "the embryo of the moving, abiding within the bodies in the form of the digestive fire" — so in many things Agni's state of being an embryo within is described.
+
+> के इमं वो निन्यमा चिकेत वत्सो मातॄर्जनयत स्वधाभिः । बह्वीनां गर्भो अपसामुपस्थान्महान्कविर्निश्चरति स्वधावान् ॥
+
+> *ke imaṃ vo ninyamā ciketa vatso mātṝrjanayata svadhābhiḥ | bahvīnāṃ garbho apasāmupasthānmahānkavirniścarati svadhāvān ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this, *bahvīnāṃ garbhaḥ* — *meghasthānām apāṃ garbhaḥ vaidyutarūpeṇa garbhasthānīyaḥ saḥ agniḥ*: "the embryo of the many waters, abiding in the clouds in the form of lightning — that Agni is, as it were, in the position of an embryo"; or *bahvīnām oṣadhīnām diśāṃ vā garbhaḥ*, "the embryo of the many plants or quarters" (*oṣadhiṣu antarvartī*, "being within the plants"). Likewise in the Ṛk at hand also the embryo-form of Agni is spoken of.
+
+***andhāḥ apaśyāḥ*** — here it is explained in two ways. First: *andhāḥ* — *jñānaśaktirahitā avidvāṃsaḥ*, "the ignorant, devoid of the power of knowledge"; *apaśyāḥ* — *anetrāḥ* [sic: *anakṣāḥ*?], "sightless"; because they are such, they cannot know the fire-sticks' churning and so on, i.e. are unable to understand the kindling of Agni and the like (the performance of rites); second: those who are not devoid of knowledge but, with devotion and faith, ... are yet unfit for the rite — the sense is "learned men [too] with faith and no devotion" [partly unclear].
+
+***abhikhyā*** — the word is read among the names of understanding (Ni. 3-[?]); here, *abhitaḥ khyātiṃ māhātmyam*: "on all sides spread fame, greatness" — it is explained by Sāyaṇa: "(of Agni) the greatness which is famous everywhere".
+
+---
+
+### Printed p. 443  (PDF 461)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 33 [?].)*
+
+***pretāraḥ*** — *yajñādinā tam eva tarpayitāraḥ*: "those who please him by sacrifices and the like" — the sacrificers.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *ripavaḥ* (root *rapa vyaktāyāṃ vāci*; *rapeścit* [?] (Uṇ. Sū. 1-[?]) *u* suffix; *itva* of the root; *anistaṃ rapati iti ripuḥ*; suffix accent: final *udātta*); *riṣaṇyavaḥ* (root *riṣa hiṃsāyām*; *muraskṛdarciṣṭitiśarvarṣaṇ…* (Pā. Sū. 3-2-[?]) *kyac* is *nipātita*; *kyāc chandasi* (Pā. Sū. 3-2-170) *u* suffix after *kyac*; *ako lopaḥ*: loss of the *a*; suffix accent: final *udātta*; nom. plural); *reṣaṇāḥ* (root *riṣa hiṃsāyām*; agent *yuc*; *ana* for it; *cit*: final *udātta*); *reṣayanti* (the root as above, causative *ṇic* by *hetumati ca* (Pā. Sū. 3-1-26); *pugantalaghūpadhasya ca* guṇa of the penultimate short vowel; *laṭ* 3rd plural; the *lasārvadhātuka* *anudātta*, so the *ṇic* accent remains); *apaśyāḥ* (*na paśyanti iti apaśyāḥ*; by *vyatyaya* final *udātta*); *dabhan* (root *dambhu dambhe*; present sense *laṅ* in *chandasi*; 3rd plural *jhi* → *anta*; loss of *i*; *bahulaṃ chandasi* *luk* of the vikaraṇa; because the suffix is *kit* [?], loss of the root's penultimate nasal; *aṭ* augment not present by *bahulaṃ chandasy māṅyoge 'pi*; *tiṅ*-*nighāta*); *nityāsaḥ* (the word *nitya*; *jas* following, *ājjaserasuk* (Pā. Sū. 7-1-50) *asuk*); *pretāraḥ* (root *prīñ tarpaṇe*; agent *tṛc*; *ārdhadhātukasyeḍvalādeḥ* (Pā. Sū. 7-2-35) *iṭ* augment; guṇa; *cit*: final *udātta*; nominative plural); *arakṣan* (root *rakṣa pālane*; present sense *laṅ* in *chandasi*; 3rd plural; after a *tiṅanta*, *nighāta*). ‖ 5 ‖
+
+*Here the 148th Sūkta ends.*
+
+---
+
+## Sūkta 149
+
+### Printed p. 444  (PDF 462)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of five Ṛks beginning "Mahaḥ sa" is the ninth sūkta, of Dīrghatamas, in the metre Vairāja (Virāṭ), Agni deity; the Virāṭ metre is of ten syllables per pāda or eleven; its use is by indication.)*
+
+> महः स इति पञ्चर्चं नवमं सूक्तं दैर्घतमसं वैराजमाग्नेयम् । दशकाश्रयो विराळेकादशका वा । अनु. [?] ... तथा चानुक्रान्तम् । महः स वैराजमिति ॥ विनियोगो लैङ्गिकः ॥
+
+> *mahaḥ sa iti pañcarcaṃ navamaṃ sūktaṃ dairghatamasaṃ vairājamāgneyam | daśakāśrayo virāḷekādaśakā vā | anu. [?] ... tathā cānukrāntam | mahaḥ sa vairājamiti ‖ viniyogo laiṅgikaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *mahaḥ sa* is the ninth sūkta in the twenty-first anuvāka. It has five Ṛks. The ṛṣi of this sūkta is Dīrghatamas Aucathya. Agni is the deity. The metre is Virāṭ. In the Anukramaṇī it is said *mahaḥ sa vairājam*, with *daśakāśrayo virāḷ ekādaśakā vā*, stating also the characteristic of the Virāṭ metre. The use is by indication (*laiṅgika*).
+
+**॥ ओम् ॥**
+
+**Sūkta 149** — Maṇḍala 1, Anuvāka 21, Sūkta 149; Aṣṭaka 2, Adhyāya 2, Varga 34 [?]. Number of Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: Virāṭ.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> महः स राय एषते पतिर्दन्निन इनस्य वसुनः पद आ ।
+> उप ध्रजन्तमद्रयो विधन्नित् ॥ १ ॥
+
+> *mahaḥ sa rāya eṣate patirdannina inasya vasunaḥ pada ā |*
+> *upa dhrajantamadrayo vidhannit ‖ 1 ‖*
+
+---
+
+### Printed p. 445  (PDF 463)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 34 [?].)*
+
+**॥ पदपाठः ॥**
+
+> महः । सः । रायः । आ । ईषते । पतिः । दन् । इनः । इनस्य । वसुनः । पदे । आ ।
+> उप । ध्रजन्तम् । अद्रयः । विधन् । इत् ॥ १ ॥
+
+> *mahaḥ | saḥ | rāyaḥ | ā | īṣate | patiḥ | dan | inaḥ | inasya | vasunaḥ | pade | ā |*
+> *upa | dhrajantam | adrayaḥ | vidhan | it ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni, lord of great wealth, comes giving desired things, and is at the place of wealth; the pressing stones, worshipping him as he comes near, please him.)*
+
+> महो महतः पूज्यस्य रायो गवादिरूपस्य धनस्य पतिः पालकः स्वामी सोऽग्निर्दन् ददद्वाभिमतं प्रयच्छन् [?] ॥ ददातेः शतरि च्छान्दसः शपो लुक् । तस्य चच्छान्दस्यभयदित्यर्थधातुकत्वादातो लोपे इति चेत्याकारलोपः ॥ आ अभिमुख्येनास्मद्देशमायन्नुषते प्रतीषते गच्छति । ईषते गतिकर्मा ॥ इनः सर्वस्य परिमितो [?] ... किंचेनस्य स्वामिनोऽग्निः [?] वसुनो धनस्य पदे अस्मद्भूतो [?] वेदिस्थाने आ । अत्र आयो [?] उपसर्गव्यवहितः ... यद्वा वसुनो निवासयोग्यस्य धनस्वामिनः इति सम्बन्धः । यद्वा । वसुप्राप्ति प्रसिद्धा । किंच उप ध्रजन्तमुपगच्छन्तमेनमग्निं मर्मषः [?] ... अद्रयः ग्रावाणः सोमाभिषवार्थाः [?] यजमाना विधन् विधानं [?] ... परिचरन्ति ... *[small type; many words doubtful]*
+
+> *maho mahataḥ pūjyasya rāyo gavādirūpasya dhanasya patiḥ pālakaḥ svāmī so 'gnirdan dadadvābhimataṃ prayacchan [?] ‖ dadāteḥ śatari cchāndasaḥ śapo luk | tasya cacchāndasyabhayadityarthadhātukatvādāto lope iti cetyākāralopaḥ ‖ ā abhimukhyenāsmaddeśamāyannuṣate pratīṣate gacchati | īṣate gatikarmā ‖ inaḥ sarvasya parimito [?] ... kiṃcenasya svāmino 'gniḥ [?] vasuno dhanasya pade asmadbhūto [?] vedisthāne ā | atra āyo [?] upasargavyavahitaḥ ... yadvā vasuno nivāsayogyasya dhanasvāminaḥ iti sambandhaḥ | yadvā | vasuprāpti prasiddhā | kiṃca upa dhrajantamupagacchantamenamagniṃ marmaṣaḥ [?] ... adrayaḥ grāvāṇaḥ somābhiṣavārthāḥ [?] yajamānā vidhan vidhānaṃ [?] ... paricaranti ... *[small type; many words doubtful]**
+
+**Pratipadārtha (Kannada).** *mahaḥ* — of the greatness (the great); *rāyaḥ* — of wealth in the form of cows and the like; *patiḥ* — the owner; *saḥ* — that Agni; *dan* — giving (the desired aims); *ā* — in the direction of the sacrificer; *īṣate* — comes; *inaḥ* — the mighty, though one who is powerful also; *inasya* — of the powerful; *vasunaḥ* — of wealth; *pade* — at the place of the abode (the altar); *ā* — coming and seated; *upa dhrajantam* — Agni who comes near; *adrayaḥ* — the sacrificers holding the stones that carry the Soma juice; (or) the stones that carry the Soma juice; *dhrajantam* — Agni, who comes; *upa* — near; *vidhanit* — by their [own] sounds, they please him with joy.
+
+**Bhāvārtha.** Agni, owner of great wealth in the form of cows and the like, comes toward the sacrificer giving the desired things. Though mighty, he comes and sits at the place of wealth, the altar, and the stones that carry the Soma juice please him with their sounds as he comes near.
+
+---
+
+**Progress note:** Vol 11 — Sūkta 148 complete (printed pp. 423–443). Sūkta 149 (5 Ṛks, Virāṭ metre) begun: printed pp. 444–445 done (Anukramaṇī, heading, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha). Next: printed p. 446 (PDF 464). Images in /tmp/v11a (PDF 33–463; recrop 464+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Bṛhaddevatā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
