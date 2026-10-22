@@ -10699,4 +10699,134 @@ In this Ṛk, *dhenū* is an adjective of heaven and earth. In the passage where
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 147 (5 Ṛks, Triṣṭubh) done through printed p. 409 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; its Special Topics and grammar to come). Next: printed p. 410 (PDF 428). Images in /tmp/v11a (PDF 33–427; recrop 428+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–147; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 410  (PDF 428)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2).** ***vandāruḥ*** — *vandanaśīlaḥ ahaṃ*: "I, one given to worshipping" — "one who has the habit of worshipping you; I", says the worshipper. In many places in the Ṛk-saṃhitā, the word *vandāru* is used in the sense "praise". Example:
+
+> क उ श्रवत्कतमो यज्ञियानां वन्दारु देवः कतमो जुषाते । कस्येमां देवीममृतेषु प्रेष्ठां हृदि श्रेषाम सुष्टुतिं सुहव्याम् ॥
+
+> *ka u śravatkatamo yajñiyānāṃ vandāru devaḥ katamo juṣāte | kasyemāṃ devīmamṛteṣu preṣṭhāṃ hṛdi śreṣāma suṣṭutiṃ suhavyām ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) In such Ṛks it means *vandanaśīlaṃ stotram*, "praise [that is] given to worship".
+
+***tanvam*** — *tanuṃ tava mūrtiṃ vande*: "I praise your body, your form"; the worshipper says "I worship your form". What the forms of the gods are, in what way — *puruṣavidhāḥ syur ity eke* (Ni. 7-[?]): "some say they are of human form" — in this sense, the question on which view the Ṛk-saṃhitā rests is discussed in the Pīṭhikā section.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *bodha* (root *budha avagamane*; *bhvādi*; *loṭ* 2nd sg.; *sip* → *hi*; *ato heḥ* (Pā. Sū. 6-4-105) *luk* of it; *dhyeṇ…* [?] (Pā. Sū. 6-3-[?]) lengthening in the *saṃhitā*; *dyaucośṛḥ* [?]); *vacasaḥ* (root *vaca paribhāṣaṇe*; *uṇādi* *asun* suffix; being *nit*, first *udātta*; *kartṛkarmaṇoḥ kṛti* (Pā. Sū. 2-3-65) genitive in the sense of the object); *yaviṣṭha* (*atiśayena yuvā yaviṣṭhaḥ*; *iṣṭhan*; *sthūladūrayuvahrasvakṣipra…* (Pā. Sū. 6-4-156) loss of *yuvan*'s *van*; guṇa of the preceding *u*; *āvādeśa*; vocative: *āmantritasya ca* gives the *nighāta* accent); *maṃhiṣṭhasya* (root *maha vṛddhau*; in the sense of the agent, *tṛc* suffix; *atiśayena maṃhitā maṃhiṣṭhaḥ*; *tuśchandasi* (Pā. Sū. 5-3-59) *iṣṭhan* after a *tṛjanta*; *teriḍi…* (Pā. Sū. 6-4-154) loss of *ti*; since the suffix is *nit*, first *udātta*); *prabhṛtasya* (root *bhṛñ bharaṇe*; passive: *niṣṭhā* suffix; *gatir anantaraḥ* (Pā. Sū. 6-2-49) the *gati* (*pra*) keeps its natural accent; genitive sg.).
+
+---
+
+### Printed p. 411  (PDF 429)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 29 [?].)*
+
+*(Ṛk 2 grammar, continued, noted briefly.)* *svadhāvaḥ* (*matup* suffix; *mādupadhāyāś ca…* (Pā. Sū. 8-2-9) *va* for the *ma*; in the vocative, *matuvasor ruḥ sambuddhau* (Pā. Sū. 8-3-1) *ru*; the *āmantrita* *nighāta* accent); *pīyati* (root *pīṅ pāne*; here used in the sense of reviling; *laṭ* 3rd sg.; no *nighāta* because *pāda*-initial; *śyan* vikaraṇa, being *nit*, first *udātta*); *gṛṇāti* (root *gṝ śabde*; *kryādi*; *laṭ* 3rd sg. *tip*; *kryādibhyaḥ śnā*: *śnā* vikaraṇa; *prvānīnāṃ hrasvaḥ* [?] (Pā. Sū. 7-3-80) shortening of the root; *tiṅ*-*nighāta*); *vandāruḥ* (root *vadi abhivādanastutyoḥ*; *śvandsyor ārur* [?] (Uṇ. Sū. 3-[?]) *āru* suffix in the agent sense; *idito num dhātoḥ* *num* for the root; first *udātta* of the suffix); *tanvam* (*tanū* → *tanvam* by *chandasy upasaṃkhyānam*: *yaṇ*; *udāttasvaritayor yaṇaḥ* (Pā. Sū. 8-2-4) *svarita* accent); *vande* (root *vadi abhivādanastutyoḥ*; *iditvāt* *num*; *laṭ* 3rd sg.; after a *tiṅanta*, *nighāta*). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> ये पायवो मामतेयं ते अग्ने पश्यन्तो अन्धं दुरितादरक्षन् ।
+> ररक्ष तान्त्सुकृतो विश्ववेदा दिप्सन्त इद्रिपवो नाह देभुः ॥ ३ ॥
+
+> *ye pāyavo māmateyaṃ te agne paśyanto andhaṃ duritādarakṣan |*
+> *rarakṣa tāntsukṛto viśvavedā dipsanta idripavo nāha debhuḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> ये । पायवः । मामतेयम् । ते । अग्ने । पश्यन्तः । अन्धम् । दुःऽइतात् । अरक्षन् ।
+> ररक्ष । तान् । सुऽकृतः । विश्वऽवेदाः । दिप्सन्तः । इत् । रिपवः । न । अह । देभुः ॥ ३ ॥
+
+> *ye | pāyavaḥ | māmateyam | te | agne | paśyantaḥ | andham | duḥ 'itāt | arakṣan |*
+> *rarakṣa | tān | su 'kṛtaḥ | viśva 'vedāḥ | dipsantaḥ | it | ripavaḥ | na | aha | debhuḥ ‖ 3 ‖*
+
+---
+
+### Printed p. 412  (PDF 430)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+**॥ सायणभाष्यम् ॥** *(gist: the protecting rays of Agni, seeing the blind son of Mamatā, saved him from distress; the all-knowing one protects those who do good, and the enemies who wish to harm them cannot.)*
+
+> अत्रेतिहासमाचक्षते । उचथ्यबृहस्पतिनामानौ द्वावृषी आस्ताम् । तत्रोचथ्यस्य ममता नाम भार्या । सा च गर्भिणी । तां बृहस्पतिर्गृहीत्वा रमयामास [?] ... शुक्रनिर्गमनावसरे प्राप्ते गर्भस्य रेतः प्रावादीत् । हे मुने रेतो मा त्याक्षीः पूर्वमहं वसामि रेतःसङ्करं मा कार्षीरिति । एवमुक्तो बृहस्पतिर्बलात्प्रतिरुद्धरेतस्कः सन् शशाप । हे गर्भ त्वं यतो रेतोनिरोधमकरोः ... अतस्त्वं दीर्घं तमः प्राप्नुहि [?] जातमात्रो भवेति [?] । एवं शप्तो ममतायां दीर्घतमा आजायते । स चोत्पन्नः स्तन्योदधययोर्मुमुक्षः [?] ... स च स्तुत्या प्रीतमग्निमाह [?]... तेदीतमाह्वयते [?] । हे अग्ने ते तव सम्बन्धिनो ये पायवः पालयितारो रश्मयो मामतेयम् ममताया अपत्यं पुत्रं दीर्घतमसमन्धं पश्यन्तः ऽपश्यन्तोऽयम् [?] ... दुरितादुद्भूतात् [?] ... अरक्षन् रक्षितवन्तः तान्सुकृतः सुखकर्तॄन् विश्ववेदा विश्वज्ञो रक्षसि रक्षति । अस्मान्पालनेति भावः । ... एवं रक्षितास्मान् दिप्सन्तो दम्भितुमिच्छन्तो रिपवः कामादिरूपाः नाह देभुः अहेती [?] ... दंभेः ... देभुः । हिंसितुं शक्नुवन्ति ॥ *[small type; the story and the grammatical tail are only partly legible; many words doubtful]*
+
+> *atretihāsamācakṣate | ucathyabṛhaspatināmānau dvāvṛṣī āstām | tatrocathyasya mamatā nāma bhāryā | sā ca garbhiṇī | tāṃ bṛhaspatirgṛhītvā ramayāmāsa [?] ... śukranirgamanāvasare prāpte garbhasya retaḥ prāvādīt | he mune reto mā tyākṣīḥ pūrvamahaṃ vasāmi retaḥsaṅkaraṃ mā kārṣīriti | evamukto bṛhaspatirbalātpratiruddharetaskaḥ san śaśāpa | he garbha tvaṃ yato retonirodhamakaroḥ ... atastvaṃ dīrghaṃ tamaḥ prāpnuhi [?] jātamātro bhaveti [?] | evaṃ śapto mamatāyāṃ dīrghatamā ājāyate | sa cotpannaḥ stanyodadhayayormumukṣaḥ [?] ... sa ca stutyā prītamagnimāha [?]... tedītamāhvayate [?] | he agne te tava sambandhino ye pāyavaḥ pālayitāro raśmayo māmateyam mamatāyā apatyaṃ putraṃ dīrghatamasamandhaṃ paśyantaḥ 'paśyanto 'yam [?] ... duritādudbhūtāt [?] ... arakṣan rakṣitavantaḥ tānsukṛtaḥ sukhakartṝn viśvavedā viśvajño rakṣasi rakṣati | asmānpālaneti bhāvaḥ | ... evaṃ rakṣitāsmān dipsanto dambhitumicchanto ripavaḥ kāmādirūpāḥ nāha debhuḥ ahetī [?] ... daṃbheḥ ... debhuḥ | hiṃsituṃ śaknuvanti ‖ *[small type; the story and the grammatical tail are only partly legible; many words doubtful]**
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *te* — your; *ye pāyavaḥ* — which protecting rays; *māmateyam* — the son of Mamatā, Dīrghatamas (the one named by the ṛṣi); *andham* — the person who is blind (thinking "he is blind"); *duritāt* — from the affliction (from blindness); *arakṣan* — protected; *tān sukṛtaḥ* — those good-doing rays; *viśvavedāḥ* — one who knows all; *rarakṣa* — protects (and so we too, protected); *dipsantaḥ* — (wishing to harm us) desiring to injure; *ripavaḥ* — enemies (of the form of desires); *nāha debhuḥ* — are unable to harm.
+
+**Bhāvārtha.** O Agni, your protecting rays, seeing Mamatā's son Dīrghatamas thus blind, protected him from blindness. You who know all protect those good-doing rays; so too, protected, the enemies who wish to harm us in the form of desires are unable to harm us.
+
+---
+
+### Printed p. 413  (PDF 431)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 29 [?].)*
+
+**English Translation (as printed).** Your [printed "Ycur", sic] fostering (rays), Agni, beholding the blind son of Mamata, relieved him of the affliction: he who knows all things protects the pious, and (their) malevolent enemies are unable to do them harm.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***māmateyam andham paśyantaḥ duritāt arakṣan*** — "seeing Mamatā's son blind, they saved him from distress": in this, the protecting activity of Agni's rays is praised; Sāyaṇa narrates the *sannivēśa*-story (the background of the occurrence) here in this way:
+
+> अत्रेतिहासमाचक्षते । उचथ्यबृहस्पतिनामानौ द्वावृषी आस्ताम् । तत्रोचथ्यस्य ममता नाम भार्या । सा च गर्भिणी । तां बृहस्पतिर्गृहीत्वा रमयामास [?] । शुक्रनिर्गमनावसरे प्राप्ते गर्भस्य रेतः प्रावादीत् । हे मुने रेतो मा त्याक्षीः पूर्वमहं वसामि रेतःसङ्करं मा कार्षीरिति । एवमुक्तो बृहस्पतिर्बलात्प्रतिरुद्धरेतस्कः सन् शशाप । ... स जातमात्रो [?] ... ॥
+
+> *atretihāsamācakṣate | ucathyabṛhaspatināmānau dvāvṛṣī āstām | tatrocathyasya mamatā nāma bhāryā | sā ca garbhiṇī | tāṃ bṛhaspatirgṛhītvā ramayāmāsa [?] | śukranirgamanāvasare prāpte garbhasya retaḥ prāvādīt | he mune reto mā tyākṣīḥ pūrvamahaṃ vasāmi retaḥsaṅkaraṃ mā kārṣīriti | evamukto bṛhaspatirbalātpratiruddharetaskaḥ san śaśāpa | ... sa jātamātro [?] ... ‖*
+
+*(The Kannada paraphrase of the story, in English:)* Ucathya and Bṛhaspati were two ṛṣis. Ucathya's wife was named Mamatā. When she was pregnant, Bṛhaspati forcibly took her and made love to her. At the moment of the emission, the embryo within said: "O sage, I am already living here first; do not mix seed [with mine]; leave your seed — have compassion on me." Bṛhaspati, angry that his seed was thus stopped, cursed the embryo: "Since you obstructed the seed, may you be born with long darkness (*dīrghatamas*) — be blind!" Thus the son was born to Mamatā named Dīrghatamas, "Long-dark". As soon as he was born, he, in the darkness, praised Agni; Agni, pleased with this praise, removed his blindness; and that incident is hinted at here.
+
+The same story is told also by the author of the Bṛhaddevatā:
+
+> द्वावुचथ्यबृहस्पती ऋषिपुत्रौ बभूवतुः । आसीदुचथ्यभार्या तु ममता नाम भार्गवी ॥
+
+> *dvāvucathyabṛhaspatī ṛṣiputrau babhūvatuḥ | āsīducathyabhāryā tu mamatā nāma bhārgavī ‖*
+
+---
+
+### Printed p. 414  (PDF 432)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+> तां कनीयान्बृहस्पतिर्मैथुनायोपचक्रमे । शुक्रस्योत्सर्गकाले तु गर्भस्तं प्रत्यभाषत ॥
+> अहमस्मि पूर्वसंभूतो मा कार्षीः शुक्रसंकरम् । तच्छ्रुत्वा कृतिप्रतिषेधं तु न मामर्षद्बृहस्पतिः [?] ॥
+> स व्यजहार तं गर्भं तमस्ते दीर्घमस्त्विति । स च दीर्घतमा नाम बभूवर्षिरुचथ्यजः ॥
+> स जात्यो [?] ऽभ्यतपद्देवानेकसन्धं [?] तमा गतः । ददुर्देवास्तस्मै नेत्रे ततोऽन्धो बभूव सः [?] ॥
+> स वेदिषद इत्स्तुत्वा [?] ... ॥
+
+> *tāṃ kanīyānbṛhaspatirmaithunāyopacakrame | śukrasyotsargakāle tu garbhastaṃ pratyabhāṣata ‖*
+> *ahamasmi pūrvasaṃbhūto mā kārṣīḥ śukrasaṃkaram | tacchrutvā kṛtipratiṣedhaṃ tu na māmarṣadbṛhaspatiḥ [?] ‖*
+> *sa vyajahāra taṃ garbhaṃ tamaste dīrghamastviti | sa ca dīrghatamā nāma babhūvarṣirucathyajaḥ ‖*
+> *sa jātyo [?] 'bhyatapaddevānekasandhaṃ [?] tamā gataḥ | dadurdevāstasmai netre tato 'ndho babhūva saḥ [?] ‖*
+> *sa vediṣada itstutvā [?] ... ‖*
+
+(Bṛ. De. 4-[?]-[?].) In this story, it is said that Bṛhaspati and Ucathya are brothers; and, as Sāyaṇa narrates, Dīrghatamas praised Agni; and here, the gods are praised, and it is also said that these gods gave him eyes. The story-background of *māmateyam duritād arakṣan* is this.
+
+Concerning this sūkta, Oldenberg writes as follows:
+
+Dirghatamas, the son of Mamata, is the reputed author of this section of the first Mandala which belongs indeed to a family of priests claiming descent from him. The story of the blindness of Dirghatamas and of the distress into which he fell is told in the Mahabharata I-4179 Seq.
+
+Considering the construction of the whole verse from the grammatical point of view only, one will scarcely be tempted to translate otherwise than we have done. But it is rather strange that Agni is represented here as saving those very guardians by the aid of whom he has saved Mamateya. The meaning which one should expect to find expressed, is rather that Agni, as he saved Mamateya by his guardians, has saved also and will save, all pious worshippers. This meaning may be established if we consider the construction of the verse as similar to that of I-37-12.
+
+Thus, we may, I believe, translate here, "Agni, with such guardians as thine who have seen and saved the blind son of Mamata from distress, he, the possessor of all wealth (i.e. Agni) has saved all those who have done good deeds".
+
+(The Vedic Hymns, P. 171-2)
+
+***duritāt*** — Nirukta author explains the word *durita* as *durgatigamanam* (Ni. 6-[?]); and
+
+---
+
+### Printed p. 415  (PDF 433)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 29 [?].)*
+
+> वैश्वदेवीं सौम्यतामारभध्वं [?] शुद्धा भवन्तो यज्ञियासः पावकाः । अतिक्रामन्तो दुरितानि विश्वा शतं हिमाः सर्ववीरा मदेम ॥
+
+> *vaiśvadevīṃ saumyatāmārabhadhvaṃ [?] śuddhā bhavanto yajñiyāsaḥ pāvakāḥ | atikrāmanto duritāni viśvā śataṃ himāḥ sarvavīrā madema ‖*
+
+(Śruti passage, reference not read.) Citing this Śruti sentence, he explains the word *durita* in the sense "*duritāni — durgatiprāpakāṇi karmāṇi*" — "evil deeds that lead to a bad end" — ("*dussthitiṃ gatiḥ* [?] *tarataḥ*": the actions that are the means to a bad state are meant: they knew the *durita*, 'the evil acts', to be what is to be crossed over).
+
+***dipsantaḥ*** — *dambhituṃ icchantaḥ ripavaḥ*: "enemies wishing to harm"; "the enemies of the form of lust and the like, who wish to injure us" is the meaning.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *pāyavaḥ* (root *pā rakṣaṇe*; *kṛvāpājimisvadisādhyaśūbhyaḥ uṇ* (Uṇ. Sū. 1-1) *uṇ* suffix; *āto yuk ciṇkṛtoḥ* (Pā. Sū. 7-3-33) *yuk* for the root; the word *pāyu*; final *udātta* from the suffix); *māmateyam* (*mamatāyā apatyaṃ pumān māmateyaḥ*; *strībhyo ḍhak* (Pā. Sū. 4-1-120) *ḍhak* suffix; *āyaneyīnīyiyaḥ…* (Pā. Sū. 7-1-2) *eya*; *yasyeti ca* loss of the *ā*; *kiti ca* (Pā. Sū. 7-2-118) *vṛddhi* of the first syllable; accusative sg.); *paśyantaḥ* (root *dṛśir prekṣaṇe*; with *laṭ* → *śatṛ*, *paśya* substituted; *śap* vikaraṇa; as the root's *lasārvadhātuka* is *anudātta*, the root accent remains; *ugit* — nominative plural: *num*); *duritāt* (*dur* prefix + root *iṇ gatau*; *kta*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) *kṛdutarapada-prakṛtisvara*; ablative sg.); *arakṣan* (root *rakṣa pālane*; *laṅ* 3rd plural; owing to *yat* the *nighāta* is prevented; the *aṭ* augment being *udātta*, first *udātta*); *rarakṣa* (the root as above; *liṭ* 3rd sg.; no *nighāta* as *pāda*-initial; because of *ṇal* … *liti* (Pā. Sū. 6-1-193) *udātta* before the suffix); *sukṛtaḥ* (*śobhanaṃ kurvanti iti sukṛtaḥ*; root *ḍukṛñ karaṇe*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) *tuk* augment; *kṛdutarapada-prakṛtisvara*; accusative plural).
+
+---
+
+**Progress note:** Vol 11 — Sūkta 147 (5 Ṛks) done through printed p. 415 (Ṛks 1–2 complete; Ṛk 3 complete except the end of its grammar note on p. 416). Next: printed p. 416 (PDF 434), then Ṛks 4–5. Images in /tmp/v11a (PDF 33–433; recrop 434+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread — Ṛk 3's Dīrghatamas story and the Bṛhaddevatā verses on pp. 412–414 only partly legible; Ṛg/Nirukta/Brāhmaṇa/Śruti quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–147; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
