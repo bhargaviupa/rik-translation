@@ -8546,4 +8546,200 @@ Thus *gṛha*, *yajña* and *sabhā* have different senses, and since each is in
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–325 done (Ṛks 1–6 complete; Ṛk 7 *ghṛtapratīkaṃ va ṛtasya dhūrṣadam* complete through its Special Topics (including the long discussion of *vidatha* with Max Müller, Oldenberg and Bloomfield, pp. 322–325); its grammar is begun at the foot of p. 325 and continues on p. 326). Next: printed p. 326 (PDF 344), then Ṛk 8. Images at 120 dpi in /tmp/v11a (PDF 33–380; recrop 381 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–7 (pp. 302, 306–307, 311, 316, 319) largely unread; the English quotations of Müller/Oldenberg/Bloomfield on pp. 322–324 copied as printed, with their Devanagari words and references partly legible; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 326  (PDF 344)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+*Grammar (Ṛk 7, concluded; noted briefly).* *akraḥ* (root *kram pādavikṣepe*; *asteḥ* [?]… by the sūtra a suffix *ḍa* with the Vedic *ḍit* (*chandasi*) loss of the final *ṭi* of the root; *nañ*-compounds *nañ-kra* …; *nañ* + *kra*, the *kṛdanta* second member keeps its natural accent), *videṣu* (root *vida jñāne*; the suffix *athac* by Vedic usage [*bahulam chandasi*]; since the root's penultimate is not *laghūpadha-guṇa* because of *ñit*-like; the suffix *athac* gets the first-syllable *udātta* accent; locative plural), *śukravarṇām* (*śuklaḥ varṇo yasyāḥ sā*, tām; *bahuvrīhi*, the first member keeps its natural accent), *yaṃsate* (root *yamu uparame*; *leṭ*, third person singular, *tip*; *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79): *e*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94): *aḍāgama*; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-34): *sip*; the root's *m* becomes *anusvāra*; after an *ati…* word, the *nighāta* accent). ‖ 7 ‖
+
+---
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> अप्रयुच्छन्नप्रयुच्छद्भिरग्ने शिवेभिर्नः पायुभिः पाहि शग्मैः ।
+> अदब्धेभिरदृपितेभिरिष्टेऽनिमिषद्भिः परि पाहि नो जाः ॥ ८ ॥
+
+> *aprayucchannaprayucchadbhiragne śivebhirnaḥ pāyubhiḥ pāhi śagmaiḥ |*
+> *adabdhebhiradṛpitebhiriṣṭe 'nimiṣadbhiḥ pari pāhi no jāḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> अप्रऽयुच्छन् । अप्रऽयुच्छत्ऽभिः । अग्ने । शिवेभिः । नः । पायुऽभिः । पाहि । शग्मैः ।
+> अदब्धेभिः । अदृपितेभिः । इष्टे । अनिमिषत्ऽभिः । परि । पाहि । नः । जाः ॥ ८ ॥
+
+> *apra 'yucchan | apra 'yucchat 'bhiḥ | agne | śivebhiḥ | naḥ | pāyu 'bhiḥ | pāhi | śagmaiḥ |*
+> *adabdhebhiḥ | adṛpitebhiḥ | iṣṭe | animiṣat 'bhiḥ | pari | pāhi | naḥ | jāḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Agni, never heedless, protect us with unfailing, kindly, comfort-giving protections; O adorable one, unharmed and unconquered, guard also our offspring with sleepless watch.* Small type; partly legible)
+
+> हे अग्ने अप्रयुच्छन् अप्रमाद्यन् । युच्छ प्रमादे । अविच्छिन्नप्रवृत्तिः सन् अप्रयुच्छद्भिरप्रमादरहितैः [?] शिवेभिः कल्याणैः शग्मैः सुखकरैः पायुभिः रक्षणप्रकारैर्नोऽस्मान् पाहि । रक्ष । किंच हे इष्टे सर्वैरिष्टे [?] योग्ये अग्ने जायमानोऽस्मद्भिर्हिंस्यमानः सन् [?] अदब्धेभिरहिंसैः अदृपितेभिः केनचिदप्यपरिभूतैः [?] अनिमिषद्भिर्निमेषरहितैः जडस्वभावरहितैः [?] … दृपे दृप्त उत्क्लेशे [?] … जाः अस्मत्सम्बन्धिनीः पुत्रपौत्ररूपाः प्रजाः परि पाहि । परितो रक्ष । न केवलमस्मान् किन्तु पुत्रपौत्रादीनपि रक्ष ॥
+
+> *he agne aprayucchan apramādyan | yuccha pramāde | avicchinnapravṛttiḥ san aprayucchadbhirapramādarahitaiḥ [?] śivebhiḥ kalyāṇaiḥ śagmaiḥ sukhakaraiḥ pāyubhiḥ rakṣaṇaprakārairno 'smān pāhi | rakṣa | kiṃca he iṣṭe sarvairiṣṭe [?] yogye agne jāyamāno 'smadbhirhiṃsyamānaḥ san [?] adabdhebhirahiṃsaiḥ adṛpitebhiḥ kenacidapyaparibhūtaiḥ [?] animiṣadbhirnimeṣarahitaiḥ jaḍasvabhāvarahitaiḥ [?] … dṛpe dṛpta utkleśe [?] … jāḥ asmatsambandhinīḥ putrapautrarūpāḥ prajāḥ pari pāhi | parito rakṣa | na kevalamasmān kintu putrapautrādīnapi rakṣa ‖*
+
+---
+
+### Printed p. 327  (PDF 345)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 16.)*
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *aprayucchan* — (in respect of us) not heedless, ever vigilant; *aprayucchadbhiḥ* — not heedless; *śivebhiḥ* — auspicious; *śagmaiḥ* — comfort-giving; *pāyubhiḥ* — with protective means; *naḥ* — us; *pāhi* — guard; *iṣṭe* — O Agni, desired by all; *jāḥ* — born of us; *adabdhebhiḥ* — not to be injured; *adṛpitebhiḥ* — not to be overcome by others; *animiṣadbhiḥ* — never slumbering, with guards; *naḥ* — us; *pari* — all round; *pāhi* — protect; [or *naḥ* — to us; *jāḥ* — born, our sons and grandsons; *pari pāhi* — protect all round].
+
+**Bhāvārtha.** O Agni, be ever watchful over us, and guard us with protections that are not heedless, auspicious and comfort-giving. O Agni, desired by all, guard all round, with guards that are not to be injured or overcome by others and never asleep, us and also our sons and grandsons born of us.
+
+**English Translation (as printed).** Agni, never heedless (of us), guard us with never heedless, auspicious, and joy-bestowing cares : do you, who are desired (by all), protect us, and those born of us, with unobstructed, unovercome, and never-slumbering (vigilance).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** In this Ṛk the protection of Agni is prayed for. The nature of that protection is told by the epithets *aprayucchan* and the like.
+
+***aprayucchan*** — *yucchaprāmāde*: *aprayucchan* = *asmatpraharṣe jāgarūkaḥ* [?]: "vigilant", from the root *yuccha* ("to be careless") with the prefix, giving the sense "ever vigilant, not careless".
+
+---
+
+### Printed p. 328  (PDF 346)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+> त्वं दूतस्त्वमु नः परस्पास्त्वं वस्य आ वृषभ प्रणेता ।
+> अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन् दीद्यद्बोधि गोपाः ॥
+
+> *tvaṃ dūtastvamu naḥ paraspāstvaṃ vasya ā vṛṣabha praṇetā |*
+> *agne tokasya nastane tanūnāmaprayucchan dīdyadbodhi gopāḥ ‖*
+
+(Ṛ. Saṃ. 4-4-9.) In such Ṛks, Agni is prayed to protect with watchfulness; here too the same sense is signified.
+
+***śagmaiḥ*** — the word *śagma* is read among the names of happiness (Ni. 3-[?]); Sāyaṇa has generally given this word the sense "comfort" or "bringing comfort" everywhere. For example —
+
+> तं शग्मासो अरुषासो अश्वा बृहस्पतिं सहवाहो वहन्ति ।
+> सहश्चिद्यस्य नीलवत्सधस्थं नभो न रूपमरुषं वसानाः ॥
+
+> *taṃ śagmāso aruṣāso aśvā bṛhaspatiṃ sahavāho vahanti |*
+> *sahaścidyasya nīlavatsadhasthaṃ nabho na rūpamaruṣaṃ vasānāḥ ‖*
+
+(Ṛ. Saṃ. 7-[?]-[?].) in this Ṛk, and
+
+> एह हरी ब्रह्मयुजा शग्मा वक्षतः सखायम् ।
+> गीर्भिः श्रुतं गिर्वणसम् ॥
+
+> *eha harī brahmayujā śagmā vakṣataḥ sakhāyam |*
+> *gīrbhiḥ śrutaṃ girvaṇasam ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) in this he has explained it as "bringing comfort" or "strength" (*śakti*). The Bhaṭṭabhāskara says —
+
+> पवमानादा सरस्वती यजता गन्तो यज्ञं हवं देवी जुजुवाणा घृताची ।
+> शग्मां नो वाजमुशती कृणोतु ॥
+
+> *pavamānādā sarasvatī yajatā ganto yajñaṃ havaṃ devī jujuvāṇā ghṛtācī |*
+> *śagmāṃ no vājamuśatī kṛṇotu ‖*
+
+(Tai. Saṃ. 1-8-22-3 [?].) in such Taittirīya Saṃhitā sentences, and in
+
+> तपसास्यानु वर्तये शिवेनास्मा उपवर्तये शग्मेनास्मा अभिवर्तये ॥
+
+> *tapasāsyānu vartaye śivenāsmā upavartaye śagmenāsmā abhivartaye ‖*
+
+(Tai. Brā. 1-1-3-[?].) in this Taittirīya Brāhmaṇa sentence, in the word *śagma* he has shown the meanings "able" or "possessing special power". From these explanations the word appears to be derived from the root *śak* ("to be able") and to mean "powerful" or "able". Among them —
+
+> रथवाहनं हविरस्य नाम यत्रायुधं निहितमस्य वर्म ।
+> तत्रा रथमुप शग्मं सदेम विश्वाहा वयं सुमनस्यमानाः ॥
+
+> *rathavāhanaṃ havirasya nāma yatrāyudhaṃ nihitamasya varma |*
+> *tatrā rathamupa śagmaṃ sadema viśvāhā vayaṃ sumanasyamānāḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) in such Ṛks the meaning "bringing comfort" is the one to be taken. In the Ṛk in hand also the two senses "comfort-giving" and "able" are fitting.
+
+***iṣṭe*** — *sarvaiḥ* [*viṣaṇīyaḥ*] सर्वैः विषणीयः (*sarvaiḥ viṣaṇīyaḥ*) [?]: "desired by all": addressing Agni, who is worthy to be sought by all, from the performance of the *devapūjā* and others.
+
+---
+
+### Printed p. 329  (PDF 347)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 16.)*
+
+***adabdhebhiḥ*** — *ahiṃsitaiḥ*: "by those who are unharmed", from the root *dabh* ("to injure, to destroy"): in the Vedic language a word derived from the root *dabh*, with the sense of "injured" or "destroyed", is common; the word *adabha* is used more with this sense. The sense "unharmed, not subject to destruction". Ordinarily in prayers for the protection of Agni, the epithets *adabdhebhiḥ pāyubhiḥ* or *adabdhebhir gopābhiḥ* occur together.
+
+> अदब्धेभिस्त्वं गोपाभिरिष्टेऽस्माकं पाहि त्रिषधस्थ सूरीन् ।
+> रक्षा च नो ददुषां शर्धो अग्ने वैश्वानर प्र च तारीः स्तवानः ॥
+
+> *adabdhebhistvaṃ gopābhiriṣṭe 'smākaṃ pāhi triṣadhastha sūrīn |*
+> *rakṣā ca no daduṣāṃ śardho agne vaiśvānara pra ca tārīḥ stavānaḥ ‖*
+
+(Ṛ. Saṃ. 6-8-[?].) In such Ṛks it is an epithet of *gopābhiḥ*; and as in the Ṛk in hand,
+
+> अदब्धेभिः सवितः पायुभिस्त्वं शिवेभिरद्य परि पाहि नो गयम् ।
+> हिरण्यजिह्वः सुवितायनन्मसे रक्षा माकिर्नो अघशंस ईशत ॥
+
+> *adabdhebhiḥ savitaḥ pāyubhistvaṃ śivebhiradya pari pāhi no gayam |*
+> *hiraṇyajihvaḥ suvitāyananmase rakṣā mākirno aghaśaṃsa īśata ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) in such Ṛks it is an epithet of *pāyubhiḥ*.
+
+***adṛpitebhiḥ*** — *kenāpy aparibhūtaiḥ*: "unovercome by anyone, or by none to be mastered": the nature of the protection is told.
+
+***animiṣadbhiḥ*** — *nimeṣarahitaiḥ* *udyuktaiḥ lakṣyaiḥ*: "without closing the eyes, ready, attentive"; the meaning is "not subject to the nature of inertness; speedily bringing fruit".
+
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly).** *aprayucchan* (*yuccha prāmāde*; *śatṛ*; *pra* + *yuccha*; *na prayucchan*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2): the first member *nañ* keeps its natural accent), *śivebhiḥ* (*bahulaṃ chandasi* (Pā. Sū. 7-1-10): in the instrumental plural *bhis*, *aisbhāva* is optional [*ais* not]; *bahuvacanasya ṅer yet* [?]: *e*), *pāyubhiḥ* (root *pā rakṣaṇe*; *kṛvāpājimisvadisādhyaśūbhyaḥ uṇ* (Uṇ. Sū. 1-1): suffix *uṇ*; *ātoyuk ciṇkṛtoḥ* (Pā. Sū. 7-3-33): *yuk* augment for the root; since *kit*… the end is *udātta* by the suffix), *pāhi* (root *pā rakṣaṇe*; *loṭ*, second person singular; *nighāta* after an *ati…* word).
+
+---
+
+### Printed p. 330  (PDF 348)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+*adabdhebhiḥ* (root *dambha dambhe*; *kta* suffix; *anidītāṃ hal…*: loss of the nasal; *jhaṣaḥ* … *dh*; *bhatva* of *bh* by *pūrvasya*; the first member's … *nañ* keeps its natural accent; by *bahulaṃ chandasi* as before the *aisbhāva* is optional), *adṛpitebhiḥ* (root *dṛpa dṛmpa utkleśe* [?]; *tudādi*; *niṣṭhā*: *kta*; *ardhadhātukasyeḍ valādeḥ*: *iṭ* in the suffix *kta*; *adṛpita* has *iṭ* in the *dṛpita* word, and by *kta*'s *anudātta*… the first member's natural accent; *bhisa*, as before, *aisbhāva* optional), *iṣṭe* (root *iṣu icchāyām*; *kta* suffix; *iṣyatekarmaṇi* [?]; *śvanyathā…*; *guṇa* by *pugantalaghūpadha* and *vṛddhi* [?]; the vocative, *āmantritasya ca* (Pā. Sū. 6-1-198): *nighāta*), *jāḥ* (root *janī prādurbhāve*; *kvip*, though *upasarga*-less, in the feminine [?]; by the strength of *ḍit* the root's *ṭi* is dropped; by the suffix-accent *udātta*). ‖ 8 ‖
+
+*Here the 143rd Sūkta ends.*
+
+---
+
+## Sūkta 144
+
+### Printed p. 330 (continued; PDF 348)
+
+*(The Kannada heading reads "The 144th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of seven Ṛks beginning "Eti pra hotā" is the fifth sūkta, of Dīrghatamas, in Jagatī; Agni is the deity of it as of the preceding, with the same use at the Prātaranuvāka and Āśvina-śastra.)*
+
+> एति प्र होतेति सप्तर्चं पञ्चमं सूक्तं दैर्घतमसं जागतम् । पूर्वत्राग्नेयं तु तदितिकृत्वादिमेऽप्याग्नेयम् [?] । तथा चानुक्रान्तम् — एति प्र सप्त जागतम् इति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः ॥
+
+> *eti pra hoteti saptarcaṃ pañcamaṃ sūktaṃ dairghatamasaṃ jāgatam | pūrvatrāgneyaṃ tu taditikṛtvādime 'pyāgneyam [?] | tathā cānukrāntam — eti pra sapta jāgatam iti ‖ prātaranuvākāśvinaśastrayorviniyoga uktaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *eti pra hotā* is the fifth sūkta in the twenty-first anuvāka. It has seven Ṛks. The ṛṣi of this sūkta is Dīrghatamas, the son of Ucathya. The metre is Jagatī. As said before, Agni is the deity of this sūkta. In the Anukramaṇī it is said "*eti pra sapta jāgatam*". It is employed as Agni-stotra mantras in the Prātaranuvāka and Āśvina-śastra.
+
+---
+
+### Printed p. 331  (PDF 349)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 16 [?].)*
+
+**॥ ओम् ॥**
+
+**Sūkta 144** — Maṇḍala 1, Anuvāka 21, Sūkta 144; Aṣṭaka 2, Adhyāya 2, Varga 16 [?]. Number of Ṛks in the sūkta: 7. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: Jagatī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> एति प्र होता व्रतमस्य मायया ऊर्ध्वां दधानः शुचिपेशसं धियम् ।
+> अभि स्रुचः क्रमते दक्षिणावृतो या अस्य धाम प्रथमं ह निंसते ॥ १ ॥
+
+> *eti pra hotā vratamasya māyayā ūrdhvāṃ dadhānaḥ śucipeśasaṃ dhiyam |*
+> *abhi srucaḥ kramate dakṣiṇāvṛto yā asya dhāma prathamaṃ ha niṃsate ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> एति । प्र । होता । व्रतम् । अस्य । मायया । ऊर्ध्वाम् । दधानः । शुचिऽपेशसम् । धियम् ।
+> अभि । स्रुचः । क्रमते । दक्षिणाऽआवृतः । याः । अस्य । धाम । प्रथमम् । ह । निंसते ॥ १ ॥
+
+> *eti | pra | hotā | vratam | asya | māyayā | ūrdhvām | dadhānaḥ | śuci 'peśasam | dhiyam |*
+> *abhi | srucaḥ | kramate | dakṣiṇā 'āvṛtaḥ | yāḥ | asya | dhāma | prathamam | ha | niṃsate ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the bhāṣya begins at the foot of p. 331 and continues on p. 332; gist: *This Hotṛ-adhvaryu, endowed with special insight into his duties, sets out to perform Agni's rite of oblation.* Small type)
+
+> अयं होता होमनिष्पादकोऽध्वर्युरस्याग्नेर्व्रतं हविःप्रदानादिरूपं कर्म कर्तुं मायया कर्तव्यविशेषप्रज्ञया युक्तः सन् प्रैति । प्रकर्षेण गच्छति [continues]
+
+> *ayaṃ hotā homaniṣpādako 'dhvaryurasyāgnervrataṃ haviḥpradānādirūpaṃ karma kartuṃ māyayā kartavyaviśeṣaprajñayā yuktaḥ san praiti | prakarṣeṇa gacchati [continues]*
+
+---
+
+**Progress note:** Sūkta 143 complete (printed pp. 287–330). **Sūkta 144** (*eti pra hotā*, 7 Ṛks, Agni, Jagatī): printed pp. 330–331 done (Anukramaṇī and Anuvāda; Ṛk 1 Saṃhitā and Pada, and the first words of the bhāṣya at the foot of p. 331, which continues on p. 332). Next: printed p. 332 (PDF 350). Images at 120 dpi in /tmp/v11a (PDF 33–380; recrop 381 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–144; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–8 of Sūkta 143 (pp. 302, 306–307, 311, 316, 319, 326) largely unread; the English quotations of Müller/Oldenberg/Bloomfield on pp. 322–324 copied as printed; grammar pages read at low confidence (esp. pp. 326, 329–330); the Anukramaṇīs of Sūktas 143–144 (pp. 287, 330) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
