@@ -11751,4 +11751,166 @@ The word *adri* has such senses as thunderbolt, rākṣasa, stone, mountain, clo
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 149 (5 Ṛks, Virāṭ metre) done through printed p. 451 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, its Special Topics running on). Next: printed p. 452 (PDF 470), then Ṛks 3–5 of Sūkta 149 (end of the sūkta), then Sūkta 150. Images in /tmp/v11a (PDF 33–469; recrop 470+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Śatapatha quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 452  (PDF 470)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+> वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये । वस्त्रेणेव वासया मन्मना शुचिं ज्योतीरथं शुक्रवर्णं तमोहनम् ॥
+
+> *vediṣade priyadhāmāya sudyute dhāsimiva pra bharā yonimagnaye | vastreṇeva vāsayā manmanā śuciṃ jyotīrathaṃ śukravarṇaṃ tamohanam ‖*
+
+(Ṛ. Saṃ. 1-140-1.) In such Ṛks *vedyāśryaṃ sthānaṃ* ("the place resting on the altar") — "the place that is of the form of the altar" — have many senses; therefore in the Ṛk at hand the sense of "the place of origin" or "the sacrificial altar" can be given.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *vṛṣā* (root *vṛṣu secane*; *kasin* after *yuvṛṣi…* (Uṇ. Sū. 1-[?]) *kasin* suffix; being *nit*, first *udātta*); *śravobhiḥ* (root *śru śravaṇe*; *asun* suffix; word *śravas*; *nit*: first *udātta*; instr. plural); *asti* (root *as bhuvi*; *laṭ* 3rd sg.; owing to *yat*, no *nighāta*; the root accent remains); *jīvapītasargaḥ* (*jīvaiḥ pītaḥ jīvapītaḥ*; *jīvapīte sargo yasya saḥ jīvapītasargaḥ*; the root in the passive, *niṣṭhā* suffix *kta*; *ghumāsthāgā…* (Pā. Sū. 6-4-66) *ī* for the root; in the first member the natural accent; as a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first-member accent remains); *sasrāṇaḥ* (root *sṛ gatau*; *liṭaḥ kānajvā* (Pā. Sū. 3-2-106) *liṭ* → *kānac*; doubling of the root; *urat* for the reduplicate; *ādivat* [?]; since the suffix is *kit* guṇa does not occur; *aṭkupvāṅ…* *ṇatva* of the suffix *n*; *cit*: final *udātta*); *śiśrīte* (root *śrā pāke*; *laṭ* 3rd sg.; *śluḥ* vikaraṇa in *chandasi*; *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112) loss of the root's *ā*; *bahulaṃ chandasi* *itva* for the reduplicate; because *yat* is connected, no *nighāta*; suffix accent: final *udātta*). ‖ 2 ‖
+
+---
+
+### Printed p. 453  (PDF 471)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 35 [?].)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ यः पुरं नार्मिणीमदीदेदत्यः कविर्नभन्योनार्वा ।
+> सूरो न रुरुक्वाञ्छतात्मा ॥ ३ ॥
+
+> *ā yaḥ puraṃ nārmiṇīmadīdedatyaḥ kavirnabhanyonārvā |*
+> *sūro na rurukvāñchatātmā ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । यः । पुरम् । नार्मिणीम् । अदीदेत् । अत्यः । कविः । नभन्यः । न । अर्वा ।
+> सूरः । न । रुरुक्वान् । शतऽआत्मा ॥ ३ ॥
+
+> *ā | yaḥ | puram | nārmiṇīm | adīdet | atyaḥ | kaviḥ | nabhanyaḥ | na | arvā |*
+> *sūraḥ | na | rurukvān | śata 'ātmā ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni, the wanderer, wise, like a swift sky-wind, has lit up the delightful place [the altar]; many-formed, he shines like the sun.)*
+
+> योऽग्निर्नार्मिणीं नर्मवतीं यजमानानां सम्बन्धिनीमुत्तरवेदिं । यद्वा । नृणां मनसि स्थितां यजमानानां यज्ञार्थं यां भूमिं प्रत्यग्न्यागमनमनीषया विद्यते तां । पुरं तत्र्यनामादीदेत् [?] दीपयति । कीदृशोऽयं । अत्यः अत्यतनशीलः कविः क्रान्तदर्शी । तत्र दृष्टान्तः । अर्वा रणकुशलो नभन्योः न नभस्याकाशे भवो नभस्यो नाभ्यायोरिव । किञ्च शतात्मा शतं सहस्रमित्यपरिमितवचनः । तत्रेदृजमानगृहेक्षयेऽआहवनीयगार्हपत्यादिनाना रूपात्मकः । अथवा मित्रावरुणाद्यनेकदेवतात्मकः । यद्वा शतसंख्याकात्मवान् [?] ... स सूरो नेव सूर्य इव रुरुक्वान् दीप्यमानः । रुच दीप्तौ । छान्दसः क्वसुः ॥ अतः स शतात्मा अग्निरस्ति उत्कृष्टं वर्तते इति पूर्वत्रान्वयः ॥ *[small type; many words doubtful]*
+
+> *yo 'gnirnārmiṇīṃ narmavatīṃ yajamānānāṃ sambandhinīmuttaravediṃ | yadvā | nṛṇāṃ manasi sthitāṃ yajamānānāṃ yajñārthaṃ yāṃ bhūmiṃ pratyagnyāgamanamanīṣayā vidyate tāṃ | puraṃ tatryanāmādīdet [?] dīpayati | kīdṛśo 'yaṃ | atyaḥ atyatanaśīlaḥ kaviḥ krāntadarśī | tatra dṛṣṭāntaḥ | arvā raṇakuśalo nabhanyoḥ na nabhasyākāśe bhavo nabhasyo nābhyāyoriva | kiñca śatātmā śataṃ sahasramityaparimitavacanaḥ | tatredṛjamānagṛhekṣaye 'āhavanīyagārhapatyādinānā rūpātmakaḥ | athavā mitrāvaruṇādyanekadevatātmakaḥ | yadvā śatasaṃkhyākātmavān [?] ... sa sūro neva sūrya iva rurukvān dīpyamānaḥ | ruca dīptau | chāndasaḥ kvasuḥ ‖ ataḥ sa śatātmā agnirasti utkṛṣṭaṃ vartate iti pūrvatrānvayaḥ ‖ *[small type; many words doubtful]**
+
+**Pratipadārtha (Kannada).** *atyaḥ* — one who goes (in the place bound for the sacrifice); *kaviḥ* — the wise one; *yaḥ* — which Agni; *nārmiṇīm puram* — the delightful, the Uttaravedi; or (that which the sacrificers have in mind and have desired for the sacrifice) the place; *arvā* — one who moves about (by his nature); *nabhanyaḥ na* — like the wind that moves in the sky; *ā adīdet* — shines in a special way; *śatātmā* — (and) having a hundred bodies — with many forms, as Āhavanīya, Gārhapatya and so on — Agni; *sūraḥ na* — like the sun; *rurukvān* — shines.
+
+---
+
+### Printed p. 454  (PDF 472)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+**Bhāvārtha.** Agni, who moves of his own will, wise, brightens the delightful altar-place, which gives joy, specially, like the wind that moves in the sky. And Agni, having many forms, shines like the sun.
+
+**English Translation (as printed).** He who is wise, and goes (wheresoever he will), like the rapid ethereal ( wind ), has lighted up the delightful spot, (the altar), and, identical with many forms, is radiant as the sun.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***nārmiṇīm*** — it is somewhat difficult to give the meaning of this word. Even Sāyaṇa has given non-obvious meanings. First, *narmavatīṃ yajamānānāṃ sambandhinīm uttaravedim*: "possessed of delight, belonging to the sacrificers: the Uttaravedi", i.e. "the Uttaravedi that gives joy"; and then *nṛṇāṃ manasi sthitāṃ yajamānānāṃ yajñārthaṃ yāṃ bhūmiṃ prati agnyāgamanamanīṣayā vidyate tāṃ* — "the place which, as the sacrificers think, will be, for the sake of the sacrifice, the place of Agni's arrival" — as the sacrificial ground that he comes to; to the wish in the mind of the sacrificer "let Agni come here" — thus explained [partly unclear]; of the two, *nārmiṇī* means *narmavatī*, i.e. "(the delightful)", or "that which is set in the mind of men (*nṛṇāṃ manasi sthitā*)"; this word is made an adjective of *puram*; the sense is "the place called the Uttaravedi".
+
+Monier Williams, in his Sanskrit-English Dictionary, gives for this word "*na* + *ārman*" (a negative, *ārman* = a town; "a *pura* that is not a *ārmaṇa*, i.e. loose, *śithila*), "*Name of a Town*" — he conjectures a town's name; the *nāra* [sic] "*pāṭaliputra*"; in Pāṇini, *dattarma*, *guptarma*, *bṛhadarma* are words [of the kind]. For *nārmiṇī* no proper meaning is given in Pāṇini or the Nirukta; so, of the two meanings given by Sāyaṇa, one should be accepted.
+
+***atyaḥ*** — *āsekṣitadeśaṃ prati atanaśīlaḥ*: "one who is wont to go to the place he desires" — an adjective of Agni; in general the word is an adjective of horses and the like, which are ever on the move:
+
+> एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुवनेः । दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसम् ॥
+
+> *eṣa pra pūrvīrava tasya camriṣo 'tyo na yoṣāmudayaṃsta bhuvaneḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ rathamāvṛtyā hariyogamṛbhvasam ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+---
+
+### Printed p. 455  (PDF 473)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 35 [?].)*
+
+> अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यन्ति चेमा बृहस्पतेरहिमायाँ अभि द्यून् ॥
+
+> *asya śloko divīyate pṛthivyāmatyo na yaṃsadyakṣabhṛdvicetāḥ | mṛgāṇāṃ na hetayo yanti cemā bṛhaspaterahimāyā~ abhi dyūn ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk, *atyaḥ* is used as a synonym of "horse"; in other places the word gives the sense "one who goes always" — Āditya, thus:
+
+***nabhanyaḥ*** — *nabhasi ākāśe bhavo nabhasyaḥ vāyur iva*: "born in the sky; like the wind"; an adjective of the wind, called *nabhasya*, because it is "of the sky". The Nirukta author puts the word *nabhati* among the names of killing-actions: *nabhati*, *ardati* (Ni. 2-[?]); according to this Sāyaṇa takes *nabhanya* from the sense of killing — here and elsewhere:
+
+> गायेत्सामा नभन्यं यथा वेरर्चाम तद्वृन्यासानः स्वर्वतः [?] । गावो धेनवो बर्हिष्यदन्वा आ यत्कश्यानां दिव्यं विवासन् ॥
+
+> *gāyetsāmā nabhanyaṃ yathā verarcāma tadvṛnyāsānaḥ svarvataḥ [?] | gāvo dhenavo barhiṣyadanvā ā yatkaśyānāṃ divyaṃ vivāsan ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk the word *nabhanya* he explains as *nabhasyaṃ nabhasi bhavanam* ("existing in the sky"), "*nabhonyaṃ himsakaṃ vā rākṣasādikasya*" — "a destroyer of Rākṣasas and the like"; and:
+
+> प्र ब्रह्माणो अङ्गिरसो नक्षन्त प्र क्रन्दनुर्नभन्यस्य वेतु । प्र धेनव उदप्रुतो नमन्त युज्यतामद्री अध्वरस्य शेषः ॥
+
+> *pra brahmāṇo aṅgiraso nakṣanta pra krandanurnabhanyasya vetu | pra dhenava udapruto namanta yujyatāmadrī adhvarasya śeṣaḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) In this Ṛk, *nabhanyasya* he explains as *asmadīyaṃ stotram*, "our hymn, [of him who has?] the sky-birth".
+
+***arvā*** — *araṇakuśalaḥ* ("skilled in the field") — "one who moves swiftly, quickly"; in the sense of the horse, "*arvā*" as an adjective of the wind. In general, the *-t*-ending and *-n*-ending words *arvat*, *arvan* are synonyms of horse; in some places they have also the sense of "enemy". The Nirukta author puts *atyaḥ*, *hayaḥ*, *arvā* among the names of horses (Ni. [?]); in the Ṛk-saṃhitā both words *arvat* and *arvan* have their uses.
+
+> यस्मै त्वमायजसे स साधत्यनर्वा क्षेति दधते सुवीर्यम् । स तोत नैनमश्नोत्यंहतिरग्ने सख्ये मा रिषामा वयं तव ॥
+
+> *yasmai tvamāyajase sa sādhatyanarvā kṣeti dadhate suvīryam | sa tota nainamaśnotyaṃhatiragne sakhye mā riṣāmā vayaṃ tava ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk, *anarvān* is explained as "without enemies" (*aśatru*); in the Taittirīya Saṃhitā:
+
+> अनर्वा प्रेहीत्याह भ्रातृव्येभ्यो वा अर्वा भ्रातृव्यमेवासुत्ते श्रीः ॥ [?]
+
+> *anarvā prehītyāha bhrātṛvyebhyo vā arvā bhrātṛvyamevāsutte śrīḥ ‖ [?]*
+
+(Tai. Saṃ. 6-[?]-[?]) —
+
+---
+
+### Printed p. 456  (PDF 474)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+— citing this sentence of the Taittirīya Saṃhitā (*bhāṣya* of the Ṛk 1-[?]-[?]), after showing that *arvan* has in such passages the meaning "enemy" (*bhrātṛvya*), it is shown that in the Ṛks too this meaning has been given: in many other places Sāyaṇa's explanation shows "enemy". In the derivation of this word, Wilson and Max Müller state different opinions; on the occasion one may not blame either. Wilson —
+
+> श्रीलं वः शर्धो मारुतमनर्वाणं रथेशुभम् । कण्वा अभि प्र गायत ॥
+
+> *śrīlaṃ vaḥ śardho mārutamanarvāṇaṃ ratheśubham | kaṇvā abhi pra gāyata ‖*
+
+(Ṛ. Saṃ. 1-37-1.) In explaining the word *anarvāṇam* in this Ṛk, the scholar comments on Sāyaṇa's bhāṣya thus:
+
+*(English, as printed:)* The phrase is *anarvāṇam* which the scholiast explains *bhrātṛvyarahitam* (*sic*, with the Devanagari). Literally without a brother's son, which would be a very unintelligible epithet. Arvan is in its usual acceptation a horse ; and being without horses would not be inapplicable to the Maruts whose chariot is drawn by deer. *bhrātṛvya* may mean an enemy, but it is doubtful if *arvat* can admit of such an interpretation.
+
+(Rig-Veda Translation. Vol. 1 P. 258)
+
+[The Kannada text remarks:] Since the Maruts' vehicle is deer, the explanation "without horses" cannot be improper — thus the scholar thinks; but against this, when interpreting this same sūkta, Max Müller says the word *anarvan* cannot mean "without horses"; that is the remark:
+
+*(English, as printed:)* Wilson translates *anarvāṇam* by without horses, though the commentator distinctly explains the word by without an enemy. Wilson considers it doubtful whether *arvan* can ever mean enemy. The fact is, that in the Rig-Veda *an-arvan* never means without horses but always without hurt or free from enemies, and the commentator is perfectly right, as sense is concerned, rendering the word by *apratiprahata* [?] ('without an enemy or unopposed'). (*aśatrukṛtam* [?])
+
+(Sacred Books of the East. Vol. 32. P. 65)
+
+Even so, the use of the word *arvan* as a synonym of horse is the more frequent; in the Ṛk at hand, to show that the word is used also as an adjective of the wind, it is made an adjective of the *vāyu*.
+
+---
+
+### Printed p. 457  (PDF 475)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 36 [?].)*
+
+***śatātmā*** — in explaining the Ṛk 1-[?]-[?] of this section, the word *viśvāpsu* showed that the Agni has many kinds of forms; in the Ṛk at hand also, with the adjective *śatātmā* the greatness of Agni is shown. *śataṃ sahasram ity aparimitavacanaḥ*: "*śata*, a thousand — this is the word for the unlimited"; *tattaddyajamāna gṛhāpekṣayā āhavanīya-gārhapatyādyapekṣayā vā nānārūpātmaḥ*: "of many forms according to the houses of the respective sacrificers, or according to the Āhavanīya, Gārhapatya and so on". The word *śata* here does not mean a hundred only: it indicates an unlimited number. The various forms of the fire, like the southern fire, Āhavanīya, Gārhapatya, in the houses of the sacrificers, serve each according to the rites, so this adjective is applied. Or:
+
+> इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ॥
+
+> *indraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān | ekaṃ sadviprā bahudhā vadantyagniṃ yamaṃ mātariśvānamāhuḥ ‖*
+
+(Ṛ. Saṃ. 1-164-46.)
+
+> त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्धः । त्वे विश्वे सहसस्पुत्र देवास्त्वमिन्द्रो दाशुषे मर्त्याय ॥
+
+> *tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddhaḥ | tve viśve sahasasputra devāstvamindro dāśuṣe martyāya ‖*
+
+(Ṛ. Saṃ. 5-3-1.) In such Ṛks, and also in
+
+> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे । त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ॥
+
+> *tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe | tvaṃ vātairaruṇairyāsi śaṃgayastvaṃ pūṣā vidhataḥ pāsi nu tmanā ‖*
+
+(Tai. Saṃ. 4-[?]-[?].) and so on in the sentences of the Taittirīya Saṃhitā too, Agni is described as being the all-formed (*viśvātmaka*), hence here he is praised as *śatātmā*.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *nārmiṇīm* (*yuṇeḥ…* [?] (Pā. Sū. 4-1-[?]) *ṅīp*, *ñīp* in the feminine; *ṅīp* being *pit*, *anudātta*; accusative sg.); *adīdet* (*dīdi* is Vedic root; used in the sense of *dīpti*, "lustre"; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *laṅ* in the present sense; by *chandasi* the *śap* *luk*; the suffix being *nit* [?] guṇa; augment *aṭ*; owing to *yat* [connected], no *nighāta*); *atyaḥ* (*atati iti atyaḥ*, root *ata sātatyagamane* [as printed: *āṅ*]…, the form *aty*, "*atyaḥ*" is Vedic: *ata* + *yat*, *ac* [?], the root-sense *vega-sāmya* "equality of speed" [?]; "*atyaḥ*" (Nir. 1-[?]) "horse", as the swift one — and here used for a wise one, a poet [*kavi*]).
+
+---
+
+**Progress note:** Vol 11 — Sūkta 149 (5 Ṛks) done through printed p. 457 (Ṛks 1–2 complete; Ṛk 3 complete except the rest of its grammar note on p. 458). Next: printed p. 458 (PDF 476), then Ṛks 4–5 of Sūkta 149, then Sūkta 150. Images in /tmp/v11a (PDF 33–475; recrop 476+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Taittirīya quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers; p. 454 *nārmiṇīm* note — the Monier Williams / Pāṇini remarks only partly legible). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
