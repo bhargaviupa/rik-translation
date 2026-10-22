@@ -8218,4 +8218,174 @@ so, showing the derivation of the word *bhṛgu* ("Bhṛgu, sprung from the flam
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–313 done (Anukramaṇī and Anuvāda; Ṛks 1–4 complete; Ṛk 5 *na yo varāya marutām iva svanaḥ*: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the Special Topics through *varāya*, which ends with a quoted Ṛk at the foot of p. 313; the rest of the Ṛk 5 Special Topics and its grammar follow on p. 314). Next: printed p. 314 (PDF 332). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–5 (pp. 302, 306–307, 311) largely unread; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before.
+### Printed p. 314  (PDF 332)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+*(Continuation of the Special Topics of Ṛk 5.)*
+
+In such Ṛks, *varāya* is also used in the sense of "to restrain, to check"; as in *śatrunivārakāya manyave krodhāya* ("to wrath, which restrains enemies"), where the sense "restraining, obstructing" (*nivāraka*) is given; and the Ṛk in hand too gives the senses "to hold back", "to restrain" (*asādhya*, "one that cannot be mastered"), like the thunderbolt (*aśani*) which cannot be stopped from falling swiftly, so that Agni's spreading too cannot be checked; this is what the word expresses.
+
+***tigitaiḥ*** — *niśitaiḥ, tīkṣṇaiḥ*: "sharp"; a word meaning "much", generally used as an epithet of weapons. For example —
+
+> यो नः सनुत्य उत वा जिघत्नुरभिख्याय तं तिगितेन विध्य ।
+> बृहस्पत आयुधैर्जेषि शत्रून्द्रुहे रीषन्तं परि धेहि राजन् ॥
+
+> *yo naḥ sanutya uta vā jighatnurabhikhyāya taṃ tigitena vidhya |*
+> *bṛhaspata āyudhairjeṣi śatrūndruhe rīṣantaṃ pari dhehi rājan ‖*
+
+(Ṛ. Saṃ. 2-30-8.) In this Ṛk *tigitena* ("sharp") shows the nature of a weapon. In the Ṛk in hand also, since it is an epithet of *jambhaiḥ* ("teeth"), and since the teeth of a boar and the like are keen as weapons, Agni's flames are compared with them, and so this epithet is fit.
+
+***bhurvati*** — *avayāti*, *bhurvati* are read among the names of the activity of oppressing (*atti-karma*; Ni. 2-[?]); the sense is "devours" (*bhakṣayati*). The same sense is given in Ṛ. Saṃ. 1-[?]-[?], as Sāyaṇa too has cited, *bhurvan agnir ayasayāti* [?] and in the Taittirīya Saṃhitā passages too. The sense is "Agni consumes with his flames all the creepers and trees".
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *varāya* (*vriyate iti varaḥ*; root *vṛñ varaṇe*; *grahavṛdṛniścigamaś ca* (Pā. Sū. 3-3-58): suffix *ap*; *guṇa* of the *ṛ* because of the suffix; since *ap* is *pit* the root accent remains; dative singular), *sṛṣṭā* (root *sṛja visarge*; *niṣṭhā*: *kta* in the passive; *vraścabhrasja…*: *ṣatva* of the *j*; by *ṣṭutva* the *ta* of the suffix becomes *ṭa*; the feminine intended, *ṭāp* by *ajādyatas ṭāp*), *divyā* (*divi bhavā divyā*; *daṇḍādigaṇapaṭhitatvāt* [?] (Pā. Sū. 5-1-[?]): suffix *ya*; by the suffix-accent the last syllable is *udātta*; in the feminine, *ṭāp* by *ajādyatas ṭāp*), *aśaniḥ* (root *aśa bhojane*; *arti-stu-sṛ…* (Uṇ. Sū. 2-[?]): suffix *ani*; by the suffix-accent the middle is *udātta*) …
+
+---
+
+### Printed p. 315  (PDF 333)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+*tigitaiḥ* (root *tija niśāne* (*tikṣṇīkaraṇa*); suffix *kta*; by Vedic usage the final of the root is changed to *ku*; by the suffix-accent the last syllable is *udātta*; instrumental plural; standing after an *ati…* word, the *nighāta* accent), *atti* (root *ada bhakṣaṇe*; *laṭ*, third person singular; *nighāta* because it stands after an *ati…* word), *bhurvati* (root *bhurva hiṃsāyām*; Yāska says "*bhurvaty atti-karmā*" (Ni. 2-[?]); *laṭ*, third person singular; the *nighāta* does not occur since it stands in a context where it is not prevented; the *śap* and *tip* are *pit* so the root accent remains), *yodhaḥ* (root *yudha saṃprahāre*; *nandigrahipacādi…* (Pā. Sū. 3-1-134): suffix *ac* in the agent sense; on account of it, *laghūpadha-guṇa* of the root; by *cit* the last syllable is *udātta*), *vanā* (*vanāni*; *śeśchandasi bahulam* (Pā. Sū. 6-1-70): loss of *śi*), *ṛñjate* (root *ṛñja* in the sense of *prasādhana*-action; *laṭ*, third person singular; since standing after an *ati…* word, *nighāta*). ‖ 5 ‖
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> कुविन्नो अग्निरुचथस्य वीरसद्वसुष्कुविद्वसुभिः कामुमावरत् [?] ।
+> चोदः कुवित्तुतुज्यात्सातये धियः शुचिप्रतीकं तमया धिया गृणे ॥ ६ ॥
+
+> *kuvinno agnirucathasya vīrasadvasuṣkuvidvasubhiḥ kāmumāvarat [?] |*
+> *codaḥ kuvittutujyātsātaye dhiyaḥ śucipratīkaṃ tamayā dhiyā gṛṇe ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> कुवित् । नः । अग्निः । उचथस्य । वीः । असत् । वसुः । कुवित् । वसुऽभिः । कामम् । आऽवरत् ।
+
+> *kuvit | naḥ | agniḥ | ucathasya | vīḥ | asat | vasuḥ | kuvit | vasu 'bhiḥ | kāmam | ā 'varat |*
+
+---
+
+### Printed p. 316  (PDF 334)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+> चोदः । कुवित् । तुतुज्यात् । सातये । धियः । शुचिऽप्रतीकम् । तम् । अया । धिया । गृणे ॥ ६ ॥
+
+> *codaḥ | kuvit | tutujyāt | sātaye | dhiyaḥ | śuci 'pratīkam | tam | ayā | dhiyā | gṛṇe ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *May this Agni, the lord of wealth, be often desirous of our praise, fulfil our desire with riches, and urge our rites to their fruit; I praise him, of bright appearance, with this thoughtful praise.* Small type, partly legible)
+
+> अयमग्निर्नोऽस्माकमुचथस्य स्तोत्रस्य कुविद्बहुवारं वीः कामयितासत् । भवतु । अस्त्रेर्लेट्याडागमः ॥ यद्वा । उचथस्येत्यन्नामकस्य [?] महर्षेर्गोत्रप्रभवस्य नः इति सम्बन्धः । तथा वसुर्वासयिता सर्वेषां वसुस्थानीयो वा वसुभिर्धनैः [?] कामं कामयमर्थमभिमतं वा कुविदिति प्रभूतमावरत् । आवृणोतु । अभिमतप्रदानेन कामं निवर्तयतु इत्यर्थः । वृणोतेर्लेट्याडागमः । छान्दसो विकरणस्य लुक् । अयमग्निर्देवोऽस्माकं कर्मसु प्रेरकः सन् धियः कर्मणां लाभाय कुविद्बहु तुतुज्यात् । त्वरयतु । प्रेरयतु इत्यर्थः । तुज हिंसायाम् [?] । छान्दसः शपः श्लुः । शुचिप्रतीकं शोभनमुखं शोधनज्वालं [?] तमग्निमया धियानया स्तुतिरूपया प्रज्ञया गृणे । उच्चारयामि । स्तौमीत्यर्थः ॥
+
+> *ayamagnirno 'smākamucathasya stotrasya kuvidbahuvāraṃ vīḥ kāmayitāsat | bhavatu | astrerleṭyāḍāgamaḥ ‖ yadvā | ucathasyetyannāmakasya [?] maharṣergotraprabhavasya naḥ iti sambandhaḥ | tathā vasurvāsayitā sarveṣāṃ vasusthānīyo vā vasubhirdhanaiḥ [?] kāmaṃ kāmayamarthamabhimataṃ vā kuviditi prabhūtamāvarat | āvṛṇotu | abhimatapradānena kāmaṃ nivartayatu ityarthaḥ | vṛṇoterleṭyāḍāgamaḥ | chāndaso vikaraṇasya luk | ayamagnirdevo 'smākaṃ karmasu prerakaḥ san dhiyaḥ karmaṇāṃ lābhāya kuvidbahu tutujyāt | tvarayatu | prerayatu ityarthaḥ | tuja hiṃsāyām [?] | chāndasaḥ śapaḥ śluḥ | śucipratīkaṃ śobhanamukhaṃ śodhanajvālaṃ [?] tamagnimayā dhiyānayā stutirūpayā prajñayā gṛṇe | uccārayāmi | staumītyarthaḥ ‖*
+
+**Pratipadārtha (Kannada).** *agniḥ* — Agni; *naḥ* — our; *ucathasya* — praise; *kuvit* — often; *vīḥ* — desirous; *asat* — let him be; *vasuḥ* — Agni, the giver of wealth, or the dwelling-place of all; *vasubhiḥ* — with riches; *kāmam* — our desired object; *kuvit* — in the utmost measure; *āvarat* — let him fill and satisfy; *codaḥ* — as the inspirer (of our rites for us); *dhiyaḥ* — our sacrificial rites; *sātaye* — for the gaining of the fruit; *kuvit* — in the utmost measure; *tutujyāt* — let him urge and cause to be completed; *śucipratīkam* — who has radiant flames; *tam agnim* — that Agni; *ayā dhiyā* — with this thoughtful praise; *gṛṇe* — I praise.
+
+**Bhāvārtha.** May Agni be desirous of our praise; may Agni, the giver of wealth, satisfy our desired object abundantly with riches. May he, the inspirer of our rites, urge our sacrifice so that it is completed for the gaining of its fruit. I praise this Agni, of radiant flames, with this praise in the form of a meditative thought.
+
+**English Translation (as printed).** May Agni be ever desirous of our praise ; may the giver of wealth satisfy our utmost expectation with riches ; may the inspirer of our devotion
+
+---
+
+### Printed p. 317  (PDF 335)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+hasten our rites fruition. I glorify him, the radiant-limbed (Agni), with this laudation.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***ucathasya*** — उक्थस्य स्तोत्रस्य । यद्वा उचथेत्यन्नामकस्य महर्षेर्गोत्रप्रभवस्य नः (*ukthasya stotrasya | yadvā ucathetyannāmakasya maharṣergotraprabhavasya naḥ*): "of praise (*uktha*, *stotra*); or of us, born in the lineage of the great sage named Ucatha (Ucathya)": the commentator gives these two meanings. Here the first meaning, "of the praise", is well suited and to be accepted.
+
+***kuvit*** — this word is used in two senses in this sūkta: in the first pāda it means "many times" (*bahuvāram*); in the second pāda, "in abundance" (*atiprabhūtam*) — so Sāyaṇa explains; in the third sense, it is "abundantly" (*prabhūtam*).
+
+The Nirukta author reads the word *kuvit* among the names of "many" (Ni. 3-[?]):
+
+> उपेमसृक्षि वाजयुर्वचस्यां चनो दधीत नाद्यो गिरो मे ।
+> अपां नपादाशुहेमा कुवित्स सुवेशसस्करति जोषिषद्धि ॥
+
+> *upemasṛkṣi vājayurvacasyāṃ cano dadhīta nādyo giro me |*
+> *apāṃ napādāśuhemā kuvitsa suveśasaskarati joṣiṣaddhi ‖*
+
+(Ṛ. Saṃ. 2-35-1.) and in such Ṛks the word means "much"; he also cites:
+
+> ताँ आ रुद्रस्य मीळ्हुषो विवासे कुविन्नंसन्ते मरुतः पुनर्नः ।
+> यत्सस्वर्ता जिहीळिरे यदाविरव तदेन ईमहे तुराणाम् [?] ॥
+
+> *tā~ ā rudrasya mīḷhuṣo vivāse kuvinnaṃsante marutaḥ punarnaḥ |*
+> *yatsasvartā jihīḷire yadāvirava tadena īmahe turāṇām [?] ‖*
+
+(Ṛ. Saṃ. 7-[?]-5 [?].) in such Ṛks the meaning "many times" (*bahukṛtvaḥ*, *punaḥpunaḥ*) is obtained.
+
+***dhiyaḥ*** — *karmāṇi*: "rites"; "that our sacrificial rites may be completed". This word is read among the names of action (Ni. 2-[?]) and among the names of intelligence (*prajñā*). The Nirukta author:
+
+> महो अर्णः सरस्वती प्र चेतयति केतुना । धियो विश्वा वि राजति ॥
+
+> *maho arṇaḥ sarasvatī pra cetayati ketunā | dhiyo viśvā vi rājati ‖*
+
+(Ṛ. Saṃ. 1-3-12.) citing this Ṛk, "*sarvāṇi prajñānāni*" (Ni. [?]-[?]) he explains "all knowledges", "ideas of meditation (*dhyāna*)", for our whole intelligence.
+
+> पथस्पथः परिपतिं वचस्या कामेन कृतो अभ्यानळर्कम् ।
+> स नो रासच्छुरुधश्चन्द्राग्रा धियंधियं सीषधाति प्र पूषा ॥
+
+> *pathaspathaḥ paripatiṃ vacasyā kāmena kṛto abhyānaḷarkam |*
+> *sa no rāsacchurudhaścandrāgrā dhiyaṃdhiyaṃ sīṣadhāti pra pūṣā ‖*
+
+(Ṛ. Saṃ. 6-53-1.)
+
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः ।
+> विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥
+
+> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ |*
+> *viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*
+
+(Ṛ. Saṃ. 10-66-13.) In these Ṛks the word *dhi* is explained as "rites such as sacrifice".
+
+---
+
+### Printed p. 318  (PDF 336)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+***śucipratīkam*** — शोभनजालं शोभनावयवं (*śobhanajālaṃ śobhanāvayavaṃ*) [?]: "of radiant flames, of beautiful limbs"; "bright, fair of limb" — that is, Agni; Indra's epithet. Among the other epithets of Agni this is the principal one.
+
+***tutujyāt*** — *tvarayatu, prerayatu*: "let him urge, impel"; the sense is "impel and cause our rites to be completed".
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *vīḥ* (root *vī gatyādiṣu*; in the agent sense *kvip ca* gives suffix *kvip*; by the root-accent the *udātta* arises), *asat* (root *as bhuvi*; *leṭ*, third person singular, *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-97): loss of *i*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94): *aṭ* augment; *asat* is the form), *vasuḥ* (root *vasa nivāse*; *śvasyasnihi…* (Uṇ. Sū. 1-[?]): suffix *u*; by *vyatyaya* first-syllable *udātta*), *ā varat* (root *vṛñ varaṇe*; *āṅ* prefix; *leṭ*, third person singular; the loss of *i* of the ending and *aṭ*; *bahulaṃ chandasi*: *luk* of the vikaraṇa; by the *kuvit*-connection (*nipātair yadyadi…* (Pā. Sū. 8-1-30): prevention of *nighāta*; since the suffix is *pit* the root accent remains; *asat* … the first syllable has its own accent; *tiṅ cāniṅ…* gives the *anudātta* of the prefix), *codaḥ* (root *cud preraṇe*; *nandigrahipacādi*: *ac* suffix; *laghūpadha guṇa*; by *cit* the end is *udātta*), *tutujyāt* (root *tuja preraṇe*; *liṅ*, third person singular, *ti*; *itaś ca*: loss of *i*; *yāsuṭ* augment; *bahulaṃ chandasi*: *śap* becomes *ślu*; reduplication; since *kuvit* is connected there is no *nighāta*; the *a* of the suffix is *udātta*), *sātaye* (*ūtiyūti…* (Pā. Sū. 3-3-97): *ktin* formed irregularly), *śucipratīkam* (*śuciḥ pratīkaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the first member's accent; accusative singular) …
+
+---
+
+### Printed p. 319  (PDF 337)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+*dhiyā* (instrumental singular; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168): the case-ending is *udātta*). ‖ 6 ‖
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> घृतप्रतीकं व ऋतस्य धूर्षदमग्निं मित्रं न समिधान ऋञ्जते [?] ।
+> इन्धानो अक्रो विदथेषु दीद्यच्छुक्रवर्णामुदु नो यंसते धियम् ॥ ७ ॥
+
+> *ghṛtapratīkaṃ va ṛtasya dhūrṣadamagniṃ mitraṃ na samidhāna ṛñjate [?] |*
+> *indhāno akro vidatheṣu dīdyacchukravarṇāmudu no yaṃsate dhiyam ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> घृतऽप्रतीकम् । वः । ऋतस्य । धूःऽसदम् । अग्निम् । मित्रम् । न । सम्ऽइधानाः [?] । ऋञ्जते । इन्धानः । अक्रः । विदथेषु । दीद्यत् । शुक्रऽवर्णाम् । उत् । ऊं इति । नः । यंसते । धियम् ॥ ७ ॥
+
+> *ghṛta 'pratīkam | vaḥ | ṛtasya | dhūḥ 'sadam | agnim | mitram | na | sam 'idhānāḥ [?] | ṛñjate | indhānaḥ | akraḥ | vidatheṣu | dīdyat | śukra 'varṇām | ut | ūṃ iti | naḥ | yaṃsate | dhiyam ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *They kindle Agni, ghee-faced, the bearer of the sacrifice's yoke, like a friend; he, blazing at the sacrifices, will uplift our bright-hued prayer.* Small type, partly legible)
+
+> घृतप्रतीकं घृतोपलक्षणं प्रयाजादिष्वाज्यैर्होयमानत्वात् । यद्वा । प्रतीकमङ्गं दीप्रज्वालमित्यर्थः । किंच वो युष्मत्सम्बन्धिन ऋतस्य यज्ञस्य धूर्षदं धुरि निर्वहणे सीदन्तं यज्ञनिर्वाहकमग्निं मित्रं न मित्रमिव समिधानाः इध्मैर्दीपयमाना ऋञ्जते । प्रसाधयन्ति । ऋञ्जतिः प्रसाधनकर्मा । इन्धानः सम्यग्दीप्यमानोऽक्रो ज्वालाभिराक्रान्तोऽथ्वैरनाक्रान्तो वा क्रमेः श्यन्दसो डः [?] । विदथेषु यज्ञेषु वेदयत्स्तोत्रेषु निमित्तेषु दीद्यत् स्वयं दीप्यमानोऽग्निः शुक्रवर्णां शुद्धवर्णां निर्मलवर्णां च धियं प्रज्ञां ज्योतिष्मदादिकर्म वा नो ऽस्माकमुद्यंसते उद्यमयतु [?] । … यमेर्लेट्याडागमः । सिप् । उशब्दो [?] धारणे । धीरिति कर्मनामसु पाठात् ॥
+
+> *ghṛtapratīkaṃ ghṛtopalakṣaṇaṃ prayājādiṣvājyairhoyamānatvāt | yadvā | pratīkamaṅgaṃ dīprajvālamityarthaḥ | kiṃca vo yuṣmatsambandhina ṛtasya yajñasya dhūrṣadaṃ dhuri nirvahaṇe sīdantaṃ yajñanirvāhakamagniṃ mitraṃ na mitramiva samidhānāḥ idhmairdīpayamānā ṛñjate | prasādhayanti | ṛñjatiḥ prasādhanakarmā | indhānaḥ samyagdīpyamāno 'kro jvālābhirākrānto 'thvairanākrānto vā krameḥ śyandaso ḍaḥ [?] | vidatheṣu yajñeṣu vedayatstotreṣu nimitteṣu dīdyat svayaṃ dīpyamāno 'gniḥ śukravarṇāṃ śuddhavarṇāṃ nirmalavarṇāṃ ca dhiyaṃ prajñāṃ jyotiṣmadādikarma vā no 'smākamudyaṃsate udyamayatu [?] | … yamerleṭyāḍāgamaḥ | sip | uśabdo [?] dhāraṇe | dhīriti karmanāmasu pāṭhāt ‖*
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–319 done (Ṛks 1–6 complete; Ṛk 7 *ghṛtapratīkaṃ va ṛtasya dhūrṣadam*: Saṃhitā, Pada and bhāṣya on p. 319; its Pratipadārtha, Bhāvārtha, English and Special Topics follow on p. 320). Next: printed p. 320 (PDF 338). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–7 (pp. 302, 306–307, 311, 316, 319) largely unread; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
