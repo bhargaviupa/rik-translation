@@ -10115,4 +10115,166 @@ Sayana refers the three heads of Agni to the three Savanas, or the three worlds,
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 146 (5 Ṛks) done through printed p. 386 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada and the start of its bhāṣya). Next: printed p. 387 (PDF 405). Images in /tmp/v11a (PDF 33–404; recrop 405+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad quotes on pp. 383–385 with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 387  (PDF 405)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 25 [?].)*
+
+*(Ṛk 2 bhāṣya, end; small type, only partly legible.)*
+
+> सानौ समुच्छ्रिते प्रदेशे वेदिलक्षणे सदो नि दधाति पदानि स्थापयति करोति [?] । किंच [?] ... अरुषासः आरोचमानाः [?] ... ऊधः उद्धृतोदकप्रदानस्थानीयम् [?] अन्तरिक्षं रिहन्ति लिहन्ति ... यद्वा । अस्याग्नेः ... अरुषा आरोचना ब्रह्मवर्चसेन यजमानाः रिहन्ति । अभिमतैः स्वर्गादीनि लिहन्ति ॥ *[several words doubtful]*
+
+> *sānau samucchrite pradeśe vedilakṣaṇe sado ni dadhāti padāni sthāpayati karoti [?] | kiṃca [?] ... aruṣāsaḥ ārocamānāḥ [?] ... ūdhaḥ uddhṛtodakapradānasthānīyam [?] antarikṣaṃ rihanti lihanti ... yadvā | asyāgneḥ ... aruṣā ārocanā brahmavarcasena yajamānāḥ rihanti | abhimataiḥ svargādīni lihanti ‖ *[several words doubtful]**
+
+**Pratipadārtha (Kannada).** *ukṣā* — the showerer (of desired aims); *mahān* — Agni, endowed with greatness; *ene* — both heaven and earth; *abhi vavakṣe* — has pervaded; *ajaraḥ* — the ageless; *ṛṣvaḥ* — the adorable Agni; *itaūtiḥ* — joined with protections (or) coming hither to the sacrificial place; *tasthau* — stands; *urvyāḥ* — of the broad earth; *sānau* — on the lofty altar-place like a summit; *padaḥ* — feet; *ni dadhāti* — places; *asya* — of this Agni; *aruṣāsaḥ* — the shining lights; *ūdhaḥ* — the atmosphere that is like an udder; *rihanti* — touch (pervade); (or) *asya* — of this Agni; *ūdhaḥ* — the sacrifice that is like an udder; *aruṣāsaḥ* — the sacrificers shining with their splendour; *rihanti* — touch (heaven and the rest).
+
+**Bhāvārtha.** Agni, the showerer of desired aims, endowed with greatness, has pervaded heaven and earth. The ageless, adorable Agni stands with his protections, and places his feet on the lofty altar-ground, which is like the summit of the broad earth; and the bright lights of this Agni pervade the atmosphere, which is like an udder.
+
+**English Translation (as printed).** The great showerer (of benefits) has pervaded these two (worlds); undecaying and adorable, he is (ever) present, bestowing protection: he places his foot on the summit of the earth, and his radiant ( flames ) lick the udder (of the firmament).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***ukṣā*** — *sekta, phalapradātā ity arthaḥ*: "the sprinkler, the giver of fruit"; one who pours out the desired aims. *sec*, "to sprinkle", gives the sense of "sprinkling"; the word is derived from the root *ukṣ*, "to sprinkle"; the sense is the divinity that showers desired aims. The Nirukta author has listed *ukṣan* among the names of the great (Ni. 3-[?]), and:
+
+---
+
+### Printed p. 388  (PDF 406)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+> वृषाकपायि रेवति सुपुत्र आदु सुस्नुषे । घसत्त इन्द्र उक्षणः प्रियं काचित्करं हविर्विश्वस्मादिन्द्र उत्तरः ॥
+
+> *vṛṣākapāyi revati suputra ādu susnuṣe | ghasatta indra ukṣaṇaḥ priyaṃ kācitkaraṃ havirviśvasmādindra uttaraḥ ‖*
+
+(Ṛ. Saṃ. 10-86-[?].) Citing this Ṛk, in explaining the word *ukṣaṇaḥ* occurring in it he says: *ukṣāṇa ukṣaṇaḥ, ukṣater vṛddhikarmaṇaḥ* ("*ukṣan* from the root *ukṣ*, of the sense of growth"), (Ni. [?]) — since the root *ukṣ* is of the sense "to increase", with *vṛddhi* [?], the meaning "bulls that sprinkle waters" is given in this context. In general the word *ukṣan* is used in the sense of strength, of capacity also; it has the sense of the power of sprinkling.
+
+> ते जज्ञिरे दिव ऋष्वास उक्षणो रुद्रस्य मर्या असुरा अरेपसः । पावकासः शुचयः सूर्या इव सत्वानो न द्रप्सिनो घोरवर्पसः ॥
+
+> *te jajñire diva ṛṣvāsa ukṣaṇo rudrasya maryā asurā arepasaḥ | pāvakāsaḥ śucayaḥ sūryā iva satvāno na drapsino ghoravarpasaḥ ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?].)
+
+> यज्ञस्य केतुं प्रथमं पुरोहितं हविष्मन्त ईळते सप्त वाजिनम् । शृण्वन्तमग्निं घृतपृष्ठमुक्षणं पृणन्तं देवं पृणते सुवीर्यम् ॥
+
+> *yajñasya ketuṃ prathamaṃ purohitaṃ haviṣmanta īḷate sapta vājinam | śṛṇvantamagniṃ ghṛtapṛṣṭhamukṣaṇaṃ pṛṇantaṃ devaṃ pṛṇate suvīryam ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) In such Ṛks the word *ukṣan* attains the sense of "sprinkling" or "the power of sprinkling". In the Ṛk at hand too, "one who has the power of sprinkling", i.e. who gives desired aims — Agni.
+
+***abhi vavakṣe*** — *abhikramya vyāpya vahati*; *vyāpnotīty arthaḥ*: "having gone over, he bears, pervading"; "he pervades on all sides". The word *vavakṣe* may be derived from the root *vah* or from the root *vac paribhāṣaṇe*, says the Nirukta author:
+
+> किमित्ते विष्णो परिचक्ष्यं भूत्प्र यद्ववक्षे शिपिविष्टो अस्मि । मा वर्पो अस्मदप गूह एतद्यदन्यरूपः समिथे बभूथ ॥
+
+> *kimitte viṣṇo paricakṣyaṃ bhūtpra yadvavakṣe śipiviṣṭo asmi | mā varpo asmadapa gūha etadyadanyarūpaḥ samithe babhūtha ‖*
+
+(Ṛ. Saṃ. 7-100-6.) Citing this, he explains *vavakṣe* here as *pra bravīṣi* ("you declare") — thus showing the root *vac* as the source of this. And:
+
+> सद्यो जातो ओषधीभिर्ववक्षे यदी वर्धन्ति प्रस्वो घृतेन । आप इव प्रवता शुम्भमाना उरुष्यदग्निः पित्रोरुपस्थे ॥
+
+> *sadyo jāto oṣadhībhirvavakṣe yadī vardhanti prasvo ghṛtena | āpa iva pravatā śumbhamānā uruṣyadagniḥ pitrorupasthe ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].)
+
+---
+
+### Printed p. 389  (PDF 407)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 25 [?].)*
+
+In such Ṛks, *vavakṣe* is "is carried (or: made to be borne)": *uhyate*, *vahyate*. 
+
+> ववक्ष इन्द्रो अमितमृजिष्यु ऽ भे आ पप्रौ रोदसी महित्वा । अतश्चिदस्य महिमा वि रेच्यभि यो विश्वा भुवना बभूव ॥
+
+> *vavakṣa indro amitamṛjiṣyu ' bhe ā paprau rodasī mahitvā | ataścidasya mahimā vi recyabhi yo viśvā bhuvanā babhūva ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk, it gives the sense "he was borne (pervaded)": *uvāha* — so in the Ṛk in question too, the word is derived from the root *vah*, so that *abhi vavakṣe* means *vyāpnoti*, "pervades on all sides".
+
+***ṛṣvaḥ*** — this word is read among the names of the great (Ni. 3-[?]). It is used in the sense "great" and in the sense "of beautiful form". The Nirukta author:
+
+> उरुं नो लोकमनु नेषि विद्वान्स्वर्वज्ज्योतिरभयं स्वस्ति । ऋष्वा त इन्द्र स्थविरस्य बाहू उप स्थेयाम शरणा बृहन्ता ॥
+
+> *uruṃ no lokamanu neṣi vidvānsvarvajjyotirabhayaṃ svasti | ṛṣvā ta indra sthavirasya bāhū upa stheyāma śaraṇā bṛhantā ‖*
+
+(Ṛ. Saṃ. 6-47-8.) Citing this Ṛk, he explains the word *ṛṣvā* as *darśanīyau*, "beautiful, of delightful form"; and in
+
+> अनानुदो वृषभो दोधतो वधो गम्भीर ऋष्वो असमष्टकाव्यः । रध्रचोदः श्नथनो वीळितस्पृथुरिन्द्रः सुयज्ञ उषसः स्वर्जनत् ॥
+
+> *anānudo vṛṣabho dodhato vadho gambhīra ṛṣvo asamaṣṭakāvyaḥ | radhracodaḥ śnathano vīḷitaspṛthurindraḥ suyajña uṣasaḥ svarjanat ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) the word *mahān* is an adjective of Indra. In the Ṛk at hand this word is an adjective of Agni. As Agni has both these qualities, either of the two senses may be given for this word.
+
+***urvyāḥ*** — *vistāyāḥ bhūmyāḥ*: "of the broad earth"; the word, as an adjective of the earth or of the atmosphere, shows the nature spread out broadly.
+
+> ऊर्मिर्न पृथ्वी बहुला गभीरा मा वामेतौ [?] ।
+
+> *ūrmirna pṛthvī bahulā gabhīrā mā vāmetau [?] |*
+
+(Ai. Brā. 4-[?].) In such sentences, this word is shown as an adjective of heaven and earth, which spread very broadly.
+
+***rihanty ūdho aruṣāso asya*** — Two kinds of meaning for this sentence have been shown by Sāyaṇa: first, *asya aruṣāsaḥ* — "the shining lights of this Agni *rihanti* (pervade) the atmosphere that is like an udder, *ūdhaḥ*"; second, *asya ūdhaḥ* — "the sacrifice of this Agni that is like an udder; *aruṣāsaḥ*, the sacrificers shining with their splendour, *rihanti*, touch heaven and the rest".
+
+---
+
+### Printed p. 390  (PDF 408)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+*(Special Topics, end.)* But here the first meaning fits better. Oldenberg, the scholar, explains the word *aruṣāsaḥ* as "His horses or flames of Agni".
+
+***aruṣāsaḥ*** — the word *aruṣa* is read in the Nirukta among the names of horses (Ni. 1-[?]). The various meanings of the word *aruṣa* and the uses of this word in the Ṛk-saṃhitā are given with examples in the special topics of Ṛk 1-[?]-[?].
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ukṣā* (root *ukṣa secane*; *svanniti kṣā-sphāyī…* (Uṇ. Sū. 1-[?]) *kanin* [?]; *nipātita*); *mahān + abhi* (*dīrghād aṭ samānapāde* (Pā. Sū. 8-3-9) *ru* for the *n*; *ato roḥ* (Pā. Sū. 6-1-113); *āto 'ṭi nityam* (Pā. Sū. 8-3-3) the preceding *ā* is always nasalised); *vavakṣe* (root *vaha prāpaṇe*; *liṭ*, 3rd sg., suffix *ta*; *bahulaṃ chandasi*: *śap* → *śluḥ*; doubling of the root; *loṭo laṅvat* [?]; *ṭeḥ* ... *ata* ..., loss of *tha* [?] of the suffix; *saḥ* *sibbahulaṃ leṭi* (Pā. Sū. 3-1-34) *sic*; *hoḍhaḥ* [?] *ḍhatva*; *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41) *ka* for *ḍha* of the root; *ṣatva* of the *s*; the form *vavakṣe*; *nighāta* after a *tiṅanta*); *ajaraḥ* (*na vidyate jarā yasya saḥ*; *nañsubhyām* — *uttarapada ādyudātta*); *tasthau* (root *ṣṭhā gatinivṛttau*; *liṭ* 3rd sg.; *tiṅ*-*nighāta*); *itaūtiḥ* (*itā ūtir yena saḥ itaūtiḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) prior-member accent); *urvyāḥ* (*udāttayaṇo hal pūrvāt* (Pā. Sū. 6-1-174) ending *udātta*); *pade* [padaḥ] (*ūḍidaṃpadādi* (Pā. Sū. 6-1-171) ending (*śas*) *udātta*).
+
+---
+
+### Printed p. 391  (PDF 409)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 26 [?].)*
+
+*(Ṛk 2 grammar, end.)* *dadhāti* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ* 3rd sg.; *nighāta*); *rihanti* (root *rihe kutsanayuddhaninda-hiṃsādāneṣu* [sic, as printed]; *tudādi*; *laṭ* 3rd plural; or *liha āsvādane*; *adādi*; by *vyatyaya* *lakāra* → *repha*; since *pāda*-initial, no *nighāta*; the suffix is *ādyudātta*); *aruṣāsaḥ* (root *ruṣa hiṃsāyām* [sic]; *ruṣo 'pīti* [?] *ruṣā na ruṣā*; *aruṣāḥ*; *ugitpadajña-prekhera*… *kaḥ* (Pā. Sū. 3-1-[?]) *ka* suffix; *jas* following, *ājjaserasuk* (Pā. Sū. 7-1-50) *asuk* augment). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> समानं वत्समभि संचरन्ती विष्वग्धेनू वि चरतः सुमेके ।
+> अनपवृज्याँ अध्वनो मिमाने विश्वान्केताँ अधि महो दधाने ॥ ३ ॥
+
+> *samānaṃ vatsamabhi saṃcarantī viṣvagdhenū vi carataḥ sumeke |*
+> *anapavṛjyā~ adhvano mimāne viśvānketā~ adhi maho dadhāne ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> समानम् । वत्सम् । अभि । संचरन्ती इति सम्ऽचरन्ती । विष्वक् । धेनू इति । वि । चरतः ।
+> सुमेके इति सुऽमेके ।
+> अनपऽवृज्यान् । अध्वनः । मिमाने इति । विश्वान् । केतान् । अधि । महः । दधाने ।
+> इति ॥ ३ ॥
+
+> *samānam | vatsam | abhi | saṃcarantī iti sam 'carantī | viṣvak | dhenū iti | vi | carataḥ |*
+> *sumeke iti su 'meke |*
+> *anapa 'vṛjyān | adhvanaḥ | mimāne iti | viśvān | ketān | adhi | mahaḥ | dadhāne |*
+> *iti ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: the two cows, heaven and earth [or the two priests], each moving to the one calf, Agni, feed him and travel in all directions, measuring faultless paths and bearing great wisdom.)*
+
+> समानमेकमेव वत्सं वत्सस्थानीयं पुत्रं [?] ... अग्निं मुखीकृत्य [?] अभिमुखं संचरन्ती संचरन्त्यौ द्वे धेनू अग्निं हितकरेण [?] प्रीणयित्र्यौ पत्नीयजमानलक्षणे धेनू विष्वक् सर्वतः वि चरतः संचरतः । स्वसमानासाधारणेन [?] सम्यग्गच्छता [?] ... इत्यर्थः । कीदृश्यौ ते । सुमेके शोभनमेके शोभनमेकेन वा परिचरना- [?]
+
+> *samānamekameva vatsaṃ vatsasthānīyaṃ putraṃ [?] ... agniṃ mukhīkṛtya [?] abhimukhaṃ saṃcarantī saṃcarantyau dve dhenū agniṃ hitakareṇa [?] prīṇayitryau patnīyajamānalakṣaṇe dhenū viṣvak sarvataḥ vi carataḥ saṃcarataḥ | svasamānāsādhāraṇena [?] samyaggacchatā [?] ... ityarthaḥ | kīdṛśyau te | sumeke śobhanameke śobhanamekena vā paricaranā- [?]*
+
+---
+
+### Printed p. 392  (PDF 410)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+*(Ṛk 3 bhāṣya, end; small type, only partly legible.)*
+
+> कुशले इत्यर्थः । किंचानपवृज्यान् अपवर्जनीयरहितान् [?] ... ऋत्विग्भ्यामित्यत्र पदा- [?] ... अध्वनो मार्गान् अग्नेः प्रान्तप्रदेशान् केशाद्यमेध्यरहितान्नानाभिमानेन सम्पादयन्त्यौ [?] । किंच विश्वान् केतान् सर्वाणि प्रज्ञानानि प्रवर्धनविषयाणि महो महान्तमग्निं [?] ... उद्दिश्य वृद्धिकरं [?] धानेन दधानः ... रूपे जायाऽपत्यौ रूपे वा धेनू विष्वग्वि चरतः ॥ *[small type; largely illegible]*
+
+> *kuśale ityarthaḥ | kiṃcānapavṛjyān apavarjanīyarahitān [?] ... ṛtvigbhyāmityatra padā- [?] ... adhvano mārgān agneḥ prāntapradeśān keśādyamedhyarahitānnānābhimānena sampādayantyau [?] | kiṃca viśvān ketān sarvāṇi prajñānāni pravardhanaviṣayāṇi maho mahāntamagniṃ [?] ... uddiśya vṛddhikaraṃ [?] dhānena dadhānaḥ ... rūpe jāyā 'patyau rūpe vā dhenū viṣvagvi carataḥ ‖ *[small type; largely illegible]**
+
+**Pratipadārtha (Kannada).** *sumeke* — skilled in performing the rites; or skilled in the service; (and) *anapavṛjyān* — which have nothing to be avoided (free from faults); *adhvanaḥ* — the paths (of Agni); *mimāne* — those who accomplish; *viśvān ketān* — all the knowledges (that increase Agni); *mahaḥ* — to the great; *adhi dadhāne* — those who hold (in excess); *samānam* — (to both) a common, i.e. one worthy of love; *vatsam* — to the calf, the delight-giving Agni; *abhi saṃcarantī* — going facing (pleasing him); *dhenū* — those who show affection like cows, the sacrificer and his wife, both (or) the Hotṛ and Adhvaryu; *viṣvak* — together; *vi carataḥ* — move (with the equipment needed for the sacrifice).
+
+**Bhāvārtha.** Skilled in service, free from faults, accomplishing the paths of Agni, increasing all the knowledges, endowed in excess with greatness, the two — going facing Agni, the delight-giving, who is, like a calf, the object of love for both, as cows show affection to the calf — the sacrificer and his wife, or the Hotṛ and the Adhvaryu, together move about with the equipment needed for the sacrifice.
+
+**English Translation (as printed).** (There are) two well-disposed milch cows together approaching their common progeny, and fully nourishing (him); pointing out the paths that are free from all that is to be avoided, and possessing more than the great intelligence (necessary for his development).
+
+---
+
+**Progress note:** Vol 11 — Sūkta 146 (5 Ṛks) done through printed p. 392 (Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; its Special Topics and grammar to come on p. 393). Next: printed p. 393 (PDF 411). Images in /tmp/v11a (PDF 33–410; recrop 411+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
