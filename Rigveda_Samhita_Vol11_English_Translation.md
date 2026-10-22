@@ -11913,4 +11913,152 @@ Even so, the use of the word *arvan* as a synonym of horse is the more frequent;
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 149 (5 Ṛks) done through printed p. 457 (Ṛks 1–2 complete; Ṛk 3 complete except the rest of its grammar note on p. 458). Next: printed p. 458 (PDF 476), then Ṛks 4–5 of Sūkta 149, then Sūkta 150. Images in /tmp/v11a (PDF 33–475; recrop 476+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Taittirīya quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers; p. 454 *nārmiṇīm* note — the Monier Williams / Pāṇini remarks only partly legible). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 458  (PDF 476)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+*(Ṛk 3 grammar, end, noted briefly.)* *nabhanyaḥ* (*nabhasi bhavaḥ nabhanyaḥ*; *yat* suffix; *tit svaritam* (Pā. Sū. 6-1-185) *svarita* accent; in Vedic the change of letter occurs); *sūraḥ* (root *ṣūṅ prasave*; *susūdhāgṛdhibhyaḥ kran* (Uṇ. Sū. [?]) *kran* suffix; *ñnityādir nityam* first *udātta*); *rurukvān* (root *ruca dīptau*; in Vedic *liṭ*, *kvasu* (*kvasuś ca*, Pā. Sū. 3-2-107); doubling of the root; by Vedic usage *kutva*; the *vasu* accent remains; nominative sg.); *śatātmā* (*śataṃ ātmāno yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* prior-member accent). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अभि द्विजन्मा त्री रोचनानि विश्वा रजांसि शुशुचानो अस्थात् ।
+> होता यजिष्ठो अपां सधस्थे ॥ ४ ॥
+
+> *abhi dvijanmā trī rocanāni viśvā rajāṃsi śuśucāno asthāt |*
+> *hotā yajiṣṭho apāṃ sadhasthe ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अभि । द्विऽजन्मा । त्री । रोचनानि । विश्वा । रजांसि । शुशुचानः । अस्थात् ।
+> होता । यजिष्ठः । अपाम् । सधऽस्थे ॥ ४ ॥
+
+> *abhi | dvi 'janmā | trī | rocanāni | viśvā | rajāṃsi | śuśucānaḥ | asthāt |*
+> *hotā | yajiṣṭhaḥ | apām | sadha 'sthe ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: the twice-born Agni stands shining over the three luminous worlds and all spaces; the invoker, best of sacrificers, in the gathering-place of the waters.)*
+
+> अयमग्निर्द्विजन्मा द्वाभ्यामरणिभ्यां जायमानः । यद्वा । मथनात्प्रथमं जन्म । उत्पत्त्यनन्तरं पावमानेष्ट्याहि [?]संस्काररूपं द्वितीयं जन्मेव । एवं द्विजन्मत्वम् । अथवा द्यावापृथिवीभ्यामुत्पन्नत्वात् । तादृशोऽग्निः त्री रोचनानि त्रीणि [?] रोचनानि त्रीन् दिशः [?] ... गार्हपत्यादीनि वा भाभिः शुशुचानोऽभितः प्रकाशयन् । न केवलं त्रीन्येव किन्तु विश्वा रजांसि सर्वाण्यपि रञ्जनात्मकानि क्षित्यादिलोकान् शुशुचानोऽभितः प्रकाशयन् दीपयन् होता देवानामाह्वाता यजिष्ठो यष्टृतमः सन्नपाम् प्रोक्षणाद्युदकानां सदस्थे सहस्थाने यागदेशे अस्थात् तिष्ठति ॥ *[small type; partly legible]*
+
+> *ayamagnirdvijanmā dvābhyāmaraṇibhyāṃ jāyamānaḥ | yadvā | mathanātprathamaṃ janma | utpattyanantaraṃ pāvamāneṣṭyāhi [?]saṃskārarūpaṃ dvitīyaṃ janmeva | evaṃ dvijanmatvam | athavā dyāvāpṛthivībhyāmutpannatvāt | tādṛśo 'gniḥ trī rocanāni trīṇi [?] rocanāni trīn diśaḥ [?] ... gārhapatyādīni vā bhābhiḥ śuśucāno 'bhitaḥ prakāśayan | na kevalaṃ trīnyeva kintu viśvā rajāṃsi sarvāṇyapi rañjanātmakāni kṣityādilokān śuśucāno 'bhitaḥ prakāśayan dīpayan hotā devānāmāhvātā yajiṣṭho yaṣṭṛtamaḥ sannapām prokṣaṇādyudakānāṃ sadasthe sahasthāne yāgadeśe asthāt tiṣṭhati ‖ *[small type; partly legible]**
+
+---
+
+### Printed p. 459  (PDF 477)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 36 [?].)*
+
+**Pratipadārtha (Kannada).** *dvijanmā* — Agni who has two kinds of birth; *trī rocanāni* — the three shining realms; *viśvā rajāṃsi* — all regions made of colour (the worlds, all around); *abhi śuśucānaḥ* — shining all around; *hotā* — the invoker of the gods to the sacrifice; *yajiṣṭhaḥ* — the most excellent sacrificer; *apām sadhasthe* — in the place of sacrifice where the waters of sprinkling and the like are collected; *asthāt* — has taken his place.
+
+**Bhāvārtha.** Agni, who has two kinds of birth, makes all the shining worlds and regions of colour shine all around; as the invoker of the gods to the sacrifice, the best of sacrificers, he has taken his stand in the place of sacrifice where the waters of sprinkling and the like are collected.
+
+**English Translation (as printed).** He, the twofold-born, illuminating the three bright (regions), and shining over all the lustrous spheres, the adorable invoker of the gods, is present at the place where the waters are collected.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***dvijanmā*** — *dvābhyām araṇibhyām jāyamānaḥ*; *yadvā mathanena ādhānasaṃskārena ca utpannatvāt dvijanmatvam*, *athavā dyāvāpṛthivyoḥ jāyamānaḥ araṇyor vā jāyamānaḥ* — "born from two fire-sticks; or twice-born because produced by churning and then by the consecration of establishment; or born of heaven and earth, or from the two fire-sticks": thus the manner of Agni's origin is described in the section of the Ṛk 1-[?]-[?] of this part; see there.
+
+***trī rocanāni*** — here *rocana* is taken as "the lustrous sphere". Agni has three luminous places of his own — earth, atmosphere and heaven; or the Gārhapatya, Āhavanīya and Dakṣiṇāgni, Sāyaṇa has explained. *Trimūrdhānam* in the Ṛk 1-[?]-[?] of the same section has also suggested this subject; and:
+
+> त्रीणि जाना परि भूषन्त्यस्य समुद्र एकं दिव्येकमप्सु । पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्ठु ॥
+
+> *trīṇi jānā pari bhūṣantyasya samudra ekaṃ divyekamapsu | pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭhu ‖*
+
+(Yaj. Saṃ. [?]-[?].) In the special topics of this Ṛk too (in the Ṛg-Veda Saṃhitā part, page [?] onward) this subject has been explained.
+
+---
+
+### Printed p. 460  (PDF 478)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+***rajāṃsi*** — *sarvāṇy api rañjanātmakān kṣityādilokān śuśucānaḥ*: "shining on all the worlds of the earth and the rest, which are of the nature of being coloured"; the Kannada: "the worlds of the earth and the rest which draw the mind"; the word *rajas*, in the sense of "world", "water" and so on, its uses with examples are shown in the special topics of the Ṛk 1-[?]-[?] of this section.
+
+***apāṃ sadhasthe*** — *sahasthāne* (Ni. 4-[?]): "in the place where all come together", i.e. "in the house, in the dwelling [?]". Or *saha tiṣṭhanti yasmin devatāḥ sa sadhasthaḥ yajñaḥ* — "that in which the deities stay together is a *sadhastha*, the sacrifice". *apāṃ sadhasthe* means "in the place of sacrifice, where waters are collected, as for sprinkling, consecrating, etc." — since the place of sacrifice is in the nature of purifying waters, the sacrificial ground has the name *apāṃ sadhastha*; "in the sacrificial ground" is the sense. And:
+
+> इमं विधन्तो अपां सधस्थे द्विता दधुर्भृगवो विक्ष्वप्स्वा । एषं विश्वान्यभ्यस्तु भूमा देवानामग्निररतिर्जीरराश्वः ॥
+
+> *imaṃ vidhanto apāṃ sadhasthe dvitā dadhurbhṛgavo vikṣvapsvā | eṣaṃ viśvānyabhyastu bhūmā devānāmagniraratirjīrarāśvaḥ ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) In such Ṛks, *apāṃ sadhasthe* means "in the atmosphere"; "in the atmosphere, which is the house-form of the lightning and the fire".
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *dvijanmā* (*dve janmanī yasya saḥ dvijanmā*; *pāradiśchandasi bahulam* [?] (Pā. Sū. 6-2-[?]) the later-member first *udātta*); *rocanāni* (root *ruca dīptau*; *anudāttetaś ca halādeḥ* (Pā. Sū. 3-2-149) *yuc* suffix; *yuvor anākau* *ana*; *cit*: final *udātta*); *viśvā* (*viśvāni*; *śeṣaṃ chandasi bahulam* loss of *i* of *śi*); *śuśucānaḥ* (root *śuca dīptau*; in Vedic *liṭ*; *liṭaḥ kānajvā* *kānac*; doubling of the root; *cit* — final *udātta*); *asthāt* (root *ṣṭhā gatinivṛttau*; *chandasi luṅlaṅliṭaḥ* present sense *luṅ*; 3rd sg. *tip*; loss of *i* by *itaś ca*; *cli* → *sic*, *gātisthāghupābhūbhyaḥ…* (Pā. Sū. 2-4-77) *luk* of it; augment *aṭ* to the stem; *tiṅ*-*nighāta*); *yajiṣṭhaḥ* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; agent *tṛc*; *atiśayena yaṣṭā yajiṣṭhaḥ*; *tuśchandasi* (Pā. Sū. 5-3-59) *iṣṭhan*; *teriḍi* loss of *tṛc*'s *ti*; suffix is *nit*, so first *udātta*); *apām* (*ūḍidaṃpadādi* (Pā. Sū. 6-1-171) case-ending *udātta*); *sadhasthe* (root *ṣṭhā gatinivṛttau*; *supi sthaḥ* (Pā. Sū. 3-2-4) *ka*; *sadhamādasthayoś chandasi* (Pā. Sū. 6-3-96) *sadha* for *saha*; *ā to lopa iṭi ca* loss of the root's *ā*). ‖ 4 ‖
+
+---
+
+### Printed p. 461  (PDF 479)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 36 [?].)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अयं स होता यो द्विजन्मा विश्वा दधे वार्याणि श्रवस्या ।
+> मर्तो यो अस्मै सुतुको ददाश ॥ ५ ॥
+
+> *ayaṃ sa hotā yo dvijanmā viśvā dadhe vāryāṇi śravasyā |*
+> *marto yo asmai sutuko dadāśa ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अयम् । सः । होता । यः । द्विऽजन्मा । विश्वा । दधे । वार्याणि । श्रवस्या ।
+> मर्तः । यः । अस्मै । सुऽतुकः । ददाश ॥ ५ ॥
+
+> *ayam | saḥ | hotā | yaḥ | dvi 'janmā | viśvā | dadhe | vāryāṇi | śravasyā |*
+> *martaḥ | yaḥ | asmai | su 'tukaḥ | dadāśa ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: this is the invoker, the twice-born, who holds all desirable riches through desire for food; the mortal who gives him oblations has excellent offspring.)*
+
+> यो द्विजन्मा स एव होता होमनिष्पादकः । अरणिभ्यामुत्पन्नस्यैव गार्हपत्यादिरूपाहवनीयत्वात् [?] आह्वाता वा देवानां सोऽयं विश्वा विश्वानि वार्याणि वरणीयानि [?] ॥ ईडेदन्ते वृत्र... सुषामादिः [?] इत्यादिनोदात्तत्वम् ॥ श्रवस्या श्रवस्यया श्रोत्रेन्नं हविर्लक्षणम् [?] तदिच्छया ॥ श्रवःशब्दात् क्यजन्तात् आ प्रत्ययाद्यतीति [?] भावे अप्रत्ययः ॥ दधे धारयति । अस्मा उक्तस्वरूपायाग्नये यो मर्त्यो ददाश ददाति स सुतुकः शोभनपुत्रो भवति ॥ *[small type; partly legible]*
+
+> *yo dvijanmā sa eva hotā homaniṣpādakaḥ | araṇibhyāmutpannasyaiva gārhapatyādirūpāhavanīyatvāt [?] āhvātā vā devānāṃ so 'yaṃ viśvā viśvāni vāryāṇi varaṇīyāni [?] ‖ īḍedante vṛtra... suṣāmādiḥ [?] ityādinodāttatvam ‖ śravasyā śravasyayā śrotrennaṃ havirlakṣaṇam [?] tadicchayā ‖ śravaḥśabdāt kyajantāt ā pratyayādyatīti [?] bhāve apratyayaḥ ‖ dadhe dhārayati | asmā uktasvarūpāyāgnaye yo martyo dadāśa dadāti sa sutukaḥ śobhanaputro bhavati ‖ *[small type; partly legible]**
+
+**Pratipadārtha (Kannada).** *yaḥ* — which Agni; *dvijanmā* — born in two ways; *saḥ* — that; *hotā* — the accomplisher of the *homa* or the invoker of the gods to the sacrifice; *ayam* — this Agni; [continues on p. 462]
+
+---
+
+### Printed p. 462  (PDF 480)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+*(Pratipadārtha continued.)* *śravasyā* — desiring the oblation in the form of food; *viśvā* — all; *vāryāṇi* — most desirable [?] riches; *dadhe* — holds; *asmai* — to this Agni; *yaḥ martaḥ* — which mortal; *dadāśa* — offers (oblations); *sutukaḥ* — will be the father of children of excellent worth.
+
+**Bhāvārtha.** The Agni who has two kinds of birth is the accomplisher of the *homa*; this Agni, desiring oblation in the form of food, holds all excellent riches that are desirable. The mortal who offers oblations to this Agni becomes the father of sons of excellent worth.
+
+**English Translation (as printed).** He is the offerer of oblations, who is of twofold birth; and, through desire for (sacrificial) food, has in his keeping all good things: the man who presents offerings to him is the parent of excellent offspring.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***sutukaḥ*** — *śobhanaputraḥ*, "one having excellent children" — the owner of excellent progeny [thus Sāyaṇa]. The word *toka* has been explained in the special topics of the Ṛk 1-[?]-[?] of this part: "children of worth, descendants". The Nirukta author:
+
+> स आ वक्षि महि न आ च सत्सि दिवस्पृथिव्योररतिर्युवत्योः । अग्निः सुतुकः सुतुकेभिरश्वै रभस्वद्भी रभस्वाँ एह गम्याः ॥
+
+> *sa ā vakṣi mahi na ā ca satsi divaspṛthivyoraratiryuvatyoḥ | agniḥ sutukaḥ sutukebhiraśvai rabhasvadbhī rabhasvā~ eha gamyāḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) Citing this Ṛk, he explains here the word *sutuka*: *sutukaḥ sutūrī* [?] *nirīti vā* / *supraja supraja[?]* — "*sutuk* is one who has [good] offspring"; or: (Ni. 4-[?]). From the root *tuk*, in the sense of going, the word *sutuka* is derived — "one who has splendid motion, a good mover". In the Ṛk here quoted it is said, as the epithet of Agni, "one who has splendid-going horses", or *sutukaḥ* "one having splendid births, one of excellent origin" — thus Sāyaṇa; two senses are possible. Sāyaṇa, however, explains *tuk* here as *tukkṛtyārthaḥ* [?]: "one who is *sugamaḥ*, *stotṛbhir yajñaiś ca sukhena prāpyaḥ*": "easily reached by praisers and by sacrifices", i.e. "by those who praise with hymns, he can be pleasantly approached":
+
+> न घा राजेन्द्र आ दभन्नो या नु स्वसारा कृणवन्त योनौ । आपश्चिदस्मै सुतुका अवेषन्गमन्न इन्द्रः सख्या वयश्च ॥
+
+> *na ghā rājendra ā dabhanno yā nu svasārā kṛṇavanta yonau | āpaścidasmai sutukā aveṣangamanna indraḥ sakhyā vayaśca ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+---
+
+### Printed p. 463  (PDF 481)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 36 [?].)*
+
+In this Ṛk, *sutukāḥ* is explained as *śobhanabalahetūni*, "being the cause of good strength": the oblations which are causes of excellent strength; and:
+
+> आ संयमिन्द्र णः स्वस्तिं शत्रुतूर्याय बृहतीममृध्राम् । यया दासान्यार्याणि वृत्रा करो वज्रिन्त्सुतुका नाहुषाणि ॥
+
+> *ā saṃyamindra ṇaḥ svastiṃ śatrutūryāya bṛhatīmamṛdhrām | yayā dāsānyāryāṇi vṛtrā karo vajrintsutukā nāhuṣāṇi ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) In this Ṛk, *sutukāni* means *śobhanahiṃsopetāni*, "[armies] with good capacity for killing": an adjective of the enemies' [hosts] — "may they be made capable of being slain" — thus the epithet of foes.
+
+In the situation described in the Ṛk at hand, the sense is "that mortal, the sacrificer, who offers oblations to Agni, becomes *sutuka*, one with excellent sons and grandsons" — this meaning is the fit one.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *dadhe* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ* *liṭ*; 3rd sg.; owing to *yat* [connected], no *nighāta*; suffix accent: final *udātta*); *vāryāṇi* (root *vṛñ varaṇe*; *ṇyat* suffix by *ṛhalor ṇyat* (Pā. Sū. 3-1-124); *ac ṇṇiti* *vṛddhi*; *ūḍidaṃpadādi*…; first *udātta* by *ṇyat* accent); *śravasyā* (*śravasyati* → *śravasyā*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8) *kyac*; *apratyayāt* (Pā. Sū. 3-3-102) *a* suffix after *kyajanta*; *ajādyataṣ ṭāp* (Pā. Sū. 4-1-4) *ṭāp*; *supāṃ sulug* (Pā. Sū. 7-1-39) *ā* for the instrumental ending; from the *kyac* accent final *udātta*); *martaḥ* (root *mṛṅ prāṇatyāge*; *asihasimṛ…* (Uṇ. Sū. 3-86) *tan* suffix; on account of the suffix, guṇa of the *ṛ*; because of *nit*, first *udātta*); *sutukaḥ* (*śobhanaṃ tokaṃ yasya saḥ sutukaḥ*; by Vedic *u*-substitution; *dvaitoḥ-…-sṛjiḥ* [?] (Pā. Sū. 6-2-[?]) later-member first *udātta*); *dadāśa* (root *dāś dāne*; in Vedic *liṭ* 3rd sg.; no *nighāta* owing to *yat*; *liti* (Pā. Sū. 6-1-193) *udātta* before the suffix). ‖ 5 ‖
+
+---
+
+**Progress note:** Vol 11 — Sūktas 148 and 149 complete (Sūkta 149 printed pp. 444–463; the closing line "here the 149th Sūkta ends", if printed, falls at the top of p. 464). Next: printed p. 464 (PDF 482), then Sūkta 150 (3 Ṛks, as expected). Images in /tmp/v11a (PDF 33–481; recrop 482+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Yajus/Taittirīya quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
