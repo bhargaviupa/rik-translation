@@ -9186,4 +9186,140 @@ moving, like arrows; *saḥ* — Agni; *ṛṇvati* — his own rays, with speed
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 144 done through printed p. 349 (Ṛks 1–4 complete; Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English and Special Topics begun, its last Ṛg quotation ends p. 349). Next: printed p. 350 (PDF 368). Images in /tmp/v11a (PDF 33–367; recrop 368+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya — Ṛk 4–5 only partly read, Bṛhaddevatā/Brāhmaṇa/Nirukta quotes, reference and sūtra numerals, Anukramaṇīs of 143–144; Ṛk 5 Pada word *vriśaḥ* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 350  (PDF 368)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+*(Ṛk 5, Special Topics continued.)* … in such Ṛks the sense is *gamayati* ("causes to go"); here too the sense is "makes his rays spread".
+
+The latter half of this Ṛk admits two kinds of meaning, Sāyaṇa has explained: first, "Agni, as the sacrificial-ground fire, makes the priests who go round it on every side know what is to be known (the sacrificial materials)"; second, "he accepts the new hymns and the like of the Hotṛs and others who, going all round, have purified him".
+
+***vayunā*** — it is read among the names of *prajñā* (understanding), *ketaḥ, ketuḥ* (Ni. 3-[?]); since it makes clear [?], this sense is given. *vayunaṃ vetes kāntir vā prajñā vā* (Ni. 3-[?]): derived from the root *vī* in the sense "to desire, wish", or of "understanding" — the Nirukta author shows this and cites:
+
+> स इत्तमोऽवयुनं [?] तस्तन्वत्सूर्येण वयुनवच्चकार [?] । कदा ते मर्ता अमृतस्य धामेयक्षन्तो न मिनन्ति स्वधावः ॥
+
+> *sa ittamo 'vayunaṃ [?] tastanvatsūryeṇa vayunavaccakāra [?] | kadā te martā amṛtasya dhāmeyakṣanto na minanti svadhāvaḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) From this Ṛk, *sa tamo vayunaṃ tastanvat sūryeṇa vayunavac cakāra* (Ni. [?]): "in the form of the Sun, who has spread out [?] the dark, he made understanding [?]", is explained. The word in the present Ṛk means "(sacrificial) objects of understanding".
+
+***adhita*** — *jñāpayati*: "makes (them) know" (in the first sense); *stotrādīni dhatte*: "accepts hymns and the like" (in the other sense).
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *hinvanti* (root *hivi prīṇane*; *lat* 3rd plural; *nu* [?]-affix; *idito num dhātoḥ* (Pā. Sū. 7-1-58) *num*; no *nighāta*-accent as after *tiṅanta* [?]); *dhītayaḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *kticc* [?] suffix; *ghumāsthāgāpā…* (Pā. Sū. 6-4-66) *ī* for the root; *citsvara*, final *udātta*); *vriśaḥ* [?] (Vedic *repha*-insertion; nom. pl.); *martāsaḥ* (*ajjhanagamāṃ*… no — *ajjhasīrasuk* [?] (Pā. Sū. 7-1-50) *asuk*)
+
+---
+
+### Printed p. 351  (PDF 369)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 19 [?].)*
+
+*(Ṛk 5 grammar continued, noted briefly.)* *ūtaye* (root *avarakṣaṇe*; *ūtiyūtijūti…* (Pā. Sū. 3-3-97) *ktin*, *udātta* suffix → *nighāta*; dative sg.); *havāmahe* (root *hvāñ spardhāyāṃ śabde ca*; *laṭ* 1st plural, *mahiṅ*; *eṭ*; *śap*; *bahulaṃ chandasi* *saṃprasāraṇa*; *guṇa*, *āvādeśa*; *tiṅanta*-accent); *dhanoḥ* (root *dhanā dhānye*; *bhṛmṛśī…* (Uṇ. Sū. 1-[?]) *u*; first *udātta* by *vṛtti*; ablative sg.); *pravataḥ* (*pra* + root *vana sambhaktau*; *kvip ca*; *gamādīnām…*; *anunāsika*-loss; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) *tuk*; *kṛdanta* → *prakṛtisvara*; ablative sg.); *ā* — used as an *upasarga* (*sādṛśya*?); *ṛṇvati* (root *ṛ gatau*; the *antarbhāvitaṇyartha* root since causative; *idito num dhātoḥ* *num*; *laṭ* 3rd sg. *tip*; *śap*; *bahulaṃ chandasi* *saṃprasāraṇa* → *ṛ*-form; *nakāra* of *num* gets *ṇatva*); *abhivrajadbhiḥ* (root *vraja gatau*; *śatṛ*; *lasārvadhātuka*-accent remains; *prādisamāsa* → *kṛdutarapada-prakṛtisvara*; instr. pl.); *vayunā*, *navā* (neuter plural *śi*, *ā* by *śeṣaṃ chandasi bahulam*: loss of *śi*); *adhita* (root *dudhāñ*; *chandasi luñlaṅliṭaḥ*; *luṅ* in sense of present; *tha*-ending, *iṭ* [?] for *ci*; *sica* *luk*; *sthāghvor ic ca* (Pā. Sū. 1-2-17) *itva* for the root; loss of *sic* after *hrasva*; augment *aṭ*; *nighāta*). ‖ 5 ‖
+
+---
+
+### Printed p. 352  (PDF 370)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वं ह्यग्ने दिव्यस्य राजसि त्वं पार्थिवस्य पशुपा इव त्मना ।
+> एनी त एते बृहती अभिश्रिया हिरण्ययी वक्वरी बर्हिराशाते ॥ ६ ॥
+
+> *tvaṃ hyagne divyasya rājasi tvaṃ pārthivasya paśupā iva tmanā |*
+> *enī ta ete bṛhatī abhiśriyā hiraṇyayī vakvarī barhirāśāte ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । हि । अग्ने । दिव्यस्य । राजसि । त्वम् । पार्थिवस्य । पशुपाःऽइव । त्मना ।
+> एनी इति । ते । एते इति । बृहती इति । अभिऽश्रिया । हिरण्ययी इति । वक्वरी इति ।
+> बर्हिः । आशाते इति ॥ ६ ॥
+
+> *tvam | hi | agne | divyasya | rājasi | tvam | pārthivasya | paśupāḥ 'iva | tmanā |*
+> *enī iti | te | ete iti | bṛhatī iti | abhi 'śriyā | hiraṇyayī iti | vakvarī iti |*
+> *barhiḥ | āśāte iti ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni rules the heavenly and the earthly as a herdsman rules his herd by his own power; heaven and earth, bright, vast, golden, resounding, pervade his sacrificial grass.)*
+
+> हे अग्ने त्वं दिव्यस्य दिवि भवस्य देवादेः [?] ... राजसि । ईशिषे ऐश्वर्यं ... तथा पार्थिवस्य पृथिवीसम्बन्धिनो मनुष्यादेः । किमिव । पशुपा इव पशुपालको यथा स्वसामर्थ्येनैव पशूनां निरोधनिर्गमनादिव्यापारेषु समर्थो भवति तद्वत् । *[the rest of this small-type bhāṣya — the explanation of *enī, ete, bṛhatī, abhiśriyā, hiraṇyayī, vakvarī, barhir āśāte* and its grammatical tail — is not legibly read; only fragments such as *dyāvāpṛthivyau barhir āśāte, vyāpnutaḥ, vakvarī* … *vacer* … *chāndasaṃ kutvaṃ* … are made out]*
+
+> *he agne tvaṃ divyasya divi bhavasya devādeḥ [?] ... rājasi | īśiṣe aiśvaryaṃ ... tathā pārthivasya pṛthivīsambandhino manuṣyādeḥ | kimiva | paśupā iva paśupālako yathā svasāmarthyenaiva paśūnāṃ nirodhanirgamanādivyāpāreṣu samartho bhavati tadvat | *[the rest of this small-type bhāṣya — the explanation of *enī, ete, bṛhatī, abhiśriyā, hiraṇyayī, vakvarī, barhir āśāte* and its grammatical tail — is not legibly read; only fragments such as *dyāvāpṛthivyau barhir āśāte, vyāpnutaḥ, vakvarī* … *vacer* … *chāndasaṃ kutvaṃ* … are made out]**
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *tvam* — you; *paśupā iva* — as a herdsman, having his own independent power over the cattle; *tmanā* — by your own independent power; *divyasya* — of the dwellers in heaven, the gods and others; *rājasi hi* — you reign indeed [rest of this page is cut off by the Kannada page break].
+
+---
+
+### Printed p. 353  (PDF 371)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 19 [?].)*
+
+*(Pratipadārtha continued.)* *tvam* — you; *pārthivasya* — of those on the earth, all the humans, who are lords (*īśvara*); *bṛhatī* — extremely vast (and); *abhiśriyā* — endowed with *aiśvarya* or served by all, worshipped; *hiraṇyayī* — beneficial to the world [hitakara], desirable; *vakvarī* — pleasing to the mind, resounding; *enī* — shining [prakāśamāna]; *ete* — these heaven and earth; *te* — your; *barhiḥ* — sacrifice; *āśāte* — pervading, spread.
+
+**Bhāvārtha.** O Agni, as a herdsman always reigns over the cattle with his own independent power, so you always, by your own power, reign over the gods and others in heaven, and over all the humans on earth. Extremely vast, worshipped, beneficial to the world, desirable, resounding, shining heaven and earth spread over your sacrifice.
+
+**English Translation (as printed).** You Agni, reign over (the dwellers in) heaven, and over those of earth, according to your own (will), as a herdsman over his (herd) and those two, (heaven and earth), bright, vast, adorable, beneficent, and sounding (agreeably), partake of the oblation.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***abhiśriyā*** — *prāptaiśvaryau abhitaḥ sevyau vā*: "possessing attained lordship, or served on all sides"; Sāyaṇa says it shows the greatness of heaven and earth. As this qualifier it is generally used in the senses "worshipful, support or refuge"; it is the *dyāvāpṛthivī* that are the objects. In many places the greatness of the pair is shown in a special way, e.g.:
+
+> प्रत्नवती भुवनानामभिश्रियोर्वी पृथ्वी मधुदुघे सुपेशसा । द्यावापृथिवी वरुणस्य धर्मणा विष्कभिते अजरे भूरिरेतसा ॥
+
+> *pratnavatī bhuvanānāmabhiśriyorvī pṛthvī madhudughe supeśasā | dyāvāpṛthivī varuṇasya dharmaṇā viṣkabhite ajare bhūriretasā ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) This Ṛk praises the earth as worshipped by all the worlds.
+
+> प्रत्नं होतारमीड्यं जुष्टमग्निं कविक्रतुम् । अध्वराणामभिश्रियम् ॥
+
+> *pratnaṃ hotāramīḍyaṃ juṣṭamagniṃ kavikratum | adhvarāṇāmabhiśriyam ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this Ṛk the quality of Agni being worshipped by the world is told.
+
+***vakvarī*** — *atikuśalaṃ śabdayantyau*: "sounding very skilfully"; since the *dyāvāpṛthivī* are qualified, the adjective is applied to them (the source cites *Vakvarī*; *vaki kauṭilye*, *"ity asmād dhātoś chāndaso namabhāvaḥ"*, as Sāyaṇa says)
+
+---
+
+### Printed p. 354  (PDF 372)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+… it becomes derived from *vacaḥ* (the sound-making root). *vaki kauṭilye*, says Sāyaṇa, from this *vakvarī* — but here, because it is a word referring to "making sound" and in all such contexts *vakvarī* and *vakvā* are used with the sense of sounding, one must say that these words are made from the root *vac* (*vacer*). Examples:
+
+> शं पृच्छन्ति वज्रहस्तं रथेष्ठामिन्द्रं नेषि वक्वरी यस्य सू गीः । तुविग्राभं तुविकूर्मिं रभोदां गातुमिषे नक्षते तुम्रमच्छ ॥
+
+> *śaṃ pṛcchanti vajrahastaṃ ratheṣṭhāmindraṃ neṣi vakvarī yasya sū gīḥ | tuvigrābhaṃ tuvikūrmiṃ rabhodāṃ gātumiṣe nakṣate tumramaccha ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) In this Ṛk, *vakvarī* is *guṇānāṃ vaktrī* (utterer of virtues) "such praise" (*gīḥ*, *stuti*): since it qualifies praise — "that which speaks out, praises merit" — the root *vac* is the source of the rest also. And of the form *vakvā*:
+
+> असर्जि वक्वा रथ्ये यथाजौ धिया मनोता प्रथमो मनीषी । दश स्वसारो अधि सानो अव्ये जिग्र्यं [?] वह्निं सदनान्यच्छ ॥
+
+> *asarji vakvā rathye yathājau dhiyā manotā prathamo manīṣī | daśa svasāro adhi sāno avye jigryaṃ [?] vahniṃ sadanānyaccha ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) here *vakvā* qualifies *śabdāyamānaḥ* "sounding" Soma; and
+
+> श्रुधी हवमिन्द्र शूर पृथ्या उत स्रवसे विश्वस्मै [?] । आ यस्ते योनिं घृतवन्तमस्वारूर्मिर्न निम्नैर्द्रवयन्त वक्वाः ॥
+
+> *śrudhī havamindra śūra pṛthyā uta sravase viśvasmai [?] | ā yaste yoniṃ ghṛtavantamasvārūrmirna nimnairdravayanta vakvāḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) in this Ṛk *vakvāḥ* qualifies the sounding hymns; and
+
+> प्राग्रुवो नभन्योः [?] न वक्वा ध्वसा अपिन्वद्युवतीर्ऋतज्ञाः । धन्वान्यज्राँ अपस्रोतसो [?] अधोगिन्द्रः स्रोत्री [?] इमस्य पत्नीः ॥
+
+> *prāgruvo nabhanyoḥ [?] na vakvā dhvasā apinvadyuvatīrṛtajñāḥ | dhanvānyajrā~ apasrotaso [?] adhogindraḥ srotrī [?] imasya patnīḥ ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) in this Ṛk, it qualifies the sounding streams; therefore the root *vac* is to be said the source of this word too.
+
+***rājasi*** — this word is read among the names of lordship (Ni. 2-[?]): *īśvaro bhavasi*: "you are the lord", "you are the one who is able", is the sense.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *divyasya* (*divi bhavaṃ divyam* — *divyam*: *bhave chandasi* (Pā. Sū. 4-4-110) *yat*; accent from the suffix: final *udātta*; genitive sg.)
+
+---
+
+### Printed p. 355  (PDF 373)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 19 [?].)*
+
+*(Ṛk 6 grammar continued, noted briefly.)* *rājasi* (root *rājṛ dīptau*; *laṭ* 2nd sg.; *hi* [?] *tiṅ*… *hi ca* (Pā. Sū. 8-1-34) forbids *nighāta*; *śap*, *sip*; accent: root accent remains since the *śap* is *udātta*); *pārthivasya* (*pṛthivyā ayaṃ pārthivaḥ*; *pṛthivyā ñyāñ* [?] (Pā. Sū. 4-1-[?]) *añ*; *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117) *vṛddhi*; *yasyeti ca* (Pā. Sū. 6-4-148) loss of *i*; *ñnityādir nityam* (Pā. Sū. 6-1-197) first *udātta*; genitive sg.); *paśupāḥ* (*paśūn pāti iti paśupāḥ*; root *pā rakṣaṇe*; *kvip*; *kṛdutarapada-prakṛtisvara*; stem in *ā*, masc.); *tmanā* (*ātman* → *tman*; *mantreṣv āṅyādeḥ…ātmanaḥ* (Pā. Sū. 6-4-141) loss of *a*); *enī* (*etat* + *ṅīp*; *varṇādanudāttāt toptho naḥ* (Pā. Sū. 4-1-39) *ṅīp*; *tatvanimittāt* [?] *takāra* → *nakāra*; loss of *a*; *ṅīp* is *pit* hence *anudātta*); *bṛhatī* (*bṛhanmaho…* *ṅīp* *udātta*); *abhiśriyā* (root *śriñ sevāyām*; *kvip*; lengthened root; *prādisamāsa* → *kṛdutarapada-prakṛtisvara*; instr. sg.); *vakvarī* (root *vaca paribhāṣaṇe*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) *kvanip*; *vano ra ca* (Pā. Sū. 4-1-7) *ṅīp* *ra*; *kutva* of the root's *c*; both affixes are *pit*; or the root *vaki kauṭilye*; *idito 'pi chandasi num* is not present); dual *ī* lengthening by *suṣām sulug*; *āśāte* (root *aśū vyāptau*; *chandasi luñlaṅliṭaḥ*; *laṭ* 3rd dual; *liṭ* …)
+
+---
+
+**Progress note:** Vol 11 — Sūkta 144 done through printed p. 355 (Ṛks 1–5 complete; Ṛk 6 complete except the end of its grammar note, which runs on to p. 356). Next: printed p. 356 (PDF 374), then Ṛk 7 (last of the sūkta). Images in /tmp/v11a (PDF 33–373; recrop 374+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya of Ṛks 4–6 only partly read, Bṛhaddevatā/Brāhmaṇa/Nirukta/Ṛg quotes in the Special Topics of pp. 345–346 and 354 marked [?], reference and sūtra numerals, Anukramaṇīs of 143–144; Ṛk 5 Pada word *vriśaḥ* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
