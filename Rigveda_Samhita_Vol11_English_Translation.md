@@ -10561,4 +10561,142 @@ In this Ṛk, *dhenū* is an adjective of heaven and earth. In the passage where
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 146 complete (printed pp. 380–403). Next: Sūkta 147 (5 Ṛks, Triṣṭubh), whose Anukramaṇī and heading fill printed p. 404 (PDF 422); Ṛk 1 starts on p. 405. Images in /tmp/v11a (PDF 33–422; recrop 423+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad quotes with [?] references; reference and sūtra numerals — grammar notes of pp. 402–403 kept to headwords; Anukramaṇīs of 143–146; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+## Sūkta 147
+
+### Printed p. 404 (continued; PDF 422)
+
+*(The Kannada heading reads "The 147th Sūkta"; page header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of five Ṛks beginning "Kathā te" is the seventh sūkta, of Dīrghatamas, Agni deity, in Triṣṭubh; "kathā" is the Anukramaṇī word; its use at the Prātaranuvāka and the Āśvina-śastra was stated by the sūtra "trimūrdhānam iti trīṇi".)*
+
+> कथा त इति पञ्चर्चं सप्तमं सूक्तं दैर्घतमसमाग्नेयं त्रैष्टुभम् । कथेत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरस्य सूक्तस्य विनियोगस्त्रिमूर्धानमिति त्रीणीत्यनेनोक्तः ॥
+
+> *kathā ta iti pañcarcaṃ saptamaṃ sūktaṃ dairghatamasamāgneyaṃ traiṣṭubham | kathetyanukramaṇikā ‖ prātaranuvākāśvinaśastrayorasya sūktasya viniyogastrimūrdhānamiti trīṇītyanenoktaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *kathā te* is the seventh sūkta in the twenty-first anuvāka. It has five Ṛks. The ṛṣi of this sūkta is Dīrghatamas Aucathya. Agni is the deity. The metre is Triṣṭubh. In the Anukramaṇī it is said to begin with *kathā*. As already said, the three sūktas beginning with the sūkta *trimūrdhānam* (Sūktas 146, 147 and 148) are used for the Prātaranuvāka and Āśvina-śastra mantra recitals.
+
+**॥ ओम् ॥**
+
+**Sūkta 147** — Maṇḍala 1, Anuvāka 21, Sūkta 147; Aṣṭaka 2, Adhyāya 2, Varga 28 [?]. Number of Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: Triṣṭubh.
+
+---
+
+### Printed p. 405  (PDF 423)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 28 [?].)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> कथा ते अग्ने शुचयन्त आयोर्ददाशुर्वाजेभिराशुषाणाः ।
+> उभे यत्तोके तनये दधाना ऋतस्य सामन्रणयन्त देवाः ॥ १ ॥
+
+> *kathā te agne śucayanta āyordadāśurvājebhirāśuṣāṇāḥ |*
+> *ubhe yattoke tanaye dadhānā ṛtasya sāmanraṇayanta devāḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> कथा । ते । अग्ने । शुचयन्तः । आयोः । ददाशुः । वाजेभिः । आशुषाणाः ।
+> उभे इति । यत् । तोके इति । तनये । दधानाः । ऋतस्य । सामन् । रणयन्त । देवाः ॥ १ ॥
+
+> *kathā | te | agne | śucayantaḥ | āyoḥ | dadāśuḥ | vājebhiḥ | āśuṣāṇāḥ |*
+> *ubhe iti | yat | toke iti | tanaye | dadhānāḥ | ṛtasya | sāman | raṇayanta | devāḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: how do your shining rays, quickly pervading, give food and life; so that the gods/worshippers, having both sons and grandsons, rejoice in the sacrificial chants?)*
+
+> हे अग्ने ते तव सम्बन्धिनो रश्मयः शुचयन्तो दीप्तिं सर्वत्र चेष्टमानाः [?] प्रकटयन्ते [?] आशुषाणाः आशु शीघ्रं सम्भक्तारः आशुसम्भक्तारो वा । वायुदेरपि [?] शीघ्रं सम्भक्तार इत्यर्थः । यद्वा । समन्ताद्व्याप्नुवन्तः [?] ... आयोः ... ददाशुः दाश्वांसः [?] ... कथा केन प्रकारेण ... देवाः ... *[small type; largely illegible; the grammatical tail is on the same page and is not read]*
+
+> *he agne te tava sambandhino raśmayaḥ śucayanto dīptiṃ sarvatra ceṣṭamānāḥ [?] prakaṭayante [?] āśuṣāṇāḥ āśu śīghraṃ sambhaktāraḥ āśusambhaktāro vā | vāyuderapi [?] śīghraṃ sambhaktāra ityarthaḥ | yadvā | samantādvyāpnuvantaḥ [?] ... āyoḥ ... dadāśuḥ dāśvāṃsaḥ [?] ... kathā kena prakāreṇa ... devāḥ ... *[small type; largely illegible; the grammatical tail is on the same page and is not read]**
+
+**Pratipadārtha (Kannada, begins).** *agne* — O Agni; *yat* — by the help of whose (your) helping rays; *ubhe* — both food and life; … (the page ends here; continues on p. 406).
+
+---
+
+### Printed p. 406  (PDF 424)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+*(Pratipadārtha continued.)* *dadhānāḥ* — having obtained; *devāḥ* — the devout sacrificers; *ṛtasya* — belonging to the sacrifice; *sāman* — in the *Rathantara* and other chants (by reciting the chants); *raṇayante* — they show joy; *te* — your; *śucayantaḥ* — spreading light (on all sides); *āśuṣāṇāḥ* — rays which quickly pervade (the wind and the rest) as in *aviya* [?]; *vājebhiḥ* — joined with food; *āyoḥ* — life; *kathā* — in what manner; *dadāśuḥ* — do they bestow? [the order and exact glossing of the opening words of this Pratipadārtha is partly unclear in the print as read]
+
+**Bhāvārtha.** O Agni, it is by the help of your rays — which spread light everywhere and pervade the wind and the rest quickly — that the sacrificers obtain food and life and cause these to be obtained also by their sons, grandsons and the rest; and, enjoying these good fortunes, they show their joy in the chants like the *Rathantara* and sing your praises. By what means do your rays thus bestow food and life? Tell us too these means.
+
+**English Translation (as printed).** How have your shining and evaporating (rays), Agni, supported life ( and supplied ) food ; so that, enjoying both, the devout (worshippers), possessing sons and grandsons, may repeat the hymns of the sacrifice.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***toke tanaye*** — *tuk*, *tokam*, *tanayaḥ* (Ni. 3-[?]): these are read among the names of offspring (Ni. 3-[?]); both words mean "son". But viewed by ordinary usage the two words have one sense, yet in practice they are taken as a pair, "sons and grandsons and the rest". The Nirukta author shows the difference between the two in the passage beginning *tokaṃ tuvyate*, *tanayaṃ tanoteḥ*, and the commentators explain it: *toka* is derived as "(the son) who is instructed — 'do this, do not do that' — [?]" (the father making a rule thereby and having him lead the family life [?]); and *tanaya* from *tan*, "to spread, extend", i.e. one who extends the family; so it is explained that *tanaya* means "grandson" (Ni. 10-[?]).
+
+***raṇayante*** — *ramayanti*, "they delight"; or *śabdayanti*, "they sound": the sense of delighting is given by the Sāyaṇa commentary, and also "making sound" (root *raṇ śabde*, "to sound"). The word is also used in the sense of *raṇa*, "battle": [continued on p. 407]
+
+---
+
+### Printed p. 407  (PDF 425)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 28 [?].)*
+
+… the word is also given as a synonym of "fighting" (*raṇa*, "battle"): since, when the gods fight together there is joy in the certainty of victory, this word suggests that the battle-ground too is delightful.
+
+> प्रति व एना नमसाहमेमि सूक्तेन भिक्षे सुमतिं तुराणाम् । रराणता मरुतो वेद्याभिर्नि हेळो धत्त वि मुचध्वमश्वान् ॥
+
+> *prati va enā namasāhamemi sūktena bhikṣe sumatiṃ turāṇām | rarāṇatā maruto vedyābhirni heḷo dhatta vi mucadhvamaśvān ‖*
+
+(Ṛ. Saṃ. 1-171-1.)
+
+> कृते चिदत्र मरुतो रणन्तानवद्यासः शुचयः पावकाः । प्र णोऽवत सुमतिभिर्यजत्राः प्र वाजेभिस्तिरते पुष्यसे नः ॥
+
+> *kṛte cidatra maruto raṇantānavadyāsaḥ śucayaḥ pāvakāḥ | pra ṇo 'vata sumatibhiryajatrāḥ pra vājebhistirate puṣyase naḥ ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?].) In such Ṛks this word is used to indicate *harṣaṇīya* ("what causes joy"). So in the Ṛk at hand too, it is meant that, as the Hotṛs and others, joined with the *Rathantara* and other chants, they make known the joy, "delighting" is the sense.
+
+***āśuṣāṇāḥ*** — *āśu śīghraṃ sambhaktāraḥ*; *vāyvāderapi śīghraṃ sambhaktāra ity arthaḥ*: "quickly associating; those who quickly associate even with the wind and the like": "swiftly joined with the wind and the rest, spreading as vapour (*aviya*) [?]" is the sense.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *kathā* (*kim* + *thāl*; *kimaḥ kaḥ* — *kim* → *ka* by *kimaḥ kaḥ* (Pā. Sū. 7-2-103); *thāl ca chandasi* (Pā. Sū. 5-3-26); because the *vibhakti* name applies to *prāgdiśo vibhaktiḥ*); *śucayantaḥ* (root *rucir prītau dīptau* [as printed]; *igupadhāt kit* (Uṇ. Sū. [?]) *in* suffix; no guṇa because *kit*; *śuciṃ karoti iti śucayati*; *tatkaroti tadācaṣṭe* [?], *ṇic*; loss of the *i* of *ṭi*; after *ṇijanta* the *laṭ* → *śatṛ*; the *ṇic* accent remains; nominative plural); *āyoḥ* (root *iṇ gatau*; *chandasīṇaḥ* (Uṇ. Sū. 2-[?]) *uṇ* suffix; *ājyād* [?] *vṛddhi*; *āyādeśa*; suffix accent: final *udātta*; *kartṛkarmaṇoḥ kṛti* (Pā. Sū. 2-3-65) genitive in the sense of the object); *dadāśuḥ* (root *dāśṛ dāne*; *chandasi luṅlaṅliṭaḥ* *liṭ*; *usādeśa*; doubling of the root; no *nighāta* because *pāda*-initial; suffix accent: final *udātta*); *vājebhiḥ* (*bahulaṃ chandasi*: *ais* optional; *bahuvacane jhaly et* (Pā. Sū. 7-3-103) *etva*).
+
+---
+
+### Printed p. 408  (PDF 426)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 147".)*
+
+*(Ṛk 1 grammar, continued, noted briefly.)* *āśuṣāṇāḥ* (root *aśū vyāptau*; *laṭ* → *kānac* by *liṭaḥ kānajvā* (Pā. Sū. 3-2-106); *vyatyayo bahulam*: *śnu* suffix; *sic*-less; the two *vikaraṇa*s; the root doubled; *jiteḥ* … final *udātta*; or from the root *aj* with prefix *āṅ*; the root *aśū* with *kānac* after *liṭ*; a root which is *antarbhāvitaṇyartha*; *uṇ* …; *ata upadhāyāḥ* (Pā. Sū. 7-2-116) *vṛddhi* of the penultimate); *tanaye* (root *tanu vistāre*; *valimalitanibhyaḥ kayan* [?] (Uṇ. Sū. 4-[?]) *kayan* suffix; *ñnityādir nityam* first *udātta*; locative sg.); *dadhānāḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the sense of *laṭ*; *ślau* doubling of the root; *abhyastānām ādiḥ* first *udātta*); *sāman* (*supāṃ sulug* (Pā. Sū. 7-1-39) *luk* of the locative ending; *na ṅisambuddhyoḥ* (Pā. Sū. 8-2-8) the *n* is not dropped); *raṇayante* (root *raṇa śabde*; *hetumati ca* *ṇic*; *laṭ* 3rd plural; *bahulaṃ chandasy māṅyoge 'pi* (Pā. Sū. 6-4-75) the *aṭ* augment does not occur; no *nighāta* because of *yat*; the *ṇic* accent remains). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> बोधा मे अस्य वचसो यविष्ठ मंहिष्ठस्य प्रभृतस्य स्वधावः ।
+> पीयति त्वो अनु त्वो गृणाति वन्दारुस्ते तन्वं वन्दे अग्ने ॥ २ ॥
+
+> *bodhā me asya vacaso yaviṣṭha maṃhiṣṭhasya prabhṛtasya svadhāvaḥ |*
+> *pīyati tvo anu tvo gṛṇāti vandāruste tanvaṃ vande agne ‖ 2 ‖*
+
+**॥ पदपाठः ॥** *(the Kannada heading over this Pada block is misprinted "Bhāvārtha" [sic])*
+
+> बोध । मे । अस्य । वचसः । यविष्ठ । मंहिष्ठस्य । प्रऽभृतस्य । स्वधाऽवः ।
+
+> *bodha | me | asya | vacasaḥ | yaviṣṭha | maṃhiṣṭhasya | pra 'bhṛtasya | svadhā 'vaḥ |*
+
+---
+
+### Printed p. 409  (PDF 427)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 28 [?].)*
+
+> पीयति । त्वः । अनु । त्वः । गृणाति । वन्दारुः । ते । तन्वम् । वन्दे । अग्ने ॥ २ ॥
+
+> *pīyati | tvaḥ | anu | tvaḥ | gṛṇāti | vandāruḥ | te | tanvam | vande | agne ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: O youngest Agni, accept my highly adorable praise; some revile you, some praise you; I, your worshipper, glorify your body.)*
+
+> हे यविष्ठ युवतम हे स्वधावो हविर्लक्षणान्नवन्नग्ने मे मदीयस्य मंहिष्ठस्य मंहतिशयेन पूजनीयस्य प्रभृतस्य प्रकर्षेण सम्पादितस्याद्येदानीं क्रियमाणस्य वचसः स्तुतिरूपस्य वचनस्य ॥ कर्मणि षष्ठी ॥ उक्तलक्षणं वचो बोध बुध्यस्व । स्तुतो भवेत्यर्थः । हे अग्ने लोके त्वः अत्र यास्कस्त्रयो [?] नेमे इत्यर्थः [?] (नि. ३-[?]) । एकोऽन्यो जनः पीयति हिंसति [?] ... यज्ञादिना त्वोऽनुगृणाति कश्चिदन्यः स्तौति [?] । वन्दारुः वन्दनशीलोऽहं ते तव तन्वं तनुं मूर्तिं वन्दे स्तौमि ॥ *[small type; several words doubtful]*
+
+> *he yaviṣṭha yuvatama he svadhāvo havirlakṣaṇānnavannagne me madīyasya maṃhiṣṭhasya maṃhatiśayena pūjanīyasya prabhṛtasya prakarṣeṇa sampāditasyādyedānīṃ kriyamāṇasya vacasaḥ stutirūpasya vacanasya ‖ karmaṇi ṣaṣṭhī ‖ uktalakṣaṇaṃ vaco bodha budhyasva | stuto bhavetyarthaḥ | he agne loke tvaḥ atra yāskastrayo [?] neme ityarthaḥ [?] (ni. 3-[?]) | eko 'nyo janaḥ pīyati hiṃsati [?] ... yajñādinā tvo 'nugṛṇāti kaścidanyaḥ stauti [?] | vandāruḥ vandanaśīlo 'haṃ te tava tanvaṃ tanuṃ mūrtiṃ vande staumi ‖ *[small type; several words doubtful]**
+
+**Pratipadārtha (Kannada).** *yaviṣṭha* — extremely young; *svadhāvaḥ* — having food in the form of oblation, O Agni; *me* — my; *maṃhiṣṭhasya* — extremely worshipful; *prabhṛtasya* — accomplished with great regard; *asya vacasaḥ* — this speech in the form of praise; *bodha* — understanding, accept (it; in the world); *tvaḥ* — some people; *pīyati* — (with the rites of sacrifice and the rest) revile you; *tvaḥ* — others; *anugṛṇāti* — (by performing the sacrifice and the rest) praise (you); *agne* — O Agni; *vandāruḥ* — I who worship you; *te* — your; *tanvam* — body, form; *vande* — praise.
+
+**Bhāvārtha.** O Agni, extremely youthful, having food in the form of oblations, accept this my praise, which is highly worshipful and made with great regard. In the world some revile you, and some praise you. But, O Agni, I, only worshipping you, praise your form.
+
+**English Translation (as printed).** Youthful (Agni), to whom oblations are due, appreciate this my reverential and earnest praise: one men [sic] reviles (you), another propitiates (you); I, your worshipper, glorify your person.
+
+---
+
+**Progress note:** Vol 11 — Sūkta 147 (5 Ṛks, Triṣṭubh) done through printed p. 409 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done; its Special Topics and grammar to come). Next: printed p. 410 (PDF 428). Images in /tmp/v11a (PDF 33–427; recrop 428+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Brāhmaṇa quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–147; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
