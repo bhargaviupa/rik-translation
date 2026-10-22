@@ -9322,4 +9322,152 @@ The latter half of this Ṛk admits two kinds of meaning, Sāyaṇa has explaine
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 144 done through printed p. 355 (Ṛks 1–5 complete; Ṛk 6 complete except the end of its grammar note, which runs on to p. 356). Next: printed p. 356 (PDF 374), then Ṛk 7 (last of the sūkta). Images in /tmp/v11a (PDF 33–373; recrop 374+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya of Ṛks 4–6 only partly read, Bṛhaddevatā/Brāhmaṇa/Nirukta/Ṛg quotes in the Special Topics of pp. 345–346 and 354 marked [?], reference and sūtra numerals, Anukramaṇīs of 143–144; Ṛk 5 Pada word *vriśaḥ* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 356  (PDF 374)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+*(Ṛk 6 grammar, end.)* … *ṭi* → *e*; the root doubled, etc. By the statement *āgamānuśāsanam anityam* [?] the augment *nuṭ* [?] does not occur. Because it follows a *tiṅanta*, *nighāta*-accent. ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अग्ने जुषस्व प्रति हर्य तद्वचो मन्द्र स्वधावन्नृतजात सुक्रतो ।
+> यो विश्वतः प्रत्यङ्ङसि दर्शतो रण्वः संदृष्टौ पितुमाँ इव क्षयः ॥ ७ ॥
+
+> *agne juṣasva prati harya tadvaco mandra svadhāvannṛtajāta sukrato |*
+> *yo viśvataḥ pratyaṅṅasi darśato raṇvaḥ saṃdṛṣṭau pitumā~ iva kṣayaḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> अग्ने । जुषस्व । प्रति । हर्य । तत् । वचः । मन्द्र । स्वधाऽवः । ऋतऽजात । सुऽक्रतो इति सुऽक्रतो ।
+> यः । विश्वतः । प्रत्यङ् । असि । दर्शतः । रण्वः । सम्ऽदृष्टौ । पितुमान्ऽइव । क्षयः ॥ ७ ॥
+
+> *agne | juṣasva | prati | harya | tat | vacaḥ | mandra | svadhā 'vaḥ | ṛta 'jāta | su 'krato iti su 'krato |*
+> *yaḥ | viśvataḥ | pratyaṅ | asi | darśataḥ | raṇvaḥ | sam 'dṛṣṭau | pitumān 'iva | kṣayaḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni, be pleased with the oblation and this hymn; you face everyone favourably, are lovely to see, delightful in sight, and a home like the owner of abundant food.)*
+
+> हे अग्ने जुषस्व सेवस्व हविः प्रीतो भव वा स्तुत्या । किञ्चेत्येतादृशं प्रियकरं वचो वाग्रूपं स्तोत्रं प्रति हर्य पुनः कामयस्व । हे मन्द्र मादनशील स्तुत्य वा हे स्वधावो [?] हविर्लक्षणान्नवन् हे ऋतजात यज्ञार्थमुत्पन्न हे सुक्रतो शोभनकर्मन् शोभनप्रज्ञ वा । य एवंविधस्त्वं विश्वतः सर्वस्य स्थावरजङ्गमस्य जगतः प्रत्यङ्ङसि अभिमुखोऽनुकूलोऽसि । न पराङ्मुख इत्यर्थः । तथा दर्शतो दर्शनीयः सर्वैः किञ्च संदृष्टौ सम्यग्दर्शने रण्वो रमणशीलो रमयिता वा भवसि सर्वस्य । यद्वा । तव संदृष्टौ सतां सर्वेषां जनानां क्षयो निवासस्थानं भवति । तत्र दृष्टान्तः । पितुमानिव अतिप्रभूतान्नस्वामी यथा सर्वैराश्रयणीयो [?] गन्तव्यश्च भवति तद्वत् ॥ *[small type; several words doubtful]*
+
+> *he agne juṣasva sevasva haviḥ prīto bhava vā stutyā | kiñcetyetādṛśaṃ priyakaraṃ vaco vāgrūpaṃ stotraṃ prati harya punaḥ kāmayasva | he mandra mādanaśīla stutya vā he svadhāvo [?] havirlakṣaṇānnavan he ṛtajāta yajñārthamutpanna he sukrato śobhanakarman śobhanaprajña vā | ya evaṃvidhastvaṃ viśvataḥ sarvasya sthāvarajaṅgamasya jagataḥ pratyaṅṅasi abhimukho 'nukūlo 'si | na parāṅmukha ityarthaḥ | tathā darśato darśanīyaḥ sarvaiḥ kiñca saṃdṛṣṭau samyagdarśane raṇvo ramaṇaśīlo ramayitā vā bhavasi sarvasya | yadvā | tava saṃdṛṣṭau satāṃ sarveṣāṃ janānāṃ kṣayo nivāsasthānaṃ bhavati | tatra dṛṣṭāntaḥ | pitumāniva atiprabhūtānnasvāmī yathā sarvairāśrayaṇīyo [?] gantavyaśca bhavati tadvat ‖ *[small type; several words doubtful]**
+
+---
+
+### Printed p. 357  (PDF 375)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 20 [?].)*
+
+**Pratipadārtha (Kannada).** *mandra* — gladdener or worshipful; *svadhāvaḥ* — having food in the form of oblation; *ṛtajāta* — born for the sacrifice; *sukrato* — of excellent action or of excellent understanding; *agne* — O Agni; *juṣasva* — partake of the oblation (or be pleased); (and) *tat* — that which is beneficial; *vacaḥ* — the praise in the form of speech; *pratiharya* — desire and accept; *yaḥ* — you who are such; *viśvataḥ* — to the whole world; *pratyaṅ asi* — you are favourable, facing it; *darśataḥ* — visible (to all); *saṃdṛṣṭau* — to behold well; *raṇvaḥ* — you are delightful; (and) *pitumān iva* — as the lord of abundant food is a refuge to all; *kṣayaḥ* — you are the dwelling-place.
+
+**Bhāvārtha.** O Agni, delighter of all, having food in the form of oblations, born for the sacrifice, of excellent action — partake of our oblation and accept our hymns. You are favourable to all the world, visible to all, delightful to behold; and like the lord of abundant food, you are the dwelling-place of all.
+
+**English Translation (as printed).** Agni, you confer happiness, you accept oblations, you were born for sacrifice, and are the performer of good works ; be pleased (with this rite), attend to this prayer : for you are in presence of all (the world), are visible (to all) are pleasant in their sight, and are their refuge, like a (bountiful) distributor of food.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***raṇvaḥ*** — *ramaṇaśīlaḥ ramayitā vā*: "one who delights, or who makes (others) delight"; the sense is "he who himself delights in oblations and the like, or who makes gods, men and others delight by his own form".
+
+***ṛtajāta*** — Agni is addressed as "born in the sacrifice" or "born for the sake of the sacrifice".
+
+***pratiharya*** — *kāmayasva*, "desire", i.e. "accept, desiring". The Nirukta author:
+
+> आ रुद्रास इन्द्रवन्तः सजोषसो हिरण्यरथाः सुविताय गन्तन । इयं वो अस्मत्प्रति हर्यते मतिस्तृष्णजे न दिव उत्सा उदन्यवे ॥
+
+> *ā rudrāsa indravantaḥ sajoṣaso hiraṇyarathāḥ suvitāya gantana | iyaṃ vo asmatprati haryate matistṛṣṇaje na diva utsā udanyave ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?].)
+
+---
+
+### Printed p. 358  (PDF 376)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+Citing this Ṛk, he explains *pratiharyate* as "desires, accepting" (Ni. [?]); the same meaning applies here.
+
+***mandra*** — *mādanaśīla stutya vā*: "gladdening or praiseworthy"; it is an adjective of Agni in the sense "giver of joy or worshipful". The Nirukta author:
+
+> देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति । सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥
+
+> *devīṃ vācamajanayanta devāstāṃ viśvarūpāḥ paśavo vadanti | sā no mandreṣamūrjaṃ duhānā dhenurvāgasmānupa suṣṭutaitu ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this Ṛk he explains *mandra* as *madana*, "joy-producing" (Ni. [?]); Sāyaṇa too, on this Ṛk, shows several senses of the word — *madayitrī*, "praiseworthy", *harṣayitrī* "delighting". The same word the Nirukta author has also listed among the names of food (*vāja*) (Ni. 2-[?]).
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly).** *juṣasva* (root *juṣī prītisevanayoḥ*; *loṭ* 2nd sg. ātmanepada; the final-*udātta* … ); with *agne* as a vocative preceding, the verb being *saṃbuddhi*-governed, *āmantritaṃ pūrvam avidyamānavat* (Pā. Sū. 8-1-72) makes it as if the vocative did not exist, so the *nighāta*-accent of the *tiṅanta* does not occur because it is *pāda*-initial [?]; *tāsyanudāttet…* (Pā. Sū. 6-1-186) the *lasārvadhātuka* is *anudātta*, so the *vikaraṇa* accent remains. *harya* (root *harya gatikāntyoḥ*; *loṭ* 2nd sg.; no *nighāta* after … ); *mandra* (root *madi stutimodamadasvapnakāntigatiṣu*; *sphāyitañcivañci…* (Uṇ. Sū. 2-[?]) *rak*; *idita*: *num*; vocative; no *nighāta* because *pāda*-initial; *āmantritasya ca* (Pā. Sū. 6-1-198) first *udātta*); *svadhāvaḥ* (*tadasyāsti*: *matup*; *mādupadhāyāś ca…* (Pā. Sū. 8-2-9) *va* for *ma*; *matuvasor ruḥ sambuddhau* (Pā. Sū. 8-3-1) *ru*; as the earlier word is a vocative that does not exist, first *udātta*); *ṛtajāta* (*ṛtāya yajñāya jātaḥ* — *ṛtajātaḥ*, *tatpuruṣa*; first-member accent).
+
+---
+
+### Printed p. 359  (PDF 377)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 20 [?].)*
+
+*(Ṛk 7 grammar, noted briefly.)* *sukrato* (*śobhanaḥ kratur yasya saḥ sukratuḥ*; *prasyasya guṇaḥ* [?]; vocative; *saṃbuddhi guṇa*, loss of the *su*; *āmantritasyādyudātta*); *viśvataḥ* (*pañcamyāḥ stasil* (Pā. Sū. 5-3-7) *tasil* in the ablative sense; *liti* (Pā. Sū. 6-1-193) [?] *udātta* before the suffix); *asi* (root *as bhuvi*; *laṭ* 2nd sg. *sip*; *tāsastyoḥ lopaḥ* (Pā. Sū. 7-4-50) loss of *s* of the root; as *yat* is connected, *nighāta* is prevented, hence the root accent remains); *darśataḥ* (root *dṛśir prekṣaṇe*; *bhṛmṛdṛśi…* (Uṇ. Sū. 3-110) *atac*; *guṇa* of *i* on account of it; *ajiṣṭe* [?]; final *udātta*); *raṇvaḥ* (root *ravi gatau*; *kvan* [?] in the sense of agent; *idito num dhātoḥ* *num*; *aṭkupvāṅnumvyavāye 'pi* (Pā. Sū. 8-4-2) *ṇatva*; final *udātta* from the suffix); *saṃdṛṣṭau* (root *dṛśir prekṣaṇe*; *striyāṃ ktin* [?]; *vraścabhrasja…* (Pā. Sū. 8-2-36) *ṣatva* of the root-ending; *tāḍau ca niti* … [?], *gati* (*sam*) keeps its natural accent). ‖ 7 ‖
+
+*Here the 144th Sūkta ends.*
+
+---
+
+## Sūkta 145
+
+### Printed p. 359 (continued; PDF 377)
+
+*(The Kannada heading reads "The 145th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of five Ṛks beginning "Taṃ pṛcchata" is the fifth [?] sūkta, of Dīrghatamas, in Jagatī, the last Ṛk in Triṣṭubh; Agni is the deity; its use is at the Prātaranuvāka and the Āśvina-śastra.)*
+
+> तं पृच्छतेति पञ्चर्चं पञ्चमं सूक्तम् । अत्रानुक्रमणिका । तं पृच्छत पञ्चान्त्या त्रिष्टुबिति । दीर्घतमा ऋषिः । पूर्वत्राग्नेयं [?] तु तदितिकृत्वादिमेऽप्याग्नेयम् [?] । अन्त्या त्रिष्टुप् शिष्टाः [?] जगत्यः [?] ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः ॥
+
+> *taṃ pṛcchateti pañcarcaṃ pañcamaṃ sūktam | atrānukramaṇikā | taṃ pṛcchata pañcāntyā triṣṭubiti | dīrghatamā ṛṣiḥ | pūrvatrāgneyaṃ [?] tu taditikṛtvādime 'pyāgneyam [?] | antyā triṣṭup śiṣṭāḥ [?] jagatyaḥ [?] ‖ prātaranuvākāśvinaśastrayorviniyoga uktaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *taṃ pṛcchata* is the fifth sūkta in the twenty-first anuvāka. It has five Ṛks. In the Anukramaṇī it is said *taṃ pṛcchata pañcāntyā triṣṭub*. The ṛṣi of this sūkta is Dīrghatamas. Agni is the deity. The last Ṛk is in Triṣṭubh metre; the remaining Ṛks are in Jagatī. This sūkta is used for the Prātaranuvāka and the Āśvina-śastra mantra recitals.
+
+---
+
+### Printed p. 360  (PDF 378)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+**॥ ओम् ॥**
+
+**Sūkta 145** — Maṇḍala 1, Anuvāka 21, Sūkta 145; Aṣṭaka 2, Adhyāya 2, Varga 21 [?]. Number of Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: 1–4 Jagatī, 5 Triṣṭubh [?].
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> तं पृच्छता स जगामा स वेद स चिकित्वाँ ईयते सो न्वीयते [?] ।
+> तस्मिन्त्सन्ति प्रशिषस्तस्मिन्निष्टयः स वाजस्य शवसः शुष्मिणस्पतिः ॥ १ ॥
+
+> *taṃ pṛcchatā sa jagāmā sa veda sa cikitvā~ īyate so nvīyate [?] |*
+> *tasmintsanti praśiṣastasminniṣṭayaḥ sa vājasya śavasaḥ śuṣmiṇaspatiḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । पृच्छत । सः । जगाम । सः । वेद । सः । चिकित्वान् । ईयते । सः । नु । ईयते ।
+> तस्मिन् । सन्ति । प्रऽशिषः । तस्मिन् । इष्टयः । सः । वाजस्य । शवसः । शुष्मिणः । पतिः ॥ १ ॥
+
+> *tam | pṛcchata | saḥ | jagāma | saḥ | veda | saḥ | cikitvān | īyate | saḥ | nu | īyate |*
+> *tasmin | santi | pra 'śiṣaḥ | tasmin | iṣṭayaḥ | saḥ | vājasya | śavasaḥ | śuṣmiṇaḥ | patiḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: sacrificers, ask Agni what you want; he goes everywhere, knows all, is resorted to; in him are the powers of command and the sacrifices; he is lord of food, strength and the mighty.)*
+
+> हे यजमानाः तमग्निं पृच्छत । यत्र ग्रादि [?] विषयं प्रष्टव्यमस्ति तत् तस्यैव प्रष्टव्यमित्यतिशयमाह । स जगाम सः सर्वत्र गच्छति । अत एव स वेद स च प्रष्टव्यं जानाति । स चिकित्वान् । कुमितेरसाधारणत्वेन नेतृत्वात्रः । स विशेषज्ञः इत्यर्थः । स ईयते । ज्ञेयैकाकाशं गच्छति । पुनर्गतिरेव विशेष्यते । सः सोऽग्निर्जज्ञे ... स नु क्षिप्रमीयते । यद्वा यजमानस्य ज्ञेयमस्ति तमर्थं ज्ञातुं शीघ्रमेव गच्छतीत्यर्थः । यद्वा ज्ञानार्थमीयते सेव्यते । तथा शीघ्रमनुसेव्यते । यस्माद्वेदमुक्तरूपः तस्मात्तमेव पृच्छतेत्यर्थः । कर्तव्यापेक्षितानां कामानां संनीतानाह । तस्मिन्नग्नौ प्रशिषः प्रशासनानि नियमनसामर्थ्यानि सन्ति । असाध्यं नियमितुमपि साधयितुं शक्त इत्यर्थः । किञ्च तस्मिन्नेवाग्नौ इष्टयः इष्टव्या भोगाः सर्वफलसाधकाः यागा वा सन्ति । किञ्च सोऽग्निर्वाजस्यान्नस्य शवसो बलस्य च पतिः पालयिता दाता । किञ्च शुष्मिणो बलवतो राजादेरपि पतिः स्वामी । यस्मादयं महानुभावस्तस्मात्त्रमेव पृष्ट्वा पुरुषार्थं साधयतेति ॥ *[small type; several words doubtful]*
+
+> *he yajamānāḥ tamagniṃ pṛcchata | yatra grādi [?] viṣayaṃ praṣṭavyamasti tat tasyaiva praṣṭavyamityatiśayamāha | sa jagāma saḥ sarvatra gacchati | ata eva sa veda sa ca praṣṭavyaṃ jānāti | sa cikitvān | kumiterasādhāraṇatvena netṛtvātraḥ | sa viśeṣajñaḥ ityarthaḥ | sa īyate | jñeyaikākāśaṃ gacchati | punargatireva viśeṣyate | saḥ so 'gnirjajñe ... sa nu kṣipramīyate | yadvā yajamānasya jñeyamasti tamarthaṃ jñātuṃ śīghrameva gacchatītyarthaḥ | yadvā jñānārthamīyate sevyate | tathā śīghramanusevyate | yasmādvedamuktarūpaḥ tasmāttameva pṛcchatetyarthaḥ | kartavyāpekṣitānāṃ kāmānāṃ saṃnītānāha | tasminnagnau praśiṣaḥ praśāsanāni niyamanasāmarthyāni santi | asādhyaṃ niyamitumapi sādhayituṃ śakta ityarthaḥ | kiñca tasminnevāgnau iṣṭayaḥ iṣṭavyā bhogāḥ sarvaphalasādhakāḥ yāgā vā santi | kiñca so 'gnirvājasyānnasya śavaso balasya ca patiḥ pālayitā dātā | kiñca śuṣmiṇo balavato rājāderapi patiḥ svāmī | yasmādayaṃ mahānubhāvastasmāttrameva pṛṣṭvā puruṣārthaṃ sādhayateti ‖ *[small type; several words doubtful]**
+
+---
+
+### Printed p. 361  (PDF 379)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 21 [?].)*
+
+**Pratipadārtha (Kannada).** *tam* — Agni; *pṛcchata* — (you) ask — all objects you want to know; *saḥ* — Agni; *jagāma* — he goes about in all regions; *saḥ* — he; *veda* — knows all; *saḥ* — he; *cikitvān* — is endowed with special understanding; *īyate* — goes to the neighbourhood of the object to be known; *saḥ* — he; *nu jāgṛtiḥ* [?] *yāgīya* [?] *īyate* — goes (towards the sacrificers); or (for the sake of knowledge) is resorted to; *tasmin* — in that Agni; *praśiṣaḥ* — the power of restraint also; *santi* — are; *tasmin* — in him; *iṣṭayaḥ* — all enjoyments or the sacrifices that give the fruit (are); *saḥ* — he; *vājasya* — of food; *śavasaḥ* — of strength; *patiḥ* — is the giver; *śuṣmiṇaḥ* — (of the king and others) he is the lord of the powerful, too.
+
+**Bhāvārtha.** Agni goes about in all regions and knows everything. He is endowed with special understanding, and goes to the neighbourhood of the object to be known, for the sake of the sacrificer. In him is the power of restraint. He is the treasure of all enjoyments. He is the giver of food and of strength, and the lord even of the powerful.
+
+**English Translation (as printed).** Ask (of Agni what you desire), for he goes (everywhere), he knows (all things): possessed of intelligence, he proceeds (to ascertain what is to be done), and is had recourse to (by his worshippers) ; for in him is the power of restraining (unreasonable desires), [in] him (is the power of granting) enjoyment ; he is the giver of food and of strength ; the protector of the mighty.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***praśiṣaḥ*** — this word is explained here as "the power of restraint, regulation (*niyamana*)"; it is said to be derived from the root *śās* in the sense of command. Further …
+
+---
+
+**Progress note:** Vol 11 — Sūkta 144 complete (printed pp. 330–359). Sūkta 145 (5 Ṛks) begun: printed pp. 359–361 done (Anukramaṇī, heading, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English; Special Topics of Ṛk 1 begun on p. 361). Next: printed p. 362 (PDF 380). Images in /tmp/v11a (PDF 33–379; recrop 380+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya partly read, Bṛhaddevatā/Brāhmaṇa/Nirukta/Ṛg quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–145, Varga numbers; Sūkta 145 Ṛk 1 Saṃhitā *so nvīyate* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
