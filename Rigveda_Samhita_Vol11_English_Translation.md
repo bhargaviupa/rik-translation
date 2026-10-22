@@ -9470,4 +9470,166 @@ Citing this Ṛk, he explains *pratiharyate* as "desires, accepting" (Ni. [?]); 
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 144 complete (printed pp. 330–359). Sūkta 145 (5 Ṛks) begun: printed pp. 359–361 done (Anukramaṇī, heading, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English; Special Topics of Ṛk 1 begun on p. 361). Next: printed p. 362 (PDF 380). Images in /tmp/v11a (PDF 33–379; recrop 380+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya partly read, Bṛhaddevatā/Brāhmaṇa/Nirukta/Ṛg quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–145, Varga numbers; Sūkta 145 Ṛk 1 Saṃhitā *so nvīyate* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 362  (PDF 380)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+*(Ṛk 1, Special Topics continued.)*
+
+> स सूर्येण रश्मिभिः परि व्यत तन्तुं तन्वानस्त्रिवृतं यथा विदे । नयन्नृतस्य प्रशिषो नवीयसीः पतिर्जनीनामुप याति निष्कृतम् ॥
+
+> *sa sūryeṇa raśmibhiḥ pari vyata tantuṃ tanvānastrivṛtaṃ yathā vide | nayannṛtasya praśiṣo navīyasīḥ patirjanīnāmupa yāti niṣkṛtam ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) In this Ṛk the word *praśiṣaḥ* is explained as *praśaṃsanā*, "praise" (the sense "approved praise" being intended), so the word here must be derived from the root *śaṃs*, "to praise".
+
+> [?] सप्त सिन्धवः प्रशिषं सोमं सिस्रते । तुभ्यं धावन्ति धेनवः ॥
+
+> *[?] sapta sindhavaḥ praśiṣaṃ somaṃ sisrate | tubhyaṃ dhāvanti dhenavaḥ ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) Here, where it is said that the seven rivers and the Soma follow the command (*ājñā*), *praśiṣaḥ* is *praśāsanam*, "command".
+
+> य आत्मदा बलदा यस्य विश्व उपासते प्रशिषं यस्य देवाः । यस्य छायाऽमृतं यस्य मृत्युः कस्मै देवाय हविषा विधेम ॥
+
+> *ya ātmadā baladā yasya viśva upāsate praśiṣaṃ yasya devāḥ | yasya chāyā 'mṛtaṃ yasya mṛtyuḥ kasmai devāya haviṣā vidhema ‖*
+
+(Ṛ. Saṃ. 10-121-2.) Here too *praśiṣam* means *prakṛṣṭaṃ śāsanam*, "excellent command", the command of Prajāpati, he being the best of the gods. In the Ṛk at hand also the sense is "regulation" (*niyamana*), i.e. the power of regulation of Agni.
+
+***iṣṭayaḥ*** — *iṣṭavyā bhogāḥ sarvaphalasādhakā yāgā vā*: "desired enjoyments, or sacrifices that accomplish all fruits"; Sāyaṇa explains: "enjoyments desired, or sacrifices that give all fruits". The word *iṣṭi*, though it occurs among the names of sacrifice (Ni. 3-[?]), in contexts like this it is derived from the root *iṣ*, or from *yaj*; there is discussion on this among some scholars (Oldenberg, Z. D. M. G. XXXII [?] 473). Its use in the *Ṛk-saṃhitā* in the senses of the two roots can be seen:
+
+> नित्ये चिन्नु यं सदने जगृभ्रे प्रशस्तिभिर्दधिरे यज्ञियासः । प्र सू नयन्त गृभयन्त इष्टावश्वासो न रथ्यो राराहाणाः ॥
+
+> *nitye cinnu yaṃ sadane jagṛbhre praśastibhirdadhire yajñiyāsaḥ | pra sū nayanta gṛbhayanta iṣṭāvaśvāso na rathyo rārāhāṇāḥ ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) Here *iṣṭau* "in the sacrifice, which brings about the desired objects"; and in
+
+> न यस्य सातुर्जनितोरवारि न मातरापितरा नू चिदिष्टौ । अधा मित्रो न सुधितः पावकोऽग्निर्दीदाय मानुषीषु विक्षु ॥
+
+> *na yasya sāturjanitoravāri na mātarāpitarā nū cidiṣṭau | adhā mitro na sudhitaḥ pāvako 'gnirdīdāya mānuṣīṣu vikṣu ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].)
+
+---
+
+### Printed p. 363  (PDF 381)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 21 [?].)*
+
+here *yasya iṣṭau preṣaṇe* ("in whose sacrifice, in sending") — since the sense "sacrifice" is given, the root *iṣ* is the source here.
+
+> यः सरूपा विरूपा एकरूपा यासामग्निरिष्ट्या नामानि वेद । या अङ्गिरसस्तपसेह चक्रुस्तेभ्यः परि [?] सर्जम [?] महि शर्म यच्छ ॥
+
+> *yaḥ sarūpā virūpā ekarūpā yāsāmagniriṣṭyā nāmāni veda | yā aṅgirasastapaseha cakrustebhyaḥ pari [?] sarjama [?] mahi śarma yaccha ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) In these and other Ṛks, the word is shown to be derived from the root *yaj* in the sense "sacrifice". In the Ṛk at hand both meanings, "enjoyments" and "sacrifices", are given; so no derivation need be insisted on.
+
+***cikitvān*** — *cetanāvān*: "possessing understanding, intelligent".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *pṛcchata* (root *pracchaṃ jñīpsāyām*; *loṭ* 2nd plural; because after a *tiṅanta*… *nighāta*-accent); *jagāma* (root *gamḷ gatau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *liṭ* in the present sense; 3rd sg.; *tiṅ*-*nighāta*); *veda* (root *vida jñāne*; *laṭ* 3rd sg.; *vido laṭo vā* (Pā. Sū. 3-4-83) *ṇal*-substitution; *pugantalaghūpadhasya ca* guṇa of the root; *nighāta*); *cikitvān* (root *kita jñāne*; by *chandasi* *liṭ*; *kvasu*; *kvasuś ca* (Pā. Sū. 3-2-107); nominative sg.; *vasu*-accent); *īyate* (root *īṅ gatau*, *divādi*; *laṭ* 3rd sg.; *nighāta*); *praśiṣaḥ* (root *śāsu anuśiṣṭau*; *kvip ca* (Pā. Sū. 3-2-76) *kvip*; *śāsa idaṅhaloḥ* (Pā. Sū. 6-4-34) *i*; *śāsivasighasīnāṃ ca* (Pā. Sū. 8-3-60) *ṣa*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) *kṛt*-accent of the later member of the compound); *iṣṭayaḥ* (root *iṣu icchāyām*; *ktin*; accent from the suffix; *ṭakāra* of *kta* → *mantre vṛṣeṣa…* (Pā. Sū. 3-3-96) *ktin* udātta). ‖ 1 ‖
+
+---
+
+### Printed p. 364  (PDF 382)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> तमित्पृच्छन्ति न सिमो वि पृच्छति स्वेनेव धीरो मनसा यदग्रभीत् ।
+> न मृष्यते प्रथमं नापरं वचोऽस्य क्रत्वा सचते अप्रदृपितः ॥ २ ॥
+
+> *tamitpṛcchanti na simo vi pṛcchati sveneva dhīro manasā yadagrabhīt |*
+> *na mṛṣyate prathamaṃ nāparaṃ vaco 'sya kratvā sacate apradṛpitaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । इत् । पृच्छन्ति । न । सिमः । वि । पृच्छति । स्वेनऽइव । धीरः । मनसा । यत् ।
+> अग्रभीत् । न । मृष्यते । प्रथमम् । न । अपरम् । वचः । अस्य । क्रत्वा । सचते । अप्रऽदृपितः ॥ २ ॥
+
+> *tam | it | pṛcchanti | na | simaḥ | vi | pṛcchati | svena 'iva | dhīraḥ | manasā | yat |*
+> *agrabhīt | na | mṛṣyate | prathamam | na | aparam | vacaḥ | asya | kratvā | sacate | apra 'dṛpitaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: all ask Agni and none asks him wrongly; the wise one speaks what he has determined in his own mind; he brooks neither a speech before his nor an answer after it; the unarrogant is joined to his protective acts.)*
+
+> पूर्वमन्त्रेऽग्निं पृच्छतेत्युक्तम् । अत्र तु सोऽनुनयेन [?] प्रष्टव्य इत्याह । तमित्तमेवाग्निं पृच्छन्ति सर्वे नान्यं [?] पृच्छन्ति प्रश्नसमये [?] । सिमः सर्वजनो न वि पृच्छति विशेषेण न पृच्छति । पृष्टोऽपि धीरो धीमानयं स्वेनेव मनसा यदग्रभीत् यदग्रहीत् [?] ... तदेवाग्निं पृच्छति न तु बहु भाषते इत्यर्थः । परवाक्यासहिष्णुत्वमाह । अयमग्निः प्रथमं वचः स्ववाक्यात् पूर्वभावि वचनं न मृष्यते न सहते । तथा अपरं वचः स्ववाक्यानन्तरभावि प्रतिवचनं न मृष्यते । यस्मादयमेवंविधस्तस्मादप्रदृपितः [?] अप्रदृप्तः यद्वा केन शिक्षितो ऽनुद्धतः सर्वो लोकोऽस्य महानुभावस्याग्नेः क्रत्वा क्रतुना रक्षणादिकर्मणा सह सचते संगच्छते [?] जीवतीत्यर्थः ॥ *[small type; several words doubtful]*
+
+> *pūrvamantre 'gniṃ pṛcchatetyuktam | atra tu so 'nunayena [?] praṣṭavya ityāha | tamittamevāgniṃ pṛcchanti sarve nānyaṃ [?] pṛcchanti praśnasamaye [?] | simaḥ sarvajano na vi pṛcchati viśeṣeṇa na pṛcchati | pṛṣṭo 'pi dhīro dhīmānayaṃ sveneva manasā yadagrabhīt yadagrahīt [?] ... tadevāgniṃ pṛcchati na tu bahu bhāṣate ityarthaḥ | paravākyāsahiṣṇutvamāha | ayamagniḥ prathamaṃ vacaḥ svavākyāt pūrvabhāvi vacanaṃ na mṛṣyate na sahate | tathā aparaṃ vacaḥ svavākyānantarabhāvi prativacanaṃ na mṛṣyate | yasmādayamevaṃvidhastasmādapradṛpitaḥ [?] apradṛptaḥ yadvā kena śikṣito 'nuddhataḥ sarvo loko 'sya mahānubhāvasyāgneḥ kratvā kratunā rakṣaṇādikarmaṇā saha sacate saṃgacchate [?] jīvatītyarthaḥ ‖ *[small type; several words doubtful]**
+
+**Pratipadārtha (Kannada).** *tam it* — that very Agni; *pṛcchanti* — (all) ask (what they wish to know); *simaḥ* — all people (anyone at all); *na vi pṛcchati* — does not ask even an improper question; *dhīraḥ* — the intelligent Agni; *svena iva manasā* — by his own understanding; *yat* — whatever matter; *agrabhīt* — he has determined (to say), that alone he tells; [or *dhīraḥ* — the intelligent petitioner; *svena iva manasā* — by his own understanding; *yat* — (the question fit to be asked) which; *agrabhīt* — he has considered and determined — that question alone he asks;]
+
+---
+
+### Printed p. 365  (PDF 383)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 22 [?].)*
+
+*(Pratipadārtha continued.)* (this Agni) *prathamaṃ vacaḥ* — a word preceding his own; *na mṛṣyate* — does not tolerate; *aparam* — a reply coming after his own word; *na* — does not tolerate; *apradṛpitaḥ* — one devoid of arrogance (alone), or one disciplined by him (alone); *asya* — of this Agni; *kratvā* — by the acts of protection and the like; *sacate* — is joined (is protected).
+
+**Bhāvārtha.** All ask this Agni for what they want to know; no one asks an improper question. Agni, the wise, tells only what he has determined in his own mind. He does not tolerate a word that precedes his own, nor a reply that comes after; only one devoid of arrogance becomes fit for his protection.
+
+**English Translation (as printed).** They ask of Agni, but no one asks improperly; for a sensible man (replies to solicitation) as he has determined in his own mind; Agni tolerates not a speech that anticipates (his reply), nor endures a rejoinder: he who is devoid of arrogance is favoured by his protection.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***simaḥ*** — "all people": the word *sima* is explained as "all". It has the sense *śreṣṭha* ("excellent") in many places:
+
+> यदिन्द्र प्रागपागुदङ्न्यग्वा हूयसे नृभिः । सिमा पुरू नृषूतो अस्यानवेऽसि प्रशर्ध तुर्वशे ॥
+
+> *yadindra prāgapāgudaṅnyagvā hūyase nṛbhiḥ | simā purū nṛṣūto asyānave 'si praśardha turvaśe ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this Ṛk Sāyaṇa explains this word's meaning: *sima iti vai śreṣṭhanāmā ucyate* ("*sima* is said to be a name of the excellent") — citing the views of other commentators, he explains "O Indra, the excellent (*śreṣṭha*)".
+
+---
+
+### Printed p. 366  (PDF 384)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+> तेभ्यो गोधा आयुधं कर्षदेतद्ये ब्रह्मणः प्रतिपीयन्ति [?] अन्नैः । सिमु [?] ऋष्वो वस्पृप्पा [?] अदेन्तु [?] स्वयं बलानि तन्वः शृणानाः ॥
+
+> *tebhyo godhā āyudhaṃ karṣadetadye brahmaṇaḥ pratipīyanti [?] annaiḥ | simu [?] ṛṣvo vaspṛppā [?] adentu [?] svayaṃ balāni tanvaḥ śṛṇānāḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) In this Ṛk *sima* — *simāṃ śreyān*, "the more excellent"; or *simaśabdaḥ sarvaśabdaparyāyaḥ*, "the word *sima* is synonymous with *sarva*" (Sāyaṇa), "all": he gives both meanings, *śreṣṭha* and *sarva*. In the Ṛk at hand the meaning *sarva* fits; thus "*simo na vi pṛcchati*" — "no one asks an improper question", is the sense.
+
+*svenevadhīro manasā yadagrabhīt* — this sentence admits two kinds of meaning. First, taking *dhīraḥ* as an adjective of Agni: the wise Agni says only what he must say, according to his wisdom. Second, taking *dhīraḥ* as an adjective of the petitioner (*prārthī*): the petitioner asks only the proper question.
+
+***dhīraḥ*** — *dhīmantaḥ prajñāvanto vā*: "the intelligent, or those possessed of understanding"; the many senses of the word *dhīra* have been explained before.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *pṛcchanti* (root *pracchaṃ jñīpsāyām*, *tudādi*; *laṭ* 3rd plural *jhi* → *anta*; *śa* (*ś*) *vikaraṇa* by *tudādibhyaḥ śaḥ*; *grahijyāvayi…* (Pā. Sū. 6-1-16) *saṃprasāraṇa* of the root; *nighāta*); *dhīraḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *susūdhāgṛdhibhyaḥ kran* (Uṇ. Sū. 2-[?]) *kran*; because *kit*, *ghumāsthāgā…* (Pā. Sū. 6-4-66) *īt*; first *udātta*); *agrabhīt* (root *graha upādāne*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *luṅ* in present sense; *tip*; *itaś ca* loss of *i*; *cli* → *sic*; *ārdhadhātukasyeḍvalādeḥ* (Pā. Sū. 7-2-35) *iṭ*; *asti-sico 'pṛkte* (Pā. Sū. 7-3-96) *īṭ*; *iṭa īṭi* (Pā. Sū. 8-2-28) loss of *sic*; *hmantakṣaṇa…* (Pā. Sū. 7-2-5) prohibition of *vṛddhi* since *nighāta*…; *aṭ* augment; *hṛgraholbhaś chandasi* *bha* for *ha* of the root; since *yat* is connected, *nighāta* is prohibited; *aṭ* being *udātta*, first-*udātta*); *mṛṣyate* (root *mṛṣa titikṣāyām*, *divādi*; *laṭ* 3rd sg.; *nighāta*).
+
+---
+
+### Printed p. 367  (PDF 385)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 22 [?].)*
+
+*(Ṛk 2 grammar, noted briefly.)* *prathamam* (root *pratha prakhyāne*; *prather amac* [?] (Uṇ. Sū. 5-[?]) *amuc* [?] suffix; *cit*: final *udātta* (Pā. Sū. 6-1-163)); *vacaḥ* (root *vaca bhāṣaṇe*; *sarvadhātubhya asun* — *asun* suffix; *nit*: first *udātta*); *kratvā* (*kratuśabda*; *sup* of the instr. sg.: *supāṃ sulug* … by *chandasi vā vacanam* (Pā. Sū. 7-1-39 [?]) *ā*-substitution; lengthening of *ā*); *sacate* (root *saca samavāye*; *laṭ* 3rd sg.; *nighāta*); *apradṛpitaḥ* (root *dṛpa utkleśe*; *tudādi*; *niṣṭhā*: *kta*; *iṭ*; *prakarṣeṇa dṛpitaḥ pradṛpitaḥ*, then negative compound *nañ-tatpuruṣa*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) the later member's first *udātta*). ‖ 2 ‖
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तमिद्गच्छन्ति जुह्वस्तमर्वतीर्विश्वान्येकः शृणवद्वचांसि मे ।
+> पुरुप्रैषस्तुरिर्यज्ञसाधनोऽच्छिद्रोतिः शिशुरादत्त सं रभः ॥ ३ ॥
+
+> *tamidgacchanti juhvastamarvatīrviśvānyekaḥ śṛṇavadvacāṃsi me |*
+> *purupraiṣasturiryajñasādhano 'cchidrotiḥ śiśurādatta saṃ rabhaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । इत् । गच्छन्ति । जुह्वः । तम् । अर्वतीः । विश्वानि । एकः । शृणवत् । वचांसि । मे ।
+> पुरुऽप्रैषः । तुरिः । यज्ञऽसाधनः । अच्छिद्रऽऊतिः । शिशुः । आ । अदत्त [?] । सम् । रभः ॥ ३ ॥
+
+> *tam | it | gacchanti | juhvaḥ | tam | arvatīḥ | viśvāni | ekaḥ | śṛṇavat | vacāṃsi | me |*
+> *puru 'praiṣaḥ | turiḥ | yajña 'sādhanaḥ | acchidra 'ūtiḥ | śiśuḥ | ā | adatta [?] | sam | rabhaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(begins; continues p. 368)*
+
+> जुह्वः [?] यजमानसम्बन्धिन्यः [?] सर्वा अपि [?] गच्छन्ति प्रीणयितुम् । यद्वा हूयन्ते इति जुह्वः आहुतयः सोमादिरूपाः । अथवा जुहूसंज्ञिताः [?] स्थितान्याज्य [?] ... *[small type, largely illegible; the bhāṣya continues on the next page]*
+
+> *juhvaḥ [?] yajamānasambandhinyaḥ [?] sarvā api [?] gacchanti prīṇayitum | yadvā hūyante iti juhvaḥ āhutayaḥ somādirūpāḥ | athavā juhūsaṃjñitāḥ [?] sthitānyājya [?] ... *[small type, largely illegible; the bhāṣya continues on the next page]**
+
+---
+
+**Progress note:** Vol 11 — Sūkta 145 done through printed p. 367 (Ṛks 1–2 complete; Ṛk 3 Saṃhitā/Pada and the start of its bhāṣya, which continues on p. 368). Next: printed p. 368 (PDF 386). Images in /tmp/v11a (PDF 33–385; recrop 386+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya partly read, Ṛg/Nirukta/Brāhmaṇa quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–145, Varga numbers; Sūkta 145 Ṛk 3 Pada *acchidrotiḥ*/*adatta* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
