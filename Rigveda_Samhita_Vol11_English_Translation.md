@@ -9032,4 +9032,158 @@ Citing this Ṛk, he explains *apām upasthe* as *mahat antarikṣaloke āsīnā
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 144 done through printed p. 343 (Ṛks 1–3 complete). Next: printed p. 344 (PDF 362), Ṛk 4. Images in /tmp/v11a (PDF 33–380; recrop 381+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya, Bṛhaddevatā/Brāhmaṇa quotes, reference and sūtra numerals, Anukramaṇīs of 143–144). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 344  (PDF 362)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> यमीं द्वा सवयसा सपर्यतः समाने योना मिथुना समोकसा ।
+> दिवा न नक्तं पलितो युवाजनि पुरू चरन्नजरो मानुषा युगा ॥ ४ ॥
+
+> *yamīṃ dvā savayasā saparyataḥ samāne yonā mithunā samokasā |*
+> *divā na naktaṃ palito yuvājani purū carannajaro mānuṣā yugā ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> यम् । ईम् । द्वा । सवयसा । सपर्यतः । समाने । योना । मिथुना । सम्ऽओकसा ।
+> दिवा । न । नक्तम् । पलितः । युवा । अजनि । पुरु । चरन् । अजरः । मानुषा । युगा ॥ ४ ॥
+
+> *yam | īm | dvā | savayasā | saparyataḥ | samāne | yonā | mithunā | sam 'okasā |*
+> *divā | na | naktam | palitaḥ | yuvā | ajani | puru | caran | ajaraḥ | mānuṣā | yugā ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Hotṛ and Adhvaryu, like a couple of equal age living together, worship Agni day and night; though "grey" as embers he is born young after kindling, and unageing he consumes much ghee.)*
+
+> यमीमेनमग्निं द्वा द्वौ सवयसा समानवयस्कौ समानसामर्थ्यौ वा समाने योना योनौ फलस्योत्पत्तिस्थाने यज्ञे वर्तमानौ मिथुना मिथुनौ दम्पती इव ऐककार्योद्युक्तौ [?] समोकसा समानवासौ देवयजनस्थानौ [?] होत्रध्वर्यू सपर्यतः पूजयतः स्तुत्या हविष्प्रदानेन च प्रीणयतः । कदेत्याह । दिवा नाहनीव नक्तं रात्रावपि । सर्वदेत्यर्थः । एवं पूज्यमानोऽग्निः पलितः पूर्वमङ्गारावस्थायां जीर्णोऽपि समिन्धनानन्तरं युवा तरुणतेजसा सर्वस्य मिश्रयिता वा [?] अजनि । जायते । मानुषा युगा मनुष्यसम्बन्धीनि [?] युगानि जायापतिरूपाणि होत्रध्वर्युरूपाणि वा प्रीत्यै [?] पुरू बहून्याज्यादीनि चरन् भक्षयन् अजरोऽजीर्णो जराहितो वर्तते ॥ *[small type; several words doubtful]*
+
+> *yamīmenamagniṃ dvā dvau savayasā samānavayaskau samānasāmarthyau vā samāne yonā yonau phalasyotpattisthāne yajñe vartamānau mithunā mithunau dampatī iva aikakāryodyuktau [?] samokasā samānavāsau devayajanasthānau [?] hotradhvaryū saparyataḥ pūjayataḥ stutyā haviṣpradānena ca prīṇayataḥ | kadetyāha | divā nāhanīva naktaṃ rātrāvapi | sarvadetyarthaḥ | evaṃ pūjyamāno 'gniḥ palitaḥ pūrvamaṅgārāvasthāyāṃ jīrṇo 'pi samindhanānantaraṃ yuvā taruṇatejasā sarvasya miśrayitā vā [?] ajani | jāyate | mānuṣā yugā manuṣyasambandhīni [?] yugāni jāyāpatirūpāṇi hotradhvaryurūpāṇi vā prītyai [?] purū bahūnyājyādīni caran bhakṣayan ajaro 'jīrṇo jarāhito vartate ‖ *[small type; several words doubtful]**
+
+**Pratipadārtha (Kannada, p. 344 end – p. 345).** *savayasā* — of the same age or the same capacity; *samāne yonā* — staying in the sacrificial place that gives the same fruit; *mithunā* — joined together, performing (the one rite); *samokasā* — having the same dwelling; *dvā* — the two, Hotṛ and Adhvaryu (like a couple); *yam īm* — which (Agni); *divā na naktam* — at night as by day; *saparyataḥ* — worship with oblations and the like; *palitaḥ* — (in the first, ember stage) aged; *yuvā* — (after the fuel is fed) young; *ajani* — is born; (and) *mānuṣā yugā* — for the human couples or Hotṛ-Adhvaryus; *puru* — abundant ghee and the like; *caran* — eating; *ajaraḥ* — free of age (he grows).
+
+---
+
+### Printed p. 345  (PDF 363)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 18 [?].)*
+
+**Bhāvārtha.** Hotṛ and Adhvaryu, of the same age and capacity, staying in the sacrificial place that gives the same fruit, performing one rite together, with the same dwelling like a married couple, worship this Agni by day and night. He, in the beginning aged by his ember stage, becomes young after the fuel is fed; and for the human couples or the Hotṛ-Adhvaryus he is born as one who eats much ghee and the like, ageless.
+
+**English Translation (as printed).** He, whom the two, a pair of equal power, dwelling in the same place, and engaged in the same ceremony, worship night and day: he, whether old or young, has been engendered for the sake of mortal couples, accepting many (oblation), and exempt from decay.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***yonā*** — the word *yoni* is read among the names of water (Ni. 1-[?]) and of houses (Ni. 3-[?]); here it means the sacrificial place, *phalasyotpattisthāne yajñe* ("in the sacrifice, the place where the fruit arises"); the fruit's place of origin is also called a *yoni*; Sāyaṇa explains it thus. Another Brāhmaṇa passage:
+
+> जनिष्ठा उग्रः सहसे तुरायेति सूक्तं शंसति तद्वै [?] यजमानजननमेव सूक्तं यजमानं ह वा एतेन यज्ञो [?] देवलोकस्यै [?] प्रजनयति ।
+
+> *janiṣṭhā ugraḥ sahase turāyeti sūktaṃ śaṃsati tadvai [?] yajamānajananameva sūktaṃ yajamānaṃ ha vā etena yajño [?] devalokasyai [?] prajanayati |*
+
+(Ai. Brā. 3-[?].) Sāyaṇa explains this: "*yajamānaṃ prajanayati*; *tasmād yajamānajananam*", i.e. the sacrificer is born by it for the sake of the divine world (*devalokasthānārtham*): the sacrifice's performer is accomplished in the place of the gods, and so the sacrificial place is a *yoni*. The text goes on to say that, from this, *yajña* is the birth-place of the fruit; other meanings of this word are also seen. The Nirukta author:
+
+> योनिरन्तरिक्षं महानयवयुः [?] परिश्रितो वायुना । आयमयीतसो [?] योनिः रेतस्माद्योनिः परियुतो भवति [?] ॥
+
+> *yonirantarikṣaṃ mahānayavayuḥ [?] pariśrito vāyunā | āyamayītaso [?] yoniḥ retasmādyoniḥ pariyuto bhavati [?] ‖*
+
+(Ni. 3-[?].) "Because *antarikṣa* is great, with its parts pervaded by the wind, it is called *yoni*"; for the production of offspring a *yoni* is also said to be an etymological cause of the word — so they say.
+
+---
+
+### Printed p. 346  (PDF 364)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+In the Ṛk-saṃhitā:
+
+> ऋतस्य देवा अनु व्रता गुर्भुवत्पतिर्द्यौर्न [?] भूम [?] । वर्धन्तीमापः पन्नी [?] सुशिश्विमृतस्य योना गर्भे सुजातम् ॥
+
+> *ṛtasya devā anu vratā gurbhuvatpatirdyaurna [?] bhūma [?] | vardhantīmāpaḥ pannī [?] suśiśvimṛtasya yonā garbhe sujātam ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk, *ṛtasya yonā* is read, where *yoni* is the name of water: *ṛtasya* — of the sacrifice or of food, because water is the cause of both, water is called *yoni*. And:
+
+> देवं वो देवयज्याग्निमीळीत मर्त्यः । समिद्धः शुक्र दीदिह्यृतस्य योनिमासदः सस्य योनिमासदः ॥
+
+> *devaṃ vo devayajyāgnimīḷīta martyaḥ | samiddhaḥ śukra dīdihyṛtasya yonimāsadaḥ sasya yonimāsadaḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In this Ṛk *yoni* is "cause, source" (*kāraṇam*), and in:
+
+> दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । चित्रो यदभ्राट्छ्वेतो न विक्षु रथो न रुक्मी त्वेषः समत्सु ॥
+
+> *durokaśociḥ kraturna nityo jāyeva yonāvaraṃ viśvasmai | citro yadabhrāṭchveto na vikṣu ratho na rukmī tveṣaḥ samatsu ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) *yoni* is "house" (*gṛham*), as in the other Ṛks quoted; and in the Ṛk in question, too, it means the sacrificial place (*yajñasthānam*). Hotṛ and Adhvaryu both have the same place; hence *samāne yonā*.
+
+***samokasā*** — *samānanivāsau devayajanasthānau*: "the two having a common dwelling, the sacrificial place of the gods". *Hotṛ and Adhvaryu — oka iti nivāsanāma* (Ni. 3-[?]) "*oka* is a name for dwelling". But this word is not used for all dwelling-places. To show that a man has attachment (*abhimāna*) to his own house, the Nirukta author gives the example:
+
+> नहि ग्रभायारणः सुशेवो अन्योदर्यो मनसा मन्तवा उ । अधा चिदोकः पुनरित्स एत्यानो वाज्यभीषाळेतु नव्यः ॥
+
+> *nahi grabhāyāraṇaḥ suśevo anyodaryo manasā mantavā u | adhā cidokaḥ punaritsa etyāno vājyabhīṣāḷetu navyaḥ ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) citing it, and *atha sa okaḥ punar eva tad eti yata āgato bhavati* (Ni. 3-[?]): "he returns to the home from which he came"; accepted, since a son goes to his own house as it is where he has attachment. As in all sacrifices the fruit arises there and in the sacrificial place, and attachment is the same there, the word *oka* is used here with *sa* (*samokasā*).
+
+---
+
+### Printed p. 347  (PDF 365)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 18 [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *dvā* (*supāṃ sulug…* (Pā. Sū. 7-1-39): ending → *ākāra*); *saparyataḥ* (root *sapara pūjāyām*, *kaṇḍvādi*; *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-27); *lat*, 3rd person dual; no *nighāta* since *yat*-related; the *yak* accent remains); *yonā* (root *yu miśraṇe*; *vahiśrīṣūyuḍru…* (Uṇ. Sū. 4-[?]) *ni* suffix; guṇa of the root; *nitya*; first-syllable *udātta*; *supāṃ sulug*); *mithunā* (root *mitha*, a *paurāṇika* [?] root; *pṛṣatsimithibhyāṃ kit* [?] (Uṇ. Sū. 3-[?]) *unan*; no guṇa since *kit*; final *udātta* from *y*-suffix; as before ending → *ā*); *samokasā* (*samānam okaḥ* — *yayos tau*, bahuvrīhi; *prakṛtyā pūrvapadam*; ending → *ā* as before); *palitaḥ* (*loṣṭapalita…* (Uṇ. Sū. 3-[?]) *nipātita*; suffix accent → final *udātta*); *yuvā* (root *yu miśraṇe*; *kanin yuvṛṣi…* (Uṇ. Sū. 1-[?]) *kanin*; *nit* → first *udātta*); *ajani* (root *jani prādurbhāve*; *luṅ*, 3rd sg., *dīpajanabudh…* (Pā. Sū. 3-1-61) *ci* → *ciṇ*; *ciṇo luk* (Pā. Sū. 6-4-104) *luk* of *ciṇ*-affix; *ad* augment; *nighāta* since after a *tiṅanta*); *puru* (*nipātasya ca* (Pā. Sū. 6-3-[?]) lengthening in *saṃhitā*); *caran* (root *cara gatibhakṣaṇayoḥ*; *śatṛ*; nom. sg.; root accent remains as *śatṛ* is a *lāvarṇa* [?] *anudātta*); *ajaraḥ* (*na vidyate jarā yasya saḥ* — *ajaraḥ*; *nañsubhyām* [?] (Pā. Sū. 6-2-172) *uttarapada ādyudātta*); *mānuṣā* (*mānuṣāṇi* → *śeṣaṃ chandasi bahulam* (Pā. Sū. 6-1-70) loss of *ṇi*; likewise *yugā*). ‖ 4 ‖
+
+---
+
+### Printed p. 348  (PDF 366)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> तमीं हिन्वन्ति धीतयो दश व्रिशो [?] देवं मर्तास ऊतये हवामहे ।
+> धनोरधि प्रवत आ स ऋण्वत्यभिव्रजद्भिर्वयुना नवाधित ॥ ५ ॥
+
+> *tamīṃ hinvanti dhītayo daśa vriśo [?] devaṃ martāsa ūtaye havāmahe |*
+> *dhanoradhi pravata ā sa ṛṇvatyabhivrajadbhirvayunā navādhita ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । ईम् । हिन्वन्ति । धीतयः । दश । व्रिशः [?] । देवम् । मर्तासः । ऊतये । हवामहे ।
+> धनोः । अधि । प्रवतः । आ । सः । ऋण्वति । अभिव्रजत्ऽभिः । वयुना । नवा । अधित ॥ ५ ॥
+
+> *tam | īm | hinvanti | dhītayaḥ | daśa | vriśaḥ [?] | devam | martāsaḥ | ūtaye | havāmahe |*
+> *dhanoḥ | adhi | pravataḥ | ā | saḥ | ṛṇvati | abhivrajat 'bhiḥ | vayunā | navā | adhita ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: ten fingers please Agni, whom mortals invoke for protection; like an arrow from a bow he sends out his flames, and takes the new praises of the surrounding priests.)*
+
+> देवं द्योतमानं तमेनमग्निं दश धीतयो दशसंख्याका अङ्गुलयो व्रिशः [?] विश [?] परस्परमिश्लिष्य हिन्वन्ति प्रीणयन्ति मिथुनकालेऽ [?] तथा मर्तासो मनुष्या वयं यजमाना ऊतये रक्षणाय हवामहे । अग्न्यमाणः [?] ... स देवो धनोर्धनुषः सकाशात् प्रवतः प्रवणदेशं प्र कर्षेण गच्छतो बाणानिव [?] तान्यथा शरोरुपरि मुञ्चन्ति । आ ऋण्वति ... *[the remainder of this small-type bhāṣya, including its grammatical tail, not legibly read; Sāyaṇa glosses *ṛṇvati* = *gacchati*, *vayunā* = *prajñānāni*, *navā* = *navāni*, *adhita* = *dhārayati/jñāpayati*, with alternative sense *abhivrajadbhiḥ* = *sarvataḥ sañcarad-ṛtvigbhiḥ*]*
+
+> *devaṃ dyotamānaṃ tamenamagniṃ daśa dhītayo daśasaṃkhyākā aṅgulayo vriśaḥ [?] viśa [?] parasparamiśliṣya hinvanti prīṇayanti mithunakāle ' [?] tathā martāso manuṣyā vayaṃ yajamānā ūtaye rakṣaṇāya havāmahe | agnyamāṇaḥ [?] ... sa devo dhanordhanuṣaḥ sakāśāt pravataḥ pravaṇadeśaṃ pra karṣeṇa gacchato bāṇāniva [?] tānyathā śarorupari muñcanti | ā ṛṇvati ... *[the remainder of this small-type bhāṣya, including its grammatical tail, not legibly read; Sāyaṇa glosses *ṛṇvati* = *gacchati*, *vayunā* = *prajñānāni*, *navā* = *navāni*, *adhita* = *dhārayati/jñāpayati*, with alternative sense *abhivrajadbhiḥ* = *sarvataḥ sañcarad-ṛtvigbhiḥ*]**
+
+**Pratipadārtha (Kannada).** *devam* — the shining; *tam* — Agni; *daśa dhītayaḥ* — ten fingers; *vriśaḥ* [?] — mutually bound, joined together; *hinvanti* — satisfy; *martāsaḥ* — we mortals, the sacrificers; *ūtaye* — for protection; *havāmahe* — invoke (him); *dhanoḥ* — from the bow (released); *pravate ā* — with speed
+
+---
+
+### Printed p. 349  (PDF 367)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 18 [?].)*
+
+moving, like arrows; *saḥ* — Agni; *ṛṇvati* — his own rays, with speed, makes spread (he sends out); *abhivrajadbhiḥ* — from the foes, moving around from all sides (the surrounding priests); *navā* — the new; *vayunāni* — (of the sacrifice) the knowable, the objects; *adhita* — he accepts. [Or *abhivrajadbhiḥ* — by the Hotṛs and others moving around the fire (purified); *navāni* — new; *vayunāni* — the hymns and the like; *adhita* — he accepts.]
+
+**Bhāvārtha.** The ten fingers together satisfy the shining Agni; we mortals, too, invoke him for protection. As arrows released from a bow go with speed, Agni makes his flames spread with speed; and he accepts the new hymns, made new by the Hotṛs and others moving around him.
+
+**English Translation (as printed).** The ten fingers intertwined propitiate that divine (Agni), whom we mortals invoke for protection: he darts (his rays) like swift (arrows) from a bow, and accepts the new praises (uttered) by those who crowd round the alter [sic].
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***daśadhītayaḥ*** — *dhīti* is the name of karma (action) and *prajñā* (understanding) as told before (Ṛ. Saṃ. 1-[?]-[?]). This word is also read among the names of fingers (Ni. 2-[?]); here "ten fingers" is meant.
+
+***vṛiśaḥ*** [?] — this word too is read among the names of fingers (Ni. 2-[?]); here, "though separate, joined together (*parasparaviśliṣya*)", Sāyaṇa has said, showing the etymological explanation as a qualification of *dhītayaḥ*.
+
+***ṛṇvati*** — from the root meaning "to go"; "makes it go (spread), causes to move" is the sense. Other examples:
+
+> क्राणा रुद्रेभिर्वसुभिः पुरोहितो होता निषत्तो रयिषाळमर्त्यः । रथो न विक्षु ऋञ्जसान आयुषु व्यानुषग्वार्या देव ऋण्वति ॥
+
+> *krāṇā rudrebhirvasubhiḥ purohito hotā niṣatto rayiṣāḷamartyaḥ | ratho na vikṣu ṛñjasāna āyuṣu vyānuṣagvāryā deva ṛṇvati ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+---
+
+**Progress note:** Vol 11 — Sūkta 144 done through printed p. 349 (Ṛks 1–4 complete; Ṛk 5 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English and Special Topics begun, its last Ṛg quotation ends p. 349). Next: printed p. 350 (PDF 368). Images in /tmp/v11a (PDF 33–367; recrop 368+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya — Ṛk 4–5 only partly read, Bṛhaddevatā/Brāhmaṇa/Nirukta quotes, reference and sūtra numerals, Anukramaṇīs of 143–144; Ṛk 5 Pada word *vriśaḥ* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
