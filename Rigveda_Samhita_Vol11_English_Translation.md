@@ -11583,4 +11583,172 @@ Citing this Ṛk, he shows the sense of the word *manma*. Durgācārya, explaini
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 148 complete (printed pp. 423–443). Sūkta 149 (5 Ṛks, Virāṭ metre) begun: printed pp. 444–445 done (Anukramaṇī, heading, Ṛk 1 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha). Next: printed p. 446 (PDF 464). Images in /tmp/v11a (PDF 33–463; recrop 464+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Bṛhaddevatā quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 446  (PDF 464)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+**English Translation (as printed, Ṛk 1).** Agni, the lord of great wealth, the granter (of desires), comes (to the place of sacrifice) ; he, the lord of lords, comes to the place of affluence, (the altar) ; the stone prepares (the libation for him) as he approaches.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1).** ***inaḥ*** — this word is read among the names of the lord (Ni. 3-[?]); Agni is praised as *inasya inaḥ*, "the lord even of lords":
+
+> प्र सम्राजो असुरस्य प्रशस्तिं पुंसः कृष्टीनामनुमाद्यस्य । इन्द्रस्येव प्र तवसस्कृतानि वन्दे दारुं वन्दमानो विवक्मि ॥
+
+> *pra samrājo asurasya praśastiṃ puṃsaḥ kṛṣṭīnāmanumādyasya | indrasyeva pra tavasaskṛtāni vande dāruṃ vandamāno vivakmi ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) In such Saṃhitā passages, and in Brāhmaṇa passages such as
+
+> अग्निर्वै देवतानां मुखं प्रजनयिता स प्रजापतिः स उ एव यजमानः ।
+
+> *agnirvai devatānāṃ mukhaṃ prajanayitā sa prajāpatiḥ sa u eva yajamānaḥ |*
+
+(Śa. Brā. 9-[?]-[?]) too, Agni is praised as the highest.
+
+***adrayaḥ*** — "(the stones that press) the Soma juice, or the sacrificers who hold them", is the sense given. In the section of the Ṛk 1-[?]-[?] the difference between the words *adri* and *grāvan* [both meaning stones] as the means for pressing Soma has been shown.
+
+For this word, besides the sense of "means for pressing the juice", other senses too are seen in the Ṛk-saṃhitā:
+
+> उत स्म ते परुष्णीमूर्णा वसते शुन्ध्युवः । उत पव्या रथानामद्रिं भिन्दन्त्योजसा ॥
+
+> *uta sma te paruṣṇīmūrṇā vasate śundhyuvaḥ | uta pavyā rathānāmadriṃ bhindantyojasā ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) In such Ṛks, "mountain":
+
+> ब्रह्माणि मे मतयः शं सुतासः शुष्म इयर्ति प्रभृतो मे अद्रिः । आ शासते प्रति हर्यन्त्युक्थेमा हरी वहतस्ता नो अच्छ ॥
+
+> *brahmāṇi me matayaḥ śaṃ sutāsaḥ śuṣma iyarti prabhṛto me adriḥ | ā śāsate prati haryantyukthemā harī vahatastā no accha ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk, "the bolt, the destroyer of enemies" (*śatrūṇāṃ bhakṣakaḥ vajraḥ*) — the weapon that destroys enemies; and
+
+> इन्द्रस्याङ्गिरसां चेष्टौ विदत्सरमा तनयाय धासिम् । बृहस्पतिर्भिनदद्रिं विदद्गाः समुस्रियाभिर्वावशन्त नरः ॥
+
+> *indrasyāṅgirasāṃ ceṣṭau vidatsaramā tanayāya dhāsim | bṛhaspatirbhinadadriṃ vidadgāḥ samusriyābhirvāvaśanta naraḥ ‖*
+
+(Ṛ. Saṃ. 1-62-3.)
+
+---
+
+### Printed p. 447  (PDF 465)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 34 [?].)*
+
+In such Ṛks, "*asura*" ("cloud"):
+
+> प्र यद्वेषु पृषतीरयुक्षत वाजे अद्रिं मरुतो रंहयन्तः । उतारुषस्य वि ष्यन्ति धाराश्चर्मेवोदभिर्व्युन्दन्ति भूम ॥
+
+> *pra yadveṣu pṛṣatīrayukṣata vāje adriṃ maruto raṃhayantaḥ | utāruṣasya vi ṣyanti dhārāścarmevodabhirvyundanti bhūma ‖*
+
+(Ṛ. Saṃ. 1-64-5.) In this Ṛk it is "the cloud". And:
+
+> महः स राय एषते पतिर्दन्निनस्य वसुनः पद आ । उप ध्रजन्तमद्रयो विधन्नित् ॥
+
+> *mahaḥ sa rāya eṣate patirdanninasya vasunaḥ pada ā | upa dhrajantamadrayo vidhannit ‖*
+
+(Ṛ. Saṃ. 1-149-1.) In such places, *adrayaḥ* has many senses — "the stones pressing, the sacrificers" (*grāvāṇaḥ*, *yajamānāḥ*).
+
+The word *adri* has such senses as thunderbolt, rākṣasa, stone, mountain, cloud; the Nirukta author shows several derivations:
+
+> अद्रिरादृणात्येतेन [?] अपि वा अत्तेः स्यात् ।
+
+> *adrirādṛṇātyetena [?] api vā atteḥ syāt |*
+
+(Ni. 4-[?].) "It may be from the root *dṝ* [or *dṛ*], 'to split', which gives the sense of splitting (*dṝ* + *ā*), or from the root *ad*, 'to eat'" — thus *adri*; because they split mountains and the like, the thunderbolt is called *adri*. Likewise:
+
+> यदिन्द्र चित्र मेहनास्ति त्वादातमद्रिवः । राधस्तन्नो विदद्वस उभयाहस्त्या भर ॥
+
+> *yadindra citra mehanāsti tvādātamadrivaḥ | rādhastanno vidadvasa ubhayāhastyā bhara ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) Citing this Ṛk, the word *adrivaḥ* is explained: "O Indra, possessing the vajra". Thus, since the root of the word *adri* has several derivations, from different roots and several meanings are given, in the Ṛk at hand *grāvanato yajamānāḥ* — "the sacrificers who hold the pressing stones" — is the meaning given.
+
+***dhrajantam*** — *dhraj* is read among the names of motion (Ni. 2-[?]); thence *upa dhrajantam* means "*upa gacchantam*, approaching, Agni".
+
+---
+
+### Printed p. 448  (PDF 466)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *mahaḥ* (*mahataḥ* with loss of *ta* in Vedic; or root *maha* with *kvip*; genitive sg., *mahaḥ*); *rāyaḥ* (genitive sg.; *ūḍidaṃpadādi* (Pā. Sū. 6-1-171) case-ending *udātta*); *īṣate* (root *īṣa gatau*, *tudādi*; *laṭ* 3rd sg.; *tiṅ*-*nighāta*); *dan* (root *dudāñ dāne*; *śatṛ* in the sense of *laṭ*; *bahulaṃ chandasi* *śap* → *luk*; *chandasy ubhayathā* (Pā. Sū. 3-4-117) the *śatṛ* suffix is both *sārvadhātuka* and *ārdhadhātuka*; *ā to lopa iṭi ca* (Pā. Sū. 6-4-64) loss of the root's *ā*; in the nominative sg. *ugidacāṃ sarvanāmasthāne* [?] *num* augment; loss of the final conjunct, being *asiddha*, *nalopa* does not occur; suffix accent: final *udātta*); *inaḥ* (root *iṇ gatau*; *iṇsiñjidīṅbhyaḥ kan* [?] (Uṇ. Sū. 3-[?]) *nak* suffix; no guṇa since *kit*; suffix accent: final *udātta*); *ā* (this particle, always seeking the verb, is joined [as *upasarga*] as there is no verb separately and no *kriyāpada* here; the verb *eti*, "comes", is to be supplied); *dhrajantam* (root *dhṛja gatau*; *śatṛ* in the sense of *laṭ*; *śap*; the *lasārvadhātuka anudātta*, so the root accent remains; accusative sg., *ugit*: *num*); *adrayaḥ* (root *adaṃ bhakṣaṇe*; *ādiśiṭibhūṣubhyaḥ kran* (Uṇ. Sū. 4-[?]) *kran* suffix; *ñnityādir nityam* first *udātta*); *vidhan* (root *vidha vidhāne*, *tudādi*; present sense *luṅ* [*laṅ*] in *chandasi* (Pā. Sū. 3-4-6); 3rd plural *jhi* → *ant*; loss of *i*; *bahulaṃ chandasi* *luk* of the vikaraṇa; *bahulaṃ chandasy māṅyoge 'pi* no *aṭ* augment; after a *tiṅanta*, in Vedic, *nighāta* does not occur; or since *yat*… the word *yat*, as *tat* is a heard (*śrutavat*) word [?], *yaccha*-… the *nighāta* is not applied by the supplied *yo*…; suffix accent: first *udātta*). ‖ 1 ‖
+
+---
+
+### Printed p. 449  (PDF 467)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 35 [?].)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> स यो वृषा नरां न रोदस्योः श्रवोभिरस्ति जीवपीतसर्गः ।
+> प्र यः सस्राणः शिश्रीत योनौ ॥ २ ॥
+
+> *sa yo vṛṣā narāṃ na rodasyoḥ śravobhirasti jīvapītasargaḥ |*
+> *pra yaḥ sasrāṇaḥ śiśrīta yonau ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । यः । वृषा । नराम् । न । रोदस्योः । श्रवःऽभिः । अस्ति । जीवऽपीतऽसर्गः ।
+> प्र । यः । सस्राणः । शिश्रीत । योनौ ॥ २ ॥
+
+> *saḥ | yaḥ | vṛṣā | narām | na | rodasyoḥ | śravaḥ 'bhiḥ | asti | jīva 'pīta 'sargaḥ |*
+> *pra | yaḥ | sasrāṇaḥ | śiśrīta | yonau ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni, the showerer, like the male of men and of heaven and earth, abides with his glories, the begetter whose creation is filled with living beings; he enters all wombs and produces all living creatures.)*
+
+> स ताद्दृशो योऽग्निर्नरां न मनुष्याणामिव रोदस्योर्द्यावापृथिव्योरपि वृषा सेक्ता । उत्पादके इत्यर्थः । एवं सर्वोत्पादकः श्रवोभिः सर्वत्र श्रूयमाणैर्यशोभिर्युक्तः सन् अस्ति वर्तते । सर्वोत्पादके इत्युक्तं तत्रोपपत्तिमाह । यस्य जीवपीतसर्गः । जीवैः पीतः आस्वादितः सर्गः सृष्टिः । ... जीवानां पानार्थे ... पीतसर्गः जीवरसपीतसृष्टिः [?] ... प्रसृत्य [?] ... अयमग्निः स्वदेहं [?] हविर्द्रव्यादित्यादि प्राहुः [?] ... वृष्ट्याद्यर्थ [?] ... इदानीं साक्षादुत्पादकत्वमाह । योऽग्निर्योनौ गर्भाशये सस्राणः प्रविष्टः सन् शिश्रीत निषिक्तं रेतः पायोति [?] ... यद्वाग्निर्योनौ पर्जन्ये [?] ... तस्मादयं सर्वदेवोत्पादकः [?] ... महानुभावो वर्तते ॥ *[small type; many words doubtful]*
+
+> *sa tāddṛśo yo 'gnirnarāṃ na manuṣyāṇāmiva rodasyordyāvāpṛthivyorapi vṛṣā sektā | utpādake ityarthaḥ | evaṃ sarvotpādakaḥ śravobhiḥ sarvatra śrūyamāṇairyaśobhiryuktaḥ san asti vartate | sarvotpādake ityuktaṃ tatropapattimāha | yasya jīvapītasargaḥ | jīvaiḥ pītaḥ āsvāditaḥ sargaḥ sṛṣṭiḥ | ... jīvānāṃ pānārthe ... pītasargaḥ jīvarasapītasṛṣṭiḥ [?] ... prasṛtya [?] ... ayamagniḥ svadehaṃ [?] havirdravyādityādi prāhuḥ [?] ... vṛṣṭyādyartha [?] ... idānīṃ sākṣādutpādakatvamāha | yo 'gniryonau garbhāśaye sasrāṇaḥ praviṣṭaḥ san śiśrīta niṣiktaṃ retaḥ pāyoti [?] ... yadvāgniryonau parjanye [?] ... tasmādayaṃ sarvadevotpādakaḥ [?] ... mahānubhāvo vartate ‖ *[small type; many words doubtful]**
+
+---
+
+### Printed p. 450  (PDF 468)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 149".)*
+
+**Pratipadārtha (Kannada).** *yaḥ* — which Agni; *narām na* — as in the case of men; *rodasyoḥ* — of heaven and earth, both; *vṛṣā* — the generator; *jīvapītasargaḥ* — whose creation, all of it, is filled with the essence of living beings (is the subject of the savour of living beings); *saḥ* — that Agni; *śravobhiḥ* — with famous glories; *asti* — grows exceedingly. *yaḥ* — which Agni; *yonau* — in (all) the wombs; *pra sasrāṇaḥ* — entering; *śiśrīte* — causes the seed to ripen (all) — makes the creatures spring forth. [Or: *yaḥ* — which Agni; *narāṃ na* — as to the sacrificers diligently engaged in the sacrifices, the giver of desired aims; *rodasyoḥ* — of heaven and earth, both; *vṛṣā* — the one who rains oblations and who showers on men; *saḥ* — such Agni; *jīvapītasargaḥ* — (the sacrifices that the sacrificer makes) all the sacrifices offered, of the others, together with serving the other creatures with his own power of feeding them; *śravobhiḥ* — with famous glories; *asti* — shines; *yaḥ* — which Agni; *yonau* — on his own place, the altar; *pra sasrāṇaḥ* — entering; *śiśrīte* — causes his own offered *purodāśa* and the like to be cooked.]
+
+**Bhāvārtha.** Agni, who is the generator of men and of heaven and earth, shines with his famous glories, having made all creation filled with the essence of living beings; and entering all wombs, he makes all living creatures spring forth.
+
+**English Translation (as printed).** He, who is, as it were, the generator of men as well as of heaven and earth, of whom creation has imbibed life, abides with his glories: he it is who, entering into the womb (of being), procreates (all living creatures).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** For this Ṛk two kinds of meaning are given. First, *vṛṣā* is explained as "generator", and *yonau* as "in the womb": Agni, who is the generator of heaven and earth as of men, filled the whole creation with the essence of living beings, and entering all wombs, procreates all living creatures. Second, *vṛṣā* is explained as "the sprinkler, one who showers desired aims", and *yonau* as "in his own place, the altar": the sense is that Agni, the giver of desired aims to the sacrificers engaged in the rites, who by oblations and showers [rain] pleases men, enters the place of the altar and cooks the *purodāśa* and the like offered to him — so Sāyaṇa has explained —
+
+---
+
+### Printed p. 451  (PDF 469)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 35 [?].)*
+
+*(Special Topics, continued.)* that Agni who gives the desired aims to the sacrificers diligently engaged in the sacrifices, who by oblations rains upon heaven and earth and pleases the divine and human beings and the rest, is, in the place of his own, the altar, entering the *purodāśa* and the like and causing them to be cooked — thus a second meaning too is possible, says Sāyaṇa.
+
+***vṛṣā*** — the word *vṛṣan* can have both the above meanings; and the uses of this word in the Ṛk-saṃhitā in many places, with examples, have been shown in the special topics of the Ṛk 1-[?]-[?] of this section.
+
+***yonau*** — the word *yoni*, besides its sense of "place of birth", also has the meaning of "dwelling-place, house, and the like". It is read in the Nirukta among the names of water — *arṇaḥ*, *kṣodaḥ*, etc. (Ni. 1-[?]).
+
+> ऋतस्य देवा अनु व्रता गुर्भुवत्पतिर्द्यौर्न भूम । वर्धन्तीमापः पन्वा सुशिश्विमृतस्य योना गर्भे सुजातम् ॥
+
+> *ṛtasya devā anu vratā gurbhuvatpatirdyaurna bhūma | vardhantīmāpaḥ panvā suśiśvimṛtasya yonā garbhe sujātam ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk, "in the water, which is the cause of the sacrifice or of food"; and
+
+> देवं वो देवयज्याग्निमीळीत मर्त्यः । समिद्धः शुक्र दीदिह्यृतस्य योनिमासदः सस्य योनिमासदः ॥
+
+> *devaṃ vo devayajyāgnimīḷīta martyaḥ | samiddhaḥ śukra dīdihyṛtasya yonimāsadaḥ sasya yonimāsadaḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In this Ṛk, *yoni* means "cause", "means to heaven"; and
+
+> दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । चित्रो यदभ्राट् छ्वेतो न विक्षु रथो न रुक्मी त्वेषः समत्सु ॥
+
+> *durokaśociḥ kraturna nityo jāyeva yonāvaraṃ viśvasmai | citro yadabhrāṭ chveto na vikṣu ratho na rukmī tveṣaḥ samatsu ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) in such Ṛks, "house"; and
+
+> यमीं द्वा सवयसा सपर्यतः समाने योना मिथुना समोकसा । दिवा न नक्तं पलितो युवाजनि पुरू चरन्नजरो मानुषा युगा ॥
+
+> *yamīṃ dvā savayasā saparyataḥ samāne yonā mithunā samokasā | divā na naktaṃ palito yuvājani purū carannajaro mānuṣā yugā ‖*
+
+(Ṛ. Saṃ. 1-144-4.) In such Ṛks it means "the place of origin of the fruit", and so on.
+
+---
+
+**Progress note:** Vol 11 — Sūkta 149 (5 Ṛks, Virāṭ metre) done through printed p. 451 (Ṛk 1 complete; Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, its Special Topics running on). Next: printed p. 452 (PDF 470), then Ṛks 3–5 of Sūkta 149 (end of the sūkta), then Sūkta 150. Images in /tmp/v11a (PDF 33–469; recrop 470+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Śatapatha quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
