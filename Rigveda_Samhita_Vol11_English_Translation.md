@@ -9775,4 +9775,168 @@ In the second sense, *śocayitā vā śatrūṇām*, Agni consumes his foes enti
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 145 done through printed p. 373 (Ṛks 1–3 complete; Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English done, its Special Topics begun on p. 373 and running on). Next: printed p. 374 (PDF 392). Images in /tmp/v11a (PDF 33–391; recrop 392+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya of Ṛks 3–4 only partly read, Ṛg/Nirukta/Brāhmaṇa/Taittirīya quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–145, Varga numbers; Ṛk 4 Saṃhitā *samārata*/*apisthitam* and Pada *āpisthitam* [?]). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 374  (PDF 392)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+*(Ṛk 4, Special Topics continued.)* ***śrāntam*** — *śrāntaṃ śāntaṃ vā yajamānam*: "the sacrificer, wearied by sacrificial acts or, being engaged in performing the rite, made tranquil", i.e. "one whose mind is pleased"; the word *śrānta* may also mean "pleased" (*prasanna*).
+
+> अधा गाव उपमातिं कनायाः अनु श्वान्तस्य कस्य चित्परेयुः । श्रुधि त्वं सुद्रविणो नस्त्वं [?] याळाश्वस्य [?] ... सूनृताभिः ॥
+
+> *adhā gāva upamātiṃ kanāyāḥ anu śvāntasya kasya citpareyuḥ | śrudhi tvaṃ sudraviṇo nastvaṃ [?] yāḷāśvasya [?] ... sūnṛtābhiḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) In this Ṛk, *śrāntasya* is explained in two senses, *pravṛddhasya śrāntasya vā*; likewise it may be said in the present Ṛk.
+
+***uśatīḥ*** — *kāmayamānā ājyadhārāḥ stutayo vā*: "ghee-streams or hymns desiring to reach Agni".
+
+***nāndye*** — *nandanīye karmaṇi*: "in a pleasing rite", "in the rite that gives joy"; since the rite gives joy to the body and, even though it troubles, to the mind as well, it is so said in this Ṛk, as in:
+
+> त्रिर्वर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतम् । त्रिर्नान्द्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतम् ॥
+
+> *trirvartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣatam | trirnāndyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvatam ‖*
+
+(Ṛ. Saṃ. 1-34-[?].) Here too *nāndya* means *nandanīya, santoṣakara* "joy-giving"; the sacrifice, giving fruit for the sake of well-being, is meant.
+
+***abhimṛśate*** — *abhimarśanaṃ karoti*: "touches". As in the world a teacher or father touches a wearied pupil or son with love, so Agni touches the wearied sacrificer in the joyous rite, with regard.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *upasthāyam* (*upasthāya* → *upasthāyam*; root *ṣṭhā gatinivṛttau*; *abhyāśe* [?] ... *ṇamul* (Pā. Sū. 3-4-[?]); *āto yuk ciṇkṛtoḥ* (Pā. Sū. 7-3-33) *yuk* for the root; in *ṇamul* the *m* [?] is a marker; *liti* …; *prādisamāsa*: *kṛdutarapada-prakṛtisvara*)
+
+---
+
+### Printed p. 375  (PDF 393)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 23 [?].)*
+
+*(Ṛk 4 grammar, noted briefly.)* *carati* (root *cara gatibhakṣaṇayoḥ*; *laṭ* 3rd sg.; *tiṅ*-*nighāta*); *samārata* (root *ṛ gatau*; because of the prefix *sam*, *samo gamyṛcchi…* (Pā. Sū. 1-3-29) *ātmanepada*; *laṭ* 3rd sg., the form *ārate*; no *nighāta* owing to *yat*; the *ā*-augment; *udāttavat*: because of the *udātta* … *tiṅ ca* (Pā. Sū. 8-1-28) …; *gati* accent); *tatsāra* (root *tsaru chadmagatau*; *liṭ* 3rd sg., *ṇal*; doubling; *ata upadhāyāḥ* (Pā. Sū. 7-2-116) *vṛddhi*; *nighāta*); *yujyebhiḥ* (root *yujir yoge*; *ṛhalor ṇyat*, … *yat*; *yato 'nāvaḥ* (Pā. Sū. 6-1-213) first *udātta*; *bhis* following: *bahulaṃ chandasi*: *ais* optional; *bahuvacane jhaly et* (Pā. Sū. 7-3-103) *et*); *śvāntam* (*krāntam*, *chandasi*: *repha* → *ra*… *kakāra* substitution); *mṛśate* (root *mṛśa āmarśane*, *tudādi*; *laṭ*; *nighāta*); *mude* (root *mud harṣe*; *kvip ca* *kvip*; dative sg.; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) case-ending *udātta*); *gacchanti* (root *gamḷ gatau*; *laṭ* 3rd plural; owing to *yat*, no *nighāta*; the *lasārvadhātuka* *anudātta*, hence the root accent remains); *uśatīḥ* (root *vaśa kāntau*; *adādi*; *laṭ*, *śatṛ*; *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) *luk* of *śap*; *sārvadhātukam apit*… *saṃprasāraṇa*; *strītva*: *ugitaś ca* (Pā. Sū. 4-1-6) *ṅīp*; *numrahita*, *śatṛ* … *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) *udātta*; *jas* → *supāṃ sulug* preceding-vowel lengthening).
+
+---
+
+### Printed p. 376  (PDF 394)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+*(Ṛk 4 grammar, end.)* *āsisthitam* (root *ṣṭhā gatinivṛttau*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *s* for *ṣ* initial; *kta* suffix; *dyatisyati…* (Pā. Sū. 7-4-40) *itva* of the root; *upasargāt sunoti…* (Pā. Sū. 8-3-65) *ṣatva* of the *s*; *kṛdutarapada-prakṛtisvara*). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स ईं मृगो अप्यो वनर्गुरुप त्वच्युपमस्यां नि धायि ।
+> व्यब्रवीद्वयुना मर्त्येभ्योऽग्निर्विद्वाँ ऋतचिद्धि सत्यः ॥ ५ ॥
+
+> *sa īṃ mṛgo apyo vanargurupa tvacyupamasyāṃ ni dhāyi |*
+> *vyabravīdvayunā martyebhyo 'gnirvidvā~ ṛtaciddhi satyaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । ईम् । मृगः । अप्यः । वनर्गुः । उप । त्वचि । उपमस्याम् । नि । धायि ।
+> वि । अब्रवीत् । वयुना । मर्त्येभ्यः । अग्निः । विद्वान् । ऋतऽचित् । हि । सत्यः ॥ ५ ॥
+
+> *saḥ | īm | mṛgaḥ | apyaḥ | vanarguḥ | upa | tvaci | upamasyām | ni | dhāyi |*
+> *vi | abravīt | vayunā | martyebhyaḥ | agniḥ | vidvān | ṛta 'cit | hi | satyaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: Agni, the seeker, accessible, forest-dweller, is placed on the skin-like altar-surface; the knowing, truthful one declares to mortals their sacrificial duties.)*
+
+> स ईं स एव अग्निः ... उपमस्यां [?] ... त्वचि उपमाने [?] निधायि निहितः । मृगः मार्जनीयः [?] ... अप्यः आपः कर्म तत्र साधुः [?] वनर्गुः वननामानि [?] ... व्यब्रवीत् विशेषेण ब्रवीति उपदिशति । वयुनमिति प्रज्ञानाम [?] ... ऋतचित् यज्ञस्य उदकस्य वा चेतिता ज्ञाता सत्यः सत् क्रियमाणं कर्म तत्र साधुः [?] ... सम्यक्फलप्रद इत्यर्थः । यस्मादयमुक्तसामर्थ्योपेतस्तस्मात्तेन [?] ज्ञानोपदेशो युक्तः । हिशब्दः प्रसिद्धौ ॥ *[small type; largely doubtful]*
+
+> *sa īṃ sa eva agniḥ ... upamasyāṃ [?] ... tvaci upamāne [?] nidhāyi nihitaḥ | mṛgaḥ mārjanīyaḥ [?] ... apyaḥ āpaḥ karma tatra sādhuḥ [?] vanarguḥ vananāmāni [?] ... vyabravīt viśeṣeṇa bravīti upadiśati | vayunamiti prajñānāma [?] ... ṛtacit yajñasya udakasya vā cetitā jñātā satyaḥ sat kriyamāṇaṃ karma tatra sādhuḥ [?] ... samyakphalaprada ityarthaḥ | yasmādayamuktasāmarthyopetastasmāttena [?] jñānopadeśo yuktaḥ | hiśabdaḥ prasiddhau ‖ *[small type; largely doubtful]**
+
+---
+
+### Printed p. 377  (PDF 395)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 24 [?].)*
+
+**Pratipadārtha (Kannada).** *mṛgaḥ* — expert in seeking; *apyaḥ* — (being easily reached) one to be approached, or the one skilled (*śrīmanta* [?]) in the rite; *vanargu* — roaming in the woods; *saḥ īm* — that very Agni; *upamasyām* — like (in the form of) the skin that is in the similitude; *tvaci* — on the skin; *upa nidhāyi* — has been placed on the altar; *vidvān* — omniscient; *ṛtacit* — who knows the sacrifice, or who is understood by the sacrificer; *satyaḥ* — of truthful nature, or who is in the company of the good, or whose fruit is worthy; *agniḥ hi* — that very Agni; *martyebhyaḥ* — to the human sacrificers; *vayunā* — the (sacrificial) duties, knowledge of what is to be done; *vyabravīt* — has declared in a special way.
+
+**Bhāvārtha.** Agni, skilled in seeking, easily reached, roaming in the woods, is placed on the altar like one lying on a skin. The omniscient, truthful Agni who knows the fitness of the sacrifice has taught the human sacrificers the knowledge of what is to be done.
+
+**English Translation (as printed).** He, the searcher, the accessible, the dweller in woods, has been placed (amidst the fuel), as in the simlitude [sic] of (an enveloping) skin: the wise Agni, the appreciater of sacrifice, the veracious, has declared to mortals (the knowledge of) their religious duties.
+
+*(The running heading of this English block on the printed page reads "English Trnalation" [sic].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***mṛgaḥ*** — *mṛgo mārṣṭer gatikarmaṇaḥ* (Ni. [?]): "*mṛga* from the root *mṛj*, in the sense of going"; derived from the root *mṛj* of the sense "go", it means "one who goes always swiftly (*nityaṃ hṛṣṭaḥ* [?] *gacchati*)" — so it gives the sense of "constantly moving". Or *anveṣaṇaśīlo vā*: "one in the habit of seeking"; Sāyaṇa explains that, his own food being the trees and the like, he is skilled in seeking them, so. Therefore,
+
+***vanargu*** — *vanagāmī*: "going in the woods".
+
+> जामिः सिन्धूनां भ्रातेव स्वस्रामिभ्यान्नराजा [?] वनान्यत्ति । यद्वातजूतो वना व्यस्थादग्निर्ह दाति रोमा [?] पृथिव्याः ॥
+
+> *jāmiḥ sindhūnāṃ bhrāteva svasrāmibhyānnarājā [?] vanānyatti | yadvātajūto vanā vyasthādagnirha dāti romā [?] pṛthivyāḥ ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) As in such Ṛks, it is described as moving in the woods and eating them; so these two adjectives show the nature of Agni. The Nirukta author:
+
+---
+
+### Printed p. 378  (PDF 396)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 145".)*
+
+> क्नूथेव [?] कस्कर्रा [?] वनर्गू रशनाभिर्दशभिरभ्यध्वीतम् । इयं ते अग्ने नव्यसी मनीषा युक्ष्वा रथं न शुचयद्भिरङ्गैः ॥
+
+> *knūtheva [?] kaskarrā [?] vanargū raśanābhirdaśabhirabhyadhvītam | iyaṃ te agne navyasī manīṣā yukṣvā rathaṃ na śucayadbhiraṅgaiḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) Citing this Ṛk, he explains *vanargu* as *vanagāminau* (the two arms of the churner, *agnimanthanau bāhū*), the word being used for the two hands at the time of praising Agni (Ni. [?]).
+
+***sa īm*** — *sa evāgnirūpam*, "that very Agni-form" is the determined sense; the word *īm* has no separate meaning. The Nirukta author:
+
+> अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रन्थेषु वाक्यपूरणा आगच्छन्ति पूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्धीति [?] ।
+
+> *atha ye pravṛtte 'rthe 'mitākṣareṣu grantheṣu vākyapūraṇā āgacchanti pūraṇāste mitākṣareṣvanarthakāḥ kamīmiddhīti [?] |*
+
+(Ni. 1-[?].) This Nirukta passage is thus: "In the case of words that come in a set sense in works of unmeasured syllables, such as the Brāhmaṇas, *īm* and the like are to be seen as filling out the sentence; and in verses of measured metre and syllables, they fill out the pāda: *kam īm* (*kam īm iddhi*) and the like." That is: words such as *īm* are used merely to fill out a sentence in prose of no fixed metre or syllable-count — the Brāhmaṇa and similar sentences — and to fill out the pāda in Ṛks of fixed metre and syllables.
+
+***ṛtacit*** — *yajñasya udakasya vā cetitā jñātā*: "one who knows the sacrifice, or the water".
+
+***vayunā*** — *vayunam iti prajñānāma*: "*vayuna* is a name of understanding"; the special meanings of the word have been given before with examples.
+
+***agnir hi vayunā vyabravīt*** — "Agni taught the knowledge of duties."
+
+> अथास्य हस्तं गृह्णाति । इन्द्रस्य ब्रह्मचार्यस्यग्निराचार्यस्तवाहमाचार्यस्तवासाविति [?] ।
+
+> *athāsya hastaṃ gṛhṇāti | indrasya brahmacāryasyagnirācāryastavāhamācāryastavāsāviti [?] |*
+
+(Śa. Brā. 11-[?]-[?].) From such sentences Agni is praised as a teacher; as it is said that all duties were taught by him, here too that matter is stated.
+
+---
+
+### Printed p. 379  (PDF 397)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 24 [?].)*
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *mṛgaḥ* (root *mṛjūṣ śuddhau*; here used in the sense of going; thus the word *mṛga*; the Nirukta author says *mṛgo mārṣṭergatikarmaṇaḥ* (Ni. 4-[?]); *ka* suffix; *kutva* by *vyatyaya*); *apyaḥ* (*apsu sādhuḥ*: *apyaḥ* — *tatra sādhuḥ* (Pā. Sū. [?]) *yat* suffix; or the root *āpḷ vyāptau*; *yat* in the sense of *ārha*; *yato nāvaḥ*… first *udātta*); *vanargu* (*vanaṃ gacchatīti* — *vanarguḥ*; root *gamḷ gatau*; *uṇādika*-suffix *u*; *chandasi*: for *upapada* the *vana* has *ruḍāgama* [?]; *kṛdutarapada-prakṛtisvara*); *tvaci* (locative sg.; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) case-ending *udātta*); *dhāyi* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; passive *luṅ*; *tip* → *ciṇ*; *cino lopa*: *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-66) *ciṇ* for *cli*; *āto yuk ciṇkṛtoḥ* (Pā. Sū. 7-3-33) *yuk*; *ciṇo luk* (Pā. Sū. 6-4-104) *luk* of *ta*; *bahulaṃ chandasy…*: *māṅyoge 'pi* (Pā. Sū. 6-4-75) augment *aṭ* does not occur; *tiṅ*-*nighāta*); *abravīt* (root *brūñ vyaktāyāṃ vāci*; *chandasi* present sense *laṅ*; 3rd sg. *tip*; loss of *i*; *adiprabhṛtibhyaḥ śapaḥ* *luk*; *bruva īṭ* (Pā. Sū. 7-3-93) *īṭ* for the suffix; guṇa of the root's *i* [?]; *āvādeśa*; augment *aṭ*; *tiṅ*-*nighāta*); *vidvān* (root *vida jñāne*; *laṭ* → *śatṛ*: *vido laṭo* … *vidaḥ śatur vasuḥ* (Pā. Sū. 7-1-36) *vasu* substitution; nom. sg. *vidvān*; *pratyayasvara*: *takāra* gets *udātta*); *ṛtacit* (root *citī saṃjñāne*; *kvip ca* *kvip*; *ṛtaṃ cetayati iti ṛtacit*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) *kṛdutarapada-prakṛtisvara*).
+
+---
+
+### Printed p. 380  (PDF 398)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 146".)*
+
+*(Ṛk 5 grammar, end.)* *satyaḥ* (*satsu bhavaḥ satyaḥ*, or *sat arhati*, or the one *sati*; *bhave chandasi* (Pā. Sū. 4-4-110) *yat* suffix; from the suffix accent final *udātta*). ‖ 5 ‖
+
+*Here the 145th Sūkta ends.*
+
+---
+
+## Sūkta 146
+
+### Printed p. 380 (continued; PDF 398)
+
+*(The Kannada heading reads "The 146th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of five Ṛks beginning "Trimūrdhānam" is the sixth sūkta, of Dīrghatamas, Agni deity, in Triṣṭubh; its use at the Prātaranuvāka and Āśvina-śastra is told by the Āśvalāyana sūtra *abhyetasyā* — "*trimūrdhānam iti tisraḥ*".)*
+
+> त्रिमूर्धानमिति पञ्चर्चं षष्ठं सूक्तं दैर्घतमसम् । आग्नेयम् । पूर्वत्राग्नेयं तु तदित्येकपत्नित्वात् [?] । त्रिमूर्धानमित्यनुक्रमणिका । प्रातरनुवाकाश्विनशस्त्रयोस्त्रिष्टुब्भे छन्दसीदमादिसूक्तत्रयस्य विनियोगः । अथैतस्या इति खण्डे सूत्रितम् । त्रिमूर्धानमिति तिस्र इति ॥ अ. ४-[?] इति ॥
+
+> *trimūrdhānamiti pañcarcaṃ ṣaṣṭhaṃ sūktaṃ dairghatamasam | āgneyam | pūrvatrāgneyaṃ tu tadityekapatnitvāt [?] | trimūrdhānamityanukramaṇikā | prātaranuvākāśvinaśastrayostriṣṭubbhe chandasīdamādisūktatrayasya viniyogaḥ | athaitasyā iti khaṇḍe sūtritam | trimūrdhānamiti tisra iti ‖ a. 4-[?] iti ‖*
+
+**Anuvāda (Kannada).** The sūkta *trimūrdhānam* is the sixth sūkta in the twenty-first anuvāka. It has five Ṛks. The ṛṣi of this sūkta is Dīrghatamas Aucathya. As said before, the deity of this sūkta too is Agni. In the Anukramaṇī it begins with *trimūrdhānam*. For the Prātaranuvāka and the Āśvina-śastra mantra recitals the Ṛks in the Triṣṭubh metre are used; the use of these three sūktas together is described in the Āśvalāyana Śrauta-sūtra, in the section beginning *athaitasyā*, by the sūtra *trimūrdhānam iti tisraḥ* (Aś. [?]).
+
+---
+
+**॥ ओम् ॥**
+
+**Sūkta 146** — Maṇḍala 1, Anuvāka 21, Sūkta 146; Aṣṭaka 2, Adhyāya 2, Varga 24 [?]. Number of Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: Triṣṭubh.
+
+---
+
+**Progress note:** Vol 11 — Sūkta 145 complete (printed pp. 359–380). Sūkta 146 (5 Ṛks, Triṣṭubh) begun at the foot of printed p. 380 (Anukramaṇī and heading only). Next: printed p. 381 (PDF 399), Ṛk 1 of Sūkta 146. Images in /tmp/v11a (PDF 33–398; recrop 399+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya partly read — Ṛk 5 of Sūkta 145 largely unread; Ṛg/Nirukta/Brāhmaṇa quotes with [?] references, reference and sūtra numerals, Anukramaṇīs of 143–146, Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
