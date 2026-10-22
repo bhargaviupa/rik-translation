@@ -8742,4 +8742,182 @@ Thus *gṛha*, *yajña* and *sabhā* have different senses, and since each is in
 
 ---
 
-**Progress note:** Sūkta 143 complete (printed pp. 287–330). **Sūkta 144** (*eti pra hotā*, 7 Ṛks, Agni, Jagatī): printed pp. 330–331 done (Anukramaṇī and Anuvāda; Ṛk 1 Saṃhitā and Pada, and the first words of the bhāṣya at the foot of p. 331, which continues on p. 332). Next: printed p. 332 (PDF 350). Images at 120 dpi in /tmp/v11a (PDF 33–380; recrop 381 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–144; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–8 of Sūkta 143 (pp. 302, 306–307, 311, 316, 319, 326) largely unread; the English quotations of Müller/Oldenberg/Bloomfield on pp. 322–324 copied as printed; grammar pages read at low confidence (esp. pp. 326, 329–330); the Anukramaṇīs of Sūktas 143–144 (pp. 287, 330) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 332  (PDF 350)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+*(Continuation of the bhāṣya of Ṛk 1; small type, partly read.)*
+
+> होतेम् [?] मायेति प्रज्ञानाम माया वयुनमिति तन्नामसु पाठात् । केदृशोऽयम् [?] ऊर्ध्वां उपरिस्थां [?] ऊर्ध्वसमारूढां शुचिपेशसं शोभनरूपोपेतां शुचिरूपां [?] पेश इति रूपनाम । धियं प्रज्ञां दधानः । चतुर्थ्यर्थे [?] … करिष्यतीत्येवंरूपां [?] । अनुग्रहं [?] च दक्षिणावृतः प्रादक्षिण्येन वर्तमानः स्रुचो जुहूप्रभृतीः क्रमते । गृह्णाति । कीदृश्यः स्रुचः । याः प्रथमं पात्रासादनकाले [?] स्वाग्नीध्रादिसमीप स्थानं निंसते चुम्बन्ति चुम्बन्ति इति धातुः । चुम्बन्ति भजन्ते इत्यर्थः । प्रथममनुप्रयाजक्रमं बुध्वा प्रति पश्चात् [?] क्रमते । हरतो [?] प्रसिद्धः । यद्वा । होता देवानामाह्वातायमग्निरस्य यजमानस्य व्रतं कर्म ज्योतिष्टोमादि प्रज्ञाविशेषेण युक्तः सन्नैति । यज्ञद्वेरं प्रत्याग्रछति । तीक्ष्णं लोकम् [?] ऊर्ध्वामूर्ध्ववर्ती शुचिपेशसं शोभनरूपोपेतं ज्वलनात्मकं कर्म दधानो धारयमाणः । आगत्य च दक्षिणावृत उक्तलक्षणः सन् स्रुचो ज्वालात्मना जुहूप्रभृतिका अभिक्रमते । आक्रमते । घृतं स्वीकर्तुं ज्वाला प्रसर्पतीत्यर्थः । याः स्रुचः प्रथमं पूर्वं हविरासादनकाले स्वाग्नीध्रादिस्थानं वेदिलक्षणं निंसते चुम्बन्ति प्राप्नुवन्ति । हरतः प्रसिद्धः । निसि चुम्बने । आदादित्यात् शपो लुक् । इदित्यनुनासिकम् ॥ [?]
+
+> *hotem [?] māyeti prajñānāma māyā vayunamiti tannāmasu pāṭhāt | kedṛśo 'yam [?] ūrdhvāṃ uparisthāṃ [?] ūrdhvasamārūḍhāṃ śucipeśasaṃ śobhanarūpopetāṃ śucirūpāṃ [?] peśa iti rūpanāma | dhiyaṃ prajñāṃ dadhānaḥ | caturthyarthe [?] … kariṣyatītyevaṃrūpāṃ [?] | anugrahaṃ [?] ca dakṣiṇāvṛtaḥ prādakṣiṇyena vartamānaḥ sruco juhūprabhṛtīḥ kramate | gṛhṇāti | kīdṛśyaḥ srucaḥ | yāḥ prathamaṃ pātrāsādanakāle [?] svāgnīdhrādisamīpa sthānaṃ niṃsate cumbanti cumbanti iti dhātuḥ | cumbanti bhajante ityarthaḥ | prathamamanuprayājakramaṃ budhvā prati paścāt [?] kramate | harato [?] prasiddhaḥ | yadvā | hotā devānāmāhvātāyamagnirasya yajamānasya vrataṃ karma jyotiṣṭomādi prajñāviśeṣeṇa yuktaḥ sannaiti | yajñadveraṃ pratyāgrachati | tīkṣṇaṃ lokam [?] ūrdhvāmūrdhvavartī śucipeśasaṃ śobhanarūpopetaṃ jvalanātmakaṃ karma dadhāno dhārayamāṇaḥ | āgatya ca dakṣiṇāvṛta uktalakṣaṇaḥ san sruco jvālātmanā juhūprabhṛtikā abhikramate | ākramate | ghṛtaṃ svīkartuṃ jvālā prasarpatītyarthaḥ | yāḥ srucaḥ prathamaṃ pūrvaṃ havirāsādanakāle svāgnīdhrādisthānaṃ vedilakṣaṇaṃ niṃsate cumbanti prāpnuvanti | harataḥ prasiddhaḥ | nisi cumbane | ādādityāt śapo luk | idityanunāsikam ‖ [?]*
+
+**Pratipadārtha (Kannada).** *ūrdhvām* — (the sacrifice) risen to the height; *śucipeśasam* — of a clear, deep form [?]; *dhiyam* — the insight; *dadhānaḥ* — possessing; *hotā* — the invoker of the gods, the Adhvaryu; *asya* — of Agni who has been referred to; *vratam* — the oblation-offering and similar acts; *māyayā* — with his special insight into his duties; *pra eti* — proceeds in front [of the altar]; (and) *yaḥ* — which ladles (*juhū* and others); *prathamam* — first; (at the time of setting down the vessels for the oblation); *asya* — of this; *dhāma* — to the place; *niṃsate* — they touch (reach); *dakṣiṇāvṛtaḥ* — circumambulating with the right side towards it; *srucaḥ* — the ladles *juhū* and the like; *kramate* — he takes up; [or *ūrdhvām* — the high; *śucipeśasam* — of a pleasant form; *dhiyam* — the flame; *hotā* — the summoner of the gods; *asya yajamānasya* — of this sacrificer; *vratam* — the acts such as Jyotiṣṭoma; *māyayā* — knowing it by his special insight; *pra eti* — comes forward;] *yaḥ srucaḥ* — the ladles that, at the time of laying down the oblations first (*prathamam*), reach *asya dhāma* — Agni's place, the altar; *abhi kramate* — he takes in front [of them].
+
+---
+
+### Printed p. 333  (PDF 351)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 16 [?].)*
+
+**Bhāvārtha.** The Hotṛ, the Adhvaryu who conducts the sacrifice, possessing insight raised on high, with a deep and beautiful form, proceeds — endowed with the experience necessary to perform the offering of the oblations — to the performance of the sacrifice. Having first touched Agni's altar and circumambulated it with his right side towards it, he takes up the ladles used for offering the oblations.
+
+**English Translation (as printed).** The ministering priest, (qualified by experience, and) possessing exalted and graceful devotion, proceeds (to celebrate) his (Agni's) worship, having circumambulated [?: read "cumbulated" at this resolution] (the altar), he takes up the ladles which are first to present the oblations.
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+> एति प्र सप्त जागतम् (अनुक्रमणिका) प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः । (सा. भा. पीठिका)
+
+> *eti pra sapta jāgatam (anukramaṇikā) prātaranuvākāśvinaśastrayorviniyoga uktaḥ | (sā. bhā. pīṭhikā)*
+
+The commentator has told in his Pīṭhikā that this sūkta is employed in the Āśvina-śastra. A story-context that suggests the connection of the Aśvina-śastra with the Agni-sūkta and other things, is told in the Aitareya Brāhmaṇa thus —
+
+> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्यै सर्वे देवा वरा आगच्छंस्तस्मा एतत् सहस्रं वहतुमन्वकरोद्यदेतदाश्विनमित्याचक्षतेऽश्विनं हैव तत्सहस्रं तस्मात् [?] त्रैसहस्रं [?] शंसेद्यो वा प्राश्वं फलं शंसेद्यथा ह वा इदमनो वा रथो वाक्रो वर्तत एवं हैवाक्रो वर्तते । शकुनिरो [?] तिष्ठेव्यन्नाजायते [?] ।
+
+> *prajāpatirvai somāya rājñe duhitaraṃ prāyacchatsūryāṃ sāvitrīṃ tasyai sarve devā varā āgacchaṃstasmā etat sahasraṃ vahatumanvakarodyadetadāśvinamityācakṣate 'śvinaṃ haiva tatsahasraṃ tasmāt [?] traisahasraṃ [?] śaṃsedyo vā prāśvaṃ phalaṃ śaṃsedyathā ha vā idamano vā ratho vākro vartata evaṃ haivākro vartate | śakuniro [?] tiṣṭhevyannājāyate [?] |*
+
+(Ai. Brā. 4-7 [?]; partly legible.) Formerly, when Prajāpati was ready to give his daughter Sūryā to King Soma in marriage, all the gods came wishing to wed her themselves. Then Prajāpati laid down a condition: the thousand mantras known as the Aśvina-śastra are to be recited, and not fewer. As in the world a chariot wheel moves easily after it has been oiled, so the mantras are to be recited easily; to do that one must first perform the *[phaitapana, as printed; the anointing?]* and then recite. And as a wife, when ready to fly [?], makes her body light, so the suitor who is to enchant her must have that quality. *(Read at low confidence.)*
+
+---
+
+### Printed p. 334  (PDF 352)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+*(Continuation of the Kannada account of the Āśvina-śastra legend: "first the smearing is done and then the recitation. And again the wife's quality …")*
+
+> तस्मिन्नेना समजानते ममेदमस्तु ममेदमस्तीति ते संजानाना अब्रुवन्नाजिमस्यायामहे स यो न उज्जेष्यति तस्येदं भविष्यतीति तेऽस्य रे [?] … गृहपतेरादित्यं काष्ठामकुर्वत तस्मादाग्नेयेन प्रतिपद्यतेऽश्विनस्याग्निर्होता गृहपतिः स राजेति [?]
+
+> *tasminnenā samajānate mamedamastu mamedamastīti te saṃjānānā abruvannājimasyāyāmahe sa yo na ujjeṣyati tasyedaṃ bhaviṣyatīti te 'sya re [?] … gṛhapaterādityaṃ kāṣṭhāmakurvata tasmādāgneyena pratipadyate 'śvinasyāgnirhotā gṛhapatiḥ sa rājeti [?]*
+
+(Ai. Brā. 4-[?].) Then the gods contended with one another, each saying, "this is mine"; they gathered together at the race: "let whoever wins among us have it"; and in that running, the winner would take the bride. Then, starting with Agni, the Gṛhapati, they ran as far as Sūrya, as the goal. Therefore the first mantra —
+
+> स त्वं दक्षस्याव्यको वृथो भूरर्थः परस्यान्तरस्य तरुषः ।
+> रायः सूनो सहसो मर्त्येष्वा छर्दिर्यच्छ वीतहव्याय सप्रथो भरद्वाजाय सप्रथः ॥
+
+> *sa tvaṃ dakṣasyāvyako vṛtho bhūrarthaḥ parasyāntarasya taruṣaḥ |*
+> *rāyaḥ sūno sahaso martyeṣvā chardiryaccha vītahavyāya sapratho bharadvājāya saprathaḥ ‖*
+
+(Ṛ. Saṃ. 6-15-[?].) is according to one view addressed to Agni; and also —
+
+> अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायम् ।
+> अग्नेरनीकं बृहतः सपर्यं दिवि शुक्रं यजतं सूर्यस्य ॥
+
+> *agniṃ manye pitaramagnimāpimagniṃ bhrātaraṃ sadamitsakhāyam |*
+> *agneranīkaṃ bṛhataḥ saparyaṃ divi śukraṃ yajataṃ sūryasya ‖*
+
+(Ṛ. Saṃ. 10-7-3.) Thus one view is that [the Āśvina-śastra] is to be begun with this mantra. But this is not accepted by others.
+
+> तत्र [?] … तस्माद्गृहपतिर्होता गृहपतिः स राजेत्येव प्रतिपद्येत गृहपतिवती प्रजातिमती शान्ता सर्वायै । सर्वायुत्वाय । सर्वमायुरेति य एवं वेद ।
+
+> *tatra [?] … tasmādgṛhapatirhotā gṛhapatiḥ sa rājetyeva pratipadyeta gṛhapativatī prajātimatī śāntā sarvāyai | sarvāyutvāya | sarvamāyureti ya evaṃ veda |*
+
+(Ai. Brā. [?].) The sūkta beginning with the mantras *agnir hotā gṛhapatiḥ* and the like is the right order; such a one who knows this obtains all prosperity and long life, it says. And also —
+
+> तासां वै देवतानामाजिं धावन्तीनामभिप्रस्थानमग्निर्मुखं प्रथमः प्रत्यपद्यत तमश्विनावन्वगच्छेतां तमब्रूतां [?] … वा इदं जेष्याम इति स तथेत्यब्रवीत्तस्य वै मे महोऽस्त्विति तथेति तस्मादाग्नेयाश्विने शस्यते [?]
+
+> *tāsāṃ vai devatānāmājiṃ dhāvantīnāmabhiprasthānamagnirmukhaṃ prathamaḥ pratyapadyata tamaśvināvanvagacchetāṃ tamabrūtāṃ [?] … vā idaṃ jeṣyāma iti sa tathetyabravīttasya vai me maho 'stviti tatheti tasmādāgneyāśvine śasyate [?]*
+
+(Ai. Brā. 4-[?]; partly legible.) Of those deities, as they ran the race, Agni, in the lead, was first; the Aśvins followed him; they said to him, "…" and asked for a share; he agreed. Therefore Agni's [sūkta] is recited in the Āśvina-śastra.
+
+---
+
+### Printed p. 335  (PDF 353)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 17 [?].)*
+
+All the gods, when running in this race, Agni was ahead of everyone; the Aśvins approached Agni and asked for help in getting [the prize]; Agni gave consent; but he asked "give me also a share in the victory". Therefore in the Āśvina-śastra Agni too has a share; the share obtained by Agni and Uṣas and the like in the Āśvina-śastra is told in the part of the Ṛgveda Saṃhitā that concerns the Pīṭhikā, in the Special Topics of Sūkta [?] (part 1 [?]).
+
+On this occasion another objection is raised and answered —
+
+> तदाहुर्यच्छंस्त्याग्नेयं शस्यते उषस्यं शस्यते इन्द्रमथ तस्मादेतदाश्विनमित्याचक्षतेऽश्विना हि तमजयतामश्विनावात्स्यातां यदश्विना वातं तस्मादेतदाश्विनमित्याचक्षते [?] ।
+
+> *tadāhuryacchaṃstyāgneyaṃ śasyate uṣasyaṃ śasyate indramatha tasmādetadāśvinamityācakṣate 'śvinā hi tamajayatāmaśvināvātsyātāṃ yadaśvinā vātaṃ tasmādetadāśvinamityācakṣate [?] |*
+
+(Ai. Brā. 4-7 to 4-8 [?].) On this occasion, since mantras addressed to Agni, Uṣas and Indra were used, the question is why the name *āśvina* is given; this was answered: the Aśvins are the winners; the name of the śastra is *āśvina* because it is chiefly concerned with the victory of the Aśvins.
+
+***śucipeśasam*** — पेश इति रूपनाम (नि. ३-७ [?]) शोभनरूपोपेतां (*peśa iti rūpanāma (ni. 3-7 [?]) śobhanarūpopetāṃ*): "*peśa* is a name for form (Ni. 3-7); endowed with beautiful form": "of deep (grave) form" is the meaning of the word *dhiyam* for which it is an epithet. The Nirukta author —
+
+> आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
+
+> *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 10-110-6.) citing this Ṛk, "*śukrapeśasaṃ śriyaṃ śocitejarjvalatikamaṇīyāḥ* [?]" (Ni. 8-[?]) explains *peśa* as the name for form, as "bright appearance".
+
+***dhiyam*** — *prajñām*: "knowledge". This word is read among the names of action (Ni. 2-1) and among names of knowledge (Ni. 3-[?]); the Nirukta author, citing Ṛks, explained both meanings; it was told earlier.
+
+***māyayā*** — मायेति प्रज्ञानाम । माया वयुनमिति तन्नामसु पाठात् (*māyeti prajñānāma | māyā vayunamiti tannāmasu pāṭhāt*) (Ni. 3-9 [?]): "*māyā* is a name for knowledge: *māyā*, *vayunam* are read among its names". The Nirukta author:
+
+> मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ।
+> मायामु तु यज्ञियानामेतामपो यत्तूर्णश्चरति [?] प्रजानन् ॥
+
+> *mūrdhā bhuvo bhavati naktamagnistataḥ sūryo jāyate prātarudyan |*
+> *māyāmu tu yajñiyānāmetāmapo yattūrṇaścarati [?] prajānan ‖*
+
+(Ṛ. Saṃ. 10-88-6.)
+
+---
+
+### Printed p. 336  (PDF 354)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 144".)*
+
+Having cited this Ṛk, he explains the word *māyā* as "knowledge" (Ni. 7-[?]; "*sa eva prajñāṃ trīkāṃ manyante*" [?]). And again —
+
+> शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि ।
+> विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥
+
+> *śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi |*
+> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*
+
+(Ṛ. Saṃ. 6-58-1.) citing this Ṛk (Ni. 12-[?]) he shows that the word *māyā* here too means knowledge. This word has also the meaning "deceit, cheating".
+
+> आरोरुवीद्वृत्रो अस्य वज्रो मानुषो यन्नानुषो निजूर्वात् ।
+> नि मायिनो दानवस्य माया अपादयत्स्वप्नान्सस्य [?] ॥
+
+> *āroruvīdvṛtro asya vajro mānuṣo yannānuṣo nijūrvāt |*
+> *ni māyino dānavasya māyā apādayatsvapnānsasya [?] ‖*
+
+(Ṛ. Saṃ. 5-30-6.) In such Ṛks *māyā* means the *māyāvin* (the deceiver) Dānava's deceits; the sense is *dānavasya māyāḥ* "the Dānava's arts of magic".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *eti* (root *iṇ gatau*; *laṭ*, third person singular; at the head of the pāda there is no *nighāta*; *tip* being *anudātta*, the root accent remains), *māyayā* (root *mā māne*; *māhāsthiyo yaḥ* (Uṇ. Sū. 4-[?]): suffix *ya*; by the suffix-accent the end is *udātta*; instrumental singular), *dadhānaḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the present sense; *ślu* vikaraṇa; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189): first-syllable *udātta*), *śucipeśasam* (*śuciḥ peśo yasya saḥ*, tam; *bahuvrīhau prakṛtyā pūrvapadam*: the first member's accent; accusative singular), *srucaḥ* (root *sru gatau*; *ticik ca* (Uṇ. Sū. 2-[?]): suffix *ciḥ* [?]; its *i* has the designation *it* so is dropped; *sruc*), *kramate* (root *kramu pādavikṣepe*; *laṭ*, third person singular, *nighāta*), *dakṣiṇāvṛtaḥ* (*dakṣiṇā* is an *ajanta* word; *ā* prefix; root *vṛñ varaṇe*; suffix *kta*; in the compound the *kṛdanta* keeps its natural accent).
+
+---
+
+### Printed p. 337  (PDF 355)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 17 [?].)*
+
+*niṃsate* (root *ṇisi cumbane*; *idito num dhātoḥ* (Pā. Sū. 7-1-58): *num* augment; *laṭ*, third person plural, *jha*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5): *ata* of the *jha* …; the *ṭi* gets *e*; since it is connected with *yaḥ* and with the *yā* [?] no *nighāta* arises; after an *ati…* word the root's accent remains by *tāsyanudāttet*). ‖ 1 ‖
+
+---
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अभीमृतस्य दोहना अनूषत योना [?] देवस्य सदने परीवृताः ।
+> अपामुपस्थे विभृतो यदावसदध स्वधा अधयद्याभिरीयते ॥ २ ॥
+
+> *abhīmṛtasya dohanā anūṣata yonā [?] devasya sadane parīvṛtāḥ |*
+> *apāmupasthe vibhṛto yadāvasadadha svadhā adhayadyābhirīyate ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अभि । ईम् । ऋतस्य । दोहनाः । अनूषत । योना [?] । देवस्य । सदने । परिऽवृताः ।
+> अपाम् । उपऽस्थे । विऽभृतः । यत् । आ । अवसत् । अध । स्वधाः । अधयत् । याभिः । ईयते ॥ २ ॥
+
+> *abhi | īm | ṛtasya | dohanāḥ | anūṣata | yonā [?] | devasya | sadane | pari 'vṛtāḥ |*
+> *apām | upa 'sthe | vi 'bhṛtaḥ | yat | ā | avasat | adha | svadhāḥ | adhayat | yābhiḥ | īyate ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *The streams (milkings) of the water, enveloped round the seat of the god in his birthplace, praise him: when he dwelt, carried in the lap of the waters, he drank the offerings by which he is led.* Small type; only partly legible)
+
+> ऋतस्योदकस्य दोहना धारा योनावुत्पत्तिस्थाने देवस्य सदने द्योतमानस्याग्नेः [?] स्थाने परिवृतास्तदृष्टिभिः [?] परितो व्याप्ताः सत्योऽभ्यनूषत [?] । अभिनवा भवन्ति । अभिनूयन्ते स्तूयन्ते वा । कदैतदाहेति [?] । यदा अपामुपस्थे उदकानामुत्सङ्गे [?] विभृतः विशेषेण ताभिर्धार्यमाणः सन् आवसत् आक्रम्य निवसत्ययम् [?] । अथ तदानीं स्वधाः अमृतसमा [?] … सर्वो लोकः विशेषेण [?] याभिः सहेयतेऽमृतं सं गच्छते वा भूमिं आ अधयत् । निम्नात्सोदकानि जगत्पायत इत्यर्थः [?] ॥
+
+> *ṛtasyodakasya dohanā dhārā yonāvutpattisthāne devasya sadane dyotamānasyāgneḥ [?] sthāne parivṛtāstadṛṣṭibhiḥ [?] parito vyāptāḥ satyo 'bhyanūṣata [?] | abhinavā bhavanti | abhinūyante stūyante vā | kadaitadāheti [?] | yadā apāmupasthe udakānāmutsaṅge [?] vibhṛtaḥ viśeṣeṇa tābhirdhāryamāṇaḥ san āvasat ākramya nivasatyayam [?] | atha tadānīṃ svadhāḥ amṛtasamā [?] … sarvo lokaḥ viśeṣeṇa [?] yābhiḥ saheyate 'mṛtaṃ saṃ gacchate vā bhūmiṃ ā adhayat | nimnātsodakāni jagatpāyata ityarthaḥ [?] ‖*
+
+---
+
+**Progress note:** Sūkta 143 complete (printed pp. 287–330). **Sūkta 144** (*eti pra hotā*, 7 Ṛks, Agni, Jagatī): printed pp. 330–337 done (Ṛk 1 complete with Special Topics on the Āśvina-śastra legend, *śucipeśasam*, *dhiyam*, *māyayā*, and grammar; Ṛk 2 *abhī ṛtasya dohanā anūṣata* begun: Saṃhitā, Pada and bhāṣya on p. 337). Next: printed p. 338 (PDF 356). Images at 120 dpi in /tmp/v11a (PDF 33–380; recrop 381 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–144; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300, 333–335 and the Brāhmaṇa quotations on pp. 290–293, 309–310, 333–335 read at low confidence; the bhāṣya of Sūkta 143 Ṛks 3–8 and Sūkta 144 Ṛks 1–2 (pp. 302, 306–307, 311, 316, 319, 326, 331–332, 337) largely unread; the English quotations of Müller/Oldenberg/Bloomfield on pp. 322–324 copied as printed; grammar pages read at low confidence (esp. pp. 326, 329–330); the Anukramaṇīs of Sūktas 143–144 (pp. 287, 330) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
