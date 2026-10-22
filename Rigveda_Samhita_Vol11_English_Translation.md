@@ -8388,4 +8388,162 @@ The Nirukta author reads the word *kuvit* among the names of "many" (Ni. 3-[?]):
 
 ---
 
-**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–319 done (Ṛks 1–6 complete; Ṛk 7 *ghṛtapratīkaṃ va ṛtasya dhūrṣadam*: Saṃhitā, Pada and bhāṣya on p. 319; its Pratipadārtha, Bhāvārtha, English and Special Topics follow on p. 320). Next: printed p. 320 (PDF 338). Images at 120 dpi in /tmp/v11a (PDF 33–340; recrop 341 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–7 (pp. 302, 306–307, 311, 316, 319) largely unread; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+### Printed p. 320  (PDF 338)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+**Pratipadārtha (Kannada).** *samidhānaḥ* — (with fuel) kindling Agni to blaze, the priest; *ghṛtapratīkam* — Agni, of ghee-marked (ghee-faced) form, with offerings of ghee; *vaḥ* — your; *ṛtasya* — of the sacrifice; *dhūrṣadam* — who sits at the yoke and bears the burden of the sacrifice; *agnim* — Agni; *mitraṃ na* — like a friend; *ṛñjate* — adorn and worship; *indhānaḥ* — Agni, who is blazing; *akraḥ* — (filled with fuel, i.e.) satisfied; *videṣu* — at the sacrifices; *dīdyat* — shining of himself; *dhiyam* — our sacrificial wisdom; *śukravarṇām* — the pure, bright act (radiant sacrifice and the like); *ud u yaṃsate* — (Agni) lifts up and brings to completion.
+
+**Bhāvārtha.** The priest, with offerings of ghee and so on, adorns and worships Agni — who carries the burden of the sacrifice at the yoke — like a friend. Agni, blazing, filled with fuel and shining at sacrifices, makes our sacrificial wisdom and the pure, bright rites (of light and the like) complete and brings them to fulfilment.
+
+**English Translation (as printed).** The kindler (of the sacrificial fire) propitiates Agni, of glistening form; the upholder of your ceremony, like a friend; well kindled and well supplied (with fuel); blazing brightly at holy rites, he illumines our pure and pious observances.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***samidhānaḥ*** — इध्मैर्दीपयमानः (*idhmairdīpayamānaḥ*): "kindling with fuel": the epithet of the priest (*ṛtvij*), who makes Agni blaze with fuel. This word is generally used as an epithet of Agni in the other places too; in the sense of *karmaṇi* (passive) it is also applied. For example —
+
+> स नो रेवत्समिधानः स्वस्तये संददस्वान्रयिमस्मासु दीदिहि ।
+> आ नः कृणुष्व सुविताय रोदसी अग्ने हव्या मनुषो देव वीतये ॥
+
+> *sa no revatsamidhānaḥ svastaye saṃdadasvānrayimasmāsu dīdihi |*
+> *ā naḥ kṛṇuṣva suvitāya rodasī agne havyā manuṣo deva vītaye ‖*
+
+(Ṛ. Saṃ. 3-1-[?].) In this Ṛk also in the same way, and in 4-[?]-[?]; 7-[?]-[?]; 8-[?]-[?] and the like, in all of these the epithet *asmābhiḥ samyag-idhyamānaḥ sann*, "being well kindled by us" is applied to Agni. But in the Ṛk in hand alone, it is an epithet of the priest, who is the doer of the act.
+
+---
+
+### Printed p. 321  (PDF 339)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+***dhūrṣadam*** — धुरि निर्वहणे सीदन्तं यज्ञनिर्वाहकमग्निम् (*dhuri nirvahaṇe sīdantaṃ yajñanirvāhakamagnim*): "who sits at the yoke, that is, in the carrying through; the Agni who carries the sacrifice through". In the work of carrying through the sacrifice, "he takes the leading position": thus Agni's power and his main place in sacrificial work are shown. This epithet, like the other epithets, is used for another sense also in the Ṛk 1-[?]-[?] [?]; see that sūkta.
+
+> यज्ञेन वर्धत जातवेदसमग्निं यजध्वं हविषा तना गिरा ।
+> समिधानं सुप्रयसं स्वर्णरं द्युक्षं होतारं वृजनेषु धूर्षदम् ॥
+
+> *yajñena vardhata jātavedasamagniṃ yajadhvaṃ haviṣā tanā girā |*
+> *samidhānaṃ suprayasaṃ svarṇaraṃ dyukṣaṃ hotāraṃ vṛjaneṣu dhūrṣadam ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In this Ṛk, "the one who carries the sacrificial yoke (*dhūrṣad*) and the strong (*balasya kartā*)" is explained; "when Agni is lit, the body's strength becomes famous" is another explanation; by this it is shown that Agni is a deity of strength and work. In Ṛ. Saṃ. 10-[?]-[?] too, in *dhūrṣadaṃ dhurṣv…* it is an epithet of the chariot (*ratha*, referring to *dhūrṣadam*), and shows the sense "supported by the chariot-yoke as the wheels' support". In the Ṛk in hand it means "one who has the power of carrying through".
+
+***ghṛtapratīkam*** — the word *pratīka* is generally of the sense "face", but here it is an "organ" (*aṅga*), explained as "shining flame (*dīptajvāla*) — bright flame": the meaning is "he who is made shining by an offering of ghee".
+
+*ghṛta* (the word is read among names of water; Ni. 1-[?]); in the contexts the Nirukta authors show the sense of this word as it occurs in the Ṛks.
+
+***akraḥ*** — *jvālāsamidādibhir ākrāntaḥ*, "covered by flames, fuel and so on", or *anākrāntaḥ*, "unattackable": spread over by flames, fuel and so on; or of unobstructed spreading, not overcome by other things. The Nirukta author gives it the name *akra* in the sense of *ākramaṇāt* ("coming upon") (Ni. 6-[?]): by his coming upon enemies. He has shown that it is a name for a hero (Nigh.).
+
+> आक्रो ऽबभ्रिः समिथे महीनां दिव्यश्येनः सूनवे भाऋजीकः [?] ।
+> अदुस्स्रियो जनिता यो जजानापां गर्भो नृतमो यह्वो अग्निः ॥
+
+> *ākro 'babhriḥ samithe mahīnāṃ divyaśyenaḥ sūnave bhāṛjīkaḥ [?] |*
+> *adussriyo janitā yo jajānāpāṃ garbho nṛtamo yahvo agniḥ ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) Citing this Ṛk he compared Agni's power to a *prākāra* (rampart). Or Sāyaṇa explains it as, since *kranta* ("one who has gone across") is not possible, *prākāra* (rampart) is the meaning: as stated above, the sense is the spreading (*prasaraṇa*) of Agni, endowed with unobstructed power.
+
+***videṣu*** — *yajñeṣu*: the places of sacrifices; the meaning is "in the sacrificial places" (*vedasthāna*); and *stotreṣu nimittabhūteṣu*, "when the praises are the cause"; thereby the word *vidatha* is explained by the Nirukta authors. Here ——
+
+---
+
+### Printed p. 322  (PDF 340)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+Among the explanations one is accepted: *yajña, vena* etc. are read among the names of sacrifice (Ni. 3-[?]) and *vidathāni vedanāni* — "the word *vidatha* [means] knowledge" (Ni. 3-[?]) is shown for the word *vidatha*:
+
+> होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥
+
+> *hotā devo amartyaḥ purastādeti māyayā | vidathāni pracodayan ‖*
+
+(Ṛ. Saṃ. 3-27-7 [?].) Citing this Ṛk, it is shown there that it is formed from the root *vid* in the sense of knowledge. Here Sāyaṇa has explained "*vidathāni vedanāni karmāṇi*": the actions which must be understood. As to the derivation of this word, a number of scholars have taken pains and each has given his own particular opinion; and, as each has shown a different derivation of this word and a different meaning, it is to be understood that all those meanings are not fixed. The scholar Max Müller says:
+
+> आमादेषां भियसा भूमिरेजति नौर्न पूर्णा क्षरति व्यथिर्यती ।
+> दूरेदृशो ये चितयन्त एमभिरन्तर्महे विदथे येतिरे नराः ॥
+
+> *āmādeṣāṃ bhiyasā bhūmirejati naurna pūrṇā kṣarati vyathiryatī |*
+> *dūredṛśo ye citayanta emabhirantarmahe vidathe yetire narāḥ ‖*
+
+(Ṛ. Saṃ. 5-59-3.) In explaining this Ṛk he has taken the word *vidathe* to mean "the great sacrificial assembly (*yajña-sabhā*)"; and, giving the explanation of others, he has also indicated the meanings given by the other German scholars to this word. Max Müller's own English as printed:
+
+"Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East. Vol. 32 P. 319-50 [sic]).
+
+It is said that, just as *veda* means "sacred knowledge", so *vidatha* means "a sacred act"; but since it is understood to mean "sacrificial assembly", that is the one finally decided on.
+
+Hermann Oldenberg, the scholar, in his *Vedic Hymns*, in explaining the word *vidatha* in Ṛ. Saṃ. 1-[?]-[?] has given his own opinion; his words are quoted and his opinions then explained:
+
+"On the derivation and meaning of विदथ Various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R.V. V.59,3 (S.B.E.
+
+---
+
+### Printed p. 323  (PDF 341)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 15 [?].)*
+
+Vol. 32 P. 349 sq.) without trying to discuss here all different theories, I proceed to state my own opinion;
+
+I propose to derive विदथ from वि+धा; The Verb वि+धा means 'to distribute, to arrange, to Ordain;' thus the original meaning of विदथ must be like the meaning of विधान, 'distribution, disposition, ordinance'. In V. 3-6, we read विदथेषु अज्मः: this phrase receives its explanation by VII. 66-11 we may call attention also to VI-51-2 within the sphere of the Vedic poets' thoughts, the most prominent example of something most artificially विहित was the sacrifice. यज्ञ and विदथ, 'Sacrifice' and 'ordinance' became nearly synonymous. (III 3-3) ......... finally विदथ seems to mean 'the act of disposing of any business' or the like; this meaning appears, I believe, in some passages like the well-known phrase, बृहद्वदेम विदथे सुवीराः—may we with Valiant men mightily raise our voice at the determining of ordinances. Thus the word विदथ and सभा approach each other in their meaning ; a person influential in council is called both विदथ्य and सभेय."
+
+(Sacred Books of the East. Vol. 46 P. 27.) *(English as printed; the Devanagari words in it and the references are partly legible.)*
+
+The gist of this writing is as follows. The word *vidatha* is formed from the root *dhā* by adding the prefix *vi*. *Vidhā* means "to distribute, to ordain"; the meaning "distribution, regulation" is obtained. It may be taken that *vidatha* and *vidhā* are one in sense. In the Ṛk —
+
+> वयमग्ने वनुयाम त्वोता वसूयवो हविषा बुध्यमानाः ।
+> वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥
+
+> *vayamagne vanuyāma tvotā vasūyavo haviṣā budhyamānāḥ |*
+> *vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasasputra martān ‖*
+
+(Ṛ. Saṃ. 6-5-6 [?].) the words *vidatheṣu āhnām* in this Ṛk and *vi dhāḥ* in
+
+> वि ये दधुः शरदं मासमादहर्यज्ञमक्तुं चादृचम् ।
+> अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत ॥
+
+> *vi ye dadhuḥ śaradaṃ māsamādaharyajñamaktuṃ cādṛcam |*
+> *anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?].) the words *vi dadhuḥ* are, by similarity of meaning, understood to be of the same sense as other words; and *vihita* and *vidatha* [are of the same sense] and the sacrifice ordained by the Śāstra is called *vidatha*. The scholar explains how the meanings "sacrifice" or "sacrificial assembly" came to remain at the end.
+
+By *vidatha* the sense "assembly" is not obtained; the meaning "*gṛha*" (house, home) is correct for domestic matters, say Bloomfield, both Max Müller and Oldenberg, who show faults in the meanings they have given. His opinion is this —
+
+---
+
+### Printed p. 324  (PDF 342)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 143".)*
+
+"The word विदथ contains the root विद् in its ordinary sense of 'get, acquire'. Instead of this, the radical idea underlying the word was generally felt to be 'come-together, 'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approximation of the word to other words for assemblage, especially to सभा with which विदथ was almost identified. We shall see that there are decided points of contact between the words विदथ and सभा but that the contact is that of extreme opposites in a way. विदथ refers to home matters, सभा to public matters.
+
+In the interpretation of a term that figures prominently in the mystic-hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X-85-26, the bride after the wedding ceremony proper, as the newly married couple are about to travel to their new home is addressed with the words 'May Pushan taking thee by the hand lead thee house; may the Asvins lead thee forth on their car. Go to your house in order that thou mayst be mistress of the house'.
+
+Now विदथ here, can but have one meaning, 'household' or something very like it. It certainly cannot refer to anything in the nature of a public gathering similar to the सभा. In the phrase बृहद्वदेम विदथे सुवीराः (R.V. 2-1-16), the word सुवीराः refers to family relations not to public life.
+
+Thus far, it may not be doubted, the word appears in the language of ordinary life. But it is found to a very much greater extent in the sacerdotal sphere; indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice' itself. This is as it should be. In as much as the sacrifice is a private, home affair, it is very natural विदथ the house the premises the establishment, should figure prominently in connection with the sacrifice." *(English as printed; partly legible at this resolution.)*
+
+The summary of this writing is that the meaning "assembly" (*sabhā*) given by some to the word *vidatha* is not right; the meaning, "house", should be taken. In the Ṛks too this usage is noted at more than one place. For example —
+
+> पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्र वहतां रथेन ।
+> गृहान् गच्छ गृहपत्नी यथासो वशिनी त्वं विदथमा वदासि ॥
+
+> *pūṣā tveto nayatu hastagṛhyāśvinā tvā pra vahatāṃ rathena |*
+> *gṛhān gaccha gṛhapatnī yathāso vaśinī tvaṃ vidathamā vadāsi ‖*
+
+(Ṛ. Saṃ. 10-85-26.) in this Ṛk it is evident that Pūṣan and the Aśvins are said to invite her to the house of her husband.
+
+---
+
+### Printed p. 325  (PDF 343)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 16 [?].)*
+
+> ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजन्ति सूरयः ।
+> अस्माञ्चतांश्च प्र हि नेहि वस्य आ बृहद्वयेम विदथे सुवीराः ॥
+
+> *ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjanti sūrayaḥ |*
+> *asmāñcatāṃśca pra hi nehi vasya ā bṛhadvayema vidathe suvīrāḥ ‖*
+
+(Ṛ. Saṃ. 5-10-6 [?].) In this Ṛk also, the word *suvīrāḥ*, "accompanied by good sons and so on" (*śobhanaputrādisahitāḥ*), means the *gṛha*, "house"; but in the household the sacrificial rites were performed; and in this very context it is *yajñagṛha* ("house of sacrifice"). The word *yajña* too is said by Yāska to be a synonym [?]. In this manner the Western scholars have given their individual opinions in great numbers.
+
+Thus *gṛha*, *yajña* and *sabhā* have different senses, and since each is included in all, none of them can be said to be wrong. These meanings are all in Sāyaṇa's commentary itself. For example, in 10-[?]-[?] and 10-[?] the meaning "house" is given; in 10-[?]-[?]; 10-[?]-[?] and in many other Ṛks the meaning "sacrifice"; and the senses "sacrificial house" and "sacrificial assembly" both are obtained.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly).** *ghṛtapratīkam* (*ghṛtāt pratīkaḥ yasya saḥ*, tam; in the *bahuvrīhi* the first member keeps its accent; accusative singular), *dhūrṣadam* (*dhuri sīdati iti dhūrṣat*; the root *ṣadḷ viśaraṇagatyavasādaneṣu*; *satsūdviṣadruhaduhayujavidabhidachidajinīrājām upasargeṣv api kvip* (Pā. Sū. 3-2-61): *kvip* when an *upapada*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the *kṛdanta* keeps its natural accent), *samidhānaḥ* (root *iñdhī dīptau*; *śānac* in the present sense; *anidītāṃ hal…*: loss of the nasal of the *upadhā*; by *cit* the end is *udātta*; in the compound the *kṛdanta*'s natural accent), *ṛñjate* (root *ṛñja bhartsane*; *laṭ*, third person singular; *nighāta* after an *ati…* word), *indhānaḥ* (root *iñdhī dīptau*; *rudhādi*: in the *rudhādi* class *śānac*; *rudhādibhyaḥ śnam* (Pā. Sū. 3-1-78): *śnam* vikaraṇa; since *anudātta* [*śnam*] stands after *ati…* the *tāsyanudāttet* (Pā. Sū. 6-1-186) leaves the root accent) *(continues on p. 326)*.
+
+---
+
+**Progress note:** Sūkta 142 complete (printed pp. 221–286). **Sūkta 143** (*pra tavyasīm*, 8 Ṛks, Agni): printed pp. 287–325 done (Ṛks 1–6 complete; Ṛk 7 *ghṛtapratīkaṃ va ṛtasya dhūrṣadam* complete through its Special Topics (including the long discussion of *vidatha* with Max Müller, Oldenberg and Bloomfield, pp. 322–325); its grammar is begun at the foot of p. 325 and continues on p. 326). Next: printed p. 326 (PDF 344), then Ṛk 8. Images at 120 dpi in /tmp/v11a (PDF 33–380; recrop 381 onward). Open flags: p. 15 header Varga numeral; Sāyaṇa bhāṣya small type largely unread throughout Sūktas 138–143; Bṛhaddevatā verses on pp. 226–227, 234, 237–238, 243, 246, 251, 256, 264, 270, 275–276, 282, 293 and the table on p. 228 read at low confidence; the prose paragraphs on pp. 239, 249–251, 270, 274–277, 283–284, 291, 293–294, 299–300 and the Brāhmaṇa quotations on pp. 290–293, 309–310 read at low confidence; the bhāṣya of Ṛks 3–7 (pp. 302, 306–307, 311, 316, 319) largely unread; the English quotations of Müller/Oldenberg/Bloomfield on pp. 322–324 copied as printed, with their Devanagari words and references partly legible; grammar pages read at low confidence; the Anukramaṇī of Sūkta 143 (p. 287) partly legible; Varga numerals of headers [?]; Ni./Ṛg/Ai. Ār./Brāhmaṇa/Tai. Saṃ. reference numerals; grammar sūtra numbers; several Ṛg, Brāhmaṇa and Upaniṣad quotations partly legible (Sūkta 140 pp. 125, 133, 137, 148–153; Sūkta 141 pp. 160–161, 171, 176, 182–183, 187–189, 193–196, 200–201, 205–211, 214–215); Sūkta 137 and Pīṭhike flags as before. Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
