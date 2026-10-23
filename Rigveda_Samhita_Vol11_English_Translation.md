@@ -17540,4 +17540,138 @@ The sense of this mantra is: by the power of which two deities the atmosphere wa
 
 ---
 
-**Progress note:** Sūkta 156 in progress: Ṛk 3 complete; Ṛk 4 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics) — its grammar page is not yet seen (printed pp. 652–657, PDF 670–675). Next: printed p. 658 (PDF 676) — Ṛk 4 grammar, then Ṛk 5 and the closing of Sūkta 156. Open flags: small-type Brāhmaṇa quotations on pp. 652, 656–657 partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 658  (PDF 676)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+In this way the sacrificial relation between Viṣṇu and Varuṇa, Varuṇa's place beside Viṣṇu, and the equal share of both deities in the sacrificial portion, are shown by the description *rājā varuṇaḥ sacante*.
+
+**taṃ aśvinā** — *tam eva kratuṃ yāgam aśvinau sevete* — "the Aśvins too attend that same sacrifice": that the same Viṣṇu who is the sacrifice is attended by the Aśvins also — the mutual relation of the two at the times of sacrifice is thus told. In the Śatapatha-Brāhmaṇa and elsewhere it is described that at the time of the sacrifice the head of Viṣṇu, who is of the nature of sacrifice, was cut off, that the Aśvins repaired it, and that therefore they too became sharers in the sacrifice.
+
+*(Small-type Brāhmaṇa quotation; many letters doubtful.)*
+
+> देवा ह वै सत्रं निषेदुः । अग्निरिन्द्रः सोमो मखो विष्णुर्विश्वे देवा अनृत्विजोऽश्विभ्याम् [?] । तेषां कुरुक्षेत्रं देवयजनमास । तस्माद्धाहुः कुरुक्षेत्रं देवानां देवयजनमिति [?] । तस्माद्यत्र क्व च कुरुक्षेत्रस्य निगच्छति तदेव मन्यत इदं देवयजनमिति । तद्धि देवानां देवयजनम् । ते [?] श्रियं गच्छेम यशः स्यामान्नादाः स्यामेति ते होचुः । यो नः श्रमेण तपसा श्रद्धया यज्ञेनाहुतिभिर्यज्ञस्योद्चं [?] पूर्वोऽभिगच्छात् तस्मै नः श्रैष्ठ्यं सत्त्वं दद्येति तथेति । तद्विष्णुः प्रथमः प्राप । स देवानां श्रैष्ठ्यमभवत्तस्मादाहुर्विष्णुर्देवानां श्रेष्ठ इति । स यः स विष्णुर्यज्ञः सः । स यः स यज्ञोऽसौ स आदित्यः । स इदं विष्णुर्न शशाक संयन्तुं [?] … स इदं धनुरादायापचक्राम स धनुरार्त्न्या शिर उत्सस्तभ्य तस्थौ तं देवा अनभिपद्यमानाः परिसमन्तं परिण्यविशन्त [?] ता इमं वम्र्यो ऊचुः । इमा वै वम्र्यो यदुपदीका योऽस्मै प्रयच्छेते [?] ऽन्नादमस्मै प्रयच्छेमा प्र धनुस्स [?] … सर्वमन्नाद्यं प्रयच्छेमेति तथेति । तस्मोपरराशये [?] । ज्यामपिजघ्नुस्स्याम्छिन्नायां धनुरार्त्न्या विष्णोरंत्स्य विष्णोः शिरः प्रचिच्छिदतुः ॥
+
+> *devā ha vai satraṃ niṣeduḥ | agnirindraḥ somo makho viṣṇurviśve devā anṛtvijo 'śvibhyām [?] | teṣāṃ kurukṣetraṃ devayajanamāsa | tasmāddhāhuḥ kurukṣetraṃ devānāṃ devayajanamiti [?] | tasmādyatra kva ca kurukṣetrasya nigacchati tadeva manyata idaṃ devayajanamiti | taddhi devānāṃ devayajanam | te [?] śriyaṃ gacchema yaśaḥ syāmānnādāḥ syāmeti te hocuḥ | yo naḥ śrameṇa tapasā śraddhayā yajñenāhutibhiryajñasyodcaṃ [?] pūrvo 'bhigacchāt tasmai naḥ śraiṣṭhyaṃ sattvaṃ dadyeti tatheti | tadviṣṇuḥ prathamaḥ prāpa | sa devānāṃ śraiṣṭhyamabhavattasmādāhurviṣṇurdevānāṃ śreṣṭha iti | sa yaḥ sa viṣṇuryajñaḥ saḥ | sa yaḥ sa yajño 'sau sa ādityaḥ | sa idaṃ viṣṇurna śaśāka saṃyantuṃ [?] … sa idaṃ dhanurādāyāpacakrāma sa dhanurārtnyā śira utsastabhya tasthau taṃ devā anabhipadyamānāḥ parisamantaṃ pariṇyaviśanta [?] tā imaṃ vamryo ūcuḥ | imā vai vamryo yadupadīkā yo 'smai prayacchete [?] 'nnādamasmai prayacchemā pra dhanussa [?] … sarvamannādyaṃ prayacchemeti tatheti | tasmopararāśaye [?] | jyāmapijaghnussyāmchinnāyāṃ dhanurārtnyā viṣṇoraṃtsya viṣṇoḥ śiraḥ pracicchidatuḥ ‖*
+
+(Śa. Brā. 14-1-1-1 to 17 [?], as printed.)
+
+Formerly all the gods except the Aśvins — Indra, Viṣṇu, Soma and the rest — gathered and began a *satra* (long sacrifice) at Kurukṣetra, the sacrificial ground of the gods. Afterwards they desired to be famous and to have plenty of food. Then they decided that whichever of them first completed the sacrifice with all its parts, by toil, by effort and by oblations, should be reckoned the foremost; and Viṣṇu first gained that excellence. …
+
+---
+
+### Printed p. 659  (PDF 677)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+… Viṣṇu, having gained such a supreme station, became the sacrifice in person. Then his pride could not be contained. Taking up his bow with his hundred arrows, he set off; none of the gods dared to oppose him, and they sat stunned. Then ants of the class called *vamrī* came and asked Viṣṇu, "if we bite through the string of this bow, what will you give in return?" He gave the assurance that one with such power would enjoy full wealth of food and would find water even in the desert. Then they gnawed through its string. At once the bent tip of the bow sprang suddenly upward and cut off the head of Viṣṇu, who had laid his head on the bent bow, and carried it away. This is the story of the Śatapatha-Brāhmaṇa; in Tai. Ā. 5-1-[?] [?] it is said that Indra, in the form of the *vamrī*, cut the string. When the gods, seeing that the sacrifice, the very body of Viṣṇu, had been deprived of its head, were grieving, the Aśvins set right the severed head of Viṣṇu; this matter is told in the Taittirīya-Āraṇyaka in this way.
+
+*(Small-type Āraṇyaka quotation; only fragments are legible; read with doubt.)*
+
+> देवा वै सत्रमासत । … यद्धि परिमितं यशस्यामः [?] तेऽब्रुवन् यस्य प्रथमं यशः आयत् [?] … सर्वेषां न प्रतेष्याम सः [?] इति … तेषां मुखं वैष्णवं यश आर्घात् [?] … तस्य सिच्यमानस्य तेजोऽपाक्रामत् [?] … वारेवृत्तं ह्यासा [?] … तस्मै ज्यामप्यादन् कस्य धनुर्विप्रवमानं शिर उदवर्तयेत् तद्व्यावस्थिते अनु प्रावर्तेत यत्र्यावर्तते तत् प्रवर्ग्यस्य प्रवर्ग्यत्वं यद्घर्मं इत्यपतत् तद्घर्मस्य घर्मत्वं महतो वीर्यमपप्तदिति तन्महावीरस्य महावीरत्वं यदेस्याः संभरन्त्स्वराजः सम्प्राप्त्यै [?] तद्ग्र्ह त्रेधा देवतास्ते त्रेधा व्यगृह्णत अग्निः पात्रे सवनम् इन्द्रो माध्यन्दिनं सवनं विश्वे देवास्तृतीयसवनं तेनासौ [?] यज्ञेन यजमाना नाशिषोऽन्वाभुञ्जत न सुवर्गं लोकमभ्यजयन् ते देवा अश्विनावब्रुवन् भिषजौ वै स्थ इदं यज्ञस्य शिरः प्रतिधत्तमिति तावब्रूतां वरं वृणावहै ग्रह एव नावत्रापि गृह्यतामिति ताभ्यामेतमाश्विनमगृह्णन् तावेतद्यज्ञस्य शिरः प्रत्यधत्तां यत्प्रवर्ग्यः तेन सेर्ष्णा यज्ञेन यजमाना आवाश्विनोराप्ते … अभि सुवर्गं लोकं जयति तस्मादेष अश्विनोः प्रवया इव यत्प्रवर्ग्यः ॥
+
+> *devā vai satramāsata | … yaddhi parimitaṃ yaśasyāmaḥ [?] te 'bruvan yasya prathamaṃ yaśaḥ āyat [?] … sarveṣāṃ na prateṣyāma saḥ [?] iti … teṣāṃ mukhaṃ vaiṣṇavaṃ yaśa ārghāt [?] … tasya sicyamānasya tejo 'pākrāmat [?] … vārevṛttaṃ hyāsā [?] … tasmai jyāmapyādan kasya dhanurvipravamānaṃ śira udavartayet tadvyāvasthite anu prāvarteta yatryāvartate tat pravargyasya pravargyatvaṃ yadgharmaṃ ityapatat tadgharmasya gharmatvaṃ mahato vīryamapaptaditi tanmahāvīrasya mahāvīratvaṃ yadesyāḥ saṃbharantsvarājaḥ samprāptyai [?] tadgrha tredhā devatāste tredhā vyagṛhṇata agniḥ pātre savanam indro mādhyandinaṃ savanaṃ viśve devāstṛtīyasavanaṃ tenāsau [?] yajñena yajamānā nāśiṣo 'nvābhuñjata na suvargaṃ lokamabhyajayan te devā aśvināvabruvan bhiṣajau vai stha idaṃ yajñasya śiraḥ pratidhattamiti tāvabrūtāṃ varaṃ vṛṇāvahai graha eva nāvatrāpi gṛhyatāmiti tābhyāmetamāśvinamagṛhṇan tāvetadyajñasya śiraḥ pratyadhattāṃ yatpravargyaḥ tena serṣṇā yajñena yajamānā āvāśvinorāpte … abhi suvargaṃ lokaṃ jayati tasmādeṣa aśvinoḥ pravayā iva yatpravargyaḥ ‖*
+
+(Tai. Ā. 5-1-1 to 7 [?], as printed.)
+
+As in the story quoted above from the Śatapatha-Brāhmaṇa, after the cutting of the head of Viṣṇu, who is the sacrifice, they divided the fallen sacrificial vessel into three portions. Then Agni took the morning pressing, Indra the midday pressing, and the Viśvedevas the third pressing. But …
+
+---
+
+### Printed p. 660  (PDF 678)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+… by that sacrifice [without the head] neither welfare nor heaven was gained by them. Then the gods said to the Aśvins, "since you are the physicians of the gods, join again this severed head of the sacrifice"; they answered, "if here also we may get a share of the Soma-oblation, we shall join the head to the body." The gods agreed, and they joined the severed head of Viṣṇu, who is the sacrifice, and became entitled to a share in the sacrifice: so it is said.
+
+Thus, since the Aśvins from the very creation are guardians of the sacrifice, the Ṛk tells that *aśvinā kratuṃ sacante*: the Aśvins also attend, or attended, this sacrifice.
+
+**mārutasya vedhasaḥ** — *marutām ṛtvijāṃ saṃbandhinaḥ athavā marutāṃ devānāṃ saṃbandhino yajamānasya* — "of the sacrificer who is connected with the Maruts, the priests, or with the Maruts, the gods": for the word *mārutasya* two senses are given, the sacrificer who is kin to the priests, or the sacrificer who is kin to the gods. The Nirukta-author has read the word *marut* among the names of priests (3-18 [?]) and among the names of gold (1-10 [?]). But if the name well known as "Marut-deities" gives the sense of priests, gold, and (generally, in the Vedas) of gods, then it is somewhat laborious to find the root of this word, how the derivation is possible in each way, and what the sense of the word is when it is said to mean the Marut deities. Since the word is used in the hymns to the Maruts, the Nirukta-author has stated the following derivation for it:
+
+> मरुतो मितराविणो वा मितरोचिनो वा महद्द्रवन्तीति वा ।
+
+> *maruto mitarāviṇo vā mitarocino vā mahaddravantīti vā |*
+
+(Ni. 11-13 [?], as printed.)
+
+— "because they sound in a regulated way, or because they shine with regulated splendour, or because they run swiftly": this name, [Yāska says,] citing the Ṛk 1-86 [?], tells the nature of the Maruts.
+
+Max Müller, discussing the need of giving a proper derivation of this word in its various senses, says:
+
+"Marut or Maruta in Orninary [sic] Sanskrit mean wind, and more particularly a strong wind, differing by its violent character from Vayu or Vata. Nor do the hymns themselves leave us in any doubt as to the natural phenomena with which the Maruts are identified. Storms which root up the trees of the forest, lightning, thunder and showers of rain are the background from which the Maruts in their personal and dramatic character rise
+
+---
+
+### Printed p. 661  (PDF 679)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+before our eyes. In most of the later native dictionaries, in the Medini, Visva, Hemachandra, Amara, Anekarthadhvanimanjari, Marut is given as a synonym of Deva, or God in general, and so is Maru in Pali.
+
+But, while the hymns addressed to the Maruts enable us to watch the successive stages in the development of so called deities more clearly than any other hymns, there is no doubt one drawback, namely, the uncertainty of the etymology of Marut … No better etymology having been proposed, I still maintain that the derivation of Marut from mṛ to pound, to smash, is free from any objection and that the original conception of the Maruts was that of crushing, smashing, striking, tearing, destroying storms".
+
+(The Vedic Hymns. Screrd [sic] Books of the East. Vol. XXXII—P. XXIV.)
+
+Having stated the opinions of Kuhn and other Western scholars [the sūktas addressed to the Maruts will discuss these views in detail], and finally having pointed out their defects, he has stated his own view in the above sentences: that the word *marut*, formed from the root *mṛ*, "to injure", is a special power that splits trees. It may be known that the word *marut* is also used for the Ṛks relating to Soma and for the priests [?]. Since the Nirukta-author tells the name as "of those who shine, *mitarāviṇaḥ* or *mitarocinaḥ*", and since this quality belongs to the gods and to gold, this name may have become well known [?].
+
+In the present Ṛk: **marutāṃ ṛtvijāṃ saṃghāto mārutaṃ tadvataḥ** — "the group of priests is *māruta*; of the one connected with them" — the sacrificer connected with the priests; or, **marutāṃ devānāṃ saṃbandhino vā**, the sacrificer connected with the gods. Since it is by the sacrificer's activity that the priests get their place in the sacrificial action, he is connected with the priests; or since it is by the sacrificial action of the sacrificer that the gods get the oblations, he is the close kinsman of the gods. Therefore either sense can be given.
+
+**vedhasaḥ** — *medhāvinaḥ asya yajamānasya*: "of this wise sacrificer". This word is read among the names of the wise (Ni. 3-15 [?]), and in this Ṛk it is used as a synonym of sacrificer. [In the preceding Ṛk (1-156-2) it was said that it means "creator".]
+
+**vrajaṃ** — *vrajanty antarikṣe* — "because it moves in the atmosphere": this is the name for the cloud (Ni. 6-2 [?]).
+
+---
+
+### Printed p. 662  (PDF 680)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+**aharvidam** — *ahar vettāraṃ* — "finder of the day": "producing heaven"; *dakṣaḥ* — that is, he bore power: thus the greatness of Viṣṇu is praised. Besides the sense given above, Sāyaṇa has explained this Ṛk in another way too, saying that *vedhasaḥ* means not the sacrificer but Viṣṇu the creator:
+
+> यद्वा । मारुतस्य मरुत्संघातरूपस्य देवगणस्य वेधसो विधातुः स्रष्टुर्विष्णोः क्रतुं कर्म पालनादिरूपं वरुणादयः सचन्ते । तदेवाह्रत्वा [?] शालनस्य [?] । स च सखिवानिन्द्रमरुदादिसहायोपेतः सन् दक्षं वृष्ट्युत्पादनादिसामर्थ्यरूपं बलं दाधार ।
+
+> *yadvā | mārutasya marutsaṃghātarūpasya devagaṇasya vedhaso vidhātuḥ sraṣṭurviṣṇoḥ kratuṃ karma pālanādirūpaṃ varuṇādayaḥ sacante | tadevāhratvā [?] śālanasya [?] | sa ca sakhivānindramarudādisahāyopetaḥ san dakṣaṃ vṛṣṭyutpādanādisāmarthyarūpaṃ balaṃ dādhāra |*
+
+— the gods, Varuṇa and others, attend the work in the form of world-preservation of Viṣṇu, the creator, connected with the host of gods in the form of the host of Maruts; and Viṣṇu, with the help of Indra, the Maruts and others, bore the power in the form of ability to produce rain and so on: thus he explains the sense of the Ṛk a second time.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; noted briefly).** *rājā* (root *rājṛ dīptau*; *kanin yuvṛṣi…* (Uṇ. Sū. 1-156) *kanin*; *nit*: first *udātta*); *aśvinā* (*supāṃ sulug* (Pā. Sū. 7-1-39) *ā* for the ending); *sacante* (root *ṣaca samavāye*; *dhātvādeḥ ṣaḥ saḥ* *sa*-substitution; *laṭ* 3rd pl., *jha* → *anta*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aḍ*; *nighāta*); *mārutasya* (*marutāṃ samūhaḥ mārutam*; *aṇ*; *ādivṛddhi*; with *tasya asti* intended, *matup* with Vedic *luk*); *dādhāra* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* 3rd sg.; at the head of the *pāda*, no *nighāta*; since *ṇal* is *lit*, *udātta* before the suffix); *aharvidam* (root *vida jñāne*; *kvip ca*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) *kṛdutarapada* accent; accusative sg.) …
+
+---
+
+### Printed p. 663  (PDF 681)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly.)* *sakhivān* (*sakhā asya asti iti sakhivān*; *chandasīvanipau* — *vanip* in the sense of *matup*; being *pit* it is *anudātta*; since *upa* [?] an *ac* follows, *dīrghād aṭi samānapāde* (Pā. Sū. 8-3-9) *ru* for *n*; *āto 'ṭi nityam* (Pā. Sū. 8-3-3) the preceding *ā* becomes nasalised in the Saṃhitā); *apornute* (root *ūrṇuñ ācchādane*; *adādi*; *laṭ* 3rd sg.; since *ca* is connected, no *nighāta*; by the suffix accent, final *udātta*; *tiṅ codāttavati* (Pā. Sū. 6-1-[?]) the *gati* (*apa*) takes the *nighāta* accent). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आ यो विवाय सचथाय दैव्य इन्द्राय विष्णुः सुकृते सुकृत्तरः ।
+> वेधा अजिन्वत्त्रिषधस्थ आर्यमृतस्य भागे यजमानमाभजत् ॥ ५ ॥
+
+> *ā yo vivāya sacathāya daivya indrāya viṣṇuḥ sukṛte sukṛttaraḥ |*
+> *vedhā ajinvattriṣadhastha āryamṛtasya bhāge yajamānamābhajat ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । यः । विवाय । सचथाय । दैव्यः । इन्द्राय । विष्णुः । सुऽकृते । सुकृत्ऽतरः ।
+> वेधाः । अजिन्वत् । त्रिऽसधस्थः । आर्यम् । ऋतस्य । भागे । यजमानम् । आ । अभजत् ॥ ५ ॥
+
+> *ā | yaḥ | vivāya | sacathāya | daivyaḥ | indrāya | viṣṇuḥ | su 'kṛte | sukṛt 'taraḥ |*
+> *vedhāḥ | ajinvat | tri 'sadhasthaḥ | āryam | ṛtasya | bhāge | yajamānam | ā | abhajat ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: Viṣṇu, the divine, best of doers of good, comes to Indra the doer of good, delights the sacrificer, and gives him a share in the sacrifice. Small type, read with doubt; continues on the next page.)*
+
+> यो विष्णुर्दैव्यो दिवि भवः सुकृत्तरः शोभनफलप्रदानां मध्ये श्रेष्ठः आ विवाय । आगच्छति । वेतेर्लिटि रूपम् । किमर्थम् । सचथाय सचनाय योगसहायकरणाय । कस्मै । इन्द्राय । इरां हविर्लक्षणमन्नं प्रापयतीतीन्द्रो यजमानः । इन्द्रः इरां द्रवतीति इदं करणः [?] । दित्याग्रयणे [?] इति यास्कोक्तनिर्वचनात्सापि सद्यावात् [?] । तस्मा उत्कृष्टरूपाय यजमानाय सुकृते शोभनस्तुतिकर्त्रे । आगत्य च वेधा अभिमतफलविधाता त्रिषधस्थः त्रिसप्तसंस्थोपेतसदस्थानवान् [?] । सवनत्रयस्थानः [?] त्रित्वादिस्थानत्रयो वा विष्णुः । आर्यमाणं [?] संतेव्यं यजमानमजिन्वत् । प्रीणयति ॥ जिवि प्रीणने [?] …
+
+> *yo viṣṇurdaivyo divi bhavaḥ sukṛttaraḥ śobhanaphalapradānāṃ madhye śreṣṭhaḥ ā vivāya | āgacchati | veterliṭi rūpam | kimartham | sacathāya sacanāya yogasahāyakaraṇāya | kasmai | indrāya | irāṃ havirlakṣaṇamannaṃ prāpayatītīndro yajamānaḥ | indraḥ irāṃ dravatīti idaṃ karaṇaḥ [?] | dityāgrayaṇe [?] iti yāskoktanirvacanātsāpi sadyāvāt [?] | tasmā utkṛṣṭarūpāya yajamānāya sukṛte śobhanastutikartre | āgatya ca vedhā abhimataphalavidhātā triṣadhasthaḥ trisaptasaṃsthopetasadasthānavān [?] | savanatrayasthānaḥ [?] tritvādisthānatrayo vā viṣṇuḥ | āryamāṇaṃ [?] saṃtevyaṃ yajamānamajinvat | prīṇayati ‖ jivi prīṇane [?] …*
+
+---
+
+**Progress note:** Sūkta 156 in progress: Ṛk 4 complete (Special Topics and grammar); Ṛk 5 Saṃhitā, Pada and the start of the bhāṣya done (printed pp. 658–663, PDF 676–681). Next: printed p. 664 (PDF 682) — rest of Ṛk 5 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then the closing line of Sūkta 156 (the last Ṛk) and the start of Sūkta 157 if it begins on that page. Open flags: the long small-type Śatapatha (p. 658) and Taittirīya-Āraṇyaka (p. 659) quotations only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
