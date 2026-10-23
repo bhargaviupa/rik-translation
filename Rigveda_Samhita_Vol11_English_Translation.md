@@ -1394,7 +1394,7 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 > *yena chandasā stoṣyan syāttacchanda upadhāvedyena stomena stoṣyamāṇaḥ syāttaṃ stomamupadhāvet |*
 
-(Chā. Up. 1-3-10.) By this sentence, describing the greatness of the *udgītha*, it is ordained that one should meditate on that *stoma* by which, being of the right qualities, the *stotra* becomes complete. In the same way, in the sūkta at hand, *stomebhiḥ* means a *stotra* that is of the nature of song and gives exceeding benefit.
+(Chā. Up. 1-3-10.) By this sentence, describing the greatness of the *udgītha*, it is ordained that one should meditate on that *stoma* by which, as suited to each occasion, the *stotra* becomes complete. In the same way, in the sūkta at hand, *stomebhiḥ* means a *stotra* that is of the nature of song and gives exceeding benefit.
 
 ### Printed p. 53  (PDF 71)
 
