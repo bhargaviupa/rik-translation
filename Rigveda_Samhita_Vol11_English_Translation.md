@@ -14529,4 +14529,164 @@ Then, in Kannada: "Besides the VI. 36-1 [sic: as printed, for IV. 36-1] Ṛk quo
 
 ---
 
-**Progress note:** Sūkta 153 in progress: Ṛk 1 complete; Ṛk 2 under way (printed pp. 547–552, PDF 565–570; Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; the Special Topics on *prastuti*/*prastāva* with long Aitareya-Brāhmaṇa and Chāndogya-Upaniṣad quotations continue on p. 553). Next: printed p. 553 (PDF 571). Open flags: the Brāhmaṇa/Upaniṣad quotations on pp. 549–552 are transcribed at low confidence (many `[?]`); small-type bhāṣya partly unread; reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 553  (PDF 571)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Special Topics of Ṛk 2, continued; the Chāndogya-Upaniṣad quotation. The dots are as printed.)*
+
+> अभिमन्थति स हिंकारो धूमो जायते स प्रस्तावः …. । स य एवमेतद्रथन्तरमग्नौ प्रोतम् ।
+
+> *abhimanthati sa hiṃkāro dhūmo jāyate sa prastāvaḥ …. | sa ya evametadrathantaramagnau protam |*
+
+> उपमन्त्रयते स हिंकारो ज्ञपयते स प्रस्तावः …. । स य एवमेतद्वामदेव्यं मिथुने प्रोतम् ।
+
+> *upamantrayate sa hiṃkāro jñapayate sa prastāvaḥ …. | sa ya evametadvāmadevyaṃ mithune protam |*
+
+> उद्यन्हिंकार उदितः प्रस्तावः …. । स य एवमेतद्वैरूपमादित्ये प्रोतम् ।
+
+> *udyanhiṃkāra uditaḥ prastāvaḥ …. | sa ya evametadvairūpamāditye protam |*
+
+> त्रयी विद्या हिंकारस्त्रय इमे लोकाः स प्रस्तावोऽग्निर्वायुरादित्यः स उद्गीथो नक्षत्राणि वयांसि मरीचयः स प्रतिहारः सर्पा गन्धर्वाः पितरस्तन्निधनमेतत्साम सर्वस्मिन् प्रोतम् । स य एवमेतत्साम सर्वस्मिन् प्रोतं वेद सर्वं ह भवति ॥
+
+> *trayī vidyā hiṃkārastraya ime lokāḥ sa prastāvo 'gnirvāyurādityaḥ sa udgītho nakṣatrāṇi vayāṃsi marīcayaḥ sa pratihāraḥ sarpā gandharvāḥ pitarastannidhanametatsāma sarvasmin protam | sa ya evametatsāma sarvasmin protaṃ veda sarvaṃ ha bhavati ‖*
+
+(Chā. U. 2-3 to 21 [?], as printed "भा. उ. २-३ರಿಂದ ೨೧".) The *gāyatrī-sāman*, interwoven in the breaths, has speech [as its *prastāva*]; the *rathantara* interwoven in fire has smoke; the *vāmadevya* interwoven in union has prayer; the *bṛhat* interwoven in the sun has the risen sun; …… and so the *sāman* pervading the whole universe has fire, wind and the sun (earth, atmosphere and the heaven-world) as its *prastāva*s. This is the greatness of *prastāva*.
+
+In this way, the mere praise that reflects the very principle of the universe, that must be recited by the *prastotṛ*, and that is the chief help at the start of the rite, is called *prastuti* in the present Ṛk. But whatever the greatness of this *prastuti*, if *prayukti* is not completed with it, then the result is not merely that it is futile: as was said above, "the deity on whom the *prastāva* depends — if you chant it without knowing her, your head will fall off". Where the *prastāva* is closely linked with a deity, if one lacks knowledge of that deity, the head of the reciter will burst and fall off. Likewise here too it is generally said that *prastuti* to be recited with *prayukti* is useless [without it]; but to show that even the mere recital of *prastuti* addressed to Mitra-Varuṇa has extraordinary power, the Ṛk says that, though there is no *prayukti*, "I attain your radiant abode (*vāṃ dhāma ayāmi*)".
+
+**प्रयुक्तिः** — *prayuktiḥ kṛtsnaprayogaḥ*: the complete performance. Knowing the individual places of the mantras recited at the several times of the rite, and likewise their mutual relations, and performing the rite harmoniously with all of them, so that the rite is brought to perfection, is called *prayukti*. The purport is the completion of the rite as prescribed. Otherwise, the Ṛk says clearly that merely individual recitations of separate mantras bring no benefit. In the *Praśna-Upaniṣad* too, when the greatness of *om* is told,
+
+---
+
+### Printed p. 554  (PDF 572)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+> तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्योन्यसक्ता अनविप्रयुक्ताः [?] ।
+> क्रियासु बाह्याभ्यन्तरमध्यमासु सम्यक्प्रयुक्तासु न कम्पते ज्ञः ॥
+
+> *tisro mātrā mṛtyumatyaḥ prayuktā anyonyasaktā anaviprayuktāḥ [?] |*
+> *kriyāsu bāhyābhyantaramadhyamāsu samyakprayuktāsu na kampate jñaḥ ‖*
+
+(Praśna-U. 5-6 [?].) These three *mātrās* (*a*, *u*, *m*), if used separately one after the other, without understanding their mutual relation, bring harm. Only when unity is achieved in the outer rites, the inner rites, the rites between the two, and in inner meditations and outer practices, does the knower who has understood their greatness not tremble; thus in the present Ṛk too *prayuktiḥ* means *kṛtsnaprayogaḥ* — rite performed, or being performed, in full perfection.
+
+**धाम** — *tejaḥsthānam*: of the many meanings of *dhāman* mentioned earlier, here "the radiant, happy abode of Mitra-Varuṇa".
+
+**अनक्ति** — two meanings are given for this word. First, *haviṣā āgacchati; homaṃ karoti* — "he comes with the oblation; performs the *homa*"; second, *hotā śastrādinā vāṃ anakti vyañjayati* — "the *hotṛ* proclaims your qualities with *śastra*s and the like and makes your nature shine forth".
+
+**सूरिः** — *yuṣmanmāhātmyavit*: one who knows your greatness. The word *sūri* is used to show this excellent knowledge; it is read among the names of praisers, *rebha*, *jaritā*, *kāruḥ* etc. (Ni. 3-16 [?]) … In many places the word *sūri* is used where the sense "learned, discerning, wise" is meant. When it is used of the sages who have the supernatural sight, both of the eye and of the mind, to grasp the nature of the gods and the hidden principles of the universe, the epithet gives a special meaning.
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः ।
+> दिवीव चक्षुराततम् ॥
+
+> *tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ |*
+> *divīva cakṣurātatam ‖*
+
+(Ṛ. Saṃ. 1-22-20.) In such places it indicates not merely praising but the extraordinary power of sight of the sages. Other meanings of this word were explained earlier in detail.
+
+**इयक्षन्** — *yāgaṃ kartum icchan*: wishing to perform the sacrifice.
+
+---
+
+### Printed p. 555  (PDF 573)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā". Grammar of Ṛk 2, noted briefly.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly).** *prastutiḥ* (root *ṣṭuñ stutau*; *striyāṃ ktin* (Pā. Sū. 3-3-94) *ktin* in the sense of action; *tādau ca niti* (Pā. Sū. 6-2-50) the *gati* keeps its accent); *prayuktiḥ* (root *yujir yoge*; *ktin* as before; *kṛdutarapada*-accent overridden by the earlier *gati* accent); *ayāmi* (root *ayi gatau*; by *vyatyaya*, *parasmaipada*; *laṭ* 1st sg.; at the head of the *pāda*, so no *nighāta*; *śap*-*anudātta*, the root accent stays); *suvṛktiḥ* (root *vṛjī varjane*; *ktin*; *coḥ kuḥ* (Pā. Sū. 8-2-30) *kutva*, *cartva*; the *kṛdutara* member keeps the stem accent); *anakti* (root *añjū vyaktimrakṣaṇakāntigatiṣu*; *laṭ* 3rd sg. *tip*; *rudhādibhyaḥ śnam* (Pā. Sū. 3-1-78) *śnam* suffix; *midaco 'ntyāt paraḥ* (Pā. Sū. 1-1-47) it comes after the last vowel; *śnānnalopaḥ* (Pā. Sū. 6-4-23) loss of the nasal of the root; *coḥ kuḥ* — *kutva* for *j*; *cartva*, *anakti*; at the head of the *pāda*, no *nighāta*; the suffix accent remains); *videṣu* [as printed; = *vidatheṣu*] (root *vida jñāne*; *athan* suffix; *kit* by *atideśa*, so no guṇa; suffix first *udātta*); *sūriḥ* (root *sūja prāṇiprasave*; *sūjer ṛ* (Uṇ. Sū. 4-[?]) *ri* suffix, *kit*, so no guṇa; suffix accent: final *udātta*); *iyakṣan* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yuṣmaṃ icchati iyakṣati* [reading uncertain]; *san*, *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. Sū. 3-1-7); *san-yaṅoḥ* doubling; *bahulaṃ chandasi*: *sanmūlāt laṭ* [?]; *śatṛ* in the sense of *laṭ*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> पीपाय धेनुरदितिरृताय जनाय मित्रावरुणा हविर्दे ।
+
+> *pīpāya dhenuraditirṛtāya janāya mitrāvaruṇā havirde |*
+
+---
+
+### Printed p. 556  (PDF 574)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+**॥ संहितापाठः ॥** *(continued)*
+
+> हिनोति यद्वां विदथे सपर्यन्त्स रातहव्यो मानुषो न होता ॥ ३ ॥
+
+> *hinoti yadvāṃ vidathe saparyantsa rātahavyo mānuṣo na hotā ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> पीपाय । धेनुः । अदितिः । ऋताय । जनाय । मित्रावरुणा । हविःऽदे ।
+> हिनोति । यत् । वाम् । विदथे । सपर्यन् । सः । रातऽहव्यः । मानुषः । न । होता ॥ ३ ॥
+
+> *pīpāya | dhenuḥ | aditiḥ | ṛtāya | janāya | mitrāvaruṇā | haviḥ 'de |*
+> *hinoti | yat | vām | vidathe | saparyan | saḥ | rāta 'havyaḥ | mānuṣaḥ | na | hotā ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: may the cow be filled with abundant milk for the sacrificer who offers you oblation, as Rātahavya, honouring you, gladdens you at the sacrifice as a human priest would. Small type, read with doubt.)*
+
+> हे मित्रावरुणा मित्रावरुणौ ऋताय युष्मत्संबन्धियज्ञाय हविर्दे हविषो दात्रे [?] । आतो मनिन्क्वनिब्वनिपश्च [?] इति विच् । आतो धातोरित्यात्वलोपः [?] । जनाय यजमानाय च धेनुः प्रीणयित्री गौरदितिरदीना बहुक्षीरा सती पीपाय । क्षीरेण पुनः पुनराप्यायताम् । स्पायतेराशिषि प्रार्थनायां लिट् । लिट्यभ्यासस्य [?] इति पीभावः । पयसा दीप्तिमद्विष्णुं [?] यज्ञं [?] ... यदा हिनोति प्रीणाति । कस्मिन्काले इति चेत्तत्राह । यद्वा । स प्रसिद्धो रातहव्यः एतन्नामा राजा सपर्यन् स्तुत्या पूजयन् मानुषो होता न मनुष्यस्य यजमानस्य संबन्धी होतेव ऋत्विगिव [?] विदथे यज्ञे वां हिनोति हविरादिना प्रीणयति तदा पीपायेत्याह ॥
+
+> *he mitrāvaruṇā mitrāvaruṇau ṛtāya yuṣmatsaṃbandhiyajñāya havirde haviṣo dātre [?] | āto maninkvanibvanipaśca [?] iti vic | āto dhātorityātvalopaḥ [?] | janāya yajamānāya ca dhenuḥ prīṇayitrī gauraditiradīnā bahukṣīrā satī pīpāya | kṣīreṇa punaḥ punarāpyāyatām | spāyaterāśiṣi prārthanāyāṃ liṭ | liṭyabhyāsasya [?] iti pībhāvaḥ | payasā dīptimadviṣṇuṃ [?] yajñaṃ [?] ... yadā hinoti prīṇāti | kasminkāle iti cettatrāha | yadvā | sa prasiddho rātahavyaḥ etannāmā rājā saparyan stutyā pūjayan mānuṣo hotā na manuṣyasya yajamānasya saṃbandhī hoteva ṛtvigiva [?] vidathe yajñe vāṃ hinoti havirādinā prīṇayati tadā pīpāyetyāha ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *mitrāvaruṇā* — O Mitra-Varuṇa; *yat* — when; *saḥ rātahavyaḥ* — the well-known king named Rātahavya; *saparyan* — worshipping with praise; *mānuṣa hotā na* — like a *hotṛ*-priest belonging to a human sacrificer; *vidathe* — at the sacrifice; *vām* — you two; *hinoti* — gladdens (by offering oblations and the like), (then) *ṛtāya* — for the sacrifice; *havirde* — for the sacrificer who offers the oblation; *janāya* — [for the person]; *dhenuḥ* — the cow; *aditiḥ* — with abundant milk; *pīpāya* — may she be filled (with that milk).
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, as the well-known King Rātahavya, worshipping you with praise, gladdens you at the sacrifice with oblations and the like like a *hotṛ*-priest, so may the cow that helps him in the work be filled with abundant milk.
+
+---
+
+### Printed p. 557  (PDF 575)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**English Translation (as printed).** Let the productive milch cow, Mitra and Varuna, furnish abundant nutriment to the pious man who presents you with oblations, as when Ratahavya, glorifying you, propitiates [sic: "propiitates"] you iu [sic: in] the solemnity, like the ministrant priest of a man (who institutes the rite).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **रातहव्यः** — generally the word *rātahavya* is formed from the root *rā*, "to give", and means "one by whom the oblation has been given", an epithet either of the sacrificer who has offered the oblation or of the deities to whom it has been offered. In the present Ṛk *etannāmā rājā* — "a king of this name" — is the explanation. There is not enough authority to know this person's story properly. It is said that the sage Rātahavya is the seer of the sixty-first and sixty-fifth sūktas of the fifth maṇḍala: "*rātahavyasyātreyasyārṣaṃ maitrāvaruṇam*" — so say the commentators, who state that it was composed by the sage Rātahavya, an Ātreya.
+
+> ता वामेषे रथानामुर्वीं गव्यूतिमेषाम् ।
+> रातहव्यस्य सुष्टुतिं दधृक् स्तोमैर्मनामहे ॥
+
+> *tā vāmeṣe rathānāmurvīṃ gavyūtimeṣām |*
+> *rātahavyasya suṣṭutiṃ dadhṛk stomairmanāmahe ‖*
+
+(Ṛ. Saṃ. 5-6[?]-3 [?].) In this Ṛk the sage mentions his own name and shows his devotion.
+
+> कस्मा अद्य सुजाताय रातहव्याय प्र ययुः ।
+> एना यमेन मरुतः ॥
+
+> *kasmā adya sujātāya rātahavyāya pra yayuḥ |*
+> *enā yamena marutaḥ ‖*
+
+(Ṛ. Saṃ. 5-61-1.) In such passages the meaning is *dattahaviṣka*, "one who has given oblation".
+
+**विदथे** — the derivation of the word *vidatha* and its various meanings have been explained in the special topics of Ṛk 1-193 of this same part [as printed; pp. 331–334]. Here *vidathe* — *yajñe* — "in the sacrifice".
+
+**अदितिः** — "possessed of fullness without deficiency" is the meaning; the derivation and the like of this word were told before.
+
+**पीपाय** — *kṣīreṇa punaḥ punar āpyāyatām*: "let her be filled again and again with milk." The prayer is that, by abundantly filling herself with milk, she may satisfy the sacrifice that has to be performed with milk and also the sacrificer, who looks to her for the oblation. The word indicates both senses: growth, and the satisfaction arising from it.
+
+---
+
+### Printed p. 558  (PDF 576)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+> पीपाय स श्रवसा मर्त्येषु यो अग्नये ददाश विप्र उक्थैः ।
+> चित्राभिस्तमूतिभिश्चित्रशोचिर्व्रजस्य साता गोमतो दधाति ॥
+
+> *pīpāya sa śravasā martyeṣu yo agnaye dadāśa vipra ukthaiḥ |*
+> *citrābhistamūtibhiścitraśocirvrajasya sātā gomato dadhāti ‖*
+
+(Ṛ. Saṃ. 6-10-3 [?].) In all such Ṛks both these meanings are suggested; so in the present Ṛk too the abundance of milk in the cows, and thereby the joy of the sacrificer and others, are indicated.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; noted briefly).** *pīpāya* (root *oyāi vṛddhau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *liṭ* in the sense of *loṭ*; 3rd sg. *ṇal*; *parasmaipadānāṃ ṇalatusus…* (Pā. Sū. 3-4-82) *ṇal*; *liṭyabhyāsasya* … the root takes *pībhāva*; with doubling, *ācchīnadyor nuṭ* …; *āto yuk ciṇkṛtoḥ*…; *ato ṇiti* … *vṛddhi* of *ā* → *āu*, *ayādeśa*; *ṇit*: *lithi* (Pā. Sū. 6-1-193) the syllable before the suffix is *udātta*); *aditiḥ* (*na ditiḥ aditiḥ*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) first member keeps its accent); *havirde* (*havir dadāti iti havirdāḥ*; *ato mānin-vanip-kvanip-vica*… (Pā. Sū. 3-2-74) *viṭ* [as printed "*vic*"] for the root *ḍudāñ dāne*; the stem ends in *ā*; in compound the *kṛdutara* member keeps the stem accent per *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139); with the dative sg. following, *bhasaṃjñā*, *ato dhāto…* (Pā. Sū. 6-4-140) loss of the *ā*; by *udātta-nivṛtti*-accent the case-ending is *udātta*); *hinoti* (root *hi gatau vṛddhau ca*; *svādi*, *śnu* suffix; *laṭ* 3rd sg.; at the head of the *pāda*, no *nighāta*; the suffix accent remains); *saparyan* (root *sapara pūjāyām*; *kaṇḍvādi*; *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-27) *yak* in its own sense; *śatṛ* for *laṭ*; nom. sg.; *yak* accent stays); *rātahavyaḥ* (*rātaṃ havyaṃ yena saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) first member's accent); *mānuṣaḥ* (*manoḥ sambandhī mānuṣaḥ*; *manojātāv añ ṣyuk ca* (Pā. Sū. 4-1-161) *añ* suffix; *ṣuk* augment by this; *vṛddhi* of the first; *ñit*: first *udātta*). ‖ 3 ‖
+
+*(The Saṃhitā of Ṛk 4 begins on p. 559, after the printed separator.)*
+
+---
+
+**Progress note:** Sūkta 153 in progress: Ṛk 2 and Ṛk 3 complete (printed pp. 553–558, PDF 571–576); Ṛk 4 (the last Ṛk of the sūkta) begins on p. 559 (PDF 577). Next: printed p. 559 (PDF 577). Open flags: Upaniṣad/Brāhmaṇa quotations on pp. 549–554 transcribed at low confidence (many `[?]`); small-type bhāṣya partly unread; reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
