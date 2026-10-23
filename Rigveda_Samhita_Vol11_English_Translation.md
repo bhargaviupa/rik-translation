@@ -16238,4 +16238,250 @@ In such Ṛks *śamīvān* means "possessed of work, active"; so in the present 
 
 ---
 
-**Progress note:** Sūkta 155 in progress: Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the start of its Special Topics done (printed pp. 607–612, PDF 625–630). Next: printed p. 613 (PDF 631). Open flags: small-type Brāhmaṇa/Saṃhitā quotations (Ai. Brā., Tai. Saṃ.) on pp. 607–609 partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 613  (PDF 631)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 3, word by word.)*
+
+**tāḥ asya mahi pauṃsyaṃ vardhanti** — *yajamānena sutāḥ somarūpāḥ prasiddā āhutayaḥ indrasya vakṣyamāṇaṃ rūpaṃ balaṃ vardhayanti* — "the well-known oblations in the form of Soma, offered by the sacrificer, increase Indra's strength of the kind to be described": the Soma-oblations offered by the sacrificer increase Indra's greatness. This *pauṃsya* is useful to Indra only, and becomes also the cause of the sacrificer's increase.
+
+> वयो न वृक्षं सुपलाशमासदन्त्सोमास इन्द्रं मन्दिनश्चमूषदः ।
+> प्रैषामनीकं शवसा दविद्युतद्विदत्स्वर्मनवे ज्योतिरार्यम् ॥
+
+> *vayo na vṛkṣaṃ supalāśamāsadantsomāsa indraṃ mandinaścamūṣadaḥ |*
+> *praiṣāmanīkaṃ śavasā davidyutadvidatsvarmanave jyotirāryam ‖*
+
+(Ṛ. Saṃ. 10-44-4 [?], as printed, numerals doubtful.)
+
+In this Ṛk this point is described in detail. Here the Soma-oblations offered in the *camasa* cups are compared to birds, and Indra to a tree. As birds sitting on a tree give the tree a kind of splendour and beauty, so the Soma-oblations, established in Indra, by their power make Indra's strength shine and make him full of lustre; the efficacy of the Soma-oblation is thus told, and it is prayed that the strength and splendour of Indra, produced by it, may be of help to the human sacrificer also.
+
+> नायोः पूतः पवित्रेण । प्रत्येज्सोमो तिद्र्वुते [?] इति सोमाहुतिपूतस्य पुनाति यथारूपमेनेनं पुनातीन्द्रस्य युज्यः सखेति यदेवास्य केनेद्रियं वीर्यमतिक्रान्तं भवति तदेस्मिन्सन्नर्दधाति ॥
+
+> *nāyoḥ pūtaḥ pavitreṇa | pratyejsomo tidrvute [?] iti somāhutipūtasya punāti yathārūpamenenaṃ punātīndrasya yujyaḥ sakheti yadevāsya kenedriyaṃ vīryamatikrāntaṃ bhavati tadesminsannardadhāti ‖*
+
+(Śa. Brā. 1-2-2-3 [?], as printed; the small-type passage is garbled, read with doubt.)
+
+In such Brāhmaṇa sentences too it is said that Soma, purified by the *vāyu* and other [purifiers] and offered in the oblation, is a fitting friend of Indra and increases his heroism; and therefore, [so the Brāhmaṇa says], it gives virile power to the sacrificer also, and restores his heroism even if he has become powerless — thus the greatness of the Soma-oblation is described here as in all other places.
+
+**pauṃsyam** — *puṃsaḥ karma* — "the work of a man": the sense is "man's power". This word is read among the names of strength (Ni. 2-9 [?]) and among the names of battle (Ni. 2-1 [?]). In the present Ṛk it must be explained as "strength". Even if "battle" is the sense, the sense is that Soma-drinking fills Indra's battle with fresh heroism and brings him victory. In the 15th sūkta of the 2nd Maṇḍala, in describing the daring deeds performed by Indra, who was satisfied and strengthened by Soma-drinking,
+
+> प्र घा न्वस्य महतो महानि सत्या सत्यस्य करणानि वोचम् ।
+> त्रिकद्रुकेष्वपिबत्सुतस्यास्य मदे अहिमिन्द्रो जघान ॥
+
+> *pra ghā nvasya mahato mahāni satyā satyasya karaṇāni vocam |*
+> *trikadrukeṣvapibatsutasyāsya made ahimindro jaghāna ‖*
+
+(Ṛ. Saṃ. 2-15-1.)
+
+---
+
+### Printed p. 614  (PDF 632)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+in this very first Ṛk, the greatness of Indra, who was strengthened by the Soma-oblation offered at the time of the rite *trikadruka*, and his true and serpent-slaying deeds, are praised [?].
+
+> अनंशे [?] द्यामस्तभायद्बृहन्तमा रोदसी अपृणदन्तरिक्षम् ।
+> स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मदे इन्द्रश्चकार ॥
+
+> *anaṃśe [?] dyāmastabhāyadbṛhantamā rodasī apṛṇadantarikṣam |*
+> *sa dhārayatpṛthivīṃ paprathacca somasya tā made indraścakāra ‖*
+
+(Ṛ. Saṃ. 2-15-2.)
+
+In such Ṛks it is described that Indra, intoxicated by Soma-drinking, filled the earth and other worlds with his splendour, and by sentences such as *bhinal ... aṅgirobhir gṛṇānaḥ* (1-52-6 [?]) that he subdued the Asuras Vala and others. All these great deeds, like *somasya tā made indraś cakāra*, are praised as the effect of the Soma-oblations offered on the *ahaḥ* of the *abhiplava* [?].
+
+**mātarā** — a synonym of heaven and earth, the cause of the world's origin. Heaven and earth are addressed in some contexts as *pitarā* (1-185-2; 2-40-11; 6-17-1; 10-65-8 [?]), and at other times as *mātarā* (1-185-2; 10-65-5 … [?]).
+
+> य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> तमद्य होतरिषितो यजीयान्देवं त्वष्टारमिह यक्षि विद्वान् ॥
+
+> *ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhuvanāni viśvā |*
+> *tamadya hotariṣito yajīyāndevaṃ tvaṣṭāramiha yakṣi vidvān ‖*
+
+(Ṛ. Saṃ. 10-110-9.)
+
+In this Ṛk they are addressed as *janitrī*. Again, at other times heaven is addressed as father and the earth alone as mother (1-164-33; 1-90-2; 1-156-3 and so on [?]). In the Aitareya-Brāhmaṇa an incident relating to the wedlock of heaven and earth is told in the form of a story:
+
+> इमौ वै लोकौ सहास्तां तौ व्यैतां नावर्षन्न समतपत्ते पञ्चजना न समजानते तौ देवाः समनयँस्तां संयतावेतं देवेनविनाहं व्यवहेतं [?] रथन्तरेणैवेयमनुमां जिन्सती [?] बृहता सावीमां [?] । … अशौ वै लोक इमं लोकमभ्यर्क्षते [?] ततो वै द्यावान्तरिक्षान्नान्तरिक्षं द्युमिः [?] ॥
+
+> *imau vai lokau sahāstāṃ tau vyaitāṃ nāvarṣanna samatapatte pañcajanā na samajānate tau devāḥ samanaya~stāṃ saṃyatāvetaṃ devenavināhaṃ vyavahetaṃ [?] rathantareṇaiveyamanumāṃ jinsatī [?] bṛhatā sāvīmāṃ [?] | … aśau vai loka imaṃ lokamabhyarkṣate [?] tato vai dyāvāntarikṣānnāntarikṣaṃ dyumiḥ [?] ‖*
+
+(Ai. Brā. 4-27 [?], as printed; the small type is partly illegible; the print has a row of dots.)
+
+Heaven and earth, which in the beginning were together, were for a time separated. As soon as they separated, the sun's light and the fall of rain stopped completely. The Pañcajanas (who these are was told before) could not foster mutual friendliness and a peaceful life. Then the gods approached heaven and earth and prayed that they unite …
+
+---
+
+### Printed p. 615  (PDF 633)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+… and they were joined. Then a perfect marriage took place between the two. Since then heaven and earth have had an unbroken relation. In the Taittirīya-Āraṇyaka also,
+
+> जाया भूमिः पतिर्व्योम [?] ।
+
+> *jāyā bhūmiḥ patirvyoma [?] |*
+
+(Tai. Ā. 1-10-1 [?].)
+
+thus the conjugal relation of heaven and earth is told.
+
+> प्र द्यावा यज्ञैः पृथिवी नमोभिः सबाधे ईळे बृहती यजत्रे ।
+> ते चिद्धि पूर्वे कवयो गृणन्तः पुरो महि दधिरे देवपुत्रे ॥
+
+> *pra dyāvā yajñaiḥ pṛthivī namobhiḥ sabādhe īḷe bṛhatī yajatre |*
+> *te ciddhi pūrve kavayo gṛṇantaḥ puro mahi dadhire devaputre ‖*
+
+(Ṛ. Saṃ. 6-70-1 [?], as printed.)
+
+In such Ṛks, by the epithet *devaputre* it is said that heaven and earth are the parents not only of men but of the gods also.
+
+**divaḥ adhirocane** — *dyotamānasya ādityasya rocamāne maṇḍale* — in the orb of the shining sun. *param avaram tṛtīyaṃ dhīyate*: (the sacrificer) obtains the names in the form of son, grandson and so on. Here the identity of Indra-Viṣṇu with the sun is told, and that the welfare of the sacrificer is by their grace. The relation of cause and effect between the wealth of sons and the like and the grace of Indra and Viṣṇu is explained by Sāyaṇa thus:
+
+> अग्न्याहुताः सोमाहुतयः आदित्यमण्डलं प्राप्य द्वादशात्मनेन [?] सवितृमूर्त्यान्तरेषु [?] इन्द्राविष्णू पोषयन्ति । तुष्टौ तौ मेघद्वारा वर्षतः । तया वृष्ट्या सस्याद्यारा [?] प्रजाः पुत्रपौत्रादिरूपेण वर्धयत इत्येवं महानुभावा इन्द्राविष्णू इति ॥
+
+> *agnyāhutāḥ somāhutayaḥ ādityamaṇḍalaṃ prāpya dvādaśātmanena [?] savitṛmūrtyāntareṣu [?] indrāviṣṇū poṣayanti | tuṣṭau tau meghadvārā varṣataḥ | tayā vṛṣṭyā sasyādyārā [?] prajāḥ putrapautrādirūpeṇa vardhayata ityevaṃ mahānubhāvā indrāviṣṇū iti ‖*
+
+(The clearer reading of the final words here corrects the doubtful reading of the same passage at the top of p. 612.)
+
+The Soma-oblations offered in the fire reach the orb of the sun and nourish Indra and Viṣṇu, who are transformations of the form of Savitṛ. Satisfied, they pour rain through the cloud. By that rain, plants and so on arise, become food, and become the cause of the growth of sons, grandsons and so on: this is stated as the purport of the sentence. In this sentence the close relation among sacrifice, Indra, Viṣṇu and the sun is told, and how they are the cause of the increase of progeny; and for the correctness of this explanation there is abundant authority in śruti sentences.
+
+> स उ एव मखः स विष्णुः । तेत इन्द्रो मखवानभवन्मखवान्ह वै तं मघवानित्याचक्षते परोक्षं परोक्षकामा हि देवाः ॥
+
+> *sa u eva makhaḥ sa viṣṇuḥ | teta indro makhavānabhavanmakhavānha vai taṃ maghavānityācakṣate parokṣaṃ parokṣakāmā hi devāḥ ‖*
+
+(Śa. Brā. 14-1-1-13 [?], as printed.)
+
+In this sentence the identity of *makha* (sacrifice) and Viṣṇu is told, and that since Indra was possessed of *makha*, the name *makhavān* (*maghavān*) became well known.
+
+---
+
+### Printed p. 616  (PDF 634)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+*(Small-type Brāhmaṇa quotation; many letters doubtful.)*
+
+> अथ यस्य देवाः जुष्वासनो [?] प्रियाणि धामानि सार्धं समवदधिरे केदन्द्रे सन्ध्यदेतैष वा इन्द्रो य एष तपति स ह वा एष विष्णोः प्रियं धाम यथा हैवेदमन्यत्कैव विष्णोः प्रियं धाम एवैव हास तेनैवैतद्वैष्णवेन [?] तपसा तस्माद्यदि बह्वो दीक्षेरन् गृहपतये विष्णवे [?] प्रयच्छेयुः स हि तेषामिन्द्रभाजनं भवति ॥
+
+> *atha yasya devāḥ juṣvāsano [?] priyāṇi dhāmāni sārdhaṃ samavadadhire kedandre sandhyadetaiṣa vā indro ya eṣa tapati sa ha vā eṣa viṣṇoḥ priyaṃ dhāma yathā haivedamanyatkaiva viṣṇoḥ priyaṃ dhāma evaiva hāsa tenaivaitadvaiṣṇavena [?] tapasā tasmādyadi bahvo dīkṣeran gṛhapataye viṣṇave [?] prayaccheyuḥ sa hi teṣāmindrabhājanaṃ bhavati ‖*
+
+(Śa. Brā. 3-9-3-18 [?], as printed.)
+
+In these sentences — "this Indra who shines in the atmosphere is the sun"; the pure sentence of the consecrated, [that is] the cause of the sun's light [?]; and that if the sun had no light and strength there would be no occasion for rain and so on, and therefore the sacrifice too is the cause of the welfare of men — it is told that Indra in the form of the sun gains his splendour from the sacrifice itself.
+
+In the present Ṛk, for *pituḥ*, "from the grace of the protector Viṣṇu" (*pālakād viṣṇor anugrahāt*): because sacrifice and Viṣṇu are closely related, and because Indra and Viṣṇu are also related in the sacrifice [?], this point is indicated. The explanation of this mutual relation is given in the Śatapatha-Brāhmaṇa as follows.
+
+> अभ्येवमभिषद्य वाचयति । विष्णोः कर्माणि पश्यत यतो व्रतानि स्वाभिशा [?] … इन्द्रस्य युज्यः सखेति वज्रं वा एष प्राहार्षीद्यो योपमुदशिश्रियद्विष्वोर्जितं पश्यतेत्येवैतदाह … इन्द्रो वै यज्ञस्य देवता वैष्णवो योपस्तं सेन्द्रं करोति तस्माद्वाहेन्द्रस्य युज्यः सखेति ॥
+
+> *abhyevamabhiṣadya vācayati | viṣṇoḥ karmāṇi paśyata yato vratāni svābhiśā [?] … indrasya yujyaḥ sakheti vajraṃ vā eṣa prāhārṣīdyo yopamudaśiśriyadviṣvorjitaṃ paśyatetyevaitadāha … indro vai yajñasya devatā vaiṣṇavo yopastaṃ sendraṃ karoti tasmādvāhendrasya yujyaḥ sakheti ‖*
+
+(Śa. Brā. 3-2-1-19 [?], as printed.)
+
+Here it is told that Indra and Viṣṇu share a natural friendship; that the Vaiṣṇava share of the sacrifice also belongs to Indra; and therefore both are sharers in the fruit of the sacrifice.
+
+> अथ चैषामुदीक्षते । तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः । दिवीव चक्षुराततम् ॥
+
+> *atha caiṣāmudīkṣate | tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣurātatam ‖*
+
+(Śa. Brā. 3-1-1-15 [?], as printed.)
+
+Here it is said that the supreme station of Viṣṇu is the orb of the sun, shining in the heavenly world.
+
+In this way, because of the mutual relation of Indra, Viṣṇu, sacrifice and the orb of the sun, the present Ṛk tells that the sacrificers' increase of progeny — sons, grandsons and so on — is by the grace of Indra and Viṣṇu.
+
+---
+
+### Printed p. 617  (PDF 635)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**retase** — *putrādyutpādanasāmarthyāya* — "for the power to beget sons and so on": the sense is "for the power of begetting offspring". And Sāyaṇa,
+
+> त्रीणि वाव रेतांसि पिता पुत्रः पौत्रः ।
+
+> *trīṇi vāva retāṃsi pitā putraḥ pautraḥ |*
+
+(Tai. Saṃ. 6-6-1 [?], as printed.)
+
+having cited this Saṃhitā sentence, tells that *retase* takes three forms — father, son and grandson. That is what is told in the present Ṛk by the words *tṛtīyam*, *param* and *avaram*. The word *retas* has other senses besides the sense "virile power that generates progeny of man".
+
+The Nirukta-author has included this word in the names of water, *arṇaḥ*, *kṣodaḥ*, *kṣadma* and so on (Ni. 1-12 [?]).
+
+> दिवो न यस्य रेतसो दुघानाः पन्थासो यन्ति शवसापरीताः ।
+> तरद्द्वेषाः सासहिः पौंस्येभिर्मरुत्वान्नो भवत्विन्द्र ऊती ॥
+
+> *divo na yasya retaso dughānāḥ panthāso yanti śavasāparītāḥ |*
+> *taraddveṣāḥ sāsahiḥ pauṃsyebhirmarutvānno bhavatvindra ūtī ‖*
+
+(Ṛ. Saṃ. 1-100-3.)
+
+In such Ṛks it means rain-water and so on. And,
+
+> कथा महे पुष्टिंभराय पूष्णे कद्रुद्राय सुमखाय हविर्दे ।
+> कद्विष्णव उरुगायाय रेतो ब्रवः कदग्ने शरवे बृहत्यै ॥
+
+> *kathā mahe puṣṭiṃbharāya pūṣṇe kadrudrāya sumakhāya havirde |*
+> *kadviṣṇava urugāyāya reto bravaḥ kadagne śarave bṛhatyai ‖*
+
+(Ṛ. Saṃ. 4-3-2 [?], as printed.)
+
+in this, Sāyaṇa has explained the word *retas* as *kṣayahetu* [?], "cause of destruction", *pāsa*; and the use of this word in the sense of "virile power that generates progeny", and the extraordinary power that *retas* has, are told at length in the Taittirīya-Saṃhitā (6-6-8 [?]).
+
+**bhuraṇyati** — *gacchati bhajate ca* — the commentator says that the sense lies in "he goes, and he resorts to" [the following words of the sentence are not clearly legible, [?]]. The Nirukta-author has included this word among the names of motion (Ni. 2-7 [?]); and since that motion too indicates swift movement, the name *bhuraṇyu* is given to birds and the like also.
+
+> भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमथानं नयति स्वर्गस्य लोकस्यापि वेल्ला तत्संपाती भुरण्युरनेन पावकख्यातेन [?] ।
+
+> *bhuraṇyuriti kṣipranāma | bhuraṇyuḥ śakunirbhūrimathānaṃ nayati svargasya lokasyāpi vellā tatsaṃpātī bhuraṇyuranena pāvakakhyātena [?] |*
+
+(Ni. 13-33 [?].)
+
+*(Note: the headword *bhuraṇyati* and the Ṛk-words discussed on pp. 617–618 are taken here as printed; they are not in the Saṃhitā of Ṛk 3 as read on p. 611, so they may belong to a later Ṛk of this sūkta whose text has not yet appeared. To be checked on the next pages.)*
+
+---
+
+### Printed p. 618  (PDF 636)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+Because it flies a great distance, the bird is called *bhuraṇyu*. It can carry anyone to heaven. The sacrificer who moves swiftly (towards heaven) with the bird has the same name. In this context the Nirukta-author
+
+> येना पावक चक्षसा भुरण्यन्तं जनाँ अनु ।
+> त्वं वरुण पश्यसि ॥
+
+> *yenā pāvaka cakṣasā bhuraṇyantaṃ janā~ anu |*
+> *tvaṃ varuṇa paśyasi ‖*
+
+(Ṛ. Saṃ. 1-50-6.)
+
+cites this Ṛk, and gives the derivation of the word *bhuraṇyu* as above. Therefore in the Ṛk cited, *bhuraṇyantam* too has naturally the sense of motion. Following this, the commentator on the Ṛk [?], in his sentence *puṇyakṛtāṃ janān anu bhuraṇyantaṃ pūrveṇa puṇyakṛtaṃ mārgeṇa devayānena kṣipraṃ gacchantam anu paśyasi*, has explained the sense "going swiftly" for this word; this follows the view of the Nirukta-author. But Sāyaṇa, in the commentary on this same Ṛk, has given the sense *bhuraṇyantaṃ dhārayantaṃ poṣayantaṃ vā imaṃ lokam* — "upholding or nourishing this world" — that is, "holding" or "nourishing". This sense does not seem to fit the present context so well.
+
+This word may also be formed from the root *bhura* (*dhāraṇapoṣaṇayoḥ*), "to hold, to nourish", and is used in these senses also. For example,
+
+> यन्नासत्या भुरण्यथो यद्वा देव भिषज्यथः ।
+> अयं वां वत्सो मतिभिर्न विन्धते हविष्मन्तं हि गच्छथः ॥
+
+> *yannāsatyā bhuraṇyatho yadvā deva bhiṣajyathaḥ |*
+> *ayaṃ vāṃ vatso matibhirna vindhate haviṣmantaṃ hi gacchathaḥ ‖*
+
+(Ṛ. Saṃ. 8-9-3 [?], as printed.)
+
+here *bhuraṇyathaḥ sarvaṃ jagat poṣayathaḥ* — "you nourish the whole world" — the Aśvins are indicated.
+
+> युवोरत्रिश्चिकेतति नरा सुम्नेन चेतसा ।
+> घर्मं यद्वामरेपसं नासत्यास्ना भुरण्यति ॥
+
+> *yuvoratriściketati narā sumnena cetasā |*
+> *gharmaṃ yadvāmarepasaṃ nāsatyāsnā bhuraṇyati ‖*
+
+(Ṛ. Saṃ. 5-76-3 [?], as printed.)
+
+In such Ṛks it is *prāpnuvān*, "attaining", so it has the sense of motion [?]. In the present Ṛk also it has the sense of motion; and in the related passage the sense given is that the mortal knows both strides of Viṣṇu — the strides over earth and atmosphere only [?].
+
+**abhikhyāya** — the Nirukta-author has included the word *abhikhyā* among the names of knowledge (Ni. 3-9 [?]) — "having made known, by praise and so on": it means "having made manifest, so that it comes to the knowledge of the world by praise and the like". The sense: they make the greatness of Viṣṇu well known.
+
+---
+
+**Progress note:** Sūkta 155 in progress: Ṛk 3 Special Topics continue (printed pp. 613–618, PDF 631–636). **Flag:** the words *bhuraṇyati*/*abhikhyāya* discussed on pp. 617–618 belong to a later Ṛk of this sūkta (their Ṛk text has not yet appeared; the Ṛk 3 Saṃhitā as read has no such word) — check on the next pages whether the print has Ṛk 4 and 5 text there, or whether the Ṛk 3 reading on p. 611 needs correcting. Next: printed p. 619 (PDF 637). Open flags: small-type Brāhmaṇa quotations partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
