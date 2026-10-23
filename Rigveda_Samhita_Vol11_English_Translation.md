@@ -1378,23 +1378,23 @@ Of the *stomas*, the nine kinds mentioned above can be increased by sub-varietie
 
 Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, which must be recited in order on the six days of the *Pṛṣṭhya-ṣaḍaha* sacrifices:
 
-> त्रिवृदग्निष्टोमो भवति तेज एवाव रुन्धे पञ्चदशो भवतीन्द्रियमेवाव रुन्धे सप्तदशो भवत्यन्नाद्यस्यावरुद्ध्या [?] अथो प्रैव तेन जायन्ते [?] एकविंशो भवति प्रतिष्ठित्यै [?] अथो [?] आत्मन्धत्ते [?] त्रिणवो भवति विजित्यै त्रयस्त्रिंशो भवति प्रतिष्ठित्यै [?] ।
+> त्रिवृदग्निष्टोमो भवति तेज एवाव रुन्धते पञ्चदशो भवतीन्द्रियमेवाव रुन्धते सप्तदशो भवत्यन्नाद्यस्यावरुद्ध्यै अथो प्रैव तेन जायन्ते एकविग्ंशो भवति प्रतिष्ठित्यै अथो रुचमेवात्मन्दधते त्रिणवो भवति विजित्यै त्रयस्त्रिग्ंशो भवति प्रतिष्ठित्यै ।
 
-> *trivṛdagniṣṭomo bhavati teja evāva rundhe pañcadaśo bhavatīndriyamevāva rundhe saptadaśo bhavatyannādyasyāvaruddhyā [?] atho praiva tena jāyante [?] ekaviṃśo bhavati pratiṣṭhityai [?] atho [?] ātmandhatte [?] triṇavo bhavati vijityai trayastriṃśo bhavati pratiṣṭhityai [?] |*
+> *trivṛdagniṣṭomo bhavati teja evāva rundhate pañcadaśo bhavatīndriyamevāva rundhate saptadaśo bhavatyannādyasyāvaruddhyai atho praiva tena jāyante ekavigṃśo bhavati pratiṣṭhityai atho rucamevātmandadhate triṇavo bhavati vijityai trayastrigṃśo bhavati pratiṣṭhityai |*
 
-(Tai. Saṃ. [?]-[?]-[?] [?].) By the *trivṛt*-Agniṣṭoma *tejas*, by the *pañcadaśa* *indriya* [vigour], by the *saptadaśa* food and offspring, by the *ekaviṃśa* a firm footing, by the *triṇava* victory and by the *trayastriṃśa* firm establishment are obtained; the Kannada thus states the benefits of reciting the *stomas*. In the Upaniṣads too the greatness of the *stoma* is shown and the way it brings spiritual fruit:
+(no reference is printed for this passage.) By the *trivṛt*-Agniṣṭoma *tejas*, by the *pañcadaśa* *indriya* [vigour], by the *saptadaśa* food and offspring, by the *ekaviṃśa* a firm footing, by the *triṇava* victory and by the *trayastriṃśa* firm establishment are obtained; the Kannada thus states the benefits of reciting the *stomas*. In the Upaniṣads too the greatness of the *stoma* is shown and the way it brings spiritual fruit:
 
-> स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः [?] ।
+> स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः ।
 
-> *stomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ [?] |*
+> *stomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ |*
 
-(Kaṭha Up. [?]-[?]-[?] [?].) By this sentence the greatness of the *udgītha* and the spiritual way of attaining it are shown. In the Chāndogya Upaniṣad:
+(Kaṭha Up. 2-11 as printed; the standard reference is 1-2-11.) By this sentence the greatness of the *udgītha* and the spiritual way of attaining it are shown. In the Chāndogya Upaniṣad:
 
-> येन छन्दसा स्तोष्यन् स्यात्तच्छन्द उपधावेदेन स्तोमेन स्तोष्यमाणः स्यात्तं स्तोममुपधावेत् [?] ।
+> येन छन्दसा स्तोष्यन् स्यात्तच्छन्द उपधावेद्येन स्तोमेन स्तोष्यमाणः स्यात्तं स्तोममुपधावेत् ।
 
-> *yena chandasā stoṣyan syāttacchanda upadhāvedena stomena stoṣyamāṇaḥ syāttaṃ stomamupadhāvet [?] |*
+> *yena chandasā stoṣyan syāttacchanda upadhāvedyena stomena stoṣyamāṇaḥ syāttaṃ stomamupadhāvet |*
 
-(Chā. Up. [?]-[?]-[?] [?].) By this sentence, describing the greatness of the *udgītha*, it is ordained that one should meditate on that *stoma* by which, being of the right qualities [?], the *stotra* becomes complete. In the same way, in the sūkta at hand, *stomebhiḥ* means a *stotra* that is of the nature of song and gives exceeding benefit.
+(Chā. Up. 1-3-10.) By this sentence, describing the greatness of the *udgītha*, it is ordained that one should meditate on that *stoma* by which, being of the right qualities, the *stotra* becomes complete. In the same way, in the sūkta at hand, *stomebhiḥ* means a *stotra* that is of the nature of song and gives exceeding benefit.
 
 ### Printed p. 53  (PDF 71)
 
