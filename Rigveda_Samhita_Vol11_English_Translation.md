@@ -17674,4 +17674,84 @@ In the present Ṛk: **marutāṃ ṛtvijāṃ saṃghāto mārutaṃ tadvataḥ
 
 ---
 
-**Progress note:** Sūkta 156 in progress: Ṛk 4 complete (Special Topics and grammar); Ṛk 5 Saṃhitā, Pada and the start of the bhāṣya done (printed pp. 658–663, PDF 676–681). Next: printed p. 664 (PDF 682) — rest of Ṛk 5 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then the closing line of Sūkta 156 (the last Ṛk) and the start of Sūkta 157 if it begins on that page. Open flags: the long small-type Śatapatha (p. 658) and Taittirīya-Āraṇyaka (p. 659) quotations only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 664  (PDF 682)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156". The bhāṣya of Ṛk 5 concludes at the top of this page; small type, read with doubt.)*
+
+> … नार्थः [?] । इति स्नानुम् [?] । तदर्थमृतस्य यज्ञस्य भागे हुतशेषरूपे तं यजमानमाभजत् । भजति । समीपमेयतीत्यर्थः । यद्वा । ऋतस्य यज्ञस्य भागे फले यजमानमाभजत् । स्वामित्वेन स्थापयति ॥
+
+> *… nārthaḥ [?] | iti snānum [?] | tadarthamṛtasya yajñasya bhāge hutaśeṣarūpe taṃ yajamānamābhajat | bhajati | samīpameyatītyarthaḥ | yadvā | ṛtasya yajñasya bhāge phale yajamānamābhajat | svāmitvena sthāpayati ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *daivyaḥ* — of the nature of a deity; *yaḥ viṣṇuḥ* — which Viṣṇu; *sukṛttaraḥ* — the best among those who give excellent fruits; *sukṛte* — to him who performs excellent rites; *indrāya* — to the sacrificer who offers oblation; *sacathāya* — (in order to help at the sacrifice); *ā vivāya* — comes; *vedhāḥ* — (he who) ordains the desired fruits; *triṣadhasthaḥ* — (also in the three pressings) occupying three separate stations, or having the three places, earth and the rest (such Viṣṇu); *āryam* — the Ārya sacrificer; *ajinvat* — delights; *ṛtasya* — of the sacrifice; *bhāge* — in the portion, or to enjoy the fruit of the sacrifice; *yajamānam* — the sacrificer; *ā abhajat* — approaches (makes him worthy).
+
+**भावार्थः (Bhāvārtha).** Viṣṇu, the best among those who give excellent fruits, being of the nature of a deity, comes to the sacrificer who performs excellent rites and offers oblation, to help him at the sacrifice. Viṣṇu, who ordains the desired fruits and occupies three separate stations in the three pressings, makes the Ārya sacrificer worthy to enjoy the fruit of the sacrifice, comes near him and delights him.
+
+**English Translation (as printed).** The divine Vishnu, the best of the doers of good deeds, who came to the pious institutor of the rite to assist (at its celebration), knowing (the desires of the worshipper), and present at the three connected periods (of worship), shows favour to the Arya, and admits the author of the ceremony to a share of the sacrifice.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** *viṣṇuḥ indrāya sacathāya ā vivāya; āryam ajinvat; yajamānaṃ svāmitvena sthāpayati* — Viṣṇu comes to help the sacrificer; delights the sacrificer; and makes the sacrificer worthy of the fruit of the sacrifice: thus the relation of benefactor and benefited between sacrificer and Viṣṇu is told.
+
+---
+
+### Printed p. 665  (PDF 683)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**sukṛte indrāya** — *śobhanastutikartre yajamānāya* — "to the sacrificer who makes excellent praise": explained as the sacrificer who makes excellent praise; and to show how the word *indra* came to be a name of the sacrificer, he gives the derivation, *irāṃ haviḥ-lakṣaṇam annaṃ drāvayatīti indro yajamānaḥ | indro dṛṇātīti | idaṃ karaṇād ity āgrayaṇaḥ* [?]: citing the derivations stated in the Nirukta, he shows that the reason for which this name is well known of Indra, who has divine power, is the same reason for which the name *indra* is well known of the sacrificer also. In the Nirukta various derivations of the word *indra* are shown (Ni. 10-8).
+
+*indra irāṃ dṛṇātīti vā* — formed from the root *dṛ* with the sense of "to divide": *irāṃ annaṃ vrīhyādi dṛṇāti vidārayati | varṣaklleditam aṅkuraṃ bījaṃ bhinatti* — he splits the grain and the like, that is, splits the seeds made moist by rain so that the sprout makes a tree; or:
+
+*irāṃ dadātīti vā* — from the root *dā* "to give": *varṣadvāreṇāsau irāṃ dadāti* — he gives food through rain; *irāṃ dadhātīti vā* — from the root *dhā* "to nourish": by giving food and so on through rain he nourishes; *irāṃ dārayate iti vā* — from the root *dṝ* [?] "to cause to split": he makes the earth open as a furrow for plants and so on [?]; *indave dravatīti vā* — from the root *dru* "to run": he who comes running with eagerness for the Soma-juice; *indau ramata iti vā* — from the root *ram* "to rejoice": he who is satisfied by drinking the Soma-juice; *indhe bhūtānīti vā* — from the root *indh* "to shine": he who makes beings shine: thus, having shown that the name *indra* is well known, with their own opinions, he then states the opinions of other teachers:
+
+*idaṅkaraṇād ity āgrāyaṇaḥ* — "because he made all this" (*idam asau sarvam akarot*) — the opinion of the sage Āgrāyaṇa is that he is denoted by the word *indra* because in the creation of the world he made everything.
+
+---
+
+### Printed p. 666  (PDF 684)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+*idaṃ darśanād ity aupamanyavaḥ* — "because he sees all this" [?] — the opinion of the sage Aupamanyava that he is denoted by the word *indra* because of the power to see everything. *indater aiśvaryakarmaṇaḥ* — this name may also be because he is lord of the whole world. *idaṃ drāvayitā dārayitā vā drāvayitā vā* — "one who with all power splits or drives away enemies": this is the well-known name. *ādarayitā ca yajvanām* — "and because he cherishes and honours the sacrificer": thus various origins of the word *indra* are shown. Sāyaṇa tells that the same derivation applies to the word *indra* in the sense of the sacrificer too. Since by sacrifices and the like rain is brought about, and then food and the division of food arise, and since by the means of sacrifice he increases the wealth of food and makes beings shine, and since the sacrificer is the root of the whole world's welfare, whatever derivation holds for the word *indra* of the deity holds also for the word *indra* in the sense of the sacrificer.
+
+**ajinvat** — *jinvatiḥ prītikarmā* — "*jinvati* is an action of pleasing": to satisfy and cause delight (Ni. 6-32 [?]). Having explained the word thus, the Nirukta-author
+
+> समानमेतदुदकमुच्चैत्यव चाहभिः । भूमिं पर्जन्या जिन्वन्ति दिवं जिन्वन्त्यग्नयः ॥
+
+> *samānametadudakamuccaityava cāhabhiḥ | bhūmiṃ parjanyā jinvanti divaṃ jinvantyagnayaḥ ‖*
+
+(Ṛ. Saṃ. 1-164-51.)
+
+cites this Ṛk and shows the felicity of the use of the word *jinvanti*: as Parjanya gives the earth food and so on and satisfies and delights it, so Agni, by carrying oblations and so on, produces satisfaction and delight for the world of the gods. In the same way in the present Ṛk also the sense is that Viṣṇu is a giver of delight to the sacrificer.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar pages 666–667, noted briefly).** *vivāya* (root *vī gatyādiṣu*; *adādi*; *liṭ* 3rd sg., *ṇal*; doubling; shortening of the reduplicate; since *ṇit*, *āto ṇit* — *vṛddhi*; *āya*-substitution [?]; since *yat* is in the sentence, no *nighāta*; since *ṇal* is *lit*, *liti* (Pā. Sū. 6-1-193) the syllable before the suffix is *udātta*); *sacathāya* (root *ṣaca samavāye*; *lyuṭ* in the sense of state; *ana*-substitution; a change of letters has occurred [?]; or by *bahula*, the Uṇādi *atha*; suffix *anudātta*; dative sg.) …
+
+---
+
+### Printed p. 667  (PDF 685)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar of Ṛk 5, continued.)* *daivyaḥ* (*divi bhavaḥ daivyaḥ*; *yañ*; *taddhiteṣv acām ādeḥ* — *ādivṛddhi*; *ñnityādir nityam*: first *udātta*); *sukṛte* (*śobhanaṃ karoti iti sukṛt*; root *ḍukṛñ karaṇe*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) *tuk*; *kṛdutarapada* accent; for *sukṛttara* the *tarap* suffix in the sense of excess; being *pit* it is *anudātta*); *ajinvat* (root *jivi prīṇane*; *idito num dhātoḥ* (Pā. Sū. 7-1-58) *num*; Vedic *laṅ* in the sense of the present; 3rd sg.; *nighāta* since after an *atiṅanta*); *triṣadhasthaḥ* (root *ṣṭhā gatinivṛttau*; *supi sthaḥ* (Pā. Sū. 3-2-4) *ka*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64) loss of the *ā*; since *ka* follows, *saha* becomes *sadha*; *kṛdutarapada* accent); *āryam* (root *ṛ gatau*; *ṛhaloṇ-yat* (Pā. Sū. 3-1-124) *ṇyat*; since *ṇit*, *vṛddhi* of the root; *raparatva*); *abhajat* (root *bhaja sevāyām*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *laṅ* in the sense of the present; 3rd sg.; *nighāta* since after an *atiṅanta*). ‖ 5 ‖
+
+*(Printed closing line:)* **Here ends the 156th Sūkta.**
+
+---
+
+## Sūkta 157
+
+---
+
+### Printed p. 667  (continued; PDF 685)
+
+*(The Kannada heading reads "The 157th Sūkta". An ornament and a rule precede it.)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the twenty-second anuvāka has eight sūktas; the first, "Abodhy agnir jma", has six Ṛks, Dīrghatamas, Aśvin deity; Jagatī for the earlier Ṛks, the third Triṣṭubh [?], the last two Triṣṭubh; used in the *prātaranuvāka* and the *āśvina-śastra* in the Jagatī metre, by the Āśvalāyana Śrauta-sūtra *abodhy agnir jma eṣa sya bhānuḥ* (Ā. 4-13). Small type, read with doubt.)*
+
+> द्वाविंशेऽनुवाके ऽष्टौ सूक्तानि । तत्राबोध्यग्निर्ज्म इति प्रथमं सूक्तं षडृचं दैर्घतमसमाश्विनम् । पूर्वत्र जागतं तृतीया [?] तुष्टुब्दिमपि [?] जागतम् । अन्त्ये द्वे त्रिष्टुभौ । अबोधि षळाश्विनं त्र्यन्त्ये त्रिष्टुभावित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छन्दस्यस्य विनियोगः । अथाश्विन इति खण्डे सूत्रितम् । अबोध्यग्निर्ज्म एष स्य भानुः । आ. ४-१३ इति ॥
+
+> *dvāviṃśe 'nuvāke 'ṣṭau sūktāni | tatrābodhyagnirjma iti prathamaṃ sūktaṃ ṣaḍṛcaṃ dairghatamasamāśvinam | pūrvatra jāgataṃ tṛtīyā [?] tuṣṭubdimapi [?] jāgatam | antye dve triṣṭubhau | abodhi ṣaḷāśvinaṃ tryantye triṣṭubhāvityanukramaṇikā ‖ prātaranuvākāśvinaśastrayorjāgate chandasyasya viniyogaḥ | athāśvina iti khaṇḍe sūtritam | abodhyagnirjma eṣa sya bhānuḥ | ā. 4-13 iti ‖*
+
+---
+
+**Progress note:** Sūkta 156 complete (printed pp. 639–667); Sūkta 157 begun: heading and Anukramaṇī on printed p. 667 (PDF 685). Next: printed p. 668 (PDF 686) — Anuvāda of Sūkta 157, title page, Saṃhitā, Ṛk 1. Open flags: long small-type Śatapatha (p. 658) and Taittirīya-Āraṇyaka (p. 659) quotations only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
