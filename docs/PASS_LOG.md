@@ -19,3 +19,5 @@
 2026-10-23 16:38 PDF 59-59: remaining [?] EN 2, KN 2. after: 38 cleared; 4 verse texts corrected (unflagged errors: amūraḥ, ā dūto, sa śevadhiṃ); 2 refs doubtful
 2026-10-23 16:39 PDF 60-60: remaining [?] EN 0, KN 0. after: 28 cleared (all Pāṇini numerals, read clearly)
 2026-10-23 16:39 PDF 61-61: remaining [?] EN 2, KN 1. after: 13 cleared; whole bhāṣya now read (was partial, '…' gaps); 1 doubtful word
+2026-10-23 16:40 PDF 62-62: remaining [?] EN 1, KN 1. after: 2 cleared; 3 Pratipadārtha glosses corrected (manyunā 'mananīya'); Pīṭhike Part '9 [?]'
+2026-10-23 16:41 PDF 63-63: remaining [?] EN 2, KN 1. after: 24 cleared; verse 'agnir gāndharvīṃ…' corrected; Ṛg 9-… → 4-5-9
