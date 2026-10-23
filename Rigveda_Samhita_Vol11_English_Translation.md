@@ -13243,4 +13243,148 @@ In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", a
 
 ---
 
-**Progress note:** Sūkta 151 in progress: Ṛk 5 complete; Ṛk 6 under way (printed pp. 499–504, PDF 517–522; Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar begins on p. 504 and continues). Next: printed p. 505 (PDF 523). Correction noted: Ṛk 5 word is *takvavīḥ* (not *takvanīḥ*). Open flags: small-type bhāṣya partly unread (p. 502 etc.); Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+### Printed p. 505  (PDF 523)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā". Grammar of Ṛk 6, concluded, noted briefly.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 6, continued).** *arcathaḥ* (root *arca pūjāyām*; *laṭ* 2nd dual; *nipātair yad yadi…* (Pā. Sū. 8-1-30) — prohibition of *nighāta*, the root accent remaining); *tmanā* (*mantreṣv āṅy ādeḥ…* (Pā. Sū. 6-1-[?]) loss of the *ā*); *sṛjatam* (root *sṛja visarge*; *loṭ* 2nd dual; *lasārvadhātuka* *anudātta*, so the *śa*-suffix keeps the accent; *cādilope vibhāṣā* (Pā. Sū. 8-1-63) no *nighāta*); *pinvatam* (root *pivi secane*; *loṭ* 2nd dual; *iditvāt* *num* augment; *nighāta* prohibited since it stands before a *tiṅanta*; *śap anudātta*, the root accent remains); *manmanām* (root *mana jñāne*; *manin* suffix; *nit*: first *udātta*; genitive pl.); *irajyathaḥ* (the root *iraj* is read in the sense of the action of lordship; *laṭ* 2nd dual; *nighāta*). ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> यो वां यज्ञैः शशमानो ह दाशति कविर्होता यजति मन्मसाधनः ।
+> उपाह तं गच्छथो वीथो अध्वरमच्छा गिरः सुमतिं गन्तमस्मयू ॥ ७ ॥
+
+> *yo vāṃ yajñaiḥ śaśamāno ha dāśati kavirhotā yajati manmasādhanaḥ |*
+> *upāha taṃ gacchatho vītho adhvaramacchā giraḥ sumatiṃ gantamasmayū ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । वाम् । यज्ञैः । शशमानः । ह । दाशति । कविः । होता । यजति । मन्मऽसाधनः ।
+
+> *yaḥ | vām | yajñaiḥ | śaśamānaḥ | ha | dāśati | kaviḥ | hotā | yajati | manma 'sādhanaḥ |*
+
+### Printed p. 506  (PDF 524)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+**॥ पदपाठः ॥** *(continued)*
+
+> उप । अह । तम् । गच्छथः । वीथः । अध्वरम् । अच्छ । गिरः । सुऽमतिम् । गन्तम् । अस्मऽयू इति अस्मऽयू ॥ ७ ॥
+
+> *upa | aha | tam | gacchathaḥ | vīthaḥ | adhvaram | accha | giraḥ | su 'matim | gantam | asma 'yū iti asma 'yū ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the sacrificer who praises and offers to you, the wise Hotṛ with his means, to him you go and accept his sacrifice; so, favouring us, accept my praises too. Small type, read with doubt.)*
+
+> यो ह यः खलु यजमानो वां युवामुद्दिश्य युवाभ्यां वा यज्ञ[?]योगैरग्निमित्रभूतैः शशमानः शंसमानो दाशति हविरादिकं स्वस्वक्रमं निर्वर्त्य युष्मत्तृप्त्यसाधनं करोति । य एव कविर्मेधावी । अथवा कविर्मेधावी होता सम्यग्ज्ञोऽनिष्पादकः [?] यजमानो मन्मसाधनो मनसेनीय[?]द्रव्यदक्षिणादिसाधनोपेतः सन् यजति सोमयागादिकं कर्म करोति । तमेव यजमानं सुमतिं शोभनप्रज्ञां [?] मुपलक्ष्य गच्छथः । प्राप्नुथः खलु । अध्वरं तदीयं यज्ञं वीथः । कामयेथे । किंचास्मयू अस्मान्कामयमानौ युवां गिरः स्तुतीरच्छाभिलक्ष्य गन्तं गच्छतम् । ताभ्यां मां प्राप्य स्तुतीः स्वीकुरुतमित्यर्थः । अत्र युष्मदि तमिति सामान्यनिर्देशः प्रतिभाति तथाप्यस्मयू इत्युक्तत्वाद्दीर्घतमाः स्वात्मानमेव परोक्षतयोक्त्वानीति गम्यते । यद्वा । यो दाशति यष्टा यजते तमुपेत्य तदीयं यज्ञं कामयेथे । अतोऽस्मयू युवां सुमतिं मां मदीया गिरः स्तुतीरच्छाभिलक्ष्य गच्छतम् ॥
+
+> *yo ha yaḥ khalu yajamāno vāṃ yuvāmuddiśya yuvābhyāṃ vā yajña[?]yogairagnimitrabhūtaiḥ śaśamānaḥ śaṃsamāno dāśati havirādikaṃ svasvakramaṃ nirvartya yuṣmattṛptyasādhanaṃ karoti | ya eva kavirmedhāvī | athavā kavirmedhāvī hotā samyagjño 'niṣpādakaḥ [?] yajamāno manmasādhano manasenīya[?]dravyadakṣiṇādisādhanopetaḥ san yajati somayāgādikaṃ karma karoti | tameva yajamānaṃ sumatiṃ śobhanaprajñāṃ [?] mupalakṣya gacchathaḥ | prāpnuthaḥ khalu | adhvaraṃ tadīyaṃ yajñaṃ vīthaḥ | kāmayethe | kiṃcāsmayū asmānkāmayamānau yuvāṃ giraḥ stutīracchābhilakṣya gantaṃ gacchatam | tābhyāṃ māṃ prāpya stutīḥ svīkurutamityarthaḥ | atra yuṣmadi tamiti sāmānyanirdeśaḥ pratibhāti tathāpyasmayū ityuktatvāddīrghatamāḥ svātmānameva parokṣatayoktvānīti gamyate | yadvā | yo dāśati yaṣṭā yajate tamupetya tadīyaṃ yajñaṃ kāmayethe | ato 'smayū yuvāṃ sumatiṃ māṃ madīyā giraḥ stutīracchābhilakṣya gacchatam ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *yaḥ ha* — whichever sacrificer; *vām* — you two, addressing; *yajñaiḥ* — with sacrifices; *śaśamānaḥ* — praising; *dāśati* — offers the oblation, (and); *kaviḥ* — the wise; *hotā* — the performer of the *homa*; whichever sacrificer; *manmasādhanaḥ* — provided with his own means (of the offering and gifts); *yajati* — performs the sacrifice, (such); *sumatim* — one of excellent understanding; *taṃ upa* — to that sacrificer, aiming at him; *gacchathaḥ* — go; *adhvaram* — his sacrifice; *vīthaḥ* — desiring, accept; (and likewise) *asmayū* — favouring me; *giraḥ accha* — (my) hymns also, regarding them; *gantam* — come (accept).
+
+**भावार्थः (Bhāvārtha).** Whichever sacrificer praises you two with sacrifices and offers the oblation, and the wise Hotṛ who performs the sacrifice with his means of gifts and the like — go to him, that excellent and understanding sacrificer, and accept his sacrifice; and likewise, favouring us, accept our praises as well.
+
+### Printed p. 507  (PDF 525)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**English Translation (as printed).** Come to the devout (worshipper), who, glorifying you, and providing (all that is) acceptable, presents you with oblations; (to him), the sage, the invoker, who offers you worship: accept his sacrifice; favourably disposed towards us, (accept our) praises.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **शशमानः** — this word is read among the names of the act of worship (*arcati-karmanāmāni*). The *Nirukta*-author, quoting this very Ṛk (6-8 [?]), explains this word as *śaśamānaḥ śaṃsamānaḥ (stuvan)* — "the sacrificer who praises".
+
+**मन्मसाधनः** — it was said earlier that the word *manma* has the meanings "agreeable to the mind", "meditative", "praiseworthy". *Manmasādhanaḥ* here means *manasīya-dravya-dakṣiṇādi-sādhanopetaḥ san*: the sacrificer provided, at the time of the sacrifice, with the gifts and materials he heartily wants. In this Ṛk this word is an epithet of the sacrificer.
+
+> रायो बुध्नः संगमनो वसूनां यज्ञस्य केतुर्मन्मसाधनो वेः ।
+> अमृतत्वं रक्षमाणास एनं देवा अग्निं धारयन् द्रविणोदाम् ॥
+
+> *rāyo budhnaḥ saṃgamano vasūnāṃ yajñasya keturmanmasādhano veḥ |*
+> *amṛtatvaṃ rakṣamāṇāsa enaṃ devā agniṃ dhārayan draviṇodām ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], numerals not legible.) In this Ṛk, as an epithet of Agni, *mananīyasya abhilaṣitasya sādhayitā* — "the accomplisher of what is thought of and desired" — is the sense, as is said in explaining that Ṛk [as printed, wording uncertain].
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar pages 507–508, noted briefly).** *śaśamānaḥ* (root *śaśa plutagatau*; since the roots are of manifold meanings, here used in the sense of praise; *tācchīlyavayo-vacana-śaktiṣu cānaś* (Pā. Sū. 3-2-129) *cānaś* suffix; *śap* … *luk*; *anyeṣām api* augment *mukāgama*; *cit*: final *udātta*); *dāśati* (root *dāś dāne*; *laṭ* 3rd sg.; *yady-anyā*… no *nighāta* since connected with *yat*, the root accent remains).
+
+### Printed p. 508  (PDF 526)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151". Grammar, noted briefly.)*
+
+*(Grammar of Ṛk 7, continued.)* *kaviḥ* (root *ku śabde*; *acāyiṅ* … (Uṇ. Sū. 4-[?]) *i* suffix; *sārvadhātukārdhadhātukayoḥ* guṇa; suffix accent: final *udātta*); *manmasādhanaḥ* (root *sādha saṃsiddhau*; *lyuṭ* suffix; *yuvor anākau* (Pā. Sū. 7-1-1) *ana* for *yu*; *liti* (Pā. Sū. 6-1-193) the syllable before the suffix is *udātta*; *manma-sādhanam*: the *kṛdutara*-member's stem accent); *gacchathaḥ* (root *gamlṛ gatau*; *laṭ* 2nd dual; *ata* …; *nighāta* prohibited; the root accent persists; *tāsyanudāttet* (Pā. Sū. 6-1-186)); *vīthaḥ* (root *vī gatyādiṣu*; *adādi*; *laṭ* 2nd dual; *nighāta* absent since before a *tiṅanta*; final *udātta* by the suffix accent); *accha* (*nipātasya ca* (Pā. Sū. 6-3-136) lengthening in the *saṃhitā*); *sumatim* (*śobhanā matir yasya sa sumatiḥ*; *nañ subhyām* (Pā. Sū. 6-2-172) final *udātta* of the later member); *gantam* (root *gamlṛ gatau*; *loṭ* 2nd dual; *tam* by *lava*-substitution; *bahulaṃ chandasi* — *luk* of the *vikaraṇa*; Vedic loss of the nasal; *tiṅ*: *nighāta*); *asmayū* (*asmān ātmana icchati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8) *kyac*; *kyāc chandasi* (Pā. Sū. 3-2-170) *u* suffix; *ato lopaḥ* loss of the *a* of *kyac*; suffix accent: final *udātta*; dual). ‖ 7 ‖
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> युवां यज्ञैः प्रथमा गोभिरञ्जत ऋतावाना मनसो न प्रयुक्तिषु ।
+
+> *yuvāṃ yajñaiḥ prathamā gobhirañjata ṛtāvānā manaso na prayuktiṣu |*
+
+### Printed p. 509  (PDF 527)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**॥ संहितापाठः ॥** *(continued)*
+
+> भरन्ति वां मन्मना संयता गिरोऽदृप्यता मनसा रेवदाशाथे ॥ ८ ॥
+
+> *bharanti vāṃ manmanā saṃyatā giro 'dṛpyatā manasā revadāśāthe ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> युवाम् । यज्ञैः । प्रथमा । गोभिः । अञ्जते । ऋतऽवाना । मनसः । न । प्रऽयुक्तिषु ।
+> भरन्ति । वाम् । मन्मना । सम्ऽयता । गिरः । अदृप्यता । मनसा । रेवत् । आशाथे इति ॥ ८ ॥
+
+> *yuvām | yajñaiḥ | prathamā | gobhiḥ | añjate | ṛta 'vānā | manasaḥ | na | pra 'yuktiṣu |*
+> *bharanti | vām | manmanā | sam 'yatā | giraḥ | adṛpyatā | manasā | revat | āśāthe iti ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Mitra-Varuṇa, owners of the sacrifice and of rain: they anoint you first with the produce of the cow, as the mind is put first in actions; give wealth with gracious minds. Small type, read with doubt.)*
+
+> हे ऋतावाना यज्ञवन्तौ वृष्ट्युदकवन्तौ वा मित्रावरुणौ युवां प्रथमा प्रथमौ यज्ञैर्यजनसाधनैर्गोभिर्गोविकारैः पयआदिभिरञ्जते । व्यञ्जयन्ति यजमानाः । देवभागं याग्येषु क्षीरादिभिर्युञ्जन्ते [?] इत्यर्थः । यद्वा । गोभिः रञ्जते स्रवन्ति [?] । तत्र दृष्टान्तः । प्रयुक्तिषु प्रयोगेषु मनसो न [?] कर्मणि षष्ठी । मन इव । तद्यथा प्रथमं व्यञ्जयन्ति मुख्यं कुर्वन्ति तेनैवोर्ध्वव्यवहारस्य [?] । किं च वां युवयोर्मन्मना मननवेत्ता [?] संयता सम्यग्यताश्चित्ता [?] चित्तेन गिरः स्तुतीर्भरन्ति संपादयन्ति । यस्मादेवं तस्मादद्यूप्यता [?] अनुग्रहपूर्वकेण मनसा प्रकृष्टेन चेतसा येन [?]रेवद्धनयुक्तं कर्म आशाथे । व्याप्नुथः । ददाथे इत्यर्थः । अश्नोतेर्लिटि नित्यमागमशासमिति वचनादिडभावः ॥
+
+> *he ṛtāvānā yajñavantau vṛṣṭyudakavantau vā mitrāvaruṇau yuvāṃ prathamā prathamau yajñairyajanasādhanairgobhirgovikāraiḥ payaādibhirañjate | vyañjayanti yajamānāḥ | devabhāgaṃ yāgyeṣu kṣīrādibhiryuñjante [?] ityarthaḥ | yadvā | gobhiḥ rañjate sravanti [?] | tatra dṛṣṭāntaḥ | prayuktiṣu prayogeṣu manaso na [?] karmaṇi ṣaṣṭhī | mana iva | tadyathā prathamaṃ vyañjayanti mukhyaṃ kurvanti tenaivordhvavyavahārasya [?] | kiṃ ca vāṃ yuvayormanmanā mananavettā [?] saṃyatā samyagyatāścittā [?] cittena giraḥ stutīrbharanti saṃpādayanti | yasmādevaṃ tasmādadyūpyatā [?] anugrahapūrvakeṇa manasā prakṛṣṭena cetasā yena [?]revaddhanayuktaṃ karma āśāthe | vyāpnuthaḥ | dadāthe ityarthaḥ | aśnoterliṭi nityamāgamaśāsamiti vacanādiḍabhāvaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *ṛtāvānā* — O Mitra-Varuṇa, who accept the sacrifice or are lords of rain-water; *prayuktiṣu* — whenever (in any work, through the organs) one has to act; *manaso na* — as the mind is given first rank (for the judgment of good or bad); *yuvām* — you two; *yajñaiḥ* — with the means of sacrifice; *gobhiḥ* — with milk and the like; *prathamā* — making you chiefs (placing you at the head); *añjate* — (the sacrificers) worship; (and) *vām* — you; *manmanā* — with reverent meditation; *saṃyatā* — with the concentrated mind; *giraḥ* — hymns; *bharanti* — compose; (therefore) *adṛpyatā* — without anger (with graciousness); *manasā* — with the mind; *revat* — wealth-bearing rites; *āśāthe* — bring about (for them).
+
+### Printed p. 510  (PDF 528)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, fit to receive the sacrifice: just as in any work one gives first place to the mind that deliberates whether it is good or bad, so the sacrificers put you two at the head and worship you first; and they compose hymns with a mind that is wholly given to you in reverent meditation. Therefore, without anger, with a gracious mind, bring them wealth-bearing rites.
+
+**English Translation (as printed).** Accepters of sacrifices, you are the first whom (worshippers) propitiate with offerings, the produce of the cow, like (the application of) the mind (in the first instance) to the results (of the senses), hymns (prompted) by thoughts wholly intent upon you, celebrate (your praise): do you with humble minds, bestow upoo [sic: upon] us wealth.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **ऋतावाना** — *yajñavantau vṛṣṭyudakavantau vā mitrāvaruṇau*: Mitra and Varuṇa are addressed as "possessors of the sacrifice" or "lords of rain-water".
+
+> अधारयतं पृथिवीमुत द्यां मित्रराजाना वरुणा महोभिः ।
+> वर्धयतमोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू ॥
+
+> *adhārayataṃ pṛthivīmuta dyāṃ mitrarājānā varuṇā mahobhiḥ |*
+> *vardhayatamoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū ‖*
+
+(Ṛ. Saṃ. 3-62-3 [?].)
+
+> ऋतस्य गोपावधि तिष्ठथो रथं सत्यधर्माणा परमे व्योमनि ।
+> यमत्र मित्रावरुणावथो युवं तस्मै वृष्टिर्मधुमत्पिन्वते दिवः ॥
+
+> *ṛtasya gopāvadhi tiṣṭhatho rathaṃ satyadharmāṇā parame vyomani |*
+> *yamatra mitrāvaruṇāvatho yuvaṃ tasmai vṛṣṭirmadhumatpinvate divaḥ ‖*
+
+(Ṛ. Saṃ. 5-63-1 [?].) In such Ṛks Mitra and Varuṇa are the deities of rain, and the prayer is that they pour rain and protect the world; here too the same rain-deities, Mitra and Varuṇa, are petitioned for help.
+
+**गोभिः** — *govikāraiḥ paya ādibhiḥ*: the word *go* is used even for the products of the cow, milk and the like. The *Nirukta*-author has shown that the word *go* has the meanings "earth" (2-3 [?]), "sun" (2-6 [?]) and so on; in the present passage it is to be understood that the chief meaning of *go* is the cow and the milk and the like obtained from it. In the *Nirukta*:
+
+> आ धावता सुहस्त्यः शुक्रा गृभ्णीत मन्थिना ।
+> गोभिः श्रीणीत मत्सरम् ॥
+
+> *ā dhāvatā suhastyaḥ śukrā gṛbhṇīta manthinā |*
+> *gobhiḥ śrīṇīta matsaram ‖*
+
+(Ṛ. Saṃ. 9-46-4 [?].)
+
+---
+
+**Progress note:** Sūkta 151 in progress: Ṛks 6 (end), 7 and 8 done (printed pp. 505–510, PDF 523–528); Ṛk 8's Special Topics begin on p. 510 (*gobhiḥ*; its Nirukta quotation continues). Next: printed p. 511 (PDF 529); Ṛk 9 follows Ṛk 8's remaining notes and grammar. Open flags: small-type bhāṣya partly unread (pp. 506, 509 many `[?]`); Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
