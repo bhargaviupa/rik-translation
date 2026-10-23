@@ -17084,4 +17084,174 @@ In such sentences Prajāpati is described as the Self of all. As Sāyaṇa calls
 
 ---
 
-**Progress note:** Sūkta 155 complete (printed pp. 599–639); Sūkta 156 begun: heading, Anukramaṇī and Anuvāda on printed p. 639 (PDF 657). Next: printed p. 640 (PDF 658) — Sūkta 156 title page, Saṃhitā and Ṛk 1. Open flags: Ṛk 3 Special Topics of Sūkta 155 (pp. 617–619) discuss words of Ṛk 5, recorded as printed; small-type Tai. Saṃ. (p. 624) and Śa. Brā. (p. 635) passages only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 640  (PDF 658)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156". Title page of the sūkta: "Oṃ. Sūkta 156. Maṇḍala 1, Anuvāka 21 [?], Sūkta 156; Aṣṭaka 2, Adhyāya 3, Varga 3? [?]. Ṛks in the sūkta: 5. Ṛṣi: Dīrghatamā Aucathya. Devatā: Viṣṇu. Chandas: Jagatī.")*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> भवा मित्रो न शेव्यो घृतासुतिर्विभूतद्युम्न एवया उ सप्रथाः ।
+> अधा ते विष्णो विदुषा चिदर्ध्यः स्तोमो यज्ञश्च राध्यो हविष्मता ॥ १ ॥
+
+> *bhavā mitro na śevyo ghṛtāsutirvibhūtadyumna evayā u saprathāḥ |*
+> *adhā te viṣṇo viduṣā cidardhyaḥ stomo yajñaśca rādhyo haviṣmatā ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> भव । मित्रः । न । शेव्यः । घृतऽआसुतिः । विभूतऽद्युम्नः । एवयाः । ऊं इति । सऽप्रथाः ।
+> अध । ते । विष्णो इति । विदुषा । चित् । अर्ध्यः । स्तोमः । यज्ञः । च । राध्यः । हविष्मता ॥ १ ॥
+
+> *bhava | mitraḥ | na | śevyaḥ | ghṛta 'āsutiḥ | vibhūta 'dyumnaḥ | evayāḥ | ūṃ iti | sa 'prathāḥ |*
+> *adha | te | viṣṇo iti | viduṣā | cit | ardhyaḥ | stomaḥ | yajñaḥ | ca | rādhyaḥ | haviṣmatā ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Viṣṇu, be to us like a friend, giver of happiness, receiver of ghee, of ample fame, protector, widely spreading; thy praise and thy sacrifice are to be often performed by the knowing offerer. Small type, read with doubt; continues on the next page.)*
+
+> हे विष्णो मित्रो न । मित्रः मिदेर्दुःखात् त्राता सखा आदित्यो वा मित्रः । प्रमीतेस्त्रायत इति निरुक्तम् । (नि. १०-२१ [?]) तद्वत् शेव्यः सुखे साधुः सुखकर्ता घृतासुतिः ।
+
+> *he viṣṇo mitro na | mitraḥ miderduḥkhāt trātā sakhā ādityo vā mitraḥ | pramītestrāyata iti niruktam | (ni. 10-21 [?]) tadvat śevyaḥ sukhe sādhuḥ sukhakartā ghṛtāsutiḥ |*
+
+---
+
+### Printed p. 641  (PDF 659)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> घृतमुदकमासूयते येन स तादृशः । यद्वा । घृतमाज्यमाभिमुख्येन नीयतेऽस्मै स तादृशः । विभूतद्युम्नः प्रभूतयशाः प्रभूतान्नो वा । एवयाः रक्षणस्य मिश्रयिता प्रापयिता [?] । सप्रथाः सर्वतः पृथुः । प्रतिविशेषेण नो भवेति सम्बन्धः । द्योतमानं [?] इति दीर्घः ॥ ऊं इति पादपूरणः ॥ हे विष्णो त्वं यस्मादेवं शोभनो भवसि अधास्मात्ते तव स्तोमः स्तोत्रविशेषो विदुषा त्वन्माहात्म्यवेदित्रा यजमानेनार्ध्यः पुनः पुनः प्रवर्धनार्हः । एकवारकरणे न संपूर्यत इत्यर्थः । तथा ते यज्ञश्च हविष्मता तेन यजमानेन राध्यः समाराधनीयः । यद्वा । विदुषा होत्रा स्तोमो राध्यो हविष्मता यजमानेन च यज्ञः राध्यः ॥
+
+> *ghṛtamudakamāsūyate yena sa tādṛśaḥ | yadvā | ghṛtamājyamābhimukhyena nīyate 'smai sa tādṛśaḥ | vibhūtadyumnaḥ prabhūtayaśāḥ prabhūtānno vā | evayāḥ rakṣaṇasya miśrayitā prāpayitā [?] | saprathāḥ sarvataḥ pṛthuḥ | prativiśeṣeṇa no bhaveti sambandhaḥ | dyotamānaṃ [?] iti dīrghaḥ ‖ ūṃ iti pādapūraṇaḥ ‖ he viṣṇo tvaṃ yasmādevaṃ śobhano bhavasi adhāsmātte tava stomaḥ stotraviśeṣo viduṣā tvanmāhātmyaveditrā yajamānenārdhyaḥ punaḥ punaḥ pravardhanārhaḥ | ekavārakaraṇe na saṃpūryata ityarthaḥ | tathā te yajñaśca haviṣmatā tena yajamānena rādhyaḥ samārādhanīyaḥ | yadvā | viduṣā hotrā stomo rādhyo haviṣmatā yajamānena ca yajñaḥ rādhyaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** (O Viṣṇu) *mitro na* — like a friend, or like Mitra the sun; *śevyaḥ* — causing happiness; *ghṛtāsutiḥ* — accepting the oblation of ghee; *vibhūtadyumnaḥ* — of abundant fame, or of abundant food; *evayāḥ* — giving protection; *saprathāḥ* — easy of approach on all sides; *bhava* — be (to us); *viṣṇo* — O Viṣṇu; *adha* — because you are filled with these qualities; *te* — your; *stomaḥ* — special praise; *viduṣā* — by the sacrificer who knows (your greatness); *ardhyaḥ* — is to be repeatedly [?] performed; *yajñaḥ ca* — and the sacrifice (offered to you) also; *haviṣmatā* — by the sacrificer who has the oblation; *rādhyaḥ* — is to be accomplished.
+
+**भावार्थः (Bhāvārtha).** O Viṣṇu, be to us like a friend, a giver of happiness, receiver of the oblation of ghee, of abundant fame, giver of protection, and easily approached on all sides. Because you are filled with these qualities, your special praise is to be performed again and again [?] by the sacrificer who knows your greatness, and the sacrifice offered to you is to be accomplished by the sacrificer who has the oblation.
+
+**English Translation (as printed).** Be (to us), Vishnu, like a friend, the giver of happiness, the accepter of oblations, abounding with food, the granter of protection, and every way accessible; on which account your praise is to be repeatedly recited by the wise, and your worship to be celebrated by the offerer of oblations.
+
+---
+
+### Printed p. 642  (PDF 660)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** In this Ṛk Viṣṇu is compared to Mitra. The word *mitra* is explained here in two ways: it may mean the ordinary friend, or Mitra in the form of the sun, who has that friend's qualities. To show that the helps that come from a friend in the form of happiness and delight come to the world also from Mitra in the form of the sun, the Nirukta-author has shown the derivation of this word:
+
+**mitraḥ** — *mitraḥ pramīter trāyate | saṃminvāno dravatīti vā | medayater vā* (Ni. 10-31 [?]): because he protects from destruction, or because he moves ruling (watching over) all principles, or because he makes the world moist (*snigdha*) by giving food and so on and nourishing it, the name is *mitra*, so Yāska has explained. And,
+
+> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् ।
+> मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं घृतवज्जुहोत ॥
+
+> *mitro janānyātayati bruvāṇo mitro dādhāra pṛthivīmuta dyām |*
+> *mitraḥ kṛṣṭīranimiṣābhi caṣṭe mitrāya havyaṃ ghṛtavajjuhota ‖*
+
+(Ṛ. Saṃ. 3-59-1.)
+
+having cited this Ṛk, [Sāyaṇa] explains the helpful guidance of Mitra, the manner of his upholding heaven and earth, and his guarding, always alert, the people who belong to him; thus the qualities of Mitra are described. And in the present Ṛk also, by the epithet *śevyaḥ* and others, the nature of Mitra is described.
+
+**śevyaḥ** — *sādhuḥ sukhakartā* — "good, a producer of happiness". *śeva* means happiness; this word is generally used when the happiness that is the fruit of sacrifice is indicated.
+
+> यज्ञं साहं दुव इष्येऽग्निं पूर्वस्य शेवस्य । अद्रेः सूनुमायुमाहुः ॥
+
+> *yajñaṃ sāhaṃ duva iṣye 'gniṃ pūrvasya śevasya | adreḥ sūnumāyumāhuḥ ‖*
+
+(Ṛ. Saṃ. 10-20-2 [?], as printed.)
+
+here the word *śeva* is used for happiness that is excellent and is the fruit of sacrifice. In describing the nature of Mitra in the present Ṛk, it is said that Mitra produces desirable, excellent happiness, and Viṣṇu is prayed to be such a friend.
+
+**ghṛtāsutiḥ** — *ghṛtarūpa āsutiḥ* — "the *āsuti* in the form of ghee". *āsuti* means juicy food; milk and so on, and the Soma-juice in the form of oblation, or ghee and so on, are indicated [the end of the sentence is not fully legible [?]].
+
+---
+
+### Printed p. 643  (PDF 661)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> त्वे अग्ने विश्वे अमृतासो अद्रुह आसा देवा हविरदन्त्याहुतम् ।
+> त्वया मर्तासः स्वदन्त आसुतिं त्वं गर्भो वीरुधां जज्ञिषे शुचिः ॥
+
+> *tve agne viśve amṛtāso adruha āsā devā haviradantyāhutam |*
+> *tvayā martāsaḥ svadanta āsutiṃ tvaṃ garbho vīrudhāṃ jajñiṣe śuciḥ ‖*
+
+(Ṛ. Saṃ. 2-1-14.)
+
+When it is said in this Ṛk that by Agni's grace men enjoy the juicy foods such as milk, the word *āsuti* is used as a synonym of milk and the like. In the present Ṛk it means *āsuti* in the form of ghee.
+
+**vibhūtadyumnaḥ** — *prabhūtayaśāḥ prabhūtānno vā* — "of abundant fame, or of abundant food". The Nirukta-author has included the word *dyumna* among the names of wealth (Ni. 2-10 [?]). And, explaining this word, *dyumnaṃ dyotater yaśo vā annaṃ vā* (Ni. 5-5 [?]): formed from the root *dyut* "to shine", it means fame or food, he says, and cites
+
+> शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु ।
+> जहि वर्धन्नुषसो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥
+
+> *śataṃ te śiprinnūtayaḥ sudāse sahasraṃ śaṃsā uta rātirastu |*
+> *jahi vardhannuṣaso martyasyāsme dyumnamadhi ratnaṃ ca dhehi ‖*
+
+(Ṛ. Saṃ. 7-31-2 [?], as printed.)
+
+— from the Ṛk, the prayer "give us *dyumna* and jewels" shows that by the word *ratna* wealth is generally indicated and *dyumna* means fame or food (Ni. 5-5 [?]). But in the present Ṛk it means "of abundant fame, or abundant food".
+
+**evayāḥ** — this word is generally an epithet of the Maruts; *evyaiḥ sakhibhiḥ* [?] — *gamanaśīlair marudbhir hi* [?]: in many places it tells the Maruts' moving nature and constant accompaniment. Although the root has the sense of motion, in the present Ṛk it is *miśrayitā yojayitā* [?], that is, "one who supplies protection", so the sense is.
+
+**saprathāḥ** — *sarvataḥ pṛthuḥ* — "spread widely all round": the Nirukta-author has explained the root sense of this word (Ni. 6-8 [?]):
+
+> त्वमग्ने सप्रथा असि जुष्टो होता वरेण्यः ।
+> त्वया यज्ञं वि तन्वते ॥
+
+> *tvamagne saprathā asi juṣṭo hotā vareṇyaḥ |*
+> *tvayā yajñaṃ vi tanvate ‖*
+
+(Ṛ. Saṃ. 10-91-4 [?], as printed.)
+
+having cited this Ṛk, he gave there for this word a fitting sense as above. But in the present Ṛk this sense is somewhat extended. The commentator explains that the sense is "of great body all around us".
+
+---
+
+### Printed p. 644  (PDF 662)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+**ardhyaḥ** — *punaḥ punaḥ pravardhanārhaḥ | ekavārakaraṇe na saṃpūryate ity arthaḥ* — "worthy of repeated increase; the sense is that it is not completed in doing once": the praise in the form of *stoma* that praises you is to be recited verse after verse, singing your qualities; it is not a thing to be finished by reciting once.
+
+**rādhyaḥ** — *samārādhanīyaḥ* — "to be accomplished": to be accomplished with splendour.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; noted briefly).** *bhava* (root *bhū sattāyām*; *loṭ* 2nd sg.; lengthening in the Saṃhitā by a sūtra (Pā. Sū. 6-3-[?]); at the head of the *pāda* no *nighāta*; *śap* being *pit* the root accent remains); *mitraḥ* (root *ñimidā snehane*; *amicimi…* (Uṇ. Sū. 4-103) *kra*; being *kit*, no guṇa; suffix accent: final *udātta*); *śevyaḥ* (*śeve sādhuḥ śevyaḥ*; *yat* in the sense of "good"; *yato nāvaḥ* (Pā. Sū. 6-1-213) first *udātta*); *ghṛtāsutiḥ* (*ghṛtam āsutiḥ yena saḥ*; in the *bahuvrīhi* prior-member accent; likewise in *vibhūtadyumnaḥ*); *saprathāḥ* (root *pratha prakhyāne*; *asun* by *sarvadhātubhyo*; *prathasā saha vartate iti saprathāḥ*; *tena saheti tulyayoge* (Pā. Sū. 2-2-28) the compound; *vopasarjanasya* (Pā. Sū. 6-3-82) *sa*-form for *saha*); *adhā* (a Vedic change of letter in *atha*; *nipātasya ca* (Pā. Sū. 6-3-136) lengthening in the Saṃhitā); *viduṣā* (root *vida jñāne*; *laṭ* replaced by *śatṛ*; *viḍeḥ śatur vasuḥ* (Pā. Sū. 7-1-36) *vasu* for *śatṛ*; before the instrumental sg., *vasoḥ saṃprasāraṇam*; *pūrvarūpa*); *ardhyaḥ* (root *ṛdhu vṛddhau*; *yat* in the sense of fitness [?], guṇa of the light penultimate; first *udātta*; likewise *rādhya* from root *rādha saṃsiddhau*, with *yat*, first *udātta*). ‖ 1 ‖
+
+---
+
+### Printed p. 645  (PDF 663)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यः पूर्व्याय वेधसे नवीयसे सुमज्जानये विष्णवे ददाशति ।
+> यो जातमस्य महतो महि ब्रवत्सेदु श्रवोभिर्युज्यं चिदभ्यसत् ॥ २ ॥
+
+> *yaḥ pūrvyāya vedhase navīyase sumajjānaye viṣṇave dadāśati |*
+> *yo jātamasya mahato mahi bravatsedu śravobhiryujyaṃ cidabhyasat ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । पूर्व्याय । वेधसे । नवीयसे । सुमत्ऽजानये । विष्णवे । ददाशति ।
+> यः । जातम् । अस्य । महतः । महि । ब्रवत् । सः । इत् । ऊं इति । श्रवःऽभिः । युज्यम् । चित् । अभि । असत् ॥ २ ॥
+
+> *yaḥ | pūrvyāya | vedhase | navīyase | sumat 'jānaye | viṣṇave | dadāśati |*
+> *yaḥ | jātam | asya | mahataḥ | mahi | bravat | saḥ | it | ūṃ iti | śravaḥ 'bhiḥ | yujyam | cit | abhi | asat ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the mortal who gives to the ancient, ever-new Viṣṇu and proclaims the great birth of this great one reaches, with fame, what is fit to be reached. Small type, read with doubt.)*
+
+> यो मर्त्यः पूर्व्याय पूर्वकालीनाय नित्यायेत्यर्थः । वेधसे विविधजगत्स्रष्ट्रे नवीयसे नित्यनूतनाय । अत्यन्तरमणीयायेत्यर्थः । स्तुत्या वा । सुमज्जानये स्वयमेवोत्पन्नाय । जनेर्डादिके इन् । सुमत्यैयमित्यर्थः । नि. ६-३१ [?] इति यास्कः । यद्वा । सुतरां मादयतीति सुमत् तादृशी जाया यस्य स तथोक्तः । तस्मै सर्वजगन्मनःशीलश्रीपतये [?] इत्यर्थः । बहुव्रीहौ जायाया निङ् । पा. ५-४-१३४ [?] इति निजादेशः समासान्तः । वलि लोपः । उक्तगुणकाय विष्णवे व्यापकाय ददाशति हविरादिकं ददाति । किंचास्य विष्णोर्महतो महानुभावस्य महि महत् पूज्यं जातं जन्मोत्पत्तिं हिरण्यगर्भादिरूपं जन्म ब्रवत् ब्रूयात् । ब्रवीतेर्लेट्याडागमः । संकीर्तयेत् । सेदु [?] । सोऽपि दाता स्तोता च श्रवोभिरन्नैः संकीर्त्या युक्तः सन् युज्यं चित् सर्वैर्गन्तव्यम् [?] तेनैव तत्पदमभ्यभिमुख्येनासत् [?] गच्छति । प्राप्नोति ॥
+
+> *yo martyaḥ pūrvyāya pūrvakālīnāya nityāyetyarthaḥ | vedhase vividhajagatsraṣṭre navīyase nityanūtanāya | atyantaramaṇīyāyetyarthaḥ | stutyā vā | sumajjānaye svayamevotpannāya | janerḍādike in | sumatyaiyamityarthaḥ | ni. 6-31 [?] iti yāskaḥ | yadvā | sutarāṃ mādayatīti sumat tādṛśī jāyā yasya sa tathoktaḥ | tasmai sarvajaganmanaḥśīlaśrīpataye [?] ityarthaḥ | bahuvrīhau jāyāyā niṅ | pā. 5-4-134 [?] iti nijādeśaḥ samāsāntaḥ | vali lopaḥ | uktaguṇakāya viṣṇave vyāpakāya dadāśati havirādikaṃ dadāti | kiṃcāsya viṣṇormahato mahānubhāvasya mahi mahat pūjyaṃ jātaṃ janmotpattiṃ hiraṇyagarbhādirūpaṃ janma bravat brūyāt | bravīterleṭyāḍāgamaḥ | saṃkīrtayet | sedu [?] | so 'pi dātā stotā ca śravobhirannaiḥ saṃkīrtyā yuktaḥ san yujyaṃ cit sarvairgantavyam [?] tenaiva tatpadamabhyabhimukhyenāsat [?] gacchati | prāpnoti ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *yaḥ* — which man; *pūrvyāya* — to the ancient, that is, to the eternal; *vedhase* — to the creator of the world; *navīyase* — to the ever-new, and therefore delightful …
+
+---
+
+**Progress note:** Sūkta 156 in progress: Ṛk 1 complete (printed pp. 640–644); Ṛk 2 Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha done (printed p. 645, PDF 663). Next: printed p. 646 (PDF 664) — rest of Ṛk 2 Pratipadārtha, Bhāvārtha, English, Special Topics, then Ṛks 3–5. Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
