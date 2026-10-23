@@ -1126,7 +1126,7 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Grammar of Ṛk 1, concluded; noted briefly.)* *indravāyū* (*indraś ca vāyuś ca*; the *ānaṅ* that *devatādvandve ca* (Pā. Sū. 6-3-[?]) would give is barred by the vārttika *ubhayatra vāyoḥ pratiṣedho vaktavyaḥ*; the both-members accent that *devatādvandve ca* (Pā. Sū. 6-2-[?]) would give is barred by *notarapade 'nudāttādau* (Pā. Sū. 6-2-[?]); then *samāsasya* (Pā. Sū. 6-1-[?]) gives final-syllable accent), *krāṇā* (root *ḍukṛñ karaṇe*; *śānac* in the sense of a present; *bahulaṃ chandasi*: *luk* of the *u* of the *vikaraṇa*; as *sārvadhātukam apit* makes the suffix *ṅit*, *guṇa* does not arise; *yaṇ* substitution; *ciite* (Pā. Sū. 6-1-[?]) final-syllable accent; feminine *ṭāp*; nominative singular), *nābhā* (*supāṃ sulukpūrvasavarṇa…* (Pā. Sū. 7-1-[?]) gives *ā* for the locative ending), *saṃdāyi* (prefix *sam*; root *dāñ dāne*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *luṅ* in the sense of the present, passive; third person singular, *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-[?]) *ciṇ*; *āto yuk ciṇkṛtoḥ* (Pā. Sū. 7-3-[?]) *yuk*; *ciṇo luk* (Pā. Sū. 6-4-[?]) drops *ta*; by *bahulaṃ chandasy…* (Pā. Sū. 6-4-[?]) the augment *āṭ* does not come; as it is joined with *yajña*, no *nighāta* accent), *navyasī* (suffix *īyasun* in the comparative sense; Vedic loss of the *i*; final-syllable… first syllable accented by *nitya*; feminine *ṅīp* by *ugit*…), *adha* (= *atha*; Vedic change of letter), *yantu* (root *iṇ gatau*; *loṭ* third person plural; *tiṅanta nighāta*), *devān + acchā* (*dīrghād aṭi samānapāde* (Pā. Sū. 8-3-[?]) *ruttva* for the *n*; *āto 'ṭi nityam* (Pā. Sū. 8-3-[?]) nasalization of the preceding vowel; in *acchā*, *nipātasya ca* (Pā. Sū. 6-3-[?]) gives the long vowel). ‖ 1 ‖
+*(Grammar of Ṛk 1, concluded; noted briefly.)* *indravāyū* (*indraś ca vāyuś ca*; the *ānaṅ* that *devatādvandve ca* (Pā. Sū. 6-3-26) would give is barred by the vārttika *ubhayatra vāyoḥ pratiṣedho vaktavyaḥ*; the both-members accent that *devatādvandve ca* (Pā. Sū. 6-2-141) would give is barred by *notarapade 'nudāttādau* (Pā. Sū. 6-2-142); then *samāsasya* (Pā. Sū. 6-1-223) gives final-syllable accent), *krāṇā* (root *ḍukṛñ karaṇe*; *śānac* in the sense of a present; *bahulaṃ chandasi*: *luk* of the *u* of the *vikaraṇa*; as *sārvadhātukam apit* makes the suffix *ṅit*, *guṇa* does not arise; *yaṇ* substitution; *ciite* (Pā. Sū. 6-1-163) final-syllable accent; feminine *ṭāp*; nominative singular), *nābhā* (*supāṃ sulukpūrvasavarṇa…* (Pā. Sū. 7-1-39) gives *ā* for the locative ending), *saṃdāyi* (prefix *sam*; root *dāñ dāne*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) *luṅ* in the sense of the present, passive; third person singular, *ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-66) *ciṇ*; *āto yuk ciṇkṛtoḥ* (Pā. Sū. 7-3-33) *yuk*; *ciṇo luk* (Pā. Sū. 6-4-104) drops *ta*; by *bahulaṃ chandasy…* (Pā. Sū. 6-4-75) the augment *āṭ* does not come; as it is joined with *yajña*, no *nighāta* accent), *navyasī* (suffix *īyasun* in the comparative sense; Vedic loss of the *i*; final-syllable… first syllable accented by *nitya*; feminine *ṅīp* by *ugit*…), *adha* (= *atha*; Vedic change of letter), *yantu* (root *iṇ gatau*; *loṭ* third person plural; *tiṅanta nighāta*), *devān + acchā* (*dīrghād aṭi samānapāde* (Pā. Sū. 8-3-9) *ruttva* for the *n*; *āto 'ṭi nityam* (Pā. Sū. 8-3-3) nasalization of the preceding vowel; in *acchā*, *nipātasya ca* (Pā. Sū. 6-3-136) gives the long vowel). ‖ 1 ‖
 
 #### Ṛk 2
 
@@ -1144,27 +1144,27 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 ### Printed p. 43  (PDF 61)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
 *(Gist, mine: Mitra and Varuṇa, you take from the sun the unenduring water by your own might; thus in our sacrificial halls we have seen your golden forms, with our rites, minds and senses.)*
 
 **॥ पदपाठः ॥**
 
-> यत् । ह । त्यत् । मित्रावरुणा [?] । ऋतात् । अधि । आऽददाथे इति आऽददाथे । अनृतम् ।
+> यत् । ह । त्यत् । मित्रावरुणौ । ऋतात् । अधि । आऽददाथे इति आऽददाथे । अनृतम् ।
 > स्वेन । मन्युना । दक्षस्य । स्वेन । मन्युना ।
 > युवोः । इत्था । अधि । सद्मऽसु । अपश्याम । हिरण्ययम् ।
 > धीभिः । चन । मनसा । स्वेभिः । अक्षऽभिः । सोमस्य । स्वेभिः । अक्षऽभिः ॥ २ ॥
 
-> *yat | ha | tyat | mitrāvaruṇā [?] | ṛtāt | adhi | ā 'dadāthe iti ā 'dadāthe | anṛtam |*
+> *yat | ha | tyat | mitrāvaruṇau | ṛtāt | adhi | ā 'dadāthe iti ā 'dadāthe | anṛtam |*
 > *svena | manyunā | dakṣasya | svena | manyunā |*
 > *yuvoḥ | itthā | adhi | sadma 'su | apaśyāma | hiraṇyayam |*
 > *dhībhiḥ | cana | manasā | svebhiḥ | akṣa 'bhiḥ | somasya | svebhiḥ | akṣa 'bhiḥ ‖ 2 ‖*
 
-**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Mitra and Varuṇa, from the sun you take the unenduring water by your own might; in the sacrificial houses we see your golden form, with rites, mind and senses.* Small type; only partly read, doubtful words marked)
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Mitra and Varuṇa, from the sun you take the unenduring water by your own might; in the sacrificial houses we see your golden form, with rites, mind and senses.* Small type; read from the better scan, one doubtful word marked)
 
-> हे मित्रावरुणौ ऋतादादित्यात् तत्त्यदुदकं [?] यद्यत् [?] … अनृतं सर्वप्रशोषणस्वभावं [?] … अध्याददाथे । आदत्तम् । केन साधनेन । स्वेन मन्युना स्वकीयेन तेजसा । दक्षस्य … बलस्य स्वेन मन्युना [?] । किञ्च हे मित्रावरुणौ युवोः युवयोः सम्बन्धि हिरण्ययं हिरण्मयं रूपम् । … सद्मसु यज्ञसदनेषु [?] अपश्याम । केन साधनेनेति तदुच्यते । धीभिः चन स्तुतिभिरपि कर्मभिर्यज्ञादिरूपैः मनसा चन त्वदासक्तेन चेतसा च स्वेभिरक्षभिः स्वकीयैरिन्द्रियैः । किञ्च सोमस्य सोमं स्वेभिरक्षभिः … ॥ [… the remainder of the line unreadable at this resolution …]
+> हे मित्रावरुणौ ऋतादादित्यात् त्यत्तदुदकं यद्यस्मात्कारणादध्यधिकमाददाथे सर्वतो दपथः [?] । कीदृशमुदकम् । अनृतं नश्वरं शोषणस्वभावम् । केन साधनेन । स्वेन मन्युना स्वकीयेन तेजसा । अहोरात्राभिमानिदेवौ मित्रावरुणौ खलु वृष्टिं मोचयतः । अहोरात्रे वा इत्यादिश्रुतिः पूर्वमेवोदाहृता । मन्युर्विशेष्यते । दक्षस्य समर्थस्य स्वेन मन्युनात्मभूतेन मननीयेन सामर्थ्येन । किञ्च हे मित्रावरुणौ युवोः ॥ अन्त्यलोपश्छान्दसः ॥ युवयोः सम्बन्धि हिरण्ययं हिरण्मयं रूपम् ॥ ऋत्व्यवास्त्व्यवास्त्वेत्यादौ मयटो मशब्दलोपो निपात्यते ॥ इत्थेत्थं वक्ष्यमाणप्रकारेण सद्मसु यज्ञसदनेष्वध्यपश्याम । पश्येम । केन साधनेनेति तदुच्यते । धीभिस्त्वदुद्देश्यैः कर्मभिर्यज्ञादिरूपैः मनसा चन त्वदासक्तेन चेतसा च स्वेभिरक्षभिरात्मीयैरनन्यैश्चक्षुरादीन्द्रियैः । किञ्च सोमस्य सोमं स्वेभिरक्षभिरस्मदीयैरिन्द्रियैः ॥ नासाप्यपेक्षया बहुवचनम् ॥
 
-> *he mitrāvaruṇau ṛtādādityāt tattyadudakaṃ [?] yadyat [?] … anṛtaṃ sarvapraśoṣaṇasvabhāvaṃ [?] … adhyādadāthe | ādattam | kena sādhanena | svena manyunā svakīyena tejasā | dakṣasya … balasya svena manyunā [?] | kiñca he mitrāvaruṇau yuvoḥ yuvayoḥ sambandhi hiraṇyayaṃ hiraṇmayaṃ rūpam | … sadmasu yajñasadaneṣu [?] apaśyāma | kena sādhaneneti taducyate | dhībhiḥ cana stutibhirapi karmabhiryajñādirūpaiḥ manasā cana tvadāsaktena cetasā ca svebhirakṣabhiḥ svakīyairindriyaiḥ | kiñca somasya somaṃ svebhirakṣabhiḥ … ‖ [… the remainder of the line unreadable at this resolution …]*
+> *he mitrāvaruṇau ṛtādādityāt tyattadudakaṃ yadyasmātkāraṇādadhyadhikamādadāthe sarvato dapathaḥ [?] | kīdṛśamudakam | anṛtaṃ naśvaraṃ śoṣaṇasvabhāvam | kena sādhanena | svena manyunā svakīyena tejasā | ahorātrābhimānidevau mitrāvaruṇau khalu vṛṣṭiṃ mocayataḥ | ahorātre vā ityādiśrutiḥ pūrvamevodāhṛtā | manyurviśeṣyate | dakṣasya samarthasya svena manyunātmabhūtena mananīyena sāmarthyena | kiñca he mitrāvaruṇau yuvoḥ ‖ antyalopaśchāndasaḥ ‖ yuvayoḥ sambandhi hiraṇyayaṃ hiraṇmayaṃ rūpam ‖ ṛtvyavāstvyavāstvetyādau mayaṭo maśabdalopo nipātyate ‖ itthetthaṃ vakṣyamāṇaprakāreṇa sadmasu yajñasadaneṣvadhyapaśyāma | paśyema | kena sādhaneneti taducyate | dhībhistvaduddeśyaiḥ karmabhiryajñādirūpaiḥ manasā cana tvadāsaktena cetasā ca svebhirakṣabhirātmīyairananyaiścakṣurādīndriyaiḥ | kiñca somasya somaṃ svebhirakṣabhirasmadīyairindriyaiḥ ‖ nāsāpyapekṣayā bahuvacanam ‖*
 
 ### Printed p. 44  (PDF 62)
 
