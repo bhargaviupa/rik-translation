@@ -25,3 +25,5 @@
 2026-10-23 16:42 PDF 65-65: remaining [?] EN 2, KN 1. after: 33 cleared
 2026-10-23 16:43 PDF 66-66: remaining [?] EN 4, KN 2. after: 14 → 2 [?] left in the partial bhāṣya (finished with PDF 67)
 2026-10-23 16:44 PDF 67-67: remaining [?] EN 2, KN 1. after: 29 cleared; whole bhāṣya p.48-49 read; 1 numeral [?]
+2026-10-23 16:45 PDF 68-68: remaining [?] EN 2, KN 2. after: 22 cleared; Rudras verse corrected; 3 doubtful kept (TS ref, page range)
+2026-10-23 16:45 PDF 69-69: remaining [?] EN 1, KN 1. after: 21 cleared (2 TS refs kept doubtful); Brāhmaṇa-type quotations fully re-read
