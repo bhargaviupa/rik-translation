@@ -14844,4 +14844,154 @@ Quoting this Ṛk, he explains the word *andhaḥ* there as above. *Tamo 'ndham 
 
 ---
 
-**Progress note:** Sūkta 153 complete (printed pp. 544–562, PDF 562–580; closing line "illige 153ne sūkta mugidudu" on p. 562). Sūkta 154 begun: Anukramaṇī, Anuvāda and heading on pp. 563–564 (6 Ṛks; Viṣṇu; Triṣṭubh; varga "34" [?]); Ṛk 1 Saṃhitā, Pada and the start of the bhāṣya on p. 564. Next: printed p. 565 (PDF 583), continuing the bhāṣya of Ṛk 1. Open flags: small-type bhāṣya partly unread; Brāhmaṇa/Upaniṣad quotations pp. 549–554 low confidence; reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 565  (PDF 583)
+
+*(Header: "A. 2 A. 2 Va. 35" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Sāyaṇa-bhāṣya of Ṛk 1, continued from p. 564. Small type, dense; read with much doubt.)*
+
+> रजांसि रजनात्मकानि क्षित्यादिलोकत्रयाभिमानिन्यग्निवाय्वादित्यरूपाणि रजांसि विममे विशेषेण निर्ममे । अत्र त्रयो लोका अपि पृथिवीशब्देनोच्यन्ते । तथा च मन्त्रान्तरम् । यदिन्द्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्यां उत स्थः । ऋ. ६-[?]-[?] इति । तैत्तिरीयेऽपि । योऽस्यां पृथिव्यामस्मायुषेत्यस्मै [?] योऽस्यां पृथिव्यां द्वितीयस्यां तृतीयस्यां पृथिव्यामिति । तै. सं. १-[?]-[?]-[?] । तस्मात्त्रयो लोकाः पृथिवीशब्दवाच्याः [?] । किंच यः विष्णुरुत्तरमितरमविस्तीर्णं सधस्थं सहस्थानं लोकत्रयाश्रयभूतमन्तरिक्षमस्कभायत् [?] स्तभ्नाति सः ... निर्मितवानित्यर्थः । अथवा पार्थिवानि पृथिवीसंबन्धिनी रजांसि लोकान् [?] । योऽस्यां [?] ... विविधं निर्मितवान् [?] । जगद्द्वारो लोकानाम् [?] ... उरुगायः ... स्वस्वस्थानान्भूतान् [?] ... स्तम्भितवान् । स्पृष्ट्वानित्यर्थः [?] ... त्रेधा विचक्रमाणः त्रिप्रकारं स्वस्वस्थानाल्लोकान्विधतवान् [?] विष्णोस्त्रेधा क्रमणमिदं विष्णुर्वि चक्रमे [?] । ऋ. १-२२-१७ । इत्यादिदृश्यते । [?] ... उरुगायः उरुभिर्महद्भिर्गीयमानः अतिप्रभूतं गीयमानो वा । य एवं कृतवान् तादृशस्य विष्णोर्वीर्याणि प्र वोचम् ॥
+
+> *rajāṃsi rajanātmakāni kṣityādilokatrayābhimāninyagnivāyvādityarūpāṇi rajāṃsi vimame viśeṣeṇa nirmame | atra trayo lokā api pṛthivīśabdenocyante | tathā ca mantrāntaram | yadindrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyāṃ uta sthaḥ | ṛ. 6-[?]-[?] iti | taittirīye 'pi | yo 'syāṃ pṛthivyāmasmāyuṣetyasmai [?] yo 'syāṃ pṛthivyāṃ dvitīyasyāṃ tṛtīyasyāṃ pṛthivyāmiti | tai. saṃ. 1-[?]-[?]-[?] | tasmāttrayo lokāḥ pṛthivīśabdavācyāḥ [?] | kiṃca yaḥ viṣṇuruttaramitaramavistīrṇaṃ sadhasthaṃ sahasthānaṃ lokatrayāśrayabhūtamantarikṣamaskabhāyat [?] stabhnāti saḥ ... nirmitavānityarthaḥ | athavā pārthivāni pṛthivīsaṃbandhinī rajāṃsi lokān [?] | yo 'syāṃ [?] ... vividhaṃ nirmitavān [?] | jagaddvāro lokānām [?] ... urugāyaḥ ... svasvasthānānbhūtān [?] ... stambhitavān | spṛṣṭvānityarthaḥ [?] ... tredhā vicakramāṇaḥ triprakāraṃ svasvasthānāllokānvidhatavān [?] viṣṇostredhā kramaṇamidaṃ viṣṇurvi cakrame [?] | ṛ. 1-22-17 | ityādidṛśyate | [?] ... urugāyaḥ urubhirmahadbhirgīyamānaḥ atiprabhūtaṃ gīyamāno vā | ya evaṃ kṛtavān tādṛśasya viṣṇorvīryāṇi pra vocam ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *yaḥ* — which Viṣṇu; *pārthivāni* — belonging to the earth; *rajāṃsi* — the regions, the presiding deities of the three worlds in the forms of Agni, Vāyu and Āditya; [or the seven worlds below the earth;] [or the worlds Bhūḥ, Bhuvaḥ and Svaḥ, which go with the earth]; *vimame* — who made specially; (and) *yaḥ* — which Viṣṇu; *tredhā* — three times; *vicakramāṇaḥ* — striding in diverse ways towards all the worlds he created; *urugāyaḥ* — praised by the great; *uttaram* — the exceedingly wide; *sadhastham* — the atmosphere that is a resting-place for the three worlds; *askabhāyat* — who made firm (such a one); *viṣṇoḥ* — of Viṣṇu, who pervades the whole universe; *vīryāṇi* — the heroic deeds; *nu kam* — very quickly; *pravocam* — I praise.
+
+---
+
+### Printed p. 566  (PDF 584)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+**भावार्थः (Bhāvārtha).** I will very quickly praise the heroic deeds of Viṣṇu, the all-pervader, who made in a special way all the worlds beginning with the earth, who strode through all the worlds he created in various ways, praised by the great, and who made firm the very wide atmosphere.
+
+**English Translation (as printed).** Earnestly I glorify the exploits of Vishnu, who made the three worlds; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** At the third pressing, when the Soma overflows, the three Ṛks (*tṛca*) beginning *pra tad viṣṇuḥ* are to be added in the *śastra*-mantras as *anuvāda* Ṛks, as is explained in the Āśvalāyana Śrauta-sūtra, in the section *somātireke*, by the sūtra *pra tad viṣṇuḥ stavate vīryeṇeti stotriyānurūpau* (Ā. 6-7 [?]); and in the section on *vājapeya*, by the sūtra *adya śipiviṣṭanāma pra tat te viṣṇuḥ stavate vīryeṇa* (Ā. 9-8 [?]).
+
+Of the separate sūktas on Viṣṇu in the whole Ṛgveda-saṃhitā, this is the first. Earlier, in the sūktas 1-22 and 1-23 [?] the praise of Viṣṇu has been given, and what is to be known of Viṣṇu's nature and greatness has been explained in those sūktas, in the special topics of the Ṛks 1-22-[?] etc.; the views of the Western scholars (individual and prejudiced, as the Kannada puts it) on Viṣṇu's place and the like, were stated in the introduction to this part. Since this sūkta stands among those that praise Indra and Viṣṇu together, some other special qualities are told here. In the present Ṛk, to the question what kind of …, "I will quickly proclaim the heroic deeds of Viṣṇu" — as the poet resolves, Dīrghatamas in the manner of Indra's *pra vocam* … [partly illegible]. By the Aitareya Brāhmaṇa, in the Agni-Māruta *śastra*, this sūkta is used; its use is given in the Āśvalāyana Śrauta-sūtra (5-30); the greatness of this Ṛk is told in the Brāhmaṇa as follows.
+
+> यज्ञोजसा सखिभिता रजांसीति वैष्णवारुणीमृचं शंसति विष्णुर्वै यज्ञस्य दुरिष्टं पाति वरुणः स्विष्टं तयोरुभयोरेव शान्त्यै [?] ।
+
+> *yajñojasā sakhibhitā rajāṃsīti vaiṣṇavāruṇīmṛcaṃ śaṃsati viṣṇurvai yajñasya duriṣṭaṃ pāti varuṇaḥ sviṣṭaṃ tayorubhayoreva śāntyai [?] |*
+
+---
+
+### Printed p. 567  (PDF 585)
+
+*(Header: "A. 2 A. 2 Va. 35" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> "विष्णोर्नु कं वीर्याणि प्रवोचम्" इति वैष्णवीं शंसति यथा वैषम्यं [?] यज्ञस्य विष्णुस्पष्टं [?] निर्मार्थ्यकृतं सुक्ष्मष्टं सुतिकृतं कुर्वन्निष्कृतवेवैतृयज्ञस्य दुष्टुतं दुःशस्तं सुष्टुतं सुशस्तं कुर्वन्ति यदेवैतां होता शंसति ।
+
+> *"viṣṇornu kaṃ vīryāṇi pravocam" iti vaiṣṇavīṃ śaṃsati yathā vaiṣamyaṃ [?] yajñasya viṣṇuspaṣṭaṃ [?] nirmārthyakṛtaṃ sukṣmaṣṭaṃ sutikṛtaṃ kurvanniṣkṛtavevaitṛyajñasya duṣṭutaṃ duḥśastaṃ suṣṭutaṃ suśastaṃ kurvanti yadevaitāṃ hotā śaṃsati |*
+
+(Ai. Brā. 13-[?], as printed "ಐ. ಬ್ರಾ. ೧೩-೧೪"; reading doubtful.) "Of the whole of the worldly activities — *mataḥ* [?]: 'as the work is, so is the fruit in the world, so is Viṣṇu too' — as by good judgement an action is done and its fruit is favourable, so Viṣṇu as well, in sacrifices, takes away the evil of what was offered badly and the fruit becomes good [reading uncertain]; therefore the *hotṛ* recites this Ṛk beginning *viṣṇor nu kam vīryāṇi*, for it is a praise of Viṣṇu," so it is said.
+
+**पार्थिवानि रजांसि** — for this Sāyaṇa gives three meanings. First, *pārthivāni* = *pṛthivī-sambandhīni*, *rajanātmakāni*, *kṣity-ādi-lokatrayābhimāninī-agni-vāyv-ādityarūpāṇi* — "the presiding deities of the three worlds, earth and the rest, in the form of Agni, Vāyu and Āditya, who are *rajas* because they colour (*rañjana*)", whom Viṣṇu made. That the three worlds too are meant by *pārthivāni* is supported by Vedic passages:
+
+> यदिन्द्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्यामुत स्थः ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥
+
+> *yadindrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyāmuta sthaḥ |*
+> *ataḥ pari vṛṣaṇāvā hi yātamathā somasya pibataṃ sutasya ‖*
+
+(Ṛ. Saṃ. 6-60-8.) In it, *avamasyāṃ pṛthivyām* means "on the earth", *madhyamasyāṃ pṛthivyām* "in the atmosphere", *paramasyām* "in the heavenly world" [as printed, with "also" etc.]. Here *pṛthivī* is the name of the three worlds. Moreover,
+
+> विश्वा[?]र्यो मे षात्रे [?] तिक्यायसे [?] मेस्यवतना [?] नाथितस्य व्यथितस्य विदेरग्नि-र्नभो नामाग्ने अङ्गिरो यो ऽस्यां पृथिव्यामस्यायुषा नाम्नेहि [?]
+
+> *viśvā[?]ryo me ṣātre [?] tikyāyase [?] mesyavatanā [?] nāthitasya vyathitasya videragni-rnabho nāmāgne aṅgiro yo 'syāṃ pṛthivyāmasyāyuṣā nāmnehi [?]*
+
+---
+
+### Printed p. 568  (PDF 586)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+> यस्यां पृथिव्यामस्मायुषा नाम्नेहि यत्रेना वृष्णु [?] नाम ।
+
+> *yasyāṃ pṛthivyāmasmāyuṣā nāmnehi yatrenā vṛṣṇu [?] nāma |*
+
+(Tai. Saṃ. 1-[?]-[?]-[?].) In this Taittirīya-saṃhitā passage too, *asyāṃ pṛthivyām*, *dvitīyasyāṃ pṛthivyām*, *tṛtīyasyāṃ pṛthivyām* are shown to be three worlds called "earth". Hence *pārthivāni rajāṃsi* means the presiding deities of the three worlds, Agni, Vāyu and Āditya, who are *rajas*; Viṣṇu *vimame*, made them.
+
+Second: *lokā rajāṃsy ucyante* — "worlds are called *rajāṃsi*" — recalling the *Nirukta*-author's sentence, *pārthivāni* = *pṛthivī-sambandhīni*; *pṛthivyā adhaḥsthān saptalokān* — "the seven worlds beneath the earth": Atala, Vitala, Sutala, Rasātala, Talātala, Mahātala and Pātāla — he created.
+
+Third: *pārthivāni pṛthivīmitrakāṇi rajāṃsi lokān vimame* — "the worlds associated with the earth": the three Bhūḥ, etc. Because actions done on the earth are enjoyed in other worlds, the earth is the cause of the creation of those worlds; hence the three explanations of *vimame* are given by Sāyaṇa.
+
+> रजांसि — रजो रजतेर्ज्योतीरज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यन्ते ॥
+
+> *rajāṃsi — rajo rajaterjyotīraja ucyate | udakaṃ raja ucyate | lokā rajāṃsyucyante ‖*
+
+(Ni. 4-19 [?].) From the root *rañj*, meaning "brightness", the word *rajas* gets the meaning "light", "water" and "worlds"; other possible meanings are given in this part. Here "shining worlds".
+
+> त्रीणि भान्ति रजांस्यस्य यत्रेदानीं तु तेजसा ।
+> तेन मेधातिथिः प्राह विष्णोर्येन त्रिविक्रमम् ॥
+
+> *trīṇi bhānti rajāṃsyasya yatredānīṃ tu tejasā |*
+> *tena medhātithiḥ prāha viṣṇoryena trivikramam ‖*
+
+(Bṛ. De. 2-[?], as printed "ಬೃ. ದೇ. ೨-೩೫".) "By the three steps of Viṣṇu, three worlds shine" — as *rajas* here means "world", so it does in the present Ṛk.
+
+---
+
+### Printed p. 569  (PDF 587)
+
+*(Header: "A. 2 A. 2 Va. 35" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**त्रेधा विचक्रमाणः** — *svasthānān lokān vividhaṃ kramamāṇaḥ*: striding variously through the worlds he himself created.
+
+> इदं विष्णुर्विचक्रमे त्रेधा नि दधे पदम् ।
+> समूळ्हमस्य पांसुरे ॥
+
+> *idaṃ viṣṇurvicakrame tredhā ni dadhe padam |*
+> *samūḷhamasya pāṃsure ‖*
+
+(Ṛ. Saṃ. 1-22-17.) In such Ṛks, *tribhiḥ prakāraiḥ pādaṃ prakṣiptavān* — "he placed his foot in three ways" — Sāyaṇa explains: he strode in three ways with his feet; or the truth, which he explains in the further special topics of the Ṛk.
+
+**उरुगायः** — *urubhir mahadbhir gīyamānaḥ*: praised by the great; or *uruśabda* [meaning] "abundant": "praised exceedingly"; two senses, one praised by the great, the other praised very much.
+
+**उत्तरम्** — *uttaram uddhṛtataro bhavati*: the *Nirukta*-author explains it as "very high" (Ni. 3-[?]). Also,
+
+> आर्ष्टिषेणो होत्रमृषिर्निषीदन् देवापिर्देवसुमतिं चिकित्वान् ।
+> स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥
+
+> *ārṣṭiṣeṇo hotramṛṣirniṣīdan devāpirdevasumatiṃ cikitvān |*
+> *sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi ‖*
+
+(Ṛ. Saṃ. 10-98-5.) Here the word *samudra* shows the meaning "atmosphere" through *uttara* and *adhara*, the two oceans — "the upper" and "the lower": from the upper the lower — a division; the *uttara* is the upper part, the higher heavenly world. In the present Ṛk it is for *uttaram* *uddhṛtataram* *ūrdhvabhāgam*: it qualifies the word *sadhastham* — "the atmosphere that has spread very wide".
+
+**सधस्थम्** — *sahasthānaṃ lokatrayāśrayabhūtam antarikṣam*: the word *sadhastha* means "common abode" — here only it is a synonym for atmosphere; in the Ṛks the place of the sacrificial altar is also called *sadhastha*; the *Nirukta*-author:
+
+> कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः ।
+> को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥
+
+> *kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ |*
+> *ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā ‖*
+
+(Ṛ. Saṃ. 10-40-2.) Here *sadhasthe* means "a place of common dwelling".
+
+---
+
+### Printed p. 570  (PDF 588)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+… (in sūktas like *tri-sadhasthaḥ* in 4-2-2 and 6-1-2 [?]) *lokeṣu sahāvasthānam* "joint dwelling in the worlds" is the meaning. In the present Ṛk, since all three worlds find a common support, "the atmosphere", or *sahasthānaṃ puṇyakṛtāṃ sahanivāsayogyaṃ bhūrādilokasapta* [?], or *uttaram utkṛṣṭataraṃ sarveṣāṃ lokānām upari bhūtaṃ sadhastham satyalokam*: "the *satyaloka*, highest of all worlds and most extensive", so Sāyaṇa explains.
+
+**विष्णोः** — *atha yad viśito bhavati tad viṣṇur bhavati viṣṇur viśater vā vyaśnoter vā* — the *Nirukta*-author shows its derivation: from the root *viś*, "to enter" (the one who enters and unites), or from *vyaś* (*vi* + *aś*), "to pervade". Quoting
+
+> इदं विष्णुर्विचक्रमे त्रेधा नि दधे पदम् ।
+> समूळ्हमस्य पांसुरे ॥
+
+> *idaṃ viṣṇurvicakrame tredhā ni dadhe padam |*
+> *samūḷhamasya pāṃsure ‖*
+
+(Ṛ. Saṃ. 1-22-17.) he explains Viṣṇu's pervading nature.
+
+**नु कम्** — for this particle the different uses were told before. Sāyaṇa here says *atiśīghram*; and *nu kam iti padadvayam*; and Yāska says *nevottarāṇi padāni* (Ni. 1-[?]); since in other recensions it is read with *nu* alone, *nu kam* are two words, but *nukam* is also read as one word. The *Nirukta* author has put the word *nukam* in the list of "all-word-names"; following the rule that these words …, here too it is a single word, [the sense being] "nu" alone [reading uncertain].
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar pages 570–571, noted briefly).** *viṣṇoḥ* (root *viṣḷṛ vyāptau*; *viṣer ki ca* (Uṇ. Sū. 3-[?]) *nu* suffix; *kit*, hence no *laghūpadhaguṇa*; *sit*-sūtra… *vṛddhi*-reversed; first *udātta*; genitive sg.); *vīryāṇi* (root *śūra vīra vikrāntau*; *ṇic*, *aco yat* (Pā. Sū. 3-1-97) *yat*; *ṇeraniṭi* (Pā. Sū. 6-4-51) loss of *ṇi*; *tit svaritam* (Pā. Sū. 6-1-185) *svarita* accent; for the word *vīra*, with *yat* no first *udātta*, as said in Ṛ. Saṃ. 1-[?]-[?]).
+
+---
+
+**Progress note:** Sūkta 154 in progress: Ṛk 1 under way (printed pp. 564–570, PDF 582–588; bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and most of the grammar notes done; the grammar page continues on p. 571, then Ṛk 2). Next: printed p. 571 (PDF 589). Open flags: small-type bhāṣya on p. 565 and the Taittirīya/Aitareya-Brāhmaṇa/Ṛg quotations on pp. 565–570 transcribed at low confidence (many `[?]`); reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
