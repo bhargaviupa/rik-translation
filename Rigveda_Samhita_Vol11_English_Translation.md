@@ -1266,7 +1266,7 @@ But that *anṛta* here is an epithet of water is a point worth some thought. Th
 
 ***hiraṇyayam.*** *Hiraṇyarūpam* — "having a golden form".
 
-**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ādadāthe* (root *dudhāñ dāne*; *liṭ* second person dual, *āthām*; reduplication; as *yat* precedes and is connected, *nighāta* is barred by *nipātair yad yadi…* (Pā. Sū. 8-1-30); the suffix takes the first-syllable accent), *itthā* (*idamas thamu* (Pā. Sū. 5-3-24), in the sense of manner; the case-ending replaced by *supāṃ sulukpūrva…* (Pā. Sū. 7-1-[?]) with *ḍāc*/*ṭi*-loss; *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-161)), *sadmasu* (root *sad*, "going, sitting, perishing"; *manin* by *anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75); *nit*, first-syllable accent), *apaśyāma* (root *dṛśir prekṣaṇe*; Vedic *laṅ* first person plural; first-syllable accent), *yuvoḥ* (*yuvayoḥ*, the *y* dropped by Vedic usage), *hiraṇyayam* (*mayaṭ* in the sense of "made of"; the *ṭ* of *mayaṭ* is lost by *ṛtvyavāstvyavāstva…* (Pā. Sū. 6-4-175) by *nipātana*), *dhībhiḥ* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168): the case-ending takes the *udātta*). Sūtra numbers not read.
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ādadāthe* (root *dudhāñ dāne*; *liṭ* second person dual, *āthām*; reduplication; as *yat* precedes and is connected, *nighāta* is barred by *nipātair yad yadi…* (Pā. Sū. 8-1-30); the suffix takes the first-syllable accent), *itthā* (*idamas thamu* (Pā. Sū. 5-3-24), in the sense of manner; the case-ending replaced by *supāṃ sulukpūrva…* (Pā. Sū. 7-1-39) with *ḍāc*/*ṭi*-loss; *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-161)), *sadmasu* (root *sad*, "going, sitting, perishing"; *manin* by *anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75); *nit*, first-syllable accent), *apaśyāma* (root *dṛśir prekṣaṇe*; Vedic *laṅ* first person plural; first-syllable accent), *yuvoḥ* (*yuvayoḥ*, the *y* dropped by Vedic usage), *hiraṇyayam* (*mayaṭ* in the sense of "made of"; the *ṭ* of *mayaṭ* is lost by *ṛtvyavāstvyavāstva…* (Pā. Sū. 6-4-175) by *nipātana*), *dhībhiḥ* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168): the case-ending takes the *udātta*). Sūtra numbers not read.
 
 ---
 
@@ -1274,7 +1274,7 @@ But that *anṛta* here is an epithet of water is a point worth some thought. Th
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Grammar of Ṛk 2, concluded; noted briefly.)* *svebhiḥ* (by *bahulaṃ chandasi* the *bhis* does not become *ais*; by *bahuvacane jhaly et* [?] the *e*), *akṣabhiḥ* (*chandasy api dṛśyate* (Pā. Sū. 6-4-[?]) gives *anaṅ*-substitution; the *ā* is *udātta*; *nalopaḥ prātipadikāntasya* drops the *n*; the *a* being *udātta*, the word is middle-accented). ‖ 2 ‖
+*(Grammar of Ṛk 2, concluded; noted briefly.)* *svebhiḥ* (by *bahulaṃ chandasi* the *bhis* does not become *ais*; by *bahuvacane jhaly et* the *e*), *akṣabhiḥ* (*chandasy api dṛśyate* (Pā. Sū. 7-1-76) gives *anaṅ*-substitution; the *ā* is *udātta*; *nalopaḥ prātipadikāntasya* drops the *n*; the *a* being *udātta*, the word is middle-accented). ‖ 2 ‖
 
 #### Ṛk 3
 
@@ -1304,23 +1304,23 @@ But that *anṛta* here is an epithet of water is a point worth some thought. Th
 
 **॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; first the Āśvalāyana citation of the use of the Ṛk, then the bhāṣya, which runs on to p. 49. Small type; doubtful words marked)
 
-> पृष्ठ्यस्य षष्ठेऽहनि प्रउगशस्त्रे युवां स्तोमेभिरित्याश्विनस्तृचः । पञ्चमस्येति [?] खण्डे सूत्रितम् । युवां स्तोमेभिर्देवयन्तो अश्विनावर्मूह [?] इन्द्र [?] । आ. [?] । इति ॥
+> पृष्ठ्यस्य षष्ठेऽहनि प्रउगशस्त्रे युवां स्तोमेभिरित्याश्विनस्तृचः । षष्ठस्येति खण्डे सूत्रितम् । युवां स्तोमेभिर्देवयन्तो अश्विनावर्मूह इन्द्र । आ. ८-१ । इति ॥
 
-> *pṛṣṭhyasya ṣaṣṭhe 'hani praugaśastre yuvāṃ stomebhirityāśvinastṛcaḥ | pañcamasyeti [?] khaṇḍe sūtritam | yuvāṃ stomebhirdevayanto aśvināvarmūha [?] indra [?] | ā. [?] | iti ‖*
+> *pṛṣṭhyasya ṣaṣṭhe 'hani praugaśastre yuvāṃ stomebhirityāśvinastṛcaḥ | ṣaṣṭhasyeti khaṇḍe sūtritam | yuvāṃ stomebhirdevayanto aśvināvarmūha indra | ā. 8-1 | iti ‖*
 
-> हे अश्विनौ देवौ युवां स्तोमेभिः स्तोत्रैर्देवयन्तो युवां [?] आत्मन इच्छन्त आयवः मनुष्यनामैतत् । यजमानाः श्लोकं यस्मै [?] स्तुतिरूपां वाचमश्रावयन्त इव सर्वतः श्रवणविषयां कुर्वन्ते इव
+> हे अश्विनाश्विनौ देवौ युवां स्तोमेभिः स्तोत्रैर्देवयन्तो युवामात्मन इच्छन्ते आयवः । मनुष्यनामैतत् । यजमानाः श्लोकं युष्मदीयस्तुति-
 
-> *he aśvinau devau yuvāṃ stomebhiḥ stotrairdevayanto yuvāṃ [?] ātmana icchanta āyavaḥ manuṣyanāmaitat | yajamānāḥ ślokaṃ yasmai [?] stutirūpāṃ vācamaśrāvayanta iva sarvataḥ śravaṇaviṣayāṃ kurvante iva*
+> *he aśvināśvinau devau yuvāṃ stomebhiḥ stotrairdevayanto yuvāmātmana icchante āyavaḥ | manuṣyanāmaitat | yajamānāḥ ślokaṃ yuṣmadīyastuti-*
 
 ### Printed p. 49  (PDF 67)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
-*(Bhāṣya of Ṛk 3, continued from p. 48; small type, only partly read.)*
+*(Bhāṣya of Ṛk 3, continued from p. 48; small type, read from the better scan.)*
 
-> स्तुवन्ति । श्लोक इति वाङ्नाम । श्लोको धारयति [?] तेन्नामसूक्तस्तुतः [?] वा । यद्वा । युवां हव्याभ्यायवः [?] हविर्भिराहुतिभिर्मनुष्याः स्तुवन्ति [?] । किञ्च हे विश्ववेदसा सर्वधनौ युवोरेव युवयोः सम्बन्धिन्यो विश्वाः श्रियः सेवनीयाः सर्वा लक्ष्म्यः [?] अध्यधिकं भजन्ते इति शेषः । किञ्च पृक्षश्चान्नमपि युष्मत्सकाशादध्यधिकं लभन्ते [?] । किञ्च हे दस्रा शत्रूणामुपक्षयितारौ वां हिरण्यये रथे हिरण्मये [?] मधुपूर्णे रथे पवयः [?] … प्रुषायन्ते क्षरन्ति स्रवन्ति । प्रुष प्लुष स्नेहनसेचनपूरणेषु । छन्दसि शायजपि [?] । मधुपूर्णपात्रोपेतत्वाद्रथस्यागमनेन चक्रेषु मधूनि स्रवन्तीति भावः । पवि रथनेमिर्भवति यद्विपुनाति भूमिमिति निरुक्तम् (नि. [?]-[?]) । अश्विनो रथस्य मधुपूर्णत्वं त्रय्याः पवयो मधुपात्राः [?] (ऋ. १-[?]-[?]) इत्यादिषु प्रसिद्धम् । किञ्च तादृशे हिरण्यये रथे मधुरं हविर्वाहनमिति शेषः ॥
+> रूपां वाचमाश्रावयन्ते इव सर्वतः श्रवणविषयां कुर्वन्ते इव स्तुवन्ति । श्लोक इति वाङ्नाम । श्लोको धारेति तन्नामसूक्तत्वात् । कीदृशास्ते । युवां हव्या हविषाज्यादिनाभ्यायव आभिमुख्येन प्रापयन्तो वा । किञ्च हे विश्ववेदसा सर्वधनौ युवोर्युवयोः सम्बन्धिन्यो विश्वाः श्रियः सेवनीयाः सर्वा लक्ष्मीर्धनकनकादिरूपा अध्यधिकं भजन्ते इति शेषः । किञ्च पृक्षश्चान्नमपि युष्मत्सकाशादध्यधिकं लभन्ते । किञ्च हे दस्रा शत्रूणामुपक्षयितारौ वां हिरण्यये रथे हिरण्मये मधुपूर्णे रथे पवयस्तन्नेमयः प्रुषायन्ते । क्षरन्ति स्रवन्ति ॥ प्रुष प्लुष स्नेहनसेचनपूरणेषु । छन्दसि शायजपीत्यहावपि श्नः शायजादेशः ॥ मधुपूर्णपात्रोपेतत्वात् शीघ्रगमनेन चक्रेषु मधूनि स्रवन्तीति भावः । पवी रथनेमिर्भवति यद्विपुनाति भूमिमिति निरुक्तम् । ३-३ [?] । अश्विनो रथस्य मधुपूर्णत्वं त्रय्याः पवयो मधुवाहने रथे । ऋ. १-३४-२ । इत्यादिषु प्रसिद्धम् । किञ्च तादृशे हिरण्यये हृदयरमणे रथे मधुरं हविर्वहनमिति शेषः ॥
 
-> *stuvanti | śloka iti vāṅnāma | śloko dhārayati [?] tennāmasūktastutaḥ [?] vā | yadvā | yuvāṃ havyābhyāyavaḥ [?] havirbhirāhutibhirmanuṣyāḥ stuvanti [?] | kiñca he viśvavedasā sarvadhanau yuvoreva yuvayoḥ sambandhinyo viśvāḥ śriyaḥ sevanīyāḥ sarvā lakṣmyaḥ [?] adhyadhikaṃ bhajante iti śeṣaḥ | kiñca pṛkṣaścānnamapi yuṣmatsakāśādadhyadhikaṃ labhante [?] | kiñca he dasrā śatrūṇāmupakṣayitārau vāṃ hiraṇyaye rathe hiraṇmaye [?] madhupūrṇe rathe pavayaḥ [?] … pruṣāyante kṣaranti sravanti | pruṣa pluṣa snehanasecanapūraṇeṣu | chandasi śāyajapi [?] | madhupūrṇapātropetatvādrathasyāgamanena cakreṣu madhūni sravantīti bhāvaḥ | pavi rathanemirbhavati yadvipunāti bhūmimiti niruktam (ni. [?]-[?]) | aśvino rathasya madhupūrṇatvaṃ trayyāḥ pavayo madhupātrāḥ [?] (ṛ. 1-[?]-[?]) ityādiṣu prasiddham | kiñca tādṛśe hiraṇyaye rathe madhuraṃ havirvāhanamiti śeṣaḥ ‖*
+> *rūpāṃ vācamāśrāvayante iva sarvataḥ śravaṇaviṣayāṃ kurvante iva stuvanti | śloka iti vāṅnāma | śloko dhāreti tannāmasūktatvāt | kīdṛśāste | yuvāṃ havyā haviṣājyādinābhyāyava ābhimukhyena prāpayanto vā | kiñca he viśvavedasā sarvadhanau yuvoryuvayoḥ sambandhinyo viśvāḥ śriyaḥ sevanīyāḥ sarvā lakṣmīrdhanakanakādirūpā adhyadhikaṃ bhajante iti śeṣaḥ | kiñca pṛkṣaścānnamapi yuṣmatsakāśādadhyadhikaṃ labhante | kiñca he dasrā śatrūṇāmupakṣayitārau vāṃ hiraṇyaye rathe hiraṇmaye madhupūrṇe rathe pavayastannemayaḥ pruṣāyante | kṣaranti sravanti ‖ pruṣa pluṣa snehanasecanapūraṇeṣu | chandasi śāyajapītyahāvapi śnaḥ śāyajādeśaḥ ‖ madhupūrṇapātropetatvāt śīghragamanena cakreṣu madhūni sravantīti bhāvaḥ | pavī rathanemirbhavati yadvipunāti bhūmimiti niruktam | 3-3 [?] | aśvino rathasya madhupūrṇatvaṃ trayyāḥ pavayo madhuvāhane rathe | ṛ. 1-34-2 | ityādiṣu prasiddham | kiñca tādṛśe hiraṇyaye hṛdayaramaṇe rathe madhuraṃ havirvahanamiti śeṣaḥ ‖*
 
 **Pratipadārtha (Kannada).** *aśvinā* — O Aśvins; *yuvām* — you; *stomebhiḥ* — with hymns; *devayantaḥ* — desiring to win (you); *yuvām* — you; *havyā* — with oblations in the form of ghee and the like; *abhi āyavaḥ* — approaching; *āyavaḥ* — men; *ślokam* — praise-words (that praise you); *āśrāvayanta iva* — recite as if making them fall upon your ears; (then) *viśvavedasā* — O Aśvins, lords of all wealth; *yuvoḥ* — belonging to you; *viśvā śriyaḥ* — all riches; *pṛkṣaḥ ca* — and also food; *adhi* — in great measure (they enjoy); *dasrā* — O Aśvins, destroyers of foes; *vām* — your; *hiraṇyaye rathe* — in the golden chariot; *pavayaḥ* — the wheels of the chariot; *pruṣāyante* — let drip honey; *hiraṇyaye* — in that golden chariot, of wondrous work (carrying the oblation, come and go).
 

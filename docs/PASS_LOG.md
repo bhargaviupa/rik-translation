@@ -23,3 +23,5 @@
 2026-10-23 16:41 PDF 63-63: remaining [?] EN 2, KN 1. after: 24 cleared; verse 'agnir gāndharvīṃ…' corrected; Ṛg 9-… → 4-5-9
 2026-10-23 16:42 PDF 64-64: remaining [?] EN 1, KN 0. after: 34 cleared (1 doubtful ref kept); verse 'parikṣitā' corrected
 2026-10-23 16:42 PDF 65-65: remaining [?] EN 2, KN 1. after: 33 cleared
+2026-10-23 16:43 PDF 66-66: remaining [?] EN 4, KN 2. after: 14 → 2 [?] left in the partial bhāṣya (finished with PDF 67)
+2026-10-23 16:44 PDF 67-67: remaining [?] EN 2, KN 1. after: 29 cleared; whole bhāṣya p.48-49 read; 1 numeral [?]
