@@ -14361,4 +14361,172 @@ Then, in Kannada: "Besides the VI. 36-1 [sic: as printed, for IV. 36-1] Ṛk quo
 
 ---
 
-**Progress note:** Sūkta 152 complete (printed pp. 517–544, PDF 535–562; Ṛk 7 ends on p. 544, no closing line printed). Sūkta 153 begun on p. 544 (Anukramaṇī, Anuvāda, heading; 4 Ṛks; Mitrāvaruṇau; Triṣṭubh; varga "33" [?]; the Anukramaṇī/anuvāda call it the 14th sūkta of the anuvāka as printed, a sequential count would give 13th). Ṛk 1 under way on pp. 545–546 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topics notes done; grammar continues on p. 547). Next: printed p. 547 (PDF 565). Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 547  (PDF 565)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā". Grammar of Ṛk 1, concluded, noted briefly.)*
+
+*(Ṛk 1 grammar:)* *sajoṣāḥ* (*samānaṃ joṣo yeṣāṃ te sajoṣāḥ*; root *juṣī prītisevanayoḥ*; *asun* suffix, *pratyayasvara*, lightening of the penultimate; *samānasya chandasi…* (Pā. Sū. 6-3-84) *sa* for *samāna*; the *kṛdutara* member keeps its accent); *havyebhiḥ* (*bahulaṃ chandasi* (Pā. Sū. 7-1-10): *bhis* does not take *ais*, the *ais* being optional); *ghṛtasnū* (*ghṛtaṃ snāvayati iti ghṛtasnū*; root *snu pravaṇe*; *kvip*; vocative dual; *āmantritasya ca* — *nighāta*); *bharanti* (root *bhṛñ bharaṇe*; *laṭ* 3rd pl.; no *nighāta* since connected with *yat*; *tāsyanudāttet* (Pā. Sū. 6-1-186) *lasārvadhātuka* *anudātta*, so the root accent stays). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> प्रस्तुतिर्वां धाम न प्रयुक्तिरयामि मित्रावरुणा सुवृक्तिः ।
+> अनक्ति यद्वां विदथेषु होता सुम्नं वां सूरिर्वृषणा इयक्षन् ॥ २ ॥
+
+> *prastutirvāṃ dhāma na prayuktirayāmi mitrāvaruṇā suvṛktiḥ |*
+> *anakti yadvāṃ vidatheṣu hotā sumnaṃ vāṃ sūrirvṛṣaṇā iyakṣan ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रऽस्तुतिः । वाम् । धाम । न । प्रऽयुक्तिः । अयामि । मित्रावरुणा । सुऽवृक्तिः ।
+> अनक्ति । यत् । वाम् । विदथेषु । होता । सुम्नम् । वाम् । सूरिः । वृषणा । इयक्षन् ॥ २ ॥
+
+> *pra 'stutiḥ | vām | dhāma | na | pra 'yuktiḥ | ayāmi | mitrāvaruṇā | su 'vṛktiḥ |*
+> *anakti | yat | vām | vidatheṣu | hotā | sumnam | vām | sūriḥ | vṛṣaṇā | iyakṣan ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the mere resolve to perform your sacrifice is not the whole performance, yet by that much I attain your radiant abode; when the priest offers the oblation, I who know your greatness and wish to sacrifice share the joy of divine state. Small type, read with doubt.)*
+
+> हे मित्रावरुणौ वां युवयोः संबन्धिनो यागस्य प्रस्तुतिः प्रस्तावनं करोमीति संकल्प इव न प्रयुक्तिः कृत्स्नप्रयोगो न संपन्नः । तावतैव युवयोर
+
+> *he mitrāvaruṇau vāṃ yuvayoḥ saṃbandhino yāgasya prastutiḥ prastāvanaṃ karomīti saṃkalpa iva na prayuktiḥ kṛtsnaprayogo na saṃpannaḥ | tāvataiva yuvayora*
+
+---
+
+### Printed p. 548  (PDF 566)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+*(Sāyaṇa-bhāṣya, continued from p. 547:)*
+
+> धाम तेजःस्थानमयामि । प्राप्नोमि । सुवृक्तिर्यज्ञादि [?] पृथक्कर्मोपवर्णनं [?] । यद्यदा तु विदथेषु यज्ञेषु वां युवां होता होमनिष्पादकोऽध्वर्युर्हविषामनक्ति [?] । होमं कर्मोपदेशं [?] । यद्वा । होतेत्यभिधानात् [?] देवानामाह्वातुरिति [?] तदा सूरिर्यज्ञस्य माहात्म्यविदिह [?] इयक्षन् यज्ञं कर्तुमिच्छन्नहं हे वृषणौ कामानां वर्षितारौ वां युवयोः सुम्नं युष्मत्संबन्धि सुखं देवत्वलक्षणमयामीति शेषः ॥
+
+> *dhāma tejaḥsthānamayāmi | prāpnomi | suvṛktiryajñādi [?] pṛthakkarmopavarṇanaṃ [?] | yadyadā tu vidatheṣu yajñeṣu vāṃ yuvāṃ hotā homaniṣpādako 'dhvaryurhaviṣāmanakti [?] | homaṃ karmopadeśaṃ [?] | yadvā | hotetyabhidhānāt [?] devānāmāhvāturiti [?] tadā sūriryajñasya māhātmyavidiha [?] iyakṣan yajñaṃ kartumicchannahaṃ he vṛṣaṇau kāmānāṃ varṣitārau vāṃ yuvayoḥ sumnaṃ yuṣmatsaṃbandhi sukhaṃ devatvalakṣaṇamayāmīti śeṣaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *vām* — (O Mitra-Varuṇa), you (the sacrifice to be offered to); *prastutiḥ* — the mere resolve, of the form of a preliminary announcement; *na prayuktiḥ* — does not amount to a complete performance of the rite; (but even by that much alone) *dhāma* — your radiant abode; *ayāmi* — I attain; *yat* — when; *videṣu* — in sacrifices; *vām* — you; *hotā* — the *adhvaryu* who performs the oblation, or the priest named Hotṛ; *anakti* — offers oblation and performs the *homa* (then); *vṛṣaṇā* — O Mitra-Varuṇa, bestowers of wishes; *sūriḥ* — one who knows your greatness; *iyakṣan* — and wishes to perform the sacrifice, I; *vām* — your; *sumnam* — the happiness (of divine state) (I attain).
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, the mere preliminary resolve of the sacrifice to be offered to you does not amount to the performance of the full rite. Yet by doing even so much I attain your radiant abode. And when, in sacrifices, the *adhvaryu*, who accomplishes the oblation, makes the offering and performs the *homa*, then, O Mitra-Varuṇa, bestowers of wishes, I who know your greatness and wish to perform the sacrifice attain the happiness, of the nature of divinity, which you both enjoy.
+
+**English Translation (as printed).** The purpose of worshipping you, Mitra and Varuna, is not the performance, but (even by so much) I may attain to your glory, and there is acquittance (of my duty); for when the priest offers you oblations in sacrifices, then the pious man, showerers (of benefits), being desirous of worshipping you, (obtains) felicity.
+
+---
+
+### Printed p. 549  (PDF 567)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **प्रस्तुतिर्न प्रयुक्तिः** — *prastuti* and *prayukti* are both said to belong to sacrifice, but this statement, by showing a difference between the two, indicates the assurance that merely by *prastuti* one can obtain the favour of Mitra-Varuṇa and gain their abode. Thus, by the help of *prastuti*, a mere limb of the rite, one can reach the *dhāman* of Mitra-Varuṇa; and if the rite is performed in full, its fruit is greater still — this is the purport.
+
+*Prastutiḥ prastāvanā; karomīti saṃkalpa iva* — Sāyaṇa takes this as "the resolve in the form of a preliminary announcement, 'I shall carry the rite through completely'". What *prastāva* is, and what place it has in the rite, Sāyaṇa has explained in his commentary on the *Aitareya Brāhmaṇa*; and such an introductory chant is, in the *prastutikāma* [section of the *Bhāmogyādi*, as printed, uncertain], stated … The origin and nature of *prastāva* are told in the *Aitareya Brāhmaṇa* in the form of this story:
+
+> ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा वा ऋक्सामोपावदन्मिथुनं संभवाव प्रजात्यै [?] इति सा ब्रवीन्नानु ज्यायान्मा महे मे महिमेति [?] ते द्वे भूत्वोपावदतां तेन प्रतीचेन समुवदतां ताः स्त्रयो भूत्वोपावदं स्त्रिस्वरभिः समभवत्यास्त्रि स्वर्भिः [?] सुवन्ति तिसृभिरुद्गायन्ति तिसृभिर्साम [?] समित्येषां [?] यदेव तिस्र [?] ... स इत्वाभ्ये [?] ... सामत्वं सामानुरूपं ... [?] भवति य एवं वेद ... पञ्चैव [?] ... ऋचामुत्पत्तिः [?] ... हिंकारश्च प्रस्तावश्च [?] प्रथमं च ऋग्गुद्गीथश्च मध्यमा च प्रतिहारश्चेत्येतमा च निधनं च वषट्कारश्च इति ॥
+
+> *ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā vā ṛksāmopāvadanmithunaṃ saṃbhavāva prajātyai [?] iti sā bravīnnānu jyāyānmā mahe me mahimeti [?] te dve bhūtvopāvadatāṃ tena pratīcena samuvadatāṃ tāḥ strayo bhūtvopāvadaṃ strisvarabhiḥ samabhavatyāstri svarbhiḥ [?] suvanti tisṛbhirudgāyanti tisṛbhirsāma [?] samityeṣāṃ [?] yadeva tisra [?] ... sa itvābhye [?] ... sāmatvaṃ sāmānurūpaṃ ... [?] bhavati ya evaṃ veda ... pañcaiva [?] ... ṛcāmutpattiḥ [?] ... hiṃkāraśca prastāvaśca [?] prathamaṃ ca ṛggudgīthaśca madhyamā ca pratihāraścetyetamā ca nidhanaṃ ca vaṣaṭkāraśca iti ‖*
+
+(Ai. Brā. 13-13 [?], as printed; the passage is long and the small-type reading is partly doubtful.) [Kannada gloss of the passage:] At the beginning, *ṛk* was in the feminine word and *sāman* in the masculine; they had a desire for offspring and *ṛk* wished to unite with *sāman*. Then *sāman* could not show the greatness of its manhood. Taking its form, *ṛk* again begged *sāman*, and with its consent, when the two joined, two groups of *śastra*s arose together — these are the *prastāva* and the rest. They are:
+
+> ते वै के इव वक्ष्यमाणाः श्रावयवाः पञ्च संख्याता अन्यत्र प्रयोगे शस्त्ररूपं भूत्वा वर्तन्ते । तथा हिंकाराद्ये पञ्च सामांशा वैश्वदेवावयवाः
+
+> *te vai ke iva vakṣyamāṇāḥ śrāvayavāḥ pañca saṃkhyātā anyatra prayoge śastrarūpaṃ bhūtvā vartante | tathā hiṃkārādye pañca sāmāṃśā vaiśvadevāvayavāḥ*
+
+---
+
+### Printed p. 550  (PDF 568)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+> अन्यत्रैके सामरूपं भूत्वा वर्तन्ते च । ………… तदेतत्पञ्चविधं शस्त्रस्तोत्ररूपम् । उद्गात्रा प्रास्तूयते सामा आदौ हिमित्येवंशब्दो हिंकारः । गातव्यः सामावयवः प्रस्तावः । उद्गात्रा गातव्य उद्गीथः । प्रतिहर्त्रा गातव्यः प्रतिहारः । अन्ते सर्वैर्गातव्यो भागो निधनम् । तदेतत्पञ्चविधं स्तोत्रस्वरूपम् ॥
+
+> *anyatraike sāmarūpaṃ bhūtvā vartante ca | ………… tadetatpañcavidhaṃ śastrastotrarūpam | udgātrā prāstūyate sāmā ādau himityevaṃśabdo hiṃkāraḥ | gātavyaḥ sāmāvayavaḥ prastāvaḥ | udgātrā gātavya udgīthaḥ | pratihartrā gātavyaḥ pratihāraḥ | ante sarvairgātavyo bhāgo nidhanam | tadetatpañcavidhaṃ stotrasvarūpam ‖*
+
+(Ai. Brā. 11-13 [?], Sāyaṇa's commentary.) Of these, the *hiṅkāra*, pronounced by the *udgātṛ* at the beginning in the form of the syllable *hiṃ*, is the first. The part of the *sāman* sung by the *prastotṛ*, the *prastāva*, is the second. What the *udgātṛ* must recite is the *udgītha*, the third. What the *pratihartṛ* must recite is the *pratihāra*, the fourth. At the end, the part to be sung by all together is called *nidhana*, the fifth. Of these five parts, the second, *prastāva*, is to be pronounced by the *prastotṛ*. To take an example:
+
+> अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः ।
+> देवं देवाय देवयु ॥
+
+> *abhi te madhunā payo 'tharvāṇo aśiśrayuḥ |*
+> *devaṃ devāya devayu ‖*
+
+(Ṛ. Saṃ. 9-11-2 [?].) In this Ṛk the syllable *om* in *abhi te madhunā paya* is the *prastāva* to be pronounced by the *prastotṛ*. This is a mantra addressed to Soma. Here only the mantra part is told; it does not matter that one does not know the deity to whom it is addressed, or what purpose it serves; in fact, knowing it, there is harm [as printed, uncertain]. In this context the sage Uṣasti Cākrāyaṇa explains the nature of the *prastāva* with its five parts, and shows the importance of the connection with the deity addressed, in the *prastotṛ*-hymn, and that one who merely recites the mantra without knowing the deity incurs trouble. The tale is told here to describe the nature and glory of the *prastāva*. Śaṅkarācārya too,
+
+> उद्गीथोपासनप्रसङ्गेन प्रस्तावप्रतिहारयोरप्युपासनं वक्तव्यमिती[?]दमारभ्यते ।
+
+> *udgīthopāsanaprasaṅgena prastāvapratihārayorapyupāsanaṃ vaktavyamitī[?]damārabhyate |*
+
+(Bhā. U. 1-10-1, Śāṅkara-bhāṣya [as printed "भा. उ."].) In the course of the *udgītha*-meditation, he says, the meditation on *prastāva* and *pratihāra* too is to be told; so this [section] begins. The story of Cākrāyaṇa is told in the *Upaniṣad* by him as an introduction. The story is as follows.
+
+> मटचीहतेषु कुरुष्वाटिक्या सह जायया उषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास । स होभ्यं कुल्माषान् खादन्तं बिभिक्षे तं होवाच ॥
+
+> *maṭacīhateṣu kuruṣvāṭikyā saha jāyayā uṣastirha cākrāyaṇa ibhyagrāme pradrāṇaka uvāsa | sa hobhyaṃ kulmāṣān khādantaṃ bibhikṣe taṃ hovāca ‖*
+
+---
+
+### Printed p. 551  (PDF 569)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> नेतोऽन्ये विद्यन्ते यच्च ये म इम उपनिहिता इति । एतेषां मे देहीति होवाच । तानस्मै प्रददौ हन्तानुपानमप्युच्छिष्टं वै मे पीतं स्यादिति होवाच । न स्विदेतेऽप्युच्छिष्टा इति न वा अजीविष्यमिमानखादन्निति होवाच कामो म उदपानमिति । स ह खादित्वातिशेषाञ्जायाया आजहार साग्र एव सुभिक्षा बभूव तान्प्रतिगृह्य निदधौ । स ह प्रातः संजिहान उवाच यद्बतान्नस्य लभेमहि लभेमहि धनमात्रां राजासौ यक्ष्यते स मा सर्वैरृत्विज्यैर्वृणीतेति । तं जायोवाच हन्त पत इम एव कुल्माषा इति तान् खादित्वामुं यज्ञं विततमेयाय ॥
+
+> *neto 'nye vidyante yacca ye ma ima upanihitā iti | eteṣāṃ me dehīti hovāca | tānasmai pradadau hantānupānamapyucchiṣṭaṃ vai me pītaṃ syāditi hovāca | na svidete 'pyucchiṣṭā iti na vā ajīviṣyamimānakhādanniti hovāca kāmo ma udapānamiti | sa ha khāditvātiśeṣāñjāyāyā ājahāra sāgra eva subhikṣā babhūva tānpratigṛhya nidadhau | sa ha prātaḥ saṃjihāna uvāca yadbatānnasya labhemahi labhemahi dhanamātrāṃ rājāsau yakṣyate sa mā sarvairṛtvijyairvṛṇīteti | taṃ jāyovāca hanta pata ima eva kulmāṣā iti tān khāditvāmuṃ yajñaṃ vitatameyāya ‖*
+
+> तत्रोद्गातॄन्स्तावे स्तोष्यमाणानुपोपविवेश । स ह प्रस्तोतारमुवाच ॥ प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता तां चेदविद्वान् प्रस्तोष्यसि मूर्धा ते विपतिष्यतीति ॥
+
+> *tatrodgātṝnstāve stoṣyamāṇānupopaviveśa | sa ha prastotāramuvāca ‖ prastotaryā devatā prastāvamanvāyattā tāṃ cedavidvān prastoṣyasi mūrdhā te vipatiṣyatīti ‖*
+
+> एवमेवोद्गातारमुवाचोद्गातर्या देवतोद्गीथमन्वायत्ता तां चेदविद्वानुद्गास्यसि मूर्धा ते विपतिष्यतीति ॥
+
+> *evamevodgātāramuvācodgātaryā devatodgīthamanvāyattā tāṃ cedavidvānudgāsyasi mūrdhā te vipatiṣyatīti ‖*
+
+> एवं प्रतिहर्तारमुवाच प्रतिहर्तर्या देवता प्रतिहारमन्वायत्ता तां चेदविद्वान् प्रतिहरिष्यसि मूर्धा ते विपतिष्यतीति ते ह समारतास्तूष्णीमासाञ्चक्रिरे ॥
+
+> *evaṃ pratihartāramuvāca pratihartaryā devatā pratihāramanvāyattā tāṃ cedavidvān pratihariṣyasi mūrdhā te vipatiṣyatīti te ha samāratāstūṣṇīmāsāñcakrire ‖*
+
+(Chā. U. 1-10, 11 [?], as printed "भा. उ. १-१०, ११".) In Kuru-land, a sage named Uṣasti Cākrāyaṇa lived with his wife Āṭikī [as printed]. Once, when a hailstorm [reading uncertain] had ruined the crops, Cākrāyaṇa, pressed by poverty, went to a wealthy man in his village and begged for something to eat. The man was eating those grains and said he had nothing more. Cākrāyaṇa [asked for a little of what he was eating] and the rich man gave a little. Then, offering water to drink, he showed the vessel near by. Cākrāyaṇa refused it, saying it was the left-over from the man's drinking. When the man objected, asking "is not what you ate also left-over?", he answered that, to keep alive, there was no bar to taking the grains when there was no other recourse, but that the same rule does not apply to water; and he gave some of the grain to his wife as well. The next day, having learned that the king in that town would perform a sacrifice, he went there, thinking he would get his support there. There he went to the *udgātṛ*s who were about to chant the *stotra*; to the *prastotṛ* he said: "On which deity the *prastāva*-hymn is to be sung, if you chant it without knowing the full nature of that deity, your head will fall off" — and the same to the others [text partly uncertain].
+
+---
+
+### Printed p. 552  (PDF 570)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+— and so, warning the *prastotṛ*, "even if you chant the *udgītha* and the *pratihāra* without knowing the deity, your head will fall off", Cākrāyaṇa shows the relation between the chanting of mantras such as the *prastāva* and knowledge of the deity and the rest. In this context the mutual and inseparable relation between ritual parts and spiritual knowledge is indicated [reading uncertain]. Thus, in the dialogue among the learned at the royal assembly the nature of the *sāman* is explained in detail. At the end, the identity between material principles, spiritual principles and the parts of the *sāman* is explained.
+
+> लोकेषु पञ्चविधं सामोपासीत पृथिवी हिंकारोऽग्निः प्रस्तावोऽन्तरिक्षमुद्गीथ आदित्यः प्रतिहारो द्यौर्निधनमित्यूर्ध्वेषु । अथावृत्तेषु द्यौर्हिंकार आदित्यः प्रस्ताव [?] ... ॥
+
+> *lokeṣu pañcavidhaṃ sāmopāsīta pṛthivī hiṃkāro 'gniḥ prastāvo 'ntarikṣamudgītha ādityaḥ pratihāro dyaurnidhanamityūrdhveṣu | athāvṛtteṣu dyaurhiṃkāra ādityaḥ prastāva [?] ... ‖*
+
+> वृष्टौ पञ्चविधं सामोपासीत पुरोवातो हिंकारो मेघो जायते स प्रस्तावः ........
+
+> *vṛṣṭau pañcavidhaṃ sāmopāsīta purovāto hiṃkāro megho jāyate sa prastāvaḥ ........*
+
+> ऋतुषु पञ्चविधं सामोपासीत वसन्तो हिंकारो ग्रीष्मः प्रस्तावः ........
+
+> *ṛtuṣu pañcavidhaṃ sāmopāsīta vasanto hiṃkāro grīṣmaḥ prastāvaḥ ........*
+
+> पशुषु पञ्चविधं सामोपासीताजा हिंकारोऽवयः प्रस्तावः ........
+
+> *paśuṣu pañcavidhaṃ sāmopāsītājā hiṃkāro 'vayaḥ prastāvaḥ ........*
+
+> प्राणेषु पञ्चविधं परोवरीयः सामोपासीत प्राणो हिंकारो वाक् प्रस्तावः ........
+
+> *prāṇeṣu pañcavidhaṃ parovarīyaḥ sāmopāsīta prāṇo hiṃkāro vāk prastāvaḥ ........*
+
+(Chā. U. 2-1-2 to 6 [?], as printed "भा. उ. २-१-२ ರಿಂದ ೬": dots in the print.) Of earth-principles, Agni; of rain-principles, the cloud; of seasons, summer; of animals, the sheep; of living beings, speech — are the forms of *prastāva*.
+
+> अथ यत्प्रथमोदिते स प्रस्तावस्तस्य मनुष्या अन्वायत्तास्तस्मात्ते प्रस्तुतिकामाः प्रस्तावभाजिनो ह्येतस्य साम्नः ॥
+
+> *atha yatprathamodite sa prastāvastasya manuṣyā anvāyattāstasmātte prastutikāmāḥ prastāvabhājino hyetasya sāmnaḥ ‖*
+
+(Chā. U. 2-9-1 [?].) The mantra recited after sunrise is called *prastāva*. Human beings have a very close relation with it; therefore they are *prastuti-kāma*, desirous of being praised [or "of introduction"], and they are constantly engaged in reciting the *prastāva*, the life of the *sāman*. Having thus shown the identity of the material principles with the *prastāva* and other parts, he then shows the identity of the spiritual principles with *prastāva* and the rest.
+
+> मनो हिंकारो वाक् प्रस्तावः ........ । स य एवमेतद्यायत्रं प्राणेषु प्रोतं ।
+
+> *mano hiṃkāro vāk prastāvaḥ ........ | sa ya evametadyāyatraṃ prāṇeṣu protaṃ |*
+
+---
+
+**Progress note:** Sūkta 153 in progress: Ṛk 1 complete; Ṛk 2 under way (printed pp. 547–552, PDF 565–570; Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; the Special Topics on *prastuti*/*prastāva* with long Aitareya-Brāhmaṇa and Chāndogya-Upaniṣad quotations continue on p. 553). Next: printed p. 553 (PDF 571). Open flags: the Brāhmaṇa/Upaniṣad quotations on pp. 549–552 are transcribed at low confidence (many `[?]`); small-type bhāṣya partly unread; reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
