@@ -13867,4 +13867,164 @@ Explaining that Ṛk, he takes *nidaḥ* as *nindhitāraṃ* — "those who blam
 
 ---
 
-**Progress note:** Sūkta 152 in progress: Ṛk 2 complete; Ṛk 3 under way (printed pp. 523–528, PDF 541–546; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics through *ṛtam*/*pipartti* done; its grammar begins on p. 528). Next: printed p. 529 (PDF 547). Open flags: small-type bhāṣya partly unread; Ṛg/Śatapatha/Nirukta reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 529  (PDF 547)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā". Grammar of Ṛk 3, concluded, noted briefly.)*
+
+*(Ṛk 3 grammar:)* *bharati* (root *bhṛñ bharaṇe*; *laṭ* 3rd sg.; *nighāta*); *pipartti* (root *pṝ pālanapūraṇayoḥ*; *juhotyādi*; *laṭ*, *tip*; *ślu*; *ślau* (Pā. Sū. 6-1-10) doubling of the root; *ārtiprapiparty-oś ca* (Pā. Sū. 7-4-77) *it* for the reduplicate, *tip* as a *nimitta*, guṇa of the final *ṛ*; *nighāta* absent because connected with *yat* [as printed]; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*); *tārīt* (root *tṝ plavanataraṇayoḥ*; *chandasi luṅlaṅliṭaḥ*, *luṅ* with *tip*; *itaś ca* loss of *i*; *cli* → *sic*, *asti-sico 'pṛkte* (Pā. Sū. 7-3-96) *īṭ* to the suffix; *sic*'s *iṭ*; *sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-1) *vṛddhi* of the root; *iṭo 'ṭi* loss of *sic*; no *aḍāgama* in the Veda; *nighāta*). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> प्रयन्तमित्परि जारं कनीनां पश्यामसि नोपनिपद्यमानम् ।
+> अनवपृग्णा वितता वसानं प्रियं मित्रस्य वरुणस्य धाम ॥ ४ ॥
+
+> *prayantamitpari jāraṃ kanīnāṃ paśyāmasi nopanipadyamānam |*
+> *anavapṛgṇā vitatā vasānaṃ priyaṃ mitrasya varuṇasya dhāma ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रऽयन्तम् । इत् । परि । जारम् । कनीनाम् । पश्यामसि । न । उपऽनिपद्यमानम् ।
+> अनवऽपृग्णा । विऽतता । वसानम् । प्रियम् । मित्रस्य । वरुणस्य । धाम ॥ ४ ॥
+
+> *pra 'yantam | it | pari | jāram | kanīnām | paśyāmasi | na | upa 'nipadyamānam |*
+> *anava 'pṛgṇā | vi 'tatā | vasānam | priyam | mitrasya | varuṇasya | dhāma ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: we see the Sun, the lover of the maiden-like dawns, always going, never sitting down even for an instant, wearing unattached, wide-spread rays, the dear abode of Mitra and Varuṇa. Small type, read with doubt.)*
+
+> कनीनां कमनीयानां दीप्तानां कन्याकास्थानीयानामुषसां [?] ॥ कनतेः कान्तिकर्मणः [?] ईप् [?] । कृदिकारात्केः [?] इति ङीप् । अमी कन्याशब्दस्य वा छान्दसो रूपं [?] ॥ तासां जारमाप्रियत्वं [?] प्रयन्तमित् प्रगच्छन्तमेव परि पश्यामसि । वयं परितः पश्यामः । उपनिपद्यमानं क्षणमात्रमपि निविश्यन्तं न पश्यामः । एतदेव तयोः सामर्थ्यम् ।
+
+> *kanīnāṃ kamanīyānāṃ dīptānāṃ kanyākāsthānīyānāmuṣasāṃ [?] ‖ kanateḥ kāntikarmaṇaḥ [?] īp [?] | kṛdikārātkeḥ [?] iti ṅīp | amī kanyāśabdasya vā chāndaso rūpaṃ [?] ‖ tāsāṃ jāramāpriyatvaṃ [?] prayantamit pragacchantameva pari paśyāmasi | vayaṃ paritaḥ paśyāmaḥ | upanipadyamānaṃ kṣaṇamātramapi niviśyantaṃ na paśyāmaḥ | etadeva tayoḥ sāmarthyam |*
+
+---
+
+### Printed p. 530  (PDF 548)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+*(Sāyaṇa-bhāṣya, continued from p. 529:)*
+
+> पुनस्तदेव विशेष्यते । अनवपृग्णानवपृक्तानि अत एव विततानि तेजांसि वसानमाच्छादयन्तं प्रियं सर्वेषां प्रियभूतं मित्रस्य वरुणस्य च धाम तेजःस्थानभूतम् । यद्वा । धामेति संबध्यते । तयोः प्रेमस्थानम् । ईदृशमादित्यं युष्मदनुज्ञया संचरन्तं पश्यामसि ॥
+
+> *punastadeva viśeṣyate | anavapṛgṇānavapṛktāni ata eva vitatāni tejāṃsi vasānamācchādayantaṃ priyaṃ sarveṣāṃ priyabhūtaṃ mitrasya varuṇasya ca dhāma tejaḥsthānabhūtam | yadvā | dhāmeti saṃbadhyate | tayoḥ premasthānam | īdṛśamādityaṃ yuṣmadanujñayā saṃcarantaṃ paśyāmasi ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *kanīnām* — for the dawns, lovely in the form of maidens; *jāram* — the beloved; *anavapṛgṇā* — not clinging to one another; *vitatā* — widely spread rays; *vasānam* — wearing; *priyam* — wanted by all; *mitrasya varuṇasya* — for Mitra-Varuṇa; *dhāma* — being their abode; [or *priyam dhāma* — the dear abode (of Mitra-Varuṇa)]; (the Sun) *prayantam it* — as one always going; *pari paśyāmasi* — we always see; *upanipadyamānam* — (even for an instant) as sitting down to rest; *na* — we never see.
+
+**भावार्थः (Bhāvārtha).** The Sun, the best beloved of the dawns that are lovely in maiden form, who wears rays spread widely and not clinging to one another, and who is the dear abode of Mitra-Varuṇa, we see always as one going. We never see him sit down to rest even for an instant.
+
+**English Translation (as printed).** We behold the lover of the maiden (dawns), ever in movement, never resting for an instant, wearing inseparable and diffusive (radiance), the beloved abode of Mitra and Varuna.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **कनीनाम्** — *kanyakānām*: *kanyā kamanīyā bhavati; kṣeyaṃ [?] neśam eti vā; kamane nānīyute iti vā; kanater vā syāt kāntikarmaṇaḥ* (Ni. 4-15 [?]) — the *Nirukta*-author gives this derivation of the word, either because the maiden is "to be desired", or because she "shines" (root *kan*, in the sense of brightness) [text partly illegible]. And (the Ṛk quoted at the top of the next page):
+
+---
+
+### Printed p. 531  (PDF 549)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> कनीनकेव विद्रधे नवे द्रुपदे अर्भके ।
+> बभ्रू यामेषु शोभेते ॥
+
+> *kanīnakeva vidradhe nave drupade arbhake |*
+> *babhrū yāmeṣu śobhete ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?], numerals not legible.) Quoting this Ṛk, he shows that the above derivation of *kanīnakā* is fitting. That Uṣas, so charming and maiden-formed, has the Sun as her beloved paramour, and that she is a woman enamoured of the Sun, is described in:
+
+> वाजिनीवती सूर्यस्य योषा चित्रामघा राय ईशे वसूनाम् ।
+> ऋषिष्टुता जरयन्ती मघोन्युषा उच्छति वह्निभिर्गृणाना ॥
+
+> *vājinīvatī sūryasya yoṣā citrāmaghā rāya īśe vasūnām |*
+> *ṛṣiṣṭutā jarayantī maghonyuṣā ucchati vahnibhirgṛṇānā ‖*
+
+(Ṛ. Saṃ. 3-61-[?].) and similar Ṛks.
+
+**अनवपृग्णा** — "not adhering one to another, but spread out widely in many places" is the meaning (the printed English gloss is "Not closely united but spreading all around"). It is said that the sense "spreading" is also implied in this very word; hence the word *vitatā* shows the greatness of the spread.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar pages 531–532, noted briefly).** *prayantam* (root *iṇ gatau*; *śatṛ* in the sense of *laṭ*; *iṇo yaṇ* (Pā. Sū. 6-4-81) *yaṇ* for the root; acc. sg. *num* augment; suffix accent: first *udātta*; the *pra*-compound with *kṛdutara* stem accent); *jāram* (*jarayati iti jāraḥ*; *ādityaḥ*; *dārajārau kartari ṇilluk ca* (Uṇ. Sū. 3-[?]) *ṇi* lopa; *nighāta*; *karṣātvataḥ* (Pā. Sū. 6-1-157) final *udātta*; accusative sg.); *kanīnām* (root *kana kāntau*; *sarvadhātubhya in*, the *in* suffix; *strītva* intended; *kṛdikārād ktiḥ*-rule: *ṅīp*; or from *kanyā*, with *ām* following, *saṃprasāraṇa* in the Veda); *paśyāmasi* (root *dṛśir prekṣaṇe*; *laṭ* 1st pl. *vas*/*masi*; *śap*; *pāghrādhmā…* (Pā. Sū. 7-3-78) *paśya* for the root; *ato dīrgho yañi* (Pā. Sū. 7-3-101) lengthening of the *a* before *masi*; *nighāta* is absent since at the head of the *pāda*; *tāsyanudāttet* (Pā. Sū. 6-1-186) *lasārvadhātuka* *anudātta*, so the root accent stays).
+
+---
+
+### Printed p. 532  (PDF 550)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly.)* *upanipadyamānam* (root *pada gatau*, with the prefixes *upa*, *ni*; *laṭ* sense: *śānac*; *divādi*, *śyan* suffix; since *lasārvadhātuka* becomes *anudātta* as before, the suffix, being *nit*, has first *udātta*; with the prefix, *kṛdutara* stem accent); *anavapṛgṇā* (*nañ tatpuruṣa*; *tatpuruṣe*… (Pā. Sū. 6-2-2) *pūrvapada-prakṛtisvara*; in the neuter, *śeścchandasi bahulam* (Pā. Sū. 6-1-70) loss of *śi*); *vitatā* (root *tanu vistāre*; *niṣṭhā* suffix; *anudāttopadeśa…* (Pā. Sū. 6-4-37) loss of the nasal; *gatir anantaraḥ* (Pā. Sū. 6-2-49) the *gati* prefix keeps its accent; loss of *śi* as before); *vasānam* (root *vasa ācchādane*; *laṭ* → *śānac*; *anudāttetva* — *lasārvadhātuka*, the root accent stays); *dhāma* (*nāman sīman vyoman roman* (Uṇ. Sū. 4-[?]) *manin*, by *nipātana*). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अनश्वो जातो अनभीशुरर्वा कनिक्रदत्पतयदूर्ध्वसानुः ।
+> अचित्तं ब्रह्म जुजुषुर्युवानः प्र मित्रे धाम वरुणे गृणन्तः ॥ ५ ॥
+
+> *anaśvo jāto anabhīśurarvā kanikradatpatayadūrdhvasānuḥ |*
+> *acittaṃ brahma jujuṣuryuvānaḥ pra mitre dhāma varuṇe gṛṇantaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अनश्वः । जातः । अनभीशुः । अर्वा । कनिक्रदत् । पतयत् । ऊर्ध्वऽसानुः ।
+> अचित्तम् । ब्रह्म । जुजुषुः । युवानः । प्र । मित्रे । धाम । वरुणे । गृणन्तः ॥ ५ ॥
+
+> *anaśvaḥ | jātaḥ | anabhīśuḥ | arvā | kanikradat | patayat | ūrdhva 'sānuḥ |*
+> *acittam | brahma | jujuṣuḥ | yuvānaḥ | pra | mitre | dhāma | varuṇe | gṛṇantaḥ ‖ 5 ‖*
+
+---
+
+### Printed p. 533  (PDF 551)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the Sun, though without horse or reins, is swift, loud and ascending; men, praising it as the power of Mitra-Varuṇa, serve them with the hidden rite. Small type, read with doubt.)*
+
+> स आदित्योऽनश्वः अश्वरहितो यद्यपि शीघ्रगाम्यश्वरहितः [?] तथाभीशुरालम्बनाधारप्रग्रहस्थानीयरश्मिरहितः [?] तथापि स्वयमर्वा जातः शीघ्रगमनशीलः संपन्नः । तथानभिधेय [?]... कनिक्रदत् क्रन्दयन् [?] शब्दं कुर्वन् ऊर्ध्वसानुः उपरि समुच्छ्रीयमाणः सन् पतयत् गच्छति । अचित्तं चित्तविषयं [?] ब्रह्म परिवृद्धमुक्तरूपं कर्म मित्रे वरुणे च उभयोर्धामतेजःस्थानं युवानो मिश्रयन्ति [?] तथा प्र गृणन्तो युवयोस्तेजःप्रभवमिति प्रकर्षेण स्तुवन्तो जुजुषुः । सेवन्ते । मनुष्याः सूर्यस्य निरालम्बान्तरिक्षसंचारात्मकं कर्म वरुणमित्रयोरधीनमिति स्तुवन्ती त्यर्थः ॥
+
+> *sa ādityo 'naśvaḥ aśvarahito yadyapi śīghragāmyaśvarahitaḥ [?] tathābhīśurālambanādhārapragrahasthānīyaraśmirahitaḥ [?] tathāpi svayamarvā jātaḥ śīghragamanaśīlaḥ saṃpannaḥ | tathānabhidheya [?]... kanikradat krandayan [?] śabdaṃ kurvan ūrdhvasānuḥ upari samucchrīyamāṇaḥ san patayat gacchati | acittaṃ cittaviṣayaṃ [?] brahma parivṛddhamuktarūpaṃ karma mitre varuṇe ca ubhayordhāmatejaḥsthānaṃ yuvāno miśrayanti [?] tathā pra gṛṇanto yuvayostejaḥprabhavamiti prakarṣeṇa stuvanto jujuṣuḥ | sevante | manuṣyāḥ sūryasya nirālambāntarikṣasaṃcārātmakaṃ karma varuṇamitrayoradhīnamiti stuvantī tyarthaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *anaśvaḥ* — without horse (chariot-less); *anabhīśuḥ* — without rays that are like reins and serve as supports; (yet) *arvā jātaḥ* — one who goes swiftly; *kanikradat* — loud-sounding; *ūrdhvasānuḥ* — ever ascending; *patayat* — travels; *acittam* — hidden from the mind, of mysterious nature; *brahma* — the sacrificial rite; *mitre varuṇe* — of Mitra-Varuṇa; *dhāma* — the radiant abode, (with this Sun); *yuvānaḥ* — joining; *pragṛṇantaḥ* — praising (that all this is the power of Mitra-Varuṇa); *jujuṣuḥ* — (men) serve.
+
+**भावार्थः (Bhāvārtha).** The Sun, though without horse and without the reins that serve as support, goes swiftly, loudly sounding and climbing higher and higher. Men, joining the sacrifice whose nature is hidden from the mind with the Sun, the radiant abode of Mitra-Varuṇa, and praising "all this is the power of Mitra-Varuṇa," serve these Mitra and Varuṇa.
+
+**English Translation (as printed).** Without steeds, without stay, (he is nevertheless) borne swift-moving and loud-sounding; he travels, ascending higher and higher, connecting, the inconceivable mystery (of sacred rites) with the radiance (abiding in Mitra and Varuna, (which men), eulogizing, glorify.
+
+---
+
+### Printed p. 534  (PDF 552)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** This Ṛk describes the Sun. Epithets such as *anaśvaḥ* give the Sun's nature. There is also the praise that the Sun's greatness and the benefits he gives the world are due to the power of Mitra-Varuṇa. The view given by the scholar Bloomfield on this Ṛk is as follows. First, he quotes this Ṛk, whose first half begins in the same way as the following:
+
+> अनश्वो जातो अनभीशुरुक्थ्यो रथस्त्रिचक्रः परि वर्तते रजः ।
+> महत्तद्वो देव्यस्य प्रवाचनं द्यामृभवः पृथिवीं यच्च पुष्यथ ॥
+
+> *anaśvo jāto anabhīśurukthyo rathastricakraḥ pari vartate rajaḥ |*
+> *mahattadvo devyasya pravācanaṃ dyāmṛbhavaḥ pṛthivīṃ yacca puṣyatha ‖*
+
+(Ṛ. Saṃ. 4-36-1.) and explains the likeness of the two Ṛks thus (in English, as printed):
+
+These two stanzas seem to me to offer a clear case of relative date. In IV. 36-1 The Ribhus are said to have fashioned a chariot, fit to be praised in hymns, because without horse and bridle it courses with three wheels about the air. Because it is threewheeled it seems to be the chariot of the Asvins. (cf. I. 120-10) That sort of a Vehicle is, the lord knows, marvellous enough, but it will readily pass in the light of mythic fancies and ethnological parellels [sic] elsewhere. Similarly in VI. 66-7, the Maruts are described along the same line of fancy, even more energetically, as crossing the air without span of deer or horses, without charioteer and without bridle. In I. 152-5, the mystery is heightened to the second power, as it were.
+
+Any attempt to extract a picture with clear outline out of I. 152-5, will prove quite futile. The Pada is built by a secondary Poetaster upon the previously existing Pada of IV. 36-1, he 'goes' his model 'one better' and loses himself in mock mythic fatuity — one of the standard failings of his class. Something like "the steed, which is after all no horse, and goes without bridle"; or, 'the steed which is born of no horse' Etc.
+
+(Rig-Veda Repetitions Vol. I P. 146-147)
+
+Then, in Kannada: "Besides the VI. 36-1 [sic: as printed, for IV. 36-1] Ṛk quoted above, also:"
+
+> अनेनो वो मरुतो यामो अस्त्वनश्वश्चिद्यमजत्यरथीः ।
+> अनवसो अनभीशू रजस्तूर्वि रोदसी पथ्या याति साधन् ॥
+
+> *aneno vo maruto yāmo astvanaśvaścidyamajatyarathīḥ |*
+> *anavaso anabhīśū rajastūrvi rodasī pathyā yāti sādhan ‖*
+
+(Ṛ. Saṃ. 6-66-7.)
+
+---
+
+**Progress note:** Sūkta 152 in progress: Ṛk 3 complete, Ṛk 4 complete, Ṛk 5 under way (printed pp. 529–534, PDF 547–552; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics (Bloomfield, *Rig-Veda Repetitions*) begin on p. 534 and continue). Next: printed p. 535 (PDF 553). Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
