@@ -10,3 +10,5 @@
 2026-10-23 16:31 PDF 50-50: remaining [?] EN 3, KN 2. after: 13 cleared, 2 [?] added where Nirukta quote/numeral doubtful
 2026-10-23 16:32 PDF 51-51: remaining [?] EN 0, KN 0. after: 41 cleared; Ṛg refs plausibility-based; verse 1 re-read ratheṣṭhāḥ
 2026-10-23 16:33 PDF 52-52: remaining [?] EN 8, KN 8. after: 40 cleared→8 doubtful numerals kept; Bṛhaddevatā quote now complete (3 lines); 'not refined sense' correction
+2026-10-23 16:34 PDF 53-53: remaining [?] EN 2, KN 2. after: 12 cleared, 2 doubtful numerals kept (grammar page)
+2026-10-23 16:34 PDF 54-54: remaining [?] EN 1, KN 1. after: 18 cleared; Anukramaṇikā block rewritten (3 layers; sūtra tiṅ codāttavati corrected)
