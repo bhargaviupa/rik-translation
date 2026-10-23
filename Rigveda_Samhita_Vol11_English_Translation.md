@@ -17254,4 +17254,136 @@ having cited this Ṛk, he gave there for this word a fitting sense as above. Bu
 
 ---
 
-**Progress note:** Sūkta 156 in progress: Ṛk 1 complete (printed pp. 640–644); Ṛk 2 Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha done (printed p. 645, PDF 663). Next: printed p. 646 (PDF 664) — rest of Ṛk 2 Pratipadārtha, Bhāvārtha, English, Special Topics, then Ṛks 3–5. Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 646  (PDF 664)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+*(Pratipadārtha of Ṛk 2, continued from p. 645; the opening words of this page are blurred [?].)* *sumajjānaye* — self-born, or husband of Lakṣmī who gives joy to the whole world [?]; *viṣṇave* — to the all-pervading Viṣṇu; *dadāśati* — offers (oblations and the like); (and) *mahi* — [worthy of honour] [?]; *asya* — of this great Viṣṇu; *jātam* — the birth, in the form of Hiraṇyagarbha and so on; *bravat* — praises; *sed u* — (thus, being both giver and praiser) he also; *śravobhiḥ* — endowed with foods or with fame; *yujyaṃ cit* — (all must) go and join; *abhi* — looking to; *asat* — goes and joins the presence of that Viṣṇu.
+
+**भावार्थः (Bhāvārtha).** The man who offers oblations and the like to the all-pervading Viṣṇu — who is eternal, the creator of the world, delightful, and self-born — and who praises the wonderful birth of this great Viṣṇu in the form of Hiraṇyagarbha and so on: he, being thus both giver and praiser, endowed with fame, goes and joins the presence of that Viṣṇu, whom all must go and join.
+
+**English Translation (as printed).** He who presents (offerings) to Vishnu, the ancient, the creator, the recent, the self-born; he who celebrates the great birth of that mighty one; he verily possessed of abundance, attains (the station) that is to be sought (by all).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **sumajjānaye** — this word has been explained in two ways. First, *svayam evotpannāya* — "to the self-born (Viṣṇu)"; second, *sutarāṃ mādayatīti sumat | tādṛśī jāyā yasya sa tathoktaḥ | sarvajaganmanaḥśīlaśrīpataye* [?] — "she who gladdens greatly is *sumat*; he whose wife is such": the word *sumat* is explained as "causing joy", and the sense given is "husband of the goddess Lakṣmī, who has such joy-giving qualities and gives happiness to all the worlds".
+
+*sumat svayam ity arthaḥ* (Ni. 6-33) — saying that *sumat* means "of oneself, by oneself", [Yāska cites]
+
+> उप प्रागात्सुमन्मेऽधायि मन्म देवानामाशा उप वीतपृष्ठाः ।
+> अन्वेनं विप्रा ऋषयो मदन्ति देवानां पुष्टे चकृमा सुबन्धुम् ॥
+
+> *upa prāgātsumanme 'dhāyi manma devānāmāśā upa vītapṛṣṭhāḥ |*
+> *anvenaṃ viprā ṛṣayo madanti devānāṃ puṣṭe cakṛmā subandhum ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as printed, numerals doubtful.)
+
+---
+
+### Printed p. 647  (PDF 665)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+— having cited this Ṛk, [Yāska] explains *upaprraitu māṃ svayam*: "let the object I desire approach me by itself", this prayer; and thus gives the sense of the word *sumat*. On this basis it may be said that the sense "self-born" is appropriate. Besides, in this same Ṛk, for the word *jātam* it is said *janma utpattiṃ hiraṇyagarbhādirūpam* — "the birth, in the form of Hiraṇyagarbha and so on" — so that this sense is more strongly supported. Or, since *sumat* is used in many places as a synonym of *kalyāṇa*, *śobhana* or *bhadra*, it would not be wrong to give the second sense also. As in *sumajjāniḥ*, wherever there are words like *sumadgaṇaḥ*, *sumadaṃśaḥ*, *sumadyajñaḥ*, the word *sumat* has been explained as "excellent" or "auspicious", as told with examples in the special topics of the Ṛk 1-143-[?] of this same portion (page 254). (In the word in Ṛk 1-143-7 the sense is "of itself".) But the epithet *Śrīpati* for Viṣṇu does not seem to occur in the Ṛksaṃhitā; the word *śrī* there means prosperity and splendour, and is not the established name Lakṣmī. Therefore the first sense is the more fitting.
+
+**jātam** — *hiraṇyagarbhādirūpaṃ janma*: it is described in the Ṛksaṃhitā itself that, desiring the creation of the world, [the Supreme] with the nature of the principle first arose of himself in the forms of Hiraṇyagarbha and so on, and afterwards created the world:
+
+> हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत् ।
+> स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम ॥
+
+> *hiraṇyagarbhaḥ samavartatāgre bhūtasya jātaḥ patireka āsīt |*
+> *sa dādhāra pṛthivīṃ dyāmutemāṃ kasmai devāya haviṣā vidhema ‖*
+
+(Ṛ. Saṃ. 10-121-1.)
+
+In such Ṛks it is said that Hiraṇyagarbha, as soon as born, was the lord of the world; the same point is told here too, and the beginningless nature and greatness of Viṣṇu are praised.
+
+**vedhase** — *vividhajagatsraṣṭre* — "to the creator of the many-formed world": the word *vedhas* is read in the Nirukta among the names of the wise (Ni. 3-15 [?]). It is generally an epithet of the wise sacrificer. In some places where it has the sense "producer" it seems to be used for the producer of the fruit of sacrifice, not for the creator. But in the present Ṛk the words *sumajjānaye*, *jātam* and so on describe the nature of the world-creator, so this word can accord with the sense that Sāyaṇa gives, as suits the context.
+
+**pūrvyāya navīyase** — these epithets state at one time Viṣṇu's beginninglessness, his eternally new nature, and therefore his endlessness. For the word *navīyase* Sāyaṇa
+
+---
+
+### Printed p. 648  (PDF 666)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+has the explanation *nityanūtanāya atyantaramaṇīyāya* — "because ever new, extremely delightful". A description of Viṣṇu in the same order is in the Taittirīya-Brāhmaṇa (3-4-3-4 [?]); there Sāyaṇa explains *pūrvyāya* as *jagataḥ pūrveṇaiva bhavāya*, "existing even before the creation of the world", and *navīyase* as *rāmakṛṣṇādyavatāraiḥ atyantaṃ nūtanāya*, "ever new through the incarnations as Rāma, Kṛṣṇa and so on".
+
+**śravobhir yujyaṃ cid abhyasat** — for this part Sāyaṇa has given one explanation in the Ṛksaṃhitā and another in the Taittirīya-Brāhmaṇa (3-4-3-4 [?]). In the Saṃhitā —
+
+> श्रवोभिः — अन्नैः कीर्तिभिर्वा युक्तः सन् । युज्यं चित् — सर्वैर्गन्तव्यमेव तत्पदम् । अभ्यसत् — अभिमुख्येन गच्छति प्राप्नोति ।
+
+> *śravobhiḥ — annaiḥ kīrtibhirvā yuktaḥ san | yujyaṃ cit — sarvairgantavyameva tatpadam | abhyasat — abhimukhyena gacchati prāpnoti |*
+
+— "being endowed with food or with fame, he goes toward and reaches that supreme station that all must reach"; and in the Brāhmaṇa —
+
+> श्रवोभिः — श्रवणीयैर्हविर्दानमन्त्रैः स्तोत्रविशेषैश्च युज्यं चित् सर्वदा स्वेन युक्तमपि कामक्रोधलोभरूपं शत्रुं अभ्यसत् — अभितः निरस्यति ॥
+
+> *śravobhiḥ — śravaṇīyairhavirdānamantraiḥ stotraviśeṣaiśca yujyaṃ cit sarvadā svena yuktamapi kāmakrodhalobharūpaṃ śatruṃ abhyasat — abhitaḥ nirasyati ‖*
+
+— "by the mantras to be heard at the offering of oblations and by special hymns, he drives far away the enemy in the form of desire, anger and greed that clings to him": so he explains. And, citing the verse *trividhaṃ narakasyedam* (Bhagavad-gītā [?]), he says that he drives out the threefold enemies there described; thus he gives the sense of the mantra in the Brāhmaṇa. The word *śravas* has many senses, food, strength, hymn and so on, so either sense can be given. But it is noted that the particle *cit* has uses in other senses. In explaining the Saṃhitā sentence, for *yujyaṃ cit* Sāyaṇa presses the sense of excellence — "what all must reach" (*sarvair gantavyam eva*). In the Brāhmaṇa sentence *svena yuktam api*, "even though clinging to oneself", it gives a sense of something to be rejected.
+
+Since the Nirukta has the statement *cid ity eṣo 'nekakarmā* (1-4 [?]), this particle can be explained according to context. For example, *ācāryaḥ sidinaṃ brūyāt iti pūjāyām* [?]: "the teacher alone must say this (others cannot)" — in this sentence the particle has the sense of honour; *dadhi cid ity upamārthe*, "like curd", with the sense of comparison; *kulmāṣāṃś cid āhara*, "bring at least sour gruel" — in saying this, a sense of contempt is possible, as the Nirukta explains.
+
+---
+
+### Printed p. 649  (PDF 667)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+… [continued from the Nirukta]. In the present mantra Sāyaṇa gives this particle the sense of honour in the Saṃhitā and the sense of contempt in the Brāhmaṇa. **abhyasat** — *abhimukhyena gacchati*: "he goes toward the supreme station" in the Saṃhitā; and in the Brāhmaṇa the prefix *abhi* joined to the root *as* "to throw" is explained as "destroys".
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly).** *vedhase* (*vi* prefix; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *vidhāño vedha ca* (Uṇ. Sū. 4-[?]) *asi*; the root with the prefix takes *vedha*; the suffix is first *udātta*; dative sg.); *navīyase* (*atiśayena nava navīyān*; *īyasun* where the sense of excess is shown; *ñnityādir nityam*: first *udātta*); *sumajjānaye* (Yāska says *sumat svayam ity arthaḥ* (Nir. 6-33); root *janī prādurbhāve*; Uṇādi *iñ*; *ātalopadhāyāḥ* [?] (Pā. Sū. 7-2-116) *upadhā-vṛddhi*; the form *sumajjāni*; or *sutarāṃ mādayati iti sumat*, *kvip* after the root *madi* with prefix *su*; *sumat jāyā yasya sa sumajjāniḥ*; *jāyāyā niṅ* (Pā. Sū. 5-4-134) the *ni* substitution as a *samāsānta*; *lopo vyor vali* loss of the *y*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) prior-member accent); *dadāśati* (root *dāśṛ dāne*; *bhvādi*; *laṭ* 3rd sg.; by *bahulaṃ chandasi* *ślu* for *śap*; by *ślau* doubling of the root; because *yat* is in the sentence no *nighāta*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*); *mahataḥ* (by the statement *bṛhanmahator upasaṃkhyānam* the genitive ending is *udātta*); *mahi* (root *maha pūjāyām*; *in sarvadhātubhya*; *nit*: first *udātta*); *bravat* (root *brūñ vyaktāyāṃ vāci*; *leṭ* 3rd sg. *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-97) loss of *i*; *leṭo 'ḍāṭau* …
+
+---
+
+### Printed p. 650  (PDF 668)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+*(Grammar of Ṛk 2, concluded; noted briefly.)* … (Pā. Sū. 3-4-94) *aḍāgama*; *ādiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) *luk* of *śap*; guṇa of the root by the suffix; *avādeśa*; since *yat* is in the sentence, no *nighāta*; the *tip* is *pit* so the augment too is *anudātta*, and the root accent remains); *śravobhiḥ* (root *śru śravaṇe*; Uṇādi *asun*; *nit*: first *udātta*; instrumental pl.); *yujyam* (root *yujir yoge*; *yat*; *yato nāvaḥ*: first *udātta*); *asat* (root *asa bhuvi*; *leṭ* 3rd sg. *tip*; *itaś ca* loss of *i*; by *bahulaṃ chandasi*, no *luk* of *śap*; *tiṅ*: *nighāta*). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तमु स्तोतारः पूर्व्यं यथा विद ऋतस्य गर्भं जनुषा पिपर्तन ।
+> आस्य जानन्तो नाम चिद्विवक्तन महस्ते विष्णो सुमतिं भजामहे ॥ ३ ॥
+
+> *tamu stotāraḥ pūrvyaṃ yathā vida ṛtasya garbhaṃ januṣā pipartana |*
+> *āsya jānanto nāma cidvivaktana mahaste viṣṇo sumatiṃ bhajāmahe ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> तम् । ऊं इति । स्तोतारः । पूर्व्यम् । यथा । विद । ऋतस्य । गर्भम् । जनुषा । पिपर्तन ।
+> आ । अस्य । जानन्तः । नाम । चित् । विवक्तन । महः । ते । विष्णो इति । सुऽमतिम् । भजामहे ॥ ३ ॥
+
+> *tam | ūṃ iti | stotāraḥ | pūrvyam | yathā | vida | ṛtasya | garbham | januṣā | pipartana |*
+> *ā | asya | jānantaḥ | nāma | cit | vivaktana | mahaḥ | te | viṣṇo iti | su 'matim | bhajāmahe ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O praisers, as you know him, the ancient, womb of the rite, satisfy him by your own birth-right [?] with hymns; knowing his name, proclaim it; we resort to your great good will. Small type, read with doubt; continues on the next page.)*
+
+> हे स्तोतारः तमु तमेव विष्णुं पूर्व्यं पूर्वकालीनमनादिसंसिद्धं ऋतस्य गर्भं यज्ञस्य गर्भभूतम् । यज्ञात्मकत्वात्तस्य । यज्ञो वै विष्णुः । तै. सं. [?] इति श्रुतेः …
+
+> *he stotāraḥ tamu tameva viṣṇuṃ pūrvyaṃ pūrvakālīnamanādisaṃsiddhaṃ ṛtasya garbhaṃ yajñasya garbhabhūtam | yajñātmakatvāttasya | yajño vai viṣṇuḥ | tai. saṃ. [?] iti śruteḥ …*
+
+---
+
+### Printed p. 651  (PDF 669)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> … यद्वा । ऋतस्योदकस्य गर्भं गर्भकारणमुदकोत्पादकमित्यर्थः । अप एव ससर्जादौ । मनु. १-८ इति स्मृतेः । विवक्तन विशेषेण [?] स्तुतिं कुरुत । यथा विद यथा जानीथ तथा स्तोत्रादिना प्रीणयत [?] । जनुषा जन्मना स्वयमेव यथा [?] । यावदस्य माहात्म्यं जानीथ तावदित्यर्थः । विदेर्लोटि मध्यमबहुवचनम् । विदेति संहितायां [?] इति प्रकृतिभावः ॥ किंचास्य महानुभावस्य विष्णोर्नाम चित् सर्वैर्नमनीयमभिधानं सार्वात्म्यप्रतिपादकं विष्णुरित्येतन्नाम जानन्तः पुरुषार्थप्रदमित्यभिगृह्य [?] आ समन्ताद्विवक्तन विवदत । संकीर्तयत । यद्वा । नाम यज्ञनाम नमनं विष्णोरेव सर्वेषां स्वर्गापवर्गसाधनत्वेन [?] … जानन्त … हे विष्णो सर्वात्मक देवा महः [?] ते तव सुमतिं सुष्ठुतिं शोभनात्मिकां बुद्धिं वा भजामहे । सेवामहे वयं यजमानाः ॥
+
+> *… yadvā | ṛtasyodakasya garbhaṃ garbhakāraṇamudakotpādakamityarthaḥ | apa eva sasarjādau | manu. 1-8 iti smṛteḥ | vivaktana viśeṣeṇa [?] stutiṃ kuruta | yathā vida yathā jānītha tathā stotrādinā prīṇayata [?] | januṣā janmanā svayameva yathā [?] | yāvadasya māhātmyaṃ jānītha tāvadityarthaḥ | viderloṭi madhyamabahuvacanam | videti saṃhitāyāṃ [?] iti prakṛtibhāvaḥ ‖ kiṃcāsya mahānubhāvasya viṣṇornāma cit sarvairnamanīyamabhidhānaṃ sārvātmyapratipādakaṃ viṣṇurityetannāma jānantaḥ puruṣārthapradamityabhigṛhya [?] ā samantādvivaktana vivadata | saṃkīrtayata | yadvā | nāma yajñanāma namanaṃ viṣṇoreva sarveṣāṃ svargāpavargasādhanatvena [?] … jānanta … he viṣṇo sarvātmaka devā mahaḥ [?] te tava sumatiṃ suṣṭhutiṃ śobhanātmikāṃ buddhiṃ vā bhajāmahe | sevāmahe vayaṃ yajamānāḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *stotāraḥ* — O praisers; *pūrvyam* — the beginninglessly perfect; *ṛtasya garbham* — born as the womb of the sacrifice, of the nature of sacrifice, or the producer of water; *tam u* — that very Viṣṇu; *yathā vida* — as you know (him, with desire for fruit); *januṣā* — (in your own birth [?]) yourselves; *pipartana* — satisfy with hymns and so on; *asya* — of this great Viṣṇu; *nāma cit* — the name "Viṣṇu", on which all should meditate; *jānantaḥ* — knowing (it as the giver of the aims of man), or knowing that all [?] is sacrifice; *ā vivaktana* — proclaim (in the sacrificial hall) [?]; *viṣṇo* — O Viṣṇu; *mahaḥ* — of the great; *te* — your; *sumatim* — auspicious understanding; *bhajāmahe* — we resort to (or: may we, receiving your grace, be happy).
+
+**भावार्थः (Bhāvārtha).** O praisers, as you know that very Viṣṇu — beginninglessly perfect, born as the womb of the sacrifice, of the nature of sacrifice — so, without seeking any reward, satisfy him with hymns and so on. Knowing the great name of this great Viṣṇu, on which all should meditate, as the giver of the aims of man, proclaim it. O Viṣṇu, may we, receiving the grace of you, the great, enjoy it.
+
+---
+
+**Progress note:** Sūkta 156 in progress: Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (printed pp. 646–651, PDF 664–669). Next: printed p. 652 (PDF 670) — Ṛk 3 English and Special Topics, grammar, then Ṛks 4–5. Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
