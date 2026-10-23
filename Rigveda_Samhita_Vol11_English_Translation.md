@@ -12775,4 +12775,144 @@ As told in the *Bṛhaddevatā*, here too there is a narrative; but the special 
 
 ---
 
-**Progress note:** Sūkta 151 in progress: Ṛk 2 under way (printed pp. 481–486, PDF 499–504; Saṃhitā of Ṛk 2 on p. 480; the Special Topics' long Bṛhaddevatā quotation, pp. 482–486, is transcribed at low confidence with many `[?]`). Next: printed p. 487 (PDF 505), which continues the Special Topics narrative. Open flags: small-type bhāṣya partly unread; Ṛg/Bṛ. De. reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+### Printed p. 487  (PDF 505)
+
+*(Header: "A. 2 A. 2 Va. 30" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Special Topics of Ṛk 2 continued.)* … [the story] of Śyāvāśva's marriage is told; and since it tells of the help Purumīḷha gave Śyāvāśva and that his wish was fulfilled by that help, it is an occasion for praising Purumīḷha's greatness too. The Ṛk of the hymn (Ṛ. Saṃ. 5-61) in which Śyāvāśva praises Purumīḷha has been quoted above.
+
+**पस्त्यावतः** — *pastyā*, *duroṇe* (Ni. 3-4) etc. are read among the house-names (*gṛhanāmāni*). The meaning is "of one whose sacrificial house is furnished with sacrificial wealth".
+
+> इन्द्र[?]न् बृहद्भ्यः पर्वतेभ्यः क्षयां विभ्यः सुवसि पस्त्यावतः ।
+> यथायथा पतयन्तो विमीमिर एवैन [?] तस्थुः सवितः सवाय के ॥
+
+> *indra[?]n bṛhadbhyaḥ parvatebhyaḥ kṣayāṃ vibhyaḥ suvasi pastyāvataḥ |*
+> *yathāyathā patayanto vimīmira evaina [?] tasthuḥ savitaḥ savāya ke ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?], as printed, numerals not legible.) In such Ṛks *pastyāvataḥ* means "of the house-owner", and so it is understood in the present Ṛk too.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar pages 487–488, noted briefly).** *purumīḷhasya* (root *miha secane*; the *niṣṭhā* suffix; *ho ḍhaḥ* — *ḍha* for *ha*; *ḍho ḍhe lopaḥ* (Pā. Sū. 8-3-13) loss; *ḍhralope pūrvasya* (Pā. Sū. 6-3-111) lengthening; accent of the *kṛdanta*); *sominaḥ* (*somaḥ asya asti*; the *matvartha* suffix *ini*, Pā. Sū. 5-2-115, cited as printed; genitive sg.); *mitrāsaḥ* (*āj jaser asuk*, Pā. Sū. 7-1-50 — *asuk* augment of *jas*); *dadhire* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* in the Veda; 3rd pl.; no *nighāta* since connected with *yat*; *ite*, Pā. Sū. 6-1-[?], final *udātta*); *svābhuvaḥ* (root *bhū sattāyām*; *kvip*; *karty-ekakarmaṇoḥ* … locative/genitive for the agent); *vidatam* (root *vida jñāne*; *loṭ* 2nd dual; the augment lacking …; *vyatyayo bahulam*; *ap*/*śap* = *śa*; *sārvadhātukam apit* — no guṇa; *nighāta* accent). Further small-type numerals not legible. ‖ 2 ‖
+
+### Printed p. 488  (PDF 506)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(Grammar page continued, noted briefly.)* *gātum* (root *gā stutau*; *tumun*, *tumunṇvulau kriyāyāṃ kriyārthāyām* (Pā. Sū. 3-3-10); *āntavād* the indeclinable name; suffix accent: final *udātta*); *arcate* (root *arca pūjāyām*; *śatṛ* in the sense of *laṭ*; *sārvadhātuka* accent of the root persists; dative sg. in the sense of the genitive); *śrutam* (root *śru śravaṇe*; *loṭ* 2nd dual *tam*; *bahulaṃ chandasi*: *luk* of the *vikaraṇa* — *śnu* … since *taṅ*/*jit*: no guṇa; *nighāta* because the verb stands after the vocative); *vṛṣaṇā* (root *vṛṣu secane*; *kanin* suffix; *supāṃ sulug* (Pā. Sū. 7-1-39) *ā* for the dual ending); *pastyāvataḥ* (*pastyā* + *matup*; *mādhupadhāyāś ca…* — *va* for *ma*; *pit/ṭit*: *anudātta*).
+
+— — —
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ वां भूषन्क्षितयो जन्म रोदस्योः प्रवाच्यं वृषणा दक्षसे महे ।
+> यदीमृताय भरथो यदर्वते प्र होत्रया शिम्या वीथो अध्वरम् ॥ ३ ॥
+
+> *ā vāṃ bhūṣankṣitayo janma rodasyoḥ pravācyaṃ vṛṣaṇā dakṣase mahe |*
+> *yadīmṛtāya bharatho yadarvate pra hotrayā śimyā vītho adhvaram ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । वां । भूषन् । क्षितयः । जन्म । रोदस्योः । प्रवाच्यम् । वृषणा । दक्षसे । महे ।
+
+> *ā | vāṃ | bhūṣan | kṣitayaḥ | janma | rodasyoḥ | pravācyam | vṛṣaṇā | dakṣase | mahe |*
+
+### Printed p. 489  (PDF 507)
+
+*(Header: "A. 2 A. 2 Va. 30" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥** *(continued)*
+
+> यत् । ईम् । ऋताय । भरथः । यत् । अर्वते । प्र । होत्रया । शिम्या । वीथः ।
+> अध्वरम् ॥ ३ ॥
+
+> *yat | īm | ṛtāya | bharathaḥ | yat | arvate | pra | hotrayā | śimyā | vīthaḥ |*
+> *adhvaram ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the Mitra-Varuṇa pair, bringers of what is desired, are praised for their birth from heaven and earth; the sacrificers praise it because the pair receive the sacrifice with praise and oblation. Small type, read with doubt.)*
+
+> हे वृषणा कामानां वर्षितारौ हे मित्रावरुणौ वां युवयोः संबन्धि जन्म जननमुत्पत्तिं रोदस्योर्द्यावापृथिव्योः सकाशात् । द्यावापृथिवीभ्यामेव सर्वेषामुत्पत्तेः । यद्वा । मित्र इति सर्वोपकारी अग्निरुच्यते । वरुण इति तमोनिवारक आदित्यः । उभयोः पृथिवीद्युस्थानत्वात् । तत्र पूर्वमन्त्रे मित्र[?]ब्यान् स्मृतः । अत्र इदमधिगम्यते अग्निरेव मित्र इति । तथान्यत्रापि । अग्निं मित्रो न क्षितिषु प्रशंस्यम् । ऋ. ३-२-३ । मित्रं न यं सुधितं भृगवो दधुः । ऋ. ६-१५-२ । इति च । प्रवाच्यं स्तुत्यं तादृग्मित्रावरुणयोर्जन्म मह्ये महते दक्षसे सर्वविषयबलाय क्षितयो मनुष्या यजमाना आ भूषन् । सर्वतोऽलंकुर्वन्ति । श्लाघन्ते इत्यर्थः । जन्मनः प्रवाच्यत्वमाह । यदीं यस्मादेव कारणात् । अथवा । ईमित्यनर्थकः । [?] ऋतायेत्यर्थक्रमिदितीत्यादि [?] । ऋताय यज्ञाय भरथः सामर्थ्यं । यद्यस्माच्च कारणादर्वते युष्मान् प्राप्नुवते यजमानाय च भरथोऽभिमतं फलम् । अथवा । उभयत्र कर्मणः संप्रदानत्वाच्चतुर्थी । यज्ञं यजमानं च भरथ इत्यर्थः । यस्माच्च होत्रया स्तुतिरूपया वाचा शिम्या हविःप्रदानादिकर्मणा च प्र वीथः प्रकर्षेण प्राप्नुथः । तस्मात्तद्वाच्यं जन्म भूषयन्तीत्यर्थः । होत्रेति वाङ्नाम होत्रा गीरिति तन्नामसु पाठात् ॥
+
+> *he vṛṣaṇā kāmānāṃ varṣitārau he mitrāvaruṇau vāṃ yuvayoḥ saṃbandhi janma jananamutpattiṃ rodasyordyāvāpṛthivyoḥ sakāśāt | dyāvāpṛthivībhyāmeva sarveṣāmutpatteḥ | yadvā | mitra iti sarvopakārī agnirucyate | varuṇa iti tamonivāraka ādityaḥ | ubhayoḥ pṛthivīdyusthānatvāt | tatra pūrvamantre mitra[?]byān smṛtaḥ | atra idamadhigamyate agnireva mitra iti | tathānyatrāpi | agniṃ mitro na kṣitiṣu praśaṃsyam | ṛ. 3-2-3 | mitraṃ na yaṃ sudhitaṃ bhṛgavo dadhuḥ | ṛ. 6-15-2 | iti ca | pravācyaṃ stutyaṃ tādṛgmitrāvaruṇayorjanma mahye mahate dakṣase sarvaviṣayabalāya kṣitayo manuṣyā yajamānā ā bhūṣan | sarvato 'laṃkurvanti | ślāghante ityarthaḥ | janmanaḥ pravācyatvamāha | yadīṃ yasmādeva kāraṇāt | athavā | īmityanarthakaḥ | [?] ṛtāyetyarthakramiditītyādi [?] | ṛtāya yajñāya bharathaḥ sāmarthyaṃ | yadyasmācca kāraṇādarvate yuṣmān prāpnuvate yajamānāya ca bharatho 'bhimataṃ phalam | athavā | ubhayatra karmaṇaḥ saṃpradānatvāccaturthī | yajñaṃ yajamānaṃ ca bharatha ityarthaḥ | yasmācca hotrayā stutirūpayā vācā śimyā haviḥpradānādikarmaṇā ca pra vīthaḥ prakarṣeṇa prāpnuthaḥ | tasmāttadvācyaṃ janma bhūṣayantītyarthaḥ | hotreti vāṅnāma hotrā gīriti tannāmasu pāṭhāt ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *vṛṣaṇā* — O Mitra-Varuṇa, who shower down (wished-for things); *yad īm* — for which reason; *arvate* — for the sacrificer who worships (you); *ṛtāya* — for the sacrifice (its fruit); *bharathaḥ* — you bear (and); *yat* — for which reason; *hotrayā* — by the praise-speech; *śimyā* — by the acts (of presenting the oblation etc.), (accompanied); *adhvaram* — the sacrifice; *pravīthaḥ* — you accept: (therefore) *vām* — of you two; *pravācyam* — to be extolled; *rodasyoḥ* — arisen from heaven and earth; *janma* — the birth; *mahe* — great; *dakṣase* — for (all-round) power; *kṣitayaḥ* — human sacrificers; *ā bhūṣan* — glorify with adorned words.
+
+### Printed p. 490  (PDF 508)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, bestowers of what is wished: you bear the fruit of the sacrifice for the sacrificer who worships you, and you accept the sacrifice with its praise-words and oblation-rites; therefore human sacrificers extol your birth from heaven and earth, which is great and all-powerful, with adorned words.
+
+**English Translation (as printed).** For the sake (of obtaining) great vigour, showerers (of benefits), men glorify your birth irom [sic: from] heaven and earth, which is to be extolled, inasmuch as you bestow (his desires) upon the worshipper (as the reward) of his sacrifice, and accept the rite (that is solemnized) with praise and oblation.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **रोदस्योः जन्म क्षितयः आ भूषन्** — Human sacrificers glorify the birth of you two, arisen from heaven and earth. To the question "whose birth?", Sāyaṇa first (in explaining the word *vṛṣaṇā*) takes it as the birth of Mitra and Varuṇa; then, "or" (*yadvā*): "Mitra" is said of Agni, the benefactor of all; "Varuṇa" is the Āditya (sun), who removes darkness; both have their place on earth and in the sky. Or, since Agni is the benefactor of everyone, Agni may be called Mitra, and since the sun destroys darkness, the sun may be addressed as Varuṇa; for this he gives the support of Vedic passages:
+
+> तं देवा बुध्ने रजसः सुदंससं दिवस्पृथिव्योररतिं न्येरिरे ।
+> रथमिव वेद्यं शुक्रशोचिषमग्निं मित्रं न क्षितिषु प्रशंस्यम् ॥
+
+> *taṃ devā budhne rajasaḥ sudaṃsasaṃ divaspṛthivyoraratiṃ nyerire |*
+> *rathamiva vedyaṃ śukraśociṣamagniṃ mitraṃ na kṣitiṣu praśaṃsyam ‖*
+
+(Ṛ. Saṃ. 3-2-3 [?].)
+
+> मित्रं न यं सुधितं भृगवो दधुर्वनस्पतावीड्यमूर्ध्वशोचिषम् ।
+> स त्वं सुप्रीतो वीतहव्ये अद्भुत प्रशस्तिभिर्महयसे दिविदिवे ॥
+
+> *mitraṃ na yaṃ sudhitaṃ bhṛgavo dadhurvanaspatāvīḍyamūrdhvaśociṣam |*
+> *sa tvaṃ suprīto vītahavye adbhuta praśastibhirmahayase dividive ‖*
+
+(Ṛ. Saṃ. 6-15-2 [?].) Quoting these Ṛks, he shows that, as Agni is described in them as Mitra, so in the present Ṛk too the meaning may be taken in the same way. Further, likewise:
+
+> स जिह्वया चतुरनीक ऋञ्जते चारु वसानो वरुणो यतेनरिम् ।
+> न तस्य विद्म पुरुषत्वता वयं यतो भगः सविता दाति वार्यम् ॥
+
+> *sa jihvayā caturanīka ṛñjate cāru vasāno varuṇo yatenarim |*
+> *na tasya vidma puruṣatvatā vayaṃ yato bhagaḥ savitā dāti vāryam ‖*
+
+### Printed p. 491  (PDF 509)
+
+*(Header: "A. 2 A. 2 Va. 30" as printed, [?]; "Ṛgvedasaṃhitā". Quotation reference at the foot of p. 490 not legible: "(Ṛ. Saṃ. [?]-[?]-[?])".)*
+
+In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", and *varuṇaḥ tamo-nivārakaḥ* (Varuṇa, remover of darkness) is said [as printed, wording uncertain]; therefore in the present Ṛk *vṛṣaṇā* may be taken as Mitra and Varuṇa, or as Agni in the form of Mitra and the Āditya in the form of Varuṇa — so Sāyaṇa has shown.
+
+**अर्वते** — *yuṣmān prāpnuvate yajamānāya*: "for the sacrificer who approaches you" is the sense. The word *arvan* indicates a special motion, and its usage as a synonym of "horse" in the ordinary way was explained in detail earlier. Because (the sacrificer) approaches the gods quickly with devotion, the word is used also as a synonym for the oblation and for the sacrificer.
+
+**क्षितयः** — *manuṣyāḥ (yajamānāḥ)*. It is read among the 22 names of men beginning *nare* (Ni. 3-2), so the meaning is "men".
+
+> अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋतावा ।
+> स वृत्रहा सनयो विश्ववेदाः पर्षद्विश्वाति दुरिता गृणन्तम् ॥
+
+> *agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā |*
+> *sa vṛtrahā sanayo viśvavedāḥ parṣadviśvāti duritā gṛṇantam ‖*
+
+(Ṛ. Saṃ. 3-20-4 [?].) In such places, where a difference is shown between men and the divine peoples, the word *kṣiti* indicates the people of the earth, men.
+
+**शिम्या** — *śimī iti karmanāma*; from the root *śam* or from *śak* (Ni. [?]); "to take pains" or "power" — it becomes "action". These can be actions that display power, such as dance; or actions of bringing rain. In the present Ṛk it means actions such as presenting the oblation.
+
+**होत्रया** — *hotrā*, *gīḥ* are read among the names of speech (Ni. 1-11 [?]); the sense is "speech in the form of praise".
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar pages 491–492, noted briefly).** *bhūṣan* (root *bhūṣa alaṅkāre*; *chandasi luṅ-laṅ-liṭaḥ* (Pā. Sū. 3-4-6) in the sense of past *laṅ*; *luk* [?]; 3rd pl.; no augment *aṭ* in the Veda; *tiṅ*-accent: *nighāta*); *kṣitayaḥ* (root *kṣi nivāse*; *kṣiyaḥ ktin* …/*kṛ-cakṣi-… -mṛ* [as printed, "kṛc kṣi-… saṃjñāyām"]; *ktic* suffix; final *udātta*; 1st pl.); *pravācyam* (root *vaca paribhāṣaṇe*; *ṇyat* by *ṛhalor ṇyat* (Pā. Sū. 3-1-124); *ato upadhāyāḥ* (Pā. Sū. 7-2-116) *vṛddhi*; *yajacyācaprav…* (Pā. Sū. 7-3-[?]) no *kutva*; *tit svarita* accent; or *yat* by *aco yat*, *ṇeranii*…).
+
+### Printed p. 492  (PDF 510)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(Grammar page continued, noted briefly.)* *vṛṣaṇā* …; *dakṣase* (root *dakṣa vṛddhau śīghrārthe ca*; *asun*, *nityād…* first *udātta*; dative sg.); *mahe* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) — the case-ending of a monosyllabic stem is *udātta*); *bharathaḥ* (root *bhṛ bharaṇe*; *bhvādi*; *laṭ* 2nd dual; *tāsyanudāttet…* (Pā. Sū. 6-1-186) the *lasārvadhātuka* is *anudātta*, so the root accent remains; *nighāta* absent as connected with *yat*); *arvate* (root *ṛ gatau*; *vanip*; with *catur-thī* sg. following, *arvaṇastrasāv anañaḥ* (Pā. Sū. 6-4-127) *tṛ* substitution); *hotrayā* (root *hu dānādanayoḥ*; *hu yāmāśrubhasibhyaḥ ṣṭran* (Uṇ. Sū. 4-[?]) *ṣṭran*; *sārvadhātukārdhadhātukayoḥ* guṇa; *ñnityādir nityam* first *udātta*; instr. sg.); *vīthaḥ* (root *vī gatyādiṣu*; *adādi*; *laṭ* 2nd dual; since *ati-…* after the preceding … *nighāta*); *adhvaram* (*na vidyate dhvaraḥ (hiṃsā) yatra*; *adhvaraḥ naṅ subhyām* (Pā. Sū. 6-2-[?]) — final *udātta*).
+
+— — —
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> प्र सा क्षितिरसुर या महि प्रिय ऋतावानावृतमा घोषथो बृहत् ।
+
+> *pra sā kṣitirasura yā mahi priya ṛtāvānāvṛtamā ghoṣatho bṛhat |*
+
+*(Printed with a line break inside "घोषथो"; the Saṃhitā of Ṛk 4 continues on p. 493.)*
+
+---
+
+**Progress note:** Sūkta 151 in progress: Ṛk 2 finished and Ṛk 3 complete (printed pp. 487–492, PDF 505–510); Ṛk 4 Saṃhitā begun at the foot of p. 492. Next: printed p. 493 (PDF 511). Open flags: small-type bhāṣya partly unread (pp. 481, 489 many `[?]`); Bṛhaddevatā quotation pp. 482–486 low confidence; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
