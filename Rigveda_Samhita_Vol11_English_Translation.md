@@ -788,21 +788,21 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
 
-> आहेळमान उप याहि यज्ञं तुभ्यं पवन्त इन्दवः सुतासः [?] ।
+> आहेळमान उप याहि यज्ञं तुभ्यं पवन्त इन्दवः सुतासः ।
 
-> *āheḷamāna upa yāhi yajñaṃ tubhyaṃ pavanta indavaḥ sutāsaḥ [?] |*
+> *āheḷamāna upa yāhi yajñaṃ tubhyaṃ pavanta indavaḥ sutāsaḥ |*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].) In this and in 10-[?]-[?] and many other Ṛks the same prayer is made: Agni, Varuṇa and the like punish sinners, and one hopes for no favour from such gods; yet we sacrificers, afraid of the greater punishment, pray that they be not angry, that they not disregard us, and that they favour us rather than the opposite.
+(Ṛ. Saṃ. 6-41-1.) In this and in 10-32-8 and many other Ṛks the same prayer is made: Agni, Varuṇa and the like punish sinners, and one hopes for no favour from such gods; yet we sacrificers, afraid of the greater punishment, pray that they be not angry, that they not disregard us, and that they favour us rather than the opposite.
 
 ***sarī bhava.*** Derived from the root *sṛ* of motion, *sarī* is used here in two senses: first, *asmābhir gantavyo bhava* — "may we approach you without fear"; second, *gamanaśīlo bhava, purato gantā bhava* — "go in front of us, be our leader". Similarly *sarīmaṇi* and *sarīsṛpa* are derived; *sarīsṛpa* means a creature that glides swiftly, a serpent. The word *sarīsṛpa* is used in the Ṛk
 
-> यस्ते हन्ति पतयन्तं निषत्स्नुं यः सरीसृपम् [?] ।
+> यस्ते हन्ति पतयन्तं निषत्स्नुं यः सरीसृपम् ।
 
-> *yaste hanti patayantaṃ niṣatsnuṃ yaḥ sarīsṛpam [?] |*
+> *yaste hanti patayantaṃ niṣatsnuṃ yaḥ sarīsṛpam |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) in the sense of an unborn / moving embryo [?]. Here *sarī bhava* means "be our leader in front of us".
+(Ṛ. Saṃ. 10-162-3) in the sense of an unborn / moving embryo. Here *sarī bhava* means "be our leader in front of us".
 
-**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *viṣpanyavaḥ* (*vi* prefix; root *pana stutau*; *bahulam*; suffix *yu*; accent), *kratvā* (*kratu*; instrumental singular; *jasādiṣu chandasi vā vacanam* — no *nā* form here), *avasā* (root *av rakṣaṇe*; *asun*; accent of the first syllable by *ñit*), *bubhujrire* (root *bhuja pālanābhyavahārayoḥ*; *liṭ* by *chandasi luṅlaṅliṭaḥ*; reduplication; *ruṭ* augment by *bahulaṃ chandasi*); sūtra numbers mostly not read.
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *vipanyavaḥ* (*vi* prefix; root *pana stutau*; *bahulam*; suffix *yu*; accent), *kratvā* (*kratu*; instrumental singular; *jasādiṣu chandasi vā vacanam* — no *nā* form here), *avasā* (root *av rakṣaṇe*; *asun*; accent of the first syllable by *ñit*), *bubhujrire* (root *bhuja pālanābhyavahārayoḥ*; *liṭ* by *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6); *liṭas tajhayor eśirec* gives *ire*; reduplication; *ruṭ* augment by *bahulaṃ chandasi*); sūtra numbers mostly not read.
 
 ---
 
@@ -810,7 +810,7 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
 
-*(Grammar of Ṛk 3, concluded; noted briefly.)* *navīyasīm* (*navī* + *īyasun*; *ugitaś ca* gives *ṅīp*; *yasyeti ca* drops the *a*), *rāyaḥ* (accusative plural; accent), *īmahe* (root *īj gatau*, read among the verbs of asking, Ni. 3-[?]; *liṭ* first person plural, *ṭhāc* substituted [?]; *bahulaṃ chandasi*; *luk* of the *vikaraṇa*; as a *tiṅanta* following, *nighāta* accent), *aheḷamānaḥ* (root *heḍ anādare*, *bhvādi*; *laṭ* → *śānac*, *śap*; *āne muk* (Pā. Sū. 7-2-[?]) *muk* augment; negative compound — *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-[?]) *naṅ*, accent of the first member), *sarī* (root *sṛ gatau*; an Uṇādi suffix; *guṇa*; *uraṇ raparaḥ*; the word *sarin*; first syllable accented; nominative singular), *vāje vāje* (*nityavīpsayoḥ* (Pā. Sū. 8-1-[?]) doubling; second member *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-[?])). ‖ 3 ‖
+*(Grammar of Ṛk 3, concluded; noted briefly.)* *navīyasīm* (*navī* + *īyasun*; *ugitaś ca* gives *ṅīp*; *yasyeti ca* drops the *a*), *rāyaḥ* (accusative plural; accent), *īmahe* (root *īj gatau*, read among the verbs of asking, Ni. 3-19-1 (*īmahe yāmi*); *laṭ* first person plural, *mahiṅ*, *ṭi* gets *e*; *bahulaṃ chandasi*; *luk* of the *vikaraṇa* (Pā. Sū. 2-4-73); as a *tiṅanta* following, *nighāta* accent), *aheḷamānaḥ* (root *heḍ anādare*, *bhvādi*; *laṭ* → *śānac*, *śap*; *āne muk* (Pā. Sū. 7-2-82) *muk* augment; negative compound — *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) *naṅ*, accent of the first member), *sarī* (root *sṛ gatau*; an Uṇādi suffix; *guṇa*; *uraṇ raparaḥ*; the word *sarin*; first syllable accented; nominative singular), *vāje vāje* (*nityavīpsayoḥ* (Pā. Sū. 8-1-4) doubling; second member *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-3)). ‖ 3 ‖
 
 #### Ṛk 4
 
@@ -846,11 +846,11 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Pūṣan, Ajāśva, be near us, unangry and generous; with good hymns we turn to you; I do not disregard your friendship.* Very small type; doubtful words marked)
 
-> हे अजाश्व पूषन् । अजाश्वः पूषणमाहेति यास्कः । नि. ६-[?] । अस्याः [?] चतुर्थ्यर्थे षष्ठी । सातये लाभायाहेळमानोऽक्रुध्यन्नादरमकुर्वन् ररिवान् दाता च सन् सु सुष्ठु उप भुवः । समीपस्थो भव । रातेश्छन्दसि [?] क्वसुः । [? ...] ऊ इति पादपूरणः । किञ्च श्रवस्यतामन्नमिच्छतामस्माकं हे अजाश्व अजा [?] यस्य तादृशस्त्वं [?] पूषणमेदम् [?] ररिवान् सन्नुप भुवः । अजाश्व पूषन् इति यास्कः । ओ इति निपातद्वयसमुदायात्मकः [?] निपातः । हे दस्म शत्रूणामुपक्षयितः पूषन् त्वा त्वामो षु ववृतीमहि सर्वतो वर्तयेमहि [?] । वृत्रेर [?] बहुलं छन्दसि शपः श्लुः । यज्ञान्तरगमनान्नि वर्तयाम इत्यर्थः । केन साधनेनेति तदुच्यते । साधुभिः स्तोमेभिः स्तोत्रैः [?] । किञ्च हे पूषन् आघृणे सर्वतो वृष्टिप्रदीप्ते [?] । यद्वा । आघृणे पविषामाहर्तः [?] स्वीकर्तः त्वां नहि अतिमन्ये । अनमतिं नैव करोमि । न केवलमनतिक्रममात्रं किन्तु ते सख्यं तव सवित्वं हितकर्तृत्वं नह्यपह्नुवे । नैवापलपामि । न त्यजामि । सर्वतः प्रख्यापयामीत्यर्थः ॥
+> हे अजाश्व पूषन् । अजाश्वेति पूषणमाहेति यास्कः । नि. ४-२३ । नोऽस्माकमस्याः अस्यै ॥ चतुर्थ्यर्थे षष्ठी ॥ सातये लाभायाहेळमानोऽक्रुध्यन्नानादरमकुर्वन् ररिवान् दाता च सन् सु सुष्ठूप भुवः । समीपस्थो भव ॥ रातेश्छान्दसस्य लिटः क्वसुः । पदसंज्ञाया अभावेऽपि पपिवांसं तस्थिवांसमित्यादौ छान्दसोऽवग्रहो दृश्यते । ऊ इति पादपूरणः ॥ किञ्च श्रवस्यतामन्नमिच्छतामस्माकं हे अजाश्व अजा एवाश्वस्थानीया यस्य तादृश त्वं । पूषनामेदं । ररिवांश्च सन्नुप भुवः । अजाः पूष्ण इति यास्कः । ओ इति निपातद्वयसमुदायात्मक एको निपातः । हे दस्म शत्रूणामुपक्षयितः पूषन् त्वा त्वामो षु ववृतीमहि । सर्वत एव सुतरां वर्तयेमहि ॥ वृतेरन्तर्भावितण्यर्थाल्लिङः बहुलं छन्दसीति शपः श्लुः ॥ यज्ञान्तरगमनान्निवर्तयामः इत्यर्थः । केन साधनेनेति तदुच्यते । साधुभिः स्तोमेभिस्त्वां प्रीणयितुं समर्थैः स्तोत्रैः । किञ्च हे पूषन् आघृणे सर्वतो वृष्टेः क्षारयितः । यद्वा । आघृणे हविषामाहर्तः स्वीकर्तः त्वां नहि अतिमन्ये । अवमतिं नैव करोमि । न केवलमनतिक्रममात्रं किन्तु ते सख्यं तव सखित्वं हितकर्तृत्वं नह्यपह्नुवे । नैवापनयामि । न त्यजामि । सर्वतः प्रख्यापयामीत्यर्थः ॥
 
-> *he ajāśva pūṣan | ajāśvaḥ pūṣaṇamāheti yāskaḥ | ni. 6-[?] | asyāḥ [?] caturthyarthe ṣaṣṭhī | sātaye lābhāyāheḷamāno 'krudhyannādaramakurvan rarivān dātā ca san su suṣṭhu upa bhuvaḥ | samīpastho bhava | rāteśchandasi [?] kvasuḥ | [? ...] ū iti pādapūraṇaḥ | kiñca śravasyatāmannamicchatāmasmākaṃ he ajāśva ajā [?] yasya tādṛśastvaṃ [?] pūṣaṇamedam [?] rarivān sannupa bhuvaḥ | ajāśva pūṣan iti yāskaḥ | o iti nipātadvayasamudāyātmakaḥ [?] nipātaḥ | he dasma śatrūṇāmupakṣayitaḥ pūṣan tvā tvāmo ṣu vavṛtīmahi sarvato vartayemahi [?] | vṛtrera [?] bahulaṃ chandasi śapaḥ śluḥ | yajñāntaragamanānni vartayāma ityarthaḥ | kena sādhaneneti taducyate | sādhubhiḥ stomebhiḥ stotraiḥ [?] | kiñca he pūṣan āghṛṇe sarvato vṛṣṭipradīpte [?] | yadvā | āghṛṇe paviṣāmāhartaḥ [?] svīkartaḥ tvāṃ nahi atimanye | anamatiṃ naiva karomi | na kevalamanatikramamātraṃ kintu te sakhyaṃ tava savitvaṃ hitakartṛtvaṃ nahyapahnuve | naivāpalapāmi | na tyajāmi | sarvataḥ prakhyāpayāmītyarthaḥ ‖*
+> *he ajāśva pūṣan | ajāśveti pūṣaṇamāheti yāskaḥ | ni. 4-23 | no 'smākamasyāḥ asyai ‖ caturthyarthe ṣaṣṭhī ‖ sātaye lābhāyāheḷamāno 'krudhyannānādaramakurvan rarivān dātā ca san su suṣṭhūpa bhuvaḥ | samīpastho bhava ‖ rāteśchāndasasya liṭaḥ kvasuḥ | padasaṃjñāyā abhāve 'pi papivāṃsaṃ tasthivāṃsamityādau chāndaso 'vagraho dṛśyate | ū iti pādapūraṇaḥ ‖ kiñca śravasyatāmannamicchatāmasmākaṃ he ajāśva ajā evāśvasthānīyā yasya tādṛśa tvaṃ | pūṣanāmedaṃ | rarivāṃśca sannupa bhuvaḥ | ajāḥ pūṣṇa iti yāskaḥ | o iti nipātadvayasamudāyātmaka eko nipātaḥ | he dasma śatrūṇāmupakṣayitaḥ pūṣan tvā tvāmo ṣu vavṛtīmahi | sarvata eva sutarāṃ vartayemahi ‖ vṛterantarbhāvitaṇyarthālliṅaḥ bahulaṃ chandasīti śapaḥ śluḥ ‖ yajñāntaragamanānnivartayāmaḥ ityarthaḥ | kena sādhaneneti taducyate | sādhubhiḥ stomebhistvāṃ prīṇayituṃ samarthaiḥ stotraiḥ | kiñca he pūṣan āghṛṇe sarvato vṛṣṭeḥ kṣārayitaḥ | yadvā | āghṛṇe haviṣāmāhartaḥ svīkartaḥ tvāṃ nahi atimanye | avamatiṃ naiva karomi | na kevalamanatikramamātraṃ kintu te sakhyaṃ tava sakhitvaṃ hitakartṛtvaṃ nahyapahnuve | naivāpanayāmi | na tyajāmi | sarvataḥ prakhyāpayāmītyarthaḥ ‖*
 
-**Pratipadārtha (Kannada).** *ajāśva* — O Pūṣan; *naḥ* — our; *asyāḥ sātaye* — for receiving this (praise or offering); *aheḷamānaḥ* — without anger (without disregard); *rarivān* — liberally giving; *su* — well; *upa bhuvaḥ* — be near us; *ajāśva* — O Pūṣan; *śravasyatām* — of us who desire food; *su* — … be close by; *dasma* — destroyer of foes, Pūṣan; *tvā* — you; *sādhubhiḥ* — to please you; *stomebhiḥ* — with hymns; *o ṣu* — well (taking refuge, restraining); *vavṛtīmahi* — (continued on p. 32).
+**Pratipadārtha (Kannada).** *ajāśva* — O Pūṣan; *naḥ* — our; *asyāḥ sātaye* — for receiving this (praise or offering); *aheḷamānaḥ* — without anger (without disregard); *rarivān* — liberally giving; *su* — well; *upa bhuvaḥ* — be near us; *ajāśva* — O Pūṣan; *śravasyatām* — of us who desire food; *su* — … be close by; *dasma* — destroyer of foes, Pūṣan; *tvā* — you; *sādhubhiḥ* — to please you; *stomebhiḥ* — with hymns; *o ṣu* — all around (taking refuge, restraining); *vavṛtīmahi* — (continued on p. 32).
 
 ### Printed p. 32  (PDF 50)
 
