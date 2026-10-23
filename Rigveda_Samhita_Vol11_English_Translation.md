@@ -13675,4 +13675,196 @@ In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", a
 
 ---
 
-**Progress note:** Sūkta 152 in progress: Ṛk 1 complete; Ṛk 2 under way (printed pp. 517–522, PDF 535–540; Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics on *satyaḥ* continue on p. 523). Next: printed p. 523 (PDF 541). Open flags: small-type bhāṣya partly unread; Śatapatha/Ṛg Brāhmaṇa/Nirukta reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 523  (PDF 541)
+
+*(Header: "A. 2 A. 2 Va. 32" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Special Topics of Ṛk 2, continued.)* … it is necessary to know even for truthful conduct the world-order and the nature of the deities who are its cause; and that this knowledge too is possible only through truth is explained in detail in many contexts.
+
+> सखा ह यत्र सखिभिर्नग्मभिर्ज्ञात्वा सत्येभिर्गा अनुग्मन् ।
+> सत्यं तदिन्द्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियन्तम् ॥
+
+> *sakhā ha yatra sakhibhirnagmabhirjñātvā satyebhirgā anugman |*
+> *satyaṃ tadindro daśabhirdaśagvaiḥ sūryaṃ viveda tamasi kṣiyantam ‖*
+
+(Ṛ. Saṃ. 3-31-[?], numerals uncertain.)
+
+> स इद्देवानां सधमाद आसन्नृतावानः कवयः पूर्व्यासः ।
+> गूळ्हं ज्योतिः पितरो अन्वविन्दन् सत्यमन्त्रा अजयन्नुषासम् ॥
+
+> *sa iddevānāṃ sadhamāda āsannṛtāvānaḥ kavayaḥ pūrvyāsaḥ |*
+> *gūḷhaṃ jyotiḥ pitaro anvavindan satyamantrā ajayannuṣāsam ‖*
+
+(Ṛ. Saṃ. 7-76-4.)
+
+> अधा यथा नः पितरः परासः प्रत्नासो अग्न ऋतमाशुषाणाः ।
+> शुचीदयन् दीधितिमुक्थशासः क्षामा भिन्दन्तो अरुणीरप व्रन् ॥
+
+> *adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtamāśuṣāṇāḥ |*
+> *śucīdayan dīdhitimukthaśāsaḥ kṣāmā bhindanto aruṇīrapa vran ‖*
+
+(Ṛ. Saṃ. 4-2-16.) In all such Ṛks, passages are numerous which tell how the sages also, knowing the nature of the truthful deities and performing the rites, obtained wealth, and with them goes the prayer that "by truth may it be well with us". The truthful nature of Agni and other deities, whose law is truth, is described in such prayers as "as our fathers, by truthful sacrificial conduct, obtained whatever fruits, so now too may the fruits of our rites be true…" [as printed, partly uncertain].
+
+> आजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।
+
+> *ājo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
+
+(Ṛ. Saṃ. 1-67-3 [?].)
+
+> कविमग्निमुपस्तुहि सत्यधर्माणमध्वरे ।
+> देवममीवचातनम् ॥
+
+> *kavimagnimupastuhi satyadharmāṇamadhvare |*
+> *devamamīvacātanam ‖*
+
+(Ṛ. Saṃ. 1-12-7 [?].)
+
+> देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा ।
+> पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥
+
+> *devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā |*
+> *purupraśasto amatirna satya ātmeva śevo didhiṣāyyo bhūt ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In many such places it is shown that Agni and the other deities uphold earth and the other worlds, and carry out the protection of the worlds, by *truth*, and that men too should follow that path of truth.
+
+---
+
+### Printed p. 524  (PDF 542)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+If one follows this path, *tvaḥ cana etat vi ciketat* — one man alone, without needing the help of others, endowed with every capacity, wins the victory: this assurance is given in the present Ṛk.
+
+**ऋघावान्** — for the word *ṛghā*, Monier Williams's *Dictionary* gives "violence, passion"; the purport may be "a violent power". The word *ṛghāvān* occurs not only in this Ṛk but also in
+
+> इन्द्रः सुशिप्रो मघवा तरुत्रो महाव्रातस्तुविकूर्मिर्ऋघावान् ।
+> यदुग्रो धा बाधितो मर्त्येषु क्व त्या ते वृषभ वीर्याणि ॥
+
+> *indraḥ suśipro maghavā tarutro mahāvrātastuvikūrmirṛghāvān |*
+> *yadugro dhā bādhito martyeṣu kva tyā te vṛṣabha vīryāṇi ‖*
+
+(Ṛ. Saṃ. 3-30-9 [?].) In that Ṛk too, as in the present one, Sāyaṇa explains it *śatruviṣaye hiṃsāvān* — "one capable of harming enemies"; the stress may lie on the power to inflict harm.
+
+**त्वः** — *tva iti vinigrahārthīyaṃ sarvanāmānupāttam arthānām eteke* (Ni. 1-7 [?]): the *Nirukta*-author quotes
+
+> ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु ।
+> ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां वि मिमीत उ त्वः ॥
+
+> *ṛcāṃ tvaḥ poṣamāste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu |*
+> *brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vi mimīta u tvaḥ ‖*
+
+(Ṛ. Saṃ. 10-71-11.) and explains the word *tvaḥ* here as "one" (*ekaḥ*). Besides, *athāpi samuccayārthe bhavati*: the word is also used in the sense of "and" (Ni. 1-9 [?]).
+
+**त्रिरश्रिम्** — Sāyaṇa gives two senses: "an enemy with three edges (*aśri*)", or "an enemy by the name Triraśri". No authority is found for this word as the proper name of a person.
+
+**देवनिदः** — the *Nirukta*-author:
+
+> स्वयं सो अस्मदा निदो वध्रैरजेत दुर्मतिम् ।
+> अव स्रवेदघशंसोऽवतरमव क्षुद्रमिव स्रवेत् ॥
+
+> *svayaṃ so asmadā nido vadhrairajeta durmatim |*
+> *ava sravedaghaśaṃso 'vataramava kṣudramiva sravet ‖*
+
+(Ṛ. Saṃ. 1-38-5 [?].)
+
+---
+
+### Printed p. 525  (PDF 543)
+
+*(Header: "A. 2 A. 2 Va. 32" as printed, [?]; "Ṛgvedasaṃhitā". Grammar page, noted briefly.)*
+
+Explaining that Ṛk, he takes *nidaḥ* as *nindhitāraṃ* — "those who blame" — from the root *nid* in the sense of contempt. In the present Ṛk *devanidaḥ* means "those who revile the gods".
+
+**अजूर्यन्** — *svayam eva jīrṇā bhavanti*: they decay of themselves.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly).** *ciketat* (root *kita jñāne*; *laṭ*, *tip* → *e*; *iketi lopaś ca*, *letoḍāṭau* (Pā. Sū. 3-4-94) *aḍāgama* … *śap* doubling; *laghūpadhaguṇa*; *nighāta*); *tvaḥ* (*viśāmāt*?: the plural in the sense of worship, or by reference to followers); *satyaḥ* (*sat* + *bhave*; *bhave chandasi* (Pā. Sū. 4-4-110) *yat* suffix; suffix accent); *kaviśastaḥ* (root *śaṃsu stutau*; *kta*; *anidit* — loss of the nasal; *kavibhiḥ śastaḥ*, the *kṛdutara* member keeps the stem accent); *ṛghāvān* (root *ṛgha hiṃsāyām*; *ṛghā asya asti*; *matup*); *triraśrim* (*trayaḥ aśrayaḥ yasya tat triraśri*; *tadasya asti*; in the Veda *matvartha* suffix dropped); *hanti* (root *han hiṃsāgatyoḥ*; *adādi*; *laṭ* 3rd sg.; *nighāta*); *ugraḥ* (root *ujha samavāye*; *ṛjendrāgra*… (Uṇ. Sū. 2-[?]) *ra*, as a *nipātana*; *cakāra* to *gakāra* by *vyatyaya*; suffix accent: final *udātta*); *devanidaḥ* (*devān nindanti*; root *nidi kutsāyām*; *kvip ca* — *kvip*; *āgamānuśāsanam anityam* — *num* augment; the *kṛdutara* member keeps the stem accent; nominative pl.); *ajūryan* (root *jṝṣ vayohānau*; *laṅ* in the Veda; 3rd pl. *jhi* → *ant*, loss of the final; *divādibhyaḥ śyan* (Pā. Sū. 3-1-69) *śyan*; *bahulaṃ chandasi* … *ut* for the root; *hali ca* lengthening; *nighāta*). ‖ 2 ‖
+
+---
+
+### Printed p. 526  (PDF 544)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अपादेति प्रथमा पद्वतीनां कस्तद्वां मित्रावरुणा चिकेत ।
+> गर्भो भारं भरत्या चिदस्य ऋतं पिपर्त्यनृतं नि तारीत् ॥ ३ ॥
+
+> *apādeti prathamā padvatīnāṃ kastadvāṃ mitrāvaruṇā ciketa |*
+> *garbho bhāraṃ bharatyā cidasya ṛtaṃ pipartyanṛtaṃ ni tārīt ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> अपात् । एति । प्रथमा । पत्ऽवतीनाम् । कः । तत् । वाम् । मित्रावरुणा । आ । चिकेत ।
+> गर्भः । भारम् । भरति । आ । चित् । अस्य । ऋतम् । पिपर्ति । अनृतम् । नि । तारीत् ॥ ३ ॥
+
+> *apāt | eti | prathamā | pat 'vatīnām | kaḥ | tat | vām | mitrāvaruṇā | ā | ciketa |*
+> *garbhaḥ | bhāram | bharati | ā | cit | asya | ṛtam | piparti | anṛtam | ni | tārīt ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the footless Dawn goes first of all footed beings — who understands that this is your work? And your embryo, the Sun, bears the burden of this world, fills it with truth and removes untruth. Small type, read with doubt.)*
+
+> हे मित्रावरुणा मित्रावरुणौ पद्वतीनां मनुष्यादीनां प्रजानां प्रथमा प्रथमभाविन्यपात् पादरहितोषाः । प्रतिदिनं सूर्यचन्द्रादिवत् स्वस्वाः [?] परिभ्रमणाभावात् सूर्यगमनेनैव स्वगमनादपादिति चैती [?] । इत्युपचर्यते । तत्प्रादुर्भावं [?] युवयोः प्रसिद्धं कर्म कः आ चिकेते । कः अभिमुखेन जानाति ॥ कित ज्ञाने ॥ तत्प्रत्यक्षं त्वमित्यर्थः । मित्रावरुणयोरहोरात्रदेवत्वादहोरात्रयोरेतरा [?] स्थानत्वादित्यर्थः । किंचास्य लोकस्य भारं निर्वाहं गर्भो युवयोर्गर्भस्थानीयः शिशुरादित्यः । अहोरात्रयोर्मध्यकाल उत्पत्तेरुभयोरेव मित्रावरुणात्मकत्वात् । अहोरात्रे वै मित्रावरुणाविति श्रुतेः । स आभरति आहरति [?]: समानान्यान् [?] हरति नास्य भारं जाड्यं । चिदित्यवधारणे । तक्ष्ण [?] तमुच्चैः ऋतं सत्यं जगते प्रकाशगमनादिरूपं पिपर्ति पूरयति । अनृतमुक्तविलक्षणमन्धकारं गमनादिनिरोधं च नि तारीत् नितरां तारयति नामयति नाशयतीत्यर्थः । शिशोर्जगद्भारवहनरूपं कर्म युष्मत्कर्मानुकृतीति [?] ॥
+
+> *he mitrāvaruṇā mitrāvaruṇau padvatīnāṃ manuṣyādīnāṃ prajānāṃ prathamā prathamabhāvinyapāt pādarahitoṣāḥ | pratidinaṃ sūryacandrādivat svasvāḥ [?] paribhramaṇābhāvāt sūryagamanenaiva svagamanādapāditi caitī [?] | ityupacaryate | tatprādurbhāvaṃ [?] yuvayoḥ prasiddhaṃ karma kaḥ ā cikete | kaḥ abhimukhena jānāti ‖ kita jñāne ‖ tatpratyakṣaṃ tvamityarthaḥ | mitrāvaruṇayorahorātradevatvādahorātrayoretarā [?] sthānatvādityarthaḥ | kiṃcāsya lokasya bhāraṃ nirvāhaṃ garbho yuvayorgarbhasthānīyaḥ śiśurādityaḥ | ahorātrayormadhyakāla utpatterubhayoreva mitrāvaruṇātmakatvāt | ahorātre vai mitrāvaruṇāviti śruteḥ | sa ābharati āharati [?]: samānānyān [?] harati nāsya bhāraṃ jāḍyaṃ | cidityavadhāraṇe | takṣṇa [?] tamuccaiḥ ṛtaṃ satyaṃ jagate prakāśagamanādirūpaṃ piparti pūrayati | anṛtamuktavilakṣaṇamandhakāraṃ gamanādinirodhaṃ ca ni tārīt nitarāṃ tārayati nāmayati nāśayatītyarthaḥ | śiśorjagadbhāravahanarūpaṃ karma yuṣmatkarmānukṛtīti [?] ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *mitrāvaruṇā* — O Mitra-Varuṇa; *padvatīnām* — of footed beings such as men; *prathamā* — the first-going herald; *apāt* — the footless goddess Uṣas; *tat* — this truth; *vām* — your work (that it is); *kaḥ* — who; *ā ciketa* — fully understands; (and moreover) *asya* — of this world; *bhāram* — the burden of its upkeep; *garbhaḥ* — the infant in (your) womb, the Sun; *ā bharati cit* — bears completely; *ṛtam* — truth (of light etc.) for the world; *pipartti* — fills; *anṛtam* — the untruth of the form of darkness; *ni tārīt* — destroys.
+
+---
+
+### Printed p. 527  (PDF 545)
+
+*(Header: "A. 2 A. 2 Va. 32" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, who can understand that this truth — that the footless goddess Uṣas is the herald, the first of all beings with feet, men and the rest — is your work? And, filling the world with the truth of light and the like and destroying the untruth of the form of darkness, the Sun, the infant in the womb of you two, bears and fully carries the burden of this world's upkeep.
+
+**English Translation (as printed; heading misprinted "English Tranlation").** Who knows, Mitra and Varuna, that it is your doing, that the footless [sic: "footles s", split by line break] dawn is the precursor of footed beings; and that your infant (progeny, the sun), sustains the burthen of this (world): he diffuses (the) truth (of light) and disperses the falsehood (of darkness).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **पद्वतीनां प्रथमा** — *pādavatīnāṃ manuṣyādīnāṃ prajānāṃ prathamabhāvinī*: she appears before all beings that move on earth or in the atmosphere, and wakes them.
+
+> आ घा योषेव सूनर्युषा याति प्रभुञ्जती ।
+> जरयन्ती वृजनं पद्वदीयत उत्पातयति पक्षिणः ॥
+
+> *ā ghā yoṣeva sūnaryuṣā yāti prabhuñjatī |*
+> *jarayantī vṛjanaṃ padvadīyata utpātayati pakṣiṇaḥ ‖*
+
+(Ṛ. Saṃ. 1-48-5.) In such Ṛks it is indicated how Uṣas is described as appearing before the dawn and rousing all sleeping birds and moving creatures, as a housewife skilled in household work rises first of all and wakes the others.
+
+**अपात्** — *pādarahitā uṣāḥ*; Sāyaṇa tells us that because, unlike the sun and the moon, she has no daily independent circuit of her own but joins her movement to the sun's rising, this epithet (*apāt*, footless) is used.
+
+---
+
+### Printed p. 528  (PDF 546)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+**अस्य भारं गर्भो आ भरति चित्** — the infant in the womb of the two, the Sun, carries completely the whole burden of this world. *Ahorātrayor madhyakāle utpatteḥ tābhyām eva mitrāvaruṇātmakatvāt*: since it is born in the time between day and night, and is thereby of the nature of Mitra-Varuṇa.
+
+> अहोरात्रे वै मित्रावरुणौ ।
+
+> *ahorātre vai mitrāvaruṇau |*
+
+(Tai. Saṃ. 6-4-10-1 [?].) By this scripture, Mitra is known as the deity presiding over day, and Varuṇa over night. These deities too:
+
+> त्री रोचना वरुण त्रीरुत द्यून् त्रीणि मित्र धारयथो रजांसि ।
+> वावृधानावमतिं क्षत्रियस्यानु व्रतं रक्षमाणावजुर्यम् ॥
+
+> *trī rocanā varuṇa trīruta dyūn trīṇi mitra dhārayatho rajāṃsi |*
+> *vāvṛdhānāvamatiṃ kṣatriyasyānu vrataṃ rakṣamāṇāvajuryam ‖*
+
+(Ṛ. Saṃ. 5-69-1.) In such Ṛks Mitra-Varuṇa bear the burden of the three worlds; and that they are the cause of the Sun and other luminaries to give rise to the worlds and help the worldly activities is also described, and is here mentioned.
+
+**ऋतम्** — *jagataḥ prakāśagamanādirūpaṃ satyam*: the word *ṛta* has many meanings, "sacrifice", "water" and others; here it means "truth". The truth that is reflected in the world's light and all kinds of activity has been explained. The Sun, the representative of Mitra-Varuṇa, is the cause of the growth of truth and the destruction of untruth.
+
+**पिपर्ति** — *pipartti pṛ prīr iti syutra nigamau vā prīṇāti nigamau vā* [as printed, uncertain]: "make grow" or "make obtain" — the use of these words in that sense was shown earlier on the authority of the *Nirukta* (Ni. 3-38 [?]).
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar pages 528–529, noted briefly).** *apāt* (*na vidyate pād yasya* — *apāt*; *bahuvrīhi*, *nañ subhyām* (Pā. Sū. 6-2-172) final *udātta*); *eti* (root *iṇ gatau*; *laṭ* 3rd sg.; *nighāta*); *padvatīnām* (*pat pādo 'syāḥ asti*; *matup*; *ṛśyaḥ*-rule *ṛtvā* [?] (Pā. Sū. 6-1-[?]) *ma* to *va*; by *vyatyaya* the *matup* ending is *udātta*); *ciketa* (root *kita jñāne*; *chandasi liṭ*; 3rd sg., *ṇal* → *ā*…; reduplication; *nighāta*).
+
+---
+
+**Progress note:** Sūkta 152 in progress: Ṛk 2 complete; Ṛk 3 under way (printed pp. 523–528, PDF 541–546; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics through *ṛtam*/*pipartti* done; its grammar begins on p. 528). Next: printed p. 529 (PDF 547). Open flags: small-type bhāṣya partly unread; Ṛg/Śatapatha/Nirukta reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
