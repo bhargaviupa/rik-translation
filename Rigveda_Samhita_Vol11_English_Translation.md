@@ -1078,47 +1078,47 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 ### Printed p. 41  (PDF 59)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
-> अमूरो कविरदितिर्विवस्वान्त्सुसंसन्मित्रो अतिथिः शिवो नः [?] ।
+> अमूरः कविरदितिर्विवस्वान्त्सुसंसन्मित्रो अतिथिः शिवो नः ।
 
-> *amūro kaviraditirvivasvāntsusaṃsanmitro atithiḥ śivo naḥ [?] |*
+> *amūraḥ kaviraditirvivasvāntsusaṃsanmitro atithiḥ śivo naḥ |*
 
-(Ṛ. Saṃ. 2-[?]-[?] [?].)
+(Ṛ. Saṃ. 7-9-3 [?].)
 
-> विवस्वता चक्षसा द्यामुपश्च देवा अग्निं धारयन्द्रविणोदाम् [?] ।
+> विवस्वता चक्षसा द्यामुपश्च देवा अग्निं धारयन्द्रविणोदाम् ।
 
-> *vivasvatā cakṣasā dyāmupaśca devā agniṃ dhārayandraviṇodām [?] |*
+> *vivasvatā cakṣasā dyāmupaśca devā agniṃ dhārayandraviṇodām |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].) In such Ṛks the sense "radiant" is meant;
+(Ṛ. Saṃ. 1-96-2.) In such Ṛks the sense "radiant" is meant;
 
-> आ मो अग्निं मभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः [?] ।
+> आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ।
 
-> *ā mo agniṃ mabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ [?] |*
+> *ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?]) here the sense is "the Sun";
+(Ṛ. Saṃ. 6-8-4) here the sense is "the Sun";
 
-> स रेवद् [?] विवस्वति विश्वस्यैक ईशिषे [?] ।
+> स शेवधिं नि दधिषे विवस्वति विश्वस्यैक ईशिषे सास्युक्थ्यः ।
 
-> *sa revad [?] vivasvati viśvasyaika īśiṣe [?] |*
+> *sa śevadhiṃ ni dadhiṣe vivasvati viśvasyaika īśiṣe sāsyukthyaḥ |*
 
-(Ṛ. Saṃ. 3-[?]-[?] [?])
+(Ṛ. Saṃ. 2-13-6 [?])
 
-> नस्त्रीभिर्यो विवस्वतः शुभ्रो न मामृजे युवा । गाः कृष्णोन [?] निर्णिजम् [?] ।
+> नस्त्रीभिर्यो विवस्वतः शुभ्रो न मामृजे युवा । गाः कृष्णानोन निर्णिजम् ।
 
-> *nastrībhiryo vivasvataḥ śubhro na māmṛje yuvā | gāḥ kṛṣṇona [?] nirṇijam [?] |*
+> *nastrībhiryo vivasvataḥ śubhro na māmṛje yuvā | gāḥ kṛṣṇānona nirṇijam |*
 
-(Ṛ. Saṃ. 9-[?]-[?] [?]) and such Ṛks mean a man who performs the sacrifice. And
+(Ṛ. Saṃ. 9-14-5) and such Ṛks mean a man who performs the sacrifice. And
 
-> यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ।
-> अपागूहन्नमृतं मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते [?] ।
+> यमस्य माता पर्युह्यमाना महो जायो विवस्वतो ननाश ।
+> अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते ।
 
-> *yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa |*
-> *apāgūhannamṛtaṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate [?] |*
+> *yamasya mātā paryuhyamānā maho jāyo vivasvato nanāśa |*
+> *apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate |*
 
-(Ṛ. Saṃ. 10-[?]-[?], [?]) in these Ṛks *vivasvān* is a proper name. The marriage of Vivasvān and Saraṇyū and the matter of their offspring will be told later, when Vivasvān comes up for discussion. Of these several senses, in the Ṛk at hand *vivasvati* means "radiant".
+(Ṛ. Saṃ. 10-17-1, 2) in these Ṛks *vivasvān* is a proper name. The marriage of Vivasvān and Saraṇyū and the matter of their offspring will be told later, when Vivasvān comes up for discussion. Of these several senses, in the Ṛk at hand *vivasvati* means "radiant".
 
-**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *astu* (root *as bhuvi*; *loṭ* third person singular; being at the beginning of a *pāda*, no *nighāta* accent; the suffix being *sit*, the root-accent remains), *dhiyā* (instrumental singular; the case-ending is *udātta* by *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?])), *dadhe* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* first person singular; *tiṅanta* *nighāta* accent), *vṛṇīmahe* (root *vṛñ saṃbhaktau*; *laṭ* first person plural, *mahiṅ*; *śnā* by *kryādibhyaḥ śnā* (Pā. Sū. 3-1-[?]); *ī* by *īhalyoḥ* (Pā. Sū. 6-4-[?]); *tiṅanta nighāta*) …; sūtra numbers not read.
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *astu* (root *as bhuvi*; *loṭ* third person singular; being at the beginning of a *pāda*, no *nighāta* accent; the suffix being *sit*, the root-accent remains), *dhiyā* (instrumental singular; the case-ending is *udātta* by *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168)), *dadhe* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* first person singular; *tiṅanta* *nighāta* accent), *vṛṇīmahe* (root *vṛñ saṃbhaktau*; *laṭ* first person plural, *mahiṅ*; *śnā* by *kryādibhyaḥ śnā* (Pā. Sū. 3-1-81); *ī* by *īhalyoḥ* (Pā. Sū. 6-4-113); *tiṅanta nighāta*) …; sūtra numbers not read.
 
 ---
 
