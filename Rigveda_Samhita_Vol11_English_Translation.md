@@ -13387,4 +13387,148 @@ In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", a
 
 ---
 
-**Progress note:** Sūkta 151 in progress: Ṛks 6 (end), 7 and 8 done (printed pp. 505–510, PDF 523–528); Ṛk 8's Special Topics begin on p. 510 (*gobhiḥ*; its Nirukta quotation continues). Next: printed p. 511 (PDF 529); Ṛk 9 follows Ṛk 8's remaining notes and grammar. Open flags: small-type bhāṣya partly unread (pp. 506, 509 many `[?]`); Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+### Printed p. 511  (PDF 529)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Special Topics of Ṛk 8, continued; the Nirukta quotation introduced on p. 510 ends with the Ṛk below.)* Quoting this Ṛk, he explains that *gobhiḥ* here means *gobhir abhiniṣpannena kṣīreṇa* — "with milk produced from cows"; so in the present Ṛk too it means "with milk and the like, products of the cow".
+
+**अञ्जते** — *vyañjayanti*: they make manifest. The sense is that the sacrificers display their devotion by worship and the like. For the derivation of this word, the *Nirukta*-author:
+
+> एता उत्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
+> निष्कृण्वाना आयुधानीव धृष्णवः प्रति गावोऽरुषीर्यन्ति मातरः ॥
+
+> *etā utyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate |*
+> *niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ prati gāvo 'ruṣīryanti mātaraḥ ‖*
+
+(Ṛ. Saṃ. 1-92-1 [?].) In this Ṛk *rajaso bhānum añjate* shows that Uṣas lights the whole atmosphere with her radiance, and so it is understood rightly; likewise in the present Ṛk the sense is that the sacrificers make manifest their devotion through the means of worship.
+
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar pages 511–512, noted briefly).** *prathamā* (root *pratha prakhyāne*; *prather amac* (Uṇ. Sū. 5-[?]) *amac* suffix; *cit*: final *udātta*; *supāṃ sulug* (Pā. Sū. 7-1-39) *ā* for the dual ending); *añjate* (root *añju vyaktimrakṣaṇakāntigatiṣu*; *laṭ* 3rd pl.; *nighāta* since after an *atiṅanta*); *ṛtāvānā* (*chandasīvanip* — *vanip* in the sense of *matup*; lengthening by *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137); the dual *ā* by *supāṃ sulug*); *prayuktiṣu* (root *yujir yoge*; *striyāṃ ktin* (Pā. Sū. 3-3-94) in the sense of action; *coḥ kuḥ* (Pā. Sū. 8-2-30) *kutva*, *carttva*; *tādau ca niti* (Pā. Sū. 6-2-50) the preceding … *udātta* accent); *bharanti* (root *bhṛñ bharaṇe*, *bhvādi*; *laṭ* 3rd pl.; no *nighāta* at the head of the *pāda*; *lasārvadhātuka* *anudātta*, the root accent remains; the root has the *ṇic* sense included); *saṃyatā* (root *yatī prayatne*; *kvip ca* — *kvip*; instr. sg.; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the *kṛdanta* keeps its stem accent).
+
+### Printed p. 512  (PDF 530)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(Grammar of Ṛk 8, concluded; noted briefly.)* *adṛpyatā* (*na dṛpyat adṛpyat*, *tena*; root *dṛpa harṣamohanayoḥ*; *śatṛ* in the sense of *laṭ*; *tasparaśe tulyārthāḥ*… *naña* — *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) stem accent of the *tatpuruṣa*; instr. sg.); *revat* (*rayiḥ asya asti iti revat*; *rayer matau bahulam* — *saṃprasāraṇa*; *na saṃprasāraṇe saṃprasāraṇam*; guṇa; *reśacchhaḥ* (Pā. Sū. 6-1-[?]) — the *matup* ending takes the *udātta*); *āśāthe* (root *aśū vyāptau*; *laṭ* 2nd dual *āthām*; *ṭi* → *e*; *āgamānuśāsanam anityam* — since doubling occurs, no *nuṭ* augment; *nighāta* since after an *atiṅanta*). ‖ 8 ‖
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> रेवद्वयो दधाथे रेवदाशाथे नरा मायाभिरितऊति माहिनम् ।
+> न वां द्यावोऽहभिर्नोत सिन्धवो न देवत्वं पणयो नानशुर्मघम् ॥ ९ ॥
+
+> *revadvayo dadhāthe revadāśāthe narā māyābhiritaūti māhinam |*
+> *na vāṃ dyāvo 'habhirnota sindhavo na devatvaṃ paṇayo nānaśurmagham ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> रेवत् । वयः । दधाथे इति । रेवत् । आशाथे इति । नरा । मायाभिः । इत्यूती [?] ।
+> माहिनम् ।
+> न । वाम् । द्यावः । अहऽभिः । न । उत । सिन्धवः । न । देवऽत्वम् । पणयः । न । आनशुः । मघम् ॥ ९ ॥
+
+> *revat | vayaḥ | dadhāthe iti | revat | āśāthe iti | narā | māyābhiḥ | ityūtī [?] |*
+> *māhinam |*
+> *na | vām | dyāvaḥ | aha 'bhiḥ | na | uta | sindhavaḥ | na | deva 'tvam | paṇayaḥ | na | ānaśuḥ | magham ‖ 9 ‖*
+
+### Printed p. 513  (PDF 531)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: you two hold wealthy food; with your wisdom and protection bring us abundant, wealthy food; neither days with nights, nor rivers, nor the Paṇis/Asuras have attained your divinity or your wealth. Small type, read with doubt.)*
+
+> हे मित्रावरुणौ युवां रेवद्धनवद्वयोऽन्नं दधाथे । उभयं च धारयथः [?] । यस्मादेवं तस्मादेवं [?] सहजसृष्ट्याध्वर्य [?] इति गम्यते । धनसिद्धिः [?] । हे नरा नेतारौ युवां मायाभिर्युवयोः प्रज्ञाभिरुत ऊतिभी रक्षणैश्च [?] आशाथे । अश्नुथः । अस्मभ्यं ददाथे इत्यर्थः । कीदृशं । मायाभिर्युवयोः प्रज्ञाभिरुतेऽस्मदभिमुखं गमनवत् इतो रक्षणवद्वा माहिनं महत् [?] अतिमहत् । उद्द्योर्द्योलोकर्युवयोर्देवत्वं माहात्म्यं [?] कुत इत्येक आह । वां युवयोर्देवत्वमहभिरहोभी रात्रिभिः । अत्राहोरात्रशब्देन रात्रिर्लक्ष्यते [?] । द्यावो दिवसा नानशुः । न प्राप्नुवन्ति । अहभिः रात्रिश्चेभे न तरते इत्यर्थः । उतापि च सिन्धवः स्यन्दनशीला नद्यो न व्याप्नुवन्ति । तथा युवयोर्देवत्वं पणयोऽसुरा अपि नानशुः । मघं धनं च नानशिरे । लोकत्रये युवयोः पराभविकारो न केऽपि सन्तीत्यर्थः ॥
+
+> *he mitrāvaruṇau yuvāṃ revaddhanavadvayo 'nnaṃ dadhāthe | ubhayaṃ ca dhārayathaḥ [?] | yasmādevaṃ tasmādevaṃ [?] sahajasṛṣṭyādhvarya [?] iti gamyate | dhanasiddhiḥ [?] | he narā netārau yuvāṃ māyābhiryuvayoḥ prajñābhiruta ūtibhī rakṣaṇaiśca [?] āśāthe | aśnuthaḥ | asmabhyaṃ dadāthe ityarthaḥ | kīdṛśaṃ | māyābhiryuvayoḥ prajñābhirute 'smadabhimukhaṃ gamanavat ito rakṣaṇavadvā māhinaṃ mahat [?] atimahat | uddyordyolokaryuvayordevatvaṃ māhātmyaṃ [?] kuta ityeka āha | vāṃ yuvayordevatvamahabhirahobhī rātribhiḥ | atrāhorātraśabdena rātrirlakṣyate [?] | dyāvo divasā nānaśuḥ | na prāpnuvanti | ahabhiḥ rātriścebhe na tarate ityarthaḥ | utāpi ca sindhavaḥ syandanaśīlā nadyo na vyāpnuvanti | tathā yuvayordevatvaṃ paṇayo 'surā api nānaśuḥ | maghaṃ dhanaṃ ca nānaśire | lokatraye yuvayoḥ parābhavikāro na ke 'pi santītyarthaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** (O Mitra-Varuṇa) *revat* — wealthy; *vayaḥ* — food; *dadhāthe* — you hold (therefore); *narā* — you, guides; *māyābhiḥ* — with your wisdom; *ita ūti* — coming here to us with your protection; *māhinam* — great; *revat* — wealthy food; *āśāthe* — bring (to us); *vām* — of you two; *devatvam* — divine worthiness; *dyāvaḥ* — days, together with *ahabhiḥ* — nights; *na ānaśuḥ* — do not attain; *uta* — and; *sindhavaḥ* — rivers; *na* — do not (attain); *paṇayaḥ* — the Asuras too; *na* — do not attain (nor) *magham* — (your) wealth.
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, you are lords of food with wealth. Therefore you, the guides of the sacrifice, come to us with the help of your wisdom and your protection, and bring us great and wealthy food. Neither days nor nights, nor the flowing rivers, nor the Asuras attain your divine worthiness; nor do they attain your wealth. There are none in the three worlds who surpass you.
+
+**English Translation (as printed; the page break falls mid-sentence).** You distribute food, accompanied by riches; you bestow upon us, leaders (of sacrifice); wealth, ample, and defended by your wise provisions
+
+### Printed p. 514  (PDF 532)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(English Translation continued:)* the days with the nights have not attained your divinity; neither have the rivers, nor have the Asuras, and they have not obtained (your) wealth.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **मायाभिः** — *māyeti prajñānāma; māyā, vayunam iti tannāmasu pāṭhāt* (Ni. 3-9 [?]): the *Nirukta*-author, quoting the Ṛk beginning *māyābhir mama tu yajñiyānām* (10-83-3 [?]), explains *sa eva prajñām tv etāṃ manyante*, and so shows that the word *māyā* has the meaning "wisdom, intelligence" (Ni. 2-26 [?]). Moreover:
+
+> शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि ।
+> विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥
+
+> *śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi |*
+> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*
+
+(Ṛ. Saṃ. 6-58-1.) Quoting this Ṛk (Ni. 11-[?]), here too he takes the word *māyā* to mean "wisdom". This word is used in the Ṛgveda-saṃhitā some ninety times. It may be said broadly that it is used in four chief senses: as a supernatural creative power, as a merely material power, as trickery, or as magic (*indrajāla-vidyā*). It may also be said to be derived from the root *mā* in the sense of creation. This word, indicating the special power of Mitra-Varuṇa, is an epithet of them in many places:
+
+> ऋतस्य बुध्न उषसामिषण्यन् वृषा मही रोदसी आ विवेश ।
+> मही मित्रस्य वरुणस्य माया चन्द्रेव भानुं वि दधे पुरुत्रा ॥
+
+> *ṛtasya budhna uṣasāmiṣaṇyan vṛṣā mahī rodasī ā viveśa |*
+> *mahī mitrasya varuṇasya māyā candreva bhānuṃ vi dadhe purutrā ‖*
+
+(Ṛ. Saṃ. 3-61-7.) Here Uṣas is the supernatural creation of Mitra-Varuṇa.
+
+> माया वां मित्रावरुणा दिविश्रिता सूर्यो ज्योतिश्चरति चित्रमायुधम् ।
+> तमभ्रेण वृष्ट्या गूहथो दिवि पर्जन्य द्रप्सा मधुमन्त ईरते ॥
+
+> *māyā vāṃ mitrāvaruṇā diviśritā sūryo jyotiścarati citramāyudham |*
+> *tamabhreṇa vṛṣṭyā gūhatho divi parjanya drapsā madhumanta īrate ‖*
+
+(Ṛ. Saṃ. 5-63-4.) Here too the extraordinary wisdom and creative power of Mitra-Varuṇa are described. Likewise:
+
+### Printed p. 515  (PDF 533)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> पूर्वापरं चरतो मायया एतौ शिशू क्रीळन्तौ परि यातो अध्वरम् ।
+> विश्वान्यन्यो भुवनाभिचष्ट ऋतूरन्यो विदधज्जायते पुनः ॥
+
+> *pūrvāparaṃ carato māyayā etau śiśū krīḷantau pari yāto adhvaram |*
+> *viśvānyanyo bhuvanābhicaṣṭa ṛtūranyo vidadhajjāyate punaḥ ‖*
+
+(Ṛ. Saṃ. 10-85-18.) Here it is said that the Sun and the Moon move in the atmosphere by their special power of wisdom. Thus in many Ṛks this word shows the power of the gods to bring about the welfare of the world. But in some other places it is an epithet showing the power of the Asuras — deceit, fraud and the like.
+
+> त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः ।
+> त्वामिन्नरो वृणते गविष्टिषु त्वां विश्वासु हव्यास्विष्टिषु ॥
+
+> *tvaṃ māyābhiranavadya māyinaṃ śravasyatā manasā vṛtramardayaḥ |*
+> *tvāminnaro vṛṇate gaviṣṭiṣu tvāṃ viśvāsu havyāsviṣṭiṣu ‖*
+
+(Ṛ. Saṃ. 10-147-2.) Here, the deceitful enemy was destroyed "by your special wisdom", so Indra is praised. In the same way the epithet *māyābhiḥ* in the present Ṛk shows the extraordinary power of Mitra-Varuṇa; by this wisdom they have obtained power beyond that of the *sindhus* [sic: as printed], the rivers and the Asuras, so it is explained.
+
+**Vyākaraṇa-prakriyā (Ṛk 9; grammar pages 515–516, noted briefly).** *dadhāthe* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ* in the Veda; 2nd dual; *tiṅ*: *nighāta*); *narā* (root *ṇī nayane*; *kvip ca* — *kvip*; before the dual ending *ṛto jāsvanāmasthānayoḥ* … guṇa; *supāṃ sulug* (Pā. Sū. 7-1-39) *ā* for the ending); *itaūti* (*itaḥ ūtiḥ yasya tat*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member keeps its accent); *māhinam* (root *maha pūjāyām*; *mahe rinan ca* (Uṇ. Sū. 3-[?]) *inan* suffix; *ato 'pupadhāyāḥ* (Pā. Sū. 7-2-116) *vṛddhi* of the penultimate; by *vyatyaya*, *ā* is *udātta*); *devatvam* (*devānāṃ bhāvaḥ devatvam*; *tasya bhāvas tvatalau* (Pā. Sū. 5-1-119) *tva* suffix in the sense of state; suffix accent: final *udātta*).
+
+### Printed p. 516  (PDF 534)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152" [?], as printed.)*
+
+*(Grammar of Ṛk 9, concluded; noted briefly.)* *ānaśuḥ* (root *aśū vyāptau*; *laṭ*-sense *liṭ*, 3rd pl. *usādeśa*; doubling; *ata ādeḥ* (Pā. Sū. 7-4-70) lengthening of the reduplicate; *aśnotes ca* (Pā. Sū. 7-4-72) *nuṭ* augment; *nighāta* since after an *atiṅanta*). ‖ 9 ‖
+
+*(Sūkta 151 ends here; the printed text has no closing line or varga note on this page.)*
+
+## Sūkta 152
+
+### Printed p. 516 (continued; PDF 534)
+
+*(The Kannada heading reads "The 152nd Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of seven Ṛks beginning "Yuvaṃ vastrāṇi" is the twelfth sūkta, of Dīrghatamas, Triṣṭubh by the general rule, Mitrāvaruṇa deity "as said"; use is by indication; the first Ṛk is the offering-verse of the Mitrāvaruṇa animal sacrifice and is also used at the *samāvartana* when new garments are put on, by the Āśvalāyana sūtras cited.)*
+
+> युवं वस्त्राणीति सप्तर्चं द्वादशं सूक्तं दैर्घतमसम् । अनादेशपरिभाषया त्रैष्टुभम् । मैत्रावरुणं हीत्युक्तत्वात् । सूक्तविनियोगो लैङ्गिकः । मैत्रावरुणे पशुवाजयाज्या । प्रदानानामिति खण्डे सूत्रितम् । युवं वस्त्राणि पीवसा वसाथे प्र बाहवा सिसृतं जीवसे नः । आ. ३-८ [?] इति । सैव समावर्तने नववस्त्रधारणे विनियोक्ता । सूत्रितं च । युवं वस्त्राणि पीवसा वसाथे इत्यहते वाससी आच्छाद्य । आ. गृ. ३-९-८ [?] इति ॥
+
+> *yuvaṃ vastrāṇīti saptarcaṃ dvādaśaṃ sūktaṃ dairghatamasam | anādeśaparibhāṣayā traiṣṭubham | maitrāvaruṇaṃ hītyuktatvāt | sūktaviniyogo laiṅgikaḥ | maitrāvaruṇe paśuvājayājyā | pradānānāmiti khaṇḍe sūtritam | yuvaṃ vastrāṇi pīvasā vasāthe pra bāhavā sisṛtaṃ jīvase naḥ | ā. 3-8 [?] iti | saiva samāvartane navavastradhāraṇe viniyoktā | sūtritaṃ ca | yuvaṃ vastrāṇi pīvasā vasāthe ityahate vāsasī ācchādya | ā. gṛ. 3-9-8 [?] iti ‖*
+
+**Anuvāda (Kannada).** The sūkta *yuvaṃ vastrāṇi* is the twelfth sūkta in the twenty-first anuvāka. It has seven Ṛks. The ṛṣi of this sūkta is Dīrghatamas, son of Ucathya. As stated before, Mitra-Varuṇa are the deities. The metre is Triṣṭubh. The use is by indication; in the animal sacrifice made to Mitra-Varuṇa, the first Ṛk of this sūkta is to be used as the *yājyā* mantra at the *vapā* offering, as the Āśvalāyana Śrauta-sūtra explains in the section *pradānānām*, by the sūtra *yuvaṃ vastrāṇi pīvasā vasāthe pra bāhavā sisṛtaṃ jīvase naḥ* (Ā. 3-8 [?]). And the same Ṛk is prescribed, in the household rite called *samāvartana*, to be recited when putting on a new garment, by the Āśvalāyana sūtra *yuvaṃ vastrāṇi pīvasā vasāthe ity ahate vāsasī ācchādya* (Ā. Gṛ. 3-9-8 [?]).
+
+**॥ ओम् ॥**
+
+**Sūkta 152** — Maṇḍala 1, Anuvāka 21, Sūkta 152; Aṣṭaka 2, Adhyāya 2, Varga 32 [?]. Number of Ṛks in the sūkta: 7. Ṛṣi: Dīrghatamas Aucathya. Devatā: Mitrāvaruṇau. Chandas: Triṣṭubh.
+
+---
+
+**Progress note:** Sūkta 151 complete (printed pp. 475–516, PDF 493–534; Ṛk 9 ends on p. 516, no closing line printed). Sūkta 152 begun on p. 516: Anukramaṇī, Anuvāda and heading done (7 Ṛks; Mitrāvaruṇau; Triṣṭubh; varga "32" [?]). Next: Sūkta 152 Ṛk 1 Saṃhitā from printed p. 517 (PDF 535). Open flags: small-type bhāṣya partly unread (Sūkta 151: pp. 481, 489, 493, 497, 502, 506, 509, 513 many `[?]`); Bṛhaddevatā quotation pp. 482–486 low confidence; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
