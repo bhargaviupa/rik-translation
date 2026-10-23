@@ -1170,7 +1170,7 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-**Pratipadārtha (Kannada).** *mitrāvaruṇau* — O Mitra and Varuṇa; *svena manyunā* — by your own greatness; *dakṣasya* — of the capable; *svena* — your own; *manyunā* — by the mighty power of the mind; *ṛtāt* — from the sun; *anṛtam* — the water that dries away and is unenduring; *tat* — that well-known; *yat ha* — for which reason; *adhi* — abundantly; *ādadāthe* — you bring (from it); *yuvoḥ* — your two; *hiraṇyayam* — golden-formed; *itthā* — in this manner; *sadmasu* — in the sacrificial halls; *dhībhiḥ* — by rites directed to you; *manasā cana* — by a mind attached (to you); *svebhir akṣabhiḥ* — by our own eyes and other senses, with no attention elsewhere; *apaśyāma* — we behold, with a fixed gaze; *svebhiḥ akṣabhiḥ* — by our own eyes and other senses; *somasya* — also the Soma (that is to be offered to you) (we behold).
+**Pratipadārtha (Kannada).** *mitrāvaruṇau* — O Mitra and Varuṇa; *svena manyunā* — by your own power; *dakṣasya* — of the capable; *svena* — your own; *manyunā* — by adorable glory; *ṛtāt* — from the sun; *anṛtam* — unenduring because it dries up; *tat* — that well-known; *yat ha* — for which reason; *adhi* — abundantly; *ādadāthe* — you bring (from it); *yuvoḥ* — your two; *hiraṇyayam* — golden-formed; *itthā* — in this manner; *sadmasu* — in the sacrificial halls; *dhībhiḥ* — by rites directed to you; *manasā cana* — by a mind attached (to you); *svebhir akṣabhiḥ* — by our own eyes and other senses, with no attention elsewhere; *apaśyāma* — we behold, with a fixed gaze; *svebhiḥ akṣabhiḥ* — by our own eyes and other senses; *somasya* — also the Soma (that is to be offered to you) (we behold).
 
 **Bhāvārtha.** O Mitra and Varuṇa, by your own capable might you bring down abundantly the water that is in the world of the sun and, when it is poured on the earth, dries away and is unenduring; therefore we behold you, through our sacrifices and the like, with a mind attached to you alone and with our eyes and other senses fixed on nothing else. And we attend to the Soma that is to be offered to you.
 
@@ -1178,51 +1178,51 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***ṛtād adhy anṛtam ādadāthe.*** *Ṛtāt* — from the sun (*ādityāt*); *anṛtam* — *śoṣaṇasvabhāvam*, "of the nature of drying up" (water). Sāyaṇa takes the word *ṛta* as the sun and *anṛta* as water; he explains that the epithet *anṛta* shows the impermanent state of water. The Kannada notes that the word *ṛta* reflects a principle that signifies the physical and moral order of the universe, as was said briefly earlier (in the Pīṭhike of Part [?] [?]). These two orders of Mitra and Varuṇa (continued on p. 45).
+***ṛtād adhy anṛtam ādadāthe.*** *Ṛtāt* — from the sun (*ādityāt*); *anṛtam* — *śoṣaṇasvabhāvam*, "of the nature of drying up" (water). Sāyaṇa takes the word *ṛta* as the sun and *anṛta* as water; he explains that the epithet *anṛta* shows the impermanent state of water. The Kannada notes that the word *ṛta* reflects a principle that signifies the physical and moral order of the universe, as was said briefly earlier (in the Pīṭhike of Part 9 [?]). These two orders of Mitra and Varuṇa (continued on p. 45).
 
 ---
 
 ### Printed p. 45  (PDF 63)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
 *(Special Topics of Ṛk 2, continued from p. 44.)* …[these two orders] are carried out by them is explained later, in the sūkta addressed to Mitra and Varuṇa themselves. Here one must understand how Mitra and Varuṇa obtained the *anṛta* from the *ṛta* and how they supplied it to the world.
 
 Here *ṛta* may be said to mean "that which has an eternal state", and *anṛta* "that which has a non-eternal state, since water dries up and disappears". As the Upaniṣads and others say, *satya* and *anṛta* also mean "true" and "untrue". In this Ṛk *ṛta* also means the orb of the sun, which has an eternal state: in the Ṛksaṃhitā it is customary to call the radiant orb, which keeps to its rule in moving through the quarters of the sky, *ṛta*.
 
 > द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।
-> आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः [?] ॥
+> आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः ॥
 
 > *dvādaśāraṃ nahi tajjarāya varvarti cakraṃ pari dyāmṛtasya |*
-> *ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ [?] ‖*
+> *ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ ‖*
 
 (Ṛ. Saṃ. 1-164-11.) The wheel of *ṛta* with twelve spokes revolves round the sky; the description that its seven hundred and twenty sons stand in pairs, each occupying its place, indicates the twelve spokes as twelve months and the 360 days and nights [as printed]. It is described, with other examples, how Uṣas too follows this path of *ṛta* by rule, without a break. To show the relation between the sun and this wheel of *ṛta*, it is fitting in the Ṛk at hand to take *ṛta* as the sun.
 
-> अदर्शि गातुरुरवे वरीयसी पन्था ऋतस्य समयंस्त रश्मिभिश्चक्षुर्भगस्य रश्मिभिः [?] ।
+> अदर्शि गातुरुरवे वरीयसी पन्था ऋतस्य समयंस्त रश्मिभिश्चक्षुर्भगस्य रश्मिभिः ।
 
-> *adarśi gātururave varīyasī panthā ṛtasya samayaṃsta raśmibhiścakṣurbhagasya raśmibhiḥ [?] |*
+> *adarśi gātururave varīyasī panthā ṛtasya samayaṃsta raśmibhiścakṣurbhagasya raśmibhiḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].) In the description that for the sun, of vast form, the still wider path of *ṛta* is made with the help of his rays, the wide path of *ṛta* in the sky is indicated. This same path of *ṛta*
+(Ṛ. Saṃ. 1-136-2.) In the description that for the sun, of vast form, the still wider path of *ṛta* is made with the help of his rays, the wide path of *ṛta* in the sky is indicated. This same path of *ṛta*
 
-> अग्निर्गन्धर्वीं पथ्यामृतस्य [?] … आ निषत्ता [?] ।
+> अग्निर्गान्धर्वीं पथ्यामृतस्याग्नेर्ग्व्यूतिः [?] घृते आ निषत्ता ।
 
-> *agnirgandharvīṃ pathyāmṛtasya [?] … ā niṣattā [?] |*
+> *agnirgāndharvīṃ pathyāmṛtasyāgnergvyūtiḥ [?] ghṛte ā niṣattā |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) is described as the very lofty, wide *gandharva*-path. And
+(Ṛ. Saṃ. 10-80-6) is described as the very lofty, wide *gandharva*-path. And
 
-> उरु त्यच्चक्षुर्महि मित्रयोरा [?] एति प्रियं वरुणयोरदब्धम् ।
-> ऋतस्य शुचि दर्शतमनीकं रुक्मो न दिव उदिता व्यद्यौत् [?] ।
+> उरु त्यच्चक्षुर्महि मित्रयोरा एति प्रियं वरुणयोरदब्धम् ।
+> ऋतस्य शुचि दर्शतमनीकं रुक्मो न दिव उदिता व्यद्यौत् ।
 
-> *uru tyaccakṣurmahi mitrayorā [?] eti priyaṃ varuṇayoradabdham |*
-> *ṛtasya śuci darśatamanīkaṃ rukmo na diva uditā vyadyaut [?] |*
+> *uru tyaccakṣurmahi mitrayorā eti priyaṃ varuṇayoradabdham |*
+> *ṛtasya śuci darśatamanīkaṃ rukmo na diva uditā vyadyaut |*
 
-(Ṛ. Saṃ. 6-[?]-[?])
+(Ṛ. Saṃ. 6-51-1)
 
-> ऋतस्य पदे अधि दीद्यानं गुहा रघुष्यद्रघुयद्विवेद [?] ।
+> ऋतस्य पदे अधि दीद्यानं गुहा रघुष्यद्रघुयद्विवेद ।
 
-> *ṛtasya pade adhi dīdyānaṃ guhā raghuṣyadraghuyadviveda [?] |*
+> *ṛtasya pade adhi dīdyānaṃ guhā raghuṣyadraghuyadviveda |*
 
-(Ṛ. Saṃ. 9-[?]-[?] [?]) (continued on p. 46).
+(Ṛ. Saṃ. 4-5-9) (continued on p. 46).
 
 ### Printed p. 46  (PDF 64)
 
