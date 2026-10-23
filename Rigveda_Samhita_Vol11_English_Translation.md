@@ -18314,4 +18314,164 @@ cites it, giving the appropriate evidence that *pratāriṣat* means "to increas
 
 ---
 
-**Progress note:** Sūkta 157 in progress: Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done and Special Topics through *ūrjaṃ*, *kaśayā*, *mimikṣataṃ*, *pra tāriṣṭaṃ* (printed pp. 680–685, PDF 698–703). Next: printed p. 686 (PDF 704) — remaining Special Topics and grammar of Ṛk 4, then Ṛk 5. Open flags: small-type bhāṣya read with doubt; Keith quotation reproduced with printed misspellings [sic]; Brāhmaṇa/Upaniṣad/Vājasaneyi/Nirukta/Ṛg references `[?]`; Vājasaneyi quotation on p. 684 only partly legible; Pāṇini sūtra numerals `[?]`; varga numeral `3?` [?]; headers printed "A. 21" in Anuvāka 22 (as printed).
+---
+
+### Printed p. 686  (PDF 704)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Special Topics of Ṛk 4, continued.)* **rapāṃsi** — रपो रिप्रमिति पापनामनी भवतः (*rapo ripramiti pāpanāmanī bhavataḥ*) (Ni. 4-18? [?]): *rapaḥ* and *ripra*, both, are synonyms for "sin". The Kannada text cites the Ṛk
+
+> त्वं कुत्सेनाभि शुष्णमिन्द्राशुषं युध्य कुयवं गविष्टौ ।
+> दश प्रपित्वे अध सूर्यस्य मुषायश्चक्रमविवे रपांसि ॥
+
+> *tvaṃ kutsenābhi śuṣṇamindrāśuṣaṃ yudhya kuyavaṃ gaviṣṭau |*
+> *daśa prapitve adha sūryasya muṣāyaścakramavive rapāṃsi ‖*
+
+(Ṛ. Saṃ. 4-16-12? [?].)
+
+and says that in such Ṛks the word *rapāṃsi* means *pāpakārīṇi rakṣaḥprabhṛtīni* — "sinful ones, Rākṣasas and the like". In the present Ṛk it means "our sins" (*mṛkṣataṃ*, wipe away).
+
+**sacābhuvā** — सहभुवावस्मत्कर्मेषु सहभवनवन्तौ भवतम् (*sahabhuvāvasmatkarmeṣu sahabhavanavantau bhavatam*): in our sacrifices and other works be together, united; thus the Aśvin deities are prayed to join us.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar pages 686–687, noted briefly).** Words treated: *ūrjam*, *vahatam*, *madhumatyā*, *mimikṣatam* (desiderative *san*; a Ṛg mantra cited as explaining it, reference `[?]`), *tāriṣṭam* (root *tṛ plavanataraṇayoḥ*, with *pra* in the sense of increase; *chāndasa luṅ* in the sense of *loṭ*; *sic*, *iṭ* augment; the sūtra numerals `[?]`), *mṛkṣatam* (root *mṛśa āmarśane*; *luṅ* … *kṣa*; sūtra *śala igupadhād aniṭaḥ kṣaḥ* (Pā. Sū. 3-1-45); *tiṅ*-accent), …
+
+---
+
+### Printed p. 687  (PDF 705)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar of Ṛk 4, concluded.)* *sedhatam* (root *ṣidhu gatyām*; *loṭ*; no *nighāta* because at the start of the *pāda*; being *lasārvadhātuka* [?], the root accent remains), *dveṣaḥ* (root *dviṣa aprītau*; *anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75) *vic*; guṇa of the root), *bhavatam* (root *bhū sattāyām*; *loṭ* 2nd dual; as it is connected with another sentence and is not placed in the same sentence after the word, no *nighāta*), *sacābhuvā* (Ṛ. Saṃ. 1-? [?] explained; *supāṃ sulug* (Pā. Sū. 7-1-39): the case-ending gets *ā*) ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> युवं ह गर्भं जगतीषु धत्थो युवं विश्वेषु भुवनेष्वन्तः ।
+> युवमग्निं च वृषणावपश्च वनस्पतीरश्विनावैरयेथाम् ॥ ५ ॥
+
+> *yuvaṃ ha garbhaṃ jagatīṣu dhattho yuvaṃ viśveṣu bhuvaneṣvantaḥ |*
+> *yuvamagniṃ ca vṛṣaṇāvapaśca vanaspatīraśvināvairayethām ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> युवं । ह । गर्भं । जगतीषु । धत्थः । युवं । विश्वेषु । भुवनेषु । अन्तरिति ।
+> युवं । अग्निं । च । वृषणा । अपः । च । वनस्पतीन् । अश्विना । ऐरयेथां ॥ ५ ॥
+
+> *yuvaṃ | ha | garbhaṃ | jagatīṣu | dhatthaḥ | yuvaṃ | viśveṣu | bhuvaneṣu | antariti |*
+> *yuvaṃ | agniṃ | ca | vṛṣaṇā | apaḥ | ca | vanaspatīn | aśvinā | airayethāṃ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Aśvins, you place the embryo in all moving creatures and within all beings; and, showering, you send forth Agni, waters and forest trees. Small type; read with doubt.)*
+
+> हे अश्विनौ युवं ह युवां खलु जगतीषु गमनशीलासु गोषु मध्ये गर्भं धत्थः । धारयथः । न केवलं गोषु एव अपि तु युवं युवां विश्वेषु सर्वेषु भुवनेषु भूतजातेष्वन्तर्मध्ये गर्भं धत्थः । वृष्ट्यद्वारामिषरूपेण [?] गर्भस्थरेतसः पोषकत्वात् [?] । किञ्च हे वृषणौ कामानां वर्षितारौ युवं युवामग्निं चापश्च वनस्पतींश्चैरयेथाम् । प्रवर्तयेथाम् । आहुतिभोगायाग्निं स्वीकृत्य च वृष्ट्यर्थं [?] उदकानि उदकैरोषधिवनस्पत्यादिकं निष्पाद्यास्मदर्थं प्रैरयेथाम् ॥
+
+> *he aśvinau yuvaṃ ha yuvāṃ khalu jagatīṣu gamanaśīlāsu goṣu madhye garbhaṃ dhatthaḥ | dhārayathaḥ | na kevalaṃ goṣu eva api tu yuvaṃ yuvāṃ viśveṣu sarveṣu bhuvaneṣu bhūtajāteṣvantarmadhye garbhaṃ dhatthaḥ | vṛṣṭyadvārāmiṣarūpeṇa [?] garbhastharetasaḥ poṣakatvāt [?] | kiñca he vṛṣaṇau kāmānāṃ varṣitārau yuvaṃ yuvāmagniṃ cāpaśca vanaspatīṃścairayethām | pravartayethām | āhutibhogāyāgniṃ svīkṛtya ca vṛṣṭyarthaṃ [?] udakāni udakairoṣadhivanaspatyādikaṃ niṣpādyāsmadarthaṃ prairayethām ‖*
+
+---
+
+### Printed p. 688  (PDF 706)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *aśvinau* — O Aśvin deities; *yuvaṃ ha* — you two; *jagatīṣu* — in all moving beings; *garbhaṃ* — the embryo, the germ of life; *dhatthaḥ* — you place and bear; *yuvaṃ* — you two; *viśveṣu* — in all; *bhuvaneṣu* — beings; *antaḥ* — are within, in the form of the inner essence; *vṛṣaṇā* — showerers of desired things; *yuvaṃ* — you two; *agniṃ ca* — Agni; *apaḥ* — waters; *vanaspatīn* — forest trees; *airayethāṃ* — you provide (for our use).
+
+**भावार्थः (Bhāvārtha).** O Aśvin deities, both of you are within all beings in the form of their inner essence. Therefore you establish the germ of life in all moving beings. And you, who rain down what is desired, supply for our use fire, waters and forest trees.
+
+**English Translation (as printed).** You, Ashwins, sustain the germ in all moving creatures : you are in the interior of all beings : do you, showerers of benefits, supply (for our own use) fire and water and the trees of the forest.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** Having stated their nature — that the Aśvin deities, as the inner essence in all beings, establish and regulate the embryo of life — the Ṛk prays that they supply the waters and forest trees useful for the life of creatures. They are not only within beings on the earth; by *viśveṣu bhuvaneṣv antaḥ* ("within all worlds") they are praised as the embryo-bearers of the beings in all worlds, earth, atmosphere and the rest.
+
+> मुख्यौ [?] वा आवां यज्ञस्य स्थो [?] यो [?] ... इह नाविमं पुरस्ताद्यज्ञं पर्यहरताभि द्विदेवत्यानिति [?] ताभ्यामेतं पुरस्ताद्यज्ञं पर्याजह्रुर्द्विदेवत्यांस्यादेश दशमो ग्रहो [?] गृह्यते तृतीय एव वषट्क्रियते ऽथ यदेश्विनौ [?] इमे ह वै द्यावापृथिवी प्रत्यक्षमश्विनाविमे हीदं सर्वमश्वतानातां [?] पुष्करस्रजाविश्वि [?] कृरेणास्यै पुष्करमादित्यो [?] महयं [?] ॥
+
+> *mukhyau [?] vā āvāṃ yajñasya stho [?] yo [?] ... iha nāvimaṃ purastādyajñaṃ paryaharatābhi dvidevatyāniti [?] tābhyāmetaṃ purastādyajñaṃ paryājahrurdvidevatyāṃsyādeśa daśamo graho [?] gṛhyate tṛtīya eva vaṣaṭkriyate 'tha yadeśvinau [?] ime ha vai dyāvāpṛthivī pratyakṣamaśvināvime hīdaṃ sarvamaśvatānātāṃ [?] puṣkarasrajāviśvi [?] kṛreṇāsyai puṣkaramādityo [?] mahayaṃ [?] ‖*
+
+(Śa. Brā. 4-1-5-14? [?]; small type, badly legible; read with doubt.)
+
+---
+
+### Printed p. 689  (PDF 707)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Continued from p. 688:)* …Since the Aśvin deities, chief of all sacrifices and its fixed Adhvaryus, are described in the passage above, and likewise in other Śruti-texts, as *pṛthivī-antarikṣa-rūpa* [?], the Ṛk praises the point that they pervade all beings contained in heaven and earth and are one in essence in everything.
+
+**agniṃ ca apaś ca airayethām** — in the first Ṛk of this sūkta the relation of the Aśvin deities to Agni and to Uṣas was stated: that in the *prātaranuvāka* mantras these three deities are invoked together, and that it is only after their rising that light and the prosperity of plants and so on increase in the world. This Ṛk too states that same relation between Agni and the Aśvin deities. As in the Ṛk
+
+> जुष्वो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणाम् ।
+> सजूरश्विभ्यामुषसा सुवीर्यमस्मे धेहि श्रवो बृहत् ॥
+
+> *juṣvo hi dūto asi havyavāhano 'gne rathīradhvarāṇām |*
+> *sajūraśvibhyāmuṣasā suvīryamasme dhehi śravo bṛhat ‖*
+
+(Ṛ. Saṃ. 1-44-2? [?].)
+
+— where Agni is addressed with the prayer to grant wealth together with the Aśvins and Uṣas — so in the present Ṛk the Aśvin deities are addressed, united with Agni, to be the cause of the increase of plants and wealth.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar pages 689–690, noted briefly).** *dhatthaḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *juhotyādi*; *thas*; *śluvikaraṇa*; doubling by *ślau*; *dadhas tathoś ca* (Pā. Sū. 8-2-38) *bhaṣ*-substitution; the loss of *ā* by *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112) is not treated as *sthānivat*, by the force of the statement; *nighāta*); *yuvam* (the *ā*-substitution of *prathamāyāś ca dvivacane bhāṣāyām* applies only in the secular language, so none in the saṃhitā); *agnim* (root *agi gatau*; *agner nalopaś ca* — *ni* suffix; loss of the *n*; suffix accent); *apaḥ* (*ūḍidaṃ padādi* (Pā. Sū. 6-1-171): the ending *udātta*); *vanaspatīn* (*pāraskaraprabhṛtīni ca saṃjñāyām*: *suṭ* augment in the compound; *ubhaye vanaspatyādiṣu* (Pā. Sū. 6-2-140): both members keep their accent).
+
+---
+
+### Printed p. 690  (PDF 708)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Grammar of Ṛk 5, concluded.)* *airayethām* (root *īra gatau*; *ṇic* by *hetumati ca*; *chāndasa laṅ* 2nd dual middle; *caná-yoge prathamā* [?] (Pā. Sū. 8-1-30 [?]) — *nighāta* prohibited; the *aṭ* augment being *udātta*, the word is *ādyudātta*) ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> युवं ह स्थो भिषजा भेषजेभिरथो ह स्थो रथ्या रथ्येभिः [?] ।
+> अथो ह क्षत्रमधि धत्थ उग्रा यो वां हविष्मान्मनसा ददाश ॥ ६ ॥
+
+> *yuvaṃ ha stho bhiṣajā bheṣajebhiratho ha stho rathyā rathyebhiḥ [?] |*
+> *atho ha kṣatramadhi dhattha ugrā yo vāṃ haviṣmānmanasā dadāśa ‖ 6 ‖*
+
+*(Printed "रथ्या" and "रथ्येभिः" with a doubtful length mark on the first; read with doubt [?].)*
+
+**॥ पदपाठः ॥**
+
+> युवं । ह । स्थः । भिषजा । भेषजेभिः । अथो इति । ह । स्थः । रथ्या । रथ्येभिरिति [?] ।
+> रथ्येभिः [?] ।
+> अथो इति । ह । क्षत्रं । अधि । धत्थः । उग्रा । यः । वां । हविष्मान् । मनसा । ददाश ॥ ६ ॥
+
+> *yuvaṃ | ha | sthaḥ | bhiṣajā | bheṣajebhiḥ | atho iti | ha | sthaḥ | rathyā | rathyebhiriti [?] |*
+> *rathyebhiḥ [?] |*
+> *atho iti | ha | kṣatraṃ | adhi | dhatthaḥ | ugrā | yaḥ | vāṃ | haviṣmān | manasā | dadāśa ‖ 6 ‖*
+
+*(The Pada breaks a word across a line [*rathyebhir iti / rathyebhiḥ*]; reading doubtful [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: You are physicians with remedies and riders with chariot-steeds, and you hold greater strength than the worshipper who offers oblations devoutly. Small type; badly legible; read with doubt.)*
+
+> हे अश्विनौ युवं युवां ह खलु भेषजेभिर्भेषजैरौषधैर्भेषजौषधैः [?] भिषजा वैद्यौ स्थः । भेषजौषधैर्वैद्यौ हि देवानां भिषजावित्यादिप्रसिद्धिर्द्योतनार्था [?] । अथो अपि च रथ्येभी रथवोढृभिरश्वै रथ्या रथवन्तौ स्थः । आ वां रथो अश्विना [?] । ऋ. १-११९-१ [?] इत्यादिप्रसिद्धिर्द्योतनार्थो हशब्दः । अनयो रथेन विशेषसम्बन्धो युवोर्हि पूर्वमासमवितोषसं रथमृतायेत्यादि [?] चित्रं घृतवन्तमिष्यति [?] ऋ. १-४४-१०? इत्यादिमन्त्रान्तरेषु प्रसिद्धः । अथो अपि च युवयोः क्षत्रं बलमधि ह अधिकं खलु । हशब्दः प्रसिद्धौ । यस्माद्देवमन्ते [?] हे उग्रा उग्रौ ऊर्जसामर्थ्यवत्त्वात् [?] अश्विनौ वां युवाभ्यां यो हविष्मान्नाज्यपुरोडाशादिहविर्युक्तो यजमानो मनसा युष्मद्भक्तिचित्तेन [?]
+
+> *he aśvinau yuvaṃ yuvāṃ ha khalu bheṣajebhirbheṣajairauṣadhairbheṣajauṣadhaiḥ [?] bhiṣajā vaidyau sthaḥ | bheṣajauṣadhairvaidyau hi devānāṃ bhiṣajāvityādiprasiddhirdyotanārthā [?] | atho api ca rathyebhī rathavoḍhṛbhiraśvai rathyā rathavantau sthaḥ | ā vāṃ ratho aśvinā [?] | ṛ. 1-119-1 [?] ityādiprasiddhirdyotanārtho haśabdaḥ | anayo rathena viśeṣasambandho yuvorhi pūrvamāsamavitoṣasaṃ rathamṛtāyetyādi [?] citraṃ ghṛtavantamiṣyati [?] ṛ. 1-44-10? ityādimantrāntareṣu prasiddhaḥ | atho api ca yuvayoḥ kṣatraṃ balamadhi ha adhikaṃ khalu | haśabdaḥ prasiddhau | yasmāddevamante [?] he ugrā ugrau ūrjasāmarthyavattvāt [?] aśvinau vāṃ yuvābhyāṃ yo haviṣmānnājyapuroḍāśādihaviryukto yajamāno manasā yuṣmadbhakticittena [?]*
+
+---
+
+### Printed p. 691  (PDF 709)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> ददाशा [sic? — as read: दाशति / ददाति] हविरादिकं तं धत्थः । धारयथः । आत्यधिकमनुगृह्णीथ इत्यर्थः । प्रभूतबलौ युवां रथमारुह्यास्मद्यज्ञं [?] हविष्प्रदं मां धृष्ट्वास्मद्यज्ञे [?] ज्ञेस्मान्चिकित्सतमिति तात्पर्यार्थः ॥
+
+> *dadāśā [sic? — as read: dāśati / dadāti] havirādikaṃ taṃ dhatthaḥ | dhārayathaḥ | ātyadhikamanugṛhṇītha ityarthaḥ | prabhūtabalau yuvāṃ rathamāruhyāsmadyajñaṃ [?] haviṣpradaṃ māṃ dhṛṣṭvāsmadyajñe [?] jñesmāncikitsatamiti tātparyārthaḥ ‖*
+
+*(Small type; reading doubtful [?].)*
+
+**प्रतिपदार्थः (Pratipadārtha).** (O Aśvin deities,) *yuvaṃ ha* — you two too; *bheṣajebhiḥ* — with the roots of medicines (knowing their nature); *bhiṣajā sthaḥ* — you are physicians; *atho* — and moreover; *rathyebhiḥ* — with horses that draw chariots; *rathyā sthaḥ* — you are owners of chariots; *atho* — and moreover; *kṣatraṃ* — (your) strength; *adhi ha* — is greater indeed [?]; *(ataḥ)* *ugrā* — O you of mighty force, fearsome; *vāṃ* — to you two; *yaḥ* — who; *haviṣmān* — [as a sacrificer] possessing the oblation; *manasā* — with faith; *dadāśa* — offers (oblations and so on); *dhatthaḥ* — you lift him up (favour him greatly).
+
+**भावार्थः (Bhāvārtha).** O Aśvin deities, both of you, knowing the roots of medicines and their nature, are physicians. And you possess chariots drawn by horses; and your strength is exceedingly great. Therefore, mighty ones, you favour and uphold the sacrificer who, with oblation in hand, offers it to you with faith.
+
+**English Translation (as printed).** You two are physician, (conversant) with (all) medicaments : you ride in a chariot (drawn by) well-trained steeds : therefore, mighty (divinities), resolutely uphold (the worshipper), who, with a mind (devoted to you), offers you oblations.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **bheṣajebhiḥ bhiṣajā sthaḥ** — "you are physicians who know the nature of medicines": this shows the power of the Aśvin deities. That the Aśvin deities are the physicians of the gods, that they cured the defects of Indra and the other gods, and that they removed the old age of Sukanyā's husband and gave him youth, are well known.
+
+---
+
+**Progress note:** Sūkta 157 in progress: Ṛk 4 complete; Ṛk 5 complete; Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done and the Special Topics begun (printed pp. 686–691, PDF 704–709). Next: printed p. 692 (PDF 710) — rest of the Ṛk 6 Special Topics and grammar, then the closing colophon of Sūkta 157 / the volume. Open flags: small-type bhāṣya of Ṛk 5 and especially Ṛk 6 (pp. 690–691) badly legible, read with doubt; Śatapatha quotation on p. 688 mostly `[?]`; Ṛk 6 Saṃhitā/Pada reading of *rathyā*/*rathyebhiḥ* doubtful; all Ṛg/Brāhmaṇa/Nirukta references and Pāṇini sūtra numerals `[?]`; varga numeral `3?` [?]; headers printed "A. 21" in Anuvāka 22 (as printed).
