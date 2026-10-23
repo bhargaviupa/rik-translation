@@ -488,35 +488,35 @@ The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta
 
 ### Printed p. 17  (PDF 35)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral 2.)*
 
 **English Translation (as printed).** The greatness of the strength of the many-worshipped Pushan is universally lauded: no one detracts (from his praise); his praise displeases no one. Desirous of happiness, I adore him, whose protection is ever nigh; who is the source of felicity: who, when devoutly worshipped, blends with the thoughts of all (his worshippers): who, (though) a deity, is united with the sacrifice.
 
 **Special Topics (Viśeṣaviṣayagaḷu).**
 
-***pūṣṇaḥ.*** The Nirukta derivation is given: *pūṣā yad asmin raśmipoṣaṃ puṣyati tat pūṣā bhavati* (Ni. 12-[?] [?]) — "because he nourishes with rays he is Pūṣan". The Śatapatha Brāhmaṇa too, [and the Taittirīya Brāhmaṇa:]
+***pūṣṇaḥ.*** The Nirukta derivation is given: *pūṣā yad asmin raśmipoṣaṃ puṣyati tat pūṣā bhavati* (Ni. 12-16) — "because he nourishes with rays he is Pūṣan". The Śatapatha Brāhmaṇa too (the Kannada says "in the Śatapatha Brāhmaṇa too"):
 
 > इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किंच ।
 
 > *iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃca |*
 
-(Tai. Brā. 1-[?]-[?] [?].) — "this [earth] is Pūṣan, for she nourishes all this." The Kannada adds that such a meaning supports Pūṣan being one of the twelve Ādityas [reading doubtful [?]]. A verse of the Bṛhaddevatā is quoted as follows [the print is hard to read; the verse is given with [?]]:
+(Śa. Brā. 14-4-2-25.) — "this [earth] is Pūṣan, for she nourishes all this." The Kannada adds that such a meaning supports Pūṣan being one of the twelve Ādityas. A verse of the Bṛhaddevatā is quoted as follows ("destroying the darkness" with his rays, he nourishes the earth):
 
-> पूषन् क्षितिं पोषयति प्रणदेन रश्मिभिस्तनः [?] ।
-> तेनैनमुस्त्रोपेति [?] भरद्वाजस्तु पेञ्चिभिः [?] ॥
+> पूषन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः ।
+> तेनैनमस्तौत्पूषेति भरद्वाजस्तु पञ्चभिः ॥
 
-> *pūṣan kṣitiṃ poṣayati praṇadena raśmibhistanaḥ [?] |*
-> *tenainamustropeti [?] bharadvājastu peñcibhiḥ [?] ‖*
+> *pūṣan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*
+> *tenainamastautpūṣeti bharadvājastu pañcabhiḥ ‖*
 
-(Bṛ. De. 3-[?] [?].) The Kannada then says that the sage Bharadvāja praised Pūṣan in Maṇḍala 6, Sūktas 53–57 [numerals as read, [?]].
+(Bṛ. De. 2-63.) The Kannada then says that the sage Bharadvāja praised Pūṣan in Maṇḍala 6, in these five Sūktas, 53, 54, 55, 56 and 57.
 
-***tuvijātasya.*** *Tuvi* is read among the names meaning "many" (Ni. 3-[?] [?]). Sāyaṇa explains the word as "born for the sake of many sacrificers". The epithet *tuvijāta* is also used of other gods, Indra, Agni, Varuṇa and so on; in many places there is a difference of the order of the words; since two or three kinds of *vigraha* are possible for the compound, the sense suited to each context must be given. For example:
+***tuvijātasya.*** *Tuvi* is read among the names meaning "many" (Ni. 3-12). Sāyaṇa explains the word as "born for the sake of many sacrificers". The epithet *tuvijāta* is also used of other gods, Indra, Agni, Varuṇa and so on; in many places there is a difference of meaning; since two or three kinds of *vigraha* are possible for the compound, the sense suited to each context must be given. For example:
 
-> अहन्नहिं परिशयानमर्णः [?] ओजायमानं तुविजात [?] कव्यान् [?] ।
+> अहन्नहिं परिशयानमर्ण ओजायमानं तुविजात तव्यान् ।
 
-> *ahannahiṃ pariśayānamarṇaḥ [?] ojāyamānaṃ tuvijāta [?] kavyān [?] |*
+> *ahannahiṃ pariśayānamarṇa ojāyamānaṃ tuvijāta tavyān |*
 
-(Ṛ. Saṃ. 2-[?]-[?] [?]; the quotation continues on p. 18; its reading here is doubtful throughout [?].)
+(Ṛ. Saṃ. 3-32-11; the quotation continues on p. 18.)
 
 ---
 
@@ -526,57 +526,57 @@ The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta
 
 *(Special Topics of Ṛk 1, continued from p. 17.)* [The quotation of p. 17 ends: …] "…is an epithet of Indra: *bahūni jātāni pṛthivyādīni yasmāt so 'yaṃ tuvijātaḥ* — Indra, from whom many beings such as the earth were born." So it is explained.
 
-> नमः पुरा [?] ते वरुणोत नूनमुतापरं तुविजात ब्रवाम ।
+> नमः पुरा ते वरुणोत नूनमुतापरं तुविजात ब्रवाम ।
 
-> *namaḥ purā [?] te varuṇota nūnamutāparaṃ tuvijāta bravāma |*
+> *namaḥ purā te varuṇota nūnamutāparaṃ tuvijāta bravāma |*
 
-(Ṛ. Saṃ. 7-[?]-[?] [?].)
+(Ṛ. Saṃ. 2-28-8.)
 
-> प्र मित्रयोर्वरुणयोः स्तोमो न एतु शूष्यः । नमस्वान्तुविजातयोः [?] ।
+> प्र मित्रयोर्वरुणयोः स्तोमो न एतु शूष्यः । नमस्वान्तुविजातयोः ।
 
-> *pra mitrayorvaruṇayoḥ stomo na etu śūṣyaḥ | namasvāntuvijātayoḥ [?] |*
+> *pra mitrayorvaruṇayoḥ stomo na etu śūṣyaḥ | namasvāntuvijātayoḥ |*
 
-(Ṛ. Saṃ. 5-[?]-[?] [?].) In such Ṛks the word is an epithet of Mitra and Varuṇa, meaning "those who have appeared in many forms (*bahubhāva*)".
+(Ṛ. Saṃ. 7-66-1.) In such Ṛks the word is an epithet of Mitra and Varuṇa, meaning "those who have appeared in many forms (*bahubhāva*)".
 
-> वि षा आग्ने [?] गृणते मनीषां खं वेपसा तुविजात स्ववानः [?] ।
+> वि षाह्यग्ने गृणते मनीषां खं वेपसा तुविजात स्तवानः ।
 
-> *vi ṣā āgne [?] gṛṇate manīṣāṃ khaṃ vepasā tuvijāta svavānaḥ [?] |*
+> *vi ṣāhyagne gṛṇate manīṣāṃ khaṃ vepasā tuvijāta stavānaḥ |*
 
-(Ṛ. Saṃ. 4-[?]-[?] [?].) Here Agni is described and addressed as "many-born" (*bahujanman*), i.e. Agni arising in different forms such as lightning; in the same way in many places the forms of Indra and other gods are described. The authors of the Bṛhaddevatā have taken *tuvijāta* to name a separate deity. They say:
+(Ṛ. Saṃ. 4-11-2.) Here Agni is described and addressed as "many-born" (*bahujanman*), i.e. Agni arising in different forms such as lightning; in the same way in many places the forms of Indra and other gods are described. The authors of the Bṛhaddevatā have taken *tuvijāta* to name a separate deity. They say:
 
-> कृणोतु मित्रो अर्यमा भगो न स्तुविजातो वरुणो दक्षो अंशः [?] ।
+> कृणोतु मित्रो अर्यमा भगो न स्तुविजातो वरुणो दक्षो अंशः ।
 
-> *kṛṇotu mitro aryamā bhago na stuvijāto varuṇo dakṣo aṃśaḥ [?] |*
+> *kṛṇotu mitro aryamā bhago na stuvijāto varuṇo dakṣo aṃśaḥ |*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].) Taking this Ṛk as their guide they have included the deity *Tuvijāta* in the group of Mitra and the rest. Sāyaṇa explains this word as "one who has appeared in many places for the sake of favour" and takes it as an epithet of Varuṇa [the exact wording of the print here is not legible to me [?]]. But the Bṛhaddevatā authors follow the Nirukta meaning "*dhātā*" [?]:
+(Ṛ. Saṃ. 2-27-1.) Taking this Ṛk as their guide they have included the deity *Tuvijāta* in the group of Mitra and the rest. Sāyaṇa explains this word as "one who has appeared in many places for the sake of favour" and takes it as an epithet of Varuṇa (*bahuṣu pradeśeṣu anugrahārthaṃ prādurbhūtaḥ; varuṇaviśeṣaṇam etat*). But the Bṛhaddevatā authors follow the Nirukta meaning "*bahujātaś ca dhātā*" — "Dhātṛ, born in many forms" (Ni. 12-36):
 
-> मित्रावरुणदेवत्साम् [?] तुविजातभगार्यम्णाम् ।
-> आदित्यानामिमाः सूक्तमिदं वारुणमुच्यते ॥ [?]
+> मित्रावरुणदक्षांशतुविजातभगार्यम्णाम् ।
+> आदित्यानामिमाः सूक्तमिदं वारुणमुच्यते ॥
 
-> *mitrāvaruṇadevatsām [?] tuvijātabhagāryamṇām |*
-> *ādityānāmimāḥ sūktamidaṃ vāruṇamucyate ‖ [?]*
+> *mitrāvaruṇadakṣāṃśatuvijātabhagāryamṇām |*
+> *ādityānāmimāḥ sūktamidaṃ vāruṇamucyate ‖*
 
-(Bṛ. De. 6-[?] [?].) By this statement they indicate Dhātṛ, one of the seven Ādityas [as read].
+(Bṛ. De. 4-82, 83.) By this statement they indicate Dhātṛ, one of the seven Ādityas.
 
-Like *tuvijāta* there are uses of the words *tuviṣmān*, *tuvirādhaḥ*, *tuvinṛmṇa*, *tuvigrīva*, *tuvisvarṇa*.
+Like *tuvijāta* there are uses of the words *tuviṣmān*, *tuvirādhaḥ*, *tuvimanyu*, *tuvidyumna*, *tuvinṛmṇa*.
 
-> अहं ह्युग्रस्तुविष्मान् [?] विष्णोः [?] शत्रोर्नमं [?] वधस्नैः [?] ।
+> अहं ह्युग्रस्तुविषस्तुविष्मान्विश्वस्य शत्रोरनमं वधस्नैः ।
 
-> *ahaṃ hyugrastuviṣmān [?] viṣṇoḥ [?] śatrornamaṃ [?] vadhasnaiḥ [?] |*
+> *ahaṃ hyugrastuviṣastuviṣmānviśvasya śatroranamaṃ vadhasnaiḥ |*
 
-(Ṛ. Saṃ. 7-[?]-[?] [?]; the quotation is badly read, [?].)
+(Ṛ. Saṃ. 1-165-6.)
 
 ### Printed p. 19  (PDF 37)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral 2.)*
 
-In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?]-[?] [?]) means abundant wealth, and *tuvisvana* (Ṛ. Saṃ. [?]) means one of abundant [loud?] sound [?]. In the Ṛk at hand, as stated above, it describes Pūṣan's quality of appearing in many places to favour the sacrificers.
+In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88-3) means abundant wealth, *tuvinṛmṇa* (Ṛ. Saṃ. 1-43-7) means one furnished with abundant strength, and *tuvisvaṇaḥ* (Ṛ. Saṃ. 1-166-1) means one of abundant sound. In the Ṛk at hand, as stated above, it describes Pūṣan's quality of appearing in many places to favour the sacrificers.
 
-***antyūtim*** — *asannarakṣaṇam*: "very near protection". Like the descriptions *paśupāḥ* (Ṛ. Saṃ. 6-[?]-[?] [?]), *puṣṭiṃbhara* and the like, the epithet *antyūti* also shows Pūṣan's act of protection.
+***antyūtim*** — *asannarakṣaṇam*: "very near protection". Like the descriptions *paśupāḥ* (Ṛ. Saṃ. 6-58-2), *puṣṭiṃbhara* and the like, the epithet *antyūti* also shows Pūṣan's act of protection.
 
 ***makhaḥ viśvasya manaḥ āyuyuve*** — two constructions are possible, as shown when the sense is explained: *āyuyuve* — *samantāt sampūrtiparyantaṃ miśrayati*: "he joins [with the sacrifice] until it is completed without hindrance" (with reference to the sacrifice), and *yajamānasya manaḥ samantāt āyuyuve*: "he makes the sacrificer's mind, not turned elsewhere, fixed in the sacrifice" (with *manas* as the object): so two senses are possible.
 
-***sumnayan*** — *sumna* is read among the names of happiness (Ni. 3-[?] [?]); *sukham icchan* — "wishing happiness".
+***sumnayan*** — *sumna* is read among the names of happiness (Ni. 3-13); *sukham icchan* — "wishing happiness".
 
 ***mana āyuyuve makho deva āyuyuve makhaḥ*** — repetition here; it is a style; in this repetition the intensity [of feeling] is seen, and the Nirukta-author has defended the excellence of this style:
 
@@ -584,13 +584,13 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-[?
 
 > *abhyāse bhūyāṃsamarthaṃ manyante yathāho darśanīyāho darśanīyeti |*
 
-(Ni. 10-43 [as read, [?]].) By repetition a special force and power of expression is shown; as in "she is beautiful, very beautiful", a special regard is seen in describing her beauty; in the same way there are many occasions where, to bring out a superior feeling, texts are recited showing special regard. Among them the style of Parucchepa is praised by the Nirukta-authors as "*tat paruccheapasya śīlam*" (Ni. 10-43 [?]), the speciality of Parucchepa; and
+(Ni. 10-42.) By repetition a special force and power of expression is shown; as in "she is beautiful, very beautiful", a special regard is seen in describing her beauty; in the same way there are many occasions where, to bring out a superior feeling, texts are recited showing special regard. Among them the style of Parucchepa is praised by the Nirukta-authors as "*tat paruccheapasya śīlam*" (Ni. 10-42), the speciality of Parucchepa; and
 
 > प्र तद्वोचेयं भव्यायेन्दवे हव्यो न य इषवान्मन्म रेजति रक्षोहा मन्म रेजति ।
 
 > *pra tadvoceyaṃ bhavyāyendave havyo na ya iṣavānmanma rejati rakṣohā manma rejati |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].)
+(Ṛ. Saṃ. 1-129-6.)
 
 ### Printed p. 20  (PDF 38)
 
