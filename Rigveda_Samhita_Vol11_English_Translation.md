@@ -16640,4 +16640,186 @@ In this Ṛk, Indra's mother, seeing the growth of the invincible Vṛtra, is an
 
 ---
 
-**Progress note:** Sūkta 155 in progress: Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and its Special Topics through the Vṛtra/Viṣṇu story begun (printed pp. 619–624, PDF 637–642). Next: printed p. 625 (PDF 643). Open flags: the Special Topics of Ṛk 3 (pp. 617–619) discuss *bhuraṇyati*, *abhikhyāya*, *vayaḥ*, not found in the Ṛk 3 text as read — recorded as printed; small-type Tai. Saṃ. passage on p. 624 only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 625  (PDF 643)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 4 conclude; grammar.)*
+
+… Then Vṛtra, frightened, told Indra not to strike him, and that he would give up his strength that was on the earth; and Indra, in order to carry this out, made it over to Viṣṇu. In the same way he seized also Vṛtra's strength that was in the atmosphere and in the heavenly world, and handed it to Viṣṇu. Thus, having obtained Viṣṇu's help three times, and having in return prepared his own strength for him three times [?], the oblation offered as part of this occasion is known by the name *tridhātu*, as was told before. Thus the greatness of Viṣṇu, who stood pervading all three worlds and made the three worlds grow wide, is praised with *tribhir id vigāmabhiḥ uru kramiṣṭa*.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar pages 625–626, noted briefly).** *tat-tat* (*nityavīpsayoḥ* (Pā. Sū. 8-1-4) doubling; the second member, *āmreḍita*, is *anudātta* by *āmreḍitaṃ parasya* … (Pā. Sū. 8-2-[?])); *gṛṇīmasi* (root *gṝ śabde*; *kryādi*; *laṭ* 1st pl. *mas*; *idanto masi* (Pā. Sū. 7-1-46 [?]) *i*-augment; *kryādibhyaḥ śnā* (Pā. Sū. 3-1-81); *prādīnāṃ hrasvaḥ* [?] shortening; since a consonant-initial *jit* suffix follows, by *ī halyaghoḥ* (Pā. Sū. 6-4-113) *ī* for the *vikaraṇa*; the *ṇ*-sound lost before *p*; *tiṅ*: *nighāta*); *inasya* (root *iṇ gatau*; *iṇsiñji…* (Uṇ. Sū. 3-[?]) *nak*; being *kit*, no guṇa; suffix accent: final *udātta*; genitive sg.); *trātuḥ* (root *traiṅ pālane*; *tṛc* in the agent sense; *ād ec upadeśe 'śiti* (Pā. Sū. 6-1-45) *ā*; *cit*: final *udātta*; before the genitive sg. *ṛta ut* — *raparatva* — loss of *s* [?] — *visarga*); *avṛkasya* (*na vidyate vṛko yasya avṛkaḥ tasya*; *nañsubhyām* (Pā. Sū. 6-2-172 [?]) final *udātta* of the latter member); *mīḷhuṣaḥ* (root *miha secane*; *dāśvān sāhvān mīḍhvāṃś ca* (Pā. Sū. 6-1-12) *kvasu*-ending irregular; *bha*-name before the genitive; *vasoḥ saṃprasāraṇam*; *ṣatva* by *śāsivasighasīnāṃ ca*; accent of *vasu*) …
+
+---
+
+### Printed p. 626  (PDF 644)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly.)* *kramiṣṭa* (root *kramu pādavikṣepe*; *luṅ* 3rd sg. *ta*; *cli* → *sic*; *ārdhadhātukasyeḍ valādeḥ* (Pā. Sū. 7-2-35) *iṭ*; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣatva*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75) no *aḍāgama*; since *yat* is in the sentence there is no *nighāta*; root accent remains); *jīvase* (root *jīva prāṇadhāraṇe*; *tumarthe sesenase…* (Pā. Sū. 3-4-9 [?]) the suffix *ase*; suffix first *udātta*; being *ejanta* … *avyaya*). ‖ 4 ‖
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> द्वे इदस्य क्रमणे स्वर्दृशोऽभिख्याय मर्त्यो भुरण्यति ।
+> तृतीयमस्य नकिरा दधर्षति वयश्चन पतयन्तः पतत्रिणः ॥ ५ ॥
+
+> *dve idasya kramaṇe svardṛśo 'bhikhyāya martyo bhuraṇyati |*
+> *tṛtīyamasya nakirā dadharṣati vayaścana patayantaḥ patatriṇaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> द्वे इति । इत् । अस्य । क्रमणे इति । स्वःऽदृशः । अभिऽख्याय । मर्त्यः । भुरण्यति । तृतीयम् । अस्य । नकिः । आ । दधर्षति । वयः । चन । पतयन्तः । पतत्रिणः ॥ ५ ॥
+
+> *dve iti | it | asya | kramaṇe iti | svaḥ 'dṛśaḥ | abhi 'khyāya | martyaḥ | bhuraṇyati | tṛtīyam | asya | nakiḥ | ā | dadharṣati | vayaḥ | cana | patayantaḥ | patatriṇaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: mortals, praising, reach only two of Viṣṇu's steps; none can grasp the third, not even the Maruts or the flying birds. Small type, read with doubt.)*
+
+> अस्य स्वर्दृशः स्वर्गस्य सर्वस्य वा द्रष्टुर्विष्णोर्द्वे इत् क्रमणे द्वे एव पदे मर्त्यो मनुष्योऽभिख्याय सर्वभूतादिना प्रत्ययेन [?] भुरण्यति । गच्छति । भजते । भुरण्यतिः कण्ड्वादिर्गतिकर्मा भुरण्यति शवतीति तत्कर्मसु पाठात् । प्रसिद्धत्वात् स्वर्गालोकं व्याप्त्यगमनादन्तेऽक्षिप्रं [?] चेत्क्रमभे [?] क्रमणे जानाति । अस्य विष्णोस्तृतीयं क्रमणं द्युलोकाख्यं कोऽपि मर्त्यो नकिर्वा दधर्षति । बुद्ध्या नाभिभवति । ज्ञातुं न शक्नोतीत्यर्थः । न केवलं मनुष्य एव अपि तु वयश्चन नेतारो मरुतोऽपि केद्युशास्ते [?] । पतयन्तः संवर्तिः [?] गमनसमर्थाः सहा [?] वयः पक्षिणः … पतन्तीति पतत्रिणः पतनशीला गरुडादयः प्राणि [?] वयो न नकिरा दधर्षति । स्वेन शक्यन्ति । धृषेर्लेट्यडागमः । सत्यलोकस्यात्यन्तविप्रकृष्टत्वेन सर्वेषामविषयत्वादिति भावः ॥
+
+> *asya svardṛśaḥ svargasya sarvasya vā draṣṭurviṣṇordve it kramaṇe dve eva pade martyo manuṣyo 'bhikhyāya sarvabhūtādinā pratyayena [?] bhuraṇyati | gacchati | bhajate | bhuraṇyatiḥ kaṇḍvādirgatikarmā bhuraṇyati śavatīti tatkarmasu pāṭhāt | prasiddhatvāt svargālokaṃ vyāptyagamanādante 'kṣipraṃ [?] cetkramabhe [?] kramaṇe jānāti | asya viṣṇostṛtīyaṃ kramaṇaṃ dyulokākhyaṃ ko 'pi martyo nakirvā dadharṣati | buddhyā nābhibhavati | jñātuṃ na śaknotītyarthaḥ | na kevalaṃ manuṣya eva api tu vayaścana netāro maruto 'pi kedyuśāste [?] | patayantaḥ saṃvartiḥ [?] gamanasamarthāḥ sahā [?] vayaḥ pakṣiṇaḥ … patantīti patatriṇaḥ patanaśīlā garuḍādayaḥ prāṇi [?] vayo na nakirā dadharṣati | svena śakyanti | dhṛṣerleṭyaḍāgamaḥ | satyalokasyātyantaviprakṛṣṭatvena sarveṣāmaviṣayatvāditi bhāvaḥ ‖*
+
+---
+
+### Printed p. 627  (PDF 645)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *svardṛśaḥ* — of him who beholds all, or who beholds the heavenly world; *asya* — of this Viṣṇu; *dve it kramaṇe* — only two steps (only the two worlds, earth and atmosphere, covered by two steps); *martyaḥ* — man; *abhikhyāya* — by praise [?]; *bhuraṇyati* — (moves) comes to know; *asya* — of this Viṣṇu; *tṛtīyam* — the third step, the heavenly world; *nakiḥ ā dadharṣati* — (no man) can possibly comprehend; *patayantaḥ* — able to move (in all regions); *vayaḥ cana* — even the Maruts (like them); *patatriṇaḥ* — birds also (cannot know).
+
+**भावार्थः (Bhāvārtha).** Man, by praise, comes to know only the two worlds, earth and atmosphere, with the two steps of Viṣṇu who beholds the heavenly world. The heavenly world, with the third step of Viṣṇu, no man can possibly comprehend. Neither the Maruts, who can move through all regions, nor, like them, the birds, can know it.
+
+**English Translation (as printed).** Man, glorifying (Vishnu), tracks two steps of that heaven-beholding deity, but he apprehends not the third; nor can the soaring-winged birds (pursue it).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **svardṛśaḥ** — *svargasya sarvasya vā draṣṭā* — "beholder of heaven or of all": it is an epithet of Viṣṇu in the two senses "beholding heaven" or "knowing everything"; the word is used in both senses. But after first examining the formation of the word *svar* in its different senses and its uses, the nature of the compound *svardṛśaḥ* can be understood. This word is read among the common names *svaḥ*, *pṛśniḥ*, *nākaḥ* and so on. *sādhāraṇanāma* … [Ni. 3-12 [?]]. The Nirukta-author has told that the six words *svaḥ*, *pṛśniḥ*, *nākaḥ*, *gauḥ*, *viṣṭapam*, *nabhaḥ* are common words, as synonyms both of the heavenly world and of the sun. Then, in explaining, for use as a synonym of the sun, what the root of *svar* is and how the word is formed,
+
+> स्वरादित्यो भवति सु अरणः सु ईरणः स्वतो रसान् स्वतो भासं ज्योतिषां । स्वृतो भासेति वा ।
+
+> *svarādityo bhavati su araṇaḥ su īraṇaḥ svato rasān svato bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā |*
+
+(Ni. 2-14 [?], as printed.)
+
+---
+
+### Printed p. 628  (PDF 646)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+because he travels well (*su-araṇaḥ*), or because he well sets in motion (*su-īraṇaḥ*), or because from himself he draws up the waters, or because he is radiant with the lustre of luminaries; the sense is the heavenly light-radiant:
+
+> स्वरादित्यो भवति स एनानि सारयेति ।
+
+> *svarādityo bhavati sa enāni sārayeti |*
+
+(Ni. 2-4 [?], as printed.)
+
+— for causing the days to move, too, the sun is named *svaḥ*. In the Saṃhitā,
+
+> प्रत्यङ्देवानां विशः प्रत्यङ्ङुदेषि मानुषान् ।
+> प्रत्यङ्विश्वं स्वर्दृशे ॥
+
+> *pratyaṅdevānāṃ viśaḥ pratyaṅṅudeṣi mānuṣān |*
+> *pratyaṅviśvaṃ svardṛśe ‖*
+
+(Ṛ. Saṃ. 1-50-5.)
+
+> त्रेना वहन्तो दुरो व्यण्वन्त्सन्वते निश्वे स्वर्दृशीके [?] ।
+
+> *trenā vahanto duro vyaṇvantsanvate niśve svardṛśīke [?] |*
+
+(Ṛ. Saṃ. 1-64-10 [?], as printed.)
+
+in such Ṛks "heavenly world" is the sense, and in places such as *svī-nabhasi* (*antarikṣe*) "in the atmosphere"; and
+
+> दा नो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि ।
+> प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि दिद्युतः ॥
+
+> *dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi |*
+> *prācī dyāvāpṛthivī brahmaṇā kṛdhi svarṇa śukramuṣaso vi didyutaḥ ‖*
+
+(Ṛ. Saṃ. 3-3-21 [?], as printed.)
+
+in such Ṛks it is explained as "sun". For the compound *svardṛśaḥ* the sense is, as said above, "beholding heaven" or "beholding all". Besides this, the sense has been given by showing different derivations according to the contexts. To take some examples:
+
+> सम्राजावस्य भुवनस्य राजथो मित्रावरुणा विदथे स्वर्दृशा ।
+> वृष्टिं वां राधो अमृतत्वमीमहे द्यावापृथिवी वि चरन्ति तन्यवः ॥
+
+> *samrājāvasya bhuvanasya rājatho mitrāvaruṇā vidathe svardṛśā |*
+> *vṛṣṭiṃ vāṃ rādho amṛtatvamīmahe dyāvāpṛthivī vi caranti tanyavaḥ ‖*
+
+(Ṛ. Saṃ. 5-63-3.)
+
+in this Ṛk the word *svardṛśā* is an epithet of Mitra and Varuṇa. It can be explained in two ways. First, taking *svar* as the sun: *svardṛśā* means "like the sun", as in the words *tādṛśa*, *nūdṛśaḥ*; that is, "like the sun" — resembling the sun; or "shining with the sun's splendour". On this word Peterson, giving the sense and summarising the opinions of Oldenberg and others, has stated them in this way:
+
+---
+
+### Printed p. 629  (PDF 647)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+i) स्वर्दृशः appearing (dazzling) like the Sun (used of the Gods,) ii) looking on the Sun i.e. alive or (Geldner) seeing with Sun's light (used of men in four places). Geldner thinks that the latter interpretation will do in all cases. विदथे [?] स्वर्दृशा is probably to be understood as "appearing dazzling at the sacrifice".
+
+(Hymns from the Rig-Veda — II Series. P. 318.)
+
+The substance of this opinion has been told above. Further,
+
+> अश्माास्यमवतं ब्रह्मणस्पतिर्मधुधारमभि यमोजसातृणत् ।
+> तमेव विश्वे पपिरे स्वर्दृशो बहु साकं सिसिचुरुत्समुद्रिणम् ॥
+
+> *aśmāāsyamavataṃ brahmaṇaspatirmadhudhāramabhi yamojasātṛṇat |*
+> *tameva viśve papire svardṛśo bahu sākaṃ sisicurutsamudriṇam ‖*
+
+(Ṛ. Saṃ. 2-24-4 [?], as printed.)
+
+in this Ṛk, for the word *svardṛśaḥ* the sense is *svaḥ ādityaḥ tasya sambandhino draṣṭāro raśmayaḥ* — "the rays of the sun, [connected with the sun], that behold": the rays of the sun; so also
+
+> शुचिं नु योमानिरं स्वर्दृशं केतुं दिवो रोचनस्थामुषर्बुधम् ।
+> अग्निं मूर्धानं दिवो अप्रतिष्कुतं तमीमहे नमसा वाजिनं बृहत् ॥
+
+> *śuciṃ nu yomāniraṃ svardṛśaṃ ketuṃ divo rocanasthāmuṣarbudham |*
+> *agniṃ mūrdhānaṃ divo apratiṣkutaṃ tamīmahe namasā vājinaṃ bṛhat ‖*
+
+(Ṛ. Saṃ. 3-2-18 [?], as printed.)
+
+in this the word *svardṛśam* is an epithet of *agnim*; Sāyaṇa explains it, in this Ṛk, as *sarvadṛśaṃ sarvapadārthavijñānayuktam* — "seeing all, endowed with knowledge of all things": Agni endowed with the special knowledge to know everything.
+
+> जनूश्चिद्वो मरुतस्त्वेषेण भीमासस्तुविमन्योऽयासः ।
+> प्र ये महोभिरोजसोत सन्ति विश्वो वो यामन्भयते स्वर्दृक् ॥
+
+> *janūścidvo marutastveṣeṇa bhīmāsastuvimanyo 'yāsaḥ |*
+> *pra ye mahobhirojasota santi viśvo vo yāmanbhayate svardṛk ‖*
+
+(Ṛ. Saṃ. 2-34-3 [?], as printed.)
+
+in this Ṛk *sūryasya draṣṭā sarvo jīvasamūhaḥ* — "the whole host of living beings that behold the sun" — or *svar antarikṣaṃ tat paśyatīti vṛkṣaḥ svardṛk sarvotpattyasthityarthaḥ* [?]: the word *svar* is explained as "atmosphere", and the tree, which is always upward-turned and looks at the atmosphere, is called *svardṛk*.
+
+> यत्रा नरः समयन्ते कृतध्वजो यस्मिन्नाजा भवति किं चन प्रियम् ।
+> यत्रा भयन्ते भुवना स्वर्दृशस्तत्रा न इन्द्रावरुणाधि वोचतम् ॥
+
+> *yatrā naraḥ samayante kṛtadhvajo yasminnājā bhavati kiṃ cana priyam |*
+> *yatrā bhayante bhuvanā svardṛśastatrā na indrāvaruṇādhi vocatam ‖*
+
+(Ṛ. Saṃ. 7-83-9 [?], as printed.)
+
+in this it is an epithet of heroes who go heavenward. Having thus shown that senses suited to the contexts are possible, in the present Ṛk [Sāyaṇa] has explained *svardṛśaḥ* as *svargasya draṣṭuḥ* or *sarvasya draṣṭuḥ viṣṇoḥ*, and …
+
+---
+
+### Printed p. 630  (PDF 648)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+… thus given the sense. Since the supreme station of Viṣṇu faces toward the sun, it will not be wrong to explain the word *svaḥ* here also as "the sun".
+
+**tṛtīyaṃ nakiḥ ā dadharṣati** — *tṛtīyaṃ kramaṇaṃ dyulokākhyaṃ buddhyā jñātuṃ na ko 'pi martyaḥ śaknotīty arthaḥ* — "no mortal can know with the understanding the third stride, called the heavenly world": that the heavenly world, which has Viṣṇu's third stride, cannot be known by any man, nor by birds that move through the atmosphere, such as Garuḍa, and finally not even by the Maruts: so the sense.
+
+**nakiḥ** — this word is read along with words denoting complete equality [?]. Here the word has a negative sense, and it stresses that nobody can reach Viṣṇu's third step.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *kramaṇe* (root *kramu pādavikṣepe*; *lyuṭ* in the sense of state; *yuvor anākau*, *ana*; *aṭkupvāṅnumvyavāye 'pi* the *ṇatva*; *liti* (Pā. Sū. 6-1-193) the syllable before the suffix *udātta*); *svardṛśaḥ* (root *dṛśir prekṣaṇe*; *kvip*; *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) *kṛdutarapada* accent; genitive sg.); *abhikhyāya* (root *khyā prakathane*; *ktvā*; *samāse 'nañpūrve* (Pā. Sū. 7-1-37) *lyap*; being *pit*, the suffix is *anudātta*); *bhuraṇyati* (root *bhuraṇa gatau*; *kaṇḍvādi*; *bhuraṇyati śavati* (Nir. 2-14 [?]) is read among the verbs of motion; *laṭ* 3rd sg.; *nighāta* since after an *atiṅanta*); *dadharṣati* (root *dhṛṣa śasau vaiyātye*; *leṭ* 3rd sg. *tip*; *bahulaṃ chandasi*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94); the root doubled; guṇa of the light penultimate; *nighāta*); *vayaḥ* (root *vā gatigandhanayoḥ*; *vāter ḍit* (Uṇ. Sū. 4-[?]) *is*; because of *ḍit* the *ṭi* is lost; nominative pl.) …
+
+---
+
+**Progress note:** Sūkta 155 in progress: Ṛk 4 complete; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and most of the grammar done (printed pp. 625–630, PDF 643–648). Next: printed p. 631 (PDF 649) — rest of Ṛk 5 grammar, then Ṛk 6. Open flags: the Special Topics of Ṛk 3 (pp. 617–619) discuss *bhuraṇyati*, *abhikhyāya*, *vayaḥ* — words of Ṛk 5, recorded as printed under Ṛk 3; small-type Tai. Saṃ. passage on p. 624 only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
