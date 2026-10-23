@@ -12915,4 +12915,152 @@ In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", a
 
 ---
 
-**Progress note:** Sūkta 151 in progress: Ṛk 2 finished and Ṛk 3 complete (printed pp. 487–492, PDF 505–510); Ṛk 4 Saṃhitā begun at the foot of p. 492. Next: printed p. 493 (PDF 511). Open flags: small-type bhāṣya partly unread (pp. 481, 489 many `[?]`); Bṛhaddevatā quotation pp. 482–486 low confidence; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+### Printed p. 493  (PDF 511)
+
+*(Header: "A. 2 A. 2 Va. 30" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Ṛk 4 Saṃhitā, continued from p. 492. The Pada below reads *asurā* (not *asura*), so the Saṃhitā "असुर या" printed on p. 492 should read "असुरा या"; the earlier reading "असुर" was a misreading.)*
+
+> युवं दिवो बृहतो दक्षमाभुवं गां न धुर्युप युञ्जाथे अपः ॥ ४ ॥
+
+> *yuvaṃ divo bṛhato dakṣamābhuvaṃ gāṃ na dhuryupa yuñjāthe apaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । सा । क्षितिः । असुरा । या । महि । प्रियः । ऋतऽवानौ । ऋतम् । आ । घोषथः । बृहत् ।
+> युवम् । दिवः । बृहतः । दक्षम् । आऽभुवम् । गाम् । न । धुरि । उप । युञ्जाथे इति । अपः ॥ ४ ॥
+
+> *pra | sā | kṣitiḥ | asurā | yā | mahi | priyaḥ | ṛta 'vānau | ṛtam | ā | ghoṣathaḥ | bṛhat |*
+> *yuvam | divaḥ | bṛhataḥ | dakṣam | ā 'bhuvam | gām | na | dhuri | upa | yuñjāthe iti | apaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the sacrificial ground is well prepared; you who take up the sacrifice, proclaim it; you two yoke the heaven-wide, all-pervading sacrificial work as one harnesses a cow to a load. Small type, read with doubt.)*
+
+> हे असुरा सुरौ [?] बलवन्तौ मित्रावरुणौ युवयोर्या क्षितिर्देवयजनरूपा मही महती प्रिया प्रियकरा प्रीणयित्री वा सा क्षितिः प्र प्रकर्षेण संपादिता । उपसर्गश्रुतेः क्रियाध्याहारः । तामासीदतमिति शेषः । यागभूमिर्देवानां प्रीयते [?] प्रसिद्धेः । अस्माच्च ते हे ऋतवानौ यज्ञवन्तौ युवं बृहत् [?] ऋतं यज्ञमा घोषथः । आस्तेल्येन [?] संपादिते इति स्तुतिमित्यर्थः । यतो ययोर्युवां युवां बृहतो महतो दिवो द्युलोकस्य धुरि दक्षं तर्पणसमर्थम् । अथवा बृहतो दिवो महतो द्युलोकस्य देवान् दक्षं प्रीणयितुमिति शेषः । यद्वा । कर्मणि षष्ठी । दिवो द्योतनात्मकं बृहतः प्रभूतं दक्षमभिमतसाधनसमर्थम् । आभुवं सर्वतो भवनशीलमपः कर्म सोमयागादिरूपमुप युञ्जाथे सेवेथे तत्कर्म हविः स्वीकुरुथ इत्यर्थः । दृष्टान्तः । धुरि शरीरबलस्य निर्वाहे [?] गां न धेनुमिव । उसे योजयन्ते तद्वत् । यद्वा । विकारे प्रकृतिशब्दः । क्षीरादिकमिव । तस्मात्तेन घोषथः ॥
+
+> *he asurā surau [?] balavantau mitrāvaruṇau yuvayoryā kṣitirdevayajanarūpā mahī mahatī priyā priyakarā prīṇayitrī vā sā kṣitiḥ pra prakarṣeṇa saṃpāditā | upasargaśruteḥ kriyādhyāhāraḥ | tāmāsīdatamiti śeṣaḥ | yāgabhūmirdevānāṃ prīyate [?] prasiddheḥ | asmācca te he ṛtavānau yajñavantau yuvaṃ bṛhat [?] ṛtaṃ yajñamā ghoṣathaḥ | āstelyena [?] saṃpādite iti stutimityarthaḥ | yato yayoryuvāṃ yuvāṃ bṛhato mahato divo dyulokasya dhuri dakṣaṃ tarpaṇasamartham | athavā bṛhato divo mahato dyulokasya devān dakṣaṃ prīṇayitumiti śeṣaḥ | yadvā | karmaṇi ṣaṣṭhī | divo dyotanātmakaṃ bṛhataḥ prabhūtaṃ dakṣamabhimatasādhanasamartham | ābhuvaṃ sarvato bhavanaśīlamapaḥ karma somayāgādirūpamupa yuñjāthe sevethe tatkarma haviḥ svīkurutha ityarthaḥ | dṛṣṭāntaḥ | dhuri śarīrabalasya nirvāhe [?] gāṃ na dhenumiva | use yojayante tadvat | yadvā | vikāre prakṛtiśabdaḥ | kṣīrādikamiva | tasmāttena ghoṣathaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *asurā* — O powerful Mitra-Varuṇa; *yā* — which sacrificial ground; *mahi* — great; *priyaḥ* — dear, (is); *sā* — that earth in the form of the sacrifice; *pra* — has been supremely well prepared; *ṛtavānau* — you who accept the sacrifice; *bṛhat* — widely;
+
+### Printed p. 494  (PDF 512)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(Pratipadārtha continued:)* *ṛtam* — (our) sacrifice; *ā ghoṣathaḥ* — (declare, announce that it has been performed splendidly); *yuvam* — you two; *bṛhataḥ* — of the vast; *divaḥ* — of the region of heaven …; *dakṣam* — (capable) of satisfying (living beings); *ābhuvam* — pervading all regions; *apaḥ* — the rite (in the form of the Soma sacrifice); [or *divaḥ* — shining; *bṛhataḥ* — very great; *dakṣam* — capable (of supplying what is wished); *ābhuvam apaḥ* — the all-pervading sacrificial rite]; *dhuri* — in the yoke/burden; *gāṃ na* — as one joins a cow; [or as one joins milk-products with the cow]; *upa yuñjāthe* — you join together.
+
+**भावार्थः (Bhāvārtha).** O powerful Mitra and Varuṇa, the great and pleasing sacrificial ground has been supremely well prepared. You who accept the sacrifice, announce our sacrifice, widely performed, as performed with the sacrifice's splendour. You two, moreover, join together the sacrificial rite — able to supply what is wished and pervading all regions — with the vast heaven, for the satisfaction of the gods, as one joins milk with the cow, together.
+
+**English Translation (as printed).** Powerful divinities, most acceptable to you both is that spot, (where you are worshipped): accepters of sacrifice, proclaim the great ceremoney [sic] (as duly performed); for you two connect the efficacious and comprehensive rite with the vast heaven, like a cow with a burthen.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **असुरा** — *asurau balavantau mitrāvaruṇau* (powerful Mitra and Varuṇa): the word *asura* is given the sense "possessed of power". In contexts where this power is displayed, the word is used with a sense suited to the particular place. For example:
+
+> अर्चा दिवे बृहते शूष्यं वचः स्वक्षत्रं यस्य धृषतो धृषन्मनः ।
+> बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः ॥
+
+> *arcā dive bṛhate śūṣyaṃ vacaḥ svakṣatraṃ yasya dhṛṣato dhṛṣanmanaḥ |*
+> *bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ ‖*
+
+(Ṛ. Saṃ. 1-54-3 [?].) In this Ṛk the word *asura* is an epithet of Indra. Here *asuraḥ śatrūṇāṃ nirasitā* (the thrower-down of enemies); or *asuḥ* = life (breath) or strength, and *asura* = one who has it (*-ra* in the possessive sense); or "one who gives those (waters)" [as printed, partly uncertain]; …
+
+### Printed p. 495  (PDF 513)
+
+*(Header: "A. 2 A. 2 Va. 30" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+… "one who drives away enemies" is the meaning. Or, since *asu* has the meanings life (breath) and strength, "one who has life, one who has strength". Or *asu* = waters; since he gives them, *asura* is an epithet of Indra. Since Indra has many and various powers, the word can be an epithet of him in all these senses.
+
+> प्र वेधसे कवये वेद्याय गिरं भरे यशसे पूर्व्याय ।
+> घृतप्रसत्तो असुरः सुशेवो रायो धर्ता धरुणो वस्वो अग्निः ॥
+
+> *pra vedhase kavaye vedyāya giraṃ bhare yaśase pūrvyāya |*
+> *ghṛtaprasatto asuraḥ suśevo rāyo dhartā dharuṇo vasvo agniḥ ‖*
+
+(Ṛ. Saṃ. 5-[?]-[?], numerals not legible.)
+
+> अहा यदिन्द्र सुदिना व्युच्छान् यो यक्षेतुमुपमं सनुत्सु ।
+> न्यग्निं सीददसुरो न होता हुवानो अत्र सुभगाय देवान् ॥
+
+> *ahā yadindra sudinā vyucchān yo yakṣetumupamaṃ sanutsu |*
+> *nyagniṃ sīdadasuro na hotā huvāno atra subhagāya devān ‖*
+
+(Ṛ. Saṃ. 7-[?]-[?], numerals not legible.) In such Ṛks the word is used of Agni in the sense "powerful". In Ṛ. Saṃ. 1-54-3 [?] and similar Ṛks it means "intelligent" ("*prajñāvān*"); in 1-114-3 [?] and similar, "munificent"; in 4-[?]-[?] and similar, "the year, time-self" in the sense of time; in 8-[?]-[?] and similar, as a synonym of cloud; in 10-[?]-[?] and similar Ṛks, as a synonym of demon (*daitya*).
+
+> वि सुपर्णो अन्तरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः ।
+> क्वेदानीं सूर्यः कश्चिकेत कतमां द्यां रश्मिरस्या ततान ॥
+
+> *vi suparṇo antarikṣāṇyakhyadgabhīravepā asuraḥ sunīthaḥ |*
+> *kvedānīṃ sūryaḥ kaściketa katamāṃ dyāṃ raśmirasyā tatāna ‖*
+
+(Ṛ. Saṃ. 1-35-7 [?].) Here *āsuraḥ sarveṣāṃ prāṇadaḥ* — "the giver of life to all" — is an epithet of the sun.
+
+> आव ते हेळो वरुण नमोभिरव यज्ञेभिरीमहे हविर्भिः ।
+> क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ॥
+
+> *āva te heḷo varuṇa namobhirava yajñebhirīmahe havirbhiḥ |*
+> *kṣayannasmabhyamasura pracetā rājannenāṃsi śiśrathaḥ kṛtāni ‖*
+
+(Ṛ. Saṃ. 1-24-14 [?].) In this Ṛk, *abhipta-kṣepaṇa-śīlaḥ* — "one whose nature is to cast off what is undesired" [as printed, uncertain]; since he has the power to destroy what is unwished, the epithet *asura* belongs to Varuṇa. In the present Ṛk too, *balavantau mitrāvaruṇau* — "O Mitra-Varuṇa, possessed of manifold power" — is the address.
+
+**ऋतवानौ** — *ṛtavantau*. Possessing *ṛta* means "having the rule that is *ṛta*" or "having the sacrifice". The connection of Mitra-Varuṇa with *ṛta* has been explained at length earlier.
+
+### Printed p. 496  (PDF 514)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151". Grammar page, noted briefly.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 4).** *asurā* (root *asu kṣepaṇe*; *asser uran* (Uṇ. Sū. 1-[?]) *uran* suffix; vocative dual: *supāṃ sulug* (Pā. Sū. 7-1-39) *ā* for the ending; *āmantritasya ca* (Pā. Sū. 6-1-198): *nighāta* accent); *mahi* (root *mah pūjāyām*; *sarvadhātubhya in* *in* suffix; *ñniṣṭhaśa* … first-*udātta* accent); *ṛtavānau* (*ṛtam asti anayoḥ*; *chandasi vanip ca* — *vanip* in the sense of *matup*; lengthening by *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137); no *āmantrita*-*nighāta* since at the head of the *pāda*; *āmantritasya* (Pā. Sū. 6-1-198) first *udātta*); *ghoṣathaḥ* (root *ghuṣir viśabdane*; *laṭ* 2nd dual; *nighāta* since after an *atiṅanta*); *yuvam* (*prathamāyāś ca dvivacane bhāṣāyām* (Pā. Sū. 7-2-88) — *āva* only in the language, so not here; *śeṣe lopaḥ* (Pā. Sū. 7-2-90) loss of the part after *ma*); *bṛhataḥ* (genitive sg.; *bṛhanmahator upasaṃkhyānam* — the case-ending is *udātta*); *dhuri* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) — locative ending *udātta*); *yuñjāthe* (root *yujir yoge*; *rudhādi*; *laṭ* 3rd dual; *ātāṃ ṭhāsāthām* … *āthām* ending; *iṭo 't*; *rudhādibhyaḥ śnam* (Pā. Sū. 3-1-78) *śnam* suffix; *śnasor allopaḥ* (Pā. Sū. 6-4-111) loss of the *a*; *n* → *anusvāra*, *parasavarṇa*; *tiṅ*: *nighāta*).
+
+### Printed p. 497  (PDF 515)
+
+*(Header: "A. 2 A. 2 Va. 30" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> मही अत्र महिना वारमृण्वथोऽरेणवस्तुज आ सद्मन्धेनवः ।
+> स्वरन्ति ता उपरताति सूर्यमा निम्रुच उषसस्तक्वनीरिव ॥ ५ ॥
+
+> *mahī atra mahinā vāramṛṇvatho 'reṇavastuja ā sadmandhenavaḥ |*
+> *svaranti tā uparatāti sūryamā nimruca uṣasastakvanīriva ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> मही इति । अत्र । महिना । वारम् । ऋण्वथः । अरेणवः । तुजः । आ । सद्मन् । धेनवः ।
+> स्वरन्ति । ताः । उपरऽताति । सूर्यम् । आ । निम्रुचः । उषसः । तक्वनीःऽइव [?] ॥ ५ ॥
+
+> *mahī iti | atra | mahinā | vāram | ṛṇvathaḥ | areṇavaḥ | tujaḥ | ā | sadman | dhenavaḥ |*
+> *svaranti | tāḥ | upara 'tāti | sūryam | ā | nimrucaḥ | uṣasaḥ | takvanīḥ 'iva [?] ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Mitra-Varuṇa, here on earth you drive the cattle to their dear stall; the cows return to the stall unharmed and cry to the sun at dusk and dawn. Small type, read with doubt.)*
+
+> हे मित्रावरुणौ युवां मही महत्यौ [?] ॥ सप्तम्येकवचने पूर्वसवर्णदीर्घः । ईदूतौ च सप्तम्यर्थे । पा. १-१-१९ । इति प्रगृह्यत्वम् । अत्रास्यां पृथिव्यां महिना महत्त्वेन यो धेनूनां वारं वरणीयं प्रदेशं ऋण्वथः गमयथः ॥ अन्तर्भावितण्यर्थः । गमनादिव्यवहारस्य तयोर्हीनत्वात् द्यावापृथिव्योरभिमानिदेवतात्वाच्च मित्रावरुणयोः । ता एता धेनवो गावः सायंकाले युष्मन्महत्त्वेन [?] ...रेणवो रेणुरहिताः [?] तुजः क्षीरदातारः [?] सद्मन् गृहे आ[?] ...प्रापिताः सत्यः स्वरन्ति शब्दं कुर्वन्ति । उपरताति उपरतातौ [?] उपरमकाले सायंकाले सूर्यमा सूर्यं प्रति । निम्रुचः निम्लोचन [?]कालाः [?] उषसः उषःकाले च । स्वरन्ति ... तक्वनीरिव तक्वा स्तेनः । तस्य वेत्ता गन्ता मनुष्यः । स यथा क्रोशति तद्वत् । एवं निरुद्धानां गवां सुखचारो युष्मद्दायत्त इति तयोः स्तुतिः ॥
+
+> *he mitrāvaruṇau yuvāṃ mahī mahatyau [?] ‖ saptamyekavacane pūrvasavarṇadīrghaḥ | īdūtau ca saptamyarthe | pā. 1-1-19 | iti pragṛhyatvam | atrāsyāṃ pṛthivyāṃ mahinā mahattvena yo dhenūnāṃ vāraṃ varaṇīyaṃ pradeśaṃ ṛṇvathaḥ gamayathaḥ ‖ antarbhāvitaṇyarthaḥ | gamanādivyavahārasya tayorhīnatvāt dyāvāpṛthivyorabhimānidevatātvācca mitrāvaruṇayoḥ | tā etā dhenavo gāvaḥ sāyaṃkāle yuṣmanmahattvena [?] ...reṇavo reṇurahitāḥ [?] tujaḥ kṣīradātāraḥ [?] sadman gṛhe ā[?] ...prāpitāḥ satyaḥ svaranti śabdaṃ kurvanti | uparatāti uparatātau [?] uparamakāle sāyaṃkāle sūryamā sūryaṃ prati | nimrucaḥ nimlocana [?]kālāḥ [?] uṣasaḥ uṣaḥkāle ca | svaranti ... takvanīriva takvā stenaḥ | tasya vettā gantā manuṣyaḥ | sa yathā krośati tadvat | evaṃ niruddhānāṃ gavāṃ sukhacāro yuṣmaddāyatta iti tayoḥ stutiḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** (O Mitra-Varuṇa) *mahī* — vast; *atra* — here on this earth; *mahinā* — by your greatness; (*dhenoḥ* — of cattle); *vāram* — to the dear (pen)
+
+### Printed p. 498  (PDF 516)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(Pratipadārtha continued:)* *ṛṇvathaḥ* — you bring; *dhenavaḥ* — those cows; *areṇavaḥ* — unharmed (by thieves and the like), or not stolen; *tujaḥ* — as givers of milk; *sadman* — in the pens; *ā* — come and gather; *tāḥ* — such cows; *nimrucaḥ* — at evenings; *uṣasaḥ* — at dawn also; *ā sūryam* — towards the sun; *takvanīr iva* [?] — as one who detects a thief (cries out loudly for the help of others); *svaranti* — cry out (for the light needed for their pleasant movement).
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, you bring the cows, which have gone to graze over this wide earth, by your greatness to the pen dear to them. Those cows, unharmed by thieves, giving milk, return to the pens; at evening and at dawn they cry out towards the sun for light, for the help of … as one who detects a thief cries out.
+
+**English Translation (as printed; begins thus on the page).** you bring (the cattle) to their acceptable (pasture) upon earth, whence the milk-yielding cows, protected by your power, return unharmed to their stalls: they cry to the sun (in heaven) above, both at evening and at dawn, as one (cries aloud) who detects a thief.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **आरेणवः** — The word *reṇu* means dust. In an extended sense the word is used for dirt, impurity, sin and the like. The word *areṇavaḥ* qualifies the *antarikṣa* (atmosphere): "the atmosphere free of dust". It is also used in the sense "inviolable, not liable to harm".
+
+> आव स्वयुक्ता दिव आ वृथा ययुरमर्त्याः कशया चोदत त्मना ।
+> अरेणवस्तु विजाता अचुच्यवुर्ध्वानि जिन्मरुतो भ्राजदृष्टयः ॥
+
+> *āva svayuktā diva ā vṛthā yayuramartyāḥ kaśayā codata tmanā |*
+> *areṇavastu vijātā acucyavurdhvāni jinmaruto bhrājadṛṣṭayaḥ ‖*
+
+(Ṛ. Saṃ. 1-168-5 [?].) In this Ṛk the word *areṇavaḥ* is an epithet of the Maruts: "free from toil, sinless, pure of self".
+
+---
+
+**Progress note:** Sūkta 151 in progress: Ṛk 4 complete and Ṛk 5 under way (printed pp. 493–498, PDF 511–516; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English on pp. 497–498; its Special Topics begin on p. 498 and continue). Next: printed p. 499 (PDF 517). Open flags: small-type bhāṣya partly unread (p. 493, p. 497 many `[?]`); Pada word *takvanīḥ* [?]; Ṛg reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
