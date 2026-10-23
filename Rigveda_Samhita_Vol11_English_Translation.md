@@ -17004,4 +17004,84 @@ In this passage the sun, the life-breath of all beings, is described as of unive
 
 ---
 
-**Progress note:** Sūkta 155 in progress: Ṛk 5 complete; Ṛk 6 (last Ṛk) Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and its Special Topics through the Keith quotations and the Praśna Upaniṣad quote done (printed pp. 631–636, PDF 649–654). Next: printed p. 637 (PDF 655) — rest of Ṛk 6 Special Topics, grammar, closing line of Sūkta 155, then Sūkta 156. Open flags: Ṛk 3 Special Topics (pp. 617–619) discuss words of Ṛk 5, recorded as printed; small-type Tai. Saṃ. (p. 624) and Śa. Brā. (p. 635) passages only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 637  (PDF 655)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 6 continue. The print has dotted lines in the first quotation.)*
+
+> संवत्सरो वै प्रजापतिस्तस्यायने दक्षिणं चोत्तरं च । … ॥
+
+> *saṃvatsaro vai prajāpatistasyāyane dakṣiṇaṃ cottaraṃ ca | … ‖*
+
+> पञ्चपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणम् ।
+> अथेमे अन्य उपरे विचक्षणं सप्तचक्रे षळर आहुरर्पितम् ॥
+
+> *pañcapādaṃ pitaraṃ dvādaśākṛtiṃ diva āhuḥ pare ardhe purīṣiṇam |*
+> *atheme anya upare vicakṣaṇaṃ saptacakre ṣaḷara āhurarpitam ‖*
+
+(Repetition of R. V. 1-164-12, as printed.)
+
+> मासो वै प्रजापतिस्तस्य कृष्णपक्ष एव रयिः शुक्लः प्राणः । अहोरात्रो वै प्रजापतिस्तस्याहरेव प्राणो रात्रिरेव रयिः ।
+
+> *māso vai prajāpatistasya kṛṣṇapakṣa eva rayiḥ śuklaḥ prāṇaḥ | ahorātro vai prajāpatistasyāhareva prāṇo rātrireva rayiḥ |*
+
+(Praśna Upaniṣad 1-9 to 13, as printed.)
+
+In such sentences the identity of day-and-night, the month and the fortnights with Prajāpati is stated, and it is said that all the parts of time are parts of Prajāpati. Thus in all the śruti sentences quoted above the relation of part and whole between time and Prajāpati is told, and in the present Ṛk the relation of part and whole between time and Viṣṇu is told; one can see this without doubt [?]; and sentences expressing the identity of both — "Prajāpati is the sun-natured; Viṣṇu too is sun-natured" — can be seen:
+
+> एष ब्रह्मैष इन्द्र एष प्रजापतिरेते सर्वे देवा इमानि च पञ्च महाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव ॥
+
+> *eṣa brahmaiṣa indra eṣa prajāpatirete sarve devā imāni ca pañca mahābhūtāni pṛthivī vāyurākāśa āpo jyotīṃṣītyetānīmāni ca kṣudramiśrāṇīva ‖*
+
+(Aitareya Upaniṣad 3-3, as printed.)
+
+> देवो वरुणः प्रजापतिः सविता ।
+
+> *devo varuṇaḥ prajāpatiḥ savitā |*
+
+(Bhā. U. 1-13-3 [?], as printed.)
+
+In such sentences Prajāpati is described as the Self of all. As Sāyaṇa calls the sun-natured Viṣṇu the Self of all, so in these sentences the sun-natured Prajāpati is called the Self of all. The sun is of the nature of time — the support of time and the impeller of all time-bound activity. Therefore Sāyaṇa's answer is that the sun-natured Viṣṇu carries on his own revolution and the revolutions of the times as a single unit; and it is supported by the sentence *athavā svabhramaṇānadhīnatvād itareṣāṃ paribhramaṇasya | ataḥ svayaṃ bhramatīty ucyate*.
+
+**vimimānaḥ** — *vividham ātmānaṃ mimānaḥ devatiryagādirūpatayā vibhajya sthāpayan* [?]: it is explained that he develops his subtle Self-principle in the forms of gods, animals and so on and establishes it in different forms. The sense: himself undergoing various transformations, he, though one in the root, attains in his working form numerous states and changes of form.
+
+---
+
+### Printed p. 638  (PDF 656)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *caturbhiḥ* (by *jhalyopottyam*-type sūtra (Pā. Sū. 6-1-[?]) the *jhal*-initial ending is *udātta*; read doubtfully [?]); *vyatīn* (*vi* prefix; root *ata sātatyagamane*; *in sarvadhātubhyaḥ* — *in* suffix; *nit*: first *udātta*; nominative pl.); *vṛttam* (root *vṛtu vartane*; *niṣṭhā*, *kta*; being *kit*, no guṇa of the light penultimate; suffix accent); *avīvipat* (root *ṭvepṛ kampane*; *hetumati ca* — *ṇic*; after the *ṇijanta* *luṅ*; 3rd sg. *ti*; *itaś ca* loss of *i*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. Sū. 3-1-48) *caṅ* in the agent sense; *nau caṅy upadhāyā hrasvaḥ* (Pā. Sū. 7-4-1) shortening of the penultimate; *caṅi* (Pā. Sū. 6-1-11) doubling; *sanvallaghuni caṅpare* (Pā. Sū. 7-4-93) *sanvadbhāva*, so *dīrgho laghoḥ* (Pā. Sū. 7-4-94) lengthening of the reduplicate; *ṇeraniṭi* loss of *ṇic*; *aḍ*-augment to the stem; *nighāta* since after an *atiṅanta*); *bṛhacchārīraḥ* (*bṛhat śarīraṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) prior-member accent); *vimimānaḥ* (root *māṅ māne*; *juhotyādi*; *śānac* in the sense of *ārdhadhātuka* [?]; *ślau* doubling; *bhṛñām it* (Pā. Sū. 7-4-76) *i* for the reduplicate; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*; in the *prādi* compound *kṛdutarapada* accent); *ṛkvabhiḥ* (root *ṛca stutau*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) *kvanip*; by *vṛtyaya* *kutva*; being *pit*, the suffix is *anudātta*); *akumāraḥ* (*na kumāraḥ akumāraḥ*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) prior-member accent of *nañ*); *āhavam* (*āṅ* prefix; root *hveñ spardhāyāṃ śabde ca*; by *vyatyaya* *ap* in the sense of action; *bahulaṃ chandasi* *saṃprasāraṇa*; *pūrvarūpa*; the *a*-sound …
+
+---
+
+### Printed p. 639  (PDF 657)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar, concluded; noted briefly.)* … *āva*-substitution [?]; in the compound the *kṛdutarapada* accent. Or else, by *ājuddhe* (Pā. Sū. 3-3-23 [?]) the *ap* suffix that comes there is here too by *vyatyaya*. ‖ 6 ‖
+
+*(Printed closing line:)* **Here ends the 155th Sūkta.**
+
+---
+
+## Sūkta 156
+
+---
+
+### Printed p. 639  (continued; PDF 657)
+
+*(The Kannada heading reads "The 156th Sūkta". An ornament and a rule precede it.)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of five Ṛks beginning "Bhavā mitro" is the seventeenth sūkta, of Dīrghatamas, Jagatī metre [?], Viṣṇu deity; the Anukramaṇī says "bhava pañca"; used at the third pressing of the *ukthya* rite by the Acchāvāka, by the Āśvalāyana Śrauta-sūtra passages cited; in the Soma-related *caru* oblations offered with ghee the Ṛk "uru viṣṇo vi kramasva" is the *yājyā*, and on the tenth day *bhavā mitro* is used in its place. Small type, read with doubt.)*
+
+> भवा मित्र इति पञ्चर्चं सप्तदशं सूक्तं दैर्घतमसं । जागतं [?] … वैष्णवं । भव पञ्चेत्यनुक्रान्तम् । उक्थ्ये तृतीयसवनेऽच्छावाकशस्त्रे विनियुक्तम् । उक्थ्ये तु होत्रकाणामिति खण्डे सूत्रितम् । भवा मित्रः सं नां कर्मणा । आ. ६-१ इति ॥ सौम्यचरोरुभयतो घृतेन यष्टव्यं तत्रोपरितने घृतयागे उरु विष्णो वि क्रमस्वेति प्राकृता याज्या । दशमेऽहनि तु तस्याः स्थाने भवा मित्र इत्येषा प्रयोक्तव्या । दशमेऽहनीति खण्डे सूत्रितम् । उरु विष्णो वि क्रमस्वेति घृतयाज्यास्थाने भवा मित्रः । आ. ८-१३ इति ॥
+
+> *bhavā mitra iti pañcarcaṃ saptadaśaṃ sūktaṃ dairghatamasaṃ | jāgataṃ [?] … vaiṣṇavaṃ | bhava pañcetyanukrāntam | ukthye tṛtīyasavane 'cchāvākaśastre viniyuktam | ukthye tu hotrakāṇāmiti khaṇḍe sūtritam | bhavā mitraḥ saṃ nāṃ karmaṇā | ā. 6-1 iti ‖ saumyacarorubhayato ghṛtena yaṣṭavyaṃ tatroparitane ghṛtayāge uru viṣṇo vi kramasveti prākṛtā yājyā | daśame 'hani tu tasyāḥ sthāne bhavā mitra ityeṣā prayoktavyā | daśame 'hanīti khaṇḍe sūtritam | uru viṣṇo vi kramasveti ghṛtayājyāsthāne bhavā mitraḥ | ā. 8-13 iti ‖*
+
+**Anuvāda (Kannada summary).** The sūkta *bhavā mitre* is the seventeenth sūkta in the twenty-first anuvāka. It has five Ṛks. The ṛṣi of the sūkta is Dīrghatamas, son of Ucathya; the deity is Viṣṇu; the metre is Jagatī. The Anukramaṇī says *bhava pañca*. In the rite called *ukthya*, at the third pressing, the priest named Acchāvāka is to recite this sūkta, as set out in the Āśvalāyana Śrauta-sūtra, in the section *ukthye tu hotrakāṇām*, by the sūtra *bhavā mitraḥ saṃ nāṃ karmaṇā* (Ā. 6-1). In the two *caru* oblations to be made in connection with Soma, ghee is to be used; in this *ghṛta*-offering the Ṛk *uru viṣṇo vi kramasva* is to be used as the ordinary *yājyā* mantra; but on the tenth day, instead of that Ṛk, the Ṛk *bhavā mitre* is to be used, as the sūtra in the section *daśame 'hani* of the Āśvalāyana Śrauta-sūtra, *uru viṣṇo vi kramasveti ghṛtayājyāsthāne bhavā mitre*, prescribes (Ā. 8-13).
+
+---
+
+**Progress note:** Sūkta 155 complete (printed pp. 599–639); Sūkta 156 begun: heading, Anukramaṇī and Anuvāda on printed p. 639 (PDF 657). Next: printed p. 640 (PDF 658) — Sūkta 156 title page, Saṃhitā and Ṛk 1. Open flags: Ṛk 3 Special Topics of Sūkta 155 (pp. 617–619) discuss words of Ṛk 5, recorded as printed; small-type Tai. Saṃ. (p. 624) and Śa. Brā. (p. 635) passages only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
