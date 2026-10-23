@@ -17386,4 +17386,158 @@ Since the Nirukta has the statement *cid ity eṣo 'nekakarmā* (1-4 [?]), this 
 
 ---
 
-**Progress note:** Sūkta 156 in progress: Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (printed pp. 646–651, PDF 664–669). Next: printed p. 652 (PDF 670) — Ṛk 3 English and Special Topics, grammar, then Ṛks 4–5. Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 652  (PDF 670)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+**English Translation (as printed; heading "English Tranlation" [sic]).** Hymners, propitiate of your own accord that ancient Vishnu, since you know him as the germ of sacrifice; cognizant of his greatness, celebrate his name: may we, Vishnu, enjoy your favour.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** The qualities of Viṣṇu described in this Ṛk are described in the same order in the Taittirīya-Brāhmaṇa (Tai. Brā. 3-9-4-3 [?]). But there, in place of *januṣā pipartana* in this Ṛk, the Brāhmaṇa reads *haviṣā pipartana*, and in place of *mahas te viṣṇo* it reads *bṛhat te viṣṇo*, with slight changes.
+
+**ṛtasya garbham** — this has been explained in two ways. First, *yajñasya garbhabhūtaṃ yajñātmatvenotpannam ity arthaḥ | yajño vai viṣṇur iti śruteḥ* — "born as the womb of the sacrifice, in the nature of sacrifice, since the śruti says 'the sacrifice is Viṣṇu'": since there is śruti that the sacrifice is Viṣṇu, one sense is "womb of such a sacrifice-form *ṛta*". Second, *ṛtasya udakasya garbhaṃ garbhakāraṇaṃ | udakotpādakam ity arthaḥ | āpa eva sasarjādāv iti smṛteḥ* — "producer of water": since *ṛta* means water, another sense is "the cause of the germ of water". Since the word *ṛta* has both senses, and since there are śruti sentences supporting both, whichever sense is given fits.
+
+> तद्विष्णुः प्रथमः प्राप । स देवानां श्रैष्ठ्यमभवत्तस्माद्विष्णुर्देवानां श्रेष्ठ इति । स यः स विष्णुर्यज्ञः सः । स यः स यज्ञोऽसौ स आदित्यः ।
+
+> *tadviṣṇuḥ prathamaḥ prāpa | sa devānāṃ śraiṣṭhyamabhavattasmādviṣṇurdevānāṃ śreṣṭha iti | sa yaḥ sa viṣṇuryajñaḥ saḥ | sa yaḥ sa yajño 'sau sa ādityaḥ |*
+
+(Ai. Brā. 1-1-[?], as printed; numerals doubtful.)
+
+> यज्ञो विष्णुः प्रजापतिः ।
+
+> *yajño viṣṇuḥ prajāpatiḥ |*
+
+(Tai. Saṃ. 6-6-[?] [?], as printed.)
+
+> त्वं यज्ञस्त्वं वषट्कारः ।
+
+> *tvaṃ yajñastvaṃ vaṣaṭkāraḥ |*
+
+(Tai. U. 4-5-3 [?], as printed.)
+
+In such sentences, the identity of sacrifice and Viṣṇu is stated: "the sacrifice is Viṣṇu"; by these the first sense is supported. And,
+
+> आपो ह वा इदमग्रे सलिलमेवास ता अकामयन्त कथं नु प्रजायेमहीति ता अश्राम्यन्तास्तपोऽतप्यन्त तासु तपस्तप्यमानासु हिरण्मयमाण्डं [?]
+
+> *āpo ha vā idamagre salilamevāsa tā akāmayanta kathaṃ nu prajāyemahīti tā aśrāmyantāstapo 'tapyanta tāsu tapastapyamānāsu hiraṇmayamāṇḍaṃ [?]*
+
+---
+
+### Printed p. 653  (PDF 671)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> संबभूवाजातो [?] ह तर्हि संवत्सर आस तदिदं हिरण्मयमाण्डं यावत्संवत्सरस्य वेला तावत्पर्यप्लवत । ततः संवत्सरे पुरुषः समभवत् ॥
+
+> *saṃbabhūvājāto [?] ha tarhi saṃvatsara āsa tadidaṃ hiraṇmayamāṇḍaṃ yāvatsaṃvatsarasya velā tāvatparyaplavata | tataḥ saṃvatsare puruṣaḥ samabhavat ‖*
+
+(Tai. Brā. 1-1-3-10 [?], as printed.)
+
+in such sentences it is said that water was the beginning of creation and that Viṣṇu in the form of Hiraṇyagarbha was its support; therefore the second sense is also supported.
+
+**pipartana** — *pipartti pṛṇāter iti prīṇāti pṛṇīhi vā* [?]: formed from the root *pṛ* "to fill" or *prī* "to please", as told before (Ni. 5-31 [?]). In the present Ṛk the sense is "satisfy Viṣṇu by hymns and so on".
+
+**januṣā** — this word gives the sense *janmamātreṇa*, "by mere birth": in this sense it comes to mean "from all sides, naturally, or by one's own nature". In the present Ṛk: *jananā stute iva na kenacid dalābhādinā* [?] — a prayer in the form of a command: "satisfy him with natural, pure praises, without desire for any fruit".
+
+**nāma cit** — *sarvair namanīyam abhidhānaṃ sārvātmyapratipādakaṃ viṣṇur ity etan nāma* — "the name 'Viṣṇu', to be bowed to by all, showing his all-pervasion": the name which all must revere, and which means the power to contain the whole world within himself, as all-pervading; or, in the other way, *nāma yajñātmanā namanaṃ viṣṇor eva sarveṣāṃ svargāpavargasādhanatveneṣṭyādyātmanā dravya-devatātmanā vā pariṇāmaṃ jānanto vā* [?]: since Viṣṇu is himself of the form of sacrifice, the rites that are the means to heaven and liberation, the materials that are their limbs, and the deities to whom the sacrifice is addressed, are all transformations of Viṣṇu; knowing that all these are parts of Viṣṇu, worship and satisfy him through them: thus another explanation is given.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar pages 653–654, noted briefly).** *stotāraḥ* (root *ṣṭuñ stutau*; *tṛc* in the agent sense; in the vocative plural, when guṇa comes, *aptṛntṛc…* lengthening of the penultimate; *āmantritasya ca* — *nighāta*); *vida* (root *vida jñāne*; *adādi*; *laṭ* 2nd pl. *tha*; *vido laṭo vā* (Pā. Sū. 3-4-83) *a* for *tha*; *sārvadhātukam apit* — being *jit*, no guṇa; because *yathā* is there [?], no *nighāta*; suffix accent: final *udātta*; in *vida + ṛtasya* in the Saṃhitā, *ṛtyaka* (Pā. Sū. 6-1-128) *prakṛtibhāva*); *januṣā* (root *janī prādurbhāve*; *janer usiḥ* — *us*; the *u* is *udātta* by the suffix; instrumental sg.); *pipartana* (root *pṝ pālanapūraṇayoḥ*, or *pṛ*; *juhotyādi*; *loṭ* 2nd pl., *tana* for *ta* (Pā. Sū. 7-1-45); *ślau* doubling; *artipipartyoś ca* (Pā. Sū. 7-4-77) *i* for the reduplicate; being *jit*, guṇa of the root's *ṛ*; *nighāta* since after an *atiṅanta*); *jānantaḥ* (root *jñā avabodhane*; *śatṛ* for *laṭ*; *kryādi* *vikaraṇa*; *jñājanor jā* (Pā. Sū. 7-3-79) *jā* for the root; *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112) loss of the *ā* of the *vikaraṇa*; nominative pl.; first *udātta* of the suffix); *vivaktana* (root *vaca paribhāṣaṇe*; *loṭ* 2nd pl., *tana* as before; *bahulaṃ chandasi* *ślu* for the *vikaraṇa*; *ślau* doubling, and *bahulaṃ chandasi* *i* for the reduplicate; *coḥ kuḥ* *kutva* of the root's *c*; *tiṅ*: *nighāta*); *sumatim* (root *mana jñāne*; *ktin*; *mantre vṛṣeṣapaca…* (Pā. Sū. 3-3-96) *ktin* is *udātta*; since a *prādi* compound, *kṛdutarapada* accent); *bhajāmahe* (root *bhaja sevāyām*; *laṭ* 1st pl.; *tiṅ*: *nighāta*). ‖ 3 ‖
+
+---
+
+### Printed p. 654  (PDF 672)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+*(Grammar of Ṛk 3 continues from p. 653 to the middle of this page — vivaktana, sumatim, bhajāmahe; noted above under p. 653.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तमस्य राजा वरुणस्तमश्विना क्रतुं सचन्त मारुतस्य वेधसः ।
+> दाधार दक्षमुत्तममहर्विदं व्रजं च विष्णुः सखिवाँ अपोर्णुते ॥ ४ ॥
+
+> *tamasya rājā varuṇastamaśvinā kratuṃ sacanta mārutasya vedhasaḥ |*
+> *dādhāra dakṣamuttamamaharvidaṃ vrajaṃ ca viṣṇuḥ sakhivā~ aporṇute ‖ 4 ‖*
+
+---
+
+### Printed p. 655  (PDF 673)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**॥ पदपाठः ॥**
+
+> तम् । अस्य । राजा । वरुणः । तम् । अश्विना । क्रतुम् । सचन्त । मारुतस्य । वेधसः ।
+> दाधार । दक्षम् । उत्तमम् । अहःऽविदम् । व्रजम् । च । विष्णुः । सखिऽवान् । अप । ऊर्णुते [?] ॥ ४ ॥
+
+> *tam | asya | rājā | varuṇaḥ | tam | aśvinā | kratum | sacanta | mārutasya | vedhasaḥ |*
+> *dādhāra | dakṣam | uttamam | ahaḥ 'vidam | vrajam | ca | viṣṇuḥ | sakhi 'vān | apa | ūrṇute [?] ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: Varuṇa and the Aśvins attend the rite of the wise sacrificer with the Marut group; Viṣṇu with his friends holds the highest heaven-giving power and uncovers the cloud. Small type, read with doubt.)*
+
+> अग्नीषोमप्रणयने तमस्य राजेत्येषा प्रयोक्तव्या । अग्नीषोमौ प्रणेष्यन्निति खण्डे सूत्रितम् । तमस्य राजा वरुणस्तमश्विनेत्यर्धर्चे आरभेत् । आ. ४-१० इति ॥ मारुतस्य मरुतां संघातो मारुतं तद्वतः [?] मरुतां देवानां संबन्धिनो वा वेधसो मेधाविनोऽस्य यजमानस्य तं प्रसिद्धं क्रतुं यागं यज्ञात्मकं विष्णुम् । यज्ञो वै विष्णुरिति श्रुतेः । राजा राजमानो वरुणः सचन्ते सेवते तमेव क्रतुं यागमस्मिन्नश्विना [?] सचेते सेवेते अन्येऽपि देवाः सचन्ते सेवन्ते । किंच विष्णुः सवनत्रयव्यापी विष्णुः सखिवान् यजमानादिसखिभिर्युक्तः सन् उत्तममुत्कृष्टतममहर्विदं स्वर्गोत्पादकमित्यर्थः । दक्षं बलं फलप्रदानसामर्थ्यरूपं दाधार । धृतवान् । किंच व्रजं च मेघं च । व्रज इति मेघनाम पठितं तस्मात् [?] । तं वृष्ट्यर्थं अपोर्णुते अपावृणोति । अहस्तनस्य … [?] । स च सखिवानिन्द्रमरुदादिसहायोपेतः सन् वृष्ट्युत्पादनादिसामर्थ्यरूपं बलं दाधार । तथा व्रजं चापोर्णुते ॥
+
+> *agnīṣomapraṇayane tamasya rājetyeṣā prayoktavyā | agnīṣomau praṇeṣyanniti khaṇḍe sūtritam | tamasya rājā varuṇastamaśvinetyardharce ārabhet | ā. 4-10 iti ‖ mārutasya marutāṃ saṃghāto mārutaṃ tadvataḥ [?] marutāṃ devānāṃ saṃbandhino vā vedhaso medhāvino 'sya yajamānasya taṃ prasiddhaṃ kratuṃ yāgaṃ yajñātmakaṃ viṣṇum | yajño vai viṣṇuriti śruteḥ | rājā rājamāno varuṇaḥ sacante sevate tameva kratuṃ yāgamasminnaśvinā [?] sacete sevete anye 'pi devāḥ sacante sevante | kiṃca viṣṇuḥ savanatrayavyāpī viṣṇuḥ sakhivān yajamānādisakhibhiryuktaḥ san uttamamutkṛṣṭatamamaharvidaṃ svargotpādakamityarthaḥ | dakṣaṃ balaṃ phalapradānasāmarthyarūpaṃ dādhāra | dhṛtavān | kiṃca vrajaṃ ca meghaṃ ca | vraja iti meghanāma paṭhitaṃ tasmāt [?] | taṃ vṛṣṭyarthaṃ aporṇute apāvṛṇoti | ahastanasya … [?] | sa ca sakhivānindramarudādisahāyopetaḥ san vṛṣṭyutpādanādisāmarthyarūpaṃ balaṃ dādhāra | tathā vrajaṃ cāporṇute ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *mārutasya* — joined with the company of priests; *vedhasaḥ* — and wise; *asya* — of the sacrificer; *taṃ* — that well-known; *kratum* — sacrifice, or Viṣṇu who is the sacrifice; *rājā* — the shining; *varuṇaḥ* — Varuṇa; *sacante* — attends; *taṃ* — that same, or that same Viṣṇu; *aśvinā* — the Aśvins (attend); *viṣṇuḥ* — Viṣṇu, pervading in the form of the three pressings; *sakhivān* — joined with the sacrificer and others as friends, or with his friend Indra; *uttamam* — supreme; *aharvidam* — heaven-producing; *dakṣam* — power; *dādhāra* — has held; *vrajaṃ ca* — and the cloud also; *apornute* — (for rain) uncovers, making it free of covering.
+
+**भावार्थः (Bhāvārtha).** The shining Varuṇa attends the well-known sacrifice of the wise sacrificer, joined with the company of priests. The Aśvins too attend it. Viṣṇu, pervading in the form of the three pressings, joined with the sacrificer and others as friends, holds the supreme power that produces heaven; and he also uncovers the cloud for rain.
+
+---
+
+### Printed p. 656  (PDF 674)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 156".)*
+
+**English Translation (as printed).** The royal Varuna associates (himself) with the sacrifice of the pious worshipper, assisted by the company of the priests: the Aswins (unite with it): Vishnu, with his friend (Indra), possesses supreme heaven-conferring power, and sits upon the clouds.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** In the *agnīṣomapraṇayana* rite this Ṛk *tam asya rājā* is to be recited, as the Āśvalāyana Śrauta-Sūtra says in the section *agnīṣomau praṇeṣyan* by the sūtra *tam asya rājā varuṇas tam aśvinety ardharce ārabheta* (Ā. 4-10).
+
+In this Ṛk the relation of Viṣṇu, who is the sacrifice, with Varuṇa, and of Viṣṇu with the Aśvins, is told, and the power in Viṣṇu to produce heaven and so on is praised.
+
+**rājā varuṇaḥ sacante** — "the shining Varuṇa attends": the place of Varuṇa in the sacrificial action is told. In the optional animal-sacrifices, Varuṇa has an important place. At those times Varuṇa is not only Viṣṇu's helper, but conducts the sacrifice with its parts and subsidiaries and himself obtains a share in the oblation of the sacrifice — this is told in many places in the Saṃhitās and the Brāhmaṇas. For example:
+
+> … देवाश्च वै यमुष्मिन्लोकेऽस्पर्धन्त स यमो देवानामिन्द्रियं वीर्यमयुवत [?] तद्वा अस्य यमत्वं ते देवा अमन्यन्त यमो वा इदमभूद्यद्यज्ञ्स्म [?] इति ते प्रजापतिमुपाधावन्त [?] तेभ्यः प्रजापतिर्गौ [?] … तेन उक्षाणं वशां [?] निरमिमीत ते देवा वैष्णववारुणीं वशामालभन्तेऽमुञ्चाम [?] …
+
+> *… devāśca vai yamuṣminloke 'spardhanta sa yamo devānāmindriyaṃ vīryamayuvata [?] tadvā asya yamatvaṃ te devā amanyanta yamo vā idamabhūdyadyajñsma [?] iti te prajāpatimupādhāvanta [?] tebhyaḥ prajāpatirgau [?] … tena ukṣāṇaṃ vaśāṃ [?] niramimīta te devā vaiṣṇavavāruṇīṃ vaśāmālabhante 'muñcāma [?] …*
+
+---
+
+### Printed p. 657  (PDF 675)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. The signature line "[42]  Vol. 11" is at the foot of the page.)*
+
+> तं वरुणेनैव ग्राहयित्वा विष्णुना यज्ञेन प्राणुदन्तैन्द्रेणैवास्येन्द्रियमवृञ्जत [?] यो भ्रातृव्यवान्स्याद्यं स्पर्धमानो वैष्णववारुणीम् [?] ॥
+
+> *taṃ varuṇenaiva grāhayitvā viṣṇunā yajñena prāṇudantaindreṇaivāsyendriyamavṛñjata [?] yo bhrātṛvyavānsyādyaṃ spardhamāno vaiṣṇavavāruṇīm [?] ‖*
+
+(Tai. Saṃ. 2-1-4-1 [?], as printed.)
+
+Once, when the gods and Yama contended for lordship over this world, Yama took the whole protection of the gods under his control; for that reason he is named Yama [?]. Then the gods, deliberating how to live, went to Prajāpati and asked his help; he fashioned from his own body a cow and a bull. The gods offered that animal to Viṣṇu and Varuṇa as a sacrifice. (The bull they offered to Indra.) Then Viṣṇu, who is the sacrifice, and Varuṇa bound Yama's movement and drove him away. Therefore, when contending with enemies, the animal oblation is to be offered to Viṣṇu and Varuṇa; then the enemy is destroyed: so the Taittirīya-Saṃhitā says.
+
+In the same way, in another context, the Aitareya-Brāhmaṇa says that Viṣṇu and Varuṇa became the guardians of different parts of the sacrifice and sharers in the sacrificial portion.
+
+> यययोरोजसा स्कभिता रजांसीति वैष्णववारुणेमृचं शंसति विष्णुर्वै यज्ञस्य दुरिष्टं पाति वरुणः स्विष्टं तयोरुभयोरेव शान्त्यै ।
+
+> *yayayorojasā skabhitā rajāṃsīti vaiṣṇavavāruṇemṛcaṃ śaṃsati viṣṇurvai yajñasya duriṣṭaṃ pāti varuṇaḥ sviṣṭaṃ tayorubhayoreva śāntyai |*
+
+(Ai. Brā. 3-32 [?], as printed.)
+
+The mantra addressed to Viṣṇu and Varuṇa together, "*yayor ojasā skabhitā rajāṃsi*", is directed by the Āśvalāyana Śrauta-Sūtra to be recited at the time of the *vaiśvadeva* rites. The order of this mantra, in Āśvalāyana's sūtra and in the Taittirīya Brāhmaṇa, is as follows:
+
+> यो रोजसा स्कभिता रजांसि वीर्येभिर्वीरतमा शविष्ठा । या पत्येते अप्रतीत्ता सहोभिर्विष्णू अग्न्वरुणा पूर्वहूतौ ॥
+
+> *yo rojasā skabhitā rajāṃsi vīryebhirvīratamā śaviṣṭhā | yā patyete apratīttā sahobhirviṣṇū agnvaruṇā pūrvahūtau ‖*
+
+(Tai. Brā. 3-4-13-? [?], as printed.)
+
+The sense of this mantra is: by the power of which two deities the atmosphere was propped, who are exceedingly vigorous and radiant — may those deities Viṣṇu and Varuṇa come together first. But this Ṛk is not in the Ṛksaṃhitā; it is in the Taittirīya Brāhmaṇa; and only in the Atharva-Saṃhitā (7-69-1) is it found, with a slight difference. Since in the sacrificial rites Viṣṇu sets right whatever faults may be causes of bad results, and since Varuṇa protects the fruit of the sacrifice to be gained by right performance of the rite, it is prescribed that the oblation is to be offered to both these deities. (Ā. Śrau. 3-30 [?].)
+
+---
+
+**Progress note:** Sūkta 156 in progress: Ṛk 3 complete; Ṛk 4 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics) — its grammar page is not yet seen (printed pp. 652–657, PDF 670–675). Next: printed p. 658 (PDF 676) — Ṛk 4 grammar, then Ṛk 5 and the closing of Sūkta 156. Open flags: small-type Brāhmaṇa quotations on pp. 652, 656–657 partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
