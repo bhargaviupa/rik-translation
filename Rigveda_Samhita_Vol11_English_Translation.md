@@ -17754,4 +17754,222 @@ cites this Ṛk and shows the felicity of the use of the word *jinvanti*: as Par
 
 ---
 
-**Progress note:** Sūkta 156 complete (printed pp. 639–667); Sūkta 157 begun: heading and Anukramaṇī on printed p. 667 (PDF 685). Next: printed p. 668 (PDF 686) — Anuvāda of Sūkta 157, title page, Saṃhitā, Ṛk 1. Open flags: long small-type Śatapatha (p. 658) and Taittirīya-Āraṇyaka (p. 659) quotations only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 668  (PDF 686)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic, as printed] Sū. 157".)*
+
+**Anuvāda (Kannada summary).** The sūkta *abodhy agnir jma* is the first sūkta of the twenty-second anuvāka; it has eight sūktas in all [as stated on p. 667]. This sūkta has six Ṛks. Its ṛṣi is Dīrghatamas, son of Ucathya; the deities are the Aśvins; the metre of the first four Ṛks is Jagatī, and the last two are Triṣṭubh. The Anukramaṇī says "*abodhi ṣaḷ āśvinaṃ tryantye triṣṭubhau*". In the morning-recitation (*prātaranuvāka*) of the Aśvina-śastra the sūkta is used as a Jagatī-metre mantra. The Āśvalāyana-śrauta-sūtra, in the khaṇḍa beginning *athāśvine*, explains it by *abodhy agnir jma eṣa sya bhānuḥ* (Ā. 4-13).
+
+*(Title page: "Oṃ. Sūkta 157. Maṇḍala 1, Anuvāka 22, Sūkta 157; Aṣṭaka 2, Adhyāya 3, Varga 3? [?]. Ṛks in the sūkta: 6. Ṛṣi: Dīrghatamā Aucathyaḥ. Devatā: Aśvinau. Chandaḥ: 1–4 Jagatī, 5–6 Triṣṭubh.")*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अबोध्यग्निर्ज्म उदेति सूर्यो व्युषाश्चन्द्रा मह्यावो अर्चिषा ।
+> आयुक्षातामश्विना यातवे रथं प्रासावीद्देवः सविता जगत्पृथक् ॥ १ ॥
+
+> *abodhyagnirjma udeti sūryo vyuṣāścandrā mahyāvo arciṣā |*
+> *āyukṣātāmaśvinā yātave rathaṃ prāsāvīddevaḥ savitā jagatpṛthak ‖ 1 ‖*
+
+*(The first letter is printed in a form that could be read अ or आ [?]; the Anukramaṇī on p. 667 has अबोध्य, which is followed here.)*
+
+---
+
+### Printed p. 669  (PDF 687)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**॥ पदपाठः ॥**
+
+> अबोधि । अग्निः । ज्मः । उत् । एति । सूर्यः । वि । उषाः । चन्द्रा । मही । आवः । अर्चिषा ।
+> अयुक्षातां । अश्विना । यातवे । रथं । प्र । असावीत् । देवः । सविता । जगत् । पृथक् ॥ १ ॥
+
+> *abodhi | agniḥ | jmaḥ | ut | eti | sūryaḥ | vi | uṣāḥ | candrā | mahī | āvaḥ | arciṣā |*
+> *ayukṣātāṃ | aśvinā | yātave | rathaṃ | pra | asāvīt | devaḥ | savitā | jagat | pṛthak ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: Agni has been awakened on the altar-earth; the Sun rises; the great Dawn with her radiance has driven off the darkness; therefore, Aśvins, yoke your chariot to come to the sacrifice, and may Savitṛ impel the moving world, each in its own work. The grammatical notes of the bhāṣya on *vy āvaḥ* (*vasa* [?], *luṅ*, *chāndasa*) are not rendered. Small type; read with doubt.)*
+
+> अयमग्निर्हितः सन् ज्मायाः पृथिव्या वेदिलक्षणायाः सम्बन्धी सन्नबोधि । प्रतिबोधितः । ज्मेति पृथिवीनामसु पठितत्वात् । किञ्च सूर्य उदेति । मही [?] उषा अर्चिषा प्रकृष्टेन तेजसा चन्द्रा प्राणिनामाह्लादिनी सती व्यावः । तमांसि विवासयति । वसेर्लुङ् [?] छान्दसः श्लेर्लुक् [?] । छन्दस्यपि दृश्यत इत्यागमः [?] । यत इयमुषा उदेति यतश्च सूर्योऽयमग्निश्च प्रबुद्धो भवति अतः कारणाद्धे अश्विनौ युष्मत्सम्बन्धिनं रथं यातवे देवयजनगमनाय [?] युष्मदर्थमायुक्षाताम् । अभिमुख्येन युञ्जातां [?] । तथा सविता सर्वकर्मप्रेरकः देवो जगज्जङ्गमं प्राणिजातं पृथक् स्वस्वकर्मानुरोधेन प्रासावीत् । प्रसौतु । अनुजानातु ॥
+
+> *ayamagnirhitaḥ san jmāyāḥ pṛthivyā vedilakṣaṇāyāḥ sambandhī sannabodhi | pratibodhitaḥ | jmeti pṛthivīnāmasu paṭhitatvāt | kiñca sūrya udeti | mahī [?] uṣā arciṣā prakṛṣṭena tejasā candrā prāṇināmāhlādinī satī vyāvaḥ | tamāṃsi vivāsayati | vaserluṅ [?] chāndasaḥ ślerluk [?] | chandasyapi dṛśyata ityāgamaḥ [?] | yata iyamuṣā udeti yataśca sūryo 'yamagniśca prabuddho bhavati ataḥ kāraṇāddhe aśvinau yuṣmatsambandhinaṃ rathaṃ yātave devayajanagamanāya [?] yuṣmadarthamāyukṣātām | abhimukhyena yuñjātāṃ [?] | tathā savitā sarvakarmaprerakaḥ devo jagajjaṅgamaṃ prāṇijātaṃ pṛthak svasvakarmānurodhena prāsāvīt | prasautu | anujānātu ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *agniḥ* — Agni; *jmaḥ* — on the earth in the form of the altar; *abodhi* — has awakened (is blazing); *sūryaḥ* — the Sun; *udeti* — rises; *mahī* — the great; *uṣāḥ* — Dawn; *arciṣā* — with her radiance; *candrā* — (delighting all beings); *vi āvaḥ* — scatters the darkness; (therefore) *aśvinā* — O Aśvins; *rathaṃ* — your chariot; *yātave* — in order to go (to the place of sacrifice); *ayukṣātāṃ* — (the men [?]) have yoked [?] (as such); *devaḥ* — the divine; *savitā* — Savitṛ; *jagat* — all the world; *pṛthak* — (all living beings) each separately, to their own appointed duties; *prāsāvīt* — impels (gives instruction).
+
+**भावार्थः (Bhāvārtha).** Agni is blazing on the altar and the Sun is rising. The great Dawn, delighting all beings with her radiance, has dispersed the darkness. O Aśvins, harness your chariot to come to the place of sacrifice. And may the divine Savitṛ impel the whole world to the duties appointed for each.
+
+---
+
+### Printed p. 670  (PDF 688)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Bhāvārtha concludes: "…Savitṛ, being the divine spirit of the world, ordains that all moving beings do their several works".)*
+
+**English Translation (as printed).** Agni is awakened upon earth: the Sun rises: the spreading dawn, exhilarating (all) by her radiance, has dispersed (the darkness); harness, (therefore), Ashwins, your chariot, to come (to the sacrifice), that the divine Savitri may animate all beings to (the performance of) their several (duties).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** In this sūkta, which is one of the morning-recitation (*prātaranuvāka*) mantras, the Aśvin deities are addressed and prayer is made that they make themselves ready to go to the sacrificial ground. To show that the time is fit for their journey, the blazing of Agni, the appearing of Uṣas and the rising of Sūrya are indicated; from this it is clear that all these acts are simultaneous. These deities are, in some places, called *prātaryāvāṇaḥ devāḥ* — "gods who come to the sacrificial ground in the morning". For example, in the Aitareya-Brāhmaṇa:
+
+> देवेभ्यः प्रातरन्वाकेभ्यो होतरनुब्रूहीत्याध्वर्युः । विते [?] वाव देवाः प्रातरन्वाको यद्रा[?] । अश्विनौ ते वै सप्तभिः सप्तभिश्छन्दोभिरागच्छन्ति [?] । आस्य देवाः प्रातरन्वाको हवं गच्छन्ति य एवं वेद ॥
+
+> *devebhyaḥ prātaranvākebhyo hotaranubrūhītyādhvaryuḥ | vite [?] vāva devāḥ prātaranvāko yadrā[?] | aśvinau te vai saptabhiḥ saptabhiśchandobhirāgacchanti [?] | āsya devāḥ prātaranvāko havaṃ gacchanti ya evaṃ veda ‖*
+
+(Ai. Brā. 2-1? [?].)
+
+The sense: the Adhvaryu gives the Hotṛ the order to recite the *prātaranuvāka* mantras, addressing Agni, Uṣas and the Aśvin deities, so that they come to the sacrifice; and, to say that the mantras so recited are to be accompanied by seven metres, "seven, seven metres" is enjoined (*saptabhiḥ saptabhiś chandobhiḥ*; [text hard to read]). The *prātaranuvāka* mantras addressed to these three deities, of which the present sūkta *abodhy agnir jma* is one, are listed in the Āśvalāyana-śrauta-sūtra [under *apo revatīḥ* (4-11? [?]) and the following sūtras]. A summary of those mantras follows (Ṛg-veda pratīkas, references as printed, doubtful):
+
+> उप प्रयन्तो (ऋ. सं. ८-२४-१ [?]) इत्यादिषु गायत्रं छन्दः । 
+> त्वमग्ने वसून् ( „ १-४५-१ [?]) इत्याद्यनुष्टुप्छन्दः ।
+> अबोध्यग्निः ( „ ७-७१-१ [?]) … त्रिष्टुप्छन्दः ।
+
+> *upa prayanto (ṛ. saṃ. 8-24-1 [?]) ityādiṣu gāyatraṃ chandaḥ |*
+> *tvamagne vasūn ( „ 1-45-1 [?]) ityādyanuṣṭupchandaḥ |*
+> *abodhyagniḥ ( „ 7-71-1 [?]) … triṣṭupchandaḥ |*
+
+*(The metre column of this list is printed in small type and is only partly legible [?].)*
+
+---
+
+### Printed p. 671  (PDF 689)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(The list begun on p. 670 continues:)*
+
+> एना वो अग्निं (ऋ. सं. ६-१६-१ [?]) इत्यादिषु बृहती छन्दः ।
+> अग्ने वाजस्य ( „ ६-४८-१ [?]) … उष्णिक् छन्दः ।
+> जनस्य गोपा ( „ ३-११-१ [?]) … जगती छन्दः ।
+> अग्निं तं मन्ये ( „ ५-६-१ [?]) … पङ्क्तिश्छन्दः ।
+
+> *enā vo agniṃ (ṛ. saṃ. 6-16-1 [?]) ityādiṣu bṛhatī chandaḥ |*
+> *agne vājasya ( „ 6-48-1 [?]) … uṣṇik chandaḥ |*
+> *janasya gopā ( „ 3-11-1 [?]) … jagatī chandaḥ |*
+> *agniṃ taṃ manye ( „ 5-6-1 [?]) … paṅktiśchandaḥ |*
+
+*"These are the seven metres of the Agni-kratu (Agni-rite) in the prātaranuvāka" — i.e. seven Ṛks, with seven metres, addressed to the deity Agni in the morning-recitation.* (The Sanskrit tag, as printed: *tān etāni saptachandāṃsy āgneye krato prātaranuvāke draṣṭavyāni* [?].)
+
+> प्रति ष्या सूनरी (ऋ. सं. ४-५२-१ [?]) इत्यादि गायत्री छन्दः ।
+> उषो भद्रेभिः ( „ १-४८-१ [?]) … अनुष्टुप् छन्दः ।
+> इदं श्रेष्ठं ( „ १-११३-१ [?]) … त्रिष्टुप् छन्दः ।
+> प्रत्यु अदर्श ( „ ६-६४-१ [?]) … बृहती छन्दः ।
+> उपस्तुहि श्रिया भाहि ( „ १-४९-१ [?]) … उष्णिक् छन्दः ।
+> एता उ त्या ( „ १-४८-१ [?]) … जगती छन्दः ।
+> महे नो अद्य ( „ १-४८-१ [?]) … पङ्क्तिश्छन्दः ।
+
+> *prati ṣyā sūnarī (ṛ. saṃ. 4-52-1 [?]) ityādi gāyatrī chandaḥ |*
+> *uṣo bhadrebhiḥ ( „ 1-48-1 [?]) … anuṣṭup chandaḥ |*
+> *idaṃ śreṣṭhaṃ ( „ 1-113-1 [?]) … triṣṭup chandaḥ |*
+> *pratyu adarśa ( „ 6-64-1 [?]) … bṛhatī chandaḥ |*
+> *upastuhi śriyā bhāhi ( „ 1-49-1 [?]) … uṣṇik chandaḥ |*
+> *etā u tyā ( „ 1-48-1 [?]) … jagatī chandaḥ |*
+> *mahe no adya ( „ 1-48-1 [?]) … paṅktiśchandaḥ |*
+
+*(These seven metres are those of the Uṣas-kratu in the prātaranuvāka: seven mantras addressed to Uṣas.)*
+
+> इषो उषा (ऋ. सं. १-४६-१ [?]) इत्यादि गायत्री छन्दः ।
+> यदद्य ( „ १-४६-१ [?]) … अनुष्टुप् छन्दः ।
+> आभात्यग्निः ( „ ७-७७-१ [?]) … त्रिष्टुप् छन्दः ।
+> इमा उ वां ( „ ८-८-१ [?]) … बृहती छन्दः ।
+> अश्विना वर्तिः ( „ १-१५७-१ [?]) … उष्णिक् छन्दः ।
+> अबोध्यग्निर्ज्म ( „ १-१५७-१) … जगती छन्दः ।
+> प्रति प्रियतमं ( „ ७-७२-१ [?]) … पङ्क्तिश्छन्दः ।
+
+> *iṣo uṣā (ṛ. saṃ. 1-46-1 [?]) ityādi gāyatrī chandaḥ |*
+> *yadadya ( „ 1-46-1 [?]) … anuṣṭup chandaḥ |*
+> *ābhātyagniḥ ( „ 7-77-1 [?]) … triṣṭup chandaḥ |*
+> *imā u vāṃ ( „ 8-8-1 [?]) … bṛhatī chandaḥ |*
+> *aśvinā vartiḥ ( „ 1-157-1 [?]) … uṣṇik chandaḥ |*
+> *abodhyagnirjma ( „ 1-157-1) … jagatī chandaḥ |*
+> *prati priyatamaṃ ( „ 7-72-1 [?]) … paṅktiśchandaḥ |*
+
+*(These are the seven metres of the Aśvina-kratu in the prātaranuvāka: seven mantras addressed to the two Aśvin deities. Among the Ṛks of these, the present Ṛk is one. As it describes the blazing of Agni, the manifestation of Uṣas and the invocation of the two deities at the morning hour, so, as in the Ṛk)*
+
+> आशोच्यग्निः समिधानो अस्मे उषो अदृश्रन्नमुष्कि [?] दन्तः ।
+> अचेति केतुरुषसः पुरस्तात् [?] श्रिये दिवो दुहितुर्जायमानः ॥
+
+> *āśocyagniḥ samidhāno asme uṣo adṛśrannamuṣki [?] dantaḥ |*
+> *aceti keturuṣasaḥ purastāt [?] śriye divo duhiturjāyamānaḥ ‖*
+
+(Ṛ. Saṃ. 2-? [?]; as printed, small type, doubtful.)
+
+---
+
+### Printed p. 672  (PDF 690)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Continued from p. 671:)* …in the mantras beginning thus (the Ṛk quoted ends with *2-?* [?]) the coming of Agni, the blazing, the arrival of Uṣas and the Aśvins are shown together.
+
+**jmā** — ज्मेति पृथिवीनामसु पठितत्वात् (*jmeti pṛthivīnāmasu paṭhitatvāt*) — *jmā* is read among the names of the earth (Ni. 1-3 [?]); hence here too the meaning is "earth", the earth in the form of the altar. As to why the altar is called *pṛthivī*, a special sense is given in the Śatapatha-Brāhmaṇa:
+
+> तं बन्धोर्भिरभितः परिगृह्य । अग्निं पुरस्तात्प्रादायेन [?] तेनार्चन्तः श्राम्यन्तः [?] श्लेरस्तेनेमां सर्वां पृथिवीं समविन्दन्त तद्वेदिनेमां सर्वाग्ं समविन्दन्त तस्माद्वेदिनाम तस्मादाहुर्यावती वेदिस्तावती पृथिवी ॥
+
+> *taṃ bandhorbhirabhitaḥ parigṛhya | agniṃ purastātprādāyena [?] tenārcantaḥ śrāmyantaḥ [?] ślerastenemāṃ sarvāṃ pṛthivīṃ samavindanta tadvedinemāṃ sarvāgṃ samavindanta tasmādvedināma tasmādāhuryāvatī vedistāvatī pṛthivī ‖*
+
+(Śa. Brā. 1-? [?].)
+
+> चन्द्रमा इव प्रत्यक्षादादित्यो यजमानस्यैवयेव [?] पृथिवी वेदिः ॥
+
+> *candramā iva pratyakṣādādityo yajamānasyaivayeva [?] pṛthivī vediḥ ‖*
+
+(Śa. Brā. 11-? [?].)
+
+From such passages it is stated that the altar *is* the earth, and that the altar is the extension of the earth; likewise in the present sūkta the word *pṛthivī* is used to denote the identity of the two.
+
+**candrā** — *candra* is from the root *cand* "to delight": the one who gives delight; here applied to Uṣas, who gives delight to the whole world.
+
+**savitā prāsāvīt** — Savitṛ, giver of consciousness to all, "may impel the world to joy": two points are understood from this prayer. First, from the name *savitā* itself:
+
+> सविता सर्वस्य प्रसविता ॥
+
+> *savitā sarvasya prasavitā ‖*
+
+*(followed in the Kannada by its gloss "giver of consciousness to all".)*
+
+(Ni. 10-31 [?].)
+
+the etymology by the Nirukta-author shows the function of Savitṛ; and the Nirukta-author cites an Ṛk describing his function:
+
+> सविता यन्त्रैः पृथिवीमरम्णादस्कम्भने सविता द्यामदृंहत् ।
+> अश्वमिवाधुक्षद्धुनिमन्तरिक्षमतूर्ते बद्धं सविता समुद्रम् ॥
+
+> *savitā yantraiḥ pṛthivīmaramṇādaskambhane savitā dyāmadṛṃhat |*
+> *aśvamivādhukṣaddhunimantarikṣamatūrte baddhaṃ savitā samudram ‖*
+
+(Ṛ. Saṃ. 10-149-1 [?].)
+
+---
+
+### Printed p. 673  (PDF 691)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+In this Ṛk it is said that Savitṛ established the earth by supporting it, and having established the void space without support, made the world firm; he thereby sets all creatures to their appointed duties. In the present Ṛk, by *jagat pṛthak* "all the world, each by itself", prayer is made that he give consciousness for the doing of their several works. Secondly, he says of the time:
+
+> तस्य कालो यदा द्यौरपहततमस्का कीर्णरश्मिर्भवति ॥
+
+> *tasya kālo yadā dyaurapahatatamaskā kīrṇaraśmirbhavati ‖*
+
+(Ni. 12-1? [?].)
+
+— "the time when the sky, with darkness driven off, is strewn with rays; the beginning of the sun's light in the whole of the sky is the starting-time of Savitṛ, and then begins the work of the protection of the world" — so the Nirukta-author explains. And in the Ṛk
+
+> विश्वा रूपाणि प्रति मुञ्चते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे ।
+> वि नाकमख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति ॥
+
+> *viśvā rūpāṇi prati muñcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade |*
+> *vi nākamakhyatsavitā vareṇyo 'nu prayāṇamuṣaso vi rājati ‖*
+
+(Ṛ. Saṃ. 5-81-2 [?].)
+
+— he describes the time of Savitṛ: Uṣas having spread the light and illumined the world, Savitṛ, who has set aside the other [state: darkness], is then ready for work. Accordingly, in the present Ṛk also, after Uṣas has given light, Agni is blazing, Sūrya, the great one, is rising, and Savitṛ the divine one, at this time, **jagat pṛthak prāsāvīt**: the manifest Savitṛ, giver of consciousness to the whole world at this time, is prayed to be an assistant in the individual work of each.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar pages 673–674, noted briefly).** *abodhi* (root *budha avagamane*; *luṅ*, 3rd sg.; *ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-66 [?]) for the *ci*; *ciṇo luk* (Pā. Sū. 6-4-104 [?]); *aṅga*-augment; being a verb in the *pāda*-beginning it keeps the *nighāta*-less accent); *jmaḥ* (*jmā*, a word denoting the earth; the *pañcamī/ṣaṣṭhī* suffix; *āto lopa* …, loss of the long *ā*; *udātta*-*nivṛtti* accent); *eti* (root *iṇ gatau*; *laṭ* 3rd sg.; *nighāta*); *sūryaḥ* (root *sū prasave*; *rājasūya-sūrya* (Pā. Sū. 3-1-114 [?]); …). The page ends with the printed signature "[43]" and the running title "Vol. II" [sic — printed "Vol. 11"].
+
+---
+
+**Progress note:** Sūkta 157 in progress: Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics and the start of the grammar done (printed pp. 668–673, PDF 686–691). Next: printed p. 674 (PDF 692) — rest of the Ṛk 1 grammar, then Ṛk 2. Open flags: bhāṣya (p. 669) small type read with doubt; Aitareya-Brāhmaṇa and Śatapatha quotations and the Āśvalāyana pratīka list (pp. 670–672) partly legible, all Ṛg/Nirukta/Brāhmaṇa reference numerals and metre column `[?]`; varga numeral `3?` [?]; first letter of the Saṃhitā (अ/आ) [?]; header printed "A. 21" on a sūkta of Anuvāka 22 (as printed).
