@@ -1398,37 +1398,37 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ### Printed p. 53  (PDF 71)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
 ***devayantaḥ.*** *Yuvām ātmana icchantaḥ* — "wishing to have you, the gods, as our own", that is, wishing to obtain your complete regard.
 
 ***āyavaḥ.*** It has been told earlier that *āyu* may mean "men", "life", a particular deity representing life, or a proper name of a person. In this Ṛk it means "we men".
 
-***pṛkṣaḥ.*** The word *pṛkṣa* means battle (Ni. 2-[?]), a swift horse, and food. Here it means abundant food.
+***pṛkṣaḥ.*** The word *pṛkṣa* means battle (Ni. 3-9 [?]), a swift horse, and food. Here it means abundant food.
 
 ***dasrā.*** *Śatrūṇām upakṣayitārau* or *darśanīyau* — "those whose power destroys foes" or "those of beautiful form"; the peculiarity of the name *dasra* was told earlier.
 
-***pavayaḥ.*** The word *pavi* is read among the names of speech (Ni. 3-[?]) and of the thunderbolt (Ni. 2-[?]); besides, *pavi rathanemir bhavati yad vipunāti bhūmim* (Ni. [?]-[?]-[?]) — "the *pavi* is the felly of the chariot, because it scours the earth": Yāska takes it as the name of a chariot wheel, citing
+***pavayaḥ.*** The word *pavi* is read among the names of speech (Ni. 2-23 [?]) and of the thunderbolt (Ni. 3-11 [?]); besides, *pavi rathanemir bhavati yad vipunāti bhūmim* (Ni. 5-5-? [?]) — "the *pavi* is the felly of the chariot, because it scours the earth": Yāska takes it as the name of a chariot wheel, citing
 
-> उते पव्या रथानामद्रिं भिन्दन्त्योजसा [?] ।
+> उते पव्या रथानामद्रिं भिन्दन्त्योजसा ।
 
-> *ute pavyā rathānāmadriṃ bhindantyojasā [?] |*
+> *ute pavyā rathānāmadriṃ bhindantyojasā |*
 
-(Ṛ. Saṃ. 5-[?]-[?] [?]) where he shows that *pavi* means the felly of a chariot; in the Ṛk at hand too the sense is the wheel of the Aśvins' chariot. Showing that *pavi* also means an arrow-head (*śalya*):
+(Ṛ. Saṃ. 5-52-9) where he shows that *pavi* means the felly of a chariot; in the Ṛk at hand too the sense is the wheel of the Aśvins' chariot. Showing that *pavi* also means an arrow-head (*śalya*):
 
-> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः [?] ।
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः ।
 
-> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ [?] |*
+> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) — citing which, (Ni. [?]-[?]) *paviḥ śalyo bhavati yad vipunāti kāyaṃ tadvajraṃ pavīravān*: "the *pavi* is an arrow-head, because it pierces the body"; because Indra has it, he is called *pavīravān*; and he explains with
+(Ṛ. Saṃ. 10-65-13) — citing which, (Ni. 13-30 [?]) *paviḥ śalyo bhavati yad vipunāti kāyaṃ tadvajraṃ pavīravān*: "the *pavi* is an arrow-head, because it pierces the body"; because Indra has it, he is called *pavīravān*; and he explains with
 
-> यो जनान्महिषा इवातितस्थौ पवीरवान् । उतापवीरवान् युधा [?] ।
+> यो जनान्महिषा इवातितस्थौ पवीरवान् । उतापवीरवान् युधा ।
 
-> *yo janānmahiṣā ivātitasthau pavīravān | utāpavīravān yudhā [?] |*
+> *yo janānmahiṣā ivātitasthau pavīravān | utāpavīravān yudhā |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) …he has cited this Ṛk.
+(Ṛ. Saṃ. 10-60-3 [?]) …he has cited this Ṛk.
 
-**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *stomebhiḥ* (by *bahulaṃ chandasi* the *bhis* does not become *ais*; the *e*), *devayantaḥ* (*devān ātmana icchantaḥ*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-[?]), *kyac* in the sense of wishing; *na chandasy aputrasya* (Pā. Sū. 7-4-[?]) …, the lengthening [?] prevented); the page ends here, continued on p. 54.
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *stomebhiḥ* (by *bahulaṃ chandasi* the *bhis* does not become *ais*; the *e*), *devayantaḥ* (*devān ātmana icchantaḥ*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8), *kyac* in the sense of wishing; *na chandasy aputrasya* (Pā. Sū. 7-4-35), the lengthening prevented); the page ends here, continued on p. 54.
 
 ---
 
