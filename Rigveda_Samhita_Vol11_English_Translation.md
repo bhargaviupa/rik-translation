@@ -17972,4 +17972,178 @@ In this Ṛk it is said that Savitṛ established the earth by supporting it, an
 
 ---
 
-**Progress note:** Sūkta 157 in progress: Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics and the start of the grammar done (printed pp. 668–673, PDF 686–691). Next: printed p. 674 (PDF 692) — rest of the Ṛk 1 grammar, then Ṛk 2. Open flags: bhāṣya (p. 669) small type read with doubt; Aitareya-Brāhmaṇa and Śatapatha quotations and the Āśvalāyana pratīka list (pp. 670–672) partly legible, all Ṛg/Nirukta/Brāhmaṇa reference numerals and metre column `[?]`; varga numeral `3?` [?]; first letter of the Saṃhitā (अ/आ) [?]; header printed "A. 21" on a sūkta of Anuvāka 22 (as printed).
+---
+
+### Printed p. 674  (PDF 692)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Grammar of Ṛk 1, continued; noted briefly.)* *candrā* (root *cadi āhlādane*; *sphāyitañcivañci-* (U. Sū. 2-13? [?]) *rak* suffix; the root has *it*, so *num*; feminine *ṭāp*); *mahī* (root *muha pūjāyām*; *īṣ* from the statement *iṣ sarvadhātubhyaḥ*; feminine with *ṅīṣ*; *kṛdikārād aktinaḥ* [?] *ṅīṣ*); *āvaḥ* (root *vasa nivāse*; used in the sense of *antarbhāvita-ṇyartha*; *laṅ* [*luṅ* 3rd sg.? [?]], *tip*; *iḍabhāva*; loss of the *i*; the *ci* [?]; *luk*; *mantre ghasa-hara* (Pā. Sū. 2-4-80) removes the suffix; *visarga*; *chandasy api dṛśyate* (Pā. Sū. 6-4-73 [?]) the augment *aṭ*; *tiṅ*-*nighāta* accent); *arciṣā* (root *arca pūjāyām*; *arcir-śuci-* (U. Sū. 2-? [?]) *isi* suffix; ending accent; *ṭā*, instrumental singular); *ayukṣātām* (root *yujir yoge*; *chāndasa luṅ*; 3rd dual *ātām*; *ci*→*sic*; *co kuḥ* — *ku* for *ja*; *cartva*; for the *sic* an *sa* + *ṣatva*; augment *aṭ*; *chāndasa* lengthening in the *saṃhitā*; since at the start of the *pāda*, no *nighāta*; *ādyudātta*); *yātave* (root *yā prāpaṇe*; *tumarthe sese-* (Pā. Sū. 3-4-9 [?]) *tavai* → *taven* suffix; *ñnityādir nityam* — *ādyudātta*; being an *ejanta*-ending *kṛdanta*, called *avyaya*); *prāsāvīt* (root *sū preraṇe*; *chāndasa loṭ-arthe luṅ*; 3rd sg., *prāsāvīt*; since a *tiṅanta* follows [?], no *nighāta*) ‖ 1 ‖
+
+---
+
+### Printed p. 674  (continued; PDF 692)
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यद्युञ्जाथे वृषणमश्विना रथं घृतेन नो मधुना क्षत्रमुक्षतम् ।
+> अस्माकं ब्रह्म पृतनासु जिन्वतं वयं धना शूरसाता भजेमहि ॥ २ ॥
+
+> *yadyuñjāthe vṛṣaṇamaśvinā rathaṃ ghṛtena no madhunā kṣatramukṣatam |*
+> *asmākaṃ brahma pṛtanāsu jinvataṃ vayaṃ dhanā śūrasātā bhajemahi ‖ 2 ‖*
+
+---
+
+### Printed p. 675  (PDF 693)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**॥ पदपाठः ॥**
+
+> यत् । युञ्जाथे इति । वृषणं । अश्विना । रथं । घृतेन । नः । मधुना । क्षत्रं । उक्षतं ।
+> अस्माकं । ब्रह्म । पृतनासु । जिन्वतं । वयं । धना । शूरऽसाता । भजेमहि ॥ २ ॥
+
+> *yat | yuñjāthe iti | vṛṣaṇaṃ | aśvinā | rathaṃ | ghṛtena | naḥ | madhunā | kṣatraṃ | ukṣataṃ |*
+> *asmākaṃ | brahma | pṛtanāsu | jinvataṃ | vayaṃ | dhanā | śūra 'sātā | bhajemahi ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: When you yoke your showering chariot, refresh our strength (*kṣatra*) with ghee-water and honey; give *brahma* (brahmanical lustre/food) to our people; may we gain wealth in battles of heroes. Small type; read with doubt.)*
+
+> हे अश्विनौ यद्यदा वृषणं वृष्ट्यादिसर्गकं रथं युञ्जाथे योजयेथः तदा नः क्षत्रमस्मदीयं बलं क्षत्रियजातं वा घृतेनोदकेन मधुना मधुरेणामृतेनोक्षतं प्रवर्धयेतमित्यर्थः । यद्वा । घृतेन क्षरणरूपेण मधुना मधुरेणामृतेनोक्षतं । युष्मद्रथस्य मधुपूर्णत्वं मधुना हनो रथे [?] इत्यादिषु प्रसिद्धम् । किञ्चास्माकं पृतनासु अस्मदीयासु पुत्रपौत्रादिमनुष्यरूपासु प्रजासु ब्रह्म ब्राह्मं तेजो जिन्वतम् । पृतना इति मनुष्यनामसु पठितत्वात् । यद्वा । पृतनासु पराक्रीयासु [?] प्रजासु ब्रह्म तासां परिवृद्धमन्नमस्माकं जिन्वतम् । प्रीणयतम् । ब्रह्मेत्यन्ननाम । ब्रह्म वर्च इति तन्नामसूक्तत्वात् । वयं च शूरसाता शूराणां संग्रामादिना युक्ते संग्रामे धना तेधीयानि [?] धनानि बहुविधानि भजेमहि । लभेमहि ॥
+
+> *he aśvinau yadyadā vṛṣaṇaṃ vṛṣṭyādisargakaṃ rathaṃ yuñjāthe yojayethaḥ tadā naḥ kṣatramasmadīyaṃ balaṃ kṣatriyajātaṃ vā ghṛtenodakena madhunā madhureṇāmṛtenokṣataṃ pravardhayetamityarthaḥ | yadvā | ghṛtena kṣaraṇarūpeṇa madhunā madhureṇāmṛtenokṣataṃ | yuṣmadrathasya madhupūrṇatvaṃ madhunā hano rathe [?] ityādiṣu prasiddham | kiñcāsmākaṃ pṛtanāsu asmadīyāsu putrapautrādimanuṣyarūpāsu prajāsu brahma brāhmaṃ tejo jinvatam | pṛtanā iti manuṣyanāmasu paṭhitatvāt | yadvā | pṛtanāsu parākrīyāsu [?] prajāsu brahma tāsāṃ parivṛddhamannamasmākaṃ jinvatam | prīṇayatam | brahmetyannanāma | brahma varca iti tannāmasūktatvāt | vayaṃ ca śūrasātā śūrāṇāṃ saṃgrāmādinā yukte saṃgrāme dhanā tedhīyāni [?] dhanāni bahuvidhāni bhajemahi | labhemahi ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *aśvinā* — O Aśvin deities; *yat* — when; *vṛṣaṇaṃ* — showering [chariot]; *rathaṃ* — the chariot; *yuñjāthe* — you harness (yoke); *naḥ* — our; *kṣatraṃ* — strength; *ghṛtena* — with water; *madhunā* — with honey; [or: *ghṛtena* — with the flowing; *madhunā* — with that which is sweet, such as nectar]; *ukṣataṃ* — you make to increase (and) *asmākaṃ* — our; *pṛtanāsu* — [among] the people, sons and the rest; *brahma* — brahmanical lustre; *jinvataṃ* — favour; [or: *asmākaṃ* — to us; *pṛtanāsu* — [in] the enemy-subjects; *brahma* — abundant food; *jinvataṃ* — give]; *vayaṃ* — we [also]; *śūrasātā* — in the meeting of heroes (in battle); *dhanā* — various [kinds of] wealth; *bhajemahi* — may obtain.
+
+**भावार्थः (Bhāvārtha).** O Aśvin deities, as soon as you have yoked your showering chariot, increase our strength with water and honey sweet as nectar. And give brahmanical lustre and also abundant food to our sons, grandsons and the rest, so that they flourish. And may we too, in the midst of heroes, obtain various kinds of wealth in battle.
+
+---
+
+### Printed p. 676  (PDF 694)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Bhāvārtha concludes: "…and may we, in the midst of heroes, obtain various kinds of wealth in battle".)*
+
+**English Translation (as printed).** When Ashwins, you harness your bounty-shedding chariot, refresh our strength with trickling honey: bestow (abundant) food upon our people: may we acquire riches in the strife of heroes.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** The power of the *kṣatriya* (martial strength) of the sacrificers who ride in a chariot together with the Aśvins increases naturally. But although *kṣatra* is the foundation of all wealth, mere martial strength is not enough for life to be prosperous. Therefore the Aśvin deities are prayed to supply also *brahma* — brahmanical lustre and the wealth of *brahma*.
+
+**kṣatraṃ** — क्षत्रं—अस्मदीयं बलं क्षत्रियजातं वा (*kṣatraṃ—asmadīyaṃ balaṃ kṣatriyajātaṃ vā*) — "our strength, or the *kṣatriya* class". The word means martial strength; ordinarily one who desires fulfilment of the *kṣātra* lustre performs a rite called *kṣatra-dhṛti* [?] (a Sautrāmaṇī-like rite) and worships the Aśvin deities with *prajā*; of this the text says:
+
+> श्वैत आश्विनो भवति । श्वैताविव ह्यश्विनौ ॥
+
+> *śvaita āśvino bhavati | śvaitāviva hyaśvinau ‖*
+
+(Ai. Brā. 7-2? [?].)
+
+In such a mantra, offering is to be made with the Aśvin deities first. The Aśvins' favour is thereby shown in the present Ṛk as helping the accomplishment of martial strength. But the Śruti-texts in many places praise the greatness of this martial strength. First, praising strength in general, they show that strength is greater than everything else in conflicts:
+
+> तस्मा इव श्रद्दधाम तद्वै तत्सत्यं बले प्रतिष्ठितम् । प्राणो वै बलं तत्सत्यमेव ... [?] प्रतिष्ठितं तस्माद्बलं सत्यादोजीयः [?] ।
+
+> *tasmā iva śraddadhāma tadvai tatsatyaṃ bale pratiṣṭhitam | prāṇo vai balaṃ tatsatyameva ... [?] pratiṣṭhitaṃ tasmādbalaṃ satyādojīyaḥ [?] |*
+
+(Bṛ. U. 1-4-? [?].)
+
+"Truth is established in strength; strength is greater than truth, and the best strength is the *kṣātra* strength."
+
+> क्षत्रं प्राणो वै क्षत्रं प्राणो हि वै क्षत्रं त्रायते हैनं प्राणः क्षणितोः प्र क्षत्रमाप्नोति क्षत्रस्य सायुज्यं सलोकतां जयति य एवं वेद ॥
+
+> *kṣatraṃ prāṇo vai kṣatraṃ prāṇo hi vai kṣatraṃ trāyate hainaṃ prāṇaḥ kṣaṇitoḥ pra kṣatramāpnoti kṣatrasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda ‖*
+
+*(Quotation as read; small type, partly legible [?]; no reference printed.)*
+
+---
+
+### Printed p. 677  (PDF 695)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Continues:)* "…because *kṣatra* is protector of life [*prāṇa*]. Knowing this, the *kṣatriya* attains union and the same world with *kṣatra*; and this *kṣātra* strength protects *brahma*-lustre too, and he comes to occupy the most excellent place among the stations of the others."
+
+> ब्रह्म वा इदमग्र आसीदेकमेव तदेकं सन्न व्यभवत् । तच्छ्रेयोरूपमत्यसृजत क्षत्रं यान्येतानि देवत्रा क्षत्राणीन्द्रो वरुणः सोमो रुद्रः पर्जन्यो यमो मृत्युरीशान इति । तस्मात्क्षत्रात्परं नास्ति तस्माद्ब्राह्मणः क्षत्रियमधस्तादुपास्ते राजसूये क्षत्रे एव तद्यशो दधाति ॥
+
+> *brahma vā idamagra āsīdekameva tadekaṃ sanna vyabhavat | tacchreyorūpamatyasṛjata kṣatraṃ yānyetāni devatrā kṣatrāṇīndro varuṇaḥ somo rudraḥ parjanyo yamo mṛtyurīśāna iti | tasmātkṣatrātparaṃ nāsti tasmādbrāhmaṇaḥ kṣatriyamadhastādupāste rājasūye kṣatre eva tadyaśo dadhāti ‖*
+
+*(Quotation as read; small type, partly legible [?]; no reference printed.)*
+
+In the beginning *brahma* alone existed and the *kṣatra* had no opening for growth. So, for increase, *brahma* created something even greater than itself, the *kṣatra*; among the gods the *kṣatras* are Indra and the rest. Nothing exists greater than *kṣatra*; therefore, at the Rājasūya, even a Brāhmaṇa sits below the Kṣatriya: so the Kṣatriya takes the seat of food [?]. Moreover:
+
+> भवत्पुरोहिताश्चावाग्रे क्षत्रबन्धूज्ञ्चेव नः । [?]
+> क्षत्रं तदेपि विज्ञेयं ब्रह्म यत्पति शास्वतम् ॥
+
+> *bhavatpurohitāścāvāgre kṣatrabandhūjñceva naḥ | [?]*
+> *kṣatraṃ tadepi vijñeyaṃ brahma yatpati śāsvatam ‖*
+
+(Bṛhaddevatā 3-? [?].)
+
+— as the *brahma*-power is maintained for ever, the name *kṣatra* is famous. By the favour of the Aśvin deities, if the *kṣatra* power is gained, in the present Ṛk it is shown that afterwards, with mere strength, there is no growth of life; therefore *brahma* is also to be gained — it is prayed that the Aśvins favour us with *brahma*. *Kṣatra* is only the protector, and *brahma* the fruit of it; *pṛtanāsu brahma jinvataṃ* is the prayer for such a fruit.
+
+In the present Ṛk, the word *brahma* is first explained as *brāhmaṃ tejaḥ* "brahmanical lustre" and secondly as food (*anna*). First, food is the means of *kṣātra* strength; food is life itself, and from one point of view food is the protector and nourisher of the *kṣātra* power; thus the necessity of food is indicated. Or, if *brahma* is explained as "brahmanical lustre", that too is spiritual. Without contact with *brāhma* lustre, *kṣatra* is merely material strength, and the spiritual wealth of life is deficient; therefore, praising the greatness of the two together,
+
+---
+
+### Printed p. 678  (PDF 696)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+> प्रेदं ब्रह्म प्रेदं क्षत्रमित्येते वै समस्येदं ब्रह्म क्षत्रयोः संश्रित्यै [?] तस्माद्ब्रह्म क्षत्रं च संश्रिते ॥
+
+> *predaṃ brahma predaṃ kṣatramityete vai samasyedaṃ brahma kṣatrayoḥ saṃśrityai [?] tasmādbrahma kṣatraṃ ca saṃśrite ‖*
+
+(Ai. Brā. 8-? [?].)
+
+— in such sentences the power of both *brāhma* and *kṣātra*, their union and their equality are praised. And also:
+
+> यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः ।
+
+> *yasya brahma ca kṣatraṃ ca ubhe bhavata odanaḥ |*
+
+*(Quotation as read; no reference printed [?].)*
+
+— in such sentences the union of both is shown; it is explained that both powers are reflected in the Aditi-principle [?]. Therefore the equality of the two in the present Ṛk is to be understood.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar pages 678–679, noted briefly).** *yuñjāthe* (root *yujir yoge*; *rudhādi*; *śnam* insertion; *laṭ* middle 2nd dual; since *yat* is there, no *nighāta*; the suffix has *ādyudātta* accent); *aśvinā* (*supāṃ sulug*, Pā. Sū. 7-1-39: *ā* for the dual; *āmantritasya ca* (Pā. Sū. 8-1-19) *nighāta*); *ghṛtena* (*ghṛtādīnāṃ ca* (Phiṭ. Sū. 2-? [?]) final *udātta*; instrumental singular); *kṣatram* (root *kṣad*, *sautra* root; *gṛdhi-vīpaśi* … (U. Sū. 4-? [?]) *tran* suffix; final *udātta* from the suffix accent); *ukṣatam* (root *ukṣa secane*, *bhvādi*; *loṭ* 2nd dual; *tam* for *thās*; *śap*; *tiṅ*-*nighāta*); *brahma* (root *bṛha vṛddhau*; *idito* *num*; *bṛheḥ* … *manin* (U. Sū. 4-? [?]); *num* in place of *n* → *a*; *ya-* …; ending *nit* → *ādyudātta*); *jinvatam* (root *jivi prīṇane*; *idito num dhātoḥ* (Pā. Sū. 7-1-58) *num*; *loṭ* 2nd dual; *tiṅ*-*nighāta*); *dhanā* (neuter plural: *śeś chandasi bahulam* (Pā. Sū. 6-1-70) loss of *śi*); *śūrasātā* (*śūra-sāti*, *ūtiyūti-* (Pā. Sū. 3-3-97 [?]) *ktin*-ending *sāti* — irregular; locative singular: *supāṃ sulug* (Pā. Sū. 7-1-39): *ḍe* → *ā*; … loss of the *i* by [?]
+
+---
+
+### Printed p. 679  (PDF 697)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar of Ṛk 2, concluded.)* *bhajemahi* (root *bhaja sevāyām*; *laṅ* [*liṅ* [?]] 1st person plural; *tiṅ*-*nighāta*) ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अर्वाञ्त्रिचक्रो मधुवाहनो रथो जीराश्वो अश्विनोर्यातु सुष्टुतः ।
+> त्रिबन्धुरो मघवा विश्वसौभगः शं न आ वक्षद्द्विपदे चतुष्पदे ॥ ३ ॥
+
+> *arvāñtricakro madhuvāhano ratho jīrāśvo aśvinoryātu suṣṭutaḥ |*
+> *tribandhuro maghavā viśvasaubhagaḥ śaṃ na ā vakṣaddvipade catuṣpade ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> अर्वाञ् । त्रिऽचक्रः । मधुऽवाहनः । रथः । जीरऽअश्वः । अश्विनोः । यातु । सुऽस्तुतः ।
+> त्रिऽबन्धुरः । मघवा । विश्वऽसौभगः । शं । नः । आ । वक्षत् । द्विऽपदे । चतुःऽपदे ॥ ३ ॥
+
+> *arvāñ | tri 'cakraḥ | madhu 'vāhanaḥ | rathaḥ | jīra 'aśvaḥ | aśvinoḥ | yātu | su 'stutaḥ |*
+> *tri 'bandhuraḥ | maghavā | viśva 'saubhagaḥ | śaṃ | naḥ | ā | vakṣat | dvi 'pade | catuḥ 'pade ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: May the Aśvins' three-wheeled, honey-bearing, fleet-horsed, well-praised chariot come towards us and bring welfare to our two-footed and four-footed creatures. Small type; read with doubt.)*
+
+> अश्विनो रथोऽर्वाञ्जस्मदभिमुखो यातु । गच्छतु । कीदृशः । त्रिचक्रस्त्रिचक्रयुक्तः । मधुवाहनो मधुवोढा जीराश्वः शीघ्रगाम्यश्वोपेतः सुष्टुतोऽतिशयेन स्तुतः [?] विवासाभिः [?] स्तूयमानः त्रिबन्धुरो निम्नोन्नतैकपृष्ठत्रयोपेतः [?] सारथ्याश्रयस्थानं बन्धुरं । मघवा धनवान् अत एव विश्वसौभगः सर्वसौभाग्योपेतः । ईदृशोऽश्विनो रथो नोऽस्माकं द्विपदे पुत्रादिप्रजायै चतुष्पदे पशवे च शं सुखमावक्षत् । आवहतु ॥ वहेर्लेट्यडागमः [?] सिप् [?] ॥
+
+> *aśvino ratho 'rvāñjasmadabhimukho yātu | gacchatu | kīdṛśaḥ | tricakrastricakrayuktaḥ | madhuvāhano madhuvoḍhā jīrāśvaḥ śīghragāmyaśvopetaḥ suṣṭuto 'tiśayena stutaḥ [?] vivāsābhiḥ [?] stūyamānaḥ tribandhuro nimnonnataikapṛṣṭhatrayopetaḥ [?] sārathyāśrayasthānaṃ bandhuraṃ | maghavā dhanavān ata eva viśvasaubhagaḥ sarvasaubhāgyopetaḥ | īdṛśo 'śvino ratho no 'smākaṃ dvipade putrādiprajāyai catuṣpade paśave ca śaṃ sukhamāvakṣat | āvahatu ‖ vaherleṭyaḍāgamaḥ [?] sip [?] ‖*
+
+**प्रतिपदार्थः (Pratipadārtha) — begun.** *aśvinoḥ* — of the Aśvin deities; *tricakraḥ* — furnished with three wheels; *madhuvāhanaḥ* — bringing honey; *jīrāśvaḥ* — furnished with swiftly running horses; …
+
+---
+
+**Progress note:** Sūkta 157 in progress: Ṛk 1 grammar concluded; Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya and the first words of the Pratipadārtha done (printed pp. 674–679, PDF 692–697). Next: printed p. 680 (PDF 698) — rest of the Ṛk 3 Pratipadārtha, then Bhāvārtha, English, Special Topics, grammar, Ṛk 4. Open flags: small-type bhāṣya read with doubt; Brāhmaṇa/Upaniṣad/Bṛhaddevatā quotations on pp. 676–678 partly legible and all references `[?]`; sūtra numerals `[?]`; varga numeral `3?` [?]; header printed "A. 21" in Anuvāka 22 (as printed). Page 679 closes with a Pratipadārtha cut mid-entry; the printed Ṛk 3 Pratipadārtha continues on p. 680.
