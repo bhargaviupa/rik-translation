@@ -18474,4 +18474,156 @@ and says that in such Ṛks the word *rapāṃsi* means *pāpakārīṇi rakṣa
 
 ---
 
-**Progress note:** Sūkta 157 in progress: Ṛk 4 complete; Ṛk 5 complete; Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done and the Special Topics begun (printed pp. 686–691, PDF 704–709). Next: printed p. 692 (PDF 710) — rest of the Ṛk 6 Special Topics and grammar, then the closing colophon of Sūkta 157 / the volume. Open flags: small-type bhāṣya of Ṛk 5 and especially Ṛk 6 (pp. 690–691) badly legible, read with doubt; Śatapatha quotation on p. 688 mostly `[?]`; Ṛk 6 Saṃhitā/Pada reading of *rathyā*/*rathyebhiḥ* doubtful; all Ṛg/Brāhmaṇa/Nirukta references and Pāṇini sūtra numerals `[?]`; varga numeral `3?` [?]; headers printed "A. 21" in Anuvāka 22 (as printed).
+---
+
+### Printed p. 692  (PDF 710)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Special Topics of Ṛk 6, continued. Quotations in small type, partly legible; read with doubt.)*
+
+> स एतमाश्विनं धूम्रमालभेत । सारस्वतं मेषमैन्द्रमृषभमश्विनौ वै देवानां भिषजौ तावभ्यां [?] सरस्वती भेषजा तेभ्यो [?] एवास्मिन्भेषजं करोतीन्द्रे इन्द्रियं वीर्यं तेनैवास्मिन्नैन्द्रियं वीर्यं दधाति ॥
+
+> *sa etamāśvinaṃ dhūmramālabheta | sārasvataṃ meṣamaindramṛṣabhamaśvinau vai devānāṃ bhiṣajau tāvabhyāṃ [?] sarasvatī bheṣajā tebhyo [?] evāsminbheṣajaṃ karotīndre indriyaṃ vīryaṃ tenaivāsminnaindriyaṃ vīryaṃ dadhāti ‖*
+
+(Tai. Brā. 2-1-3-1? [?].)
+
+In such passages the Aśvin deities are shown as the physicians of the gods:
+
+> अथ यदाश्विनो भवति । अश्विनौ वा एनमभिषज्यतां [?] केथो [?] विन्येनमेष [?] इकेदश्भ्यामेव भिषज्यति तस्माद्ाश्विनो भवति ॥
+
+> *atha yadāśvino bhavati | aśvinau vā enamabhiṣajyatāṃ [?] ketho [?] vinyenameṣa [?] ikedaśbhyāmeva bhiṣajyati tasmādāśvino bhavati ‖*
+
+(Śa. Brā. 3-9-4-13? [?].)
+
+— in such passages it is said that the Aśvin deities by their favour remove the diseases of the sacrificer and destroy such ills; and because they have this power, the *āśvina* vessel (*graha*) is prescribed for them at the time of the sacrifice. This power of theirs is also told in the story of how they restored Sukanyā's husband's youth:
+
+> अश्विनौ ह वा इदं भिषज्यन्तौ चेरतुः । तौ सुकन्यां मानवीमुपेयतुस्तस्यां मिथुनं मीषाते [?] तेन जज्ञा [?] । तौ होचतुः । सुकन्ये कमिमं जीर्णं कृत्यालोपं [?] मुपशेष आवामुप्लेहीति सा होवाच यस्मै मां पिताव्यै प्रादात्तं [?] जीवन्तं ह्यास्यामीति तद्वायुम्यनिरजज्ञा [?] । स होवाच । सुकन्ये क्षैत्केदवोचताम् [?] इति कस्मा एतद्व्याचेक्ष्वे [?] स ह व्याख्याते उवाच । यधि [?] स्यैतत्प्रब्रूताम् [?] ... सा होवाच । न वै सुसर्वावस्थो न सुसमृद्धावाथ मे पतिं निन्दथ इति ता होचतुः केनावमसर्वः केनासमृद्धाविति सा होवाच । पतिं नु मे पुनर्युवानं कुरुतमथ वां वक्ष्यामीति तौ होचतुः । एतस्मिन् ह्रदमभ्यवहर स येन वयसा कमिष्यते तेनोदेष्यतीति तग्ं ह्रदमभ्यवजहार स येन वयसा चकमे तेनोदेयाय ॥
+
+> *aśvinau ha vā idaṃ bhiṣajyantau ceratuḥ | tau sukanyāṃ mānavīmupeyatustasyāṃ mithunaṃ mīṣāte [?] tena jajñā [?] | tau hocatuḥ | sukanye kamimaṃ jīrṇaṃ kṛtyālopaṃ [?] mupaśeṣa āvāmuplehīti sā hovāca yasmai māṃ pitāvyai prādāttaṃ [?] jīvantaṃ hyāsyāmīti tadvāyumyanirajajñā [?] | sa hovāca | sukanye kṣaitkedavocatām [?] iti kasmā etadvyācekṣve [?] sa ha vyākhyāte uvāca | yadhi [?] syaitatprabrūtām [?] ... sā hovāca | na vai susarvāvastho na susamṛddhāvātha me patiṃ nindatha iti tā hocatuḥ kenāvamasarvaḥ kenāsamṛddhāviti sā hovāca | patiṃ nu me punaryuvānaṃ kurutamatha vāṃ vakṣyāmīti tau hocatuḥ | etasmin hradamabhyavahara sa yena vayasā kamiṣyate tenodeṣyatīti tagṃ hradamabhyavajahāra sa yena vayasā cakame tenodeyāya ‖*
+
+(Śa. Brā. 4-1-5-1? ff. [?]; badly legible; reading doubtful throughout.)
+
+The Kannada summary: while the Aśvin deities, curing the diseased on earth, were wandering in this way, they saw the beautiful woman Sukanyā and, enamoured, wished …
+
+---
+
+### Printed p. 693  (PDF 711)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(…continued summary of the story:)* She said that as long as her husband was alive she would not so much as raise her eyes to another man. After the Aśvin deities had gone, her husband, having heard and understood the whole matter [as printed], told her: "If they come again, wishing to have you, and they ask, 'In what way are we imperfect and unrefined?', then say: 'If you make my aged husband young again, then I shall tell you.'" Then, when the Aśvins came again and asked her, she did as her husband had said, and also asked the means of making her husband young again. The Aśvin deities told her that if her husband bathed in the lake nearby his old age would go; she then had him bathe; and by their favour he became young — such are the tales. They explain the epithet *bhiṣajā*.
+
+The Aśvin deities, being physicians of the gods who destroy the diseases of men and others on earth, were — this being a defect in them — not admitted to the sacrifice by Indra and the other gods.
+
+> उप नौ ह्वयध्वमिति ते ह देवा ऊचुर्नामुपह्वयिष्यामहे बहु मनुष्येषु सग्ंस्पृष्टमचारिष्टं भिषज्यन्तावि[ति] ॥
+
+> *upa nau hvayadhvamiti te ha devā ūcurnāmupahvayiṣyāmahe bahu manuṣyeṣu sagṃspṛṣṭamacāriṣṭaṃ bhiṣajyantāvi[ti] ‖*
+
+(Śa. Brā. 4-1-5-14? [?].)
+
+— "since you, curing the diseases of men and others, associate with them, we shall not call you to the sacrifice"; so these deities themselves, announcing [a head for the sacrifice (*śiras*) [?]], obtained their share of the sacrifice.
+
+**rathyebhiḥ rathyā sthaḥ** — *rathyebhiḥ* is explained by *rathavoḍhṛbhir aśvaiḥ*: "with horses that draw the chariot"; and *rathyā* by *rathavantau*: "owners of chariots". The chariots of the Aśvin deities, and the draught-animals carrying those chariots, are famous. Their special character is described in many Ṛks as being of gold: हिरण्ययो वां पविः (*hiraṇyayo vāṃ paviḥ*) (Ṛ. Saṃ. 1-30-? [?]); हिरण्ययेन रथेन (*hiraṇyayena rathena*) (Ṛ. Saṃ. 4-44-? [?]); रथं हिरण्यबन्धुरं हिरण्याभीशुमश्विना (*rathaṃ hiraṇyabandhuraṃ hiraṇyābhīśumaśvinā*) (Ṛ. Saṃ. 8-5-35? [?]). In these and other Ṛks the chariot of the Aśvin deities and their company are said to be wholly golden; thus,
+
+> तं युञ्जाथां मनसो यो जनीयान् त्रिबन्धुरो वृषणा यस्त्रिचक्रः ।
+> येनोपयाथः सुकृतो दुरोणं त्रिधातुना पतथो विर्न पर्णैः ॥
+
+> *taṃ yuñjāthāṃ manaso yo janīyān tribandhuro vṛṣaṇā yastricakraḥ |*
+> *yenopayāthaḥ sukṛto duroṇaṃ tridhātunā patatho virna parṇaiḥ ‖*
+
+(Ṛ. Saṃ. 1-183-1? [?].)
+
+---
+
+### Printed p. 694  (PDF 712)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+— "As birds on their wings, however swiftly and proudly they go, so the Aśvin deities, seated in their three-seated chariot, go to the sacrifice": in many places the excellence of their chariot is stated. *Raghuvartaniḥ* [?] (Ṛ. Saṃ. 1-? [?]) — "quick-running"; मनसो जवीयान् रथः (*manaso javīyān rathaḥ*) (Ṛ. Saṃ. 1-117-2; 4-45-? [?]) — "a chariot swifter than the mind"; निमिषक्षिज्जवीयसा रथेन (*nimiṣakṣijjavīyasā rathena*) (Ṛ. Saṃ. 8-? [?]) — "faster than the closing of an eyelid": such descriptions establish the speed of the chariot.
+
+**rathyebhiḥ** — though the word is explained as "carriers of the chariot", it cannot be said with certainty which they are; horses, mules [as printed], and other varied draught-animals are described. For example:
+
+> युञ्जाथां रासभं रथे वीड्वङ्गे वृषण्वसू । मध्वः सोमस्य पीतये ॥
+
+> *yuñjāthāṃ rāsabhaṃ rathe vīḍvaṅge vṛṣaṇvasū | madhvaḥ somasya pītaye ‖*
+
+(Ṛ. Saṃ. 8-85-7? [?].)
+
+in these, the ass (*rāsabha*);
+
+> हंसासो ये वां मधुमन्तो अस्रिधो हिरण्यपर्णा उहुव उषर्बुधः ।
+> उदप्रुतो मन्दिनो मन्दिनिस्पृशो मध्वो न मक्षः सवनानि गच्छथः ॥
+
+> *haṃsāso ye vāṃ madhumanto asridho hiraṇyaparṇā uhuva uṣarbudhaḥ |*
+> *udapruto mandino mandinispṛśo madhvo na makṣaḥ savanāni gacchathaḥ ‖*
+
+(Ṛ. Saṃ. 4-45-4? [?].)
+
+in these, swans (*haṃsa*);
+
+> आ नः स्तोममुप द्रवत्तूर्यं श्येनेभिराशुभिः । यातमश्वेभिरश्विना ॥
+
+> *ā naḥ stomamupa dravattūryaṃ śyenebhirāśubhiḥ | yātamaśvebhiraśvinā ‖*
+
+(Ṛ. Saṃ. 8-26-2? [?].)
+
+in these Ṛks, birds of clear flight — and so, in many ways, the vehicles of the Aśvin deities are described.
+
+**kṣatraṃ** — the nature of *kṣatra*-strength, and the prayer to the Aśvin deities for obtaining this strength, were told in the Special Topics of the second Ṛk of this same sūkta.
+
+**manasā** — मनो मनोतेः (*mano manoteḥ*) (Ni. 9-9? [?]): from the root *man* in the sense "to think, to meditate", giving the sense "with meditation, with devotion". Sāyaṇa explains *manasā yuṣmadāyattena cetasā*, "with a mind centred upon you, with one-pointed thought", that is, with the single meditation of you. And:
+
+> आ विश्वतः प्रत्यञ्चं जिघर्म्यर्कैर्मनसा तज्जुषेत ।
+> मर्यश्रीः स्पृहयद्वर्णो अग्निर्नाभिमृशे तन्वा जर्भुराणः ॥
+
+> *ā viśvataḥ pratyañcaṃ jigharmyarkairmanasā tajjuṣeta |*
+> *maryaśrīḥ spṛhayadvarṇo agnirnābhimṛśe tanvā jarbhurāṇaḥ ‖*
+
+(Ṛ. Saṃ. 3-10-5? [?].)
+
+---
+
+### Printed p. 695  (PDF 713)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Continued:)* In such Ṛks *manasā* is also explained as *stotreṇa* "by praise"; there too the sense is praise that is meditative and devout.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page 695, noted briefly).** Words treated: *sthaḥ* (root *asa bhuvi*; *laṭ* 2nd dual *thas*; loss of the root's *a* by *śnasor alloṭaḥ* [*śnasor allopaḥ*] (Pā. Sū. 6-4-111); *nighāta*); *bhiṣajā* (root *bhī bhaye* [?]; suffix *aji* with shortening and *suk*-augment — *bhiyaḥ ṣuk hrasvaś ca* [?] (U. Sū. 2-? [?]); the form *bhiṣaj*; *ā* in the dual by *supāṃ sulug*; *ādyudātta* from the suffix); *bheṣajebhiḥ* (the option of *ais* for *bhis* by *bahulaṃ chandasi*; here it does not occur); *rathyebhiḥ* (*rathaṃ vahati rathyaḥ*; *tad vahati rathayugaprāsaṅgam* (Pā. Sū. 4-4-76) *yat*; *yasyeti ca* loss of *a*; *yato nāvaḥ* (Pā. Sū. 6-1-213) *ādyudātta*; no *ais*-substitution, as before); *dhatthaḥ*; *ugrā* (root *uca samavāye*; *ṛjendrāgra-* (U. Sū. 2-28 [?]) *ran*-suffix, irregular; vocative dual: *āmantritasya ca* — *nighāta*; *supāṃ sulug* — *ā*); *dadāśa* (root *dāśṛ dāne*; *chandasi luṅlaṅliṭaḥ*: *liṭ* in present sense, 3rd sg. *dadāśa*; no *nighāta*, by *yadvṛttān nityam* (Pā. Sū. 8-1-66); the suffix being *lit*, *liti* (Pā. Sū. 6-1-193): the syllable before the suffix is *udātta*) ‖ 6 ‖
+
+*(Printed closing line:)* **Here ends the 157th Sūkta. — End of the Second Adhyāya [read as "2" or "3"; see below [?]] of the Second Aṣṭaka.**
+
+*(Printed numeral of the Adhyāya in the Kannada line is doubtful: it was read "3" on the sūkta title pages from Sūkta 156, but the Sanskrit colophon on the next page says* dvitīyo 'dhyāyaḥ *("second"). The glyph for 2 and 3 may have been confused; flagged [?].)*
+
+---
+
+### Printed p. 696  (PDF 714)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157". This is the last page of the volume; it carries the closing colophon.)*
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये द्वितीयाष्टके द्वितीयोऽध्यायः ॥ समाप्तः ॥ श्रीः ॥ ॐ तत्सत् ॥
+
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye dvitīyāṣṭake dvitīyo 'dhyāyaḥ ‖ samāptaḥ ‖ śrīḥ ‖ oṃ tatsat ‖*
+
+*(Gist: the Sanskrit colophon: "May Vidyātīrtha-Maheśvara, removing the darkness of the heart by the light of the meaning of the Veda, bestow the four ends of man. Thus ends the second adhyāya of the second aṣṭaka in the Ṛk-saṃhitā-bhāṣya, in the Mādhavīya Vedārtha-prakāśa composed by Sāyaṇācārya, bearer of the burden of the empire of King Vīra-Bukka.")*
+
+**Kannada closing line (as printed).** Here ends the second [numeral as printed; see above [?]] adhyāya, in the second aṣṭaka of the Ṛgvedasaṃhitā, together with the Śrī Sāyaṇa bhāṣya and the Kannada-language translation.
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*
+> *tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*
+
+*(Printed: "Śubhaṃ bhūyāt. Maṅgalam." — "May there be auspiciousness. Blessing.")*
+
+---
+
+**Progress note:** **Volume 11 fully translated** (Sūktas 137–157, printed pp. 2–696, PDF 20–714; last page = printed p. 696 with the Sanskrit and Kannada colophons). Sūkta 157 complete (pp. 667–695). Open flags: small-type bhāṣya read with doubt throughout, especially Sūkta 157 Ṛk 1, Ṛk 5, Ṛk 6 (pp. 669, 687, 690–691); long Śatapatha/Taittirīya-Brāhmaṇa/Upaniṣad/Vājasaneyi quotations (Sūkta 156 pp. 658–659; Sūkta 157 pp. 670–672, 676–678, 684, 688, 692–693) only partly legible; all Ṛg/Nirukta/Brāhmaṇa reference numerals, Pāṇini/Uṇādi sūtra numerals and the metre column of the Āśvalāyana list (p. 670–671) `[?]`; varga numeral printed "3?" on every page of Sūkta 157 `[?]`; the adhyāya numeral on the title pages of Sūktas 156–157 was read "3" but the closing Sanskrit colophon says *dvitīyo 'dhyāyaḥ* (second), so the numeral glyph may have been misread (2/3) — recheck in the numeral pass; page headers print "A. 21" for Sūkta 157, which begins Anuvāka 22 (as printed). Next: extend the review worklist to Vols 9–11, then the numeral pass and back-fill passes.
