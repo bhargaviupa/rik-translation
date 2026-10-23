@@ -858,13 +858,13 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Pratipadārtha, concluded.)* *vavṛtīmahi* — we obtain (your) support; (and) *āghṛṇe* — O Pūṣan, who rain all around, or who accept the oblation; *nahi atimanye* — I surely do not disregard you; *te* — your; *sakhyam* — friendship; *na apahnuve* — I do not neglect and cast away (do not lose).
 
-**Bhāvārtha.** O Pūṣan, whose steeds are goats [?], be near us, free from disregard and liberal in giving, to accept our worship; be near us who desire food. O destroyer of foes, with hymns able to please you we seek your support on every side. O Pūṣan, giver of rain, I surely do not disregard you; and I do not neglect your friendship or lose it.
+**Bhāvārtha.** O Pūṣan, whose steeds are in the form of goats, be near us, free from disregard and liberal in giving, to accept our worship; be near us who desire food. O destroyer of foes, with hymns able to please you we seek your support on every side. O Pūṣan, giver of rain, I surely do not disregard you; and I do not neglect your friendship or lose it.
 
 **English Translation (as printed).** Free from anger, and liberal of gifts, be near to us, Ajaswa, for the acceptance of this our (offering); be near to those, Ajaswa, who solicit food: we have recourse to you, destroyer of enemies, with pious hymns. I never cease, Pushan, accepter of offerings, to think of you; I never disregard your friendship.
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***ajāśva.*** हरी इन्द्रस्य । रोहितौ अग्नेः । अजाः पूष्णः [?] (*harī indrasya | rohitau agneḥ | ajāḥ pūṣṇaḥ [?]*) (Ni. 2-[?]) — in this way Yāska lists in order the vehicles of Indra and the other gods; *ajāśva* means Pūṣan, whose vehicle is the goat. Explaining the present Ṛk, Yāska shows that *asyā naḥ sātaye upabhuvaḥ*, *aheḷamāno 'krudhyan*, *ririvān* (*rātiḥ* …) etc. are addressed to *ajāśva* [?]; the Kannada says that in this way he has said that Pūṣan, with the goats as his steeds, is so addressed. *Ririvān*: Yāska explains the word: the root *rā* of giving, reduplicated (that is, doubled), becomes *ririvān*; "one who gives liberally" is the sense (Ni. 4-[?]).
+***ajāśva.*** हरी इन्द्रस्य । रोहितौ अग्नेः । अजाः पूष्णः (*harī indrasya | rohitau agneḥ | ajāḥ pūṣṇaḥ*) (Ni. 2-28) — in this way Yāska lists in order the vehicles of Indra and the other gods; *ajāśva* means Pūṣan, whose vehicle is the goat. Explaining the present Ṛk, Yāska says: अस्यै नः सातये उपभव । अहेळमानोऽक्रुध्यन् ररिवान् रातिरभ्यस्तोऽजाश्वेति पूषणमाह । अजाश्वा अजा अजनाः [?] (*asyai naḥ sātaye upabhava | aheḷamāno 'krudhyan ririvān rātir abhyasto 'jāśveti pūṣaṇam āha | ajāśvā ajā ajanāḥ [?]*) — that is, Pūṣan, with goats as his steeds, is addressed as *ajāśva*, asked to be near us without anger, bestowing his liberal gifts; the seer of the hymn so addresses Pūṣan. *Ririvān*: Yāska explains the word: the root *rā* of giving, reduplicated (that is, doubled), becomes *ririvān*; "one who gives liberally" is the sense (Ni. 4-25 [?]).
 
 ***dasma.*** *Śatrūṇām upakṣayitā* — "destroyer of foes"; Pūṣan is so addressed. The word *dasma* has two senses: one, destroyer of foes; the other, "beautiful" … (continues on p. 33).
 
@@ -876,45 +876,49 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Special Topics of Ṛk 4, continued from p. 32.)* [*dasma*, continued:] …"one possessing beauty" is the other sense. Derived from the root *dasi darśanadaṃśanayoḥ* the word means "worth seeing, charming"; derived from *dasu upakṣaye* it means "destroyer (of foes)". Since gods such as Indra possess both kinds of power, it is shown that *dasma* may be taken in either of the two senses. For example:
 
-> जुजोषदिन्द्रो दस्मवर्चा नासत्येव सुग्म्यो रथेषाः [?] ।
+> जुजोषदिन्द्रो दस्मवर्चा नासत्येव सुग्म्यो रथेष्ठाः ।
 
-> *jujoṣadindro dasmavarcā nāsatyeva sugmyo ratheṣāḥ [?] |*
+> *jujoṣadindro dasmavarcā nāsatyeva sugmyo ratheṣṭhāḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].)
+(Ṛ. Saṃ. 1-123-4.)
 
-> त्वं भगो न आ हि रत्नमिषे परिज्मेव क्षयसि दस्मवर्चाः [?] ।
+> त्वं भगो न आ हि रत्नमिषे परिज्मेव क्षयसि दस्मवर्चाः ।
 
-> *tvaṃ bhago na ā hi ratnamiṣe parijmeva kṣayasi dasmavarcāḥ [?] |*
+> *tvaṃ bhago na ā hi ratnamiṣe parijmeva kṣayasi dasmavarcāḥ |*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].)
+(Ṛ. Saṃ. 6-13-2.)
 
-> पूषा सुबन्धुर्दिव आ पृथिव्या इळस्पतिर्मघवा दस्मवर्चाः [?] ।
+> पूषा सुबन्धुर्दिव आ पृथिव्या इळस्पतिर्मघवा दस्मवर्चाः ।
 
-> *pūṣā subandhurdiva ā pṛthivyā iḷaspatirmaghavā dasmavarcāḥ [?] |*
+> *pūṣā subandhurdiva ā pṛthivyā iḷaspatirmaghavā dasmavarcāḥ |*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].) In such Ṛks, in the first place *śatrūpakṣayaṇabalaḥ* — "one whose strength destroys foes"; in the second, *varcaḥ* is a name for form: *dasmaṃ darśanīyaṃ varcaḥ yasya tādṛśaḥ* — "one whose form is charming", is shown to be the sense. As the adjective *dasma* is applied in many places of the Ṛksaṃhitā to Indra and other gods, in the Ṛk at hand it is applied to Pūṣan, describing his foe-destroying power and his lovely form.
+(Ṛ. Saṃ. 6-58-4.) In such Ṛks, in the first place *śatrūpakṣayaṇabalaḥ* — "one whose strength destroys foes"; in the second, *varcaḥ* is a name for form: *dasmaṃ darśanīyaṃ varcaḥ yasya tādṛśaḥ* — "one whose form is charming", is shown to be the sense. As the adjective *dasma* is applied in many places of the Ṛksaṃhitā to Indra and other gods, in the Ṛk at hand it is applied to Pūṣan, describing his foe-destroying power and his lovely form.
 
-***āghṛṇe.*** *Sarvato vṛṣṭeḥ kṣārayituḥ*; or *haviṣām āhartaḥ svīkartaḥ* — Sāyaṇa explains that Pūṣan is addressed as "one who pours down rain on all sides" or "one who receives oblations". That Pūṣan has this epithet is a matter of discussion among critics. His qualities are of many kinds, and as they show various aspects of his nature it is hard to decide what his original nature is; for recent critics it is a difficult question. Yāska counts Pūṣan among the gods of the sky region [sic, *dyusthāna*]; the scholar Bloomfield, following Yāska, on the strength of the epithet *āghṛṇi* in Ṛ. Saṃ. 6-[?]-[?], 6-[?]-[?], 6-[?]-[?] and the like, maintains that Pūṣan is the Sun who gives light. Some oppose this: they say the word *āghṛṇi* relates only to radiance and may be used of any radiant deity, with no rule that it must be the Sun; for example in Ṛ. Saṃ. 9-[?]-[?] [?] it is also an epithet of Agni; so from this one epithet it cannot be decided that Pūṣan is the Sun. Yāska, the author of the Bṛhaddevatā and other followers of the Vedic tradition (continued on p. 34)
+***āghṛṇe.*** *Sarvato vṛṣṭeḥ kṣārayituḥ*; or *haviṣām āhartaḥ svīkartaḥ* — Sāyaṇa explains that Pūṣan is addressed as "one who pours down rain on all sides" or "one who receives oblations". That Pūṣan has this epithet is a matter of discussion among critics. His qualities are of many kinds, and as they show various aspects of his nature it is hard to decide what his original nature is; for recent critics it is a difficult question. Yāska counts Pūṣan among the gods of the sky region [sic, *dyusthāna*]; the scholar Bloomfield, following Yāska, on the strength of the epithet *āghṛṇi* in Ṛ. Saṃ. 6-48-16, 6-53-3, 6-55-1 and the like, maintains that Pūṣan is the Sun who gives light. Some oppose this: they say the word *āghṛṇi* relates only to radiance and may be used of any radiant deity, with no rule that it must be the Sun; for example in Ṛ. Saṃ. 8-60-20 it is also an epithet of Agni; so from this one epithet it cannot be decided that Pūṣan is the Sun. Yāska, the author of the Bṛhaddevatā and other followers of the Vedic tradition (continued on p. 34)
 
 ### Printed p. 34  (PDF 52)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 138".)*
 
-…have shown clearly that *āghṛṇi* is an epithet showing only Pūṣan's distinction. Yāska, giving the derivation of the word in the Nirukta, explains *āgatahṛṇiḥ* ("one whose *hṛṇi* has come") and cites the Ṛk in which the word occurs:
+…have shown clearly that *āghṛṇi* is an epithet showing only Pūṣan's distinction. Yāska, giving the derivation of the word in the Nirukta, explains *āgatahṛṇiḥ* ("one whose *hṛṇi* has come") and cites the Ṛk in which the word occurs. But when he says *āgatahṛṇiḥ* he has not given a refined sense of the word *hṛṇi*:
 
-> एहि वां विमुचो नपादाघृणे सं सचावहै । रथीर्ऋतस्य नो भव [?] ॥
+> एहि वां विमुचो नपादाघृणे सं सचावहै । रथीर्ऋतस्य नो भव ॥
 
-> *ehi vāṃ vimuco napādāghṛṇe saṃ sacāvahai | rathīrṛtasya no bhava [?] ‖*
+> *ehi vāṃ vimuco napādāghṛṇe saṃ sacāvahai | rathīrṛtasya no bhava ‖*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].) The Kannada says: *hṛṇi* is read both among words for radiance (Ni. 3-[?]) and among names of anger (Ni. 2-[?]); so Durgācārya, commenting on the word, says *āghṛṇi-śabdo dīptivācakaḥ; dīptikarmasu ca paṭhito vinā 'yaṃ hṛṇiḥ iti* ("the word *āghṛṇi* means radiance; *hṛṇi* is read among words of radiance") — "radiant" is one sense — and *krodho 'pi hṛṇir ity ucyate* ("anger too is called *hṛṇi*"), so another sense is possible: "the one whose wrath is directed at us — may we appease him". In sum, it is an epithet showing Pūṣan's distinction. The authors of the Bṛhaddevatā, in the verses
+(Ṛ. Saṃ. 6-55-1.) The Kannada says: *hṛṇi* is read both among words for radiance (Ni. 2-25 [?]) and among names of anger (Ni. 3-9 [?], as printed); so Durgācārya, commenting on the word, says *āghṛṇi-śabdo dīptivācakaḥ; dīptikarmasu ca paṭhito vinā 'yaṃ hṛṇiḥ iti* ("the word *āghṛṇi* means radiance; *hṛṇi* is read among words of radiance") — "radiant" is one sense — and *krodho 'pi hṛṇir ity ucyate* ("anger too is called *hṛṇi*"), so another sense is possible: "the one whose wrath is directed at us — may we appease him". In sum, it is an epithet showing Pūṣan's distinction. The authors of the Bṛhaddevatā, in the verses
 
-> त्रैको विश्वेषां देवानां पूष्ण आघृणये त्र्यचे [?] । [… rest of the quotation not legible at this resolution …] ॥
+> तृचो विश्वेषां देवानां पूष्ण आघृणये तृचः ।
+> आसक्तो हि घृणिस्तस्य दध्नः पूर्णो दृती रथे ॥
+> आघृणिस्तत्स्तुतः पूषा कीरिभी रिभ्यते ततः ।
 
-> *traiko viśveṣāṃ devānāṃ pūṣṇa āghṛṇaye tryace [?] | [… rest of the quotation not legible at this resolution …] ‖*
+> *tṛco viśveṣāṃ devānāṃ pūṣṇa āghṛṇaye tṛcaḥ |*
+> *āsakto hi ghṛṇistasya dadhnaḥ pūrṇo dṛtī rathe ‖*
+> *āghṛṇistatstutaḥ pūṣā kīribhī ribhyate tataḥ |*
 
-(Bṛ. De. [?]-[?]-[?] [?]) show that because a leather bag filled with *ghṛṇi* (an intoxicating substance) is tied to his chariot he is called *āghṛṇi*, and that the poets, singers of praise, therefore praised Pūṣan as *āghṛṇi*. Sāyaṇa gives the sense given above — *vṛṣṭeḥ kṣārayituḥ* or *haviṣām āhartuḥ* — only in the present Ṛk, but in all the other Ṛks where the word occurs (3-[?]-[?], 6-[?]-[?] and others) he explains it as *āgate dīpte pūṣan*. In 6-[?]-[?] alone is the epithet used of Agni; elsewhere it is always Pūṣan's, and shows his distinction.
+(Bṛ. De. 3-95-96 [?]) show that because a leather bag filled with *ghṛṇi* (an intoxicating substance) is tied to his chariot he is called *āghṛṇi*, and that the poets, singers of praise, therefore praised Pūṣan as *āghṛṇi*. Sāyaṇa gives the sense given above — *vṛṣṭeḥ kṣārayituḥ* or *haviṣām āhartuḥ* — only in the present Ṛk, but in all the other Ṛks where the word occurs (3-62-7 [?], 6-48-16, 6-55-3 [?], 2-40-6, 8-4-12, 9-62-1[?], 10-1[?]-5 and others) he explains it as *āgate dīpte pūṣan*. In 8-60-20 alone is the epithet used of Agni; elsewhere it is always Pūṣan's, and shows his distinction.
 
-**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *ūṣu* (*su* by Pā. Sū. 8-3-[?]; the preceding word is a *nimitta*), *sātaye* (*ūtiyūti jūti sāti heti kīrtayaś ca* (Pā. Sū. 3-3-[?]): *ktin*, final-accent; dative singular), *bhuvaḥ* (root *bhū sattāyām*; *leṭ* second person singular, *sip*; *iteś ca lopaḥ* (Pā. Sū. 3-4-[?]) drops *i*; *bahulaṃ chandasi*).
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly).** *ūṣu* (*su* by Pā. Sū. 8-3-107 (as printed 8-3-102 [?]); the preceding word is a *nimitta*), *sātaye* (*ūtiyūti jūti sāti heti kīrtayaś ca* (Pā. Sū. 3-3-97): *ktin*, final-accent; dative singular), *bhuvaḥ* (root *bhū sattāyām*; *leṭ* second person singular, *sip*; *iteś ca lopaḥ* (Pā. Sū. 3-4-97) drops *i*; *bahulaṃ chandasi*).
 
 ### Printed p. 35  (PDF 53)
 
