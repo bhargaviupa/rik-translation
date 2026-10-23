@@ -16484,4 +16484,160 @@ In such Ṛks it is *prāpnuvān*, "attaining", so it has the sense of motion [?
 
 ---
 
-**Progress note:** Sūkta 155 in progress: Ṛk 3 Special Topics continue (printed pp. 613–618, PDF 631–636). **Flag:** the words *bhuraṇyati*/*abhikhyāya* discussed on pp. 617–618 belong to a later Ṛk of this sūkta (their Ṛk text has not yet appeared; the Ṛk 3 Saṃhitā as read has no such word) — check on the next pages whether the print has Ṛk 4 and 5 text there, or whether the Ṛk 3 reading on p. 611 needs correcting. Next: printed p. 619 (PDF 637). Open flags: small-type Brāhmaṇa quotations partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 619  (PDF 637)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 3 conclude; grammar.)*
+
+> अभिख्या नो मघवन्नाधमानान्सखे बोधि वसुपते सखीनाम् ।
+> रणं कृधि रणकृत्सत्यशुष्माभक्ष्ये चिदा भजा रायो अस्मान् ॥
+
+> *abhikhyā no maghavannādhamānānsakhe bodhi vasupate sakhīnām |*
+> *raṇaṃ kṛdhi raṇakṛtsatyaśuṣmābhakṣye cidā bhajā rāyo asmān ‖*
+
+(Ṛ. Saṃ. 10-112-10 [?], as printed.)
+
+In such Ṛks *abhikhyā* is *abhikhyāpanena prasiddhān kuru*: "make [us] famous": announce our devotion and so on to all the world in words of praise and make our name famous — so the sense; in the same way in the present Ṛk it means that [Viṣṇu] makes [his greatness] manifest.
+
+**vayaḥ** (*vayaś cana*) — *gantṛtvāt pakṣisādṛśyāc ca marutstotre vaya ucyate*: "because they are always moving, and because they resemble birds, the Maruts are called *vayaḥ* in the hymn to the Maruts": because of their always-moving nature and their likeness to birds, *vayaḥ* here means the Maruts. It was told before, with examples, that this word has many senses: food, strength, life-span, ray, and so on.
+
+*(Note: the words *bhuraṇyati*, *abhikhyāya* and *vayaḥ* discussed at the end of the Special Topics of Ṛk 3 (pp. 617–619) are not words of the Ṛk 3 text as I read it on p. 611; they are recorded as printed.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar pages 619–620, noted briefly).** *vardhanti* (root *vṛdhu vṛddhau*; *hetumati ca* — *ṇic*; since *ṇic* is *ṇit*, guṇa of the root; after the *ṇijanta*, *laṭ* 3rd pl. by *jhi* → *anti*; *chandasy ubhayathā* (Pā. Sū. 3-4-117) *ārdhadhātuka*-treatment, so *ṇeraniṭi* (Pā. Sū. 6-4-51) *ṇic*-loss; *nighāta* since after an *atiṅanta*); *mahi* (root *maha pūjāyām*; *in sarvadhātubhyaḥ*; *nit*: first *udātta*); *pauṃsyam* (*puṃsaḥ karma pauṃsyam*; *ṣyañ*; *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117) *vṛddhi* of the first; *ñnityādir nityam*); *mātarā* (root *māna pūjāyām*; *naptṛneṣṭṛ…* (Uṇ. Sū. 2-[?]) *tṛc*-ending; dual; *supāṃ sulug…* (Pā. Sū. 7-1-39) *ā*; *ṛṣo jaṃ sarva…*; by *aptṛntṛc…* the penultimate is not lengthened; *cit*: final *udātta*); *nayati* (root *ṇīñ prāpaṇe*; *laṭ* 3rd sg.; *nighāta*) …
+
+---
+
+### Printed p. 620  (PDF 638)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+*(Grammar of Ṛk 3, concluded; noted briefly.)* *bhuje* (root *bhuja pālanābhyavahārayoḥ*; *kvip ca* — *kvip*; dative sg.; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) the ending is *udātta*); *dadhāti* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ* 3rd sg.; at the head of the *pāda*, no *nighāta*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first syllable *udātta*); *putraḥ* (root *pūñ pavane*; *puvo hrasvaś ca* (Uṇ. Sū. 4-[?]) *tra*; being *kit*, no guṇa; suffix accent: final *udātta*); *tṛtīyam* (*treḥ saṃprasāraṇaṃ ca* (Pā. Sū. 5-2-55) *tīya* suffix; *saṃprasāraṇa*; the suffix first *udātta*, so *i* is *udātta*); *rocane* (root *ruca dīptau*; *yuc*; *yuvor anākau* (Pā. Sū. 7-1-1) *ana*; *cit*: *citaḥ* final *udātta*); *divaḥ* (*ūḍidaṃpadādi…* (Pā. Sū. 6-1-171) the ending is *udātta*). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तत्तदिदस्य पौंस्यं गृणीमसीनस्य त्रातुरवृकस्य मीळ्हुषः ।
+> यः पार्थिवानि त्रिभिरिद्विगामभिरुरु क्रमिष्टोरुगायाय जीवसे ॥ ४ ॥
+
+> *tattadidasya pauṃsyaṃ gṛṇīmasīnasya trāturavṛkasya mīḷhuṣaḥ |*
+> *yaḥ pārthivāni tribhiridvigāmabhiruru kramiṣṭorugāyāya jīvase ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> तत्ऽतत् । इत् । अस्य । पौंस्यम् । गृणीमसि । इनस्य । त्रातुः । अवृकस्य । मीळ्हुषः ।
+> यः । पार्थिवानि । त्रिऽभिः । इत् । विगामऽभिः । उरु । क्रमिष्ट । उरुऽगायाय । जीवसे ॥ ४ ॥
+
+> *tat 'tat | it | asya | pauṃsyam | gṛṇīmasi | inasya | trātuḥ | avṛkasya | mīḷhuṣaḥ |*
+> *yaḥ | pārthivāni | tri 'bhiḥ | it | vigāma 'bhiḥ | uru | kramiṣṭa | uru 'gāyāya | jīvase ‖ 4 ‖*
+
+---
+
+### Printed p. 621  (PDF 639)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: we praise the manliness of Viṣṇu, lord, protector, harmless, showerer, who with three wide strides crossed the earthly worlds, for the preservation of beings. Small type, read with doubt.)*
+
+> अस्य महानुभावस्य तत्तत्पौंस्यं पुंस्त्वं पराक्रमाशीयं [?] गृणीमसि । गृणीमः । स्तुमः । कीदृशस्यास्य । इनस्य सर्वस्य स्वामिनः । त्रातुः पालकस्य । अवृकस्य । वृको हिंसकः शत्रुः । अवृकस्य अहिंसकस्य [?] । मीळ्हुषः सेक्तुः कामानां वर्षितुः । योऽयं विष्णुः पार्थिवानि पृथिव्यादीनि पार्थिवानि पृथिव्यादिलोकत्रये संबन्धीनि [?] प्रथनवन्ति पृथिव्यादिलोकानां वा । सामर्थ्यात् रजांसीति गम्यते । लोकत्रयस्यापि पृथिवीशब्दवाच्यत्वं पूर्वमुदाहृतम् । तानि त्रिभिरिद्विगामभिः त्रिभिरेव विविधगमनैरुरु विस्तीर्णं यथा भवति तथा क्रमिष्ट क्रान्तवान् । विचक्रम इत्यर्थः । उरुगायायोरुगातव्याय जीवनाय [?] लोकत्रयरक्षणाय । यद्वा । उरुगायाय ॥ षष्ठ्यर्थे चतुर्थी । उरुगायस्य विष्णोरीदृशं पराक्रमं गृणीमसि । किमर्थम् । जीवसे जीवनाय रक्षणाय ॥
+
+> *asya mahānubhāvasya tattatpauṃsyaṃ puṃstvaṃ parākramāśīyaṃ [?] gṛṇīmasi | gṛṇīmaḥ | stumaḥ | kīdṛśasyāsya | inasya sarvasya svāminaḥ | trātuḥ pālakasya | avṛkasya | vṛko hiṃsakaḥ śatruḥ | avṛkasya ahiṃsakasya [?] | mīḷhuṣaḥ sektuḥ kāmānāṃ varṣituḥ | yo 'yaṃ viṣṇuḥ pārthivāni pṛthivyādīni pārthivāni pṛthivyādilokatraye saṃbandhīni [?] prathanavanti pṛthivyādilokānāṃ vā | sāmarthyāt rajāṃsīti gamyate | lokatrayasyāpi pṛthivīśabdavācyatvaṃ pūrvamudāhṛtam | tāni tribhiridvigāmabhiḥ tribhireva vividhagamanairuru vistīrṇaṃ yathā bhavati tathā kramiṣṭa krāntavān | vicakrama ityarthaḥ | urugāyāyorugātavyāya jīvanāya [?] lokatrayarakṣaṇāya | yadvā | urugāyāya ‖ ṣaṣṭhyarthe caturthī | urugāyasya viṣṇorīdṛśaṃ parākramaṃ gṛṇīmasi | kimartham | jīvase jīvanāya rakṣaṇāya ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *inasya* — of the lord (of the whole world); *trātuḥ* — of the protector; *avṛkasya* — of the harmless; *mīḷhuṣaḥ* — of the very mighty one who showers (desired objects); *(and)* *yaḥ* — who; *pārthivāni* — the three worlds, earth and the rest; *tribhir id vigāmabhiḥ* — by strides, taken in just three (three steps), moving in diverse ways; *uru* — so as to be very wide; *kramiṣṭa* — strode over; *urugāyāya* — praised by many; *asya* — of this great Viṣṇu; *tat-tad it pauṃsyam* — the very several manly valorous deeds; *(urugāyāya* — praised in many ways*)*; *jīvase* — for the protection (of the three worlds); *gṛṇīmasi* — we praise.
+
+**भावार्थः (Bhāvārtha).** We praise those manly deeds of Viṣṇu — the lord of the whole world, protector, harmless, a very vigorous youth, who strode over the three worlds, earth and the rest, with just three steps moving in diverse ways, so that they became very wide, and who is praised by many — for the protection of the three worlds.
+
+**English Translation (as printed; heading printed "English Tranlation" [sic]).** Therefore, verily, we celebrate the manhood of that lord (of all), the preserver, the innocuous, the vigorous, who traversed the three regions with three wide steps, in different directions, for the many-praised (preservation of) existence.
+
+---
+
+### Printed p. 622  (PDF 640)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **inasya** — *niyantuḥ īśvarasya* [?] — "of the controller, the lord". [The Nirukta-author] has included *inaḥ* among the names of the lord, with the derivation *ina ity etasmāt īṃ nite aiśvarye neti vā sanitam anenaiśvaryam iti vā* (Ni. 3-11 [?]): one filled with lordship, or one who fills others with lordship; therefore the lord (the master) is named *inaḥ*. Since he, pervading the whole world in his all-pervading form, is lord over all, and since he is himself the cause of the increase of the world's prosperity, this epithet is fitting for Viṣṇu.
+
+**avṛkasya** — *vṛkaḥ hiṃsakaḥ śatrvādiḥ | tadrahitasya* — "free from the harmful enemy and so on": "harmless, not an enemy". The Nirukta-author
+
+> उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः ।
+> असुं य ईयुरवृका ऋतज्ञास्ते नोऽवन्तु पितरो हवेषु ॥
+
+> *udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ |*
+> *asuṃ ya īyuravṛkā ṛtajñāste no 'vantu pitaro haveṣu ‖*
+
+(Ṛ. Saṃ. 10-15-1.)
+
+cites this Ṛk, and as he explained *avṛkāḥ* there as *anamitrāḥ*, "those who are not enemies", so Sāyaṇa too, wherever the word *avṛka* occurs, has explained it as *anamitraḥ*, *ahiṃsakaḥ*. Although the sense in this is "protector", there is also the negative sense of "not harmful".
+
+**mīḷhuṣaḥ** — the word is formed from the root *mih*, of the sense of sprinkling. *yan mehati tad varṣati* (Bṛ. U. 1-1-1 [?]) — in this sentence one may see its root sense.
+
+> वाजयन्निव नू रथान्योगाँ अग्नेरुप स्तुहि ।
+> यशस्तमस्य मीळ्हुषः ॥
+
+> *vājayanniva nū rathānyogā~ agnerupa stuhi |*
+> *yaśastamasya mīḷhuṣaḥ ‖*
+
+(Ṛ. Saṃ. 3-10-9 [?], as printed.)
+
+In such Ṛks it means *phalasya sektuḥ*, "one who pours forth the desired fruits". In the present Ṛk, "one with power of pouring forth (*retaḥ*) always" is the explanation. *sektuḥ nityataruṇasya* [?] — "of the ever young": the sense is "he who always keeps youth". As an epithet of the gods of food and so on, of very liberal [?] nature, this word is used in many places. The word *mīḷhuṃ* formed from this root is included among the names of wealth (Ni. 2-10 [?]), and *mīḷhe* among the names of battle (Ni. 2-17 [?]). Their special senses are explained in the respective contexts.
+
+**pārthivāni** — *pṛthivyādīni prathanavanti vā* — "earth and the rest, or the extensive ones": the three worlds, earth and the rest, that pervade very widely. That the three worlds are called by the word *pṛthivī* …
+
+---
+
+### Printed p. 623  (PDF 641)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+… was told before (in this same portion, in the special topics of the Ṛk 1-[?] [?]), with examples. Even such three worlds, **tribhir id vigāmabhiḥ uru kramiṣṭa** — he made them still very wide by his several movements in different forms. And he pervaded and traversed all of them: *uru vistīrṇaṃ bhavati yathā tathā krāntavān*. That Viṣṇu, by his power of pervasion, made them more extended than the atmosphere and the rest, the Bṛhaddevatā-author says, by a story on the basis of the Ṛksaṃhitā.
+
+> सखे विष्णो वितरं वि क्रमस्व द्यौर्देहि लोकं वज्राय विष्कभे ।
+> हनाव वृत्रं रिणचाव सिन्धूनिन्द्रस्य यन्तु प्रसवे विसृष्टाः ॥
+
+> *sakhe viṣṇo vitaraṃ vi kramasva dyaurdehi lokaṃ vajrāya viṣkabhe |*
+> *hanāva vṛtraṃ riṇacāva sindhūnindrasya yantu prasave visṛṣṭāḥ ‖*
+
+(Ṛ. Saṃ. 6-100-12 [?], as printed.)
+
+In this Ṛk, when at the time of the slaying of the demon Vṛtra, Vṛtra had grown very widely and Indra's strength was insufficient to use the *vajra* upon him, Indra prays Viṣṇu to grow wide, and the atmosphere too, to help him in slaying Vṛtra. On the basis of this Ṛk the Bṛhaddevatā story is as follows:
+
+> त्रीँल्लोकानभितश्चेमान्वृत्रस्तौ [?] स्वयोतिषा [?] । तं नाशकद्दन्तुमिन्द्रो विष्णुमभ्येत्य सोऽब्रवीत् ॥ वृत्रं हनिष्ये तिष्ठस्व विक्रम्याद्य ममान्तिके । उद्यैतस्यैव वज्रस्य द्यार्दवाम [?] ममान्तिके ॥ तथेति विष्णुस्तच्चक्रे द्यौश्चास्य विवरं ददौ ॥
+
+> *trī~llokānabhitaścemānvṛtrastau [?] svayotiṣā [?] | taṃ nāśakaddantumindro viṣṇumabhyetya so 'bravīt ‖ vṛtraṃ haniṣye tiṣṭhasva vikramyādya mamāntike | udyaitasyaiva vajrasya dyārdavāma [?] mamāntike ‖ tatheti viṣṇustaccakre dyauścāsya vivaraṃ dadau ‖*
+
+(Bṛ. De. 6-13 to 15 [?], as printed.)
+
+Vṛtra, harmful to the three worlds, stood grown by his own deformed and harmful pervasion. Indra could not check him. Then Indra approached Viṣṇu, described his plight, and prayed: "I have to slay Vṛtra; grow vast and help me in this work; let the atmosphere also grow, to suit my use of the *vajra*." Viṣṇu agreed and grew accordingly. The atmosphere too made the needed opening for Indra. The same point is hinted elsewhere in the Ṛksaṃhitā:
+
+> उत माता महिषमन्ववेनदमी त्वा जहति पुत्रा देवाः ।
+> अथाब्रवीद्वृत्रमिन्द्रो हनिष्यन्त्सखे विष्णो वितरं वि क्रमस्व ॥
+
+> *uta mātā mahiṣamanvavenadamī tvā jahati putrā devāḥ |*
+> *athābravīdvṛtramindro haniṣyantsakhe viṣṇo vitaraṃ vi kramasva ‖*
+
+(Ṛ. Saṃ. 8-96-15 [?], as printed.)
+
+---
+
+### Printed p. 624  (PDF 642)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+In this Ṛk, Indra's mother, seeing the growth of the invincible Vṛtra, is anxious; and Indra prays to Viṣṇu in the way described above. The incidents cited above also concern Viṣṇu's wide growth. And this same incident is described in the Taittirīya-Saṃhitā, and in the description *tribhir id vigāmabhiḥ* the threefold extension in the three worlds is told:
+
+*(Long small-type Taittirīya-Saṃhitā passage, about 22 lines, repetitive; only partly legible at this resolution. I give only its recognisable words; the rest is marked [?].)*
+
+> आसीदेवा [?] तावद्ध्यग्नीषोमौ [?] संभवन्ग्नीषोमावभि समभवतामिषुमात्रमिषुमात्रं विष्णुर्ववर्धे स इमान्लोकानाव्याप्नोद्यदिमान्लोकान् [?] वृत्रोऽवृणोत् [?] तस्माद्वृत्रः [?] तस्मादिन्द्रोऽबिभेत् [?] … वज्रं … [?] तं वज्रमुद्यन्तुं नाशक्नोत् [?] … विष्णुमब्रवीत् [?] सखे विष्णो … [?] त्रेधात्मानं व्यकल्पयत् [?] पृथिव्यां तृतीयमन्तरिक्षे तृतीयं दिवि तृतीयमभ्यपर्यावर्तयत् [?] तृतीयमासीत्सेन्द्रो वज्रमुदयच्छद्विष्णुस्सुस्वौ [?] … ब्रवीन्मा मे प्र हारस्ति वा इदं मयि वीर्यं तत्ते प्र दास्यामीति तथेति [?] प्रायच्छत्तत्पृश्नि [?] … प्रस्कृग्रहादस्मिन्नेन्द्र इन्द्रियं दधाथेति [?] यद्वदन्तेरिष्टे [?] तृतीयमासीत्सेन्द्रो वज्रमुद्यच्छद्विष्णुस्सुस्वौ ब्रवीन्मा मे प्र हारस्ति वा इदं मयि वीर्यं तत्ते प्र दास्यामीति … [?] ॥
+
+> *āsīdevā [?] tāvaddhyagnīṣomau [?] saṃbhavangnīṣomāvabhi samabhavatāmiṣumātramiṣumātraṃ viṣṇurvavardhe sa imānlokānāvyāpnodyadimānlokān [?] vṛtro 'vṛṇot [?] tasmādvṛtraḥ [?] tasmādindro 'bibhet [?] … vajraṃ … [?] taṃ vajramudyantuṃ nāśaknot [?] … viṣṇumabravīt [?] sakhe viṣṇo … [?] tredhātmānaṃ vyakalpayat [?] pṛthivyāṃ tṛtīyamantarikṣe tṛtīyaṃ divi tṛtīyamabhyaparyāvartayat [?] tṛtīyamāsītsendro vajramudayacchadviṣṇussusvau [?] … bravīnmā me pra hārasti vā idaṃ mayi vīryaṃ tatte pra dāsyāmīti tatheti [?] prāyacchattatpṛśni [?] … praskṛgrahādasminnendra indriyaṃ dadhātheti [?] yadvadanteriṣṭe [?] tṛtīyamāsītsendro vajramudyacchadviṣṇussusvau bravīnmā me pra hārasti vā idaṃ mayi vīryaṃ tatte pra dāsyāmīti … [?] ‖*
+
+(Tai. Saṃ. 2-4-12-? [?], as printed; numerals doubtful.)
+
+[The following is the Kannada explanation of this passage, as printed.] In former days Vṛtra, produced from the sacrificial fire, grew, pervading all the worlds very quickly, with the speed of an arrow leaving a bow and with a vast measure. Therefore he got the name *Vṛtra*. Seeing this, Indra was seized with fear. Then Tvaṣṭṛ [?] made the *vajra* weapon, and gave it to Indra, telling him to strike Vṛtra with it. Even to lift the *vajra*, produced by the greatness of austerity, was beyond Indra's power. Then Viṣṇu was standing by. When Indra prayed to Viṣṇu to help him in slaying Vṛtra, Viṣṇu agreed, divided his body into three parts, and placed one part on the earth, one in the atmosphere and the remaining third in the heavenly world. With the help of Viṣṇu's body on earth, Indra raised the *vajra* and hurled it …
+
+---
+
+**Progress note:** Sūkta 155 in progress: Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and its Special Topics through the Vṛtra/Viṣṇu story begun (printed pp. 619–624, PDF 637–642). Next: printed p. 625 (PDF 643). Open flags: the Special Topics of Ṛk 3 (pp. 617–619) discuss *bhuraṇyati*, *abhikhyāya*, *vayaḥ*, not found in the Ṛk 3 text as read — recorded as printed; small-type Tai. Saṃ. passage on p. 624 only partly legible; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
