@@ -15530,4 +15530,208 @@ In this Ṛk the greatness of Viṣṇu's supreme station is described, and the 
 
 ---
 
-**Progress note:** Sūkta 154 in progress: Ṛk 4 complete (Special Topics on *tridhātu*, grammar); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the start of its Special Topics done (printed pp. 583–588, PDF 601–606). Next: printed p. 589 (PDF 607) — rest of Ṛk 5 Special Topics, grammar, Ṛk 6. Open flags: small-type bhāṣya and the Aitareya/Taittirīya quotations partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 589  (PDF 607)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 5 continue.)*
+
+… having cited this Ṛk, [Yāska] says *ittham api nigamo bhavati* [?] ("there is a Vedic passage in this sense also") and shows that the word *pāthaḥ* is a synonym of *antarikṣa*.
+
+*panthāḥ patervā, padyaterva, panthaterva* (Ni. 9-[?] [?]) — the explanation of the word *panthā* is given as: from any of the roots of motion *pat*, *pad*, or *path* (*panth*) the form *panthā* can be derived. For the word *pāthaḥ* too these same roots are the source; so this word has not only the sense "atmosphere" but also "water" and "food".
+
+*udakam api pātha ucyate pānāt* (Ni. 6-[?] [?]) — "Water also is called *pātha*, from drinking": because it is drunk, water too has the name *pāthaḥ*; and having told this, he cites
+
+> आ चष्ट आसां पाथो नदीनां वरुण उग्रः सहस्रचक्षाः ।
+
+> *ā caṣṭa āsāṃ pātho nadīnāṃ varuṇa ugraḥ sahasracakṣāḥ |*
+
+(Ṛ. Saṃ. 2-[?]-[?], numerals doubtful.)
+
+and says that in this Ṛk *pāthaḥ* means water; and
+
+*annam api pātha ucyate pānād eva* (Ni. 6-[?] [?]) — "food too is called *pātha*, from drinking [*pāna*, here taken as 'enjoying']": since it is derived from the root *pā* which gives the sense "to partake", food also has this name; and having told this, he cites
+
+> वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् ।
+> स्वदाति देवः कृणवद्देवेंस्थवतां [?] द्यावापृथिवी हवं मे ॥
+
+> *vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān |*
+> *svadāti devaḥ kṛṇavaddeveṃsthavatāṃ [?] dyāvāpṛthivī havaṃ me ‖*
+
+(Ṛ. Saṃ. 10-20-[?], numerals doubtful.)
+
+and the Nirukta-author says that in this Ṛk the word means food.
+
+In the present Ṛk this word is a synonym of *antarikṣa*. It is said that this world is *priyam*, dear to Viṣṇu; and therefore *devayavaḥ naraḥ madanti*. *devaṃ dyotanasvabhāvaṃ viṣṇum ātmana icchanto yajñadānādibhiḥ prāptum icchanto naraḥ tṛptim anubhavanti* — the men who, wishing to win the shining Viṣṇu for themselves by sacrifice, gifts and so on, enjoy satisfaction. All the sacrificers who desire to please Viṣṇu who is pleased by sacrifices and gifts, and to gain his grace, experience bliss in that world.
+
+**urukramasya viṣṇoḥ** — *ātmīyaikikaṃ* [?] *sarvaṃ jagad ākramamāṇasya tattadātmanā āte iva vyāpakasya parameśvarasya* [?] — the nature of Viṣṇu who is all-pervading is described: the Lord of the universe who pervades the whole world by his own form.
+
+**parame pade** — *utkṛṣṭe niratiśaye kevalasukhātmake sthāne* — in the supreme, unsurpassed station consisting solely of bliss. Since it is said that it is the station where there is entire absence of sorrow and which consists solely of bliss, …
+
+---
+
+### Printed p. 590  (PDF 608)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+… the word *pāthaḥ* too must be explained not as the common, current "atmosphere" but as the highest world above. The nature of this supreme station is described in the Upaniṣads thus:
+
+> यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः ।
+> स तु तत्पदमाप्नोति यस्माद्भूयो न जायते ॥
+> विज्ञानसारथिर्यस्तु मनःप्रग्रहवान्नरः ।
+> सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥
+
+> *yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ |*
+> *sa tu tatpadamāpnoti yasmādbhūyo na jāyate ‖*
+> *vijñānasārathiryastu manaḥpragrahavānnaraḥ |*
+> *so 'dhvanaḥ pāramāpnoti tadviṣṇoḥ paramaṃ padam ‖*
+
+(Kaṭha 3-8-9 [?], as printed.)
+
+The self-controlled one who has gained the knowledge of the Self and is endowed with the wealth of calm and self-restraint reaches the supreme station of Viṣṇu and is not born again as a worldling: thus the Kaṭha Upaniṣad praises the greatness of the supreme station. Therefore it is not the merely current atmosphere. This same supreme station is described further on in the Muṇḍaka:
+
+> सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः ।
+> येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत्सत्यस्य परमं निधानम् ॥
+
+> *satyameva jayate nānṛtaṃ satyena panthā vitato devayānaḥ |*
+> *yenākramantyṛṣayo hyāptakāmā yatra tatsatyasya paramaṃ nidhānam ‖*
+
+(Muṇḍaka 3-1-6.)
+
+The sages, whose desires are fulfilled and who know the supreme truth, attain that most exalted Satya-loka — this itself is described as the supreme station. In this supreme station is *madhva utsaḥ*, a flow of the bliss of the Self. The nature of this bliss is described in the Upaniṣads by
+
+> सलिल एको द्रष्टाद्वैतो भवत्येष ब्रह्मलोकः सम्राडिति हैनमनुशशास याज्ञवल्क्यः । एषास्य परमा गतिरेषास्य परमा संपदेषोऽस्य परमो लोक एषोऽस्य परम आनन्द एतस्यैवानन्दस्यान्यानि भूतानि मात्रामुपजीवन्ति ॥
+
+> *salila eko draṣṭādvaito bhavatyeṣa brahmalokaḥ samrāḍiti hainamanuśaśāsa yājñavalkyaḥ | eṣāsya paramā gatireṣāsya paramā saṃpadeṣo 'sya paramo loka eṣo 'sya parama ānanda etasyaivānandasyānyāni bhūtāni mātrāmupajīvanti ‖*
+
+(Bṛ. U. 4-3-33.)
+
+and other such sentences. Such an incomparable bliss is not possible in any other world than this supreme station; and for gaining this bliss the grace of Viṣṇu is indispensable; for that grace the performance of sacrifices and other rites, and self-purification by calm and so on, are necessary.
+
+**utsaḥ** — *utsa utsaraṇād vā utsyandanād vā unnatter vā* [?] — rising upward, "gushing", from the root *sṛ* with the prefix *ut* (giving the sense of springing upward and flowing), or from the root *sad* or *syand*, or from the root *ud* itself: the word *utsaḥ* ordinarily gives the sense "spring" or "fountain": the point is that it has a flow of itself, without … [?]. The Nirukta-author (Ni. 10-[?] [?])—
+
+---
+
+### Printed p. 591  (PDF 609)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> अर्दर्मुत्समसृजो वि खानि त्वमर्णवान्बाधानाँ [?] अरम्णः [?] ।
+> महान्तमिन्द्र पर्वतं वि यद्वः सृजो वि धारा अव दानवं [?] हन् ॥
+
+> *ardarmutsamasṛjo vi khāni tvamarṇavānbādhānā~ [?] aramṇaḥ [?] |*
+> *mahāntamindra parvataṃ vi yadvaḥ sṛjo vi dhārā ava dānavaṃ [?] han ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?], as printed, numerals doubtful.)
+
+— having cited this Ṛk, he explains *utsam* there as *utsyandamānaṃ* [?] *megham*, "the cloud that flows (rains) down", i.e. the cloud that makes much water flow forth. Besides this, the word *utsa* is also read among the names of form (Ni. 3-[?] [?]).
+
+> प्र ते नावं न समने वचस्युवं ब्रह्मणा यामि सवनेषु दाधृषिः ।
+> कुविन्नो अस्य वचसो निबोधिषदिन्द्रमुत्सं न वसुनः सिषासति ॥
+
+> *pra te nāvaṃ na samane vacasyuvaṃ brahmaṇā yāmi savaneṣu dādhṛṣiḥ |*
+> *kuvinno asya vacaso nibodhiṣadindramutsaṃ na vasunaḥ siṣāsati ‖*
+
+(Ṛ. Saṃ. [?]-[?]-2, as printed, first numerals doubtful.)
+
+In this Ṛk **kūpam** is the *nidhānabhūtaṃ* of water; it means a well, a self-contained source for water.
+
+> शतधारमुत्समक्षीयमाणं विपश्चितं पितरं वक्त्वानाम् [?] ।
+> मेळिं मदन्तं पित्रोरुपस्थे तं रोदसी पिप्र्तं सत्यवाचम् ॥
+
+> *śatadhāramutsamakṣīyamāṇaṃ vipaścitaṃ pitaraṃ vaktvānām [?] |*
+> *meḷiṃ madantaṃ pitrorupasthe taṃ rodasī piprtaṃ satyavācam ‖*
+
+(Ṛ. Saṃ. [?]-[?]-6 [?], as printed.)
+
+Here **satatapravāhopetaṃ srotaḥ** — a stream endowed with an unbroken flow, i.e. a river with continuous current. In the present Ṛk also *utsa* means a stream of bliss that flows of itself, abundant and unbroken. This is a description of the excess of bliss in the world of Viṣṇu. Because he is the cause of such bliss, Viṣṇu is known as the kinsman of all.
+
+> स नो बन्धुर्जनिता स विधाता धामानि वेद भुवनानि विश्वा ।
+
+> *sa no bandhurjanitā sa vidhātā dhāmāni veda bhuvanāni viśvā |*
+
+(Tai. U. 3-1-2 [?], as printed.)
+
+In these Upaniṣad passages the same point is praised that is said here.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; noted briefly).** *pāthaḥ* (root *pā rakṣaṇe*; *asun* suffix by the Uṇādi sūtra [?]; the root takes *thuṭ*-augment; here since the *Nirukta* says *pātho 'ntarikṣaṃ pathā vyākhyātam* (Nir. 6-7 [?]) it is used in the sense of atmosphere); *aśyām* (root *aśū vyāptau*; *liṅ* 1st sg.; by *bahulaṃ chandasi* the *vikaraṇa* takes *luk*; *yāsuṭ*-augment; *tiṅ*: *nighāta*); *devayavaḥ* (when the desire is intended for *devān ātmana icchati*, *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8) *kyac*; *devayatīti devayuḥ*; by *kyāc chandasi* (Pā. Sū. 3-2-[?] [?]) the suffix *u* after the *kyac*-ending …
+
+---
+
+### Printed p. 592  (PDF 610)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+… (numerals of the Pāṇini sūtra quoted here unread [?]) the *u* suffix after the *kyac*-ending stem; *ako lopaḥ* (Pā. Sū. 6-4-48 [?]) the loss of the *a* of *kyac*; by the suffix accent it is *udātta* on the last [?]; nominative plural form). *madanti* (explained in the previous mantra; because *yatra* is in the earlier clause there is no *nighāta*, the root accent remains). *bandhuḥ* (root *bandha bandhane*; by *kṛsṭvāsi hi* … (Uṇ. Sū. 1-[?] [?]) suffix *u*; by the sūtra *dhānyenit* [?] the *nit* continues; by *ñnityādir nityam* the first syllable is *udātta*). *itthā* (*idamas thamuḥ* — the suffix *thamu*; *supāṃ sulug-…* the third-case ending is replaced by *ḍā*). *madhvaḥ* (*jasādiṣu chandasi vā vacanam* — when the genitive singular follows, the guṇa etc. do not come; *yaṇ* substitution). ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ता वां वास्तून्युश्मसि गमध्यै यत्र गावो भूरिशृङ्गा अयासः ।
+> अत्राह तदुरुगायस्य वृष्णः परमं पदमव भाति भूरि ॥ ६ ॥
+
+> *tā vāṃ vāstūnyuśmasi gamadhyai yatra gāvo bhūriśṛṅgā ayāsaḥ |*
+> *atrāha tadurugāyasya vṛṣṇaḥ paramaṃ padamava bhāti bhūri ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> ता । वाम् । वास्तूनि । उश्मसि । गमध्यै । यत्र । गावः । भूरिशृङ्गाः । अयासः ।
+> अत्र । अह । तत् । उरुगायस्य । वृष्णः । परमम् । पदम् । अव । भाति । भूरि ॥ ६ ॥
+
+> *tā | vām | vāstūni | uśmasi | gamadhyai | yatra | gāvaḥ | bhūriśṛṅgāḥ | ayāsaḥ |*
+> *atra | aha | tat | urugāyasya | vṛṣṇaḥ | paramam | padam | ava | bhāti | bhūri ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: addressed to the sacrificer and wife; may you go to those dwellings, where many-horned rays spread; there Viṣṇu's supreme station shines. Small type, read with doubt.)*
+
+> हे पत्नीयजमानौ वां युष्मदर्थं ता तानि गन्तव्यत्वेन प्रसिद्धानि वास्तूनि सुखनिवासयोग्यानि स्थानानि गमध्यै युवयोर्गमनाय उश्मसि । कामयामहे ।
+
+> *he patnīyajamānau vāṃ yuṣmadarthaṃ tā tāni gantavyatvena prasiddhāni vāstūni sukhanivāsayogyāni sthānāni gamadhyai yuvayorgamanāya uśmasi | kāmayāmahe |*
+
+---
+
+### Printed p. 593  (PDF 611)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Small-type bhāṣya, read with doubt.)*
+
+> कमर्थं [?] विष्णुं प्रार्थयाम इत्यर्थः । तानीत्युक्तं कानीत्याह । यत्र येषु वास्तुषु गावो रश्मयो भूरिशृङ्गा अत्यन्तोन्नतैश्वेताः [?] बहुभिराश्रयभूता [?] अयासो गन्तारो विस्तृताः [?] । यद्वा । अयासः अत्यायासाः [?] अत्यन्तप्रकारयुक्ता इत्यर्थः । अत्राह अत्र खलु वास्त्वाधारभूते द्युलोके उरुगायस्य बहुभिरात्मभिर्गीयमानस्य स्तुत्यस्य वृष्णः कामानां वर्षितुर्विष्णोस्तत्पदैव [?] सर्वत्र पुराणादिषु गन्तव्यत्वेन प्रसिद्धं परमं निरतिशयं पदं स्थानं भूर्यतिप्रभूतमव भाति । स्वमहिम्ना स्फुरति । अयं मन्त्रो यास्केन गोशब्दो रश्मिवाचक इति व्याचक्षाणेन व्याख्यातः । तानि नां वास्तूनि कामयामहे गमनाय यत्र गावो भूरिशृङ्गा बहुशृङ्गा भूरीति बहुनो नामधेयं प्रभवतीति सतः शृङ्गं श्रयतेर्वा शृणातेर्वा शम्नातेर्वा शरणामोद्गेतमिति [?] वा शिरसो निर्गतमिति वा यायासोयनैः [?] । तत्र तदुरुगायस्य विष्णोर्महागतेः परमं पदं परार्ध्यस्थमवभाति भूरि । पादः पद्यतेः । नि. २-७ । इति ॥
+
+> *kamarthaṃ [?] viṣṇuṃ prārthayāma ityarthaḥ | tānītyuktaṃ kānītyāha | yatra yeṣu vāstuṣu gāvo raśmayo bhūriśṛṅgā atyantonnataiśvetāḥ [?] bahubhirāśrayabhūtā [?] ayāso gantāro vistṛtāḥ [?] | yadvā | ayāsaḥ atyāyāsāḥ [?] atyantaprakārayuktā ityarthaḥ | atrāha atra khalu vāstvādhārabhūte dyuloke urugāyasya bahubhirātmabhirgīyamānasya stutyasya vṛṣṇaḥ kāmānāṃ varṣiturviṣṇostatpadaiva [?] sarvatra purāṇādiṣu gantavyatvena prasiddhaṃ paramaṃ niratiśayaṃ padaṃ sthānaṃ bhūryatiprabhūtamava bhāti | svamahimnā sphurati | ayaṃ mantro yāskena gośabdo raśmivācaka iti vyācakṣāṇena vyākhyātaḥ | tāni nāṃ vāstūni kāmayāmahe gamanāya yatra gāvo bhūriśṛṅgā bahuśṛṅgā bhūrīti bahuno nāmadheyaṃ prabhavatīti sataḥ śṛṅgaṃ śrayatervā śṛṇātervā śamnātervā śaraṇāmodgetamiti [?] vā śiraso nirgatamiti vā yāyāsoyanaiḥ [?] | tatra tadurugāyasya viṣṇormahāgateḥ paramaṃ padaṃ parārdhyasthamavabhāti bhūri | pādaḥ padyateḥ | ni. 2-7 | iti ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** (O wives of the sacrificer,) *vām* — for you; *yatra* — in which regions; *bhūriśṛṅgāḥ* — rising very high; *ayāsaḥ* — very wide-spreading or very radiant; *gāvaḥ* — rays (are spread); *tā* — those well-known (to which all wish to go); *vāstūni* — dwellings of happy abode; *gamadhyai* — that you too may go there; *uśmasi* — we wish (for that we pray to Viṣṇu); *atrāha* — here, however; *urugāyasya* — of him who is praised by many great ones; *vṛṣṇaḥ* — who gives the desired objects, of Viṣṇu; *paramam* — (above all) most excellent; *padam* — station; *bhūri* — abundantly; *ava bhāti* — shines (with his greatness).
+
+**भावार्थः (Bhāvārtha).** O wives of the sacrificers, we pray to Viṣṇu that you too may go to and join those happy dwelling-places, which all wish to go to, where the rays, rising very high and very radiant, spread. Here, the most exalted station of Viṣṇu, who is praised by many great ones and showers the desired objects, shines abundantly with its own greatness.
+
+**English Translation (as printed).** We pray (to Vishnu) that you may both go to those regions where the many-pointed and wide-spreading rays (of light expand); for here the supreme
+
+---
+
+### Printed p. 594  (PDF 612)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+station of the many-hymned, the showerer (of benefits), shines (with) great (splendour).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** Roth, a scholar, says that this Ṛk is fitting in a hymn addressed to Mitra and Varuṇa rather than in a hymn to Viṣṇu, and gives his view thus:
+
+"This verse occurs in a hymn to Vishnu; consequently the dual वां cannot refer to the deity of the hymn. Durga meets the difficulty, as the commentators frequently do with inconvenient duals, by saying वां इ[?] दंपती अभिप्रेत्य Etc. But here we have rather a proof of the fact that, in the arrangement of the Veda, many verses have been inserted in wrong places. The verse is addressed to Mitra and Varuna; and perhaps, belonged to one of the hymns to those two Gods which immediately precede Riks in the Samhita. The verse has been introduced into the wrong place because Vishnu is referred to in it".
+
+(Quoted in Muir's Original Sanskrit Texts Vol. IV. P. 73-74.)
+
+This Ṛk, which addresses Mitra and Varuṇa as *vām*, has been included in the Viṣṇu-sūkta only because the name of Viṣṇu is mentioned in it; by right there is no reason for it to be placed here [as Roth holds]. But Durgācārya, in explaining the Nirukta passage, has said that *vām* denotes the sacrificer and his wife [?]; Roth's opinion is that this is not quite proper.
+
+Sāyaṇa too, with *he patnīyajamānau vāṃ yuṣmadartham* ("O wife and sacrificer, for you"), has stated that the sense of the word *vām* is "for you two" [?]. The Nirukta-author has explained this Ṛk as follows:
+
+> तानि वां वास्तूनि कामयामहे गमनाय यत्र गावो भूरिशृङ्गाः । बहुशृङ्गा भूरीति बहुनो नामधेयं प्रभवतीति सतः । शृङ्गं श्रयतेर्वा शृणातेर्वा शम्नातेर्वा शरणामोद्गेतमिति [?] वा शिरसो निर्गतमिति वा यायासोयनैः [?] । तत्र तदुरुगायस्य विष्णोर्महागतेः परमं पदं परार्ध्यस्थमवभाति भूरि । पादः पद्यतेः ॥
+
+> *tāni vāṃ vāstūni kāmayāmahe gamanāya yatra gāvo bhūriśṛṅgāḥ | bahuśṛṅgā bhūrīti bahuno nāmadheyaṃ prabhavatīti sataḥ | śṛṅgaṃ śrayatervā śṛṇātervā śamnātervā śaraṇāmodgetamiti [?] vā śiraso nirgatamiti vā yāyāsoyanaiḥ [?] | tatra tadurugāyasya viṣṇormahāgateḥ paramaṃ padaṃ parārdhyasthamavabhāti bhūri | pādaḥ padyateḥ ‖*
+
+(Ni. 2-7.)
+
+The sense is that the supreme station of Viṣṇu, established in the most excellent place, shines forth abundantly. The Nirukta-author has cited this Ṛk incidentally, to give the meaning of the word *gāvaḥ*.
+
+---
+
+**Progress note:** Sūkta 154 in progress: Ṛk 5 complete; Ṛk 6 (last Ṛk?) under way: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the Special Topics (Roth/Muir, Nirukta quote) begun (printed pp. 589–594, PDF 607–612). Next: printed p. 595 (PDF 613) — rest of Ṛk 6 Special Topics, grammar, closing lines of Sūkta 154, start of Sūkta 155. Open flags: small-type bhāṣya and Nirukta quotations partly unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
