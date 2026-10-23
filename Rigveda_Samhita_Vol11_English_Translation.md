@@ -1000,7 +1000,7 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 ### Printed p. 39  (PDF 57)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
 *(Pratipadārtha of Ṛk 1, concluded.)* *… (of that Agni)*; *astu śrauṣaṭ* — may our praise be heard by all the gods; *adha* — thereafter; *naḥ dhītayaḥ* — our praise-acts; *pra su upa yantu* — may they go well and in order to the gods; (*naḥ*) *dhītayaḥ* — our sacrificial rites also; *devān* — Agni and the other gods; *acchā na* — going towards them, may they reach them.
 
@@ -1010,69 +1010,69 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***tac chardhaḥ.*** *Tādṛśaṃ balavantaṃ vā agniṃ; yadvā tac chardhaḥ tādṛśaṃ marutāṃ svarūpaṃ balam* — Sāyaṇa shows two senses to be possible: the powerful Agni, or the natural, collective power of the Maruts. The word *śardha* is read among the names of strength (Ni. 2-[?]); ordinarily it is used of the Maruts, meaning the power of their company. From such statements as
+***tac chardhaḥ.*** *Tādṛśaṃ balavantaṃ vā agniṃ; yadvā tac chardhaḥ tādṛśaṃ marutāṃ svarūpaṃ balam* — Sāyaṇa shows two senses to be possible: the powerful Agni, or the natural, collective power of the Maruts. The word *śardha* is read among the names of strength (Ni. 3-9 [?]); ordinarily it is used of the Maruts, meaning the power of their company. From such statements as
 
-> सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः [?] ।
+> सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः ।
 
-> *sapta sapta hi māruto gaṇastasmānmārutaḥ saptakapālaḥ [?] |*
+> *sapta sapta hi māruto gaṇastasmānmārutaḥ saptakapālaḥ |*
 
-(Śa. Brā. 3-[?]-[?]-[?] [?])
+(Śa. Brā. 2-5-1-13)
 
-> सप्त सप्त हि मारुतो गणः सर्वमेव्येतेन रथं प्रीणाति [?] ।
+> सप्त सप्त हि मारुतो गणः सर्वमेव्येतेन रथं प्रीणाति ।
 
-> *sapta sapta hi māruto gaṇaḥ sarvamevyetena rathaṃ prīṇāti [?] |*
+> *sapta sapta hi māruto gaṇaḥ sarvamevyetena rathaṃ prīṇāti |*
 
-(Śa. Brā. 5-[?]-[?]-[?] [?]) it is known that the Maruts always keep in a band; in such a band a kind of victorious power is natural. The word *śardhaḥ* is also used in the masculine; in Ṛ. Saṃ. 1-[?]-[?]; 1-[?]-[?]; 6-[?]-[?] and others it is *a*-ending (continued on p. 40).
+(Śa. Brā. 5-4-3-12) it is known that the Maruts always keep in a band; in such a band a kind of victorious power is natural. The word *śardhaḥ* is also used in the masculine; in Ṛ. Saṃ. 5-58-9 [?]; 2-30-11; 6-58-8 [?] and others it is *a*-ending (continued on p. 40).
 
 ### Printed p. 40  (PDF 58)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-…and in Ṛ. Saṃ. 1-[?]-[?] and others it is *s*-ending [?]. Though the word is ordinarily used of the Maruts, it sometimes denotes the company of other gods as well:
+…and in Ṛ. Saṃ. 1-37-1 and others it is *s*-ending. Though the word is ordinarily used of the Maruts, it sometimes denotes the company of other gods as well:
 
-> शृणोतु नो दैव्यं शर्धो अग्निः शृण्वन्तु विश्वे महिषा अमूराः [?] ।
+> शृणोतु नो दैव्यं शर्धो अग्निः शृण्वन्तु विश्वे महिषा अमूराः ।
 
-> *śṛṇotu no daivyaṃ śardho agniḥ śṛṇvantu viśve mahiṣā amūrāḥ [?] |*
+> *śṛṇotu no daivyaṃ śardho agniḥ śṛṇvantu viśve mahiṣā amūrāḥ |*
 
-(Ṛ. Saṃ. 2-[?]-[?] [?].)
+(Ṛ. Saṃ. 7-44-5.)
 
-> स आ वह देवताति यविष्ठ शर्धो यदद्य दिव्यं यजासि [?] ।
+> स आ वह देवताति यविष्ठ शर्धो यदद्य दिव्यं यजासि ।
 
-> *sa ā vaha devatāti yaviṣṭha śardho yadadya divyaṃ yajāsi [?] |*
+> *sa ā vaha devatāti yaviṣṭha śardho yadadya divyaṃ yajāsi |*
 
-(Ṛ. Saṃ. 3-[?]-[?] [?].) Everywhere *daivyaṃ śardhaḥ*, *divyaṃ śardhaḥ* means the collective power consisting of gods. In the same way the word is used when speaking of an ordinary, worldly company. For example
+(Ṛ. Saṃ. 3-19-4.) Everywhere *daivyaṃ śardhaḥ*, *divyaṃ śardhaḥ* means the collective power consisting of gods. In the same way the word is used when speaking of an ordinary, worldly company. For example
 
-> तं वः शर्धं रथानां त्वेषं गणं मारुतं नव्यसीनाम् [?] ।
+> तं वः शर्धं रथानां त्वेषं गणं मारुतं नव्यसीनाम् ।
 
-> *taṃ vaḥ śardhaṃ rathānāṃ tveṣaṃ gaṇaṃ mārutaṃ navyasīnām [?] |*
+> *taṃ vaḥ śardhaṃ rathānāṃ tveṣaṃ gaṇaṃ mārutaṃ navyasīnām |*
 
-(Ṛ. Saṃ. 5-[?]-[?] [?]) where it means the collective power of chariots; and
+(Ṛ. Saṃ. 5-53-10) where it means the collective power of chariots; and
 
-> अवासां मघवञ्जहि शर्धो यातुमतीनाम् [?] ।
+> अवासां मघवञ्जहि शर्धो यातुमतीनाम् ।
 
-> *avāsāṃ maghavañjahi śardho yātumatīnām [?] |*
+> *avāsāṃ maghavañjahi śardho yātumatīnām |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?]) where it also means the power of weapons, or of harmful beings. In the Ṛk at hand it means Agni's power or the Maruts' power.
+(Ṛ. Saṃ. 1-133-2) where it also means the power of weapons, or of harmful beings. In the Ṛk at hand it means Agni's power or the Maruts' power.
 
 ***nābhā.*** *Bhūmyā nābhisthāne devayajane vedirūpe* — the place of sacrifice that is the navel-place of the earth and has the form of an altar; or *nābhau sarvaphalasya saṃbandhake yajñe* — the sacrifice that gives every fruit: Sāyaṇa explains both. With
 
-> विश्वायुरसि पृथिवीं दृंह ध्रुवक्षिदसि [?] ।
+> विश्वायुरसि पृथिवीं दृंह ध्रुवक्षिदसि ।
 
-> *viśvāyurasi pṛthivīṃ dṛṃha dhruvakṣidasi [?] |*
+> *viśvāyurasi pṛthivīṃ dṛṃha dhruvakṣidasi |*
 
-(Tai. Saṃ. 1-[?]-[?] [?]) the northern altar is praised, so the first sense fits; and if "sacrifice" is meant, that sense too is supported by
+(Tai. Saṃ. 1-2-12 [?]) the northern altar is praised, so the first sense fits; and if "sacrifice" is meant, that sense too is supported by
 
-> इयं वेदिः परो अन्तः पृथिव्या अयं यज्ञो भुवनस्य नाभिः [?] ।
+> इयं वेदिः परो अन्तः पृथिव्या अयं यज्ञो भुवनस्य नाभिः ।
 
-> *iyaṃ vediḥ paro antaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ [?] |*
+> *iyaṃ vediḥ paro antaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ |*
 
-(Ṛ. Saṃ. 1-164-[?] [?])
+(Ṛ. Saṃ. 1-164-35)
 
-> यज्ञमाहुर्भुवनस्य नाभिम् [?] ।
+> यज्ञमाहुर्भुवनस्य नाभिम् ।
 
-> *yajñamāhurbhuvanasya nābhim [?] |*
+> *yajñamāhurbhuvanasya nābhim |*
 
-(Tai. Saṃ. [?]-[?]-[?] [?]) and similar texts of the Saṃhitā. Either sense may be given.
+(Tai. Saṃ. 7-4-18 [?]) and similar texts of the Saṃhitā. Either sense may be given.
 
 ***vivasvati.*** *Dīptimati* — "radiant"; an epithet of *nābhā*. The word *vivasvat* is used in the Ṛksaṃhitā in different senses: besides "possessing radiance" and "man", it is also a proper name of a person (continued on p. 41).
 
