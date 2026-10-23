@@ -15314,4 +15314,220 @@ it shows "a group of three worlds that is well-established by regulation and is 
 
 ---
 
-**Progress note:** Sūkta 154 in progress: Ṛks 2 and 3 complete; Ṛk 4 under way (printed pp. 577–582, PDF 595–600; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics begin on p. 582 (*svadhayā*) and continue). Next: printed p. 583 (PDF 601). Open flags: small-type bhāṣya partly unread (pp. 581 etc.); Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 583  (PDF 601)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 4 continue.)*
+
+… in the Ṛk [the Uṣas Ṛk just quoted, 1-113-13], for the word *svadhābhiḥ* used there in connection with Uṣas [?] Sāyaṇa has given the sense **ātmīyais tejobhiḥ** — "with her own splendours". Likewise in
+
+> यदंतरिक्षे पतथः पुरुभुजा यद्वेमे रोदसी अनु ।
+> यद्वा स्वधाभिरधितिष्ठथो रथमुत आ यातमश्विना ॥
+
+> *yadaṃtarikṣe patathaḥ purubhujā yadveme rodasī anu |*
+> *yadvā svadhābhiradhitiṣṭhatho rathamuta ā yātamaśvinā ‖*
+
+(Ṛ. Saṃ. 8-10-[?]-[?], as printed, numerals unread.)
+
+too, he has explained **ātmīyais tejobhir balair vā sārdham** — "together with your own splendours, or your own powers".
+
+> न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः ।
+> आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ॥
+
+> *na mṛtyurāsīdamṛtaṃ na tarhi na rātryā ahna āsītpraketaḥ |*
+> *ānīdavātaṃ svadhayā tadekaṃ tasmāddhānyanna paraḥ kiṃ canāsa ‖*
+
+(Ṛ. Saṃ. 10-129-2.)
+
+In this Ṛk Sāyaṇa explains: *svasmin dhīyate dhriyate āśritya vartate iti svadhā* — "that which is held in itself, which exists resting on itself is *svadhā*"; because it depends on its own support, the word *svadhā* is described as an epithet of the wondrous power of Īśvara (the Supreme Brahman), his *māyā*. Therefore in the present Ṛk also it can be understood that Viṣṇu fills all the worlds with his own splendour, his greatness, and his power — extraordinary and protecting the worlds.
+
+> त्रीण्येक उरुगायो वि चक्रमे यत्र देवासो मदन्ति ।
+
+> *trīṇyeka urugāyo vi cakrame yatra devāso madanti |*
+
+(Ṛ. Saṃ. 1-[?]-[?], as printed, numerals unread.)
+
+In such Ṛks it is said that Viṣṇu's stepping is in all those worlds where even the gods rejoice; in the present Ṛk also the same point is praised.
+
+*svadhām anu*, or *anu svadhām*: that these expressions mean "naturally, by nature, as of oneself" is to be learnt by examining Ṛks such as 8-20-2 [?] and 2-38-? [?] (said before); and in 6-?-? [?] and others *ratha* is to be understood as meaning "army", as in 10-?-? [?] (numerals not read; as printed they are small).
+
+**Tridhātu** — *trayāṇāṃ dhātūnāṃ samāhāras tridhātu | pṛthivyaptejorūpadhātu | trayaviśiṣṭaṃ yathā bhavati tathā* — to be explained as the totality of the three elements, earth, water and fire (*tattva*). And from the Chāndogya Upaniṣad:
+
+> तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत तत्तेज ऐक्षत बहु स्यां प्रजायेयेति तदपोऽसृजत … ता आप ऐक्षन्त बह्व्यः स्याम प्रजा-
+
+> *tadaikṣata bahu syāṃ prajāyeyeti tattejo 'sṛjata tatteja aikṣata bahu syāṃ prajāyeyeti tadapo 'sṛjata … tā āpa aikṣanta bahvyaḥ syāma prajā-*
+
+---
+
+### Printed p. 584  (PDF 602)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+> येमहीति ता अन्नमसृजन्त । सेयं देवतैक्षत हन्ताहमिमास्तिस्रो देवता अनेन जीवेनात्मनानुप्रविश्य नामरूपे व्याकरवाणीति । तासां त्रिवृतं त्रिवृतमेकैकां करवाणीति सेयं देवतेमास्तिस्रो देवता अनेनैव जीवेनात्मनानुप्रविश्य नामरूपे व्याकरोत् ॥
+
+> *yemahīti tā annamasṛjanta | seyaṃ devataikṣata hantāhamimāstisro devatā anena jīvenātmanānupraviśya nāmarūpe vyākaravāṇīti | tāsāṃ trivṛtaṃ trivṛtamekaikāṃ karavāṇīti seyaṃ devatemāstisro devatā anenaiva jīvenātmanānupraviśya nāmarūpe vyākarot ‖*
+
+(Chā. U. 6-3-2, 3 [as printed, abbreviated "Bhā. U."].)
+
+Having cited these sentences, Sāyaṇa explains that here (in the Ṛk) the greatness of the Supreme Brahman is praised, who created the three principles in the form of food, water and fire and upholds them by his greatness. This explanation is only one of many that exist for the word *tridhātu*. In this very Ṛk Sāyaṇa himself says elsewhere **yadvā | tridhātu kālatrayaṃ guṇatrayaṃ vā dādhāretyeṣaḥ** — "or: he upheld the three-fold, namely the three times or the three guṇas" — i.e. it can mean that he holds in his all-pervasiveness either the three times (past, future, present) or the guṇas *sattva*, *rajas*, *tamas*.
+
+In the Ṛk
+
+> अग्निरस्मि जन्मना जातवेदा घृतं मे चक्षुरमृतं म आसन् ।
+> अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥
+
+> *agnirasmi janmanā jātavedā ghṛtaṃ me cakṣuramṛtaṃ ma āsan |*
+> *arkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*
+
+(Ṛ. Saṃ. 3-26-7.)
+
+the word *tridhātu* is explained as **prāṇāpānavyānātmanā tridhā vartamāno 'rko 'rcanīyo yaḥ prāṇo 'sti so 'pi aham evāsmi** — "the worshipful *arka* who exists threefold as *prāṇa*, *apāna* and *vyāna*, the breath that exists, that too am I" — i.e. the breath-principle of the three forms *prāṇa*, *apāna* and *vyāna*;
+
+> यद्देवाः शर्म शरणं यद्भद्रं यदनातुरम् ।
+> त्रिधातु यद्वरूथ्यं [?] तदस्मासु वि यन्तनानेहसो व ऊतयः सु ऊतयो व ऊतयः ॥
+
+> *yaddevāḥ śarma śaraṇaṃ yadbhadraṃ yadanāturam |*
+> *tridhātu yadvarūthyaṃ [?] tadasmāsu vi yantanānehaso va ūtayaḥ su ūtayo va ūtayaḥ ‖*
+
+(Ṛ. Saṃ. 8-47-[?]-[?], as printed, numerals doubtful.)
+
+in this it is explained as the threefold *guṇa* of the nature of *sattva*, *rajas* and *tamas*. And further in
+
+> आ धर्णसिर्बृहद्दिवो रराणो विश्वेभिर्गभिर्न्नमोभिर्वानः [?] ।
+> ग्ना वसान ओषधीरमृधस्त्रिधातुशृङ्गो वृषभो वयोधाः ॥
+
+> *ā dharṇasirbṛhaddivo rarāṇo viśvebhirgabhirnnamobhirvānaḥ [?] |*
+> *gnā vasāna oṣadhīramṛdhastridhātuśṛṅgo vṛṣabho vayodhāḥ ‖*
+
+(Ṛ. Saṃ. 3-56-[?], as printed, numerals doubtful.)
+
+there is a description of the flame of Agni. Here for the word *tridhātuśṛṅgaḥ* the explanation is "having horns of three kinds": *śukla-kṛṣṇa-lohita* [?] — white, black and red flames: "one who has flames rising high in three colours".
+
+> त्रिरा दिवः सवितर्वार्याणि [?] दिवेदिव आ सुव त्रिनो अह्नः ।
+> त्रिधातु राय आ सुवा वसूनि भग त्रातर्धिषणे सातये धाः ॥
+
+> *trirā divaḥ savitarvāryāṇi [?] divediva ā suva trino ahnaḥ |*
+> *tridhātu rāya ā suvā vasūni bhaga trātardhiṣaṇe sātaye dhāḥ ‖*
+
+(Ṛ. Saṃ. 5-82-[?], as printed, numerals doubtful.)
+
+---
+
+### Printed p. 585  (PDF 603)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+In this, for *vasūni dhanāni*, the epithet *tridhātūni* is explained **paśukanakaratnabhedena triprakārāṇi** — "of three kinds by the difference of cattle, gold and jewels": wealth of the three kinds, cattle, gold and gems.
+
+> तव त्रिधातु पृथिवी उत द्यौर्वैश्वानर व्रतमग्ने सचन्त ।
+> त्वं भासा रोदसी आ ततन्थाजस्रेण शोचिषा शोशुचानः ॥
+
+> *tava tridhātu pṛthivī uta dyaurvaiśvānara vratamagne sacanta |*
+> *tvaṃ bhāsā rodasī ā tatanthājasreṇa śociṣā śośucānaḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?], as printed, numerals doubtful.)
+
+In this Ṛk, describing that the three worlds serve the rite (*vrata*) of Vaiśvānara, the three-fold *tridhātu*, *pṛthivī*, *dyauḥ* is used as a synonym of *antarikṣa* [?].
+
+> तस्मै यो योनिराशयो असि तमनु परामृश्य संलुप्याभिसृज्येष्टिभिः [?] … देतस्मिन्नाशये त्रिधातुरि [?] पैषा विद्याशेत तस्मात्त्रैधातवे नाम ॥ [?]
+
+> *tasmai yo yonirāśayo asi tamanu parāmṛśya saṃlupyābhisṛjyeṣṭibhiḥ [?] … detasminnāśaye tridhāturi [?] paiṣā vidyāśeta tasmāttraidhātave nāma ‖ [?]*
+
+(Ai. Brā. 3-3-[?]-[?], as printed, numerals doubtful; the small type of this quotation is only partly legible: read with doubt.)
+
+At the time of the slaying of the demon Vṛtra, the offering (*iṣṭi*) performed in that context from the support of the triple knowledge, Viṣṇu, is well known as the *traidhātavī iṣṭi* — this point is learnt from the passage of the Śatapatha-Brāhmaṇa [as printed; the quotation is headed Ai. Brā.].
+
+> तको [?] वै स इमाँल्लोकाँस्त्रेधादुहत्त्रिधातोस्त्रिधातुत्वं यं कामयेतान्नादस्स्यादिति तस्मा एतं त्रिधातुं निर्वपेदिन्द्राय राज्ञे पुरोडाशम् ॥
+
+> *tako [?] vai sa imā~llokā~stredhāduhattridhātostridhātutvaṃ yaṃ kāmayetānnādassyāditi tasmā etaṃ tridhātuṃ nirvapedindrāya rājñe puroḍāśam ‖*
+
+(Tai. Saṃ. 2-3-[?]-[?], as printed, numerals doubtful.)
+
+For the word *tridhātu* in these passages of the Taittirīya-Saṃhitā the commentary is:
+
+> त्रिधातु तिस्रो विधास्त्रिधातोर्देवता लोकत्रयात्मिकाः [?] । ततः बल [?] त्रिधातु देवतानां त्रित्वं प्रजापतिर्लोकत्रयव्याप्त्या [?] निमान् लोकांस्त्रेधादुहत् त्रिस्कारमादुहत् [?] । त्रयो धातवो यस्य सन्तीति त्रिधातुः । त्रेधा धातुर्व्याप्त्वात्पुरोडाशस्य [?] । यद्वा सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥
+
+> *tridhātu tisro vidhāstridhātordevatā lokatrayātmikāḥ [?] | tataḥ bala [?] tridhātu devatānāṃ tritvaṃ prajāpatirlokatrayavyāptyā [?] nimān lokāṃstredhāduhat triskāramāduhat [?] | trayo dhātavo yasya santīti tridhātuḥ | tredhā dhāturvyāptvātpuroḍāśasya [?] | yadvā sarvādhāralokatrayātmakatvāt tridhātuḥ ‖*
+
+(Tai. Saṃ. Bhāṣya.)
+
+It is explained that Prajāpati arranged the sacrificial food in the form of the *puroḍāśa* in three times for the deities who are located in the three worlds and who have three forms; thus for the word *tridhātu* the meanings world, food, the three elements, etc. are given.
+
+Thus the word *tridhātu* has been used in various places in different senses. In the present Ṛk, as the principles in the form of earth, water and fire, or as the times past, future and present, …
+
+---
+
+### Printed p. 586  (PDF 604)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+… or as the guṇas in the form of *sattva*, *rajas* and *tamas* (it is understood). The sense is that the whole universe, together with all the principles, rests on the support of Viṣṇu.
+
+Or else: in the Ṛk 6-7-5 [?] quoted above the word *tridhātu*, standing together with *pṛthivī* and *dyauḥ*, is used as a synonym of *antarikṣa*; in the present Ṛk also *tridhātu*, *pṛthivīm uta dyām* names the three worlds, so here too the meaning may be *antarikṣa*. The point is that all of earth and the other worlds rest on Viṣṇu's support.
+
+**Vyākaraṇa-prakriyā (Ṛk 4; noted briefly; grammar page).** *akṣīyamāṇā* (*na kṣīyamāṇāni*; the *nañ*-compound; the *tatpuruṣe tulyārthatṛtīyā…* sūtra (Pā. Sū. 6-2-2 [?]) gives the *nañ*-prefix its own accent; neuter, so *śi* is replaced by *luk*); *madanti* (root *mada tṛptiyoge*, used in the causative sense; *laṭ* 3rd pl.; *yuṣmad-* … *yat*-connection so no *nighāta*; *tāsyanudāttet* …, the root accent remains); *tridhātu* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *sitanigamimasicaratiṣu*… (Uṇ. Sū. 1-[?]) *tun*; *nit*: first *udātta*; in the compound *kṛdutara* stem accent); *dādhāra* (root *dhṛñ avasthāne*; *liṭ* 3rd sg.; reduplication of the root; *tujādīnāṃ dīrgho 'bhyāsasya* (Pā. Sū. 6-1-7) lengthening of the reduplicate; *yat*-connection, no *nighāta*; *liti* (Pā. Sū. 6-1-193 [?]) accent before the suffix); *viśvā* (as before, in the plural the *śi* is lost). ‖ 4 ‖
+
+---
+
+### Printed p. 587  (PDF 605)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> तदस्य प्रियमभि पाथो अश्यां नरो यत्र देवयवो मदन्ति ।
+> उरुक्रमस्य स हि बन्धुरित्था विष्णोः पदे परमे मध्व उत्सः ॥ ५ ॥
+
+> *tadasya priyamabhi pātho aśyāṃ naro yatra devayavo madanti |*
+> *urukramasya sa hi bandhuritthā viṣṇoḥ pade parame madhva utsaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> तत् । अस्य । प्रियम् । अभि । पाथः । अश्याम् । नरः । यत्र । देवयवः । मदन्ति ।
+> उरुक्रमस्य । सः । हि । बन्धुः । इत्था । विष्णोः । पदे । परमे । मध्वः । उत्सः ॥ ५ ॥
+
+> *tat | asya | priyam | abhi | pāthaḥ | aśyām | naraḥ | yatra | devayavaḥ | madanti |*
+> *urukramasya | saḥ | hi | bandhuḥ | itthā | viṣṇoḥ | pade | parame | madhvaḥ | utsaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: may I attain the dear path, the highest world, where devotees rejoice, in Viṣṇu's supreme station where a spring of sweetness is; he is kinsman of all. Small type, read with doubt.)*
+
+> अतिथ्यायां [?] तदस्येत्येषा प्रधानस्य याज्या । अथातिथ्येति [?] खण्डे सूत्रितम् । इदं विष्णुर्वि चक्रमे तदस्य प्रियमभि पाथो अश्याम् । (आ. [?]) इति ॥
+> अस्य महतो विष्णोः प्रियं प्रियभूतं तत्सर्वैः सेव्यत्वेन [?] प्रसिद्धं पाथः । अन्तरिक्षनामैतत् पाथोऽन्तरिक्षं पथा व्याख्यातम् (नि. ६-७ [?]) इति यास्कोक्तत्वात् । अविनश्वरं ब्रह्मलोकमित्यर्थः । अश्याम् व्याप्नुयाम् । तदेव विशेष्यते । यत्र स्थाने देवयवो दिव्यज्योतिःस्वभावं विष्णुमात्मन इच्छन्तो यज्ञदानादिभिः प्राप्तुमिच्छन्तो नरो मदन्ति तृप्तिमनुभवन्ति । तद्[?] अश्याम् इत्यन्वयः [?] । पुनरपि तदेव विशेष्यते । उरुक्रमस्यातिक्रम्य [?] सर्वं जगदाक्रममाणस्य क्रमते तस्यात्मन आते निव [?] विष्णोर्व्यापकस्य परमे उत्कृष्टे निरतिशये केवलसुखात्मके पदे स्थाने मध्वो मधुरस्योत्सो निष्पन्दो वर्तते । तदश्याम् । यत्र क्षुत्पिपासाजरामरणपुनरावृत्त्यादिभयं नास्ति सङ्कल्पमात्रेणामृतकल्यादिभोगाः प्राप्यन्ते तादृशमित्यर्थः । ततोऽधिकं नास्तीत्याह इत्थेति । उक्तप्रकारेण स हि बन्धुः । स खलु सर्वेषां सुकृतिनां बन्धुभूतो हितकरो वा तस्य पदं प्राप्यताम् न पुनरावृत्तिः । न च पुनरावर्तते इति श्रुतेस्तस्य बन्धुत्वम् । हिशब्दः सर्वश्रुतिस्मृतिपुराणादिप्रसिद्ध्यद्योतनार्थः ॥
+
+> *atithyāyāṃ [?] tadasyetyeṣā pradhānasya yājyā | athātithyeti [?] khaṇḍe sūtritam | idaṃ viṣṇurvi cakrame tadasya priyamabhi pātho aśyām | (ā. [?]) iti ‖*
+> *asya mahato viṣṇoḥ priyaṃ priyabhūtaṃ tatsarvaiḥ sevyatvena [?] prasiddhaṃ pāthaḥ | antarikṣanāmaitat pātho 'ntarikṣaṃ pathā vyākhyātam (ni. 6-7 [?]) iti yāskoktatvāt | avinaśvaraṃ brahmalokamityarthaḥ | aśyām vyāpnuyām | tadeva viśeṣyate | yatra sthāne devayavo divyajyotiḥsvabhāvaṃ viṣṇumātmana icchanto yajñadānādibhiḥ prāptumicchanto naro madanti tṛptimanubhavanti | tad[?] aśyām ityanvayaḥ [?] | punarapi tadeva viśeṣyate | urukramasyātikramya [?] sarvaṃ jagadākramamāṇasya kramate tasyātmana āte niva [?] viṣṇorvyāpakasya parame utkṛṣṭe niratiśaye kevalasukhātmake pade sthāne madhvo madhurasyotso niṣpando vartate | tadaśyām | yatra kṣutpipāsājarāmaraṇapunarāvṛttyādibhayaṃ nāsti saṅkalpamātreṇāmṛtakalyādibhogāḥ prāpyante tādṛśamityarthaḥ | tato 'dhikaṃ nāstītyāha ittheti | uktaprakāreṇa sa hi bandhuḥ | sa khalu sarveṣāṃ sukṛtināṃ bandhubhūto hitakaro vā tasya padaṃ prāpyatām na punarāvṛttiḥ | na ca punarāvartate iti śrutestasya bandhutvam | hiśabdaḥ sarvaśrutismṛtipurāṇādiprasiddhyadyotanārthaḥ ‖*
+
+---
+
+### Printed p. 588  (PDF 606)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *urukramasya* — of the wide-stepping (who strides over the world widely); *viṣṇoḥ* — of Viṣṇu; *parame* — in the exalted; *pade* — in which station; *madhvaḥ* — of sweet bliss-juice; *utsaḥ* — a spring (is); *yatra* — in which station; *devayavaḥ* — those who strive to win Viṣṇu's favour; *naraḥ* — men; *madanti* — experience bliss; *asya* — of such a Viṣṇu; *priyam* — (to him) most dear; *tat* — the well-known (to be resorted to by all); *pāthaḥ* — the path of the atmosphere; *aśyām* — may I too attain; *itthā* — in this manner; *sa hi bandhuḥ* — that Viṣṇu is the kinsman (of all devotees).
+
+**भावार्थः (Bhāvārtha).** May I too attain that path of the atmosphere, most dear to the wide-stepping Viṣṇu, where the highest station of Viṣṇu has an unending flow of sweet bliss, and where men who strive to win Viṣṇu's grace enjoy bliss. In this manner Viṣṇu is a kinsman to all devotees.
+
+**English Translation (as printed).** May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping Vishnu, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** In the Soma sacrifice, when Soma is brought to the sacrificial ground, it is the custom to regard Soma (King Soma) as a guest and to perform the guest-honouring rites (*ātithya*). This matter is told in Tai. Saṃ. 6-1-[?] [?]. At that time the Ṛk *tadasya priyam* is to be used as the *pradhānayājyā* mantra, as the Āśvalāyana-Śrauta-Sūtra says in the section *athātithyeṣṭi* [?]: the Ṛk *idaṃ viṣṇur vi cakrame tadasya priyam abhi pātho aśyām* is expanded (Ā. [?]-[?]-[?], numerals unread).
+
+In this Ṛk the greatness of Viṣṇu's supreme station is described, and the very fervent desire is indicated to attain the supreme bliss to be got there.
+
+**pāthaḥ** — *pāthaḥ antarikṣaṃ pathā vyākhyātam* (Ni. 6-7 [?]) — the Nirukta-author says that the explanation of this word was given when the derivation of the word *pathin* was told, and cites
+
+> यत्रा चक्रमता गातुमस्मै श्येनो न दीयन्नन्वेति पाथः ।
+> प्रति वां सूर उदिते विधेम नमोभिर्मित्रावरुणोत हव्यैः ॥
+
+> *yatrā cakramatā gātumasmai śyeno na dīyannanveti pāthaḥ |*
+> *prati vāṃ sūra udite vidhema namobhirmitrāvaruṇota havyaiḥ ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?], as printed, numerals unread.)
+
+---
+
+**Progress note:** Sūkta 154 in progress: Ṛk 4 complete (Special Topics on *tridhātu*, grammar); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the start of its Special Topics done (printed pp. 583–588, PDF 601–606). Next: printed p. 589 (PDF 607) — rest of Ṛk 5 Special Topics, grammar, Ṛk 6. Open flags: small-type bhāṣya and the Aitareya/Taittirīya quotations partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
