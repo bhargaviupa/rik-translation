@@ -14,3 +14,5 @@
 2026-10-23 16:34 PDF 54-54: remaining [?] EN 1, KN 1. after: 18 cleared; Anukramaṇikā block rewritten (3 layers; sūtra tiṅ codāttavati corrected)
 2026-10-23 16:35 PDF 55-55: remaining [?] EN 0, KN 0. after: 4 cleared; varga numeral fixed (3, not 2); sic note on aśvi/viśve misprint
 2026-10-23 16:36 PDF 56-56: remaining [?] EN 4, KN 2. after: bhāṣya (3 layers) fully read; 2 doubtful words kept; 3 Pratipadārtha errors fixed
+2026-10-23 16:37 PDF 57-57: remaining [?] EN 7, KN 1. after: 13 cleared; 6 [?] left belong to refs printed on p.40 (PDF 58)
+2026-10-23 16:37 PDF 58-58: remaining [?] EN 2, KN 4. after: 36 cleared (mostly ref numerals), 5 doubtful kept; Ṛ. Saṃ. 2-… corrected to 7-44-5
