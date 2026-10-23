@@ -14179,4 +14179,186 @@ Then, in Kannada: "Besides the VI. 36-1 [sic: as printed, for IV. 36-1] Ṛk quo
 
 ---
 
-**Progress note:** Sūkta 152 in progress: Ṛk 5 complete; Ṛk 6 under way (printed pp. 535–540, PDF 553–558; Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar is in progress, continuing on p. 541). Next: printed p. 541 (PDF 559). Open flags: small-type bhāṣya partly unread; Bṛhaddevatā/Ṛg/Nirukta/Taittirīya reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 541  (PDF 559)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā". Grammar of Ṛk 6, concluded, noted briefly.)*
+
+*(Ṛk 6 grammar, continued:)* *āsā* (… *supāṃ sulug*; … *anudātta* following, the ending takes *udātta* by *yatrodāttalopaḥ* (Pā. Sū. 6-1-[?])); *ā vivāsan* (root *vivāsa paricaraṇakriyāyām*; *śatṛ* in the sense of *laṭ*; with a prefix the compound takes the *kṛdutara* stem accent); *uruṣyet* (*uruṣyatī rakṣākarmā* — Ni. 3-21 [?], so says Yāska; *liṅ* 3rd sg.; *nighāta*). ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> आ वां मित्रावरुणा हव्यजुष्टिं नमसा देवाववसा ववृत्याम् ।
+> अस्माकं ब्रह्म पृतनासु सह्या अस्माकं वृष्टिर्दिव्या सुपारा ॥ ७ ॥
+
+> *ā vāṃ mitrāvaruṇā havyajuṣṭiṃ namasā devāvavasā vavṛtyām |*
+> *asmākaṃ brahma pṛtanāsu sahyā asmākaṃ vṛṣṭirdivyā supārā ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । वाम् । मित्रावरुणा । हव्यऽजुष्टिम् । नमसा । देवौ । अवसा । ववृत्याम् ।
+> अस्माकम् । ब्रह्म । पृतनासु । सह्याः । अस्माकम् । वृष्टिः । दिव्या । सुऽपारा ॥ ७ ॥
+
+> *ā | vām | mitrāvaruṇā | havya 'juṣṭim | namasā | devau | avasā | vavṛtyām |*
+> *asmākam | brahma | pṛtanāsu | sahyāḥ | asmākam | vṛṣṭiḥ | divyā | su 'pārā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: this Ṛk is the opening verse of the animal-fat offering for Mitra-Varuṇa (Āśvalāyana sūtra); the poet says he will bring the oblation with reverence and asks that the rite win in battles and that heavenly rain be abundant. Small type, read with doubt.)*
+
+> मैत्रावरुणस्य वपायाः (पशोः) [?] याज्या [?] । सूत्रितं च । आ वां मित्रावरुणा हव्यजुष्टिमा यातं मित्रावरुणा । आ. ३-८ [?] इति । हे देवौ देवनशीलौ मित्रावरुणा मित्रावरुणौ वां युवां हव्यजुष्टिं हविःसेवां नमसा नमस्कारोपलक्षितेन स्तोत्रेणावसा रक्षणेन निमित्तभूतेन ववृत्याम् । आवर्तयेयम् । यद्वा । नमसा नमस्कारेणावसाऽन्नेन च ववृत्याम् । किंच हे मित्रावरुणा अस्माकं संबन्धि ब्रह्म स्तोत्रं कर्म वा पृतनासु संग्रामेषु सह्याः । सहनीयं [?] । शत्रून् अभिभवनायेत्यर्थः [?] । अनेन कर्मणा शत्रूनभिभवेयमित्यर्थः । किंचास्माकं दिव्या दिवि भवा वृष्टिः सुपारा सुष्ठु पारयित्री [?] भवत्विति शेषः । वृष्ट्या सत्यां व्रीह्यादिद्वारा कर्मसमाप्तिरेति भावः ॥
+
+> *maitrāvaruṇasya vapāyāḥ (paśoḥ) [?] yājyā [?] | sūtritaṃ ca | ā vāṃ mitrāvaruṇā havyajuṣṭimā yātaṃ mitrāvaruṇā | ā. 3-8 [?] iti | he devau devanaśīlau mitrāvaruṇā mitrāvaruṇau vāṃ yuvāṃ havyajuṣṭiṃ haviḥsevāṃ namasā namaskāropalakṣitena stotreṇāvasā rakṣaṇena nimittabhūtena vavṛtyām | āvartayeyam | yadvā | namasā namaskāreṇāvasā 'nnena ca vavṛtyām | kiṃca he mitrāvaruṇā asmākaṃ saṃbandhi brahma stotraṃ karma vā pṛtanāsu saṃgrāmeṣu sahyāḥ | sahanīyaṃ [?] | śatrūn abhibhavanāyetyarthaḥ [?] | anena karmaṇā śatrūnabhibhaveyamityarthaḥ | kiṃcāsmākaṃ divyā divi bhavā vṛṣṭiḥ supārā suṣṭhu pārayitrī [?] bhavatviti śeṣaḥ | vṛṣṭyā satyāṃ vrīhyādidvārā karmasamāptireti bhāvaḥ ‖*
+
+---
+
+### Printed p. 542  (PDF 560)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *devau* — divine in nature; *mitrāvaruṇā* — O Mitra-Varuṇa; *vām* — to you two; *havyajuṣṭim* — the satisfying presentation of the oblation; *namasā* — together with praise offered with reverence; *avasā* — for protection, or [*namasā* — with reverence; *avasā* — with food]; *ā vavṛtyām* — may I be able to perform; *asmākam* — our; *brahma* — this rite; *pṛtanāsu* — in battles; *sahyāḥ* — may it help (us) to overcome (the enemies); *asmākam* — for us; *divyā* — in the region of heaven; *vṛṣṭiḥ* — the rain; *supārā* — abundantly, so as to bring satisfaction (let it fall).
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, divine in nature, favour me, that I may be able to present to you, with reverence, the satisfying oblation. May this rite of ours be a help in overcoming enemies in battles. May the rain of heaven fall abundantly for us so as to satisfy us.
+
+**English Translation (as printed).** Divine Mitra and Varuna, may I render the oblation acceptable to you with reverence and prayer; may the sacred rite enable us (to overcome) in battles, and may the heavenly rain be to us the means of satisfying our wants.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** That this Ṛk is to be used as the introductory verse (*puro'nuvākyā*) in the *vapā* offering of the animal sacrifice to Mitra-Varuṇa is explained by the sūtra of the Āśvalāyana Śrauta-sūtra *ā vāṃ mitrāvaruṇā havyajuṣṭim ā yātaṃ mitrāvaruṇā* (Ā. 3-8 [?]).
+
+**हव्यजुष्टिम्** — it may mean "the satisfying presentation of the oblation, obtained by the enjoyment of the oblation".
+
+> आ नो मित्रावरुणा हव्यजुष्टिं घृतैर्गव्यूतिमुक्षतमिळाभिः ।
+> प्रति वामत्र वरमा जनाय पृणीतमुद्नो दिव्यस्य चारोः ॥
+
+> *ā no mitrāvaruṇā havyajuṣṭiṃ ghṛtairgavyūtimukṣatamiḷābhiḥ |*
+> *prati vāmatra varamā janāya pṛṇītamudno divyasya cāroḥ ‖*
+
+(Ṛ. Saṃ. 7-63-[?] [?].) Here *havyajuṣṭiṃ havisevanavantaṃ yajñam*: they explained it as "the sacrifice in which the oblation is enjoyed".
+
+> इमा हव्या जातवेदो जुषस्वेति हव्यजुष्टिमाशास्ते ।
+
+> *imā havyā jātavedo juṣasveti havyajuṣṭimāśāste |*
+
+(Ai. Brā. 3-21 [?].) Here, "O Jātavedas, enjoy the oblations and be satisfied" — *havyajuṣṭi* is a technical word for such a prayer.
+
+---
+
+### Printed p. 543  (PDF 561)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**नमसा** — for this word he first says *namaskāropalakṣitena stotreṇa* — "with praise accompanied by reverence" — and then, *yadvā namaskāreṇa* — "or simply with reverence".
+
+**अवसा** — he first says "with protection", then *yadvā annena ca*, "or with food".
+
+**ब्रह्म** — here the word *brahma* is shown to be formed from the root *bṛhi* in the sense of growth, meaning "a rite brought to fullness in every way".
+
+**पृतनासु** — *vyāsa-prayante atra yoddhāraḥ iti pṛtanāḥ saṃgrāmāḥ* [reading uncertain]: since warriors gather and form a body in the place, battle is called *pṛtanā* — and in many places also:
+
+> इमं नरो मरुतः सश्चता वृषं यस्मिन् रायः शेवृधासः ।
+> अभि ये सन्ति पृतनासु दूढ्यो विश्वाहा शत्रुमादभुः ॥
+
+> *imaṃ naro marutaḥ saścatā vṛṣaṃ yasmin rāyaḥ śevṛdhāsaḥ |*
+> *abhi ye santi pṛtanāsu dūḍhyo viśvāhā śatrumādabhuḥ ‖*
+
+(Ṛ. Saṃ. 2-[?]-[?], numerals uncertain.) In it *pṛtanāsu* means *senāsu tad-upalakṣiteṣu saṃgrāmeṣu*: "in armies, or in battles characterized by armies". Sāyaṇa gives the derivation of the word to the effect that *pṛtanā* means "army" and that, being characterized by armies, battle too has the name *pṛtanā*. The *Nirukta*-author has also put it among the names of battle (Ni. 2-17 [?]).
+
+**सुपारा** — *suṣṭhu pārayitrī*: the prayer is that rain may be abundantly the means of bringing our rites too to perfect completion, and of satisfaction in this work of upkeep.
+
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar pages 543–544, noted briefly).** *havyajuṣṭim* (root *juṣī prītisevanayoḥ*; *striyāṃ ktin* (Pā. Sū. 3-3-94) *ktin* in the sense of action; *ṭikārādeśa*; *tādau ca niti* (Pā. Sū. 6-2-50) the first member keeps its accent); *namasā* (root *ṇama prahvatve śabde ca*; *asun* suffix, *nit*: first *udātta*; instr. sg.; likewise *avasā*, with the suffix accent); *vavṛtyām* (root *vṛtu vartane*; *liṅ* 1st sg. *iyam*; *tiṅ*… the form *ām* by *itaś ca* …; *vyatyaya* makes *parasmaipada*; *bahulaṃ chandasi*: *śap* → *luk*; *śluḥ* for *śap*; no *guṇa* since *śap* is *luk*… *tiṅ*: *nighāta*).
+
+---
+
+### Printed p. 544  (PDF 562)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152 [?]".)*
+
+*(Grammar of Ṛk 7, concluded; noted briefly.)* *sahyāḥ* (root *pahi marṣaṇe*; by *vyatyaya* *sic* [?] for *tip*, *adaḥ* [?] *yāsuṭāgama*; *bahulaṃ chandasi*: *luk* of *vikaraṇa*; *kapāka* final *rutva-visarga*; *nighāta*); *vṛṣṭiḥ* (root *vṛṣu secane*; *striyāṃ ktin*; *mantre vṛṣeṣapacamanavidabhūvīrāḥ…* (Pā. Sū. 3-3-96) *ktin* is *udātta*); *divyā* (*divi bhavā divyā*; *bhave chandasi* (Pā. Sū. 4-4-110) *yat* suffix; final *udātta* by the suffix accent; in the feminine, *ṭāp*); *supārā* (root *pṝ pālanapūraṇayoḥ*; *nandigrahipacādibhyaḥ* (Pā. Sū. 3-1-134) *ac*; *ṇic* as *nimitta*, *vṛddhi* of the root; *ra* following; *ṇeraniṭi* (Pā. Sū. 6-4-51) loss of *ṇi*; *cit* (Pā. Sū. 6-1-163) final *udātta*). ‖ 7 ‖
+
+*(Sūkta 152 ends here; the printed text has no closing line on this page.)*
+
+---
+
+## Sūkta 153
+
+---
+
+### Printed p. 544 (continued; PDF 562)
+
+*(The Kannada heading reads "The 153rd Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of four Ṛks beginning "Yajāmahe vām" is the fourteenth sūkta as printed [the Kannada gloss gives 14th; a sequential count would give 13th], of Dīrghatamas, Triṣṭubh, Mitrāvaruṇa deity; the Anukramaṇī says "yajāmahe catuṣkam"; the use is by indication.)*
+
+> यजामहे वामिति चतुर्ऋचं चतुर्दशं सूक्तं दैर्घतमसं त्रैष्टुभं मैत्रावरुणम् । यजामहे चतुष्कं मित्रेऽनुक्रमणिका । विनियोगो लैङ्गिकः ॥
+
+> *yajāmahe vāmiti caturṛcaṃ caturdaśaṃ sūktaṃ dairghatamasaṃ traiṣṭubhaṃ maitrāvaruṇam | yajāmahe catuṣkaṃ mitre 'nukramaṇikā | viniyogo laiṅgikaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *yajāmahe vām* is the fourteenth [as printed; see above] sūkta in the twenty-first anuvāka. It has four Ṛks. The ṛṣi of this sūkta is Dīrghatamas; Mitra-Varuṇa are the deities; the metre is Triṣṭubh. In the Anukramaṇī it is said *yajāmahe catuṣkam*. The use is by indication.
+
+**॥ ओम् ॥**
+
+**Sūkta 153** — Maṇḍala 1, Anuvāka 21, Sūkta 153; Aṣṭaka 2, Adhyāya 2, Varga 33 [?]. Number of Ṛks in the sūkta: 4. Ṛṣi: Dīrghatamas Aucathya. Devatā: Mitrāvaruṇau. Chandas: Triṣṭubh.
+
+---
+
+### Printed p. 545  (PDF 563)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> यजामहे वां महः सजोषा हव्येभिर्मित्रावरुणा नमोभिः ।
+> घृतैर्घृतस्नू अध यद्वामस्मे अध्वर्यवो न धीतिभिर्भरन्ति ॥ १ ॥
+
+> *yajāmahe vāṃ mahaḥ sajoṣā havyebhirmitrāvaruṇā namobhiḥ |*
+> *ghṛtairghṛtasnū adha yadvāmasme adhvaryavo na dhītibhirbharanti ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> यजामहे । वाम् । महः । सऽजोषाः । हव्येभिः । मित्रावरुणा । नमःऽभिः ।
+> घृतैः । घृतस्नू इति घृतऽस्नू । अध । यत् । वाम् । अस्मे इति । अध्वर्यवः । न । धीतिऽभिः । भरन्ति ॥ १ ॥
+
+> *yajāmahe | vām | mahaḥ | sa 'joṣāḥ | havyebhiḥ | mitrāvaruṇā | namaḥ 'bhiḥ |*
+> *ghṛtaiḥ | ghṛtasnū iti ghṛta 'snū | adha | yat | vām | asme iti | adhvaryavaḥ | na | dhīti 'bhiḥ | bharanti ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Mitra-Varuṇa, dispensers of ghee/water, we worship you with oblations and homage; our priests too serve you with their rites. Small type, read with doubt.)*
+
+> हे घृतस्नू घृतस्य स्नावयितारौ मित्रावरुणौ महो महान्तौ वां यजामहे । पूजयामो यज्ञैः [?] । के वयं कीदृशाः [?] । सजोषाः समानप्रीतियुक्ताः । केन साधनेनेति तदुच्यते । हव्येभिः पुरोडाशादिभिर्नमोभिर्नमस्कारोपलक्षितैः [?] । घृतैरुदकैः [?] । अधापि च यद्यस्मात्कारणाद्वां युवामध्वर्यवोऽस्मदीया अध्वर्यवोऽपि [?] । अत्र नकारोऽर्थे [?] । तेऽपि धीतिभिः कर्मभिः स्वकीयैर्भरन्ति पोषयन्ति तस्माद्यजामहे ॥
+
+> *he ghṛtasnū ghṛtasya snāvayitārau mitrāvaruṇau maho mahāntau vāṃ yajāmahe | pūjayāmo yajñaiḥ [?] | ke vayaṃ kīdṛśāḥ [?] | sajoṣāḥ samānaprītiyuktāḥ | kena sādhaneneti taducyate | havyebhiḥ puroḍāśādibhirnamobhirnamaskāropalakṣitaiḥ [?] | ghṛtairudakaiḥ [?] | adhāpi ca yadyasmātkāraṇādvāṃ yuvāmadhvaryavo 'smadīyā adhvaryavo 'pi [?] | atra nakāro 'rthe [?] | te 'pi dhītibhiḥ karmabhiḥ svakīyairbharanti poṣayanti tasmādyajāmahe ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *ghṛtasnū* — you who pour and make flow *ghṛta* (water); *mahaḥ* — the great Mitra-Varuṇa; *sajoṣāḥ* — we, of one and the same love (in worshipping you); *namobhiḥ* — with reverent; *ghṛtaiḥ* — waters; *havyebhiḥ* — oblations such as *puroḍāśa*; *vām* — you, the great; *yajāmahe* — we worship; *adha* — and moreover; *yat* — because; *vām* — you; *asme adhvaryavaḥ* — the *adhvaryu*-priests, intent on our sacrifice, too; *dhītibhiḥ* — with their rites; *bharanti* — nourish.
+
+---
+
+### Printed p. 546  (PDF 564)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153" [?].)*
+
+**भावार्थः (Bhāvārtha).** Both we, who worship you, the dispensers of water, great Mitra and Varuṇa, with one and the same devotion and faith, with oblations such as *puroḍāśa*, with reverent waters, and the *adhvaryu* priests, devoted to our sacrifice, too nourish you with their rites — for this reason too we worship you.
+
+**English Translation (as printed).** Mighty Mitra and Varuna, dispensers of butter, we worship you, rejoicing, with oblations; with reverential homage, and with (offerings of) water; so that our ministrant priests may propitiate you by (our) devotions.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **घृतस्नू** — *ghṛta* is read among the names of water (Ni. 1-12 [?]). *Ghṛtasya snāvayitārau mitrāvaruṇau*: Mitra-Varuṇa, who pour water and make it flow. The same word:
+
+> अर्चामि वां वर्धायापो घृतस्नू द्यावाभूमी शृणुतं रोदसी मे ।
+> अहा यद्द्यावोऽसुनीतिं मयन्ध्वा नो अत्र पितरा शिशीताम् ॥
+
+> *arcāmi vāṃ vardhāyāpo ghṛtasnū dyāvābhūmī śṛṇutaṃ rodasī me |*
+> *ahā yaddyāvo 'sunītiṃ mayandhvā no atra pitarā śiśītām ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], numerals uncertain.) Here it is an epithet of heaven and earth: *vṛṣṭy-udakasya prasavitryau* — "the two that bring forth rain-water".
+
+**धीतिभिः** — *svakīyaiḥ karmabhiḥ*: with their own rites. The word *dhīti* has two meanings, rite and wisdom [and in the *Nirukta* the word is also read among the names of fingers, Ni. 2-5 [?]]. The *Nirukta*-author, quoting two other Ṛks for the meanings "rite" and "wisdom", has explained this; what was said about that, in the special topics of Ṛk 1-19-1 of this part (p. 295), is referred to. In the present Ṛk it means "a rite in the form of sacrifice".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar pages 546–547, noted briefly).** *yajāmahe* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *laṭ* 1st pl. *mahiṅ*; at the head of the *pāda*, so no *nighāta*; *tāsyanudāttet* (Pā. Sū. 6-1-186) *lasārvadhātuka* *anudātta*, so the root accent stays); *mahaḥ* (root *maha pūjāyām*; *kvip ca* — *kvip*; *supāṃ sulug* (Pā. Sū. 7-1-39): the dual takes a plural ending by the statement *bhavanti*).
+
+---
+
+**Progress note:** Sūkta 152 complete (printed pp. 517–544, PDF 535–562; Ṛk 7 ends on p. 544, no closing line printed). Sūkta 153 begun on p. 544 (Anukramaṇī, Anuvāda, heading; 4 Ṛks; Mitrāvaruṇau; Triṣṭubh; varga "33" [?]; the Anukramaṇī/anuvāda call it the 14th sūkta of the anuvāka as printed, a sequential count would give 13th). Ṛk 1 under way on pp. 545–546 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topics notes done; grammar continues on p. 547). Next: printed p. 547 (PDF 565). Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
