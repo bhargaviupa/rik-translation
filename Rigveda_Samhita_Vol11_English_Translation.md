@@ -15166,4 +15166,152 @@ For this Durgācārya says: "*pārthivo 'gnir bhūtvā pṛthivyāṃ yat kiṃc
 
 ---
 
-**Progress note:** Sūkta 154 in progress: Ṛk 1 complete; Ṛk 2 under way (printed pp. 571–576, PDF 589–594; Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and most of the Special Topics done; Special Topics on the "three strides" continue on p. 577, then grammar). Next: printed p. 577 (PDF 595). Open flags: small-type bhāṣya and the Brāhmaṇa/Nirukta/Ṛg quotations pp. 572–576 transcribed at low confidence (many `[?]`); reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 577  (PDF 595)
+
+*(Header: "A. 2 A. 2 Va. 36" as printed, [?]; "Ṛgvedasaṃhitā". End of the Special Topics and grammar of Ṛk 2, noted briefly.)*
+
+… in the Ṛk it is said that Viṣṇu himself strides over the worlds. As said in the Śatapatha-Brāhmaṇa's passage (1-9-3 [?]) quoted above, the three steps of Viṣṇu are the cause of the creation and the maintenance of the worlds; this is the point suggested by *adhikṣiyanti bhuvanāni viśvā* in the present Ṛk: all the worlds rest on the support in the form of Viṣṇu's three strides — so the greatness of Viṣṇu's steps is praised.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; noted briefly).** *stavate* (root *ṣṭuñ stutau*; *laṭ* 3rd sg. *ta* in the passive sense; by *vyatyayo bahulam* *śap* in place of *yak*; *sārvadhātukārdhadhātukayoḥ* guṇa; *ayādeśa*; *tiṅ*: *nighāta*); *bhīmaḥ* (*bhīmādayo 'pādāne* (Pā. Sū. 3-4-74) *mak*-suffix from *bhī*, by the *Uṇādi* *mak*); *kucaraḥ* (*kutsitaṃ carati iti kucaraḥ*; root *cara gatibhakṣaṇayoḥ*; being in the class *pādiṣu* [as printed], *ac*; *cit*: final *udātta*; *ku* … *carati iti vā kucaraḥ*); *giriṣṭhāḥ* (root *ṣṭhā gatinivṛttau*; *kvip ca* — *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) *tuk*; *giriḥ tiṣṭhati iti giriṣṭhāḥ*; the *kṛdutara* member keeps the stem accent); *vikramaṇeṣu* (root *kramu pādavikṣepe*; in the sense of action *lyuṭ*; *yuvor anākau* (Pā. Sū. 7-1-1) *ana*; *aṭ kupvāṅ-nuṭ-vyavāye 'pi* (Pā. Sū. 8-4-2) the *ṇatva*; *liti* (Pā. Sū. 6-1-193) the syllable before the suffix is *udātta*; in the *prādi* compound *kṛdutara* stem accent); *adhikṣiyanti* (root *kṣi nivāsagatyoḥ*; *tudādi*; *laṭ* 3rd pl.; *tudādi-śa*; *yady-yogāt* there is no *nighāta*; the suffix accent stays; *udāttavat* [as printed]; *tiṅ-ati-ṅaḥ* (Pā. Sū. 8-1-28) *nighāta* for the *gati* (*adhi*)); *viśvā* (in the neuter, *śi* is replaced, so *śeś chandasi bahulam* (Pā. Sū. 6-1-70) loss of *śi*). ‖ 2 ‖
+
+---
+
+### Printed p. 578  (PDF 596)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> प्र विष्णवे शूषमेतु मन्म गिरिक्षित उरुगायाय वृष्णे ।
+> य इदं दीर्घं प्रयतं सधस्थमेको विममे त्रिभिरित्पदेभिः ॥ ३ ॥
+
+> *pra viṣṇave śūṣametu manma girikṣita urugāyāya vṛṣṇe |*
+> *ya idaṃ dīrghaṃ prayataṃ sadhasthameko vimame tribhiritpadebhiḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । विष्णवे । शूषम् । एतु । मन्म । गिरिऽक्षिते । उरुऽगायाय । वृष्णे ।
+> यः । इदम् । दीर्घम् । प्रऽयतम् । सधऽस्थम् । एकः । विऽममे । त्रिऽभिः । इत् । पदेभिः ॥ ३ ॥
+
+> *pra | viṣṇave | śūṣam | etu | manma | giri 'kṣite | uru 'gāyāya | vṛṣṇe |*
+> *yaḥ | idam | dīrgham | pra 'yatam | sadha 'stham | ekaḥ | vi 'mame | tri 'bhiḥ | it | padebhiḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: may our acceptable hymn and strength reach Viṣṇu, the all-pervader, mountain-dweller, widely praised bestower of wishes, who alone measured this long, ordained abode (the three worlds) with three steps. Small type, read with doubt.)*
+
+> विष्णवे सर्वव्यापकाय शूषमस्मदीयं [?] बलं महत्त्वं मन्म मननं स्तोत्रं मननीयं शूषं बलं वा विष्णुमेतु प्राप्नोतु । कर्मणः संप्रदानत्वाच्चतुर्थी । कीदृशाय । गिरिक्षिते वाचि गिरिवदुन्नतप्रदेशे वा तिष्ठते । उरुगायाय बहुभिर्गीयमानाय वृष्णे वर्षित्रे कामानाम् । एवं महानुभावं शूषं प्राप्नोतु । कोऽस्य विशेष इत्युच्यते । यो विष्णुरिदं प्रसिद्धं दृश्यमानं दीर्घमतिविस्तृतं प्रयतं नियतं सधस्थं सहस्थानं लोकत्रयमेकः अद्वितीयः सन् त्रिभिः पदेभिः पादैर्विममे विशेषेण निर्मितवान् ॥
+
+> *viṣṇave sarvavyāpakāya śūṣamasmadīyaṃ [?] balaṃ mahattvaṃ manma mananaṃ stotraṃ mananīyaṃ śūṣaṃ balaṃ vā viṣṇumetu prāpnotu | karmaṇaḥ saṃpradānatvāccaturthī | kīdṛśāya | girikṣite vāci girivadunnatapradeśe vā tiṣṭhate | urugāyāya bahubhirgīyamānāya vṛṣṇe varṣitre kāmānām | evaṃ mahānubhāvaṃ śūṣaṃ prāpnotu | ko 'sya viśeṣa ityucyate | yo viṣṇuridaṃ prasiddhaṃ dṛśyamānaṃ dīrghamativistṛtaṃ prayataṃ niyataṃ sadhasthaṃ sahasthānaṃ lokatrayamekaḥ advitīyaḥ san tribhiḥ padebhiḥ pādairvimame viśeṣeṇa nirmitavān ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *yaḥ* — which Viṣṇu; *idam* — this well-known, visible; *dīrgham* — very extensive, long-enduring; *prayatam* — ordained; *sadhastham* — jointly situated, the three worlds as one common abode; *ekaḥ it* — (alone, without anyone's help, whose) one; *tribhiḥ padebhiḥ* — with the three steps; *vimame* — made; (to such a) *viṣṇave* — to Viṣṇu; *śūṣam* — great strength; *manma* — and the acceptable hymn; *etu* — may it reach (and attach to him); *girikṣite* — who dwells in mantra-speech, or high places like mountains; *urugāyāya* — praised by many; *vṛṣṇe* — who showers wishes.
+
+---
+
+### Printed p. 579  (PDF 597)
+
+*(Header: "A. 2 A. 2 Va. 36" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**भावार्थः (Bhāvārtha).** May great strength and an acceptable hymn reach Viṣṇu — the well-known Viṣṇu who, with three steps, alone, with no help from anyone, made these three worlds, extensive and enduring, that are a common abode.
+
+**English Translation (as printed).** May acceptable vigour attend Vishnu, who abides in prayer, the hymned of many, the showerer (of benefits), who alone made, by three steps this spacious and durable aggregate (of the three worlds).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **शूषम्** — *asmadīyaṃ balaṃ mahattvam*: strength produced by our (the sacrificer's) rites such as sacrifice. The word *śūṣa* is read among the names of strength, *ojaḥ*, *pājaḥ* etc. (Ni. 2-9 [?]), and among the names of happiness, *śiñjāta*, *śakara* etc. (Ni. 3-6 [?]). In the Ṛgveda-saṃhitā the word is used in both senses.
+
+> सुते सुते न्योकसे बृहद्बृहत एदरिः ।
+> इन्द्राय शूषमर्चति ॥
+
+> *sute sute nyokase bṛhadbṛhata edariḥ |*
+> *indrāya śūṣamarcati ‖*
+
+(Ṛ. Saṃ. 8-4-10 [?].) In this Ṛk, *indrasya balaṃ parākramaṃ stauti* — "he praises the strength, the valour, of Indra" — so *śūṣa* means strength;
+
+> प्र मन्महे शवसानाय शूषमाङ्गूषं गिर्वणसे अङ्गिरस्वत् ।
+> सुवृक्तिभिः स्तुवत ऋग्मियायार्चामार्कं नरे विश्रुताय ॥
+
+> *pra manmahe śavasānāya śūṣamāṅgūṣaṃ girvaṇase aṅgirasvat |*
+> *suvṛktibhiḥ stuvata ṛgmiyāyārcāmārkaṃ nare viśrutāya ‖*
+
+(Ṛ. Saṃ. 1-62-1.) in which *śūṣam āṅgūṣam* is *sukhahetubhūtaṃ stotram* — "a hymn that causes happiness" — so *śūṣa* is explained as happiness. In the present Ṛk it is explained as strength.
+
+**मन्म** — *mananīyam*: meditative. *Mananīyaṃ stotraṃ mananīyaṃ śūṣaṃ vā* — it may be an epithet of the hymn or of the strength.
+
+**प्रयतम्** — the root *yam* with the prefix *pra* gives *vistṛtam*, *dattam*, *niyatam*: extensive, given, regulated. In the present Ṛk it is explained as *niyatam*. Since it is an epithet of *sadhastham*,
+
+---
+
+### Printed p. 580  (PDF 598)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+it shows "a group of three worlds that is well-established by regulation and is a common abode".
+
+**गिरिक्षिते** — *vāci girivad unnatapradeśe vā tiṣṭhate*: one who is established in mantra-form speech, or who dwells in a lofty region like a mountain; an epithet of *viṣṇave*.
+
+**एक इत् त्रिभिः पदेभिः विममे** — *advitīyaḥ*: "alone" means, without the help of others, by himself he made all the worlds with his three steps; the purport. *Vimame* — *viśeṣeṇa nirmame*: made in an excellent way.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; noted briefly).** *etu* (root *iṇ gatau*; *loṭ* 3rd sg.; *nighāta*); *viṣṇave* (since the action takes a recipient, the dative by *caturthī sampradāne*); *manma* (root *mana jñāne*; *sarvadhātubhyo man* (Uṇ. Sū. 4-[?]) *man*; *nit*: first *udātta*); *girikṣite* (root *kṣi nivāsagatyoḥ*; *kvip ca* — *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) *tuk*; in the locative, *kṛtsvarau* … *bahulam* alukk for the locative; *kṛdutarapada*-accent); *vṛṣṇe* (root *vṛṣu secane*; *kanin yuvṛṣitakṣirājidhanvidyupakṣy-ātmann-ātapathāyanāḥ* [as printed "*kanin yuvṛṣi-*" (Uṇ. Sū. 1-[?])] *kasin*… in the dative sg. *ā* → … ; *ñnityādir nityam* first *udātta*; *lopaḥ* of the *a* of *asin*); *prayatam* (root *yam uparame*; *kta*; *anudāttopadeśa…* (Pā. Sū. 6-4-37) loss of the nasal of the root; *gatiranantaraḥ* (Pā. Sū. 6-2-49) the *gati* (*pra*) keeps its accent); *vimame*, *sadhastham* — explained in the first Ṛk of this very sūkta; *padebhiḥ* (*bahulaṃ chandasi* (Pā. Sū. 7-1-10): *bhis* does not take *ais*, since *ais* is optional; *bahuvacane jhaly et* (Pā. Sū. 7-3-103) *e*). ‖ 3 ‖
+
+---
+
+### Printed p. 581  (PDF 599)
+
+*(Header: "A. 2 A. 2 Va. 36" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> यस्य त्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदन्ति ।
+> य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा ॥ ४ ॥
+
+> *yasya trī pūrṇā madhunā padānyakṣīyamāṇā svadhayā madanti |*
+> *ya u tridhātu pṛthivīmuta dyāmeko dādhāra bhuvanāni viśvā ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> यस्य । त्री । पूर्णा । मधुना । पदानि । अक्षीयमाणा । स्वधया । मदन्ति ।
+> यः । ऊं इति । त्रिऽधातु । पृथिवीम् । उत । द्याम् । एकः । दाधार । भुवनानि । विश्वा ॥ ४ ॥
+
+> *yasya | trī | pūrṇā | madhunā | padāni | akṣīyamāṇā | svadhayā | madanti |*
+> *yaḥ | ūṃ iti | tri 'dhātu | pṛthivīm | uta | dyām | ekaḥ | dādhāra | bhuvanāni | viśvā ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: Viṣṇu's three steps, full of sweet nectar and imperishable, gladden those who rest in them; he alone upholds earth, heaven and all worlds, three-fold. Small type, read with doubt.)*
+
+> यस्य विष्णोर्मधुना मधुरेण दिव्येनामृतेन पूर्णा पूर्णानि त्रीणि पदानि पादप्रक्षेपस्थानान्यक्षीयमाणान्यक्षयाणि स्वधया स्वकीयेन [?] मदन्ति मादयन्ते तदाश्रितजनान् । य उ य एव पृथिवीमुत प्रख्यातां भूमिं द्यामुत द्योतनात्मकमन्तरिक्षं [?] च विश्वा विश्वानि सर्वाणि भूतजातानि चतुर्दश लोकांश्च । यद्वा । पृथिवीशब्देनाधोवर्तिन्यः सप्तलोकाः तलादयः [?] द्यौशब्देनोपरिवर्तिनो भूरादयः सप्त लोकाः [?] । एवं चतुर्दश लोकान् विश्वा भुवनानि सर्वाण्यपि तत्त्वानि भूतजातानि । त्रिधातु । त्रयाणां धातूनां समाहारस्त्रिधातु । पृथिव्यप्तेजोरूपधातुत्रयविशिष्टम् [?] यथा भवति तथा दाधार धृतवान् । तुजादित्वादभ्यासस्य दीर्घत्वम् । उत्पत्तिस्थितिनाशकारणत्वादेकोऽपि विश्वं धारयति [?] । त्रिवृत्करणश्रुतिरत्र प्रमाणं । तेजोऽन्नस्य [?] ... तत्र त्रेधा [?] ... भा. उ. ६-३-४ ; ६-४-१ ... यद्वा । त्रिधातु कालत्रयं गुणत्रयं वा दाधारेत्येषः [?] ॥
+
+> *yasya viṣṇormadhunā madhureṇa divyenāmṛtena pūrṇā pūrṇāni trīṇi padāni pādaprakṣepasthānānyakṣīyamāṇānyakṣayāṇi svadhayā svakīyena [?] madanti mādayante tadāśritajanān | ya u ya eva pṛthivīmuta prakhyātāṃ bhūmiṃ dyāmuta dyotanātmakamantarikṣaṃ [?] ca viśvā viśvāni sarvāṇi bhūtajātāni caturdaśa lokāṃśca | yadvā | pṛthivīśabdenādhovartinyaḥ saptalokāḥ talādayaḥ [?] dyauśabdenoparivartino bhūrādayaḥ sapta lokāḥ [?] | evaṃ caturdaśa lokān viśvā bhuvanāni sarvāṇyapi tattvāni bhūtajātāni | tridhātu | trayāṇāṃ dhātūnāṃ samāhārastridhātu | pṛthivyaptejorūpadhātutrayaviśiṣṭam [?] yathā bhavati tathā dādhāra dhṛtavān | tujāditvādabhyāsasya dīrghatvam | utpattisthitināśakāraṇatvādeko 'pi viśvaṃ dhārayati [?] | trivṛtkaraṇaśrutiratra pramāṇaṃ | tejo 'nnasya [?] ... tatra tredhā [?] ... bhā. u. 6-3-4 ; 6-4-1 ... yadvā | tridhātu kālatrayaṃ guṇatrayaṃ vā dādhāretyeṣaḥ [?] ‖*
+
+---
+
+### Printed p. 582  (PDF 600)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *yasya* — of which Viṣṇu; *madhunā* — with sweet ambrosia; *pūrṇā* — filled; *padāni* — the three places of the steps; *akṣīyamāṇā* — being imperishable; *svadhayā* — with sacred food; *madanti* — (the people who rest in them) they gladden; *ya u* — and which Viṣṇu; *pṛthivīm* — the well-known earth; *uta* — and; *dyām* — the shining atmosphere; [or *pṛthivīm* — the seven worlds *atala* etc. below the earth; *dyām* — the seven worlds *bhūḥ* etc. above — thus]; *viśvā* — all; *bhuvanāni* — the (fourteen) worlds; *tridhātu* — as combined with the three elements, earth, water and fire; *ekaḥ* — alone; *dādhāra* — has upheld (raised and held).
+
+**भावार्थः (Bhāvārtha).** The three steps of Viṣṇu, filled with sweet ambrosia and imperishable, delight with sacred food the people who rest in them. And he alone upholds the earth and the sky above, and all the fourteen worlds below and above, together with the three elements, earth, water and fire.
+
+**English Translation (as printed).** Whose three imperishable pl[?]ces [as printed, letters blurred], filled with ambrosia, delight (mankind) with sacred food; who verily alone upholds the three elements, and earth and heaven.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **मधुना पूर्णा पदानि स्वधया मदन्ति** — *divyena amṛtena pūrṇāni pādaprakṣepaṇāni annena āśritajanān mādayanti*: the steps, full of divine ambrosia or of sweetness like ambrosia, delight the devotees with food: thus the nature of the steps and its fruit are praised.
+
+**स्वधया** — this word is explained as "with food". For this context "food" does not seem so fitting. In some places Sāyaṇa himself explains the word *svadhayā* in two ways, *ātmīyena tejasā haviḥ-lakṣaṇena annena vā* — "with his own splendour, or with food in the form of oblation" — so the first meaning suits here better. The *Nirukta*-author has put the word among the names of water (Ni. 1-[?]) and among the names of food (Ni. 2-7 [?]). But in many contexts *svadhā* means "own greatness", "own radiance", or "self-support". For example,
+
+> शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी ।
+> अथो व्युच्छादुत्तराँ अनु द्यूनजरामृता चरति स्वधाभिः ॥
+
+> *śaśvatpuroṣā vyuvāsa devyatho adyedaṃ vyāvo maghonī |*
+> *atho vyucchāduttarā~ anu dyūnajarāmṛtā carati svadhābhiḥ ‖*
+
+(Ṛ. Saṃ. 1-113-13.)
+
+---
+
+**Progress note:** Sūkta 154 in progress: Ṛks 2 and 3 complete; Ṛk 4 under way (printed pp. 577–582, PDF 595–600; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics begin on p. 582 (*svadhayā*) and continue). Next: printed p. 583 (PDF 601). Open flags: small-type bhāṣya partly unread (pp. 581 etc.); Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
