@@ -338,13 +338,13 @@ O Mitra and Varuṇa, come (*ā yātam*): approach. For these *indavaḥ* — th
 
 > ताम् । वाम् । धेनुम् । न । वासरीम् । अंशुम् । दुहन्ति । अद्रिऽभिः । सोमम् । दुहन्ति । अद्रिऽभिः ॥
 > अस्मत्रा । गन्तम् । उप । नः । अर्वाञ्चा । सोमऽपीतये ॥
-> अयम् [?] । वाम् । मित्रावरुणा । नृऽभिः । सुतः । सोमः । आ । पीतये । सुतः ॥ ३ ॥
+> अयम् । वाम् । मित्रावरुणा । नृऽभिः । सुतः । सोमः । आ । पीतये । सुतः ॥ ३ ॥
 
 > *tām | vām | dhenum | na | vāsarīm | aṃśum | duhanti | adri 'bhiḥ | somam | duhanti | adri 'bhiḥ ‖*
 > *asmatrā | gantam | upa | naḥ | arvāñcā | soma 'pītaye ‖*
-> *ayam [?] | vām | mitrāvaruṇā | nṛ 'bhiḥ | sutaḥ | somaḥ | ā | pītaye | sutaḥ ‖ 3 ‖*
+> *ayam | vām | mitrāvaruṇā | nṛ 'bhiḥ | sutaḥ | somaḥ | ā | pītaye | sutaḥ ‖ 3 ‖*
 
-(Note: the first word of the third line of the Pada is printed ā-like, "ಆಯಂ"; read *ayam* [?]; the last word is read *sutaḥ*.)
+(Note: the first word of the third line of the Pada is clearly printed "ಅಯಂ" (*ayam*) in the better scan; the last word is *sutaḥ*.)
 
 **॥ सायणभाष्यम् ॥**
 
@@ -366,9 +366,9 @@ The Adhvaryus milk (produce) for you, i.e. belonging to you, the *aṃśu*, the 
 
 **Special Topics (Viśeṣaviṣayagaḷu).**
 
-**vāsarīm** — *sarvāṅgācchāditapayaskām, bahukṣīrām ity arthaḥ*: "(over the whole body [?] — in the udder) having filled with milk, i.e. having abundant milk", is the meaning.
+**vāsarīm** — *sarvāṅgācchāditapayaskām, bahukṣīrām ity arthaḥ*: "(over the whole body — in the udder) having filled with milk, i.e. having abundant milk", is the meaning.
 
-**aṃśum** — *vallīrūpaṃ somam*: "the Soma creeper"; for the word *aṃśu* Sāyaṇa has given the meaning "the creeper of the juice-filled Soma". The Nirukta-writers give an explanation of this word: "*aṃśuḥ śam aśnute mātro bhavati; anāya śaṃ bhavatīti vā*" (Ni. 2-[?]) [as read] — as soon as it enters the body it becomes pleasant; or it is cooling to life; therefore it is named *aṃśu*, it is said. (continues on p. 13)
+**aṃśum** — *vallīrūpaṃ somam*: "the Soma creeper"; for the word *aṃśu* Sāyaṇa has given the meaning "the creeper of the juice-filled Soma". The Nirukta-writers give an explanation of this word: "*aṃśuḥ śam aśnute mātro bhavati; anāya śaṃ bhavatīti vā*" (Ni. 2-5 [?]) — as soon as it enters the body it is beneficial; or it is cooling to life; therefore it is named *aṃśu*, it is said. (continues on p. 13)
 
 ### Printed p. 13  (PDF 31)
 
@@ -378,39 +378,39 @@ The Adhvaryus milk (produce) for you, i.e. belonging to you, the *aṃśu*, the 
 
 > *te somādo harī indrasya niṃsate 'ṃśuṃ duhanto adhyāsate gavi |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) Here the word *aṃśu* means the Soma juice. Likewise:
+(Ṛ. Saṃ. 10-94-9) Here the word *aṃśu* means the Soma juice. Likewise:
 
 > पिपीले अंशुर्मद्यो न सिन्धुरा त्वा शमी शशमानस्य शक्तिः ।
 
 > *pipīle aṃśurmadyo na sindhurā tvā śamī śaśamānasya śaktiḥ |*
 
-(Ṛ. Saṃ. [?]-[?]-[?] [?])
+(Ṛ. Saṃ. 4-22-8 [?])
 
 > असाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः । श्येनो न योनिमासदत् ॥
 
 > *asāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ | śyeno na yonimāsadat ‖*
 
-(Ṛ. Saṃ. 9-[?]-[?] [?])
+(Ṛ. Saṃ. 9-62-4)
 
-In ṛks such as these the meaning everywhere is the Soma juice. But when the word *aṃśu* comes as an epithet of the word *soma*, it must be said to mean the Soma creeper [?] (a doubtful phrase before "Soma creeper" [?]). For example:
+In ṛks such as these the meaning everywhere is the Soma juice. But when the word *aṃśu* comes as an epithet of the word *soma*, it must be said to mean the Soma creeper, "a piece of the plant" (*khaṇḍātmaka*). For example:
 
-> आत्सि इन्द्रः सदसो वरीयान्यदीं सोमः पृणति [?] मग्धो [?] अंशुः ॥
+> आत्सि इन्द्रः सदसो वरीयान्यदीं सोमः पृणति दुग्धो अंशुः ॥
 
-> *ātsi indraḥ sadaso varīyānyadīṃ somaḥ pṛṇati [?] magdho [?] aṃśuḥ ‖*
+> *ātsi indraḥ sadaso varīyānyadīṃ somaḥ pṛṇati dugdho aṃśuḥ ‖*
 
-(Ṛ. Saṃ. [?]-[?]-[?])
+(Ṛ. Saṃ. 3-36-6)
 
 > अंशुं दुहन्ति हस्तिनो भरित्रैर्मध्वः पुनन्ति धारया पवित्रैः ।
 
 > *aṃśuṃ duhanti hastino bharitrairmadhvaḥ punanti dhārayā pavitraiḥ |*
 
-(Ṛ. Saṃ. [?]-[?]-[?])
+(Ṛ. Saṃ. 3-36-2)
 
 In ṛks such as these, since the word *aṃśu* is an epithet of the word *soma*, [it means] "*latākhaṇḍarūpaḥ alpaḥ somaḥ*": a small piece of the creeper, and so a small Soma; it tells of the small quantity of the Soma. "*Alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*": it is understood that, though Indra is a great deity, the small Soma satisfies him. Thus, though the principal meaning of the word *aṃśu* is the Soma juice itself, in some places it also means the Soma creeper.
 
-**asmatrā** — "you who are our protectors", the protection of Mitra and Varuṇa is praised. As the epithets "*viśvasya bhuvanasya gopāḥ*" ([?]-[?]-[?], [?]-[?]-[?]) and the like describe the protection of the world that Mitra and Varuṇa do day and night, this epithet too tells that point.
+**asmatrā** — "you who are our protectors", the protection of Mitra and Varuṇa is praised. As the epithets "*viśvasya bhuvanasya gopāḥ*" (2-[?]-4, 1-[?]-9) and the like describe the protection of the world that Mitra and Varuṇa do day and night, this epithet too tells that point.
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; numbers as printed, doubtful ones [?]).** *vāsarīm* — root *vas ācchādane*, an Uṇādi suffix *ari*, *vṛddhi* of the initial by *vyatyaya* [as read]; for the feminine, *ṅīp* by *kṛdikārād aktinaḥ* (the *-i*-final *kṛdanta* other than *ktin*); or the Uṇādi suffix *ara*; belonging to the *prajñādi* class, *prajñādibhyaś ca* Pā. 5-4-38 [?] gives *aṇ* in the self-sense; *taddhiteṣv acām ādeḥ* Pā. 7-2-117 [?] gives the *vṛddhi* of the initial; in the feminine *ṭiḍḍhāṇañ…* gives *ṅīp*; *yasyeti ca* drops the *a*; *anudāttasya ca yatrodāttalopaḥ* Pā. 6-1-161 [?] gives the acute on the *ṅīp*; accusative singular. (The grammar of the remaining words continues on p. 14.)
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; numbers as printed, doubtful ones [?]).** *vāsarīm* — root *vas ācchādane*, an Uṇādi suffix *ari*, *vṛddhi* of the initial by *vyatyaya* [as read]; for the feminine, *ṅīp* by *kṛdikārād aktinaḥ* (the *-i*-final *kṛdanta* other than *ktin*); or the Uṇādi suffix *ara*; belonging to the *prajñādi* class, *prajñādibhyaś ca* Pā. 5-4-38 gives *aṇ* in the self-sense; *taddhiteṣv acām ādeḥ* Pā. 7-2-117 gives the *vṛddhi* of the initial; in the feminine *ṭiḍḍhāṇañ…* gives *ṅīp*; *yasyeti ca* drops the *a*; *anudāttasya ca yatrodāttalopaḥ* Pā. 6-1-161 gives the acute on the *ṅīp*; accusative singular. (The grammar of the remaining words continues on p. 14.)
 
 ---
 
