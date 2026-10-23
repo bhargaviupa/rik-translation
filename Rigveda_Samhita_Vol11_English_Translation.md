@@ -15894,4 +15894,160 @@ Of all these, the view of N. Iyengar fits the matter described in the Śatapatha
 
 ---
 
-**Progress note:** Sūkta 154 complete (printed pp. 563–599); Sūkta 155 begun: heading, Anukramaṇī, Ṛk 1 Saṃhitā, Pada and the start of the bhāṣya (printed pp. 599–600, PDF 617–618). Next: printed p. 601 (PDF 619) — rest of Ṛk 1 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics. Open flags: small-type bhāṣya and the Śatapatha/Taittirīya/Aitareya quotations on pp. 596–597 partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 601  (PDF 619)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Bhāṣya of Ṛk 1 continues from p. 600; small type, read with doubt.)*
+
+> समुच्छ्रितेप्रदेशे [?] । सर्वलोक इत्यर्थः । अथवा मेघानां समुच्छ्रितेप्रदेशे । पर्वतशब्दो मेघनामसूक्तत्वात् [?] । तत्र तस्थतुः । शिष्मतः [?] केदैक्रौ ता [?] । अदाभ्या दम्भनीयौ [?] अत एव महो महान्तौ । यद्वा । महः महसि स्वतेजसि सानुनीत्येन संबन्धः । तत्र दृष्टान्तः । साधुनाभिमतदेशप्रापणसमर्थेन अर्वता वेगवताश्वेनेव । तेन यथाश्वारूढः प्रदेशमारोहति तद्वदुच्चं पदमारूढौ [?] । तस्माद्भ्यामर्चत ॥
+
+> *samucchritepradeśe [?] | sarvaloka ityarthaḥ | athavā meghānāṃ samucchritepradeśe | parvataśabdo meghanāmasūktatvāt [?] | tatra tasthatuḥ | śiṣmataḥ [?] kedaikrau tā [?] | adābhyā dambhanīyau [?] ata eva maho mahāntau | yadvā | mahaḥ mahasi svatejasi sānunītyena saṃbandhaḥ | tatra dṛṣṭāntaḥ | sādhunābhimatadeśaprāpaṇasamarthena arvatā vegavatāśveneva | tena yathāśvārūḍhaḥ pradeśamārohati tadvaduccaṃ padamārūḍhau [?] | tasmādbhyāmarcata ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** (O Adhvaryu and the other priests,) *adābhyā* — the two who cannot be struck down (by anyone); *mahaḥ* — and great; *yā* — which two, Indra and Viṣṇu; *parvatānām* — of the mountains; *sānuni* — on the summit [or: *parvatānām* — of the mountain-like clouds; *sānuni* — (on the path) able to go (to the desired places)]; *arvateva* — like those who mount horses [?] and go up to high places; *tasthatuḥ* — stand (in splendour); such (two) — *dhiyāyate* — to him who desires praise; *mahe* — to the powerful; *śūrāya* — to the valiant Indra; *ca* — and; *viṣṇave* — to Viṣṇu also; *vaḥ* — your; *pāntam* — nourishing or drinkable; *andhasaḥ* — the food in the form of Soma; *prārcata* — offer.
+
+**भावार्थः (Bhāvārtha).** O Adhvaryus and others, offer your Soma-food, which nourishes, to Indra and to Viṣṇu — the invincible and great — who stand in splendour on the high regions of the clouds that are like peaks, as if mounted on trained horses and rising to lofty places; to Indra, who desires praise, is powerful and valiant, and to Viṣṇu as well.
+
+**English Translation (as printed; heading printed "English Tranlation" [sic]).** Offer your nutritious viands to the great hero, (Indra), who is pleased by praise, and to Vishnu, the two invincible deities who ride upon the radiant summit of the clouds, as upon a well-trained steed.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **adābhyā** — *adambhanīyau* [?]: those who are not harmed by enemies, and the unconquerable. The word, formed from the root *dabh* ("to injure, to destroy") in its negative sense, is an epithet of Indra and Viṣṇu.
+
+---
+
+### Printed p. 602  (PDF 620)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+**parvatānām** — *parvān parvataḥ | parva punaḥ pṛṇāteḥ prīṇāter vā*: the word *parva* is formed from the root *pṛ* ("to fill") or from the root *prī* ("to please"); that which has such *parvas* is a *parvata*. **sānuni** — *sānu samucchritaṃ bhavati | samunnatam iti vā* (*ūrdhvaṃ nunnaṃ preritaṃ bhavati*): it rises upward, or is well known as high; therefore it is called *sānu*.
+
+Here Sāyaṇa explains *parvatānām sānuni* in two ways. The first, for the word *parvata*: *pūraṇavatāṃ prīṇanavatāṃ vā lokānāṃ samucchrite pradeśe* — "in the high region of the worlds that fill or that please", i.e. Satyaloka [?]. The second: *athavā meghānāṃ samucchrite pradeśe | parvataśabdaḥ meghanāmasu uktatvāt* — since the word *parvata* is read among the names of cloud, "in the high region of the clouds".
+
+In general the word *parvata* is used often in the Indra-sūktas and the Marut-sūktas. In many places it is explained as "cloud". Even when explained as "cloud", on following Yāska's derivation: if the word *parvata* is formed from the root *pṛ*, it means that which fills the empty spaces of the atmosphere; if from the root *prī*, it means that which satisfies the whole world by the gift of rain.
+
+In some contexts it can also mean the thick, solidified mass of darkness [?], in cloud form. For example,
+
+> समु त्वे महीरसः सं क्षोणी समु सूर्यम् ।
+> सं वज्रं पर्वशो दधुः ॥
+
+> *samu tve mahīrasaḥ saṃ kṣoṇī samu sūryam |*
+> *saṃ vajraṃ parvaśo dadhuḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?], as printed, numerals doubtful.)
+
+> वि वृत्रं पर्वशो ययुर्वि पर्वताँ अराजिनः ।
+> चक्राणा वृष्णि पौंस्यम् ॥
+
+> *vi vṛtraṃ parvaśo yayurvi parvatā~ arājinaḥ |*
+> *cakrāṇā vṛṣṇi pauṃsyam ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?], as printed, numerals doubtful.)
+
+If the words *vajra* and *parvata* used in these Ṛks are examined, the sūkta containing these cited Ṛks is addressed to the Maruts. Since the *vajra* weapon is used here, and since it is well known that the *vajra* is Indra's weapon, here the word *vajra* is taken as a weapon of the form of a mass of splendour, and the word *parvata* as a solidified mass of darkness; then the meaning "he cleft the mountain by hurling the *vajra*" fits. Therefore *parvata* here is a metaphor: a mass of darkness in the form of a mountain.
+
+---
+
+### Printed p. 603  (PDF 621)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+In many contexts Parvata is invoked and praised along with Indra and other deities. For example:
+
+> इन्द्रापर्वता बृहता रथेन वामीरिष आ वहतं सुवीराः ।
+> वीतं हव्यान्यध्वरेषु देवा वर्धेथां गीर्भिरिळया मदन्ता ॥
+
+> *indrāparvatā bṛhatā rathena vāmīriṣa ā vahataṃ suvīrāḥ |*
+> *vītaṃ havyānyadhvareṣu devā vardhethāṃ gīrbhiriḷayā madantā ‖*
+
+(Ṛ. Saṃ. 3-53-1 [?], as printed.)
+
+In this Ṛk *indraś ca parvataś ca*: "O Indra and Parvata" — with Indra; and
+
+> सजोष आदित्यैर्मादयध्वं सजोषस ऋभवः पर्वतेभिः ।
+> सजोषसो दैव्येना सवित्रा सजोषसः सिन्धुभी रत्नधेभिः ॥
+
+> *sajoṣa ādityairmādayadhvaṃ sajoṣasa ṛbhavaḥ parvatebhiḥ |*
+> *sajoṣaso daivyenā savitrā sajoṣasaḥ sindhubhī ratnadhebhiḥ ‖*
+
+(Ṛ. Saṃ. 7-34-9 [?], as printed.)
+
+here *parvatebhiḥ* [?] (garbled in the small commentary quotation, read with doubt): there is an invocation together with the Ādityas and other deities as well. In such contexts it is not easy to say what the precise sense of the word *parvata* is.
+
+In the present Ṛk it appears proper to explain *parvata* as "cloud". Since Indra's deeds are mostly done in the region of the cloud, and since here the great deeds of Indra and Viṣṇu are praised, this sense fits.
+
+**arvatā iva** — *vegavatā aśvena iva* — "like a horse of great speed": compared to a horse that moves with great speed. The derivation of the word *arvan* and the special meaning of it have been told in detail before.
+
+**sādhunā** — *abhimatadeśaprāpaṇasamarthena* — "with the power to take one to the desired place": by the power to reach the region desired; the word *sādhu* is explained as "power". The Nirukta-author, in explaining
+
+> तुविष्टं ते सुकृतं सोमयं धनुः साधुर्बुन्दो हिरण्ययः ।
+> उभा ते बाहू रण्या सुसंस्कृत ऋदूपे चिदृदूवृधा ॥
+
+> *tuviṣṭaṃ te sukṛtaṃ somayaṃ dhanuḥ sādhurbundo hiraṇyayaḥ |*
+> *ubhā te bāhū raṇyā susaṃskṛta ṛdūpe cidṛdūvṛdhā ‖*
+
+(Ṛ. Saṃ. 8-22-11 [?], as printed.)
+
+*sādhuḥ sādhayitā kāryāṇām* — "the accomplisher of tasks, one having the power to carry out" (epithet of the bow) — similarly here *arvā* means "one having the power".
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar pages 603–604, noted briefly).** *pāntam* (root *pā pāne* or *pā rakṣaṇe*; the suffix *śatṛ* or the Uṇādi *jhu* [?]; *jhoṅtaḥ* (Pā. Sū. 7-1-3) *anta*-substitution; first syllable *udātta* by the suffix) …
+
+---
+
+### Printed p. 604  (PDF 622)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+*(Grammar of Ṛk 1, concluded; noted briefly.)* *andhasaḥ* (root *ada bhakṣaṇe*; *ader numdhaś ca* (Uṇ. Sū. 4-[?]) *asun*, *num*-augment, *d* → *dh*; first *udātta*); *dhiyāyate* (*dhiyam ātmana icchati*; *kyac*, *śatṛ* in the *laṭ* sense; dative sg.; *śatur anumo nadyajādī* (Pā. Sū. 6-1-173 [?]) *udātta* of the case-ending); *mahe* (root *maha pūjāyām*; *kvip*; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) *udātta* on the dative ending); *śūrāya* (root *śū gatau*; *kran* by an Uṇādi sūtra [?]; *nit*: first *udātta*); *arcata* (root *arca pūjāyām*; *loṭ* 2nd pl.; *nighāta*); *parvatānām* (root *parva pūraṇe*; *bhṛmṛdṛśiyaji…* (Uṇ. Sū. 3-110) *atac*; genitive pl.); *adābhyā* (*na dābhyaḥ*; root *dabhi* is read in a *vārttika*; *ṛhaloṇ-yat* (Pā. Sū. 3-1-124) *ṇyat*; *ato 'ta upadhāyāḥ* — *vṛddhi* of the penultimate; *nañ* compound, so prior-member accent; dual *au* → *ā* by *supāṃ sulug…* (Pā. Sū. 7-1-39)); *tasthatuḥ* (root *ṣṭhā gatinivṛttau*; *liṭ* 3rd dual; no *nighāta* because of *yat*; suffix first *udātta*); *arvatā iva* (root *ṛ gatau*; *vanip* by *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75); *guṇa*; instrumental sg.; *arvaṇas trasāv anañaḥ* [?] *tra* substitution); *sādhunā* (root *sādha saṃsiddhau*; *kṛvāpāji…* (Uṇ. Sū. 1-1) *uṇ*; final *udātta*; instrumental sg.). ‖ 1 ‖
+
+---
+
+### Printed p. 605  (PDF 623)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> त्वेषमित्था समरणं शिमीवतोरिन्द्राविष्णू सुतपा वामुरुष्यति ।
+> या मर्त्याय प्रतिधीयमानमित्कृशानोरस्तुरसनामुरुष्यथः ॥ २ ॥
+
+> *tveṣamitthā samaraṇaṃ śimīvatorindrāviṣṇū sutapā vāmuruṣyati |*
+> *yā martyāya pratidhīyamānamitkṛśānorasturasanāmuruṣyathaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वेषम् । इत्था । संऽअरणम् । शिमीऽवतोः । इन्द्राविष्णू इति । सुतऽपाः । वाम् । उरुष्यति ।
+> या । मर्त्याय । प्रतिऽधीयमानम् । इत् । कृशानोः । अस्तुः । असनाम् । उरुष्यथः ॥ २ ॥
+
+> *tveṣam | itthā | saṃ 'araṇam | śimī 'vatoḥ | indrāviṣṇū iti | suta 'pāḥ | vām | uruṣyati |*
+> *yā | martyāya | prati 'dhīyamānam | it | kṛśānoḥ | astuḥ | asanām | uruṣyathaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the sacrificer who has drunk the Soma-remainder protects the bright coming-together of the two active deities; the two give the mortal worshipper fruit through Agni. Small type, read with doubt.)*
+
+> सोमातिरेके प्रैयेसवने विशा वैकल्पिके याज्या [?] । तथा च सूत्रितम् । त्वेषमित्था समरणं शिमीवतोरिति वा याज्या । आ. ६-२ इति ॥
+> हे इन्द्राविष्णू शिमीवतोः कर्मवतोर्वां युवयोः त्वेषं प्रदीप्तं समरणं सम्यग्गमनं सुतपा हुतशिष्टसोमपीतेर्यजमान उरुष्यति । रक्षति । यागेन पूजयति । यद्वा । शिमीवतोः प्रहरणादिकर्मवतोर्वां युवयोस्त्वेषं दीप्तं शौर्योपेतं समरणं सम्यक्परस्परसंगमनोपेतं वृष्टिप्रदानाय मेघविदारणरूपं यजमान उरुष्यति रक्षति । स्तौतीत्यर्थः । कस्त्योरतिशय इति उच्यते । या यावेन्द्राविष्णू मर्त्याय मनुष्याय पचनपात्रे [?] यजमानाय प्रतिधीयमानमित् प्रतिधात्वन्यो [?] फलरूपमुपनामसनं चलनशीलं प्रदानशीलमन्नादिकमस्तु [?] … कृशानोरग्नेः सकाशादुरुष्यथः ॥ अविच्छेदेन प्रवर्तयथः । वह्नेर्हुतं हविः स्वीकृत्य तस्मादेव फलमपि दास्यथ इत्यर्थः ॥
+
+> *somātireke praiyesavane viśā vaikalpike yājyā [?] | tathā ca sūtritam | tveṣamitthā samaraṇaṃ śimīvatoriti vā yājyā | ā. 6-2 iti ‖*
+> *he indrāviṣṇū śimīvatoḥ karmavatorvāṃ yuvayoḥ tveṣaṃ pradīptaṃ samaraṇaṃ samyaggamanaṃ sutapā hutaśiṣṭasomapīteryajamāna uruṣyati | rakṣati | yāgena pūjayati | yadvā | śimīvatoḥ praharaṇādikarmavatorvāṃ yuvayostveṣaṃ dīptaṃ śauryopetaṃ samaraṇaṃ samyakparasparasaṃgamanopetaṃ vṛṣṭipradānāya meghavidāraṇarūpaṃ yajamāna uruṣyati rakṣati | stautītyarthaḥ | kastyoratiśaya iti ucyate | yā yāvendrāviṣṇū martyāya manuṣyāya pacanapātre [?] yajamānāya pratidhīyamānamit pratidhātvanyo [?] phalarūpamupanāmasanaṃ calanaśīlaṃ pradānaśīlamannādikamastu [?] … kṛśānoragneḥ sakāśāduruṣyathaḥ ‖ avicchedena pravartayathaḥ | vahnerhutaṃ haviḥ svīkṛtya tasmādeva phalamapi dāsyatha ityarthaḥ ‖*
+
+---
+
+### Printed p. 606  (PDF 624)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *indrāviṣṇū* — O Indra and Viṣṇu; *yā* — you who; *martyāya* — to the mortal sacrificer; *pratidhīyamānam it* — (in the form of the fruit of the sacrifice) what must be received; *asanām* — food and so on; *astuḥ* — (distributing the desired objects) or driving away enemies; *kṛśānoḥ* — through Agni; *uruṣyathaḥ* — you (continuously) supply; *śimīvatoḥ* — of you two who have acts such as bestowing desired objects, or acts such as smiting; *vām* — your; *tveṣam* — radiant, or accompanied by valour; *samaraṇam* — joint coming; *sutapāḥ* — the sacrificer who has drunk the Soma remaining after the oblation; *itthā* — in this manner; *uruṣyati* — worships.
+
+**भावार्थः (Bhāvārtha).** O Indra and Viṣṇu, you always supply the mortal sacrificer, through Agni who distributes the desired objects, with the food and so on which he must receive as the fruit of the sacrifice. Thus the sacrificer who has drunk the Soma remaining after the oblation worships (honours) your radiant, joint coming, you who have acts such as bestowing the desired objects.
+
+**English Translation (as printed).** Indra and Vishnu, the devout worshipper glorifies the radiant approach of you two, who are the granters of desires, and who bestow upon the mortal who worships you an immediately-receivable (reward), through the distribution of that fire which is the scatterer (of desired blessings).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** At the third pressing, when the *somātireka* oblation is made, this Ṛk may be used as a *yājyā* mantra (optionally), as explained in the Āśvalāyana-Śrauta-Sūtra by the sūtra *tveṣam itthā samaraṇaṃ śimīvator iti vā yājyā* (Ā. 6-2).
+
+**kṛśānoḥ** — *agneḥ* — "through Agni": the word *kṛśānu* is explained as Agni. As a synonym of Agni this word is used in the Ṛksaṃhitā only in this one Ṛk. Although the name occurs in four other places in the Ṛksaṃhitā, there is no ground for taking it there to mean Agni; everywhere there *Kṛśānu* must be taken to be a person [?]. In the Vājasaneyi-Saṃhitā, except for one passage (?-?? [?]), in no other śruti-sentence does the word *kṛśānu* appear to be used as a synonym of Agni. And that name is also very well known in the Saṃhitās and in the Brāhmaṇas [?].
+
+---
+
+**Progress note:** Sūkta 155 in progress: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the start of its Special Topics (*kṛśānu*) done (printed pp. 601–606, PDF 619–624). Next: printed p. 607 (PDF 625). Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
