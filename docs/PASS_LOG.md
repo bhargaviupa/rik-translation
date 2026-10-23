@@ -17,3 +17,5 @@
 2026-10-23 16:37 PDF 57-57: remaining [?] EN 7, KN 1. after: 13 cleared; 6 [?] left belong to refs printed on p.40 (PDF 58)
 2026-10-23 16:37 PDF 58-58: remaining [?] EN 2, KN 4. after: 36 cleared (mostly ref numerals), 5 doubtful kept; Ṛ. Saṃ. 2-… corrected to 7-44-5
 2026-10-23 16:38 PDF 59-59: remaining [?] EN 2, KN 2. after: 38 cleared; 4 verse texts corrected (unflagged errors: amūraḥ, ā dūto, sa śevadhiṃ); 2 refs doubtful
+2026-10-23 16:39 PDF 60-60: remaining [?] EN 0, KN 0. after: 28 cleared (all Pāṇini numerals, read clearly)
+2026-10-23 16:39 PDF 61-61: remaining [?] EN 2, KN 1. after: 13 cleared; whole bhāṣya now read (was partial, '…' gaps); 1 doubtful word
