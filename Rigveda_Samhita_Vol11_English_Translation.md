@@ -14994,4 +14994,176 @@ Third: *pārthivāni pṛthivīmitrakāṇi rajāṃsi lokān vimame* — "the w
 
 ---
 
-**Progress note:** Sūkta 154 in progress: Ṛk 1 under way (printed pp. 564–570, PDF 582–588; bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and most of the grammar notes done; the grammar page continues on p. 571, then Ṛk 2). Next: printed p. 571 (PDF 589). Open flags: small-type bhāṣya on p. 565 and the Taittirīya/Aitareya-Brāhmaṇa/Ṛg quotations on pp. 565–570 transcribed at low confidence (many `[?]`); reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 571  (PDF 589)
+
+*(Header: "A. 2 A. 2 Va. 35" as printed, [?]; "Ṛgvedasaṃhitā". Grammar of Ṛk 1, concluded, noted briefly.)*
+
+*(Ṛk 1 grammar:)* *vocam* (root *vaca paribhāṣaṇe*, or *brūñ vyaktāyāṃ vāci*; for the latter, *vaca* is the substitute (*vaktter vaci*); *luṅ* 1st sg.; *asyatiyakti-khyātibhyo 'ṅ* (Pā. Sū. 3-1-52) *aṅ* for *cli*; *vaca uṃ* (Pā. Sū. 7-4-20) *um* augment; *guṇa*; *tiṅ*: *nighāta*); *pārthivāni* (*pṛthivyā imāni pārthivāni*; *pṛthivyā ñañ* (Pā. Sū. 4-1-[?]) *añ*; *taddhiteṣv acāmādeḥ* (Pā. Sū. 7-2-117) *vṛddhi* of the first; *ñnityādir nityam* (Pā. Sū. 6-1-197) first *udātta*); *vimame* (root *māṅ māne*, with *vi*; *liṭ* 3rd sg., form *mame*; *yady-vṛttānnityam* — prohibition of *nighāta* because of its relation with *yat*; final *udātta* by the suffix accent; *tiṅ-ati-ṅaḥ* (Pā. Sū. 8-1-28) the prefix *vi* is *anudātta*); *askabhāyat* (root *skabhi pratibandhe*; *luṅ*, 3rd sg. *tip*; *itaś ca* loss of *i*; *stambhu-stumbhu-skambhu…* (Pā. Sū. 3-1-82) *śnā*; the *śāyac* by *vyatyaya*; *chandasi śāyaj api*; *āgamānuśāsanam anityam*, so no *num*; *yady-yogād* no *nighāta*; *aḍāgama* being *udātta*, first *udātta*); *sadhastham* (root *ṣṭhā gatinivṛttau*; *supi sthaḥ* (Pā. Sū. 3-2-4) *ka*; *ato lopa iṭi ca* (Pā. Sū. 6-4-64) loss of *ā*; *sadhamādasthayoś chandasi* (Pā. Sū. 6-3-96) *sadha* for *saha*; accusative sg.); *vicakramāṇaḥ* (root *kramu pādavikṣepe*; *śānac* in the sense of *laṭ*; *bahulaṃ chandasi*: *śap* → *ślu*; with *ślu*, doubling of the root; *cit* (Pā. Sū. 6-1-163) final *udātta*; with a prefix, *kṛdutara* stem accent); *tredhā* (from *tri* with *vidhārthe dhā*… (Pā. Sū. 5-3-42) *dhā* in the sense of mode; *cit*: final *udātta*); *urugāyaḥ* (root *gai śabde*, as *gā stutau*; *aco yat* (Pā. Sū. 3-1-97) *yat*, by *vyatyaya*, final *udātta*; in the *prādi* compound, *kṛdutara* stem accent). ‖ 1 ‖
+
+---
+
+### Printed p. 572  (PDF 590)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> प्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः ।
+> यस्योरुषु त्रिषु विक्रमणेष्वधिक्षियन्ति भुवनानि विश्वा ॥ २ ॥
+
+> *pra tadviṣṇuḥ stavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭhāḥ |*
+> *yasyoruṣu triṣu vikramaṇeṣvadhikṣiyanti bhuvanāni viśvā ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । तत् । विष्णुः । स्तवते । वीर्येण । मृगः । न । भीमः । कुऽचरः । गिरिऽस्थाः ।
+> यस्य । उरुषु । त्रिषु । विऽक्रमणेषु । अधिऽक्षियन्ति । भुवनानि । विश्वा ॥ २ ॥
+
+> *pra | tat | viṣṇuḥ | stavate | vīryeṇa | mṛgaḥ | na | bhīmaḥ | ku 'caraḥ | giri 'sthāḥ |*
+> *yasya | uruṣu | triṣu | vi 'kramaṇeṣu | adhi 'kṣiyanti | bhuvanāni | viśvā ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: this Ṛk is used as *stotriya*/*anurūpa* in the *śastra* at the third pressing; Viṣṇu is praised for his valour, fearsome like a wild beast, roaming rugged places, mountain-dweller, in whose three wide strides all beings dwell. Small type, read with doubt.)*
+
+> तृतीयसवने सोमातिरेके नव [?] शस्त्रमुपजनयितव्यम् । तत्र प्र तद्विष्णुरित्येतमनुरूपस्तृचः [?] । सोमातिरेके इति खण्डे सूत्रितम् । प्र तद्विष्णुः स्तवते वीर्येणेति स्तोत्रियानुरूपौ । आ. ६-८ [?] इति ॥ वाजपेयाधिपत्यकाम इति खण्डे सूत्रितम् । प्र तत्ते अद्य शिपिविष्ट नाम प्र तद्विष्णुः स्तवते वीर्येणेति । आ. ९-८ [?] इति ॥
+> यस्येति वक्ष्यमाणत्वात् स इति अवगम्यते । स महानुभावो वीर्येण स्वकीयेन वीरकर्मणा पूर्वोक्तरूपेण स्तवते । स्तूयते सर्वैः । कर्मणि व्यत्ययेन शप् ॥ वीर्येण स्तूयमानत्वे दृष्टान्तः । मृगो न सिंहादिरिव । यथा स्वस्वारोधिनो मृगयितारः [?] सिंहो भीमो भीतिजनकः कुचरः कुत्सितहिंसादिकर्ता [?] दुर्गप्रदेशगन्ता वा गिरिष्ठाः पर्वतादिमुन्नतप्रदेशस्थायी सर्वैः स्तूयते । अस्मिन्नर्थे निरुक्तम् । मृगो न भीमः कुचरो गिरिष्ठाः । मृगो माप्टेर्गतिकर्मणः [?] । भीमो बिभ्यत्यस्माद्भीष्मा [?] । कुचर कुत्सितं चरति कर्म कुत्सितम् । अथ चेद्देवताभिधानं क्वायं न चरतीति वा । गिरिष्ठा गिरिस्थायी [?]।
+
+> *tṛtīyasavane somātireke nava [?] śastramupajanayitavyam | tatra pra tadviṣṇurityetamanurūpastṛcaḥ [?] | somātireke iti khaṇḍe sūtritam | pra tadviṣṇuḥ stavate vīryeṇeti stotriyānurūpau | ā. 6-8 [?] iti ‖ vājapeyādhipatyakāma iti khaṇḍe sūtritam | pra tatte adya śipiviṣṭa nāma pra tadviṣṇuḥ stavate vīryeṇeti | ā. 9-8 [?] iti ‖*
+> *yasyeti vakṣyamāṇatvāt sa iti avagamyate | sa mahānubhāvo vīryeṇa svakīyena vīrakarmaṇā pūrvoktarūpeṇa stavate | stūyate sarvaiḥ | karmaṇi vyatyayena śap ‖ vīryeṇa stūyamānatve dṛṣṭāntaḥ | mṛgo na siṃhādiriva | yathā svasvārodhino mṛgayitāraḥ [?] siṃho bhīmo bhītijanakaḥ kucaraḥ kutsitahiṃsādikartā [?] durgapradeśagantā vā giriṣṭhāḥ parvatādimunnatapradeśasthāyī sarvaiḥ stūyate | asminnarthe niruktam | mṛgo na bhīmaḥ kucaro giriṣṭhāḥ | mṛgo māpṭergatikarmaṇaḥ [?] | bhīmo bibhyatyasmādbhīṣmā [?] | kucara kutsitaṃ carati karma kutsitam | atha ceddevatābhidhānaṃ kvāyaṃ na caratīti vā | giriṣṭhā giristhāyī [?]|*
+
+---
+
+### Printed p. 573  (PDF 591)
+
+*(Header: "A. 2 A. 2 Va. 36" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> लोकत्रयेऽपि संचारी वा । तथा गिरिष्ठाः गिरावुच्चैर्वर्तमानः [?] । यद्वा । गिरिः मन्त्ररूपायां वाचि सर्वदा वर्तमानः । अदृष्टोऽयं सुतमभिमा [?] स्तूयते । किंच यस्य विष्णोरुरुषु त्रिसंख्याकेषु विक्रमणेषु पादप्रक्षेपेषु विश्वा सर्वाणि भुवनानि भूतजातान्यधिक्षियन्ति आश्रित्य निवसन्ति स विष्णुः स्तूयते ॥
+
+> *lokatraye 'pi saṃcārī vā | tathā giriṣṭhāḥ girāvuccairvartamānaḥ [?] | yadvā | giriḥ mantrarūpāyāṃ vāci sarvadā vartamānaḥ | adṛṣṭo 'yaṃ sutamabhimā [?] stūyate | kiṃca yasya viṣṇoruruṣu trisaṃkhyākeṣu vikramaṇeṣu pādaprakṣepeṣu viśvā sarvāṇi bhuvanāni bhūtajātānyadhikṣiyanti āśritya nivasanti sa viṣṇuḥ stūyate ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *yasya* — of which Viṣṇu; *uruṣu* — very wide; *triṣu* — three in number; *vikramaṇeṣu* — in the strides; *viśvā bhuvanāni* — all beings, or all worlds; *adhikṣiyanti* — dwell, rest; (and) *yaḥ* — which Viṣṇu; *mṛgo na* — like a wild beast such as the lion; *bhīmaḥ* — terrible to enemies; *kucaraḥ* — hurting (enemies) in a mean manner, or wandering in impassable regions; *giriṣṭhāḥ* — dwelling in the high places of mountains; [or *kucaraḥ* — moving in all three worlds; *giriṣṭhāḥ* — abiding in the mantra-form words]; *tad viṣṇuḥ* — that Viṣṇu; *vīryeṇa* — with his heroic deeds; *pra stavate* — is excellently praised.
+
+**भावार्थः (Bhāvārtha).** Viṣṇu, in whose very wide three strides all beings find their abode, who is terrible to enemies like a lion and other wild beasts, who hurts enemies greatly, and who dwells on the high places of mountains — that Viṣṇu is especially praised for his heroic deeds.
+
+**English Translation (as printed).** Vishnu is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because that in his three paces all worlds abide.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **मृगो न भीमः कुचरो गिरिष्ठाः** — here Viṣṇu is compared to a wild beast that is *kucara* and *giriṣṭha*. For the words *kucara* and *giriṣṭha* two kinds of meanings are given. First: **कुचरः** — *kutsitahiṃsādikartā durgamapradeśagantā vā*: one who greatly harms enemies, or who goes in impassable places like strongholds where others cannot go — an epithet of the beast
+
+---
+
+### Printed p. 574  (PDF 592)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+… The *Nirukta*-author, quoting this very sentence, shows this derivation of the word: *kucara iti caratikarma kutsitam; atha ced devatābhidhānaṃ kvāyaṃ na caratīti vā* (Ni. 1-30 [?]). As an epithet of the beast it is explained thus; as applied to the deity, the sense is "where does he not move?" Since Viṣṇu is pervasive, all obstructions are absent for him; hence this epithet is suggested of Viṣṇu in the highest degree [reading uncertain].
+
+**गिरिष्ठाः** — *giri parvataḥ samuddhṛto bhavati* — "a mountain is called *giri* because it rises; with upward-turned face, widely extended" [and the cloud also is called *giri*, Ni. 1-30]; the epithet *giriṣṭhāḥ* is used of the beast "dwelling on mountains". Viṣṇu, being *kucara* and *giriṣṭha*, is like the beast. Second: **कुचरः** — *ku sarvāsu bhūmiṣu lokatraye sañcārī*: *ku* means the world; one who moves in all the worlds. **गिरिष्ठाः** — *mantrādirūpāyāṃ vāci sarvadā vartamānaḥ*: since *gir* means mantra-form speech, and Viṣṇu is firmly established in mantra-form words, he is *giriṣṭha*.
+
+The word *giriṣṭhāḥ* as an epithet of Viṣṇu is used in this one Ṛk alone; in other places this word is mostly an epithet of Soma:
+
+> परि सुवानो गिरिष्ठाः पवित्रे सोमो अक्षाः ।
+> मदेषु सर्वधा असि ॥
+
+> *pari suvāno giriṣṭhāḥ pavitre somo akṣāḥ |*
+> *madeṣu sarvadhā asi ‖*
+
+(Ṛ. Saṃ. 9-18-1 [?].)
+
+In such Ṛks *giri* means the stones that crush Soma, and *giriṣṭhāḥ* means Soma lying among such crushing stones.
+
+> असाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः ।
+> श्येनो न योनिमासदत् ॥
+
+> *asāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ |*
+> *śyeno na yonimāsadat ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) In such places *giri* is taken to mean "mountain", and *giriṣṭhāḥ* "Soma born on a mountain"; in the present Ṛk *parvatasthāyī* — "dwelling on a mountain" — or *meghasthāyī* — "dwelling in the cloud" (Ni. 1-30), "*megho 'pi giriḥ*" [as printed] — is the sense, an epithet of Viṣṇu.
+
+**मृगो न** — *mṛgo mārgeḥ gatikarmaṇaḥ* [Ni.]: from *mṛg anveṣaṇe*, a root of seeking, meaning one who is always moving.
+
+**भीमः** — *bhītijanakaḥ*: terrible. *Mṛgavad api mṛgo 'nveṣṭā śatrūṇām; bhīmo bhayānakaḥ sarveṣāṃ bhītyā sādanabhūtaḥ*: "the forest beast too, among the other beasts…"
+
+---
+
+### Printed p. 575  (PDF 593)
+
+*(Header: "A. 2 A. 2 Va. 36" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+… who is a terror and, seeking his enemies and quarry, wanders. So Viṣṇu too, who, like a king of beasts (a lion), is terrible to enemies, searches out his enemy hosts and fears none; all the worlds, in fear of him, rule themselves, each in its allotted order — this is the description:
+
+> भीषास्माद्वातः पवते भीषोदेति सूर्यः ।
+> भीषास्माद्अग्निश्चेन्द्रश्च मृत्युर्धावति पञ्चम इति ॥
+
+> *bhīṣāsmādvātaḥ pavate bhīṣodeti sūryaḥ |*
+> *bhīṣāsmādagniścendraśca mṛtyurdhāvati pañcama iti ‖*
+
+(Tai. Ā. 8-8-1 [?], as printed "ತೈ. ಆ. ೮-೮-೧".) In such passages it is told that Vāyu and all other deities, in fear of the all-pervading Viṣṇu, do their appointed tasks. The same is to be understood here.
+
+**त्रिषु विक्रमणेषु** — *triṣaṃkhyākeṣu pādaprakṣepeṣu*: in the three casts of the foot (*viśvā bhuvanāni adhikṣiyanti*: all beings dwell in them). What are these three kinds of casts of the foot? An opinion that the Western scholars hold on this is that they are the sun's rising, culmination and setting.
+
+*This stepping of Vishnu is emblematic of the rising, the culminating and setting of the sun.*
+
+[Max Müller, *Sacred Books of the East*, Vol. XXXII, p. 133.]
+
+The old scholars too, the *Nirukta* sentences show, support this meaning:
+
+> समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः ॥
+
+> *samārohaṇe viṣṇupade gayaśirasītyaurṇavābhaḥ ‖*
+
+(Ni. 12-19 [?].) Thus the view of Aurṇavābha is told. Durgācārya's explanation: *samārohaṇe udayagirāv udyan padam ekaṃ nidhatte, viṣṇupade madhyandine 'ntarikṣe, gayaśirasy astagirau*: on the rising mountain, at sunrise, one step; at midday in the atmosphere, on the high-placed Viṣṇu-step, the second; and at sunset the third step on the setting mountain — suggested by the phrase *tredhā nidhatte padam* — so Aurṇavābha's view, the *Nirukta*-author states. And also:
+
+> विष्णुस्त्रिधा निधत्ते पदं त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः ॥
+
+> *viṣṇustridhā nidhatte padaṃ tredhābhāvāya pṛthivyāmantarikṣe divīti śākapūṇiḥ ‖*
+
+(Ni. 12-19 [?].) "The three worlds, earth, atmosphere and heaven — the three steps of the sun, moving through the three worlds, in three states", is Śākapūṇi's view, as told.
+
+---
+
+### Printed p. 576  (PDF 594)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+For this Durgācārya says: "*pārthivo 'gnir bhūtvā pṛthivyāṃ yat kiṃcid asti tat kramate; antarikṣe vidyudātmanā, divi sūryātmanā*": having become Agni on earth, he steps over whatever there is on the earth; in the atmosphere as lightning; in heaven as the sun; thus in these three forms — Agni, Vāyu and Sūrya — he traverses the three worlds. Supporting the same meaning:
+
+> विष्णुमुखा वै देवाश्छन्दोभिरिमाँल्लोकानन्नपजय्यमभ्यजयन् । यद्विष्णुक्रमान्क्रमते विष्णुरेव भूत्वा यजमानश्छन्दोभिरिमाँल्लोकानन्नपजय्यमभिजयति । विष्णोः क्रमोऽस्यभिमातिहेत्याह । गायत्री वै पृथिवी त्रैष्टुभमन्तरिक्षं जागती द्यौरानुष्टुभीर्दिशश्छन्दोभिरेवेमाँल्लोकान्यथापूर्वमभि जयति ॥
+
+> *viṣṇumukhā vai devāśchandobhirimā~llokānannapajayyamabhyajayan | yadviṣṇukramānkramate viṣṇureva bhūtvā yajamānaśchandobhirimā~llokānannapajayyamabhijayati | viṣṇoḥ kramo 'syabhimātihetyāha | gāyatrī vai pṛthivī traiṣṭubhamantarikṣaṃ jāgatī dyaurānuṣṭubhīrdiśaśchandobhirevemā~llokānyathāpūrvamabhi jayati ‖*
+
+(Tai. Saṃ. 1-2-13-[?], as printed "ತೈ. ಸಂ. ೧-೨-೩-೪".)
+
+> अन्या देवताऽसीन्द्रोऽब्रवीद्विष्णवेहीदमा परि वावो [?] येनेदमिदमिति स विष्णुस्त्रेधात्मानं वि न्यधत्त पृथिव्यां तृतीयमन्तरिक्षे तृतीयं दिवि तृतीयमभ्यपवर्षाद्बिभेद्यस्मिन्पृथिव्यां तृतीयमसिक्त्रेनेन्द्रो वज्रमुदयच्छद्विष्णोऽनुस्यित्सेऽब्रवीन्ना मे प्र हारोस्ति वा इदम् ॥
+
+> *anyā devatā 'sīndro 'bravīdviṣṇavehīdamā pari vāvo [?] yenedamidamiti sa viṣṇustredhātmānaṃ vi nyadhatta pṛthivyāṃ tṛtīyamantarikṣe tṛtīyaṃ divi tṛtīyamabhyapavarṣādbibhedyasminpṛthivyāṃ tṛtīyamasiktrenendro vajramudayacchadviṣṇo 'nusyitse 'bravīnnā me pra hārosti vā idam ‖*
+
+(Tai. Saṃ. 2-1-3-3 [?].) The Saṃhitā passages too say this; and similarly
+
+> यद्वेव विष्णुक्रमान्क्रमते । यज्ञो वै विष्णुः स देवेभ्य इमां विक्रान्तिं विचक्रमे यैषामियं विक्रान्तिरिवमेव प्रथमेन पदेन पस्परादे [?] ...
+
+> *yadveva viṣṇukramānkramate | yajño vai viṣṇuḥ sa devebhya imāṃ vikrāntiṃ vicakrame yaiṣāmiyaṃ vikrāntirivameva prathamena padena pasparāde [?] ...*
+
+(Śa. Brā. 1-9-3-9 [?].)
+
+> यद्वेव विष्णुक्रमात्स्रे [?] भवतः । विष्णुक्रमैर्वै प्रजापतिरिमं लोकमसृजत वात्स्रेणाग्निं विष्णुक्रमैर्वै प्रजापतिरन्तरिक्षमसृजत वात्स्रेण वायुं विष्णुक्रमैर्वै प्रजापतिर्दिवमसृजत वात्स्रेणादित्यम् ॥
+
+> *yadveva viṣṇukramātsre [?] bhavataḥ | viṣṇukramairvai prajāpatirimaṃ lokamasṛjata vātsreṇāgniṃ viṣṇukramairvai prajāpatirantarikṣamasṛjata vātsreṇa vāyuṃ viṣṇukramairvai prajāpatirdivamasṛjata vātsreṇādityam ‖*
+
+(Ai. Brā. 6-2-1-2 [?], as printed "ಐ. ಬ್ರಾ. ೬-೨-೧-೨".) From such Brāhmaṇa passages too, as in Śākapūṇi's view, the three strides of Viṣṇu are said to be connected with earth, atmosphere and heaven, and with Agni, Vāyu and Sūrya. And also:
+
+> आ यो विवाय सचथाय दैव्य इन्द्राय विष्णुः सुकृते सुकृत्तरः ।
+> वेधा अजिन्वत्त्रिषधस्थ आर्यमृतस्य भागे यजमानमाभजत् ॥
+
+> *ā yo vivāya sacathāya daivya indrāya viṣṇuḥ sukṛte sukṛttaraḥ |*
+> *vedhā ajinvattriṣadhastha āryamṛtasya bhāge yajamānamābhajat ‖*
+
+(Ṛ. Saṃ. 1-156-5 [?].)
+
+---
+
+**Progress note:** Sūkta 154 in progress: Ṛk 1 complete; Ṛk 2 under way (printed pp. 571–576, PDF 589–594; Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and most of the Special Topics done; Special Topics on the "three strides" continue on p. 577, then grammar). Next: printed p. 577 (PDF 595). Open flags: small-type bhāṣya and the Brāhmaṇa/Nirukta/Ṛg quotations pp. 572–576 transcribed at low confidence (many `[?]`); reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
