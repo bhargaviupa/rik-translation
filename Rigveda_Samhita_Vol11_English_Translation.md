@@ -14027,4 +14027,156 @@ Then, in Kannada: "Besides the VI. 36-1 [sic: as printed, for IV. 36-1] Ṛk quo
 
 ---
 
-**Progress note:** Sūkta 152 in progress: Ṛk 3 complete, Ṛk 4 complete, Ṛk 5 under way (printed pp. 529–534, PDF 547–552; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics (Bloomfield, *Rig-Veda Repetitions*) begin on p. 534 and continue). Next: printed p. 535 (PDF 553). Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 535  (PDF 553)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Special Topics of Ṛk 5, continued; Bloomfield's remark is concluded.)* … the feelings described in that Ṛk (IV. 36-1) are not expressed in the present Ṛk in so excellent a manner, and its description does not belong to so excellent a rank. The main substance of this opinion is that the description does not yield a clear picture to the mind [reading uncertain]. Even if there is some truth in this opinion, it has been said, "any attempt to extract a picture with clear outline out of I. 152-5 will prove quite futile": that no definite picture emerges from the description of this Ṛk. [The sentence is only partly clear in the print.]
+
+**अचित्तं ब्रह्म मित्रावरुणे धाम युवानः** — joining the sacrificial rite, whose nature is hidden from the mind, with the radiant abode of Mitra-Varuṇa: in this description a spiritual truth is told. *Acittam* — hidden, not apparent to ordinary sight: it is indicated that a matter concerning a truth that is so is being told.
+
+**ब्रह्म** — of the various meanings of *brahma* explained earlier, here "sacrificial rite" is taken. The *Nirukta*-author quotes:
+
+> यमाथर्वा मनुष्पिता दध्यङ्धियमत्नत ।
+> तस्मिन् ब्रह्माणि पूर्वथेन्द्र उक्था समग्मतार्चन्ननु स्वराज्यम् ॥
+
+> *yamātharvā manuṣpitā dadhyaṅdhiyamatnata |*
+> *tasmin brahmāṇi pūrvathendra ukthā samagmatārcannanu svarājyam ‖*
+
+(Ṛ. Saṃ. 1-80-16.) In this Ṛk, as Yāska explains *brahmāṇi* as *karmāṇi*, so here too the meaning is "sacrificial rite".
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar pages 535–536, noted briefly).** *anaśvaḥ* (*na vidyate aśvaḥ yasya saḥ*; *nañ subhyām* (Pā. Sū. 6-2-172) final *udātta* of the later member; likewise *anabhīśuḥ*); *jātaḥ* (root *janī prādurbhāve*; *niṣṭhā* suffix; suffix accent: final *udātta*); *kanikradat* (root *kradi āhvāne rodane ca*; *ācchyāpūrvāt*… (Pā. Sū. 6-1-[?]); *yaṅ* *luk* (*yaṅo 'ci ca* (Pā. Sū. 2-4-74)); *dāṛdhi-dardharti*… (Pā. Sū. 7-4-65) the doubling *kani*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) first *udātta*); *patayat* (root *patla gatau*; *curādi*, *ṇic*, suffix; *satyāpāśa*… (Pā. Sū. 3-1-25) *ṇic* after a *ṇijanta*; *iketi lopaḥ* (Pā. Sū. 6-4-[?]) loss of *i*; *letoḍāṭau* (Pā. Sū. 3-4-94) *aḍāgama* to the *leṭ*; *śap* as *nimitta*, *iṭ*-guṇa; *ayādeśa*; *alopasya sthānivattvāt* — *vṛddhi* is not made; *nighāta* since after an *atiṅanta*); *ūrdhvasānuḥ* (*bahuvrīhi*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) first member's accent); *acittam* (*nañ*; *tatpuruṣe*…; *prādi*-*syādiḥ*: *kṛdutara* accent); *brahma* (root *bṛhi vṛddhau*; *bṛhner nuc ca* (Uṇ. Sū. 4-[?]) *manin*; the *ṛ* becomes *a*, nasalization, ...; *sit* suffix: first *udātta*); *jujuṣuḥ* (root *juṣī prītisevanayoḥ*; in the Veda *liṭ* in the present sense; 3rd pl.; *nighāta* by *tiṅ*); *yuvānaḥ* (root *yu miśraṇe*; by *vyatyaya*, *śānac* in the present sense; *ājiśnuṣthā…*; *bhruvām*…; the *vṛṣaṇaḥ* [?]; first *udātta*); *gṛṇantaḥ* (root *gṝ śabde*, *kryādi*; *śatṛ* in the present sense; *śnā* suffix; *prādīnāṃ hrasvaḥ* (Pā. Sū. 6-4-113) the root shortened; *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112) loss of the *ā* of the suffix; suffix accent: first *udātta*; nominative pl.). ‖ 5 ‖
+
+---
+
+### Printed p. 536  (PDF 554)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+*(Ṛk 5 grammar concluded on this page, noted briefly.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आ धेनवो मामतेयमवन्तीर्ब्रह्मप्रियं पीपयन्सस्मिन्नूधन् ।
+> पित्वो भिक्षेत वयुनानि विद्वानासाविवासन्नदितिमुरुष्येत् ॥ ६ ॥
+
+> *ā dhenavo māmateyamavantīrbrahmapriyaṃ pīpayansasminnūdhan |*
+> *pitvo bhikṣeta vayunāni vidvānāsāvivāsannaditimuruṣyet ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । धेनवः । मामतेयम् । अवन्तीः । ब्रह्मऽप्रियम् । पीपयन् । सस्मिन् । ऊधन् ।
+
+> *ā | dhenavaḥ | māmateyam | avantīḥ | brahma 'priyam | pīpayan | sasmin | ūdhan |*
+
+---
+
+### Printed p. 537  (PDF 555)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥** *(continued)*
+
+> पित्वः । भिक्षेत । वयुनानि । विद्वान् । आसा । आ । विवासन् । अदितिम् । उरुष्येत् ॥ ६ ॥
+
+> *pitvaḥ | bhikṣeta | vayunāni | vidvān | āsā | ā | vivāsan | aditim | uruṣyet ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: may the cows fill their udders with milk for Mitra-Varuṇa's worship, so that the sacrificer, knowing the rites, may ask leave to eat the remainder of the offering, and worshipping you, may complete the rite whole. Small type, read with doubt.)*
+
+> मामतेयं ममतायाः पुत्रं दीर्घतमसं मां ब्रह्मप्रियं परिवृद्धस्य कर्मणः प्रियेतमं परिवृद्धस्याग्नेः प्रीणयितारं वा । अवन्तीः रक्षन्त्यः [?] प्रीणयन्त्यो [?] धेनवो गावः सस्मिन् स्वकीय ऊधन्नूधसि पीपयन् पाययन्तु [?] । सर्वतः आप्याययन्तु ॥ स्पायतेः [?] णिचि छान्दसः पीभावः ॥ ऊधोगतेन क्षीरेण युवाभ्यां प्रदेयेन [?] नोऽस्मान् प्रीणन्त्यर्थः । मित्रावरुणाभ्यां पयस्येति श्रुतेः [?] । [?] यज्ञानि विद्वान् हुतशेषो भक्षणीय इत्यभिगृह्य दीर्घतमा पित्वः पितोर्हुतशिष्टस्यान्नस्य [?] भक्षयितुं भिक्षेत । याचेत । ... युष्मान् । किंच विवासन् युवां परिचरन् अदितिमखण्डितमनूनं [?] कर्म उरुष्येत् रक्षेत् । यथा शिष्टं भिक्षेत यथा च कर्म समापयेन् [?] तथा पीपयन्नित्यर्थः ॥
+
+> *māmateyaṃ mamatāyāḥ putraṃ dīrghatamasaṃ māṃ brahmapriyaṃ parivṛddhasya karmaṇaḥ priyetamaṃ parivṛddhasyāgneḥ prīṇayitāraṃ vā | avantīḥ rakṣantyaḥ [?] prīṇayantyo [?] dhenavo gāvaḥ sasmin svakīya ūdhannūdhasi pīpayan pāyayantu [?] | sarvataḥ āpyāyayantu ‖ spāyateḥ [?] ṇici chāndasaḥ pībhāvaḥ ‖ ūdhogatena kṣīreṇa yuvābhyāṃ pradeyena [?] no 'smān prīṇantyarthaḥ | mitrāvaruṇābhyāṃ payasyeti śruteḥ [?] | [?] yajñāni vidvān hutaśeṣo bhakṣaṇīya ityabhigṛhya dīrghatamā pitvaḥ pitorhutaśiṣṭasyānnasya [?] bhakṣayituṃ bhikṣeta | yāceta | ... yuṣmān | kiṃca vivāsan yuvāṃ paricaran aditimakhaṇḍitamanūnaṃ [?] karma uruṣyet rakṣet | yathā śiṣṭaṃ bhikṣeta yathā ca karma samāpayen [?] tathā pīpayannityarthaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *brahmapriyam* — one who loves the sacrificial rite (or who gratifies Agni); *māmateyam* — Dīrghatamas, son of Mamatā; *avantīḥ* — protecting and gladdening; *dhenavaḥ* — cows; *sasmin* — in their respective; *ūdhan* — udders; *ā pīpayan* — let them fill (the milk needed for the worship of Mitra-Varuṇa), (with this help); *vayunāni* — the knowledge of the rites to be performed; *vidvān* — having learnt (and, having the knowledge that he should eat the remainder); *pitvaḥ* — the remaining food after the oblation; *āsā* — with his own mouth, to eat; *bhikṣeta* — let him beg; (and) *ā vivāsan* — worshipping (you); *aditim* — the rite whole, without deficiency; *uruṣyet* — let him complete and keep safe.
+
+**भावार्थः (Bhāvārtha).** Let the cows that protect and gladden Dīrghatamas, son of Mamatā, devoted to the sacrificial rite, fill their udders with the milk needed for the worship of Mitra-Varuṇa. With this help, having learnt the rites to be performed, let him ask your leave to eat the food that remains after the oblation. And worshipping you, let him complete the unbroken sacrificial rite.
+
+**English Translation (as printed; continues on p. 538).** May the milch cows, propitious to the devout son of Mamata, be possessed of well-filled udders: knowing the rites (necessary to be performed),
+
+---
+
+### Printed p. 538  (PDF 556)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+*(English Translation continued:)* let him beg (the residue) of the offerings for his eating, and worshipping (you both) complete the perfect (ceremony).
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **ब्रह्मप्रियम्** — *parivṛddhasya karmaṇaḥ priyetamaṃ, parivṛddhasyāgneḥ prīṇayitāraṃ vā*: it was said earlier that the word *brahma* has the meanings food, rite, praise and so on. Here Sāyaṇa says it may be explained either as referring to a rite that has reached fullness, or as referring to Agni. From the root *bṛhi*, in the sense of "growth", the word *brahma* is formed here and means "a rite that has grown", or Agni. One who is devoted to such a rite, or who gratifies Agni by his worship, is *brahmapriya*, and so is an epithet of Dīrghatamas. Or it may be said, "devoted to the rite connected with the worship of Agni". The earlier story that shows why Dīrghatamas had special devotion to Agni:
+
+> स व्याजहार तं गर्भं तमस्ते दीर्घमस्त्विति ।
+> स च दीर्घतमा नाम बभूवर्षिरुचथ्यजः ॥
+> स जातोऽभ्यपतद्देवानकस्मान्धंतमं गतः [?] ।
+> ददुर्देवास्तु तन्नेत्रे ततोऽन्धो बभूव सः ॥
+> स वेदिषद इत्यस्मात्तुर्जातवेदसम् [?] ॥
+
+> *sa vyājahāra taṃ garbhaṃ tamaste dīrghamastviti |*
+> *sa ca dīrghatamā nāma babhūvarṣirucathyajaḥ ‖*
+> *sa jāto 'bhyapataddevānakasmāndhaṃtamaṃ gataḥ [?] |*
+> *dadurdevāstu tannetre tato 'ndho babhūva saḥ ‖*
+> *sa vediṣada ityasmātturjātavedasam [?] ‖*
+
+(Bṛ. De. 4-[?] to [?], as printed, numerals illegible.) Mamatā, the pregnant wife of Ucathya, being infatuated with Bṛhaspati, Ucathya's brother, who was sporting with Mamatā — the child within checked Bṛhaspati's seed; and for that, Bṛhaspati cursed the child in her womb, "Be born, you, in long darkness" (that is, be born blind), and this matter is told. By the power of that curse he was born blind and, as soon as he was born, Dīrghatamas praised Agni and the other gods; they graciously removed his blindness — this is also told. Straightaway, with the sūkta beginning *vediṣade priyadhāmāya* (Ṛ. Saṃ. 1-140 [?]) he praised Agni in the four sūktas addressed to Jātavedas. To show that he was devoted to Agni's worship, having obtained special help from Agni, and gladdened him, the word *brahmapriyam* is used as an epithet of *māmateyam*.
+
+**धेनवः** — *dhenur dhayater vā, dhinoter vā, dhayater vā vatsena iti; tṛpayati sau payasā* (Ni. 11-43 [?]): "she is sucked by the calf and so is named *dhenu*", or "she gives milk and so gives satisfaction": so cows are called *dhenavaḥ*.
+
+---
+
+### Printed p. 539  (PDF 557)
+
+*(Header: "A. 2 A. 2 Va. 33" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> युवं तासां दिव्यस्य प्रशासने विशां क्षयथो अमृतस्य मज्मना ।
+> याभिर्धेनुमस्वं पिन्वथो नरा ताभिरू षु ऊतिभिरश्विना गतम् ॥
+
+> *yuvaṃ tāsāṃ divyasya praśāsane viśāṃ kṣayatho amṛtasya majmanā |*
+> *yābhirdhenumasvaṃ pinvatho narā tābhirū ṣu ūtibhiraśvinā gatam ‖*
+
+(Ṛ. Saṃ. 1-180-3.) In this Ṛk it is told that the Aśvins made a barren cow a *dhenu* — made her full of milk and accompanied by her calf — and so the use and meaning of the word *dhenu* is shown. The *Nirukta*-author also quotes:
+
+> उप ह्वये सुदुघां धेनुमेतां सुहस्तो गोधुगुत दोहदेनाम् ।
+> श्रेष्ठं सवं सविता साविषन्नोऽभीद्धो घर्मस्तदु षु प्र वोचम् ॥
+
+> *upa hvaye sudughāṃ dhenumetāṃ suhasto godhuguta dohadenām |*
+> *śreṣṭhaṃ savaṃ savitā sāviṣanno 'bhīddho gharmastadu ṣu pra vocam ‖*
+
+(Ṛ. Saṃ. 1-164-26.) and explains the word *dhenu* with the epithets *sudughām* "abundantly milk-giving" and so on.
+
+**(आ) पीपयन्** — *āspyāyayantu*: "let them be filled." From the root *pyai*, in the sense of growth, formed so as to give satisfaction: the purport is "let the udders be abundantly filled with milk".
+
+> मित्रावरुणाभ्यामागोमुग्म्यं [?] पयस्या ।
+
+> *mitrāvaruṇābhyāmāgomugmyaṃ [?] payasyā |*
+
+(Tai. Saṃ. 2-3-11-[?], as printed, reading and numerals uncertain.) In such sentences, since Mitra-Varuṇa must be satisfied by worship with the milk of the udder, the prayer is that the cows may obtain such milk abundantly, and that Mitra-Varuṇa may favour health.
+
+**वयुनानि** — the word *vayuna* is read among the names of wisdom (Ni. 3-9 [?]); from the root *vī*, "to desire", it gives the sense "wish" or "wisdom". The *Nirukta*-author, quoting
+
+> स इत्तमोऽवयुनं तन्वत्सूर्येण वयुनवच्चकार ।
+> कदा ते मर्ता अमृतस्य धामेयक्षन्तो न मिनन्ति स्वधावः ॥
+
+> *sa ittamo 'vayunaṃ tanvatsūryeṇa vayunavaccakāra |*
+> *kadā te martā amṛtasya dhāmeyakṣanto na minanti svadhāvaḥ ‖*
+
+(Ṛ. Saṃ. 6-21-3 [?].) explains "he who spread the darkness, which is without knowledge, made it knowable by the sun" (Ni. 5-23 [?]) — that is, he made the unseen form of darkness an object of knowledge. In the present Ṛk it means "knowledge of the rites to be performed".
+
+---
+
+### Printed p. 540  (PDF 558)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152". Grammar noted briefly.)*
+
+**पित्वः** — the word *pitu* is read among the names of food (Ni. 2-7 [?]); here *hutaśiṣṭam annam*: "the food remaining after the oblation is made".
+
+**अदितिम्** — according to the *Nirukta*-author's statement *adīnā* (Ni. 4-22 [?]), *aditi* means "not wretched, not divided, not decaying". It is also an epithet that conveys the nature of deities such as Agni, Āditya and the Mother of the Gods. In the present Ṛk it is explained as *akhaṇḍitam anūnaṃ karma*: "this sacrificial rite, perfect without deficiency".
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar pages 540–541, noted briefly).** *māmateyam* (*mamatāyā apatyaṃ pumān māmateyaḥ*; *strībhyo ḍhak* (Pā. Sū. 4-1-120) *ḍhak* in the sense of offspring; *āyaneyī-* (Pā. Sū. 7-1-2) *eya* for *ḍh*; *kiti ca* (Pā. Sū. 7-2-118) *vṛddhi* of the first; accusative sg.); *avantīḥ* (root *ava rakṣaṇe*; *śatṛ* in the sense of *laṭ*, feminine: *ugitaś ca* (Pā. Sū. 4-1-6) *ṅīp*; with *jas*, *supāṃ sulug* (Pā. Sū. 7-1-39): *pūrvasavarṇadīrgha*); *pīpayan* (root *oyāi vṛddhau*; *hetumati ca* (Pā. Sū. 3-1-26) *ṇic*; *loṭ* in the Veda: *luk*; the root has *pībhāva*; *ṇiśridruśrubhyaḥ kartari caṅ* (Pā. Sū. 3-1-48) *caṅ* for *cli*; *caṅ* doubling; *ṇeraniṭi* (Pā. Sū. 6-4-51) loss of *ṇi*; in the Veda no *aḍāgama*; *nighāta* since after an *atiṅanta*); *sasmin* (*svasmin* — Vedic loss of a letter); *ūdhan* (*supāṃ sulug* (Pā. Sū. 7-1-39) *luk* for the locative); *pitvaḥ* (root *pā pāne*; *peḥ kit* (Uṇ. Sū. 1-[?]) *tun* suffix; *chandasy ubhayathā* … ; by *dīnām chandasy upasaṃkhyānam* the genitive sg. takes *yaṇādeśa*); *bhikṣeta* (root *bhikṣa yācane*; *liṅ*, 3rd sg.; *nighāta*); *vayunāni* (root *aja gatikṣepaṇayoḥ*; *ajiyuji…* (Uṇ. Sū. 3-[?]) *unan* suffix; *ājer vyaghañ* (Pā. Sū. 2-4-56) *vī* for the root; guṇa; *ayādeśa*; by *vyatyaya* the suffix has first *udātta*); *āsā* (*asya*, with the instr. sg. following, *pad-dan-no-māsa-hṛn-niśa-…* (Pā. Sū. 6-1-63) *āsan* [sic] substitution; *supāṃ sulug* (Pā. Sū. 7-1-39)…).
+
+---
+
+**Progress note:** Sūkta 152 in progress: Ṛk 5 complete; Ṛk 6 under way (printed pp. 535–540, PDF 553–558; Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar is in progress, continuing on p. 541). Next: printed p. 541 (PDF 559). Open flags: small-type bhāṣya partly unread; Bṛhaddevatā/Ṛg/Nirukta/Taittirīya reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
