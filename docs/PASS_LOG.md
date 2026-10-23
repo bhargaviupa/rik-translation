@@ -12,3 +12,5 @@
 2026-10-23 16:33 PDF 52-52: remaining [?] EN 8, KN 8. after: 40 cleared→8 doubtful numerals kept; Bṛhaddevatā quote now complete (3 lines); 'not refined sense' correction
 2026-10-23 16:34 PDF 53-53: remaining [?] EN 2, KN 2. after: 12 cleared, 2 doubtful numerals kept (grammar page)
 2026-10-23 16:34 PDF 54-54: remaining [?] EN 1, KN 1. after: 18 cleared; Anukramaṇikā block rewritten (3 layers; sūtra tiṅ codāttavati corrected)
+2026-10-23 16:35 PDF 55-55: remaining [?] EN 0, KN 0. after: 4 cleared; varga numeral fixed (3, not 2); sic note on aśvi/viśve misprint
+2026-10-23 16:36 PDF 56-56: remaining [?] EN 4, KN 2. after: bhāṣya (3 layers) fully read; 2 doubtful words kept; 3 Pratipadārtha errors fixed
