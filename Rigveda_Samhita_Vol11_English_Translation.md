@@ -18146,4 +18146,172 @@ In the present Ṛk, the word *brahma* is first explained as *brāhmaṃ tejaḥ
 
 ---
 
-**Progress note:** Sūkta 157 in progress: Ṛk 1 grammar concluded; Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya and the first words of the Pratipadārtha done (printed pp. 674–679, PDF 692–697). Next: printed p. 680 (PDF 698) — rest of the Ṛk 3 Pratipadārtha, then Bhāvārtha, English, Special Topics, grammar, Ṛk 4. Open flags: small-type bhāṣya read with doubt; Brāhmaṇa/Upaniṣad/Bṛhaddevatā quotations on pp. 676–678 partly legible and all references `[?]`; sūtra numerals `[?]`; varga numeral `3?` [?]; header printed "A. 21" in Anuvāka 22 (as printed). Page 679 closes with a Pratipadārtha cut mid-entry; the printed Ṛk 3 Pratipadārtha continues on p. 680.
+---
+
+### Printed p. 680  (PDF 698)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Pratipadārtha of Ṛk 3, continued from p. 679.)* *suṣṭutaḥ* — greatly praised; *tribandhuraḥ* — (with the three seat-boards, charioteer's seat [?] being firmly made) furnished with a seat for the charioteer; *maghavā* — [and] possessed of wealth; *viśvasaubhagaḥ* — (therefore) furnished with all good fortune; *rathaḥ* — the chariot; *arvāñ* — facing us; *yātu* — may it come; *dvipade* — to our two-footed [children and others]; *catuṣpade* — to our four-footed [cattle]; *śaṃ* — happiness; *ā vakṣat* — may it bring.
+
+**भावार्थः (Bhāvārtha).** May the chariot of the Aśvin deities — having three wheels, bringing honey, drawn by swiftly running horses, greatly praised, with a charioteer's seat made of three timbers, and, being wealthy, endowed with all good fortune — come towards us. May it bring happiness to our sons and other offspring and to our cattle.
+
+**English Translation (as printed).** May the three-wheeled car of the Aswins, drawn by swift horses, laden with honey, three-canopied, filled with treasure, and every way auspicious, come to our presence, and bring prosperity to our people and our cattle.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** Here the chariot of the Aśvin deities is described. The epithets *tricakraḥ*, *tribandhuraḥ* and the like tell the nature of the chariot. These epithets were explained earlier (in the sūkta Ṛ. Saṃ. 1-34 [?]). On what grounds the chariot of these deities should have the unusual form *tricakra*, *tribandhura*, the scholar Keith, conjecturing on certain grounds, states his own opinion thus:
+
+The chariot of the Aswins has curious qualities ; it is not merely golden, in all its parts, but it is three wheeled, has three fellies, and all its parts triple. One of its wheels is said to have come off when the Aswins went to the wedding of the maiden Surya and it is possible that the three wheels are connected with the fact that, unlike other Gods, the Aswins in their chariot bear with them Surya, for whom, therefore, there must be provided a third seat. Possibly too, the triplication, of which much appears in the myths of the Aswins, owes it being [sic] to this simple cause, though it has been traced to the three seasons of the year. The steeds which draw their car are sometimes horses, but more often birds,
+
+---
+
+### Printed p. 681  (PDF 699)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+swans or eagles and even a single ass. In the Aitereya [sic] Brahmana, they are said to have won a race at the wedding of Soma and Surya with a car drawn by horses.
+
+(A. B. Keith. The Religion and Philosophy of the Veda, Harvard Oriental Series. Vol. XXXI. P. 114.)
+
+The Kannada summary of this view: when the Aśvin deities were going for the wedding of the divine maiden Sūryā, one wheel of their chariot is said to have come off. And because a new seat was built to give a place with them for their wife Sūryā, their chariot has the epithet *tribandhuraḥ*. The epithets *tricakraḥ* and *tribandhuraḥ* are also said to reflect, probably, the three seasons of the year. The vehicles that draw their chariot are described differently in different places: in some places horses, in others birds, and once even a mule [?] are said to be the carriers of their chariot. A description that they sat in a chariot drawn by a donkey [as printed] and won the contest arranged at the wedding of Sūryā is stated in the Aitareya-Brāhmaṇa (Ai. Brā. 4-8? [?]).
+
+**jīrāśvaḥ** — the word *jīra* is read among the names of "swift" (Ni. 2-15? [?]). It is used in many places both separately (*jīrāḥ*, *jīram*) and in compounds (*jīrāśvaḥ*, *jīradānuḥ* and the like). The special sense of the word was given in this same volume (page 213) in the Special Topics of the Ṛk Ṛ. Saṃ. 1-49-4? [?]. In the present Ṛk, the meaning is "having horses that go swiftly".
+
+**madhuvāhanaḥ** — that this epithet belongs to the chariot of the Aśvins is also a special point. Not only their chariot, but they themselves are famed as bearers of honey (*madhu*):
+
+> इदं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच । तदेतदृषिः पश्यन्नवोचत् ।
+
+> *idaṃ vai tanmadhu dadhyaṅṅātharvaṇo 'śvibhyāmuvāca | tadetadṛṣiḥ paśyannavocat |*
+
+(Bṛ. U. 2-5-16? [?].)
+
+The story that Dadhīci, son of Atharvan, taught the Madhu-vidyā to the Aśvin deities is well known. Since the Aśvin deities themselves are the teachers of this Madhu-vidyā, which suits spiritual knowledge, there is a figurative description that they carry this knowledge in their chariots.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar pages 681–682, noted briefly).** *tricakraḥ* (*trīṇi cakrāṇi yasya saḥ*; *tricakrādīnāṃ chandasy upasaṃkhyānam* (Pā. Sū. 5-4-? [?]) — final accent of the second member; likewise *tribandhuraḥ*, *trīṇi bandhurāṇi yasya saḥ*, final *udātta* of the second member).
+
+---
+
+### Printed p. 682  (PDF 700)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Grammar of Ṛk 3, continued; noted briefly.)* *madhuvāhanaḥ* (root *vaha prāpaṇe*; *madhu vāhyate anena*; *lyuṭ* in the instrumental sense after *ṇyanta*; *yuvor anākau* (Pā. Sū. 7-1-1) *ana*; *ner aniṭi* — loss of the *ṇic*; *liti*-type accent; in the compound *gatikārakopapadāt kṛt* — the *kṛt*-final accent [?]); *jīrāśvaḥ* (*jīrāḥ aśvāḥ yasya saḥ*, *bahuvrīhi*; *prakṛtyā pūrvapadam* — original accent of the first member); *yātu* (root *yā prāpaṇe*; *loṭ* 3rd sg.; *tiṅ*-*nighāta*); *suṣṭutaḥ* (root *ṣṭuñ stutau*; *kta* in the passive; *gatir anantaraḥ* (Pā. Sū. 6-2-49 [?]) — the original accent of *su*); *maghavā* (*chandasi vanip* — *vanip* with the sense of possessing; being *pit*, unaccented); *viśvasaubhagaḥ* (*viśvaṃ saubhagaṃ yasya saḥ*, *bahuvrīhi*; the original accent of the first member); *vakṣat* (root *vaha prāpaṇe*; *leṭ* 3rd sg.; *sip*; *aṭ* etc., *ikāra*-loss [*itaś ca*? [?]]; *leṭo 'ṭau* (Pā. Sū. 3-4-94) augment *aṭ*; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-34) *sip*; *ho ḍhaḥ*, *ḍha*-conversion of *ha*, *ḍho ... ṭha* and *kāra*; *ṣatva*; the form *vakṣat*; *tiṅ*-*nighāta*); *dvipade* (*dvau pādau asya iti dvipat*; 4th singular suffix following, *bha*-name; *pādaḥ pat* (Pā. Sū. 6-4-130) *pad*-substitution; *dvitribhyāṃ pād dāmūrdhasu bahuvrīhau* (Pā. Sū. 6-2-197 [?]) final accent of the second member); *catuṣpade* (same process as before; being *bahuvrīhi*, the first member keeps its original accent) ‖ 3 ‖
+
+---
+
+### Printed p. 683  (PDF 701)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> आ नो ऊर्जं वहतमश्विना युवं मधुमत्या नः कशया मिमिक्षतम् ।
+> प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥ ४ ॥
+
+> *ā no ūrjaṃ vahatamaśvinā yuvaṃ madhumatyā naḥ kaśayā mimikṣatam |*
+> *prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । ऊर्जं । वहतं । अश्विना । युवं । मधुऽमत्या । नः । कशया । मिमिक्षतं ।
+> प्र । आयुः । तारिष्टं । नि । रपांसि । मृक्षतं । सेधतं । द्वेषः । भवतं । सचाऽभुवा ॥ ४ ॥
+
+> *ā | naḥ | ūrjaṃ | vahataṃ | aśvinā | yuvaṃ | madhu 'matyā | naḥ | kaśayā | mimikṣataṃ |*
+> *pra | āyuḥ | tāriṣṭaṃ | ni | rapāṃsi | mṛkṣataṃ | sedhataṃ | dveṣaḥ | bhavataṃ | sacā 'bhuvā ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Aśvins, bring us strength (or food), refresh us with your honeyed whip/speech, lengthen our life, wipe away sins, drive off haters, and be our constant companions. Small type; read with doubt.)*
+
+> हे अश्विनौ युवं युवां नोऽस्माकमूर्जं बलं प्राणनसमर्थमन्नं वा वहतम् । प्रापयतम् । किञ्च नोऽस्माकं मधुमत्या माधुर्योपेतया कशया वाचा प्रीतिप्रदानरूपया मिमिक्षतम् । सिञ्चतम् । प्रीणयतम् । कशेति वाङ्नाम । कशा वागिति तन्नामसूक्तत्वात् [?] । यद्वा । मधुमत्या मधुरवृष्टिमत्या माधुर्योपेतयाश्वताडन्या नोऽस्मान्मिमिक्षतम् । मधित्युदकनाम । मधु पुरीषमिति तन्नामसूक्तत्वात् । कशयाश्वताडनेन शीघ्रमागत्य वृष्टिरूपं फलं दास्यत इति । कशाया मधुमत्त्वम् । किञ्चायुरस्माकमायुः प्र तारिष्टम् । प्रवर्धयतम् । पूर्ववत् स्तिरतिर्वर्धनार्थः । तथा रपांसि पापानि नि मृक्षतं निःशेषेण शोधयतम् । रपो रिप्रमिति पापनामसु पठितम् । सेधतम् । द्वेषो द्वेष्टॄन् [?] नाशयतम् । इदं च भाव्यम् । सचाभुवा सहभवनशीलौ [?] सहभवनवन्तौ भवतम् । भवतं समानैकमत्यं भजथ इत्यर्थः [?] । वाक्यभेदादनिघातः ॥
+
+> *he aśvinau yuvaṃ yuvāṃ no 'smākamūrjaṃ balaṃ prāṇanasamarthamannaṃ vā vahatam | prāpayatam | kiñca no 'smākaṃ madhumatyā mādhuryopetayā kaśayā vācā prītipradānarūpayā mimikṣatam | siñcatam | prīṇayatam | kaśeti vāṅnāma | kaśā vāgiti tannāmasūktatvāt [?] | yadvā | madhumatyā madhuravṛṣṭimatyā mādhuryopetayāśvatāḍanyā no 'smānmimikṣatam | madhityudakanāma | madhu purīṣamiti tannāmasūktatvāt | kaśayāśvatāḍanena śīghramāgatya vṛṣṭirūpaṃ phalaṃ dāsyata iti | kaśāyā madhumattvam | kiñcāyurasmākamāyuḥ pra tāriṣṭam | pravardhayatam | pūrvavat stiratirvardhanārthaḥ | tathā rapāṃsi pāpāni ni mṛkṣataṃ niḥśeṣeṇa śodhayatam | rapo ripramiti pāpanāmasu paṭhitam | sedhatam | dveṣo dveṣṭṝn [?] nāśayatam | idaṃ ca bhāvyam | sacābhuvā sahabhavanaśīlau [?] sahabhavanavantau bhavatam | bhavataṃ samānaikamatyaṃ bhajatha ityarthaḥ [?] | vākyabhedādanighātaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *aśvinā* — O Aśvin deities; *yuvaṃ* — you two; *naḥ* — our; *ūrjaṃ* — strength, or the food that suffices for life; *ā vahataṃ* — bring and hand over; *naḥ* — us; *madhumatyā* — with sweet-toned; *kaśayā* — speech; [or *madhumatyā* — dropping sweetness (rain); *kaśayā* — with the whip for the horses]; *mimikṣataṃ* — fill with vitality; *āyuḥ* — our life; *pra tāriṣṭaṃ* — increase; *rapāṃsi* — (our) sins; *mṛkṣataṃ* — wipe away; *dveṣaḥ* — enemies; *sedhataṃ* — destroy; *sacābhuvā* — joined with us; *bhavataṃ* — be (companions in our undertakings).
+
+---
+
+### Printed p. 684  (PDF 702)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 [sic] Sū. 157".)*
+
+*(Pratipadārtha concludes as above.)*
+
+**भावार्थः (Bhāvārtha).** O Aśvin deities, both of you, always increase our strength and bring us food. Delight us with sweet speech. Increase our life. Wash away our sins. Destroy our enemies. Be united with us in our works.
+
+**English Translation (as printed).** Bring us Ashwins, vigor : animate us with your honied speech ; prolong our existence ; wipe away our sins : destroy our foes ; be ever our associates.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **ūrjaṃ** — this word is read among the names of food (Ni. 2-7 [?]). In some places the food that is the energy-giver is understood as *śakti* (strength). The Sāyaṇa-bhāṣya has explained here *ūrjaṃ balaṃ prāṇanasamarthamannaṃ* — "strength; food capable of sustaining life". The Nirukta-author, in the passage
+
+> देवीरूर्जाहुती इषमूर्जमन्यावक्षत्सग्ं सशितमा सशितमानेन [?] पूर्वमेव [?]
+> वयमानास्यामः [?] पुरावेन नवं तामूर्जमूर्जाहुती ऊर्जयमानेः [?] ॥
+
+> *devīrūrjāhutī iṣamūrjamanyāvakṣatsagṃ saśitamā saśitamānena [?] pūrvameva [?]*
+> *vayamānāsyāmaḥ [?] purāvena navaṃ tāmūrjamūrjāhutī ūrjayamāneḥ [?] ‖*
+
+(Vā. Saṃ. 38-? [?]; as read, small type, partly legible.)
+
+shows that in one passage the word *ūrj* is used once for food and once for strength, so that both meanings occur together. Also,
+
+> यो वै तन्मक्षिकं वेद स उन्नमत्ति प्रतीकेन । स देवानामपि गच्छति स ऊर्जमुपजीवति ॥
+
+> *yo vai tanmakṣikaṃ veda sa unnamatti pratīkena | sa devānāmapi gacchati sa ūrjamupajīvati ‖*
+
+(Bṛ. U. 2-?-? [?].)
+
+In this passage both *anna* and *ūrj* are used, so that the sense of *ūrj* is "strength" only. In the present Ṛk, *anna* "food", the sustainer of strength, is the meaning.
+
+**kaśayā** — the word *kaśā* is read among the names of speech (Ni. 1-11 [?]). Following this, Sāyaṇa first explained *madhuvākyena* "with sweet speech", then ... 
+
+---
+
+### Printed p. 685  (PDF 703)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(…continues the explanation of *kaśayā*:)* "…and *kaśayā aśvatāḍanyā* [with the whip for striking horses; as in the Kannada, *aśvatāḍana-sādhana-vāda cāvaṭi*]": the two meanings are supported, and for this word the Nirukta-author gives the derivation:
+
+> अश्वप्राजनीं कशेत्याचक्षते । कशा प्रकाशयति भयमश्वस्य । कृष्यतेर्वा गतिकर्मणो [?] वाक्पुनः प्रकारयत्यर्थान् । खशयो क्रोशतेर्वा ॥
+
+> *aśvaprājanīṃ kaśetyācakṣate | kaśā prakāśayati bhayamaśvasya | kṛṣyatervā gatikarmaṇo [?] vākpunaḥ prakārayatyarthān | khaśayo krośatervā ‖*
+
+(Ni. 9-? [?].)
+
+— "the horse's whip is called *kaśā*": because it makes the fear of the horse manifest, hence the name *kaśā* for the whip; or, because it makes the sense in the mind manifest, hence also for speech (*vāc*), or from *kṛś*, *kruś*. And for *kaśā* in the sense of speech:
+
+> अव स्वयुक्ता दिव आ वृथा ययुरमर्त्याः कशया चोदत त्मना ।
+> अरेणवस्तुविजाता अचुच्युवुर्दृळ्हानि चिन्मरुतो भ्राजदृष्टयः ॥
+
+> *ava svayuktā diva ā vṛthā yayuramartyāḥ kaśayā codata tmanā |*
+> *areṇavastuvijātā acucyuvurdṛḷhāni cinmaruto bhrājadṛṣṭayaḥ ‖*
+
+(Ṛ. Saṃ. 1-37-? [?]; as read, partly legible.)
+
+— in this Ṛk, *kaśayā stutirūpayā vācā* ("by speech in the form of praise"). And:
+
+> रथीव कशयाश्वां अभिक्षिपन्नाविर्दूतान्कृणुते वर्ष्यां अह ।
+> दूरात्सिंहस्य स्तनथा उदीरते यत्पर्जन्यः कृणुते वर्ष्यं नभः ॥
+
+> *rathīva kaśayāśvāṃ abhikṣipannāvirdūtānkṛṇute varṣyāṃ aha |*
+> *dūrātsiṃhasya stanathā udīrate yatparjanyaḥ kṛṇute varṣyaṃ nabhaḥ ‖*
+
+(Ṛ. Saṃ. 5-83-3 [?].)
+
+— in this Ṛk, *kaśā* is used as the whip that drives the horses; in the present Ṛk too the two meanings are possible, and Sāyaṇa has explained them in two ways.
+
+**mimikṣataṃ** — *siñcataṃ prīṇayataṃ*: from the root *mih secane* "to sprinkle", the word is formed; the prayer is: shower and satisfy (us) with the desired things.
+
+**pra tāriṣṭaṃ** — *prapūrvas tiratir vardhanārthaḥ* — from the root *tṝ* with the prefix *pra*, the meaning "to increase". The Nirukta-author, in the Ṛk
+
+> वात आ वातु भेषजं शम्भु मयोभु नो हृदे । प्र ण आयूंषि तारिषत् ॥
+
+> *vāta ā vātu bheṣajaṃ śambhu mayobhu no hṛde | pra ṇa āyūṃṣi tāriṣat ‖*
+
+(Ṛ. Saṃ. 10-186-1.)
+
+cites it, giving the appropriate evidence that *pratāriṣat* means "to increase the life"; likewise in the present Ṛk, too, *āyuḥ pra tāriṣṭaṃ* is the prayer "increase our lives".
+
+---
+
+**Progress note:** Sūkta 157 in progress: Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done and Special Topics through *ūrjaṃ*, *kaśayā*, *mimikṣataṃ*, *pra tāriṣṭaṃ* (printed pp. 680–685, PDF 698–703). Next: printed p. 686 (PDF 704) — remaining Special Topics and grammar of Ṛk 4, then Ṛk 5. Open flags: small-type bhāṣya read with doubt; Keith quotation reproduced with printed misspellings [sic]; Brāhmaṇa/Upaniṣad/Vājasaneyi/Nirukta/Ṛg references `[?]`; Vājasaneyi quotation on p. 684 only partly legible; Pāṇini sūtra numerals `[?]`; varga numeral `3?` [?]; headers printed "A. 21" in Anuvāka 22 (as printed).
