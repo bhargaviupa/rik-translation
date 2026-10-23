@@ -13531,4 +13531,148 @@ In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", a
 
 ---
 
-**Progress note:** Sūkta 151 complete (printed pp. 475–516, PDF 493–534; Ṛk 9 ends on p. 516, no closing line printed). Sūkta 152 begun on p. 516: Anukramaṇī, Anuvāda and heading done (7 Ṛks; Mitrāvaruṇau; Triṣṭubh; varga "32" [?]). Next: Sūkta 152 Ṛk 1 Saṃhitā from printed p. 517 (PDF 535). Open flags: small-type bhāṣya partly unread (Sūkta 151: pp. 481, 489, 493, 497, 502, 506, 509, 513 many `[?]`); Bṛhaddevatā quotation pp. 482–486 low confidence; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 517  (PDF 535)
+
+*(Header: "A. 2 A. 2 Va. 32" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> युवं वस्त्राणि पीवसा वसाथे युवोरच्छिद्रा मन्तवो ह सर्गाः ।
+> अवातिरतमनृतानि विश्व ऋतेन मित्रावरुणा सचेथे ॥ १ ॥
+
+> *yuvaṃ vastrāṇi pīvasā vasāthe yuvoracchidrā mantavo ha sargāḥ |*
+> *avātiratamanṛtāni viśva ṛtena mitrāvaruṇā sacethe ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> युवम् । वस्त्राणि । पीवसा । वसाथे इति । युवोः । अच्छिद्रा । मन्तवः । ह । सर्गाः ।
+> अव । अतिरतम् । अनृतानि । विश्वा । ऋतेन । मित्रावरुणा । सचेथे इति ॥ १ ॥
+
+> *yuvam | vastrāṇi | pīvasā | vasāthe iti | yuvoḥ | acchidrā | mantavaḥ | ha | sargāḥ |*
+> *ava | atiratam | anṛtāni | viśvā | ṛtena | mitrāvaruṇā | sacethe iti ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: you two wear robust garments, or garments of abundant radiance; your creations are flawless; you destroy all untruths and join us to sacrifice and its fruit. Small type, read with doubt.)*
+
+> हे मित्रावरुणौ पीवसा पीवसा [?] युवं युवाम् । यद्वा । पीवसा पीवसानि [?]च्छिन्नानि वस्त्राणि वसाथे आच्छादयेथः । यद्वा । पीवसा स्थूलेन प्रभूतेन तेजसा वस्त्राणि दधाथे । अविच्छिन्नानि वस्त्रस्थानीयानि तेजांसि धारयेथ इत्यर्थः । किंच युवयोः सर्गाः सृष्टयः अच्छिद्रा अच्छिन्ना मन्तवो मननीयाश्च । उद्वौ [?] युवां विश्वा विश्वानि सर्वाण्यनृतान्यसत्यान्यप्रियाणि पापानि अवातिरतं नाशयतम् । विश्वेत्यत्र संहितायामुत्वक [?] इति प्रकृतिभावो ह्रस्वश्च । ऋतेन फलेन तत्सत्यभावेन [?] यज्ञेन वा सचेथे । संगच्छेथे । अस्मभ्यं योजयथ इत्यर्थः ॥
+
+> *he mitrāvaruṇau pīvasā pīvasā [?] yuvaṃ yuvām | yadvā | pīvasā pīvasāni [?]cchinnāni vastrāṇi vasāthe ācchādayethaḥ | yadvā | pīvasā sthūlena prabhūtena tejasā vastrāṇi dadhāthe | avicchinnāni vastrasthānīyāni tejāṃsi dhārayetha ityarthaḥ | kiṃca yuvayoḥ sargāḥ sṛṣṭayaḥ acchidrā acchinnā mantavo mananīyāśca | udvau [?] yuvāṃ viśvā viśvāni sarvāṇyanṛtānyasatyānyapriyāṇi pāpāni avātirataṃ nāśayatam | viśvetyatra saṃhitāyāmutvaka [?] iti prakṛtibhāvo hrasvaśca | ṛtena phalena tatsatyabhāvena [?] yajñena vā sacethe | saṃgacchethe | asmabhyaṃ yojayatha ityarthaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *mitrāvaruṇā* — O Mitra-Varuṇa; *pīvasā* — robust-bodied; *yuvam* — you two; [or *yuvam* — you two; *pīvasā* — unwearing, fit for covering; *vastrāṇi* — garments; or *pīvasā* — with abundant (radiance), (radiant) *vastrāṇi* — garments;] *vasāthe* — you wear; *yuvoḥ* — of you two; *sargāḥ* — creations; *acchidrā* — flawless; *mantavaḥ ha* — and charming, are they not; (you two) *viśvā* — all; *anṛtāni* — untruths or unpleasant sins; *ava atiratam* — destroy; *ṛtena* — with the sacrifice or its fruit; *sacethe* — join (us).
+
+---
+
+### Printed p. 518  (PDF 536)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, robust-bodied as you are, you wear garments of abundant radiance. Your natures are flawless and charming. You destroy all sins; you join us with the sacrifice, so that we enjoy its fruit.
+
+**English Translation (as printed).** Robust Mitra and Varuna, you wear vestiments (of light); your natures are to be regarded as without defect; you annihilate all untruths; you associate (us) with sacrifice.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** Sāyaṇa shows the construction of the word *pīvasā* in three ways. First, as an epithet of *yuvam*, so that Mitra-Varuṇa are addressed. Second, as an epithet of *vastrāṇi*, with two senses: *pīvasā vastrāṇi pīnā acchinnāni ācchādanayogyāni vāsāṃsi vasāthe* — "you wear garments fit for covering, that do not tear" — one sense; or *pīvasā sthūlena prabhūtena tejasā vastrāṇi dadhāthe; avicchinnāni vastrasthānīyāni tejāṃsi dhārayetha ity arthaḥ* — "with abundant radiance you wear garments: you bear unbroken splendours in the place of garments" — another, namely that Mitra-Varuṇa wear garments abundant and made of their own radiance. Generally the word *pīvas* is used in the sense "stout, thick":
+
+> अग्नेर्वर्म परि गोभिर्व्ययस्व सं प्रोर्णुष्व पीवसा मेदसा च ।
+> नेत्त्वा धृष्णुर्हरसा जर्हृषाणो दधृग्विधक्ष्यन् पर्यङ्ख्याः ॥
+
+> *agnervarma pari gobhirvyayasva saṃ prorṇuṣva pīvasā medasā ca |*
+> *nettvā dhṛṣṇurharasā jarhṛṣāṇo dadhṛgvidhakṣyan paryaṅkhyāḥ ‖*
+
+(Ṛ. Saṃ. 10-16-7 [?]; reading of the second line uncertain.) In such Ṛks everywhere *pīvasā* is explained as *sthūlena*. In the present Ṛk it means garments very extensive and made of radiance.
+
+**अव अतिरतम्** — *avatiratiḥ vadhakarmā*: "you destroy untruths, unpleasant sins" is the sense. In sum the form of Mitra-Varuṇa is made of radiance; their creations are flawless and charming; they destroy untruths and spread truth and purity in the world.
+
+---
+
+### Printed p. 519  (PDF 537)
+
+*(Header: "A. 2 A. 2 Va. 32" as printed, [?]; "Ṛgvedasaṃhitā". Grammar page, noted briefly.)*
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar pages 519–520, noted briefly).** *yuvam* (*prathamāyāś ca dvivacane bhāṣāyām* (Pā. Sū. 7-2-88): *āva* is prescribed only in the language, so none here); *vastrāṇi* (root *vasa ācchādane*; *sarvadhātubhyaḥ ṣṭran* (Uṇ. Sū. 4-[?]) *ṣṭran*; *nit*: first *udātta*); *pīvasā* (*śe chandasi bahulam* (Pā. Sū. 6-1-70 [?]) *luk* of *śi*); *vasāthe* (root *vasa ācchādane*; *adādi*; *ātmanepada*; *laṭ* 2nd dual; the form *vasāthe*; *tiṅ*: *nighāta*); *yuvoḥ* (*yuṣmad*; genitive dual: *supāṃ suluk* … *yoci* (Pā. Sū. 7-2-[?]) *yatva* does not occur; *śeṣe lopaḥ* loss of *ṭi* (*ad*); *ekādeśa udāttenodāttaḥ* (Pā. Sū. 8-2-5) *udātta*); *acchidrā* (*na cchidram acchidram*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2): first member keeps its accent); *mantavaḥ* (root *mana jñāne*; *kamimanijani…* (Uṇ. Sū. 1-[?]) *tu* suffix; nasalization → *anusvāra*, *parasavarṇa*; nominative pl.); *sargāḥ* (root *sṛja visarge*; *ghañ* suffix; the penultimate is shortened as a *nimitta*…; *cajoḥ ku ghiṇṇyatoḥ* (Pā. Sū. 7-3-52) *kutva*; *ñit*: first *udātta*); *atiratam* (root *tira* in the sense of killing, here used; *laṅ* [*luṅ*] 2nd dual; *nighāta* by *tiṅ*); *viśvā* (*viśva* + *ṛtena*, with *ṛtyakaḥ* (Pā. Sū. 6-1-128) *prakṛtibhāva*; Vedic shortening); *mitrāvaruṇā* (*devatādvandve ca* (Pā. Sū. 6-3-26) *ānaṅ* in the *dvandva*; dual: *supāṃ suluk* *ā*; *āmantritasya ca* (Pā. Sū. 8-1-19) *nighāta*).
+
+---
+
+### Printed p. 520  (PDF 538)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+*(Grammar, concluded.)* *sacethe* (root *saca samavāye*; *laṭ* 2nd dual; *tiṅ*: *nighāta*). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> एतच्चन त्वो वि चिकेतदेषां सत्यो मन्त्रः कविशस्त ऋघावान् ।
+> त्रिरश्रिं हन्ति चतुरश्रिरुग्रो देवनिदो ह प्रथमा अजूर्यन् ॥ २ ॥
+
+> *etaccana tvo vi ciketadeṣāṃ satyo mantraḥ kaviśasta ṛghāvān |*
+> *triraśriṃ hanti caturaśrirugro devanido ha prathamā ajūryan ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> एतत् । चन । त्वः । वि । चिकेतत् । एषाम् । सत्यः । मन्त्रः । कविऽशस्तः । ऋघावान् ।
+> त्रिःऽअश्रिम् । हन्ति । चतुःऽअश्रिः । उग्रः । देवऽनिदः । ह । प्रथमाः । अजूर्यन् ॥ २ ॥
+
+> *etat | cana | tvaḥ | vi | ciketat | eṣām | satyaḥ | mantraḥ | kavi 'śastaḥ | ṛghāvān |*
+> *triḥ 'aśrim | hanti | catuḥ 'aśriḥ | ugraḥ | deva 'nidaḥ | ha | prathamāḥ | ajūryan ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: among these two (or among the pious) one truthful, wise, praised, slaying one performs this deed of power; though armed with three- or four-edged weapons he kills; revilers of the gods, strong at first, decay by themselves. Small type, read with doubt.)*
+
+> एषां मित्रावरुणयोर्मध्ये । बहुवचनं पूजार्थम् । यद्वा । तदनुचरापेक्षया बहुवचनम् । एतयोर्मध्ये त्वः श्रेष्ठस्य [?] कश्चित् एक एव यजमानस्य सामर्थ्यरूपं कर्म वि चिकेतत् । विशेषेण चेतति । अनुतिष्ठतीत्यर्थः । स विशेष्यते । स एकः सत्यः अबाध्यः सत्सु भवो वा मन्त्रः मननीयः [?] कविशस्तः कविभिर्मेधाविभिः शंसनीयः ऋघावान् हिंसकः शत्रूणाम् । अनेन वक्ष्यमाणस्य सामर्थ्यस्य सम्भावयिता प्रतिपादितवदित्युत्कृतम् [?] । किं तदित्याशङ्कायां । त्रिरश्रिम् । अश्रित्रयोपेतमायुधं त्रिरश्रिस्तद्वन्तम् [?] । मत्वर्थो लुप्यते । उपलक्षणमेतत् सर्वायुधसंपन्नमित्यर्थः । एतन्नामानं वा । चतुरश्रिस्तोपै [?] चतुरस्रायुधवान् । न केवलमायुधसामर्थ्यं किंत्वुग्रः स्वयमुग्रबलो हन्ति । हिनस्ति बलं शत्रुम् । किंच युवयोरेकस्यैव सामर्थ्येन देवनिदो ह देवनिन्दका एव प्रथमाः समर्थाः सन्तोऽपि अजूर्यन् स्वयमेव जीर्णा भवन्ति ॥ जीर्यतेः क्र्यन् बहुलं छन्दसीत्यत्वं [?] ॥ युवयोर्मध्ये एकोऽपि महाबलः । मिलितयोस्तु सामर्थ्ये किमु वक्तव्यमिति भावः ॥ अथवा । एषां युवयोरेतेषामुत्[?] उत्तरत्र वक्ष्यमाणं सामर्थ्यमेकः सत्यादिलक्षणो वि चिकेतत् विशेषेण जानाति । शेषं पूर्ववत् ॥
+
+> *eṣāṃ mitrāvaruṇayormadhye | bahuvacanaṃ pūjārtham | yadvā | tadanucarāpekṣayā bahuvacanam | etayormadhye tvaḥ śreṣṭhasya [?] kaścit eka eva yajamānasya sāmarthyarūpaṃ karma vi ciketat | viśeṣeṇa cetati | anutiṣṭhatītyarthaḥ | sa viśeṣyate | sa ekaḥ satyaḥ abādhyaḥ satsu bhavo vā mantraḥ mananīyaḥ [?] kaviśastaḥ kavibhirmedhāvibhiḥ śaṃsanīyaḥ ṛghāvān hiṃsakaḥ śatrūṇām | anena vakṣyamāṇasya sāmarthyasya sambhāvayitā pratipāditavadityutkṛtam [?] | kiṃ tadityāśaṅkāyāṃ | triraśrim | aśritrayopetamāyudhaṃ triraśristadvantam [?] | matvartho lupyate | upalakṣaṇametat sarvāyudhasaṃpannamityarthaḥ | etannāmānaṃ vā | caturaśristopai [?] caturasrāyudhavān | na kevalamāyudhasāmarthyaṃ kiṃtvugraḥ svayamugrabalo hanti | hinasti balaṃ śatrum | kiṃca yuvayorekasyaiva sāmarthyena devanido ha devanindakā eva prathamāḥ samarthāḥ santo 'pi ajūryan svayameva jīrṇā bhavanti ‖ jīryateḥ kryan bahulaṃ chandasītyatvaṃ [?] ‖ yuvayormadhye eko 'pi mahābalaḥ | militayostu sāmarthye kimu vaktavyamiti bhāvaḥ ‖ athavā | eṣāṃ yuvayoreteṣāmut[?] uttaratra vakṣyamāṇaṃ sāmarthyamekaḥ satyādilakṣaṇo vi ciketat viśeṣeṇa jānāti | śeṣaṃ pūrvavat ‖*
+
+---
+
+### Printed p. 521  (PDF 539)
+
+*(Header: "A. 2 A. 2 Va. 32" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**प्रतिपदार्थः (Pratipadārtha).** *eṣām* — among these Mitra-Varuṇa (or in the company of other devotees); *satyaḥ* — truth in form (or following the path of truth, or belonging to the company of good men); *mantraḥ* — thoughtful; *kaviśastaḥ* — praised by the wise; *ṛghāvān* — one who harms (enemies); *tvaḥ* — one alone; *etat* — this deed accompanied by power; *vi ciketat* — performs in a special manner; (what is it?) *trirasrim* — even one furnished with all weapons (or the enemy called Trirasri); *caturasriḥ* — having still more weapons [as printed, reading uncertain]; *ugraḥ* — formidable; *hanti* — slays; *devanido ha* — and the revilers of the gods; *prathamāḥ* — though powerful at the start; *ajūryan* — (in the end, of themselves) waste away.
+
+**भावार्थः (Bhāvārtha).** Among these Mitra-Varuṇa, one — of truthful nature, thoughtful, praised by the wise, a harmer of enemies — performs this deed of power in a special manner. For example, though the enemy be furnished with all weapons, he, with still more weapons and formidable, slays the enemy. And although revilers of the gods are powerful at the beginning, through his influence they waste away of themselves at the end.
+
+**English Translation (as printed).** He amongst those (who are your followers), who observes truth, who is considerate, who is commended by the wise, who is able to (inflict) harm carefully weighs (the means whereby), fierce and well-armed, he slays (a foe) less efficiently accoutred, and (by which) the revilers of the gods, however mighty, may perish.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **सत्यः** — *ābādhyaḥ satsu bhavo vā*: "one beyond harm, or one who is among the good" — the word gives its purport. Though he must be beyond harm, he cannot be of an untrue nature; he must be of the form of truth and follow the path of truth. The word *satya* throughout the Ṛgveda-saṃhitā is used with a sense that sets forth a superior, moral worth and power. The actions done by people of such excellent worth are also of the nature of truth. The *Nirukta*-author too has given a derivation of the word *satya* expressing this meaning,
+
+---
+
+### Printed p. 522  (PDF 540)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 152".)*
+
+> सत्यं कस्मात् सत्सु तायते सत्त्वभवनं भवतीति वा ।
+
+> *satyaṃ kasmāt satsu tāyate sattvabhavanaṃ bhavatīti vā |*
+
+(Ni. 3-13 [?].) "It spreads among the good, or arises among the good; therefore it is called *satya*," the *Nirukta*-author explains. According to this derivation, since the fruit of the nature of truth too must come to the good, the idea that good intentions have a fruit that is good, fit for good works, is suggested by this Ṛk's description. The difference between the God-fearing man who follows the path of truth and the God-reviler who follows the path of untruth is shown here: however great the power of the God-reviler at the start, it wastes away of itself at the end, while the capacities of the God-fearing man increase, and that increase is the fruit of his truthful conduct. So, since here the word *satya* is used both in the sense of action and in the sense of fruit, one must explain what universal principle this idea reflects in both settings.
+
+> ते देवा उत्सृज्यानृतं सत्यमन्वालेभिरे ।
+
+> *te devā utsṛjyānṛtaṃ satyamanvālebhire |*
+
+(Śa. Brā. 9-5-1-13 [?].)
+
+> तद्यत्त्रय्यै [?] तत्सत्यम् । त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृण्वेदं सत्यं तेनामाहा इति [?] ।
+
+> *tadyattrayyai [?] tatsatyam | trayī sā vidyā te devā abruvan yajñaṃ kṛṇvedaṃ satyaṃ tenāmāhā iti [?] |*
+
+(Śa. Brā. 9-5-1-19 [?].) The gods gave up untruth and firmly held to truth. Since the Vedas, called *trayī*, are themselves of the nature of truth, the gods hoped, "Let us perform the actions prescribed by the Veda and keep truth." Thus, besides showing the real connection between truth and conduct, the passage implies that by such pure actions one may obtain full length of life, all prosperity and welfare.
+
+> नाभिर्ह तस्य सप्रथा इति । सत्यं ना ऋतं वा ऋतं सत्यस्य नाभिः सप्रथा इत्येषैवैकदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येषैवैकदाह ।
+
+> *nābhirha tasya saprathā iti | satyaṃ nā ṛtaṃ vā ṛtaṃ satyasya nābhiḥ saprathā ityeṣaivaikadāha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ityeṣaivaikadāha |*
+
+(Ṛ. Brā. 14-3-14 [?].) By such explanations, showing the identity of the world-order with truth, it is indicated that by following such truth and performing truthful actions one obtains full length of life as fruit, even the joy of liberation [as printed, uncertain]; the causal relation between truth and truthful action is made known.
+
+---
+
+**Progress note:** Sūkta 152 in progress: Ṛk 1 complete; Ṛk 2 under way (printed pp. 517–522, PDF 535–540; Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics on *satyaḥ* continue on p. 523). Next: printed p. 523 (PDF 541). Open flags: small-type bhāṣya partly unread; Śatapatha/Ṛg Brāhmaṇa/Nirukta reference numerals `[?]`; sūtra numerals; varga number "32" [?]. Review worklist to be extended to Vols 9–11 after Vol 11.
