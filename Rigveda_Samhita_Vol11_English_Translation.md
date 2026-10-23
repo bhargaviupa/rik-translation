@@ -753,10 +753,10 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 **॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *the worshippers, protected by you, enjoy riches through their rites; we ask for new wealth; be gracious and lead us in every battle.* Small type; doubtful words marked)
 
 > हे पूषन् देव यस्य ते रक्षकत्वेन प्रसिद्धस्य तव सख्ये सखित्वे हितकरणे सति क्रत्वा चित् क्रतुना प्रकृष्टेन कर्मणैव । जसादिषु छन्दसि वा वचनमिति नाभावाभावः । सन्तो भवन्तं प्रीणयितारः सन्तो विपन्यवो विशेषेण स्तोत्रशीलाः । यद्वा । मेधाविनामैतत् । मेधाविनः । यजमाना अवसा त्वत्कृतेन रक्षणेन रक्षिताः सन्तो बुभुज्रिरे । भुञ्जते भोगान् । इति एवमेन सर्वदा क्रत्वा कर्मणा बुभुज्रिरे । भुञ्जते सर्वे पाल्यन्ते इति वा । भुजेर्लिटि छन्दसि बहुलं छन्दसीति रुट् ।
-> तां तादृशीं नवीयसीं नवतरां स्तुतिं त्वां रक्षणमनुसृत्य रक्षणाय [?] आनन्तरं त्वां नियुतं रायः धनानि असंख्यातान्यनीमहे [?] । याचामहे । किञ्च हे उरुशंस बहुभिः स्तुत्य त्वमहेळमानः क्रोधादिकमकुर्वाणः अस्माभिर्गन्तव्यः [? ... small type unreadable ...] । किञ्च त्वं वाजे वाजे सर्वेष्वपि संग्रामेषु सरी भव । गमनशीलो भव । पुरतो गन्ता भवेत्यर्थः ॥
+> तां तादृशीं नवीयसीं नवतरां स्तुत्यां वा रक्षामनुसृत्य रक्षायै अनन्तरं त्वां नियुतं रायः एतत्संख्याकान् धनानीमहे । याचामहे । किञ्च हे उरुशंस बहुधा स्तुत्य त्वमहेळमानोऽक्रुध्यन् अस्मासु सुमनाः सन् सरी भव । अस्माभिर्गन्तव्यो भव ॥ सर्तेरौणादिक इनिप्रत्ययः । आद्युदात्तत्वम् ॥ किञ्च त्वं वाजे वाजे सर्वेष्वपि संग्रामेषु सरी भव । गमनशीलो भव । पुरतो गन्ता भवेत्यर्थः ॥
 
 > *he pūṣan deva yasya te rakṣakatvena prasiddhasya tava sakhye sakhitve hitakaraṇe sati kratvā cit kratunā prakṛṣṭena karmaṇaiva | jasādiṣu chandasi vā vacanamiti nābhāvābhāvaḥ | santo bhavantaṃ prīṇayitāraḥ santo vipanyavo viśeṣeṇa stotraśīlāḥ | yadvā | medhāvināmaitat | medhāvinaḥ | yajamānā avasā tvatkṛtena rakṣaṇena rakṣitāḥ santo bubhujrire | bhuñjate bhogān | iti evamena sarvadā kratvā karmaṇā bubhujrire | bhuñjate sarve pālyante iti vā | bhujerliṭi chandasi bahulaṃ chandasīti ruṭ |*
-> *tāṃ tādṛśīṃ navīyasīṃ navatarāṃ stutiṃ tvāṃ rakṣaṇamanusṛtya rakṣaṇāya [?] ānantaraṃ tvāṃ niyutaṃ rāyaḥ dhanāni asaṃkhyātānyanīmahe [?] | yācāmahe | kiñca he uruśaṃsa bahubhiḥ stutya tvamaheḷamānaḥ krodhādikamakurvāṇaḥ asmābhirgantavyaḥ [? ... small type unreadable ...] | kiñca tvaṃ vāje vāje sarveṣvapi saṃgrāmeṣu sarī bhava | gamanaśīlo bhava | purato gantā bhavetyarthaḥ ‖*
+> *tāṃ tādṛśīṃ navīyasīṃ navatarāṃ stutyāṃ vā rakṣāmanusṛtya rakṣāyai anantaraṃ tvāṃ niyutaṃ rāyaḥ etatsaṃkhyākān dhanānīmahe | yācāmahe | kiñca he uruśaṃsa bahudhā stutya tvamaheḷamāno 'krudhyan asmāsu sumanāḥ san sarī bhava | asmābhirgantavyo bhava ‖ sarterauṇādika inipratyayaḥ | ādyudāttatvam ‖ kiñca tvaṃ vāje vāje sarveṣvapi saṃgrāmeṣu sarī bhava | gamanaśīlo bhava | purato gantā bhavetyarthaḥ ‖*
 
 **Pratipadārtha (Kannada).** *pūṣan* — O Pūṣan; *yasya te* — of you who are (the protector); *sakhye* — in the friendship, the friendly affection that does good; *kratvā cit* — by excellent sacrificial works; *santaḥ* — being (those who worship you); *viṣpanyavaḥ* — the wise sacrificers who praise with devotion; *avasā* — by your protection; *bubhujrire* — enjoy pleasures; *iti* — thus, always; *kratvā* — by works done with faith; *bubhujrire* — all enjoy pleasures, or are protected; *tām* — that; *navīyasīm* — fresh; *anu* — following [the fruit of] praise, your protection; *niyutam* — countless; *rāyaḥ* — riches; *īmahe* — we ask; *uruśaṃsa* — Pūṣan, worthy of manifold praise; *aheḷamānaḥ* — [towards us] without anger, kindly give… (continued on p. 28).
 
@@ -772,17 +772,17 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***viṣpanyavaḥ.*** *Vipra*, *vigra* and the like are read among the names of the wise (Ni. 3-[?]); the word is used in the Ṛksaṃhitā in the sense of devoted praisers, e.g. तद्विप्रासो विपन्यवः [?] (*tadviprāso vipanyavaḥ [?]*) (Ṛ. Saṃ. 1-[?]-[?]), अवसा विपन्यवः [?] (*avasā vipanyavaḥ [?]*) (Ṛ. Saṃ. 1-[?]-[?]) and विपन्यवो दीध्यतो मनीषा [?] (*vipanyavo dīdhyato manīṣā [?]*) (Ṛ. Saṃ. 1-30-[?] [?]). *Viśeṣeṇa stotāraḥ*: those who praise exceedingly.
+***viṣpanyavaḥ.*** *Vipra*, *vigra* and the like are read among the names of the wise (Ni. 3-15 [?]); the word is used in the Ṛksaṃhitā in the sense of devoted praisers, e.g. तद्विप्रासो विपन्यवः (*tadviprāso vipanyavaḥ*) (Ṛ. Saṃ. 1-22-21), अवसा विपन्यवः (*avasā vipanyavaḥ*) (Ṛ. Saṃ. 1-102-5) and विपन्यवो दीध्यतो मनीषा (*vipanyavo dīdhyato manīṣā*) (Ṛ. Saṃ. 2-20-1; I had first read 1-30). *Viśeṣeṇa stotāraḥ*: those who praise exceedingly.
 
-***niyutam.*** *Asaṃkhyāvāda saṃkhye* — a countless number. In one place the word is used for a particular number; in तक्षद्वज्रं नियुतं [?] (*takṣadvajraṃ niyutaṃ [?]*) (Ṛ. Saṃ. 1-[?]-[?]) the sense given is "firmly joined" [?]; in the Ṛk at hand it is a numeral word.
+***niyutam.*** *Asaṃkhyāvāda saṃkhye* — a countless number. In one place the word is used for a particular number; in तक्षद्वज्रं नियुतं (*takṣadvajraṃ niyutaṃ*) (Ṛ. Saṃ. 1-121-3) the sense given is "firmly joined"; in the Ṛk at hand it is a numeral word.
 
-***āheḷamānaḥ.*** *Reḷate*, *heḷate* and the like are read among the names of anger (Ni. 2-[?]); so *heḷamānaḥ* is "being angry", *āheḷamānaḥ* "not being angry". Compare:
+***āheḷamānaḥ.*** *Reḷate*, *heḷate* and the like are read among the names of anger (Ni. 3-9 [?], as printed); so *heḷamānaḥ* is "being angry", *āheḷamānaḥ* "not being angry". Compare:
 
-> आहेळमानो वरुणेह बोधि उरुशंस मा न आयुः प्र मोषीः [?] ।
+> आहेळमानो वरुणेह बोधि उरुशंस मा न आयुः प्र मोषीः ।
 
-> *āheḷamāno varuṇeha bodhi uruśaṃsa mā na āyuḥ pra moṣīḥ [?] |*
+> *āheḷamāno varuṇeha bodhi uruśaṃsa mā na āyuḥ pra moṣīḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].)
+(Ṛ. Saṃ. 1-24-11.)
 
 ### Printed p. 29  (PDF 47)
 
