@@ -15734,4 +15734,164 @@ The sense is that the supreme station of Viṣṇu, established in the most exce
 
 ---
 
-**Progress note:** Sūkta 154 in progress: Ṛk 5 complete; Ṛk 6 (last Ṛk?) under way: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, and the Special Topics (Roth/Muir, Nirukta quote) begun (printed pp. 589–594, PDF 607–612). Next: printed p. 595 (PDF 613) — rest of Ṛk 6 Special Topics, grammar, closing lines of Sūkta 154, start of Sūkta 155. Open flags: small-type bhāṣya and Nirukta quotations partly unread; Ṛg/Nirukta/Brāhmaṇa/Upaniṣad reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 595  (PDF 613)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 6, word by word.)*
+
+**gāvaḥ** — *sarve 'pi raśmayo gāva ucyante* — "all rays are called *gāvaḥ*". Although the name *gāvaḥ* is well known for rays, [Yāska] (Ni. 2-7 [?]) [?] — here also *gāvaḥ* means rays. [The different meanings of the word *go* — sun and so on — have been given before with examples. Both the words *bhūriśṛṅgāḥ* and *ayāsaḥ* are epithets of this word.]
+
+**bhūriśṛṅgāḥ** — *bhūrīti bahuno nāmadheyam* — "*bhūri* is a name of 'much'": the word *bhūri* is used to show plurality. And the word *śṛṅga* is formed either from the root *śri* ("to resort to"), or from *śṛ* ("to injure"), or from *śam* of the same sense; the Nirukta-author explains that the name *śṛṅga* is well known because it is a protector of the animals or because it grows out of and projects from the head (Ni. 2-7).
+
+**ayāsaḥ** — *ayanāḥ* — "going swiftly"; an epithet of the rays. *ayanā gantāro vistṛtāḥ* [?]; *yadvā yāso gantāraḥ* [?] *atādṛśāḥ* [?]; *atyantaprakāśayuktā ity arthaḥ* — "that is, very radiant": "spreading very widely", or "having an extended manner" [?]; Sāyaṇa has explained it; the epithet is often used in the sense of "continually going" or "going everywhere".
+
+> तपो ष्वग्ने अन्तराँ अमित्रान् तपा शंसमररुषः परस्य ।
+> तपो वसो चिकितानो अचित्तान्वि ते तिष्ठन्तामजरा अयासः ॥
+
+> *tapo ṣvagne antarā~ amitrān tapā śaṃsamararuṣaḥ parasya |*
+> *tapo vaso cikitāno acittānvi te tiṣṭhantāmajarā ayāsaḥ ‖*
+
+(Ṛ. Saṃ. 3-18-2 [?], as printed, numerals doubtful.)
+
+In such Ṛks *ayāsaḥ*, as an epithet, means "going everywhere"; in the same sense it is used as an epithet of the Maruts also.
+
+**uśmasi** — *vaṣṭi*, *uśmasi*, *veti* and so on: it is read among the eighteen names of "desiring" (Ni. 2-7). In the present Ṛk the commentator explains: *kāmayāmahe*, *viṣṇuṃ prārthayāmahe*: "we pray to Viṣṇu for you", addressing the couple.
+
+**vāstūni** — *sukhanivāsayogyāni* — "fit for happy dwelling": dwelling-places that bring great happiness. **pade parame madhva utsaḥ** — in the supreme station of Viṣṇu, where bliss, extreme and without a second, is gained unbroken, the sense is: we pray that such a dwelling-place be gained by you also. **yatra bhūriśṛṅgā ayāso gāvaḥ (vidyante) atrāha urugāyasya paramaṃ padaṃ bhūry avabhāti** — where there are the rays described above, shining, going very swiftly and upwards, and numerous, there the supreme station of Viṣṇu, which gives the greatest bliss, is also established: so the sense.
+
+---
+
+### Printed p. 596  (PDF 614)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+Although this is a description of the supreme station, the chief subject of this sūkta is the description of the three places of Viṣṇu's steps, their greatness, and the upholding of all the worlds made contained within these steps. In these descriptions the epithets such as *vicakramāṇaḥ* [?], *triṣu vikramaṇeṣu*, *trir vicakrame* [?], *trī pūrṇā madhunā padāni* [?] deserve consideration; for generally these epithets too indicate the special feature of the *Vāmanāvatāra* described in the Purāṇic works. In the Ṛksaṃhitā neither the story relating to the Vāmana incarnation nor any other kind of reference to it is directly seen; yet the Trivikrama described here is the basis for the Vāmana story praised in the Purāṇas. Sāyaṇa too, in
+
+> अतो देवा अवन्तु नो यतो विष्णुर्विचक्रमे ।
+> पृथिव्याः सप्त धामभिः ॥
+
+> *ato devā avantu no yato viṣṇurvicakrame |*
+> *pṛthivyāḥ sapta dhāmabhiḥ ‖*
+
+(Ṛ. Saṃ. 1-22-16.)
+
+in the commentary on this Ṛk, has said *viṣṇoḥ trivikramāvatāre pādatrayakramaṇam* — "the three strides of Viṣṇu in the incarnation as Trivikrama" — i.e. that the Ṛk described here refers to the well-known three strides at the time of the Trivikrama incarnation. But in explaining the next Ṛk (1-22-17) there is no hint of this story in the words of the Nirukta-author. Nor in the passages of Śākapūṇi, nor in those of Ūrṇavābha, which Yāska has cited, is there any sentence relating to this story. Both the Śatapatha-Brāhmaṇa and the Aitareya-Brāhmaṇa have descriptions relating to the Vāmana story. In the Śatapatha-Brāhmaṇa the help given to the gods by Viṣṇu, in dwarf form, at the time of the battle of gods and Asuras, is told in this way.
+
+*(Small-type Brāhmaṇa quotation; many letters doubtful.)*
+
+> देवाश्च वा असुराश्च । उभये प्राजापत्याः स्पर्धिरे ततो देवा अनुव्यमिवासुरा [?] ज्यायांसो ह असुरा आसुः [?] ते होचुः [?] अस्माकमेवेदं खलु भुवनमिति । ते होचुः । हन्तेमां पृथिवीं विभजामहै तां विभज्योपजीवामेति ताम् [?] प्राच्यस्तर्मभिः [?] सर्वतो विभजमाना अभीयुः ॥ तद्ध देवाः श्रुत्वा [?] विभजन्ते ह वा इमामसुराः पृथिवीं प्रेत तदेष्यामो यत्रेमानसुरा विभजन्ते केतः स्याम यदस्यैन भजेमेति ते यज्ञमेव विष्णुं पुरस्कृत्येयुः ॥ ते होचुः । अनु नोऽस्यां पृथिव्यामाभजतास्त्वेव नोऽस्यामस्यां भाग इति ते हासुरा असूयन्त इवोचुर्यावदेवैष विष्णुरभिशेते तावद्वो दद्म इति ॥ वामनो ह विष्णुरास ॥ तद्देवा न जिहीडिरे महते नोऽब्रुवन्यज्ञं संमितमदुरिति [?] ॥ ते प्राञ्चं विष्णुं निपाद्य ॥ छन्दोभिरभितः परिगृह्णन् गायत्रेण छ-
+
+> *devāśca vā asurāśca | ubhaye prājāpatyāḥ spardhire tato devā anuvyamivāsurā [?] jyāyāṃso ha asurā āsuḥ [?] te hocuḥ [?] asmākamevedaṃ khalu bhuvanamiti | te hocuḥ | hantemāṃ pṛthivīṃ vibhajāmahai tāṃ vibhajyopajīvāmeti tām [?] prācyastarmabhiḥ [?] sarvato vibhajamānā abhīyuḥ ‖ taddha devāḥ śrutvā [?] vibhajante ha vā imāmasurāḥ pṛthivīṃ preta tadeṣyāmo yatremānasurā vibhajante ketaḥ syāma yadasyaina bhajemeti te yajñameva viṣṇuṃ puraskṛtyeyuḥ ‖ te hocuḥ | anu no 'syāṃ pṛthivyāmābhajatāstveva no 'syāmasyāṃ bhāga iti te hāsurā asūyanta ivocuryāvadevaiṣa viṣṇurabhiśete tāvadvo dadma iti ‖ vāmano ha viṣṇurāsa ‖ taddevā na jihīḍire mahate no 'bruvanyajñaṃ saṃmitamaduriti [?] ‖ te prāñcaṃ viṣṇuṃ nipādya ‖ chandobhirabhitaḥ parigṛhṇan gāyatreṇa cha-*
+
+---
+
+### Printed p. 597  (PDF 615)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+> छन्दसा परिगृह्णामीति दक्षिणतस्त्रैष्टुभेन त्वा छन्दसा परिगृह्णामीति पश्चाज्जागतेन त्वा छन्दसा परिगृह्णामीत्युत्तरतः ॥ तं छन्दोभिरभितः परिगृह्य [?] … सौम्यस्यारस्य [?] वेदिं चक्रे ॥
+
+> *chandasā parigṛhṇāmīti dakṣiṇatastraiṣṭubhena tvā chandasā parigṛhṇāmīti paścājjāgatena tvā chandasā parigṛhṇāmītyuttarataḥ ‖ taṃ chandobhirabhitaḥ parigṛhya [?] … saumyasyārasya [?] vediṃ cakre ‖*
+
+(Śa. Brā. 1-2-5-1 to 9 [?], as printed, numerals doubtful; the print has a row of dots in the quotation.)
+
+When the gods, the sons of Prajāpati, and the Asuras were contending with each other for superiority, the Asuras became powerful and thought the whole earth belonged to themselves. Then they tried to measure the earth with a bull's hide and divide it among themselves. At that the gods, putting in front Viṣṇu, who is the sacrifice itself in person, went to the Asuras and asked that a little portion of the earth be allotted to them along with the Asuras; the Asuras agreed, though grudgingly [?], and told them that they would give to the gods only as much place as Viṣṇu, who stood at their head, could occupy, and nothing more than that. Viṣṇu was a dwarf. [The Asuras thought that he would occupy only a little space.] But the gods, not being dismayed at this, said that as much space as Viṣṇu, who is the sacrifice, would occupy was enough for them. Then they placed him facing east and made an enclosure around him, on the south with the Gāyatrī metre, on the west with the Triṣṭubh metre and on the north with the Jagatī metre. Thereupon it was as if all of it was made into a *vedi* (sacrificial altar), and the whole earth was pervaded by Viṣṇu alone, who is sacrifice. It was as though the whole earth was given over easily to the gods. [The story] is also the basis of the Purāṇic story of the Vāmana incarnation and of the part of the story in which Vāmana deceived Bali and helped the gods at the time of the battle of gods and Asuras. This same incident is told in the Taittirīya-Brāhmaṇa:
+
+> तेऽग्निना प्राङ्ज्योजयन् । वसुभिर्दक्षिणा । रुद्रैः प्रत्यञ्चः । आदित्यैरुदञ्चः । यस्यैतं विमुषो वेदं परिगृह्णन्ति ॥
+
+> *te 'gninā prāṅjyojayan | vasubhirdakṣiṇā | rudraiḥ pratyañcaḥ | ādityairudañcaḥ | yasyaitaṃ vimuṣo vedaṃ parigṛhṇanti ‖*
+
+(Tai. Brā. 3-9-4-2 [?], as printed.)
+
+— indicated by these sentences. The same story is told in the Aitareya-Brāhmaṇa:
+
+> न हि तयोः कश्चन पराजिग्ये । इन्द्रश्च विष्णो यदपस्पृधेथां त्रेधा सहस्रं वि तदैरयेथामिति । इन्द्रश्च ह वै विष्णुश्चासुर्यैर्युयुधाते [?] … तान्स्म जित्वोचतुः कल्पामहा इति ते ह तेऽसुरा ऊचुः [?] सोऽ… [?] यावदेवायं विष्णुस्त्रिर्विक्रमते [?] स इमान् लोकान् … वेदानथो वाचं तं [?] तस्मात् … ब्रूयात् [?] ॥
+
+> *na hi tayoḥ kaścana parājigye | indraśca viṣṇo yadapaspṛdhethāṃ tredhā sahasraṃ vi tadairayethāmiti | indraśca ha vai viṣṇuścāsuryairyuyudhāte [?] … tānsma jitvocatuḥ kalpāmahā iti te ha te 'surā ūcuḥ [?] so '… [?] yāvadevāyaṃ viṣṇustrirvikramate [?] sa imān lokān … vedānatho vācaṃ taṃ [?] tasmāt … brūyāt [?] ‖*
+
+(Ai. Brā. 6-15 [?], as printed; the small type of this passage is only partly legible: read with doubt.)
+
+---
+
+### Printed p. 598  (PDF 616)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+Neither Indra nor Viṣṇu saw defeat. In the past, when they had fought the Asuras and defeated them, and a proposal came that the earth be divided, it was agreed that all the region other than that covered by Viṣṇu's three steps would belong to the Asuras; then Indra himself became the master of the three worlds covered by the (three) steps of Viṣṇu. Having driven away the Asuras, (along with the gods) he himself covered the three worlds: this is the story that is described here.
+
+But since it is hard to know what the real meaning of the word *Vāmana* is, there are differences of opinion among modern scholars on this matter. Collecting the various opinions of different scholars on the matter, a scholar, R. N. Dandekar, has said as follows:
+
+What the primary notion underlying Vishnu's dwarf-form was, it is not easy to imagine. A. Khun [sic] thought that the dwarf represented the sun-light which shrinks inot [sic] dwarf size in the evening. Oldenberg Proposed that the idea evolved out of a fable about a wide-stepping giant who could turn himself into a dwarf. This is evidently far-fetched, since a fable-motive cannot be the centre of a myth. According to Keith, Macdonell, Hillebrandt Vishnu assumed the dwarf form only by way of a stratagem in order to mislead the Asura's [sic] An ethical interpretation of this अवतार is given by Macnicol who believes that it is suggestive of strength and safety issuing out of smallness and weakness. N. Iyyengar [sic] thinks that Vishnu seen as a little dwarf in the form of the sacrificial fire on earth takes the giant strides in the forms of Vidyut and Surya. R. Shama Shastry refers to the 'dwarfish shadow' while explaining the Avataras on the basis of astronomical phenomena.
+
+(A Volume of Studies in Indology. Presented to Prof. P. V. Kane. P. 105.)
+
+Of all these, the view of N. Iyengar fits the matter described in the Śatapatha-Brāhmaṇa. As this scholar says, the idea that the fire, in its subtle form, the sacrificial fire, grew in due order, covered the whole earth, and afterwards, in the form of lightning and in the form of the sun, covered the other two worlds, corresponds to the above description of the Śatapatha-Brāhmaṇa, that Viṣṇu in the form of the sacrifice covered the earth and the whole world as the altar, in the form of fire.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; noted briefly).** *vāstūni* (root *vasa nivāse*; to it, after the causative stem [?], the Uṇādi suffix *tun*, *ṇit*: *upadhā-vṛddhi*) …
+
+---
+
+### Printed p. 599  (PDF 617)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar, concluded; noted briefly.)* *uśmasi* (root *vaśa kāntau*; *laṭ* 1st pl., *mas*; *idanto masi* (Pā. Sū. 7-1-46 [?]) *i*-augment; *śap* → *luk* by *ādipra…*[?]; the suffix being *jit* [?], by *grahijyāvyadhi…* (Pā. Sū. 6-1-15 [?]) *saṃprasāraṇa* of the root, *pūrvarūpa*; *nighāta* since after an *atiṅanta* [?]); *gamadhyai* (root *gamḷ gatau*; *tumarthe sesenase…* (Pā. Sū. 3-4-9 [?]) the suffix *adhyai*; *ñnityādir nityam*: first *udātta*); *bhūriśṛṅgāḥ* (*bhūrīṇi śṛṅgāṇi yāsāṃ tāḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: prior-member accent); *ayāsaḥ* (root *aya gatau*; since *pacādi* is an *ākṛtigaṇa*, *nandigrahapacādibhyo…* (Pā. Sū. 3-1-134 [?]) *ac*; *cit*: final *udātta*; before *jas* *āj jaser asuk* (Pā. Sū. 7-1-50 [?]) *asuk*; *s* → *ru*, *visarga*); *bhāti* (root *bhā dīptau*; *laṭ* 3rd sg.; *nighāta* since after an *atiṅanta*). ‖ 6 ‖
+
+*(Printed closing line:)* **Here ends the 154th [?] Sūkta.**
+
+---
+
+## Sūkta 155
+
+---
+
+### Printed p. 599  (continued; PDF 617)
+
+*(The Kannada heading reads "The 155th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of six Ṛks beginning "Pra vaḥ pāntam" is the sixteenth sūkta, of Dīrghatamas, Jagatī metre; the Anukramaṇī says "pra vo jāgataṃ traindrāvaiṣṇavaṃ" ; used in the *abhiplava-ṣaḍaha* and *ukthya* rites for the excess of the *stoma*. Small type, read with doubt.)*
+
+> प्र वः पान्तमिति षडृचं षोडशं सूक्तं दैर्घतमसं जागतम् । पूर्वत्रै [?] वैष्णवं … । अत्रानुक्रमणिका । प्र वो जागतं त्रैन्द्रावैष्णवं हेति [?] । अभिप्लविकेषूक्थ्येषु स्तोमातिरेकशंसने उक्तो विनियोगः ॥
+
+> *pra vaḥ pāntamiti ṣaḍṛcaṃ ṣoḍaśaṃ sūktaṃ dairghatamasaṃ jāgatam | pūrvatrai [?] vaiṣṇavaṃ … | atrānukramaṇikā | pra vo jāgataṃ traindrāvaiṣṇavaṃ heti [?] | abhiplavikeṣūkthyeṣu stomātirekaśaṃsane ukto viniyogaḥ ‖*
+
+**Anuvāda (Kannada summary).** The sūkta *pra vaḥ pāntam*, is the sixteenth sūkta in the twenty-first anuvāka. It has six Ṛks. The ṛṣi of the sūkta is Dīrghatamā Aucathya; the metre is Jagatī. As said before, the deity is Viṣṇu; the first three Ṛks are addressed to Indra and Viṣṇu together [?]. The Anukramaṇī says *pra vo jāgataṃ traindrāvaiṣṇavam*. The sūkta is stated to be used in the *abhiplava-ṣaḍaha* and *ukthya* rites, for the excess of the *stoma*.
+
+---
+
+### Printed p. 600  (PDF 618)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+*(Title page of the sūkta: "Oṃ. Sūkta 155. Maṇḍala 1, Anuvāka 21 [?], Sūkta 155; Aṣṭaka 2, Adhyāya 3, Varga 3? [?]. Ṛks in the sūkta: 6. Ṛṣi: Dīrghatamā Aucathya. Devatā: Ṛks 1–3 Viṣṇu and Indra [?]; Ṛks 4–6 Viṣṇu. Chandas: Jagatī.")*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र वः पान्तमन्धसो धियायते महे शूराय विष्णवे चार्चत ।
+> या सानुनि पर्वतानामदाभ्या महस्तस्थतुरर्वतेन साधुना ॥ १ ॥
+
+> *pra vaḥ pāntamandhaso dhiyāyate mahe śūrāya viṣṇave cārcata |*
+> *yā sānuni parvatānāmadābhyā mahastasthaturarvatena sādhunā ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । वः । पान्तम् । अन्धसः । धियायते । महे । शूराय । विष्णवे । च । अर्चत ।
+> या । सानुनि । पर्वतानाम् । अदाभ्या । महः । तस्थतुः । अर्वतेन । साधुना ॥ १ ॥
+
+> *pra | vaḥ | pāntam | andhasaḥ | dhiyāyate | mahe | śūrāya | viṣṇave | ca | arcata |*
+> *yā | sānuni | parvatānām | adābhyā | mahaḥ | tasthatuḥ | arvatena | sādhunā ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O priests, offer to the mighty Indra and Viṣṇu, who love praise, the Soma food; the two, undeceivable, stand on the peaks of the mountains. Small type, read with doubt; continues on the next page.)*
+
+> हे अध्वर्य्वादयः वो युष्माकं संबन्धि पान्तं पालनस्वभावं पातव्यं [?] सोमरूपमन्नं प्रार्चत । प्रकर्षेण संपादयत । कस्मै । धियायते स्तुतीरिच्छते महे महते शूराय विक्रान्ताय इन्द्राय विष्णवे व्यापकाय [?] तन्नामकाय देवाय च । कस्तयोरतिशय इति उच्यते । या यौ इन्द्राविष्णू पर्वतानां प्रीणनवतां पूरणवतां वा पर्वतशब्दो यास्केनैवं निरुक्तः । पर्वान् पर्वतः पर्व पुनः पृणातेः प्रीणातेर्वेति । उक्तलक्षणानां लोकानां सानुनि …
+
+> *he adhvaryvādayaḥ vo yuṣmākaṃ saṃbandhi pāntaṃ pālanasvabhāvaṃ pātavyaṃ [?] somarūpamannaṃ prārcata | prakarṣeṇa saṃpādayata | kasmai | dhiyāyate stutīricchate mahe mahate śūrāya vikrāntāya indrāya viṣṇave vyāpakāya [?] tannāmakāya devāya ca | kastayoratiśaya iti ucyate | yā yau indrāviṣṇū parvatānāṃ prīṇanavatāṃ pūraṇavatāṃ vā parvataśabdo yāskenaivaṃ niruktaḥ | parvān parvataḥ parva punaḥ pṛṇāteḥ prīṇāterveti | uktalakṣaṇānāṃ lokānāṃ sānuni …*
+
+---
+
+**Progress note:** Sūkta 154 complete (printed pp. 563–599); Sūkta 155 begun: heading, Anukramaṇī, Ṛk 1 Saṃhitā, Pada and the start of the bhāṣya (printed pp. 599–600, PDF 617–618). Next: printed p. 601 (PDF 619) — rest of Ṛk 1 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics. Open flags: small-type bhāṣya and the Śatapatha/Taittirīya/Aitareya quotations on pp. 596–597 partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
