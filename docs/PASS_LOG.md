@@ -28,3 +28,4 @@
 2026-10-23 16:45 PDF 68-68: remaining [?] EN 2, KN 2. after: 22 cleared; Rudras verse corrected; 3 doubtful kept (TS ref, page range)
 2026-10-23 16:45 PDF 69-69: remaining [?] EN 1, KN 1. after: 21 cleared (2 TS refs kept doubtful); Brāhmaṇa-type quotations fully re-read
 2026-10-23 16:46 PDF 70-70: remaining [?] EN 0, KN 1. after: 29 cleared
+2026-10-23 16:47 PDF 71-71: remaining [?] EN 6, KN 6. after: 27 EN / 20 KN cleared; 6 doubtful kept
