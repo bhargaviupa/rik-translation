@@ -642,9 +642,9 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; small type read at 170 dpi, doubtful words marked)
 
-> हे पूषन् अजिरं यज्ञदेशं प्रति गमनवन्तं त्वां यामनि गमने निमित्तभूते सति स्तोमेभिः स्तोत्रैः प्र कृण्वे । प्रकृष्टं करोमि । तत्र दृष्टान्तः । यामनि शीघ्रगमनेऽजिरं न शीघ्रगामिनमश्वमिव । स यथा प्रस्तूयते तद्वत् । किंच यथा मृधः संग्रामानुद्दिश्य ऋणवः गच्छेः तथा प्र कृण्वे । यद्वा । यथा ऋणवः अस्मद्यज्ञं प्रति गच्छेः ॥ ऋण गतौ तानादिकः । लेट्यडागमः ॥ तथा त्वां कृण्वे । किंच मृधो हिंसकान्योद्धॄन् संग्रामे पीपरः । पारं नयसि ॥ पारयतेः [?] रूपम् । तत्र दृष्टान्तः । उष्ट्रो न । उष्ट्रो यथा भारं वोढा पारयति तद्वन्मृधः संग्रामात्पीपरः । पारं नयसि । अतः कारणात् त्वा त्वां मयोभुवं सुखस्य भावयितारं देवं देवनशीलं पूषणं मर्त्योऽहं हुवे । आह्वयामि । किमर्थम् । सख्याय समानख्यानाय प्रियकरणाय । अस्माकमाङ्गूषानाङ्गोषान् [?] स्तोमान् । आङ्गूषः स्तोम आघोष इति यास्कः । द्युम्निनस्कृधि । ज्योतिष्मतः कुरु । यद्वा । स्तोमान् यशोवतो [?] न्नवतो वा कृधि । अस्मत्स्तुत्या प्रीतस्त्वमेनान् कुर्वित्यर्थः । किंच वाजेषु संग्रामेषु द्युम्निनोऽन्नवतः कृधि । अस्मद्वैरिणो जित्वा तेषामन्नं मयि कुर्वित्यर्थः ॥
+> हे पूषन् अजिरं यज्ञदेशं प्रति गमनवन्तं त्वां यामनि गमने निमित्तभूते सति स्तोमेभिः स्तोत्रैः प्र कृण्वे । प्रकृष्टं करोमि । तत्र दृष्टान्तः । यामनि शीघ्रगमनेऽजिरं न शीघ्रगामिनमश्वमिव । स यथा प्रस्तूयते तद्वत् । किंच यथा मृधः संग्रामानुद्दिश्य ऋणवः गच्छेः तथा प्र कृण्वे । यद्वा । यथा ऋणवः अस्मद्यज्ञं प्रति गच्छेः ॥ ऋण गतौ तानादिकः । लेट्यडागमः ॥ तथा त्वां कृण्वे । किंच मृधो हिंसकान्योद्धॄन् संग्रामे पीपरः । पारं नयसि ॥ पारयतेर्लुङ् चङ् रूपम् । तत्र दृष्टान्तः । उष्ट्रो न । उष्ट्रो यथा भारं वोढा पारयति तद्वन्मृधः संग्रामात्पीपरः । पारं नयसि । अतः कारणात् त्वा त्वां मयोभुवं सुखस्य भावयितारं देवं देवनशीलं पूषणं मर्त्योऽहं हुवे । आह्वयामि । किमर्थम् । सख्याय समानख्यानाय प्रियकरणाय । अस्माकमाङ्गूषानाघोषान् स्तोमान् । आङ्गूषः स्तोम आघोष इति यास्कः । द्युम्निनस्कृधि । ज्योतिष्मतः कुरु । यद्वा । स्तोमान् यशोवतोऽन्नवतो वा कृधि । अस्मत्स्तुत्या प्रीतस्त्वमेनान् कुर्वित्यर्थः । किंच वाजेषु संग्रामेषु द्युम्निनोऽन्नवतः कृधि । अस्मद्वैरिणो जित्वा तेषामन्नं मयि कुर्वित्यर्थः ॥
 
-> *he pūṣan ajiraṃ yajñadeśaṃ prati gamanavantaṃ tvāṃ yāmani gamane nimittabhūte sati stomebhiḥ stotraiḥ pra kṛṇve | prakṛṣṭaṃ karomi | tatra dṛṣṭāntaḥ | yāmani śīghragamane 'jiraṃ na śīghragāminamaśvamiva | sa yathā prastūyate tadvat | kiṃca yathā mṛdhaḥ saṃgrāmānuddiśya ṛṇavaḥ gaccheḥ tathā pra kṛṇve | yadvā | yathā ṛṇavaḥ asmadyajñaṃ prati gaccheḥ ‖ ṛṇa gatau tānādikaḥ | leṭyaḍāgamaḥ ‖ tathā tvāṃ kṛṇve | kiṃca mṛdho hiṃsakānyoddhṝn saṃgrāme pīparaḥ | pāraṃ nayasi ‖ pārayateḥ [?] rūpam | tatra dṛṣṭāntaḥ | uṣṭro na | uṣṭro yathā bhāraṃ voḍhā pārayati tadvanmṛdhaḥ saṃgrāmātpīparaḥ | pāraṃ nayasi | ataḥ kāraṇāt tvā tvāṃ mayobhuvaṃ sukhasya bhāvayitāraṃ devaṃ devanaśīlaṃ pūṣaṇaṃ martyo 'haṃ huve | āhvayāmi | kimartham | sakhyāya samānakhyānāya priyakaraṇāya | asmākamāṅgūṣānāṅgoṣān [?] stomān | āṅgūṣaḥ stoma āghoṣa iti yāskaḥ | dyumninaskṛdhi | jyotiṣmataḥ kuru | yadvā | stomān yaśovato [?] nnavato vā kṛdhi | asmatstutyā prītastvamenān kurvityarthaḥ | kiṃca vājeṣu saṃgrāmeṣu dyumnino 'nnavataḥ kṛdhi | asmadvairiṇo jitvā teṣāmannaṃ mayi kurvityarthaḥ ‖*
+> *he pūṣan ajiraṃ yajñadeśaṃ prati gamanavantaṃ tvāṃ yāmani gamane nimittabhūte sati stomebhiḥ stotraiḥ pra kṛṇve | prakṛṣṭaṃ karomi | tatra dṛṣṭāntaḥ | yāmani śīghragamane 'jiraṃ na śīghragāminamaśvamiva | sa yathā prastūyate tadvat | kiṃca yathā mṛdhaḥ saṃgrāmānuddiśya ṛṇavaḥ gaccheḥ tathā pra kṛṇve | yadvā | yathā ṛṇavaḥ asmadyajñaṃ prati gaccheḥ ‖ ṛṇa gatau tānādikaḥ | leṭyaḍāgamaḥ ‖ tathā tvāṃ kṛṇve | kiṃca mṛdho hiṃsakānyoddhṝn saṃgrāme pīparaḥ | pāraṃ nayasi ‖ pārayaterluṅ caṅ rūpam | tatra dṛṣṭāntaḥ | uṣṭro na | uṣṭro yathā bhāraṃ voḍhā pārayati tadvanmṛdhaḥ saṃgrāmātpīparaḥ | pāraṃ nayasi | ataḥ kāraṇāt tvā tvāṃ mayobhuvaṃ sukhasya bhāvayitāraṃ devaṃ devanaśīlaṃ pūṣaṇaṃ martyo 'haṃ huve | āhvayāmi | kimartham | sakhyāya samānakhyānāya priyakaraṇāya | asmākamāṅgūṣānāghoṣān stomān | āṅgūṣaḥ stoma āghoṣa iti yāskaḥ | dyumninaskṛdhi | jyotiṣmataḥ kuru | yadvā | stomān yaśovato 'nnavato vā kṛdhi | asmatstutyā prītastvamenān kurvityarthaḥ | kiṃca vājeṣu saṃgrāmeṣu dyumnino 'nnavataḥ kṛdhi | asmadvairiṇo jitvā teṣāmannaṃ mayi kurvityarthaḥ ‖*
 
 **Pratipadārtha (Kannada).** *pūṣan* — O Pūṣan; *yathā* — as; *mṛdhaḥ* — in battles; *ajiram* — swiftly moving; *na* — like [a courser]; *ṛṇavaḥ* — going (or: those who go to the sacrifice; as one does so); *ajiram* — swift-moving; *tvā* — you; *yāmani* — for (your) coming; [as one praises a horse that goes swiftly to battle]; *stomebhiḥ* — with hymns; *pra kṛṇve* — I make [you] excel (I exalt); *uṣṭraḥ na* — as a camel that carries a single load across; *mṛdhaḥ* — in battle; *pīparaḥ* — [you] take [us] across the foes; *yat* — therefore; *martyaḥ* — I, a mortal; *mayobhuvam* — the giver of happiness; *devam* — the god; *tvā* — you; *sakhyāya* — for the sake of the friend[ship] that gives pleasure; *huve* — I call; *asmākam* — our; *āṅgūṣān* — [hymns] praised aloud (praise); *dyumninaḥ kṛdhi* — make [them] productive of benefit [wealth]; *vājeṣu* — in battles; *dyumninaḥ* — [make] our [enemies'] food [ours]; *kṛdhi* — do.
 
@@ -658,21 +658,21 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **Special Topics (Viśeṣaviṣayagaḷu).**
 
-***ṛṇavaḥ.*** The word is made from the root *ṛṇu* meaning "to go"; *ṛṇoti*, *puṇoti* are read among the verbs of motion (Ni. 2-[?] [?]). The sense is "going to a place where the sacrifice is performed, or going to the place where a ritual is carried out". Quotations:
+***ṛṇavaḥ.*** The word is made from the root *ṛṇu* meaning "to go"; *ṛṇoti*, *puṇoti* are read among the verbs of motion (Ni. 2-9). The sense is "going to a place where the sacrifice is performed, or going to the place where a ritual is carried out". Quotations:
 
 > उषो यदद्य भानुना वि द्वारावृणवो दिवः ।
 
 > *uṣo yadadya bhānunā vi dvārāvṛṇavo divaḥ |*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].)
+(Ṛ. Saṃ. 1-48-15.)
 
 > कया नो अग्ने वि वसः सुवृक्तिं कामु स्वधामृणवः शस्यमानः ।
 
 > *kayā no agne vi vasaḥ suvṛktiṃ kāmu svadhāmṛṇavaḥ śasyamānaḥ |*
 
-(Ṛ. Saṃ. 2-[?]-[?] [?].) In such Ṛks the word *ṛṇavaḥ* has the sense "may you go", as here: "as you go to the sacrifice", or "may you go to our sacrifice".
+(Ṛ. Saṃ. 2-8-3.) In such Ṛks the word *ṛṇavaḥ* has the sense "may you go", as here: "as you go to the sacrifice", or "may you go to our sacrifice".
 
-***ajiram.*** *Ajira* is read among the names of "swift" (Ni. 2-[?] [?]): one who goes quickly. Agni, as he burns quickly, increases his brilliance in that speed. Then *girā vājiraśociṣam* (Ṛ. Saṃ. 6-[?]-[?] [?]) — "swift-flamed" — the sentence continues on p. 24.
+***ajiram.*** *Ajira* is read among the names of "swift" (Ni. 2-9): one who goes quickly. Agni, as he burns quickly, increases his brilliance in that speed. Then *girā vājiraśociṣam* (Ṛ. Saṃ. 8-19-13) — "swift-flamed" — the sentence continues on p. 24.
 
 ---
 
@@ -682,29 +682,29 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Special Topics of Ṛk 2, continued from p. 23.)* [The sentence on *ajiram* ends:] "…from its speed [as in *vājiraśociṣam*] the radiant Agni is described." In the same way *ajira* is an epithet of swift enemies, of swift horses, and of gods who go swiftly to the sacrifice. In the Ṛk at hand it describes Pūṣan, who comes quickly to the sacrifice; Sāyaṇa, giving the example *ajiraṃ na śīghragāminam aśvam iva*, makes it also an epithet of a horse that runs swiftly.
 
-***mṛdhaḥ.*** *Mṛdh* is read among the names of battle (Ni. 2-[?] [?]); the Kannada says the word also has the sense "enemy" in some places, as Yāska shows in the Ṛk
+***mṛdhaḥ.*** *Mṛdh* is read among the names of battle (Ni. 2-9); the Kannada says the word also has the sense "enemy" in some places, as Yāska shows in the Ṛk
 
-> वि न इन्द्र मृधो जहि नीचा यच्छ पृतन्यतः [?] ।
+> वि न इन्द्र मृधो जहि नीचा यच्छ पृतन्यतः ।
 
-> *vi na indra mṛdho jahi nīcā yaccha pṛtanyataḥ [?] |*
+> *vi na indra mṛdho jahi nīcā yaccha pṛtanyataḥ |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) where *mṛdhaḥ* are those who make war (Ni. 2-[?] [?]). In the Ṛk at hand the word is used in two senses: first *saṃgrāmān uddiśya*, "with battle in view"; second *saṃgrāme hiṃsakān yoddhṝn*, "in battle, the warriors who harm".
+(Ṛ. Saṃ. 10-152-4) where *mṛdhaḥ* are those who make war (Ni. 2-2 [?]). In the Ṛk at hand the word is used in two senses: first *saṃgrāmān uddiśya*, "with battle in view"; second *saṃgrāme hiṃsakān yoddhṝn*, "in battle, the warriors who harm".
 
-***pīparaḥ.*** *Pāraṃ nayasi* — "you carry across". Yāska reads *pīparat* among the verbs of carrying across/protecting (Ni. 3-[?] [?]); in the Saṃhitā the form occurs in
+***pīparaḥ.*** *Pāraṃ nayasi* — "you carry across". Yāska reads *pīparat* among the verbs of carrying across/protecting (Ni. 3-19); in the Saṃhitā the form occurs in
 
-> अंहसो यत्र पीपरद्यथा नो नावेव यान्तमुभये हवन्ते [?] ।
+> अंहसो यत्र पीपरद्यथा नो नावेव यान्तमुभये हवन्ते ।
 
-> *aṃhaso yatra pīparadyathā no nāveva yāntamubhaye havante [?] |*
+> *aṃhaso yatra pīparadyathā no nāveva yāntamubhaye havante |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].)
+(Ṛ. Saṃ. 3-32-14.)
 
-> आश्वो न स्वे दम आ हेम्यावान्तमंहसः पीपरो दाश्वांसम् [?] ।
+> आश्वो न स्वे दम आ हेम्यावान्तमंहसः पीपरो दाश्वांसम् ।
 
-> *āśvo na sve dama ā hemyāvāntamaṃhasaḥ pīparo dāśvāṃsam [?] |*
+> *āśvo na sve dama ā hemyāvāntamaṃhasaḥ pīparo dāśvāṃsam |*
 
-(Ṛ. Saṃ. 4-[?]-[?] [?].) In these Ṛks *aṃhasaḥ pīparaḥ* means "carry across from sin"; "as one crosses a river"; likewise here, "carry us across the fighting, from the harassment of enemies".
+(Ṛ. Saṃ. 4-2-8.) In these Ṛks *aṃhasaḥ pīparaḥ* means "carry across from sin"; "as one crosses a river"; likewise here, "carry us across the fighting, from the harassment of enemies".
 
-***āṅgūṣān.*** *Āṅgūṣaḥ stoma āghoṣaḥ* (Ni. 5-[?] [?]): a *stotra* which must be recited aloud is called *āṅgūṣa*. In explaining Ṛ. Saṃ. 1-[?]-[?] [?] Skandasvāmin says that both "Soma" and "*stoma*" may be meant; but this word is used in many places of the Ṛgveda, and in all it means *stotra*.
+***āṅgūṣān.*** *Āṅgūṣaḥ stoma āghoṣaḥ* (Ni. 5-11): a *stotra* which must be recited aloud is called *āṅgūṣa*. In explaining Ṛ. Saṃ. 1-105-19 Skandasvāmin says that both "Soma" and "*stoma*" may be meant; but this word is used in many places of the Ṛgveda, and in all it means *stotra*.
 
 ### Printed p. 25  (PDF 43)
 
