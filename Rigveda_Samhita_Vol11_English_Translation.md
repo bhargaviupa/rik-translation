@@ -12357,4 +12357,160 @@ In the Ṛk at hand the word *vrādhantamaḥ* is an adjective of the mortal who
 
 ---
 
-**Progress note:** Vol 11 — Sūkta 150 (3 Ṛks, Uṣṇih) complete (printed pp. 464–474, PDF 482–492). Next: Sūkta 151 — look at printed p. 475 (PDF 493) for its Anukramaṇī/heading (a closing line of Sūkta 149 may be missing in the print: none seen at the top of p. 464). Images in /tmp/v11a (PDF 33–492; recrop 493+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread — Sūkta 150 Ṛk 2 bhāṣya and Pratipadārtha only partly legible; Ṛg/Nirukta/Upaniṣad quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–150; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+## Sūkta 151
+
+### Printed p. 475  (PDF 493)
+
+*(Page header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 30, 31 [?]. The Kannada heading reads "The 151st Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of nine Ṛks beginning "Mitraṃ na yam" is the eleventh sūkta, of Dīrghatamas, Jagatī, Mitrāvaruṇa deity; the Anukramaṇī word is "mitraṃ nava maitrāvaruṇaṃ hi jāgatam"; its use is by indication.)*
+
+> मित्रं न यमिति नवर्चमेकादशं सूक्तं दैर्घतमसं जागतं मैत्रावरुणम् । आद्या मैत्रेव । अत्रानुक्रमणिका । मित्रं नव मैत्रावरुणं हि जागतं मैत्र्याद्येति ॥ विनियोगो लैङ्गिकः ॥
+
+> *mitraṃ na yamiti navarcamekādaśaṃ sūktaṃ dairghatamasaṃ jāgataṃ maitrāvaruṇam | ādyā maitreva | atrānukramaṇikā | mitraṃ nava maitrāvaruṇaṃ hi jāgataṃ maitryādyeti ‖ viniyogo laiṅgikaḥ ‖*
+
+**Anuvāda (Kannada).** The sūkta *mitraṃ na yam* is the eleventh sūkta in the twenty-first anuvāka. It has nine Ṛks. The ṛṣi of this sūkta is Dīrghatamas Aucathya. Mitra-Varuṇa are the deities. The metre is Jagatī. In the Anukramaṇī it is said *mitraṃ nava maitrāvaruṇaṃ hi jāgataṃ maitryādyeti*. The use is by indication (*laiṅgika*).
+
+**॥ ओम् ॥**
+
+**Sūkta 151** — Maṇḍala 1, Anuvāka 21, Sūkta 151; Aṣṭaka 2, Adhyāya 2, Varga 30, 31. Number of Ṛks in the sūkta: 9. Ṛṣi: Dīrghatamas Aucathya. Devatā: 1 Mitra; 2–9 Mitrāvaruṇau. Chandas: Jagatī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> मित्रं न यं शिम्या गोषु गव्यवः स्वाध्यो विदथे अप्सु जीजनन् ।
+
+> *mitraṃ na yaṃ śimyā goṣu gavyavaḥ svādhyo vidathe apsu jījanan |*
+
+---
+
+### Printed p. 476  (PDF 494)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+> अरेजेतां रोदसी पाजसा गिरा प्रति प्रियं यजतं जनुषामवः ॥ १ ॥
+
+> *arejetāṃ rodasī pājasā girā prati priyaṃ yajataṃ januṣāmavaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> मित्रम् । न । यम् । शिम्या । गोषु । गव्यवः । सुऽआध्यः । विदथे । अप्ऽसु । जीजनन् ।
+> अरेजेताम् । रोदसी इति । पाजसा । गिरा । प्रति । प्रियम् । यजतम् । जनुषाम् । अवः ॥ १ ॥
+
+> *mitram | na | yam | śimyā | goṣu | gavyavaḥ | su 'ādhyaḥ | vidathe | ap 'su | jījanan |*
+> *arejetām | rodasī iti | pājasā | girā | prati | priyam | yajatam | januṣām | avaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: the cattle-seeking, well-meditating worshippers produced Agni in the waters by their rites, like a friend; heaven and earth trembled with his strength and his roar; he is the dear, worshipful protection of living beings.)*
+
+> यमग्निं शिम्या कर्मनामैतत् शिमीति शक्ति [?] तन्नामसूक्तत्वात् । प्रकाशवृष्ट्यादनादिकर्मणा मित्रं न मित्रमिव स्थितम् । यद्वा । शिम्येत्येतत् क्रियया सह सम्बध्यते । गोषु बह्वीषु निमित्तभूतासु गव्यवः गा आत्मन इच्छन्तः । अत्र यद्यपि गव्यमिवालं न गोश्चित्तं तथापि गव्यन्ति इत्यनेनात्मनो गोस्पृहा प्रतीयते [?] ... स्वाध्यः सुष्ठु ध्यातारः फलस्योत्पादयितारः शोभनध्याना वा ... विदथे यज्ञे [?] ... अप्सु अप्शब्दः [?] अन्तरिक्षनाम आपः । पृथिवीति तन्नामसूक्तत्वात् ... अग्निं जीजनन् जनयन्ति यजमानाः [?] ... अरेजेतां कम्पेते रोदसी द्यावापृथिव्यौ पाजसा बलेन गिरा [?] भयंकरशब्देन च ... प्रति प्रियं ... यजतं यजनीयं जनुषामवः जनानां प्राणिनां रक्षणं निमित्तीकृत्य [?] ... शिम्या मथनादिकर्मणा जीजनन् जनयन्ति यजमानाः । यद्वा । अप्सु निमित्तभूतासु जीजनन् सर्वप्राणिमात्रोपकारार्थं [?] वृष्ट्यर्थम् ... *[small type; many words doubtful; this bhāṣya continues on p. 477]*
+
+> *yamagniṃ śimyā karmanāmaitat śimīti śakti [?] tannāmasūktatvāt | prakāśavṛṣṭyādanādikarmaṇā mitraṃ na mitramiva sthitam | yadvā | śimyetyetat kriyayā saha sambadhyate | goṣu bahvīṣu nimittabhūtāsu gavyavaḥ gā ātmana icchantaḥ | atra yadyapi gavyamivālaṃ na gościttaṃ tathāpi gavyanti ityanenātmano gospṛhā pratīyate [?] ... svādhyaḥ suṣṭhu dhyātāraḥ phalasyotpādayitāraḥ śobhanadhyānā vā ... vidathe yajñe [?] ... apsu apśabdaḥ [?] antarikṣanāma āpaḥ | pṛthivīti tannāmasūktatvāt ... agniṃ jījanan janayanti yajamānāḥ [?] ... arejetāṃ kampete rodasī dyāvāpṛthivyau pājasā balena girā [?] bhayaṃkaraśabdena ca ... prati priyaṃ ... yajataṃ yajanīyaṃ januṣāmavaḥ janānāṃ prāṇināṃ rakṣaṇaṃ nimittīkṛtya [?] ... śimyā mathanādikarmaṇā jījanan janayanti yajamānāḥ | yadvā | apsu nimittabhūtāsu jījanan sarvaprāṇimātropakārārthaṃ [?] vṛṣṭyartham ... *[small type; many words doubtful; this bhāṣya continues on p. 477]**
+
+---
+
+### Printed p. 477  (PDF 495)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 31 [?].)*
+
+*(Ṛk 1 bhāṣya, end.)*
+
+> ... निरुद्धम् । यद्वा । मित्रं न सखायमिव स्थितं मित्रनामकं देवं यज्ञीयैः [?] ऋत्विग्भिः [?] प्रादुर्भावयन्ति । शिप्रान्तेदन्ये शेषेण तत्र्येयोजनीयम् ॥ *[small type; partly legible]*
+
+> *... niruddham | yadvā | mitraṃ na sakhāyamiva sthitaṃ mitranāmakaṃ devaṃ yajñīyaiḥ [?] ṛtvigbhiḥ [?] prādurbhāvayanti | śiprāntedanye śeṣeṇa tatryeyojanīyam ‖ *[small type; partly legible]**
+
+**Pratipadārtha (Kannada).** *goṣu* — in order to get cows in abundance; *gavyavaḥ* — those who desire cows; *svādhyaḥ* — worshippers of good meditation, or devotees; *vidathe* — in the sacrifice; *apsu* — in the atmosphere (and in the sacrifice); *priyam* — dear, or benefactor of the world; *yajatam* — worshipful; *mitraṃ na* — like a friend, the god named Mitra, who is like the friend of living beings; *yam* — whom (Agni) — [or *mitraṃ na* — like Agni, the friend; *yam* — whom, Mitra-deity (Agni's friend)]; *janūṣām* — for the sake of the protection of living beings, produced; *avaḥ prati* — for protection; *śimyā* — by the acts of churning or by the acts that cause rain; *jījanan* — [they] cause to be born; (so that) *pājasā* — by his strength; *girā* — by his terrifying sounds; *rodasī* — heaven and earth; *arejetām* — tremble.
+
+**Bhāvārtha.** Worshippers, of good meditation, who desire to acquire many cows, make [the god] Mitra, or Agni, who is dear, worshipful, and a benefactor of the world, to be born in the sacrifice and in the atmosphere, by their acts of churning and the like, for the protection of all living beings, as a friend; and heaven and earth tremble by his strength and by his terrifying sounds.
+
+**English Translation (as printed).** Heaven and earth have been terrified by the strength and the noise (of him), whom pious worshippers, desirous of acquiring cattle, have generated by their (sacred) acts, amidst the waters (of the firmament), at the sacrifice, as a friend for the preservation of living beings, the benefactor (of man), and entitled to adoration.
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***svādhyaḥ*** — *suṣṭhu ādhyātāraḥ phalasya utpādayitāraḥ, śobhanadhyānā vā*: "those who are of good meditation, who produce the fruit; or those with excellent meditation" — in the commentary, the two meanings are given: "those who produce the desired fruits"; or "devotees of excellent meditation" (*śrīmanta dhyānāsakta*); of these two meanings the second is the more fitting. Moreover —
+
+---
+
+### Printed p. 478  (PDF 496)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+> तव व्रते सुभगासः स्याम स्वाध्यो वरुण तुष्टुवांसः । उपायन उषसां गोमतीनामग्नयो न जरमाणा अनु द्यून् ॥
+
+> *tava vrate subhagāsaḥ syāma svādhyo varuṇa tuṣṭuvāṃsaḥ | upāyana uṣasāṃ gomatīnāmagnayo na jaramāṇā anu dyūn ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].)
+
+> युवा सुवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । तं धीरासः कवय उन्नयन्ति स्वाध्यो मनसा देवयन्तः ॥
+
+> *yuvā suvāsāḥ parivīta āgātsa u śreyānbhavati jāyamānaḥ | taṃ dhīrāsaḥ kavaya unnayanti svādhyo manasā devayantaḥ ‖*
+
+(Ṛ. Saṃ. 3-8-4.) In all such Ṛks, the word *svādhyaḥ* is explained as *śobhanadhyānāḥ* ("of excellent meditation"; "those who, with intense attention, are fixed in the thought"); by this the sense in the Ṛk at hand also is fitting.
+
+***vidathe*** — the word *vidatha* has many senses, such as work (*karma*), sacrifice, sacrificial assembly; with examples, and also with the criticisms of Western scholars, this has been explained in the section of the Ṛk 1-[?]-[?] in this part.
+
+***mitraṃ na*** — *mitraṃ na* has two meanings: first, "like a friend", a synonym of *sakhā*; second, the sense that the god Mitra, who is the friend of all.
+
+> न वै मित्रं किंचन हिनस्ति न मित्रं कश्चन हिनस्ति नैनं कुशो न कण्टको विभिनत्ति नास्य व्रणश्च नास्ति सर्वस्य ह्येव मित्रो मित्रम् ।
+
+> *na vai mitraṃ kiṃcana hinasti na mitraṃ kaścana hinasti nainaṃ kuśo na kaṇṭako vibhinatti nāsya vraṇaśca nāsti sarvasya hyeva mitro mitram |*
+
+(Śa. Brā. [?]-[?]-[?].) In such sentences too, the element of Mitra as the friend of all beings is mentioned here too.
+
+***gavyavaḥ*** — *gāḥ ātmana icchantaḥ*: "desiring cows for themselves"; the first sense is "those desirous of getting cows". Or, *gavyavaḥ* — *ity ātmīyāṃ gāṃ svāmitvaṃ pratipadyate* — "in the sense of making [the cow] one's own, the lordship" — Sāyaṇa explains that by the word *gavya*, the sense "the state of being lord of the cows" is also suggested:
+
+> तवेदं विश्वमभितः पशव्यं यत्पश्यसि चक्षसा सूर्यस्य । गवामसि गोपतिरेक इन्द्र भक्षीमहि ते प्रयतस्य वस्वः ॥
+
+> *tavedaṃ viśvamabhitaḥ paśavyaṃ yatpaśyasi cakṣasā sūryasya | gavāmasi gopatireka indra bhakṣīmahi te prayatasya vasvaḥ ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) The reference to the lordship of cows in this Ṛk has been shown there.
+
+***śimyā*** — *śaktyā*: "by the power; either of the nature of churning and the like, or the power of the lightning-fire, which is the work of rain-giving": this is the sense here.
+
+***apsu jījanan*** — *antarikṣe utpannam* — "they caused him to be born in the atmosphere":
+
+> यदग्ने दिविजा अस्यप्सुजा वा सहस्कृते । तं त्वा गीर्भिर्हवामहे ॥
+
+> *yadagne divijā asyapsujā vā sahaskṛte | taṃ tvā gīrbhirhavāmahe ‖*
+
+---
+
+### Printed p. 479  (PDF 497)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 31 [?].)*
+
+> अप्स्वग्ने सधिष्टव सौषधीरनु रुध्यसे । गर्भे संजायसे पुनः ॥
+
+> *apsvagne sadhiṣṭava sauṣadhīranu rudhyase | garbhe saṃjāyase punaḥ ‖*
+
+(Ṛ. Saṃ. 8-43-9.) As described in such Ṛks, the birth of Agni in the atmosphere is told.
+
+***pājasā girā rodasī arejetām*** — "heaven and earth tremble with Agni's strength and the fearsome sound"; and:
+
+> क्रमस्मै प्रथमं मातरिश्वन आविर्भव सुक्रतूया विवस्वते । अरेजेतां रोदसी होतृवूर्ये ऽसंहतः [?] ... मयंजो महो वसो ॥
+
+> *kramasmai prathamaṃ mātariśvana āvirbhava sukratūyā vivasvate | arejetāṃ rodasī hotṛvūrye 'saṃhataḥ [?] ... mayaṃjo maho vaso ‖*
+
+(Ṛ. Saṃ. 1-31-3.) In such Ṛks it is said that at the time of Agni's birth heaven and earth trembled; hence here that point is suggested.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *gavyavaḥ* (*gām ātmana icchati iti gavyati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8) *kyac* suffix; *kyāc chandasi* (Pā. Sū. 3-2-170) *u* suffix after the *kyac*; *vānto yi pratyaye* (Pā. Sū. 6-1-79) *av* for *o*; *ako lopaḥ* loss of the *a* of *kyac*; suffix accent: final *udātta*; *jas* following, *jasi ca* guṇa, *ay*); *svādhyaḥ* (root *dhyai cintāyām*; the two prefixes *su* and *āṅ*; *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) *kvip*; because of the accent *drśya*… the *saṃprasāraṇa* …; *halaḥ* (Pā. Sū. 6-4-2) lengthening of the root; with *jas*: *eranekācaḥ saṃyogapūrvasya* (Pā. Sū. 6-4-82) *yaṇ*; *udāttasvaritayor yaṇaḥ svaritaḥ* (Pā. Sū. 8-2-4) *svarita* accent); *vidathe* (root *vida jñāne*; *rudavidabhyāṃ…* (Uṇ. Sū. 3-[?]) *athan* suffix; *jit*: no guṇa; suffix accent: first *udātta*; locative sg.); *jījanan* (root *janī prādurbhāve*, with *ṇic*; *luṅ* …; 3rd plural, *jhi* → *ant*; *ṇiśrid ruskṛbhyaḥ kartari caṅ* (Pā. Sū. 3-1-48) *caṅ* for *cli*; …
+
+---
+
+### Printed p. 480  (PDF 498)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+*(Ṛk 1 grammar, continued, noted briefly.)* … *caṅ* → *jajanan*… *mit* name: shortening of the root's penultimate; *cajaḥ* [?] *ca-ja* substitution; *ṇer aniṭi* loss of *ṇi*; *sanyaṅoḥ* doubling; *dīrgho laghoḥ* (Pā. Sū. 7-4-94) lengthening of the reduplicate; no augment *aṭ* by *bahulaṃ chandasy māṅyoge 'pi*; as it is *yat*-connected, no *nighāta*; *abhyastānām ādiḥ* first *udātta*); *arejetām* (root *reja kampane*; *laṅ* 3rd dual *ātām* (Pā. Sū. 3-4-6 present sense); since the verb has no *anudātta*… *tāsyanudāttet…* the *lasārvadhātuka* is *anudātta*, so the root accent remains; no *nighāta* since *pāda*-initial); *pājasā* (root *pā rakṣaṇe*; *pāter balaḥ…* (Uṇ. Sū. 4-[?]) *asun* suffix — *bala* meaning, *jukāgama*; *ṭit*: first *udātta*; *ñnityādir nityam* (Pā. Sū. 6-1-197) first *udātta*; instr. sg.); *girā* (root *gṝ nigaraṇe*; *kvip*; instr. sg.; *sāvekācas tṛtīyādiḥ* case-ending *udātta*); *yajatam* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *bhṛmṛdṛśiyajiparvipaci…* (Uṇ. Sū. 3-110) *atac* suffix; *cit* (Pā. Sū. 6-1-163) final *udātta*; accusative sg.); *janūṣām* (root *jasu prādurbhāve*; *janer usi* (Uṇ. Sū. 2-[?]) *usi* suffix; suffix accent: first *udātta*; in Vedic *luk* of the *matup* sense). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> युद्ध [?] त्यद्वां पुरुमीळ्हस्य सोमिनः प्र मित्रासो न दधिरे स्वाभुवः ।
+> अध क्रतुं विदतं गातुमर्चत उत श्रुतं वृषणा पस्त्यावतः ॥ २ ॥
+
+> *yuddha [?] tyadvāṃ purumīḷhasya sominaḥ pra mitrāso na dadhire svābhuvaḥ |*
+> *adha kratuṃ vidataṃ gātumarcata uta śrutaṃ vṛṣaṇā pastyāvataḥ ‖ 2 ‖*
+
+---
+
+**Progress note:** Sūkta 151 in progress: Ṛk 1 complete (printed pp. 475–480, PDF 493–498). Next: Ṛk 2 Saṃhitā already written; continue from printed p. 481 (PDF 499). Open flags: small-type bhāṣya largely unread; Ṛg/Śatapatha quote reference numerals `[?]`; sūtra numerals; Anukramaṇī; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
