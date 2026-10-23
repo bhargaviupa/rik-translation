@@ -13063,4 +13063,184 @@ In such Ṛks, where Agni is praised, Agni too carries the epithet "Varuṇa", a
 
 ---
 
-**Progress note:** Sūkta 151 in progress: Ṛk 4 complete and Ṛk 5 under way (printed pp. 493–498, PDF 511–516; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English on pp. 497–498; its Special Topics begin on p. 498 and continue). Next: printed p. 499 (PDF 517). Open flags: small-type bhāṣya partly unread (p. 493, p. 497 many `[?]`); Pada word *takvanīḥ* [?]; Ṛg reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+### Printed p. 499  (PDF 517)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+> त्वं जिहेषं न वाजिनमरेणवो यमत्सत ।
+> दृळ्हं ग्रन्थिं न विष्यकमत्रं यविष्ठ मानु [?] एजः ॥
+
+> *tvaṃ jiheṣaṃ na vājinamareṇavo yamatsata |*
+> *dṛḷhaṃ granthiṃ na viṣyakamatraṃ yaviṣṭha mānu [?] ejaḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-3, as printed, numerals uncertain.) In such Ṛks *ahiṃsyamānāḥ* — "those not subject to harm, the mighty *asuras*" — shows the power of the *asuras*. Likewise in the present Ṛk this word, as an epithet of the word *dhenavaḥ*, is explained in one way as *anavadyāḥ* — "blameless, pure", that is, "not carried off by thieves" — and in another way as *taskarādy-upaharaṇe anaṣṭāḥ* — "not lost by the thieves' taking, not stolen by robbers and the like".
+
+**तुजः** — the word *tuj* is read among the names of the thunderbolt (Ni. 2-20 [?]), since it means "to injure". *Tujatiḥ dānakarmā* — "it also has the meaning of giving".
+
+> आ नस्सुजं रयिं भरांशं न प्रतिजानते ।
+> वृष्णं पक्षं फलमङ्केव धूनुहीन्द्र संभारणं वसु ॥
+
+> *ā nassujaṃ rayiṃ bharāṃśaṃ na pratijānate |*
+> *vṛṣṇaṃ pakṣaṃ phalamaṅkeva dhūnuhīndra saṃbhāraṇaṃ vasu ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?], numerals not legible.) In such Ṛks *tujaḥ* means *śatrūṇāṃ bādhakam* — "one who injures enemies" — an epithet of the son (as printed, [?]).
+
+> ज्योतिर्यज्ञाय रोदसी अनु ष्यादारे स्याम दुरितस्य भूरेः ।
+> भूरि चिद्धि तुजतो मर्त्यस्य सुपारासो वसवो बर्हणावत् ॥
+
+> *jyotiryajñāya rodasī anu ṣyādāre syāma duritasya bhūreḥ |*
+> *bhūri ciddhi tujato martyasya supārāso vasavo barhaṇāvat ‖*
+
+(Ṛ. Saṃ. [?]-[?]-[?].) In such Ṛks *tujataḥ* means: for the sacrificer who gives abundantly, "who bestows abundant wealth" is the sense. In the present Ṛk too, the word *tujaḥ*, in the sense of giving, is an epithet of the cows that give milk and the like.
+
+**ऋण्वथः** — from the root *riv* in the sense of motion, it means: "cause to reach, bring, make go".
+
+> पवमानो अभि स्पृधो विशो राजेव सीदति ।
+> यदीमृण्वन्ति वेधसः ॥
+
+> *pavamāno abhi spṛdho viśo rājeva sīdati |*
+> *yadīmṛṇvanti vedhasaḥ ‖*
+
+(Ṛ. Saṃ. 9-[?]-[?].) In such Ṛks *gamayati preṣayati* — "makes go" — is the sense; likewise in the present Ṛk the meaning is "you bring (the cows to their pen)".
+
+### Printed p. 500  (PDF 518)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+**निम्रुचः** — *mruc gatyarthaḥ*; *sūryasya nimrocane nitarāṃ gamane*, *sāyam ity arthaḥ*: the root *mruc*, meaning motion, joined with the prefix *ni*, means the final going (setting) of the sun, and so gives the sense "evening".
+
+> यदेद्य सूर्य उद्यति प्रियक्षत्रा ऋतं दध ।
+> यन्निम्रुचि प्रबुधि विश्ववेदसो यद्वा मध्यंदिने दिवि ॥
+
+> *yadedya sūrya udyati priyakṣatrā ṛtaṃ dadha |*
+> *yannimruci prabudhi viśvavedaso yadvā madhyaṃdine divi ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].)
+
+> श्रद्धां प्रातर्हवामहे श्रद्धां मध्यंदिनं परि ।
+> श्रद्धां सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेह नः ॥
+
+> *śraddhāṃ prātarhavāmahe śraddhāṃ madhyaṃdinaṃ pari |*
+> *śraddhāṃ sūryasya nimruci śraddhe śraddhāpayeha naḥ ‖*
+
+(Ṛ. Saṃ. 10-151-5 [?].) In these Ṛks *asta-maya-velāyām*, *sāyaṃ samaye*, "at sunset time, in the evening hour," is the sense; so also in the present Ṛk.
+
+*(Correction to pp. 497–498: the word I read there as "तक्वनीः [?]" is *takvavīḥ* — so written in the commentary and grammar on pp. 500–501 — i.e. Saṃhitā "तक्ववीरिव".)*
+
+**तक्ववीः** — *taitpuḥ* (?), *takvā* etc. are read among the names of the thief (Ni. 3-18 [?]); the word *takvan* means a thief. *Tasya vetā gantā manuṣyaḥ* — the man who goes seeking such a thief.
+
+> त्वां त्सारी दसमानो भगमीट्टे तक्ववीये ।
+
+> *tvāṃ tsārī dasamāno bhagamīṭṭe takvavīye |*
+
+(Ṛ. Saṃ. 1-[?]-[?], numerals not legible; as printed, reading uncertain.) Here, as *taskarāṇāṃ gamanam*, so in the present Ṛk *taskarān uddiśyāgamanam* — "going in pursuit of thieves" — is the sense.
+
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar pages 500–501, noted briefly).** *mahī atra* (the locative sg.: *supāṃ sulug* (Pā. Sū. 7-1-39) *luk*; then *īdūdeddvivacanaṃ pragṛhyam* (Pā. Sū. 1-1-11) *pragṛhya*, so *plutapragṛhyā aci nityam* (Pā. Sū. 6-1-125) no *sandhi*); *mahinā* (since *mah* is read among the *pṛthvādi* words, *pṛthvādibhya imanij vā* (Pā. Sū. 5-1-122) *imanic* in the sense "its state"; *ṭeḥ* loss of the *ṭi*; *cit* (Pā. Sū. 6-1-163) final *udātta*; in the instr. sg. *ā* … the *ā*-loss, lengthening-reversal; in Vedic, loss of the *m*) — [continued on the next page].
+
+### Printed p. 501  (PDF 519)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+*(Grammar page continued, noted briefly.)* *ṛṇvathaḥ* (root *riv gatau*; *idito num dhātoḥ* (Pā. Sū. 7-1-58) *num* augment; *vyatyaya*, *samprasāraṇa*; *laṭ* 2nd dual; *tiṅ*: *nighāta*; the *ṇic* sense of "causing" (*prayojaka-vyāpāra*) is included in the root); *areṇavaḥ* (*reṇuḥ yeṣāṃ te areṇavaḥ*; *nañ subhyām* (Pā. Sū. 6-2-172) final *udātta*; nominative pl.); *tujaḥ* (root *tuja dānārthe*, used causally; *kvip ca* (Pā. Sū. 3-2-76) *kvip*; nominative pl.); *sadman* (*supāṃ sulug* (Pā. Sū. 7-1-39) *luk* for the locative; *upasargaśruteḥ* "gacchanti" must be supplied); *svaranti* (root *svṛ śabdopatāpayoḥ*; *bhvādi*; *laṭ* 3rd pl.; no *nighāta* since at the head of the *pāda*; *tāsyanudāttet* (Pā. Sū. 6-1-186) — *lasārvadhātuka* *anudātta*, so the root accent remains); *uparatāti* (*supāṃ sulug* (Pā. Sū. 7-1-39); locative); *nimrucaḥ* (root *mruc gatau*, *bhvādi*; *kvip ca* — *kvip*; *kṛdutarapada* with the stem accent); *takvavīḥ* (*takvaṃ stenaṃ veti gacchati iti takvavīḥ*; the root *vī* with *kvip*, as before, *kṛdutarapada* stem accent). ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आ वामृताय केशिनीरनूषत मित्र यत्र वरुण गातुमर्चथः ।
+> अव त्मना सृजतं पिन्वतं धियो युवं विप्रस्य मन्मनामिरज्यथः ॥ ६ ॥
+
+> *ā vāmṛtāya keśinīranūṣata mitra yatra varuṇa gātumarcathaḥ |*
+> *ava tmanā sṛjataṃ pinvataṃ dhiyo yuvaṃ viprasya manmanāmirajyathaḥ ‖ 6 ‖*
+
+### Printed p. 502  (PDF 520)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+**॥ पदपाठः ॥**
+
+> आ । वाम् । ऋताय । केशिनीः । अनूषत । मित्र । यत्र । वरुण । गातुम् । अर्चथः ।
+> अव । त्मना । सृजतम् । पिन्वतम् । धियः । युवम् । विप्रस्य । मन्मनाम् । इरज्यथः ॥ ६ ॥
+
+> *ā | vām | ṛtāya | keśinīḥ | anūṣata | mitra | yatra | varuṇa | gātum | arcathaḥ |*
+> *ava | tmanā | sṛjatam | pinvatam | dhiyaḥ | yuvam | viprasya | manmanām | irajyathaḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: O Mitra-Varuṇa, flames of Agni honour you at the sacrifice; as you accept the sacrificial ground, of your own accord send rain and prosper our rites, for you are masters of the praises of the wise sacrificer. Small type, read with doubt.)*
+
+> हे मित्रावरुणौ केशिनीः केशवत्योऽग्नेर्ज्वाला वां युवामृताय यज्ञार्थमानूषत । हविःसमर्पणेनाभिपूजयन्तीत्यर्थः । कुत्रेति तदुच्यते । हे मित्र हे वरुण युवामुभौ यत्र यागे गातुं गमनं देवयजनदेशं वा । गातुरिति पृथिवीनाम गातुः पूषेत्यक्षत्वात् [?] । अर्चथः पूजयथः । स्वीकुरुथ इत्यर्थः । आगत्य च तैः त्मनात्मनैवाव सृजतं वृष्टिमवाजुखं [?] विसृजतम् । तथा कृत्वा धियः कर्माणि पिन्वतं वर्धयतमित्यर्थः । एवं कृत्वा विप्रस्य मेधाविनो यजमानस्य मन्मनां मननवतीनां स्तुतीनां युवं युवमिरज्यथः । ईश्वरौ स्वामिनौ भवथः । इरज्यतिरैश्वर्यकर्मा इरज्यति पत्यते इति तन्नामसूक्तत्वात् ॥
+
+> *he mitrāvaruṇau keśinīḥ keśavatyo 'gnerjvālā vāṃ yuvāmṛtāya yajñārthamānūṣata | haviḥsamarpaṇenābhipūjayantītyarthaḥ | kutreti taducyate | he mitra he varuṇa yuvāmubhau yatra yāge gātuṃ gamanaṃ devayajanadeśaṃ vā | gāturiti pṛthivīnāma gātuḥ pūṣetyakṣatvāt [?] | arcathaḥ pūjayathaḥ | svīkurutha ityarthaḥ | āgatya ca taiḥ tmanātmanaivāva sṛjataṃ vṛṣṭimavājukhaṃ [?] visṛjatam | tathā kṛtvā dhiyaḥ karmāṇi pinvataṃ vardhayatamityarthaḥ | evaṃ kṛtvā viprasya medhāvino yajamānasya manmanāṃ mananavatīnāṃ stutīnāṃ yuvaṃ yuvamirajyathaḥ | īśvarau svāminau bhavathaḥ | irajyatiraiśvaryakarmā irajyati patyate iti tannāmasūktatvāt ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *mitra* — O Mitra; *varuṇa* — O Varuṇa, (both of you); *yatra* — in which sacrifice; *gātum* — (your) coming or the sacrificial ground; *arcathaḥ* — you accept and honour, (there); *keśinīḥ* — the hair-like flames of fire; *vām* — you two; *ṛtāya* — for the sake of the sacrifice; *ā anūṣata* — serve (by offering the oblation); (you, coming,) *tmanā* — of your own accord; *ava sṛjatam* — cause (the rain) to pour down; *dhiyaḥ* — our rites; *pinvatam* — cause to prosper, (for) *yuvam* — you both; *viprasya* — of the wise sacrificer; *manmanām* — of the reverent praises; *irajyathaḥ* — are the lords.
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, at whatever sacrifice you adorn and honour the sacrificial ground by your coming, there the hair-like flames of Agni serve you both with oblations and the like. Graciously, of your own accord, send down the rain that benefits us and make our rites prosper; for you are lords of the reverent praises of the wise sacrificer.
+
+### Printed p. 503  (PDF 521)
+
+*(Header: "A. 2 A. 2 Va. 31" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+**English Translation (as printed).** The tresses of Agni minister, Mitra and Varuna, to your sacrifice, when you honour (with your presence) the sacrificial chamber: send down of your own accord (the rain) and prosper our offerings, for you have command over the praises of the pious men.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **गातुम्** — *gamanaṃ devayajanadeśaṃ vā*: "the coming (of Mitra and Varuṇa) or the sacrificial ground" — two meanings are given. Even when it means "going", two kinds of sense are possible: "the path of observance (*anuṣṭhāna*)" or "the path to the world of the gods". Like the word *sugam*, this word too has physical and moral meanings.
+
+> ऊर्ध्वो वां गातुरध्वरे अकारि ऊर्ध्वा शोचींषि प्रस्थिता रजांसि ।
+> दिवो वा नाभा न्यसादि होता स्तृणीमहि देवव्यचा वि बर्हिः ॥
+
+> *ūrdhvo vāṃ gāturadhvare akāri ūrdhvā śocīṃṣi prasthitā rajāṃsi |*
+> *divo vā nābhā nyasādi hotā stṛṇīmahi devavyacā vi barhiḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In such Ṛks it is meant as "path", and:
+
+> आर्यमा नो अदितिर्यज्ञियासो अद्रेबाद्र [?] देव्यानि वरुणस्य व्रतानि ।
+> युयोत नो अनपत्यानि गन्तोः प्रजावान्नः पशुमाँ अस्तु गातुः ॥
+
+> *āryamā no aditiryajñiyāso adrebādra [?] devyāni varuṇasya vratāni |*
+> *yuyota no anapatyāni gantoḥ prajāvānnaḥ paśumā~ astu gātuḥ ‖*
+
+(Ṛ. Saṃ. 3-[?]-[?].) In such passages *stuvantīndrādīn atreti gātur gṛham* — "the house in which Indra and other gods are praised" — is the meaning, a house;
+
+> न्यैष्टै [?] देवी स्थिबिर्जहेते इन्द्राय गातुरितीव येमे ।
+> सं यदोजो युवते विश्वमाभिरनु स्वधाव्ने क्षितयो नमन्ते ॥
+
+> *nyaiṣṭai [?] devī sthibirjahete indrāya gāturitīva yeme |*
+> *saṃ yadojo yuvate viśvamābhiranu svadhāvne kṣitayo namante ‖*
+
+(Ṛ. Saṃ. 5-32-10 [?].) In such passages, "the earth" (the word *gātu* is read among the names of the earth, Ni. 1-3 [?]):
+
+> स ते जानाति सुमतिं यविष्ठ य ईवते ब्रह्मणे गातुमैरत् ।
+> विश्वान्यस्मै सुदिनानि रायो द्युम्नान्यर्यो वि दुरो अभि द्यौत् ॥
+
+> *sa te jānāti sumatiṃ yaviṣṭha ya īvate brahmaṇe gātumairat |*
+> *viśvānyasmai sudināni rāyo dyumnānyaryo vi duro abhi dyaut ‖*
+
+(Ṛ. Saṃ. 4-[?]-[?].) Here *gīyate uccāryate iti gātuḥ — stotram*: the word is used as a synonym of "praise-song". In the present Ṛk the meaning is given as a synonymous pair: "going or the sacrificial ground".
+
+### Printed p. 504  (PDF 522)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 151".)*
+
+**इरज्यथः** — the word *irajyati* is read among the names of acts of lordship (Ni. 2-11 [?]) and also among the names of acts of service (Ni. 3-[?]); but the use of the word in the first sense is the commoner.
+
+> इरज्यन्नग्ने प्रथयस्व जन्तुभिरस्मे रायो अमर्त्य ।
+> स दर्शतस्य वपुषो वि राजसि पृणक्षि सानसिं क्रतुम् ॥
+
+> *irajyannagne prathayasva jantubhirasme rāyo amartya |*
+> *sa darśatasya vapuṣo vi rājasi pṛṇakṣi sānasiṃ kratum ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) In explaining the meaning of the word *irajyan* in this Ṛk, first, from the root *iraj* in the sense of jealousy, *īrṣyan* = *spardhāṃ kurvan* — "vying with other powers and splendours you shine" — is one meaning; second, *yadvā irajyatir aiśvaryakarmā jantubhir jāyamānair ātmaiśvaryo…* [text partly legible] *irajyan īśvaro bhavan* — "being lord of all creatures by your own splendour" — is explained. Likewise:
+
+> यस्य श्वेता विचक्षणा तिस्रो भूमीरधिक्षितः ।
+> त्रिरुत्तराणि पप्रुवर्वरुणस्य ध्रुवं सदः स सप्तानामिरज्यति नभन्तामन्यके समे ॥
+
+> *yasya śvetā vicakṣaṇā tisro bhūmīradhikṣitaḥ |*
+> *triruttarāṇi papruvarvaruṇasya dhruvaṃ sadaḥ sa saptānāmirajyati nabhantāmanyake same ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In such Ṛks too *irajyati* means *īśvaro bhavati*, "is lord"; likewise in the present Ṛk Mitra and Varuṇa are described as lords of all the hymns of praise and of the praisers.
+
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar pages 504–505, noted briefly).** *keśinīḥ* (*keśā āsāṃ santīti keśinyaḥ*; here with *jas* following, *supāṃ sulug* (Pā. Sū. 7-1-39) *pūrvasavarṇa* lengthening); *ānūṣata* (root *ṇu stutau*; *vyatyayo bahulam* — *ātmanepada*; in Vedic, *luṅ*; *ru*-suffix: *āt* substitution; *cli* → *sic*; *gāṅkuṭādibhyo 'ñṇin ṅit* (Pā. Sū. 1-2-1) it becomes *ṅit*, so no *guṇa*; in Vedic the root takes long and *iṭ*; *tiṅ*: *nighāta*); *gātum* (root *gai śabde*; *kamimanijani…* (Uṇ. Sū. 1-[?]) *tu* suffix; *ādeca upadeśe 'śiti* (Pā. Sū. 6-1-45) *ā* for the root's final; suffix accent: final *udātta*; accusative sg.; *gātuḥ*, *pūṣā* (Nir. 1-1-[?]) is read among the names of the earth).
+
+---
+
+**Progress note:** Sūkta 151 in progress: Ṛk 5 complete; Ṛk 6 under way (printed pp. 499–504, PDF 517–522; Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar begins on p. 504 and continues). Next: printed p. 505 (PDF 523). Correction noted: Ṛk 5 word is *takvavīḥ* (not *takvanīḥ*). Open flags: small-type bhāṣya partly unread (p. 502 etc.); Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
