@@ -1230,43 +1230,43 @@ Here *ṛta* may be said to mean "that which has an eternal state", and *anṛta
 
 In these Ṛks the sun, rising at the "face" of *ṛta* (in the sky), shines most beautifully; and in
 
-> परि श्रिता पितरा पूर्वजावरी ऋतस्य योना क्षयतः समोकसा [?] ।
-> द्यावापृथिवी वरुणाय सव्रते घृतवत्पयो महिषाय पिन्वतः [?] ॥
+> परिक्षिता पितरा पूर्वजावरी ऋतस्य योना क्षयतः समोकसा ।
+> द्यावापृथिवी वरुणाय सव्रते घृतवत्पयो महिषाय पिन्वतः ॥
 
-> *pari śritā pitarā pūrvajāvarī ṛtasya yonā kṣayataḥ samokasā [?] |*
-> *dyāvāpṛthivī varuṇāya savrate ghṛtavatpayo mahiṣāya pinvataḥ [?] ‖*
+> *parikṣitā pitarā pūrvajāvarī ṛtasya yonā kṣayataḥ samokasā |*
+> *dyāvāpṛthivī varuṇāya savrate ghṛtavatpayo mahiṣāya pinvataḥ ‖*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) it is described that the sun moves in the middle, the "womb" of *ṛta*, looking upon heaven and earth. Likewise in Ṛ. Saṃ. 1-164-[?], 10-[?]-[?] and others, the sun is described as shining in the region of *ṛta*. Therefore in this Ṛk *ṛtāt* means "from the sun in the orb of *ṛta*".
+(Ṛ. Saṃ. 10-65-8) it is described that the sun moves in the middle, the "womb" of *ṛta*, looking upon heaven and earth. Likewise in Ṛ. Saṃ. 1-164-47, 10-123-2 and others, the sun is described as shining in the region of *ṛta*. Therefore in this Ṛk *ṛtāt* means "from the sun in the orb of *ṛta*".
 
-But that *anṛta* here is an epithet of water is a point worth some thought. The word *ṛta* is read among the names of water in the Nirukta (Ni. [?]-[?]); in the Ṛksaṃhitā too, in about twenty Ṛks, *ṛta* means water. So how does *anṛta* come to mean water here? If *ṛta* is taken as "truth", the view of some philosophers that water is the first principle of the universe is understood as "water, which is of the nature of truth". In the Nirukta the words *ṛtam*, *yoniḥ*, *ṛtasya yoniḥ*, *satyam*, *nīram* are all put together among the names of water. And water, whose nature is to sink away in streams and the like, is impermanent and so momentary in its form of truth. Therefore Sāyaṇa explains *anṛtaṃ naśvaraṃ śoṣaṇasvabhāvam*. The sense is: Mitra and Varuṇa, taking the water, here called *anṛta*, from the sun, here called *ṛta*, poured it on the world.
+But that *anṛta* here is an epithet of water is a point worth some thought. The word *ṛta* is read among the names of water in the Nirukta (Ni. 2-24); in the Ṛksaṃhitā too, in about twenty Ṛks, *ṛta* means water. So how does *anṛta* come to mean water here? If *ṛta* is taken as "truth", the view of some philosophers that water is the first principle of the universe is understood as "water, which is of the nature of truth". In the Nirukta the words *ṛtam*, *yoniḥ*, *ṛtasya yoniḥ*, *satyam*, *nīram* are all put together among the names of water. And water, whose nature is to sink away in streams and the like, is impermanent and so momentary in its form of truth. Therefore Sāyaṇa explains *anṛtaṃ naśvaraṃ śoṣaṇasvabhāvam*. The sense is: Mitra and Varuṇa, taking the water, here called *anṛta*, from the sun, here called *ṛta*, poured it on the world.
 
-***manyunā.*** The word *manyu* is used in the Ṛksaṃhitā in two or three senses. In the Nirukta the word is explained: *manyur manyater dīptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā* (Ni. 10-[?]) — from the root *man* meaning shining, or being angry, or smiting. Here *svena manyunā* means "by their own radiance, by their own power".
+***manyunā.*** The word *manyu* is used in the Ṛksaṃhitā in two or three senses. In the Nirukta the word is explained: *manyur manyater dīptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā* (Ni. 10-30) — from the root *man* meaning shining, or being angry, or smiting. Here *svena manyunā* means "by their own radiance, by their own power".
 
-> वर्धयेतामोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू [?] ।
-> चित्रेभिरभ्रैरुप तिष्ठथो रवं द्यां वर्षयथो असुरस्य मायया [?] ।
+> वर्धयेतामोषधीः पिन्वतं गा अव वृष्टिं सृजतं जीरदानू ।
+> चित्रेभिरभ्रैरुप तिष्ठथो रवं द्यां वर्षयथो असुरस्य मायया ।
 
-> *vardhayetāmoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū [?] |*
-> *citrebhirabhrairupa tiṣṭhatho ravaṃ dyāṃ varṣayatho asurasya māyayā [?] |*
+> *vardhayetāmoṣadhīḥ pinvataṃ gā ava vṛṣṭiṃ sṛjataṃ jīradānū |*
+> *citrebhirabhrairupa tiṣṭhatho ravaṃ dyāṃ varṣayatho asurasya māyayā |*
 
-(Ṛ. Saṃ. 5-[?]-[?] [?]) (continued on p. 47).
+(Ṛ. Saṃ. 5-63-3; the first of the two printed refs reads 5-62-3 [?]) (continued on p. 47).
 
 ### Printed p. 47  (PDF 65)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
 …As described in such Ṛks, Mitra and Varuṇa pour water from the sky; it is said that the raining of rain is possible only by their power.
 
-***dakṣasya.*** *Samarthasya* — "of the capable"; the sense is "by his power of protection". Since *dakṣa* is read among the names of strength (Ni. 2-[?]), the meaning is given thus. Or:
+***dakṣasya.*** *Samarthasya* — "of the capable"; the sense is "by his power of protection". Since *dakṣa* is read among the names of strength (Ni. 3-9 [?]), the meaning is given thus. Or:
 
-> दक्षस्य वादि [?] जन्मनि व्रते राजाना मित्रावरुणा विवाससि [?] ।
+> दक्षस्य वादितेः जन्मनि व्रते राजाना मित्रावरुणा विवाससि ।
 
-> *dakṣasya vādi [?] janmani vrate rājānā mitrāvaruṇā vivāsasi [?] |*
+> *dakṣasya vāditeḥ janmani vrate rājānā mitrāvaruṇā vivāsasi |*
 
-(Ṛ. Saṃ. 10-[?]-[?] [?]) as said in this Ṛk, Dakṣa's power also abides in Mitra and Varuṇa; since this is proper, it may also be taken as "by the *manyu* related to Dakṣa".
+(Ṛ. Saṃ. 10-64-5) as said in this Ṛk, Dakṣa's power also abides in Mitra and Varuṇa; since this is proper, it may also be taken as "by the *manyu* related to Dakṣa".
 
 ***hiraṇyayam.*** *Hiraṇyarūpam* — "having a golden form".
 
-**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ādadāthe* (root *dudhāñ dāne*; *liṭ* second person dual, *āthām*; reduplication; as *yat* precedes and is connected, *nighāta* is barred by *nipātair yad yadi…* (Pā. Sū. 8-1-[?]); the suffix takes the first-syllable accent), *itthā* (*idamas thamu* (Pā. Sū. 5-3-[?]), in the sense of manner; the case-ending replaced by *supāṃ sulukpūrva…* (Pā. Sū. 7-1-[?]) with *ḍāc*/*ṭi*-loss; *antodāttaś ca yatrodāttalopaḥ* [?] (Pā. Sū. 6-1-[?])), *sadmasu* (root *sad*, "going, sitting, perishing"; *manin* by *anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-[?]); *nit*, first-syllable accent), *apaśyāma* (root *dṛśir prekṣaṇe*; Vedic *laṅ* first person plural; first-syllable accent), *yuvoḥ* (*yuvayoḥ*, the *y* dropped by Vedic usage), *hiraṇyayam* (*mayaṭ* in the sense of "made of"; the *ṭ* of *mayaṭ* is lost by *ṛtyakaḥ*…/*nityaṃ vṛddhaśaradibhyaḥ* [?] (Pā. Sū. 6-[?]-[?]) by *nipātana*), *dhībhiḥ* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?]): the case-ending takes the *udātta*). Sūtra numbers not read.
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ādadāthe* (root *dudhāñ dāne*; *liṭ* second person dual, *āthām*; reduplication; as *yat* precedes and is connected, *nighāta* is barred by *nipātair yad yadi…* (Pā. Sū. 8-1-30); the suffix takes the first-syllable accent), *itthā* (*idamas thamu* (Pā. Sū. 5-3-24), in the sense of manner; the case-ending replaced by *supāṃ sulukpūrva…* (Pā. Sū. 7-1-[?]) with *ḍāc*/*ṭi*-loss; *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-161)), *sadmasu* (root *sad*, "going, sitting, perishing"; *manin* by *anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75); *nit*, first-syllable accent), *apaśyāma* (root *dṛśir prekṣaṇe*; Vedic *laṅ* first person plural; first-syllable accent), *yuvoḥ* (*yuvayoḥ*, the *y* dropped by Vedic usage), *hiraṇyayam* (*mayaṭ* in the sense of "made of"; the *ṭ* of *mayaṭ* is lost by *ṛtvyavāstvyavāstva…* (Pā. Sū. 6-4-175) by *nipātana*), *dhībhiḥ* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168): the case-ending takes the *udātta*). Sūtra numbers not read.
 
 ---
 

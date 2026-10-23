@@ -21,3 +21,5 @@
 2026-10-23 16:39 PDF 61-61: remaining [?] EN 2, KN 1. after: 13 cleared; whole bhāṣya now read (was partial, '…' gaps); 1 doubtful word
 2026-10-23 16:40 PDF 62-62: remaining [?] EN 1, KN 1. after: 2 cleared; 3 Pratipadārtha glosses corrected (manyunā 'mananīya'); Pīṭhike Part '9 [?]'
 2026-10-23 16:41 PDF 63-63: remaining [?] EN 2, KN 1. after: 24 cleared; verse 'agnir gāndharvīṃ…' corrected; Ṛg 9-… → 4-5-9
+2026-10-23 16:42 PDF 64-64: remaining [?] EN 1, KN 0. after: 34 cleared (1 doubtful ref kept); verse 'parikṣitā' corrected
+2026-10-23 16:42 PDF 65-65: remaining [?] EN 2, KN 1. after: 33 cleared
