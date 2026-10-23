@@ -14689,4 +14689,159 @@ In this way, the mere praise that reflects the very principle of the universe, t
 
 ---
 
-**Progress note:** Sūkta 153 in progress: Ṛk 2 and Ṛk 3 complete (printed pp. 553–558, PDF 571–576); Ṛk 4 (the last Ṛk of the sūkta) begins on p. 559 (PDF 577). Next: printed p. 559 (PDF 577). Open flags: Upaniṣad/Brāhmaṇa quotations on pp. 549–554 transcribed at low confidence (many `[?]`); small-type bhāṣya partly unread; reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 559  (PDF 577)
+
+*(Header: "A. 2 A. 2 Va. 34" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> उत वां विक्षु मद्यास्वन्धो गावो आपश्च पीपयन्त देवीः ।
+> उतो नो अस्य पूर्व्यः पतिर्दन्वीतं पातं पयस उस्रियायाः ॥ ४ ॥
+
+> *uta vāṃ vikṣu madyāsvandho gāvo āpaśca pīpayanta devīḥ |*
+> *uto no asya pūrvyaḥ patirdanvītaṃ pātaṃ payasa usriyāyāḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत । वाम् । विक्षु । मद्यासु । अन्धः । गावः । आपः । च । पीपयन्त । देवीः ।
+> उतो इति । नः । अस्य । पूर्व्यः । पतिः । दन् । वीतम् । पातम् । पयसः । उस्रियायाः ॥ ४ ॥
+
+> *uta | vām | vikṣu | madyāsu | andhaḥ | gāvaḥ | āpaḥ | ca | pīpayanta | devīḥ |*
+> *uto iti | naḥ | asya | pūrvyaḥ | patiḥ | dan | vītam | pātam | payasaḥ | usriyāyāḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: may the shining cows and waters fill the sacrificers, and may Agni, ancient guardian of the rite, give oblation; Mitra-Varuṇa, eat the cakes and drink the milk of the cow. Small type, read with doubt.)*
+
+> उतापि च हे मित्रावरुणौ वां युवामुद्दिश्य देवीः देव्यो द्योतनशीला गावः आपश्च प्रीणादिप्रवर्धकान्युकानि च [?] मद्यासु युष्माभिर्देयासु [?] विक्षु प्रजासु यजमानलक्षणासु तासामभिवृद्ध्यर्थं पीपयन्ते । आप्याययन्तु । अथ च नोऽस्मत्संबन्धिनोऽस्य यज्ञस्य पूर्व्यः पूर्वकालीनः पतिः पालकोऽग्निर्दन् दाता भवत्विति शेषः । अग्नौ हूयमानत्वात्प्रतानां [?] हविषामपि हविषां [?] । यस्मादेवं तस्माद्धे मित्रावरुणौ वीतं भक्षयतं पुरोडाशादिकम् । उस्रियायाः क्षीरं द्योत्स्वि [?]स्मै गोः पयसः पयः पातम् । यद्वा । घनीभूतं पयस्यायां [?] वीतं स्रवद्रूपं पातम् ॥
+
+> *utāpi ca he mitrāvaruṇau vāṃ yuvāmuddiśya devīḥ devyo dyotanaśīlā gāvaḥ āpaśca prīṇādipravardhakānyukāni ca [?] madyāsu yuṣmābhirdeyāsu [?] vikṣu prajāsu yajamānalakṣaṇāsu tāsāmabhivṛddhyarthaṃ pīpayante | āpyāyayantu | atha ca no 'smatsaṃbandhino 'sya yajñasya pūrvyaḥ pūrvakālīnaḥ patiḥ pālako 'gnirdan dātā bhavatviti śeṣaḥ | agnau hūyamānatvātpratānāṃ [?] haviṣāmapi haviṣāṃ [?] | yasmādevaṃ tasmāddhe mitrāvaruṇau vītaṃ bhakṣayataṃ puroḍāśādikam | usriyāyāḥ kṣīraṃ dyotsvi [?]smai goḥ payasaḥ payaḥ pātam | yadvā | ghanībhūtaṃ payasyāyāṃ [?] vītaṃ sravadrūpaṃ pātam ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *uta* — (O Mitra-Varuṇa), and moreover; *devīḥ* — shining; *gāvaḥ* — cows; *āpaḥ ca* — and the waters too; *madyāsu* — for the growth of those that gladden (you); *vikṣu* — the people who are sacrificers; *andhaḥ* — with food fit to be eaten; *vām* — you two; *pīpayanta* — let them fill; *uto* — moreover; *naḥ* — our; *asya* — of this sacrifice; *pūrvyaḥ* — the ancient one; *patiḥ* — the protector, Agni; *dan* — let him be the giver (of the oblation); *vītam* — eat (the cakes and the like); *usriyāyāḥ* — of the cow that yields milk; *payasaḥ* — the milk; *pātam* — drink.
+
+---
+
+### Printed p. 560  (PDF 578)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+**भावार्थः (Bhāvārtha).** O Mitra and Varuṇa, may the shining cows and the waters fill you two with food fit to be eaten, for the growth of the people, the sacrificers, who gladden you. And may Agni, the ancient guardian of this our sacrifice, be the giver of the oblation; eat the cakes and the like; and drink the milk of the cow.
+
+**English Translation (as printed).** May the devine [sic] cows, and the waters, supply you with (sacrificial) food, for the prosperity of the people whom you favour; or may (Agni) the former protector of this (our patron), be the donor (of the oblation): eat (of the butter and curds), drink of the milk of the cows.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** **देवीः** — *dyotanaśīlāḥ*: "shining." *Devo dānād vā, dyotanād vā, dyusthāno bhavatīti vā* — the *Nirukta*-author's derivation of this word: from a root meaning "to give", or "to shine", or because he is "in the heavens", the word *deva* arises (Ni. 7-15 [?]). When it is an epithet of Agni and the other gods all these meanings fit; for cows, giving abundant milk suits the meaning "giving", or "shining". Sāyaṇa explains it as "shining".
+
+**विक्षु** — *prajāsu yajamānalakṣaṇāsu*: for the people who are sacrificers. This word is read among the names of men in the *Nirukta* (Ni. 2-7 [?]).
+
+**पीपयन्त** — *āpyāyayantu*: first let food grow abundantly, and then let satisfaction increase from it — so it is wished. The word has the two meanings growth and joy, as was said in the special topics of the previous Ṛk.
+
+**अन्धः** — *andhaḥ*, *nājaḥ* etc. are read among the names of food (Ni. 2-7); *andha ity annanāmādhyānīyaṃ bhavati; ādhyānīyaṃ pradhyānīyam* — "it is to be looked upon, to be contemplated"; because of the extreme necessity of food, the name *andhaḥ* for food [as printed; the explanation is that of the *Nirukta*-author, Ni. 3-1]:
+
+> अध्वर्यवो भरतेन्द्राय सोमं मामत्रेभिः सिञ्चता मद्यमन्धः ।
+> कामी हि वीरः सदमस्य पीतिं जुहोत वृष्णे तदिदेष वष्टि ॥
+
+> *adhvaryavo bharatendrāya somaṃ māmatrebhiḥ siñcatā madyamandhaḥ |*
+> *kāmī hi vīraḥ sadamasya pītiṃ juhota vṛṣṇe tadideṣa vaṣṭi ‖*
+
+(Ṛ. Saṃ. 2-14-1.)
+
+---
+
+### Printed p. 561  (PDF 579)
+
+*(Header: "A. 2 A. 2 Va. 35" as printed, [?]; "Ṛgvedasaṃhitā".)*
+
+Quoting this Ṛk, he explains the word *andhaḥ* there as above. *Tamo 'ndham ucyate nāsmin dhyānaṃ bhavati*: "darkness is called *andha*, since in it concentration is not possible", and so darkness also has the name *andha*; and quoting
+
+> स्त्रियः सतीस्ताँ उ मे पुंस आहुः पश्यदक्षण्वान्न वि चेतदन्धः ।
+> कविर्यः पुत्रः स ईमा चिकेत यस्ता विजानात्स पितुष्पिता सत् ॥
+
+> *striyaḥ satīstā~ u me puṃsa āhuḥ paśyadakṣaṇvānna vi cetadandhaḥ |*
+> *kaviryaḥ putraḥ sa īmā ciketa yastā vijānātsa pituṣpitā sat ‖*
+
+(Ṛ. Saṃ. 1-164-16.) he shows that *andhaḥ* there means "darkness". In the present Ṛk Sāyaṇa explains *payorūpaṃ puroḍāśādirūpaṃ vā*: "food in the form of milk, or in the form of *puroḍāśa* cakes".
+
+**पूर्व्यः** — this word is read among the names of the ancient (Ni. 3-28 [?]).
+
+> लोकादिमग्निं तमुवाच तस्मै या इष्टका यावतीर्वा यथा वा ।
+
+> *lokādimagniṃ tamuvāca tasmai yā iṣṭakā yāvatīrvā yathā vā |*
+
+(Kaṭha-Upaniṣad 1-15.) Such scriptural statements praise Agni as the origin of the whole world; Śaṅkarācārya explains this as *lokānām ādiṃ prathamaśarīratvād agniṃ*: "the fire, the first body of all the worlds". This greatness of Agni is also told in the present Ṛk.
+
+**उस्रियायाः** — *ahnyā*, *usrā*, *usriyā* and the like are read among the names of the cow (Ni. 2-8 [?]): *usreti gonāma; usrāviphokṣyāṃ bhogāḥ* — since she flows with milk, a means of comfort, the name *usriyā* is well known, says the *Nirukta*-author, who explains the word, quoting this very Ṛk (Ni. 4-19 [?]).
+
+**Vyākaraṇa-prakriyā (Ṛk 4; grammar pages 561–562, noted briefly).** *vikṣu* (*viś* word; locative pl. *supi*; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) the case ending is *udātta*); *madyāsu* (root *mada tṛptiyoge*; *gadamadacarayamaś cānupasarge* (Pā. Sū. 3-1-100) *yat*; *yato 'nāvaḥ* (Pā. Sū. 6-1-213) first *udātta*; in the feminine *ṭāp*); *pīpayanta* (root *oyāi vṛddhau*; *hetumati ca* (Pā. Sū. 3-1-26) *ṇic*; in the Veda *pībhāva*; *chandasi luṅlaṅliṭaḥ* — *luṅ* in the sense of *loṭ* after *ṇijanta*;
+
+---
+
+### Printed p. 562  (PDF 580)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 153".)*
+
+*(Grammar, concluded; noted briefly.)* … the plural ending *jhi*, *ātmanepada* (*anta*) [*pīpayanta* as printed]; *ṇiśridruśrubhyaḥ kartari caṅ* (Pā. Sū. 3-1-48) *caṅ* in place of *cli*; *caṅ* doubling of the root; *bahulaṃ chandasy māṅyoge 'pi* — no *aḍāgama*; at the end of the *pāda* [as printed], *nighāta* since after an *atiṅanta*); *devīḥ* (with *jas* following, *supāṃ sulug* (Pā. Sū. 7-1-39) lengthening of the earlier [vowel]); *pūrvyaḥ* (*pūrve bhavaḥ pūrvyaḥ*; *pūrvaiḥ kṛtam inayau ca* (Pā. Sū. 4-4-133) *ya* suffix; *yasyeti ca* (Pā. Sū. 6-4-148) loss of the *a*; suffix accent: final *udātta*); *dan* (root *ḍudāñ dāne*; *laṭ* in the Veda, replaced by *śatṛ*; *bahulaṃ chandasi* (Pā. Sū. 2-4-73) *luk* of the *vikaraṇa* (*ślu*); the suffix being *jit*, *ā-lopa* by *āto lopa iṭi ca* (Pā. Sū. 6-4-64) loss of the *ā*; suffix first *udātta*); *vītam* (root *vī gatyādiṣu*; *adādi*; here in the sense of eating; *loṭ* 2nd dual, giving *vītam*; at the head of the *pāda*, no *nighāta*; suffix accent: final *udātta*); *pātam* (root *pā pāne*; *loṭ* 2nd dual, *tam* substitution; *bahulaṃ chandasi*: *śap* → *luk*; *pibādeśa* does not occur; since after an *atiṅanta*, no *nighāta* [as printed]; as before, final *udātta* by the suffix accent); *usriyāyāḥ* (*vasantīti usriyāḥ; vasa nivāse*; *riyak* suffix in the agent sense; in the Veda no *vatva*; being *kit*, *saṃprasāraṇa* [of *v*] giving *u*, with *pūrvarūpa*; suffix accent: *i* is *udātta*; genitive sg.). ‖ 4 ‖
+
+*(Printed closing line:)* **Here ends the 153rd Sūkta.**
+
+---
+
+## Sūkta 154
+
+---
+
+### Printed p. 563  (PDF 581)
+
+*(Header: "A. 2 A. 2 Va. 35" as printed, [?]; "Ṛgvedasaṃhitā". The Kannada heading reads "The 154th Sūkta".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of six Ṛks beginning "Viṣṇor nu kam" is the fifteenth sūkta, of Dīrghatamas, Triṣṭubh, Viṣṇu deity; the Anukramaṇī says "viṣṇoḥ ṣaṭ traiṣṭubham ha"; this and the next sūkta are used in the *abhiplava-ṣaḍaha* and *ukthya* rites at the third pressing for increasing the *stoma*, by the Āśvalāyana Śrauta-sūtra passages cited; the first Ṛk is also used in the Agni-Māruta *śastra*.)*
+
+> विष्णोर्नु कमिति षडृचं पञ्चदशं सूक्तं दैर्घतमसं त्रैष्टुभं वैष्णवम् । अत्रानुक्रमणिका । विष्णोः षट् त्रैष्टुभं हेति ॥ अभिप्लवषडहेषूक्थ्येषु तृतीयसवने स्तोमवृद्ध्यर्थमिदमाद्यसूक्तद्वयं विनियुक्तम् । स्तोमे वर्धमान इति खण्डे सूत्रितम् । विष्णोर्नु कमिति सूक्ते सरो मात्रेत्येत्याच्छावाकः । आ. ६-९ [?] इति । तथा तृतीयसवने सोमातिरेके उत्तरोत्तरसंस्तोभं गन्तव्या [?] अतिरात्रात्ततोऽतिरिक्ते शस्त्रमुपजनयितव्यम् [?] । त्रैष्टुभे तदेव सूक्तं सोमातिरेके इति खण्डे सूत्रितम् । महा इन्द्रो नृवद्विष्णोर्नु कम् । आ. ६-७ [?] इति ॥ विष्णोर्नु कं वीर्याणि प्र वोचं तन्तुं तन्वन्रजसो भानुमन्विहि । आ. ५-३० [?] इति ॥ अथ यथेतमिति खण्डे सूत्रितम् [?] ॥
+
+> *viṣṇornu kamiti ṣaḍṛcaṃ pañcadaśaṃ sūktaṃ dairghatamasaṃ traiṣṭubhaṃ vaiṣṇavam | atrānukramaṇikā | viṣṇoḥ ṣaṭ traiṣṭubhaṃ heti ‖ abhiplavaṣaḍaheṣūkthyeṣu tṛtīyasavane stomavṛddhyarthamidamādyasūktadvayaṃ viniyuktam | stome vardhamāna iti khaṇḍe sūtritam | viṣṇornu kamiti sūkte saro mātretyetyācchāvākaḥ | ā. 6-9 [?] iti | tathā tṛtīyasavane somātireke uttarottarasaṃstobhaṃ gantavyā [?] atirātrāttato 'tirikte śastramupajanayitavyam [?] | traiṣṭubhe tadeva sūktaṃ somātireke iti khaṇḍe sūtritam | mahā indro nṛvadviṣṇornu kam | ā. 6-7 [?] iti ‖ viṣṇornu kaṃ vīryāṇi pra vocaṃ tantuṃ tanvanrajaso bhānumanvihi | ā. 5-30 [?] iti ‖ atha yathetamiti khaṇḍe sūtritam [?] ‖*
+
+**Anuvāda (Kannada).** The sūkta *viṣṇor nu kam* is the fifteenth sūkta in the twenty-first anuvāka. It has six Ṛks. The ṛṣi of this sūkta is Dīrghatamas, son of Ucathya. Viṣṇu is the deity. The metre is Triṣṭubh. In the Anukramaṇī it is said *viṣṇoḥ ṣaṭ traiṣṭubham ha*. When Ṛks are recited at the third pressing in the sacrifices called *abhiplava-ṣaḍaha* and *ukthya*, the priest named *acchāvāka* should recite this sūkta and the next one for the increase of the *stoma* (so the Āśvalāyana Śrauta-sūtra, in the section *stome vardhamāne*, by the sūtra *viṣṇor nu kam iti sūkte saro mātretyetyācchāvākāḥ*, Ā. 6-9 [?]). And that this sūkta has its use in the *śastra*-mantra recitals connected with the *atirātra* when the flow of Soma increases at the third pressing, is stated in the Āśvalāyana Śrauta-sūtra, in the section *traiṣṭubhe tad eva sūktaṃ somātireke*, by the sūtra *mahā indro nṛvad viṣṇor nu kam* (Ā. 6-7 [?]). The use of the first Ṛk in the Agni-Māruta *śastra*-mantras is explained in the same sūtra, in the section *atha yatheta[m]*, by the sūtra *viṣṇor nu kaṃ vīryāṇi pra vocaṃ tantuṃ tanvan rajaso bhānum anvihi* (Ā. 5-30 [?]).
+
+
+---
+
+### Printed p. 564  (PDF 582)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 154".)*
+
+**॥ ओम् ॥**
+
+**Sūkta 154** — Maṇḍala 1, Anuvāka 21, Sūkta 154; Aṣṭaka 2, Adhyāya 2, Varga 34 [?]. Number of Ṛks in the sūkta: 6. Ṛṣi: Dīrghatamas Aucathya. Devatā: Viṣṇu. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> विष्णोर्नु कं वीर्याणि प्र वोचं यः पार्थिवानि विममे रजांसि ।
+> यो अस्कभायदुत्तरं सधस्थं विचक्रमाणस्त्रेधोरुगायः ॥ १ ॥
+
+> *viṣṇornu kaṃ vīryāṇi pra vocaṃ yaḥ pārthivāni vimame rajāṃsi |*
+> *yo askabhāyaduttaraṃ sadhasthaṃ vicakramāṇastredhorugāyaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> विष्णोः । नु । कम् । वीर्याणि । प्र । वोचम् । यः । पार्थिवानि । विऽममे । रजांसि ।
+> यः । अस्कभायत् । उत्ऽतरम् । सधऽस्थम् । विऽचक्रमाणः । त्रेधा । उरुऽगायः ॥ १ ॥
+
+> *viṣṇoḥ | nu | kam | vīryāṇi | pra | vocam | yaḥ | pārthivāni | vi 'mame | rajāṃsi |*
+> *yaḥ | askabhāyat | ut 'taram | sadha 'stham | vi 'cakramāṇaḥ | tredhā | uru 'gāyaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: I shall quickly proclaim the heroic deeds of Viṣṇu, who measured the earthly regions and propped up the higher abode, striding three ways. Small type, read with doubt.)*
+
+> हे नरः विष्णोर्व्यापनशीलस्य देवस्य वीर्याणि वीरकर्माणि नु कमिति शीघ्रं प्र वोचं । प्रब्रवीमि । अत्र यद्यपि नु कमिति पदद्वयं तथापि यास्केन नवोत्तराणि [?] पदानि । नै. ३-१३ [?] इत्युक्तत्वात् । शाखान्तरे विकल्पेन पाठाच्च नु इत्येतस्मिन्नेवार्थे नु कमिति पदद्वयम् । कानि तानीति तत्राह । यो विष्णुः पार्थिवानि पृथिवीसंबन्धिनि
+
+> *he naraḥ viṣṇorvyāpanaśīlasya devasya vīryāṇi vīrakarmāṇi nu kamiti śīghraṃ pra vocaṃ | prabravīmi | atra yadyapi nu kamiti padadvayaṃ tathāpi yāskena navottarāṇi [?] padāni | nai. 3-13 [?] ityuktatvāt | śākhāntare vikalpena pāṭhācca nu ityetasminnevārthe nu kamiti padadvayam | kāni tānīti tatrāha | yo viṣṇuḥ pārthivāni pṛthivīsaṃbandhini*
+
+---
+
+**Progress note:** Sūkta 153 complete (printed pp. 544–562, PDF 562–580; closing line "illige 153ne sūkta mugidudu" on p. 562). Sūkta 154 begun: Anukramaṇī, Anuvāda and heading on pp. 563–564 (6 Ṛks; Viṣṇu; Triṣṭubh; varga "34" [?]); Ṛk 1 Saṃhitā, Pada and the start of the bhāṣya on p. 564. Next: printed p. 565 (PDF 583), continuing the bhāṣya of Ṛk 1. Open flags: small-type bhāṣya partly unread; Brāhmaṇa/Upaniṣad quotations pp. 549–554 low confidence; reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
