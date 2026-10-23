@@ -12061,4 +12061,300 @@ In the situation described in the Ṛk at hand, the sense is "that mortal, the s
 
 ---
 
-**Progress note:** Vol 11 — Sūktas 148 and 149 complete (Sūkta 149 printed pp. 444–463; the closing line "here the 149th Sūkta ends", if printed, falls at the top of p. 464). Next: printed p. 464 (PDF 482), then Sūkta 150 (3 Ṛks, as expected). Images in /tmp/v11a (PDF 33–481; recrop 482+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread; Ṛg/Nirukta/Yajus/Taittirīya quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–149; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
+## Sūkta 150
+
+### Printed p. 464  (PDF 482)
+
+*(The Kannada heading reads "The 150th Sūkta"; page header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 150".)*
+
+*(Anukramaṇī, Sanskrit; not rendered in English. Gist: the sūkta of three Ṛks beginning "Puru tvā" is the tenth sūkta, of Dīrghatamas, Agni deity, Uṣṇih metre; its use at the Prātaranuvāka and the Āśvina-śastra, for the Uṣṇih Ṛks, is given by the Āśvalāyana sūtra "puru tvā tvām agne".)*
+
+> पुरु त्वेति तृचात्मकं दशमं सूक्तं दैर्घतमसमाग्नेयमौष्णिहम् । पुरु तृचमौष्णिहमित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरौष्णिहे छन्दस्यस्य सूक्तस्य विनियोगः । अथैतस्या इति खण्डे सूत्रितम् । पुरु त्वा त्वामग्न इति । आ. [?] इति ॥
+
+> *puru tveti tṛcātmakaṃ daśamaṃ sūktaṃ dairghatamasamāgneyamauṣṇiham | puru tṛcamauṣṇihamityanukramaṇikā ‖ prātaranuvākāśvinaśastrayorauṣṇihe chandasyasya sūktasya viniyogaḥ | athaitasyā iti khaṇḍe sūtritam | puru tvā tvāmagna iti | ā. [?] iti ‖*
+
+**Anuvāda (Kannada).** The sūkta *puru tvā* is the tenth sūkta in the twenty-first anuvāka. It has three Ṛks. The ṛṣi of this sūkta is Dīrghatamas Aucathya. Agni is the deity. The metre is Uṣṇih. In the Anukramaṇī it is said *puru tṛcam auṣṇiham*. For the Prātaranuvāka and Āśvina-śastra mantra recitals the use of this sūkta, for the Ṛks in Uṣṇih metre, is explained by the sūtra *puru tvā tvām agne* in the section *athaitasyā* of the Āśvalāyana Śrauta-sūtra.
+
+**॥ ओम् ॥**
+
+**Sūkta 150** — Maṇḍala 1, Anuvāka 21, Sūkta 150; Aṣṭaka 2, Adhyāya 2, Varga 37 [?]. Number of Ṛks in the sūkta: 3. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: Uṣṇih.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> पुरु त्वा दाश्वान्वोचेऽरिरग्ने तव स्विदा ।
+> तोदस्येव शरण आ महस्य ॥ १ ॥
+
+> *puru tvā dāśvānvoce 'riragne tava svidā |*
+> *todasyeva śaraṇa ā mahasya ‖ 1 ‖*
+
+---
+
+### Printed p. 465  (PDF 483)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 37 [?].)*
+
+**॥ पदपाठः ॥**
+
+> पुरु । त्वा । दाश्वान् । वोचे । अरिः । अग्ने । तव । स्वित् । आ ।
+> तोदस्यऽइव । शरणे । आ । महस्य ॥ १ ॥
+
+> *puru | tvā | dāśvān | voce | ariḥ | agne | tava | svit | ā |*
+> *todasya 'iva | śaraṇe | ā | mahasya ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: I, who have given many oblations, speak many things to you, O Agni; as a servant born in the house, comes before a great master, I come before you.)*
+
+> हे अग्ने त्वा त्वां पुरु बहु वोचे । यद्वा । बहु दाश्वानि सम्बन्धे । पुत्रं देहि वित्तं देहीत्याद्याशासनानि ब्रवीमीत्यर्थः । किं कोऽस्मि नेत्र्याह [?] । यतो दाश्वानभिमतं हविर्दत्तवानस्मि अतो वोचे । ईश्वरावधारणेन [?] ब्रुवतः कथं दातव्यमिति न मन्तव्यम् । यतोऽहं हे अग्ने तव स्वित् स्वैव अभिमुख्येनारिर्हविरादि प्राप्तिप्रापणेन सेवकोऽहम् । तत्र दृष्टान्तः । महस्य महतस्तोदस्येव शिक्षकस्य स्वामिनः शरणे गृहे यथा गर्भदासादिर्[?] ... समन्ताद्यतो वर्तते तद्वदेहमसि । यस्मादेवं मुक्त्वोपे ... (नि. ३-२) इति ॥ *[small type; partly legible; the end of the bhāṣya quotes Ni. 3-2: *bahudāśvāṃs tvām evābhiprayāmy ariḥ ... todasyeva śaraṇa ā mahasya tudasyeva śaraṇe 'dhi mahataḥ*]*
+
+> *he agne tvā tvāṃ puru bahu voce | yadvā | bahu dāśvāni sambandhe | putraṃ dehi vittaṃ dehītyādyāśāsanāni bravīmītyarthaḥ | kiṃ ko 'smi netryāha [?] | yato dāśvānabhimataṃ havirdattavānasmi ato voce | īśvarāvadhāraṇena [?] bruvataḥ kathaṃ dātavyamiti na mantavyam | yato 'haṃ he agne tava svit svaiva abhimukhyenārirhavirādi prāptiprāpaṇena sevako 'ham | tatra dṛṣṭāntaḥ | mahasya mahatastodasyeva śikṣakasya svāminaḥ śaraṇe gṛhe yathā garbhadāsādir[?] ... samantādyato vartate tadvadehamasi | yasmādevaṃ muktvope ... (ni. 3-2) iti ‖ *[small type; partly legible; the end of the bhāṣya quotes Ni. 3-2: *bahudāśvāṃs tvām evābhiprayāmy ariḥ ... todasyeva śaraṇa ā mahasya tudasyeva śaraṇe 'dhi mahataḥ*]**
+
+**Pratipadārtha (Kannada).** *agne* — O Agni; *tava sviḍ ā* — standing facing you (as your own); *mahasya* — in the place of the great one; *todasyeva ā śaraṇe* — as one born in the house of the sacrificer, before him; (like a servant) who stays in the house; *ariḥ* — I, your devotee; *puru* — in great number; *dāśvān* — offering oblations; *tvā* — to you; *voce* — I pray (to give sons and wealth).
+
+**Bhāvārtha.** O Agni, as a servant born in the house of the master, in a great place, stands before him in supplication, I, your servant, offering you oblations, stand facing you and ask of you sons and wealth.
+
+**English Translation (as printed).** Presenting many offerings, I address you, Agni, ever coming into your presence (like a servant) in the dwelling of a mighty master.
+
+---
+
+### Printed p. 466  (PDF 484)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 150".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** Here the relationship of Agni to the sacrificer is compared with that of a master and his servant, to show the sacrificer's humility.
+
+***todasyeva*** — in explaining the meaning of this word, the Nirukta author has cited this very Ṛk and explained it. His explanation is as follows:
+
+> बहुदाश्वांस्त्वामेवाभिप्रयाम्यरिरमित्रमुच्यते । ईश्वरोऽप्यरिरीत्येतस्मादेवेदेनस्मै देवतस्या अग्न्याहुतयो हूयन्ते इत्येतद्दृष्ट्वैवमुपमामैक्षत [?] तोदस्येव शरण आ महस्य तुदस्येव शरणेऽधि महतः ॥
+
+> *bahudāśvāṃstvāmevābhiprayāmyariramitramucyate | īśvaro 'pyarirītyetasmādevedenasmai devatasyā agnyāhutayo hūyante ityetaddṛṣṭvaivamupamāmaikṣata [?] todasyeva śaraṇa ā mahasya tudasyeva śaraṇe 'dhi mahataḥ ‖*
+
+(Ni. 3-2.) "Agni is the giver, I am the one who asks for sons and the like; I am the one without a rival" — thus after describing, the author states the explanation of *ari*: "*ari*, from the root *ṛ*, 'to go' [or *iṇ gatau*], is a word that gives the sense of 'enemy' — and the sacrificer, too, in the same way, being a harmer, is called *ari*", i.e. hostile to enemies, and the like. The word *ari* is also "lord" as well; the Nirukta author says *īśvaro 'pi arir ity etasmād …*.
+
+As Agni, by his oral service, carries the oblations to the other gods, and as the stomach of a great well is a well of great capacity, he explains the word *toda* by the comparison "as a well".
+
+Durgācārya explains this comparison thus:
+
+> "तोदस्येव शरणे आ महस्य"—तुदस्येव विदीर्णस्य कस्यचिच्छ्वभ्रस्य कोपस्योपरि । शरणे बिले । यथा हि श्वभ्रे बिले कस्मिंश्चिद्दर्वस्य [?] आपो गच्छन्ति । न च तस्मै श्वभ्रस्य महतो ग्रहणशक्तिपरिहानं भवति । एवं तेनानेकाश्चानेकदेवशास्त्राहुतीरभ्याभिः प्रदत्ताः प्रतीच्छतो न सामर्थ्यपरिहानमस्ति । अतो देवतानामस्माकं स्नेहेनातिनिक्षेपोपकारे प्रवृत्तेः अतः श्यामेनाप्ययोमि [?] ।
+
+> *"todasyeva śaraṇe ā mahasya"—tudasyeva vidīrṇasya kasyacicchvabhrasya kopasyopari | śaraṇe bile | yathā hi śvabhre bile kasmiṃściddarvasya [?] āpo gacchanti | na ca tasmai śvabhrasya mahato grahaṇaśaktiparihānaṃ bhavati | evaṃ tenānekāścānekadevaśāstrāhutīrabhyābhiḥ pradattāḥ pratīcchato na sāmarthyaparihānamasti | ato devatānāmasmākaṃ snehenātinikṣepopakāre pravṛtteḥ ataḥ śyāmenāpyayomi [?] |*
+
+Meaning: "Since I have the strength to praise you, I can call you; as for your pouring oblations in abundance, I am able: the reason for calling only Agni is that his stomach, like a well, can take in much oblation, and fill it" — [partly unclear].
+
+Therefore, according to the explanation in the Nirukta, *toda* means a well [*kūpa*], and *śaraṇa* a hole. But Sāyaṇa's meaning is contrary to this.
+
+---
+
+### Printed p. 467  (PDF 485)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 37 [?].)*
+
+Sāyaṇa explains *toda* as "a master who teaches" (*śikṣaka svāmin*), *śaraṇa* as "house", *ari* as "the sacrificer who is a servant, one who gives oblations, and is a worshipper".
+
+> मध्ये होता दुरोणे बर्हिषो राळग्निस्तोदस्य यज्यै । अयं स सूनुः सहस ऋतावा दूरात्सूर्यो न शोचिषा ततान ॥
+
+> *madhye hotā duroṇe barhiṣo rāḷagnistodasya yajyai | ayaṃ sa sūnuḥ sahasa ṛtāvā dūrātsūryo na śociṣā tatāna ‖*
+
+(Ṛ. Saṃ. 6-1-1 [?].) In this Ṛk, Sāyaṇa explains the word *toda* as *tudyate tapasā pīḍyate iti todaḥ yajamānaḥ* — "one who is goaded, afflicted by austerity, the sacrificer"; since the sacrificer is strong in carrying out the Agni-rites, *toda* means "the sacrificer". In the same sūkta:
+
+> तेजिष्ठा यस्यारतिर्वनेराट् तोदो अध्वस्य वृषभानो अव्यात् । अद्रोघो नु प्रवणीता चेतति तन्न मर्त्यो वव्रिशत् [?] ॥
+
+> *tejiṣṭhā yasyāratirvanerāṭ todo adhvasya vṛṣabhāno avyāt | adrogho nu pravaṇītā cetati tanna martyo vavriśat [?] ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?].) In this Ṛk, *todaḥ* he explains as "*sarvasya prerakaḥ sūryaḥ*" — "the Sun, the impeller of all". And:
+
+> यासि कुत्सेन सरथमवस्युस्तोदो वातस्य हर्योरीशानः । ऋज्रा वाजं न गध्यं युयूषन्कविर्यदह्न्पार्याय भूषात् ॥
+
+> *yāsi kutsena sarathamavasyustodo vātasya haryorīśānaḥ | ṛjrā vājaṃ na gadhyaṃ yuyūṣankaviryadahnpāryāya bhūṣāt ‖*
+
+(Ṛ. Saṃ. 4-16-11.) In this, *todaḥ* is explained as *śatrūṇāṃ hiṃsakaḥ*, "slayer of foes".
+
+***śaraṇe*** — following the author of the Nirukta, Durgācārya has explained this word as "a hole"; since it has a wide place and gives shelter, it may be given the meaning "a hole or house", according to the context.
+
+> प्रियोस इत्ते मघवन्नभिष्टौ नरो मदेम शरणे सखायः । नि तुर्वशं नि याद्वं शिशीह्यतिथिग्वाय शंस्यं करिष्यन् ॥
+
+> *priyosa itte maghavannabhiṣṭau naro madema śaraṇe sakhāyaḥ | ni turvaśaṃ ni yādvaṃ śiśīhyatithigvāya śaṃsyaṃ kariṣyan ‖*
+
+(Ṛ. Saṃ. 7-19-8.) In this Ṛk, "house"; and
+
+> उदुष्य शरणे दिवो ज्योतिरयंस्त सूर्यः । अग्निर्न शुक्रः समिधान आहुतः ॥
+
+> *uduṣya śaraṇe divo jyotirayaṃsta sūryaḥ | agnirna śukraḥ samidhāna āhutaḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this the word *śaraṇa* means *ādityasya sthāne nabhasi*: "in the sky, the place of the Āditya, since it is a wide dwelling-place for the Āditya", they have explained.
+
+---
+
+### Printed p. 468  (PDF 486)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 150".)*
+
+In the Ṛk at hand Sāyaṇa has cited the Nirukta in his own bhāṣya, though he gave a different meaning to the words *toda* and *ari*.
+
+**Vyākaraṇa-prakriyā (Ṛk 1; grammar page, noted briefly).** *dāśvān* (root *dāś dāne*; *dāśvān sāhvān mīḍhvāṃś ca* (Pā. Sū. 6-1-12) *kvasu*-ending, *nipātita*); *voce* (root *brūñ vyaktāyāṃ vāci*; in Vedic *luṅ*; 1st person singular *iṭ*-ending; *bruvo vaciḥ* (Pā. Sū. 3-4-53) *vaci* substitution for the root; *asyatikhyātibhyo 'ṅ* (Pā. Sū. 3-1-52) *aṅ* for *cli*; *aji* … *ajādeḥ* *āṭ*; the root's *u* reduced [?]; by *vaci* the *ṅit* … *ūm* [?]; *bahulaṃ chandasy māṅyoge 'pi* no *aṭ* augment; after a *tiṅanta*, *nighāta*); *ariḥ* (root *ṛ gatau*; *ācaḥ iḥ* [?] (Uṇ. Sū. 4-[?]) *iṣ* suffix; on account of the suffix *sārvadhātukārdhadhātukayoḥ* guṇa of the root; *ra* follows; suffix accent: final *udātta*); *todasya* (root *tuda vyathane*; *nandigrahapacādibhyaḥ…* (Pā. Sū. 3-1-134) *ac* suffix; on account of it, guṇa of the root's penultimate short vowel; *cit*: final *udātta*; genitive sg.); *mahasya* (root *maha pūjāyām*; as before *ac* suffix; final *udātta*; genitive sg.). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> व्यनिनस्य धनिनः प्रहोषे चिदररुषः ।
+> कदा चन प्रजिगतो अदेवयोः ॥ २ ॥
+
+> *vyaninasya dhaninaḥ prahoṣe cidararuṣaḥ |*
+> *kadā cana prajigato adevayoḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> वि । अनिनस्य । धनिनः । प्रऽहोषे । चित् । अररुषः ।
+> कदा । चन । प्रऽजिगतः । अदेवयोः ॥ २ ॥
+
+> *vi | aninasya | dhaninaḥ | pra 'hoṣe | cit | araruṣaḥ |*
+> *kadā | cana | pra 'jigataḥ | adevayoḥ ‖ 2 ‖*
+
+---
+
+### Printed p. 469  (PDF 487)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 37 [?].)*
+
+**॥ सायणभाष्यम् ॥** *(gist: I seek your favour for the sacrificer; ward off the godless rich man, who gives nothing at the sacrifice, and who does not praise the gods.)*
+
+> पूर्वमन्त्रे स्वाभीष्टं बहु विज्ञापयामीत्युक्तम् । अत्र तु स्वनिलप्रेभ्यो [?] दानादिरहितेभ्यो दानं न दातव्यमिति प्रार्थ्यते । हे अग्ने त्वां निशेषेण ब्रवीमि । उपसर्गस्तेर्योग्यक्रियाध्याहारः । अथवा सन्निहितद्योतक इत्यनुषज्यते । अस्मदर्थं यद्वा । विज्ञ ... तद्विरुद्धं वोचे । वक्ष्यमाणस्वरूपस्य न दातव्यमिति ब्रवीमित्यर्थः । तेषां स्वरूपमाह । अनिनस्य [?] स्वामिनं कुर्वाणस्य कथा धनिनः समुग्रदानवतो [?] । पूर्वमेव धनवतो दानस्य निरर्थकत्वात् नार्य्यतेः । यद्वा । योगात्मनुपयोग्यार्थतः [?] इत्यर्थः । किंच प्रहोषे प्रहोषोऽत्र । प्र क्षीयत [?] ... तत्र दक्षिणारूपेण । यद्वा । प्रहोषे ऽत्र सम्बन्धः । प्रकर्षेण होतुमं समुद्यतेः इत्यर्थः । अत्र रेतब्बेन तस्मिन् सामर्थ्यं लक्ष्यते । जिज्ञ ... समुच्छ्येनायोः । किंचे केव चन प्रजिगतः कदाचिदपि प्रकर्षेण देवानस्तुवतः । अत्र चेनेति निपातसमुदायः । तत्र चेतशब्दः समुच्छ्ये नसब्ज्ञो विशेषः । किंचानेवोऽदेवयोः । देवानात्मनोऽनिच्छतः । एवमेषां न दातव्यमिति विब्रीवे [?] इत्यर्थः । निन्दितानां स्वरूपनिरूपणेन स्वस्य तादृशत्वाभावे [?] बहु वोचे इत्येतदुत्तरं [?] ॥ *[small type; many words doubtful; only the sense is given]*
+
+> *pūrvamantre svābhīṣṭaṃ bahu vijñāpayāmītyuktam | atra tu svanilaprebhyo [?] dānādirahitebhyo dānaṃ na dātavyamiti prārthyate | he agne tvāṃ niśeṣeṇa bravīmi | upasargasteryogyakriyādhyāhāraḥ | athavā sannihitadyotaka ityanuṣajyate | asmadarthaṃ yadvā | vijña ... tadviruddhaṃ voce | vakṣyamāṇasvarūpasya na dātavyamiti bravīmityarthaḥ | teṣāṃ svarūpamāha | aninasya [?] svāminaṃ kurvāṇasya kathā dhaninaḥ samugradānavato [?] | pūrvameva dhanavato dānasya nirarthakatvāt nāryyateḥ | yadvā | yogātmanupayogyārthataḥ [?] ityarthaḥ | kiṃca prahoṣe prahoṣo 'tra | pra kṣīyata [?] ... tatra dakṣiṇārūpeṇa | yadvā | prahoṣe 'tra sambandhaḥ | prakarṣeṇa hotumaṃ samudyateḥ ityarthaḥ | atra retabbena tasmin sāmarthyaṃ lakṣyate | jijña ... samucchyenāyoḥ | kiṃce keva cana prajigataḥ kadācidapi prakarṣeṇa devānastuvataḥ | atra ceneti nipātasamudāyaḥ | tatra cetaśabdaḥ samucchye nasabjño viśeṣaḥ | kiṃcānevo 'devayoḥ | devānātmano 'nicchataḥ | evameṣāṃ na dātavyamiti vibrīve [?] ityarthaḥ | ninditānāṃ svarūpanirūpaṇena svasya tādṛśatvābhāve [?] bahu voce ityetaduttaraṃ [?] ‖ *[small type; many words doubtful; only the sense is given]**
+
+**Pratipadārtha (Kannada).** *(O Agni —)* *aninasya* — one who does not worship you as master; *prahoṣe* — in the performing of the sacrifice; *dhaninaḥ* — rich, possessing wealth; *cid ararūṣaḥ* — even when [he is] one who does not give (at the dakṣiṇā); *kadā cana* — ever; *prajigataḥ* — one who praises you; *adevayoḥ* — those who have no devotion to the gods; (in this way) the two types of people: *vi* — withhold (your favour); — [lit.] "O Agni, be devoted to the two sorts of people [with whom I contrast myself]".
+
+**Bhāvārtha.** O Agni, there are two kinds of people who have no devotion to the gods: one kind is the rich man who does not worship you as master and is chary of giving the fee for the sacrifice; the other, who never praises you. Do not show your favour even to these two sorts of people.
+
+---
+
+### Printed p. 470  (PDF 488)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 150".)*
+
+**English Translation (as printed).** ( I ask you also to withhold your favour ) from ( those ) two godless ( persons ), from the rich man, who, acknowledging you not as his lord, is chary of gifts at sacred rites, and from him who rarely praises (the gods).
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***prahoṣe*** — *prakarṣeṇa hotum*: "to offer in an excellent manner"; he explains "at the sacrifice at which the offerer offers oblations in abundance"; those who offer such oblations are called *prahoṣin*:
+
+> अपादु शिप्र्यन्धसः सुदक्षस्य प्रहोषिणः । इन्दोरिन्द्रो यवाशिरः ॥
+
+> *apādu śipryandhasaḥ sudakṣasya prahoṣiṇaḥ | indorindro yavāśiraḥ ‖*
+
+(Ṛ. Saṃ. 8-[?]-[?].) In this Ṛk, as for *prahoṣiṇaḥ*, it is explained "*prakarṣeṇa devān havirbhir juhvataḥ*" as an adjective of *sudakṣasya*, i.e. of the sacrificer "who offers oblations", in the sense of the offerer.
+
+***aninasya*** — for this word two kinds of meaning have been made. First, taking the word as it is: *tvāṃ asvāminaṃ kurvataḥ* — "one who does not make you his master", i.e. one who does not worship you as master; and the second, taking the two words *prahoṣe aninasya* together: *ina* means "one with capacity, the lord", *ananiṣya* [aninasya] "one who has no capacity [*sāmarthya*] like that of the powerful" — "to the man who lacks capacity, who cannot offer oblations at the sacrifice" — so he has explained.
+
+***prajigataḥ*** — *kadācid api devān astuvataḥ*: "one who does not praise the gods at any time", the non-believer.
+
+***adevayoḥ*** — *devān ātmano 'nicchataḥ*: "those who do not desire the gods"; "the two [persons] who have no devotion and faith in the gods", the unbelievers.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *vi* — because it is in connection with a verb, the *upasarga* is used, so a suitable verb, "I speak" (*bravīmi*), is to be supplied; or it is understood as *voce* with the *anuvṛtti*; *aninasya* (*na vidyate inaḥ svāmī yasya saḥ aninaḥ*; *nañsubhyām* (Pā. Sū. 6-2-172) *uttarapada-antodātta*; genitive sg.); *dhaninaḥ* (*dhanam asyāsti iti dhanī*; *ata ini…* (Pā. Sū. 5-2-115) *ini* suffix in the sense of *matup*; suffix accent: first *udātta*).
+
+---
+
+### Printed p. 471  (PDF 489)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 38 [?].)*
+
+*(Ṛk 2 grammar, continued, noted briefly.)* *prahoṣe* (root *hu dānādanayoḥ*; *tumarthe sesenase…* (Pā. Sū. 3-4-9) *se* suffix; on account of it, guṇa of the root's *u*; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣatva* of the suffix's *s*; suffix accent: final *udātta*; since a *kṛdanta*, it gets the *avyaya* name; *kṛdutarapada-prakṛtisvara* of the compound); *ararūṣaḥ* (root *ṛ gatau*; *antarbhāvitaṇyartha* root; *ṛter aruṣ* (Uṇ. Sū. 2-[?]) *arus* suffix; on account of it guṇa of the root; *ra* follows; the form *arus*; suffix accent not applicable: by *vṛṣādīnāṃ ca* (Pā. Sū. 6-1-203) first *udātta*; genitive sg.); *prajigataḥ* (root *gā stutau* [*gai*], *juhotyādi*; present sense *śatṛ*; *ślau* doubling of the root; *kuhoś cuḥ* (Pā. Sū. 7-4-62) *ca-varga* for the reduplicate; *itva*; *sārvadhātukam apit* — since the suffix is *kit*, it takes *chandasy ubhayathā* (Pā. Sū. 3-4-117): *ārdhadhātuka*-designation as well; *ā to lopa iṭi ca* loss of the root's *ā*; the word *jigat*; *abhyastānām ādiḥ* first *udātta*; *kṛdutarapada-prakṛtisvara*); *adevayoḥ* (*devān ātmana icchati iti devayati*; *supa ātmanaḥ kyac* *kyac*; *kyāc chandasi* (Pā. Sū. 3-2-170) *u* suffix after the *kyac*; *ā to lopaḥ*: loss of the *a* of *kyac*; *na devayuḥ adevayuḥ*; *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-2) the *nañ* has its natural accent). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> स चन्द्रो विप्र मर्त्यो महो व्राधन्तमो दिवि ।
+> प्रप्रेत्ते अग्ने वनुषः स्याम ॥ ३ ॥
+
+> *sa candro vipra martyo maho vrādhantamo divi |*
+> *praprette agne vanuṣaḥ syāma ‖ 3 ‖*
+
+---
+
+### Printed p. 472  (PDF 490)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 150".)*
+
+**॥ पदपाठः ॥**
+
+> सः । चन्द्रः । विप्र । मर्त्यः । महः । व्राधन्ऽतमः । दिवि ।
+> प्रऽप्र । इत् । ते । अग्ने । वनुषः । स्याम ॥ ३ ॥
+
+> *saḥ | candraḥ | vipra | martyaḥ | mahaḥ | vrādhan 'tamaḥ | divi |*
+> *pra 'pra | it | te | agne | vanuṣaḥ | syāma ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(gist: O wise Agni, the mortal who worships you becomes, in heaven, a moon, greater than the great; may we, too, be your excellent worshippers.)*
+
+> हे अग्ने विप्र मेधाविन् यो मर्त्यस्त्वां यजते स मर्त्यो यजमानो दिवि द्युलोके चन्द्रः सर्वेषामाह्लादकश्चन्द्रसदृशो भवति । यद्वा । चन्द्र एव भवति यजमानानां चन्द्रत्वप्राप्तिं छन्दोगा आमनन्ति । पितृलोकादाकाशमाकाशाच्चन्द्रमसमेष सोमो राजा (छां. उ. ५-१०-४) इति । सोमलोके विभूतिमनुभूयेति च । तथा मुण्डके [?] ... सुवर्णवर्णः सूर्यरश्मिभिर्वहन्ति ... किञ्च महो महतोऽपि व्राधन्तमः प्रवृद्धतमः । इतरदेवानामपि श्रेष्ठ इत्यर्थः । अतोऽग्ने ते तव प्रप्रेत् प्रकर्षेण [?] ... वनुषः संभक्तारः स्याम । यद्वा । प्रीणयित्वा प्रप्रेत् स्याम ... प्रकृष्टा भवेम ॥ *[small type; partly legible]*
+
+> *he agne vipra medhāvin yo martyastvāṃ yajate sa martyo yajamāno divi dyuloke candraḥ sarveṣāmāhlādakaścandrasadṛśo bhavati | yadvā | candra eva bhavati yajamānānāṃ candratvaprāptiṃ chandogā āmananti | pitṛlokādākāśamākāśāccandramasameṣa somo rājā (chāṃ. u. 5-10-4) iti | somaloke vibhūtimanubhūyeti ca | tathā muṇḍake [?] ... suvarṇavarṇaḥ sūryaraśmibhirvahanti ... kiñca maho mahato 'pi vrādhantamaḥ pravṛddhatamaḥ | itaradevānāmapi śreṣṭha ityarthaḥ | ato 'gne te tava prapret prakarṣeṇa [?] ... vanuṣaḥ saṃbhaktāraḥ syāma | yadvā | prīṇayitvā prapret syāma ... prakṛṣṭā bhavema ‖ *[small type; partly legible]**
+
+**Pratipadārtha (Kannada).** *vipra* — O wise Agni; *martyaḥ* — which mortal; (worships you with sacrifices and the like); *saḥ* — that mortal; *divi* — in the heaven; *candraḥ* — takes the place of the moon, which delights; *mahaḥ* — becomes also greater than the great gods; *vrādhantamaḥ* — extremely grown; *agne* — O Agni; *prapet* — in the most excellent way; *te* — you; *vanuṣaḥ* — as worshippers; *syāma* — may we be (be gracious) [or *prapet syāma* — worshipping you, may we also attain, in the highest manner].
+
+**Bhāvārtha.** O wise Agni, the mortal who worships you with sacrifices and the like attains in heaven the place of the delight-giving moon, and becomes greater than the gods who are great. Therefore, O Agni, may we too, worshipping you in the most excellent way, attain the best place.
+
+---
+
+### Printed p. 473  (PDF 491)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 38 [?].)*
+
+**English Translation (as printed).** Sage Agni, the mortal ( who propitiates you ) becomes a moon in heaven, the most eminent of the great (deities): may we, therefore, ever be in an especial manner your worshippers.
+
+*(The printed heading of this block reads "English Tranlation" [sic].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics).** ***vrādhantamaḥ*** — this word is read among the names of the great (Ni. 3-[?]). It means "exceedingly great"; this adjective is used in the Ṛk-saṃhitā, in the sense of "strong", as praise of one of great power, and in some places as a synonym of "enemy". Examples:
+
+> इमे ये ते सु वायो बाह्वोजसोऽन्तर्नदी ते पतयन्त्युक्षणो महि व्राधन्त उक्षणः ।
+
+> *ime ye te su vāyo bāhvojaso 'ntarnadī te patayantyukṣaṇo mahi vrādhanta ukṣaṇaḥ |*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk the word *vrādhantaḥ* is an adjective of the bulls (*ukṣaṇaḥ*) of Vāyu: *mahi vrādhantaḥ* — "greatly increasing (growing)" — gives "greatly grown". And:
+
+> स व्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः । विश्वस्पर्वतरातियाति वाळ्हैः सत्वा विश्वासु पृत्सु सदमिच्छूरः ॥
+
+> *sa vrādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ | viśvasparvatarātiyāti vāḷhaiḥ satvā viśvāsu pṛtsu sadamicchūraḥ ‖*
+
+(Ṛ. Saṃ. 1-[?]-[?].) In this Ṛk *hiṃsakān mahataḥ asi*: "you are a destroyer of the great enemies"; the word as a synonym of "enemy". As in
+
+> शत्रूयन्तो अभि ये नस्ततस्रे महि व्राधन्त ओगणास इन्द्र । अन्धेनामित्रास्तमसा सचन्तां सुज्योतिषो अक्तवस्ताँ अभि ष्युः ॥
+
+> *śatrūyanto abhi ye nastatasre mahi vrādhanta ogaṇāsa indra | andhenāmitrāstamasā sacantāṃ sujyotiṣo aktavastā~ abhi ṣyuḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?].) the word *vrādhantaḥ* is "those who are harming us (*asmān bādhamānāḥ*)", i.e. those who greatly afflict us.
+
+In the Ṛk at hand the word *vrādhantamaḥ* is an adjective of the mortal who worships Agni, in praise of his greatness: *pravṛddhatamaḥ*, "most grown"; "he becomes still greater than the other gods who are greater than all".
+
+***candraḥ*** — *candra* has two meanings. First: "for Agni's worshipper, *sarveṣām āhlādakaḥ candrasadṛśo bhavati*, the delight-giver of all, like the moon" — since the moon is said to be "bright with beauty (brilliant and delightful)": from the root *cand*, "to delight". Following this meaning the Nirukta derivation:
+
+---
+
+### Printed p. 474  (PDF 492)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 150".)*
+
+> चन्द्रश्चन्दतेः कान्तिकर्मणः ।
+
+> *candraścandateḥ kāntikarmaṇaḥ |*
+
+(Ni. 11-[?].) "Since it gives the meaning of shining (*kānti*), *candra* is formed from the root *cand*", thus it is said; hence that Agni has the meaning "of one who delights (*āhlādaka*)" and "bright"; second: the sacrificer himself "becomes the moon" — "*chāndogāḥ*, the Sāmavedins, state that the sacrificers attain the state of the moon through the sacrifice":
+
+> पितृलोकादाकाशमाकाशाच्चन्द्रमसमेष सोमो राजा ।
+
+> *pitṛlokādākāśamākāśāccandramasameṣa somo rājā |*
+
+(Chāṃ. Up. 5-10-[?].)
+
+> सोमलोके विभूतिमनुभूय ।
+
+> *somaloke vibhūtimanubhūya |*
+
+(Praś. Up. 3-[?].) Sāyaṇa has cited these sentences.
+
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *candraḥ* (root *cadi āhlādane*; *sphāyitañci…* (Uṇ. Sū. 2-13) *rak* suffix; *idito num dhātoḥ* *num* augment; suffix accent: final *udātta*); *vipraḥ* (root *ḍuvap bījasantāne* [sic: *ḍuvapa*]; *ṛjendrāgravajra…* (Uṇ. Sū. 2-28) *ran* suffix, *nipātita*; in the vocative, *āmantritasya ca* *nighāta*); *mahaḥ* (root *maha pūjāyām*; *kvip ca* *kvip*; genitive sg.; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) case-ending *udātta*); *vrādhantamaḥ* (root *vṛdhu vṛddhau*; *oṇādika* suffix *atiśayena*; lengthening of the *ṛ*; *atiśāyane tamabiṣṭhanau* (Pā. Sū. 5-3-55) *tamap*); *divi* (*ūḍidaṃpadādi* (Pā. Sū. 6-1-171) case-ending *udātta*); *vanuṣaḥ* (root *vana sambhaktau*; by the power of *bahulagrahaṇa*, the *oṇādika* *usi* suffix; suffix accent: first *udātta*; nom. plural); *syāma* (root *as bhuvi*; *vidhiliṅ* 1st plural; *tiṅ*-*nighāta*). ‖ 3 ‖
+
+*Here the 150th Sūkta ends.*
+
+---
+
+**Progress note:** Vol 11 — Sūkta 150 (3 Ṛks, Uṣṇih) complete (printed pp. 464–474, PDF 482–492). Next: Sūkta 151 — look at printed p. 475 (PDF 493) for its Anukramaṇī/heading (a closing line of Sūkta 149 may be missing in the print: none seen at the top of p. 464). Images in /tmp/v11a (PDF 33–492; recrop 493+ at 120 dpi). Open flags as in previous notes (small-type bhāṣya largely unread — Sūkta 150 Ṛk 2 bhāṣya and Pratipadārtha only partly legible; Ṛg/Nirukta/Upaniṣad quotes with [?] references; reference and sūtra numerals; Anukramaṇīs of 143–150; Varga numbers). Planned: once Vol 11 is finished, extend publish/review_all.py to Vols 9–11 and rebuild the review worklist.
