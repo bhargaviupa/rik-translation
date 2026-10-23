@@ -16050,4 +16050,192 @@ In the present Ṛk it appears proper to explain *parvata* as "cloud". Since Ind
 
 ---
 
-**Progress note:** Sūkta 155 in progress: Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the start of its Special Topics (*kṛśānu*) done (printed pp. 601–606, PDF 619–624). Next: printed p. 607 (PDF 625). Open flags: small-type bhāṣya partly unread; Ṛg/Nirukta reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
+---
+
+### Printed p. 607  (PDF 625)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?]. Special Topics of Ṛk 2 continue.)*
+
+Among archers Kṛśānu is famous as the guardian of Soma [?]. The story of how he pursued the falcon (*śyena*) that was carrying off Soma and cut its feather is told in the Ṛksaṃhitā in this way:
+
+> अव यत्स्येनो अस्वनीदध द्योर्वि यद्यदि वात ऊहुः पुरन्धिम् ।
+> सृजद्यदस्मा अव ह क्षिपज्ज्यां कृशानुरस्ता मनसा भुरण्यन् ॥
+
+> *ava yatsyeno asvanīdadha dyorvi yadyadi vāta ūhuḥ purandhim |*
+> *sṛjadyadasmā ava ha kṣipajjyāṃ kṛśānurastā manasā bhuraṇyan ‖*
+
+(Ṛ. Saṃ. 4-27-3.)
+
+When the guardians of Soma resisted the falcon that had come from heaven to carry off Soma, Kṛśānu overtook it with the speed of thought, released his arrow at it, and cut its feather: this story is indicated. Likewise,
+
+> स पूर्व्यः पवते यं दिवस्परि श्येनो मथायदिषितस्तिरो रजः ।
+> स मध्व आ युवते वेविजान इत्कृशानोरस्तुर्मनसाह बिभ्युषा ॥
+
+> *sa pūrvyaḥ pavate yaṃ divaspari śyeno mathāyadiṣitastiro rajaḥ |*
+> *sa madhva ā yuvate vevijāna itkṛśānorasturmanasāha bibhyuṣā ‖*
+
+(Ṛ. Saṃ. 9-77-2.)
+
+in this Ṛk too the same incident is indicated. In the Aitareya-Brāhmaṇa this story is somewhat more elaborate and shows the extraordinary power of Kṛśānu.
+
+*(Small-type Brāhmaṇa quotation; read with doubt.)*
+
+> ते देवा अब्रुवन्गायत्रीं त्वं नो इमं सोमं राजानमाहरेति सा तथेत्यब्रवीत्तथा वै मा सर्वेण स्वस्त्ययनेनानुमन्त्रयध्वमिति ते तथेति सोदतस्तां देवाः सर्वेण स्वस्त्ययनेनान्वमन्त्रयन्त प्रेतु चेति चेत्येत्तस्य सर्वं स्वस्त्ययनं यत्प्रेति चेति तद्वै तस्य प्रियः स्यात्तस्मैतेनानुमन्त्रयेतेति सेति चेति स्वस्त्यैव गच्छति स्वस्त्यै पुनरागच्छति [?] ॥ सा पित्वा सोमपालान्बीभयित्वा पद्भ्यां च मुखेन च सोमं राजानं सन्नुगृह्यानि चेतरे छन्दसी अप्रराण्यजिहितं तानि चोपसमुगृह्णात् [?] ॥ तस्या अनु विसृज्य कृशानुः सोमपालः सम्यस्य पदो नखमभिदत् [?] जीलकोभवत्स्मात्सानखो यद्वैश्शमुस्रवत्त वशाभवत् [?] ॥
+
+> *te devā abruvangāyatrīṃ tvaṃ no imaṃ somaṃ rājānamāhareti sā tathetyabravīttathā vai mā sarveṇa svastyayanenānumantrayadhvamiti te tatheti sodatastāṃ devāḥ sarveṇa svastyayanenānvamantrayanta pretu ceti cetyettasya sarvaṃ svastyayanaṃ yatpreti ceti tadvai tasya priyaḥ syāttasmaitenānumantrayeteti seti ceti svastyaiva gacchati svastyai punarāgacchati [?] ‖ sā pitvā somapālānbībhayitvā padbhyāṃ ca mukhena ca somaṃ rājānaṃ sannugṛhyāni cetare chandasī aprarāṇyajihitaṃ tāni copasamugṛhṇāt [?] ‖ tasyā anu visṛjya kṛśānuḥ somapālaḥ samyasya pado nakhamabhidat [?] jīlakobhavatsmātsānakho yadvaiśśamusravatta vaśābhavat [?] ‖*
+
+(Ai. Brā. 3-26 [?], as printed.)
+
+The gods told Gāyatrī to bring King Soma, taught her a *svastyayana* (blessing for safe journey), and sent her off wishing her quick return; Gāyatrī, in the form of a falcon, descended to the earth and frightened the Soma-guards, and then Kṛśānu cut her claw with his arrow: so it is described.
+
+In all other places the word *Kṛśānu* is a proper name; that in the present Ṛk alone it is a synonym of Agni is not so very unnatural, as may be known from the basis of other śruti-sentences.
+
+---
+
+### Printed p. 608  (PDF 626)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+In the Taittirīya-Saṃhitā one may notice a sentence expressing the identity "Agni is Kṛśānu". In the Śatapatha-Brāhmaṇa,
+
+> अथ सोमक्रयणानुदिशति । स्यान भ्राजांधारे बम्भारे हस्त सुहस्त कृशानवेते वः सोमक्रयणास्तान्रक्षध्वं मा वो दभ्नुवन्ति थिष्ण्यानां वा एते भाजनेतानि वै थिष्ण्यानां नामानि तान्येवैभ्यः पदद्दिष्ट [?] ।
+
+> *atha somakrayaṇānudiśati | syāna bhrājāṃdhāre bambhāre hasta suhasta kṛśānavete vaḥ somakrayaṇāstānrakṣadhvaṃ mā vo dabhnuvanti thiṣṇyānāṃ vā ete bhājanetāni vai thiṣṇyānāṃ nāmāni tānyevaibhyaḥ padaddiṣṭa [?] |*
+
+(Śa. Brā. 3-9-1-18 [?], as printed.)
+
+in this passage *Syāna*, *Bhrāja*, *Aṅghāri*, *Bambhāri*, *Hasta*, *Suhasta* and *Kṛśānu* are indicated as guardians of Soma. In the Taittirīya-Saṃhitā also,
+
+> … ज्योतिष्मतीमविक्रयिणी [?] तमोमित्रोणं [?] … इन्द्रस्योरुमा विश दक्षिणमुशन्नन्तं [?] … स्यानभ्राजाङ्घारे बम्भारे हस्त सुहस्त कृशानवेते वः सोमक्रयणास्तान्रक्षध्वं मा वो दभन् ॥
+
+> *… jyotiṣmatīmavikrayiṇī [?] tamomitroṇaṃ [?] … indrasyorumā viśa dakṣiṇamuśannantaṃ [?] … syānabhrājāṅghāre bambhāre hasta suhasta kṛśānavete vaḥ somakrayaṇāstānrakṣadhvaṃ mā vo dabhan ‖*
+
+(Tai. Saṃ. 1-2-2 [?], as printed.)
+
+in these sentences the persons named above — *Syāna*, *Bhrāja*, *Aṅghāri*, *Bambhāri*, *Hasta*, *Suhasta*, *Kṛśānu* — are said to be the watchful guardians of Soma; and after that,
+
+> विभूरसि प्रवाहणो वह्निरसि हव्यवाहनः श्वात्रोऽसि प्रचेतास्तुथोऽसि विश्ववेदा उशिगसि कविरङ्घारिरसि बम्भारिरवस्यूरसि दुवस्वाञ्छुन्ध्यूरसि मार्जालीयः स्वराडसि कृशानुः परिषद्योऽसि पवमानः प्रतक्वासि नभस्वानसंमृष्टोऽसि हव्यसूद ऋतधामासि सुवर्ज्योतिर्ब्रह्मज्योतिरसि सुवर्धामा [?] ज्योति [?] एकपादसि बुध्न्यो रौद्रेणानीकेन पाहि मामग्ने पिपृहि मा मा हिंसीः ॥
+
+> *vibhūrasi pravāhaṇo vahnirasi havyavāhanaḥ śvātro 'si pracetāstutho 'si viśvavedā uśigasi kaviraṅghārirasi bambhāriravasyūrasi duvasvāñchundhyūrasi mārjālīyaḥ svarāḍasi kṛśānuḥ pariṣadyo 'si pavamānaḥ pratakvāsi nabhasvānasaṃmṛṣṭo 'si havyasūda ṛtadhāmāsi suvarjyotirbrahmajyotirasi suvardhāmā [?] jyoti [?] ekapādasi budhnyo raudreṇānīkena pāhi māmagne pipṛhi mā mā hiṃsīḥ ‖*
+
+(Tai. Saṃ. 1-3-1 [?], as printed.)
+
+here *Aṅghāri*, *Bambhāri*, *Kṛśānu* and so on — "you are all of these" — Agni is addressed in prayer. And that *Kṛśānu* and the others, the guardians of Soma, are the names of the *thiṣṇyas*, the fire-altars, is told by the Śatapatha-Brāhmaṇa passages quoted above (Śa. Brā. 3-9-1-18 [?]). Therefore it is known, from the basis of some sentences, that Kṛśānu and Agni are identical.
+
+In the Ṛksaṃhitā also, it can be noticed that the epithets connected with the word *kṛśānu* in the present Ṛk are used in the other Ṛks in which this name occurs. For example —
+
+---
+
+### Printed p. 609  (PDF 627)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral "[39]" in the signature line [?].)*
+
+> त्रिः सप्त सस्रा नद्यो महीरपो वनस्पतीन्पर्वताँ अग्निमूतये ।
+> कृशानुमस्तॄन्तिष्यं सदेष्ठ आ रुद्रं रुद्रेषु रुद्रियं हवामहे ॥
+
+> *triḥ sapta sasrā nadyo mahīrapo vanaspatīnparvatā~ agnimūtaye |*
+> *kṛśānumastṝntiṣyaṃ sadeṣṭha ā rudraṃ rudreṣu rudriyaṃ havāmahe ‖*
+
+(Ṛ. Saṃ. 10-64-8 [?], as printed.)
+
+in this Ṛk *kṛśānum* and *agnim* are in apposition (substantive and adjective). And just as in the Ṛks quoted above, 9-77-2 reads *astuḥ kṛśānoḥ* and 4-27-3 reads *astā kṛśānuḥ*, so in the present Ṛk also the pair *astuḥ kṛśānoḥ* occurs as adjective and noun. As in the quoted Ṛks the word *astu* means "he who hurls the arrow, who smites the enemy", so too in the present Ṛk **astuḥ** means *nirasitā śatrūṇām* [?] — the destroyer of enemies.
+
+**asanām** — *asanaṃ calanaśīlaṃ pradānaśīlam annādikam* — "food and so on, that moves, that is given": from the root *as* … [the small explanation is not fully legible; Sāyaṇa explains that food and the like are called *asana* because they have the nature of going (to nourish) [?]];
+
+> पुरूणि दस्मो नि रिणाति जम्भैरादोचते [?] वन आ विभावा ।
+> आदस्य वातो अनु वाति शोचिरस्तुर्न शर्यामसनामनु द्यून् ॥
+
+> *purūṇi dasmo ni riṇāti jambhairādocate [?] vana ā vibhāvā |*
+> *ādasya vāto anu vāti śocirasturna śaryāmasanāmanu dyūn ‖*
+
+(Ṛ. Saṃ. 1-66-4 [?], as printed.)
+
+in this Ṛk it is an epithet of the arrow that speeds.
+
+**uruṣyati** — *uruṣyati rakṣākarmā* (Ni. 2-19 [?]) — "he protects". The Nirukta-author cites
+
+> स नो बोधि श्रुधी हवमुरुष्या णो अघायतः समस्मात् ॥
+
+> *sa no bodhi śrudhī havamuruṣyā ṇo aghāyataḥ samasmāt ‖*
+
+(Ṛ. Saṃ. 2-31-6 [?], as printed.)
+
+and shows that the sense is "protect us from all who wish us evil". In the present Ṛk this word occurs twice. For the first, *uruṣyati* — *rakṣati | yāgena pūjayati athavā stauti*: "he worships with the sacrifice, or praises"; for the second, *uruṣyathaḥ* — *prerayathaḥ* [?] (*avicchedena pravartayathaḥ*): "protect us, supplying us uninterruptedly with food": so Sāyaṇa explains.
+
+**śimīvatoḥ** — *śimīti karmanāma | śamuyater vā śaknoter vā* (Ni. 2-1[?]): from the root *śam* ("to toil, to labour") or *śak* ("to be able"), this word is formed and means "work".
+
+> आपान्तमन्युस्तृपलप्रभर्मा धुनिः शिमीवाँ ऋजीषी ।
+> सोमो विश्वान्यतसा वनानि नार्वागिन्द्रं प्रतिमानानि देभुः ॥
+
+> *āpāntamanyustṛpalaprabharmā dhuniḥ śimīvā~ ṛjīṣī |*
+> *somo viśvānyatasā vanāni nārvāgindraṃ pratimānāni debhuḥ ‖*
+
+(Ṛ. Saṃ. 10-[?]-[?], as printed, numerals doubtful.)
+
+---
+
+### Printed p. 610  (PDF 628)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+In such Ṛks *śamīvān* means "possessed of work, active"; so in the present Ṛk also the same sense must be given. The sense: Indra and Viṣṇu are always engaged in works such as protecting the world.
+
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *tveṣam* (root *tviṣ dīptau*; *nandigrahapacādibhyo…* (Pā. Sū. 3-1-134) *ac*; *cit*: final *udātta*; *laghūpadhaguṇa*); *samaraṇam* (root *ṛ gatau*; *lyuṭ*; *guṇa*; *liti* (Pā. Sū. 6-1-193 [?]) *udātta* before the suffix; *prādisamāsa*, *kṛdutarapada*-accent); *indrāviṣṇū* (*indraś ca viṣṇuś ca*; *devatādvandve ca* (Pā. Sū. 6-3-26 [?]) *ānaṅ*; *devatādvandve ca* (Pā. Sū. 6-2-[?]) both members keep their accent); *sutapāḥ* (root *pā pāne*, *kvip*; *sutaṃ pibati iti sutapāḥ*; *kṛdutara* accent); *uruṣyati* (root *uruṣya*, in the sense of protection; *laṭ* 3rd sg.; *nighāta* since after an *atiṅanta*); *pratidhīyamānam* (root *dhāñ dhāraṇapoṣaṇayoḥ*; passive *laṭ*, *śānac*; *sārvadhātuke yak* (Pā. Sū. 3-1-67) *yak*; *ghumāsthāgāpājahātisāṃ hali* (Pā. Sū. 6-4-66) *ī*; *āner muk* (Pā. Sū. 7-2-82) *muk*; *tāsyanudāttet* (Pā. Sū. 6-1-186 [?]) the *sārvadhātuka* is *anudātta*, so the *yak* accent remains; *prādisamāsa*, *kṛdutara*); *kṛśānoḥ* (root *kṛśa tanūkaraṇe*; *anuk* by an Uṇādi sūtra [?]; first *udātta*); *astuḥ* (root *asu kṣepaṇe*; *tṛn* in the agent sense; *nit*: first *udātta*; ablative-genitive sg.); *asanām* (the same root with *yuṭ* [?]; *yuvor anākau* (Pā. Sū. 7-1-1) *ana*; *udātta*) …
+
+---
+
+### Printed p. 611  (PDF 629)
+
+*(Header: "Ṛgvedasaṃhitā"; varga numeral printed "3?" [?].)*
+
+*(Grammar, concluded; noted briefly.)* *uruṣyathaḥ* (*laṭ* 2nd dual; since *yat* is in the sentence there is no *nighāta*; the root accent remains). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> ताः ईं वर्धन्ति मह्यस्य पौंस्यं नि मातरा नयति रेतसे भुजे ।
+> दधाति पुत्रोऽवरं परं पितुर्नाम तृतीयमधि रोचने दिवः ॥ ३ ॥
+
+> *tāḥ īṃ vardhanti mahyasya pauṃsyaṃ ni mātarā nayati retase bhuje |*
+> *dadhāti putro 'varaṃ paraṃ piturnāma tṛtīyamadhi rocane divaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> ताः । ईम् । वर्धन्ति । महि । अस्य । पौंस्यम् । नि । मातरा । नयति । रेतसे । भुजे ।
+> दधाति । पुत्रः । अवरम् । परम् । पितुः । नाम । तृतीयम् । अधि । रोचने । दिवः ॥ ३ ॥
+
+> *tāḥ | īm | vardhanti | mahi | asya | pauṃsyam | ni | mātarā | nayati | retase | bhuje |*
+> *dadhāti | putraḥ | avaram | param | pituḥ | nāma | tṛtīyam | adhi | rocane | divaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*(Gist: the Soma oblations increase Indra's manhood; he brings the parents, heaven and earth, to generation and enjoyment; the son takes an inferior, a superior and a third name, "father". Small type, read with doubt; continues on the next page.)*
+
+> ताः सोमरूपाः प्रसिद्धा आहुतयो यजमानेन हुता ईमेतदस्येन्द्रस्य महि महत्पौंस्यं पुंसः कर्म वक्ष्यमाणरूपं बलं वर्धन्ति । वर्धयन्ति । अर्थको वा [?] । स चेन्द्रः सोमपानजनितं सामर्थ्यं मातरौ द्यावापृथिव्यौ नि नयति । नितरां प्रापयति । किमर्थम् । रेतसे प्राणिनां पुत्राद्युत्पादनसामर्थ्याय भुजे तेषां भोगाय रक्षणाय वा । कुत्रेति तदुच्यते । दिवो द्योतमानस्यादित्यस्याधिकं रोचने रोचमाने मण्डले । नाम नमनं द्यावापृथिव्योः स्थापितं सामर्थ्यं पुत्रः पुरुत्राता सर्वो जनः पितुः पालकाद्विष्णोरनुग्रहात् [?] । यद्वा । पितुः स्वोत्पादकत्वात्स्वयमुत्पन्नं सत् अवरं निकृष्टं नाम पौत्रसंज्ञं परं तदुत्कृष्टं पुत्रे स इति नाम तदुभयापेक्षया तृतीयं पितृनाम दधाति । त्रीणि वा न रेतः [?] इन्ति पिता पुत्रः पौत्रः ॥ तै. सं. ६-६-३ इति श्रुतेः । अस्मायमर्थः [?] । अग्ना हुताः सोमाहुतयः आदित्यमण्डलं प्राप्य द्वादशात्मनेन सवितृमूर्त्यान्तेरावि [?] न्द्राविष्णू पोषयन्ति । तुष्टौ तौ मेघद्वारा वर्षतः । तेया वृष्ट्या सस्याद्यारा प्रजाः पुत्रपौत्रादिरूपेण वर्धयन्ते [?] इत्येनमनुग्रहानुभावा [?] मिन्द्राविष्णू इति ॥
+
+> *tāḥ somarūpāḥ prasiddhā āhutayo yajamānena hutā īmetadasyendrasya mahi mahatpauṃsyaṃ puṃsaḥ karma vakṣyamāṇarūpaṃ balaṃ vardhanti | vardhayanti | arthako vā [?] | sa cendraḥ somapānajanitaṃ sāmarthyaṃ mātarau dyāvāpṛthivyau ni nayati | nitarāṃ prāpayati | kimartham | retase prāṇināṃ putrādyutpādanasāmarthyāya bhuje teṣāṃ bhogāya rakṣaṇāya vā | kutreti taducyate | divo dyotamānasyādityasyādhikaṃ rocane rocamāne maṇḍale | nāma namanaṃ dyāvāpṛthivyoḥ sthāpitaṃ sāmarthyaṃ putraḥ purutrātā sarvo janaḥ pituḥ pālakādviṣṇoranugrahāt [?] | yadvā | pituḥ svotpādakatvātsvayamutpannaṃ sat avaraṃ nikṛṣṭaṃ nāma pautrasaṃjñaṃ paraṃ tadutkṛṣṭaṃ putre sa iti nāma tadubhayāpekṣayā tṛtīyaṃ pitṛnāma dadhāti | trīṇi vā na retaḥ [?] inti pitā putraḥ pautraḥ ‖ tai. saṃ. 6-6-3 iti śruteḥ | asmāyamarthaḥ [?] | agnā hutāḥ somāhutayaḥ ādityamaṇḍalaṃ prāpya dvādaśātmanena savitṛmūrtyānterāvi [?] ndrāviṣṇū poṣayanti | tuṣṭau tau meghadvārā varṣataḥ | teyā vṛṣṭyā sasyādyārā prajāḥ putrapautrādirūpeṇa vardhayante [?] ityenamanugrahānubhāvā [?] mindrāviṣṇū iti ‖*
+
+---
+
+### Printed p. 612  (PDF 630)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 155".)*
+
+*(The bhāṣya of Ṛk 3 concludes at the top of this page; small type, read with doubt.)*
+
+> वृष्ट्या सस्याद्यारा प्रजाः पुत्रपौत्रादिरूपेण वर्धयन्ते [?] इत्येनमनुग्रहानुभावा [?] मिन्द्राविष्णू इति ॥
+
+> *vṛṣṭyā sasyādyārā prajāḥ putrapautrādirūpeṇa vardhayante [?] ityenamanugrahānubhāvā [?] mindrāviṣṇū iti ‖*
+
+**प्रतिपदार्थः (Pratipadārtha).** *tāḥ* — the oblations in the form of Soma; *asya* — of Indra; *mahi* — mighty; *(īm) pauṃsyam* — manly strength; *vardhanti* — cause to increase; *(the same Indra)* *retase* — for giving (to creatures) the power of begetting offspring; *bhuje* — for enjoying the enjoyments, or for protection; *mātarā* — to heaven and earth; *ni nayati* — makes (this power) go and reach; *divaḥ* — of the radiant sun; *adhi rocane* — in the exceedingly bright orb; *nāma* — this generative power established; *putraḥ* — the son [every man, by Viṣṇu's grace [?]]; *avaram* — as one who bears the lower name of grandson; *param* — as the higher, the name of son; *tṛtīyam* — as a third, distinct from those two, the name of father; *dadhāti* — obtains.
+
+**भावार्थः (Bhāvārtha).** The Soma oblations offered by the sacrificer increase Indra's mighty manly strength. The same Indra makes his strength reach heaven and earth, for giving creatures the power of begetting offspring and for enjoying enjoyments; and this power, established in the exceedingly bright orb of the sun, by Viṣṇu's grace every man obtains, as one bearing the name of grandson, the name of son, and the name of father.
+
+**English Translation (as printed).** These (oblations) augment his, (Indra's), mighty manhood, by which he fits the parents (of all creatures, heaven and earth), for generation and enjoyment; where-by, in the upper region of the sky the son has an inferior and superior appellation, and a third (name) of father.
+
+**विशेषविषयाः (Viśeṣaviṣayagaḷu — Special Topics).** In this Ṛk, the increase of Indra's manly power through the enjoyment of the Soma-oblation is described; also that the same Indra, applying his power to heaven and earth, is the cause of the increase of the enjoyments of all beings, and, as the cause of the multiplication in the form of sons, grandsons and so on, provides the grace of Viṣṇu to the world. First, …
+
+---
+
+**Progress note:** Sūkta 155 in progress: Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the start of its Special Topics done (printed pp. 607–612, PDF 625–630). Next: printed p. 613 (PDF 631). Open flags: small-type Brāhmaṇa/Saṃhitā quotations (Ai. Brā., Tai. Saṃ.) on pp. 607–609 partly unread; Ṛg/Nirukta/Brāhmaṇa reference numerals `[?]`; sūtra numerals; varga numbers. Review worklist to be extended to Vols 9–11 after Vol 11.
