@@ -710,7 +710,7 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 *(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga numeral unclear.)*
 
-**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ajiram* (root *aja gatikṣepaṇayoḥ*; the Uṇ. suffix *kirac*, by *nipātana*; no *vī*-substitution; accent by *cita*), *yāmani* (root *yā prāpaṇe*; *mani*; accent *jñatyāḥ…*; locative with *vibhāṣā*), *stomebhiḥ* (*bhis* → *ais* is not made by *bahulaṃ chandasi*), *kṛṇve* (root *kṛñ*; Ātmanepada by *kṛñ*; *laṭ* first person; *iṭ*; *ṭita ātmanepadānām* gives *e*; *dhinvikṛṇvyor a*), *ṛṇavaḥ* (root *ṛṇa gatau*; *tanādi*; *leṭ* second person; *aṭ* augment; *u* by *tanādikṛñbhya uḥ*), *pīparaḥ* (root *pṝ pālanapūraṇayoḥ*; *jeṣamati* …; *luṅ*/*śap*; reduplication), with accent rules; sūtra numbers mostly not read.
+**Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly).** *ajiram* (root *aja gatikṣepaṇayoḥ*; the Uṇ. suffix *kirac* (Uṇ. 1-53), by *nipātana*; no *vī*-substitution; accent by *cita* (Pā. 6-1-163)), *yāmani* (root *yā prāpaṇe*; *mani*; *mani* by Pā. 3-2-74; accent by *ñityādir nityam* (Pā. 6-1-197); locative with *vibhāṣā*), *stomebhiḥ* (*abhis* → *ais* is not made by *bahulaṃ chandasi*), *kṛṇve* (root *kṛñ*; Ātmanepada by *kṛñ*; *laṭ* first person; *iṭ*; *ṭita ātmanepadānām* gives *e*; *dhinvikṛṇvyor a*), *ṛṇavaḥ* (root *ṛṇa gatau*; *tanādi*; *leṭ* second person; *aṭ* augment; *u* by *tanādikṛñbhya uḥ*), *pīparaḥ* (root *pṝ pālanapūraṇayoḥ*; *hetumati ca* (Pā. 3-1-26) gives *ṇic*; *luṅ*, *caṅ*, shortening by *ṇau caṅy upadhāyāḥ hrasvaḥ* (7-4-1), reduplication), with accent rules; other sūtra numbers not read.
 
 ### Printed p. 26  (PDF 44)
 
