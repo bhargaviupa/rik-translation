@@ -2703,35 +2703,35 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 
 > *hotā vediṣadityeṣa vai hotā vediṣat |*
 
-(Ai. Brā. 4-[?] [?].) Since the *hotṛ*'s place is always the altar, and since Agni is *hotṛ* for every sacrifice, this epithet is given to him.
+(Ai. Brā. 4-20.) Since the *hotṛ*'s place is always the altar, and since Agni is *hotṛ* for every sacrifice, this epithet is given to him.
 
 > होता वेदिषदित्यग्निर्वै होता वेदिषत् ।
 
 > *hotā vediṣadityagnirvai hotā vediṣat |*
 
-(Śa. Brā. 6-[?]-[?]-[?] [?].) In such sentences the epithet *vediṣad* of Agni as *hotṛ* is well known. Śaṅkarācārya in his commentary on the passage [*hotā vediṣad*] [?] writes:
+(Śa. Brā. 6-2-3-11.) In such sentences the epithet *vediṣad* of Agni as *hotṛ* is well known. Śaṅkarācārya, in his commentary on the Kaṭha Upaniṣad sentence *hotā vediṣat* (5-2) writes:
 
-> होता अग्निः । अग्निर्वै होता इति श्रुतेः । वेद्यां पृथिव्यां सीदतीति वेदिषत् । इयं वेदिः परोऽन्तः पृथिव्याः । यो यज्ञे प्रसिद्धा इयं वेदिः पृथिव्याः परोऽन्तः परः स्वभावः इति वेद्या पृथिवीस्वभावत्वकीर्तनात् पृथिवी वेदिषच्छब्दवाच्या भवतीत्यर्थः [?] ।
+> होता अग्निः । 'अग्निर्वै होता' इति श्रुतेः । वेद्यां पृथिव्यां सीदतीति वेदिषत् । इयं वेदिः परोऽन्तः पृथिव्याः । या यज्ञे प्रसिद्धा इयं वेदिः पृथिव्याः परोऽन्तः परः स्वभावः इति वेद्या पृथिवीस्वभावत्वकीर्तनात् पृथिवी वेदिशब्दवाच्या भवतीत्यर्थः ।
 
-> *hotā agniḥ | agnirvai hotā iti śruteḥ | vedyāṃ pṛthivyāṃ sīdatīti vediṣat | iyaṃ vediḥ paro 'ntaḥ pṛthivyāḥ | yo yajñe prasiddhā iyaṃ vediḥ pṛthivyāḥ paro 'ntaḥ paraḥ svabhāvaḥ iti vedyā pṛthivīsvabhāvatvakīrtanāt pṛthivī vediṣacchabdavācyā bhavatītyarthaḥ [?] |*
+> *hotā agniḥ | 'agnirvai hotā ' iti śruteḥ | vedyāṃ pṛthivyāṃ sīdatīti vediṣat | iyaṃ vediḥ paro 'ntaḥ pṛthivyāḥ | yā yajñe prasiddhā iyaṃ vediḥ pṛthivyāḥ paro 'ntaḥ paraḥ svabhāvaḥ iti vedyā pṛthivīsvabhāvatvakīrtanāt pṛthivī vediśabdavācyā bhavatītyarthaḥ |*
 
 Thus he gives a sense that shows the identity of the earth and the altar. Hence it is explained that it is Agni's dear abode.
 
-***dhāsiṃ.*** *Dhāsi* is read among the names of food, such as *irā* (Nighaṇṭu 2-[?]-[?]); derived from the root *dhā* of drinking it means food in the form of an oblation, or it may mean "the sustainer of life".
+***dhāsiṃ.*** *Dhāsi* is read among the names of food, such as *irā* (Nighaṇṭu 2-2-11); derived from the root *dhā* of drinking it means food in the form of an oblation, or it may mean "the sustainer of life".
 
 > कृष्णा सती रुशता धासिनैषा जामर्येण पयसा पीपाय ।
 
 > *kṛṣṇā satī ruśatā dhāsinaiṣā jāmaryeṇa payasā pīpāya |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].)
+(Ṛ. Saṃ. 4-3-9.)
 
 > के धासिमग्ने अन्यस्य पान्ति के आसतो वचसः सन्ति गोपाः ।
 
 > *ke dhāsimagne anyasya pānti ke āsato vacasaḥ santi gopāḥ |*
 
-(Ṛ. Saṃ. 5-[?]-[?] [?].) As in these Ṛks *dhāsi* has the sense of "sustaining", so here it can be. Here *yoni* is likened to *dhāsi*.
+(Ṛ. Saṃ. 5-12-4.) As in these Ṛks *dhāsi* has the sense of "sustaining", so here it can be. Here *yoni* is likened to *dhāsi*.
 
-***yoniṃ.*** *Yoni* means the place called the altar. "Prepare for Agni, who sits on the altar, the *yoni* called the altar" is the sense. Citing the Ṛk आ स्वे योनौ निषीदतु [?] (*ā sve yonau niṣīdatu [?]*) (Ṛ. Saṃ. 6-[?]-[?]) and the Aitareya Brāhmaṇa sentence एष ह वा अस्य स्वो योनिर्यदग्नेरग्ने [?] (*eṣa ha vā asya svo yoniryadagneragne [?]*) (Ai. Brā. 1-[?]), he makes known that *yoni* is the place of origin of the Āhavanīya fire.
+***yoniṃ.*** *Yoni* means the place called the altar. "Prepare for Agni, who sits on the altar, the *yoni* called the altar" is the sense. Citing the Ṛk आ स्वे योनौ निषीदतु (*ā sve yonau niṣīdatu*) (Ṛ. Saṃ. 6-16-45) and the Aitareya Brāhmaṇa sentence एष ह वा अस्य स्वो योनिर्यदग्नेरग्नेः (*eṣa ha vā asya svo yoniryadagneragneḥ*) (Ai. Brā. 1-16), he makes known that *yoni* is the place of origin of the Āhavanīya fire.
 
 ### Printed p. 103  (PDF 121)
 
