@@ -60,3 +60,4 @@
 2026-10-24 06:09 PDF 99-99: remaining [?] EN 2, KN 2. Śatapatha quotes re-read (vidāṃcakāra; tedu hāśvinor anuśrutam āsa); prasthita; Ṛ. 1-116-12
 2026-10-24 06:09 PDF 100-100: remaining [?] EN 1, KN 1. Śatapatha quote re-transcribed (5 passages); Kannada gloss corrected
 2026-10-24 06:10 PDF 101-101: remaining [?] EN 7, KN 8. Bṛhaddevatā verses re-transcribed in full from the print (earlier text largely wrong); numerals left
+2026-10-24 06:10 PDF 102-102: remaining [?] EN 4, KN 3. Taittirīya quotes re-read in full; cross-references read at best (Ṛ. 1-31-1, 1-139-2, 1-45-3, Ni. 3-13 — zoom not done); wording
