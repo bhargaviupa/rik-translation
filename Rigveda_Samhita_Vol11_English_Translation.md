@@ -2335,25 +2335,25 @@ By the epithet *sūryānalasamadyutiḥ* the self-luminous nature of Atri is mea
 
 ### Printed p. 87  (PDF 105)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 In such Ṛks the power of Atri is praised: when Svarbhānu (Rāhu) attacked the sun and caused darkness, the seer Atri destroyed the darkness and made the sun shine. Likewise in the Śatapatha Brāhmaṇa:
 
-> अत्रिर्णः [?] … होतासाप्येतेषाम् [?] … असुरस्तमसाभि पप्लुवे ते कुसयोत्रीमब्रुवन्नेहि प्रत्यज्ञं तमो जहीति स एतत् [?] … वै ज्योतिश्च इदं तमोऽसाबधीतीति तस्मा एतेज्योतिरिरण्यं … तस्मादात्रेयाय हिरण्यम् [?] ।
+> अत्रिर्वा ऋषीणां होतासाथैतत्सदोऽसुरतमसमभिपुप्लुवे ते ऋषयोऽत्रिमब्रुवन्नेहि प्रत्यञ्जिदं तमोऽपजहीति स एतत्तमोऽपाहन्नयं वै ज्योतिर्य इदं तमोऽपाबधीदिति तस्मा एतज्ज्योतिर्हिरण्यं...... तस्मादात्रेयाय हिरण्यं ।
 
-> *atrirṇaḥ [?] … hotāsāpyeteṣām [?] … asurastamasābhi papluve te kusayotrīmabruvannehi pratyajñaṃ tamo jahīti sa etat [?] … vai jyotiśca idaṃ tamo 'sābadhītīti tasmā etejyotiriraṇyaṃ … tasmādātreyāya hiraṇyam [?] |*
+> *atrirvā ṛṣīṇāṃ hotāsāthaitatsado 'suratamasamabhipupluve te ṛṣayo 'trimabruvannehi pratyañjidaṃ tamo 'pajahīti sa etattamo 'pāhannayaṃ vai jyotirya idaṃ tamo 'pābadhīditi tasmā etajjyotirhiraṇyaṃ...... tasmādātreyāya hiraṇyaṃ |*
 
 (Śa. Brā. 5-[?]-[?]-[?] [?].) When Atri was the *hotṛ* of the seers and was performing a sacrifice, the darkness of the Asuras spread all through the sacrificial hall. The seers sought Atri's help to destroy that darkness, and he destroyed it. Then the seers, recognising him as the embodiment of radiance, brought gold, a form of radiance, to give as a sacrificial gift.
 
 Atri's nature is not only physical radiance; it is spiritual radiance too, as the Bṛhadāraṇyaka and the like say:
 
-> अत्रिर्ह वै नामैतद्यदत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवति य एवं वेद [?] ।
+> अद्यतेऽत्रिर्ह वै नामैतद्यदत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवति य एवं वेद ।
 
-> *atrirha vai nāmaitadyadatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavati ya evaṃ veda [?] |*
+> *adyate 'trirha vai nāmaitadyadatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavati ya evaṃ veda |*
 
 (Bṛ. Up. 2-[?]-[?] [?].)
 
-**Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly).** *januṣam* (root *janī prādurbhāve*; *janerusi* (U. Sū. 2-[?]) the *Auṇādika* suffix *usi*, giving *janus*; final-syllable accent by the suffix; accusative singular), *aṅgirāḥ* (Yāska says *aṅgirā aṅgārāḥ* (Ni. 3-[?]); the Aitareya Brāhmaṇa says *ye 'ṅgirā āsaṃs te 'ṅgiraso 'bhavan* (Ai. Brā. 3-[?]); so the name *Aṅgiras* comes by the name of *aṅgāra* [?], from Agni), *priyamedhaḥ* (Yāska: *priyā medhāḥ asya* (Ni. 4-[?]); *priyo medho yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-[?]) first-member accent), *atriḥ* (Yāska: *na vidyate trīṇi yasya saḥ atriḥ* (Ni. 3-[?]); the *tri* suffix, carried on by *ca* in the Uṇādi sūtra (U. Sū. 4-[?]), comes after the same root; first-syllable accent by *vyatyaya*). Sūtra numbers not read.
+**Vyākaraṇa-prakriyā (Ṛk 9; grammar page, noted briefly).** *januṣam* (root *janī prādurbhāve*; *janerusi* (U. Sū. 2-[?]) the *Auṇādika* suffix *usi*, giving *janus*; final-syllable accent by the suffix; accusative singular), *aṅgirāḥ* (Yāska says *aṅgirā aṅgārāḥ* (Ni. 3-[?]); the Aitareya Brāhmaṇa says *ye 'ṅgirā āsaṃs te 'ṅgiraso 'bhavan* (Ai. Brā. 3-[?]); so the name *Aṅgiras* comes, through the sage Aṅgiras, from the *aṅgāra*-form Agni, who is the cause of that sage), *priyamedhaḥ* (Yāska: *priyā medhāḥ asya* (Ni. 4-[?]); *priyo medho yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-[?]) first-member accent), *atriḥ* (Yāska: *na vidyate trīṇi yasya saḥ atriḥ*; *atriḥ na trayaḥ* (Ni. 3-[?]); the *tri* suffix, carried on by *ca* in the Uṇādi sūtra (U. Sū. 4-[?]), comes after the same root; first-syllable accent by *vyatyaya*). Sūtra numbers not read.
 
 ---
 
