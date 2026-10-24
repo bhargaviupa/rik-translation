@@ -33,11 +33,11 @@ It was at such a time — when our own people, unable to understand our own text
 
 ### Page ii
 
-...proved to be of great help to the publication of texts. Amid the study and research of Sanskrit texts, many German scholars — who took upon themselves the foundational and reverent task of researching Sanskrit texts of all kinds, going back to their most original and ancient forms — began, above all, to critically research and print the Vedas. Several Veda-related texts were first printed in Germany itself. Many scholars devoted their entire lives to the research and publication of just one or two texts. Foremost among such scholars was the German scholar Max Müller. He is said to have spent the greater part of his life — some 30 years — researching and printing the Rigveda. Government support for Vedic studies was minimal; even so, many Western scholars, out of pure scholarly enthusiasm, undertook new research and rendered great service to their own countries through new publications. That a single text's research should take some 30 years to complete shows how immense the scale of such work can be. For this reason, it is a welcome sign that scholars of this country devoted to Sanskrit studies, Vedic studies, and research work are increasing in number.
+...proved to be of great help to the publication of texts. Amid the study and research of Sanskrit texts, many German scholars — who took upon themselves the foundational and reverent task of researching Sanskrit texts of all kinds, going back to their most original and ancient forms — began, above all, to critically research and print the Vedas. Several Veda-related texts were first printed in Germany itself. Many scholars devoted their entire lives to the research and publication of just one or two texts. Foremost among such scholars was the German scholar Max Müller. He is said to have spent the greater part of his life — some 50 years — researching and printing the Rigveda. Government support for Vedic studies was minimal; even so, many Western scholars, out of pure scholarly enthusiasm, undertook new research and rendered great service to their own countries through new publications. That a single text's research should take some 50 years to complete shows how immense the scale of such work can be. For this reason, it is a welcome sign that scholars of this country devoted to Sanskrit studies, Vedic studies, and research work are increasing in number.
 
 Examining the state of the country closely in the present context, Sanskrit knowledge is not widespread among the common people — it survives only in a few places and to a small degree, which has not been of much help even to Sanskrit's own popularization. Therefore, however excellent Sanskrit texts may be, their usefulness has not reached most people. In earlier times, every individual was expected, as part of family tradition and as a higher duty, to learn Sanskrit; but given the present condition of the country, everyone recognizes this is no longer feasible. For this reason, many learned people of earlier and present times have found it useful to translate excellent texts into their own regional languages for the public's benefit. But such translated works remain few. Most texts remain untranslated, and there has been little encouragement for translating important texts into Kannada. Only a handful have so far been published for public benefit. Beyond the material support needed for publishing, this gap has persisted largely for want of encouragement to translate and print major works such as the Vedas.
 
-It was Max Müller who first printed the Rigveda together with Sayana's commentary; in this first printing and research effort he received the generous support of the East India Company. This first printing and research required contributions from many quarters, as the scholar himself has acknowledged. Building on this, further corrections and research were undertaken, and — having gathered materials thoroughly — a second edition, supported by the Maharaja [of Vijayanagara/a royal patron], brought together all available manuscript copies and, printing the complete text handsomely, made it available equally to all people as a public service.
+It was Max Müller who first printed the Rigveda together with Sayana's commentary; in this first printing and research effort he received the generous support of the East India Company. This first printing and research took 24 years, as the scholar himself has said. Building on this, further corrections and research were undertaken, and — having gathered materials thoroughly — a second edition, supported by the Maharaja [of Vijayanagara/a royal patron], brought together all available manuscript copies and, printing the complete text handsomely, made it available equally to all people as a public service.
 
 ### Page iii
 
@@ -51,7 +51,7 @@ In Sanskrit texts, no other works hold a place as foremost as the Vedas. Whether
 
 Considered this way, the Rigveda's core mantras form the foundational verses of the entire Vedic corpus. The Yajurveda largely draws on the Rigveda's principal mantras to describe the methods of performing yajnas (sacrificial rites). The Samaveda likewise takes up the Rigveda's chief verses and adapts them, arranged to suit musical requirements, for chanting. Hence, in the performance of a yajna these three Vedas are all essential; none of them can be dispensed with. The Atharvaveda differs somewhat from the mantras of the other Vedas in many of its portions; many of its mantras appear to be later additions, and it does not follow the strict rules of chandas (meter) construction found in the Rigveda as consistently. Several mantras shared among the other three Vedas also occur in the Atharvaveda, yet it is not customary to use these in yajna-related rites. For this reason it is said that the Atharvaveda's mantras were composed after the first three Vedas, and it is regarded as a later, supplementary Veda.
 
-From this description, the compilation collectively called "the Vedas" may be understood as one body of work discussing four distinct subject-divisions. But since each of these four divisions is, in its own right, an independent subject, it has become customary to speak of them as four separate Vedas. According to the proper method of Vedic study, one should ideally study all four Vedas. Where that is not feasible, one should at least begin self-study and, within the time available, study the Vedas in due proportion — for studying only one Veda does not allow full knowledge of the subjects discussed across all of them. Since a human lifespan is not long, and in these times formal education is not organized so that students can undertake the study of the four Vedas, the Vedangas, and the Dharmashastra texts systematically from childhood, it has become common for followers of a given branch (shakha) merely to study their own single branch superficially, for form's sake rather than genuine mastery. In this way, the tradition of Vedic learning, as originally ordered by the sages, has been steadily declining generation after generation — and that decline continues even today.
+From this description, the compilation collectively called "the Vedas" may be understood as one body of work discussing four distinct subject-divisions. But since each of these four divisions is, in its own right, an independent subject, it has become customary to speak of them as four separate Vedas. According to the proper method of Vedic study, one should ideally study all four Vedas. Where that is not feasible, one should at least begin self-study and, within the time available, study the Vedas in due proportion — for studying only one Veda does not allow full knowledge of the subjects discussed across all of them. Since a human lifespan is ordinarily not more than 100 years, and in these times formal education is not organized so that students can undertake the study of the four Vedas, the Vedangas, and the Dharmashastra texts systematically from childhood, it has become common for followers of a given branch (shakha) merely to study their own single branch superficially, for form's sake rather than genuine mastery. In this way, the tradition of Vedic learning, as originally ordered by the sages, has been steadily declining generation after generation — and that decline continues even today.
 
 ### Page v
 
@@ -61,7 +61,7 @@ For general/public benefit, among those who directly undertook to explain the Ri
 
 Yaska's *Nirukta* holds a special place among the auxiliary Vedic disciplines (Vedangas); everyone agrees that its assistance is essential for understanding Vedartha (Vedic meaning). Within it there are two divisions — the *Nighantu* and the *Nirukta* proper. In the Nighantu, words carrying a shared meaning are grouped together and their common sense stated for the group. In the Nirukta, key root-words (dhatus) occurring in the mantras are taken up, their meanings given along with their word-formation/etymology, and — drawing on other Vedic and historical context — the full connected sense of the mantras is explained. His work is accepted as authoritative by all. Western scholars, however, hold that his explanations — while following the actual words of the mantras — cannot always be confirmed as reliably capturing the sages' (rishis') original intended sense.
 
-I have already discussed, in the introductory chapter (Peetika-prakarana), the main commentaries (bhashyas) available on the Rigveda. Among these, the commentary of Skandaswami, the commentary of Venkatamadhava, and Sayanacharya's commentary titled *Madhaviya Vedartha Prakashika* are the principal ones, and it is these that I have relied on here. Of the three, Skandaswami's commentary is the oldest. It explains each verse in simple, plain language, without delving deeply into grammatical technicalities — offering only a straightforward sense. This commentary is not widely available, and it differs from Sayana's commentary at several points of interpretation. Surviving copies are preserved in places such as Madras, Trivandrum, and a few other locations [place name partly unclear in the scan].
+I have already discussed, in the introductory section (Peetika-prakarana) of 25 chapters, the main commentaries (bhashyas) available on the Rigveda. Among these, the commentary of Skandaswami, the commentary of Venkatamadhava, and Sayanacharya's commentary titled *Madhaviya Vedartha Prakashika* are the principal ones, and it is these that I have relied on here. Of the three, Skandaswami's commentary is the oldest. It explains each verse in simple, plain language, without delving deeply into grammatical technicalities — offering only a straightforward sense. This commentary is not widely available, and it differs from Sayana's commentary at several points of interpretation. Surviving copies are preserved in places such as Madras, Trivandrum, and a few other locations [place name partly unclear in the scan].
 
 Venkatamadhava's commentary, by contrast, is quite detailed, offering word-by-word (pratipada) explanations and addressing grammar and Mimamsa matters as needed, rather than giving only a terse gloss. Because of this thoroughness, Vedic study has been made considerably easier with the help of this one commentary; its style is close in spirit to Sayana's. Having carefully examined, compared, and corrected this text — with extensive notes and explanations — a scholar (Dr. Swaroop) printed and published it in four parts.
 
@@ -75,7 +75,7 @@ There is no need to dwell further on doubts surrounding the composition of Sayan
 
 For this reason, in undertaking this Kannada rendering of the Rigveda, I have mainly followed Sayana's commentary, while also drawing, where relevant, on the views of other commentators and of modern Western Vedic scholarship. The method I have followed in this translation is as follows —
 
-**(1)** At the beginning of the book, in the introductory section (Peetika), I have gathered and discussed, in appropriate chapters, many subjects that a reader ought to know beforehand for the sake of Vedic understanding, compiled from numerous rare texts and their research, along with a general overview. Reading this introduction should leave no doubt or uncertainty about fully and correctly understanding matters relating to Vedic discussion.
+**(1)** At the beginning of the book, in the introductory section (Peetika), I have gathered and discussed, in the 25 chapters of the introduction called Purva-peetika, many subjects that a reader ought to know beforehand for the sake of Vedic understanding, compiled from numerous rare texts and their research, along with a general overview. Reading this introduction should leave no doubt or uncertainty about fully and correctly understanding matters relating to Vedic discussion.
 
 ### Page vii
 
@@ -185,7 +185,7 @@ At the unified pitha (Ekapeetha) of Karnataka, in the great and momentous cause 
 
 In accomplishing this, he received the support of many eminent teachers, statesmen, and elders devoted to learning. Notable among them was Sri Jayachamarajendra Wodeyar Bahadur (K.C.B., K.C.S.I.), who, recognizing the importance of this work for the country, together with several scholars devoted to Vedic study, gave leadership and sustained effort under His Holiness's guidance to see this great undertaking through — and it is thanks to the generous patronage of these benefactors that this publication venture was made possible.
 
-This work, originally conceived on a scale of several thousand pages [exact figure unclear in the scan], is being published in several parts. The present part contains the introductory section (Purva-peethika); the parts that follow will present the essential meaning of the mantras of the four Vedas, keeping the treatment focused and free of excessive elaboration.
+This work, now begun, will be published in about 25 parts of 1000 pages. The present part contains the introductory section (Purva-peethika); the parts that follow will present the essential meaning of the mantras of the four Vedas, keeping the treatment focused and free of excessive elaboration.
 
 *(Page continues into an expression of gratitude and hope for the work's reception:)*
 
@@ -513,7 +513,7 @@ The Taittiriya Brahmana states the same. Words appearing in its authoritative pa
 > आयुरस्मिन् विद्यते अनेन वा आयुर्विन्दतीति आयुर्वेदः ।
 >
 > आयुर् अस्मिन् विद्यते अनेन वा आयुर् विन्दति इति आयुर्वेदः*
-> *āyur asmin vidyate anena vā āyur vindati iti āyurvedaḥ* (Sutra-sthana 1.24)
+> *āyur asmin vidyate anena vā āyur vindati iti āyurvedaḥ* (Sutra-sthana 1.14)
 >
 > "That in which longevity (ayus) resides, or that by which one obtains longevity — hence, Ayurveda."
 
@@ -523,7 +523,7 @@ That is: longevity resides within it, or one obtains longevity by means of it �
 
 A certain consistency emerges from this. According to Sushruta and his commentator Chakrapani, the word is formed with the suffix *ghañ*, used both in an instrumental sense and in a locative sense. Dallana notes that the root *vid* carries four meanings: "to exist," "to know," "to gain," and "to deliberate" — and it is from these that Sushruta's commentators derive the etymology of "Veda." The Charaka Samhita similarly holds that because one comes to know longevity through it, it is Ayurveda; its commentator Chakrapani explains *āyu vindati* ("obtains longevity") as "reveals longevity" — hence Ayurveda. In short: *vid* means "to know," and "Veda" derives from this root.
 
-Among Atharvana-tradition scholars, similar derivations are offered by other writers as well [a passage here is too indistinct in the scan to render with confidence]. Kshirasvamin, commentator on the Amarakosha, writes: *vidanti jñena dharmaṃ vedaḥ* — "they know dharma through this; hence, Veda" (1.4.6) — and other commentators similarly gloss it as "that by which one knows dharma and related matters." The Jain scholar Hemachandra, in his *Abhidhana-chintamani*, gives an equivalent formula. Thus, several scholars argue that "Veda" arises from the root *vid* in the sense "to know."
+Among Atharvana-tradition scholars, similar derivations are offered by other writers as well [a passage here is too indistinct in the scan to render with confidence]. Kshirasvamin, commentator on the Amarakosha, writes: *vidanti jñena dharmaṃ vedaḥ* — "they know dharma through this; hence, Veda" (1.5.3) — and other commentators similarly gloss it as "that by which one knows dharma and related matters." The Jain scholar Hemachandra, in his *Abhidhana-chintamani*, gives an equivalent formula. Thus, several scholars argue that "Veda" arises from the root *vid* in the sense "to know."
 
 Medhatithi, commenting on the Manu-smriti, explains along similar lines: that the meaning of dharma, unknowable by any other means, is known through this text — hence it is called "Veda." Elsewhere, it is explained that the Veda makes known the bliss of liberation (moksha-sukha) that comes through the relinquishing of action; and Haradatta likewise glosses it simply as *vedayati iti vedaḥ* — "that which makes known is called Veda."
 
@@ -587,7 +587,7 @@ Texts of the Vedanga class and other works that depend on the Veda are called "S
 
 ### Divisions of the Veda
 
-There are four Vedas: Rigveda, Yajurveda, Samaveda, and Atharvaveda. Let us examine each carefully. Of the four, the Rigveda is by far the most important and the most ancient. Many Rigveda mantras recur throughout the Yajurveda, Samaveda, and especially the Atharvaveda. In the Samaveda, apart from a small number of mantras, virtually all the mantras are themselves drawn from the Rigveda. [The text here explains why the Rigveda is given priority] — one should give the Rigveda first place, since even in studying and learning the meaning of all four Vedas, and even in the mere recitation of the root text, this priority holds, on the strength of the following:
+There are four Vedas: Rigveda, Yajurveda, Samaveda, and Atharvaveda. Let us examine each carefully. Of the four, the Rigveda is by far the most important and the most ancient. Many Rigveda mantras recur throughout the Yajurveda, Samaveda, and especially the Atharvaveda. In the Samaveda, apart from 75 mantras, all the rest are Rigveda mantras. [The text here explains why the Rigveda is given priority] — one should give the Rigveda first place, since even in studying and learning the meaning of all four Vedas, and even in the mere recitation of the root text, this priority holds, on the strength of the following:
 
 > तस्माद्यज्ञात्सर्वहुतः ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत ॥
 >
@@ -626,7 +626,7 @@ The Samhita portion of the Rigveda is the most ancient portion of any of the Ved
 
 ...consistently applied throughout, joining words and syllables in sequence — this is what is meant by the "Samhita" of Vedic mantras. Each of the four Vedas has its own separate Samhita, Brahmana, Aranyaka, and Upanishad portions, as well as its own distinct Shrauta-sutras and other Sutra-texts. Let us examine the key points here.
 
-The Rigveda Samhita has ten divisions, called Mandalas. Generally, each Mandala is associated with one principal rishi or his lineage, whose mantras form that Mandala — except Mandalas 1, 8, 9, and 10, which contain mantras by multiple different rishis. In Mandala 9 specifically, although the rishis vary, every mantra shares the same deity, Soma — this Mandala was formed by gathering all mantras addressed to Soma regardless of who composed them, so its unifying feature is a shared deity rather than a shared rishi.
+The Rigveda Samhita has ten divisions, called Mandalas. Generally, each Mandala is associated with one principal rishi or his lineage, whose mantras form that Mandala — except Mandalas 1, 9, and 10, which contain mantras by multiple different rishis. In Mandala 9 specifically, although the rishis vary, every mantra shares the same deity, Soma — this Mandala was formed by gathering all mantras addressed to Soma regardless of who composed them, so its unifying feature is a shared deity rather than a shared rishi.
 
 Mandalas 2 through 8 are attributed respectively to the rishis Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha, and Kanva. Each Mandala is further divided into Anuvakas and Suktas, as the following table shows:
 
@@ -644,11 +644,11 @@ Mandalas 2 through 8 are attributed respectively to the rishis Gritsamada, Vishv
 | 10 | 12 | 191 | 1754 | Various rishis |
 | **Total** | **85** | **1028** | **10,552** | |
 
-In total, the Rigveda contains 10,552 mantras. In Max Müller's printed edition of the Rigveda Samhita, the total given is 10,520. The reason for this discrepancy: in certain suktas — in Mandala 1 and in a sukta of Mandala 8 — some mantras are composed in the Dvipada ("two-foot") meter, where two padas (half-lines) together form one complete unit of sense, and by rule should be counted as a single mantra.
+In total, the Rigveda contains 10,552 mantras. In Max Müller's printed edition of the Rigveda Samhita, the total given is 10,520. The reason for this discrepancy: suktas 65, 66, 67, 68, 69 and 70 of Mandala 1 have 10 mantras each, and sukta 24 of Mandala 5 has 4 mantras; their meter is Dvipada ("two-foot"), where two padas (half-lines) together form one complete unit of sense, and by rule should be counted as a single mantra.
 
 ### Page 13
 
-Counted this way, some of the suktas mentioned end up with fewer mantras than in other reckonings. Max Müller, however, evidently treated such paired half-verses as separate mantras according to their metrical labeling, arriving at a different total — not incorrect exactly, but a deliberate methodological choice on his part, which should be understood as such rather than as an error. In addition, in a couple of specific suktas, following the standard counting method, what should have been counted as half a mantra appears to have been printed as a full mantra. Combining single mantras of one meter under a different classification (or the reverse) is not something traditional scholarship readily accepts. For this reason, the more defensible count is that the Rigveda contains 10,552 mantras, as given above.
+Counted this way, the suktas mentioned above have 64 mantras. Max Müller, however, taking "Dvipada" to be only the name of a meter, joined 2 half-mantras into one mantra so as to have 4 padas, and so reduced the 64 mantras to 32. This is not right, and he must later have realised that his method was not right: further on, the 10 mantras of sukta 29 [?] of the eighth Mandala and the 4 mantras of sukta 162 [?] of the tenth Mandala he printed correctly, not as before, treating each half-mantra as one mantra. Combining single mantras of one meter under a different classification (or the reverse) is not something traditional scholarship readily accepts. For this reason, the more defensible count is that the Rigveda contains 10,552 mantras, as given above.
 
 To restate: the Rigveda's ten Mandalas are divided into Anuvakas, and these into Suktas. Some suktas contain only a single mantra; others contain many. Generally, all mantras addressed uniformly to one deity are grouped as one sukta. For any Vedic mantra, one should be able to state its rishi, deity, and meter. Each sukta has one rishi (though a single rishi may be credited across many suktas). Apart from Mandalas 8 and 9, every other Mandala belongs to a single family/lineage of rishis.
 
@@ -680,46 +680,46 @@ The book lists the Khila-suktas by their opening words (pratika), each with its 
 
 | # | Opening words (pratika) | Mantras | Placement |
 |---|---|---|---|
-| 1 | शन्नैष्टिदद्य *(śannaiṣṭidadya)* | 3 | after Mandala 1, Sukta 1 |
-| 2 | माबिभेर्न *(mābibherna)* | 10 | at the start of Mandala 1's corner |
-| 3 | कुहूनमहम् *(kuhūnamaham)* | 6 | after Mandala 2 |
-| 4 | भद्रं वद *(bhadraṃ vada)* | 8 | at the end of Mandala 2's corner |
-| 5 | जागर्षितम् *(jāgarṣitam)* | 1 | after Mandala 3 |
-| 6 | सूक्तान्तेऽस्यैतत् *(sūktānte'syaitat)* | 2 | after Mandala 3 |
-| 7 | स्वस्त्ययनम् *(svastyayanam)* | 2 | after Mandala 3 |
-| 8 | वर्षन्तु ते विभावरि *(varṣantu te vibhāvari)* | 1 | after Mandala 3 |
-| 9 | आ ते गर्भो *(ā te garbho)* | 5 | at the end of Mandala 4's corner |
-| 10 | अग्निरृतु *(agnir-ṛtu)* | 5 | — |
-| 11 | हिरण्यवर्णम् *(hiraṇyavarṇam)* — the **Shri-sukta** | 15 (approx.) | — |
-| 12 | चक्षुश्च श्रोत्रम् *(cakṣuś ca śrotram)* | 8 | after Mandala 5 |
-| 13 | सूक्तान्ते *(sūktānte)* | 3 | after Mandala 5 |
-| 14 | शंवतीः पारयन्ति *(śaṃvatīḥ pārayanti)* | 6 | after Mandala 6 |
-| 15 | स्वप्न स्वप्नाधिकरणे *(svapna svapnādhikaraṇe)* | 8 | after Mandala 6 |
-| 16 | यस्य व्रतम् *(yasya vratam)* | 1 | after Mandala 6 |
-| 17 | उपप्लवत *(upaplavata)* | 1 | after Mandala 6 |
-| 18 | पावमानीः *(pāvamānīḥ)* | 13 | after Mandala 8 |
-| 19 | इळ-एव-वामनु *(iḷa-eva-vāmanu)* | 3 | after Mandala 8, near the end |
-| 20 | यत्र तक्ष्वरम् *(yatra takṣvaram)* | 6 | at the end of Mandala 9's corner |
-| 21 | सस्रुषीस्तदपसो *(sasruṣīstadapaso)* | 9 | Mandala 10, early |
-| 22 | सितासीते *(sitāsīte)* | 3 | — |
-| 23 | अविधवा भव *(avidhavā bhava)* | 6 | — |
-| 24 | असौ या सेना *(asau yā senā)* | 3 | — |
-| 25 | हविर्भरेषे *(havir-bhareṣe)* | 3 | — |
-| 26 | आरात्री पार्थिवम् *(ārātrī pārthivam)* — the **Ratri-sukta** | 8 (approx.) | — |
-| — | उलूकयातुम् *(ulūkayātum)* | *(corresponds to Rigveda 10.165)* |
-| — | पिशंगभृष्टि *(piśaṅga-bhṛṣṭi)* | *(corresponds to Rigveda 10.162)* |
-| 27 | आयुष्यं वर्चस्यम् *(āyuṣyaṃ varcasyam)* | 11 | after Mandala 10 |
-| 28 | अर्वांचमिन्द्रम् *(arvāñcam indram)* | 9 | after Mandala 10 |
-| 29 | यां कल्पयन्ति *(yāṃ kalpayanti)* | 8 | after Mandala 10 |
-| 30 | हिमस्य त्वा *(himasya tvā)* | 8 | after Mandala 10 |
-| 31 | मेधां मुख्यम् *(medhāṃ mukhyam)* — the **Medha-sukta** | 10 | after Mandala 10 |
-| 32 | ऊर्ध्वरेख *(ūrdhvarekha)* | 1 | after Mandala 10 |
-| 33 | येनेदं भूतम् *(yenedaṃ bhūtam)* — the **Shiva-sankalpa** hymn | 6 | after Mandala 10 |
-| 34 | नेजमेष *(nejameṣa)* | 3 | after Mandala 10 |
-| 35 | अनीकवन्त *(anīkavanta)* | 1 | after Mandala 10 |
-| 36 | संज्ञानमुशना *(saṃjñānam uśanā)* | — | at the very end of Mandala 10 |
+| 1 | शन्नैष्टिदद्य *(śannaiṣṭidadya)* | 3 | after Maṃ. 1, Sūkta 50 |
+| 2 | माबिभेर्न *(mābibherna)* | 10 | at the end of the first Maṇḍala |
+| 3 | कुहूनमहम् *(kuhūnamaham)* | 8 | after Maṃ. 2-32 |
+| 4 | भद्रं वद *(bhadraṃ vada)* | 6 | at the end of the second Maṇḍala |
+| 5 | जागर्षितम् *(jāgarṣitam)* | 1 | after Maṃ. 5-44 |
+| 6 | सूक्तान्तेऽस्यैतत् *(sūktānte'syaitat)* | 2 | after Maṃ. 5-49 |
+| 7 | स्वस्त्ययनम् *(svastyayanam)* | 2 | after Maṃ. 5-51 |
+| 8 | वर्षन्तु ते विभावरि *(varṣantu te vibhāvari)* | 1 | after Maṃ. 5-84 |
+| 9 | आ ते गर्भो *(ā te garbho)* | 5 | at the end of the fifth Maṇḍala |
+| 10 | अग्निरृतु *(agnir-ṛtu)* | 5 | at the end of the fifth Maṇḍala |
+| 11 | हिरण्यवर्णम् *(hiraṇyavarṇam)* — the **Shri-sukta** | 29 | at the end of the fifth Maṇḍala |
+| 12 | चक्षुश्च श्रोत्रम् *(cakṣuś ca śrotram)* | 3 | after Maṃ. 6-44 |
+| 13 | सूक्तान्ते *(sūktānte)* | 2 | after Maṃ. 6-48 |
+| 14 | शंवतीः पारयन्ति *(śaṃvatīḥ pārayanti)* | 6 | after Maṃ. 7-35 |
+| 15 | स्वप्न स्वप्नाधिकरणे *(svapna svapnādhikaraṇe)* | 12 | after Maṃ. 7-55 |
+| 16 | यस्य व्रतम् *(yasya vratam)* | 1 | after Maṃ. 7-96 |
+| 17 | उपप्लवत *(upaplavata)* | 1 | after Maṃ. 7-103 |
+| 18 | पावमानीः *(pāvamānīḥ)* | 21 | after Maṃ. 9-67 |
+| 19 | इळ-एव-वामनु *(iḷa-eva-vāmanu)* | 2 | after Maṃ. 9-3-5 |
+| 20 | यत्र तक्ष्वरम् *(yatra takṣvaram)* | 6 | at the end of the ninth Maṇḍala |
+| 21 | सस्रुषीस्तदपसो *(sasruṣīstadapaso)* | 1 | after 10-9 |
+| 22 | सितासीते *(sitāsīte)* | 1 | after 1-75-5 |
+| 23 | अविधवा भव *(avidhavā bhava)* | 6 | after 10-85 |
+| 24 | असौ या सेना *(asau yā senā)* | 2 | after 10-103 |
+| 25 | हविर्भरेषे *(havir-bhareṣe)* | 1 | after 10-106 |
+| 26 | आरात्री पार्थिवम् *(ārātrī pārthivam)* — the **Ratri-sukta** | 23 | after 10-107 |
+| — | उलूकयातुम् *(ulūkayātum)* | 1 | (Ṛgveda mantra 7-104-22) |
+| — | पिशंगभृष्टि *(piśaṅga-bhṛṣṭi)* | 1 | (Ṛgveda mantra 1-133-5) |
+| 27 | आयुष्यं वर्चस्यम् *(āyuṣyaṃ varcasyam)* | 11 | after Maṃ. 10-128 |
+| 28 | अर्वांचमिन्द्रम् *(arvāñcam indram)* | 1 | after Maṃ. 10-128 |
+| 29 | यां कल्पयन्ति *(yāṃ kalpayanti)* | 48 | after Maṃ. 10-128 |
+| 30 | हिमस्य त्वा *(himasya tvā)* | 13 | after Maṃ. 10-142 |
+| 31 | मेधां मुख्यम् *(medhāṃ mukhyam)* — the **Medha-sukta** | 11 | after Maṃ. 10-151 |
+| 32 | ऊर्ध्वरेख *(ūrdhvarekha)* | 1 | after Maṃ. 10-161 |
+| 33 | येनेदं भूतम् *(yenedaṃ bhūtam)* — the **Shiva-sankalpa** hymn | 26 | after Maṃ. 10-166 |
+| 34 | नेजमेष *(nejameṣa)* | 3 | after Maṃ. 10-184 |
+| 35 | अनीकवन्त *(anīkavanta)* | 1 | after Maṃ. 10-187 |
+| 36 | संज्ञानमुशना *(saṃjñānam uśanā)* | 15 | at the end of the tenth Maṇḍala |
 
-*(Mantra counts and placement references above follow the source as closely as this scan's resolution allows.)* These suktas are not found complete in all manuscript copies.
+*(Counts and placements as printed; 'Maṃ. 2-32' = Maṇḍala 2, Sūkta 32.)* These suktas are not found complete in all manuscript copies.
 
 Among the Mandalas discussed, the divisions themselves are extremely ancient and their sequence long fixed. However, it is well known that reckonings of the number of mantras within them vary somewhat between traditions — some finding slightly fewer, others slightly more. This does not mean the Mandalas themselves have been redivided; rather, an alternative division exists, found more convenient by scholars: the same Samhita text is divided into 8 units called **Ashtakas**, each Ashtaka into 8 chapters (**Adhyayas**), and each Adhyaya into portions called **Vargas** — a scheme designed so that each Adhyaya contains a fairly even number of mantras, making it more practical for study. The table below gives the figures:
 
@@ -735,7 +735,7 @@ Among the Mandalas discussed, the divisions themselves are extremely ancient and
 | 8 | 8 | 146 | 246 | 1281 | 52,178 |
 | **Total** | **64** | **1028** | **2024** | **10,552** | **397,265** |
 
-As for how the Vargas themselves are counted: generally, a sukta of up to 8 mantras forms a single Varga. Where a sukta's mantras exceed a multiple of 8, any remainder of 5 or more mantras forms its own additional Varga; a remainder of 4 or fewer is simply folded into the preceding Varga rather than forming a new one.
+As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counted as 1 Varga. Suktas of 9 or more mantras are divided into Vargas of 5 mantras each; if 1, 2 or 3 mantras remain at the end they are added to the last Varga, and if 4 remain, they form a Varga by themselves.
 
 ---
 
@@ -999,7 +999,7 @@ As for how the Vargas themselves are counted: generally, a sukta of up to 8 mant
 
 The Aranyakas discuss ritual action (karma) at a subtler, more philosophical level, leaning toward knowledge of Brahman, and are similar in character to the Upanishads. They suit the needs of a particular stage of life. Householders following the path of ritual action (karma-marga) — the Brahmanas — describe such rites in full external detail; the Aranyakas, by contrast, do not dwell on the external procedure but instead explain the deeper, hidden significance of these same acts. For this reason, the Aranyakas are associated with the path of renunciation (sannyasa), while those seeking the path of pure knowledge (jnana-marga) turn to the Upanishads. What belongs to the karma-marga is set out in the Brahmanas — though some hold, alternatively, that the three portions (Brahmana, Aranyaka, Upanishad) correspond respectively to the three paths of ritual action, meditative worship (upasana), and knowledge (jnana).
 
-The most widely known and discussed portions of the Veda are the Upanishads, properly called "Vedanta" — the culminating portions of the Veda. Depending on the tradition, a given Upanishad may belong to a Brahmana, to an Aranyaka, or stand as an independent text. Tradition counts as many as 108 Upanishads, though scholars disagree on this, and only 10 or 11 are generally regarded as the principal ones deserving special attention.
+The most widely known and discussed portions of the Veda are the Upanishads, properly called "Vedanta" — the culminating portions of the Veda. Depending on the tradition, a given Upanishad may belong to a Brahmana, to an Aranyaka, or stand as an independent text. All together the Upanishads are said to be 108, though now as many as about 200 are available; and only 10 or 11 are generally regarded as the principal ones deserving special attention.
 
 The word "Upanishad" literally suggests "sitting near" (upa + ni + sad) — a disciple sitting close to the teacher — referring to knowledge conveyed in this intimate, one-to-one manner. As this concerns the guru-disciple relationship rather than our present subject, it need not be discussed further here.
 
@@ -1068,9 +1068,9 @@ At the start of the first chapter of the Taittiriya Upanishad (of the Krishna Ya
 
 ...and the associated rules that assist correct recitation are set out in Pratishakhya texts specific to each shakha (recension) — one Pratishakhya per shakha of a Veda. The Rigveda has two principal shakhas: Shakala and Bashkala, with no essential difference between them beyond arrangement and ritual custom. Among the authors of Shiksha-texts, the principal ones are Bharadvaja, Vyasa, Yajnavalkya, Narada, Panini, Vasishtha, Shaunaka, Shambhu, and Vararuchi; each shakha's Shiksha corresponds to its own Sutra-text, called a Pratishakhya.
 
-For the Rigveda's Shakala recension, the Pratishakhya author is Shaunaka (who also authored the Atharvaveda's Chaturadhyayika Pratishakhya); for the Yajurveda, Katyayana. The Shakala Pratishakhya has 18 chapters (patalas), grouped into 6 larger sections. The first 3 patalas cover letters, accent, and consonants; patalas 4–5 cover the combined (Samhita) text, including vowel and consonant combination rules; patala 6 covers accent rules; patala 7, pronunciation method; patalas 8–9, consonant combinations; and patalas 10–18, further phonetic and accentual rules, along with matters of emphasis, meter, and related topics.
+For the Rigveda's Shakala recension, the Pratishakhya author is Shaunaka (who also authored the Atharvaveda's Chaturadhyayika Pratishakhya); for the Yajurveda, Katyayana. The Shakala Pratishakhya has 3 adhyayas, each made up of six patalas: 18 patalas in all. The first patala is the Paribhasha-patala, describing letters, accent, consonants and the like. The second is the Samhita-patala, on the combination of letters and, within it, the combination of 2-3 vowels. The third is the Svara-patala, which teaches the manner of pronunciation. Patalas 4, 5 and 6 explain the sandhi and changes of consonants; patalas 7 to 9 deal with the svarita accent; and the remaining patalas with the origin and power of letters, meter and similar topics.
 
-For Shukla Yajurveda, the Vajasaneyi Pratishakhya (8 chapters) was composed by the sage Katyayana, citing earlier Pratishakhya authors of the Shaunaka and Kashyapa lineages. For Krishna Yajurveda, the Taittiriya Pratishakhya names around 30 such authors. For the Samaveda, there are the Sama-Pratishakhya, the Pushpa-sutra, and the Sanchi-vidhi-sutra. For the Atharvaveda, the Atharva-Pratishakhya.
+For Shukla Yajurveda, the Vajasaneyi Pratishakhya (8 chapters) was composed by the sage Katyayana, citing earlier Pratishakhya authors of the Shaunaka and Kashyapa lineages. For Krishna Yajurveda, the Taittiriya Pratishakhya names about 20 such authors. For the Samaveda, there are the Sama-Pratishakhya, the Pushpa-sutra, and the Sanchi-vidhi-sutra. For the Atharvaveda, the Atharva-Pratishakhya.
 
 ### 2. Vyakarana (Grammar)
 
@@ -1101,7 +1101,7 @@ The next section is the "Naigama-kanda": words that, though found only in the Ve
 
 The Nirukta proper is the major work explaining the Nighantu's contents, and modern Sanskrit lexicography effectively begins from it — it is the earliest surviving text specifically devoted to explaining Vedic meaning. Yaska explains meaning independently, by his own method, though never in a way that would contradict the Veda's own intent; he states himself that his interpretations generally rest on the authority of the Brahmanas and the Aranyaka tradition.
 
-The Nirukta has 14 chapters, plus two further supplementary chapters. The first three chapters explain the Naighantuka-kanda; chapters 4–6 explain the Naigama-kanda; from chapter 7 onward, the Daivata-kanda is explained. For Vedic study, the first and last chapters carry particular importance.
+The Nirukta has 12 chapters, plus two further supplementary chapters. The first three chapters explain the Naighantuka-kanda; chapters 4–6 explain the Naigama-kanda; from chapter 7 onward, the Daivata-kanda is explained. For Vedic study, the first and last chapters carry particular importance.
 
 At the very outset, Yaska defines nouns, verbs, prepositions, and particles. The prevailing view — held even before Yaska — was that every noun derives from a verbal root; Yaska adopts this position too, deriving nominal forms from roots by showing a fitting semantic connection between them, wherever the explanation comes easily and naturally, and deciding between competing senses on the strength of the best-supported reading. Against this view, the grammarian Gargya is known to have dissented. Yaska also acknowledges that one and the same object may carry several names, or several objects may share one name (i.e., synonymy and homonymy both occur), and that not every word's origin can be traced to a clear founding principle — some function as mere conventional labels, a point grammar itself does not claim to fully resolve, and Yaska addresses this candidly in his own introduction.
 
@@ -1145,21 +1145,21 @@ It was through these Kalpa-sutras that a new era of Vedic study began — compos
 
 ### Shrautasutras
 
-These sutras primarily explain the procedure for performing yajnas. The person on whose behalf the yajna is performed is called the *yajamana*; priests called *purohitas* are engaged to help him carry out the mantras and ritual components correctly. As already noted, a yajna has four principal officiants — Hotr, Adhvaryu, Udgatr, and Brahma — with further assistant priests engaged depending on the yajna's scale. Three sacred fires are principal in a yajna: Dakshina-agni, Garhapatya, and Ahavaniya.
+These sutras primarily explain the procedure for performing yajnas. The person on whose behalf the yajna is performed is called the *yajamana*; priests called *purohitas* are engaged to help him carry out the mantras and ritual components correctly. As already noted, a yajna has four principal officiants — Hotr, Adhvaryu, Udgatr, and Brahma — with further officiating priests, up to 16 in all, depending on the kind of yajna. Three sacred fires are principal in a yajna: Dakshina-agni, Garhapatya, and Ahavaniya.
 
 The first and most fundamental act in any yajna is establishing the sacred fire, either through the Agnyadheya rite or by transferring it from an already-consecrated fire. Fire is produced specifically by friction using two designated pieces of wood (Aranya) — only fire kindled this way may be used in a yajna; fire started by matches or other modern means is not proper. Maintaining this sacred fire involves numerous ancillary rites and mantras, and every element of a yajna proceeds strictly according to the Sutra-texts' prescribed rules.
 
-Among yajnas, the Agnihotra, Darsha-Purnamasa, Soma, Chaturmasya, and Agnishtoma rites are the principal ones. "Darsha-Purnamasa" refers to the rites performed on the new-moon and full-moon days. The year's three seasonal divisions each begin with a rite called "Chaturmasya" (the four-monthly rite), itself with several sub-varieties. Soma-sacrifices likewise come in many distinct kinds, governed by particular rules concerning the relationship between the yajamana and the officiating priests from the initiation (Diksha) rite onward; a Soma-yaga may run continuously for a single day or, in its most elaborate form (the "Sattra"), for as long as a year.
+Among yajnas, the Agnihotra, Darsha-Purnamasa, Soma, Chaturmasya, and Agnishtoma rites are the principal ones. "Darsha-Purnamasa" refers to the rites performed on the new-moon and full-moon days. The year's three seasonal divisions each begin with a rite called "Chaturmasya" (the four-monthly rite), itself with several sub-varieties. Soma-sacrifices likewise come in many distinct kinds, governed by particular rules concerning the relationship between the yajamana and the officiating priests from the initiation (Diksha) rite onward; a Soma-yaga may run for up to 12 days or, in its most elaborate form (the "Sattra"), for as long as a year.
 
-Central to the Soma-yaga is the construction of the fire-altar (vedi) itself — the Agnishtoma rite requires it as an essential preliminary. The required number and type of bricks, their composition, and the exact sequence for laying them are described in painstaking detail, down to precisely when and with which mantras each brick is consecrated. An altar may use as many as several thousand bricks, requiring multiple officiating priests working to strict procedure — none of it left to improvisation. It is precisely this demand for exactness that makes these Sutra-texts so indispensable.
+Central to the Soma-yaga is the construction of the fire-altar (vedi) itself — the Agnishtoma rite requires it as an essential preliminary. The required number and type of bricks, their composition, and the exact sequence for laying them are described in painstaking detail, down to precisely when and with which mantras each brick is consecrated. In this Agnicayana as many as 10800 bricks are used, and 16 officiating priests carry it all out by rule, working to strict procedure — none of it left to improvisation. It is precisely this demand for exactness that makes these Sutra-texts so indispensable.
 
 ### Page 34
 
-**For the Rigveda:** two Shrautasutras exist — the Ashvalayana and the Sankhyayana. The Sankhyayana Shrautasutra is especially current in Gujarat and northern regions, while the Ashvalayana is more widespread in parts of South India. There is no especially significant difference in subject matter between the two, though the Sankhyayana treats rites such as the Ashvamedha and Rajasuya in greater detail. The Sankhyayana Sutra generally follows the Kaushitaki Brahmana; its last two of several parts appear to be later additions, following material from the Kaushitaki Aranyaka specifically.
+**For the Rigveda:** two Shrautasutras exist — the Ashvalayana and the Sankhyayana. The Sankhyayana Shrautasutra is especially current in Gujarat and northern regions, while the Ashvalayana is more widespread in parts of South India. There is no especially significant difference in subject matter between the two, though the Sankhyayana treats rites such as the Ashvamedha and Rajasuya in greater detail. The Sankhyayana Sutra generally follows the Kaushitaki Brahmana; it has 18 parts, and its last two parts appear to be later additions, following material from the Kaushitaki Aranyaka specifically.
 
-The Ashvalayana Shrautasutra includes a Grihya (domestic-rite) portion and generally follows the Aitareya Brahmana. Some say the sage Ashvalayana was a disciple of Shaunaka and also the author of the fourth chapter of the Aitareya Aranyaka.
+The Ashvalayana Shrautasutra has 12 parts and generally follows the Aitareya Brahmana. Some say the sage Ashvalayana was a disciple of Shaunaka and also the author of the fourth chapter of the Aitareya Aranyaka.
 
-**For Shukla Yajurveda:** the Katyayana Shrautasutra, in 26 chapters; the last three chapters relate to Samaveda matters and largely follow the Shatapatha Brahmana.
+**For Shukla Yajurveda:** the Katyayana Shrautasutra, in 25 chapters; the three chapters 22 to 24 relate to Samaveda matters, and the rest largely follows the Shatapatha Brahmana.
 
 **For Krishna Yajurveda:** eight Shrautasutras exist, of which only a few have been printed. The Baudhayana and Bharadvaja Shrautasutras are quite ancient. The Apastamba Shrautasutra (30 chapters) has the Hiranyakeshiya as its supplementary text; both follow the Taittiriya tradition. The Manava Shrautasutra, connected to the Maitrayani Samhita, is very ancient. The Vaikhanasa Shrautasutra remains unprinted, surviving only in scattered manuscripts.
 
@@ -1173,11 +1173,11 @@ These same authors composed further Sutra-texts as well — the Grihyasutras and
 
 The Ashvalayana Grihyasutra has four chapters, each divided into further sections (Kandikas). Among its subjects: the Pakayajna, Balikarana, and the daily duties of a twice-born person — Chaula (tonsure), Upanayana (sacred-thread initiation), and other rites of passage, sixteen in number altogether. These rites are far simpler than the Shrauta rites, needing little preparation or material — reflecting the underlying principle that a person's own personal rites should be performed modestly, according to means, without excess or ostentation.
 
-**For the Rigveda:** two Grihyasutras — Ashvalayana and Sankhyayana. The Sankhyayana Grihyasutra (6 parts) generally follows the Kaushitaki Brahmana; related to it is the Shambhavya Grihyasutra, covering some distinct matters, though unprinted and surviving only in manuscript. The Ashvalayana Grihyasutra is closely tied to the Aitareya Brahmana and is described as the latter portion of the Ashvalayana Shrautasutra, in four parts each divided into sections called "Pada."
+**For the Rigveda:** two Grihyasutras — Ashvalayana and Sankhyayana. The Sankhyayana Grihyasutra (6 parts) generally follows the Kaushitaki Brahmana; related to it is the Shambhavya Grihyasutra, covering some distinct matters, though unprinted and surviving only in manuscript. The Ashvalayana Grihyasutra is closely tied to the Aitareya Brahmana and is described as the latter portion of the Ashvalayana Shrautasutra, in 4 adhyayas, with 24, 10, 12 and 2 sections called "Kandikas" respectively.
 
 **For Shukla Yajurveda:** the Parasvata (also called Kashyapa or Vajasaneya) Grihyasutra, largely following the Katyayana Shrautasutra's subject matter; its influence is visible in the Yajnavalkya Dharmasutra as well.
 
-**For Krishna Yajurveda:** eight Grihyasutras, of which only 2–3 are printed. The Apastamba and Baudhayana Grihyasutras are especially popular in South India; the Hiranyakeshiya Kalpasutra closely follows Apastamba. The Bharadvaja Grihyasutra is not widely used. The Manava Grihyasutra mainly expounds subjects from its corresponding Shrautasutra and uniquely describes the Vinayaka-puja procedure, absent from other sutras. The later Karaka-Grihyasutra follows the Manava Grihyasutra, quoting many of its passages directly.
+**For Krishna Yajurveda:** eight Grihyasutras, of which only 3–4 are printed. The Apastamba and Baudhayana Grihyasutras are especially popular in South India; the Hiranyakeshiya Kalpasutra closely follows Apastamba. The Bharadvaja Grihyasutra is not widely used. The Manava Grihyasutra mainly expounds subjects from its corresponding Shrautasutra and uniquely describes the Vinayaka-puja procedure, absent from other sutras. The later Karaka-Grihyasutra follows the Manava Grihyasutra, quoting many of its passages directly.
 
 ### Page 36
 
@@ -1189,7 +1189,7 @@ The Vaikhanasa Grihyasutra, though ancient, discusses many distinctive subjects 
 
 ### The Sixteen Samskaras
 
-From birth to death, a twice-born person undergoes numerous prescribed rites — around 40 in all — of which the principal ones are known as the "sixteen samskaras" (or, in a shorter reckoning, "ten"). The chief among them: Jatakarma, Namakarana, Chudakarma, Upanayana, Vivaha, Garbhadhana, Simantonnayana, and the Antyeshti (funeral rites).
+From birth to death, a twice-born person undergoes numerous prescribed rites — around 40 in all — of which the principal ones are known as the Shodasha-samskaras, that is, the 16 samskaras. The chief among them: Jatakarma, Namakarana, Chudakarma, Upanayana, Vivaha, Garbhadhana, Simantonnayana, and the Antyeshti (funeral rites).
 
 **Jatakarma:** the rites performed immediately after birth, before the umbilical cord is cut.
 
@@ -1203,7 +1203,7 @@ From birth to death, a twice-born person undergoes numerous prescribed rites —
 
 This rite is prescribed for a Brahmin boy in his eighth year, a Kshatriya boy in his eleventh, and a Vaishya boy in his twelfth. Afterward, the boy either remains a lifelong celibate student (Naishthika-brahmachari) or lives in his guru's household, subsisting by begging alms and devoting himself continuously to Vedic study — performing the morning and evening twilight (sandhya) rites daily, living on alms alone, sleeping on the ground, speaking only when necessary, and acting according to the guru's instruction at all times. This entire way of life is called the Brahmacharya-ashrama; while some undertake it for life, most move on to the next life-stage once its prescribed period concludes — completing Vedic study, mastering other branches of learning, and, upon completing the Samavartana rite (marking the end of studentship) and proving themselves worthy, becoming eligible for marriage (vivaha).
 
-The marriage rite includes several significant elements: Panigrahana (taking the bride's hand), circumambulation of the fire, Saptapadi (seven steps taken together), and the viewing of the pole star and the star Arundhati, among others — the Rigveda's Surya-sukta (Mandala 10, Sukta 85) supplies the mantras specifically used in marriage. Panigrahana signifies that the couple are no longer to be separated. Having the bride step on a stone (Ashmarohana) signifies she should remain as steadfast as that stone. The Saptapadi — seven steps taken together — signifies that from that point on, the couple will share equally in life's joys and sorrows. The Lajahoma is the bride's fire-offering of puffed rice. Provision for a widow's remarriage is indicated where circumstances allow. In the Dhruva-darshana, the couple view the fire and then the pole star; in the Arundhati-darshana, the bride views and venerates the star Arundhati — signifying that, following the example of the sage Vasishtha's devoted wife Arundhati, she should conduct herself as a virtuous wife who raises worthy children and manages the household well. Since these marriage customs have changed little since Vedic times, much the same practices continue even today. Through marriage, a man enters the householder stage (Grihastashrama) — regarded as foremost among the four life-stages, since it alone makes possible the fulfillment of all four aims of human life (purushartha).
+The marriage rite includes several significant elements: Panigrahana (taking the bride's hand), circumambulation of the fire, Saptapadi (seven steps taken together), and the viewing of the pole star and the star Arundhati, among others — the Rigveda's Surya-sukta (Mandala 10, Sukta 84 [as printed]) supplies the mantras specifically used in marriage. Panigrahana signifies that the couple are no longer to be separated. Having the bride step on a stone (Ashmarohana) signifies she should remain as steadfast as that stone. The Saptapadi — seven steps taken together — signifies that from that point on, the couple will share equally in life's joys and sorrows. The Lajahoma is the bride's fire-offering of puffed rice. Provision for a widow's remarriage is indicated where circumstances allow. In the Dhruva-darshana, the couple view the fire and then the pole star; in the Arundhati-darshana, the bride views and venerates the star Arundhati — signifying that, following the example of the sage Vasishtha's devoted wife Arundhati, she should conduct herself as a virtuous wife who raises worthy children and manages the household well. Since these marriage customs have changed little since Vedic times, much the same practices continue even today. Through marriage, a man enters the householder stage (Grihastashrama) — regarded as foremost among the four life-stages, since it alone makes possible the fulfillment of all four aims of human life (purushartha).
 
 Beyond these life-cycle rites, a householder has ongoing daily duties, among which the **Panchamahayajnas** (five great sacrifices) are most important. The Taittiriya Aranyaka (Krishna Yajurveda), Prapathaka 1, Anuvaka 2, states:
 
@@ -1269,7 +1269,7 @@ cited many of its statements as authoritative. This text is thought connected to
 
 ### Shulbasutras
 
-These describe the construction of yajna-altars and are thus tied to the Shrautasutras. Only three survive: the **Apastamba, Baudhayana,** and **Katyayana Shulbasutras** — all connected to the Yajurveda; no equivalent texts are known for the other Vedas. The Apastamba Shulbasutra has three commentaries (Kapardi-bhashya, the oldest, in 6 patalas/82 khandas; Sundararaja's; and Karavindiya's) and has been printed in the Benares Sanskrit Series. The Baudhayana and Katyayana Shulbasutras have been translated into English with diagrams and printed in Calcutta, with commentaries by Dvarakanathayajvan (on Baudhayana) and by Someshvara's extensive *Somasudramanchandrika* (on Katyayana). These texts describe, in painstaking detail, the construction of the fire-pit and ritual implements, their use, and the precise dimensions required for the brick-built altar in the Agni-chayana rite — an established and carefully followed ancient custom. The Shulbasutras are considered the foundational source of the discipline of geometry/architecture (shilpa-shastra).
+These describe the construction of yajna-altars and are thus tied to the Shrautasutras. Only three survive: the **Apastamba, Baudhayana,** and **Katyayana Shulbasutras** — all connected to the Yajurveda; no equivalent texts are known for the other Vedas. The Apastamba Shulbasutra has three commentaries (Kapardi-bhashya, the oldest, in 6 patalas/26 khandas; Sundararaja's; and Karavindiya's) and has been printed in the Benares Sanskrit Series. The Baudhayana and Katyayana Shulbasutras have been translated into English with diagrams and printed in Calcutta, with commentaries by Dvarakanathayajvan (on Baudhayana) and by Someshvara's extensive *Somasudramanchandrika* (on Katyayana). These texts describe, in painstaking detail, the construction of the fire-pit and ritual implements, their use, and the precise dimensions required for the brick-built altar in the Agni-chayana rite — an established and carefully followed ancient custom. The Shulbasutras are considered the foundational source of the discipline of geometry/architecture (shilpa-shastra).
 
 ### Parishishtas (Supplements)
 
@@ -1289,13 +1289,13 @@ Katyayana, connected to Shukla Yajurveda, composed several further Parishishtas 
 
 An "Anukramanika" is a systematic index of the mantras, words, and other elements occurring in a text, in their original sequence. The Rigveda's Anukramanikas list its suktas, rishis, meters, deities, and other details in the order they occur in the Samhita. About 8 such indices exist for the Rigveda, all attributed to Shaunaka; similar information also appears within the Rigveda's own Pratishakhya texts. The best known is Katyayana's **Sarvanukramanika**, covering every sukta's order along with rishi, deity, and meter, tied to the exposition of Vedartha; its closing section states it was composed ahead of six other, now-lost, Anukramani-type works, and it has since become the standard reference, superseding the others.
 
-There is also, for the Rigveda, the **Arsha-Anukramani** (about 200 shlokas), listing which rishi composed which mantra. Similarly, the **Chandonukramani**...
+There is also, for the Rigveda, the **Arsha-Anukramani** (about 300 shlokas), listing which rishi composed which mantra. Similarly, the **Chandonukramani**...
 
 ### Page 43
 
-...(about 200 shlokas) lists the meters used in each mantra by Mandala, with counts — though this reckoning covers only six of the available texts. The **Anuvakanukramani** (about 40 shlokas) gives the opening words of each Anuvaka and the number of suktas in each, stating the Rigveda's sukta count as 1,017 (or 1,025 by some manuscript traditions — the exact figure varies), along with syllable counts and related details.
+...(about 300 shlokas) gives the names of the meters of the Rigveda, how many mantras of each meter there are in each Mandala, and how many in the whole Samhita; of the Chandonukramanis only 5 texts are now available. The Anuvakanukramani has only about 40 shlokas. It gives the opening words of the Rigveda's 85 Anuvakas and the number of suktas in those Anuvakas, and states the Rigveda's total as 1,017 suktas, or 1,025 suktas according to the Bashkala shakha, 10580 mantras (the mantra count given here is not correct), 153826 words and 432000 syllables, along with some other details.
 
-The **Padanukramani** catalogs the Veda's individual words; the **Suktanukramani** would detail the suktas themselves, though this text does not appear to survive. The **Devatanukramani** lists the deity names, but only partially survives. Sage Shaunaka is also credited with the **Brihaddevata** and the **Rigvidhana**. The Brihaddevata (roughly 700 shlokas across 8 chapters) explains at length which deities belong to which sukta and the etymology of individual words; the Rigvidhana explains the practical ritual application of the Rigveda's mantras. Both are extremely ancient — suggesting that even while the Rigveda Samhita was still taking its final shape, its practical use and application were already evolving in various directions.
+The **Padanukramani** catalogs the Veda's individual words; the **Suktanukramani** would detail the suktas themselves, though this text does not appear to survive. The **Devatanukramani** lists the deity names, but only partially survives. Sage Shaunaka is also credited with the **Brihaddevata** and the **Rigvidhana**. The Brihaddevata (1200 shlokas across 8 chapters) explains at length which deities belong to which sukta and the etymology of individual words; the Rigvidhana explains the practical ritual application of the Rigveda's mantras. Both are extremely ancient — suggesting that even while the Rigveda Samhita was still taking its final shape, its practical use and application were already evolving in various directions.
 
 For Shukla Yajurveda's Madhyandina branch, Katyayana composed an Anukramanika broadly following the Rigveda's Sarvanukramani in covering rishi, deity, and meter (with some differences), and separately describing the Samhita's meters, based on the Rigveda's own model.
 
@@ -1307,7 +1307,7 @@ For the Samaveda, the **Arsha** and **Daivata** Anukramanikas list rishis and de
 
 Saingiya-shakha tradition. Across these various indices, the names of Yaska, Shaunaka, Ashvalayana, and other sages, along with citations from their works, appear at many points.
 
-Connected to the Atharvaveda's Parishishtas is one called the **Charanavyuha**. More than 70 Parishishtas exist for the Atharvaveda in total, this being one of them; it states that the Atharvaveda contains roughly 2,000 principal suktas.
+Connected to the Atharvaveda's Parishishtas is one called the **Charanavyuha**. More than 70 Parishishtas exist for the Atharvaveda in total, this being one of them; it states that the Atharvaveda contains 2,000 suktas and 12380 mantras.
 
 **Prayoga and Paddhati texts:** beyond understanding ritual procedure in the abstract, separate practical manuals were composed to make actual performance convenient for ritual specialists — of great help to those handling Shrauta and Grihya rites. A **Prayoga** text lays out, step by step, exactly which act comes first and which follows, together with the specific mantra each officiant uses at each stage — invaluable to the ritvijas actually conducting the rite. A **Paddhati** gathers together, in one place, everything the Sutras say on a given ritual topic. Both genres are the work of later authors building on the older Sutras and their methods, typically composed in verse. Kumarila Bhatta (c. 700 CE) is the earliest known author in this genre.
 
@@ -1338,7 +1338,7 @@ That is: Vyasa, having mastered the whole Veda himself, divided it and taught it
 
 ...and even the sequence of pronunciation could vary from teacher to teacher — though no substantial difference of principle exists between shakhas. This is why some are said to follow the "Shakala reading" and others the "Bashkala reading" when studying the Rigveda — both traditions remain current today.
 
-All four Vedas originally had numerous shakhas; only a handful survive in practice now, and some are known only by name. The Rigveda currently has two well-known shakhas: Ashvalayana and Sankhyayana. The Yajurveda first splits into Shukla and Krishna; Shukla Yajurveda has two well-known shakhas (Kanva and Madhyandina), and Krishna Yajurveda several, of which Apastamba is well known. The Samaveda reputedly once had a thousand shakhas; only a few survive today, of which Kauthuma is well known. The Atharvaveda has nine shakhas, of which Shaunaka is well known. These are all Samhita-portions.
+All four Vedas originally had numerous shakhas; only a handful survive in practice now, and some are known only by name. The Rigveda has 21 shakhas, of which the Ashvalayana, Sankhyayana and some others are well known. The Yajurveda first splits into Shukla and Krishna; Shukla Yajurveda has 15 shakhas, of which only two, Kanva and Madhyandina, are prominent, and Krishna Yajurveda 86, of which a few, such as Apastamba, are in use. Of the Samaveda's 1000 shakhas very few are found today, and of these only Kauthuma is in currency. The Atharvaveda has nine shakhas, of which Shaunaka is well known. These are all Samhita-portions.
 
 Brahmana-portions are believed to have once existed for many of these shakhas too, though only a few survive: for the Rigveda, the Aitareya and Kaushitaki; for the Yajurveda, the Shatapatha, Taittiriya, Maitrayaniya, and Kathaka; for the Samaveda, the Tandya, Shadvimsha, and Jaiminiya; and for the Atharvaveda, the Gopatha Brahmana.
 
@@ -1348,39 +1348,39 @@ The text here gives the "Sankhyayana Samhita Krama" (सांख्यायन
 
 | Opening words | Reference | Closing words | Reference |
 |---|---|---|---|
-| अग्निमीळे *(agnimīḷe)* | Mu. Saṃ. 1-1.9 | वा पुरस्तात् *(vā purastāt)* | Mu. Saṃ. 1-14-3 |
-| अभि प्रवः *(abhi pravaḥ)* | " 1-14.1 | न आयुः *(na āyuḥ)* | " 1-101-4 |
-| अग्न आयाह्य *(agna āyāhya)* | " 1-20.1 | सु सखायति *(su sakhāyati)* | " 10-101-4 |
-| संज्ञानमुशना *(saṃjñānam uśanā)* | (Pariśiṣṭa 1) | सु सहासति *(su sahāsati)* | — |
+| अग्निमीळे *(agnimīḷe)* | Ṛ. Saṃ. 1-1-1 | वा पुरस्तात् *(vā purastāt)* | Ṛ. Saṃ. 8-48-15 |
+| अभि प्रवः *(abhi pravaḥ)* | " 8-49-1 | न आयुः *(na āyuḥ)* | " 8-59-7 |
+| अग्न आयाह्य *(agna āyāhya)* | " 8-60-1 | सु सहासति *(su sahāsati)* | " 10-191-4 |
+| संज्ञानमुशना *(saṃjñānam uśanā)* | (Pariśiṣṭa 36) | सु सहासति *(su sahāsati)* | — |
 
-*(This table's opening/closing words are given with confidence; a few of the compact Mandala-Sukta-Mantra numerals in the original are harder to confirm precisely at this scan's resolution and are reproduced as best legible.)*
+This is the Sankhyayana Samhita-krama. In this Samhita the Valakhilya suktas are included. The Parishishta-sukta of 15 mantras which in the Shakala Samhita begins "saṃjñānam uśanā" is, in this Sankhyayana Samhita, included in the Samhita as its final portion; it is not regarded as a Parishishta, but is counted as a final sukta of 4 Vargas.
 
-### Pages 46–47 — The Bashkala Samhita Krama, and a Supplementary Hymn (Parishishta 32)
+### Pages 46–47 — The Bashkala Samhita Krama, and a Supplementary Hymn (Parishishta 37)
 
 The "Bashkala Samhita Krama" (बाष्कलसंहिताक्रमः) table lists, by rishi, where each major section of the Bashkala sequence begins and ends:
 
 | Rishi | Section begins | Reference | Section ends | Reference | Ending mantra's rishi |
 |---|---|---|---|---|---|
-| मधुच्छन्दा वैश्वामित्रः *(Madhuchchandā Vaiśvāmitraḥ)* | अग्निमीळे | 1-1.1 | प्रुस्सिमन्तं | 1-12.1 | गोतमो राहूगणः *(Gotamo Rāhūgaṇaḥ)* |
-| क्षेत्र्वा औशिजः *(Kṣetrvā Auśijaḥ)* | नानस्त्वाभ्यां | 1-118.1 | जुबुध्यं | 1-14.100 | पुरुष्वीपो दैवोदासि *(Puruṣvīpo Daivodāsi)* |
-| कुत्स आंगिरसः *(Kutsa Āṅgirasaḥ)* | इमंस्कोम | 1-45.1 | उचद्य्क | 1-115.6 | कुत्स आंगिरसः |
-| दीर्घतमा औचथ्यः *(Dīrghatamā Aucathyaḥ)* | वेदिष्वेप्रियं | 1-167.1 | हरिश्रियं | 1-113.6 | कुत्स आंगिरसः |
-| भर्गः प्रागाथः *(Bhargaḥ Prāgāthaḥ)* | अग्न आयाह्य | 1-20.1 | सोमस्यसीतये | 1-23.1 | बिन्दुरांगिरसः *(Bindur-āṅgirasaḥ)* |
-| श्रुष्टिगु काण्वः *(Śruṣṭigu Kāṇvaḥ)* | यथामना | 1-36.1 | जनसंदशे | 1-33.3 | कृश काण्वः *(Kṛśa Kāṇvaḥ)* |
-| ऋश्यांगिरसः *(Ṛśyāṅgirasaḥ)* | आक्षागिरे | 1-93.1 | विद्वेशं | 10-46.17 | मूढान्नांगिरसः *(Mūḍhānn-āṅgirasaḥ)* |
-| मेध्यः काण्वः *(Medhyaḥ Kāṇvaḥ)* | एकविनाग्नि | 1-31.3 | सर्वं | 1-33.3 | मेध्यः काण्वः |
-| *(same, cont.)* | यम्युत्क्षीजो | 1-31.1 | संवित् | 1-33.1 | *(same)* |
-| मूढान्नांगिरसः | यावन्यात्रिमुषसो | 10-46.14 | सुसहासति | 10-101.4 | संवनन आंगिरसः *(Saṃvanana Āṅgirasaḥ)* |
+| मधुच्छन्दा वैश्वामित्रः *(Madhuchchandā Vaiśvāmitraḥ)* | अग्निमीळे *(agnimīḷe)* | 1-1-1 | श्रुष्टिमंतं *(śruṣṭimaṃtaṃ)* | 1-93-12 | गोतमो राहूगणः *(Gotamo Rāhūgaṇaḥ)* |
+| कक्षीर्वा [?] औशिजः *(Kakṣīrvā [?] Auśijaḥ)* | नासत्याभ्यां *(nāsatyābhyāṃ)* | 1-116-1 | जुषध्वं *(juṣadhvaṃ)* | 1-139-11 | परुच्छेपो दैवोदासिः *(Parucchepo Daivodāsiḥ)* |
+| कुत्स आंगिरसः *(Kutsa Āṅgirasaḥ)* | इमंस्तोम *(imaṃstoma)* | 1-94-1 | उतद्याः *(utadyāḥ)* | 1-115-6 | कुत्स आंगिरसः |
+| दीर्घतमा औचथ्यः *(Dīrghatamā Aucathyaḥ)* | वेदिषदेप्रिय *(vediṣadepriya)* | 1-140-1 | हरिश्रियं *(hariśriyaṃ)* | 8-50-10 | पुष्टिगुः काण्वः *(Puṣṭiguḥ Kāṇvaḥ)* |
+| भर्गः प्रागाथः *(Bhargaḥ Prāgāthaḥ)* | अग्न आयाह्य *(agna āyāhya)* | 8-60-1 | सोमस्यपीतये *(somasyapītaye)* | 8-94-12 | बिन्दुरांगिरसः *(Bindur-āṅgirasaḥ)* |
+| श्रुष्टिगुः काण्वः *(Śruṣṭiguḥ Kāṇvaḥ)* | यथामनौ *(yathāmanau)* | 8-51-1 | जनसंनशे *(janasaṃnaśe)* | 8-55-5 | कृशः काण्वः *(Kṛśaḥ Kāṇvaḥ)* |
+| तिरश्चांगिरसः *(Tiraścāṅgirasaḥ)* | आत्वागिरो *(ātvāgiro)* | 8-15-1 | विद्मनेकं *(vidmanekaṃ)* | 10-88-18 | मूर्धन्वानांगिरसः *(Mūrdhanvān-āṅgirasaḥ)* |
+| मेध्यः काण्वः *(Medhyaḥ Kāṇvaḥ)* | एकएवाग्नि *(ekaevāgni)* | 8-52-2 | सर्वं *(sarvaṃ)* | 8-58-2 | मेध्यः काण्वः |
+| *(same)* | यमृत्विजो *(yamṛtvijo)* | 8-58-1 | संवित् *(saṃvit)* | 8-58-1 | *(same)* |
+| मूर्धन्वानांगिरसः *(Mūrdhanvān-āṅgirasaḥ)* | यावन्मात्रमुषसो *(yāvanmātramuṣaso)* | 10-88-19 | सुसहासति *(susahāsati)* | 10-191-4 | संवनन आंगिरसः *(Saṃvanana Āṅgirasaḥ)* |
 
-...followed by: **संज्ञानमुशना जचतुष्पदे** *(saṃjñānam uśanā jacatuṣpade)* — 23 mantras, Parishishta 32.
+...followed by: **संज्ञानमुशना … चतुष्पदे** *(saṃjñānam uśanā … catuṣpade)* — 15 mantras, Parishishta 36.
 
-*(Rishi names and opening/closing words above are given with confidence; the compact Mandala-Sukta-Mantra numerals are reproduced as best legible at this resolution, and a couple of individual digits may not be pinpoint-certain.)*
+*(Names, words and references as printed, re-read on the 600 dpi scan.)*
 
 This is the Bashkala Samhita's sequence. This Samhita has one supplement (Parishishta) at its end, which is given below.
 
-### Parishishta 32
+### Parishishta 37
 
-The source gives, in full, the opening of this supplementary hymn (five verses shown, in accented Vedic Sanskrit):
+The source gives, in full, the opening of this supplementary hymn (five verses shown, in accented Vedic Sanskrit), headed: ‖ 1-7 ‖ nividupaniṣadau brahmavādinyau ‖ 1-6 aśvinau, 7 indrāvaruṇau ‖ 1-5, 7 triṣṭup, 6 dvipadā ‖ (rishis of 1-7: Nivid and Upaniṣad, the two Brahmavādinīs; deities: 1-6 the Aśvins, 7 Indra and Varuṇa; meter: 1-5 and 7 Triṣṭubh, 6 Dvipadā).
 
 > प्र धारयन्तु मधुनो घृतस्य यददिन्द्वः सुरी उस्त्रियायाः ।
 > मित्रावरुणा भुवनस्य कारू तावक्ष्णा जुषतां समोके ॥ १ ॥

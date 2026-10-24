@@ -7,8 +7,10 @@ ROMAN=['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii','xiii','xiv
 FRONT={6:'i',7:'ii',8:'iii',9:'iv',10:'v',11:'vi',12:'vii',13:'viii',14:'ix',15:'x',16:'xi',17:'xiii',18:'xiv',19:'xv',
        20:'xvi',21:'xvii',22:'xviii',23:'xix',24:'xx'}
 PRINTED_AS={14:'xi'}
+DUP={g:g+8 for g in range(41,49)}   # PDF 41-48 repeat printed pp. 25-32 (= PDF 49-56); printed pp. 17-24 are not in this scan
 def printed(g):
     if g in FRONT: return FRONT[g]
+    if g in DUP: return str(DUP[g]-24)
     if 25<=g<=200: return str(g-24)
     return None
 def label(g):

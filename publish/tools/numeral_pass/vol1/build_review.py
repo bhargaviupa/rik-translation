@@ -7,7 +7,7 @@ from cfg import WORK,part_of
 from pages import printed,label,page_sections,text_of
 from PIL import Image
 a,b,OUT=int(sys.argv[1]),int(sys.argv[2]),sys.argv[3]; TITLE=sys.argv[4] if len(sys.argv)>4 else f'Vol 1 numerals, PDF {a}-{b}'
-SKIP={17,18,19,141,142,162,163}   # contents pp. xiii-xv not transcribed; tables of pp. 117-118, 138-139 not reproduced in the file
+SKIP={17,18,19,141,142,162,163}|set(range(41,49))   # 41-48: duplicate of PDF 49-56   # contents pp. xiii-xv not transcribed; tables of pp. 117-118, 138-139 not reproduced in the file
 TOK=json.load(open(WORK+'numerals.json'))
 KD='೦೧೨೩೪೫೬೭೮೯'; K2A=str.maketrans(KD+'०१२३४५६७८९','0123456789'*2)
 dig=lambda s:re.sub(r'\D','',s.translate(K2A))
