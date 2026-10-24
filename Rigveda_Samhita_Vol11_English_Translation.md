@@ -2675,15 +2675,15 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 
 ### Printed p. 101  (PDF 119)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
 
 *(Bhāṣya of Ṛk 1, continued from p. 100; small type.)*
 
-> धारभूतत्वात् शुक्रवर्णं अग्निज्वलेतत्वात्पीतवर्णं [?] अत एव तमोहनं तमसोऽन्धकारस्य हन्तारमज्ञानस्य वा । अग्निसाध्ययज्ञद्वारा ज्ञानविचारादिति भावः ॥ यद्वा । तस्मा अग्नये योनिं स्थानं वस्त्रेण [?] … ज्योतीरथं दीप्तिरथोऽग्निः [?] … शेषं पूर्ववत् ॥
+> धारभूतत्वात् शुक्रवर्णं अग्न्युपेतत्वाद्दीप्तवर्णं अत एव तमोहनं तमसोऽन्धकारस्य हन्तारमज्ञानस्य वा । अग्निसाध्ययज्ञादिद्वारा ज्ञानविचारकत्वादिति भावः ॥ यद्वा । तस्यां योनौ स्थाने वस्त्रेण यथा गोपनीयं वस्तु गोपयन्ति तद्वत्तमग्निं वासय । निवासय । स्थापय । मन्मना मननीयेन हृद्येन वस्त्रसदृशेन मृदुकाष्ठादिनाच्छादय वा । कीदृशं । ज्योतीरथं दीप्तिरथोपेतं । शेषं पूर्ववत् ॥
 
-> *dhārabhūtatvāt śukravarṇaṃ agnijvaletatvātpītavarṇaṃ [?] ata eva tamohanaṃ tamaso 'ndhakārasya hantāramajñānasya vā | agnisādhyayajñadvārā jñānavicārāditi bhāvaḥ ‖ yadvā | tasmā agnaye yoniṃ sthānaṃ vastreṇa [?] … jyotīrathaṃ dīptiratho 'gniḥ [?] … śeṣaṃ pūrvavat ‖*
+> *dhārabhūtatvāt śukravarṇaṃ agnyupetatvāddīptavarṇaṃ ata eva tamohanaṃ tamaso 'ndhakārasya hantāramajñānasya vā | agnisādhyayajñādidvārā jñānavicārakatvāditi bhāvaḥ ‖ yadvā | tasyāṃ yonau sthāne vastreṇa yathā gopanīyaṃ vastu gopayanti tadvattamagniṃ vāsaya | nivāsaya | sthāpaya | manmanā mananīyena hṛdyena vastrasadṛśena mṛdukāṣṭhādinācchādaya vā | kīdṛśaṃ | jyotīrathaṃ dīptirathopetaṃ | śeṣaṃ pūrvavat ‖*
 
-**Pratipadārtha (Kannada).** *vediṣade* — (to Agni), seated on the altar; *priyadhāmāya* — who loves his station (the northern altar); *sudyute* — who shines excellently; *agnaye* — to Agni; *śuciṃ* — pure; *jyotīrathaṃ* — carrying radiance as a chariot does; *śukravarṇaṃ* — of bright colour; *tamohanaṃ* — that destroys darkness (or ignorance); *yoniṃ* — the place in the form of the altar; *dhāsiṃ* — (like) food in the form of an oblation; *pra bhara* — prepare abundantly (and) that place; *vastreṇeva* — as with a garment, to make it soft; *manmanā* — with kuśa-grass spread agreeably; *vāsaya* — cover (adorn), or (as one wipes a thing hidden by a cloth) wipe that place with sticks and the like.
+**Pratipadārtha (Kannada).** *vediṣade* — (to Agni), seated on the altar; *priyadhāmāya* — who loves his station (the northern altar); *sudyute* — who shines excellently; *agnaye* — to Agni; *śuciṃ* — pure; *jyotīrathaṃ* — carrying radiance as a chariot does; *śukravarṇaṃ* — of bright colour; *tamohanaṃ* — that destroys darkness (or ignorance); *yoniṃ* — the place in the form of the altar; *dhāsiṃ* — (like) food in the form of an oblation; *pra bhara* — prepare abundantly (and) that place; *vastreṇeva* — as with a garment, to make it soft; *manmanā* — with kuśa-grass spread agreeably; *vāsaya* — cover (adorn), or (as a hidden thing is covered with a cloth) cover that place with sticks and the like.
 
 **Bhāvārtha.** O adhvaryu, for Agni, who sits on the altar and loves his own place, the northern altar, prepare well the altar-place — pure, carrying radiance like a chariot, of bright colour, destroying darkness — as one offers an oblation of food. And cover that place with the agreeable darbha seat, as with a cloth to make it soft, and adorn it.
 
