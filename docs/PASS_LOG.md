@@ -62,3 +62,4 @@
 2026-10-24 06:10 PDF 101-101: remaining [?] EN 7, KN 8. Bṛhaddevatā verses re-transcribed in full from the print (earlier text largely wrong); numerals left
 2026-10-24 06:10 PDF 102-102: remaining [?] EN 4, KN 3. Taittirīya quotes re-read in full; cross-references read at best (Ṛ. 1-31-1, 1-139-2, 1-45-3, Ni. 3-13 — zoom not done); wording
 2026-10-24 06:11 PDF 103-103: remaining [?] EN 36, KN 20. Śatapatha and Bṛhaddevatā verses re-transcribed from print (earlier text largely wrong); a few refs read at best
+2026-10-24 06:11 PDF 103-104: remaining [?] EN 9, KN 10. PDF 103–104: all verses re-transcribed from print (Śatapatha, Bṛhaddevatā, Taittirīya, Ṛ. Saṃ.); numerals only where clearly printed, rest left [?]
