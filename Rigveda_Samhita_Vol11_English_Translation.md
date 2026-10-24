@@ -2529,7 +2529,7 @@ On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastr
 > *ā nāsatyā tribhirekādaśairiha devebhiryātaṃ madhupeyamaśvinā |*
 > *prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖*
 
-(Ṛ. Saṃ. 1-34-11 [?].) The Aśvins are told: "Come here with thirty-three gods (eleven + eleven + eleven, with the two), desiring the drinking of honey";
+(Ṛ. Saṃ. 1-34-11.) The Aśvins are told: "Come here with thirty-three gods (eleven + eleven + eleven, with the two), desiring the drinking of honey";
 
 > श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः ।
 > तान्रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ॥
@@ -2537,39 +2537,39 @@ On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastr
 > *śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |*
 > *tānrohidaśva girvaṇastrayastriṃśatamā vaha ‖*
 
-(Ṛ. Saṃ. 1-45-2 [?].) Agni is prayed to bring thirty-three gods, as the Ṛk at hand prays. Likewise:
+(Ṛ. Saṃ. 1-45-2.) Agni too is prayed to bring thirty-three gods, just as in the Ṛk at hand. Likewise:
 
-> अभिर्ग्ने सरथं याह्यर्वाङ् नानारथं वा विभवो ह्यश्वाः ।
+> ऐभिरग्ने सरथं याह्यर्वाङ् नानारथं वा विभवो ह्यश्वाः ।
 > पत्नीवतस्त्रिंशतं त्रींश्च देवाननुष्वधमा वह मादयस्व ॥
 
-> *abhirgne sarathaṃ yāhyarvāṅ nānārathaṃ vā vibhavo hyaśvāḥ |*
+> *aibhiragne sarathaṃ yāhyarvāṅ nānārathaṃ vā vibhavo hyaśvāḥ |*
 > *patnīvatastriṃśataṃ trīṃśca devānanuṣvadhamā vaha mādayasva ‖*
 
-(Ṛ. Saṃ. 3-6-9 [?].)
+(Ṛ. Saṃ. 3-6-9.)
 
-> इति स्तुतासो असथा रिशादसो ये स्थ त्रयश्च त्रिंशच्च । मनोर्देवा यज्ञियासः [?] ।
+> इति स्तुतासो असथा रिशादसो ये स्थ त्रयश्च त्रिंशच्च । मनोर्देवा यज्ञियासः ।
 
-> *iti stutāso asathā riśādaso ye stha trayaśca triṃśacca | manordevā yajñiyāsaḥ [?] |*
+> *iti stutāso asathā riśādaso ye stha trayaśca triṃśacca | manordevā yajñiyāsaḥ |*
 
-(Ṛ. Saṃ. 8-30-3 [?].)
+(Ṛ. Saṃ. 8-30-3.)
 
 > विश्वैर्देवैस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा [?] ।
 
 > *viśvairdevaistribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā [?] |*
 
-(Ṛ. Saṃ. 8-35-3 [?].)
+(Ṛ. Saṃ. 8-35-3.)
 
 > तव त्ये सोम पवमान निण्ये विश्वे देवास्त्रय एकादशासः । दश स्वधाभिरधि सानो अव्ये मृजन्ति त्वा नद्यः सप्त यह्वीः ॥
 
 > *tava tye soma pavamāna niṇye viśve devāstraya ekādaśāsaḥ | daśa svadhābhiradhi sāno avye mṛjanti tvā nadyaḥ sapta yahvīḥ ‖*
 
-(Ṛ. Saṃ. 9-92-4 [?].) In such Ṛks too it is plain that the number of the gods is thirty-three. In the Śatapatha Brāhmaṇa also:
+(Ṛ. Saṃ. 9-92-4.) In such Ṛks too it is plain that the number of the gods is thirty-three. In the Śatapatha Brāhmaṇa also:
 
-> अष्टौ वसवः । एकादश रुद्राः । द्वादशादित्या इमे एव द्यावापृथिवी त्रयस्त्रिंशद्देवाः प्रजापतिश्च [?] ।
+> अष्टौ वसवः । एकादश रुद्राः । द्वादशादित्या इमे एव द्यावापृथिवी त्रयस्त्रिंशद्वै देवाः प्रजापतिश्चतुस्त्रिंशः ।
 
-> *aṣṭau vasavaḥ | ekādaśa rudrāḥ | dvādaśādityā ime eva dyāvāpṛthivī trayastriṃśaddevāḥ prajāpatiśca [?] |*
+> *aṣṭau vasavaḥ | ekādaśa rudrāḥ | dvādaśādityā ime eva dyāvāpṛthivī trayastriṃśadvai devāḥ prajāpatiścatustriṃśaḥ |*
 
-(Śa. Brā. 4-[?]-[?]-[?] [?]) (continued on p. 97).
+(Śa. Brā. 4-[?]-[?]-[?] [?]).
 
 ### Printed p. 97  (PDF 115)
 
