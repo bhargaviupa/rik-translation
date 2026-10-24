@@ -69,3 +69,4 @@
 2026-10-24 06:13 PDF 108-108: remaining [?] EN 0, KN 0. bhāṣya conclusion re-transcribed; Pratipadārtha/Special Topics gaps filled (yājyāṃ paṭhatu)
 2026-10-24 06:14 PDF 109-109: remaining [?] EN 3, KN 2. quotes re-read (yakṣad agnir devo devān; mārutyekā…); Nirukta-style etymology quotes completed; several refs read from print (Ai. Brā. 10-24, Chā. 6-5-4, Tai. 1-4-22) without zoom
 2026-10-24 06:14 PDF 109-110: remaining [?] EN 12, KN 11. PDF 109–110: quotes and grammar notes corrected; remaining are numerals
+2026-10-24 06:15 PDF 111-111: remaining [?] EN 6, KN 5. grammar page re-read (ghañ, jagṛbhma sūtra, ararindāni etymologies)
