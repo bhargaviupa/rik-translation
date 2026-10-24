@@ -3073,17 +3073,17 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
 
-***kṛṣṇam abhvam.*** *Abhva* is read among the names of water (Ni. 3-[?]) and of the great (Ni. 3-[?]). But since neither of these senses is possible here, Sāyaṇa has taken the word according to context. If one first knows what senses he gives the word elsewhere, the right sense in the Ṛk at hand can be fixed.
+***kṛṣṇam abhvam.*** *Abhva* is read among the names of water (Ni. 3-[?]) and of the great (Ni. 3-[?]). But since not only these two senses but other senses too are possible here, Sāyaṇa has taken the word according to context. If one first knows what senses he gives the word elsewhere, the right sense in the Ṛk at hand can be fixed.
 
-> नेमा आपो अनिमिषं चरन्तीर्न ये वातस्य प्रमिनन्त्यभ्वम् [?] ।
+> नेमा आपो अनिमिषं चरन्तीर्न ये वातस्य प्रमिनन्त्यभ्वम् ।
 
-> *nemā āpo animiṣaṃ carantīrna ye vātasya praminantyabhvam [?] |*
+> *nemā āpo animiṣaṃ carantīrna ye vātasya praminantyabhvam |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].) This Ṛk praises Varuṇa. Here Sāyaṇa explains *vātasya ye gativiśeṣāḥ te varuṇīyam abhvaṃ vegaṃ na hiṃsanti*: the speeds of the wind itself cannot check Varuṇa's speed; he takes *abhva* as "speed".
+(Ṛ. Saṃ. 1-[?]-[?] [?].) This Ṛk praises Varuṇa. Here Sāyaṇa explains *vātasya ye gativiśeṣāḥ te tvadīyam abhvaṃ vegaṃ na hiṃsanti*: the speeds of the wind itself cannot check Varuṇa's speed; he takes *abhva* as "speed".
 
-> युष्मेषितो मरुतो मर्त्येषित आ यो नो अभ्व ईषते [?] ।
+> युष्मेषितो मरुतो मर्त्येषित आ यो नो अभ्व ईषते ।
 
-> *yuṣmeṣito maruto martyeṣita ā yo no abhva īṣate [?] |*
+> *yuṣmeṣito maruto martyeṣita ā yo no abhva īṣate |*
 
 (Ṛ. Saṃ. 1-[?]-[?] [?].) Here the Maruts are praised. Sāyaṇa says that *abhva* means "enemy": *yaḥ kaścid abhvaḥ śatruḥ naḥ prāpnoti taṃ śavasā ni yuyota*. In Ṛ. Saṃ. 1-[?]-[?], *abhvam* is explained as "cloud"; in 1-[?]-[?] as "water"; and in 3-[?]-[?] as "great".
 
@@ -3093,7 +3093,7 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 > *arhanbibharṣi sāyakāni dhanvārhanniṣkaṃ yajataṃ viśvarūpam |*
 > *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ‖*
 
-(Ṛ. Saṃ. 2-33-10 [?].) In this Ṛk *viśvam abhvam* — since it is read among the names of the great, *mahan nāmasu* — means "this extremely vast world"; the word is also used when showing the greatness of [mighty beings].
+(Ṛ. Saṃ. 2-33-10 [?].) In this Ṛk *viśvam abhvam* — since it is read among the names of the great, *mahan nāmasu* — means "this extremely vast world"; this word is used even when showing the greatness found in a power of evil.
 
 > भूरिं द्वे अचरन्ती चरन्तं पद्वन्तं गर्भमपदी दधाते ।
 > नित्यं न सूनुं पित्रोरुपस्थे द्यावा रक्षतं पृथिवी नो अभ्वात् ॥
