@@ -64,3 +64,4 @@
 2026-10-24 06:11 PDF 103-103: remaining [?] EN 36, KN 20. Śatapatha and Bṛhaddevatā verses re-transcribed from print (earlier text largely wrong); a few refs read at best
 2026-10-24 06:11 PDF 103-104: remaining [?] EN 9, KN 10. PDF 103–104: all verses re-transcribed from print (Śatapatha, Bṛhaddevatā, Taittirīya, Ṛ. Saṃ.); numerals only where clearly printed, rest left [?]
 2026-10-24 06:12 PDF 105-105: remaining [?] EN 14, KN 12. Śatapatha and Bṛ. Up. quotes re-transcribed; grammar notes (aṅgirāḥ, atriḥ adestrinic) corrected; numerals left
+2026-10-24 06:12 PDF 106-106: remaining [?] EN 9, KN 9. grammar page re-read; Saṃhitā jagṛbhmā; in-suffix; numerals left
