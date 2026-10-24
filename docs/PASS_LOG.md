@@ -52,3 +52,4 @@
 2026-10-24 06:03 PDF 91-91: remaining [?] EN 5, KN 6. non-numeral fixes: duhre note re-read (liṭ, eś, ruṭ), taptanaptanathanāś ca, Saṃhitā anusvāra, Varga 4
 2026-10-24 06:04 PDF 92-92: remaining [?] EN 4, KN 2. bhāṣya of Ṛk 8 re-transcribed in full (file was partial/garbled); Pada fixed (dustaram, anusvāra); Pratipadārtha cut where the print breaks (rest moves to p. 75, PDF 93)
 2026-10-24 06:05 PDF 93-93: remaining [?] EN 3, KN 2. Pratipadārtha tail restored from p. 74 break and corrected; Bhāvārtha wording; prasthitayājyā; remaining marks are numerals
+2026-10-24 06:06 PDF 94-94: remaining [?] EN 10, KN 7. Aitareya quote re-read (antarikṣa-bhājanās…); Pratipadārtha-style wording fixes; remaining numerals

@@ -1991,27 +1991,27 @@ In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo a
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Special Topics of Ṛk 8, continued from p. 75.)* ***sanā dyumnāni.*** These two words are epithets. Sāyaṇa explains *sanā* first as *sadātanāni*, *nityāni* — "eternal"; and *dyumnāni* as *prakāśayuktāni* — "radiant". Or *sanā* — *saṃbhajanīyāni*, "to be resorted to", and *dyumnāni* — "possessing wealth or fame": he gives this second sense too. Since the Maruts' powers have been famous and radiant from beginningless time, the first sense is fitting.
+*(Special Topics of Ṛk 8, continued from p. 75.)* ***sanā dyumnāni.*** These two words are epithets. Sāyaṇa explains *sanā* first as *sadātanāni*, *nityāni* — "eternal"; and *dyumnāni* as *prakāśayuktāni* — "radiant". Or *sanā* — *saṃbhajanīyāni*, "worthy of worship", and *dyumnāni* — "possessing wealth or fame": he gives this second sense too. Since the Maruts' powers have been famous and radiant from beginningless time, the first sense is fitting.
 
-> प्र वेपयन्ति पर्वतान्वि विञ्चन्ति वनस्पतीन् [?] ।
+> प्र वेपयंति पर्वतान्वि विंचंति वनस्पतीन् ।
 
-> *pra vepayanti parvatānvi viñcanti vanaspatīn [?] |*
+> *pra vepayaṃti parvatānvi viṃcaṃti vanaspatīn |*
 
 (Ṛ. Saṃ. 1-[?]-[?] [?].)
 
-> वना चिदुग्रा जिहते नि वो भिया पृथिवी चिद्रेजते पर्वतश्चित् [?] ।
+> वना चिदुग्रा जिहते नि वो भिया पृथिवी चिद्रेजते पर्वतश्चित् ।
 
-> *vanā cidugrā jihate ni vo bhiyā pṛthivī cidrejate parvataścit [?] |*
+> *vanā cidugrā jihate ni vo bhiyā pṛthivī cidrejate parvataścit |*
 
 (Ṛ. Saṃ. 1-[?]-[?] [?].) As described in such Ṛks, the mountains and the earth tremble through the might of the Maruts. Since earth and sky tremble, there is no one who does not know their power. Hence the second sense is also natural. Whoever moves in the sky cannot move without informing the Maruts; if one slights the Maruts, they are certain to bar the way.
 
-> तासु पदमस्ति स्वस्ति रायो मरुतो दधातनेति मरुतो ह वै देवविशो [?] … तेरित्यभाजनान्यां [?] … स्वर्गं लोकमेतीश्वरा हैनं [?] निरोद्धोर्वा मथितोर्वा स यदाह स्वस्ति रायो मरुतो दधातनेति तं मरुद्भ्यो देवविद्भ्यो यजमानो निवेदयति न हैनं मरुतो देवविशः स्वर्गं लोकं यन्तं निरुन्धते [?] । स्वस्ति हैनं मर्त्यान्ति [?] स्वर्गं लोकमभि य एवं वेद ॥
+> तासु पदमस्ति स्वस्ति रायो मरुतो दधातनेति मरुतो ह वै देवविशोऽंतरिक्षभाजनास्तेभ्यो ह यो निवेद्यः स्वर्गं लोकमेतीश्वरा हैनं नि वा रोद्धोर्वि वा मथितोः । स यदाह स्वस्ति रायो मरुतो दधातनेति तं मरुद्भ्यो देवविद्भ्यो यजमानं निवेदयति न ह वा एनं मरुतो देवविशः स्वर्गं लोकं यंतं निरुंधते न विमथ्नते । स्वस्ति हैनमत्यर्जंति स्वर्गं लोकमभि य एवं वेद ।
 
-> *tāsu padamasti svasti rāyo maruto dadhātaneti maruto ha vai devaviśo [?] … terityabhājanānyāṃ [?] … svargaṃ lokametīśvarā hainaṃ [?] niroddhorvā mathitorvā sa yadāha svasti rāyo maruto dadhātaneti taṃ marudbhyo devavidbhyo yajamāno nivedayati na hainaṃ maruto devaviśaḥ svargaṃ lokaṃ yantaṃ nirundhate [?] | svasti hainaṃ martyānti [?] svargaṃ lokamabhi ya evaṃ veda ‖*
+> *tāsu padamasti svasti rāyo maruto dadhātaneti maruto ha vai devaviśo 'ṃtarikṣabhājanāstebhyo ha yo nivedyaḥ svargaṃ lokametīśvarā hainaṃ ni vā roddhorvi vā mathitoḥ | sa yadāha svasti rāyo maruto dadhātaneti taṃ marudbhyo devavidbhyo yajamānaṃ nivedayati na ha vā enaṃ maruto devaviśaḥ svargaṃ lokaṃ yaṃtaṃ niruṃdhate na vimathnate | svasti hainamatyarjaṃti svargaṃ lokamabhi ya evaṃ veda |*
 
-(Ai. Brā. 1-[?]-[?] [?].) The Maruts, as the people of the gods, pervade all the sky. Those who go to heaven without informing them they surely stop or destroy. If, reciting the sentence *svasti rāye marutaḥ*, one worships them, they do not hinder. From the Aitareya Brāhmaṇa and the like, in which it is said that he who knows this secret surely attains welfare, the Maruts' power, whether of favour or of restraint, is described. For this reason it is prayed: *asmat purā mā jāriṣuḥ* — "may our wealth and our sons and grandsons not decay; help us so".
+(Ai. Brā. 1-[?]-[?] [?].) The Maruts, as the people of the gods, pervade all the sky. Those who go to heaven without informing them they surely stop or destroy. If, reciting the sentence *svasti rāye marutaḥ*, one worships them, they do not hinder. From the Aitareya Brāhmaṇa and the like, in which it is said that he who knows this secret surely attains welfare, the Maruts' power, whether of favour or of restraint, is described. Explaining the same point here, the prayer is *asmat purā mā jāriṣuḥ* — "may our wealth and our sons and other possessions not decay; help us so".
 
-***ghoṣāt.*** *Śabdopetā gavādayo ghoṣopalakṣitā grāmanagarādayo vā ye santi* — "those cows and others that make sound, or villages and towns characterized by sound, as there are": cows with their sounds, and villages and towns, are here indicated; the prayer is that these may be ours lastingly. The word *ghoṣa* is read among the names of speech (Ni. 1-[?]). Ordinarily this word means "sound"; it is used here in the sense of a sound that shows a distinctive power (continued on p. 77).
+***ghoṣāt.*** *Śabdopetā gavādayo ghoṣopalakṣitā grāmanagarādayo vā ye santi* — "those cows and others that make sound, or villages and towns characterized by sound, as there are": cows with their sounds, and villages and towns, are here indicated; the prayer is that these may be ours lastingly. The word *ghoṣa* is read among the names of speech (Ni. 1-[?]). Ordinarily this word means "sound"; even so, it is used here in the sense of a sound that shows a distinctive power ….
 
 ### Printed p. 77  (PDF 95)
 
