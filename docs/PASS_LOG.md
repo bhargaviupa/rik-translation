@@ -36,3 +36,4 @@
 2026-10-24 05:25 PDF 74-74: remaining [?] EN 0, KN 0. after: EN 3 → 0, KN 4 → 0; Nirukta quote corrected (divaś cādityasya ca)
 2026-10-24 05:28 PDF 75-75: remaining [?] EN 0, KN 0. after: EN 29 → 0, KN 25 → 0; Varga 3; Nirukta 2-13/2-14, Ṛ refs; 1-164-30 as printed (te ha nākaṃ…); Nirukta quote completed (netā rasānām)
 2026-10-24 05:29 PDF 76-76: remaining [?] EN 0, KN 0. after: EN 30 → 0, KN 21 → 0; Nirukta chapters read as 10/44 and 12/7 (printed, differ from earlier 11); Bṛ. De. verse corrected (bhāṃti … yatpadāni)
+2026-10-24 05:30 PDF 77-77: remaining [?] EN 0, KN 0. after: EN 17 → 0, KN 12 → 0; Varga 3; Pāṇini 3-1-66, 3-4-94, 3-1-79, 6-3-75, 6-2-139, 6-1-131 read from zoom (flat-foot 7 for 79/75)
