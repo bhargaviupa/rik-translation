@@ -2573,21 +2573,21 @@ On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastr
 
 ### Printed p. 97  (PDF 115)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three gods; Prajāpati is the thirty-fourth, it is said in one place. But in another place, in those same thirty-three, Indra and Prajāpati are put in place of Heaven and Earth:
 
-> ते त्रयस्त्रिंशदष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिन्द्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति [?] ।
+> ते त्रयस्त्रिंशदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिन्द्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति ।
 
-> *te trayastriṃśadaṣṭau vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadindraścaiva prajāpatiśca trayastriṃśāviti [?] |*
+> *te trayastriṃśadityaṣṭau vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadindraścaiva prajāpatiśca trayastriṃśāviti |*
 
 (Śa. Brā. 11-[?]-[?]-[?] [?].) In the Aitareya Brāhmaṇa also:
 
-> त्रयस्त्रिंशद्वै देवाः सोममपिबन् [?] त्रयस्त्रिंशत्सोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चेते देवाः सोमपाः [?] ।
+> त्रयस्त्रिंशद्वै देवाः सोमपास्त्रयस्त्रिंशदसोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चैते देवाः सोमपाः ।
 
-> *trayastriṃśadvai devāḥ somamapiban [?] trayastriṃśatsomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiśca vaṣaṭkāraścete devāḥ somapāḥ [?] |*
+> *trayastriṃśadvai devāḥ somapāstrayastriṃśadasomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiśca vaṣaṭkāraścaite devāḥ somapāḥ |*
 
-(Ai. Brā. 3-[?]) Those who drink the Soma are thirty-three gods: the eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati and Vaṣaṭkāra. So there is one and the same view on this number in the Saṃhitā and in the Brāhmaṇas. And
+(Ai. Brā. 3-[?]) Of the Soma-drinkers there are thirty-three gods (and thirty-three non-drinkers): the eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati and Vaṣaṭkāra. So there is one and the same view on this number in the Saṃhitā and in the Brāhmaṇas. And
 
 > त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् ।
 > औक्षन् घृतैरस्तृणन् बर्हिरस्मा आदिद्धोतारं न्यसादयन्त ॥
@@ -2595,7 +2595,7 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 > *trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan |*
 > *aukṣan ghṛtairastṛṇan barhirasmā ādiddhotāraṃ nyasādayanta ‖*
 
-(Ṛ. Saṃ. 3-9-9 [?].) Likewise in Ṛ. Saṃ. 10-52-6 [?] it is said that three thousand three hundred and thirty-nine gods worshipped Agni. The same order is found in the Vājasaneyi Saṃhitā (33-[?]). Besides this:
+(Ṛ. Saṃ. 3-9-9.) Likewise in Ṛ. Saṃ. 10-52-6 it is said that three thousand three hundred and thirty-nine gods worshipped Agni. The same order is found in the Vājasaneyi Saṃhitā (33-[?]). Besides this:
 
 > नमो महद्भ्यो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः ।
 > यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवाः ॥
@@ -2603,13 +2603,13 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 > *namo mahadbhyo namo arbhakebhyo namo yuvabhyo nama āśinebhyaḥ |*
 > *yajāma devānyadi śaknavāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ ‖*
 
-(Ṛ. Saṃ. 1-27-13 [?].) When salutation is made to all sorts of gods — of great qualities, of gross qualities, young and old — the variety of the forms of the gods is understood. This same Ṛk is recited in the Aitareya Brāhmaṇa too (2-[?]), in the Śunaḥśepa story, in the setting of the prayer to the Viśvedevas. And
+(Ṛ. Saṃ. 1-27-13.) When salutation is made to all sorts of gods — of superior qualities, of lesser qualities, young and old — the variety of the forms of the gods is understood. This same Ṛk is recited in the Aitareya Brāhmaṇa too (2-[?]), in the Śunaḥśepa story, in the setting of the prayer to the Viśvedevas. And
 
 > नहि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतोमहान्त इत् ॥
 
 > *nahi vo astyarbhako devāso na kumārakaḥ | viśve satomahānta it ‖*
 
-(Ṛ. Saṃ. 8-30-1 [?].) — here there is no distinction among the gods of small and great; all gods are great beings: this is the praise. It is to all gods of such greatness that the seer addresses his prayer in the Ṛk at hand —
+(Ṛ. Saṃ. 8-30-1.) — here there is no distinction among the gods of small and great; all gods are great beings: this is the praise. It is to all gods of such greatness that the seer addresses his prayer in the Ṛk at hand —
 
 ### Printed p. 98  (PDF 116)
 
