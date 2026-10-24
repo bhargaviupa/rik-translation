@@ -1643,31 +1643,31 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ***mā upadasat; asmadrātiḥ kadā cana.*** It is prayed that the gifts of both, mutually nourishing — ours and yours — may be carried on without a break. The Śatapatha Brāhmaṇa describes a story: men on earth, devoid of the knowledge of the prescribed rites, let sacrifices lapse, and the gods, who live by offerings, became anxious and grieved at this:
 
-> ते [?]श्रद्धा मनुष्यान्निवेद [?] …. ते इतो देवा हविर्न जग्मुस्ते प्रदानाद्धि देवा उपजीवन्ति [?] ।
+> ते [?]श्रद्धा मनुष्यान्निवेद …. ते इतो देवा हविर्न जग्मुस्ते प्रदानाद्धि देवा उपजीवन्ति ।
 
-> *te [?]śraddhā manuṣyānniveda [?] …. te ito devā havirna jagmuste pradānāddhi devā upajīvanti [?] |*
+> *te [?]śraddhā manuṣyānniveda …. te ito devā havirna jagmuste pradānāddhi devā upajīvanti |*
 
-(Śa. Brā. [?]-[?]-[?] [?].) Because the gods live by the gifts of oblations and the like, and the gifts had stopped through lack of rites, the gods consulted one another, and Bṛhaspati taught the Aṅgirases the way in which rites might be perfectly performed in future. In the same way, it is known from many sentences that the gods' wealth of food is possible only through the performance of rites, and that rites and the praises that belong to them are the gods' food:
+(Śa. Brā. 1-2-5-24.) Because the gods live by the gifts of oblations and the like, and the gifts had stopped through lack of rites, the gods consulted one another, and Bṛhaspati taught the Aṅgirases the way in which rites might be perfectly performed in future. In the same way, it is known from many sentences that the gods' wealth of food is possible only through the performance of rites, and that rites and the praises that belong to them are the gods' food:
 
-> यज्ञो वो अन्नम् [?] ।
+> यज्ञो वो अन्नं ।
 
-> *yajño vo annam [?] |*
+> *yajño vo annaṃ |*
 
-(Śa. Brā. 3-[?]-[?]-[?] [?].)
+(Śa. Brā. 2-4-2-1.)
 
-> अर्को वै देवानामन्नमन्नं यज्ञो [?] …
+> अर्को वै देवानामन्नमन्नं यज्ञो …
 
-> *arko vai devānāmannamannaṃ yajño [?] …*
+> *arko vai devānāmannamannaṃ yajño …*
 
-(Śa. Brā. [?]-[?]-[?].) From such sentences it follows that, since the gods are called *śacīvasu*, in the Ṛk at hand the sacrificer prays to the Aśvins, "rich in our rites", that he will perform the rites and offer oblations, and that their gift, the fruit of this, may continue in the same way unbroken. This mutual dependence is shown in
+(Śa. Brā. 12-8-1-2.) From such sentences it follows that, since the gods are called *śacīvasu*, in the Ṛk at hand the sacrificer prays to the Aśvins, "rich in our rites", that he will perform the rites and offer oblations, and that their gift, the fruit of this, may continue in the same way unbroken. This mutual dependence is shown in
 
-> यत्पृथिव्यै प्रतिगृणाति [?] अमुष्मा एव तदद्युर्जयन्तीति तिष्ठतीव ह्यसाना [?] … तस्मादितः प्रदानं मनुष्या उपजीवन्ति यत्प्रतिगृणाति तस्मादमुतः प्रदानं मनुष्या उपजीवन्ति [?] ।
+> यत्तिष्ठन्प्रतिगृणात्यमुष्मा एव तदध्वर्युर्न्येति [?] तिष्ठतीव ह्यसावथो अमूमेव तेन यजमानो दुहे यदासीनश्शग्ंसति [?] तस्मादितः प्रदानं देवा उपजीवन्ति यत्तिष्ठन्प्रतिगृणाति तस्मादमुतः प्रदानं मनुष्या उपजीवन्ति ।
 
-> *yatpṛthivyai pratigṛṇāti [?] amuṣmā eva tadadyurjayantīti tiṣṭhatīva hyasānā [?] … tasmāditaḥ pradānaṃ manuṣyā upajīvanti yatpratigṛṇāti tasmādamutaḥ pradānaṃ manuṣyā upajīvanti [?] |*
+> *yattiṣṭhanpratigṛṇātyamuṣmā eva tadadhvaryurnyeti [?] tiṣṭhatīva hyasāvatho amūmeva tena yajamāno duhe yadāsīnaśśagṃsati [?] tasmāditaḥ pradānaṃ devā upajīvanti yattiṣṭhanpratigṛṇāti tasmādamutaḥ pradānaṃ manuṣyā upajīvanti |*
 
-(Tai. Saṃ. 2-[?]-[?] [?].) The Taittirīya Saṃhitā explains that the gods live by the praise and oblations offered from the earth, and in return men live by the wealth that the gods grant. Therefore, desiring that the two actions of both sides never stop —
+(Tai. Saṃ. 3-2-9-7 [?].) The Taittirīya Saṃhitā explains that the gods live by the praise and oblations offered from the earth, and in return men live by the wealth that the gods grant. Therefore, desiring that the two actions of both sides never stop —
 
-***naktam.*** *Naktety rātrināma — nakti bhūtāny avyaktāni vā naktāvyaktavarṇā* [?]: "because it makes all beings enveloped as if by mist, it is named *nakta*", or "because its colour is indistinct"; derived from the root *añj* "to shine", the word *akta*, with the negative *na*: *na* + *akta*; thus *nakta* means "that of indistinct colour": two senses are given by Yāska (Ni. [?]-[?]). The Bṛhaddevatā authors also … (continues on p. 63).
+***naktam.*** *naktety rātrināma — nakti bhūtāny avaśyāyenāpi vā naktāvyaktavarṇā*: "because it makes all beings enveloped as if by mist, it is named *nakta*", or "because its colour is indistinct"; derived from the root *añj* "to shine", the word *akta*, with the negative *na*: *na* + *akta*; thus *nakta* means "that of indistinct colour": two senses are given by Yāska (Ni. 8-10). The Bṛhaddevatā authors also … (continues on p. 63).
 
 ---
 
