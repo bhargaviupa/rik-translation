@@ -2053,45 +2053,45 @@ In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo a
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Grammar of Ṛk 8, continued; noted briefly.)* *pauṃsyā* (for *pauṃsyāni*: *śeś chandasi bahulam* (Pā. Sū. 6-1-[?]) drops *śi*; likewise *sanā*), *bhūvan* (root *bhū sattāyām*; *laṅ* third person plural; the *aṭ* augment does not come by *na māṅyoge* (Pā. Sū. 6-4-[?]); *tiṅanta nighāta*), *jāriṣuḥ* (root *jṛṣ vayohānau*; *luṅ* third person plural, *jhi*; *cli* → *sic*, which takes the *iḍ* augment; *jhi* gets the substitute *jus* (printed *usa*[?]) by *sijabhyastavidibhyaś ca* (Pā. Sū. 3-4-[?]); *vṛddhi* of the root's *ṛ* by *sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-[?]); *rapara*; as it is connected with *māṅ*, no augment by *na māṅyoge*; *nighāta* since a *tiṅanta* follows), *yuge yuge* (*nityavīpsayoḥ* (Pā. Sū. 8-1-[?]) doubling; the second is *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-[?]) makes it wholly *anudātta*), *navyam* (*yat*-ending, hence first-syllable accent), *ghoṣāt* (must be *ghoṣāḥ*; by the statement *supāṃ supo bhavanti* the ablative has come), *amartyam* (*na martyaḥ*; negative *tatpuruṣa*, *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-[?]), accent of the first member), *dustaram* (root *tṝ plavanataraṇayoḥ*; *dus* as prefix; *īṣaddustuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. Sū. 3-3-[?]) *khal*; *guṇa*, *rapara*; accent), *didhṛta* (root *dhṛṅ dhāraṇe*; *loṭ* second person plural; because of *laṅvadbhāva* the substitute *ta* (printed *tā*) comes; *bahulaṃ chandasi* gives *śap* the *ślu* substitute; *ślau* doubling; *bahulaṃ chandasi* *ittva* of the reduplicate; with *rapara* and *ādihal-śeṣa*; since the suffix is treated as *ṅit*, the root's *ṛ* takes no *guṇa*; as *yat* is connected, *nighāta* barred by *nipātair yadyadi…*; final-syllable accent of the suffix). ‖ 8 ‖
+*(Grammar of Ṛk 8, continued; noted briefly.)* *pauṃsyā* (for *pauṃsyāni*: *śeś chandasi bahulam* (Pā. Sū. 6-1-[?]) drops *śi*; likewise *sanā*), *bhūvan* (root *bhū sattāyām*; *laṅ* third person plural; the *aṭ* augment does not come by *na māṅyoge* (Pā. Sū. 6-4-[?]); *tiṅanta nighāta*), *jāriṣuḥ* (root *jṛṣ vayohānau*; *luṅ* third person plural, *jhi*; *cli* → *sic*, which takes the *iḍ* augment; *jhi* gets the substitute *us* (as printed: *jher usādeśaḥ*) by *sijabhyastavidibhyaś ca* (Pā. Sū. 3-4-[?]); *vṛddhi* of the root's *ṛ* by *sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-[?]); *rapara*; as it is connected with *māṅ*, no augment by *na māṅyoge*; *nighāta* since a *tiṅanta* follows), *yuge yuge* (*nityavīpsayoḥ* (Pā. Sū. 8-1-[?]) doubling; the second is *āmreḍita*; *anudāttaṃ ca* (Pā. Sū. 8-1-[?]) makes it wholly *anudātta*), *navyam* (*yat*-ending, hence first-syllable accent), *ghoṣāt* (must be *ghoṣāḥ*; by the statement *supāṃ supo bhavanti* the ablative has come), *amartyam* (*na martyaḥ*; negative *tatpuruṣa*, *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-[?]), accent of the first member), *dustaram* (root *tṝ plavanataraṇayoḥ*; *dus* as prefix; *īṣaddustuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. Sū. 3-3-[?]) *khal*; *guṇa*, *rapara*; accent), *didhṛta* (root *dhṛṅ dhāraṇe*; *loṭ* second person plural; because of *laṅvadbhāva* the substitute *ta* (printed *tā*) comes; *bahulaṃ chandasi* gives *śap* the *ślu* substitute; *ślau* doubling; *bahulaṃ chandasi* *ittva* of the reduplicate; with *rapara* and *ādihal-śeṣa*; since the suffix is treated as *ṅit*, the root's *ṛ* takes no *guṇa*; as *yat* is connected, *nighāta* barred by *nipātair yadyadi…*; final-syllable accent of the suffix). ‖ 8 ‖
 
 ### Printed p. 79  (PDF 97)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 #### Ṛk 9
 
 **॥ संहितापाठः ॥**
 
-> दध्यङ् ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ।
+> दध्यङ् ह मे जनुषं पूर्वो अंगिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ।
 > तेषां देवेष्वायतिरस्माकं तेषु नाभयः ।
-> तेषां पदेन मह्या नमे गिरेन्द्राग्नी आ नमे गिरा ॥ ९ ॥
+> तेषां पदेन मह्या नमे गिरेंद्राग्नी आ नमे गिरा ॥ ९ ॥
 
-> *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrirmanurviduste me pūrve manurviduḥ |*
+> *dadhyaṅ ha me januṣaṃ pūrvo aṃgirāḥ priyamedhaḥ kaṇvo atrirmanurviduste me pūrve manurviduḥ |*
 > *teṣāṃ deveṣvāyatirasmākaṃ teṣu nābhayaḥ |*
-> *teṣāṃ padena mahyā name girendrāgnī ā name girā ‖ 9 ‖*
+> *teṣāṃ padena mahyā name gireṃdrāgnī ā name girā ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
-> दध्यङ् । ह । मे । जनुषम् । पूर्वः [?] । अङ्गिराः । प्रियऽमेधः । कण्वः । अत्रिः । मनुः । विदुः । ते । मे । पूर्वे । मनुः । विदुः ।
-> तेषाम् । देवेषु । आऽयतिः [?] । अस्माकम् । तेषु । नाभयः ।
-> तेषाम् । पदेन । महि । आ । नमे । गिरा । इन्द्राग्नी इति । आ । नमे । गिरा ॥ ९ ॥
+> दध्यङ् । ह । मे । जनुषं । पूर्वः । अंगिराः । प्रियऽमेधः । कण्वः । अत्रिः । मनुः । विदुः । ते । मे । पूर्वे । मनुः । विदुः ।
+> तेषां । देवेषु । आऽयतिः । अस्माकं । तेषु । नाभयः ।
+> तेषां । पदेन । महि । आ । नमे । गिरा । इंद्राग्नी इति । आ । नमे । गिरा ॥ ९ ॥
 
-> *dadhyaṅ | ha | me | januṣam | pūrvaḥ [?] | aṅgirāḥ | priya 'medhaḥ | kaṇvaḥ | atriḥ | manuḥ | viduḥ | te | me | pūrve | manuḥ | viduḥ |*
-> *teṣām | deveṣu | ā 'yatiḥ [?] | asmākam | teṣu | nābhayaḥ |*
-> *teṣām | padena | mahi | ā | name | girā | indrāgnī iti | ā | name | girā ‖ 9 ‖*
+> *dadhyaṅ | ha | me | januṣaṃ | pūrvaḥ | aṃgirāḥ | priya 'medhaḥ | kaṇvaḥ | atriḥ | manuḥ | viduḥ | te | me | pūrve | manuḥ | viduḥ |*
+> *teṣāṃ | deveṣu | ā 'yatiḥ | asmākaṃ | teṣu | nābhayaḥ |*
+> *teṣāṃ | padena | mahi | ā | name | girā | iṃdrāgnī iti | ā | name | girā ‖ 9 ‖*
 
 *(Gist, mine: Dadhyañc, Aṅgiras, Priyamedha, Kaṇva, Atri and Manu knew my birth; their favour with the gods is ours; by their footing I bow with my hymn to Indra and Agni.)*
 
-**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the Āśvalāyana citation, then the bhāṣya. Small type; doubtful words marked)
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; the Āśvalāyana citation, then the bhāṣya. Small type; numerals left unread; the page ends mid-sentence)
 
-> पृष्ठ्यस्य षष्ठेऽहन्यच्छावाकस्य पृष्ठितियाज्यायाः पुरस्ताद्दध्यङ् ह मे इत्येषा । सूत्रितं च । दध्यङ् ह मे जनुषं पूर्वो अङ्गिरा इत्येवमेव माध्यंदिने । आ. [?] । इति ॥
+> पृष्ठ्यस्य षष्ठेऽहन्यच्छावाकस्य प्रस्थितयाज्यायाः पुरस्ताद्दध्यङ् ह मे इत्येषा । सूत्रितं च । दध्यङ् ह मे जनुषं पूर्वो अंगिरा इत्येवमेव माध्यंदिने । आ. [?] । इति ॥
 
-> *pṛṣṭhyasya ṣaṣṭhe 'hanyacchāvākasya pṛṣṭhitiyājyāyāḥ purastāddadhyaṅ ha me ityeṣā | sūtritaṃ ca | dadhyaṅ ha me januṣaṃ pūrvo aṅgirā ityevameva mādhyaṃdine | ā. [?] | iti ‖*
+> *pṛṣṭhyasya ṣaṣṭhe 'hanyacchāvākasya prasthitayājyāyāḥ purastāddadhyaṅ ha me ityeṣā | sūtritaṃ ca | dadhyaṅ ha me januṣaṃ pūrvo aṃgirā ityevameva mādhyaṃdine | ā. [?] | iti ‖*
 
-> दध्यङ्ङथर्वणगोत्रोत्पन्न [?] एतन्नामको महर्षिः स च पूर्वः पूर्वकः सर्वस्य पुरातनो [?] वा । अङ्गिरा अङ्गिराः । यद्वा । अङ्गिरा विना [?] अङ्गिरसोऽभवन् । येऽङ्गिरा असंस्तेऽङ्गिरसोऽभवन्निति श्रुतेः । अङ्गिरा अङ्गारा अङ्गनाः अञ्चना इति निरुक्तम् [?] । एतन्नामा महर्षिश्च । प्रियमेधः मेधाप्रियः । प्रियमेधः प्रिया अस्य मेधाः (नि. [?]-[?]) इति यास्कः । स च कण्वो मेधावी [?] । स च चात्रिः [?] दर्शनः तमोरहितः [?] । अत्रिरत्त्रिणो [?] इति निरुक्तम् (नि. [?]-[?]) । मनुर्मननान्नेतन्नामा महर्षिः [?] । एते सर्वे मे जनुषं जन्म दैवोदासपुत्रस्य परुच्छेपस्य जन्म विदुः । जानन्ति । वेत्तेर्लिटो लट् वेति [?] … मनुर्मनुष्यः [?] जनुः … मे पूर्वे पूर्वकाले [?] … [… the remainder of the bhāṣya continues on p. 80 …]
+> दध्यङ्ङथर्वगोत्रोत्पन्न एतन्नामको महर्षिः स च पूर्वः पूरकः सर्वस्य पुरातनो वा अंगिरा अंगारः । तद्वत्तेजस्वीत्यर्थः । यद्वा । अंगारा एवांगिरसोऽभवन् येऽंगारा आसंस्तेऽंगिरसोऽभवन्निति श्रुतेः । अंगिरा अंगारा अंकना अंचना इति निरुक्तं । एतन्नामा महर्षिश्च प्रियमेधो मेधाप्रियः । प्रियमेधः प्रिया अस्य मेधाः । नि. [?] । इति यास्कः । स च कण्वो मेधावी स चात्रिर्दुःखत्रयरहितः । अत्रिर्न त्रयु इति निरुक्तं । [?]-[?] । मनुर्मननान्नेतन्नामा महर्षिः । एते सर्वे महात्मानो महर्षयो मे जनुषं दिवोदासपुत्रस्य परुच्छेपस्य जन्म विदुः । जानंति ॥ वेत्तेर्विदो लटो वेति झेरुसादेशः ॥ किंच ते पूर्वोक्ताः पूर्वे पूर्वकालीना मेऽस्मत्पित्रादीञ्ज्ञानंते इत्यर्थः । मनुर्मनवो ज्ञानवंतो … (continues on p. 80)
 
-> *dadhyaṅṅatharvaṇagotrotpanna [?] etannāmako maharṣiḥ sa ca pūrvaḥ pūrvakaḥ sarvasya purātano [?] vā | aṅgirā aṅgirāḥ | yadvā | aṅgirā vinā [?] aṅgiraso 'bhavan | ye 'ṅgirā asaṃste 'ṅgiraso 'bhavanniti śruteḥ | aṅgirā aṅgārā aṅganāḥ añcanā iti niruktam [?] | etannāmā maharṣiśca | priyamedhaḥ medhāpriyaḥ | priyamedhaḥ priyā asya medhāḥ (ni. [?]-[?]) iti yāskaḥ | sa ca kaṇvo medhāvī [?] | sa ca cātriḥ [?] darśanaḥ tamorahitaḥ [?] | atrirattriṇo [?] iti niruktam (ni. [?]-[?]) | manurmananānnetannāmā maharṣiḥ [?] | ete sarve me januṣaṃ janma daivodāsaputrasya parucchepasya janma viduḥ | jānanti | vetterliṭo laṭ veti [?] … manurmanuṣyaḥ [?] januḥ … me pūrve pūrvakāle [?] … [… the remainder of the bhāṣya continues on p. 80 …]*
+> *dadhyaṅṅatharvagotrotpanna etannāmako maharṣiḥ sa ca pūrvaḥ pūrakaḥ sarvasya purātano vā aṃgirā aṃgāraḥ | tadvattejasvītyarthaḥ | yadvā | aṃgārā evāṃgiraso 'bhavan ye 'ṃgārā āsaṃste 'ṃgiraso 'bhavanniti śruteḥ | aṃgirā aṃgārā aṃkanā aṃcanā iti niruktaṃ | etannāmā maharṣiśca priyamedho medhāpriyaḥ | priyamedhaḥ priyā asya medhāḥ | ni. [?] | iti yāskaḥ | sa ca kaṇvo medhāvī sa cātrirduḥkhatrayarahitaḥ | atrirna trayu iti niruktaṃ | [?]-[?] | manurmananānnetannāmā maharṣiḥ | ete sarve mahātmāno maharṣayo me januṣaṃ divodāsaputrasya parucchepasya janma viduḥ | jānaṃti ‖ vettervido laṭo veti jherusādeśaḥ ‖ kiṃca te pūrvoktāḥ pūrve pūrvakālīnā me 'smatpitrādīñjñānaṃte ityarthaḥ | manurmanavo jñānavaṃto … (continues on p. 80)*
 
 ---
 
