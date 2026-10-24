@@ -1972,15 +1972,18 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 *(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
 
-**Bhāvārtha.** O Maruts, may your well-known powers of protection not harm us. May our wealth not decay. May our towns (and the people and animals in them) not perish. Whatever is wonderful, excellent and imperishable, may it always be with us, with the creatures that make sound and with us men. May wealth that must be won with great hardship, and that cannot be taken by foes, remain with us.
+**Pratipadārtha (Kannada), continued from p. 74.** (*asmat* — us;) *mo ṣu abhi bhūvan* — (continued from p. 74) may they not do us trouble, or may they not leave us; *uta* — and; (*dyumnāni*) — our wealth or fame; *mā jāriṣuḥ* — let it not decay; *uta* — and; *asmat* — our; *purā* — towns (or the people and creatures in them); (*mā*) *jāriṣuḥ* — let them not perish; (and) *vaḥ* — yours (made for you); *yat citram* — whatever of many kinds, wonderful; *navyam* — new (or praiseworthy); *amartyam* — a thing hard to find among mortals; *yat* — whatever there is (or); *ghoṣāt* — [of the creatures that sound] and the people also; *tat* — all that; *yuge yuge* — in every age; *asmāsu* — may it be among us (*asmāsu*; O) *marutaḥ* — Maruts; *dustaram* — hard to obtain, to be won with great effort; *yat ca* — whatever wealth there is; *didhṛtā* — set it in us (make us hold it); (and) *dustaram* — not subject to the foes' harassment; *yat ca* — whatever things there are (make them dwell in us).
+
+
+**Bhāvārtha.** O Maruts, may your praiseworthy powers and capacities not bring us trouble. May our wealth not decay. May our towns (and the people and animals in them) not perish. Whatever is wonderful, excellent and imperishable, may it always be with us, with the creatures that make sound and with us men. May wealth that must be won with great hardship, and that cannot be taken by foes, remain with us.
 
 **English Translation (as printed).** Never, Maruts, may your glorious energies be exerted against us; may our (riches) never diminish: never may our towns decay: and may whatever is wonderful, admirable, immortal, or (whatever is recognized to be living), from its sound, that has been yours from age to age, (devolve) upon us; whatever is most difficult (of attainment) bestow upon us; whatever is most difficult (to be attained).
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo asmat* too is to be recited as a *pṛṣṭhitayājyā* mantra, as the Āśvalāyana Śrautasūtra sets out by the sūtra मो षु वो अस्मदभि तानि पौंस्या षू णो अग्ने (*mo ṣu vo asmadabhi tāni pauṃsyā ṣū ṇo agne*) (Āś. [?]-[?]).
+In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo asmat* too is to be recited as a *prasthitayājyā* mantra, as the Āśvalāyana Śrautasūtra sets out by the sūtra मो षु वो अस्मदभि तानि पौंस्या षू णो अग्ने (*mo ṣu vo asmadabhi tāni pauṃsyā ṣū ṇo agne*) (Āś. [?]-[?]).
 
-***vaḥ tāni pauṃsyā.*** *Yuṣmatsaṃbandhīni balāni* — "your well-known powers": the collective power of the Maruts is praised (continued on p. 76).
+***vaḥ tāni pauṃsyā.*** *Yuṣmatsaṃbandhīni balāni* — "your well-known powers": the collective power of the Maruts is praised
 
 ---
 
