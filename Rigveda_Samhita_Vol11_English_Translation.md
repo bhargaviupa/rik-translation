@@ -1735,7 +1735,7 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ### Printed p. 65  (PDF 83)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 **Pratipadārtha (Kannada).** *vṛṣan* — O showerer of desired things; *indra* — O Indra; *indavaḥ* — flowing; *vṛṣapāṇāsaḥ* — to be drunk by you, who grant what is wished; *udbhidaḥ* — that cause rain to fall; *adriṣutāsaḥ* — that are pressed and ground with stones; *ime* — these Soma juices; *sutāḥ* — have been pressed; *udbhidaḥ* — these Soma plants grown on mountains and the like; *tubhyam* — for you; *sutāsaḥ* — have been pressed and made ready; *te* — these juices; *dāvane* — at sacrificial times rich in gifts; *mahe* — great; *citrāya* — and of many kinds; *rādhase* — for the gain of wealth; *tvā* — you; *mandantu* — may they satisfy; *girvāhaḥ* — Indra, bearer of praise; *gīrbhiḥ* — by our hymns; *stavamānaḥ* — being praised; *ā gahi* — come (be gracious); *naḥ* — us; *sumṛḷīkaḥ* — giving us happiness; *ā gahi* — come here.
 
@@ -1745,7 +1745,7 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-On the sixth day of the sacrifice called *Pṛṣṭhya-ṣaḍaha*, when the *Praüga-śastra* mantras are recited, a *tṛca* (three Ṛks) relating to Indra must be recited; the Āśvalāyana Śrautasūtra says so in the sūkta वृषन्निन्द्र वृषपाणास सुषुमा यातमद्रिभिः [?] (*vṛṣannindra vṛṣapāṇāsa suṣumā yātamadribhiḥ [?]*) (Āś. [?]-[?]); and at the morning pressing of the same sacrifice, before the *pṛṣṭhitayājyā* mantra is recited, the *hotṛ* priest joins this Ṛk with other Ṛks … (continues on p. 66).
+On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the *Praüga-śastra* mantras are recited, a *tṛca* (three Ṛks) relating to Indra is recited, and this Ṛk *vṛṣannindra* is to be recited as the third Ṛk; the Āśvalāyana Śrautasūtra says so in the passage वृषन्निन्द्र वृषपाणास इन्दवः सुषुमा यातमद्रिभिः (*vṛṣannindra vṛṣapāṇāsa indavaḥ suṣumā yātamadribhiḥ*) (Āś. [?]-[?]); and at the morning pressing of the same sacrifice, before the *prasthitayājyā* mantra is recited, the *hotṛ* priest joins this Ṛk with other Ṛks … (continues on p. 66).
 
 ---
 
