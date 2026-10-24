@@ -3143,15 +3143,17 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
 
-> ता इन्म [?] समना समानीरमीतवर्णा उषसश्चरन्ति । गूहन्तीरभ्वमसितं रुशद्भिः शुक्राः तनूभिः शुचयो रुचानाः [?] ।
+> ता इन्न्हे३व [?] समना समानीरमीतवर्णा उषसश्चरन्ति ।
+> गूहन्तीरभ्वमसितं रुशद्भिः शुक्रास्तनूभिः शुचयो रुचानाः ॥
 
-> *tā inma [?] samanā samānīramītavarṇā uṣasaścaranti | gūhantīrabhvamasitaṃ ruśadbhiḥ śukrāḥ tanūbhiḥ śucayo rucānāḥ [?] |*
+> *tā innhe3va [?] samanā samānīramītavarṇā uṣasaścaranti |*
+> *gūhantīrabhvamasitaṃ ruśadbhiḥ śukrāstanūbhiḥ śucayo rucānāḥ ‖*
 
 (Ṛ. Saṃ. 1-[?]-[?] [?].) In this Ṛk *ati mahat kṛṣṇaṃ rūpam* — "great black darkness" — is the sense. Just as the word *abhva* is used when the power of beings that is deformed and harmful is indicated, so it is used in the Ṛk at hand. In this Ṛk *kṛṣṇam abhvam* is explained as "the path of pitch darkness spread all around"; that is, extremely great black darkness.
 
 ***varpaḥ.*** *Rūpaṃ prakāśam* — "radiant form".
 
-**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *īrate* (root *īra gatau kampane ca*; *laṭ* third person plural, *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-[?]) *at*-substitution; *luk* of *śap*; as a *tiṅanta* is followed, *nighāta*), *mahi* (root *maha pūjāyām*; *sarvadhātubhya in* gives *in*; by *nittva*, *ñnityādir nityam* (Pā. Sū. 6-1-[?]) first-syllable accent), *mahīm* (for *mahīm*, Vedic loss of the *ṭi*; though it is *jīp*, by *pittvāt* … *śatrunumo nadyajādī* (Pā. Sū. 6-1-[?]), and by the statement *bṛhanmahoruṣasaṃkhyānam*, the *udātta*; *ekādeśa udātto…* (Pā. Sū. 8-2-[?])), *mamṛśat* (root *mṛśa āmarśane*; *tudādi*; with *yaṅ-luk*; *dhātor ekāco…* (Pā. Sū. 6-1-[?]); *yajaloci* (Pā. Sū. 7-4-[?]) …; *guṇo yaṅluk…* (Pā. Sū. 7-4-[?]) the reduplicate; *ādir abhyastānām* (Pā. Sū. 6-1-[?]) first-syllable accent), *abhiśvasan* (root *śvasa prāṇane*; *śatṛ* in the sense of the present; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; first-syllable accent of the suffix; as a prefix compound, *kṛdutarapadaprakṛtisvara*; nominative singular), *stanayan* (root *stana devaśabde*, *curādi*; *satyāpapāśarūpa…* (Pā. Sū. 3-1-[?]) *ṇic*; after the *ṇic*-ending, *śatṛ* in the sense of the present; *śap*; the *a* of the root is dropped as the root has *ṇic*; hence no *upadhāvṛddhi*; *guṇa*, *ay*; as it is not *ārdhadhātuka*, *nighāta*), …
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *īrate* (root *īra gatau kampane ca*; *laṭ* third person plural, *ātmanepadeṣv anataḥ* *at*-substitution; *luk* of *śap*; as a *tiṅanta* is followed, *nighāta*), *mahi* (root *maha pūjāyām*; *sarvadhātubhya in* gives *in*; by *nittva*, *ñnityādir nityam* (Pā. Sū. 6-1-[?]) first-syllable accent), *mahīm* (for *mahīm*, Vedic loss of the *ṭi*; though it is *jīp*, by *pittvāt* … *śatrunumo nadyajādī* (Pā. Sū. 6-1-[?]), and by the statement *bṛhanmahoruṣasaṃkhyānam*, the *udātta*; *ekādeśa udātto…* (Pā. Sū. 8-2-[?])), *mamṛśat* (root *mṛśa āmarśane*; *tudādi*; with *yaṅ-luk*; *dhātor ekāco…* (Pā. Sū. 6-1-[?]); *yajoci…* [?]; *guṇo yaṅlukoḥ* the reduplicate; *ādir abhyastānām* (Pā. Sū. 6-1-[?]) first-syllable accent), *abhiśvasan* (root *śvasa prāṇane*; *śatṛ* in the sense of the present; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; first-syllable accent of the suffix; as a prefix compound, *kṛdutarapadaprakṛtisvara*; nominative singular), *stanayan* (root *stana devaśabde*, *curādi*; *satyāpapāśarūpa…* (Pā. Sū. 3-1-[?]) *ṇic*; after the *ṇic*-ending, *śatṛ* in the sense of the present; *śap*; the *a* of the root is dropped as the root has *ṇic*; hence no *upadhāvṛddhi*; *guṇa*, *ay*; as it is not *ārdhadhātuka*, *nighāta*), …
 
 ### Printed p. 121  (PDF 139)
 
