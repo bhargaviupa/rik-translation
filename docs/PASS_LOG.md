@@ -89,3 +89,4 @@
 2026-10-24 08:44 PDF 129-129: remaining [?] EN 0, KN 1. grammar page re-read; sūtra numbers read from print (2-4-74, 7-4-82, 7-1-41, 8-1-63, 3-1-26, 3-4-117, 3-1-124, 7-2-116, 7-1-1), no zoom; some may be misread
 2026-10-24 08:44 PDF 130-130: remaining [?] EN 0, KN 0. Ṛk 4 bhāṣya re-transcribed (Muṇḍaka quote 1-2-4,5); ends mid-sentence at p. 112 foot
 2026-10-24 08:44 PDF 131-131: remaining [?] EN 0, KN 0. bhāṣya tail restored at top of p. 113; Śatapatha quote re-read; ṛtvik fix
+2026-10-24 08:45 PDF 132-132: remaining [?] EN 1, KN 0. Śatapatha quote re-read; refs Ai. 1-16, Muṇḍaka 1-2-4,5; paragraph cut at page break
