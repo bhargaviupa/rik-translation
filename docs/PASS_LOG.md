@@ -53,3 +53,4 @@
 2026-10-24 06:04 PDF 92-92: remaining [?] EN 4, KN 2. bhāṣya of Ṛk 8 re-transcribed in full (file was partial/garbled); Pada fixed (dustaram, anusvāra); Pratipadārtha cut where the print breaks (rest moves to p. 75, PDF 93)
 2026-10-24 06:05 PDF 93-93: remaining [?] EN 3, KN 2. Pratipadārtha tail restored from p. 74 break and corrected; Bhāvārtha wording; prasthitayājyā; remaining marks are numerals
 2026-10-24 06:06 PDF 94-94: remaining [?] EN 10, KN 7. Aitareya quote re-read (antarikṣa-bhājanās…); Pratipadārtha-style wording fixes; remaining numerals
+2026-10-24 06:07 PDF 95-95: remaining [?] EN 20, KN 16. non-numeral fixes: Ṛ. Saṃ. quotes (atapad ghoṣa, ayāmi), Ai. Ā. source, prose wording; remaining numerals

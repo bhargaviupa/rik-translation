@@ -2015,39 +2015,39 @@ In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo a
 
 ### Printed p. 77  (PDF 95)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-…In the Saṃhitās and in the Brāhmaṇas and the like, the word *ghoṣa* means a sound that carries an extraordinary power: *vi rodasī atapat ghoṣa viṣām* [?] (Ṛ. Saṃ. 1-[?]-[?]), *āyāmi ghoṣa indra* (Ṛ. Saṃ. 2-[?]-[?]) and other Saṃhitā sentences; and
+…the sense of a sound showing a distinctive power: this word is used in that sense. In the Saṃhitās and in the Brāhmaṇas and the like, the word *ghoṣa* means a sound that carries an extraordinary power: *vi rodasī atapad ghoṣa viṣām* (Ṛ. Saṃ. 1-[?]-[?]), *ayāmi ghoṣa indra* (Ṛ. Saṃ. 2-[?]-[?]) and other Saṃhitā sentences; and
 
-> ता वा एताः सर्वा ऋचः सर्वे वेदाः सर्वे घोषा एकैव व्याहृतिः [?] ।
+> ता वा एताः सर्वा ऋचः सर्वे वेदाः सर्वे घोषा एकैव व्याहृतिः ।
 
-> *tā vā etāḥ sarvā ṛcaḥ sarve vedāḥ sarve ghoṣā ekaiva vyāhṛtiḥ [?] |*
+> *tā vā etāḥ sarvā ṛcaḥ sarve vedāḥ sarve ghoṣā ekaiva vyāhṛtiḥ |*
 
 (Ai. Ā. 3-[?]-[?] [?].)
 
-> मयि स्तोभो मयि स्तोमो [?] मयि श्लोको मयि घोषो मयि यशः [?] ।
+> मयि स्तोभो मयि स्तोमो मयि श्लोको मयि घोषो मयि यशः ।
 
-> *mayi stobho mayi stomo [?] mayi śloko mayi ghoṣo mayi yaśaḥ [?] |*
+> *mayi stobho mayi stomo mayi śloko mayi ghoṣo mayi yaśaḥ |*
 
-(Brā. Ā. [?]-[?]-[?] [?].)
+(Ai. Ā. [?]-[?]-[?] [?].)
 
-> येनेदमन्नं पच्यते यदिदमद्यते तस्यैष घोषो भवति [?] ।
+> येनेदमन्नं पच्यते यदिदमद्यते तस्यैष घोषो भवति ।
 
-> *yenedamannaṃ pacyate yadidamadyate tasyaiṣa ghoṣo bhavati [?] |*
+> *yenedamannaṃ pacyate yadidamadyate tasyaiṣa ghoṣo bhavati |*
 
 (Śa. Brā. 14-[?]-[?]-[?] [?].)
 
-> सर्वे स्वरा घोषवन्तो बलवन्तो वक्तव्याः [?] ।
+> सर्वे स्वरा घोषवन्तो बलवन्तो वक्तव्याः ।
 
-> *sarve svarā ghoṣavanto balavanto vaktavyāḥ [?] |*
+> *sarve svarā ghoṣavanto balavanto vaktavyāḥ |*
 
-(Chā. Up. [?]-[?]-[?] [?].) In these and other places it is used with the sense of a sound that has extraordinary power. In the Ṛk at hand, though it has no such special sense, it means the sound of cows and the like, or of villages and towns, that causes exceeding delight. The prayer is: give us permanently wealth of cows and the like, accompanied by such joy-giving sounds.
+(Chā. Up. [?]-[?]-[?] [?].) In these and other places it is used with the sense of a sound that has extraordinary power. In the Ṛk at hand, though it has no such special sense, it means the sound of cows and the like, or of the villagers, that causes exceeding delight. The prayer is: give us permanently wealth of cows and the like, accompanied by such joy-giving sounds.
 
 ***dustaram.*** The word is repeated. The first means the toil of acquiring wealth, the second the toil of guarding wealth. *Dustaram* — *duḥkhena taraṇīyaṃ saṃpādanīyam* — "to be obtained with great trouble"; and *dustaram* — *śatrubhir ahiṃsitam* — "not harmed by foes".
 
 ***yuge yuge.*** *Yugaśabdaḥ kālavacanaḥ* — "in the respective ages (times)"; it means either in the times of our sacrifices, or in the lifetimes of ourselves and our sons and grandsons.
 
-**Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly).** *mo ṣu* (*mā* and *u*: two particles), *suñaḥ* (Pā. Sū. 8-3-[?]) *ṣatva* of the *s* of *su*), *asmat* (ablative plural; *supāṃ sulak…*: the case-ending *luk* in the first-named [?]).
+**Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly).** *mo ṣu* (*mā* and *u*: two particles), *suñaḥ* (Pā. Sū. 8-3-[?]) *ṣatva* of the *s* of *suñ*), *asmat* (ablative plural; *supāṃ sulak…*: the case-ending *luk* in the first explanation).
 
 ### Printed p. 78  (PDF 96)
 
