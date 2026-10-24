@@ -3157,9 +3157,9 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ### Printed p. 121  (PDF 139)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 6.)*
 
-**Vyākaraṇa-prakriyā (Ṛk 5, concluded; noted briefly).** *eti* (root *iṇ gatau*, *adādi*; *laṭ* third person singular; as *yad* is connected, *nighāta* is barred by *nipātair yadyadi…* (Pā. Sū. 8-1-[?]), so the root's accent remains), *nānadat* (root *ṇada avyakte śabde*; *noṇaḥ* (Pā. Sū. 6-1-[?]) *na* for the initial; with *yaṅ-luk*, *laṭ* in the sense of the present, *śatṛ*; *ābhyastānām ādiḥ* (Pā. Sū. 6-1-[?]) first-syllable accent). ‖ 5 ‖
+**Vyākaraṇa-prakriyā (Ṛk 5, concluded; noted briefly).** *eti* (root *iṇ gatau*, *adādi*; *laṭ* third person singular; as *yad* is connected, *nighāta* is barred by *nipātair yadyadi…* (Pā. Sū. 8-1-[?]), so the root's accent remains), *nānadat* (root *ṇada avyakte śabde*; *ṇo naḥ* (Pā. Sū. 6-1-[?]) *na* for the initial; the intensive *yaṅ* as before, with *luk*, *laṭ* in the sense of the present, *śatṛ*; *ābhyastānām ādiḥ* (Pā. Sū. 6-1-[?]) first-syllable accent). ‖ 5 ‖
 
 #### Ṛk 6
 
@@ -3173,19 +3173,19 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 **॥ पदपाठः ॥**
 
-> भूषन् । न । यः । अधि । बभ्रुषु । नम्नते । वृषाऽइव । पत्नीः । अभि । एति । रोरुवत् ।
+> भूषन् । न । यः । अधि । बभ्रूषु । नम्नते । वृषाऽइव । पत्नीः । अभि । एति । रोरुवत् ।
 > ओजायमानः । तन्वः । च । शुम्भते । भीमः । न । शृङ्गा । दविधाव । दुःऽगृभिः ॥ ६ ॥
 
-> *bhūṣan | na | yaḥ | adhi | babhruṣu | namnate | vṛṣā 'iva | patnīḥ | abhi | eti | roruvat |*
+> *bhūṣan | na | yaḥ | adhi | babhrūṣu | namnate | vṛṣā 'iva | patnīḥ | abhi | eti | roruvat |*
 > *ojāyamānaḥ | tanvaḥ | ca | śumbhate | bhīmaḥ | na | śṛṅgā | davidhāva | duḥ 'gṛbhiḥ ‖ 6 ‖*
 
 *(Gist, mine: Agni enters the brown bushes as if adorning them, bellows like a bull among cows, swells his power and puts forth his limbs; like a fearful beast he tosses his horn-like flames.)*
 
 **॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *Agni enters the brown plants as if adorning them; roaring like a bull among his mates, he gathers strength and spreads his flames, which none can seize.* Small type; doubtful words marked)
 
-> योऽग्निर्बभ्रुषु बभ्रुवर्णास्वोषधीषु [?] भरणकुशलासु [?] ना जगतां मध्यमधिकं नम्नते नमति काष्ठानि प्रविशति । नमतेर्लेट्यडागमः । व्यत्ययेन शा । यद्वा । लटि छान्दसः शपः श्लुः । व्यत्ययेन हलादिशेषाभावः ॥ भूषन् भूतान्येव स्वतेजसा भूषयन्निव । किञ्चायं प्रविशन् वृषेव सेक्ता वृषभ इव पत्नीः स्वपत्नीरेव पालयन्तीः [?] समन्तादुपयुक्तां प्रीणयन्ती [?] ओषधीः रोरुवत् । रौतेर्यङ्लुगन्ताच्छतरि यङ्लुकि [?] … अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥ आत्मार्थं शब्दयन्नेति [?] अभितो गच्छति । प्रथमोषधीः प्रविश्य पश्चाद्बुद्ध्वा संस्था एव वहतीत्यर्थः । किञ्चैवं कृत्वा ओजायमानः । ओज इति बलनाम । स्वयं बलमिवाचरन् । क्यङः क्यङ् सलोपश्चेति [?] । भूवादिभिर्विना केवलमग्निस्तेजोरूप एव संस्तन्वः स्वशरीरभूता ज्वाला … शुम्भते [?]
+> योऽग्निर्बभ्रूषु बभ्रुवर्णास्वोषधीषु भरणकुशलासु ना जगतामध्यधिकं नम्नते नमति काष्ठानि प्रविशति । नमतेर्लेट्यडागमः । व्यत्ययेन श्ना । यद्वा । लटि छान्दसः शपः श्लुः । व्यत्ययेन हलादिशेषाभावः ॥ भूषन्न भूतान्येव स्वतेजसा भूषयन्निव । किञ्चायं प्रविशन् वृषेव सेक्ता वृषभ इव पत्नीः स्वमेव [?] पालयित्रीः समर्थयित्रीरोषधीः रोरुवत् । रौतेर्यङ्लुगन्ताच्छतेर्यभ्यस्तानामादिरित्याद्युदात्तत्वम् [?] ॥ अत्यर्थं शब्दयन्न्येति । अभितो गच्छति । प्रथममोषधीः प्रविश्य पश्चात्प्रबुद्धः संस्था एव दहतीत्यर्थः । किञ्चैवं कृत्वा ओजायमानः । ओज इति बलनाम । स्वयं बलमिवाचरन् ॥ कर्तुः क्यङ् सलोपश्चेति क्यङ्सलोपौ ॥ धूमादिभिर्विना केवलं तेजोरूप एव संस्तन्वश्च शुम्भते । स्वशरीरभूता ज्वाला
 
-> *yo 'gnirbabhruṣu babhruvarṇāsvoṣadhīṣu [?] bharaṇakuśalāsu [?] nā jagatāṃ madhyamadhikaṃ namnate namati kāṣṭhāni praviśati | namaterleṭyaḍāgamaḥ | vyatyayena śā | yadvā | laṭi chāndasaḥ śapaḥ śluḥ | vyatyayena halādiśeṣābhāvaḥ ‖ bhūṣan bhūtānyeva svatejasā bhūṣayanniva | kiñcāyaṃ praviśan vṛṣeva sektā vṛṣabha iva patnīḥ svapatnīreva pālayantīḥ [?] samantādupayuktāṃ prīṇayantī [?] oṣadhīḥ roruvat | rauteryaṅlugantācchatari yaṅluki [?] … abhyastānāmādirityādyudāttatvam ‖ ātmārthaṃ śabdayanneti [?] abhito gacchati | prathamoṣadhīḥ praviśya paścādbuddhvā saṃsthā eva vahatītyarthaḥ | kiñcaivaṃ kṛtvā ojāyamānaḥ | oja iti balanāma | svayaṃ balamivācaran | kyaṅaḥ kyaṅ salopaśceti [?] | bhūvādibhirvinā kevalamagnistejorūpa eva saṃstanvaḥ svaśarīrabhūtā jvālā … śumbhate [?]*
+> *yo 'gnirbabhrūṣu babhruvarṇāsvoṣadhīṣu bharaṇakuśalāsu nā jagatāmadhyadhikaṃ namnate namati kāṣṭhāni praviśati | namaterleṭyaḍāgamaḥ | vyatyayena śnā | yadvā | laṭi chāndasaḥ śapaḥ śluḥ | vyatyayena halādiśeṣābhāvaḥ ‖ bhūṣanna bhūtānyeva svatejasā bhūṣayanniva | kiñcāyaṃ praviśan vṛṣeva sektā vṛṣabha iva patnīḥ svameva [?] pālayitrīḥ samarthayitrīroṣadhīḥ roruvat | rauteryaṅlugantācchateryabhyastānāmādirityādyudāttatvam [?] ‖ atyarthaṃ śabdayannyeti | abhito gacchati | prathamamoṣadhīḥ praviśya paścātprabuddhaḥ saṃsthā eva dahatītyarthaḥ | kiñcaivaṃ kṛtvā ojāyamānaḥ | oja iti balanāma | svayaṃ balamivācaran ‖ kartuḥ kyaṅ salopaśceti kyaṅsalopau ‖ dhūmādibhirvinā kevalaṃ tejorūpa eva saṃstanvaśca śumbhate | svaśarīrabhūtā jvālā*
 
 ### Printed p. 122  (PDF 140)
 

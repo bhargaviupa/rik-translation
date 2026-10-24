@@ -96,3 +96,4 @@
 2026-10-24 08:48 PDF 136-136: remaining [?] EN 16, KN 12. Bhāṣya ‘tvadīyam’, intro and closing wording fixed; numerals left
 2026-10-24 08:49 PDF 137-137: remaining [?] EN 16, KN 10. Śatapatha and Ṛk quotations re-read from print, Varga 5, sat/duṣṭa śakti fixed; numerals left
 2026-10-24 08:49 PDF 138-138: remaining [?] EN 12, KN 11. Saṃhitā line and grammar paragraphs re-transcribed from print; numerals left
+2026-10-24 08:50 PDF 139-139: remaining [?] EN 7, KN 4. Bhāṣya re-transcribed from print, grammar paras, Varga 6; numerals left
