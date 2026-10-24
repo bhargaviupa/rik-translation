@@ -2137,35 +2137,35 @@ Then the Aśvins, having heard this, wished to obtain for themselves the knowled
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-> ता हेमां चक्रतुः [?] । उप त्वायोवेति [?] कमनुवक्ष्यमाणाविति [?] एतं शुक्रमेतं यज्ञं यथा … कृत्स्नो यज्ञो भवतीति [?] ।
+> ता हेत्योचतुः । उप त्वायोवेति किमनुवक्ष्यमाणावित्येतं शुक्रमेतं यज्ञं यथा ...... कृत्स्नो यज्ञो भवतीति ।
 
-> *tā hemāṃ cakratuḥ [?] | upa tvāyoveti [?] kamanuvakṣyamāṇāviti [?] etaṃ śukrametaṃ yajñaṃ yathā … kṛtsno yajño bhavatīti [?] |*
+> *tā hetyocatuḥ | upa tvāyoveti kimanuvakṣyamāṇāvityetaṃ śukrametaṃ yajñaṃ yathā ...... kṛtsno yajño bhavatīti |*
 
 Then they went to him, and said that they would become his pupils and learn that lore, asking him to instruct them also.
 
-> स होवाच । इन्द्रेण वा उक्तोऽस्म्येतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिन्द्यामिति तस्माद्वै बिभेमि यद्वै मे स शिरो न छिन्द्यान्नेति वामुपवेयाम् इति [?] ।
+> स होवाच । इन्द्रेण वा उक्तोऽस्म्येतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिन्द्यामिति तस्माद्वै बिभेमि यद्वै मे स शिरो न छिन्द्यान्नेति वामुपनेष्य इति ।
 
-> *sa hovāca | indreṇa vā ukto 'smyetaṃ cedanyasmā anubrūyāstata eva te śiraśchindyāmiti tasmādvai bibhemi yadvai me sa śiro na chindyānneti vāmupaveyām iti [?] |*
+> *sa hovāca | indreṇa vā ukto 'smyetaṃ cedanyasmā anubrūyāstata eva te śiraśchindyāmiti tasmādvai bibhemi yadvai me sa śiro na chindyānneti vāmupaneṣya iti |*
 
 In reply he told them of the order Indra had given him, and said that he could not accept them as pupils.
 
-> तौ होचतुः । आवां त्वा तस्मात्त्रायिष्यावह इति कथं मा त्रास्येथे इति यदा नावुपसेत्स्यस्येथ [?] तेरश्वस्य [?] शिर आहृत्य तेत्र [?] प्रतिधास्यावस्तेन नावनुशासिष्यसि [?] यदेन्द्रः शिरश्छेत्स्यते ते स्वं शिर आहृत्य तेत्र [?] प्रतिधास्याव इति ।
+> तौ होचतुः । आवां त्वा तस्मात्त्रायिष्यावह इति कथं मा त्रास्येथे इति यदा नौ उपनेष्यसेऽथ तेशिरश्छित्त्वाऽन्यत्रापनिधास्याव ऊथाश्वस्य शिर आहृत्य तत्र ते प्रतिधास्यावस्तेन नावनुवक्ष्यसि स यदा नावनुवक्ष्यसेऽथ ते तदिन्द्रः शिरश्छेत्स्यत्यथ ते स्वं शिर आहृत्य तत्र ते प्रतिधास्याव इति तथेति ।
 
-> *tau hocatuḥ | āvāṃ tvā tasmāttrāyiṣyāvaha iti kathaṃ mā trāsyethe iti yadā nāvupasetsyasyetha [?] teraśvasya [?] śira āhṛtya tetra [?] pratidhāsyāvastena nāvanuśāsiṣyasi [?] yadendraḥ śiraśchetsyate te svaṃ śira āhṛtya tetra [?] pratidhāsyāva iti |*
+> *tau hocatuḥ | āvāṃ tvā tasmāttrāyiṣyāvaha iti kathaṃ mā trāsyethe iti yadā nau upaneṣyase 'tha teśiraśchittvā 'nyatrāpanidhāsyāva ūthāśvasya śira āhṛtya tatra te pratidhāsyāvastena nāvanuvakṣyasi sa yadā nāvanuvakṣyase 'tha te tadindraḥ śiraśchetsyatyatha te svaṃ śira āhṛtya tatra te pratidhāsyāva iti tatheti |*
 
-They answered, "We shall protect you." How? — they took his head off and put it safely away in another place, and in that place …; after Indra had cut off the head put on in its stead, they would bring back his own natural head. On this being said, Dadhīci agreed.
+They answered, "We shall protect you." How? — they would take off his head and put it away elsewhere, fixing the horse's head there; with that he would teach them; and after Indra had cut off the head put on in its stead, they would bring back his own head. On this being said, Dadhīci agreed.
 
-> तौ होपेनिस्ने । तौ यदोपेनिस्नेत्यास्य शिरश्छित्त्वान्यत्र निदधतुरश्वस्य शिर आहृत्यै तद्यास्य प्रतिदधतुस्तेन हाभ्यामनूवाच स यदाभ्यामनूवाचाथास्य तदिन्द्रः शिरश्छेदाथास्य शिर आहृत्यै तद्यास्य प्रतिदधतुः [?] ।
+> तौ होपनिस्ने । तौ यदोपनिस्नेऽथास्य शिरश्छित्त्वान्यत्रापनिदधतुरथाश्वस्य शिर आहृत्य तद्धास्य प्रतिदधतुस्तेन हाभ्यामनूवाच स यदाभ्यामनूवाचाथास्य तदिन्द्रः शिरश्चिच्छेदाथास्य स्वं शिर आहृत्य तद्धास्य प्रतिदधतुः ।
 
-> *tau hopenisne | tau yadopenisnetyāsya śiraśchittvānyatra nidadhaturaśvasya śira āhṛtyai tadyāsya pratidadhatustena hābhyāmanūvāca sa yadābhyāmanūvācāthāsya tadindraḥ śiraśchedāthāsya śira āhṛtyai tadyāsya pratidadhatuḥ [?] |*
+> *tau hopanisne | tau yadopanisne 'thāsya śiraśchittvānyatrāpanidadhaturathāśvasya śira āhṛtya taddhāsya pratidadhatustena hābhyāmanūvāca sa yadābhyāmanūvācāthāsya tadindraḥ śiraścicchedāthāsya svaṃ śira āhṛtya taddhāsya pratidadhatuḥ |*
 
 At once the two became pupils and took in the teaching; then Indra came and cut off that horse's head; and the Aśvins at once set in place Dadhīci's own natural head.
 
-> तस्मादेतदृषिणाभ्यनूक्तम् । दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाचेत्थायतं तदुवाचेति हैतदुक्तम् [?] ।
+> तस्मादेतदृषिणाभ्यनूक्तं । दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाचेत्थायतं तदुवाचेति हैतदुक्तं ।
 
-> *tasmādetadṛṣiṇābhyanūktam | dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvācetthāyataṃ taduvāceti haitaduktam [?] |*
+> *tasmādetadṛṣiṇābhyanūktaṃ | dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvācetthāyataṃ taduvāceti haitaduktaṃ |*
 
-(Śa. Brā. 14-[?]-[?]-[?] to [?].) Therefore it is famous that Dadhīci, the son of Atharvan, taught this *madhuvidyā* by means of the horse's head: so goes the story in the Śatapatha Brāhmaṇa. This same story in the Bṛhaddevatā too:
+(Śa. Brā. 14-1-1-18 to 25 [?].) Therefore it is famous that Dadhīci, the son of Atharvan, taught this *madhuvidyā* by means of the horse's head: so goes the story in the Śatapatha Brāhmaṇa. This same story in the Bṛhaddevatā too:
 
 ### Printed p. 83  (PDF 101)
 
