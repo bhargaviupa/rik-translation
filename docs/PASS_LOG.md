@@ -39,3 +39,4 @@
 2026-10-24 05:30 PDF 77-77: remaining [?] EN 0, KN 0. after: EN 17 → 0, KN 12 → 0; Varga 3; Pāṇini 3-1-66, 3-4-94, 3-1-79, 6-3-75, 6-2-139, 6-1-131 read from zoom (flat-foot 7 for 79/75)
 2026-10-24 05:30 PDF 78-78: remaining [?] EN 0, KN 0. after: EN 5 → 0, KN 5 → 0; Pāṇini 3-4-6, 3-4-99, 6-4-81, 6-1-6, 6-1-189 (all match the standard numbers)
 2026-10-24 05:31 PDF 79-79: remaining [?] EN 2, KN 1. after: EN 17 → 1, KN 8 → 1; bhāṣya block re-transcribed from print (hence the drop); Varga 3; one doubtful word padbhyāṃ
+2026-10-24 05:34 PDF 80-80: remaining [?] EN 7, KN 4. after: EN 33 → 7, KN 22 → 4; Taittirīya Saṃhitā quote re-read; nakta quote avaśyāyenāpi; numerals read at low priority; open: first word of Śa. Brā. quote, nyeti, śagṃsati, Tai. ref last digit
