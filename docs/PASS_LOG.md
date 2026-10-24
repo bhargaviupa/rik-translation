@@ -80,3 +80,4 @@
 2026-10-24 08:39 PDF 119-119: remaining [?] EN 0, KN 0. bhāṣya conclusion re-transcribed; Pratipadārtha gap filled; Varga 5
 2026-10-24 08:39 PDF 120-120: remaining [?] EN 0, KN 0. Śaṅkara quote re-read (Kaṭha 5-2); refs read at best from print without zoom: Ai. 4-20, Śa. 6-2-3-11, Ṛ. 4-3-9, 5-12-4, 6-16-45, Ai. 1-16, Nigh. 2-2-11
 2026-10-24 08:40 PDF 121-121: remaining [?] EN 6, KN 6. grammar page (Ṛk 1) re-read; Varga 5
+2026-10-24 08:40 PDF 122-123: remaining [?] EN 2, KN 3. PDF 122: Ṛk 2 Pada (ṛjyate) and bhāṣya re-transcribed, Pratipadārtha tail moved to p. 105; PDF 123: Ṛ. refs read at best (1-60-1, 1-149-4, 1-95-3) marked [?]

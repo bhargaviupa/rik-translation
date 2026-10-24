@@ -2772,7 +2772,10 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 **Pratipadārtha (Kannada).** *dvijanmā* — Agni, born twice — from the two kindling-sticks, or once by churning and once by the rite of placing; *trivṛd annaṃ* — ghee, cake … (continues on p. 105)
 ### Printed p. 105  (PDF 123)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
+
+**Pratipadārtha (Kannada), continued from p. 104.** *…* *trivṛd annaṃ* — the food that is eaten in three ways, ghee, cake and Soma; *abhi yujyate* — eats completely (or makes cooked); *īṃ jagdhaṃ* — that food eaten; *saṃvatsare* — when the year is over; *punaḥ* — again; *vavṛdhe* — makes the oblation grow (as new vigour); (and) *vṛṣā* — as one who showers the desired; *anyasya* — of the oblation; *āsā* — by the mouth; *jihvayā* — by the tongue, or *anyasya* — of the *hotṛ*; *jihvayā* — by the flame-like tongue; *jenyaḥ* — he grows; *anyena* — by another, the form of forest fire; *vāraṇaḥ* — restraining everything; *vaninaḥ* — all trees of the forest; *ni mṛṣṭa* — burns completely.
+
 
 **Bhāvārtha.** Agni, twice born, devours fully the food that is eaten in three ways — ghee, cake and Soma juice. He makes the food he has eaten grow again when the year has passed. As the giver of desired things he grows in one way by the tongue that tastes the oblation; in another form, that of the forest fire, he restrains whatever stands before him and burns all trees of the forest.
 
@@ -2780,7 +2783,7 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***dvijanmā.*** *Dvābhyām araṇībhyāṃ jāyamānaḥ; yadvā mathanena ādhānasaṃskāreṇa ca utpannatvād dvijanmatvam* — Agni is called *dvijanman* either because he is born of two pieces of wood, or because he is born once by churning and once by the rite of *ādhāna*. This epithet, in a Ṛk of Ṛ. Saṃ. 10-[?]-[?] [?] too, has the two alternative senses "born of two [, heaven and earth]" and "born of two kindling-sticks": *dvayor dyāvāpṛthivyor vā jāyamānam, araṇyor vā jāyamānam*. The account of the manner of Agni's birth, told differently in different places, has been given earlier, citing Ṛksaṃhitā sentences, in the Special Topics of Ṛ. Saṃ. 1-65-1 [?]; *trīṇi* … (continues on p. 106).
+***dvijanmā.*** *Dvābhyām araṇībhyāṃ jāyamānaḥ; yadvā mathanena ādhānasaṃskāreṇa ca utpannatvād dvijanmatvam* — Agni is called *dvijanman* either because he is born of two pieces of wood, or because he is born once by churning and once by the rite of *ādhāna*. This epithet, in a Ṛk of Ṛ. Saṃ. 1-60-1 and 1-149-4 [?] too, has the two alternative senses "born of two [, heaven and earth]" and "born of two kindling-sticks": *dvayor dyāvāpṛthivyor vā jāyamānam, araṇyor vā jāyamānam*. The account of the manner of Agni's birth, told differently in different places, has been given earlier, citing Ṛksaṃhitā sentences, in the Special Topics of Ṛ. Saṃ. 1-95-3 [?]; *trīṇi* … (continues on p. 106).
 
 ---
 
