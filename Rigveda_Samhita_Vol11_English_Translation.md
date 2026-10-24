@@ -2497,23 +2497,23 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 ### Printed p. 95  (PDF 113)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-**Bhāvārtha.** O gods, you are eleven in number in the world of heaven, eleven in number on the earth, and eleven in number as dwellers in mid-air. I show forth the greatness of all of you. All of you, assembling, come and enjoy this our sacrifice.
+**Bhāvārtha.** O gods, you are eleven in number in the world of heaven, eleven in number on the earth, and eleven in number as dwellers in mid-air. These all show your greatness. All of you, assembling, come and enjoy this our sacrifice.
 
 **English Translation (as printed).** Gods who are eleven in heaven; who are eleven on earth; and who are eleven dwelling with glory in mid-air; may ye be pleased with this our sacrifice.
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastra* mantras are recited and the *tṛca* addressed to the Viśvedevas is recited, this Ṛk *ye devāso divy ekādaśa stha* is to be recited as its second Ṛk, as the Āśvalāyana Śrautasūtra sets out by the sūtra ये देवासो दिव्येकादश स्थेयमुदाद्भृषसम् [?] (*ye devāso divyekādaśa stheyamudādbhṛṣasam [?]*) (Āś. [?]-[?]).
+On the sixth day of the sacrifice called *Daśarātra*, when the *Praüga-śastra* mantras are recited and the *tṛca* addressed to the Viśvedevas is recited, this Ṛk *ye devāso divy ekādaśa stha* is to be recited as its second Ṛk, as the Āśvalāyana Śrautasūtra sets out by the sūtra ये देवासो दिव्येकादश स्थेयमुदाद्रभसं [?] (*ye devāso divyekādaśa stheyamudādrabhasaṃ [?]*) (Āś. [?]-[?]).
 
-***te devāsaḥ yajñam imaṃ juṣadhvam.*** The gods of all three worlds are addressed: "you, all the gods, enjoy this our sacrifice." In *divi ekādaśa*, *pṛthivyām ekādaśa*, *apsukṣito ekādaśa* the number of the gods in the three worlds is given together as thirty-three. Sāyaṇa, following the Nirukta statement तिस्र एव देवताः [?] (*tisra eva devatāḥ [?]*) (Ni. 7-[?]), explains that though the deities who are presiding over the earth and the like are only three, they become thirty-three in number, each through his own greatness and his own manifold power; and that the gods in those worlds [are] "manifestations of these". Though the deities presiding over earth, sky and heaven are only three, they appear thirty-three in number through their abundant greatness; all the other gods in those worlds are their manifestations, it is explained. The authors of the Nirukta also:
+***te devāsaḥ yajñam imaṃ juṣadhvam.*** The gods of all three worlds are addressed: "you, all the gods, enjoy this our sacrifice." In *divi ekādaśa*, *pṛthivyām ekādaśa*, *apsukṣito ekādaśa* the number of the gods in the three worlds is given together as thirty-three. Sāyaṇa, following the Nirukta statement यद्यपि तिस्र एव देवताः (*yadyapi tisra eva devatāḥ*) (Ni. 7-5 [?]), explains that though the deities who are presiding over the earth and the like are only three, they become thirty-three in number, each through greatness, each by his own power (*svasvavibhūtyā*), and (*tattatsthānā asyās tadvibhūtaya ity uktatvāt*) that the gods of those places are manifestations of these. Though the deities presiding over earth, sky and heaven are only three, they appear thirty-three in number through their abundant greatness; all the other gods in those worlds are their manifestations, it is explained. The authors of the Nirukta also (say):
 
-> तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इन्द्रो वान्तरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यादेकैकस्यापि बहूनि नामधेयानि भवन्ति । अपि वा कर्मपृथक्त्वात् [?] ।
+> तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इन्द्रो वान्तरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यादेकैकस्या अपि बहूनि नामधेयानि भवन्ति । अपि वा कर्मपृथक्त्वात् ।
 
-> *tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā indro vāntarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyādekaikasyāpi bahūni nāmadheyāni bhavanti | api vā karmapṛthaktvāt [?] |*
+> *tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā indro vāntarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyādekaikasyā api bahūni nāmadheyāni bhavanti | api vā karmapṛthaktvāt |*
 
-(Ni. 7-[?] [?].) According to the view of the Nairuktas, three deities — Agni, Vāyu or Indra, and Sūrya — are the presiding deities of the three worlds, earth, sky and heaven. These same deities have many names each, either according to their greatness or by the difference of their functions; and having said this, [Yāska says] अथातोऽनुक्रमिष्यामः अग्निः पृथिवीस्थानः प्रथमं व्याख्यास्यामः [?] (*athāto 'nukramiṣyāmaḥ agniḥ pṛthivīsthānaḥ prathamaṃ vyākhyāsyāmaḥ [?]*) — "we shall now go on in order: Agni, whose place is the earth, we shall explain first" (continued on p. 96).
+(Ni. 7-[?].) According to the view of the Nairuktas, three deities — Agni, Vāyu or Indra, and Sūrya — are the presiding deities of the three worlds, earth, sky and heaven. These same deities have many names each, either according to their greatness or by the difference of their functions; and having said this, [Yāska says] अथातोऽनुक्रमिष्यामः । अग्निः पृथिवीस्थानस्तं प्रथमं व्याख्यास्यामः (*athāto 'nukramiṣyāmaḥ | agniḥ pṛthivīsthānastaṃ prathamaṃ vyākhyāsyāmaḥ*) — "we shall now go on in order: Agni, whose place is the earth, we shall explain first" .
 
 ---
 
