@@ -48,3 +48,4 @@
 2026-10-24 05:58 PDF 87-87: remaining [?] EN 6, KN 3. after: EN 51 → 6, KN 27 → 3; Ṛk 7 bhāṣya re-transcribed in full from the print (earlier text was partial and partly wrong); Pratipadārtha corrected; remaining: Āśvalāyana numerals, one participle (labdhāṃ)
 2026-10-24 05:58 PDF 88-88: remaining [?] EN 10, KN 8. after: EN 13 → 10, KN 9 → 8; remaining are numerals; Śa. Brā. quote corrected to 'agnir eva devānāṃ dūta āsa'; prasthitayājyā
 2026-10-24 05:59 PDF 89-89: remaining [?] EN 10, KN 9. after: EN 15 → 10, KN 12 → 9; remaining are numerals; Aitareya quote and kāmadughāṃ corrected
+2026-10-24 05:59 PDF 90-90: remaining [?] EN 11, KN 10. after: non-numeral fixes (Aitareya quote āsaṃs; īdṛśo dhenus…; hi-lopa sūtra name)

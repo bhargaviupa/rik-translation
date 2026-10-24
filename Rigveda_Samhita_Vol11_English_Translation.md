@@ -1909,19 +1909,19 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 *(Special Topics of Ṛk 7, continued from p. 71.)* …in the Aitareya Brāhmaṇa:
 
-> येऽङ्गिरा असंस्तेऽङ्गिरसोऽभवन् [?] ।
+> येऽंगिरा आसंस्तेऽंगिरसोऽभवन् ।
 
-> *ye 'ṅgirā asaṃste 'ṅgiraso 'bhavan [?] |*
+> *ye 'ṃgirā āsaṃste 'ṃgiraso 'bhavan |*
 
 (Ai. Brā. 3-[?] [?].) In the same way, in several other places also, the story is told that the seers called Aṅgirases searched for Agni, who had hidden in a cave, and obtained him.
 
-> समिद्धिर्ह्येतमङ्गिरस इन्धते [?] ।
+> समिद्धिर्ह्येतमंगिरस इन्धते ।
 
-> *samiddhirhyetamaṅgirasa indhate [?] |*
+> *samiddhirhyetamaṃgirasa indhate |*
 
-(Śa. Brā. 1-[?]-[?]-[?] [?].) The Śatapatha Brāhmaṇa describes how the Aṅgirases obtained Agni and how they worshipped him. In the Ṛk at hand, *agniro dhenustvartham eva* [?] — "such a cow is milked only for your worship": this is praise of Agni. The special matters suggested by the word *Aṅgiras* may be seen in the explanation of Ṛ. Saṃ. 1-1-[?].
+(Śa. Brā. 1-[?]-[?]-[?] [?].) The Śatapatha Brāhmaṇa describes how the Aṅgirases obtained Agni and how they worshipped him. In the Ṛk at hand, *īdṛśo dhenustvadarthameva duhyate ity agnistutiḥ* — "such a cow is milked only for you": this is praise of Agni. The special matters suggested by the word *Aṅgiras* may be seen in the explanation of Ṛ. Saṃ. 1-1-[?].
 
-**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly).** *śṛṇuhi* (root *śru śravaṇe*; *loṭ* second person singular, *sip* → *hi*; *śruvaḥ śṛ ca* (Pā. Sū. 3-1-[?]) gives *śṛ*; *śnu*; *hi* is not dropped by the vārttika *saṃyogapūrvāt* [?]; *vā vacanam* …; *tiṅanta nighāta*), *īḷitaḥ* (root *īḍa stutau*; *niṣṭhā* [*kta*] in the passive; *iḍāgama*; final-syllable accent), *bravasi* (root *brūñ vyaktāyāṃ vāci*; *leṭ* second person singular *sip*; *leṭo 'ṭāṭau* gives *aṭ*; *ādiprabhṛtibhyaḥ śapaḥ*; *guṇa*; *vaḥ*-substitution; *nighāta*), *yajñiyebhyaḥ* (*yajñāya arhāḥ*; *yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-[?]) *gha* in the sense of "worthy"; *gha* → *iya* by *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* (Pā. Sū. 7-1-[?]); *yasyeti ca* drops the *a*; first-syllable accent), *devāḥ* (root *divu*, used in the sense of lustre; *nandigrahapacādibhyo 'c*; *laghūpadhaguṇa*; vocative plural; *āmantrita nighāta*) …
+**Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly).** *śṛṇuhi* (root *śru śravaṇe*; *loṭ* second person singular, *sip* → *hi*; *śruvaḥ śṛ ca* (Pā. Sū. 3-1-[?]) gives *śṛ*; *śnu*; *utaś ca pratyayād asaṃyogapūrvāt* (Pā. Sū. 6-4-[?]) would drop *hi*, but *chandasi vā vacanam* makes this optional, so it is not dropped here; *tiṅanta nighāta*), *īḷitaḥ* (root *īḍa stutau*; *niṣṭhā* [*kta*] in the passive; *ārdhadhātukasyeḍ valādeḥ* gives the *iḍ* augment; final-syllable accent from the suffix), *bravasi* (root *brūñ vyaktāyāṃ vāci*; *leṭ* second person singular *sip*; *leṭo 'ṭāṭau* gives *aṭ*; *ādiprabhṛtibhyaḥ śapaḥ*; *guṇa*; *vaḥ*-substitution; *nighāta*), *yajñiyebhyaḥ* (*yajñāya arhāḥ*; *yajñartvigbhyāṃ ghakhañau* (Pā. Sū. 5-1-[?]) *gha* in the sense of "worthy"; *gha* → *iya* by *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* (Pā. Sū. 7-1-[?]); *yasyeti ca* drops the *a*; first-syllable accent), *devāḥ* (root *divu*, used in the sense of lustre; *nandigrahapacādibhyo 'c*; *laghūpadhaguṇa*; vocative plural; *āmantrita nighāta*) …
 
 ### Printed p. 73  (PDF 91)
 
