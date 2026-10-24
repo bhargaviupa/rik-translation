@@ -50,3 +50,4 @@
 2026-10-24 05:59 PDF 89-89: remaining [?] EN 10, KN 9. after: EN 15 → 10, KN 12 → 9; remaining are numerals; Aitareya quote and kāmadughāṃ corrected
 2026-10-24 05:59 PDF 90-90: remaining [?] EN 11, KN 10. after: non-numeral fixes (Aitareya quote āsaṃs; īdṛśo dhenus…; hi-lopa sūtra name)
 2026-10-24 06:03 PDF 91-91: remaining [?] EN 5, KN 6. non-numeral fixes: duhre note re-read (liṭ, eś, ruṭ), taptanaptanathanāś ca, Saṃhitā anusvāra, Varga 4
+2026-10-24 06:04 PDF 92-92: remaining [?] EN 4, KN 2. bhāṣya of Ṛk 8 re-transcribed in full (file was partial/garbled); Pada fixed (dustaram, anusvāra); Pratipadārtha cut where the print breaks (rest moves to p. 75, PDF 93)
