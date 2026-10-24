@@ -1879,21 +1879,21 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 ### Printed p. 71  (PDF 89)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-> यज्ञस्य शिरः प्रति दधात्यग्निर्देवानां दूत आसीत् [?] ।
+> यज्ञस्य शिरः प्रति दधात्यग्निर्देवानां दूत आसीत् ।
 
-> *yajñasya śiraḥ prati dadhātyagnirdevānāṃ dūta āsīt [?] |*
+> *yajñasya śiraḥ prati dadhātyagnirdevānāṃ dūta āsīt |*
 
 (Tai. Saṃ. 3-[?]-[?]-[?] [?].) As said also in such sentences, Agni, being the messenger common to the gods and to the sacrificers, men, is addressed by the sacrificers with the prayer that he speak their praises before the gods.
 
 ***aṅgirobhyo dhenuṃ devā adattana.*** *Atretihāsam āhuḥ* — "here they tell a story: the great seers named Aṅgirases, in the past, praised the gods for the sake of a sacrifice and pleased them, and asked for cows. Pleased, they gave them the cow of desire. Unable to milk the milk of that cow, they prayed to the god Aryaman; and he, asked, milked the milk for the Agnihotra and so on." The Kannada gives it thus: the great seers called Aṅgirases, wishing to obtain cows for sacrifice, praised the gods and delighted them; the gods gave them the cow that grants all desires; then, unable to milk it, they prayed to the god Aryaman to help; and Aryaman milked for them the milk needed for the Agnihotra which the Aṅgirases were to perform — this story is hinted here. And that before all, the Aṅgirases made Agni shine in the Agnihotra sacrifice:
 
-> अङ्गिरसः [?] ते ऽग्नेर्नाग्निमयजन्त ते स्वर्गं लोकमायन् [?] ।
+> अंगिरसश्च तेऽग्रेऽग्निनाग्निमयजन्त ते स्वर्गं लोकमायन् ।
 
-> *aṅgirasaḥ [?] te 'gnernāgnimayajanta te svargaṃ lokamāyan [?] |*
+> *aṃgirasaśca te 'gre 'gnināgnimayajanta te svargaṃ lokamāyan |*
 
-(Ai. Brā. 1-[?]) and similar sentences say so. *Aṅgiras* is used in three ways: as a proper name; as the name of a line of seers; and as a name connected with a company of gods. By the epithet *aṅgirobhyaḥ*, *aṅgirasaḥ* it is shown, in the Ṛgveda Saṃhitā, Part 1, pp. 94–95 [?], that Indra and the Aṅgirases are closely related. Here the relation of Agni and the Aṅgirases is to be understood. Since this Ṛk has the plural *aṅgirobhyaḥ*, the line of the Aṅgiras seers is meant. Agni is the original ancestor of this line; from him the seer Aṅgiras himself came into being, and that line grew — a story told in
+(Ai. Brā. 1-[?]) and similar sentences say so. *Aṅgiras* is used in three ways: as a proper name; as the name of a line of seers; and as a name connected with a company of gods. By the epithet *aṅgirobhiḥ aṅgirastamaḥ* it is shown, in Part [?], pp. [?]–[?] of the Ṛgveda Saṃhitā, that Indra and the Aṅgirases are closely related. Here the relation of Agni and the Aṅgirases is to be understood. Since this Ṛk has the plural *aṅgirobhyaḥ*, the line of the Aṅgiras seers is meant. Agni is the original ancestor of this line; from him the seer Aṅgiras himself came into being, and that line grew — a story told in
 
 > त्वमग्ने प्रथमो अङ्गिरा ऋषिर्देवो देवानामभवः शिवः सखा ।
 
