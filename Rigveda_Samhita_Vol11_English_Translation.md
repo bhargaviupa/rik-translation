@@ -2113,25 +2113,25 @@ In the sacrifice called *Daśarātra*, spoken of before, this Ṛk *mo ṣu vo a
 
 ### Printed p. 81  (PDF 99)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-On the sixth day of the *Pṛṣṭhya-ṣaḍaha* sacrifice, at the midday pressing, the priest called *Acchāvāka* is to recite this Ṛk *dadhyaṅ ha me* as the introductory part of the *yājyā* mantra [?]; the Āśvalāyana Śrautasūtra sets this out by the sūtra दध्यङ् ह मे जनुषं पूर्वो अङ्गिरा इत्येवमेव माध्यंदिने (*dadhyaṅ ha me januṣaṃ pūrvo aṅgirā ityevameva mādhyaṃdine*) (Āś. [?]-[?]). In this Ṛk the seer Parucchepa, in connection with his own and his forefathers' acquaintance, indicates what his relation was with the ancient seers beginning with Dadhīci, and declares that he praises Indra and Agni in order to obtain a position as good as theirs.
+On the sixth day of the *Pṛṣṭhya* sacrifice (*pṛṣṭhyaṣaḍaha*), at the midday pressing, the priest called *Acchāvāka* is to recite this Ṛk *dadhyaṅ ha me* as the introductory part of the *prasthitayājyā* mantra; the Āśvalāyana Śrautasūtra sets this out by the sūtra दध्यङ् ह मे जनुषं पूर्वो अङ्गिरा इत्येवमेव माध्यंदिने (*dadhyaṅ ha me januṣaṃ pūrvo aṅgirā ityevameva mādhyaṃdine*) (Āś. [?]-[?]). In this Ṛk the seer Parucchepa, in connection with his own and his forefathers' acquaintance, indicates what his relation was with the ancient seers beginning with Dadhīci, and declares that he praises Indra and Agni in order to obtain a position as good as theirs.
 
-***dadhyaṅ.*** *Atharvagotrotpanno dadhyaṅ etannāmako maharṣiḥ* — "the great seer of this name, born in the Atharva line" (he is also called son of Atharvan). He gained mastery of the *madhuvidyā* ("honey-lore"); he was Indra's direct pupil, and taught this lore also to the Aśvins. The story about this, which Sāyaṇa tells in the commentary on Ṛ. Saṃ. 1-116-12 [?], was given earlier in the Special Topics of that Ṛk. Without repeating it here, what is told is how the same story is narrated in the Śatapatha Brāhmaṇa and in the Upaniṣads and so on, the nature of the *madhuvidyā*, and how famous the name of Dadhīci became through that lore. The occasion on which Dadhīci taught this lore to the Aśvins is in the Śatapatha Brāhmaṇa as follows:
+***dadhyaṅ.*** *Atharvagotrotpanno dadhyaṅ etannāmako maharṣiḥ* — "the great seer of this name, born in the Atharva line" (he is also called son of Atharvan). He gained mastery of the *madhuvidyā* ("honey-lore"); he was Indra's direct pupil, and taught this lore also to the Aśvins. The story about this, which Sāyaṇa tells in the commentary on Ṛ. Saṃ. 1-116-12, was given earlier in the Special Topics of that Ṛk. Without repeating it here, what is told is how the same story is narrated in the Śatapatha Brāhmaṇa and in the Upaniṣads and so on, the nature of the *madhuvidyā*, and how famous the name of Dadhīci became through that lore. The occasion on which Dadhīci taught this lore to the Aśvins is in the Śatapatha Brāhmaṇa as follows:
 
-> दध्यङ् ह वा आथर्वणः । एतं शुक्रमेतं यज्ञं विदाञ्चकार । यथा यज्ञस्यैतस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति । स हेन्द्रेणोक्त आस । एतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिन्द्यामिति [?] ।
+> दध्यङ् ह वा आथर्वणः । एतं शुक्रमेतं यज्ञं विदांचकार । यथा यज्ञस्यैतद्यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति । स हेंद्रेणोक्त आस । एतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिंद्यामिति ।
 
-> *dadhyaṅ ha vā ātharvaṇaḥ | etaṃ śukrametaṃ yajñaṃ vidāñcakāra | yathā yajñasyaitasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati | sa hendreṇokta āsa | etaṃ cedanyasmā anubrūyāstata eva te śiraśchindyāmiti [?] |*
+> *dadhyaṅ ha vā ātharvaṇaḥ | etaṃ śukrametaṃ yajñaṃ vidāṃcakāra | yathā yajñasyaitadyajñasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati | sa heṃdreṇokta āsa | etaṃ cedanyasmā anubrūyāstata eva te śiraśchiṃdyāmiti |*
 
-Dadhīci, son of Atharvan, learnt this bright lore of the sacrifice — how the head of the sacrifice is set in place and how the sacrifice becomes complete. Indra told him: "If you teach this to anyone else, I shall cut off your head."
+Dadhīci, son of Atharvan, learnt this bright sacrifice — how the head of this sacrifice is set in place, how the sacrifice becomes complete. Indra told him: "If you teach this to anyone else, I shall cut off your head."
 
-> तेदु हाश्विनोरनुशुश्रुवामास [?] । दध्यङ् ह वा आथर्वण एतं शुक्रमेतं यज्ञं वेद यथा यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति ।
+> तेदु हाश्विनोरनुश्रुतमास । दध्यङ् ह वा आथर्वण एतं शुक्रमेतं यज्ञं वेद यथा यज्ञस्यैतद्यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति ।
 
-> *tedu hāśvinoranuśuśruvāmāsa [?] | dadhyaṅ ha vā ātharvaṇa etaṃ śukrametaṃ yajñaṃ veda yathā yajñasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati |*
+> *tedu hāśvinoranuśrutamāsa | dadhyaṅ ha vā ātharvaṇa etaṃ śukrametaṃ yajñaṃ veda yathā yajñasyaitadyajñasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati |*
 
-Then the Aśvins, hearing this, wished to obtain for themselves the knowledge of the sacrifice that Dadhīci possessed (continued on p. 82).
+Then the Aśvins, having heard this, wished to obtain for themselves the knowledge of the sacrifice that Dadhīci possessed (continued on p. 82).
 
 ### Printed p. 82  (PDF 100)
 
