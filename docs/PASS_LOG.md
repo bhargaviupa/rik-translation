@@ -46,3 +46,4 @@
 2026-10-24 05:40 PDF 84-84: remaining [?] EN 11, KN 7. after: EN 21 → 11, KN 13 → 7; remaining numerals + one doubtful Taittirīya word; Āśvalāyana sūtra and Tai. Saṃ. verse re-read, prose wording fixed
 2026-10-24 05:42 PDF 85-86: remaining [?] EN 12, KN 10. PDF 85–86: non-numeral fixes; grammar page of Ṛk 6 re-split across p. 67/68 (gahi, sumṛḷīkaḥ moved to p. 68); Saṃhitā/Pada anusvāra forms; remaining [?] are numerals
 2026-10-24 05:58 PDF 87-87: remaining [?] EN 6, KN 3. after: EN 51 → 6, KN 27 → 3; Ṛk 7 bhāṣya re-transcribed in full from the print (earlier text was partial and partly wrong); Pratipadārtha corrected; remaining: Āśvalāyana numerals, one participle (labdhāṃ)
+2026-10-24 05:58 PDF 88-88: remaining [?] EN 10, KN 8. after: EN 13 → 10, KN 9 → 8; remaining are numerals; Śa. Brā. quote corrected to 'agnir eva devānāṃ dūta āsa'; prasthitayājyā
