@@ -2879,7 +2879,7 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 > *araṇyornihito jātavedā garbha iva sudhito garbhiṇīṣu |*
 
-(Ṛ. Saṃ. 3-29-2.) In these Ṛks, as the child within the womb of pregnant women, Agni lies hidden between the two kindling-sticks and is born at the time of churning. Therefore the two sticks are his mothers, and as *dvijanmā* so he has the epithet *dvimātā* (Ṛ. Saṃ. 1-31-2) for Agni.
+(Ṛ. Saṃ. 3-29-2.) In these Ṛks, just as a child lies within the womb of pregnant women, Agni lies hidden between the two kindling-sticks and is born at the time of churning. Therefore the two sticks are his mothers, and just as *dvijanmā*, so *dvimātā* (Ṛ. Saṃ. 1-31-2) is an epithet of Agni.
 
 ***tṛṣucyutam.*** *Tṛṣu iti kṣipranāma tarater vā tvarater vā* (Ni. 6-12) — from the root *tṛ* ("to cross over, go on") or from the root *tvar* ("to move quickly") the word *tṛṣu* is formed, with the sense "with great speed". *Tṛṣucyutam* means: appearing swiftly at the very time of churning the kindling-sticks.
 
@@ -2891,19 +2891,19 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ***pituḥ vardhanam.*** "The cause of the prosperity of the sacrificer who caused his birth in the sacrificial rite." It is described that even in the most ancient times the gods, men and others who made Agni blaze on the sacrificial ground prospered, and still prosper. In the Taittirīya Saṃhitā sentences:
 
-> स इत्यब्रवीद्यो मद्देवत्वमग्निमादधातै इति तं पूषादधत्त तेन पूषार्ध्नोत् पौष्णाः पशव उच्यन्ते तं त्वष्टादधत्त तेन त्वष्टार्ध्नोत् त्वाष्टाः पशव उच्यन्ते तं मनुरादधत्त तेन मनुरार्ध्नोन्मानव्यः प्रजा उच्यन्ते तं धातादधत्त तेन धातार्ध्नोत् [?] ।
+> ....स इत्यब्रवीद्यो मद्देवत्यमग्निमादधातै इति तं पूषाधत्त तेन पूषाध्नोत्तस्मात्पौष्णाः पशव उच्यन्ते तं त्वष्टाधत्त तेन त्वष्टाध्नोत्तस्मात्त्वाष्ट्राः पशव उच्यन्ते तं मनुराधत्त तेन मनुराध्नोत्तस्मान्मानव्यः प्रजा उच्यन्ते तं धाताधत्त तेन धाताध्नोत् ।
 
-> *sa ityabravīdyo maddevatvamagnimādadhātai iti taṃ pūṣādadhatta tena pūṣārdhnot pauṣṇāḥ paśava ucyante taṃ tvaṣṭādadhatta tena tvaṣṭārdhnot tvāṣṭāḥ paśava ucyante taṃ manurādadhatta tena manurārdhnonmānavyaḥ prajā ucyante taṃ dhātādadhatta tena dhātārdhnot [?] |*
+> *....sa ityabravīdyo maddevatyamagnimādadhātai iti taṃ pūṣādhatta tena pūṣādhnottasmātpauṣṇāḥ paśava ucyante taṃ tvaṣṭādhatta tena tvaṣṭādhnottasmāttvāṣṭrāḥ paśava ucyante taṃ manurādhatta tena manurādhnottasmānmānavyaḥ prajā ucyante taṃ dhātādhatta tena dhātādhnot |*
 
-(Tai. Saṃ. 2-[?]-[?]-[?] [?].) Agni gave the boon: "To those who set up Agni in my godhead, all kinds of prosperity will come." Then Pūṣan, Tvaṣṭṛ, Manu and Dhātṛ set up Agni, and they all prospered. *Pituḥ vardhanam* means Agni, the cause of the increase of the sacrificer who is the cause of his origin. This praise is
+(Tai. Saṃ. 1-5-1.) Agni gave the boon: "To those who set up Agni in my godhead, all kinds of prosperity will come." Then Pūṣan, Tvaṣṭṛ, Manu and Dhātṛ set up Agni, and they all prospered. *Pituḥ vardhanam* means Agni, the cause of the increase of the sacrificer who is the cause of his origin. This praise is
 
 > समिधा यस्त आहुतिं निशितिं मर्त्यो नशत् । वयावन्तं स पुष्यति क्षयमग्ने शतायुषम् ॥
 
 > *samidhā yasta āhutiṃ niśitiṃ martyo naśat | vayāvantaṃ sa puṣyati kṣayamagne śatāyuṣam ‖*
 
-(Ṛ. Saṃ. 6-2-[?] [?].) and such Ṛks tell the same matter.
+(Ṛ. Saṃ. 6-2-5.) and such Ṛks tell the same matter.
 
-**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *kṛṣṇaprutau* (root *pruja gatau*; *kṛṣṇaṃ kṛṣṇavarṇatāṃ prāpnutaḥ kṛṣṇaprutau*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-[?]) *tuk*; in the compound *kṛdutarapadaprakṛtisvara*; dual) …
+**Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly).** *kṛṣṇaprutau* (root *pruja gatau*; *kṛṣṇaṃ kṛṣṇavarṇatāṃ prāpnutaḥ kṛṣṇaprutau*; *kvip*; *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) *tuk*; in the compound *kṛdutarapadaprakṛtisvara*; dual).
 
 ### Printed p. 111  (PDF 129)
 
