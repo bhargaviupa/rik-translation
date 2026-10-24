@@ -3043,9 +3043,9 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ### Printed p. 117  (PDF 135)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
 
-**Pratipadārtha (Kannada).** *yat* — when (Agni); *abhiśvasan* — making a throbbing sound like heaving breath; *stanayan* — making a roaring sound; *nānadat* — thundering; *mahīm* — the vast; *avanim* — earth; *sīm* — all around; *mamṛśat* — touching repeatedly; *pra eti* — burns [?], blazing; *āt* — at once; *asya* — of this Agni; *te* — the well-known flames; *dhvasayantaḥ* — destroying (the darkness); *kṛṣṇam abhvam* — the path of pitch darkness, on all sides; *mahi* — vast; *varpaḥ* — light; *karikrataḥ* — spreading; *vṛthā* — joined together; *īrate* — burn well.
+**Pratipadārtha (Kannada).** *yat* — when (Agni); *abhiśvasan* — making a throbbing sound like heaving breath; *stanayan* — making a roaring sound; *nānadat* — thundering; *mahīm* — the vast; *avanim* — earth; *sīm* — all around; *mamṛśat* — touching step by step (making it shine); *abhi* — on all sides; *pra eti* — burns well; *āt* — at once; *asya* — of this Agni; *te* — the well-known flames; *dhvasayantaḥ* — destroying (the darkness); *kṛṣṇam abhvam* — the path of pitch darkness, all around; *mahi* — vast; *varpaḥ* — light; *karikrataḥ* — spreading; *vṛthā* — joined together; *īrate* — burn well.
 
 **Bhāvārtha.** When Agni, making a throbbing sound like heaving breath, a roaring sound and a thunder, burns on all sides, touching the vast earth all around, then at once his well-known flames, destroying the darkness and spreading vast light around the path of pitch darkness, burn well together.
 
@@ -3055,17 +3055,17 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ***vṛthā.*** *Saheva* — "together", Sāyaṇa has explained; "with no effort" in the other places:
 
-> यो वातजूतो अवतसेषु तिष्ठति वृथा जुहूभिः सृण्या तुविष्वणिः [?] ।
+> यो वातजूतो अवतसेषु तिष्ठति वृथा जुहूभिः सृण्या तुविष्वणिः ।
 
-> *yo vātajūto avataseṣu tiṣṭhati vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ [?] |*
+> *yo vātajūto avataseṣu tiṣṭhati vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].)
+(Ṛ. Saṃ. 1-58-4.)
 
-> अस्तोभयद्वृथासामनु स्वधां गभस्त्योः [?] ।
+> अस्तोभयद्वृथासामनु स्वधां गभस्त्योः ।
 
-> *astobhayadvṛthāsāmanu svadhāṃ gabhastyoḥ [?] |*
+> *astobhayadvṛthāsāmanu svadhāṃ gabhastyoḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?].) In these and all other Ṛks where the word *vṛthā* occurs, Sāyaṇa explains *vṛthā iti anāyāsavacanaḥ*: the word *vṛthā* means "without fatigue, without toil"; the sense is that Agni spreads without any effort. In the Ṛk at hand he explains that all the flames of Agni spread together; here too it may be said that the flames of Agni spread without the least hindrance.
+(Ṛ. Saṃ. 1-88-6.) In these and all other Ṛks where the word *vṛthā* occurs, Sāyaṇa explains *vṛthā iti anāyāsavacanaḥ*: the word *vṛthā* means "without fatigue, without toil"; the sense is that Agni spreads without any effort. In the Ṛk at hand he explains that all the flames of Agni spread together; here too it may be said that the flames of Agni spread without the least hindrance.
 
 ---
 
