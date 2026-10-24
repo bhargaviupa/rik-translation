@@ -29,3 +29,4 @@
 2026-10-23 16:45 PDF 69-69: remaining [?] EN 1, KN 1. after: 21 cleared (2 TS refs kept doubtful); Brāhmaṇa-type quotations fully re-read
 2026-10-23 16:46 PDF 70-70: remaining [?] EN 0, KN 1. after: 29 cleared
 2026-10-23 16:47 PDF 71-71: remaining [?] EN 6, KN 6. after: 27 EN / 20 KN cleared; 6 doubtful kept
+2026-10-24 02:55 PDF 72-72: remaining [?] EN 2, KN 2. after: EN 7 → 2, KN 8 → 2; ACCENT TRIAL on Ṛk 4 Saṃhitā lines 1–2 (accents read from a 3-tile zoom; ~4 extra image views vs the usual 3; Ṛk text itself corrected: stray 'diviṣṭiṣu ।' removed)
