@@ -85,3 +85,4 @@
 2026-10-24 08:42 PDF 125-125: remaining [?] EN 7, KN 4. grammar page re-read (ṛjyate, ṛj gatisthānārjanopārjaneṣu, sūtra numbers where clear); mṛṣṭa entry cut to p. 108 (PDF 126)
 2026-10-24 08:42 PDF 126-126: remaining [?] EN 0, KN 0. Ṛk 3 bhāṣya re-transcribed in full; mṛṣṭa grammar tail restored at top of p. 108; Varga 5
 2026-10-24 08:43 PDF 127-127: remaining [?] EN 0, KN 0. refs read from print without zoom (Ṛ. 3-29-1/2, 1-31-2, Ni. 6-12); Varga 5
+2026-10-24 08:43 PDF 128-128: remaining [?] EN 0, KN 0. Taittirīya quote re-read (…sa ityabravīd…); refs Tai. 1-5-1, Ṛ. 6-2-5, Pā. 6-1-71 read from print without zoom
