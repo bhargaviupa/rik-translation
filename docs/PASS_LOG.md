@@ -67,3 +67,4 @@
 2026-10-24 06:12 PDF 106-106: remaining [?] EN 9, KN 9. grammar page re-read; Saṃhitā jagṛbhmā; in-suffix; numerals left
 2026-10-24 06:13 PDF 107-107: remaining [?] EN 2, KN 1. Ṛk 10 bhāṣya re-transcribed in full from print (was partial, ~half); remaining: Chānd. Up. ref numeral
 2026-10-24 06:13 PDF 108-108: remaining [?] EN 0, KN 0. bhāṣya conclusion re-transcribed; Pratipadārtha/Special Topics gaps filled (yājyāṃ paṭhatu)
+2026-10-24 06:14 PDF 109-109: remaining [?] EN 3, KN 2. quotes re-read (yakṣad agnir devo devān; mārutyekā…); Nirukta-style etymology quotes completed; several refs read from print (Ai. Brā. 10-24, Chā. 6-5-4, Tai. 1-4-22) without zoom
