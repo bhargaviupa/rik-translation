@@ -75,3 +75,4 @@
 2026-10-24 06:16 PDF 114-114: remaining [?] EN 12, KN 11. verses re-read (aibhir agne…; Śatapatha tally with Prajāpati as 34th); Ṛ. Saṃ. refs kept as printed
 2026-10-24 06:16 PDF 115-115: remaining [?] EN 7, KN 6. Śatapatha/Aitareya quotes re-read (asomapā); Ṛ refs kept; numerals left
 2026-10-24 06:16 PDF 116-116: remaining [?] EN 12, KN 14. grammar page: ṅīṣ, nipātana, allopa; Sūkta 139 ends
+2026-10-24 06:17 PDF 117-117: remaining [?] EN 7, KN 3. Sūkta 140 anukramaṇī re-transcribed; Varga 5 header; metre note
