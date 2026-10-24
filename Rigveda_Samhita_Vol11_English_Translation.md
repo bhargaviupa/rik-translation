@@ -178,19 +178,19 @@ Now the Second Adhyāya of the Second Aṣṭaka begins. *Susumā yātam* is the
 
 **॥ संहितापाठः ॥** *(the first line is on p. 2; the rest on p. 3)*
 
-> सुषुमा यातमद्रिभिर्गोश्रीता मत्सरा इमे । सोमासो मत्सरा इमे ।
+> सु॒षु॒मा या॑तम॒द्रि॑भि॒र्गोश्री॑ता मत्स॒रा इ॒मे । सोमा॑सो मत्स॒रा इ॒मे ।
 
-> *suṣumā yātamadribhirgośrītā matsarā ime | somāso matsarā ime |*
+> *su̱ṣu̱mā yā̭tama̱dri̭bhi̱rgośrī̭tā matsa̱rā i̱me | somā̭so matsa̱rā i̱me |*
 
 ### Printed p. 3  (PDF 21)
 
 *(Header: "Aṣṭaka 2, Adhyāya 2, Varga 1".)*
 
-> आ राजाना दिविस्पृशास्मत्रा गन्तमुप नः ।
-> इमे वां मित्रावरुणा गवाशिरः सोमाः शुक्रा गवाशिरः ॥ १ ॥
+> आ रा॑जाना दिविस्पृशास्म॒त्रा ग॑न्त॒मुप॑ नः ।
+> इ॒मे वां॑ मित्रावरुणा॒ गवा॑शिर॒ः सोमा॑ः शु॒क्रा गवा॑शिरः ॥ १ ॥
 
-> *ā rājānā divispṛśāsmatrā gantamupa naḥ |*
-> *ime vāṃ mitrāvaruṇā gavāśiraḥ somāḥ śukrā gavāśiraḥ ‖ 1 ‖*
+> *ā rā̭jānā divispṛśāsma̱trā ga̭nta̱mupa̭ naḥ |*
+> *i̱me vā̭ṃ mitrāvaruṇā̱ gavā̭śira̱ḥ somā̭ḥ śu̱krā gavā̭śiraḥ ‖ 1 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -256,13 +256,13 @@ The word *adri* is read among the names of the cloud and among the names of the 
 
 **॥ संहितापाठः ॥**
 
-> इमु [sic] आ यातमिन्दवः सोमासो दध्याशिरः सुतासो दध्याशिरः ।
-> उत वामुषसो बुधि साकं सूर्यस्य रश्मिभिः ।
-> सुतो मित्राय वरुणाय पीतये चारुर्ऋताय पीतये ॥ २ ॥
+> इ॒मु [sic] आ या॑त॒मिन्द॑व॒ः सोमा॑सो॒ दध्या॑शिरः सु॒तासो॒ दध्या॑शिरः ।
+> उ॒त वा॑मु॒षसो॑ बु॒धि सा॒कं सूर्य॑स्य र॒श्मिभि॑ः ।
+> सु॒तो मि॒त्राय॒ वरु॑णाय पी॒तये॒ चारु॑र्ऋ॒ताय॑ पी॒तये॑ ॥ २ ॥
 
-> *imu [sic] ā yātamindavaḥ somāso dadhyāśiraḥ sutāso dadhyāśiraḥ |*
-> *uta vāmuṣaso budhi sākaṃ sūryasya raśmibhiḥ |*
-> *suto mitrāya varuṇāya pītaye cārurṛtāya pītaye ‖ 2 ‖*
+> *i̱mu [sic] ā yā̭ta̱minda̭va̱ḥ somā̭so̱ dadhyā̭śiraḥ su̱tāso̱ dadhyā̭śiraḥ |*
+> *u̱ta vā̭mu̱ṣaso̭ bu̱dhi sā̱kaṃ sūrya̭sya ra̱śmibhi̭ḥ |*
+> *su̱to mi̱trāya̱ varṷṇāya pī̱taye̱ cārṷrṛ̱tāya̭ pī̱tayḙ ‖ 2 ‖*
 
 *(The first word is clearly printed *imu* [sic] in the better scan; the Pada on p. 8 gives *ime* and the bhāṣya *ime indavaḥ*. The first *dadhyāśiraḥ* seems printed without its visarga [as read].)*
 
@@ -326,13 +326,13 @@ O Mitra and Varuṇa, come (*ā yātam*): approach. For these *indavaḥ* — th
 
 **॥ संहितापाठः ॥**
 
-> तां वां धेनुं न वासरीमंशुं दुहन्त्यद्रिभिः सोमं दुहन्त्यद्रिभिः ।
-> अस्मत्रा गन्तमुप नोऽर्वाञ्चा सोमपीतये ।
-> अयं वां मित्रावरुणा नृभिः सुतः सोम आ पीतये सुतः ॥ ३ ॥
+> तां वां॑ धे॒नुं न वा॑स॒रीमं॒शुं दु॑ह॒न्त्यद्रि॑भि॒ः सोमं॑ दुह॒न्त्यद्रि॑भिः ।
+> अ॒स्म॒त्रा ग॑न्त॒मुप॑ नो॒ऽर्वाञ्चा॒ सोम॑पीतये ।
+> अ॒यं वां॑ मित्रावरुणा॒ नृभि॑ः सु॒तः सोम॒ आ पी॒तये॑ सुतः ॥ ३ ॥
 
-> *tāṃ vāṃ dhenuṃ na vāsarīmaṃśuṃ duhantyadribhiḥ somaṃ duhantyadribhiḥ |*
-> *asmatrā gantamupa no 'rvāñcā somapītaye |*
-> *ayaṃ vāṃ mitrāvaruṇā nṛbhiḥ sutaḥ soma ā pītaye sutaḥ ‖ 3 ‖*
+> *tāṃ vā̭ṃ dhe̱nuṃ na vā̭sa̱rīma̱ṃśuṃ dṷha̱ntyadri̭bhi̱ḥ soma̭ṃ duha̱ntyadri̭bhiḥ |*
+> *a̱sma̱trā ga̭nta̱mupa̭ no̱ 'rvāñcā̱ soma̭pītaye |*
+> *a̱yaṃ vā̭ṃ mitrāvaruṇā̱ nṛbhi̭ḥ su̱taḥ soma̱ ā pī̱tayḙ sutaḥ ‖ 3 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -448,13 +448,13 @@ The Kannada heading, set off by ornaments: "The hundred-and-thirty-eighth Sūkta
 
 **॥ संहितापाठः ॥**
 
-> प्रप्र पूष्णस्तुविजातस्य शस्यते महित्वमस्य तवसो न तन्दते स्तोत्रमस्य न तन्दते ।
-> अर्चामि सुम्नयन्नहमन्त्यूतिं मयोभुवं ।
-> विश्वस्य यो मन आयुयुवे मखो देव आयुयुवे मखः ॥ १ ॥
+> प्रप्र॑ पू॒ष्णस्तुवि॑जा॒तस्य॑ शस्यते महि॒त्वम॑स्य त॒वसो॒ न त॑न्दते स्तो॒त्रम॑स्य॒ न त॑न्दते ।
+> अर्चा॑मि सुम्न॒यन्न॒हमन्त्यू॑तिं मयो॒भुवं॑ ।
+> विश्व॑स्य॒ यो मन॑ आयु॒युवे म॒खो दे॒व आ॑यु॒युवे म॒खः ॥ १ ॥
 
-> *prapra pūṣṇastuvijātasya śasyate mahitvamasya tavaso na tandate stotramasya na tandate |*
-> *arcāmi sumnayannahamantyūtiṃ mayobhuvaṃ |*
-> *viśvasya yo mana āyuyuve makho deva āyuyuve makhaḥ ‖ 1 ‖*
+> *prapra̭ pū̱ṣṇastuvi̭jā̱tasya̭ śasyate mahi̱tvama̭sya ta̱vaso̱ na ta̭ndate sto̱trama̭sya̱ na ta̭ndate |*
+> *arcā̭mi sumna̱yanna̱hamantyṷ̄tiṃ mayo̱bhuva̭ṃ |*
+> *viśva̭sya̱ yo mana̭ āyu̱yuve ma̱kho de̱va ā̭yu̱yuve ma̱khaḥ ‖ 1 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -612,13 +612,13 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ संहितापाठः ॥**
 
-> प्र हि त्वा पूषन्नजिरं न यामनि स्तोमेभिः कृण्व ऋणवो यथा मृध उष्ट्रो न पीपरो मृधः ।
-> हुवे यत्त्वा मयोभुवं देवं सख्याय मर्त्यः ।
-> अस्माकमाङ्गूषान्द्युम्निनस्कृधि वाजेषु द्युम्निनस्कृधि ॥ २ ॥
+> प्र हि त्वा॑ पूषन्नजि॒रं न याम॑नि॒ स्तोमे॑भिः कृ॒ण्व ऋ॒णवो॒ यथा॒ मृध॒ उष्ट्रो॒ न पी॑परो॒ मृध॑ः ।
+> हु॒वे यत्त्वा॑ मयो॒भुवं॑ दे॒वं स॒ख्याय॒ मर्त्य॑ः ।
+> अ॒स्माक॑माङ्गू॒षान्द्यु॒म्निनस्कृ॑धि॒ वाजे॑षु द्यु॒म्निनस्कृ॑धि ॥ २ ॥
 
-> *pra hi tvā pūṣannajiraṃ na yāmani stomebhiḥ kṛṇva ṛṇavo yathā mṛdha uṣṭro na pīparo mṛdhaḥ |*
-> *huve yattvā mayobhuvaṃ devaṃ sakhyāya martyaḥ |*
-> *asmākamāṅgūṣāndyumninaskṛdhi vājeṣu dyumninaskṛdhi ‖ 2 ‖*
+> *pra hi tvā̭ pūṣannaji̱raṃ na yāma̭ni̱ stomḙbhiḥ kṛ̱ṇva ṛ̱ṇavo̱ yathā̱ mṛdha̱ uṣṭro̱ na pī̭paro̱ mṛdha̭ḥ |*
+> *hu̱ve yattvā̭ mayo̱bhuva̭ṃ de̱vaṃ sa̱khyāya̱ martya̭ḥ |*
+> *a̱smāka̭māṅgū̱ṣāndyu̱mninaskṛ̭dhi̱ vājḙṣu dyu̱mninaskṛ̭dhi ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -722,13 +722,13 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ संहितापाठः ॥**
 
-> यस्य ते पूषन्त्सख्ये विपन्यवः क्रत्वा चित्सन्तोऽवसा बुभुज्रिर इति क्रत्वा बुभुज्रिरे ।
-> तामनु त्वा नवीयसीं नियुतं रायं ईमहे ।
-> अहेळमान उरुशंस सरी भव वाजेवाजे सरी भव ॥ ३ ॥
+> यस्य॑ ते पूषन्त्स॒ख्ये विप॒न्य॒वः क्रत्वा॑ चि॒त्सन्तो॒ऽव॑सा बुभुज्रि॒र इति॒ क्रत्वा॑ बुभुज्रि॒रे ।
+> तामनु॑ त्वा॒ नवी॑यसीं नि॒युतं॑ रा॒यं ई॑महे ।
+> अहे॑ळमान उरुशंस॒ सरी॑ भव॒ वाजे॑वा॒जे सरी॑ भव ॥ ३ ॥
 
-> *yasya te pūṣantsakhye vipanyavaḥ kratvā citsanto 'vasā bubhujrira iti kratvā bubhujrire |*
-> *tāmanu tvā navīyasīṃ niyutaṃ rāyaṃ īmahe |*
-> *aheḷamāna uruśaṃsa sarī bhava vājevāje sarī bhava ‖ 3 ‖*
+> *yasya̭ te pūṣantsa̱khye vipa̱nya̱vaḥ kratvā̭ ci̱tsanto̱ 'va̭sā bubhujri̱ra iti̱ kratvā̭ bubhujri̱re |*
+> *tāmanṷ tvā̱ navī̭yasīṃ ni̱yuta̭ṃ rā̱yaṃ ī̭mahe |*
+> *ahḙḷamāna uruśaṃsa̱ sarī̭ bhava̱ vājḙvā̱je sarī̭ bhava ‖ 3 ‖*
 
 ---
 
@@ -816,15 +816,15 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ संहितापाठः ॥**
 
-> अस्या ऊ षु ण उप सातये भुवोऽहेळमानो ररिवाँ अजाश्व ।
-> अजाश्व श्रवस्यतामजाश्व ।
-> ओ षु त्वा ववृतीमहि स्तोमेभिर्दस्म साधुभिः ।
-> नहि त्वा पूषन्नतिमन्य आघृणे न ते सख्यमपह्नुवे ॥ ४ ॥
+> अ॒स्या ऊ॒ षु ण॒ उप॑ सा॒त॑ये भु॒वोऽहे॑ळमानो ररि॒वाँ ।
+> अ॑जाश्व श्रवस्य॒ताम॑जाश्व ।
+> ओ षु त्वा॑ ववृतीमहि॒ स्तोमे॑भिर्दस्म सा॒धुभि॑ः ।
+> न॒हि त्वा॑ पूषन्नति॒मन्य॑ आघृणे॒ न ते॑ स॒ख्यम॑पह्नु॒वे ॥ ४ ॥
 
-> *asyā ū ṣu ṇa upa sātaye bhuvo 'heḷamāno rarivā~ ajāśva |*
-> *ajāśva śravasyatāmajāśva |*
-> *o ṣu tvā vavṛtīmahi stomebhirdasma sādhubhiḥ |*
-> *nahi tvā pūṣannatimanya āghṛṇe na te sakhyamapahnuve ‖ 4 ‖*
+> *a̱syā ū̱ ṣu ṇa̱ upa̭ sā̱ta̭ye bhu̱vo 'hḙḷamāno rari̱vā~ |*
+> *a̭jāśva śravasya̱tāma̭jāśva |*
+> *o ṣu tvā̭ vavṛtīmahi̱ stomḙbhirdasma sā̱dhubhi̭ḥ |*
+> *na̱hi tvā̭ pūṣannati̱manya̭ āghṛṇe̱ na tḙ sa̱khyama̭pahnu̱ve ‖ 4 ‖*
 
 ### Printed p. 31  (PDF 49)
 
