@@ -2169,41 +2169,41 @@ At once the two became pupils and took in the teaching; then Indra came and cut 
 
 ### Printed p. 83  (PDF 101)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-> प्रादाद्वै हापि सुप्रीतः सुताय तदथर्वणः ।
-> स चाभवद्विस्तेन ब्रह्मणा दीप्तिमत्तरः [?] ॥
-> तमैषिं इषिषेन्द्रो नैवं वोचेः क्वचिन्नृधु [?] ।
-> नहि प्रोक्ते मधुन्यस्मिञ्जीवन्तं त्वा त्रय्याम्यहम् [?] ॥
-> तमन्विषं त्वैषिनौ देवौ विनिक्ते मद्ध्यू योचताम् [?] ।
-> स च ताभ्यां तदाचक्षे यदुवाच शचीपतिः ॥
-> तमब्रूतां तु नासत्यावश्व्येन शिरसा भवान् ।
-> मधु सु ग्राहयत्यानां नेन्द्रश्च त्वा वधिष्यति [?] ॥
-> अश्व्येन शिरसा तु दध्यङ्ङ ह यदेष्यानू [?] ।
-> तेन स्मैन्द्रो हरत्यश्वं तन्यृधत्तामस्य यत्कृतः [?] ॥
-> दधीचश्च शिरश्छित्त्वं कृत्वं वज्रेण वज्रिणा [?] ।
+> प्रादाद्ब्रह्मापि सुप्रीतः सुताय तदथर्वणः ।
+> स चाभवदृषिस्तेन ब्रह्मणा दीप्तिमत्तरः ॥
+> तमृषिं निषिषेधेन्द्रो नैवं वोचः क्वचिन्मधु ।
+> नहि प्रोक्ते मधुन्यस्मिन् जीवन्तं त्वोत्सृजाम्यहं ॥
+> तमृषिं त्वश्विनौ देवौ विविक्ते मध्वयाचेताम् ।
+> स च ताभ्यां तदाचष्टे यदुवाच शचीपतिः ॥
+> तमब्रूतां तु नासत्यावाश्व्येन शिरसा भवान् ।
+> मध्वाशु ग्राहयेत्वावां नेन्द्रश्च त्वा वधीत्ततः ॥
+> आश्व्येन शिरसा तौ तु दध्यङ्ङाह यदश्विनौ ।
+> तदस्यैन्द्रोऽहरत्स्वं तन्न्यधत्तामस्य यच्छिरः ॥
+> दधीचश्च शिरश्चाश्व्यं कृत्तं वज्रेण वज्रिणा ।
 > पपात सरसो मध्ये पर्वते शर्यणावति ॥
-> तेनद्वैस्तु समुत्थाय भूतेभ्यो विनिधान्यरान् [?] ।
-> प्रादाय युगपर्यन्तं शास्वेवाप्यु निमज्जति [?] ॥
+> तदद्भ्यस्तु समुत्थाय भूतेभ्यो विविधान्वरान् ।
+> प्रदाय युगपर्यन्तं तास्स्वेवाप्सु निमज्जति ।
 
-> *prādādvai hāpi suprītaḥ sutāya tadatharvaṇaḥ |*
-> *sa cābhavadvistena brahmaṇā dīptimattaraḥ [?] ‖*
-> *tamaiṣiṃ iṣiṣendro naivaṃ voceḥ kvacinnṛdhu [?] |*
-> *nahi prokte madhunyasmiñjīvantaṃ tvā trayyāmyaham [?] ‖*
-> *tamanviṣaṃ tvaiṣinau devau vinikte maddhyū yocatām [?] |*
-> *sa ca tābhyāṃ tadācakṣe yaduvāca śacīpatiḥ ‖*
-> *tamabrūtāṃ tu nāsatyāvaśvyena śirasā bhavān |*
-> *madhu su grāhayatyānāṃ nendraśca tvā vadhiṣyati [?] ‖*
-> *aśvyena śirasā tu dadhyaṅṅa ha yadeṣyānū [?] |*
-> *tena smaindro haratyaśvaṃ tanyṛdhattāmasya yatkṛtaḥ [?] ‖*
-> *dadhīcaśca śiraśchittvaṃ kṛtvaṃ vajreṇa vajriṇā [?] |*
+> *prādādbrahmāpi suprītaḥ sutāya tadatharvaṇaḥ |*
+> *sa cābhavadṛṣistena brahmaṇā dīptimattaraḥ ‖*
+> *tamṛṣiṃ niṣiṣedhendro naivaṃ vocaḥ kvacinmadhu |*
+> *nahi prokte madhunyasmin jīvantaṃ tvotsṛjāmyahaṃ ‖*
+> *tamṛṣiṃ tvaśvinau devau vivikte madhvayācetām |*
+> *sa ca tābhyāṃ tadācaṣṭe yaduvāca śacīpatiḥ ‖*
+> *tamabrūtāṃ tu nāsatyāvāśvyena śirasā bhavān |*
+> *madhvāśu grāhayetvāvāṃ nendraśca tvā vadhīttataḥ ‖*
+> *āśvyena śirasā tau tu dadhyaṅṅāha yadaśvinau |*
+> *tadasyaindro 'haratsvaṃ tannyadhattāmasya yacchiraḥ ‖*
+> *dadhīcaśca śiraścāśvyaṃ kṛttaṃ vajreṇa vajriṇā |*
 > *papāta saraso madhye parvate śaryaṇāvati ‖*
-> *tenadvaistu samutthāya bhūtebhyo vinidhānyarān [?] |*
-> *prādāya yugaparyantaṃ śāsvevāpyu nimajjati [?] ‖*
+> *tadadbhyastu samutthāya bhūtebhyo vividhānvarān |*
+> *pradāya yugaparyantaṃ tāssvevāpsu nimajjati |*
 
-(Bṛ. De. 3-[?] to [?].) These sentences tell the same story. There is no difference in the telling; only at the end it is added that the horse's head, cut off by Indra's thunderbolt, fell into the lake on the mountain called Śaryaṇāvat, and, rising from the water at every step, giving all beings the boons suited to them in abundance, remains submerged there to the end of the age.
+(Bṛ. De. 3-[?] to [?].) These sentences tell the same story. There is no difference in the telling; only at the end it is added that the horse's head, cut off by Indra's thunderbolt, fell into the lake on the mountain called Śaryaṇāvat, and, rising from the water again and again, giving all beings the boons suited to them in abundance, remains submerged in those very waters to the end of the age.
 
-That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sacrifice, is stated in the Bṛhadāraṇyaka also, as in the Śatapatha Brāhmaṇa, where, praising the greatness of other things, it says that this is the truth of the Supreme Person in the self; there the Ṛks तद्वां नरा सनये दंस उग्रम् [?] (*tadvāṃ narā sanaye daṃsa ugram [?]*) (Ṛ. Saṃ. 1-116-12 [?]) and अथर्वणायाश्विना दधीचेऽश्व्यं शिरः [?] (*atharvaṇāyāśvinā dadhīce 'śvyaṃ śiraḥ [?]*) (1-119-[?]) are cited, and also
+That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sacrifice, is stated in the Bṛhadāraṇyaka also, as in the Śatapatha Brāhmaṇa, where, praising the greatness of other things, it says that this is the truth of the Supreme Person in the self; there the Ṛks तद्वां नरा सनये दंस उग्रम् (*tadvāṃ narā sanaye daṃsa ugram*) (Ṛ. Saṃ. 1-116-12 [?]) and अथर्वणायाश्विना दधीचेऽश्व्यं शिरः (*atharvaṇāyāśvinā dadhīce 'śvyaṃ śiraḥ*) (1-119-[?]) are cited, and also
 
 > रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय ।
 > इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥
@@ -2211,7 +2211,7 @@ That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sa
 > *rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya |*
 > *indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*
 
-(Ṛ. Saṃ. 6-47-18 [?].) After citing this Ṛk it says इयं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच (*iyaṃ vai tanmadhu dadhyaṅṅātharvaṇo 'śvibhyāmuvāca*) [?] — "Dadhīci Ātharvaṇa taught the Aśvins that [lore]" — and that this brings one to the same supreme truth (Bṛ. U. 2-5-[?] to [?]).
+(Ṛ. Saṃ. 6-47-18 [?].) After citing this Ṛk it says इयं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच (*iyaṃ vai tanmadhu dadhyaṅṅātharvaṇo 'śvibhyāmuvāca*) — "Dadhīci Ātharvaṇa taught the Aśvins that [lore]" — and that he taught the same supreme truth (Bṛ. U. 2-5-[?] to [?]).
 
 ---
 
