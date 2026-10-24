@@ -2219,29 +2219,29 @@ That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sa
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Special Topics of Ṛk 9, continued from p. 83.)* That Dadhīci was Agni's [associate] [?] is stated in the Taittirīya Saṃhitā. First:
+*(Special Topics of Ṛk 9, continued from p. 83.)* That Dadhīci is a portion of Agni is stated in the Taittirīya Saṃhitā. First:
 
-> त्वामग्ने पुष्करादध्यथर्वा निरमन्थत [?] । (…) पुष्करपर्णे हैनमुपश्रितमविन्दत् तमु त्वा दध्यङ्ङृषिरित्याह दध्यङ् वा आथर्वणस्तेजस्व्यासीत् तेज एवास्मिन् दधाति [?] ।
+> त्वामग्ने पुष्करादध्यथर्वा निरमंथत । पुष्करपर्णे हैनमुपश्रितमविंदत् तमु त्वा दध्यङ्ङृषिरित्याह दध्यङ् वा आथर्वणस्तेजस्व्यासीत् तेज एवास्मिन् दधाति ।
 
-> *tvāmagne puṣkarādadhyatharvā niramanthata [?] | (…) puṣkaraparṇe hainamupaśritamavindat tamu tvā dadhyaṅṅṛṣirityāha dadhyaṅ vā ātharvaṇastejasvyāsīt teja evāsmin dadhāti [?] |*
+> *tvāmagne puṣkarādadhyatharvā niramaṃthata | puṣkaraparṇe hainamupaśritamaviṃdat tamu tvā dadhyaṅṅṛṣirityāha dadhyaṅ vā ātharvaṇastejasvyāsīt teja evāsmin dadhāti |*
 
-(Tai. Saṃ. 5-[?]-[?]-[?] [?].) "O Agni, Dadhīci, the son of Atharvan, most radiant, found you, who had taken refuge in a lotus leaf" — having said this, then:
+(Tai. Saṃ. 5-1-4-4.) "O Agni, Dadhīci, the son of Atharvan, most radiant, had your sight, you who had taken refuge in a lotus leaf" — having said this, then:
 
 > इन्द्रो दधीचो अस्थभिर्वृत्राण्यप्रतिष्कुतः । जघान नवतीर्नव ॥
 
 > *indro dadhīco asthabhirvṛtrāṇyapratiṣkutaḥ | jaghāna navatīrnava ‖*
 
-(Ṛ. Saṃ. 1-84-13 [?].) Having cited this Ṛk,
+(Ṛ. Saṃ. 1-84-13.) Having cited this Ṛk,
 
-> प्रजापतिरथर्वाणम् [?] … अग्निरेव दध्यङ्ङाथर्वणः … इन्द्रो दधीचो अस्थभिरिति यदिष्टकाभिर्जिनोति [?] ।
+> प्रजापतिर्वा अथर्वाग्निरेव दध्यङ्ङाथर्वणस्तस्यैष्टका अस्थान्येतेग्ं ह वाव तदृषिरभ्यनूवाचेंद्रो दधीचो अस्थभिरिति यदिष्टकाभिरग्निं चिनोति ।
 
-> *prajāpatiratharvāṇam [?] … agnireva dadhyaṅṅātharvaṇaḥ … indro dadhīco asthabhiriti yadiṣṭakābhirjinoti [?] |*
+> *prajāpatirvā atharvāgnireva dadhyaṅṅātharvaṇastasyaiṣṭakā asthānyetegṃ ha vāva tadṛṣirabhyanūvāceṃdro dadhīco asthabhiriti yadiṣṭakābhiragniṃ cinoti |*
 
-(Tai. Saṃ. 5-[?]-[?]-[?] [?].) Atharvan is Prajāpati; Dadhīci Ātharvaṇa is Agni; his bones are the bricks; reciting the mantra *indro dadhīco asthabhiḥ* the sacrificer builds the fire-altar with bricks. In this way the identity of Dadhīci with Agni is stated. The seer Parucchepa, the seer of the sūkta, tells of his own relation with such a Dadhīci, of great greatness.
+(Tai. Saṃ. 5-[?]-[?]-[?] [?].) Atharvan is Prajāpati; Dadhīci Ātharvaṇa is Agni; his bones are the bricks; therefore, reciting the mantra *indro dadhīco asthabhiḥ* he builds the fire-altar with bricks: so the identity of Dadhīci with Agni is stated. The seer of the sūkta, Parucchepa, tells of his own relation with such a Dadhīci, born of a divine portion and of great greatness.
 
-***aṅgirāḥ.*** The seer called Aṅgiras, or the line, or a synonym of Agni. Their explanation is given in the Special Topics of Ṛ. Saṃ. 1-1-[?]; 1-100-4 [?]; 1-119-[?] [?].
+***aṅgirāḥ.*** The seer called Aṅgiras, or the line, or a synonym of Agni. Their explanation is given in the Special Topics of Ṛ. Saṃ. 1-31-1; 1-100-4; 1-139-2.
 
-***priyamedhaḥ.*** *Priyā asya medhāḥ* (Ni. 3-[?]) — he to whom sacrifices are dear, so Yāska's explanation. It can be an epithet of a seer devoted to sacrifice, or the name of a person. In the Ṛksaṃhitā the seership of some sūktas is known. Of this seer see the Special Topics of Ṛ. Saṃ. 1-14-3 [?].
+***priyamedhaḥ.*** *Priyā asya medhāḥ* (Ni. 3-13) — he to whom sacrifices are dear, so Yāska's explanation. It can be an epithet of a seer devoted to sacrifice, or the name of a person. In the Ṛksaṃhitā the seership of some sūktas is known. Of this seer see the Special Topics of Ṛ. Saṃ. 1-45-3.
 
 ***kaṇvaḥ.*** The name of Kaṇva is very famous in the Ṛksaṃhitā and in the other Saṃhitās, Brāhmaṇas and so on. Much of the eighth maṇḍala of the Ṛgveda consists of sūktas seen by seers of the Kāṇva line, and that maṇḍala is known as the *Kāṇva-maṇḍala*. It is said in many places that he is a devotee dear to the Maruts and of exceeding greatness. For example, the Śatapatha Brāhmaṇa:
 
