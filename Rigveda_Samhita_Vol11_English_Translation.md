@@ -1454,7 +1454,7 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ### Printed p. 55  (PDF 73)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3 (as printed).)*
 
 *(Gist, mine: Dasras, your journey to heaven is known; your chariot-drivers harness for heavenward journeys; we mount your golden three-shafted car; you rule the sky like a road.)*
 
@@ -1508,13 +1508,13 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 > *tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitam |*
 
-(Ṛ. Saṃ. 1-34-8 [?].)
+(Ṛ. Saṃ. 1-34-8.)
 
 > ये नाकस्याधि रोचने दिवि देवास आसते ।
 
 > *ye nākasyādhi rocane divi devāsa āsate |*
 
-(Ṛ. Saṃ. 1-19-6 [?].) In such Ṛks it is a synonym of the sun;
+(Ṛ. Saṃ. 1-19-6.) In such Ṛks it is a synonym of the sun;
 
 > त्वे वर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः [?] ।
 
