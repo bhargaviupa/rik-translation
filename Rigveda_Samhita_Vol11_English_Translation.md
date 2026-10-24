@@ -2973,17 +2973,17 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
 
-> सम्पेष्पुं [?] … सहोवाच । ने वा इति तितिक्षे हन्त त्वा प्रविशानि तं मा जनयित्रा [?] बिभ्यहि [?] … त्वमस्मिँल्लोके जनयित्वा भरिष्यसि एवाहमेव त्वामुष्मिँल्लोके जनयित्वा भरिष्यामीति [?] ।
+> संपेष्टुं दध्रिरे सोऽतितिक्षमाणः पुरुषमेवाभ्येयाय । स होवाच । न वा अहमिदं तितिक्षे हन्त त्वा प्रविशानि तं मा जनयित्वा बिभृहि स यथैव मां त्वमस्मिंल्लोके जनयित्वा भरिष्यस्येवमेवाहं त्वामुष्मिंल्लोके जनयित्वा भरिष्यामीति ।
 
-> *sampeṣpuṃ [?] … sahovāca | ne vā iti titikṣe hanta tvā praviśāni taṃ mā janayitrā [?] bibhyahi [?] … tvamasmi~lloke janayitvā bhariṣyasi evāhameva tvāmuṣmi~lloke janayitvā bhariṣyāmīti [?] |*
+> *saṃpeṣṭuṃ dadhrire so 'titikṣamāṇaḥ puruṣamevābhyeyāya | sa hovāca | na vā ahamidaṃ titikṣe hanta tvā praviśāni taṃ mā janayitvā bibhṛhi sa yathaiva māṃ tvamasmiṃlloke janayitvā bhariṣyasyevamevāhaṃ tvāmuṣmiṃlloke janayitvā bhariṣyāmīti |*
 
-(Śa. Brā. [?]-[?]-[?]-[?] [?].) When Prajāpati created Agni, he ran round to burn up the whole world. Then the creatures created by Prajāpati himself tried to destroy Agni. Agni, unable to bear it, came to men and said: "I cannot withstand the retaliation that is to come upon me from you; I shall enter you. Hold me, making me come to be in the sacrificial house and the like. To those who do so I shall make it well in the other world." So he gave a boon. In the Aitareya Brāhmaṇa too:
+(no reference printed here.) When Prajāpati created Agni, he ran round to burn up the whole world. Then the creatures created by Prajāpati himself tried to destroy Agni. Agni, unable to bear it, came to men and said: "I cannot withstand the retaliation that is to come upon me from you; I shall enter you. Hold me, making me come to be in the sacrificial house and the like. To those who do so I shall make it well in the other world." So he gave a boon. In the Aitareya Brāhmaṇa too:
 
-> सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिः [?] ।
+> सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिः ।
 
-> *saiṣā svargyāhutiryadagnyāhutiḥ [?] |*
+> *saiṣā svargyāhutiryadagnyāhutiḥ |*
 
-(Ai. Brā. 1-[?]) The fruit of the Agni-oblation is thus praised. Likewise:
+(Ai. Brā. 1-16) The fruit of the Agni-oblation is thus praised. Likewise:
 
 > एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन् ।
 > तं नयन्त्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः ॥
@@ -3003,7 +3003,7 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 > *kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā |*
 > *sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*
 
-(Muṇḍaka [Up.] 1-2-4.) Since there is a description of the tongues of flame — black, of terrible form, swift as thought, deep red, smoky brown, glittering, all-shining — Sāyaṇa explains that *asamanāḥ* may also be taken as "of different colours".
+(Muṇḍaka [Up.] 1-2-4.) Since there is a description of the tongues of flame — black, of terrible form, swift as thought, deep red, smoky brown, glittering, all-shining, divine [?], … Sāyaṇa explains that *asamanāḥ* may also be taken as "of different colours".
 
 ### Printed p. 115  (PDF 133)
 
