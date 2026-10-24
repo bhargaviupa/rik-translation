@@ -2247,91 +2247,91 @@ That this same *madhuvidyā* is the "head of the sacrifice", the truth of the sa
 
 ### Printed p. 85  (PDF 103)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-> चित्रामहं वृणे सुमतिं विश्वजन्यां यामस्य कण्वो अदुहत्प्रपीनां सहस्रधारां पयसा महीं गामिति कण्वो हैनां ददर्श सा हास्मै सहस्रधारा सर्वान्कामान्दुदोह [?] ।
+> चित्रामहं वृणे सुमतिं विश्वजन्यां यामस्य कण्वो अदुहत्प्रपीनां सहस्रधारां पयसा महीं गामिति कण्वो हैनां ददर्श सा हास्मै सहस्रधारा सर्वान्कामान्दुदोह ।
 
-> *citrāmahaṃ vṛṇe sumatiṃ viśvajanyāṃ yāmasya kaṇvo aduhatprapīnāṃ sahasradhārāṃ payasā mahīṃ gāmiti kaṇvo haināṃ dadarśa sā hāsmai sahasradhārā sarvānkāmāndudoha [?] |*
+> *citrāmahaṃ vṛṇe sumatiṃ viśvajanyāṃ yāmasya kaṇvo aduhatprapīnāṃ sahasradhārāṃ payasā mahīṃ gāmiti kaṇvo haināṃ dadarśa sā hāsmai sahasradhārā sarvānkāmāndudoha |*
 
-(Śa. Brā. 4-[?]-[?]-[?] [?].) In these sentences it is said that Kaṇva milked a cow with a thousand streams (it was possible only for him), and obtained by her all his desires; his greatness is praised. The same is said in the Taittirīya Saṃhitā (Tai. Saṃ. 4-[?]-[?]). In the Bṛhaddevatā Kaṇva and Pragātha are said to be sons of Ghora, and:
+(Śa. Brā. 4-5-9-10 [?].) In these sentences it is said that Kaṇva milked a cow with a thousand streams (it was possible only for him), and obtained by her all his desires; his greatness is praised. The same is said in the Taittirīya Saṃhitā (Tai. Saṃ. 4-6-5). In the Bṛhaddevatā Kaṇva and Pragātha are said to be sons of Ghora, and:
 
 > कण्वश्चैव प्रगाथश्च घोरपुत्रौ बभूवतुः ।
 > गुरुणा तावनुज्ञातावूषतुः सहितौ वने ॥
-> वसतोस्तु तयोस्तत्र कण्वपत्न्याः शिरः स्पृशत् [?] ।
-> कृत्वा कनीयान् कण्वस्य उत्सङ्गे नान्वबुध्यत [?] ॥
-> शप्तुकामस्तु तं कण्वः क्रुद्धः पापाशिशङ्कया [?] ।
-> बोधयामास पादेन विधित्वान्नीव तेजसा [?] ॥
-> विदित्वा तस्य तं भावं प्रगाथे प्राञ्जलिस्त्वितः [?] ।
+> वसतोस्तु तयोस्तत्र कण्वपत्न्याः शिरः स्वपत् ।
+> कृत्वा कनीयान् कण्वस्य उत्संगे नान्वबुध्यत ॥
+> शप्तुकामस्तु तं कण्वः क्रुद्धः पापाभिशंकया ।
+> बोधयामास पादेन दिधक्षन्निव तेजसा ॥
+> विदित्वा तस्य तं भावं प्रगाथः प्राञ्जलिस्स्थितः ।
 > मातृत्वे च पितृत्वे च वरयामास तावुभौ ॥
-> स घोरो वाथ काण्वो ना वंशज्ञर्जपभुभिः सह [?] ।
-> देवर्शान्यैत्स्क सहिते ऋषिभुण्डलनुष्टमं [?] ॥
+> स घोरो वाथ काण्वो वा वंशजैर्बहुभिः सह ।
+> देवर्षान्यैश्च सहिते ऋषिर्मंडलमुष्टमं ॥
 
 > *kaṇvaścaiva pragāthaśca ghoraputrau babhūvatuḥ |*
 > *guruṇā tāvanujñātāvūṣatuḥ sahitau vane ‖*
-> *vasatostu tayostatra kaṇvapatnyāḥ śiraḥ spṛśat [?] |*
-> *kṛtvā kanīyān kaṇvasya utsaṅge nānvabudhyata [?] ‖*
-> *śaptukāmastu taṃ kaṇvaḥ kruddhaḥ pāpāśiśaṅkayā [?] |*
-> *bodhayāmāsa pādena vidhitvānnīva tejasā [?] ‖*
-> *viditvā tasya taṃ bhāvaṃ pragāthe prāñjalistvitaḥ [?] |*
+> *vasatostu tayostatra kaṇvapatnyāḥ śiraḥ svapat |*
+> *kṛtvā kanīyān kaṇvasya utsaṃge nānvabudhyata ‖*
+> *śaptukāmastu taṃ kaṇvaḥ kruddhaḥ pāpābhiśaṃkayā |*
+> *bodhayāmāsa pādena didhakṣanniva tejasā ‖*
+> *viditvā tasya taṃ bhāvaṃ pragāthaḥ prāñjalissthitaḥ |*
 > *mātṛtve ca pitṛtve ca varayāmāsa tāvubhau ‖*
-> *sa ghoro vātha kāṇvo nā vaṃśajñarjapabhubhiḥ saha [?] |*
-> *devarśānyaitska sahite ṛṣibhuṇḍalanuṣṭamaṃ [?] ‖*
+> *sa ghoro vātha kāṇvo vā vaṃśajairbahubhiḥ saha |*
+> *devarṣānyaiśca sahite ṛṣirmaṃḍalamuṣṭamaṃ ‖*
 
 (Bṛ. De. 6-[?] to [?] [?].) In these sentences the matter of the sūkta-seeing of the eighth maṇḍala by the Kāṇvas is told. Since the Pragāthas are of the Kāṇva line and the author of the first sūkta of the eighth maṇḍala is [also] a Pragātha, the Āśvalāyanas have called them all together *Pragātha*.
 
 ***atriḥ.*** Atri and the Atri line are well known as the seers of the fifth maṇḍala of the Ṛksaṃhitā. Atri is said to be a son of Prajāpati, and the manner of this seer's origin is told in the Bṛhaddevatā:
 
 > त्रिसांवत्सरिकं सत्रं प्रजाकामः प्रजापतिः ।
-> आहरत्सहितः साध्यैर्विश्वैर्देवैः सहेच [?] ॥
-> तत्रे वाग्ब्रह्मेयेयां [?] अजगाम शरीरिणी ।
-> तां दृष्ट्वा युगपत्तत्र कस्मात् [?] वरुणस्य च ॥
-> शुक्रं चस्कन्द तद्वायुर्दृष्टं [?] …
-> केरोर्ज्योभ्मो [?] भृगुर्जज्ञे अङ्गारेभ्योऽङ्गिरा ऋषिः ॥
+> आहरत्सहितः साध्यैर्विश्वैर्देवैः सहेति च ॥
+> तत्र वाग्वीक्षणीयायां आजगाम शरीरिणी ।
+> तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥
+> शुक्रं चस्कन्द तद्वायुरग्नौ प्रास्यद्दृच्छया ।
+> ततोऽर्चिभ्यो भृगुर्जज्ञे अंगारेभ्योऽंगिरा ऋषिः ॥
 
 > *trisāṃvatsarikaṃ satraṃ prajākāmaḥ prajāpatiḥ |*
-> *āharatsahitaḥ sādhyairviśvairdevaiḥ saheca [?] ‖*
-> *tatre vāgbrahmeyeyāṃ [?] ajagāma śarīriṇī |*
-> *tāṃ dṛṣṭvā yugapattatra kasmāt [?] varuṇasya ca ‖*
-> *śukraṃ caskanda tadvāyurdṛṣṭaṃ [?] …*
-> *kerorjyobhmo [?] bhṛgurjajñe aṅgārebhyo 'ṅgirā ṛṣiḥ ‖*
+> *āharatsahitaḥ sādhyairviśvairdevaiḥ saheti ca ‖*
+> *tatra vāgvīkṣaṇīyāyāṃ ājagāma śarīriṇī |*
+> *tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖*
+> *śukraṃ caskanda tadvāyuragnau prāsyaddṛcchayā |*
+> *tato 'rcibhyo bhṛgurjajñe aṃgārebhyo 'ṃgirā ṛṣiḥ ‖*
 
 ### Printed p. 86  (PDF 104)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-> प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वाग्भ्यभाषत [?] ।
-> अभ्यामयप्रिस्त्रीयोः पि भवेदन्त्रे व मे सुते [?] ॥
-> प्रजापतिस्त्वथेत्युक्ताः प्रत्यभाषत भारतीम् [?] ।
-> ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः [?] ॥
+> प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वाग्भ्यभाषत ।
+> आभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥
+> प्रजापतिस्त्वथेत्युक्तः प्रत्यभाषत भारतीं ।
+> ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः ॥
 
-> *prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgbhyabhāṣata [?] |*
-> *abhyāmayapristrīyoḥ pi bhavedantre va me sute [?] ‖*
-> *prajāpatistvathetyuktāḥ pratyabhāṣata bhāratīm [?] |*
-> *ṛṣiratristato jajñe sūryānalasamadyutiḥ [?] ‖*
+> *prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgbhyabhāṣata |*
+> *ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖*
+> *prajāpatistvathetyuktaḥ pratyabhāṣata bhāratīṃ |*
+> *ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*
 
-(Bṛ. De. 4-[?] to [?] [?].) Once, when Prajāpati was performing the three-year *satra* sacrifice, the goddess of speech took a body and came there to take part. Because a disturbance of mind arose in Prajāpati, Bhṛgu and Aṅgiras were born. Then the goddess of speech prayed to Prajāpati that yet one more son might be born; Prajāpati agreed, and the seer Atri, with a radiance equal to the sun and fire, was born: so goes the story. The words अभ्यधायि यतामत्रिं महर्षिं दीप्ततेजसम् [?] (*abhyadhāyi yatāmatriṃ maharṣiṃ dīptatejasam [?]*) (Bṛ. De. 4-[?]) also praise this great seer's radiance. This follows the Nirukta sentence अत्रिक्रीव त्रयीयमुच्यते क्षोणः तस्मादत्रिः [?] (*atrikrīva trayīyamucyate kṣoṇaḥ tasmādatriḥ [?]*) (Ni. 3-[?]).
+(Bṛ. De. 4-[?] to [?].) Once, when Prajāpati was performing the three-year *satra* sacrifice, the goddess of speech took a body and came there to take part. Because a disturbance of mind arose in Prajāpati, Bhṛgu and Aṅgiras were born. Then the goddess of speech prayed to Prajāpati that yet one more son might be born; Prajāpati agreed, and the seer Atri, with a radiance equal to the sun and fire, was born: so goes the story. The words अभ्यवादयतामत्रिं महर्षिं दीप्ततेजसं (*abhyavādayatāmatriṃ maharṣiṃ dīptatejasaṃ*) (Bṛ. De. 4-[?]) also praise this great seer's radiance. This follows the Nirukta sentence अत्रिरेव तृतीयमुच्यत इत्येके । तस्मादत्रिः (*atrireva tṛtīyamucyata ityeke | tasmādatriḥ*) (Ni. 3-[?]).
 
 In the Taittirīya Saṃhitā, praising the greatness of Atri, it is told how Atri performed the *Caturātra* sacrifice, which bestows wealth:
 
-> अत्रिरददा [?] … प्रजां पुत्रकामाय … स एतं चतुरात्रमपश्यत्तमाहरत्तेनायजत ततो वै तस्मै चत्वारो वीरा अजायन्त … य एवं वेद विद्वान् … तामेव यजमान यज्ञोति [?] ।
+> अत्रिरददादौर्वार्य प्रजां पुत्रकामाय...... स एतं चतुरात्रमपश्यत्तमाहरत्तेनायजत ततो वै तस्य चत्वारो वीरा अजायंत...... य एवं वेद विद्वान्...... तामेव यजमान ऋध्नोति ।
 
-> *atriradadā [?] … prajāṃ putrakāmāya … sa etaṃ caturātramapaśyattamāharattenāyajata tato vai tasmai catvāro vīrā ajāyanta … ya evaṃ veda vidvān … tāmeva yajamāna yajñoti [?] |*
+> *atriradadādaurvārya prajāṃ putrakāmāya...... sa etaṃ caturātramapaśyattamāharattenāyajata tato vai tasya catvāro vīrā ajāyaṃta...... ya evaṃ veda vidvān...... tāmeva yajamāna ṛdhnoti |*
 
-(Tai. Saṃ. 7-[?]-[?] [?].) In these sentences, telling of the wealth Atri obtained through the *Caturātra*, it is said that any sacrificer who knows this secret learnt from Atri and sacrifices will receive the same victory and prosperity as Atri.
+(Tai. Saṃ. 7-1-8 [?].) In these sentences, telling of the wealth Atri obtained through the *Caturātra*, it is said that any sacrificer who knows this secret learnt from Atri and sacrifices will receive the same victory and prosperity as Atri.
 
 By the epithet *sūryānalasamadyutiḥ* the self-luminous nature of Atri is meant; the Ṛksaṃhitā and the Śatapatha Brāhmaṇa also describe how he lights even the sun and the like, the bases of light, when they are enveloped in darkness. For example:
 
-> गूळ्हं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविन्ददत्रिः [?] ।
+> गूळ्हं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविन्ददत्रिः ।
 
-> *gūḷhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindadatriḥ [?] |*
+> *gūḷhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindadatriḥ |*
 
-(Ṛ. Saṃ. 5-40-6 [?].)
+(Ṛ. Saṃ. 5-40-6.)
 
-> अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अधुक्षत् [?] ।
+> अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अधुक्षत् ।
 
-> *atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā adhukṣat [?] |*
+> *atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā adhukṣat |*
 
-(Ṛ. Saṃ. 5-40-9 [?].)
+(Ṛ. Saṃ. 5-40-9.)
 
 ### Printed p. 87  (PDF 105)
 
