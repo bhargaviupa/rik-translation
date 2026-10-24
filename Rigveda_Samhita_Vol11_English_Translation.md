@@ -1617,15 +1617,15 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ### Printed p. 61  (PDF 79)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
 *(Gist, mine: Aśvins, whose wealth is our rites, give us by day and night the wealth that our rites deserve; may your gifts and ours never fail.)*
 
-**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Aśvins, rich in our rites, by day and night give us what our rites deserve; may neither your gift nor ours ever fail.* Small type; doubtful words marked)
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O Aśvins, rich in our rites, by day and night give us what our rites deserve; may neither your gift nor ours ever fail.* Small type; one doubtful word marked)
 
-> हे शचीवसू शचीति कर्मनाम । अस्मदनुष्ठितैर्ज्योतिष्टोमादिकर्मधनौ युवां शचीभिरस्मदीयैः कर्मभिः [?] निमित्तभूतैः अनुग्रहीतव्यम् [?] दिवा नक्तं दिने रात्रौ च दशस्यतम् [?] [… ] अभिमतं देयम् । वां युवयोः रातिर्दानं कदा चन सर्वदा मा उपदसत् मोपक्षीणं भूत् । उपक्षये दसु उपक्षये [?] । न केवलं युष्मदीयं दानमस्मदीयमपि [?] रातिर्दानं हविरादिप्रदानं सर्वदापि कदा चन सर्वदा मोप दसत् [?] । उपक्षीणं मा भूत् । सर्वदा वर्तेताम् [?] । अहमपि सर्वदा युष्मदर्थं [?] … मित्यर्थः ॥
+> हे शचीवसू । शचीति कर्मनाम । अस्मदनुष्ठितज्योतिष्टोमादिकर्मधनौ युवां शचीभिरस्मदीयैः कर्मभिर्योगादिभिर्निमित्तभूतैर्दिवा नक्तमहनि रात्रौ च दशस्यतं । अभिमतं देयथां ॥ दाश्व दाने इत्यस्येदं छान्दसं रूपं । यद्वा । दशस्यतिर्दानार्थः कण्ड्वादिषु द्रष्टव्यः ॥ वां युवयो रातिर्दानं कदा चन सर्वदा योगकालेऽयोगकालेऽपि मोप दसत् । मोपक्षीणं भूत् ॥ दसु उपक्षये । लुङि पुषादिद्युतादीति च्लेरङ् ॥ न केवलं युष्मदीयं अपि त्वस्माकमपि रातिर्दानं हविरादिप्रदानं सर्वविषयदानं वार्थिभ्यः कदा चन सर्वावस्थायामपि मोप दसत् । उपक्षीणं मा भूत् । सर्वदा वर्तताम् । अहमपि सर्वदा युष्मानुद्दिश्य पद्भ्यां [?] युवामपि मदभिमतं सर्वदा दत्तमित्यर्थः ॥
 
-> *he śacīvasū śacīti karmanāma | asmadanuṣṭhitairjyotiṣṭomādikarmadhanau yuvāṃ śacībhirasmadīyaiḥ karmabhiḥ [?] nimittabhūtaiḥ anugrahītavyam [?] divā naktaṃ dine rātrau ca daśasyatam [?] [… ] abhimataṃ deyam | vāṃ yuvayoḥ rātirdānaṃ kadā cana sarvadā mā upadasat mopakṣīṇaṃ bhūt | upakṣaye dasu upakṣaye [?] | na kevalaṃ yuṣmadīyaṃ dānamasmadīyamapi [?] rātirdānaṃ havirādipradānaṃ sarvadāpi kadā cana sarvadā mopa dasat [?] | upakṣīṇaṃ mā bhūt | sarvadā vartetām [?] | ahamapi sarvadā yuṣmadarthaṃ [?] … mityarthaḥ ‖*
+> *he śacīvasū | śacīti karmanāma | asmadanuṣṭhitajyotiṣṭomādikarmadhanau yuvāṃ śacībhirasmadīyaiḥ karmabhiryogādibhirnimittabhūtairdivā naktamahani rātrau ca daśasyataṃ | abhimataṃ deyathāṃ ‖ dāśva dāne ityasyedaṃ chāndasaṃ rūpaṃ | yadvā | daśasyatirdānārthaḥ kaṇḍvādiṣu draṣṭavyaḥ ‖ vāṃ yuvayo rātirdānaṃ kadā cana sarvadā yogakāle 'yogakāle 'pi mopa dasat | mopakṣīṇaṃ bhūt ‖ dasu upakṣaye | luṅi puṣādidyutādīti cleraṅ ‖ na kevalaṃ yuṣmadīyaṃ api tvasmākamapi rātirdānaṃ havirādipradānaṃ sarvaviṣayadānaṃ vārthibhyaḥ kadā cana sarvāvasthāyāmapi mopa dasat | upakṣīṇaṃ mā bhūt | sarvadā vartatām | ahamapi sarvadā yuṣmānuddiśya padbhyāṃ [?] yuvāmapi madabhimataṃ sarvadā dattamityarthaḥ ‖*
 
 **Pratipadārtha (Kannada).** *śacīvasū* — O Aśvins, whose wealth is the rites performed by us; *naḥ* — our; *śacībhiḥ* — on account of our rites (wealth that is to be bestowed as a favour); *divā naktam* — by day and by night (continuously); *daśasyatam* — give; *vām* — your (that is to be given by you); *rātiḥ* — gift; *kadā cana* — ever; *mā upa dasat* — let it not fail; *asmat* — from us (that is to be offered); *rātiḥ* — the gifts of oblations and the like also; *kadā cana* — ever (let them not cease).
 
