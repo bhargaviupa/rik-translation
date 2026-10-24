@@ -1545,39 +1545,39 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-***rajaḥ.*** The word *rajaḥ* is repeated. Sāyaṇa takes the first *rajaḥ* as "heaven", which delights (*rañjanātmaka*), and the second as "water"; both senses have the Nirukta's support — *rajaḥ: rajo rajater jyotir vā raja ucyate; udakaṃ raja ucyate; lokā rajāṃsy ucyante* (Ni. [?]-[?]): the word *rajas*, derived from the root *rañj* ("to colour, to shine"), means light, water and the worlds. Besides, *ahas sragahane rajasī ucyete* [?] — it is also a synonym of "blood" and "day". Yāska cites
+***rajaḥ.*** The word *rajaḥ* is repeated. Sāyaṇa takes the first *rajaḥ* as "heaven", which delights (*rañjanātmaka*), and the second as "water"; both senses have the Nirukta's support — *rajaḥ: rajo rajater jyotir vā raja ucyate; udakaṃ raja ucyate; lokā rajāṃsy ucyante* (Ni. 3-19): the word *rajas*, derived from the root *rañj* ("to colour, to shine"), means light, water and the worlds. Besides, *asṛgahanī rajasī ucyete* — it is also a synonym of "blood" and "day" (*ahas*). Yāska cites
 
-> रजांसि चित्रा वि चरन्ति तन्यवो दिवः संव्रजा पयसा न उक्षतम् [?] ।
+> रजांसि चित्रा वि चरन्ति तन्यवो दिवः संव्रजा पयसा न उक्षतं ।
 
-> *rajāṃsi citrā vi caranti tanyavo divaḥ saṃvrajā payasā na ukṣatam [?] |*
+> *rajāṃsi citrā vi caranti tanyavo divaḥ saṃvrajā payasā na ukṣataṃ |*
 
-(Ṛ. Saṃ. 3-[?]-[?] [?]) and shows that *rajāṃsi* here means "worlds" (Ni. 11-[?]); and
+(Ṛ. Saṃ. 3-63-3) and shows that *rajāṃsi* here means "worlds" ; and in the Nirukta, chapter 10, section 44 (as printed),
 
-> अज्मामुक्थै रहिं [?] गृणीषे बुध्ने नदीनां रजःसु षीदन् [?] ।
+> अज्मामुक्थैरहिं गृणीषे बुध्ने नदीनां रजःसु षीदन् ।
 
-> *ajmāmukthai rahiṃ [?] gṛṇīṣe budhne nadīnāṃ rajaḥsu ṣīdan [?] |*
+> *ajmāmukthairahiṃ gṛṇīṣe budhne nadīnāṃ rajaḥsu ṣīdan |*
 
-(Ṛ. Saṃ. 7-[?]-[?] [?]) where *rajaḥsu* means "in the waters"; and
+(Ṛ. Saṃ. 7-34-16) where *rajaḥsu* means "in the waters"; and in chapter 12, section 7,
 
-> पिता उ त्वा उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते [?] ।
+> पिता उ त्वा उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
 
-> *pitā u tvā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate [?] |*
+> *pitā u tvā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?]) where *rajasaḥ* is taken as the sky; and
+(Ṛ. Saṃ. 1-92-1) where *rajasaḥ* is taken as the sky; and
 
-> त्रीणि भाति रजांस्यस्य यत्त्राणि तु तेजसा [?] ।
+> त्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा ।
 
-> *trīṇi bhāti rajāṃsyasya yattrāṇi tu tejasā [?] |*
+> *trīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā |*
 
-(Bṛ. De. [?]-[?]) where the Bṛhaddevatā author says that Viṣṇu, who took the three strides, made the three worlds shine with his feet, thus giving the sense of the word *rajāṃsi*. In the Ṛk at hand the first *rajaḥ* means the delightful sky, and the second the rain-water.
+(Bṛ. De. 2-64) where the Bṛhaddevatā author says that Viṣṇu, who took the three strides, made the three worlds shine with his feet, thus giving the sense of the word *rajāṃsi*. In the Ṛk at hand the first *rajaḥ* means the delightful sky, and the second the rain-water.
 
 ***hiraṇyaye rathe.*** *Hiraṇmaye madhupūrṇe rathe* — "in the golden chariot full of honey": a description of the Aśvins' chariot. Sāyaṇa cites
 
-> त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः [?] ।
+> त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः ।
 
-> *trayaḥ pavayo madhuvāhane rathe somasya venāmanu viśva idviduḥ [?] |*
+> *trayaḥ pavayo madhuvāhane rathe somasya venāmanu viśva idviduḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?] [?]) to show that the Aśvins' chariot is described as full of honey.
+(Ṛ. Saṃ. 1-34-2) to show that the Aśvins' chariot is described as full of honey.
 
 ### Printed p. 59  (PDF 77)
 
