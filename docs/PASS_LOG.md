@@ -44,3 +44,4 @@
 2026-10-24 05:39 PDF 82-82: remaining [?] EN 4, KN 2. after: bhāṣya of Ṛk 6 re-transcribed from the print (file text differed substantially); Saṃhitā lines 3-4 moved from p. 63 to p. 64; Pada 'tubhyaṃ'; numerals left
 2026-10-24 05:39 PDF 83-83: remaining [?] EN 2, KN 2. after: EN 5 → 2, KN 3 → 2 (Āśvalāyana numeral only); fixed Pṛṣṭhya / prasthitayājyā, 'third Ṛk', quotation indavaḥ, Varga 4
 2026-10-24 05:40 PDF 84-84: remaining [?] EN 11, KN 7. after: EN 21 → 11, KN 13 → 7; remaining numerals + one doubtful Taittirīya word; Āśvalāyana sūtra and Tai. Saṃ. verse re-read, prose wording fixed
+2026-10-24 05:42 PDF 85-86: remaining [?] EN 12, KN 10. PDF 85–86: non-numeral fixes; grammar page of Ṛk 6 re-split across p. 67/68 (gahi, sumṛḷīkaḥ moved to p. 68); Saṃhitā/Pada anusvāra forms; remaining [?] are numerals

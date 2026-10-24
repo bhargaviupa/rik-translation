@@ -1785,11 +1785,11 @@ On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the 
 
 ### Printed p. 67  (PDF 85)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-***dāvane.*** *Dāvati yāge* — "in the sacrifice that gives desired things"; an epithet of the sacrifice. The word is also used as an epithet of Indra and other gods, showing their giving nature.
+***dāvane.*** *Dānavati yoge* (as printed) — "in the sacrifice that gives desired things" (Kannada: *yāgadalli*); an epithet of the sacrifice. The word is also used as an epithet of Indra and other gods, showing their giving nature.
 
-**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *vṛṣan* (root *vṛṣu secane*; *kanin yuvṛṣi…* (U. Sū. 1-[?]) *kanin*; the *n* is not dropped in the vocative; as it is at the start of a *pāda*, no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-[?]) first-syllable accent), *vṛṣapāṇāsaḥ* (*vṛṣṇaḥ pānāḥ*; root *pā pāne*; *lyuṭ* in the passive sense; *yuvor anākau* (Pā. Sū. 7-1-[?]) *ana*; accent of the first member of a *kṛt*-compound; the *jas* with *ajjhalī…* *asuk* (Pā. Sū. 7-1-[?])), *adriṣutāsaḥ* (*adribhiḥ sutāḥ*; root *ṣuñ abhiṣave*; *kta* in the passive; *tṛtīyā karmaṇi* (Pā. Sū. 6-2-[?]) first-member accent; as before *asuk*), *udbhidaḥ* (root *bhidir vidāraṇe*; *kvip*; prefix compound; accent; nominative plural), *mandantu* (root *madi harṣaglepanayoḥ*; *iditaś ca* gives *num*; *loṭ* third person plural; *nighāta* as a *tiṅanta* follows a non-*tiṅanta*), *dāvane* (root *dudāñ dāne*; *āto maniṅ…* (Pā. Sū. 3-2-[?]) *vanip*; dative singular; Vedic non-*luk* of the *ṅe*), *mahe* (for *mahate*; Vedic loss of the *t*; *sāvekācas tṛtīyādiḥ* gives *udātta* to the case-ending), *girvāhaḥ* (*girāṃ vāhaḥ*; root *vah prāpaṇe*; *vahihādhāṅbhyaś chandasi* (U. Sū. 4-[?]) *asun*; vocative; *āmantritasya ca*), *stavamānaḥ* (root *ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ*; *śānac* in the passive sense; *vyatyaya*: *śap*; *āne muk*), *gahi* (root *gamḷ gatau*; *loṭ* second person singular *sip* → *hi*; *bahulaṃ chandasi* *luk* of *śap*; the nasal of the root dropped), *sumṛḷīkaḥ* (*sukhaṃ mṛḷīkaṃ yasya saḥ*; *nañsubhyām* (Pā. Sū. 6-2-[?]) accent of the last member's first syllable). ‖ 6 ‖ Sūtra numbers not read.
+**Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly).** *vṛṣan* (root *vṛṣu secane*; *kanin yuvṛṣi…* (U. Sū. 1-[?]) *kanin*; *na ṅisambuddhyoḥ* means the *n* is not dropped in the vocative; as it is at the start of a *pāda*, no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-[?]) first-syllable accent), *vṛṣapānāsaḥ* (as printed; *vṛṣṇaḥ pānāḥ*; root *pā pāne*; *lyuṭ* in the passive sense; *yuvor anākau* (Pā. Sū. 7-1-[?]) *ana*; accent of the first member of a *kṛt*-compound; the *jas* with *ājjaser asuk* (Pā. Sū. 7-1-[?])), *adrisutāsaḥ* (*adribhiḥ sutāḥ, adrisutāḥ*; root *ṣuñ abhiṣave*; *kta* in the passive; *tṛtīyā karmaṇi* (Pā. Sū. 6-2-[?]) first-member accent; as before *asuk*), *udbhidaḥ* (root *bhidir vidāraṇe*; *kvip ca* gives *kvip*; as a *prādi* compound, *kṛduttarapada* accent; nominative plural), *mandantu* (root *madi harṣaglepanayoḥ*; because it is *idit*, the *num* augment; *loṭ* third person plural; *nighāta* as a *tiṅanta* follows a non-*tiṅanta*), *dāvane* (root *dudāñ dāne*; *āto maniṅ…* (Pā. Sū. 3-2-[?]) *vanip*; dative singular; Vedic non-*luk* of the *ṅe*), *mahe* (for *mahate*; Vedic loss of the *t*; being of one syllable (*ekāc*), *sāvekācas tṛtīyādiḥ* gives *udātta* to the case-ending), *girvāhaḥ* (*girāṃ vāhaḥ*; root *vah prāpaṇe*; *vahihādhāṅbhyaś chandasi* (U. Sū. 4-[?]) *asun*; *ṇit* continuing from the preceding sūtra, *ata upadhāyāḥ* (Pā. Sū. 7-2-116) *vṛddhi* of the penultimate, giving *girvāhas*; vocative; *āmantritasya ca*), *stavamānaḥ* (root *ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ*; *śānac* in the passive sense; *vyatyaya*: *śap*; with that as the occasion, *guṇa* of the root's *i*-vowel and *av*-substitution; *āne muk* (Pā. Sū. 7-2-82) the *muk* augment for a stem ending in *a*; *upadeśe*… (continues on p. 68)).
 
 #### Ṛk 7
 
@@ -1799,31 +1799,33 @@ On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
+**Vyākaraṇa-prakriyā (Ṛk 6, concluded from p. 67; grammar page, noted briefly).** *stavamānaḥ* (end of the note): since a *lasārvadhātuka* ending follows, *tāsyanudāttet…* (Pā. Sū. 6-1-[?]) makes it unaccented, so the root accent remains; *gahi* (root *gamḷ gatau*; *loṭ* second person singular *sip* → *hi*; *bahulaṃ chandasi* *luk* of *śap*; since the substitute counts as *ṅit*, *anudāttopadeśa…* (Pā. Sū. 6-4-[?]) drops the nasal of the root), *sumṛḷīkaḥ* (*suṣṭhu mṛḷīkaṃ sukhaṃ yasya saḥ*; *nañsubhyām* (Pā. Sū. 6-2-[?]) accent on the last syllable of the final member). ‖ 6 ‖
+
 **॥ संहितापाठः ॥**
 
 > ओ षू णो अग्ने शृणुहि त्वमीळितो देवेभ्यो ब्रवसि यज्ञियेभ्यो राजभ्यो यज्ञियेभ्यः ।
-> यद्ध त्यामङ्गिरोभ्यो धेनुं देवा अदत्तन ।
+> यद्ध त्यामंगिरोभ्यो धेनुं देवा अदत्तन ।
 > वि तां दुह्रे अर्यमा कर्तरी सचा एष तां वेद मे सचा ॥ ७ ॥
 
 > *o ṣū ṇo agne śṛṇuhi tvamīḷito devebhyo bravasi yajñiyebhyo rājabhyo yajñiyebhyaḥ |*
-> *yaddha tyāmaṅgirobhyo dhenuṃ devā adattana |*
+> *yaddha tyāmaṃgirobhyo dhenuṃ devā adattana |*
 > *vi tāṃ duhre aryamā kartarī sacā eṣa tāṃ veda me sacā ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
 
-> ओ इति । सु । नः । अग्ने । शृणुहि । त्वम् । ईळितः । देवेभ्यः । ब्रवसि । यज्ञियेभ्यः । राजऽभ्यः । यज्ञियेभ्यः ।
-> यत् । ह । त्याम् । अङ्गिरःऽभ्यः । धेनुम् । देवाः । अदत्तन ।
-> वि । ताम् । दुह्रे । अर्यमा । कर्तरी । सचा । एषः । ताम् । वेद । मे । सचा ॥ ७ ॥
+> ओ इति । सु । नः । अग्ने । शृणुहि । त्वं । ईळितः । देवेभ्यः । ब्रवसि । यज्ञियेभ्यः । राजऽभ्यः । यज्ञियेभ्यः ।
+> यत् । ह । त्यां । अंगिरःऽभ्यः । धेनुं । देवाः । अदत्तन ।
+> वि । तां । दुह्रे । अर्यमा । कर्तरि । सचा । एषः । तां । वेद । मे । सचा ॥ ७ ॥
 
-> *o iti | su | naḥ | agne | śṛṇuhi | tvam | īḷitaḥ | devebhyaḥ | bravasi | yajñiyebhyaḥ | rāja 'bhyaḥ | yajñiyebhyaḥ |*
-> *yat | ha | tyām | aṅgiraḥ 'bhyaḥ | dhenum | devāḥ | adattana |*
-> *vi | tām | duhre | aryamā | kartarī | sacā | eṣaḥ | tām | veda | me | sacā ‖ 7 ‖*
+> *o iti | su | naḥ | agne | śṛṇuhi | tvaṃ | īḷitaḥ | devebhyaḥ | bravasi | yajñiyebhyaḥ | rāja 'bhyaḥ | yajñiyebhyaḥ |*
+> *yat | ha | tyāṃ | aṃgiraḥ 'bhyaḥ | dhenuṃ | devāḥ | adattana |*
+> *vi | tāṃ | duhre | aryamā | kartari | sacā | eṣaḥ | tāṃ | veda | me | sacā ‖ 7 ‖*
 
-**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; Āśvalāyana citation of the use of the Ṛk; the bhāṣya itself begins at the foot of this page and runs on. Small type; doubtful words marked)
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; Āśvalāyana citation of the use of the Ṛk; the bhāṣya itself begins at the foot of this page and runs on. Small type; one doubtful word marked)
 
-> दशरात्रस्य षष्ठेऽहनि प्रातःसवने नेष्टुः पृष्ठितयाज्यायाः पुरस्तादो षू णो अग्न इत्यापसनेयैकेत्थोभ्याम् [?] योगः । षष्ठस्येति खण्डे सूत्रितम् [?] …
+> दशरात्रस्य षष्ठेऽहनि प्रातःसवने नेष्टुः प्रस्थितयाज्यायाः पुरस्तादो षू णो अग्न इत्येषापनीयैकीकृत्योभाभ्यां [?] योगः । षष्ठस्येति खण्डे सूत्रितं ।
 
-> *daśarātrasya ṣaṣṭhe 'hani prātaḥsavane neṣṭuḥ pṛṣṭhitayājyāyāḥ purastādo ṣū ṇo agna ityāpasaneyaiketthobhyām [?] yogaḥ | ṣaṣṭhasyeti khaṇḍe sūtritam [?] …*
+> *daśarātrasya ṣaṣṭhe 'hani prātaḥsavane neṣṭuḥ prasthitayājyāyāḥ purastādo ṣū ṇo agna ityeṣāpanīyaikīkṛtyobhābhyāṃ [?] yogaḥ | ṣaṣṭhasyeti khaṇḍe sūtritaṃ |*
 
 ---
 
