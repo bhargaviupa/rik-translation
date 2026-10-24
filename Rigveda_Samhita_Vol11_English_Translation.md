@@ -2421,7 +2421,7 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 *(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-> यक्षदग्निर्देवो देवानिति [?] ।
+> यक्षदग्निर्देवो देवानिति ।
 
 > *yakṣadagnirdevo devāniti |*
 
@@ -2447,11 +2447,11 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Special Topics of Ṛk 10, concluded from p. 91.)* …*ārabhogaṃ dadātīty arthaḥ* [?] — "it gives the enjoyment". *Rari* means "gift"; since it gives an enjoyment that cannot be got from others and benefits the world, it is called *arariṇda*: so a third derivation is possible.
+*(Special Topics of Ṛk 10, concluded from p. 91.)* …*kāribhogaṃ dadātīty arthaḥ* — "it gives the enjoyment". *Rari* means "gift"; since it gives an enjoyment that cannot be got from others and benefits the world, it is called *arariṇda*: so a third derivation is possible.
 
 ***sukratuḥ.*** This word may mean either the sacrificer, the doer of excellent rites, or Bṛhaspati. If the sacrificer is meant, *arariṇdāni* is to be taken as the water that is the means of sacrifice; if Bṛhaspati, as the water that takes the form of rain.
 
-**Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly).** *hotā* (root *hu dānādanayoḥ*; *tṛn* in the agent sense; *guṇa* of the root; first-syllable accent by *nityādir nityam*; nominative singular), *yakṣat* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *leṭ* third person singular, *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-[?]) drops the *i*; *leṭo 'ṭāṭau* (Pā. Sū. 3-4-[?]) *aṭ*; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-[?]) *sip*; *coḥ kuḥ* (Pā. Sū. 8-2-[?]) *kutva* for the *j*; *khari ca* (Pā. Sū. 8-4-[?]) *carva*; hence *yakṣat*; as a *tiṅanta* follows, *nighāta*), *vanta* (root *vana saṃbhaktau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *laṅ* in the sense of *loṭ*; third person plural *jhi*, *jho 'ntaḥ* gives *anta*; by *vyatyayo bahulam* it is *ātmanepada* in place of *parasmaipada*; *bahulaṃ chandasi*: *luk* of *śap*; Vedic loss of the final of the root; *nighāta*), *vāryam* (root *vṛñ varaṇe*; *ṛhaloṇ nyat* (Pā. Sū. 3-1-[?]) *ṇyat*; as it is *ñit*, *vṛddhi*; *iḍāgama*; first-syllable accent), *bṛhaspatiḥ* (*tadbṛhatoḥ karapatyoś coradevatayoḥ* (Pā. Sū. 6-1-[?]) *suṭ*; *ubhe vanaspatyādiṣu* (Pā. Sū. 6-2-[?]) accent of both members), *yajati* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *laṭ* third person singular; *tiṅanta nighāta*), *veṇaḥ* (the Nirukta reads *veṇa kāntikarmā*; in the agent sense, by its place among the *pacādi* roots, *ac*; as it is *cit*, final-syllable accent) …
+**Vyākaraṇa-prakriyā (Ṛk 10; grammar page, noted briefly).** *hotā* (root *hu dānādanayoḥ*; *tṛn* in the agent sense; *guṇa* of the root; first-syllable accent by *ñnityādir nityam*; nominative singular), *yakṣat* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *leṭ* third person singular, *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-[?]) drops the *i*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-[?]) *aḍ*; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-[?]) *sip*; *coḥ kuḥ* (Pā. Sū. 8-2-[?]) *kutva* for the *j*; *khari ca* (Pā. Sū. 8-4-[?]) *carva*; hence *yakṣat*; as a *tiṅanta* follows, *nighāta*), *vanta* (root *vana saṃbhaktau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-[?]) *laṅ* in the sense of *loṭ*; third person plural *jhi*, *jho 'ntaḥ* gives *ant*; by *vyatyayo bahulam* it is *ātmanepada* in place of *parasmaipada*; *bahulaṃ chandasi*: *luk* of *śap*; Vedic loss of the final of the root; *nighāta*), *vāryam* (root *vṛñ varaṇe*; *ṛhaloṇyat* (Pā. Sū. 3-1-[?]) *ṇyat*; as it is *ñit*, *aco ñṇiti* gives *vṛddhi*; *īḍvanda…* (Pā. Sū. 6-1-[?]) first-syllable accent), *bṛhaspatiḥ* (*tadbṛhatoḥ karapatyoś coradevatayoḥ* (Pā. Sū. 6-1-[?]) *suṭ*; *ubhe vanaspatyādiṣu* (Pā. Sū. 6-2-[?]) both-member original accent), *yajati* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *laṭ* third person singular; *tiṅanta nighāta*), *veṇaḥ* (the Nirukta reads *veṇa kāntikarmā*; in the agent sense, by its place among the *pacādi* roots, *ac*; as it is *cit*, final-syllable accent) …
 
 ### Printed p. 93  (PDF 111)
 
