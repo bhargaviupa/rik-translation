@@ -96,7 +96,6 @@ if __name__=='__main__':
     items=list(csv.DictReader(open(sys.argv[1]))); tess={r['id']:r for r in csv.DictReader(open(sys.argv[2]))}
     G=[]; cur=None
     for r in items:
-        if r['id'] not in tess: continue
         p=int(r['pdf'])
         if p!=cur:
             for f in glob.glob(WORK+'g-*.pgm'): os.remove(f)
@@ -109,7 +108,7 @@ if __name__=='__main__':
         ds=[t for t in toks if t[0]=='d']
         if not ds: continue
         H=sorted(t[4]-t[3] for t in ds)[len(ds)//2]
-        t=tess[gid]; lab=None
+        t=tess.get(gid,{'agree':'0','tess':''}); lab=None
         pat=''.join('d' if t_[0]=='d' else '-' for t_ in toks)
         if int(t['agree'])==3 and ''.join('d' if c.isdigit() else '-' for c in t['tess'])==pat: lab=[c for c in t['tess'] if c.isdigit()]
         for k,d in enumerate(ds):
@@ -143,7 +142,7 @@ if __name__=='__main__':
             for t_ in toks:
                 if t_[0]=='-': s.append('-')
                 else: p_,c_=by[gid][k]; s.append(p_); mc=min(mc,c_); k+=1
-            r_=re.sub(r'^[x-]+|[x-]+$','',''.join(s)); w.writerow([gid,r_,mc,tess[gid]['tess']])
+            r_=re.sub(r'^[x-]+|[x-]+$','',''.join(s)); w.writerow([gid,r_,mc,tess.get(gid,{}).get('tess','')])
     if len(sys.argv)>4:   # montage: 14 labelled samples per digit, for a visual check of each class
         rows=[]
         for dg in '0123456789':

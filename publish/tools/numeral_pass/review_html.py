@@ -44,7 +44,8 @@ for pdf in sorted(byp,key=int):
         b=T.get(it['id'],{}).get('tess',''); c=S.get(it['id'],{}).get('shape','')
         if not is_numeral(it['id']): continue
         prop,st=propose(b,c)
-        if not dig(prop): continue
+        if not dig(prop) and not os.environ.get('NOMACH'): continue
+        if os.environ.get('NOMACH'): prop=c
         best=(None,0)
         for k,(v,ctx) in enumerate(fn):
             if k in used: continue
@@ -55,7 +56,9 @@ for pdf in sorted(byp,key=int):
             used.add(best[0]); fv,fctx=fn[best[0]]
             if '?' not in fv and st=='split' and dig(fv) in (dig(b),dig(c)): prop=fv; st='file'   # one machine + file agree
             if dig(fv)==dig(prop) and '?' not in fv: prop=fv.replace(' [?]','')   # keep the file's separators
-        cls='l' if st=='file' else 'g' if st=='agree' and fv and dig(fv)==dig(prop) and '?' not in fv else ('b' if st=='agree' else 'y')
+        if os.environ.get('NOMACH'):              # no machine pair: prefill the file reading where one matches, else the shape reading
+            prop=fv.replace(' [?]','') if fv and '?' not in fv else c; cls='n'
+        else: cls='l' if st=='file' else 'g' if st=='agree' and fv and dig(fv)==dig(prop) and '?' not in fv else ('b' if st=='agree' else 'y')
         x0,y0,x1,y1=map(int,it['box600'].split()); cr=pg.crop((x0,y0,x1,y1)).convert('L')
         cr=cr.resize((max(1,cr.width*3//5),max(1,cr.height*3//5)),Image.LANCZOS).point(lambda v:255 if v>150 else 0).convert('1')
         bf=io.BytesIO(); cr.save(bf,'PNG',optimize=True)
@@ -87,7 +90,7 @@ textarea{{width:100%;height:12em;font:14px monospace;background:var(--box);color
 button,select{{font-size:15px;padding:5px 10px}}
 </style></head><body>
 <h2>{TITLE}</h2>
-<p>Each row: the numeral as printed, the proposed reading (edit it if wrong), and what the files say now.
+<p>{'<b>No confidence colours on this page:</b> each box is pre-filled with the current file reading where one was matched, otherwise with the shape reading — please check every row. ' if os.environ.get('NOMACH') else ''}Each row: the numeral as printed, the proposed reading (edit it if wrong), and what the files say now.
 <b style="background:var(--g)">green</b> both machine readers agree and match the file ({n['g']});
 <b style="background:var(--l)">light green</b> one machine reader agrees with the file ({n['l']});
 <b style="background:var(--b)">blue</b> both machine readers agree, the file differs or has [?] ({n['b']});
