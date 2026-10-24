@@ -1673,21 +1673,21 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 ### Printed p. 63  (PDF 81)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 *(Special Topics of Ṛk 5, concluded from p. 62.)* …The Bṛhaddevatā authors also (give the sense of *nakta*):
 
-> तमसु उच्छ्त्यषा नक्तानक्त्येमां हिमबिन्दुभिः [?] ।
-> अपि व्यक्त्यक्ति वर्णेनी नक्तं पूर्वाञ्जेर्लीन भवेत् [?] ॥
+> तम उच्छत्यषा नक्तानक्तीमां हिमबिन्दुभिः ।
+> अपि वाव्यक्तवर्णेति नञ्पूर्वांजेरिदं भवेत् ॥
 
-> *tamasu ucchtyaṣā naktānaktyemāṃ himabindubhiḥ [?] |*
-> *api vyaktyakti varṇenī naktaṃ pūrvāñjerlīna bhavet [?] ‖*
+> *tama ucchatyaṣā naktānaktīmāṃ himabindubhiḥ |*
+> *api vāvyaktavarṇeti nañpūrvāṃjeridaṃ bhavet ‖*
 
 (Bṛ. De. [?]-[?].) They say that night has the synonym *nakta* either because it smears the world with drops of dew, or because its colour is indistinct.
 
-***mā upa dasat.*** *Das* is the negative of a root *das* meaning "to waste away"; "let it not diminish" is the sense — "let it go on without decrease".
+***mā upa dasat.*** *Mā upa dasat* — the prohibitive of the root *das* "to waste away"; "let it not be destroyed", that is, "let it go on unbroken".
 
-**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *śacībhiḥ* (read among the *rājan* words [?], hence ending in *jin*… [?]; accent by *iṣṭī…* [?] (Pā. Sū. 6-1-[?]) final-syllable; instrumental plural), *śacīvasū* (*āmantritasya ca* (Pā. Sū. 8-1-[?]) *nighāta*; vocative dual), *daśasyatam* (root *daśa dāne*, read among the *puṣādi* [?]; Vedic form of the wished-for sense; or the root *daśasya* used in the sense of giving, *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-[?]) *yak* in its own sense; *loṭ* second person dual; *tiṅanta nighāta*), *rātiḥ* (root *rā dāne*; *ktic ktau ca saṃjñāyām* (Pā. Sū. 3-3-[?]) *ktic*; final-syllable accent), *dasat* (root *dasu upakṣaye*; as it is in the *puṣādi* class, *luṅ* third person singular *tip*; *iteś ca lopaḥ*; *puṣādidyutādi…* (Pā. Sū. 3-1-[?]) *aṅ* for *cli*; *na māṅyoge* (Pā. Sū. 6-4-[?]) bars the *āṭ* augment; the word following a non-*tiṅanta*, *nighāta*). ‖ 5 ‖
+**Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly).** *śacībhiḥ* (because it is read in the *śārṅgaravādi* group [?], it ends in *ṅīn*; by *ñnityādir nityam* (Pā. Sū. 6-1-[?]) first-syllable accent; instrumental plural), *śacīvasū* (*āmantritasya ca* (Pā. Sū. 8-1-[?]) *nighāta*; vocative dual), *daśasyatam* (root *dāś dāne*; the wished-for form results from inclusion among the *pṛṣodarādi* words or as a Vedic form; or the root *daśas* used in the sense of giving; *kaṇḍvādi*, *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-[?]) *yak* in its own sense; *loṭ* second person dual; *tiṅanta nighāta*), *rātiḥ* (root *rā dāne*; *ktic ktau ca saṃjñāyām* (Pā. Sū. 3-3-[?]) *ktic*; final-syllable accent), *dasat* (root *dasu upakṣaye*; as it is in the *puṣādi* class, *luṅ* third person singular *tip*; *iteś ca lopaḥ*; *puṣādidyutādi…* (Pā. Sū. 3-1-[?]) *aṅ* for *cli*; *na māṅyoge* (Pā. Sū. 6-4-[?]) bars the *āṭ* augment; the word following a non-*tiṅanta*, *nighāta*). ‖ 5 ‖
 
 #### Ṛk 6
 
