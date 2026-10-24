@@ -2419,27 +2419,27 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 ### Printed p. 91  (PDF 109)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
 > यक्षदग्निर्देवो देवानिति [?] ।
 
-> *yakṣadagnirdevo devāniti [?] |*
+> *yakṣadagnirdevo devāniti |*
 
-(Ai. Brā. 10-[?] [?].) Since it is thus well known, *yakṣat* is understood as "let Agni worship, or perform the sacrifice".
+(Ai. Brā. 10-24.) Since it is thus well known, *yakṣat* is understood as "let Agni worship, or perform the sacrifice".
 
 ***bṛhaspatiḥ.*** *Bṛhato mantrasya haviṣo vā pālakaḥ adhvaryuḥ daivyo bṛhaspatir vā* — the *adhvaryu* who guards the great mantra or the oblation, or the divine Bṛhaspati.
 
-> मारुतैका तत इन्द्राग्न्यनन्तरा बार्हस्पत्या चोत्तमा स्तौति देवान् [?] ।
+> मारुत्येका ततः ऐन्द्राग्न्यनन्तरा बार्हस्पत्या चोत्तमा स्तौति देवान् ।
 
-> *mārutaikā tata indrāgnyanantarā bārhaspatyā cottamā stauti devān [?] |*
+> *mārutyekā tataḥ aindrāgnyanantarā bārhaspatyā cottamā stauti devān |*
 
-(Bṛ. De. [?]-[?]) The Bṛhaddevatā author says this Ṛk is a Bārhaspatya Ṛk (addressed to Bṛhaspati). Since Bṛhaspati is the deity of this Ṛk, the word *bṛhaspati* may be taken here to mean the deity; Sāyaṇa also takes it as *adhvaryu*. As Bṛhaspati too is the priest of the gods, the sense may apply to him as well.
+(Bṛ. De. 4-[?]) The Bṛhaddevatā author says this Ṛk is a Bārhaspatya Ṛk (addressed to Bṛhaspati). Since Bṛhaspati is the deity of this Ṛk, the word *bṛhaspati* may be taken here to mean the deity; Sāyaṇa also takes it as *adhvaryu*. As Bṛhaspati too is the priest of the gods, the sense may apply to him as well.
 
 ***ukṣabhiḥ yajati.*** "He performs the sacrifice with the sprinkling Soma juice (with libation of the juice)." The word *ukṣabhiḥ* is repeated; the first means "with Soma juice", the second "with water".
 
-***adreḥ ślokaṃ jagṛbhma.*** "We hear the sound of the stone that presses the Soma." As said in बृहस्पतिस्त्वा श्लोकेन [?] (*bṛhaspatistvā ślokena [?]*) (Tai. Saṃ. 1-[?]-[?]), since Bṛhaspati presses with stones, that sound is called *śloka*. *Śloka* here is to be understood as the sound born of the stones. Earlier the difference between the two instruments, *adri* and *grāvan*, was shown. For the most part the word *ślokam* is used with the sense "sound" in company with the word *adri*, and shows the distinctive character of the word *adri*.
+***adreḥ ślokaṃ jagṛbhma.*** "We hear the sound of the stone that presses the Soma." As said in बृहस्पतिसुतस्य (*bṛhaspatisutasya*) (Tai. Saṃ. 1-4-22), since Bṛhaspati presses with stones, that sound is called *śloka*. *Śloka* here is to be understood as the sound born of the stones. Earlier the difference between the two instruments, *adri* and *grāvan*, was shown. For the most part the word *ślokam* is used with the sense "sound" in company with the word *adri*, and shows the distinctive character of the word *adri*.
 
-***arariṇdāni.*** The word *arariṇda* is read among the names of water (Nighaṇṭu 1-[?]-[?]); its derivation can be given in two or three ways. *Nāsya nyo rarir pipāsopaśamanasya tādṛśaṃ pipāsopaśamanaṃ dadātīty arariṇdāni* [?] — "there is nothing else like this for quenching thirst; because it gives such relief it is *arariṇda*"; or *arariḥ ity etasya gamanam* … *tadvad etīty arariṇdāni; udakāni ceṣṭāpradānīty arthaḥ* [?] — because water gives the power of moving from place to place, water is called *arariṇda*. Sāyaṇa, relying on the Upaniṣad sentence अपोमयः प्राणः [?] (*apomayaḥ prāṇaḥ [?]*) (Chā. Up. 6-[?]-[?]) "life is made of water", says the second sense is right, since water is itself life. He also gives another explanation … *anyebhyaḥ* … (continues on p. 92).
+***arariṇdāni.*** The word *arariṇda* is read among the names of water (Nighaṇṭu 1-12-[?]); its derivation can be given in two or three ways. *nāsty anyo rarir asya pipāsopaśamanasya tādṛśaṃ pipāsopaśamanaṃ dadātīty arariṇdāni* — "there is nothing else like this for quenching thirst; because it gives such relief it is *arariṇda*"; or *arariḥ iter etaś ca gamanaṃ | tadvad etīty arariṇdāni udakāni ceṣṭāpradānīty arthaḥ* — because water gives the power of moving from place to place, water is called *arariṇda*. Sāyaṇa, relying on the Upaniṣad sentence आपोमयः प्राणः (*āpomayaḥ prāṇaḥ*) (Chā. Up. 6-5-4) "life is made of water", says the second sense is right, since water is itself life. Besides these, he also gives another explanation: *rarir dānaṃ | na vidyate tādṛśaṃ dānam itarabhūteṣu tad arari | taddadatīty arariṇdāni | anyair adeyaṃ lokopakāri …* (continues on p. 92).
 
 ---
 
