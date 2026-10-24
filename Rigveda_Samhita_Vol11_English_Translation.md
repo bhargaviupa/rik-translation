@@ -2361,18 +2361,18 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Grammar of Ṛk 9, concluded; noted briefly.)* *viduḥ* (root *vida jñāne*; *laṭ* third person plural; *vido laṭo vā* (Pā. Sū. 3-4-[?]) gives *jhi* → *us*; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; the *s* of the suffix to *ru*, *visarga*; as a *tiṅanta* follows a non-*tiṅanta*, *nighāta*), *manuḥ* (a *jas* follows; *supāṃ sulak…* (Pā. Sū. 7-1-[?]) gives *luk* to it), *mahi* (root *maha pūjāyām*; the Auṇādika suffix *iṇ*; by being *nit*, first-syllable accent by *ñnityādir nityam* (Pā. Sū. 6-1-[?])), *name* (root *ṇama prahvatve śabde ca*; *vyatyayo bahulam* (Pā. Sū. 3-1-[?]) makes it *ātmanepada*; *laṭ* first person singular *iṭ*; *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-[?]) *e* for *ṭi*; with *śap*, *pararūpa*; *ṇo naḥ* gives *na* for the root's initial; as a *tiṅanta* follows, *nighāta*), *girā* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?]) *udātta* on the case-ending), *indrāgnī* (*indraś ca agniś ca*; though *ānaṅ* is prescribed where the pair is well known, it does not occur here; *samāsasya* (Pā. Sū. 6-1-[?]) final accent; since *agni* begins with an *anudātta*, *notarapade 'nudāttādau* (Pā. Sū. 6-2-[?]) bars it and *devatādvandve ca* (Pā. Sū. 6-2-[?]) does not give the both-members accent; dual). ‖ 9 ‖
+*(Grammar of Ṛk 9, concluded; noted briefly.)* *viduḥ* (root *vida jñāne*; *laṭ* third person plural; *vido laṭo vā* (Pā. Sū. 3-4-[?]) gives *jhi* → *us*; *ādiprabhṛtibhyaḥ śapaḥ* drops *śap*; the *s* of the suffix to *ru*, *visarga*; as a *tiṅanta* follows a non-*tiṅanta*, *nighāta*), *manuḥ* (a *jas* follows; *supāṃ sulak…* (Pā. Sū. 7-1-[?]) gives *luk* to it), *mahi* (root *maha pūjāyām*; the Auṇādika suffix *in*; by being *nit*, first-syllable accent by *ñnityādir nityam* (Pā. Sū. 6-1-[?])), *name* (root *ṇama prahvatve śabde ca*; *vyatyayo bahulam* (Pā. Sū. 3-1-[?]) makes it *ātmanepada*; *laṭ* first person singular *iṭ*; *ṭita ātmanepadānāṃ ṭere* (Pā. Sū. 3-4-[?]) *e* for *ṭi*; with *śap*, *pararūpa*; *ṇo naḥ* gives *na* for the root's initial; as a *tiṅanta* follows, *nighāta*), *girā* (*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-[?]) *udātta* on the case-ending), *indrāgnī* (*indraś ca agniś ca*; though *ānaṅ* is prescribed where the pair is well known, it does not occur here; *samāsasya* (Pā. Sū. 6-1-[?]) final accent; since *agni* begins with an *anudātta*, *notarapade 'nudāttādau* (Pā. Sū. 6-2-[?]) bars it and *devatādvandve ca* (Pā. Sū. 6-2-[?]) does not give the both-members accent; dual). ‖ 9 ‖
 
 #### Ṛk 10
 
 **॥ संहितापाठः ॥**
 
 > होता यक्षद्वनिनो वन्त वार्यं बृहस्पतिर्यजति वेन उक्षभिः पुरुवारेभिरुक्षभिः ।
-> जगृभ्म दूरआदिशं श्लोकमद्रेरध त्मना ।
+> जगृभ्मा दूरआदिशं श्लोकमद्रेरध त्मना ।
 > अधारयदररिन्दानि सुक्रतुः पुरू सद्मानि सुक्रतुः ॥ १० ॥
 
 > *hotā yakṣadvanino vanta vāryaṃ bṛhaspatiryajati vena ukṣabhiḥ puruvārebhirukṣabhiḥ |*
-> *jagṛbhma dūraādiśaṃ ślokamadreradha tmanā |*
+> *jagṛbhmā dūraādiśaṃ ślokamadreradha tmanā |*
 > *adhārayadararindāni sukratuḥ purū sadmāni sukratuḥ ‖ 10 ‖*
 
 ### Printed p. 89  (PDF 107)
