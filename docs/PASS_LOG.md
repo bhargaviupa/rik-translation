@@ -92,3 +92,4 @@
 2026-10-24 08:45 PDF 132-132: remaining [?] EN 1, KN 0. Śatapatha quote re-read; refs Ai. 1-16, Muṇḍaka 1-2-4,5; paragraph cut at page break
 2026-10-24 08:45 PDF 133-133: remaining [?] EN 6, KN 2. grammar page re-read; numbers read from print without zoom (3-2-168, 8-2-4, 3-1-8, 6-1-173, 3-2-76, 7-1-50, 6-2-172, U. 1-53, 6-1-163) — to be spot-checked; page-break tail moved
 2026-10-24 08:46 PDF 134-134: remaining [?] EN 3, KN 2. Ṛk 5 bhāṣya re-transcribed (vṛthā saheva īrate; abhibhavad-gamana-mārgam [?]); tṛtīyā karmaṇi 6-2-48
+2026-10-24 08:46 PDF 135-135: remaining [?] EN 0, KN 4. Pratipadārtha line fixed; Ṛ. refs 1-58-4, 1-88-6 read from print without zoom
