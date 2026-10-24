@@ -2401,21 +2401,21 @@ Atri's nature is not only physical radiance; it is spiritual radiance too, as th
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Bhāṣya of Ṛk 10, concluded; small type, partly read.)*
+*(Bhāṣya of Ṛk 10, concluded; small type.)*
 
-> यद्वा । बृहस्पतिः सुक्रतुः शोभनप्रज्ञः [?] … अररिन्दान्युदकानि [?] लक्षणान्यभिषवसाधनानि … काष्ठादि [?] धारयत् । धारितवान् । तथा सुक्रतुः शोभनप्रज्ञः पुरु सद्मानि [?] … आसादनान्यधारयत् [?] ॥
+> यद्वा । बृहस्पतिः सुक्रतुश्चायमध्वर्युरररिन्दान्युक्तलक्षणान्यभिषवसाधनान्युदकान्यधारयत् । धारितवान् । तथा सुक्रतुः शोभनप्रज्ञः पुरु सद्मानि सदनानि हविरासादनान्यधारयत् ॥
 
-> *yadvā | bṛhaspatiḥ sukratuḥ śobhanaprajñaḥ [?] … ararindānyudakāni [?] lakṣaṇānyabhiṣavasādhanāni … kāṣṭhādi [?] dhārayat | dhāritavān | tathā sukratuḥ śobhanaprajñaḥ puru sadmāni [?] … āsādanānyadhārayat [?] ‖*
+> *yadvā | bṛhaspatiḥ sukratuścāyamadhvaryurararindānyuktalakṣaṇānyabhiṣavasādhanānyudakānyadhārayat | dhāritavān | tathā sukratuḥ śobhanaprajñaḥ puru sadmāni sadanāni havirāsādanānyadhārayat ‖*
 
 **Pratipadārtha (Kannada).** *hotā* — Agni, the sacrificer of the gods, or the human *hotṛ* priest; *yakṣat* — let him recite the sacrificial mantra; *vaninaḥ* — those who desire the oblation; *vāryam* — the desired (oblation); *vanta* — let them take; *bṛhaspatiḥ* — Bṛhaspati, the priest of the gods, or the *adhvaryu*; *venaḥ* — desiring (the sacrificial oblation); *ukṣabhiḥ* — with the Soma juices that sprinkle (and likewise); *puruvārebhiḥ* — chosen by many; *ukṣabhiḥ* — with the waters able to sprinkle; *yajati* — performs the sacrifice; (*vayam* — we sacrificers) *dūra ādiśam* — heard from afar; *adreḥ* — of the stones that press the Soma; *ślokam* — the sound; *jagṛbhma* — we hear; *sukratuḥ* — the sacrificer, doer of excellent rites; *adha* — after the sacrifice is complete; *arariṃdāni* — waters in the form of rain; *tmanā* — in himself; *adhārayat* — has obtained; *sukratuḥ* — the same sacrificer; *sadmāni* — comfortable houses; *puru* — in abundance (has obtained).
 
-**Bhāvārtha.** Let the *hotṛ* recite the sacrificial mantra; let those who desire the offering partake of the desired nectar [Soma]. The *adhvaryu*, desiring the sacrificial oblation, performs the sacrifice with Soma juices that sprinkle and are wished by many, and with pure waters. We sacrificers hear from very far the sound of the stones that press the Soma, falling on our ears. The sacrificer who does excellent rites, after the sacrifice is complete, will have obtained waters in the form of rain and comfortable houses.
+**Bhāvārtha.** Let the *hotṛ* recite the sacrificial mantra; let those who desire the offering partake of the desired Soma. The *adhvaryu*, desiring the sacrificial oblation, performs the sacrifice with Soma juices that sprinkle and are wished by many, and with pure waters. We sacrificers hear from very far the sound of the stones that press the Soma, falling on our ears. The sacrificer who does excellent rites, after the sacrifice is complete, will have obtained waters in the form of rain and comfortable houses.
 
 **English Translation (as printed).** Let the invoker (of the gods) offer sacrifice, and may they, desirous of the offering, (partake of) the acceptable (libation): Brihaspati himself, desiring (libation), celebrates worship with libations; with copious and excellent libations. We catch from a distant quarter the sound of the stones, whereby the performer of pious acts has of himself secured the waters (of the clouds): the performer of pious acts (has secured) many habitations.
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***hotā.*** *Daivyo 'gnir mānuṣo vā devānām āhvātā* — "the divine Agni or the human *hotṛ*, who calls the gods" — whether the human *hotṛ*, who invites the gods, or Agni; *yakṣat*: let him recite the sacrificial mantra, or recite the praise (*āhva* [?]) (continued on p. 91).
+***hotā.*** *Daivyo 'gnir mānuṣo vā devānām āhvātā* — "the divine Agni or the human *hotṛ*, who calls the gods" — whether the human *hotṛ*, who invites the gods, or Agni; *yakṣat*: let him recite the sacrificial mantra, or recite the invoking praise (continued on p. 91).
 
 ### Printed p. 91  (PDF 109)
 
