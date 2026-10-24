@@ -41,3 +41,4 @@
 2026-10-24 05:31 PDF 79-79: remaining [?] EN 2, KN 1. after: EN 17 → 1, KN 8 → 1; bhāṣya block re-transcribed from print (hence the drop); Varga 3; one doubtful word padbhyāṃ
 2026-10-24 05:34 PDF 80-80: remaining [?] EN 7, KN 4. after: EN 33 → 7, KN 22 → 4; Taittirīya Saṃhitā quote re-read; nakta quote avaśyāyenāpi; numerals read at low priority; open: first word of Śa. Brā. quote, nyeti, śagṃsati, Tai. ref last digit
 2026-10-24 05:38 PDF 81-81: remaining [?] EN 9, KN 9. after: EN 17 → 9, KN 10 → 9; remaining are numerals (left per instruction) plus śārṅgaravādi; Bṛhaddevatā verse re-read; header Varga 4; grammar glosses corrected (dāś, pṛṣodarādi, ñnityādir nityam)
+2026-10-24 05:39 PDF 82-82: remaining [?] EN 4, KN 2. after: bhāṣya of Ṛk 6 re-transcribed from the print (file text differed substantially); Saṃhitā lines 3-4 moved from p. 63 to p. 64; Pada 'tubhyaṃ'; numerals left
