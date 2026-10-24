@@ -1481,7 +1481,7 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-**Pratipadārtha (Kannada).** *dasrā* — O Aśvins; *acheti* — (your purpose) is made known (*acheti* means "it is known"); *nākam* — towards the heaven; *vi ṛṇvathaḥ* — you go; *diviṣṭiṣu* — (to the world of heaven) in the journeys heavenward, or in the sacrifice; *u* — ; *adhvasmānaḥ* — (not injured, i.e. unhurt) the horses; *vām* — your; *rathayujaḥ* — the charioteers; *diviṣṭiṣu* — for travelling to heaven; *yuñjate* — (harnessing the horses) fasten them to the chariot; *dasrā* — O Aśvins; *pātheva* — as on a road; *yantau* — going; *anuśāsatā* — punishing the foes; *rajaḥ* — to the heaven; *yantau* — going; *rajaḥ* — the water of the sky; *añjasā* — straightly; *śāsatā* — those who make [?] rain; *vām* — you; *bandhure* — with the three-shafted [?] and well-made; *hiraṇyaye* — golden; *rathe* — in the chariot; *adhi sthāma* — we place [you / mount] …
+**Pratipadārtha (Kannada).** *dasrā* — O Aśvins; *acheti* — (your purpose) is made known (*acheti* means "it is known"); *nākam* — towards the heaven; *vi ṛṇvathaḥ* — you go; *diviṣṭiṣu* — (to the world of heaven) in the journeys heavenward, or in the sacrifice; *u* — ; *adhvasmānaḥ* — (not injured, i.e. unhurt) the horses; *vām* — your; *rathayujaḥ* — the charioteers; *diviṣṭiṣu* — for travelling to heaven; *yuñjate* — (harnessing the horses) fasten them to the chariot; *dasrā* — O Aśvins; *pātheva* — as on a road; *yantau* — going; *anuśāsatā* — punishing the foes; *rajaḥ* — to the heaven; *yantau* — going; *rajaḥ* — the water of the sky; *añjasā* — straightly; *śāsatā* — those who make (the rain) fall; *vām* — you; *bandhure* — with the three-shafted [car] and well-made; *hiraṇyaye* — golden; *rathe* — in the chariot; *adhi sthāma* — we place [you / mount] …
 
 **Bhāvārtha.** O Aśvins, we make known your purpose: you are willing to go towards heaven. Unsupported in the sky, your charioteers yoke the car to the horses for your journey to heaven; and you, going by the excellent road, punishing the foes and sending the rain, we place you in your golden, three-shafted car.
 
@@ -1489,57 +1489,57 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-***nākam; ṛṇvathaḥ.*** *Nākaṃ svargaṃ svargalokam* — "to the world of heaven; *ṛṇvathaḥ* you go and reach"; or *nākam* — "you come towards the sacrifice and reach it": Sāyaṇa has given two senses of *nāka*. That *nāka* means "sacrifice" by derivation of the word is seen to be a traditional sense; "heaven" is the sense in more common use. The word is also used as a synonym of the sun. The Nirukta-author classes the word among the *sādhāraṇa* ("common") names, and, explaining its sense as common, says *sādhāraṇāny uttarāṇi ṣaṭ dinasthādityaś ca* [?] … *dyuloke kyo…* (continues on p. 57).
+***nākam; ṛṇvathaḥ.*** *Nākaṃ svargaṃ svargalokam* — "to the world of heaven; *ṛṇvathaḥ* you go and reach"; or *nākam* — "you come towards the sacrifice and reach it": Sāyaṇa has given two senses of *nāka*. That *nāka* means "sacrifice" by derivation of the word is seen to be a traditional sense; "heaven" is the sense in more common use. The word is also used as a synonym of the sun. The Nirukta-author classes the word among six *sādhāraṇa* ("common") names (the digit "6" is printed), and, explaining its sense as common, says *sādhāraṇāny uttarāṇi ṣaṭ divaś cādityasya ca* — "the six that follow are common (to heaven and to the sun)"; for the world of heaven too … (continues on p. 57).
 
 ---
 
 ### Printed p. 57  (PDF 75)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 3.)*
 
-*(Special Topics of Ṛk 4, continued from p. 56.)* …and says that these are common synonyms also of the sun (Ni. [?]-[?]). Then, giving the derivation of the word: *nāka ādityo bhavati — netā bhāsāṃ jyotiṣāṃ praṇayaḥ* (Ni. [?]-[?]) — "*nāka* is the sun, the leader of lights, of radiances"; *ka* is a name for happiness, *a-ka* its absence, and *nāka* what is without the absence of happiness: "that which is free from unhappiness" is the sense. He then cites the passage
+*(Special Topics of Ṛk 4, continued from p. 56.)* …and says that these are common synonyms also of the sun (Ni. 2-13). Then, giving the derivation of the word: *nāka ādityo bhavati — netā rasānām | netā bhāsāṃ jyotiṣāṃ praṇayaḥ* (Ni. 2-14) — the sun, the carrier of sap and the carrier of light, is named *nāka*, which shows it to be a synonym of the sun; then *atha dyauḥ kam iti sukhanāma, tat pratiṣiddhaṃ pratiṣidhyete* — *ka* is a name for happiness, *a-ka* its absence, i.e. the absence of the absence of happiness: "that which is free from unhappiness" is the sense. He then cites the passage
 
-> न वा अमुं लोकं जग्मुषे किञ्च नाकम् [?] ।
+> न वा अमुं लोकं जग्मुषे किञ्च नाकं ।
 
-> *na vā amuṃ lokaṃ jagmuṣe kiñca nākam [?] |*
+> *na vā amuṃ lokaṃ jagmuṣe kiñca nākaṃ |*
 
-(Kāṭhaka Saṃ. [?]-[?]) and the sentence *na vā amuṃ lokaṃ gacchate kiñca nāsukhaṃ, puṇyakṛto hy eva tatra gacchanti* [?] — "no unhappiness goes to that world; only doers of good go there" — to show the meaning of *nāka*. In the Ṛksaṃhitā this word is used in some places as a synonym of the sun, in others of heaven:
+(Kāṭhaka Saṃ. 11-2) and the sentence *na vā amuṃ lokaṃ gatavate kiñca nāsukhaṃ, puṇyakṛto hy eva tatra gacchanti* — "to one who has gone to that world there is no unhappiness; only doers of good go there" — to show the meaning of *nāka*. In the Ṛksaṃhitā this word is used in some places as a synonym of the sun, in others of heaven:
 
 > तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितम् ।
 
 > *tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitam |*
 
-(Ṛ. Saṃ. 1-34-8 [?].)
+(Ṛ. Saṃ. 1-34-8.)
 
 > ये नाकस्याधि रोचने दिवि देवास आसते ।
 
 > *ye nākasyādhi rocane divi devāsa āsate |*
 
-(Ṛ. Saṃ. 1-19-6 [?].) In such Ṛks it is a synonym of the sun;
+(Ṛ. Saṃ. 1-19-6.) In such Ṛks it is a synonym of the sun;
 
-> त्वे वर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः [?] ।
+> त्वे वर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः ।
 
-> *tve vardhanta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ [?] |*
+> *tve vardhanta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ |*
 
-(Ṛ. Saṃ. 1-[?]-[?].)
+(Ṛ. Saṃ. 1-85-2.)
 
 > ते ह नाकं महिमानः सचन्त यत्र पूर्वे साध्याः सन्ति देवाः ।
 
 > *te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ |*
 
-(Ṛ. Saṃ. 10-90-16 [?].) In such Ṛks it is also a synonym of heaven;
+(Ṛ. Saṃ. 1-164-30, as printed.) In such Ṛks it is also a synonym of heaven;
 
-> वृषैव कपिलो भूत्वा यन्नाकमधिरोहति [?] ।
+> वृषैव कपिलो भूत्वा यन्नाकमधिरोहति ।
 
-> *vṛṣaiva kapilo bhūtvā yannākamadhirohati [?] |*
+> *vṛṣaiva kapilo bhūtvā yannākamadhirohati |*
 
-(Bṛ. De. [?]-[?]) in this Bṛhaddevatā sentence it is plainly the sky (*antarikṣa*) [?];
+(Bṛ. De. 2-66) in this Bṛhaddevatā sentence it is plainly the sky (*antarikṣa*);
 
-> इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकम् [?] ।
+> इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकं ।
 
-> *ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokam [?] |*
+> *ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokaṃ |*
 
-(Chā. Up. [?]-[?]-[?] [?].) In this Chāndogya Upaniṣad sentence the world of heaven, free from sorrow, is said to be beyond the sun's world. In the Śatapatha Brāhmaṇa and the Taittirīya Upaniṣad the name *Nāka* is also famous for the knower of Brahman, Mudgalaputra [?]; the sense is "free from sorrow".
+(Chā. Up. 2-10-3.) In this Chāndogya Upaniṣad sentence the world of heaven, free from sorrow, is said to be beyond the sun's world. In the Śatapatha Brāhmaṇa and the Taittirīya Upaniṣad the name *Nāka* is also famous for the knower of Brahman, Mudgalaputra; the sense is "free from sorrow".
 
 ### Printed p. 58  (PDF 76)
 
