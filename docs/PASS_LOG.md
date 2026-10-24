@@ -71,3 +71,4 @@
 2026-10-24 06:14 PDF 109-110: remaining [?] EN 12, KN 11. PDF 109–110: quotes and grammar notes corrected; remaining are numerals
 2026-10-24 06:15 PDF 111-111: remaining [?] EN 6, KN 5. grammar page re-read (ghañ, jagṛbhma sūtra, ararindāni etymologies)
 2026-10-24 06:15 PDF 111-112: remaining [?] EN 8, KN 6. Ṛk 11 bhāṣya re-transcribed in full from print (was partial, with gaps); remaining: Āśvalāyana numerals
+2026-10-24 06:15 PDF 113-113: remaining [?] EN 6, KN 6. Nirukta quotes re-read (tisra eva devatā; athāto 'nukramiṣyāmaḥ); Sāyaṇa quote restored; Āśvalāyana sūtra word still doubtful
