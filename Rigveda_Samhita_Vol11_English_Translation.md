@@ -1925,9 +1925,9 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 ### Printed p. 73  (PDF 91)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 4.)*
 
-**Vyākaraṇa-prakriyā (Ṛk 7, continued; noted briefly).** *adattana* (root *dudāñ dāne*; *laṅ* second person plural; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-[?]) with the Vedic *tana*; as *yad* is connected, *nighāta* is barred by *nipātair yadyadi…* (Pā. Sū. 8-1-[?]); the *aḍāgama* is *udātta*, so first-syllable accent), *duhre* (root *duha prapūraṇe*; *laṭ* third person singular, *ta*; *liṭastajhayor eśirec* (Pā. Sū. 3-4-[?]) *irec*; *bahulaṃ chandasi*…; as a *tiṅanta* follows, *nighāta*), *kartarī* (root *ḍukṛñ karaṇe*; *tṛc* in the agent sense; *guṇa*; locative singular *ṅi*; *ṛto ṅisarvanāmasthānayoḥ* [?] gives *guṇa* with *r*; *tṛc* is *cit*: final-syllable accent), *sacā* (root *saca samavāye*; *dhātvādeḥ ṣaḥ saḥ*; *kvip* by *kvip ca*; *supāṃ sulak…* gives *ā*), *vede* (root *vida jñāne*; *laṭ* third person singular; *vido laṭo vā* (Pā. Sū. 3-4-[?]) *ṇal*-substitution; *pugantalaghūpadhasya ca* guṇa; *tiṅanta nighāta*). ‖ 7 ‖
+**Vyākaraṇa-prakriyā (Ṛk 7, continued; noted briefly).** *adattana* (root *dudāñ dāne*; *laṅ* second person plural; *taptanaptanathanāś ca* (Pā. Sū. [?]) gives the substitute *tana*; as *yad* is connected, *nighāta* is barred by *nipātair yadyadi…* (Pā. Sū. 8-1-[?]); the *aḍāgama* is *udātta*, so first-syllable accent), *duhre* (root *duha prapūraṇe*; *liṭ* third person singular, *ta*; *liṭas tajhayor eśirec* (Pā. Sū. 3-4-[?]) gives the *eś* substitute; *bahulaṃ chandasi* gives the *ruṭ* augment; *chandasi vā vacanam* means the root does not take reduplication and the like on account of *liṭ*; or, when *ta* comes in the *laṭ* itself, its *t* is dropped by *lopas ta ātmanepadeṣu* (Pā. Sū. 7-1-[?]); *ādiprabhṛtibhyaḥ śapaḥ* gives *luk* of *śap*; as a *tiṅanta* follows, *nighāta*), *kartarī* (root *ḍukṛñ karaṇe*; *tṛc* in the agent sense; *guṇa*; locative singular *ṅi*; *ṛto ṅisarvanāmasthānayoḥ* gives *guṇa* with *r*; *tṛc* is *cit*: final-syllable accent), *sacā* (root *saca samavāye*; *dhātvādeḥ ṣaḥ saḥ*; *kvip* by *kvip ca*; *supāṃ sulak…* gives *ā*), *vede* (root *vida jñāne*; *laṭ* third person singular; *vido laṭo vā* (Pā. Sū. 3-4-[?]) *ṇal*-substitution; *pugantalaghūpadhasya ca* guṇa; *tiṅanta nighāta*). ‖ 7 ‖
 
 #### Ṛk 8
 
@@ -1935,11 +1935,11 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 > मो षु वो अस्मदभि तानि पौंस्या सना भूवन्द्युम्नानि मोत जारिषुरस्मत्पुरोत जारिषुः ।
 > यद्वश्चित्रं युगेयुगे नव्यं घोषादमर्त्यम् ।
-> अस्मासु तन्मरुतो यच्च दुष्टरं दिद्धृता यच्च दुष्टरम् ॥ ८ ॥
+> अस्मासु तन्मरुतो यच्च दुष्टरं दिद्धृता यच्च दुष्टरं ॥ ८ ॥
 
 > *mo ṣu vo asmadabhi tāni pauṃsyā sanā bhūvandyumnāni mota jāriṣurasmatpurota jāriṣuḥ |*
-> *yadvaścitraṃ yugeyuge navyaṃ ghoṣādamartyam |*
-> *asmāsu tanmaruto yacca duṣṭaraṃ diddhṛtā yacca duṣṭaram ‖ 8 ‖*
+> *yadvaścitraṃ yugeyuge navyaṃ ghoṣādamartyaṃ |*
+> *asmāsu tanmaruto yacca duṣṭaraṃ diddhṛtā yacca duṣṭaraṃ ‖ 8 ‖*
 
 ### Printed p. 74  (PDF 92)
 

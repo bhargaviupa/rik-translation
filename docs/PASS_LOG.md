@@ -49,3 +49,4 @@
 2026-10-24 05:58 PDF 88-88: remaining [?] EN 10, KN 8. after: EN 13 → 10, KN 9 → 8; remaining are numerals; Śa. Brā. quote corrected to 'agnir eva devānāṃ dūta āsa'; prasthitayājyā
 2026-10-24 05:59 PDF 89-89: remaining [?] EN 10, KN 9. after: EN 15 → 10, KN 12 → 9; remaining are numerals; Aitareya quote and kāmadughāṃ corrected
 2026-10-24 05:59 PDF 90-90: remaining [?] EN 11, KN 10. after: non-numeral fixes (Aitareya quote āsaṃs; īdṛśo dhenus…; hi-lopa sūtra name)
+2026-10-24 06:03 PDF 91-91: remaining [?] EN 5, KN 6. non-numeral fixes: duhre note re-read (liṭ, eś, ruṭ), taptanaptanathanāś ca, Saṃhitā anusvāra, Varga 4
