@@ -94,3 +94,4 @@
 2026-10-24 08:46 PDF 134-134: remaining [?] EN 3, KN 2. Ṛk 5 bhāṣya re-transcribed (vṛthā saheva īrate; abhibhavad-gamana-mārgam [?]); tṛtīyā karmaṇi 6-2-48
 2026-10-24 08:46 PDF 135-135: remaining [?] EN 0, KN 4. Pratipadārtha line fixed; Ṛ. refs 1-58-4, 1-88-6 read from print without zoom
 2026-10-24 08:48 PDF 136-136: remaining [?] EN 16, KN 12. Bhāṣya ‘tvadīyam’, intro and closing wording fixed; numerals left
+2026-10-24 08:49 PDF 137-137: remaining [?] EN 16, KN 10. Śatapatha and Ṛk quotations re-read from print, Varga 5, sat/duṣṭa śakti fixed; numerals left

@@ -3105,33 +3105,39 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ### Printed p. 119  (PDF 137)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
 
-…one learns the root sense by noting the word *abhva* used in the Śatapatha Brāhmaṇa:
+…one learns this root sense by noting the word *abhva* used in the Śatapatha Brāhmaṇa:
 
-> अथ ब्रह्मैव परमेष्ठी भवति । तत्परार्धं गच्छेदिति । कथं स्विमान्लोकान्स्त्रैवेयो [?] मिति तद्ध वै मेव प्रत्यक्षेणैव नाम्ना चैव [?] स यस्य कस्य च नामास्ति तन्नाम यस्यो हि नाम नास्ति यद्वेद रूपेदग्ं रूपमिति तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च । ते हैते ब्रह्मणो महती अभ्वे । स यो हैते ब्रह्मणो महती अभ्वे वेद महद्धैवाभ्वं भवति [?] ।
+> अथ ब्रह्मैव परार्धमगच्छत् । तत्परार्धं गच्छैक्षत कथं न्विमान्लोकान्स्प्रत्यैवेयोमिति [?] तद्द्वाभ्यामेव प्रत्यैवैद्रूपेण चैव नाम्ना च स यस्य कस्य च नामास्ति तन्नाम यस्योऽपि नाम नास्ति यद्वेद रूपेणेदग्ं रूपमिति तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च । ते हैते ब्रह्मणो महती अभ्वे । स यो हैते ब्रह्मणो महती अभ्वे वेद महद्धैवाभ्वं भवति ।
 
-> *atha brahmaiva parameṣṭhī bhavati | tatparārdhaṃ gacchediti | kathaṃ svimānlokānstraiveyo [?] miti taddha vai meva pratyakṣeṇaiva nāmnā caiva [?] sa yasya kasya ca nāmāsti tannāma yasyo hi nāma nāsti yadveda rūpedagṃ rūpamiti tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca | te haite brahmaṇo mahatī abhve | sa yo haite brahmaṇo mahatī abhve veda mahaddhaivābhvaṃ bhavati [?] |*
+> *atha brahmaiva parārdhamagacchat | tatparārdhaṃ gacchaikṣata kathaṃ nvimānlokānspratyaiveyomiti [?] taddvābhyāmeva pratyaivaidrūpeṇa caiva nāmnā ca sa yasya kasya ca nāmāsti tannāma yasyo 'pi nāma nāsti yadveda rūpeṇedagṃ rūpamiti tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca | te haite brahmaṇo mahatī abhve | sa yo haite brahmaṇo mahatī abhve veda mahaddhaivābhvaṃ bhavati |*
 
-(Śa. Brā. 11-[?]-[?]-[?] [?].) In these sentences name and form are called the two great *abhva*s of Brahman [here it is shown that *abhva* and *yakṣa* have one sense]. The *abhva* of Brahman is of two kinds, concrete (*mūrta*) and abstract (*amūrta*): that is, Brahman's great powers are of two kinds, concrete power and abstract power, and they pervade the universe. From this root sense these meanings come about. In this way the pervading sense, as a wide sense.
+(Śa. Brā. 11-[?]-[?]-[?] [?].) In these sentences name and form are called the two great *abhva*s of Brahman [here it is shown that *abhva* and *yakṣa* have one sense]. The *abhva* of Brahman is of two kinds, concrete (*mūrta*) and abstract (*amūrta*): that is, Brahman's great powers are of two kinds, concrete power and abstract power, and they pervade the universe. From this root sense the remaining meanings come about. In this way the pervading sense of *abhva*, as the all-pervading sense of the world made of concrete and abstract forms.
 
-> उदू अयाँ उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका । दिवो रोहांस्यरुहत्पृथिव्या अरीरमत्पतयत्कच्चिदभ्वम् [?] ।
+> उदू अया उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका ।
+> दिवो रोहांस्यरुहत्पृथिव्या अरीरमत्पतयत्कच्चिदभ्वं ॥
 
-> *udū ayā~ upavakteva bāhū hiraṇyayā savitā supratīkā | divo rohāṃsyaruhatpṛthivyā arīramatpatayatkaccidabhvam [?] |*
+> *udū ayā upavakteva bāhū hiraṇyayā savitā supratīkā |*
+> *divo rohāṃsyaruhatpṛthivyā arīramatpatayatkaccidabhvaṃ ‖*
 
-(Ṛ. Saṃ. 6-71-[?] [?].) The sense is contained in the word *abhva* in this Ṛk. Explaining it, Sāyaṇa says *abhvam mahat sarvaṃ vastujātam*, giving its wide sense. In some places the pervading power of being, and in other places the concrete power, is indicated. The word is used in the Ṛksaṃhitā in both senses. For example:
+(Ṛ. Saṃ. 6-71-[?] [?].) The sense is contained in the word *abhva* in this Ṛk. Explaining it, Sāyaṇa says *abhvam mahat sarvaṃ vastujātam*, giving its wide sense. In some places the pervading power of the good (*sat*) and in other places the power of the evil (*duṣṭa*) is indicated. The word is used in the Ṛksaṃhitā in both senses. For example:
 
-> प्र यो वसुभ्य आ इदा नमो दुर्यो मित्रे वरुणे सूक्तवाचः । अव्येभ्यः कृणुता वरीयो दिवस्पृथिव्योरवसा मदेम [?] ।
+> प्र यो वसुभ्य ईवदा नमो दुर्ये मित्रे वरुणे सूक्तवाचः ।
+> अव्येत्वभ्वं [?] कृणुता वरीयो दिवस्पृथिव्योरवसा मदेम ॥
 
-> *pra yo vasubhya ā idā namo duryo mitre varuṇe sūktavācaḥ | avyebhyaḥ kṛṇutā varīyo divaspṛthivyoravasā madema [?] |*
+> *pra yo vasubhya īvadā namo durye mitre varuṇe sūktavācaḥ |*
+> *avyetvabhvaṃ [?] kṛṇutā varīyo divaspṛthivyoravasā madema ‖*
 
-(Ṛ. Saṃ. 3-[?]-[?] [?].) Here *abhvam mahad dhanaṃ tejo vā* — great radiance, power; and
+(Ṛ. Saṃ. 3-[?]-[?] [?].) Here *abhvam mahad dhanaṃ tejo vā* — great radiance and power; and
 
-> द्यावो न यस्य सनयन्त्यभ्वं भासांसि वस्ते सूर्यो न शुक्रः । वि य इणोत्यजरः पावकोऽश्नस्य चिच्छिश्नथत्पृथ्वाजानन् [?] ।
+> द्यावो न यस्य सनयन्त्यभ्वं भासांसि वस्ते सूर्यो न शुक्रः ।
+> वि य इणोत्यजरः पावकोऽश्नस्य चिच्छिश्नथत्पूर्वाणि ॥
 
-> *dyāvo na yasya sanayantyabhvaṃ bhāsāṃsi vaste sūryo na śukraḥ | vi ya iṇotyajaraḥ pāvako 'śnasya cicchiśnathatpṛthvājānan [?] |*
+> *dyāvo na yasya sanayantyabhvaṃ bhāsāṃsi vaste sūryo na śukraḥ |*
+> *vi ya iṇotyajaraḥ pāvako 'śnasya cicchiśnathatpūrvāṇi ‖*
 
-(Ṛ. Saṃ. 6-[?]-[?] [?].) Here *abhvam mahat karma* means great power of action. Both are powers of being.
+(Ṛ. Saṃ. 6-[?]-[?] [?].) Here *abhvam mahat karma* means great power of action. Both are powers of the good (*sat*).
 
 ### Printed p. 120  (PDF 138)
 
