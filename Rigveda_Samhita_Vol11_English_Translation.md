@@ -1436,19 +1436,19 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Grammar of Ṛk 3, concluded; noted briefly.)* *devayantaḥ* (concluded: *kyac*-ending verb, *śatṛ* in the sense of the present, *śap*; accent as *kyac* is *cit*: *citaḥ* (Pā. Sū. 6-1-[?]) final-syllable accent; nominative plural), *aśvinā* (*supāṃ sulak…* for the dual: *ā*-substitution; *āmantrita nighāta*), *āśrāvayantaḥ* (root *śru śravaṇe*; causal, *hetumati ca* (Pā. Sū. 3-1-[?]) *ṇic*; …; *śatṛ*, *śap*; accent as *ṇic* is *cit*), *havyā* (for *havyāni*: *śeś chandasi bahulam* (Pā. Sū. 6-1-[?]) drops *śi*; or an instrumental singular with *supāṃ sulak…* and *ḍāc*), *viśvavedasā* (dual; *ā*-substitution; vocative accent), *hiraṇyaye* (*mayaṭ* in the sense of "made of"; the loss of the *m* of *mayaṭ* by *nipātana*; locative singular), *pruṣāyante* (root *pruṣa pluṣa snehanasecanapūraṇeṣu*; *laṭ* third person plural; *jha* → *ant*; *kryādibhyaḥ śnā*; *śāyac* by *chandasi śāyajapi* (Pā. Sū. 3-1-[?]); the suffix has *e*; no *nighāta* as it begins a *pāda*; accent by *śāyac*, *citaḥ* (Pā. Sū. 6-1-[?]) final accent). ‖ 3 ‖
+*(Grammar of Ṛk 3, concluded; noted briefly.)* *devayantaḥ* (concluded: *kyac*-ending verb, *śatṛ* in the sense of the present, *śap*; accent as *kyac* is *cit*: *citaḥ* (Pā. Sū. 6-1-163) final-syllable accent; nominative plural), *aśvinā* (*supāṃ sulak…* for the dual: *ā*-substitution; *āmantrita nighāta*), *āśrāvayantaḥ* (root *śru śravaṇe*; causal, *hetumati ca* (Pā. Sū. 3-1-26) *ṇic*; …; *śatṛ*, *śap*; accent as *ṇic* is *cit*), *havyā* (for *havyāni*: *śeś chandasi bahulam* (Pā. Sū. 6-1-71 [?]) drops *śi*; or an instrumental singular with *supāṃ sulak…* and *ḍāc*), *viśvavedasā* (dual; *ā*-substitution; vocative accent), *hiraṇyaye* (*mayaṭ* in the sense of "made of"; the loss of the *m* of *mayaṭ* by *nipātana*; locative singular), *pruṣāyante* (root *pruṣa pluṣa snehanasecanapūraṇeṣu*; *laṭ* third person plural; *jha* → *ant*; *kryādibhyaḥ śnā*; *śāyac* by *chandasi śāyajapi* (Pā. Sū. 3-1-44 [?]); the suffix has *e*; no *nighāta* as it begins a *pāda*; accent by *śāyac*, *citaḥ* (Pā. Sū. 6-1-163) final accent). ‖ 3 ‖
 
 #### Ṛk 4
 
 **॥ संहितापाठः ॥**
 
-> अचेति दस्रा व्यु नाकमृण्वथो युञ्जते वां रथयुजो दिविष्टिषु ।
-> दिविष्टिष्वध्वस्मानो दिविष्टिषु [?] ।
+> अचे॑ति दस्रा॒ व्यु॒॑ नाक॑मृण्वथो यु॒ञ्जते॑ वां रथ॒युजो॒
+> दिवि॑ष्टिष्वध्व॒स्मानो॒ दिवि॑ष्टिषु ।
 > अधि वां स्थाम वन्धुरे रथे दस्रा हिरण्यये ।
 > पथेव यन्तावनुशासता रजोऽञ्जसा शासता रजः ॥ ४ ॥
 
-> *aceti dasrā vyu nākamṛṇvatho yuñjate vāṃ rathayujo diviṣṭiṣu |*
-> *diviṣṭiṣvadhvasmāno diviṣṭiṣu [?] |*
+> *acḙti dasrā̱ vyu̱̭ nāka̭mṛṇvatho yu̱ñjatḙ vāṃ ratha̱yujo̱*
+> *divi̭ṣṭiṣvadhva̱smāno̱ divi̭ṣṭiṣu |*
 > *adhi vāṃ sthāma vandhure rathe dasrā hiraṇyaye |*
 > *patheva yantāvanuśāsatā rajo 'ñjasā śāsatā rajaḥ ‖ 4 ‖*
 
