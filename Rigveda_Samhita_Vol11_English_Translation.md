@@ -2791,29 +2791,29 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 21 Sū. 140".)*
 
-*(Special Topics of Ṛk 2, continued from p. 105.)* …the description *jāna* [?] is explained. Because Agni exists in all three worlds in different forms, the nature of his origin is not of one kind — this is easy to see. For example, in the Śatapatha Brāhmaṇa:
+*(Special Topics of Ṛk 2, continued from p. 105.)* …the description *jānā* is explained. Because Agni exists in all three worlds in different forms, the nature of his origin is not of one kind — this is easy to see. For example, in the Śatapatha Brāhmaṇa:
 
-> ऋतसदिति सत्यसदित्येतद्यो ऽस्यो [?] सर्वेषु ह्येष व्योमसु सन्योजा गोजा इत्याभ्यां [?] … ह्येष गोजा ऋतजा इति सत्यजा इत्येतदद्रिजा इत्ये- [?] …
+> ऋतसदिति सत्यसदित्येतद्व्योमसदिति सर्वेषु ह्येष व्योमसु सन्नोऽब्जा गोजा इत्यब्जाश्च ह्येष गोजाश्चर्तजा इति सत्यजा इत्येतदद्रिजा इत्यद्रिजा ..... ।
 
-> *ṛtasaditi satyasadityetadyo 'syo [?] sarveṣu hyeṣa vyomasu sanyojā gojā ityābhyāṃ [?] … hyeṣa gojā ṛtajā iti satyajā ityetadadrijā itye- [?] …*
+> *ṛtasaditi satyasadityetadvyomasaditi sarveṣu hyeṣa vyomasu sanno 'bjā gojā ityabjāśca hyeṣa gojāścartajā iti satyajā ityetadadrijā ityadrijā ..... |*
 
-(Śa. Brā. 6-[?]-[?]-[?] [?].) In these sentences Agni is described as "born of water", "born of cows" (i.e. of milk), "born of truth (*ṛta*)" and "born of stone". And:
+(Śa. Brā. 6-2-3-11.) In these sentences Agni is described as "born of water", "born of cows" (i.e. of milk), "born of truth (*ṛta*)" and "born of stone". And:
 
-> दिवस्परि प्रथमं जज्ञे अग्निरिति । प्राणो वै दिवः प्राणादु वा एष प्रथमं जायते द्वितीयं परि जातवेदा इति यदेनमुदाना [?] … इति द्वितीयं पुरुषे … तृतीयमप्सु … अजस्रमिति [?] ।
+> दिवस्परि प्रथमं जज्ञे अग्निरिति । प्राणो वै दिवः प्राणादु वा एष प्रथमं जायतास्मद्द्वितीयं परि जातवेदा इति यदेनमुदो [?] द्वितीयं पुरुषविधोऽजनयत्तृतीयमप्स्विति यदेनमुदस्तृतीयमद्भ्योऽजनयत् [?] अजस्रमिति ।
 
-> *divaspari prathamaṃ jajñe agniriti | prāṇo vai divaḥ prāṇādu vā eṣa prathamaṃ jāyate dvitīyaṃ pari jātavedā iti yadenamudānā [?] … iti dvitīyaṃ puruṣe … tṛtīyamapsu … ajasramiti [?] |*
+> *divaspari prathamaṃ jajñe agniriti | prāṇo vai divaḥ prāṇādu vā eṣa prathamaṃ jāyatāsmaddvitīyaṃ pari jātavedā iti yadenamudo [?] dvitīyaṃ puruṣavidho 'janayattṛtīyamapsviti yadenamudastṛtīyamadbhyo 'janayat [?] ajasramiti |*
 
-(Śa. Brā. 6-[?]-[?]-[?] [?].) These sentences tell that Agni was born first from the heavenly world, born a second time among men at sacrificial times, and a third time from water. Of his varied births, *dvijanmā* is here described as befits the context.
+(Śa. Brā. 6-2-4-3.) These sentences tell that Agni was born first from the heavenly world, born a second time among men at sacrificial times, and a third time from water. Of his varied births, *dvijanmā* is here described as befits the context.
 
 ***trivṛd annam.*** The three kinds of food: ghee, cake and Soma. This has been told in the first part of the Ṛgveda Saṃhitā, in the introduction. These are the foods offered in the *haviryajña*, the *pākayajña* and the Soma sacrifices.
 
 ***saṃvatsare vāvṛdhe jagdham īṃ punaḥ.*** "He makes the food eaten in the sacrifice at hand grow again when a year has passed." The sacrifice causes rain, and rain increases the sacrificer's wealth, so after a year the Agniṣṭoma sacrifices are performed again in due order.
 
-> संवत्सरोऽग्निर्वैश्वानरोऽग्निष्टोमः [?] ।
+> संवत्सरोऽग्निर्वैश्वानरोऽग्निरग्निष्टोमः ।
 
-> *saṃvatsaro 'gnirvaiśvānaro 'gniṣṭomaḥ [?] |*
+> *saṃvatsaro 'gnirvaiśvānaro 'gniragniṣṭomaḥ |*
 
-(Brā. [?]-[?]) In such sentences the identity of Agni, Agniṣṭoma and the year is stated. The oblations made through the year are digested and come to be again lost, and so they grow [again]; this will be set out fully when the *Atirātra*, *Ukthya* and *Agniṣṭoma* are explained.
+(Ai. Brā. 3-41) In such sentences the identity of Agni, Agniṣṭoma and the year is stated. The oblations made through the year are digested and are lost again, and at the start of the year they grow again; this will be set out fully when the *Atirātra*, *Ukthya* and *Agniṣṭoma* are explained.
 
 ***anyasyāsā jihvayā jenyaḥ.*** Two senses are given here: *anyasya āsā jihvayā* means first "by the tongue that tastes the oblation", and second "by the ladle, which is the tongue of the *hotṛ*". Both are causes of Agni's growth.
 
