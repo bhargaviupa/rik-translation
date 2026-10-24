@@ -2857,11 +2857,11 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ### Printed p. 109  (PDF 127)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
 
 **Pratipadārtha (Kannada).** *asya* — of this Agni; *mātarā* — the two mothers (the causes of his birth); *ubhā* — both kindling-sticks; *vevije* — move; *kṛṣṇaprutau* — (turning black from contact with the fire), or those that make the ground black; *sakṣitā* — (for the setting up of Agni) joined together, these two mother-sticks; *prācājihvaṃ* — he whose flame stands like a tongue towards the east; *dhvasayantaṃ* — who destroys (darkness); *tṛṣucyutaṃ* — who shows himself outside at once (from the sticks); *ā sācyaṃ* — who grows with (wood-dust and the like); *kupayaṃ* — to be guarded; *pituḥ* — of the sacrificer, who is like a father; *vardhanaṃ* — the cause of the increase; *śiśuṃ* — the infant-form Agni; *abhi tarete* — they bring forth.
 
-**Bhāvārtha.** The two kindling-sticks, the cause of Agni's birth, move. Becoming black from contact with the fire and joined for setting up the fire, they bring forth the infant-formed Agni, whose flame in the east is like a tongue, who destroys darkness, who appears from the sticks as soon as they are churned, who grows with wood-dust and the like, who is to be guarded, and who is the cause of the prosperity of the sacrificer, who is like a father.
+**Bhāvārtha.** The two kindling-sticks, the cause of Agni's birth, move. Becoming black from contact with the fire and joined together for setting up the fire, those sticks create the infant-formed Agni, whose flame in the east is like a tongue, who destroys darkness, who appears from the sticks as soon as they are churned, who grows with wood-dust and the like, who is to be guarded, and who is the cause of the prosperity of the sacrificer, who is like a father.
 
 **English Translation (as printed).** Both his associated mothers, blackened (by combustion), are in movement and give birth to an infant, whose tongue (of flame glows) in the east: (who) dissipates darkness; (who) rapidly issues forth; (who) is readily developed; (who) is (ever) to be cherished, and is the augmenter (of the prosperity) of his parent, (the institutor of the rite).
 
@@ -2873,15 +2873,15 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 > *astīdamadhimanthanamasti prajananaṃ kṛtam |*
 
-(Ṛ. Saṃ. 3-29-1 [?].)
+(Ṛ. Saṃ. 3-29-1.)
 
 > अरण्योर्निहितो जातवेदा गर्भ इव सुधितो गर्भिणीषु ।
 
 > *araṇyornihito jātavedā garbha iva sudhito garbhiṇīṣu |*
 
-(Ṛ. Saṃ. 3-29-2 [?].) In these Ṛks, as the child within the womb of pregnant women, Agni lies hidden between the two kindling-sticks and is born at the time of churning. Therefore the two sticks are his mothers, and as *dvijanmā* so he has the epithet *dvimātā* (Ṛ. Saṃ. 1-[?]-[?]) for Agni.
+(Ṛ. Saṃ. 3-29-2.) In these Ṛks, as the child within the womb of pregnant women, Agni lies hidden between the two kindling-sticks and is born at the time of churning. Therefore the two sticks are his mothers, and as *dvijanmā* so he has the epithet *dvimātā* (Ṛ. Saṃ. 1-31-2) for Agni.
 
-***tṛṣucyutam.*** *Tṛṣu iti kṣipranāma tarater vā tvarater vā* (Ni. 6-[?] [?]) — from the root *tṛ* ("to cross over, go on") or from the root *tvar* ("to move quickly") the word *tṛṣu* is formed, with the sense "with great speed". *Tṛṣucyutam* means: appearing swiftly at the very time of churning the kindling-sticks.
+***tṛṣucyutam.*** *Tṛṣu iti kṣipranāma tarater vā tvarater vā* (Ni. 6-12) — from the root *tṛ* ("to cross over, go on") or from the root *tvar* ("to move quickly") the word *tṛṣu* is formed, with the sense "with great speed". *Tṛṣucyutam* means: appearing swiftly at the very time of churning the kindling-sticks.
 
 ### Printed p. 110  (PDF 128)
 
