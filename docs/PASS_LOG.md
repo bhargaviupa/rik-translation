@@ -56,3 +56,4 @@
 2026-10-24 06:07 PDF 95-95: remaining [?] EN 20, KN 16. non-numeral fixes: Ṛ. Saṃ. quotes (atapad ghoṣa, ayāmi), Ai. Ā. source, prose wording; remaining numerals
 2026-10-24 06:07 PDF 96-96: remaining [?] EN 9, KN 10. grammar page: jāriṣuḥ (iḍāgama), didhṛta (laṅvadbhāva, ādihal-śeṣa, antodātta) re-read; remaining numerals
 2026-10-24 06:08 PDF 97-97: remaining [?] EN 8, KN 4. Ṛk 9 Saṃhitā/Pada anusvāra forms, bhāṣya re-transcribed in full from print (was partial); PDF 96 usādeśa resolved; remaining numerals
+2026-10-24 06:09 PDF 98-98: remaining [?] EN 0, KN 0. bhāṣya concluded re-transcribed from print; Pratipadārtha/Bhāvārtha wording
