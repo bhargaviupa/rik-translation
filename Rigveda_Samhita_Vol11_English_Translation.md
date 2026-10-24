@@ -1859,7 +1859,7 @@ On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the 
 
 **Viśeṣaviṣayagaḷu (Special Topics).**
 
-On the sixth day of the sacrifice called *Daśarātra*, performed over ten days, at the morning pressing, before the priest called *Neṣṭṛ* recites the *pṛṣṭhitayājyā* mantra [?], this Ṛk *o ṣū ṇo agne* and the Ṛk *agniṃ hotāram* are joined and recited at the time of the sacrifice; so the Āśvalāyana Śrautasūtra, in the section beginning *ṣaṣṭhasya*, sets out by the sūtra ओ षू णो अग्ने शृणुहि त्वमीळितोऽग्निं होतारम् (*o ṣū ṇo agne śṛṇuhi tvamīḷito 'gniṃ hotāram*) (Āś. [?]-[?]); and that when the *Praüga-śastra* mantras are recited at the same pressing, this Ṛk is to be recited as the second mantra, by the sūtra अस्तु श्रौषळो षू णो अग्ने (*astu śrauṣaḷo ṣū ṇo agne*) (Āś. [?]-[?]).
+On the sixth day of the sacrifice called *Daśarātra*, performed over ten days, at the morning pressing, before the priest called *Neṣṭṛ* recites the *prasthitayājyā* mantra, this Ṛk *o ṣū ṇo agne* and the Ṛk *agniṃ hotāram* are joined and recited at the time of the sacrifice; so the Āśvalāyana Śrautasūtra, in the section beginning *ṣaṣṭhasya*, sets out by the sūtra ओ षू णो अग्ने शृणुहि त्वमीळितोऽग्निं होतारम् (*o ṣū ṇo agne śṛṇuhi tvamīḷito 'gniṃ hotāram*) (Āś. [?]-[?]); and that when the *Praüga-śastra* mantras are recited at the same pressing, this Ṛk is to be recited as the second mantra, by the sūtra अस्तु श्रौषळो षू णो अग्ने (*astu śrauṣaḷo ṣū ṇo agne*) (Āś. [?]-[?]).
 
 ***yajñiyebhyo rājabhyo yajñiyebhyo bravasi.*** Here the first *yajñiyebhyaḥ* means, as an epithet of the gods, *yajñārhebhyo havirbhāgbhyaḥ stutibhāgbhyaś ca* — "to those worthy of sacrifice, who deserve a share of the oblation and of the praise". The second *yajñiyebhyaḥ* is an epithet of the sacrificers, *yajñārhebhyo yajamānebhyaḥ saṃbandhi karma* — the rite belonging to the sacrificers who are fit to sacrifice. The sense is: tell or convey to the gods, fit to receive the sacrifice, the praises and oblations of men fit to sacrifice. From this sentence it is understood that Agni, as the leader of the sacrifice, is a messenger who builds the relation between the sacrificers and the gods.
 
@@ -1871,9 +1871,9 @@ On the sixth day of the sacrifice called *Daśarātra*, performed over ten days,
 
 (Ṛ. Saṃ. 2-1-[?] [?].) As described in such Ṛks, and
 
-> अग्निर्वै देवानां दूत आस [?] ।
+> अग्निरेव देवानां दूत आस ।
 
-> *agnirvai devānāṃ dūta āsa [?] |*
+> *agnireva devānāṃ dūta āsa |*
 
 (Śa. Brā. 1-[?]-[?]-[?] [?]) (continued on p. 71).
 
