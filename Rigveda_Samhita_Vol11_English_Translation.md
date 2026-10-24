@@ -1753,9 +1753,9 @@ On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
 
-*(Special Topics of Ṛk 6, continued from p. 65.)* …makes the *hotṛ* priest offer the oblation; this is set out in the Āśvalāyana Śrautasūtra by the sūtra षष्ठस्य प्रातःसवने पृष्ठितेयाज्यानां पुरस्तादन्या कृत्वेभ्यामवनानन्तरो यजन्ति [?] (*ṣaṣṭhasya prātaḥsavane pṛṣṭhiteyājyānāṃ purastādanyā kṛtvebhyāmavanānantaro yajanti [?]*) (Āś. [?]-[?]).
+*(Special Topics of Ṛk 6, continued from p. 65.)* …makes the *hotṛ* priest offer the oblation; this is set out in the Āśvalāyana Śrautasūtra by the sūtra षष्ठस्य प्रातःसवने प्रस्थितयाज्यानां पुरस्तादन्याः कृत्वोभाभ्यामनवानन्तो यजन्ति (*ṣaṣṭhasya prātaḥsavane prasthitayājyānāṃ purastādanyāḥ kṛtvobhābhyāmanavānanto yajanti*) (Āś. [?]-[?]).
 
-***vṛṣan; vṛṣapāṇāsaḥ.*** Sāyaṇa explains *vṛṣan* as *kāmānāṃ varṣitaḥ* — "one who showers desired things" — and *vṛṣapāṇāsaḥ* as *abhimatavarṣaṇena tvayā pātavyāḥ* — "to be drunk by you, who shower what is wished". That is, the drinking of the Soma juice is the intent that gives Indra [joy] [?]:
+***vṛṣan; vṛṣapāṇāsaḥ.*** Sāyaṇa explains *vṛṣan* as *kāmānāṃ varṣitaḥ* — "one who showers desired things" — and *vṛṣapāṇāsaḥ* as *abhimatavarṣaṇena tvayā pātavyāḥ* — "to be drunk by you, who shower what is wished". That is, the drinking of the Soma juice is the means of giving (Indra) a favouring mind — that is the intent:
 
 > इति वा इति मे मनो गामश्वं सनुयामिति । कुवित्सोमस्यापामिति ॥
 
@@ -1763,9 +1763,9 @@ On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the 
 
 (Ṛ. Saṃ. 10-119-1 [?].) Indra says that he has drunk the Soma that encourages him to give cows and horses to the praisers. Likewise:
 
-> कदा चन स्तरीरसि नेन्द्र सश्चसि दाशुषे । उपोपेन्नु मघवन्भूय इन्नु ते दानं देवस्य पृच्यते [?] । उपयाम गृहीतोऽस्यादित्येभ्यस्त्वा [?] । कदा चन प्रयुच्छसि [?] … सवनं त इन्द्रियामृतस्था [?] ।
+> कदा चन स्तरीरसि नेन्द्र सश्चसि दाशुषे । उपोपेन्नु मघवन् भूय इन्नु ते दानं देवस्य पृच्यते । उपयामगृहीतोऽस्यादित्येभ्यस्त्वा । कदा चन प्रयुच्छस्युभे निपासि जन्मनी । तुरीयादित्य सवनं त इन्द्रियमातस्थावमृतं दिवि [?] ।
 
-> *kadā cana starīrasi nendra saścasi dāśuṣe | upopennu maghavanbhūya innu te dānaṃ devasya pṛcyate [?] | upayāma gṛhīto 'syādityebhyastvā [?] | kadā cana prayucchasi [?] … savanaṃ ta indriyāmṛtasthā [?] |*
+> *kadā cana starīrasi nendra saścasi dāśuṣe | upopennu maghavan bhūya innu te dānaṃ devasya pṛcyate | upayāmagṛhīto 'syādityebhyastvā | kadā cana prayucchasyubhe nipāsi janmanī | turīyāditya savanaṃ ta indriyamātasthāvamṛtaṃ divi [?] |*
 
 (Tai. Saṃ. [?]-[?]-[?] [?].) In these Saṃhitā sentences too the drinking of the Soma juice is said to be the means of favouring the sacrificers who offer oblations; the same is said here.
 
@@ -1781,7 +1781,7 @@ On the sixth day of the sacrifice called *Pṛṣṭhya* (as printed), when the 
 
 > *na hi me rodasī ubhe anyaṃ pakṣaṃ cana prati | kuvitsomasyāpāmiti ‖*
 
-(Ṛ. Saṃ. 10-119-[?].) In such Ṛks, since there are the words of Indra that his strength grew through drinking Soma and that none with strength like his is found in heaven and earth, the first sense is correct. For the second, Sāyaṇa points out that the Soma plant grows on mountains and the like and so has the epithet *udbhid*. The growth, form, colour, taste and so on of the Soma plant are set out fully in Part [?] of the Ṛgveda Saṃhitā. Recent critics have discussed the Soma plant and given their views; a summary of the articles written in the *Journal of the Royal Asiatic Society*, the *Indian Antiquary* and other journals is given briefly in the Pūrvapīṭhikā of this part. Whether those views are right or wrong the reader must judge for himself.
+(Ṛ. Saṃ. 10-119-[?].) In such Ṛks, since there are the words of Indra that his strength grew through drinking Soma and that none with strength like his is found in heaven and earth, the first sense is correct. For the second, Sāyaṇa points out that the Soma plant grows on mountains and the like and so has the epithet *udbhid*. The growth, form, colour, taste and so on of the Soma plant are set out fully in Part 2 of the Ṛgveda Saṃhitā. Recent critics have discussed the Soma plant and given their views; a summary of the articles written in the *Journal of the Royal Asiatic Society*, the *Indian Antiquary* and other journals is given briefly in the Pūrvapīṭhikā of this part. Whether those views are right or wrong the reader must judge for himself.
 
 ### Printed p. 67  (PDF 85)
 
