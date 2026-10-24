@@ -2621,7 +2621,7 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 
 ### Printed p. 99  (PDF 117)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
 
 ## Sūkta 140
 
