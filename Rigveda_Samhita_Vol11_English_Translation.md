@@ -964,13 +964,13 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ संहितापाठः ॥**
 
-> अस्तु श्रौषट् पुरो अग्निं धिया दध आ नु तच्छर्धो दिव्यं वृणीमह इन्द्रवायू वृणीमहे ।
-> यद्ध क्राणा विवस्वति नाभा संदायि नव्यसी ।
-> अध प्र सू न उप यन्तु धीतयो देवाँ अच्छा न धीतयः ॥ १ ॥
+> अ॒स्तु श्रौष॑ट् पु॒रो अ॒ग्निं धि॒या द॑ध॒ आ नु तच्छर्धो॑ दि॒व्यं वृ॑णीमह इन्द्रवा॒यू वृ॑णीमहे ।
+> यद्ध॑ क्रा॒णा वि॒व॑स्वति॒ नाभा॑ सं॒दायि॒ नव्य॑सी ।
+> अ॒ध प्र सू न॒ उप॑ यन्तु धी॒तयो॑ दे॒वाँ अच्छा॒ न धी॒तय॑ः ॥ १ ॥
 
-> *astu śrauṣaṭ puro agniṃ dhiyā dadha ā nu tacchardho divyaṃ vṛṇīmaha indravāyū vṛṇīmahe |*
-> *yaddha krāṇā vivasvati nābhā saṃdāyi navyasī |*
-> *adha pra sū na upa yantu dhītayo devā~ acchā na dhītayaḥ ‖ 1 ‖*
+> *a̱stu śrauṣa̭ṭ pu̱ro a̱gniṃ dhi̱yā da̭dha̱ ā nu tacchardho̭ di̱vyaṃ vṛ̭ṇīmaha indravā̱yū vṛ̭ṇīmahe |*
+> *yaddha̭ krā̱ṇā vi̱va̭svati̱ nābhā̭ sa̱ṃdāyi̱ navya̭sī |*
+> *a̱dha pra sū na̱ upa̭ yantu dhī̱tayo̭ de̱vā~ acchā̱ na dhī̱taya̭ḥ ‖ 1 ‖*
 
 ### Printed p. 38  (PDF 56)
 
@@ -1132,15 +1132,15 @@ In it *tuviṣmān* means "very strong". Likewise *tuvidyumna* (Ṛ. Saṃ. 1-88
 
 **॥ संहितापाठः ॥**
 
-> यद्ध त्यन्मित्रावरुणावृतादध्याददाथे अनृतं स्वेन मन्युना ।
-> दक्षस्य स्वेन मन्युना ।
-> युवोरित्थाधि सद्मस्वपश्याम हिरण्ययम् ।
-> धीभिश्चन मनसा स्वेभिरक्षभिः सोमस्य स्वेभिरक्षभिः ॥ २ ॥
+> यद्ध॒ त्य॑न्मित्रावरुणावृता॒दध्या॑ददा॒थे॒ अनृ॑तं॒ स्वेन॑ म॒न्युना॒ ।
+> दक्ष॑स्य॒ स्वेन॑ म॒न्युना॑ ।
+> यु॒वोरित्था॒धि॒ सद्म॒स्वप॑श्याम हिर॒ण्ययं॑ ।
+> धी॒भिश्चन मन॑सा॒ स्वेभि॑रक्ष॒भि॒ः सोम॑स्य॒ स्वेभि॑रक्ष॒भि॑ः ॥ २ ॥
 
-> *yaddha tyanmitrāvaruṇāvṛtādadhyādadāthe anṛtaṃ svena manyunā |*
-> *dakṣasya svena manyunā |*
-> *yuvoritthādhi sadmasvapaśyāma hiraṇyayam |*
-> *dhībhiścana manasā svebhirakṣabhiḥ somasya svebhirakṣabhiḥ ‖ 2 ‖*
+> *yaddha̱ tya̭nmitrāvaruṇāvṛtā̱dadhyā̭dadā̱the̱ anṛ̭ta̱ṃ svena̭ ma̱nyunā̱ |*
+> *dakṣa̭sya̱ svena̭ ma̱nyunā̭ |*
+> *yu̱voritthā̱dhi̱ sadma̱svapa̭śyāma hira̱ṇyaya̭ṃ |*
+> *dhī̱bhiścana mana̭sā̱ svebhi̭rakṣa̱bhi̱ḥ soma̭sya̱ svebhi̭rakṣa̱bhi̭ḥ ‖ 2 ‖*
 
 ### Printed p. 43  (PDF 61)
 
@@ -1280,13 +1280,13 @@ But that *anṛta* here is an epithet of water is a point worth some thought. Th
 
 **॥ संहितापाठः ॥**
 
-> युवां स्तोमेभिर्देवयन्तो अश्विनाश्रावयन्त इव श्लोकमायवो युवां हव्याभ्यायवः ।
-> युवोर्विश्वा अधि श्रियः पृक्षश्च विश्ववेदसा ।
-> प्रुषायन्ते वां पवयो हिरण्यये रथे दस्रा हिरण्यये ॥ ३ ॥
+> यु॒वां स्तोमेभिर्दे॑व॒यन्तो॑ अश्विनाश्रा॒वय॑न्त इ॒व श्लोक॑मा॒यवो॑ यु॒वां ह॒व्याभ्या॒य॒॑वः॑ ।
+> यु॒वोर्विश्वा॒ अधि॒ श्रियः॒ पृक्ष॑श्च विश्ववेदसा ।
+> प्रु॒षा॒॑यन्ते वां प॒वयो॑ हिर॒ण्यये॒ रथे॑ दस्रा हिर॒ण्यये॑ ॥ ३ ॥
 
-> *yuvāṃ stomebhirdevayanto aśvināśrāvayanta iva ślokamāyavo yuvāṃ havyābhyāyavaḥ |*
-> *yuvorviśvā adhi śriyaḥ pṛkṣaśca viśvavedasā |*
-> *pruṣāyante vāṃ pavayo hiraṇyaye rathe dasrā hiraṇyaye ‖ 3 ‖*
+> *yu̱vāṃ stomebhirdḙva̱yanto̭ aśvināśrā̱vaya̭nta i̱va śloka̭mā̱yavo̭ yu̱vāṃ ha̱vyābhyā̱ya̱̭va̭ḥ |*
+> *yu̱vorviśvā̱ adhi̱ śriya̱ḥ pṛkṣa̭śca viśvavedasā |*
+> *pru̱ṣā̱̭yante vāṃ pa̱vayo̭ hira̱ṇyaye̱ rathḙ dasrā hira̱ṇyayḙ ‖ 3 ‖*
 
 *(Gist, mine: the worshippers, wishing to win you, make their praises heard, offering oblations; from you they gain wealth and food; the fellies of your golden car drip honey.)*
 
@@ -1444,13 +1444,13 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 
 > अचे॑ति दस्रा॒ व्यु॒॑ नाक॑मृण्वथो यु॒ञ्जते॑ वां रथ॒युजो॒
 > दिवि॑ष्टिष्वध्व॒स्मानो॒ दिवि॑ष्टिषु ।
-> अधि वां स्थाम वन्धुरे रथे दस्रा हिरण्यये ।
-> पथेव यन्तावनुशासता रजोऽञ्जसा शासता रजः ॥ ४ ॥
+> अधि॑ वां॒ स्थाम॑ व॒न्धुरे॒ रथे॑ दस्रा हिर॒ण्यये॑ ।
+> पथेव॒ यन्ता॑वनु॒शास॑ता॒ रजोऽञ्ज॑सा॒ शास॑ता॒ रज॑ः ॥ ४ ॥
 
 > *acḙti dasrā̱ vyu̱̭ nāka̭mṛṇvatho yu̱ñjatḙ vāṃ ratha̱yujo̱*
 > *divi̭ṣṭiṣvadhva̱smāno̱ divi̭ṣṭiṣu |*
-> *adhi vāṃ sthāma vandhure rathe dasrā hiraṇyaye |*
-> *patheva yantāvanuśāsatā rajo 'ñjasā śāsatā rajaḥ ‖ 4 ‖*
+> *adhi̭ vā̱ṃ sthāma̭ va̱ndhure̱ rathḙ dasrā hira̱ṇyayḙ |*
+> *patheva̱ yantā̭vanu̱śāsa̭tā̱ rajo 'ñja̭sā̱ śāsa̭tā̱ raja̭ḥ ‖ 4 ‖*
 
 ### Printed p. 55  (PDF 73)
 
