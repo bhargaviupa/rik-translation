@@ -1694,40 +1694,44 @@ Likewise, describing the greatness of the *stomas* beginning with *trivṛt*, wh
 **॥ संहितापाठः ॥**
 
 > वृषन्निन्द्र वृषपाणास इन्दव इमे सुता अद्रिषुतास उद्भिदस्तुभ्यं सुतास उद्भिदः ।
-> ते त्वा मन्दन्तु दावने महे चित्राय राधसे ।
-> गीर्भिर्गिर्वाहः स्तवमान आ गहि सुमृळीको न आ गहि ॥ ६ ॥
 
 > *vṛṣannindra vṛṣapāṇāsa indava ime sutā adriṣutāsa udbhidastubhyaṃ sutāsa udbhidaḥ |*
-> *te tvā mandantu dāvane mahe citrāya rādhase |*
-> *gīrbhirgirvāhaḥ stavamāna ā gahi sumṛḷīko na ā gahi ‖ 6 ‖*
 
 ### Printed p. 64  (PDF 82)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 139".)*
+
+*(Ṛk 6 Saṃhitā, continued from p. 63; accents of the first two lines on p. 63 and these lines are not yet marked.)*
+
+> ते त्वा मन्दन्तु दावने महे चित्राय राधसे ।
+> गीर्भिर्गिर्वाहः स्तवमान आ गहि सुमृळीको न आ गहि ॥ ६ ॥
+
+> *te tvā mandantu dāvane mahe citrāya rādhase |*
+> *gīrbhirgirvāhaḥ stavamāna ā gahi sumṛḷīko na ā gahi ‖ 6 ‖*
 
 *(Gist, mine: Indra, these pressed Soma juices, pressed with stones, are for you; may they please you for great and wonderful wealth; come to us, praised, and gracious.)*
 
 **॥ पदपाठः ॥**
 
 > वृषन् । इन्द्र । वृषऽपाणासः । इन्दवः । इमे । सुताः । अद्रिऽसुतासः । उत्ऽभिदः ।
-> तुभ्यम् । सुतासः । उत्ऽभिदः ।
+> तुभ्यं । सुतासः । उत्ऽभिदः ।
 > ते । त्वा । मन्दन्तु । दावने । महे । चित्राय । राधसे ।
 > गीःऽभिः । गिर्वाहः । स्तवमानः । आ । गहि । सुऽमृळीकः । नः । आ । गहि ॥ ६ ॥
 
 > *vṛṣan | indra | vṛṣa 'pāṇāsaḥ | indavaḥ | ime | sutāḥ | adri 'sutāsaḥ | ut 'bhidaḥ |*
-> *tubhyam | sutāsaḥ | ut 'bhidaḥ |*
+> *tubhyaṃ | sutāsaḥ | ut 'bhidaḥ |*
 > *te | tvā | mandantu | dāvane | mahe | citrāya | rādhase |*
 > *gīḥ 'bhiḥ | girvāhaḥ | stavamānaḥ | ā | gahi | su 'mṛḷīkaḥ | naḥ | ā | gahi ‖ 6 ‖*
 
-**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; first the Āśvalāyana citation of the use of the Ṛk, then the bhāṣya. Gist: *Indra, these pressed, stone-pressed Soma juices are for you; may they please you for great and varied wealth; come, praised by our hymns, and be gracious.* Small type; doubtful words marked)
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; first the Āśvalāyana citation of the use of the Ṛk, then the bhāṣya. Gist: *Indra, these pressed, stone-pressed Soma juices are for you; may they please you for great and varied wealth; come, praised by our hymns, and be gracious.* Small type; the Āśvalāyana reference numerals are left unread)
 
-> पृष्ठ्यस्य षष्ठेऽहनि प्रउगशस्त्रे ऐन्द्रे तृचे तृतीया वृषन्निन्द्रेत्येषा । वृषन्निन्द्र वृषपाणास इन्दवः सुषुमा यातमद्रिभिः [?] । आ. [?] इति । तत्रैव सवने पृष्ठ्यस्तोत्रे [?] … सूत्रितं च । पृष्ठ्यस्य प्रातःसवने पृष्ठितयाज्यानां पुरस्ताद्विन्या [?] … आ. [?] इति ॥
+> पृष्ठ्यस्य षष्ठेऽहनि प्रउगशस्त्रे ऐन्द्रे तृचे तृतीया वृषन्निन्द्रेत्येषा । वृषन्निन्द्र वृषपाणास इन्दवः सुषुमा यातमद्रिभिः । आ. [?] इति ॥ तत्रैव सवने पृष्ठ्यस्तोत्रे प्रस्थितयाज्यानां पुरस्तादन्या ऋचः प्रक्षिप्योभयीभिर्यष्टव्यम् । तत्र होतुः प्रस्थितयाज्यायाः पुरस्तादेषा प्रक्षेपणीया । सूत्रितं च । षष्ठस्य प्रातःसवने प्रस्थितयाज्यानां पुरस्तादन्याः कृत्वोभाभ्यामनवानन्तो यजन्ति । आ. [?] इति ॥
 
-> *pṛṣṭhyasya ṣaṣṭhe 'hani praugaśastre aindre tṛce tṛtīyā vṛṣannindretyeṣā | vṛṣannindra vṛṣapāṇāsa indavaḥ suṣumā yātamadribhiḥ [?] | ā. [?] iti | tatraiva savane pṛṣṭhyastotre [?] … sūtritaṃ ca | pṛṣṭhyasya prātaḥsavane pṛṣṭhitayājyānāṃ purastādvinyā [?] … ā. [?] iti ‖*
+> *pṛṣṭhyasya ṣaṣṭhe 'hani praugaśastre aindre tṛce tṛtīyā vṛṣannindretyeṣā | vṛṣannindra vṛṣapāṇāsa indavaḥ suṣumā yātamadribhiḥ | ā. [?] iti ‖ tatraiva savane pṛṣṭhyastotre prasthitayājyānāṃ purastādanyā ṛcaḥ prakṣipyobhayībhiryaṣṭavyam | tatra hotuḥ prasthitayājyāyāḥ purastādeṣā prakṣepaṇīyā | sūtritaṃ ca | ṣaṣṭhasya prātaḥsavane prasthitayājyānāṃ purastādanyāḥ kṛtvobhābhyāmanavānanto yajanti | ā. [?] iti ‖*
 
-> हे इन्द्र वृषन् वर्षितः कामानां इमे पुरतो दृश्यमानाः इन्दवः सोमाः सुताः [?] त्वदर्थमभिषुताः । कीदृक्शाः । वृषपाणासः अभिमतवर्षकेण त्वया पातव्याः । अद्रिसुतासः अद्रिभिर्ग्रावभिः सुताः उद्भिदः उद्भेदिका वर्षस्य [?] … तुभ्यं सुतासः सुताः … उद्भिदः … ते एव [?] … ते सोमास्त्वां मन्दन्तु तर्षयन्तु [?] । दावने दानवते [?] … महे महते चित्राय चायनीयाय नानाविधाय वा राधसे धनाय । किञ्च हे गिर्वाहः गिरां स्तुतीनामस्मदीयानां वोढः । वहिहाधाङ्भ्यश्छन्दसि [?] । गीर्भिरस्मत्स्तुतिभिः स्तवमानः सन् आ गहि आगच्छ । नोऽस्मान् सुमृळीकः सुष्ठु मृडयिता सन् आ गहि आगच्छ ॥
+> हे इन्द्र वृषन् वर्षितः कामानां इमे पुरतो दृश्यमाना इन्दवः सोमाः सुताः । त्वदर्थमभिषुताः । कीदृशास्ते । वृषपानासोऽभिमतवर्षकेण त्वया पातव्याः । अद्रिसुतासोऽद्रिभिर्दृढैः पाषाणैरभिषवसाधनैः सुताः । उद्भिद उद्भेदका वर्षस्य । त एव पुनर्विशेष्यन्ते । उद्भिदो बलस्योद्भेदका उद्भिन्ना वा पर्वतादौ ताद्दृशाः सोमास्तुभ्यं सुतासस्त्वदर्थमेवाभिषुताः । किञ्च ते ताद्दृशाः सोमास्त्वां मन्दन्तु । तर्षयन्तु । कुत्रेति तदुच्यते । दावने दानवति योगे । अभिमतदानाय वा । तथा महे महते चित्राय चायनीयाय विचित्राय नानाविधाय वा राधसे धनाय । किञ्च हे गिर्वाहो गिरां स्तुतीनामस्मदीयानां वोढः ॥ वहिहाधाङ्भ्यश्छन्दसि इत्यसुन् ॥ गीर्भिरस्मत्स्तुतिभिः स्तवमानः सन्ना गहि । आगच्छ । नोऽस्मान् सुमृळीकः सुष्ठु मृडयिता सन्ना गहि । आगच्छ ॥
 
-> *he indra vṛṣan varṣitaḥ kāmānāṃ ime purato dṛśyamānāḥ indavaḥ somāḥ sutāḥ [?] tvadarthamabhiṣutāḥ | kīdṛkśāḥ | vṛṣapāṇāsaḥ abhimatavarṣakeṇa tvayā pātavyāḥ | adrisutāsaḥ adribhirgrāvabhiḥ sutāḥ udbhidaḥ udbhedikā varṣasya [?] … tubhyaṃ sutāsaḥ sutāḥ … udbhidaḥ … te eva [?] … te somāstvāṃ mandantu tarṣayantu [?] | dāvane dānavate [?] … mahe mahate citrāya cāyanīyāya nānāvidhāya vā rādhase dhanāya | kiñca he girvāhaḥ girāṃ stutīnāmasmadīyānāṃ voḍhaḥ | vahihādhāṅbhyaśchandasi [?] | gīrbhirasmatstutibhiḥ stavamānaḥ san ā gahi āgaccha | no 'smān sumṛḷīkaḥ suṣṭhu mṛḍayitā san ā gahi āgaccha ‖*
+> *he indra vṛṣan varṣitaḥ kāmānāṃ ime purato dṛśyamānā indavaḥ somāḥ sutāḥ | tvadarthamabhiṣutāḥ | kīdṛśāste | vṛṣapānāso 'bhimatavarṣakeṇa tvayā pātavyāḥ | adrisutāso 'dribhirdṛḍhaiḥ pāṣāṇairabhiṣavasādhanaiḥ sutāḥ | udbhida udbhedakā varṣasya | ta eva punarviśeṣyante | udbhido balasyodbhedakā udbhinnā vā parvatādau tāddṛśāḥ somāstubhyaṃ sutāsastvadarthamevābhiṣutāḥ | kiñca te tāddṛśāḥ somāstvāṃ mandantu | tarṣayantu | kutreti taducyate | dāvane dānavati yoge | abhimatadānāya vā | tathā mahe mahate citrāya cāyanīyāya vicitrāya nānāvidhāya vā rādhase dhanāya | kiñca he girvāho girāṃ stutīnāmasmadīyānāṃ voḍhaḥ ‖ vahihādhāṅbhyaśchandasi ityasun ‖ gīrbhirasmatstutibhiḥ stavamānaḥ sannā gahi | āgaccha | no 'smān sumṛḷīkaḥ suṣṭhu mṛḍayitā sannā gahi | āgaccha ‖*
 
 ### Printed p. 65  (PDF 83)
 
