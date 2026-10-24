@@ -77,3 +77,4 @@
 2026-10-24 06:16 PDF 116-116: remaining [?] EN 12, KN 14. grammar page: ṅīṣ, nipātana, allopa; Sūkta 139 ends
 2026-10-24 06:17 PDF 117-117: remaining [?] EN 7, KN 3. Sūkta 140 anukramaṇī re-transcribed; Varga 5 header; metre note
 2026-10-24 08:39 PDF 117-118: remaining [?] EN 7, KN 4. PDF 117 anukramaṇī fixed; PDF 118 bhāṣya re-read, Varga 5,6,7 per print
+2026-10-24 08:39 PDF 119-119: remaining [?] EN 0, KN 0. bhāṣya conclusion re-transcribed; Pratipadārtha gap filled; Varga 5
