@@ -74,3 +74,4 @@
 2026-10-24 06:15 PDF 113-113: remaining [?] EN 6, KN 6. Nirukta quotes re-read (tisra eva devatā; athāto 'nukramiṣyāmaḥ); Sāyaṇa quote restored; Āśvalāyana sūtra word still doubtful
 2026-10-24 06:16 PDF 114-114: remaining [?] EN 12, KN 11. verses re-read (aibhir agne…; Śatapatha tally with Prajāpati as 34th); Ṛ. Saṃ. refs kept as printed
 2026-10-24 06:16 PDF 115-115: remaining [?] EN 7, KN 6. Śatapatha/Aitareya quotes re-read (asomapā); Ṛ refs kept; numerals left
+2026-10-24 06:16 PDF 116-116: remaining [?] EN 12, KN 14. grammar page: ṅīṣ, nipātana, allopa; Sūkta 139 ends
