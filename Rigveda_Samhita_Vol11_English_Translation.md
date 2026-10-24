@@ -2631,9 +2631,9 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 
 *(Anukramaṇī, Sanskrit; not rendered in English. Gist: in the twenty-first anuvāka there are seventeen sūktas; the first, "Vediṣade", has thirteen Ṛks; ṛṣi Dīrghatamas Aucathya; deity Agni; the last two Ṛks Triṣṭubh, the rest Jagatī, the tenth Triṣṭubh or Jagatī; its use at the Prātaranuvāka and at the Aśvina-śastra is given from the Āśvalāyana Śrautasūtra. Small type; doubtful words marked.)*
 
-> एकविंशेऽनुवाके सप्तदश सूक्तानि । तत्र वेदिषद इति प्रथमं सूक्तं त्रयोदशर्चम् । उचथ्यपुत्रस्य दीर्घतमस आर्षम् । आग्नेयम् । अन्त्ये त्रिष्टुभौ शिष्टा जगत्यः । दशमी त्रिष्टुब्जगती वा । अत्रानुक्रमणिका । वेदिषदे सप्तोना दीर्घतमा औचथ्य आग्नेयं तु द्वित्रिष्टुबन्तं तु त्रिष्टुबशमि नेति [?] ॥ प्रातरनुवाकस्याग्नेये क्रतौ जागते छन्दसीदमादीनि तृतीयवर्जितानि षट् सूक्तानि विनियुक्तानि । तथाश्विनशस्त्रे षण्णां तृतीयवर्जितानां सूक्तानां विनियोगः । सूत्रितं च । वेदिषद इति षण्णां तृतीयमुद्धरेत् । आ. [?] । इति ॥
+> एकविंशेऽनुवाके सप्तदश सूक्तानि । तत्र वेदिषद इति प्रथमं सूक्तं त्रयोदशर्चं । उचथ्यपुत्रस्य दीर्घतमस आर्षं । आग्नेयं । अन्त्ये त्रिष्टुभौ । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । दशमी त्रिष्टुब्जगती वा । अत्यष्टिपरिभाषा निवृत्ता । अत्रानुक्रमणिका । वेदिषदे सप्तोना दीर्घतमा औचथ्य आग्नेयं तु द्वित्रिष्टुबन्तं तु त्रिष्टुब्दशमी वेति ॥ प्रातरनुवाकस्याग्नेये क्रतौ जागते छन्दसीदमादीनि तृतीयवर्जितानि षट् सूक्तानि विनियुक्तानि । तथाश्विनशस्त्रे षण्णां तृतीयवर्जितानां सूक्तानां विनियोगः । सूत्रितं च । वेदिषद इति षण्णां तृतीयमुद्धरेत् । आ. [?] । इति ॥
 
-> *ekaviṃśe 'nuvāke saptadaśa sūktāni | tatra vediṣada iti prathamaṃ sūktaṃ trayodaśarcam | ucathyaputrasya dīrghatamasa ārṣam | āgneyam | antye triṣṭubhau śiṣṭā jagatyaḥ | daśamī triṣṭubjagatī vā | atrānukramaṇikā | vediṣade saptonā dīrghatamā aucathya āgneyaṃ tu dvitriṣṭubantaṃ tu triṣṭubaśami neti [?] ‖ prātaranuvākasyāgneye kratau jāgate chandasīdamādīni tṛtīyavarjitāni ṣaṭ sūktāni viniyuktāni | tathāśvinaśastre ṣaṇṇāṃ tṛtīyavarjitānāṃ sūktānāṃ viniyogaḥ | sūtritaṃ ca | vediṣada iti ṣaṇṇāṃ tṛtīyamuddharet | ā. [?] | iti ‖*
+> *ekaviṃśe 'nuvāke saptadaśa sūktāni | tatra vediṣada iti prathamaṃ sūktaṃ trayodaśarcaṃ | ucathyaputrasya dīrghatamasa ārṣaṃ | āgneyaṃ | antye triṣṭubhau | śiṣṭāstriṣṭubantaparibhāṣayā jagatyaḥ | daśamī triṣṭubjagatī vā | atyaṣṭiparibhāṣā nivṛttā | atrānukramaṇikā | vediṣade saptonā dīrghatamā aucathya āgneyaṃ tu dvitriṣṭubantaṃ tu triṣṭubdaśamī veti ‖ prātaranuvākasyāgneye kratau jāgate chandasīdamādīni tṛtīyavarjitāni ṣaṭ sūktāni viniyuktāni | tathāśvinaśastre ṣaṇṇāṃ tṛtīyavarjitānāṃ sūktānāṃ viniyogaḥ | sūtritaṃ ca | vediṣada iti ṣaṇṇāṃ tṛtīyamuddharet | ā. [?] | iti ‖*
 
 *Anuvāda (Kannada).* In the twenty-first anuvāka of the first maṇḍala there are seventeen sūktas, and of them this sūkta *Vediṣade* is the first. This sūkta has thirteen Ṛks. Its ṛṣi is Dīrghatamas, son of Ucathya. Agni is the deity. The last two Ṛks have the metre Triṣṭubh; the remaining Ṛks have the metre Jagatī. The tenth Ṛk may be either Triṣṭubh or Jagatī [?]. The Anukramaṇī says what is quoted above. At the time of reciting the mantras of the *Prātaranuvāka*, six sūktas beginning with this one (leaving out the third sūkta) are applied for reciting the Ṛks in the Jagatī metre connected with the Agni-*kratu*; and likewise for the *Aśvina-śastra* mantras the sūktas, leaving out the third, are applied: this is set out in the Āśvalāyana Śrautasūtra by the sūtra *vediṣada iti ṣaṇṇāṃ tṛtīyam uddharet* (Āś. [?]-[?]).
 
@@ -2645,7 +2645,7 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 
 **॥ ओम् ॥**
 
-**Sūkta 140** — Maṇḍala 1, Anuvāka 21, Sūkta 140; Aṣṭaka 2, Adhyāya 2, Varga [?3, 4, 5]. Number of Ṛks in the sūkta: 13. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: 1–9 and 11 Jagatī; 10 Triṣṭubh or Jagatī; 12–13 Triṣṭubh.
+**Sūkta 140** — Maṇḍala 1, Anuvāka 21, Sūkta 140; Aṣṭaka 2, Adhyāya 2, Varga 5, 6, 7. Number of Ṛks in the sūkta: 13. Ṛṣi: Dīrghatamas Aucathya. Devatā: Agni. Chandas: 1–9 and 11 Jagatī; 10 Triṣṭubh or Jagatī; 12–13 Triṣṭubh.
 
 #### Ṛk 1
 
@@ -2667,11 +2667,11 @@ Eight Vasus, eleven Rudras, twelve Ādityas and Heaven and Earth: thirty-three g
 > *vedi 'sade | priya 'dhāmāya | su 'dyute | dhāsim 'iva | pra | bhara | yonim | agnaye |*
 > *vastreṇa 'iva | vāsaya | manmanā | śucim | jyotiḥ 'ratham | śukra 'varṇam | tamaḥ 'hanam ‖ 1 ‖*
 
-**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O adhvaryu, prepare for Agni, who sits on the altar and loves his place, a seat on the altar as one brings food, and cover it with grass as with a cloth.* Small type; doubtful words marked)
+**॥ सायणभाष्यम् ॥** (Sanskrit, not rendered in English; gist: *O adhvaryu, prepare for Agni, who sits on the altar and loves his place, a seat on the altar as one brings food, and cover it with grass as with a cloth.* Small type)
 
-> हे अध्वर्यो वेदिषदे वेद्यां सीदते नित्यं प्रियधाम्ने प्रियस्थानायोत्तरवेदिलक्षणप्रियाय सुद्युते शोभनदीतयेऽग्नये योनिं स्थानं वेद्याख्यं धासिमिव हविर्लक्षणमन्नमिव प्र भर प्रहर । प्रकर्षेण सम्पादयेत्यर्थः । तच्चे [?] स्थानं वस्त्रेणेव तेन यथा देवदत्तो [?] … मन्मना मनसाभिमानेन [?] सम्भारेण बर्हिषा वा वेदिस्थानं वासय । आच्छादय । कीदृशं तत्स्थानमिति तदुच्यते । शुचिमुत्पवनप्रोक्षणादिनामेध्यासुरादीनामपगतत्वाच्छुद्धं ज्योतीरथं ज्योतिषा अग्न्यादेर्गम्भीर्या [?] रथस्थानीयमा-
+> हे अध्वर्यो वेदिषदे वेद्यां सीदते नित्यं प्रियधाम्ने प्रियस्थानायोत्तरवेदिलक्षणप्रियाय सुद्युते शोभनद्योतनायाग्नेयेऽग्रनयनादिगुणविशिष्टाय [?] योनिं स्थानं वेद्याख्यं धासिमिव हविरूपमन्नमिव प्र भर । प्रहर । प्रकर्षेण संपादयेत्यर्थः । तच्च स्थानं वस्त्रेणेव । तेन यथा मार्दवायास्तृणाति तद्वत् मन्मना मननीयेन संभारेण बर्हिषा वा वेदिस्थानं वासय । आच्छादय । कीदृशं तत्स्थानमिति तदुच्यते । शुचिमुत्पवनप्रोक्षणादिनामेध्यासुरादीनामपगतत्वाच्छुद्धं ज्योतीरथं ज्योतिष आज्यादेरग्नेर्वा रथस्थानीयमा-
 
-> *he adhvaryo vediṣade vedyāṃ sīdate nityaṃ priyadhāmne priyasthānāyottaravedilakṣaṇapriyāya sudyute śobhanadītaye 'gnaye yoniṃ sthānaṃ vedyākhyaṃ dhāsimiva havirlakṣaṇamannamiva pra bhara prahara | prakarṣeṇa sampādayetyarthaḥ | tacce [?] sthānaṃ vastreṇeva tena yathā devadatto [?] … manmanā manasābhimānena [?] sambhāreṇa barhiṣā vā vedisthānaṃ vāsaya | ācchādaya | kīdṛśaṃ tatsthānamiti taducyate | śucimutpavanaprokṣaṇādināmedhyāsurādīnāmapagatatvācchuddhaṃ jyotīrathaṃ jyotiṣā agnyādergambhīryā [?] rathasthānīyamā-*
+> *he adhvaryo vediṣade vedyāṃ sīdate nityaṃ priyadhāmne priyasthānāyottaravedilakṣaṇapriyāya sudyute śobhanadyotanāyāgneye 'granayanādiguṇaviśiṣṭāya [?] yoniṃ sthānaṃ vedyākhyaṃ dhāsimiva havirūpamannamiva pra bhara | prahara | prakarṣeṇa saṃpādayetyarthaḥ | tacca sthānaṃ vastreṇeva | tena yathā mārdavāyāstṛṇāti tadvat manmanā mananīyena saṃbhāreṇa barhiṣā vā vedisthānaṃ vāsaya | ācchādaya | kīdṛśaṃ tatsthānamiti taducyate | śucimutpavanaprokṣaṇādināmedhyāsurādīnāmapagatatvācchuddhaṃ jyotīrathaṃ jyotiṣa ājyāderagnervā rathasthānīyamā-*
 
 ### Printed p. 101  (PDF 119)
 
