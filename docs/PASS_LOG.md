@@ -87,3 +87,4 @@
 2026-10-24 08:43 PDF 127-127: remaining [?] EN 0, KN 0. refs read from print without zoom (Ṛ. 3-29-1/2, 1-31-2, Ni. 6-12); Varga 5
 2026-10-24 08:43 PDF 128-128: remaining [?] EN 0, KN 0. Taittirīya quote re-read (…sa ityabravīd…); refs Tai. 1-5-1, Ṛ. 6-2-5, Pā. 6-1-71 read from print without zoom
 2026-10-24 08:44 PDF 129-129: remaining [?] EN 0, KN 1. grammar page re-read; sūtra numbers read from print (2-4-74, 7-4-82, 7-1-41, 8-1-63, 3-1-26, 3-4-117, 3-1-124, 7-2-116, 7-1-1), no zoom; some may be misread
+2026-10-24 08:44 PDF 130-130: remaining [?] EN 0, KN 0. Ṛk 4 bhāṣya re-transcribed (Muṇḍaka quote 1-2-4,5); ends mid-sentence at p. 112 foot
