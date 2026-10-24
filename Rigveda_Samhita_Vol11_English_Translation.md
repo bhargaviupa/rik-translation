@@ -2947,11 +2947,17 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ### Printed p. 113  (PDF 131)
 
-*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga [?].)*
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Adhyāya 2, Varga 5.)*
 
-**Pratipadārtha (Kannada).** *mumukṣvaḥ* — (the flames) that, through the oblation, secure Brahma's world for the sacrificer and set him free; *raghudruvaḥ* — swift-going; *kṛṣṇasītāsaḥ* — having a black path; *juvaḥ* — quick in their several works; *asamanāḥ* — blazing, spread in different directions, or of different colours; *ajirāsaḥ* — of a moving nature; *raghuṣyadaḥ* — flowing swiftly (charmingly); *vātajūtāḥ* — driven by the wind; *āśavaḥ* — (the flames of Agni) pervading all around; *manave* — for the sacrificer full of faith; *mānavasyate* — who honours and wishes (for the sake of the rite) for the sages; *upa yujyante* — are kindled together.
+*(Bhāṣya of Ṛk 4, concluded from p. 112.)*
 
-**Bhāvārtha.** The flames of Agni — which, through the oblation, secure Brahma's world for the sacrificer and free him; swift; having a dark path; quick in their work of burning; spreading in different directions; of a moving nature; blazing swiftly and charmingly; driven by the wind; and pervading all around — are kindled together for the sacrificer, who is full of faith and honours the sages for the sake of the rite.
+> …स्यन्दमानाः वातजूता वातप्रेरिताः । तृतीया कर्मणेति पूर्वपदप्रकृतिस्वरत्वं ॥ आशवो व्यापनशीलाः ॥
+
+> *…syandamānāḥ vātajūtā vātapreritāḥ | tṛtīyā karmaṇeti pūrvapadaprakṛtisvaratvaṃ ‖ āśavo vyāpanaśīlāḥ ‖*
+
+**Pratipadārtha (Kannada).** *mumukṣvaḥ* — (the flames) that, through the oblation, secure Brahma's world for the sacrificer and set him free; *raghudruvaḥ* — swift-going; *kṛṣṇasītāsaḥ* — having a black path; *juvaḥ* — quick in their several works; *asamanāḥ* — blazing, spread in different directions, or of different colours; *ajirāsaḥ* — of a moving nature; *raghuṣyadaḥ* — flowing swiftly (charmingly); *vātajūtāḥ* — driven by the wind; *āśavaḥ* — (the flames of Agni) pervading all around; *manave* — for the sacrificer full of faith; *mānavasyate* — who honours the priests and wishes for them for the sake of the rite; *upa yujyante* — are kindled together.
+
+**Bhāvārtha.** The flames of Agni — which, through the oblation, secure Brahma's world for the sacrificer and free him; swift; having a dark path; quick in their work of burning; spreading in different directions; of a moving nature; blazing swiftly and charmingly; driven by the wind; and pervading all around — are kindled together for the sacrificer, who is full of faith and honours the priests for the sake of the rite.
 
 **English Translation (as printed).** The (flames of Agni), light-moving, dark-trackel [sic], quick (consuming), capricious, restless, lambent, fanned by the wind, wide-spreading, and ensuring liberation (to the devout), are kindled for (the benefit of) the pious reverencer of (holy) priests.
 
@@ -2959,9 +2965,9 @@ Thus he gives a sense that shows the identity of the earth and the altar. Hence 
 
 ***mumukṣvaḥ.*** *Āhutidvārā yajamānaṃ moktum icchantyaḥ brahmalokaṃ prāpayantyaḥ* — "wishing, through the oblation, to free the sacrificer and lead him to Brahma's world": a praising epithet of the flames, that they secure Brahma's world for the sacrificer and make him free. That Prajāpati created Agni in order that the fruit of the oblation, attainment of Brahma's world, should come to the sacrificer who sets up Agni on the earthly sacrificial altar and offers the oblation, is told in the Śatapatha Brāhmaṇa:
 
-> यत्र वै प्रजापतिः प्रजाः ससृजे । स यत्राग्निं ससृजे स इदं जातः सर्वमेव दग्धुं दध्रे [?] … ताः [?] प्रजा आसुस्ता हैनं सम्पेष्ट्वं [?] …
+> यत्र वै प्रजापतिः प्रजाः ससृजे । स यत्राग्निं ससृजे स इदं जातः सर्वमेव दग्धुं दध्रे इत्येवाबिलमेव ता यास्तर्हि प्रजा आसुस्ता हैनं ...
 
-> *yatra vai prajāpatiḥ prajāḥ sasṛje | sa yatrāgniṃ sasṛje sa idaṃ jātaḥ sarvameva dagdhuṃ dadhre [?] … tāḥ [?] prajā āsustā hainaṃ sampeṣṭvaṃ [?] …*
+> *yatra vai prajāpatiḥ prajāḥ sasṛje | sa yatrāgniṃ sasṛje sa idaṃ jātaḥ sarvameva dagdhuṃ dadhre ityevābilameva tā yāstarhi prajā āsustā hainaṃ ...*
 
 ### Printed p. 114  (PDF 132)
 
