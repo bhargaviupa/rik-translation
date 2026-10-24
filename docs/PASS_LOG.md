@@ -66,3 +66,4 @@
 2026-10-24 06:12 PDF 105-105: remaining [?] EN 14, KN 12. Śatapatha and Bṛ. Up. quotes re-transcribed; grammar notes (aṅgirāḥ, atriḥ adestrinic) corrected; numerals left
 2026-10-24 06:12 PDF 106-106: remaining [?] EN 9, KN 9. grammar page re-read; Saṃhitā jagṛbhmā; in-suffix; numerals left
 2026-10-24 06:13 PDF 107-107: remaining [?] EN 2, KN 1. Ṛk 10 bhāṣya re-transcribed in full from print (was partial, ~half); remaining: Chānd. Up. ref numeral
+2026-10-24 06:13 PDF 108-108: remaining [?] EN 0, KN 0. bhāṣya conclusion re-transcribed; Pratipadārtha/Special Topics gaps filled (yājyāṃ paṭhatu)
