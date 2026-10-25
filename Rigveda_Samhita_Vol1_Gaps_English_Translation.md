@@ -4652,7 +4652,7 @@ Since Sāyaṇācārya has quoted these five mantras, it can be determined that 
 
 ### 6. Sāyaṇācārya
 
-(C.E. 1315–1387 [?])
+(C.E. 1315–1387)
 
 The commentary on the Taittirīya Saṃhitā may be said to be the first among the works of Sāyaṇācārya. The method of this is as follows.
 
@@ -4668,9 +4668,9 @@ Having cited the Taittirīya Brāhmaṇa, the Kalpa-sūtras, the Mīmāṃsā, t
 
 Even for words that denote inert things he joins patronymic (*apatyārthaka*) suffixes. Such usage is very rare.
 
-> "अयं पुरो भुवस्तस्य प्राणो भौवायनो वसन्तः प्राणायनः"—(तै. सं. ४-३-२ [?])
+> "अयं पुरो भुवस्तस्य प्राणो भौवायनो वसन्तः प्राणायनः"—(तै. सं. ४-३-२)
 >
-> *"ayaṃ puro bhuvas tasya prāṇo bhauvāyano vasantaḥ prāṇāyanaḥ"* — (Taittirīya Saṃhitā 4-3-2 [?])
+> *"ayaṃ puro bhuvas tasya prāṇo bhauvāyano vasantaḥ prāṇāyanaḥ"* — (Taittirīya Saṃhitā 4-3-2)
 >
 > "This is the front, Bhuvas; his Prāṇa [is] Bhauvāyana, the spring [is] Prāṇāyana." (The words are as in the print; translation editorial and tentative.)
 
@@ -4710,7 +4710,7 @@ In places in this commentary there are sentences which agree letter for letter w
 
 (time not known)
 
-At Calcutta in the year 1?5? [?] a catalogue was published. In it is a list of the manuscript copies that were in Fort William. In that list there is also a commentary on the Taittirīya Saṃhitā composed by one Bālakṛṣṇa.
+At Calcutta in the year 1838 [?] a catalogue was published. In it is a list of the manuscript copies that were in Fort William. In that list there is also a commentary on the Taittirīya Saṃhitā composed by one Bālakṛṣṇa.
 
 ### 9. Haradatta Miśra
 
@@ -4726,7 +4726,7 @@ He composed a commentary for the Āpastamba mantra-pāṭha, or *Ekāgni-kāṇ�
 >
 > "Having bowed to Mahādeva, by the wise Haradatta the exposition of the mantras of the Ekāgni-kāṇḍa is properly made."
 
-The commentary is excellent. It was printed at Mysore in C.E. 19?? [?]. He has quoted many sentences from the Nighaṇṭu. He expounds the mantras also from the historical point of view. At the end of the commentary —
+The commentary is excellent. It was printed at Mysore in C.E. 1902 [?]. He has quoted many sentences from the Nighaṇṭu. He expounds the mantras also from the historical point of view. At the end of the commentary —
 
 > इति श्रीपदवाक्यप्रमाणज्ञमहामहोपाध्याय हरदत्तमिश्र-
 > विरचितायामेकाग्निकाण्डमन्त्रव्याख्यायां द्वितीय-
@@ -4740,18 +4740,18 @@ It is said. Sentences of Haradatta are seen quoted both in Sāyaṇācārya's *D
 
 ### 10. Śatrughna
 
-(time about C.E. 1?[?]?)
+(time about C.E. 1528)
 
 The name of his work is *Mantrārtha-dīpikā*. Among the auspicious verses there is one thus —
 
 > उवटे मन्त्रव्याख्या [?] गुणविष्णौ ब्राह्मणीयसर्वस्वे ।
-> वेदविलासिन्मामपि [?] कौशलमीक्ष्य तथापि मे सद्भिः ॥ ६ [?] ॥
+> वेदविलासिन्मामपि [?] कौशलमीक्ष्य तथापि मे सद्भिः ॥ ९ ॥
 >
-> *uvaṭe mantravākhyā [?] guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinmāmapi [?] kauśalam īkṣya tathāpi me sadbhiḥ || 6 [?] ||*
+> *uvaṭe mantravākhyā [?] guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinmāmapi [?] kauśalam īkṣya tathāpi me sadbhiḥ || 9 ||*
 >
 > (As printed; the verse is not securely intelligible; the following is the source's own statement of what it means.)
 
-Looking at Uvaṭa's Yajurveda commentary, Guṇaviṣṇu's commentary on the Chāndogya mantras, Halāyudha's *Brāhmaṇa-sarvasva* and Gauradhara's *Veda-vilāsinī*, he made this exposition. In verses 10, 11 and 1?th he has said as follows —
+Looking at Uvaṭa's Yajurveda commentary, Guṇaviṣṇu's commentary on the Chāndogya mantras, Halāyudha's *Brāhmaṇa-sarvasva* and Gauradhara's *Veda-vilāsinī*, he made this exposition. In verses 10, 11 and 12 he has said as follows —
 
 "Whatever mantras have been expounded in the earlier commentaries, I have mentioned them here. But only in the difficult places of these, I have tried to write in the easier manner," and so on.
 
@@ -4759,7 +4759,7 @@ Looking at Uvaṭa's Yajurveda commentary, Guṇaviṣṇu's commentary on the C
 
 As he himself said, the commentary is simpler than the commentaries of Uvaṭa and others. Explanation is given in order for the *snāna-mantra* (bathing mantras), *sandhyā-mantra*, *devatārcana-mantra* (mantras of worship of the gods), *śrāddha-mantra*, *ṣaḍaṅga-śatarudra*, *vivāha-mantra* (wedding mantras) and the like.
 
-This commentary has been printed at Kāśī. He may be said to have been about C.E. 1?[?]? [the digits are not clear].
+This commentary has been printed at Kāśī. He may be said to have been about C.E. 1528.
 
 ---
 
@@ -4783,13 +4783,13 @@ Along with Sāyaṇācārya's commentary on the Sāma-saṃhitā, Mādhava's *Vi
 
 Only one manuscript copy of the *Vivaraṇa* has been found. In two places half and half were obtained. The copies are decayed and very impure. He says that, having taken the excellent portions of it, he has printed them as notes on Sāyaṇa's commentary on the Sāma-saṃhitā.
 
-A scholar named Weber of Germany has described it, at length, in 2?–3? [?] pages. Since then no one has put a hand to it. Recently Dr. Kunnan Rāja [Dr. C. Kunhan Raja] of Madras has plans to gather together all the manuscript copies wherever they are, and print a pure copy.
+A scholar named Weber of Germany has described it, at length, in 17–20 pages. Since then no one has put a hand to it. Recently Dr. Kunnan Rāja [Dr. C. Kunhan Raja] of Madras has plans to gather together all the manuscript copies wherever they are, and print a pure copy.
 
 His time — the Mādhava-deva whom Devarājayajvan quotes in his commentary on the Nighaṇṭu must be this very person. In writing about Nārāyaṇa, the commentator on the Ṛgveda, both Mādhava, the commentator on the Sāmaveda, and Bāṇa, the author of the *Kādambarī*, have used one and the same auspicious verse; one may therefore guess that both were contemporaries.
 
 ### Page 280
 
-After the auspicious verse Mādhava begins, saying that mantras are of 3? [?] kinds, and says that of these five are in the Ṛgveda and the remaining 3? [?] are in the Sāmaveda also. In this way, in dividing the mantras, he has a close likeness to Skandasvāmin and Bahumuṭṭa. From this the two of them must have gathered this matter from one work; otherwise one may be said to be indebted to the other. Or else, as was said earlier, Nārāyaṇa, the colleague of Skandasvāmin, and Nārāyaṇa, Mādhava's father, must be one and the same person. If this point is true, Mādhava may be said to be of the 7th century.
+After the auspicious verse Mādhava begins, saying that mantras are of 36 kinds, and says that of these five are in the Ṛgveda and the remaining 31 are in the Sāmaveda also. In this way, in dividing the mantras, he has a close likeness to Skandasvāmin and Bahumuṭṭa. From this the two of them must have gathered this matter from one work; otherwise one may be said to be indebted to the other. Or else, as was said earlier, Nārāyaṇa, the colleague of Skandasvāmin, and Nārāyaṇa, Mādhava's father, must be one and the same person. If this point is true, Mādhava may be said to be of the 7th century.
 
 Commentary: the *Vivaraṇa* is a commentary belonging to the best class. He had a good knowledge of the Sāmaveda tradition. Sāyaṇācārya, in many places, following the Ṛgveda text, wrote the exposition of the Sāma mantras; but Mādhava has written the exposition in a different way. For example, in the Uttarārcika of the Sāmaveda —
 
@@ -4831,7 +4831,7 @@ He has said [so]. That is: because the ṛks beginning with "*pra va indrāya*" 
 
 ### 2. Bharatasvāmī
 
-(C.E. about 1?00 [?])
+(C.E. about 1300)
 
 His commentary on the Sāmaveda is still not printed. Copies of it are at Tanjore, Madras, Mysore, Baroda and Lahore. At the beginning of the commentary there are these verses (continued on the next page).
 
@@ -4859,13 +4859,13 @@ At the end this verse is found —
 >
 > "Thus Bharatasvāmī, of the Kāśyapa [gotra], son of Yajñadā, son of the noble Nārāyaṇa, expounded all the ṛks of the Sāmans."
 
-From these verses it is learnt that his father was Nārāyaṇa, his mother Yajñadā, his place of residence Śrīraṅga, his gotra Kāśyapa, and the time that of Rāmanātha, the Hosala king. As Burnell's [as printed "Barnal"] history of him tells, this Hosala king was ruling in C.E. 12[5?]8–129[6?] [digits uncertain]. Therefore it can be said that he was living in about 1270 C.E.
+From these verses it is learnt that his father was Nārāyaṇa, his mother Yajñadā, his place of residence Śrīraṅga, his gotra Kāśyapa, and the time that of Rāmanātha, the Hosala king. As Burnell's [as printed "Barnal"] history of him tells, this Hosala king was ruling in C.E. 1272–1310. Therefore it can be said that he was living in about 1300 C.E.
 
 Bharatasvāmī's commentary is very brief. It has been of great help to his commentary from Mādhava's commentary. Many sentences quoted from the Aitareya Brāhmaṇa and the Āśvalāyana Sūtra are seen here.
 
 ### 3. Sāyaṇa
 
-(time C.E. 1315–1387 [?])
+(time C.E. 1315–1387)
 
 The Sāmaveda commentary also was made in the very time in which the commentaries on the Taittirīya Saṃhitā and the Ṛgveda were made. At the beginning of the Sāma commentary there is an extensive introduction. In it he has discussed many matters connected with the Sāmans. In some places, leaving the Sāma text, he has done the exposition taking the Ṛgveda text. Such places of difference of text have been pointed out by Satyavrata Sāmaśramī in the edition of the Sāmaveda commentary that he published. A verse-form *anukramaṇī* for knowing the ṛṣi, deity and so on has been quoted.
 
@@ -4883,7 +4883,7 @@ This is the sentence at the beginning of the commentary. He has written that the
 
 ### 4. Sūryadaivajña
 
-(C.E. 1?[?]? approximately)
+(C.E. 1502 approximately)
 
 His introduction was given before. In telling of the matter of Rāvaṇa, the commentator on the Ṛgveda, his matter was also brought up. That he composed a commentary on the Sāmaveda also is learnt from these sentences of his *Gītā-bhāṣya* —
 
@@ -4926,10 +4926,10 @@ Sūryapaṇḍita in the *Gītā-bhāṣya* quotes many works connected with the
 > विदित्वा वेदार्थं दशवदनवाणीपरिणतं
 > शतश्लोकव्याख्यां [?] परमरमणीयामकरवम् ।
 > ततो गीताभाष्यं निखिलनिगमार्थैकनिलयं
-> विधिज्ञार्यः सूर्यो नृहरिकरुणापाङ्गशरणः ॥ ६ [?] ॥
+> विधिज्ञार्यः सूर्यो नृहरिकरुणापाङ्गशरणः ॥ ६ ॥
 >
 > *viditvā vedārthaṃ daśavadanavāṇīpariṇataṃ śataślokavyākhyāṃ [?] paramaramaṇīyām akaravam |*
-> *tato gītābhāṣyaṃ nikhilanigamārthaikanilayaṃ vidhijñāryaḥ sūryo nṛharikaruṇāpāṅgaśaraṇaḥ || 6 [?] ||*
+> *tato gītābhāṣyaṃ nikhilanigamārthaikanilayaṃ vidhijñāryaḥ sūryo nṛharikaruṇāpāṅgaśaraṇaḥ || 6 ||*
 
 (As printed; the first two lines are doubtful. No translation is given by the source beyond the following gloss.)
 
@@ -4951,7 +4951,7 @@ Besides this, no other evidence has been found concerning him.
 
 ### 6. Śobhākara Bhaṭṭa
 
-(before C.E. 1?70 [?])
+(before C.E. 1407)
 
 He composed a work called *Āraṇyaka-vivaraṇa*. Its copies are in many places. At the beginning of this work this verse is found —
 
@@ -4967,7 +4967,7 @@ From this verse only this much is learnt: before composing the *Āraṇya-vivara
 
 His work called *Nāradīya-śikṣā-vivaraṇa* is also there. Since some parts of this work are quoted in the Bharata commentary, one must call this an ancient work. This work appears to have been written following the portion on Śikṣā belonging to the Sāmaveda in the Nāradīya Purāṇa.
 
-The original of the copy at Pune is of C.E. 1?70 [?]. Therefore he may be said to be earlier than 1?70 [?].
+The original of the copy at Pune is of C.E. 1407. Therefore he may be said to be earlier than 1407.
 
 Nothing more has so far become known about him.
 
@@ -4989,7 +4989,7 @@ This commentary follows the Kauthuma branch. Some mantras are in this text; some
 
 Since it is thus said, Halāyudha, Sāyaṇa and others have quoted sentences of Guṇaviṣṇu's work. Guṇaviṣṇu was a scholar in the courts of the Mahārāja Ballāḷasena and Lakṣmaṇasena. Therefore he can be said to have been in the last part of the 12th century C.E.
 
-After the commentary of the 6th [?] khaṇḍa, he has made the commentary on the first ṛks of the four Vedas. His commentary is very easy. As an example, one mantra is given here —
+After the commentary of the 6th khaṇḍa, he has made the commentary on the first ṛks of the four Vedas. His commentary is very easy. As an example, one mantra is given here —
 
 > शं नो देवीरभिष्टये [sic: *abhiṣṭaye*] शं नो भवन्तु पीतये [sic] ।
 > शं योरभिस्रवन्तु नः ॥
@@ -5015,7 +5015,7 @@ After the commentary of the 6th [?] khaṇḍa, he has made the commentary on th
 
 From this a doubt arises whether Śākalya himself wrote the Pada-pāṭha for the Mādhyandina branch also. There are no sufficient grounds to believe this sentence.
 
-This Pada-pāṭha was printed at Bombay in C.E. 18?? [?].
+This Pada-pāṭha was printed at Bombay in C.E. 1893.
 
 ### 3. The authors of the Pada-pāṭha of the Kāṇva Saṃhitā
 
@@ -5029,7 +5029,7 @@ There are some differences between the text of the printed copy and the text of 
 
 > आतस्त्वं बर्हिः शतवल्शं विरोह सहस्रवल्शा वि वयं रुहेम
 >
-> *ātas tvaṃ barhiḥ śatavalśaṃ viroha sahasravalśā vi vayaṃ ruhema* (1-1-3 [?])
+> *ātas tvaṃ barhiḥ śatavalśaṃ viroha sahasravalśā vi vayaṃ ruhema* (1-1-2)
 >
 > "…grow up, O strew, hundred-shooted; may we grow up thousand-shooted."
 
@@ -5037,7 +5037,7 @@ According to the printed copy the reading is "*śatavalśaṃ*" and "*sahasraval
 
 > यो अस्मान्ध्वराद्यग्ं [?] नयं ध्वराम तं ध्वर
 >
-> *yo asmān dhvarād yagṃ [?] nayaṃ dhvarāma taṃ dhvara* (1-1-5 [?])
+> *yo asmān dhvarād yagṃ [?] nayaṃ dhvarāma taṃ dhvara* (1-1-5)
 >
 > (The line is transcribed as printed; its words are doubtful. The point made is the difference of Pada-readings below.)
 
@@ -5076,7 +5076,7 @@ That is: Ukha taught Ātreya. He has written that Ātreya made the division into
 >
 > *yasyāḥ padakṛd ātreyo vṛttikārastu kuṇḍinaḥ*
 
-4. In the Taittirīya Prātiśākhya (5? and 1?-? [?]), the Bodhāyana Gṛhya-sūtra (1-?-? [?]) and the Vedānta-sūtra (3-?-? [?]), Ātreya is said to be the Pada-pāṭha author of the Taittirīya Saṃhitā. In the Bodhāyana Gṛhya-sūtra (?-?-? [?]) — "*ātreyāya padakārāya*" ("to Ātreya, the Pada-maker") — the name of Ātreya has been included in the *ṛṣi-tarpaṇa*.
+4. In the Taittirīya Prātiśākhya (5-31 and 17-8), the Bodhāyana Gṛhya-sūtra (1-4-44) and the Vedānta-sūtra (3-4-44), Ātreya is said to be the Pada-pāṭha author of the Taittirīya Saṃhitā. In the Bodhāyana Gṛhya-sūtra (3-9-7) — "*ātreyāya padakārāya*" ("to Ātreya, the Pada-maker") — the name of Ātreya has been included in the *ṛṣi-tarpaṇa*.
 
 All the Pada-pāṭha-makers may be said to be roughly of one and the same time. In the introduction to the commentary on the Kṛṣṇa Yajurveda it stands thus on this subject —
 
@@ -5086,9 +5086,9 @@ Sometimes commentators make a meaning against the Pada-pāṭha. For example, Bh
 
 > अस्वप्नजः । अस्वप्नशीलः ।........ पदकारानभिमतत्वात् अन्यथा
 > व्याख्यायते—स्वप्नजन्मानो न भवन्तीत्यस्वप्नजाः ॥
-> (तै. सं. १-२-३? [?])
+> (तै. सं. १-२-२४)
 >
-> *asvapnajaḥ | asvapnaśīlaḥ |........ padakārānabhimatatvāt anyathā vyākhyāyate—svapnajanmāno na bhavantīty asvapnajāḥ ||* (Taittirīya Saṃhitā 1-2-3? [?])
+> *asvapnajaḥ | asvapnaśīlaḥ |........ padakārānabhimatatvāt anyathā vyākhyāyate—svapnajanmāno na bhavantīty asvapnajāḥ ||* (Taittirīya Saṃhitā 1-2-24)
 >
 > "*Asvapnajaḥ*: one not given to sleep… because this is not approved by the Pada-makers, it is explained otherwise: they are not born of sleep, therefore *asvapnajāḥ*."
 
@@ -5102,7 +5102,7 @@ Sometimes commentators make a meaning against the Pada-pāṭha. For example, Bh
 
 The author of the Pada-pāṭha of the Sāmaveda is Gārgya. This is determined from the evidence given below.
 
-In the Nirukta (4-3-4 [?]), in writing the commentary on the word '*mehanā*' that occurs there, Skandasvāmin has written thus —
+In the Nirukta (4-3-4), in writing the commentary on the word '*mehanā*' that occurs there, Skandasvāmin has written thus —
 
 > एकमिति शाकल्यः [print: विकमिति] । त्रीणीति गार्ग्यः ।
 >
@@ -5135,17 +5135,18 @@ The Pada-pāṭha of the Sāmaveda differs a little from the Pada-pāṭhas of t
 
 | Saṃhitā text | Pada text | Meaning in the Nirukta |
 |---|---|---|
-| मित्रम् *mitram* | मि+त्रम् *mi + tram* | प्रमीतेस्त्रायते [?] *pramīter trāyate* (10-?? [?]) |
-| अद्य *adya* | अ+द्य *a + dya* | अस्मिन् द्यवि *asmin dyavi* (1-? [?]) |
+| मित्रम् *mitram* | मि+त्रम् *mi + tram* | प्रमीतेस्त्रायते [?] *pramīter trāyate* (10-21) |
+| अद्य *adya* | अ+द्य *a + dya* | अस्मिन् द्यवि *asmin dyavi* (1-6) |
+| सख्ये *sakhye* | स+ख्ये *sa + khye* | समानख्याना *samānakhyānā* (7-30) |
 | सख्ये *sakhye* | स+ख्ये *sa + khye* | समानख्याना *samānakhyānā* (? [?]) |
-| श्रद्धा *śraddhā* | श्रत्+धा *śrat + dhā* | श्रद्धानात् *śraddhānāt* (9-? [?]) |
-| अघ *agha* | अ+घ *a + gha* | हन्तेः । निर्ह्रसितोपसर्गः अहन्तीति *hanteḥ | nirhrasitopasargaḥ ahantīti* (6-11 [?]) |
-| चन्द्रमसः *candramasaḥ* | चन्द्र+मसः *candra + masaḥ* | चन्द्रो माता *candro mātā* (11-? [?]) |
-| समुद्रम् *samudram* | सम्+उद्रम् *sam + udram* | समुद्द्रवन्त्यस्मादापः *samuddravanty asmād āpaḥ* (2-? [?]) |
-| दूरात् *dūrāt* | दुः+आत् *duḥ + āt* | दुरयं वा *durayaṃ vā* (3-? [?]) |
-| स्वस्तये *svastaye* | सु+अस्तये *su + astaye* | सु अस्तीति *su astīti* (3-? [?]) |
-| उस्रियाः *usriyāḥ* | उ+स्रियाः *u + sriyāḥ* | उस्राविणोऽस्यां भोगाः *usrāviṇo 'syāṃ bhogāḥ* (4-? [?]) |
-| पुत्रस्य *putrasya* | पुत्+त्रस्य *put + trasya* | पुन्नरकं ततस्त्रायत इति *punnarakaṃ tatas trāyata iti* (3-? [?]) |
+| श्रद्धा *śraddhā* | श्रत्+धा *śrat + dhā* | श्रद्धानात् *śraddhānāt* (9-30) |
+| अघ *agha* | अ+घ *a + gha* | हन्तेः । निर्ह्रसितोपसर्गः अहन्तीति *hanteḥ | nirhrasitopasargaḥ ahantīti* (6-11) |
+| चन्द्रमसः *candramasaḥ* | चन्द्र+मसः *candra + masaḥ* | चन्द्रो माता *candro mātā* (11-5) |
+| समुद्रम् *samudram* | सम्+उद्रम् *sam + udram* | समुद्द्रवन्त्यस्मादापः *samuddravanty asmād āpaḥ* (2-10) |
+| दूरात् *dūrāt* | दुः+आत् *duḥ + āt* | दुरयं वा *durayaṃ vā* (3-19) |
+| स्वस्तये *svastaye* | सु+अस्तये *su + astaye* | सु अस्तीति *su astīti* (3-21) |
+| उस्रियाः *usriyāḥ* | उ+स्रियाः *u + sriyāḥ* | उस्राविणोऽस्यां भोगाः *usrāviṇo 'syāṃ bhogāḥ* (4-19) |
+| पुत्रस्य *putrasya* | पुत्+त्रस्य *put + trasya* | पुन्नरकं ततस्त्रायत इति *punnarakaṃ tatas trāyata iti* (2-11) |
 
 (The Kannada numerals of the Nirukta references are not read with certainty and are marked [?]; the Sanskrit of the third column is transcribed as printed.)
 
@@ -5189,21 +5190,21 @@ In the Pada-pāṭhas of the Ṛk, the Yajus (Śukla), the Atharva and the Maitr
 | Saṃhitā | Pada-pāṭha |
 |---|---|
 | पितेव *piteva* | पिता-इव *pitā-iva* (Ṛ. Saṃ. 1-1-9) |
-| राजेव *rājeva* | राजेवेति राजा-इव *rājeveti rājā-iva* (Śukla. Yajuḥ. 13-? [?]) |
+| राजेव *rājeva* | राजेवेति राजा-इव *rājeveti rājā-iva* (Śukla. Yajuḥ. 13-9) |
 | पितेव | पिता-इव (Atharva. 2-13-1) |
-| वस्त्रेव [as printed: वस्नेव] *vasneva* | वस्नेवेति वस्ना-इव *vasneveti vasnā-iva* (Maitrā. 1,10-2 [?]) |
+| वस्त्रेव [as printed: वस्नेव] *vasneva* | वस्नेवेति वस्ना-इव *vasneveti vasnā-iva* (Maitrā. 1,10-2) |
 
 In the Sāma and Taittirīya Pada-pāṭhas, *iva* is counted as a separate word.
 
 | Saṃhitā | Pada-pāṭha |
 |---|---|
-| क्षोणीरिव *kṣoṇīriva* | क्षोणीः । इव *kṣoṇīḥ | iva* (Sā. Pū. 4-4-4 [?]) |
-| राजेव | राजा । इव *rājā | iva* (Tai. Saṃ. 1-3-14-? [?]) |
+| क्षोणीरिव *kṣoṇīriva* | क्षोणीः । इव *kṣoṇīḥ | iva* (Sā. Pū. 4-4-4) |
+| राजेव | राजा । इव *rājā | iva* (Tai. Saṃ. 1-2-14-28) |
 
 In secular literature too the word *iva* is seen to be sometimes compounded and sometimes separate.
 
 Compounded: "*vāgarthāv iva saṃpṛktau*" (Raghuvaṃśa 1-1).
-Not compounded: "*kacācitau viṣvag ivāgajau gajau*" (Kirātārjunīya 1-36? [?]).
+Not compounded: "*kacācitau viṣvag ivāgajau gajau*" (Kirātārjunīya 1-36).
 
 Here the word *iva* is connected with the word *gajau*.
 
@@ -5214,11 +5215,11 @@ When the avagraha is used, some changes of accent occur. In such contexts, in th
 | Saṃhitā | Pada-pāṭha |
 |---|---|
 | ऋग्वेद—वीरवत्तमम् *vīravattamam* | वीरवत्-तमम् *vīravat-tamam* (Ṛ. Saṃ. 1-1-3) |
-| घृतप्रतीका *ghṛtapratīkā* | घृत-प्रतीका *ghṛta-pratīkā* (Ṛ. Saṃ. 10-114-3 [?]) |
+| घृतप्रतीका *ghṛtapratīkā* | घृत-प्रतीका *ghṛta-pratīkā* (Ṛ. Saṃ. 10-114-3) |
 | शुक्लयजु—श्रेष्ठतमाय | श्रेष्ठतमायेति श्रेष्ठ-तमाय (Śu. Ya. 1-1) |
 | प्रजावतीः *prajāvatīḥ* | प्रजावतीरिति प्रजा-वतीः *prajāvatīr iti prajā-vatīḥ* (Śu. Ya. 1-1) |
-| अथर्व—अग्निस्वात्ताः *agnisvāttāḥ* | अग्नि-स्वात्ताः *agni-svāttāḥ* (Ath. 18-2-44 [?]) |
-| अग्नितेजाः *agnitejāḥ* | अग्नि-तेजाः *agni-tejāḥ* (Ath. 10-5-25 [?]) |
+| अथर्व—अग्निस्वात्ताः *agnisvāttāḥ* | अग्नि-स्वात्ताः *agni-svāttāḥ* (Ath. 18-3-44) |
+| अग्नितेजाः *agnitejāḥ* | अग्नि-तेजाः *agni-tejāḥ* (Ath. 10-5-25) |
 
 (The accent marks that distinguish these pairs are in the print and are not reproduced.)
 
@@ -5243,13 +5244,13 @@ Here all four kinds of accents — *udātta*, *anudātta*, *svarita* and *pracay
 
 In the Pada-pāṭhas of the Ṛgveda and the Atharvaveda there is *iti* for *pragṛhya* words. For example —
 
-> वायो इति (ऋ. सं. १-२-१ [?]) *vāyo iti* (Ṛ. Saṃ. 1-2-1)
-> " (अथर्व. सं. ६-६९-१ [?]) (Atharva. Saṃ. 6-69-1 [?])
+> वायो इति (ऋ. सं. १-२-१) *vāyo iti* (Ṛ. Saṃ. 1-2-1)
+> " (अथर्व. सं. ६-६८-१) (Atharva. Saṃ. 6-68-1)
 
 and there is *iti* for words such as *akaḥ*.
 
-> अकरित्यकः (ऋ. सं. १-३३-१९ [?]) *akar ity akaḥ* (Ṛ. Saṃ. 1-33-19 [?])
-> " (अथर्व. सं. २०-३१-४ [?]) (Atharva. Saṃ. 20-31-4 [?])
+> अकरित्यकः (ऋ. सं. १-३३-१५) *akar ity akaḥ* (Ṛ. Saṃ. 1-33-15)
+> " (अथर्व. सं. २०-३४-४) (Atharva. Saṃ. 20-34-4)
 
 In the Yajurveda there is *iti* for *pragṛhya* words and also for words fit for the avagraha.
 
@@ -5263,7 +5264,7 @@ In the Maitrāyaṇīya and Taittirīya Pada-pāṭhas there is *itikaraṇa* fo
 
 | Class | Example |
 |---|---|
-| *Pragṛhya* | विष्णो इति *viṣṇo iti* (Mai. 1-1-3 [?]); (Tai. 1-1-3-4 [?]) |
+| *Pragṛhya* | विष्णो इति *viṣṇo iti* (Mai. 1-1-3); (Tai. 1-1-3-4) |
 | *Iṅgya* | श्रेष्ठतमायेति श्रेष्ठतमाय (Mai. 1-1-1); (Tai. 1-1-1) |
 | *Upasarga* | प्रेति *preti* (Mai. 1-1-1); (Tai. 1-1-1) |
 
@@ -5271,11 +5272,11 @@ In some Maitrāyaṇīya Pada-pāṭhas there is no *itikaraṇa* for upasargas.
 
 | Saṃhitā | Pada-pāṭha |
 |---|---|
-| संप्रयच्छति *saṃprayacchati* | सं । प्रेति । यच्छति *saṃ | preti | yacchati* (Tai. 6-2-3 [?]) |
+| संप्रयच्छति *saṃprayacchati* | सं । प्रेति । यच्छति *saṃ | preti | yacchati* (Tai. 6-3-2) |
 
 In the Sāmaveda also there is the use of *iti* for pragṛhya words —
 
-> त्वे इति (सा. पू. १-४-४ [?]) *tve iti* (Sā. Pū. 1-4-4 [?])
+> त्वे इति (सा. पू. १-४-४) *tve iti* (Sā. Pū. 1-4-4)
 
 In different Saṃhitās there are sometimes different Pada-pāṭhas for one and the same word. For example —
 
@@ -5285,11 +5286,11 @@ In different Saṃhitās there are sometimes different Pada-pāṭhas for one an
 >
 > "May we hear what is good with our ears, O gods; may we see what is good with our eyes, O worshipful ones."
 
-This occurs in the Ṛgveda (1-89-8), the Yajus (25-21 [?]), the Maitrāyaṇī Saṃhitā (4-14-? [?]), the Kāṇva Saṃhitā (2?-1 [?]) and the Taittirīya Āraṇyaka (1-1-1 [?]) and other places. Except for the last, in all the other Pada-pāṭhas "*yajatrāḥ*" is *nighāta*, that is, wholly *anudātta-svarita* in accent; but in the variant readings of the Taittirīya Āraṇyaka and the Maitrāyaṇī Saṃhitā this "*yajatrāḥ*" is a word with its first syllable *udātta*.
+This occurs in the Ṛgveda (1-86-8 [as printed]), the Yajus (25-21), the Maitrāyaṇī Saṃhitā (4-14-2), the Kāṇva Saṃhitā (35-1) and the Taittirīya Āraṇyaka (1-1-1) and other places. Except for the last, in all the other Pada-pāṭhas "*yajatrāḥ*" is *nighāta*, that is, wholly *anudātta-svarita* in accent; but in the variant readings of the Taittirīya Āraṇyaka and the Maitrāyaṇī Saṃhitā this "*yajatrāḥ*" is a word with its first syllable *udātta*.
 
 ### *Iṣṭā rāyaḥ*
 
-This mantra occurs in the Yajus (?-? [?]), the Śatapatha (?-?-?-? [?]), the Aitareya Brāhmaṇa (1-? [?]) and the Taittirīya Saṃhitā (1-?-? [?]) in these places. *Iṣṭā* is one word in the Taittirīya Saṃhitā. In the Mādhyandina Pada-pāṭha it is "*ā-iṣṭāḥ*" with an avagraha [?]; in the first it is for the vocative sense; in the second it is an epithet of *rāyaḥ*.
+This mantra occurs in the Yajus (5-7), the Śatapatha (3-4-3-21), the Aitareya Brāhmaṇa (1-26) and the Taittirīya Saṃhitā (1-2-21) in these places. *Iṣṭā* is one word in the Taittirīya Saṃhitā. In the Mādhyandina Pada-pāṭha it is "*ā-iṣṭāḥ*" with an avagraha [?]; in the first it is for the vocative sense; in the second it is an epithet of *rāyaḥ*.
 
 In this matter the commentators hold different opinions. It is given below —
 

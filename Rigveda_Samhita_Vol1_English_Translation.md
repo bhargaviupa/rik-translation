@@ -4505,9 +4505,9 @@ Modern linguistic scholars, however, argue that the Padapathas contain many faul
 
 **1. Shakalya**
 
-The Brahmanda Purana (earlier section, ch. 63) gives these verses:
+The Brahmanda Purana (second part, second pada, ch. 34) gives these verses:
 
-> शाकल्यः प्रथमस्तेषां तस्मादन्यो रथीतरः । बाष्कलश्च भरद्वाज इति शाखाप्रवर्तकाः ॥ देवमित्रस्तु शाकल्यो ज्ञानाहंकारगर्वितः । जनकस्य स यज्ञे वै विनाशमगमद्द्विजः ॥
+> शाकल्यः प्रथमस्तेषां तस्मादन्यो रथीतरः । बाष्कलश्च भरद्वाज इति शाखाप्रवर्तकाः ॥ ३२ ॥ देवमित्रस्तु शाकल्यो ज्ञानाहंकारगर्वितः । जनकस्य स यज्ञे वै विनाशमगमद्द्विजः ॥ ३३ ॥
 >
 > "Shakalya was the first among them; besides him, Rathitara; and Bashkala and Bharadvaja — these were the shakha-founders. Devamitra's [son] Shakalya, proud with the arrogance of his knowledge, met his downfall at King Janaka's yajna, this twice-born one."
 
@@ -4517,26 +4517,26 @@ And elsewhere:
 >
 > "Devamitra's Shakalya, the great-souled, foremost of the twice-born, wise, and most learned in the Veda, composed five Samhitas."
 
-(The Vayu Purana's parallel verse, ch. 60.86, reads "padavittamaḥ" — "most learned in words" — in place of "vedavittamaḥ.") Shakalya, Rathitara, Bashkali, and Bharadvaja were shakha-founders; among them, tradition holds that **Devamitra Shakalya**, arrogant with the pride of his knowledge, engaged Yajnavalkya in debate at King Janaka's assembly-hall and, having been defeated, suffered public disgrace.
+(The Vayu Purana, ch. 60, verse 63, reads "padavittamaḥ" — "most learned in words" — in place of "vedavittamaḥ.") Shakalya, Rathitara, Bashkali, and Bharadvaja were shakha-founders; among them, tradition holds that **Devamitra Shakalya**, arrogant with the pride of his knowledge, engaged Yajnavalkya in debate at King Janaka's assembly-hall and, having been defeated, suffered public disgrace.
 
 Devamitra Shakalya was deeply learned in the Vedas and founded five Samhitas (or shakhas). He is also known by three further names: **Vidagdha Shakalya, Devamitra Shakalya,** and **Sthavira Shakalya.**
 
 
 ### Page 287
 
-This Shakalya is mentioned in both the Nirukta and the Brihaddevata. Keith and other Western scholars hold that Shakalya lived roughly 600–700 years [before a given reference point] — an opinion without solid basis. Taking the Puranic accounts above as the basis instead places his era within the Mahabharata period, roughly **3000 BCE**.
+This Shakalya is mentioned in both the Nirukta and the Brihaddevata. Keith and other Western scholars hold that Shakalya lived roughly 500–600 years BCE — an opinion without solid basis. Taking the Puranic accounts above as the basis instead places his era within the Mahabharata period, roughly **3000 BCE**.
 
-The Rigveda's Padapatha was printed in Bombay in 1861 CE, and Max Müller and other scholars generally follow it — though not perfectly; a few places show differences between the Nirukta's own Shakalya-Padapatha and this printed edition. Whose authorship the currently available Sarvanukramani-sukta's Padapatha belongs to cannot presently be determined.
+The Rigveda's Padapatha was printed in Bombay in 1873 CE, and Max Müller and other scholars generally follow it — though not perfectly; a few places show differences between the Nirukta's own Shakalya-Padapatha and this printed edition. Whose authorship the currently available Sarvanukramani-sukta's Padapatha belongs to cannot presently be determined.
 
 ### 2. Ravana
 
 Ravana composed both a Rigveda commentary and a separate Padapatha — though Shakalya's Padapatha remains far more ancient and authoritative. Ravana's Padapatha closes with a detailed date:
 
-> इति सप्तमाष्टकेत्पनोध्यायः ॥ इति रावणकृतपदसप्तमाष्टकः समाप्तिमगात् । सप्तमाष्टकस्य वर्ग अष्टचत्वारिंशदुत्तरं शतद्वयं (248) परिधाव्यब्दे (1524) दुर्मति शके (1644) वर्षे आषाढे मासि कृष्णसप्तम्योदश्यां भृगुवासरे आर्द्रानक्षत्रे दर्शनयोगे शर्वार्यां महापीणे भास्करक्ष्यात्मजरिणा लिखितं कर्कस्थयो रविबुधयोः सिंहस्थे केतौ च मिथुनस्थे शुक्रे विस्वानस्थे मन्दे कुम्भस्थयो राहु-मंगलयोर्मिथुनस्थे चन्द्रमसि ॥
+> इति सप्तमाष्टकेत्पनोध्यायः ॥ इति रावणकृतपदसप्तमाष्टकः समाप्तिमगात् । सप्तमाष्टकस्य वर्ग अष्टचत्वारिंशदुत्तरं शतद्वयं (248) परिधाव्यब्दे (1729) दुर्मति शके (1594) वर्षे आषाढे मासि कृष्णसप्तम्योदश्यां भृगुवासरे आर्द्रानक्षत्रे दर्शनयोगे शर्वार्यां महापीणे भास्करक्ष्यात्मजरिणा लिखितं कर्कस्थयो रविबुधयोः सिंहस्थे केतौ च मिथुनस्थे शुक्रे विस्वानस्थे मन्दे कुम्भस्थयो राहु-मंगलयोर्मिथुनस्थे चन्द्रमसि ॥
 >
 > *(A detailed colophon giving the completion date of Ravana's seventh Ashtaka Padapatha — Shaka/Vikrama year references, the month of Ashadha, a specific lunar day, weekday, and nakshatra, along with the precise planetary positions at the time of writing. Individual numerals and a few technical terms carry some uncertainty at this resolution, but the overall nature of the colophon — a full astronomical dating — is clear.)*
 
-This manuscript copy is roughly 400 years old. Differences exist here and there between Shakalya's and Ravana's Padapathas — for instance, in RV 10.144.1's "kuhakasya," Shakalya's reading divides it into two words ("kuha kasya"), while Ravana's treats it as a single word. Ravana's Padapatha has not gained any particular prominence.
+This manuscript copy is 259 years old. Differences exist here and there between Shakalya's and Ravana's Padapathas — for instance, in RV 10-129-1's "kuhakasya," Shakalya's reading divides it into two words ("kuha kasya"), while Ravana's treats it as a single word. Ravana's Padapatha has not gained any particular prominence.
 
 ### 2. Authors of the Yajurveda Padapatha
 
@@ -4553,7 +4553,7 @@ The Calcutta Asiatic Society's catalogue describes a Vajasaneya-Samhita-Padapath
 
 ### Page 296 (concluding the Padapatha chapter)
 
-> नावगृष्ठम् । यथा शाकल्येन अधिवासं इति नावगृहीतम् । आत्रेयेण तु अध्यवासं इत्यवगृहीतम् । तस्मादवग्रहोऽनवग्रह इति ॥ (Skandasvami's Nirukta-bhashya, 3.13)
+> नावगृष्ठम् । यथा शाकल्येन अधिवासं इति नावगृहीतम् । आत्रेयेण तु अध्यवासं इत्यवगृहीतम् । तस्मादवग्रहोऽनवग्रह इति ॥ (Skandasvami's Nirukta-bhashya, 2-13)
 >
 > *(Illustrating a disagreement between Padapatha authorities on whether the word "adhivāsam" should carry an avagraha [word-separation mark]; Shakalya reads it without one, Atreya with one, as "adhyavāsam.")*
 
@@ -4707,9 +4707,9 @@ Not all eight remain in practice today — only **Samhitapatha, Padapatha, Krama
 
 ### 1. Samhitapatha (Continuous Recitation)
 
-**Definition:** "*paraḥ sannikarṣaḥ saṃhitā*" — "the closest proximity [of sounds] is Samhita" (Panini's Ashtadhyayi, 1.4.109); or, "the extreme closeness of phonemes is termed Samhita."
+**Definition:** "*paraḥ sannikarṣaḥ saṃhitā*" — "the closest proximity [of sounds] is Samhita" (Panini's Ashtadhyayi, 1-4-109); or, "the extreme closeness of phonemes is termed Samhita."
 
-> ओषधयः सं वदन्ते सोमेन सह राज्ञा । यस्मै कृणोति ब्राह्मणस्तं राजन्पारयामसि ॥ (RV 10.97.22)
+> ओषधयः सं वदन्ते सोमेन सह राज्ञा । यस्मै कृणोति ब्राह्मणस्तं राजन्पारयामसि ॥ (RV 10-97-22)
 >
 > ओषधयः सं वदन्ते सोमेन सह राज्ञा । यस्मै कृणोति ब्राह्मणस् तं राजन् पारयामसि ॥
 > *oṣadhayaḥ saṃ vadante somena saha rājñā | yasmai kṛṇoti brāhmaṇas taṃ rājan pārayāmasi ||*
@@ -4729,11 +4729,11 @@ The same verse, divided into its twelve individual words:
 
 ### Page 305
 
-This mantra has 12 words in total. When performing word-division, the Samhita's euphonic accent-changes are not indicated in the Pratishakhya texts, so they are not detailed here either.
+Here the words are marked with the numbers 1, 2, 3 (and so on). This mantra has 12 words in total. When performing word-division, the Samhita's euphonic accent-changes are not indicated in the Pratishakhya texts, so they are not detailed here either.
 
 ### 3. Kramapatha (Step Recitation)
 
-**Definition:** "*krameṇa padadvayasya pāṭhaḥ*" — reciting pairs of words in sequence; Krama-patha is also called "Yogarudha Samhita." "Krama serves the purpose of memorization" (Pratishakhya-sutra 5.8, Katyayana).
+**Definition:** "*krameṇa padadvayasya pāṭhaḥ*" — reciting pairs of words in sequence; Krama-patha is also called "Yogarudha Samhita." "Krama serves the purpose of memorization" (Pratishakhya-sutra 4-8, Katyayana).
 
 > १ओषधयः २सं । २सं ३वदन्ते । ३वदन्ते ४सोमेन । ४सोमेन ५सह । ५सह ६राज्ञा । ६राज्ञेति ६राज्ञा ॥ ७यस्मै ८कृणोति । ८कृणोति ९ब्राह्मणः । ९ब्राह्मणः १०तम् । १०तं ११राजन् । ११राजन् १२पारयामसि । १२पारयामसि १२पारयामसि ॥
 
@@ -4810,8 +4810,8 @@ That is: first the Jatapatha recitation of words 1, 2, 3; then their reversal (v
 
 | Shikha (Jata) recitation | Reversal | Repeated recitation |
 |---|---|---|
-| 1+2+2+1+ | 2+1+1+ | 1+2+3 |
-| 2+3+3+2+ | 3+2+2+ | 2+3+4, etc. |
+| 1+2+2+1+1+2+3+ | 3+2+1+ | 1+2+3 |
+| 2+3+3+2+2+3+4+ | 4+3+2+ | 2+3+4, etc. |
 
 **Full Ghanapatha example (first portion):**
 
@@ -4877,9 +4877,9 @@ That is: for each topic, he first cites relevant Rigveda material, then the Brah
 
 **Ludwig** and **Grassmann**, German scholars, each produced independent German translations with markedly different prose approaches from one another — and both differed sharply from Wilson in places, rejecting the idea that the Veda's meaning can be fully recovered through tradition alone, instead pursuing critical/historical determinations that sometimes yield divergent conclusions.
 
-**Grassmann** also produced a small but valuable Sanskrit-German dictionary specifically for the Rigveda, tracing roughly a thousand word-usages by root and giving context-appropriate meanings for each.
+**Grassmann** also produced a small but valuable Sanskrit-German dictionary specifically for the Rigveda, gathering, for every word, where it occurs in the ṛks of all ten Mandalas, and noting the differences of meaning found in its places.
 
-**Kaegi** wrote a critical German-language study of the Rigveda's subject matter (later translated into English) — cited repeatedly throughout the present work.
+**Kaegi** wrote in 1880 a critical German-language study of the Rigveda's subject matter (later translated into English) — cited repeatedly throughout the present work.
 
 **Geldner** and **Pischel**, two German scholars, jointly produced a Vedic-studies volume clarifying how the Veda's meaning should properly be approached. They re-examined obscure or seemingly contradictory Vedic words, tracing them to their proper forms and offering fresh, previously unclear interpretations; several suktas were re-translated into German with word-by-word glosses, etymological notes, and commentary surveying all prior interpretive attempts...
 
@@ -4939,10 +4939,10 @@ Going forward, Vedic study needs a genuine **middle path** between these two ext
 
 **Worked example — the words "Ari" and "Arya":** Both occur throughout the Samhita with varying senses depending on context. "Ari" generally carries the senses "wealthy person," "fierce rival," and "enemy":
 
-> विश्वो ह्यन्यो अरिराजगाम — (10.27.1)
-> विश्वगूर्को अरिष्टुतः — (8.1.33)
-> आ विश्वगूर्कः स्थिरमत्क्रे — (1.41.9)
-> उतानेः सुभगां अरिर्वोचेयुः — (1.5.6)
+> विश्वो ह्यन्यो अरिराजगाम — (10-28-1)
+> विश्वगूर्को अरिष्टुतः — (8-1-22)
+> आ विश्वगूर्कः स्थिरमत्क्रे — (1-61-9)
+> उतानेः सुभगां अरिर्वोचेयुः — (1-4-6)
 
 *(These citations illustrate "ari" shifting between senses across contexts — precise phrase-level translation is difficult to render exactly at this resolution, but the semantic range they collectively demonstrate is clear.)*
 
@@ -4950,15 +4950,15 @@ Across these examples, "ari" sometimes means "wealthy person" (dhanika) and else
 
 The word **"Arya"** shows a similar range of meaning:
 
-> इना विश्वास्यार्य आ द्युम्नानि मानुषाणाम् — (4.30.18)
+> इना विश्वास्यार्य आ द्युम्नानि मानुषाणाम् — (9-61-11)
 
 
 ### Page 317
 
-> मंहिष्ठो अर्यः सख्ये — (8.1.33)
-> वक्ष्वेऽटयो रन्थ्विरस्त्वे — (6.31.3)
-> विश्वां अर्य उपगतातिं वज्रन् — (6.48.2)
-> तिरो अर्यो हवनागि कृतं नः — (6.41.3)
+> मंहिष्ठो अर्यः सख्ये — (8-19-36)
+> वक्ष्वेऽटयो रन्थ्विरस्त्वे — (7-31-5)
+> विश्वां अर्य उपगतातिं वज्रन् — (7-48-3)
+> तिरो अर्यो हवनागि कृतं नः — (7-68-2)
 
 *(Further citations illustrating "arya"'s range of meaning across contexts — precise phrase-level translation is difficult at this resolution.)*
 
@@ -5022,7 +5022,7 @@ That is: the Supreme Being, at each creation, reproduces the Vedas exactly as in
 
 This represents the view found across various texts. But what does the Veda itself suggest, upon direct examination? Consider:
 
-> इदं ब्रह्म क्रियमाणं नवीयः (2.35.40[?]) ब्रह्म कृण्वन्तो हरिवो वसिष्ठाः (1.12.4[?]) ब्रह्मेन्द्राय वज्रिणे अकारि (6.42.6[?]) इत्यादि ।
+> इदं ब्रह्म क्रियमाणं नवीयः (7-35-41) ब्रह्म कृण्वन्तो हरिवो वसिष्ठाः (7-37-4) ब्रह्मेन्द्राय वज्रिणे अकारि (7-97-9) इत्यादि ।
 >
 > *(Citations referencing prayers/hymns being "newly composed" or "fashioned" by named rishis — e.g., "this prayer being newly made," "the Vasishthas fashioning a prayer," "a prayer was made for thunderbolt-wielding Indra" — precise mantra locations given as best legible.)*
 
@@ -5036,7 +5036,7 @@ Supporting this same view are mantras using verb-roots meaning "to take form/be 
 
 ### Page 320
 
-> मन्त्रं ये वारं नर्या अतक्षन् (2.34.1) । अवस्यवो न वयुनानि तक्षुः (1.19.7) । विश्वान्यर्यो भुवना जजान (3.31.1) । इन्द्र ब्रह्माणि जनयन्त विप्राः (2.13.8) । तस्मा उक्थं जनये यज्जुजोष (2.19.1) । इन्द्राय ब्रह्म जनयन्त विप्राः (2.10.10) ।
+> मन्त्रं ये वारं नर्या अतक्षन् (7-7-6) । अवस्यवो न वयुनानि तक्षुः (1-19-8) । विश्वान्यर्यो भुवना जजान (2-35-2) । इन्द्र ब्रह्माणि जनयन्त विप्राः (7-22-9) । तस्मा उक्थं जनये यज्जुजोष (7-26-1) । इन्द्राय ब्रह्म जनयन्त विप्राः (7-31-11) ।
 >
 > *(Citations of mantras describing themselves as "carved," "fashioned," or "generated" by rishis/inspired poets — precise locations given as best legible.)*
 
@@ -5044,17 +5044,17 @@ But these contexts may simply indicate the time and rishi associated with a mant
 
 Elsewhere, statements convey the directly opposite view — that mantras became perceptible to rishis purely through divine grace, with Speech herself personified and praised as their true source:
 
-> यज्ज्ञेन वाचः पदवीयमायन् तामन्वविन्दन्नृषिषु प्रविष्टाम् । तामाभृत्या व्यदधाप्यर्भुधे तां सप्तरेभा अभि सं नवन्ते ॥ (10.71.3)
+> यज्ज्ञेन वाचः पदवीयमायन् तामन्वविन्दन्नृषिषु प्रविष्टाम् । तामाभृत्या व्यदधाप्यर्भुधे तां सप्तरेभा अभि सं नवन्ते ॥ (10-71-3)
 >
 > "When, through the yajna, they traced Speech's path, they found her having entered into the rishis; having received her, they distributed her further; the seven singers together celebrate her."
 
 Rishis' own utterances are elsewhere attributed extraordinary power:
 
-> विश्वामित्रस्य रक्षति ब्रह्मेदं भारतं जनम् (3.33.11) । विनेन्न कं दाशराज्ञे सुदासं प्रावदिन्द्रो ब्रह्मणा वसिष्ठाः (7.33.3) । वसिष्ठस्य स्तुवत इन्द्रोऽश्चोदुरुं कृत्स्न्यभ्यो अकृणोदुलोकम् (7.33.5) ।
+> विश्वामित्रस्य रक्षति ब्रह्मेदं भारतं जनम् (3-53-12) । विनेन्न कं दाशराज्ञे सुदासं प्रावदिन्द्रो ब्रह्मणा वसिष्ठाः (7-33-3) । वसिष्ठस्य स्तुवत इन्द्रोऽश्चोदुरुं कृत्स्न्यभ्यो अकृणोदुलोकम् (7-33-5) ।
 >
 > *(Citing Vishvamitra's prayer protecting the Bharata people, and Indra aiding Sudas in the Battle of Ten Kings through the power of the Vasishthas' prayer — precise locations as best legible.)*
 
-Yet elsewhere still, rishis express genuine doubt about their own poetic power and admit their own insufficiency (RV 1.164.37, 6.37).
+Yet elsewhere still, rishis express genuine doubt about their own poetic power and admit their own insufficiency (RV 1-164-5, 6, 37).
 
 Such genuinely divergent views coexist within the Veda itself, making any single, tidy determination difficult — even as texts grounded in Vedic authority insist, without qualification, that the Vedas are apaurusheya and faultless, a claim not easily reconciled with the Veda's own varied self-descriptions.
 
@@ -5078,40 +5078,40 @@ That is: early Aryans were simpler than their descendants, not fully grasping na
 
 The Rigveda's content can be divided several ways: mantras of ordinary/everyday concern, spiritual (adhyatmic) mantras, and practical/ritual mantras. Deity-focused mantras generally aim to please the deities, concerned with sons, progeny, cattle, and similar worldly goods. Spiritual mantras are comparatively few, including cosmological/metaphysical inquiry alongside more worldly questions — genuinely difficult territory, since even certain deity-worship can be understood in either a worldly or spiritual register, and the line between "practical" and "spiritual" mantras isn't always sharp.
 
-Among clearly ritual/practical suktas: the marriage sukta, funeral suktas, and the gambling sukta stand out. Mandala 10's Yama-sukta (the Yama-Yami dialogue) addresses matters connected to marriage and kinship.
+Take first the mantras that lie between the ritual and the practical — for example, those on the marriage rite and the funeral rite. The 85th sukta of the tenth Mandala concerns the marriage rite; the marriage of Soma and Surya is its subject.
 
 One striking marriage-sukta verse has the bride declare her own domestic authority:
 
-> "...having pleased my husband's mind, may I experience happiness; I have made no vow against a shared household. Aryama, Bhaga, Savitri, and Purandhi and the other deities have placed the role of household-deity upon me alone." (~10.85.46)
+> "...having pleased my husband's mind, may I experience happiness; I have made no vow against a shared household. Aryama, Bhaga, Savitri, and Purandhi and the other deities have placed the role of household-deity upon me alone." (10-85-46)
 
-This closing verse of the marriage sukta reveals how sacred marriage was held to be in a woman's worldly life, and elsewhere she declares her wish for authority above all other women of the household — the mother-in-law, the daughters-in-law, and other kin — a natural desire for one's own rightful domain (~10.85.46).
+This closing verse of the marriage sukta reveals how sacred marriage was held to be in a woman's worldly life, and elsewhere she declares her wish for authority above all other women of the household — the mother-in-law, the daughters-in-law, and other kin — a natural desire for one's own rightful domain (10-85-46).
 
-The marriage sukta connects to nearly every important rule governing the institution — a rare and carefully composed sukta deserving special mention.
+The 18th sukta of the tenth Mandala concerns the funeral rite. This is the rite most widely in use and most fully prescribed.
 
-Genuinely historically-informative suktas, however, are few. Where they exist, they generally serve to illuminate some royal lineage's history, praising a king's generosity or Indra's favor, revealing how far kings honored the deities and giving the historical basis for the Purohita's role — the rishis maintaining their relationship with the deities through devotion and the expectation of generous gifts in return. (~7.18; 6.16 series; 1.2; 4.5, etc.)
+Genuinely historically-informative suktas, however, are few. Where they exist, they generally serve to illuminate some royal lineage's history, praising a king's generosity or Indra's favor, revealing how far kings honored the deities and giving the historical basis for the Purohita's role — the rishis maintaining their relationship with the deities through devotion and the expectation of generous gifts in return. (7-18; 1-7 in 7-33; 7-83, etc.)
 
 
 ### Page 323
 
-**Danastuti** (praise-of-gift) hymns praise the donor's qualities, name the gift itself, and record the donor's lineage, the poet's own name, family, and gotra (see 5.61.5-6; 4.2.10, etc.).
+**Danastuti** (praise-of-gift) hymns praise the donor's qualities, name the gift itself, and record the donor's lineage, the poet's own name, family, and gotra (22-25 in 7-18 and 12-15 in 5-30, etc.).
 
-A famous humorous sukta (10.108[?] — Gambler's Lament) portrays a compulsive gambler's addiction with real wit — some read it as pure humor, others more seriously, but either way it connects to the gambler's own household troubles and his wife, serving as a genuine warning against gambling's material and moral dangers.
+There is one humorous sukta (7-103). In it the singing of the ritual priests, intoxicated by soma, is compared to the croaking of frogs in the rainy season. Some take it as mockery; others say that, since both the priests and the frogs are connected with rain, the comparison is made only for that reason and for no other. Likewise there are two more suktas praying to the deities for rain (7-101; 7-102). Mantras teaching ethics, proverbs and the like are found here and there.
 
 On women, a few notable verses appear:
 
-> "A woman does not walk an easy path." (8.33.17)
-> "There is no such thing as friendship with a woman; her heart is like a hyena's heart." (10.95.15)
-> "Many women, on many occasions, surpass men." (5.60.6, 2)
+> "A woman does not walk an easy path." (8-33-17)
+> "There is no such thing as friendship with a woman; her heart is like a hyena's heart." (10-95-15)
+> "Many women, on many occasions, surpass men." (5-61-6, 7)
 
-It's also noted (10.39.14) that young women are courted for the sake of wealth.
+It's also noted (10-27-12) that young women are courted for the sake of wealth.
 
 Following the Nyaya tradition, the Atharvaveda-adjacent material includes necessary medicinal plants and remedies for physical weakness and disease:
 
-> "This is a medicine for every disease." (10.97.6)
+> "This is a medicine for every disease." (10-60-12)
 
-Indra restores a skin-disease-afflicted woman to health (8.90; 10.14.1, 3); one at death's door is saved (10.18.2, 8); a woman seeking to marry a man drives off her rival and binds him to her (10.145); and a woman awaiting her lover casts all the household to sleep (4.54.5-8).
+Indra restores a skin-disease-afflicted woman to health (8-80; 10-161-2 and 5); one at death's door is saved (10-161-7, 6); a woman seeking to marry a man drives off her rival and binds him to her (10-145); and a woman awaiting her lover casts all the household to sleep (5-8 in 7-55).
 
-Finally, **Brahmodyas** are a form of riddle-hymn — describing someone's qualities rather than naming them directly. In one set of mantras (~8.4[?]), the unnamed deities are, in sequence, Indra, Rudra, Vishnu, and the Ashvins — inferable from description alone, and relatively easy riddles. Far harder Brahmodyas apply this technique to earth and sky, sun and moon, wind, cloud, and rain — Sukta 1.164 being the prime example.
+Finally, **Brahmodyas** are a form of riddle-hymn — describing someone's qualities rather than naming them directly. In mantras 4, 5, 6 and 8 of 8-29, the unnamed deities are, in sequence, Indra, Rudra, Vishnu, and the Ashvins — inferable from description alone, and relatively easy riddles. Far harder Brahmodyas apply this technique to earth and sky, sun and moon, wind, cloud, and rain — Sukta 1-164 being the prime example.
 
 
 ## Chapter Twenty-Two — The Rigveda: Its Doctrine
@@ -5122,7 +5122,7 @@ As discussed earlier, the great majority of Rigveda suktas connect to some doctr
 
 One view holds that the Vedic-era Aryans, being entirely uncivilized, were simply awestruck by natural phenomena, personifying nature and composing hymns to praise the cattle-wealth they possessed. I cannot fully accept this — the claim of extreme primitiveness, however often repeated, doesn't hold up.
 
-Even granting limited planning, the rishis clearly composed with real worldly awareness — their careful attention to meter and structure, each mantra crafted with a specific purpose, each deity praised to secure favor for a particular yajna, mantras revised and refined over time, and appropriate mantras composed as community needs demanded within inherited compositional conventions (1.104.1; 1.63.1[?]; 3.16.7, etc.) — none of this is the work of uncivilized, primitive people. This is my counter-argument.
+Even granting limited planning, the rishis clearly composed with real worldly awareness — their careful attention to meter and structure, each mantra crafted with a specific purpose, each deity praised to secure favor for a particular yajna, mantras revised and refined over time, and appropriate mantras composed as community needs demanded within inherited compositional conventions (1-109-1; 1-62-13; 2-19-8, etc.) — none of this is the work of uncivilized, primitive people. This is my counter-argument.
 
 The Vedic doctrine's most important trait, and its practical value, lies in its embodiment of ritual action (karma) — of great use to practitioners and result-seekers alike. The Rigveda's genuine poetic spirit suggests an era where sacrificial practice was already well-established and mature...
 
