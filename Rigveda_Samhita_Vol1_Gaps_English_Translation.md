@@ -3878,18 +3878,18 @@ We do not know much about this man. Only this much can be said: whether, as Uva�
 In determining the time of Skandasvāmin, the first of the Ṛgveda commentators, these verses were quoted from the commentary on the Śatapatha-brāhmaṇa composed by Hariswāmī:
 
 > नागस्वामी तत्र ....श्रीगुहस्वामिनन्दनः ।
-> तत्र याजी प्रमाणज्ञ आद्यो [?] लक्ष्म्या [?] समेधितः ॥ ५ [?] ॥
+> तत्र याजी प्रमाणज्ञ आद्यो [?] लक्ष्म्या [?] समेधितः ॥ ५ ॥
 > तन्नन्दनो हरिस्वामी प्रस्फुरद्वेदवेदिमान् ।
-> त्रयीव्याख्यानधौरेयोऽधीततन्त्रो गुरोर्मुखात् ॥ ६ [?] ॥
+> त्रयीव्याख्यानधौरेयोऽधीततन्त्रो गुरोर्मुखात् ॥ ६ ॥
 > यः सम्राट् [?] कृतार्वा [?] सप्तसोमसंस्थास्तथर्क्श्रुतिं [?] ।
-> व्याख्यां कृत्वाथापयन्मां श्रीस्कन्दस्वाम्यस्ति मे गुरुः ॥ ७ [?] ॥
+> व्याख्यां कृत्वाथापयन्मां श्रीस्कन्दस्वाम्यस्ति मे गुरुः ॥ ७ ॥
 >
 > *nāgasvāmī tatra ....śrīguhasvāminandanaḥ |*
-> *tatra yājī pramāṇajña ādyo [?] lakṣmyā [?] samedhitaḥ || 5 [?] ||*
+> *tatra yājī pramāṇajña ādyo [?] lakṣmyā [?] samedhitaḥ || 5 ||*
 > *tannandano harisvāmī prasphuradvedavedimān |*
-> *trayīvyākhyānadhaureyo 'dhītatantro gurormukhāt || 6 [?] ||*
+> *trayīvyākhyānadhaureyo 'dhītatantro gurormukhāt || 6 ||*
 > *yaḥ samrāṭ [?] kṛtārvā [?] saptasomasaṃsthās tathark-śrutiṃ [?] |*
-> *vyākhyāṃ kṛtvāthāpayan māṃ śrīskandasvāmy asti me guruḥ || 7 [?] ||*
+> *vyākhyāṃ kṛtvāthāpayan māṃ śrīskandasvāmy asti me guruḥ || 7 ||*
 
 (The three verses are transcribed from the print letter by letter; several words in the first and third are doubtful and are marked [?]; the verse numbers are uncertain. No translation of these verses is given in the source other than the following gloss.)
 
@@ -3978,13 +3978,13 @@ Among the commentators on works such as the Mālatīmādhava there was a famous 
 
 ### Page 264
 
-> ऋजुर्यजुर्वेदपदार्थवर्णना व्यनक्ति यस्माद्भुतविश्रुतं श्रुतं ॥ ३ ॥
+> ऋजुर्यजुर्वेदपदार्थवर्णना व्यनक्ति यस्माद्भुतविश्रुतं श्रुतं ॥ २ ॥
 >
-> *ṛjur yajurvedapadārthavarṇanā vyanakti yasmādbhutaviśrutaṃ śrutam || 3 ||*
+> *ṛjur yajurvedapadārthavarṇanā vyanakti yasmādbhutaviśrutaṃ śrutam || 2 ||*
 >
 > "…whose straightforward description of the meanings of the words of the Yajurveda makes manifest the wonderful, renowned, heard [tradition]."
 
-(As printed, the verse is a continuation across pages; the verse number 3 is as printed.)
+(As printed, the verse is a continuation across pages; the verse number is 2, re-read on the 600 dpi scan.)
 
 Earlier there were two scholars, born of a good lineage and masters of all the śāstras, both named Gauradhara. They composed a pure commentary on the Yajurveda. The commentator Ratnakaṇṭha, writing the explanation of these verses, says:
 
@@ -4060,7 +4060,7 @@ In the commentary on this verse he has made the meaning clear as "*pañcacatvār
 
 ### 1. Sāyaṇācārya
 
-(about 1315–1387 C.E. [?])
+(about 1315–1387 C.E.)
 
 Sāyaṇācārya composed a commentary on the Kāṇva branch. In this the commentary on 20 adhyāyas has been found. The commentary on the remaining 20 adhyāyas has not been found. The commentary on the twentieth adhyāya... [sic: the source reads "of the second twenty"] must have been lost, or else the first twenty adhyāyas are those which Sāyaṇācārya wrote.
 
@@ -4128,7 +4128,7 @@ From this it is learnt that the name of this work is *Kāṇvaveda-mantra-bhā�
 
 There are not sufficient grounds to state his time with certainty. From the Pune manuscript it can only be guessed that he was earlier than 300 years ago.
 
-One Devayājñika wrote, about 15?? [?] C.E., a work called *Iṣṭakāpūrṇa-bhāṣya*. In his commentary on the Yājuṣa-sarvānukramaṇī he has quoted something from a commentary on the Kāṇva-saṃhitā.
+One Devayājñika wrote, about 1506 C.E., a work called *Iṣṭakāpūrṇa-bhāṣya*. In his commentary on the Yājuṣa-sarvānukramaṇī he has quoted something from a commentary on the Kāṇva-saṃhitā.
 
 > उर्वन्तरिक्षमित्यस्य रक्षोघ्नं ब्रह्मदेवतेति एवं कण्वसंहिता-
 > भाष्ये व्याख्यातमस्ति ।
@@ -4149,11 +4149,11 @@ These sentences are not in Sāyaṇācārya's commentary. Moreover, he does not 
 
 ### 3. Anantācārya
 
-(time: the first half of the 1?th [?] century C.E.)
+(time: the first half of the 17th century C.E.)
 
-Parts of his commentary are here and there. In the library of the Alwar State it is from the 3?th [?] to the 40th adhyāya; at Pune, from the 3?th to the 40th (a copy of C.E. 17?? [?]); and at Madras from the 3rd [?] to the 1?th [?]... The commentary on the Īśāvāsya Upaniṣad, the 40th adhyāya, was printed by the Ānandāśrama publishers.
+Parts of his commentary are here and there. In the library of the Alwar State it is from the 32nd to the 40th adhyāya; at Pune, from the 32nd to the 40th (a copy of C.E. 1665); and at Madras from the 21st to the 30th adhyāya. The commentary on the Īśāvāsya Upaniṣad, the 40th adhyāya, was printed by the Ānandāśrama publishers.
 
-A manuscript of his commentary on the Prātiśākhya, written at the end of the 17th [?] century C.E., is at Calcutta. In his work called *Kaṇva-kaṇṭhābharaṇa* he has quoted a commentary on the Yājuṣa-sarvānukramaṇī. This too is a work written in the early part of the 17th [?] century C.E. And he has taken sentences from Sāyaṇācārya's work also. For these reasons it can be said that he composed his commentary in the first half of the 17th [?] century C.E.
+A manuscript of his commentary on the Prātiśākhya, written at the end of the 17th century C.E., is at Calcutta. In his work called *Kaṇva-kaṇṭhābharaṇa* he has quoted a commentary on the Yājuṣa-sarvānukramaṇī. This too is a work written in the early part of the 17th century C.E. And he has taken sentences from Sāyaṇācārya's work also. For these reasons it can be said that he composed his commentary in the first half of the 17th century C.E.
 
 At the beginning of the Madras copy he has bowed to his father and mother, telling their names.
 
@@ -4243,9 +4243,9 @@ These other works he also composed.
 
 ### 4. Kālanātha
 
-(time about C.E. 11?? [?] — the digits are not clear; see the reasoning on p. 270, which points to the end of the 12th century)
+(time about C.E. 1192)
 
-The name of his work is *Yajur-mañjarī*. This is not a commentary on the whole Yajurveda. Following the order of the Yājuṣa [*prakramaṇa*], it is in the form of exposition only for [?]0 mantras. At the beginning of the commentary there is this verse —
+The name of his work is *Yajur-mañjarī*. This is not a commentary on the whole Yajurveda. Following the order of the Yājuṣa [*prakramaṇa*], it is in the form of exposition only for 250 mantras. At the beginning of the commentary there is this verse —
 
 > विविच्य भाष्यं विविधांश्च कल्पा-
 > नेतस्य तोषाय मुदा व्यतानीत् ।
@@ -4440,11 +4440,11 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 
 (Devapāla's commentary on the ṛk "*tasmā araṃgamāma vo yasma kṣayāya jinvatha | āpo janayathā ca naḥ*" continues. The page is partly grammatical; it is given here in the form of the print, with the Vyākaraṇa portions characterised rather than expounded.)
 
-> …धातुके (६-४-८७) इति यणादेशः । अनेकार्था धातवः । तेनायमर्थः—जयथोपचिनुथ वा । किमर्थम् । क्षयाय । क्षि निवासगत्योः । भूतानां निवासाय स्थितये गमनाय च नानारूपकर्मोपभोगार्थचेष्टायै ज्ञानाय च । तस्मै अरंगमाम वः । गत्यर्थकर्मणि (२-३-१२) इति कर्मणि चतुर्थी । तं युष्माकं सम्बन्धिनं रसं तूर्णमलं पर्याप्तं वा कृत्वा गच्छेमु [?] जीवनार्थमासाद्यमाशास्महे इति भोगासक्तैरद्ध्वै [?] आशास्यते ॥
+> …धातुके (६-४-६७) इति यणादेशः । अनेकार्था धातवः । तेनायमर्थः—जयथोपचिनुथ वा । किमर्थम् । क्षयाय । क्षि निवासगत्योः । भूतानां निवासाय स्थितये गमनाय च नानारूपकर्मोपभोगार्थचेष्टायै ज्ञानाय च । तस्मै अरंगमाम वः । गत्यर्थकर्मणि (३-१२-२) इति कर्मणि चतुर्थी । तं युष्माकं सम्बन्धिनं रसं तूर्णमलं पर्याप्तं वा कृत्वा गच्छेमु [?] जीवनार्थमासाद्यमाशास्महे इति भोगासक्तैरद्ध्वै [?] आशास्यते ॥
 >
-> *…dhātuke (6-4-87) iti yaṇādeśaḥ | anekārthā dhātavaḥ | tenāyam arthaḥ—jayathopacinutha vā | kimartham | kṣayāya | kṣi nivāsagatyoḥ | bhūtānāṃ nivāsāya sthitaye gamanāya ca nānārūpakarmopabhogārthaceṣṭāyai jñānāya ca | tasmai araṃgamāma vaḥ | gatyarthakarmaṇi (2-3-12) iti karmaṇi caturthī | taṃ yuṣmākaṃ sambandhinaṃ rasaṃ tūrṇam alaṃ paryāptaṃ vā kṛtvā gacchemu [?] jīvanārtham āsādyam āśāsmahe iti bhogāsaktair addhvai [?] āśāsyate ||*
+> *…dhātuke (6-4-67) iti yaṇādeśaḥ | anekārthā dhātavaḥ | tenāyam arthaḥ—jayathopacinutha vā | kimartham | kṣayāya | kṣi nivāsagatyoḥ | bhūtānāṃ nivāsāya sthitaye gamanāya ca nānārūpakarmopabhogārthaceṣṭāyai jñānāya ca | tasmai araṃgamāma vaḥ | gatyarthakarmaṇi (3-12-2) iti karmaṇi caturthī | taṃ yuṣmākaṃ sambandhinaṃ rasaṃ tūrṇam alaṃ paryāptaṃ vā kṛtvā gacchemu [?] jīvanārtham āsādyam āśāsmahe iti bhogāsaktair addhvai [?] āśāsyate ||*
 
-("…[in the affix] *-dhātuke* (6-4-87) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (2-3-12) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers 6-4-87 and 2-3-12 are as printed in Kannada numerals and match the Pāṇinian rules *huśnuvoḥ sārvadhātuke* and *gatyarthakarmaṇi dvitīyācatuthyau ceṣṭāyām anadhvani*; two words of the Sanskrit are doubtful.)
+("…[in the affix] *-dhātuke* (6-4-67) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (3-12-2) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers are printed 6-4-67 and 3-12-2 (re-read on the 600 dpi scan with the user; as printed — the Pāṇinian rules are usually numbered 6-4-87 and 2-3-12), for the rules *huśnuvoḥ sārvadhātuke* and *gatyarthakarmaṇi dvitīyācatuthyau ceṣṭāyām anadhvani*; two words of the Sanskrit are doubtful.)
 
 > मुमुक्ष्वभिप्रायेण त्वित्थं योजना—हे आपः यस्य परमात्मनः क्षयाय नित्यानन्दद्वारेणानुज्ञानाय जिन्वथ यतध्वम् । तं युष्माकमेव सम्बन्धिनं परं स्वभावं वयं युष्मत्प्रसादात्पूर्णं पर्याप्तं वा कृत्वा गच्छेम जानीयाम प्राप्नुयाम च मोक्षप्राप्तिरस्माकमस्त्वित्याशास्महे इत्यर्थः । आपो जनयेथा च नः यस्माद्युष्मत्प्रसादादेवमाशास्महे तस्मादस्मान् मोक्षप्राप्तियोग्यान् जनयध्वं कुरुध्वम् । महानुभावत्वादेकैव च सर्वत्र देवता ब्रह्मरूपा आदित्यरूपा वा श्रूयते ॥
 >
@@ -4464,7 +4464,7 @@ He composed his commentary following the Kaṭha mantra-text. One copy of it is 
 >
 > "By the son of Somānanda, resident of Vijayeśvara, was this commentary on the mantras arranged, with well-determined words and sentences."
 
-The second half of this verse is like the second half of one of the verses in Uvaṭa's commentary. In the copy at Jammu there are only [?]2 leaves. The work is incomplete. Nothing more is yet known about him.
+The second half of this verse is like the second half of one of the verses in Uvaṭa's commentary. In the copy at Jammu there are only 12 leaves. The work is incomplete. Nothing more is yet known about him.
 
 ---
 
@@ -4488,7 +4488,7 @@ That is: the *pada-pāṭha* author is Ātreya and the *vṛtti*-author is Kuṇ
 
 since all *pada-pāṭha*-makers are earlier than the 1st or 2nd century C.E., if the *vṛtti*-author Kuṇḍina is placed at the latest, he may be said to be of the 4th or 5th century C.E. It cannot be said that he was earlier than that.
 
-In the Bodhāyana Gṛhya-sūtra (3-?-6 [?]) it is said, "*kauṇḍinyāya vṛttikārāya*" ("to Kauṇḍinya the author of the *vṛtti*"). There is much difference between the words *kuṇḍina* and *kauṇḍinya*. It is not easy to say how this difference came about.
+In the Bodhāyana Gṛhya-sūtra (3-9-6) it is said, "*kauṇḍinyāya vṛttikārāya*" ("to Kauṇḍinya the author of the *vṛtti*"). There is much difference between the words *kuṇḍina* and *kauṇḍinya*. It is not easy to say how this difference came about.
 
 ### 2. Bhavasvāmī
 
@@ -4533,9 +4533,9 @@ Devarājayajvan, in the introduction to the Nighaṇṭu-commentary, said that t
 
 > "तथा च—रश्मयश्च देवा गरगिरः—इत्यत्र गुहदेवः—
 > गरमुदकं गिरन्ति पिबन्तीति गरगिरः इति भाष्यं कृतवान्"
-> (निघण्टु १-?-१४ [?])
+> (निघण्टु १-३-१४)
 >
-> *"tathā ca—raśmayaś ca devā garagiraḥ—ity atra guhadevaḥ—garam udakaṃ giranti pibantīti garagiraḥ iti bhāṣyaṃ kṛtavān"* (Nighaṇṭu 1-?-14 [?])
+> *"tathā ca—raśmayaś ca devā garagiraḥ—ity atra guhadevaḥ—garam udakaṃ giranti pibantīti garagiraḥ iti bhāṣyaṃ kṛtavān"* (Nighaṇṭu 1-3-14)
 >
 > "And so — 'the rays and the gods, *garagiraḥ*': here Guhadeva made the commentary: 'those who swallow (*giranti*) *gara*, water, i.e. who drink it, are *garagiraḥ*.'"
 
@@ -4560,7 +4560,7 @@ His time cannot be stated with certainty. It can only be said that he was of the
 
 ### 4. Kauśika Bhaṭṭa-Bhāskaramiśra
 
-(time about C.E. 11?0 [?]; the text on p. 276 says "the 11th century")
+(time about C.E. 1050)
 
 His commentary is called *Jñāna-yajña*. He composed the commentary quoting sentences of many ancient commentators, the Nirukta-writers, the Nighaṇṭu-writers, the Gaṇakāra, Bhāradvāja Āryabhaṭṭa, Saugata and many others.
 
@@ -4582,7 +4582,7 @@ In the series of publications of the Government Oriental Library, Mysore, this c
 
 (Read as printed; the words are doubtful and the translation is editorial and tentative.) "*Ataḥ param*" ("hereafter") — if it must be written "next, further on", then the commentary on the preceding parts must have been composed.
 
-In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the 4th [?] kāṇḍa
+In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the 4th kāṇḍa
 
 ### Page 276
 
@@ -4594,53 +4594,53 @@ From his commentary Sāyaṇācārya, Devarājayajvā, Sudarśana, Vedācārya t
 
 ### 5. Kṣura
 
-(time about C.E. 1?00 [?] — the digits are not clear)
+(time about C.E. 1290)
 
 Sāyaṇācārya, in the *Dhātu-vṛtti*, has quoted Kṣura's meaning for five mantras in five places.
 
-(1) On the root number 3? [?] of the Bhvādi group (the commentary): —
+(1) On the root number 25 of the Bhvādi group (the commentary): —
 
-> "अहोरात्राणि मरुतो विलिष्टं सूदयन्तु"—(तै. सं. ३-?-१०)
+> "अहोरात्राणि मरुतो विलिष्टं सूदयन्तु"—(तै. सं. ५-२-१२)
 >
-> *"ahorātrāṇi maruto viliṣṭaṃ sūdayantu"* — (Taittirīya Saṃhitā 3-?-10 [?])
+> *"ahorātrāṇi maruto viliṣṭaṃ sūdayantu"* — (Taittirīya Saṃhitā 5-2-12)
 >
 > "May the Maruts, [with] days and nights, make good what is [ill-]joined."
 
 Here Bhaṭṭabhāskara says [the sentence]; and Kṣura says: "*kṣureṇa tu tava viliṣṭaṃ nyūnaṃ pūrayantv iti*" — "May they fill up your lack, what is deficient."
 
-(2) On the root number 1?3? of the Bhvādi group: —
+(2) On the root number 165 of the Bhvādi group: —
 
 > "त्रय एनां महिमानः सचन्ते"—(तै. सं. ४-३-११)
 >
-> *"traya enāṃ mahimānaḥ sacante"* — (Taittirīya Saṃhitā 4-3-11 [?])
+> *"traya enāṃ mahimānaḥ sacante"* — (Taittirīya Saṃhitā 4-3-11)
 >
 > "Three greatnesses attend her."
 
 Here, according to Kṣura and Bhaṭṭabhāskara, *sacante* means "they serve (*sevante*)".
 
-(3) On the root number 6? of the Bhvādi group: —
+(3) On the root number 655 of the Bhvādi group: —
 
-> "अरेणुभिर्जेहमानम्"—(तै. सं. ४-२-२ [?])
+> "अरेणुभिर्जेहमानम्"—(तै. सं. ४-६-७)
 >
-> *"areṇubhir jehamānam"* — (Taittirīya Saṃhitā 4-2-2 [?])
+> *"areṇubhir jehamānam"* — (Taittirīya Saṃhitā 4-6-7)
 >
 > "…with the dustless [ones]…"
 
 Here "the root *jeh* has also the sense of going" — so it is said by Kṣura and Bhaṭṭabhāskara.
 
-(4) On the root number [?] of the Bhvādi group: —
+(4) On the root number 856 of the Bhvādi group: —
 
-> "आपस्प्रोथ [as printed] दुन्दुभे दुच्छुनान्"—(तै. सं. ४-६-६ [?])
+> "आपस्प्रोथ [as printed] दुन्दुभे दुच्छुनान्"—(तै. सं. ४-६-६)
 >
-> *"āpasproth[a] dundubhe ducchunān"* — (Taittirīya Saṃhitā 4-6-6 [?])
+> *"āpasproth[a] dundubhe ducchunān"* — (Taittirīya Saṃhitā 4-6-6)
 
 In Kṣura: "*apasprothanaṃ huṅkaraṇam iti*" — "*apasprothana* is the making of the sound *huṃ*."
 
-(5) On the root number [?] of the Curādi group: —
+(5) On the root number 336 of the Curādi group: —
 
-> "पितेव पुत्रं दसये वचोभिः"—(तै. सं. ४-२-५ [?])
+> "पितेव पुत्रं दसये वचोभिः"—(तै. सं. ४-२-५)
 >
-> *"piteva putraṃ dasaye vacobhiḥ"* — (Taittirīya Saṃhitā 4-2-5 [?])
+> *"piteva putraṃ dasaye vacobhiḥ"* — (Taittirīya Saṃhitā 4-2-5)
 >
 > "Like a father [to] his son, I [?]… with words."
 
