@@ -2482,6 +2482,24 @@ Whoever, without prior study, perceives the mantras through divine grace alone i
 >
 > *(This particular verse pair concerns a twelve-year period of study/qualification connected to rishi-status; several individual words are difficult to render with full confidence even at this resolution, so the Sanskrit is given as transcribed, without forcing a precise English rendering of every phrase.)*
 
+Those who have studied the mantras and made them their own may also be counted as rishis; but they must have studied and mastered the mantra not fewer than twelve times. Thus rishi-hood may apply not only to the first seers but to others too.
+
+The matter of the rishis is described in some detail in the Vāyu, Brahmāṇḍa and Matsya Purāṇas. The verse numbers given here follow the Brahmāṇḍa Purāṇa, but the readings of all three Purāṇas have been compared and as correct a reading as possible is given.
+
+> ऋषीणां तप्यतामुग्रं तपः परमदुष्करम् ॥ ६७ ॥
+> मन्त्राः प्रादुर्बभूवुर्हि पूर्वमन्वन्तरेष्विह ।
+> असंतोषाद्भयाद्दुःखात्सुखाच्छोकाच्च पंचधा ॥ ६८ ॥
+> ऋषीणां तपः कार्त्स्न्येन दर्शनेन यदृच्छया ।
+>
+> *ṛṣīṇāṃ tapyatām ugraṃ tapaḥ paramaduṣkaram || 67 ||*
+> *mantrāḥ prādurbabhūvur hi pūrvamanvantareṣv iha |*
+> *asaṃtoṣād bhayād duḥkhāt sukhāc chokāc ca paṃcadhā || 68 ||*
+> *ṛṣīṇāṃ tapaḥ kārtsnyena darśanena yadṛcchayā |*
+>
+> "To the rishis practising fierce austerity, most difficult, the mantras became manifest here in the former Manvantaras — in five ways: from discontent, from fear, from sorrow, from joy and from grief …" (Gloss mine and tentative.)
+
+That is: in this and the earlier Manvantaras the rishis practised hard austerity — some with the aim of obtaining mantras, others for reasons such as discontent, fear, sorrow, joy and grief. As the fruit of their austerity the mantras became manifest to them. So, as said before, all who saw the mantras are rishis. The same view is in the Nirukta and the Taittirīya Āraṇyaka.
+
 
 ### Page 178
 
@@ -2507,16 +2525,15 @@ Among the rishis, there are said to be several classes — Maharshi, Rishi, Rish
 
 According to Harishchandra, excluding Shrutarshi, there are only these four divisions.
 
-> अतीतानागतानां च संबन्धाद्ह्यार्षं स्मृतम् । अतस्त्रिकालं वक्ष्यामि तद्ध्यार्षसमुद्भवम् ॥ २० ॥ इत्येता ऋषिजातीस्ता नामभिः शं च वै शृणु ॥ २१ ॥
+> अतीतानागतानां च पंचधा ह्यार्षकं स्मृतम् । अतस्त्वृषीणां वक्ष्यामि तत्र ह्यार्षसमुद्भवम् ॥ ७० ॥ इत्येता ऋषिजातीस्ता नामभिः पंच वै शृणु ॥ १५ ॥
 >
-> अतीतानागतानां च संबन्धाद् ह्य् आर्षं स्मृतम् । अतस् त्रिकालं वक्ष्यामि तद् ध्य् आर्ष-समुद्भवम् ॥ इत्येता ऋषिजातीस् ता नामभिः शं च वै शृणु ॥
-> *atītānāgatānāṃ ca saṃbandhād hy ārṣaṃ smṛtam | atas trikālaṃ vakṣyāmi tad dhy ārṣa-samudbhavam || ityetā ṛṣijātīs tā nāmabhiḥ śaṃ ca vai śṛṇu ||*
+> *atītānāgatānāṃ ca paṃcadhā hy ārṣakaṃ smṛtam | atas tv ṛṣīṇāṃ vakṣyāmi tatra hy ārṣasamudbhavam || 70 || ityetā ṛṣijātīs tā nāmabhiḥ paṃca vai śṛṇu || 15 ||*
 >
-> *(This verse concerns the "Arsha" quality's connection to past and future time and its threefold temporal origin; the precise sense of a few individual words remains uncertain even at this resolution.)*
+> "… thus the Ārṣa is remembered as fivefold. Therefore I shall tell of the rishis, of the origin of the Ārṣa there. Hear these five classes of rishis by their names." (Gloss mine and tentative.)
 
 ### 1. Maharshi = Ishvara (the Divine Ones)
 
-> भृगुर्मरीचिश्चात्रिश्च ह्यंगिराः पुलहः कृतुः । मनुर्दक्षो वसिष्ठश्च पुलस्त्यश्चेति ते दश ॥ ७९ ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयमुच्चराः । सप्तैवर्षयो यस्मात् सृतास् स्यान्महर्षयः ॥ ८० ॥
+> भृगुर्मरीचिश्चात्रिश्च ह्यंगिराः पुलहः कृतुः । मनुर्दक्षो वसिष्ठश्च पुलस्त्यश्चेति ते दश ॥ ९६ ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयमुच्चराः । सप्तैवर्षयो यस्मात् सृतास् स्यान्महर्षयः ॥ ९७ ॥
 >
 > भृगुर् मरीचिश् चात्रिश् च ह्य् अङ्गिराः पुलहः क्रतुः । मनुर् दक्षो वसिष्ठश् च पुलस्त्यश् चेति ते दश ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयम् उच्चराः । सप्तैव ऋषयो यस्मात् सृतास् स्यान् महर्षयः ॥
 > *bhṛgur marīciś cātriś ca hy aṅgirāḥ pulahaḥ kratuḥ | manur dakṣo vasiṣṭhaś ca pulastyaś ceti te daśa || brahmaṇo mānasāḥ sṛṣṭā udgāthāḥ svayam uccarāḥ | saptaiva ṛṣayo yasmāt sṛtās syān maharṣayaḥ ||*
@@ -2528,7 +2545,7 @@ Among the rishis, the first rank belongs to the Maharshis. Bhrigu, Marichi, Atri
 
 ### Page 179 — 2. Rishi
 
-> ईश्वराणां सुता ह्येते ऋषयस्स्वान्निबोधत । काव्यो बृहस्पतिश्चैव कश्यपश्च्यवनस्थ ॥ ९३ ॥ उतथ्यो वामदेवश्च अगस्त्यश्चैषिजस्थ । कर्दमो विश्रवाश्च शक्त्या वाल्मीक्यस्थावर्तकः ॥ ९४ ॥ इत्येते ऋषयः प्रोक्तास्सपसा चर्षितां गताः ।
+> ईश्वराणां सुता ह्येते ऋषयस्स्वान्निबोधत । काव्यो बृहस्पतिश्चैव कश्यपश्च्यवनस्थ ॥ ९८ ॥ उतथ्यो वामदेवश्च अगस्त्यश्चैषिजस्थ । कर्दमो विश्रवाश्च शक्त्या वाल्मीक्यस्थावर्तकः ॥ ९९ ॥ इत्येते ऋषयः प्रोक्तास्सपसा चर्षितां गताः ।
 >
 > *īśvarāṇāṃ sutā hy ete ṛṣayas svān nibodhata | kāvyo bṛhaspatiś caiva kaśyapaś cyavanasya ॥ utathyo vāmadevaś ca agastyaś caiṣijasya | kardamo viśravāś ca śaktyā vālmīkyas tāvartakaḥ ॥ ityete ṛṣayaḥ proktās sapasā carṣitāṃ gatāḥ |*
 >
@@ -2550,7 +2567,7 @@ A disputed point: where rishis are elsewhere classed into "five kinds," Rishiput
 
 ### The Rishis of the Bhrigu Lineage — 1
 
-The Puranas state there are 14 rishis of the Bhrigu lineage, named as follows:
+The Puranas state there are 19 rishis of the Bhrigu lineage, named as follows:
 
 > वित्ते मन्त्रकृतः सर्वे कृत्स्नशास्त्रान्निबोधत । भृगुः काव्यः प्रचेताश्च दधीचो ह्यास्स्वानसः ॥ १०४ ॥ चैवर्षिश्चथ जमदग्निश्च विदः सारस्वतस्थ । आश्मर्षीश्च्यवनश्च वीतहव्यः सुमेधसः ॥ १०५ ॥ वैन्यः पृथुर्दिवोदासो वाध्र्यश्वो गृत्सशौनकाः । विकोनविंशतिश्चैते भृगवो मन्त्रवादिनः ॥ १०६ ॥
 >
@@ -2576,7 +2593,7 @@ The mantra-seeing rishis of the Bhrigu lineage, numbered in the verse above:
 
 The verse states "vikonaviṃśati" (nineteen), but this list gives only eighteen names — perhaps because "Vaidya" and "Vrighu" were meant to be counted separately, though Vedic texts treat "Vena's son Vrighu" as a single figure, "Vaidya Vrighu." Some one name has evidently dropped out of this particular list.
 
-The genealogical tree of these rishis varies across different Puranas. The Mahabharata's Adiparva (60–70) gives it thus:
+The genealogical tree of these rishis varies across different Puranas. The Mahabharata's Adiparva (60–40 [as printed]) gives it thus:
 
 **Bhrigu**
 - **Kavi** (Shukra, teacher of the Daityas)
@@ -2598,15 +2615,15 @@ Among the Atharvaveda's many names is "Bhrigvangiro-veda" (the Veda of Bhrigu an
 
 ### The Angirasa-Lineage Rishis — 33
 
-*(The source gives a dense four-column table of 33 names; several entries are visibly corrupted even in the original printing, per the author's own note below, and are transcribed here as best legible rather than corrected or omitted:)*
+*(The source gives a four-column numbered table of 32 names; numbers and names as printed:)*
 
-Angiras, Trita, Bharadvaja-Barhaspati, Utathya, Garga, Vipra, Sankriti, Gurumita [?], Rishabha, Ambarisha, Yuvanashva, Trisadasyu, Sadasyaman, Ahaarya, Ajamidha, Kashi [?], Sushadha [?], Virupa, Kanva, Mudgala, Uttahya [?], Sharadvat, Vajashrava, Ayasya, Suvitri, Vanamedeva [?], Asija, Brihaduktha, Dirghatama, Kakshivan, and a few further names whose printing is too indistinct to render with confidence.
+1 Aṅgirāḥ · 2 Trita · 3 Bharadvāja Bāṣkali · 4 Ṛtavāk · 5 Garga · 6 Śini · 7 Saṃkṛti · 8 Guruvīta · 9 Māndhātā · 10 Ambarīṣa · 11 Yuvanāśva · 12 Purukutsa · 13 Trasadasyu · 14 Sadasyumān · 15 Āhārya · 16 Ajamīḍha · 17 Ṛṣabha · 18 Kapi · 19 Pṛṣadaśva · 20 Virūpa · 21 Kaṇva · 22 Mudgala · 23 Utathya · 24 Śaradvān · 25 Vājaśravā · 26 Ayāsya · 27 Suvitti · 28 Vāmadeva · 29 Asija · 30 Bṛhaduktha · 31 Dīrghatamā · 32 Kakṣīvān
 
 These thirty-two, with one further name added, make the thirty-three rishis of the Angirasa lineage. Many names among these have become corrupted in transmission, and correcting them is not something the author attempts here. Angiras, the lineage's original progenitor, must belong to a very ancient period. This lineage includes Kshatriyas such as Ambarisha and Yuvanashva — "Nabhaga Ambarisha" is referenced at many points in the Mahabharata. The Angirasa lineage is also connected to the Bhrigu lineage, and its rishis are seers for many suktas of the Atharvaveda.
 
 ### The Kashyapas — 5 [6 named]
 
-कश्यप, वत्सार, स्नैध्रुण [?], ऋष्य, असित, देवल — *(Kashyapa, Vatsara, Snaidhruna, Rishya, Asita, Devala)*. Six rishis of the Kashyapa lineage. Asita and Devala appear to have personal connections recorded in the Mahabharata.
+कश्यप, वत्सार, नैध्रुव, रैभ्य, असित, देवल — *(Kashyapa, Vatsara, Naidhruva, Raibhya, Asita, Devala)*. Six rishis of the Kashyapa lineage. Asita and Devala appear to have personal connections recorded in the Mahabharata.
 
 ### The Atreyas — 6
 
@@ -2639,7 +2656,7 @@ These thirteen all belong to the Vishvamitra lineage; the Matsya Purana adds two
 
 भलन्दन, वत्स, संशील — *(Bhalandana, Vatsa, Sanshila)*. These three are held in especially high regard among the Vaishyas.
 
-**In total, then, there are 73 principal rishis:**
+**In total, then, there are 92 principal rishis:**
 
 | Lineage | Count |
 |---|---|
@@ -2648,45 +2665,45 @@ These thirteen all belong to the Vishvamitra lineage; the Matsya Purana adds two
 | Kashyapa | 6 |
 | Atreya | 6 |
 | Vasishtha | 7 |
-| Kaushika | 15 |
+| Kaushika | 13 |
 | Agastya | 3 |
 | Kshatriya | 2 |
 | Vaishya | 3 |
-| **Total** | **73 (as printed)** |
+| **Total** | **92** |
 
-*(The individual figures above as read do not sum cleanly to 73; this is given as printed in the source rather than silently corrected, since the discrepancy may reflect either a printing variance or a subgroup being counted differently than listed.)*
+*(Figures as printed; 19 + 33 + 6 + 6 + 7 + 13 + 3 + 2 + 3 = 92.)*
 
 
 ### Page 183
 
-According to the Brahmanda Purana, the total count of these rishi-lineages differs somewhat; the Matsya Purana confirms the total of 73. The Brahmanda Purana's figure should generally be regarded as less reliable/corrupted in transmission.
+According to the Brahmanda Purana the number of rishis in these lineages comes to 90; according to the Matsya Purana, 92. Most probably the reading of the Brahmanda Purana is corrupt.
 
 ### These Rishis Are Not Always the First Seers
 
 It was noted at this chapter's outset that the rishis named for a given mantra are not necessarily its very first seers. Supporting evidence:
 
-**1.** A shared account appears across the Taittiriya Samhita, Maitrayani Samhita, and Aitareya Brahmana (~5.14): Manu had many sons and distributed his wealth among them, but his youngest son, **Nabhanedishtha**, was away studying at his guru's household. On completing his studies and returning to claim his share, he found the wealth already divided. Manu therefore directed him to a group of Angirasa rishis performing a yajna to attain heaven, whose ritual procedure contained errors — instructing him to correct their rites, for which they would reward him with their own share of wealth as dakshina. The suktas Manu taught him are the well-known Rigveda 10.61 and 10.1. Bhatta Bhaskara's Krishna-Yajus commentary references this same Brahmana episode; mantra 10.61.6 itself names "Nabha Nedishtha." The point: though these mantras predate Nabhanedishtha, because he derived special benefit from them, tradition came to regard him as their rishi.
+**1.** A shared account appears across the Taittiriya Samhita (3-1-9-30), Maitrayani Samhita (1-5-8), and Aitareya Brahmana (5-14): Manu had many sons and distributed his wealth among them, but his youngest son, **Nabhanedishtha**, was away studying at his guru's household. On completing his studies and returning to claim his share, he found the wealth already divided. Manu therefore directed him to a group of Angirasa rishis performing a yajna to attain heaven, whose ritual procedure contained errors — instructing him to correct their rites, for which they would reward him with their own share of wealth as dakshina. The suktas Manu taught him are the well-known Rigveda 10-61 and 10-62. Bhatta Bhaskara's Krishna-Yajus commentary references this same Brahmana episode; mantra 10-61-18 itself names "Nabha Nedishtha." The point: though these mantras predate Nabhanedishtha, because he derived special benefit from them, tradition came to regard him as their rishi.
 
-**2.** The Aitareya Brahmana (5.14) and Gopatha Brahmana (1.6) suggest that Mandala 4, Sukta 14's principal mantras were first seen by Vishvamitra, and only later imparted to the wider public by Vamadeva in a subsequent generation — yet the Anukramanika names Vamadeva alone as this sukta's rishi.
+**2.** The Aitareya Brahmana (6-18) and Gopatha Brahmana (6-1) suggest that Mandala 4, Sukta 19's opening mantras were first seen by Vishvamitra, and only later imparted to the wider public by Vamadeva in a subsequent generation — yet the Anukramanika names Vamadeva alone as this sukta's rishi.
 
-**3.** The sukta beginning "kasya nūnam..." (~Rigveda 1.24) is assigned by the Sarvanukramani to "Ajigarti" (i.e., Shunashepa, son of Ajigarta) — the same Shunashepa taught by Vishvamitra, who used this very sukta to praise Prajapati, per the Aitareya Brahmana (~7.2–4). Yet the *Ṛktantra Nirukta-samuchchaya* states this mantra's rishi is Vishvamitra himself.
+**3.** The sukta beginning "kasya nūnam..." (Rigveda 1-24) is assigned by the Sarvanukramani to "Ajigarti," that is, Devarata, son of Ajigarta — the same Ajigarti, taught by Vishvamitra, who praised Prajapati with this very sukta, per the Aitareya Brahmana (33-3, 4). Yet Vararuchi's *Nirukta-samuchchaya* says the seer of this mantra is Ajigarta himself.
 
-**4.** The Taittiriya Samhita and Kathaka Samhita state that Rigveda Mandala 3, Sukta 1 was seen by Vishvamitra personally — yet the Sarvanukramani names its rishi as either Gathin or Gathi.
+**4.** The Taittiriya Samhita (5-2-3) and Kathaka Samhita (20-10) state that Rigveda Mandala 3, Sukta 22 was seen by Vishvamitra personally — yet the Sarvanukramani names its rishi as either Gathin or Gathi.
 
 
 ### Page 184
 
 For this reason, these rishis are not always the first seers of the mantras attributed to them; it should firmly be understood that the mantra-corpus continued to receive additions over time. Moreover, once particular rishis' names became well known, mantras came to be primarily used in yajnas under those names — which explains why certain rishi-attributions became prominent regardless of true origin.
 
-The Veda's date cannot be fixed from these rishi genealogies alone. The Bhrigu- and Angirasa-lineage founders are known to have lived during the Mahabharata era, itself dated by scholars to roughly 3000 BCE — placing the Vedas, which predate these founders, at roughly 3000–2500 BCE by this reasoning. Philologists, working from the discipline of Philology, instead estimate Vedic composition at roughly 2000–1500 BCE. Which figure is historically more accurate cannot be said with confidence, and philology itself is not fully reliable for fixing chronology — but it is clear that these named rishis are not the very first, and that earlier rishis likely composed the mantras before them; Vedic mantras should accordingly be understood as existing since beginningless time, used across whatever periods they were actually current.
+The Veda's date cannot be fixed from these rishi genealogies alone. The Bhrigu- and Angirasa-lineage founders are known to have lived during the Mahabharata era, itself fixed at about 3139 BCE — placing the Vedas, which predate these founders, at 2000–2500 [?] BCE by this reasoning. Philologists, working from the discipline of Philology, instead estimate Vedic composition at roughly 2000–1500 BCE. Which figure is historically more accurate cannot be said with confidence, and philology itself is not fully reliable for fixing chronology — but it is clear that these named rishis are not the very first, and that earlier rishis likely composed the mantras before them; Vedic mantras should accordingly be understood as existing since beginningless time, used across whatever periods they were actually current.
 
 ### Rishis Who Were Seers of the Mantras' *Meaning*
 
 Related to the above: a mantra's authority/origin holds special importance. It is unsurprising that one mantra came to be understood differently by different rishis across different eras — even within the same received Brahmana material, a single mantra could be applied differently by different rishis depending on context, because its meaning was understood differently by different interpreters. That "seeing" a mantra (drashtritva) and interpreting its meaning are two distinct things is shown by the following:
 
-**1.** The Nirukta (~3.8) records that Shakapuni held all deities should be known; the deity of a certain sukta became established through Shakapuni's own interpretation specifically, though who first discovered that deity is unknown. Regardless, this mantra (Rigveda 1.164.46) is a single mantra whose deity the sage Ushasta explained according to his own understanding — a reading more widely known than Shakapuni's, which itself adopted this same interpretation; even so, the mantra's own origin traces to the particular teaching Ushasta received.
+**1.** The Nirukta (2-8) records that Shakapuni held all deities should be known; the deity of a certain sukta became established through Shakapuni's own interpretation specifically, though who first discovered that deity is unknown. Regardless, this mantra (Rigveda 1-164-29) is a single mantra whose deity the sage Ushasta explained according to his own understanding — a reading more widely known than Shakapuni's, which itself adopted this same interpretation; even so, the mantra's own origin traces to the particular teaching Ushasta received.
 
-**2.** The Nirukta (7.1) states:
+**2.** The Nirukta (13-12) states:
 
 > न ह्येषु प्रत्यक्षमस्त्यन्येषां तपसस्त्वेषाम् ॥
 >
@@ -2702,7 +2719,7 @@ That is: mantras do not become directly perceivable to the ignorant or to those 
 
 ...are needed. But depending on the specific mantra, the power arising from it and who receives that power becomes clear only from context — the same mantra proving useful differently for different purposes. In this sense, distinguishing the mantra's "meaning-seer" (arthadrashta) from its mere "seer" reflects that a specific individual perceives a mantra's meaning distinctly from perceiving the mantra itself — rishis may thus be seers of a mantra's outward form without necessarily being seers of its deeper meaning.
 
-**3.** The Nirukta (~10.10) states:
+**3.** The Nirukta (10-10) states:
 
 > ऋषेर्दृष्ट्यर्थस्य प्रतिभावात्ख्यानसंयुक्ता ।
 >
@@ -2713,7 +2730,7 @@ That is: mantras do not become directly perceivable to the ignorant or to those 
 
 Here, the word "dṛṣṭyārthasya" establishes that the rishis directly perceived the mantra's meaning as well [as its form].
 
-**4.** Vatsyayana's Kamasutra commentary (~5.1.4) states:
+**4.** Vatsyayana's commentary on the Nyaya-sutra (4-1-62) states:
 
 > य एव मुक्तब्राह्मणस्य द्रष्टारः प्रवक्तारश्च ते खल्वितिहासपुराणस्य धर्मशास्त्रस्य चेति ।
 >
@@ -2722,7 +2739,7 @@ Here, the word "dṛṣṭyārthasya" establishes that the rishis directly perce
 >
 > "Those who are indeed the seers and expounders of the [corresponding] Brahmana are also, indeed, [the seers and expounders] of Itihasa, Purana, and Dharmashastra."
 
-And another sutra (3.2.62):
+And another sutra (2-2-67):
 
 > य एवास्या वेदार्थानां द्रष्टारः प्रवक्तारश्च त एवायुर्वेदप्रभृतीनामिति ।
 >
@@ -2744,7 +2761,7 @@ These statements establish that rishis are both seers of the mantras and, in Bra
 
 Commenting on this, Uvata glosses "rishi" as "*ṛṣir mantrāṇāṃ vyākhyātā*" — "one who explains the mantras is a rishi."
 
-**6.** The word "rishi" also occurs in the Baudhayana Dharmasutra (2.5.9.5); the commentator Govindasvami explains it as one who understands the meaning and intent of the mantras.
+**6.** The word "rishi" also occurs in the Baudhayana Dharmasutra (2-6-36); the commentator Govindasvami explains it as one who understands the meaning and intent of the mantras.
 
 **7.** Medhatithi's commentary on the Manu-smriti (ch. 1, verse 1), glossing "maharṣayaḥ," states:
 
@@ -2762,7 +2779,7 @@ Commenting on this, Uvata glosses "rishi" as "*ṛṣir mantrāṇāṃ vyākhy�
 
 ### Many Rishis' Names Were Taken From the Veda Itself
 
-Vishvamitra's original name was Vishvaratha; after his austerities and attainment of Brahmarshi status, he is well known to have adopted the name "Vishvamitra" from a naming-formula. Similarly, other rishis seem to have taken their names the same way — the rishi "Shiva-sankalpa" took his name from the Yajurveda's famous "Shiva-sankalpa" mantra (34.1). The Aitareya Aranyaka names Vishvamitra, Jamadagni, and others as reciters of the Pranava; the Shatapatha Brahmana connects the meaning of "Vasishtha" and similar words to the senses (indriya). The rishi of the Rigveda's Shraddha-sukta (10.151) is named "Shraddha Kamayani" — a name otherwise unattested for any individual beyond this specific context.
+Vishvamitra's original name was Vishvaratha; after his austerities and attainment of Brahmarshi status, he is well known to have adopted the name "Vishvamitra" from a naming-formula. Similarly, other rishis seem to have taken their names the same way — the rishi "Shiva-sankalpa" took his name from the Yajurveda's famous "Shiva-sankalpa" mantras (34-1 onward). The Aitareya Aranyaka names Vishvamitra, Jamadagni, and others as reciters of the Pranava; the Shatapatha Brahmana connects the meaning of "Vasishtha" and similar words to the senses (indriya). The rishi of the Rigveda's Shraddha-sukta (10-151) is named "Shraddha Kamayani" — a name otherwise unattested for any individual beyond this specific context.
 
 In several such cases, it becomes clear that rishis set aside their own personal names and instead adopted, as their names, words actually found within the Veda's own text. The Bhrigu-proclaimed Manu-smriti states the same:
 
@@ -2782,21 +2799,21 @@ For this reason alone, rishis have held especially venerable status since ancien
 
 ### Page 187
 
-> पार्थिवीं समितिं दृष्ट्व्य ऋषयोऽभ्यागता नृप ॥ ४४ ॥ निमन्त्र्यन्तां मास्नैष्टे सत्कारेण च भूयसा । नैषां सनुपसिष्येषु शक्यं केनचिदासितुम् ॥ ४५ ॥ (Udyoga-parva, ch. 47)
+> पार्थिवीं समितिं दृष्ट्व्य ऋषयोऽभ्यागता नृप ॥ ५४ ॥ निमन्त्र्यन्तां मास्नैष्टे सत्कारेण च भूयसा । नैषां सनुपसिष्येषु शक्यं केनचिदासितुम् ॥ ५५ ॥ (Udyoga-parva, ch. 94)
 >
 > *pārthivīṃ samitiṃ dṛṣṭvya ṛṣayo'bhyāgatā nṛpa ॥ nimantryantāṃ māsnaiṣṭe satkāreṇa ca bhūyasā | naiṣāṃ sanupasiṣyeṣu śakyaṃ kenacid āsitum ॥*
 >
 > "O king, having beheld this earthly assembly, the rishis have arrived as guests. Let them be invited and welcomed with the greatest hospitality — none may remain seated without first attending to them."
 
-They received honored hospitality; only once they were seated did Krishna and the others take their own seats. Rishis are those who have renounced everything — a distinct radiance surrounds them. Between such persons and kings among kings — who deserves greater reverence? Yet, as protectors and propagators of dharma and treasuries of knowledge, they have received honor everywhere without exception. The rishis were, in effect, the very life-breath of Aryan culture and Aryan dharma.
+*(The print continues with further verses of the same passage, numbered ‖58‖ and ‖59‖, not transcribed in this file.)* They received honored hospitality; only once they were seated did Krishna and the others take their own seats. Rishis are those who have renounced everything — a distinct radiance surrounds them. Between such persons and kings among kings — who deserves greater reverence? Yet, as protectors and propagators of dharma and treasuries of knowledge, they have received honor everywhere without exception. The rishis were, in effect, the very life-breath of Aryan culture and Aryan dharma.
 
 ### The Vedas Are Also Called by the Name "Rishi"
 
 The statement "ṛṣir vedaḥ" ("rishi is Veda") rests on several authorities:
 
-**1.** Bhojaraja's commentary on the Unadi-sutras (3.1.146) interprets a technical term for the office of a Dandanatha (chief officer) as meaning "Veda."
+**1.** Bhojaraja's commentary on the Unadi-sutras (2-1-159) interprets a technical term for the office of a Dandanatha (chief officer) as meaning "Veda."
 
-**2.** Haradatta's *Padamanjari* (on Panini) states:
+**2.** Haradatta's *Padamanjari* (on Panini 1-1-18) states:
 
 > ऋषिर्वेदः । तदुक्तं ऋषिका—इत्यादौ दर्शनात् ।
 >
@@ -2823,19 +2840,19 @@ Among Brahmins, the phrase "*taducta-ṛṣikā*" is used in many places meaning
 
 ### Page 188
 
-*(The Buddhist citation above is from Shantarakshita's "Tattva-sangraha," p. 47.)*
+*(The Buddhist citation above is from Shantarakshita's "Tattva-sangraha," p. 14.)*
 
 The Blessed Buddha told Ananda that the ancient sages composed the Vedas and propagated them — so even by the Buddha's own account, rishis are credited as composers and propagators of the mantras. Though the Vedas themselves show little internal consensus on this point, it can be relied upon to this extent; among current scholars, however, this remains genuinely disputed.
 
-The Majjhima Nikaya (~1.2.1, 1.2.9) records the Buddha addressing a young Brahmin named Bharadvaja-putra while staying at Jetavana, Shravasti:
+The Majjhima Nikaya (2-5-5 and 2-5-9) records the Buddha addressing a young Brahmin named Bharadvaja-putra while staying at Jetavana, Shravasti:
 
 "These present-day Brahmins' ancestors were rishis. They composed the Veda and propagated it; even now, [Brahmins] teach it following that same tradition. Brahmins count among their own ancient rishis: Ashtaka, Vamaka, Vamadeva, Vishvamitra, Jamadagni, Angira, Bharadvaja, Vasishtha, Kashyapa, Bhrigu, and others."
 
 Whether rishis existed even in the Buddha's own time is debated, but it's clear that by his era, "the ancient Brahmin ancestors were rishis" had already become a fixed formula. Rishis existed across every age — in fields like austerity and knowledge one may certainly find figures worthy of the name — but truly great rishis of this magnitude are rare in later times, and in the present era, none exist in the strict sense of "seer of mantras."
 
-Counting forward from the Mahabharata era's ruling dynasty — Parikshit, Janamejaya, Shatanika, Ashvamedhadatta and others — their reigns spanned roughly 300 years. Toward the end, Ashvamedhadatta's son Adhisimakrishna performed a long sacrificial session (diksha-sattra). The Vayu Purana records:
+Counting forward from the Mahabharata era's ruling dynasty — Parikshit, Janamejaya, Shatanika, Ashvamedhadatta and others — their reigns spanned about 225 years. Toward the end, Ashvamedhadatta's son Adhisimakrishna performed a long sacrificial session (diksha-sattra). The Vayu Purana records:
 
-> असीमकृष्णे विक्रान्ते राजसूये अश्वसत्त्विषि । प्रशासति वां धर्मेण भूमिं भूमिपसत्तमे ॥ ९३ ॥ ऋषयः संशितात्मानः सत्रे वर्तस्थपरायणाः । ऋज्जयेऽनस्सजके शान्ता दान्ता जितेन्द्रियाः ॥ ९४ ॥ धर्मक्षेत्रे कुरुक्षेत्रे दीर्घसत्रं त उज्जिरे । सत्याश्चीरे दृषद्वत्यां फल्ग्याः कुचिरोघसः ॥ ९५ ॥
+> असीमकृष्णे विक्रान्ते राजसूये अश्वसत्त्विषि । प्रशासति वां धर्मेण भूमिं भूमिपसत्तमे ॥ १२ ॥ ऋषयः संशितात्मानः सत्रे वर्तस्थपरायणाः । ऋज्जयेऽनस्सजके शान्ता दान्ता जितेन्द्रियाः ॥ १३ [?] ॥ धर्मक्षेत्रे कुरुक्षेत्रे दीर्घसत्रं त उज्जिरे । सत्याश्चीरे दृषद्वत्यां फल्ग्याः कुचिरोघसः ॥ १४ ॥
 >
 > *asīmakṛṣṇe vikrānte rājasūye aśvasattviṣi | praśāsati vāṃ dharmeṇa bhūmiṃ bhūmipasattame ॥ ṛṣayaḥ saṃśitātmānaḥ satre vartasthaparāyaṇāḥ | ṛjjaye'nassajake śāntā dāntā jitendriyāḥ ॥ dharmakṣetre kurukṣetre dīrghasatraṃ ta ujjire | satyāścīre dṛṣadvatyāṃ phalgyāḥ kucirogha­saḥ ॥*
 >
@@ -2855,23 +2872,23 @@ A second classification method groups suktas by their principal deity — "devat
 
 ### Page 190
 
-There is no special benefit in arranging by the third (meter-based) method here; the traditional rishi-sequence is given priority. The rishis' names found in the Rigveda are listed below in alphabetical order, with each entry giving Mandala, Sukta, and mantra information. The reading method is explained via two example entries:
+There is no special benefit in arranging by the third (meter-based) method here; the traditional rishi-sequence is given priority. The names of the rishis in the Rigveda, with the Maṇḍala, Sūkta, ṛks and other details of what they saw, are given in the table below in alphabetical order. It is proper to explain how to read it; as examples, 3-4 names are explained here:
 
-**अंशोमुक् वामदेव्यः ४-१७२ [४]** *(Aṃśomuk Vāmadevyaḥ 4-172 [4])*
+**अंहोमुक् वामदेव्यः १०-१२६ [८]** *(Aṃhomuk Vāmadevyaḥ 10-126 [8])*
 
-Here, "Amshomuk Vamadevya" is the rishi's name; "4" gives the Mandala, "172" the sukta reference, and the bracketed "[4]" the total mantras seen by this rishi in that sukta. *(Note: since Mandala 4 has far fewer than 172 suktas in the standard reckoning, "172" here likely refers to a cumulative or serial numbering specific to this index rather than a within-Mandala sukta count — the source doesn't clarify this further.)*
+Here "Aṃhomuk Vāmadevya" is the rishi's name. The number 10 shows the Maṇḍala and 126 the sūkta number, and the number [8] in brackets shows the total number of ṛks seen by that rishi. That is: Aṃhomuk Vāmadevya is the rishi of the 126th sūkta of the 10th Maṇḍala, and this sūkta has 8 ṛks in all.
 
-**अकृष्णः (श्याव) मूषकाः, or मूषकाःअकृष्णः** *(Akṛṣṇaḥ Mūṣakāḥ, or Mūṣakāḥ-Akṛṣṇvāḥ)*
+**अकृष्ट (ष्टाः) माषाः, or माषाः अकृष्टाः** *(Akṛṣṭa (-ṣṭāḥ) Māṣāḥ, or Māṣāḥ Akṛṣṭāḥ)*
 
-The rishi's name may be read either way; where an entry under one form has no detail, the reader is directed to the other form. There, the mantra-details read: [8-74, 1–10, 81–40, [30]] — meaning: in Mandala 8, Sukta 74, mantras 1–10 and 81–40 (thirty mantras in total) are seen by this rishi.
+The rishi's name may be pronounced either way, Akṛṣṭāḥ Māṣāḥ or Māṣāḥ Akṛṣṭāḥ. Where the table has Akṛṣṭāḥ Māṣāḥ without details, look under Māṣāḥ Akṛṣṭāḥ. There the details of the mantras seen by this rishi are: 9-86, 1-10, 31-40, [20] — that is, in the 86th sūkta of the 9th Maṇḍala (this sūkta has 48 ṛks) the ṛks from 1 to 10 and from 31 to 40, 20 ṛks in all, were seen by this rishi Māṣāḥ Akṛṣṭāḥ.
 
-**अर्चनाना आत्रेयः ५-१३; ४४; ८-४३ [३०]** *(Arcanānā Ātreyaḥ 5-13; 44; 8-43 [30])*
+**अर्चनाना आत्रेयः ५-६३ ; ६४ ; ८-४२ [२०]** *(Arcanānā Ātreyaḥ 5-63; 64; 8-42 [20])*
 
-Mandala 5, Sukta 13 (6 mantras), Sukta 44 (6 mantras), and Mandala 8, Sukta 43 (6 mantras) — thirty mantras total — are seen by this rishi.
+Here Arcanānā Ātreya is the rishi's name: the 63rd sūkta of the 5th Maṇḍala (7 ṛks), the 64th sūkta (7 ṛks) and the 42nd sūkta of the 8th Maṇḍala (6 ṛks) — 20 ṛks in all are seen by this rishi.
 
-**असितः काश्यपः ९-५-२४ [१७५]** *(Asitaḥ Kāśyapaḥ, 9-5-24 [175])* — also called **Kāśyapa Devalaḥ**
+**असितः काश्यपः ९-५-२४ [१६४]** *(Asitaḥ Kāśyapaḥ 9-5-24 [164])* — (काश्यपः देवलः ?) *(Kāśyapaḥ Devalaḥ ?)*
 
-Mandala 9, Suktas 5 through 24 — 175 mantras in total — are seen by this rishi. Using this format, any rishi's details can be looked up — whether their name occurs in the Rigveda at all, and where and how many mantras are attributed to them—
+Here Asita Kāśyapa or Kāśyapa Devala is the rishi's name: of the sūktas from 5 to 24 in the 9th Maṇḍala, that is 164 ṛks in all, this rishi is the seer. In this way the particulars of any rishi wanted can be looked up. From this table it can easily be known whether a rishi of a given name is in the Rigveda or not, and where and how many ṛks composed by that rishi there are.—
 
 
 ## Page 191 — The Rigveda's Rishis (Alphabetical Index Begins)
