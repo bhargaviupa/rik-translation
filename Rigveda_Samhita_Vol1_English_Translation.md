@@ -6560,14 +6560,16 @@ But suppose instead we say the very purpose of reciting mantras at the yajna is 
 
 ### "Buddha-shastrat" (Jaimini Sutra 1.2.33)
 
-> अग्नीदग्नीन् विहर (Taittiriya Samhita 6.1.1.1) इति एष मन्त्रः प्रयोगकाले पठ्यते । तच्चाग्निविहरणादिकमाग्नीध्रेणाध्ययनकाल एव स्वकर्तव्यत्वेन बुद्धम् । तस्य च बुद्धार्थस्य पुनर्मन्त्रेण शासनमनर्थकम् । न हि सोपानत्कः पादे प्रतिमुंचति । तस्मात् बुद्धस्यापि अर्थस्य स्मारणाय मन्त्रेण स्मारणमस्तीत्याशंक्य दोषान्तरं सूत्रयति ॥
+> अग्नीदग्नीन् विहर (Taittiriya Samhita 6-3-1-2) इति एष मन्त्रः प्रयोगकाले पठ्यते । तच्चाग्निविहरणादिकमाग्नीध्रेणाध्ययनकाल एव स्वकर्तव्यत्वेन बुद्धम् । तस्य च बुद्धार्थस्य पुनर्मन्त्रेण शासनमनर्थकम् । न हि सोपानत्कः पादे प्रतिमुंचति । तस्मात् बुद्धस्यापि अर्थस्य स्मारणाय मन्त्रेण स्मारणमस्तीत्याशंक्य दोषान्तरं सूत्रयति ॥
 >
-> अग्नीद् अग्नीन् विहर (तैत्तिरीय संहिता ६.१.१.१) इति एष मन्त्रः प्रयोग-काले पठ्यते । तच् चाग्नि-विहरणादिकम् आग्नीध्रेणाध्ययन-काल एव स्वकर्तव्यत्वेन बुद्धम् । तस्य च बुद्धार्थस्य पुनर् मन्त्रेण शासनम् अनर्थकम् । न हि सोपानत्कः पादे प्रतिमुञ्चति । ...
-> *agnīd agnīn vihara (Taittirīya Saṃhitā 6.1.1.1) iti eṣa mantraḥ prayoga-kāle paṭhyate | tac cāgni-viharaṇādikam āgnīdhreṇādhyayana-kāla eva svakartavyatvena buddham | tasya ca buddhārthasya punar mantreṇa śāsanam anarthakam | na hi sopānatkaḥ pāde pratimuñcati | ...*
+> अग्नीद् अग्नीन् विहर (तैत्तिरीय संहिता ६-३-१-२) इति एष मन्त्रः प्रयोग-काले पठ्यते । तच् चाग्नि-विहरणादिकम् आग्नीध्रेणाध्ययन-काल एव स्वकर्तव्यत्वेन बुद्धम् । तस्य च बुद्धार्थस्य पुनर् मन्त्रेण शासनम् अनर्थकम् । न हि सोपानत्कः पादे प्रतिमुञ्चति । ...
+> *agnīd agnīn vihara (Taittirīya Saṃhitā 6-3-1-2) iti eṣa mantraḥ prayoga-kāle paṭhyate | tac cāgni-viharaṇādikam āgnīdhreṇādhyayana-kāla eva svakartavyatvena buddham | tasya ca buddhārthasya punar mantreṇa śāsanam anarthakam | na hi sopānatkaḥ pāde pratimuñcati | ...*
 >
-> "'Agnīd, distribute the fires' (Taittiriya Samhita 6.1.1.1) — this mantra is recited during the ritual performance. But distributing the fire and similar duties have already been learned by the Agnidh priest, as his own responsibility, during his period of study. Instructing him again, through a mantra, about something he already knows serves no purpose. Indeed, no one puts a second shoe on a foot that already wears one."
+> "'Agnīd, distribute the fires' (Taittiriya Samhita 6-3-1-2) — this mantra is recited during the ritual performance. But distributing the fire and similar duties have already been learned by the Agnidh priest, as his own responsibility, during his period of study. Instructing him again, through a mantra, about something he already knows serves no purpose. Indeed, no one puts a second shoe on a foot that already wears one."
 
 That is: the objection here is that mantras convey no meaning, since their sole function is recitation — not instruction, because reciting an already-known meaning serves no purpose. It was already established that mantras must follow a fixed recitation-order (per the previous sutra); now a further flaw is illustrated. "Agnīd agnīn vihara" is an injunctive mantra (vidhi-mantra), also called a "prescriptive" (preṣaṇa) mantra, recited during the yajna to direct the priest performing a task while he performs it. In every yajna, fire is kept burning in the Agnidh's own fire-pit before the ritual begins, and before the rites commence, this fire is carried from the Agnidh's altar to the other altars — this mantra commands precisely that act. But this mantra's meaning is already generally known to every priest participating in the yajna. What purpose is served by restating something everyone already knows?
+
+In this connection there is a story in the Aitareya Brahmana (Ai. Brā. 2-5-4). In the sacrificial hall the gods and the asuras fought for position. The asuras were strong and drove the gods from every place; but they could not drive Agni out of the Agnidhra's place. The gods, taking refuge there, increased their strength and drove out the asuras, and on the other altars, where the asuras had put out the fire, they rekindled it from the fire on the Agnidhra's altar. It is on this basis that the rite called *agni-viharaṇa* is performed in sacrifices. The ṛk "*agninā'gniḥ samidhyate*" (ṛ. 1-12-6) supports this very point. *(Paragraph added in the numeral pass; it was missing from the earlier rendering.)*
 
 ---
 
@@ -6587,7 +6589,7 @@ Generally, yajnas employ sixteen priests, organized into four groups (**गण**
 - **उद्गातृगण** (*udgātṛgaṇa*, Udgatr-group) — प्रस्तोता (*prastotā*), प्रतिहर्ता (*pratihartā*), सुब्रह्मण्य (*subrahmaṇya*) — Samaveda priests.
 - **ब्रह्मगण** (*brahmagaṇa*, Brahma-group) — ब्राह्मणाच्छंसी (*brāhmaṇācchaṃsī*), आग्नीध्र (*āgnīdhra*), पोता (*potā*) — priests who must be learned across all the Vedas.
 
-The Shatapatha Brahmana (10.4.1.7) states that a yajna should not proceed with only sixteen priests — followers of the Kaushitaki shakha therefore appoint a seventeenth priest, the **सदस्य** (*sadasya*), who oversees the entire proceeding to ensure everything runs correctly (this appointment is not customary among Ashvalayana-shakha followers).
+Altogether there are sixteen priests; with the yajamana, seventeen persons. But the Shatapatha Brahmana (10-4-1-9) states that a yajna should not proceed with only sixteen priests — followers of the Kaushitaki shakha therefore appoint a seventeenth priest, the **सदस्य** (*sadasya*), who oversees the entire proceeding to ensure everything runs correctly (this appointment is not customary among Ashvalayana-shakha followers).
 
 The mantra "Agnīd agnīn vihara," discussed above, is used specifically when carrying fire from the Agnidh's altar to the other altars. But the Agnidh and other priests such as the Adhvaryu already know their duties, and the meaning and purpose of the mantras, from their period of Vedic study. Restating what is already known is therefore pointless — as pointless, the objection says, as putting a second shoe over a foot already shod.
 
@@ -6642,20 +6644,25 @@ Even granting mantras a memory-jogging function, this fails for mantras describi
 
 ### Page 381
 
-### "Naṣṭābhimāni-vyapadeśa" (Jaimini Sutra 1.2.36)
-
-> ओषधे त्रायस्वैनम् इति मन्त्रे यजमानस्य त्राणं दधीति (दधिनः, वनस्पतीनां) गुम्भिगे सेरितम् । "अर्ये दर्भीये, ऐष यजमानं रक्षतु" इति इदर अर्थवु । मत्तोंदु मंत्रवु—"श्रुणोत ग्रावाणः" (Jai. Su. 1.2.36) एंदु । इदर अर्थवु—"एल्यै कल्लुगळे, नावु अरिकेमाडुवुदन्नु केळि" एंदागुवुदु ।
+> नन्वभिमानिव्यपदेश इति (वे. सू. २-१-५) वैयासिकशास्त्रे सूत्रितत्वादोषध्याद्यभिमानिचेतनदेवतात्र विवक्ष्यतामित्याशंक्य दोषान्तरं सूत्रयति ॥
+> *nanv abhimānivyapadeśa iti (Ve. Sū. 2-1-5) vaiyāsikaśāstre sūtritatvād oṣadhyādyabhimānicetanadevatātra vivakṣyatām ity āśaṅkya doṣāntaraṃ sūtrayati ||*
 >
-> *(Continuing the objection: mantras address inanimate darbha-grass and pressing-stones with the sentient qualities of "protecting" and "hearing" — qualities properly belonging only to conscious beings, making such address improper unless some presiding deity is understood as the true addressee.)*
+> "It may be said that, since in the Vaiyasika Shastra the sutra 'abhimānivyapadeśaḥ' (Ve. Sū. 2-1-5) has been laid down, the conscious presiding deity of the herbs and the like should be understood here; to guard against this he states a further fault in the next sutra."
 
-It might be said that, per the doctrine of the "abhimānivyapadeśa" sutra in the Vaiyasika Shastra, such clauses truly address some immanent presiding deity rather than the inanimate object itself. To guard against this resolution, a further objection follows.
+*Sutrartha:* qualities such as protecting and hearing, which are possible only in living beings, are attributed to inanimate things too; therefore the mantras are useless.
 
-### "Artha-vipratiṣedhāt" (Jaimini Sutra 1.2.37)
+*Akshepa:* the mantra "oṣadhe trāyasvainam" (Tai. Saṃ. 1-2-1-1) is one that prays to the darbha (darbha belongs to the class of plants) at the time of the yajamana's shaving during his consecration: its meaning is "O darbha, protect this yajamana." Another mantra is "śṛṇota grāvāṇaḥ" (Tai. Saṃ. 1-3-13-1), meaning "O stones, kindly hear what we pray." This mantra prays to the stones when the soma juice is pressed out with stones. In such mantras inanimate things such as darbha and stones are addressed. How can mantras containing such incoherent talk be worthy of respect?
 
-> अदितिर्द्यौरदितिरन्तरिक्षम् (RV 1.89.10[?]) इति मन्त्र आम्नायते । यद् एव द्यौः तद् एवान्तरिक्षम् इति अपि-प्रतिṣiddham । एवं विषयं एव रुद्रः (Taittiriya Samhita 1.8.6.1) सहस्राणि सहस्रशो ये रुद्राः (Taittiriya Samhita 4.5.1.1) इत्याद्यपि अत्र किल कथम् ।
+*Samadhana:* the sage Vyasa, in his Vedanta-sutra, has said "abhimānivyapadeśaḥ" (Ve. Sū. 2-1-3); that is, the herbs and the rest have presiding deities. In the Taittiriya Samhita it is said "somo oṣadhīnām adhipatiḥ"; so it should be understood that in addressing the herb, the prayer is made to the moon, the presiding deity of the herbs. Since it is the presiding deities of the things that are addressed, there is no harm to the dignity of the mantra.
+
+*(Block re-rendered from the print in the numeral pass: the reference is the Vedanta-sutra, not Jaimini 1.2.36, and the earlier Devanagari here was a misreading of the Kannada prose.)*
+
+### "Artha-vipratiṣedhāt" (Jaimini Sutra 1-2-36)
+
+> अर्थविप्रतिषेधात् ॥ (जै. सू. १-२-३६) अदितिर्द्यौरदितिरन्तरिक्षम् (ऋ. १-८९-१०) इति मन्त्र आम्नायते । यदेव द्यौस्तदेवान्तरिक्षमित्ययमर्थो विप्रतिषिद्धः । एवमेक एव रुद्रः (तै. सं. १-८-६-१) सहस्राणि सहस्रशो ये रुद्राः (तै. सं. ४-५-११-५) इत्यादिकमप्युदाहर्तव्यम् ।
+> *arthavipratiṣedhāt || (Jai. Sū. 1-2-36) aditir dyaur aditir antarikṣam (Ṛ. 1-89-10) iti mantra āmnāyate | yad eva dyaus tad evāntarikṣam ity ayam artho vipratiṣiddhaḥ | evam eka eva rudraḥ (Tai. Saṃ. 1-8-6-1) sahasrāṇi sahasraśo ye rudrāḥ (Tai. Saṃ. 4-5-11-5) ityādikam apy udāhartavyam |*
 >
-> अदितिर् द्यौर् अदितिर् अन्तरिक्षम् इति मन्त्र आम्नायते । यद् एव द्यौः तद् एवान्तरिक्षम् इत्य् अपि-प्रतिषिद्धम् । एवं विषयं एव रुद्रः ... सहस्राणि सहस्रशो ये रुद्राः ... इत्य् आद्यपि अत्र किल कथम् ।
-> *aditir dyaur aditir antarikṣam iti mantra āmnāyate | yad eva dyauḥ tad evāntarikṣam ity api-pratiṣiddham | evaṃ viṣayaṃ eva rudraḥ ... sahasrāṇi sahasraśo ye rudrāḥ ... ity ādyapi atra kila katham |*
+> *(Devanagari re-read from the print in the numeral pass.)*
 >
 > "The mantra states: 'Aditi is Dyaus (Heaven), Aditi is Antariksha (the mid-region).' But to say that what is Dyaus is the very same as Antariksha is a self-contradiction. Similarly, one might cite here 'Rudra is one only' alongside 'the Rudras in their thousands.'"
 
@@ -6683,6 +6690,10 @@ The objection: since a single mantra identifies Aditi simultaneously with two di
 >
 > "[One might say:] just as we say of someone, 'you alone are my mother, and you alone are my father,' Aditi is likewise praised metaphorically in the form of Antariksha and similar epithets. Similarly, let it be granted that the one Rudra, through his own yogic power, assumes many forms. Therefore, there is no genuine contradiction of meaning. Anticipating this possible defense, [Jaimini] now formulates yet a further objection, identifying a different flaw."
 
+
+*Sutrartha:* since the meanings stated in the mantras contradict each other, the mantras are not worthy of respect.
+
+*Akshepa:* in the mantra "aditir dyaur aditir antarikṣam" (ṛ. 1-89-10) the contradictory meanings heaven and mid-air are applied to one person. Can contradictory qualities exist in one thing? If one says milk is white, that is the quality found in milk; can the opposite, black, be in milk? A sentence or mantra saying "milk is both white and black" is incoherent. Take another example: "eka eva rudro na dvitīyāya tasthe" (Tai. Saṃ. 1-8-6-1) says that Rudra is one only and there is no second. But in another place, "sahasrāṇi sahasraśo ye rudrā adhi bhūmyām" (Tai. Saṃ. 4-5-11-5) says that the Rudras are on this earth in thousands upon thousands. The meanings of these two mantras contradict each other, and it is hard to say which is right and which wrong. Since many mantras contain such mutually contradictory meanings, the mantras are not worthy of consideration. *(Paragraphs added in the numeral pass; missing from the earlier rendering.)*
 ---
 
 **Embedded English translation, as given in the source:**
@@ -6692,7 +6703,7 @@ The objection: since a single mantra identifies Aditi simultaneously with two di
 
 ### Page 383
 
-### "Svādhyāyavad-vacanāt" (Jaimini Sutra 1.2.39)
+### "Svādhyāyavad-vacanāt" (Jaimini Sutra 1-2-37)
 
 > पूर्णिका नाम काचिद्योषिदवघातं करोति । तत्समीपे माणवकः स्वाध्यायग्रहणकालं कदाचिदवघातमन्त्रमधीते। न च तस्यार्थप्रकाशनविवक्षाऽस्ति, प्रतिमुशलप्रहारं तस्य मन्त्रस्यापश्यमानत्वात्पदग्रहणमात्रं इच्छत इव मन्त्रानभ्यस्यति। तत्र स्वाध्यायकाले पठितोऽप्यश्वं मन्त्रो यथा पूर्णिकां प्रति स्वार्थं न ब्रूते तथा कर्मकालेऽपि स्वार्थं न वक्ष्यति।
 >
@@ -6719,9 +6730,9 @@ That is: just as a mantra's meaning goes unattended during rote study, so too it
 
 **Resolution to the Purnika objection:** there is no intention of conveying meaning when the student recites the mantra during rote study, and Purnika herself has no capacity to grasp it. But in yajna-rites proper, the Adhvaryu priest reciting mantras does know their meaning, does intend to convey it, and those present are capable of understanding it. The claim that mantras are meaningless does not hold.
 
-### "Avijñeyāt" (Jaimini Sutra 1.2.40)
+### "Avijñeyāt" (Jaimini Sutra 1-2-38)
 
-> केषांचिन्मन्त्राणामर्थो विज्ञातुं न शक्यते । तद्यथा । अम्यक्स त इन्द्र ऋष्टिरस्मे (RV 1.24.8[?]) इत्येको मन्त्रः । सृण्येव जर्भरी तुर्फरीतू (RV 10.106.6) इत्यपरो मन्त्रः । ननु एतस्मान्मन्त्रार्थबोधायैव निगमनिरुक्तव्याकरणानि सन्तीत्याशंक्य दोषान्तरं सूत्रयति ॥
+> केषांचिन्मन्त्राणामर्थो विज्ञातुं न शक्यते । तद्यथा । अम्यक्स त इन्द्र ऋष्टिरस्मे (RV 1-169-3) इत्येको मन्त्रः । सृण्येव जर्भरी तुर्फरीतू (RV 10.106.6) इत्यपरो मन्त्रः । ननु एतस्मान्मन्त्रार्थबोधायैव निगमनिरुक्तव्याकरणानि सन्तीत्याशंक्य दोषान्तरं सूत्रयति ॥
 >
 > केषाञ्चिन् मन्त्राणाम् अर्थो विज्ञातुं न शक्यते । तद् यथा । अम्यक्स त इन्द्र ऋष्टिर् अस्मे इत्य् एको मन्त्रः । सृण्येव जर्भरी तुर्फरीतू इत्य् अपरो मन्त्रः । नन्व् एतस्मान् मन्त्रार्थ-बोधायैव निगम-निरुक्त-व्याकरणानि सन्तीत्य् आशङ्क्य दोषान्तरं सूत्रयति ॥
 > *keṣāñcin mantrāṇām artho vijñātuṃ na śakyate | tad yathā | amyaksa ta indra ṛṣṭir asme ity eko mantraḥ | sṛṇyeva jarbharī turpharītū ity aparo mantraḥ | nanv etasmān mantrārtha-bodhāyaiva nigama-nirukta-vyākaraṇāni santīty āśaṅkya doṣāntaraṃ sūtrayati ||*
@@ -6749,7 +6760,7 @@ That is: since the meaning of numerous mantras cannot be properly determined at 
 
 ### Page 385
 
-### "Anitye-saṃyogān mantrānarthakyaṃ" (Jaimini Sutra 1.2.41)
+### "Anitye-saṃyogān mantrānarthakyaṃ" (Jaimini Sutra 1-2-39)
 
 > किं ते कृण्वन्ति कीकटेषु (RV 3.53.14) इति मन्त्रे कीकटो नाम जनपद आम्नातः । तथा नैचाशाखं नाम नगरं प्रमगन्दो नाम राजेत्येतद्वा अनित्या आम्नाताः । तथा च सति स्यात्प्रमगन्दात्प्राय मन्त्रो भूतपूर्व इति गम्यते । तदेवं नित्यस्य शास्त्रादिभिर्हेतुभिर्मन्त्रार्थप्रत्यायनार्थत्वं नास्ति । किंतूच्चारणादृष्ट्यार्थ इति पूर्वः पक्षः ॥
 >
@@ -6783,7 +6794,7 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 
 **There, Jaimini formulates the siddhanta (resolution):**
 
-### "Api śiṣṭasya vākyārthaḥ" (Jaimini Sutra 1.2.42)
+### "Api śiṣṭasya vākyārthaḥ" (Jaimini Sutra 1-2-40)
 
 > तुशब्देन मन्त्राणामुद्दिष्टार्थमुच्चारणमात्रं वारयति । क्रियाकारकसंबन्धेन प्रतीयमानो वाक्यार्थो लोकवेदयोरविशिष्टः । तथा सति यथा लोकेऽर्थप्रत्यायनायैव वाक्यमुच्चार्यते तथा वैदिकयागप्रयोगेऽपि दृश्यम् । मन्त्रेण प्रकाशितस्यार्थोऽनुष्ठातुं शक्यते न...
 >
@@ -6803,7 +6814,7 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 
 ### Page 387
 
-> ...tv aprakāśitaḥ | tasmān nityodgvrekasyocāraṇārtha-prakāśanarūpaṃ dṛṣṭam eva prayojanam | nanu bhūrasi nāri asi śrīṣṭakṛtye traiṣṭubhena chandasā dade (Taittiriya Samhita 4.1.1.1[?]) iti mantre āmnātaḥ | tena tv iva mantreṇa prakīrtitaḥ punarbhryābhrimādatte taṃ caturbhir ābhriṃ ādatte (Taittiriya Samhita 3.1.1.7[?]) iti vidhīyate | tad etad viprāṣṭheṇ vaiphalyaṃ syād ādikta-śaṃkyottaram sūtrayati ॥
+> ...tv aprakāśitaḥ | tasmān nityodgvrekasyocāraṇārtha-prakāśanarūpaṃ dṛṣṭam eva prayojanam | nanu bhūrasi nāri asi śrīṣṭakṛtye traiṣṭubhena chandasā dade (Taittiriya Samhita 4-1-1-3) iti mantre āmnātaḥ | tena tv iva mantreṇa prakīrtitaḥ punarbhryābhrimādatte taṃ caturbhir ābhriṃ ādatte (Taittiriya Samhita 5-1-1-4) iti vidhīyate | tad etad viprāṣṭheṇ vaiphalyaṃ syād ādikta-śaṃkyottaram sūtrayati ॥
 >
 > *(This citation carries the sutra's own argument, worked through the well-known "ābhri" (digging-implement) example, comparing a mantra's descriptive content to a corresponding Brahmana injunction to test whether both can meaningfully coexist without redundancy; some phrase-level readings remain uncertain at this resolution, though the overall argument is clarified by the embedded English translation below.)*
 
@@ -6826,9 +6837,9 @@ The general point: acting according to a purpose already understood is the aim [
 
 If a mantra's meaning is granted, but the Brahmana's own separate injunction (e.g., regarding the fourfold use of the "abhri") becomes redundant given this — that objection was raised on the previous page. It is resolved as follows: this mantra alone does not specify by itself *how many strokes* constitute proper use of the "abhri" — that detail must be learned from elsewhere. Even granting the mantra's own meaning, the Brahmana statement "caturbhir ābhrim ādatte" still serves an independent, non-redundant purpose, specifying the count — resolving the apparent contradiction between the objection and the resolution.
 
-### "Guṇārthena punaḥ-śrutiḥ" (Jaimini Sutra 1.2.43)
+### "Guṇārthena punaḥ-śrutiḥ" (Jaimini Sutra 1-2-41)
 
-> मन्त्रेण प्रतीतस्यार्थस्य ब्राह्मणे यत् पुनःश्रुतिस्तद्देशे चतुःसंख्यालक्षणगुणविधानार्थत्वेनोपयुज्यते । एकस्य विधानस्याभावे चतुर्भ्रां मन्त्राणां मध्ये येन केनाभ्रिं आदद्यीत । तन्निमित्तं वाग्भ्रतश्च (Taittiriya Samhita 4.1.2.1[?]) इत्येतच्छस्त्राभिधानाद्ये । (Taittiriya Samhita 3.1.2.1) इत्येतत्र मन्त्रसामर्थ्येन प्राप्तस्य रचनादानस्य पुनर्ब्राह्मणवाक्यं विनियोजकमाम्नायते । तदेतत्तु न्यर्थमित्याशंक्योत्तरं सूत्रयति ॥
+> मन्त्रेण प्रतीतस्यार्थस्य ब्राह्मणे यत् पुनःश्रुतिस्तद्देशे चतुःसंख्यालक्षणगुणविधानार्थत्वेनोपयुज्यते । एकस्य विधानस्याभावे चतुर्भ्रां मन्त्राणां मध्ये येन केनाभ्रिं आदद्यीत । तन्निमित्तं वाग्भ्रतश्च (Taittiriya Samhita 4-1-2-1) इत्येतच्छस्त्राभिधानाद्ये । (Taittiriya Samhita 5-1-2-1) इत्येतत्र मन्त्रसामर्थ्येन प्राप्तस्य रचनादानस्य पुनर्ब्राह्मणवाक्यं विनियोजकमाम्नायते । तदेतत्तु न्यर्थमित्याशंक्योत्तरं सूत्रयति ॥
 >
 > *(Jaimini's own resolution formula: where a mantra's meaning is restated in a Brahmana passage, that repetition serves the specific purpose of specifying a quantifying detail — here, the "fourfold" count — not otherwise established by the mantra alone. Precise word-level construction is difficult to render with full confidence at this resolution, though the overall doctrine is confirmed by the embedded English translation below.)*
 
@@ -6858,9 +6869,9 @@ That is: where a mantra's own already-understood meaning is repeated in a Brahma
 
 The sutra's meaning: restating what is already said serves to indicate a distinctive point contained within it. Why repeat, in the Brahmana, what the mantra already states? Because the mantra contains a directive about the "abhri" (spade), followed by three further similar mantras — but if one simply followed the mantra alone, the act of taking up the tool could be completed using just one of the four, leaving the remaining three mantras' purpose unclear. The Brahmana resolves this by stating "caturbhir ābhrim ādatte" — one must recite all four mantras before taking up the tool. Since "caturbhiḥ" ("with four") appears nowhere in the mantra itself, without the Brahmana's help, an Adhvaryu might recite only one mantra of his choosing and consider the act complete — improperly performed by shastric standards. The Brahmana's repetition thus serves specifically to supply this missing detail.
 
-But consider the Taittiriya Samhita's mantra "imām agṛbhṇan" ("I have grasped this"), which clearly instructs taking up a rope. The Taittiriya Brahmana restates the same matter: "aśvābhidhānīm ādatte" ("one takes up the rope called ashva"). Here too, one might object that the mantra's application becomes redundant. Anticipating this, the sutra "parisaṅkhyā" follows.
+But consider the Taittiriya Samhita's mantra "imām agṛbhṇan" ("I have grasped this") (Tai. Saṃ. 4-1-2-1), which clearly instructs taking up a rope. The Taittiriya Brahmana (Tai. Brā. 5-1-2-1, as printed) restates the same matter: "aśvābhidhānīm ādatte" ("one takes up the rope called ashva"). Here too, one might object that the mantra's application becomes redundant. Anticipating this, the sutra "parisaṅkhyā" follows.
 
-### "Pariṣaṅkhyā" (Jaimini Sutra 1.2.44)
+### "Pariṣaṅkhyā" (Jaimini Sutra 1-2-42)
 
 > गर्दभाभिधानीं नादत्त इति निषेधः परिसंख्या । तदर्थमिदं ब्राह्मणवाक्यम् ॥
 >
@@ -6995,9 +7006,9 @@ Grammarians and poeticians, following their own logical conventions, do not acce
 >
 > *(Arguing that niyama and pariṣaṅkhyā ultimately reduce to the same underlying logical operation — excluding a simultaneously available alternative — so grammarians treat pariṣaṅkhyā itself as a species of niyama.)*
 
-What was termed pariṣaṅkhyā-vidhi in the previous sutra applies only to that specific case. The Taittiriya Brahmana contains the statement "uru prathasveti prathayati" (Taittiriya Brahmana 3.1.3.4) — the mantra recited while spreading the puroḍāśa cake. One might object that such Brahmana statements remain useless if the mantra already conveys this meaning. Jaimini answers with the next sutra.
+What was termed pariṣaṅkhyā-vidhi in the previous sutra applies only to that specific case. The Taittiriya Brahmana contains the statement "uru prathasveti prathayati" (Taittiriya Brahmana 3-2-8-4) — the mantra recited while spreading the puroḍāśa cake. One might object that such Brahmana statements remain useless if the mantra already conveys this meaning. Jaimini answers with the next sutra.
 
-### "Arthavādo vā" (Jaimini Sutra 1.2.45)
+### "Arthavādo vā" (Jaimini Sutra 1-2-43)
 
 > वाशब्दो न्यायार्थं वारयति । अस्वप्रत्यार्थवादकः । यज्ञपतिमेव तत्प्रथयतीति तेनार्थवादेन संबन्धाय ब्राह्मणे विधिः पठ्यते । ननु प्रथयतीत्येव प्रथनविधिः सिद्ध प्रथनमनुष्ठेयं यज्ञपतिमेवेत्यादिनार्थवादेन स्तोतव्यम् । तदेव तु प्रथनं कुतः प्राप्तमित्यस्याशंक्योत्तरं सूत्रयति ॥
 >
@@ -7108,7 +7119,7 @@ The Mimamsakas' "fruit-authority" doctrine (that every Vedic statement is author
 
 **And in the Bhagavad Gita:**
 
-> यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥ (Bhagavad Gita 2.42)
+> यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥ (Bhagavad Gita 2-47 [?])
 >
 > याम् इमां पुष्पितां वाचं प्रवदन्त्य् अविपश्चितः । वेद-वाद-रताः पार्थ नान्यद् अस्तीति वादिनः ॥
 > *yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||*
@@ -7132,9 +7143,9 @@ That is: just as worldly fruit is transient, so too are the heavenly pleasures g
 
 Even so, since word-order must not be altered (altering it produces nonsense), this sutra answers the objection that mantras yield only unseen (adṛṣṭa) fruit.
 
-### "Aviruddhaṃ param" (Jaimini Sutra 1.2.47)
+### "Aviruddhaṃ param" (Jaimini Sutra 1-2-44)
 
-> परं द्वितीयसूत्रोक्तं स्यात्प्रत्ययं पूपस्वाकशंसाकसं न हि अयं साकल्क्रमनियमादृष्ट्यं निवारयामः ॥ किं तर्हि ॥ मन्त्रेण जायमानमर्थप्रत्यायनं दृष्टप्रयोजनत्वान्नोपेक्षितव्यमिति ब्रूमः । ननु प्रोक्षणीरासादय (Vajasaneyi Samhita 1.33) इति मन्त्रो बुद्धमेवार्थं शास्ति । तदयुक्तम् ।
+> परं द्वितीयसूत्रोक्तं स्यात्प्रत्ययं पूपस्वाकशंसाकसं न हि अयं साकल्क्रमनियमादृष्ट्यं निवारयामः ॥ किं तर्हि ॥ मन्त्रेण जायमानमर्थप्रत्यायनं दृष्टप्रयोजनत्वान्नोपेक्षितव्यमिति ब्रूमः । ननु प्रोक्षणीरासादय (Vajasaneyi Samhita 1-28) इति मन्त्रो बुद्धमेवार्थं शास्ति । तदयुक्तम् ।
 >
 > परं द्वितीय-सूत्रोक्तं स्यात् ... न हि अयं साकल-क्रम-नियमादृष्ट्यं निवारयामः ॥ किं तर्हि ॥ मन्त्रेण जायमानम् अर्थ-प्रत्यायनं दृष्ट-प्रयोजनत्वान् नोपेक्षितव्यम् इति ब्रूमः । ननु प्रोक्षणीर् आसादय इति मन्त्रो बुद्धम् एवार्थं शास्ति । तद् अयुक्तम् ।
 > *paraṃ dvitīya-sūtroktaṃ syāt ... na hi ayaṃ sākala-krama-niyamādṛṣṭyaṃ nivārayāmaḥ || kiṃ tarhi || mantreṇa jāyamānam artha-pratyāyanaṃ dṛṣṭa-prayojanatvān nopekṣitavyam iti brūmaḥ | nanu prokṣaṇīr āsādaya iti mantro buddham evārthaṃ śāsti | tad ayuktam |*
@@ -7158,7 +7169,7 @@ Sutra's meaning: what the second sutra states is not opposed to our view. The in
 
 ...one must know this mantra for sprinkling the yajna's implements with sanctified water (prokṣaṇa) — like the fire-distribution act, already-known matter, restated. One might object this resembles wearing a shoe over another shoe.
 
-### "Sampreṣakarmaṇo garhānupalambhe saṃskāratvāt" (Jaimini Sutra 1.2.48)
+### "Sampreṣakarmaṇo garhānupalambhe saṃskāratvāt" (Jaimini Sutra 1-2-45)
 
 > संप्रेषकर्मणो गर्हा त्वदुक्त दोषो नोपलभ्यते । बुद्धस्यापि अर्थस्य मन्त्रेणानुसंस्करणान्नियमाद्दृष्टलक्षणस्य संस्कारस्य सद्भावात् । यच्चोक्तं चत्वारि शृंगेति मन्त्रेऽसंभवमेवार्थमभिधत्त इति तस्योत्तरं सूत्रयति ॥
 >
@@ -7170,6 +7181,11 @@ Sutra's meaning: what the second sutra states is not opposed to our view. The in
 Sutra's meaning: since an injunctive statement conveys ritual refinement (saṃskāra), it escapes the objection. Mantras like "prokṣaṇīr āsādaya" and "agnīd agnīn vihara" are **presha-mantras** — directive mantras commanding that certain acts be performed. Their stated meaning may already be known, but reciting the mantra to re-announce the act carries a special unseen fruit precisely through following this rule.
 
 Though one learns during study what acts must be performed at their proper time, this knowledge doesn't remain constantly active in memory — it stays latent. Some means is needed to bring it to conscious attention; one could try to recall it through deliberate focus alone, but the rule requiring the act be performed specifically accompanied by this mantra rules out other means of recollection. The claim that presha-mantras are meaningless therefore does not hold.
+
+> यदि हि बोध एवावतिष्ठेत ततोऽनवकाशत्वं भवेत् । इह तु तदीयसंस्कारमात्रावस्थानात्तदभिव्यक्तिद्वारेणास्ति ज्ञानोत्पत्त्यवसर इति न मन्त्रानर्थक्यम् । (तन्त्रवार्तिके १-२-१५)
+> *yadi hi bodha evāvatiṣṭheta tato'navakāśatvaṃ bhavet | iha tu tadīyasaṃskāramātrāvasthānāt tadabhivyaktidvāreṇāsti jñānotpattyavasara iti na mantrānarthakyam | (Tantravārttike 1-2-15)*
+>
+> "If the knowledge itself remained [present], there would be no room [for the mantra]; but here, since only its latent impression remains, there is occasion for knowledge to arise through its manifestation — so the mantras are not meaningless." (Tantravarttika 1-2-15; gloss mine and tentative; quotation added in the numeral pass, missing before)
 
 ---
 
@@ -7193,7 +7209,7 @@ Whether "saṃskāra" is understood as conferring a special unseen fruit (impart
 
 **This resolves the fourth objection ("avidyamāna-vacanāt")** — that mantras like "catvāri śṛṅgā" ("four horns") describe things never experienced in ordinary life.
 
-### "Abhidhāner-arthavādaḥ" (Jaimini Sutra 1.2.49)
+### "Abhidhāner-arthavādaḥ" (Jaimini Sutra 1-2-46)
 
 > असतोऽर्थस्याभिधाने वाक्ये गौणस्यार्थस्योक्तिर्दृष्ट्या । तद्यथा । चत्वारो होतृचोद्गातृ-अध्वर्यु-ब्राह्मणाः अस्य कर्णः शृंगाणि । प्रातःसवनादयस्त्रयः पादाः । गार्हपत्यादीनि सप्त छन्दांसि हस्ताः । ऋग्वेदादिभिस्त्रेधा बन्धनम् । कामान्सृजतीति वृषभः । रोरवीति स्तोत्रं चादिशब्दात् पुनःपुनः करोति । महादेवः सोऽयं प्राणो यज्ञरूपो देवो मर्त्यानाविवेशेति मनुष्या द्विनात्वाधिकांशि । लोकेष्विव गौणप्रयोगा दृश्यन्ते । चित्रांगस्त्री हंसदन्तावली काश्यैवलकेशिनीत्येवं सद्यः स्त्रीयमानत्वात् । एवमोषधे त्रायस्वैनं, शृणोत ग्रावाण इत्याद्यचेतनसंबोधनानि स्तुतिपरत्वेन योजनीयानि । यस्मिन् सजन ओषधिः त्रायते तत्र वसनकर्ता त्रायत इति किमु वक्तव्यम् । तथा ग्रावाणोऽपि...
 >
@@ -7253,7 +7269,7 @@ Similarly, sentences addressing inanimate objects serve to praise the associated
 
 **This resolves the objection raised in "Artha-vipratiṣedhāt"** — the alleged contradictions in "Aditir dyaur aditir antarikṣam" (Aditi is both heaven and atmosphere) and "eka eva rudraḥ... sahasrāṇi sahasraśo ye rudrāḥ" (Rudra is one alone... yet thousands of Rudras exist).
 
-### "Guṇāvadhi-vipratiṣedhāt syāt" (Jaimini Sutra 1.2.50)
+### "Guṇāvadhi-vipratiṣedhāt syāt" (Jaimini Sutra 1-2-47)
 
 > यथा त्वमेव सिता त्वमेव मातेत्यत्र गौणप्रयोगादविरोधस्तद्वत् । एवमेकरुद्रदेवत्ये कर्मण्येको रुद्रः शतरुद्रदेवत्ये शतं रुद्रा इत्यविरोधः । यदुक्तं स्वाध्या...
 >
@@ -7290,7 +7306,7 @@ Sutra's meaning: since the metaphorical meaning indicated in the mantra is accep
 
 **Turning to resolve the Purnika/rote-recitation objection** (from "svādhyāyavad-vacanāt"): the objector had argued that a mantra recited during rote study (illustrated by the woman "Purnika" pounding grain nearby) bears no genuine connection between mantra and act. The next sutra answers this.
 
-### "Vidyā-vacanam-asaṃyogāt" (Jaimini Sutra 1.2.51)
+### "Vidyā-vacanam-asaṃyogāt" (Jaimini Sutra 1-2-48)
 
 > वेदविद्याग्रहणकालेऽर्थस्य यदवचनं तदयज्ञसंयोगादुपपद्यते । न हि पूर्णिकाया अवघातको यज्ञसंयुक्तः । नापि माणवको यज्ञमनुतिष्ठति । अतो यज्ञानुष्ठारान्न तत्रार्थविवक्षा । यदुक्तं अम्यक्सा त इन्द्र । सृण्येव जर्भरी तुर्फरीतूत्यादावर्थस्य ज्ञातुमशक्यत्वादनवबोध इति तस्योत्तरं सूत्रयति ॥
 >
@@ -7320,14 +7336,14 @@ That is: the student's silence on meaning during rote study isn't evidence mantr
 
 Sutra's meaning: during rote practice/study, since the mantra bears no connection to any yajna-related ritual act, no meaning is conveyed. The objection holds that meaning-grasping fails to occur during Vedic study — but when mantras are genuinely applied in yajnas, real efforts at conveying and understanding meaning take place; during mere memorization, no such occasion arises. In the pestle-mantra case, since Purnika's husking isn't part of a yajna, no rule ties the mantra's recitation to the pounding — and the student's own recitation likewise isn't yajna-related. Where no yajna-connection exists, the absence of meaning-knowledge is simply not a flaw at all.
 
-**Resolving the "unintelligible mantras" objection ("avijñeyo'tha," objection 5):**
+**Resolving the "unintelligible mantras" objection ("avijñeyāt," Jai. Sū. 1-2-38):**
 
-### "Śataḥ parama-vijñānam" (Jaimini Sutra 1.2.52)
+### "Śataḥ parama-vijñānam" (Jaimini Sutra 1-2-49)
 
-> विद्यमान एवार्थः प्रमादालस्यादिभिर्विज्ञायते । तेषां निगम-निरुक्त-व्याकरणवशेन धातुतोऽर्थः परिकल्प्यते । तद्यथा । जर्भरी तुर्फरीति इत्येषां मन्त्राणां जर्भर्यादीन्यश्विनो रूपाणि । तेषु हि द्वित्वं लक्ष्यते । अश्विनं चेदं सूक्तम् आ अश्विनौ हंसारावित्यर्थः । सृ इति भर्तारावित्यर्थः । स्फर्फरीतं हंसारावित्यर्थः (Nirukta 2.13[?]) । इति । एवमन्यत्रापीत्यावश्यकम् । यदुक्तं प्रमाणान्तरसंयोगात्स्याच्च न स्यादिति तत्प्रोत्तरं सूत्रयति ॥
+> विद्यमान एवार्थः प्रमादालस्यादिभिर्न विज्ञायते । तेषां निगमनिरुक्तव्याकरणवशेन धातुतोऽर्थः परिकल्पयितव्यः । तद्यथा । जर्भरी तुर्फरीतू इत्येवमादीन्यश्विनोरभिधानानि । तेषु हि द्विवचनान्तत्वं लक्ष्यते । आश्विनं चेदं सूक्तम् । अश्विनोः काममप्राः (ऋ. १०-१०६-११) इति दर्शनात् । एतदेवाभिप्रेत्य निरुक्तकारो व्याचष्टे । जर्भरी भर्तारावित्यर्थस्तुर्फरीतू हन्तारावित्यर्थः (नि. १३-५) इति । एवममम्यक्सा त इत्यादावप्यूहनीयम् । यदप्युक्तं (ऋ. ३-५३-१४) प्रमगन्दाद्यनित्यार्थसंयोगान्मन्त्रस्यानादित्वं न स्यादिति तत्रोत्तरं सूत्रयति ॥
+> *vidyamāna evārthaḥ pramādālasyādibhir na vijñāyate | teṣāṃ nigamaniruktavyākaraṇavaśena dhātuto'rthaḥ parikalpayitavyaḥ | tad yathā | jarbharī turpharītū ity evamādīny aśvinor abhidhānāni | teṣu hi dvivacanāntatvaṃ lakṣyate | āśvinaṃ cedaṃ sūktam | aśvinoḥ kāmam aprāḥ (Ṛ. 10-106-11) iti darśanāt | etad evābhipretya niruktakāro vyācaṣṭe | jarbharī bhartārāv ity arthas turpharītū hantārāv ity arthaḥ (Ni. 13-5) iti | evam amyak sā ta ityādāv apy ūhanīyam | yad apy uktaṃ (Ṛ. 3-53-14) pramagandādyanityārthasaṃyogān mantrasyānāditvaṃ na syād iti tatrottaraṃ sūtrayati ||*
 >
-> विद्यमान एवार्थः प्रमादालस्यादिभिर् विज्ञायते । तेषां निगम-निरुक्त-व्याकरण-वशेन धातुतोऽर्थः परिकल्प्यते । तद् यथा । जर्भरी तुर्फरीति इत्य् एषां मन्त्राणां जर्भर्यादीन्य् अश्विनो रूपाणि । तेषु हि द्वित्वं लक्ष्यते । अश्विनं चेदं सूक्तम्...
-> *vidyamāna evārthaḥ pramādālasyādibhir vijñāyate | teṣāṃ nigama-nirukta-vyākaraṇa-vaśena dhātuto'rthaḥ parikalpyate | tad yathā | jarbharī turpharīti ity eṣāṃ mantrāṇāṃ jarbharyādīny aśvino rūpāṇi | teṣu hi dvitvaṃ lakṣyate | aśvinaṃ cedaṃ sūktam...*
+> *(Devanagari re-read from the print in the numeral pass; the earlier reading was garbled and lacked the references.)*
 >
 > "The meaning does exist, but goes unknown due to carelessness, laziness, or similar causes. In such cases, meaning must be constructed from the word's own verbal root, with the help of Nigama, Nirukta, and Vyakarana. For example: in the mantra containing 'jarbharī turpharītu,' words like 'jarbhari' are forms referring to the Ashvins — their dual number is discernible, and this sukta is itself an Ashvin-hymn."
 
@@ -7344,11 +7360,11 @@ That is: the meaning is genuinely present in such mantras, but goes unnoticed th
 
 ### Page 405
 
-One can indeed determine the meaning of such texts. For difficult words like these, gathering other Vedic passages using similar constructions, with Nirukta and grammar's help, one determines the underlying verbal root and infers meaning accordingly. Working through the cited example: "jarbharī" and "turpharītū" are clearly dual-number words, occurring in verse 6 of Rigveda Mandala 10, Sukta 106 — a sukta dedicated to the Ashvins, confirmed by that same sukta's own line "aśvinoḥ kāmam aprāḥ" ("you fulfilled the Ashvins' desire"). Therefore "jarbharī" and "turpharītū" refer to the Ashvin deities. The Nirukta itself, holding this same view, glosses "jarbharī" as "those who nourish/give shelter" and "turpharītū" as "those who destroy [obstacles]." The same method of inference applies to "amyak sā ta" and similar texts.
+One can indeed determine the meaning of such texts. For difficult words like these, gathering other Vedic passages using similar constructions, with Nirukta and grammar's help, one determines the underlying verbal root and infers meaning accordingly. Working through the cited example: "jarbharī" and "turpharītū" are clearly dual-number words, occurring in verse 6 of Rigveda Mandala 10, Sukta 106 — a sukta dedicated to the Ashvins, confirmed by that same sukta's 11th verse, "aśvinoḥ kāmam aprāḥ" ("you fulfilled the Ashvins' desire"). Therefore "jarbharī" and "turpharītū" refer to the Ashvin deities. The Nirukta itself, holding this same view, glosses "jarbharī" as "those who nourish/give shelter" and "turpharītū" as "those who destroy [obstacles]." The same method of inference applies to "amyak sā ta" and similar texts.
 
 **The ninth and final objection-sutra: "Anitya-saṃyogān mantrānarthakyaṃ."** The Veda mentions non-eternal things — Pramaganda, Babara, Prātaḥsavana, and similar proper names of persons who lived and then perished. Either the claim that the Veda is beginningless (anādi) is false, the objector argues, or the Vedas have no meaning at all — mere recitation must be their sole purpose.
 
-### "Uktvā anitya-saṃyogaḥ" (Jaimini Sutra 1.2.53)
+### "Uktvā anitya-saṃyogaḥ" (Jaimini Sutra 1-2-50)
 
 > प्रथमपादान्तिमाधिकरणे सोऽयमनित्यसंयोगदोष...
 >
@@ -7372,7 +7388,7 @@ One can indeed determine the meaning of such texts. For difficult words like the
 
 ### Page 406
 
-> उक्त्वा परिष्कृतः । तथा हि । तत्र पूर्वपक्षे वेदानां पौरुषेयत्वं वक्तुं काठकं कालापकमित्यादिपुरुषसंबन्धाभिधानं हेतूक्त्वा नित्यदर्शनाच्च (Jaimini Sutra 1.1.29) इति हेत्वन्तरं सूत्रितम् । कस्यायमर्थः । बबरः प्रावाहणिः अकामयत (Taittiriya Samhita 4.1.1.3[?]) इत्यादि अनित्यानां बबरादीनामर्थानां दर्शनात्क पूर्वमसत्त्वाच्चौरुषेयो वेद इति तत्रोत्तरं सूत्रितम् । परं तु श्रुतिसामान्यात् (Jaimini Sutra 1.1.30) इति तस्यायमर्थः । यत्तु परं काठकादिसाम्यानं तत्त्ववचननिमित्तं । यत्तु परं बबराख्यनिमित्त दर्शनं तच्चापि सामान्यमात्रम् ।
+> उक्त्वा परिष्कृतः । तथा हि । तत्र पूर्वपक्षे वेदानां पौरुषेयत्वं वक्तुं काठकं कालापकमित्यादिपुरुषसंबन्धाभिधानं हेतूक्त्वा नित्यदर्शनाच्च (Jaimini Sutra 1-1-28) इति हेत्वन्तरं सूत्रितम् । कस्यायमर्थः । बबरः प्रावाहणिः अकामयत (Taittiriya Samhita 7-1-10-2) इत्यादि अनित्यानां बबरादीनामर्थानां दर्शनात्क पूर्वमसत्त्वाच्चौरुषेयो वेद इति तत्रोत्तरं सूत्रितम् । परं तु श्रुतिसामान्यात् (Jaimini Sutra 1-1-31) इति तस्यायमर्थः । यत्तु परं काठकादिसाम्यानं तत्त्ववचननिमित्तं । यत्तु परं बबराख्यनिमित्त दर्शनं तच्चापि सामान्यमात्रम् ।
 >
 > *(Jaimini's own summary, referring back to his earlier first-pada discussion: the objection there cited the human-derived names "Kathaka," "Kalapaka" (schools named after their teachers) and the appearance of transient proper names like "Babara" as evidence the Veda was composed by humans; the resolution held that such school-names simply reflect which sages transmitted a given recension, not authorship of the Veda's content itself, and that the "Babara" reference is a case of similar-sounding words rather than a genuinely non-eternal element within the Veda's own composition.)*
 
@@ -7417,9 +7433,9 @@ In this way, no flaw whatsoever remains regarding mantra-meaning — mantras gen
 
 ### Page 408
 
-### "Liṅgo'padeśas tad-arthavat" (Jaimini Sutra 1.2.58)
+### "Liṅgo'padeśas tad-arthavat" (Jaimini Sutra 1-2-51)
 
-> आग्नेय्याग्निध्रमुपतिष्ठेति श्रूयते । तस्यायमर्थः । अग्निदेवता यस्या ऋचः सेयमाग्नेयी । तयाग्निध्रस्थानमुपतिष्ठेति । अत्र ह्युपस्थानमुपदिशद्ब्राह्मणमग्ने नय (RV 1.14.1[?]) इत्येवंरूपोपस्थाने मन्त्रप्रतीकं पठित्वा नोपस्थितिं किं तु आग्नेयीत्याख्येनोपदिशति ।
+> आग्नेय्याग्निध्रमुपतिष्ठेति श्रूयते । तस्यायमर्थः । अग्निदेवता यस्या ऋचः सेयमाग्नेयी । तयाग्निध्रस्थानमुपतिष्ठेति । अत्र ह्युपस्थानमुपदिशद्ब्राह्मणमग्ने नय (RV 1-189-1) इत्येवंरूपोपस्थाने मन्त्रप्रतीकं पठित्वा नोपस्थितिं किं तु आग्नेयीत्याख्येनोपदिशति ।
 >
 > आग्नेय्य् आग्निध्रम् उपतिष्ठेति श्रूयते । तस्यायम् अर्थः । अग्नि-देवता यस्या ऋचः सेयम् आग्नेयी । तयाग्निध्र-स्थानम् उपतिष्ठेति । अत्र ह्य् उपस्थानम् उपदिशद् ब्राह्मणम् अग्ने नय इत्य् एवं-रूपोपस्थाने मन्त्र-प्रतीकं पठित्वा नोपस्थितिं किं तु आग्नेयीत्य् आख्येनोपदिशति ।
 > *āgneyy āgnidhram upatiṣṭheti śrūyate | tasyāyam arthaḥ | agni-devatā yasyā ṛcaḥ seyam āgneyī | tayāgnidhra-sthānam upatiṣṭheti | atra hy upasthānam upadiśad brāhmaṇam agne naya ity evaṃ-rūpopasthāne mantra-pratīkaṃ paṭhitvā nopasthitiṃ kiṃ tu āgneyīty ākhyenopadiśati |*
@@ -7442,9 +7458,9 @@ Sutra's meaning: ritual terms are used precisely to indicate meaning. "Āgneyyā
 
 ### Page 409
 
-### "Ūhaḥ" (Jaimini Sutra 1.2.59)
+### "Ūhaḥ" (Jaimini Sutra 1-2-52)
 
-> प्रकृतानाम्नातस्य मन्त्रस्य विकृतौ समन्वेतार्थत्वाय तदुचितसदान्तरस्य प्रक्षेपेण पाठ ऊहः । शब्द्यथा । अन्वेनं माता मन्यतामनु पितानु भ्रातेति प्राकृते पशुविषये मन्त्रपाठः (Maitrayani Samhita 4.1.3.4[?]) । तस्य च मन्त्रस्य विकृतौ पशुद्वये सत्यन्वेना माता मन्यताम् इत्युक्त्ये कर्तव्ये इहैकस्मिन्त्रे व्याख्यारूपं ब्राह्मणमेवमाम्नायते । न माता वर्धते न पितेति ।
+> प्रकृतानाम्नातस्य मन्त्रस्य विकृतौ समन्वेतार्थत्वाय तदुचितसदान्तरस्य प्रक्षेपेण पाठ ऊहः । शब्द्यथा । अन्वेनं माता मन्यतामनु पितानु भ्रातेति प्राकृते पशुविषये मन्त्रपाठः (Maitrayani Samhita 4-13-4) । तस्य च मन्त्रस्य विकृतौ पशुद्वये सत्यन्वेना माता मन्यताम् इत्युक्त्ये कर्तव्ये इहैकस्मिन्त्रे व्याख्यारूपं ब्राह्मणमेवमाम्नायते । न माता वर्धते न पितेति ।
 >
 > प्रकृतानाम् नातस्य मन्त्रस्य विकृतौ समन्वेतार्थत्वाय तद्-उचित-पदान्तरस्य प्रक्षेपेण पाठ ऊहः । शब्द्यथा । अन्वेनं माता मन्यताम् अनु पितानु भ्रातेति प्राकृते पशु-विषये मन्त्र-पाठः । तस्य च मन्त्रस्य विकृतौ पशु-द्वये सत्य् अन्वेना माता मन्यताम् इत्य् उक्त्ये कर्तव्ये इहैकस्मिन्त्त्रे व्याख्या-रूपं ब्राह्मणम् एवम् आम्नायते । न माता वर्धते न पितेति ।
 > *prakṛtānām nātasya mantrasya vikṛtau samanvetārthatvāya tad-ucita-padāntarasya prakṣepeṇa pāṭha ūhaḥ | śabdyathā | anvenaṃ mātā manyatām anu pitānu bhrāteti prākṛte paśu-viṣaye mantra-pāṭhaḥ | tasya ca mantrasya vikṛtau paśu-dvaye saty anvenā mātā manyatām ity uktye kartavye ihaikasminttre vyākhyā-rūpaṃ brāhmaṇam evam āmnāyate | na mātā vardhate na piteti |*
@@ -7492,20 +7508,20 @@ Here, "vṛddhi" (increase) could mean either of two things: age-related growth 
 
 ### Page 411
 
-### "Vidhi-śabdāc ca" (Jaimini Sutra 1.2.60)
+### "Vidhi-śabdāc ca" (Jaimini Sutra 1-2-53)
 
-> मन्त्रव्याख्यानरूपो ब्राह्मणिकः शब्दो विधिशब्द इत्युच्यते । स चैवमाम्नायते । शतं हिमाः शतं वर्षाणि जीव्यासमेत्येवैतदाह (Shatapatha Brahmana 2.3.4.10) इति । तत्र शतं हिमा इत्येतद्व्याख्येयमन्त्रस्य प्रतीकम् । अवशिष्टं तु तस्य तात्पर्यव्याख्यानम् । मन्त्रस्याविवक्षितार्थत्वे तु किं नाम तात्पर्यं मन्त्रे व्याख्यायेत । तस्माद्विवक्षितार्था मन्त्राः प्रयोगकाले स्वार्थप्रकाशनायैवोच्चार्यन्त इत्याह ॥
+> मन्त्रव्याख्यानरूपो ब्राह्मणिकः शब्दो विधिशब्द इत्युच्यते । स चैवमाम्नायते । शतं हिमाः शतं वर्षाणि जीव्यासमेत्येवैतदाह (Shatapatha Brahmana 2-3-4-21) इति । तत्र शतं हिमा इत्येतद्व्याख्येयमन्त्रस्य प्रतीकम् । अवशिष्टं तु तस्य तात्पर्यव्याख्यानम् । मन्त्रस्याविवक्षितार्थत्वे तु किं नाम तात्पर्यं मन्त्रे व्याख्यायेत । तस्माद्विवक्षितार्था मन्त्राः प्रयोगकाले स्वार्थप्रकाशनायैवोच्चार्यन्त इत्याह ॥
 >
 > मन्त्र-व्याख्यान-रूपो ब्राह्मणिकः शब्दो विधि-शब्द इत्य् उच्यते । स चैवम् आम्नायते । शतं हिमाः शतं वर्षाणि जीव्यासम् इत्य् एवैतद् आह इति । तत्र शतं हिमा इत्य् एतद् व्याख्येय-मन्त्रस्य प्रतीकम् । अवशिष्टं तु तस्य तात्पर्य-व्याख्यानम् । मन्त्रस्याविवक्षितार्थत्वे तु किं नाम तात्पर्यं मन्त्रे व्याख्यायेत । तस्माद् विवक्षितार्था मन्त्राः प्रयोग-काले स्वार्थ-प्रकाशनायैवोच्चार्यन्त इत्य् आह ॥
 > *mantra-vyākhyāna-rūpo brāhmaṇikaḥ śabdo vidhi-śabda ity ucyate | sa caivam āmnāyate | śataṃ himāḥ śataṃ varṣāṇi jīvyāsam ity evaitad āha iti | tatra śataṃ himā ity etad vyākhyeya-mantrasya pratīkam | avaśiṣṭaṃ tu tasya tātparya-vyākhyānam | mantrasyāvivakṣitārthatve tu kiṃ nāma tātparyaṃ mantre vyākhyāyeta | tasmād vivakṣitārthā mantrāḥ prayoga-kāle svārtha-prakāśanāyaivoccāryanta ity āha ||*
 >
 > "A Brahmana statement that takes the form of explaining a mantra is called a 'vidhi-śabda.' One such is recorded: 'śataṃ himāḥ śataṃ varṣāṇi jīvyāsam' ('may I live a hundred winters, a hundred years') — this is what is meant. Here, 'śataṃ himāḥ' is the pratīka (opening phrase) of the mantra being explained; the rest explains its purport. If the mantra carried no intended meaning at all, what purport could possibly be explained? This shows that mantras, carrying real intended meaning, are recited at their application specifically to reveal that meaning."
 
-Sutra's meaning: vidhi-śabda words embedded in Brahmanas likewise support that mantras carry meaning. Brahmanas contain many mantra-explanatory statements (the earliest form of Vedic commentary) — such statements are called vidhi-śabda. In "śataṃ himāḥ śataṃ varṣāṇi jīvyāsam ity evaitad āha" (Shatapatha Brahmana 2.3.4.10), "śataṃ himāḥ" is the mantra-portion, and the rest explains its purport — that it means "may we live a hundred years." Had mantras no meaning, there would be no need to explain their purport at all. This too proves mantras carry genuine meaning.
+Sutra's meaning: vidhi-śabda words embedded in Brahmanas likewise support that mantras carry meaning. Brahmanas contain many mantra-explanatory statements (the earliest form of Vedic commentary) — such statements are called vidhi-śabda. In "śataṃ himāḥ śataṃ varṣāṇi jīvyāsam ity evaitad āha" (Shatapatha Brahmana 2-3-4-21), "śataṃ himāḥ" is the mantra-portion, and the rest explains its purport — that it means "may we live a hundred years." Had mantras no meaning, there would be no need to explain their purport at all. This too proves mantras carry genuine meaning.
 
 ### Summary Verse
 
-> मन्त्रा उरुप्रथस्येति शिमुदृष्ट्यै कथेतवः । योगेषूक पुरोडाशप्रभादेश्य भासकाः ॥ ब्राह्मणेनापि तद्व्यानास्यन्तकाः पुष्ट्यकथेतवः । न तद्व्यानस्य दृष्ट्या दृष्ट्यं वरमदृष्ट्यकम् ॥ (Jaimini-nyaya-mala 1.2.4[?])
+> मन्त्रा उरुप्रथस्येति शिमुदृष्ट्यै कथेतवः । योगेषूक पुरोडाशप्रभादेश्य भासकाः ॥ ब्राह्मणेनापि तद्व्यानास्यन्तकाः पुष्ट्यकथेतवः । न तद्व्यानस्य दृष्ट्या दृष्ट्यं वरमदृष्ट्यकम् ॥ (Jaimini-nyaya-mala 1-2-4)
 >
 > *(A closing summary verse from the Jaimini-nyaya-mala tradition, recapping that mantras like "uru prathasva" are shown to serve a directly observable purpose in ritual application, illuminated further by Brahmana explanation, rather than an exclusively unseen one — precise phrase-level construction is difficult to render with full confidence at this resolution, though the overall recapitulation is consistent with the preceding argument.)*
 
@@ -7538,7 +7554,7 @@ Here, the objector's (pūrvapakṣa) view is presented as a question, and the si
 
 **A new question opens:** granting the mantra-portion's authority, does the Brahmana-portion itself carry the same authority?
 
-> नन्वस्तु मन्त्रभागस्य प्रामाण्यम् । ब्राह्मणभागस्य तु न तदस्त्येक्ष्यते । तथा हि । द्विविधं ब्राह्मणम् । विधिरर्थवादश्चेति । तथा चासद्बन्धः । कर्मचोदना ब्राह्मणानि ब्राह्मणशेषोऽर्थवादः (Jaimini... 2.1.33[?]) इति । विधिरपि द्विविधः । अप्रवृत्तप्रवर्तनमज्ञातज्ञापनं चेति । यथा पुरोडाशं निर्वपन्ति दीक्षणीयायाम् (Shatapatha Brahmana 1.1[?]) इत्याद्या कर्मकाण्डगतविधयोऽप्रवृत्तिप्रवर्तकाः । आत्मा वा इदमेक एवाग्र आसीत् (Shatapatha Aranyaka 1.4.1[?]) इत्याद्यो ब्रह्मकाण्डगता अज्ञातज्ञापकाः । तत्र कर्मकाण्डगतानां जर्तिलैर्यवानाग्नौ जुहुयाद् वीरुधः कल्पयाग्ना वा (तैत्तिरीय संहिता 3.1.3.1[?]) इत्यादिविधीनां नास्ति प्रामाण्यम् । प्रवृत्त्युद्यप्रवृत्युद्रव्यविधानेन सम्यगनुभवसाधनत्वाभावात् । अयोग्यत्वं च वाक्यशेषे समाम्नातम् । अनाहुतिर्वै जर्तिलाश्च गवीधु...
+> नन्वस्तु मन्त्रभागस्य प्रामाण्यम् । ब्राह्मणभागस्य तु न तदस्त्येक्ष्यते । तथा हि । द्विविधं ब्राह्मणम् । विधिरर्थवादश्चेति । तथा चासद्बन्धः । कर्मचोदना ब्राह्मणानि ब्राह्मणशेषोऽर्थवादः (Ā. Pa. 32-33) इति । विधिरपि द्विविधः । अप्रवृत्तप्रवर्तनमज्ञातज्ञापनं चेति । यथा पुरोडाशं निर्वपन्ति दीक्षणीयायाम् (Ai. Brā. 1-1) इत्याद्या कर्मकाण्डगतविधयोऽप्रवृत्तिप्रवर्तकाः । आत्मा वा इदमेक एवाग्र आसीत् (Ai. Ā. 2-4-1) इत्याद्यो ब्रह्मकाण्डगता अज्ञातज्ञापकाः । तत्र कर्मकाण्डगतानां जर्तिलैर्यवानाग्नौ जुहुयाद् वीरुधः कल्पयाग्ना वा (तै. सं. ५-४-३-२) इत्यादिविधीनां नास्ति प्रामाण्यम् । प्रवृत्त्युद्यप्रवृत्युद्रव्यविधानेन सम्यगनुभवसाधनत्वाभावात् । अयोग्यत्वं च वाक्यशेषे समाम्नातम् । अनाहुतिर्वै जर्तिलाश्च गवीधु...
 >
 > *(Establishing that Brahmana passages fall into two categories — vidhi (injunction) and arthavāda (explanatory eulogy) — and that vidhi itself divides further into "initiating an unperformed act" and "revealing something unknown." Certain ritual-procedure injunctions are then questioned as to whether they meet the standard of genuinely valid proof, given a following passage that appears to declare a related substance ritually unsuitable; precise phrase-level construction is difficult to render with full confidence at this resolution, given the technical density of citing multiple specific Brahmana/Samhita passages by name.)*
 
@@ -7558,7 +7574,7 @@ Here, the objector's (pūrvapakṣa) view is presented as a question, and the si
 > ...तत्र त्वारण्य-तिलानाम् आरण्य-गोधूमानां चाहुति-द्रव्यत्वं निषिद्धम् । तस्माद् व्याधिको जर्तिलापि विधिर् अप्रमाणम् । एवम् ऐतरेय-प्रियादि-ब्राह्मणेषु तत्-तन्-नाद्यृश्यं तत्रथ न कार्यम् इति वाक्याभ्यां बहवो विधयो निषिद्धाः । अपि चैतरेय-ब्राह्मणस्यानुदितवेला... तस्माद् उदित्के होतव्यम् इत्य् असकृन् निगमितम् । तैत्तिरीयाश् च तस्मिन् नाम्नन्ति । ...
 > ...tatra tvāraṇya-tilānām āraṇya-godhūmānāṃ cāhuti-dravyatvaṃ niṣiddham | tasmād vyādhiko jartilāpi vidhir apramāṇam | evam aitareya-priyādi-brāhmaṇeṣu tat-tan-nādyṛśyaṃ tatratha na kāryam iti vākyābhyāṃ bahavo vidhayo niṣiddhāḥ | api caitareya-brāhmaṇasyānuditavelā... tasmād uditke hotavyam ity asakṛn nigamitam | taittirīyāś ca tasmin nāmnanti | ...
 >
-> *(A dense sequence of specific Brahmana/Samhita citations working through cases where a stated ritual injunction is subsequently qualified or restricted by a related passage elsewhere — e.g., wild sesame and wild wheat being excluded as valid oblation-materials, and a dispute over whether the morning fire-offering must occur before or after sunrise. This passage argues that such internal qualifications show certain isolated Brahmana injunctions to be less than fully authoritative on their own. Given the density of citing numerous specific named Brahmana passages in sequence, precise phrase-level construction is difficult to render with full confidence at this resolution — the embedded English translation below, and the clearer Kannada explanation following, are the more reliable guides to this passage's overall argument.)*
+> *(A dense sequence of specific Brahmana/Samhita citations working through cases where a stated ritual injunction is subsequently qualified or restricted by a related passage elsewhere — e.g., wild sesame and wild wheat being excluded as valid oblation-materials, and a dispute over whether the morning fire-offering must occur before or after sunrise. This passage argues that such internal qualifications show certain isolated Brahmana injunctions to be less than fully authoritative on their own. Given the density of citing numerous specific named Brahmana passages in sequence, precise phrase-level construction is difficult to render with full confidence at this resolution — the embedded English translation below, and the clearer Kannada explanation following, are the more reliable guides to this passage's overall argument. The two Taittiriya Brahmana passages quoted on this page are cited as (Tai. Brā. 2-1-2-7) and (Tai. Brā. 2-1-2-12).)*
 
 Let us accept the Samhita (mantra) portion as authoritative, as already established. But applying that same status to the **Brahmana portion** is not straightforward. Brahmanas fall into two kinds — **vidhi** (injunction) and **arthavāda** (explanatory statement). Apastamba's sutra defines them: "karma-codanā brāhmaṇāni" — statements that impel ritual acts are Brahmanas (vidhis); the remainder is arthavāda. Vidhi itself divides further into two kinds: those that initiate a not-otherwise-performed act, and those that reveal a previously unknown matter. Karma-kanda statements like "āgnāvaiṣṇavam..." and similar...
 
@@ -7575,7 +7591,7 @@ Let us accept the Samhita (mantra) portion as authoritative, as already establis
 
 ...belong to the first category. This statement's meaning: before beginning a yajna, the yajamana must undergo initiation (dīkṣā), called "dīkṣaṇīyeṣṭi."
 
-> सोमयागे प्रवृत्तस्य यजमानस्य संस्कारो दीक्षणम् । तस्मै च संस्कारस्य हेतुः कर्मविशेषो दीक्षणीयाच्च्यवाच्यः ॥ (Sampranabhashya 6, Brahmana 1.1.1)
+> सोमयागे प्रवृत्तस्य यजमानस्य संस्कारो दीक्षणम् । तस्मै च संस्कारस्य हेतुः कर्मविशेषो दीक्षणीयाच्च्यवाच्यः ॥ (Sāyaṇa-bhāṣya, Ai. Brā. 1-1-1)
 >
 > सोमयागे प्रवृत्तस्य यजमानस्य संस्कारो दीक्षणम् । तस्मै च संस्कारस्य हेतुः कर्म-विशेषो दीक्षणीयाच् च्यवाच्यः ॥
 > *somayāge pravṛttasya yajamānasya saṃskāro dīkṣaṇam | tasmai ca saṃskārasya hetuḥ karma-viśeṣo dīkṣaṇīyāc cyavācyaḥ ||*
@@ -7603,7 +7619,7 @@ Similarly, in the Aitareya, Taittiriya, and other Brahmanas, many matters are pr
 
 The Taittiriya Brahmana states similarly through "yad anudite... juhoti" and related passages — if homa is performed before sunrise, the offering goes entirely to Agni rather than reaching Surya; therefore the morning-homa (prātar-homa) must occur only after sunrise. Yet the same tradition also criticizes performing it *after* sunrise:
 
-> यदुदिते सूर्ये प्रातर्जुहुयात् । यथातिथये प्रयुतायै शून्यायावसथायागच्छेत् । आद्यैव स्यात् । (Taittiriya Brahmana 2.1.2.1)
+> यदुदिते सूर्ये प्रातर्जुहुयात् । यथातिथये प्रयुतायै शून्यायावसथायागच्छेत् । आद्यैव स्यात् । (Taittiriya Brahmana 2-1-27, as printed)
 >
 > यद् उदिते सूर्ये प्रातर् जुहुयात् । यथातिथये प्रदुतायै शून्यायावसथायागच्छेत् । आद्यैव स्यात् ।
 > *yad udite sūrye prātar juhuyāt | yathātithaye pradutāyai śūnyāyāvasathāyāgacchet | ādyaiva syāt |*
@@ -7640,7 +7656,7 @@ Among Ekāhas, the most important is the **ज्योतिष्टोम (Jy
 
 1. अग्निष्टोम (Agniṣṭoma) 2. अत्यग्निष्टोम (Atyagniṣṭoma) 3. उक्थ्य (Ukthya) 4. षोडशी (Ṣoḍaśī) 5. वाजपेय (Vājapeya) 6. अतिरात्र (Atirātra) 7. आप्तोर्याम (Āptoryāma)
 
-Of these, **Agnishtoma is the primary form**, the remaining six being its variants — hence Agnishtoma is called the "prakṛti" (base form) and the other six the "vikṛti" (modified forms). In the Agnishtoma, the designated Stotras (hymns, or Sama-chants/mantras) are sung, and after each Stotra-recitation, the accompanying priests — Maitravaruna, Brahmanacchamsi, Achchavaka, and others...
+Of these, **Agnishtoma is the primary form**, the remaining six being its variants — hence Agnishtoma is called the "prakṛti" (base form) and the other six the "vikṛti" (modified forms). In the Agnishtoma, the udgatr and his assistants together sing 12 Stotras (Sama-chants), and after each Stotra-recitation, the accompanying priests — Maitravaruna, Brahmanacchamsi, Achchavaka, and others...
 
 ---
 
@@ -7712,11 +7728,11 @@ It is clear that each successive samstha builds upon the Stotra-Shastras of the 
 
 ### Page 418
 
-Whether to include or omit a given Shastra remains disputed — the Sankhyayana-shrauta, Ashvalayana-shrauta, and Kaushitaki-brahmana all include the Shodashi, while the Aitareya Brahmana omits it entirely. In this yajna (Atiratra), the previous samstha's Stotra-Shastras are chanted through the night, with a Sandhi-stotra recited at sunrise — the continuous nighttime performance likely explaining the name "Atiratra" ("beyond/through the night"). Different Brahmanas count the resulting total Stotra-Shastras differently (some reaching 20, others differing by omitting the Shodashi) — genuine internal variation even within a single yajna's own description. Agnishtoma, Vajapeya, and Aptoryama see comparatively less common use.
+Whether to include or omit a given Shastra remains disputed — the Sankhyayana-shrauta, Ashvalayana-shrauta, and Kaushitaki-brahmana all include the Shodashi, while the Aitareya Brahmana omits it entirely. In this yajna (Atiratra), 12 Stotra-Shastras are sung through the night, and at sunrise a Sandhi-stotra is recited; since the rites go on all night, the yajna is perhaps called "Atiratra." According to the other Brahmanas, in the Atiratra the 15+1 Stotra-Shastras of the Shodashi together with these 12 make 28 Stotra-Shastras in all; but according to the Aitareya, leaving out the Shodashi, the 15 Stotra-Shastras, the 12 Stotras of the Atiratra and the 3 Sandhi-stotras (the Sandhi-stotra being counted as three) make 30 Stotra-Shastras. Thus there are differences even about one and the same yajna. Agnishtoma, Vajapeya, and Aptoryama see comparatively less common use.
 
 **A further, genuinely significant contradiction arises among the "revealing-the-unknown" (ajñāta-jñāpaka) vidhis of the brahma-kāṇḍa:**
 
-> अज्ञातज्ञापकेषु ब्रह्मविधिष्ठ्वपि परस्परविरोधान्नास्ति प्रामाण्यम् । आत्मा वा इदमेक एवाग्र आसीत् (Aitareya Aranyaka 2.4.1[?]) इत्यैतरेयेण आमनन्ति । असद्वा इदमग्र आसीत् (Taittiriya Aranyaka 7.2[?]) इति तैत्तिरीयकाः । सोऽयं विरोधः । तस्माद्येव विधिभागः सर्वोऽप्यप्रमाणमिति प्राप्ते ब्रूमः ॥
+> अज्ञातज्ञापकेषु ब्रह्मविधिष्ठ्वपि परस्परविरोधान्नास्ति प्रामाण्यम् । आत्मा वा इदमेक एवाग्र आसीत् (Aitareya Aranyaka 2-4-1) इत्यैतरेयेण आमनन्ति । असद्वा इदमग्र आसीत् (Taittiriya Aranyaka 8-7) इति तैत्तिरीयकाः । सोऽयं विरोधः । तस्माद्येव विधिभागः सर्वोऽप्यप्रमाणमिति प्राप्ते ब्रूमः ॥
 >
 > अज्ञात-ज्ञापकेषु ब्रह्म-विधिष्व् अपि परस्पर-विरोधान् नास्ति प्रामाण्यम् । आत्मा वा इदम् एक एवाग्र आसीत् इत्य् ऐतरेयेण आम्नन्ति । असद् वा इदम् अग्र आसीत् इति तैत्तिरीयकाः । सोऽयं विरोधः । तस्माद् एव विधि-भागः सर्वोऽप्य् अप्रमाणम् इति प्राप्ते ब्रूमः ॥
 > *ajñāta-jñāpakeṣu brahma-vidhiṣv api paraspara-virodhān nāsti prāmāṇyam | ātmā vā idam eka evāgra āsīt ity aitareyeṇa āmnanti | asad vā idam agra āsīt iti taittirīyakāḥ | so'yaṃ virodhaḥ | tasmād eva vidhi-bhāgaḥ sarvo'py apramāṇam iti prāpte brūmaḥ ||*
@@ -7738,13 +7754,13 @@ Just as karma-kāṇḍa contains contradictions, the brahma-kāṇḍa does too
 
 ### Page 419
 
-> अस्त्येवं जर्तिलादिविधेरप्रामाण्यं तदर्थस्यानुष्ठेयत्वात् । अनुष्ठेयस्त्वर्थ उपरितने—'अजक्षीरेण जुहोति' (Taittiriya Samhita 3.3.3.1[?]) वाक्ये विधीयते । तत्रैतत्संस्थार्थमुत्र जर्तिलादिकमनूद्य निंद्यते । यथा गवाश्वानां च प्रशंसार्थं—'अपशवो वा अन्ये गोऽश्वेभ्यः' (Taittiriya Brahmana 3.6.10.3[?]) इति वाक्येनार्थवादरूपेणाजादीनां पशुत्वं निंद्यते तद्वत् ।
+> अस्त्येवं जर्तिलादिविधेरप्रामाण्यं तदर्थस्यानुष्ठेयत्वात् । अनुष्ठेयस्त्वर्थ उपरितने—'अजक्षीरेण जुहोति' (Taittiriya Samhita 5-4-3-2) वाक्ये विधीयते । तत्रैतत्संस्थार्थमुत्र जर्तिलादिकमनूद्य निंद्यते । यथा गवाश्वानां च प्रशंसार्थं—'अपशवो वा अन्ये गोऽश्वेभ्यः' (Taittiriya Brahmana 3-9-10-2) इति वाक्येनार्थवादरूपेणाजादीनां पशुत्वं निंद्यते तद्वत् ।
 >
 > *asty evaṃ jartilādi-vidher aprāmāṇyaṃ tad-arthasyānuṣṭheyatvāt | anuṣṭheyas tv artha uparitane — 'ajakṣīreṇa juhoti' vākye vidhīyate | tatraitat-saṃsthārtham utra jartilādikam anūdya nindyate | ...*
 >
-> "We grant that the vidhi regarding forest-grown sesame ('jartila') and similar substances lacks authority, since its stated content is not actually meant to be performed. The act that genuinely IS meant to be performed is prescribed in the following clause: 'ajakṣīreṇa juhoti' ('one offers with ajakṣīra'). The mention of jartila and similar substances there merely restates them in order to condemn them — just as, in praising cows and horses, the statement 'other animals besides cow and horse are non-animals [in ritual value]' (Taittiriya Brahmana 3.6.10.3) uses an arthavāda-style condemnation of goats and similar animals' status as sacrificial animals, without literally denying they are animals."
+> "We grant that the vidhi regarding forest-grown sesame ('jartila') and similar substances lacks authority, since its stated content is not actually meant to be performed. The act that genuinely IS meant to be performed is prescribed in the following clause: 'ajakṣīreṇa juhoti' ('one offers with ajakṣīra'). The mention of jartila and similar substances there merely restates them in order to condemn them — just as, in praising cows and horses, the statement 'other animals besides cow and horse are non-animals [in ritual value]' (Taittiriya Brahmana 3-9-10-2) uses an arthavāda-style condemnation of goats and similar animals' status as sacrificial animals, without literally denying they are animals."
 
-*(The Sanskrit continues into a further, highly technical stretch addressing how apparently contradictory injunctions across different Vedic schools/recensions — such as differing sunrise-timing rules, or the "Shodashi" inclusion dispute from a few pages prior — are properly reconciled by recognizing that different schools (śākhā) simply prescribe different valid options for different followers, rather than genuinely contradicting one another; this draws on specific citations from the Taittiriya Samhita, Vajasaneyi Samhita, and Shatapatha Brahmana, and cross-references the Purva-Mimamsa-sutra's own tenth and second adhyayas. Given the density of citing numerous specific named passages in rapid sequence, precise phrase-level construction is difficult to render with full confidence at this resolution — the embedded English translation below is the more reliable guide to the opening of this argument.)*
+*(The Sanskrit continues into a further, highly technical stretch addressing how apparently contradictory injunctions across different Vedic schools/recensions — such as differing sunrise-timing rules, or the "Shodashi" inclusion dispute from a few pages prior — are properly reconciled by recognizing that different schools (śākhā) simply prescribe different valid options for different followers, rather than genuinely contradicting one another; this draws on specific citations from the Taittiriya Samhita, Vajasaneyi Samhita, and Shatapatha Brahmana, and cross-references the Purva-Mimamsa-sutra's own tenth and second adhyayas. Given the density of citing numerous specific named passages in rapid sequence, precise phrase-level construction is difficult to render with full confidence at this resolution — the embedded English translation below is the more reliable guide to the opening of this argument. The references printed in this stretch are, in order: (Tai. Saṃ. 1-1-1), (Vā. Saṃ. 1-1), (Śa. Brā. 1-7-1-3), (Tai. Saṃ. 2-6-9-6), (Tai. Saṃ. 2-6-9-6) and (Pū. Mī. 10-8-6).)*
 
 ---
 
