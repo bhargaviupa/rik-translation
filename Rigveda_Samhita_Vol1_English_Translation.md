@@ -5129,11 +5129,11 @@ The Vedic doctrine's most important trait, and its practical value, lies in its 
 
 ### Page 325
 
-...the ritual acts of yajnas — composed with a poet's rhythmic care, or sung with a warrior's rallying spirit — sought longevity, wealth, fame, sons, and cattle for the community through fire-offerings and Soma-libations (see e.g. 1.1.8; 1.1.9).
+...the ritual acts of yajnas — composed with a poet's rhythmic care, or sung with a warrior's rallying spirit — sought longevity, wealth, fame, sons, and cattle for the community through fire-offerings and Soma-libations (see e.g. 7-1-5; 7-1-23).
 
-The Rigveda, being primarily connected to the **Purohita** class, naturally reflects their own worldview — where priestly matters took priority, devotion to the deities was steadfast, and prayer went well beyond basic subsistence. In war, kings prayed for victory through their Purohita, pleasing their chosen deity and considering it improper to abandon that deity for a rival one once devotion had been pledged. Mandala 7's suktas show Vasishtha's own royal patron relying jointly on Indra and Varuna for aid in the same battle — even while helping one side, no hesitation existed about opposing the other:
+The Rigveda, being primarily connected to the **Purohita** class, naturally reflects their own worldview — where priestly matters took priority, devotion to the deities was steadfast, and prayer went well beyond basic subsistence. In war, kings prayed for victory through their Purohita, pleasing their chosen deity and considering it improper to abandon that deity for a rival one once devotion had been pledged. In the 83rd sukta of Mandala 7, Vasishtha calls on Indra and Varuna to aid his patron Sudas (7-83-3), relying jointly on Indra and Varuna for aid in the same battle — even while helping one side, no hesitation existed about opposing the other:
 
-> "Hear my prayer, all-knowing Indra; look upon these battle-difficulties. Many pray to you; I too pray, trusting in you." (7.18.1)
+> "Hear my prayer, all-knowing Indra; look upon these battle-difficulties. Many pray to you; I too pray, trusting in you." (7-28-1)
 
 This confirms that faith in the deities, mediated through the Purohita, was believed capable of securing victory — righteousness and divine reliance together constituting the true path to success.
 
@@ -5150,26 +5150,30 @@ In the Vedic era, deities were **not enshrined in temples** for worship, nor wor
 
 ### Page 326
 
-Modern researchers, using **comparative philology**, have established with reasonable confidence that Indians, Persians, Greeks, Germans, and Italians all once formed a single unified group, living together in one place. The **Avesta**'s language shows close similarity to the Rigveda's language, indicating that, in ancient times, one group split off, another remained, and both continued residing side by side for a long period. Later, the Hindus entered India specifically. It can be determined, with reasonable precision, from the names of rivers appearing in the Rigveda, which places the Aryans first settled. Following the Ganga river's route, further eastward-region rivers' names occur less frequently. The Sindhu and its own tributary rivers — the **Vitasta** (present-day Jhelum), **Asikni** (Chenab), **Parushni** (Ravi), **Vipas** (Beas), and **Shutudri** (Sutlej) — all appear by these names in the Rigveda. The Ganga river's name appears just once, in a single place (10.75.5). This suggests that, when much of the Rigveda was composed, the Aryans had not yet penetrated as far as the Ganga's banks. The **Kubha** (Kabul) and **Suvastu** (the Swat) river-names also occur, confirming that at the time much of the Rigveda was composed, the Aryans were settled across the region spanning Kabul to the Punjab.
+Modern researchers, using **comparative philology**, have established with reasonable confidence that Indians, Persians, Greeks, Germans, and Italians all once formed a single unified group, living together in one place. The **Avesta**'s language shows close similarity to the Rigveda's language, indicating that, in ancient times, one group split off, another remained, and both continued residing side by side for a long period. Later, the Hindus entered India specifically. It can be determined, with reasonable precision, from the names of rivers appearing in the Rigveda, which places the Aryans first settled. Following the Ganga river's route, further eastward-region rivers' names occur less frequently. The Sindhu and its own tributary rivers — the **Vitasta** (present-day Jhelum), **Asikni** (Chenab), **Parushni** (Ravi), **Vipas** (Beas), and **Shutudri** (Sutlej) — all appear by these names in the Rigveda. The Ganga river's name appears just once, in a single place (10-75-5). This suggests that, when much of the Rigveda was composed, the Aryans had not yet penetrated as far as the Ganga's banks. The **Kubha** (Kabul) and **Suvastu** (the Swat) river-names also occur, confirming that at the time much of the Rigveda was composed, the Aryans were settled across the region spanning Kabul to the Punjab.
 
-Villages, forts, and cities built of brick are also mentioned, alongside forts of stone (1.104.1; 1.44.10; 7.6.5; 7.15.14; 7.18.1[?]) — though whether these were the deities' own fortresses or genuinely fortified structures used decoratively remains a debated point.
+Villages, forts, and cities built of brick are also mentioned, alongside forts of stone (1-114-1, 1-44-10, 7-3-7, 7-15-14, 7-95-1) — though whether these were the deities' own fortresses or genuinely fortified structures used decoratively remains a debated point.
 
 Among people's chief occupations were **agriculture** and **animal husbandry**. Every deity is prayed to, at some point, for crops, wealth, horses, and cattle — praying for cattle in particular is especially common. People valued these as their wealth. No other name for wealth appears elsewhere in the Veda quite so often — only in the Atharvaveda does "Akshaya" (imperishable wealth) occur as a term.
 
-> प्रीहिमत्रं यवमत्रमथो माषमथो तिलम् । (Atharva — 8.70[?].2)
+> प्रीहिमत्रं यवमत्रमथो माषमथो तिलम् । (Atharva — 6-140-2)
 
 
 ### Page 327
 
-Roasted grains and crushed handfuls mixed with ghee were offered to deities (2.1[?].5; 2.13.2[?]). Various domesticated animal species are named, especially oxen and horses (5.19.3; 5.83.7; 10.121[?]); ox-meat cooking is occasionally mentioned too (5.5[?].2; 8.3[?].3; 8.66.10) — though whether such practices reflect universal custom or occasional exception is hard to determine, much as with Soma consumption itself, since some later ritual texts explicitly restrict it.
+Parched grains, and flour mixed with curds or ghee (*karambha*), were offered to the deities (3-35-3, 7; 3-52-5, 7). Many trees are named, and there are hymns addressed to them (7-34-23; 7-35-5; 10-97-15). Pieces of meat are mentioned, mostly for the homa (1-161-10). In 5-29-7, 8-12-8 and 8-66-10 it is said that many buffaloes were cooked or eaten; from these it can be known that meat-eating too was in use. Soma-drinking was a common practice: besides offering it to Indra and the other deities, their worshippers too drank soma, and it is said here and there that they were intoxicated by soma (6-47-3; 8-48-3). Surā (liquor) was also drunk (7-86-6; 8-2-12). But it is known from the Dharmashastras of Manu and others that later both soma- and surā-drinking were forbidden.
 
-Rishis of this era excelled in chariot construction, and skilled craftsmen (kushalaru) practiced this trade — chariot-building imagery recurs frequently in poetic metaphor. Weaving was likewise common, its imagery ("thread") also used metaphorically in mantra composition. Woodworking/carpentry, leatherwork, and metalwork are all mentioned as Aryan crafts.
+The Vedic Aryans knew many crafts. They were very skilled at making chariots (9-112), and the poets' skill of composition is compared to the chariot-maker's craft (2-19-8; 2-35-2). Weaving was a very common craft; in describing the composition of mantras the root *ve* ("to weave") is used (7-33-9, 12). Building boats (2-39-4; 1-25-7; 7-88-8), twisting ropes (7-84-2), tanning hides and making leather goods (7-63-1; 7-89-2; 7-103-2) were other crafts the Aryans relied on. Agriculture was well advanced, and irrigation works (3-45-3; 7-49-2) were carried on vigorously; the gambler is advised to take up agriculture.
+
+Besides drinking, gambling was very common (7-86-6; 10-34), and there were thieves and robbers too (7-55-3, 7-86-5).
+
+*(The two paragraphs above and this sentence were rewritten from the print in the numeral pass, to place the page's references; the earlier rendering had condensed them.)*
 
 Trade is scarcely mentioned, and seafaring activity even less so — what boat-usage appears seems oriented toward river-crossing rather than genuine sea voyages.
 
 Marriage was arranged by the father; widow remarriage appears to have been considered acceptable. Details of husband-wife relations are scarce, but the **wife held a significant position within the household** — "household deity, mistress of the household" — with authority over domestic affairs; there's little evidence of exclusive husbandly authority in this domain. A house without a mistress, it's noted, could not properly function; a newly arrived young bride becomes the household's own yajamana (ritual mistress). This blessing was offered to a bride newly arriving in her husband's home:
 
-> सम्राज्ञी श्वशुरे भव सम्राज्ञी श्वश्र्वां भव । ननान्दरि सम्राज्ञी भव सम्राज्ञी अधि देवृषु ॥ (10.85.46)
+> सम्राज्ञी श्वशुरे भव सम्राज्ञी श्वश्र्वां भव । ननान्दरि सम्राज्ञी भव सम्राज्ञी अधि देवृषु ॥ (10-85-46)
 >
 > "Be sovereign over your father-in-law; be sovereign over your mother-in-law. Be sovereign over your sister-in-law; be sovereign over your brothers-in-law too."
 
@@ -5178,42 +5182,48 @@ That is: may you hold authority over your in-laws — meaning, may you look afte
 
 ### Page 328
 
-> "From the very beginning, before the father-in-law's time itself, this position remains fixed" — meaning her authority over mother-in-law and household affairs was established from the outset. That is: women held an honored place in domestic life, connected to maintaining household happiness (10.85).
+> "From the very beginning, before the father-in-law's time itself, this position remains fixed" — meaning her authority over mother-in-law and household affairs was established from the outset. That is: women held an honored place in domestic life, connected to maintaining household happiness (10-85).
 
-On the wider question of women's authority, the term "kshatriya" (used elsewhere for the warrior class) and terms for "wife" appear used in overlapping ways (1.109.2[?]; 1.126.1[?]; 1.109.8; 10.86.9[?]; 6.75.19; 8.75.9[?]; 10.95.1[?]). A woman is described achieving independence by bringing an errant husband back under control (10.34.11-12[?]).
+From all the points stated above it appears that monogamy was the custom (1-124-7; 4-3-2; 10-71-4; 1-105-2). But it is known that among the Kshatriyas especially polygamy also existed (1-62-11; 1-71-1; 1-105-8; 10-33-2; 7-26-3; 7-18-2; 10-43-1).
 
-Marriage aimed at mutual companionship and establishing a lineage — prayers commonly requested sons for one's family, with the eldest son apparently holding special priority (including a special inheritance share), though whether daughters held inheritance rights is unclear. No evidence suggests anything but genuine mutual affection within Vedic-era families.
+A woman had the freedom to choose her husband (10-27-11, 12).
 
-Whether monogamy or polygamy was the established norm isn't entirely clear — some Rigveda passages place no restriction on plural wives (4.5.5[?]), and specific status for co-wives appears unfixed in places (10.72.8[?]; 10.71.4[?]).
+Marriage is a divine event. Its chief purpose is that man and woman be united and, supporting each other, work for their welfare and continue the line. Hence almost all prayers include the wish for good offspring. A son of one's own body had a higher place than an adopted son; hence everyone desired a son. From Vedic times to the present the feeling is seen that there is no greater joy than the birth of a son.
 
-Remarriage after divorce doesn't appear to have been common practice — marriage was held to be a supremely sacred act, and mantras generally express the wish that a woman's marriage remain permanently fixed to one husband, without dissolution:
+That sati (*sahagamana*) was in use, as in present society, is not said anywhere in the Ṛgveda; there are no sentences on it. In the Atharvaveda (18-3-1) *sahagamana* is called a very ancient custom (*purāṇa dharma*). Since the Ṛgveda speaks of the widow's right to property, it can be said that *sahagamana* was not compulsory but voluntary (10-18-7; 10-40-2).
 
-> कुणस्सिद्ध्योष्णा कुण वस्त्रोऽरश्चिना कुहाभिसिक्तं करकः कुहोषतुः । को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥ (10.40.2)
+It may be conjectured that remarriage was not customary: since marriage was held very sacred, remarriage could not have been accepted. But from one mantra alone it is certainly known that a widow was permitted to marry her husband's brother:
+
+> "कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः । को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ।" (10-40-2)
 >
-> *(A difficult passage concerning marital fidelity and the comparison of an abandoned woman to a widow turning to a brother-in-law; precise construction uncertain at this resolution.)*
+> *"kuha svid doṣā kuha vastor aśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ | ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā |"*
+>
+> "Where are you at evening, O Aśvins, where by day? Where do you halt, where do you dwell? Who brings you to his house as a widow [brings] her husband's brother to the bed, as a young woman a man?" (gloss mine and tentative)
 
-**Manu** (9.46.20) similarly permits a widow to marry her husband's brother (devara) under certain circumstances — but the same chapter (9.46.10) restricts such a marriage to lasting only until she bears a son.
+Manu too (9-69-70) says that in some circumstances a widow may marry her husband's brother; but in the same chapter (9-69-60) it is said that such a marriage holds only until a son is born.
 
-Abandonment of marital duty and infidelity are both known to have occurred (10.34.4; 10.40.6; 3.53.1), and one mantra describes women as headstrong and fickle-minded (8.33.17).
+That husbands and wives abandoned their own dharma, and adultery, are known to have existed (10-34-4, 10-40-6, 2-29-1). In one mantra women are said to be unruly and fickle-minded (8-33-17).
+
+*(Page re-rendered from the print in the numeral pass after the opening quotation; the earlier rendering had misplaced the page's references and statements.)*
 
 
 ### Page 329
 
-Infidelity was believed to bring destruction, with the deities prayed to for the ruin of an unfaithful person's lineage (1.167.4[?]; 4.5.5; 4.5.6[?]).
+Infidelity was held a great sin (4-5-5), and it was believed that the deities punish such people (1-152-1, 7-49-3, 7-84-4).
 
-**People lived organized in tribal groups.** Each tribe was distinct and independent, joining forces only temporarily during war; each had its own king with his own lineage, and each royal household maintained its own Purohita (2.42.1[?]; 2.11.8[?]) — kings gave a portion of earned wealth to Indra as tribute, while the Purohita's task was to pray for wealth and the destruction of enemies, receiving a share of royal gifts in return, as many Danastuti hymns attest (10.148[?]).
+**People lived organized in tribal groups.** Each tribe was distinct and independent, joining forces only temporarily during war; each had its own king with his own lineage, and there were many such kings (7-33-3, 7-83-6); that these kings had many wives is known from 7-18-2, where Indra is said to shine together with his wives; each royal household maintained its own Purohita — kings gave a portion of earned wealth to Indra as tribute, while the Purohita's task was to pray for wealth and the destruction of enemies, receiving a share of royal gifts in return, as many Danastuti hymns attest (10-173).
 
 On deity-worship, already discussed — but whether Vedic-era practice included **idol worship** remains genuinely unclear. Max Müller and others hold that it did not:
 
 > "The Religion of the Veda knows of no idols. The worship of idols in India is a secondary formation, a later degradation of the more primitive worship of ideal gods."
 
-That is: no image-worship ritual is mentioned in the Vedic era; idol-worship developed later, a corruption of an earlier, more imaginative form of worship. Dr. Bollensen opposes this view, citing passages (3.53.8; 8.83.8[?]) suggesting deities were understood to have physical bodies and hold weapons — a genuinely unresolved scholarly question.
+That is: no image-worship ritual is mentioned in the Vedic era; idol-worship developed later, a corruption of an earlier, more imaginative form of worship. Dr. Bollensen opposes this view, citing passages (2-33-9, 1-25-13, 5-52-15; in 5-52-15 the Maruts are distinguished from their images) suggesting deities were understood to have physical bodies and hold weapons — a genuinely unresolved scholarly question.
 
 ### On Caste (Varna)
 
 The caste system is one of Hindu society's most defining, enduring features, still distinctly maintained today by inherited custom — and some scholars hold that caste distinction is not a very ancient feature at all, but a later development in our country's history.
 
-Indeed, through Mandala 9, the Rigveda shows no established basis for caste distinctions. Only in Mandala 10's **Purusha Sukta** (10.90) does the fourfold varna system first appear:
+Indeed, through Mandala 9, the Rigveda shows no established basis for caste distinctions. Only in Mandala 10's **Purusha Sukta** (10-90) does the fourfold varna system first appear:
 
 > ब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः । ऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत ॥ (RV 10.90.12)
 >
