@@ -982,7 +982,7 @@ That is the count of ṛks and yajus-mantras. Now the number of anuvākas is sta
 >
 > "In the first ten adhyāyas the anuvākas are declared, by total number, one hundred and nineteen (*śataṃ daśa nava*), by the wise. In the *citi* [the Agnicayana section] sixty-seven are to be known; in the Sautrāmaṇī twenty-two; in the Aśvamedha forty-nine; in the *khila* thirty-five are remembered. In the Śukriya [portion] eleven are to be known by the wise. Taken together, three hundred and three (*triśataṃ tryadhikam*) is the accepted [number]."
 
-That is: in the first 10 adhyāyas there are 119 anuvākas. In adhyāyas 11–18, which describe the Agnicayana, there are 67 anuvākas. In adhyāyas 19–21, which deal with the Sautrāmaṇī sacrifice, 22 anuvākas. In adhyāyas 22–35 [?], relating to the Aśvamedha sacrifice, 49 anuvākas. In adhyāyas 26–35, which are called *khila* or *pariśiṣṭa* adhyāyas, 35 anuvākas. In the last 5 adhyāyas, called *Śukriya* (36–40), 11 anuvākas. Adding all together: 119 + 67 + 22 + 49 + 35 + 11 = 303 anuvākas.
+That is: in the first 10 adhyāyas there are 119 anuvākas. In adhyāyas 11–18, which describe the Agnicayana, there are 67 anuvākas. In adhyāyas 19–21, which deal with the Sautrāmaṇī sacrifice, 22 anuvākas. In adhyāyas 22–25, relating to the Aśvamedha sacrifice, 49 anuvākas. In adhyāyas 26–35, which are called *khila* or *pariśiṣṭa* adhyāyas, 35 anuvākas. In the last 5 adhyāyas, called *Śukriya* (36–40), 11 anuvākas. Adding all together: 119 + 67 + 22 + 49 + 35 + 11 = 303 anuvākas.
 
 ### Page 117
 
