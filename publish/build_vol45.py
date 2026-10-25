@@ -28,7 +28,8 @@ CFG = {
          expected={137:3,138:4,139:11,140:13,141:13,142:13,143:8,144:7,145:5,146:5,147:5,148:5,149:5,150:3,151:9,152:7,153:4,154:6,155:6,156:5,157:6}),
 }
 # from Vol 11 the Saṃhitā lines carry Vedic accents: Lohit Devanagari draws the svarita as a vertical stroke above the syllable
-ACCENT_CSS = '<style>:lang(sa), .dev { font-family: "Lohit Devanagari", "Noto Serif Devanagari", serif; }</style>'
+ACCENT_CSS = ('<style>html { font-family: "Noto Serif", "Lohit Devanagari", "Noto Serif Kannada", serif; }'
+              ' :lang(sa), .dev { font-family: "Lohit Devanagari", "Noto Serif Devanagari", serif; }</style>')
 
 def short_label(title):
     t = re.sub(r'[*`]', '', title).strip()
