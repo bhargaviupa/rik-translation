@@ -5260,21 +5260,21 @@ Comparing Vedic Sanskrit with classical Sanskrit reveals considerable difference
 
 **Sandhi frequently doesn't occur where classical grammar would expect it**, though it is generally applied throughout the Veda. Classical rule holds that visarga does not occur before consonant-initial words at a word-boundary — but the Veda shows many exceptions, generally where meter demands preserving a required syllable-count; sandhi is even applied mid-word in some cases where meter requires it:
 
-> त्वं सुतस्य पीतये सद्यो वृद्धो अजायथाः (1.8.4)
+> त्वं सुतस्य पीतये सद्यो वृद्धो अजायथाः (1-5-6)
 >
 > "You, for the drinking of the pressed Soma, instantly became grown/strong."
 
-> अथा ते अन्तमानां विद्याम सुमतीनाम् (1.4.3)
+> अथा ते अन्तमानां विद्याम सुमतीनाम् (1-4-3)
 >
 > "And may we know the innermost of your favors."
 
-And also 1.1.2, 1.1.7, 1.1.4, 1.1.11, 1.1.19, and others.
+And also 7-1-7, 7-1-8, 7-1-9, 7-1-11, 7-1-19, and others.
 
 Classical grammar holds that no sandhi occurs where a word ending in *ī, ū,* or single-mora *ṛ* precedes a following vowel — but the Veda shows many exceptions, especially where the word "iva" follows:
 
-> ब्रह्माणि नृपतीव जिन्वतम् । (2.104[?].6)
-> अन्तर्मने रोदसीव मे — (2.81.1)
-> अविनासं रोदसी धिष्ण्येमे — (2.11.1)
+> ब्रह्माणि नृपतीव जिन्वतम् । (7-104-6)
+> अन्तर्मने रोदसीव मे — (7-87-2)
+> अविनासं रोदसी धिष्ण्येमे — (7-72-3)
 
 *(These citations illustrate sandhi occurring across "iva" in Vedic recitation contrary to the classical rule; precise phrase-level translation is difficult at this resolution given the technical grammatical register.)*
 
@@ -5285,22 +5285,24 @@ In certain consonant contexts, classical rule requires a following "na" sound �
 
 Vowel-lengthening for prosodic (metrical) purposes affects words like *atha, adha, pibha, śrutata, vidya, yuṣma, veda, kṛdhi, śṛṇuhi* especially often.
 
-Two related matters deserve note. In noun-declension, third-person dual forms and words like "ena" vary according to the meter's required syllable-count:
+A word or two on case-forms. In the instrumental singular of nouns ending in *a*, for the sake of the metre, *enā* or *ā* stands at the end of the word: *senenā* (7-18-17), *tenā sahasyenā* (7-55-7), *enā* (7-71-4), *enā* (7-93-7), *tvā iṣite* (7-32-7), *mahitvā* (7-13-2), and so on.
 
-> अश्विना पुरुदंससा नरा शवीरया धिया (1.3.3)
-> कवीनो मित्रावरुणा तुविजाता उरुक्षया (1.2.9)
-> यमश्विना ददथुः श्वेतमश्वम् (1.116.9)
-> ता विद्वांसा हवामहे (1.130.9)
+In the dual of the nominative and accusative, *ā* generally stands at the end of the word; *au* is rare:
+
+> अश्विना पुरुदंससा नरा शवीरया धिया (1-3-2)
+> कवीनो मित्रावरुणा तुविजाता उरुक्षया (1-2-9)
+> यमश्विना ददथुः श्वेतमश्वम् (1-116-6)
+> ता विद्वांसा हवामहे (1-120-3)
 
 In some places, both dual-form variants occur within the very same mantra:
 
-> ता वामद्य तावसरं हुवेम (1.44.1)
+> ता वामद्य तावसरं हुवेम (1-184-1)
 
 In the **plural of Nominative and Vocative cases**, "āsa" often replaces plain "ā":
 
-> विश्वे देवास आगत । (1.3.2)
-> ब्राह्मणासः पितरः सोम्यासः (6.75.10)
-> सोमासो दध्याशिरः (1.37.5)
+> विश्वे देवास आगत । (1-3-7)
+> ब्राह्मणासः पितरः सोम्यासः (6-75-10)
+> सोमासो दध्याशिरः (1-5-5)
 
 "Devāsaḥ," "brāhmaṇāsaḥ," "somāsaḥ" and similar forms are ancient usages; alongside them, the more recent forms — "devāḥ," "brāhmaṇāḥ," "somāḥ" — also occur abundantly.
 
@@ -5309,23 +5311,23 @@ In the **neuter plural of a-stem nouns**, both "-ā" and "-āni" occur — the R
 
 ### Page 333
 
-> इनो अग्ने वीततमानि हव्या (2.1.17[?]) । कृषु यदन्ना समवृक्त जंभैः (2.8.4[?]) । पिता नो अग्ने सौभगा दिदीहि (2.8.10[?]) । यो दैव्यानि मानुषा जनूंषि (2.5.1[?]) — इत्यादि ।
+> इनो अग्ने वीततमानि हव्या (7-1-18) । कृषु यदन्ना समवृक्त जंभैः (7-3-4) । पिता नो अग्ने सौभगा दिदीहि (7-3-10) । यो दैव्यानि मानुषा जनूंषि (7-4-1) — इत्यादि ।
 
 In the **Instrumental plural**, both "bhiḥ" and "aiḥ" forms occur — but the "aiḥ" form appears increasingly rarely, surviving mainly among pronominal words:
 
-> पावका नः सरस्वती वाजेभिर्वाजिनीवती (1.3[?].10) । देवो देवेभिरागमत् (1.1[?].5) — इत्यादि ।
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती (1-3-10) । देवो देवेभिरागमत् (1-1-5) — इत्यादि ।
 
 For **a-stem feminine nouns**, the Instrumental singular shows both "-ā" and "-ayā" forms. Examples:
 
-> माशेषसोऽवीरता सरि त्वा (2.1[?].10) । सहस्रसाध्या अक्षरा सनेति (2.1[?].4) । गव्या कृत्स्नभो अजगन् युधा स्वः (2.75[?].2) । आ यो विश्वानि शवसा तताना (2-91[?]-1) । श्रद्धा इत्ये मघवन् पार्ये दिवि (2-92[?]-14) — इत्यादि ।
+> माशेषसोऽवीरता सरि त्वा (7-1-11) । सहस्रसाध्या अक्षरा सनेति (7-1-14) । गव्या कृत्स्नभो अजगन् युधा स्वः (7-18-7) । आ यो विश्वानि शवसा तताना (7-23-1) । श्रद्धा इत्ये मघवन् पार्ये दिवि (7-32-14) — इत्यादि ।
 
 For **i-stem words**, the Instrumental singular's "-i" lengthens to "-ī." Examples:
 
-> हस्त्यश्च्युती जनयंत प्रशस्युम् (2-1[?]-1) । सुदीत्यी सूनो सहसो दिदीहि (2-1[?]-20[?]) । प्रावीण्न वीरो जरितारनूती (2-90[?]-2) । तन प्रणीती हर्यश्व सूरिभिः (2-92[?]-19[?]) । न दुष्ट्रुती मत्र्यो विंदते वसु (2-92[?]-20[?]) — इत्यादि ।
+> हस्त्यश्च्युती जनयंत प्रशस्युम् (7-1-1) । सुदीत्यी सूनो सहसो दिदीहि (7-1-21) । प्रावीण्न वीरो जरितारनूती (7-20-2) । तन प्रणीती हर्यश्व सूरिभिः (7-32-15) । न दुष्ट्रुती मत्र्यो विंदते वसु (7-32-21) — इत्यादि ।
 
 For the **Locative singular**, some words retain the "i"-stem, while a few show a shift to "a"-stem or "ā"-stem-style endings:
 
-> त्वं धृष्णो धृषता वीतहव्यम् (2-19[?]-3) । युत्वायर्आ युनजते धियस्काः (2-91[?]-1) — इत्यादि ।
+> त्वं धृष्णो धृषता वीतहव्यम् (7-19-3) । युत्वायर्आ युनजते धियस्काः (7-27-1) — इत्यादि ।
 
 *(Given the extreme grammatical density of this page — worked case-ending examples across several noun classes — citations are transcribed as faithfully as legible; the mantra reference numbers marked "[?]" carry some uncertainty given the compressed numerals in the original typeface, though the Sanskrit text itself and grammatical point being illustrated are clear.)*
 
@@ -5338,15 +5340,15 @@ A table of variant forms found among masculine and neuter nouns:
 
 | Form (with citation) | Description | Standard equivalent |
 |---|---|---|
-| वस्नः (2.[?].5) | u-stem masc., Genitive sing. | (vasoḥ) |
-| कृत्ये (2.[?].5) | " , Dative sing. | (kṛtave) |
+| वस्नः (7-15-4) | u-stem masc., Genitive sing. | (vasoḥ) |
+| कृत्ये (7-25-4) | " , Dative sing. | (kṛtave) |
 | सानवि | neuter, Locative sing. | (sānau) |
-| कृत्वा (2.[?].6) | masc., Instrumental sing. | (kṛtunā) |
-| देवीः (2.[?].7) | ī-stem fem., Nom. plural | (devyaḥ) |
+| कृत्वा (7-21-6) | masc., Instrumental sing. | (kṛtunā) |
+| देवीः (7-2-8) | ī-stem fem., Nom. plural | (devyaḥ) |
 | शमा | " , Instr. singular | (śamyā) |
 | कुचे | i-stem neuter, Nom. plural | (kucīni) |
-| अप्रती (2.[?].2) | " " " | (apratīni) |
-| मातरा (2.[?].2) | r-stem fem., Nom. dual | (mātarau) |
+| अप्रती (7-23-3) | " " " | (apratīni) |
+| मातरा (7-7-3) | r-stem fem., Nom. dual | (mātarau) |
 | युष्मे | yuṣmad-stem, Nom. plural | (yūyam) |
 | अस्मे | asmad-stem, Nom. plural | (vayam) |
 | व्योमन् | n-stem neuter, Nom. sing. | (vyoma / vyomāni) |
@@ -5356,20 +5358,20 @@ A table of variant forms found among masculine and neuter nouns:
 
 Some words show no case-suffix at all in either declension.
 
-**Non-standard (aśrutya) suffixes:** verb-roots occasionally take non-classical suffixes, producing variant forms noted throughout. For the second-person plural imperative suffix "mas," the Veda regularly uses "masi" in its place instead — sometimes rendered simply "mas." In the Rigveda, "masi" occurs 112 times, "mas" 30 times, and in other Brahmana texts "masi" occurs twice and "mas" four times — confirming that in classical usage, the "mas" form for imperative verbs is not the established convention. Example:
+**Non-standard (aśrutya) suffixes:** verb-roots occasionally take non-classical suffixes, producing variant forms noted throughout. For the second-person plural imperative suffix "mas," the Veda regularly uses "masi" in its place instead — sometimes rendered simply "mas." In the Rigveda, "masi" occurs 117 times and "mas" 21 times; in the Aitareya Brahmana "masi" occurs 3 [?] times and "mas" four times — confirming that in classical usage, the "mas" form for imperative verbs is not the established convention. Example:
 
-> मिनीमसि (1.[?].[?]) । बोधामसि (2.[?].1)
+> मिनीमसि (1-25-1) । बोधामसि (7-21-1)
 
-For first-person singular Atmanepada verbs, "e" traditionally replaces "i" — but "śṛṇute" appears where "śṛṣṇe" would traditionally be expected instead (2.8[?].5; 2.9[?].4).
+For first-person singular Atmanepada verbs, "e" traditionally replaces "i" — but "śṛṇute" appears where "śṛṣṇe" would traditionally be expected instead (7-8-4; 7-26-4).
 
 The Injunctive mood, middle-voice second-person singular, shows many variant forms — often ending in "dhi" (also seen as "hi," e.g., "śaśādhi," "kṛdhi," "śrudhi" — per Panini, either "dhi" ending is correct). Forms like "śṛṇudhi" and "gṛbhi" also occur.
 
 
 ### Page 335
 
-In the middle-voice second-person plural, "dhve" and "dhvam" replace classical "dhvam" and "dhvam" variants. Imperative first-person singular forms take an extra "si" suffix — examples: kṣeṣi (2.[?].3), bhakṣi (2.[?].3), riṣṭi and veśi (2.[?].8[?]).
+In the middle-voice second-person plural, "dhve" and "dhvam" replace classical "dhvam" and "dhvam" variants. Imperative first-person singular forms take an extra "si" suffix — examples: kṣeṣi (7-18-2), bhakṣi (7-41-2), riṣṭi and veśi (7-16-5).
 
-Present participles occur in many varied forms; the suffix "tam" is generally used, though the Veda uses "avitane" (2.[?].1) and "aśnevatane" (2.[?].8) in the same sense. Among these:
+Present participles occur in many varied forms; the suffix "tam" is generally used, though the Veda uses "avitane" (7-33-1) and "aśnevatane" (7-33-8) in the same sense. Among these:
 
 - ending in "tve": haṃtve, khātve
 - ending in "se": cikṣṇase, jīvase
@@ -5379,16 +5381,16 @@ Present participles occur in many varied forms; the suffix "tam" is generally us
 
 In place of forms ending in the "tvā" suffix, "tvāya" or "tvī" are also used — hantvāya, kṛtvī, pītvī, bhūtvī, etc.
 
-**Potential-mood forms** are relatively few; the negating particle "mā" often used alone, combined with root-forms and mood-neutral forms of the base, without the potential-suffix strictly attached — this "mā"-based construction is common in the Veda in the potential sense. The Veda gives such forms the technical name "Let" (imperative/prohibitive). Examples: bhavāti (2.[?].5), patāti (2.[?].1), tāriṣat, joṣiṣet, mādayaithe — all illustrating this prohibitive/optative-adjacent construction.
+**Potential-mood forms** are relatively few; the negating particle "mā" often used alone, combined with root-forms and mood-neutral forms of the base, without the potential-suffix strictly attached — this "mā"-based construction is common in the Veda in the potential sense. The Veda gives such forms the technical name "Let" (imperative/prohibitive). Examples: bhavāti (7-8-6), patāti (7-25-1), tāriṣat, joṣiṣet, mādayaithe — all illustrating this prohibitive/optative-adjacent construction.
 
 In classical Sanskrit, prefixes (upasargas) are used joined directly to the verb root as a matter of convention — but this rule doesn't apply strictly in the Veda:
 
-> इन्द्र त्वोकास आ वयं वज्रं घना दधीमहि । जयेम सं युधि स्पृधः ॥ (1.8[?].3)
+> इन्द्र त्वोकास आ वयं वज्रं घना दधीमहि । जयेम सं युधि स्पृधः ॥ (1-8-3)
 
 Here, "ādadhīmahi" and "saṃjayema" are the intended verbs — but in the first, several words come between the prefix and the root, and in the second, the prefix follows the verb root instead of preceding it:
 
-> उप यामेति युवतिः सुदक्षं दोषावस्तोर्दिविष्टिषु प्रचेती । उप स्वैनमरमतिर्वसूयुः ॥ (2.1[?].6)
-> अव द्युग्नानि पित्र्या सृजा नोऽव यां वयं चक्रुमा तनूभिः । अव राजन्पशुतृपं न तायुं........ (2.[?].3)
+> उप यामेति युवतिः सुदक्षं दोषावस्तोर्दिविष्टिषु प्रचेती । उप स्वैनमरमतिर्वसूयुः ॥ (7-1-6)
+> अव द्युग्नानि पित्र्या सृजा नोऽव यां वयं चक्रुमा तनूभिः । अव राजन्पशुतृपं न तायुं........ (7-86-5)
 
 and so on.
 
@@ -5397,7 +5399,7 @@ and so on.
 
 A verb-prefix is sometimes used once joined to its verb, then repeated again alone, detached, later in the same sentence:
 
-> प्र सम्राजो असुरस्य प्रशस्तिं पुंसः कृष्टीनामनुमाद्यस्य । इन्द्रस्यैव प्र तवसस्कृतानि वन्दे दारुं वन्दमानो नि वक्मि ॥ (2.[?].1) इत्यादि ।
+> प्र सम्राजो असुरस्य प्रशस्तिं पुंसः कृष्टीनामनुमाद्यस्य । इन्द्रस्यैव प्र तवसस्कृतानि वन्दे दारुं वन्दमानो नि वक्मि ॥ (7-6-1) इत्यादि ।
 >
 > *(Praising the mighty sovereign lord's deeds, extolling Indra's powerful acts; precise phrase-level construction is difficult to render exactly at this resolution.)*
 
