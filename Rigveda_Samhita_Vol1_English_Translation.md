@@ -3183,12 +3183,12 @@ The root of "Savitr" means: that which generates all things, gives consciousness
 
 Many suktas are devoted to Savitr, who — seated in a golden chariot — destroys people's sins and grants their desires, and who stirs and inspires the human mind. Among all Vedic mantras addressed to Savitr, the most important and significant is the **Gayatri** — renowned as the "mother of the Vedas."
 
-This Gayatri is the tenth mantra of its sukta in Mandala 3, and recurs in the Samaveda (~1.2.1.9), the Shukla Yajurveda's Vajasaneyi Samhita (3.35; 22.9; 30.2 and similar places), the Krishna Yajurveda's Taittiriya Samhita (1.5.6.4; 4.1.11.1), and the Taittiriya Aranyaka (1.11.2). No other mantra in the Rigveda receives as much praise as the Gayatri, and it is highly praised within the Yajurveda as well.
+This Gayatri is the tenth mantra of its sukta in Mandala 3, and recurs in the Samaveda (~1.2.1.9), the Shukla Yajurveda's Vajasaneyi Samhita (3-35; 22-9; 30-2; 36-3), the Krishna Yajurveda's Taittiriya Samhita (1-5-7-4 and 4-1-11-1), and the Taittiriya Aranyaka (1-11-3). No other mantra in the Rigveda receives as much praise as the Gayatri, and it is highly praised within the Yajurveda as well.
 
 
 ### Page 218
 
-Surya, wholly luminous, has Dyauh (Heaven) as father and Aditi as mother; Ushas is his sister. Golden-hued horses draw his chariot; he is steadfast and worldly, giving light to the whole world and strength to all living beings. In later Puranic texts, this deity retains only a small, ordinary place, considered subordinate to the world's greater regulating powers. Mantras dedicated specifically to Surya are relatively few in the Rigveda (III.59).
+Surya, wholly luminous, has Dyauh (Heaven) as father and Aditi as mother; Ushas is his sister. Golden-hued horses draw his chariot; he is steadfast and worldly, giving light to the whole world and strength to all living beings. In later Puranic texts, this deity retains only a small, ordinary place, considered subordinate to the world's greater regulating powers. The ṛks addressed to Surya in the Rigveda are only 60½.
 
 ### Mitra
 
@@ -3304,115 +3304,117 @@ The source opens this section with a versified mnemonic listing meter-openings i
 
 | Meter-type | Syllables | Per-foot pattern / rule | Example (opening words) | Location |
 |---|---|---|---|---|
-| गायत्री *(Gāyatrī)* | 24 | 8-8-8 (the first/basic meter); three-footed Gayatri | आयं देवाय *(āyaṃ devāya)* | 1.20.2 |
-| पदपंक्तिः *(Padapaṅktiḥ)* | 24 | 4-4-4-4 + 8; "five-and-four-fold" variant, called Padapankti | अभिष्टे अद्य *(abhiṣṭe adya)* | 4.10.4 |
-| " | 24 | 4-4-4-4-4 (alt.); "four-times-four-fold" variant, called Padapankti | अग्ने तमद्य *(agne tamadya)* | 4.10.1 |
+| गायत्री *(Gāyatrī)* | 24 | 8-8-8; (प्रथमं छन्दः) त्रिपदा गायत्री *(prathamaṃ chandaḥ) tripadā gāyatrī* — "(the first metre) the three-footed Gāyatrī" | आयं देवाय *(āyaṃ devāya)* | 1-20-7 |
+| पदपङ्क्तिः *(Padapaṅktiḥ)* | 26 | 5-5-5-5-6; पञ्चकाश्चत्वारः षट्कश्चैकः पदपङ्क्तिः *(pañcakāś catvāraḥ ṣaṭkaś caikaḥ padapaṅktiḥ)* — "four of five and one of six: Padapaṅkti" | अभिष्टे अद्य *(abhiṣṭe adya)* | 4-10-4 |
+| " | 25 | 5-5-5-4-6 (वा); चतुर्थश्चतुष्कः पदपङ्क्तिः *(caturthaś catuṣkaḥ padapaṅktiḥ)* — "(or) the fourth of four: Padapaṅkti" | अग्ने तमद्य *(agne tamadya)* | 4-10-1 |
 
-*(This table's syllable-pattern codes and exact Mandala-Sukta-Mantra references are transcribed as faithfully as this scan's resolution permits; the meter names and example-word openings are given with confidence, while a few individual digits in the reference columns carry residual uncertainty.)*
+*(Figures as printed, re-read on the 600 dpi scan; the last digits of the first two references, 7 and 4, read by me.)*
 
 
 ### Page 223 — Gayatri Variants (continued)
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| उष्णिग्गर्भा *(Uṣṇig-garbhā)* | 24 | 8-2-14 | षट्ट्यैःकादश उष्णिग्गर्भा | तामे अश्विन्यां | 1.33.2 |
-| पादनिचृत् *(Pādanicṛt)* | 23 | 8-8-7 | त्रयः सप्तकाः पादनिचृत् | त्वावतः पुरो | 8.46.1 |
-| अतिनिचृत् *(Atinicṛt)* | 25 | 8-8-9 | मध्यमः षट्ट्यश्चेत् अतिनिचृत् | पुरूतमं | 6.45.24 |
-| यवमध्या *(Yavamadhyā)* | 24 | 7-10-7 | दशाक्षरैत् यवमध्या | स सुस्ते यो | 8.101.9 |
-| वर्धमाना *(Vardhamānā)* | 23 | 8-2-8 | यस्यास्तु षट्ट्यष्टकाः स्याद्वर्धमाना | ईशाना वाया | 1.9?.4 |
-| प्रतिष्ठा *(Pratiṣṭhā)* | 23 | 8-2-6 | विपरीता प्रतिष्ठा | अपः स्पृणीत | 10.9.2 |
-| ह्रस्वीयसी *(Hrasvīyasī)* | 19 | 8-2-2 | द्व्या षट्ट्या सप्तकश्च ह्रस्वीयसी | प्रेष्ठमु प्रिया | 8.102.10 |
-| विपरीता ह्रस्वीयसी *(Viparītā Hrasvīyasī)* | 19 | 2-2-2 | " (same sutra as above) | इन्द्रः सहस्र | 1.12.8 |
+| उष्णिग्गर्भा *(Uṣṇiggarbhā)* | 24 | 6-7-11 | षट्सप्तैकादशा उष्णिग्गर्भा *(ṣaṭsaptaikādaśā uṣṇiggarbhā)* | तामे अश्व्यानां *(tāme aśvyānāṃ)* | 8-25-23 |
+| पादनिचृत् *(Pādanicṛt)* | 21 | 7-7-7 | त्रयः सप्तकाः पादनिचृत् *(trayaḥ saptakāḥ pādanicṛt)* | त्वावतः पुरू *(tvāvataḥ purū)* | 8-46-1 |
+| अतिनिचृत् *(Atinicṛt)* | 20 | 7-6-7 | मध्यमः षट्कश्चेत् अतिनिचृत् *(madhyamaḥ ṣaṭkaś cet atinicṛt)* | पुरूतमं *(purūtamaṃ)* | 6-45-29 |
+| यवमध्या *(Yavamadhyā)* | 24 | 7-10-7 | दशकश्चेत् यवमध्या *(daśakaś cet yavamadhyā)* | स सुन्वे यो *(sa sunve yo)* | 9-108-13 |
+| वर्धमाना *(Vardhamānā)* | 21 | 6-7-8 | यस्यास्तु षट्सप्तकाष्टकाः सा वर्धमाना *(yasyās tu ṣaṭsaptakāṣṭakāḥ sā vardhamānā)* | ईशाना वार्याणां *(īśānā vāryāṇāṃ)* | 10-9-5 |
+| प्रतिष्ठा *(Pratiṣṭhā)* | 21 | 8-7-6 | विपरीता प्रतिष्ठा *(viparītā pratiṣṭhā)* | आपः पृणीत *(āpaḥ pṛṇīta)* | 10-9-7 [?] |
+| ह्रसीयसी *(Hrasīyasī)* | 19 | 6-6-7 | द्वौ षट्कौ सप्तकश्च ह्रसीयसी *(dvau ṣaṭkau saptakaś ca hrasīyasī)* | प्रेष्ठमु प्रियाणां *(preṣṭham u priyāṇāṃ)* | 8-103-10 |
+| विपरीता ह्रसीयसी *(Viparītā Hrasīyasī)* | 19 | 7-6-6 | " | इन्द्रः सहस्र *(indraḥ sahasra)* | 1-17-5 |
 
-*(Syllable-pattern digits, and several mantra location references, are given as faithfully as legible at this resolution — a few individual figures carry residual uncertainty given the density of the original typeface. Meter names and Sanskrit sutra/example text are given with full confidence.)*
+*(Figures as printed, re-read on the 600 dpi scan; the 7-6-7 of Atinicṛt and the references 10-9-5, 10-9-7 [?] and 1-17-5 completed by me where the review gave only part.)*
 
 Below the table, the source continues with a further mnemonic verse stringing together opening words:
 
-> य इन्द्र, युंजंति हरी, शर्धंशर्धं वो, ददी रेक्णः, स्र यां घोषे, हरी यस्य, पितं नः, मंसीमह्यष्का ॥ ३ ॥ (२)
+> य इन्द्र, युञ्जन्ति हरी, शर्धंशर्धं वो, ददी रेक्णः, प्र या घोषे, हरी यस्य, पितुं नु, मंसीमह्यष्टौ ॥ ५ ॥ (२)
 >
 > *(a compressed mnemonic verse, in the same style as the previous page's, listing example-mantra openings for the meters that follow)*
 
-### 2 (8). Ushnik —
+### 2 (5). Ushnik —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| उष्णिक् *(Uṣṇik)* | 28 | 8-8-12 | (द्वितीयं) उष्णिक् त्रिपदांत्ये द्वादश | य इन्द्रु सोम | 8.98.1 |
-| पुरउष्णिक् *(Puruṣṇik)* | 28 | 12-8-8 | आद्यश्चेत् पुरउष्णिक् | युंजंति हरी | 8.98.9 |
-| ककुप् *(Kakup)* | 28 | 8-12-8 | मध्यमश्चेत् ककुप् | शर्धंशर्धं व | 8.28.1 |
-| ककुब्ब्यंकुशिरा *(Kakubbyaṃkuśirā)* | 32 | 8-8-9-4(?) | त्र्यंशुभागतश्तुष्काः ककुब्न्यंकुशिरा | ददी रेक्णस्त्ये | 8.46.28 |
-| तनुशिरा *(Tanuśirā)* | 28 | 8-8-12(?) | एकादशिनोः परः षट्ट्यस्तनुशिरा | प्र या घोषे | 8.20.8 |
-| पिपीलिकमध्या *(Pipīlikamadhyā)* | 28 | 8-8-8(?) | मध्ये चेत् पिपीलिकमध्या | हरी यस्य .... | 8.8.9 |
-| अनुष्टुब्गर्भा *(Anuṣṭubgarbhā)* | 26 | 4-8-8-8(?) | आद्यः पंचकत्रयोष्काः अनुष्टुब्गर्भा | पितं नु स्तोषं | 8.65.1 |
-| उष्णिक् *(Uṣṇik)* | 28 | 7-7-7-7(?) | चतुःसप्तकोष्टिगेव | मंसीमहि त्वा | 8.13.4 |
+| उष्णिक् *(Uṣṇik)* | 28 | 8-8-12 | (द्वितीयं) उष्णिक् त्रिपदान्त्ये द्वादश *((dvitīyaṃ) uṣṇik tripadāntye dvādaśa)* | य इन्द्र सोम *(ya indra soma)* | 8-12-1 |
+| पुरउष्णिक् *(Pura-uṣṇik)* | 28 | 12-8-8 | आद्यश्चेत् पुरउष्णिक् *(ādyaś cet pura-uṣṇik)* | युञ्जन्ति हरी *(yuñjanti harī)* | 8-98-9 |
+| ककुप् *(Kakup)* | 28 | 8-12-8 | मध्यमश्चेत् ककुप् *(madhyamaś cet kakup)* | शर्धंशर्धं व *(śardhaṃśardhaṃ va)* | 5-53-11 |
+| ककुब्न्यङ्कुशिरा *(Kakubnyaṅkuśirā)* | 27 | 11-12-4 | त्रैष्टुभजागतचतुष्काः ककुब् न्यङ्कुशिरा *(traiṣṭubhajāgatacatuṣkāḥ kakub nyaṅkuśirā)* | ददी रेक्णस्तन्वे *(dadī rekṇas tanve)* | 8-46-15 |
+| तनुशिरा *(Tanuśirā)* | 28 | 11-11-6 | एकादशिनोः परः षट्कस्तनुशिरा *(ekādaśinoḥ paraḥ ṣaṭkas tanuśirā)* | प्र या घोषे *(pra yā ghoṣe)* | 1-120-5 |
+| पिपीलिकमध्या *(Pipīlikamadhyā)* | 28 | 11-6-11 | मध्ये चेत् पिपीलिकमध्या *(madhye cet pipīlikamadhyā)* | हरी यस्य .... *(harī yasya ....)* | 10-105-2 |
+| अनुष्टुब्गर्भा *(Anuṣṭubgarbhā)* | 29 | 5-8-8-8 | आद्यः पञ्चकस्त्रयोऽष्टकाः अनुष्टुब्गर्भा *(ādyaḥ pañcakas trayo 'ṣṭakāḥ anuṣṭubgarbhā)* | पितुं नु स्तोषं *(pituṃ nu stoṣaṃ)* | 1-187-1 |
+| उष्णिक् *(Uṣṇik)* | 28 | 7-7-7-7 | चतुःसप्तकोष्णिगेव *(catuḥsaptakoṣṇig eva)* | मंसीमहि त्वा *(maṃsīmahi tvā)* | 10-26-4 |
 
-*(As above, syllable-counts and pattern-digits for this second table are transcribed as best legible; meter names and Sanskrit citations are given in full.)*
+*(Figures as printed, re-read on the 600 dpi scan; the last digits of 8-12-1 and 10-26-4 read by me.)*
 
 
 ### Page 224
 
 Mnemonic verse continuing the sequence:
 
-> अग्न ओजिष्ठं, तन स्वादिष्ठं, मा कस्मै, षयोर्षु, ता विद्वांसा, वि स्पृच्छामि, प्रेष्ठो अग्ने, ऽग्नि नरोऽष्टौ ॥ ४ ॥ (१)
+> अग्न ओजिष्ठं, तव स्वादिष्ठा, मा कस्मै, पर्यू षु, ता विद्वांसा, वि पृच्छामि, प्रेद्धो अग्ने, ऽग्निं नरोऽष्टौ ॥ ६ ॥ (३)
 
-### 3 (4). Anushtubh — *(standard form confirmed: 8-8-8-8 = 32 syllables)*
+### 3 (6). Anushtubh —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| अनुष्टुभ् *(Anuṣṭubh)* | 32 | 8-8-8-8 | (तृतीयं) अनुष्टुभ् | अग्न ओजिष्ठमा | 4.1.1 |
-| महापदपंक्तिः *(Mahāpadapaṅktiḥ)* | 40 | 8-8-8-8-8 | पंचकाः षट्ट्यैश्चैको महापदसंक्रीः | तन स्वादिष्ठमा | 4.1.4 |
-| कृतिः *(Kṛtiḥ)* | 32 | 12-12-4-4 | जागतावष्टकश्च कृतिः | मा कस्मैं धाते | 1.130.1 |
-| पिपीलिकमध्या *(Pipīlikamadhyā)* | 32 | 12-4-12 (wait — should be an "8" pattern per Ushnik-family definition; transcribed as legible) | मध्ये चेदष्टकः पिपीलिकमध्या | षयोर्मु प्र | 4.100.1 |
-| काविराट् *(Kavirāṭ)* | 40 | 4-12-4 | नवकयोर्मध्ये जागतः काविराट् | ता विद्वांसा | 1.130.3 |
-| नष्टरूपी *(Naṣṭarūpī)* | 32 | 4-10-10-8 | नव वैराजप्रयोदशकोनष्टरूपी | वि पृच्छामि | 1.130.4 |
-| विराट् *(Virāṭ)* | 30 | 10-10-10 | दशाक्षत्रयो विराट् | प्रेष्ठ्यो अग्ने | 5.10.3 |
-| विराट् (alt.) *(Virāṭ, alt.)* | 33 | 11-11-11 | एकादशका (वा) | अग्निं नरो | 5.10.1 |
+| अनुष्टुप् *(Anuṣṭup)* | 32 | 8-8-8-8 | (तृतीयं) अनुष्टुप् *((tṛtīyaṃ) anuṣṭup)* | अग्न ओजिष्ठमा *(agna ojiṣṭham ā)* | 5-10-1 |
+| महापदपङ्क्तिः *(Mahāpadapaṅktiḥ)* | 31 | 5-5-5-5-5-6 | पञ्च पञ्चकाः षट्कश्चैको महापदपङ्क्तिः *(pañca pañcakāḥ ṣaṭkaś caiko mahāpadapaṅktiḥ)* | तव स्वादिष्ठा *(tava svādiṣṭhā)* | 4-10-5 |
+| कृतिः *(Kṛtiḥ)* | 32 | 12-12-8 | जागतावष्टकश्च कृतिः *(jāgatāv aṣṭakaś ca kṛtiḥ)* | मा कस्मै धात *(mā kasmai dhāta)* | 1-120-8 |
+| पिपीलिकमध्या *(Pipīlikamadhyā)* | 32 | 12-8-12 | मध्ये चेदष्टकः पिपीलिकमध्या *(madhye ced aṣṭakaḥ pipīlikamadhyā)* | पर्यू षु प्र *(paryū ṣu pra)* | 9-110-1 |
+| काविराट् *(Kāvirāṭ)* | 30 | 9-12-9 | नवकयोर्मध्ये जागतः काविराट् *(navakayor madhye jāgataḥ kāvirāṭ)* | ता विद्वांसा.... *(tā vidvāṃsā....)* | 1-120-3 |
+| नष्टरूपी *(Naṣṭarūpī)* | 32 | 9-10-13 | नव वैराजस्त्रयोदशो नष्टरूपी *(nava vairājas trayodaśo naṣṭarūpī)* | वि पृच्छामि.... *(vi pṛcchāmi....)* | 1-120-4 |
+| विराट् *(Virāṭ)* | 30 | 10-10-10 | दशकास्त्रयो विराट् *(daśakās trayo virāṭ)* | प्रेद्धो अग्ने *(preddho agne)* | 7-1-3 |
+| " | 33 | 11-11-11 | एकादशका (वा) *(ekādaśakā (vā))* | अग्निं नरो.... *(agniṃ naro....)* | 7-1-1 |
+
+*(Figures as printed, re-read on the 600 dpi scan; the last digits of 5-10-1, 4-10-5 and 7-1-3 read by me.)*
 
 Further mnemonic verse:
 
-> मा चिदन्यत्, महो यस्ति, रीजानमिद्ध्यो, यो पातयंत्ये, युवं ह्यस्थ, मध यदिनो, ऽथि वो वीरं, सनिंतसस्, तं त्वा वयं पितेवा नव ॥ ५ ॥ (४)
+> मा चिदन्यत्, महो यस्पति, रीजानमिद्द्यौ, यो पातयन्ते, युवं ह्यास्त, मध यदिनो, ऽभि वो वीरं, सनिं तस्, तं त्वा वयं पितो नव ॥ ७ ॥ (४)
 
-### 5 (2). Brihati — *(standard form confirmed: 8-8-12-8 = 36 syllables)*
+### 4 (7). Brihati —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| बृहती *(Bṛhatī)* | 36 | 8-8-12-8 | (चतुर्थं) बृहती कृतियो द्वादशकाः | मा चिदन्यद्दि | 6.1.1 |
-| पुरस्ताद्बृहती *(Purastād-bṛhatī)* | 36 | 12-8-8-8 | आद्यश्चेत्पुरस्ताद्बृहती | महो यस्ति | 10.56.1 |
-| न्यंकुसारिणी *(Nyaṅkusāriṇī)* | 36 | 8-12-8-8 | द्वितीयश्चेत् न्यंकुसारिणी | ऊजानमिद्ध्या | 10.61.1 |
-| उरोबृहती (वा) *(Urobṛhatī, alt.)* | 36 | (same as above) | उरोबृहती वा | *(same)* | *(same)* |
-| स्तंधोग्रीवी (वा) *(Stambhogrīvī, alt.)* | 36 | (same as above) | स्तंधोग्रीवी वा | *(same)* | *(same)* |
+| बृहती *(Bṛhatī)* | 36 | 8-8-12-8 | (चतुर्थं) बृहती तृतीयो द्वादशकः *((caturthaṃ) bṛhatī tṛtīyo dvādaśakaḥ)* | मा चिदन्यद्वि.... *(mā cid anyad vi....)* | 8-1-1 |
+| पुरस्ताद्बृहती *(Purastādbṛhatī)* | 36 | 12-8-8-8 | आद्यश्चेत्पुरस्ताद्बृहती *(ādyaś cet purastādbṛhatī)* | महो यस्पतिः *(maho yaspatiḥ)* | 10-12-3 |
+| (1) न्यङ्कुसारिणी *(Nyaṅkusāriṇī)* | 36 | 8-12-8-8 | द्वितीयश्चेत् (१) न्यङ्कुसारिणी *(dvitīyaś cet (1) nyaṅkusāriṇī)* | ईजानमिद् द्यौः *(ījānam id dyauḥ)* | 10-132-1 |
+| (2) उरोबृहती वा *(Urobṛhatī vā)* | 36 | " | (२) उरोबृहती वा *((2) urobṛhatī vā)* | " | " |
+| (3) स्कन्धोग्रीवी वा *(Skandhogrīvī vā)* | 36 | " | (३) स्कन्धोग्रीवी वा *((3) skandhogrīvī vā)* | " | " |
 
-*(Names, sutra-definitions, and example-mantra openings are given with confidence; the per-foot syllable-pattern digits are transcribed as faithfully as legible, and a couple — flagged inline — did not cleanly sum to the confirmed meter-total on cross-check, suggesting a misread digit in the original scan rather than an error in the meter's known standard form.)*
+*(Figures as printed, re-read on the 600 dpi scan; the last digit of 10-12-3 read by me.)*
 
 
 ### Page 225 — Brihati Variants (continued)
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| उसरिष्वाद्बृहती *(Usariṣvād-bṛhatī)* | 36 | 8-8-8-12 | अंत्यश्चेत् उसरिष्वाद्बृहती | ये पातयंती | 5.59.5 |
-| विष्वारबृहती *(Viṣvāra-bṛhatī)* | 36 | 8-10-10-8 | अस्मिन्नोर्मध्ये दशकौ विष्वारबृहती | युवं ह्यस्थं | 1.130.2 |
-| ऊर्ध्वबृहती *(Ūrdhva-bṛhatī)* | 36 | 12-12-12 | त्रिजागतोर्ध्वबृहती | अथ यदिमे | 4.110.4 |
-| पिपीलिकमध्या *(Pipīlikamadhyā)* | 36 | 13-8-13(?) | त्रयोदशिनोर्मध्येऽष्टकः पिपीलिकमध्या | अभि वो वीर | 5.59.5 |
-| विषमपदा *(Viṣamapadā)* | 36 | 9-12-8-8(?) | नवकाष्ट्यैःकादश्यस्त्रिस्रो विषमपदा | सनितः सुसनित | 5.59.20 |
-| बृहती *(Bṛhatī)* | 36 | 9-9-9-9 | चतुर्नवका बृहती एव | तं त्वा वयं | 1.128.1 |
+| उपरिष्टाद्बृहती *(Upariṣṭādbṛhatī)* | 36 | 8-8-8-12 | अन्त्यश्चेत् उपरिष्टाद्बृहती *(antyaś cet upariṣṭādbṛhatī)* | ये पातयन्ते *(ye pātayante)* | 8-46-18 |
+| विष्टारबृहती *(Viṣṭārabṛhatī)* | 36 | 8-10-10-8 | अष्टिनोर्मध्ये दशकौ विष्टारबृहती *(aṣṭinor madhye daśakau viṣṭārabṛhatī)* | युवं ह्यास्तं *(yuvaṃ hy āstaṃ)* | 1-120-7 |
+| ऊर्ध्वबृहती *(Ūrdhvabṛhatī)* | 36 | 12-12-12 | त्रिजागतोर्ध्वबृहती *(trijāgatordhvabṛhatī)* | अथ यदिमे.... *(atha yad ime....)* | 9-110-9 |
+| पिपीलिकमध्या *(Pipīlikamadhyā)* | 34 | 13-8-13 | त्रयोदशिनोर्मध्येऽष्टकः पिपीलिकमध्या *(trayodaśinor madhye 'ṣṭakaḥ pipīlikamadhyā)* | अभि वो वीर *(abhi vo vīra)* | 8-46-14 |
+| विषमपदा *(Viṣamapadā)* | 36 | 9-8-11-8 | नवकाष्टैकादश्यष्टिनो विषमपदा *(navakāṣṭaikādaśyaṣṭino viṣamapadā)* | सनितः सुसनित *(sanitaḥ susanita)* | 8-46-20 |
+| बृहती *(Bṛhatī)* | 36 | 9-9-9-9 | चतुर्नवका बृहत्येव *(caturnavakā bṛhaty eva)* | तं त्वा वयं *(taṃ tvā vayaṃ)* | 1-187-11 |
 
 Further mnemonic verse:
 
-> दानासो, वि सिप्रो, रायं नरो, य ऋमुष्यस्, तस्याः समुद्रा, अग्निं न, षष्ठिं सहस्रा, तृतीयामु निदोऽष्टा ॥ ६ ॥ (३)
+> दानासो, वि विप्रो, रायं नरो, य ऋष्वस्, तस्याः समुद्रा, अग्निं न, षष्टिं सहस्रा, ऽतीयाम निदोऽष्टौ ॥ ८ ॥ (५)
 
-### 6 (1). Pankti — *(standard form confirmed: 8-8-8-8+8 = 40 syllables)*
+### 5 (8). Pankti —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| पंक्तिः *(Paṅktiḥ)* | 40 | 8-8-8-8-8 (संचपदं) पंक्तिः संचपदा | दानासः पृथु | 5.59.3 |
-| विराट् *(Virāṭ)* | 40 | 10-10-10-10 अथ चतुष्पदा विराट् दशकैः | वि विप्रोरिहुमा | 8.20.7 |
-| सतोबृहती *(Sato-bṛhatī)* | 40 | 12-8-12-8 अयुजो जागतौ सतोबृहती | आ यं नरः सुदा | 8.68.8 |
-| विपरीता *(Viparītā)* | 40 | 8-12-8-12 (युजौ जीत विपरीता) | य ऋष्णः श्रवं | 8.68.7 |
-| प्रस्तारपंक्तिः *(Prastāra-paṅktiḥ)* | 40 | 12-12-8-8 (अद्ग्यो जीत प्रस्तारपंक्तिः) | तस्याः समुद्रा | 10.85.47 |
-| आस्तारपंक्तिः *(Āstāra-paṅktiḥ)* | 40 | 8-8-12-12 (अंत्यौ जीत आस्तारपंक्तिः) | अग्निं न स्वन्नं | 10.20.1 |
-| संस्तारपंक्तिः *(Saṃstāra-paṅktiḥ)* | 40 | 12-8-8-12 (अद्ग्यंतौ जीत संस्तारपंक्तिः) | षष्ठिं सहस्रा | 5.59.26 |
-| विष्वारपंक्तिः *(Viṣvāra-paṅktiḥ)* | 40 | 8-12-12-8 (मध्यमौ जीत विष्वारपंक्तिः) | अतीयामु निद | 8.68.15 |
+| पङ्क्तिः *(Paṅktiḥ)* | 40 | 8-8-8-8-8 | (पञ्चमं) पङ्क्तिः पञ्चपदा *((pañcamaṃ) paṅktiḥ pañcapadā)* | दानासः पृथु *(dānāsaḥ pṛthu)* | 8-46-24 |
+| विराट् *(Virāṭ)* | 40 | 10-10-10-10 | अथ चतुष्पदा विराट् दशकैः *(atha catuṣpadā virāṭ daśakaiḥ)* | वि विप्रो रहिमा *(vi vipro rahimā)* | 6-20-7 [?] |
+| सतोबृहती *(Satobṛhatī)* | 40 | 12-8-12-8 | अयुजौ जागतौ सतोबृहती *(ayujau jāgatau satobṛhatī)* | आ यं नरः सुदा *(ā yaṃ naraḥ sudā)* | 5-53-6 |
+| विपरीता *(Viparītā)* | 40 | 8-12-8-12 | युजौ चेत् विपरीता *(yujau cet viparītā)* | य ऋष्वः श्राव *(ya ṛṣvaḥ śrāva)* | 8-46-12 |
+| प्रस्तारपङ्क्तिः *(Prastārapaṅktiḥ)* | 40 | 12-12-8-8 | आद्यौ चेत् प्रस्तारपङ्क्तिः *(ādyau cet prastārapaṅktiḥ)* | तस्याः समुद्रा *(tasyāḥ samudrā)* | 1-164-42 |
+| आस्तारपङ्क्तिः *(Āstārapaṅktiḥ)* | 40 | 8-8-12-12 | अन्त्यौ चेत् आस्तारपङ्क्तिः *(antyau cet āstārapaṅktiḥ)* | अग्निं न स्ववृ *(agniṃ na svavṛ)* | 10-21-1 |
+| संस्तारपङ्क्तिः *(Saṃstārapaṅktiḥ)* | 40 | 12-8-8-12 | आद्यन्तौ चेत् संस्तारपङ्क्तिः *(ādyantau cet saṃstārapaṅktiḥ)* | षष्टिं सहस्रा *(ṣaṣṭiṃ sahasrā)* | 8-46-22 |
+| विष्टारपङ्क्तिः *(Viṣṭārapaṅktiḥ)* | 40 | 8-12-12-8 | मध्यमौ चेद् विष्टारपङ्क्तिः *(madhyamau ced viṣṭārapaṅktiḥ)* | अतीयाम निद *(atīyāma nida)* | 5-53-14 |
 
-*(As with earlier tables, meter names, sutra text, and example openings are given with confidence; the per-foot digit patterns and Mandala-Sukta-Mantra locations are transcribed as faithfully as legible, cross-checked against the standard totals where a confirmed reference exists.)*
+*(Figures as printed, re-read on the 600 dpi scan; the last digits of 6-20-7 [?] and 5-53-6 read by me; the user's reading of the Viparītā pattern was taken as 8-12-8-12.)*
 
 
 ### Page 226
