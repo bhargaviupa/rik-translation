@@ -2156,7 +2156,7 @@ The Vyakarana-Mahabhashya states the Rigveda has 21 shakhas, yet the list just c
 
 Although "Brahmana" is grammatically a masculine-form word, it is used, when referring to this class of text, in the **neuter** gender. A "Brahmana" text consists of the sentences within the Samhita tradition that explain context, ritual application (viniyoga), and precedent/history (purva-itihasa) — matters necessary for understanding the Samhita's mantras — composed after those mantras themselves were already established and known. This neuter usage is consistent across the Taittiriya Samhita, Brahmana, Sutra, and Nirukta literature; the Taittiriya Brahmana (2.5.1) offers a clear example. The lexicon *Medini* distinguishes the word's senses directly:
 
-> ब्राह्मणं ब्रह्मसंघाते वेदभागे नपुंसकम् ॥
+> ब्राह्मणं ब्रह्मसंघाते वेदभागे नपुंसकम् ॥ ६७ ॥
 >
 > "'Brahmanam,' in the sense of 'an assembly of Brahmins' or 'a portion of the Veda,' is neuter."
 
@@ -2191,11 +2191,11 @@ Grammarians, commentators, glossators, and lexicographers all explain "Brahmana"
 >
 > "The Brahmana statement serves the purpose of explaining the ritual application (viniyoga) of a mantra whose meaning is not directly stated."
 
-That is: Brahmana-statements help clarify both Vedic meaning and a mantra's ritual application. Grammatically, whatever a mantra states in relation to Brahman (sacred knowledge) constitutes what "Brahmana" refers to — supported by the Shruti statements "brahma vai mantraḥ" and "vedo hi brahma," and by the further authority: "the Brahmanas are the explanatory expositions of the Vedas." In this sense, "Brahmana" takes on the meaning of statements that clarify Vedic mantras.
+That is: Brahmana-statements help clarify both Vedic meaning and a mantra's ritual application. Grammatically, whatever a mantra states in relation to Brahman (sacred knowledge) constitutes what "Brahmana" refers to — supported by the Shruti statements "brahma vai mantraḥ" (Śa. 7-1-1-5) and "vedo hi brahma" (Jai. U. 4-25-3), and by the further authority: "the Brahmanas are the explanatory expositions of the Vedas." In this sense, "Brahmana" takes on the meaning of statements that clarify Vedic mantras.
 
 "Brahmana" is also explained in relation to yajna-duties — where the Brahmana texts explain ritual acts connected with a yajna, that explanation itself is what "Brahmana" means. As an example:
 
-> **दूरोहणं रोहति तस्म्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 3.24)
+> **दूरोहणं रोहति तस्म्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 6-25)
 >
 > "'He ascends the Durohana [rite]' — this is the Brahmana stated for it."
 
@@ -2210,7 +2210,7 @@ From this, it's clear that the "Durohana-Brahmana" explains the meaning of the w
 
 ### Page 170
 
-> **यद्गौरिवीतं तस्म्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 4.2)
+> **यद्गौरिवीतं तस्म्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 8-2)
 >
 > "'That which is Gaurivita' — the Brahmana stated for it."
 
@@ -2222,21 +2222,21 @@ Explained as:
 
 This Gaurivita-Brahmana explains the word "Gaurivita" itself. Similarly, for "Chaidumbari":
 
-> **अथास्य चैदुम्बरीमासन्दीं संभरन्ति । तस्य उक्तं ब्राह्मणम्** (Aitareya Brahmana 8.12)
+> **अथास्य चैदुम्बरीमासन्दीं संभरन्ति । तस्य उक्तं ब्राह्मणम्** (Aitareya Brahmana 8-17)
 >
 > "'Now they gather for him a Chaidumbari seat.' Its Brahmana is stated:"
 
-> चैदुम्बरीं समन्यारभन्त इषमूर्जमन्वारभ इत्युद्गार्व अन्नाद्यमुदुम्बरो यद्वै तद्देवा इषमूर्जं व्यभजन्त तत उदुम्बरः समभवत्स्याश्च त्रिः संवत्सरस्य पच्यते ॥ (8.14)
+> चैदुम्बरीं समन्यारभन्त इषमूर्जमन्वारभ इत्युद्गार्व अन्नाद्यमुदुम्बरो यद्वै तद्देवा इषमूर्जं व्यभजन्त तत उदुम्बरः समभवत्स्याश्च त्रिः संवत्सरस्य पच्यते ॥ (5-24)
 >
 > "They take hold of the Chaidumbari together with vigor and nourishing strength — the Udumbara (fig tree) is food itself. Since the gods once divided vigor and nourishing strength between them, from that the Udumbara came into being, and it ripens three times a year."
 
 From these examples, statements in the Brahmanas that explain a word's meaning were evidently themselves understood as expositions "of Brahman" — hence such explanations came to be called "Brahmanas."
 
-Across the Shrauta-, Grihya-, Shulba-, and Dharma-sutras, and in the Nirukta and Nidana texts, it is customary, when citing a Brahmana passage as authority, to close with "iti vijnayate" or "iti ha vijnayate" ("thus it is known"). Why exactly this phrasing is used isn't entirely clear; Durgacharya's Nirukta commentary (2.11, 3.14) glosses it as "thus it becomes known even upon examining the Brahmana passage itself."
+Across the Shrauta-, Grihya-, Shulba-, and Dharma-sutras, and in the Nirukta and Nidana texts, it is customary, when citing a Brahmana passage as authority, to close with "iti vijnayate" or "iti ha vijnayate" ("thus it is known"). Why exactly this phrasing is used isn't entirely clear; Durgacharya's Nirukta commentary (2-11 and 2-18) glosses it as "thus it becomes known even upon examining the Brahmana passage itself."
 
 ### Two Kinds of Brahmanas
 
-Bhatta Bhaskara's introduction to his Taittiriya Samhita commentary (1.4.1) states:
+Bhatta Bhaskara's introduction to his Taittiriya Samhita commentary (1-8-1) states:
 
 > द्विविधं ब्राह्मणम् । कर्मब्राह्मणं कल्पब्राह्मणं चेति ॥
 >
@@ -2247,7 +2247,7 @@ That is: the **Karma-Brahmana** explains the procedure for rites and the ritual 
 
 ### Page 171 — "Anubrahmana"
 
-Commentators generally gloss this as "brahmana-sadrsham anubrahmanam" — "that which resembles a Brahmana is called Anubrahmana" — i.e., not a Brahmana proper, but a text resembling one. Some apply the term to small individual Brahmana-portions within the Samaveda; the sage Satyavrata and others apply it to smaller Brahmana texts other than the Tandya-Brahmana. The Nidana-sutra cites several such passages under this name. Bhatta Bhaskara's Taittiriya-Samhita commentary (1.4.1, on the Brahmana portion 1.5.11.1) glosses a passage:
+Commentators generally gloss this as "brahmana-sadrsham anubrahmanam" — "that which resembles a Brahmana is called Anubrahmana" — i.e., not a Brahmana proper, but a text resembling one. Some apply the term to small individual Brahmana-portions within the Samaveda; the sage Satyavrata and others apply it to smaller Brahmana texts other than the Tandya-Brahmana. The Nidana-sutra cites several such passages under this name. Bhatta Bhaskara's Taittiriya-Samhita commentary (1-8-1, on the Brahmana portion 1-6-11-1) glosses a passage:
 
 > अश्वा वेतानि हविर्गोंशि भवन्ति ॥
 >
@@ -2256,7 +2256,7 @@ Commentators generally gloss this as "brahmana-sadrsham anubrahmanam" — "that 
 >
 > "These become the horse-related oblation materials..."
 
-as "anubrāhmaṇaṃ ca bhavanti" — "and these become Anubrahmana." Madhava's Taittiriya Brahmana commentary (1.4.1) similarly opens a passage:
+as "anubrāhmaṇaṃ ca bhavanti" — "and these become Anubrahmana." Madhava's Taittiriya Brahmana commentary (1-6-1) similarly opens a passage:
 
 > अथ राजसूयस्यानुब्राह्मणम् ॥
 >
@@ -2273,20 +2273,20 @@ Together these confirm that certain internal sub-portions of a Brahmana are spec
 
 The Rigveda has two Brahmanas: the **Aitareya** and the **Kaushitaki** (also called the Sankhyayana-Brahmana). The Aitareya Brahmana consists of five Panchikas (groups), each with five chapters (adhyayas) — 40 chapters in total. Its subject matter runs roughly as follows:
 
-- **Chapters 1–2:** the rules governing Soma-yagas such as the Jyotishtoma, and the sacrifice's overall sequence.
-- **Chapter 3:** the Agnishtoma yaga and related matters.
-- **Panchika 3, chapters 4–5:** the Ukthya, Shodashi, and Atiratra yagas.
-- **Panchika 3 (ch. 5) through Panchika 4 (ch. 1):** the Gavamayana rite.
-- **Panchika 4 (chs. 4–5):** the Adityanamayana and Angirasamayana rites.
-- **Panchikas 4–5 (further chapters):** the Dvadashaha (twelve-day rite).
-- **A later chapter:** the Yajamana's required duties — Prayashchitta (atonement) rites, the timing of the Agnishtoma, and the duties of the Brahma-priest.
+- **Adhyayas 1–13:** the rules and procedure to be followed in Soma-yagas such as the Jyotishtoma — the sequence of the sacrifice.
+- **Adhyaya 14:** the Agnishtoma yaga and other matters.
+- **Adhyayas 15–17 (to khanda 5):** the Ukthya, Shodashi, Atiratra and other yagas.
+- **Adhyaya 17, khanda 6, to adhyaya 18, khanda 3:** the Gavamayana.
+- **Adhyaya 18, khandas 4 to 8:** the Adityanamayana and Angirasamayana.
+- **Adhyayas 18–24 [?]:** the Dvadashaha (twelve-day rite).
+- **Adhyaya 25:** the Prayashchitta (atonement) rites the Yajamana must perform, the timing of the Agnishtoma, and the duties of the Brahma-priest.
 
-*(Given the density of precise chapter/section cross-references in the original for this table, the ranges above are given at the level the source presents them, with normal care but without claiming pinpoint certainty on every individual sub-reference.)*
+*(Ranges as printed.)*
 
 
 ### Page 172
 
-- **Chapters 6–30:** descriptions of the duties of other Ritvij priests.
+- **Chapters 26–30:** descriptions of the duties of other Ritvij priests.
 - **Chapters 31–40:** the yajnas a Kshatriya must perform, and the royal coronation (Rajyabhisheka) ceremony.
 
 **Why is it called "Aitareya"?** Sayanacharya's own commentary preserves the story: a certain sage had several wives, one named **Itara**, unloved by the rest. Her son was accordingly called "Itareya" (son of Itara) by others, though his given name was **Mahidasa**. When the father performed yajnas, he favored his other sons over Itara's son. In her distress at this neglect, Itara prayed to the goddess Bhumidevi (Earth), who — pleased with her devotion — granted the boy a throne surpassing heaven itself and blessed him with mastery of the Rigveda's Brahmana, Aranyaka, and Upanishad. Because Mahidasa, son of Itara, composed these very texts, they became known as the **Aitareya Brahmana, Aitareya Aranyaka,** and **Aitareya Upanishad.**
@@ -2318,9 +2318,9 @@ The Brahmana of the Sankhyayana shakha is called the Kaushitaki-Brahmana (some i
 
 ### Page 173
 
-According to this verse, the Brahmana belonging to the Sankhyayana shakha shares its name with the "Kaushitaki-Brahmana." Shankaracharya's Vedanta-sutra commentary (~1.3.33 and 3.3.10) and Panini's sutra (~4.1.79) both cite this Brahmana's name.
+According to this verse, the Brahmana belonging to the Sankhyayana shakha shares its name with the "Kaushitaki-Brahmana." Shankaracharya's Vedanta-sutra commentary (1-1-28 and 3-3-10) and Panini's sutra (5-1-62) both cite this Brahmana's name.
 
-The text's actual author cannot be determined with certainty, but calling it either "Kaushitaki" or "Sankhyayana" is equally acceptable — the Sankhyayana Aranyaka itself records that Uddalaka gave his teaching to Kahola-Kaushitaki, who was in turn Sankhyayana's own teacher; hence either name applies to this Brahmana.
+The text's actual author cannot be determined with certainty, but calling it either "Kaushitaki" or "Sankhyayana" is equally acceptable — the Sankhyayana Aranyaka itself (15-1) records that Uddalaka gave his teaching to Kahola-Kaushitaki, who was in turn Sankhyayana's own teacher; hence either name applies to this Brahmana.
 
 The text runs to 30 chapters. Most of its subject matter matches the Aitareya Brahmana, though a few topics — notably the description of the Somayaga — are treated in greater detail here. Broadly: the Aitareya Brahmana follows the Rigveda's Shakala (or Bashkala) shakha, while the Kaushitaki-Brahmana follows the Sankhyayana shakha.
 
@@ -2339,12 +2339,12 @@ That is: because subjects useful to forest-dwelling Vanaprasthas and to knowledg
 
 Among these, the **Aitareya Aranyaka** belongs to the Aitareya Brahmana, and the **Kaushitaki Aranyaka** to the Kaushitaki Brahmana. The Aitareya Aranyaka has five parts (each itself called an "Aranyaka"): the first with 5 chapters, the second with 7, the third with 2, the fourth with 1, and the fifth with 3 — 18 chapters in total.
 
-The first Aranyaka describes the **Mahavrata** rite — itself one portion of the Gavamayana described in the Aitareya Brahmana (ch. 4, section 1). This is a rite performed within a single day, and this section details the day's required observances: the morning pressing (Pratah-savana), midday pressing (Madhyandina-savana), evening pressing (Sayam-savana), and related matters.
+The first Aranyaka describes the **Mahavrata** rite — itself one portion of the Gavamayana described in the Aitareya Brahmana (adhyaya 3 [as read], khanda 1). This is a rite performed within a single day, and this section details the day's required observances: the morning pressing (Pratah-savana), midday pressing (Madhyandina-savana), evening pressing (Sayam-savana), and related matters.
 
 
 ### Page 174
 
-The second Aranyaka has two parts: chapters 1–3 explain ritual meaning, while chapters 4–5 contain the well-known **Aitareya Upanishad**. The third Aranyaka describes the distinctions of accent (svara), articulation (sparsha), and breath (ushma) connected with the Samhita, Pada, and Krama recitation-methods, naming many sages. The fourth Aranyaka collects mantras connected with the Mahanamni verses, also found in the Samaveda's Naigeya shakha. The fifth Aranyaka describes the "Nishkevalya Shastra," recited on the midday-pressing day of the Mahavrata.
+The second Aranyaka has two parts: chapters 1–3 explain ritual meaning, while chapters 4–6 contain the well-known **Aitareya Upanishad**. The third Aranyaka describes the distinctions of accent (svara), articulation (sparsha), and breath (ushma) connected with the Samhita, Pada, and Krama recitation-methods, naming many sages. The fourth Aranyaka collects mantras connected with the Mahanamni verses, also found in the Samaveda's Naigeya shakha. The fifth Aranyaka describes the "Nishkevalya Shastra," recited on the midday-pressing day of the Mahavrata.
 
 ### Compilation
 
@@ -2368,13 +2368,13 @@ And further:
 
 That is: Shaunaka wrote ten Rigveda-related texts — (1) Arshanukramani, (2) Chandonukramani, (3) Devatanukramani, (4) Anuvakanukramani, (5) Suktanukramani, (6) Rigvidhana, (7) Padavidhana, (8) Brihaddaivata, (9) Pratishakhya, and (10) Shaunaka-smriti. His disciple Ashvalayana composed the twelve-chapter Shrautasutra, the four-chapter Grihyasutra, and the fourth Aranyaka within the Aitareya Aranyaka. Shaunaka himself compiled the fifth Aranyaka. Sayana's Aitareya Aranyaka commentary states:
 
-> आत एव पञ्चमे शौनकेनोदाहृताः । (१-५-१)
-> ताश्च पञ्चमे शौनकेन शाखान्तरसात्म्या पठिताः । (१-५-१)
+> आत एव पञ्चमे शौनकेनोदाहृताः । (१-४-१)
+> ताश्च पञ्चमे शौनकेन शाखान्तरसात्म्या पठिताः । (१-४-१)
 >
 > आत एव पञ्चमे शौनकेनोदाहृताः ।
-> *āta eva pañcame śaunakenodāhṛtāḥ | (1.5.1)*
+> *āta eva pañcame śaunakenodāhṛtāḥ | (1-4-1)*
 > ताश् च पञ्चमे शौनकेन शाखान्तर-सात्म्या पठिताः ।
-> *tāś ca pañcame śaunakena śākhāntara-sātmyā paṭhitāḥ | (1.5.1)*
+> *tāś ca pañcame śaunakena śākhāntara-sātmyā paṭhitāḥ | (1-4-1)*
 >
 > "These indeed have been cited by Shaunaka in the fifth [Aranyaka]... and these were recited by Shaunaka in the fifth, drawn appropriately from other shakhas." *(the exact sense of a couple of words here remains somewhat uncertain)*
 
@@ -2394,25 +2394,25 @@ The Sankhyayana Aranyaka has 15 chapters in total, divided into sections (khanda
 | Adhyaya | Khanda | Adhyaya | Khanda | Adhyaya | Khanda |
 |---|---|---|---|---|---|
 | 1 | 8 | 6 | 20 | 11 | 8 |
-| 2 | 18 | 7 | 25 | 12 | 8 |
+| 2 | 18 | 7 | 23 | 12 | 8 |
 | 3 | 7 | 8 | 11 | 13 | 1 |
-| 4 | 18 | 9 | 8 | 14 | 3 |
+| 4 | 15 | 9 | 8 | 14 | 2 |
 | 5 | 8 | 10 | 8 | 15 | 1 |
 
-*(A handful of individual khanda-counts in this table are given as best legible at this resolution.)*
+*(Counts as printed, re-read on the 600 dpi scan.)*
 
-This Aranyaka resembles the Aitareya Aranyaka in every respect — its description of the Mahavrata and related rites matches closely. Chapters 1–2 cover material corresponding to the Aitareya Aranyaka's 1st and 5th Aranyakas; chapters 3–6 correspond to its 2nd Aranyaka. Chapters 7 onward constitute the well-known **Kaushitaki Upanishad** — since some manuscript copies lack these Upanishad chapters entirely, there is reasonable suspicion that this portion may have been appended to the Aranyaka at some later date.
+This Aranyaka resembles the Aitareya Aranyaka in every respect — its description of the Mahavrata and related rites matches closely. Chapters 1–2 cover the material of the Aitareya Aranyaka's 1st and 5th Aranyakas, and chapters 7–8 that of its 3rd Aranyaka. Chapters 3–6 are the well-known **Kaushitaki Upanishad** — since some manuscript copies lack these Upanishad chapters entirely, there is reasonable suspicion that this portion may have been appended to the Aranyaka at some later date.
 
 At the end of this Aranyaka appears a closing statement:
 
-> गुणाख्याश्चांबायनादस्माभिरधीतम् ॥
+> गुणाख्याश्चांबायनादस्माभिरधीतम् ॥ १५ ॥
 >
 > गुणाख्याश् चाम्बायनाद् अस्माभिर् अधीतम् ॥
 > *guṇākhyāś cāmbāyanād asmābhir adhītam ||*
 >
 > "This has been learned by us from Gunakhya-Sankhyayana."
 
-The word "asmābhiḥ" ("by us") here may refer to the many disciples of Gunakhya-Sankhyayana; alternatively, Sankhyayana himself may have compiled the first four chapters, with his disciples compiling the final one.
+The word "asmābhiḥ" ("by us") here may refer to the many disciples of Gunakhya-Sankhyayana; alternatively, Sankhyayana himself may have compiled 14 chapters, and his disciples the last chapter.
 
 
 ## Chapter Ten — The Rishis of the Rigveda
