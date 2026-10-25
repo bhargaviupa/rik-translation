@@ -5776,7 +5776,7 @@ That is: from that being called "sahasraśīrṣā puruṣaḥ" (the thousand-he
 
 **And the followers of the Vajasaneyi tradition state:**
 
-> तस्यैदिमातुरमं यजामं यजेत्येकं देवमेतस्यै व सा विसृष्टिरेष उ स्येव सर्वे देवा इति ॥ (Shatapatha Brahmana 14.5.2.13)
+> तस्यैदिमातुरमं यजामं यजेत्येकं देवमेतस्यै व सा विसृष्टिरेष उ स्येव सर्वे देवा इति ॥ (Shatapatha Brahmana 14-4-2-12)
 >
 > *(A Shatapatha Brahmana passage affirming that the many deity-names ultimately refer to a single divine being, whose own creative act these names collectively describe; precise phrase-level construction is difficult to render exactly at this resolution.)*
 
@@ -5885,9 +5885,10 @@ The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something sim
 
 Other Upanishadic traditions similarly prescribe the order of study for the whole body of mantras:
 
-> ऋक्सामाथर्वणाश्चैव स्कन्धो वेदाः सांगाः सशाखाश्च स्वारक साधा भवन्तीति । (Taittiriya Aranyaka 1.2[?])
+> ऋग्यजुःसामाथर्वाणश्चत्वारो वेदाः साङ्गाः सशाखाश्चत्वारः पादा भवन्तीति । (नृ. ता. १-२)
+> *ṛgyajuḥsāmātharvāṇaś catvāro vedāḥ sāṅgāḥ saśākhāś catvāraḥ pādā bhavantīti | (Nṛ. Tā. 1-2)*
 >
-> *(Naming the Rik, Sama, and Atharvan branches together with the Vedangas and shakhas as together constituting the full body of Vedic learning; precise construction difficult to render exactly at this resolution.)*
+> "The four Vedas — Ṛk, Yajus, Sāman and Atharvan — with their aṅgas and śākhās, are the four feet." (Nṛsiṃha-Tāpanīya Upaniṣad 1-2)
 
 ---
 
@@ -6089,7 +6090,7 @@ That is: this is understood directly from the word's own etymology. In "Adhvaryu
 
 Yaska further demonstrates this same idea:
 
-> मन्त्रा मननाच्छन्दांसि च्छादनाच्च स्तोमः स्तवनाच्च यजुर्यजनेरिति । (Nirukta 7.[1].3)
+> मन्त्रा मननाच्छन्दांसि च्छादनाच्च स्तोमः स्तवनाच्च यजुर्यजनेरिति । (Nirukta 7-12)
 >
 > मन्त्रा मननाच् छन्दांसि च्छादनाच् च स्तोमः स्तवनाच् च यजुर् यजनेर् इति ।
 > *mantrā mananāc chandāṃsi cchādanāc ca stomaḥ stavanāc ca yajur yajaner iti |*
@@ -6186,12 +6187,12 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 
 **Third attempted definition, and its refutation:**
 
-> शरीरधारिजीवनिर्मितत्वाभावादपौरुषेयत्वमिति चेन्न, सहस्रशीर्षा पुरुष इत्यादिभिः प्रसिद्धः शरीरित्वात् । कर्मफलदानशरीरधारणाभावमात्रेणापौरुषेयत्वे, विनश्वरशरीरग्रहणवार्यादितत्त्वात् । ऋग्वेद एवास्य शरीरम् (Shatapatha Brahmana 8.4.3)
+> शरीरधारिजीवनिर्मितत्वाभावादपौरुषेयत्वमिति चेन्न । सहस्रशीर्षा पुरुष इत्यादिश्रुतिभिरीश्वरस्यापि शरीरित्वात् ॥ कर्मफलरूपशरीरधारिजीवनिर्मितत्वाभावमात्रेणापौरुषेयत्वं विवक्षितमिति चेन्न । जीवविशेषैरग्निवाय्वादित्यैर्वेदानामुत्पादितत्वात् । ऋग्वेद एवाग्नेरजायत यजुर्वेदो वायोः सामवेद आदित्यात् (ऐ. ब्रा. ५-३२) श्रुतेरीश्वरस्याग्न्यादिप्रेरकत्वेन निर्मातृत्वं द्रष्टव्यम् ।
+> *śarīradhārijīvanirmitatvābhāvād apauruṣeyatvam iti cen na | sahasraśīrṣā puruṣa ityādiśrutibhir īśvarasyāpi śarīritvāt || karmaphalarūpaśarīradhārijīvanirmitatvābhāvamātreṇāpauruṣeyatvaṃ vivakṣitam iti cen na | jīvaviśeṣair agnivāyvādityair vedānām utpāditatvāt | ṛgveda evāgner ajāyata yajurvedo vāyoḥ sāmaveda ādityāt (Ai. Brā. 5-32) śruter īśvarasyāgnyādiprerakatvena nirmātṛtvaṃ draṣṭavyam |*
 >
-> शरीर-धारि-जीव-निर्मितत्वाभावाद् अपौरुषेयत्वम् इति चेन् न, सहस्रशीर्षा पुरुष इत्य् आदिभिः प्रसिद्धः शरीरित्वात् । कर्म-फल-दान-शरीर-धारणाभाव-मात्रेणापौरुषेयत्वे, विनश्वर-शरीर-ग्रहण-वार्यादितत्त्वात् । ऋग्वेद एवास्य शरीरम् ।
-> *śarīra-dhāri-jīva-nirmitatvābhāvād apauruṣeyatvam iti cen na, sahasraśīrṣā puruṣa ity ādibhiḥ prasiddhaḥ śarīritvāt | karma-phala-dāna-śarīra-dhāraṇābhāva-mātreṇāpauruṣeyatve, vinaśvara-śarīra-grahaṇa-vāryāditattvāt | ṛgveda evāsya śarīram |*
+> "If you say that 'non-human origin' means 'not made by an embodied living being,' we reply: no; for from texts such as 'the thousand-headed Purusha' the Lord too has a body. If you say that what is meant is only 'not made by a living being whose body is the fruit of karma,' we reply: no; for the Vedas were brought forth by particular living beings — Agni, Vayu and Aditya. From the text 'The Ṛgveda was born from Agni, the Yajurveda from Vayu, the Samaveda from Aditya' (Ai. Brā. 5-32), the Lord is to be understood as the maker, in that he impels Agni and the others."
 >
-> "If you say that 'non-human origin' means 'not made by an embodied living being,' we reply: no. It is well established, from texts such as 'the thousand-headed Purusha,' that this same being does possess a body. And if 'non-human origin' is meant only in the sense of not taking on a body for the purpose of dispensing karmic fruits, that distinction concerns merely the taking on of a *perishable* body, among other such considerations — for indeed, 'the Rigveda itself is his body' (Shatapatha Brahmana 8.4.3)."
+> *(Devanagari of this passage re-read from the print in the numeral pass; the earlier reading, ending "ऋग्वेद एवास्य शरीरम् (Shatapatha Brahmana 8.4.3)", was a misreading.)*
 
 ---
 
@@ -6313,12 +6314,12 @@ That is: an adhikarana comprises five distinct parts — the subject-matter (vis
 
 ### The Resolution (Uttara-Paksha) Begins: Determining the Veda's Definition and Proof
 
-> अत्रोच्यते । मन्त्रब्राह्मणात्मकत्वं तावदुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञपरिभाषायामाह । मन्त्रब्राह्मणयोर्वेदनामधेयमिति (आ. प. १२) । तयोस्तु स्वरूपविवेचने...
+> अत्रोच्यते । मन्त्रब्राह्मणात्मकत्वं तावददुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञपरिभाषायामाह । मन्त्रब्राह्मणयोर्वेदनामधेयमिति (आ. प. ३१) । तयोस्तु स्वरूपविवेचने...
 >
-> अत्रोच्यते । मन्त्र-ब्राह्मणात्मकत्वं तावद् उष्टं लक्षणम् । अत एवापस्तम्बो यज्ञ-परिभाषायाम् आह । मन्त्र-ब्राह्मणयोर् वेद-नामधेयम् इति (आपस्तम्ब यज्ञ-परिभाषा १२) । तयोस् तु स्वरूप-विवेचने...
-> *atrocyate | mantra-brāhmaṇātmakatvaṃ tāvad uṣṭaṃ lakṣaṇam | ata evāpastambo yajña-paribhāṣāyām āha | mantra-brāhmaṇayor veda-nāmadheyam iti (Āpastamba Yajña-paribhāṣā 12) | tayos tu svarūpa-vivecane...*
+> अत्रोच्यते । मन्त्र-ब्राह्मणात्मकत्वं तावद् अदुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञ-परिभाषायाम् आह । मन्त्र-ब्राह्मणयोर् वेद-नामधेयम् इति (आपस्तम्ब यज्ञ-परिभाषा ३१) । तयोस् तु स्वरूप-विवेचने...
+> *atrocyate | mantra-brāhmaṇātmakatvaṃ tāvad aduṣṭaṃ lakṣaṇam | ata evāpastambo yajña-paribhāṣāyām āha | mantra-brāhmaṇayor veda-nāmadheyam iti (Āpastamba Yajña-paribhāṣā 31) | tayos tu svarūpa-vivecane...*
 >
-> "To this we reply: the definition of the Veda as consisting of mantras and brahmanas is, in fact, faultless. This is precisely why Apastamba, in his Yajña-paribhāṣā, states: 'The name Veda applies to the mantras and the brahmanas' (Apastamba Yajña-paribhasha 12). As for determining the precise nature of each of these..."
+> "To this we reply: the definition of the Veda as consisting of mantras and brahmanas is, in fact, faultless. This is precisely why Apastamba, in his Yajña-paribhāṣā, states: 'The name Veda applies to the mantras and the brahmanas' (Apastamba Yajña-paribhasha 31). As for determining the precise nature of each of these..."
 
 *(The Sanskrit continues into a dense technical discussion — concerning how "mantra" and "brahmana" are properly distinguished, and reasoning toward the meaning of "apauruṣeya" — which the source's own English translation below renders in full; given the density of this passage, the English rendering is the more reliable guide to its content at this resolution.)*
 
@@ -6370,7 +6371,7 @@ This being so, proof drawn from Smriti (itself rooted in the Veda), as well as p
 
 ### Page 369
 
-> अनुभवसाधनं प्रमाणमिति केचिल्लक्षणमाहुः । अपरे तृषष्ट्यधिगतार्थगन्तृ प्रमाणमित्याचक्षते । न चैतदुभयं वेदे संभवति । मन्त्रब्राह्मणात्मको हि वेदः । तत्र मन्त्राः केचिदबोधकाः । अम्यक् स त इन्द्र ऋष्टिरेको मन्त्रः । (ऋ. १.१०९.३[?]) यद्रिस्मिन् धायि तमपश्यया विददृक्षः । (ऋ. ८.९३.२८[?]) सृण्येव जर्भरी तुर्फरीतु (ऋ. १०.१०६.६) इत्येवंजातीयान्यन्यान्यपि अपान्तमन्युस्त्रिपलप्रभर्मिः इत्यादयः (ऋ. १०.६८.३[?]) उदाहार्याः । न ह्येतैर्मन्त्रैः किंचिज्ज्ञेयार्थोऽवगच्छते । विशेषतः संभव एव यदा नास्ति तदा तस्य ज्ञानकारणसाधनत्वं च दूरास्थितम् ॥
+> अनुभवसाधनं प्रमाणमिति केचिल्लक्षणमाहुः । अपरे तृषष्ट्यधिगतार्थगन्तृ प्रमाणमित्याचक्षते । न चैतदुभयं वेदे संभवति । मन्त्रब्राह्मणात्मको हि वेदः । तत्र मन्त्राः केचिदबोधकाः । अम्यक् स त इन्द्र ऋष्टिरेको मन्त्रः । (ऋ. १-१६९-३) यद्रिस्मिन् धायि तमपश्यया विददृक्षः । (ऋ. ५-४४-८) सृण्येव जर्भरी तुर्फरीतु (ऋ. १०-१०६-६) इत्येवंजातीयान्यन्यान्यपि अपान्तमन्युस्त्रिपलप्रभर्मिः इत्यादयः (ऋ. १०-८९-५) उदाहार्याः । न ह्येतैर्मन्त्रैः किंचिज्ज्ञेयार्थोऽवगच्छते । विशेषतः संभव एव यदा नास्ति तदा तस्य ज्ञानकारणसाधनत्वं च दूरास्थितम् ॥
 >
 > अनुभव-साधनं प्रमाणम् इति केचिल् लक्षणम् आहुः । अपरे तृ-षष्ट्य्-अधिगतार्थ-गन्तृ प्रमाणम् इत्य् आचक्षते । न चैतद् उभयं वेदे संभवति । मन्त्र-ब्राह्मणात्मको हि वेदः । तत्र मन्त्राः केचिद् अबोधकाः । ... न ह्य् एतैर् मन्त्रैः किंचिज् ज्ञेयार्थोऽवगच्छते । विशेषतः संभव एव यदा नास्ति तदा तस्य ज्ञान-कारण-साधनत्वं च दूरास्थितम् ॥
 > *anubhava-sādhanaṃ pramāṇam iti kecil lakṣaṇam āhuḥ | apare tṛ-ṣaṣṭy-adhigatārtha-gantṛ pramāṇam ity ācakṣate | na caitad ubhayaṃ vede saṃbhavati | mantra-brāhmaṇātmako hi vedaḥ | tatra mantrāḥ kecid abodhakāḥ | ... na hy etair mantraiḥ kiṃcij jñeyārtho'vagacchate | viśeṣataḥ saṃbhava eva yadā nāsti tadā tasya jñāna-kāraṇa-sādhanatvaṃ ca dūrāsthitam ||*
@@ -6391,16 +6392,16 @@ We grant, then, that an entity called "Veda" exists — but what need is there t
 
 ### Page 370
 
-> अधः स्विदासीदुपरि स्विदासीदिति (ऋ. १०.१२९.५) मन्त्रस्य बोधकत्वेऽपि स्थाणुर्वा पुरुषो वेत्यादिवाक्यवत्संदिग्धार्थबोधकत्वान्न प्रामाण्यम् ॥
+> अधः स्विदासीदुपरि स्विदासीदिति (ऋ. १०-१२९-५) मन्त्रस्य बोधकत्वेऽपि स्थाणुर्वा पुरुषो वेत्यादिवाक्यवत्संदिग्धार्थबोधकत्वान्न प्रामाण्यम् ॥
 >
-> अधः स्विद् आसीद् उपरि स्विद् आसीद् इति (र्व् १०.१२९.५) मन्त्रस्य बोधकत्वेऽपि स्थाणुर् वा पुरुषो वेत्य् आदि-वाक्यवत् संदिग्धार्थ-बोधकत्वान् न प्रामाण्यम् ॥
-> *adhaḥ svid āsīd upari svid āsīd iti (RV 10.129.5) mantrasya bodhakatve'pi sthāṇur vā puruṣo vety ādi-vākyavat saṃdigdhārtha-bodhakatvān na prāmāṇyam ||*
+> अधः स्विद् आसीद् उपरि स्विद् आसीद् इति (र्व् १०-१२९-५) मन्त्रस्य बोधकत्वेऽपि स्थाणुर् वा पुरुषो वेत्य् आदि-वाक्यवत् संदिग्धार्थ-बोधकत्वान् न प्रामाण्यम् ॥
+> *adhaḥ svid āsīd upari svid āsīd iti (RV 10-129-5) mantrasya bodhakatve'pi sthāṇur vā puruṣo vety ādi-vākyavat saṃdigdhārtha-bodhakatvān na prāmāṇyam ||*
 >
-> "The mantra 'adhaḥ svid āsīd upari svid āsīt' (was it below, or was it above?) (RV 10.129.5), though it conveys some meaning, conveys only a doubtful, ambiguous sense — like the statement 'is it a post, or is it a man?' — and therefore lacks authority."
+> "The mantra 'adhaḥ svid āsīd upari svid āsīt' (was it below, or was it above?) (RV 10-129-5), though it conveys some meaning, conveys only a doubtful, ambiguous sense — like the statement 'is it a post, or is it a man?' — and therefore lacks authority."
 
 Take the mantra "adhaḥ svid āsīd upari svid āsīt." Even though its words convey a meaning of sorts, it leaves genuine room for doubt — much like asking whether something is a stump or a man. Since it fails to convey a settled, coherent meaning, how could such a mantra carry any authority?
 
-> ओषधे त्रायस्वैनमिति (Taittiriya Samhita 1.2.1.1) मन्त्रे दर्भविषयः । (Ashvalayana Grihyasutra 1.12.4) स्वधिते मैनं हिंसीरिति क्षुरविषयः । (Taittiriya Samhita 1.3.1.3) श्रुणोत ग्रावाण इति पाषाणविषयः । एतेष्वचेतनानां दर्भक्षुरपाषाणानां चेतनवत्संबोधनं श्रूयते । द्वौ चन्द्रौ चन्द्रमसाविति वाक्यवद्विसंवादिबोधकत्वात्प्रामाण्यम् ॥
+> ओषधे त्रायस्वैनमिति (Taittiriya Samhita 1-2-1-1) मन्त्रे दर्भविषयः । (Ashvalayana Grihyasutra 1-17-8) स्वधिते मैनं हिंसीरिति क्षुरविषयः । (Ashvalayana Grihyasutra 1-17-9) श्रुणोत ग्रावाण (Taittiriya Samhita 1-3-13-1) इति पाषाणविषयः । एतेष्वचेतनानां दर्भक्षुरपाषाणानां चेतनवत्संबोधनं श्रूयते । द्वौ चन्द्रौ चन्द्रमसाविति वाक्यवद्विसंवादिबोधकत्वात्प्रामाण्यम् ॥
 >
 > ओषधे त्रायस्वैनम् इति मन्त्रे दर्भ-विषयः । स्वधिते मैनं हिंसीर् इति क्षुर-विषयः । शृणोत ग्रावाण इति पाषाण-विषयः । एतेष्व् अचेतनानां दर्भ-क्षुर-पाषाणानां चेतनवत् सम्बोधनं श्रूयते । द्वौ चन्द्रौ चन्द्रमसाव् इति वाक्यवद् विसंवादि-बोधकत्वात् प्रामाण्यम् ॥
 > *oṣadhe trāyasvainam iti mantre darbha-viṣayaḥ | svadhite mainaṃ hiṃsīr iti kṣura-viṣayaḥ | śṛṇota grāvāṇa iti pāṣāṇa-viṣayaḥ | eteṣv acetanānāṃ darbha-kṣura-pāṣāṇānāṃ cetanavat sambodhanaṃ śrūyate | dvau candrau candramasāv iti vākyavad visaṃvādi-bodhakatvāt prāmāṇyam ||*
@@ -6420,16 +6421,16 @@ That is: the mantras "O herb, protect him" address grass (darbha), "O razor, do 
 
 ### Page 371
 
-> एक एव रुद्रो न द्वितीयाय तस्थे (Taittiriya Samhita 1.8.6.1) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (Taittiriya Samhita 4.5.1.1) इत्येतयोस्तु मन्त्रयोर्यावच्छिवमहं मौनीति वाक्यवद्व्याघातबोधकत्वादप्रामाण्यम् ॥
+> एक एव रुद्रो न द्वितीयाय तस्थे (Taittiriya Samhita 1-8-6-1) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (Taittiriya Samhita 4-5-11-1) इत्येतयोस्तु मन्त्रयोर्यावच्छिवमहं मौनीति वाक्यवद्व्याघातबोधकत्वादप्रामाण्यम् ॥
 >
-> एक एव रुद्रो न द्वितीयाय तस्थे (तैत्तिरीय संहिता १.८.६.१) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (तैत्तिरीय संहिता ४.५.१.१) इत्य् एतयोस् तु मन्त्रयोर् यावच् छिवम् अहं मौनीति वाक्यवद् व्याघात-बोधकत्वाद् अप्रामाण्यम् ॥
-> *eka eva rudro na dvitīyāya tasthe (Taittirīya Saṃhitā 1.8.6.1) sahasrāṇi sahasraśo ye rudrā adhi bhūmyām (Taittirīya Saṃhitā 4.5.1.1) ity etayos tu mantrayor yāvac chivam ahaṃ maunīti vākyavad vyāghāta-bodhakatvād aprāmāṇyam ||*
+> एक एव रुद्रो न द्वितीयाय तस्थे (तैत्तिरीय संहिता १-८-६-१) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (तैत्तिरीय संहिता ४-५-११-१) इत्य् एतयोस् तु मन्त्रयोर् यावच् छिवम् अहं मौनीति वाक्यवद् व्याघात-बोधकत्वाद् अप्रामाण्यम् ॥
+> *eka eva rudro na dvitīyāya tasthe (Taittirīya Saṃhitā 1-8-6-1) sahasrāṇi sahasraśo ye rudrā adhi bhūmyām (Taittirīya Saṃhitā 4-5-11-1) ity etayos tu mantrayor yāvac chivam ahaṃ maunīti vākyavad vyāghāta-bodhakatvād aprāmāṇyam ||*
 >
-> "'Rudra is one alone; he does not stand as a second' (Taittiriya Samhita 1.8.6.1); and 'thousands upon thousands are the Rudras upon the earth' (Taittiriya Samhita 4.5.1.1) — these two mantras convey a plain self-contradiction, like a man declaring aloud, 'I am silent' — and are therefore without authority."
+> "'Rudra is one alone; he does not stand as a second' (Taittiriya Samhita 1-8-6-1); and 'thousands upon thousands are the Rudras upon the earth' (Taittiriya Samhita 4-5-11-1) — these two mantras convey a plain self-contradiction, like a man declaring aloud, 'I am silent' — and are therefore without authority."
 
 One mantra states that Parameshvara, as Rudra, exists alone with no equal second; another states there are thousands upon thousands of Rudras in the world. These two statements plainly contradict each other — like a man declaring, "as long as I live, I remain silent" — the very act of speaking the claim contradicts it. How can the claim of silence hold, once spoken aloud? A mantra conveying mutually contradictory meanings in this way cannot carry authority.
 
-> आप उन्दन्त्विति (Taittiriya Samhita 1.2.1.1) मन्त्रे यजमानस्य क्षौरकाले जलेन शिरसः सेचनं ब्रूते । शुभिके शिर आरोह शोभयन्ती मुखं ममेति मन्त्रे विवाहकाले मंगलाचरणार्थं पुष्पनिर्मितायाः शुभकायाः वरवध्वोः शिरस्यवस्थानं ब्रूते । तयोश्च मन्त्रयोर्लोकप्रसिद्धार्थानुवादित्वादनधिगतार्थगन्तृत्वं नास्ति । तस्मात्स्मृतिभागो न प्रमाणम् ॥
+> आप उन्दन्त्विति (Taittiriya Samhita 1-2-1-1) मन्त्रे यजमानस्य क्षौरकाले जलेन शिरसः सेचनं ब्रूते । शुभिके शिर आरोह शोभयन्ती मुखं ममेति मन्त्रे विवाहकाले मंगलाचरणार्थं पुष्पनिर्मितायाः शुभकायाः वरवध्वोः शिरस्यवस्थानं ब्रूते । तयोश्च मन्त्रयोर्लोकप्रसिद्धार्थानुवादित्वादनधिगतार्थगन्तृत्वं नास्ति । तस्मात्स्मृतिभागो न प्रमाणम् ॥
 >
 > आप उन्दन्त्व् इति मन्त्रे यजमानस्य क्षौर-काले जलेन शिरसः सेचनं ब्रूते । शुभिके शिर आरोह शोभयन्ती मुखं ममेति मन्त्रे विवाह-काले मङ्गलाचरणार्थं पुष्प-निर्मितायाः शुभकायाः वर-वध्वोः शिरश्य् अवस्थानं ब्रूते । तयोश् च मन्त्रयोर् लोक-प्रसिद्धार्थानुवादित्वाद् अनधिगतार्थ-गन्तृत्वं नास्ति । तस्मात् स्मृति-भागो न प्रमाणम् ॥
 > *āpa undantv iti mantre yajamānasya kṣaura-kāle jalena śirasaḥ secanaṃ brūte | śubhike śira āroha śobhayantī mukhaṃ mameti mantre vivāha-kāle maṅgalācaraṇārthaṃ puṣpa-nirmitāyāḥ śubhakāyāḥ vara-vadhvoḥ śiraśy avasthānaṃ brūte | tayoś ca mantrayor loka-prasiddhārthānuvāditvād anadhigatārtha-gantṛtvaṃ nāsti | tasmāt smṛti-bhāgo na pramāṇam ||*
@@ -6468,12 +6469,12 @@ That is: these mantras merely describe customs already familiar from ordinary li
 
 ### Turning to Jaimini's Own Mimamsa-Sutras
 
-> एकदेवाभिप्रेत्य भगवान् जैमिनिर्मन्त्राधिकरणे मन्त्राणां विवक्षितार्थत्वमसूत्रयत् (Purva Mimamsa 1.2.31-41) । तानि च सूत्राणि क्रमशः प्रवर्तयिष्यामः । तत्र पूर्वपक्षं सूत्रयति ॥
+> एकदेवाभिप्रेत्य भगवान् जैमिनिर्मन्त्राधिकरणे मन्त्राणां विवक्षितार्थत्वमसूत्रयत् (Purva Mimamsa 1-2-31 to 53) । तानि च सूत्राणि क्रमशः प्रवर्तयिष्यामः । तत्र पूर्वपक्षं सूत्रयति ॥
 >
-> एक-देवाभिप्रेत्य भगवान् जैमिनिर् मन्त्राधिकरणे मन्त्राणां विवक्षितार्थत्वम् असूत्रयत् (पूर्व मीमांसा १.२.३१–४१) । तानि च सूत्राणि क्रमशः प्रवर्तयिष्यामः । तत्र पूर्वपक्षं सूत्रयति ॥
-> *eka-devābhipretya bhagavān jaiminir mantrādhikaraṇe mantrāṇāṃ vivakṣitārthatvam asūtrayat (Pūrva Mīmāṃsā 1.2.31–41) | tāni ca sūtrāṇi kramaśaḥ pravartayiṣyāmaḥ | tatra pūrvapakṣaṃ sūtrayati ||*
+> एक-देवाभिप्रेत्य भगवान् जैमिनिर् मन्त्राधिकरणे मन्त्राणां विवक्षितार्थत्वम् असूत्रयत् (पूर्व मीमांसा १-२-३१ — ५३) । तानि च सूत्राणि क्रमशः प्रवर्तयिष्यामः । तत्र पूर्वपक्षं सूत्रयति ॥
+> *eka-devābhipretya bhagavān jaiminir mantrādhikaraṇe mantrāṇāṃ vivakṣitārthatvam asūtrayat (Pūrva Mīmāṃsā 1-2-31 to 53) | tāni ca sūtrāṇi kramaśaḥ pravartayiṣyāmaḥ | tatra pūrvapakṣaṃ sūtrayati ||*
 >
-> "With this very idea in mind, the venerable Jaimini, in his section on mantras, formulated in sutra-form the doctrine that mantras carry an intended meaning (Purva-Mimamsa 1.2.31–41). We shall now present these sutras in their proper order — beginning with his own formulation of the objection (purva-paksha)."
+> "With this very idea in mind, the venerable Jaimini, in his section on mantras, formulated in sutra-form the doctrine that mantras carry an intended meaning (Purva-Mimamsa 1-2-31 to 53). We shall now present these sutras in their proper order — beginning with his own formulation of the objection (purva-paksha)."
 
 ---
 
@@ -6488,10 +6489,10 @@ That is: these mantras merely describe customs already familiar from ordinary li
 
 A "sutra" is a sentence composed with the fewest possible words to convey many subjects concisely, without any loss of meaning. In ancient times, many rishis composed their treatises in this style — the Yoga, Vyakarana, and other philosophical schools (darshanas) are similarly composed, and, being terse, require commentary to unpack. We now turn to explaining several sutras from Jaimini's own Purva-Mimamsa-sutras concerning the meaning of mantras, beginning with the objection (purva-paksha) as Jaimini himself states it.
 
-> चेदर्थशास्त्रत (Jaimini Sutra 1.2.31) स विनाभिधेयो यस्य शास्त्रे ब्राह्मणवाक्ये तदर्थशास्त्रम् । तस्माच्चाविशक्तार्थो मन्त्र इत्यर्थः । इत्येवं हि । उक्तं हि (Taittiriya Samhita 1.1.1; Shatapatha Brahmana 1.1.1.4) मन्त्रेण प्रथमप्रभनमुभयीयते । पुरोडाशं प्रथयिष्येति (Taittiriya Samhita 1.1.1; Shatapatha Brahmana 1.2.1.1) ब्राह्मणेऽपि तदेवाभिप्रेत्य प्रस्तुतचोदनाय प्रवृत्तं ब्राह्मणवाक्यम् प्रवृत्तम् । तथा सति मन्त्रेणाप्ययमेवार्थो बोधाय प्रवृत्तः ।
+> चेदर्थशास्त्रत (Jaimini Sutra 1-2-31) स विनाभिधेयो यस्य शास्त्रे ब्राह्मणवाक्ये तदर्थशास्त्रम् । तस्माच्चाविशक्तार्थो मन्त्र इत्यर्थः । इत्येवं हि । उक्तं हि (Taittiriya Samhita 1-1-8; Vajasaneyi Samhita 1-22) मन्त्रेण प्रथमप्रभनमुभयीयते । पुरोडाशं प्रथयिष्येति (Taittiriya Brahmana 3-2-8-4; Shatapatha Brahmana 1-2-2-8) ब्राह्मणेऽपि तदेवाभिप्रेत्य प्रस्तुतचोदनाय प्रवृत्तं ब्राह्मणवाक्यम् प्रवृत्तम् । तथा सति मन्त्रेणाप्ययमेवार्थो बोधाय प्रवृत्तः ।
 >
-> चेद् अर्थ-शास्त्रत (जैमिनि सुत्र १.२.३१) स विनाभिधेयो यस्य शास्त्रे ब्राह्मण-वाक्ये तद्-अर्थ-शास्त्रम् । तस्माच् चाविशक्तार्थो मन्त्र इत्य् अर्थः । ...
-> *ced artha-śāstrata (Jaimini Sutra 1.2.31) sa vinābhidheyo yasya śāstre brāhmaṇa-vākye tad-artha-śāstram | tasmāc cāviśaktārtho mantra ity arthaḥ | ...*
+> चेद् अर्थ-शास्त्रत (जैमिनि सुत्र १-२-३१) स विनाभिधेयो यस्य शास्त्रे ब्राह्मण-वाक्ये तद्-अर्थ-शास्त्रम् । तस्माच् चाविशक्तार्थो मन्त्र इत्य् अर्थः । ...
+> *ced artha-śāstrata (Jaimini Sutra 1-2-31) sa vinābhidheyo yasya śāstre brāhmaṇa-vākye tad-artha-śāstram | tasmāc cāviśaktārtho mantra ity arthaḥ | ...*
 >
 > "The mantras convey no [independent] meaning, since there exists an 'artha-shastra' — a separate text explaining their meaning — namely, the Brahmana [portion]. Thus a mantra's meaning is unfixed/dependent [on the Brahmana]. For instance: it is said that the first application is conveyed through the mantra, and the statement 'I shall set forth the puroḍāśa cake' occurring in a Brahmana passage was made with this same intent, using the Brahmana's own sentence to direct the ongoing rite — showing that the mantra was employed to convey this very same meaning [already given by the Brahmana]."
 
