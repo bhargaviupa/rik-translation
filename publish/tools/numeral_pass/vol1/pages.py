@@ -15,6 +15,14 @@ def printed(g):
     if g in (384,385): return str(g-26)          # duplicate scan of printed pp. 358-359 (= PDF 382-383)
     if 386<=g<=397: return str(g-26)
     if 398<=g<=400: return str(g-24)             # printed pp. 372-373 are not in the scan
+    if 401<=g<=409: return str(g-24)
+    if g in (410,411): return str(g-26)          # duplicate scan of printed pp. 384-385 (= PDF 408-409)
+    if 412<=g<=472: return str(g-26)
+    if g in (473,474): return str(g-25)          # printed p. 447 is not in the scan
+    if g==475: return '449'                      # duplicate scan of printed p. 449 (= PDF 474)
+    if 476<=g<=507: return str(g-26)
+    if g in (508,509): return str(g-28)          # duplicate scan of printed pp. 480-481 (= PDF 506-507)
+    if 510<=g<=600: return str(g-28)
     return None
 def label(g):
     p=printed(g)
