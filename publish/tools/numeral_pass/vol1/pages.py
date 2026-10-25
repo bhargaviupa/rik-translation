@@ -11,7 +11,10 @@ DUP={g:g+8 for g in range(41,49)}   # PDF 41-48 repeat printed pp. 25-32 (= PDF 
 def printed(g):
     if g in FRONT: return FRONT[g]
     if g in DUP: return str(DUP[g]-24)
-    if 25<=g<=200: return str(g-24)
+    if 25<=g<=383: return str(g-24)
+    if g in (384,385): return str(g-26)          # duplicate scan of printed pp. 358-359 (= PDF 382-383)
+    if 386<=g<=397: return str(g-26)
+    if 398<=g<=400: return str(g-24)             # printed pp. 372-373 are not in the scan
     return None
 def label(g):
     p=printed(g)
