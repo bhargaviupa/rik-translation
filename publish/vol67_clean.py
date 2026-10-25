@@ -3,7 +3,7 @@
 import re, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = pathlib.Path(__file__).resolve().parent / "work"; OUT.mkdir(exist_ok=True)
-ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka', 9: 'The Eighth Adhyāya of the First Aṣṭaka', 10: 'The First Adhyāya of the Second Aṣṭaka'}
+ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka', 9: 'The Eighth Adhyāya of the First Aṣṭaka', 10: 'The First Adhyāya of the Second Aṣṭaka', 11: 'The Second Adhyāya of the Second Aṣṭaka'}
 SAM = re.compile(r'^\*\*(?:॥ संहिता(?:पाठः|खण्डः) ॥ — )?Saṃhitā')
 
 
@@ -12,9 +12,20 @@ def clean9(vol=9, first=113):
     i = text.rfind('**Progress note'); text = text[:i] if i > 0 else text
     k = text.find('## Sūkta %d' % first); front = text[:k]; body = text[k:]
     out = ['# ' + ADH[vol]]
-    for ln in body.split('\n'):
-        m = re.match(r'^## Sūkta (\d+) — \*?([^*(]+?)\*? ?(?:\(printed.*)?$', ln)
+    lines = body.split('\n')
+    def incipit(i):
+        # sūkta heading without a name (Vol 11 from Sūkta 139): first two words of its first IAST Saṃhitā line
+        seen_rk1 = False
+        for ln in lines[i+1:i+1500]:
+            if re.match(r'^#{3,4} Ṛk 1\b', ln): seen_rk1 = True; continue
+            mm = re.match(r'^> \*([^*|]+)', ln) if seen_rk1 else None
+            if mm: return ' '.join(re.sub(r'[\u0300-\u036f]', '', mm.group(1)).split()[:2])
+        return ''
+    for i, ln in enumerate(lines):
+        m = re.match(r'^## Sūkta (\d+) — \*?([^*(]+?)\*? ?(?:\(.*)?$', ln)
         if m: out.append('## Sūkta %s — "%s"' % (m.group(1), m.group(2).strip())); continue
+        m = re.match(r'^## Sūkta (\d+)\s*$', ln)
+        if m: out.append('## Sūkta %s — "%s"' % (m.group(1), incipit(i))); continue
         m = re.match(r'^### Printed p\. (\S+)', ln)
         if m: out.append('<div class="pgmark">original p. %s</div>' % m.group(1)); continue
         m = re.match(r'^#{3,4} Ṛk (\d+)(?: — .*)?\s*$', ln)
@@ -28,6 +39,7 @@ def clean9(vol=9, first=113):
 def clean(vol):
     if vol == 9: return clean9()
     if vol == 10: return clean9(10, 122)
+    if vol == 11: return clean9(11, 137)
     audit = []
     def log(kind, ln, text): audit.append(f"- **{kind}** (draft line {ln}): {text[:240].replace(chr(10), ' ')}{'…' if len(text) > 240 else ''}")
     text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
