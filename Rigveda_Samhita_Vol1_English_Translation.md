@@ -3399,14 +3399,14 @@ Further mnemonic verse:
 
 Further mnemonic verse:
 
-> दानासो, वि विप्रो, रायं नरो, य ऋष्वस्, तस्याः समुद्रा, अग्निं न, षष्टिं सहस्रा, ऽतीयाम निदोऽष्टौ ॥ ८ ॥ (५)
+> दानासो, वि पिप्रो, रायं नरो, य ऋष्वस्, तस्याः समुद्रा, अग्निं न, षष्टिं सहस्रा, ऽतीयाम निदोऽष्टौ ॥ ८ ॥ (५)
 
 ### 5 (8). Pankti —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
 | पङ्क्तिः *(Paṅktiḥ)* | 40 | 8-8-8-8-8 | (पञ्चमं) पङ्क्तिः पञ्चपदा *((pañcamaṃ) paṅktiḥ pañcapadā)* | दानासः पृथु *(dānāsaḥ pṛthu)* | 8-46-24 |
-| विराट् *(Virāṭ)* | 40 | 10-10-10-10 | अथ चतुष्पदा विराट् दशकैः *(atha catuṣpadā virāṭ daśakaiḥ)* | वि विप्रो रहिमा *(vi vipro rahimā)* | 6-20-7 [?] |
+| विराट् *(Virāṭ)* | 40 | 10-10-10-10 | अथ चतुष्पदा विराट् दशकैः *(atha catuṣpadā virāṭ daśakaiḥ)* | वि विप्रो रहिमा *(vi vipro rahimā)* | 6-20-7 |
 | सतोबृहती *(Satobṛhatī)* | 40 | 12-8-12-8 | अयुजौ जागतौ सतोबृहती *(ayujau jāgatau satobṛhatī)* | आ यं नरः सुदा *(ā yaṃ naraḥ sudā)* | 5-53-6 |
 | विपरीता *(Viparītā)* | 40 | 8-12-8-12 | युजौ चेत् विपरीता *(yujau cet viparītā)* | य ऋष्वः श्राव *(ya ṛṣvaḥ śrāva)* | 8-46-12 |
 | प्रस्तारपङ्क्तिः *(Prastārapaṅktiḥ)* | 40 | 12-12-8-8 | आद्यौ चेत् प्रस्तारपङ्क्तिः *(ādyau cet prastārapaṅktiḥ)* | तस्याः समुद्रा *(tasyāḥ samudrā)* | 1-164-42 |
@@ -3414,127 +3414,127 @@ Further mnemonic verse:
 | संस्तारपङ्क्तिः *(Saṃstārapaṅktiḥ)* | 40 | 12-8-8-12 | आद्यन्तौ चेत् संस्तारपङ्क्तिः *(ādyantau cet saṃstārapaṅktiḥ)* | षष्टिं सहस्रा *(ṣaṣṭiṃ sahasrā)* | 8-46-22 |
 | विष्टारपङ्क्तिः *(Viṣṭārapaṅktiḥ)* | 40 | 8-12-12-8 | मध्यमौ चेद् विष्टारपङ्क्तिः *(madhyamau ced viṣṭārapaṅktiḥ)* | अतीयाम निद *(atīyāma nida)* | 5-53-14 |
 
-*(Figures as printed, re-read on the 600 dpi scan; the last digits of 6-20-7 [?] and 5-53-6 read by me; the user's reading of the Viparītā pattern was taken as 8-12-8-12.)*
+*(Figures as printed, re-read on the 600 dpi scan; the last digits of 6-20-7 and 5-53-6 read by me; the user's reading of the Viparītā pattern was taken as 8-12-8-12.)*
 
 
 ### Page 226
 
 Mnemonic verse:
 
-> कस्य नूनं, युनपव्रस्या, ये वाजिनं, यो वाजा, स्रुष्टि न इंद्रः, श्रुधी हवं, श्रुतं मे, ऽग्नेंद्रेण, ताभिरा यातं, नवानां, सं मा तपंत्ये, वेंद्राग्निभ्यां द्वादश ॥ ७ ॥ (५)
+> कस्य नूनं, यूपव्रस्का, यो वाजिनं, यो वाचा, स्वस्ति न इन्द्रः, श्रुधी हवं, श्रुतं मे, ऽग्नेन्द्रेण, ताभिरा यातं, नवानां, सं मा तपन्त्ये, नेन्द्राग्निभ्यां द्वादश ॥ ९ ॥ (६)
 
-### 7 (9). Trishtubh — *(standard forms confirmed: Trishtubh 11-11-11-11 = 44; Jagati 12-12-12-12 = 48)*
+### 6 (9). Trishtubh —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| त्रिष्टुभ् *(Triṣṭubh)* | 44 | 11-11-11-11 | (षष्ठं) त्रिष्टुभ् त्रैष्टुभपदा | कस्य नूनं कत | 1.34.1 |
-| जगती *(Jagatī)* | 48 | 12-12-12-12 | द्व्या तु जागतो यस्यास्सा जागती जगती | युनपव्रस्या उत | 1.134.5 |
-| त्रिष्टुभ् *(Triṣṭubh, variant)* | 46 | 13-11-11-11 | त्रैष्टुभे त्रिष्टुभ् | (संनेमि चक्रम) 1.164.45 |
-| त्रिष्टुभ् (वा) *(Triṣṭubh, alt.)* | 47 | 11-11-11-13(?) | वा " | ये वाजिनं | 1.124.13 |
-| अभिसारिणी *(Abhisāriṇī)* | 45 | 10-10-13-13(?) | वैराजो जागतौ च अभिसारिणी | यो वाजा | 10.36.5 |
-| *(untitled variant)* | 43 | 9-9-10-10(?) | विराट्स्थाना | स्रुष्टि न इंद्रः | 1.46.5 |
-| वैराजत्रिष्टुभ् *(Vairāja-triṣṭubh)* | 43 | 10-9-11-10(?) | नवको वैराजत्रैष्टुभभूर्क | शक्रं नु ते | 3.11.6 |
-| विराट्स्थाना *(Virāṭ-sthānā)* | 40 | 10-9-10-...(?) | द्व्या वा वैराजो नवकः त्रैष्टुभभूर्क विराट्स्थाना | श्रुधी हवमिंद्र | 3.11.1 |
-| विपरीता विराड्रूपा *(Viparītā Virāḍrūpā)* | 40 | 8-10-10-10(?) | *(sutra continues, partly illegible)* | क्रीळस्यो रश्मि | — |
-| विराड्रूपा *(Virāḍrūpā)* | 40 | 10-10-10-9(?) | एकादशिनप्रयोऽष्टकश्च विराड्रूपा | श्रुतं मे मित्रा | 1.105.6 |
-| ज्योतिष्मती *(Jyotiṣmatī)* | 44 | 13-11-11-9(?) | द्वादशिनप्रयोऽष्टकश्च ज्योतिष्मती | अग्निंद्रेण | 6.59.1 |
+| त्रिष्टुप् *(Triṣṭup)* | 44 | 11-11-11-11 | (षष्ठं) त्रिष्टुप् त्रैष्टुभपदा *((ṣaṣṭhaṃ) triṣṭup traiṣṭubhapadā)* | कस्य नूनं कत *(kasya nūnaṃ kata)* | 1-24-1 |
+| जगती *(Jagatī)* | 46 | 11-12-11-12 | द्वौ तु जागतौ यस्याः सा जागती जगती *(dvau tu jāgatau yasyāḥ sā jāgatī jagatī)* | यूपव्रस्का उत *(yūpavraskā uta)* | 1-162-6 |
+| त्रिष्टुप् *(Triṣṭup)* | 46 | 12-11-12-11 | त्रैष्टुभे त्रिष्टुप् *(traiṣṭubhe triṣṭup)* | (सनेमि चक्रम *(sanemi cakram)* | 1-164-14) |
+| — | — | 11-11-12-12 | वा ,, ,, *(vā ,, ,,)* | यो वाजिनं *(yo vājinaṃ)* | 1-162-12 |
+| अभिसारिणी *(Abhisāriṇī)* | 44 | 10-10-12-12 | वैराजौ जागतौ च अभिसारिणी *(vairājau jāgatau ca abhisāriṇī)* | यो वाचा *(yo vācā)* | 10-23-5 |
+| — | 39 | 9-9-10-11 | विराट्स्थाना *(virāṭsthānā)* | स्वस्ति न इन्द्रः *(svasti na indraḥ)* | 1-89-6 |
+| वैराजत्रिष्टुप् *(Vairājatriṣṭup)* | 39 | 10-9-11-9 | नवकौ वैराजत्रैष्टुभश्च *(navakau vairājatraiṣṭubhaś ca)* | शभ्रं [?] नु ते *(śabhraṃ [?] nu te)* | 2-11-4] |
+| विराट्स्थाना *(Virāṭsthānā)* | 40 | 10-9-10-11 | द्वौ वा वैराजौ नवकः त्रैष्टुभश्च विराट्स्थाना *(dvau vā vairājau navakaḥ traiṣṭubhaś ca virāṭsthānā)* | श्रुधी हवमिन्द्र *(śrudhī havam indra)* | 2-11-1 |
+| विपरीता विराड्रूपा *(Viparītā Virāḍrūpā)* | 41 | 8-11-11-11 | — | क्रीळन्नो रश्म *(krīḷanno raśma)* | 5-19-5] |
+| विराड्रूपा *(Virāḍrūpā)* | 41 | 11-11-11-8 | एकादशिनस्त्रयोऽष्टकश्च विराड्रूपा *(ekādaśinas trayo 'ṣṭakaś ca virāḍrūpā)* | श्रुतं मे मित्रा *(śrutaṃ me mitrā)* | 1-122-6 |
+| ज्योतिष्मती *(Jyotiṣmatī)* | 44 | 12-12-12-8 | द्वादशिनस्त्रयोऽष्टकश्च ज्योतिष्मती *(dvādaśinas trayo 'ṣṭakaś ca jyotiṣmatī)* | अग्नेन्द्रेण *(agnendreṇa)* | 8-35-1 |
 
-*(Meter names, sutra-definitions, and example-mantra openings are given with confidence; some per-foot digit patterns, marked "(?)", could not be read with full certainty even at this resolution — these are given as best legible, cross-checked against the confirmed Trishtubh/Jagati base totals of 44/48 where possible.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the stray "]" after 2-11-4 and 5-19-5 is printed. The fourth row prints no name or syllable count; the Viparītā Virāḍrūpā row prints no sūtra. The opening शभ्रं is read letter by letter and left doubtful.)*
 
 
 ### Page 227 — Trishtubh Variants (continued)
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| ज्योतिष्मती *(Jyotiṣmatī, cont.)* | 44 | 11-9-11-13(?) | यतोऽष्टकश्च ज्योतिष्मतिः | ताभिरा यातं | 6.49.13 |
-| महाबृहती *(Mahā-bṛhatī)* | 44 | 11-11-11-11(?) | चत्वारोऽष्टकाः जागतश्च महाबृहती | नवानां नव | 9.71.13 |
-| यवमध्या *(Yavamadhyā, Triṣṭubh form)* | 44 | 11-11-13-9(?) | मध्ये चेत् यवमध्या | सं मा तपंत्य | 1.105.8 |
-| संकृत्तरा विराड्गर्भा (वा) *(Saṃkṛttarā Virāḍgarbhā, alt.)* | 44 | 10-10-10-14(?) | अद्यो दशकावष्टकास्त्रयः संकृत्तरा विराड्गर्भा वा | एवेंद्राग्निभ्यां | 4.15.1 |
+| ज्योतिः *(Jyotiḥ)* | 44 | 12-8-12-12 | यतोऽष्टकस्ततो ज्योतिः *(yato 'ṣṭakas tato jyotiḥ)* | ताभिरा यातं *(tābhir ā yātaṃ)* | 8-22-12 |
+| महाबृहती *(Mahābṛhatī)* | ,, | 8-8-8-8-12 | चत्वारोऽष्टका जागतश्च महाबृहती *(catvāro 'ṣṭakā jāgataś ca mahābṛhatī)* | नवानां नव *(navānāṃ nava)* | 1-191-13 |
+| यवमध्या *(Yavamadhyā)* | ,, | 8-8-12-8-8 | मध्ये चेत् यवमध्या *(madhye cet yavamadhyā)* | सं मा तपन्त्य *(saṃ mā tapantya)* | 1-105-8 |
+| पङ्क्त्युत्तरा विराट्पूर्वा *(Paṅktyuttarā Virāṭpūrvā)* | ,, | 10-10-8-8-8 | आद्यौ दशकावष्टकास्त्रयः पङ्क्त्युत्तरा विराट्पूर्वा वा *(ādyau daśakāv aṣṭakās trayaḥ paṅktyuttarā virāṭpūrvā vā)* | एवेन्द्राग्निभ्या *(evendrāgnibhyā)* | 5-86-… |
 
 Mnemonic verse:
 
-> प्र देवमच्छा, ऽऽयः सस्रा, वियत्रिका, तदन्नाय चत्वारि ॥ १० ॥
+> प्र देवमच्छा, ऽऽयः पस्रा [?], वियत्त्रिका, तदन्नाय चत्वारि ॥ १० ॥
 
-### 10. Jagati — *(standard form confirmed: 12-12-12-12 = 48)*
+### 10. Jagati —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| जगती *(Jagatī)* | 48 | 12-12-12-12 | (सप्तमं) जगती जागतपदा | प्र देवमच्छा | 9.70.1 |
-| महासतोबृहती *(Mahā-sato-bṛhatī)* | 48 | 12-8-12-8-8(?) | अस्मिन्नत्रयः स्वा च द्व्या महासतोबृहती | आ यः सषा | 8.75.5 |
-| महापंक्तिः *(Mahā-paṅktiḥ)* | 48 | 8-8-12-10-9(?) | अष्टका सप्तकः षट्कोदशकोनवकश्च | इयत्किा | — |
-| महापंक्तिः (वा) *(Mahā-paṅktiḥ, alt.)* | 48 | 8-8-8-8-8-8 | षळष्टका वा महासंक्रीः | तदन्नाय तद | 5.75.15 |
+| जगती *(Jagatī)* | 48 | 12-12-12-12 | (सप्तमं) जगती जागतपदा *((saptamaṃ) jagatī jāgatapadā)* | प्र देवमच्छा *(pra devam acchā)* | 9-68-… |
+| महासतोबृहती *(Mahāsatobṛhatī)* | ,, | 12-8-12-8-8 | अष्टिनस्त्रयः स्वौ [?] च द्वौ महासतोबृहती *(aṣṭinas trayaḥ svau [?] ca dvau mahāsatobṛhatī)* | आ यः पप्रौ [?] *(ā yaḥ paprau [?])* | 6-48-… |
+| महापङ्क्तिः *(Mahāpaṅktiḥ)* | ,, | 8-8-7-6-10-9 | अष्टकौ सप्तकः षट्को दशको नवकश्च *(aṣṭakau saptakaḥ ṣaṭko daśako navakaś ca)* | इयत्त्रिका *(iyattrikā)* | 1-191-11 |
+| ,, | ,, | 8-8-8-8-8-8 | षळष्टका वा महापङ्क्तिः *(ṣaḷaṣṭakā vā mahāpaṅktiḥ)* | तदन्नाय तद *(tad annāya tada)* | 8-47-16 |
 
 Mnemonic verse:
 
-> अयं वा, मा सषायो, बृहद्दिरग्ने, न हि ते कूरा, ऽऽत्का रथं संच ॥ ११ ॥
+> अयं वां, मा सखायो, बृहद्भिरग्ने, न हि ते शूरा, ऽऽत्वा रथं पञ्च ॥ ११ ॥
 
 ### (11). Pragathas —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| बार्हतः प्रागाथः *(Bārhataḥ Prāgāthaḥ)* | 36+40(?) | 8-8-12-8 = 36; 12-8-12-8 = 40(?) | अथ प्रगाथा बृहतीसतोबृहत्या बार्हतः | अयं वां | 1.85.1 |
-| *(cont.)* | (36+40) | (as above) | त्रिणंधुरेण | 1.85.3 |
+| बार्हतः प्रगाथः *(Bārhataḥ Pragāthaḥ)* | 76 | 8-8-12-8=36 | अथ प्रगाथा बृहतीसतोबृहत्या बार्हतः *(atha pragāthā bṛhatīsatobṛhatyā bārhataḥ)* | अयं वां *(ayaṃ vāṃ)* | 1-47-… |
+| | | (36+40) 12-8-12-8=40 | | त्रिवन्धुरेण *(trivandhureṇa)* | 1-47-… |
 
-*(Given this page's shift to compound Pragatha meters — pairs of verses combining two base meters — the total syllable-counts and internal patterns carry more uncertainty than the earlier single-meter tables; names and example citations remain given with confidence.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings. The scan cuts off the right edge of this page: where the last figure of a reference is lost, "…" stands for it. Readings marked [?] are letter-by-letter and doubtful.)*
 
 
 ### Page 228 — Pragatha Variants (continued)
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| काकुभः प्रगाथः *(Kākubhaḥ Prāgāthaḥ)* | (28+40?) | 8-12-8=28; then pankti-form=40 | काकुप् चेत्त्वर्वा काकुभः | अ सषायः | 8.75.11 |
-| *(cont.)* | | 12-8-12-8=40 | | या शर्धाय | 8.75.13 |
-| महाबार्हतः प्रगाथः *(Mahā-bārhataḥ Prāgāthaḥ)* | (44+48?) | महाबृहतीमहासतोबृहत्या महाबार्हतः | बृहद्धिरग्ने | 8.75.2 |
-| *(cont.)* | | 12-8-12-...-45(?) | | विश्वासां गृह | 8.75.3 |
-| विपरीतोत्तरः प्रगाथः *(Viparītottaraḥ Prāgāthaḥ)* | (36+40?) | बृहतीविपरीते विपरीतोत्तरः | नहि ते शूर | 8.65.11 |
-| *(cont.)* | | (as above) | | य ऋष्णः | 8.65.12 |
-| अनुष्टुभ् (गायत्र्याः) *(Anuṣṭubh, of Gāyatrī-form)* | (24+32?) | अनुष्टुब्गायत्र्याश्चानुष्टुभः | आ त्वा रथं | 8.55.1 |
-| प्रगाथः *(Prāgāthaḥ, cont.)* | | | | तुविपुष्य तुवि | 8.55.3 |
-| *(cont.)* | | | | यस्य ते महि | 8.55.2 |
+| काकुभः प्रगाथः *(Kākubhaḥ Pragāthaḥ)* | 68 | 8-12-8=28 | ककुप् चेत्पूर्वा काकुभः *(kakup cet pūrvā kākubhaḥ)* | आ सखायः *(ā sakhāyaḥ)* | 6-48-11 |
+| | | (28+40) 12-8-12-8=40 | | या शर्धाय *(yā śardhāya)* | 6-48-12 |
+| महाबार्हतः प्रगाथः *(Mahābārhataḥ Pragāthaḥ)* | 92 | 8-8-12-8-8=44 | महाबृहतीमहासतोबृहत्या महाबार्हतः *(mahābṛhatīmahāsatobṛhatyā mahābārhataḥ)* | बृहद्भिरग्ने *(bṛhadbhir agne)* | 6-48-7 |
+| | | ((44+48) 12-8-12-8-8=48 | | विश्वासां गृह *(viśvāsāṃ gṛha)* | 6-48-8 |
+| विपरीतोत्तरः प्रगाथः *(Viparītottaraḥ Pragāthaḥ)* | 76 | 8-8-12-8=36 | बृहतीविपरीते विपरीतोत्तरः *(bṛhatīviparīte viparītottaraḥ)* | नहि ते शूर *(nahi te śūra)* | 8-46-11 |
+| | | (36+40) 8-12-8-12=40 | | य ऋष्वः *(ya ṛṣvaḥ)* | 8-46-12 |
+| आनुष्टुभः (गायत्र्या) प्रगाथः *(Ānuṣṭubhaḥ (gāyatryā) Pragāthaḥ)* | 80 | 8-8-8-8=32 | अनुष्टुब्गायत्र्यौ चानुष्टुभः *(anuṣṭubgāyatryau cānuṣṭubhaḥ)* | आ त्वा रथं *(ā tvā rathaṃ)* | 8-68-1 |
+| | | (32+24 8-8-8=24 +24) | | तुविशुष्म तुवि *(tuviśuṣma tuvi)* | 8-68-2 |
+| | | | | यस्य ते महि *(yasya te mahi)* | 8-68-3 |
 
 Mnemonic verse:
 
-> प्र वो महे, प्रोष्ठस्त्यै, साकं जात, स्रिकद्रुके, स्वग्निं होतार, मुवर्मह इंद्र, स हि शिर्धो न सप्त ॥ १२ ॥
+> प्र वो महे, प्रोष्वस्मै, साकं जात, स्त्रिकद्रुके, ष्वग्निं होतार, मवर्मह इन्द्र, स हि शर्धो न सप्त ॥ १२ ॥
 
 ### (12). Sankirna (Mixed/Extended Meters) —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| अतिजगती *(Atijagatī)* | 53 | 12-12-12-8-8(?) | पादा अतिजगत्यां तु त्रयोद्वादशकाः परो अष्टकौ | प्र वो महे | 4.58.1 |
-| शक्वरी *(Śakvarī)* | 56 | 8×7 (seven 8-syllable feet) | शक्वरीषादाः सप्तैष अष्टाक्षराश्ते | प्रोष्ठष्ट्यैः | 10.113.1 |
-| अतिशक्वरी *(Atiśakvarī)* | 60 | 12-12-12-8-...(?) | अतिशाक्वरपादा द्व्या आदितः कर्तव्याः षोडशाक्षरो जागतश्चाष्टकौ | साकं जातः | 3.31.15 |
-| अष्टिः *(Aṣṭiḥ)* | 56 | 12-12-12-...(?) | अष्टिपादाः षोडशाक्षास्त्रयः अष्टकौ च | त्रिकद्रुकेषु | 3.32.1 |
+| 1 अतिजगती *(Atijagatī)* | 52 | 12-12-12-8-8 | पादा अतिजगत्यां तु त्रयो द्वादशकाः परावष्टकौ *(pādā atijagatyāṃ tu trayo dvādaśakāḥ parāv aṣṭakau)* | प्र वो महे *(pra vo mahe)* | 5-87-1 |
+| 2 शक्वरी *(Śakvarī)* | 56 | 8-8-8-8-8-8-8 | शक्वरीपादाः सप्तैवाष्टाक्षराश्च ते *(śakvarīpādāḥ saptaivāṣṭākṣarāś ca te)* | प्रो ष्वस्मै *(pro ṣv asmai)* | 10-113-1 [?] |
+| 3 अतिशक्वरी *(Atiśakvarī)* | 60 | 16-16-12-8-8 | अतिशाक्वरपादौ द्वौ आदितः कर्तव्यौ षोळशाक्षरौ जागतश्चाष्टकौ *(atiśākvarapādau dvau āditaḥ kartavyau ṣoḷaśākṣarau jāgataś cāṣṭakau)* | साकं जातः *(sākaṃ jātaḥ)* | 2-22-3 |
+| 4 अष्टिः *(Aṣṭiḥ)* | 64 | 16-16-16-8-8 | अष्टिपादाः षोळशास्त्रयः अष्टकौ च *(aṣṭipādāḥ ṣoḷaśās trayaḥ aṣṭakau ca)* | त्रिकद्रुकेषु *(trikadrukeṣu)* | 2-22-1 |
 
-*(As with the Pragatha entries above, these compound/extended meters' precise internal syllable-breakdowns carry substantial uncertainty at this resolution; meter names, sutra wording, and example openings are given with confidence.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the last digits of 6-48-7, 8-68-1/2/3 and 2-22-3/1 read by me. Śakvarī reference: entered as the user read it (10-113-1); I read the print as 10-133-1, so it is marked [?] until settled. The user typed "+" between the feet of the Ānuṣṭubha pattern; I see dashes on the print and kept them.)*
 
 
 ### Page 229 — Sankirna (continued), and the Kriti Family
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| अत्यष्टिः *(Atyaṣṭiḥ)* | 64(?) | 12-12-12-8-12-8(?) | अत्यष्टिपादा जागतौ चाष्टकौ त्रयो जागतश्चाष्टकः | अग्निं होतारं | 8.103.1 |
-| धृतिः *(Dhṛtiḥ)* | 68(?) | 12-12-12-12-16-12(?) | धृतिपादास्तु जागताः पादास्त्रयोऽष्टकौ अथ षोडशाक्षर एव च अष्टकः | अनर्मह इंद्र | 8.103.5 |
-| अतिधृतिः *(Atidhṛtiḥ)* | 76(?) | 12-12-12-12-12-16(?) | अथातिधृतौ जागतास्त्रयोऽक्षराः जागतश्च तथैवाष्टकौ इत्यपि | स हि शर्धो न | 8.103.8 |
+| 5 अत्यष्टिः *(Atyaṣṭiḥ)* | 68 | 12-12-8-8-8-12-8 | अत्यष्टिपादौ जागतौ चाष्टकास्त्रयः जागतश्चाष्टकश्च *(atyaṣṭipādau jāgatau cāṣṭakās trayaḥ jāgataś cāṣṭakaś ca)* | अग्निं होतारं *(agniṃ hotāraṃ)* | 1-127-1 |
+| 6 धृतिः *(Dhṛtiḥ)* | 72 | 12-12-8-8-8-16-8 | धृतिपादौ तु जागतौ पादास्त्रयोऽष्टकाश्चाथ षोळशाक्षर एव च अष्टकश्च *(dhṛtipādau tu jāgatau pādās trayo 'ṣṭakāś cātha ṣoḷaśākṣara eva ca aṣṭakaś ca)* | अवर्मह इन्द्र *(avarmaha indra)* | 1-133-6 |
+| 7 अतिधृतिः *(Atidhṛtiḥ)* | 76 | 12-12-8-8-8-12-8-8 | अथातिधृतौ जागतौ त्रयोऽष्टका जागतश्च तथैवाष्टकौ इत्यपि *(athātidhṛtau jāgatau trayo 'ṣṭakā jāgataś ca tathaivāṣṭakau ity api)* | स हि शर्धो न *(sa hi śardho na)* | 1-127-6 |
 
-A further set of six named "Kriti-family" meters is then listed, each with its example-mantra opening and total syllable-count given in brackets:
+A further set of seven meters is then listed, each with its example-mantra opening and total syllable-count given in brackets:
 
-1. **कृतिः** *(Kṛtiḥ)* — त्रिशग्वो विभातु मे... (Shaunaka Aranyaka 5.30.1) — **[40 syllables]**
-2. **प्रकृतिः** *(Prakṛtiḥ)* — भगो अनुप्रयुक्तां... — **[45 syllables]**
-3. **आकृतिः** *(Ākṛtiḥ)* — तच्छक्ष्वर्देवहितं... (Shaunaka Aranyaka 5.31.13; Vajasaneyi Samhita 35.35) — **[55 syllables]**
-4. **विकृतिः** *(Vikṛtiḥ)* — इमे सोमाः सुरामाणः... (Vajasaneyi Samhita 34.43) — **[62 syllables]**
-5. **संकृतिः** *(Saṃkṛtiḥ)* — देवो अग्निः स्वप्नकृत्... (Shaunaka Brahmana 3.34.1) — **[65 syllables]**
-6. **अभिकृतिः** *(Abhikṛtiḥ)* — देवो अग्निः स्वप्नकृद्देवान्यक्षत्... (Vajasaneyi Samhita 34.47) — **[100 syllables]**
-7. **उत्कृतिः** *(Utkṛtiḥ)* — भागस्य हविष अष्टमध्य (Vajasaneyi Samhita 34.53) — **[106 syllables]**
+1. **कृतिः** *(Kṛtiḥ)* — (त्रिशुग्धर्मो विभातु मे……| तै. आ. 4-21-1) *(triśugdharmo vibhātu me……| Tai. Ā. 4-21-1)* — **[80 akṣarāṇi]**
+2. **प्रकृतिः** *(Prakṛtiḥ)* — (भगो अनुप्रयुक्तां……|) *(bhago anuprayuktāṃ……|)* — **[84 ,,]**
+3. **आकृतिः** *(Ākṛtiḥ)* — (तच्चक्षुर्देवहितं….| तै. आ. 4-35-32, वा. सं. 34-24) *(taccakṣur devahitaṃ….| Tai. Ā. 4-35-32, Vā. Saṃ. 34-24)* — **[88 ,,]**
+4. **विकृतिः** *(Vikṛtiḥ)* — (इमे सोमाः सुरामाणः….| वा. सं. 21-42) *(ime somāḥ surāmāṇaḥ….| Vā. Saṃ. 21-42)* — **[92 ,,]**
+5. **संकृतिः** *(Saṃkṛtiḥ)* — (देवो अग्निः स्विष्टकृत्……| तै. ब्रा. 3-5-9-1) *(devo agniḥ sviṣṭakṛt……| Tai. Brā. 3-5-9-1)* — **[96 ,,]**
+6. **अभिकृतिः** *(Abhikṛtiḥ)* — (देवो अग्निः स्विष्टकृद्देवान्यक्षत्….| वा. सं. 21-58) *(devo agniḥ sviṣṭakṛd devān yakṣat….| Vā. Saṃ. 21-58)* — **[100 ,,]**
+7. **उत्कृतिः** *(Utkṛtiḥ)* — (भागस्य हविष आत्तामद्य | वा. सं. 21-43) *(bhāgasya haviṣa āttām adya | Vā. Saṃ. 21-43)* — **[104 ,,]**
 
-*(As with the preceding compound-meter tables, the larger Sankirna meters' internal foot-patterns carry substantial uncertainty at this resolution; the Kriti-family names, example openings, and bracketed total syllable-counts are given with confidence.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the Saṃkṛti count 96 read by me.)*
 
 ---
 
-As already noted, apart from total syllable-count, no other rule governs these meters — but even this rule doesn't hold perfectly everywhere. Where a pada should carry a certain syllable-count, occasional variance appears — 11 where 10 is expected, or vice versa. In the verse given earlier as an example of the Pankti meter, the fourth pada in fact has only seven syllables rather than the expected eight:
+As already noted, apart from total syllable-count, no other rule governs these meters — but even this rule doesn't hold perfectly everywhere. Where a pada should carry a certain syllable-count, occasional variance appears — 11 syllables in a pada that should have 12, and 10 where there should be 11. In the verse given earlier as an example of the Pankti meter, the fourth pada in fact has only seven syllables rather than the expected eight:
 
-> रथं हिरण्ययं दर्भ *(this pada)*
-> मंहिष्ठः सूरिरभूत् *(this pada)*
-> वर्षिष्ठ मुक्रथश्रवः *(this pada)*
+> रथं हिरण्ययं दर्भ *(3rd [?] pada)*
+> मंहिष्ठः सूरिरभूत् *(4th [?] pada)*
+> वर्षिष्ठ मुक्रथश्रवः *(5th [?] pada)*
 
 Whether this variance arose from carelessness on the part of the Vedic poets themselves, or from some discrepancy that crept into the text as it has come down to us, cannot be said with certainty.
 
