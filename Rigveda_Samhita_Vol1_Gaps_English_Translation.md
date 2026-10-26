@@ -1438,7 +1438,7 @@ That is: just as the grammar of Pāṇini is very large and is composed with ski
 
 ### Kaṭha country and Kaṭha caste
 
-The tradition of the Kaṭha branch is extremely widespread. According to the Purāṇas written earlier, the Kaṭha was current in the northern country; that is, in northern regions such as Ālmoḍā, Garhwal, Kumaon, Kashmir and the Punjab it was in currency. The word Kaṭha may be the name of some specific region in the provinces of the northern country; people of the Kaṭha caste lived in that country. The explanation of the Mahābhāṣya on the sūtra "puṃvat karmadhāraya-jātīya-deśīyeṣu" (6-3-42 [?]) is thus:
+The tradition of the Kaṭha branch is extremely widespread. According to the Purāṇas written earlier, the Kaṭha was current in the northern country; that is, in northern regions such as Ālmoḍā, Garhwal, Kumaon, Kashmir and the Punjab it was in currency. The word Kaṭha may be the name of some specific region in the provinces of the northern country; people of the Kaṭha caste lived in that country. The explanation of the Mahābhāṣya on the sūtra "puṃvat karmadhāraya-jātīya-deśīyeṣu" (6-3-42) is thus:
 
 > जातेश्च [४१] इत्युक्तं तत्रापि पुंवद्भवति । कठी वृन्दारिका कठवृन्दारिका । कठजातीया कठदेशीया ।
 >
@@ -1580,7 +1580,7 @@ The verses describing the Hāridravīya branch are missing in both these Purā�
 
 The pupils of the sage Bhagali are called Bhāgaleyas. According to the Aṣṭādhyāyī (4-3-109) they are called Bhāgaleyas.
 
-In the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra (6-1-7) one sūtra of the Bhāgaleya Śrauta-sūtra is quoted. Adhyāpaka Śrīpāda Kṛṣṇa Belvalkar printed the Bhāgaleya Upaniṣad in 19?? [?]. Some verses of the Bhāgaleya-smṛti are quoted here and there in the digest-works (*nibandhas*).
+In the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra (6-1-7) one sūtra of the Bhāgaleya Śrauta-sūtra is quoted. Adhyāpaka Śrīpāda Kṛṣṇa Belvalkar printed the Bhāgaleya Upaniṣad in 1925. Some verses of the Bhāgaleya-smṛti are quoted here and there in the digest-works (*nibandhas*).
 
 ## 13, 14. Tumburu and Ulapa branches
 
@@ -1608,7 +1608,7 @@ Only the name of this branch survives. No works are found. Among the pupils of K
 
 ## 17. Kapiṣṭhala-kaṭha branch
 
-As the name Prācya-kaṭha came about from connection with a region, this branch too has the custom of being called by the name of a region. Kapiṣṭhala may be the name of a region or province. In Pāṇini's Gaṇapāṭha (2-4-69) and in the sūtra (8-3-91) the word Kapiṣṭhala, denoting a gotra, occurs. The saṃhitā of this branch has 8 *aṣṭakas*, in each *aṣṭaka* 8 *adhyāyas*, thus 64 *adhyāyas* in all. Now only the first, fourth, fifth and sixth *aṣṭakas* are found; even in these some portions are lost here and there. A manuscript of this work is at Kāśī. In 19?? [?] this saṃhitā was printed at Lahore; it is according to the Kāśī manuscript spoken of above.
+As the name Prācya-kaṭha came about from connection with a region, this branch too has the custom of being called by the name of a region. Kapiṣṭhala may be the name of a region or province. In Pāṇini's Gaṇapāṭha (2-4-69) and in the sūtra (8-3-91) the word Kapiṣṭhala, denoting a gotra, occurs. The saṃhitā of this branch has 8 *aṣṭakas*, in each *aṣṭaka* 8 *adhyāyas*, thus 64 *adhyāyas* in all. Now only the first, fourth, fifth and sixth *aṣṭakas* are found; even in these some portions are lost here and there. A manuscript of this work is at Kāśī. In 1932 this saṃhitā was printed at Lahore; it is according to the Kāśī manuscript spoken of above.
 
 A manuscript of the Kapiṣṭhala-kaṭha Gṛhya-sūtra is in the Sarasvatī-bhavana library at Kāśī. In it the text of many portions is destroyed. No other work of the Kapiṣṭhala-kaṭha branch has fallen under our eyes.
 
@@ -1620,9 +1620,9 @@ Those born in the gotra of the sage Cara are called Cārāyaṇas. The name of t
 
 ...as well. It is learnt that this work was printed at Lahore recently. The matters noted below have been learnt from study of this Mantrārṣādhyāya:
 
-(1) In the Cārāyaṇīya-saṃhitā there were divisions called *anuvāka* and *sthānaka*. At the beginning of this work it is said — "*goṣadasi* ityanuvākadvayaṃ savituś śyāvāśvasya" [the two anuvākas "Goṣad asi…", of Savitṛ Śyāvāśva] —; and at the end of the [?]th khaṇḍa it is written "*sthā*".
+(1) In the Cārāyaṇīya-saṃhitā there were divisions called *anuvāka* and *sthānaka*. At the beginning of this work it is said — "*goṣadasi* ityanuvākadvayaṃ savituś śyāvāśvasya" [the two anuvākas "Goṣad asi…", of Savitṛ Śyāvāśva] —; and at the end of the 40th khaṇḍa it is written "*sthā*".
 
-(2) In the Cārāyaṇīya-saṃhitā the ṛks of the Yājyā and Anuvākyā are given together at one place at the end of the [?]th *sthānaka*. In the Kāṭhaka-saṃhitā these ṛks are given separately in the places of their application.
+(2) In the Cārāyaṇīya-saṃhitā the ṛks of the Yājyā and Anuvākyā are given together at one place at the end of the 40th *sthānaka*. In the Kāṭhaka-saṃhitā these ṛks are given separately in the places of their application.
 
 (3) In the Cārāyaṇīya-saṃhitā, in some places the order of the Kāṭhaka-saṃhitā and in some places the order of the Maitrāyaṇīya-saṃhitā is followed.
 
@@ -1660,7 +1660,7 @@ The discussion of a branch-founder named Varatantu is found in a Pāṇinian sū
 
 ## 21. Śvetāśvatara branch
 
-A passage (statement) of the brāhmaṇa of the Śvetāśvatara branch is quoted in the 1st [?] section of the 3rd [?] part of the commentary named Bālakrīḍā. The Śvetāśvataramantropaniṣad is renowned. Besides this Upaniṣad, this branch also had another Upaniṣad. A mantra of it is quoted by Ātmānanda, the bhāṣya-writer of the sūkta called Asya-vāmīya, in the bhāṣya on the 1?th [?] mantra. That mantra is not found in the now-renowned Śvetāśvatara Upaniṣad; therefore it can be conjectured that there was another Upaniṣad.
+A passage (statement) of the brāhmaṇa of the Śvetāśvatara branch is quoted on the 8th page of the 1st part of the commentary named Bālakrīḍā. The Śvetāśvataramantropaniṣad is renowned. Besides this Upaniṣad, this branch also had another Upaniṣad. A mantra of it is quoted by Ātmānanda, the bhāṣya-writer of the sūkta called Asya-vāmīya, in the bhāṣya on the 16th mantra. That mantra is not found in the now-renowned Śvetāśvatara Upaniṣad; therefore it can be conjectured that there was another Upaniṣad.
 
 ## 22, 23. Aupamanyava and Pātāṇḍanīya branches
 
@@ -1675,13 +1675,13 @@ The Maitrāyaṇa-saṃhitā is printed. Professor Schroeder of Germany edited a
 > प्राचीनावीति ।
 > सुमंतुजैमिनिपैलवैशंपायनाः सशिष्याः ।
 > भृगुच्यवनाप्नवानौरवजामदग्नयः सशिष्याः ।
-> आंगिरसांबरीषयौवनाश्व-हरिद्रभागलिर्लवय [?] (?)
+> आंगिरसांबरीषयौवनाश्व-हरिद्रभागलिर्लवय (?) [as printed]
 > तुंबुरु औलंपायनाः सशिष्याः ।
 >
 > *prācīnāvīti |*
 > *sumantujaiminipailavaiśaṃpāyanāḥ saśiṣyāḥ |*
 > *bhṛgucyavanāpnavānauravajāmadagnayaḥ saśiṣyāḥ |*
-> *āṅgirasāmbarīṣayauvanāśva-haridrabhāgalirlavaya [?] (?)*
+> *āṅgirasāmbarīṣayauvanāśva-haridrabhāgalirlavaya (?) [as printed]*
 > *tumburu aulaṃpāyanāḥ saśiṣyāḥ |*
 >
 > (As read in the print, which itself marks one word with "(?)"; the list continues on the next page. Gist: after the sacred-thread arrangement for the ancestors [*prācīnāvīta*], libations are offered to the sages Sumantu, Jaimini, Paila and Vaiśampāyana with their pupils; Bhṛgu, Cyavana, Āpnuvāna, Aurva and Jāmadagnya with their pupils; Āṅgirasa, Ambarīṣa, Yauvanāśva, Haridra, Bhāgali… and Tumburu and the Aulaṃbāyanas with their pupils.)
@@ -1722,7 +1722,7 @@ Now the sub-divisions of the Maitrāyaṇīya branch (printed in English: "Sub-d
 
 ## 25. Mānava branch
 
-Many sūtras belonging to this branch exist. The greater part of the Śrauta-sūtra and the Gṛhya-sūtra is printed in many places. There are many pariśiṣṭas to the Mānava Śrauta and Gṛhya. Many manuscripts are available there [?]. The Mānava pariśiṣṭas are works quite fit to be accepted.
+Many sūtras belonging to this branch exist. The greater part of the Śrauta-sūtra and the Gṛhya-sūtra is printed in many places. There are many pariśiṣṭas to the Mānava Śrauta and Gṛhya. Many manuscripts of them are available here and there. The Mānava pariśiṣṭas are works quite fit to be accepted.
 
 ## 26. Vārāha branch
 
@@ -1752,7 +1752,7 @@ Among the pupils of Vaiśampāyana, or among their sub-pupils, there was one nam
 >
 > *tathā yajurvede taittirīyaśākhā maṃtrabrāhmaṇamiśrā | sā dvividhā saṃhitāśākhābhedena | tatra saṃhitā catuṣpādā saptakāṇḍā catuścatvāriṃśatpraśnā ca | tatra prathamakāṇḍe 'ṣṭau praśnāḥ | dvitīyasaptamau paṃca paṃca | tṛtīyacaturthau sapta sapta | paṃcamaṣaṣṭhau ṣaḍekaikau (?) tasmād ekādaśaikādaśa praśnāś catvāraḥ pādāḥ |*
 >
-> "And in the Yajurveda the Taittirīya branch is a mixture of mantra and brāhmaṇa. It is twofold by the division of saṃhitā and branch [?]. There the saṃhitā has four parts, seven kāṇḍas and forty-four praśnas. There in the first kāṇḍa eight praśnas; the second and seventh five each; the third and fourth seven each; the fifth and sixth six, one each (?); hence eleven, eleven praśnas — four parts."
+> "And in the Yajurveda the Taittirīya branch is a mixture of mantra and brāhmaṇa. It is twofold by the division of saṃhitā and branch. There the saṃhitā has four parts, seven kāṇḍas and forty-four praśnas. There in the first kāṇḍa eight praśnas; the second and seventh five each; the third and fourth seven each; the fifth and sixth six, one each (?); hence eleven, eleven praśnas — four parts."
 
 (Transcribed as printed; the print itself marks one word with "(?)". The author of this commentary then says:) In this saṃhitā there are altogether 44 praśnas, or adhyāyas. The arrangement of praśnas in each kāṇḍa in the sentences quoted above is not correct; there is a slight difference. The correct reading must be this: in the first kāṇḍa 8 praśnas, in the second 6, in the third 5, in the fourth 7, in the fifth 7, in the sixth 6, in the seventh 5 — altogether 8 + 6 + 5 + 7 + 7 + 6 + 5 = 44 praśnas. The description of the matters spoken of in the seven kāṇḍas of the Taittirīya-saṃhitā is well known from the Kāṇḍānukramaṇikā.
 
@@ -1780,7 +1780,7 @@ The Laugākṣi-smṛti has an extensive explanation of this division. There the
 > *evaṃ catuścatvāriṃśaṃ kāṇḍānāṃ taittirīyake |*
 > *mahāśākhāviśeṣe 'smin kathitā brahmavādibhiḥ || 38 ||*
 
-(Transcribed from the print; the words marked [?] are doubtful in the scan. No translation of the verses is given in the source; as a gist: "I shall now speak clearly of those kāṇḍas of the Veda — the Paurodāśa, the Yājamāna, the Hautra, the Pitṛmedha, and after them the Brāhmaṇa and the Anubrāhmaṇa, the Prājāpatya… The great sages beginning with Vasiṣṭha, who knew the particulars of these kāṇḍa-groups… the Paurodāśa [section] has thirteen anuvākas beginning with 'iṣe tvā'… thus, for the forty-four [divisions] in the Taittirīya, in this special great branch, were declared by the expounders of Brahman." — editorial and tentative.)
+(Transcribed from the print, re-checked on the 600 dpi scan. No translation of the verses is given in the source; as a gist: "I shall now speak clearly of those kāṇḍas of the Veda — the Paurodāśa, the Yājamāna, the Hautra, the Pitṛmedha, and after them the Brāhmaṇa and the Anubrāhmaṇa, the Prājāpatya… The great sages beginning with Vasiṣṭha, who knew the particulars of these kāṇḍa-groups… the Paurodāśa [section] has thirteen anuvākas beginning with 'iṣe tvā'… thus, for the forty-four [divisions] in the Taittirīya, in this special great branch, were declared by the expounders of Brahman." — editorial and tentative.)
 
 From these verses it becomes clear that the great sages beginning with Vasiṣṭha must have made the division into kāṇḍas, the division of subject and so on in this branch. This Taittirīya is counted by Vedic scholars as a great branch.
 
