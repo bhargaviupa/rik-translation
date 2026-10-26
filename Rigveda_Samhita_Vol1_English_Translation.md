@@ -10391,8 +10391,8 @@ But isn't it a universal rule that a scriptural injunction incites only to what 
 
 **Sutra's meaning:** the injunction, regarding understanding the Veda's meaning, implicitly requires the Vichara (Mimamsa) shastra too. "Vidhi" (injunction) means: do exactly what is stated, connected to its own specific act — so why should a wholly separate text (Mimamsa) be required, since it is neither the Veda nor even part of it? The resolution follows.
 
-### "अविधीयानुषकार्याक्षेपोऽवघातावृत्तिवत्" (Sutra 3)
-*"Avidhīyānuṣakāryākṣepo'vaghātāvṛttivat"*
+### "अविधेयानुपकार्याक्षेपोऽवघातावृत्तिवदिति" (Sutra 3)
+*"Avidheyānupakāryākṣepo'vaghātāvṛttivad iti"* (sūtra re-read from the better scan in the [?] pass)
 
 > "**An injunction may include something which is neither expressly enjoined nor subservient to what is expressly enjoined, as, for example, the repetition of the act of striking the rice.**
 >
@@ -10445,16 +10445,18 @@ But isn't it a universal rule that a scriptural injunction incites only to what 
 
 ### Page 511
 
-### "Sāṅgādhyayanātpāve vicāro virodhāpanudati" (Sutra 4)
+### "साङ्गाध्ययनात्तद्भावे विचारो विरोधापनुदिति" (Sutra 4)
+*"Sāṅgādhyayanāt tadbhāve vicāro virodhāpanud iti"* — "siddhāntayati" (sūtra re-read from the better scan in the [?] pass)
 
 Even one who studies the Veda together with its six Angas may grasp the Veda's meaning, yet resolving mutual contradictions arising within that meaning still absolutely requires Mimamsa-shastra.
 
 **Now the Siddhanta is established:**
 
-### "Prāpyeste tu gavādivat puruṣārthyā adhi-sthitiḥ" (Sutra 5)
+### "प्राप्तेस्तु गवादिवत्पुमर्थत्वाद्विधिस्तदन्त इति" (Sutra 5)
+*"Prāptes tu gavādivat pumarthatvād vidhis tadanta iti"*
 
-> यथा फलभूतस्य क्षीरादेर् अर्थित्वात् गवादयोऽपि पुरुषैर् अर्थ्यन्ते । तथा फलवद्-अर्थावबोध-हेतोः प्राप्तेर् अपि पुरुषार्थत्वाद् अध्ययन-विधिर् अप्य् अर्थ-सान-वसानो भवति । नेतृक्ष्वर्थस्य पुरुषार्थत्वात् फलवद्-अर्थावबोध-प्रयुक्तं चेत्रेषा केधोधस्य मुख्य-पुरुषार्थात्प्वोधांत एव विधिः किं न स्याद् इति आह ॥
-> yathā phalabhūtasya kṣīrāder arthitvāt gavādayo'pi puruṣair arthyante | tathā phalavad-arthāvabodha-hetoḥ prāpter api puruṣārthatvād adhyayana-vidhir apy artha-sāna-vasāno bhavati | netṛkṣvarthasya puruṣārthatvāt phalavad-arthāvabodha-prayuktaṃ cetreṣā kedhodhasya mukhya-puruṣārthātpvodhāṃta eva vidhiḥ kiṃ na syād iti āha ||
+> यथा फलभूतस्य क्षीरादेर्हेतवो गवादयोऽपि पुरुषैरर्थ्यन्ते । तथा फलवदर्थावबोधहेतोरक्षरप्राप्तेरपि पुरुषार्थत्वादध्ययनविधिरक्षरप्राप्त्यवसानोऽवगन्तव्यः । नन्वक्षरप्राप्तेः पुरुषार्थत्वं फलवदर्थावबोधप्रयुक्तं चेत्तर्हि तद्बोधस्य मुख्यपुरुषार्थत्वाद्बोधान्त एव विधिः किं न स्यादित्यत आह ॥
+> *yathā phalabhūtasya kṣīrāder hetavo gavādayo'pi puruṣair arthyante | tathā phalavad-arthāvabodha-hetor akṣara-prāpter api puruṣārthatvād adhyayana-vidhir akṣara-prāpty-avasāno'vagantavyaḥ | nanv akṣara-prāpteḥ puruṣārthatvaṃ phalavad-arthāvabodha-prayuktaṃ cet tarhi tad-bodhasya mukhya-puruṣārthatvād bodhānta eva vidhiḥ kiṃ na syād ity ata āha ||* (sūtra and bhāṣya re-read from the better scan in the [?] pass)
 >
 > "**Granted that knowledge of the meaning may result from the study of the Veda with its Angas, the Mimansa removes doubts as to the meaning.**
 >
@@ -10485,8 +10487,11 @@ A person seeks a cow for its milk; similarly, one seeks other things for the ben
 
 **A sharp practical objection now arises:** if the study-injunction is held to extend all the way to this fruit-bearing knowledge (i.e., full understanding sufficient for ritual performance), then it becomes impossible to ever finish studying the *entire* Veda with full comprehension and successful rite-performance for every portion.
 
-### "फलवदोधान्तक्षेप्यध्ययनाकाष्ट्प्यशीमिति" (Sutra 6)
-*"Phalavad-odhāntakṣepy-adhyayanākāṣṭpyaśim iti"*
+### "फलवद्बोधान्तत्वेऽध्ययनाकार्त्स्न्यमिति" (Sutra 6)
+*"Phalavadbodhāntatve'dhyayanākārtsnyam iti"*
+
+> बोधस्य हि फलं कर्मानुष्ठानम् । तथा सति यस्य ब्राह्मणादेर्यस्मिन्बृहस्पतिसवादावधिकारस्तस्य तद्वाक्यमात्राध्ययनं स्यात् । न तु राजसूयादिवाक्याध्ययनम् । तत्र प्रवृत्त्यादिफलाभावात् । स्वपक्षे तु नायं दोष इत्याह ॥
+> *bodhasya hi phalaṃ karmānuṣṭhānam | tathā sati yasya brāhmaṇāder yasmin bṛhaspatisavādāv adhikāras tasya tad-vākya-mātrādhyayanaṃ syāt | na tu rājasūyādi-vākyādhyayanam | tatra pravṛttyādi-phalābhāvāt | svapakṣe tu nāyaṃ doṣa ity āha ||* (sūtra and bhāṣya re-read from the better scan in the [?] pass)
 
 > "But it may be said, if the mastery of the text is in this way an object of human desire, only inasmuch as it subserves that knowledge of the meaning to which the real fruit is attached, then that knowledge is a chief object of desire, and the mastery of the text, as an object of desire, must be held to be subordinate to it. Why, then, should not the injunction be stretched so far? To this he says—
 >
@@ -10515,10 +10520,11 @@ A person seeks a cow for its milk; similarly, one seeks other things for the ben
 
 The purpose of understanding the Veda's meaning is to perform the rites it describes. Given this, shouldn't it suffice for someone intending the Brihaspatisava yajna to learn only that rite's own mantras — skipping, say, the Rajasuya's mantras entirely, especially since only kshatriyas (not brahmins) may perform Rajasuya at all? Whether this creates a genuine flaw in requiring *complete* Vedic study is addressed next.
 
-### "Kṛtsna-prāpty-arya-sārthyeti" (Sutra 2)
+### "कृत्स्नप्राप्तिर्जपार्थेति" (Sutra 7)
+*"Kṛtsnaprāptir japārtheti"*
 
-> न चाबोधकत्वार्थावबोध एव न सिध्येद् इति शङ्कनीयम् । प्रमाणस्य प्रमेये बोध-फलस्याभावात् । लौकिकाप्त-वाक्यानाम् अन्तरेण विधिं बोधकत्व-दर्शनाद् इत्य् आह ॥
-> na cābodhakatvārthāvabodha eva na sidhyed iti śaṅkanīyam | pramāṇasya prameye bodha-phalasyābhāvāt | laukikāpta-vākyānām antareṇa vidhiṃ bodhakatva-darśanād ity āha ||
+> न चाबोधकत्वेऽर्थावबोध एव न सिध्येदिति शङ्कनीयम् । प्रमाणस्य प्रमेयबोधकत्वस्वाभाव्यात् । लौकिकाप्तवाक्यानामन्तरेणैव विधिं बोधकत्वदर्शनादित्याह ॥
+> *na cābodhakatve'rthāvabodha eva na sidhyed iti śaṅkanīyam | pramāṇasya prameya-bodhakatva-svābhāvyāt | laukikāpta-vākyānām antareṇaiva vidhiṃ bodhakatva-darśanād ity āha ||* (sūtra, printed ॥ ७ ॥, and bhāṣya re-read from the better scan in the [?] pass)
 >
 > "**The mastery of the whole text of the Veda is required for that recitation of the whole in which the spiritual sacrifice consists.**
 >
@@ -10529,6 +10535,14 @@ The purpose of understanding the Veda's meaning is to perform the rites it descr
 > The next objection that occurs to him is this. If we take the reward contemplated by the injunction to lie in a knowledge of the meaning, then the injunction applies to every..."
 
 **Sutra's meaning:** complete study serves the purpose of japa (recitation); through japa, an unseen fruit results. Nor need one worry that the study-injunction fails to reach those who already understand the Veda's meaning — a valid means of knowledge (pramāṇa) naturally conveys what needs to be known by its own inherent nature, just as, in ordinary life, the words of respected persons instruct us without needing any separate scriptural command authorizing them to do so. The Vedic text, likewise, instructs of its own accord.
+
+### "लोकवन्नैजो बोध इति" (Sutra 8)
+*"Lokavan naijo bodha iti"*
+
+> ननु बोधस्य विधिफलत्वे बोधकाममुद्दिश्य विधातुं शक्यत्वात्सुलभोऽधिकारी स्यादित्याशङ्क्य प्राप्तिपक्षेऽपि प्राप्तिकाम…
+> *nanu bodhasya vidhiphalatve bodhakāmam uddiśya vidhātuṃ śakyatvāt sulabho'dhikārī syād ity āśaṅkya prāptipakṣe'pi prāptikāma…* (continues on p. 514; sūtra, printed ॥ ८ ॥, and bhāṣya added from the better scan in the [?] pass)
+
+*(Sūtra 8, "The understanding [of meaning] comes of itself, as in common speech" (gloss mine and tentative), is the sūtra the printed English renders "The text instructs of its own accord as in the case of every-day talk.")*
 
 ---
 
@@ -10551,8 +10565,11 @@ The purpose of understanding the Veda's meaning is to perform the rites it descr
 
 **A doubt now arises:** if the injunction's purpose were merely to know the Veda's meaning, it would apply only to those already desiring to understand — but everyone naturally desires this anyway, making a separate injunction pointless. Alternatively, if the purpose were mere memorization, an eight-year-old upanayana-invested boy would already qualify — a trivially obvious point. Setting this aside, the objector raises a sharper criticism: that the very "desire to understand meaning" the opponent relies upon doesn't actually exist in any coherent sense.
 
-### "बोध्याज्ये चाबलक्षणवेदार्थसाध्यनात्मा सन्ध्योगासासनादिवत्पित्वादेशत एव भावे सिद्धत्वादेव सोज्झार्थबोधो न काम्यः । अभावे कामयितुमशक्यः । ज्ञात एव विषये कामनानियमात् ॥" (Sutra 3)
-*"Bodhyāgye cābalakṣaṇa-vedārtha-sādhyanātmā sandhyogāsāsanādivat pitvādaiśedeśata eva bhāve siddhtvād eva sojjhartha-bodho na kāmyaḥ | abhāve kāmayitum aśakyaḥ | jñāta eva viṣaye kāmanā-niyamāt"* — *(this specific sutra's Sanskrit was genuinely difficult to transcribe at full confidence from the source; the Devanagari above follows the established IAST reading rather than a fresh reading of the page image, and both should be treated as approximate pending a source check)*
+### "सोऽकाम्यः प्राग्बोध्य भानाभानयोरिति" (Sutra 9)
+*"So'kāmyaḥ prāg bodhya bhānābhānayor iti"*
+
+> बोध्यस्याग्निहोत्रादिलक्षणवेदार्थस्याध्ययनात्प्राक् संध्योपासनादिवत्पित्राद्युपदेशत एव भाने सिद्धत्वादेव सोऽर्थबोधो न काम्यः । अभाने कामयितुमशक्यः । ज्ञात एव विषये कामनानियमात् । ननु सामान्यतो ज्ञाते…
+> *bodhyasyāgnihotrādi-lakṣaṇa-vedārthasyādhyayanāt prāk saṃdhyopāsanādivat pitrādy-upadeśata eva bhāne siddhatvād eva so'rthabodho na kāmyaḥ | abhāne kāmayitum aśakyaḥ | jñāta eva viṣaye kāmanā-niyamāt | nanu sāmānyato jñāte…* *(Sūtra and bhāṣya re-read from the better scan in the [?] pass; the earlier heading had run the bhāṣya together as the sūtra. The sūtra number is printed ೯ = 9.)*
 
 > "**The meaning to be learned was either already known or not before the study of the text which is enjoined. In either case it cannot be an object of desire.**
 >
