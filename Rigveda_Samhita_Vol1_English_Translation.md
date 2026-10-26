@@ -13336,8 +13336,8 @@ The shakhas belonging to each Veda are as follows: for the Rigveda — the Shaka
 
 ...belonging to each individual mantra is determined. This specific application is itself of three kinds: application of a whole Sukta, application of a group of Suktas, and application of a single mantra.
 
-> तत्राग्निमीळ इति सूक्तमस्य प्रातरनुवाके आग्नेये कृतौ विनियुक्तम् । स विनियोग आश्वलायनेन चतुर्थाध्यायस्य त्रयोदशे खण्डे सूत्रितः ॥
-> *tatrāgnimīḷa iti sūktam asya prātar-anuvāke āgneye kratau viniyuktam | sa viniyoga āśvalāyanena caturthādhyāyasya trayodaśe khaṇḍe sūtritaḥ ||* *(this passage and the several dense technical sentences following it, concerning further sub-rules from Ashvalayana's own sutras on the exact application of individual verses within this sukta, were read with care but the source's compressed technical Mimamsa terminology could not be transcribed with full syllable-level confidence at this resolution)*
+> तत्राग्निमीळ इति सूक्तं प्रातरनुवाक आग्नेये क्रतौ विनियुक्तम् । स विनियोग आश्वलायनेन चतुर्थाध्यायस्य त्रयोदशे खण्डे सूत्रितः । आवा नो अग्न इति षळग्निमीळेऽग्निं दूतमिति । तत्र हीनपादग्रहणात्सूक्तनिश्चयः । सूक्तं सूक्तादौ हीने पादे । आ. १-१ । इति परिभाषितत्वात् । तस्मिन्सूक्ते प्रथमाया ऋचो द्वितीयस्यां पवमानेष्टौ स्विष्टकृतो याज्यात्वेन विनियोगः । स च द्वितीयाध्यायस्य प्रथमखण्डे सूत्रितः । साह्वान्विश्वा अभियुजोऽग्निमीळे पुरोहितमिति संयाज्ये इति । तत्र कृत्स्नपादग्रहणादृगित्यवगम्यते । ऋचं पादग्रहणे आ. १-१ । इति परिभाषितत्वात् । तथा संयाज्ये इत्युक्ते सौविष्टकृती प्रतीयात् आ. २-१ । इति परिभाषितत्वात्स्विष्टकृत्संबन्धनिश्चयः । तत्रापि द्वितीयमन्त्रत्वेनोदाहृतत्वाद्याज्यात्वम् । यद्यपि साह्वानित्यनया पुरोनुवाक्ययैव देवताया अनुस्मरणरूपसंस्कारः सिद्धस्तथापि याज्यानुवाक्ययोः समुच्चयो द्वादशेऽध्याये चतुर्थपादे मीमांसितः ॥
+> *tatrāgnimīḷa iti sūktaṃ prātaranuvāka āgneye kratau viniyuktam | sa viniyoga āśvalāyanena caturthādhyāyasya trayodaśe khaṇḍe sūtritaḥ | āvā no agna iti ṣaḷ agnim īḷe'gniṃ dūtam iti | tatra hīnapāda-grahaṇāt sūkta-niścayaḥ | sūktaṃ sūktādau hīne pāde | Ā. 1-1 | iti paribhāṣitatvāt | tasmin sūkte prathamāyā ṛco dvitīyasyāṃ pavamāneṣṭau sviṣṭakṛto yājyātvena viniyogaḥ | sa ca dvitīyādhyāyasya prathamakhaṇḍe sūtritaḥ | sāhvān viśvā abhiyujo'gnim īḷe purohitam iti saṃyājye iti | tatra kṛtsnapāda-grahaṇād ṛg ity avagamyate | ṛcaṃ pādagrahaṇe Ā. 1-1 | iti paribhāṣitatvāt | tathā saṃyājye ity ukte sauviṣṭakṛtī pratīyāt Ā. 2-1 | iti paribhāṣitatvāt sviṣṭakṛt-saṃbandha-niścayaḥ | tatrāpi dvitīya-mantratvenodāhṛtatvād yājyātvam | yadyapi sāhvān ity anayā puronuvākyayaiva devatāyā anusmaraṇa-rūpa-saṃskāraḥ siddhas tathāpi yājyānuvākyayoḥ samuccayo dvādaśe'dhyāye caturthapāde mīmāṃsitaḥ ||* (bhāṣya re-read in full from the better scan in the [?] pass)
 >
 > "There, the sukta 'agnimīḷe' is applied by him [Ashvalayana] to the Āgneya rite within the Prātar-anuvāka. This application is laid down by Āśvalāyana in the thirteenth section of the fourth Adhyāya [of his Shrauta-sutra]."
 
@@ -13347,7 +13347,7 @@ The shakhas belonging to each Veda are as follows: for the Rigveda — the Shaka
 
 ---
 
-Ashvalayana states, at the close of the fourth Adhyaya of his own Shrauta-sutra, in a passage belonging to the Nirvapa section: "**āvā no agna iti ṣaḍagnimāḷāgnis dhūta-sam iti**" — [our reading of this particular closing citation likewise remains a hedged, best-effort transcription]. When discussing the application of the mantras within his sutra, Ashvalayana refers to one specific instance...
+Āśvalāyana, in a sūtra of the thirteenth khaṇḍa of the fourth adhyāya of his Śrauta-sūtra, states: "**āvā no agna iti ṣaḍ agnim īḷe'gniṃ dūtam**" — this is the application of this sūkta. *(Re-read from the better scan in the [?] pass.)* When discussing the application of the mantras within his sutra, Ashvalayana refers to one specific instance...
 
 ---
 
@@ -13392,13 +13392,13 @@ Here, since the first padas of the Riks "**sādhyānniścā abhiyujaḥ**" and "
 
 ...and is so called. Thereafter, having called the deity to mind and invited it, one performs homa reciting another Rik. This Rik is called the "Yajya." Both are together termed the **Puronuvakya-Yajya** pair. Application-statements always begin by stating the Puronuvakya first and the "anantara" (subsequent) mantra afterward — this is the settled order.
 
-**Regarding the Paribhasha-sutra** — "**sāmānyāt siṣṭāḥ**" and similar — since it begins by naming the Puronuvakya first, one should understand this to be the fixed sequence for citing the two mantras. On this point, there is a well-known verse in the fourth adhyaya of the Purushartha-nushasana's own Nyaya-mala-vistara commentary:
+**Regarding the Paribhasha-sutra** — "**sāmānyāt siṣṭāḥ**" and similar — since it begins by naming the Puronuvakya first, one should understand this to be the fixed sequence for citing the two mantras. On this point, this combination of yājyā and anuvākyā is stated in the fourth pāda of the twelfth adhyāya of the Jaiminīya-nyāya-mālā-vistara:
 
-> पुरोनुवाक्या या याज्या विकल्प्या वा समुच्चिता । विकल्प्यास्यैषैव देवतायाः प्रकाशनात् ॥
-> *puronuvākyā yā yājyā vikalpyā vā samuccitā | vikalpyāsyaiṣaiva devatāyāḥ prakāśanāt ||*
+> पुरोनुवाक्यया याज्या विकल्प्या वा समुच्चिता । विकल्प्यास्यैतयोरेकैव [?] देवतायाः प्रकाशनात् ॥
+> *puronuvākyayā yājyā vikalpyā vā samuccitā | vikalpyāsyaitayor ekaiva [?] devatāyāḥ prakāśanāt ||*
 >
-> पुरोनुवाक्या समाख्यानाध्यैवास्य समुच्चितः । देवताप्रकाशनकार्यास्यं कश्चात् युग्मैरोर्यार्था विकल्पस्यै युग्मगतयोरिति चेत् नैवम् । पुरोनुवाक्येति समाख्या उत्तरकालीनयाज्यामन्त्रेणानुपसृप्तेः । किं च—
-> *puronuvākyā samākhyānādhyaivāsya samuccitaḥ | devatā-prakāśana-kāryāsyaṃ kaścāt yugmair oryārthā vikalpasyai yugmagatayor iti cet naivam | puronuvākyeti samākhyā uttarakālīna-yājyā-mantreṇānupasṛpteḥ | kiṃ ca—* *(this technical Mimamsa-verse passage remains genuinely dense at this resolution and is presented as a best-effort reading)*
+> पुरोनुवाक्यासमाख्यानाद्वचनाच्च समुच्चयः । देवताप्रकाशनकार्यस्यैकत्वात् युग्मयोर्यथा विकल्पस्तथैवैकयुग्मगतयोरिति चेत् नैवम् । पुरोनुवाक्येति समाख्याया उत्तरकालीनयाज्यामन्तरेणानुपपत्तेः । किं च— "पुरोनुवाक्यामनूच्य याज्यया जुहोति" इति प्रत्यक्षवचनेन देवतोपलक्षणहविष्प्रदानकार्यो भेदोक्तिपुरस्सरं साहित्यं विधीयते । तस्मात्समुच्चय इति ॥
+> *puronuvākyā-samākhyānād vacanāc ca samuccayaḥ | devatā-prakāśana-kāryasyaikatvāt yugmayor yathā vikalpas tathaivaika-yugmagatayor iti cet naivam | puronuvākyeti samākhyāyā uttarakālīna-yājyām antareṇānupapatteḥ | kiṃ ca — "puronuvākyām anūcya yājyayā juhoti" iti pratyakṣa-vacanena devatopalakṣaṇa-haviṣpradāna-kāryo bhedokti-puraḥsaraṃ sāhityaṃ vidhīyate | tasmāt samuccaya iti ||* (verse and prose re-read from the better scan in the [?] pass; one word stays [?])
 >
 > "**puronuvākyāmanūṣye yājyayā juhoti**" — "*puronuvākyām anūṣya yājyayā juhoti* | this text of Scripture ["having recited the Puronuvakya, one performs the homa by means of the Yajya"] plainly requires an explicit ordering — the Puronuvakya's citation precedes the Yajya's own act of oblation."
 
@@ -13420,22 +13420,24 @@ Here, since the first padas of the Riks "**sādhyānniścā abhiyujaḥ**" and "
 
 ...(in the Kratu), one should reflect accordingly. Moreover, since the Puronuvakya's application is understood to precede the deities' own act of being called to mind, and since the Yajya's application is not stated as belonging to any other set of homa-related rules, both these mantras should be understood accordingly. This is why the word "**samuccitayaḥ**" is employed [in the sutra].
 
-> एकर्चाग्निमित्यादिसूक्तं नवर्चम् । "अग्निं नव मधुच्छन्दा वैश्वामित्रिः" इत्यनुक्रमणिकायामुक्तत्वात् (अनु. १-४) । विश्वामित्रपुत्रो मधुच्छन्दोनामकस्य सूक्तस्य द्रष्टृत्वाद्ऋषिः ।
-> *ekarcāgnim ity-ādi sūktaṃ navarcam | "agniṃ nava madhucchandā vaiśvāmitriḥ" ity anukramaṇikāyām uktatvāt (anu. 1-4) | viśvāmitra-putro madhucchando-nāmakasya sūktasya draṣṭṛtvād ṛṣiḥ |*
+> एतच्चाग्निमित्यादिसूक्तं नवर्चम् । "अग्निं नव मधुच्छन्दा वैश्वामित्रः" इत्यनुक्रमणिकायामुक्तत्वात् (अनु. १-४) विश्वामित्रपुत्रो मधुच्छन्दोनामकस्तस्य सूक्तस्य द्रष्टृत्वात्तदीय ऋषिः । ऋष गताविति धातुः । सर्वधातुभ्य इन् (उ. ४-११९) । इगुपधात्कित् (उ. ४-१०४) वेदप्राप्त्यर्थं तपोऽनुतिष्ठतः पुरुषान् स्वयम्भूर्देवपुरुषः प्राप्नोत् । तथा च श्रूयते । "अजान् ह वै पृश्नींस्तपस्यमानान्ब्रह्म स्वयम्भ्वभ्यानर्षत्त ऋषयोऽभवन्" (तै. आ. २-९) इति । तथातीन्द्रियस्य वेदस्य परमेश्वरानुग्रहेण प्रथमतो दर्शनादृषित्वमित्यभिप्रेत्य स्मर्यते । युगान्तेऽन्तर्हितान्वेदान्सेतिहासान्महर्षयः । लेभिरे तपसा पूर्वमनुज्ञाताः स्वयम्भुवेति ॥
+> *etac cāgnim ity-ādi sūktaṃ navarcam | "agniṃ nava madhucchandā vaiśvāmitraḥ" ity anukramaṇikāyām uktatvāt (anu. 1-4) viśvāmitra-putro madhucchando-nāmakas tasya sūktasya draṣṭṛtvāt tadīya ṛṣiḥ | ṛṣa gatāv iti dhātuḥ | sarvadhātubhya in (U. 4-119) | igupadhāt kit (U. 4-104) veda-prāpty-arthaṃ tapo'nutiṣṭhataḥ puruṣān svayambhūr devapuruṣaḥ prāpnot | tathā ca śrūyate | "ajān ha vai pṛśnīṃs tapasyamānān brahma svayambhv abhyānarṣat ta ṛṣayo'bhavan" (Tai. Ā. 2-9) iti | tathātīndriyasya vedasya parameśvarānugraheṇa prathamato darśanād ṛṣitvam ity abhipretya smaryate | yugānte'ntarhitān vedān setihāsān maharṣayaḥ | lebhire tapasā pūrvam anujñātāḥ svayambhuveti ||* (bhāṣya re-read in full from the better scan in the [?] pass; the Uṇādi numerals are left as in the file for the numeral review)
 >
 > "This sukta, beginning with the single verse 'agnim...,' consists of nine Riks — as stated in the Anukramanika (index): 'Agni [is praised in] nine [verses] by Madhuchandas Vaishvamitra' (Anukramanika 1-4). Madhuchandas, son of Vishvamitra, is the 'rishi' [seer] of this sukta, being the one who directly perceived (draṣṭṛ) it."
 
 **On the etymology of "rishi":** from the root "**ṛṣ**" (to go/move) — per the Unadi-sutra rule "**sarva-dhātubhya inn**" (Unadi 4-119) and "**igupadāt kit**" (Unadi 4-104) — [one who, through the grace of the Supreme Lord, directly] perceives, without dependence on ordinary sense-organs, the Veda [as it truly is]. This much is stated. As it is said:
 
-> अजान् ह वै पूर्वं तपस्यमानास्तप्त्वा स्वयंभुव आभिणर्त्यृषयोऽभवन् ।
-> *ajān ha vai pūrvaṃ tapasyamānās taptvā svayambhuva ābhiṇarty ṛṣayo'bhavan |* (Kaushitaki Aranyaka 2-9) *(this specific citation remains a best-effort reading at this resolution)*
+> "अजान् ह वै पृश्नींस्तपस्यमानान्ब्रह्म स्वयम्भ्वभ्यानर्षत्त ऋषयोऽभवन्" (तै. आ. २-९)
+> *"ajān ha vai pṛśnīṃs tapasyamānān brahma svayambhv abhyānarṣat ta ṛṣayo'bhavan" (Taittirīya Āraṇyaka 2-9)*
 >
 > "In the beginning, those who performed austerity (tapas), having practiced it, became 'rishis' through the direct favour of the Self-existent [Svayambhu]."
 
 **In this same way**, through the grace of the Supreme Lord, the direct perception of the supra-sensory Veda [by the earliest seers] establishes their status as "rishi" — this much is affirmed.
 
-> युगान्ते चास्य निःश्वासादेतद्व्येतीहासात्तदृषयः । लेभिरे तपसा पूर्वमनुज्ञाताः स्वयंभुवेति ॥
-> *yugānte cāsya niḥśvāsād etad vyetīhāsāt tad ṛṣayaḥ | lebhire tapasā pūrvam anujñātāḥ svayambhuv eti ||* *(this closing verse likewise remains a best-effort reading)*
+> युगान्तेऽन्तर्हितान्वेदान्सेतिहासान्महर्षयः । लेभिरे तपसा पूर्वमनुज्ञाताः स्वयम्भुवेति ॥
+> *yugānte'ntarhitān vedān setihāsān maharṣayaḥ | lebhire tapasā pūrvam anujñātāḥ svayambhuveti ||*
+>
+> "At the end of the yuga the great seers, permitted beforehand by the Self-existent, regained through tapas the Vedas, together with the Itihāsas, that had disappeared." (gloss mine and tentative)
 
 **Now let us examine the discussion begun in the "agnimīḷe" sukta.** As stated in the Anukramanika: "**agniṃ nava madhucchandā vaiśvāmitriḥ**" — "agnimīḷe" is the first mantra in this sukta belonging to Vishvamitra's son [Madhuchandas]. Since this sukta's Rishi is the son of Vishvamitra, one should understand that a comparable status applies wherever this Rishi is cited.
 
