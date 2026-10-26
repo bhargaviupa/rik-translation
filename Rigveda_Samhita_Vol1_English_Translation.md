@@ -9329,14 +9329,14 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 
 > "Is the Veda of human origin? Yes, since it is known by titles such as Kathaka, and since it is made up of sentences that have the same nature as other sentences." — "No: these titles refer to men who taught the Veda, not composed it. And that other argument has already been refuted by the fact that no author's name is mentioned."
 
-**A doubt then arises:** hasn't the holy Badarayana himself stated that the Veda is the work of Brahman? — "śāstra-yonitvāt" (Vedanta Sutra 1.1.3), meaning Brahman is omniscient, having created the Rigveda and all other shastras. Granted — but this doesn't establish the Veda's *human* origin; it was not made by a [mere embodied] person. This same Badarayana, in the Devatā-adhikaraṇa section, establishes that for all beings who have not attained final liberation, the Veda is eternal, like the sky itself — "ata eva ca nityatvam" ("and for this very reason, its eternality follows").
+**A doubt then arises:** hasn't the holy Badarayana himself stated that the Veda is the work of Brahman? — "śāstra-yonitvāt" (Vedanta Sutra 1.1.3), meaning Brahman is omniscient, having created the Rigveda and all other shastras. Granted — but this doesn't establish the Veda's *human* origin; it was not made by a [mere embodied] person. This same Badarayana, in the Devatā-adhikaraṇa section, establishes that for all beings who have not attained final liberation, the Veda is eternal, like the sky itself — "ata eva ca nityatvam" (Ve. Sū. 1-2-29, as printed) ("and for this very reason, its eternality follows").
 
 **Both Shruti and Smriti confirm this:**
 
-> स्ह्रुति: "वाचा विरूपा नित्यया"
-> Shruti: "vācā virūpā nityayā" ("with speech, of varied form, eternal")
-> स्म्रिति: "अनादि-निधना नित्या वाग् उत्सृष्टा स्वयम्भुवा"
-> Smriti: "anādi-nidhanā nityā vāg utsṛṣṭā svayambhuvā" ("beginningless and endless, eternal is the speech emitted by the Self-existent One")
+> श्रुति: "वाचा विरूप नित्यया" (ऋ. सं. ८-७५-६)
+> *Śruti: "vācā virūpa nityayā" (Ṛ. Saṃ. 8-75-6)* ("with eternal speech, O Virūpa")
+> स्मृति: "अनादिनिधना नित्या वागुत्सृष्टा स्वयंभुवा । आदौ वेदमयी दिव्या यतः सर्वाः प्रवृत्तयः ॥" (ब्रह्मसूत्र शांकरभाष्य १-३-८२, as printed)
+> *Smṛti: "anādinidhanā nityā vāg utsṛṣṭā svayaṃbhuvā | ādau vedamayī divyā yataḥ sarvāḥ pravṛttayaḥ ||" (Brahmasūtra Śāṅkarabhāṣya 1-3-82, as printed)* ("beginningless and endless, eternal is the speech emitted by the Self-existent One; divine, made of the Veda, from which all activities proceed")
 
 **Therefore, no possibility of an authorial flaw arises for the Veda — it has no author at all. The authority of the Veda, comprising both mantra and Brahmana, thus stands firmly and unobstructedly established.**
 
@@ -9374,8 +9374,13 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 >
 > "But it may be objected: defining the Veda as 'consisting of mantra and Brahmana' is not sound, since it's impossible to determine the precise nature of these two categories. Not so — this has been clearly established in the seventh and eighth adhikaranas of the first pada of the second adhyaya [of Jaimini's Purva-Mimamsa-sutra]. The seventh adhikarana states—"
 
-> अस्त्य् एव बुध्निय मन्त्रं म इति मन्त्रस्य लक्षणं नास्त्य् अस्य वा नास्त्य् एतद् व्याख्या देवरवारणात् ॥
-> asty eva budhniya mantraṃ ma iti mantrasya lakṣaṇaṃ nāsty asya vā nāsty etad vyākhyā devaravāraṇāt ||
+> अहे बुध्निय मन्त्रं म इति मन्त्रस्य लक्षणम् । नास्त्यस्ति नास्य नास्त्येतदव्याप्त्यादेरवारणात् ॥ याज्ञिकानां समाख्यानं लक्षणं दोषवर्जितम् । तेऽनुष्ठानस्मारकादौ मन्त्रशब्दं प्रयुंजते ॥ (जै. न्या. २-१-७) ॥
+> *ahe budhniya mantraṃ ma iti mantrasya lakṣaṇam | nāsty asti nāsya nāsty etad avyāptyāder avāraṇāt || yājñikānāṃ samākhyānaṃ lakṣaṇaṃ doṣavarjitam | te 'nuṣṭhānasmārakādau mantraśabdaṃ prayuṃjate || (Jai. Nyā. 2-1-7) ||*
+>
+> आधान इदमाम्नायते । अहे बुध्निय मन्त्रं मे गोपाय (तै. ब्रा. १-२-१-२६) । इति । तत्र मन्त्रस्य लक्षणं नास्ति । अव्याप्त्यतिव्याप्त्योर्वारयितुमशक्यत्वात् । विहितार्थाभिधायको मन्त्र इत्युक्ते वसन्ताय कपिञ्जलानालभेत (वा. सं. २४-२०) इत्यस्य मन्त्रस्य विधिरूपत्वादव्याप्तिः । मननहेतुर्मन्त्र इत्युक्ते ब्राह्मणेऽतिव्याप्तिः । एवमसिपदान्तो मन्त्र उत्तमपुरुषान्तो मन्त्र इत्यादिलक्षणानां परस्परमव्याप्तिरिति चेत् मैवम् । याज्ञिकसमाख्यानस्य निर्दोषलक्षणत्वात् । तच्च समाख्यानमनुष्ठानस्मारकादीनां मन्त्रत्वं गमयति । उरु प्रथस्वेत्यादयोऽनुष्ठानस्मारकाः । अग्निमीळे पुरोहितमित्यादयः स्तुतिरूपाः । इषे त्वेत्यादयस्त्वान्ताः । अग्न आयाहि वीतय इत्यादय आमन्त्रणोपेताः । अग्नीदग्नीन्विहरेत्यादयः प्रैषरूपाः । अधः स्विदासीदुपरि स्विदासीदित्यादयो विचाररूपाः । अम्बे अम्बाल्यम्बिके न मा नयति कश्चन (तै. सं. ७-४-१९-१) इत्यादयः परिदेवना…
+> *ādhāna idam āmnāyate | ahe budhniya mantraṃ me gopāya (Tai. Brā. 1-2-1-26) | iti | tatra mantrasya lakṣaṇaṃ nāsti | avyāptyativyāptyor vārayitum aśakyatvāt | vihitārthābhidhāyako mantra ity ukte vasantāya kapiñjalān ālabheta (Vā. Saṃ. 24-20) ity asya mantrasya vidhirūpatvād avyāptiḥ | mananahetur mantra ity ukte brāhmaṇe 'tivyāptiḥ | evam asipadānto mantra uttamapuruṣānto mantra ityādilakṣaṇānāṃ parasparam avyāptir iti cet maivam | yājñikasamākhyānasya nirdoṣalakṣaṇatvāt | tac ca samākhyānam anuṣṭhānasmārakādīnāṃ mantratvaṃ gamayati | uru prathasvety ādayo 'nuṣṭhānasmārakāḥ | agnim īḷe purohitam ity ādayaḥ stutirūpāḥ | iṣe tvety ādayas tvāntāḥ | agna āyāhi vītaya ity ādaya āmantraṇopetāḥ | agnīd agnīn viharety ādayaḥ praiṣarūpāḥ | adhaḥ svid āsīd upari svid āsīd ity ādayo vicārarūpāḥ | ambe ambāly ambike na mā nayati kaścana (Tai. Saṃ. 7-4-19-1) ity ādayaḥ paridevanā…*
+>
+> *(Devanagari re-read from the print in the numeral pass; the earlier reading was garbled.)*
 >
 > *(This dense opening formulates the objection that no valid definition of "mantra" can be given without either over-including or under-including relevant cases — using the example text "ahe budhniya mantraṃ me" as a test case. The resolution then follows through Jaimini's own sutra 2.1.35, establishing "mananahetuḥ mantraḥ" — a mantra is that which serves as an instrument of "manana" (reflective recollection/mental application during ritual) — with Brahmana correspondingly defined, per sutra 2.1.33, as covering the remaining Vedic text not falling under this mantra-definition.)*
 
@@ -9399,6 +9404,11 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 
 
 ### Page 477
+
+> …रूपाः । पृच्छामि त्वा परमन्तं पृथिव्याः (तै. सं. ७-४-१८-२) इत्यादयः प्रश्नरूपाः । वेदिमाहुः परमन्तं पृथिव्याः (तै. सं. ७-४-१८-२) इत्यादय उत्तररूपाः । एवमन्यदप्युदाहार्यम् । ईदृशेष्वत्यन्तविजातीयेषु समाख्यानमन्तरेण नान्यः कश्चिदनुगतो धर्मोऽस्ति यस्य लक्षणत्वमुच्येत । लक्षणस्य चोपयोगः पूर्वाचार्यैर्दर्शितः । ऋषयोऽपि पदार्थानां नान्तं यान्ति पृथक्त्वशः । लक्षणेन तु सिद्धानामन्तं यान्ति विपश्चित इति । तस्मादभियुक्तानां मन्त्रोऽयमिति समाख्यानं लक्षणम् ॥
+> *…rūpāḥ | pṛcchāmi tvā param antaṃ pṛthivyāḥ (Tai. Saṃ. 7-4-18-2) ity ādayaḥ praśnarūpāḥ | vedim āhuḥ param antaṃ pṛthivyāḥ (Tai. Saṃ. 7-4-18-2) ity ādaya uttararūpāḥ | evam anyad apy udāhāryam | īdṛśeṣv atyantavijātīyeṣu samākhyānam antareṇa nānyaḥ kaścid anugato dharmo 'sti yasya lakṣaṇatvam ucyeta | lakṣaṇasya copayogaḥ pūrvācāryair darśitaḥ | ṛṣayo 'pi padārthānāṃ nāntaṃ yānti pṛthaktvaśaḥ | lakṣaṇena tu siddhānām antaṃ yānti vipaścita iti | tasmād abhiyuktānāṃ mantro 'yam iti samākhyānaṃ lakṣaṇam ||*
+>
+> *(Closing lines of the Sanskrit begun on p. 476, read from the print in the numeral pass; they were missing.)*
 
 Up to this point, matters of Veda-authority and apauruṣeyatva have been established through purva-paksha and siddhānta. As stated earlier, the Veda's own basic characterization — a text "consisting of mantra and Brahmana" — was raised in a general way; now the precise nature of each is determined. Since it might be objected that, within the vast body of Vedic text, one cannot actually distinguish which portion is mantra and which is Brahmana, Jaimini himself resolves this in the seventh and eighth adhikaranas of the second adhyaya's first pada (the Mantra-nirvacana-adhikaraṇa and Brahmaṇa-nirvacana-adhikaraṇa) of his own Purva-Mimamsa-sutra.
 
@@ -9433,16 +9443,16 @@ Up to this point, matters of Veda-authority and apauruṣeyatva have been establ
 At the Adhana rite (already explained on page 431), the mantra—
 
 > अहे बुध्निय मन्त्रं मे गोपाय ।
-> *ahe budhniya mantraṃ me gopāya |* (Taittiriya Brahmana 1.2.1.14)
+> *ahe budhniya mantraṃ me gopāya |* (Taittiriya Brahmana 1-2-1-26)
 
 —is recited. Here the question is raised: what is mantra's proper definition? Any such definition must avoid avyāpti and ativyāpti — but no such flawless definition can actually be stated. If mantra is defined as "a statement conveying an injunctive shastric meaning," the mantra—
 
 > वसन्ताय कपिञ्जलानालभेत ।
-> *vasantāya kapiñjalān ālabheta |* (Vajasaneyi Samhita 24.20)
+> *vasantāya kapiñjalān ālabheta |* (Vajasaneyi Samhita 24-20)
 
 —itself declaring a new injunction — would fail to qualify. If mantra is derived etymologically from "**मनन**" (*manana*, reflective mental deliberation), Brahmana statements would wrongly qualify too (ativyāpti). Definitions based on grammatical person (second-person vs. first-person endings) each exclude valid mantras of the other type. Given these compounding difficulties, mantra appears to have no coherent definition at all — and therefore [the objector concludes] such "mantras" cannot properly constitute part of the Veda. (This concludes the objection.)
 
-**The resolution:** not so. Whatever the priests declare to be "mantra" — that itself is mantra; this usage-based designation is itself the flawless defining mark, since it can be recognized alongside the already-understood procedures of ritual application. For example: "**उरु प्रथस्व**" (*uru prathasva*) and similar mantras convey the proper sequence of ritual performance...
+**The resolution:** not so. Whatever the priests declare to be "mantra" — that itself is mantra; this usage-based designation is itself the flawless defining mark, since it can be recognized alongside the already-understood procedures of ritual application. For example: "**उरु प्रथस्व**" (*uru prathasva*, Tai. Saṃ. 6-2-7-3) and similar mantras convey the proper sequence of ritual performance...
 
 ---
 
@@ -9455,14 +9465,14 @@ At the Adhana rite (already explained on page 431), the mantra—
 
 **A functional taxonomy of mantras, by type:**
 
-- **"अग्निमीळे पुरोहितम्"** (*Agnimīḷe purohitam*, Rigveda Samhita 1.1.1) and similar — **praise-form** mantras.
-- **"इषे त्वा"** (*Iṣe tvā*, Vajasaneyi Samhita 1.1) and similar — **"tvā"-ending** mantras (concluding with the word "tvā").
-- **"अग्न आयाहि वीतये"** (*Agna āyāhi vītaye*, Samaveda Samhita 1.1) and similar — **invocations**, calling the deities to come.
-- **"अग्नीदग्नीन्विहर"** (*Agnīd agnīn vihara*, Taittiriya Samhita 6.1.1.3) and similar — **preṣa (command)-form** mantras.
-- **"अधः स्विदासीदुपरि स्विदासीदु"** (*Adhaḥ svid āsīd upari svid āsīd u*, Rigveda Samhita 10.129.1) and similar — **philosophical** mantras, conveying ultimate truth (tattva).
-- **"अम्बे अम्बालिके न मा नयति कश्चन"** (*Ambe ambālike na mā nayati kaścana*, Taittiriya Samhita 3.4.1.1) and similar — **grief-expressing** mantras.
-- **"पृच्छामि त्वा परमं पृथिव्याः"** (*Pṛcchāmi tvā paramaṃ pṛthivyāḥ*, Taittiriya Samhita 4.7.8.3) and similar — **question-form** mantras.
-- **"वेदिमाच्छः परमं पृथिव्याः"** (*Vedim ācchaḥ paramaṃ pṛthivyāḥ*, Taittiriya Samhita 4.7.8.3) and similar — **answer-form** mantras.
+- **"अग्निमीळे पुरोहितम्"** (*Agnimīḷe purohitam*, Rigveda Samhita 1-1-1) and similar — **praise-form** mantras.
+- **"इषे त्वा"** (*Iṣe tvā*, Vajasaneyi Samhita 1-1) and similar — **"tvā"-ending** mantras (concluding with the word "tvā").
+- **"अग्न आयाहि वीतये"** (*Agna āyāhi vītaye*, Samaveda Samhita 1-1) and similar — **invocations**, calling the deities to come.
+- **"अग्नीदग्नीन्विहर"** (*Agnīd agnīn vihara*, Taittiriya Samhita 6-3-1-2) and similar — **preṣa (command)-form** mantras.
+- **"अधः स्विदासीदुपरि स्विदासीदु"** (*Adhaḥ svid āsīd upari svid āsīd u*, Rigveda Samhita 10-129-1) and similar — **philosophical** mantras, conveying ultimate truth (tattva).
+- **"अम्बे अम्बालिके न मा नयति कश्चन"** (*Ambe ambālike na mā nayati kaścana*, Taittiriya Samhita 7-4-19-1) and similar — **grief-expressing** mantras.
+- **"पृच्छामि त्वा परमं पृथिव्याः"** (*Pṛcchāmi tvā paramaṃ pṛthivyāḥ*, Taittiriya Samhita 7-4-18-2) and similar — **question-form** mantras.
+- **"वेदिमाच्छः परमं पृथिव्याः"** (*Vedim āhuḥ paramaṃ pṛthivyāḥ*, Taittiriya Samhita 7-4-18-2) and similar — **answer-form** mantras.
 
 Many more examples could be given. Given such genuinely diverse statements, no single characteristic — beyond simple designation (whatever priests customarily call "mantra") — can be stated as a definition without falling into ativyāpti or avyāpti. What, then, is a definition even for? A defining mark, as a tool for recognizing things, ideally applies uniformly — and the great importance of this requirement was shown long ago by the ancient teachers:
 
