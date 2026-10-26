@@ -13988,6 +13988,8 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 **This Rik's meaning is straightforward** — it contains nothing difficult or ambiguous. Since it is said that Agni exists both on earth and in heaven, the principal rishi here prays that Agni bring the deities dwelling in heaven down to the sacrificial altar.
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-3-17, 8-3-19, 8-2-1, 5-3-11, 3-1-34, 3-4-94, 2-1.)*
+
 ### Page 624
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
@@ -14008,6 +14010,8 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 *(This section opens the grammatical derivation of "pūrvebhiḥ" and the remaining words of Rik 2, in the same dense sutra-citation register as before.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 7-1-9, 7-1-10, 7-3-103.)*
+
 ### Page 625
 
 *(This page continues the grammatical derivation of "pūrvebhiḥ," "ṛṣibhiḥ," and "nūtanaiḥ" in the same dense register as before — working through affix-application, accent-rules, and the specific declined forms, with the derivation of "ṛṣi" itself touched on again in connection with the rishi-etymology discussed earlier in this project (see printed page 602 above, the "ṛṣ" root discussion). The page also appears to discuss variant grammatical schools' differing accounts of how "pūrvebhiḥ" receives its instrumental-plural accent. Consistent with the cautious approach maintained throughout this technical register, the specific chain of numbered sutra-citations here is not reproduced verbatim.)*
@@ -14016,13 +14020,19 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 **Pacing note:** the grammar-heavy pages (619-621, 624-625) continue to be handled with the same "confirm what's clear, summarize/hedge the dense sutra-chains" approach established two sessions ago. This is working reasonably well as a sustainable rhythm, though it does mean roughly half of each verse's total page-count receives lighter treatment than the discursive Sayana-bhashya and Vishesha-vishaya sections do.
 **Target for next session:** continue forward from PDF page 654 / printed page 626 — likely completing Rik 2's grammar and moving to Rik 3.
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-2-78, 6-1-197, 3-1-4, 1-2-40, 4-557, 7-3-86, 3-1-91, 4-1-144, 6-1-197, 4-559, 1-1-5.)*
+
 ### Page 626
 
 *(This page continues the dense grammatical derivation of "nūtanaiḥ" and "uta," working through affix-formation and accent rules via the standard sutra-citation register. It touches briefly on the classification of "ṛṣi" as belonging to a specific noun-group (gaṇa) for declension purposes, and discusses accent-retention rules for compounds ending in these forms. Consistent with the established approach for this register, the specific numbered citations are not reproduced verbatim here.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 3-1-124, 6-1-185, 6-1-214, 8-2-66, 6-1-114, 5-4-30, 80, 82.)*
+
 ### Page 627
 
 *(This page continues the dense grammatical derivation, now working through "saḥ," "devān," and the verb "vakṣati" — covering pronoun-declension rules, the "ṛ→ar" substitution for roots of this class, and accent-retention through the Ashtadhyayi's internal "asiddha" (treated-as-not-yet-applied) rule for certain sandhi operations. As with the preceding grammar-heavy pages, the specific numbered sutra-chain is not reproduced verbatim here, consistent with the cautious approach maintained for this register throughout this project.)*
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 6-1-102, 6-1-103, 8-3-39, 8-3-3, 8-3-2, 8-3-17, 8-3-19, 8-2-1, 5-3-11, 5-3-3, 3-1-33, 8-3-59, 3-4-34, 3-4-94.)*
 
 ### Page 628
 
@@ -14054,6 +14064,8 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 *(The remainder of this page continues into the grammatical derivation, in the same dense register as before.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-2-31, 8-2-41, 3, 3-4-97, 3-4-94, 6-1-197, 4-14, 7-1-39, 6-1-168, 6-1-171, 8-1-4, 8-1-3, 5-2-127.)*
+
 ### Page 629
 
 *(The grammatical-derivation section concludes at the top of this page.)*
@@ -14076,6 +14088,8 @@ When the Hotṛ praises Agni, may Agni, pleased by this praise, bestow upon the 
 
 **The Hotṛ, having praised Agni, prays that Agni may graciously grant the sacrificer wealth and prosperity, fame, and brave sons, servants, and the like.** The sense is that whatever wealth Agni gives should increase day by day, and never diminish. Alternatively, through the specific phrase "**dive-dive**" (on every single day), the further sense emerges: may Agni continue giving such wealth on each and every day, without interruption.
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 6-1-176, 6-1-182.)*
+
 ### Page 630
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
@@ -14083,12 +14097,12 @@ When the Hotṛ praises Agni, may Agni, pleased by this praise, bestow upon the 
 **"Rayim" means wealth, as the Nirukta itself states.** The word "**rāyaḥ**" expresses this same sense. "Rāyaḥ" is commonly paired with the word "**poṣa**" throughout the Vedas. For example:
 
 > रायस्पोषं यजमानेषु धत्तम् । रायस्पोषेण सचीय सुवीरः ।
-> *rāyas poṣaṃ yajamāneṣu dhattam | rāyas poṣeṇa sacīya suvīraḥ |* (Rigveda Samhita 7-43-3[?]; 1-151-1[?])
+> *rāyas poṣaṃ yajamāneṣu dhattam* (Rigveda Samhita 8-59-7) | *rāyas poṣeṇa sacate suvīraḥ* (Rigveda Samhita 1-125-1)
 
 — and so on. **Here, the Bhashyakara explains "poṣa" as "abhivṛddhi" (increase).** This meaning fits well here, though "poṣa" often carries a somewhat distinct sense elsewhere in the Rigveda:
 
 > भूरि पोषं स धत्ते वीरवद्गृहः । दधद् रयिं मयि पोषम् । पोषं रयीणामरिष्टिं तनूनाम् ।
-> *bhūri poṣaṃ sa dhatte vīravad gṛhaḥ | dadhad rayiṃ mayi poṣam | poṣaṃ rayīṇām ariṣṭiṃ tanūnām |* (Rigveda Samhita 8-23-21[?]; 7-66-11[?]; 3-51-8[?])
+> *bhūri poṣaṃ sa dhatte vīravad yaśaḥ* (Rigveda Samhita 8-23-21) | *dadhad rayiṃ mayi poṣam* (Rigveda Samhita 9-66-1) | *poṣaṃ rayīṇām ariṣṭiṃ tanūnām* (Rigveda Samhita 2-21-6) *(quotations and references re-read in the numeral pass; the Kannada also cites Nirukta 2-11-8 for "maghaṃ" and other words for wealth)*
 
 **In these verses, "poṣa" primarily means "nourishment, plumpness," though the sense of "increase" is also implied.**
 
@@ -14104,6 +14118,8 @@ When the Hotṛ praises Agni, may Agni, pleased by this praise, bestow upon the 
 
 *(This section opens the grammatical derivation of "vāpuḥ," "poṣam," "aśnavat," and the remaining words of Rik 3, in the same dense sutra-citation register as before.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 1-1, 3-1-73, 3-4-97, 7-3-84, 6-1-78.)*
+
 ### Page 631
 
 *(This page works through the grammatical derivation of "poṣam," "aśnavat," and "dive-dive" in detail. One confirmable point of real interest: the grammatical analysis explicitly confirms that "dive-dive" is formed through reduplication under the rule "**nityaṃ vīpsayoge**" (Panini 8-1-4) — governing "vīpsā," the sense of distributive repetition ("in each and every instance") — with the second occurrence of "dive" becoming anudātta per the standard rule for such reduplicated pairs. This directly confirms the explanation already given in the Viśeṣārtha on the previous page (that "dine-dine"-type reduplication conveys "on every single day," paralleling "ahar-ahaḥ" and "pade-pade"). The remainder of the page continues into the grammatical derivation of "yaśasam" and "vīravattamam" in the same dense register as before, not reproduced verbatim here.)*
@@ -14115,6 +14131,8 @@ When the Hotṛ praises Agni, may Agni, pleased by this praise, bestow upon the 
 **Confidence note:** the grammar-heavy pages (626, 627, 631) continue to receive summary-level treatment per the established approach; pages 628-630 (Sayana's bhashya through Vishesha-vishayas) received full confident translation, consistent with the pattern that discursive content translates far more reliably than dense sutra-citation strings.
 
 **Target for next session:** continue forward from PDF page 660 / printed page 632 — likely Rik 3's remaining grammar and/or the start of Rik 4.
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 1-1, 8-1-28, 3-3-121, 7-1-39, 6-1-168, 6-1-171, 8-1-4, 8-1-3, 5-2-127, 3-1-85, 6-1-176, 6-1-182.)*
 
 ### Page 632 — The Fourth Mantra of the Rigveda
 
@@ -14148,6 +14166,8 @@ When the Hotṛ praises Agni, may Agni, pleased by this praise, bestow upon the 
 
 O Agni, you remain present in the four directions of this sacrificial altar in the form of the four fires — Āhavanīya, Mārjālīya, Gārhapatya, and Āgnīdhrīya — and, keeping watch all around as well, you protect this yajna from the rākṣasas and other beings who would seek to destroy it. This yajna, protected by you, reaches the deities dwelling in heaven and brings them joy.
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 4, 6-1-198, 6-2-172, 6-1-193, 6-2-2, 6-2-139, 8-1-66.)*
+
 ### Page 633
 
 **॥ English Translation ॥**
@@ -14164,7 +14184,7 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 **In this Rik, both "adhvaram" and "yajñam" are used — both meaning "yajna."** Since two words of identical sense are used together, the Bhashyakara treats "adhvaram" as a qualifying epithet of "yajña": "**dhvara**" means violence/injury, and "a-dhvara" is that which is free of it — hence, "a yajna free from violence." **This kind of qualifier-qualified pairing is quite rare in the Rigveda**; the word "adhvara" is much more commonly used on its own, carrying the independent sense of "yajna," as in:
 
 > स होता विश्वं परि भूषदध्वरम् । अस्माकं च स्तुषे अध्वरमस्माकं यज्ञमङ्गिरः ।
-> *sa hotā viśvaṃ pari bhūṣad adhvaram | asmākaṃ ca stuṣe adhvaram asmākaṃ yajñam aṅgiraḥ |* (Rigveda Samhita 3-3-8[?]; 4-7-2[?])
+> *sa hotā viśvaṃ pari bhūṣad adhvaram | asmākaṃ ca stuṣe adhvaram asmākaṃ yajñam aṅgiraḥ |* (Rigveda Samhita 2-2-5; 4-9-7)
 
 **It is from this very word "adhvara" that "Adhvaryu" arises** — since this priest specifically carries out the practical tasks of the "adhvara" (the yajna), he bears this name.
 
@@ -14179,6 +14199,8 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 ...continuing across the whole anuvāka, naming Agni's distinct forms and functions at each of the several fire-stations described above.
 
+*(The Kannada on this page cites Āśvalāyana Sūtra 7-8 for the application ("… agne yaṃ yajñam adhvaram").)*
+
 ### Page 634
 
 *(The Taittiriya Samhita litany from the previous page continues at the top of this page.)*
@@ -14190,7 +14212,7 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 **Elsewhere in the Taittiriya Samhita:**
 
 > परिभूरस्मि ।
-> *paribhūr asmi |* (Taittiriya Samhita 1-3-1[?])
+> *paribhūr asmi |* (Taittiriya Samhita 1-3-3)
 > "I am the one who protects in every direction" — spoken of Agni.
 
 **There are as many such examples as one could wish.**
@@ -14201,7 +14223,9 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-**"Agne" is vocative singular.** By the rule "**āmantritam**" (Panini 3-1-47[?]) — a vocative-case form receives the technical designation "āmantrita" — this designation applies here. Then, by the rule "**āmantritasya ca**" (Panini 8-1-19[?]) — the initial syllable of an āmantrita word takes udātta accent — the initial syllable [of "agne" accordingly becomes udātta]...
+**"Agne" is vocative singular.** By the rule "**āmantritam**" (Panini 2-1-48, as printed) — a vocative-case form receives the technical designation "āmantrita" — this designation applies here. Then, by the rule "**āmantritasya ca**" (Panini 6-1-198) — the initial syllable of an āmantrita word takes udātta accent — the initial syllable [of "agne" accordingly becomes udātta]...
+
+*(The Kannada also cites Taittirīya Saṃhitā 3-2-3 ("paribhūr agnim"); further grammar references on this page, in order: 6-2-172, 5-3-7, 6-2-2 (as read in the numeral review).)*
 
 ### Page 635
 
@@ -14223,6 +14247,8 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 > देवः । देवेभिः । आ । गमत् ॥५॥
 
 **॥ The Fifth Mantra of the Rigveda — its Sāyaṇa-bhāṣya and full apparatus follow on the next page.**
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 6-2-2, 6-2-139, 8-1-66, 2-3-68, 2-2-13, 8-1-67, 5.)*
 
 ### Page 636
 
@@ -14254,6 +14280,8 @@ This Agni, whom we praise, alone is able to bring the other deities here, since 
 **Pacing note:** this batch's discursive content (bhashya, Pratipadartha, Bhavartha, Vishesha-vishayas) was unusually rich and translated with full confidence throughout; the grammar-heavy stretches (parts of pages 635) continue to receive the established summary treatment.
 
 **Target for next session:** continue forward from PDF page 665 / printed page 637 — likely Rik 5's Vishesha-vishayas and grammar, then Rik 6.
+
+*(A grammar reference on this page is printed as 5-4-66 (as read in the numeral review).)*
 
 ### Page 637
 
