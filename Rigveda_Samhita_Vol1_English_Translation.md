@@ -7784,7 +7784,12 @@ Just as karma-kāṇḍa contains contradictions, the brahma-kāṇḍa does too
 
 ### Page 420
 
-> फलसिद्ध्यर्थमपूर्वं निर्णीतम् (Purva Mimamsa 2.1.3) इति पूर्वमीमांसायां प्रथमाध्यायस्य चतुर्थपादे कारणत्वेन चाकाशादिषु यथा व्यवदिष्टोक्तेः (Vedanta Sutra 1.4.14) इत्येष्टसूत्रे जगत्कारणे परमात्मनि श्रुतेर्विप्रतिपत्तिर्निराकृता । द्वितीयस्याध्यायस्य प्रथमपादारम्भाधिकरणे कैत्स्न्यपदेशान्नेति चेन्न धर्मान्तरेण वाक्यशेषात् (Vedanta Sutra 2.1.24[?]) इति सूत्रे तैत्तिरीयवाक्यगतस्यासच्छब्दस्य न शून्यपरत्वं किंत्वव्याकृत-स्थावस्थेति निर्णीतम् । तथा जैमिनिस्तोऽभिनवसूत्रे विधिश्च वाक्यं धर्मे प्रमाणमिति प्रतिज्ञायोक्ष्टिकसूत्रे तत्प्रामाण्यं समर्थयामास (Purva Mimamsa 1.1.5[?]) व्यासोऽपि शास्त्रयोनित्वसूत्रे (Vedanta Sutra 1.1.3) वेदान् शास्त्रस्य प्रामाण्यं प्रतिज्ञाय, तत्तु समन्वयात् (Vedanta Sutra 1.1.4) इत्यादिसूत्रैः समर्थयामास । तस्मादमीमांसकस्य कव पूर्वोक्तस्कान्यो दुष्परिहारः । अको विधिभागस्य प्रामाण्यं सुस्थितम् ॥
+> फलसिद्ध्यर्थमपूर्वं निर्णीतम् (Purva Mimamsa 2-1-5) इति पूर्वमीमांसायां प्रथमाध्यायस्य चतुर्थपादे कारणत्वेन चाकाशादिषु यथा व्यवदिष्टोक्तेः (Vedanta Sutra 1.4.14) इत्येष्टसूत्रे जगत्कारणे परमात्मनि श्रुतेर्विप्रतिपत्तिर्निराकृता । द्वितीयस्याध्यायस्य प्रथमपादारम्भाधिकरणे कैत्स्न्यपदेशान्नेति चेन्न धर्मान्तरेण वाक्यशेषात् (Vedanta Sutra 2-1-17) इति सूत्रे तैत्तिरीयवाक्यगतस्यासच्छब्दस्य न शून्यपरत्वं किंत्वव्याकृत-स्थावस्थेति निर्णीतम् । तथा जैमिनिस्तोऽभिनवसूत्रे विधिश्च वाक्यं धर्मे प्रमाणमिति प्रतिज्ञायोक्ष्टिकसूत्रे तत्प्रामाण्यं समर्थयामास (Purva Mimamsa 1-1-2-5) व्यासोऽपि शास्त्रयोनित्वसूत्रे (Vedanta Sutra 1.1.3) वेदान् शास्त्रस्य प्रामाण्यं प्रतिज्ञाय, तत्तु समन्वयात् (Vedanta Sutra 1.1.4) इत्यादिसूत्रैः समर्थयामास । तस्मादमीमांसकस्य कव पूर्वोक्तस्कान्यो दुष्परिहारः । अको विधिभागस्य प्रामाण्यं सुस्थितम् ॥
+>
+> अर्थवादभागस्य प्रामाण्यं महता प्रयत्नेन जैमिनिः समर्थयामास तत्सूत्राणि व्याख्यास्यन्ते । (पू. मी. १-२-१ — १८) तत्र पूर्वपक्षं सूत्रयति ॥
+> *arthavādabhāgasya prāmāṇyaṃ mahatā prayatnena jaiminiḥ samarthayāmāsa tatsūtrāṇi vyākhyāsyante | (Pū. Mī. 1-2-1 — 18) tatra pūrvapakṣaṃ sūtrayati ||*
+>
+> "Jaimini established with great effort the authority of the arthavāda portion; his sutras (Pū. Mī. 1-2-1 to 18) will be explained. There he first states the objection." *(Sentence added in the numeral pass; missing before.)*
 >
 > *(A capstone argument citing the Vedanta-sutra and Purva-Mimamsa-sutra by name: showing that the apparent contradiction over the world's cause is resolved because "asat" (non-being) in the Taittiriya passage doesn't mean literal nothingness but rather the unmanifest/undifferentiated state — consistent with the Self being the world's true cause; and that both Jaimini and Vyasa establish the Veda's authority through their respective sutra-systems. The overall conclusion: the entire vidhi-portion's authority stands firmly established.)*
 
@@ -7947,7 +7952,7 @@ This second meaning is the better-known one; the first is merely the general sen
 The apparent mutual contradiction is not genuine — it only appears so on the surface; all seemingly conflicting statements must be harmonized as ultimately pointing to the Supreme Self. Indeed, most of the Brahma-sutras exist precisely to resolve such apparent contradictions. As the Nirukta states, for one unfamiliar with Mimamsa-shastra:
 
 > "नैष स्थाणोर् अपराधो यद् एनम् अन्धो न शक्नोति"
-> "naiṣa sthāṇor aparādho yad enam andho na śaknoti" (Nirukta, Naighantuka-kanda, Purvapada 1.1)
+> "naiṣa sthāṇor aparādho yad enam andho na śaknoti" (Nirukta, Naighantuka-kanda, Purvashatka 1-5-1)
 >
 > "It is not the post's fault that a blind man cannot see it."
 
@@ -7973,18 +7978,18 @@ That is: if a blind man fails to see the tree-stump before him, the fault isn't 
 
 ### Page 426
 
-> ...अर्थवादा इवम् आम्नायन्ते । सोऽरोदीद् यद् अरोदीत् तद् रुद्रस्य रुद्रत्वम् (तैत्तिरिय सम्हित १.३.१[?]) । स आत्मनो वपाम् उदखिदत् (तैत्तिरिय सम्हित २.१.१[?]) । देवा वै देवयजनम् अध्यवसाय दिशो न प्राजानन् (तैत्तिरिय सम्हित ६.१.३[?]) इति । यस्माद् ईदृशस्य वाक्यस्य विवक्षितार्थः कश्चिद् अपि नास्ति तस्माद् इदं वाक्यम् अनित्यम् उच्यते ।
-> ...arthavādā ivam āmnāyante | so'rodīd yad arodīt tad rudrasya rudratvam (Taittiriya Samhita 1.3.1[?]) | sa ātmano vapām udakhidat (Taittiriya Samhita 2.1.1[?]) | devā vai devayajanam adhyavasāya diśo na prājānan (Taittiriya Samhita 6.1.3[?]) iti | yasmād īdṛśasya vākyasya vivakṣitārthaḥ kaścid api nāsti tasmād idaṃ vākyam anityam ucyate |
+> ...अर्थवादा इवम् आम्नायन्ते । सोऽरोदीद् यद् अरोदीत् तद् रुद्रस्य रुद्रत्वम् (तैत्तिरिय सम्हित १-५-१-१) । स आत्मनो वपाम् उदखिदत् (तैत्तिरिय सम्हित २-१-१-४) । देवा वै देवयजनम् अध्यवसाय दिशो न प्राजानन् (तैत्तिरिय सम्हित ६-१-५-१) इति । यस्माद् ईदृशस्य वाक्यस्य विवक्षितार्थः कश्चिद् अपि नास्ति तस्माद् इदं वाक्यम् अनित्यम् उच्यते ।
+> ...arthavādā ivam āmnāyante | so'rodīd yad arodīt tad rudrasya rudratvam (Taittiriya Samhita 1-5-1-1) | sa ātmano vapām udakhidat (Taittiriya Samhita 2-1-1-4) | devā vai devayajanam adhyavasāya diśo na prājānan (Taittiriya Samhita 6-1-5-1) iti | yasmād īdṛśasya vākyasya vivakṣitārthaḥ kaścid api nāsti tasmād idaṃ vākyam anityam ucyate |
 >
 > *(Introducing three specific arthavada examples cited as apparently meaningless: "he wept — that is Rudra's Rudra-ness"; "he removed his own layer of fat"; "the gods, having settled on the sacrificial ground, did not yet know the directions." Since such passages seem to convey no genuine intended meaning, the objection concludes they are "anitya" — lacking the eternal authoritative status of the rest of the Veda, even if not literally separate from it.)*
 
 Sutra's meaning: since all Vedic statements are established as pointing to ritual action, arthavāda statements — those unrelated to any ritual act — carry no genuine intended meaning at all, and are therefore called "anitya" (non-eternal/non-authoritative) — this is the objection. While all Vedic statements are meant to convey ritual action, the Veda also contains passages like these:
 
-**(1)** "so'rodīd yad arodīt tad rudrasya rudratvam" (Taittiriya Samhita 1.3.1) — "He wept; because he wept, that is Rudra's own Rudra-ness [i.e., the origin of his name]."
+**(1)** "so'rodīd yad arodīt tad rudrasya rudratvam" (Taittiriya Samhita 1-5-1) — "He wept; because he wept, that is Rudra's own Rudra-ness [i.e., the origin of his name]."
 
-**(2)** "sa ātmano vapām udakhidat" (Taittiriya Samhita 2.1.1) — "He peeled off his own layer of fat and cast it away."
+**(2)** "sa ātmano vapām udakhidat" (Taittiriya Samhita 2-1-1) — "He peeled off his own layer of fat and cast it away."
 
-**(3)** "devā vai devayajanam adhyavasāya diśo na prājānan" (Taittiriya Samhita 6.1.3) — "The gods, having settled upon the sacrificial ground, did not [yet] know the directions."
+**(3)** "devā vai devayajanam adhyavasāya diśo na prājānan" (Taittiriya Samhita 6-1-5) — "The gods, having settled upon the sacrificial ground, did not [yet] know the directions."
 
 ---
 
@@ -8004,7 +8009,7 @@ Sutra's meaning: since arthavādas contradict both shastra and direct experience
 > शास्त्र-विरोधो दृष्ट्य्-अविरोधः शास्त्र-दृष्ट्य्-अविरोध इति त्रिविधो विरोधोऽर्थवादेष्व् उपलभ्यते । तथा हि । स्तेनं मनोऽनृतवादिनी वाग् इत्य् अत्र क्रियमाणं मानसं चौर्यं वाचिकम् अनृत-वदनं च प्रतिषेध-शास्त्रेण विरुद्धम् ।
 > śāstra-virodho dṛṣṭy-avirodhaḥ śāstra-dṛṣṭy-avirodha iti trividho virodho'rthavādeṣv upalabhyate | tathā hi | stenaṃ mano'nṛtavādinī vāg ity atra kriyamāṇaṃ mānasaṃ cauryaṃ vācikam anṛta-vadanaṃ ca pratiṣedha-śāstreṇa viruddham |
 >
-> *(Establishing three kinds of contradiction found in arthavādas: contradiction with shastra, contradiction with direct sensory observation, and contradiction between one shastra passage and another. The example given: "stenaṃ mano'nṛtavādinī vāk" ("the mind is a thief, speech a teller of lies") — contradicting the prohibitive shastra rules against theft and lying, since it seems to claim the mind and speech, not the person, commit these acts.)*
+> *(Establishing three kinds of contradiction found in arthavādas: contradiction with shastra, contradiction with direct sensory observation, and contradiction between one shastra passage and another. The example given: "stenaṃ mano'nṛtavādinī vāk" ("the mind is a thief, speech a teller of lies") — contradicting the prohibitive shastra rules against theft and lying, since it seems to claim the mind and speech, not the person, commit these acts. The further passages cited in the Sanskrit are given as (Tai. Brā. 2-1-2), (Mai. Saṃ. 1-4-11) and (Tai. Saṃ. 6-1-1-1).)*
 
 Sutta's meaning: since arthavādas contradict both shastra and direct experience, the arthavāda-portion cannot be authoritative — this establishes a threefold taxonomy of contradiction found across various arthavāda passages, to be worked through with specific examples.
 
@@ -8037,7 +8042,7 @@ Statements like "so'rodīt" might lack authority regarding dharma-matters specif
 **Dṛṣṭi-virodha** (contradiction with direct experience):
 
 > तस्माद्धूम एवाग्नेर्दिवा दृश्यते । नार्चिः । तस्मादर्चिरेवाग्नेर्नक्तं दृश्यते । न धूमः ॥
-> *tasmād dhūma evāgner divā dṛśyate | nārciḥ | tasmād arcir evāgner naktaṃ dṛśyate | na dhūmaḥ ||* (Taittiriya Brahmana 3.6.1.4)
+> *tasmād dhūma evāgner divā dṛśyate | nārciḥ | tasmād arcir evāgner naktaṃ dṛśyate | na dhūmaḥ ||* (Taittiriya Brahmana 2-1-12)
 > "By day only smoke is seen, not flame; by night only flame is seen, not smoke" — contradicting our ordinary observation.
 
 > न चैतद्विद्मो वयं ब्राह्मणा वा स्मोऽब्राह्मणा वा ॥
@@ -8067,8 +8072,8 @@ In this way, since these passages contradict shastra and experience, the arthav�
 
 ### "Tathā phalābhāvāt" (Jaimini Sutra 1.2.3)
 
-> यथा मानान्तर-विरुद्धम् अर्थवाद्य् उक्तं तथा फलम् अस्याप्य् अविद्यमानम् एव दृश्यते । तथा हि गर्गत्रिरात्रं प्रशत्यै क्रियते । क्षोभक्रेष्य मुखं य एवं वेदेति (तन्द्य महब्रह्मन २०.४.३[?]) दर्श-पूर्णमासयोर् वेदाभिमर्शनं प्रशत्यै क्रियते । अस्य प्रजायां वाजी जायते य एवं वेदेति । न च वयं वेदितॄणां तत्-फलम् उपलभामहे ।
-> yathā mānāntara-viruddham arthavādy uktaṃ tathā phalam asyāpy avidyamānam eva dṛśyate | tathā hi gargatrirātraṃ praśatyai kriyate | kṣobhakreṣya mukhaṃ ya evaṃ vedeti (Tandya Mahabrahmana 20.4.3[?]) darśa-pūrṇamāsayor vedābhimarśanaṃ praśatyai kriyate | asya prajāyāṃ vājī jāyate ya evaṃ vedeti | na ca vayaṃ veditṝṇāṃ tat-phalam upalabhāmahe |
+> यथा मानान्तर-विरुद्धम् अर्थवाद्य् उक्तं तथा फलम् अस्याप्य् अविद्यमानम् एव दृश्यते । तथा हि गर्गत्रिरात्रं प्रशत्यै क्रियते । क्षोभक्रेष्य मुखं य एवं वेदेति (तन्द्य महब्रह्मन २०-१६-६) दर्श-पूर्णमासयोर् वेदाभिमर्शनं प्रशत्यै क्रियते । अस्य प्रजायां वाजी जायते य एवं वेदेति । न च वयं वेदितॄणां तत्-फलम् उपलभामहे ।
+> yathā mānāntara-viruddham arthavādy uktaṃ tathā phalam asyāpy avidyamānam eva dṛśyate | tathā hi gargatrirātraṃ praśatyai kriyate | kṣobhakreṣya mukhaṃ ya evaṃ vedeti (Tandya Mahabrahmana 20-16-6) darśa-pūrṇamāsayor vedābhimarśanaṃ praśatyai kriyate | asya prajāyāṃ vājī jāyate ya evaṃ vedeti | na ca vayaṃ veditṝṇāṃ tat-phalam upalabhāmahe |
 >
 > *(Establishing that just as some arthavādas contradict other proofs, others promise fruits that simply aren't observed in practice — the "Gargatriratra" ritual promising renown, and the darsha-purnamasa's mantra-repetition promising a swift, vigorous descendant, neither being confirmed by actual experience among those who know these rites.)*
 
@@ -8124,7 +8129,7 @@ If authority is granted to even one other-worldly-fruit statement, then since it
 
 > पूर्णाहुत्या सर्वान् कामानवाप्नोति ।
 > *pūrṇāhutyā sarvān kāmān avāpnoti |*
-> "By the Purnahuti (final oblation), one attains all desires." — "It suffices to perform the Purnahuti; all desired ends are fully accomplished." (Taittiriya Brahmana 1.6.10.3)
+> "By the Purnahuti (final oblation), one attains all desires." — "It suffices to perform the Purnahuti; all desired ends are fully accomplished." (Taittiriya Brahmana 3-8-10-5)
 
 **2.**
 
@@ -8136,7 +8141,7 @@ If authority is granted to even one other-worldly-fruit statement, then since it
 
 > तरति मृत्युं तरति पाप्मानं तरति ब्रह्महत्यां योऽश्वमेधेन यजते य उ चैनमेवं वेदेति ।
 > *tarati mṛtyuṃ tarati pāpmānaṃ tarati brahma-hatyāṃ yo'śvamedhena yajate ya u cainam evaṃ vedeti |*
-> "He crosses beyond death, sin, and the killing of a brahmin, who performs the Ashvamedha and understands it correctly." — "One who performs the Ashvamedha yajna — even one who merely knows its proper procedure — is capable of conquering death and removing sins. More than that: even the grave fault of killing a brahmin is thereby removed." (Taittiriya Samhita 5.3.12.3)
+> "He crosses beyond death, sin, and the killing of a brahmin, who performs the Ashvamedha and understands it correctly." — "One who performs the Ashvamedha yajna — even one who merely knows its proper procedure — is capable of conquering death and removing sins. More than that: even the grave fault of killing a brahmin is thereby removed." (Taittiriya Samhita 5-3-12-2)
 
 Every householder must perform the rite called **Agnyadheya** before he becomes qualified to perform Agnihotra. If performing just one Purnahuti — itself only a component of the Agnyadheya rite — already fulfills every desired end, what purpose do the subsequent Agnihotra and related rites even serve?
 
@@ -8157,7 +8162,7 @@ When all worlds are attained through the pashubandha yajna alone, what special b
 
 Vedic yajnas are of two kinds: **(1) Shrauta-yajna** and **(2) Grihya-yajna**. Taking Grihya-yajnas first — also called **Pakayajnas** — their procedures are described across various Grihya-sutras, using the fire called "Grihyagni." Pakayajnas exist in seven varieties (samsthas) across all traditions — no more, no less:
 
-**Per the Gobhila Brahmana (1.4.3):**
+**Per the Gopatha Brahmana (1-5-23):**
 1. सायंप्रातर्होम (*Sāyaṃprātar-homa*) 2. स्थालीपाक (*Sthālīpāka*) 3. नवयज्ञ (*Navayajña*) 4. बलि/वैश्वदेवबलि (*Bali*/*Vaiśvadeva-bali*) 5. पितृयज्ञ (*Pitṛyajña*) 6. अष्टक (*Aṣṭaka*) 7. पशु (*Paśu*)
 
 **Per the Gautama Dharmasutra (1.8.10):**
@@ -8179,16 +8184,16 @@ Pakayajnas differ according to each branch's own tradition. Among Shrauta-yajnas
 
 **हविर्यज्ञ (Havir-yajña)** number seven across all traditions — no disagreement on the count, though which specific rites are included varies by school:
 
-**(1) Per Sayanacharya's own Aitareya-Brahmana-bhashya (2.1):**
+**(1) Per Sayanacharya's own Aitareya-Brahmana-bhashya (Ai. Brā. Bhā. 5-7):**
 अग्न्याधेय (*Agnyādheya*), अग्निहोत्र (*Agnihotra*), दर्शपूर्णमास (*Darśa-pūrṇamāsa*), आग्रयण (*Āgrayaṇa*), चातुर्मास्य (*Cāturmāsya*), दाक्षायणयज्ञ (*Dākṣāyaṇa-yajña*), कौण्डपायिनायन/सौत्रामणि (*Kauṇḍapāyina-māyana* or *Sautrāmaṇi*)
 
 **(2) Per Dhurtasvami's Yajna-paribhasha-sutra commentary:**
 अग्निहोत्र (*Agnihotra*), दर्शपूर्णमास (*Darśa-pūrṇamāsa*), आग्रयण (*Āgrayaṇa*), पिण्डपितृयज्ञ (*Piṇḍa-pitṛyajña*), चातुर्मास्य (*Cāturmāsya*), निरूढपशुबन्ध (*Nirūḍha-paśubandha*), सौत्रामणि (*Sautrāmaṇi*)
 
-**(3) Per the Gautama Dharmasutra (8.20):**
+**(3) Per the Gautama Dharmasutra (1-8-20):**
 अग्न्याधेय (*Agnyādheya*), अग्निहोत्र (*Agnihotra*), दर्शपूर्णमास (*Darśa-pūrṇamāsa*), आग्रयण (*Āgrayaṇa*), चातुर्मास्य (*Cāturmāsya*), निरूढपशुबन्ध (*Nirūḍha-paśubandha*), सौत्रामणि (*Sautrāmaṇi*)
 
-**(4) Per the Gobhila Brahmana (1.4.2):**
+**(4) Per the Gopatha Brahmana (1-5-23):**
 अग्न्याधेय (*Agnyādheya*), अग्निहोत्र (*Agnihotra*), पौर्णमासी (*Pūrṇamāsī*), अमावास्या (*Amāvāsyā*), नवेष्टि (*Naveṣṭi*), चातुर्मास्य (*Cāturmāsya*), पशुबन्ध (*Paśubandha*)
 
 **On the दर्शपूर्णमासेष्टि (Darsha-Purnamasa-iṣṭis)** — performed at new moon and full moon, called "**इष्टि**" (*iṣṭi*) — these form the structural foundation for all other iṣṭis, identical in both ritual technique (tantra) and essential form. The main offering-substance for the **पुरोडाश** (*puroḍāśa*) is wheat, made into flour and baked to become "puroḍāśa," prepared separately in earthen-dish fragments called "**कपाल**" (*kapāla*). The first homa addresses Agni: the puroḍāśa baked in eight kapalas ("**आग्नेयमष्टाकपालम्**" *āgneyam aṣṭākapālam*) is offered. The second homa addresses Agni and Soma jointly: the puroḍāśa in eleven kapalas ("**आग्नीषोमीयमेकादशकपालम्**" *āgnīṣomīyam ekādaśakapālam*) is offered. Different deities correspondingly require different numbers of kapalas.
@@ -8358,8 +8363,8 @@ Granting, as the previous sutras argued, that fruit-promising statements lack au
 >
 > "But since arthavādas form a single syntactical unit together with their corresponding vidhi, they must be understood as existing to praise those very vidhis."
 
-> तुशब्दोऽर्थवादानाम् अप्रामाण्यं वारयति । वायुर् वै क्षेपिष्ठा देवता वायव्यं श्वेतम् आलभेत (तैत्तिरिय सम्हित २.१.१[?]) इत्य् आदिना विधिना सैकवाक्यत्वाद् धर्मे प्रामाण्यम् । न च विधि-वाक्य-स्यार्थ-वादात् नैः सर्वे क्षेत्रण सदास्ति-यसंपूर्के स्तार्थ-वादानां नास्त्येक-योग इति शङ्कनीयम् । तेष्व् अर्थ-वादानां पुरुष-प्रवृत्ति-मात्र-कांक्षतां विधीनां स्तुत्यर्थ-स्येनोपयुक्ताः स्युः । स्तुत्या च पुरुष-प्रवृत्ति-श्रवण । तेनार्थ-वादानां प्रमाद-शमिते-क्षेपाणीय-क्त्वा तस्मिन् एवैकवाक्यता-प्रत्य् आसत्वाच्-छन्क्य्-अकः ॥
-> tuśabdo'rthavādānām aprāmāṇyaṃ vārayati | vāyur vai kṣepiṣṭhā devatā vāyavyaṃ śvetam ālabheta (Taittiriya Samhita 2.1.1[?]) ity ādinā vidhinā saikavākyatvād dharme prāmāṇyam | na ca vidhi-vākya-syārtha-vādāt naiḥ sarve kṣetraṇa sadāsti-yasaṃpūrke stārtha-vādānāṃ nāstyeka-yoga iti śaṅkanīyam | teṣv artha-vādānāṃ puruṣa-pravṛtti-mātra-kāṃkṣatāṃ vidhīnāṃ stutyartha-syenopayuktāḥ syuḥ | stutyā ca puruṣa-pravṛtti-śravaṇa | tenārtha-vādānāṃ pramāda-śamite-kṣepāṇīya-ktvā tasmin evaikavākyatā-praty āsatvāc-chanky-akaḥ ||
+> तुशब्दोऽर्थवादानाम् अप्रामाण्यं वारयति । वायुर् वै क्षेपिष्ठा देवता वायव्यं श्वेतम् आलभेत (तैत्तिरिय सम्हित २-१-१-१) इत्य् आदिना विधिना सैकवाक्यत्वाद् धर्मे प्रामाण्यम् । न च विधि-वाक्य-स्यार्थ-वादात् नैः सर्वे क्षेत्रण सदास्ति-यसंपूर्के स्तार्थ-वादानां नास्त्येक-योग इति शङ्कनीयम् । तेष्व् अर्थ-वादानां पुरुष-प्रवृत्ति-मात्र-कांक्षतां विधीनां स्तुत्यर्थ-स्येनोपयुक्ताः स्युः । स्तुत्या च पुरुष-प्रवृत्ति-श्रवण । तेनार्थ-वादानां प्रमाद-शमिते-क्षेपाणीय-क्त्वा तस्मिन् एवैकवाक्यता-प्रत्य् आसत्वाच्-छन्क्य्-अकः ॥
+> tuśabdo'rthavādānām aprāmāṇyaṃ vārayati | vāyur vai kṣepiṣṭhā devatā vāyavyaṃ śvetam ālabheta (Taittiriya Samhita 2-1-1-1) ity ādinā vidhinā saikavākyatvād dharme prāmāṇyam | na ca vidhi-vākya-syārtha-vādāt naiḥ sarve kṣetraṇa sadāsti-yasaṃpūrke stārtha-vādānāṃ nāstyeka-yoga iti śaṅkanīyam | teṣv artha-vādānāṃ puruṣa-pravṛtti-mātra-kāṃkṣatāṃ vidhīnāṃ stutyartha-syenopayuktāḥ syuḥ | stutyā ca puruṣa-pravṛtti-śravaṇa | tenārtha-vādānāṃ pramāda-śamite-kṣepāṇīya-ktvā tasmin evaikavākyatā-praty āsatvāc-chanky-akaḥ ||
 >
 > *(This dense commentary establishes: since arthavādas are grammatically and syntactically bound to the vidhi-statement they accompany — forming one continuous unit of meaning — the entire combined statement takes on the vidhi's own authority. The arthavāda's role is specifically to encourage a person's motivation to act on the injunction, through praise, and this "praise function" is what grants it derivative authority — not any standalone claim to convey new facts.)*
 
@@ -8429,6 +8434,11 @@ But one might still object: given the apparent contradiction with shastra and di
 > स्तेनं मन इत्यादौ शास्त्र-विरोधाद् अनुपपत्तिः प्राप्ता । प्रयोगे हि स्तेनादीनाम् उच्यमाने शास्त्र-विरोधः स्यात् । न चात्र स्तेनं कर्तव्यम् इति प्रयोग उच्यते । किन्तु स्तेन-शब्दार्थ एव प्रयोग-भाक् । तस्माच् छब्दार्थ-वचन-मात्रेण शास्त्र-विरोधाभावाद् अयम् अर्थवाद उपपन्न एव ।
 > *stenaṃ mana ityādau śāstra-virodhād anupapattiḥ prāptā | prayoge hi stenādīnām ucyamāne śāstra-virodhaḥ syāt | na cātra stenaṃ kartavyam iti prayoga ucyate | kintu stena-śabdārtha eva prayoga-bhāk | tasmāc chabdārtha-vacana-mātreṇa śāstra-virodhābhāvād ayam arthavāda upapanna eva |*
 >
+> ननु स्तुत्यर्थेन विधीनां स्युरिति यदुक्तं तदसद्व्यधिकरणत्वात् । वेतसशाखया चावकाभिश्चाग्निं विकर्षत्यापो वै शान्ताः (तै. सं. ५-४-४-३) इत्यत्र वेतसावके विधीयेते आपः स्तूयन्त इति वैयधिकरण्यमित्याशंक्याह ॥
+> *nanu stutyarthena vidhīnāṃ syur iti yad uktaṃ tad asad vyadhikaraṇatvāt | vetasaśākhayā cāvakābhiś cāgniṃ vikarṣaty āpo vai śāntāḥ (Tai. Saṃ. 5-4-4-3) ity atra vetasāvake vidhīyete āpaḥ stūyanta iti vaiyadhikaraṇyam ity āśaṅkyāha ||*
+>
+> *(Closing lines of the Sanskrit, re-read from the print in the numeral pass; they were missing.)*
+>
 > "In statements like 'stenaṃ manaḥ' (the mind is a thief), the objection of contradiction with shastra was raised. If theft and similar acts were being literally enjoined, that would indeed contradict shastra. But no injunction to actually commit theft is being stated here — rather, only the *meaning of the word* 'thief' is being conveyed [metaphorically, describing the mind's tendency]. Since it merely states a word's sense without prescribing literal action, no contradiction with shastra arises, and this arthavāda stands perfectly coherent."
 
 Sutra's meaning: it is not correct to say vidhi-arthavāda statements cannot be accepted as authoritative. Contradiction could only arise if these statements conveyed a literal, action-oriented command — but they convey only the meaning of the words themselves, not a prescription for actual performance. Therefore, they carry authority.
@@ -8452,8 +8462,8 @@ It is not correct that "stenaṃ manaḥ" and similar statements become inauthor
 
 **A further, genuinely subtle objection now arises:** granting that arthavādas exist to praise vidhis — forming, together, one complete sentence — surely the vidhi-portion alone should be accepted as authoritative, while the arthavāda-portion, addressing an entirely *different* subject, cannot be? Consider:
 
-> "वेतस-शाखया चावकाभिश् चाग्निं विकर्ष्यापो वै शान्ताः"
-> "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣyāpo vai śāntāḥ"
+> "वेतस-शाखया चावकाभिश् चाग्निं विकर्ष्यापो वै शान्ताः" (तै. सं. ५-४-४)
+> "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣyāpo vai śāntāḥ" (Tai. Saṃ. 5-4-4)
 
 Here, "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣati" ("one draws away the fire using branches of the vetasa and avaka plants") is the vidhi-portion. "Āpo vai śāntāḥ" ("waters indeed possess a calm nature") is a separate statement. What connection does water's calm nature have with extinguishing fire using plant-branches? Given such apparently unrelated subject-matter combined within a single vidhi-arthavāda passage, how can we accept its authority as a unified whole? — This is the objection. The resolution is given in the next sutra.
 
@@ -8481,7 +8491,7 @@ Here, "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣati" ("one draws away t
 >
 > "The word 'tu' (but) rules out the flaw of mismatched subject-matter. A figurative statement (guṇavāda) is intended here. Just as, in ordinary life, a person native to Kashmir, upon hearing Kashmir praised, considers himself praised — likewise here, the vetasa and avaka plants, being born in water, are themselves praised whenever water is praised. Being born from calm-natured waters, the vetasa and avaka plants are themselves calm-natured, and thereby pacify [any harm affecting] the yajamāna — this very quality is what the statement intends to convey."
 
-*(The Sanskrit continues with two further worked examples — one concerning why silver is called "born of Soma's tears," another concerning Prajapati and goats — extending the same guṇavāda logic to other apparently mismatched vidhi-arthavāda pairs; given the density of these additional citations, the clear English rendering below is the more reliable guide to their content.)*
+*(The Sanskrit continues with two further worked examples — one concerning why silver is called "born of Soma's tears," another concerning Prajapati and goats — extending the same guṇavāda logic to other apparently mismatched vidhi-arthavāda pairs; given the density of these additional citations, the clear English rendering below is the more reliable guide to their content. The goat example is cited as (Tai. Saṃ. 2-1-1-4).)*
 
 That is: this text figuratively means simply, "O vetasa and avaka plants, sprung from the holy waters and therefore yourselves holy — drive away all evil from this yajamāna."
 
@@ -8501,7 +8511,7 @@ Sutra's meaning: in such statements, one portion states a quality belonging to w
 **A second example of this same principle — and the resolution to the "Rudra wept" passage first raised many pages ago:**
 
 > सोऽरोदीद् यद् अरोदीत् तद् रुद्रस्य रुद्रत्वम् । यद् अप्क्षीयत कद् रजतं हिरण्यम् अभवत् स्वाप्कर्जतं हिरण्यम् अदक्षिणम् उत्पृजद् घि यो बर्हिषि ददाति पुरस्तात् संवत्सराद् ध्य् ए रुदन्ति तस्माद् बर्हिषि न देयम् ॥
-> so'rodīd yad arodīt tad rudrasya rudratvam | yad apkṣīyata kad rajataṃ hiraṇyam abhavat svāpkarjataṃ hiraṇyam adakṣiṇam utpṛjad ghi yo barhiṣi dadāti purastāt saṃvatsarād dhy e rudanti tasmād barhiṣi na deyam || (Taittiriya Samhita 1.8.1)
+> so'rodīd yad arodīt tad rudrasya rudratvam | yad apkṣīyata kad rajataṃ hiraṇyam abhavat svāpkarjataṃ hiraṇyam adakṣiṇam utpṛjad ghi yo barhiṣi dadāti purastāt saṃvatsarād dhy e rudanti tasmād barhiṣi na deyam || (Taittiriya Samhita 1-5-1)
 >
 > सोऽरोदीद् यद् अरोदीत् तद् रुद्रस्य रुद्रत्वम् । यद् अपक्षीयत तद् रजतं हिरण्यम् अभवत् स्वापकर्जतं हिरण्यम् अदक्षिणम् । उत्पृज्य हि यो बर्हिषि ददाति पुरस्तात् संवत्सराद् अस्य रुदन्ति तस्माद् बर्हिषि न देयम् ॥
 > *so'rodīd yad arodīt tad rudrasya rudratvam | yad apakṣīyata tad rajataṃ hiraṇyam abhavat svāpakarjataṃ hiraṇyam adakṣiṇam | utpṛjya hi yo barhiṣi dadāti purastāt saṃvatsarād asya rudanti tasmād barhiṣi na deyam ||*
@@ -8529,7 +8539,7 @@ That is: "He (Rudra) wept — that is, cried. Because he wept, he came to be nam
 **Another example:**
 
 > प्रजापतिर् वा इदम् एक आसीत् स अकामयत प्रजाः सृजेयेति स आत्मनो वपाम् उदखिदत् ताम् अग्नौ प्रास्रष्ट्राग् स्रजनस्यापरस्याम् अभवत् प्राग् अप्य् असमभवत् तस्या एतद् देवतायै अलभत तथैव स प्रजाः पशून् असृजत यः प्रजा-कामः पशु-कामः स्यात् स एतं प्राजापत्यं पशुं प्रजापतिम् एव स्वेन भागधेयेनोपधावति प्रजया पशुना
-> prajāpatir vā idam eka āsīt sa akāmayata prajāḥ sṛjeyeti sa ātmano vapām udakhidat tām agnau prāsraṣṭrāg srajanasyāparasyām abhavat prāg apy asamabhavat tasyā etad devatāyai alabhata tathaiva sa prajāḥ paśūn asṛjata yaḥ prajā-kāmaḥ paśu-kāmaḥ syāt sa etaṃ prājāpatyaṃ paśuṃ prajāpatim eva svena bhāgadheyenopadhāvati prajayā paśunā (Taittiriya Samhita 2.1.1.1)
+> prajāpatir vā idam eka āsīt sa akāmayata prajāḥ sṛjeyeti sa ātmano vapām udakhidat tām agnau prāsraṣṭrāg srajanasyāparasyām abhavat prāg apy asamabhavat tasyā etad devatāyai alabhata tathaiva sa prajāḥ paśūn asṛjata yaḥ prajā-kāmaḥ paśu-kāmaḥ syāt sa etaṃ prājāpatyaṃ paśuṃ prajāpatim eva svena bhāgadheyenopadhāvati prajayā paśunā (Taittiriya Samhita 2-1-1-4)
 >
 > "Prajāpati alone existed in the beginning. He desired: 'let me create offspring.' He tore out his own [abdominal] entrails and offered them into the fire. From that, before an[other] came into being, [a hornless goat] was born. He offered it to that same deity. In that same way, he created offspring and cattle. Therefore, whoever desires offspring and cattle should approach this Prajapati-goat — Prajapati himself — through his own portion, with offspring and cattle [as the sought result]."
 
@@ -8581,7 +8591,7 @@ As with the earlier examples ("stenaṃ manaḥ, anṛtavādinī vāk"), this ne
 
 ### Page 449
 
-We now explain the arthavāda praising the vidhi "haste bhavaty atha gṛhṇāti" (Taittiriya Samhita 4.7.3.1). "Kiṃ puruṣā devadatta eva pūjyāḥ" ("What! Is Devadatta the only person worthy of honor?") — such an expression doesn't imply others aren't worthy; it exists solely to *emphasize* Devadatta's own worthiness. Likewise, "hiraṇyaṃ haste bhavaty atha gṛhṇāti" ("gold comes to be in the hand, then he grasps it") — this arthavāda praises the vidhi that gold should be taken as sacrificial fee, by declaring gold's own preciousness.
+We now explain the arthavāda praising the vidhi "haste bhavaty atha gṛhṇāti" (Maitrayani Samhita 4-8-2-3). "Kiṃ puruṣā devadatta eva pūjyāḥ" ("What! Is Devadatta the only person worthy of honor?") — such an expression doesn't imply others aren't worthy; it exists solely to *emphasize* Devadatta's own worthiness. Likewise, "hiraṇyaṃ haste bhavaty atha gṛhṇāti" ("gold comes to be in the hand, then he grasps it") — this arthavāda praises the vidhi that gold should be taken as sacrificial fee, by declaring gold's own preciousness.
 
 In the same way, "stenaṃ manaḥ" ("the mind is a thief") should be read figuratively: thieves remain hidden and unseen; the mind too stays hidden within the body, unseen. Since concealment is a shared quality between thieves and the mind, the mind is compared to a thief — stating this figurative sense is exactly this statement's purpose.
 
@@ -8590,7 +8600,7 @@ Likewise, "anṛtavādinī vāk" ("speech is a false-speaker"): since speech is 
 **On these falsehood-statements, the Taittiriya Brahmana adds:**
 
 > अनृतं वै वाचा वदति । अनृतं मनसा ध्यायति । चक्षुर् वै सत्यम् । अद्या हि घृताह अदर्शम् इति । सत्यैव ॥
-> anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣur vai satyam | adyā hi ghṛtāha adarśam iti | satyaiva || (Taittiriya Brahmana 1.1.1.4)
+> anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣur vai satyam | adyā hi ghṛtāha adarśam iti | satyaiva || (Taittiriya Brahmana 1-1-4)
 >
 > "Speech indeed speaks falsehood; the mind indeed dwells on falsehood — but the eye is indeed truthful, for when one says 'I saw [it] today,' that itself is truth."
 
@@ -8619,7 +8629,7 @@ Having thus resolved the shastra-contradiction objection, we turn to the dṛṣ
 >
 > "'Agnir jyotir jyotir agniḥ svāhā' [is offered] in the evening; 'sūryo jyotir jyotiḥ sūryaḥ svāhā' [is offered] in the morning — this arthavāda exists to praise these two vidhis. Since flame is not visible by day, [one might ask] for what purpose should I use [the fire-mantra then]? — and since [it should be] used at night, this itself is the recollection [rationale] behind the two mantras: therefore the Agni-mantra must be used at night. The greater visibility of the flame [at night] is what's actually being conveyed — a distinction owing to the sheer distance [between earth and the visible daytime sky-glow]. For at a distance, in daylight, even conspicuous things like [smoke and] fire's other features are not seen distinctly — not because they don't exist, but simply because their dark-visible quality goes unseen [against the bright sky]."
 
-Sutra's meaning: the "smoke by day, flame by night" arthavāda isn't a false claim about physical reality — it explains, and thereby reinforces, exactly which mantra (Sun or Agni) belongs to which time of day, with the visibility difference serving as a memorable, praise-oriented justification rather than a literal scientific claim.
+Sutra's meaning: the "smoke by day, flame by night" arthavāda isn't a false claim about physical reality — it explains, and thereby reinforces, exactly which mantra (Sun or Agni) belongs to which time of day, with the visibility difference serving as a memorable, praise-oriented justification rather than a literal scientific claim. The two vidhis are "agnir jyotir jyotir agniḥ svāheti sāyaṃ juhoti" and "sūryo jyotir jyotiḥ sūryaḥ svāheti prātaḥ" (Ai. Brā. 5-5-6).
 
 ---
 
@@ -8679,7 +8689,7 @@ The objection held this contradicts direct perception — flame *is* visible bef
 
 Sutra's meaning: because of a woman's infidelity, a son born [to her] might in fact be her lover's son (rather than her husband's) — therefore that son's true lineage cannot be determined with full certainty.
 
-The statement "na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā" ("we don't know whether we are brahmins or not") is spoken by the officiating priests — who are, by definition, always brahmins. So why would doubt about one's own brahmin-status even arise? Isn't everyone supposed to simply know their own caste? The resolution: in ordinary human affairs, when a son is born, whom does he properly belong to — mother or father? A son always belongs to the father (not the mother), and it is well-established, both by common recognition and by shastra, that a son belongs to whichever caste his father belongs to. But in some cases, through a mother's infidelity, the son born to her may in fact have been fathered by her lover — in which case, though publicly treated as his legal father's son, he is, in strict truth, the lover's son, and takes the lover's own caste. Such situations are not at all uncommon in ordinary life. Therefore, as stated above, genuine doubt can arise even regarding whether "we" (the officiants) are truly brahmins — and this example is accordingly classified as a case of dṛṣṭi-virodha (contradiction with direct perception).
+The statement "na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā" (Mai. Saṃ. 1-4-11) ("we don't know whether we are brahmins or not") is spoken by the officiating priests — who are, by definition, always brahmins. So why would doubt about one's own brahmin-status even arise? Isn't everyone supposed to simply know their own caste? The resolution: in ordinary human affairs, when a son is born, whom does he properly belong to — mother or father? A son always belongs to the father (not the mother), and it is well-established, both by common recognition and by shastra, that a son belongs to whichever caste his father belongs to. But in some cases, through a mother's infidelity, the son born to her may in fact have been fathered by her lover — in which case, though publicly treated as his legal father's son, he is, in strict truth, the lover's son, and takes the lover's own caste. Such situations are not at all uncommon in ordinary life. Therefore, as stated above, genuine doubt can arise even regarding whether "we" (the officiants) are truly brahmins — and this example is accordingly classified as a case of dṛṣṭi-virodha (contradiction with direct perception).
 
 ---
 
@@ -8693,7 +8703,7 @@ The statement "na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā" ("
 
 ### Page 453
 
-"Pravare pravriyamāṇe brūyād devāḥ pitaraḥ" (Vajasaneyi Samhita 1.4.11) is the vidhi: when reciting one's pravara (ancestral lineage), one should recite the mantra "devāḥ pitaraḥ." If the yajamāna does so, then even a non-brahmin becomes a brahmin through that mantra's power — this is the praise conveyed. The admission "na caitad vidma" ("we do not know") isn't a firm claim of ignorance, but a statement that certainty is genuinely unattainable: where a woman has erred, her son may in fact be her lover's child; since he is then socially treated as son to both the husband and the lover, whose son he truly is remains genuinely unclear — hence no contradiction with direct perception. "Na caitad vidma" is not meant to deny one's own plainly-evident brahmin status.
+"Pravare pravriyamāṇe brūyād devāḥ pitaraḥ" (Maitrayani Samhita 1-4-11) is the vidhi: when reciting one's pravara (ancestral lineage), one should recite the mantra "devāḥ pitaraḥ." If the yajamāna does so, then even a non-brahmin becomes a brahmin through that mantra's power — this is the praise conveyed. The admission "na caitad vidma" ("we do not know") isn't a firm claim of ignorance, but a statement that certainty is genuinely unattainable: where a woman has erred, her son may in fact be her lover's child; since he is then socially treated as son to both the husband and the lover, whose son he truly is remains genuinely unclear — hence no contradiction with direct perception. "Na caitad vidma" is not meant to deny one's own plainly-evident brahmin status.
 
 **Having resolved dṛṣṭi-virodha, we turn to the shastra-contradiction example still outstanding:** "ko hi tad veda yad yamuṣmin loke'sti vā na vā" ("who indeed knows whether that heavenly world exists or not"). The next sutra resolves this doubt.
 
@@ -8743,7 +8753,7 @@ Notably, slightly earlier in this very same passage, it's stated plainly:
 **Turning to the last remaining shastra-dṛṣṭi-virodha example** —
 
 > शोभतेऽस्य मुखं य एवं वेद ।
-> *śobhate'sya mukhaṃ ya evaṃ veda |* (Tandya Mahabrahmana 20.14.3)
+> *śobhate'sya mukhaṃ ya evaṃ veda |* (Tandya Mahabrahmana 20-16-6)
 
 — the next sutra explains this.
 
@@ -8766,7 +8776,7 @@ Notably, slightly earlier in this very same passage, it's stated plainly:
 >
 > "This [statement] is the complement of the Gargatriratra vidhi. Merely knowing about that rite is itself said to be a cause of facial radiance — how much more so its actual performance! Just as ear-ornaments and similar adornments make a face radiant, so too a knower's beaming face is regarded by his students as radiant. This is stated on the basis of a shared quality resembling literal radiance."
 
-Sutra's meaning: this is a statement made in praise of knowledge itself. "Śobhate'sya mukhaṃ ya evaṃ veda" ("his face shines, whoever knows this") is the Gargatriratra vidhi's companion arthavāda. The point: mere knowledge of this rite brings radiance to the face — how much more so its actual performance? Just as ear-ornaments enhance a face's radiance, knowing the Gargaratri and similar Vedic portions produces a genuine effect on the mind, which then emanates outward and becomes visible on the face as an unprecedented glow. The difference between the countenance of one endowed with knowledge and humility, and that of an ignorant fool, is perceptible even to ordinary people — so a Veda-scholar's facial radiance becomes swiftly apparent to his students and others...
+Sutra's meaning: this is a statement made in praise of knowledge itself. "Śobhate'sya mukhaṃ ya evaṃ veda" (Tā. Ma. Brā. 20-16-6) ("his face shines, whoever knows this") is the Gargatriratra vidhi's companion arthavāda. The point: mere knowledge of this rite brings radiance to the face — how much more so its actual performance? Just as ear-ornaments enhance a face's radiance, knowing the Gargaratri and similar Vedic portions produces a genuine effect on the mind, which then emanates outward and becomes visible on the face as an unprecedented glow. The difference between the countenance of one endowed with knowledge and humility, and that of an ignorant fool, is perceptible even to ordinary people — so a Veda-scholar's facial radiance becomes swiftly apparent to his students and others...
 
 ---
 
@@ -8951,11 +8961,11 @@ A further illustration: imagine two farmers cultivating separate fields. One far
 > कृतत्स्वाद् अर्थवादानाम् अस्ति प्रामाण्यम् ॥ तत्र संग्रह-श्लोकाः । वायुर् वा इत्य् एवम् आदेर् अर्थवादस्य मानता । न विधेयेऽस्ति धर्मे किं किं वासौ तत्र विद्यते ॥ विध्य्-अर्थवाद-शब्दानां मिथोऽपेक्षा-सापेक्षया । नास्त्य् एक-वाक्यता धर्मे प्रामाण्यं संभवेत् तथा ॥ विध्य्-अर्थवादौ साकाङ्क्षौ प्राशस्त्य्-पुरुषार्थयोः । तेनैकवाक्यता तस्माद् अनादानं धर्म-मानके ॥
 > kṛtatsvād arthavādānām asti prāmāṇyam || tatra saṃgraha-ślokāḥ | vāyur vā ity evam āder arthavādasya mānatā | na vidheye'sti dharme kiṃ kiṃ vāsau tatra vidyate || vidhy-arthavāda-śabdānāṃ mitho'pekṣā-sāpekṣayā | nāsty eka-vākyatā dharme prāmāṇyaṃ saṃbhavet tathā || vidhy-arthavādau sākāṅkṣau prāśasty-puruṣārthayoḥ | tenaikavākyatā tasmād anādānaṃ dharma-mānake ||
 >
-> *(Concluding summary verses, restating in condensed form: statements like "vāyur vai kṣepiṣṭhā" possess genuine authority; vidhi and arthavāda words, being mutually interdependent, form a single unified sentence — and precisely because of this eka-vākyatā (sentence-unity), no separate authority-claim need be denied to either portion where dharma is concerned; both are, together, oriented toward praising and accomplishing the highest human end.)*
+> *(Concluding summary verses, restating in condensed form: statements like "vāyur vai kṣepiṣṭhā" possess genuine authority; vidhi and arthavāda words, being mutually interdependent, form a single unified sentence — and precisely because of this eka-vākyatā (sentence-unity), no separate authority-claim need be denied to either portion where dharma is concerned; both are, together, oriented toward praising and accomplishing the highest human end. The verses are cited as (Jai. Nyā. Mā. 1-2-1).)*
 
 Thus, since no genuine cause for lack of authority exists among the three portions present in the Veda — mantra, vidhi, and arthavāda — and since authority has now been established for each of these contested categories, **the Veda's authority, in every respect, stands proven.**
 
-Sutra's meaning: the matter of these final two statements ("abhāgi-pratiṣedhāt," Jaimini Sutra 1.2.5, and "anitya-saṃyogāt," Jaimini Sutra 1.2.6) was already explained earlier — see the discussion on pages 438–439 above. "Na pṛthivyām agniś cetavyo nāntarikṣe na divi" (Taittiriya Samhita 5.2.1.3) — the arthavāda declaring that fire-altar construction should not occur on earth, atmosphere, or sky — is the complement of the vidhi "hiraṇyaṃ nidhāya cetavyam" (Taittiriya Samhita 5.2.2.1): "having placed a golden plate, one should establish [the fire] upon it." As already explained under the "praise-oriented" principle, this same resolution applies: granting that fire-altar construction in the sky is indeed impossible...
+Sutra's meaning: the matter of these final two statements ("abhāgi-pratiṣedhāt," Jaimini Sutra 1.2.5, and "anitya-saṃyogāt," Jaimini Sutra 1.2.6) was already explained earlier — see the discussion on pages 438–439 above. "Na pṛthivyām agniś cetavyo nāntarikṣe na divi" (Taittiriya Samhita 5-2-12-2) — the arthavāda declaring that fire-altar construction should not occur on earth, atmosphere, or sky — is the complement of the vidhi "hiraṇyaṃ nidhāya cetavyam" (Taittiriya Samhita 5-2-7-1): "having placed a golden plate, one should establish [the fire] upon it." As already explained under the "praise-oriented" principle, this same resolution applies: granting that fire-altar construction in the sky is indeed impossible...
 
 ---
 
@@ -9095,13 +9105,13 @@ It cannot be said the Vedas are beginningless — it is customary to attach the 
 
 ### "Anitya-darśanāc ca" (Jaimini Sutra 1.1.28)
 
-> अनित्या जनन-मरणवन्तो बबरादयो वेदे श्रूयन्ते । बबरः प्रावाहणिर् अकामयत (तैत्तिरिय सम्हित ४.१.१.३) कुसुरुबिन्द औद्दालकिर् अकामयत (तैत्तिरिय सम्हित ३.१.३.१) इति । तथा सति बबरादिभ्यः पूर्वम् अभावाद् अनित्या वेदाः । विमतं वेद-वाक्यं पौरुषेयं सांक्यत्वात् कालिदासादि-वाक्यवद् इत्य् अनुमान-समुच्चयार्थश् च कारः ॥
-> anityā janana-maraṇavanto babarādayo vede śrūyante | babaraḥ prāvāhaṇir akāmayata (Taittiriya Samhita 4.1.1.3) kusurubinda auddālakir akāmayata (Taittiriya Samhita 3.1.3.1) iti | tathā sati babarādibhyaḥ pūrvam abhāvād anityā vedāḥ | vimataṃ veda-vākyaṃ pauruṣeyaṃ sāṃkyatvāt kālidāsādi-vākyavad ity anumāna-samuccayārthaś ca kāraḥ ||
+> अनित्या जनन-मरणवन्तो बबरादयो वेदे श्रूयन्ते । बबरः प्रावाहणिर् अकामयत (तैत्तिरिय सम्हित ७-१-१०-२) कुसुरुबिन्द औद्दालकिर् अकामयत (तैत्तिरिय सम्हित ७-२-२-१) इति । तथा सति बबरादिभ्यः पूर्वम् अभावाद् अनित्या वेदाः । विमतं वेद-वाक्यं पौरुषेयं सांक्यत्वात् कालिदासादि-वाक्यवद् इत्य् अनुमान-समुच्चयार्थश् च कारः ॥
+> anityā janana-maraṇavanto babarādayo vede śrūyante | babaraḥ prāvāhaṇir akāmayata (Taittiriya Samhita 7-1-10-2) kusurubinda auddālakir akāmayata (Taittiriya Samhita 7-2-2-1) iti | tathā sati babarādibhyaḥ pūrvam abhāvād anityā vedāḥ | vimataṃ veda-vākyaṃ pauruṣeyaṃ sāṃkyatvāt kālidāsādi-vākyavad ity anumāna-samuccayārthaś ca kāraḥ ||
 >
 > अनित्या जनन-मरणवन्तो बबरादयो वेदे श्रूयन्ते । बबरः प्रावाहणिर् अकामयत । कुसुरुबिन्द औद्दालकिर् अकामयत इति । तथा सति बबरादिभ्यः पूर्वम् अभावाद् अनित्या वेदाः । विमतं वेद-वाक्यं पौरुषेयं वाक्यत्वात् कालिदासादि-वाक्यवद् इत्य् अनुमान-समुच्चयार्थश् च "च"-कारः ॥
 > *anityā janana-maraṇavanto babarādayo vede śrūyante | babaraḥ prāvāhaṇir akāmayata | kusurubinda auddālakir akāmayata iti | tathā sati babarādibhyaḥ pūrvam abhāvād anityā vedāḥ | vimataṃ veda-vākyaṃ pauruṣeyaṃ vākyatvāt kālidāsādi-vākyavad ity anumāna-samuccayārthaś ca "ca"-kāraḥ ||*
 >
-> "Non-eternal beings, subject to birth and death — Babara and similar figures — are spoken of in the Veda: 'Babara, son of Pravahana, desired [this]' (Taittiriya Samhita 4.1.1.3); 'Kusurubinda, son of Uddalaka, desired [this]' (Taittiriya Samhita 3.1.3.1). This being so, the Vedas cannot have existed before Babara and these other figures — therefore the Vedas are not beginningless. The disputed Veda-statement is of human origin, since it is a statement [like any other] — just like statements by Kalidasa and similar poets. The word 'ca' (also) here links this inferential argument to what was said before."
+> "Non-eternal beings, subject to birth and death — Babara and similar figures — are spoken of in the Veda: 'Babara, son of Pravahana, desired [this]' (Taittiriya Samhita 7-1-10-2); 'Kusurubinda, son of Uddalaka, desired [this]' (Taittiriya Samhita 7-2-2-1). This being so, the Vedas cannot have existed before Babara and these other figures — therefore the Vedas are not beginningless. The disputed Veda-statement is of human origin, since it is a statement [like any other] — just like statements by Kalidasa and similar poets. The word 'ca' (also) here links this inferential argument to what was said before."
 
 Sutra's meaning: since the Vedas contain descriptions of non-eternal things — names of persons and similar — the Vedas, discussing such non-eternal matters, are themselves non-eternal, that is, composed by persons. (This is a further objection.)
 
@@ -9151,7 +9161,9 @@ In the Veda, statements occur: "babaraḥ prāvāhaṇeḥ kāmayata" ("he sough
 
 ### Page 469
 
-Sutra's meaning: it was already established that words — including those constituting the Vedas — are eternal. The word "tu" rules out the claim of non-eternality: the Veda's own sound-form existed even before figures like Katha, its beginninglessness having already been established through a sequence of prior sutras — from "karmaike tatra darśanāt" (Jaimini Sutra 1.1.1) through "liṅgadarśanāc ca" (1.1.21), spanning the sixth adhikarana of the first pada of the first adhyaya of Jaimini's own Purva-Mimamsa-sutra. (These intervening sutras are not detailed here, to keep this Bhashya-Bhumika from growing too long — interested readers may consult them directly.)
+Sutra's meaning: it was already established that words — including those constituting the Vedas — are eternal. The word "tu" rules out the claim of non-eternality: the Veda's own sound-form existed even before figures like Katha, its beginninglessness having already been established through a sequence of prior sutras — from "karmaike tatra darśanāt" (Jaimini Sutra 1-1-6) through "liṅgadarśanāc ca" (1-1-23), in 18 sutras, the eternality of words was established; this is the sixth adhikarana of the first pada of the first adhyaya of Jaimini's own Purva-Mimamsa-sutra. (These 18 sutras are not explained in this Bhashya-Bhumika; interested readers may consult them there; they are not set out here for fear of the book growing too long.)
+
+In the sutra "autpattikas tu śabdasyārthena sambandhaḥ" (Jai. Sū. 1-1,5, as printed), the word *autpattika* (natural, eternal) makes the pledge that the relation between all words and their meanings is eternal, and this is established in the adhikaranas that follow. (The 18 sutras mentioned above are the śabda-adhikaraṇa; the adhikarana made of the three sutras that follow is the vākya-adhikaraṇa. These sutras are not explained in this Bhumika.) *(Paragraph completed from the print in the numeral pass.)*
 
 **One might then ask: why, then, do names like "Kathaka" appear at all?** The next sutra answers: these names arose because these persons propagated Vedic knowledge through teaching and recitation.
 
@@ -9244,7 +9256,7 @@ That is: nor can this be compared to a madman's babble — the jyotiṣṭoma in
 **Closing summary verse:**
 
 > तस्मान् नास्ति वेदस्य पौरुषेयत्वम् । अत्र संग्रह-श्लोकः । पौरुषेयं न वा वेदनास्त्य् अपौरुषेयता । काथकादि-समाख्यानाद् वाच् छास्य वाक्यवत् । समाख्यानं प्रवचनाद् आचार्यत्वाच् च तत् पराहतम् । तत्-कर्तृ-स्मालम्भेन स्यात् कोऽपौरुषेयते ॥
-> tasmān nāsti vedasya pauruṣeyatvam | atra saṃgraha-ślokaḥ | pauruṣeyaṃ na vā vedanāsty apauruṣeyatā | kāthakādi-samākhyānād vāc chāsya vākyavat | samākhyānaṃ pravacanād ācāryatvāc ca tat parāhatam | tat-kartṛ-smālambhena syāt ko'pauruṣeyate || (Jaimini-nyaya-mala 1.1.7)
+> tasmān nāsti vedasya pauruṣeyatvam | atra saṃgraha-ślokaḥ | pauruṣeyaṃ na vā vedanāsty apauruṣeyatā | kāthakādi-samākhyānād vāc chāsya vākyavat | samākhyānaṃ pravacanād ācāryatvāc ca tat parāhatam | tat-kartṛ-smālambhena syāt ko'pauruṣeyate || (Jaimini-nyaya-mala 1-1-8)
 >
 > "Therefore, the Veda has no human origin. Summary verse: is the Veda human-composed, or not? [The objection holds it is,] on account of names like 'Kathaka' and its being a collection of statements — but this naming is refuted, [properly] explained instead by teaching-activity and preceptorship. And by touching upon [correctly identifying] its true, non-human 'author' [i.e., the eternal Word itself], how could its non-human-origin status be anything but established?"
 
@@ -9252,6 +9264,11 @@ That is: nor can this be compared to a madman's babble — the jyotiṣṭoma in
 
 > ननु भगवता बादरायणेन वेदस्य ब्रह्म-कार्यत्वं सूत्रितम् । "शास्त्र-योनित्वात्" इति (वेदन्त सुत्र १.१.३) ऋग्वेदादि-शास्त्रत्वाद् वृद्ध-सर्वज्ञ इति सूत्रार्थः । बाधम् । नैतावता पौरुषेयत्वं भवति । मनुष्य-निर्मितत्वाभावात् ।
 > nanu bhagavatā bādarāyaṇena vedasya brahma-kāryatvaṃ sūtritam | "śāstra-yonitvāt" iti (Vedanta Sutra 1.1.3) ṛgvedādi-śāstratvād vṛddha-sarvajña iti sūtrārthaḥ | bādham | naitāvatā pauruṣeyatvaṃ bhavati | manuṣya-nirmitatvābhāvāt |
+>
+> … अत एव च नित्यत्वम् । (वे. सू. १-३-२९) इति । श्रुतिस्मृती चात्र भवतः । वाचा विरूप नित्यया । (ऋ. सं. ८-७५-६) इति श्रुतिः । अनादिनिधना नित्या वागुत्सृष्टा स्वयंभुवेति स्मृतिः । तस्मात्पौरुषेयत्वदोषशंकयानुदयान्मन्त्रब्राह्मणात्मकस्य वेदस्य निर्विघ्नं प्रामाण्यं सिद्धम् ॥
+> *… ata eva ca nityatvam | (Ve. Sū. 1-3-29) iti | śrutismṛtī cātra bhavataḥ | vācā virūpa nityayā | (Ṛ. Saṃ. 8-75-6) iti śrutiḥ | anādinidhanā nityā vāg utsṛṣṭā svayaṃbhuveti smṛtiḥ | tasmāt pauruṣeyatvadoṣaśaṅkayānudayān mantrabrāhmaṇātmakasya vedasya nirvighnaṃ prāmāṇyaṃ siddham ||*
+>
+> *(Closing lines re-read from the print in the numeral pass; they were missing. The clause just before "ata eva ca nityatvam", on Badarayana's devatādhikaraṇa, is not reproduced.)*
 >
 > *(Anticipating an objection: doesn't Badarayana's own Vedanta-sutra state that the Veda arises from Brahman? This might seem to concede a kind of "authorship" after all — but Sayana clarifies that Brahman's causing the Veda's existence doesn't make it "pauruṣeya" in the objectionable sense, since it was never fashioned by an embodied human being.)*
 
