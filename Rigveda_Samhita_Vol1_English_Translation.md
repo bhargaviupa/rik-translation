@@ -13722,13 +13722,13 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 **Elsewhere in the same Brahmana:**
 
 > अग्निर्वै देवानामवमः ।
-> *agnir vai devānām avamaḥ |* (Aitareya Brahmana 1-1)
+> *agnir vai devānām avamaḥ |* (Aitareya Brahmana 1-1-1)
 > "Agni is indeed the nearest of the deities [to men]."
 
 **And in the Taittiriya Brahmana:**
 
 > अग्निरग्रे प्रथमो देवतानाम् ।
-> *agnir agre prathamo devatānām |* (Taittiriya Brahmana 3-4-2-1[?])
+> *agnir agre prathamo devatānām |* (Taittiriya Brahmana 2-4-3-3)
 > "Agni, at the forefront, is the first among the deities" — and also "**agnir avamo devatānām**" ["Agni is the nearest of the deities"].
 
 **From these examples, Agni is established as first among the deities, standing at the forefront, serving as their leader.**
@@ -13742,7 +13742,7 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 **Another Nirukta-scholar, Śākapūṇi** (son of Śakapūṇi, also known by the name Rathītara), holds that the word "Agni" arises from **three separate roots**:
 
 > इण् गतौ इति धातुः (धा. २४-२५) ।
-> *iṇ gatau iti dhātuḥ (dhā. 24-25) |* — "'iṇ,' in the sense of 'going'" —
+> *iṇ gatau iti dhātuḥ (dhā. 24-36) |* — "'iṇ,' in the sense of 'going'" —
 
 > अक्ष्णोतेर्वा तृप्रक्षणकाङ्क्षिषु इति धातुः ।
 > *akṣṇoter vā tṛpra-kṣaṇa-kāṅkṣiṣu iti dhātuḥ |* — [a root connected with desiring/aspiring] —
@@ -13751,6 +13751,8 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 > *daghnoter vā daha bhasmīkaraṇe iti dhātuḥ |* — "'dah,' in the sense of 'reducing to ash [by burning]'" —
 
 *(the precise Dhatupatha reference-numbers for the second and third roots, and a fourth root the passage appears to introduce at the very bottom of this page, remain uncertain at this resolution and are not asserted as verified citations)*
+
+*(The Dhātupāṭha references for añj, dah and nī on this page are printed as 29-21, 23-22 and 22-5 (as read in the numeral review).)*
 
 ### Page 614
 
@@ -13765,20 +13767,20 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 **Meaning:** the root "īḍ" is well known to carry a sense connected with praise. Following the accepted principle that roots may carry multiple senses, the meanings "entreaty" (yācñā), "asking/invocation" (adhyeṣaṇā), and "worship" (pūjā) have all been assigned to the root "īḍ," and the verse is explained accordingly here.
 
-**The word "purohita" was already explained in the Nirukta's second chapter** (2-13), in the course of commenting on the Rik "**yeṣṭe vāpiḥ śaṃ kenāve purohitaḥ**" (Rigveda Samhita 10-14-2[?]) — that is, "**puraḥ hitaṃ dadhāti purohitaḥ**": one who stands in front, [specifically] in front of the sacrificer [facing him] during the yajna. The Yajurvedins too gloss it as "**puro hitaṃ dadhate**" — one standing in front, that is, in the foremost position. The word "purohita" carries the established sense of the principal ācārya who properly conducts yajnas and similar rites according to shastric injunction. In this Rik, since the qualities of the Hotr and other ritvijs are attributed to Agni in this praise, "purohita" may equally be understood here as "chief ācārya." **This word "purohita" occurs only in a few places within the Rigveda itself.** Though the Bhashyakara [Sayana] clearly explains this word's sense as "chief ācārya" there, in the Krishna-Yajur[veda]...
+**The word "purohita" was already explained in the Nirukta's second chapter** (2-12), in the course of commenting on the Rik "**yeṣṭe vāpiḥ śaṃ kenāve purohitaḥ**" (Rigveda Samhita 10-98-7) — that is, "**puraḥ hitaṃ dadhāti purohitaḥ**": one who stands in front, [specifically] in front of the sacrificer [facing him] during the yajna. The Yajurvedins too gloss it as "**puro hitaṃ dadhate**" — one standing in front, that is, in the foremost position. The word "purohita" carries the established sense of the principal ācārya who properly conducts yajnas and similar rites according to shastric injunction. In this Rik, since the qualities of the Hotr and other ritvijs are attributed to Agni in this praise, "purohita" may equally be understood here as "chief ācārya." **This word "purohita" occurs only in a few places within the Rigveda itself.** Though the Bhashyakara [Sayana] clearly explains this word's sense as "chief ācārya" there, in the Krishna-Yajur[veda]...
 
 ### Page 615
 
 **In the Taittiriya Samhita of the Yajurveda:**
 
 > विश्वरूपो नै त्वाष्ट्रः पुरोहितो देवानाम् ।
-> *viśvarūpo nai tvāṣṭraḥ purohito devānām |* (Taittiriya Samhita 2-5-1[?])
+> *viśvarūpo nai tvāṣṭraḥ purohito devānām |* (Taittiriya Samhita 2-5-1)
 > "Vishvarupa, son of Tvashtri, was the purohita of the gods."
 
 **And:**
 
 > बृहस्पतिर्देवानां पुरोहित आसीच्छन्दःसाराणां कार्षणसुराणाम् ।
-> *bṛhaspatir devānāṃ purohita āsīc chandaḥsārāṇāṃ kārṣaṇa-surāṇām |* (Taittiriya Samhita 3-4-10[?])
+> *bṛhaspatir devānāṃ purohita āsīc chandaḥsārāṇāṃ kārṣaṇa-surāṇām |* (Taittiriya Samhita 6-4-10)
 > "Brihaspati was the purohita of the gods; Shanda and Marka were the purohitas of the demons (daityas)."
 
 **In these instances, "purohita" is used in the sense of the chief ācārya who conducts ritual performances (High Priest).**
@@ -13803,20 +13805,20 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 **Both meanings apply.** In connection with Agni, the word "hotāram" has frequently been used alongside "ṛtvijam" in many places across the Rigveda:
 
-> नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् (ऋ. सं. १-४४-११) । नि त्वा होतारमृत्विजम् (ऋ. सं. १-४५-७) । त्वां यज्ञेष्वृत्विजमग्ने होतारमीळते (ऋ. सं. ३-१०-२) । न्यग्निं जातवेदसं दधाता देवमृत्विजम् (ऋ. सं. ५-२२-२ [?]) । मन्द्रं होतारमृत्विजं चित्रभानुं विभावसुम् (ऋ. सं. ८-४४-६ [?]) । इत्यादि ।
-> *ni tvā yajñasya sādhanam agne hotāram ṛtvijam (Ṛ. Saṃ. 1-44-11) | ni tvā hotāram ṛtvijam (Ṛ. Saṃ. 1-45-7) | tvāṃ yajñeṣv ṛtvijam agne hotāram īḷate (Ṛ. Saṃ. 3-10-2) | ny agniṃ jātavedasaṃ dadhātā devam ṛtvijam (Ṛ. Saṃ. 5-22-2 [?]) | mandraṃ hotāram ṛtvijaṃ citrabhānuṃ vibhāvasum (Ṛ. Saṃ. 8-44-6 [?]) | ity ādi |* (citations re-read from the better scan in the [?] pass; the fourth was missing and the fifth misread in the file)
+> नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् (ऋ. सं. १-४४-११) । नि त्वा होतारमृत्विजम् (ऋ. सं. १-४५-७) । त्वां यज्ञेष्वृत्विजमग्ने होतारमीळते (ऋ. सं. ३-१०-२) । न्यग्निं जातवेदसं दधाता देवमृत्विजम् (ऋ. सं. ५-२२-२) । मन्द्रं होतारमृत्विजं चित्रभानुं विभावसुम् (ऋ. सं. ८-४४-६) । इत्यादि ।
+> *ni tvā yajñasya sādhanam agne hotāram ṛtvijam (Ṛ. Saṃ. 1-44-11) | ni tvā hotāram ṛtvijam (Ṛ. Saṃ. 1-45-7) | tvāṃ yajñeṣv ṛtvijam agne hotāram īḷate (Ṛ. Saṃ. 3-10-2) | ny agniṃ jātavedasaṃ dadhātā devam ṛtvijam (Ṛ. Saṃ. 5-22-2) | mandraṃ hotāram ṛtvijaṃ citrabhānuṃ vibhāvasum (Ṛ. Saṃ. 8-44-6) | ity ādi |* (citations re-read from the better scan in the [?] pass; the fourth was missing and the fifth misread in the file)
 
 — and so on. **As shown above, many rishis, in praising Agni, use the two words "hotāram" and "ṛtvijam" together.** Since the Hotṛ's role in a yajna is especially prominent, the custom of calling Agni himself "Hotṛ" may well have arisen from this frequent pairing.
 
 **On "ratna-dhātamam":** Yaska, in the Nirukta's second chapter, explains "ratna" alongside other words denoting wealth. Anything pleasing or delightful is called "ratna"; it may also mean simply "an excellent object." Here, primarily, "ratna" carries the sense of wealth (aiśvarya). "**Dhātamaḥ**" is used in the sense of "giving." In the Rigveda, it is generally found that where the sense "to give" (dadāti) is intended, the root "**dadhāti**" is used instead. For example:
 
 > प्रातर्रत्नं प्रातरित्वा दधाति ।
-> *prātar ratnaṃ prātaritvā dadhāti |* (Rigveda Samhita 1-125-1[?])
+> *prātar ratnaṃ prātaritvā dadhāti |* (Rigveda Samhita 1-125-1)
 
 **In this verse, the rishi Kakṣīvān describes a donation made by a king named Svanaya.** Here "ratna" clearly means gold and similar wealth, or cattle and other excellent possessions, as becomes evident from the words used in the following verses. "Dadhāti" here means simply "giving" (dadāti). Similarly, in passages such as:
 
 > रायस्पोषं यजमानेषु धत्ते । प्रजां पुष्टिं भूतिमस्मासु धत्ते ।
-> *rāyas poṣaṃ yajamāneṣu dhatte | prajāṃ puṣṭiṃ bhūtim asmāsu dhatte |* (Rigveda Samhita 7-48-2[?])
+> *rāyas poṣaṃ yajamāneṣu dhatte | prajāṃ puṣṭiṃ bhūtim asmāsu dhatte |* (Rigveda Samhita 8-59-7)
 
 — "**dhatte**" is likewise used in place of "dadāti." All of this draws upon Yaska's own explanation, as the Nirukta's author, of this mantra.
 
@@ -13830,6 +13832,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 > "Having bowed to Hayāsya and the new Raṅgendra, the givers of true meaning, I, Lakṣmaṇa, set forth the Pāṇinian [grammar] to be shown on the Ṛk, following Mādhava's words." (gloss mine and tentative; verse re-read from the better scan in the [?] pass, one word [?])
 
 **The word "Agni" arises from the root "ag," meaning "to go"** — per the Unadi rule "**aṅger ṇa-lopaś ca**" (Unadi Sutra, precise number uncertain): before the root "ag," the affix "ni" is added; moreover, [a rule governs] the loss of the nasal "n" [in the root]...
+
+*(A further reference on this page is printed as 4-490 (as read in the numeral review).)*
 
 ### Page 617
 
@@ -13847,6 +13851,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 > "'All nouns are born from verbs' — this is Śākaṭāyana's own view, within the Nirukta's own convention. 'Not all [nouns are so derived]' — this is Gārgya's view, and that of some grammarians as well."
 
 **Śākaṭāyana, himself a Nirukta-author, holds that every nominal stem (prātipadika) derives from a verbal root (dhātu).** In **Gārgya's** own view, however, the word "Agni" is "**akhaṇḍa**" — that is, an underived, indivisible nominal stem, admitting no division into root and affix. In this [Gargya's] view...
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 7-1-58, 6-1-162, 3-1-3, 6-1-158, 6-1-158-9, 3-1-4, 6-1-107, 8-2-5, 1-12.)*
 
 ### Page 618
 
@@ -13889,7 +13895,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 **On "purohitam" — its grammatical derivation:**
 
 > आयं पुरो भुवः ।
-> *āyaṃ puro bhuvaḥ |* (Taittiriya Samhita 4-3-2-1[?])
+> *āyaṃ puro bhuvaḥ |* (Taittiriya Samhita 4-3-2-1)
 
 — here "puraḥ" is accented on its final syllable (antodātta). The word "puraḥ" itself derives from "pūrva," per the rule:
 
@@ -13904,6 +13910,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 *(Several further specific citation-chains on this page — governing sandhi between the visarga of "puraḥ" and the initial "h" of "hitam," and the precise accent-retention rule for this particular tatpurusha type — involve highly compressed technical shorthand that could not be independently confirmed at full confidence and are not reproduced as specific numbered sutras here.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-1-28, 8-4-6[?], 8-4-66, 1-2-39, 4-3-2-1, 5-3-39, 3-1-3, 6-1-158, 7-4-42, 2-2-18, 6-1-114, 6-1-223, 6-2-2.)*
+
 ### Page 620
 
 *(This page continues the grammatical derivation in the same dense register — working through "yajñasya" from the root "yaj" [devapūjāyām, "in the sense of worshipping the gods"], and beginning the derivation of "devam." Given the density of specific sutra-citations here, the following summarizes the confirmed content rather than reproducing every numbered reference.)*
@@ -13916,6 +13924,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 *(As with the preceding grammar-heavy pages, the specific chain of Ashtadhyayi sutra-numbers governing each accent-shift and affix-substitution in this derivation sequence is not reproduced verbatim here, consistent with the cautious approach adopted for this register of text throughout this project.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 1-4-67, 6-2-49, 1-2-40, 3-3-90, 7-1-12, 3-1-4, 3-1-134, 7-3-86, 1-1, 3-1-3, 6-1-163, 3-2-59, 6-1-197, 6-2-139.)*
+
 ### Page 621
 
 *(This page continues and concludes the grammatical derivation of "hotāram" and "ratna" — confirming the accent patterns already established in the Pratipadartha, via the same dense sutra-citation register as the preceding pages, summarized here rather than reproduced verbatim.)*
@@ -13925,6 +13935,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 ---
 
 **Having thus explained, at length, both the meaning and the grammatical derivation of the first Rik, [the commentary] now proceeds to state the meaning of the second Rik.**
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 7-3-84, 7-3-110, 6-4-11, 26, 5-3-55.)*
 
 ### Page 622 — The Second Mantra of the Rigveda
 
@@ -13951,6 +13963,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 **Translation of Sāyaṇa's commentary:** "This Agni is worthy to be praised (īḍya, stutya) by the ancient rishis of former times — Aṅgiras and others; and equally worthy to be praised by present-day rishis as well. That Agni, thus praised, brings the gods, [laden] with their [ritual] portions, here to this yajna. The root 'vah' [here as 'vakṣati'] carries the sense of 'conveying, bringing.'"
 
 *(The remainder of this page continues into the same dense grammatical-derivation register seen throughout the preceding pages — working through the accent and formation of "pūrvebhiḥ," "ṛṣibhiḥ," "īḍyaḥ," "nūtanaiḥ," "uta," and the sandhi/accent treatment of "devān" before "eha" — citing a long chain of specific Ashtadhyayi sutras. Consistent with the cautious approach adopted for this register throughout this project, these specific numbered citations are not reproduced verbatim here; a dedicated pass with a standard Ashtadhyayi reference would be needed to transcribe them reliably.)*
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 7-1-10, 4-1-114, 7-3-86, 4-119, 3-1-124, 6-1-185, 6-1-214, 5-4-30-6, 1-1-37, 4-14, 8-3-2, 8-3-3.)*
 
 ### Page 623
 
