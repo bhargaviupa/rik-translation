@@ -3,7 +3,7 @@
 import re, sys, html, pathlib
 from weasyprint import HTML
 import build as B
-import vol45_clean, voice
+import vol45_clean, vol67_clean, voice
 
 PUB = B.PUB
 PLAIN_NO = re.compile(r'^(#|<|>|\s*[-*] |\d+\. |\||:::)')
@@ -12,6 +12,18 @@ CFG = {
          expected={33:15,34:12,35:11,36:20,37:15,38:15,39:10,40:8,41:9,42:10,43:9,44:14,45:10,46:15}),
  5: dict(title='Maṇḍala 1 · Sūktas 47–61 and the Pariśiṣṭa · Fourth Adhyāya of the First Aṣṭaka', cover='cover_vol5.jpg',
          expected={47:10,48:16,49:4,50:13,51:15,52:15,53:11,54:11,55:8,56:6,57:6,58:9,59:7,60:5,61:16}),
+
+ 6: dict(title='Maṇḍala 1 · Sūktas 62–80 · Fifth Adhyāya of the First Aṣṭaka', cover='cover_vol6.jpg',
+         expected={62:13,63:9,64:15,65:5,66:5,67:5,68:5,69:5,70:6,71:10,72:10,73:10,74:9,75:5,76:5,77:5,78:5,79:12,80:16}),
+ 7: dict(title='Maṇḍala 1 · Sūktas 81–94 · Sixth Adhyāya of the First Aṣṭaka', cover='cover_vol7.jpg',
+         expected={81:9,82:6,83:6,84:20,85:12,86:10,87:6,88:6,89:10,90:9,91:23,92:18,93:12,94:16}),
+ 8: dict(title='Maṇḍala 1 · Sūktas 95–112 · Seventh Adhyāya of the First Aṣṭaka', cover='cover_vol8.jpg',
+         expected={95:11,96:9,97:8,98:3,99:1,100:19,101:11,102:11,103:8,104:9,105:19,106:7,107:3,108:13,109:8,110:9,111:5,112:25}),
+
+ 9: dict(title='Maṇḍala 1 · Sūktas 113–121 · Eighth Adhyāya of the First Aṣṭaka', cover='cover_vol9.jpg',
+         expected={113:20,114:11,115:6,116:25,117:25,118:11,119:10,120:12,121:15}),
+ 10: dict(title='Maṇḍala 1 · Sūktas 122–136 · First Adhyāya of the Second Aṣṭaka', cover='cover_vol10.jpg',
+         expected={122:15,123:13,124:13,125:7,126:7,127:11,128:8,129:11,130:10,131:7,132:6,133:7,134:6,135:9,136:7}),
 }
 
 def short_label(title):
@@ -53,7 +65,7 @@ def rik_of(text, cur):
 
 def build(vol, mode='full'):
     cfg = CFG[vol]
-    vol45_clean.clean(vol)
+    (vol67_clean if vol >= 6 else vol45_clean).clean(vol)
     md = (PUB / 'work' / f'vol{vol}_clean.md').read_text(encoding='utf-8')
     if mode == 'pilot': md = md[:50000]
     B.FN_STORE.clear()
@@ -109,6 +121,7 @@ def build(vol, mode='full'):
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <title>Ṛgveda-saṃhitā, Volume {vol}</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="style_vol1.css"></head><body>
 {B.front_matter(vol, cfg["title"], [], cover=cfg["cover"], toc_html=chr(10).join(toc))}
+{('<section style="page-break-before:always;page-break-after:always;text-align:center"><img src="assets/title_vol9.jpg" alt="Original title page of the Eighth Adhyaya" style="max-width:100%;max-height:92vh"></section>' if vol == 9 else '')}
 {body_html}
 {B.notes_appendix(notes)}
 </body></html>'''

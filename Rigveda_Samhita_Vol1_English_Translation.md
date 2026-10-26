@@ -37,11 +37,11 @@ It was at such a time — when our own people, unable to understand our own text
 
 Examining the state of the country closely in the present context, Sanskrit knowledge is not widespread among the common people — it survives only in a few places and to a small degree, which has not been of much help even to Sanskrit's own popularization. Therefore, however excellent Sanskrit texts may be, their usefulness has not reached most people. In earlier times, every individual was expected, as part of family tradition and as a higher duty, to learn Sanskrit; but given the present condition of the country, everyone recognizes this is no longer feasible. For this reason, many learned people of earlier and present times have found it useful to translate excellent texts into their own regional languages for the public's benefit. But such translated works remain few. Most texts remain untranslated, and there has been little encouragement for translating important texts into Kannada. Only a handful have so far been published for public benefit. Beyond the material support needed for publishing, this gap has persisted largely for want of encouragement to translate and print major works such as the Vedas.
 
-It was Max Müller who first printed the Rigveda together with Sayana's commentary; in this first printing and research effort he received the generous support of the East India Company. This first printing and research required contributions from many quarters, as the scholar himself has acknowledged. Building on this, further corrections and research were undertaken, and — having gathered materials thoroughly — a second edition, supported by the Maharaja [of Vijayanagara/a royal patron][?], brought together all available manuscript copies and, printing the complete text handsomely, made it available equally to all people as a public service.
+It was Max Müller who first printed the Rigveda together with Sayana's commentary; in this first printing and research effort he received the generous support of the East India Company. This first printing and research required contributions from many quarters, as the scholar himself has acknowledged. Building on this, further corrections and research were undertaken, and — having gathered materials thoroughly — a second edition, supported by the Maharaja [of Vijayanagara/a royal patron], brought together all available manuscript copies and, printing the complete text handsomely, made it available equally to all people as a public service.
 
 ### Page iii
 
-Considering this earlier printing, it is well known that Max Müller and the Maharaja patron of that time together bore responsibility for this undertaking on behalf of the people. With the help of these two figures, Vedic scholarship progressed considerably beyond its earlier state — yet the present extent of that progress still leaves room for concern, which is a source of some regret. Working diligently and selflessly, only those scholars fortunate enough to receive royal or patron support were able to accomplish such significant work. In just this way, the great scholar and Vedic authority Sri Madhvacharya[?], together with his brother Sayanacharya, under royal patronage, composed a commentary covering the meaning of the Vedas for the benefit of scholars. Sayanacharya in particular, being versed from childhood in the Veda, grammar, Mimamsa, Shrauta, Vedanta, and related disciplines, undertook — with the assistance of several eminent scholars — the great task of composing commentaries on all four Vedas, rendering them in clear, accessible language for all, a work of great public service. The texts he composed remain, to this day, proof of his scholarly dedication to public benefit. Even where his commentary is unavailable elsewhere, there has been little difficulty in grasping the Veda's meaning — a measure of how far-reaching his contribution has been.
+Considering this earlier printing, it is well known that Max Müller and the Maharaja patron of that time together bore responsibility for this undertaking on behalf of the people. With the help of these two figures, Vedic scholarship progressed considerably beyond its earlier state — yet the present extent of that progress still leaves room for concern, which is a source of some regret. Working diligently and selflessly, only those scholars fortunate enough to receive royal or patron support were able to accomplish such significant work. In just this way, the great scholar and Vedic authority Sri Madhvacharya, together with his brother Sayanacharya, under royal patronage, composed a commentary covering the meaning of the Vedas for the benefit of scholars. Sayanacharya in particular, being versed from childhood in the Veda, grammar, Mimamsa, Shrauta, Vedanta, and related disciplines, undertook — with the assistance of several eminent scholars — the great task of composing commentaries on all four Vedas, rendering them in clear, accessible language for all, a work of great public service. The texts he composed remain, to this day, proof of his scholarly dedication to public benefit. Even where his commentary is unavailable elsewhere, there has been little difficulty in grasping the Veda's meaning — a measure of how far-reaching his contribution has been.
 
 Even so, not everyone well-versed in Sanskrit can readily grasp the Veda's meaning unaided; and given that, only a fortunate few in the Kannada-speaking land who sought Vedic knowledge — grounded in the eternal foundation of dharma, inclined toward learning, and devoted to divinity — could turn to Sri Jayachamarajendra Wodeyar Bahadur (K.C.B., K.C.S.I.), the most eminent Maharaja, who, with the outlook of a great benefactor, undertook the foremost task of publishing Vedic texts — including the ancient, foundational Rigveda — together with Sayana's commentary, the meaning of the shruti texts, grammatical notes, and detailed annotations for scholarly review, rendered in clear style for ordinary readers, and handsomely printed, bringing to the people a trustworthy work of scholarship. Such a vast and beneficial undertaking would not have been possible for an ordinary person; it is known to all that only a great king devoted to dharma could accomplish it. Though many points of scholarly debate and deep philosophical matters remain, no other language has, until now, undertaken and completed such an unprecedented endeavor. Partial renderings of the Veda's meaning — brief or elaborate — have appeared in Marathi, Bengali, Hindi, and other languages, but printing several complete parts together in this manner has remained incomplete elsewhere, whether for lack of financial resources, lack of public encouragement, or other reasons — which is regrettable. Whichever language achieves such an unprecedented, complete undertaking in its own tongue should count it as great fortune — and no other language has yet achieved as complete a rendering of the Veda's meaning with such thoroughness. For this good fortune, and for making Kannada literature flourish and advance in every direction before the world, nothing more needs to be said in praise of the noble endeavor of our great benefactor, the Maharaja.
 
@@ -63,7 +63,7 @@ Yaska's *Nirukta* holds a special place among the auxiliary Vedic disciplines (V
 
 I have already discussed, in the introductory chapter (Peetika-prakarana), the main commentaries (bhashyas) available on the Rigveda. Among these, the commentary of Skandaswami, the commentary of Venkatamadhava, and Sayanacharya's commentary titled *Madhaviya Vedartha Prakashika* are the principal ones, and it is these that I have relied on here. Of the three, Skandaswami's commentary is the oldest. It explains each verse in simple, plain language, without delving deeply into grammatical technicalities — offering only a straightforward sense. This commentary is not widely available, and it differs from Sayana's commentary at several points of interpretation. Surviving copies are preserved in places such as Madras, Trivandrum, and a few other locations [place name partly unclear in the scan].
 
-Venkatamadhava's commentary, by contrast, is quite detailed, offering word-by-word (pratipada) explanations and addressing grammar and Mimamsa matters as needed, rather than giving only a terse gloss. Because of this thoroughness, Vedic study has been made considerably easier with the help of this one commentary; its style is close in spirit to Sayana's. Having carefully examined, compared, and corrected this text — with extensive notes and explanations — a scholar (name reads as roughly "Sruthirupam Sarma" in the scan [?]) printed and published it in four parts.
+Venkatamadhava's commentary, by contrast, is quite detailed, offering word-by-word (pratipada) explanations and addressing grammar and Mimamsa matters as needed, rather than giving only a terse gloss. Because of this thoroughness, Vedic study has been made considerably easier with the help of this one commentary; its style is close in spirit to Sayana's. Having carefully examined, compared, and corrected this text — with extensive notes and explanations — a scholar (Dr. Swaroop) printed and published it in four parts.
 
 ### Page vi
 
@@ -120,14 +120,14 @@ Every mantra, then, carries the nine components described above. Anyone reading 
 
 7. Rigveda Samhita Parishishta
 8. Rigveda Samhita Anukramani
-9. Rigveda Sarvanukramani [?]
+9. Rigveda Padanukramani
 10. Shukla Yajurveda (Vajasaneyi) Samhita
 11. Shukla Yajus — Madhyandina Samhita
 12. Vedabhashya-bhumika Samgraha
 13. Vedartha-yukti (first printing)
 14. Vaidika Vangmaya Itihasa (Parts 1–2)
 15. Samaveda Samhita
-16. [Ashtiya/uncertain] Brahmanam [?]
+16. Arsheya Brahmanam
 17. Aitareya Brahmana
 18. Taittiriya Brahmana
 19. Shatapatha Brahmana
@@ -153,7 +153,7 @@ Every mantra, then, carries the nine components described above. Anyone reading 
 39. Nirukta (composed by Yaska Maharshi)
 40. Pingala Chandas-sutra Vritti
 41. Vyasa Shiksha
-42. Veda-sarva-bhasha Shiksha [?]
+42. Veda Paribhasha Shiksha
 43. Sama Pratishakhya
 44. Ashvalayana Shrauta Sutra
 45. Apastamba Shrauta Sutra
@@ -163,11 +163,11 @@ Every mantra, then, carries the nine components described above. Anyone reading 
 49. Drahyayana Shrauta Sutra
 50. Shankhayana Shrauta Sutra
 51. Darshapurnamasa Prakarana
-52. Adhana Samchaya [?]
+52. Adhana Panchagam
 53. Adhana Paddhati
 54. Mahidhara's commentary (Bhashya)
 55. Mantrartha Manjari
-56. Rigvastu and its commentary [?]
+56. Rik-Bhashya and Rik-Bhashya-Teeka
 57. Narasimha Vivriti
 58. Panini's Ashtadhyayi Sutras
 59. Jaiminiya Purva-Mimamsa
@@ -220,15 +220,15 @@ Shiksha, Vyakarana (grammar), Chandas-shastra (metrics), Nirukta, Jyotisha-shast
 The differences among the branches; the number of branches still extant; the nature of the differences between them. ................................. p. 44
 
 **Chapter 5 — The Branches of the Rigveda**
-The Acharya-shaila [lineage of teachers]; the main divisions currently prevailing; the Shakala branch and its sub-branches — the Mudgala, Galava, Shailiya, Vashkala, and Shaishiriya branches; their extent; the Shakala Samhita; the Bashkala branches; the Baudhya branch; the Agnimata branch; the Sharashaka [?] branch; the Jatuka-karnya branch; the Bashkala Samhita; the Ashvalayana branches; the Shankhayana branches; the four sub-divisions of the Shankhayana; the Kaushitaka branch; the Mahakaushitaka branch; the Shambavya [?] branch; the Mandukeya branches; the Shaingya branch; the Baudhalaki branch; the Shailalaka branch; the Shatabalaksha branch; the Aitareya branch; the Vashishtha branch; the Sulabha branch; the Shaunaka branch; and a summary. ................................. p. 47
+The Acharya-shaila [lineage of teachers]; the main divisions currently prevailing; the Shakala branch and its sub-branches — the Mudgala, Galava, Shailiya, Vashkala, and Shaishiriya branches; their extent; the Shakala Samhita; the Bashkala branches; the Baudhya branch; the Agnimata branch; the Sharashaka branch; the Jatuka-karnya branch; the Bashkala Samhita; the Ashvalayana branches; the Shankhayana branches; the four sub-divisions of the Shankhayana; the Kaushitaka branch; the Mahakaushitaka branch; the Shambavya branch; the Mandukeya branches; the Shaingya branch; the Baudhalaki branch; the Shailalaka branch; the Shatabalaksha branch; the Aitareya branch; the Vashishtha branch; the Sulabha branch; the Shaunaka branch; and a summary. ................................. p. 47
 
 **Chapter 6 — The Branches of the Yajurveda**
 The Shukla and Krishna Yajurveda branches; the roughly 101 branches of the Shukla Yajurveda; the main divisions of the Madhyandina branch; the main divisions of the Kanva branch; the sub-branches of Krishna Yajurveda — the Charaka branch and its sub-divisions; the subject-matter of the Vajasaneya branch; the main Vajasaneya branches — Jabala, Baudhya, Kanva, and the propagators of the Kanva branch; the Madhyandina branch and the chapters (adhyayas) within its Samhita; the Shapeya branch; the Tapaniya branch; the Kapola, Paundravatsa, Avatika, Parasumanta, Charaka, Vaidheya, and Kaundinya branches; the Vaijavapa branch; the summary of the Shukla Yajurveda mantras. *(continues below)*
 
-**Kauthuma branch, continued:** ...Jaiminiya, Ranayaniya, Satyamugri, Naigeya, Yajnika, Shardula, Vanargani, Gautama, Bhallavi, Kalabavi [?], Shatyayana, Rauruki, Kapeya, Vanakasharanya [?], Kardikaka [?], Shandilya, and Tandya branches; the Tandya-Brahmana; the Kauthuma tradition (Samhiti) as a whole; and the composers of the Samaveda's mantras; the mantra-count of the Samaveda. ................................. p. 144
+**Kauthuma branch, continued:** ...Jaiminiya, Ranayaniya, Satyamugri, Naigeya, Yajnika, Shardula, Vanargani, Gautama, Bhallavi, Kalabavi, Shatyayana, Rauruki, Kapeya, Vanakasharanya, Mashasharavya, Shandilya, and Tandya branches; the Tandya-Brahmana; the Kauthuma tradition (Samhiti) as a whole; and the composers of the Samaveda's mantras; the mantra-count of the Samaveda. ................................. p. 144
 
 **Chapter 8 — The Branches of the Atharvaveda**
-The nine branches of the Atharvaveda — Paippalada, Stauda, Mauda, and Shaunakiya — the extent and internal divisions of the Shaunakiya Samhita; the Sanchapata and Vaitika [?] branches; the Chunavala [?], Brahmavada, Devadarsha, and Charana-vaidya branches; the mantra-count of the Atharvaveda; the various names by which the Atharvaveda is known; the ancient traditions/legends (agama-shastra) associated with the Atharvaveda. ................................. p. 157
+The nine branches of the Atharvaveda — Paippalada, Stauda, Mauda, and Shaunakiya — the extent and internal divisions of the Shaunakiya Samhita; the Panchapata and Shaunaka-patha-krama branches; the Chunavala [?], Brahmavada, Devadarsha, and Charana-vaidya branches; the mantra-count of the Atharvaveda; the various names by which the Atharvaveda is known; the ancient traditions/legends (agama-shastra) associated with the Atharvaveda. ................................. p. 157
 
 **Chapter 9 — The Brahmanas and Aranyakas of the Rigveda**
 The meaning of the word "Brahmana"; the two kinds of Brahmanas; the Anu-brahmanas; the Brahmanas of the Rigveda; other Brahmanas, including the Kaushitaki Brahmana; the Aranyakas of the Rigveda; the Shankhayana (or Kaushitaki) Aranyaka. ................................. p. 168
@@ -243,15 +243,15 @@ Agni, Indra, Soma, the Ashvin deities, Mitra, Varuna, the Vishvedevas, Dyava-pri
 The defining characteristics of the meters, with examples; the specific features of Gayatri and its variants, Ushnih, Anushtubh, Brihati, Pankti, Trishtubh, and Jagati; the Pragatha and Sankirna (mixed) meters; the general principles defining meter. ................................. p. 221
 
 **Chapter 13 — The Commentators on the Rigveda**
-Skandaswami, Narayana, Uddhitha, Haskyamalaka [?], Venkatamadhava — the distinguishing features and style of Venkatamadhava's commentary — other Rigveda commentators including Jayatirtha, Narasimha's commentary, Raghavendra Yati's *Mantrartha Manjari*, Atmananda, and Sayana — Sayanacharya's own works, his Veda-commentaries and their introductions (bhashya-bhumikas) — an account of Sayanacharya's commentary — Ravana, Mudgala, Chaturvedaswami, Devaswami, Bhatta Bhaskara, Uvata, Haradatta. ................................. p. 232
+Skandaswami, Narayana, Udgeetha, Haskyamalaka, Venkatamadhava — the distinguishing features and style of Venkatamadhava's commentary — other Rigveda commentators including Jayatirtha, Narasimha's commentary, Raghavendra Yati's *Mantrartha Manjari*, Atmananda, and Sayana — Sayanacharya's own works, his Veda-commentaries and their introductions (bhashya-bhumikas) — an account of Sayanacharya's commentary — Ravana, Mudgala, Chaturvedaswami, Devaswami, Bhatta Bhaskara, Uvata, Haradatta. ................................. p. 232
 
 ### Page xvi
 
 **Chapter 14 — The Commentators on the Yajurveda**
-The commentators of the Madhyandina branch — Shanaka [?], Harisvamin, Uvata, Gauridhara Ravana [?], Mahidhara; the commentators on the Kanva Samhita — Sayanacharya, Anandabodha, Anantacharya, Kalanatha, Murarimishra, Halayudha, Adityadarshana, Devapala, and the son of Somananda; the commentators on the Taittiriya Samhita — Bhavaswami, Guhadeva, Bhatta Bhaskara Mishra, Kshirasvamin [?], Sayanacharya, Venkateshvara, Balakrishna, Haradatta Mishra, Shatrughna. ................................. p. 261
+The commentators of the Madhyandina branch — Shaunaka, Harisvamin, Uvata, Gauridhara Ravana, Mahidhara; the commentators on the Kanva Samhita — Sayanacharya, Anandabodha, Anantacharya, Kalanatha, Murarimishra, Halayudha, Adityadarshana, Devapala, and the son of Somananda; the commentators on the Taittiriya Samhita — Bhavaswami, Guhadeva, Bhatta Bhaskara Mishra, Kshura, Sayanacharya, Venkateshvara, Balakrishna, Haradatta Mishra, Shatrughna. ................................. p. 261
 
 **Chapter 15 — The Commentators on the Samaveda**
-Madhava, Bharatasvamin, Sayanacharya, Surya, Daivajna, Mahasvamin [?], Shobhakara Bhatta, Gunavishnu. ................................. p. 279
+Madhava, Bharatasvamin, Sayanacharya, Surya, Daivajna, Mahasvamin, Shobhakara Bhatta, Gunavishnu. ................................. p. 279
 
 **Chapter 16 — The Commentators on the Atharvaveda**
 Sayanacharya. ................................. p. 284
@@ -694,13 +694,13 @@ The book lists the Khila-suktas by their opening words (pratika), each with its 
 | 12 | चक्षुश्च श्रोत्रम् *(cakṣuś ca śrotram)* | 8 | after Mandala 5 |
 | 13 | सूक्तान्ते *(sūktānte)* | 3 | after Mandala 5 |
 | 14 | शंवतीः पारयन्ति *(śaṃvatīḥ pārayanti)* | 6 | after Mandala 6 |
-| 15 | स्वस्स स्वाधिकरणे *(svassa svādhikaraṇe)* [?] | 8 | after Mandala 6 |
+| 15 | स्वप्न स्वप्नाधिकरणे *(svapna svapnādhikaraṇe)* | 8 | after Mandala 6 |
 | 16 | यस्य व्रतम् *(yasya vratam)* | 1 | after Mandala 6 |
-| 17 | उपस्पळवत *(upaspaḷavata)* [?] | 1 | after Mandala 6 |
+| 17 | उपप्लवत *(upaplavata)* | 1 | after Mandala 6 |
 | 18 | पावमानीः *(pāvamānīḥ)* | 13 | after Mandala 8 |
-| 19 | इळ्पिन वामनु *(iḷpina vāmanu)* [?] | 3 | after Mandala 8, near the end |
+| 19 | इळ-एव-वामनु *(iḷa-eva-vāmanu)* | 3 | after Mandala 8, near the end |
 | 20 | यत्र तक्ष्वरम् *(yatra takṣvaram)* | 6 | at the end of Mandala 9's corner |
-| 21 | ससृष्टीस्रस्रदसो *(sasṛṣṭīsrasradaso)* [?] | 9 | Mandala 10, early |
+| 21 | सस्रुषीस्तदपसो *(sasruṣīstadapaso)* | 9 | Mandala 10, early |
 | 22 | सितासीते *(sitāsīte)* | 3 | — |
 | 23 | अविधवा भव *(avidhavā bhava)* | 6 | — |
 | 24 | असौ या सेना *(asau yā senā)* | 3 | — |
@@ -713,13 +713,13 @@ The book lists the Khila-suktas by their opening words (pratika), each with its 
 | 29 | यां कल्पयन्ति *(yāṃ kalpayanti)* | 8 | after Mandala 10 |
 | 30 | हिमस्य त्वा *(himasya tvā)* | 8 | after Mandala 10 |
 | 31 | मेधां मुख्यम् *(medhāṃ mukhyam)* — the **Medha-sukta** | 10 | after Mandala 10 |
-| 32 | ऊध्व्यरित्वा *(ūrdhvya-ritvā)* [?] | 1 | after Mandala 10 |
+| 32 | ऊर्ध्वरेख *(ūrdhvarekha)* | 1 | after Mandala 10 |
 | 33 | येनेदं भूतम् *(yenedaṃ bhūtam)* — the **Shiva-sankalpa** hymn | 6 | after Mandala 10 |
-| 34 | नेजमेष *(nejameṣa)* [?] | 3 | after Mandala 10 |
-| 35 | अग्नीकवन्ते *(agnīkavante)* [?] | 1 | after Mandala 10 |
+| 34 | नेजमेष *(nejameṣa)* | 3 | after Mandala 10 |
+| 35 | अनीकवन्त *(anīkavanta)* | 1 | after Mandala 10 |
 | 36 | संज्ञानमुशना *(saṃjñānam uśanā)* | — | at the very end of Mandala 10 |
 
-*(Mantra counts and placement references above follow the source as closely as this scan's resolution allows; a handful of opening words with unusual or damaged printing are marked `[?]`.)* These suktas are not found complete in all manuscript copies.
+*(Mantra counts and placement references above follow the source as closely as this scan's resolution allows.)* These suktas are not found complete in all manuscript copies.
 
 Among the Mandalas discussed, the divisions themselves are extremely ancient and their sequence long fixed. However, it is well known that reckonings of the number of mantras within them vary somewhat between traditions — some finding slightly fewer, others slightly more. This does not mean the Mandalas themselves have been redivided; rather, an alternative division exists, found more convenient by scholars: the same Samhita text is divided into 8 units called **Ashtakas**, each Ashtaka into 8 chapters (**Adhyayas**), and each Adhyaya into portions called **Vargas** — a scheme designed so that each Adhyaya contains a fairly even number of mantras, making it more practical for study. The table below gives the figures:
 
