@@ -15652,10 +15652,9 @@ I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they
 
 **"Dhiyam"** — this word means an act of sacrifice, a rite. **Geldner** calls it "poem, composition" (Poem). Skandasvāmin, Veṅkaṭamādhava, and Sāyaṇa do not accept this. Skandasvāmin calls it "an act to be examined/investigated" (*vicāryaṃ karma*), and Sāyaṇa calls it "*varṣaṇa-karma*" (the rain-bringing rite). This is correct, because it is well established that Vṛṣṭi (rain) is brought about through the performance of yajnas in the Vedic period. **This sense is clearly evident in the Rik:**
 
-> युद्धेनाशिं शतकतवे पुरोरुहेको होत्राय वृषकं कृतस्य दीधेत् । देवपत्रं वृष्णियं रराशेको बृहस्पतिर्नाचमश्यायच्छेत् ॥
-> *yuddhenāśiṃ śatakatave puroruheko hotrāya vṛṣakaṃ kṛtasya dīdheta | devapatraṃ vṛṣṇiyaṃ rarāśeko bṛhaspatir nācamaśyāyacchet ||* (Rigveda 10.?.?)
+> यद्देवापिः शन्तनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥
+> *yaddevāpiḥ śantanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖* (Rigveda 10-98-7 [?]; verse re-read from the better scan in the [?] pass)
 
-*(this specific citation remains a genuinely dense best-effort reading given its compressed and archaic form)*
 
 ---
 
@@ -15944,15 +15943,20 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 *(A representative sample of entries from this page's two-column list, given the format's density — mantra-opening, then locator(s):)*
 
-- **aṃkuraṃ duhanti svanayantam** — 9-42-6
-- **aṃsīva vā bahuyor 8-86-10**
-- **aṃsebhya u marutaḥ khādayo 1-166-10**
-- **taittirīyabrāhmaṇa 3-7-9-1**
-- **atharva 3-1-3-5**
-- **akavāro yuvaṃ vas trapa vayaḥ 1-116-6**
-- **akarma te śaspam abhūma 10-128-1; nī. 1-1**
-- **akāri te harivo brahma navyaṃ** — 1-61-16
-- **akkuvo maṇḍūkaṃ 10-184-5; nī. 6-1**
-- **akṣṇo apyatīty agniḥ** — 10-104-10 (?)
+- **aṃśuṃ duhanti stanayantam** — 9-72-6 (the example used in the index's own explanatory note: Maṇḍala 9, Sūkta 72, Mantra 6)
+- **aṃśeṣu va ṛṣayaḥ** — 5-54-11
+- **aṃseṣv ā marutaḥ khādayaḥ** — 7-56-13; Tai. Brā. 2-8-5-5
+- **aṃhoyuvas tanvas tanvate vi vayaḥ** — 5-15-3
+- **akarma te svapaso abhūma** — 4-2-19; Atharva 18-3-24
+- **akarmā dasyur abhi no amantuḥ** — 10-22-8
+- **akāri ta indra gotamebhiḥ** — 1-63-9
+- **akṣaṇvantaḥ karṇavantaḥ sakhāyaḥ** — 10-71-7; Ni. 1-9
+- **akṣann amīmadanta hy ava** — 1-82-2; Sāma 415; Vā. Ya. 3-51; Tai. Saṃ. 1-8-5-2
+- **akṣānaho nahyatanota** — 10-53-7
+- **akṣāsa id aṅkuśinaḥ** — 10-34-7
+- **akṣitotiḥ saned imam** — 1-5-9; Atharva 20-69-7
+- **akṣībhyāṃ te nāsikābhyām** — 10-163-1; Atharva 2-33-1; 20-96-17
+
+*(Sample re-read from the better scan in the [?] pass — the earlier sample here was misread. The locators were read at ordinary resolution, not digit by digit; they belong to the index, which this translation does not transcribe in full.)*
 
 *(This appendix appears set to continue for a considerable number of pages, given its evident aim to index the Rigveda's full corpus of roughly ten thousand mantras. Given its reference-tool nature — a raw alphabetical concordance rather than narrative commentary — it would be worth confirming how you'd like this handled: transcribed in full over many further pages, sampled/characterized as here, or skipped in favour of returning directly to Sukta 3's verse-by-verse commentary and revisited later if needed.)*
