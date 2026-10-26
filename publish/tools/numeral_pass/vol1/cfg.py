@@ -9,6 +9,10 @@ PARTS=[  # (path, first global PDF page)
     ('kannada/01 Rigveda Samhitha Volume 1 4,pdf.pdf',301),
     ('kannada/01 Rigveda Samhitha Volume 1 5.pdf',401),
     ('kannada/01 Rigveda Samhitha Volume 1 6.pdf',501),
+    ('kannada/01 Rigveda Samhitha Volume 1 7.pdf',601),
+    ('kannada/01 Rigveda Samhitha Volume 1 8.pdf',701),
+    ('kannada/01 Rigveda Samhitha Volume 1 9.pdf',801),
+    ('kannada/01 Rigveda Samhitha Volume 1 10.pdf',876),
 ]
 EN=os.path.join(ROOT,'Rigveda_Samhita_Vol1_English_Translation.md')
 GAPS=os.path.join(ROOT,'Rigveda_Samhita_Vol1_Gaps_English_Translation.md')
