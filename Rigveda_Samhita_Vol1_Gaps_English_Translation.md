@@ -1915,7 +1915,7 @@ The Taittirīya Āraṇyaka has 6 adhyāyas, and the Taittirīya Upaniṣad 4 ad
 | 3 | 11 | 79 |
 | 4 | 1 | 19 |
 | 5 | 13 | 29 |
-| 6 | 15 | 38 (50), 39 [?] |
+| 6 | 15 | 38 (50), 38 [?] |
 | 7 | 14 | 130 [?] |
 | 8 | 23 | 91 |
 | 9 | 23 | 84 |
@@ -2330,7 +2330,7 @@ In every Sāma-saṃhitā there are two divisions called *gāna* and *ārcika*. 
 
 ## 1. Kauthumas
 
-**Grāme-geya-gāna = Veya-gāna** — in this there are 17 divisions called prapāṭhakas. In each prapāṭhaka there are two parts, *pūrva* and *uttara*. One Satyavrata Sāmaśramī printed this in 1874. Another, purer edition has been made by one Kṛṣṇa Svāmi Śrautī. In 1899 [?] an edition in Grantha script has been printed. Its name:
+**Grāme-geya-gāna = Veya-gāna** — in this there are 17 divisions called prapāṭhakas. In each prapāṭhaka there are two parts, *pūrva* and *uttara*. One Satyavrata Sāmaśramī printed this in 1874. Another, purer edition has been made by one Kṛṣṇa Svāmi Śrautī. In 1889 an edition in Grantha script has been printed. Its name:
 
 > सामवेदसंहितायां कौथुमशाखायां वेयगानम् ।
 >
@@ -2440,7 +2440,7 @@ The brāhmaṇa of the Jaiminīya branch is also called the Talavakāra-brāhma�
 
 ## 3. Rāṇāyanīyas
 
-Brāhmaṇas who are followers of the Rāṇāyanīya branch are found in many places. But they have no works of the Rāṇāyanīya branch with them. In the absence of proper works nothing more can be said about this branch. Mention of Rāṇāyanīya *khila* mantras is found in Śaṅkara's Vedānta-bhāṣya (3-3-23); there mention of an Upaniṣad belonging to the Rāṇāyanīya branch is also made. Attention should be paid to the reference concerning the Rāṇāyanīyas on p. 1079 [?] of Hemādri's Śrāddha-kalpa.
+Brāhmaṇas who are followers of the Rāṇāyanīya branch are found in many places. But they have no works of the Rāṇāyanīya branch with them. In the absence of proper works nothing more can be said about this branch. Mention of Rāṇāyanīya *khila* mantras is found in Śaṅkara's Vedānta-bhāṣya (3-3-23); there mention of an Upaniṣad belonging to the Rāṇāyanīya branch is also made. Attention should be paid to the reference concerning the Rāṇāyanīyas on p. 1079 of Hemādri's Śrāddha-kalpa.
 
 ## 4. Sātyamugrāḥ
 
@@ -2839,7 +2839,7 @@ A manuscript of the Paippalāda saṃhitā [on birch-bark, in Śāradā script] 
 
 Before this saṃhitā went outside our country, three copies were made in Devanāgarī script. Of these three, one copy is preserved in the Bhandarkar Institute at Pune. The second copy was with Roth until 1874.
 
-In the Śāradā-script original copy of this saṃhitā 16 leaves are lost. Leaves 2, 3, 4 and 5 are decayed. Probably a Devanāgarī copy of this very saṃhitā is in the library of the Royal Asiatic Society, Bombay branch. A photographic copy of it is in the Lahore library [No. 6662 [?]]. This was written in Kashmir in 1870.
+In the Śāradā-script original copy of this saṃhitā 16 leaves are lost. Leaves 2, 3, 4 and 5 are decayed. Probably a Devanāgarī copy of this very saṃhitā is in the library of the Royal Asiatic Society, Bombay branch. A photographic copy of it is in the Lahore library [No. 6662]. This was written in Kashmir in 1870.
 
 ### Other works of the Paippalāda branch
 
@@ -2887,7 +2887,7 @@ A scholar called Whitney has said that in the Paippalāda Atharvaveda in Kashmir
 
 In the monthly journal of the American Oriental Society the Paippalāda branch has been published in Roman script.
 
-In the catalogue of the Baroda State there is a copy of the Puruṣa-sūkta [No. 3811 [?]]. At its end is this sentence —
+In the catalogue of the Baroda State there is a copy of the Puruṣa-sūkta [No. 3810]. At its end is this sentence —
 
 [A small bracketed numeral, read as "[20?]", stands at the foot of this page in the print; it is not a page number.]
 

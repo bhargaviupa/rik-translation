@@ -107,7 +107,7 @@ For this reason, in undertaking this Kannada rendering of the Rigveda, I have ma
 
 Every mantra, then, carries the nine components described above. Anyone reading through them might suppose the subject has been treated in its entirety — but that is not really so. What is offered here is but a single drop from the vast ocean of Vedic meaning. Across the centuries, highly capable scholars, each according to their own ability, have drawn on many authoritative texts and their own research to explain the Veda's meaning, yet no one has been able to accomplish this fully through individual effort alone, whatever the subject. Anyone who takes up such a great task for the public good should regard the effort itself as their duty, and leave its true fulfillment to the will of God.
 
-**Texts consulted in the composition of this work include** *(titles below are transliterated; a few uncertain readings from the scan are marked [?])*:
+**Texts consulted in the composition of this work include** *(titles below are transliterated)*:
 
 1. Rigveda Samhita — with Sayana's commentary
 2. Rigveda Samhita — with Skandaswami's commentary
@@ -3320,11 +3320,11 @@ The source opens this section with a versified mnemonic listing meter-openings i
 | अतिनिचृत् *(Atinicṛt)* | 20 | 7-6-7 | मध्यमः षट्कश्चेत् अतिनिचृत् *(madhyamaḥ ṣaṭkaś cet atinicṛt)* | पुरूतमं *(purūtamaṃ)* | 6-45-29 |
 | यवमध्या *(Yavamadhyā)* | 24 | 7-10-7 | दशकश्चेत् यवमध्या *(daśakaś cet yavamadhyā)* | स सुन्वे यो *(sa sunve yo)* | 9-108-13 |
 | वर्धमाना *(Vardhamānā)* | 21 | 6-7-8 | यस्यास्तु षट्सप्तकाष्टकाः सा वर्धमाना *(yasyās tu ṣaṭsaptakāṣṭakāḥ sā vardhamānā)* | ईशाना वार्याणां *(īśānā vāryāṇāṃ)* | 10-9-5 |
-| प्रतिष्ठा *(Pratiṣṭhā)* | 21 | 8-7-6 | विपरीता प्रतिष्ठा *(viparītā pratiṣṭhā)* | आपः पृणीत *(āpaḥ pṛṇīta)* | 10-9-7 [?] |
+| प्रतिष्ठा *(Pratiṣṭhā)* | 21 | 8-7-6 | विपरीता प्रतिष्ठा *(viparītā pratiṣṭhā)* | आपः पृणीत *(āpaḥ pṛṇīta)* | 10-9-7 |
 | ह्रसीयसी *(Hrasīyasī)* | 19 | 6-6-7 | द्वौ षट्कौ सप्तकश्च ह्रसीयसी *(dvau ṣaṭkau saptakaś ca hrasīyasī)* | प्रेष्ठमु प्रियाणां *(preṣṭham u priyāṇāṃ)* | 8-103-10 |
 | विपरीता ह्रसीयसी *(Viparītā Hrasīyasī)* | 19 | 7-6-6 | " | इन्द्रः सहस्र *(indraḥ sahasra)* | 1-17-5 |
 
-*(Figures as printed, re-read on the 600 dpi scan; the 7-6-7 of Atinicṛt and the references 10-9-5, 10-9-7 [?] and 1-17-5 completed by me where the review gave only part.)*
+*(Figures as printed, re-read on the 600 dpi scan; the 7-6-7 of Atinicṛt and the references 10-9-5, 10-9-7 and 1-17-5 completed by me where the review gave only part.)*
 
 Below the table, the source continues with a further mnemonic verse stringing together opening words:
 
@@ -3433,13 +3433,13 @@ Mnemonic verse:
 | — | — | 11-11-12-12 | वा ,, ,, *(vā ,, ,,)* | यो वाजिनं *(yo vājinaṃ)* | 1-162-12 |
 | अभिसारिणी *(Abhisāriṇī)* | 44 | 10-10-12-12 | वैराजौ जागतौ च अभिसारिणी *(vairājau jāgatau ca abhisāriṇī)* | यो वाचा *(yo vācā)* | 10-23-5 |
 | — | 39 | 9-9-10-11 | विराट्स्थाना *(virāṭsthānā)* | स्वस्ति न इन्द्रः *(svasti na indraḥ)* | 1-89-6 |
-| वैराजत्रिष्टुप् *(Vairājatriṣṭup)* | 39 | 10-9-11-9 | नवकौ वैराजत्रैष्टुभश्च *(navakau vairājatraiṣṭubhaś ca)* | शभ्रं [?] नु ते *(śabhraṃ [?] nu te)* | 2-11-4] |
+| वैराजत्रिष्टुप् *(Vairājatriṣṭup)* | 39 | 10-9-11-9 | नवकौ वैराजत्रैष्टुभश्च *(navakau vairājatraiṣṭubhaś ca)* | शभ्रं नु ते [as printed] *(śabhraṃ nu te)* | 2-11-4] |
 | विराट्स्थाना *(Virāṭsthānā)* | 40 | 10-9-10-11 | द्वौ वा वैराजौ नवकः त्रैष्टुभश्च विराट्स्थाना *(dvau vā vairājau navakaḥ traiṣṭubhaś ca virāṭsthānā)* | श्रुधी हवमिन्द्र *(śrudhī havam indra)* | 2-11-1 |
 | विपरीता विराड्रूपा *(Viparītā Virāḍrūpā)* | 41 | 8-11-11-11 | — | क्रीळन्नो रश्म *(krīḷanno raśma)* | 5-19-5] |
 | विराड्रूपा *(Virāḍrūpā)* | 41 | 11-11-11-8 | एकादशिनस्त्रयोऽष्टकश्च विराड्रूपा *(ekādaśinas trayo 'ṣṭakaś ca virāḍrūpā)* | श्रुतं मे मित्रा *(śrutaṃ me mitrā)* | 1-122-6 |
 | ज्योतिष्मती *(Jyotiṣmatī)* | 44 | 12-12-12-8 | द्वादशिनस्त्रयोऽष्टकश्च ज्योतिष्मती *(dvādaśinas trayo 'ṣṭakaś ca jyotiṣmatī)* | अग्नेन्द्रेण *(agnendreṇa)* | 8-35-1 |
 
-*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the stray "]" after 2-11-4 and 5-19-5 is printed. The fourth row prints no name or syllable count; the Viparītā Virāḍrūpā row prints no sūtra. The opening शभ्रं is read letter by letter and left doubtful.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the stray "]" after 2-11-4 and 5-19-5 is printed. The fourth row prints no name or syllable count; the Viparītā Virāḍrūpā row prints no sūtra.)*
 
 
 ### Page 227 — Trishtubh Variants (continued)
@@ -3453,14 +3453,14 @@ Mnemonic verse:
 
 Mnemonic verse:
 
-> प्र देवमच्छा, ऽऽयः पस्रा [?], वियत्त्रिका, तदन्नाय चत्वारि ॥ १० ॥
+> प्र देवमच्छा, ऽऽयः पप्रा, वियत्त्रिका, तदन्नाय चत्वारि ॥ १० ॥
 
 ### 10. Jagati —
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
 | जगती *(Jagatī)* | 48 | 12-12-12-12 | (सप्तमं) जगती जागतपदा *((saptamaṃ) jagatī jāgatapadā)* | प्र देवमच्छा *(pra devam acchā)* | 9-68-… |
-| महासतोबृहती *(Mahāsatobṛhatī)* | ,, | 12-8-12-8-8 | अष्टिनस्त्रयः स्वौ [?] च द्वौ महासतोबृहती *(aṣṭinas trayaḥ svau [?] ca dvau mahāsatobṛhatī)* | आ यः पप्रौ [?] *(ā yaḥ paprau [?])* | 6-48-… |
+| महासतोबृहती *(Mahāsatobṛhatī)* | ,, | 12-8-12-8-8 | अष्टिनस्त्रयः स्वौ च द्वौ महासतोबृहती *(aṣṭinas trayaḥ svau ca dvau mahāsatobṛhatī)* | आ यः पप्रौ *(ā yaḥ paprau)* | 6-48-… |
 | महापङ्क्तिः *(Mahāpaṅktiḥ)* | ,, | 8-8-7-6-10-9 | अष्टकौ सप्तकः षट्को दशको नवकश्च *(aṣṭakau saptakaḥ ṣaṭko daśako navakaś ca)* | इयत्त्रिका *(iyattrikā)* | 1-191-11 |
 | ,, | ,, | 8-8-8-8-8-8 | षळष्टका वा महापङ्क्तिः *(ṣaḷaṣṭakā vā mahāpaṅktiḥ)* | तदन्नाय तद *(tad annāya tada)* | 8-47-16 |
 
@@ -3475,7 +3475,7 @@ Mnemonic verse:
 | बार्हतः प्रगाथः *(Bārhataḥ Pragāthaḥ)* | 76 | 8-8-12-8=36 | अथ प्रगाथा बृहतीसतोबृहत्या बार्हतः *(atha pragāthā bṛhatīsatobṛhatyā bārhataḥ)* | अयं वां *(ayaṃ vāṃ)* | 1-47-… |
 | | | (36+40) 12-8-12-8=40 | | त्रिवन्धुरेण *(trivandhureṇa)* | 1-47-… |
 
-*(Figures as printed, re-read on the 600 dpi scan with the user's readings. The scan cuts off the right edge of this page: where the last figure of a reference is lost, "…" stands for it. Readings marked [?] are letter-by-letter and doubtful.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings. The scan cuts off the right edge of this page: where the last figure of a reference is lost, "…" stands for it.)*
 
 
 ### Page 228 — Pragatha Variants (continued)
@@ -3501,11 +3501,11 @@ Mnemonic verse:
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
 | 1 अतिजगती *(Atijagatī)* | 52 | 12-12-12-8-8 | पादा अतिजगत्यां तु त्रयो द्वादशकाः परावष्टकौ *(pādā atijagatyāṃ tu trayo dvādaśakāḥ parāv aṣṭakau)* | प्र वो महे *(pra vo mahe)* | 5-87-1 |
-| 2 शक्वरी *(Śakvarī)* | 56 | 8-8-8-8-8-8-8 | शक्वरीपादाः सप्तैवाष्टाक्षराश्च ते *(śakvarīpādāḥ saptaivāṣṭākṣarāś ca te)* | प्रो ष्वस्मै *(pro ṣv asmai)* | 10-113-1 [?] |
+| 2 शक्वरी *(Śakvarī)* | 56 | 8-8-8-8-8-8-8 | शक्वरीपादाः सप्तैवाष्टाक्षराश्च ते *(śakvarīpādāḥ saptaivāṣṭākṣarāś ca te)* | प्रो ष्वस्मै *(pro ṣv asmai)* | 10-133-1 |
 | 3 अतिशक्वरी *(Atiśakvarī)* | 60 | 16-16-12-8-8 | अतिशाक्वरपादौ द्वौ आदितः कर्तव्यौ षोळशाक्षरौ जागतश्चाष्टकौ *(atiśākvarapādau dvau āditaḥ kartavyau ṣoḷaśākṣarau jāgataś cāṣṭakau)* | साकं जातः *(sākaṃ jātaḥ)* | 2-22-3 |
 | 4 अष्टिः *(Aṣṭiḥ)* | 64 | 16-16-16-8-8 | अष्टिपादाः षोळशास्त्रयः अष्टकौ च *(aṣṭipādāḥ ṣoḷaśās trayaḥ aṣṭakau ca)* | त्रिकद्रुकेषु *(trikadrukeṣu)* | 2-22-1 |
 
-*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the last digits of 6-48-7, 8-68-1/2/3 and 2-22-3/1 read by me. Śakvarī reference: entered as the user read it (10-113-1); I read the print as 10-133-1, so it is marked [?] until settled. The user typed "+" between the feet of the Ānuṣṭubha pattern; I see dashes on the print and kept them.)*
+*(Figures as printed, re-read on the 600 dpi scan with the user's readings; the last digits of 6-48-7, 8-68-1/2/3 and 2-22-3/1 read by me. Śakvarī reference 10-133-1, re-read on the 600 dpi scan. The user typed "+" between the feet of the Ānuṣṭubha pattern; I see dashes on the print and kept them.)*
 
 
 ### Page 229 — Sankirna (continued), and the Kriti Family
@@ -3532,9 +3532,9 @@ A further set of seven meters is then listed, each with its example-mantra openi
 
 As already noted, apart from total syllable-count, no other rule governs these meters — but even this rule doesn't hold perfectly everywhere. Where a pada should carry a certain syllable-count, occasional variance appears — 11 syllables in a pada that should have 12, and 10 where there should be 11. In the verse given earlier as an example of the Pankti meter, the fourth pada in fact has only seven syllables rather than the expected eight:
 
-> रथं हिरण्ययं दर्भ *(3rd [?] pada)*
-> मंहिष्ठः सूरिरभूत् *(4th [?] pada)*
-> वर्षिष्ठ मुक्रथश्रवः *(5th [?] pada)*
+> रथं हिरण्ययं दर्भ *(3rd pada)*
+> मंहिष्ठः सूरिरभूत् *(4th pada)*
+> वर्षिष्ठ मुक्रथश्रवः *(5th pada)*
 
 Whether this variance arose from carelessness on the part of the Vedic poets themselves, or from some discrepancy that crept into the text as it has come down to us, cannot be said with certainty.
 
@@ -4010,7 +4010,7 @@ Who exactly Atmananda's elder brother Lakshmidharacharya was cannot be determine
 
 ### Page 245
 
-...whose father is named Bhattojaddyada, whereas Atmananda's own father is stated as Vishnu Prakashakara — confirming these are two distinct individuals. From the above record it is certain that Atmananda was earlier than the year 1217 [?]. Among Vedic commentators, Atmananda cites Skanda, Udgitha, Bhaskara, and others, but never cites Sayana's examples — suggesting Atmananda lived somewhat before Sayana, and since no stronger evidence has been found so far, it must be said that his period cannot be later than the **13th century**.
+...whose father is named Bhattojaddyada, whereas Atmananda's own father is stated as Vishnu Prakashakara — confirming these are two distinct individuals. From the above record it is certain that Atmananda was earlier than the year 1217. Among Vedic commentators, Atmananda cites Skanda, Udgitha, Bhaskara, and others, but never cites Sayana's examples — suggesting Atmananda lived somewhat before Sayana, and since no stronger evidence has been found so far, it must be said that his period cannot be later than the **13th century**.
 
 ### Manuscript Copies of Atmananda's Commentary
 
@@ -5329,7 +5329,7 @@ For the **Locative singular**, some words retain the "i"-stem, while a few show 
 
 > त्वं धृष्णो धृषता वीतहव्यम् (7-19-3) । युत्वायर्आ युनजते धियस्काः (7-27-1) — इत्यादि ।
 
-*(Given the extreme grammatical density of this page — worked case-ending examples across several noun classes — citations are transcribed as faithfully as legible; the mantra reference numbers marked "[?]" carry some uncertainty given the compressed numerals in the original typeface, though the Sanskrit text itself and grammatical point being illustrated are clear.)*
+*(Given the extreme grammatical density of this page — worked case-ending examples across several noun classes — citations are transcribed as faithfully as legible; the mantra reference numbers were re-read on the 600 dpi scan in the numeral pass given the compressed numerals in the original typeface, though the Sanskrit text itself and grammatical point being illustrated are clear.)*
 
 
 ### Page 334
@@ -5358,7 +5358,7 @@ A table of variant forms found among masculine and neuter nouns:
 
 Some words show no case-suffix at all in either declension.
 
-**Non-standard (aśrutya) suffixes:** verb-roots occasionally take non-classical suffixes, producing variant forms noted throughout. For the second-person plural imperative suffix "mas," the Veda regularly uses "masi" in its place instead — sometimes rendered simply "mas." In the Rigveda, "masi" occurs 117 times and "mas" 21 times; in the Aitareya Brahmana "masi" occurs 3 [?] times and "mas" four times — confirming that in classical usage, the "mas" form for imperative verbs is not the established convention. Example:
+**Non-standard (aśrutya) suffixes:** verb-roots occasionally take non-classical suffixes, producing variant forms noted throughout. For the second-person plural imperative suffix "mas," the Veda regularly uses "masi" in its place instead — sometimes rendered simply "mas." In the Rigveda, "masi" occurs 117 times and "mas" 21 times; in the Aitareya Brahmana "masi" occurs 3 times and "mas" four times — confirming that in classical usage, the "mas" form for imperative verbs is not the established convention. Example:
 
 > मिनीमसि (1-25-1) । बोधामसि (7-21-1)
 
@@ -5471,7 +5471,7 @@ There are some faults in this argument. First, the very name *saṅkramaṇa* do
 
 Though it is not possible to accept the views of Jacobi and Tilak, they became one reason for scholars to re-examine the date of the Veda. There was one more reason for the re-examination to be needed. As historical research advanced, it became clear that 700–800 years were not enough for the Aryans to spread over the whole of our country. It is known that in the first parts of the Ṛgveda the Aryans were in the Punjab, and it is known from inscriptions that by about 300 BC the Aryans had occupied South India. It is a known fact that the Bodhāyana and Āpastamba branches were current in South India; so the Aryans must have entered South India still earlier — perhaps about 700 BC, for to occupy a country, spread the Brahmanical dharma and establish new branches here would take a long time.
 
-If it is accepted that in 700–600 BC Aryan culture was spreading in the south, it is not possible to believe that the Aryans were in the Punjab in 1200 [?] BC. In 500–600 years the Aryans [could not have occupied so] large…
+If it is accepted that in 700–600 BC Aryan culture was spreading in the south, it is not possible to believe that the Aryans were in the Punjab in 1200 BC. In 500–600 years the Aryans [could not have occupied so] large…
 
 *(Pages 339–340 re-rendered from the print in the numeral pass; the earlier rendering had paraphrased them loosely, with wrong figures: 28 nakshatras, 4500/4000/3000 BCE, 25,000 years, 2800 BCE, 100–800 years, 500 BCE.)*
 
@@ -5983,7 +5983,7 @@ Yaska continues, explaining the verse's first quarter in detail:
 
 **Yaska then explains the second quarter of the same verse:**
 
-> अथ द्वितीयं पादं विवृणोति—"गायत्रमेको गायति शक्वरीषुद्द्वाता गायत्रं गायतेः स्तुतिकर्मणः शक्वर्यो ऋचः, शक्नोतेः शक्न्यैः वृत्रमपीर्वत्तमशक्नदेतं तच्छिक्वरीणां शक्वरीत्वमिति विज्ञायत इति । (Ni. [?]) अस्यायमर्थः—उद्गातृनामक एकः ऋत्विग्गायत्रशब्दाभिधेयं स्तोत्रं शक्वरीक्ब्याभिधेयश्च ऋग्गायति । धातूनामनेकार्थत्वेन स्तुतिक्रियावाचिनो गायधातोः श्रौढ्यं स्तोत्रं गायत्र...
+> अथ द्वितीयं पादं विवृणोति—"गायत्रमेको गायति शक्वरीषुद्द्वाता गायत्रं गायतेः स्तुतिकर्मणः शक्वर्यो ऋचः, शक्नोतेः शक्न्यैः वृत्रमपीर्वत्तमशक्नदेतं तच्छिक्वरीणां शक्वरीत्वमिति विज्ञायत इति । (कौ. २३-२) अस्यायमर्थः—उद्गातृनामक एकः ऋत्विग्गायत्रशब्दाभिधेयं स्तोत्रं शक्वरीक्ब्याभिधेयश्च ऋग्गायति । धातूनामनेकार्थत्वेन स्तुतिक्रियावाचिनो गायधातोः श्रौढ्यं स्तोत्रं गायत्र...
 >
 > *(Explaining that the Udgatr priest sings the "gayatra" chant among the "Shakvari" verses; "gayatra" derives from the root "gai" — an act of praise — while "Shakvari" derives from "shak" (to be able), these verses being so named because through their help Vritra was overcome; precise construction continues onto the following material.)*
 
@@ -7119,7 +7119,7 @@ The Mimamsakas' "fruit-authority" doctrine (that every Vedic statement is author
 
 **And in the Bhagavad Gita:**
 
-> यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥ (Bhagavad Gita 2-47 [?])
+> यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥ (Bhagavad Gita 2-47 [as printed])
 >
 > याम् इमां पुष्पितां वाचं प्रवदन्त्य् अविपश्चितः । वेद-वाद-रताः पार्थ नान्यद् अस्तीति वादिनः ॥
 > *yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||*
