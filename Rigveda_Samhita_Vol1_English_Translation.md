@@ -14644,14 +14644,13 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 651
 
-> अग्निमीळे इत्यादिसूक्तमुग्रिष्टोमस्य प्रातरनुवाके यथा विनियुक्तं तथा वायवा याहीत्यादयस्तिसृचः प्रलुगपशस्त्रे विनियुक्ताः । तत्रेदं चिन्त्यम् — शस्त्रं किं । देवतास्मरण-रूप-संस्कार-कर्म किंवाऽदृष्ट-फलं प्रधानकर्मेति । तत्र पूर्वपक्षं जैमिनिः सूत्रयामास (pūrva-mīmāṃsā 2-1-1 to 24) ।
-> *agnimīḷa ity-ādi-sūktam ugriṣṭomasya prātar-anuvāke yathā viniyuktaṃ tathā vāyav ā yāhīty-ādayas tisṛcaḥ pralugapa-śastre viniyuktāḥ | tatredaṃ cintyam — śastraṃ kiṃ | devatā-smaraṇa-rūpa-saṃskāra-karma kiṃ vā'dṛṣṭa-phalaṃ pradhāna-karmeti | tatra pūrva-pakṣaṃ jaiminiḥ sūtrayām āsa (Purva-Mimamsa 2-1-1–24) |* *(this opening technical citation-chain remains a best-effort reading given the density)*
+> अग्निमीळ इत्यादिसूक्तमग्निष्टोमस्य प्रातरनुवाके यथा विनियुक्तं तथा वायवा याहीत्यादयस्तृचाः प्रउगशस्त्रे विनियुक्ताः । तत्रेदं चिन्त्यते । शस्त्रं किं देवतास्मरणरूपसंस्कारकर्म किंवादृष्टफलं प्रधानकर्मेति । तत्र पूर्वपक्षं जैमिनिः सूत्रयामास । पू. मी. २-१-१३ — २४ ।
+> *agnimīḷa ityādisūktamagniṣṭomasya prātaranuvāke yathā viniyuktaṃ tathā vāyavā yāhītyādayastṛcāḥ praugaśastre viniyuktāḥ | tatredaṃ cintyate | śastraṃ kiṃ devatāsmaraṇarūpasaṃskārakarma kiṃvādṛṣṭaphalaṃ pradhānakarmeti | tatra pūrvapakṣaṃ jaiminiḥ sūtrayāmāsa | pū. mī. 2-1-13 — 24 |* (re-read from the better scan in the [?] pass)
 
-**Just as the "agnimīḷe" sukta is applied in the Pratar-anuvāka of the Agnishtoma-yaga, similarly the three Riks beginning "vāyav ā yāhi" are applied in the Pralugapa-shastra.** Here it becomes necessary to consider: what is a "Shastra"? Is it merely a preparatory rite consisting of recalling the deity, or is it itself a primary rite bearing an unseen [spiritual] fruit? On this question, the sage Jaimini states the prima facie position (pūrva-pakṣa) through the following sutras (Purva-Mimamsa 2-1-1–24):
+**Just as the "agnimīḷe" sukta is applied in the Pratar-anuvāka of the Agnishtoma-yaga, similarly the three Riks beginning "vāyav ā yāhi" are applied in the Pralugapa-shastra.** Here it becomes necessary to consider: what is a "Shastra"? Is it merely a preparatory rite consisting of recalling the deity, or is it itself a primary rite bearing an unseen [spiritual] fruit? On this question, the sage Jaimini states the prima facie position (pūrva-pakṣa) through the following sutras (Jaimini Sūtra 2-1-13 to 24; see also p. 417):
 
-> स्तोत्रशस्त्रयोस्तु संस्कारो याज्ञान् देवताभिधानाच्चादिति ॥१॥
-> *stotra-śastrayos tu saṃskāro yājñān devatābhidhānāc cād iti ||1||*
-> *(the following sutra sequence in this chain of citations remains a genuinely dense best-effort reading)*
+> स्तुतशस्त्रयोस्तु संस्कारो याज्यावद्देवताभिधानत्वादिति ॥ १ ॥ आज्यैः स्तुवते पृष्ठैः स्तुवते प्रउगं शंसति निष्केवल्यं शंसतीति श्रूयते । तत्र स्तुतिः शंसनं च गुणिनिष्ठगुणाभिधानम् । इन्द्रस्य नु वीर्याणि प्रवोचम् (ऋ. सं. १-३२-१) इत्यत्र दृष्टत्वात् । एवं सति याज्यान्यायेन गुणिन्या देवताया अभिधायकत्वेन स्तुतशस्त्रयोः संस्काररूपत्वमभ्युपेयम् । याज्यायास्तद्रूपत्वं दशमाध्यायस्य चतुर्थपादे दृष्टार्थलाभेन निर्णीतम् । पू. मी. १०-४-३९ — ४१ । तद्वदत्रापि तुशब्दः प्रधानकर्मत्वं व्यावर्तयति । सिद्धान्ती तं पक्षं दूषयति ॥
+> *stutaśastrayostu saṃskāro yājyāvaddevatābhidhānatvāditi ‖ 1 ‖ ājyaiḥ stuvate pṛṣṭhaiḥ stuvate praugaṃ śaṃsati niṣkevalyaṃ śaṃsatīti śrūyate | tatra stutiḥ śaṃsanaṃ ca guṇiniṣṭhaguṇābhidhānam | indrasya nu vīryāṇi pravocam (ṛ. saṃ. 1-32-1) ityatra dṛṣṭatvāt | evaṃ sati yājyānyāyena guṇinyā devatāyā abhidhāyakatvena stutaśastrayoḥ saṃskārarūpatvamabhyupeyam | yājyāyāstadrūpatvaṃ daśamādhyāyasya caturthapāde dṛṣṭārthalābhena nirṇītam | pū. mī. 10-4-39 — 41 | tadvadatrāpi tuśabdaḥ pradhānakarmatvaṃ vyāvartayati | siddhāntī taṃ pakṣaṃ dūṣayati ‖* (sūtra and bhāṣya re-read from the better scan in the [?] pass)
 
 **Meaning of this sutra:** the "processing" (saṃskāra) of both the Stotra and the Shastra consists in stating the deities, or their qualities, in the manner the "Yajya" mantra does.
 
@@ -14706,7 +14705,10 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **— since this describes Indra's own heroic deeds, the mantra (whether Stotra or Shastra) is thereby describing the deity's qualities. Therefore, just as with Yajya-mantras, since Stotra and Shastra mantras describe the deities (or their specific qualities), these mantras are themselves preparatory (saṃskāra) to some other primary rite — that is, they are subordinate parts (aṅga) of it, not independent rites in their own right.** Because, by singing the deities' praises, the Stotra-Shastra mantras bring the deities' names and qualities to mind. Therefore these mantras carry no independent primacy of their own; they must be understood as subordinate to the deity-invoking act itself. The word "**tu**" in the sutra signals precisely this — that Stotra and Shastra lack independent primacy.
 
-**The full details concerning the Yajya-mantra's own nature are treated in the sutras of the tenth Adhyaya, fourth Pada, of the Mimamsa-sutras** (Jaimini Sutra 10-4-6–41) — that discussion may be consulted there. *(This concludes the Pūrva-pakṣa — the objector's prima facie position.)*
+**The full details concerning the Yajya-mantra's own nature are treated in the sutras of the tenth Adhyaya, fourth Pada, of the Mimamsa-sutras** (Jaimini Sutra 10-4-39 to 41) — that discussion may be consulted there. *(This concludes the Pūrva-pakṣa — the objector's prima facie position.)*
+
+> अर्थेन त्वपकृष्येत देवतानामचोदनार्थस्य गुणभूतत्वादिति ॥ २ ॥ (जै. सू. २-१-१४) तुशब्देन संस्कारत्वं वारयति । संस्कारपक्षे प्रयोजनवशेन मन्त्रः स्वस्थानादपकृष्येत । कुतः । मन्त्रगतं देवतावाचकं यदिन्द्रादिनामास्ति तच्चोदनया मन्त्ररूपया प्रतिपाद्यस्य देवतारूपस्यार्थस्य गुणभूतम् । तस्माद्यत्र प्रधानभूतदेवतास्ति तत्र गुणभूतो मन्त्रो नेतव्यः । तद्यथा । माहेन्द्रग्रहसंनिधावभि त्वा शूर (ऋ. सं. ७-३२-२२) इत्ययं प्रगाथ आम्नातः । स चेन्द्रं प्रकाशयति न तु महेन्द्रम् । ततो यत्रैन्द्रं कर्म तत्रायं प्रगाथोऽपकर्षणीयः । तथा सति क्रमसंनिधी बाध्येयाताम् । तदेतत्सिद्धान्तिनाभिहितं दूषणं पूर्वपक्षी समाधत्ते ॥
+> *arthena tvapakṛṣyeta devatānāmacodanārthasya guṇabhūtatvāditi ‖ 2 ‖ (jai. sū. 2-1-14) tuśabdena saṃskāratvaṃ vārayati | saṃskārapakṣe prayojanavaśena mantraḥ svasthānādapakṛṣyeta | kutaḥ | mantragataṃ devatāvācakaṃ yadindrādināmāsti taccodanayā mantrarūpayā pratipādyasya devatārūpasyārthasya guṇabhūtam | tasmādyatra pradhānabhūtadevatāsti tatra guṇabhūto mantro netavyaḥ | tadyathā | māhendragrahasaṃnidhāvabhi tvā śūra (ṛ. saṃ. 7-32-22) ityayaṃ pragātha āmnātaḥ | sa cendraṃ prakāśayati na tu mahendram | tato yatraindraṃ karma tatrāyaṃ pragātho 'pakarṣaṇīyaḥ | tathā sati kramasaṃnidhī bādhyeyātām | tadetatsiddhāntinābhihitaṃ dūṣaṇaṃ pūrvapakṣī samādhatte ‖* (re-read from the better scan in the [?] pass)
 
 ### Page 654
 
@@ -14714,18 +14716,18 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **The Siddhāntins [proponents of the established view] do not accept the pūrva-pakṣa stated in the preceding sutra**, because the word "tu" actually negates the notion that Stotra and Shastra are merely preparatory (saṃskāra). If one insisted they were preparatory, it would follow that a mantra must always be matched strictly to its literal deity-reference — meaning mantras naming a specific deity like Indra could only be used in rites addressed to that exact deity, disrupting the established, ordered sequence of mantras actually used in yajna practice. **For example:** in the Mahendra-graha rite, the mantra:
 
-> अथ त्वा शूर नोनुमोऽदुग्धा इव धेनवः । ईशानमस्य जगतः स्वर्यशसमीशानमिन्द्र तस्थुषः ॥
-> *atha tvā śūra nonumo'dugdhā iva dhenavaḥ | īśānam asya jagataḥ svar yaśasam īśānam indra tasthuṣaḥ ||* (Rigveda Samhita 2-13-13[?])
+> अभि त्वा शूर नोनुमोऽदुग्धा इव धेनवः । ईशानमस्य जगतः स्वर्दृशमीशानमिन्द्र तस्थुषः ॥ (ऋ. सं. ७-३२-२२)
+> *abhi tvā śūra nonumo 'dugdhā iva dhenavaḥ | īśānamasya jagataḥ svardṛśamīśānamindra tasthuṣaḥ ‖ (ṛ. saṃ. 7-32-22)* (re-read from the better scan in the [?] pass)
 
 — is used as a Pragātha [paired hymn]. This mantra speaks of Indra specifically, not of Mahendra. On the strict view, this mantra should thus be usable only in a rite addressed specifically to Indra — meaning the established, ordered sequence of mantras used across the whole yajna would need constant disruption to match each mantra's literal deity-reference. **To refute this objection, the Pūrva-pakṣin now offers a further sutra:**
 
-> वशावद्या गुणार्थं स्यादिति ॥२॥ (जै. सू. २-१-४)
-> *vaśāvadyā guṇārthaṃ syād iti ||2||* (Jaimini Sutra 2-1-4)
+> वशावद्वा गुणार्थं स्यादिति ॥ ३ ॥ (जै. सू. २-१-१५) वाशब्दः प्रगाथस्यान्यत्रनयनं वारयति । मन्त्रे यदेतदिन्द्रशब्दाभिधानं तदेतन्महत्त्वगुणोपलक्षणार्थं स्यात् । यथा— सा वा एषा सर्वदेवत्या यदजा वशा वायव्यामालभेत (तै. सं. ३-४-३-२) इत्यत्राजावशाशब्देन चोदिते कर्मणि भागशब्देन केवलेन निगमा वशात्वगुणमप्युपलक्षयन्ति तद्वत् । तस्मान्महत्त्वगुणयुक्ते चोदिते कर्मणि निर्गुणेनेन्द्रशब्देनाभिधानमविरुद्धम् । लोकेऽपि महाराजे केवलराजशब्दप्रयोगमपि पश्यामः । तदेतत्समाधानं सिद्धान्ती दूषयति ॥
+> *vaśāvadvā guṇārthaṃ syāditi ‖ 3 ‖ (jai. sū. 2-1-15) vāśabdaḥ pragāthasyānyatranayanaṃ vārayati | mantre yadetadindraśabdābhidhānaṃ tadetanmahattvaguṇopalakṣaṇārthaṃ syāt | yathā— sā vā eṣā sarvadevatyā yadajā vaśā vāyavyāmālabheta (tai. saṃ. 3-4-3-2) ityatrājāvaśāśabdena codite karmaṇi bhāgaśabdena kevalena nigamā vaśātvaguṇamapyupalakṣayanti tadvat | tasmānmahattvaguṇayukte codite karmaṇi nirguṇenendraśabdenābhidhānamaviruddham | loke 'pi mahārāje kevalarājaśabdaprayogamapi paśyāmaḥ | tadetatsamādhānaṃ siddhāntī dūṣayati ‖* (re-read from the better scan in the [?] pass)
 
 **"The particle 'vā' here prevents strict one-to-one matching for each individual Pragātha. Whatever deity-name the mantra states may, where it carries general qualities, serve merely as an illustrative pointer (upalakṣaṇa) rather than a strict specification."** For example:
 
 > सा वा एषा सर्वदेवत्या यदजा वशा वायव्यामालभेत ।
-> *sā vā eṣā sarva-devatyā yad ajā vaśā vāyavyām ālabheta |* (Taittiriya Samhita 1-4-6-1[?])
+> *sā vā eṣā sarva-devatyā yad ajā vaśā vāyavyām ālabheta |* (Taittiriya Samhita 3-4-3-2)
 > "That indeed is universally-deity-related — in that one should offer a barren she-goat consecrated to Vāyu."
 
 **Here the word "ajā" (she-goat) and similar generic terms, in an enjoined rite, illustratively point toward the general quality [of a suitable animal] rather than a specific one — and the same reasoning applies to the Indra-example above.** Why? Because when a rite already carries its own specific qualifying details, there is no contradiction in also using a general term like "Indra" as a mere illustrative reference, even where the rite is really directed elsewhere. **Even in ordinary worldly usage, we observe the general term "king" applied even to a specific great king (Mahārāja).** Therefore, the Siddhāntin's proposed objection is itself refuted [by this further Pūrva-pakṣa argument].
@@ -14742,13 +14744,13 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 — this explicitly requires that the goat offered to Vāyu be barren. In other passages connected with Vāyu, only the plain word "ajām" (goat) may appear without this qualifier — yet even there, "ajām" must still be understood as meaning specifically "the barren goat." **Whether one says "ajā" or "ajā vaśā," the meaning is identical; in just the same way, "Indra" and "Mahendra" name a single deity** — this is the Pūrva-pakṣin's resolution. **The Siddhāntin now refutes this very resolution in the next sutra:**
 
-> न श्रुतिसमुदायात्वादिति ॥४॥ (जै. सू. २-१-९)
-> *na śruti-samudāyatvād iti ||4||* (Jaimini Sutra 2-1-9)
+> न श्रुतिसमवायित्वादिति ॥ ४ ॥ (जै. सू. २-१-१६) यदुक्तं वशान्यायेन राजन्यायेन वास्य ग्रहस्येन्द्रो देवता युज्यत इति तन्न । देवतात्वस्य तद्धितश्रुतिसमवायित्वात् । माहेन्द्रग्रह इत्यत्र सास्य देवतेत्यस्मिन्नर्थे महेन्द्राद्घाणौ च । पा. ४-२-२९ । इति महेन्द्रशब्दादण्प्रत्ययो विहितः । तस्मान्महेन्द्र एव देवता न त्विन्द्रः । विपक्षे बाधमाह ॥
+> *na śrutisamavāyitvāditi ‖ 4 ‖ (jai. sū. 2-1-16) yaduktaṃ vaśānyāyena rājanyāyena vāsya grahasyendro devatā yujyata iti tanna | devatātvasya taddhitaśrutisamavāyitvāt | māhendragraha ityatra sāsya devatetyasminnarthe mahendrādghāṇau ca | pā. 4-2-29 | iti mahendraśabdādaṇpratyayo vihitaḥ | tasmānmahendra eva devatā na tvindraḥ | vipakṣe bādhamāha ‖* (re-read from the better scan in the [?] pass)
 
 **"Even granting that 'vaśā' or 'rāja' might generally admit flexible reference, the deity of this particular Graha-offering is Indra, and Indra alone — fixedly established. Because a term's deity-affiliation must be determined by taking the whole expression together as a single unit (śruti-samudāya), not piecemeal. In the phrase 'Māhendra-graha' itself, the word 'Mahendra' —**
 
-> महेन्द्राद् घोश्च ।
-> *mahendrād ghaś ca |* (Panini 4-2-39[?])
+> महेन्द्राद्घाणौ च । (पा. ४-२-२९)
+> *mahendrādghāṇau ca | (pā. 4-2-29)* (re-read from the better scan in the [?] pass)
 
 **— is, by this very affixation rule, established as a deity-denoting term in its own right, distinct from 'Indra' alone. Therefore this is not simply Indra; in this specific instance, the general 'mahā-as-mere-qualifier' principle is overridden."**
 
@@ -14766,8 +14768,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **One might object: since Indra slew the demon Vṛtra, shouldn't he be called "Mahendra" specifically to honor that deed?** No — this is not so. It would then have to be said that Indra was merely "Indra" before slaying Vṛtrāsura, and became "Mahendra" only afterward, based on a temporal distinction — but the Veda admits no such usage, where a deity's very name shifts over time according to deeds performed. **Therefore, Indra never "became" Mahendra. From the very beginning, Indra has always been Indra, and Mahendra has always been Mahendra — two genuinely distinct deities.**
 
-> गुणश्चानर्थक इति ॥३॥ (जै. सू. २-१-८)
-> *guṇaś cānarthaka iti ||3||* (Jaimini Sutra 2-1-8)
+> गुणश्चानर्थक इति ॥ ५ ॥ (जै. सू. २-१-८ [?]) यदीन्द्रो देवता स्यात्तदानीमैन्द्रग्रह इत्येतावतैवार्थावगतौ माहेन्द्र इति महत्त्वगुणोऽनर्थकः स्यात् । चकारः पूर्वहेतुना समुच्चयार्थः । हेत्वन्तरमाह ॥
+> *guṇaścānarthaka iti ‖ 5 ‖ (jai. sū. 2-1-8 [?]) yadīndro devatā syāttadānīmaindragraha ityetāvataivārthāvagatau māhendra iti mahattvaguṇo 'narthakaḥ syāt | cakāraḥ pūrvahetunā samuccayārthaḥ | hetvantaramāha ‖* (re-read from the better scan in the [?] pass)
 
 **"If Indra alone were the intended deity, then in expressions such as 'dāsīr vaindra-graha' and 'Māhendra-graha,' the qualifying term 'mahat' (great) would become entirely purposeless. The word 'ca' indicates that this reason joins the one already given."**
 
@@ -14777,8 +14779,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 657
 
-> तथा याज्यापुरोरुचोरिति ॥५॥ (जै. सू. २-१-५)
-> *tathā yājyā-purorucor iti ||5||* (Jaimini Sutra 2-1-5)
+> तथा याज्यापुरोरुचोरिति ॥ ६ ॥ (जै. सू. २-१-१९) इन्द्रमहेन्द्रयोर्देवतयोर्भेदे यथा महत्त्वगुणः सार्थकस्तथा याज्यापुरोनुवाक्ययोर्भेदोऽप्यस्मिन्नेव पक्ष उपपद्यते । ऐन्द्र सानसिम् (ऋ. सं. १-८-१) इत्यादिके इन्द्रस्य याज्यापुरोनुवाक्ये । महाँ इन्द्रो य ओजसा (ऋ. सं. ८-६-१) इत्यादिके महेन्द्रस्य । पूर्वपक्षिणोक्ते वशादृष्टान्ते वैषम्यमाह—
+> *tathā yājyāpurorucoriti ‖ 6 ‖ (jai. sū. 2-1-19) indramahendrayordevatayorbhede yathā mahattvaguṇaḥ sārthakastathā yājyāpuronuvākyayorbhedo 'pyasminneva pakṣa upapadyate | aindra sānasim (ṛ. saṃ. 1-8-1) ityādike indrasya yājyāpuronuvākye | mahā~ indro ya ojasā (ṛ. saṃ. 8-6-1) ityādike mahendrasya | pūrvapakṣiṇokte vaśādṛṣṭānte vaiṣamyamāha—* (re-read from the better scan in the [?] pass)
 >
 > **"For Indra and Mahendra, being distinct deities, the quality-word 'mahat' becomes meaningfully purposeful — just as their Puronuvakya-mantras themselves differ: 'endra sānasiṃ' (Rigveda Samhita 1-4-1) and similar are Indra's own Yajyā-Puronuvākyā; 'mahāṃ indro ya ojasā' (Rigveda Samhita 8-6-1) and similar belong to Mahendra."**
 
@@ -14788,22 +14790,22 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **The Pūrva-pakṣin now raises a further objection, regarding the earlier "vaśā" (barren goat) example:**
 
-> वशायामर्थसमुदायादिति ॥६॥ (जै. सू. २-१-१०)
-> *vaśāyām artha-samudāyād iti ||6||* (Jaimini Sutra 2-1-10)
+> वशायामर्थसमवायादिति ॥ ७ ॥ (जै. सू. २-१-२०) या वशा विधिवाक्ये श्रुता तस्या एव निगमेषु भागशब्देन व्यवहारो—
+> *vaśāyāmarthasamavāyāditi ‖ 7 ‖ (jai. sū. 2-1-20) yā vaśā vidhivākye śrutā tasyā eva nigameṣu bhāgaśabdena vyavahāro—* (re-read from the better scan in the [?] pass)
 >
 > "The 'vaśā' heard in the injunction-passage — regarding that very passage's own usage, through the generic term (bhāga-śabda), in the offering-context..."
 
 ### Page 658
 
-> न विरुध्यते । भागत्वलक्षणार्थस्य वशायां समुदायात् । तच्च प्रत्यक्षेण गोचरम् इभ्यते । इन्द्रमहेन्द्रयोस्तु भेदे उपपादिते । तस्माद्विषमो दृष्टान्तः । एवं संस्कारपक्षे प्रगाथस्येन्द्रकर्मण्यनर्थक्य-समापत्त्यादार्षिकं स्तोत्रशस्त्रयोः प्रधानकर्मत्वमिति सिद्धान्तिनो मतम् ।
-> *na virudhyate | bhāgatva-lakṣaṇārthasya vaśāyāṃ samudāyāt | tac ca pratyakṣeṇa gocaram ibhyate | indra-mahendrayos tu bhede upapādite | tasmād viṣamo dṛṣṭāntaḥ | evaṃ saṃskāra-pakṣe pragāthasyendra-karmaṇy anarthakya-samāpattyād ārṣikaṃ stotra-śastrayoḥ pradhāna-karmatvam iti siddhāntino mataṃ |*
+> न विरुद्धः । भागत्वलक्षणस्यार्थस्य वशायां समवेतत्वात् । तच्च प्रत्यक्षेणोपलभ्यते । इन्द्रमहेन्द्रयोस्तु भेद उपपादितः । तस्माद्विषमो दृष्टान्तः । एवं संस्कारपक्षे प्रगाथस्यैन्द्रकर्मण्यपकर्षप्रसङ्गात्तद्वारयितुं स्तोत्रशस्त्रयोः प्रधानकर्मत्वमिति सिद्धान्तिनो मतम् । पुनरपि पूर्वपक्षी तदेतन्मतं निराचष्टे ॥
+> *na viruddhaḥ | bhāgatvalakṣaṇasyārthasya vaśāyāṃ samavetatvāt | tacca pratyakṣeṇopalabhyate | indramahendrayostu bheda upapāditaḥ | tasmādviṣamo dṛṣṭāntaḥ | evaṃ saṃskārapakṣe pragāthasyaindrakarmaṇyapakarṣaprasaṅgāttadvārayituṃ stotraśastrayoḥ pradhānakarmatvamiti siddhāntino matam | punarapi pūrvapakṣī tadetanmataṃ nirācaṣṭe ‖* (re-read from the better scan in the [?] pass)
 
 **Meaning:** there is no contradiction. **Because the generic sense of "vaśā" is established as encompassed within the perceptibly-visible object [the goat] itself** — whereas the distinction between Indra and Mahendra has already been established as genuinely real. **Therefore the analogy with "vaśā" does not hold in this case.** Given this — since treating Stotra/Shastra as merely preparatory would render the Indra-Pragātha useless in its own rite — **it becomes the Siddhāntins' considered position that Stotra and Shastra are themselves primary rites**, established through the rishis' own [authoritative] tradition.
 
 **Yet the Pūrva-pakṣin once more attempts to refute this very conclusion:**
 
-> यत्रेति पार्थक्येन पृक्षमिति ॥८॥ (जै. सू. २-१-११)
-> *yatreti pārthakyena pṛkṣam iti ||8||* (Jaimini Sutra 2-1-11) *(this final sutra in the sequence remains a genuinely dense, best-effort reading given the compressed technical shorthand here)*
+> यत्रेति वार्थवत्त्वात्स्यादिति ॥ ८ ॥ (जै. सू. २-१-२१) वाशब्दः सिद्धान्तिमतव्यावृत्त्यर्थः । यत्रैन्द्रं कर्म तत्र प्रगाथो नेतव्य इत्ययमेव पक्षः स्यात् । कुतः । अर्थवत्त्वात् । ऐन्द्रो मन्त्र इन्द्रं प्रकाशयितुं समर्थ इत्यर्थवान्स्यात् । महेन्द्रं तु प्रकाशयितुमसमर्थत्वादानर्थक्यं प्रगाथस्य प्रसज्येत । तस्माद्देवताप्रकाशनरूपसंस्कारकर्मत्वमेव स्तोत्रशस्त्रयोर्युक्तमिति स्थितः पूर्वपक्षः । अथ सिद्धान्तमाह ॥
+> *yatreti vārthavattvātsyāditi ‖ 8 ‖ (jai. sū. 2-1-21) vāśabdaḥ siddhāntimatavyāvṛttyarthaḥ | yatraindraṃ karma tatra pragātho netavya ityayameva pakṣaḥ syāt | kutaḥ | arthavattvāt | aindro mantra indraṃ prakāśayituṃ samartha ityarthavānsyāt | mahendraṃ tu prakāśayitumasamarthatvādānarthakyaṃ pragāthasya prasajyeta | tasmāddevatāprakāśanarūpasaṃskārakarmatvameva stotraśastrayoryuktamiti sthitaḥ pūrvapakṣaḥ | atha siddhāntamāha ‖* (re-read from the better scan in the [?] pass)
 
 *(The commentary now proceeds to state the Siddhānta — the final, established conclusion of this entire discussion.)*
 
@@ -14815,8 +14817,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Now the Siddhānta — the final, established conclusion — is stated:**
 
-> अस्ति वा श्रुतिसंयोगात्त्वेकेन स्यातिशंसती क्रियोक्त्यिं विदध्यातामिति ॥९॥ (जै. सू. २-१-१३)
-> *asti vā śruti-saṃyogāt tv ekena syāti-śaṃsatī kriyoktyiṃ vidadhyātām iti ||9||* (Jaimini Sutra 2-1-13) *(this concluding sutra remains a best-effort reading given its compressed technical form)*
+> अपि वा श्रुतिसंयोगात्प्रकरणे स्तौतिशंसती क्रियोत्पत्तिं विदध्यातामिति ॥ ९ ॥ (जै. सू. २-१-२४ [?]) अपि वेत्यनेन संस्कारकर्मत्वं व्यावर्त्यते । स्तौतिधातुः शंसतिधातुश्चेत्येतावुभावपि स्वप्रकरण एव कस्याश्चित्प्रधानक्रियाया उत्पत्तिं विदध्याताम् । कुतः । श्रुतिसंयोगात् । तयोर्धात्वोर्वाच्योऽर्थः श्रुतिरित्युच्यते । तत्संयोगः प्रधानकर्मत्वे सिध्यति । तथा हि गुणिनमुपसर्जनीकृत्य तन्निष्ठानां गुणानां प्राधान्येन कथनं स्तुतिः । यो देवदत्तः स चतुर्वेदाभिज्ञ इत्युक्ते सर्वे जनाः स्तुतिमवगच्छन्ति । गुणस्योपसर्जनत्वे तु न स्तुतिः प्रतीयते । यश्चतुर्वेदाभिज्ञस्तमानयेत्युक्ते स्तुतिं न मन्यन्ते किंत्वाह्वानप्राधान्यमेव बुध्यन्ते । एवं मन्त्रेष्वपि या देवता सेयमीदृशैर्गुणैरुपेतेति गुणप्राधान्यविवक्षायां मुख्यः स्तौतिधात्वर्थो विधीयते । त्वत्पक्षे तु येयमीदृग्गुणयुक्ता सेयं देवतेति देवतास्मरणस्य प्राधान्यादियं स्तुतिर्न स्यात् । ततः श्रुतिवशादेते प्रधानकर्मणी । तथा सति देवताप्रकाशने तात्पर्याभावादैन्द्रोऽपि प्रगाथः स्वप्रकरणगते माहेन्द्रकर्मण्येवाव-…
+> *api vā śrutisaṃyogātprakaraṇe stautiśaṃsatī kriyotpattiṃ vidadhyātāmiti ‖ 9 ‖ (jai. sū. 2-1-24 [?]) api vetyanena saṃskārakarmatvaṃ vyāvartyate | stautidhātuḥ śaṃsatidhātuścetyetāvubhāvapi svaprakaraṇa eva kasyāścitpradhānakriyāyā utpattiṃ vidadhyātām | kutaḥ | śrutisaṃyogāt | tayordhātvorvācyo 'rthaḥ śrutirityucyate | tatsaṃyogaḥ pradhānakarmatve sidhyati | tathā hi guṇinamupasarjanīkṛtya tanniṣṭhānāṃ guṇānāṃ prādhānyena kathanaṃ stutiḥ | yo devadattaḥ sa caturvedābhijña ityukte sarve janāḥ stutimavagacchanti | guṇasyopasarjanatve tu na stutiḥ pratīyate | yaścaturvedābhijñastamānayetyukte stutiṃ na manyante kiṃtvāhvānaprādhānyameva budhyante | evaṃ mantreṣvapi yā devatā seyamīdṛśairguṇairupeteti guṇaprādhānyavivakṣāyāṃ mukhyaḥ stautidhātvartho vidhīyate | tvatpakṣe tu yeyamīdṛgguṇayuktā seyaṃ devateti devatāsmaraṇasya prādhānyādiyaṃ stutirna syāt | tataḥ śrutivaśādete pradhānakarmaṇī | tathā sati devatāprakāśane tātparyābhāvādaindro 'pi pragāthaḥ svaprakaraṇagate māhendrakarmaṇyevāva-…* (re-read from the better scan in the [?] pass)
 
 ### Page 660
 
