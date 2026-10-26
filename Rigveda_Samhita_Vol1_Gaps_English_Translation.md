@@ -3119,7 +3119,7 @@ Cross-references (compressed):
 - आम्भृणी — वाक् (*āmbhṛṇī — vāk*)
 - आर्बुदिः — ऊर्ध्वयावाः (सर्पः) (*ārbudiḥ — ūrdhvayāvāḥ (sarpaḥ)*)
 
-Main entries (the column headed again after the cross-references; the bottom of the left column carries the page's footnote-numeral "२३" [?], not a page number):
+Main entries (the column headed again after the cross-references; the bottom of the left column carries the page's printer's sheet numeral "२५" (25; sheet 25 begins on printed p. 193), not a page number):
 
 | Ṛṣi (Devanagari) | IAST | Verses |
 |---|---|---|
@@ -3542,13 +3542,13 @@ Right column:
 | यजतः आत्रेयः | *yajataḥ ātreyaḥ* | 3 |
 | यजतः आत्रेयः (second entry) | *yajataḥ ātreyaḥ* | 10 |
 | यज्ञः प्राजापत्यः | *yajñaḥ prājāpatyaḥ* | 7 |
-| यमः वैवस्वतः (ऋषिः) | *yamaḥ vaivasvataḥ (ṛṣiḥ)* | 34 [?] |
+| यमः वैवस्वतः (ऋषिः) | *yamaḥ vaivasvataḥ (ṛṣiḥ)* | 24 |
 | यमी वैवस्वती (ऋषिका) | *yamī vaivasvatī (ṛṣikā)* | 11 |
 | ययातिः नाहुषः | *yayātiḥ nāhuṣaḥ* | 3 |
 | यविष्ठः सहसः पुत्रः | *yaviṣṭhaḥ sahasaḥ putraḥ* | 22 |
 | यामायनः — ऊर्ध्वकृशनः, कुमारः, दमनः, देवश्रवाः, मथितः [cross-references] | *yāmāyanaḥ — ūrdhvakṛśanaḥ, kumāraḥ, damanaḥ, devaśravāḥ, mathitaḥ* | — |
 
-(The count against *yamaḥ vaivasvataḥ* is printed as "[34]" with a doubtful middle digit; it is given as 34 [?]. The two entries for *yajataḥ ātreyaḥ* are as printed, with different counts.)
+(The count against *yamaḥ vaivasvataḥ* is printed "[24]", re-read on the 600 dpi scan. The two entries for *yajataḥ ātreyaḥ* are as printed, with different counts.)
 
 ### Page 201
 
@@ -3654,7 +3654,7 @@ Right column:
 | विश्वामित्रः जमदग्निः | *viśvāmitraḥ jamadagniḥ* | 4 |
 | विश्वावसुः देवगन्धर्वः | *viśvāvasuḥ devagandharvaḥ* | 6 |
 | विष्णुः प्राजापत्यः | *viṣṇuḥ prājāpatyaḥ* | 3 |
-| विहव्यः आङ्गिरसः | *vihavyaḥ āṅgirasaḥ* | [0] — printed "[0]", presumably a misprint [?] |
+| विहव्यः आङ्गिरसः | *vihavyaḥ āṅgirasaḥ* | [0] — as printed [sic] |
 | वीतहव्यः आङ्गिरसः | *vītahavyaḥ āṅgirasaḥ* | 19 |
 | वृशः जानः | *vṛśaḥ jānaḥ* | 12 |
 | वृषगणः वासिष्ठः | *vṛṣagaṇaḥ vāsiṣṭhaḥ* | 3 |
@@ -3755,7 +3755,7 @@ Left column:
 | सहदेवः वार्षागिरः | *sahadevaḥ vārṣāgiraḥ* | 19 |
 | सहसःपुत्रः गृहपतिः · यविष्ठः [cross-references] | *sahasaḥputraḥ gṛhapatiḥ · yaviṣṭhaḥ* | — |
 | सहस्रं वसुरोचिषः आङ्गिरसः | *sahasraṃ vasurociṣaḥ āṅgirasaḥ* | 3 |
-| सांवरणः [?] मनुः [cross-reference] | *sāṃvaraṇaḥ [?] manuḥ* | — |
+| सांवरणः मनुः [cross-reference] | *sāṃvaraṇaḥ manuḥ* | — |
 | सांख्यः अत्रिः [cross-reference] | *sāṃkhyaḥ atriḥ* | — |
 | साधनः भौवनः | *sādhanaḥ bhauvanaḥ* | 5 |
 
@@ -3878,20 +3878,20 @@ We do not know much about this man. Only this much can be said: whether, as Uva�
 In determining the time of Skandasvāmin, the first of the Ṛgveda commentators, these verses were quoted from the commentary on the Śatapatha-brāhmaṇa composed by Hariswāmī:
 
 > नागस्वामी तत्र ....श्रीगुहस्वामिनन्दनः ।
-> तत्र याजी प्रमाणज्ञ आद्यो [?] लक्ष्म्या [?] समेधितः ॥ ५ ॥
+> तत्र याजी प्रमाणज्ञ आढ्यो लक्ष्म्या समेधितः ॥ ५ ॥
 > तन्नन्दनो हरिस्वामी प्रस्फुरद्वेदवेदिमान् ।
 > त्रयीव्याख्यानधौरेयोऽधीततन्त्रो गुरोर्मुखात् ॥ ६ ॥
-> यः सम्राट् [?] कृतार्वा [?] सप्तसोमसंस्थास्तथर्क्श्रुतिं [?] ।
+> यः सम्राट् कृतवान् सप्त सोमसंस्थास्तथर्क्श्रुतिम् ।
 > व्याख्यां कृत्वाथापयन्मां श्रीस्कन्दस्वाम्यस्ति मे गुरुः ॥ ७ ॥
 >
 > *nāgasvāmī tatra ....śrīguhasvāminandanaḥ |*
-> *tatra yājī pramāṇajña ādyo [?] lakṣmyā [?] samedhitaḥ || 5 ||*
+> *tatra yājī pramāṇajña āḍhyo lakṣmyā samedhitaḥ || 5 ||*
 > *tannandano harisvāmī prasphuradvedavedimān |*
 > *trayīvyākhyānadhaureyo 'dhītatantro gurormukhāt || 6 ||*
-> *yaḥ samrāṭ [?] kṛtārvā [?] saptasomasaṃsthās tathark-śrutiṃ [?] |*
+> *yaḥ samrāṭ kṛtavān sapta somasaṃsthās tathark-śrutim |*
 > *vyākhyāṃ kṛtvāthāpayan māṃ śrīskandasvāmy asti me guruḥ || 7 ||*
 
-(The three verses are transcribed from the print letter by letter; several words in the first and third are doubtful and are marked [?]; the verse numbers are uncertain. No translation of these verses is given in the source other than the following gloss.)
+(The three verses are transcribed from the print letter by letter; the doubtful words and the verse numbers were re-read on the 600 dpi scan. No translation of these verses is given in the source other than the following gloss.)
 
 From this it is learnt that Hariswāmī was the grandson of one Guhasvāmī, the son of Nāgasvāmī, and the pupil of Skandasvāmin, who composed the commentary on the Ṛgveda. It has already been written that Skandasvāmin composed his commentary about 630 C.E.; Hariswāmī, his pupil, may be guessed to be of about the same time. And Hariswāmī himself has written his own time in his commentary on the Śatapatha-brāhmaṇa:
 
@@ -3915,15 +3915,15 @@ Uvaṭa is the renowned one among the commentators on the Śukla Yajurveda. At t
 
 > आनन्दपुरवास्तव्यवज्रटाख्यस्य सूनुना ।
 > उवटेन कृतं भाष्यं पदवाक्यैः सुनिश्चितैः ॥
-> ऋष्यादींश्च नमस्कृत्य अनन्त्यामुवटो वर्षे [?] ।
+> ऋष्यादींश्च नमस्कृत्य अवन्त्यामुवटो वसन् ।
 > मन्त्राणां कृतवान् भाष्यं महीं भोजे प्रशासति ॥
 >
 > *ānandapuravāstavyavajraṭākhyasya sūnunā |*
 > *uvaṭena kṛtaṃ bhāṣyaṃ padavākyaiḥ suniścitaiḥ ||*
-> *ṛṣyādīṃś ca namaskṛtya anantyām uvaṭo varṣe [?] |*
+> *ṛṣyādīṃś ca namaskṛtya avantyām uvaṭo vasan |*
 > *mantrāṇāṃ kṛtavān bhāṣyaṃ mahīṃ bhoje praśāsati ||*
 >
-> "By Uvaṭa, son of the one called Vajraṭa, resident of Ānandapura, was the commentary made with well-determined words and sentences. Having bowed to the seers and the rest, … Uvaṭa made the commentary on the mantras while Bhoja ruled the earth." (The third line is doubtful in the print; the translation of lines 1, 2 and 4 is editorial and tentative, closely following the source's own gloss below.)
+> "By Uvaṭa, son of the one called Vajraṭa, resident of Ānandapura, was the commentary made with well-determined words and sentences. Having bowed to the seers and the rest, Uvaṭa, dwelling in Avantī, made the commentary on the mantras while Bhoja ruled the earth." (The third line re-read on the 600 dpi scan; the translation is editorial and tentative, closely following the source's own gloss below, which also names Avantī as Uvaṭa's residence.)
 
 ### Page 263
 
@@ -3967,11 +3967,11 @@ He has composed three other works: the Ṛk-prātiśākhya-bhāṣya, the Yaju�
 Among the commentators on works such as the Mālatīmādhava there was a famous Kashmiri author named Jagaddharabhaṭṭa. His paternal grandfather was Gauradhara. This Jagaddharabhaṭṭa composed a work full of the flavour of devotion called Stutikusumāñjali. In this work he describes his lineage.
 
 > पुरा पुरारेः पदधूलिभूषरः सरस्वतीस्वैरविहारभूरभूत् ।
-> वितालानन्तश्रुतश्रवश्रुतो [?] विपश्चितां गौरधरः किलाग्रणीः ॥ १ ॥
+> विशालवन्तश्रुतवृत्तिविश्रुतो विपश्चितां गौरधरः किलाग्रणीः ॥ १ ॥
 > अनन्तसिद्धान्तपथान्तगामिनः समस्तशास्त्रार्णवपारदृश्वनः ।
 >
 > *purā purāreḥ padadhūlibhūṣaraḥ sarasvatīsvairavihārabhūr abhūt |*
-> *vitālānantaśrutaśravaśruto [?] vipaścitāṃ gauradharaḥ kilāgraṇīḥ || 1 ||*
+> *viśālavantaśrutavṛttiviśruto vipaścitāṃ gauradharaḥ kilāgraṇīḥ || 1 ||*
 > *anantasiddhāntapathāntagāminaḥ samastaśāstrārṇavapāradṛśvanaḥ |*
 
 (Transcribed as printed; the second line is doubtful; the verse continues on the next page; no translation is given in the source of the verses themselves. Gist, editorial and tentative: "Of old there was one adorned with the dust of the feet of Śiva (the foe of Pura), the playground of Sarasvatī: Gauradhara, indeed foremost of the learned … who had reached the end of the path of endless doctrines, who had seen to the far shore of the ocean of all the śāstras".)
@@ -4085,12 +4085,12 @@ In this commentary Sāyaṇācārya has quoted from works such as Manu, Prakāś
 In the Yajurveda, the divisions such as *khaṇḍa* are for the convenience of those who study the Veda; as Veṅkaṭamādhava and Ānandatīrtha said of the *vargas* and the other divisions of the Ṛgveda, Sāyaṇācārya too has accepted [this]. In the first adhyāya of the commentary these sentences are:
 
 > माणवकानामावर्तनसौकर्याय खण्डिकाविच्छेदस्य बुद्धिमद्भि-
-> रथ्यासक्तैः [?] कल्पितत्वात् । यथा बह्वृचानां तत्र तत्र सूक्त-
+> रध्यापकैः कल्पितत्वात् । यथा बह्वृचानां तत्र तत्र सूक्त-
 > मध्येऽपि वर्गविच्छेदः कल्पितः । यथा वा तैत्तिरीयकाणां
 > वाक्यमध्येऽपि पंचाशच्छब्दसंख्यया विच्छेदः आवृत्ति-
 > सौकर्याय कल्प्यते । तद्वदत्राप्यनुगंतव्यम् ।
 >
-> *māṇavakānām āvartanasaukaryāya khaṇḍikāvicchedasya buddhimadbhir athyāsaktaiḥ [?] kalpitatvāt | yathā bahvṛcānāṃ tatra tatra sūktamadhye 'pi vargavicchedaḥ kalpitaḥ | yathā vā taittirīyakāṇāṃ vākyamadhye 'pi paṃcāśacchabdasaṃkhyayā vicchedaḥ āvṛttisaukaryāya kalpyate | tadvad atrāpy anugantavyam |*
+> *māṇavakānām āvartanasaukaryāya khaṇḍikāvicchedasya buddhimadbhir adhyāpakaiḥ kalpitatvāt | yathā bahvṛcānāṃ tatra tatra sūktamadhye 'pi vargavicchedaḥ kalpitaḥ | yathā vā taittirīyakāṇāṃ vākyamadhye 'pi paṃcāśacchabdasaṃkhyayā vicchedaḥ āvṛttisaukaryāya kalpyate | tadvad atrāpy anugantavyam |*
 >
 > "For the facility of repetition by students, the division into *khaṇḍikā* has been devised by the wise …; just as for the Bahvṛcas the division into *vargas* is devised here and there even in the middle of a hymn; or as for the Taittirīyakas a division by a count of fifty words is devised, even in the middle of a sentence, for ease of repetition; so should it be followed here too." (Translation editorial and tentative; one word in the first line is doubtful.)
 
@@ -4203,17 +4203,17 @@ He wrote the commentary after studying the Kātyāyana sūtras, the Śatapatha-b
 
 > कात्यायनकृतं सूत्रं ब्राह्मणं शतपथाभिधम् ।
 > पुरातनानि भाष्याणि निरुक्ताद्यंगमेव च ॥
-> आलोक्य सम्यग्बहुधा [?] कृतं भाष्यमनुत्तमम् ।
+> आलोक्य सम्यग्बहुधा कृतं भाष्यमनुत्तमम् ।
 > सन्ति भाष्याण्यनेकानि प्रणीतानि हि सूरिभिः ॥
 > (पूना प्रति)
 >
 > *kātyāyanakṛtaṃ sūtraṃ brāhmaṇaṃ śatapathābhidham |*
 > *purātanāni bhāṣyāṇi niruktādyaṃgam eva ca ||*
-> *ālokya samyag bahudhā [?] kṛtaṃ bhāṣyam anuttamam |*
+> *ālokya samyag bahudhā kṛtaṃ bhāṣyam anuttamam |*
 > *santi bhāṣyāṇy anekāni praṇītāni hi sūribhiḥ ||*
 > (Pune copy)
 >
-> "Having looked at the sūtra made by Kātyāyana, the Brāhmaṇa called Śatapatha, the ancient commentaries, and the Vedāṅga beginning with the Nirukta, a most excellent commentary has been made [by me] in many ways [?]. There are indeed many commentaries composed by the learned."
+> "Having looked at the sūtra made by Kātyāyana, the Brāhmaṇa called Śatapatha, the ancient commentaries, and the Vedāṅga beginning with the Nirukta, a most excellent commentary has been made [by me] in many ways. There are indeed many commentaries composed by the learned."
 
 > अनेकग्रन्थमालोच्य दीपिका क्रियते मया ।
 > बहूनि सन्ति भाष्याणि प्रणीतानि हि सूरिभिः ॥
@@ -4263,11 +4263,11 @@ There are not many grounds to determine his time. The following verses help to s
 
 > अस्ति प्रशस्तं दिशि पश्चिमायां
 > उच्चाभिधानं नगरं गरीयः ॥ ३ ॥
-> उच्चैस्तनाराध्वरगावगाहं [?]
+> उच्चैस्तनारध्वरगावगाहं
 > तीर्थं परं पञ्चनदं पवित्रम् ॥ ४ ॥
 >
 > *asti praśastaṃ diśi paścimāyāṃ uccābhidhānaṃ nagaraṃ garīyaḥ || 3 ||*
-> *uccaistanārādhvaragāvagāhaṃ [?] tīrthaṃ paraṃ paṃcanadaṃ pavitram || 4 ||*
+> *uccaistanāradhvaragāvagāhaṃ tīrthaṃ paraṃ paṃcanadaṃ pavitram || 4 ||*
 
 > क्षितीश्वराः क्षत्रपदावतंसा-
 > स्तत्राविरासंस्तरुणप्रतापाः ।
@@ -4306,11 +4306,11 @@ He wrote a work called *Pāraskara-mantra-bhāṣya*. This is not an independent
 > "Having first bowed to the ancient Puruṣa, and likewise to the lotus feet of Kātyāyana, Murāri Miśra composes the commentary on the Pāraskara mantras, from his father's Gṛhya commentary."
 
 > गृह्यप्रकाशाभिधभाष्यगर्भ-
-> ज्ञ्रेवेदमिश्रैर्विधिवत्प्रणीतम् [?] ।
+> ज्ञैर्वेदमिश्रैर्विधिवत्प्रणीतम् ।
 > आकृष्य बन्धुं विदधाति मन्त्रे
 > मुरारिमिश्रः श्रुतितो विविच्य ॥
 >
-> *gṛhyaprakāśābhidhabhāṣyagarbha-jñrevedamiśrair vidhivat praṇītam [?] |*
+> *gṛhyaprakāśābhidhabhāṣyagarbha-jñair vedamiśrair vidhivat praṇītam |*
 > *ākṛṣya bandhuṃ vidadhāti mantre murārimiśraḥ śrutito vivicya ||*
 >
 > (The first line is transcribed as printed; the word *jñre…* is doubtful and may stand for "Vedamiśra". Gist, editorial and tentative: "Drawing on the commentary called *Gṛhya-prakāśa*, duly composed by Vedamiśra [his father], Murāri Miśra, distinguishing from the Śruti, makes [the commentary] on the mantras.")
@@ -4329,12 +4329,12 @@ Concerning him, Rāy Bahādur Manomohana Cakravartī wrote an essay in the journ
 
 ### Page 271
 
-> बाल्ये ख्यापितराजपण्डितपदं श्वेतातपत्रोज्ज्वल-
-> च्छत्रोत्सिक्तमहानहस्तनुपदं [?] दत्त्वा नवे यौवने ।
+> बाल्ये ख्यापितराजपण्डितपदं श्वेतार्चिबिम्बोज्ज्वल-
+> च्छत्रोत्सिक्तमहामहस्तनुपदं दत्त्वा नवे यौवने ।
 > यस्मै यौवनशेषयोग्यमखिलक्ष्मापालनारायणः
 > श्रीमान्लक्ष्मणसेनदेवनृपतिर्धर्माधिकारं ददौ ॥
 >
-> *bālye khyāpitarājapaṇḍitapadaṃ śvetātapatrojjvala-cchatrotsiktamahānahastanupadaṃ [?] dattvā nave yauvane |*
+> *bālye khyāpitarājapaṇḍitapadaṃ śvetārcibimbojjvala-cchatrotsiktamahāmahastanupadaṃ dattvā nave yauvane |*
 > *yasmai yauvanaśeṣayogyam akhilakṣmāpālanārāyaṇaḥ śrīmān lakṣmaṇasenadevanṛpatir dharmādhikāraṃ dadau ||*
 >
 > "In his boyhood [Lakṣmaṇasena] had given him the title of Royal Scholar [*rāja-paṇḍita*], …; in the freshness of his youth the glorious King Lakṣmaṇasena Deva, a Nārāyaṇa among all the guardians of the earth, gave him the office of Dharmādhikāra [judge of religious law], fitted for the remainder of his youth." (The middle of the first line is doubtful in the print; translation editorial and tentative.)
@@ -4345,11 +4345,11 @@ In his commentary Halāyudha has taken help not only from many ancient works but
 
 He composed not only the *Brāhmaṇa-sarvasva* but other works too. At the beginning of the *Brāhmaṇa-sarvasva* there is this verse —
 
-> मीमांसासर्वस्वं वैष्णवसर्वस्वं यत्कृतं शैवसर्वस्वम् [?] ।
-> पण्डितसर्वस्वमुसौ [?] सर्वस्वं सर्वधराणाम् ॥
+> मीमांसासर्वस्वं वैष्णवसर्वस्वं यत्कृतश्शैवसर्वस्वम् ।
+> पण्डितसर्वस्वमसौ सर्वस्वं सर्वधराणाम् ॥
 >
-> *mīmāṃsāsarvasvaṃ vaiṣṇavasarvasvaṃ yatkṛtaṃ śaivasarvasvam [?] |*
-> *paṇḍitasarvasvam usau [?] sarvasvaṃ sarvadharāṇām ||*
+> *mīmāṃsāsarvasvaṃ vaiṣṇavasarvasvaṃ yatkṛtaś śaivasarvasvam |*
+> *paṇḍitasarvasvam asau sarvasvaṃ sarvadharāṇām ||*
 >
 > (As printed; the verse is not securely intelligible, and the source gives only the following sentence of explanation.)
 
@@ -4379,13 +4379,13 @@ His time is not determined. Two persons have quoted his commentary: Brāhmaṇab
 > चारायणीयचरणैकगुणः प्रदाता ॥
 >
 > तस्माज्जातो विगतमत्सरमानसानां
-> मन्त्रार्थतत्त्वविदुषां जयनिन्द्रियाणि [?] ।
+> मन्त्रार्थतत्त्वविदुषां जयनिन्द्रियाणि ।
 > श्लाघ्यः श्रुताभिजनमाधवरातशिष्य
 > आदित्यदर्शन इमां विवृतिं व्यधत्त ॥
 >
 > *yo vedadarśana iti dvijavargamukhyaḥ satyārjavāśayaviśuddhaguṇaiḥ prasiddhaḥ |*
 > *āstikyanirmalamatir vihitāni cakre cārāyaṇīyacaraṇaikaguṇaḥ pradātā ||*
-> *tasmāj jāto vigatamatsaramānasānāṃ mantrārthatattvaviduṣāṃ jayanindriyāṇi [?] |*
+> *tasmāj jāto vigatamatsaramānasānāṃ mantrārthatattvaviduṣāṃ jayanindriyāṇi |*
 > *ślāghyaḥ śrutābhijanamādhavarātaśiṣya ādityadarśana imāṃ vivṛtiṃ vyadhatta ||*
 >
 > "He who was the chief of the twice-born, renowned for pure virtues of truthfulness and uprightness of mind, of an unsullied intellect in faith, who performed the prescribed rites, whose one virtue was the Cārāyaṇīya school, a giver — from him was born [Ādityadarśana], praiseworthy, of Vedic lineage, a pupil of Mādhavarāta, who composed this *Vivṛti*." (Translation editorial and tentative; the words "*jayanindriyāṇi*" in the second verse are doubtful and are left outside the rendering.)
@@ -4426,11 +4426,11 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 >
 > (Ṛgveda 10-9-3 as it stands in the print; the Rik is also found elsewhere; the printed *yasma* stands for *yasya*.)
 
-> ऋष्यं [?] — यस्येति व्यत्ययेन कर्मणि षष्ठी । हे आपः यं रसं
+> भाष्यम् — यस्येति व्यत्ययेन कर्मणि षष्ठी । हे आपः यं रसं
 > प्राणिषु जिन्वथ । जि जये । लट् । व्यत्ययेन श्नुः । ततः शप्
 > बाहुलकात् क्वचिद्द्विर्वचनादिता हुश्नुवोः सार्व-
 >
-> *ṛṣyaṃ [?] — yasyeti vyatyayena karmaṇi ṣaṣṭhī | he āpaḥ yaṃ rasaṃ prāṇiṣu jinvatha | ji jaye | laṭ | vyatyayena śnuḥ | tataḥ śap bāhulakāt kvacid dvirvacanāditā huśnuvoḥ sārva-*
+> *bhāṣyam — yasyeti vyatyayena karmaṇi ṣaṣṭhī | he āpaḥ yaṃ rasaṃ prāṇiṣu jinvatha | ji jaye | laṭ | vyatyayena śnuḥ | tataḥ śap bāhulakāt kvacid dvirvacanāditā huśnuvoḥ sārva-*
 >
 > "…'of whom' — by *vyatyaya* (inversion) the genitive is in the sense of the object. O waters, the flavour which you quicken in living beings. [The root] *ji* in the sense of 'conquer'; present tense; by *vyatyaya* [the affix] *śnu*; then *śap*, by the 'bahulam' rule, sometimes reduplication… in the *hu*-and-*śnu* [rule?] (the grammatical comment continues on the next page)."
 
@@ -4440,9 +4440,9 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 
 (Devapāla's commentary on the ṛk "*tasmā araṃgamāma vo yasma kṣayāya jinvatha | āpo janayathā ca naḥ*" continues. The page is partly grammatical; it is given here in the form of the print, with the Vyākaraṇa portions characterised rather than expounded.)
 
-> …धातुके (६-४-६७) इति यणादेशः । अनेकार्था धातवः । तेनायमर्थः—जयथोपचिनुथ वा । किमर्थम् । क्षयाय । क्षि निवासगत्योः । भूतानां निवासाय स्थितये गमनाय च नानारूपकर्मोपभोगार्थचेष्टायै ज्ञानाय च । तस्मै अरंगमाम वः । गत्यर्थकर्मणि (३-१२-२) इति कर्मणि चतुर्थी । तं युष्माकं सम्बन्धिनं रसं तूर्णमलं पर्याप्तं वा कृत्वा गच्छेमु [?] जीवनार्थमासाद्यमाशास्महे इति भोगासक्तैरद्ध्वै [?] आशास्यते ॥
+> …धातुके (६-४-६७) इति यणादेशः । अनेकार्था धातवः । तेनायमर्थः—जयथोपचिनुथ वा । किमर्थम् । क्षयाय । क्षि निवासगत्योः । भूतानां निवासाय स्थितये गमनाय च नानारूपकर्मोपभोगार्थचेष्टायै ज्ञानाय च । तस्मै अरंगमाम वः । गत्यर्थकर्मणि (३-१२-२) इति कर्मणि चतुर्थी । तं युष्माकं सम्बन्धिनं रसं तूर्णमलं पर्याप्तं वा कृत्वा गच्छेम जीवनार्थमासाद्यमाशास्महे इति भोगासक्तैरद्ध्वशि [?] आशास्यते ॥
 >
-> *…dhātuke (6-4-67) iti yaṇādeśaḥ | anekārthā dhātavaḥ | tenāyam arthaḥ—jayathopacinutha vā | kimartham | kṣayāya | kṣi nivāsagatyoḥ | bhūtānāṃ nivāsāya sthitaye gamanāya ca nānārūpakarmopabhogārthaceṣṭāyai jñānāya ca | tasmai araṃgamāma vaḥ | gatyarthakarmaṇi (3-12-2) iti karmaṇi caturthī | taṃ yuṣmākaṃ sambandhinaṃ rasaṃ tūrṇam alaṃ paryāptaṃ vā kṛtvā gacchemu [?] jīvanārtham āsādyam āśāsmahe iti bhogāsaktair addhvai [?] āśāsyate ||*
+> *…dhātuke (6-4-67) iti yaṇādeśaḥ | anekārthā dhātavaḥ | tenāyam arthaḥ—jayathopacinutha vā | kimartham | kṣayāya | kṣi nivāsagatyoḥ | bhūtānāṃ nivāsāya sthitaye gamanāya ca nānārūpakarmopabhogārthaceṣṭāyai jñānāya ca | tasmai araṃgamāma vaḥ | gatyarthakarmaṇi (3-12-2) iti karmaṇi caturthī | taṃ yuṣmākaṃ sambandhinaṃ rasaṃ tūrṇam alaṃ paryāptaṃ vā kṛtvā gacchema jīvanārtham āsādyam āśāsmahe iti bhogāsaktair addhvaśi [?] āśāsyate ||*
 
 ("…[in the affix] *-dhātuke* (6-4-67) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (3-12-2) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers are printed 6-4-67 and 3-12-2 (re-read on the 600 dpi scan with the user; as printed — the Pāṇinian rules are usually numbered 6-4-87 and 2-3-12), for the rules *huśnuvoḥ sārvadhātuke* and *gatyarthakarmaṇi dvitīyācatuthyau ceṣṭāyām anadhvani*; two words of the Sanskrit are doubtful.)
 
@@ -4642,7 +4642,7 @@ In Kṣura: "*apasprothanaṃ huṅkaraṇam iti*" — "*apasprothana* is the ma
 >
 > *"piteva putraṃ dasaye vacobhiḥ"* — (Taittirīya Saṃhitā 4-2-5)
 >
-> "Like a father [to] his son, I [?]… with words."
+> "Like a father [to] his son, I [satisfy him] with words." (Kṣura, below, glosses *dasaye* as *niravasāyayāmi stutibhiḥ*; translation mine and tentative.)
 
 Here in Kṣura: "*piteva putraṃ dasaye niravasāyayāmi stutibhiḥ iti vyākhyānāt*" — "by the explanation: 'I make [him] rest/settle with praises'."
 
@@ -4689,16 +4689,16 @@ Because he is the son of Prajāpati, who is denoted by the word *bhuvaḥ*, Prā
 
 At Śāntiniketan there is a commentary on the Taittirīya Saṃhitā in Grantha script. Its Devanāgarī copy is with Bhagavaddatta. There is a commentary only for the last three kāṇḍas; for the first four there is none. At the end of the work and in the middle, in places, these sentences, or sentences of the same meaning, occur —
 
-> इति नैध्रुवनवेंकटेश [?] विरचिते यजुर्वेदभाष्यसंग्रहसारे ।
+> इति नैध्रुववेंकटेश विरचिते यजुर्वेदभाष्यसंग्रहसारे ।
 > सप्तमे काण्डे पंचमप्रश्ने पंचविंशोऽनुवाकः ।
 > पंचमकाण्डप्रभृति सप्तमकाण्डपर्यंतं यजुर्वेद-
-> भाष्यसंग्रहं श्रीपदपूर्णनिवासेन [?] लिखितम् ॥
+> भाष्यसंग्रहं श्रीपदपूर्वनिवासेन लिखितम् ॥
 >
-> *iti naidhruvanaveṃkaṭeśa [?] viracite yajurvedabhāṣyasaṃgrahasāre | saptame kāṇḍe paṃcamapraśne paṃcaviṃśo 'nuvākaḥ | paṃcamakāṇḍaprabhṛti saptamakāṇḍaparyaṃtaṃ yajurvedabhāṣyasaṃgrahaṃ śrīpadapūrṇanivāsena [?] likhitam ||*
+> *iti naidhruvaveṃkaṭeśa viracite yajurvedabhāṣyasaṃgrahasāre | saptame kāṇḍe paṃcamapraśne paṃcaviṃśo 'nuvākaḥ | paṃcamakāṇḍaprabhṛti saptamakāṇḍaparyaṃtaṃ yajurvedabhāṣyasaṃgrahaṃ śrīpadapūrvanivāsena likhitam ||*
 >
-> "Thus in the *Yajurveda-bhāṣya-saṃgraha-sāra* composed by Naidhruva Veṅkaṭeśa [?]: in the seventh kāṇḍa, fifth praśna, the twenty-fifth anuvāka. From the fifth kāṇḍa to the seventh kāṇḍa, the *Yajurveda-bhāṣya-saṃgraha* written by Śrīpada-pūrṇa-nivāsa [?]."
+> "Thus in the *Yajurveda-bhāṣya-saṃgraha-sāra* composed by Naidhruva Veṅkaṭeśa: in the seventh kāṇḍa, fifth praśna, the twenty-fifth anuvāka. From the fifth kāṇḍa to the seventh kāṇḍa, the *Yajurveda-bhāṣya-saṃgraha* written by Śrīpada-pūrva-nivāsa."
 
-(As printed; two names are doubtful.)
+(As printed; the two names re-read on the 600 dpi scan.)
 
 The name of this work is *Veda-bhāṣya-saṃgraha-sāra*. He composed the commentary only for kāṇḍas 5 to 7.
 
@@ -4710,7 +4710,7 @@ In places in this commentary there are sentences which agree letter for letter w
 
 (time not known)
 
-At Calcutta in the year 1838 [?] a catalogue was published. In it is a list of the manuscript copies that were in Fort William. In that list there is also a commentary on the Taittirīya Saṃhitā composed by one Bālakṛṣṇa.
+At Calcutta in the year 1838 a catalogue was published. In it is a list of the manuscript copies that were in Fort William. In that list there is also a commentary on the Taittirīya Saṃhitā composed by one Bālakṛṣṇa.
 
 ### 9. Haradatta Miśra
 
@@ -4726,7 +4726,7 @@ He composed a commentary for the Āpastamba mantra-pāṭha, or *Ekāgni-kāṇ�
 >
 > "Having bowed to Mahādeva, by the wise Haradatta the exposition of the mantras of the Ekāgni-kāṇḍa is properly made."
 
-The commentary is excellent. It was printed at Mysore in C.E. 1902 [?]. He has quoted many sentences from the Nighaṇṭu. He expounds the mantras also from the historical point of view. At the end of the commentary —
+The commentary is excellent. It was printed at Mysore in C.E. 1902. He has quoted many sentences from the Nighaṇṭu. He expounds the mantras also from the historical point of view. At the end of the commentary —
 
 > इति श्रीपदवाक्यप्रमाणज्ञमहामहोपाध्याय हरदत्तमिश्र-
 > विरचितायामेकाग्निकाण्डमन्त्रव्याख्यायां द्वितीय-
@@ -4744,10 +4744,10 @@ It is said. Sentences of Haradatta are seen quoted both in Sāyaṇācārya's *D
 
 The name of his work is *Mantrārtha-dīpikā*. Among the auspicious verses there is one thus —
 
-> उवटे मन्त्रव्याख्या [?] गुणविष्णौ ब्राह्मणीयसर्वस्वे ।
-> वेदविलासिन्मामपि [?] कौशलमीक्ष्य तथापि मे सद्भिः ॥ ९ ॥
+> उवटे मन्त्रवाख्या [as printed] गुणविष्णौ ब्राह्मणीयसर्वस्वे ।
+> वेदविलासिन्यामपि कौशलमीक्ष्य तथापि मे सद्भिः ॥ ९ ॥
 >
-> *uvaṭe mantravākhyā [?] guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinmāmapi [?] kauśalam īkṣya tathāpi me sadbhiḥ || 9 ||*
+> *uvaṭe mantravākhyā [as printed] guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinyām api kauśalam īkṣya tathāpi me sadbhiḥ || 9 ||*
 >
 > (As printed; the verse is not securely intelligible; the following is the source's own statement of what it means.)
 
@@ -4774,10 +4774,10 @@ There are two parts in the Sāmaveda. Of these they call the first the *pūrvabh
 Along with Sāyaṇācārya's commentary on the Sāma-saṃhitā, Mādhava's *Vivaraṇa* has been published in the form of notes by one Satyavrata Sāmaśramī. In its introduction he tells how much of the *Vivaraṇa* was found, and in what manner.
 
 > संप्रति बहुयत्नतो माधवीयविवरणाख्यस्यैवैकमात्रस्यातिजीर्णा-
-> शुद्धपुस्तकमेकमर्धमर्ध उभयस्थानादासादितम् । तच्चात्र
-> शरलेशाखां [?] टिप्पण्याकारेण मुद्रितम् ।
+> शुद्धपुस्तकमेकमर्धश उभयस्थानादासादितम् । तच्चापीह
+> शरलेशाभ्यां टिप्पण्याकारेण मुद्रितम् ।
 >
-> *saṃprati bahuyatnato mādhavīyavivaraṇākhyasyaivaikamātrasyātijīrṇāśuddhapustakam ekam ardham ardha ubhayasthānād āsāditam | taccātra śaraleśākhāṃ [?] ṭippaṇyākāreṇa mudritam |*
+> *saṃprati bahuyatnato mādhavīyavivaraṇākhyasyaivaikamātrasyātijīrṇāśuddhapustakam ekam ardhaśa ubhayasthānād āsāditam | taccāpīha śaraleśābhyāṃ ṭippaṇyākāreṇa mudritam |*
 >
 > "Now, with much effort, a single, very decayed and impure manuscript of the work called *Mādhavīya-vivaraṇa* alone, half and half, from two places, has been obtained; and it has been printed here in the form of notes." (The words "*śaraleśākhāṃ*" are doubtful in the print; translation editorial and tentative.)
 
@@ -4890,12 +4890,12 @@ His introduction was given before. In telling of the matter of Rāvaṇa, the co
 ### Page 282
 
 > अथ वामदेवस्य साम्नः प्रवृत्तिरापस्तम्बशाखायां—विश्वेभि-
-> र्देव्यः [?] पृतना जयामि जागतेन छन्दसा सप्तदशेन स्तो-
+> र्देव्यैः पृतना जयामि जागतेन छन्दसा सप्तदशेन स्तो-
 > मेन वामदेव्येन साम्ना वषट्कारेण वज्रेण इति । अत्र
 > सामगायने स्तोभस्तोमादिलक्षणमस्माभिः सामभाष्ये
 > प्रोक्तम् ॥
 >
-> *atha vāmadevasya sāmnaḥ pravṛttir āpastambaśākhāyāṃ—viśvebhir devyaḥ [?] pṛtanā jayāmi jāgatena chandasā saptadaśena stomena vāmadevyena sāmnā vaṣaṭkāreṇa vajreṇa iti | atra sāmagāyane stobhastomādilakṣaṇam asmābhiḥ sāmabhāṣye proktam ||*
+> *atha vāmadevasya sāmnaḥ pravṛttir āpastambaśākhāyāṃ—viśvebhir devyaiḥ pṛtanā jayāmi jāgatena chandasā saptadaśena stomena vāmadevyena sāmnā vaṣaṭkāreṇa vajreṇa iti | atra sāmagāyane stobhastomādilakṣaṇam asmābhiḥ sāmabhāṣye proktam ||*
 >
 > "Now the application of the Vāmadevya Sāman in the Āpastamba branch: 'With all [the gods ?] I conquer the hosts, with the Jagatī metre, with the seventeenfold stoma, with the Vāmadevya Sāman, with the *vaṣaṭ*-call, with the thunderbolt' — thus. Here, in the singing of the Sāman, the characteristics of the *stobha*, *stoma* and the rest have been stated by us in the Sāma-bhāṣya." (The words *viśvebhir devyaḥ* are as printed; translation editorial and tentative.)
 
@@ -4924,11 +4924,11 @@ Commentary: —
 Sūryapaṇḍita in the *Gītā-bhāṣya* quotes many works connected with the Sāmaveda and also mantras. The Sāma tradition was well known to him. For him Rāvaṇa's commentary had special esteem. At the end of the *Gītā-bhāṣya* this is made manifest.
 
 > विदित्वा वेदार्थं दशवदनवाणीपरिणतं
-> शतश्लोकव्याख्यां [?] परमरमणीयामकरवम् ।
+> शतश्लोकीव्याख्यां परमरमणीयामकरवम् ।
 > ततो गीताभाष्यं निखिलनिगमार्थैकनिलयं
 > विधिज्ञार्यः सूर्यो नृहरिकरुणापाङ्गशरणः ॥ ६ ॥
 >
-> *viditvā vedārthaṃ daśavadanavāṇīpariṇataṃ śataślokavyākhyāṃ [?] paramaramaṇīyām akaravam |*
+> *viditvā vedārthaṃ daśavadanavāṇīpariṇataṃ śataślokīvyākhyāṃ paramaramaṇīyām akaravam |*
 > *tato gītābhāṣyaṃ nikhilanigamārthaikanilayaṃ vidhijñāryaḥ sūryo nṛharikaruṇāpāṅgaśaraṇaḥ || 6 ||*
 
 (As printed; the first two lines are doubtful. No translation is given by the source beyond the following gloss.)
@@ -5005,11 +5005,11 @@ After the commentary of the 6th khaṇḍa, he has made the commentary on the fi
 
 ### Page 288
 
-> इति श्रीशाकल्यकृतपदविंशतमोऽध्यायः [?]
+> इति श्रीशाकल्यकृतपदविंशतमोऽध्यायः
 >
-> *iti śrīśākalyakṛtapadaviṃśatamo 'dhyāyaḥ [?]*
+> *iti śrīśākalyakṛtapadaviṃśatamo 'dhyāyaḥ*
 >
-> "Thus the twentieth [?] chapter of the Pada[-pāṭha] made by the revered Śākalya."
+> "Thus the twentieth chapter of the Pada[-pāṭha] made by the revered Śākalya."
 
 (The last word of the colophon is as printed and doubtful. This sentence closes the account of the Pada-pāṭha of the Mādhyandina branch begun on the preceding pages, which the earlier draft already has.)
 
@@ -5035,9 +5035,9 @@ There are some differences between the text of the printed copy and the text of 
 
 According to the printed copy the reading is "*śatavalśaṃ*" and "*sahasravalśā*". But in the Nāsik manuscript copy there are "*śatavaliśam*" and "*sahasravaliśā*". That this is so is only a writing according to a difference of pronunciation, and not a difference of reading.
 
-> यो अस्मान्ध्वराद्यग्ं [?] नयं ध्वराम तं ध्वर
+> यो अस्मान्ध्वराद्यग्ं वयं ध्वराम तं ध्वर
 >
-> *yo asmān dhvarād yagṃ [?] nayaṃ dhvarāma taṃ dhvara* (1-1-5)
+> *yo asmān dhvarād yagṃ vayaṃ dhvarāma taṃ dhvara* (1-1-5)
 >
 > (The line is transcribed as printed; its words are doubtful. The point made is the difference of Pada-readings below.)
 
@@ -5135,10 +5135,9 @@ The Pada-pāṭha of the Sāmaveda differs a little from the Pada-pāṭhas of t
 
 | Saṃhitā text | Pada text | Meaning in the Nirukta |
 |---|---|---|
-| मित्रम् *mitram* | मि+त्रम् *mi + tram* | प्रमीतेस्त्रायते [?] *pramīter trāyate* (10-21) |
+| मित्रम् *mitram* | मि+त्रम् *mi + tram* | प्रमीतेस्त्रायते *pramīter trāyate* (10-21) |
 | अद्य *adya* | अ+द्य *a + dya* | अस्मिन् द्यवि *asmin dyavi* (1-6) |
 | सख्ये *sakhye* | स+ख्ये *sa + khye* | समानख्याना *samānakhyānā* (7-30) |
-| सख्ये *sakhye* | स+ख्ये *sa + khye* | समानख्याना *samānakhyānā* (? [?]) |
 | श्रद्धा *śraddhā* | श्रत्+धा *śrat + dhā* | श्रद्धानात् *śraddhānāt* (9-30) |
 | अघ *agha* | अ+घ *a + gha* | हन्तेः । निर्ह्रसितोपसर्गः अहन्तीति *hanteḥ | nirhrasitopasargaḥ ahantīti* (6-11) |
 | चन्द्रमसः *candramasaḥ* | चन्द्र+मसः *candra + masaḥ* | चन्द्रो माता *candro mātā* (11-5) |
@@ -5148,7 +5147,7 @@ The Pada-pāṭha of the Sāmaveda differs a little from the Pada-pāṭhas of t
 | उस्रियाः *usriyāḥ* | उ+स्रियाः *u + sriyāḥ* | उस्राविणोऽस्यां भोगाः *usrāviṇo 'syāṃ bhogāḥ* (4-19) |
 | पुत्रस्य *putrasya* | पुत्+त्रस्य *put + trasya* | पुन्नरकं ततस्त्रायत इति *punnarakaṃ tatas trāyata iti* (2-11) |
 
-(The Kannada numerals of the Nirukta references are not read with certainty and are marked [?]; the Sanskrit of the third column is transcribed as printed.)
+(The Nirukta references were re-read on the 600 dpi scan with the user; the Sanskrit of the third column is transcribed as printed.)
 
 ### Page 291
 
@@ -5290,7 +5289,7 @@ This occurs in the Ṛgveda (1-86-8 [as printed]), the Yajus (25-21), the Maitr�
 
 ### *Iṣṭā rāyaḥ*
 
-This mantra occurs in the Yajus (5-7), the Śatapatha (3-4-3-21), the Aitareya Brāhmaṇa (1-26) and the Taittirīya Saṃhitā (1-2-21) in these places. *Iṣṭā* is one word in the Taittirīya Saṃhitā. In the Mādhyandina Pada-pāṭha it is "*ā-iṣṭāḥ*" with an avagraha [?]; in the first it is for the vocative sense; in the second it is an epithet of *rāyaḥ*.
+This mantra occurs in the Yajus (5-7), the Śatapatha (3-4-3-21), the Aitareya Brāhmaṇa (1-26) and the Taittirīya Saṃhitā (1-2-21) in these places. *Iṣṭā* is one word in the Taittirīya Saṃhitā. In the Mādhyandina Pada-pāṭha it is "*ā-iṣṭāḥ*" with an avagraha; in the first it is for the vocative sense; in the second it is an epithet of *rāyaḥ*.
 
 In this matter the commentators hold different opinions. It is given below —
 
@@ -5302,7 +5301,7 @@ In this matter the commentators hold different opinions. It is given below —
 >
 > *uvaṭa—iṣṭā rāyaḥ | yajateḥ kṛtasaṃprasāraṇasyaitadrūpaṃ niṣṭhāpratyaye parato dānārthasya | ā iṣṭā rāyaḥ maryādayā iṣṭāni dhanāni ||*
 >
-> "Uvaṭa: *iṣṭā rāyaḥ* — this is the form of [the root] *yaj*, in the sense of giving, with *saṃprasāraṇa* made, when the *niṣṭhā* suffix follows. *ā iṣṭā rāyaḥ*: wealth that is desired within bounds [?]." (Translation editorial and tentative.)
+> "Uvaṭa: *iṣṭā rāyaḥ* — this is the form of [the root] *yaj*, in the sense of giving, with *saṃprasāraṇa* made, when the *niṣṭhā* suffix follows. *ā iṣṭā rāyaḥ*: wealth that is desired within bounds." (Translation editorial and tentative.)
 
 > सायण—हे इष्टः । तृजन्तस्य संबुद्धिः ।
 > सायण—(बेरे स्थलदल्लि) हे इष्टः । ........ यद्वा इष्टा इति प्रथमान्तम् ।
@@ -5314,11 +5313,11 @@ In this matter the commentators hold different opinions. It is given below —
 >
 > "Sāyaṇa: *he iṣṭaḥ* — the vocative of a [word] ending in *tṛc*. Sāyaṇa (in another place): *he iṣṭaḥ* … or else *iṣṭā* is in the nominative. Bhaṭṭabhāskara: *he iṣṭaḥ* — O one of seeking nature." (Translation editorial and tentative.)
 
-> केचिदिष्टायां [?] वर्णव्यत्ययेन इकारस्यैकारमाहुः । अना-
+> केचिन्निष्ठायां वर्णव्यत्ययेन इकारस्यैकारमाहुः । अना-
 > मंत्रितत्वं च मन्यंते । तदा आद्युदात्तत्वं च दुर्लभम् ।
 > शाखांतरे तु—आ इष्टः एष्ट इति मत्वा अवग्रहं कुर्वंति ॥
 >
-> *kecid iṣṭāyāṃ [?] varṇavyatyayena ikārasyaikāram āhuḥ | anāmaṃtritatvaṃ ca manyaṃte | tadā ādyudāttatvaṃ ca durlabham | śākhāṃtare tu—ā iṣṭaḥ eṣṭa iti matvā avagrahaṃ kurvaṃti ||*
+> *kecin niṣṭhāyāṃ varṇavyatyayena ikārasyaikāram āhuḥ | anāmaṃtritatvaṃ ca manyaṃte | tadā ādyudāttatvaṃ ca durlabham | śākhāṃtare tu—ā iṣṭaḥ eṣṭa iti matvā avagrahaṃ kurvaṃti ||*
 >
 > "Some, [in the word] *iṣṭā*, by a change of letters, say [that] *ikāra* [becomes] *aikāra*; and they consider it not a vocative; then the first-syllable *udātta* accent is hard to obtain. But in another branch, thinking '*ā iṣṭaḥ*, *eṣṭaḥ*', they make an avagraha." (Translation editorial and tentative.)
 
