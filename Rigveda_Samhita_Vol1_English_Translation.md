@@ -15463,82 +15463,6 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 ### Page 693
 
-**Application (viniyoga) of the next three Riks:** *"mitraṃ huve pūtadakṣam"* and the following Riks — addressed to Mitra-Varuṇa — are applied in the Maitrāvaruṇa-graha of the morning pressing, and (as Ashvalayana's Shrauta-sutra states, "*mitraṃ vayaṃ havāmahe mitraṃ huve pūtadakṣam*") likewise in the Ābhiplava-ṣaḍaha and related rites. *(The Kannada gives the citations in a compressed run; only the sense is given here.)*
-
-**॥ Prati-padārthaḥ ॥**
-
-**(हे) वायो ((he) vāyo)** — O Vāyu! | **इन्द्रश्च (indraś ca)** — and Indra, both of you | **सुन्वतः (sunvataḥ)** — of the sacrificer who has pressed the Soma-juice | **निष्कृतम् (niṣkṛtam)** — Soma purified by the preparatory rites (for drinking) — or to the sacrificer who has readied the Soma-juice | **उप आ यातम् (upa ā yātam)** — come | **(हे) नरा ((he) narā)** — O Indra and Vāyu, endowed with manly strength | **धिया (dhiyā)** — through this rite | **मक्षु (makṣu)** — quickly (the preparation will be accomplished) | **इत्था (itthā)** — this is true.
-
-**॥ Bhāvārthaḥ ॥**
-
-O Indra and Vāyu! Come to the sacrificer who has pressed out Soma-juice and made it pure through the preparatory rites, keeping it ready for you. O mighty ones, by your coming this rite — the yajna — is completed; that is, it is fully and correctly accomplished. Since you come and drink the Soma, the yajna will be carried through exactly as prescribed. This is true.
-
-**॥ English Translation ॥**
-
-> O Indra and you Vayu also, come quickly to (drink) the Soma (prepared and purified by the) of Yajamana or sacrificer. Thus your coming will help to complete the rite of the sacrifice.
-
-**॥ Viśeṣa-viṣayagaḷu ॥**
-
-**"Niṣkṛtam"** — the Bhashyakara glosses this as "**saṃskṛtam**," that is, "refined, purified"; the authors of the Vedārtha-yatna simply say "Soma." **Geldner** takes it as "arranged in order," and **Grassmann**...
-
-### Page 694
-
-**...[Grassmann] takes "niṣkṛta" as "a fixed [appointed] place" or "an enclosure/pen."** But the right sense is "niṣkṛta" = "completely accomplished" (*niḥśeṣeṇa saṃpāditam*), as in "*uta tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6), where this same sense is found. And further:
-
-(1) "*ratho ha vāṃ bhūri varsaḥ … niṣkṛtam āgamiṣṭhaḥ*" (Rigveda 3-58-9[?])
-(2) "*somo jigāti gātuvid devānām eti niṣkṛtam*" (Rigveda 9.?.?)
-(3) "*baḷitthā deva niṣkṛtam ādityā yajataṃ bṛhat*" (Rigveda 5.?.?)
-(4) "*indra dṛhyasva pūrasi bhadrā te eti niṣkṛtam*" (Rigveda 8.?.?)
-(5) "*vāyor indrasya niṣkṛtam*" (Rigveda 9.?.?)
-(6) "*ukthā minoti prati yanti dhenavo devasya devīr upa yanti niṣkṛtam*" (Rigveda 9.?.?)
-(7) "*kanikradad vṛṣā harir indrasyābhyeti niṣkṛtam*" (Rigveda 9.?.?)
-
-**In these Riks, "niṣkṛta" is used for a place where work (that is, sacrificial work) goes on — "the appointed place where the work of sacrifice is performed" — or, more simply, "a suitable place."** *(As on earlier pages, the exact Rigveda locators here were too small to read reliably and are not asserted.)*
-
-**"Itthā"** — the Bhashyakara glosses it as "truly." **Skandasvāmin** — "*itthā amutaḥ … asyā arthaḥ*": from there, from the intermediate region, from their own station; **Veṅkaṭamādhava** takes "itthā" as "in this manner."
-
-**"Dhiyā"** — "by this rite": the Bhashyakara, following the Nighaṇṭu (Nirukta 2.?), explains "dhī" as "action, work" — "perform the sacrifice!" The authors of the Vedārtha-yatna take it as "by this our praise, made with heartfelt intent"; Geldner takes it as "as we desire." Skandasvāmin and Veṅkaṭamādhava take "dhiyā" as "by this work." In the Nighaṇṭu, "dhīḥ" is a synonym of "prajñā" (wisdom); but that sense does not suit here. Since Madhucchandas and the others are performing the Agniṣṭoma and offering Soma to Indra-Vāyu in the morning pressing, "dhiyā" meaning "by this rite" fits best.
-
-### Page 693
-
-**Application (viniyoga) of this Rik:** the Rik "**mitraṃ huve pūtadakṣam**" [the seventh Rik, next] and the two that follow are applied, in the Prātaḥ-savana, to the *Maitrāvaruṇa* Stotra — in the Ājya-śastra of the Maitrāvaruṇa priest, and, as stated in the Aitareya Brahmana, in the Ṣaḍaha... The same is stated by Ashvalayana in the section beginning "*caturviṃśe hotājaniṣṭ…*": "*mitraṃ vayaṃ havāmahe mitraṃ huve pūtadakṣam*" (Ashvalayana 2.?), and in the section "*pariśiṣṭā nāvāpānu…*."
-
-**॥ Prati-padārthaḥ ॥**
-
-**(हे) वायो ((he) vāyo)** — O Vāyu! | **इन्द्रश्च (indraś ca)** — and Indra along with you (both of you) | **सुन्वतः (sunvataḥ)** — of the sacrificer who has pressed the Soma-juice | **निष्कृतम् (niṣkṛtam)** — Soma made pure through preparatory rites (for drinking), or [to the side of] the sacrificer who has readied the Soma-juice | **उप आ यातम् (upa ā yātam)** — come | **(हे) नरा ((he) narā)** — O two Indra-Vāyu, endowed with manly strength and the like | **धिया (dhiyā)** — through this rite | **मक्षु (makṣu)** — with alertness (the preparation will be completed) | **इत्था (itthā)** — this is true.
-
-**॥ Bhāvārthaḥ ॥**
-
-O Indra-Vāyu, come to the sacrificer who has pressed the Soma-juice and made it pure through preparatory rites, for your sake. O manly ones! With your arrival, this yajna-rite becomes complete and properly furnished. By your coming and drinking the Soma, the yajna will proceed as prescribed and reach its completion. This is true.
-
-**॥ English Translation ॥**
-
-> O Indra and you Vayu also, come quickly to (drink) the Soma (prepared and purified by the) of Yajamana or sacrificer. Thus your coming will help to complete the rite of the sacrifice.
-
-**॥ Viśeṣa-viṣayagaḷu ॥**
-
-**"Niṣkṛtam"** — the Bhashyakara glosses this word as "saṃskṛtam," i.e., "prepared, purified." **The authors of the Vedārtha-yatna** say it simply means "Soma." **Geldner** says it means "arranged, set in order"; **Grassmann**...
-
-### Page 694
-
-**...[Grassmann] takes "niṣkṛta" to mean "the appointed place" (the ritual ground).** Both "niṣkṛtam = niḥśeṣeṇa saṃpāditam" ("completely accomplished") — this is the sound sense. **The same sense appears in the Rik "*uta tyaṃ cemasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6).** The word "niṣkṛta" is also used in the following Riks:
-
-(1) "*ratho ha vāṃ bhūri varṣaḥ kerikratu-tāvato niṣkṛtam āgamiṣṭhaḥ*" (Rigveda 3-58.?)
-(2) "*somo jigāti gātuvid devānām eti niṣkṛtam*" (Rigveda 9.?)
-(3) "*baḷittthā deva niṣkṛtam ādityā yajataṃ bṛhat*" (Rigveda 8.?)
-(4) "*indra dṛhyasva pūrasi bhadrā te eti niṣkṛtam*" (Rigveda 8.?)
-(5) "*vāyor indrasya niṣkṛtam*" (Rigveda 9.?)
-(6) "*ukṣā mimāti prati yanti dhenavo devasya devīr upa yanti niṣkṛtam*" (Rigveda 9.?)
-(7) "*kanikradad vṛṣā harir indrasyābhyeti niṣkṛtam*" (Rigveda 9-100.?)
-
-**In these Riks, "niṣkṛtam" indicates a place where a rite (a yajna-rite) is performed — "the appointed place where the work of sacrifice is performed" — or a place made ready.**
-
-**"Itthā"** — the Bhashyakara glosses it as "true" (*satya*). Skandasvāmin: "*amuta*" — "from there"; from this it is explained as "from that heaven, from their own abode of the sky"; Veṅkaṭamādhava glosses it as "in this manner."
-
-**"Dhiyā"** — the Bhashyakara takes it as "amunā karmaṇā" — "by this rite" — as in the Nighaṇṭu (Nirukta 3.?): "*dhīḥ*" is glossed as "action; perform the yajna." **The authors of Vedārtha-yatna** take it as "by this our mindful praise"; **Geldner** as "as we desire." **Skandasvāmin and Nārāyaṇa** give "by this rite." In the Nighaṇṭu, "dhīḥ" is a synonym of "prajñā" (intelligence) — but that sense does not fit here. Since Madhuchandas and others were performing an Agniṣṭoma and offering Soma to Indra-Vāyu in the morning pressing, "dhiyā" — "in this rite," "by this rite," "by performing this rite" — is the most fitting sense. The next Ṛca, beginning "**mitraṃ huve**"...
-
-### Page 693
-
 *(The page opens with the tail of the grammar for Rik 2-6, followed by a note on the application of the next three Riks, addressed to Mitra-Varuṇa.)*
 
 > मित्रं हुव इति मैत्रावरुणस्य स्तोत्रियः । ... तत्रैवाभिप्लवे षडहेऽपि विनियुक्तः । तथा चाश्वलायनेन चतुर्विंशे होताजानिष्ट्येत्यादिखण्डे मित्रं वयं हवामहे मित्रं हुवे पूतदक्षम् । (आश्व. ५-९) इत्यादि सूत्रितम् ।
@@ -15579,44 +15503,6 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 **"Itthā"** — the Bhashyakara glosses it as "true" ("satya"). Skandasvāmin explains it: "*itthā amutaḥ*" — "from there" — that is, "from your own place, from the sky" [where you dwell]; Veṅkaṭamādhava glosses "itthā" as "in this manner."
 
 **"Dhiyā"** — the Bhashyakara glosses "amunā karmaṇā" — "by this rite." The Nighaṇṭu (Nirukta 2.?) lists "dhī" as meaning "action" (karma), which the commentators explain in the sense "perform, sacrifice." The authors of the Vedārtha-yatna say: "with our mindful (manaḥpūrvaka) stotra"; **Geldner**: "as we desire." Skandasvāmin and Veṅkaṭamādhava also give "by this rite." In the Nighaṇṭu "dhī" is listed as a synonym of "prajñā" (understanding), but that sense does not suit the present context. Since Madhuchandas and the others are performing the Agniṣṭoma at this moment, offering Soma to Indra-Vāyu in the morning pressing, "dhiyā" — "by this rite, or through this act, or by performing this act" — is the natural sense.
-
-### Page 693
-
-**Application (viniyoga) note for the following Riks:** the three Riks beginning "mitraṃ huve pūtadakṣam" [Riks 2-7–9, addressed to Mitra-Varuṇa] are applied in the Maitrāvaruṇa-graha (the Mitra-Varuṇa offering) of the morning pressing — that is, they belong to the Maitrāvaruṇa Stotra-recitation; and this is also stated by Āśvalāyana in the section of his Shrauta-sutra beginning "*caturviṃśe hotā*" ("mitraṃ huve pūtadakṣam…") — the sutra there giving these as the Puronuvākyā and Yājyā of the Mitra-Varuṇa offering, together with "mitraṃ vayaṃ havāmahe."
-
-**॥ Prati-padārthaḥ ॥**
-
-**(हे) वायो ((he) vāyo)** — O Vāyu! | **इन्द्रश्च (indraś ca)** — and Indra with you (both of you) | **सुन्वतः (sunvataḥ)** — of the sacrificer who has pressed the Soma-juice | **निष्कृतम् (niṣkṛtam)** — the Soma made pure by the preparatory rites (for drinking), or [approach] the sacrificer who has readied the Soma-juice | **आ यातम् (ā yātam)** — come | **(हे) नरा ((he) narā)** — O Indra and Vāyu, endowed with manly strength and the like! | **धिया (dhiyā)** — by this rite | **मक्षु (makṣu)** — quickly (the preparation will be completed) | **इत्था (itthā)** — this is true.
-
-**॥ Bhāvārthaḥ ॥**
-
-O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, having purified it through the preparatory rites, has kept it ready for you. O manly ones! By your coming, this rite of sacrifice will be brought to completion — that is, will be made whole and complete. Since you will come and drink the Soma, the yajna will be concluded in accordance with the prescribed rules. This is true.
-
-**॥ English Translation ॥**
-
-> O Indra and you Vayu also, come quickly to (drink) the Soma (prepared and purified by the) of Yajamana or sacrificer. Thus your coming will help to complete the rite of the sacrifice.
-
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
-
-**"Niṣkṛtam"** — the Bhashyakara glosses this word as "saṃskṛtam," meaning "prepared, purified." **The authors of the Vedārtha-yatna** say that it here means simply "Soma." **Geldner** says it means "arranged/duly ordered," and **Grassmann** ...
-
-### Page 694
-
-**...Grassmann** takes "niṣkṛta" as "appointed, fixed," or a "prepared place" (a sacrificial ground). **But "niṣkṛtam" — meaning "completed without remainder (*niśśeṣeṇa*), brought to fulfilment" — is the truly fitting sense.** In the Rik "*ute tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6) this very sense appears. Further examples (numbering as in the source, locators approximate):
-
-(1) "*ratho ha vāṃ bhūri varṣaḥ kariṣyat sutāvato niṣkṛtam āgamiṣṭhaḥ*" (Rigveda 3.?.?)
-(2) "*somo jigāti gātuvid devānām eti niṣkṛtam*" (Rigveda 9.?.?)
-(3) "*baliṭthā deva niṣkṛtam ādityā yajataṃ bṛhat*" (Rigveda 5.?.?)
-(4) "*indra dṛhyasva pūr asi bhadrā te eti niṣkṛtam*" (Rigveda 8.?.?)
-(5) "*vāyor indrasya niṣkṛtam*" (Rigveda 9.?.?)
-(6) "*ukṣā mimāti prati yanti dhenavo devasya devīr upa yanti niṣkṛtam*" (Rigveda 9.?.?)
-(7) "*kanikradad dhvṛṣā hariṃ indrasyābhyeti niṣkṛtam*" (Rigveda 9-100.?)
-
-**In these Riks, "niṣkṛtam" indicates a place where the work — the sacrificial rite — is carried on: a place appointed for the sacrifice (the assigned place where the work of sacrifice is performed), or a place that is set apart** — this is the sense suggested.
-
-**"Itthā"** — the Bhashyakara glosses it as "truth" (*satya*). Skandasvāmin gives "*amuta iti asyārthaḥ*" ("from that place" — the sense being "from there, from their own dwelling, from the sky"), while Veṅkaṭamādhava takes "itthā" to mean "in this manner."
-
-**"Dhiyā ('amunā karmaṇā')"** — "by this rite," as the Bhashyakara explains, following the Nighaṇṭu (Nirukta 2.?.?), where "dhīḥ" is listed as a word for "karma" (action, rite). The authors of the Vedārtha-yatna say it means "by this our [prayer] made with mind and devotion"; **Geldner** says "as we desire"; Skandasvāmin and Mādhava give "by this rite." ("Dhīḥ" is in another sense a synonym of "prajñā," wisdom, but that sense does not fit here.) **Since the rishi Madhuchandas and the others are performing the Agniṣṭoma at the morning pressing and offering Soma to Indra-Vāyu, the sense "in this rite," "by this rite" or "by performing this rite" is the fitting one.** The next Ṛc-group then begins: "**mitraṃ huve…**"
 
 ### Page 695
 
