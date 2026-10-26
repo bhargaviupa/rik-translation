@@ -14291,18 +14291,18 @@ This Agni, whom we praise, alone is able to bring the other deities here, since 
 
 **"Kavikratuḥ"** — the Bhashyakara holds that the commonly established sense of "kavi" as "a poet/composer" does not apply here. In his view, "kavikratuḥ" means "krānta-prajña" (pervasive in wisdom) or "krānta-karma" — either "one who well understands the nature of yajnas and their proper performance," or "one who himself performs such rites." The word "kavi" is used specifically, in many places, when praising Agni:
 
-> कविर्गृहपतिर्युवा । कविमुक्थ्यम् । तुभ्यं दक्ष कविक्रतो यासि । रातिं भृगूणामुशिजं कविक्रतुम् । अग्निमीळे कविक्रतुम् । सीदद्धोता कविक्रतुः । इन्द्रं गच्छन् कविक्रतुः ।
-> *kavir gṛhapatir yuvā | kavim ukthyam | tubhyaṃ dakṣa kavikrato yāsi | rātiṃ bhṛgūṇām uśijaṃ kavikratum | agnim īḷe kavikratum | sīdad dhotā kavikratuḥ | indraṃ gacchan kavikratuḥ |* (Rigveda Samhita, various citations)
+> कविर्गृहपतिर्युवा (ऋ. सं. १-१२-६) । कविमग्निमुपस्तुहि (ऋ. सं. १-१२-७) । तुभ्यं दक्ष कविक्रतो यानीमा (ऋ. सं. ३-१४-७) । रातिं भृगूणामुशिजं कविक्रतुम् (ऋ. सं. ३-२-४) । अग्निमीळे कविक्रतुम् (ऋ. सं. ३-२७-१२) । सीदद्धोता कविक्रतुः (ऋ. सं. ६-१६-२३) । इन्द्रं गच्छन् कविक्रतुः (ऋ. सं. ९-२५-५) ।
+> *kavirgṛhapatiryuvā (ṛ. saṃ. 1-12-6) | kavimagnimupastuhi (ṛ. saṃ. 1-12-7) | tubhyaṃ dakṣa kavikrato yānīmā (ṛ. saṃ. 3-14-7) | rātiṃ bhṛgūṇāmuśijaṃ kavikratum (ṛ. saṃ. 3-2-4) | agnimīḷe kavikratum (ṛ. saṃ. 3-27-12) | sīdaddhotā kavikratuḥ (ṛ. saṃ. 6-16-23) | indraṃ gacchan kavikratuḥ (ṛ. saṃ. 9-25-5) |* (quotations and references re-read in the numeral pass)
 
-**"Satyaḥ"** means: one of truthful nature, who never fails to grant the sacrifice's fruit. The phrase "**satya-dharmāṇam udgrīvam**" (Rigveda Samhita 1-10-2[?]) conveys this same sense. **"Citraśravastamaḥ"** — Agni is praised in varied ways by many different rishis; his fame is manifold and wondrous — this is the sense.
+**"Satyaḥ"** means: one of truthful nature, who never fails to grant the sacrifice's fruit. The phrase "**satyadharmāṇam adhvare**" (Rigveda Samhita 1-12-7) conveys this same sense. **"Citraśravastamaḥ"** — Agni is praised in varied ways by many different rishis; his fame is manifold and wondrous — this is the sense.
 
-**In the first Adhyaya of the first Ashtaka, [this section] comprises 12 vargas and 119 Riks in total.** With the five Riks discussed so far, the first Varga is complete. For the remaining four Riks of this sukta — Riks 6 through 9 — the second Varga begins, and so on.
+**The first Adhyāya of the first Aṣṭaka contains 19 Sūktas; these 19 Sūktas make 37 Vargas and 194 Riks.** With the five Riks discussed so far, the first Varga is complete. The remaining four Riks of this sukta — Riks 6-9 — form the second Varga, and so on.
 
 ---
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-**Since "kavikratuḥ" and "citraśravastamaḥ" are both bahuvrīhi compounds**, by the rule "**bahuvrīhau prakṛtyā pūrva-padam**" (Panini 6-2-1[?]) — in a bahuvrīhi compound, [certain member-words] retain their original accent...
+**Since "kavikratuḥ" and "citraśravastamaḥ" are both bahuvrīhi compounds**, by the rule "**bahuvrīhau prakṛtyā pūrva-padam**" (Panini 6-2-1) — in a bahuvrīhi compound, [certain member-words] retain their original accent...
 
 *(The remainder of the page continues the grammatical derivation in the established dense register.)*
 
@@ -14342,6 +14342,8 @@ This Agni, whom we praise, alone is able to bring the other deities here, since 
 
 *(The remainder of the page continues into the grammatical derivation of "aṅga," "dāśuṣe," and "aṅgiraḥ" in the established dense register.)*
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 4-4-98, 5-4-66, 7-3-77, 3-4-86, 6, 6, 4-12, 6-1-12.)*
+
 ### Page 639
 
 *(This page closes the grammatical derivation of "aṅga," "dāśuṣe," and "aṅgiraḥ" — noting among other points that "aṅgiraḥ" here takes the vocative form addressing Agni by this name — in the established dense register, followed by a brief citation from the Aitareya Brahmana on related ritual matters.)*
@@ -14360,6 +14362,8 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 > O Agni, whatever good you may bestow upon the giver (of oblations) becomes, O Angiras, truly yours only.
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 2, 8-1-19, 8-1-18, 6-1-198, 2-3, 8-1-30, 3-1-33, 6-1-211, 3-17, 34, 9, 1-30.)*
+
 ### Page 640
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
@@ -14373,7 +14377,7 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 **The word "Aṅgiraḥ" here addresses Agni himself — this calls for explanation.**
 
 > येऽङ्ग्यो अथवाऽऽसङ्ग्योऽङ्गिरसोऽभवन् ।
-> *ye'ṅgyo athavā āsaṅgyo'ṅgiraso'bhavan |* (Aitareya Brahmana 3-14)
+> *ye'ṅgyo athavā āsaṅgyo'ṅgiraso'bhavan |* (Aitareya Brahmana 3-34)
 > "Those who arose from the fire-embers (aṅgāra) came to be named Āṅgirasas."
 
 **The fuller story runs as follows:** Prajāpati (Brahmā) once contemplated his own daughter (Uṣas, or Prayochiṣā) with wicked, lustful intent. This became known to the deities, who resolved that such an act must be prevented — yet none of them individually possessed the power to punish and restrain Prajāpati. So all the deities together combined the most fearsome portion of their own respective essences, and from this combination produced the god **Rudra**, whom they charged with punishing Prajāpati. Learning of this, the terrified Prajāpati took the form of a deer and leapt into the sky — where he may still be seen today as the **Mṛgaśira** (Deer-head) constellation. Rudra, appearing as the **Ārdrā** constellation, then shot an arrow at him. Struck, Prajāpati's seed spilled forth and scattered in all directions, turning to ash. From that seed, first the sun (Āditya), and then **Bhṛgu-Vāruṇi**, were born. **From the remaining embers (aṅgāra), the Āṅgirasas themselves were born** — so the account concludes.
@@ -14424,7 +14428,7 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 *(This section works through the accent-derivation of "aṅga," "dāśuṣe," "kariṣyasi," and "aṅgiraḥ" in the established dense register. Amid this, two genuinely valuable confirming citations appear:)*
 
 > अङ्गिरा अङ्गाराः ।
-> *aṅgirā aṅgārāḥ |* (Nirukta 3-17)
+> *aṅgirā aṅgārāḥ |* (Nirukta 3-7)
 > "Aṅgiras [means] 'embers'" — that is, born from Agni's own ember-form — thus states Yāska himself.
 
 **This independently confirms the etymology already given on the previous page from the Aitareya Brahmana.** A further Brahmana passage, describing Prajāpati's own creative activity, likewise states:
@@ -14436,6 +14440,8 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 **Since the Āṅgirasa rishis were born from Agni [in his ember-form], Agni himself — in that same ember-form — is accordingly addressed as "Aṅgira."** This confirms, from Yāska's Nirukta independently of the Aitareya Brahmana narrative discussed above, that the etymological connection between "aṅgāra" (ember) and "Āṅgirasa" was a well-established point across multiple textual traditions, not merely one commentator's invention.
 
 *(The remainder of the page continues the grammatical derivation, working through the accent-rules for "kariṣyasi" and confirming the vocative form "aṅgiraḥ," in the established dense register.)*
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 6-1-12, 6-4-131, 6-1-108, 8-3-59, 8-1-19, 26, 8-1-30, 6-1-211, Nirukta 3-7, Aitareya Brāhmaṇa 3-34, 8-1-19.)*
 
 ### Page 643 — The Seventh Mantra of the Rigveda
 
@@ -14469,6 +14475,8 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 O Agni, we who perform this yajna, every single day, night and day alike, at all times, serve you wholeheartedly through prostrations and similar reverent acts, and thus draw near to your presence.
 
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 4-12, 8-1-23, 6-2-37, 6-1-168, 3-1-68, 6-1-186, 7-1-46.)*
+
 ### Page 644
 
 **॥ English Translation ॥**
@@ -14484,7 +14492,7 @@ O Agni, we who perform this yajna, every single day, night and day alike, at all
 **A different meaning is also possible here.** "Doṣāvastaḥ" could be the vocative singular of a consonant-stem word "doṣāvastṛ" (nominative "doṣāvastā," vocative "doṣāvastaḥ") — in which case it functions as a qualifier of "agne." "Doṣā" means "night, darkness"; from the root "vas" (to shine) comes "vastā." **On this reading, "doṣāvastaḥ" means "one who shines in the night/darkness" — and in the vocative, addressing Agni: "O Agni, who shines in the darkness!" This latter sense is the more fitting one.** Two supporting citations may be given:
 
 > इह त्वा भूर्या चिदुषे त्वदन्नोऽषावस्त्रीर्दीदिवांसमप्सु ।
-> *iha tvā bhūryā cid uṣe tvad annoṣāvastrīr dīdivāṃsam apsu |* (Rigveda Samhita 4-4-1[?])
+> *iha tvā bhūryā cid uṣe tvad annoṣāvastrīr dīdivāṃsam apsu |* (Rigveda Samhita 4-4-9)
 
 > त्वं नः पाह्यंहसो दोषावस्तरुर्वयक् । दिना नक्तमदाभ्यः ॥
 > *tvaṃ naḥ pāhy aṃhaso doṣāvastar ury ayak | dinā naktam adābhyaḥ ||* (Rigveda Samhita 3.?.?)
@@ -14494,10 +14502,12 @@ O Agni, we who perform this yajna, every single day, night and day alike, at all
 **"Bharantaḥ"** — though this could literally mean "carrying, bearing," the phrase "namo bharantaḥ" as a whole must mean "offering homage." Indeed, forms of this root are used in many places throughout the Rigveda in the sense of "doing/performing":
 
 > इमां ते धियं प्र भरे मयोभुवम् ।
-> *imāṃ te dhiyaṃ pra bhare mayobhuvam |* (Rigveda Samhita 1-103-1[?])
+> *imāṃ te dhiyaṃ pra bhare mayobhuvam |* (Rigveda Samhita 1-102-1)
 > "O Indra, I offer you this excellent hymn of praise" — here "bhare" fittingly means "I perform/render."
 
 **There are many such examples.**
+
+*(A further Ṛgveda reference on this page is printed as 7-15-15 (as read in the numeral review).)*
 
 ### Page 645
 
@@ -14524,9 +14534,11 @@ O Agni, we who perform this yajna, every single day, night and day alike, at all
 
 **Rik 7 completed:** "upa tvāgne dive-dive doṣāvastar dhiyā vayam | namo bharanta emasi" — "O Agni, illuminator of darkness, (or day and night) we approach you every day offering homage with devotion." This one had a genuinely nice piece of careful philology: the commentary weighs two readings of "doṣāvastaḥ" (Sayana's "day and night" vs. an alternative "one who shines in darkness" reading attributed to other named commentators — Venkatamadhava, Anandatirtha), and settles the question using a parallel Rigveda citation that already uses "dinā naktam" for "day and night" elsewhere — reasoning that a redundant second expression of the same idea would be unlikely, so the "shines in darkness" reading is preferred. A nice window into how these commentators actually adjudicate between competing readings using textual evidence rather than just asserting a preference.
 
-**Also completed this batch:** further confirmation of the Aṅgiras/aṅgāra etymology directly from Yaska's own Nirukta (3-17), independently corroborating the Aitareya Brahmana account translated two batches ago — a satisfying cross-check across different textual traditions.
+**Also completed this batch:** further confirmation of the Aṅgiras/aṅgāra etymology directly from Yaska's own Nirukta (3-7), independently corroborating the Aitareya Brahmana account translated two batches ago — a satisfying cross-check across different textual traditions.
 
 **Target for next session:** continue forward from PDF page 674 / printed page 646 — Rik 8's Sayana-bhashya and full apparatus.
+
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-1-23, 6-2-37, 6-1-168, 3-2-124, 3-1-68, 3-1-4, 6-1-186, 7-1-46, 7-3-84.)*
 
 ### Page 646
 
@@ -14553,24 +14565,26 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 
 **The Bhashyakara explains "rājantam" in this Rik as an independent term meaning "shining." Adjacent to it stands the word "adhvarāṇām," together with "gopām"...**
 
+*(Grammar references on this page: 6-1-189, 6-1-203 (as read in the numeral review).)*
+
 ### Page 647
 
 **...combined "dīdivim" with the word "gopām" [separately from "adhvarāṇām"] to construct his meaning.** If this construal is mistaken, one can readily argue that this was not the intent of Madhuchandas, the rishi who "saw" this sukta — because, in comparable contexts, other rishis use "rājantam" together with "adhvarāṇām" to mean "the chief illuminator of yajnas," that is, "one who lends the yajna its own vigor and splendor." This view is supported by:
 
 > संराजन्तमध्वराणाम् । राजन्तमध्वराणामग्निं कुत्सेन कोशिषा । राजन्तावध्वराणामस्मिना यामधूतिषा ।
-> *saṃrājantam adhvarāṇām | rājantam adhvarāṇām agniṃ kutsena kośiṣā | rājantāv adhvarāṇām asminā yāmadhūtiṣā |* (Rigveda Samhita 1-91-1[?]; 1-44-4[?]; 8-7-10[?])
+> *saṃrājantam adhvarāṇām | rājantam adhvarāṇām agniṃ kutsena kośiṣā | rājantāv adhvarāṇām asminā yāmadhūtiṣā |* (Rigveda Samhita 1-27-1; 1-45-4; 8-8-18)
 
 **These Riks confirm this reading.** Similarly, the word "gopām" should be understood as combined with "ṛtasya" — meaning "protector of truth, of righteous order." Several further Riks from other rishis support this same construction:
 
 > ऋतस्य या अभिरक्षन्ति गोपाः । गोपा ऋतस्य दीदिहि स्वे दमे । पुरुवीरं महऋतस्य गोपाम् । ऋतस्य गोपा न दभाय सुक्रतुः । गोपा ऋतस्य दीदिहि ।
-> *ṛtasya yā abhirakṣanti gopāḥ | gopā ṛtasya dīdihi sve dame | puruvīraṃ maha ṛtasya gopām | ṛtasya gopā na dabhāya sukratuḥ | gopā ṛtasya dīdihi |* (Rigveda Samhita 1-164-5[?]; 3-1.[?]; 4-4-1[?]; 3-21-1[?]; 10-11-1[?])
+> *ṛtasya yā abhirakṣanti gopāḥ | gopā ṛtasya dīdihi sve dame | puruvīraṃ maha ṛtasya gopām | ṛtasya gopā na dabhāya sukratuḥ | gopā ṛtasya dīdihi |* (Rigveda Samhita 1-163-5; 3-10-2; 6-49-15; 9-73-8; 10-118-7)
 
 — and so on. **These examples show that the Bhashyakara's given construal cannot be called entirely fitting.**
 
 **To take "ṛta" as simply meaning "yajna" misses the mark considerably** — the word's primary sense is "satya, dharma" (Universal Law or Cosmic Order). The Veda uses this very word "ṛta" to denote the order upon which the world's functioning and the laws of nature themselves rest. Examining the following Riks confirms and strengthens this understanding:
 
 > ऋतेनादित्या महि वो महित्वम् ।
-> *ṛtenādityā mahi vo mahitvam |* (Rigveda Samhita 2-27-8 [?])
+> *ṛtenādityā mahi vo mahitvam |* (Rigveda Samhita 2-27-8)
 
 > ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य धीतिर्वृजिनानि हन्ति । ऋतस्य श्लोको बधिरा ततर्द कर्णा बुधानः शुचमान आयोः ॥
 > ऋतस्य दृळ्हा धरुणानि सन्ति पुरूणि चन्द्रा वपुषे वपूंषि । ऋतेन दीर्घमिषणन्त पृक्ष ऋतेन गाव ऋतमा विवेशुः ॥
@@ -14579,23 +14593,23 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 ### Page 648
 
 > ऋतं येमान ऋतमित्कृणोत ऋतस्य शुष्मस्तुरणा उ गव्युः ।
-> *ṛtaṃ yemāna ṛtam it kṛṇota ṛtasya śuṣmas turaṇā u gavyuḥ |* (Rigveda Samhita 4-23-1[?])
+> *ṛtaṃ yemāna ṛtam it kṛṇota ṛtasya śuṣmas turaṇā u gavyuḥ |* (Rigveda Samhita 4-23-8)
 
 > ऋताय पृथ्वी बहुले गभीरे ऋताय भिषू परमे दुहाते ।
 > *ṛtāya pṛthvī bahule gabhīre ṛtāya bhiṣū parame duhāte |* (Rigveda Samhita 10.?)
 
 > ऋतेनादित्यास्तिष्ठन्ति दिवि सोमो अधि श्रितः ।
-> *ṛtenādityās tiṣṭhanti divi somo adhi śritaḥ |* (Rigveda Samhita 10-85-1[?])
+> *ṛtenādityās tiṣṭhanti divi somo adhi śritaḥ |* (Rigveda Samhita 10-85-1)
 
 > ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत ।
-> *ṛtaṃ ca satyaṃ cābhīddhāt tapaso'dhyajāyata |* (Rigveda Samhita 10-190-1[?])
+> *ṛtaṃ ca satyaṃ cābhīddhāt tapaso'dhyajāyata |* (Rigveda Samhita 10-191-1)
 
 **and so on.**
 
 **"Dame"** — in the home, in the house. The word "dama" is used in exactly this sense across many Riks of the Rigveda:
 
 > दमेदमे सप्तरत्ना दधानाः ।
-> *dame-dame saptaratnā dadhānāḥ |* (Rigveda Samhita 8-54-1[?])
+> *dame-dame saptaratnā dadhānāḥ |* (Rigveda Samhita 6-74-1)
 
 **and similar. Here, "Agni's home" refers to the yajna-hall.**
 
@@ -14603,7 +14617,7 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-**For "rājantam" and "vardhamānam," the accent follows what was already explained for "bharantaḥ."** In "**dīdivim**," by the rule "...abhyastānām ādiḥ" (Panini 6-1-189[?]) — the initial syllable of a reduplicated form before a sārvadhātuka affix with the "iṭ" augment takes udātta — the syllable "dī" accordingly becomes udātta. Since "dama" belongs to the "vṛṣādi" word-group, by the rule "**vṛṣādīnāṃ ca**" (Panini 6-1-203[?]) — words of this group take initial-syllable (ādyudātta) accent — "dama" is accented accordingly.
+**For "rājantam" and "vardhamānam," the accent follows what was already explained for "bharantaḥ."** In "**dīdivim**," by the rule "...abhyastānām ādiḥ" (Panini 6-1-189) — the initial syllable of a reduplicated form before a sārvadhātuka affix with the "iṭ" augment takes udātta — the syllable "dī" accordingly becomes udātta. Since "dama" belongs to the "vṛṣādi" word-group, by the rule "**vṛṣādīnāṃ ca**" (Panini 6-1-203) — words of this group take initial-syllable (ādyudātta) accent — "dama" is accented accordingly.
 
 ---
 
@@ -14652,6 +14666,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 — and so on.
 
+*(References printed on this page, in order (as read in the numeral review): 8-1-18, 4-16, 2-1-4-2, 1-30.)*
+
 ### Page 650
 
 **This Rik contains no difficult words.** "**Piteva sūnave**" — "just as a father would be, regarding his own son." Here, the rishi, addressing Agni as a father, regards us — who offer him praise — as his own children, and prays in this very spirit. Many such beautiful and easily-grasped similes occur here and there throughout the Rigveda.
@@ -14697,12 +14713,14 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 # ॥ द्वितीयं सूक्तम् ॥
 ## The Second Sūkta
 
+*(References printed on this page, in order (as read in the numeral review): 10, 191, 9, 8-1-21, 8-1-18, 2-1-4, 6-2-172, 8, 6-1-186, 6-1-162, 9.)*
+
 ### Page 651
 
-> अग्निमीळ इत्यादिसूक्तमग्निष्टोमस्य प्रातरनुवाके यथा विनियुक्तं तथा वायवा याहीत्यादयस्तृचाः प्रउगशस्त्रे विनियुक्ताः । तत्रेदं चिन्त्यते । शस्त्रं किं देवतास्मरणरूपसंस्कारकर्म किंवादृष्टफलं प्रधानकर्मेति । तत्र पूर्वपक्षं जैमिनिः सूत्रयामास । पू. मी. २-१-१३ — २४ ।
-> *agnimīḷa ityādisūktamagniṣṭomasya prātaranuvāke yathā viniyuktaṃ tathā vāyavā yāhītyādayastṛcāḥ praugaśastre viniyuktāḥ | tatredaṃ cintyate | śastraṃ kiṃ devatāsmaraṇarūpasaṃskārakarma kiṃvādṛṣṭaphalaṃ pradhānakarmeti | tatra pūrvapakṣaṃ jaiminiḥ sūtrayāmāsa | pū. mī. 2-1-13 — 24 |* (re-read from the better scan in the [?] pass)
+> अग्निमीळ इत्यादिसूक्तमग्निष्टोमस्य प्रातरनुवाके यथा विनियुक्तं तथा वायवा याहीत्यादयस्तृचाः प्रउगशस्त्रे विनियुक्ताः । तत्रेदं चिन्त्यते । शस्त्रं किं देवतास्मरणरूपसंस्कारकर्म किंवादृष्टफलं प्रधानकर्मेति । तत्र पूर्वपक्षं जैमिनिः सूत्रयामास । पू. मी. २-१-१३ — २९ ।
+> *agnimīḷa ityādisūktamagniṣṭomasya prātaranuvāke yathā viniyuktaṃ tathā vāyavā yāhītyādayastṛcāḥ praugaśastre viniyuktāḥ | tatredaṃ cintyate | śastraṃ kiṃ devatāsmaraṇarūpasaṃskārakarma kiṃvādṛṣṭaphalaṃ pradhānakarmeti | tatra pūrvapakṣaṃ jaiminiḥ sūtrayāmāsa | pū. mī. 2-1-13 — 29 |* (re-read from the better scan in the [?] pass)
 
-**Just as the "agnimīḷe" sukta is applied in the Pratar-anuvāka of the Agnishtoma-yaga, similarly the three Riks beginning "vāyav ā yāhi" are applied in the Pralugapa-shastra.** Here it becomes necessary to consider: what is a "Shastra"? Is it merely a preparatory rite consisting of recalling the deity, or is it itself a primary rite bearing an unseen [spiritual] fruit? On this question, the sage Jaimini states the prima facie position (pūrva-pakṣa) through the following sutras (Jaimini Sūtra 2-1-13 to 24; see also p. 417):
+**Just as the "agnimīḷe" sukta is applied in the Pratar-anuvāka of the Agnishtoma-yaga, similarly the three Riks beginning "vāyav ā yāhi" are applied in the Pralugapa-shastra.** Here it becomes necessary to consider: what is a "Shastra"? Is it merely a preparatory rite consisting of recalling the deity, or is it itself a primary rite bearing an unseen [spiritual] fruit? On this question, the sage Jaimini states the prima facie position (pūrva-pakṣa) through the following sutras (Jaimini Sūtra 2-1-13 to 29; see also p. 417):
 
 > स्तुतशस्त्रयोस्तु संस्कारो याज्यावद्देवताभिधानत्वादिति ॥ १ ॥ आज्यैः स्तुवते पृष्ठैः स्तुवते प्रउगं शंसति निष्केवल्यं शंसतीति श्रूयते । तत्र स्तुतिः शंसनं च गुणिनिष्ठगुणाभिधानम् । इन्द्रस्य नु वीर्याणि प्रवोचम् (ऋ. सं. १-३२-१) इत्यत्र दृष्टत्वात् । एवं सति याज्यान्यायेन गुणिन्या देवताया अभिधायकत्वेन स्तुतशस्त्रयोः संस्काररूपत्वमभ्युपेयम् । याज्यायास्तद्रूपत्वं दशमाध्यायस्य चतुर्थपादे दृष्टार्थलाभेन निर्णीतम् । पू. मी. १०-४-३९ — ४१ । तद्वदत्रापि तुशब्दः प्रधानकर्मत्वं व्यावर्तयति । सिद्धान्ती तं पक्षं दूषयति ॥
 > *stutaśastrayostu saṃskāro yājyāvaddevatābhidhānatvāditi ‖ 1 ‖ ājyaiḥ stuvate pṛṣṭhaiḥ stuvate praugaṃ śaṃsati niṣkevalyaṃ śaṃsatīti śrūyate | tatra stutiḥ śaṃsanaṃ ca guṇiniṣṭhaguṇābhidhānam | indrasya nu vīryāṇi pravocam (ṛ. saṃ. 1-32-1) ityatra dṛṣṭatvāt | evaṃ sati yājyānyāyena guṇinyā devatāyā abhidhāyakatvena stutaśastrayoḥ saṃskārarūpatvamabhyupeyam | yājyāyāstadrūpatvaṃ daśamādhyāyasya caturthapāde dṛṣṭārthalābhena nirṇītam | pū. mī. 10-4-39 — 41 | tadvadatrāpi tuśabdaḥ pradhānakarmatvaṃ vyāvartayati | siddhāntī taṃ pakṣaṃ dūṣayati ‖* (sūtra and bhāṣya re-read from the better scan in the [?] pass)
