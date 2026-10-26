@@ -4,9 +4,11 @@
 
 Repository: `bhargaviupa/rik-translation` · Working branch: `claude/modest-ptolemy-9efv8s`
 
+> **Update (26 Oct 2026, when this report was finalized).** This report describes the work of the session itself, which ended at Volume 6, Sūkta 62, printed p. 28. The branch `claude/modest-ptolemy-9efv8s` has since advanced through later sessions: **Volume 6 was completed on 7 Oct** (Sūktas 62–80, with the Fifth Adhyāya colophon; docx and PDF built), and Volumes 7–11 now have translation files on the branch (Volumes 1–9 are marked complete in `CLAUDE.md`; Volume 11 is being corrected page by page against a better scan). Sections 1 and 4 below show the position as of this session's end, with the later state noted. **For the current position always read `CLAUDE.md` and the tail of the newest volume file.**
+
 ---
 
-## 1. Where things stand
+## 1. Where things stand (at the end of this session)
 
 | Volume | Content | Status |
 |---|---|---|
@@ -15,9 +17,10 @@ Repository: `bhargaviupa/rik-translation` · Working branch: `claude/modest-ptol
 | 3 | Sūktas 20–32 | Complete; PDF (799 pp.) and Word |
 | 4 | Sūktas 33–46 | Complete; PDF (872 pp.) and Word |
 | 5 | Sūktas 47–61 + Pariśiṣṭa | Complete; PDF (1,031 pp.) and Word |
-| 6 | Sūktas 62–80 (`Rig_Vol6.pdf`, 638 pp.) | **In progress** — Sūkta 62 translated through printed p. 28 |
+| 6 | Sūktas 62–80 (`Rig_Vol6.pdf`, 638 pp.) | In progress at the end of this session (Sūkta 62 through printed p. 28); **since completed (7 Oct), docx and PDF built** |
+| 7–11 | later volumes | Started after this session (see update note above) |
 
-Volume 6 position: Sūkta 62, Rik 62.5, Special Topics; **next page is printed p. 29 (PDF 47)**. Printed page = PDF − 18. Sūkta 62 has 13 Riks and runs to about printed p. 60.
+Volume 6 position at the end of this session: Sūkta 62, Rik 62.5, Special Topics; next page was printed p. 29 (PDF 47). Printed page = PDF − 18. (Superseded: Volume 6 is now complete.)
 
 ---
 
@@ -100,10 +103,10 @@ Volume 6 position: Sūkta 62, Rik 62.5, Special Topics; **next page is printed p
 ## 4. To-do list
 
 ### Translation
-1. **Continue Sūkta 62 from printed p. 29 (PDF 47)** — Rik 62.5 Special Topics, then Riks 62.6–62.13 (to about p. 60).
-2. Sūktas 63–80, one Sūkta per session, following `CLAUDE.md` conventions.
-3. Check the abbreviation key against PDF 18 when first needed.
-4. Rebuild Volume 6 docx/PDF only when asked.
+1. ~~Continue Sūkta 62 and Sūktas 63–80~~ — **done in later sessions** (Volume 6 complete 7 Oct).
+2. Check the Volume 6 header's abbreviation key against PDF 18 (copied from Volume 5; not confirmed in this session).
+3. Carry on with the current volume as recorded in `CLAUDE.md` (Volumes 10–11 and the review/numeral passes noted there).
+4. Rebuild docx/PDF for any volume only when asked.
 
 ### Review and quality
 5. You: review the all-volumes spreadsheet and the Volume 2 corrections (do not regenerate the worklist unless you ask).
@@ -125,7 +128,7 @@ Volume 6 position: Sūkta 62, Rik 62.5, Special Topics; **next page is printed p
 
 ## 5. How to resume (new chat)
 
-> Continue the Volume 6 translation. Read CLAUDE.md and the last ~40 lines of Rigveda_Samhita_Vol6_English_Translation.md first. Work on branch claude/modest-ptolemy-9efv8s. Position: Sūkta 62, Rik 62.5, Special Topics, printed p. 29 (PDF 47) is next (printed page = PDF − 18). Source: Rig_Vol6.pdf. Follow the conventions in CLAUDE.md. Append only, replacing the single trailing "Progress note"; batches of 3 pages; commit and push after each batch. Don't create a PR or rebuild docx/PDF unless asked.
+> Continue the Rigveda translation project. Read CLAUDE.md first (it holds the current position and conventions), then the last ~40 lines of the newest volume file named there. Work on branch claude/modest-ptolemy-9efv8s; commit and push after each batch; no PR and no docx/PDF rebuild unless I ask.
 
 ---
 
