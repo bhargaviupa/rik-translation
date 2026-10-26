@@ -11376,7 +11376,7 @@ Without these present in a work, listeners will not undertake to read it. Theref
 — dharma and brahma are knowable through the Veda alone. Those learned in tradition cite here two of Jaimini's own sutras:
 
 > चोदनालक्षणोऽर्थो धर्मः ।
-> *codanā-lakṣaṇo'rtho dharmaḥ |* (Jaimini Sutra 1.1.2)
+> *codanā-lakṣaṇo'rtho dharmaḥ |* (Jaimini Sutra 1-1-2)
 
 —and—
 
@@ -11386,7 +11386,7 @@ Without these present in a work, listeners will not undertake to read it. Theref
 — the twofold restriction meaning that dharma is knowable through Vedic injunction alone, and cannot be grasped through direct perception. As Jaimini states in his fourth sutra:
 
 > प्रत्यक्षमनिमित्तं विद्यमानोपलम्भनात् ।
-> *pratyakṣam animittaṃ vidyamānopalambhanāt |* (Jaimini Sutra 1.1.4)
+> *pratyakṣam animittaṃ vidyamānopalambhanāt |* (Jaimini Sutra 1-1-4)
 
 **Why dharma cannot be perceived:** dharma must be performed for one's own ultimate good, or must first be known before being performed — it is thus an object of knowledge, not of direct perception. It cannot be seen with the eyes; and what cannot be grasped by the eyes cannot afterwards be apprehended. Since the senses can grasp only what falls within their range, dharma cannot be apprehended by the senses at all. **Therefore dharma is knowable through the Veda alone.**
 
@@ -11407,10 +11407,10 @@ There is no other way; since we have already established the Veda's authority, w
 
 One who performs dharma becomes happy; one who performs adharma becomes miserable. Seeing a happy person we conclude he has performed dharma; seeing a miserable one, that he has performed adharma. Pleasure and pain are indeed marks of dharma and adharma — this is precisely the point.
 
-**On brahma:** although differing from dharma, inasmuch as it is something already in existence, **brahma can be known only from the shastra** — as is taught in the second section of the third sutra of the Uttara Mimamsa (Brahma-sutra 1.1.3). As the commentator explains: "The meaning is that the shastra is the only authority for the truth that brahma is the cause of the birth, life, and death of the world." We can quote a text of Scripture too:
+**On brahma:** although differing from dharma, inasmuch as it is something already in existence, **brahma can be known only from the shastra** — as is taught in the second section of the third sutra of the Uttara Mimamsa (Brahma-sutra 1-1-3). As the commentator explains: "The meaning is that the shastra is the only authority for the truth that brahma is the cause of the birth, life, and death of the world." We can quote a text of Scripture too:
 
 > "न वेदाविन् मनुते तं बृहन्तम्"
-> "na vedāvin manute taṃ bṛhantam" (Taittiriya Brahmana 3.12.9.7)
+> "na vedāvin manute taṃ bṛhantam" (Taittiriya Brahmana 3-12-9-7)
 >
 > "One who does not know the Veda does not comprehend that Great One."
 
@@ -11439,7 +11439,7 @@ Nor need we doubt lest such knowledge — like that, for example, that the earth
 **That dharma yields human benefit is praised in Scripture thus:**
 
 > धर्मो विश्वस्य जगतः प्रतिष्ठा लोके धर्मिष्ठं प्रजा उपसर्पन्ति धर्मेण पापमपनुदति धर्मे सर्वं प्रतिष्ठितं तस्माद्धर्मं परमं वदन्ति ॥
-> *dharmo viśvasya jagataḥ pratiṣṭhā loke dharmiṣṭhaṃ prajā upasarpanti dharmeṇa pāpam apanudati dharme sarvaṃ pratiṣṭhitaṃ tasmād dharmaṃ paramaṃ vadanti ||* (Taittiriya Upanishad 1.9[?] / Mahanarayana Upanishad 79.9)
+> *dharmo viśvasya jagataḥ pratiṣṭhā loke dharmiṣṭhaṃ prajā upasarpanti dharmeṇa pāpam apanudati dharme sarvaṃ pratiṣṭhitaṃ tasmād dharmaṃ paramaṃ vadanti ||* (Taittiriya Upanishad 63-7, as printed)
 >
 > "Dharma is the support of the whole world: throughout the world people flock to him who has most dharma. A man puts away his sin by means of his dharma; everything rests upon dharma. Therefore they call dharma man's highest good."
 
@@ -11448,7 +11448,7 @@ That is: dharma bears up this entire world; the people of the world approach the
 **Dharma restrains a king in act to strike, and to the weaker of two disputants brings victory as from a king's help:** truly it is an object of desire to men. As it is said in the Scripture of the Vajasaneyins, in the Srishti chapter:
 
 > तच्छ्रेयोरूपमत्यसृजत धर्मं तदेतत्क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान्बलीयांसमाशंसते धर्मेण यथैव राज्ञैवम् ॥
-> *tac chreyo-rūpam atyasṛjata dharmaṃ tad etat kṣatrasya kṣatraṃ yad dharmas tasmād dharmāt paraṃ nāsty atho abalīyān balīyāṃsam āśaṃsate dharmeṇa yathaiva rājñaivam ||* (Brihadaranyaka Upanishad 1.4.14)
+> *tac chreyo-rūpam atyasṛjata dharmaṃ tad etat kṣatrasya kṣatraṃ yad dharmas tasmād dharmāt paraṃ nāsty atho abalīyān balīyāṃsam āśaṃsate dharmeṇa yathaiva rājñaivam ||* (Brihadaranyaka Upanishad 1-4-14)
 >
 > "He created dharma, that excellent form. This dharma is the kshatra (ruling power) of the kshatriya itself; therefore there is nothing higher than dharma. And so the weaker hopes to overcome the stronger by means of dharma, just as one does by the help of a king."
 
@@ -11457,7 +11457,7 @@ When two people quarrel, even a weak man in the right can, with the strength of 
 **That knowledge of brahma conduces to man's desire is the theme of many texts of Scripture:**
 
 > ब्रह्मविदाप्नोति परं ब्रह्म वेद ब्रह्मैव भवति तरति शोकमात्मवित् ।
-> *brahmavid āpnoti paraṃ brahma veda brahmaiva bhavati tarati śokam ātmavit |* (Taittiriya Upanishad 2.1.1; Mundaka Upanishad 3.2.9; Chandogya Upanishad 7.1.3)
+> *brahmavid āpnoti paraṃ brahma veda brahmaiva bhavati tarati śokam ātmavit |* (Taittiriya Upanishad 2-1-1; Mundaka Upanishad 3-2-9; Chandogya Upanishad 7-1-3)
 >
 > "The knower of brahma attains the Supreme. He who knows brahma becomes brahma itself. The knower of the Self crosses beyond sorrow."
 
@@ -11475,11 +11475,11 @@ When two people quarrel, even a weak man in the right can, with the strength of 
 The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (creation) chapter:
 
 > तच्छ्रेयोरूपमत्यसृजत धर्मं तदेतत्क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान्बलीयांसमाशंसते धर्मेण यथा राज्ञैवम् ॥
-> *tac chreyo-rūpam atyasṛjata dharmaṃ tad etat kṣatrasya kṣatraṃ yad dharmas tasmād dharmāt paraṃ nāsty atho abalīyān balīyāṃsam āśaṃsate dharmeṇa yathā rājñaivam ||* (Shatapatha Brahmana 14.4.2.26)
+> *tac chreyo-rūpam atyasṛjata dharmaṃ tad etat kṣatrasya kṣatraṃ yad dharmas tasmād dharmāt paraṃ nāsty atho abalīyān balīyāṃsam āśaṃsate dharmeṇa yathā rājñaivam ||* (Shatapatha Brahmana 14-4-2-26)
 
 **Meaning:** thereafter He created dharma, that form of excellence. That itself is dharma. That very dharma is the kshatriya's own ruling power; nothing whatsoever is higher than it. Just as a person relies upon a king, one who relies upon dharma — even the weak — becomes strong.
 
-**And the Taittiriya states** — "ब्रह्मविदाप्नोति परम्" *brahmavid āpnoti param* (Taittiriya Upanishad 2.1) — the knower of brahma attains the Supreme. **The Mundaka Upanishad states** — "ब्रह्म वेद ब्रह्मैव भवति" *brahma veda brahmaiva bhavati* — one who knows brahma becomes brahma itself (attaining oneness with brahma). **And "तरति शोकमात्मवित्" *tarati śokam ātmavit*** (Chandogya Upanishad 7.1.3) — one who knows the Self crosses beyond sorrow; for him there is no misery. In such statements throughout Scripture, the human benefit arising from brahma-knowledge is well established.
+**And the Taittiriya states** — "ब्रह्मविदाप्नोति परम्" *brahmavid āpnoti param* (Taittiriya Upanishad 2-1) — the knower of brahma attains the Supreme. **The Mundaka Upanishad states** — "ब्रह्म वेद ब्रह्मैव भवति" *brahma veda brahmaiva bhavati* — one who knows brahma becomes brahma itself (attaining oneness with brahma). **And "तरति शोकमात्मवित्" *tarati śokam ātmavit*** (Chandogya Upanishad 7-1-3) — one who knows the Self crosses beyond sorrow; for him there is no misery. In such statements throughout Scripture, the human benefit arising from brahma-knowledge is well established.
 
 ### The Qualified Person (Adhikārī)
 
@@ -11531,7 +11531,7 @@ The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (crea
 **The Veda is obscure, but it is the object of the Shiksha and the other Angas to expound its meaning.** That is why these Angas are included by the Atharvanikas in a sacred text to be found in their Mundaka Upanishad, under the term "lower knowledge" (aparā vidyā):
 
 > द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च । तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति । अथ परा यया तदक्षरमधिगम्यते ॥
-> *dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca | tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam iti | atha parā yayā tad akṣaram adhigamyate ||* (Mundaka Upanishad 1.1.4–5)
+> *dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca | tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam iti | atha parā yayā tad akṣaram adhigamyate ||* (Mundaka Upanishad 1-1-4)
 >
 > "'Verily, there are two kinds of knowledge to be known' — so say those who know brahma — 'the higher and the lower.' Of these, the lower is: the Rig Veda, the Yajur Veda, the Sama Veda, the Atharva Veda, Shiksha (phonetics), Kalpa (ritual), Vyakarana (grammar), Nirukta (etymology), Chhandas (metre), and Jyotisha (astronomy). But the higher is that by which the Imperishable is attained."
 
@@ -11554,14 +11554,14 @@ The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (crea
 Even though the words of very profound texts may, in some places, be difficult to grasp, their deep meaning is still understood by those who study, and because of this — the Angas being the means to that understanding — the wise call the Veda's own meaning "aparā" (lower). Those learned in the tradition of Shiksha and the other Angas state, on the authority of the very text quoted above—
 
 > द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च । तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति । अथ परा यया तदक्षरमधिगम्यते ॥
-> *dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca | tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam iti | atha parā yayā tad akṣaram adhigamyate ||* (Mundaka Upanishad 1.1.4–5)
+> *dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca | tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam iti | atha parā yayā tad akṣaram adhigamyate ||* (Mundaka Upanishad 1-1-4)
 
 **Meaning:** knowledge is of two kinds — parā and aparā. Of these, aparā consists of: the Rigveda, Yajurveda, Samaveda, Atharvaveda, Shiksha, Kalpa, Vyakarana-shastra, Nirukta, Chhandah-shastra, and Jyotisha — these ten together are called aparā ("lower") knowledge. Because this cannot be beginningless, and because it is a mere instrument for grasping the meaning of the Veda's Brahmana portion — which itself expounds dharma — it is spoken of as the "lower" knowledge. Therefore, this "lower" is no name of contempt; it merely means that dharma is a means, while attaining the highest human end — brahma-knowledge, of which the Upanishads are the source — is the "higher" (parā) knowledge.
 
 ### The Veda's Angas: The Definition of Śikṣā
 
 > वर्णस्वराद्यच्चारणप्रकारो यत्प्रोक्तश्च ते सा शिक्षा । तथा च त्रैत्तिरीयाणामुपनिषदारम्भे समानुक्रियारूपणम् ।
-> *varṇa-svarādy-uccāraṇa-prakāro yat proktaś ca te sā śikṣā | tathā ca traittirīyāṇām upaniṣad-ārambhe samānukriyā-rūpaṇam |* — वर्णः स्वरो मात्रा बलं साम सन्तान इत्युक्तः शिक्षाध्यायः । (Taittiriya Upanishad 1.2)
+> *varṇa-svarādy-uccāraṇa-prakāro yat proktaś ca te sā śikṣā | tathā ca traittirīyāṇām upaniṣad-ārambhe samānukriyā-rūpaṇam |* — वर्णः स्वरो मात्रा बलं साम सन्तान इत्युक्तः शिक्षाध्यायः । (Taittiriya Aranyaka 7-2)
 
 That is: it is called Śikṣā because it teaches the method of pronouncing letters, accents, and similar matters. As it is said at the very beginning of the Taittiriyas' own Upanishad: "We shall now explain Śikṣā — varṇa (the letter), svara (the accent), mātrā (the quantity), bala (the force), sāma (uniform delivery), santāna (joining) — these are the six themes of the Śikṣā chapter."
 
@@ -11601,6 +11601,8 @@ That is: it is called Śikṣā because it teaches the method of pronouncing let
 
 — with the latter (the effort).
 
+*(The Sanskrit passage at the head of this page, not transcribed here, cites (among other references) Śikṣā 3, 11, 13, 38, 32, 35, 33 and 52, Taittirīya Saṃhitā 2-4-12-1 ("indraśatrur vardhasva") and Pāṇini 6-1-223.)*
+
 **"Sāma" (uniform delivery)** means the even, level tone of the recitation, unmarked by any special rise or fall. This too is described in the same treatise.
 
 **"Santāna" (joining)** means the un-interrupted linking together of accented and unaccented syllables into a single continuous flow, without pause — the euphonic combination (sandhi) that binds the Veda's own words together seamlessly.
@@ -11627,17 +11629,17 @@ Those wishing to know these Vedic matters should study Śikṣā first among the
 Regarding varṇa (letter), svara (accent), mātrā (quantity), bala (force), sāma (uniform delivery), and santāna (joining) — there are, apart from this one, many other Śikṣā-treatises composed by various authors; each belongs to a particular Shakha. Prātishākhya-śikṣā, Nāradīya-śikṣā, Bhāradvāja-śikṣā are among such works. Followers of the Taittiriya Shakha specifically begin their own Upanishad with the following passage—
 
 > शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा बलम् । साम सन्तानः । इत्येषः शीक्षाध्यायः ॥
-> *śīkṣāṃ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ | ity eṣaḥ śīkṣādhyāyaḥ ||* (Taittiriya Upanishad 1.2.1)
+> *śīkṣāṃ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ | ity eṣaḥ śīkṣādhyāyaḥ ||* (Taittiriya Upanishad 1-2)
 
 That is: we shall now expound Śikṣā. Varṇa, svara, mātrā, bala, sāma, santāna — these constitute the six-part subject-matter treated in this Śikṣā-chapter. Varṇa refers to the letters of the alphabet and their explanation.
 
-> त्रिष्ठ्युब्जगत्यौ छन्दांसि वर्णाः संभवतो मताः । स्पर्शे संस्पृशे चापि स्वयं स्वयम्भुवा ॥
-> *triṣṭub-jagatyau chandāṃsi varṇāḥ sambhavato matāḥ | sparśe saṃspṛśe cāpi svayaṃ svayambhuvā ||* (illustrative verse cited within)
+> त्रिषष्टिश्चतुःषष्टिर्वा वर्णाः संभवतो मताः । प्राकृते संस्कृते चापि स्वयं प्रोक्ताः स्वयम्भुवा ॥
+> *triṣaṣṭiś catuḥṣaṣṭir vā varṇāḥ sambhavato matāḥ | prākṛte saṃskṛte cāpi svayaṃ proktāḥ svayambhuvā ||* (Śikṣā 3; re-read from the print in the numeral pass)
 
 Since a matter of established tradition (the alphabet-doctrine, arranged among other topics elsewhere) is known even to those unfamiliar with other treatises, it is discussed by Brahmins under the various sound-groupings, and the details of these letters are set out as follows—
 
 > उदात्तश्चानुदात्तश्च स्वरितश्च स्वरास्त्रयः ।
-> *udāttaś cānudāttaś ca svaritaś ca svarās trayaḥ |* (see page 548 above)
+> *udāttaś cānudāttaś ca svaritaś ca svarās trayaḥ |* (Śikṣā 11)
 
 **"Svara" here means: udātta, anudātta, svarita — three types of accent.** Some works discuss a fourth kind too, called ekashruti; but the wise say the primary threefold distinction stands—
 
@@ -11666,7 +11668,7 @@ Udātta, anudātta, and the pluta (prolated) accent are marked distinctly across
 
 > **अ॒ग्निमी॑ळे पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॑त्विज॑म् ।**
 > **होता॑रं रत्न॒धात॑मम् ॥**
-> *agním īḷe puróhitaṃ yajñasya devám ṛtvíjam | hótāraṃ ratnadhātamam ||* (Rigveda Samhita 1.1.1)
+> *agním īḷe puróhitaṃ yajñasya devám ṛtvíjam | hótāraṃ ratnadhātamam ||* (Rigveda Samhita 1-1-1)
 >
 > "I praise Agni, the household priest, the divine minister of the sacrifice, the invoker, the bestower of treasures most abundant."
 
@@ -11705,7 +11707,7 @@ Udātta, anudātta, and the pluta (prolated) accent are marked distinctly across
 The reference is to the text of Scripture:
 
 > इन्द्रशत्रुर्वर्धस्व ।
-> *indraśatrur vardhasva |* (see Nirukta 2.16; Shatapatha Brahmana account of Tvashtri's error)
+> *indraśatrur vardhasva |* (see Nirukta 2-16; Shatapatha Brahmana account of Tvashtri's error)
 >
 > "May you grow, O slayer of Indra."
 
@@ -11717,14 +11719,21 @@ If "indraśatru" in this text were intended to mean "enemy, destroyer of Indra,"
 
 **"Bala"** refers to the place of articulation. The place refers to the specific effort involved in pronouncing a given letter; the letter pronounced with the appropriate effort at its proper place is called "sthāna" (station). "Kaṇṭha (throat), tālu (palate), danta (teeth), oṣṭha (lips)" and similar — these are the places at which the letters are articulated. According to the Anga tradition, the letter **a** [and similar vowels] are articulated in the throat; the semivowels [ya, ra, la, va] are articulated with slight contact — this is called "īṣat" (slight) contact. Understanding this proper application of contact and place, at each letter, matters for correct articulation.
 
+*(The Kannada text quotes here* तत्राष्टौ स्थानानि वर्णानाम् (शि. १३) — *tatrāṣṭau sthānāni varṇānām (Śikṣā 13).)*
+
 ### On "Sāma" (Uniform Delivery)
 
 **"Sāma"** means: when reciting the words, neither shortening a short-duration letter nor lengthening it beyond its proper measure — this is the true meaning of correct recitation. One must recite with steady attentiveness, without letting the mind wander, taking care not to reverse the order of the letters, nor to omit any, nor mispronounce them. If one recites in a manner that adds extraneous sounds or drops necessary ones — the meaning of the words becomes muddled, and the recitation carries the fault of ill-effect (as the poison-anecdote and similar stories illustrate). Reciting evenly, without irregularity, is the virtue of proper "sāma."
 
+The faults of recitation are given in the passages:
+
+> गीती शीघ्री शिरःकम्पीत्यादिना (शि. ३२) । उपांशु दष्टं त्वरितमित्यादिना (शि. ३५)
+> *gītī śīghrī śiraḥkampīty ādinā (Śikṣā 32) | upāṃśu daṣṭaṃ tvaritam ity ādinā (Śikṣā 35)*
+
 ### On "Santāna" (Madhurya) — Joining
 
-> माधुर्यमक्षरव्यक्तिश्च त्रयीत्यादिना (शि. ३-४)
-> *mādhuryam akṣara-vyaktiś ca trayīty ādinā* (Shiksha 3.4)
+> माधुर्यमक्षरव्यक्तिरित्यादिना (शि. ३-३)
+> *mādhuryam akṣara-vyaktir ity ādinā* (Śikṣā 3-3; line re-read from the print in the numeral pass)
 
 **When reciting the Veda's letters**, one must recite in such a way that letters like hrasva (short), dīrgha (long), saṃyukta-akṣara (conjunct letters), alpaprāṇa (unaspirated), and mahāprāṇa (aspirated) are pronounced clearly and distinctly, sweetly and without confusion, each properly articulated. **This is a virtue of correct recitation.**
 
@@ -11745,6 +11754,11 @@ If "indraśatru" in this text were intended to mean "enemy, destroyer of Indra,"
 
 Failing to properly know the rules laid down in the Śikṣā text — whether errors of accent or errors in letters — leads to serious fault when reciting a mantra. If a mantra is recited with either wrong accent or wrong letters, its very meaning becomes altered from its intended sense. Such a defective mantra becomes fruitless (aphala) — or worse, it directly harms the very person who recites it. There are traditional accounts of this. In particular, a well-known account, still preserved in the Taittiriya Shakha tradition, tells of such a case—
 
+> मन्त्रो हीनः स्वरतो वर्णतो वा मिथ्या प्रयुक्तो न तमर्थमाह । स वाग्वज्रो यजमानं हिनस्ति यथेन्द्रशत्रुः स्वरतोऽपराधात् ॥ इति (शि. ५२)
+> *mantro hīnaḥ svarato varṇato vā mithyā prayukto na tam artham āha | sa vāgvajro yajamānaṃ hinasti yathendraśatruḥ svarato'parādhāt || iti (Śikṣā 52)*
+>
+> "A mantra defective in accent or in letter, wrongly employed, does not convey that meaning; that word-thunderbolt injures the yajamāna, as 'indraśatru' did through the fault of accent." (gloss mine and tentative)
+
 Previously, when Tvashtri was performing Prajapati's yajna, desiring to have a son who would kill Indra, he made a homa-offering into Agni with the mantra—
 
 > स्वाहेन्द्रशत्रुर्वर्धस्व ।
@@ -11752,6 +11766,9 @@ Previously, when Tvashtri was performing Prajapati's yajna, desiring to have a s
 > "Svāhā! May you grow, O slayer of Indra"
 
 Because of an accent-error within it, instead of achieving the intended result, harm befell the very yajamāna who performed the yajna. **This same matter is explained by the mantra given in the Taittiriya Samhita of the Yajurveda** — see the fuller citation and resolution on the following page.
+
+> त्वष्टा हतपुत्रो वीन्द्रꣳ सोममाहरत्तस्मिन्निन्द्र उपहवमैच्छत तं नोपाह्वयत पुत्रं मेऽवधीरिति स यज्ञवेशसं कृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यत तत्त्वष्टाऽऽहवनीयमुपप्रावर्तयत्स्वाहेन्द्रशत्रुर्वर्धस्वेति स यावदूर्ध्वः पराविध्यति तावति स्वयमेव व्यरमत ॥ (तै. सं. २-४-१२-१)
+> *tvaṣṭā hataputro vīndraṃ somam āharat tasminn indra upahavam aicchata taṃ nopāhvayata putraṃ me'vadhīr iti sa yajñaveśasaṃ kṛtvā prāsahā somam apibat tasya yad atyaśiṣyata tat tvaṣṭā''havanīyam upaprāvartayat svāhendraśatrur vardhasveti sa yāvad ūrdhvaḥ parāvidhyati tāvati svayam eva vyaramata || (Taittirīya Saṃhitā 2-4-12-1)* (added from the print in the numeral pass)
 
 ---
 
@@ -11793,12 +11810,12 @@ Because of this single mispronunciation, the very meaning of the mantra reversed
 
 ### Page 554
 
-**"...New and Full Moon sacrifices" (Ashvalayana Shrauta Sutra 1.1).** Now the first hymns of Rig Veda are nowhere used throughout the New and Full Moon sacrifices. Nor the latter either. Because the Brahmana starts from the *dīkṣaṇīyā* sacrifice, saying, "At the dīkṣaṇīyā sacrifice they offer the puroḍāśa cake in eleven platters."
+**"...New and Full Moon sacrifices" (Ashvalayana Shrauta Sutra 1-1-3).** Now the first hymns of Rig Veda are nowhere used throughout the New and Full Moon sacrifices. Nor the latter either. Because the Brahmana starts from the *dīkṣaṇīyā* sacrifice, saying, "At the dīkṣaṇīyā sacrifice they offer the puroḍāśa cake in eleven platters."
 
 **To this we answer:** the mantra portion of Rig Veda follows the order in which the hymns must be recited — for example, in that recitation before the supreme Spirit, which we call the **brahma-yajña** [the "sacrifice of Brahman," i.e., Vedic recitation as a spiritual offering]. It does not follow the order in which the sacrificial rites are performed. This brahma-sacrifice is thus enjoined:
 
-> स्वाध्यायोऽध्येतव्यः ऋचामेकामृचं वा यजुषामेकं यजुर्वा साम्नामेकं साम वा तद्ब्रह्मयज्ञः ॥
-> *svādhyāyo'dhyetavyaḥ ṛcām ekām ṛcaṃ vā yajuṣām ekaṃ yajur vā sāmnām ekaṃ sāma vā tad brahma-yajñaḥ ||* (Ashvalayana Grihya Sutra 3.4.1[?])
+> यत्स्वाध्यायमधीयीतैकामप्यृचं यजुः साम वा तद्ब्रह्मयज्ञः ॥
+> *yat svādhyāyam adhīyītaikām apy ṛcaṃ yajuḥ sāma vā tad brahma-yajñaḥ ||* (Taittirīya Āraṇyaka 2-10-6; Sanskrit re-read from the print in the numeral pass)
 >
 > "Let a man recite his own Veda, or one verse only of his own Veda, be it Rig, Yajur, or Sama; that is the spiritual sacrifice."
 
@@ -11831,13 +11848,13 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 > *darśa-pūrṇamāsau tu pūrvaṃ vyākhyāsyāmaḥ |*
 > "We shall first expound the Darsha and Purnamasa rites"
 
-(Ashvalayana Shrauta Sutra 1.1.2) — this is [merely] because the Darsha-Purnamasa sacrifice comes first in the sequence of sacrificial rites, [not because it follows the Samhita's mantra-order]. The word **"agnihotra"** begins their treatise likewise — the mantra collection for Agnihotra is not found gathered anywhere in the Samhita as a coherent block. Therefore, the Kalpa-treatises follow their *own* sequence, based on the order of ritual performance, not the Samhita's own arrangement. Precisely because these two orderings can differ, one's own Brahmana-portion may not follow the same sequence either. Some might say — but the text opens—
+(Ashvalayana Shrauta Sutra 1-1-3) — this is [merely] because the Darsha-Purnamasa sacrifice comes first in the sequence of sacrificial rites, [not because it follows the Samhita's mantra-order]. The word **"agnihotra"** begins their treatise likewise — the mantra collection for Agnihotra is not found gathered anywhere in the Samhita as a coherent block. Therefore, the Kalpa-treatises follow their *own* sequence, based on the order of ritual performance, not the Samhita's own arrangement. Precisely because these two orderings can differ, one's own Brahmana-portion may not follow the same sequence either. Some might say — but the text opens—
 
 > आत्मानं वेदपुरोडाशं निर्वपति दीक्षणीयेष्ट्यादौ कल्पम् ।
 > *ātmānaṃ veda-puroḍāśaṃ nirvapati dīkṣaṇīyeṣṭy-adau kalpam |*
 > "At the beginning of the dīkṣaṇīyā rite, one offers the Veda-cake for oneself"
 
-(Aitareya Brahmana 1.1) — this passage relates to the dīkṣaṇīyā-related mantra. Therefore, the Brahmana too may not always follow the [Samhita's] sequence.
+(Aitareya Brahmana 1-1) — this passage relates to the dīkṣaṇīyā-related mantra. Therefore, the Brahmana too may not always follow the [Samhita's] sequence.
 
 ---
 
@@ -11857,17 +11874,22 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 
 **Here a special doubt must be resolved.** In the Mantra-kanda (the portion of the Samhita comprising mantras, including the Khilas), determining which mantra decisively belongs to which rite is often difficult — the composer of the Brahmana-portion doesn't reveal this explicitly. The performer of the Brahma-yajna needs no such determination. **The Brahma-yajna's injunction is stated thus:**
 
-> स्वाध्यायोऽध्येतव्यः ऋचामेकामृचं वा यजुषामेकं यजुर्वा साम्नामेकं साम वा तद्ब्रह्मयज्ञः ॥
-> *svādhyāyo'dhyetavyaḥ ṛcām ekām ṛcaṃ vā yajuṣām ekaṃ yajur vā sāmnām ekaṃ sāma vā tad brahma-yajñaḥ ||* (see page 554 above)
+> यत्स्वाध्यायमधीयीतैकामप्यृचं यजुः साम वा तद्ब्रह्मयज्ञः ॥
+> *yat svādhyāyam adhīyītaikām apy ṛcaṃ yajuḥ sāma vā tad brahma-yajñaḥ ||* (Taittirīya Āraṇyaka 2-10-6)
 
 "Let a man recite his own Veda — even a single verse of his own Veda, whether Rig, Yajur, or Sama — that is the spiritual sacrifice." **This is what it means.** One should recite his own Shakha's texts in their proper Samhita-sequence. This much suffices.
 
 **But when actually performing rites**, one must know precisely which mantras from the Samhita apply to which specific rite. Without knowing this precise application, one cannot perform the rites correctly. Therefore, it is entirely proper to first know the sequence of ritual acts and only afterward identify the mantras belonging to each — an entirely different concern from the Samhita's own arrangement. It has also been said elsewhere—
 
-> सूर्यो न दर्शनायोद्दिष्ट सर्वदाशकरान्तोरण भ्रियात् ।
-> *sūryo na darśanāyoddiṣṭa sarva-dāśa-karāntoraṇa-bhriyāt |* *(this line remains genuinely difficult to resolve with full confidence at this resolution; the sense given below follows the surrounding argument rather than a fully certain word-for-word reading)*
+> सूर्यो नोदियादपि सर्वा दाशतयीरनुब्रूयात् ।
+> *sūryo nodiyād api sarvā dāśatayīr anubrūyāt |*
 
-— [this] confirms that even great luminaries like the Sun are described in a similarly indirect fashion throughout the mantras, without this creating any expectation of matching sequence. Given this, one might well ask: for a person desiring rain, or one desiring wealth, or one desiring pragya (wisdom), and so on — three [different desires require] three [different] applications; the Veda's own arrangement leaves it to the application-texts to specify precisely which mantra should be used.
+— that is, before the sun rises one should recite all the mantras of the *dāśatayī* (the ten-maṇḍala Ṛgveda). And again—
+
+> रिच्यत इव वा एष प्रेव रिच्यते यो याजयति प्रति वा गृह्णाति, याजयित्वा प्रतिगृह्य वानश्नन् त्रिः स्वाध्यायं वेदमधीयीत ॥
+> *ricyata iva vā eṣa preva ricyate yo yājayati prati vā gṛhṇāti, yājayitvā pratigṛhya vānaśnan triḥ svādhyāyaṃ vedam adhīyīta ||* (Taittirīya Āraṇyaka 2-16; first word not certain in the print [?])
+
+— that is, one who, out of desire for wealth, officiates at sacrifices for the unqualified or accepts forbidden gifts is as it were emptied: he loses his good name in this world and has no good state hereafter, so he must perform penance, fasting and reciting his own Veda three times. *(Passage and sense re-read from the print in the numeral pass; the earlier rendering here was a misreading.)*
 
 **It is true that the Brahmana of the Rig Veda begins with the dīkṣaṇīya rite.** But that rite is merely a modification of the New and Full Moon sacrifice to which it makes constant reference. So Ashvalayana did well to begin his exposition with his latter rite.
 
@@ -11891,7 +11913,7 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 **verses as, for example,**
 
 > नमः प्रवक्त्रे ।
-> *namaḥ pravaktre |*
+> *namaḥ pravaktre |* (Āśvalāyana Śrauta Sūtra 1-2)
 
 **which are no part of the revealed text of the Rig Veda at all? He is not in fault. He does well, &c.**
 
@@ -11925,7 +11947,7 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 **Vyākaraṇa** is useful in determining the precise form of a word and its meaning, through the instruction it gives regarding roots (prakṛti), suffixes (pratyaya), and similar matters. Likewise, in the **Aindravāyavagraha-brāhmaṇa**, it is recounted—
 
 > वाग्वै पराच्यव्याकृतावदत्तेते देवा इन्द्रमब्रुवन्निमां नो वाचं व्याकुर्विति। सोऽब्रवीद्वैषा मह्यं चैव वायवे च सह गृह्णाथा इति। तस्मादिन्द्रवायू सहैव गृह्णाति। तामिन्द्रो मध्यतोऽवक्रम्य व्याकरोत्। तस्मादियं व्याकृता वागुद्यते ॥
-> *vāg vai parācy avyākṛtāvadat | te devā indram abruvan vi māṃ no vācaṃ vyākuruv iti | so'bravīd vaiṣā mahyaṃ caiva vāyave ca saha gṛhṇāthā iti | tasmād indra-vāyū sahaiva gṛhṇāti | tām indro madhyato'vakramya vyākarot | tasmād iyaṃ vyākṛtā vāg udyate ||* (Taittiriya Samhita 6.4.7.3)
+> *vāg vai parācy avyākṛtāvadat | te devā indram abruvan vi māṃ no vācaṃ vyākuruv iti | so'bravīd vaiṣā mahyaṃ caiva vāyave ca saha gṛhṇāthā iti | tasmād indra-vāyū sahaiva gṛhṇāti | tām indro madhyato'vakramya vyākarot | tasmād iyaṃ vyākṛtā vāg udyate ||* (Taittiriya Samhita 6-4-7-3)
 >
 > "**In old days Speech was indiscreet.** The gods came to Indra, and said, 'Separate Speech for us into its parts.' He said, 'Give me and Vayu a boon, let us take it together.' **Therefore, the Aindravayava [offering] is taken together.** Then Indra took Speech by the middle, and divided it into its parts. **And that is the origin of Speech divided into parts (vyākṛta).**"
 
@@ -12031,6 +12053,8 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 
 "Here no one but a grammarian can say how the compound '**sthūlapṛṣatī**' is to be taken. He decides by the accent. If the acute accent were on the last syllable of the compound, the word would be a **karmadhāraya** (descriptive compound, meaning 'great and spotted'). As it is, the compound has the accent on its first member, and it is therefore a **bahuvrīhi** (possessive compound, meaning 'she who has great spots')."
 
+*(The Sanskrit passage at the head of this page, not transcribed here, quotes Ṛgveda Saṃhitā 4-58-3 ("catvāri śṛṅgā …"), 1-164-45 ("catvāri vāk parimitā padāni …") and 10-71-4 ("uta tvaḥ paśyan …"), with their explanation.)*
+
 ---
 
 **Embedded English translation, as given in the source:**
@@ -12066,6 +12090,8 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 >
 > "**A word with a wrong accent or a wrong letter is used in vain since it does not convey the same meaning: it is a spoken thunderbolt that will destroy the sacrificer, as, for example, the word 'indraśatru' with the accent misplaced.**"
 
+*(The Sanskrit passage at the head of this page, not transcribed here, quotes "… bhadraiṣāṃ lakṣmīr nihitādhi vāci" with the reference (Ṛgveda Saṃhitā 10-70-2, as printed; the verse is 10-71-2) and "sudevo asi varuṇa …" (Ṛgveda Saṃhitā 8-69-12).)*
+
 ---
 
 **Embedded English translation, as given in the source:**
@@ -12089,7 +12115,7 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 Now let us critically examine the grammatical discussion that stands as the principal matter among the Veda's Angas. Grammar accepts and orders the roots (prakṛti), suffixes (pratyaya), word-forms, and their meaning-determinations in the appropriate contexts where they apply. As it was said before, this too has its basis in the **Aindravāyavagraha-brāhmaṇa**—
 
 > वाग्वै पराच्यव्याकृतावदत् एते देवा इन्द्रमब्रुवन् इमां नो वाचं व्याकुर्विति सोऽब्रवीद्वैषा मह्यं चैव वायवे च सह गृह्णाथा इति तस्मादिन्द्रवायू सहैव गृह्णाति तामिन्द्रो मध्यतोऽवक्रम्य व्याकरोत् तस्मादियं व्याकृता वागुद्यते ॥
-> *vāg vai parācy avyākṛtāvadat | ete devā indram abruvan imāṃ no vācaṃ vyākuruv iti | so'bravīd vaiṣā mahyaṃ caiva vāyave ca saha gṛhṇāthā iti | tasmād indra-vāyū sahaiva gṛhṇāti | tām indro madhyato'vakramya vyākarot | tasmād iyaṃ vyākṛtā vāg udyate ||* (Taittiriya Samhita 6.4.7.3; see page 558 above)
+> *vāg vai parācy avyākṛtāvadat | ete devā indram abruvan imāṃ no vācaṃ vyākuruv iti | so'bravīd vaiṣā mahyaṃ caiva vāyave ca saha gṛhṇāthā iti | tasmād indra-vāyū sahaiva gṛhṇāti | tām indro madhyato'vakramya vyākarot | tasmād iyaṃ vyākṛtā vāg udyate ||* (Taittiriya Samhita 6-4-7-3; see page 558 above)
 
 **Meaning:** in the beginning, Speech spoke unclearly (avyākṛta — undivided), rendering it useless [for correctly conveying meaning]. Then the gods approached Indra, asking, "Divide this Speech of ours [into parts] for us." He agreed, saying, "Give this offering jointly to me and to Vayu." Because of this, [the offering] is given jointly to Indra and Vayu even now (this is called "Aindravāyava" — a specific offering-related Dharma tradition). Both deities accepted the offering. Then Indra took hold of Speech at her very middle and divided her methodically. That is why what we now recite is "vyākṛta vāk" — Speech that has been analyzed and divided into her proper constituent parts.
 
@@ -12179,17 +12205,17 @@ The sutras of these [purposes] are as follows: **rakṣā, śabdaḥ, uditvaṃ,
 
 (In place of the letter "l" [in certain dialectal pronunciations, sounds shift]) — using "r" in place of "l" pronounces "layaḥ" as "rayaḥ" ("layaḥ" = destruction; "rayaḥ" = wealth) — and speaking this way, if "layaḥ" (destruction) is [mistakenly] spoken as "layaḥ" (with a corrupted, garbled sound), it becomes offensive to a brahmin's ears. That is why one should avoid speaking corrupted speech (mleccha-speech). And that "corrupted speech" (apaśabda) itself is precisely what must not be uttered — a corrupted word must be studiously avoided; Grammar should therefore be studied specifically to avoid such corrupted speech.
 
-**"Duṣṭaḥ Śabdaḥ"** (The Corrupted Word) — this term has already been discussed above (see page 552 [the indraśatru account]). It occurs in the Nirukta's own Shikshadhyaya as follows:
+**"Duṣṭaḥ Śabdaḥ"** (The Corrupted Word) — this term has already been discussed above (see page 552 [the indraśatru account]). It occurs in the Pāṇinīya Śikṣā as follows:
 
 > दुष्टः शब्दः स्वरतो वर्णतो वा मिथ्याप्रयुक्तो न तमर्थमाह । स वाग्वज्रो यजमानं हिनस्ति यथेन्द्रशत्रुः स्वरतोऽपराधात् ॥
-> *duṣṭaḥ śabdaḥ svarato varṇato vā mithyā-prayukto na tam artham āha | sa vāg-vajro yajamānaṃ hinasti yathendraśatruḥ svarato'parādhāt ||* (Nirukta 1.9)
+> *duṣṭaḥ śabdaḥ svarato varṇato vā mithyā-prayukto na tam artham āha | sa vāg-vajro yajamānaṃ hinasti yathendraśatruḥ svarato'parādhāt ||* (Pāṇinīya Śikṣā 52)
 
 Whether wrong in accent or wrong in letter — a word used incorrectly does not convey its intended meaning at all. Whether the fault lies in accent or arises through incorrect meaning, this indicates a corrupted word. This shows the meaning being conveyed as fault-bearing. Because of this defective usage, [the mantra] harms the sacrificer, just as we've seen, in a similar manner, with the "indraśatru" example — [it] causes the yajamāna to be struck down. From this discussion, we've seen the various flaws that can arise. Therefore, to avoid producing a corrupted word, one must study Grammar.
 
-**"Yad Adhītam"** (What Has Been Studied) — from the Nirukta (1.18), stated thus—
+**"Yad Adhītam"** (What Has Been Studied) — from the Nirukta (1-6-1), stated thus—
 
 > यदधीतमविज्ञातं निगदेनैव शब्द्यते । अनग्नाविव शुष्कैधो न तज्ज्वलति कर्हिचित् ॥
-> *yad adhītam avijñātaṃ nigadenaiva śabdyate | anagnāv iva śuṣkaidho na taj jvalati karhicit ||* (Nirukta 1.18)
+> *yad adhītam avijñātaṃ nigadenaiva śabdyate | anagnāv iva śuṣkaidho na taj jvalati karhicit ||* (Nirukta 1-6-1)
 
 **Meaning:** whatever is studied by rote alone, without understanding, and merely recited mechanically, without genuine comprehension of the Veda's meaning — it will never blaze up, like dry fuel thrown where there is no fire, never bursting into flame. Therefore, one should study Grammar specifically in order to understand the Veda's meaning correctly.
 
@@ -12271,25 +12297,21 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 
 **Here, to illustrate the analysis of words and accented letters, the Nirukta gives the following example**—
 
-> वायुर्वा यज्ञो दर्शतेव सोमा अरंकृताः । तेषां साकं श्रुधीहवम् ॥
-> *vāyur vā yajño darśateva somā araṃkṛtāḥ | teṣāṃ sākaṃ śrudhī havam ||* (Vajasaneyi Samhita 1.2.1)
+> वायवा याहि दर्शतेमे सोमा अरंकृताः । तेषां पाहि श्रुधी हवम् ॥
+> *vāyav ā yāhi darśateme somā araṃkṛtāḥ | teṣāṃ pāhi śrudhī havam ||* (Ṛgveda Saṃhitā 1-2-1)
 
-**This mantra occurs in the Gayatri-chandas** [meter]. Its word-division is: "**vāyur vā yajño darśate | ime somā araṃkṛtāḥ ||**" — meaning [that is how it should be understood].
-
-**Here, "darśakeṣu" [visible things]** — should it be understood as "darśaka" [one who sees] or "ime" [these]? The letter division is: **t + ime**, two separate letters combining. Where sandhi occurs, adjacent letters join together. This slight variation causes doubt within the interpretation. "**Te**" indicates a word, and following "anudātta," its accent varies. This word, distinct from the letter "i," is a separate letter carrying its own accent, differing from "te."
-
-**This way, in this manner, there are many divisions to be made** — for example, "**dīrgha**" [long syllable] versus "**avagraha**" [separated word], and "**vāṃ**" versus "**ahaṃ**" [I], and "**khu**" (namely "**sāṃ ne sūnu**" — see page 549 above) — "**dīrghākṣare pṛṣṭhaṃ vā abhavat, sphā ne sūnu = saḥ | khu | naḥ | sūnuḥ**" — the accent differs by syllable-length in each case. All these matters require careful precision; anyone wishing to fully master this discipline must study Grammar with genuine effort. **This too is a reason why one must study Grammar.**
+**This ṛk is in the Gāyatrī metre.** Dividing its first half into its two pādas gives "vāyav ā yāhi darśata | ime somā araṃkṛtāḥ ||". In the pada-division "darśateme" becomes "darśata, ime": the syllable "te" is ta + i, two letters joined in sandhi, and the accent shifts slightly as well (the anudātta of "te" passes to "i"). So in pada-division one letter of the Saṃhitā may become two; a short letter may become long (indrāvaruṇa vām aham = indrāvaruṇā | vām | aham, Ṛgveda Saṃhitā 1-18-7 [as printed]); a long letter may become short (sa ghā naḥ sūnuḥ = saḥ | gha | naḥ | sūnuḥ, Ṛgveda Saṃhitā 1-27-2); and the accent may change. The ṛtvij must know all this well. **Therefore Grammar must be studied.** *(Paragraph re-read from the print in the numeral pass; the earlier rendering was a misreading.)*
 
 ### "Catvāri" (Four)
 
-**This particular topic is important** — regarding it, our own tradition cites this verse (found on folio 40)—
+**This particular topic is important** — regarding it, the explanation of this ṛk has been given earlier (see page 401)—
 
 > चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्यां आ विवेश ॥
-> *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṃ ā viveśa ||* (Rigveda Samhita 4.58.3)
+> *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṃ ā viveśa ||* (Rigveda Samhita 4-58-3)
 >
 > "**With four horns, three feet, two heads, seven hands in Bull, penned up in three places roars mightily; a great god has entered mortals.**"
 
-Since this mantra's meaning cannot easily be determined through common understanding, it remains obscure to most, given its many possible interpretations. This mantra is described as one belonging to a rishi named "**Vena**" (yathāsvaru; see Nirukta 5.2[?]). It is a "sāmayanā" [collective] mantra — its sense taken together, and its application through Agni, Surya, and Apa (waters), and through the Gopura (metaphorical bull) with its four "kṣapa" (horns), the wise say. Some also expound it grammatically according to the analysis of the "**rukchandas**" [Vedic prosody] tradition.
+Since this mantra holds a hidden meaning, many commentators have construed it in many ways. The poet Rājaśekhara, in the second chapter of his Kāvyamīmāṃsā, says that it describes the form of the Word (śabda) as the Great God; Yāska, the author of the Nirukta, says it sets forth the form of the Yajña-puruṣa (Nirukta 13-7). Sāyaṇācārya, commenting on the sūkta in which the mantra stands, explains it in five ways, because the sūkta's deities are Agni, Sūrya, Āpas (waters), cows and ghṛta (ghee) … *(Paragraph re-read from the print in the numeral pass; it continues on the next page.)*
 
 ---
 
@@ -12307,7 +12329,7 @@ Since this mantra's meaning cannot easily be determined through common understan
 Ancient scholars have explained this mantra's meaning in various ways, according to whichever deity is taken as primary in the intended sense; even in our own tradition, this mantra has been interpreted in several distinct ways. **Grammatically, they explain the meaning as follows** —
 
 > चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्यां आ विवेश ॥
-> *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṃ ā viveśa ||* (Rigveda Samhita 4.58.3; see page 569 above)
+> *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṃ ā viveśa ||* (Rigveda Samhita 4-58-3; see page 569 above)
 
 **From this, the following meanings can be explained:**
 
@@ -12343,7 +12365,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 **Or this verse may be quoted under the heading "Catvāri"** — since it belongs to the sutra as an illustrative example, we may cite here another well-known verse—
 
 > चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः । गुहा त्रीणि निहिता नेंगयन्ति तुरीयं वाचो मनुष्या वदन्ति ॥
-> *catvāri vāk parimitā padāni tāni vidur brāhmaṇā ye manīṣiṇaḥ | guhā trīṇi nihitā neṃgayanti turīyaṃ vāco manuṣyā vadanti ||* (Rigveda Samhita 1.164.45)
+> *catvāri vāk parimitā padāni tāni vidur brāhmaṇā ye manīṣiṇaḥ | guhā trīṇi nihitā neṃgayanti turīyaṃ vāco manuṣyā vadanti ||* (Rigveda Samhita 1-164-45)
 >
 > "**There be four divisions of speech: brahmins who are wise know all four; but three lie hid in their secret place and do not move; the fourth part of speech men speak.**"
 
@@ -12379,7 +12401,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 ### "Uta Tvaḥ" (Moreover, One)
 
 > उत त्वः पश्यन्न ददर्श वाचमुत त्वः शृण्वन्न शृणोत्येनाम् । उतो त्वस्मै तन्वं विससे जायेव पत्य उशती सुवासाः ॥
-> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām | uto tvasmai tanvaṃ visasre jāyeva patya uśatī suvāsāḥ ||* (Rigveda Samhita 10.71.4; see page 527 above)
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām | uto tvasmai tanvaṃ visasre jāyeva patya uśatī suvāsāḥ ||* (Rigveda Samhita 10-71-4; see page 527 above)
 
 "**One seeing does not see Speech: one hearing does not hear her; to one she unfolds her form as a loving wife shows herself to her husband in fair garments.**"
 
@@ -12388,7 +12410,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 ### "Sakhya" (Friendship)
 
 > सख्यम् इव तमुलूना पुरुषेभ्यो रयस्ते धीरा मनसा नाचमक्रत । अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
-> *sakhyam iva tam ulūnā puruṣebhyo rayas te dhīrā manasā nācam akrata | atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ||* (Vajasaneyi Samhita 10.20.3[?])
+> *sakhyam iva tam ulūnā puruṣebhyo rayas te dhīrā manasā nācam akrata | atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ||* (Rigveda Samhita 10-71-2)
 
 **This mantra**, according to the scholarly tradition, is explained differently depending on which of the four categories mentioned in the preceding verse is taken as its subject; and even within our own [Taittiriya-Shakha] tradition, the wise (those who have thoroughly mastered Grammar) understand this mantra by first grasping its true intent through the mind, before articulating it in speech...
 
