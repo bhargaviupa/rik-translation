@@ -13790,8 +13790,8 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 **Both meanings apply.** In connection with Agni, the word "hotāram" has frequently been used alongside "ṛtvijam" in many places across the Rigveda:
 
-> नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् । नि त्वा होतारमृत्विजम् । त्वां यज्ञेष्वृत्विजमग्ने होतारमीळते । मन्द्रं होतारमृत्विजं चिकित्वांसं विभावसुम् ।
-> *ni tvā yajñasya sādhanam agne hotāram ṛtvijam | ni tvā hotāram ṛtvijam | tvāṃ yajñeṣv ṛtvijam agne hotāram īḷate | mandraṃ hotāram ṛtvijaṃ cikitvāṃsaṃ vibhāvasum |* *(this cluster of formulaic parallel citations, and their specific chapter-verse locators, remain a best-effort reading at this resolution)*
+> नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् (ऋ. सं. १-४४-११) । नि त्वा होतारमृत्विजम् (ऋ. सं. १-४५-७) । त्वां यज्ञेष्वृत्विजमग्ने होतारमीळते (ऋ. सं. ३-१०-२) । न्यग्निं जातवेदसं दधाता देवमृत्विजम् (ऋ. सं. ५-२२-२ [?]) । मन्द्रं होतारमृत्विजं चित्रभानुं विभावसुम् (ऋ. सं. ८-४४-६ [?]) । इत्यादि ।
+> *ni tvā yajñasya sādhanam agne hotāram ṛtvijam (Ṛ. Saṃ. 1-44-11) | ni tvā hotāram ṛtvijam (Ṛ. Saṃ. 1-45-7) | tvāṃ yajñeṣv ṛtvijam agne hotāram īḷate (Ṛ. Saṃ. 3-10-2) | ny agniṃ jātavedasaṃ dadhātā devam ṛtvijam (Ṛ. Saṃ. 5-22-2 [?]) | mandraṃ hotāram ṛtvijaṃ citrabhānuṃ vibhāvasum (Ṛ. Saṃ. 8-44-6 [?]) | ity ādi |* (citations re-read from the better scan in the [?] pass; the fourth was missing and the fifth misread in the file)
 
 — and so on. **As shown above, many rishis, in praising Agni, use the two words "hotāram" and "ṛtvijam" together.** Since the Hotṛ's role in a yajna is especially prominent, the custom of calling Agni himself "Hotṛ" may well have arisen from this frequent pairing.
 
@@ -13811,8 +13811,10 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 **॥ Vyākaraṇa-prakriyā (Grammatical Process) ॥**
 
-> हयास्तूपरङ्गेन्द्रा नत्वा तत्वार्थदौ ब्रुवे । ऋतिं देष्या पाणिनीयमाक्ष्णोशो मार्गपोक्तः ॥
-> *(this brief opening verse to the grammar section remains a best-effort reading, its precise sense unclear even after careful re-examination)*
+> हयास्यनूत्नरङ्गेन्द्रौ नत्वा तत्त्वार्थदौ ब्रुवे । ऋचि देश्यं [?] पाणिनीयं लक्ष्मणो माधवोक्तितः ॥
+> *hayāsya-nūtnaraṅgendrau natvā tattvārthadau bruve | ṛci deśyaṃ [?] pāṇinīyaṃ lakṣmaṇo mādhavoktitaḥ ||*
+>
+> "Having bowed to Hayāsya and the new Raṅgendra, the givers of true meaning, I, Lakṣmaṇa, set forth the Pāṇinian [grammar] to be shown on the Ṛk, following Mādhava's words." (gloss mine and tentative; verse re-read from the better scan in the [?] pass, one word [?])
 
 **The word "Agni" arises from the root "ag," meaning "to go"** — per the Unadi rule "**aṅger ṇa-lopaś ca**" (Unadi Sutra, precise number uncertain): before the root "ag," the affix "ni" is added; moreover, [a rule governs] the loss of the nasal "n" [in the root]...
 
@@ -13967,7 +13969,7 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 **Some rishi-names earlier than the present one may be given as follows:**
 
-**In the lineage of the rishi Bhṛgu** — Bṛhaspati, Ayāsya, Ajarvan(?), Dadhyañc, Vyaśva(?), Saṃvarta, Ucithya(?), Ucathya, Bharadvāja, Dīrghatamas, Sudhanvan, Ṛbhu, Vibhvan(?), Vāja, Kavandhya(?), Vicāra, and others.
+**In the lineage of the rishi Bhṛgu** — Bṛhaspati, Ayāsya, Atharvan, Dadhyañc, Vṛṣan, Saṃvarta, Uśija, Ucathya, Bharadvāja, Dīrghatamas, Sudhanvan, Ṛbhu, Vibhvan, Vāja, Kavandha, Vicāra, and others.
 
 **In the lineage of the rishi Aṅgiras** — Vasiṣṭha, Atri, and others, as well as those of the present rishi's own family: Kuśika, Gādhin, Viśvāmitra, and others.
 
@@ -14145,8 +14147,8 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 **In the Taittiriya Samhita of the Yajurveda, an entire anuvāka addresses this very subject** — a long litany of epithets applied to Agni in his various sacrificial stations and roles:
 
-> विभूरसि प्रवाहणो वह्निरसि पव्यः पापनाशः प्रेक्षास्त्वं भोगोऽसि विश्वेदा उद्गिरसि कविन्दः पाथा असि बम्भारि पवस्वरसि दूवस्वा ऽऽघ्न्दारसि मार्जालीयस्थोऽसि कृशानुः परिषड्घोऽसि शवमाने प्रत्यक्षासि नभस्वानसंव्यष्टिर्वसि ...
-> *(this extended litany of Agni's ritual epithets across his multiple sacrificial stations remains a genuinely dense, best-effort reading at this resolution — a proper name-by-name treatment would need a dedicated pass against the Taittiriya Samhita itself)*
+> विभूरसि प्रवाहणो वह्निरसि हव्यवाहनश्श्वात्रोऽसि प्रचेतास्तुथोऽसि विश्ववेदा उशिगसि कविरङ्घारिरसि बम्भारिरवस्युरसि दुवस्वाञ्छुन्ध्यूरसि मार्जालीयस्सम्राडसि कृशानुः परिषद्योऽसि पवमानः प्रतक्वासि नभस्वानसंमृष्टोऽसि हव्यसूद ऋतधामासि सुवर्ज्योतिर्ब्रह्मज्योतिरसि सुवर्धामाजोऽस्येकपादहिरसि बुध्नियो रौद्रेणानीकेन पाहि माग्ने पिपृहि मा मा मा हिंसीः ॥ (तै. सं. १-३-३)
+> *vibhūrasi pravāhaṇo vahnirasi havyavāhanaśśvātro 'si pracetāstutho 'si viśvavedā uśigasi kaviraṅghārirasi bambhāriravasyurasi duvasvāñchundhyūrasi mārjālīyassamrāḍasi kṛśānuḥ pariṣadyo 'si pavamānaḥ pratakvāsi nabhasvānasaṃmṛṣṭo 'si havyasūda ṛtadhāmāsi suvarjyotirbrahmajyotirasi suvardhāmājo 'syekapādahirasi budhniyo raudreṇānīkena pāhi māgne pipṛhi mā mā mā hiṃsīḥ ‖ (tai. saṃ. 1-3-3)* (anuvāka re-read from the better scan in the [?] pass)
 
 ...continuing across the whole anuvāka, naming Agni's distinct forms and functions at each of the several fire-stations described above.
 
@@ -14335,22 +14337,22 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 **Such accounts appear, in various forms, across several Purāṇas. Within the Rigveda Samhita itself, one finds:**
 
-> के अङ्गिरसः सूनवस्ते अग्नेः परिजज्ञिरे ।
-> *ke aṅgirasaḥ sūnavas te agneḥ parijajñire |* (Rigveda Samhita 10-62-5)
-> "Who are the Aṅgirasas, born as your sons, O Agni?"
+> ते अङ्गिरसः सूनवस्ते अग्नेः परिजज्ञिरे ।
+> *te aṅgirasaḥ sūnavas te agneḥ parijajñire |* (Rigveda Samhita 10-62-5)
+> "They, the Aṅgirasas, are the sons; they were born of Agni." (gloss mine and tentative; 'te' re-read from the better scan in the [?] pass, file had 'ke')
 
 **This clearly states that the rishis called Āṅgirasas are Agni's own sons.** It is unclear why the Bhashyakara did not cite this Rik here; perhaps, being primarily a Yajurvedin, this particular Rik simply did not come to his mind.
 
 **That this rishi Aṅgiras belongs to a very ancient period, and that many Rigvedic rishis in various places describe him as the founding ancestor of their own lineages, becomes clear from several further Riks:**
 
-> मनुष्वदग्ने अङ्गिरस्वदङ्गिरो यथा पूर्वेभ्यश्च्रे ।
-> *manuṣvad agne aṅgirasvad aṅgiro yathā pūrvebhyaś cre |* (Rigveda Samhita 1-31-17[?])
+> मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्ववच्छुचे ॥
+> *manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvavac chuce ||* (Rigveda Samhita 1-31-17)
 
-> अङ्गिरस्वद्बृहद्वदा प्रजज्ञ्या श्रुधि पदम् ।
-> *aṅgirasvad bṛhad vadā prajajñyā śrudhi padam |* (Rigveda Samhita 1-48-1[?])
+> अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ॥
+> *aṅgirasvan mahivrata praskaṇvasya śrudhī havam ||* (Rigveda Samhita 1-45-3)
 
-> दध्यङ् ह मे जनुषं पूर्वोऽङ्गिरा प्रियमेधः कण्वो अत्रिर्मनुर्विदुः ।
-> *dadhyaṅ ha me januṣaṃ pūrvo'ṅgirā priyamedhaḥ kaṇvo atrir manur viduḥ |* (Rigveda Samhita 1-139-9[?]) *(this citation cluster remains a best-effort reading given the density at this point)*
+> दध्यङ् ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥
+> *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur viduḥ ||* (Rigveda Samhita 1-139-9) *(the three citations re-read from the better scan in the [?] pass)*
 
 **These Riks show that the rishi Aṅgiras is regarded as an ancestor by many other rishis** — Dadhyañc, Priyamedha, Kaṇva, Atri, and Manu among them, are said to have known his lineage.
 
@@ -14513,11 +14515,11 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 **To take "ṛta" as simply meaning "yajna" misses the mark considerably** — the word's primary sense is "satya, dharma" (Universal Law or Cosmic Order). The Veda uses this very word "ṛta" to denote the order upon which the world's functioning and the laws of nature themselves rest. Examining the following Riks confirms and strengthens this understanding:
 
 > ऋतेनादित्या महि वो महित्वम् ।
-> *ṛtenādityā mahi vo mahitvam |* (Rigveda Samhita 2-27.?)
+> *ṛtenādityā mahi vo mahitvam |* (Rigveda Samhita 2-27-8 [?])
 
-> ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य द्रीळ्हा धिषणा हि सन्ति । ऋतस्य श्लोको बधिरा तरीर्द कर्णा बुधानः शुचिमान आयोः ॥
-> ऋतस्य दृळ्हा धरुणानि सन्ति पुरूणि चन्द्रा वपुषे वपूंषि । ऋतेन दीर्घमिषणन्ते वि पृष्ठ ऋतेन गाव ऋतमा विवेशुः ॥
-> *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dṛḷhā dhiṣaṇā hi santi | ṛtasya śloko badhirā tarīr da karṇā budhānaḥ śucimāna āyoḥ || ṛtasya dṛḷhā dharuṇāni santi purūṇi candrā vapuṣe vapūṃṣi | ṛtena dīrgham iṣaṇante vi pṛṣṭha ṛtena gāva ṛtam ā viviśuḥ ||* *(this extended verse-pair remains a genuinely dense, best-effort reading given the source's compressed presentation at this point)*
+> ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य धीतिर्वृजिनानि हन्ति । ऋतस्य श्लोको बधिरा ततर्द कर्णा बुधानः शुचमान आयोः ॥
+> ऋतस्य दृळ्हा धरुणानि सन्ति पुरूणि चन्द्रा वपुषे वपूंषि । ऋतेन दीर्घमिषणन्त पृक्ष ऋतेन गाव ऋतमा विवेशुः ॥
+> *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjināni hanti | ṛtasya śloko badhirā tatarda karṇā budhānaḥ śucamāna āyoḥ || ṛtasya dṛḷhā dharuṇāni santi purūṇi candrā vapuṣe vapūṃṣi | ṛtena dīrgham iṣaṇanta pṛkṣa ṛtena gāva ṛtam ā viveśuḥ ||* *(verse pair re-read from the better scan in the [?] pass)*
 
 ### Page 648
 
