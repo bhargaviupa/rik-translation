@@ -14822,8 +14822,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 660
 
-> तिस्ऋचे । यदि देवतास्मरणरूपं दृष्टं प्रयोजनं न लभ्येत तर्ह्य्ऋषमस्तु । प्रधानकर्मत्वे हेत्वन्तरमाह ॥
-> *tisṛce | yadi devatā-smaraṇa-rūpaṃ dṛṣṭaṃ prayojanaṃ na labhyeta tarhy ṛṣam astu | pradhāna-karmatve hetv-antaram āha ||*
+> …तिष्ठते । यदि देवतास्मरणरूपं दृष्टं प्रयोजनं न लभ्येत तर्ह्यदृष्टमस्तु । प्रधानकर्मत्वे हेत्वन्तरमाह ॥
+> *…tiṣṭhate | yadi devatāsmaraṇarūpaṃ dṛṣṭaṃ prayojanaṃ na labhyeta tarhyadṛṣṭamastu | pradhānakarmatve hetvantaramāha ‖* (re-read from the better scan in the [?] pass)
 
 **Meaning:** if the visible [worldly] purpose of deity-recollection alone cannot be established, then let there be an unseen purpose instead. [The Siddhāntin] now states a further reason for Stotra-Shastra's status as a primary rite.
 
@@ -14987,8 +14987,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 667
 
-> आप्रे रेवतीक प्रयज्ञा हि वसुक क्रतुं च भद्रं बिभृथामृतं च । रायश्च स्था स्वश्च शंख्रिके सरस्वती कद्वणके वयो धात् ॥ (ऋ. सं. १०-११०-१)
-> *(this opening mnemonic verse remains a genuinely dense best-effort reading given its compressed form)*
+> आपो रेवतीः क्षयथा हि वस्वः क्रतुं च भद्रं बिभृथामृतं च । रायश्च स्थ स्वपत्यस्य पत्नीः सरस्वती तद्गृणते वयो धात् ॥
+> *āpo revatīḥ kṣayathā hi vasvaḥ kratuṃ ca bhadraṃ bibhṛthāmṛtaṃ ca | rāyaśca stha svapatyasya patnīḥ sarasvatī tadgṛṇate vayo dhāt ‖* (Ṛgveda Saṃhitā 10-30-12; verse re-read from the better scan in the [?] pass — it is a Ṛk, not a mnemonic)
 
 **Following this, the Hotṛ addresses Agni, Uṣas, and the Aśvin-deities in turn, reciting the Prātar-anuvāka mantras — in three portions.** Mantras addressing Agni belong to the "**Āgneya-kratu**"; those addressing Uṣas, to the "**Auṣasya-kratu**"; those addressing the Aśvins, to the "**Āśvina-kratu**." **Within each of these kratus, there are seven distinct sections, each in a different meter** — Gāyatrī, Anuṣṭubh, Triṣṭubh, Bṛhatī, Uṣṇik, Jagatī, and Paṅkti. These mantras — not fewer than a hundred in total — must be recited continuously from midnight until dawn. Depending on context, they are recited in one of seven accent-registers, including **upāṃśu-svara** and **mantra-svara**. **Among these Prātar-anuvāka mantras, within the Āgneya-kratu's own portion, the "agnimīḷe" sukta is included** — already expounded above.
 
@@ -15049,8 +15049,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **This application is confirmed in the Aitareya Brahmana, in the section beginning "gṛhe'laṃ" (Aitareya Brahmana 3-1)**, and also by Ashvalayana himself in his own Shrauta-sutra, in the section beginning "stotram agre śakrāt" (Ashvalayana Sutra 5-10). **The Anukramaṇikā states this as follows:**
 
-> वायो वायस्त्वं प्रे वायनस्त्वंत्रावरुणास्त्वाचि अग्निना द्वादशाश्च्वैन्द्रैश्वदेवसारस्वास्त्वैचास्त्वैचा प्रुलगदेवता ।
-> *(this compressed Anukramaṇikā entry remains a genuinely dense best-effort reading; its overall sense, however, is confirmed by the clear surrounding prose)*
+> वायो वायव्यैन्द्रवायवमैत्रावरुणास्तृचाः अश्विना द्वादशाश्विन्यैन्द्र्यैश्वदेवसारस्वतास्तृचाः सप्तैताः प्रउगदेवताः ॥
+> *vāyo vāyavyaindravāyavamaitrāvaruṇāstṛcāḥ aśvinā dvādaśāśvinyaindryaiśvadevasārasvatāstṛcāḥ saptaitāḥ praugadevatāḥ ‖* (Anukramaṇī entry re-read from the better scan in the [?] pass: "vāyo" — three tṛcas to Vāyu, Indra-Vāyu and Mitra-Varuṇa; "aśvinā" — twelve, tṛcas to the Aśvins, Indra, the Viśvedevas and Sarasvatī; these seven are the Praüga deities)
 
 **That is: in the sukta "vāyav ā yāhi," each set of three Riks in turn is assigned one deity — Vāyu, Indra-Vāyu, Mitrā-Varuṇā — and in the sukta "aśvinā yajña-vīriṇaḥ," the following four deities — Aśvinau, Indraḥ, Viśve-devāḥ, Sarasvatī — are similarly praised, three Riks each. All seven of these deities together bear the name "Pralugat-devatāḥ."**
 
@@ -15415,7 +15415,7 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 *(This page continues the list of compounds ending in "-vasu" begun on the previous page, each followed in the source by a string of Rigveda chapter-verse references. Those numeric references are very small and were not read reliably, so only the compound names are given here; they should be checked against the source if the exact locations matter.)*
 
-**Further compounds ending in "vasu" in the Rigveda:** **Viśvāvasuḥ, Manāvasū, Viśvalāvasū, Snāvasuḥ, Tvāvasuḥ, Ṛtāvasū, Jenyāvasū, Divāvasū, Dhiyovasuḥ, Vṛṣaṇvasū, Puruvasū, Prabhūvasuḥ, Vibhūvasuḥ, Mahāvasū, Punarvasū, Aśvajivasū (?), Ābharadvasuḥ, Akṣitāvasuḥ, Kaitevasū (?), Gotrāvasuḥ, Pratevasū (?), Radāvasū, Vidadvasuḥ, Śatadvasuḥ**, and so on.
+**Further compounds ending in "vasu" in the Rigveda:** **Viśvāvasuḥ, Manāvasū, Viśvalāvasū, Snāvasuḥ, Tvāvasuḥ, Ṛtāvasū, Jenyāvasū, Divāvasū, Dhiyovasuḥ, Vṛṣaṇvasū, Puruvasū, Prabhūvasuḥ, Vibhūvasuḥ, Mahāvasū, Punarvasū, Aśvyaṇīvasū [?], Ābharadvasuḥ, Akṣitāvasuḥ, Kaitadvasū, Gotrāvasuḥ, Pratadvasū, Radāvasū, Vidadvasuḥ, Śatadvasuḥ**, and so on.
 
 **In these words, "vasu" generally means "wealth."** In the Shatapatha Brahmana as well, the word occurs in "Amāvasu" and in "Citravasu"...
 
