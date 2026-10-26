@@ -8,9 +8,10 @@ No progress messages to the user. Each run is a fresh session: read this file an
 where `STATE.md` says, update `STATE.md` before stopping.
 
 ## Inputs
-- Better scan parts uploaded by the user to `main` under `kannada/` (names like `02 Rigveda Samhitha Volume 2 N.pdf`;
-  they may be Git LFS — `git lfs pull` if a file is a small pointer). If no Vol 2 parts exist yet, write "waiting for
-  scans" in `STATE.md`, commit, and stop.
+- Better scan parts on `main` under `kannada/` (uploaded Oct 2026, commit `1d1ed76`), in page order:
+  `02 Rigveda Samhitha Volume 02  1.pdf` (note the two spaces before `1`; 150 pp., global PDF 1–150),
+  `02 Rigveda Samhitha Volume 02 2.pdf` (150 pp., 151–300), `… 3.pdf` (150 pp., 301–450), `… 4.pdf` (150 pp., 451–600),
+  `… 5.pdf` (222 pp., 601–822). 822 PDF pages in all. If a file is a small LFS pointer, `git lfs pull`.
 - The Vol 1 tools in `publish/tools/numeral_pass/vol1/` (locate.py, latin_filter.py, build_review.py, pagework.py,
   view.py, crop.py, apply.py, secrep.py, addnote.py, qctx.py, hedge.py, pass_log.py). Copy them to
   `publish/tools/numeral_pass/vol2/` and adapt `cfg.py` (scan parts, file paths, `WORK=/tmp/v2num/`) and `pages.py`
