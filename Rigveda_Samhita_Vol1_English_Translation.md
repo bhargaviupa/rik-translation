@@ -14738,31 +14738,28 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 | Stotra-mantras | Shastra-mantras |
 |---|---|
 | 1. Bahiṣpavamāna-stotra | 1. Ājya-śastra |
-| 2. Ājya-stotragaḷu | 2. Pṛuhugala-śastra |
-| 3. " | *(these two recited by the Hotṛ)* |
-| 4. " | 1. Ājya-śastragaḷu |
-| 5. " | 2. " |
-| *(these five Stotras sung by the Udgātṛ)* | 3. " |
-| | *(these four Shastras recited by the Hotṛ's assistants — Maitrāvaruṇa, Brāhmaṇācchaṃsī, and Acchāvāka)* |
-
-**2. Mādhyandina-savana (Midday Pressing)**
-
+| 2. Ājya-stotragaḷu | 2. Praüga-śastra |
+| | *(these two recited by the Hotṛ)* |
+| 3. " | 3. Ājya-śastragaḷu |
+| 4. " | 4. " |
+| 5. " | 5. " |
+| *(these five Stotras sung by the Udgātṛ)* | *(these three Shastras recited by the Hotṛ's assistants — Maitrāvaruṇa, Brāhmaṇācchaṃsī and Acchāvāka)* |
 | Stotra-mantras | Shastra-mantras |
 |---|---|
-| 6. Mādhyandina-savana-stotra | 6. Marutstrīya-śastra |
+| 6. Mādhyandina-pavamāna-stotra | 6. Marutvatīya-śastra |
 | 7. Pṛṣṭha-stotra | 7. Niṣkevalya-śastra |
-| 8. " | *(these two recited by the Hotṛ)* |
-| 9. " | 8. Niṣkevalya-śastra |
-| 10. " | 9. " |
-| *(these five sung by the Udgātṛ)* | *(these recited by the Hotṛ's three assistants — Maitrāvaruṇa and others)* |
-
-**3. Tṛtīya-savana (Evening/Third Pressing)**
-
+| | *(these two recited by the Hotṛ)* |
+| 8. " | 8. Niṣkevalya-śastra |
+| 9. " | 9. " |
+| 10. " | 10. " |
+| *(these five sung by the Udgātṛ)* | *(these three recited by the Hotṛ's assistants, Maitrāvaruṇa and others)* |
 | Stotra-mantras | Shastra-mantras |
 |---|---|
-| 11. Ārbhava or Tṛtīya-savana-stotra | 11. Vaiśvadeva-śastra |
+| 11. Ārbhava or Tṛtīya-savana-pavamāna | 11. Vaiśvadeva-śastra |
 | 12. Agniṣṭoma-sāma (Yajñāyajñīya) | 12. Agnimāruta-śastra |
 | *(these two sung by the Udgātṛ)* | *(these two recited by the Hotṛ)* |
+
+*(Table re-checked against the print in the numeral pass.)*
 
 **The Bhashyakara [in his earlier discussion above] identifies:** "**ājyaḥ stuvate**" — that the Udgātṛ sings the Stotra using the Ājya-stotra mantras (in the morning pressing); "**pṛṣṭhyaḥ stuvate**" — that the Udgātṛ sings the Pṛṣṭha-stotra...
 
@@ -14841,8 +14838,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **One might object: since Indra slew the demon Vṛtra, shouldn't he be called "Mahendra" specifically to honor that deed?** No — this is not so. It would then have to be said that Indra was merely "Indra" before slaying Vṛtrāsura, and became "Mahendra" only afterward, based on a temporal distinction — but the Veda admits no such usage, where a deity's very name shifts over time according to deeds performed. **Therefore, Indra never "became" Mahendra. From the very beginning, Indra has always been Indra, and Mahendra has always been Mahendra — two genuinely distinct deities.**
 
-> गुणश्चानर्थक इति ॥ ५ ॥ (जै. सू. २-१-८ [?]) यदीन्द्रो देवता स्यात्तदानीमैन्द्रग्रह इत्येतावतैवार्थावगतौ माहेन्द्र इति महत्त्वगुणोऽनर्थकः स्यात् । चकारः पूर्वहेतुना समुच्चयार्थः । हेत्वन्तरमाह ॥
-> *guṇaścānarthaka iti ‖ 5 ‖ (jai. sū. 2-1-8 [?]) yadīndro devatā syāttadānīmaindragraha ityetāvataivārthāvagatau māhendra iti mahattvaguṇo 'narthakaḥ syāt | cakāraḥ pūrvahetunā samuccayārthaḥ | hetvantaramāha ‖* (re-read from the better scan in the [?] pass)
+> गुणश्चानर्थक इति ॥ ५ ॥ (जै. सू. २-१-८, as printed) यदीन्द्रो देवता स्यात्तदानीमैन्द्रग्रह इत्येतावतैवार्थावगतौ माहेन्द्र इति महत्त्वगुणोऽनर्थकः स्यात् । चकारः पूर्वहेतुना समुच्चयार्थः । हेत्वन्तरमाह ॥
+> *guṇaścānarthaka iti ‖ 5 ‖ (jai. sū. 2-1-8, as printed) yadīndro devatā syāttadānīmaindragraha ityetāvataivārthāvagatau māhendra iti mahattvaguṇo 'narthakaḥ syāt | cakāraḥ pūrvahetunā samuccayārthaḥ | hetvantaramāha ‖* (re-read from the better scan in the [?] pass)
 
 **"If Indra alone were the intended deity, then in expressions such as 'dāsīr vaindra-graha' and 'Māhendra-graha,' the qualifying term 'mahat' (great) would become entirely purposeless. The word 'ca' indicates that this reason joins the one already given."**
 
@@ -14855,7 +14852,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 > तथा याज्यापुरोरुचोरिति ॥ ६ ॥ (जै. सू. २-१-१९) इन्द्रमहेन्द्रयोर्देवतयोर्भेदे यथा महत्त्वगुणः सार्थकस्तथा याज्यापुरोनुवाक्ययोर्भेदोऽप्यस्मिन्नेव पक्ष उपपद्यते । ऐन्द्र सानसिम् (ऋ. सं. १-८-१) इत्यादिके इन्द्रस्य याज्यापुरोनुवाक्ये । महाँ इन्द्रो य ओजसा (ऋ. सं. ८-६-१) इत्यादिके महेन्द्रस्य । पूर्वपक्षिणोक्ते वशादृष्टान्ते वैषम्यमाह—
 > *tathā yājyāpurorucoriti ‖ 6 ‖ (jai. sū. 2-1-19) indramahendrayordevatayorbhede yathā mahattvaguṇaḥ sārthakastathā yājyāpuronuvākyayorbhedo 'pyasminneva pakṣa upapadyate | aindra sānasim (ṛ. saṃ. 1-8-1) ityādike indrasya yājyāpuronuvākye | mahā~ indro ya ojasā (ṛ. saṃ. 8-6-1) ityādike mahendrasya | pūrvapakṣiṇokte vaśādṛṣṭānte vaiṣamyamāha—* (re-read from the better scan in the [?] pass)
 >
-> **"For Indra and Mahendra, being distinct deities, the quality-word 'mahat' becomes meaningfully purposeful — just as their Puronuvakya-mantras themselves differ: 'endra sānasiṃ' (Rigveda Samhita 1-4-1) and similar are Indra's own Yajyā-Puronuvākyā; 'mahāṃ indro ya ojasā' (Rigveda Samhita 8-6-1) and similar belong to Mahendra."**
+> **"For Indra and Mahendra, being distinct deities, the quality-word 'mahat' becomes meaningfully purposeful — just as their Puronuvakya-mantras themselves differ: 'endra sānasiṃ' (Rigveda Samhita 1-8-1) and similar are Indra's own Yajyā-Puronuvākyā; 'mahāṃ indro ya ojasā' (Rigveda Samhita 8-6-1) and similar belong to Mahendra."**
 
 **Sutra's meaning:** just as with the Yajyā and Puronuvākyā mantras [already discussed]. We have already explained these two mantra-types earlier: **Puronuvākyā** invokes the primary deity first, at the time of offering the oblation; **Yajyā** is the mantra used to actually make the offering into the fire, addressing the deity already invoked. Both kinds are required to complete an offering dedicated to a given deity, and both — directly or indirectly — express precisely the intended deity. **In the present case, the Yajyā-Puronuvākyā mantras connected with Indra differ entirely from those connected with Mahendra** — that is, Indra has his own set of mantras, and Mahendra has his own, distinct set. For example: "endra sānasiṃ" belongs to Indra; "mahāṃ indro ya ojasā" belongs to Mahendra. **Therefore, Indra and Mahendra are established as genuinely distinct deities.**
 
@@ -14867,6 +14864,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 > *vaśāyāmarthasamavāyāditi ‖ 7 ‖ (jai. sū. 2-1-20) yā vaśā vidhivākye śrutā tasyā eva nigameṣu bhāgaśabdena vyavahāro—* (re-read from the better scan in the [?] pass)
 >
 > "The 'vaśā' heard in the injunction-passage — regarding that very passage's own usage, through the generic term (bhāga-śabda), in the offering-context..."
+
+*(The Kannada on this page also prints the references 1-5, 10 and 5 (as read in the numeral review).)*
 
 ### Page 658
 
@@ -14890,8 +14889,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Now the Siddhānta — the final, established conclusion — is stated:**
 
-> अपि वा श्रुतिसंयोगात्प्रकरणे स्तौतिशंसती क्रियोत्पत्तिं विदध्यातामिति ॥ ९ ॥ (जै. सू. २-१-२४ [?]) अपि वेत्यनेन संस्कारकर्मत्वं व्यावर्त्यते । स्तौतिधातुः शंसतिधातुश्चेत्येतावुभावपि स्वप्रकरण एव कस्याश्चित्प्रधानक्रियाया उत्पत्तिं विदध्याताम् । कुतः । श्रुतिसंयोगात् । तयोर्धात्वोर्वाच्योऽर्थः श्रुतिरित्युच्यते । तत्संयोगः प्रधानकर्मत्वे सिध्यति । तथा हि गुणिनमुपसर्जनीकृत्य तन्निष्ठानां गुणानां प्राधान्येन कथनं स्तुतिः । यो देवदत्तः स चतुर्वेदाभिज्ञ इत्युक्ते सर्वे जनाः स्तुतिमवगच्छन्ति । गुणस्योपसर्जनत्वे तु न स्तुतिः प्रतीयते । यश्चतुर्वेदाभिज्ञस्तमानयेत्युक्ते स्तुतिं न मन्यन्ते किंत्वाह्वानप्राधान्यमेव बुध्यन्ते । एवं मन्त्रेष्वपि या देवता सेयमीदृशैर्गुणैरुपेतेति गुणप्राधान्यविवक्षायां मुख्यः स्तौतिधात्वर्थो विधीयते । त्वत्पक्षे तु येयमीदृग्गुणयुक्ता सेयं देवतेति देवतास्मरणस्य प्राधान्यादियं स्तुतिर्न स्यात् । ततः श्रुतिवशादेते प्रधानकर्मणी । तथा सति देवताप्रकाशने तात्पर्याभावादैन्द्रोऽपि प्रगाथः स्वप्रकरणगते माहेन्द्रकर्मण्येवाव-…
-> *api vā śrutisaṃyogātprakaraṇe stautiśaṃsatī kriyotpattiṃ vidadhyātāmiti ‖ 9 ‖ (jai. sū. 2-1-24 [?]) api vetyanena saṃskārakarmatvaṃ vyāvartyate | stautidhātuḥ śaṃsatidhātuścetyetāvubhāvapi svaprakaraṇa eva kasyāścitpradhānakriyāyā utpattiṃ vidadhyātām | kutaḥ | śrutisaṃyogāt | tayordhātvorvācyo 'rthaḥ śrutirityucyate | tatsaṃyogaḥ pradhānakarmatve sidhyati | tathā hi guṇinamupasarjanīkṛtya tanniṣṭhānāṃ guṇānāṃ prādhānyena kathanaṃ stutiḥ | yo devadattaḥ sa caturvedābhijña ityukte sarve janāḥ stutimavagacchanti | guṇasyopasarjanatve tu na stutiḥ pratīyate | yaścaturvedābhijñastamānayetyukte stutiṃ na manyante kiṃtvāhvānaprādhānyameva budhyante | evaṃ mantreṣvapi yā devatā seyamīdṛśairguṇairupeteti guṇaprādhānyavivakṣāyāṃ mukhyaḥ stautidhātvartho vidhīyate | tvatpakṣe tu yeyamīdṛgguṇayuktā seyaṃ devateti devatāsmaraṇasya prādhānyādiyaṃ stutirna syāt | tataḥ śrutivaśādete pradhānakarmaṇī | tathā sati devatāprakāśane tātparyābhāvādaindro 'pi pragāthaḥ svaprakaraṇagate māhendrakarmaṇyevāva-…* (re-read from the better scan in the [?] pass)
+> अपि वा श्रुतिसंयोगात्प्रकरणे स्तौतिशंसती क्रियोत्पत्तिं विदध्यातामिति ॥ ९ ॥ (जै. सू. २-१-२४) अपि वेत्यनेन संस्कारकर्मत्वं व्यावर्त्यते । स्तौतिधातुः शंसतिधातुश्चेत्येतावुभावपि स्वप्रकरण एव कस्याश्चित्प्रधानक्रियाया उत्पत्तिं विदध्याताम् । कुतः । श्रुतिसंयोगात् । तयोर्धात्वोर्वाच्योऽर्थः श्रुतिरित्युच्यते । तत्संयोगः प्रधानकर्मत्वे सिध्यति । तथा हि गुणिनमुपसर्जनीकृत्य तन्निष्ठानां गुणानां प्राधान्येन कथनं स्तुतिः । यो देवदत्तः स चतुर्वेदाभिज्ञ इत्युक्ते सर्वे जनाः स्तुतिमवगच्छन्ति । गुणस्योपसर्जनत्वे तु न स्तुतिः प्रतीयते । यश्चतुर्वेदाभिज्ञस्तमानयेत्युक्ते स्तुतिं न मन्यन्ते किंत्वाह्वानप्राधान्यमेव बुध्यन्ते । एवं मन्त्रेष्वपि या देवता सेयमीदृशैर्गुणैरुपेतेति गुणप्राधान्यविवक्षायां मुख्यः स्तौतिधात्वर्थो विधीयते । त्वत्पक्षे तु येयमीदृग्गुणयुक्ता सेयं देवतेति देवतास्मरणस्य प्राधान्यादियं स्तुतिर्न स्यात् । ततः श्रुतिवशादेते प्रधानकर्मणी । तथा सति देवताप्रकाशने तात्पर्याभावादैन्द्रोऽपि प्रगाथः स्वप्रकरणगते माहेन्द्रकर्मण्येवाव-…
+> *api vā śrutisaṃyogātprakaraṇe stautiśaṃsatī kriyotpattiṃ vidadhyātāmiti ‖ 9 ‖ (jai. sū. 2-1-24) api vetyanena saṃskārakarmatvaṃ vyāvartyate | stautidhātuḥ śaṃsatidhātuścetyetāvubhāvapi svaprakaraṇa eva kasyāścitpradhānakriyāyā utpattiṃ vidadhyātām | kutaḥ | śrutisaṃyogāt | tayordhātvorvācyo 'rthaḥ śrutirityucyate | tatsaṃyogaḥ pradhānakarmatve sidhyati | tathā hi guṇinamupasarjanīkṛtya tanniṣṭhānāṃ guṇānāṃ prādhānyena kathanaṃ stutiḥ | yo devadattaḥ sa caturvedābhijña ityukte sarve janāḥ stutimavagacchanti | guṇasyopasarjanatve tu na stutiḥ pratīyate | yaścaturvedābhijñastamānayetyukte stutiṃ na manyante kiṃtvāhvānaprādhānyameva budhyante | evaṃ mantreṣvapi yā devatā seyamīdṛśairguṇairupeteti guṇaprādhānyavivakṣāyāṃ mukhyaḥ stautidhātvartho vidhīyate | tvatpakṣe tu yeyamīdṛgguṇayuktā seyaṃ devateti devatāsmaraṇasya prādhānyādiyaṃ stutirna syāt | tataḥ śrutivaśādete pradhānakarmaṇī | tathā sati devatāprakāśane tātparyābhāvādaindro 'pi pragāthaḥ svaprakaraṇagate māhendrakarmaṇyevāva-…* (re-read from the better scan in the [?] pass)
 
 ### Page 660
 
@@ -14923,7 +14922,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **...it must be understood that such a mantra thereby praises the deity so specified.** If it is objected that where a mantra explicitly names a specific deity, there is no visible purpose in the mantra also recalling that deity — though there may be no *visible* purpose, an *unseen* purpose remains. **A further reason for Stotra-Shastra's primary-rite status now follows:**
 
 > शब्दस्पृथक्त्वाच्चेति ॥१०॥ (जै. सू. २-१-२३)
-> *śabda-pṛthaktvāc ceti ||10||* (Jaimini Sutra 2-1-23)
+> *śabda-pṛthaktvāc ceti ||10||* (Jaimini Sutra 2-1-25)
 
 **"The twelve Stotras and twelve Shastras of the Agnishtoma are each stated with the separate word 'twelve,' indicating that the Stotras hold their own independent status. On the rival view [that a mantra merely expresses a deity], since all such mantras together would perform a single act, there would be no reason to specify the number 'twelve' at all. Since these Ājya-stotras and similarly-named Stotras are distinct among the primary rites, their individual connection to deities becomes well-founded — and the same applies equally to the Shastras."**
 
@@ -14934,7 +14933,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **The Pūrva-pakṣin now raises an objection to this reasoning in the next sutra:**
 
 > अनर्थकं च तद्वचनमिति ॥११॥ (जै. सू. २-१-१५)
-> *anarthakaṃ ca tad-vacanam iti ||11||* (Jaimini Sutra 2-1-15)
+> *anarthakaṃ ca tad-vacanam iti ||11||* (Jaimini Sutra 2-1-26)
 > **"A recollection of Agni is heard elsewhere: 'āgneyo grahā bhavanti' [Agni-related Grahas exist]. There again, once more..."**
 
 ### Page 662
@@ -14949,7 +14948,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **In the Veda: "āgneyā grahā bhavanti"** — "Agni-related substances become the Grahas here" — meaning one should praise Agni. **Elsewhere, addressing the same matter: "āgneyāḥ stuvate" and "āgneyāḥ śaṃsanti"** — meaning one should perform Stotra using specifically Agni-related mantras or suktas. If the sole purpose were simply to establish that Agni should be praised, wouldn't the first statement alone have sufficed? What does the second add? **On the Siddhānta's own reading, however, both statements serve genuine, distinct purposes**: the first establishes *that* Agni is the deity here; the second establishes *which specific mantras* should be used to praise him. Both scriptural statements thus receive a coherent, non-redundant reading. **A further reason follows:**
 
 > अन्यश्चार्थः प्रतीयत इति ॥१२॥ (जै. सू. २-१-२१)
-> *anyaś cārthaḥ pratīyata iti ||12||* (Jaimini Sutra 2-1-21)
+> *anyaś cārthaḥ pratīyata iti ||12||* (Jaimini Sutra 2-1-27)
 
 **"It was earlier stated that Stotra and Shastra are mutually connected — and connection holds between two distinct things, not within a single thing alone. Therefore a genuine difference in meaning between Stotra and Shastra is thereby implied — a difference that cannot arise on the mere-preparatory view, since 'illuminating a deity' would be a single, identical function for both. On the primary-rite view, however, the distinction is naturally established: whatever is accomplished through a sung mantra is called Stotra; whatever is accomplished through an unsung, recited mantra is called Shastra."**
 
@@ -14962,7 +14961,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **...it is said.** "Connection" here means holding between *two* distinct things, not existing for one thing alone — and to speak of genuine connection, the two objects must be distinct while sharing some point of commonality. **This shows that the words describing Stotra and Shastra as "preparatory" must carry genuinely different meanings for each** — a single "preparatory" description could not otherwise sustain any real distinction. Because if both merely supported one single deity-illuminating rite, they would in effect be the same rite, with no mutual difference possible. **But when Stotra and Shastra are understood as primary rites, their meanings genuinely diverge.** Though the underlying roots share a common basic sense, "**Stotra**" refers specifically to a mantra capable of being sung/chanted, while "**Shastra**" refers to a mantra recited melodiously but *without* singing. **This is itself stated directly in the Veda, requiring no further proof. A further reason follows:**
 
 > अभिधानं च कर्मण इति ॥१३॥ (जै. सू. २-१-२६)
-> *abhidhānaṃ ca karmaṇa iti ||13||* (Jaimini Sutra 2-1-26)
+> *abhidhānaṃ ca karmaṇa iti ||13||* (Jaimini Sutra 2-1-28)
 
 **"Just as the primary rite is expressed through the accusative case, as in 'agnihotraṃ juhoti' — similarly, 'pṛhugaṃ śaṃsati' likewise carries a distinct meaning through this same construction. Therefore, Stotra-Shastra must be understood as primary rites."**
 
@@ -14971,15 +14970,15 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **Earlier, when explaining the sutra "śaktyanuṣṭhirāiṣām" (see page 501), we established that when the accusative case names an action within a sentence, that action becomes the sentence's primary rite** — just as "agnihotram" bears the accusative and is primary in "agnihotraṃ juhoti." **Correspondingly, in "pṛhugaṃ śaṃsati," the word "pṛhugam" likewise indicates a primary rite. Therefore, Stotra and Shastra are primary rites. A further reason follows:**
 
 > फलनिर्वर्तकत्वादिति ॥१४॥ (जै. सू. २-१-२४)
-> *phala-nirvartakatvād iti ||14||* (Jaimini Sutra 2-1-24)
+> *phala-nirvartakatvād iti ||14||* (Jaimini Sutra 2-1-29)
 
 > स्तुतस्य स्तुतमसि ।
-> *stutasya stutam asi |* (Taittiriya Samhita 1-2-2-1)
+> *stutasya stutam asi |* (Taittiriya Samhita 3-2-7-1)
 
 **"Here, only the fruit of the Stotra itself is directly stated, in the closing portion following the completion of the Stotra-mantra's recitation:"**
 
 > इन्द्रियावन्तं वनामहे घृतेनाक्तिमजिमिषम् ।
-> *indriyāvantaṃ vanāmahe ghṛtenāktim ajim iṣam |* (Taittiriya Samhita 1-2-2-1)
+> *indriyāvantaṃ vanāmahe ghṛtenāktim ajim iṣam |* (Taittiriya Samhita 3-2-7-2)
 
 **"...not..."**
 
@@ -14995,7 +14994,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **Given this, in variant/subordinate rite contexts, the fruit must be inferred accordingly.** On the rival "preparatory" view, one would also have to infer, in such variant contexts, some other deity's name-term even where absent from the mantra — which is untenable. **To avoid this, Stotra-Shastra's status as primary rites has been established.** This same matter is confirmed in the tenth Adhyaya of Jaimini's own Sutras:
 
 > ग्रहाणां देवतास्तुत्ये स्तुतशस्त्रयोः कर्मत्वाद्विकारः स्यात् ।
-> *grahāṇāṃ devatā-stutye stuta-śastrayoḥ karmatvād vikāraḥ syāt |* (Purva-Mimamsa 10-4-46)
+> *grahāṇāṃ devatā-stutye stuta-śastrayoḥ karmatvād vikāraḥ syāt |* (Purva-Mimamsa 10-4-49)
 
 **On this matter, summary verses from the Nyāya-mālā-Vistara commentary are cited:**
 
@@ -15023,9 +15022,9 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **In the Agnishtoma, the Hotṛ, commanded before sunrise, should recite the Prātar-anuvāka.** This is stated in a single chapter of the Aitareya Brahmana:
 
 > देवेभ्यः प्रातर्यावभ्यः प्रेषितोऽनुब्रूयाद्धृतीचारणायृगादि ब्राह्मणम् ।
-> *devebhyaḥ prātar-yāvabhyaḥ preṣito'nubrūyād dhṛtī-cāraṇāya ṛg-ādi brāhmaṇam |* (Aitareya Brahmana 3-14)
+> *devebhyaḥ prātar-yāvabhyaḥ preṣito'nubrūyād dhṛtī-cāraṇāya ṛg-ādi brāhmaṇam |* (Aitareya Brahmana 2-15)
 
-**Within this Prātar-anuvāka, the "agnimīḷe" sukta forms a part** — this has already been explained [in Sukta 1]. **In the morning pressing, following the Vaishvadeva-Grahana, the Hotṛ is to recite the Pralugat-Shastra — which consists of the sukta beginning "vāyunā yāhi" [Sukta 2 itself].** This is confirmed both in the relevant Brahmana section and in Ashvalayana's own Shrauta-sutra (5-10[?]).
+**Within this Prātar-anuvāka, the "agnimīḷe" sukta forms a part** — this has already been explained [in Sukta 1]. **In the morning pressing, following the Vaishvadeva-Grahana, the Hotṛ is to recite the Pralugat-Shastra — which consists of the sukta beginning "vāyunā yāhi" [Sukta 2 itself].** This is confirmed both in the relevant Brahmana section and in Ashvalayana's own Shrauta-sutra (5-10).
 
 **The Anukramaṇikā [index] entry for this sukta reads:**
 
@@ -15042,19 +15041,19 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **The first Rik, addressed to Vāyu, serves as one Puronuvākyā belonging to the Indra-Vāyu-graha offering** — this too is recorded in the Brahmana:
 
 > वायुना पूर्वा पुरोनुवाक्येन्द्रवायव्ऋग्भिरा ।
-> *vāyunā pūrvā puronuvākyendravāyav ṛgbhirā |* (Aitareya Brahmana 3-14)
+> *vāyunā pūrvā puronuvākyendravāyav ṛgbhirā |* (Aitareya Brahmana 2-26)
 
 **and confirmed in the Sutra thus:**
 
 > वायुना याहि दर्शतेन्द्रवायू इमे सुता इत्यनुवाक्ये ।
-> *vāyunā yāhi darśata indravāyū ime sutā ity anuvākye |* (Ashvalayana Sutra 5-10[?])
+> *vāyunā yāhi darśata indravāyū ime sutā ity anuvākye |* (Ashvalayana Sutra 5-5)
 
 ---
 
 **On the day of the Agnishtoma when the Soma juice is crushed and extracted — called "Sutya-dina" or "Stutya-dina"** — on that morning, before sunrise (after the previous midnight has passed, but before dawn), **the Adhvaryu speaks the directive (Praiṣa-mantra) to the Hotṛ: "devebhyaḥ prātar-yāvabhyaḥ hotar anubrūhi,"** and the Hotṛ then immediately recites the Prātar-anuvāka mantras. This is stated in the Aitareya Brahmana itself:
 
 > देवेभ्यः प्रातर्यावभ्यो होतरनुब्रूहीत्यध्वर्युः ।
-> *devebhyaḥ prātar-yāvabhyo hotar anubrūhīty adhvaryuḥ |* (Aitareya Brahmana 3-14)
+> *devebhyaḥ prātar-yāvabhyo hotar anubrūhīty adhvaryuḥ |* (Aitareya Brahmana 2-15)
 
 **These Prātar-anuvāka mantras include the "agnimīḷe" mantras and others** [i.e., all of Sukta 1] — their application has already been explained.
 
@@ -15082,7 +15081,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Progress: Through PDF page 695 (printed page 667) — 3-page batch, but a significant one: the transition from the extended Mimamsa discussion into the practical application context of Sukta 2.**
 
-**This batch established:** Sukta 2's full structure (nine Riks, rishi Madhuchandas continuing from Sukta 1, Gayatri meter, three deities across its three verses — Vayu, Indra-Vayu, Mitra-Varuna — plus its role as one Puronuvakya for the Indra-Vayu-graha offering); the detailed procedural sequence of the Agnishtoma's Pratar-anuvaka (the Adhvaryu's Praisha-command to the Hotr, the Ajya-oblations at the Agnidhra fire, entering the Havirdhana-hall); and a genuinely useful overview of the seven Soma-yaga types (Agnishtoma, Atyagnishtoma, Ukthya, Shodashi, Atiratra, Aptoryama, Vajapeya), with Agnishtoma identified as the foundational form from which the other six derive through modification. The commentary now opens a condensed Sanskrit-verse summary of the Agnishtoma's full ritual structure — explicitly flagged as abbreviated, since the full technical treatment lives in the Taittiriya Samhita's sixth Kanda (Adhyayas 1-8) and would otherwise make the commentary unwieldy.
+**This batch established:** Sukta 2's full structure (nine Riks, rishi Madhuchandas continuing from Sukta 1, Gayatri meter, three deities across its three verses — Vayu, Indra-Vayu, Mitra-Varuna — plus its role as one Puronuvakya for the Indra-Vayu-graha offering); the detailed procedural sequence of the Agnishtoma's Pratar-anuvaka (the Adhvaryu's Praisha-command to the Hotr, the Ajya-oblations at the Agnidhra fire, entering the Havirdhana-hall); and a genuinely useful overview of the seven Soma-yaga types (Agnishtoma, Atyagnishtoma, Ukthya, Shodashi, Atiratra, Aptoryama, Vajapeya), with Agnishtoma identified as the foundational form from which the other six derive through modification. The commentary now opens a condensed Sanskrit-verse summary of the Agnishtoma's full ritual structure — explicitly flagged as abbreviated, since the full technical treatment lives in the Taittiriya Samhita's sixth Kanda (Adhyayas 1-6) and would otherwise make the commentary unwieldy.
 
 **We are now positioned right at the threshold of the actual Samhita-patha for Sukta 2's first verse ("vāyav ā yāhi").**
 
@@ -15134,21 +15133,23 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **Ashvalayana likewise states, in his own Shrauta-sutra:**
 
 > वायुना याहि दर्शते न्द्रवायू इमे सुता इत्यनुवाक्ये ।
-> *vāyunā yāhi darśate indravāyū ime sutā ity anuvākye |* (Ashvalayana Sutra 5-10[?])
+> *vāyunā yāhi darśate indravāyū ime sutā ity anuvākye |* (Ashvalayana Sutra 5-5)
 
 **— that is: "vāyunā yāhi darśata" serves as one Puronuvākyā, and "indravāyū ime sutā" as another — this states the application of these Riks.**
+
+*(A further reference on this page is printed as 2-2? (the reviewer's reading; one digit unclear).)*
 
 ### Page 672 — Sūkta 2, The First Mantra
 
 **॥ Sūkta 2 ॥**
 
 **॥ Maṇḍala — 1 ॥ Anuvāka — 1 ॥ Sūkta — 2 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 3–4 ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 3-4 ॥**
 
 **॥ Rik-numbers contained in this sukta: 1-9 ॥**
 
 **Ṛṣi — Madhucchandā Vaiśvāmitraḥ**
-**Devatā — Riks 1–3: Vāyu; Riks 4–6: Indra-Vāyu; Riks 7–9: Mitrā-Varuṇau**
+**Devatā — Riks 1-3: Vāyu; Riks 4-6: Indra-Vāyu; Riks 7-9: Mitrā-Varuṇau**
 **Chandaḥ — Gāyatrī**
 
 ---
@@ -15178,7 +15179,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **This is confirmed by the Nirukta:**
 
 > वायुनायाहि दर्शनीयेमे सोमा अरंकृता अलंकृतास्तेषां पिब शृणु नो स्तवानम् ।
-> *vāyunāyāhi darśanīyeme somā araṅkṛtā alaṅkṛtās teṣāṃ piba śṛṇu no stavānam |* (Nirukta 10-2[?])
+> *vāyunāyāhi darśanīyeme somā araṅkṛtā alaṅkṛtās teṣāṃ piba śṛṇu no stavānam |* (Nirukta 10-2)
 > "O Vāyu, come, you who are beautiful to behold; these Soma-drops are prepared, adorned; drink of them, hear our praise-call."
 
 *(The grammatical derivation of "darśata" then follows, in the established dense sutra-citation register.)*
@@ -15190,6 +15191,8 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **This closes out what has been, across several sessions, a substantial introductory apparatus for Sukta 2** — considerably longer than Sukta 1's own opening, reflecting the genuine complexity of the Pralugat-Shastra's multi-sukta, multi-deity structure within the Agnishtoma's morning pressing.
 
 **Target for next session:** continue forward from PDF page 701 / printed page 673 — the grammatical derivation, Pratipadartha, Bhavartha, and English translation for this first verse, then Rik 2.
+
+*(A further reference in the bhāṣya on this page is printed as 3-110 (as read in the numeral review).)*
 
 ### Page 673
 
