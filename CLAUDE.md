@@ -1,163 +1,45 @@
-# Rigveda Samhita Translation — Volumes 1–5 complete (Volume 6 in progress)
+# Rigveda Samhita translation (Kannada → English) — working instructions
 
-Translating a 1949 Kannada commentary on the Rigveda (Sayana's Sanskrit bhashya + Kannada
-explanation by H. P. Venkata Rao) into English. Volume 1 (complete — `Rigveda_Samhita_Vol1_English_Translation.md`) covered the
-front-matter plus Suktas 1–2 of Mandala 1; Volume 2 (complete) covered Suktas 3–19; Volume 3 (complete) covered Suktas 20–32;
-Volume 4 (complete — `Rigveda_Samhita_Vol4_English_Translation.md`, `.docx` rebuilt) covered Suktas 33–46 (the Third Adhyaya).
-**Volume 5** covers Mandala 1, **Suktas 47–61** (the Fourth Adhyaya of the First Ashtaka). **Volume 6** (`Rig_Vol6.pdf`, 638 PDF pages; Sūktas 62–80, the Fifth Adhyāya) is set up in `Rigveda_Samhita_Vol6_English_Translation.md` (printed page = PDF − 18); its tail carries the progress note.
+Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhāṣya + H. P. Venkata Rao's Kannada explanation) into English, one volume per source PDF. **Volumes 1–9 are complete (Vol 10 has been set up)** (Vol 8 = Sūktas 95–112, the Seventh Adhyāya). **Volume 9 is translated (complete, Sūktas 113–121):** `Rig_Vol9.pdf` (623 PDF pp., Git LFS — `git lfs pull` if it is a 133-byte pointer), Maṇḍala 1 **Sūktas 113–121, the Eighth Adhyāya**; output `Rigveda_Samhita_Vol9_English_Translation.md` (append-only; header + one trailing progress note, which holds the position). Full per-volume history, sūkta page starts and build statuses: **`docs/HISTORY.md`** (read only when needed). Branch: `claude/modest-ptolemy-9efv8s`; commit and push each batch; no PRs unless asked. Volumes 1–7 files are closed (do not edit). Vol 8 may be edited only for numeral corrections.
 
-**Current source file:** `Rig_Vol5.pdf` (724 pages, scanned; contents table in the header of the output file).
-**Current output file:** `Rigveda_Samhita_Vol5_English_Translation.md` — append-only; never rewrite earlier sections.
-Volumes 1–4 files are closed; do not edit them. (`Rig_Vol1(1).pdf`, `Rig_Vol1(2).pdf` are extra Volume 1 scans added by the user; not in use.)
+**Printed page = PDF page − k:** Vol 2–3: 15; Vol 4: 14; Vol 5: 16; Vol 6: 18; Vol 7: 15; Vol 8: 20; **Vol 9: 20** (title page PDF 21 = printed 1; Sūkta 113 on printed p. 2; Pīṭhike PDF 8–20; contents PDF 14–20). Re-check the offset at the start of every volume. Headers: even pages "Maṃ. 1 A. 15 Sū. N", odd pages "Aṣṭaka 1, Adhyāya 8, Varga N" (small Kannada numerals; closing notes "… vargavu mugidudu" are more reliable for varga numbers).
 
-## Current position
+## Token-saving workflow (decided Oct 2026; OCR was tried — Tesseract and Google Docs — and rejected for words: read page images directly)
+1. **One session per sūkta**; start by reading this file and the last ~40 lines of the output file. Keep replies and progress notes short.
+2. **Crop before viewing:** `python3 publish/tools/pageprep/crop_pages.py Rig_Vol9.pdf FIRST LAST /tmp/out --dpi 150 [--strips N]` trims margins (~⅓ fewer pixels). Zoom only where something is unclear. View each page once, then write immediately; never re-view a page already written.
+3. **Read numerals correctly the first time** (no second pass). Digit key (confirmed by the reader): ೧ looks like "∩", ೦ like "○"; **the flat-footed "2"-like glyph = 7, the curled "2"-like glyph = 2**; ೬ has a hook at top-left; ೮ looks like ಲ/ಅ; ೯ like ಕ; ೪ like ಳ; ೫ like ಣ; ೩ like ಇ. My usual confusions: 3/5, 6/7, 2/9, 8/9 — zoom each doubtful digit. Record what is **printed**; if it differs from the standard number say so ("as printed"). Many sūtra numbers are simply not printed in the grammar notes — then give none (never supply from memory). Details: `publish/tools/numeral_pass/METHOD.md`.
+4. **IAST layer by script:** write Devanagari + English only; run `python3 publish/tools/translit/add_iast.py FILE.md` (adds the italic IAST line after each Devanagari blockquote run; inline `⟦देवा⟧` → `देवा (*devā*)`). `--check` lists lines where an existing IAST layer differs from a mechanical transliteration (not fool-proof: sandhi spacing, `[?]`, accents differ — review its output). The final file must still contain all three layers.
+5. **Printed English** of each Ṛk (clean Latin type): `python3 publish/tools/english_ocr/english_block.py Rig_Vol9.pdf PDFPAGE` gives a Tesseract draft; compare with the page, keep the source's misprints marked [sic].
+6. Grammar pages (Vyākaraṇa-prakriyā): short note only ("grammar page, noted briefly"; 2–4 lines naming words and legible sūtras). Batch writes (a whole Ṛk or a 4–6 page run per call). Test a smaller model for first drafts if the user asks.
 
-**Volume 5 is COMPLETE, including the Pariśiṣṭa:** Sūktas 47–61 (printed pp. 1–529 = PDF 17–545, with the Fourth Adhyāya's closing colophon on p. 529; p. 530 blank) and the Kannada Pariśiṣṭa on the deities and persons of the Ṛgveda (printed pp. 531–708 = PDF 547–724; translated at the user's request, appended to the same file). Output: `Rigveda_Samhita_Vol5_English_Translation.md` (+ `.docx`). Its tail carries a final progress note with the open [?] flags. The file header still says the Pariśiṣṭa is not translated: that is out of date (append-only file). Pariśiṣṭa conventions: plain English rendering page by page (printed page marked), Sanskrit in three layers, the small Kannada reference numerals given as read and unverified ("?" where illegible). Confirmed sūkta starts (printed pp.): 48→30, 49→91, 50→106, 51→147, 52→212, 53→264, 54→303, 55→341, 56→371, 57→392, 58→411, 59→439, 60→461, 61→478.
-**Next job (only when the user asks):** (a) rebuild the Volume 5 .docx after any edit (pandoc command below; check the Devanagari count); (b) **Volume 6** (`Rig_Vol6.pdf`, 638 PDF pages, not yet examined): in one session do the "Starting the next volume" set-up (confirm basics, offset, sūktas covered, new output file `Rigveda_Samhita_Vol6_English_Translation.md`, update this section), then translate one sūkta per session. The scheduled routines are paused. The branch `claude/modest-ptolemy-9efv8s` was merged to `main` once (PR #1, Sūktas 47–61); the Pariśiṣṭa work is on the branch after that merge and is not yet on `main`.
-Lessons from Volume 5: keep Vyākaraṇa notes short and name only legible sūtras; a sūkta may end with only the grammar paragraph; the last sūkta of an adhyāya is followed by a Sanskrit colophon and a Kannada closing line (transcribe in three layers); an appendix of continuous prose can be done 4 pages per batch with a short progress note after each batch.
+## Conventions (carried over from Volumes 1–8, unchanged)
+- **Sanskrit always in three layers** — Devanagari + IAST + English — on every citation, never two layers or IAST alone. Preserve all Sanskrit (complete or incomplete) and all cross-references; never skip or silently omit a citation.
+- **View the actual page image before writing**; never pattern-complete Sanskrit from memory or rhythm, even for familiar verses. The bhāṣya, Saṃhitā and Pada are in Kannada script: convert letter by letter; never complete a garbled word from memory — bracket it `[?]`. A clearer later printing of the same phrase may correct an earlier reading (say so).
+- **Take the Kannada source at face value** (no cross-checking against outside sources) except standard reference material (metre names etc.). **Honesty about uncertainty:** `[?]` for doubtful readings/numerals; formatting confidence never exceeds reading confidence; never fabricate.
+- Glosses I add to Ṛgveda citations the source leaves untranslated are labelled "mine and tentative". Ṛgveda citations in the Special Topics: three layers + short gloss.
+- The source prints its own English translation of each Ṛk (and Western scholars' English): reproduce as printed, misprints marked [sic].
+- **Per Ṛk structure:** Saṃhitā-pāṭha, Pada-pāṭha (printed *after* the Saṃhitā — do not note word-division until the Pada is viewed), Sāyaṇa-bhāṣya (with sense; its grammatical tail characterized, not transcribed), Pratipadārtha, Bhāvārtha, printed English, Special Topics (Viśeṣaviṣayagaḷu), Vyākaraṇa-prakriyā (noted briefly). Accent marks on Saṃhitā/Pada are not reproduced beyond what earlier volumes did.
+- Check the printed page number on each rendered page against what was just written (scans have duplicated/missing pages — Vol 7 p. 413, Vol 8 p. 323: note gaps in the text). When a Special Topics passage runs across a page break, split it where the print splits it. *Dvaipada* sūktas count Ṛks by printed units. The last sūkta of an adhyāya ends with a Sanskrit colophon and a Kannada closing line (three layers).
+- **Progress-note pattern:** one block at the very end of the .md (printed page reached, one-line summary, open flags); each new note replaces the previous. Append helper must strip only the final "**Progress note:**" (assert it lies in the last ~20,000 characters), assert the file did not shrink, and assert exactly one note afterwards. Never `git checkout`/restore the output file mid-session.
+- No `.docx`/PDF generation mid-stream; at the end of a sūkta or on request: `pandoc -f markdown-yaml_metadata_block FILE.md -o FILE.docx --toc --toc-depth=2 -V geometry:margin=1in -V mainfont="Noto Serif Devanagari"`, LibreOffice PDF, and check the Devanagari count matches the .md. Designed print PDF: `python3 publish/build_vol45.py N full` (cleaner `publish/vol67_clean.py`; first-person remarks are rewritten impersonally by `publish/voice.py`: run `voice.residual()` and add new phrases to `voice.EXACT`); review worklist: `python3 publish/review_all.py`.
 
-**PDF-to-printed-page offset (Volume 5): printed page = PDF page − 16.** (Volume 4: − 14; Volumes 2–3: − 15.) Printed p. 1 is PDF 17 (title of the Fourth Adhyāya
-and Sāyaṇa's introduction); the heading of Sūkta 47 is on printed p. 2 (PDF 18). Page headers are as before ("Maṇḍala 1, Aṣṭaka 1, Adhyāya 3, Varga N").
-Re-check the offset at the start of the next volume rather than assuming it.
+## Kannada text deliverable (decided Oct 2026)
+A faithful Kannada transcription of each volume (page-marked with printed page numbers, `[?]` where unsure; not a guarantee of "identical"), to serve later Telugu/Hindi translation.
+- **Vol 9 and Vol 10:** continue the current workflow unchanged; no Kannada file yet.
+- **Vol 11 onwards:** build the Kannada file alongside the English, sūkta by sūkta, from the same single viewing of each page, to avoid re-transcribing. Output `Rigveda_Samhita_VolN_Kannada_Text.md`. Sanskrit layers (Saṃhitā, Pada, bhāṣya) may be script-converted from the Devanagari; Kannada prose (Pratipadārtha, Bhāvārtha, Special Topics, closing notes) is transcribed by hand.
+- **Vols 1–10:** one combined back-fill pass per volume: resolve every `[?]` in the English file and create the Kannada file in the same pass, so each page is re-read once. Needs the user's answers for `[?]` readings; Vols 1–7 files stay closed until that pass is agreed.
 
-**Lessons from Sūkta 33 (add to the working habits):** (a) the Pada-pāṭha is printed *after* the Saṃhitā on the next page: do not write a reading note on
-word-division under the Saṃhitā until the Pada has been viewed; (b) never supply sūtra numbers from memory: give a number only where it was read in the
-print, mark the rest [?]; (c) the bhāṣya's own grammatical tail (after the main sense) and the separate Vyākaraṇa-prakriyā pages are both characterized, not
-transcribed; (d) a small helper that strips the single trailing "Progress note" and appends a section, run with the section and note as files, worked well
-(strip only within the last ~6000 characters; assert exactly one note afterwards); (e) Ṛgveda citations in the Special Topics are left untranslated by
-the source: transcribe in three layers, give a short gloss labelled "mine and tentative", mark every reference numeral [?].
+## Open items (not blockers)
+Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~280 flagged pages remain); 14 first-person phrases for `voice.EXACT`. Vols 1–2: outside Vedic expert review wanted; ~9,000 `[?]` readings overall.
 
-## Starting the next volume (Volume 5 and later)
 
-Volumes 1–3 are closed. When the user supplies the next volume (after Volume 4)'s PDF:
+## Volume 10 (set up Oct 2026; translated Oct 2026; **fully translated**, Sūktas 122–136, printed pp. 2–707; the progress note at the end of the output file lists the open flags)
+`Rig_Vol10.pdf` (728 PDF pp., Git LFS), Maṇḍala 1 **Sūktas 122–136**, from the First Adhyāya of the Second Aṣṭaka (Sūkta 122 on printed p. 2 = PDF 23; **printed page = PDF − 21**, to be re-checked); output `Rigveda_Samhita_Vol10_English_Translation.md`. Header on even pages reads "Maṃ. 1 A. 18 Sū. N" (Anuvāka 18). Numeral aids were dropped (the classifier and OCR reference lines did not help); read numerals from the images with the digit key above, `[?]` where doubtful, and do a separate numeral pass later (`publish/tools/numeral_pass/METHOD.md`).
 
-1. **Confirm the basics first, before translating:** the PDF filename, its page count, the PDF-to-printed-page offset (view the first
-   pages: title page, preface, contents), and which sūktas/maṇḍala it covers (from its own table of contents). Then replace
-   "Source file / Output file" and "Current position" above with the new volume's values, and keep the Volume 2 files untouched.
-2. **New output file per volume**, e.g. `Rigveda_Samhita_Vol3_English_Translation.md`, append-only, with its own single trailing progress note.
-   Open it with a short header stating the volume, the source PDF, the first sūkta, and that conventions are carried over from Volumes 1–2.
-3. **All conventions in this file carry over unchanged** (three-layer Sanskrit, view each page before writing, [?] for doubtful readings and
-   numerals, the source's own English reproduced with [sic], grammar pages noted briefly). Re-check each new volume for changes in
-   print (script of the bhāṣya, accent marks, header layout) and record any change here rather than assuming.
-4. **Append-script safety (learned in Volume 2):** the helper that appends a section must (a) strip *only* the final "Progress note"
-   block (assert it lies within the last few thousand characters), (b) assert the file did not shrink, and (c) be followed by a check that
-   the file ends in exactly one full progress note. Never run `git checkout`/restore on the output file mid-session; work on a copy if a
-   repair is needed.
-5. **One session per sūkta** remains the cost-saving rule; each fresh session starts by reading this file and the last ~40 lines of the
-   current volume's output file.
-6. **Docx:** rebuild with the pandoc command above and check the Devanagari count matches the .md, when the user asks (or at the end of each sūkta, as has been the practice).
-7. **Carried-over unresolved items** (not blockers): old mid-file progress notes and a stray Cyrillic string in the Volume 2 file; varga numerals
-   unreconciled with colophons; a known-limitations appendix and outside expert review still wanted for Volumes 1–2.
-
-## Working pipeline, per page
-
-1. Render the page: `pdftoppm -jpeg -r 150 -f <n> -l <n> Rig_Vol3.pdf /tmp/page` (adjust `<n>`
-   for the PDF-vs-printed offset above).
-2. **View the actual rendered image before writing anything.** Never pattern-complete Sanskrit
-   from memory or rhythm, even for verses that look familiar — this was a caught near-miss
-   during Volume 1 and must not recur.
-3. Transcribe and translate following the conventions below.
-4. Append to the output markdown — never edit or rewrite earlier content.
-5. Replace the trailing progress-note block with a fresh one (see below).
-
-## Core conventions (carried over from Volume 1, unchanged)
-
-1. **Sanskrit — always three layers, no exceptions:** Devanagari + IAST transliteration +
-   English translation, on every citation. Never two layers, never IAST alone. This was the
-   single most costly failure mode in Volume 1 (one wrong sentence in an earlier brief caused
-   ~120 pages with no Devanagari before it was caught) — treat it as non-negotiable.
-2. **Take the Kannada source at face value** — no default cross-verification against outside
-   sources, except standardized reference material (e.g. classical meter names), which is
-   worth a quick check.
-3. **Preserve all Sanskrit, complete or incomplete, and all cross-references.** Never skip,
-   summarize, or silently omit a citation.
-4. **Honesty about uncertainty, calibrated to content type:** full confidence for clear prose;
-   bracketed "[?]" or italicized paraphrase for dense numeric/citation codes or heavily
-   compressed commentary; never fabricate. Formatting confidence (bold, clean citation
-   layout) must never exceed actual reading confidence — if genuinely unsure, hedge visibly
-   rather than presenting a guess as a reading.
-5. **Dense Vyakarana-prakriya (grammar) sections** (see "Cost-saving rules" below for the short-note form) may be characterized/summarized rather than
-   transcribed line-by-line when they are pure technical derivation with no bearing on the
-   established sense already given in the Bhashya/Pratipadartha — say so explicitly when doing
-   this, rather than silently thinning the content.
-6. **No docx generation mid-stream** — only when explicitly asked. When needed:
-   ```
-   pandoc "Rigveda_Samhita_Vol2_English_Translation.md" -o "Rigveda_Samhita_Vol2_English_Translation.docx" \
-     --toc --toc-depth=2 -V geometry:margin=1in -V mainfont="Noto Serif Devanagari"
-   ```
-   Verify with a LibreOffice PDF conversion + Devanagari character count
-   (`grep -c` on Unicode range `\u0900-\u097F`), not just a page count.
-7. **Scanning duplications occurred repeatedly in Volume 1's source** (same printed page
-   number appearing twice due to scan errors). Check the printed page number visible on each
-   newly rendered page against what was just translated; if it repeats, skip and note it.
-8. **Progress-note pattern:** a running block at the very end of the .md file — exact
-   printed page reached, one-line summary of what the batch covered, open flags. Each new
-   note **replaces** the previous one at the tail; it does not accumulate. Anything meant to
-   persist long-term belongs in this CLAUDE.md file instead, not just the progress note.
-9. **Batch size:** work in reasonably large batches (10+ pages) rather than one page at a
-   time, consistent with how Volume 2 has been paced so far — but accuracy always wins over
-   speed; never skim the source image to go faster.
-
-## Cost-saving rules (added after Sūkta 6; they override the slower habits above)
-
-- **One session per sūkta.** Start a fresh session at each sūkta boundary; this file and the tail of the output file carry the position.
-- **View each page once, then write immediately.** Never view a page in one turn and write it in a later one; never re-view a page already written.
-- **Render at 150 dpi and zoom only where needed:** Rik texts (Saṃhitā/Pada), the Sāyaṇa-bhāṣya, and numeral tables/citations. Do **not** zoom grammar pages.
-- **Grammar pages (Vyākaraṇa-prakriyā) get a short note, not an outline:** 2–4 lines naming the words treated and the sūtras cited (sūtras in three layers only where legible at 150 dpi; otherwise leave the number as [?]). Say explicitly "grammar page, noted briefly." Do not chase uncertain numerals on these pages. The Rik text, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics keep full treatment.
-- **Batch writes:** append a whole Rik (or a whole 4–6 page run) in one call, not page by page.
-- **Use a cheaper model for transcription if the user selects one;** any pass needing judgement on a doubtful reading should be flagged [?] rather than resolved by memory.
-
-## Open items carried from Volume 1 (not yet resolved, revisit if relevant)
-
-- Only one source diagram was ever extracted as an actual image (a lineage chart, Vol. 1
-  p.48); other genealogies were rendered as text/bullets instead.
-- Vol. 1 still needs an outside Vedic/Sanskrit expert review before being considered final.
-- A handful of Vol. 1 chapter headings carry unresolved bracketed numbers needing a check
-  against the source's own table of contents.
-- Roughly 59 places in Vol. 1 are self-flagged as best-effort/illegible — worth a compiled
-  "known limitations" appendix eventually.
-
-Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
-this repo — read it if any of these come up.
-
-## Conventions added during Volume 2 (pp. 31–257)
-
-- **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
-  and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
-  word from memory — bracket it with [?]. A clearer later printing of the same phrase may be
-  used to correct an earlier reading (say so in the text).
-- **Kannada-script numerals** (references, counts, sūtra numbers) are the least reliable part
-  of the scan. Zoom (`pdftoppm -r 240+ -x -y -W -H`) before trusting them, and mark any digit
-  not certain with [?]. Sūtra numbers that match a known Pāṇini/Phiṭ/Uṇādi rule are worth a
-  quick standard-reference check; say when you have done so.
-- **Page headers:** even pages carry "Maṇḍala 1, Anuvāka 1, Sūkta N" on the right; odd pages
-  carry "Aṣṭaka 1, Adhyāya 1, Varga N" on the left. (Varga 5 ended at p. 46; Varga 6 began p. 47.)
-- **Accent-marks** on the Saṃhitā/Pada texts are *not* reproduced from Rik 3.5 onward (the
-  Kannada notation could not be converted reliably); Riks 3.1–3.4 do carry them. Keep the
-  inconsistency noted rather than guessing.
-- **The source prints its own English translation of each Rik** (and English quotations of
-  Western scholars). Reproduce it as printed, including misprints, marked [sic].
-- **Grammar pages** (Vyākaraṇa-prakriyā): characterize rather than transcribe line by line, say
-  so explicitly, and keep every cited sūtra in all three layers.
-- Glosses I add to Ṛg-vedic citations that the source leaves untranslated must be labelled as
-  mine and tentative where the text is uncertain.
-- **Large grammar pages** (pp. 98–99, 106–107, 119–120, 133–135 and similar) are scholastic argument over
-  accent and sandhi, not sense: characterize them in outline, keep every named sūtra in three layers,
-  and say plainly which stretches of the print were too crowded to reproduce.
-- **Page headers** keep the pattern above; their small Kannada numerals (varga numbers especially) are
-  unreliable — record what is read with [?] and do not "fix" a mismatch silently.
-- **Numeric tables** (e.g. the viṣṭuti/paryāya tables, pp. 144–148): read from enlarged slices, add up each row against the
-  stated total, record any row that does not add up rather than adjusting it.
-- **Closing notes** at the end of a sūkta ("illige … sūktavu samāptavu … vargavu mugidudu") are printed large and are
-  more reliable than the small-numeral page headers for varga numbering; prefer them.
-- **A helper script** that appends a section and a trailing "progress" stub must remove the previous stub first; check
-  that the file ends in exactly one full progress note before committing.
-
-## Publication build (print PDF) — added after the translation was complete
-
-Goal: publish Volumes 1–5 as print-ready PDFs, **one volume at a time**. The closed translation `.md` files are never edited; `publish/build.py` reads them and writes `publish/out/volN_full.pdf` (+ `.html`).
-- Run: `cd publish && python3 build.py <vol> full` (≈1m45s for Vol 3; `pilot` builds front matter + first Sūkta). Needs `pip install pypandoc_binary weasyprint` and `apt-get install fonts-noto-core` (Noto Serif / Devanagari / Kannada).
-- Design (approved by the author): 6.5×9.5 in page, running heads (book title left / Sūkta right), roman folios for front matter then Arabic from the first Sūkta, each Sūkta opens on a right-hand page, Rik-wise contents with page numbers, translator's remarks as per-Sūkta numbered footnotes plus a "Collected Notes" appendix (numbers match). Remarks longer than 900 characters stay on the page as small-type "Note —" blocks (marked ¶ in the appendix). Inline `[?]` marks stay in the text.
-- Front matter: original cover (assets/cover_volN.jpg), title page (English translation by Bhargavi Upadhya, prepared with the assistance of Claude), copyright page (© 2026 Bhargavi Upadhya for the English), 1949 Maharaja and Guruji portraits (assets/maharaja.jpg, guruji.jpg — low resolution), one page reserved for the present Maharaja and Guruji (photos, names and captions still to be supplied), contents.
-- Lessons: a heading must start its own block (source headings sometimes follow a line with no blank line); never put note text inside pandoc `^[...]` (unbalanced brackets swallow headings) — use placeholder tokens; bold-wrapped `**(…)**` Sanskrit is not a note.
-- Status: Vol 3 built (799 pp.); Vol 1 built (1,249 pp. — now complete: the four portions the draft had skipped, printed pp. 95–167, 191–205, 261–283 and 288–295, are translated in `Rigveda_Samhita_Vol1_Gaps_English_Translation.md` and inserted in place of the former edition notices by `vol1_clean.load_gap`; chapters renumbered to the original contents table (draft "Fourteen" = 16, "Fifteen?" = 17, "Seventeen" = 18, "Eighteen" = 19, "Nineteen" = 20). In the rishi index the Kannada-numeral hymn references are not reproduced (names and bracketed verse-counts only); Jaiminīya and per-prapāṭhaka tables on pp. 117–118, 138–139, 150–151 are likewise not reproduced — all noted in the text) with its own pipeline: `python3 publish/build_vol1.py full` (calls `publish/vol1_clean.py`, which strips the working draft — progress messages, 'to be continued', QA logs, session summaries — logs every change to `publish/work/vol1_audit.md`, and writes `publish/work/vol1_clean.md`; page headings become 'original p. N' markers; skipped portions become boxed 'Editorial notice' blocks; the unfinished mantra index is dropped with a notice). Vol 2 built (1,221 pp.) with `python3 publish/build_vol2.py full` (uses `publish/vol2_clean.py`, audit in `publish/work/vol2_audit.md`; Rik starts are detected from heading text and checked against the expected Rik count of each Sūkta). Vols 4 (872 pp.) and 5 (1,031 pp. incl. Pariśiṣṭa) built with `python3 publish/build_vol45.py 4|5 full` (cleaner `publish/vol45_clean.py`; Rik counts verified per Sūkta — Vol 4 against the author's tallies, Vol 5 against the standard counts, Sūkta 59 has 7 per the source). All five PDFs are in `publish/out/volN_full.pdf`. Still to do: present-day portraits; first-person wording in notes is now rewritten impersonally at build time by `publish/voice.py` (author's choice; sample in `publish/work/voice_sample.md`; for a new volume run the build, then `voice.residual()` on its notes and add any new phrases to `voice.EXACT`); outside expert review of the ~9,000 `[?]` readings.
+## Cost-saving rules for Volume 11 onwards (decided Oct 2026)
+- **Bhāṣya stays in Sanskrit:** transcribe the Sāyaṇa-bhāṣya in Devanagari (IAST by script) and give **no English rendering of it**, only a one-line gist (≤ 25 words) per Ṛk when the sense is not obvious from the Pratipadārtha. The Kannada file converts it by script as before. Its grammatical tail is still transcribed (it is Sanskrit, cheap) but not explained.
+- **Grammar pages:** English note only (2–4 lines naming words); the Kannada file carries the headwords and legible sūtra names, not every numeral. Small-type numerals: `[?]`, no zooming.
+- **Printed English of each Ṛk:** start from `english_block.py` output and compare, not retype.
+- **Images:** view at ~120 dpi; zoom only a crop that cannot be read.
+- **Kannada prose drafts** (Pratipadārtha, Bhāvārtha, Special Topics): may be drafted by a smaller model if the user asks; I review `[?]` lines and the Sanskrit.
+- Put italic notes **before** a Devanagari block or after its IAST line (a note right after the block stops `add_iast.py` adding the IAST).
