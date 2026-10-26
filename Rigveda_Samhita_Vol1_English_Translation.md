@@ -13484,8 +13484,8 @@ Here, since the first padas of the Riks "**sādhyānniścā abhiyujaḥ**" and "
 
 **...and the deity-related names one should know** in order to properly understand a mantra's precise sense — this we shall explain: whether the person addressed is Agni, or another deity, or some inanimate object or human being being invoked, we shall clarify. Moreover, one must know the meter (chandas) governing the mantras of each rishi — understanding this correctly settles the mind. When reciting the Veda, knowing the mantra's own accent-application (svara-viniyoga) is likewise required for correct performance. **Having studied [these matters], we should now clarify their meaning as understood by scholars** — for those undertaking systematic study, one should know: the accent (svara), the letters (varṇa), the syllable-count (akṣara), and other such particulars belonging to the mantra, applying at each step, as befits the Mimamsa-shastra's own established method (which, in due course, we shall likewise examine).
 
-> अग्निमित्यादिसूक्तस्य छन्दोऽनुक्रमणिकायां युधीष्टं नोक्तं तथापि परिभाषायामेवमुक्तम् । "अदौ गायत्रं प्राग्घिरण्यस्तूपाच्छ्रात्" (अनु. १-३-७४) इति । हिरण्यस्तूप-ऋषिकं वज्रकेतो मन्त्रेषु प्रकृतेषु शतकेषु पाशीनेषु मन्त्रेषु सामान्येन गायत्रं भवद इत्यर्थः । पुरुषस्य पापसंबन्धं वारयितुमाश्चादिकत्वाच्छ्रुण्डे इत्यच्छ्रुण्डे भावदयोकते । भावदयन्ति हश वा दिनं भवदाणसि शासा- कर्मण इति ।
-> *agnim ity-ādi sūktasya chando'nukramaṇikāyāṃ yudhīṣṭaṃ noktaṃ tathāpi paribhāṣāyām evam uktam | "ādau gāyatraṃ prāg-hiraṇyastūpāc chrāt" (anu. 1-3-74) iti | hiraṇyastūpa-ṛṣikaṃ vajraketo mantreṣu prakṛteṣu śatakeṣu pāśīneṣu mantreṣu sāmānyena gāyatraṃ bhavaty arthaḥ |* *(this technical passage on meter-default rules and the following material remain a best-effort reading at this resolution, given the source's density here)*
+> अग्निमित्यादिसूक्तस्य छन्दोऽनुक्रमणिकायां यद्यप्यत्र नोक्तं तथापि परिभाषायामेवमुक्तम् । "आदौ गायत्रं प्राग्घिरण्यस्तूपात्" (अनु. १-३-७४) इति । हिरण्यस्तूप ऋषिर्येषां मन्त्राणां वक्ष्यते ततः प्राचीनेषु मन्त्रेषु सामान्येन गायत्रं छन्द इत्यर्थः । पुरुषस्य पापसंबन्धं वारयितुमाच्छादकत्वाच्छन्द इत्युच्यते । तच्चारण्यकाण्डे समाम्नायते । छादयन्ति ह वा एनं छन्दांसि पापात्कर्मण इति । अथवा चीयमानाग्निसंतापस्याच्छादकत्वाच्छन्दः । तच्च तैत्तिरीया आमनन्ति । "प्रजापतिरग्निमचिनुत स क्षुरपविर्भूत्वातिष्ठत्तं देवा बिभ्यतो नोपायन्ते छन्दोभिरात्मानं छादयित्वोपायन्तच्छन्दसां छन्दस्त्वम्" इति । (तै. सं. ५-६-६-१) । यद्वा । अपमृत्युं वारयितुमाच्छादयतीति छन्दः । तदपि छान्दोग्योपनिषद्याम्नातम् । देवा वै मृत्योर्बिभ्यतस्त्रयीं विद्यां प्राविशंस्ते छन्दोभिरात्मानमाच्छादयन् यदेभिरच्छादयंस्तच्छन्दसां छन्दस्त्वम् (छां. उ. १-४-२) इति ।
+> *agnim ity-ādi sūktasya chando'nukramaṇikāyāṃ yadyapy atra noktaṃ tathāpi paribhāṣāyām evam uktam | "ādau gāyatraṃ prāg ghiraṇyastūpāt" (anu. 1-3-74) iti | hiraṇyastūpa ṛṣir yeṣāṃ mantrāṇāṃ vakṣyate tataḥ prācīneṣu mantreṣu sāmānyena gāyatraṃ chanda ity arthaḥ | puruṣasya pāpasaṃbandhaṃ vārayitum ācchādakatvāc chanda ity ucyate | tac cāraṇyakāṇḍe samāmnāyate | chādayanti ha vā enaṃ chandāṃsi pāpāt karmaṇa iti | athavā cīyamānāgni-saṃtāpasyācchādakatvāc chandaḥ | tac ca taittirīyā āmananti | "prajāpatir agnim acinuta sa kṣurapavir bhūtvātiṣṭhat taṃ devā bibhyato nopāyan te chandobhir ātmānaṃ chādayitvopāyan tac chandasāṃ chandastvam" iti | (Tai. Saṃ. 5-6-6-1) | yadvā | apamṛtyuṃ vārayitum ācchādayatīti chandaḥ | tad api chāndogyopaniṣady āmnātam | devā vai mṛtyor bibhyatas trayīṃ vidyāṃ prāviśaṃs te chandobhir ātmānam ācchādayan yad ebhir acchādayaṃs tac chandasāṃ chandastvam (Chā. U. 1-4-2) iti |* (bhāṣya re-read in full from the better scan in the [?] pass)
 
 **Meaning:** although the meter for suktas beginning with "agnim..." is not explicitly stated in the Anukramanika [in every instance], the Paribhasha (general rule) states: from the very beginning up through the Hiranyastupa-rishi's own hymns, Gayatri is to be understood as the default meter, unless otherwise specified — this is the sense.
 
@@ -13505,30 +13505,14 @@ Here, since the first padas of the Riks "**sādhyānniścā abhiyujaḥ**" and "
 
 ### Page 605
 
-...is connected to the [ritual] purpose. Or, in the various rites performed [in yajnas] with fire, the danger arising from an unintentional offense is warded off; this is called "**bhadra**" (auspicious/protective). On this very subject, one sutra states—
+...so that no connection with sin comes to the person — so the *chandas* cover him. Or, since in rites such as the Agnicayana they protect by covering [the performers] against the heat of the fire, they may be called *chandas*. On this the Taittirīya Saṃhitā has a story — "prajāpatir agnim acinuta sa kṣurapavir bhūtvātiṣṭhat taṃ devā bibhyato nopāyan te chandobhir ātmānaṃ chādayitvopāyan tac chandasāṃ chandastvam" (Tai. Saṃ. 5-6-6-1): long ago Prajāpati performed the Agnicayana; Agni then stood holding a weapon sharp as the edge of a blade. Seeing him the gods were afraid and were not able to approach him. Then they thought of a means: covering (hiding) their bodies with mantras bound in metre, they went near him. For this reason the metres came to be called *chandas*. Or, since these metres have the power to ward off untimely death, they may be called *chandas*. On this the Chāndogya Upaniṣad says — "devā vai mṛtyor bibhyatas trayīṃ vidyāṃ prāviśaṃs te chandobhir ātmānam ācchādayan yad ebhir acchādayaṃs tac chandasāṃ chandastvam": the gods were afraid of death; then they covered themselves with the metres of the Ṛk, Yajus and Sāma mantras, called the threefold knowledge, and got rid of the fear of death. That is the reason the metres are named *chandas*.
 
-> प्रजापतिर्हि सुतनुः स क्षुरपविर्भूत्वा शिष्टक्ये देवा बिभ्यकौ नोऽसानौनं श्रीयॆभिरधाभैद्युत्क्रोशायौन दशाम् भगदस्त्यम् ।
-> *(this citation remains a genuinely uncertain, best-effort reading at this resolution)*
+> तथा द्योतनार्थदीव्यतिधातुनिमित्तो देवशब्द इत्येतदाम्नायते । दिवा वै नोऽभूदिति तद्देवानां देवत्वमिति (तै. ब्रा. २-२-९-९ [?]) । अतो दीव्यतीति देवः । मन्त्रेण द्योत्यत इत्यर्थः । अस्मिन्सूक्ते स्तूयमानत्वादग्निर्देवः । तथा चानुक्रमणिकायामुक्तम् । मण्डलादिष्वाग्नेयमैन्द्रात् (अनु. १२-१२ [?]) इति । तस्य सूक्तस्य प्रथमामृचं भगवान्वेदपुरुष आह ॥
+> *tathā dyotanārtha-dīvyati-dhātu-nimitto deva-śabda ity etad āmnāyate | divā vai no'bhūd iti tad devānāṃ devatvam iti (Tai. Brā. 2-2-9-9 [?]) | ato dīvyatīti devaḥ | mantreṇa dyotyata ity arthaḥ | asmin sūkte stūyamānatvād agnir devaḥ | tathā cānukramaṇikāyām uktam | maṇḍalādiṣv āgneyam aindrāt (Anu. 12-12 [?]) iti | tasya sūktasya prathamām ṛcaṃ bhagavān vedapuruṣa āha ||*
 
-— indicating that a person who fears such harm should recite this consecrated mantra to protect his own life (dhāraṇā-vidhi), invoking the deities as appropriate. It is for this reason that these are called "**bhandas**" (protective verses); the elders have accordingly held that "bhandas" and "bhadra" carry the same underlying sense.
+**Having explained the words *ṛṣi* and *chandas*, the meaning of the word *deva* is now explained.** The root *dīvyati* means "to shine". Scripture says that the word *deva* comes from this root: "divā vai no'bhūd iti tad devānāṃ devatvam" — the gods say, "we shine by [our own] light or splendour"; so the word *deva* came about in this way. He who is made to shine by the mantra, that is, praised by the mantra, is called *deva*. In this "agnim īḷe" sūkta Agni is praised, so Agni is the deity of this sūkta. The Anukramaṇī too says "maṇḍalādiṣv āgneyam aindrāt" — the sūktas at the beginning of each maṇḍala have Agni or Indra as their deities. This sūkta is the first sūkta of the first maṇḍala, so Agni is its deity. The Blessed Veda-Puruṣa speaks the first Ṛk of this sūkta as follows—
 
-**Having explained the rishi and meter, we now explain the meaning of the term "deva" (deity):**
-
-> दिवा वै नो भूदिति तद्देवानां देवत्वम् ।
-> *divā vai no bhūd iti tad devānāṃ devatvam |* (Taittiriya Brahmana 3-3-8-8[?])
-> "'We shine by our own light' — thus [say] the deities. That itself is the 'devatva' [deity-nature] of the deities."
-
-**The root "dīvyati" means "to shine, to illuminate."** Scripture states that the very word "deva" arises from this root. "Being illuminated through the mantra" means: since a being is praised (and thereby made resplendent) through a mantra, it is accordingly called a "deva." **In this "agnimīḷe" sukta, since Agni is the one being praised, Agni alone is the deity of this sukta.**
-
-**As the Anukramanika also states:**
-
-> मण्डलादिष्टाग्नेयमृग्दात् ।
-> *maṇḍalādiṣṭāgneyam ṛg-dāt |*
-> "The [opening] Rik at the head of each Mandala pertains to Agni [or, in certain Mandalas, to Indra]."
-
-— that is, for the suktas standing at the very beginning of each Mandala, the presiding deity is either Agni or Indra. **Since this sukta is the very first sukta of the very first Mandala, Agni alone is its deity.**
-
-**The Blessed Veda-Puruṣa himself now speaks this sukta's first Rik, as follows**—
+*(Page re-read from the better scan in the [?] pass; the earlier text here, about "bhadra"/"bhandas" and an uncertain citation, was a misreading. The two reference numerals marked [?] are for the numeral review.)*
 
 ---
 
