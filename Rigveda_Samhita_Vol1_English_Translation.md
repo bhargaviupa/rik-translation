@@ -5821,35 +5821,20 @@ The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something sim
 
 ### Page 353
 
-> न केवलमृचां पाठप्राथम्येनाभ्यर्हितत्वं किंतु यज्ञांगदाढ्ये केत्यादपि । तथा च तैत्तिरीया आमनन्ति । यद्ध यज्ञस्य साम्ना यजुषा क्रियते शिथिलं तदृग्भ्यां तद्दृढं भवति । (तै. सं. ६-५-१०-३)
+> न केवलमृचां पाठप्राथम्येनाभ्यर्हितत्वं किंतु यज्ञाङ्गदार्ढ्यहेतुत्वादपि । तथा च तैत्तिरीया आमनन्ति । यद्वै यज्ञस्य साम्ना यजुषा क्रियते शिथिलं तद्यदृचा तद्दृढमिति । (तै. सं. ६-५-१०-३)
+> *na kevalam ṛcāṃ pāṭha-prāthamyenābhyarhitatvaṃ kiṃtu yajñāṅga-dārḍhya-hetutvād api | tathā ca taittirīyā āmananti | yad vai yajñasya sāmnā yajuṣā kriyate śithilaṃ tad yad ṛcā tad dṛḍham iti | (Taittiriya Samhita 6-5-10-3)*
 >
-> न केवलम् ऋचां पाठ-प्राथम्येनाभ्यर्हितत्वं किंतु यज्ञाङ्ग-दाढ्ये केत्यादपि । तथा च तैत्तिरीया आम्नन्ति । यद् धि यज्ञस्य साम्ना यजुषा क्रियते शिथिलं तद् ऋग्भ्यां तद् दृढं भवति ।
-> *na kevalam ṛcāṃ pāṭha-prāthamyenābhyarhitatvaṃ kiṃtu yajñāṅga-dāḍhye ketyādapi | tathā ca taittirīyā āmnanti | yad dhi yajñasya sāmnā yajuṣā kriyate śithilaṃ tad ṛgbhyāṃ tad dṛḍhaṃ bhavati | (Taittiriya Samhita 6-5-10-3)*
->
-> "The Riks' preeminence rests not merely on being recited first, but also on their role in strengthening the limbs of the yajna. Thus the Taittiriyas recite: 'Whatever in the yajna is done by means of Saman or Yajus remains loose; that same thing, through the Riks, becomes firm.'"
+> "The Riks' preeminence rests not merely on their being recited first, but also on their being the cause of firmness in the limbs of the yajna. Thus the Taittiriyas recite: 'Whatever in the yajna is done by Saman or Yajus is loose; what is done by a Rik, that is firm.'"
 
-> तथा च सर्ववेदगतानि ब्राह्मणानि स्वाभिप्रेतार्थे विश्वासदाढ्याय तदेवं ऋग्वेदे ऋचमिति ऋचंवचोदाहरन्ति ।
+> तथा च सर्ववेदगतानि ब्राह्मणानि स्वाभिहितेऽर्थे विश्वासदार्ढ्याय तदेतदृचाभ्युक्तमिति ऋचमेवोदाहरन्ति ।
+> *tathā ca sarva-veda-gatāni brāhmaṇāni svābhihite'rthe viśvāsa-dārḍhyāya tad etad ṛcābhyuktam iti ṛcam evodāharanti |*
 >
-> तथा च सर्व-वेद-गतानि ब्राह्मणानि स्वाभिप्रेतार्थे विश्वास-दाढ्याय तद् एवं ऋग्वेदे ऋचम् इति ऋचं वचो उदाहरन्ति ।
-> *tathā ca sarva-veda-gatāni brāhmaṇāni svābhipretārthe viśvāsa-dāḍhyāya tad evaṃ ṛgvede ṛcam iti ṛcaṃ vaco udāharanti |*
->
-> "And thus the Brahmanas belonging to every Veda, to strengthen conviction in their own intended meaning, cite in support: 'thus it is said in a verse of the Rigveda' — quoting a Rik as their proof."
+> "And so the Brahmanas of every Veda, to make firm the confidence in what they themselves state, cite a Rik alone, saying 'this is declared by a Rik.'"
 
-> मन्त्रकाण्डेऽपि यजुर्वेदगतेषु तत्र तत्राध्वर्युणा प्रयोज्या ऋचो बहव आम्नाताः ।
+> मन्त्रकाण्डेष्वपि यजुर्वेदगतेषु तत्र तत्राध्वर्युणा प्रयोज्या ऋचो बहव आम्नाताः । साम्नां तु सर्वेषां ऋगाश्रितत्वं प्रसिद्धम् । आथर्वणिकैरपि स्वकीयसंहितायां ऋच एव बाहुल्येनाधीयन्ते । अतोऽन्यैः सर्वैर्वेदैरादृतत्वादभ्यर्हितत्वं प्रसिद्धम् ॥
+> *mantra-kāṇḍeṣv api yajurveda-gateṣu tatra tatrādhvaryuṇā prayojyā ṛco bahava āmnātāḥ | sāmnāṃ tu sarveṣāṃ ṛgāśritatvaṃ prasiddham | ātharvaṇikair api svakīya-saṃhitāyāṃ ṛca eva bāhulyenādhīyante | ato'nyaiḥ sarvair vedair ādṛtatvād abhyarhitatvaṃ prasiddham ||*
 >
-> मन्त्र-काण्डेऽपि यजुर्वेद-गतेषु तत्र तत्राध्वर्युणा प्रयोज्या ऋचो बहव आम्नाताः ।
-> *mantra-kāṇḍe'pi yajurveda-gateṣu tatra tatrādhvaryuṇā prayojyā ṛco bahava āmnātāḥ |*
->
-> "In the mantra-portion of the Yajurveda too, many Riks meant for the Adhvaryu priest's own use are cited here and there."
-
-> सामनां तु सर्वेषां ऋग्वात्मकत्वं प्रसिद्धम् । आथर्वणिक ऋषि संश्रेयसंहितायां ऋच एव बाहुल्येनाभियुक्ता ।
->
-> साम्नां तु सर्वेषां ऋग्वात्मकत्वं प्रसिद्धम् । आथर्वणिक ऋषि संश्रेय-संहितायां ऋच एव बाहुल्येनाभियुक्ता ।
-> *sāmnāṃ tu sarveṣāṃ ṛgvātmakatvaṃ prasiddham | ātharvaṇika ṛṣi saṃśreya-saṃhitāyāṃ ṛca eva bāhulyenābhiyuktā |*
->
-> "It is well known that all Samans are, at their root, composed of Riks. In the Atharvan-rishi's own auspicious Samhita too, Riks are employed abundantly."
-
-*(A further brief passage on the Atharvaveda's own standing among the Vedas follows; the concluding clauses here are difficult to render with full confidence at this resolution, though the overall argument — that Riks underlie and strengthen every other Vedic form — is clear from context and confirmed by the source's own English translation below.)*
+> "In the mantra-portions of the Yajurveda too, many Riks to be used by the Adhvaryu are given here and there. That all Samans rest on Riks is well known. The Atharvanikas too recite mostly Riks in their own Samhita. Hence, because the Rik is honoured by all the other Vedas, its preeminence is well established." *(Bhāṣya on this page re-read from the better scan in the [?] pass; the earlier text was a misreading.)*
 
 ---
 
