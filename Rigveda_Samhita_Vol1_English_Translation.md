@@ -12525,7 +12525,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 ### "Sudevo Asi" (Thou Art a Glorious God) — Found in the Rigveda Samhita
 
 > सुदेवो असि वरुण यस्य ते सप्त सिन्धवः । अनुक्षरन्ति काकुदं स्रुत्यं सुमिवा मव ॥
-> *sudevo asi varuṇa yasya te sapta sindhavaḥ | anukṣaranti kākudaṃ srutyaṃ suṣirāmiva ||* (Rigveda Samhita 8-69[?].12)
+> *sudevo asi varuṇa yasya te sapta sindhavaḥ | anukṣaranti kākudaṃ srutyaṃ suṣirāmiva ||* (Rigveda Samhita 8-69-12)
 
 "**Thou art a glorious god, Varuna, thou along whose throat the seven streams flow as through a hollow pillar.**"
 
@@ -12613,6 +12613,8 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **Therefore, this concludes the summary of the Devata-Anga's Nirukta discussion.**
 
+
+*(The Sanskrit passage on this page, not transcribed here, cites Nirukta 1-4, Aitareya Āraṇyaka 2-4-3, Taittirīya Brāhmaṇa 1-1-3-7 and Nirukta 1-15.)*
 ---
 
 **Embedded English translation, as given in the source:**
@@ -12720,8 +12722,8 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **Nor need it be feared that these etymologies have no foundation in fact. For some of them are given in the brahmanas.**
 
-> इन्द्रं वा एष अहुतीः इति तस्मादिन्द्रो नाम । अप्रथयदिति तस्मात्पृथिवी नाम ॥
-> *indraṃ vā eṣa āhutīr iti tasmād indro nāma | aprathayad iti tasmāt pṛthivī nāma ||*
+> तदाहुतीनामाहुतित्वम् (ऐ. ब्रा. १-१-२) । तमिदन्द्रं सन्तमिन्द्र इत्याचक्षते (ऐ. आ. २-४-३) । यदप्रथयत् तत्पृथिव्यै पृथिवित्वम् (तै. ब्रा. १-१-३-७) ।
+> *tadāhutīnāmāhutitvam (ai. brā. 1-1-2) | tamidandraṃ santamindra ityācakṣate (ai. ā. 2-4-3) | yadaprathayat tatpṛthivyai pṛthivitvam (tai. brā. 1-1-3-7) |* (citations re-read from the better scan in the numeral pass)
 >
 > **"This is that in virtue of which the āhutis are so called." Therefore they call him "Indra." "Because he stretched it out (aprathayat)," that is why the earth (pṛthivī) is so called.**
 
@@ -12755,7 +12757,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 ### Page 581
 
-**"Kāryeṣu sādarasādhakaṃ ca"** (see page 579 above) — for this reason, this shastra (Nirukta) properly determines the meanings of words that are not otherwise settled by any means. **Therefore, Nirukta must be studied specifically for the sake of the Veda's meaning.**
+**"Kārtsnyaṃ svārthasādhakaṃ ca"** (Nirukta 1-15) — for this reason, this shastra (Nirukta) properly determines the meanings of words that are not otherwise settled by any means. **Therefore, Nirukta must be studied specifically for the sake of the Veda's meaning.**
 
 ### The Fifth Anga: Chandas (Metrics)
 
@@ -12789,7 +12791,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **for a Vaishya with Jagatī verses." Now in a matter of this kind, it is not easy without the Chhandas book to apprehend the distinction between the different metres, as that is laid down in the technical rules given there. I can quote a third text**—
 
 > गायत्रीभिर्ब्राह्मणस्याग्निं यजेत् त्रिष्टुभा राजन्यस्य त्रिष्टुभा वैश्यस्य जगत्या । ओतत्तत्त्वं यजेत् ॥
-> *gāyatrībhir brāhmaṇasyāgniṃ yajet triṣṭubhā rājanyasya triṣṭubhā vaiśyasya jagatyā | otat tattvaṃ yajet ||* (Taittiriya Brahmana 1-1-8[?])
+> *gāyatrībhir brāhmaṇasyāgniṃ yajet triṣṭubhā rājanyasya triṣṭubhā vaiśyasya jagatyā | otat tattvaṃ yajet ||* (Taittiriya Brahmana 1-1-9-6)
 >
 > "**With Gāyatrī verses one should sacrifice the fire for a Brahmin, with Triṣṭubh verses for a Kshatriya, with Triṣṭubh verses for a Rajanya, with Jagatī verses for a Vaishya.**"
 
@@ -12810,6 +12812,8 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **Therefore, the Chhandas book on metres is useful for this knowledge.**
 
+
+*(The Kannada on this page also refers to p. 222, cites Taittirīya Brāhmaṇa 1-2-1 for the kindling verses of the Ādhāna, and quotes Kātyāyana's Sūtra 1-1 ("yo ha vā aviditārṣeyacchandodaivatabrāhmaṇena mantreṇa yājayati vādhyāpayati vā …").)*
 ---
 
 **Embedded English translation, as given in the source:**
@@ -12829,13 +12833,8 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **The use of the Jyotiṣa is thus given in that book itself: "To establish the times and reasons for sacrifices."** There are texts prescribing all manner of times. The text "**saṃvatsaraṃ**" and similar refers to periods of years. The text "**vasante**" and similar refers to months. The text "**māsi māsi**" and similar refers to months. The text "**yaṃ kāmayeta**" refers to half-months. The text "**ekāṣṭakāyāṃ**" and similar refers to days. The text "**kṛttikāsu**" and similar refers to the nakṣatras (lunar mansions).
 
-> संवत्सरं वा ऋतवो मासाश्च ॐ ब्राह्मणेनाग्निर्माधीयीत । गृह्णे राजन्य आधीयेत । शरदि वैश्य आधीयेत ॥
-> *saṃvatsaraṃ vā ṛtavo māsāś ca oṃ brāhmaṇenāgnir ādhīyeta | gṛhṇe rājanya ādhīyeta | śaradi vaiśya ādhīyeta ||* (Taittiriya Samhita 5-2-7[?])
-
-**"A Brahmin should establish the fire in spring; a Kshatriya should establish it in summer; a Vaishya should establish it in autumn."**
-
-> मासि मासि पुष्ट्यार्थं गृह्णे च गृह्ण्य आधीयते इति मासविधयः । यं कामयेत वशीयासमिति पक्षविधिः ।
-> *māsi māsi puṣṭy-arthaṃ gṛhṇe ca gṛhya ādhīyate iti māsa-vidhayaḥ | yaṃ kāmayeta vaśīyāsam iti pakṣa-vidhiḥ |*
+> ज्योतिषस्य प्रयोजनं तस्मिन्नेव ग्रन्थेऽभिहितम् । यज्ञकालार्थसिद्धय इति । कालविशेषविधयश्च श्रूयन्ते । संवत्सरमेतद्व्रतं चरेत्संवत्सरमुख्यं भृत्वेत्येवमादयः संवत्सरविधयः । वसन्ते ब्राह्मणोऽग्निमादधीत । ग्रीष्मे राजन्य आदधीत । शरदि वैश्य आदधीतेत्याद्या ऋतुविधयः । मासि मासि पृष्ठान्युपयन्ति । मासि मास्यतिग्राह्या गृह्यन्त इत्याद्या मासविधयः । यं कामयेत वसीयान्स्यादिति तं पूर्वपक्षे याजयेदित्याद्याः पक्षविधयः । एकाष्टकायां दीक्षेरन् फल्गुनीपूर्णमासे दीक्षेरन् (तै. सं. ७-४-८-१) इत्याद्यास्तिथिविधयः । प्रातर्जुहोति सायं जुहोतीत्याद्याः प्रातःकालादिविधयः । कृत्तिकास्वग्निमादधीत । (तै. ब्रा. १-१-२-१) इत्याद्या नक्षत्रविधयः । अतः कालविशेषानवगमयितुं ज्योतिषमुपयुज्यते ॥
+> *jyotiṣasya prayojanaṃ tasminneva granthe 'bhihitam | yajñakālārthasiddhaya iti | kālaviśeṣavidhayaśca śrūyante | saṃvatsarametadvrataṃ caretsaṃvatsaramukhyaṃ bhṛtvetyevamādayaḥ saṃvatsaravidhayaḥ | vasante brāhmaṇo 'gnimādadhīta | grīṣme rājanya ādadhīta | śaradi vaiśya ādadhītetyādyā ṛtuvidhayaḥ | māsi māsi pṛṣṭhānyupayanti | māsi māsyatigrāhyā gṛhyanta ityādyā māsavidhayaḥ | yaṃ kāmayeta vasīyānsyāditi taṃ pūrvapakṣe yājayedityādyāḥ pakṣavidhayaḥ | ekāṣṭakāyāṃ dīkṣeran phalgunīpūrṇamāse dīkṣeran (tai. saṃ. 7-4-8-1) ityādyāstithividhayaḥ | prātarjuhoti sāyaṃ juhotītyādyāḥ prātaḥkālādividhayaḥ | kṛttikāsvagnimādadhīta | (tai. brā. 1-1-2-1) ityādyā nakṣatravidhayaḥ | ataḥ kālaviśeṣānavagamayituṃ jyotiṣamupayujyate ‖* (bhāṣya re-read from the better scan in the numeral pass; the Kannada below also cites Taittirīya Āraṇyaka 1-32-1 for "saṃvatsaram etad vrataṃ caret")
 
 **"Month by month" and similar** [texts refer to] monthly regulations for the sake of prosperity. **"Yaṃ kāmayeta**" [expressing whatever a person] desires — this is the fortnight-regulation. "**Ekāṣṭakāyāṃ**" is the day-regulation. "**Kṛttikāsu**" is the nakṣatra-regulation.
 
@@ -12854,7 +12853,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 ### Page 584
 
-**"Saṃvatsaram-mukhyaṃ bṛhatyā"** (see page 583 above) — this too establishes the correct measure of the year's timing.
+**"Saṃvatsaram ukhyaṃ bhṛtvā"** (Taittiriya Brahmana 1-5-3-4) — this too establishes the correct measure of the year's timing.
 
 > वसन्ता ब्राह्मणस्याग्निमाधीयेत । ग्रीष्मे राजन्यस्य भवति । मुखं वा एतद्संवत्सरस्य यद्वसन्तः । यो वसन्ते ब्राह्मणमाधत्ते मुखत एव भवति । अथो योऽभिजितं वसन्तमेव प्रजापतिमाधत्ते । ग्रीष्मे राजन्यस्यादधीत ग्रीष्मो वै राजन्यस्य ऋतुः । शरदि वैश्यस्यादधीत शरत् वै वैश्यस्य ऋतुः ॥
 > *vasantā brāhmaṇasyāgnim ādhīyeta | grīṣme rājanyasya bhavati | mukhaṃ vā etad-saṃvatsarasya yad vasantaḥ | yo vasante brāhmaṇam ādhatte mukhata eva bhavati | atho yo'bhijitaṃ vasantam eva prajāpatim ādhatte | grīṣme rājanyasyādadhīta grīṣmo vai rājanyasya ṛtuḥ | śaradi vaiśyasyādadhīta śarad vai vaiśyasya ṛtuḥ ||* (Taittiriya Brahmana 1-1-2)
@@ -12863,15 +12862,15 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **In this way**, the science of Jyotiṣa determines the appropriate season for the Agnyadhana rite. Similarly, for the shraddha (memorial) rites, the specific month must be known; the science of Jyotiṣa serves this purpose too—
 
-**"Māsi māsi puṣṭyārthaṃ śrāddhaṃ gṛhya**" (see page 583 above) — this and similar [texts] refer to the monthly regulations for shraddha-performance.
+**"Māsi māsi pṛṣṭhāny upayanti māsi māsy atigrāhyā gṛhyante**" (Taittiriya Samhita 7-5-1) — this and similar [texts] refer to the monthly regulations for shraddha-performance.
 
-**"Yaṃ kāmayeta vaśīyāsam iti kaṃ pūrva-pakṣe yojanīyaṃ**" (see page 583 above) — this and similar [texts] refer to the fortnight-measure regulations.
+**"Yaṃ kāmayeta vasīyān syād iti taṃ pūrvapakṣe yājayet**" (Taittiriya Samhita 2-23-1) — this and similar [texts] refer to the fortnight-measure regulations.
 
-**"Ekāṣṭakāyāṃ dīkṣerann......phalāgnīṃ pūrṇamāsi dīkṣerann**" (see page 583 above) — this and similar [texts] refer to the day-timing regulations.
+**"Ekāṣṭakāyāṃ dīkṣeran …… phalgunīpūrṇamāse dīkṣeran**" (Taittiriya Samhita 7-4-8-1) — this and similar [texts] refer to the day-timing regulations.
 
-**"Prātar-ūrjo hoti, sāyaṃ jñu hoti**" (Taittiriya Brahmana 3-7-11-1[?]) and similar [texts] give the daily timing regulations.
+**"Prātar juhoti, sāyaṃ juhoti**" (Taittiriya Brahmana 2-1-2-7) and similar [texts] give the daily timing regulations.
 
-**"Kṛttikāsu agnim ādadhīta**" (Taittiriya Brahmana 1-1-2) and similar [texts] give the nakṣatra-timing regulations.
+**"Kṛttikāsv agnim ādadhīta**" (Taittiriya Brahmana 1-1-2-1) and similar [texts] give the nakṣatra-timing regulations.
 
 **Since it is by knowing the times determined through this science that all the required texts and other treatises are correctly employed, the Jyotiṣa and its own useful application should be understood here.**
 
@@ -12945,7 +12944,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **Meaning:** Puranas, Nyaya-shastra, Mimamsa, Dharma-shastra, and the Vedas together with their six Angas — mixed together — comprise the fourteen sources (sthāna) of both learning (vidyā) and dharma. And likewise in the Mahabharata—
 
 > इतिहासपुराणाभ्यां वेदं समुपबृंहयेत् । बिभेत्यल्पश्रुताद्वेदो मामयं प्रहरिष्यति ॥
-> *itihāsa-purāṇābhyāṃ vedaṃ samupabṛṃhayet | bibhety alpa-śrutād vedo mām ayaṃ prahariṣyati ||* (Mahabharata, Adi Parva 1-267)
+> *itihāsa-purāṇābhyāṃ vedaṃ samupabṛṃhayet | bibhety alpa-śrutād vedo mām ayaṃ prahariṣyati ||* (Mahabharata, Adi Parva 1-1-267)
 >
 > "**A man should strengthen the Veda by means of the Itihasas and Puranas: the Veda is afraid of the man of little learning, lest he should hurt it.**"
 
@@ -12969,7 +12968,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **Other Puranas — Skanda, Vishnu, and others — are also useful for understanding dharma and brahma alike.** The Puranas illustrate, through narrative, the meanings underlying various commands and prohibitions found scattered throughout the Veda. **These matters are dealt with extensively and clearly within these treatises.** Among the various treatises discussing origins (utpatti), the deeds of Muni-descended lineages, Manu's own lineage, and battles between gods and demons are given in detail; and dynastic genealogies, too, are described as belonging to the Vaṃśānucharita [dynastic-history] portion of the Puranas. **Scholars declare that the characteristic features of the Puranas are these**—
 
 > सर्गश्च प्रतिसर्गश्च वंशो मन्वन्तराणि च । वंशानुचरितं चेति पुराणं पञ्चलक्षणम् ॥
-> *sargaś ca pratisargaś ca vaṃśo manvantarāṇi ca | vaṃśānucaritaṃ ceti purāṇaṃ pañca-lakṣaṇam ||* (Vishnu Purana 3-6-24; Amarakosha 1-6-5)
+> *sargaś ca pratisargaś ca vaṃśo manvantarāṇi ca | vaṃśānucaritaṃ ceti purāṇaṃ pañca-lakṣaṇam ||* (Vishnu Purana 3-6-25; Amarakosha 1-6-5)
 
 **Meaning:** creation (sarga), re-creation [after periodic dissolution] (pratisarga), dynastic genealogy (vaṃśa), the ages of the Manus (manvantara), and dynastic history (vaṃśānucharita) — these are the five defining characteristics of a Purana.
 
@@ -12999,7 +12998,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 ### Page 588
 
 > तदु ह वा एते ब्रह्मवादिनः पूर्वाभिमुखाः संध्यायां गायत्रीयाभिमन्त्रिता अप ऊर्ध्वं विक्षिपन्ति ॥
-> *tad u ha vā ete brahmavādinaḥ pūrvābhimukhāḥ saṃdhyāyāṃ gāyatrīyābhimantritā apa ūrdhvaṃ vikṣipanti ||* (Taittiriya Aranyaka 2-11-1)
+> *tad u ha vā ete brahmavādinaḥ pūrvābhimukhāḥ saṃdhyāyāṃ gāyatrīyābhimantritā apa ūrdhvaṃ vikṣipanti ||* (Taittiriya Aranyaka 2-2-2)
 
 **Meaning: this is what is stated** — those who know brahma, facing east, at twilight-time, consecrate the [sacred water] with the Gayatri mantra and then cast it upward, toward the sun as it rises before them (that is, [perform] the "arghya"-offering) — this is the specific procedure enjoined for the twilight-prayer.
 
@@ -13041,6 +13040,8 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **"He who fills the ears with truth, but not so as to hurt, and who adds thereto nectar, he is the pupil's father and mother, and should in no wise be injured by him."**
 
+
+*(The Kannada on this page quotes Manu Smṛti 2-114 ("vidyā brāhmaṇam etyāha śevadhis te'smi rakṣa mām …").)*
 ---
 
 **Embedded English translation, as given in the source:**
@@ -13074,7 +13075,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **Manu himself, in his own Smriti, establishes this meaning in the following verse—**
 
 > उत्पादकब्रह्मदातोर्गरीयान् ब्रह्मदः पिता । ब्रह्मजन्म हि विप्रस्य प्रेत्य चेह च शाश्वतम् ॥
-> *utpādaka-brahmadātor garīyān brahmadaḥ pitā | brahma-janma hi viprasya pretya ceha ca śāśvatam ||* (Manu Smriti 2-146)
+> *utpādaka-brahmadātor garīyān brahmadaḥ pitā | brahma-janma hi viprasya pretya ceha ca śāśvatam ||* (Manu Smriti 2-145)
 >
 > "Between the natural father and the giver of sacred learning, the giver of sacred learning is the more venerable father; for the birth through the Veda is eternal, both here and hereafter, for the brahmin."
 
@@ -13141,7 +13142,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **Meaning:** to such a pupil — one who is not unruly, who is intelligent, who refrains from laziness, and who diligently observes the rules of brahmacharya (celibate discipleship) — the leading student among all, in whom trust may rightly be placed, should the [Veda-personified deity, i.e., the Vidyā] be taught. This alone is worthy of honour. **In this way, having made her request that the teacher, upon finding a worthy and virtuous student who faithfully observes the discipline, should teach him the knowledge of the Veda, Manu Smriti gives this very verse**—
 
 > यमेव तु शुचिं विद्यान्नियतं ब्रह्मचारिणम् । तस्मै वां ब्रूहि विप्राय निधिं कामप्रवादिने ॥
-> *yam eva tu śuciṃ vidyān niyataṃ brahmacāriṇam | tasmai vāṃ brūhi viprāya nidhiṃ kāma-pravādine ||* (Manu Smriti 2-114; Nirukta 2-4)
+> *yam eva tu śuciṃ vidyān niyataṃ brahmacāriṇam | tasmai vāṃ brūhi viprāya nidhiṃ kāma-pravādine ||* (Manu Smriti 2-115; Nirukta 2-4)
 
 **"O Teacher, teach me wisdom in the form of the Veda. To him whom you know to be a pupil indeed, pure, eager to hear, intelligent, and chaste, and who will never do you harm: he will protect your treasure. At such a request made to him by the Goddess of learning, the teacher will teach him, who is a pupil indeed, the knowledge of the Veda."**
 
