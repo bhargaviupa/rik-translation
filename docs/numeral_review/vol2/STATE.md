@@ -1,5 +1,5 @@
 # Vol 2 pass — state
 
-Status: not started (waiting for the better scan parts of Vol 2 under `kannada/` on `main`).
+Status: scans present (5 parts, 822 PDF pages); not started.
 Last PDF page done: 0
 Open flags: none
