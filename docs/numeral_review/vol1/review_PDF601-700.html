@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vol 1 PDF 601–700</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vol 1 numerals, PDF 601–700</title>
 <style>
 :root{--bg:#fff;--fg:#111;--line:#e3e3e3;--box:#f7f7f7;--m:#eef6ee;--e:#fff6d6;--mut:#666}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1b1b1b;--fg:#eee;--line:#3a3a3a;--box:#262626;--m:#1f2c21;--e:#3a3318;--mut:#aaa}}
@@ -14,7 +14,7 @@ input{font-size:17px;padding:4px 6px;width:9em;background:var(--box);color:var(-
 textarea{width:100%;height:12em;font:14px monospace;background:var(--box);color:var(--fg)}
 button,select{font-size:15px;padding:5px 10px}
 </style></head><body>
-<h2>Vol 1 PDF 601–700</h2>
+<h2>Vol 1 numerals, PDF 601–700</h2>
 <p>Each row: the numeral as printed (crop of the 600 dpi scan), a box, and what the English files say now.
 <b style="background:var(--m)">green rows</b> (221): the box holds the file's reading, matched by page order — check it against the crop.
 <b style="background:var(--e)">yellow rows</b> (481): no confident file reading (none matched, or the file has [?]) — type what the crop shows.</p>
@@ -28,7 +28,7 @@ button,select{font-size:15px;padding:5px 10px}
 <h3>My edits</h3><p>Only rows you changed are listed (an emptied box shows as <code>ID: </code>).</p>
 <textarea id="out" readonly></textarea>
 <script>
-const ins=[...document.querySelectorAll('input[data-id]')],out=document.getElementById('out'),K='v1numerals:Vol 1 PDF 601–700';
+const ins=[...document.querySelectorAll('input[data-id]')],out=document.getElementById('out'),K='v1numerals:Vol 1 numerals, PDF 601–700';
 function upd(){const e={};ins.forEach(i=>{const ch=i.value.trim()!==i.dataset.orig;i.parentNode.classList.toggle('ed',ch);if(ch)e[i.dataset.id]=i.value.trim()});
  out.value=Object.entries(e).map(([k,v])=>k+': '+v).join('\n');try{localStorage.setItem(K,JSON.stringify(e))}catch(x){}}
 try{const e=JSON.parse(localStorage.getItem(K)||'{}');ins.forEach(i=>{if(e[i.dataset.id]!==undefined)i.value=e[i.dataset.id]})}catch(x){}

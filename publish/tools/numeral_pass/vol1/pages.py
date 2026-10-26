@@ -22,7 +22,7 @@ def printed(g):
     if g==475: return '449'                      # duplicate scan of printed p. 449 (= PDF 474)
     if 476<=g<=507: return str(g-26)
     if g in (508,509): return str(g-28)          # duplicate scan of printed pp. 480-481 (= PDF 506-507)
-    if 510<=g<=700: return str(g-28)
+    if 510<=g<=743: return str(g-28)             # PDF 743 = printed p. 715, last page in the English file (the index that follows is not transcribed)
     return None
 def label(g):
     p=printed(g)
