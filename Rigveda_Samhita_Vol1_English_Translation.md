@@ -9499,12 +9499,14 @@ Many more examples could be given. Given such genuinely diverse statements, no s
 
 ### The Eighth Adhikarana Is Now Formulated
 
-> नास्त्य् एतद् व्याछक्षीत वा ब्राह्मणेत्य् अत्र लक्षणं विद्यतेऽथवा । नास्ति यंको वेद-भागा इह च एवं स्युर् भावकः ॥ मन्त्रस्य ब्राह्मणं शेषेत्य् एतौ द्वौ भागौ तेन मन्त्रकः । अन्यद् वा ब्राह्मणम् इत्य् एव द्वा ब्राह्मण-लक्षणम् ॥
-> nāsty etad vyāchakṣīta vā brāhmaṇety atra lakṣaṇaṃ vidyate'thavā | nāsti yaṃko veda-bhāgā iha ca evaṃ syur bhāvakaḥ || mantrasya brāhmaṇaṃ śeṣety etau dvau bhāgau tena mantrakaḥ | anyad vā brāhmaṇam ity eva dvā brāhmaṇa-lakṣaṇam || (Jaimini-nyaya-mala 2.1.8)
+> नास्त्येतद्ब्राह्मणेत्यत्र लक्षणं विद्यतेऽथवा । नास्तीयन्तो वेदभागा इति क्लृप्तेरभावतः ॥ मन्त्रश्च ब्राह्मणं चेति द्वौ भागौ तेन मन्त्रतः । अन्यद्ब्राह्मणमित्येतद्भवेद्ब्राह्मणलक्षणम् ॥ (जै. न्या. २-१-८) ॥
+> *nāsty etad brāhmaṇety atra lakṣaṇaṃ vidyate 'thavā | nāstīyanto vedabhāgā iti klṛpter abhāvataḥ || mantraś ca brāhmaṇaṃ ceti dvau bhāgau tena mantrataḥ | anyad brāhmaṇam ity etad bhaved brāhmaṇalakṣaṇam || (Jai. Nyā. 2-1-8) ||*
+>
+> *(Verse re-read from the print in the numeral pass; the earlier reading was garbled.)*
 >
 > "Is there, or is there not, a definition of 'brahmana' with reference to the text 'etad brahmana'? There is none — because no one has shown how much of the Veda is mantra, and how much is brahmana. [Reply:] there is. Since the Veda divides into these two parts, mantra and its remainder [brahmana], whatever in the Veda is not mantra is itself brahmana — this is brahmana's definition."
 
-**The objection develops through the Chaturmasya-ishti example:** "etad brāhmaṇān eva pañca-havīṃṣi" (Taittiriya Brahmana 1.2.7.1) — here, [it's argued,] no definition of "brahmana" exists, because the Vedic portions themselves haven't been clearly delimited, leaving both the mantra-portion (already discussed) and the remaining portions without a coherent shared characteristic. These "other portions" can be shown to include vastly different content-types — nindā (censure), as in "anamīdhya vai māṣāḥ"; praśaṃsā (praise), as in "vāyus tvai kṣepiṣṭhā devatā"; saṃśaya (doubt), as in "śatruṣ cikitsat kim bahavānīrma poṣā"; vidhi (injunction), as in "yajamānena sannimitādambarī bhavati"; parakṛti (deeds of others), as in "mā prāpā neva mahyaṃ pātanti"; purākalpa (ancient narrative), as in "purā brāhmaṇā abhyāṣāriśi"; and viśeṣāvadhāraṇa (specific determination), as in "yāvato'śvair niṣṭhīvet yāvato vāruṇāc cāturāśāt sarvaṃ vet." Given content-types this varied, no single shared characteristic — beyond simple exclusion from the mantra-category — can serve as a proper definition of brahmana.
+**The objection develops through the Chaturmasya-ishti example:** "etad brāhmaṇāny eva pañca havīṃṣi" (Taittiriya Brahmana 1-7-1-1) — here, [it's argued,] no definition of "brahmana" exists, because the Vedic portions themselves haven't been clearly delimited, leaving both the mantra-portion (already discussed) and the remaining portions without a coherent shared characteristic. These "other portions" can be shown to include vastly different content-types — nindā (censure), as in "anamīdhya vai māṣāḥ"; praśaṃsā (praise), as in "vāyus tvai kṣepiṣṭhā devatā"; saṃśaya (doubt), as in "śatruṣ cikitsat kim bahavānīrma poṣā"; vidhi (injunction), as in "yajamānena sannimitādambarī bhavati"; parakṛti (deeds of others), as in "mā prāpā neva mahyaṃ pātanti"; purākalpa (ancient narrative), as in "purā brāhmaṇā abhyāṣāriśi"; and viśeṣāvadhāraṇa (specific determination), as in "yāvato'śvair niṣṭhīvet yāvato vāruṇāc cāturāśāt sarvaṃ vet." Given content-types this varied, no single shared characteristic — beyond simple exclusion from the mantra-category — can serve as a proper definition of brahmana.
 
 ---
 
@@ -9531,16 +9533,16 @@ Many more examples could be given. Given such genuinely diverse statements, no s
 **Each illustrated with a precise example:**
 
 - **"Tena hy annaṃ kriyate"** — a **hetu** (reason).
-- **"Tad dadhno dadhitvam"** — a **nirvacana** (etymology).
-- **"Amedhya vai māṣāḥ"** — a **nindā** (censure).
-- **"Vāyur vai kṣepiṣṭhā"** — a **praśaṃsā** (praise).
-- **"Tad vyacikitsaj juhavāni mā hauṣam"** — a **saṃśaya** (doubt).
-- **"Yajamānena sammitāṇḍumbhāri bhavati"** — a **vidhi** (injunction).
+- **"Tad dadhno dadhitvam"** (Tai. Saṃ. 2-5-3-4) — a **nirvacana** (etymology).
+- **"Amedhyā vai māṣāḥ"** (Tai. Saṃ. 5-1-8-1) — a **nindā** (censure).
+- **"Vāyur vai kṣepiṣṭhā devatā"** (Tai. Saṃ. 2-1-1-1) — a **praśaṃsā** (praise).
+- **"Tad vyacikitsaj juhavāni mā hauṣam"** (Tai. Saṃ. 6-5-9-1) — a **saṃśaya** (doubt).
+- **"Yajamānena sammitaudumbarī bhavati"** (Tai. Saṃ. 6-2-10-3) — a **vidhi** (injunction).
 - **"Māṣān eva mahyaṃ pacanti"** — a **parakriyā** (another's deed).
 - **"Purā brāhmaṇā abhaiṣuḥ"** — a **purākalpa** (ancient narrative).
-- **"Yāvato'śvān pratigṛhṇīyāt tāvato vāruṇāṃś cātuṣkapālān nirvapet"** — a **viśeṣāvadhāraṇa-kalpanā** (specific determination).
+- **"Yāvato'śvān pratigṛhṇīyāt tāvato vāruṇāṃś catuṣkapālān nirvapet"** (Tai. Saṃ. 2-3-12-1) — a **viśeṣāvadhāraṇa-kalpanā** (specific determination).
 
-Other examples could be given as well. None of these nine content-types, taken individually, can serve as a coherent positive definition of "brahmana" — since mantras too, at times, exhibit similar features (as in "amba ambike" and similar). Therefore, the only workable definition remains the exclusionary one already established: whatever in the Veda is not mantra is brahmana.
+Other examples could be given as well. None of these nine content-types, taken individually (for mantras too contain them: "indavo vām uśanti hi" (Ṛ. Saṃ. 1-2-4) is a hetu; "udānīṣur mahīr iti tasmād udakam ucyate" (Ath. Saṃ. 3-13-4) a nirvacana; "mogham annaṃ vindate apracetāḥ" (Ṛ. Saṃ. 10-117-6) a nindā; "agnir mūrdhā divaḥ kakut" (Ṛ. Saṃ. 8-44-16) a praśaṃsā; "adhaḥ svid āsīd upari svid āsīt" (Ṛ. Saṃ. 10-129-5) a saṃśaya; "sahasram ayutā dadat" (Ṛ. Saṃ. 8-21-18) a parakṛti; "yajñena yajñam ayajanta devāḥ" (Ṛ. Saṃ. 1-164-50) a purākalpa; and "rājā cid yaṃ bhagaṃ bhakṣīty āha" (Ṛ. Saṃ. 7-41-2) and "yo mā yātuṃ yātudhānety āha yo vā rakṣāḥ śucir asmīty āha" (Ṛ. Saṃ. 7-104-16) show the iti-form in mantras), can serve as a coherent positive definition of "brahmana" — since mantras too, at times, exhibit similar features (as in "amba ambike" and similar). Therefore, the only workable definition remains the exclusionary one already established: whatever in the Veda is not mantra is brahmana.
 
 ---
 
@@ -9571,17 +9573,17 @@ or not? My view: none exists, since even though it's not doubted how much overal
 
 **Siddhānta:** it is well-established that the Veda comprises two portions — mantra and brahmana. The mantra-portion's own defining characteristic has already been given [in the seventh adhikarana]; whatever remaining Vedic content is not mantra may properly be called brahmana — this itself serves as brahmana's definition.
 
-In the Chaturmasya-yashti yajna, the mantra "etad brāhmaṇān eva sapta havīṃṣi" (Taittiriya Brahmana 1.2.7.1) is used — yet no explicit definition of brahmana is stated there. Without knowing precisely which portion is mantra and which is brahmana, any attempted definition risks avyāpti/ativyāpti even for the brahmana-portion. (This concludes the objection.)
+In the Chaturmasya-yashti yajna, the mantra "etad brāhmaṇāny eva pañca havīṃṣi" (Taittiriya Brahmana 1-7-1-1) is used — yet no explicit definition of brahmana is stated there. Without knowing precisely which portion is mantra and which is brahmana, any attempted definition risks avyāpti/ativyāpti even for the brahmana-portion. (This concludes the objection.)
 
 **The true resolution:** within the Veda's mantra-and-brahmana-composed text, whatever is not mantra is brahmana. "Mantra" was earlier defined as whatever the ancient teachers, during ritual performance, customarily call "mantra." But merely being *any* Vedic statement isn't sufficient — a statement genuinely recognized and transmitted by disciples as mantra, without even the slightest word-variation, alone qualifies. Jaimini himself states this precisely in his own Purva-Mimamsa-sutra:
 
 > आम्नायोक्तमन्त्रश्च ऐतिह्यात्सा हि विभागः ।
-> *āmnāyokta-mantraś ca aitihyāt sā hi vibhāgaḥ |* (Jaimini Sutra 2.1.33)
+> *anāmnāteṣv amantratvam āmnāteṣu hi vibhāgaḥ |* (Jaimini Sutra 2-1-34)
 
 — [affirming] that this very distinction [between mantra and its remainder] rests on such established recognition. Accordingly, a Vedic statement bearing these characteristics is mantra; the Veda's remaining content is brahmana — as the sutra states,
 
 > शेषे ब्राह्मणशब्दः ।
-> *śeṣe brāhmaṇa-śabdaḥ |* (Jaimini Sutra 2.1.33)
+> *śeṣe brāhmaṇa-śabdaḥ |* (Jaimini Sutra 2-1-33)
 > "'Brahmana' is the term applied to the remainder."
 
 ---
@@ -9630,25 +9632,25 @@ In the Chaturmasya-yashti yajna, the mantra "etad brāhmaṇān eva sapta havī�
 
 Up to this point, matters have been discussed clarifying, in careful detail, which portions of Vedic statements are mantra and which are brahmana. In identifying the brahmana-portion specifically, the ancient teachers state it can be marked by: **हेतु** (*hetu*, reason), **निर्वचन** (*nirvacana*, subject-clarification), **निन्दा** (*nindā*, attributing a flaw), **प्रशंसा** (*praśaṃsā*, praise), **संशय** (*saṃśaya*, doubt), **विधि** (*vidhi*, command), **परक्रिया** (*parakriyā*, describing another's matter), **पुराकल्प** (*purākalpa*, ancient history), and **व्यवधारणकल्पना** (*vyavadhāraṇa-kalpanā*, stating "if this is done, that results"). One example for each mark is given:
 
-**Hetu:** तेन ह्यन्नं क्रियते (*tena hy annaṃ kriyate*, Shabara Bhashya 1.2.7.1)
-**Nirvacana:** तद्व्याघ्नं दधित्वम् (*tad-vyaghna dadhitvam*, Taittiriya Samhita 2.8.6.4)
-**Nindā:** अमेध्या वै माषाः (*amedhyā vai māṣāḥ*, Taittiriya Samhita 5.1.9.1)
-**Praśaṃsā:** वायुर्वै क्षेपिष्ठा देवता (*vāyur vai kṣepiṣṭhā devatā*, Taittiriya Samhita 2.1.1.1)
-**Saṃśaya:** तद्व्यचिकित्सेज्जुहवानि मा हौषमिति (*tad vyacikitset juhavāni mā hauṣam iti*, Taittiriya Samhita 6.3.9.1)
-**Vidhi:** यजमानेन सम्मितांडुम्भारी भवति (*yajamānena sammitāṇḍumbhāri bhavati*, Taittiriya Samhita 6.2.7.4)
+**Hetu:** तेन ह्यन्नं क्रियते (*tena hy annaṃ kriyate*, Shatapatha Brahmana 2-5-2-23)
+**Nirvacana:** तद्व्याघ्नं दधित्वम् (*tad dadhno dadhitvam*, Taittiriya Samhita 2-5-3-4)
+**Nindā:** अमेध्या वै माषाः (*amedhyā vai māṣāḥ*, Taittiriya Samhita 5-1-8-1)
+**Praśaṃsā:** वायुर्वै क्षेपिष्ठा देवता (*vāyur vai kṣepiṣṭhā devatā*, Taittiriya Samhita 2-1-1-1)
+**Saṃśaya:** तद्व्यचिकित्सेज्जुहवानि मा हौषमिति (*tad vyacikitset juhavāni mā hauṣam iti*, Taittiriya Samhita 6-5-9-1)
+**Vidhi:** यजमानेन सम्मितांडुम्भारी भवति (*yajamānena sammitaudumbarī bhavati*, Taittiriya Samhita 6-2-10-3)
 **Parakriyā:** माषानेव मह्यं पचन्ति (*māṣān eva mahyaṃ pacanti*)
-**Purākalpa:** पुरा ब्राह्मणा अभैषुः (*purā brāhmaṇā abhaiṣuḥ*, Taittiriya Samhita 1.5.2.4)
-**Vyavadhāraṇa-kalpanā:** यावतोऽश्वान् प्रतिगृह्णीयात्तावतो नारायणांश्च तुष्टशालान्निर्वपेत् (*yāvato'śvān pratigṛhṇīyāt tāvato nārāyaṇāṇ ca tuṣṭa-śālān nirvapet*, Taittiriya Samhita 2.1.10.1)
+**Purākalpa:** पुरा ब्राह्मणा अभैषुः (*purā brāhmaṇā abhaiṣuḥ*, Taittiriya Samhita 1-5-7-5)
+**Vyavadhāraṇa-kalpanā:** यावतोऽश्वान् प्रतिगृह्णीयात्तावतो नारायणांश्च तुष्टशालान्निर्वपेत् (*yāvato'śvān pratigṛhṇīyāt tāvato vāruṇāṃś catuṣkapālān nirvapet*, Taittiriya Samhita 2-3-12-1)
 
 Many more examples like these could be given.
 
 **But such marks cannot, on their own, serve as brahmana's true defining characteristic** — one cannot simply say brahmana consists of statements bearing hetu, nirvacana, and similar features while excluding mantra-portions, nor that brahmana is defined purely as whatever differs from hetu/nirvacana-type statements. Why not? Because mantras themselves also contain such hetu, nirvacana, and similar features:
 
-**Hetu:** इन्दवो वामुशन्ति हि (*indavo vām uṣanti hi*, Rigveda 1.2.5.1[?])
-**Nirvacana:** उदानीषुर्महीरिति तस्मादुदकमुच्यते (*udānīṣur mahīr iti tasmād udakam ucyate*, Ashvamedha 3.1.2.1[?])
-**Nindā:** मोघामन्नं विन्दतेऽप्रचेताः (*moghām annaṃ vindate apracetāḥ*, Rigveda 10.117.6)
-**Praśaṃsā:** अग्निर्मूर्धा दिवः ककुत् (*agnir mūrdhā divaḥ kakut*, Rigveda 8.44.16)
-**Saṃśaya:** अधः स्विदासीदुपरि स्विदासीत् (*adhaḥ svid āsīd upari svid āsīt*, Rigveda 10.129.5)
+**Hetu:** इन्दवो वामुशन्ति हि (*indavo vām uṣanti hi*, Rigveda 1-2-4)
+**Nirvacana:** उदानीषुर्महीरिति तस्मादुदकमुच्यते (*udānīṣur mahīr iti tasmād udakam ucyate*, Atharva Samhita 3-13-4)
+**Nindā:** मोघामन्नं विन्दतेऽप्रचेताः (*moghām annaṃ vindate apracetāḥ*, Rigveda 10-117-6)
+**Praśaṃsā:** अग्निर्मूर्धा दिवः ककुत् (*agnir mūrdhā divaḥ kakut*, Rigveda 8-44-16)
+**Saṃśaya:** अधः स्विदासीदुपरि स्विदासीत् (*adhaḥ svid āsīd upari svid āsīt*, Rigveda 10-129-5)
 
 ---
 
@@ -9680,16 +9682,16 @@ Many more examples like these could be given.
 
 ### Page 484
 
-**Vidhi:** वसन्ताय कपिञ्जलानालभत (*vasantāya kapiñjalān ālabhata*, Vajasaneyi Samhita 24.20)
-**Parakriyā:** सहस्रमयुता ददत् (*sahasram ayutā dadat*, Rigveda 8.20.19)
-**Purākalpa:** यज्ञेन यज्ञमयजन्त देवाः (*yajñena yajñam ayajanta devāḥ*, Rigveda 10.90.16)
+**Vidhi:** वसन्ताय कपिञ्जलानालभत (*vasantāya kapiñjalān ālabhata*, Vajasaneyi Samhita 24-20)
+**Parakriyā:** सहस्रमयुता ददत् (*sahasram ayutā dadat*, Rigveda 8-21-18)
+**Purākalpa:** यज्ञेन यज्ञमयजन्त देवाः (*yajñena yajñam ayajanta devāḥ*, Rigveda 10-90-16)
 
-Many such statements exist. What about defining brahmana as "statements using the word 'iti'"? This too fails — many mantras themselves contain "iti"-words ("ityadada," "ityayajatha," "ityapacatha," and similar) that priests must recite during yajna — creating ativyāpti. What about defining brahmana as "narrative content, story-form"? This fails too — Rigveda Sukta 10.10, containing the dialogue between Yama and Yami, is itself a mantra-portion, yet narrative in form — again ativyāpti. Therefore, it must be concluded that no faultless definition of brahmana, free from avyāpti/ativyāpti, exists. (This concludes the objection.)
+Many such statements exist. What about defining brahmana as "statements using the word 'iti'"? This too fails — many mantras themselves contain "iti"-words ("ityadada," "ityayajatha," "ityapacatha," and similar) that priests must recite during yajna — creating ativyāpti. Nor can it be "statements ending in 'ity āha'": the mantras "rājā cid yaṃ bhagaṃ bhakṣīty āha" (Ṛ. Saṃ. 7-41-2) and "yo mā yātuṃ yātudhānety āha yo vā rakṣāḥ śucir asmīty āha" (Ṛ. Saṃ. 7-104-16) also contain 'ity āha', so again ativyāpti. What about defining brahmana as "narrative content, story-form"? This fails too — Rigveda Sukta 10-10, containing the dialogue between Yama and Yami, is itself a mantra-portion, yet narrative in form — again ativyāpti. Therefore, it must be concluded that no faultless definition of brahmana, free from avyāpti/ativyāpti, exists. (This concludes the objection.)
 
 **The true resolution:** not so — here is the correct answer. Brahmana does indeed have a valid definition. Since disciples accept that the Veda comprises exactly two portions — mantra and brahmana — and since mantra's own defining characteristic has already been established, it follows correctly that all remaining Vedic content, not being mantra, is brahmana. Jaimini himself states this precisely through two sutras:
 
 > तच्चोदकेषु मन्त्राख्या । शेषे ब्राह्मणशब्दः ।
-> *tac codakeṣu mantrākhyā |* (Jaimini Sutra 2.1.32) — *śeṣe brāhmaṇa-śabdaḥ |* (Jaimini Sutra 2.1.33)
+> *tac codakeṣu mantrākhyā |* (Jaimini Sutra 3-1-32, as printed) — *śeṣe brāhmaṇa-śabdaḥ |* (Jaimini Sutra 2-1-33)
 >
 > "In [passages containing] exhortation, the designation 'mantra' applies; 'brahmana' is the term for the remainder."
 
@@ -9708,12 +9710,12 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 
 ...as stated in the Bhashya (2.1.33). Disciples familiar with the tradition call such exhortatory statements "mantras," saying "we study the mantras" — and every Vedic portion so designated is indeed mantra; every remaining portion is called brahmana.
 
-**A new objection:** in the Brahmayajna chapter, don't we find portions distinct from both mantra and brahmana — itihāsas and similar? As stated: "yad brāhmaṇetihāsān purāṇāni kalpān gāthā nārāśaṃsīḥ" (Taittiriya Aranyaka 2.9) — "whatever brahmanas, itihasas, puranas, kalpas, gathas, narashamsis..."
+**A new objection:** in the Brahmayajna chapter, don't we find portions distinct from both mantra and brahmana — itihāsas and similar? As stated: "yad brāhmaṇetihāsān purāṇāni kalpān gāthā nārāśaṃsīḥ" (Taittiriya Aranyaka 2-9) — "whatever brahmanas, itihasas, puranas, kalpas, gathas, narashamsis..."
 
-> न एवं । विप्र-परिव्राजकस्यायेन ब्राह्मणाध्यान्तरभेदानाम् एवेतिहासादीनां पृथग्-अभिधानात् । देवासुराः संयत्ता (तैत्तिरिय सम्हित ३.३.१०.१) इत्य् आदयः इतिहासाः । इदं वा अग्रे नैव किंचनासीत् (तैत्तिरिय ब्रह्मन २.२.९.१) इत्य् आदिः जगतः प्राग्-अवस्थाम् उपक्रम्य सृष्टि-प्रतिपादकं वाक्य-जातं पुराणम् । कल्पा अरुणकेतुके चयने स-प्रकरणे (समाम्नायते) इति । अग्नि-चयने युग्म-गाथाभिः परिगायति (तैत्तिरिय सम्हित ५.१.६.१) इति विशिष्ट-मन्त्र-विशेष गाथाः । मनुष्य-वृत्तान्त-प्रतिपादिकाश् च नाराशंसा ऋचः । तस्मान् मन्त्र-ब्राह्मण-व्यतिरिक्ताभागाभावान् मन्त्र-ब्राह्मण-स्वरूपस्य लक्षितत्वे उभय-सत्कत्वं वेदस्य सुस्थितम् ॥
-> na evaṃ | vipra-parivrājakasyāyena brāhmaṇādhyāntarabhedānām evetihāsādīnāṃ pṛthag-abhidhānāt | devāsurāḥ saṃyattā (Taittiriya Samhita 3.3.10.1) ity ādayaḥ itihāsāḥ | idaṃ vā agre naiva kiṃcanāsīt (Taittiriya Brahmana 2.2.9.1) ity ādiḥ jagataḥ prāg-avasthām upakramya sṛṣṭi-pratipādakaṃ vākya-jātaṃ purāṇam | kalpā aruṇaketuke cayane sa-prakaraṇe (samāmnāyate) iti | agni-cayane yugma-gāthābhiḥ parigāyati (Taittiriya Samhita 5.1.6.1) iti viśiṣṭa-mantra-viśeṣa gāthāḥ | manuṣya-vṛttānta-pratipādikāś ca nārāśaṃsā ṛcaḥ | tasmān mantra-brāhmaṇa-vyatiriktābhāgābhāvān mantra-brāhmaṇa-svarūpasya lakṣitatve ubhaya-satkatvaṃ vedasya susthitam ||
+> न एवं । विप्र-परिव्राजकस्यायेन ब्राह्मणाध्यान्तरभेदानाम् एवेतिहासादीनां पृथग्-अभिधानात् । देवासुराः संयत्ता (तैत्तिरिय सम्हित ५-३-११-१) इत्य् आदयः इतिहासाः । इदं वा अग्रे नैव किंचनासीत् (तैत्तिरिय ब्रह्मन २-२-९-१) इत्य् आदिः जगतः प्राग्-अवस्थाम् उपक्रम्य सृष्टि-प्रतिपादकं वाक्य-जातं पुराणम् । कल्पा अरुणकेतुके चयने स-प्रकरणे (समाम्नायते) इति । अग्नि-चयने युग्म-गाथाभिः परिगायति (तैत्तिरिय सम्हित ५-१-८-२) इति विशिष्ट-मन्त्र-विशेष गाथाः । मनुष्य-वृत्तान्त-प्रतिपादिकाश् च नाराशंसा ऋचः । तस्मान् मन्त्र-ब्राह्मण-व्यतिरिक्ताभागाभावान् मन्त्र-ब्राह्मण-स्वरूपस्य लक्षितत्वे उभय-सत्कत्वं वेदस्य सुस्थितम् ॥
+> na evaṃ | vipra-parivrājakasyāyena brāhmaṇādhyāntarabhedānām evetihāsādīnāṃ pṛthag-abhidhānāt | devāsurāḥ saṃyattā (Taittiriya Samhita 5-3-11-1) ity ādayaḥ itihāsāḥ | idaṃ vā agre naiva kiṃcanāsīt (Taittiriya Brahmana 2-2-9-1) ity ādiḥ jagataḥ prāg-avasthām upakramya sṛṣṭi-pratipādakaṃ vākya-jātaṃ purāṇam | kalpā aruṇaketuke cayane sa-prakaraṇe (samāmnāyate) iti | agni-cayane yugma-gāthābhiḥ parigāyati (Taittiriya Samhita 5-1-8-2) iti viśiṣṭa-mantra-viśeṣa gāthāḥ | manuṣya-vṛttānta-pratipādikāś ca nārāśaṃsā ṛcaḥ | tasmān mantra-brāhmaṇa-vyatiriktābhāgābhāvān mantra-brāhmaṇa-svarūpasya lakṣitatve ubhaya-satkatvaṃ vedasya susthitam ||
 >
-> "Not so. This is simply a case of naming distinct sub-varieties of brahmana under their own separate designations — itihāsa, purāṇa, and the rest — just as with the wandering-monk-priest analogy. Statements like 'devāsurāḥ saṃyattā' ('the gods and demons were in conflict') are itihāsas. Passages beginning from the world's pre-creation state and describing cosmic origination, like 'idaṃ vā agre naiva kiṃcanāsīt' ('in the beginning, there was truly nothing at all'), constitute purāṇa. 'Kalpa' refers to procedural passages found within sections like the Arunaketuka fire-altar rite. 'Gāthās' are specific mantra-types, as in 'agni-cayane yugma-gāthābhiḥ parigāyati' (Taittiriya Samhita 5.1.6.1). 'Nārāśaṃsī' verses (ṛc) narrate human affairs. Therefore, since no portion exists beyond mantra and brahmana, the Veda's full scope, once mantra and brahmana are properly defined, remains soundly and completely accounted for by these two categories alone."
+> "Not so. This is simply a case of naming distinct sub-varieties of brahmana under their own separate designations — itihāsa, purāṇa, and the rest — just as with the wandering-monk-priest analogy. Statements like 'devāsurāḥ saṃyattā' ('the gods and demons were in conflict') are itihāsas. Passages beginning from the world's pre-creation state and describing cosmic origination, like 'idaṃ vā agre naiva kiṃcanāsīt' ('in the beginning, there was truly nothing at all'), constitute purāṇa. 'Kalpa' refers to procedural passages found within sections like the Arunaketuka fire-altar rite. 'Gāthās' are specific mantra-types, as in 'agni-cayane yugma-gāthābhiḥ parigāyati' (Taittiriya Samhita 5-1-8-2). 'Nārāśaṃsī' verses (ṛc) narrate human affairs. Therefore, since no portion exists beyond mantra and brahmana, the Veda's full scope, once mantra and brahmana are properly defined, remains soundly and completely accounted for by these two categories alone."
 
 ---
 
@@ -9729,10 +9731,10 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 
 "Feed the parivrajakas inside" doesn't mean parivrajakas aren't brahmins — they are brahmins, simply a distinct sub-group within the class. In the same way, calling something "brahmana" (the Veda's brahmana-portion) includes all its natural sub-classifications — itihasa, purana, kalpa, and similar content. Examples:
 
-**Itihāsa:** देवासुराः संयत्ता आसन् (*devāsurāḥ saṃyattā āsan*, Taittiriya Samhita 3.3.10.1) and similar.
-**Purāṇa:** इदं वा अग्रे नैव किंचनासीत् (*idaṃ vā agre naiva kiṃcanāsīt*, Taittiriya Brahmana 2.2.9.1) and similar — describing the pre-creation state and the act of creation itself, just as in Purana literature.
-**Kalpa:** इति मन्त्रः, कल्पोऽत ऊर्ध्वम्, यदि बलिं हरेत् (*iti mantraḥ, kalpo'ta ūrdhvam, yadi baliṃ haret*, Taittiriya Aranyaka 1.13.1), occurring in the Arunaketuka-chayana section.
-**Gāthā:** युग्मगाथाभिः परिगायति (*yugma-gāthābhiḥ parigāyati*, Taittiriya Samhita 5.1.6.1), in the Agnichayana rite.
+**Itihāsa:** देवासुराः संयत्ता आसन् (*devāsurāḥ saṃyattā āsan*, Taittiriya Samhita 5-3-11-1) and similar.
+**Purāṇa:** इदं वा अग्रे नैव किंचनासीत् (*idaṃ vā agre naiva kiṃcanāsīt*, Taittiriya Brahmana 2-2-9-1) and similar — describing the pre-creation state and the act of creation itself, just as in Purana literature.
+**Kalpa:** इति मन्त्रः, कल्पोऽत ऊर्ध्वम्, यदि बलिं हरेत् (*iti mantraḥ, kalpo'ta ūrdhvam, yadi baliṃ haret*, Taittiriya Aranyaka 1-32-2), occurring in the Arunaketuka-chayana section.
+**Gāthā:** युग्मगाथाभिः परिगायति (*yugma-gāthābhiḥ parigāyati*, Taittiriya Samhita 5-1-8-2), in the Agnichayana rite.
 **Nārāśaṃsī:** Riks narrating human affairs.
 
 **Therefore, all these itihasa-and-similar statements are sub-classifications of the brahmana-portion, and are themselves brahmanas.** It follows that the Veda comprises exactly two portions — mantra and brahmana — with no third category existing anywhere. **The Veda is thus definitively established as consisting precisely of mantra and brahmana.**
@@ -9756,13 +9758,15 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 
 ### Page 487
 
-> मन्त्राणां तर-विशेषस्य तस्मिन्न् एव पाद इत्य् अं विचारितः ।
-> mantrāṇāṃ tara-viśeṣasya tasminn eva pāda ity aṃ vicāritaḥ | (Jaimini-nyaya-mala 2.1.10)
+> मन्त्राणामवान्तरविशेषश्च तस्मिन्नेव पाद इत्थं विचारितः ॥ (जै. न्या. २-१-१०)
+> *mantrāṇām avāntaraviśeṣaś ca tasminn eva pāda itthaṃ vicāritaḥ || (Jai. Nyā. 2-1-10)*
 
 **The differences between the three kinds of mantras (rik, sama, yajus) are considered in this same pada, as follows:**
 
-> नकार्यम् अयसम्बाधं लक्ष साङ्कर्याद् इति शङ्किते । पादेश् च गीतिः प्रोक्षिष्ट-पाठ इत्य् एष्यैः सङ्करकः ॥
-> nakāryam ayasambādhaṃ lakṣa sāṅkaryād iti śaṅkite | pādeś ca gītiḥ prokṣiṣṭa-pāṭha ity eṣyaiḥ saṅkarakaḥ || (Jaimini-nyaya-mala 2.1.10)
+> नर्क्सामयजुषां लक्ष्म साङ्कर्यादिति शंकिते । पादश्च गीतिः प्रश्लिष्टपाठ इत्यस्त्वसंकरः ॥
+> *narksāmayajuṣāṃ lakṣma sāṅkaryād iti śaṃkite | pādaś ca gītiḥ praśliṣṭapāṭha ity astv asaṃkaraḥ ||*
+>
+> *(Verse lines re-read from the print in the numeral pass; the earlier reading was garbled.)*
 >
 > "Some say that on account of the way in which they are mixed up, there is no characteristic mark distinguishing rik, sama, and yajus verses; but there is really no confusion, because we have the pada [word-form], the gīti [chant-form], and the praśliṣṭapāṭha [continuous-recitation form] by means of which we can discriminate the three."
 
@@ -9795,7 +9799,7 @@ This opens a new technical discussion: since rik, sama, and yajus mantras appear
 
 Among Vedic mantras, there are exactly three principal types — Rigveda, Yajurveda, and Samaveda — intermixed throughout the Veda, with no obvious single mark distinguishing them at first glance. Mimamsa-shastra resolves this in its own dedicated pada: a mantra built from metrical **padas** (verse-feet, matching meters like Gayatri and similar — one pada for "ekapada" meter, two for "dvipada," three for Gayatri, four for Trishtubh/Jagati, five for Saptanta, and so on) is called **Rigveda**. Mantras in musically-tuned, sung form (**gīti**) are called **Sāmaveda**. Prose collections with no metrical constraint are called **Yajus**. This way, distinguishing them individually is possible, and no confusion arises in principle.
 
-**But a genuine difficulty now surfaces:** the mantra "ahe budhniya mantraṃ me gopāya yaṃ ṛṣayas traividā viduḥ | ṛcaḥ sāmāni yajūṃṣi" (Taittiriya Brahmana 1.3.9) invokes "traividas" — those learned in all three Vedas. But the three mantra-types (rik, yajus, sāma) as defined above turn out to lack a *stable* defining mark after all — because certain mantras appear within the Veda in ways that cut against this clean threefold scheme...
+**But a genuine difficulty now surfaces:** the mantra "ahe budhniya mantraṃ me gopāya yaṃ ṛṣayas traividā viduḥ | ṛcaḥ sāmāni yajūṃṣi" (Taittiriya Brahmana 1-2-1) invokes "traividas" — those learned in all three Vedas. But the three mantra-types (rik, yajus, sāma) as defined above turn out to lack a *stable* defining mark after all — because certain mantras appear within the Veda in ways that cut against this clean threefold scheme...
 
 ---
 
@@ -9812,16 +9816,16 @@ Among Vedic mantras, there are exactly three principal types — Rigveda, Yajurv
 They become genuinely intermixed with one another, making them difficult to separate cleanly. One might propose that teachers simply say "this mantra belongs to Rigveda" and so on — but it turns out that mantras properly belonging to Rigveda occur within Yajurveda texts too, and Samaveda mantras get incorporated into Yajurveda as well, causing real confusion (sāṅkarya). For example:
 
 > देवो वः सवितोत्पुनात्वच्छिद्रेण पवित्रेण वसोः सूर्यस्य रश्मिभिः ।
-> *devo vaḥ savitotpunatv acchidreṇa pavitreṇa vasoḥ sūryasya raśmibhiḥ |* (Taittiriya Samhita 1.1.11.1)
+> *devo vaḥ savitotpunatv acchidreṇa pavitreṇa vasoḥ sūryasya raśmibhiḥ |* (Taittiriya Samhita 1-1-5-1)
 
-occurs within the Yajurveda Samhita, among other Yajurveda mantras — yet it's stated (Taittiriya Brahmana 3.3.9.3) that this mantra is not truly a Yajurveda text at all, but a Rigveda mark, called there "**सावित्र्यर्चा**" (*Sāvitryarcā*, "a rik dedicated to Savitr"). Such Rigveda-mantras and Samaveda-mantras thus appear woven throughout Yajurveda's own liturgy.
+occurs within the Yajurveda Samhita, among other Yajurveda mantras — yet it's stated (Taittiriya Brahmana 3-2-5-3) that this mantra is not truly a Yajurveda text at all, but a Rigveda mark, called there "**सावित्र्यर्चा**" (*Sāvitryarcā*, "a rik dedicated to Savitr"). Likewise, with the pledge "etat sāma gāyann āste" (Tai. Ā. 9-10-5) a sāman is sung in the Yajurveda, and the three yajus "akṣitam asi, acyutam asi, prāṇasaṃśitam asi" (Chā. U. 3-17-6) are recited in the Sāmaveda. Such Rigveda-mantras and Samaveda-mantras thus appear woven throughout Yajurveda's own liturgy.
 
 **Yet this is resolved:** each of the three Vedas' mantras does carry its own distinct, statable mark. Mantras composed with metrical padas (verse-feet, per meters like Gayatri and similar) belong to **Rigveda**. Mantras used specifically for singing/chanting are **Samaveda**. The remaining mantra-portions — unmetered, not suited for singing, in plain prose — are classified as **Yajurveda**. Stated this way, no genuine confusion remains.
 
 **Jaimini himself formulates this threefold scheme through three sutras:**
 
 > तेषां ऋग्यथार्थवशेन पादव्यवस्था । गीतिषु सामाख्या । शेषे यजुःशब्दः ।
-> *teṣāṃ ṛg-yathārthavaśena pādavyavasthā | gītiṣ sāmākhyā | śeṣe yajuḥ-śabdaḥ |*
+> *teṣāṃ ṛg yatrārthavaśena pādavyavasthā | gītiṣu sāmākhyā | śeṣe yajuḥśabdaḥ |* (Pū. Mī. 2-1-35 to 37)
 >
 > "Their pada-arrangement follows from their primary meaning [in Rigveda]; being sung is the mark of 'sāman'; the remainder bears the term 'yajus.'"
 
