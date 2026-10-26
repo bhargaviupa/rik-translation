@@ -9851,7 +9851,7 @@ occurs within the Yajurveda Samhita, among other Yajurveda mantras — yet it's 
 
 ### Page 490
 
-The great sage Jaimini establishes this threefold mantra-classification through three sutras: "teṣāṃ pṛthag-artha-vaśena pādavyavasthā" (Jaimini Sutra 2.1.35), "gītiṣ sāmākhyā" (Jaimini Sutra 2.1.36), "śeṣe yajuḥ-śabdaḥ" (Jaimini Sutra 2.1.37). Distinguishing these sub-classifications within Vedic mantras as Rigveda, Yajurveda, and Samaveda appropriately yields the term "traividhya" (threefold-ness).
+The great sage Jaimini establishes this threefold mantra-classification through three sutras: "teṣāṃ pṛthag-artha-vaśena pādavyavasthā" (Jaimini Sutra 2-1-35), "gītiṣ sāmākhyā" (Jaimini Sutra 2-1-36), "śeṣe yajuḥ-śabdaḥ" (Jaimini Sutra 2-1-37). Distinguishing these sub-classifications within Vedic mantras as Rigveda, Yajurveda, and Samaveda appropriately yields the term "traividhya" (threefold-ness).
 
 ### A Discussion, with Consideration of Fruit, Establishing Vedic Study as an Obligatory Duty
 
@@ -9909,14 +9909,14 @@ Vedic study is a nitya-karma (obligatory duty) for the dvija; failing to study c
 One who studies removes all his sins and becomes purified — study purifies even the deities. One who fails to study loses his connection with speech, and thereby loses heaven's joy too; he is not called learned, mantras don't come under his command, and he has no fluency in speech. As Shruti states:
 
 > यस्य स्थाज् सखिविदं सखायं न तस्य वाच्यपि भागो अस्ति । यद् ईदं शृणोत्य् उलकं शृणोति न हि प्रवेद सुकृतस्य पन्थाम् ॥
-> yasya sthāj sakhividaṃ sakhāyaṃ na tasya vācyapi bhāgo asti | yad īdaṃ śṛṇoty ulakaṃ śṛṇoti na hi praveda sukṛtasya panthām || (Taittiriya Aranyaka 9.2.3)
+> yasya sthāj sakhividaṃ sakhāyaṃ na tasya vācyapi bhāgo asti | yad īdaṃ śṛṇoty ulakaṃ śṛṇoti na hi praveda sukṛtasya panthām || (Taittiriya Aranyaka 1-3-3)
 >
 > "He who abandons his friend who knows companionship — for him, there is no share even in speech; whatever he hears, he hears crookedly; he does not know the path of righteous action."
 
-One who fails to study the Veda — his genuine friend — becomes devoid of eloquence; whatever he says or hears is flawed, and he does not know the path to salvation (Taittiriya Aranyaka 2.15). Therefore, a dvija must undertake study of his own family shakha specifically. Here "sacivit" (companion) means: the Veda, understanding the difficulty the student undergoes, protects him like a friend — even the fruit of yajnas requiring vast expenditure and effort can be obtained through mere Vedic study alone. Shruti confirms this directly:
+One who fails to study the Veda — his genuine friend — becomes devoid of eloquence; whatever he says or hears is flawed, and he does not know the path to salvation (Taittiriya Aranyaka 2-15). Therefore, a dvija must undertake study of his own family shakha specifically. Here "sacivit" (companion) means: the Veda, understanding the difficulty the student undergoes, protects him like a friend — even the fruit of yajnas requiring vast expenditure and effort can be obtained through mere Vedic study alone. Shruti confirms this directly:
 
 > "यं यं क्रतुम् अधीशे केन केनाष्टेष्ट भवत्य् अग्नि-वाय्व्-आदित्यस्य सायुज्यं गच्छति"
-> "yaṃ yaṃ kratum adhīśe kena kenāṣṭeṣṭa bhavaty agni-vāyv-ādityasya sāyujyaṃ gacchati" (Taittiriya Aranyaka 2.13)
+> "yaṃ yaṃ kratum adhīśe kena kenāṣṭeṣṭa bhavaty agni-vāyv-ādityasya sāyujyaṃ gacchati" (Taittiriya Aranyaka 2-15)
 >
 > "Whatever ritual-portion one studies, that very rite becomes [ritually] accomplished for him — he attains companionship (sāyujya) with the deities Agni, Vayu, and Aditya."
 
@@ -9932,12 +9932,12 @@ One who fails to study the Veda — his genuine friend — becomes devoid of elo
 
 ### Page 493
 
-It's stated that during Brahmayajna, small portions from all four Vedas are properly recited, and it's true that the above-mentioned fruit belongs to such recitation. But before performing Brahmayajna, one must already have learned those very portions — and this requires comprehension-study (grahaṇārtha-adhyayana) beforehand. Without such study, Brahmayajna itself cannot occur — so this fruit belongs precisely to this preliminary study too. Whoever abandons this friend — the Veda that grants such fruit — loses the fruit of speech itself, and thereby loses all share in the heavenly fruit. One who fails to recite the Veda — which expounds all deities, dharma, and ultimate Brahman-reality — and remains instead absorbed in worldly quarrels, clearly lacks true mastery of speech. As Shruti states: "nānasyāyātivṛttai jñācāce vigrāsanaṃ hi tad" (Shatapatha Brahmana 14.7.2.23) — excessive talking wearies speech itself, and can even open the door to falsehood. Considering this, wise people counsel measured speech. Even reading or hearing poetry and drama is, in a sense, similarly pointless — such reading reveals neither the path of righteousness nor genuine (Brahman-)knowledge.
+It's stated that during Brahmayajna, small portions from all four Vedas are properly recited, and it's true that the above-mentioned fruit belongs to such recitation. But before performing Brahmayajna, one must already have learned those very portions — and this requires comprehension-study (grahaṇārtha-adhyayana) beforehand. Without such study, Brahmayajna itself cannot occur — so this fruit belongs precisely to this preliminary study too. Whoever abandons this friend — the Veda that grants such fruit — loses the fruit of speech itself, and thereby loses all share in the heavenly fruit. One who fails to recite the Veda — which expounds all deities, dharma, and ultimate Brahman-reality — and remains instead absorbed in worldly quarrels, clearly lacks true mastery of speech. As Shruti states: "nānasyāyātivṛttai jñācāce vigrāsanaṃ hi tad" (Shatapatha Brahmana 14-7-2-23) — excessive talking wearies speech itself, and can even open the door to falsehood. Considering this, wise people counsel measured speech. Even reading or hearing poetry and drama is, in a sense, similarly pointless — such reading reveals neither the path of righteousness nor genuine (Brahman-)knowledge.
 
 **I have quoted the Shruti; hear also a Smriti:**
 
 > योऽनधीत्य द्विजो वेदान् अन्यत्र कुरुते श्रमम् । स जीवन्न् एव शूद्रत्वम् आशु गच्छति सान्वयः ॥
-> yo'nadhītya dvijo vedān anyatra kurute śramam | sa jīvann eva śūdratvam āśu gacchati sānvayaḥ || (Manu Smriti 2.168)
+> yo'nadhītya dvijo vedān anyatra kurute śramam | sa jīvann eva śūdratvam āśu gacchati sānvayaḥ || (Manu Smriti 2-168)
 >
 > "A dvija who does not study the Vedas but exerts effort in other matters becomes a shudra, even while living, along with his entire household."
 
@@ -10042,10 +10042,10 @@ Since it's established that upanayana-invested persons must undertake Vedic stud
 
 For rites like Brahmayajna, japa, and study, many kinds of fruit are declared in their respective arthavāda statements. In the discussion on daily study specifically, one should infer — by analogy from the ratri-sattra rite — that heavenly comforts like "rivers of ghee" result, even though the Veda nowhere explicitly states this for the ratri-sattra itself; rather, this fruit is declared only in its related arthavāda passage. By the same logic, though daily study's fruit isn't explicitly stated, one may infer it follows the same arthavāda-pattern. Those unwilling to accept this reasoning may instead reason by analogy with the Vishvajit sacrifice — universally accepted to yield heaven-attaining fruit despite no explicit statement, purely by scholarly consensus. By this same logic, study too should be understood to yield heaven and similar rewards.
 
-**Regarding the ratri-sattra fruit specifically, the extended Nyayamala states, in its fourth adhyaya, third pada, sutras 13–14, as follows:**
+**Regarding the ratri-sattra fruit specifically, the extended Nyayamala states, in its fourth adhyaya, third pada, sutras 17–19, as follows:**
 
-> कृतौ फलार्थनां वंगवत्वान्-नार्ग-जिनः ॥ १२ ॥ फल-मात्रे यो निर्देशाच् छ्रुता स्वमानं स्यात् ॥ १३ ॥ अंगेषु स्त्री सं परनर्थाक्वात् ॥ १४ ॥
-> kṛtau phalārthanāṃ vaṃgavatvān-nārga-jinaḥ || 12 || phala-mātre yo nirdeśāc chrutā svamānaṃ syāt || 13 || aṃgeṣu strī saṃ paranarthākvāt || 14 ||
+> क्रतौ फलार्थवादमङ्गवत्कार्ष्णाजिनिः ॥ १७ ॥ फलमात्रेयो निर्देशादश्रुतौ ह्यनुमानं स्यात् ॥ १८ ॥ अङ्गेषु स्तुतिः परार्थत्वात् ॥ १९ ॥
+> *kratau phalārthavādam aṅgavat kārṣṇājiniḥ || 17 || phalam ātreyo nirdeśād aśrutau hy anumānaṃ syāt || 18 || aṅgeṣu stutiḥ parārthatvāt || 19 ||* (sūtras re-read from the print in the numeral pass)
 
 This discussion on the ratri-sattra fruit involves the logic of extending declarations beyond their literal context—
 
@@ -10066,7 +10066,7 @@ The ratri-sattra's fruit isn't explicitly stated by name; a further consequentia
 
 ### Page 498
 
-> ekā ucyate — asya rātri-satra-vidheḥ sthāvakenārthavāde pratiṣṭhā śrutā | sā cāsminn apy ittham-tam apy utkarṣārthataḥ | tasmāt "pratiṣṭhā-kāmo rātri-satraṃ kuryāt" ity evaṃ pratiṣṭhā phalatvena kalpyeta ||
+> … ya etā upayanti — (Tāṇḍya Mahābrāhmaṇa 23-14-17) asya rātri-satra-vidheḥ sthāvakenārthavāde pratiṣṭhā śrutā | sā cāsminn apy ittham-tam apy utkarṣārthataḥ | tasmāt "pratiṣṭhā-kāmo rātri-satraṃ kuryāt" ity evaṃ pratiṣṭhā phalatvena kalpyeta ||
 >
 > "In this Ratrisattra-vidhi's own praise-arthavāda, 'pratiṣṭhā' (stability) is declared as its fruit. This reward is to be understood analogously here too. Therefore, 'one desiring stability should perform the ratrisattra' — thus the fruit-declaration should be construed here as well."
 
@@ -10293,7 +10293,7 @@ As for the objection to ceremonial perfection as study's visible result — that
 >
 > The affix 'tavya' denotes the object studied as well as the act of studying, and the former is the nearer meaning, and accordingly the affix denotes here a spiritual result attaching to the Veda itself."
 
-**Sutra's meaning:** knowing the injunctions for yajnas and similar rites in full detail — timing, manner, correct mantras, and their respective fruits — requires studying them directly, heard sequentially from a guru's own mouth (never from a written text, per the study-injunction's own restriction, which is what "svādhyāya" specifically requires). Combining these heard injunctions makes clear that a genuine saṃskāra results. **But this saṃskāra is itself an unseen (adṛṣṭa) fruit — and it belongs to the person who studies, not to the text studied.** This is because the "tavya" affix denotes a special quality (apūrva) generated in the agent through the act, not in the object. (For a fuller technical treatment of "apūrva," see the Jaimini-nyaya-mala-vistara, third adhyaya, first pada, sutras 1–3.) The next sutra answers the implication that follows from this.
+**Sutra's meaning:** knowing the injunctions for yajnas and similar rites in full detail — timing, manner, correct mantras, and their respective fruits — requires studying them directly, heard sequentially from a guru's own mouth (never from a written text, per the study-injunction's own restriction, which is what "svādhyāya" specifically requires). (For the meaning of *apūrva* the source refers to the Jaiminīya-nyāya-mālā-vistara, A. 2 Pā. 1 Sū. 1 to 4.) Combining these heard injunctions makes clear that a genuine saṃskāra results. **But this saṃskāra is itself an unseen (adṛṣṭa) fruit — and it belongs to the person who studies, not to the text studied.** This is because the "tavya" affix denotes a special quality (apūrva) generated in the agent through the act, not in the object. (For a fuller technical treatment of "apūrva," see the Jaimini-nyaya-mala-vistara, third adhyaya, first pada, sutras 1–3.) The next sutra answers the implication that follows from this.
 
 ---
 
@@ -10631,7 +10631,7 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 
 **Sutra's meaning:** reciting the Veda with a specific purpose — understanding its meaning, intending to perform yajnas — removes sin in this world. If the study-injunction excluded the aim of understanding meaning, then Mimamsa-shastra (which exists precisely to examine Vedic meaning) would become entirely purposeless. The resolution follows.
 
-### "विचार उत्तरविधिप्रयोक्ते उपसद्यत इति" (Sutra 13)
+### "विचार उत्तरविधिप्रयोक्ते उपसद्यत इति" (Sutra 12)
 *"Vicāra uttara-vidhi-prayokte upasadyata iti"*
 
 > "**The Mimansa has the place because it rests on later injunctions.**
@@ -10759,7 +10759,7 @@ A brahmin cannot study according to personal preference — it is simply his obl
 >
 > The Veda learnt and recited but not understood is dry fuel thrown upon ashes; it will never blaze up."
 
-*(Nirukta 1.18; Taittiriya Aranyaka 2.15 cited within.)*
+*(Nirukta 1-18; Taittiriya Aranyaka 2-15 cited within.)*
 
 These two mantras comprise four half-mantras. Of these, the half-mantra "yo'rthajña..." eulogizes knowledge of the Veda's meaning; the other three half-mantras blame the want of that knowledge. One who knows the Veda's meaning obtains every good thing in this world; and when he dies, his sins having been destroyed by that knowledge, he attains heaven.
 
@@ -10810,6 +10810,8 @@ The passage further establishes that merely reciting without understanding does 
 
 That he who knows the Veda bears the form of Agni, Vayu, and Aditya is revealed in a text of Scripture: "He has fellowship, it is said, with Agni, Vayu, and Aditya." But—
 
+*(The Sanskrit passage at the head of the page, ending "… yāskena kācid ṛg udāhṛtā", closes with the reference (Nirukta 1-19).)*
+
 One who studies the Veda without understanding its meaning is like a pillar bearing a load. One who genuinely understands the Veda's meaning gains all prosperity, and through the knowledge he has attained, destroys his sins and attains heaven. Reciting the Veda by heart without grasping its meaning is like a heap of unlit charcoal — however much dry fuel is thrown upon it, no flame will ever catch. In just this way, Veda-recitation without meaning-comprehension is fruitless.
 
 Of the two mantras above, the portion beginning "yo'rthajña..." praises the investigation of the Veda's meaning; the remaining three quarter-verses censure the lack of it. One who understands the Veda's meaning attains all prosperity in this world, and after death attains heaven. Regarding this two-worldly fruit of Vedic knowledge, the Taittiriyas cite a mantra together with its explanatory Brahmana passage:
@@ -10831,7 +10833,7 @@ Of the two mantras above, the portion beginning "yo'rthajña..." praises the inv
 ### Page 524
 
 > यावतीर्वै देवताः सर्वा वेदविदि ब्राह्मणे वसन्ति । तस्माद्ब्राह्मणेभ्यो वेदविद्भ्यो दिवे दिवे नमस्कुर्यात् । नार्थलीलं कीर्तयेत् । एता एव देवताः प्रीणाति ॥
-> *yāvatīr vai devatāḥ sarvā vedavidi brāhmaṇe vasanti | tasmād brāhmaṇebhyo vedavidbhyo dive dive namaskuryāt | nārtha-līlaṃ kīrtayet — etā eva devatāḥ prīṇāti ||* (Taittiriya Aranyaka 2.15)
+> *yāvatīr vai devatāḥ sarvā vedavidi brāhmaṇe vasanti | tasmād brāhmaṇebhyo vedavidbhyo dive dive namaskuryāt | nārtha-līlaṃ kīrtayet — etā eva devatāḥ prīṇāti ||* (Taittiriya Aranyaka 2-15)
 >
 > "As many deities as there are — all dwell within the Veda-knowing brahmin. Therefore one should offer daily reverence to Veda-knowing brahmins, and should never publicize their faults. By this alone are those very deities pleased."
 
@@ -10893,7 +10895,7 @@ The word "kila" in the original indicates a matter of common worldly knowledge: 
 
 That is: whatever means of attaining human ends cannot be grasped through direct perception or through inference — precisely because the Veda makes such means known, the Veda bears the name "Veda." **Therefore, if the Veda is to keep its character of being Veda in the true and proper sense of the word, its meaning must be apprehended** — merely learning the text as a book does not fulfill what the name itself signifies.
 
-On this subject, Yaska cites a verse from the Rigveda (Nirukta 1.19)—
+On this subject, Yaska cites a verse from the Rigveda (Nirukta 1-19)—
 
 ---
 
@@ -10913,13 +10915,15 @@ On this subject, Yaska cites a verse from the Rigveda (Nirukta 1.19)—
 ### Page 527
 
 > उत त्वः पश्यन् न ददर्श वाचम् उत त्वः शृण्वन् न शृणोत्य् एनाम् । उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥
-> uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām | uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ || (Rigveda Samhita 10.71.4)
+> uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām | uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ || (Rigveda Samhita 10-71-4)
 >
 > "One, though seeing, has not seen Speech; another, though hearing, does not hear her. But to yet another she has revealed her own body — as a loving, well-clad wife reveals herself to her husband."
 
 **Yaska gives the purport of the first two lines as follows:** "The first half of this verse speaks of the ignorant man as one who, seeing Speech, does not see her, and hearing her, does not hear her."
 
 **The meaning is this:** the text, in its first half, speaks of the man who does not apprehend the Veda's meaning. One man, complete in his knowledge of the *words* only, sees Speech in the form of the Veda — but does not see her properly. For where no consideration has been given to grammatical questions, such as the [proper analysis of word-forms]...
+
+*(The Sanskrit explanation below the verse on this page, not transcribed here, cites Taittirīya Saṃhitā 2-1-1-1 ("vāyum eva svena bhāgadheyenopa dhāvati …"), Taittirīya Saṃhitā 2-3-12-1 ("yāvato'śvān pratigṛhṇīyāt …") and Pūrva-Mīmāṃsā 3-4-30.)*
 
 That is: this man doesn't genuinely comprehend the Veda's meaning. Grammar and its auxiliary disciplines, Mimamsa and its allied inquiries — without study of these, one does not properly grasp the Vedic word. As the Taittiriya Samhita states, one who understands merely the word-forms without their meaning is like a man who takes only a share of what he might obtain.
 
@@ -10947,7 +10951,7 @@ That is: this man doesn't genuinely comprehend the Veda's meaning. Grammar and i
 
 Here Grammar by itself goes to show that it is the man who *accepts* a gift of horses who has to make atonement. But in the Mimamsa it is proved that it is the *giver* who must do so.
 
-**Explanation of the verse's first half:** the first quarter-verse concerns the person regarding the Veda's meaning: one who studies the Veda merely as text (word-forms alone), without meaning, does not truly see the very form of Vedic speech...
+**Explanation of the verse's first half (pādas 1 and 2):** the first quarter-verse concerns the person regarding the Veda's meaning: one who studies the Veda merely as text (word-forms alone), without meaning, does not truly see the very form of Vedic speech...
 
 ---
 
@@ -10961,17 +10965,17 @@ Here Grammar by itself goes to show that it is the man who *accepts* a gift of h
 ...nor does he obtain genuine knowledge. He cannot properly grasp Vedic statements, and many doubts arise. Whether the Vedic sentence he recites is singular or plural remains unclear to him. Take these two statements as an example:
 
 > वायुम् एव स्वेन भागधेयेनोपधावति स एनं भूतिं गमयति ॥
-> vāyum eva svena bhāgadheyenopadhāvati sa enaṃ bhūtiṃ gamayati || (Taittiriya Samhita 2.1.1.1)
+> vāyum eva svena bhāgadheyenopadhāvati sa enaṃ bhūtiṃ gamayati || (Taittiriya Samhita 2-1-1-1)
 >
 > आदित्यान् एव स्वेन भागधेयेनोपधावति ते एनं भूतिं गमयन्ति ॥
-> ādityān eva svena bhāgadheyenopadhāvati te enaṃ bhūtiṃ gamayanti || (Taittiriya Samhita 2.3.1.1)
+> ādityān eva svena bhāgadheyenopadhāvati te enaṃ bhūtiṃ gamayanti || (Taittiriya Samhita 2-3-1-1)
 
 The first sentence ends with "gamayati" (singular); the second ends with "gamayanti" (plural). Which of these two words is correct in which case? Without grammatical training, doubt arises about the first sentence's "gamayati" and the second's "gamayanti," and one cannot resolve it. Since the first sentence has a singular agent (Vayu), it requires the singular verb "gamayati"; the second has a plural agent (the Adityas), requiring the plural "gamayanti." Without knowing grammar, such doubts remain unresolved. **But knowing grammar alone still isn't sufficient** — without Mimamsa-shastra, a person still cannot properly understand the Veda's meaning, and many doubts persist. For instance:
 
 > यावतोऽश्वान् प्रतिगृह्णीयात् तावतो वरुणांश् चतुर्कपालान् निर्वपेत् ॥
-> yāvato'śvān pratigṛhṇīyāt tāvato varuṇāṃś caturkapālān nirvapet || (Taittiriya Samhita 2.3.12.1)
+> yāvato'śvān pratigṛhṇīyāt tāvato varuṇāṃś caturkapālān nirvapet || (Taittiriya Samhita 2-3-12-1)
 
-Here the agent-word governing the action is grammatically ambiguous — there's no grammatical doubt as such, but on a purely grammar-based reading, this statement indicates that the person who *accepts* the horses must perform the required ishti (homa). However, examined through Mimamsa's own reasoning (Jaimini Sutra 3.4.30), it is definitively established that the person who *gives* the gift must perform this ishti.
+Here the agent-word governing the action is grammatically ambiguous — there's no grammatical doubt as such, but on a purely grammar-based reading, this statement indicates that the person who *accepts* the horses must perform the required ishti (homa). However, examined through Mimamsa's own reasoning (Jaimini Sutra 3-4-30), it is definitively established that the person who *gives* the gift must perform this ishti.
 
 **Therefore the first half of the verse speaks of these two classes of ignorant people** [one lacking grammar, one lacking Mimamsa].
 
@@ -11040,7 +11044,7 @@ That is—
 **Yaska quotes another text saying, "The text that follows explains this further:"**
 
 > उत त्वं सख्ये स्थिरपीतम् आहुर् नैनं हिन्वन्त्य् अपि वाजिनेषु । अधेन्वा चरति माययैष वाचं शुश्रुवाꣳ अफलाम् अपुष्पाम् ॥
-> uta tvaṃ sakhye sthirapītam āhur nainaṃ hinvanty api vājineṣu | adhenvā carati māyayaiṣa vācaṃ śuśruvām̐ aphalām apuṣpām || (Rigveda Samhita 10.71.5)
+> uta tvaṃ sakhye sthirapītam āhur nainaṃ hinvanty api vājineṣu | adhenvā carati māyayaiṣa vācaṃ śuśruvām̐ aphalām apuṣpām || (Rigveda Samhita 10-71-5)
 >
 > "Him they call firm-established in friendship, yet they do not urge him forward in the contests. He wanders on with an illusion that yields no milk — having heard Speech that bears neither fruit nor flower."
 
@@ -11079,7 +11083,7 @@ The one who understands the Veda's meaning gains the Veda's own friendship; thos
 
 This censures those who merely recite without comprehension: their recitation is barren, producing neither the "flower" (dharma-knowledge) nor the "fruit" (brahma-knowledge) that the Veda properly yields.
 
-*(Reference cited within: Brihadaranyaka Upanishad 4.4.22.)*
+*(Reference cited within: Brihadaranyaka Upanishad 4-4-22.)*
 
 ---
 
@@ -11120,7 +11124,7 @@ This censures those who merely recite without comprehension: their recitation is
 **Witness the text:**
 
 > तम् एतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसानाशकेन ॥
-> tam etaṃ vedānuvacanena brāhmaṇā vividiṣanti yajñena dānena tapasānāśakena || (Brihadaranyaka Upanishad 4.4.22)
+> tam etaṃ vedānuvacanena brāhmaṇā vividiṣanti yajñena dānena tapasānāśakena || (Brihadaranyaka Upanishad 4-4-22)
 >
 > "Brahmins seek to know this very One through Vedic recitation, through sacrifice, through giving, and through austerity free from mortification."
 
@@ -11151,13 +11155,13 @@ Because it is an illusion of deceptive form — a magical image conjured by Indr
 **Moreover, in the Nakshatreshti chapter**, each utterance regarding a sacrifice's fruit asserts, with Scripture's own authority, that the fruit of the sacrifice and of the *knowledge* of it are one and the same:
 
 > यथा ह वा अग्निर् देवानाम् अन्नादः एवं ह वा एष मनुष्याणां भवति य एतेन हविषा यजते य उ चैनद् एवं वेद ॥
-> yathā ha vā agnir devānām annādaḥ evaṃ ha vā eṣa manuṣyāṇāṃ bhavati ya etena haviṣā yajate ya u cainad evaṃ veda || (Taittiriya Brahmana 3.1.4.1)
+> yathā ha vā agnir devānām annādaḥ evaṃ ha vā eṣa manuṣyāṇāṃ bhavati ya etena haviṣā yajate ya u cainad evaṃ veda || (Taittiriya Brahmana 3-1-4-1)
 >
 > "Just as Agni is the eater of food among the gods, so indeed does he become among men — he who sacrifices with this oblation, and he who likewise knows this."
 
 **For this reason too, it is clear that the knowledge of a sacrifice is as much matter of injunction as the sacrifice itself.**
 
-*(Further citations woven in here: Jaimini Sutra 1.2.7 on fruit-praise; Taittiriya Samhita 2.2.6.4 on the "svargāya hi loko'yaṃ darśa-pūrṇamāsau" formulation — establishing that where scripture praises the fruit of both performance and knowledge equally, both alike carry injunctive force.)*
+*(Further citations woven in here: Jaimini Sutra 1-2-15 on fruit-praise; Taittiriya Samhita 2-2-5-4 on the "svargāya hi loko'yaṃ darśa-pūrṇamāsau" formulation — establishing that where scripture praises the fruit of both performance and knowledge equally, both alike carry injunctive force.)*
 
 ---
 
@@ -11177,10 +11181,12 @@ Because it is an illusion of deceptive form — a magical image conjured by Indr
 
 **Here a doubt arises:** has not Jaimini, in the "**विद्याप्रशंसा**" (*Vidyāpraśaṃsā*) sutra, expressly ruled that the rewards assigned to the knowledge of the Veda are of the nature of eulogy? What of that? The language of eulogy may employ a reward which actually exists as well as one which does not. For example, in the precept with regard to the propitiatory sacrifice necessary when a mistake has been made in the course of the performance of the New and [Full Moon rites]—
 
+*(The Sanskrit passage at the head of the page, not transcribed here, cites Pūrva-Mīmāṃsā 1-2-17 ("phalasya karma-niṣpatteḥ …") and Chāndogya Upaniṣad 1-1-10.)*
+
 In the Nakshatreshti section, each ishti's fruit-statement, ritual procedure, and purpose-explanation are given together. As stated:
 
 > यथा ह वा अग्निर्देवानामन्नादः एवं ह वा एष मनुष्याणां भवति य एतेन हविषा यजते य उ चैनदेवं वेद ।
-> *yathā ha vā agnir devānām annādaḥ evaṃ ha vā eṣa manuṣyāṇāṃ bhavati ya etena haviṣā yajate ya u cainad evaṃ veda |* (Taittiriya Brahmana 3.1.4.1)
+> *yathā ha vā agnir devānām annādaḥ evaṃ ha vā eṣa manuṣyāṇāṃ bhavati ya etena haviṣā yajate ya u cainad evaṃ veda |* (Taittiriya Brahmana 3-1-4-1)
 >
 > "Just as Agni consumes the offerings made to the deities, so does the person who performs this yajna, and likewise the one who *knows* it, become an eater of food among men." That is: whoever performs this rite, and whoever understands it correctly, alike obtain abundant food and similar goods, and become esteemed among people.
 
@@ -11197,10 +11203,10 @@ Here the mantra conveys both the ritual procedure and its fruit — so the mantr
 
 ### Page 537
 
-**A doubt arises here:** Jaimini himself, in his "Vidyāpraśaṃsā" sutra (Jaimini Sutra 1.2.18), states that fruits obtained through Vedic-meaning-knowledge are of the nature of praise (arthavāda). What of that? The language of praise can employ both a fruit that genuinely exists and one that does not. **Example:** in the Darsha and Purnamasa yajnas, if some lapse occurs, an expiatory rite becomes necessary — and in the very injunction prescribing that expiation, heaven is stated as the fruit of those yajnas:
+**A doubt arises here:** Jaimini himself, in his "Vidyāpraśaṃsā" sutra (Jaimini Sutra 1-2-15), states that fruits obtained through Vedic-meaning-knowledge are of the nature of praise (arthavāda). What of that? The language of praise can employ both a fruit that genuinely exists and one that does not. **Example:** in the Darsha and Purnamasa yajnas, if some lapse occurs, an expiatory rite becomes necessary — and in the very injunction prescribing that expiation, heaven is stated as the fruit of those yajnas:
 
 > "स्वर्गाय हि लोको दर्श-पूर्णमासाव् इज्येते"
-> "svargāya hi loko darśa-pūrṇamāsāv ijyete" (Taittiriya Samhita 2.2.6.4[?])
+> "svargāya hi loko darśa-pūrṇamāsāv ijyete" (Taittiriya Samhita 2-2-5-4)
 >
 > "For the sake of the heavenly world are the Darsha and Purnamasa sacrifices performed."
 
@@ -11214,7 +11220,7 @@ Here the Vedic statement declares that Darsha-Purnamasa yajnas are performed for
 **A further doubt:** if a yajna's fruit accrues from mere knowledge of it, doesn't actual performance become a useless farce? **That difficulty is removed by the consideration that rewards may vary in quantity or quality.** They cite on this point a sutra of Jaimini's:
 
 > फलस्य कर्म-निष्ठत्वात् तेषां लोकवत् परिमाणतः सारतो वा फल-विशेषः स्यात् ॥
-> phalasya karma-niṣṭhatvāt teṣāṃ lokavat parimāṇataḥ sārato vā phala-viśeṣaḥ syāt || (Jaimini Sutra 1.2.19)
+> phalasya karma-niṣṭhatvāt teṣāṃ lokavat parimāṇataḥ sārato vā phala-viśeṣaḥ syāt || (Jaimini Sutra 1-2-17)
 
 ---
 
@@ -11241,7 +11247,7 @@ We have already explained this sutra and illustrated it by the text "tarati brah
 **The Chandogas have a text in which the performance of a sacrifice accompanied by knowledge is expressly preferred to a sacrifice performed without knowledge:**
 
 > तेनो भौ कुरुतो यश् चैतद् एवं वेद यश् च न वेद । नाना तु विद्या चाविद्या च । यद् एव विद्यया करोति श्रद्धयोपनिषदा तद् एव वीर्यवत्तरं भवति ॥
-> teno bhau kuruto yaś caitad evaṃ veda yaś ca na veda | nānā tu vidyā cāvidyā ca | yad eva vidyayā karoti śraddhayopaniṣadā tad eva vīryavattaraṃ bhavati || (Chandogya Upanishad 1.1.10)
+> teno bhau kuruto yaś caitad evaṃ veda yaś ca na veda | nānā tu vidyā cāvidyā ca | yad eva vidyayā karoti śraddhayopaniṣadā tad eva vīryavattaraṃ bhavati || (Chandogya Upanishad 1-1-10)
 >
 > "Both perform [the rite] — he who knows it thus, and he who does not. But knowledge and ignorance are quite different things. Whatever one performs with knowledge, with faith, and with the Upanishadic understanding — that alone becomes more powerful (vīryavattara)."
 
@@ -11268,14 +11274,14 @@ It is true that the injunction here has special reference to a knowledge of the 
 *Original title: "Vēdaviṣayadalli viṣaya, prayōjana, sambandha, adhikāri emba anubandhacatuṣṭayada nirūpaṇe"*
 **Printed pages 539–545 of the source.**
 
-*(No outstanding issues flagged for this subchapter — pp.541 and 542 repaired during Phase B: the "dharma-brahmani vedaikavedye" citation and Jaimini's foundational dharma-lakshana sutras (1.1.2, 1.1.4) now carry full Devanagari. This chapter is fully clean.)*
+*(No outstanding issues flagged for this subchapter — pp.541 and 542 repaired during Phase B: the "dharma-brahmani vedaikavedye" citation and Jaimini's foundational dharma-lakshana sutras (1-1-2, 1-1-4) now carry full Devanagari. This chapter is fully clean.)*
 
 ### Page 539
 
 ...with the soul, so, and in no other way, the merit got by knowledge accompanies the dead man. As it is said in the Scripture of the Vajasaneyins:
 
 > तं विद्या-कर्मणी समन्वारभेते पूर्व-प्रज्ञा च ॥
-> taṃ vidyā-karmaṇī samanvārabhete pūrva-prajñā ca || (Shatapatha Brahmana 14.7.2.1[?])
+> taṃ vidyā-karmaṇī samanvārabhete pūrva-prajñā ca || (Shatapatha Brahmana 14-7-2-3)
 >
 > "Knowledge, action, and prior wisdom follow him [after death]."
 
@@ -11307,14 +11313,14 @@ Before listeners can be expected to engage in the study of any work, they must b
 
 This is all it is usual to give under this head. **But if the Veda, as distinguished from the commentary on the Veda which is our undertaking, were without subject, use, and so on, the commentary too would want these in the second and higher degree. Therefore I shall state the four with regard to the Veda also.**
 
-**The Veda's own subject-matter is dharma.** As Jaimini states in his Purusharthanushasana-sutra: "dharma-brāhmaṇe vaidyaka-vedyo" — and again, in his second sutra: "codanā-lakṣaṇo'rtho dharmaḥ" (Jaimini Sutra 1.1.2), "dharma is that whose defining mark is Vedic injunction." Since dharma is precisely what is knowable through Vedic injunction and not through perception, the Veda's subject-matter is dharma.
+**The Veda's own subject-matter is dharma.** As Jaimini states in his Purusharthanushasana-sutra: "dharma-brāhmaṇe vaidyaka-vedyo" — and again, in his second sutra: "codanā-lakṣaṇo'rtho dharmaḥ" (Jaimini Sutra 1-1-2), "dharma is that whose defining mark is Vedic injunction." Since dharma is precisely what is knowable through Vedic injunction and not through perception, the Veda's subject-matter is dharma.
 
-**Regarding whether dharma can be perceived directly:** dharma is not accessible to direct perception (pratyakṣa) — this is established by the sutra "pratyakṣam animittaṃ vidyamānopalambhanāt" (Jaimini Sutra 1.1.4). Nor can inference apprehend it, since inference itself depends upon a prior perceptual ground (liṅga-grahaṇa). Therefore, the Veda alone is the authority regarding dharma.
+**Regarding whether dharma can be perceived directly:** dharma is not accessible to direct perception (pratyakṣa) — this is established by the sutra "pratyakṣam animittaṃ vidyamānopalambhanāt" (Jaimini Sutra 1-1-4). Nor can inference apprehend it, since inference itself depends upon a prior perceptual ground (liṅga-grahaṇa). Therefore, the Veda alone is the authority regarding dharma.
 
 **Further supporting citation:**
 
 > धर्मो विश्वस्य जगतः प्रतिष्ठा लोके धर्मिष्ठं प्रजा उपसर्पन्ति धर्मेण पापम् अपनुदति धर्मे सर्वं प्रतिष्ठितं तस्माद् धर्मं परमं वदन्ति ॥
-> dharmo viśvasya jagataḥ pratiṣṭhā loke dharmiṣṭhaṃ prajā upasarpanti dharmeṇa pāpam apanudati dharme sarvaṃ pratiṣṭhitaṃ tasmād dharmaṃ paramaṃ vadanti || (Taittiriya Aranyaka 10.79.2[?])
+> dharmo viśvasya jagataḥ pratiṣṭhā loke dharmiṣṭhaṃ prajā upasarpanti dharmeṇa pāpam apanudati dharme sarvaṃ pratiṣṭhitaṃ tasmād dharmaṃ paramaṃ vadanti || (Taittiriya Aranyaka 10-63-7)
 >
 > "Dharma is the foundation of the whole universe; in this world, people approach one most established in dharma; through dharma one drives away sin; in dharma all things are established — therefore they call dharma the highest."
 
@@ -11344,6 +11350,8 @@ Those who know tradition cite also here the second sutra of Jaimini with its two
 To establish the former of these propositions, Jaimini in his fourth sutra shows that dharma is not cognizable by our senses.
 
 **The four preliminaries, applied:** dharma is the puruṣārtha (human aim); the Vedic statements themselves establish this. Regarding **relation (sambandha)**: the Veda stands as the expounder (pratipādaka) and dharma-brahma as what is expounded (pratipādya) — this is their mutual relation. Regarding **qualified persons (adhikārī)**: the three twice-born classes (traivarṇika) are those entitled to knowledge of the Veda's meaning. Regarding **purpose (prayojana)**: attaining dharma and brahma-knowledge respectively. Regarding **subject (viṣaya)**: dharma in the karma-kanda, brahma in the jnana-kanda.
+
+*(The Sanskrit passage above, not transcribed here, cites Śatapatha Brāhmaṇa 14-4-2-26, Taittirīya Āraṇyaka 8-1 ("brahmavid āpnoti param") and Chāndogya Upaniṣad 7-1-3 ("tarati śokam ātmavit").)*
 
 **Note distinguishing Veda from Purana:** dharma and brahma-knowledge are obtainable *only* from the Veda; the Puranas and similar texts, though they discuss these matters, derive their authority from the Veda rather than standing as independent sources.
 
