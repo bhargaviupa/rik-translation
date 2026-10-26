@@ -6333,7 +6333,7 @@ We now state the resolution (samādhāna) to the objection. Calling the body of 
 **Printed pages 368–373 of the source.**
 
 > **⚠ Known issues in this subchapter (pending verification against source images):**
-> - p.368 — mostly repaired during Phase B (the "granted the Veda exists, but is it authoritative?" citation restored); one compound near the end of that citation has an uncertain reading, flagged inline.
+> - p.368 — the "granted the Veda exists, but is it authoritative?" citation was re-read from the better scan in the [?] pass (tal-lakṣaṇasya; the last word continues on p. 369).
 
 ### Page 368
 
@@ -6347,8 +6347,8 @@ This being so, proof drawn from Smriti (itself rooted in the Veda), as well as p
 
 ### A New Objection: Even If the Veda Exists, Is It Authoritative?
 
-> ननु अस्तु नाम वेदाख्यः कश्चित् पदार्थः । तथापि नासौ व्याख्यानम् अर्हति । अप्रमाणत्वेनानुपयुक्तत्वात् । न हि वेदः प्रमाणम् । प्रमाणलक्षणस्य तत्र दुःसंपादत्वात् । तथा हि । सम्यक्...
-> *nanv astu nāma vedākhyaḥ kaścit padārthaḥ | tathāpi nāsau vyākhyānam arhati | apramāṇatvenānupayuktatvāt | na hi vedaḥ pramāṇam | pramāṇa-lakṣaṇasya tatra duḥsampādatvāt | tathā hi | samyak...* *(the final compound's exact reading is uncertain at this resolution; the sense is confirmed by the embedded English translation below)*
+> ननु अस्तु नाम वेदाख्यः कश्चित् पदार्थः । तथापि नासौ व्याख्यानम् अर्हति । अप्रमाणत्वेनानुपयुक्तत्वात् । न हि वेदः प्रमाणम् । तल्लक्षणस्य तत्र दुःसंपादत्वात् । तथा हि । सम्य-…
+> *nanv astu nāma vedākhyaḥ kaścit padārthaḥ | tathāpi nāsau vyākhyānam arhati | apramāṇatvenānupayuktatvāt | na hi vedaḥ pramāṇam | tal-lakṣaṇasya tatra duḥsampādatvāt | tathā hi | samya-…* *(re-read from the better scan in the [?] pass; the last word is divided at the page end and continues on p. 369)*
 
 "Very well — we grant that the thing called 'Veda' exists. Still, it isn't worth commenting on, since it carries no authority (pramāṇya), and being without authority, it is of no real use. The Veda is of no authority. Why? Because you cannot show that the defining mark of valid proof (pramāṇa) resides in it." Some define "pramāṇa" as the instrument of right knowledge; others say it is the means of acquiring [knowledge]...
 
@@ -6508,8 +6508,10 @@ For instance, the mantra "uru prathasva" refers to spreading out the purodāśa 
 
 On this, the upholder of the doctrine to be controverted states another argument:
 
-> ननूच्चारणार्थत्वे सत्यनिष्टं प्रयोजनं परिकल्प्येत । अर्थाभिधायकत्वे तु दृष्टं लभ्यते । तस्माद् व्याख्यानस्यानुवादकत्वम् अभ्युपेत्य मन्त्रा अभिधानार्थत्वेनैवेत्य् आशङ्क्य उत्तरं सूत्रयति ॥
-> *nanūccāraṇārthatve saty aniṣṭaṃ prayojanaṃ parikalpyeta | arthābhidhāyakatve tu dṛṣṭaṃ labhyate | tasmād vyākhyānasyānuvādakatvam abhyupetya mantrā abhidhānārthatvenaivety āśaṅkya uttaraṃ sūtrayati ||* *(the exact word-division here is uncertain at this resolution; the sense — that if mantras existed merely to be recited, an unwelcome unseen purpose would have to be posited, whereas taking them as meaning-conveying yields a directly observable purpose instead — is confirmed by the Kannada explanation and the embedded English below)*
+> ननूच्चारणार्थत्वे सत्यदृष्टं प्रयोजनं परिकल्प्येत । अर्थाभिधायकत्वे तु दृष्टं लभ्यते । तस्माद्ब्राह्मणस्यानुवादकत्वमभ्युपेत्यापि मन्त्रस्याभिधानार्थत्वमेवेत्याशङ्क्योत्तरं सूत्रयति ॥
+> *nanūccāraṇārthatve saty adṛṣṭaṃ prayojanaṃ parikalpyeta | arthābhidhāyakatve tu dṛṣṭaṃ labhyate | tasmād brāhmaṇasyānuvādakatvam abhyupetyāpi mantrasyābhidhānārthatvam evety āśaṅkyottaraṃ sūtrayati ||*
+>
+> "But if [the mantras] serve only for recitation, an unseen (adṛṣṭa) purpose would have to be posited, whereas if they convey meaning, a visible purpose is obtained; therefore, even granting that the Brāhmaṇa merely repeats, the mantra must serve to convey meaning — raising this doubt, he states the answer in a sūtra." *(Re-read from the better scan in the [?] pass.)*
 
 But suppose instead we say the very purpose of reciting mantras at the yajna is to convey their meaning — this would establish a **dṛṣṭa** (directly perceivable) purpose for the mantras. Between the two kinds of purpose, perceived and unperceived, an unperceived purpose should only be invoked when no perceived purpose can be found. If the Brahmana merely repeats the mantra's own meaning, then the meaning of mantras recited during the yajna...
 
@@ -6806,9 +6808,10 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 
 ### Page 387
 
-> ...tv aprakāśitaḥ | tasmān nityodgvrekasyocāraṇārtha-prakāśanarūpaṃ dṛṣṭam eva prayojanam | nanu bhūrasi nāri asi śrīṣṭakṛtye traiṣṭubhena chandasā dade (Taittiriya Samhita 4-1-1-3) iti mantre āmnātaḥ | tena tv iva mantreṇa prakīrtitaḥ punarbhryābhrimādatte taṃ caturbhir ābhriṃ ādatte (Taittiriya Samhita 5-1-1-4) iti vidhīyate | tad etad viprāṣṭheṇ vaiphalyaṃ syād ādikta-śaṃkyottaram sūtrayati ॥
+> …त्वप्रकाशितः । तस्मान्मन्त्रोच्चारणस्यार्थप्रकाशनरूपं दृष्टमेव प्रयोजनम् । नन्वभ्रिरसि नारिरसीत्यारभ्य त्रैष्टुभेन त्वा छन्दसा ददे (तै. सं. ४-१-१-३) इति मन्त्र आम्नातः । तेनैव मन्त्रेण प्रतीतेऽप्यभ्र्यादाने पुनर्ब्राह्मणे तां चतुर्भिरभ्रिमादत्ते (तै. सं. ५-१-१-४) इति विधीयते । तदेतद्विधानं त्वत्पक्षे व्यर्थं स्यादित्याशङ्क्योत्तरं सूत्रयति ॥
+> *…tv aprakāśitaḥ | tasmān mantroccāraṇasyārthaprakāśanarūpaṃ dṛṣṭam eva prayojanam | nanv abhrir asi nārir asīty ārabhya traiṣṭubhena tvā chandasā dade (Taittiriya Samhita 4-1-1-3) iti mantra āmnātaḥ | tenaiva mantreṇa pratīte'py abhryādāne punar brāhmaṇe tāṃ caturbhir abhrim ādatte (Taittiriya Samhita 5-1-1-4) iti vidhīyate | tad etad vidhānaṃ tvatpakṣe vyarthaṃ syād ity āśaṅkyottaraṃ sūtrayati ||*
 >
-> *(This citation carries the sutra's own argument, worked through the well-known "ābhri" (digging-implement) example, comparing a mantra's descriptive content to a corresponding Brahmana injunction to test whether both can meaningfully coexist without redundancy; some phrase-level readings remain uncertain at this resolution, though the overall argument is clarified by the embedded English translation below.)*
+> *(The well-known "abhri" (digging-implement) example: the mantra from "abhrir asi nārir asi" to "traiṣṭubhena tvā chandasā dade" already makes the taking of the abhri known, yet the Brāhmaṇa enjoins "he takes it with four [mantras]"; on your view that injunction would be pointless — raising this doubt, he states the answer. Re-read from the better scan in the [?] pass.)*
 
 That is: mantra-meaning is established through the relation of action and its instruments, exactly as in ordinary speech — this holds equally for sacred and secular language alike. The word "tu" ("but") in this sutra rejects the earlier objection's claim that mantras serve merely recitation and not meaning; a new meaning, once revealed by a mantra, is what makes ritual action possible, and this alone is the mantra's directly observable (dṛṣṭa) purpose — not some purely "spiritual"/unseen one. Just as an ordinary sentence is uttered specifically to convey its meaning, so too must a Vedic mantra be understood as functioning the same way.
 
@@ -6831,9 +6834,10 @@ If a mantra's meaning is granted, but the Brahmana's own separate injunction (e.
 
 ### "Guṇārthena punaḥ-śrutiḥ" (Jaimini Sutra 1-2-41)
 
-> मन्त्रेण प्रतीतस्यार्थस्य ब्राह्मणे यत् पुनःश्रुतिस्तद्देशे चतुःसंख्यालक्षणगुणविधानार्थत्वेनोपयुज्यते । एकस्य विधानस्याभावे चतुर्भ्रां मन्त्राणां मध्ये येन केनाभ्रिं आदद्यीत । तन्निमित्तं वाग्भ्रतश्च (Taittiriya Samhita 4-1-2-1) इत्येतच्छस्त्राभिधानाद्ये । (Taittiriya Samhita 5-1-2-1) इत्येतत्र मन्त्रसामर्थ्येन प्राप्तस्य रचनादानस्य पुनर्ब्राह्मणवाक्यं विनियोजकमाम्नायते । तदेतत्तु न्यर्थमित्याशंक्योत्तरं सूत्रयति ॥
+> मन्त्रेण प्रतीतस्यैवार्थस्य ब्राह्मणे यत्पुनःश्रवणं तदेतच्चतुःसंख्यालक्षणगुणविधानार्थत्वेनोपयुज्यते । एतस्य विधानस्याभावे चतुर्णां मन्त्राणां मध्ये येन केनाप्येकेनाभ्रिरादीयेत । नन्विमामगृभ्णन्रशनामृतस्य (तै. सं. ४-१-२-१) इत्यश्वाभिधानीमादत्ते (तै. सं. ५-१-२-१) इत्यत्र मन्त्रसामर्थ्यादेव प्राप्तस्य रशनादानस्य पुनर्ब्राह्मणवाक्यं विनियोजकमाम्नायते । तदेतत्त्वन्मते व्यर्थमित्याशङ्क्योत्तरं सूत्रयति ॥
+> *mantreṇa pratītasyaivārthasya brāhmaṇe yat punaḥśravaṇaṃ tad etac catuḥsaṃkhyā-lakṣaṇa-guṇa-vidhānārthatvenopayujyate | etasya vidhānasyābhāve caturṇāṃ mantrāṇāṃ madhye yena kenāpy ekenābhrir ādīyeta | nanv imām agṛbhṇan raśanām ṛtasya (Taittiriya Samhita 4-1-2-1) ity aśvābhidhānīm ādatte (Taittiriya Samhita 5-1-2-1) ity atra mantra-sāmarthyād eva prāptasya raśanādānasya punar brāhmaṇa-vākyaṃ viniyojakam āmnāyate | tad etat tvanmate vyartham ity āśaṅkyottaraṃ sūtrayati ||*
 >
-> *(Jaimini's own resolution formula: where a mantra's meaning is restated in a Brahmana passage, that repetition serves the specific purpose of specifying a quantifying detail — here, the "fourfold" count — not otherwise established by the mantra alone. Precise word-level construction is difficult to render with full confidence at this resolution, though the overall doctrine is confirmed by the embedded English translation below.)*
+> *(The repetition in the Brāhmaṇa of a meaning already known from the mantra serves to enjoin a subsidiary detail, the number four; without it the abhri might be taken with any one of the four mantras. But in "imām agṛbhṇan raśanām ṛtasya … he takes the halter", where the taking of the halter already follows from the mantra's own power, the Brāhmaṇa sentence is again given as directing its use — on your view that is pointless; raising this doubt, he states the answer. Re-read from the better scan in the [?] pass.)*
 
 That is: where a mantra's own already-understood meaning is repeated in a Brahmana passage, that repetition is not redundant — it serves to specify a quantifying detail (here, that exactly four applications are required), a detail the mantra by itself leaves open, since without such specification, a priest might assume he had the option to use any single one of the four mantras referenced.
 
@@ -6887,10 +6891,10 @@ That is: the Brahmana's repetition here isn't redundant either — it implicitly
 
 ### Page 390
 
-> ...ज्ञेन च प्राप्तं गर्दभरशनाया आदानं बाध्येतेति त्रयो दोषाः । नैमं । गर्दभरशनाय अप्राप्तत्वात् । तथा हि । त्वे त्वे प्र-करण-पाठात्-स्थानात् सदृशत्वात् मन्त्रेणानादानं कुर्याद् इति वाक्यं परिषङ्ख्यते । तेन च वाक्येन मन्त्र-दानयोः संबन्धे सति अश्वादानेऽविधि-लिङ्गाधान-मात्रे श्वास्याभिधान-योके लिङ्गाद्रेशनामात्र-स्वादनपरिष्कृत गर्दभरशनायाः प्राप्तत्वार्थो ...
-> ...jñena ca prāptaṃ gardabharaśanāyā ādānaṃ bādhyeteti trayo doṣāḥ | naimaṃ | gardabharaśanāya aprāptatvāt | tathā hi | tve tve pra-karaṇa-pāṭhāt-sthānāt sadṛśatvāt mantreṇānādānaṃ kuryād iti vākyaṃ pariṣaṅkhyate | tena ca vākyena mantra-dānayoḥ saṃbandhe sati aśvādāne'vidhi-liṅgādhāna-mātre śvāsyābhidhāna-yoke liṅgādreśanāmātra-svādanapariṣkṛta gardabharaśanāyāḥ prāptatvārtho ...
+> …न्येन च प्राप्तं गर्दभरशनाया आदानं बाध्येतेति त्रयो दोषाः । नैवम् । गर्दभरशनाया अप्राप्तत्वात् । तथा हि । त्वत्पक्षे प्रकरणपाठान्यथानुपपत्त्या मन्त्रेणानेनादानं कुर्यादिति वाक्यं परिकल्प्यते । तेन च वाक्येन मन्त्रादानयोः संबन्धे सति पश्चात्किंविषयकमादानमिति वीक्षायां लिङ्गाद्रशनामात्रस्यादानमुपेत्य गर्दभरशनायाः प्राप्तिर्वक्तव्या । सा च विलम्ब्यत इत्यश्वाभिधानीमिति प्रत्यक्षेण वाक्येन । मन्त्रादानयोः संबन्धे सति लिङ्गाद्रशनामात्रे प्राप्तमादानमश्वाभिधानीमिति श्रुत्या विशेषे व्यवस्थाप्यते । ततो मन्त्रस्य निराकाङ्क्षत्वाद्गर्दभरशनाया अप्राप्तत्वान्नास्ति प्राप्तबाधः । अत एव निषेधार्थो न कल्प्यते । विध्यर्थश्च न त्यज्यते । तत्र कुतो दोषत्रयम् । ईदृशमप्राप्तिरूपमेव गर्दभरशनाया निवारणमभिप्रेत्य परिसंख्येति सूत्रितम् । ननूरु प्रथस्वेति प्रथयतीति ब्राह्मणस्य वैयर्थ्यं तदवस्थमेवेत्याशङ्क्योत्तरं सूत्रयति ॥
+> *…nyena ca prāptaṃ gardabharaśanāyā ādānaṃ bādhyeteti trayo doṣāḥ | naivam | gardabharaśanāyā aprāptatvāt | tathā hi | tvatpakṣe prakaraṇapāṭhānyathānupapattyā mantreṇānenādānaṃ kuryād iti vākyaṃ parikalpyate | tena ca vākyena mantrādānayoḥ saṃbandhe sati paścāt kiṃviṣayakam ādānam iti vīkṣāyāṃ liṅgād raśanāmātrasyādānam upetya gardabharaśanāyāḥ prāptir vaktavyā | sā ca vilambyata ity aśvābhidhānīm iti pratyakṣeṇa vākyena | mantrādānayoḥ saṃbandhe sati liṅgād raśanāmātre prāptam ādānam aśvābhidhānīm iti śrutyā viśeṣe vyavasthāpyate | tato mantrasya nirākāṅkṣatvād gardabharaśanāyā aprāptatvān nāsti prāptabādhaḥ | ata eva niṣedhārtho na kalpyate | vidhyarthaś ca na tyajyate | tatra kuto doṣatrayam | īdṛśam aprāptirūpam eva gardabharaśanāyā nivāraṇam abhipretya parisaṃkhyeti sūtritam | nanūru prathasveti prathayatīti brāhmaṇasya vaiyarthyaṃ tadavastham evety āśaṅkyottaraṃ sūtrayati ||*
 >
-> *(A dense technical Mimamsa argument on the "pariṣaṅkhyā" (exclusive specification) doctrine and its relationship to what the mantra literally establishes vs. what the Brahmana's word "takes" adds or restricts; precise phrase-level construction is very difficult to render with confidence at this resolution — the embedded English translation below is the more reliable guide to this passage's content.)*
+> *(The pariṣaṅkhyā argument: the taking of the ass's halter is never reached, because the explicit word "aśvābhidhānīm" restricts the taking to the horse's halter before the ass's halter could be reached; so nothing already reached is set aside, no prohibitive sense need be imagined and the injunctive sense is not abandoned — hence none of the three faults. Re-read from the better scan in the [?] pass.)*
 
 The sutra's meaning: "This Brahmana statement is a prohibitive injunction (niṣedha-vidhi)." Before following Sayanacharya's own argument, it helps to understand the classical Mimamsa taxonomy of injunctive statements (**vidhi**) — sentences prescribing that a given act be performed in a given way. Mimamsa authorities recognize three kinds:
 
