@@ -15535,13 +15535,15 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 **Sāyaṇācārya has explained "vājinī" as "possessing oblation-food"; likewise Skandasvāmin, in his own Vedabhāṣya, glosses "vājinī" as "sacrifice."** Veṅkaṭamādhava, in explaining this word, interprets "*asmai vāsayitārau — vājinīvasū*" — hence for "vājinī," the principal senses that may be entertained are: (1) food or nourishment, (2) strength, and (3) speed. **"Vāji" is taken by some to mean "horse."** **Roth**, the scholar, translates "vājinīvasū" as "possessing quick horses." Since this word "vājinīvasū" is used by many rishis when praising deities such as Indra and the Aśvins, no single fixed sense has been established for it; it was evidently in common use, and especially frequent in yajnas involving Soma-drinking, so it is reasonable to suppose that Soma-juice and foods of every sort were freely offered in such rites.
 
-**"Cetathaḥ"** — "you both know." **"Dravat"** — in the Nirukta (2-15.?), this word is listed among the sixteen or so words expressing "quickly, swiftly."
+**"Cetathaḥ"** — "you both know." **"Dravat"** — in the Nirukta (2-15-3), this word is listed among the sixteen or so words expressing "quickly, swiftly."
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Summarized.)* **"Vājinīvasū"** — although Yāska lists "vājinī" among the names of Uṣas, that sense does not fit here and is not adopted. "**Vājaḥ asyām asti**" — food is present in this: the affix "ini" is added after "vāja," and the "a" is dropped, then the feminine affix "ṅīp" is added, giving "vājinī." Then "vājinyāṃ vasataḥ" gives the compound "vājinīvasū," a vocative dual; and by the rule for vocatives, its accent becomes fully unaccented (*sarvānudātta*).
 
+*(All references printed on this page, in order (as read in the numeral review): 1-3, 1-48, 16, 1-92-13, 15, 7-75-5, 12-6, 1-92-13, 1-3-10, 11-26, 1, 2-15-3, 5-2-114, 6-4-148, 4-1-5, 8-1-19.)*
+
 ### Page 692 — Sūkta 2, The Sixth Mantra
 
-**"Dravat"** — Yāska lists this among the sixteen words meaning "quickly" ("*su kṣipraṃ makṣu dravat*," Nirukta 2-15.?). Hence here, by the rule for such words, the final syllable takes the udātta accent.
+**"Dravat"** — Yāska lists this among the sixteen words meaning "quickly" ("*su kṣipraṃ makṣu dravat*," Nirukta 2-15-3). Hence here, by the rule for such words, the final syllable takes the udātta accent.
 
 **॥ Iti prathamāṣṭake prathamādhyāye tṛtīyo vargaḥ ॥**
 *(Thus ends the third Varga of the first Adhyāya of the first Aṣṭaka.)*
@@ -15574,6 +15576,8 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 **Caveats:** the many Rigveda chapter-verse locators on pages 689–690 were too small to read reliably and were omitted or given only approximately; grammar sections remain summarized.
 **Target for next session:** continue from PDF page 721 / printed page 693 — the rest of Rik 2-6 (Pratipadārtha, Bhāvārtha, English) and Rik 2-7 onward (Mitra-Varuṇa).
 
+*(All references printed on this page, in order (as read in the numeral review): 26, 2-15-3, 1, 6, 2-28, 6-1-197, 4-16, 6-1-173, 12-7, 3-4-71, 2-2-18, 6-2-144, 6-2-49, 6-2-48, 6-2-139, 6-1-168.)*
+
 ### Page 693
 
 *(The page opens with the tail of the grammar for Rik 2-6, followed by a note on the application of the next three Riks, addressed to Mitra-Varuṇa.)*
@@ -15599,23 +15603,27 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 **"Niṣkṛtam"** — the Bhashyakara glosses this word as "saṃskṛtam" — that is, consecrated, purified. The authors of the Vedārtha-yatna say it simply means "Soma." **The scholar Geldner** takes it to mean "arranged/put in order," and **Grassmann**...
 
+*(All references printed on this page, in order (as read in the numeral review): 7-2, 7-5.)*
+
 ### Page 694
 
-**...[Geldner and Grassmann] take "niṣkṛta" to mean "the appointed place" or "the place of sacrifice."** That is: "niṣkṛta" = "that which has been completely prepared" — this is the right sense. The same sense holds in the Rik "*utā tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6[?]). **Other Riks where "niṣkṛta" occurs:**
+**...[Geldner and Grassmann] take "niṣkṛta" to mean "the appointed place" or "the place of sacrifice."** That is: "niṣkṛta" = "that which has been completely prepared" — this is the right sense. The same sense holds in the Rik "*utā tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6). **Other Riks where "niṣkṛta" occurs:**
 
-(1) *ratho ha vāṃ bhūri varṣaḥ kerikṛtsnā tāvato niṣkṛtam āgamiṣṭaḥ* (Rigveda 3-58-9[?])
-(2) *somo no jigāti gātuvid devānām eti niṣkṛtam* (Rigveda 9.?.?)
-(3) *baḷitthā deva niṣkṛtam ādityā yajataṃ bṛhat* (Rigveda 8.?.?)
-(4) *indra dṛhyasva pūras ti bhadrā te iti niṣkṛtam* (Rigveda 5.?.?)
-(5) *vāyor indrasya niṣkṛtam* (Rigveda 9.?.?)
-(6) *ukṣā mimāti prati yanti dhenavo devasya devīr upa yanti niṣkṛtam* (Rigveda 9-69-4[?])
-(7) *kanikradad vṛṣā hariḥ indrasya abhy eti niṣkṛtam* (Rigveda 9-100.?)
+(1) *ratho ha vāṃ bhūri varṣaḥ kerikṛtsnā tāvato niṣkṛtam āgamiṣṭaḥ* (Rigveda 3-58-9)
+(2) *somo no jigāti gātuvid devānām eti niṣkṛtam* (Rigveda 3-62-13)
+(3) *baḷitthā deva niṣkṛtam ādityā yajataṃ bṛhat* (Rigveda 5-67-1)
+(4) *indra dṛhyasva pūras ti bhadrā te iti niṣkṛtam* (Rigveda 8-80-7)
+(5) *vāyor indrasya niṣkṛtam* (Rigveda 9-13-1)
+(6) *ukṣā mimāti prati yanti dhenavo devasya devīr upa yanti niṣkṛtam* (Rigveda 9-69-4)
+(7) *kanikradad vṛṣā hariḥ indrasya abhy eti niṣkṛtam* (Rigveda 9-101-16)
 
 **In these Riks, "niṣkṛta" suggests a fixed place where the work of sacrifice is performed (the appointed place), or an established, prepared place.**
 
 **"Itthā"** — the Bhashyakara glosses it as "true" ("satya"). Skandasvāmin explains it: "*itthā amutaḥ*" — "from there" — that is, "from your own place, from the sky" [where you dwell]; Veṅkaṭamādhava glosses "itthā" as "in this manner."
 
-**"Dhiyā"** — the Bhashyakara glosses "amunā karmaṇā" — "by this rite." The Nighaṇṭu (Nirukta 2.?) lists "dhī" as meaning "action" (karma), which the commentators explain in the sense "perform, sacrifice." The authors of the Vedārtha-yatna say: "with our mindful (manaḥpūrvaka) stotra"; **Geldner**: "as we desire." Skandasvāmin and Veṅkaṭamādhava also give "by this rite." In the Nighaṇṭu "dhī" is listed as a synonym of "prajñā" (understanding), but that sense does not suit the present context. Since Madhuchandas and the others are performing the Agniṣṭoma at this moment, offering Soma to Indra-Vāyu in the morning pressing, "dhiyā" — "by this rite, or through this act, or by performing this act" — is the natural sense.
+**"Dhiyā"** — the Bhashyakara glosses "amunā karmaṇā" — "by this rite." The Nighaṇṭu (Nirukta 2-1-21) lists "dhī" as meaning "action" (karma), which the commentators explain in the sense "perform, sacrifice." The authors of the Vedārtha-yatna say: "with our mindful (manaḥpūrvaka) stotra"; **Geldner**: "as we desire." Skandasvāmin and Veṅkaṭamādhava also give "by this rite." In the Nighaṇṭu "dhī" is listed as a synonym of "prajñā" (understanding), but that sense does not suit the present context. Since Madhuchandas and the others are performing the Agniṣṭoma at this moment, offering Soma to Indra-Vāyu in the morning pressing, "dhiyā" — "by this rite, or through this act, or by performing this act" — is the natural sense.
+
+*(A further reference on this page is printed as 3-9-7 (as read in the numeral review).)*
 
 ### Page 695
 
@@ -15634,6 +15642,8 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 **"Niṣkṛtam"** — here, in the sense of "carefully purified/consummated" (Nirukta 4-2), "niḥ" is used; the word "niḥ" being used with the sense of "carefully purified," in the sense "carried through by no remainder," and the meaning is thus established according to the various usages. **"Niṣkṛta"** is derived from "niḥ" + "kṛta" ("kṛ," to make); the resulting compound is formed by the rule concerning gati-compounds beginning at (Panini 1-4-60), where "kṛ" in the sense of "action" takes "kṛt" affix. Since "niḥ" is an indeclinable used with the root "kṛ" in the sense of "beginning," it is properly usable in the sense of the compound now beginning, "niṣkṛtam" indicating "the appointed place where the offering is begun." **"Makṣu"** — the word "kaḥ" and others, according to their own grammatical class, along with the appropriate preceding or following elements, take the udātta accent — hence "makṣu" carries this accent...
 
 *(Caveat: the Vyākaraṇa-prakriyā section on this page was exceptionally dense and compressed even by the standard of these grammar sections, and the rendering above should be treated as a best-effort, lower-confidence reading rather than a reliable transcription — in particular the specific sutra attributions and some of the word-formation chains. The surrounding Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and Viśeṣārtha sections translated elsewhere in this project remain the more reliable material.)*
+
+*(All references printed on this page, in order (as read in the numeral review): 4, 7-2, 7-5, 6-1-198, 2-186, 6-1-197, 84, 6-1-173, 12-7, 3-4-71, 2-2-18, 6-2-2, 6-2-144.)*
 
 ### Page 696 — Sūkta 2, The Seventh Mantra
 
@@ -15663,6 +15673,8 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 *(The grammar continues in the dense register, working through "pūtadakṣam," "riśādasam," and "dhiyam ghṛtācīm.")*
 
+*(All references printed on this page, in order (as read in the numeral review): 6-2-49, 6-1-168, 7-1-39, 8-1-19, 6-1-32.)*
+
 ### Page 697
 
 *(The grammatical derivation of "pūtadakṣam," "varuṇam," "riśādasam" and "ghṛtācīm" continues here in the same dense sutra-citation register as before — covering the derivation of "riśādasam" from a root meaning "to eat/consume" combined with "riśa" [harm], and the accent-treatment of the compound "ghṛtācī." As with other pages of this density, the specific sutra-numbers are not reproduced verbatim; the overall senses already given in the Sāyaṇa-bhāṣya above — Mitra of pure strength, Varuṇa the devourer of the harmful — are confirmed by this derivation.)*
@@ -15676,6 +15688,8 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 **॥ Bhāvārthaḥ ॥**
 
 I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they may partake of the oblation. Among them, Mitra is of surpassing strength; his power knows no weakening. Varuṇa is mighty and destroys enemies. Moreover, in bringing about rain, Mitra and Varuṇa possess a particular capability. I invoke such Mitra and Varuṇa into this yajna, as the principal deities [of this Rik].
+
+*(All references printed on this page, in order (as read in the numeral review): 3-53, 3-1-135, 4-188, 8-2-5, 3-2-?, 59, 6-4-24, 4-1-62, 6-4-138, 6-3-138, 1-22, 6-1-161, 6-1-222, 3-2-124.)*
 
 ### Page 698
 
@@ -15764,7 +15778,7 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 **"Dhiyam"** — this word means an act of sacrifice, a rite. **Geldner** calls it "poem, composition" (Poem). Skandasvāmin, Veṅkaṭamādhava, and Sāyaṇa do not accept this. Skandasvāmin calls it "an act to be examined/investigated" (*vicāryaṃ karma*), and Sāyaṇa calls it "*varṣaṇa-karma*" (the rain-bringing rite). This is correct, because it is well established that Vṛṣṭi (rain) is brought about through the performance of yajnas in the Vedic period. **This sense is clearly evident in the Rik:**
 
 > यद्देवापिः शन्तनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥
-> *yaddevāpiḥ śantanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖* (Rigveda 10-98-7 [?]; verse re-read from the better scan in the [?] pass)
+> *yaddevāpiḥ śantanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖* (Rigveda 10-98-7; verse re-read from the better scan in the [?] pass)
 
 
 ---
@@ -15776,7 +15790,7 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 **...that is, Varuṇa causes lightning to occur through the day.** In the Rigveda too, elsewhere (several citations), it is said that Mitra-Varuṇa together summon the rain onto the earth. In the Nighaṇṭu, "udaka" (water) is included among the hundred-odd words listed as synonyms for water, in which "ghṛta" itself is one.
 
 > त आ अनश्रे रत्नान्युपैषु घृतेन पृथिवी व्यूद्ये ।
-> *ta ā anaśre ratnāny upaiṣu ghṛtena pṛthivī vyūdye |* (Rigveda 1-164-47[?])
+> *ta ā anaśre ratnāny upaiṣu ghṛtena pṛthivī vyūdye |* (Rigveda 1-164-47)
 
 **In this Rik, "ghṛtena pṛthivī vyūdye"** — "the earth is watered/moistened by ghṛta" — makes clear that "ghṛta" here means water (rain). **Yāska, in this context, discusses this word further.** Some Vedic-ritual scholars say that "ghṛta" means "flowing water" or "melted butter," and that whichever sense (water or ghee) is intended is decided by context — but that, in the present case, the sense of "water" clearly fits the surrounding sense.
 
@@ -15787,6 +15801,8 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 **"Sādhantā"** — the roots "ṛdh, dāri, uśan" (Uṇādi 1-99[?]) — "ṛdh" means to prosper/flourish, "dāri" means to split/divide, "uś" means to desire — these three roots take the "unan" affix; hence "uśan" [likewise elsewhere in this Rik] takes the same affix. Consequently, this affix, being accentless, shifts the accent to the syllable preceding it, giving the udātta placement seen in the printed text.
 
 *(Caveat: the Vyākaraṇa-prakriyā section above, like page 695 earlier, is a lower-confidence best-effort reading of very dense grammatical shorthand; the specific sutra attributions and derivational chains should not be relied upon without independent verification. The Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and Viśeṣārtha content translated on the surrounding pages remains the more solid material.)*
+
+*(All references printed on this page, in order (as read in the numeral review): 5-63-3, 5-85-3, 1-12-10, 100, 1-164-47, 164-47, 3-9-79, 2-4-73, 6-1-34, 6-1-32, 6-1-108, 6-4-77, 8-1-28, 6-2-1, 3-333.)*
 
 ### Page 703
 
@@ -15805,6 +15821,8 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 **"Nabhiṣayasyāsiṃvedhya"** (Phit-sutra 3-8) — the exception-rule for words ending in "in-antodātta"-class declension: **"Ghṛtādīnāṃ ca"** (Phit-sutra 3-6) — words of the "ghṛtādi" group take accent on the final syllable — hence "ghṛtāci" is confirmed as final-syllable accented (**ghṛtācī**), matching the accent shown in the printed text.
 
 *(Caveat: pages 702–703 together form an unusually long and dense stretch of Vyākaraṇa-prakriyā; the renderings above are best-effort and should be treated as lower-confidence, consistent with the standing caution applied to this register throughout the project.)*
+
+*(All references printed on this page, in order (as read in the numeral review): 3-1-135, 4-628, 6-2-139, 6-1-111, 8-2-5, 2-1-21, 3-2-59, 6-4-24, 4-1-6, 1-4-18, 5-3-70, 6-4-138, 6-3-138, 21.)*
 
 ### Page 704 — Sūkta 2, The Eighth Mantra
 
@@ -15828,6 +15846,8 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 **Progress: Through PDF page 732 (printed page 704) — 5-page batch (700–704).** Covered: the conclusion of the "dakṣa"/"riśādasa" Viśeṣārtha (comparing Sāyaṇa's, Veṅkaṭamādhava's, and several Western scholars' — Max Müller, Eggling, Grassmann, Hillebrandt, Ludwig — readings of "riśādasam"); the "ghṛtācī"/"dhiyam" discussion establishing the rain-bringing sense of the rite, with a supporting Nirukta citation on "ghṛta" as a water-synonym; and the extended, unusually dense grammatical derivation of "riśādasam" and "ghṛtācī" spanning pages 702–703 (flagged as lower-confidence, consistent with the project's standing caution for this register). The batch closes with the Saṃhitā and Pada texts of Rik 2-8 ("ṛtena mitrāvaruṇāv ṛtāvṛdhāv ṛtaspṛśā | kratuṃ bṛhantam āśāthe").
 **Target for next session:** continue from PDF page 733 / printed page 705 — Sāyaṇa's commentary, Pratipadārtha, Bhāvārtha and English translation of Rik 2-8.
 
+*(All references printed on this page, in order (as read in the numeral review): 6-2-2, 6-2-139, 6-4-138, 6-1-161, 6-1-222, 3-2-124, 3-1-73, 6-1-186, 7-1-70, 4-4-1, 6-1-162, 7-1-39.)*
+
 ### Page 705
 
 **॥ Sāyaṇa-bhāṣyam ॥**
@@ -15845,6 +15865,8 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 
 O Mitra and Varuṇa, you two are increasers of truth, and you uphold that truth; you accordingly bestow, without fail, the fruit that truly and certainly follows from this rite. You watch over this great sacrifice we now perform, so that it is duly and completely fulfilled.
 
+*(All references printed on this page, in order (as read in the numeral review): 2-25, 4-19, 6-3-26, 6-3-137, 2-1-2, 2-1-1, 1-96, 2-2-11-4, 8-1-72, 10-75-5, 8-1-73.)*
+
 ### Page 706
 
 *(The opening of this page continues the grammatical derivation of "ṛtāvṛdhau" and "ṛtaspṛśā" from the previous page, discussing accent-rules for vocative-adjacent compounds and citing further Rigveda parallels for the sense "increaser of truth." Given the density, this portion is not reproduced line-by-line.)*
@@ -15856,6 +15878,8 @@ O Mitra and Varuṇa, you two are increasers of truth, and you uphold that truth
 **॥ Bhāvārthaḥ ॥**
 
 O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abundantly available in the world; or, you cause dharma or the yajna to flourish, and through that bring about rain upon the earth. Therefore, come now to this great sacrifice we are performing — attended by many ritvijs, furnished with the materials needed for the rite, and thronged with many people amid great festivity — and graciously grant us its fruit.
+
+*(All references printed on this page, in order (as read in the numeral review): 2-1-1-11, 1-78, 3-4-6.)*
 
 ### Page 707
 
@@ -15875,6 +15899,8 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 **"Ṛtaspṛśā"** — the Bhashyakara explains this word as meaning "those who cause rain (vṛṣṭi) and are graciously disposed [toward it]"; and Vedic interpreters explain it as "defenders of Dharma" (**defending the Sacred law**). The German scholar Geldner explains it as "fosterers of truth" (**fosterers of truth**).
 
+*(All references printed on this page, in order (as read in the numeral review): 1-4, 2-25, 4-19, 10-190-1, 4-23-1.)*
+
 ### Page 708
 
 **Māthava [Veṅkaṭamādhava] explains "ṛtaspṛśau" as meaning "creators who establish truth."** His sense and Geldner's sense mutually agree. **Therefore, the sense "those who establish truth" is preferred here as the more suitable reading for "ṛtaspṛśau."**
@@ -15891,6 +15917,8 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 *(Caveat: the Vyākaraṇa-prakriyā above is, as usual for this register, a best-effort reading; specific sutra-numbers and derivational steps are lower-confidence.)*
 
+*(All references printed on this page, in order (as read in the numeral review): 1-1-5, 21, 2-2-29, 6-3-26, 8-2-7, 6-3-130, 7-1-39, 8-1-19.)*
+
 ### Page 709
 
 *(This entire page continues the Vyākaraṇa-prakriyā for "ṛtāvṛdhau," "ṛtaspṛśā," "mitrāvaruṇau," and related forms in the same extremely dense register — working through accent-retention rules for vocatives adjacent to compounds, and closing with remarks confirming that "ṛtena," "mitrāvaruṇā," and the other words of this Rik carry the accent-patterns already visible in the printed Saṃhitā text. Given the sustained density of this stretch (continuing directly the caveated material from the previous page), it is characterized here rather than translated line-by-line; nothing in it changes the senses already established in the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and Viśeṣārtha above.)*
@@ -15898,9 +15926,13 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 **Progress: Through PDF page 737 (printed page 709) — 5-page batch (705–709).** Completed Rik 2-8 in full: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, English translation (*"O Mitra and Varuna, augmenters of water, presenters of water, you attend this big sacrificial rite and grant us its true reward"*), and a substantial Viśeṣārtha weighing the sense of "ṛta" here (water vs. truth vs. the yajna) across several named commentators (Sāyaṇa, Skandasvāmī, Veṅkaṭamādhava/Māthava, the Vedārtha-yatna authors, and Geldner), concluding that "truth" fits best in context despite the well-known rain-association of Mitra-Varuṇa. The batch closes with two pages of unusually dense grammar (708–709) confirming the accent-patterns of "ṛtāvṛdhau," "ṛtaspṛśā," and "mitrāvaruṇau" — flagged as lower-confidence per standing practice.
 **Target for next session:** continue from PDF page 738 / printed page 710 — Rik 2-9, the sukta's closing verse.
 
+*(All references printed on this page, in order (as read in the numeral review): 2-1-2, 6-1-198, 2-1-1, 1-94, 2-2-11-4, 8-1-19, 8-1-72.)*
+
 ### Page 710
 
 *(This page continues the extended grammatical discussion from the previous two pages — now focused on "vāṃ mitrāvaruṇā" and the accent-behavior of "ṛtaspṛśā," "mitrāvaruṇā," and similar dual-vocative forms, with detailed citation of Panini and Phit-sutra rules on gaṇa-classification, "avidyamāna-pūrva-padārtha" (bahuvrīhi-type) compounds, and accent-retention. As with the preceding two pages, this is characterized rather than translated line-by-line, given its sustained density; the accent-patterns discussed match what is already visible in the printed Saṃhitā text above and do not alter any of the established senses.)*
+
+*(All references printed on this page, in order (as read in the numeral review): 10-75-5, 8-1-72, 8-1-73, 2-1-2, 2-1-2, 1-1.)*
 
 ### Page 711
 
@@ -15915,6 +15947,8 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 **"Āśāthe"** — means "pervades, extends toward." Following Bhaṭṭabhāskara's own gloss: from "aś" + "īta" [in the sense of "obtaining, reaching"] (Panini 8-2.?[?]), the word "dviktva" [reduplication] applies to roots such as "aś" (to eat/pervade); by "aś + īta = ahnate" ("obtains") (Panini 2-4.?), the form is elided [of a class-affix]. **"Ate adeśaḥ"** (Panini 2-4-80[?]) governs the substitution of "at" for the ending, and the resulting long vowel of the base [as printed]...
 
 *(Caveat: as with the preceding grammar-heavy pages, the "kratuḥ" and "āśāthe" derivations above are best-effort, lower-confidence readings.)*
+
+*(All references printed on this page, in order (as read in the numeral review): 2-1-1, 11, 1-77, 3-4-6, 6-1-8, 7-4-60, 7-4-70.)*
 
 ### Page 712 — Sūkta 2, The Ninth and Final Mantra
 
@@ -15942,6 +15976,8 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 **Translation:** "Mitra and Varuṇa, our deities, uphold and increase for our sake both 'dakṣa' (strength) and 'apas' (rite/action). What kind of pair are they? 'Kavī' — the two wise ones. 'Tuvijātau' — born so as to be helpers to many. 'Urukṣayau' — dwelling in a wide space, that is, both established with a broad, stable dwelling-place."
 
+*(All references printed on this page, in order (as read in the numeral review): 3-4-79, 7-4-72, 9, 6-2-141, 6-2-45, 3-3-56, 6-1-201.)*
+
 ### Page 713
 
 *(The Sāyaṇa-bhāṣya continues briefly with grammar notes on "dakṣam" and "apasam," in the established dense register.)*
@@ -15964,6 +16000,8 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 **"Tuvijātā"** — "uru" and "tuvi" are words both meaning "many"; since the meaning "helper of many" fits well in this context, most scholars explain "tuvi" as meaning "helper," or, in this same sense, "many." "Tuvi" carries the sense "**strong or mighty**." Given this sense, the word "tuvijātā" is here explained as meaning "born in the lineage of the strong," or "born of mighty parents" (**Born of strong...**
 
+*(All references printed on this page, in order (as read in the numeral review): 6-2-199, 4-207, 6-69-1.)*
+
 ### Page 714
 
 **...race)" — this sense too fits well. Geldner** takes the same sense; the Bhashyakara and other authors adopt the meaning drawn from Yāska's own explanation, since the meaning proposed here does not appear inconsistent with that.
@@ -15981,6 +16019,8 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 **"Mitrāvaruṇā"** — here, the word "Mitra" takes the accent of the accusative, connected with the Prātipadika accent-rule already discussed above. **"Varuṇaḥ"** — the derivation "**varṇāvarṇyor unan**" (Uṇādi 1-9[?]) is applied, giving "varuṇaḥ" from the root "vṛ" with the affix "unan," through the process of guṇa and other adjustments. **"Devatādvandve ca"** (Panini 6-3-26[?]) — in a dvandva-compound of deity-names, the first member retains its accent — hence the accent seen here.
 
 **"Uru" + "tuvi"** — Yāska's Nirukta (2.?.?) states this word "tuvi" among words meaning "many"; many rishis in similar contexts have used "tuvijāta" as a compound meaning "born to help many." "**Tuvīnāṃ jātaḥ = tuvijātaḥ**" — a genitive compound, resolving by regular sandhi rules...
+
+*(All references printed on this page, in order (as read in the numeral review): 3-333, 6-2-141, 3-1-1-3.)*
 
 ### Page 715
 
@@ -16071,3 +16111,5 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 *(Sample re-read from the better scan in the [?] pass — the earlier sample here was misread. The locators were read at ordinary resolution, not digit by digit; they belong to the index, which this translation does not transcribe in full.)*
 
 *(This appendix appears set to continue for a considerable number of pages, given its evident aim to index the Rigveda's full corpus of roughly ten thousand mantras. Given its reference-tool nature — a raw alphabetical concordance rather than narrative commentary — it would be worth confirming how you'd like this handled: transcribed in full over many further pages, sampled/characterized as here, or skipped in favour of returning directly to Sukta 3's verse-by-verse commentary and revisited later if needed.)*
+
+*(All references printed on this page, in order (as read in the numeral review): 1-4, 6-1-45, 3-3-56, 6-1-163, 6-1-201, 6-1-223, 6-2-139, 6-1-144, 6-2-199, 3-3-118, 4-646, 6-69-1.)*
