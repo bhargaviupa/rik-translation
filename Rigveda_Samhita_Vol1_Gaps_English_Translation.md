@@ -1132,7 +1132,7 @@ One reading of the *Caraṇa-vyūha* is as follows:
 > *etat pramāṇaṃ yajuṣāṃ hi kevalaṃ sabālakhilyaṃ saśukriyaṃ ||*
 > *brāhmaṇaṃ ca caturguṇam ||*
 >
-> "In the Vājasaneyaka the mantras are two thousand less a hundred; the group of ṛks is reckoned, [and] likewise the other yajus-mantras. Eight [thousand], hundreds, [and] twenty-eight [8828], others, and an additional *pāda*: this is the measure of the yajus [portion] alone, with the Bālakhilya and the Śukriya. And the Brāhmaṇa is fourfold." (The verse is given as printed; its words are compressed and the sense of the second line is uncertain [?].)
+> "In the Vājasaneyaka the mantras are two thousand less a hundred; the group of ṛks is reckoned, [and] likewise the other yajus-mantras. Eight [thousand], hundreds, [and] twenty-eight [8828], others, and an additional *pāda*: this is the measure of the yajus [portion] alone, with the Bālakhilya and the Śukriya. And the Brāhmaṇa is fourfold." (The verse is given as printed; its words are compressed; translation editorial and tentative, following the source's gloss below.)
 
 There is a slight difference between the reading of the *Caraṇa-vyūha* quoted above and the reading of the Purāṇa. According to the *Caraṇa-vyūha* there are in all 8820 and one *pāda* mantras in the Vājasaneya-saṃhitā.
 
@@ -1146,7 +1146,7 @@ In the fourth khaṇḍa of the *Pratijñā-pariśiṣṭa-sūtra*:
 > *ṛgbhir vibhaktaṃ sakhilaṃ saśukriyaṃ samasto yajūṃṣi ca*
 > *veda ||4||*
 >
-> "Of the Vājasaneyins: eight thousand, and other eight hundreds, are the measured [mantras]; divided by [the] ṛks, with the Khila and the Śukriya, [it contains] all the yajus-mantras and [the] Veda." (The words are as printed; the construction is not clear [?].)
+> "Of the Vājasaneyins: eight thousand, and other eight hundreds, are the measured [mantras]; divided by [the] ṛks, with the Khila and the Śukriya, [it contains] all the yajus-mantras and [the] Veda." (The words are as printed; translation editorial and tentative, following the source's gloss below (8800 mantras).)
 
 That is: in the Vājasaneya-saṃhitā there are 8800 mantras in all; that is, just the Yajurveda; and into this the Khila and the Śukriya adhyāyas are also included.
 

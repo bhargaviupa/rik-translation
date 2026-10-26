@@ -648,7 +648,7 @@ In total, the Rigveda contains 10,552 mantras. In Max Müller's printed edition 
 
 ### Page 13
 
-Counted this way, the suktas mentioned above have 64 mantras. Max Müller, however, taking "Dvipada" to be only the name of a meter, joined 2 half-mantras into one mantra so as to have 4 padas, and so reduced the 64 mantras to 32. This is not right, and he must later have realised that his method was not right: further on, the 10 mantras of sukta 29 [?] of the eighth Mandala and the 4 mantras of sukta 162 [?] of the tenth Mandala he printed correctly, not as before, treating each half-mantra as one mantra. Combining single mantras of one meter under a different classification (or the reverse) is not something traditional scholarship readily accepts. For this reason, the more defensible count is that the Rigveda contains 10,552 mantras, as given above.
+Counted this way, the suktas mentioned above have 64 mantras. Max Müller, however, taking "Dvipada" to be only the name of a meter, joined 2 half-mantras into one mantra so as to have 4 padas, and so reduced the 64 mantras to 32. This is not right, and he must later have realised that his method was not right: further on, the 10 mantras of sukta 29 of the eighth Mandala and the 4 mantras of sukta 172 of the tenth Mandala he printed correctly, not as before, treating each half-mantra as one mantra. Combining single mantras of one meter under a different classification (or the reverse) is not something traditional scholarship readily accepts. For this reason, the more defensible count is that the Rigveda contains 10,552 mantras, as given above.
 
 To restate: the Rigveda's ten Mandalas are divided into Anuvakas, and these into Suktas. Some suktas contain only a single mantra; others contain many. Generally, all mantras addressed uniformly to one deity are grouped as one sukta. For any Vedic mantra, one should be able to state its rishi, deity, and meter. Each sukta has one rishi (though a single rishi may be credited across many suktas). Apart from Mandalas 8 and 9, every other Mandala belongs to a single family/lineage of rishis.
 
@@ -1362,7 +1362,7 @@ The "Bashkala Samhita Krama" (बाष्कलसंहिताक्रम�
 | Rishi | Section begins | Reference | Section ends | Reference | Ending mantra's rishi |
 |---|---|---|---|---|---|
 | मधुच्छन्दा वैश्वामित्रः *(Madhuchchandā Vaiśvāmitraḥ)* | अग्निमीळे *(agnimīḷe)* | 1-1-1 | श्रुष्टिमंतं *(śruṣṭimaṃtaṃ)* | 1-93-12 | गोतमो राहूगणः *(Gotamo Rāhūgaṇaḥ)* |
-| कक्षीर्वा [?] औशिजः *(Kakṣīrvā [?] Auśijaḥ)* | नासत्याभ्यां *(nāsatyābhyāṃ)* | 1-116-1 | जुषध्वं *(juṣadhvaṃ)* | 1-139-11 | परुच्छेपो दैवोदासिः *(Parucchepo Daivodāsiḥ)* |
+| कक्षीर्वा [as printed] औशिजः *(Kakṣīrvā [as printed] Auśijaḥ)* | नासत्याभ्यां *(nāsatyābhyāṃ)* | 1-116-1 | जुषध्वं *(juṣadhvaṃ)* | 1-139-11 | परुच्छेपो दैवोदासिः *(Parucchepo Daivodāsiḥ)* |
 | कुत्स आंगिरसः *(Kutsa Āṅgirasaḥ)* | इमंस्तोम *(imaṃstoma)* | 1-94-1 | उतद्याः *(utadyāḥ)* | 1-115-6 | कुत्स आंगिरसः |
 | दीर्घतमा औचथ्यः *(Dīrghatamā Aucathyaḥ)* | वेदिषदेप्रिय *(vediṣadepriya)* | 1-140-1 | हरिश्रियं *(hariśriyaṃ)* | 8-50-10 | पुष्टिगुः काण्वः *(Puṣṭiguḥ Kāṇvaḥ)* |
 | भर्गः प्रागाथः *(Bhargaḥ Prāgāthaḥ)* | अग्न आयाह्य *(agna āyāhya)* | 8-60-1 | सोमस्यपीतये *(somasyapītaye)* | 8-94-12 | बिन्दुरांगिरसः *(Bindur-āṅgirasaḥ)* |
@@ -1834,7 +1834,7 @@ That is: Kahola was Uddalaka's son-in-law; his son Ashtavakra and Uddalaka's son
 
 ### 3. The Mahakaushitaka Shakha
 
-Cited in Ashvalayana and other Grihyasutra genealogies. The commentator "Anardiya-Brahmadatta" states directly that the final three chapters of the Sankhyayana Shrautasutra (14–16) were drawn (‖ 14-2-3 ‖, ‖ 14-10-1 ‖) by its author Suyajna from a distinct **Mahakaushitaki** source-text — implying this shakha had its own independent Brahmana. Vinayaka Bhatta's commentary on the Kaushitaki Brahmana cites this Mahakaushitaka Brahmana as an authority at seven separate points (3-4, 3-5, 3-7 [?], 18-14, 24-1, 24-2, 26-1).
+Cited in Ashvalayana and other Grihyasutra genealogies. The commentator "Anardiya-Brahmadatta" states directly that the final three chapters of the Sankhyayana Shrautasutra (14–16) were drawn (‖ 14-2-3 ‖, ‖ 14-10-1 ‖) by its author Suyajna from a distinct **Mahakaushitaki** source-text — implying this shakha had its own independent Brahmana. Vinayaka Bhatta's commentary on the Kaushitaki Brahmana cites this Mahakaushitaka Brahmana as an authority at seven separate points (3-4, 3-5, 3-7, 18-14, 24-1, 24-2, 26-1).
 
 
 ### Page 79 — 4. The Shambavya Shakha
@@ -1950,7 +1950,7 @@ The Brahmanda Purana (earlier section, ch. 34) states:
 
 | Source | Reading |
 |---|---|
-| Punjab University, no. 2416 [?] | पैजश्चेक्षलकस्तथा |
+| Punjab University, no. 2416 | पैजश्चेक्षलकस्तथा |
 | Dayananda College copy, no. 2811 | शपैष्वलकस्तथा |
 | Printed Vayu Purana (Anandashrama edition) | केतवोदालकस्तथा |
 | Printed Purana, variant 1 | कैजवो वामनस्तथा |
@@ -1959,7 +1959,7 @@ The Brahmanda Purana (earlier section, ch. 34) states:
 | Vishnu Purana, Bombay print | क्रौञ्चो वैतालकिः |
 | Vishnu Purana, Dayananda College copy no. 1850 | क्रौञ्जः पैलालकः |
 | Vishnu Purana, same, copy no. 2784 | क्रौञ्चः पैलानकः |
-| Vishnu Purana, same, copy no. 1260 [?] | क्रौञ्चो वैलालकिः |
+| Vishnu Purana, same, copy no. 1260 | क्रौञ्चो वैलालकिः |
 | Vishnu Purana, same, copy no. 4904 | क्रौञ्च पैलाककिः |
 | Printed Bhagavata (Madras edition) | शैजन्वैताल... |
 | Bhagavata commentator Vira-Raghava | शैंजवैताल... |
@@ -2278,7 +2278,7 @@ The Rigveda has two Brahmanas: the **Aitareya** and the **Kaushitaki** (also cal
 - **Adhyayas 15–17 (to khanda 5):** the Ukthya, Shodashi, Atiratra and other yagas.
 - **Adhyaya 17, khanda 6, to adhyaya 18, khanda 3:** the Gavamayana.
 - **Adhyaya 18, khandas 4 to 8:** the Adityanamayana and Angirasamayana.
-- **Adhyayas 18–24 [?]:** the Dvadashaha (twelve-day rite).
+- **Adhyayas 19–24:** the Dvadashaha (twelve-day rite).
 - **Adhyaya 25:** the Prayashchitta (atonement) rites the Yajamana must perform, the timing of the Agnishtoma, and the duties of the Brahma-priest.
 
 *(Ranges as printed.)*
@@ -2631,7 +2631,7 @@ These thirty-two, with one further name added, make the thirty-three rishis of t
 
 ### The Vasishthas — 8 [7 named]
 
-वसिष्ठ, शक्ति, पराशर, इन्द्रप्रमति, भरद्वसु, वैत्राहव्यावरुणि [?], कुण्डिन — *(Vasishtha, Shakti, Parashara, Indrapramati, Bharadvasu, Vaitrahavya-Varuni, Kundina)*. Among the Vasishthas is the rishi Parashara — father of Krishna-Dvaipayana, i.e., Veda-Vyasa himself, who holds (per the Brahma-sutra and the Mahabharata) that all the Vedas are eternal...
+वसिष्ठ, शक्ति, पराशर, इन्द्रप्रमति, भरद्वसु, मैत्रावरुणि, कुण्डिन — *(Vasishtha, Shakti, Parashara, Indrapramati, Bharadvasu, Maitravaruni, Kundina)*. Among the Vasishthas is the rishi Parashara — father of Krishna-Dvaipayana, i.e., Veda-Vyasa himself, who holds (per the Brahma-sutra and the Mahabharata) that all the Vedas are eternal...
 
 
 ### Page 182
@@ -2695,7 +2695,7 @@ It was noted at this chapter's outset that the rishis named for a given mantra a
 
 For this reason, these rishis are not always the first seers of the mantras attributed to them; it should firmly be understood that the mantra-corpus continued to receive additions over time. Moreover, once particular rishis' names became well known, mantras came to be primarily used in yajnas under those names — which explains why certain rishi-attributions became prominent regardless of true origin.
 
-The Veda's date cannot be fixed from these rishi genealogies alone. The Bhrigu- and Angirasa-lineage founders are known to have lived during the Mahabharata era, itself fixed at about 3139 BCE — placing the Vedas, which predate these founders, at 2000–2500 [?] BCE by this reasoning. Philologists, working from the discipline of Philology, instead estimate Vedic composition at roughly 2000–1500 BCE. Which figure is historically more accurate cannot be said with confidence, and philology itself is not fully reliable for fixing chronology — but it is clear that these named rishis are not the very first, and that earlier rishis likely composed the mantras before them; Vedic mantras should accordingly be understood as existing since beginningless time, used across whatever periods they were actually current.
+The Veda's date cannot be fixed from these rishi genealogies alone. Bhrigu, Angiras and the others are known as seers of the mantras; they lived thousands of years before the Mahabharata era, which is fixed at about 3139 BC. Since these seers are older still, the statement that the Vedas were composed in 2000–1500 BC is a mere delusion. The philologists' statement, following Philology, that the Vedas were composed in 2000–1500 BC is likewise improper. Which figure is historically more accurate cannot be said with confidence, and philology itself is not fully reliable for fixing chronology — but it is clear that these named rishis are not the very first, and that earlier rishis likely composed the mantras before them; Vedic mantras should accordingly be understood as existing since beginningless time, used across whatever periods they were actually current.
 
 ### Rishis Who Were Seers of the Mantras' *Meaning*
 
@@ -2852,7 +2852,7 @@ Whether rishis existed even in the Buddha's own time is debated, but it's clear 
 
 Counting forward from the Mahabharata era's ruling dynasty — Parikshit, Janamejaya, Shatanika, Ashvamedhadatta and others — their reigns spanned about 225 years. Toward the end, Ashvamedhadatta's son Adhisimakrishna performed a long sacrificial session (diksha-sattra). The Vayu Purana records:
 
-> असीमकृष्णे विक्रान्ते राजसूये अश्वसत्त्विषि । प्रशासति वां धर्मेण भूमिं भूमिपसत्तमे ॥ १२ ॥ ऋषयः संशितात्मानः सत्रे वर्तस्थपरायणाः । ऋज्जयेऽनस्सजके शान्ता दान्ता जितेन्द्रियाः ॥ १३ [?] ॥ धर्मक्षेत्रे कुरुक्षेत्रे दीर्घसत्रं त उज्जिरे । सत्याश्चीरे दृषद्वत्यां फल्ग्याः कुचिरोघसः ॥ १४ ॥
+> असीमकृष्णे विक्रान्ते राजसूये अश्वसत्त्विषि । प्रशासति वां धर्मेण भूमिं भूमिपसत्तमे ॥ १२ ॥ ऋषयः संशितात्मानः सत्रे वर्तस्थपरायणाः । ऋज्जयेऽनस्सजके शान्ता दान्ता जितेन्द्रियाः ॥ १३ ॥ धर्मक्षेत्रे कुरुक्षेत्रे दीर्घसत्रं त उज्जिरे । सत्याश्चीरे दृषद्वत्यां फल्ग्याः कुचिरोघसः ॥ १४ ॥
 >
 > *asīmakṛṣṇe vikrānte rājasūye aśvasattviṣi | praśāsati vāṃ dharmeṇa bhūmiṃ bhūmipasattame ॥ ṛṣayaḥ saṃśitātmānaḥ satre vartasthaparāyaṇāḥ | ṛjjaye'nassajake śāntā dāntā jitendriyāḥ ॥ dharmakṣetre kurukṣetre dīrghasatraṃ ta ujjire | satyāścīre dṛṣadvatyāṃ phalgyāḥ kucirogha­saḥ ॥*
 >
