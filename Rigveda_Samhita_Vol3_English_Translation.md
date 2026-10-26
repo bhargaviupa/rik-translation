@@ -7809,6 +7809,10 @@ On the basis of such passages one may say that this matter was widely told in th
 
 ---
 
+## ⚠ UNVERIFIED-CONTENT WARNING (added at audit)
+
+**Sūkta 29 Riks 6–7 (printed pp. 452–457) and all of Sūkta 30 (pp. 458–517) above were written while the page-image views were returning "[media removed: request limit]". They were therefore NOT transcribed from the pages.** The Rik texts follow the standard Ṛgveda from memory; the bhāṣya Sanskrit, grammar notes, Prati-padārtha, "English Translation (as printed)", Special Topics, page ranges, heading blocks and colophon lines in those sections are reconstructions and must not be relied on. Earlier progress notes and commit messages that implied otherwise were wrong. These sections must be redone from PDF pages 467–532 and appended as a superseding block. Sūktas 31–32 were written from viewed pages.
+
 ---
 
 **Progress note — Volume 3 complete: Sūktas 20–32 translated through the last leaf (printed p. 648 = PDF 663).**
