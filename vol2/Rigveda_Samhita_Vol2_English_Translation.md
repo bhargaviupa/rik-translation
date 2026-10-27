@@ -7022,9 +7022,9 @@ Those men who desire victory in battle, and offspring such as sons and grandsons
 
 ### Page 326 — Rik 6: Special Topics (continued); grammar
 
-**"Samohe"** — the word *samohe* is read among the forty-six battle-names beginning with *raṇa* (Nirukta 2-17 [?]).
+**"Samohe"** — the word *samohe* is read among the forty-six battle-names beginning with *raṇa* (Ni. 3-9).
 
-**"Tokasya"** — the word *tokam* is read among the fifteen words for "offspring" beginning with *tuk* (Nirukta 3-2 [?]).
+**"Tokasya"** — the word *tokam* is read among the fifteen words for "offspring" beginning with *tuk* (Ni. 3-2).
 
 **"Āśata"** — a form of the root *aśū vyāptau* ("to pervade, attain"). "To attain Indra" means to entreat Indra with praises and the like.
 
@@ -7036,27 +7036,27 @@ Those men who desire victory in battle, and offspring such as sons and grandsons
 
 **॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
 
-**समोहे (*samohe*)** — by the Phiṭ sūtra "phiṣaḥ" it takes the final accent of the base; **वा** and *ca* etc. are unaccented (Phiṭ sūtra, "vā cādayo 'nudāttāḥ" [?]). **आशत (*āśata*)** — root *aśū vyāptau* with *luṅ*; *cli* before *luṅ* (Pā. 3-1-43 [?]); Vedic loss of *cli*; *āṭ* augment for *luṅ/laṅ/lṛṅ* before a root with initial vowel (Pā. 6-4-71 [?]), which is udātta; *saty* *śiṣṭa-svara* keeps the accent; *vṛddhi* of *a+a* by *āṭaś ca* (Pā. 6-1-90 [?]) as a single substitute; *ā* is udātta; in the third plural ātmanepada *jha* → *at* (Pā. 7-1-5 [?]), giving *āśata*. **नरः (*naraḥ*)** — final-udātta by base accent. **सनितौ (*sanitau*)** — root *sana* with *ktin* by "striyāṃ ktin" (Pā. 3-3-94 [?]); the Vedic locative... *(Page 326 breaks off here; the grammar continues on p. 327.)*
+**समोहे (*samohe*)** — by the Phiṭ sūtra "phiṣaḥ" (फि. सू. १) it takes the final accent of the base; **वा** — unaccented by **चादयोऽनुदात्ताः** (फि. सू. १४४). **आशत (*āśata*)** — root *aśū vyāptau* with *luṅ*; *cli* before *luṅ* (पा. सू. ३-१-४३); Vedic loss of *cli*; *āṭ* augment for *luṅ/laṅ/lṛṅ* before a root with initial vowel (**आडजादीनाम्**, पा. सू. ६-४-७२), which is udātta; *saty* *śiṣṭa-svara* keeps the accent; *vṛddhi* of *a+a* by *āṭaś ca* (पा. सू. ६-१-९०) as a single substitute; *ā* is udātta; in the third plural ātmanepada *jha* → *at* (पा. सू. ७-१-५), giving *āśata*. **नरः (*naraḥ*)** — final-udātta by base accent. **सनितौ (*sanitau*)** — root *sana* with *ktin* by "striyāṃ ktin" (पा. सू. ३-३-९४); though **तितुत्रतथसिसुसरकसेषु च** (पा. सू. ७-२-९) … *(continues on p. 327)*
 
 ### Page 327 — Rik 6 grammar closes; Sūkta 8, Rik 7
 
 **॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
 
-Continuing the grammar of Rik 6: **सनितौ (*sanitau*)** — the *ktin* abstract; the augment *iṭ* is not blocked here by "tiśutrgrahādīnām" (Pā. 7-2-9 [?]: *ti*, *śu*, *tra* before *grahādi* roots) because the *grahādi* group is an *ākṛti-gaṇa*, so *iṭ* arises as in *nigṛhīti*, *niparīti*. **विप्रासः (*viprāsaḥ*)** — *vipra* is formed with *ran* by an Uṇādi *nipātana* ("ṛjrendrāgra-vipra…", Uṇ. 2-[?]), hence final-/initial-udātta by the suffix; the Vedic *asuk* augment in the nominative plural (Pā. 7-1-50 [?]). **धियायवः (*dhiyāyavaḥ*)** — *dhi dhāraṇe*; *dhiyam ātmana icchati* → *kyac* by "supa ātmanaḥ kyac" (Pā. 3-1-8 [?]); Vedic *kyāc* (Pā. 3-2-170 [?]) giving the *u*-suffix after roots ending in *kyac*/*kyaṣ*/*kyaṅ*; the loss of *a* by "ato lopaḥ" (Pā. 6-4-48 [?]); final-udātta by the suffix; nominative plural *dhiyāyavaḥ*. *(Sūtra numbers read from small print; pointers only.)*
-
-**॥६॥**
+*(Page header: "A. 1, A. 1, Va. 16." Numbers as printed.)* Continuing **सनितौ**: … here the "iṭ" would be forbidden; but by the vārttika **तितुत्रेष्वग्रहादीनाम्** (पा. सू. ७-२-९, भा. वा. १) the prohibition does not apply to "ti, tu, tra" after the "grahādi" roots; the "grahādi" list is an ākṛtigaṇa, so here too the prohibition does not apply, as in "nigṛhītiḥ, nipaṭhitiḥ." **विप्रासः** — "ṛjrendrāgravipra…" (उ. सू. २-१८६) forms "vipra" with "ran" by nipātana, so first-syllable acute by the "n"-mark; in the nominative plural **आज्जसेरसुक्** (पा. सू. ७-१-५०) "asuk." **धियायवः** — "dhi dhāraṇe": "dhīyate dhāryate 'vabudhyate śrutam arthajātaṃ sarvam anayā iti dhiyā prajñā"; "dhiyam ātmana icchati": **सुप आत्मनः क्यच्** (पा. सू. ३-१-८) "kyac"; **क्याच्छन्दसि** (पा. सू. ३-२-१७०) "u" in the "tācchīlya" senses after roots ending in "kyac, kyaṣ, kyaṅ" and the kaṇḍvādi "yak"; **अतो लोपः** (पा. सू. ६-४-४८) the loss of "a" before an ārdhadhātuka: "dhiyāyu," end-acute by the affix accent; nominative plural "dhiyāyavaḥ." **॥६॥**
 
 ---
 
 ### Page 327 — Sūkta 8, Rik 7
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यः कुक्षिः सोमपातमः समुद्र इव पिन्वते ।
-> उर्वीरापो न काकुदः ॥७॥
+> यः कु॒क्षिः सो॑म॒पात॑मः समु॒द्र इ॑व॒ पिन्व॑ते ।
+> उ॒र्वीरापो॒ न का॒कुदः॑ ॥७॥
 >
-> *yaḥ kukṣiḥ somapātamaḥ samudra iva pinvate |*
-> *urvīr āpo na kākudaḥ ||7||*
+> *yáḥ kukṣíḥ somapā́tamaḥ samudrá iva pínvate |*
+> *urvī́r ā́po ná kākúdaḥ ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
