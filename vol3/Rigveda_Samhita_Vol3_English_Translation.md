@@ -1216,53 +1216,71 @@ In this ṛk the ṛṣi addresses the people, that is, the priests engaged in p
 
 ---
 
-### Pages 50–53 — Sūkta 21, Rik 3
+### Page 50 — Sūkta 21, Rik 3
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ता मित्रस्य प्रशस्तय इन्द्राग्नी ता हवामहे ।
-> सोमपा सोमपीतये ॥३॥
+> ता मि॒त्रस्य॒ प्रश॑स्तय इन्द्रा॒ग्नी ता ह॑वामहे ।
+> सो॒म॒पा सोम॑पीतये ॥३॥
 >
-> *tā mitrasya praśastaya indrāgnī tā havāmahe |*
-> *somapā somapītaye ||3||*
+> *tā mitrásya práśastaya indrāgnī́ tā́ havāmahe |*
+> *somapā́ sómapītaye ||3||*
+
+*(Bars under मि and स्य (मित्रस्य) and द्रा; strokes over श (प्रशस्तय) and ह (हवामहे). Line 2: bars under सो and म (सोमपा), stroke over म (सोमपीतये).)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > ता । मित्रस्य । प्रऽशस्तये । इन्द्राग्नी इति । ता । हवामहे ॥
 > सोमऽपा । सोमऽपीतये ॥३॥
 >
-> *tā | mitrasya | pra-śastaye | indrāgnī iti | tā | havāmahe ||*
-> *soma-pā | soma-pītaye ||3||*
+> *tā | mitrasya | pra 'śastaye | indrāgnī iti | tā | havāmahe ||*
+> *soma 'pā | soma 'pītaye ||3||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 50; compressed; [?] marks doubtful readings)*
-
-> मित्रस्य स्नेहविषयस्य ममानुष्ठातुः प्रशस्तये ता पूर्वोक्तौ देवौ सम्पद्येतामिति शेषः । यद्वा । मित्रस्य मम सम्बन्धिनौ ताविन्द्राग्नी प्रशस्तये प्रशंसितुमिच्छामः इति शेषः । सोमपा सोमपानक्षमौ ता पूर्वोक्तावेन्द्राग्नी सोमपीतये सोमपानार्थं हवामहे । आह्वयामः ॥ प्रशस्तये । तुमर्थाच्च भाववचनात् । पा. [३-४-१४] । इति चतुर्थी । कृदुत्तरपदप्रकृतिस्वरत्वं बाधित्वा ताद्यौ च निति कृत्यतौ । पा. [६-२-५०] । इति गतेः प्रकृतिस्वरत्वम् । सोमपीतये । सोमस्य पीतिरस्मिन्कर्मणि तस्मै । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । सोमस्य पीतिरिति तत्पुरुषे वा दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
+> मित्रस्य स्नेहविषयस्य ममानुष्ठातुः प्रशस्तये ता पूर्वोक्तौ देवौ संपद्येतामिति शेषः । यद्वा । मित्रस्य मम संबन्धिनौ ताविन्द्राग्नी प्रशस्तये प्रशंसितुमिच्छाम इति शेषः । सोमपा सोमपानक्षमौ ता पूर्वोक्ताविन्द्राग्नी सोमपीतये सोमपानार्थं हवामहे । आह्वयामः ॥ प्रशस्तये । तुमर्थाच्च भाववचनात् । पा० २-३-१५ । इति चतुर्थी । कृदुत्तरपदप्रकृतिस्वरत्वं बाधित्वा तादौ च निति कृत्यतौ । पा० ६-२-५० । इति गतेः प्रकृतिस्वरत्वम् । सोमपीतये । सोमस्य पीतिर्यस्मिन्कर्मणि तस्मै । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सोमस्य पीतिरिति तत्पुरुषे वा दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
 >
-> *mitrasya sneha-viṣayasya mamānuṣṭhātuḥ praśastaye tā pūrvoktau devau sampadyetām iti śeṣaḥ | yadvā | mitrasya mama sambandhinau tāv indrāgnī praśastaye praśaṃsitum icchāmaḥ iti śeṣaḥ | somapā somapāna-kṣamau tā pūrvoktāv aindrāgnī somapītaye somapānārthaṃ havāmahe | āhvayāmaḥ || praśastaye | tumarthāc ca bhāva-vacanāt | pā. [3-4-14] | iti caturthī | kṛd-uttarapada-prakṛti-svaratvaṃ bādhitvā tādyau ca niti kṛtyatau | pā. [6-2-50] | iti gateḥ prakṛti-svaratvam | somapītaye | somasya pītir asmin karmaṇi tasmai | bahuvrīhau pūrvapada-prakṛti-svaratvaṃ | somasya pītir iti tatpuruṣe vā dāsībhārāditvāt pūrvapada-prakṛti-svaratvam ||*
+> *mitrasya snehaviṣayasya mamānuṣṭhātuḥ praśastaye tā pūrvoktau devau saṃpadyetāmiti śeṣaḥ | yadvā | mitrasya mama saṃbandhinau tāvindrāgnī praśastaye praśaṃsitumicchāma iti śeṣaḥ | somapā somapānakṣamau tā pūrvoktāvindrāgnī somapītaye somapānārthaṃ havāmahe | āhvayāmaḥ || praśastaye | tumarthācca bhāvavacanāt | pā0 2-3-15 | iti caturthī | kṛduttarapadaprakṛtisvaratvaṃ bādhitvā tādau ca niti kṛtyatau | pā0 6-2-50 | iti gateḥ prakṛtisvaratvam | somapītaye | somasya pītiryasminkarmaṇi tasmai | bahuvrīhau pūrvapadaprakṛtisvaratvam | somasya pītiriti tatpuruṣe vā dāsībhārāditvātpūrvapadaprakṛtisvaratvam ||*
 
-**Translation:** "For the *praśasti* — the praise — of [me,] the *mitra* (the friend), the performer who is the object of affection: may those two gods, spoken of before, come to be [present] (*sampadyetām*, supplied). Or: those two, Indra and Agni, who are connected with me, the friend — we wish to praise them for the sake of praise (supplied). *Somapā* — able to drink soma: those same two, Indra and Agni, we invoke (*havāmahe*) for the *somapīti* — for the drinking of soma." The grammar, noted briefly: *praśastaye* (the fourth case by P. 3-4-14 [*tumarthāc ca bhāvavacanāt* — as read P. 2-3-15] after a noun in the sense of an infinitive; the accent of the prefix by P. 6-2-50, overriding the *kṛt*-final accent); *somapītaye* (a bahuvrīhi 'that in which there is a drinking of soma'; the first-member accent; or a tatpuruṣa, with the first-member accent by the *dāsībhārādi* class). *(Grammar, noted briefly; numerals as read, pointers only.)*
+**Translation:** "*Mitrasya*, of the friend — of me, the performer, the object of affection — *praśastaye*, for the praise, may *tā*, those two gods spoken of before, come to be [ours]: *sampadyetām* is to be supplied. Or: those two, Indra and Agni, connected with me, the *mitra*, we wish to praise (*praśastaye*): 'we wish' is to be supplied. *Somapā*, able to drink soma, *tā*, those two, Indra and Agni, spoken of before, we *havāmahe*, call, *somapītaye*, for the drinking of soma." (Grammatical tail: *praśastaye*, the fourth case by *tumarthāc ca bhāvavacanāt* (Pā. 2-3-15); overriding the accent of a *kṛt* final member, the prefix keeps its own accent by *tādau ca niti kṛty atau* (Pā. 6-2-50); *somapītaye*, 'for the rite in which there is a drinking of soma', a bahuvrīhi with the first member's accent; or, as the tatpuruṣa 'drinking of soma', the first member's accent because it belongs to the *dāsībhāra* class.)
 
-**Grammar pages (pp. 51–53 upper), noted briefly.** The Kannada treats *praśastaye* (*śaṃsu stutau* of the first class with the prefix *pra*; under the *adhikāra* *bhāve* [P. 3-3-18], *striyāṃ ktin* P. 3-3-94 gives *ktin*; with a verbal-action word as upapada *bhāvavacanāś ca* P. 3-3-11 allows *ktin* [the Kannada reads the sūtra *bhāvavacanāś ca* as permitting an action-noun in the sense of the infinitive]; the *iṭ* is barred by *titutratathasisusarakaseṣu ca* P. 7-2-9; the nasal *n* of *śaṃs* dropped by *anidītāṃ hala upadhāyāḥ kṅiti* P. 6-4-24, the Kannada noting that, by the saying 'for the roots with *ṅ*/*ñ*… the *anusvāra* in place of *n* by *naś cāpadāntasya jhali* P. 8-3-24 gives *śaṃs*, and that *anusvāra* is invisible [*asiddha*] when the penultimate *n* is dropped by *pūrvatrāsiddham* P. 8-2-1, so the *n* is dropped in the manner stated before; compound with *pra* by *kugatiprādayaḥ* P. 2-2-18; the fourth case by *tumarthāc ca bhāvavacanāt* P. 2-3-15 [the Kannada's reading: the fourth case after a noun that stands for an infinitive, with *tumun*, *ṇvul* in the future sense by P. 3-3-10 *tumunṇvulau kriyāyāṃ kriyārthāyām*; examples *bhokṣye vrajati*, *bhojako vrajati*]; the long discussion of the clause *tumarthāt* and *bhāvavacanāt* and of the need of the supplied word *sampadyetām* [the Kannada: since the sentence has *sampadyetām* as its verb, 'praise' is its goal, and since the action-noun *praśasti* stands for the activity *prāśaṃsārūpa-kriyā*, the *ktin* is by *bhāvavacanāś ca*; the word *tumarthāt* says the fourth case follows a noun in the sense of an infinitive; in the second construction — with 'we wish' [*icchāmaḥ*] supplied — the fourth case is by the same rule since the wish-action is the upapada]; the accent by *gatikārakopapadāt kṛt* P. 6-2-139 would give end-accent, but this is overridden by *tād au ca niti kṛtyatau* P. 6-2-50 [as read] which gives the prefix its natural accent before a *t*-initial *kṛt* with *n*-less marks; *pra* is first-syllable accented by *upasargāś cābhivarjam*), and *somapītaye* (a *vyadhikaraṇa* bahuvrīhi 'that in which is a drinking of soma', with the first-member accent by P. 6-2-1; also, if analysed as a tatpuruṣa 'drinking of soma', the first-member accent holds by P. 6-2-42 [*kuru-gārhapata-rikta-guru-asūta-jaratī-aśleṣa-dṛḍha-rūpā-pārevaḍavā-taikila-kadrū-paṇya-kambalo dāsībhārāṇāṃ ca*, as printed, *dāsībhārādi* list]). ॥3॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 50)*
-
-**ता (tā)** — those Indra and Agni deities | **मित्रस्य (mitrasya)** — of the friend [the sacrificer, who is the object of affection] | **प्रशस्तये (praśastaye)** — for praise (for the sake of the aim [of praise]) | **सोमपा (somapā)** — soma-drinkers | **ता इन्द्राग्नी (tā indrāgnī)** — those Indra and Agni | **सोमपीतये (somapītaye)** — for drinking soma | **हवामहे (havāmahe)** — we invoke.
+**ता (tā)** — those Indra and Agni | **मित्रस्य (mitrasya)** — of the one who is dear (the sacrificer) | **प्रशस्तये (praśastaye)** — for (the purpose of) praise; we make the hymn | **सोमपा (somapā)** — who drink soma | **ता इन्द्राग्नी (tā indrāgnī)** — those Indra and the other | **सोमपीतये (somapītaye)** — for drinking soma | **हवामहे (havāmahe)** — we call.
 
 **॥ Bhāvārthaḥ ॥**
 
-We invoke the soma-drinking Indra and Agni to drink soma. May they, having drunk and been satisfied, become the cause of praise for our friend, the sacrificer.
+We call Indra and Agni, who drink soma, to drink soma. Having drunk the soma and being satisfied, may they become the cause of praise for the sacrificer, our friend.
+
+### Page 51 — Rik 3: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > For the benefit of our friend (worshipper) we invoke Indra and Agni, drinkers of Soma juice, to drink the Soma libation.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 51)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**ता मित्रस्य प्रशस्तये (tā mitrasya praśastaye)** — since in this sentence there is no verb, the commentator says that the verb *gāyata* ('sing') of the previous rik must be supplied (*adhyāhāra*). Then the sentence means: "Praise (that is, sing) those Indra and Agni for the prosperity (for the sake of the purpose) of our (your) friend the sacrificer."
+**ता मित्रस्य प्रशस्तये (tā mitrasya praśastaye)** — since there is no verb in this sentence, the commentator says that the verb *gāyata* of the previous ṛk must be supplied (*adhyāhāra*). Accordingly the sentence means: praise, that is, make a hymn to, those Indra and Agni for the prosperity (for the sake) of the sacrificer, our (your) friend.
 
-In this rik the word *tā* occurs twice; and in *somapā somapītaye* too the matter of soma-drinking is repeated. Such usages are seen in places in the Ṛgveda. Perhaps they are used for the sake of the metre, or perhaps such repeated expressions were current, following the usage of the speech of the community of that time.
+In this ṛk the word *tā* occurs twice. And in *somapā somapītaye* too the matter of soma-drinking comes with repetition. Such usages are seen here and there in the Ṛgveda, especially. Such repeated usages may have been current either for the sake of the metre or following the usage of the language of that time.
+
+*(The Kannada note says the bhāṣya supplies* gāyata*; the bhāṣya as printed on p. 50 supplies* sampadyetām *or "we wish". Both as printed.)*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**प्रशस्तये (praśastaye)** — the root *śaṃsu stutau* of the first class, with the prefix *pra*. After it, *ktin* having been laid down by *striyāṃ ktin* (Pā. Sū. 3-3-94) under the heading *bhāve* (Pā. Sū. 3-3-18), when an action for the sake of another action is the *upapada*, the suffix *ktin* comes by the sūtra *bhāvavacanāś ca* (Pā. Sū. 3-3-11). Since there is a prohibition in *titutratathasisusarakaseṣu ca* (Pā. Sū. 7-2-9), the augment *iṭ* does not come. By *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24) the penultimate *n* is dropped. [On the objection:] by the saying *nakārajāv anusvārapañcamau jhali dhātuṣu*, in place of *n* the *anusvāra* comes by *naś cāpadāntasya jhali* (Pā. Sū. 8-3-24), the form being *śaṃs*; this *anusvāra* is *asiddha* by *pūrvatrāsiddham* (Pā. Sū. 8-2-1) when the penultimate *n* is dropped, so the *n* is present, and its dropping comes in the manner stated before. By *kugatiprādayaḥ* (Pā. Sū. 2-2-18) the compound with *pra* gives *praśasti*. After this the fourth case comes by *tumarthāc ca bhāvavacanāt* (Pā. Sū. 2-3-15). By *tumunṇvulau kriyāyāṃ kriyārthāyām* (Pā. Sū. 3-3-10), when an action meant for another action is the *upapada*, the suffixes *tumun* and *ṇvul* come after the root in the future sense; examples: *bhoktuṃ vrajati*, *bhojako vrajati*; in both examples, the future action of eating being the purpose, *vrajati* —
+
+### Page 52 — Rik 3: grammar (continued)
+
+— the action is the *upapada*; so *tumun* and *ṇvul* have come after the root *bhuj* as alternatives. In *tumarthāt* the analysis is *tumaḥ artha iva artho yasya saḥ*: 'that which conveys the sense the suffix *tumun* has' is the word-meaning; and with *bhāvaḥ kriyā, ucyate 'nena iti vacanaḥ, bhāvasya vacanaḥ, tasmāt*, it means 'expressing an action' (*kriyāvācinaḥ*). The word *pratyayāt* must be supplied (*adhyāhāra*: *vivakṣitavākyārthapūrakapadānusandhānam adhyāhāraḥ*). Here, since by the rule *avyayakṛto bhāve* the suffix *tumun* is laid down only in the sense of the action itself, the action-sense is established by *tumarthāt* alone; so the further mention of the word *bhāvavacana* is for taking a particular sūtra; that is, *bhāvavacanāt* is meant to say 'laid down by the sūtra *bhāvavacanāś ca* (Pā. Sū. 3-3-11)'; *bhāvavacanāś ca* means that the suffixes *ghañ* and the rest, laid down under the heading *bhāve* (Pā. Sū. 3-3-18), come in the future sense also when an action meant for another action is the *upapada*; example *yāgāya yāti*. In *pratyayāt*, by the *pratyayagrahaṇa-paribhāṣā*, what ends in it is obtained. So the sense of the sūtra: after nominal stems ending in those suffixes which have the same sense as the suffix *tumun* and are laid down by the sūtra *bhāvavacanāś ca*, the fourth case comes. If the word *tumarthāt* were not there, *bhāvavacanāt* would mean 'after one with the action-sense'; then in places like *pākaḥ*, *tyāgaḥ*, where *ghañ* has come by *bhāve* and there is the action-sense, the fourth case would have to come here too; *tumarthāt* establishes 'when an action meant for another action is the *upapada*'; here, there being no other action meant for it, the fourth case does not come. If *bhāvavacanāś ca* were not there, in *pācako vrajati* the word ending in the suffix *ṇvul* has a suffix with the same sense as *tumun*, so the fourth case would have to come; so *bhāvavacanāt* is needed. With it, since *ṇvul* is not laid down under the heading *bhāve*, *pāka* [as printed; for *pācaka*] does not have as its last part a suffix laid down by the sūtra *bhāvavacanāś ca*, so the fourth case does not come. So both *tumarthāt* and *bhāvavacanāt* serve to obtain the meaning stated. In the present case, in the explanation *tau mitrasya praśastaye sampadyetām*, *sampadyetām* is the action that is the purpose; that is, the *praśasti* arises for the performer only after the deities Indra and Agni spoken of before have come; so the *sampatti* serves the action of praising; therefore, the action of *sampatti* meant for the praising-action being the *upapada*, *ktin* comes by *bhāvavacanāś ca*. In the second explanation, the action of wishing being the *upapada*, —
+
+### Page 53 (upper) — Rik 3: grammar (end)
+
+— after *praśaṃs*, *ktin*; so *praśasti*, ending in the suffix *ktin*, having the same sense as the suffix *tumun* and laid down by the sūtra *bhāvavacanāś ca*, takes the fourth case after it by the sūtra *tumarthāt* etc. By *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the accent of the *kṛt* final member would be obtained; overriding it, by *tādau ca niti kṛty atau* (Pā. Sū. 6-2-50) — when a *kṛt* suffix other than *tu*, beginning with *t* and without the marker *n*, follows, the *gati* immediately before keeps its own accent — the first member keeps its own accent; by *upasargāś cābhivarjam*, *pra* is accented on its first syllable.
+
+**सोमपीतये (somapītaye)** — *somasya pītir yasmin karmaṇi tasmai*: a bahuvrīhi; by *bahuvrīhau prakṛtyā pūrvapadam* the first member keeps its own accent. Even if the tatpuruṣa *somasya pītiḥ* is made, by *kuru gārhapata riktagurvasūtajaratyaślīla dṛḍharūpā pārevaḍavā taitilakadrūḥ paṇyakambalo dāsībhārāṇāṃ ca* (Pā. Sū. 6-2-42) — the first members of these seven compounds and of the words in the *dāsībhārādi* class keep their own accent — the first member keeps its own accent. ॥3॥
+
+---
 
 ### Pages 53–55 — Sūkta 21, Rik 4
 
