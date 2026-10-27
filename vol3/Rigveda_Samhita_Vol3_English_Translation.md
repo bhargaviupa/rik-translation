@@ -140,57 +140,103 @@ That those called Ṛbhus were men formerly and attained divinity by their excel
 
 ---
 
-### Pages 5–8 — Sūkta 20, Rik 2
+### Page 5 (lower) — Sūkta 20, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> य इन्द्राय वचोयुजा ततक्षुर्मनसा हरी ।
-> शमीभिर्यज्ञमाशत ॥२॥
+> य इन्द्रा॑य वचो॒युजा॑ ततक्षु॒र्मन॑सा॒ हरी॑ ।
+> शमी॑भिर्य॒ज्ञमा॑शत ॥२॥
 >
-> *ya indrāya vacoyujā tatakṣur manasā harī |*
-> *śamībhir yajñam āśata ||2||*
+> *ya índrāya vacoyújā tatakṣur mánasā hárī |*
+> *śámībhiryajñámāśata ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > ये । इन्द्राय । वचःऽयुजा । ततक्षुः । मनसा । हरी इति ॥
 > शमीभिः । यज्ञम् । आशत ॥२॥
 >
-> *ye | indrāya | vacaḥ-yujā | tatakṣuḥ | manasā | harī iti ||*
+> *ye | indrāya | vacaḥ 'yujā | tatakṣuḥ | manasā | harī iti ||*
 > *śamībhiḥ | yajñam | āśata ||2||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 5; compressed; [?] marks doubtful readings)*
-
-> ये ऋभव इन्द्रायेन्द्रप्रीत्यर्थं वचोयुजा ताडनादिकं विना वाङ्मात्रेण रथे युज्यमानौ सुशिक्षितौ हरी एतन्नामकावश्वौ मनसा ततक्षुः सम्पादितवन्तः । ऋभूणां सत्यसंकल्पत्वात्त्वष्टृत्वं [?] संकल्पमात्रेणेन्द्रस्याश्वौ सम्पन्नाविव्यर्थः । ते ऋभवः शमीभिर्ग्रहचमसादिनिष्पादनरूपैः कर्मभिर्यज्ञमस्मदीयमाशत । व्याप्तवन्तः । अपोज्योतिर्जन्मेत्यादिषु षट्त्रिंशतिसंख्याकेषु कर्मनामसु शमी शमि इति पठितम् ॥ वचोयुजा । वचसा युञ्जाते । सत्सूद्विषेत्यादिना क्विप् । सुपां सुलुगित्यादिना विभक्तेः [आकारादेशः] । … ततक्षुः । तक्षू त्वक्षू तनूकरणे । लिटि झेरुसादेशः । … शमीभिः । शमयन्ति पापानीति शम्यः कर्माणि । औणादिक इन्प्रत्ययः … कृदिकारादक्तिनः । पा. [४-१-४५] । इति ङीष् । वृषादित्वादाद्युदात्तः । आशत । अशू व्याप्तौ । लङि [?] झस्याद्यादेशः । स्वादिभ्यः श्नुः । तस्य बहुलं छन्दसीति लुक् । आडागमः । तिङ्ङतिङः इति निघातः ॥२॥
+> ये ऋभव इन्द्रायेन्द्रप्रीत्यर्थं वचोयुजा ताडनादिकं विना वाङ्मात्रेण रथे युज्यमानौ सुशिक्षितौ हरी एतन्नामकावश्वौ मनसा ततक्षुः संपादितवन्तः । ऋभूणां सत्यसंकल्पत्वात्तत्संकल्पमात्रेणेन्द्रस्याश्वौ संपन्नावित्यर्थः । ते ऋभवः शमीभिर्ग्रहचमसादिनिष्पादनरूपैः कर्मभिर्यज्ञमस्मदीयमाशत । व्याप्तवन्तः । अपोऽप्न इत्यादिषु षड्विंशतिसंख्याकेषु कर्मनामसु शमी शिमीति पठितम् ॥ वचोयुजा । वचसा युञ्जाते । सत्सूद्विषेत्यादिना क्विप् । सुपां सुलुगित्यादिना विभक्तेराकारः । कृदुत्तरपदप्रकृतिस्वरः । ततक्षुः । तक्षू त्वक्षू तनूकरणे । लिटि झेरुसादेशः । पादादित्वादनिघातः । शमीभिः । शमयन्ति पापानीति शम्यः कर्माणि । औणादिक इन् । कृदिकारादक्तिनः । पा. ४-१-४५ । इति ङीष् । वृषादित्वादाद्युदात्तः । आशत । अशू व्याप्तौ । लङि झस्यादादेशः । स्वादिभ्यः श्नुः । तस्य बहुलं छन्दसीति लुक् । आडागमः । तिङ्ङतिङ इति निघातः ॥
 >
-> *ye ṛbhava indrāyendra-prīty-artham vacoyujā tāḍanādikaṃ vinā vāṅ-mātreṇa rathe yujyamānau suśikṣitau harī etan-nāmakāv aśvau manasā tatakṣuḥ sampāditavantaḥ | ṛbhūṇāṃ satya-saṃkalpatvāt tvaṣṭṛtvaṃ [?] saṃkalpa-mātreṇendrasyāśvau sampannāv ity arthaḥ | te ṛbhavaḥ śamībhir graha-camasādi-niṣpādana-rūpaiḥ karmabhir yajñam asmadīyam āśata | vyāptavantaḥ | apo-jyotir-janmety-ādiṣu ṣaṭtriṃśati-saṅkhyākeṣu karma-nāmasu śamī śami iti paṭhitam || vacoyujā | vacasā yuñjāte | sat-sūd-viṣety-ādinā kvip | supāṃ sulug ity-ādinā vibhakter [ākārādeśaḥ] | … tatakṣuḥ | takṣū tvakṣū tanūkaraṇe | liṭi jher usādeśaḥ | … śamībhiḥ | śamayanti pāpānīti śamyaḥ karmāṇi | auṇādika in-pratyayaḥ … kṛd-ikārād aktinaḥ | pā. [4-1-45] | iti ṅīṣ | vṛṣāditvād ādyudāttaḥ | āśata | aśū vyāptau | laṅi [?] jhasyādyādeśaḥ | svādibhyaḥ śnuḥ | tasya bahulaṃ chandasīti luk | āḍāgamaḥ | tiṅ ataṅ iti nighātaḥ ||2||*
+> *ye ṛbhava indrāyendraprītyarthaṃ vacoyujā tāḍanādikaṃ vinā vāṅmātreṇa rathe yujyamānau suśikṣitau harī etannāmakāvaśvau manasā tatakṣuḥ saṃpāditavantaḥ | ṛbhūṇāṃ satyasaṃkalpatvāttatsaṃkalpamātreṇendrasyāśvau saṃpannāvityarthaḥ | te ṛbhavaḥ śamībhirgrahacamasādiniṣpādanarūpaiḥ karmabhiryajñamasmadīyamāśata | vyāptavantaḥ | apo 'pna ityādiṣu ṣaḍviṃśatisaṃkhyākeṣu karmanāmasu śamī śimīti paṭhitam || vacoyujā | vacasā yuñjāte | satsūdviṣetyādinā kvip | supāṃ sulugityādinā vibhakterākāraḥ | kṛduttarapadaprakṛtisvaraḥ | tatakṣuḥ | takṣū tvakṣū tanūkaraṇe | liṭi jherusādeśaḥ | pādāditvādanighātaḥ | śamībhiḥ | śamayanti pāpānīti śamyaḥ karmāṇi | auṇādika in | kṛdikārādaktinaḥ | pā. 4-1-45 | iti ṅīṣ | vṛṣāditvādādyudāttaḥ | āśata | aśū vyāptau | laṅi jhasyādādeśaḥ | svādibhyaḥ śnuḥ | tasya bahulaṃ chandasīti luk | āḍāgamaḥ | tiṅṅatiṅa iti nighātaḥ ||*
 
-**Translation:** "Those Ṛbhus, for Indra — for his pleasure — made by the mind (*manasā*) the two horses *harī* — well-trained, which yoke themselves to the chariot (*vacoyujā*) at a mere word, without any beating or the like. Since the Ṛbhus are of true resolve, [their craftsmanship is such that] by the mere resolve Indra's two horses came into being [the reading *tvaṣṭṛtvaṃ* is partly unclear, marked [?]]. Those Ṛbhus, by *śamī* — works in the form of preparing the *graha* cup, the *camasa* vessel and the like — pervaded (*āśata*, 'attained') our sacrifice. Among the thirty-six words for 'action' beginning with *apas*, the words *śamī* and *śami* are read [Nighaṇṭu 2-1, cited 'ni. 2-1', numerals as read [?]]." The grammar, noted briefly: *vacoyujā* (*vacasā yuñjāte*, *yuj* + *kvip*; the dual ending replaced by *ā*; accent of the final member of the compound); *tatakṣuḥ* (*takṣ* 'to make thin, to fashion', the perfect; *jhi* → *us*; reduplication); *śamībhiḥ* (*śamyaḥ karmāṇi*, 'works which remove sins'; the Uṇādi *in*, with the feminine in *ṅīṣ*; first-syllable accent through the *vṛṣādi* list); *āśata* (*aś* 'to pervade', *śnu*, middle voice; the augment *āṭ*; unaccented). *(Grammar, noted briefly; sūtra numerals as read.)*
+**Translation:** "The Ṛbhus who, for Indra, for Indra's pleasure, *manasā tatakṣuḥ*, produced by the mind, the *harī*, the two horses of that name, well trained, *vacoyujā*, yoking themselves to the chariot at a word alone, without beating and the like. Since the Ṛbhus are of true resolve, the two horses of Indra came about by their mere resolve. Those Ṛbhus, *śamībhiḥ*, by acts in the form of making the *graha* cups, the *camasa* vessels and the like, *āśata*, reached, our sacrifice. *Śamī* and *śimī* are read among the twenty-six names for action beginning *apaḥ*, *apnaḥ*." (Grammatical tail: *vacoyujā*, "they yoke at a word", *kvip* by *satsūdviṣa…*, *ā* for the ending by *supāṃ suluk…*, the accent of the *kṛt* final member; *tatakṣuḥ*, *takṣū tvakṣū tanūkaraṇe*, *us* for *jhi* in the *liṭ*, not lowered at the start of the *pāda*; *śamībhiḥ*, "they calm sins": *śamyaḥ*, acts, the Uṇādi *in*, *ṅīṣ* by *kṛdikārād aktinaḥ* (Pā. 4-1-45), initial udātta as one of the *vṛṣa-ādi*; *āśata*, *aśū vyāptau*, *at* for *jha* in the *laṅ*, *śnu* by *svādibhyaḥ śnuḥ*, its *luk* by *bahulaṃ chandasi*, the augment *āṭ*, wholly unaccented by *tiṅṅatiṅaḥ*.)
 
-**Grammar pages (pp. 7 lower half–8), noted briefly.** The Kannada treats: *vacoyujā* (*vacasā yuñjāte* — the instrumental *vacas* as upapada of *yuj*, *yujir yoge*; *satsūdviṣa-druha-duha-yuja-vida-bhida-chida-jī-nī-rājām upasarge 'pi kvip* P. 3-2-61; the dual *au* → *ā* by P. 7-1-39; the accent of the final member *yuj* by *gatikārakopapadāt kṛt* P. 6-2-139; the *svarita* conversion by *udāttād anudāttasya svaritaḥ* P. 8-4-66), *tatakṣuḥ* (*takṣū tvakṣū tanūkaraṇe*; *liṭ* third plural *jhi*, replaced by *us* by P. 3-4-82 *parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ*; reduplication P. 6-1-8 *liṭi dhātor anabhyāsasya*; the verb is not made unaccented since it follows the relative *ye*; and — beginning the second *pāda* — *apādādau* P. 8-1-18 bars the loss of accent; *tiṅ atiṅaḥ* P. 8-1-28 therefore does not make it wholly unaccented), *śamībhiḥ* (*śamu upaśame*; *sarvadhātubhya in* Uṇ. 4-[?]; in the feminine *kṛdikārād aktinaḥ* P. 4-1-45, optional *ṅīṣ* after a *kṛt*-derived stem in *i*, the *gaṇa* being *bahulam* [so *śamī* or *śami*]; *yasyeti ca* P. 6-4-148 drops the *i* of the suffix; the accent is end-accent by the suffix, but first-syllable accent in the *vṛṣādi* list by P. 6-1-203 *vṛṣādīnāṃ ca*), and *āśata* (*aśū vyāptau*, *svādi*; *laṅ* [here *liṅ*-like Vedic *lun*? — the print says *laṅ* third plural middle *jha*]; *svādibhyaḥ śnuḥ* P. 3-1-73; *śnu* dropped by *bahulaṃ chandasi* P. 2-4-73; *āḍajādīnām* P. 6-4-72 gives *āṭ*; *āṭaś ca* P. 6-1-90 *vṛddhi*; *ātmanepadeṣv anataḥ* P. 7-1-5 *at* for *jha*: *āśata*). ॥2॥ *(Numerals as read; pointers only.)*
+### Page 6 — Rik 2: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 6)*
+**॥ Prati-padārthaḥ ॥**
 
-**ये (ye)** — which Ṛbhu deities | **इन्द्राय (indrāya)** — for Indra's pleasure | **वचोयुजा (vacoyujā)** — which can be yoked to the chariot simply by a word | **हरी (harī)** — the two horses called *Hari* | **मनसा (manasā)** — by the mere resolve of the mind | **ततक्षुः (tatakṣuḥ)** — produced [for him] | **(ते ऋभवः) ((te ṛbhavaḥ))** — those Ṛbhus | **शमीभिः (śamībhiḥ)** — with [works of the kind of] preparing the *graha*, the *camasa* and the like | **यज्ञम् (yajñam)** — our sacrifice | **आशत (āśata)** — pervaded.
+**ये (ye)** (**ऋभवः (ṛbhavaḥ)**) — which Ṛbhu deities | **इन्द्राय (indrāya)** — for Indra's pleasure | **वचोयुजा (vacoyujā)** — who can be yoked (to the chariot) by a word of the mouth alone | **हरी (harī)** — the two horses called Harī | **मनसा (manasā)** — by mental resolve alone | **ततक्षुः (tatakṣuḥ)** — produced and gave | (**ते ऋभवः (te ṛbhavaḥ)**) — such Ṛbhus) | **शमीभिः (śamībhiḥ)** — by acts (that provide the means of sacrifice such as the *graha* and *camasa*) | **यज्ञम् (yajñam)** — our sacrifice | **आशत (āśata)** — pervaded.
 
 **॥ Bhāvārthaḥ ॥**
 
-These Ṛbhus produced, by mere resolve of the mind and for Indra's pleasure, the two well-trained horses called *Hari* of Indra's chariot. May such Ṛbhus provide for our sacrifice also the *graha*, the *camasa* and the other implements.
+These Ṛbhus produced for Indra's pleasure, by mental resolve alone, the two well-trained horses called Harī of Indra's chariot. May such Ṛbhus provide for our sacrifice too the means of sacrifice such as the *graha* and *camasa*.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The Ribhus who created mentally for Indra his pair of tawny horses that yoke themselves at his command attained the sacrifice by their acts of skill.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 6–7)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**वचोयुजा (vacoyujā)** — *tāḍanādikaṃ vinā vāṅmātreṇa rathe yujyamānau*: yoked to the chariot at a mere word, without blows or other punishment. That is, to Indra, his command is enough; without the urging of any charioteer, the two harness themselves to the chariot — "Harnessing themselves at Indra's word (command)" [the print adds the English]. 
+**Vacoyujā**:
 
-**ततक्षुः मनसा (tatakṣuḥ manasā)** — *sampāditavantaḥ, kṛtavantaḥ*: "created" [English added by the print]. Being skilled in the craft of building, and being of true resolve, the Ṛbhus created with the power of their intellect [Indra's chariot and horses] — items that serve the sacrifice: weapons and the like, the chariot and other things — and are able to make anything. Those deities' powers are above those of modern craftsmen: they need no tools or materials; by mere mental resolve they are able to make whatever they wish. This is what the word *manasā* conveys.
+> ताडनादिकं विना वाङ्मात्रेण रथे युज्यमानौ ॥
+>
+> *tāḍanādikaṃ vinā vāṅmātreṇa rathe yujyamānau ||*
 
-**हरी (harī)** — *haraṇāt vahate iti harī*: because they carry (*vahate*) the chariot, Indra's horses are called *Hari*. This dual word is, in the Ṛgveda, generally used when speaking of Indra's two horses.
+("Yoked to the chariot by speech alone, without beating and the like.") The sense is: they yoke themselves to the chariot merely at what Indra says with his mouth, without training such as beating; that is, Indra's command is enough; without any kind of urging by a charioteer they yoke themselves to the chariot: "Harnessing themselves at Indra's word (command)" [as printed] is the intent.
 
-**शमीभिः (śamībhiḥ)** — *śamayanti pāpānīti śamyaḥ karmāṇi*: among the thirty-six words for 'action' beginning with *apas*, *aḥnaḥ*, the word *śamī* or *śimī* is read (Ni. [2-1]); hence *śamībhiḥ* means "by sacrificial acts". The sentence in which it occurs, *śamībhir yajñam āśata*, can be understood in several ways. [The Ṛbhu deities] pervade [our] sacrifice with their own works — that is, with works of craft; or with works that give the sacrificer what he wishes; i.e. they come to the sacrificial ground. Or: the sacrificer, who is made to perform *havis*-giving to the Ṛbhu deities, is pleased by these works and accepts the oblations; and so on. The main idea is that these Ṛbhus, with their cunning craftsmanship, make the equipment needed in the sacrifice so that the sacrifice is completed with all its parts, and, pleased with the oblations the sacrificer offers, give him the fruit of the sacrifice.
+**Tatakṣuḥ manasā**:
+
+> संपादितवन्तः, कृतवन्तः ॥
+>
+> *saṃpāditavantaḥ, kṛtavantaḥ ||*
+
+("They produced, they made.") "created" [as printed]. Since the Ṛbhus are expert in the craft-śāstra and of true resolve, they are able, by their power of mind, to create the
+
+### Page 7 — Rik 2: Special Topics (end) and grammar
+
+implements of sacrifice, chariots and other things that are means of sacrifice. These Ṛbhu deities need not use tools and materials to make things like modern craftsmen. The word *manasā* indicates the intent that they have the power and capacity to make anything they want by mere mental resolve.
+
+**Harī**:
+
+> हरतः वहत इति हरी ।
+>
+> *harataḥ vahata iti harī |*
+
+("They carry, they convey: *harī*.") Because they draw the chariot, Indra's horses are named *harī*. This word, ending in the dual, is generally used in the Ṛgveda to denote Indra's two horses.
+
+**Śamībhiḥ**:
+
+> शमयन्ति पापानीति शम्यः कर्माणि ।
+>
+> *śamayanti pāpānīti śamyaḥ karmāṇi |*
+
+("They calm sins: *śamyaḥ*, acts.") Since the word *śamī* or *śimī* is read among the twenty-six names for action beginning *apaḥ*, *apnaḥ* (Ni. 3-1), *śamībhiḥ* means by acts such as sacrifice. The sentence *śamībhir yajñam āśata* used in this ṛk has several senses. The Ṛbhu deities pervade the sacrifice by their acts, that is, by their works of craft, or by acts that give the sacrificer his wishes; that is, they come to the place of sacrifice. Or, being pleased by the acts such as the giving of oblations that the sacrificer makes to the Ṛbhu deities in the sacrifice, they accept the oblation: the sense can be given in various ways. The chief intent is that these Ṛbhus, by their skill in craft, not only make the means and materials needed for the sacrifice so that the sacrifice is completed with all its parts, but, pleased by the giving of oblations the sacrificer makes in the sacrifice, give the fruit of the sacrifice, and so on.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 7–8, noted briefly)*
+
+**वचोयुजा (*vacoyujā*)**: the analysis is *vacasā yuñjāte*. After the root *yujir yoge*, with the instrumental-singular word *vacas* as *upapada*, by the sūtra "satsūdviṣa…" (Pā. sū. 3-2-61) the suffix *kvip*; after it the accusative dual suffix *au*; for it, by "supāṃ suluk" (Pā. sū. 7-1-39), the substitute *ā*. This is unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4). The *u* of *yuj* is udātta by "dhātoḥ" (Pā. sū. 6-1-162). After compounding too, by "gatikārako…" (Pā. sū. 6-2-139), the accent of the *kṛt* final member comes, so that accent stays. By "udāttād anudāttasya svaritaḥ" (Pā. sū. 8-4-66) the case-ending substitute becomes svarita.
+
+**ततक्षुः (*tatakṣuḥ*)**: the root *takṣū tvakṣū tanūkaraṇe*. After it *liṭ*, the 3rd plural substitute *jhi*; for it, by "parasmaipadānāṃ ṇalatusus…" (Pā. sū. 3-4-82), the substitute *us*;
+
+### Page 8 — Rik 2: grammar (end)
+
+doubling and the other operations: *tatakṣuḥ*. It stands at the start of the second *pāda*. Since the bar "apādādau" (Pā. sū. 8-1-18) comes, it is not wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**शमीभिः (*śamībhiḥ*)**: *śamayanti pāpāni iti śamyaḥ, karmāṇi*: acts that remove sins are denoted by the word *śamī*. The root *śamu upaśame*. By "sarvadhātubhya in" (Uṇ. sū. "4-5-57" [?]) the suffix *in*. If the feminine is meant, by "kṛdikārād aktinaḥ" (Pā. sū. 4-1-45 ga.), when the feminine is meant, *ṅīṣ* comes after a stem ending in an *i* belonging to a *kṛt* suffix; but after a stem ending in *ktin* *ṅīṣ* does not come: this is the sense of the *gaṇa*-sūtra. Here the Uṇādi suffix *in* is a *kṛt*; since the word *śami* ends in the *i* belonging to the suffix *in*, *ṅīṣ* comes after it. By "yasyeti ca" (Pā. sū. 6-4-148) the *i* belonging to the *kṛt* drops. Though final udātta would come by the suffix accent, since it is in the *vṛṣa-ādi*, by "vṛṣādīnāṃ ca" (Pā. sū. 6-1-203) it is initial udātta.
+
+**आशत (*āśata*)**: the root *aśū vyāptau*. After it *laṅ*, the *ātmanepada* 3rd plural substitute *jha*. This is a root of the *sv-ādi* group; so by "svādibhyaḥ śnuḥ" (Pā. sū. 3-1-73) the *vikaraṇa* *śnu* comes: *aś* + *nu* + *jha*; for the *vikaraṇa*, by "bahulaṃ chandasi" (Pā. sū. 2-4-73), *luk*. By "āḍ ajādīnām" (Pā. sū. 6-4-72) the augment *āṭ*; by "āṭaś ca" (Pā. sū. 6-1-90) *vṛddhi*. By "ātmanepadeṣv anataḥ" (Pā. sū. 7-1-5) the substitute *at* for the *jh*: *āśata*. By "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) it is wholly unaccented.
+
+**॥२॥**
+
+---
 
 ### Pages 8–13 — Sūkta 20, Rik 3
 
