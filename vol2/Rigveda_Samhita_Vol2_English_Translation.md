@@ -16555,15 +16555,19 @@ hard to account for, and besides, the words *araru* in the mantras just cited co
 
 ---
 
-### Pages 765–768 — Sūkta 18, Rik 4
+### Page 765 — Sūkta 18, Rik 4
+
+*(Saṃhitā accents as printed; Pada unaccented. Deities: Brahmaṇaspati, Indra and Soma.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स घा वीरो न रिष्यति यमिन्द्रो ब्रह्मणस्पतिः ।
-> सोमो हिनोति मर्त्यम् ॥४॥
+> स घा॑ वी॒रो न रि॑ष्यति॒ यमिन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑ । [accent ?]
+> सो॑मो हि॒नोति॒ मर्त्य॑म् ॥४॥ [accent ?]
 >
-> *sa ghā vīro na riṣyati yam indro brahmaṇaspatiḥ |*
-> *somo hinoti martyam ||4||*
+> *sá ghā vīró ná riṣyati yám indro bráhmaṇaspátiḥ |* [accent ?]
+> *somo hinóti mártyam ||4||* [accent ?]
+
+*(Read as printed: strokes over घा, रि, ह्म, तिः, सो and र्त्य; bars under वी, ति (रिष्यति), द्रो, ण, हि and ति (हिनोति). A mark over मि of यमिन्द्रो is not clear.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -16573,37 +16577,55 @@ hard to account for, and besides, the words *araru* in the mantras just cited co
 > *saḥ | gha | vīraḥ | na | riṣyati | yam | indraḥ | brahmaṇaḥ | patiḥ ||*
 > *somaḥ | hinoti | martyam ||4||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* ghā*, the Pada* gha*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 765; compressed; [?] marks doubtful readings)*
-
-> इन्द्रो देवो यं मर्त्यं यक्ष्यमाणं हिनोति प्राप्नोति वर्धयति वा । तथा ब्रह्मणस्पतिर्देवो हिनोति । तथा सोमो हिनोति । स घ स एव यजमानो वीरो वीर्ययुक्तः सन्न रिष्यति । न विनश्यति ॥ घ । चादिरनुदात्तः । संहितायां मृजि [?] तुनुघमक्षुतङ्कुत्रोरुष्याणाम् । पा. [६-३-१३३] । इति दीर्घः । ब्रह्मणस्पतिः । उक्तम् । हिनोति । हि गतौ वृद्धौ च । स्वादिभ्यः श्नुः । तिपः पित्त्वात् श्नुप्रत्ययस्वर एव शिष्यते ॥४॥
+> इन्द्रो देवो यं मर्त्यं यक्ष्यमाणं हिनोति प्राप्नोति वर्धयति वा । तथा ब्रह्मणस्पतिर्देवो हिनोति । तथा सोमो हिनोति । स घ स एव यजमानो वीरो वीर्ययुक्तः सन्न रिष्यति । न विनश्यति ॥ घ । चादिरनुदात्तः । संहितायामृचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् । पा. ६-३-१३३ । इति दीर्घः । ब्रह्मणस्पतिः । उक्तम् । हिनोति । हि गतौ वृद्धौ च । स्वादिभ्यः श्नुः । तिपः पित्त्वाच्छ्नुप्रत्ययस्वर एव शिष्यते ॥
 >
-> *indro devo yaṃ martyaṃ yakṣyamāṇaṃ hinoti prāpnoti vardhayati vā | tathā brahmaṇaspatir devo hinoti | tathā somo hinoti | sa gha sa eva yajamāno vīro vīryayuktaḥ sann na riṣyati | na vinaśyati || gha | cādir anudāttaḥ | saṃhitāyāṃ mṛji [?] tunu-ghamakṣu-taṅ-kutro-ruṣyāṇām | pā. [6-3-133] | iti dīrghaḥ | brahmaṇaspatiḥ | uktam | hinoti | hi gatau vṛddhau ca | svādibhyaḥ śnuḥ | tipaḥ pittvāt śnu-pratyaya-svara eva śiṣyate ||4||*
+> *indro devo yaṃ martyaṃ yakṣyamāṇaṃ hinoti prāpnoti vardhayati vā | tathā brahmaṇaspatirdevo hinoti | tathā somo hinoti | sa gha sa eva yajamāno vīro vīryayuktaḥ sanna riṣyati | na vinaśyati || gha | cādiranudāttaḥ | saṃhitāyāmṛci tunughamakṣutaṅkutroruṣyāṇām | pā. 6-3-133 | iti dīrghaḥ | brahmaṇaspatiḥ | uktam | hinoti | hi gatau vṛddhau ca | svādibhyaḥ śnuḥ | tipaḥ pittvācchnupratyayasvara eva śiṣyate ||*
 
-**Translation:** "The god Indra, [the god] Brahmaṇaspati, and Soma — whichever mortal who is going to sacrifice they *hinoti* — reach, favour, or cause to prosper: that same sacrificer, being endowed with vigour (*vīra*), does not perish (*na riṣyati*)." The rest is grammar, noted briefly: *gha* (a particle of the *ca* group, unaccented; lengthened in the Saṃhitā by P. 6-3-133 *ṛci tunughamakṣutaṅkutrorūṣyāṇām*); *brahmaṇaspatiḥ* (explained earlier); *hinoti* (*hi* "to go, to grow", *śnu* of the *svādi* class; *tip* is *pit*, so the accent of the *śnu* suffix alone remains). *(Grammar, noted briefly.)*
+**Translation:** "The mortal, about to sacrifice, whom the god Indra *hinoti*, reaches or makes to grow; likewise whom the god Brahmaṇaspati furthers; likewise whom Soma furthers: *sa gha*, that very sacrificer, being *vīra*, possessed of valour, *na riṣyati*, does not perish." (Grammatical tail: *gha*, unaccented as one of the *ca-ādi*; lengthened in the Saṃhitā by Pā. 6-3-133; *brahmaṇaspatiḥ*, explained; *hinoti*, *hi gatau vṛddhau ca*, *śnu* by *svādibhyaḥ śnuḥ*; since *tip* is *pit*, the accent of the suffix *śnu* alone stays.)
 
-**Grammar pages (pp. 766 lower half–767 upper), noted briefly.** The Kannada says: *gha* belongs to the *cādi* group, an *ākṛtigaṇa*, so is unaccented by P. 1-1-… *cādayo 'sattve* [as read: Phiṭ 4-[?] *cādayo 'nudāttāḥ*]; the lengthening in the Saṃhitā is by P. 6-3-133, in which the word *gha* is understood to include its lengthened form *ghā* seen in the Veda; the Kannada cites the paribhāṣā *kṛtrimākṛtrimayoḥ kṛtrimasyaiva grahaṇam* [of the technical and the common-use, the technical is meant] to explain why *gha* here does not mean the *gha*-class of *tarap* and *tamap* of P. 1-1-22 *tarabamaupau ghaḥ*; since *tarap*/*tamap* do not show lengthening in the Veda, and *gha* does, the sūtra's *ṛci* shows that it should be taken as the particle *gha* only; hence *tarapādi* is not meant; the Kannada adds a note on the paribhāṣā to this effect; *brahmaṇaspatiḥ* (*ṣaṣṭhyāḥ patiputra…* P. 8-3-53 gives *s*); *hinoti* (*hi gatau vṛddhau ca*; *laṭ*, *tip*; *svādibhyaḥ śnuḥ* P. 3-1-73; *hi* + *nu* + *ti*; guṇa of *nu* by P. 7-3-84 gives *o*; *sārvadhātukam apit* P. 1-2-4 makes *hi*… *ñit*; *kṅiti ca* P. 1-1-5 bars the guṇa of the *i* of *hi*, so there is no guṇa on *hi*; *tip* being *pit* is unaccented by P. 3-1-4, and the accent of the *śnu* suffix remains). ॥4॥ *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 765)*
-
-**इन्द्रः (indraḥ)** — Indra | **यम् (yam)** — which | **मर्त्यम् (martyam)** — man (sacrificer, who is engaged in the rite) | **हिनोति (hinoti)** — [gives] reaches (protects) | **ब्रह्मणस्पतिः (brahmaṇaspatiḥ)** — Brahmaṇaspati | **हिनोति (hinoti)** — protects | **सोमः (somaḥ)** — the god Soma | **हिनोति (hinoti)** — protects | **सः घ (saḥ gha)** — such a man | **वीरः (vīraḥ)** — endowed with valour | **न रिष्यति (na riṣyati)** — does not perish.
+**इन्द्रः (indraḥ)** — Indra | **यम् (yam)** — which | **मर्त्यम् (martyam)** — sacrificer (performing the sacrifice) | **हिनोति (hinoti)** — reaches, or protects | **ब्रह्मणस्पतिः (brahmaṇaspatiḥ)** — Brahmaṇaspati too | **हिनोति (hinoti)** — protects | **सोमः (somaḥ)** — (likewise) the deity Soma | **हिनोति (hinoti)** — protects | **सः घ (saḥ gha)** — that very man | **वीरः (vīraḥ)** — being possessed of valour | **न रिष्यति (na riṣyati)** — does not perish.
 
 **॥ Bhāvārthaḥ ॥**
 
-To the sacrificer who is engaged in the rite, Indra, Brahmaṇaspati and Soma — all three deities — give increase; that is, they protect him. The man who is the object of their favour never suffers destruction.
+For the sacrificer devoted to the sacrifice, the three deities Indra, Brahmaṇaspati and Soma bring increase; that is, they become his protectors. A man who has become worthy of their grace never comes to ruin.
+
+### Page 766 — Rik 4: English, Special Topics and grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > That valiant man whom Indra, Brahmanaspati and Soma protect never perishes.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 766)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-This rik has three deities: Indra, Brahmaṇaspati and Soma. The man favoured by these deities is a hero, and lives always without ever suffering ruin.
+This ṛk is addressed to the three deities Indra, Brahmaṇaspati and Soma. The intent is: the man whom these deities take to themselves, that is, favour, lives as a hero, and never meets with ruin.
 
-**घ (gha)** — the last letter of this word is lengthened in the Saṃhitā for the sake of the metre.
+**Ghā**: this syllable is long in the Saṃhitā-pāṭha to suit the metre.
 
-**यं मर्त्यम् (yaṃ martyam)** — "which man?" — the man who worships Indra, Brahmaṇaspati and Soma.
+**Yaṃ martyam**: which man; that is, the man who worships Indra, Brahmaṇaspati and Soma.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 766–767, noted briefly)*
+
+**घ (*gha*)**: since the *ca-ādi* group is an *ākṛtigaṇa*, this is included in it. So it is unaccented by "cādayo 'nudāttāḥ" (Phi. sū. 4-84). In the Saṃhitā, by "ṛci tunughamakṣutaṅkutroruṣyāṇām" (Pā. sū. 6-3-133), the word *gha* takes in the sequence *gha* (*gh* followed by *a*). Since the lengthening of *gha* is seen in the Veda, it is to be taken this way. "Kṛtrimākṛtrimayoḥ kṛtrimasyaiva grahaṇam" (*paribhāṣā*):
+
+> कृत्रिमाकृत्रिमयोः कृत्रिमस्यैव ग्रहणम्
+>
+> *kṛtrimākṛtrimayoḥ kṛtrimasyaiva grahaṇam*
+
+*kṛtrima* means "fixed by the convention of grammar"; *akṛtrima* means "known in the world"; the sense of the *paribhāṣā* is that when both could be taken, the *kṛtrima* is taken. By "taraptamapau ghaḥ" (Pā. sū. 1-1-22) the suffixes *tarap* and *tamap* have this conventional name in grammar. Yet here it is not taken in the way just stated; for in the Veda lengthening is not seen for *tarap* and *tamap*, while lengthening is seen for *gha*. Since the sūtra says *ṛci*, it must apply in the Ṛgveda alone. So, if *tarap* and the rest were taken, the sūtra would have no purpose. So the word *gha* itself is taken. For *tha* [as printed], the 2nd plural of *taṅ* [as printed], when the substitute *ta* comes by *tasthasthamipām*, it becomes *ṅit* by *sārvadhātukam apit*; the *ta* substituted for *tha*, having this *ṅit*-ness, is taken. When lengthening comes to *gha* by this sūtra, it becomes *ghā*.
+
+**ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)**: by "ṣaṣṭhyāḥ pati…" (Pā. sū. 8-3-53) *s* for the visarga belonging to the genitive.
+
+### Page 767 (upper) — Rik 4: grammar (end)
+
+**हिनोति (*hinoti*)**: the root *hi gatau vṛddhau ca*. *Laṭ*, *tip*. By "svādibhyaḥ śnuḥ" (Pā. sū. 3-1-73) the *vikaraṇa* *śnu*: *hi* + *nu* + *ti*. With *ti* as condition, *guṇa* for *śnu* by "sārvadhātukārdha…" (Pā. sū. 7-3-84): *o*. By "sārvadhātukam apit" (Pā. sū. 1-2-4) *hi* [as printed; *nu* is meant] is *ṅit*. Since the bar *kṅiti ca* comes, the *ik*-*guṇa* for *hi*, with *nu* as condition, does not come. *Tip* is *pit*, so unaccented by *anudāttau…*; the accent of the suffix *śnu* alone remains.
+
+**॥४॥**
+
+---
 
 ### Pages 767–769 — Sūkta 18, Rik 5
 
