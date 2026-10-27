@@ -2896,56 +2896,132 @@ In the Ṛgveda Viṣṇu's connection with Indra is seen to be closer than with
 
 ---
 
-### Pages 122–128 — Sūkta 22, Rik 17
+### Page 122 (lower) — Sūkta 22, Rik 17
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इदं विष्णुर्वि चक्रमे त्रेधा नि दधे पदम् ।
-> समूळ्हमस्य पांसुरे ॥ १७ ॥
-
-*idaṃ viṣṇur vi cakrame tredhā ni dadhe padam | samūḷham asya pāṃsure || 17 ||*
-
-**॥ Padapāṭhaḥ ॥**
-
-> इदम् । विष्णुः । वि । चक्रमे । त्रेधा । नि । दधे । पदम् ॥ सम्ऽऊळ्हम् । अस्य । पांसुरे ॥ १७ ॥
-
-*idam | viṣṇuḥ | vi | cakrame | tredhā | ni | dadhe | padam || sam-ūḷham | asya | pāṃsure || 17 ||*
-
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 122–123)*
-
-> वैष्णवोपांशुयाजस्येदं विष्णुरित्येषानुवाक्या । उक्ता देवतेति खण्डे सूत्रितम् — इदं विष्णुर्वि चक्रमे त्रिर्देवः पृथिवीमेष एताम् (आ. १-६) इति ॥ गार्हपत्याहवनीययोर्मध्ये श्वातिक्रमेणान्येन वा कृष्णदेशे [?] भस्म प्रक्षिपेत् । विध्वपराध इति खण्डे सूत्रितम् — भस्मना शुनः पदं प्रतिवपेदिदं विष्णुर्वि चक्रमे (आ. ३-१०) इति ॥ आतिथ्यायां प्रधानस्य हविष इदं विष्णुर्वि चक्रमे इति पुरोनुवाक्या । अथातिथ्येलान्तेति [?] खण्डे सूत्रितम् — इदं विष्णुर्वि चक्रमे तदस्य प्रियमभि पाथो अश्याम् (आ. ४-३) इति ॥ उपसत्सु वैष्णवस्यैव हविषोऽनुवाक्या । अथोपसदिति खण्डे सूत्रितम् — गयस्फानो अमीवहा वेदं विष्णुर्वि चक्रमे (आ. ४-८) इति ॥
+> इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दं ।
+> समू॑ळ्हमस्य पांसु॒रे ॥१७॥
 >
-> विष्णुस्त्रिविक्रमावतारधार्येदं प्रतीयमानं सर्वं जगदुद्दिश्य वि चक्रमे । विशेषेण क्रमणं कृतवान् । तदा त्रेधा त्रिभिः प्रकारैः पदं नि दधे । स्वकीयं पादं प्रक्षिप्तवान् । अस्य विष्णोः पांसुरे धूलियुक्ते पादस्थाने समूळ्हमिदं सर्वं जगदन्तर्भूतम् । सेयमृग्याकपूणिना [?] एवं व्याख्याता —
+> *idáṃ viṣṇur ví cakrame tredhā́ ní dadhe padáṃ |*
+> *sámūḷham asya pāṃsuré ||17||*
+
+*(Bars under इ, ष्णु, त्रे and प; strokes over च (चक्रमे) and द (दधे). Line 2: a stroke over मू, a bar under सु. The print has समूळ्ह with ळ्ह.)*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> इदं । विष्णुः । वि । चक्रमे । त्रेधा । नि । दधे । पदं ॥
+> संऽऊळ्हं । अस्य । पांसुरे ॥१७॥
 >
-> विष्णुर्विशतेर्वा व्यश्नोतेर्वा । यदिदं किंच तद्विक्रमते विष्णुस्त्रिधा निधत्ते पदं त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः । समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः । समूळ्हमस्य पांसुरेऽप्यायनेऽन्तरिक्षे पदं न दृश्यतेऽपि वोपमार्थे स्यात् समूळ्हमस्य पांसुल इव पदं न दृश्यत इति । पांसवः पादैः सूयन्त इति वा पन्नाः शेरत इति वा पिंसनीया भवन्तीति वा (नि. १२-१९)।
+> *idaṃ | viṣṇuḥ | vi | cakrame | tredhā | ni | dadhe | padaṃ ||*
+> *saṃ 'ūḷhaṃ | asya | pāṃsure ||17||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*(Numbers as printed: आ० १-६, ३-१०, ४-५, ४-८, नि० १२-१९, पा० ५-३-४६, पा० ६-१-१५, का० ५-२-१०७-१.)*
+
+> वैष्णवोपांशुयाजस्येदं विष्णुरित्येषानुवाक्या । उक्ता देवता इति खण्डे सूत्रितं । इदं विष्णुर्वि चक्रमे त्रिर्देवः पृथिवीमेष एतां । आ० १-६ । इति ॥ गार्हपत्याहवनीययोर्मध्ये श्वातिक्रमणेऽनयैव श्वपदेषु भस्म प्रक्षिपेत् । विध्यपराध इति खण्डे सूत्रितं । भस्मना शुनः पदं प्रतिवपेदिदं विष्णुर्वि चक्रमे । आ० ३-१० । इति ॥ आतिथ्यायां प्रधानस्य हविष एषैवानुवाक्या । अथातिथ्येळान्तेति खण्डे सूत्रितं । इदं विष्णुर्वि चक्रमे तदस्य प्रियमभि पाथो अश्यां । आ० ४-५ । इति ॥ उपसत्सु वैष्णवस्यैषैवानुवाक्या । अथोपसदिति खण्डे सूत्रितं । गयस्फानो अमीवहेदं विष्णुर्वि चक्रमे । आ० ४-८ । इति ॥
 >
-> इत्येवमादि … (grammar lines follow: *त्रेधा* पा. ५-३-४५ [?]; *समूळ्हम्* वह प्रापणे; *पांसुरे* नगपांसुपाण्डुभ्य इति वक्तव्यम्, का. ५-२-१०७ [?]).
+> *vaiṣṇavopāṃśuyājasyedaṃ viṣṇurityeṣānuvākyā | uktā devatā iti khaṇḍe sūtritaṃ | idaṃ viṣṇurvi cakrame trirdevaḥ pṛthivīmeṣa etāṃ | ā0 1-6 | iti || gārhapatyāhavanīyayormadhye śvātikramaṇe 'nayaiva śvapadeṣu bhasma prakṣipet | vidhyaparādha iti khaṇḍe sūtritaṃ | bhasmanā śunaḥ padaṃ prativapedidaṃ viṣṇurvi cakrame | ā0 3-10 | iti || ātithyāyāṃ pradhānasya haviṣa eṣaivānuvākyā | athātithyeḷānteti khaṇḍe sūtritaṃ | idaṃ viṣṇurvi cakrame tadasya priyamabhi pātho aśyāṃ | ā0 4-5 | iti || upasatsu vaiṣṇavasyaiṣaivānuvākyā | athopasaditi khaṇḍe sūtritaṃ | gayasphāno amīvahedaṃ viṣṇurvi cakrame | ā0 4-8 | iti ||*
 
-*vaiṣṇavopāṃśuyājasyedaṃ viṣṇur ity eṣānuvākyā | uktā devateti khaṇḍe sūtritam — idaṃ viṣṇur vi cakrame trir devaḥ pṛthivīm eṣa etām (ā. 1-6) iti || gārhapatyāhavanīyayor madhye śvātikrameṇānyena vā kṛṣṇadeśe [?] bhasma prakṣipet | vidhvaparādha iti khaṇḍe sūtritam — bhasmanā śunaḥ padaṃ prativaped idaṃ viṣṇur vi cakrame (ā. 3-10) iti || ātithyāyāṃ pradhānasya haviṣa idaṃ viṣṇur vi cakrame iti puro-'nuvākyā | athātithyelānteti [?] khaṇḍe sūtritam — idaṃ viṣṇur vi cakrame tad asya priyam abhi pātho aśyām (ā. 4-3) iti || upasatsu vaiṣṇavasyaiva haviṣo 'nuvākyā | athopasad iti khaṇḍe sūtritam — gayasphāno amīvahā vedaṃ viṣṇur vi cakrame (ā. 4-8) iti ||*
-*viṣṇus trivikramāvatāradhāry [?] edaṃ pratīyamānaṃ sarvaṃ jagad uddiśya vi cakrame | viśeṣeṇa kramaṇaṃ kṛtavān | tadā tredhā tribhiḥ prakāraiḥ padaṃ ni dadhe | svakīyaṃ pādaṃ prakṣiptavān | asya viṣṇoḥ pāṃsure dhūliyukte pādasthāne samūḷham idaṃ sarvaṃ jagad antarbhūtam | seyam ṛg ākapūṇinā [?] evaṃ vyākhyātā —*
-*viṣṇur viśater vā vyaśnoter vā | yad idaṃ kiṃ ca tad vikramate viṣṇus tridhā nidhatte padaṃ tredhābhāvāya pṛthivyām antarikṣe divīti śākapūṇiḥ | samārohaṇe viṣṇupade gayaśirasīty aurṇavābhaḥ | samūḷham asya pāṃsure 'py āyane 'ntarikṣe padaṃ na dṛśyate 'pi vopamārthe syāt samūḷham asya pāṃsula iva padaṃ na dṛśyata iti | pāṃsavaḥ pādaiḥ sūyanta iti vā pannāḥ śerata iti vā piṃsanīyā bhavantīti vā (ni. 12-19) |*
+### Page 123 — Rik 17: bhāṣya (end), word-meanings, overall sense, English
 
-**Translation:** "The rik *idaṃ viṣṇur vi cakrame* is the *anuvākyā* for the *Vaiṣṇava upāṃśuyāja*; so it is laid down in the section *uktā devatā* — '*idaṃ viṣṇur vi cakrame*, … (Āś. [1-6])'. [If a dog passes] between the Gārhapatya and the Āhavanīya, ashes are thrown on the place where it stood; in the section *vidhvaparādha*: 'with the ashes he should cover the dog's footprint with *idaṃ viṣṇur vi cakrame*' (Āś. [3-10]). In the Ātithyā [rite] it is the *puro-'nuvākyā* of the chief oblation: the section *athātithyā…* — '*idaṃ viṣṇur vi cakrame tad asya priyam abhi pātho aśyām*' (Āś. [4-3]). In the *Upasads* it is the *anuvākyā* of the Viṣṇu oblation: '*gayasphāno amīvahā* [Ṛ. 1-?-?] and *idaṃ viṣṇur vi cakrame*' (Āś. [4-8]).
+**Translation (application):** "This ṛk *idaṃ viṣṇuḥ* is the *anuvākyā* of the *upāṃśu-yāja* to Viṣṇu; it is laid down in the section *uktā devatāḥ*: '*idaṃ viṣṇur vi cakrame*, *trir devaḥ pṛthivīm eṣa etām*' (Āśv. 1-6). If a dog passes between the *gārhapatya* and the *āhavanīya*, with this very ṛk one should throw ashes on the dog's footprints; it is laid down in the section *vidhyaparādha*: 'he should strew ashes on the dog's footprint with *idaṃ viṣṇur vi cakrame*' (Āśv. 3-10). At the *ātithyā* this is the *anuvākyā* of the principal offering; it is laid down in the section *athātithyeḷāntā*: '*idaṃ viṣṇur vi cakrame*, *tad asya priyam abhi pātho aśyām*' (Āśv. 4-5). At the *upasads* this is the *anuvākyā* of the offering to Viṣṇu; it is laid down in the section *athopasad*: '*gayasphāno amīvahā*, *idaṃ viṣṇur vi cakrame*' (Āśv. 4-8)."
 
-"Viṣṇu, who took the Trivikrama form, strode forth looking at all this manifest world: he took a special stride. Then he set his foot in threefold manner (*tredhā*) — he cast down his own foot. In the dust (*pāṃsure*) of this Viṣṇu — in the dusty foot-place — all this world has been contained, collected (*samūḷham*). This rik is explained thus [by the Nirukta]: 'Viṣṇu is from *viś* or from *vy-aś*. All that is here he strides over; Viṣṇu places his foot threefold — for the threefold state: on earth, in the air, in the sky — says Śākapūṇi. At the rising place, at the Viṣṇu-pada (zenith), at Gayaśiras (the setting place) — says Aurṇavābha. *Samūḷham asya pāṃsure*: in the dusty region (*antarikṣa*) his foot is not seen, or [the phrase] may be a simile: his foot is not seen, as if in a dusty place. *Pāṃsavaḥ* are what 'are born from the feet' (*pādaiḥ sūyante*), or those which 'lie fallen' (*pannāḥ śerate*), or those that 'are to be ground' (*piṃsanīyā bhavanti*)' (Nirukta [12-19])." *(The opening of the second paragraph of the bhāṣya is read with doubt; the sūtra numerals from Āśvalāyana are marked as printed.)* *(Grammar pages 127–128, noted briefly: the words treated are* tredhā *[*tri* + *dhā* with *edhāc* — P. 5-3-45 *saṃkhyāyā vidhārthe dhā*, 5-3-46 *edhāc ca*; loss of the* i *of* tri*; the accent on the last syllable],* samūḷham *[*vah prāpaṇe* + *kta* by P. 3-2-102 *niṣṭhā*; samprasāraṇa* va → u *by P. 6-1-15 *vacisvapiyajādīnāṃ kiti*; the change of* ha *to* ḍha *(P. 8-2-31 *hodhaḥ*), of* ta *to* dha *(P. 8-2-40), the loss of* dh *(P. 8-3-13) and the compensatory lengthening of the preceding vowel (P. 6-3-111), with the Pāṇinian-school statement of the replacement of* ḍ *by* ḷ*; accent],* asya *[*idam* → *a* by P. 2-4-32 / 7-1-[?], accent by P. 6-1-[?]],* pāṃsure *[*uśi kuśi mukṣi madhoḥ*? — the Vārttikakāra's* nagāc ca *and the Kāśikā's *nagapāṃsupāṇḍubhya iti vaktavyam* (Kāś. 5-2-107): the suffix *ra* after* pāṃsu *in the sense of 'having'; accent on the first syllable; locative singular]; numerals as read, pointers only.)*
+> विष्णुस्त्रिविक्रमावतारधारीदं प्रतीयमानं सर्वं जगदुद्दिश्य वि चक्रमे । विशेषेण क्रमणं कृतवान् । तदा त्रेधा त्रिभिः प्रकारैः पदं नि दधे । स्वकीयं पादं प्रक्षिप्तवान् । अस्य विष्णोः पांसुरे धूलियुक्ते पादस्थाने समूळ्हमिदं सर्वं जगत्सम्यगन्तर्भूतं । सेयमृग्यास्केनैवं व्याख्याता । विष्णुर्विशतेर्वा व्यश्नोतेर्वा । यदिदं किंच तद्विक्रमते विष्णुस्त्रिधा निधत्ते पदं त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः समूळ्हमस्य पांसुरेऽप्यायनेऽन्तरिक्षे पदं न दृश्यतेऽपि वोपमार्थे स्यात् पांसुर इव पदं न दृश्यत इति पांसवः पादैः सूयन्त इति वा पन्नाः शेरत इति वा पंसनीया भवन्तीति वा । नि० १२-१९ । इति ॥ त्रेधा । एधाच्च । पा० ५-३-४६ । इत्येधाच्प्रत्ययः । चितोऽन्तोदात्तः । समूळ्हं । वह प्रापणे । निष्ठेति क्तः । वचिस्वपीत्यादिना । पा० ६-१-१५ । संप्रसारणं । ढत्वधत्वष्टुत्वढलोपदीर्घत्वानि । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वं । अस्य । इदमोऽन्वादेशेऽशनुदात्त इत्यशनुदात्तः । प्रत्ययश्च सुप्त्वेन । पांसुरे । नगपांसुपाण्डुभ्यश्चेति वक्तव्यं । का० ५-२-१०७-१ । इति मत्वर्थीयो रः । प्रत्ययस्वरः ॥
+>
+> *viṣṇustrivikramāvatāradhārīdaṃ pratīyamānaṃ sarvaṃ jagaduddiśya vi cakrame | viśeṣeṇa kramaṇaṃ kṛtavān | tadā tredhā tribhiḥ prakāraiḥ padaṃ ni dadhe | svakīyaṃ pādaṃ prakṣiptavān | asya viṣṇoḥ pāṃsure dhūliyukte pādasthāne samūḷhamidaṃ sarvaṃ jagatsamyagantarbhūtaṃ | seyamṛgyāskenaivaṃ vyākhyātā | viṣṇurviśatervā vyaśnotervā | yadidaṃ kiṃca tadvikramate viṣṇustridhā nidhatte padaṃ tredhābhāvāya pṛthivyāmantarikṣe divīti śākapūṇiḥ samārohaṇe viṣṇupade gayaśirasītyaurṇavābhaḥ samūḷhamasya pāṃsure 'pyāyane 'ntarikṣe padaṃ na dṛśyate 'pi vopamārthe syāt pāṃsura iva padaṃ na dṛśyata iti pāṃsavaḥ pādaiḥ sūyanta iti vā pannāḥ śerata iti vā paṃsanīyā bhavantīti vā | ni0 12-19 | iti || tredhā | edhācca | pā0 5-3-46 | ityedhācpratyayaḥ | cito 'ntodāttaḥ | samūḷhaṃ | vaha prāpaṇe | niṣṭheti ktaḥ | vacisvapītyādinā | pā0 6-1-15 | saṃprasāraṇaṃ | ḍhatvadhatvaṣṭutvaḍhalopadīrghatvāni | gatiranantara iti gateḥ prakṛtisvaratvaṃ | asya | idamo 'nvādeśe 'śanudātta ityaśanudāttaḥ | pratyayaśca suptvena | pāṃsure | nagapāṃsupāṇḍubhyaśceti vaktavyaṃ | kā0 5-2-107-1 | iti matvarthīyo raḥ | pratyayasvaraḥ ||*
 
-**॥ Prati-padārthaḥ ॥** **विष्णुः (viṣṇuḥ)** — Viṣṇu [in the Trivikrama form] | **इदम् (idam)** — this whole world | **विचक्रमे (vicakrame)** — strode especially | **त्रेधा (tredhā)** — in three ways | **पदम् (padam)** — the foot-placing | **निदधे (nidadhe)** — placed | **अस्य (asya)** — of this Viṣṇu | **पांसुरे (pāṃsure)** — in the dusty place of the foot | **समूळ्हम् (samūḷham)** — [this whole world] was contained [absorbed].
+**Translation:** "Viṣṇu, who took the Trivikrama incarnation, *vi cakrame*, stepped in a special way, with regard to *idam*, all this world that appears. Then *tredhā*, in three ways, he *ni dadhe*, put down, his *padam*, foot. *Asya*, of this Viṣṇu, in the *pāṃsura*, dusty, footprint, all this world is *samūḷham*, well contained. This ṛk is explained by Yāska thus: '*Viṣṇu*, from *viś* or from *vyaś*. Whatever there is, that Viṣṇu steps over; he puts down his foot in three ways, for being threefold: on the earth, in the mid-air, in heaven, says Śākapūṇi; at the place of rising, at the Viṣṇupada, at Gayaśiras, says Aurṇavābha. *Samūḷham asya pāṃsure*: in the mid-air, the place of swelling, the foot is not seen; or it may be in the sense of comparison: as in a dusty place the foot is not seen. *Pāṃsavaḥ*, because they are produced by the feet, or because, fallen, they lie, or because they are to be crushed' (Ni. 12-19)." (Grammatical tail: *tredhā*, the suffix *edhāc* by *edhāc ca* (Pā. 5-3-46), final udātta as *cit*; *samūḷham*, *vaha prāpaṇe*, *kta* by *niṣṭhā*, *saṃprasāraṇa* by *vacisvapi…* (Pā. 6-1-15), then *ḍh*, *dh*, *ṭutva*, the dropping of *ḍh* and lengthening; the prefix keeps its own accent by *gatir anantaraḥ*; *asya*, the unaccented *aś* by *idamo 'nvādeśe 'śanudāttaḥ…*, and the suffix unaccented as a *sup*; *pāṃsure*, the suffix *ra* in the sense of *matup* by *nagapāṃsupāṇḍubhyaś ceti vaktavyam* (Kā. 5-2-107-1); the suffix accent.)
 
-**॥ Bhāvārthaḥ ॥** Viṣṇu [in the Trivikrama incarnation] strode through this whole world with three strides; in the dust of his foot-place this world was swallowed up and became unseen.
+**॥ Prati-padārthaḥ ॥**
+
+**विष्णुः (viṣṇuḥ)** — Viṣṇu (who took the Trivikrama incarnation) | **इदं (idaṃ)** — this whole world | **वि चक्रमे (vi cakrame)** — stepped over in a special way (how?) | **त्रेधा (tredhā)** — in three ways | **पदं (padaṃ)** — the planting of the foot | **नि दधे (ni dadhe)** — put down | **अस्य (asya)** — of this Viṣṇu | **पांसुरे (pāṃsure)** — in the dusty footprint | **समूळ्हं (samūḷhaṃ)** — (this whole world) was contained (was absorbed).
+
+**॥ Bhāvārthaḥ ॥**
+
+Viṣṇu (taking the Trivikrama incarnation) stepped over this whole world by placing his foot in three ways. In the dusty footprint of that Viṣṇu this world was covered over and became as if not seen.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Vishnu traversed this universe; three times he planted his foot and the whole universe was collected in the dust of his footsteps.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 124–126)* **Applications.** In the *upāṃśuyāja* sacrifice connected with Viṣṇu, the riks *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) and *trir devaḥ pṛthivīm eṣa etām* (Ṛ. Saṃ. [6-100-3?]) are to be used as the *puro-'nuvākyā* and *yājyā*; so says the section *uktā devatā* of Āśvalāyana's Śrauta-sūtra (Āś. [1-6]), whence this rik *idaṃ viṣṇur vi cakrame* is the *puro-'nuvākyā* mantra. When a dog passes between the Gārhapatya and Āhavanīya fires, installed in the sacrifice, ashes are to be thrown on the place where the dog stood with the mantra *idaṃ viṣṇur vi cakrame*, as the section *vidhvaparādha* says (Āś. [3-10]). And in the *ātithyā* offering, when the principal (or chief) oblation of ghee is offered, this very rik is the *puro-'nuvākyā*: Āś. [4-3] says the riks *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) and *tad asya priyam abhi pātho aśyām* (Ṛ. Saṃ. [1-154-5]) are to be used as *puro-'nuvākyā* and *yājyā*. *Ātithya* means the hospitality to Soma [when Soma is brought in the Soma sacrifice; Soma is the 'king', and the seven metres, Gāyatrī etc., are his attendants (retinue)]; the practice is to offer *homa* to please the metres, so that hospitality is shown to the king and to his retinue. On this the Taittirīya Saṃhitā of the Yajurveda says:
+### Page 124 — Rik 17: Special Topics
 
-> यावद्वै राजानुचर्या [?] आगच्छन्ति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते । छन्दांसि खलु वै सोमस्य राज्ञोऽनुचराण्यग्नेरातिथ्यमसि विष्णवे त्वेत्याह गायत्रिया विवेयेन [?] करोति सोमस्यातिथ्यमसि विष्णवे त्वेत्याह त्रिष्टुभा … ॥ [Tai. Saṃ. — reading of many words doubtful]
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-*yāvad vai rājānucaryā [?] āgacchanti sarvebhyo vai tebhya ātithyaṃ kriyate | chandāṃsi khalu vai somasya rājño 'nucarāṇy agner ātithyam asi viṣṇave tvety āha gāyatriyā viveyena [?] karoti somasyātithyam asi viṣṇave tvety āha triṣṭubhā … ||* — "As many as the king's followers who come, to all of them hospitality is done; the metres are the attendants of King Soma. 'Thou art the hospitality of Agni, to Viṣṇu thee' he says, and does it with the Gāyatrī …, 'Thou art the hospitality of Soma …' with the Triṣṭubh …" *(my paraphrase; the Sanskrit, with the later formulas in the Jagatī, Anuṣṭubh and Gāyatrī, is badly crowded in the print and is given only as far as it could be read.)* In these *homas* Viṣṇu is the chief deity. Likewise in the *upasad* homa the riks *gayasphāno amīvahā* (Ṛ. Saṃ. [1-91-12]) and *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) are to be used as *yājyā* and *puro-'nuvākyā*; so says the section *athopasad* in Āśvalāyana (Āś. [4-8]). Such is the application of this rik; and in the domestic (*gṛhya*) rites, in the *svārtha* applications [for one's own purposes] and so on, it is customary to use this rik when mantras connected with Viṣṇu are recited.
+In the *upāṃśu-yāga* connected with Viṣṇu, the ṛks *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) and *trir devaḥ pṛthivīm eṣa etām* (Ṛ. Saṃ. 7-100-3) are to be used as the *puronuvākyā* and *yājyā* mantras: since the Āśvalāyana Śrautasūtra says so in the section *uktā devatāḥ* (Ā. 1-6), the ṛk *idaṃ viṣṇur vi cakrame* in question is a *puronuvākyā* mantra. If a dog enters between the fire-pits called *gārhapatya* and *āhavanīya* set up in the sacrifice, then to remove that fault one must throw ashes on the place where the dog sat with the mantra *idaṃ viṣṇur vi cakrame*: so it is stated in the section *vidhyaparādha* (Ā. 3-10). And in the offering called *ātithya*, when offering the principal oblation, this very mantra *idaṃ viṣṇur vi cakrame* is the *puronuvākyā* mantra. In the section *athātithyeḷāntā* the Āśvalāyana Śrautasūtra says that the ṛks *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) and *tad asya priyam abhi pātho aśyām* (Ṛ. Saṃ. 1-154-5) are to be used as the *puronuvākyā* and *yājyā* mantras (Ā. 4-5). *Ātithya*: in the soma sacrifice, when the soma is brought, the soma is imagined as the king and the seven metres Gāyatrī and the rest as his attendants, and the method is to make an offering for the pleasure of the metres Gāyatrī and the rest so as to give hospitality ("Hospitality") to the king and the king's attendants. On this subject, in the Taittirīya Saṃhitā of the Yajurveda —
 
-**Yāska's explanation.** The sage Yāska explains this rik in the Nirukta [quoted above], which means: 'When the Sun fills everything with his rays, he is called Viṣṇu; or, by entering everything with his rays, Viṣṇu; or, by pervading everything exceedingly, with his rays and shining, the Āditya is called Viṣṇu.' [The Sanskrit of this commentary — *yadā viṣitaḥ vyāpto 'yam eva sūryo raśmibhir bhavati tadā viṣṇur bhavati | viśater vā yadā viṣṭaḥ praviṣṭaḥ sarvato raśmibhir bhavati tadā viṣṇur bhavati | vyaśnoter vā … yadā raśmibhir atiśayenāyaṃ vyāpto bhavati vyāpnoti vā raśmibhir ayaṃ sarvaṃ tadā viṣṇur āditya|ḥ — is printed in the source.] Then, for *this* rik, according to Śākapūṇi: 'Viṣṇu (the Āditya) places three steps in order to divide this world into three parts — earth, *antarikṣa*, heaven; that is, he appears in three ways: through the rays on earth, through the lightning in the *antarikṣa*, and through the orb of the sun in heaven.' Aurṇavābha's view: 'the Sun is seen at sunrise on the mountain of rising (*samārohaṇa*), at midday in the *antarikṣa* (*Viṣṇupada*), and at evening on the setting mountain (*gayaśiras*)'; that, he says, is the sense of *tredhā nidadhe padam*. *Samūḷham asya pāṃsure* — in the *antarikṣa* at midday the foot [of the Sun] is never seen [on account of the heat, the glare of lightning…]; or [if the phrase is a simile], 'as one cannot see a thing that is lost in dust'. For *pāṃsu* the derivation is: *pādyaiḥ sūyante janyante* — 'that which is produced from the feet'; or *pannāḥ śerate* — 'what lies fallen'; or *piṃsanīyāḥ dhvaṃsanīyāḥ* — 'what is to be crushed or ground' — hence the dust of the feet is called *pāṃsura*.
+> यावद्भिर्वै राजानुचरैरागच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते छन्दांसि खलु वै सोमस्य राज्ञोऽनुचराण्यग्नेरातिथ्यमसि विष्णवे त्वेत्याह गायत्रिया एवैतेन करोति सोमस्यातिथ्यमसि विष्णवे त्वेत्याह त्रिष्टुभ एवैतेन करोत्यतिथेरातिथ्यमसि विष्णवे त्वेत्याह जगत्या एवैतेन करोत्यग्नये त्वा रायस्पोषदाव्ने विष्णवे त्वेत्याहानुष्टुभ एवैतेन करोति श्येनाय त्वा सोमभृते विष्णवे त्वेत्याह गायत्रिया एवैतेन करोति ॥
+>
+> *yāvadbhirvai rājānucarairāgacchati sarvebhyo vai tebhya ātithyaṃ kriyate chandāṃsi khalu vai somasya rājño 'nucarāṇyagnerātithyamasi viṣṇave tvetyāha gāyatriyā evaitena karoti somasyātithyamasi viṣṇave tvetyāha triṣṭubha evaitena karotyatitherātithyamasi viṣṇave tvetyāha jagatyā evaitena karotyagnaye tvā rāyaspoṣadāvne viṣṇave tvetyāhānuṣṭubha evaitena karoti śyenāya tvā somabhṛte viṣṇave tvetyāha gāyatriyā evaitena karoti ||*
 
-All the above is from Yāska's explanations. In the Purāṇas Viṣṇu holds a special place of importance: since he pervades the whole universe, he is called Parameśvara and Parabrahman; and among the Trimūrti — Brahmā, Viṣṇu, Maheśvara — who carry on the creation, preservation and dissolution of the universe, Viṣṇu is known as its protector. For the purpose of protecting the world he has taken many incarnations; one of these, the Vāmana or Trivikrama incarnation, is described in this rik, according to the commentator and other Indian pandits. But Western and modern scholars hold that, since Viṣṇu's incarnations are not specified in the Ṛgveda, and since the deities seen in the Veda are described in the Purāṇas in a different, elaborate fashion — the Veda being the root of the Purāṇic tales — it is not right to fit the incarnations of the Purāṇas on to the Vedic mantras. *According to the Purāṇic story:* while the asura Bali-cakravartī, having conquered the gods, ruled the kingdom, the defeated gods took refuge with Viṣṇu; to protect them, Viṣṇu took the Vāmana incarnation, came to Bali as he was performing a sacrifice, and begged three paces of land; Bali agreed. Then Vāmana took the Trivikrama form, so huge that with one foot he covered the earth, with a second the *antarikṣa*; and asked where the third foot should go. Bali, true to his word, bade him place it on his own head. The Trivikrama placed his third foot on Bali's head, sent him to Pātāla, and having granted him a boon he asked for, made him live there in happiness as king. *(The author gives the story at length.)*
+— and so on. In these offerings Viṣṇu alone is the chief deity. Likewise in the offering called *upasad*, the ṛks *gayasphāno amīvahā* (Ṛ. Saṃ. 1-91-12) and *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) are to be recited as the *yājyā* and *puronuvākyā* mantras, says the Āśvalāyana Śrautasūtra in the section *athopasat* (Ā. 4-8). This is the order of application of this ṛk; and in domestic rites and in *smārta* rites and the like it is customary to use this ṛk on occasions of reciting mantras connected with Viṣṇu.
+
+*(The Taittirīya passage is not given a section number in the print; its gloss is not given in the source.)*
+
+### Page 125 — Rik 17: Special Topics (continued)
+
+The great sage Yāska has given the Nirukta for this ṛk:
+
+> विष्णुः । अथ यद्विषितो भवति तद्विष्णुर्भवति विष्णुर्विशतेर्वा व्यश्नोतेर्वा ॥ (नि० १२-१८)
+>
+> *viṣṇuḥ | atha yadviṣito bhavati tadviṣṇurbhavati viṣṇurviśatervā vyaśnotervā || (ni0 12-18)*
+
+He has explained the meaning of the word *viṣṇu* in this way:
+
+> यदा विषितो व्याप्तोऽयमेव सूर्यो रश्मिभिर्भवति तदा विष्णुर्भवति ।
+> विशतेर्वा यदा विष्टः प्रविष्टः सर्वतो रश्मिभिर्भवति तदा विष्णुर्भवति ।
+> व्यश्नोतेर्वा विपूर्वस्य वाश्नोतेः यदा रश्मिभिरतिशयेनायं व्याप्तो भवति व्याप्नोति वा रश्मिभिरयं सर्वं तदा विष्णुरादित्यो भवति ॥
+>
+> *yadā viṣito vyāpto 'yameva sūryo raśmibhirbhavati tadā viṣṇurbhavati |*
+> *viśatervā yadā viṣṭaḥ praviṣṭaḥ sarvato raśmibhirbhavati tadā viṣṇurbhavati |*
+> *vyaśnotervā vipūrvasya vāśnoteḥ yadā raśmibhiratiśayenāyaṃ vyāpto bhavati vyāpnoti vā raśmibhirayaṃ sarvaṃ tadā viṣṇurādityo bhavati ||*
+
+That is, when the sun makes everything pervaded by his rays, then he is called Viṣṇu; or he is called Viṣṇu because he enters everything through his rays; or the sun himself is called Viṣṇu because he pervades everything exceedingly with his rays and shines. And —
+
+> तस्यैषा भवति ॥ इदं विष्णुर्वि चक्रमे त्रेधा नि दधे पदं । समूळ्हमस्य पांसुरे ॥ यदिदं किंच तद्विक्रमते विष्णुस्त्रिधा निधत्ते पदं त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः । समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः । समूळ्हमस्य पांसुरे प्यायनेऽन्तरिक्षे पदं न दृश्यते । अपि वोपमार्थे स्यात् समूळ्हमस्य पांसुल इव पदं न दृश्यत इति ॥ पांसवः पादैः सूयन्त इति वा, पन्नाः शेरत इति वा, पिंशनीया भवन्तीति वा ॥ (नि० १२-१९)
+>
+> *tasyaiṣā bhavati || idaṃ viṣṇurvi cakrame tredhā ni dadhe padaṃ | samūḷhamasya pāṃsure || yadidaṃ kiṃca tadvikramate viṣṇustridhā nidhatte padaṃ tredhābhāvāya pṛthivyāmantarikṣe divīti śākapūṇiḥ | samārohaṇe viṣṇupade gayaśirasītyaurṇavābhaḥ | samūḷhamasya pāṃsure pyāyane 'ntarikṣe padaṃ na dṛśyate | api vopamārthe syāt samūḷhamasya pāṃsula iva padaṃ na dṛśyata iti || pāṃsavaḥ pādaiḥ sūyanta iti vā, pannāḥ śerata iti vā, piṃśanīyā bhavantīti vā || (ni0 12-19)*
+
+— to set forth the meaning of the word *viṣṇu*, he has given this very ṛk *idaṃ viṣṇur vi cakrame* as an example and explained its meaning.
+
+The view of Śākapūṇi is that Viṣṇu (the sun), to divide this world in three ways, placed three feet: he made three footsteps to separate it into three parts — earth, mid-air and heaven. That is, since he is manifest on the earth by his rays, in the mid-air by lightning, and in heaven by the sun's orb, *tredhā* means he is manifest in three ways: this is the intention.
+
+Aurṇavābha holds that since the sun is seen at dawn when rising (*samārohaṇe*) on the eastern mountain, at midday (*viṣṇupade*) in the mid-air, and in the evening (*gayaśirasi*) on the western mountain, this is the meaning of *tredhā ni dadhe padam*. *Samūḷham asya pāṃsure* means that the lightning, the midday step, in the mid-air, never showing —
+
+### Page 126 — Rik 17: Special Topics (end)
+
+— is hidden: that is the meaning. Or a sense of comparison may be given: as a thing covered by dust (or the trace of a footprint) does not show.
+
+For the word *pāṃsure*: *pādaiḥ sūyante janyante ity arthaḥ*: they arise, come into being, from the feet, that is, they fall off; so the dust fallen from the feet is named *pāṃsura*. Or *pannāḥ śerata iti vā | piṃśanīyāḥ dhvaṃsanīyāḥ dhvaṃsanārhās te bhavanti*: because it settles on the feet, or because what is on the feet must be shaken off and destroyed, the dust of the feet is named *pāṃsura*.
+
+All the matters stated above are the explanations of the great sage Yāska. In the Purāṇas and other works Viṣṇu has a place of pre-eminence. Because he pervades the whole universe, they call Viṣṇu the supreme Lord and the supreme Brahman. Or, among the three forms Brahmā, Viṣṇu and Maheśvara, who carry out the creation, preservation and dissolution of the world, Viṣṇu is famed as the one who preserves the world. For this work of preserving the world, Viṣṇu had to take many incarnations; so it is the view of the commentator and other scholars that one of those incarnations, the Vāmana or Trivikrama incarnation, is described in this ṛk. Because the incarnations of Viṣṇu and the like are not mentioned in the Ṛgveda, because the deeds of the gods seen here and there in the Veda are described in special ways in the Purāṇas, and because the Veda itself is the source of the Purāṇic stories, Western and modern scholars hold that it is not right to explain the Vedic mantras by fitting to them the incarnations and the like found in the Purāṇas.
+
+According to the story told in the Purāṇas: while the demon called Bali Cakravartin, having conquered the gods, was ruling the kingdom, the defeated gods appealed to Viṣṇu; to protect them Viṣṇu took the Vāmana incarnation and, while Bali Cakravartin was under the consecration for a sacrifice, went to him and asked to be given as much land as three of his steps; Bali agreed and said he would give it accordingly. Then Viṣṇu, the Vāmana, took the Trivikrama incarnation, that is, assumed a huge form so as to pervade the earth and the mid-air, stepped over the whole earth with one foot and the mid-air with another, and asked Bali where to place the third foot; the king, being true to his word, since there was no other place, begged that he be favoured by its being placed on his own head; accordingly Trivikrama placed his third foot on Bali's head, made him go to the nether world and live happily ruling there, and gave him the boon he wanted: there is an extended description of this.
+
+### Page 127 — Rik 17: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**त्रेधा (tredhā)** — by *edhāc ca* (Pā. Sū. 5-3-46) — for the suffix *dhā* after the words *dvi* and *tri*, the substitute *edhāc* comes — and by *saṃkhyāyā vidhārthe dhā* (Pā. Sū. 5-3-42), for the suffix *dhā* after the word *tri*, the substitute *edhāc*: *tri* + *edhā*; by *yasyeti ca* the *i* is dropped; by *citaḥ* (Pā. Sū. 6-1-163) *tredhā* is final udātta.
+
+**समूळ्हं (samūḷhaṃ)** — the root *vaha prāpaṇe*. After it, by *niṣṭhā* (Pā. Sū. 3-2-102) — after a root in the sense of the past, the suffixes *kta* and *ktavatu* — the suffix *kta*. The *k* of the suffix gets the name *it* and is dropped: *vah* + *ta*. Now by *vacisvapiyajādīnāṃ kiti* (Pā. Sū. 6-1-15), the sense of the sūtra is that when a suffix marked *k* follows, the roots *vac*, *svap* and the roots of the *yajādi* class take *saṃprasāraṇa*. The root *vah* belongs to the *yajādi* class counted as *yajir vapir vahiś caiva vasir veñ vyeñ ity api | hveñ vadī śvayatiś ceti yajādyāḥ syur ime nava*. So by the sūtra *vacisvapi…* *saṃprasāraṇa*, *u* for the *v*: *u* + *ah* + *ta*; by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form: *uh* + *ta*; by *ho ḍhaḥ* (Pā. Sū. 8-2-31) *ḍh* for *h*: *uḍh* + *ta*; by *jhaṣas tathor dho 'dhaḥ* (Pā. Sū. 8-2-40) — after a letter of the *jhaṣ* group not belonging to the root *dhā*, *dh* is substituted for *t* and *th* — *dh* for the *t* after the *ḍh*: *uḍh* + *dha*; by *ṣṭunā ṣṭuḥ* (Pā. Sū. 8-4-41) *ḍh* for the *dh*: *uḍh* + *ḍha*; by *ḍho ḍhe lopaḥ* (Pā. Sū. 8-3-13) — a *ḍh* before a *ḍh* is dropped — the first *ḍh* is dropped: *u* + *ḍha*; by *ḍhralope pūrvasyā dīrgho 'ṇaḥ* (Pā. Sū. 6-3-111) — *a*, *i*, *u* standing before the *ḍh* or *r* that caused the dropping of a *ḍh* or *r* are lengthened — the *u* is lengthened: *ū* + *ḍha*; by the traditional saying *ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcā jaguḥ | ajmadhyasthaḍhakārasya ḷhakāraṃ vai yathākramam*, *ḷh* for the *ḍh*. By *gatir anantaraḥ* (Pā. Sū. 6-2-49) the *gati* named *sam* keeps its own accent.
+
+> यजिर्वपिर्वहिश्चैव वसिर्वेञ् व्येञ् इत्यपि । ह्वेञ् वदी श्वयतिश्चेति यजाद्याः स्युरिमे नव ॥
+> अज्मध्यस्थडकारस्य ळकारं बह्वृचा जगुः । अज्मध्यस्थढकारस्य ळ्हकारं वै यथाक्रमम् ॥
+>
+> *yajirvapirvahiścaiva vasirveñ vyeñ ityapi | hveñ vadī śvayatiśceti yajādyāḥ syurime nava ||*
+> *ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcā jaguḥ | ajmadhyasthaḍhakārasya ḷhakāraṃ vai yathākramam ||*
+
+**अस्य (asya)** — after the word *idam*, the genitive singular *jas* [as printed; for *ṅas*]; by *tyadādīnām aḥ* (Pā. Sū. 7-2-102) *a* for the *m*: *ida* + *a* + *jas*; by *ato guṇe* (Pā. Sū. 6-1-97) the following form: *ida* + *jas*; by *ṭāṅasiṅasām inātsyāḥ* (Pā. Sū. 7-1-12) the substitute *sya* for *jas*: *ida* + *sya*. By *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. Sū. 2-4-32) the unaccented substitute *aś* for *ida*: *asya*. By *anudāttau suppitau* (Pā. Sū. 3-1-4) *sya* is unaccented; thus *asya* is wholly unaccented.
+
+### Page 128 (upper) — Rik 17: grammar (end)
+
+**पांसुरे (pāṃsure)** — at *ūṣasuṣimuṣkamadho raḥ* (Pā. Sū. 5-2-107) the author of the *vārttika* has read *nagāc ca*. Here the author of the Kāśikā-vṛtti has read *nagapāṃsupāṇḍubhyaś ceti vaktavyam* (Kāśikā 5-2-107-1). Its meaning is: it should be said that after the words *naga*, *pāṃsu*, *pāṇḍu* the suffix *ra* comes in the sense of *matup*. By this, when the suffix *ra* comes after the word *pāṃsu*, it becomes *pāṃsura*. By the suffix accent [the word] is initially udātta [as printed]. In the locative singular it becomes *pāṃsure*. ॥17॥
+
+---
+
 ### Pages 128–131 — Sūkta 22, Rik 18
 
 **॥ Saṃhitāpāṭhaḥ ॥**
