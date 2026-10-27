@@ -3182,38 +3182,71 @@ Tvaṣṭṛ Prajāpati had a son named Viśvarūpa. Though he was the priest of
 
 ---
 
-### Pages 135–138 — Sūkta 22, Rik 20
+### Page 135 (lower) — Sūkta 22, Rik 20
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः ।
-> दिवीव चक्षुराततम् ॥ २० ॥
+> तद्विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑ । [accent ?]
+> दि॒वी॑व॒ चक्षु॒रात॑तं ॥२०॥
+>
+> *tad víṣṇoḥ paramáṃ padáṃ sádā paśyanti sūráyaḥ |* [accent ?]
+> *divīva cákṣur ā́tataṃ ||20||*
 
-*tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣurātatam || 20 ||*
+*(A stroke over the head of विष्णोः (between वि and ष्णोः; read as over ष्णोः, as in the Pada [accent ?]); bars under र (परमं) and प (पदं); a stroke over दा; a bar under सू and a stroke over यः. Line 2: bars under दि and व, a stroke over वी, a bar under क्षु, a stroke over त.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> तत् । विष्णोः । परमम् । पदम् । सदा । पश्यन्ति । सूरयः ॥ दिविऽइव । चक्षुः । आऽततम् ॥ २० ॥
-
-*tat | viṣṇoḥ | paramam | padam | sadā | paśyanti | sūrayaḥ || divi-iva | cakṣuḥ | ā-tatam || 20 ||*
+> तत् । विष्णोः । परमं । पदं । सदा । पश्यन्ति । सूरयः ॥
+> दिविऽइव । चक्षुः । आऽततं ॥२०॥
+>
+> *tat | viṣṇoḥ | paramaṃ | padaṃ | sadā | paśyanti | sūrayaḥ ||*
+> *divi 'iva | cakṣuḥ | ā 'tataṃ ||20||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> सूरयो विद्वांस ऋत्विगादयो विष्णोः संबन्धि परममुत्कृष्टं तच्छास्त्रप्रसिद्धं पदं स्वर्गस्थानं शास्त्रदृष्ट्या सर्वदा पश्यन्ति । तत्र दृष्टान्तः । दिवीव । आकाशे यथाततं सर्वतः प्रसृतं चक्षुर्निरोधाभावेन विशदं पश्यति तद्वत् ॥ सदा । सर्वैकान्येति (पा. ५-३-१५) दाप्रत्ययः । सर्वस्य सोऽन्यतरस्यां दि (पा. ५-३-६) इति सर्वशब्दस्य सभावः । व्यत्ययेनाद्युदात्तत्वम् । दिवि । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वम् । चेति तदेव शिष्यते । चक्षुः । नब्विषयस्येत्यादि आद्युदात्तत्वम् । आततम् । तनोतेः कर्मणि क्तः । यस्य विभाषेति इट्प्रतिषेधः । अनुदात्तोपदेशेत्यादिना नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते गतिरनन्तर इति गतेरुदात्तत्वम् ॥
+*(Numbers as printed: पा० ५-३-१५, पा० ५-३-६.)*
 
-*sūrayo vidvāṃsa ṛtvigādayo viṣṇoḥ saṃbandhi paramam utkṛṣṭaṃ tacchāstraprasiddhaṃ padaṃ svargasthānaṃ śāstradṛṣṭyā sarvadā paśyanti | tatra dṛṣṭāntaḥ | divīva | ākāśe yathātataṃ sarvataḥ prasṛtaṃ cakṣur nirodhābhāvena viśadaṃ paśyati tadvat || sadā | sarvaikānyeti (pā. 5-3-15) dāpratyayaḥ | sarvasya so 'nyatarasyāṃ di (pā. 5-3-6) iti sarvaśabdasya sabhāvaḥ | vyatyayenādyudāttatvam | divi | ūḍidam ity ādinā vibhakter udāttatvam | iveṇa vibhaktyalopaḥ pūrvapadaprakṛtisvaratvam | ceti tad eva śiṣyate | cakṣuḥ | nabviṣayasyety ādi ādyudāttatvam | ātatam | tanoteḥ karmaṇi ktaḥ | yasya vibhāṣeti iṭpratiṣedhaḥ | anudāttopadeśety ādinā nalopaḥ | kṛduttarapadaprakṛtisvaratve prāpte gatir anantara iti gater udāttatvam ||*
+> सूरयो विद्वांस ऋत्विगादयो विष्णोः संबन्धि परममुत्कृष्टं तच्छास्त्रप्रसिद्धं । पदं स्वर्गस्थानं शास्त्रदृष्ट्या सर्वदा पश्यन्ति । तत्र दृष्टान्तः । दिवीव । आकाशे यथाततं सर्वतः प्रसृतं चक्षुर्निरोधाभावेन विशदं पश्यति । तद्वत् ॥ सदा । सर्वैकान्येति । पा० ५-३-१५ । दाप्रत्ययः । सर्वस्य सोऽन्यतरस्यां दि । पा० ५-३-६ । इति सर्वशब्दस्य सभावः । व्यत्ययेनाद्युदात्तत्वं । दिवि । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं । इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वं चेति तदेव शिष्यते । चक्षुः । नब्विषयस्येत्याद्युदात्तत्वं । आततं । तनोतेः कर्मणि क्तः । यस्य विभाषेतीट्प्रतिषेधः । अनुदात्तोपदेशेत्यादिना नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते गतिरनन्तर इति गतेरुदात्तत्वं ॥
+>
+> *sūrayo vidvāṃsa ṛtvigādayo viṣṇoḥ saṃbandhi paramamutkṛṣṭaṃ tacchāstraprasiddhaṃ | padaṃ svargasthānaṃ śāstradṛṣṭyā sarvadā paśyanti | tatra dṛṣṭāntaḥ | divīva | ākāśe yathātataṃ sarvataḥ prasṛtaṃ cakṣurnirodhābhāvena viśadaṃ paśyati | tadvat || sadā | sarvaikānyeti | pā0 5-3-15 | dāpratyayaḥ | sarvasya so 'nyatarasyāṃ di | pā0 5-3-6 | iti sarvaśabdasya sabhāvaḥ | vyatyayenādyudāttatvaṃ | divi | ūḍidamityādinā vibhakterudāttatvaṃ | ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ceti tadeva śiṣyate | cakṣuḥ | nabviṣayasyetyādyudāttatvaṃ | ātataṃ | tanoteḥ karmaṇi ktaḥ | yasya vibhāṣetīṭpratiṣedhaḥ | anudāttopadeśetyādinā nalopaḥ | kṛduttarapadaprakṛtisvaratve prāpte gatiranantara iti gaterudāttatvaṃ ||*
 
-**Translation:** "The *sūris* — the learned, the priests and the rest — always see, by the light of scripture, that highest, best — scripturally well known — place (*padam*) of Viṣṇu, the place of heaven (*svarga*). An illustration: *divīva* — as the eye, spread out over the sky, sees clearly all round without obstruction, so [they see]. *Sadā*: the suffix *dā* by P. 5-3-15 [*sarvaikānya…*]; *sarva* becomes *sa* before *dā* (P. 5-3-6); the first syllable has the acute by *vyatyaya* [interchange]. *Divi*: the case-ending acute by the rule *ūḍidam…*; *iva* — the ending is not lost [in the compound]; the original accent of the first member. *Cakṣuḥ*: first-syllable acute by the rule on *nab*-words … *Ātatam*: *kta* in the passive sense from *tan*; the prohibition of *iṭ* by *yasya vibhāṣā*; loss of *n* by [the rule on roots with a lowered accent]; the *gati* preserves its acute by P. 6-2-49 *gatir anantaraḥ*." *(Grammar pages 136–138, noted briefly: *sadā* [*sarvasmin kāle*, P. 5-3-15 *sarvaikānyakiṃyattadaḥ kāle dā*; *sarva* → *sa*, P. 5-3-6; accent by *vyatyayo bahulam* P. 3-1-85], *divi* [*div* + loc. sg. *ṅi* → *ṅi*… the locative accent — the long discussion of whether the ending *i* is *udātta* by P. 6-1-171 *ūḍidampadādyap-pumraidyubhyaḥ*, and of the compound with *iva*, P. 2-1-… — the accent of *iva* from *sa* and *iva* declared anudātta by the Nighaṇṭu/Phiṭ rule; reduced by the *ekādeśa* rule P. 8-2-5 so that the *ekādeśa* is *svarita*], *cakṣuḥ* [neuter noun, Phiṭ 1-[?] *nabviṣayasyāniṣantasya*, first syllable acute], *ātatam* [*ā* + *tan* + *kta*, *iṭ* not added; loss of *n*, P. 6-4-37; the 'ā-' as a *gati*, P. 1-4-60; accent P. 6-2-49]; the long 'dha' discussion of the *kta*/*ktavatu* and *an*-roots is not reproduced; numerals as read, pointers only.)*
+**Translation:** "The *sūrayaḥ*, the wise — priests and the rest — *sadā paśyanti*, always see, with the eye of scripture, that *paramam*, highest, *padam*, place, the place of heaven, belonging to Viṣṇu, well known from scripture. The illustration for it: *divīva*: as the eye, *ātatam*, spread out on all sides, in the sky, sees clearly because there is no obstruction — so." (Grammatical tail: *sadā*, the suffix *dā* by *sarvaikānya…* (Pā. 5-3-15), the substitute *sa* for *sarva* by *sarvasya so 'nyatarasyāṃ di* (Pā. 5-3-6); initial udātta by *vyatyaya*; *divi*, the case-ending udātta by *ūḍidam…*; with *iva*, the non-dropping of the case-ending and the first member's own accent, so that alone remains; *cakṣuḥ*, initial udātta by *nabviṣayasya…*; *ātatam*, *kta* in the object sense after *tan*, the *iṭ* barred by *yasya vibhāṣā*, the *n* dropped by *anudāttopadeśa…*; the accent of the *kṛt* final member being due, the prefix is udātta by *gatir anantaraḥ*.)
 
-**॥ Prati-padārthaḥ ॥** **सूरयः (sūrayaḥ)** — the wise | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **तत् (tat)** — that | **परमम् (paramam)** — highest | **पदम् (padam)** — place [svarga?] | **दिवि (divi)** — in the sky | **आततम् (ātatam)** — widely extended | **चक्षुः इव (cakṣur iva)** — like the eye | **सदा (sadā)** — at all times | **पश्यन्ति (paśyanti)** — see.
+### Page 136 — Rik 20: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** Just as the eye fixed on the very wide sky sees everything, so learned men always see that place of Viṣṇu which is called his highest abode (svarga or Vaikuṇṭha [?]).
+**॥ Prati-padārthaḥ ॥**
+
+**सूरयः (sūrayaḥ)** — the wise | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **तत् (tat)** — that | **परमं (paramaṃ)** — highest | **पदं (padaṃ)** — place (heaven?) | **दिवि (divi)** — in the sky | **आततं (ātataṃ)** — pervading (spread out) | **चक्षुः इव (cakṣuḥ iva)** — like the eye | **सदा (sadā)** — at all times | **पश्यन्ति (paśyanti)** — see.
+
+**॥ Bhāvārthaḥ ॥**
+
+As the sight fixed on the sky sees everything, because the sky is very wide, so the wise always see the place called Viṣṇu's highest step (heaven, or Vaikuṇṭha?).
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The wise always contemplate that supreme place of Vishnu as the eye fixed in broad heaven.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 136)* **परमं पदम्** — the highest place. The commentator explains it as *svarga*. Skandasvāmin, taking *viṣṇu* as the Āditya, explains *viṣṇoḥ paramaṃ padam* as the shining disc of the sun. Some, following the Purāṇas, understand *Viṣṇu's highest abode* as *Vaikuṇṭha-loka*; but that Purāṇic sense does not fit here. The author of the *Vedārthayatna* takes *padam* in the sense *trīṇi padā* ['three steps'], as said earlier. The words *paramaṃ padam* occur again in the next rik. **दिवीव चक्षुराततम्** — the eye fixed in the sky can see up to a very great distance; that is, as one whose eye ranges over very distant things, so the learned have the power to see — to know — Viṣṇu's best abode.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**परमं पदं (paramaṃ padaṃ)** — the highest place. The commentator has explained it as heaven. Skandasvāmin, explaining *viṣṇu* as the sun, has said that *viṣṇoḥ paramaṃ padam* means the shining orb of the sun. Some, as the Purāṇas and others say, hold that Viṣṇu's highest place is the Vaikuṇṭha world. But that meaning, well known in the Purāṇas, does not fit here. The author of the *Vedārthayatna* has explained the word *padam*, as said before at *trīṇi padā*, as the three footsteps. These words *paramaṃ padam* also occur in the next ṛk.
+
+**दिवीव चक्षुराततं (divīva cakṣur ātataṃ)** — the sight fixed on the sky can see very far. That is, the sense is that, as the eye has the power of seeing things that are very far off, the learned have the power of seeing, or knowing, the excellent place of Viṣṇu.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**सदा (sadā)** — the analysis is *sarvasmin kāle*. By *sarvaikānyakiṃyattadaḥ kāle dā* (Pā. Sū. 5-3-15) — after the words *sarva*, *eka*, *anya*, *kim*, *yad*, *tad* ending in the seventh case and in the sense of time, the suffix *dā* comes in its own sense — the suffix *dā* after *sarvasmin*: *sarva* + *ṅi* + *dā*. Since it ends in a *taddhita*, by *kṛttaddhitasamāsāś ca* (Pā. Sū. 1-2-46) it gets the name *prātipadika*, and by *supo dhātuprātipadikayoḥ* (Pā. Sū. 2-4-71) *ṅi* is dropped —
+
+### Page 137 — Rik 20: grammar (continued)
+
+— (*luk*): *sarva* + *dā*. Now by *sarvasya so 'nyatarasyāṃ di* (Pā. Sū. 5-3-6) — when a *d*-initial suffix belonging to the *prāgdiśīya* group follows, the substitute *sa* for the word *sarva* comes optionally — the substitute *sa* for *sarva*: it becomes *sadā*. Although here, by the suffix accent, it would be right for *sadā* to be final udātta, yet by *vyatyayo bahulam* (Pā. Sū. 3-1-85), by interchange, the initial udātta alone comes here.
+
+**दिवि (divi)** — when the locative singular suffix *ṅi* is attached after the word *div*: *div* + *i*, it becomes *divi*. The suffix *ṅi* is a *sup*, so by *anudāttau suppitau* (Pā. Sū. 3-1-4) the unaccented would be obtained. Yet by *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171) — the case-endings other than the *sarvanāmasthāna* after the final-udātta monosyllabic words *ūṭ*, *idam*, the six *padādi* substitutes *pad*, *dat*, *nas*, *mās*, *hṛt*, *niś*, and *ap*, *pums*, *rai*, *div* are udātta — here the *ṅi*, a case-ending other than the *sarvanāmasthāna* after *div*, is udātta. By *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca* (Pā. Sū. 2-1-4 Vā. 2) — a word ending in *sup* is always compounded with the word *iva*; the case-ending in the compound is not dropped; even after compounding the first member keeps its own accent — so for *divi* + *iva* both the compound, the non-dropping of the case-ending *i*, and the first member's own accent come. By *cādayo 'nudāttāḥ* (Phi. Sū. 84) the word *iva* is unaccented, as set forth at *sa naḥ pitevaḥ* [as printed] (Ṛ. Saṃ. 1-1-9). The final udātta *i* in *divi* and the unaccented *i* in *iva* take the long like vowel as a single substitute for both; but here by *ekādeśa udāttenodāttaḥ* (Pā. Sū. 8-2-5) the single substitute does not become udātta. Since the word *iva*, beginning with an unaccented vowel, follows, by *svarito vānudātte padādau* (Pā. Sū. 8-2-6) — the single substitute for an udātta with an unaccented vowel at the beginning of the following word is optionally svarita — the svarita accent comes. *Cakṣuḥ* is a word always of neuter gender; so by *nabviṣayasyānisantasya* (Phi. Sū. 26) it is initially udātta.
+
+**आततम् (ātatam)** — after the root *tanu vistāre* preceded by the prefix *āṅ*, in the object sense, the suffix *kta*: *ātan* + *ta*; the root is *tan*. Since the root has the *it*-named *u*, by *udito vā* (Pā. Sū. 7-2-56) the augment *iṭ* is laid down optionally for the suffix *ktvā* after a root marked *u*. So by *yasya vibhāṣā* (Pā. Sū. 7-2-15) — for a root for which *iṭ* is anywhere laid down optionally, —
+
+### Page 138 (upper) — Rik 20: grammar (end)
+
+— the suffixes *kta* and *ktavatu* after that root do not take the augment *iṭ* — the augment *iṭ* is barred. Then by *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. Sū. 6-4-37) — the roots ending in a nasal that are taught unaccented, the roots *tanoti* and the rest, and the root *van*, drop the nasal before a *jhal*-initial suffix that is *kit* or *ṅit* — the *n* of *tan* is dropped. *Yami*, *rami*, *nami*, *gami*, *hani*, *mani*: these six roots are taught unaccented; *tanu*, *kṣaṇu*, *kṣiṇu*, *ṛṇu*, *tṛṇu*, *ghṛṇu*, *vanu*, *manu*: these eight roots are the *tanoty-ādi* roots; so it became *ātata*. By *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the own accent of the *kṛt* final member would be due; overriding this, by *thāthaghañktājabitrakāṇām* (Pā. Sū. 6-1-144, as read) the final udātta of the last member would be due; overriding that too, by *gatir anantaraḥ* (Pā. Sū. 6-2-49) — when a word ending in the suffix *kta* in the object sense follows, the immediately preceding *gati* keeps its own accent — the *gati* *ā* is udātta. ॥20॥
 
 ---
 
