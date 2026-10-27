@@ -11300,15 +11300,17 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 
 ---
 
-### Page 555 — Sūkta 13, Rik 7
+### Page 555 (lower) — Sūkta 13, Rik 7
+
+*(Saṃhitā accents as printed; Pada unaccented. Line 1: the bars are crowded under नक्तो and सास्मि — [accent ?].)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नक्तोषासा सुपेशसास्मिन्यज्ञ उप ह्वये ।
-> इदं नो बर्हिरासदे ॥७॥
+> न॒क्तो॒षासा॑ सु॒पेश॑सा॒स्मिन्य॒ज्ञ उप॑ ह्वये । [accent ?]
+> इ॒दं नो॑ ब॒र्हिरा॒स॑दे ॥७॥
 >
-> *naktoṣāsā supeśasāsmin yajña upa hvaye |*
-> *idaṃ no barhir āsade ||7||*
+> *naktoṣā́sā supéśasāsmín yajñá úpa hvaye |* [accent ?]
+> *idáṃ no barhír āsade ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -11318,13 +11320,13 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 > *naktoṣasā | su-peśasā | asmin | yajñe | upa | hvaye ||*
 > *idam | naḥ | barhiḥ | ā-sade ||7||*
 
-**॥ Sāyaṇa-bhāṣyam ॥**
+**॥ Sāyaṇa-bhāṣyam ॥** *(runs onto p. 556)*
 
-> नक्तशब्द उषःशब्दश्च लोके कालविशेषवाचिनौ । इह तु तत्कालाभिमानिन्यौ वह्निमूर्तिद्वयोः प्रयुज्येते । नक्तोषासा नक्तोषसो नामिके वह्निमूर्ती अस्मिन्नेत्र वर्तमाने यज्ञे कर्मण्युप ह्वये । आह्वयामि । किमर्थम् । नो ऽस्मदीयमिदं वेद्यामास्तीर्णं बर्हिर्गर्भमासदे । आसत्त्वं । प्राप्तं । कीदृशौ । सुपेशसा शोभनरूपयुक्ते ॥ नक्तं तोषात्तः नक्तोषसा । द्वितीयोद्भिवचनस्य सुषां सुलुगित्याकारः मलोप उपधादीर्घश्छन्दसः । देवताद्वन्द्वे च । पा. ६-२-१४१ । इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । सुपेशसा । रोभनं पेशो रूपं ययोस्ते । पूर्वपदादाकारः । पेशःशब्दो ऽसन्त्ये ऽन्तोदात्तः । बहुव्रीहौ सन्नाभ्यामित्युत्तरपदान्तोदात्तत्वस्यापवादत्वेनाद्युदात्तम् । … अस्मिन् । ऊडिदमित्यादिना विभक्तेरुदात्तत्वात् । आसदे । षद्लृ विशरणगत्यवसादनेषु । धात्वादेः षः सः । आङ्पूर्वात्सदेस्तुमर्थे भावे क्विप् । … कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> नक्तशब्द उषःशब्दश्च लोके कालविशेषवाचिनौ । इह तु तत्कालाभिमानि वह्निमूर्तिद्वये प्रयुज्येते । नक्तोषासा नक्तोषो नामिके वह्निमूर्ती अस्मिन्प्रवर्तमाने यज्ञकर्मण्युप ह्वये । आह्वयामि । किमर्थम् । नो ऽस्मदीयमिदं वेद्यामास्तीर्णं बर्हिर्दर्भमासदे । आसत्तुम् । प्राप्तुम् । कीदृशौ । सुपेशसा शोभनरूपयुक्ते ॥ नक्तं चोषाश्च नक्तोषसा । द्वितीयाद्विवचनस्य सुपां सुलुगित्याकारः । मलोप उपधादीर्घश्छान्दसौ । देवताद्वन्द्वे च । पा. ६-२-१४१ । इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । सुपेशसा । शोभनं पेशो रूपं ययोस्ते । पूर्ववदाकारः । पेशःशब्दो नब्विषयत्वादाद्युदात्तः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वस्यापवादत्वेनाद्युदात्तं द्व्यच्छन्दसि । पा. ६-२-११९ । इत्युत्तरपदाद्युदात्तत्वम् । अस्मिन् । ऊडिदमित्यादिना विभक्तिरुदात्ता । आसदे । षद्लृ विशरणगत्यवसादनेषु । धात्वादेः षः सः । आङ्पूर्वादस्मात्संपदादिभ्यो भावे क्विप् । पा. ३-३-१०८-९ । प्रादिसमासः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 >
-> *naktaśabda uṣaḥśabdaś ca loke kāla-viśeṣa-vācinau | iha tu tat-kālābhimāninyau vahni-mūrti-dvayoḥ prayujyete | naktoṣāsā naktoṣaso nāmike vahni-mūrtī asminn eva vartamāne yajñe karmaṇy upa hvaye | āhvayāmi | kim-artham | no 'smadīyam idaṃ vedyām āstīrṇaṃ barhir garbham āsade | āsattvaṃ | prāptaṃ | kīdṛśau | supeśasā śobhana-rūpa-yukte || naktaṃ toṣāt taḥ naktoṣasā | dvitīyodbhi-vacanasya suṣāṃ suluk ity ākāraḥ malopa upadhā-dīrghaś chandasaḥ | devatā-dvandve ca | pā. 6-2-141 | iti pūrvottara-padayor yugapat prakṛti-svaratvam | supeśasā | śobhanaṃ peśo rūpaṃ yayos te | pūrvapadād ākāraḥ | peśaḥ-śabdo 'santye 'ntodāttaḥ | bahuvrīhau sannābhyām ity uttarapadāntodāttatvasyāpavādatvenādyudāttam | ... asmin | ūḍidam ity-ādinā vibhakter udāttatvāt | āsade | ṣadḷ viśaraṇa-gaty-avasādaneṣu | dhātvādeḥ ṣaḥ saḥ | āṅ-pūrvāt sader tumarthe bhāve kvip | ... kṛd-uttara-pada-prakṛti-svaratvam ||*
+> *naktaśabda uṣaḥśabdaśca loke kālaviśeṣavācinau | iha tu tatkālābhimāni vahnimūrtidvaye prayujyete | naktoṣāsā naktoṣo nāmike vahnimūrtī asminpravartamāne yajñakarmaṇyupa hvaye | āhvayāmi | kimartham | no 'smadīyamidaṃ vedyāmāstīrṇaṃ barhirdarbhamāsade | āsattum | prāptum | kīdṛśau | supeśasā śobhanarūpayukte || naktaṃ coṣāśca naktoṣasā | dvitīyādvivacanasya supāṃ sulugityākāraḥ | malopa upadhādīrghaśchāndasau | devatādvandve ca | pā. 6-2-141 | iti pūrvottarapadayoryugapatprakṛtisvaratvam | supeśasā | śobhanaṃ peśo rūpaṃ yayoste | pūrvavadākāraḥ | peśaḥśabdo nabviṣayatvādādyudāttaḥ | bahuvrīhau nañsubhyāmityuttarapadāntodāttatvasyāpavādatvenādyudāttaṃ dvyacchandasi | pā. 6-2-119 | ityuttarapadādyudāttatvam | asmin | ūḍidamityādinā vibhaktirudāttā | āsade | ṣadlṛ viśaraṇagatyavasādaneṣu | dhātvādeḥ ṣaḥ saḥ | āṅpūrvādasmātsaṃpadādibhyo bhāve kvip | pā. 3-3-108-9 | prādisamāsaḥ | kṛduttarapadaprakṛtisvaratvam ||*
 
-**Translation:** "The words *nakta* (night) and *uṣas* (dawn) in ordinary speech denote particular times; but here the presiding forms of those times, two Fire-forms, are meant. *Naktoṣāsā* — the two Fire-forms named Night and Dawn — in this very sacrifice now in progress, *upa hvaye*: I invoke. For what? *Naḥ idam barhiḥ āsade* — so that [they] may sit on this our *barhis* spread on the altar. What are they like? *Supeśasā* — endowed with beautiful forms." *(Grammar noted briefly:* naktoṣāsā *is a dvandva of two deities, "night and dawn," in which both members keep their natural accent by Pā. 6-2-141 [?], with the Vedic* ā *for the dual ending and lengthening;* supeśas *is a bahuvrīhi "of beautiful form," initial-udātta;* āsade *is the infinitive of* sad *with the prefix* ā *and* kvip *in the sense of* tumun*, with the* kṛdanta *second-member accent.)* *(Some of the Sanskrit is compressed.)*
+**Translation:** "The words *nakta* and *uṣas* in ordinary use denote particular times; here, however, they are used of the pair of fire-forms presiding over those times. *Naktoṣāsā* — the two fire-forms named Night and Dawn — I *upa hvaye*, call, in this sacrificial rite now in progress. For what? *Naḥ idaṃ barhiḥ āsade* — to sit on, to reach, this our *darbha* spread on the altar. What are they like? *Supeśasā* — endowed with beautiful form." (Grammatical tail: *naktoṣasā* — "night and dawn": *ā* for the accusative dual ending by "supāṃ suluk…"; the loss of *m* and the lengthening of the penultimate are Vedic; by "devatādvandve ca" (Pā. 6-2-141) both members keep their own accents at once; *supeśasā* — "whose *peśas*, form, is beautiful", *ā* as before; *peśas* initial-udātta as a *nab-viṣaya* word; in the bahuvrīhi, setting aside the second member's final udātta of "nañ-subhyām", "ādyudāttaṃ dvyac chandasi" (Pā. 6-2-119) makes the second member initial-udātta; *asmin* — the case ending udātta by "ūḍ-idam…"; *āsade* — *ṣadḷ*, *s* for *ṣ*, *kvip* in the sense of the state after *sad* with *āṅ*, by "sampadādibhyaḥ" (Pā. 3-3-108-9), a *prādi* compound, the *kṛt* second-member accent.)
 
 ### Page 556 — Rik 7: word-meanings, overall sense, English
 
@@ -11334,52 +11336,69 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 
 **॥ Bhāvārthaḥ ॥**
 
-In the sacrifice we are performing, we have spread *darbha* on the altar and made a seat. To sit on this seat, I now call, in this ongoing sacrifice, the two deities named *Naktoṣāsā* (the presiding deities of night and of dawn), who shine in beautiful forms.
+In the sacrifice we are performing we have spread *darbha* on the altar and made a seat ready. To come and sit on this seat, I now call in the sacrifice in progress the deities who shine with excellent forms (the deities called *Naktoṣāsā*, presiding over night and the morning time).
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I invoke here at this sacrifice Night and Dawn, the beautifully adorned goddesses, that they may sit down on this our sacrificial grass.
 
-### Pages 557–558 — Rik 7: Special Topics
+### Page 557 — Rik 7: Special Topics
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-In this rik the presiding deities of night and of the morning time, called *Naktoṣāsā*, are invoked. Yāska's explanation of the word *naktoṣāsā* is as follows:
+In this rik the presiding deities of night and of the morning time, called *Naktoṣāsā*, are invoked. Yāska's explanation of the word *naktoṣasā* is as follows:
 
-> उषासानक्ता । उषासानक्तेत्येते नक्ता च उषाश्च व्याख्याताः । नक्तेति रात्रिनाम नक्तेति [?] अव्यक्तवर्णा ॥
-> *uṣāsānaktā | uṣāsānaktety ete naktā ca uṣāś ca vyākhyātāḥ | nakteti rātri-nāma nakteti [?] avyakta-varṇā ||*
-> (Nirukta 8-11 [?]; the print is compressed and I give it as a best reading.)
+> उषासानक्ता । उषासानक्तोषाश्च नक्ता चोषा व्याख्याता । नक्तेति रात्रिनामानक्ति भूतान्यवश्यायेनापि वा नक्ताव्यक्तवर्णा ॥
+>
+> *uṣāsānaktā | uṣāsānaktoṣāśca naktā coṣā vyākhyātā | nakteti rātrināmānakti bhūtānyavaśyāyenāpi vā naktāvyaktavarṇā ||*
 
-Although *naktoṣāsā* and *uṣāsānaktā* are two different forms in the text, the sense is the same. The explanation of the word *uṣas* was given earlier. *Naktā* is a name of night. For *naktā* is "of indistinct colour"; since things are not clearly seen in the dark of night, it is called *naktā*; at this time living beings are unable to do their work. Yāska explains: "*anakti kledayati bhūtāni āvaśyāyena iti*" — "it anoints, it wets beings with dew"; "*api vā naktā avyaktavarṇā*" — "or *naktā* is of indistinct colour; as the day makes the forms of everything manifest, the night does not." Since the darkness gives no chance for beings' works to go on properly, it is troublesome to them; for this reason the night is called *naktā*; or because nothing is clearly seen, it is called *naktā*. By day the forms of all things are clear; at night nothing is seen: so this meaning is given for the word *naktā* for night-time (Nirukta 8-11).
+Although read in two ways, *naktoṣāsā* and *uṣāsānaktā*, the sense is one. We have given the explanation of the word *uṣas* earlier. *Naktā* is a name of night; for *naktā* means *avyaktavarṇā*, "of indistinct colour": because of the darkness things are indistinct, not clearly seen; so the night, joined with darkness, is called *naktā*, and in this night-time living beings are unable to do their work.
 
-The meaning of the word *uṣas* has been given before: "*vibhāvarī*, *sūnarī* and the other sixteen words are names of dawn" (Nirukta 1-8 [?]); and
+> अनक्ति क्लेदयति भूतानि अवश्यायेन इति । अपि वा नक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः ॥
+>
+> *anakti kledayati bhūtāni avaśyāyena iti | api vā naktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ ||*
+
+The darkness gives living beings trouble, leaving no room for their activities to go on properly; so the night joined with such darkness is called *naktā*; or, since nothing is clearly seen and all is indistinct, it is called *naktā*. By day the forms of all things are seen clearly; at night they are not seen so. Therefore he explained that the night-time is called *naktā* (Ni. 8-11).
+
+He says that he has already explained the word *uṣas*; that explanation runs: "*vibhāvarī*, *sūnarī* and the other sixteen words are names of dawn" (printed "2-19"), and
 
 > उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥
-> *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ ||*
-> "Why is *uṣas* so called? From *ucchati* ('it shines out'); [it is] the last part of the night."
+>
+> *uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ||*
 
-*Uṣas* is called so because it removes the darkness of night; it is the last part of night. To support this sense, he gives a rik:
+Because it removes the darkness of night it is called *uṣas*; that is, the latter time of the night, its last part. In support of this sense he gives an example:
+
+*(Ṛ. Saṃ. 1-113-1.)*
 
 > इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा ।
-> यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक् ॥
-> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā |*
-> *yathā prasūtā savituḥ savāya evā rātry uṣase yonim āraik ||*
-> (Ṛgveda Saṃhitā 1-113-1 [?]; printed "१-११३-१")
-> *("This best light of lights has come; the wondrous sign has been born, pervading. As [Night], impelled for Savitṛ's impulse, so has Night yielded her womb to Dawn." — my gloss, tentative.)*
+> यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥
+>
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*
+> *yathā prasūtā savituḥ savāya~ evā rātryuṣase yonimāraik ||*
 
-and explains it in his Nirukta: "*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgamat | citraṃ praketanaṃ prajñāte-tamam ajaniṣṭa vibhūtatamam | yathā prasūtā savituḥ prasavāya rātrir ādityasya | evaṃ rātry uṣase yonim aricat sthānam | strī-yonir abhiyuta enāṃ garbhaḥ*" (Nirukta 2-19 [?]) — "the best light of lights has come; the wondrous sign, the most distinguished, has been born; as the night, set in motion for the urging of Savitṛ, the sun, so the night has given up to the dawn her place, her womb."
+*("This best light of lights has come; the bright sign is born, far-reaching. As [Night] was set in motion for Savitṛ's impulse, so has Night given up her womb to Dawn" — mine and tentative.)*
 
-The best, most brilliant light of the sun is rising; the dawn-time, which precedes that light, runs before it like a banner — the light of the sun shines through the whole day, and at the time of setting becomes the womb, i.e., the cause, for the night; so the night, at the end of its own time, becomes the cause for dawn. *Yoni* means a birth-place. At the end of the day night, and at the end of night dawn, are one: they come into view in a cycle of change: that is the chief idea. Hence *uṣas* means the light that, after the night has passed, spreads through all the quarters before sunrise and shines forth: dawn.
+The Nirukta of this rik:
 
-The Bhāṣyakāra's explanation: "*nakta-śabda uṣaḥ-śabdaś ca loke kāla-viśeṣa-vācinau | iha tu tat-kālābhimāniny-agni-mūrti-dvaye prayujyete*" — *nakta* and *uṣas* in ordinary use denote particular times, night and morning; here, in this rik or in the Ṛgveda, these words denote the presiding deities of night and of morning-time; hence *naktoṣāsā* or *uṣāsānaktā* are used in the sense of two forms of Agni — as the deities presiding over night and the morning-time. The word *supeśasā* ("of fine form or shape") used in this rik supports this sense: since night and dawn are divisions of time, they have neither form nor shape. In the view that these are the presiding deities of those times, a form can be assigned to those deities. Since in this rik an invocation (*upa hvaye*) is stated, it is to be understood that the presiding deities of these times are meant. The *s* in *naktoṣasā* is lengthened for the convenience of the meter in the Saṃhitā.
+### Page 558 — Rik 7: Special Topics (continued)
 
-**"Supeśasā"** — *peśas* is read among the sixteen words for 'form' beginning with *nirṇik*, *varpas* (Nirukta 3-7 [?]); so *peśas* means form; hence *supeśasā* = *śobhanarūpayukte* — "endowed with beautiful form."
+> इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्र्युषसे योनिमरिचत्स्थानम् । स्त्रीयोनिरभियुत एनां गर्भः ॥
+>
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātryuṣase yonimaricatsthānam | strīyonirabhiyuta enāṃ garbhaḥ ||*
 
-**"Āsade"** — *ṣadḷ viśaraṇagatyavasādaneṣu*: "to sit; to come and sit."
+The best and exceedingly bright light of the sun is rising. The dawn-time, which comes before the sun's light, appears ahead of the light like its banner (*niketana*, its flag). For, just as the sun's light, shining all day, becomes at the time of setting the *yoni* — the cause — for night, so night at the end of its own time becomes the *yoni*, the cause, for the dawn-time. *Yoni* means a place of birth. The chief idea is that at the end of the day night, and at the end of night dawn, keep coming round in a cycle of change. So *uṣas* means the brightness, the light, that spreads through all the quarters and appears before sunrise, after the night has passed.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page 559, noted briefly)*
+The Bhāṣyakāra's (Sāyaṇa's) explanation: "*naktaśabda uṣaḥśabdaś ca loke kālaviśeṣavācinau | iha tu tatkālābhimānivahnimūrtidvaye prayujyete | naktoṣāsā naktoṣonāmike vahnimūrtī*" — that is, the two words *nakta* (night) and *uṣas* (the morning time) have, in ordinary usage, the sense of denoting particular times, night and the morning time; here, that is, in this rik or in the Ṛgveda, these words convey the sense of the presiding deities of night and of the morning time. Hence the words *naktoṣāsā* or *uṣāsānaktā* are used in the sense of two forms (*mūrti*) of Agni that are the presiding deities of night and of the morning time. The word *supeśasā* (having a fine form or shape) used in this rik supports this sense: since night and the morning time are divisions of time, they have neither form nor shape; on the view that they are the presiding deities of those times, a form can be ascribed to those deities. Since the rik makes such a statement, it must be understood that here the presiding deities of those times are meant. The *ṣa* in the word *naktoṣasā* is lengthened for the convenience of the metre.
 
-**नक्तोषसा (*naktoṣasā*)** — "naktaṃ ca uṣāś ca": a *dvandva* compound; the dual *au* → *ā* ("supāṃ suluk…," Pā. 7-1-39 [?]); the *m* of *naktam* is dropped, and the *a* of *uṣas*, as penultimate, lengthens, both by Vedic license; "devatādvandve ca" (Pā. 6-2-141 [?]) — in a *dvandva* of deity-words both members keep their natural accent together. **सुपेशसा (*supeśasā*)** — "śobhanaṃ peśo yayos te": the neuter *peśas* is initial-udātta by "nabviṣayasyānisantasya" (Phiṭ-sūtra 36 [?]); a bahuvrīhi would keep the first member's accent (Pā. 6-2-1 [?]), overridden by "nañsubhyām" (Pā. 6-2-172 [?]) giving final-udātta, overridden again by "ādyudāttaṃ dvyac chandasi" (Pā. 6-2-119 [?]) — as *peśas* is two-syllabled and initial-udātta, it stays initial-udātta. **अस्मिन् (*asmin*)** — the ending is udātta by "ūḍidam…" (Pā. 6-1-171 [?]). **आसदे (*āsade*)** — root *ṣadḷ viśaraṇagatyavasādaneṣu*; *ṣ* → *s* ("dhātvādeḥ ṣaḥ saḥ," Pā. 6-1-64 [?]); "sampadādibhyaḥ kvip" (Pā. 3-3-108 *vārttika* 9 [?]): *kvip* after the root *sad* preceded by *ā*, in the sense of the action; *sad* is udātta by the root; *ā* + *sad* compound ("kugatiprādayaḥ," Pā. 2-2-18 [?]); the *kṛdanta* second member's accent by "gatikārakopapadāt kṛt" (Pā. 6-2-139 [?]); the dative singular *ṅe*, unaccented, then *svarita* ("udāttād anudāttasya svaritaḥ," Pā. 8-4-66 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**"Supeśasā"** — since the word *peśas* is read among the sixteen words for form, *nirṇik*, *vavriḥ* and the rest, *peśas* means form; so *supeśasā* = *śobhanarūpayukte*, endowed with beautiful form, lovely.
+
+**"Āsade"** — *ṣadḷ viśaraṇagatyavasādaneṣu*: "for reaching", that is, for coming and sitting.
+
+### Page 559 — Rik 7 grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly; numbers checked against the print)*
+
+**नक्तोषसा (*naktoṣasā*)** — "naktaṃ ca uṣaś ca naktoṣasā": a dvandva; after it the accusative dual *auṭ*; "supāṃ su-luk…" (printed "7-1-39") gives the substitute *ā*; the loss of the *m* of *naktam* and the lengthening of the penultimate *a* of *uṣas* both come as Vedic forms; "devatādvandve ca" (Pā. 6-2-141): in a dvandva of words for deities, the first and second members both keep their own accent at once — so both members keep their own accent. **सुपेशसा (*supeśasā*)** — "śobhanaṃ peśaḥ yayoḥ te"; as before, *ā* for the accusative dual; *peśas* is neuter, so initial-udātta by "nab-viṣayasyānisantasya" (Phi. sū. "2-26"). In the bahuvrīhi, "bahuvrīhau prakṛtyā pūrvapadam" would give the first member's accent; setting it aside, "nañ-subhyām" (Pā. 6-2-172) would make the second member final-udātta; setting that aside too, "ādyudāttaṃ dvyac chandasi" (Pā. 6-2-119) — in a bahuvrīhi, a second member that is initial-udātta and of two syllables stays initial-udātta after *su* — so *peśas* is initial-udātta. **अस्मिन् (*asmin*)** — the case ending udātta by "ūḍ-idam-padādy-ap-pum-rai-dyubhyaḥ" (printed "pā. mā." [sic] 6-1-171). **आसदे (*āsade*)** — *ṣadḷ viśaraṇa-gaty-avasādaneṣu*; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. 6-1-64); by "sampadādibhyaḥ kvip" (printed "Pā. sū. 3-3-108 vā. 9") *kvip* in the sense of the state after *sad* preceded by *āṅ*; *sad* is udātta by the root accent; with *āṅ*, a *prādi* compound by "kugatiprādayaḥ" (Pā. 2-2-18); in *āsad*, by "gati-kārakopapadāt kṛt" (printed "6-2-9139" [sic]) that same accent stands as the *kṛt* second member's; then the dative singular *ṅe*, unaccented as a *sup*, made svarita by "udāttād anudāttasya" (Pā. 8-4-66).
 
 **॥७॥**
 
