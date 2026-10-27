@@ -17743,53 +17743,67 @@ The suffix *ṇic* is *cit*; so *īṅkhi* is final udātta by *citaḥ*. After 
 
 ---
 
-### Pages 803–805 — Sūkta 19, Rik 8
+### Page 803 — Sūkta 19, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ ये तन्वन्ति रश्मिभिस्तिरः समुद्रमोजसा ।
-> मरुद्भिरग्न आ गहि ॥८॥
+> आ ये त॒न्वन्ति॑ र॒श्मिभि॑स्ति॒रः स॑मु॒द्रमोज॑सा । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥८॥ [accent ?]
 >
-> *ā ye tanvanti raśmibhis tiraḥ samudram ojasā |*
-> *marudbhir agna ā gahi ||8||*
+> *ā ye tanvánti raśmíbhis tiráḥ samudrám ójasā |* [accent ?]
+> *marúdbhir agna ā́ gahi ||8||* [accent ?]
+
+*(Read as printed: bars under त (तन्व), र (रश्मि), ति (तिरः), मु, म (मरु) and ग्न; strokes over न्ति, भि, स (समु), ज, द्भि and ग.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > आ । ये । तन्वन्ति । रश्मिऽभिः । तिरः । समुद्रम् । ओजसा ॥
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥८॥
 >
-> *ā | ye | tanvanti | raśmi-bhiḥ | tiraḥ | samudram | ojasā ||*
-> *marut-bhiḥ | agne | ā | gahi ||8||*
+> *ā | ye | tanvanti | raśmi 'bhiḥ | tiraḥ | samudram | ojasā ||*
+> *marut 'bhiḥ | agne | ā | gahi ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 803; compressed; [?] marks doubtful readings)*
-
-> ये मरुतो रश्मिभिः सूर्यकिरणैः सहा तन्वन्ति आप्नुवन्ति । आकाशमिति शेषः । किंच ओजसा स्वकीयबलेन समुद्रं तिरस्कुर्वन्ति । तैर्मरुद्भिरित्यन्वयः ॥ तन्वन्ति । तनु विस्तारे । लटो झ्यन्तः [?] । तनादिभ्यः कृञ्भ्य उः । पा. [३-१-७९] । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः । … समुद्रम् । उन्दी क्लेदने । स्थायिताम्नेती रक् [?] । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् ॥८॥
+> ये मरुतो रश्मिभिः सूर्यकिरणैः सहा तन्वन्ति आप्नुवन्ति । आकाशमिति शेषः । किंच ओजसा स्वकीयबलेन समुद्रं तिरस्कुर्वन्ति । तैर्मरुद्भिरित्यन्वयः ॥ तन्वन्ति । तनु विस्तारे । लटो झोऽन्तः । तनादिकृञ्भ्य उः । पा. ३-१-७९ । सतिशिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति तिङ एवाद्युदात्तत्वम् । समुद्रम् । उन्दी क्लेदने । स्फायितञ्चीति रक् । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 >
-> *ye maruto raśmibhiḥ sūrya-kiraṇaiḥ sahā tanvanti āpnuvanti | ākāśam iti śeṣaḥ | kiṃca ojasā svakīya-balena samudraṃ tiraskurvanti | tair marudbhir ity anvayaḥ || tanvanti | tanu vistāre | laṭo jhy antaḥ [?] | tanādibhyaḥ kṛñbhya uḥ | pā. [3-1-79] | sati śiṣṭa-svara-balīyastvam anyatra vikaraṇebhyaḥ | … samudram | undī kledane | sthāyitām netī rak [?] | samāse kṛd-uttarapada-prakṛti-svaratvam ||8||*
+> *ye maruto raśmibhiḥ sūryakiraṇaiḥ sahā tanvanti āpnuvanti | ākāśamiti śeṣaḥ | kiṃca ojasā svakīyabalena samudraṃ tiraskurvanti | tairmarudbhirityanvayaḥ || tanvanti | tanu vistāre | laṭo jho 'ntaḥ | tanādikṛñbhya uḥ | pā. 3-1-79 | satiśiṣṭasvarabalīyastvamanyatra vikaraṇebhya iti tiṅa evādyudāttatvam | samudram | undī kledane | sphāyitañcīti rak | samāse kṛduttarapadaprakṛtisvaratvam ||*
 
-**Translation:** "Those Maruts who spread out (*tanvanti*), pervade — the sky (supplied) — together with the rays (*raśmibhiḥ*) of the sun; and further by their own strength (*ojasā*) they agitate the sea. With those Maruts [come]." The rest is grammar, noted briefly: *tanvanti* (*tan* 'to spread', *laṭ* third plural; the suffix *u* [*uḥ*] of the *tanādi* class and of *kṛ* by P. 3-1-79; the accent of the suffix prevails over that of the others [*satiśiṣṭa*] except for the *vikaraṇas*); *samudram* (*und* 'to wet' with the Uṇādi *rak*, *saṃ* as prefix; the final member's accent). *(Grammar, noted briefly; the Uṇādi note is partly unclear [?].)*
+**Translation:** "The Maruts who, *raśmibhiḥ*, with the sun's rays, *ā tanvanti*, pervade (the sky, is to be supplied); and further, *ojasā*, by their own strength, overturn the ocean: with those Maruts: that is the construction." (Grammatical tail: *tanvanti*, *tanu vistāre*, *ant* for *jha* of *laṭ*, *u* by *tanādikṛñbhya uḥ* (Pā. 3-1-79); by the statement on *satiśiṣṭa* accent "except for *vikaraṇas*", the *tiṅ* alone is initial udātta; *samudram*, *undī kledane*, *rak* by *sphāyitañci…*, in the compound the accent of the *kṛt* final member.)
 
-**Grammar pages (pp. 804 lower half–805 upper), noted briefly.** The Kannada treats *tanvanti* (*tanu vistāre*; *vartamāne laṭ* P. 3-2-123; third plural *jhi*; *jher jus* — in the Kannada *jhi* → *ant* by P. 7-1-3 *jho 'ntaḥ*; *tanādikṛñbhya uḥ* P. 3-1-79 gives *u* [*tanādi*-class *vikaraṇa*] after the *tanādi* roots and *kṛ*; *tan* + *u* + *anti*; guṇa of *u* by P. 7-3-84 would give *o*, but *sārvadhātukam apit* P. 1-2-4 makes the ending *ṅit* [the *jhi*/*anti* is not *pit*], so *kṅiti ca* P. 1-1-5 bars the guṇa; *iko yaṇaci* P. 6-1-77 gives *v*: *tanvanti*; the *u* suffix, having been introduced as a *vikaraṇa* with its own accent, the *ñit*-accent rule *satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ* [Paribhāṣā] gives the accent of the suffix its strength except for the *vikaraṇas*; since *u* is a *vikaraṇa* its accent is not stronger; hence the accent of the *anti* ending, being part of *tiṅ*, falls on the first syllable by the suffix accent), and *samudram* (*saṃ* + *undī kledane*; Uṇ. 3-[?] *sthāyitāmnetirakṣiviṣṭhīsibhyo vasuh*… *rak* [as read, partly]; *anidītāṃ halaḥ upadhāyāḥ kṅiti* P. 6-4-24 drops the nasal of *und*; *saṃ* + *udra*, with *samudra*; the accent of the suffix is on the end; and after the compound with the prefix [*gatikārakopapadāt kṛt* P. 6-2-139], the final-member accent holds). ॥8॥ *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 803)*
+**(हे) अग्ने ((he) agne)** — O Agni | **ये (ye)** — which Marut deities | **रश्मिभिः (raśmibhiḥ)** — together with the sun's rays | (the sky) **आ तन्वन्ति (ā tanvanti)** — pervade everywhere | (and) **ओजसा (ojasā)** — by their own power | **समुद्रम् (samudram)** — the ocean | **तिरः (tiraḥ)** — stir up into waves | (such) **मरुद्भिः (marudbhiḥ)** — with the Marut deities | **आ गहि (ā gahi)** — come here.
 
-**(हे) अग्ने ((he) agne)** — O Agni | **ये (ye)** — which Marut deities | **रश्मिभिः (raśmibhiḥ)** — with the rays of the sun | **(आकाशम्) आ तन्वन्ति ((ākāśam) ā tanvanti)** — pervade [the sky] | *(and)* **ओजसा (ojasā)** — by their own strength | **समुद्रम् (samudram)** — the sea | **तिरः (tiraḥ)** — make surge | **मरुद्भिः (marudbhiḥ)** — with such Marut deities | **आ गहि (ā gahi)** — come here.
+### Page 804 — Rik 8: overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** *(p. 804)*
+**॥ Bhāvārthaḥ ॥**
 
-O Agni! The Marut deities, together with the rays of the sun, pervade the whole of the sky, and by their strength make the sea toss and surge. Come here with such Marut deities.
+O Agni, come here with the Marut deities who, together with the sun's rays, pervade all the sky and by their strength stir up the ocean.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, come hither with the Maruths who spread all over the sky with the rays of the Sun and with their strength agitate the ocean.
+> O Agni, come hither with the Maruths [sic] who spread all over the sky with the rays of the Sun and with their strength agitate the ocean.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 804)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**रश्मिभिः आ तन्वन्ति (raśmibhiḥ ā tanvanti)** — "they spread over the sky along with the rays of the sun": that is, as the sun's rays spread through the whole firmament in an instant, so the wind too spreads, along with them, through the firmament or the sky.
+**Raśmibhiḥ ā tanvanti**: pervading the sky together with the sun's rays: that is, as the sun's rays pervade the whole sky in an instant, so the wind too pervades the sky or the air.
 
-**ओजसा (ojasā)** — that is: because the wind blows with force, great waves rise in the sea.
+**Ojasā**: the intent is that, because the wind blows hard, huge waves rise in the ocean.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 804–805, noted briefly)*
+
+**तन्वन्ति (*tanvanti*)**: the root *tanu vistāre*; after it, by "vartamāne laṭ" (Pā. sū. 3-2-123), *laṭ*, 3rd plural *jhi*. By "jho 'ntaḥ" (Pā. sū. 7-1-3) *ant* for the *jh*: *tan* + *anti*. By "tanādikṛñbhya uḥ" (Pā. sū. 3-1-79), after the roots of the *tan-ādi* group and after the root *kṛñ*, when a *sārvadhātuka* in the agent sense follows, the suffix *u* comes; so after *tan* the suffix *u*: *tan* + *u* + *anti*. By "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84) *guṇa* *o* is due for the *u*; but by "sārvadhātukam apit" (Pā. sū. 1-2-4) the *sārvadhātuka* *jhi* is *ṅit*, so by "kṅiti ca" (Pā. sū. 1-1-5) *guṇa* is barred; so no *guṇa*. By "iko yaṇ aci" (Pā. sū. 6-1-77) *v* for the *u* by the *yaṇ* substitute: *tanvanti*. The suffix accent of *u* comes by a rule enjoining it after the accents of the others have arisen; so, though it is *satiśiṣṭa*, by "satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ", while the *satiśiṣṭa* accent is strong in places other than *vikaraṇas*, the *satiśiṣṭa* accent of *u*, being a *vikaraṇa*, is not strong. So the *anti* belonging to the *tiṅ* suffix is initial udātta by the suffix accent.
+
+### Page 805 (upper) — Rik 8: grammar (end)
+
+**समुद्रम् (*samudram*)**: after the root *undī kledane* preceded by the preverb *sam*, by "sphāyitañcivañciśakikṣipikṣudisṛpitṛpidṛpivandyundi…" (Uṇ. sū. "2-170" [?]) the suffix *rak* comes. By "anidhitāṃ hala upadhāyāḥ kṅiti" (Pā. sū. 6-4-24) the penultimate *n* drops: *samudra*. The word *udra* is final udātta by the suffix accent; after compounding with *sam* too, by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139), the accent of the *kṛt* final member comes, and that accent stays.
+
+**॥८॥**
+
+---
 
 ### Pages 805–807 — Sūkta 19, Rik 9 (last rik of the sūkta and of the volume)
 
