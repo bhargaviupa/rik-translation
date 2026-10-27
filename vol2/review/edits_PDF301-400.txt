@@ -74,3 +74,6 @@
 380 (p. 366): Rk 9.7 bhāṣya re-read in full: मतुपो ऽनुदात्तत्वात् (was नित्त्वात् [sic]); "शेषे लोपः । टिलोप इति पक्षे । पा. ७-२-९० । उदात्तनिवृत्ति… अन्त्यलोपपक्षे…" restored (was [?] + summary); grammar tail transcribed (6-4-60, 8-2-46); स्यदर्थत्वात् kept [? as printed]; translation note revised
 381 (p. 367): Ni. 3-9, 6-1-203, 7-1-39, 1-3-8, 1-1-55, 7-2-90 confirmed
 382 (p. 368): grammar refs read: 6-1-161 (added), 6-1-97, 8-2-5, Uṇ. 1-28 [as printed] (bhāṣya 1-29), 6-1-108 and 7-3-86 (added), 7-3-84, 6-1-78, 7-1-23, Uṇ. 1-149 (was 1-[?]), 6-2-1, 6-2-199, 6-4-60, 8-2-46, 6-2-2; sarvadhātubhyo has no number here (note had Uṇ. 4-188[?])
+379 (p. 365): Rk 9.7 accent: the bar seen at stroke height in line 2 is the line-1 bar under द्र (pushed down by the subscript), so इन्द्र॒, and line 2 has no [accent ?]
+383 (p. 369): accents Rk 9.8; bhāṣya re-read: "ता व्रीहियवादिरूपेण प्रसिद्धा रथिनीर्बहुरथोपेता इषो ऽन्नान्यस्मे" (was reordered with रथवत्यो [?]); विड्वनोर (was विड्सनोर); रथिन्य इति; स च पित्त्वादनुदात्तः (was सा … अनुदात्ता); 6-4-119, 3-2-67, 6-4-41, 4-1-5 confirmed
+383 (p. 369): Pratipadārtha: śravaḥ = "fame" (ಕೀರ್ತಿ; was "wealth"); tāḥ/rathinīḥ/iṣaḥ glosses re-read
