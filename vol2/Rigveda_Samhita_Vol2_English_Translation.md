@@ -17805,59 +17805,97 @@ O Agni, come here with the Marut deities who, together with the sun's rays, perv
 
 ---
 
-### Pages 805–807 — Sūkta 19, Rik 9 (last rik of the sūkta and of the volume)
+### Page 805 (lower) — Sūkta 19, Rik 9 (last ṛk of the sūkta and of the volume)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अभि त्वा पूर्वपीतये सृजामि सोम्यं मधु ।
-> मरुद्भिरग्न आ गहि ॥९॥
+> अ॒भि त्वा॒ पूर्व॑पीतये सृ॒जामि॑ सो॒म्यं मधु॑ । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥९॥ [accent ?]
 >
-> *abhi tvā pūrvapītaye sṛjāmi somyaṃ madhu |*
-> *marudbhir agna ā gahi ||9||*
+> *abhí tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |* [accent ?]
+> *marúdbhir agna ā́ gahi ||9||* [accent ?]
+
+*(Read as printed: bars under अ, त्वा, सृ, सो, म (मरु) and ग्न; strokes over व (पूर्व), मि, धु, द्भि and ग.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > अभि । त्वा । पूर्वऽपीतये । सृजामि । सोम्यम् । मधु ॥
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥९॥
 >
-> *abhi | tvā | pūrva-pītaye | sṛjāmi | somyam | madhu ||*
-> *marut-bhiḥ | agne | ā | gahi ||9||*
+> *abhi | tvā | pūrva 'pītaye | sṛjāmi | somyam | madhu ||*
+> *marut 'bhiḥ | agne | ā | gahi ||9||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 805; compressed; [?] marks doubtful readings)*
+*(॥३७॥ closes Varga 37.)*
 
-> हे अग्ने पूर्वपीतये पूर्वकाले प्रवृत्तायै पानाय त्वां प्रति सोम्यं मधु सोमसम्बन्धिनं मधुररसमभि सृजामि । सर्वतः सम्पादयामि । अतस्त्वं मरुद्भिः सहात्रागच्छ ॥ अभि । एवमादीनामन्त इत्यन्तोदात्तत्वम् । त्वा । त्वामौ द्वितीयायाः । पा. [८-१-२३] । इति त्वादेशः सर्वानुदात्तः । पूर्वपीतये । पूर्वा चासौ पीतिश्च । पुंवत्कर्मधारयजातीयदेशीययोः । पा. [६-३-४२] । पुंवद्भावः । सृजामि । सृज विसर्गे । मिपः पित्त्वादनुदात्तत्वम् । विकरणस्वरः । सोम्यम् । सोममर्हति यः । प्रत्ययस्वरेणान्तोदात्तः । मधु । फलिपाटनमि… । उ. [१-१८] । उप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वम् । अन्यद्गतम् ॥९॥
+> हे अग्ने पूर्वपीतये पूर्वकाले प्रवृत्ताय पानाय त्वां प्रति सोम्यं मधु सोमसंबन्धिनं मधुररसमभि सृजामि । सर्वतः संपादयामि । अतस्त्वं मरुद्भिः सहात्रागच्छ ॥ अभि । एवमादीनामन्त इत्यन्तोदात्तत्वम् । त्वा । त्वामौ द्वितीयाया इति त्वादेशः सर्वानुदात्तः । पूर्वपीतये । पूर्वा चासौ पीतिश्च । पुंवत्कर्मधारयेत्यादिना । पा. ६-३-४२ । पुंवद्भावः । सृजामि । सृज विसर्गे । मिपः पित्त्वादनुदात्तत्वम् । विकरणस्वरः । सोम्यम् । सोममर्हति यः । प्रत्ययस्वरेणान्तोदात्तः । मधु । फलिपाटिनमीत्यादिना । उ. १-१९ । उप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वम् । अन्यद्गतम् ॥३७॥
 >
-> *he agne pūrva-pītaye pūrva-kāle pravṛttāyai pānāya tvāṃ prati somyaṃ madhu soma-sambandhinaṃ madhura-rasam abhi sṛjāmi | sarvataḥ sampādayāmi | atas tvaṃ marudbhiḥ sahātrāgaccha || abhi | evam-ādīnām anta ity antodāttatvam | tvā | tvāmau dvitīyāyāḥ | pā. [8-1-23] | iti tvādeśaḥ sarvānudāttaḥ | pūrvapītaye | pūrvā cāsau pītiś ca | puṃvat-karmadhāraya-jātīya-deśīyayoḥ | pā. [6-3-42] | puṃvad-bhāvaḥ | sṛjāmi | sṛja visarge | mipaḥ pittvād anudāttatvam | vikaraṇa-svaraḥ | somyam | somam arhati yaḥ | pratyaya-svareṇāntodāttaḥ | madhu | phali-pāṭana-mi… | u. [1-18] | u-pratyayaḥ | nid ity anuvṛtter ādyudāttatvam | anyad gatam ||9||*
+> *he agne pūrvapītaye pūrvakāle pravṛttāya pānāya tvāṃ prati somyaṃ madhu somasaṃbandhinaṃ madhurarasamabhi sṛjāmi | sarvataḥ saṃpādayāmi | atastvaṃ marudbhiḥ sahātrāgaccha || abhi | evamādīnāmanta ityantodāttatvam | tvā | tvāmau dvitīyāyā iti tvādeśaḥ sarvānudāttaḥ | pūrvapītaye | pūrvā cāsau pītiśca | puṃvatkarmadhārayetyādinā | pā. 6-3-42 | puṃvadbhāvaḥ | sṛjāmi | sṛja visarge | mipaḥ pittvādanudāttatvam | vikaraṇasvaraḥ | somyam | somamarhati yaḥ | pratyayasvareṇāntodāttaḥ | madhu | phalipāṭinamītyādinā | u. 1-19 | upratyayaḥ | nidityanuvṛtterādyudāttatvam | anyadgatam ||37||*
 
-**Translation:** "O Agni! For the *pūrvapīti* — the drinking that [takes place] first — I pour out (*abhi sṛjāmi*, 'I prepare on all sides') for you the *somya madhu* — the sweet juice belonging to the soma. Therefore come here together with the Maruts. *Abhi* — end-accent by the list of *evamādi* words; *tvā* — the substitute *tvā* for *tvām*, by P. 8-1-23, wholly unaccented; *pūrvapītaye* — *pūrvā cāsau pītiś ca*, a *karmadhāraya*, the feminine taking the masculine form by P. 6-3-42; *sṛjāmi* — *sṛj* 'to emit'; the *mip* ending is *pit* and unaccented, the accent of the *vikaraṇa* [*śap*? — *tudādi* *śa*] remains; *somyam* — 'that which is fit for soma', end accent by the suffix; *madhu* — Uṇ. 1-18, the suffix *u*, first-syllable accent. The rest has been dealt with." *(Grammar, noted briefly.)*
+**Translation:** "O Agni, *pūrvapītaye*, for the drinking that takes place first, *abhi sṛjāmi*, I prepare on all sides, towards you, the *somya madhu*, the sweet juice belonging to soma. So come here with the Maruts." (Grammatical tail: *abhi*, final udātta by *evam-ādīnām antaḥ*; *tvā*, the substitute *tvā* by *tvāmau dvitīyāyāḥ*, wholly unaccented; *pūrvapītaye*, "it is first and it is a drinking", *puṃvadbhāva* by *puṃvat karmadhāraya…* (Pā. 6-3-42); *sṛjāmi*, *sṛja visarge*, *mip* unaccented as *pit*, the *vikaraṇa* accent; *somyam*, "that which deserves soma", final udātta by the suffix accent; *madhu*, the suffix *u* by *phalipāṭinami…* (Uṇ. 1-19), initial udātta as *nit* is carried on; the rest has been explained.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 806)*
+### Page 806 — Rik 9: word-meanings, overall sense, English, Special Topics, grammar
 
-**(हे) अग्ने ((he) agne)** — O Agni | **त्वाम् (tvām)** — you, or [for] you | **पूर्वपीतये (pūrvapītaye)** — [that you may] drink first of all | **सोम्यम् (somyam)** — belonging to soma | **मधु (madhu)** — the sweet juice | **अभि सृजामि (abhi sṛjāmi)** — I put into the vessel and make ready | *(therefore you)* **मरुद्भिः (marudbhiḥ)** — with the Marut deities | **आ गहि (ā gahi)** — come here.
+**॥ Prati-padārthaḥ ॥**
+
+**(हे) अग्ने ((he) agne)** — O Agni | **त्वा (tvā)** — for you, or with you in view | **पूर्वपीतये (pūrvapītaye)** — for drinking first (before all) | **सोम्यम् (somyam)** — belonging to soma | **मधु (madhu)** — the sweet juice | **अभि सृजामि (abhi sṛjāmi)** — I pour (into the vessel) and make ready | (you) **मरुद्भिः (marudbhiḥ)** — with the Marut deities | **आ गहि (ā gahi)** — come here.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! I pour the soma-juice, delightful to the taste, into the vessel and prepare it for you to drink before all others. Therefore come here together with the Marut deities.
+O Agni, I pour the tasty soma juice into the vessel and make it ready for you to drink first of all. So come here together with the Marut deities.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, I pour out the sweet drink of Soma to you that you may drink first ; come hither with the Maruths.
+> O Agni, I pour out the sweet drink of Soma to you that you may drink first ; come hither with the Maruths [sic].
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 806)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**पूर्वपीतये (pūrvapītaye)** — "so that you may drink before all". For this word Wilson, the scholar, gives the wrong meaning "as of old" [the print gives the English phrase: "as of old"]. The sense "before all others" given by the commentator is the appropriate one.
+**Pūrvapītaye**: for drinking first of all. For this word the scholar Wilson has given the wrong sense "as of old" [as printed], formerly. The sense given by the commentator, "first of all", is the fitting one.
 
-**अभि सृजामि (abhi sṛjāmi)** — *sarvataḥ sampādayāmi*: "I put into the vessel and make ready".
+**Abhi sṛjāmi**:
 
-**सोम्यम् (somyam)** — *somam arhati yaḥ*: worthy of soma; belonging to soma.
+> सर्वतः संपादयामि
+>
+> *sarvataḥ saṃpādayāmi*
 
-**मधु (madhu)** — sweet, delicious; *somyaṃ madhu* means the delicious soma-juice.
+("I prepare on all sides.") I pour into the vessel and make ready.
 
-**Grammar pages (pp. 806 lower half–808 upper), noted briefly.** The Kannada treats: *abhi* (*vivādīnām antaḥ* [Phiṭ-sūtra 4-[?]] gives end accent), *tvā* (*yuṣmad* + *am*; *tvāmau dvitīyāyāḥ* P. 8-1-23 gives *tvā* and *mā* for a following accusative singular of *yuṣmad/asmad* when not at the beginning of a *pāda*, and those substitutes are wholly unaccented), *pūrvapītaye* (*pūrvā cāsau pītiś ca*; the compound *karmadhāraya*, *pūrvā* feminine; *puṃvat karmadhārayajātīyadeśīyayoḥ* P. 6-3-42 gives masculine form to the feminine first member of a *karmadhāraya*; the Kannada discusses at length the scope of this sūtra and the preceding *striyāḥ puṃvad bhāṣitapuṃskād anūṅ samānādhikaraṇe striyām apūraṇīpriyādiṣu* P. 6-3-34, with its exclusions of ordinal and *priyā*-type words; the *bhāṣitapuṃska* "word whose masculine form is spoken", *ūṅ*-ending, *apūraṇīpriyādi*; the *atideśa* of sevenfold kind [*kāryarūpanimittārthaśāstratāṅgātmyaśabdāḥ* — as the Kannada gives it, the verse *vyapadeśaś ca saptaitān atideśān pracakṣate*]; the *tāṅgātmya*-atideśa applies here, "the form of the masculine"; the dative singular *ṅe* → *ye*, *pūrvapīti* + *e*; *ṅiti hrasvaś ca* P. 1-4-6 shortens the *ī*; *ghi*-name; *gher ṅiti* P. 7-3-111 gives guṇa; *eco 'yavāyāvaḥ*), *sṛjāmi* (*sṛja visarge*, *tudādi*; *laṭ* first person singular *mip*; *śa* [*vikaraṇa*] with *sṛj* + *a* + *mi*; *ato dīrgho yañi* P. 7-3-101 lengthens the *a*; *mip* is *pit* so unaccented by P. 3-1-4; the accent of the *vikaraṇa* [*śa*] remains), *somyam* (*somam arhati yaḥ* P. 5-1-… *dvitīyāntāt*; *yat* after the accusative *soma* in the sense "deserving"; *soma* + *am* + *ya*; *supo dhātuprātipadikayoḥ* P. 2-4-71 drops *am*; *yasyeti ca* drops the *a* of *soma*; *somya*; suffix accent), and *madhu* (*phalipāṭinami*… Uṇ. 1-[?] gives the suffix *u*; *nit* carried over, so first-syllable accent by P. 6-1-197; the process for *madhu* is explained in Ṛ. Saṃ. 1-[?]; the remaining words have been dealt with earlier). ॥9॥ ॥19॥ ॥37॥ *(The closing numerals read "೯ ‖ ೧೯ ‖ ೩೭" — Rik 9, Sūkta 19, Varga 37 — which supports the "36, 37" of the heading; I read them at 150 dpi, not enlarged.)*
+**Somyam**:
 
-### Page 808 — Close of Sūkta 19, of Adhyāya 1, and of the volume
+> सोममर्हति यः
+>
+> *somamarhati yaḥ*
+
+("That which deserves soma.") Worthy of soma, belonging to soma. *Madhu*: sweet, tasty; *somyaṃ madhu* means the tasty soma juice.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 806–808, noted briefly)*
+
+**अभि (*abhi*)**: final udātta by "evādīnām antaḥ".
+
+**त्वा (*tvā*)**: for *tvām*, the accusative-final of the base *yuṣmad*, by "tvāmau dvitīyāyāḥ" (Pā. sū. 8-1-23), the accusative-singular forms of *yuṣmad* and *asmad*, standing after a word and not at the start of a *pāda*, take the substitutes *tvā* and *mā* respectively, and these are wholly unaccented; so the wholly unaccented substitute *tvā* comes.
+
+### Page 807 — Rik 9: grammar
+
+**पूर्वपीतये (*pūrvapītaye*)**: *pūrvā cāsau pītiś ca*, *pūrvapītiḥ*. In "puṃvat karmadhārayajātīyadeśīyeṣu" (Pā. sū. 6-3-42) the words *striyāḥ*, *puṃvat*, *bhāṣitapuṃskād anūṅ* and *striyām* are carried on from the sūtra "striyāḥ puṃvad bhāṣitapuṃskād anūṅ samānādhikaraṇe striyām apūraṇīpriyādiṣu" (Pā. sū. 6-3-34). By "aluk uttarapade" (Pā. sū. 6-3-1) *uttarapade* is the heading. *Bhāṣitaḥ pumān yasmin pravṛttinimitte tat bhāṣitapuṃskam*; *bhāṣitapuṃskam asyāsti iti bhāṣitapuṃskam*, ending in *ac* in the sense of *arśa-ādi*: a word that has a ground of use in which masculinity has been stated is meant as *bhāṣitapuṃska*. *Ūṅaḥ abhāvaḥ*, or *na ūṅ*, *anūṅ*; *bhāṣitapuṃskāt anūṅ ūṅabhāvaḥ yasyāḥ sā*: a *bahuvrīhi*; by force of the ready-made form, the ablative of the compound member *bhāṣitapuṃskāt* is not dropped, and the genitive after the compound is dropped. The *vyadhikaraṇa* compound too is by the ready-made form; by force of the explanation, *apūraṇīpriyādiṣu* is not carried on here. Extension is said to be of seven kinds: "*kārya-rūpa-nimittārtha-śāstra-tādātmya-śabditāḥ | vyapadeśaś ca saptaite 'tideśān pracakṣate*". In *subāmantrite* there is extension of identity; here, extension of form: whatever form there is in the masculine, that same form comes. So the sense of the sūtra *puṃvat* is: the feminine word that stands immediately before the final member of a *karmadhāraya*, or immediately before the suffixes *jātīyar* and *deśīyar*, having a ground of use in which masculinity has been stated and not having the suffix *ūṅ*, takes the masculine form. With *pūrvā* + *pīti*, by this sūtra *pūrvā* takes the masculine form: *pūrvapīti*; in the dative singular *pūrvapītaye*.
+
+**सृजामि (*sṛjāmi*)**: *sṛja visarge*, a root of the *tud-ādi*. *Laṭ*, 1st singular *mip*: *sṛj* + *mi*; the *vikaraṇa* *śap* [as printed; the *tud-ādi* take *śa*]: *sṛj* + *a* + *mi*; by "ato dīrgho yañi" (Pā. sū. 7-3-101) lengthening: *sṛjāmi*. *Mip* being *pit*, it is unaccented by *anudāttau suppitau*. The *vikaraṇa* has the suffix accent.
+
+**सोम्यम् (*somyam*)**: by "somam arhati yaḥ" (Pā. sū. 4-4-137), after the accusative-final word *soma*, in the sense "deserves", the suffix *ya* comes; so *ya* after *somam*: *soma* + *am* + *ya*. The *am*, part of the stem, takes *luk* by *supo dhātu…*; by *yasyeti ca* the *a* before the suffix drops: *somya*. This is final udātta by the suffix accent.
+
+**मधु (*madhu*)**: by "phalipāṭinami…" (Uṇ. sū. "1-18" [?; the second digit is blotted]) the suffix *u*. Since in the sūtra *phalipāṭi…* "*nit*" is carried on, by "ñnityādir nityam" (Pā. sū. 6-1-197)
+
+### Page 808 (upper) — Rik 9: grammar (end)
+
+the word *madhu* is initial udātta. The derivation of the word *madhu* is set out at "madhumantaṃ" (Ṛ. saṃ. 1-13-2). For the other words the derivation was set out earlier.
+
+**॥९॥ ॥१९॥ ॥३७॥** *(as printed: end of Ṛk 9, Sūkta 19 and Varga 37)*
+
+---
+
+### Page 808 (lower) — Close of Sūkta 19, of Adhyāya 1, and of the volume
 
 **॥ Closing verse and colophon (Sanskrit, in Kannada script) ॥**
 
