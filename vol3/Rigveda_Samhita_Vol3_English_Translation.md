@@ -1676,57 +1676,69 @@ The Aśvin deities have a fine chariot, are most able in driving the chariot, an
 
 ---
 
-### Pages 69–71 — Sūkta 22, Rik 3
+### Page 69 — Sūkta 22, Rik 3
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> या वां कशा मधुमत्यश्विना सूनृतावती ।
-> तया यज्ञं मिमिक्षतम् ॥३॥
+> या वां॒ कशा॒ मधु॑म॒त्यश्वि॑ना सू॒नृता॑वती ।
+> त॑या य॒ज्ञं मि॑मिक्षतं ॥३॥
 >
-> *yā vāṃ kaśā madhumaty aśvinā sūnṛtāvatī |*
-> *tayā yajñaṃ mimikṣatam ||3||*
+> *yā vāṃ káśā mádhumaty áśvinā sūnṛ́tāvatī |*
+> *tayā yajñáṃ mimikṣataṃ ||3||*
+
+*(Bars under वां, शा, म (मत्य) and सू; strokes over धु, श्वि and ता (सूनृता). Line 2: strokes over त (तया) and the first मि, bar under य (यज्ञं).)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> या । वाम् । कशा । मधुऽमती । अश्विना । सूनृताऽवती ॥
-> तया । यज्ञम् । मिमिक्षतम् ॥३॥
+> या । वां । कशा । मधुऽमती । अश्विना । सूनृताऽवती ॥
+> तया । यज्ञं । मिमिक्षतं ॥३॥
 >
-> *yā | vām | kaśā | madhu-matī | aśvinā | sūnṛtā-vatī ||*
-> *tayā | yajñam | mimikṣatam ||3||*
+> *yā | vāṃ | kaśā | madhu 'matī | aśvinā | sūnṛtā 'vatī ||*
+> *tayā | yajñaṃ | mimikṣataṃ ||3||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 69; compressed; [?] marks doubtful readings)*
-
-> अश्विना हे अश्विनौ देवौ वां युवयोः सम्बन्धिनी या कशा [अश्वताडिनी] विद्यते तया सहागत्य यज्ञमस्मदीयं मिमिक्षतम् । सोमरसेन सेक्तुमिच्छतम् । कशया [?] तया चाश्वौ ताडयित्वा सहसा समागत्य भवद्विषयां सोमरसाहुतिं निष्पादयितुमुद्युक्तौ भवतमित्यर्थः । कीदृशी कशा । मधुमती । ऊर्णोः [?] श्लोक इत्यादिष्वेकशतसंख्याकेषूदकनामसु मधु पुरीषमिति पठितम् । तस्मादुदकवतीत्युक्तं भवति । अश्वस्य शीघ्रगत्या यत्स्वेदोदकं स्रवति तेनेयं कशाक्लिन्नेत्यर्थः । सूनृतावती प्रियसत्यवाग्युक्ता । तीव्रेण कशाताडनेन योऽश्वनिर्घोषो ध्वनिर्जायते ताडनवेलायामश्वारूढेन च य आक्रोशः क्रियते तमुभयं शीघ्रगमनहेतुत्वेन यजमानस्य प्रियं । यद्वा । श्लोको धारेत्यादिषु सप्तपञ्चाशद्वाङ्नामसु कशा धिषणेति पठितं । अश्विनीर्या वाक् मधुमती माधुर्योपेता पारुष्यरहिता सूनृतावती प्रियत्वसत्यत्वोपेता फलप्रदानविषयेत्यर्थः । तया वाचा युक्तौ यज्ञं मिमिक्षतमिति योजनीयम् ॥ कशा । कश गतिशातनयोः । पचाद्यच् । वृषादित्वादाद्युदात्तः । सूनृतावती । ऊन परिहाणे । सुष्ठूनयत्यप्रियमिति सून् । तथाविधमृतं सत्यं यस्यां वाचि सा सूनृता । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं बाधित्वा परादिश्छन्दसि बहुलमिति ऋकार उदात्तः । सा यस्या अस्ति सा कशा सूनृतावतीति कशायाः संज्ञा । विवर्णनामा या कशेत्यर्थः । संज्ञायाम् । पा. [८-२-११] । इति मतुपो वत्वम् । मिमिक्षतम् । मिहेः सन् । हलन्ताच्च । पा. [१-२-१०] । इति कित्त्वाद्गुणाभावः । ध[त्व]ष्टत्वकत्वषत्वानि ॥
+> अश्विना हे अश्विनौ देवौ वां युवयोः संबन्धिनी या कशाश्वताडिनी विद्यते तया सहागत्य यज्ञमस्मदीयं मिमिक्षतं । सोमरसेन सेक्तुमिच्छतं । कशयाश्वान्दृढं ताडयित्वा सहसा समागत्य भवद्विषयां सोमरसाहुतिं निष्पादयितुमुद्युक्तौ भवतमित्यर्थः । कीदृशी कशा । मधुमती । अर्णः क्षोद इत्यादिष्वेकशतसंख्याकेषूदकनामसु मधु पुरीषमिति पठितं । तस्मादुदकवतीत्युक्तं भवति । अश्वस्य शीघ्रगत्या यत्स्वेदोदकं स्रवति तेनेयं कशाक्लिन्नेत्यर्थः । सूनृतावती प्रियसत्यवाग्युक्ता । तीव्रेण कशाताडनेन यो ध्वनिर्निष्पद्यते ताडनवेलायामश्वारूढेन च य आक्रोशः क्रियते तदुभयं शीघ्रगमनहेतुत्वेन यजमानस्य प्रियं । यद्वा । श्लोको धारेत्यादिषु सप्तपञ्चाशद्वाङ्नामसु कशा धिषणेति पठितं । अश्विनोर्या वाक् मधुमती माधुर्योपेता पारुष्यरहिता सूनृतावती प्रियत्वसत्यत्वोपेता । फलप्रदानविषयेत्यर्थः । तया वाचा युक्तौ यज्ञं मिमिक्षतमिति योजनीयं ॥ कशा । कश गतिशातनयोः । पचाद्यच् । वृषादित्वादाद्युदात्तः । सूनृतावती । ऊन परिहाणे । सुष्ठूनयत्यप्रियमिति सून् । तथाविधमृतं सत्यं यस्यां वाचि सा सूनृता । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं बाधित्वा परादिश्छन्दसि बहुलमिति ऋकार उदात्तः । सा यस्या अस्ति सा कशा सूनृतावतीति कशायाः संज्ञा । एवंनामा या कशेत्यर्थः । संज्ञायां । पा० ८-२-११ । इति मतुपो वत्वं । मिमिक्षतं । मिहेः सन् । हलन्ताच्च । पा० १-२-१० । इति कित्त्वाद्गुणाभावः ॥ ढत्वकत्वषत्वानि ॥
 >
-> *aśvinā he aśvinau devau vāṃ yuvayoḥ sambandhinī yā kaśā [aśva-tāḍinī] vidyate tayā sahāgatya yajñam asmadīyaṃ mimikṣatam | soma-rasena sektum icchatam | kaśayā [?] tayā cāśvau tāḍayitvā sahasā samāgatya bhavad-viṣayāṃ soma-rasāhutiṃ niṣpādayitum udyuktau bhavatam ity arthaḥ | kīdṛśī kaśā | madhumatī | ūrṇoḥ [?] śloka ity-ādiṣv eka-śata-saṅkhyākeṣūdaka-nāmasu madhu purīṣam iti paṭhitam | tasmād udakavatīty uktaṃ bhavati | aśvasya śīghra-gatyā yat svedodakaṃ sravati teneyaṃ kaśā-klinnety arthaḥ | sūnṛtāvatī priya-satya-vāg-yuktā | tīvreṇa kaśā-tāḍanena yo 'śva-nirghoṣo dhvanir jāyate tāḍana-velāyām aśvārūḍhena ca ya ākrośaḥ kriyate tam ubhayaṃ śīghra-gamana-hetutvena yajamānasya priyaṃ | yadvā | śloko dhārety-ādiṣu saptapañcāśad-vāṅ-nāmasu kaśā dhiṣaṇeti paṭhitaṃ | aśvinīr yā vāk madhumatī mādhuryopetā pāruṣya-rahitā sūnṛtāvatī priyatva-satyatvopetā phala-pradāna-viṣayety arthaḥ | tayā vācā yuktau yajñaṃ mimikṣatam iti yojanīyam || kaśā | kaśa gati-śātanayoḥ | pacādy-ac | vṛṣāditvād ādyudāttaḥ | sūnṛtāvatī | ūna parihāṇe | suṣṭhūnayaty apriyam iti sūn | tathāvidham ṛtaṃ satyaṃ yasyāṃ vāci sā sūnṛtā | nañ-subhyām ity uttarapadāntodāttatvaṃ bādhitvā parādiś chandasi bahulam iti ṛkāra udāttaḥ | sā yasyā asti sā kaśā sūnṛtāvatīti kaśāyāḥ saṃjñā | vivarṇa-nāmā yā kaśety arthaḥ | saṃjñāyām | pā. [8-2-11] | iti matupo vatvam | mimikṣatam | miher san | halantāc ca | pā. [1-2-10] | iti kittvād guṇābhāvaḥ | dha[tva]-ṣṭatva-katva-ṣatvāni ||*
+> *aśvinā he aśvinau devau vāṃ yuvayoḥ saṃbandhinī yā kaśāśvatāḍinī vidyate tayā sahāgatya yajñamasmadīyaṃ mimikṣataṃ | somarasena sektumicchataṃ | kaśayāśvāndṛḍhaṃ tāḍayitvā sahasā samāgatya bhavadviṣayāṃ somarasāhutiṃ niṣpādayitumudyuktau bhavatamityarthaḥ | kīdṛśī kaśā | madhumatī | arṇaḥ kṣoda ityādiṣvekaśatasaṃkhyākeṣūdakanāmasu madhu purīṣamiti paṭhitaṃ | tasmādudakavatītyuktaṃ bhavati | aśvasya śīghragatyā yatsvedodakaṃ sravati teneyaṃ kaśāklinnetyarthaḥ | sūnṛtāvatī priyasatyavāgyuktā | tīvreṇa kaśātāḍanena yo dhvanirniṣpadyate tāḍanavelāyāmaśvārūḍhena ca ya ākrośaḥ kriyate tadubhayaṃ śīghragamanahetutvena yajamānasya priyaṃ | yadvā | śloko dhāretyādiṣu saptapañcāśadvāṅnāmasu kaśā dhiṣaṇeti paṭhitaṃ | aśvinoryā vāk madhumatī mādhuryopetā pāruṣyarahitā sūnṛtāvatī priyatvasatyatvopetā | phalapradānaviṣayetyarthaḥ | tayā vācā yuktau yajñaṃ mimikṣatamiti yojanīyaṃ || kaśā | kaśa gatiśātanayoḥ | pacādyac | vṛṣāditvādādyudāttaḥ | sūnṛtāvatī | ūna parihāṇe | suṣṭhūnayatyapriyamiti sūn | tathāvidhamṛtaṃ satyaṃ yasyāṃ vāci sā sūnṛtā | nañsubhyāmityuttarapadāntodāttatvaṃ bādhitvā parādiśchandasi bahulamiti ṛkāra udāttaḥ | sā yasyā asti sā kaśā sūnṛtāvatīti kaśāyāḥ saṃjñā | evaṃnāmā yā kaśetyarthaḥ | saṃjñāyāṃ | pā0 8-2-11 | iti matupo vatvaṃ | mimikṣataṃ | miheḥ san | halantācca | pā0 1-2-10 | iti kittvādguṇābhāvaḥ || ḍhatvakatvaṣatvāni ||*
 
-**Translation:** "O Aśvins, you two gods! Come with that *kaśā* — your whip [for striking the horses], which belongs to you — and *mimikṣatam*: wish to sprinkle our sacrifice with soma-juice. The sense is: having struck the two horses with that whip, coming swiftly, be eager to accomplish the offering of soma-juice [made] to you. Of what sort is the whip? *Madhumatī* — 'honeyed': among the hundred and one words for 'water' beginning with *ūrṇu* [?] [Nighaṇṭu 1-12: 'ni. 1-12' as read], *madhu* and *purīṣa* are read; so *madhumatī* means 'containing water'. The sense: the whip is wet with the sweat-water that runs from the horses' swift pace. *Sūnṛtāvatī* — accompanied by a pleasant, true voice: the sound that arises from the hard cracking of the whip, and the shout made by the one mounted on the horse, at the moment of the striking; these two, as causes of the swift going, are pleasing to the sacrificer. Or: among the fifty-seven words for 'speech' beginning with *śloka*, *dhārā*, the words *kaśā* and *dhiṣaṇā* are read [Nighaṇṭu 1-11]; so *kaśā* may mean the speech [of the Aśvins]: the *madhumatī* — sweet, without roughness, *sūnṛtāvatī* — pleasing and true — speech which gives fruit [to those who ask]. By that speech, joined [with it], *yajñaṃ mimikṣatam* — this is the construction." The grammar, noted briefly: *kaśā* (*kaś* 'to go, to cut'; *ac* of the *pacādi* class; first-syllable accent through the *vṛṣādi* list); *sūnṛtāvatī* (*ūn* 'to diminish': 'it removes the unpleasant thoroughly' = *sūn*; *sūnṛtā* is 'speech in which there is such truth'; the end accent barred, the first member's *ṛ* is accented in the Veda; *matup* with *va* by P. 8-2-11 *saṃjñāyām*); *mimikṣatam* (*mih* + *san*; no guṇa since *san* after a consonant-final root is *kit* by P. 1-2-10 *halantāc ca*; *dh*, *ṭ*, *k*, *ṣ* changes). *(Grammar, noted briefly; P. 8-2-11 and P. 1-2-10 as read; the lists of Nighaṇṭu words are as read and the first word of the first list, read as *ūrṇoḥ*, is uncertain [?].)*
+**Translation:** "*Aśvinā*, O Aśvin gods! *Yā kaśā*, the whip, the striker of horses, that belongs to *vām*, you two — come with it and *mimikṣatam*, wish to sprinkle, our sacrifice with soma juice: that is, having struck the horses hard with the whip and come at once, be ready to bring about the offering of soma juice meant for you. Of what kind is the whip? *Madhumatī*: among the hundred and one names of water, *arṇaḥ*, *kṣodaḥ* and the rest, *madhu* and *purīṣam* are read; so 'having water' is what is said: the whip is wet with the sweat that flows from the horse by its swift going. *Sūnṛtāvatī*, furnished with pleasing and true speech: the sound produced by the sharp stroke of the whip and the shout raised by the rider at the time of striking — both are pleasing to the sacrificer, as causes of swift going. Or: among the fifty-seven names of speech, *ślokaḥ*, *dhārā* and the rest, *kaśā* and *dhiṣaṇā* are read; the speech of the Aśvins that is *madhumatī*, sweet, free from harshness, *sūnṛtāvatī*, pleasing and true — that is, about the granting of fruit; joined with that speech, *mimikṣatam* the sacrifice: so it is to be construed." (Grammatical tail: *kaśā*, *kaśa gatiśātanayoḥ*, *ac* of the *pacādi* class, initial udātta as of the *vṛṣādi* class; *sūnṛtāvatī*, *ūna parihāṇe*, *suṣṭhu ūnayaty apriyam iti sūn*, the speech in which there is such *ṛta*, truth, is *sūnṛtā*; overriding the last-member final udātta by *nañsubhyām*, the *ṛ* is udātta by *parādiś chandasi bahulam*; the whip that has it is *sūnṛtāvatī*, a name of the whip; the *v* for the *m* of *matup* by *saṃjñāyām* (Pā. 8-2-11); *mimikṣatam*, *san* after *mih*, no *guṇa* because it is *kit* by *halantāc ca* (Pā. 1-2-10); *ḍh*, *k* and *ṣ*.)
 
-**Grammar pages (pp. 71 upper), noted briefly.** The Kannada treats: *kaśā* (*kaś gatiśātanayoḥ* with *ac* by P. 3-1-134 *nandigrahipacādibhyo lyuṇinyacaḥ*, which gives first-syllable accent by *vṛṣādīnāṃ ca* P. 6-1-203), *sūnṛtāvatī* (*ūn parihāṇe*, tenth class; *apriyaṃ suṣṭhu ūnayati* 'he makes the unpleasant well diminished'; *sūn* + *ṛta*: 'truth' [*satya*] is *ṛta*; *sūnṛtā* as a bahuvrīhi; the word *sūnṛtā asyā asti* + *matup* by P. 5-2-94; *saṃjñāyām* P. 8-2-11 gives *va* for *ma* when a name; *ugitaś ca* P. 4-1-6 for *ṅīp*: *sūnṛtāvatī*), *mimikṣatam* (*mih secane*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* P. 3-1-7 *san*; doubling by P. 6-1-9; *halādiḥ śeṣaḥ* P. 7-4-60 retains *m*; *sanyataḥ* P. 7-4-79 gives *i*; *halantāc ca* P. 1-2-10 makes *san* *kit* after a consonant-final root, but only for roots that do not take *iṭ* — the Kannada refers to the Kāśikā verse *vasatir dihā dihu hno nahamiruhir lih vahi stthā* [as printed *vasatirdahādihudoṇa neha mihruhlihvahistathā*, the list of roots that do not take *iṭ* before *san*]: *mih* is in this list, so *san* takes no *iṭ*, is *jhalādi* and therefore *kit*; no guṇa [*kṅiti ca* P. 1-1-5], and *pugantalaghūpadhasya ca* P. 7-3-86 is barred; then *mih* → *mih* + *s*; *hoḍhaḥ* P. 8-2-31 *h* → *ḍh*; *ṣaḍhoḥ kaḥ si* P. 8-2-41 gives *k* for *ḍh*; *ādeśapratyayayoḥ* P. 8-3-59 gives *ṣ* for *s*: *mi-mik-ṣa*; *sanādyantā dhātavaḥ* P. 3-1-32 gives the name *dhātu*; *loṭ* second dual *thas* → *tam*: *mimikṣatam*). ॥3॥ *(Outline only; numerals as read; pointers only.)*
+### Page 70 — Rik 3: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 70)*
+**॥ Prati-padārthaḥ ॥**
 
-**अश्विना (aśvinā)** — O Aśvin deities | **वाम् (vām)** — your | **मधुमती (madhumatī)** — wet with the sweat of the horses | **सूनृतावती (sūnṛtāvatī)** — joined with a pleasant and true sound (belonging to the sacrificer who uses the whip) | **या कशा (yā kaśā)** — which whip is [yours] | **तया (tayā)** — with that (i.e. using it on the horses, coming swiftly) | **यज्ञम् (yajñam)** — our sacrifice | **मिमिक्षतम् (mimikṣatam)** — wish to sprinkle with soma-juice (drink the soma). Or: *aśvinā* — O Aśvins; *vām* — your; *madhumatī* — sweet or soft; *sūnṛtāvatī* — pleasant and true; *yā kaśā* — which speech; *tayā* — with that (speaking good words); *yajñam* — our sacrifice; *mimikṣatam* — make [it] full of the oblation of soma-juice.
+**अश्विना (aśvinā)** — O Aśvin deities | **वां (vāṃ)** — your | **मधुमती (madhumatī)** — soaked with the sweat of the horses | **सूनृतावती (sūnṛtāvatī)** — furnished with a sound pleasing and true (to the sacrificer who uses the whip) | **या कशा (yā kaśā)** — the whip that there is | **तया (tayā)** — with it (that is, using it on the horses and coming swiftly) | **यज्ञं (yajñaṃ)** — our sacrifice | **मिमिक्षतं (mimikṣataṃ)** — wish to make it furnished with soma juice (drink the soma). Or: **अश्विना (aśvinā)** — O Aśvin deities | **वां (vāṃ)** — your | **मधुमती (madhumatī)** — sweet, or gentle | **सूनृतावती (sūnṛtāvatī)** — pleasing and true | **या कशा (yā kaśā)** — the speech that there is | **तया (tayā)** — with it (furnished, that is, speaking good words) | **यज्ञं (yajñaṃ)** — (our) sacrifice | **मिमिक्षतं (mimikṣataṃ)** — make it furnished with the offering of soma juice.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Aśvins! When you drive the horses with your whip, they run quickly, wet with sweat; urging them on with swift-sounding calls, come quickly to our sacrifice and be eager in the offering of soma-juice [drinking the soma]. (Or: come to our sacrifice with your speech, sweet and soft, pleasing and true, ready to grant boons, and be eager for the offering of soma-juice.)
+O Aśvin deities, driving your horses with the use of the whip so that they are soaked with sweat, and driving the horses by using the sounds that urge them on swiftly, come quickly (or, with your gentle speech, pleasing and true about the granting of boons), come to our sacrifice and be ready for the offering of soma juice (drink the soma).
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Aswanis [sic] sprinkle the sacrifice with your whip which is full of sweet juice (honey) ; lash (your horses) loudly.
+> Aswanis [sic] sprinkle the sacrifice with your whip which is full of sweet juice (honey); lash (your horses) loudly.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 70)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The sense of this rik is somewhat obscure: O Aśvins, driving your chariot-horses well with your whip, urging the horses with sharply sounding shouts so that they run swiftly, come quickly to this our sacrificial ground, and, delighted by drinking the soma-juice, give us too delight with your pleasing words: this may be the chief sense.
+The meaning of this ṛk is somewhat tangled. The main intention is: O Aśvin deities, striking the horses of your chariot well with your whip and urging them on with sounds uttered sharply so that the horses move fast, come quickly to this our sacrificial ground, and, made glad by drinking the sweet soma juice, give gladness to us too by your pleasing words.
 
-**कशा (kaśā)** — *pratodaḥ*: the whip which urges the horse to go quickly; "whip or horsewhip" [the print's English].
+**कशा (kaśā)** — *pratodaḥ |* the whip that urges the horse to move fast; "whip or horsewhip".
 
-**मधुमती (madhumatī)** — "full of sweetness; pleasing to hear" [as for sound].
+**मधुमती (madhumatī)** — sweet, pleasant to hear (a sound).
 
-**सूनृतावती (sūnṛtāvatī)** — pleasant, true. Although *madhumatī* and *sūnṛtāvatī* in this rik are both adjectives of the word *kaśā*, it is more consistent to give them a special sense of their own, intended for each. *(The Kannada here gives its own preference between the two senses of* kaśā *— "whip" and "speech" — and finds the second more natural.)*
+### Page 71 — Rik 3: Special Topics (end), grammar
+
+**सूनृतावती (sūnṛtāvatī)** — pleasing, true. In this ṛk, though the words *madhumatī* and *sūnṛtāvatī* are qualifiers of the word *kaśā*, it is more fitting to give each of them a separate definite meaning.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**कशा (kaśā)** — the root *kaśa gatiśātanayoḥ*. After it, by *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. Sū. 3-1-134), the suffix *ac* of the *pacādi* type. By *vṛṣādīnāṃ ca* (Pā. Sū. 6-1-203) initial udātta.
+
+**सूनृतावती (sūnṛtāvatī)** — the root *ūna parihāṇe*, of the tenth class. With the analysis *apriyaṃ suṣṭhu ūnayati*, 'that which removes the unpleasant well', it becomes *sūn*. *Sūn-ṛtaṃ = satyaṃ yasyāṃ vāci sā sūnṛtā*: a bahuvrīhi. The speech in which there is truth that removes the unpleasant well is understood by the word *sūnṛtā*. *Sūnṛtā asyā astīti sūnṛtāvatī*, the whip: by *tad asyāsty asminn iti matup* (Pā. Sū. 5-2-94) the suffix *matup*; with *sūnṛtā* + *mat*, by *saṃjñāyām* (Pā. Sū. 8-2-11) — when a name is meant, *v* for the *m* of *matup* — *v* for the *m*; by *ugitaś ca* (Pā. Sū. 6-3-45, as printed) *ṅīp*: *sūnṛtāvatī*. The sense: the whip having this name, that is, the speech.
+
+**मिमिक्षतम् (mimikṣatam)** — the root *miha secane*. After it, by *dhātoḥ karmaṇaḥ…* (Pā. Sū. 3-1-7), *san*; by *sanyaṅoḥ* (Pā. Sū. 6-1-9) reduplication; by *halādiḥ śeṣaḥ* (Pā. Sū. 7-4-60) the *h* is removed: *mi mih* + *sa*. By *halantāc ca* (Pā. Sū. 1-2-10) — a *san* beginning with a *jhal* after a consonant near *i*, *u*, *ṛ* is *kit* — *sa* is *kit*. Since *vasatir dahadihaduho nah mih ruh lih vahis tathā* (Pā. Sū. 7-2-10 [?], Kā. 6) is read in the *aniṭ-kārikā*, the augment *iṭ* does not come to *san*; so *sa* begins with a *jhal*. Since the suffix *sa* is thus *kit*, *guṇa* is barred by *kṅiti ca*, so *guṇa* of the light penultimate by *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86) does not come. *Mi mih* + *sa*: now by *ho ḍhaḥ* (Pā. Sū. 8-2-31) — at the end of a *pada* and before a *jhal*, *ḍh* for *h* — *ḍh* for the *h*; by *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41) — before *s*, *k* for *ṣ* and *ḍh* — *k* for the *ḍh*: *mi mik* + *sa*; by *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣ* for the *s*: *mi mikṣa*; this is a root by *sanādyantā dhātavaḥ* (Pā. Sū. 3-1-32). *Loṭ*, in the middle person dual, when *tam* comes for *thas*, it becomes *mimikṣatam*. ॥3॥
+
+---
 
 ### Pages 72–73 — Sūkta 22, Rik 4
 
