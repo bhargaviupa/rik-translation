@@ -10287,63 +10287,69 @@ the suffix being *ṇit*, "ata upadhāyāḥ" (printed "71-116" [sic]) gives *v�
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे स्तोतृसंघ अध्वरे क्रतावग्निमुपस्तुहि । उपेत्य स्तुतिं कुरु । कीदृशम् । कविं मेधाविनं सत्यधर्माणं सत्यवदनरूपेण धर्मेणोपेतं देवं द्योतमानम् अमीवचातनम् अमीवानां हिंसकानां शत्रूणां रोगाणां वा घातकम् ॥ सत्यं धर्मो यस्येति सत्यधर्मा । धर्मादनिच् केवलात् । पा. ५-४-१२४ । इत्यनिच् समासान्तः । अन्तोदात्तेन तस्य समासान्ताभिधानात् [?] । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वे शेषनिघातेनानुदात्तत्वम् । अमीवशब्दो ऽमरोगे इत्यस्मात् शेवायहूजिह्वाग्रीवाप्वामीवाः । उ. १-१५४ । इति वन्प्रत्यय ईडागमे च निपातितः । नित्त्वादाद्युदात्तः । चतेः चदे याचने चेत्यस्माद्धिंसार्थात् । णिजन्तान्नन्द्यादित्वात् ल्युः । पा. ३-१-१३४ । योरनादेशः । पा. ७-१-१ । णेरनिटीति णेर्लोपः । लिति धातोरेकारस्योदात्तत्वम् । न च स्वरे कर्तन्ये ञिलोपस्य स्थानिवद्भावः । न पदान्तद्विर्वचनेत्यादिना प्रतिषेधात् । पा. १-१-५८ । अमीवानां चातन इति समासे कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते ॥
+> हे स्तोतृसंघ अध्वरे क्रतावग्निमुपस्तुहि । उपेत्य स्तुतिं कुरु । कीदृशम् । कविं मेधाविनं सत्यधर्माणं सत्यवदनरूपेण धर्मेणोपेतं देवं द्योतमानममीवचातनममीवानां हिंसकानां शत्रूणां रोगाणां वा घातकम् ॥ सत्यं धर्मो यस्येति सत्यधर्मा । धर्मादनिच् केवलात् । पा. ५-४-१२४ । इत्यनिच् समासान्तः । अन्तःपदेन तस्य समासत्वाभिधानाद्बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वे शेषनिघातेनानुदात्तत्वम् । अमीवशब्दो ऽम रोग इत्यस्मात् शेवायहूजिह्वाग्रीवाप्वामीवाः । उ. १-१५४ । इति वन्प्रत्यय ईडागमश्च निपातितः । नित्त्वादाद्युदात्तः । चतेः चदे याचने चेत्यस्माद्धिंसार्थात् । णिजन्तान्नन्द्यादित्वात् ल्युः । पा. ३-१-१३४ । योरनादेशः । पा. ७-१-१ । णेरनिटीति णेर्लोपः । लितीति धातोरकारस्योदात्तत्वम् । न च स्वरे कर्तव्ये णिलोपस्य स्थानिवद्भावः । न पदान्तद्विर्वचनेत्यादिना प्रतिषेधात् । पा. १-१-५८ । अमीवानां चातन इति समासे कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते ॥
 >
-> *he stotṛ-saṃgha adhvare kratāv agnim upastuhi | upetya stutiṃ kuru | kīdṛśam | kaviṃ medhāvinaṃ satyadharmāṇaṃ satya-vadana-rūpeṇa dharmeṇopetaṃ devaṃ dyotamānam amīvacātanam amīvānāṃ hiṃsakānāṃ śatrūṇāṃ rogāṇāṃ vā ghātakam || satyaṃ dharmo yasyeti satyadharmā | dharmād anic kevalāt | pā. 5-4-124 | ity anic samāsāntaḥ | antodāttena tasya samāsāntābhidhānāt [?] | bahuvrīhau pūrvapada-prakṛti-svaratve śeṣa-nighātenānudāttatvam | amīva-śabdo 'maroge ity asmāt śevāyahūjihvāgrīvāpvāmīvāḥ | u. 1-154 | iti vanpratyaya īḍāgame ca nipātitaḥ | nittvād ādyudāttaḥ | cateḥ cade yācane ceti asmād dhiṃsārthāt | ṇijantān nandyāditvāt lyuḥ | pā. 3-1-134 | yor anādeśaḥ | pā. 7-1-1 | ṇer aniṭīti ṇer lopaḥ | liti dhātor ekārasyodāttatvam | na ca svare kartavye ñilopasya sthānivad-bhāvaḥ | na padānta-dvirvacanety-ādinā pratiṣedhāt | pā. 1-1-58 | amīvānāṃ cātana iti samāse kṛd-uttara-pada-prakṛti-svareṇa sa eva śiṣyate ||*
+> *he stotṛsaṃgha adhvare kratāvagnimupastuhi | upetya stutiṃ kuru | kīdṛśam | kaviṃ medhāvinaṃ satyadharmāṇaṃ satyavadanarūpeṇa dharmeṇopetaṃ devaṃ dyotamānamamīvacātanamamīvānāṃ hiṃsakānāṃ śatrūṇāṃ rogāṇāṃ vā ghātakam || satyaṃ dharmo yasyeti satyadharmā | dharmādanic kevalāt | pā. 5-4-124 | ityanic samāsāntaḥ | antaḥpadena tasya samāsatvābhidhānādbahuvrīhau pūrvapadaprakṛtisvaratve śeṣanighātenānudāttatvam | amīvaśabdo 'ma roga ityasmāt śevāyahūjihvāgrīvāpvāmīvāḥ | u. 1-154 | iti vanpratyaya īḍāgamaśca nipātitaḥ | nittvādādyudāttaḥ | cateḥ cade yācane cetyasmāddhiṃsārthāt | ṇijantānnandyāditvāt lyuḥ | pā. 3-1-134 | yoranādeśaḥ | pā. 7-1-1 | ṇeraniṭīti ṇerlopaḥ | litīti dhātorakārasyodāttatvam | na ca svare kartavye ṇilopasya sthānivadbhāvaḥ | na padāntadvirvacanetyādinā pratiṣedhāt | pā. 1-1-58 | amīvānāṃ cātana iti samāse kṛduttarapadaprakṛtisvareṇa sa eva śiṣyate ||*
 
-**Translation:** "O company of praisers! In the *adhvara*, the sacrifice, *upa stuhi* — approaching, sing praise to Agni. What kind of Agni? *Kavim* — wise; *satyadharmāṇam* — endowed with the nature of speaking truth; *devam* — shining; *amīvacātanam* — the destroyer of the *amīvas*, of those who harm, of enemies or of diseases." *(Grammar noted briefly: that* satyadharman *takes the samāsānta suffix* anic *by Pā. 5-4-124 [?], keeping the first member's accent; that* amīva *is irregularly formed from the root* ama *"to be ill" with* van *and the augment* īḍ *(Uṇ. 1-154 [?]), initial-udātta; and that* cātana *is formed from* cate *(*cada yācane*) with the causative and* lyu *(Pā. 3-1-134 [?]), keeping the* kṛdanta *second-member accent.)*
+**Translation:** "O company of praisers! In the *adhvara*, the sacrifice, *upa stuhi* — approaching, sing praise to Agni. What kind of Agni? *Kavim* — wise; *satyadharmāṇam* — endowed with the nature of speaking truth; *devam* — shining; *amīvacātanam* — the destroyer of the *amīvas*, of those who harm, of enemies or of diseases." (Grammatical tail: *satyadharmā* — "whose dharma is truth": the *samāsānta* *anic* by "dharmād anic kevalāt" (Pā. 5-4-124); since it is taught as part of the compound, the bahuvrīhi keeps the first member's accent and the rest is unaccented; *amīva* — from *ama roge*, formed irregularly with *van* and the augment *ī* by "śevā-yahū-jihvā-grīvā-pvāmīvāḥ" (Uṇ. 1-154), initial-udātta as *nit*; *cātana* — from *cate*/*cade yācane* in the sense of hurting, with *ṇic*, *lyu* as one of the *nandyādi* (Pā. 3-1-134), *ana* for *yu* (Pā. 7-1-1), *ṇi* dropped by "ṇer aniṭi", the root's *a* udātta by "liti"; the loss of *ṇi* is not treated as present for accent, by the bar "na padānta-dvirvacana…" (Pā. 1-1-58); in the compound "amīvānāṃ cātanaḥ" the *kṛt* second member keeps that accent.)
 
 **॥ Prati-padārthaḥ ॥**
 
-*(O priests and others who sing praise!)* **कविम् (kavim)** — the wise one | **सत्यधर्माणम् (satyadharmāṇam)** — one whose nature is truth, of truthful conduct | **देवम् (devam)** — shining | **अमीवचातनम् (amīvacātanam)** — destroying enemies, or removing diseases | **अग्निम् (agnim)** — Agni | **अध्वरे (adhvare)** — in the sacrificial rite | **उपस्तुहि (upastuhi)** — standing near, praise.
+*(O priests and others who sing praise!)* **कविम् (kavim)** — the wise one | **सत्यधर्माणम् (satyadharmāṇam)** — whose nature is truth and dharma | **देवम् (devam)** — shining | **अमीवचातनम् (amīvacātanam)** — the destroyer of enemies, or the destroyer of diseases | **अग्निम् (agnim)** — Agni | **अध्वरे (adhvare)** — in the sacrificial rite | **उपस्तुहि (upastuhi)** — standing near, praise [him].
 
 **॥ Bhāvārthaḥ ॥**
 
-O priests and others! Agni, whom you praise, is very wise, of truth-keeping nature (or whose conduct is truth), shining, a destroyer of enemies or a remover of diseases and such troubles. Stand near this Agni in the rite we perform and praise him.
+O priests and others! This Agni whom you are praising is very wise, of the nature of truth and dharma (or whose dharma — conduct — is truth itself), shining, a destroyer of enemies or a remover of diseases and such troubles. Stand near this Agni in the rite we perform and praise him.
 
-### Pages 508–509 — Rik 7: English, Special Topics, grammar
+### Page 508 — Rik 7: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Praise, in the sacrifice, Agni, the wise, the observer of truth, the radiant, the remover of disease.
+> Praise, in the sacr'fice [sic], Agni, the wise, the observer of truth, the radiant, the remover of disease.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
 This rik is addressed to the priests who are praising Agni.
 
-**"Satyadharmāṇam"** — *satyaṃ dharmo yasya*: one whose nature or conduct is the speaking of truth; one who has the character of speaking truth.
+**"Satyadharmāṇam"** — *satyaṃ dharmo yasya*: truth itself is his nature; or *satyavadana-rūpeṇa dharmeṇopetam* — one whose nature is to speak only the truth.
 
 **"Amīvacātanam"** — *amīvānāṃ hiṃsakānāṃ śatrūṇāṃ rogāṇāṃ vā ghātakam* — "the destroyer of enemies or of diseases." This word occurs not only in this rik but in these riks too:
 
 > विप्रः स उच्यते भिषग्रक्षोहामीवचातनः ।
 > *vipraḥ sa ucyate bhiṣag rakṣohāmīvacātanaḥ |*
-> (Ṛgveda Saṃhitā 10-97-6 [?]; the source's number reads "१०-९७-६")
-> *("He is called the sage, the physician, slayer of rākṣasas, driver-out of disease." — my gloss, tentative.)*
+> (Ṛ. Saṃ. 10-97-6)
+> *("He is called the sage, the physician, slayer of rākṣasas, driver-out of disease." — mine and tentative.)*
 
 > आपो इद्वा उ भेषजीरापो अमीवचातनीः ।
 > *āpo id vā u bheṣajīr āpo amīvacātanīḥ |*
-> (Ṛgveda Saṃhitā 10-137-6 [?]; the source's number reads "१०-१३७-६")
-> *("The waters are indeed healing, the waters are expellers of disease." — my gloss, tentative.)*
+> (Ṛ. Saṃ. 10-137-6)
+> *("The waters are indeed healing, the waters are expellers of disease." — mine and tentative.)*
 
 In the first example, the words *bhiṣak* and *rakṣohā* support the sense of "destroyer of diseases and of enemies." In the second example the word *bheṣajīḥ* indicates the removal of disease; hence for this word the sense "remover of disease" fits well.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 508–509, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 508–509, noted briefly; numbers checked against the print)*
 
-**सत्यधर्माणम् (*satyadharmāṇam*)** — "satyaṃ dharmo yasya saḥ": a bahuvrīhi; "dharmād anic kevalāt" (Pā. 5-4-124 [?]): after a bahuvrīhi whose last member is *dharma* preceded by a bare prior member, the *samāsānta* suffix *anic* arises, becoming the final part of the compound ("kevala" means a member not accompanied by another word beyond the later member); *satyadharma* + *anic*; "yasyeti ca" (Pā. 6-4-148 [?]) drops the final *a* of *dharma*: *satyadharman*; the *samāsānta* suffix, by "samāsāntodāttaḥ" (Pā. 6-1-223 [?]), is part of the compound; so the accent of the first member is retained by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. 6-2-1 [?]) and the rest is unaccented by "anudāttaṃ padam ekavarjam." **अमीवचातनम् (*amīvacātanam*)** — the word *amīva* is formed from the root *ama roge* with *vana* by the Uṇādi sūtra "śevāyahūjihvāgrīvāpvāmīvāḥ" (Uṇ. 1-154 [?]); the words *śeva*, *yahva*, *hū*, *jihvā*, *grīvā*, *āpva*, *amīva* are irregularly formed with *van* and a vowel-augment: *śeva* from *śīṅ svapne* with *van* and *guṇa*; *yahva* from *yā prāpaṇe* with *van* and the *huk* augment and shortening; *jihvā* from *liha āsvādane* with *van*, *l* → *j* and loss of guṇa; *grīvā* from *gṝ nigaraṇe* with *van* and *yaṇ*; *āpva* from *āpḷ vyāptau* with *van*; *amīva* from *ama* with *van* and the *īḍ* augment; *van* is *nit*, so initial-udātta. *Cātana*: the root *cate* (*cade yācane ceti*) with the sense of harming; with *ṇic* ("ata upadhāyāḥ," Pā. 7-2-116 [?], *vṛddhi* of the penultimate); *lyu* by "nandigrahipacādibhyo lyuṇinyacaḥ" (Pā. 3-1-134 [?]); *yu* → *ana* ("yuvor anākau," Pā. 7-1-1 [?]); the *ṇic* dropped by "ṇer aniṭi" (Pā. 6-4-51 [?]); *cātana*; the vowel before an *l*-marked suffix is udātta ("liti," Pā. 6-1-193 [?]), so the *ā* is udātta; in fixing the accent, the loss of *ṇi* (by "ñilopa") has *sthānivadbhāva* for the *ac* that is the *nimitta* of *ṇi*-drop, since the dropped *ṇi* is the cause of the *ac*-substitute at the end, and "acaḥ parasmin pūrvavidhau" (Pā. 1-1-57 [?]) would give *sthānivadbhāva*; this is barred by "na padāntadvirvacanavareyalopasvarasavarṇānusvāradīrghajaś-carvidhiṣu" (Pā. 1-1-58 [?]) — *sthānivadbhāva* does not apply to accent rules. In the compound "amīvānāṃ cātanaḥ" ("the one who expels the *amīvas*"), a genitive tatpuruṣa, "gatikārakopapadāt kṛt" (Pā. 6-2-139 [?]) leaves the accent of the *kṛdanta* second member. *(Sūtra numbers read from small print; pointers only.)*
+**सत्यधर्माणम् (*satyadharmāṇam*)** — "satyaṃ dharmaḥ yasya saḥ satyadharmā", a bahuvrīhi. "dharmād anic kevalāt" (Pā. 5-4-124): after a bahuvrīhi ending in *dharma* that follows a bare (*kevala*) first member, *anic* comes and becomes the final part of the compound; *kevala* means not accompanied by any word other than the second member: *satyadharma* + *an*; the final *a* of *dharma* dropped by "yasyeti ca" (Pā. 6-4-148): *satyadharman*. By "samāsāntāḥ" (Pā. 5-4-68) *anic* is joined to the compound as its final part, so the first member keeps its accent and the rest is unaccented by the rule for the remainder. **अमीवचातनम् (*amīvacātanam*)** — the word *amīva*: after the root *ama roge*, "śeva-yahva-jihvā-grīvā-pvāmīvāḥ" (Uṇ. "1-152"; the bhāṣya gives 1-154): these words are formed irregularly with *van*.
+
+### Page 509 — Rik 7 grammar closes
+
+After *śīṅ svapne*, *van* with *guṇa* gives *śeva*; here final-udātta is laid down irregularly; otherwise, by "iṇ-śībhyāṃ van" (Uṇ. 1-150) *van* would come and the *nit* accent would make it initial-udātta. "yānti anena iti yahvaḥ": after *yā prāpaṇe*, *van* with the *huk* augment and shortening, irregularly: *yahva*. "lihanti anayā iti jihvā": after *liha āsvādane*, *van* with *j* for the *l* and no *guṇa*, irregularly. "giranti anayā iti grīvā": after *gṝ nigaraṇe*, *van* with the augment *ī*, irregularly; *gṛ* + *īva* with *yaṇ*: *grīva*. After *āpḷ vyāptau*, *van*: *āpva*. After *ama*, *van* with the augment *ī*, irregularly: *amīva*; *van* is *nit*, so initial-udātta by the *nit* accent. *Cātana*: the root *cate cade yācane ca* is also in the sense of hurting; after it *ṇic*; *vṛddhi* of the penultimate by "ata upadhāyāḥ" (printed "7-1-116" [sic]): *cāt* + *i*; *lyu* by "nandi-grahi-pacādibhyo lyu-ṇiny-acaḥ" (Pā. 3-1-134); *ana* for it by "yuvor anākau" (Pā. 7-1-1); *ṇic* dropped by "ṇer aniṭi" (Pā. 6-4-51): *cātana*; by "liti" (Pā. 6-1-193) the vowel before an *l*-marked suffix is udātta, so the *ā* of *cāt* is udātta. Here, in making the accent, the loss of *ṇi*, conditioned by what follows, would by "acaḥ parasmin pūrvavidhau" (Pā. 1-1-57) count as present — a substitute for a vowel, conditioned by what follows, counts as the original when an operation is made on what precedes it; that *sthānivadbhāva* is barred by "na padānta-dvirvacana-vare-yalopa-svara-savarṇānusvāra-dīrgha-jaś-car-vidhiṣu" (Pā. 1-1-58), so it does not arise. As the genitive tatpuruṣa "amīvānāṃ cātanaḥ", by "gati-kārakopapadāt kṛt" (Pā. 6-2-139) the *kṛt* second member keeps that accent.
 
 **॥७॥**
 
 ---
 
-### Page 509 — Sūkta 12, Rik 8
+### Page 509 (lower) — Sūkta 12, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यस्त्वामग्ने हविष्पतिर्दूतं देव सपर्यति ।
-> तस्य स्म प्राविता भव ॥८॥
+> यस्त्वाम॑ग्ने ह॒विष्प॑तिर्दू॒तं दे॑व सप॒र्यति॑ ।
+> तस्य॑ स्म प्रावि॒ता भ॑व ॥८॥
 >
-> *yas tvām agne haviṣpatir dūtaṃ deva saparyati |*
-> *tasya sma prāvitā bhava ||8||*
+> *yas tvā́m agne havíṣpatir dūtáṃ deva saparyáti |*
+> *tásya sma prāvitā́ bhava ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -10358,11 +10364,11 @@ In the first example, the words *bhiṣak* and *rakṣohā* support the sense of
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे अग्ने देव यो हविष्पतिर्यजमानो देवदूतं त्वां सपर्यति परिचरति तस्य यजमानस्य प्राविता भव स्म । अवश्यं रक्षको भव ॥ हूयत इति हविः । अर्चिशुचिहूसृपीत्यादिना । उ. २-१०८ [?] । इसिः । प्रत्ययस्वरेणेकार उदात्तः । हविषः पतिर्हविष्पतिः । नित्यं समासे ऽनुत्तरपदस्थस्य । पा. ८-३-४५ । इति षत्वम् । पत्यावैश्वर्ये इति पूर्वपदप्रकृतिस्वरत्वम् । सपरशब्दात्कण्ड्वादिभ्यो यक् । पा. ३-१-२७ । इति यक् । धातुप्रकरणाद्गुणप्रतिषेधाद्यर्थात्कः कित्त्वाच्च सपरशब्दस्य धातुत्वात्ततो विहितस्य यक आर्धधातुकत्वे सत्यतो लोप इति लोपः । सनाद्यन्ता धातव इति धातुसंज्ञायां तिप् । कर्तरि शप् । तस्मिन्पूर्वस्यातो गुण इति पररूपत्वम् । यकः प्रत्ययस्वरेणोदात्तत्वम् । शपा सह यकैकादेश उदात्तेनोदात्त इत्युदात्तत्वम् । तिङ्ङतिङ इति निघातो न भवति यद्वृत्तान्नित्यमिति प्रतिषेधात् ॥
+> हे अग्ने देव यो हविष्पतिर्यजमानो देवदूतं त्वां सपर्यति परिचरति तस्य यजमानस्य प्राविता भव स्म । अवश्यं रक्षको भव ॥ हूयत इति हविः । अर्चिशुचीत्यादिना । उ. २-१०९ । इसिः । प्रत्ययस्वरेणेकार उदात्तः । हविषः पतिर्हविष्पतिः । नित्यं समासे ऽनुत्तरपदस्थस्य । पा. ८-३-४५ । इति षत्वम् । पत्यावैश्वर्ये इति पूर्वपदप्रकृतिस्वरत्वम् । सपरशब्दात्कण्ड्वादिभ्यो यक् । पा. ३-१-२७ । इति यक् । धातुप्रकरणाद्गुणप्रतिषेधाद्यर्थात्कः कित्त्वाच्च सपरशब्दस्य धातुत्वात्ततो विहितस्य यक आर्धधातुकत्वे सत्यतो लोप इति लोपः । सनाद्यन्ता धातव इति धातुसंज्ञायां तिप् । कर्तरि शप् । तस्मिन्पूर्वस्यातो गुण इति पररूपत्वम् । यकः प्रत्ययस्वरेणोदात्तत्वम् । शपा सह यकैकादेश उदात्तेनोदात्त इत्युदात्तत्वम् । तिङ्ङतिङ इति निघातो न भवति यद्वृत्तान्नित्यमिति प्रतिषेधात् ॥
 >
-> *he agne deva yo haviṣpatir yajamāno deva-dūtaṃ tvāṃ saparyati paricarati tasya yajamānasya prāvitā bhava sma | avaśyaṃ rakṣako bhava || hūyata iti haviḥ | arciśucihūsṛpītyādinā | u. 2-108 [?] | isiḥ | pratyaya-svareṇekāra udāttaḥ | haviṣaḥ patir haviṣpatiḥ | nityaṃ samāse 'nuttara-pada-sthasya | pā. 8-3-45 | iti ṣatvam | patyāv aiśvarye iti pūrvapada-prakṛti-svaratvam | saparaśabdāt kaṇḍvādibhyo yak | pā. 3-1-27 | iti yak | ... tiṅ atiṅa iti nighāto na bhavati yad-vṛttān nityam iti pratiṣedhāt ||*
+> *he agne deva yo haviṣpatiryajamāno devadūtaṃ tvāṃ saparyati paricarati tasya yajamānasya prāvitā bhava sma | avaśyaṃ rakṣako bhava || hūyata iti haviḥ | arciśucītyādinā | u. 2-109 | isiḥ | pratyayasvareṇekāra udāttaḥ | haviṣaḥ patirhaviṣpatiḥ | nityaṃ samāse 'nuttarapadasthasya | pā. 8-3-45 | iti ṣatvam | patyāvaiśvarye iti pūrvapadaprakṛtisvaratvam | saparaśabdātkaṇḍvādibhyo yak | pā. 3-1-27 | iti yak | dhātuprakaraṇādguṇapratiṣedhādyarthātkaḥ kittvācca saparaśabdasya dhātutvāttato vihitasya yaka ārdhadhātukatve satyato lopa iti lopaḥ | sanādyantā dhātava iti dhātusaṃjñāyāṃ tip | kartari śap | tasminpūrvasyāto guṇa iti pararūpatvam | yakaḥ pratyayasvareṇodāttatvam | śapā saha yakaikādeśa udāttenodātta ityudāttatvam | tiṅṅatiṅa iti nighāto na bhavati yadvṛttānnityamiti pratiṣedhāt ||*
 
-**Translation:** "O Agni, O god! The sacrificer who is *haviṣpati* — lord of the oblation — and *saparyati*, serves you, the messenger of the gods: of that sacrificer, *prāvitā bhava sma* — be the protector; surely be his protector." *(Grammar noted briefly: that* haviḥ *is "that which is offered," with* isi *(Uṇ. 2-108 [?]);* haviṣpati *has the visarga turned to* ṣ *by Pā. 8-3-45 [?], keeping the first member's accent;* saparyati *is a denominative from* sapara *in the* kaṇḍvādi *class with* yak *(Pā. 3-1-27 [?]); and the verb is not lowered because a relative word* yaḥ *precedes it.)*
+**Translation:** "O Agni, O god! The sacrificer who is *haviṣpati* — lord of the oblation — and *saparyati*, serves you, the messenger of the gods: of that sacrificer, *prāvitā bhava sma* — be the protector; surely be his protector." *(Grammar noted briefly: that* haviḥ *is "that which is offered," with* isi *(Uṇ. 2-109);* haviṣpati *has the visarga turned to* ṣ *by Pā. 8-3-45, keeping the first member's accent;* saparyati *is a denominative from* sapara *in the* kaṇḍvādi *class with* yak *(Pā. 3-1-27); and the verb is not lowered because a relative word* yaḥ *precedes it.)*
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -10370,37 +10376,51 @@ In the first example, the words *bhiṣak* and *rakṣohā* support the sense of
 
 **॥ Bhāvārthaḥ ॥**
 
-O shining Agni! The sacrificer who offers oblations to you worships you, the messenger of the gods. Such a sacrificer you must protect.
+O shining Agni! The sacrificer who offers oblations to you worships you, the messenger of the gods. Protect such a sacrificer without fail.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Be the protector, O Agni of the master (offerer) of sacrificial food, who worships you O God, as his messenger.
+> Be the protector, O Agni of the master (offerer] [sic] of sacrificial food, who worships you O God, as his messenger.
 
-### Pages 511–512 — Rik 8: Special Topics, grammar
+### Page 511 — Rik 8: Special Topics and grammar
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Haviṣpatiḥ"** — *haviṣaḥ patiḥ* — "the master of the oblation": one who offers an oblation, *offerer of oblations* [the source's English].
+**"Haviṣpatiḥ"** — *haviṣaḥ patiḥ* — "the master of the oblation", that is, one who offers the oblation: *offerer of oblations* [the source's English].
 
-**"Prāvitā"** — in a special way, or the chief protector.
+**"Prāvitā"** — [protector] in a special way, or the chief protector.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 511–512, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 511–512, noted briefly; numbers checked against the print)*
 
-**हविष्पतिः (*haviṣpatiḥ*)** — "hūyate iti haviḥ": the roots *arca pūjāyām*, *śuca śoke*, *hu dānādanayoḥ*, *sṛpḷ gatau*, *bhadi* and others take the suffix *isi* by "arciśucihusṛpichadi-… ardibhyaḥ iṇ" [print: "arci śuci hu sṛpi chādi ardibhyaḥ isi"] (Uṇ. 2-108 [?]); *hu* + *isi*, with *guṇa* and *av*; *haviḥ* has the *i* of the suffix udātta; "haviṣaḥ patiḥ" is a genitive tatpuruṣa; the *s* of the genitive takes *ru* and visarga: *haviḥ* + *patiḥ*; then "nityaṃ samāse 'nuttarapadasthasya" (Pā. 8-3-45 [?]): in a compound, if a *kavarga* or *pavarga* letter follows, the visarga that is the end of a non-final member after *i* or *u* always becomes *ṣ*; so the visarga of *haviḥ* becomes *ṣ*: *haviṣpatiḥ*; "patyāv aiśvarye" (Pā. 6-2-18 [?]) gives the first member's accent. **सपर्यति (*saparyati*)** — the word *sapara* belongs to the *kaṇḍvādi* group (Pā. 3-1-27 [?]), and "kaṇḍvādibhyo yak" (Vārttika) gives *yak* after words of that group, with root-status (*dhātusaṃjñā*) and *prātipadika*-status together — the *Mahābhāṣya* says so clearly: "dhātuprakaraṇād dhātoḥ kasyacid asaṃjñanāt ca" ... "ahacāyemimam dīrghaṃ manye dhātor vibhāṣitaḥ" (Pā. 3-1-27 *bhāṣya* [?]); since the group is found in the *dhātu* section, and the *k* of *yak* is also included, the *kaṇḍvādi* words are roots; if one grants that these are roots, *yak* is *ārdhadhātuka* ("ārdhadhātukaṃ śeṣaḥ," Pā. 3-4-114 [?]) and, since *kṅiti*-*guṇa*-prohibition arises, the *kit* marker is fitting, otherwise it would be idle; and the *dīrgha* of "akṛtsārvadhātukayor dīrghaḥ" (Pā. 7-4-25 [?]) would explain *kaṇḍū*; the *ata upadhāyāḥ*... "ato lopaḥ" (Pā. 6-4-48 [?]) drops the final *a* of *sapara* before the *ārdhadhātuka* *yak*: *saparya*; "sanādyantā dhātavaḥ" (Pā. 3-1-32 [?]) gives root-status; *laṭ*, *tip*; *śap* ("kartari śap," Pā. 3-1-68 [?]); "ato guṇe" (Pā. 6-1-97 [?]) gives *pararūpa*; *saparyati*; the accent is udātta by the suffix accent of *yak*, and the single substitute formed with *śap*'s *a* is udātta ("ekādeśa udāttenodāttaḥ," Pā. 8-2-5 [?]); the verb is not lowered since "yaddhṛttānnityam" (Pā. 8-1-66 [?]) prohibits it, so "tiṅ atiṅaḥ" (Pā. 8-1-28 [?]) does not make it unaccented; the rest are lowered by "anudāttaṃ padam ekavarjam" (Pā. 6-1-158 [?]), and the *i* after the udātta becomes *svarita* ("udāttād anudāttasya svaritaḥ," Pā. 8-4-66 [?]). *(Sūtra numbers read from small print; pointers only. The Mahābhāṣya quotation is a best reading.)*
+**हविष्पतिः (*haviṣpatiḥ*)** — "hūyate iti haviḥ": "arci-śuci-hu-sṛpi-chādi-chardibhya isiḥ" (Uṇ. "2-265" [?]; the bhāṣya gives 2-109): after *arca pūjāyām*, *śuca śoke*, *hu dānādanayoḥ*, *sṛpḷ gatau*, *chadi apavāraṇe* in its *ṇic* form, and *charda vamane*, the suffix *isi*; so *isi* after *hu*: *hu* + *is*, *guṇa* and *av*: *havis*; nominative singular *haviḥ*; the *i* udātta by the suffix accent. "haviṣaḥ patiḥ", a genitive tatpuruṣa; *ru* and visarga for the *s*: *haviḥ patiḥ*. Now "nityaṃ samāse 'nuttarapadasthasya" (Pā. 8-3-45): in a compound, before a *k*- or *p*-class letter, the visarga of *is* or *us* not in the second member always becomes *ṣ*; so the visarga of the suffix *is* before the *p*: *haviṣpatiḥ*; the first member's accent by "patyāv aiśvarye" (Pā. 6-2-18). **सपर्यति (*saparyati*)** — the word *sapara* is read in the *kaṇḍvādi* group, so "kaṇḍvādibhyo yak" (printed "vā. 3-1-27"): after the roots read in the *kaṇḍvādi* group the suffix *yak*; so *yak* after *sapara*. The words in the *kaṇḍvādi* group have both the name *dhātu* and the name *prātipadika*; this is clear in the Mahābhāṣya:
+
+> धातुप्रकरणाद्धातुः कस्य चासञ्जनादपि ।
+> आह चायमिमं दीर्घं मन्ये धातुर्विभाषितः ॥
+>
+> *dhātuprakaraṇād dhātuḥ kasya cāsañjanād api |*
+> *āha cāyam imaṃ dīrghaṃ manye dhātur vibhāṣitaḥ ||*
+
+(printed "pā. sū. ma. 3-1-27"). Because the group is in the section on roots, the *kaṇḍvādi* are roots; and because the *k* is attached to *yak*, they are roots too: if one grants that they are roots, the *yak* added to them is *ārdhadhātuka*, and when *guṇa* would arise, the *k* serves to bar it — otherwise the *k* would be useless. If they are simply roots, the long vowel in *kaṇḍūya* would come by "akṛt-sārvadhātukayor dīrghaḥ" (printed "7-4-2" [sic]; the sūtra is 7-4-25), so the long vowel read in the *gaṇapāṭha* as *kaṇḍū* would be useless; if the root-name is optional, then when it does not apply *yak* does not come, and the long vowel read is useful for being heard. So the conclusion is that the *kaṇḍvādi* words take the name *dhātu* optionally, and the name *prātipadika* when that is absent.
+
+### Page 512 — Rik 8 grammar closes
+
+Here, taking *sapara* as a root, the *yak* added to it is *ārdhadhātuka* by "ārdhadhātukaṃ śeṣaḥ" (Pā. 3-4-114); so "ato lopaḥ" (Pā. 6-4-48) drops the final *a* of *sapara*: *saparya*; it is a root by "sanādyantā dhātavaḥ" (Pā. 3-1-32); then *laṭ*, replaced by third singular *tip*; the vikaraṇa *śap* by "kartari śap" (Pā. 3-1-68): *saparya* + *a* + *ti*; "ato guṇe" (Pā. 6-1-97) gives *pararūpa* of the root's final *a* and the *a* of *śap*: *saparyati*; udātta by the suffix accent of *yak*; the *a* formed as a single substitute with the *a* of *śap* is udātta by "ekādeśa udāttenodāttaḥ" (Pā. 8-2-5). Since "yad-vṛttān nityam" (Pā. 8-1-66) bars it, "tiṅṅ atiṅaḥ" (Pā. 8-1-28) does not make it wholly unaccented; the other vowels are unaccented by "anudāttaṃ padam ekavarjam" (Pā. 6-1-158), and the *i* of *ti* becomes svarita by "udāttād anudāttasya svaritaḥ" (Pā. 8-4-66).
 
 **॥८॥**
 
 ---
 
-### Page 512 — Sūkta 12, Rik 9
+### Page 512 (lower) — Sūkta 12, Rik 9
+
+*(Saṃhitā accents as printed; Pada unaccented. Line 1: the stroke over हविष्माँ stands beside the candrabindu, as printed.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यो अग्निं देववीतये हविष्माँ आविवासति ।
-> तस्मै पावक मृळय ॥९॥
+> यो अ॒ग्निं दे॒ववी॑तये ह॒विष्माँ॑ आ॒विवा॑सति ।
+> तस्मै॑ पावक मृळय ॥९॥
 >
-> *yo agniṃ devavītaye haviṣmām̐ āvivāsati |*
-> *tasmai pāvaka mṛḷaya ||9||*
+> *yo agníṃ devávītaye havíṣmām̐ āvívāsati |*
+> *tásmai pāvaka mṛḷaya ||9||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -10410,22 +10430,19 @@ O shining Agni! The sacrificer who offers oblations to you worships you, the mes
 > *yaḥ | agnim | deva-vītaye | haviṣmān | ā-vivāsati ||*
 > *tasmai | pāvaka | mṛḷaya ||9||*
 
-**॥ Sāyaṇa-bhāṣyam ॥**
+**॥ Sāyaṇa-bhāṣyam ॥** *(runs onto p. 513)*
 
-> गार्हपत्याहवनीययोः परस्परसंसर्गे विहितस्य हविषो योज्या यो अग्निं देववीतय इत्येषा । अथाग्नेय्यै इष्टप्रयेति खण्डे सूत्रितम् । यो अग्निं देववीतये कुवित्सु नो गविष्टये । आ. ३-१४ [?] । इति ॥
+> गार्हपत्याहवनीययोः परस्परसंसर्गे विहितस्य हविषो याज्या यो अग्निं देववीतय इत्येषा । अथाग्नेय्या इष्टय इति खण्डे सूत्रितम् । यो अग्निं देववीतये कुवित्सु नो गविष्टये । आ. ३-१३ । इति ॥
 >
-> *gārhapatyāhavanīyayoḥ paraspara-saṃsarge vihitasya haviṣo yojyā yo agniṃ devavītaya ity eṣā | athāgneyyai iṣṭaprayeti khaṇḍe sūtritam | yo agniṃ devavītaye kuvit su no gaviṣṭaye | ā. 3-14 [?] | iti ||*
+> *gārhapatyāhavanīyayoḥ parasparasaṃsarge vihitasya haviṣo yājyā yo agniṃ devavītaya ityeṣā | athāgneyyā iṣṭaya iti khaṇḍe sūtritam | yo agniṃ devavītaye kuvitsu no gaviṣṭaye | ā. 3-13 | iti ||*
 >
-> हविष्मान् हविर्युक्तो यो यजमानो देववीतये देवानां हविर्भक्षणहेतुयोगार्थमग्निमाविवासति अग्नेः समीपे विशेषेणागत्य परिचर्यां करोति हे पावकाग्ने तस्मै मृळय । तं यजमानं सुखय ॥ देववीतये । वी गतिप्रजनकान्त्यश[…]
+> हविष्मान्हविर्युक्तो यो यजमानो देववीतये देवानां हविर्भक्षणहेतुयोगार्थमग्निमाविवासति अग्नेः समीपे विशेषेणागत्य परिचर्यां करोति हे पावकाग्ने तस्मै मृळय । तं यजमानं सुखय ॥ देववीतये । वी गतिप्रजनकान्त्यशनखादनेष्वित्यस्मादशनार्थात्क्तिन् । देवानां वीतिर्यस्मिन्यागे स देववीतिः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । हविष्मान् । नब्विषयस्यानिसन्तस्येति पर्युदासाद्धविःशब्दो ऽन्तोदात्तः । मतुपः सर्वानुदात्तत्वात्स एव शिष्यते । आविवासति । वा गतिगन्धनयोः । अस्मादन्तर्भावितण्यर्थादागमयितुमिच्छतीत्यर्थे सन् । आह्वाने चाप [?] परिचर्यायां पर्यवस्यतीति विवासतिशब्दः परिचर्यार्थे निघण्टौ पठितः । द्विर्भावः । अभ्यासस्य ह्रस्वः । सन्यतः । पा. ७-४-७९ । इतीत्त्वम् । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । तिङ्ङतिङ इति निघातो न भवति । यद्वृत्तान्नित्यमिति प्रतिषेधात् । तिङि चोदात्तवति । पा. ८-१-७१ । इत्याङो निघातः । सह सुपा । पा. २-१-४ । इत्यत्र सहेति योगविभागादाङस्तिङा सह समासे समासान्तोदात्तत्वे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । तस्मै । क्रियाग्रहणं कर्तव्यम् । पा. १-४-३२-१ । इति संप्रदाने चतुर्थी ॥
 >
-> *haviṣmān havir-yukto yo yajamāno deva-vītaye devānāṃ havir-bhakṣaṇa-hetu-yogārtham agnim āvivāsati agneḥ samīpe viśeṣeṇāgatya paricaryāṃ karoti he pāvakāgne tasmai mṛḷaya | taṃ yajamānaṃ sukhaya || deva-vītaye | vī gati-prajana-kānty-aśa[...]*
+> *haviṣmānhaviryukto yo yajamāno devavītaye devānāṃ havirbhakṣaṇahetuyogārthamagnimāvivāsati agneḥ samīpe viśeṣeṇāgatya paricaryāṃ karoti he pāvakāgne tasmai mṛḷaya | taṃ yajamānaṃ sukhaya || devavītaye | vī gatiprajanakāntyaśanakhādaneṣvityasmādaśanārthātktin | devānāṃ vītiryasminyāge sa devavītiḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | haviṣmān | nabviṣayasyānisantasyeti paryudāsāddhaviḥśabdo 'ntodāttaḥ | matupaḥ sarvānudāttatvātsa eva śiṣyate | āvivāsati | vā gatigandhanayoḥ | asmādantarbhāvitaṇyarthādāgamayitumicchatītyarthe san | āhvāne cāpa [?] paricaryāyāṃ paryavasyatīti vivāsatiśabdaḥ paricaryārthe nighaṇṭau paṭhitaḥ | dvirbhāvaḥ | abhyāsasya hrasvaḥ | sanyataḥ | pā. 7-4-79 | itīttvam | ñnityādirnityamityādyudāttatvam | tiṅṅatiṅa iti nighāto na bhavati | yadvṛttānnityamiti pratiṣedhāt | tiṅi codāttavati | pā. 8-1-71 | ityāṅo nighātaḥ | saha supā | pā. 2-1-4 | ityatra saheti yogavibhāgādāṅastiṅā saha samāse samāsāntodāttatve prāpte parādiśchandasi bahulamityuttarapadādyudāttatvam | tasmai | kriyāgrahaṇaṃ kartavyam | pā. 1-4-32-1 | iti saṃpradāne caturthī ||*
 
-**Translation:** "[This rik is] to be used for the oblation prescribed for the mutual contact of the Gārhapatya and Āhavanīya fires: *yo agniṃ devavītaye*. In the section '*athāgneyyai iṣṭaprayā*' it is laid down: '*yo agniṃ devavītaye*, *kuvit su no gaviṣṭaye*' (Āśvalāyana 3-14 [?]). *Haviṣmān* — the sacrificer endowed with an oblation — who, *devavītaye*, in order to bring about the gods' eating of the oblation, *āvivāsati* — comes near Agni and serves him specially; O *pāvaka*, O Agni, the purifier, *tasmai mṛḷaya*: do good to him — give that sacrificer happiness. *Devavītaye* — from the root *vī* (in the senses of motion, generation, desire, eating): the remaining Sanskrit, on p. 513, is given below."
+**Translation:** "For the oblation prescribed at the mutual contact of the Gārhapatya and Āhavanīya [fires], this [rik] *yo agniṃ devavītaye* is the *yājyā*; laid down in the section *athāgneyyā iṣṭayaḥ*: '*yo agniṃ devavītaye*; *kuvit su no gaviṣṭaye*' (Āśv. 3-13). The sacrificer who, *haviṣmān* — having an oblation — *devavītaye*, for the purpose of the gods' eating of the oblation, *āvivāsati* Agni — comes specially near Agni and serves him: O *pāvaka*, Agni, *tasmai mṛḷaya* — make that sacrificer happy." (Grammatical tail, on p. 513: *devavītaye* — *ktin* after *vī* in the sense of eating; "that sacrifice in which there is the eating of the gods", a bahuvrīhi with the first member's accent; *haviṣmān* — *havis* is final-udātta, being excluded by "nab-viṣayasyānisantasya", and since *matup* is wholly unaccented that accent alone remains; *āvivāsati* — from *vā gatigandhanayoḥ* with the causative sense included, *san* in the sense "wishes to bring"; ending in calling and service, *vivāsati* is read in the Nighaṇṭu among words for service; doubling, shortening of the reduplicate, *i* by "sanyataḥ" (Pā. 7-4-79), initial-udātta by "ñnity ādir nityam"; not unaccented, by "yad-vṛttān nityam"; the *āṅ* unaccented by "tiṅi codāttavati" (Pā. 8-1-71); by splitting off *saha* in "saha supā" (Pā. 2-1-4) *āṅ* compounds with the *tiṅanta*, and instead of the compound-final udātta "parādiś chandasi bahulam" makes the second member initial-udātta; *tasmai* — the dative of the *sampradāna* by the vārttika "kriyāgrahaṇaṃ kartavyam" (Pā. 1-4-32-1).)
 
-
-### Pages 513–515 — Rik 9: close of the bhāṣya, word-meanings, English, Special Topics, grammar
-
-*(Continuation of Sāyaṇa's Sanskrit on* devavītaye*, noted briefly: that* vī *is from the root* vī gati-prajana-kānty-aśana-khādaneṣu *and takes* ktin *("striyāṃ ktin," Pā. 3-3-94 [?]), whence* vīti*; that in the compound "devānāṃ vītir yasmin yāge sa devavītiḥ" the first member keeps its accent; that* haviṣmān *is formed with* matup *after* haviḥ*, the* m *becoming* v *(Pā. 8-2-9 [?]), initial and unaccented; that* āvivāsati *is from* vana/vā gati-gandhanayoḥ *with* san *by Pā. 3-1-7 [?], doubling and the *i*-replacement of the reduplicate vowel, giving* vivāsa*, which has the root's accent; and that* tasmai *is in the dative (*caturthī*), because Indra... no — because the one for whom the act is intended receives the *sampradāna* name; that* pāvaka *is a vocative; and that* mṛḷaya *is the imperative of* mṛḍa sukhane*.)* *(The Sanskrit is compressed and partly illegible at the head of p. 513; I give only the portions I could read.)*
+### Page 513 — Rik 9: word-meanings, overall sense, English, Special Topics
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -10433,7 +10450,7 @@ O shining Agni! The sacrificer who offers oblations to you worships you, the mes
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, you purify all things! The sacrificer who comes near you, so that you may carry his oblation to the gods, and who praises you, you must bless with happiness.
+O Agni, you purify all things! To offer the oblation to the gods through you, the sacrificer comes to you and serves you. Give such a sacrificer happiness.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
@@ -10441,9 +10458,13 @@ O Agni, you purify all things! The sacrificer who comes near you, so that you ma
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-When the sacrificer has come to the fires in the two fire-pits, the Gārhapatya and the Āhavanīya, he recites this rik and, offering the oblation, performs the *homa*. At that time this rik is used as a *yājyā* mantra. In this connection the Āśvalāyana Śrauta-sūtra (Āś. 3-14 [?]), in the section *athāgneyyai iṣṭaprayā*, says that the riks *yo agniṃ devavītaye* (Ṛg. Saṃ. 1-12-9) and *kuvit su no gaviṣṭaye* (Ṛg. Saṃ. 8-? -?) are to be used as the *yājyā* and *puronuvākyā* mantras.
+When the sacrificer has come to the fires in the two fire-pits, the Gārhapatya and the Āhavanīya, he recites this rik and, offering the oblation, performs the *homa*. At that time this rik is used as a *yājyā* mantra. In this connection the Āśvalāyana Śrauta-sūtra
 
-**"Devavītaye"** — *devānāṃ havir-bhakṣaṇa-hetu-yogārtham* — "for the sake of bringing about the gods' eating of the oblation": to make an offering to the gods. Since the gods other than Agni are not seen by the eye, one must offer the oblation to them through Agni by pouring it into fire; therefore the sacrificer brings the oblation near Agni, serves him, and prays: this is the idea. **Skandasvāmī** gives for this word: *devān prati gamanāya, devānāṃ vo havir-bhakṣaṇāya* — "for going to the gods [as messenger], and for inviting the gods to eat the oblation."
+### Page 514 — Rik 9: Special Topics (continued) and grammar
+
+(Ā. 3-13), in the section *athāgneyyā iṣṭayaḥ*, says that the riks *yo agniṃ devavītaye* (Ṛ. Saṃ. 1-12-9) and *kuvit su no gaviṣṭaye* (Ṛ. Saṃ. 8-75-11) are to be used as the *yājyā* and *puronuvākyā* mantras.
+
+**"Devavītaye"** — *devānāṃ havir-bhakṣaṇa-hetu-yogārtham* — "for the sake of bringing about the gods' eating of the oblation": to make an offering to the gods. Since the gods other than Agni are not seen by the eye, one must offer the oblation to them through Agni by pouring it into fire; therefore the sacrificer brings the oblation near Agni, serves him, and prays: this is the idea. **Skandasvāmī** gives for this word *devān prati gamanāya, devānāṃ vā havir-bhakṣaṇāya*: that is, for going to the gods as messenger on the sacrificer's behalf, and for calling the gods to eat the oblation.
 
 **"Haviṣmān"** — one who has prepared the oblation to be offered to the gods and has brought it along.
 
@@ -10451,11 +10472,15 @@ When the sacrificer has come to the fires in the two fire-pits, the Gārhapatya 
 
 **"Pāvaka"** — one who purifies; *purifier*; or one who blazes brilliantly: *resplendent* [the source's English]. The word is used especially in addressing Agni.
 
-**"Mṛḷaya"** — *sukhaya*; "bring happiness; give joy."
+**"Mṛḷaya"** — *sukhaya*, *sukham utpādaya*: give happiness.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 514–515, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 514–515, noted briefly; numbers checked against the print)*
 
-**देववीतये (*devavītaye*)** — root *vī gatiprajanakāntyaśanakhādaneṣu* in the sense of *aśana*; *ktin* ("striyāṃ ktin," Pā. 3-3-94 [?]); *ktin* is *kit*, so no *guṇa*: *vīti*; "devānāṃ vītir yasmin yāge sa devavītiḥ" — a bahuvrīhi, so "bahuvrīhau prakṛtyā pūrvapadam" (Pā. 6-2-1 [?]) keeps the first member's accent; *haviḥ* — a neuter, though by "nabviṣayasyānisantasya" (Phiṭ-sūtra 36 [?]), which excludes *isanta* words by the phrase "aniseḥ," it does not get initial-udātta; the suffix accent leaves it final-udātta. **हविष्मान् (*haviṣmān*)** — "haviḥ asya asti": *matup* ("tad asyāsty asminn iti matup," Pā. 5-2-94 [?]); *matup* is *pit*, so unaccented ("anudāttau supitau," Pā. 3-1-4 [?]), and the *i*-final *haviḥ* keeps its final-udātta. **आविवासति (*āvivāsati*)** — root *vāṅ gatigandhanayoḥ* (*vāsa* in the Veda), with the causative-like sense inside; "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (Pā. 3-1-7 [?]) gives the desiderative *san* after a root when the object is "the wish to do the same act"; in the sense "to attend to/serve" it is exhausted in *paricaryā*; Yāska, in the *Nighaṇṭu* (3-5-10 [?]), reads *vivāsati* among the words for service; *vā* + *sa*: "sanyaṅoḥ" (Pā. 6-1-9 [?]) doubles the root; "hrasvaḥ" (Pā. 7-4-59 [?]) shortens the reduplicate; "sanīvantardha…" [print: "sanyataḥ," Pā. 7-4-79 [?]] changes the reduplicate's *a* to *i*: *vivāsa*; *san* is *nit*, so by "ñnityādir nityam" (Pā. 6-1-197 [?]) initial-udātta; "sanādyantā dhātavaḥ" (Pā. 3-1-32 [?]) gives root-status; *laṭ*, *tip*; *śap*; *pararūpa*: *vivāsati*. Since "yaddhṛttānnityam" (Pā. 8-1-66 [?]) prohibits the lowering, "tiṅ atiṅaḥ" does not apply, and the verb is not made unaccented. In the Saṃhitā *ā* is a preverb joined to a finite verb: "tiṅ codāttavati" (Pā. 8-1-71 [?]): a *gati* before an udātta finite verb is unaccented; by "nipātā ādyudāttāḥ" the *ā* would be initial-udātta, but this rule overrides; "saha supā" (Pā. 2-1-4 [?]) divides *saha* and gives the compound with a finite verb; "samāsasya" (Pā. 6-1-223 [?]) would give the final-udātta, set aside by "parādiś chandasi bahulam" (Pā. 6-2-199 [?]), so the first syllable of the second member is udātta. **तस्मै (*tasmai*)** — "karmaṇā yam abhipraiti sa sampradānam" (Pā. 1-4-32 [?]): the one whom the doer wishes to reach with the act has the *sampradāna* name, whence the dative by "caturthī sampradāne" (Pā. 2-3-13 [?]); the vārttika "kriyāgrahaṇaṃ kartavyam" is noted. **मृळय (*mṛḷaya*)** — root *mṛḍa sukhane*, *ṇijanta*; *loṭ* second singular *sip*; *sip* → *hi*; *śap*; *guṇa*; *ay*; "ato heḥ" (Pā. 6-4-105 [?]) drops *hi*; *ḍ* → *ḷ* in the Veda. *(Sūtra numbers read from small print; pointers only.)*
+**देववीतये (*devavītaye*)** — root *vī gati-prajana-kānty-aśana-khādaneṣu*; after this root in the sense of eating, *ktin* by "striyāṃ ktin" (Pā. 3-3-94); the suffix being *kit*, no *guṇa*: *vīti*. "devānāṃ vītiḥ yasmin yāge saḥ devavītiḥ", a bahuvrīhi, keeps the first member's accent by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. 6-2-1). The word *haviḥ*, although neuter, ends in *is*, so, being excluded by the word *anisantasya*, it does not become initial-udātta by "nab-viṣayasyānisantasya" (Phiṭ-sū. "26"); it is final-udātta by the suffix accent. **हविष्मान् (*haviṣmān*)** — "haviḥ asya asti": *matup* after it by "tad asyāsty asminn iti matup" (Pā. 5-2-94); being *pit*, it is unaccented by "anudāttau sup-pitau" (Pā. 3-1-4); so the final udātta of *haviḥ* alone remains.
+
+### Page 515 — Rik 9 grammar closes
+
+**आविवासति (*āvivāsati*)** — root *vā gatigandhanayoḥ*; with the causative sense included, in the sense "wishes to bring", "dhātoḥ karmaṇaḥ samāna-kartṛkād icchāyāṃ vā" (Pā. 3-1-7) gives *san*; the wish to call ends in the sense of service; therefore in the Nighaṇṭu (Ni. "3-5-10") the word *vivāsati* is read in the sense of service. *vā* + *sa*: doubling by "sanyaṅoḥ" (Pā. 6-1-9); the reduplicate shortened by "hrasvaḥ" (Pā. 7-4-59); "sanyataḥ" (Pā. 7-4-79): before *san* the *a* of the reduplicate becomes *i*: *vivāsa*; *san* is *nit*, so by "ñnity ādir nityam" (Pā. 6-1-197) *vivāsa* is initial-udātta; root-name by "sanādyantā dhātavaḥ" (Pā. 3-1-32); then *laṭ*, *tip*, the vikaraṇa *śap* and *pararūpa*: *vivāsati*. Since "yad-vṛttān nityam" (Pā. 8-1-66) bars it, "tiṅṅ atiṅaḥ" does not make it wholly unaccented. The preverb *ā* is unaccented by "tiṅi codāttavati" (Pā. 8-1-71) — a word with the name *gati* is unaccented before a *tiṅanta* that has an udātta; this is an exception to "nipātā ādyudāttāḥ". In "saha supā" (Pā. 2-1-4) the sūtra is split at *saha*, so the *āṅ* is compounded with the *tiṅanta*; the final-udātta of "samāsasya" (Pā. 6-1-223) would arise, but "parādiś chandasi bahulam" (printed "6-2-19" [sic]; the sūtra is 6-2-199) sets it aside and makes the first syllable of the second member udātta. **तस्मै (*tasmai*)** — "karmaṇā yam abhipraiti sa sampradānam" (Pā. 1-4-32): the one the doer wishes to connect with the object of the act of giving takes the name of the *kāraka* *sampradāna* — in effect, the one for whom the thing given is meant. On this sūtra the Bhāṣyakāra says "kriyāgrahaṇaṃ kartavyam" (printed "pā. sū. ma. 1-4-32-1"): the vārttika means that the one for whom an action is meant takes the name *sampradāna*. Here, since *tat* is the one for whom the act of making happy, expressed by the root *mṛḍaya*, is meant, it is *sampradāna*, and "caturthī sampradāne" (printed "5-2-3-1-13" [sic]; the sūtra is 2-3-13) gives the dative. **मृळय (*mṛḷaya*)** — root *mṛḍa sukhane*, *ṇic*-ending; *loṭ*, second singular *sip*, replaced by *hi*; the vikaraṇa *śap*, *guṇa*, *ay*; *hi* dropped by "ato heḥ" (Pā. 6-4-105); *ḷ* for the *ḍ*: *mṛḷaya*.
 
 **॥९॥**
 
