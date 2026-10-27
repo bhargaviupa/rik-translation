@@ -13076,19 +13076,27 @@ The root *ṛ* has the sense of going. Since horses are endowed with motion, the
 
 **॥ Sūkta — 15 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 4 ॥ Sūkta — 15 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 28, 29 [?] ॥** *(small-print Kannada digits; the glyph for 2 and 3 is hard to tell apart in this print, so the first digit could also be 3 — a "38, 39" reading is possible; I give the figures that continue the run of Sūkta 14 and mark them unreliable)*
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 28, 29 ॥** *(as printed; Sūkta 14 closed with varga 27)*
 **॥ Mantras contained in this sūkta: 1–12 ॥**
 **॥ Ṛṣi — Medhātithi Kāṇva ॥**
-**॥ Devatā — Ṛtavaḥ (the Seasons): 1 — Indra; 2 — the Maruts; 3 — Tvaṣṭṛ; 4 — Agni; 5 — Indra; 6 — Mitra-Varuṇau; 7–10 — Draviṇodāḥ; 11 — the Aśvins; 12 — Agni ॥**
+**॥ Devatā —**
+
+> ऋतवः । १- इन्द्रः । २- मरुतः । ३- त्वष्टा । ४- अग्निः । ५- इन्द्रः । ६- मित्रावरुणौ । ७-१०- द्रविणोदाः । ११- अश्विनौ । १२- अग्निः ।
+>
+> *ṛtavaḥ | 1- indraḥ | 2- marutaḥ | 3- tvaṣṭā | 4- agniḥ | 5- indraḥ | 6- mitrāvaruṇau | 7-10- draviṇodāḥ | 11- aśvinau | 12- agniḥ |*
+
+*("The Ṛtus; 1 Indra, 2 the Maruts, 3 Tvaṣṭṛ, 4 Agni, 5 Indra, 6 Mitra and Varuṇa, 7–10 Draviṇodāḥ, 11 the Aśvins, 12 Agni.")* **॥**
 **॥ Chandaḥ — Gāyatrī ॥**
+
+*(Saṃhitā accents as printed; Pada unaccented. Line 1: the bars stand under द्र, म, ऋ and श, the strokes over ब, त्वा and द, as read at 500 dpi; with the stroke on त्वा the mechanical IAST gives both तु and ना as udātta, which the print does not settle.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र सोमं पिब ऋतुना त्वा विशन्त्विन्दवः ।
-> मत्सरासस्तदोकसः ॥१॥
+> इन्द्र॒ सोमं॒ पिब॑ ऋ॒तुना त्वा॑ वि॒शन्त्विन्द॑वः । [accent ?]
+> म॒त्स॒रास॒स्तदो॑कसः ॥१॥
 >
-> *indra somaṃ piba ṛtunā tvā viśantv indavaḥ |*
-> *matsarāsas tadokasaḥ ||1||*
+> *indra sómaṃ píba ṛtúnā́ tvā viśántv índavaḥ |* [accent ?]
+> *matsarā́sas tádokasaḥ ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -13096,35 +13104,61 @@ The root *ṛ* has the sense of going. Since horses are endowed with motion, the
 > मत्सरासः । तत्ऽओकसः ॥१॥
 >
 > *indra | somam | piba | ṛtunā | ā | tvā | viśantu | indavaḥ ||*
-> *matsarāsaḥ | tat-okasaḥ ||1||*
+> *matsarāsaḥ | tat 'okasaḥ ||1||*
 
-*(Accent-marks are printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 627; compressed; [?] marks doubtful readings)*
-
-> हे इन्द्र ऋतुना सह सोमं पिब । इन्दवः पीयमानाः सोमास्त्वा त्वामा विशन्तु । कीदृशाः । मत्सरासस्तृप्तिकराः तदोकसस्तन्निवासाः । सर्वदा त्वदुदरस्थायिन इत्यर्थः ॥ इन्द्र । षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । सोमम् । आर्तिस्तुसुहुसृघृक्षिप्क्षुभायावापदियक्षिनीभ्यो मन् … नित्त्वादाद्युदात्तः । पिब । पिबा मित्रस्य । ऋ. सं. १-१४-१० । इत्यत्रोक्तम् । … अस्य त्वा विशन्त्वित्युत्तरवाक्यगताख्यातार्थेन सह समुच्चेयार्थश्च शब्दो लुप्तः … चादिलोपे विभाषा [पा. ८-१-६३] … संहितायामोमाङोश्च … इन्दवः । प्र वो भ्रियन्त इन्दव इत्यत्रोक्तम् । मत्सरासः । … आज्जसेरसुक् । तदोकसः । तदेवौकः स्थानं येषां ते तदोकसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥१॥
+> हे इन्द्र ऋतुना सह सोमं पिब । इन्दवः पीयमानाः सोमास्त्वा त्वामा विशन्तु । कीदृशाः । मत्सरासस्तृप्तिकरास्तदोकसस्तन्निवासाः । सर्वदा त्वदुदरस्थायिन इत्यर्थः ॥ इन्द्र । षाष्ठिकमामन्त्रिताद्युदात्तत्वं । सोमं । आर्तिस्तुस्वित्या-
 >
-> *he indra ṛtunā saha somaṃ piba | indavaḥ pīyamānāḥ somās tvā tvām ā viśantu | kīdṛśāḥ | matsarāsas tṛptikarāḥ tadokasas tan-nivāsāḥ | sarvadā tvad-udara-sthāyina ity arthaḥ || indra | ṣāṣṭhikam āmantrītādyudāttatvam | somam | ārti-stu-su-hu-sṛ-ghṛ-kṣip-kṣubhā-yā-vā-pā-di-yakṣi-nībhyo man … nittvād ādyudāttaḥ | piba | pibā mitrasya | ṛ. saṃ. 1-14-10 | ity uktam | … asya tvā viśantv ity uttara-vākya-gatākhyātārthena saha samuccayārtha-ś ca śabdo luptaḥ … cādilope vibhāṣā [pā. 8-1-63] … saṃhitāyām omāṅoś ca … indavaḥ | pra vo bhriyanta indava ity atroktam | matsarāsaḥ | … āj jaser asuk | tadokasaḥ | tad eva okaḥ sthānaṃ yeṣāṃ te tadokasaḥ | bahuvrīhau pūrvapada-prakṛti-svaratvam ||1||*
+> *he indra ṛtunā saha somaṃ piba | indavaḥ pīyamānāḥ somāstvā tvāmā viśantu | kīdṛśāḥ | matsarāsastṛptikarāstadokasastannivāsāḥ | sarvadā tvadudarasthāyina ityarthaḥ || indra | ṣāṣṭhikamāmantritādyudāttatvaṃ | somaṃ | ārtistusvityā-*
 
-**Translation:** "O Indra! Drink the soma together with the Ṛtu. May the soma-juices (*indavaḥ*), as they are drunk, enter you. Of what kind? *Matsarāsaḥ* — causing satisfaction; *tadokasaḥ* — having that [i.e. you] for their abode: the sense is that they always remain in your belly." The rest is grammar, noted briefly: *indra* (accent of the vocative); *somam* (the Uṇādi *man* suffix, first-syllable accent); *piba* — the lengthened *pibā* was explained at Rik 14.10 (cited as "Ṛg. Saṃ. 1-14-10", which is Rik 10 of the previous sūkta); the *ca* ("and") connecting *piba* with the verb of the next clause has been dropped, and by P. 8-1-63 *cādilope vibhāṣā* the first verb is not made unaccented; *indavaḥ* — explained at *pra vo bhriyanta indavaḥ* (Rik 14.4); *matsarāsaḥ* — the plural *asuk* by P. 7-1-50 *āj jaser asuk*; *tadokasaḥ* — "those whose *okas* ('home') is that"; a *bahuvrīhi*, with the first-member accent. *(Grammar pages, noted briefly; P. 8-1-63 and P. 7-1-50 as read agree with the standard numbering.)*
+### Page 628 — Rik 1: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 628–629), noted briefly.** The Kannada treats *indra* (the vocative: first-syllable accent by P. 6-1-198 *āmantritasya ca*), *somam* (Uṇ. 1-[?] *ārti-stu-su…* — the *man* suffix, with the *n* indicatory), *piba* (the lengthening of the final *a* discussed at 1.14.10; the dropped *ca* — by P. 8-1-63 *cādilope vibhāṣā*, with the list *ca, vā, hā, aha, eva*, the rule being that a *ca*-less pair of verbs with one subject drops *ca*, while with different subjects *aha* is dropped; the guṇa of *pibā ṛtunā* barred by the shortening rule P. 6-1-127 *ṛty akaḥ* [as read, 6-1-128], which allows the prakṛtibhāva), *indavaḥ* (explained at 1.14.4; *āj jaser asuk*, P. 7-1-50), and *tadokasaḥ* (*tat* + *okas*, a *bahuvrīhi*, P. 6-2-1). *(Numerals as read; pointers only.)*
+> -दिना मन् । नित्त्वादाद्युदात्तः । पिब । पिबा मित्रस्य । ऋग्वे. १-१४-१० । इत्यत्रोक्तं । अस्य त्वा विशन्त्वित्युत्तरवाक्यगताख्यातार्थेन सह समुच्चयार्थश्चशब्दो लुप्तः । अतश्चादिलोपे विभाषेतीयं प्रथमा तिङ्विभक्तिर्न निहन्यते । विशन्त्विति चलोपसाम्ये ऽपि द्वितीयत्वान्निहन्यत एव । संहितायामाद्गुण इति प्राप्तस्य गुणस्य ऋत्यकः । पा. ६-१-१२८ । इति शाकल्यमते प्रकृतिभावादभावः । इन्दवः । प्र वो भ्रियन्त । ऋग्वे. १-१४-४ [?] । इत्यत्रोक्तं । मत्सरासः । तत्रैवोक्तं । आज्जसेरसुगित्यसुक् । तदोकसः । तदेवौकः स्थानं येषां ते तथोक्ताः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥
+>
+> *-dinā man | nittvādādyudāttaḥ | piba | pibā mitrasya | ṛgve. 1-14-10 | ityatroktaṃ | asya tvā viśantvityuttaravākyagatākhyātārthena saha samuccayārthaścaśabdo luptaḥ | ataścādilope vibhāṣetīyaṃ prathamā tiṅvibhaktirna nihanyate | viśantviti calopasāmye 'pi dvitīyatvānnihanyata eva | saṃhitāyāmādguṇa iti prāptasya guṇasya ṛtyakaḥ | pā. 6-1-128 | iti śākalyamate prakṛtibhāvādabhāvaḥ | indavaḥ | pra vo bhriyanta | ṛgve. 1-14-4 [?] | ityatroktaṃ | matsarāsaḥ | tatraivoktaṃ | ājjaserasugityasuk | tadokasaḥ | tadevaukaḥ sthānaṃ yeṣāṃ te tathoktāḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 628)*
+**Translation:** "O Indra, drink the soma together with the Ṛtu. May the *indavaḥ*, the soma juices being drunk, *ā viśantu*, enter you. What are they like? *Matsarāsaḥ*, causing satisfaction; *tadokasaḥ*, having that as their dwelling: the sense is that they always stay in your belly." (Grammatical tail: *indra*, initial udātta by the *ṣāṣṭhika* rule; *somam* with *man*, initial udātta; *piba*, as said at Ṛ. 1-14-10; the word *ca* joining it with the verb of the next clause, *tvā viśantu*, is dropped, so by *cādilope vibhāṣā* this first *tiṅ* form is not lowered, while *viśantu*, being the second, is; in the Saṃhitā the *guṇa* of *ād guṇaḥ* does not come, by Śākalya's view in Pā. 6-1-128 (*ṛty akaḥ*); *indavaḥ* and *matsarāsaḥ* as said at Ṛ. "1-14-4" [?], *asuk* by *ājjaser asuk*; *tadokasaḥ*, "whose dwelling is that", a bahuvrīhi with the first-member accent.)
 
-**इन्द्र (indra)** — O Indra | **ऋतुना सह (ṛtunā saha)** — together with the Ṛtu-deity | **सोमम् (somam)** — the soma-juice | **पिब (piba)** — drink | **मत्सरासः (matsarāsaḥ)** — giving satisfaction | **इन्दवः (indavaḥ)** — the soma-juices | **तदोकसः (tadokasaḥ)** — whose abode is your *udara* ("belly"), as a place of residence | **त्वाम् (tvām)** — you (your belly) | **आ विशन्तु (ā viśantu)** — let them enter.
+**॥ Prati-padārthaḥ ॥**
+
+**इन्द्र (indra)** — O Indra | **ऋतुना सह (ṛtunā saha)** — together with the Ṛtu deity | **सोमम् (somam)** — the soma juice | **पिब (piba)** — drink | **मत्सरासः (matsarāsaḥ)** — giving satisfaction | **इन्दवः (indavaḥ)** — the soma juices | **तदोकसः (tadokasaḥ)** — having your belly as their very dwelling | **त्वाम् (tvām)** — you (your belly) | **आ विशन्तु (ā viśantu)** — may they enter.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! Drink the soma-juice together with the Ṛtu-deity. It gives you satisfaction; and may the soma-juices, whose abiding home is your belly, enter your belly and remain there.
+O Indra, drink the soma juice with the Ṛtu deity. It gives you satisfaction. And may it enter your belly so as to stay in your belly always as its home.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Indra, drink with the Ritu (season) the Soma juice; let the satisfying drops enter your stomach and stay there (as if that were their home).
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 628)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**तदोकसः (tadokasaḥ)** — *tan-nivāsāḥ*; *sarvadā tvad-udara-sthāyina ity arthaḥ*: "those who always dwell in your belly". *Tad eva okaḥ sthānaṃ yeṣāṃ te tadokasaḥ*: those for whom that very place is the home. Your belly is always the abode of the soma-juice; "may soma-juice always be in your belly" — that is, may you be always drinking soma.
+**Tadokasaḥ**:
+
+> तन्निवासाः । सर्वदा त्वदुदरस्थायिन इत्यर्थः । तदेवौकः स्थानं येषां ते तदोकसः ॥
+>
+> *tannivāsāḥ | sarvadā tvadudarasthāyina ityarthaḥ | tadevaukaḥ sthānaṃ yeṣāṃ te tadokasaḥ ||*
+
+That is, your belly, which is that very dwelling, is always the dwelling of the soma juice. "May the soma juice always be in your belly" means "may you always be drinking soma".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 628–629, noted briefly)*
+
+**इन्द्र (*indra*)**: initial udātta by the sixth-adhyāya sūtra "āmantritasya ca" (Pā. sū. 6-1-198).
+
+### Page 629 — Rik 1: grammar (end)
+
+**सोमम् (*somam*)**: the suffix *man* by "artistusu…" (Uṇ. sū. "1-1-36" [as printed]); being *nit*, initial udātta by the *nit* accent.
+
+**पिब (*piba*)**: explained at *pibā mitrasya* (Ṛ. Saṃ. 1-14-10). Here the word *ca*, which would join it with the verb (*tiṅanta*) of the following clause *ā tvā viśantu*, is dropped, that is, not used. So by "cādilope vibhāṣā" (Pā. sū. 8-1-63): when *ca*, *vā*, *ha*, *aha*, *eva* are dropped, the first *tiṅanta* is not unaccented. The śāstra does not enjoin a dropping of *ca*, *vā* and the rest; so "dropping" here means not using them: since the sense of *ca* is understood from the meaning and context, *ca* and the rest are not used. *Ca* means conjunction; *aha* means "only". When the two *tiṅantas* have the same agent, *ca* is dropped; when the agents differ, *aha* is dropped. This rule holds only when *eva*, meaning restriction, is used, not everywhere. Where they are so left unused, the *tiṅanta* is not lowered. In *viśantu* too the dropping of *ca* is alike, but it is not the first *tiṅanta*, so it is lowered. *Piba* + *ṛtunā*: in the Saṃhitā *guṇa* would come by "ād guṇaḥ" (Pā. sū. 6-1-87); but "ṛty akaḥ" (Pā. sū. 6-1-128): in Śākalya's view the *a*, *i*, *u*, *ṛ* at the end of a word before a short *ṛ* is short (natural form); so the *a* of *piba* stays short. By the force of this rule of shortness the *guṇa* does not come; the commentators explain it as natural form with this result in mind.
+
+**इन्दवः (*indavaḥ*)**: its formation is set out at the mantra *pra vo bhriyanta indavaḥ* (Ṛ. Saṃ. 1-14-4). Here the augment *asuk* comes by "ājjaser asuk" (Pā. sū. 7-1-50) [for *matsarāsaḥ*].
+
+**तदोकसः (*tadokasaḥ*)**: *tat okaḥ sthānaṃ yeṣāṃ te tadokasaḥ*: the soma juices whose dwelling is Indra's belly itself. Being a bahuvrīhi compound, by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) the first-member accent comes.
+
+**॥१॥**
+
+---
 
 ### Pages 629–634 — Sūkta 15, Rik 2
 
