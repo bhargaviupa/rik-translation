@@ -918,71 +918,135 @@ So in places such as *cikīrṣati* there is no room for doubling. "Sarvasya dve
 
 ---
 
-### Pages 38–43 — Sūkta 20, Rik 8 (last rik of the sūkta)
+### Page 38 — Sūkta 20, Rik 8 (last ṛk of the sūkta)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अधारयन्त वह्नयो ऽभजन्त सुकृत्यया ।
-> भागं देवेषु यज्ञियम् ॥८॥
+> अधा॑रयन्त॒ वह्न॒योऽभ॑जन्त सुकृ॒त्यया॑ ।
+> भा॒गं दे॒वेषु॑ य॒ज्ञिय॑म् ॥८॥
 >
-> *adhārayanta vahnayo 'bhajanta sukṛtyayā |*
-> *bhāgaṃ deveṣu yajñiyam ||8||*
+> *ádhārayanta váhnayó 'bhajanta sukṛtyáyā |*
+> *bhāgáṃ devéṣu yajñíyam ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > अधारयन्त । वह्नयः । अभजन्त । सुऽकृत्यया ॥
 > भागम् । देवेषु । यज्ञियम् ॥८॥
 >
-> *adhārayanta | vahnayaḥ | abhajanta | su-kṛtyayā ||*
+> *adhārayanta | vahnayaḥ | abhajanta | su 'kṛtyayā ||*
 > *bhāgam | deveṣu | yajñiyam ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 38; compressed; [?] marks doubtful readings)*
+*(The varga number is not printed after this bhāṣya; the page headers from p. 43 read Varga 3.)*
 
-> वह्नयश्चमसादिसाधननिष्पादनेन यज्ञस्य वोढार ऋभवो धारयन्त । पूर्वं मनुष्यत्वेन मरणयोग्या अप्यमृतत्वलाभेन प्राणान्धारितवन्तः । तथा च मन्त्रान्तरमाम्नायते । मर्तासः सन्तो अमृतत्वमानशुः । ऋग्वेदे [१-११०-४] । इति । किं चैते सुकृत्यया यज्ञसाधनद्रव्यसम्पादनरूपेण शोभनव्यापारेण देवेषु मध्ये स्थिता यज्ञियं यज्ञार्हं भागं हविर्लक्षणमभजन्त । सेवितवन्तः । अयुर्मर्त्यः सौधन्वनायुर्यज्ञियं भागमानश । ऋग्वेदे [३-६०-१] । इत्यादिमन्त्रान्तरेषु विस्पष्टः । ब्राह्मणेऽप्यृभवो वै देवेषु तपसा सोमपीथमभ्यजयन् । ऐ. ब्रा. [३-३०] । इत्यादिव्याख्यानं विस्पष्टम् ॥ वह्नयः । निदित्यनुवृत्तौ वहिश्रीत्यादिना निप्रत्ययः । अभजन्त । पादादित्वादनिघातः । सुकृत्यया । विभाषा कृवृषोः । पा. [३-१-१२०] । इति कृञः कर्मणि क्यप् । ह्रस्वस्य पिति कृति तुक् । शोभनं कृत्यं यस्यां भजनक्रियायां सा सुकृत्या । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं बाधितं ननु सुभ्यामित्युत्तरपदान्तोदात्तत्वं । … कृञः शश्च । पा. [३-३-१००] । इति स्त्रियां भावे क्यप्प्रत्ययान्तः कृत्याशब्दः । … भागम् । कर्षात्वतः । पा. [६-१-१५९] । इत्यन्तोदात्तः । यज्ञियम् । यज्ञमर्हतीत्यर्थे यज्ञर्त्विग्भ्यां घखञौ । पा. [५-१-७१] । इति घः । तस्य इयादेशः । प्रत्ययस्वरः ॥८॥
+> वह्नयश्चमसादिसाधननिष्पादनेन यज्ञस्य वोढार ऋभवोऽधारयन्त । पूर्वं मनुष्यत्वेन मरणयोग्या अप्यमृतत्वलाभेन प्राणान्धारितवन्तः । तथा च मन्त्रान्तरमाम्नायते । मर्तासः सन्तो अमृतत्वमानशुः । ऋग्वे. १-११०-४ । इति । किंचैते सुकृत्यया यज्ञसाधनद्रव्यसंपादनरूपेण शोभनव्यापारेण देवेषु मध्ये स्थिता यज्ञियं यज्ञार्हं भागं हविर्लक्षणमभजन्त । सेवितवन्तः । अयमर्थः सौधन्वना यज्ञियं भागमानश । ऋग्वे. ३-६०-१ । इत्यादिमन्त्रान्तरे विस्पष्टः । ब्राह्मणेऽप्यृभवो वै देवेषु तपसा सोमपीथमभ्यजयन् । ऐ. ब्रा. ३-३० । इत्याद्युपाख्यानं विस्पष्टम् ॥ वह्नयः । निदित्यनुवृत्तौ वहिश्रीत्यादिना निप्रत्ययः । अभजन्त । पादादित्वादनिघातः । सुकृत्यया । विभाषा कृवृषोः । पा. ३-१-१२० । इति कृञः कर्मणि क्यप् । शोभनं कृत्यं यस्या भजनक्रियायाः सा सुकृत्या । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं बाधित्वा नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । ननु कृत्यशब्दे क्यपः पित्त्वेनानुदात्तत्वाद्धातुस्वरेणादिरुदात्तः । ततश्चाद्युदात्तं द्व्यच्छन्दसीत्यनेनाद्युदात्तत्वेन भवितव्यम् । तेन हि पुरस्तादपवादेन परमपि नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं बाध्यत इत्युक्तम् । एवं तर्हि कृञः श च । पा. ३-३-१०० । इति स्त्रियां भावे क्यप्प्रत्ययान्तः कृत्याशब्दः । क्यपः पित्त्वेऽपि व्यत्ययेनोदात्तत्वम् । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते । भागम् । कर्षात्वतः । पा. ६-१-१५९ । इत्यन्तोदात्तः । यज्ञियम् । यज्ञमर्हतीत्यर्थे यज्ञर्त्विग्भ्यां घखञौ । पा. ५-१-७१ । इति घः । तस्य इयादेशः । प्रत्ययस्वरः ॥
 >
-> *vahnayaś camasādi-sādhana-niṣpādanena yajñasya voḍhāra ṛbhavo dhārayanta | pūrvaṃ manuṣyatvena maraṇa-yogyā apy amṛtatva-lābhena prāṇān dhāritavantaḥ | tathā ca mantrāntaram āmnāyate | martāsaḥ santo amṛtatvam ānaśuḥ | ṛgvede [1-110-4] | iti | kiṃ caite sukṛtyayā yajña-sādhana-dravya-sampādana-rūpeṇa śobhana-vyāpāreṇa deveṣu madhye sthitā yajñiyaṃ yajñārhaṃ bhāgaṃ havir-lakṣaṇam abhajanta | sevitavantaḥ | ayur martyaḥ saudhanvanā yajñiyaṃ bhāgam ānaśa | ṛgvede [3-60-1] | ity-ādi-mantrāntareṣu vispaṣṭaḥ | brāhmaṇe 'py ṛbhavo vai deveṣu tapasā somapītham abhyajayan | ai. brā. [3-30] | ity-ādi vyākhyānaṃ vispaṣṭam || vahnayaḥ | nid ity anuvṛttau vahi-śrī-ty-ādinā ni-pratyayaḥ | abhajanta | pādāditvād anighātaḥ | sukṛtyayā | vibhāṣā kṛvṛṣoḥ | pā. [3-1-120] | iti kṛñaḥ karmaṇi kyap | hrasvasya piti kṛti tuk | śobhanaṃ kṛtyaṃ yasyāṃ bhajana-kriyāyāṃ sā sukṛtyā | bahuvrīhau pūrvapada-prakṛti-svaratvaṃ bādhitaṃ nañ-subhyām ity-uttarapadāntodāttatvaṃ | … kṛñaḥ śaś ca | pā. [3-3-100] | iti striyāṃ bhāve kyap-pratyayāntaḥ kṛtyā-śabdaḥ | … bhāgam | karṣātvataḥ | pā. [6-1-159] |ity antodāttaḥ | yajñiyam | yajñam arhatīty arthe yajña-ṛtvigbhyāṃ gha-khañau | pā. [5-1-71] | iti ghaḥ | tasya iyādeśaḥ | pratyaya-svaraḥ ||8||*
+> *vahnayaścamasādisādhananiṣpādanena yajñasya voḍhāra ṛbhavo 'dhārayanta | pūrvaṃ manuṣyatvena maraṇayogyā apyamṛtatvalābhena prāṇāndhāritavantaḥ | tathā ca mantrāntaramāmnāyate | martāsaḥ santo amṛtatvamānaśuḥ | ṛgve. 1-110-4 | iti | kiṃcaite sukṛtyayā yajñasādhanadravyasaṃpādanarūpeṇa śobhanavyāpāreṇa deveṣu madhye sthitā yajñiyaṃ yajñārhaṃ bhāgaṃ havirlakṣaṇamabhajanta | sevitavantaḥ | ayamarthaḥ saudhanvanā yajñiyaṃ bhāgamānaśa | ṛgve. 3-60-1 | ityādimantrāntare vispaṣṭaḥ | brāhmaṇe 'pyṛbhavo vai deveṣu tapasā somapīthamabhyajayan | ai. brā. 3-30 | ityādyupākhyānaṃ vispaṣṭam || vahnayaḥ | nidityanuvṛttau vahiśrītyādinā nipratyayaḥ | abhajanta | pādāditvādanighātaḥ | sukṛtyayā | vibhāṣā kṛvṛṣoḥ | pā. 3-1-120 | iti kṛñaḥ karmaṇi kyap | śobhanaṃ kṛtyaṃ yasyā bhajanakriyāyāḥ sā sukṛtyā | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ bādhitvā nañsubhyāmityuttarapadāntodāttatvam | nanu kṛtyaśabde kyapaḥ pittvenānudāttatvāddhātusvareṇādirudāttaḥ | tataścādyudāttaṃ dvyacchandasītyanenādyudāttatvena bhavitavyam | tena hi purastādapavādena paramapi nañsubhyāmityuttarapadāntodāttatvaṃ bādhyata ityuktam | evaṃ tarhi kṛñaḥ śa ca | pā. 3-3-100 | iti striyāṃ bhāve kyappratyayāntaḥ kṛtyāśabdaḥ | kyapaḥ pittve 'pi vyatyayenodāttatvam | prādisamāse kṛduttarapadaprakṛtisvaratvena tadeva śiṣyate | bhāgam | karṣātvataḥ | pā. 6-1-159 | ityantodāttaḥ | yajñiyam | yajñamarhatītyarthe yajñartvigbhyāṃ ghakhañau | pā. 5-1-71 | iti ghaḥ | tasya iyādeśaḥ | pratyayasvaraḥ ||*
 
-**Translation:** "The *vahnayaḥ* — the Ṛbhus, carriers of the sacrifice by their making of the *camasa* and other implements — *adhārayanta*: they sustained [themselves]: though they were formerly men liable to death, by the gain of immortality they kept their lives. So another mantra reads: '*martāsaḥ santo amṛtatvam ānaśuḥ*' — 'being mortals, they attained immortality' (Ṛgveda [1-110-4]). And further, these [Ṛbhus], standing among the gods by their *sukṛtyā* — their lovely work in the form of making the substances used in sacrifice — *abhajanta* — obtained, enjoyed — the *yajñiya bhāga*, the share worthy of the sacrifice, in the form of the oblation. This is plain in other mantras too: '*ayur martyaḥ saudhanvanā yajñiyaṃ bhāgam ānaśa*' (Ṛgveda [3-60-1]) and so on; the Brāhmaṇa also says: 'the Ṛbhus indeed, by austerity, won the right to drink soma among the gods' (Aitareya Brāhmaṇa [3-30])." The grammar, noted briefly: *vahnayaḥ* (the Uṇādi *ni* after *vah*, first-syllable accent); *abhajanta* (not made unaccented, since it begins the *pāda*); *sukṛtyayā* (*kṛ* + *kyap* by P. 3-1-120 *vibhāṣā kṛvṛṣoḥ*, with the *tuk* augment by P. 6-1-71 *hrasvasya piti kṛti tuk*; 'that in which the work of acquiring is lovely'; a bahuvrīhi whose first-member accent is overridden by the end-accent of P. 6-2-172; the feminine *kṛtyā* by P. 3-3-100 *kṛñaḥ śaś ca*); *bhāgam* (end-accent by P. 6-1-159 *karṣātvato ghañ anta udāttaḥ*); *yajñiyam* (*yajña* + *gha* by P. 5-1-71 *yajñartvigbhyāṃ ghakhañau* 'that which deserves the sacrifice'; *gh* → *iya* by P. 7-1-2). *(Grammar, noted briefly; sūtra numerals as read; the Ṛgveda reference [3-60-1] is as I read the small print [?].)*
+**Translation:** "The *vahnis*, the Ṛbhus, bearers of the sacrifice by producing its means such as the *camasa*, *adhārayanta*, held: though formerly, as men, subject to death, by gaining immortality they held their life-breaths. So another mantra declares: 'Being mortals, they reached immortality' (Ṛgveda 1-110-4). And these, *sukṛtyayā*, by the fine activity in the form of producing the materials that are the means of sacrifice, standing among the gods, *abhajanta*, enjoyed the *yajñiya*, sacrifice-worthy, *bhāga*, share in the form of oblation. This sense is plain in other mantras such as 'Sons of Sudhanvan, you reached the sacrificial share' (Ṛgveda 3-60-1). In the Brāhmaṇa too the story is plain: 'The Ṛbhus by austerity won the soma-drinking among the gods' (Ai. Brā. 3-30)." (Grammatical tail: *vahnayaḥ*, the suffix *ni* by *vahiśri…*, with *nit* carried on; *abhajanta*, not lowered at the start of the *pāda*; *sukṛtyayā*, *kyap* in the object sense after *kṛñ* by *vibhāṣā kṛvṛṣoḥ* (Pā. 3-1-120); "the act of enjoying whose deed is fine" is *sukṛtyā*; in the *bahuvrīhi*, overriding the first member's accent, final udātta of the final member by *nañsubhyām*. An objection: in *kṛtya*, *kyap* being unaccented as *pit*, the first is udātta by the root accent; then by *ādyudāttaṃ dvyac chandasi* initial udātta should come, for it was said that an exception placed before overrides the later *nañsubhyām*. Then let *kṛtyā* be a *kyap*-final in the feminine in the sense of the action by *kṛñaḥ śa ca* (Pā. 3-3-100), the *kyap* udātta by exchange though *pit*; in the *prādi* compound that alone stays by the accent of the *kṛt* final member; *bhāgam*, final udātta by *karṣātvataḥ* (Pā. 6-1-159); *yajñiyam*, *gha* in the sense "worthy of sacrifice" by *yajñartvigbhyāṃ ghakhañau* (Pā. 5-1-71), *iy* for it, the suffix accent.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 39)*
+### Page 39 — Rik 8: word-meanings, overall sense, English, Special Topics
 
-**वह्नयः (vahnayaḥ)** — these Ṛbhus, who make implements like the *camasa* and so carry the sacrifice through | **अधारयन्त (adhārayanta)** — [obtained immortality] sustained themselves | **सुकृत्यया (sukṛtyayā)** — by good work | **देवेषु (deveṣu)** — among the gods | **यज्ञियम् (yajñiyam)** — belonging to the sacrifice | **भागम् (bhāgam)** — the share of the oblation | **अभजन्त (abhajanta)** — obtained.
+**॥ Prati-padārthaḥ ॥**
+
+**वह्नयः (vahnayaḥ)** — these Ṛbhus, who carry out the sacrifice by making its means such as the *camasa* | **अधारयन्त (adhārayanta)** — (attained immortality) | **सुकृत्यया (sukṛtyayā)** — by good work | **देवेषु (deveṣu)** — among the gods | **यज्ञियम् (yajñiyam)** — connected with the sacrifice | **भागम् (bhāgam)** — the share of the oblation too | **अभजन्त (abhajanta)** — obtained.
 
 **॥ Bhāvārthaḥ ॥**
 
-These Ṛbhus, having made the implements of sacrifice and so been helpers of the sacrificial work, obtained immortality. By doing works proper to a sacrifice they obtained, along with the gods, a share of the oblation.
+These Ṛbhus made the means of sacrifice and through that became helpers in the performance of sacrifice, and attained immortality. By doing good works connected with the sacrifice they obtained a share of the oblation together with the gods.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Ribhus by their skill in fashioning sacrificial utensils and their pious acts lived for ever or became immortal ; they even obtained a share of the sacrifice along with the Gods.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 39–40)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-These Ṛbhus, by the skill of their craft, made the implements — the *camasa* and so on — that are needed for the sacrifice. In a single year they performed all the sacrifices and became worthy of the gods' grace. By such good works the Ṛbhus became able always to sustain their lives; they attained *amṛtatva* like the gods (freedom from death); and like the gods themselves they won the right to receive the share of the sacrifice — that is, the oblation offered to the gods in the sacrifice.
+These Ṛbhus, by their skill in craft, made the means such as the *camasa* necessarily needed for sacrifice. In a single year they performed all the sacrifices and became worthy of the grace of the gods. By such good works these Ṛbhus became able to hold their life-breaths for ever. Like the gods, they attained immortality (freedom from death). And like the gods they too obtained the fitness to receive the share of the sacrifice, that is, the oblation offered to the gods in the sacrifice.
 
-**अधारयन्त (adhārayanta)** — the meaning of this word is "they sustained" — sustained what? They sustained their lives; or, as the commentator explains, they obtained immortality. Although in this rik there are no words which explain the sense "obtained immortality", since in many riks it is said that the Ṛbhus, formerly men, obtained divinity by their good works, it seems proper that the commentator here too has taken that same idea and explained the word *adhārayanta* as above. On this the rik
+**Adhārayanta**: the sense of this word is "they held". Held what? They held their life-breaths. Or the commentator explains the sense as "they attained immortality". Though in this ṛk there are no words expressing the sense "they attained immortality", since it is said in many ṛks that these Ṛbhus, being men, attained divinity by their good works, it seems right that the commentator, taking that very intent here, has explained the word *adhārayanta* as said above. On this matter the ṛk
 
-> विष्टी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ॥ (ऋ. सं. [१-११०-४])
-> *viṣṭī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvam ānaśuḥ || (ṛ. saṃ. [1-110-4])*
+> विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ॥ (ऋ. सं. १-११०-४)
+>
+> *viṣṭvī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvamānaśuḥ || (ṛ. saṃ. 1-110-4)*
 
-states this sense plainly.
+("Having done the acts, the bearers, though mortals, by swiftness attained immortality": mine and tentative.) states this intent clearly.
 
-**वह्नयः (vahnayaḥ)** — *camasādi-sādhana-niṣpādanena yajñasya voḍhāraḥ ṛbhavaḥ*: because they made implements such as the *camasa* and so helped the sacrifice, these Ṛbhus are *vahnayaḥ* — *voḍhāraḥ*, "those who carry through the sacrificial work".
+### Page 40 — Rik 8: Special Topics (end) and grammar
 
-**यज्ञियम् (yajñiyam)** — *yajñārhaṃ bhāgam*: the share of *havis* offered to the gods in the sacrifice. Those who are to receive a share fit for the sacrifice must have honour and position among the gods; the Ṛbhus gained such honour. This matter is also supported in the rik
+**Vahnayaḥ**:
+
+> चमसादिसाधननिष्पादनेन यज्ञस्य वोढार ऋभवः ॥
+>
+> *camasādisādhananiṣpādanena yajñasya voḍhāra ṛbhavaḥ ||*
+
+("The Ṛbhus, bearers of the sacrifice by producing its means such as the *camasa*.") Because they make the means of sacrifice such as the *camasa* and so become helpers of the sacrifice, these Ṛbhus are called *vahnayaḥ* or *voḍhāraḥ*, that is, those who carry out the rite of sacrifice.
+
+**Yajñiyam**:
+
+> यज्ञार्हं भागम् ॥
+>
+> *yajñārhaṃ bhāgam ||*
+
+("The share worthy of the sacrifice.") The share of oblation offered to the gods in the sacrifice. To obtain a share worthy of the sacrifice one must have the standing the gods have. The intent is that the Ṛbhus obtained such honour. This matter is supported in the ṛk
 
 > इहेह वो मनसा बन्धुता नर उशिजो जग्मुरभि तानि वेदसा ।
-> याभिर्मायाभिः प्रतिजूतिवर्पसः सौधन्वना यज्ञियं भागमानश ॥ (ऋ. सं. [३-६०-१])
-> *iheha vo manasā bandhutā nara uśijo jagmur abhi tāni vedasā |*
-> *yābhir māyābhiḥ pratijūtivarpasaḥ saudhanvanā yajñiyaṃ bhāgam ānaśa || (ṛ. saṃ. [3-60-1])*
+> याभिर्मायाभिः प्रतिजूतिवर्पसः सौधन्वना यज्ञियं भागमानश ॥ (ऋ. सं. ३-६०-१)
+>
+> *iheha vo manasā bandhutā nara uśijo jagmurabhi tāni vedasā |*
+> *yābhirmāyābhiḥ pratijūtivarpasaḥ saudhanvanā yajñiyaṃ bhāgamānaśa || (ṛ. saṃ. 3-60-1)*
 
-*(Read from the Kannada print; the reference numerals are as I read them, marked [?].)* and in the sentence of the Aitareya Brāhmaṇa *brāhmaṇe 'py ṛbhavo vai deveṣu tapasā somapītham abhyajayan* (Ai. Brā. [3-30]) ["the Ṛbhus won, by austerity, the soma-drinking among the gods"].
+("Here, here, O men, with your mind and kinship, the eager ones went to those things with knowledge; by the wonders with which, swift of form, sons of Sudhanvan, you reached the sacrificial share": mine and tentative.) and in the Aitareya Brāhmaṇa statement
 
-**Grammar pages (pp. 40 lower half–43 upper), noted briefly.** The Kannada treats: *vahnayaḥ* (*vahi-śri-śru-yu-dru-gnā-tvaribhyo niḥ* Uṇ. 4-[?], with *nit* carried over from the preceding sūtra [*vījyājariviś-… ṇiḥ*; the print shows two versions of the Uṇādi sūtra]; *vah* + *ni*; the sūtra's *nit* is a doubtful word, which, according to the Kannada, is a slip of the printers of *Ṛg. Saṃ.* 3-[?]; the suffix has *n* so first-syllable accent by P. 6-1-197), *abhajanta* (at the start of the *pāda*, hence P. 8-1-18 bars the loss of accent, and P. 8-1-28 *tiṅ atiṅaḥ* does not apply), *sukṛtyayā* (*vibhāṣā kṛvṛṣoḥ* P. 3-1-120 — *kyap* after *kṛ* and *vṛṣ* in the object-sense, optionally; *kṛ* + *ya*; *hrasvasya piti kṛti tuk* P. 6-1-71: *kṛ-t-ya* → *kṛtya*; *kyap* has *k* and *p*, so no guṇa [*kṅiti ca* P. 1-1-5]; *su* + *kṛtyā* — the bahuvrīhi *śobhanaṃ kṛtyaṃ yasyāṃ bhajanakriyāyāṃ sā*; first-member accent by P. 6-2-1 would make *su* [accented on the first syllable by the Phiṭ rule *upasargāś cābhivarjam*] the only accented part; but *nañsubhyām* P. 6-2-172 gives the final member's end accent, which overrides it; the Kannada raises a doubt: *kyap* is *pit*, so the *a* is unaccented [*anudāttau suppitau*], and the root *kṛ* is accented on the *ṛ* by *dhātoḥ* P. 6-1-162, so *kṛtya* has the accent on *kṛ*, giving the first-syllable accent; in the bahuvrīhi [by P. 6-2-119 *ādyudāttaṃ dvyac chandasi*, 'a two-syllable word in the Veda takes first-syllable accent'] the final-member *kṛtyā* must be first-syllable accented; and though *nañsubhyām* is read in the sixth chapter, after *ādyudāttaṃ dvyac*, by *vipratiṣedhe paraṃ kāryam* *nañsubhyām* [which comes after] would win; but since *ādyudāttaṃ dvyac chandasi* is an exception to *nañsubhyām*, and a rule that applies in the case where the other is not yet applied [*yena nāprāpte yo vidhir ārabhyate sa tasya bādhako bhavati*] is the stronger, the accent of *kṛtyā* stands first-syllable; the second sūtra *kṛñaḥ śaś ca* P. 3-3-100 gives the feminine *śa* and *kyap* after *kṛñ* in the abstract sense [the *ca* takes in *kyap*]; hence *kṛtyā*, *kriyā*, *kṛtiḥ* — the Kannada notes that *kṛtiḥ* is not obtained by this sūtra but by *striyāṃ ktin* P. 3-3-94; *ṭāp* by *ajādyataṣ ṭāp* P. 4-1-4, with *savarṇadīrgha*; the instrumental *ṭā* → *ā* with *āṅ*; *ājjasor…* P. 7-3-105 *āṇ nadyāḥ*… [as read, *āṅo 'nāpaḥ*? — the print gives *ājjasor* …]: *ā* → *ay*… giving *sukṛtyayā*; the ending accented as *svarita* by P. 8-4-66), *bhāgam* (*bhaj sevāyām*; *halaś ca* P. 3-3-121 *ghañ*; *coḥ kuḥ* P. 7-3-52 *kutva*; *ata upadhāyāḥ* P. 7-2-116 *vṛddhi*; the accent by *ñnityādir nityam* would be first-syllable, but *karṣātvato ghañ anta udāttaḥ* P. 6-1-159 gives end accent; hence *bhāgam* is end-accented), and *yajñiyam* (*yajñam arhati*; *yajña-ṛtvigbhyāṃ ghakhañau* P. 5-1-71: *gha* after *yajña*, *khañ* after *ṛtvij*; *yajña* + *gha*; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* P. 7-1-2 gives *iya* for *gha*; *yasyeti ca* P. 6-4-148; suffix accent: *yajñiyam*). ॥8॥ *(A crowded run; outline only; sūtra numerals as read from small print; pointers only.)*
+> ब्राह्मणेऽप्यृभवो वै देवेषु तपसा सोमपीथमभ्यजयन् (ऐ. ब्रा. ३-३०)
+>
+> *brāhmaṇe 'pyṛbhavo vai deveṣu tapasā somapīthamabhyajayan (ai. brā. 3-30)*
 
-**Close of Sūkta 20.** The sūkta ends at the head of p. 43, with the last line of the Rik 8 grammar; no large colophon is printed. The twenty-first sūkta begins on the same page.
+("The Ṛbhus by austerity won the soma-drinking among the gods.")
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 40–43, noted briefly)*
+
+**वह्नयः (*vahnayaḥ*)**: "vahiśriśruyudruglāhātvaribhyo nit" (Uṇ. sū. "4-51" [?]); here *niḥ* is carried on from "vījyājvaribhyo niḥ" (Uṇ. sū. "4-48" [?]). So the sense of the sūtra is that after the roots *vaha prāpaṇe* and the rest the suffix *ni* comes, and it is *nit*; the same explanation is in the Bhāṣya at (Ṛ. saṃ. 3, ṛ. 9). The word *nit* is not seen in the preceding Uṇādi sūtras. So "*nid ity anuvṛttau*" here has come through an oversight of the correctors. When the suffix *ni* comes after the root *vah*, *vahni* results. The suffix being *nit*, the *nit* accent gives initial udātta.
+
+**अभजन्त (*abhajanta*)**: this stands at the start of a *pāda*; so by "anudāttaṃ sarvam apādādau" the bar comes. Therefore it is not wholly unaccented by "tiṅṅatiṅaḥ".
+
+**सुकृत्यया (*sukṛtyayā*)**: by "vibhāṣā kṛvṛṣoḥ" (Pā. sū. 3-1-120) the suffix *kyap* comes after the roots *kṛ* and *vṛṣ*; so the suffix *kyap* [as printed: "*tyap*"] in the object sense comes after the root *kṛ*: *kṛ* + *ya*. By "hrasvasya piti kṛti tuk" (Pā. sū. 6-1-71), when a *kṛt* suffix with *p* as *it* follows, a short-final *aṅga* takes the augment *tuk*; so the augment *tuk*; the suffix being *kit*, *guṇa* is barred: *kṛtya*. *Śobhanaṃ*, good, *kṛtyam*, the work; *yasyāḥ*, the act of enjoying that has it is called *sukṛtyā*. So this is a *bahuvrīhi* compound.
+
+### Page 41 — Rik 8: grammar
+
+So by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1), in a *bahuvrīhi* compound the first member keeps its own accent: the first-member accent is due. The first member *su* is udātta by "upasargāś cābhivarjam" (Phi. sū. 81); so, if the first-member accent came, *su* would be initial udātta and the rest would have to be unaccented by the lowering of the remainder. But "nañsubhyām" (Pā. sū. 6-2-172), the final udātta of the final member enjoined after *nañ* and *su* in a *bahuvrīhi*, overrides the first-member accent enjoined by *bahuvrīhau*. So in *sukṛtya* the last letter is udātta and the rest take the lowering of the remainder. But here there is a question. The suffix *kyap* is *pit*; so by "anudāttau suppitau" (Pā. sū. 3-1-4) it is unaccented. And in *kṛtya*, by the initial-udātta accent of "dhātoḥ" (Pā. sū. 6-1-162), *kṛ* is udātta; thus *kṛtya* is initial udātta; then by "ādyudāttaṃ dvyac chandasi" (Pā. sū. 6-2-119), in a *bahuvrīhi* compound a two-vowel word after *su* that is initial udātta keeps the initial udātta in the Veda; since that is enjoined, by this sūtra the final member *kṛtya* would have to be initial udātta. Though the rule *nañsubhyām* is read later in the Aṣṭādhyāyī than the rule *ādyudāttaṃ dvyac*, *nañsubhyām* does not apply by *vipratiṣedhe paraṃ kāryam* (Pā. sū. 1-4-2). For *ādyudāttaṃ dvyac*, though read earlier, is the exception to *nañsubhyām*. That is, in an instance where *nañsubhyām* does not apply, *ādyudāttaṃ dvyac* does not apply either; so, since the definition of conflict,
+
+> अन्यत्र चरितार्थयोः शास्त्रयोरेकत्र युगपत्समावेशो विप्रतिषेधः
+>
+> *anyatra caritārthayoḥ śāstrayorekatra yugapatsamāveśo vipratiṣedhaḥ*
+
+("Conflict is the meeting at once, in one place, of two rules each with its own scope elsewhere"), is absent, *vipratiṣedhe param* does not apply. By
+
+> येन नाप्राप्ते यो विधिरारभ्यते स तस्य बाधको भवति
+>
+> *yena nāprāpte yo vidhirārabhyate sa tasya bādhako bhavati*
+
+("A rule begun where another would necessarily apply overrides it", *paribhāṣā* "58" [?]), it seems natural that *ādyudāttaṃ dvyac* alone should apply. On that view, in "kṛñaḥ śa ca" (Pā. sū. 3-3-100), *śa* is a word ending in the first case with the ending dropped; the sense of the sūtra comes out that after the root *kṛñ*, in the sense of the action and so on, the suffix *śa* comes, and by the *ca* the suffix *kyap*. On this view the two forms *kṛtyā* and *kriyā* are established, but *kṛtiḥ* is not. For "striyāṃ ktin" (Pā. sū. 3-3-94), which enjoins the suffix *ktin*, is in the feminine section. So, since there is the bar *astriyām*, it does not come here that by "vāsarūpo 'striyām" (Pā. sū. 3-1-94) in the section "dhātoḥ" (Pā. sū. 3-1-91), an exception suffix of different form, enjoined other than in the feminine section, optionally overrides the general rule; for here both the general rule "striyāṃ ktin" (Pā. sū. 3-3-94) and the exception "kṛñaḥ śa ca" are
+
+### Page 42 — Rik 8: grammar
+
+in the feminine section; so, since the bar *astriyām* comes, the exception does not override optionally; then the very form *kṛtiḥ* would be lacking. So the rule "kṛñaḥ śa ca" is divided into two, "kṛñaḥ" and "śa ca": the sense of the first is that in the feminine the suffix *kyap* comes after the root *kṛñ* in the sense of the action and so on. By this *kṛtyā* is established. For "śa ca" the sense is that in the feminine, after the root *kṛñ*, in the sense of the action and so on, the suffix *śa*, and by the *ca* the suffix *ktin*, come; since *kyap* is established from the previous part, the *ca* does not add *kyap* but adds *ktin*; thus the forms *kriyā* and *kṛtiḥ* are established. In the present case, by the divided first sūtra "kṛñaḥ", *kyap* comes in the sense of the action; thus *kṛtyā* is final udātta; *śobhanā ca sā kṛtyā ca*: if the *prādi* compound is made by "kugatiprādayaḥ" (Pā. sū. 2-2-18), the accent of the *kṛt* final member comes by "gatikārakopapadāt kṛt"; so in *sukṛtya* this same accent stays. Since the feminine is shown, by "ajādyataṣ ṭāp" (Pā. sū. 4-1-4) *ṭāp*: *sukṛtya* + *ā*; *ṭāp*, being *pit*, is unaccented; with the preceding *a* the lengthening of like vowels; by "ekādeśa udāttenodāttaḥ" the single substitute is udātta. For the instrumental singular *ṭā* that follows, by "anudāttau suppitau" it is unaccented. With *sukṛtya* + *ā*, by "āṅi cāpaḥ" (Pā. sū. 7-3-105), before *āṅ* (the instrumental singular) and *os*, an *aṅga* ending in *āp* takes the substitute *e*; so in *sukṛtya* the *a* takes *e*, then *ay*; by "udāttād anudāttasya" the ending becomes svarita: *sukṛtyayā*.
+
+**भागम् (*bhāgam*)**: the root *bhaja sevāyām*. By "halaś ca" (Pā. sū. 3-3-121), after a consonant-final root the suffix *ghañ* comes: *ghañ*. By "cajoḥ ku ghiṇṇyatoḥ" (Pā. sū. 7-3-52), when a suffix with *gh* as *it* or the suffix *ṇyat* follows, *c* and *j* take the guttural: so *g* for the *j*; by "ata upadhāyāḥ" (Pā. sū. 7-2-116) the penultimate *vṛddhi*: *bhāga*. Now initial udātta would be due by "ñnityādir nityam" (Pā. sū. 6-1-197); its exception, "karṣātvato ghaño 'nta udāttaḥ" (Pā. sū. 6-1-159): after the root *karṣ* and roots having *ā*, the end of the word ending in the *ghañ* suffix is udātta; so *bhāga* is final udātta.
+
+**यज्ञियम् (*yajñiyam*)**: the analysis is *yajñam arhati*. By "yajñartvigbhyāṃ ghakhañau" (Pā. sū. 5-1-71), after the accusative-final words *yajña* and *ṛtvij*, in the sense "*arhati*", the suffixes
+
+### Page 43 (upper) — Rik 8: grammar (end)
+
+*gha* and *khañ* come respectively; so the suffix *gha* after *yajñam*; the *sup* that is part of the stem takes *luk*. By "āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām" (Pā. sū. 7-1-2) *iy* for *gh*; by "yasyeti ca" (Pā. sū. 6-4-148) the *a* before the suffix drops: *yajñiya*. The suffix accent comes; *yajñiyam* ends in the accusative singular.
+
+**॥८॥**
+
+*(Sūkta 20 ends here; p. 43 continues with the title of the Twenty-first Sūkta.)*
+
+---
 
 ## ॥ ಇಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 21 — *"ihendrāgnī upa hvaye"* ("The Twenty-first Sūkta"; to Indra and Agni; fourth sūkta of the Fifth Anuvāka)
 
