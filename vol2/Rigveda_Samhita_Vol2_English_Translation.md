@@ -4605,7 +4605,7 @@ The intention of this Ṛk is not plain. The Bhāṣyakāra has taken pains to g
 
 ### Page 198 — Rik 5.10: Pada, Sāyaṇa-bhāṣya, grammar (characterized), Pada-meanings (opening)
 
-*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 5." Sanskrit printed in Kannada script; read from enlarged slices; [?] where unclear.)*
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 5." Sanskrit printed in Kannada script; re-read from the better scan.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6195,7 +6195,7 @@ O Indra! You are the one who fulfils all our desires. For that very reason, make
 - **अप (*apa*)** — a nipāta (particle), initial-udātta (फि. सू. ८०); lengthened in the mantra by **निपातस्य च** (पा. सू. ६-३-१३६) to *apā*.
 - **वृधि (*vṛdhi*)** — "vṛñ varaṇe," "loṭ," second singular "sip," "hi" by **सेर्ह्यपिच्च** (पा. सू. ३-४-८७); **स्वादिभ्यः श्नुः** (पा. सू. ३-१-७३), whose "śnu" is sometimes elided by "bahula" in **बहुलं छन्दसि** (पा. सू. २-४-७३); **श्रुशृणुपृकृवृभ्यश्छन्दसि** (पा. सू. ६-४-१०२) "dhi" for "hi"; "hi" being "apit" is "ṅit" by **सार्वधातुकमपित्** (पा. सू. १-२-४), so **क्ङिति च** (पा. सू. १-१-५) blocks the guṇa of **सार्वधातुकार्धधातुकयोः** (पा. सू. ७-३-८४); unaccented by **तिङ्ङतिङः** (printed "१८-१-२८," i.e. 8-1-28).
 - **अस्मभ्यम् (*asmabhyam*)** — the dative plural "bhyas" becomes "bhyam" by **भ्यसो भ्यम्** (पा. सू. ७-१-३०); **शेषे लोपः** (पा. सू. ७-२-९०), with "vibhaktau" carried from **अष्टन आ विभक्तौ** (पा. सू. ७-२-८४), drops the final "d" before an ending that conditions neither "ā" nor "y": "asma + bhyam"; **बहुवचने झल्येत्** (पा. सू. ७-३-१०३) would give "e," but by **अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्य** (पा. म. ७-१-३०) once one aṅga-rule ("śeṣe lopaḥ") has applied and the form is settled, another aṅga-rule does not apply; so too no lengthening by **सुपि च** (पा. सू. ७-३-१०२). In "asma," "sma" is acute by **फिषोऽन्त उदात्तः** (फि. सू. १), "bhyam" unaccented by **अनुदात्तौ सुप्पितौ** ("३-१-४") and svarita by "udāttād anudāttasya svaritaḥ," the first "a" unaccented by śeṣanighāta. Or, dividing **भ्यसोऽभ्यम्** (पा. सू. ७-१-३०) as "abhyam": "asmad + abhyam," "śeṣe lopaḥ" drops the "ad" after "ma" (the locative "śeṣe" standing for the substituend): "asm + abhyam," with no "e" or lengthening; since the acute "a" of "asmad" is lost before the unaccented "a," **अनुदात्तस्य च यत्रोदात्तलोपः** (पा. सू. ६-१-१६१) makes that unaccented vowel acute…
-- **अप्रतिष्कुतः (*apratiṣkutaḥ*)** — "not answered back by anyone"; root *ku śabde* + *kta* with *prati* placed before, and the *suṭ* augment (Pā. 6-1-135 [?], "pāraskara-prabhṛtīni ca saṃjñāyām"); *s→ṣ* by "suṣāmādiṣu ca" (Pā. 8-3-98); *naṅ*-compound; accent of the first member by "tatpuruṣe tulyārtha…" (Pā. 6-2-2).
+- **अप्रतिष्कुतः (*apratiṣkutaḥ*)** — see p. 283 above (Rik 6 grammar concluded there).
 
 ### Page 282, 283
 
@@ -6262,7 +6262,7 @@ However excellent the hymns we make to the other deities, who bestow many fruits
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Whatever praise-hymns are excellent for rewarding (other deity) I cannot find (even with these hymns) a hymn good enough to Lord Indra, the weilder of thunderbolt.
+> Whatever praise-hymns are excellent for rewarding (other deity) I cannot find (even with these hymns) a hymn good enough to Lard [sic] Indra, the weilder [sic] of thunderbolt.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
@@ -6274,7 +6274,7 @@ However excellent the hymns we make to the other deities, who bestow many fruits
 
 That is, the word *tuñja* means giving, bestowing. The word *tuñje-tuñje* in this rik means "in regard to the deity who gives fruits." Since the word *tuñje* is printed twice, it means "in regard to every deity" — that is, all the deities. However excellent the hymns used for other deities (other than Indra), they are not enough for Indra; more are needed. As one says, "enough of this praise of Indra; it has come to its end," — however much one praises, the qualities of Indra remain more; there is no end to them.
 
-**"Uttare"** — this word has two separate parts, *ut* + *tare*. The Bhāṣyakāra explains it thus: *uttare — tvaplavana-taraṇayoḥ* (the root *tṝ*, "to cross/swim") — *bhāve khudoror ap* (Pā. 3-3-57 [?]) — *ut* means "excellent"; *utkṛṣṭas taro yasya* — a bahuvrīhi: "one whose crossing is excellent." The word *tara* is formed from the root *tṝ*. *Ut* means "excellent." Hence the word *ut-tara* = *uttara* means "more excellent."
+**"Uttare"** — this word has two separate parts, *ut* + *tare*. The Bhāṣyakāra explains it thus: *uttare — tvaplavana-taraṇayoḥ* (the root *tṝ*, "to cross/swim") — *bhāve ṛdor ap* (Pā. 3-3-57) — *ut* means "excellent"; *utkṛṣṭas taro yasya* — a bahuvrīhi: "one whose crossing is excellent." The word *tara* is formed from the root *tṝ*. *Ut* means "excellent." Hence the word *ut-tara* = *uttara* means "more excellent."
 
 **"Suṣṭutim" or "Sustutim"** — *stūyate 'nayeti stutiḥ* — "that by which one praises is a *stuti*." By the word *su* the *instrument* is qualified, not the meaning of the root. **Or:** *suṣṭhu stuvantīti suṣṭutayaḥ* — "the ṛks that are the instruments are called by the word *stuti*." That is, *stuti* is the name for praising; *suṣṭuti* means "praising well," or, because the ṛks praise well, such mantras or ṛks are customarily called *stuti*.
 
