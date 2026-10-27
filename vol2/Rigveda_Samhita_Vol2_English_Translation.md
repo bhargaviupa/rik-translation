@@ -5913,17 +5913,17 @@ Some Western scholars have rendered this word **"horses which harness themselves
 > *indraḥ | dīrghāya | cakṣase | ā | sūryam | rohayat | divi ||*
 > *vi | gobhiḥ | adrim | airayat ||3||*
 
-*(The pada-pāṭha's first word after* indraḥ *is read here as* dīrghāya*, matching the bhāṣya and the saṃhitā; the final letter in the printed pada line is not fully clear in the scan.)*
+*(Pada as printed on p. 269, re-read from the better scan.)*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> अयमिन्द्रो दीर्घाय प्रौढाय निरन्तराय चक्षसे दर्शनाय दिवि द्युलोके सूर्यमा रोहयत् । पुरा वृत्रासुरेण जगति यदाप्रातं तमस्तन्निवारणेन प्राणिनां वृष्टिसिद्ध्यर्थमादित्यं द्युलोके स्थापितवानित्यर्थः । स च सूर्यो गोभिः स्वकीयै रश्मिभिरद्रिं पर्वतप्रमुखं सर्वं जगद्व्यैरयत् । विशेषेण दर्शनार्थं प्रेरितवान् । प्रकाशितवानित्यर्थः । अथवा इन्द्र एव गोभिर्जलैर्वृष्टिनिमित्तभूतैरद्रिं मेघं व्यैरयत् । विशेषेण प्रेरितवान् । पञ्चदशसंख्याकेषु रश्मिनामसु खेदयः [?] किरणा गाव इति पठितम् । त्रिंशत्संख्याकेषु मेघनामस्वद्रिग्रावेति पठितम् ॥
+> अयमिन्द्रो दीर्घाय प्रौढाय निरन्तराय चक्षसे दर्शनाय दिवि द्युलोके सूर्यमा रोहयत् । पुरा वृत्रासुरेण जगति यदाप्रातं तमस्तन्निवारणेन प्राणिनां वृष्टिसिद्ध्यर्थमादित्यं द्युलोके स्थापितवानित्यर्थः । स च सूर्यो गोभिः स्वकीयै रश्मिभिरद्रिं पर्वतप्रमुखं सर्वं जगद्व्यैरयत् । विशेषेण दर्शनार्थं प्रेरितवान् । प्रकाशितवानित्यर्थः । अथवा इन्द्र एव गोभिर्जलैर्वृष्टिनिमित्तभूतैरद्रिं मेघं व्यैरयत् । विशेषेण प्रेरितवान् । पञ्चदशसंख्याकेषु रश्मिनामसु खेदयः किरणा गाव इति पठितम् । त्रिंशत्संख्याकेषु मेघनामस्वद्रिग्रावेति पठितम् ॥
 >
-> *ayam indro dīrghāya prauḍhāya nirantarāya cakṣase darśanāya divi dyuloke sūryam ā rohayat | purā vṛtrāsureṇa jagati yad āprātaṃ tamas tan-nivāraṇena prāṇināṃ vṛṣṭi-siddhy-artham ādityaṃ dyuloke sthāpitavān ity arthaḥ | sa ca sūryo gobhiḥ svakīyai raśmibhir adriṃ parvata-pramukhaṃ sarvaṃ jagad vyairayat | viśeṣeṇa darśanārthaṃ preritavān | prakāśitavān ity arthaḥ | athavā indra eva gobhir jalair vṛṣṭi-nimitta-bhūtair adriṃ megham vyairayat | viśeṣeṇa preritavān | pañcadaśa-saṃkhyākeṣu raśmi-nāmasu khedayaḥ [?] kiraṇā gāva iti paṭhitam | triṃśat-saṃkhyākeṣu megha-nāmasv adri-grāvety paṭhitam ||*
+> *ayam indro dīrghāya prauḍhāya nirantarāya cakṣase darśanāya divi dyuloke sūryam ā rohayat | purā vṛtrāsureṇa jagati yad āprātaṃ tamas tan-nivāraṇena prāṇināṃ vṛṣṭi-siddhy-artham ādityaṃ dyuloke sthāpitavān ity arthaḥ | sa ca sūryo gobhiḥ svakīyai raśmibhir adriṃ parvata-pramukhaṃ sarvaṃ jagad vyairayat | viśeṣeṇa darśanārthaṃ preritavān | prakāśitavān ity arthaḥ | athavā indra eva gobhir jalair vṛṣṭi-nimitta-bhūtair adriṃ megham vyairayat | viśeṣeṇa preritavān | pañcadaśa-saṃkhyākeṣu raśmi-nāmasu khedayaḥ kiraṇā gāva iti paṭhitam | triṃśat-saṃkhyākeṣu megha-nāmasv adri-grāvety paṭhitam ||*
 
-**Translation:** "This Indra caused the sun to ascend in heaven, the world of light, **for long (*dīrghāya*) — for vast, uninterrupted — seeing (*cakṣase*)**; that is: formerly, when darkness had enveloped the world by the demon Vṛtra, Indra, to remove that darkness and to bring about rain for living beings, established the sun in the heavenly world. And that sun, with his own rays (*gobhiḥ*), set in motion (*vyairayat*) all the world headed by the mountain (*adri*) — especially, *sent out* [his light] for sight; that is, illuminated it. **Or else:** Indra himself, with the waters (*gobhiḥ*) that serve as the cause of rain, set the *adri* — the cloud — in motion in particular. Among the fifteen names for 'ray' — *kiraṇāḥ* and *gāvaḥ* [and the others] are listed [the first word of the Nighaṇṭu list, read here as *khedayaḥ*, is uncertain in the scan]. Among the thirty names for 'cloud' — *adri* and *grāvā* are listed."
+**Translation:** "This Indra caused the sun to ascend in heaven, the world of light, **for long (*dīrghāya*) — for vast, uninterrupted — seeing (*cakṣase*)**; that is: formerly, when darkness had enveloped the world by the demon Vṛtra, Indra, to remove that darkness and to bring about rain for living beings, established the sun in the heavenly world. And that sun, with his own rays (*gobhiḥ*), set in motion (*vyairayat*) all the world headed by the mountain (*adri*) — especially, *sent out* [his light] for sight; that is, illuminated it. **Or else:** Indra himself, with the waters (*gobhiḥ*) that serve as the cause of rain, set the *adri* — the cloud — in motion in particular. Among the fifteen names for 'ray' *khedayaḥ*, *kiraṇāḥ* and *gāvaḥ* are listed. Among the thirty names for 'cloud' — *adri* and *grāvā* are listed."
 
-*(The remaining Sanskrit on this page — grammar of* दीर्घाय*,* चक्षसे*,* सूर्यम्*,* रोहयत्*,* दिवि*,* अद्रिम्*,* ऐरयत्*, i.e., which suffixes and accents —is characterized with the Kannada Vyākaraṇa-prakriyā below.)*
+**Grammar of the Bhāṣya (characterized, references as printed):** "Dīrghāya" — end-acute by the stem accent. "Cakṣase" — **चक्षेः सर्वधातुभ्योऽसुन्** (उ. ४-१८८) "asun"; by the word "bahula" no "khyāñ" substitute; "n"-marked, first-syllable acute. "Sūryam" — "suvati prerayatīti sūryaḥ," "ṣū preraṇe," "dhātvādeḥ ṣaḥ saḥ"; **राजसूयसूर्य…** (पा. ३-१-११४) "kyap" with the augment "ruṭ" by nipātana; "kyap," "k"-marked, so no guṇa, and "p"-marked, so unaccented; the root accent remains. "Rohayat" — "ruh" with "ṇic," "laṅ"; **बहुलं छन्दस्यमाङ्योगेऽपि** (पा. ६-४-७५) no augment "aṭ"; nighāta. "Divi" — the case-ending acute by "ūḍidam…". "Adrim" — **अदिशदिभूशुभिभ्यः क्रिन्** (उ. ४-६५) "krin": "atti patavas tṛṇādikam ity adriḥ"; "n"-marked, first-syllable acute. "Airayat" — "īra gatau" with "ṇic," "laṅ"; nighāta.
 
 ### Page 269 — Rik 3 continued
 
@@ -5957,35 +5957,37 @@ In ancient times the demon Vṛtra made the world a mass of darkness. Indra slew
 
 **"Vi gobhir adrim airayat"** — **The meaning of this sentence is not clear.** The poet may have so described it because, when the sun rises, his rays first fall upon the lofty mountains. The other sense — that Indra impelled the cloud for water, that is, for the work of rain — is also fitting.
 
-**"Gobhiḥ"** — with rays; with water. Among the fifteen words for "ray," beginning with *khedayaḥ* [?], the words **किरणाः** (*kiraṇāḥ*) and **गावः** (*gāvaḥ*) are listed.
+**"Gobhiḥ"** — with rays; with water. Among the fifteen words for "ray," beginning with *khedayaḥ*, the words **किरणाः** (*kiraṇāḥ*) and **गावः** (*gāvaḥ*) are listed.
 
-**"Adrim"** — mountain, cloud. Among the thirty words for "cloud," beginning with *adriḥ grāvā*, the word *adri* is listed. *(Source's Kannada: "adriḥ grāvā ādi" "mūvattu".)*
+**"Adrim"** — mountain, cloud. Among the thirty words for "cloud," beginning with *adriḥ grāvā*, the word *adri* is listed.
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pages 271–272. Characterized, not transcribed. Points of substance:)*
+*(Pages 271–272. Characterized; numbers as printed.)*
 
 - **दीर्घाय (*dīrghāya*)** — by the prātipadika accent, *dīrgha* is final-udātta.
-- **चक्षसे (*cakṣase*)** — from *cakṣiṅ* ("to speak/see") with the *asun* suffix (Uṇ. 4-[?]), which is made *ṇit/ś-ita* so that *cakṣiṅ* gets the substitute *khyā* by Pā. 2-4-54 ("cakṣiṅaḥ khyāñ") — *asun* is declared *sārvadhātuka* rather than *ārdhadhātuka* here, so the substitution does not occur; the suffix-accent is udātta on the first vowel.
-- **सूर्यम् (*sūryam*)** — from *sū* ("to impel") — "he who impels (the world)"; *ṣa→sa* for the initial by Pā. 6-1-64; and the *kyap* suffix by the sūtra *rājasūya-sūrya-mṛṣodya-rucya-kupya-kṛṣṭapacya-avyathyāḥ* (Pā. 3-1-114): these seven words are irregularly formed with *kyap*, and the *rūṭ* augment arises; "or" from the root *sṛ* ("to go") through the sky.
-- **रोहयत् (*rohayat*)** — root *ruh* ("to grow, to appear") with *ṇic*, then *laṅ*-type form with *a*-augment dropped by Vedic license (*"bahulaṃ chandasy amāṅyoge 'pi"*, Pā. 6-4-75).
+- **चक्षसे (*cakṣase*)** — "cakṣiṅ vyaktāyāṃ vāci": "asun" carried from **सर्वधातुभ्योऽसुन्** (उ. सू. ४-६७ [?]) by **चक्षेर्बहुलं शिच्च** (उ. सू. ४-६८ [?]); "asun" is optionally "ś"-marked, so here, being "śit," it is sārvadhātuka by **तिङ्शित्सार्वधातुकम्**, not ārdhadhātuka, and the "khyāñ" of **चक्षिङः ख्याञ्** (पा. सू. २-४-५४) does not come; "n"-marked, so first-syllable acute.
+- **सूर्यम् (*sūryam*)** — from *sū* ("to impel") — "he who impels (the world)"; *ṣa→sa* for the initial by Pā. 6-1-64; and the *kyap* suffix by the sūtra *rājasūya-sūrya-mṛṣodya-rucya-kupya-kṛṣṭapacya-avyathyāḥ* (Pā. 3-1-114): these seven words are formed by nipātana with *kyap*, and in "sūrya" the *ruṭ* augment is by nipātana; or from *sṛ gatau* ("sarati gacchati ākāśe"), with "u" by nipātana, "r" by **उरण् रपरः** (पा. सू. १-१-५१), and the long vowel by **हलि च** (पा. सू. ८-२-७७); on the first view "kyap," "k"-marked, gives no guṇa, and "p"-marked is unaccented by **अनुदात्तौ सुप्पितौ** ("३-१-४"), so the root accent stays.
+- **रोहयत् (*rohayat*)** — "ruha bījajanmani prādurbhāve ca" with *ṇic*, "laṅ"; by **बहुलं छन्दस्यमाङ्योगेऽपि** (पा. सू. ६-४-७५) no augment "aṭ"; unaccented by **तिङ्ङतिङः** (पा. सू. ८-१-२८).
 - **दिवि (*divi*)** — the case-ending is udātta by the *ūḍidam-padādy-appum-raidyubhyaḥ* rule (Pā. 6-1-171).
-- **अद्रिम् (*adrim*)** — from *ad* ("to eat") with *kran* (Uṇ. 4-[?]); with the suffix marked *śit*, the first vowel is udātta.
-- **ऐरयत् (*airayat*)** — root *īr* ("to go, to move") with *ṇic* + *laṅ*.
+- **अद्रिम् (*adrim*)** — **अदिशदिभूशुभिभ्यः क्रिन्** (उ. सू. ४-५०३ as printed [?]) "krin" after "ad bhakṣaṇe" ("adanti paśavas tṛṇādikam atra," where beasts eat grass): "adri"; "n"-marked, first-syllable acute.
+- **ऐरयत् (*airayat*)** — "īra gatau" with *ṇic* + *laṅ*, third singular parasmaipada; unaccented by "tiṅṅatiṅaḥ."
 
 **॥३॥**
 
-*(Page 272 begins with the final lines of Rik 3's grammar — the verb* airayat *takes its personal ending, and the word is unaccented by Pā. 8-1-28 — then the number* ॥३॥ *closes Rik 3.)*
+*(These last items are on p. 272.)*
 
 ### Page 272 — Sūkta 7, Rik 4
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र वाजेषु नो ऽव सहस्रप्रधनेषु च ।
-> उग्र उग्राभिरूतिभिः ॥४॥
+> इन्द्र॒ वाजे॑षु नो ऽव स॒हस्र॑प्रधनेषु च ।
+> उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥४॥
 >
-> *indra vājeṣu no 'va sahasrapradhaneṣu ca |*
-> *ugra ugrābhir ūtibhiḥ ||4||*
+> *índra vā́jeṣu no 'va sahásrapradhaneṣu ca |*
+> *ugrá ugrā́bhir ūtíbhiḥ ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
