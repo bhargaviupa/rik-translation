@@ -2490,59 +2490,131 @@ For bringing about good for us and for drinking soma, I call Indrāṇī, the wi
 
 ---
 
-### Pages 102–109 — Sūkta 22, Rik 13
+### Page 102 (lower) — Sūkta 22, Rik 13
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मही द्यौः पृथिवी च न इमं यज्ञं मिमिक्षताम् ।
-> पिपृतां नो भरीमभिः ॥ १३ ॥
+> म॒ही द्यौः पृ॑थि॒वी च॑ न इ॒मं य॒ज्ञं मि॑मिक्षतां ।
+> पि॒पृ॒तां नो॒ भरी॑मभिः ॥१३॥
+>
+> *mahī́ dyáuḥ pṛthivī́ ca na imáṃ yajñáṃ mimikṣatāṃ |*
+> *pipṛtā́ṃ no bhárīmabhiḥ ||13||*
 
-*mahī dyauḥ pṛthivī ca na imaṃ yajñaṃ mimikṣatām | pipṛtāṃ no bharīmabhiḥ || 13 ||*
+*(Bars under म (मही), थि, इ (इमं) and य (यज्ञं); strokes over पृ, च and the first मि. Line 2: bars under पि, पृ and नो; a stroke over री.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 103 — Rik 13: Pada, bhāṣya
 
-> मही । द्यौः । पृथिवी । च । नः । इमम् । यज्ञम् । मिमिक्षताम् ॥ पिपृताम् । नः । भरीमऽभिः ॥ १३ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*mahī | dyauḥ | pṛthivī | ca | naḥ | imam | yajñam | mimikṣatām || pipṛtām | naḥ | bharīma-bhiḥ || 13 ||*
+> मही । द्यौः । पृथिवी । च । नः । इमं । यज्ञं । मिमिक्षतां ॥
+> पिपृतां । नः । भरीमऽभिः ॥१३॥
+>
+> *mahī | dyauḥ | pṛthivī | ca | naḥ | imaṃ | yajñaṃ | mimikṣatāṃ ||*
+> *pipṛtāṃ | naḥ | bharīma 'bhiḥ ||13||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 103; opening introductory lines read with some doubt)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> द्वितीये छन्दोमे वैश्वदेवशस्त्रे मही द्यौः पृथिवी च न इति द्यावापृथिवीनिविद्धानीया [?] स्तृचः । द्वितीयस्याग्निं व इति खण्डे सूत्रितम् — मही द्यौः पृथिवी च नो युवाना पितरा पुनः (आ. ८-१० [?]) इति । आग्रयणेष्टौ मही द्यौरित्येषा द्यावापृथिव्यैककपालस्यानुवाक्या । … अग्निमन्थने चैषा विनियुक्ता । … अभि त्वा देव सवितर्मही द्यौः पृथिवी च नः (आ. २-[१६] [?]) इति … विष्यन्दमानं सांनाय्येमनूयाजवहनीयदेशे नीनयेत् … आश्विनशस्त्रे चैषा …
+*(The Āśvalāyana numbers are printed ८-१०, २-९, २-१६, ३-१०, ६-५. The bhāṣya prints the root of* pipṛtām *as पॄ with* hrasva iti eke*, and the sūtra number पा० ७-४-७७.)*
 
-*dvitīye chandome vaiśvadevaśastre mahī dyauḥ pṛthivī ca na iti dyāvāpṛthivīnividdhānīyā [?] stṛcaḥ | dvitīyasyāgniṃ va iti khaṇḍe sūtritam — mahī dyauḥ pṛthivī ca no yuvānā pitarā punaḥ (ā. 8-10 [?]) iti | āgrayaṇeṣṭau mahī dyaur ity eṣā dyāvāpṛthivyaikakapālasyānuvākyā | … agnimanthane caiṣā viniyuktā | … abhi tvā deva savitar mahī dyauḥ pṛthivī ca naḥ (ā. 2-[16] [?]) iti … viṣyandamānaṃ sāṃnāyyem anūyājavahanīyadeśe nīnayet … āśvinaśastre caiṣā …*
+> द्वितीये छन्दोमे वैश्वदेवशस्त्रे मही द्यौः पृथिवी च न इति द्यावापृथिव्यनिविद्धानीयस्तृचः । द्वितीयस्याग्निं व इति खण्डे सूत्रितं । मही द्यौः पृथिवी च नो युवाना पितरा पुनः । आ० ८-१० । इति ॥ आग्रयणेष्टौ मही द्यौरित्येषा द्यावापृथिव्यैककपालस्यानुवाक्या । आग्रयणं व्रीहिश्यामाकेति खण्डे सूत्रितं । ये के च ज्मा महिनो अहिमाया मही द्यौः पृथिवी च नः । आ० २-९ । इति ॥ अग्निमन्थनेऽप्येषा विनियुक्ता । प्रातर्वैश्वदेव्यामिति खण्डे सूत्रितं । अभि त्वा देव सवितर्मही द्यौः पृथिवी च नः । आ० २-१६ । इति ॥ विष्यन्दमानं सांनाय्यमनयैवाहवनीयदेशे निनयेत् । विध्यपराध इति खण्डे तथैव सूत्रितं । विष्यन्दमानं मही द्यौः पृथिवी च न इत्यन्तःपरिधिदेशे निनयेयुः । आ० ३-१० । इति ॥ आश्विनशस्त्रेऽप्येषा । संस्थिते ष्वाश्विनायेति खण्डे सूत्रितं । मही द्यौः पृथिवी च नस्ते हि द्यावापृथिवी विश्वशंभुवा । आ० ६-५ । इति ॥
+>
+> *dvitīye chandome vaiśvadevaśastre mahī dyauḥ pṛthivī ca na iti dyāvāpṛthivyanividdhānīyastṛcaḥ | dvitīyasyāgniṃ va iti khaṇḍe sūtritaṃ | mahī dyauḥ pṛthivī ca no yuvānā pitarā punaḥ | ā0 8-10 | iti || āgrayaṇeṣṭau mahī dyaurityeṣā dyāvāpṛthivyaikakapālasyānuvākyā | āgrayaṇaṃ vrīhiśyāmāketi khaṇḍe sūtritaṃ | ye ke ca jmā mahino ahimāyā mahī dyauḥ pṛthivī ca naḥ | ā0 2-9 | iti || agnimanthane 'pyeṣā viniyuktā | prātarvaiśvadevyāmiti khaṇḍe sūtritaṃ | abhi tvā deva savitarmahī dyauḥ pṛthivī ca naḥ | ā0 2-16 | iti || viṣyandamānaṃ sāṃnāyyamanayaivāhavanīyadeśe ninayet | vidhyaparādha iti khaṇḍe tathaiva sūtritaṃ | viṣyandamānaṃ mahī dyauḥ pṛthivī ca na ityantaḥparidhideśe ninayeyuḥ | ā0 3-10 | iti || āśvinaśastre 'pyeṣā | saṃsthite ṣvāśvināyeti khaṇḍe sūtritaṃ | mahī dyauḥ pṛthivī ca naste hi dyāvāpṛthivī viśvaśaṃbhuvā | ā0 6-5 | iti ||*
 
-*(The bhāṣya here is mainly a list of the sacrificial applications of the rik, with Āśvalāyana-sūtra citations; the author gives them in clear Kannada in the Special Topics below, which is what I follow. The ellipses mark stretches of the Sanskrit that were too crowded to read confidently.)*
+**Translation (application):** "In the second *chandoma* day, at the *vaiśvadeva-śastra*, the tṛca to Heaven-and-Earth, *mahī dyauḥ pṛthivī ca naḥ*, the one to be put in the place of the *nivid*; it is laid down in the section *dvitīyasyāgniṃ vaḥ*: '*mahī dyauḥ pṛthivī ca naḥ*, *yuvānā pitarā punaḥ*' (Āśv. 8-10). In the *āgrayaṇa-iṣṭi*, *mahī dyauḥ* is the *anuvākyā* of the one-potsherd cake to Heaven-and-Earth; it is laid down in the section *āgrayaṇaṃ vrīhiśyāmāka*: '*ye ke ca jmā mahino ahimāyāḥ*, *mahī dyauḥ pṛthivī ca naḥ*' (Āśv. 2-9). It is used also at the churning of fire; it is laid down in the section *prātarvaiśvadevyām*: '*abhi tvā deva savitaḥ*, *mahī dyauḥ pṛthivī ca naḥ*' (Āśv. 2-16). With this same ṛk one should pour the *sāṃnāyya* that is trickling away on to the place of the *āhavanīya*: so it is laid down in the section *vidhyaparādha*: 'the trickling one, with *mahī dyauḥ pṛthivī ca naḥ*, they should pour within the enclosing sticks' (Āśv. 3-10). It is used also at the *āśvina-śastra*; it is laid down in the section *saṃsthite ṣv āśvināya*: '*mahī dyauḥ pṛthivī ca naḥ*, *te hi dyāvāpṛthivī viśvaśambhuvā*' (Āśv. 6-5)."
 
-> मही महती द्यौर्दिवो लोकदेवता पृथिवी भूमिदेवता च नोऽस्मदीयमिमं यज्ञं मिमिक्षताम् । स्वकीयसारभूतेन रसेन सेक्तुमिच्छताम् । तथा भरीमभिर्भरणैः पोषणकर्मभिर्नोऽस्मान्पिपृताम् । उभे देव्यौ पूरयताम् ॥
+> मही महती द्यौर्द्युलोकदेवता पृथिवी भूमिदेवता च नोऽस्मदीयमिमं यज्ञं मिमिक्षतां । स्वकीयसारभूतेन रसेन मिमिक्षतां । सेक्तुमिच्छतां । तथा भरीमभिर्भरणैः पोषणैर्नोऽस्मान्पिपृतां । उभे देव्यौ पूरयतां ॥ मही । महच्छब्दादुगितश्चेति ङीप् । अच्छब्दलोपश्छान्दसः । बृहन्महतोरुपसंख्यानमिति ङीप उदात्तत्वं । द्यौः । दिव्शब्दः प्रातिपदिकस्वरेणान्तोदात्तः । गोतो णित् । पा० ७-१-९० । इति ततः परस्य सोर्णिद्वद्भावाद्वृद्धिरपि स्थानिवद्भावेनोदात्ता । पृथिवी । प्रथ प्रख्याने । प्रथेः षिवन्संप्रसारणं च । उ० १-१५० । इति षिवन्प्रत्ययः । षिद्गौरादिभ्यश्च । पा० ४-१-४१ । इति ङीष् । प्रत्ययस्वरः । मिमिक्षतां । मिह सेचने । सनि द्विर्भावहलादिशेषौ । ढत्वकत्वषत्वानि । पिपृतां । पॄ पालनपूरणयोः । ह्रस्व इत्येके । शपः श्लुः । अर्तिपिपर्त्योश्च । पा० ७-४-७७ । इत्यभ्यासस्याकारस्येकारः । तिङः प्रत्ययस्वरः । भरीमभिः । डुभृञ् धारणपोषणयोः । हुसृधृक्षिभृभ्य ईमनिनिति ईमन् । नित्त्वादाद्युदात्तः ॥
+>
+> *mahī mahatī dyaurdyulokadevatā pṛthivī bhūmidevatā ca no 'smadīyamimaṃ yajñaṃ mimikṣatāṃ | svakīyasārabhūtena rasena mimikṣatāṃ | sektumicchatāṃ | tathā bharīmabhirbharaṇaiḥ poṣaṇairno 'smānpipṛtāṃ | ubhe devyau pūrayatāṃ || mahī | mahacchabdādugitaśceti ṅīp | acchabdalopaśchāndasaḥ | bṛhanmahatorupasaṃkhyānamiti ṅīpa udāttatvaṃ | dyauḥ | divśabdaḥ prātipadikasvareṇāntodāttaḥ | goto ṇit | pā0 7-1-90 | iti tataḥ parasya sorṇidvadbhāvādvṛddhirapi sthānivadbhāvenodāttā | pṛthivī | pratha prakhyāne | pratheḥ ṣivansaṃprasāraṇaṃ ca | u0 1-150 | iti ṣivanpratyayaḥ | ṣidgaurādibhyaśca | pā0 4-1-41 | iti ṅīṣ | pratyayasvaraḥ | mimikṣatāṃ | miha secane | sani dvirbhāvahalādiśeṣau | ḍhatvakatvaṣatvāni | pipṛtāṃ | pṝ pālanapūraṇayoḥ | hrasva ityeke | śapaḥ śluḥ | artipipartyośca | pā0 7-4-77 | ityabhyāsasyākārasyekāraḥ | tiṅaḥ pratyayasvaraḥ | bharīmabhiḥ | ḍubhṛñ dhāraṇapoṣaṇayoḥ | husṛdhṛkṣibhṛbhya īmaniniti īman | nittvādādyudāttaḥ ||*
 
-*mahī mahatī dyaur divo lokadevatā pṛthivī bhūmidevatā ca no 'smadīyam imaṃ yajñaṃ mimikṣatām | svakīyasārabhūtena rasena sektum icchatām | tathā bharīmabhir bharaṇaiḥ poṣaṇakarmabhir no 'smān pipṛtām | ubhe devyau pūrayatām ||*
+**Translation:** "May *mahī*, great, *dyauḥ*, the deity of the heavenly world, and *pṛthivī*, the deity of the earth, *mimikṣatām*, wish to sprinkle, *imaṃ yajñam*, this our sacrifice, with their own essential juice. Likewise may they *pipṛtām*, fill, *naḥ*, us, *bharīmabhiḥ*, with supports, nourishments: may both goddesses fill us." (Grammatical tail: *mahī*, *ṅīp* after *mahat* by *ugitaś ca*, the dropping of *at* Vedic, the *ṅīp* udātta by *bṛhanmahator upasaṃkhyānam*; *dyauḥ*, *div* final udātta by the stem accent; by *goto ṇit* (Pā. 7-1-90) the *su* after it is like *ṇit*, and the *vṛddhi* too is udātta by *sthānivadbhāva*; *pṛthivī*, *pratha prakhyāne*, the suffix *ṣivan* by *pratheḥ ṣivan saṃprasāraṇaṃ ca* (U. 1-150), *ṅīṣ* by *ṣidgaurādibhyaś ca* (Pā. 4-1-41), the suffix accent; *mimikṣatām*, *miha secane*, with *san* reduplication and *halādiḥ śeṣaḥ*, then *ḍh*, *k* and *ṣ*; *pipṛtām*, *pṝ pālanapūraṇayoḥ* (some say short), *ślu* for *śap*, *i* for the *a* of the reduplication by *artipipartyoś ca* (Pā. 7-4-77), the accent of the *tiṅ* suffix; *bharīmabhiḥ*, *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *īman* by *husṛdhṛkṣibhṛbhya īman*, initial udātta as *nit*.)
 
-**Translation:** "May the great *Dyaus* — the deity of the world of heaven — and *Pṛthivī* — the deity of the earth — wish to sprinkle this sacrifice of ours with the essence that is their own. And may they, the two goddesses, fill us with nourishments (*bharīmabhiḥ*) — with acts of bearing and sustaining." *(Grammar pages 106–109, noted briefly: the words treated are* mahī *[*mahat* + *ṅīp*; *śatṛ*-substitution by the Uṇādi rule on* mahat*; the long argument over* ugit *and* vyapadeśivadbhāva *— whether* mahat *counts as an* ugit *stem so that* ṅīp *is added — is scholastic and not reproduced],* dyauḥ *[*div* with* ḍo *by Uṇ. rule; sū > loss; the vṛddhi and the ṇit-sarvanāmasthāna treatment by P. 7-1-90 *goto ṇit*, 6-1-89 / 6-1-93; accent of* dyauḥ *discussed with the statement that a copyist's errors have crept into the printed Vedabhāṣya],* pṛthivī *[*prath prakhyāne* + *ṣivan* with* saṃprasāraṇa *— Uṇ. 1-[150] ; *ṅīṣ* by P. 4-1-41 *ṣiḍgaurādibhyaś ca*; accent],* mimikṣatām *[*miha secane* + *san*; reduplication; loss of* h*; *tām* for* tas*; P. 3-4-101/ 3-4-[?] pointers],* pipṛtām *[*pṛ pālanapūraṇayoḥ*; *śluh*; the vowel of the reduplication; accent, P. 8-1-[?]],* bharīmabhiḥ *[*ḍubhṛñ dhāraṇapoṣaṇayoḥ* + *īman*, Uṇ. [?]; accent on the first syllable]. Numerals as read, pointers only.)*
+### Page 104 — Rik 13: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** **मही (mahī)** — the great [Dyaus] | **द्यौः (dyauḥ)** — the deity of the sky | **पृथिवी च (pṛthivī ca)** — and the deity of the earth | **नः (naḥ)** — our | **इमं यज्ञम् (imaṃ yajñam)** — this sacrifice | **मिमिक्षताम् (mimikṣatām)** — may they make rich with sap [flavour] | **भरीमभिः (bharīmabhiḥ)** — by acts of nourishing | **नः (naḥ)** — us | **पिपृताम् (pipṛtām)** — may they fill [make complete].
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** May the deities of heaven and earth enrich this our sacrifice with sap, and nourish us with nourishing substances.
+**मही (mahī)** — great | **द्यौः (dyauḥ)** — the deity of the heavenly world | **पृथिवी च (pṛthivī ca)** — together with the deity of the earth | **नः (naḥ)** — our | **इमं यज्ञं (imaṃ yajñaṃ)** — this sacrifice | **मिमिक्षतां (mimikṣatāṃ)** — may they be ready to make it full of juice | **भरीमभिः (bharīmabhiḥ)** — with nourishing works | **नः (naḥ)** — us | **पिपृतां (pipṛtāṃ)** — may they make full.
+
+**॥ Bhāvārthaḥ ॥**
+
+May the deities of the world of the gods and of the earth make our sacrifice full of juice, and nourish us with nourishing things.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> May the great Heaven and Earth sprinkle (with sweetness) this our Sacrifice; may they fill us with nourishments.
+> May the great Heaven and Earth sprinkle (with sweetness) this our Sacrifice ; may they fill us with nourishments.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 104–105)* **Applications of this rik.** (i) In the *Vaiśvadeva-śastra* of the second *chandoma* day, this rik is used in the recitation of the mantras addressed to Dyāvāpṛthivī; in Āśvalāyana's Śrauta-sūtra, in the section beginning *dvitīyasyāgniṃ va*, the rik *mahī dyauḥ pṛthivī ca naḥ* is cited together with *yuvānā pitarā punaḥ* (Ṛ. Saṃ. [1-160-3] [?]) (Āś. [8-10] [?]). (ii) In the *Āgrayaṇa-iṣṭi* this rik is the *puro-'nuvākyā* of the one-pot (*ekakapāla*) cake offered to Dyāvāpṛthivī; in the section *āgrayaṇaṃ vrīhiśyāmākam*, with the rik *ye ke ca jmā mahino ahimāyāḥ* (Ṛ. Saṃ. [6-52-15] [?]) the rik *mahī dyauḥ pṛthivī ca naḥ* is described (Āś. [2-9] [?]). (iii) It also has a use at the time of *agni-manthana* (kindling the fire by friction): in the section *prātarvaiśvadevyām*, after *abhi tvā deva savitaḥ* (Ṛ. Saṃ. [1-24-3] [?]) this rik is cited (Āś. [2-16] [?]). (iv) In the *sāṃnāyya* offering, the chant is used as the dripping [curds] are carried to the *ahavanīya*; the rik is cited in Āśvalāyana under *vidhvaparādha* (Āś. [3-10] [?]), where the dripping substance is to be led into the *paridhi* place. (v) In the *Āśvina-śastra* too, in the section *saṃsthiteṣv āśvināya*, the rik *mahī dyauḥ pṛthivī ca naḥ* is followed by *te hi dyāvāpṛthivī viśvaśambhuvā* (Ṛ. Saṃ. [1-160-1]) (Āś. [6-5] [?]). Besides these *śrauta* rites the rik is also used in *gṛhya* ritual, in prayers addressed to the Earth.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**द्यौः, पृथिवी** — heaven and earth: the two divinities Dyāvāpṛthivī presiding over them are praised together in many hymns, and in some riks the words *dyauḥ* and *pṛthivī* occur separately. Examples [numerals as printed, marked [?]]:
+This ṛk has many applications. At the time of reciting the *vaiśvadeva-śastra* mantras, on the second *chandoma*, this ṛk *mahī dyauḥ pṛthivī ca naḥ* is used as the mantra for the recitation of a mantra with Heaven-and-Earth as deity. In the section *dvitīyasyāgniṃ vaḥ* of the Āśvalāyana Śrautasūtra there is the sūtra *mahī dyauḥ pṛthivī ca naḥ* (Ṛ. Saṃ. 1-22-13) *yuvānā pitarā punaḥ* (Ṛ. Saṃ. 1-20-4) (Ā. 8-10).
 
-> उप श्वासय पृथिवीमुत द्यां पुरुत्रा ते मनुतां विष्ठितं जगत् ॥ (Ṛ. Saṃ. [5-83-8] [?])
-> *upa śvāsaya pṛthivīm uta dyāṃ purutrā te manutāṃ viṣṭhitaṃ jagat ||* — "Make the earth and the sky breathe; may the world, standing in many places, think of you." *(my gloss, tentative)*
+In the *āgrayaṇa-iṣṭi*, this ṛk *mahī dyauḥ* is used as the *puronuvākyā* ṛk for the offering of the one-potsherd cake with Heaven-and-Earth as deity. In the section *āgrayaṇaṃ vrīhiśyāmāka* of the Āśvalāyana Śrautasūtra this matter is explained in the sūtra *ye ke ca jmā mahino ahimāyāḥ* (Ṛ. Saṃ. 6-52-14 [?]) *mahī dyauḥ pṛthivī ca naḥ* (Ṛ. Saṃ. 1-22-13) (Ā. 2-9).
 
-> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् । (Ṛ. Saṃ. [3-59-1])
-> *mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīm uta dyām |* — "Mitra, speaking, sets men to work; Mitra has upheld the earth and the sky." *(my gloss, tentative)*
+At the time of churning the fire too this ṛk is applied. In the section *prātarvaiśvadevyām* of the Āśvalāyana Śrautasūtra there is the sūtra *abhi tvā deva savitaḥ* (Ṛ. Saṃ. 1-24-3) *mahī dyauḥ pṛthivī ca naḥ* (Ṛ. Saṃ. 1-22-13) (Ā. 2-16).
 
-> विश्वकर्मन् हविषा वावृधानः स्वयं यजस्व पृथिवीमुत द्याम् ॥ (Ṛ. Saṃ. [10-81-6])
-> *viśvakarman haviṣā vāvṛdhānaḥ svayaṃ yajasva pṛthivīm uta dyām ||* — "O Viśvakarman, grown strong by the oblation, yourself sacrifice [to] the earth and the sky." *(my gloss, tentative)*
+When pouring the *puroḍāśa* called *sāṃnāyya* to the place of the *āhavanīya*, this mantra is recited. In the section *vidhyaparādha* of the Āśvalāyana Śrautasūtra there is the sūtra *viṣyandamānaṃ mahī dyauḥ pṛthivī ca naḥ* (Ṛ. Saṃ. 1-22-13) *ity antaḥparidhideśe ninayeyuḥ* (Ā. 3-10).
 
-Twenty-four *[the printed numeral reads 24, marked [?]]* words are listed (Nighaṇṭu [3-30] [?]) as names of *dyāvāpṛthivī* — *purandhi* and the rest. In the Taittirīya Saṃhitā, in *dyauḥ pitaḥ pṛthivi mātaḥ*, heaven is addressed as father and earth as mother. In the Ṛgveda the universe is usually divided into three chief regions (*lokas*) — heaven, the middle region (*antarikṣa*) and earth. Even in the heaven there are three divisions: *nāka* (the highest place in heaven), *viṣṭapa* (the middle region) and *pṛṣṭha* (the lower part); in the *antarikṣa* there are further divisions, though not clearly, and words like *vyoman* and *rocana* (the realm of light), *antarikṣa* etc. differ in sense. For the earth the names are *pṛthivī*, *mahī* (the great expanse), *iḷā* (this universe), *vasumatī* (the wealthy one), etc. In the Ṛgveda *dyāvāpṛthivī* is generally understood as the presiding deities of heaven and earth, and in that sense it is used.
+### Page 105 — Rik 13: Special Topics (continued)
 
-**यज्ञं मिमिक्षताम्** — *svakīyasārabhūtena rasena sektum icchatām*: may the deities of heaven and earth help to bring this sacrifice to successful completion by the best things in heaven and earth. **पिपृतां नः भरीमभिः** — *bharaṇaiḥ poṣakair annādyādhāravastubhiḥ somarasādibhiś ca asmān yajñaṃ ca paripūrṇaṃ kurutām*: may they complete our sacrifice with nourishing food and by soma-sap and the like.
+In the recitation of the *āśvina-śastra* mantras too, its application is explained in the section *saṃsthite ṣv āśvināya* of the Āśvalāyana Śrautasūtra by the sūtra *mahī dyauḥ pṛthivī ca naḥ* (Ṛ. Saṃ. 1-22-13) *te hi dyāvāpṛthivī viśvaśambhuvā* (Ṛ. Saṃ. 1-160-1) (Ā. 6-5).
+
+Apart from such *śrauta* rites, this mantra is used also in domestic rites and on occasions of prayer to the earth.
+
+**द्यौः, पृथिवी (dyauḥ, pṛthivī)** — heaven and earth. Though there are many mantras that praise together (as a pair, *saṃstavika*) the two deities Heaven-and-Earth who preside over heaven and earth, there are also some mantras that praise them using the separate words *dyauḥ* and *pṛthivī*:
+
+> उप श्वासय पृथिवीमुत द्यां पुरुत्रा ते मनुतां विष्ठितं जगत् ॥ (ऋ० सं० ६-४७-२९)
+> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्यां । (ऋ० सं० ३-५९-१)
+> विश्वकर्मन्हविषा वावृधानः स्वयं यजस्व पृथिवीमुत द्यां ॥ (ऋ० सं० १०-८१-६)
+>
+> *upa śvāsaya pṛthivīmuta dyāṃ purutrā te manutāṃ viṣṭhitaṃ jagat || (ṛ0 saṃ0 6-47-29)*
+> *mitro janānyātayati bruvāṇo mitro dādhāra pṛthivīmuta dyāṃ | (ṛ0 saṃ0 3-59-1)*
+> *viśvakarmanhaviṣā vāvṛdhānaḥ svayaṃ yajasva pṛthivīmuta dyāṃ || (ṛ0 saṃ0 10-81-6)*
+
+*(Glosses of these quotations are not given in the source.)* There are twenty-four words, *rodasī*, *purandhrī* [as printed: *svadhe purandhī*] and the rest, that indicate the meaning of the word *dyāvāpṛthivī* (Ni. 3-30 [?], as read). In the Taittirīya Saṃhitā, with *dyauḥ pitaḥ pṛthivi mātaḥ*, heaven is addressed as father and the earth as mother. In the Ṛgveda the world (the universe) is generally counted in three main divisions (worlds): heaven, mid-air and earth. Heaven too has three divisions: *nāka* (the highest, best place in heaven), *viṣṭap* (the middle region) and *pṛṣṭha* (the lower part). Though there are no particular divisions in the mid-air, words like *vyoman*, *rocana* (the shining region) and *antarikṣa* indicate a difference in meaning. The word *pṛthivī* too is called by names such as *pṛthivī* (the wide region), *mahī* (the great region), *iḷā* (this world), *vasumatī* (rich in wealth). In the Ṛgveda the word *dyāvāpṛthivī* is generally used thinking of the presiding deities of heaven and earth.
+
+> द्यौः पितः पृथिवि मातः ।
+>
+> *dyauḥ pitaḥ pṛthivi mātaḥ |*
+
+**यज्ञं मिमिक्षतां (yajñaṃ mimikṣatāṃ)** — *svakīyasārabhūtena rasena sektum icchatām |* The intention is: may the deities Heaven-and-Earth, who preside over heaven and earth, favour this sacrifice so that it is well accomplished with the best things in heaven and on earth.
+
+### Page 106 — Rik 13: Special Topics (end), grammar
+
+**पिपृतां नो भरीमभिः (pipṛtāṃ no bharīmabhiḥ)** — *bharaṇasamarthair annai rasaiś ca ||* May they make our sacrifice complete with nourishing articles of food and with drinks such as soma juice.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**मही (mahī)** — the word *mahat*, being treated like one ending in *śatṛ* by *vartamāne pṛṣadbṛhanmahajjagacchatṛvac ca* (U. Sū. 2-[?]), is *ugit*. By *ugitaś ca* (Pā. Sū. 4-1-6), *ṅyāpprātipadikāt* (Pā. Sū. 4-1-12 [?], as read), the word *prātipadikāt* is the heading. *Ugitaḥ* qualifies *prātipadikāt*; so by *yena vidhis tadantasya* (Pā. Sū. 1-1-72) a qualifier denotes what ends in it, and 'ending in it' is obtained. Though, this being a rule of suffixes, by *samāsapratyayavidhau pratiṣedhaḥ* (Pā. Sū. 1-1-72 Vā. 4444 [?]) — in rules of compounds and of suffixes, the obtaining of 'ending in it' is to be prohibited — the prohibition would apply, yet by *ugidvarṇagrahaṇavarjam* (Pā. Sū. 1-1-72 Vā. 4445 [?]) — except where an *ugit* or a letter is mentioned, the prohibition of 'ending in it' is to be stated in rules of compounds and suffixes — since here there is the mention of an *ugit*, *ugitaḥ*, the prohibition does not come. Or: the heading *anupasarjanāt* (Pā. Sū. 4-1-14) makes known that in the section on feminine suffixes there is the rule of 'ending in it'; so 'ending in it' is obtained. *Striyām* (Pā. Sū. 4-1-3) is the heading. From *ṛnnebhyo ṅīp* (Pā. Sū. 4-1-5) *ṅīp* is carried on. So the sense of the sūtra: after a nominal stem ending in an *ugit*, *ṅīp* comes in the feminine. *Ugit* is of two kinds: 1. a nominal stem; 2. a suffix. By the qualification of residing only in a nominal stem, wherever a nominal stem is mentioned, there is the prohibition *vyapadeśivadbhāvo 'prātipadikena* (Paribhā. 33); so *vyapadeśivadbhāva* cannot come there. Here, since the *u*-marked suffix is in both the stem and the suffix, *vyapadeśivadbhāva* comes here. So *mahat* is a stem ending in an *ugit*. When *ṅīp* follows it: *mahat* + *ī*; as a Vedic matter the word *at* is dropped. *Viśiṣṭa apadeśaḥ, vyapadeśaḥ* means the main usage. *Vyapadeśinā tulyam, vyapadeśivat*: for something unaccompanied, the usage 'ending in it' does not come in the main sense; yet, in the way an operation comes where there is the main usage, in the same way the operation comes: this is the meaning of *vyapadeśivadbhāva*. Here *mahat* is *ugit* by extension; yet, since it is not at the end of another, the main usage 'ending in an *ugit*' cannot come. In *atimahat* there is the main usage 'ending in an *ugit*'. Here, as the operation comes where there is the main usage, so here the operation comes: this results from *vyapadeśivadbhāva*. So
+
+### Page 107 — Rik 13: grammar (continued)
+
+there is no hindrance here to *ṅīp* coming. *Ṅīp* is *pit*; so by *anudāttau suppitau* it would be unaccented. Yet by *bṛhanmahator upasaṃkhyānam*, read at *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) — the *nadī*-named suffix and the vowel-initial case-endings *śas* and the rest after the words *bṛhat* and *mahat* are also udātta — it is udātta. By *yū stryākhyau nadī* (Pā. Sū. 1-4-3): on the view that it names letters, the sense of the sūtra is that the letters *ī* and *ū* that convey the specific sense of being always feminine get the name *nadī*; on the view that it names what ends in them, words ending in *ī* and *ū* that convey the specific sense of being always feminine get the name *nadī*. Here, on the view that it names letters, *ṅīp* has the name *nadī*. Though the udātta would be established by the extension of being treated like *śatṛ*, we have explained before that the *vārttika* was begun to obtain the restriction that the udātta is excluded for a suffix after words other than *bṛhat* and *mahat*.
+
+**द्यौः (dyauḥ)** — this word can be derived in two ways. 1. The root *dyuta dīptau*; after it, by the word *bahula* in *uṇādayo bahulam* (Pā. Sū. 3-3-1), the Uṇādi suffix *ḍo* comes. By the force of the suffix being made *ḍit*, even without the name *bha*, the *ṭi* of the root, *ut*, is dropped: it became *dyo*. After this, the nominative singular suffix *su*. *Goto ṇit* (Pā. Sū. 7-1-90) means that the suffixes named *sarvanāmasthāna* after the word *go* — that is, the five suffixes *su*, *au*, *jas*, *am*, *auṭ* — are like *ṇit*. Here the author of the *vārttika*, in *otaḥ ṇid iti vācyam* (Pā. Sū. Vā. 7-1-90-1), says the sūtra *goto ṇit* should be made *oto ṇit*; that is, the word *gotaḥ* should be taken away and the word *otaḥ* put in its place. Accordingly it results that the *sarvanāmasthāna* suffixes after a word ending in *o* are like *ṇit*, that is, like those marked *ṇ*. So the *su* after the word *dyo* ending in *o* becomes like *ṇit*; by *aco 'ñṇiti* (Pā. Sū. 7-2-115) — when suffixes marked *ñ* or *ṇ* follow, a stem ending in a vowel takes *vṛddhi* — *vṛddhi*, *au* for *o*, and with *ru* and *visarga* for *su* it becomes *dyauḥ*. On this view the *o* is udātta by the suffix accent; the *au* coming in its place is also udātta by likeness of place. 2. *Div* is a nominal stem ending in *v*; it is udātta by *phiṣo 'nta udāttaḥ*. After it the suffix *su*; by *diva aut* (Pā. Sū. 7-1-84) — when the suffix *su* follows, the substitute *au* for the final letter of the nominal stem *div* — the substitute *au* for the *v* of *div*: *di* + *au* + *s*; by *iko yaṇ aci* (Pā. Sū. 6-1-77) *y* for the *i*: *dyau s*, the *au* having come in place of *v*. By *sthānivad ādeśaḥ* (Pā. Sū. 1-1-56), with *sthānivadbhāva*, it is as if *v* were there. So one may doubt that by *halṅyābbhyo dīrghāt* (Pā. Sū. 6-1-68) the *su* should be dropped;
+
+### Page 108 — Rik 13: grammar (continued)
+
+but in *sthānivad ādeśo 'nalvidhau* (Pā. Sū. 1-1-56), *analvidhau* means that *sthānivadbhāva* does not come in a rule about letters; so when making the rule about letters *halṅyābbhyaḥ*, *sthānivadbhāva* does not come. So the *su* is not dropped. With *ru* and *visarga* it becomes *dyauḥ*. On this view the *i* in *div* is udātta; the *au* coming in place of the *v*, by *asvarakāṇām asvarakā ādeśāḥ*, is unaccented; by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. Sū. 8-2-4) — an unaccented vowel after a *yaṇ* standing in place of an udātta or svarita becomes svarita — the *au* after the *y* standing in place of the udātta *i* becomes svarita: this is the situation. In the present Veda commentary, where it says *div śabdaḥ prātipadikasvareṇāntodāttaḥ*, it would be right to read *dyo śabdaḥ bāhulakāt auṇādikaḍopratyayāntaḥ, pratyayasvareṇāntodāttaḥ*. It is not unknown to scholars that the present reading has arisen through the carelessness of scribes and proof-readers.
+
+> दिव्शब्दः प्रातिपदिकस्वरेणान्तोदात्तः ।
+> द्योशब्दः बाहुलकात् औणादिकडोप्रत्ययान्तः प्रत्ययस्वरेणान्तोदात्तः ।
+>
+> *divśabdaḥ prātipadikasvareṇāntodāttaḥ |*
+> *dyośabdaḥ bāhulakāt auṇādikaḍopratyayāntaḥ pratyayasvareṇāntodāttaḥ |*
+
+**पृथिवी (pṛthivī)** — the root *pratha prakhyāne*; by *pratheḥ ṣivan saṃprasāraṇaṃ ca* (U. Sū. 1-144 [?], as read), the suffix *ṣivan* comes after the root *prath*, and the root takes *saṃprasāraṇa*: so when the suffix *ṣivan* comes, *saṃprasāraṇa* and *ṛ* for the *r*: *pṛth* + *iv* = *pṛthiv*; the suffix is *ṣit*. By *ṣidgaurādibhyaś ca* (Pā. Sū. 4-1-41) — after words marked *ṣ* and words read in the *gaurādi* class, *ṅīṣ* in the feminine — *ṅīṣ* comes. Though here the suffix is *ṣit*, and the word *pṛthiv* is not *ṣit*, yet by the maxim *avayave 'caritārthaṃ liṅgaṃ samudāyopakārakaṃ bhavati*, since the *ṣ*-marking in the suffix has no other purpose, that *ṣ*-marking qualifies the whole; *pṛthivī* is final udātta by the suffix accent.
+
+> अवयवेऽचरितार्थं लिङ्गं समुदायोपकारकं भवति ।
+>
+> *avayave 'caritārthaṃ liṅgaṃ samudāyopakārakaṃ bhavati |*
+
+**मिमिक्षताम् (mimikṣatām)** — the root *miha secane*. By *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. Sū. 3-1-7) the suffix *san*; by *sanyaṅoḥ* (Pā. Sū. 6-1-9) reduplication: *mih mih* + *sa*; by *halādiḥ śeṣaḥ* (Pā. Sū. 7-4-60) the *h* of the first *mih* is dropped. *Loṭ*, third person *tas*; by *loṭo laṅvat* (Pā. Sū. 3-4-85) treated like *laṅ*; by *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) the substitute *tām*. Since the root *mih* is in the *aniṭ-kārikā*, *vasatir dahadihaduho nah mih ruh lih vahis tathā* (Pā. Sū. Pā. Mā. 7-2-10-6 [?], as read), the augment *iṭ* is barred by *ekāca upadeśe 'nudāttāt* (Pā. Sū. 7-2-10). *Mimih* + *sa* + *tām*: now by *ho ḍhaḥ* (Pā. Sū. 8-2-31) *ḍh* for *h*; for this *ḍh*, by *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-8-41 [?], as read) the substitute *t* [sic; for *k*]; for the *s* after it, by *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59)
+
+### Page 109 — Rik 13: grammar (end)
+
+*ṣ*: it becomes *mimikṣatām*. By *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) it is wholly unaccented.
+
+**पिपृताम् (pipṛtām)** — the root *pṝ pālanapūraṇayoḥ*; some hold that *pṛ* ends in a short vowel. *Loṭ*, third person *tas*, the substitute *tām* as before, *śap*; by *juhotyādibhyaḥ śluḥ* (Pā. Sū. 2-4-75) *ślu* (dropping); by *ślau* (Pā. Sū. 6-1-10) reduplication; on the view that *ślu* has come, by *artipipartyoś ca* (Pā. Sū. 7-4-77) — *ṛ gatau*, *pṝ*, *pṛ pālanapūraṇayoḥ* — *i* comes as the final substitute for their reduplication: so for the *ṛ* of the first *pṛ*, *i*; by *uraṇ raparaḥ* it comes followed by *r*. By *halādiḥ śeṣaḥ* the *r* is removed: it becomes *pipṛtām*. In the Bhāṣya it is described as: first, by *ur at* (Pā. Sū. 7-4-66), when a suffix follows, *a* comes for the *ṛ* of the reduplication; then *i* for the *a* by *artipipartyoś ca*. In fact, since the rule laying down *i* is an exception to *ur at*, it is right to say that *i* comes first. Here, since the root *pṛ* ending in a short vowel is taken, the *u* for the *ṛ* of the second *pṛ* by *udoṣṭhyapūrvasya* (Pā. Sū. 7-1-102) does not come. Since there is the prohibition *kṅiti ca* (Pā. Sū. 1-1-5), *guṇa* does not come. Since this is at the beginning of the *pāda*, by the prohibition *apādādau*, the total lack of accent by *tiṅṅatiṅaḥ* does not come. So by the suffix accent *tām* is udātta.
+
+**भरीमभिः (bharīmabhiḥ)** — the root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*. By *husṛdhṛkṣibhṛbhya īman* (Daśa. Pā. 6 [as printed]) — after the roots *hu dānādanayoḥ*, *styai*[*ñ*] *ācchādane* [as printed], *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *dhṛñ avasthāne*, *svṛ śabdopatāpayoḥ*, *sṛ gatau*, the suffix *īman* comes — when *īman* comes: *bhṛ* + *īman*, *guṇa*; the suffix is *nit*, so by the *nit* accent *bharīmabhiḥ* is initially udātta. ॥13॥
 
 ---
 
