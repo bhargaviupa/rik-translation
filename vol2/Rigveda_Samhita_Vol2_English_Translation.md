@@ -14521,51 +14521,69 @@ In *śatur anumaḥ* the *kṛt* is named with the property of being *śatṛ*, 
 
 ---
 
-### Pages 686–687 — Sūkta 16, Rik 4
+### Page 686 (lower) — Sūkta 16, Rik 4
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उप नः सुतमा गहि हरिभिरिन्द्र केशिभिः ।
-> सुते हि त्वा हवामहे ॥४॥
+> उप॑ नः सु॒तमा ग॑हि॒ हरि॑भिरिन्द्र के॒शिभिः॑ । [accent ?]
+> सु॒ते हि त्वा॒ हवा॑महे ॥४॥ [accent ?]
 >
-> *upa naḥ sutam ā gahi haribhir indra keśibhiḥ |*
-> *sute hi tvā havāmahe ||4||*
+> *úpa naḥ sutám ā́ gahi háribhir indra keśíbhiḥ |* [accent ?]
+> *suté hi tvā hávāmahe ||4||* [accent ?]
+
+*(Read at the foot of p. 686: strokes over प, ग, रि and शि; bars under सु, हि, के and in line 2 under सु and त्वा; not all positions certain.)*
+
+### Page 687 — Rik 4: Pada, bhāṣya, word-meanings, overall sense, English
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > उप । नः । सुतम् । आ । गहि । हरिऽभिः । इन्द्र । केशिऽभिः ॥
 > सुते । हि । त्वा । हवामहे ॥४॥
 >
-> *upa | naḥ | sutam | ā | gahi | hari-bhiḥ | indra | keśi-bhiḥ ||*
+> *upa | naḥ | sutam | ā | gahi | hari 'bhiḥ | indra | keśi 'bhiḥ ||*
 > *sute | hi | tvā | havāmahe ||4||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 687; compressed; [?] marks doubtful readings)*
-
-> हे इन्द्र केशिभिः केसरयुक्तैर्हरिभिरश्वैस्त्वं नोऽस्मदीयं सुतमभिषुतं सोमं प्रत्युप समीपे आ गहि । आगच्छ । सुते हि अभिषुते सोमे निमित्तभूते सति यस्मात्कारणात्त्वा त्वां हवामहे ह्वयामः । तस्मादागच्छेति पूर्वत्रान्वयः ॥ गहि । गमेर्लोटः सेर्हिः । शप इत्यनुवृत्तौ बहुलं छन्दसीति शपो लुक् । इषुगमियमां छः । पा. [७-३-७७] इति छत्वं न भवति । न लुमताङ्गस्येति प्रतिषेधात् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । तस्य सिद्धवदेत्राभात् । पा. [६-४-२२] इत्यसिद्धत्वादतो हेरिति हेर्लुग्न भवति । केशिभिः । क्लेशेरन् लोपश्च । उ. [५-४३ ?] इत्यन् । मत्वर्थीय इनिः । प्रत्ययस्वरः । हवामहे । ह्व इत्यनुवृत्तौ बहुलं छन्दसीति संप्रसारणम् । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव । तिङ्ङतिङ इति न निघातो हि चेति प्रतिषेधात् ॥४॥
+> हे इन्द्र केशिभिः केसरयुक्तैर्हरिभिरश्वैस्त्वं नो ऽस्मदीयं सुतमभिषुतं सोमं प्रत्युप समीप आ गहि । आगच्छ । सुते ऽभिषुते सोमे निमित्तभूते सति यस्मात्कारणात्त्वा हवामहे त्वामाह्वयामः । तस्मादागच्छेति पूर्वत्रान्वयः ॥ गहि । गमेर्लोटः सेर्हिः । शप इत्यनुवृत्तौ बहुलं छन्दसीति शपो लुक् । इषुगमियमां छः । पा. ७-३-७७ । इति छत्वं न भवति । न लुमताङ्गस्येति प्रतिषेधात् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । तस्यासिद्धवदत्राभात् । पा. ६-४-२२ । इत्यसिद्धत्वादतो हेरिति हेर्लुग्न भवति । केशिभिः । क्लिशेरन् लो लोपश्च । उ. ५-३३ । इत्यन् । मत्वर्थीय इनिः । प्रत्ययस्वरः । हवामहे । ह्व इत्यनुवृत्तौ बहुलं छन्दसीति सम्प्रसारणं । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव । तिङ्ङतिङ इति न निघातो हि चेति प्रतिषेधात् ॥
 >
-> *he indra keśibhiḥ kesara-yuktair haribhir aśvais tvaṃ no 'smadīyaṃ sutam abhiṣutaṃ somaṃ praty upa samīpe ā gahi | āgaccha | sute hi abhiṣute some nimitta-bhūte sati yasmāt kāraṇāt tvā tvāṃ havāmahe hvayāmaḥ | tasmād āgaccheti pūrvatrānvayaḥ || gahi | gamer loṭaḥ ser hiḥ | śapa ity anuvṛttau bahulaṃ chandasīti śapo luk | iṣu-gami-yamāṃ chaḥ | pā. [7-3-77] iti chatvaṃ na bhavati | na lumatāṅgasyeti pratiṣedhāt | anudāttopadeśety-ādinānunāsika-lopaḥ | tasya siddhavad etrābhāt | pā. [6-4-22] ity asiddhatvād ato her iti her lug na bhavati | keśibhiḥ | kleśer an lopaś ca | u. [5-43 ?] ity an | matvarthīya iniḥ | pratyaya-svaraḥ | havāmahe | hva ity anuvṛttau bahulaṃ chandasīti saṃprasāraṇam | śapaḥ pittvād anudāttatvam | tiṅaś ca lasārvadhātuka-svareṇa dhātu-svara eva | tiṅ ataṅ iti na nighāto hi ceti pratiṣedhāt ||4||*
+> *he indra keśibhiḥ kesarayuktairharibhiraśvaistvaṃ no 'smadīyaṃ sutamabhiṣutaṃ somaṃ pratyupa samīpa ā gahi | āgaccha | sute 'bhiṣute some nimittabhūte sati yasmātkāraṇāttvā havāmahe tvāmāhvayāmaḥ | tasmādāgaccheti pūrvatrānvayaḥ || gahi | gamerloṭaḥ serhiḥ | śapa ityanuvṛttau bahulaṃ chandasīti śapo luk | iṣugamiyamāṃ chaḥ | pā. 7-3-77 | iti chatvaṃ na bhavati | na lumatāṅgasyeti pratiṣedhāt | anudāttopadeśetyādinānunāsikalopaḥ | tasyāsiddhavadatrābhāt | pā. 6-4-22 | ityasiddhatvādato heriti herlugna bhavati | keśibhiḥ | kliśeran lo lopaśca | u. 5-33 | ityan | matvarthīya iniḥ | pratyayasvaraḥ | havāmahe | hva ityanuvṛttau bahulaṃ chandasīti samprasāraṇaṃ | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa dhātusvara eva | tiṅṅatiṅa iti na nighāto hi ceti pratiṣedhāt ||*
 
-**Translation:** "O Indra! With your long-maned (*keśin*, 'having a *kesara*, mane') horses, come near (*upa ā gahi*) to our pressed soma. For (*hi*) since the soma is pressed we invoke you; therefore come — the earlier [clauses] connect so." The rest is grammar, noted briefly: *gahi* (*gam* + *loṭ*, *si* → *hi*, *śap* dropped; the *ch*-substitute of P. 7-3-77 *iṣugamiyamāṃ chaḥ* does not apply, because of the bar *na lumatāṅgasya*; the nasal dropped by P. 6-4-37; and since that is treated as not-yet-done by P. 6-4-22 *asiddhavad atrābhāt*, the loss of *hi* by *ato heḥ* does not happen); *keśibhiḥ* (*kleś* with Uṇādi *an*, or the possessive *ini*; suffix accent); *havāmahe* (explained at Rik 3 above; the verb unaccented, but since the particle *hi* [*sute hi*] is present the *nighāta* is barred). *(Grammar, noted briefly.)*
+**Translation:** "O Indra, with your *keśin*, maned, *hari*, horses, *upa ā gahi*, come near to our *sutam*, the pressed soma. For since, the soma being pressed, *sute*, we call you, therefore come: that is the construction with what precedes." (Grammatical tail: *gahi*: *hi* for *si*, the *śap* dropped by *bahulaṃ chandasi*, no *ch* (Pā. 7-3-77), barred by *na lumatāṅgasya*; the *m* dropped; that loss counting as not done (Pā. 6-4-22), *hi* is not dropped by *ato heḥ*; *keśibhiḥ*, *an* after *kliś* with loss of the *l* (Uṇ. 5-33), *ini* in the possessive sense, the suffix accent; *havāmahe*, *saṃprasāraṇa* by *bahulaṃ chandasi*, the root accent, not lowered because of *hi*.)
 
-**Grammar pages (pp. 688–689), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *gahi* (*gamḷ gatau*, *loṭ*, *thas*-*si*, *serhy apicca* P. 3-4-87 giving *hi* — which is not *pit*, so *śap* by P. 3-1-68 *kartari śap*; *śap* dropped by *bahulaṃ chandasi* P. 2-4-73 / *ādiprabhṛtibhyaḥ śapaḥ*; the discussion that *pratyayalope pratyayalakṣaṇam* P. 1-1-62 is barred by *na lumatāṅgasya* P. 1-1-63, so that the dropped suffix does not condition *chatva* by P. 7-3-77 *iṣugamiyamāṃ chaḥ*; the nasal *m* of *gam* is dropped by P. 6-4-37 *anudāttopadeśa-vanati-tanoty-ādīnām anunāsikalopo jhali kṅiti* — the Kannada explains that *gam* is among the *anudāttopadeśa* roots by the Kārikā list; *ato heḥ* P. 6-4-105 *luk* of *hi* would apply after a short-*a* stem, but *asiddhavad atrābhāt* P. 6-4-22 treats the *m*-drop as not done, so the stem is not short-*a*-final and the *luk* does not come), *keśibhiḥ* (*kleśa* "to harm" + *an* Uṇ. 3-[?]; *keśa* + *ini* in the sense of possession, P. 5-2-115 *ata iniṭhanau*; *yasyeti ca* P. 6-4-148; the suffix accent; the third plural *bhis* with *svādiṣv asarvanāmasthāne* P. 1-4-17 giving the name *pada*, hence *nalopaḥ prātipadikāntasya* P. 8-2-7, *ru* and *visarga*: *keśibhiḥ*), and *havāmahe* (explained at Rik 3; the verb is not unaccented since *sute hi tvā havāmahe* contains *hi* — P. 8-1-34 *hi ca* — and, by P. 8-1-67 *pūjanāt pūjitam* [as read 8-1-68], the intervening *tvā* does not break the connexion, "as explained earlier"). ॥4॥ *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 687)*
-
-**इन्द्र (indra)** — O Indra | **सुते (sute)** — since the soma has been made ready | **त्वा (tvā)** — you | **हवामहे (havāmahe)** — we invoke (therefore) | **केशिभिः (keśibhiḥ)** — with the long-maned | **हरिभिः (haribhiḥ)** — [your] horses | **नः (naḥ)** — our | **सुतम् (sutam)** — the soma-juice that has been made ready [to be drunk] | **उप आ गहि (upa ā gahi)** — come to our neighbourhood.
+**इन्द्र (indra)** — O Indra | **सुते (sute)** — when the soma has been made ready | **त्वा (tvā)** — you | **हवामहे (havāmahe)** — we call; (so) | **केशिभिः (keśibhiḥ)** — with manes | **हरिभिः (haribhiḥ)** — together with the horses | **नः (naḥ)** — our | **सुतम् (sutam)** — the soma made ready (to drink) | **उप आ गहि (upa ā gahi)** — come near us.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! We have made ready the soma-juice for you, and we invoke you. With your long-maned horses, come near us to drink it.
+O Indra, we have made the soma juice ready for you and call you. Come near us with your maned horses to drink that soma juice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Come Indra to our extracted soma libation by means of your long-maned horses. For we invoke you as soon as the soma is prepared.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 688)*
+### Page 688 — Rik 4: Special Topics and grammar
 
-**केशिभिः (keśibhiḥ)** — with those that have *kesara*; *kesara* is the long hair that grows on the neck of horses.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**Keśibhiḥ**: with long manes. The mane is the long hair grown on the horses' necks.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 688–689, noted briefly)*
+
+**गहि (*gahi*)**: the root *gamḷ gatau*; *loṭ*, *parasmaipada* 2nd singular *sip*; by "ser hy apic ca" (Pā. sū. 3-4-87) *hi* for the *si* standing for *loṭ*, and it is *apit*; so *hi* for *si*; *śap* by "kartari śap" (Pā. sū. 3-1-68): *gam* + *a* + *hi*. In "bahulaṃ chandasi" (Pā. sū. 2-4-73) *śapaḥ* is carried on from "adiprabhṛtibhyaḥ"; *śap* takes *luk* variously, so *śap* takes *luk*. The *pratyayalakṣaṇa* that "pratyayalope pratyayalakṣaṇam" (Pā. sū. 1-1-62) would give is barred by "na lumatāṅgasya" (Pā. sū. 1-1-63). So a *śit* suffix does not count as following. So "iṣugamiyamāṃ chaḥ" (Pā. sū. 7-3-77), which gives *ch* for the final of *iṣu icchāyām*, *gamḷ gatau* and *yamu uparame* before a suffix with *ś* as *it*, does not apply. In "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. sū. 6-4-37), *anunāsika* is a sixth case, a qualifier of the others apart from *vanati*; since there is nothing else it could exclude, it does not qualify *vanati*. There is the maxim "sambhavavyabhicārābhyāṃ syād viśeṣaṇam arthavat": a qualifier has a purpose when the connection is possible and it excludes others. *Sambhava* is fitness, *vyabhicāra* exclusion of others: in *kṛṣṇaḥ haṃsaḥ* the swan is only white, never black, so, lacking fitness, *kṛṣṇaḥ* cannot be given as a qualifier of *haṃsaḥ*. In *kṛṣṇaḥ kākaḥ* all crows are black; so though the fitness for *kṛṣṇaḥ* to be construed with the crow exists, there is no exclusion of others. So in *kākaḥ* the qualifier *kṛṣṇaḥ* is unnecessary; likewise here the qualifier *anunāsika* is unnecessary for *vanati*. Before a *jhal*-initial *kit* or *ṅit* suffix the nasal of the nasal-final *anudāttopadeśa* roots and of the *tanoty-ādi* roots, and the nasal of the root *van*, drop; so the nasal *m* drops. *Gam* is read in the kārikā of the *anudāttopadeśa* class, "gamir namir yamo ramiḥ", so it is *anudāttopadeśa*. With *ga* + *hi*, by "ato heḥ" (Pā. sū. 6-4-105), after a stem ending in *a* the *hi* would take *luk*; but by "asiddhavad atrābhāt" (Pā. sū. 6-4-22), when an operation of the *ābhīya* section with the same basis is made, an operation of that section with the same basis counts as not done; so when the *luk* based on *hi* is made, the loss of *m* by *anudāttopadeśa…*, based on *hi*, counts as not done. So the stem ends in *m*, not in *a*; so *hi* does not take *luk*.
+
+### Page 689 — Rik 4: grammar (end)
+
+**केशिभिः (*keśibhiḥ*)**: "kliśer an lo lopaś ca" (Uṇ. sū. "5-2-11" [?]; the bhāṣya gives 5-33): after *kliśū vibādhane* the suffix *an*, and the *l* of the root drops; so with the suffix *an* and the loss of *l*, *kiś* + *a*; by "pugantalaghūpadhasya ca" the *laghūpadha-guṇa*: *keśa*. By "ata iniṭhanau" (Pā. sū. 5-2-115) the suffix *ini*: *keśa* + *in*; by "yasyeti ca" (Pā. sū. 6-4-148) the *a* drops: *keśin*. It is final udātta by the suffix accent. After it the instrumental plural *bhis*: *keśin* + *bhis*. By "svādiṣv asarvanāmasthāne" (Pā. sū. 1-4-17) *keśin* is called *pada*; so by "nalopaḥ prātipadikāntasya" (Pā. sū. 8-2-7) the *n* drops; with *ru* and visarga, *keśibhiḥ*.
+
+**हवामहे (*havāmahe*)**: the root *hveñ spardhāyāṃ śabde ca*; after it *laṭ*, *ātmanepada* 1st plural *mahiṅ*; *e* for the *ṭi* by "ṭita ātmanepadānāṃ ṭere" (Pā. sū. "3-4-28" [as printed, for 3-4-79]); *śap* by "kartari śap": *hve* + *a* + *mahe*; with "hvaḥ samprasāraṇam" (Pā. sū. 6-1-32) carried on, by "bahulaṃ chandasi" (Pā. sū. 6-1-34) *saṃprasāraṇa*; *pūrvarūpa* by "saṃprasāraṇāc ca" (Pā. sū. 6-1-108); *guṇa* by "sārvadhātukārdhadhātukayoḥ"; *av* by "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78): *hav* + *a* + *mahe*; by "ato dīrgho yañi" (Pā. sū. 7-3-101) the *a* lengthened: *havāmahe*. *Śap* is *pit*, so unaccented by "anudāttau suppitau"; the *tiṅ* suffix *mahe* after the *śap*, an *adupadeśa*, is unaccented by "tāsyanudāttet" (Pā. sū. 6-1-186); so the root accent remains. By "hi ca" (Pā. sū. 8-1-34), a *tiṅanta* joined with the word *hi* is not unaccented; and since in *sute hi tvā havāmahe* the word *hi* is used, "tiṅṅatiṅaḥ" does not make it wholly unaccented. From the mention of *pūjita* in the sūtra *pūjanāt pūjitam* it is made known that "in this section, though there is a fifth-case statement, immediate sequence is not required"; so, though *tvā* intervenes, there is no obstacle to the bar of *hi ca*. This point was set out before.
+
+**॥४॥**
+
+---
 
 ### Pages 689–691 — Sūkta 16, Rik 5
 
