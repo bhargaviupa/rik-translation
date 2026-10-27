@@ -17101,91 +17101,131 @@ After compounding with the word *su*, the accent of the *kṛt* final member com
 
 ## ॥ ಹತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 19 — *"prati tyaṃ cārum adhvaram"* ("The Nineteenth Sūkta"; second sūkta of the Fifth Anuvāka; last sūkta of this volume)
 
-**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed p. 783, upper half)**
+*(Printed p. 783 opens with the title ಹತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು ("The Nineteenth Sūkta").)*
 
-> प्रति त्यमिति नवर्चं द्वितीयं सूक्तम् । ऋषिच्छन्दसी पूर्ववत् । देवतात्वनुक्रम्यते । प्रतित्यमग्निर्मारुतमिति ॥ कारीरीष्ट्यां प्रति त्यमित्येषा धाय्या । तथा च सूत्रितम् । वर्षकामेष्टिः कारीरी तस्यां प्रति त्यं चारुमध्वरमीळे अग्निं स्वश्वसं नमोभिरिति धाय्ये । आ. [२-१३?] इति ॥
+### Page 783 — Sūkta 19: introduction, heading, Rik 1 Saṃhitā
+
+**॥ Sāyaṇa-bhāṣyam ॥** (introductory note)
+
+> प्रति त्यमिति नवर्चं द्वितीयं सूक्तम् । ऋषिच्छन्दसी पूर्ववत् । देवता त्वनुक्रम्यते । प्रति त्यमाग्निमारुतमिति ॥ कारीरीष्ट्यां प्रति त्यमित्येषा धाय्या । तथा च सूत्रितम् । वर्षकामेष्टिः कारीरी तस्यां प्रति त्यं चारुमध्वरमीळे अग्निं स्ववसं नमोभिरिति धाय्ये । आ. २-१३ । इति ॥
 >
-> *prati tyam iti navarcaṃ dvitīyaṃ sūktam | ṛṣi-chandasī pūrvavat | devatā tv anukramyate | prati-tyam agnir mārutam iti || kārīrīṣṭyāṃ prati tyam ity eṣā dhāyyā | tathā ca sūtritam | varṣakāmeṣṭiḥ kārīrī tasyāṃ prati tyaṃ cārum adhvaram īḷe agniṃ svaśvasaṃ namobhir iti dhāyye | ā. [2-13?] iti ||*
+> *prati tyamiti navarcaṃ dvitīyaṃ sūktam | ṛṣicchandasī pūrvavat | devatā tvanukramyate | prati tyamāgnimārutamiti || kārīrīṣṭyāṃ prati tyamityeṣā dhāyyā | tathā ca sūtritam | varṣakāmeṣṭiḥ kārīrī tasyāṃ prati tyaṃ cārumadhvaramīḷe agniṃ svavasaṃ namobhiriti dhāyye | ā. 2-13 | iti ||*
 
-**Translation:** "The nine-rik sūkta beginning *prati tyam* is the second [of this anuvāka]. Its ṛṣi and meter are as before [Medhātithi Kāṇva; Gāyatrī]. As to the deity, the Anukramaṇikā says: '*prati tyam*: Agni and the Maruts.' In the *kārīrī-iṣṭi* [the sacrifice performed to obtain rain], this first rik *prati tyam* is the *dhāyyā* [verse of the 'laying down']. So it is laid down in the Sūtra: 'The *kārīrī iṣṭi* is for one who desires rain; in it the two *dhāyyā* verses are *prati tyaṃ cārum adhvaram* and *īḷe agniṃ svaśvasaṃ namobhiḥ*' (Āśvalāyana Śrauta-sūtra 2-[?], numeral not read)."
+**Translation:** "The sūkta beginning *prati tyam*, of nine ṛks, is the second. The ṛṣi and metre are as before. The deity is stated in the Anukramaṇī: '*prati tyam*: to Agni and the Maruts.' In the *kārīrī* rite this ṛk *prati tyam* is the *dhāyyā*. So it is laid down in the sūtra: 'The *kārīrī* is the rite of one who desires rain; in it *prati tyaṃ cārum adhvaram* and *īḷe agniṃ svavasaṃ namobhiḥ* are the two *dhāyyās*' (Āśv. 2-13)."
 
-**॥ Anuvāda (Kannada rendering) ॥** *Prati tyam* is the second sūkta of this fifth anuvāka; it has nine riks. As to its deity, the Anukramaṇikā says the deities of *prati tyam* are Agni and the Maruts. In the sacrifice called *kārīrī-iṣṭi* — a sacrifice performed for the sake of rain — the sūkta *prati tyam* is to be recited. In it the two riks *prati tyaṃ cārum adhvaram* (Ṛ. Saṃ. 1-19-1) and *īḷe agniṃ svaśvasaṃ namobhiḥ* (Ṛ. Saṃ. [3-10-1]) are to be used as *yājyā* and *puronuvākyā* verses, says the Āśvalāyana Śrauta-sūtra (Āś. [2-13]).
-
-### Pages 783–786 — Sūkta 19, Rik 1
+**Anuvāda (Kannada rendering):** *Pratityam* is the second sūkta in this fifth anuvāka. It has nine ṛks. On the deity of this sūkta the Anukramaṇikā says, *pratityam āgnimārutam*: the deities of the sūkta *pratityam* are Agni and the Maruts. In the rite called *kārīrīṣṭi* the sūkta *prati tyam* is to be recited: *varṣakāmeṣṭiḥ kārīrī tasyāṃ prati tyaṃ cārum adhvaram īḷe agniṃ svavasaṃ namobhir iti dhāyye* (Āśv. 2-13); that is, *kārīrī* is the rite of one who desires rain, a particular rite done for the coming of rain. In it the two ṛks *prati tyaṃ cārum adhvaram* (Ṛ. saṃ. 1-19-1) and *īḷe agniṃ svavasaṃ namobhiḥ* (Ṛ. saṃ. 5-60-1) are to be recited as the *yājyā* and *puronuvākyā* ṛks, says the Āśvalāyana Śrautasūtra (Āś. 2-13).
 
 **॥ ॐ ॥**
 
 **॥ Sūkta — 19 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 5 ॥ Sūkta — 19 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 36, 37 [?] ॥** *(small-print Kannada digits "೩೬, ೩೭", read at 150 dpi)*
-**॥ Mantras contained in this sūkta: 1–9 ॥**
-**॥ Ṛṣi — Medhātithi Kāṇva ॥**
-**॥ Devatā — Agni and the Maruts ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 36, 37 ॥**
+**॥ Number of ṛks in the sūkta: 1–9 ॥**
+**॥ Ṛṣiḥ — Medhātithiḥ Kāṇvaḥ ॥**
+**॥ Devatā — Agnir Marutaś ca ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
+
+### Sūkta 19, Rik 1
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्रति त्यं चारुमध्वरं गोपीथाय प्र हूयसे ।
-> मरुद्भिरग्न आ गहि ॥१॥
+> प्रति॒ त्यं चारु॑मध्व॒रं गो॑पी॒थाय॒ प्र हू॑यसे । [accent ?]
+> म॒रु॑द्भिरग्न आ ग॑हि ॥१॥ [accent ?]
 >
-> *prati tyaṃ cārum adhvaraṃ gopīthāya pra hūyase |*
-> *marudbhir agna ā gahi ||1||*
+> *prati tyáṃ cā́rum adhvaráṃ gopīthā́ya prá hūyase |* [accent ?]
+> *marudbhir agna ā́ gahi ||1||* [accent ?]
+
+*(Read as printed: strokes over रु (चारु), गो, हू, रु (मरुद्भि) and ग (गहि); bars under ति, ध्व, पी, य (थाय) and म.)*
+
+### Page 784 — Rik 1: Pada, bhāṣya, word-meanings, overall sense, English
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > प्रति । त्यम् । चारुम् । अध्वरम् । गोऽपीथाय । प्र । हूयसे ॥
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥१॥
 >
-> *prati | tyam | cārum | adhvaram | go-pīthāya | pra | hūyase ||*
-> *marut-bhiḥ | agne | ā | gahi ||1||*
+> *prati | tyam | cārum | adhvaram | go 'pīthāya | pra | hūyase ||*
+> *marut 'bhiḥ | agne | ā | gahi ||1||*
 
-*(Accent-marks are printed in the source; not reproduced, per the convention for the later riks of this volume.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 784; compressed; [?] marks doubtful readings)*
-
-> त्यच्छब्दः सर्वनाम तच्छब्दपर्यायः । हे अग्ने यो यज्ञः शास्त्रोक्ताङ्गवैकल्यरहितस्त्वं [?] तथाविधं चारुमध्वरं प्रतिलभ्य गोपीथाय सोमपानाय प्र हूयसे । प्रकर्षेण त्वं हूयसे । तस्मादस्मिन्नध्वरे त्वं मरुद्भिर्देवविशेषैः सहा गहि । आगच्छ । सेयमृग्यास्केनैवं व्याख्याता । त्यं प्रति चारुमध्वरं सोमपानाय प्रहूयसे सोऽग्ने मरुद्भिः सहागच्छ । नि. [१०-४६] । इति ॥ प्रति । निपात आद्युदात्तः । त्यम् । त्यादीनाम् । पा. [७-२-१०२] … चारुम् । द्व्यसनिजनिचरिचटिभ्यो [?] इञुण् । उ. [१-३] … गोपीथाय । निशीथगोपीथावगथाः । उ. [२-९] । इति थक्प्रत्ययान्तो निपातितः । प्र । निपातस्वरः ॥१॥
+> त्यच्छब्दः सर्वनाम तच्छब्दपर्यायः । हे अग्ने यो यज्ञश्चारुरङ्गवैकल्यरहितस्त्यं तथाविधं चारुमध्वरं प्रतिलभ्य गोपीथाय सोमपानाय प्र हूयसे । प्रकर्षेण त्वं हूयसे । तस्मादस्मिन्नध्वरे त्वं मरुद्भिर्देवविशेषैः सहा गहि । आगच्छ । सेयमृग्यास्केनैवं व्याख्याता । तं प्रति चारुमध्वरं सोमपानाय प्रहूयसे सोऽग्ने मरुद्भिः सहागच्छ । नि. १०-३६ । इति ॥ प्रति । निपात आद्युदात्तः । त्यम् । त्यदादीनामः । पा. ७-२-१०२ । प्रातिपदिकस्वरः । चारुम् । दृसनिजनिचरीत्यादिना । उ. १-३ । ञुण् । अत उपधाया इति वृद्धिः । ञित्त्वादाद्युदात्तः । गोपीथाय । निशीथगोपीथावगथाः । उ. २-९ । इति थक्प्रत्ययान्तो निपातितः । प्र । निपातस्वरः ॥
 >
-> *tyac-chabdaḥ sarvanāma tac-chabda-paryāyaḥ | he agne yo yajñaḥ śāstroktāṅga-vaikalya-rahitas tvaṃ [?] tathāvidhaṃ cārum adhvaraṃ pratilabhya gopīthāya soma-pānāya pra hūyase | prakarṣeṇa tvaṃ hūyase | tasmād asminn adhvare tvaṃ marudbhir deva-viśeṣaiḥ sahā gahi | āgaccha | seyam ṛg yāskenaivaṃ vyākhyātā | tyaṃ prati cārum adhvaraṃ soma-pānāya prahūyase so 'gne marudbhiḥ sahāgaccha | ni. [10-46] | iti || prati | nipāta ādyudāttaḥ | tyam | tyādīnām | pā. [7-2-102] … cārum | dvyasani-jani-cari-caṭibhyo [?] iñuṇ | u. [1-3] … gopīthāya | niśītha-gopīthāvagathāḥ | u. [2-9] | iti thak-pratyayānto nipātitaḥ | pra | nipāta-svaraḥ ||1||*
+> *tyacchabdaḥ sarvanāma tacchabdaparyāyaḥ | he agne yo yajñaścāruraṅgavaikalyarahitastyaṃ tathāvidhaṃ cārumadhvaraṃ pratilabhya gopīthāya somapānāya pra hūyase | prakarṣeṇa tvaṃ hūyase | tasmādasminnadhvare tvaṃ marudbhirdevaviśeṣaiḥ sahā gahi | āgaccha | seyamṛgyāskenaivaṃ vyākhyātā | taṃ prati cārumadhvaraṃ somapānāya prahūyase so 'gne marudbhiḥ sahāgaccha | ni. 10-36 | iti || prati | nipāta ādyudāttaḥ | tyam | tyadādīnāmaḥ | pā. 7-2-102 | prātipadikasvaraḥ | cārum | dṛsanijanicarītyādinā | u. 1-3 | ñuṇ | ata upadhāyā iti vṛddhiḥ | ñittvādādyudāttaḥ | gopīthāya | niśīthagopīthāvagathāḥ | u. 2-9 | iti thakpratyayānto nipātitaḥ | pra | nipātasvaraḥ ||*
 
-**Translation:** "The word *tya* is a pronoun, a synonym of *tad*. O Agni! You, [having obtained] this *adhvara* — the sacrifice complete in its parts as the śāstras direct [the clause is partly unclear, marked [?]] — a lovely one (*cārum*), are summoned (*pra hūyase*) *gopīthāya* — for the drinking of soma. You are summoned most earnestly. Therefore, at this sacrifice, do come together with the Maruts, a particular class of gods. Yāska has explained this rik so: '*tyaṃ prati cāruṃ adhvaraṃ somapānāya prahūyase so 'gne marudbhiḥ sahāgaccha*' (Nirukta [10-46 ?]). *Prati* — a particle, first-syllable accent. *Tyam* — [the pronouns] beginning with *tyad*, P. 7-2-102. *Cārum* — the Uṇādi *iñuṇ* after *caṭ* [or *car*]. *Gopīthāya* — *niśītha-gopīthāvagathāḥ*, Uṇ. 2-9: the *thak*-ending words by *nipātana*. *Pra* — a particle with the accent of particles." *(Grammar, noted briefly; Uṇādi and Nirukta numerals marked [?]; the standard rule P. 7-2-102 is as read.)*
+**Translation:** "The word *tya* is a pronoun, a synonym of the word *tad*. O Agni, the sacrifice which is *cāru*, free from any defect in its parts: having obtained *tyam*, such a *cārum adhvaram*, you are *pra hūyase*, called with eminence, *gopīthāya*, for the drinking of soma. Therefore come to this sacrifice with the Maruts, the particular gods. This ṛk Yāska explains thus: 'To that lovely sacrifice you are called for the drinking of soma; O Agni, come with the Maruts' (Ni. 10-36)." (Grammatical tail: *prati*, a particle, initial udātta; *tyam*, *a* by *tyadādīnām aḥ* (Pā. 7-2-102), the stem accent; *cārum*, *ñuṇ* by *dṛsanijanicari…* (Uṇ. 1-3), *vṛddhi* by *ata upadhāyāḥ*, initial udātta as *ñit*; *gopīthāya*, given ready-made as a *thak*-final by *niśīthagopīthāvagathāḥ* (Uṇ. 2-9); *pra*, the particle accent.)
 
-**Grammar pages (pp. 785 lower half–786), noted briefly.** The Kannada treats: *prati* (a particle; *nipātā ādyudāttāḥ* Phiṭ [1-?] gives first-syllable accent), *tyam* (*tyad* belongs to the *tyadādi* group; the accent is end-accent by Phiṭ-sūtra *phiṣo 'nta udāttaḥ* [Phiṭ 1-1]; *tyad* + *am*; *tyadādīnām aḥ* P. 7-2-102 gives *a* for the final *d*; *ato guṇe* P. 6-1-97 *pararūpa*; *ami pūrvaḥ* P. 6-1-107; the single substituted vowel is accented by P. 8-2-5 *ekādeśa udāttenodāttaḥ*, and the *pūrvarūpa* that results is itself *ekādeśa* so accented too), *cārum* (*dvyasanijanicaraciṭibhya iñuṇ* Uṇ. 1-[?], from *dvi* "to split", *paṇ* "to give", *jan* "to be born", *car* "to move", *caṭ* "to split"; here *car* + *u*, the *i/ñ/ṇ* being *it*; *ata upadhāyāḥ* P. 7-2-116 gives *vṛddhi*: *cāru*; the suffix has *ñ* so first-syllable accent by P. 6-1-197; accusative *am*), *gopīthāya* (*niśītha-gopītha-avagathāḥ* Uṇ. 2-[?]: these three, *niśītha*, *gopītha* and *avagatha*, are given by *nipātana* as formed with the suffix *thak*; the commentator on the *Vṛtti* explains *gopītha* as "a bathing-place" [*tīrtha*], while the *Vedabhāṣya*-kāra says it means *somapāna*, soma-drinking; dative *ṅe* → *ya*), and *pra* (a particle, accent as stated). ॥1॥ *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 784)*
-
-**(हे) अग्ने ((he) agne)** — O Agni | **चारुम् (cārum)** — free from defects of deficiency or excess, hence lovely; or [that which is] complete | **अध्वरम् प्रति (adhvaram prati)** — to that sacrifice | **त्यम् (tyam)** — [you] to that | **गोपीथाय (gopīthāya)** — for the drinking of soma | **प्र हूयसे (pra hūyase)** — you are summoned | *(therefore)* **मरुद्भिः (marudbhiḥ)** — with the deities called the Maruts | **आ गहि (ā gahi)** — come.
+**(हे) अग्ने ((he) agne)** — O Agni | **चारुम् (cārum)** — free from the faults of deficiency and excess, lovely, or complete (whatever sacrifice there is) | **त्यम् (tyam)** — that | **अध्वरं प्रति (adhvaraṃ prati)** — to that sacrifice | **गोपीथाय (gopīthāya)** — for drinking soma | **प्र हूयसे (pra hūyase)** — you are invited | (therefore you) | **मरुद्भिः (marudbhiḥ)** — together with the deities called Maruts | **आ गहि (ā gahi)** — come.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! You are summoned to every excellent sacrifice that is performed without defect of deficiency or excess, in order to drink soma. Therefore, come here now, together with the Marut-deities.
+O Agni, you are invited for the drinking of soma in every excellent sacrifice performed without the faults of deficiency, excess or omission. So come here now together with the Marut deities.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, to every perfect and handsome sacrifice you are invoked to drink Soma ; come hither, Agni, with the Maruths.
+> O Agni, to every perfect and handsome sacrifice you are invoked to drink Soma ; come hither, Agni, with the Maruths [sic].
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 785)*
+### Page 785 — Rik 1: Special Topics and grammar
 
-Yāska has explained this rik in the Nirukta; the explanation is the same as that given by the commentator. There is no variation in it.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**त्यम् = तम् (tyam = tam)** — this is a pronoun. By *vyatyaya*, *tyam* stands in place of *tam*. [To show that] the word *tya* has the sense of *tad*, we give two riks as examples:
+Yāska has explained the sense of this ṛk in the Nirukta. That explanation is just as the commentator gives it; there is no difference.
 
-> त्यं चिदत्रिमृतजुरमर्थमश्वं न यातवे । (ऋ. सं. [१०-१४३-१])
-> *tyaṃ cid atrim ṛtajuram artham aśvaṃ na yātave | (ṛ. saṃ. [10-143-1])*
+**Tyam = tam**: this is a pronoun. By exchange *tyam* stands in place of *tam*. We give a few ṛks in which the word *tyam* has the sense *tam*, as examples:
+
+> त्यं चिदत्रिमृतजुरमर्थमश्वं न यातवे । (ऋ. सं. १०-१४३-१)
 >
-> त्वं सुमेषं महयो स्वर्विदं शतं यस्य सुभ्वः साकमीरते । (ऋ. सं. [१-५३-१ ?])
-> *[the print is partly unclear here: *tyaṃ sumeṣaṃ mahayo svarvidaṃ śataṃ yasya subhvaḥ sākam īrate* — marked [?]; Ṛ. Saṃ. [1-53-1 ?]]*
+> *tyaṃ cidatrimṛtajuramarthamaśvaṃ na yātave | (ṛ. saṃ. 10-143-1)*
+
+("That Atri, worn out by age, like a horse, to go to his goal …": mine and tentative.)
+
+> त्यं सुमेषं महया स्वर्विदं शतं यस्य सुभ्वः साकमीरते । (ऋ. सं. १-५२-१)
 >
-> त्यमू षु वाजिनं देवजूतं सहावानं तरुतारं रथानाम् । (ऋ. सं. [१०-१७८-१])
-> *tyam ū ṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānām | (ṛ. saṃ. [10-178-1])*
+> *tyaṃ sumeṣaṃ mahayā svarvidaṃ śataṃ yasya subhvaḥ sākamīrate | (ṛ. saṃ. 1-52-1)*
+
+("Magnify that ram, the finder of light, whose hundred good helpers go forth together": mine and tentative.)
+
+> त्यमूषु वाजिनं देवजूतं सहावानं तरुतारं रथानाम् । (ऋ. सं. १०-१७८-१)
 >
-> उदु त्यं जातवेदसं देवं वहन्ति केतवः । (ऋ. सं. [१-५०-१])
-> *ud u tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ | (ṛ. saṃ. [1-50-1])*
+> *tyamūṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānām | (ṛ. saṃ. 10-178-1)*
 
-and so on. In these riks the word *tyam* has the sense *tam* ("that"). *(The citations are read from the Kannada print; all reference numerals are small and marked [?].)*
+("That prize-winner, sped by the gods, mighty, the victor of chariots": mine and tentative.)
 
-**गोपीथाय (gopīthāya)** — The word *go* means cow, water, ray, praise (*stotṛ*), soma [?], speech, and many other senses; but here the commentator takes it to mean soma. The Vedārtha-yatna-kāra and some others take *go* to mean milk or butter. This is not very consistent; the sense soma given by the commentator is the right one.
+> उदु त्यं जातवेदसं देवं वहन्ति केतवः ॥ (ऋ. सं. १-५०-१)
+>
+> *udu tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ || (ṛ. saṃ. 1-50-1)*
 
-The last line of every rik of this sūkta is *marudbhir agna ā gahi*, repeated like a refrain.
+("The rays carry up that god Jātavedas": mine and tentative.)
+
+and so on. In these ṛks the word *tyam* means *tam*.
+
+**Gopīthāya**: though the word *go* has many senses, cow, water, ray, hymn, soma, speech and so on, here the commentator has taken it as soma. The author of the Vedārthayatna and some others take the word *go* as milk or ghee. This is not very fitting; the sense soma given by the commentator is right.
+
+The last *pāda* of every ṛk of this sūkta, *marudbhir agna ā gahi*, is read again and again like a refrain.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 785–786, noted briefly)*
+
+**प्रति (*prati*)**: a particle; initial udātta by "nipātā ādyudāttāḥ", particles are initial udātta.
+
+**त्यम् (*tyam*)**: *tyad* is in the *tyad-ādi*, within the *sarva-ādi* group. By "phiṣo 'nta udāttaḥ" (Phi. sū. 1-1) it is final udātta. After it the accusative singular *am*: *tyad* + *am*. By "tyadādīnām aḥ" (Pā. sū. 7-2-102), when a case-ending follows, the last letter of the words read in the *tyad-ādi* group takes *a*: *a* for the *d*: *tya* + *a* + *am*. By "ato guṇe" (Pā. sū. 6-1-97), after a short *a* not at the end of a word, when *a*, *e*, *o*, called *guṇa*, follow, the single *pararūpa* comes in place of both; so the *pararūpa*. This
+
+### Page 786 (upper) — Rik 1: grammar (end)
+
+is udātta by *ekādeśa udāttenodāttaḥ*. *Tya* + *am*: by "ami pūrvaḥ" (Pā. sū. 6-1-107) the *pūrvarūpa*; the *a* from this *pūrvarūpa* too is udātta by *ekādeśa…*.
+
+**चारुम् (*cārum*)**: "dṛsanijanicaraticaṭibhyo ñuṇ" (Uṇ. sū. 1-3): after *dṛ vidāraṇe*, *ṣaṇu dāne*, *jana janane*, *cara gatau* and *caṭe bhedane* the suffix *ñuṇ* comes; so after the root *car* the suffix *ñuṇ*; *ñ* and *ṇ* are called *it* and dropped; *u* remains: *car* + *u*. By "ata upadhāyāḥ" (Pā. sū. 7-2-116), when a *ñit* or *ṇit* suffix follows, the short *a* in the penultimate takes *vṛddhi*: *cāru*. The suffix is *ñit*, so it is initial udātta by *ñnityādir nityam*; in the accusative singular, *cārum*.
+
+**गोपीथाय (*gopīthāya*)**: "niśīthagopīthāvagathāḥ" (Uṇ. sū. "2-166" [?]; the bhāṣya gives 2-9): the three words *niśītha*, *gopītha* and *avagatha* are given ready-made as ending in the suffix *thak*; so it is given ready-made as a *thak*-final. The Vṛttikāra explains *gopītha* as *tīrtha*; the Vedabhāṣyakāra explains it as soma-drinking.
+
+**प्र (*pra*)**: the particle accent.
+
+**॥१॥**
+
+---
 
 ### Pages 786–788 — Sūkta 19, Rik 2
 
