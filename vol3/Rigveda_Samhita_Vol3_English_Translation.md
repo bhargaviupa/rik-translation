@@ -445,6 +445,7 @@ At the time of reciting the *vaiśvadeva-śastra* mantras, when the mantras to t
 > ऋभव उरु भान्तीति वा ।
 >
 > *ṛbhava uru bhāntīti vā |*
+
 ("The Ṛbhus shine widely.") *Uru*, much; *bhānti*, they shine: so they are named Ṛbhus. Some think the word *rubhu* or *ṛbhu* is formed by joining the last letter *ru* of *uru* with the first letter of *bhānti*, as in *ahaḥ* + *rātriḥ* = *horā*.
 
 (2)
@@ -452,6 +453,7 @@ At the time of reciting the *vaiśvadeva-śastra* mantras, when the mantras to t
 > ऋतेन भान्तीति वा ।
 >
 > *ṛtena bhāntīti vā |*
+
 ("They shine by *ṛta*.") Because they shine by *ṛta*, that is, by truth or by sacrifice, they are named Ṛbhus.
 
 (3)
@@ -459,6 +461,7 @@ At the time of reciting the *vaiśvadeva-śastra* mantras, when the mantras to t
 > ऋतेन भवन्तीति वा ।
 >
 > *ṛtena bhavantīti vā |*
+
 ("They are by *ṛta*.") Because they exist by *ṛta*, that is, by truth (by power), that is, they are possessed of power, they are named Ṛbhus. Some say that the first letter *ṛ* of *ṛtena* and the first letter *bh* of *bhavanti* join to give *ṛbhu*.
 
 **Viṣṭī**: *viṣṭvī*. Since the word *viṣṭvī* is read among the twenty-six names for action beginning *apaḥ*, *apnaḥ* (Ni. 3-1), it means action. To suit the metre the *v* of *viṣṭvī* is dropped and it is written *viṣṭī*. For this word the commentator gives the sense *vyāptiyuktāḥ*, possessed of pervasion. Pervasion means
