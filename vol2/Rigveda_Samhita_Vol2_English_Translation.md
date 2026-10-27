@@ -6282,37 +6282,38 @@ That is, the word *tuñja* means giving, bestowing. The word *tuñje-tuñje* in 
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pp. 287–290. Characterized, not transcribed (Convention 5). Points of substance:)*
+*(Pp. 287–290. Page header p. 287: "A. 1, A. 1, Va. 14." Characterized; numbers as printed.)*
 
-- **तुञ्जेतुञ्जे (*tuñje-tuñje*)** — Yāska glosses *tuñja* as a root of giving (Nirukta 6-17/18 [?]); the root *tuñj* takes the *ac* suffix (Pā. 3-1-134, the *pacādi* class); the *ac* being *cit*, the word is final-udātta; locative singular *tuñje*; doubling by "nityavīpsayoḥ" (Pā. 8-1-4); the second member has the technical name *āmreḍita* (Pā. 8-1-2) and is unaccented (Pā. 8-1-3). *dātari dātari* = "in each giver"; the gloss in the Nirukta is *dāne dāne* ("in each giving") — a gloss which, the source says, should be understood as a gloss on the *sense*, setting aside the suffix's sense.
-- **उत्तरे (*uttare*)** — root *tṝ* (*plavana-taraṇayoḥ*), suffix *ap* by "bhāve" with the meaning of an abstract; *ut* is a nipāta so initial-udātta; as a bahuvrīhi it keeps the first member's accent.
-- **स्तोमाः (*stomāḥ*)** — *stu* + *man* (Uṇ. 1-142 [?]); *nit* so initial-udātta.
-- **विन्धे (*vindhe*)** — root *vid lābhe* + *laṭ*; ātmanepada; first-person singular *iṭ*; *śa*-vikaraṇa of the tudādi class; *muc-ādi* class *num*; Vedic *dh* for *d*; *guṇa* by Pā. 6-1-97 [?].
-- **अस्य (*asya*)** — *idam* standing for Indra, the matter in hand; *idam* → *aś* by Pā. 2-4-32 [?]; *aś* being *śit*, the substitute replaces the whole word.
-
+- **तुञ्जेतुञ्जे (*tuñje-tuñje*)** — "tuñjas tuñjater dānakarmaṇaḥ" (निरु. "६-१७-१८" as printed): Yāska takes "tuñj" as a verb of giving. "Tuñj," of the pacādi class, takes "ac" in the agent sense by **नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः** (पा. सू. ३-१-१३४); "c"-marked, end-acute by **चितः** (पा. सू. ६-१-१६३); locative singular "tuñje"; doubled by **नित्यवीप्सयोः** (पा. सू. ८-१-४); the second is "āmreḍita" by **तस्य परमाम्रेडितम्** (पा. सू. ८-१-२) and unaccented by **अनुदात्तं च** (पा. सू. ८-१-३). "Dātari dātari" — "in each giver"; the Nirukta's "dāne dāne" explains the root sense, setting aside the affix sense.
+- **उत्तरे (*uttare*)** — "tṝ plavanataraṇayoḥ": **ऋदोरप्** (पा. सू. ३-३-५७) "ap" in the action sense; "ut" means "excellent"; "utkṛṣṭas taro yasya," a bahuvrīhi; "ut," a nipāta, first-syllable acute by **निपाता आद्युदात्ताः** (फि. सू. ८०), kept by **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (पा. सू. ६-२-१).
+- **स्तोमाः (*stomāḥ*)** — **अर्तिस्तुसु…** (उ. सू. १-१४२ [?], the figures unclear) "man"; "n"-marked, first-syllable acute.
+- **विन्धे (*vindhe*)** — "vidḷ lābhe," "laṭ"; the root being "svaritet," the ātmanepada by **स्वरितञितः कर्त्रभिप्राये क्रियाफले** (पा. सू. १-३-७२); first singular "iṭ" by **तिप्तस्झि…** (पा. सू. ३-४-७८): "vid + i"; **तुदादिभ्यः शः** (पा. सू. ३-१-७७); **शे मुचादीनाम्** (पा. सू. ७-१-५९) "num"; "dh" for "d" by vyatyaya; **आद्गुणः** (पा. सू. ६-१-८७): "vindhe."
+- **अस्य (*asya*)** — refers back to Indra, the subject in hand, so anvādeśa: **इदमोऽन्वादेशेऽशनुदात्तस्तृतीयादौ** "aś" for "idam"; "ś"-marked, it replaces the whole by **अनेकाल्शित्सर्वस्य** (पा. सू. १-१-५५).
 ### Pages 288–290 — Rik 7: the *suṣṭutim* debate (grammar)
 
 *(Characterized, not transcribed. The argument, in outline, as the Kannada commentary gives it:)*
 
-**Page 288.** The word **सुष्टुतिम् (*suṣṭutim*)** is built from the root *ṣṭu ñ stutau* ("to praise") and the prefix *su*; the opening sūtras explain how the root's initial *s* becomes *ṣ* (the *ṣatva* rule that operates after an upasarga) and why the form ends up final-udātta (a *ktin* feminine abstract; the initial *su* is an udātta upasarga and *prādi-samāsa* — a compound with a "prefix" — applies by "kugatiprādayaḥ," Pā. 2-2-18). *Kāśikākāra* is cited as taking the word *kārakāt* ("after a kāraka") as carried over by anuvṛtti in the accent-sūtra, so that only items following a kāraka count; the source argues this leaves the form without the required accent.
+**Page 288.** **सुष्टुतिम् (*suṣṭutim*)** — "ṣṭuñ stutau": **धात्वादेः षः सः** (पा. सू. ६-१-६४) "s" for "ṣ," and the "ṭ" it caused reverts: "stu"; **स्त्रियां क्तिन्** (पा. सू. ३-३-९४) "ktin" in the action sense; with the acute upasarga "su," the prādi compound by **कुगतिप्रादयः** (पा. सू. २-२-१८); "ṣ" by **उपसर्गात्सुनोतिसुवतिस्यतिस्तौतिस्तोभतिस्थासेनयसेधसिचसञ्जस्वञ्जाम्** (पा. सू. ८-३-६५) and "ṭ" by **ष्टुना ष्टुः** (पा. सू. ८-४-४१): accusative "suṣṭutim." The accent of the indeclinable first member (**तत्पुरुषे तुल्यार्थ…**, पा. सू. ६-२-२) is set aside by **गतिकारकोपपदात्कृत्** (पा. सू. ६-२-१३९), which in turn gives way to **तादौ च निति कृत्यतौ** (पा. सू. ६-२-५०) — before a kṛt beginning with "t" and "n"-marked, other than "tu," the gati keeps its accent, so "su" would be acute; but **मन्क्तिन्व्याख्यानशयनासनस्थानयाजकादिक्रीताः** (पा. सू. ६-२-१५१) makes these second members end-acute, setting "tādau ca" aside: so "suṣṭutim" is end-acute, as also "suhavāṃ suṣṭutī huve" (ऋ. सं. २-३२-४), "vṛṣṇe codasva suṣṭutim" (ऋ. सं. ८-६४-६ [?], the middle figures unclear), "yās te rāke sumatayaḥ" (ऋ. सं. २-३२-५), say those who know. The Kāśikā takes "kārakāt" as carried into "manktin…" from **कारकाद्दत्तश्रुतयोरेवाशिषि** (पा. सू. ६-२-१४८), so that only after a kāraka are "man"-ending etc. second members end-acute ("pāṇinikṛtiḥ" the example, "prakṛtiḥ, prahṛtiḥ" the counter-examples, "kārakād ity eva" — Kā. ६-२-१५१); on that view "su," a gati, is no kāraka, and "manktin" would not give the end-acute. Whether that can be met is considered next: "stūyate anayā iti stutiḥ" (praise as the instrument, the ṛk…) *(continues on p. 289)*.
 
-**Page 289.** The discussion pursues whether *su* here is an upasarga (and so induces *ṣatva*) at all. The argument runs: an upasarga must be connected to a *verbal action*; *su* here qualifies the *karaṇa* (instrument — the *stuti*), and therefore, in this view, is not connected to the verbal meaning; the *ṣatva* would then be unjustified. The reply is that *su* qualifies the instrument *by way of* the verbal meaning of *stu*, and so is an upasarga after all. The Bhāṣyakāra's analysis is shown consistent with the Vṛttikāra's example of *su* in *su-ṣṭutim*. The page ends in a sub-argument about whether the double qualification (of the root and of the suffix-sense) operates simultaneously, successively, or by repetition (*āvṛtti*) — "whether *su* qualifies both, together or in sequence."
+**Page 289.** The discussion pursues whether *su* here is an upasarga (and so induces *ṣatva*) at all. *(Page header: "A. 1, A. 1, Va. 14.")* The argument runs: by **उपसर्गाः क्रियायोगे** (पा. सू. १-४-५९) an upasarga must be connected to a *verbal action*; *su* here qualifies the *karaṇa* (instrument — the *stuti*), and therefore, in this view, is not connected to the verbal meaning; the *ṣatva* would then be unjustified. The reply is that *su* qualifies the instrument *by way of* the verbal meaning of *stu*, and so is an upasarga after all. The Bhāṣyakāra's analysis is shown consistent with the Vṛttikāra's example of *su* in *su-ṣṭutim*. The page ends in a sub-argument about whether the double qualification (of the root and of the suffix-sense) operates simultaneously, successively, or by repetition (*āvṛtti*) — "whether *su* qualifies both, together or in sequence."
 
-**Page 290.** Sub-arguments continue and are answered; the conclusion drawn is that even if the *ṣatva* were not available by the upasarga route, Vedic license (*chāndasa*) settles it. The page then offers the **second analysis** — *suṣṭu stuvantīti suṣṭutayaḥ* — in which the *ṣatva* needs no special justification, with the *ktic* suffix (Pā. 3-3-174 [?]) in an agent sense and the *cit*-accent (Pā. 6-1-163) giving final-udātta; and it answers the objection of how instrumental ṛks can be spoken of with an agent suffix by the "*kāṣṭhāni pacanti*" analogy: the activity of the ṛks is treated as principal (*svatantraḥ kartā*, Pā. 1-4-54), so their instrumental role is consistent. *(This closing passage is the Kannada rendering of what is already translated above from Sāyaṇa on p. 285.)*
+**Page 290.** If "su" is taken with the root sense and the affix sense in sequence, the operation stops and resumes ("viramya vyāpāra"), which nobody accepts for words; so "su" cannot be construed with both by the power of the word alone. If with one verbally and the other by implication: taken with the root sense by implication, the "ṣ" is not obtained; with the affix sense by implication, the "manktin" accent is not obtained. And even a merely implied kāraka relation makes "suṣṭuti" an example of "manktin," so "prakṛtiḥ, prahṛtiḥ" cannot be counter-examples — who could stop an implied relation of "pra" with the instrument contained in the root sense? So the accent is not obtained from an implied kāraka relation. Hence on this view "su" is construed only with the affix sense, the "manktin" accent holds, and the "ṣ" is Vedic. Or, taken as a bahuvrīhi "śobhanā matir yasyāḥ," the end-acute comes by **नञ्सुभ्याम्** (पा. सू. ६-२-१७२). Or, "suṣṭhu stuvantīti suṣṭutayaḥ": the ṛks, the instruments of praise, are called "stuti"; **क्तिच्क्तौ च संज्ञायाम्** (पा. सू. "१३-३-१७४" as printed, i.e. 3-3-174) "ktic" in the agent sense; "c"-marked, end-acute by **चितः** (पा. सू. ६-१-१६३). To the objection how an agent affix can denote ṛks that are instruments: as in "kāṣṭhāni pacanti" (the logs cook), where the logs, an instrument of cooking, are given independence in their own activity and so are agents by **स्वतन्त्रः कर्ता** (पा. सू. १-४-५४), so too the ṛks, their activity taken as principal, are rightly instruments though an agent affix is used. ॥७॥
 
-**॥७॥**
+
 
 ---
 
 ### Sūkta 7, Rik 8
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वृषा यूथेव वंसगः कृष्टीरियर्त्योजसा ।
-> ईशानो अप्रतिष्कुतः ॥८॥
+> वृषा॑ यू॒थेव॒ वंस॑गः कृष्टीरि॑य॒र्त्योज॑सा ।
+> ईशा॑नो॒ अप्र॑तिष्कुतः ॥८॥
 >
-> *vṛṣā yūtheva vaṃsagaḥ kṛṣṭīr iyarty ojasā |*
-> *īśāno apratiṣkutaḥ ||8||*
+> *vṛ́ṣā yūthéva váṃsagaḥ kṛṣṭī́r iyarty ójasā |*
+> *ī́śāno ápratiṣkutaḥ ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
