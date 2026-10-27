@@ -7585,31 +7585,38 @@ O Indra! Your jaws (or nose) are most handsome. Such as you are, be satisfied wi
 
 **॥ Special Topics (continued, p. 354) ॥**
 
-*(Continuing Yāska on* suśipra*: )* **नासिका नसतेः । विष्यस्व शिप्रे विसृजस्व धेने** (*nāsikā nasateḥ | viṣyasva śipre visṛjasva dhene*, Ṛgveda Saṃhitā 8-?-? [?]) *ity api nigamo bhavati* (Nirukta 6-12 [?]) — "*nāsikā* is from *nasate*; 'let fly, O *śipre* [jaws/nose], let loose the *dhenā*' — this too is a Vedic text." So *śipra* means the jaw (*hanu*) or the nose; the Nirukta explains it, citing two riks of the Ṛgveda. The Nirukta's commentator too explains: **शिप्रे हनू नासिके वा । ते यस्य प्रशस्ते स शिप्रः** (*śipre hanū nāsike vā | te yasya praśaste sa śipraḥ*) — "*śipre* are the two jaws or the nose; he whose [jaws/nose] are praiseworthy is *śipra*." The word is explained as "he has beautiful jaws or nose." In Ṛgveda 1-?-? [?]: *śipriṇ vājānāṃ pate śacīvas tava daṃsanā* ("O lord of strength, master of power, ...") — the Bhāṣyakāra gives the same sense. Since Yāska has explained this word plainly, there is no ground for doubt about its meaning.
+*(Continuing Yāska on* suśipra*:)* **नासिका नसतेः । विष्यस्व शिप्रे विसृजस्व धेने** (*nāsikā nasateḥ | viṣyasva śipre visṛjasva dhene*, Ṛ. Saṃ. 1-101-10) *ity api nigamo bhavati* (Ni. 6-17) — "*nāsikā* is from *nasate*; 'loosen, O you of the *śipras*, let loose the *dhenās*' — this too is a Vedic text." So *śipra* means the jaw (*hanu*) or the nose; Yāska explains it citing two riks of the Ṛgveda. The commentator on the Nirukta too says: **शिप्रे हनू नासिके वा । ते यस्य प्रशस्ते स शिप्रः** (*śipre hanū nāsike vā | te yasya praśaste sa śipraḥ*) — "*śipre* are the two jaws or the nose; he whose [jaws/nose] are praiseworthy is *śipra*"; one who has them is called *śiprin*. In the Ṛk Ṛ. Saṃ. 1-29-2 —
 
-**Occurrences.** The word *suśipra* occurs, besides this rik, at Ṛgveda Saṃhitā 1-101-10 [?]; 3-32-? ; 3-30-?; 5-?-? and several other references in small print, all marked [?] *(the list of mantra numbers is compressed and not reliable in the scan)*. Other case-forms *suśipraḥ*, *suśiprāḥ* and *suśipram* occur in further riks.
+> शिप्रिन्वाजानां पते शचीवस्तव दंसना ॥
+> *śiprin vājānāṃ pate śacīvas tava daṃsanā ||* (Ṛ. Saṃ. 1-29-2)
 
-**"Viśvacarṣaṇe"** — **सर्वमनुष्ययुक्त । सर्वैर्यजमानैः पूज्येत्यर्थः** (*sarva-manuṣya-yukta | sarvair yajamānaiḥ pūjyety arthaḥ*) — "joined with all men; worshipped by all sacrificers." Since *carṣaṇi* means "man," *viśvacarṣaṇe* — joined with all men, or worshipped by all men (sacrificers and others) — is the Bhāṣyakāra's explanation. Skandasvāmī, taking *carṣaṇi* in the sense "to see" (*paśyatikarma*), explains it as "one who is looked upon by all men." The word *viśvacarṣaṇi* occurs at Ṛgveda Saṃhitā 1-?-? ; etc. [mantra numbers compressed; marked [?]], and the forms *viśvacarṣaṇiḥ* and *viśvacarṣaṇim* at many further places.
+— the Bhāṣyakāra gives this same sense. Since Yāska himself has explained the word plainly, there is no room for doubt about its meaning.
+
+**Occurrences.** The word *suśipra* occurs, besides this Ṛk, at Ṛ. Saṃ. 1-101-10; 3-32-3; 3-50-2; 5-22-4; 5-36-5; 6-46-5; 7-24-4; 8-21-8; 8-69-16; 8-93-12; 8-99-7; other case-forms: *suśipraḥ* at Ṛ. Saṃ. 2-3-5; 3-30-3; 2-12-6; 8-66-4; 10-96-3; *suśiprāḥ* at Ṛ. Saṃ. 7-37-1; *suśipram* at Ṛ. Saṃ. 8-32-4; 8-66-2.
+
+**"Viśvacarṣaṇe"** — **सर्वमनुष्ययुक्त । सर्वैर्यजमानैः पूज्येत्यर्थः** (*sarva-manuṣya-yukta | sarvair yajamānaiḥ pūjyety arthaḥ*) — "joined with all men; worshipped by all sacrificers." Since *carṣaṇi* means "man," *viśvacarṣaṇe* — joined with all men, or worshipped by all men (sacrificers and others) — is the Bhāṣyakāra's explanation. Skandasvāmī, taking *carṣaṇi* as a verb of seeing (*paśyatikarma*), explains it as "one who is looked upon by all men." The word *viśvacarṣaṇe* occurs at Ṛ. Saṃ. 1-9-3; 5-38-1; 8-23-2; 9-66-1; 10-50-4; *viśvacarṣaṇi* at Ṛ. Saṃ. 10-93-10; *viśvacarṣaṇiḥ* at Ṛ. Saṃ. 1-27-9 [?]; 2-31-3; 5-6-3; 5-23-4; 6-2-2; 9-1-2; 10-83-4; and *viśvacarṣaṇim* at Ṛ. Saṃ. 1-64-14; 3-2-15; 5-14-6; 6-44-4; 8-53-6.
 
 **"Ā"** — in this rik *ā* is only an upasarga. The Bhāṣyakāra says the verb *gaccha* ("come") is to be supplied with it.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 354–355, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 354–355, Kannada; page header p. 355 "A. 1, A. 1, Va. 17"; numbers as printed)*
 
-**मत्स्व (*matsva*)** — root *madi stuti-moda-mada-svapna-kānti-gatiṣu* + *loṭ* ātmanepada middle-second singular *thās*; the augment *num* does not arise although the root is *it*-marked (*idit*), since the Paribhāṣā says "āgamaśāstram anityam" (the rule of augments is non-binding; Paribhāṣā 93 [?]); the *śap* dropped by *bahulam chandasi*; *thās* → *se* (Pā. 3-4-80 [?]); *se* → *sva* (Pā. 3-4-91 [?]); the *d* of *mad* → *t* (by "khari ca," Pā. 8-4-55 [?]) → *matsva*; the root is anudātta-*it*, hence the *tāsy-anudāttenṅid-adupadeśāt* rule (Pā. 6-1-186 [?]) makes the personal ending unaccented; *mad* is final-udātta by the root accent; the following *sva* becomes *svarita* by "udāttād anudāttasya svaritaḥ" (Pā. 8-4-66 [?]); in the Saṃhitā the final of a finite verb ending in a short vowel and followed by two syllables is lengthened (Pā. 6-3-135 [?]), giving *matsvā*. **सुशिप्र (*suśipra*)** — a vocative, wholly unaccented (Pā. 8-1-19 [?]). **मन्दिभिः (*mandibhiḥ*)** — explained under the previous mantra. **स्तोमेभिः (*stomebhiḥ*)** — root *stu* + *man* (Uṇ. 1-142 [?]), *nit*, initial-udātta; before *bhis* the *ais* substitute is not made (Pā. 7-1-10 [?]). **विश्वचर्षणे (*viśvacarṣaṇe*)** — a vocative, unaccented by the rule in the eighth adhyāya. **सचा (*sacā*)** — its derivation was given under mantra 3 of sūkta 3 [?]. **एषु (*eṣu*)** — the locative plural *sup* after *idam* is udātta by "ūḍidam-padādy-appum-raidyubhyaḥ" (Pā. 6-1-171 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**मत्स्व** — "madi stuti-moda-mada-svapna-kānti-gatiṣu," "loṭ," ātmanepada second singular "thās": "mad + thās"; though the root is "i"-marked, by **आगमशास्त्रमनित्यम्** (अनित्यमागमशासनम्, परि. भा. ९३-२) the augment rule is anitya, so the "num" of **इदितो नुम् धातोः** (पा. सू. ७-१-५८) (p. 355) does not come; "śap" elided by **बहुलं छन्दसि** (पा. सू. २-४-७३); **थासः से** (पा. सू. ३-४-८०) "se"; **सवाभ्यां वामौ** (पा. सू. ३-४-९१) "va" for the "e" of "loṭ" after "s": "mad + sva"; **खरि च** (पा. सू. ८-४-५५) "t" for "d": "matsva." The root being anudāttet, **तास्यनुदात्तेन्ङिददुपदेशात्…** (पा. सू. ६-१-१८६) makes "sva" unaccented; "mad" end-acute by **धातोः** (पा. सू. ६-१-१६२); **उदात्तादनुदात्तस्य स्वरितः** (पा. सू. ८-४-६६) makes "sva" svarita; in the saṃhitā **द्व्यचोऽतस्तिङः** (पा. सू. ६-३-१३५) lengthens the final short "a" of a two-syllable verb in a mantra: "matsvā."
 
-**॥३॥**
+**सुशिप्र** — **आमन्त्रितस्य च** (पा. सू. ८-१-१९), wholly unaccented. **मन्दिभिः** — explained under the previous mantra. **स्तोमेभिः** — **अर्तिस्तुसु…** (उ. सू. १-१४२) "man" after "stu," "n"-marked, first-syllable acute; with "bhis," **बहुलं छन्दसि** (पा. सू. ७-१-१०) withholds "ais." **विश्वचर्षणे** — unaccented by the vocative rule of the eighth chapter. **सचा** — its derivation is set out in the third mantra of the fifth sūkta. **एषु** — the locative "su" after "idam" is acute by **ऊडिदंपदाद्यप्पुम्रैद्युभ्यः** (पा. सू. ६-१-१७१). **॥३॥**
 
 ---
 
 ### Page 355 — Sūkta 9, Rik 4
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> असृग्रमिन्द्र ते गिरः प्रति त्वामुदहासत ।
-> अजोषा वृषभं पतिम् ॥४॥
+> असृ॑ग्रमिन्द्र ते॒ गिरः॒ प्रति॒ त्वामुद॑हासत ।
+> अजो॑षा वृष॒भं पति॑म् ॥४॥
 >
-> *asṛgram indra te giraḥ prati tvām ud ahāsata |*
-> *ajoṣā vṛṣabhaṃ patim ||4||*
+> *ásṛgram indra te gíraḥ práti tvā́m úd ahāsata |*
+> *ájoṣā vṛṣabháṃ pátim ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
