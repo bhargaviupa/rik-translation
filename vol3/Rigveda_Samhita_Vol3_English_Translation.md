@@ -780,7 +780,7 @@ so here *ta* gets the name *ārdhadhātuka*, not the name *sārvadhātuka*. So i
 > एक॑मेकं सुश॒स्तिभिः॑ ॥७॥
 >
 > *te no rátnāni dhattana trírā sā́ptāni sunvaté |*
-> *ékamekaṃ suśastíbhiḥ ||7||*
+> *ékam ekaṃ suśastíbhiḥ ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
