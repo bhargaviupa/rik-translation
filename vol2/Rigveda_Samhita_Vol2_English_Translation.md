@@ -6076,7 +6076,7 @@ O Indra! You are *apradhṛṣya* — that is, enemies cannot conquer you. Such 
 
 **Translation:** "We, the performers [of the rite], call upon Indra *in the mahādhana* — on account of abundant wealth; we summon him. *In the arbha* — when even a small, slight wealth is the occasion — we call Indra. What kind of Indra? *Yujam* — the helper, the co-operator, or [alternatively] the composed one. *In the vṛtras* — when enemies, who obstruct the gain of wealth, have arrived, to ward them off, [we call] the *vajriṇam* — the one equipped with the thunderbolt. Although the word *mahādhana* is read among the names for 'battle,' it is *not* so taken here: if it were analysed as a bahuvrīhi ('that in which there is great wealth, i.e., battle'), final-udātta accent would not be established [for the word as it stands in the rik]. [Hence] *mahādhane* = 'great and that wealth' (*mahac ca tad dhanaṃ ca*), a karmadhāraya compound, final-udātta by the sūtra on compounds."
 
-*(Further grammatical material in the Sanskrit — on* arbhe*,* havāmahe*,* yujam*,* vṛtreṣu*,* vajriṇam *— occupies the rest of this page's Sanskrit. It is dense Pāṇinian derivation, characterized with the Kannada Vyākaraṇa-prakriyā below (Convention 5); not transcribed.)*
+**Grammar of the Bhāṣya (characterized, references as printed):** "Arbhe" — **अर्तिगृभ्यां भन्** (उ. ३-१५२ [?]) "bhan"; "n"-marked, first-syllable acute. "Havāmahe" — "hveñ spardhāyāṃ śabde ca"; **स्वरितञितः कर्त्रभिप्राये क्रियाफले** (पा. १-३-७२) the ātmanepada; "laṭ," "mahiṅ" (पा. ३-४-७८); **टित आत्मनेपदानां टेरे** (पा. ३-४-७९) "e"; **कर्तरि शप्** (पा. ३-१-६८); **ह्वः संप्रसारणम्** (पा. ६-१-३२) carried on with **बहुलं छन्दसि** (पा. ६-१-३४): samprasāraṇa, "u" for "v," the prior form, guṇa and "av"; **अतो दीर्घो यञि** (पा. ७-३-१०१) the long vowel; nighāta by "tiṅṅatiṅaḥ." "Yujam" — "yuja samādhau," "kvip"; **युजेरसमासे** (पा. ७-१-७१) would give "num," but not here: the sūtra names "yuji" with "i," so it does not apply to the root without "i" ("yuja samādhau"); or the augment is anitya. "Vṛtreṣu" — "vṛtu vartane," "pratikūlatayā vartanta iti vṛtrāṇi śatrukulāni"; **स्फायितञ्चि…** (उ. २-१३) "rak"; "k"-marked, no guṇa; the affix accent. "Vajriṇam" — "ata iniṭhanau": "ini"; the affix accent. ॥५॥
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -6088,21 +6088,21 @@ Whether we need a little wealth or much, for obtaining that wealth we invoke Ind
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> We invoke Indra for great wealth ; Indra for (even) little weath ; Indra [is] our ally and weilder of the thunderbolt against enemies
+> We invoke Indra for great wealth ; Indra for (even) little weath [sic] ; Indra [is] our ally and weilder [sic] of the thunderbolt against enemies
 
 ### Page 277 — Rik 5: Special Topics
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**A divergence from the Bhāṣyakāra.** In fixing the sense of this rik, **Skandasvāmī's explanation is more acceptable than the one the Bhāṣyakāra gives**, and the translator gives it below.
+**A divergence from the Bhāṣyakāra.** In fixing the sense of this rik, **Skandasvāmī's explanation is more acceptable than the one the Bhāṣyakāra gives**, and it is given below.
 
 **Skandasvāmi-bhāṣyam** (as quoted in the Kannada script of the source):
 
-> महाधने । संग्रामनामैतत् । महति संग्रामे । इन्द्रमेव अर्भे । अल्पनामैतत् । अल्पे । क्व । पूर्वत्र निर्देशात् संग्राम एव । हवामहे आह्वयामः । युजं युज्यते [?] सा [?] इति युक् सहायः तम् । वृत्रेषु संग्रामव्यतिरिक्तेष्वपि च शत्रुषु इन्द्रमेव समाह्वयामः वज्रिणम् ॥
+> महाधने । संग्रामनामैतत् । महति संग्रामे । इन्द्रमेव अर्भे । अल्पनामैतत् । अल्पे । क्व । पूर्वत्र निर्देशात् संग्राम एव । हवामहे आह्वयामः । युजं युज्यतेऽसाविति युक् सहायः तम् । वृत्रेषु संग्रामव्यतिरिक्तेष्वपि च शत्रुषु इन्द्रमेव समाह्वयामः वज्रिणम् ॥
 >
-> *mahādhane | saṃgrāma-nāmaitat | mahati saṃgrāme | indram eva | arbhe | alpa-nāmaitat | alpe | kva | pūrvatra nirdeśāt saṃgrāma eva | havāmahe āhvayāmaḥ | yujaṃ yujyate [?] sā [?] iti yuk sahāyaḥ tam | vṛtreṣu saṃgrāma-vyatiriktev api ca śatruṣu indram eva samāhvayāmaḥ vajriṇam ||*
+> *mahādhane | saṃgrāma-nāmaitat | mahati saṃgrāme | indram eva | arbhe | alpa-nāmaitat | alpe | kva | pūrvatra nirdeśāt saṃgrāma eva | havāmahe āhvayāmaḥ | yujaṃ yujyate 'sāv iti yuk sahāyaḥ tam | vṛtreṣu saṃgrāma-vyatirikteṣv api ca śatruṣu indram eva samāhvayāmaḥ vajriṇam ||*
 >
-> **Translation:** "*Mahādhane* — this is a name for battle: in a great battle. [We call] Indra alone. *Arbhe* — this is a name for 'small': in a small [battle]. In what? Because of the earlier mention, [it must be] in battle only. *Havāmahe* — we summon. *Yujam* — one who is joined [in the fight; the middle clause is hard to read in the scan]; a *yuk* is a helper — him. *Vṛtreṣu* — in the enemies apart from [formal] battle as well, we call Indra alone — him, the wielder of the thunderbolt."
+> **Translation:** "*Mahādhane* — this is a name for battle: in a great battle. [We call] Indra alone. *Arbhe* — this is a name for 'small': in a small [battle]. In what? Because of the earlier mention, [it must be] in battle only. *Havāmahe* — we summon. *Yujam* — "he is joined" (*yujyate 'sau*), so *yuk*, a helper — him. *Vṛtreṣu* — in the enemies apart from [formal] battle as well, we call Indra alone — him, the wielder of the thunderbolt."
 
 **Anuvāda (the Kannada rendering of Skandasvāmī, as printed):** *Mahādhana* means battle — a great battle. *Arbhe* means a small battle. So, whether the battle is small or great, we call upon Indra alone for our help. And not only in matters of battle but in other matters too, for the removal of our enemies, we call upon Indra alone, the thunderbolt-bearer.
 
@@ -6110,10 +6110,10 @@ Whether we need a little wealth or much, for obtaining that wealth we invoke Ind
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pp. 277–279. Characterized, not transcribed (Convention 5); sūtra numbers are pointers only. Points of substance:)*
+*(Pp. 277–279. Characterized; numbers as printed.)*
 
-- **महाधने (*mahādhane*)** — Yāska does list *mahādhana* among the names for battle; but if taken that way here it would be a bahuvrīhi (*mahat dhanam atra saṃgrāme*, "in which there is great wealth") and would then take the accent of its first member (*pūrvapada-prakṛti-svara*), so final-udātta could not be explained. Hence it is taken as a karmadhāraya *mahac ca tad dhanaṃ ca* ("great, and that wealth"), which is final-udātta by the compound-accent rule (Pā. 6-1-223); *mahat* → *mahā* by Pā. 6-3-46.
-- **अर्भे (*arbhe*)** — root *ṛ* + *bhan* (Uṇ. 3-[?]), with *guṇa*; *nit* so initial-udātta.
+- **महाधने (*mahādhane*)** — Yāska does list *mahādhana* among the names for battle; but if taken that way here it would be a bahuvrīhi (*mahat dhanam atra saṃgrāme*, "in which there is great wealth") and would then take the accent of its first member (*pūrvapada-prakṛti-svara*), so final-udātta could not be explained. Hence it is taken as a karmadhāraya *mahac ca tad dhanaṃ ca* ("great, and that wealth"), which is final-udātta by **समासस्य** (पा. सू. ६-१-२२३); *mahat* → *mahā* by **आन्महतः समानाधिकरणजातीययोः** (पा. सू. ६-३-४६).
+- **अर्भे (*arbhe*)** — root *ṛ* + *bhan* by **अर्तिगृभ्यां भन्** (उ. सू. ३-४०२ [?], as printed; the bhāṣya gives "उ. ३-१५२"), with *guṇa*; locative singular; *nit* so initial-udātta.
 - **हवामहे (*havāmahe*)** — root *hve ñ* ("to call; to vie; to sound"); ātmanepada by Pā. 1-3-72 (the fruit of the act accrues to the agent); *laṭ*, first-person plural *mahiṅ*, with *e* by "ṭita ātmanepadānāṃ ṭer e"; *śap*; Vedic *saṃprasāraṇa* of *hve* (*hu+a+mahe*), then *guṇa* and lengthening, giving *havāmahe*; unaccented as a finite verb.
 - **युजम् (*yujam*)** — root *yuja samādhau* + *kvip* with total loss of the suffix; the question whether the augment *num* arises (by "yujer asamāse," Pā. 7-1-71) is argued and answered in the negative here.
 - **वृत्रेषु (*vṛtreṣu*)** — root *vṛtu vartane* ("to be; to stand"), "those that stand in opposition"; a *rak* suffix, *kit*, so no *guṇa*; final-udātta by the suffix. *(Page 279's first lines list the thirty-odd roots after which* rak *comes, including this one.)*
@@ -6121,25 +6121,24 @@ Whether we need a little wealth or much, for obtaining that wealth we invoke Ind
 
 ### Page 278
 
-*(Continuation of the Rik 5 grammar — the discussion of* havāmahe*'s saṃprasāraṇa and of whether* num *arises in* yujam*; characterized in the entry above.)*
-
+*(Rik 5 grammar, continued; Kannada; numbers as printed.)* **"Havāmahe"** — **स्वरितञितः कर्त्रभिप्राये क्रियाफले** (पा. सू. १-३-७२) the ātmanepada; "mahiṅ" by **तिप्तस्झि…** (पा. सू. ३-४-७८); **टित आत्मनेपदानां टेरे** (पा. सू. ३-४-७९) "mahe"; **कर्तरि शप्** (पा. सू. ३-१-६८); **बहुलं छन्दसि** (पा. सू. ६-१-३४), with **ह्वः संप्रसारणम्** (पा. सू. ६-१-३२) carried on: "hu + a + a + mahe"; **संप्रसारणाच्च** (पा. सू. ६-१-१०८) the prior form; guṇa by **सार्वधातुकार्धधातुकयोः** (पा. सू. ७-३-८४); **एचोऽयवायावः** (पा. सू. ६-१-७८) "av"; **अतो दीर्घो यञि** (पा. सू. ७-३-१०१) the long "ā": "havāmahe"; unaccented by **तिङ्ङतिङः** (पा. सू. ८-१-२८). **"Yujam"** — "yuja samādhau" + "kvip": its "p" is "it" by **हलन्त्यम्** (पा. सू. १-३-३), the "i" by **उपदेशेऽजनुनासिक इत्** (पा. सू. १-३-२), the "k" by **लशक्वतद्धिते** (पा. सू. १-३-८), all dropped by **तस्य लोपः** (पा. सू. १-३-९); the apṛkta "v" by **वेरपृक्तस्य** (पा. सू. ६-१-६७): the whole affix is lost. In the accusative "yuj + am," **युजेरसमासे** (पा. सू. ७-१-७१) would give "num" before a sarvanāmasthāna; but the sūtra names "yuji" (with "i"), i.e. "yujir yoge," not "yuja samādhau," so no "num"; and even if "yujir yoge" is taken, by **अनित्यमागमशासनम्** (परिभा. ९३-२) the augment rule is anitya, so "num" is to be withheld. **"Vṛtreṣu"** — "vṛtu vartane": "pratikūlatayā vartanta iti" (those standing in opposition), "vṛtrāṇi," hosts of enemies; **स्फायितञ्चिवञ्चिशकिक्षिपिक्षुदिसृपितृपिदृपिवन्द्युन्दिश्वितिवृत्य…** *(continues on p. 279)*
 ### Page 279 — Rik 5 closes; Rik 6
 
-*(The first lines complete the Dhātupāṭha-list noted above, then* वज्रिणम् *as above, and the number* ॥५॥ *closes Rik 5.)*
-
-**॥५॥**
+*(Page header: "A. 1, A. 1, Va. 14.")* (Continuing "vṛtreṣu":) …the list of roots in **स्फायितञ्चि…** (उ. सू. २-१७० [?], as printed; the bhāṣya gave "उ. २-१३") is glossed root by root (sphāyī vṛddhau, tañcu saṃkocane, vañcu pralambhane, śakḷ śaktau, kṣipa preraṇe, kṣudir saṃpeṣaṇe, sṛplṛ gatau, tṛpa prīṇane, dṛpa harṣamocanayoḥ, vadi abhivādanastutyoḥ, undī kledane, śvitā varṇe, vṛtu vartane, aja gatikṣepaṇayoḥ, ṇīñ prāpaṇe, pada gatau, madī harṣe, muda harṣe, khidi dainye, chidir dvaidhīkaraṇe, bhidir vidāraṇe, madi stutau, cadi āhlādane, daha bhasmīkaraṇe, dasu upakṣaye, dambhu dambhane, vasa nivāse, vāśṛ śabde, śīṅ svapne, hasi hasane, ṣidha gatyām, śubha dīptau); after these 32 roots "rak" comes: "vṛt + ra"; "k"-marked, so no guṇa; locative plural "vṛtreṣu," end-acute by the affix accent. **"Vajriṇam"** — **अत इनिठनौ** (पा. सू. ५-२-११५) "ini"; the affix accent. ॥५॥
 
 ---
 
 ### Sūkta 7, Rik 6
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स नो वृषन्नमुं चरुं सत्रादावन्नपा वृधि ।
-> अस्मभ्यमप्रतिष्कुतः ॥६॥
+> स नो॑ वृषन्न॒मुं च॒रुं सत्रा॑दाव॒न्नपा॑ वृधि ।
+> अ॒स्मभ्य॒मप्र॑तिष्कुतः ॥६॥
 >
-> *sa no vṛṣann amuṃ caruṃ satrādāvann apā vṛdhi |*
-> *asmabhyam apratiṣkutaḥ ||6||*
+> *sá no vṛṣann amúṃ carúṃ sátrādāvann ápā vṛdhi |*
+> *asmábhyam ápratiṣkutaḥ ||6||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
