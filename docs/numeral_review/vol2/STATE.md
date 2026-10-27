@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
 Status: in progress (scans present, 5 parts, 822 PDF pages).
-Last PDF page done: 100 (printed p. 86).
+Last PDF page done: 200 (printed p. 186).
 
 Page map (checked from the page headers, PDF 1–822): printed = PDF − 14; printed pp. 224–225 are not in the scan
 (PDF 237 = 223, PDF 238 = 226, so printed = PDF − 12 for PDF 238–289); PDF 290–291 repeat printed pp. 276–277;
@@ -21,4 +21,15 @@ Open flags: p. 15 "पुरुभुजेममेधतुं [?]" (8-86-3, o
 "[?] marks …" are conventions, not open readings. Later pages still carry "Accent-marks not reproduced; see the note at
 Rk 3.5" in their header notes — change them as each Ṛk's Saṃhitā gets its accents.
 
-Next: PDF 101–200 (review page, read numerals, place, [?], accents of Sūkta 4 onward).
+Done in PDF 101–200: all 1593 numeral boxes read and placed (edits_PDF101-200.txt); references corrected and [?]
+resolved where the print settles them; grammar pages pp. 155–186 re-read and rewritten where the earlier summary was
+wrong; bhāṣya garbles fixed (pp. 158, 161, 171, 182, 186); page-header vargas read (pp. 89–109 = 7, 111–143 = 8,
+145–173 = 9, 175– = 10); the false "seventh varga" closing at p. 103 removed; Saṃhitā accents Ṛks 4.1–4.10, 5.1–5.8;
+header notes on pp. 87–186 now say "Saṃhitā accents as printed; Pada unaccented."
+
+Open flags (PDF 101–200): p. 133 Uṇādi "2-225" [?]; p. 164 "Ma. 3-1-3-7" [?]; p. 166 "[?]-12-3"; p. 168 "6-1-62" [?];
+p. 184 "14-628" [?]; viṣṭuti name "sūrmī" [?]; p. 155 "praṇetana" [?]; p. 132 kampa verse word [?]; Rk 4.10 accent
+note [accent ?]; p. 91 Ṛk "6-5-1 [as printed]".
+
+Next: PDF 201–300 (review page, read numerals, place, [?], accents from Ṛk 5.9 on; note the page-map break at PDF 238
+and the duplicate PDF 290–291).
