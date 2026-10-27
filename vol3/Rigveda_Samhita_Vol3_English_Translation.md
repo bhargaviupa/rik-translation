@@ -1604,55 +1604,77 @@ accent is udātta; an *upapada* compound; by *gatikārakopapadāt kṛt* the acc
 
 ---
 
-### Pages 66–68 — Sūkta 22, Rik 2
+### Page 66 (lower) — Sūkta 22, Rik 2
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> या सुरथा रथीतमोभा देवा दिविस्पृशा ।
-> अश्विना ता हवामहे ॥२॥
+> या सु॒रथा॑ र॒थीत॑मो॒भा दे॒वा दि॑वि॒स्पृशा॑ ।
+> अ॒श्विना॒ ता ह॑वामहे ॥२॥
 >
-> *yā surathā rathītamobhā devā divispṛśā |*
-> *aśvinā tā havāmahe ||2||*
+> *yā suráthā rathī́tamobhā́ devā́ divispṛ́śā |*
+> *aśvínā tā́ havāmahe ||2||*
+
+*(Bars under सु, र (रथी), मो, दे and वि (दिवि); strokes over था (सुरथा), त (रथीतमो), दि and शा. Line 2: bars under अ and ना, stroke over ह.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > या । सुऽरथा । रथिऽतमा । उभा । देवा । दिविऽस्पृशा ॥
 > अश्विना । ता । हवामहे ॥२॥
 >
-> *yā | su-rathā | rathi-tamā | ubhā | devā | divi-spṛśā ||*
+> *yā | su 'rathā | rathi 'tamā | ubhā | devā | divi 'spṛśā ||*
 > *aśvinā | tā | havāmahe ||2||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 66; compressed; [?] marks doubtful readings)*
+*(It opens* योभाश्विना देवा*, as printed, quoting the ṛk.)*
 
-> योभावश्विना देवा यावुभावश्विनौ देवौ सुरथा शोभनरथयुक्तौ रथीतमा रथिनां मध्येऽतिशयेन रथिनौ दिविस्पृशा द्युलोकनिवासिनौ ता हवामहे । तादृशावश्विनावाह्वयामहे । येत्यादिष्वष्टसु पदेषु सुपां सुलुगिति द्विवचनस्याकारः । सुरथा । शोभनो रथो ययोस्तौ सुरथौ । समासान्तोदात्तत्वापवादं बहुव्रीहौ पूर्वपदप्रकृतिस्वरं बाधित्वा नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वे प्राप्ते आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वम् । रथीतमा । अन्येषामपि दृश्यत इति संहितायामिकारस्य दीर्घत्वम् । दिविस्पृशा । दिवि स्पृशत इति दिविस्पृशौ । क्विप्चेति क्विप् । तत्पुरुषे कृति बहुलमित्यलुक् । गतिकारकोपपदात्कृदिति कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> योभाश्विना देवा यावुभावश्विनौ देवौ सुरथा शोभनरथयुक्तौ रथीतमा रथिनां मध्येऽतिशयेन रथिनौ दिविस्पृशा द्युलोकनिवासिनौ ता तादृशावश्विनावाह्वयामहे ॥ येत्यादिष्वष्टसु पदेषु सुपां सुलुगिति द्विवचनस्याकारः । सुरथा । शोभनो रथो ययोस्तौ सुरथौ । समासान्तोदात्तत्वापवादं बहुव्रीहौ पूर्वपदप्रकृतिस्वरं बाधित्वा नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वे प्राप्त आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वं । रथीतमा । अन्येषामपि दृश्यत इति संहितायामिकारस्य दीर्घत्वं । दिविस्पृशा । दिवि स्पृशत इति दिविस्पृशौ । क्विप्चेति क्विप् । तत्पुरुषे कृति बहुलमित्यलुक् । गतिकारकोपपदात्कृदिति कृदुत्तरपदप्रकृतिस्वरत्वं ॥
 >
-> *yobhāv aśvinā devā yāv ubhāv aśvinau devau surathā śobhana-ratha-yuktau rathītamā rathināṃ madhye 'tiśayena rathinau divispṛśā dyuloka-nivāsinau tā havāmahe | tādṛśāv aśvināv āhvayāmahe | yety-ādiṣv aṣṭasu padeṣu supāṃ sulug iti dvivacanasyākāraḥ | surathā | śobhano ratho yayos tau surathau | samāsāntodāttatvāpavādaṃ bahuvrīhau pūrvapada-prakṛti-svaraṃ bādhitvā nañ-subhyām ity uttarapadāntodāttatve prāpte ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvam | rathītamā | anyeṣām api dṛśyata iti saṃhitāyām ikārasya dīrghatvam | divispṛśā | divi spṛśata iti divispṛśau | kvip ceti kvip | tatpuruṣe kṛti bahulam ity aluk | gatikārakopapadāt kṛd iti kṛd-uttarapada-prakṛti-svaratvam ||*
+> *yobhāśvinā devā yāvubhāvaśvinau devau surathā śobhanarathayuktau rathītamā rathināṃ madhye 'tiśayena rathinau divispṛśā dyulokanivāsinau tā tādṛśāvaśvināvāhvayāmahe || yetyādiṣvaṣṭasu padeṣu supāṃ sulugiti dvivacanasyākāraḥ | surathā | śobhano ratho yayostau surathau | samāsāntodāttatvāpavādaṃ bahuvrīhau pūrvapadaprakṛtisvaraṃ bādhitvā nañsubhyāmityuttarapadāntodāttatve prāpta ādyudāttaṃ dvyacchandasītyuttarapadādyudāttatvaṃ | rathītamā | anyeṣāmapi dṛśyata iti saṃhitāyāmikārasya dīrghatvaṃ | divispṛśā | divi spṛśata iti divispṛśau | kvipceti kvip | tatpuruṣe kṛti bahulamityaluk | gatikārakopapadātkṛditi kṛduttarapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "The two gods Aśvin who are *surathā* — having a splendid chariot; *rathītamā* — the best of charioteers; *divispṛśā* — dwellers in the sky-world (touching heaven): such as these, the Aśvins, we invoke (*havāmahe*)." The grammar, noted briefly: in the eight words beginning with *yā* the dual ending is *ā* by P. 7-1-39; *surathā* ('those who have a good chariot'; the first-member accent overridden by P. 6-2-172 *nañsubhyām* would give end accent, but the rule that a two-syllable word in the Veda has first-syllable accent [P. 6-2-119 *ādyudāttaṃ dvyac chandasi*] gives first-syllable accent to the final member); *rathītamā* (the *ī* lengthened in the Saṃhitā by P. 6-3-137 *anyeṣām api dṛśyate*); *divispṛśā* ('they who touch heaven'; *kvip*; the locative not dropped, by P. 6-3-14 *tatpuruṣe kṛti bahulam*; the accent of the final member). *(Grammar, noted briefly; the sūtra numerals as read; pointers only.)*
+**Translation:** "*Yā ubhā aśvinā devā*: the two gods, both Aśvins, who are *surathā*, possessed of a fine chariot, *rathītamā*, among charioteers eminently charioteers, *divispṛśā*, dwelling in the world of heaven — *tā*, those two such Aśvins we *havāmahe*, call." (Grammatical tail: in the eight words *yā* etc., the *ā* for the dual by *supāṃ suluk*; *surathā*, 'whose chariot is fine': overriding the first-member accent of a bahuvrīhi, itself an exception to the compound-final udātta, the final udātta of the last member by *nañsubhyām* would come; then the initial udātta of the last member by *ādyudāttaṃ dvyac chandasi*; *rathītamā*, the lengthening of the *i* in the Saṃhitā by *anyeṣām api dṛśyate*; *divispṛśā*, 'they touch heaven', *kvip* by *kvip ca*, the non-dropping (*aluk*) by *tatpuruṣe kṛti bahulam*, the accent of the *kṛt* final member by *gatikārakopapadāt kṛt*.)
 
-**Grammar pages (pp. 68), noted briefly.** The Kannada treats the eight dual words from *yā* to *devā* by P. 7-1-39 *supāṃ sulug…*; *surathā* (*śobhanau rathau yayos tau*; the end accent by *samāsasya* P. 6-1-223 would apply, but as a bahuvrīhi the first-member accent P. 6-2-1 *bahuvrīhau prakṛtyā pūrvapadam*, overridden by P. 6-2-172 *nañsubhyām*; and again by the exceptional first-syllable rule P. 6-2-119 *ādyudāttaṃ dvyac chandasi* since the final member *ratha* — from *ramu krīḍāyām* by the Uṇādi *kthan*, Uṇ. 2-[?], *anudāttopadeśa… anunāsikalopa* P. 6-4-37 dropping the *m* — is a two-syllable word, accented first-syllable by the *n* of the suffix), *rathītamau* (*rathino 'syāstīti rathī* by P. 5-2-115 *ata iniṭhanau*; *tamap* by P. 5-3-55; *nalopaḥ prātipadikāntasya* P. 8-2-7; the *ī* lengthened in the Saṃhitā by P. 6-3-137), *divispṛśā* (*kvip ca* P. 3-2-76 / *satsūdviṣa…* P. 3-2-61: any root may take *kvip* in the Veda as in the world, so *spṛś* + *kvip*; the compound *upapadam atiṅ* P. 2-2-19; *tatpuruṣe kṛti bahulam* P. 6-3-14 keeps the locative *divi* since the *kṛt*-final member is a *saṃjñā* only 'variously'; *gatikārakopapadāt kṛt* P. 6-2-139 for the accent; *spṛś* is end-accented by the root's accent). ॥2॥ *(Outline only; numerals as read; pointers only.)*
+### Page 67 — Rik 2: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 67)*
+**॥ Prati-padārthaḥ ॥**
 
-**या उभा अश्विना देवा (yā ubhā aśvinā devā)** — which two Aśvin deities | **सुरथा (surathā)** — of good chariots | **रथीतमा (rathītamā)** — the best among charioteers | **दिविस्पृशा (divispṛśā)** — dwellers in the world of the gods | **ता (tā)** — such | **हवामहे (havāmahe)** — we invoke.
+**या उभा अश्विना देवा (yā ubhā aśvinā devā)** — both the Aśvin deities who | **सुरथा (surathā)** — who have a fine chariot | **रथीतमा (rathītamā)** — who are best among charioteers | **दिविस्पृशा (divispṛśā)** — who dwell in the world of the gods | **ता (tā)** — both of them (such) | **हवामहे (havāmahe)** — we call.
 
 **॥ Bhāvārthaḥ ॥**
 
-The Aśvin deities have splendid chariots; they are very skilled in driving the chariot, and they dwell in the world of the gods. We invoke those two to the sacrifice.
+The Aśvin deities have a fine chariot, are most able in driving the chariot, and dwell in the world of the gods. We call both such ones to the sacrifice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > We invoke the two Aswins who are both divine, the best of charioteers, dwellers in heaven, riding in an excellant [sic] car.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 67)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**सुरथा (surathā)** — *śobhanarathayuktau*: having a good chariot.
+**सुरथा (surathā)** — *śobhanarathayuktau |* having a fine chariot.
 
-**रथीतमा (rathītamā)** — the best among charioteers; "charioteers" means those who sit in a chariot and fight. Skandasvāmin says *rathītamā sārathitaraḥ ratha ity ucyate*: *atiśayena sārathī* — here *rathī* means 'charioteer' (driver); *rathītamā* — the best among charioteers, or the most skilful in driving the chariot.
+**रथीतमा (rathītamā)** — the best among *rathikas*; *rathikas* are those who fight seated in a chariot. Skandasvāmin explains: *rathītamā* — *sārathir atra rathy ucyate | atiśayena sārathī* — that is, here *rathī* means charioteer; *rathītamā*, best among charioteers, or skilled in driving the chariot.
 
-**दिविस्पृशा (divispṛśā)** — *divi spṛśata iti divispṛśā | divi spraṣṭārau gantārāv ity arthaḥ* — those who touch heaven, who reach it; that is, those who go to the world of heaven, dwellers in heaven.
+> सारथिरत्र रथ्युच्यते । अतिशयेन सारथी ।
+>
+> *sārathiratra rathyucyate | atiśayena sārathī |*
+
+**दिविस्पृशा (divispṛśā)** — *divi spṛśata iti divispṛśau | divi spraṣṭārau gantārāv ity arthaḥ ||* Those who touch, or reach, heaven, that is, those who go to the world of heaven, dwellers in heaven.
+
+> दिवि स्पृशत इति दिविस्पृशौ । दिवि स्प्रष्टारौ गन्तारावित्यर्थः ॥
+>
+> *divi spṛśata iti divispṛśau | divi spraṣṭārau gantārāvityarthaḥ ||*
+
+### Page 68 — Rik 2: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**या (yā)** — and in all eight words beginning with it, for the accusative dual suffix *auṭ*, the substitute *ā* by *supāṃ suluk* (Pā. Sū. 7-1-39). *Śobhanau rathau yayos tau surathau* [as printed]: here by *samāsasya* (Pā. Sū. 6-1-223) the final udātta would be obtained; overriding it, since this is a bahuvrīhi, the first member's own accent would be obtained by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1). Overriding this too, since the last member follows the word *su*, the final udātta of the last member would be obtained by *nañsubhyām* (Pā. Sū. 6-2-172). Since the word *ratha* is initially udātta, by *ādyudāttaṃ dvyac chandasi* (Pā. Sū. 6-2-119), the exception to *nañsubhyām* — in a bahuvrīhi, after the word *su*, a last member of two syllables that is initially udātta stays initially udātta — the last member keeps its initial udātta. After the root *ramu krīḍāyām*, the suffix *kthan* by *hanikuṣinīramikāśibhyaḥ kthan* (U. Sū. 2-[?]); the *m* is dropped by *anudāttopadeśa…* (Pā. Sū. 6-4-37): it becomes *ratha*, initially udātta by the *nit* accent *ñnity ādir nityam*.
+
+**रथीतमौ (rathītamau)** — *rathaḥ anayor astīti rathinau*: by *ata iniṭhanau* (Pā. Sū. 5-2-115) the suffix *ini*. With the analysis *atiśayena rathinau*, by *atiśāyane tamabiṣṭhanau* (Pā. Sū. 5-3-55) *tamap* in the sense of excess; with the internal case-ending as cause *rathin* is a *pada*, and the *n* is dropped by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-2-7). In the Saṃhitā, by *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137), the *i* of the first member is lengthened.
+
+**दिविस्पृशा (divispṛśā)** — *divi spṛśata iti divispṛśau*. By *kvip ca* (Pā. Sū. 3-2-76) — with or without an *upapada*, after all roots, both in the world and in the Veda, the suffix *kvip* is seen — the suffix *kvip*; *satsūdviṣa…* is an elaboration of this. In *divispṛś* a tatpuruṣa compound by *upapadam atiṅ* (Pā. Sū. 2-2-19). By *tatpuruṣe kṛti bahulam* (Pā. Sū. 6-3-14) — in a tatpuruṣa, when a last member ending in a *kṛt* follows, the locative ending variously is not dropped when a name is meant — the locative in *divi* is not dropped; the intention is that by the word *bahula* the *aluk* comes here even though no name is meant. By *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) — in a tatpuruṣa, a word ending in a *kṛt* after a *gati*, a *kāraka* or an *upapada* keeps its own accent — the accent of the *kṛt* final member comes. *Spṛś* is final udātta by the root accent; *spṛśa saṃsparśane* is the root. ॥2॥
+
+---
 
 ### Pages 69–71 — Sūkta 22, Rik 3
 
