@@ -15549,82 +15549,165 @@ usage, it may be said that the sandhi comes as an *ārṣa* form. In any case, w
 
 ---
 
-### Pages 723–727 — Sūkta 17, Rik 4 (meter Pādanicṛt)
+### Page 723 (lower) — Sūkta 17, Rik 4 (metre *pādanicṛt*)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> युवाकु हि शचीनां युवाकु सुमतीनाम् ।
-> भूयाम वाजदाव्नाम् ॥४॥
+> यु॒वाकु॒ हि शची॑नां यु॒वाकु॑ सुमती॒नाम् ।
+> भू॒याम॑ वाज॒दाव्ना॑म् ॥४॥
 >
-> *yuvāku hi śacīnāṃ yuvāku sumatīnām |*
-> *bhūyāma vājadāvnām ||4||*
+> *yuvā́ku hí śácīnāṃ yuvā́ku sumatīnā́m |*
+> *bhūyā́ma vājadā́vnām ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > युवाकु । हि । शचीनाम् । युवाकु । सुऽमतीनाम् ॥
 > भूयाम । वाजऽदाव्नाम् ॥४॥
 >
-> *yuvāku | hi | śacīnām | yuvāku | su-matīnām ||*
-> *bhūyāma | vāja-dāvnām ||4||*
+> *yuvāku | hi | śacīnām | yuvāku | su 'matīnām ||*
+> *bhūyāma | vāja 'dāvnām ||4||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 723; compressed; [?] marks doubtful readings)*
+*(The Uṇādi number ३-७७ is read with some doubt; the grammar page has "3-362" [?]. वसतीवर्येकधन… is as printed here; the Special Topics print …एकधाना….)*
 
-> हि यस्मात्कारणाच्छचीनामस्मदीयकर्मणां सम्बन्धि सोमरूपं हविर्युवाकु वसतीवर्येकधनात्मकैरुदकैः पयःसक्त्वादिद्रव्यान्तैश्च मिश्रितं [?] । तथा सुमतीनां शोभनबुद्धियुक्तानामृत्विजां स्तोत्ररूपं वचनमपि युवाकु नानाविधैः स्तुत्यगुणैर्मिश्रितम् । तस्मात्कारणात् हे इन्द्रावरुणौ तथाविधं हविः स्वीकुर्वतोर्युवयोः प्रसादाद्वयं वाजदाव्नामन्नप्रदानां पुरुषाणां मध्ये मुख्या भूयाम । भवेम । आपोज्योतिरित्यादिषु षट्त्रिंशत्सङ्ख्याकेषु कर्मनामसु शची शमीति पठितम् ॥ युवाकु । यु मिश्रणे । कटिकुषिभ्यां काकुः [?] । उ. [३-४२?] । इत्यत्र बाहुलकाद्यतेरपि काकुः प्रत्ययः । … शचीनाम् । शचीशब्दः केषांचिन्मते शार्ङ्गरवादिः ङीन् । नित्त्वाद्याद्युदात्तः [?] … सुमतीनाम् । विद्याम सुमतीनाम् । ऋ. सं. [१-४-३] । इत्युक्तम् । भूयाम । भू सत्तायाम् । प्रार्थनायां लिङ् । उत्तमपुरुषबहुवचनं मस् । … यासुट् परस्मैपदेषूदात्तो ङिच्च । पा. [३-४-१०३] । इति यासुडागमः … सकारलोपः । … वाजदाव्नाम् । वाजं ददतीति वाजदाव्नः । आतो मनिन्क्वनिब्वनिपश्च । पा. [३-२-७४] । इति वनिप् । … ।
+> हि यस्मात्कारणाच्छचीनामस्मदीयकर्मणां संबन्धि सोमरूपं हविर्युवाकु वसतीवर्येकधनात्मकैरुदकैः पयःसक्त्वादिद्रव्यान्तरैश्च मिश्रितम् । तथा सुमतीनां शोभनबुद्धियुक्तानामृत्विजां स्तोत्ररूपं वचनमपि युवाकु नानाविधैः स्तुत्यगुणैर्मिश्रितम् । तस्मात्कारणात् हे इन्द्रावरुणौ तथाविधं हविः स्वीकुर्वतोर्युवयोः प्रसादाद्वयं वाजदाव्नामन्नप्रदानां पुरुषाणां मध्ये मुख्या भूयाम । भवेम । अपोऽप्न इत्यादिषु षड्विंशतिसंख्याकेषु कर्मनामसु शचीशमीति पठितम् ॥ युवाकु । यु मिश्रणे । कटिकुषिभ्यां काकुः । उ. ३-७७ । इत्यत्र बाहुलकाद्यौतेरपि काकुः प्रत्ययः । कित्त्वेन गुणाभावादुकारस्योवङादेशः । प्रत्ययस्वरेण मध्योदात्तत्वम् । शचीशब्दः केषांचिन्मते शार्ङ्गरवादिः । ङीनन्तो नित्त्वादाद्युदात्तः । पा. ४-१-७३ । इत्युभे वनस्पत्यादिषु युगपदित्यत्र । का. ६-२-१४० । वृत्तिकृतोक्तम् । सुमतीनाम् । विद्याम सुमतीनाम् । ऋग्वे. १-४-३ । इत्यत्रोक्तम् । भूयाम । प्रार्थनायां लिङ् । उत्तमबहुवचने नित्यं ङित इति सकारलोपः । यासुट् परस्मैपदेषूदात्तो ङिच्च । पा. ३-४-१०३ । इत्युदात्तो यासुडागमः । लिङः सलोपोऽनन्त्यस्य । पा. ७-२-७९ । इति सकारलोपः । बहुलं छन्दसीति शपो लुक् । सतिशिष्टत्वाद्यासुडुदात्त एव शिष्यते । वाजदाव्नाम् । वाजं ददातीति वाजदावानः । आतो मनि-
 >
-> *hi yasmāt kāraṇāc chacīnām asmadīya-karmaṇāṃ sambandhi soma-rūpaṃ havir yuvāku vasatīvary-ekadhanātmakair udakaiḥ payaḥ-saktv-ādi-dravyāntaiś ca miśritaṃ [?] | tathā sumatīnāṃ śobhana-buddhi-yuktānām ṛtvijāṃ stotra-rūpaṃ vacanam api yuvāku nānā-vidhaiḥ stutya-guṇair miśritam | tasmāt kāraṇāt he indrāvaruṇau tathā-vidhaṃ haviḥ svīkurvatoḥ yuvayoḥ prasādād vayaṃ vājadāvnām anna-pradānāṃ puruṣāṇāṃ madhye mukhyā bhūyāma | bhavema | āpo-jyotir ity-ādiṣu ṣaṭtriṃśat-saṅkhyākeṣu karma-nāmasu śacī śamī iti paṭhitam || yuvāku | yu miśraṇe | kaṭi-kuṣibhyāṃ kākuḥ [?] | u. [3-42?] | ity atra bāhulakād yater api kākuḥ pratyayaḥ | … śacīnām | śacī-śabdaḥ keṣāṃcin mate śārṅgaravādiḥ ṅīn | nittvād ādyudāttaḥ [?] … sumatīnām | vidyāma sumatīnām | ṛ. saṃ. [1-4-3] | ity uktam | bhūyāma | bhū sattāyām | prārthanāyāṃ liṅ | uttama-puruṣa-bahuvacanaṃ mas | … yāsuṭ parasmaipadeṣūdātto ṅicca | pā. [3-4-103] | iti yāsuḍāgamaḥ … sakāralopaḥ | … vājadāvnām | vājaṃ dadatīti vājadāvnaḥ | āto maninkvanibvanipaś ca | pā. [3-2-74] | iti vanip | …*
+> *hi yasmātkāraṇācchacīnāmasmadīyakarmaṇāṃ saṃbandhi somarūpaṃ haviryuvāku vasatīvaryekadhanātmakairudakaiḥ payaḥsaktvādidravyāntaraiśca miśritam | tathā sumatīnāṃ śobhanabuddhiyuktānāmṛtvijāṃ stotrarūpaṃ vacanamapi yuvāku nānāvidhaiḥ stutyaguṇairmiśritam | tasmātkāraṇāt he indrāvaruṇau tathāvidhaṃ haviḥ svīkurvatoryuvayoḥ prasādādvayaṃ vājadāvnāmannapradānāṃ puruṣāṇāṃ madhye mukhyā bhūyāma | bhavema | apo 'pna ityādiṣu ṣaḍviṃśatisaṃkhyākeṣu karmanāmasu śacīśamīti paṭhitam || yuvāku | yu miśraṇe | kaṭikuṣibhyāṃ kākuḥ | u. 3-77 | ityatra bāhulakādyauterapi kākuḥ pratyayaḥ | kittvena guṇābhāvādukārasyovaṅādeśaḥ | pratyayasvareṇa madhyodāttatvam | śacīśabdaḥ keṣāṃcinmate śārṅgaravādiḥ | ṅīnanto nittvādādyudāttaḥ | pā. 4-1-73 | ityubhe vanaspatyādiṣu yugapadityatra | kā. 6-2-140 | vṛttikṛtoktam | sumatīnām | vidyāma sumatīnām | ṛgve. 1-4-3 | ityatroktam | bhūyāma | prārthanāyāṃ liṅ | uttamabahuvacane nityaṃ ṅita iti sakāralopaḥ | yāsuṭ parasmaipadeṣūdātto ṅicca | pā. 3-4-103 | ityudātto yāsuḍāgamaḥ | liṅaḥ salopo 'nantyasya | pā. 7-2-79 | iti sakāralopaḥ | bahulaṃ chandasīti śapo luk | satiśiṣṭatvādyāsuḍudātta eva śiṣyate | vājadāvnām | vājaṃ dadātīti vājadāvānaḥ | āto mani-*
 
-**Translation:** "Because (*hi*) the soma-oblation belonging to our rites (*śacīnām*) is *yuvāku* — mixed — with waters called *vasatīvarī* [the water used at the soma pressing] and with milk, flour (*saktu*) and other substances [the clause is partly unclear, marked [?]]; and likewise the words of praise of the priests of good mind (*sumatīnām*) are *yuvāku* — mingled with praise of many kinds of qualities: therefore, O Indra and Varuṇa, by the favour of you two who accept such an oblation, may we become (*bhūyāma*) the foremost among those who give food (*vājadāvnām*). Among the thirty-six words for 'action' beginning with *āpaḥ*, *śacī* is read [Nighaṇṭu 2-1, cited 'ni. 2-1' in the Kannada; the numerals are as read [?]]." The rest is grammar, noted briefly: *yuvāku* (*yu* "to mix" with the Uṇādi *kāku*, which the Kannada gives as *kaṭikuṣibhyāṃ kākuḥ* [?] — by *bāhulaka* extended also to *yu*; first-syllable accent by the suffix); *śacīnām* (*śacī* by some in the *śārṅgaravādi* list, with *ṅīn*); *sumatīnām* (explained at Rik 1.4.3 [*vidyāma sumatīnām*]); *bhūyāma* (*bhū* "to be", the *liṅ* of prayer, first plural *mas*, the augment *yāsuṭ* by P. 3-4-103 and the loss of *s*); *vājadāvnām* (*vāja* + *dā* + *vanip* by P. 3-2-74 *ato manin-kvanib-vanipaś ca*). *(Grammar, noted briefly; the Uṇādi number is uncertain.)*
+### Page 724 — Rik 4: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 726 lower to 727), noted briefly.** The Kannada treats: *yuvāku* (*yu miśraṇe*; Uṇ. *kaṭikuṣibhyāṃ kākaḥ* [the Kannada discusses that *kaṭ* 'to cover' and *kuṣ* 'to tear' are the roots of that sūtra; some read *kaṭikuśibhyāṃ*, a reading that does not suit *kapāka* [?]; with *bāhulaka* the suffix *kāku* is added after *yu* also; the *k* of *kāku* is *it*, so no guṇa; *acchnudhātu* [*aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*] P. 6-4-77 gives *uv* for *u* before a vowel-initial suffix; *yu* + *aku* → *yuvāku*; the first syllable is accented by *ādyudāttaś ca* P. 3-1-3 which accents the first vowel of a suffix; so *yuvāku* is middle-accented), *śacīnām* (*śacī* — from *śac* — in the *śārṅgaravādi* group [by the view of some]; *ñīn* — *śārṅgaravādibhyo ṅīn* P. 4-1-73; the suffix has *ñ* so *ñnityādir nityam* P. 6-1-197 gives first-syllable accent; the Kāśikā's *vṛtti* says in the sūtra *ubhe vanaspatyādiṣu yugapat* P. 6-2-140 that *śacī* has first-syllable accent), *sumatīnām* (explained at 1.4.3 [*vidyāma sumatīnām*]), *bhūyāma* (*bhū sattāyām* with the *liṅ* of prayer, first plural *mas*; the *s* dropped by P. 3-4-97 *nityaṃ ṅitaḥ*; *yāsuṭ* P. 3-4-103; *yāsuṭ* is *ṭit*, hence the first part of the suffix; the *u* of *bhū* + *yāsa* → *bhūyāsma*; *sārvadhātukam apit*; *liṅaḥ salopo 'nantyasya* P. 7-2-79 drops the *s* of *yāsuṭ*; *śap* (here by *bahulaṃ chandasi* *luk*); *sati śiṣṭatve* [the paribhāṣā that the accent of the *śiṣṭa* is stronger]; the Kannada concludes the stronger accent remains), *vājadāvnām* (*vājam dadati iti*; *vāja* is the object-word, *dā* + *vanip* by P. 3-2-74 [which in the Veda applies even with an *upasarga* or *upapada*]; *vāja* + *dāvan*, *kṛttaddhita…* P. 1-2-46 gives the name *prātipadika*; *supo dhātuprātipadikayoḥ* P. 2-4-71 drops the case-ending; *vanip* is *pit*, so unaccented by P. 3-1-4, while *dā* has the accent of its root; *vājam* + *dāvan* by P. 3-2-19 *upapadam atiṅ*; then *gatikārakopapadāt kṛt* P. 6-2-139 gives the accent of the final member; the genitive plural *ām*; *vājadāvan* + *ām*; *ñibhaṃ* P. 1-4-18 *yaci bham* gives the name *bha*; *āllopo 'nasya* P. 6-4-134 drops the *a* of *an* of the stem when it is *bha* — hence *vājadāv-n-ām*; the *n* of *an* [*vājadāvan*, here *n* + *ām*]; *lopo vyor vali* P. 6-1-66 would drop the *v* before a consonant [*n*], but *acaḥ parasmin pūrvavidhau* P. 1-1-57 makes the dropped *a* a *sthānivat* for purposes of the preceding rules; so the *v* is not dropped: *vājadāvnām*). ॥4॥ *(A crowded run; outline only; numerals as read from small print; pointers only.)*
+> न्नित्यादिना वनिप् । तस्य पित्त्वाद्धातुस्वर एव शिष्यते । समासे कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते । अल्लोपोऽनः । पा. ६-४-१३४ । इत्यकारलोपः । तस्याचः परस्मिन्निति स्थानिवद्भावाल्लोपो व्योर्वलीति वकारलोपो न भवति ॥
+>
+> *nnityādinā vanip | tasya pittvāddhātusvara eva śiṣyate | samāse kṛduttarapadaprakṛtisvaratvena sa eva śiṣyate | allopo 'naḥ | pā. 6-4-134 | ityakāralopaḥ | tasyācaḥ parasminniti sthānivadbhāvāllopo vyorvalīti vakāralopo na bhavati ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 724)*
+**Translation:** "Because the oblation in the form of soma belonging to *śacīnām*, our rites, is *yuvāku*, mixed with waters, the *vasatīvarī* and *ekadhana*, and with other substances such as milk and barley meal; and likewise the speech in the form of praise of the priests *sumatīnām*, with good minds, is *yuvāku*, mixed with various qualities to be praised; for that reason, O Indra and Varuṇa, by the grace of you two who accept such an oblation, may we *bhūyāma*, become, chief among *vājadāvnām*, men who give food. *Śacī* is read among the twenty-six action words beginning *apaḥ*, *apnaḥ*." (Grammatical tail: *yuvāku*, *yu miśraṇe*, the suffix *kāku* of *kaṭikuṣibhyāṃ kākuḥ* (Uṇ. 3-77 [?]) after *yu* too by *bāhulaka*, no *guṇa* as it is *kit*, *uvaṅ* for the *u*, middle udātta by the suffix accent; *śacī*, in some views of the *śārṅgarava-ādi*, ending in *ṅīn*, initial udātta as *nit* (Pā. 4-1-73), as the Vṛtti says on *ubhe vanaspatyādiṣu yugapat* (Kā. 6-2-140); *sumatīnām*, explained at Ṛgveda 1-4-3; *bhūyāma*, *liṅ* of prayer, the *s* lost by *nityaṃ ṅitaḥ*, the udātta augment *yāsuṭ* by Pā. 3-4-103, the *s* lost by Pā. 7-2-79, *śap* dropped by *bahulaṃ chandasi*, the udātta of *yāsuṭ* stays as *satiśiṣṭa*; *vājadāvnām*, "they give *vāja*", *vanip* by *āto maninn…*, the root accent as it is *pit*, which stays in the compound by the accent of the *kṛt* final member; the *a* lost by Pā. 6-4-134, and since that loss is *sthānivat* by *acaḥ parasmin*, the *v* is not lost by *lopo vyor vali*.)
 
-**हि (hi)** — because | **शचीनाम् (śacīnām)** — of the [rites] done by us (the *soma*-oblation relating to them) | **युवाकु (yuvāku)** — [it is] mixed with milk, flour and other substances | **सुमतीनाम् (sumatīnām)** — of the priests of good understanding (their praises) | **युवाकु (yuvāku)** — [they are] joined with various qualities | **वाजदाव्नाम् (vājadāvnām)** — among those who give food (the oblation) | **भूयाम (bhūyāma)** — may we be [accepted, by the grace of you who have accepted our oblation].
+**॥ Prati-padārthaḥ ॥**
+
+**हि (hi)** — because | **शचीनाम् (śacīnām)** — of the rites (we perform) (the oblation in the form of soma belonging to them) | **युवाकु (yuvāku)** — is joined with substances such as milk and barley meal | **सुमतीनाम् (sumatīnām)** — of those with pure minds (the praise of the priests) | **युवाकु (yuvāku)** — is joined with the various qualities (that hymns should have) (so we) | **वाजदाव्नाम् (vājadāvnām)** — among those who give food (oblations) (as foremost) | **भूयाम (bhūyāma)** — may we be (by the grace of you who have accepted the oblation we gave).
 
 **॥ Bhāvārthaḥ ॥**
 
-The oblation we offer to you is mingled with milk, flour and other substances; and the priests praise you with praises full of manifold excellences. Satisfied with these two, make us foremost among the givers of food, or the best of givers.
+What we offer you as oblation is joined with substances such as milk and barley meal, and the priests praise you as possessed of various excellent qualities. Pleased by both, you should make us chief, or best, among the givers of food.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The mingled libations of our pious rites, the different praises of our right-minded priests are prepared; may we be included among the givers of food.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 724–726)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**युवाकु (yuvāku)** — *vasatīvarī-ekadhanātmakair udakaiḥ payaḥ-saktv-ādi-dravyāntaiś ca miśritam*: the commentator here explains the word as "mixed with water, milk and *saktu* (meal), and the like, prepared for the soma-offering". Its second occurrence in the rik means a mingling of praises, or the rendering "a union of various kinds of praises". And in the following riks the word *yuvāku* is used:
+**Yuvāku**:
 
-> अश्विना मधुषुत्तमो युवाकुः सोमस्तं पातमा गतं दुरोणे । (ऋ. सं. [२-४६?-?])
-> *aśvinā madhuṣuttamo yuvākuḥ somas taṃ pātam ā gataṃ duroṇe | (ṛ. saṃ. [?])*
+> वसतीवर्येकधानात्मकैरुदकैः पयःसक्त्वादिद्रव्यान्तरैश्च मिश्रितम् ।
 >
-> ता विद्वांसा हवामहे वां ता नो विद्वांसा मन्म वोचेतमद्य । प्रार्चद्दयमानो युवाकुः ॥ (ऋ. सं. [१-१२०-३ ?])
-> *tā vidvāṃsā havāmahe vāṃ tā no vidvāṃsā manma vocetam adya | prārcad dayamāno yuvākuḥ || (ṛ. saṃ. [1-120-3 ?])*
+> *vasatīvaryekadhānātmakairudakaiḥ payaḥsaktvādidravyāntaraiśca miśritam |*
+
+The commentator here explains this word as the oblation made ready for the homa by mixing water, milk and barley meal (flour). For the word *yuvāku* in its second occurrence he explains it as a mixture of hymns, or a collection of various hymns. Further, in the ṛk
+
+> अश्विना मधुषुत्तमो युवाकुः सोमस्तं पातमा गतं दुरोणे । (ऋ. सं. ३-५८-९)
 >
-> दुहीयन्मित्रधितये युवाकु रायेच नो मिमीतं वाजवत्यै । (ऋ. सं. [१-१२०-८ ?])
-> *duhīyan mitradhitaye yuvāku rāye ca no mimītaṃ vājavatyai | (ṛ. saṃ. [1-120-8 ?])*
+> *aśvinā madhuṣuttamo yuvākuḥ somastaṃ pātamā gataṃ duroṇe | (ṛ. saṃ. 3-58-9)*
+
+("Aśvins, the soma sweetest-pressed is *yuvāku*; drink it, come to the house": mine and tentative.)
+
+### Page 725 — Rik 4: Special Topics
+
+for the word *yuvākuḥ* in it,
+
+> युवां कामयमानो वर्तते । यद्वा युवाकुर्वसतीवरीप्रभृतिभिर्मिश्रित इत्यर्थः ॥
 >
-> धामानि मित्रावरुणा युवाकुः सं यो यूथेव जनिमानि चष्टे । (ऋ. सं. [२-४०?-?])
-> *dhāmāni mitrāvaruṇā yuvākuḥ saṃ yo yūtheva janimāni caṣṭe | (ṛ. saṃ. [?])*
+> *yuvāṃ kāmayamāno vartate | yadvā yuvākurvasatīvarīprabhṛtibhirmiśrita ityarthaḥ ||*
+
+("It is there desiring you two; or, *yuvākuḥ* means mixed with the *vasatīvarī* waters and the rest.") That is, he gives both the sense "desiring you, or wanted by you" and the sense of mixing stated above. Further:
+
+> ता विद्वांसा हवामहे वां ता नो विद्वांसा मन्म वोचेतमद्य । प्रार्चद्दयमानो युवाकुः ॥ (ऋ. सं. १-१२०-३)
 >
-> आवोर्वां नूनमश्विना युवाकुर्हुवे यद्वां सुते माध्वी वसूयुः । (ऋ. सं. [२-४२?-४])
-> *āvor vāṃ nūnam aśvinā yuvākur huve yad vāṃ sute mādhvī vasūyuḥ | (ṛ. saṃ. [?])*
+> *tā vidvāṃsā havāmahe vāṃ tā no vidvāṃsā manma vocetamadya | prārcaddayamāno yuvākuḥ || (ṛ. saṃ. 1-120-3)*
+
+("We call on you two, the wise ones; may you two, the wise, speak to us today a thought; the one desiring you, praising, worshipping …": mine and tentative.)
+
+> डुहीयन्मित्रधितये युवाकु राये च नो मिमीतं वाजवत्यै । (ऋ. सं. १-१२०-९)
 >
-> उत त्यं भुज्युमश्विना सखायो मध्ये जहुर्दुरेवासः समुद्रे । निरीं पर्षदरावा यो युवाकुः ॥ (ऋ. सं. [२-४८?-२])
-> *uta tyaṃ bhujyum aśvinā sakhāyo madhye jahur durevāsaḥ samudre | nir īm parṣad arāvā yo yuvākuḥ || (ṛ. saṃ. [?])*
+> *ḍuhīyanmitradhitaye yuvāku rāye ca no mimītaṃ vājavatyai | (ṛ. saṃ. 1-120-9)*
 
-*(The mantra texts above are as I read the Kannada print; the numerals of every reference are small and I mark them all [?], as they are incompletely read. The English glosses of these riks are not given in the source.)* In these riks the commentator has taken *yuvāku* as "desiring you" [*yuvāṃ kāmayamānaḥ*], that is, "one who seeks you" or "one for whom you are desirable", besides the sense "mixture" given above; but there seems to be some one fixed meaning proper to this word.
+("… desiring you, for the setting of a friend; measure out for us wealth rich in strength": mine and tentative.)
 
-**शचीनाम् (śacīnām)** — among the *śloka*-words beginning with *dharā* [*dharā*…], *śacī* is read in the list of the fifty-seven [?] words for speech (*vāṅnāma*) (Ni. [1-11 ?]); so *śacī* means "speech". Again, *śacī* is read among the words for 'action' (*karma-nāma*), beginning with *apaḥ*, *aḥnaḥ* (Ni. [2-1 ?]), so it also means "action". Again, among the thirteen words for 'wisdom' (*prajñā*) beginning with *ketaḥ*, *ketu* (Ni. [3-9 ?]), *śacī* is read, so it also means "intellect". Though *śacī* thus has three senses — speech, action, intellect — the commentator gives primacy here to "action". Yāska too, with the rik
+> धामानि मित्रावरुणा युवाकुः सं यो यूथेव जनिमानि चष्टे । (ऋ. सं. ७-६०-३)
+>
+> *dhāmāni mitrāvaruṇā yuvākuḥ saṃ yo yūtheva janimāni caṣṭe | (ṛ. saṃ. 7-60-3)*
 
-> त्रयः केशिन ऋतुथा विचक्षते संवत्सरे वपत एक एषाम् । विश्वमेको अभि चष्टे शचीभिर्ध्राजिरेकस्य ददृशे न रूपम् ॥
-> *trayaḥ keśina ṛtuthā vicakṣate saṃvatsare vapata eka eṣām | viśvam eko abhi caṣṭe śacībhir dhrājir ekasya dadṛśe na rūpam || (ṛ. saṃ. [1-164-44])*
+("Mitra and Varuṇa, the one desiring you, who surveys the abodes, the races, like herds": mine and tentative.)
 
-(three long-haired ones, who look on [the world] by the seasons; in the year one of them shaves; one looks at the whole [world] with his *śacī*; the course of one is seen, but not his form) — while explaining it says *viśvam eko 'bhi vipaśyati karmabhir* ("the one looks at all by his acts"), giving the sense "action" to *śacī*; and in explaining a rik in context, one may take any of the three senses of *śacī* as needed.
+> अवोर्वां नूनमश्विना युवाकुर्हुवे यद्वां सुते माध्वी वसूयुः । (ऋ. सं. ७-६७-४)
+>
+> *avorvāṃ nūnamaśvinā yuvākurhuve yadvāṃ sute mādhvī vasūyuḥ | (ṛ. saṃ. 7-67-4)*
 
-**सुमतीनाम् (sumatīnām)** — *śobhana-buddhi-yuktānām ṛtvijām*: of the priests with good intelligence; or of the people with good minds.
+("… Aśvins, the one desiring you, I call, when at your pressing, O sweet ones, seeking goods": mine and tentative.)
 
-**वाजदाव्नाम् (vājadāvnām)** — *vājam annaṃ dadātīti vājadāvānaḥ teṣām*: of those who give food, or offering. The commentator supplies the word *mukhyāḥ* ("chief") to complete the sense: "among those who give [i.e. offer] the chief ones". On the whole, the sense of this rik is somewhat disjointed; the meaning is not quite clear.
+> उत त्यं भुज्युमश्विना सखायो मध्ये जहुर्दुरेवासः समुद्रे । निरीं पर्षदरावा यो युवाकुः ॥ (ऋ. सं. ७-६८-७)
+>
+> *uta tyaṃ bhujyumaśvinā sakhāyo madhye jahurdurevāsaḥ samudre | nirīṃ parṣadarāvā yo yuvākuḥ || (ṛ. saṃ. 7-68-7)*
+
+("And that Bhujyu, Aśvins, his ill-going companions left in the middle of the sea; the hostile one who is yours shall bring him across": mine and tentative.)
+
+In these ṛks the commentator gives for the word *yuvākuḥ* the sense *yuvāṃ kāmayamānaḥ*, desiring you, or wanted by you. Yet it seems the word should have some definite sense.
+
+*(डुहीयन् and अवोर्वां are as read; the first letters are not clear [?].)*
+
+**Śacīnām**: since the word *śacī* is read among the fifty-seven words for speech, *ślokaḥ*, *dharā* and so on (Ni. "2-23" [as read, ?]), *śacī* means speech. And since it is read among the twenty-six action-names, *apaḥ*, *apnaḥ* and so on (Ni. "3-2" [as read, ?]), it also means action. Since it is read among the eleven names of intelligence, *ketaḥ*, *ketu* and so on (Ni. "3-13" [as read, ?]), it also means intelligence. So though the word *śacī* has three senses, speech, action and intelligence, here the commentator has given first place to the sense action. Yāska too,
+
+> त्रयः केशिन ऋतुथा विचक्षते संवत्सरे वपत एक एषाम् । विश्वमेको अभि चष्टे शचीभिर्ध्राजिरेकस्य ददृशे न रूपम् ॥ (ऋ. सं. १-१६४-४४)
+>
+> *trayaḥ keśina ṛtuthā vicakṣate saṃvatsare vapata eka eṣām | viśvameko abhi caṣṭe śacībhirdhrājirekasya dadṛśe na rūpam || (ṛ. saṃ. 1-164-44)*
+
+("Three long-haired ones look out in season; one of them shears in the year; one surveys all with his powers; of one the rush is seen, not the form": mine and tentative.)
+
+### Page 726 — Rik 4: Special Topics (end) and grammar
+
+explaining this ṛk, for *viśvam eko abhi caṣṭe śacībhiḥ*
+
+> सर्वमेकोऽभिविपश्यति कर्मभिरादित्यः
+>
+> *sarvameko 'bhivipaśyati karmabhirādityaḥ*
+
+("The one, the Sun, looks over all with his actions", Ni. "12-27" [?]), gives the word *śacī* the sense action. In giving the sense of the present ṛk, any one of the three senses of *śacī* may be taken.
+
+**Sumatīnām**:
+
+> शोभनबुद्धियुक्तानामृत्विजाम् ।
+>
+> *śobhanabuddhiyuktānāmṛtvijām |*
+
+("Of the priests with good minds.") Of the priests who are well endowed with intelligence, or of intelligent people.
+
+**Vājadāvnām**:
+
+> वाजमन्नं ददतीति वाजदावानस्तेषाम् ।
+>
+> *vājamannaṃ dadatīti vājadāvānasteṣām |*
+
+("They give *vāja*, food: of them.") To give the sense "chief among those who give food or oblations (who offer them)", the commentator has supplied the word "chief". On the whole the sense of this ṛk is very tangled; the sense is not clear.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 726–727, noted briefly)*
+
+**युवाकु (*yuvāku*)**: the root *yu miśraṇe*. "Kaṭikuṣibhyāṃ kākuḥ" (Uṇ. sū. "3-362" [?]): the sense of this sūtra is that the suffix *kāku* comes after the roots *kaṭe varṣāvaraṇayoḥ* and *kuṣa niṣkarṣe*. Some read this sūtra as *kaṭhi kuṣibhyāṃ kākuḥ*; in their view the root *kaṭha kṛcchrajīvane* is to be taken. Here Ujjvaladatta, keeping the reading *kaṭikaṣibhyām*, says the root *kaṣa śiṣa* read in the *daṇḍaka* is meant, and shows the example *kaṣākuḥ*. *Kuṣākuḥ* conflicts with the Medinī-kośa "*kapivahnyarke*" [as printed]. Be that as it may: here, by the word *bahula*, the suffix *kāku* comes after the root *yu* too. The *k* of the suffix is *it*, so no *guṇa*. *Yu* + *āku*: by "aci śnudhātu…" (Pā. sū. 6-4-77) the substitute *uvaṅ*: *yuvāku*. By "ādyudāttaś ca" (Pā. sū. 3-1-3) the *ā* at the start of the suffix is udātta; so *yuvāku* is middle udātta.
+
+**शचीनाम् (*śacīnām*)**: "*śacīśabdaḥ keṣāṃcin mate śārṅgaravādiḥ ṅīnantaḥ, nittvād ādyudāttaḥ*", says the Vṛttikāra on "ubhe vanaspatyādiṣu yugapat" (Pā. sū. 6-2-140). Some say that, since *śacī* is read among the words of the *śārṅgarava-ādi* group, the suffix *ṅīn* comes; the suffix is *ñit*, so by "ñnityādir nityam" (Pā. sū. 6-1-197) the suffix-final *śacī* is initial udātta: so the Kāśikā Vṛttikāra says in the sūtra *ubhe vanaspatyādiṣu yugapat*. So the word *śacī* is initial udātta.
+
+**सुमतीनाम् (*sumatīnām*)**: this is explained at "vidyāma sumatīnām" (Ṛ. saṃ. 1-4-3).
+
+### Page 727 — Rik 4: grammar (end)
+
+**भूयाम (*bhūyāma*)**: the root *bhū sattāyām*. After it, in the sense of prayer, *liṅ*; 1st plural *mas*: *bhū* + *mas*. By "nityaṃ ṅitaḥ" (Pā. sū. 3-4-99) the *s* drops. By "yāsuṭ parasmaipadeṣūdātto ṅic ca" (Pā. sū. 3-4-103) the augment *yāsuṭ* for the *liṅ*; being *ṭit*, it comes as the first part by "ādyantau ṭakitau" (Pā. sū. 1-1-46): *bhū* + *yās* + *ma*. By "liṅaḥ salopo 'nantyasya" (Pā. sū. 7-2-79) (the non-final *s* belonging to a *liṅ* called *sārvadhātuka* drops) the *s* drops: *bhū* + *yāma*. The *vikaraṇa* *śap*, come by *kartari śap*, takes *luk* by *bahulaṃ chandasi*. The udātta enjoined for the augment *yāsuṭ* is *satiśiṣṭa*; by "satiśiṣṭasvarabalīyastvaṃ ca" (Pā. Ma. 6-1-158), being the stronger, it alone stays.
+
+**वाजदाव्नाम् (*vājadāvnām*)**: *vājaṃ dadati iti vājadāvānaḥ*. With *vāja*, denoting the object, as *upapada*, after the root *dāñ*, by "āto maninkvanibvanipaś ca" (Pā. sū. 3-2-74) (after an *ā*-final root, in the Veda, the suffixes *manin*, *kvanip* and *vanip* come, whether a *subanta* or a preverb is the *upapada*) *vanip* comes: *vāja* + *am* + *dā* + *van*. This is a *kṛdanta*; by *kṛttaddhitasamāsāś ca* it is called *prātipadika*; by *supo dhātuprātipadikayoḥ* *luk* for the *am*. *Vanip* being *pit*, it is unaccented by *anudāttau suppitau*; *dā* is udātta by the root accent. After *vāja* is compounded with the *kṛdanta* *dāvan* by "upapadam atiṅ" (Pā. sū. 2-2-19), by "gatikārakopapadāt kṛt" (Pā. sū. "9-2-139" [as printed, for 6-2-139]) the accent of the *kṛt* final member comes and stays. After it the genitive plural *ām*: *vājadāvan* + *ām*. The part before this suffix is called *bha* by "yaci bham" (Pā. sū. 1-4-18). By "allopo 'naḥ" (Pā. sū. 6-4-134) (the short *a* of an *an* that is part of the *aṅga* and stands immediately before a *y*- or vowel-initial *svādi* suffix not called *sarvanāmasthāna* drops) the *a* of the final *an* in *vājadāvan* drops: *vājadāv* + *n* + *ām*. Now, since the *val* *n* follows, the loss of *v* would come by "lopo vyor vali" (Pā. sū. 6-1-66). But the *a*-loss that has come here is *sthānivat* by "acaḥ parasmin pūrvavidhau" (Pā. sū. 1-1-57): the sense of this sūtra is that a substitute that has come in place of a vowel, conditioned by what follows, is treated as the original when an operation is made on what is seen before the original. Here the original is *a*, what is seen before it is *v*; when the loss operation is made on it, the loss, which came in place of the vowel *a* and is conditioned by the following *ām*, is *sthānivat*; that is, it is as if the original were there. So, because the *a* intervenes, the *v* is not dropped by *lopo vyor vali*: *vājadāvnām*.
+
+**॥४॥**
+
+---
 
 ### Pages 728–732 — Sūkta 17, Rik 5 (meter Pādanicṛt)
 
