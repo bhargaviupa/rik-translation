@@ -7997,13 +7997,13 @@ Indra is the lord of wealth and splendour; he is worthy of being praised with �
 
 > ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
 > *ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām ||*
-> (Ṛgveda Saṃhitā 3-?-? [?]; the source's number reads "३-३०-०८ [?]")
-> *("As if like an expanse my desire has spread [for me]; fill it, O lord of riches, of the riches." — my gloss, tentative.)*
+> (ऋ. सं. ३-३०-१९ — Ṛgveda Saṃhitā 3-30-19)
+> *("As if like an expanse my desire has spread [for me]; fill it, O lord of riches, of the riches." — mine and tentative.)*
 
 > आ तू भर माकिरेतत्परिष्ठाद्विद्मा हि त्वा वसुपतिं वसूनाम् ॥
 > *ā tū bhara mākir etat pariṣṭhād vidmā hi tvā vasupatiṃ vasūnām ||*
-> (Ṛgveda Saṃhitā 3-?-? [?])
-> *("Bring [it] now; let none hinder this; for we know you as lord of riches of riches." — my gloss, tentative.)*
+> (ऋ. सं. ३-३६-९ — Ṛgveda Saṃhitā 3-36-9)
+> *("Bring [it] now; let none hinder this; for we know you as lord of riches of riches." — mine and tentative.)*
 
 ### Page 374 — Rik 9: Special Topics (continued) and grammar
 
@@ -8011,20 +8011,20 @@ Indra is the lord of wealth and splendour; he is worthy of being praised with �
 
 > सत्राभवो वसुपतिर्वसूनां दत्रे विश्वा अधिथा इन्द्र कृष्टीः ॥
 > *satrābhavo vasupatir vasūnāṃ datre viśvā adhithā indra kṛṣṭīḥ ||*
-> (Ṛgveda Saṃhitā 4-?-? [?]; the source's number reads "४-०२-६" [?])
-> *("You were the lord of riches, of riches in giving; you held all the peoples, O Indra." — my gloss, tentative.)*
+> (ऋ. सं. ४-१७-६ — Ṛgveda Saṃhitā 4-17-6)
+> *("You were the lord of riches, of riches in giving; you held all the peoples, O Indra." — mine and tentative.)*
 
 *"…and so on."* All these riks are addressed to Indra. So it may be said that calling Indra *vasupati* is an established usage.
 
-**"Ṛgmiyam"** — **ऋचो मिमीत इत्यृग्मियः । ऋचां मातारम्** (*ṛco mimīta ity ṛgmiyaḥ | ṛcāṃ mātāram*) — "one who measures the ṛks is *ṛgmiya*; the 'maker' of the ṛks": the Bhāṣyakāra explains it as "one who is praised by ṛks," i.e., one who is hymned. **Skandasvāmī:** **ऋग्मियं ऋचे स्तुत्यै । अर्चना ऋक् । संपदादित्वात् क्विप् । तद्योग्यं स्तुतियोग्यमित्यर्थः** (*ṛgmiyaṃ ṛce stutyai | arcanā ṛk | saṃpadāditvāt kvip | tad-yogyaṃ stuti-yogyam ity arthaḥ*) — "*ṛgmiya* is: [fit] for the ṛk, for praise; *ṛk* means worship; *kvip* by the *saṃpadādi* group; the sense: worthy of that, worthy of praise." That is, *ṛgmiya* means "worthy of being praised." **Veṅkaṭamādhava** says *ṛgarham* — "worthy of ṛks," that is, worthy of being praised with ṛks.
+**"Ṛgmiyam"** — **ऋचो मिमीत इत्यृग्मियः । ऋचां मातारम्** (*ṛco mimīta ity ṛgmiyaḥ | ṛcāṃ mātāram*) — "one who measures the ṛks is *ṛgmiya*; the 'maker' of the ṛks": the Bhāṣyakāra explains it as "one who is praised by ṛks," i.e., one who is hymned. **Skandasvāmī:** **ऋग्मियं । ऋचि स्तुतौ । अर्चना ऋक् । संपदादित्वात् क्विप् । तद्वन्तं स्तुतियोग्यमित्यर्थः** (*ṛgmiyaṃ | ṛci stutau | arcanā ṛk | saṃpadāditvāt kvip | tadvantaṃ stuti-yogyam ity arthaḥ*) — "*ṛgmiya*: [root] *ṛc* in the sense of praise; *ṛk* is worship (*arcanā*), with *kvip* as it belongs to the *saṃpadādi* group; [the one] possessed of it, that is, worthy of praise." That is, *ṛgmiya* means "worthy of being praised." **Veṅkaṭamādhava** says *ṛgarham* — "worthy of ṛks," that is, worthy of being praised with ṛks.
 
 **"Homa"** — *āhvayāmaḥ*, "we invoke, we call." The word is the first-person plural *laṭ* of the root *hveñ spardhāyāṃ śabde ca*. For its derivation see the grammar section.
 
-**"Gantāram"** — the accusative singular of the *ṛ*-ending word *gantṛ*. The meaning is "one who goes." Where does he go? The Bhāṣyakāra says to supply "going to the place of sacrifice (*yoga-deśe*)," to make the sense: one who goes to the sacrificial ground to protect the sacrificer.
+**"Gantāram"** — the accusative singular of the *ṛ*-ending word *gantṛ*. The meaning is "one who goes." Where does he go? The Bhāṣyakāra says to supply the words **यागदेशे गमनशीलम्** (*yāgadeśe gamanaśīlam*) — "in the habit of going to the place of sacrifice" — to make the sense: one who goes to the sacrificial ground to protect the sacrificer.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 374–376, noted briefly)*
 
-**वसोः (*vasoḥ*)** — root *vasa nivāse*; the Uṇādi sūtra "śvā-styā-snihi-tṛpyasi-vasi-hani-kledi-bandhi-manibhyaś ca" (Uṇ. 1-10 [?]) gives the suffix *u* after a list of roots (*śvi*, *stya*, *snih*, *tṛp*, *vas*, *han*, *kled*, *bandh*, *man*); the suffix is *nit*, so *vasu* is initial-udātta. **वसुपतिम् (*vasupatim*)** — compound accent: by "samāsasya" (Pā. 6-1-223 [?]) final-udātta would be expected; this is set aside by "patyāv aiśvarye" (Pā. 6-2-18 [?]) — when *pati* in the sense of lordship is the second member, the first member keeps its natural accent. **गीर्भिः (*gīrbhiḥ*)** — "sāvekācas tṛtīyādir vibhaktiḥ" (Pā. 6-1-168 [?]): the case ending is udātta. **गृणन्तः (*gṛṇantaḥ*)** — root *gṝ śabde* ("to sound; praise") with *laṭ*, replaced by *śatṛ* (Pā. 3-2-124 [?]); *śnā* after the *kryādi* class (Pā. 3-1-81 [?]); the augment-rule shortening *ā* before the participle (Pā. 6-4-112 [?], "śnābhyastayor ātaḥ"); the *n* of *śnā* becomes *ṇ* (*gṛṇ*); *num* before *jas* by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (Pā. 7-1-70 [?]); the suffix-accent makes the *a* of *śatṛ* udātta. **ऋग्मियम् (*ṛgmiyam*)** — "ṛco mimīte": *mā* (to measure) + *kvip* (Pā. 3-2-76 [?]); by "ghumāsthā…" (Pā. 6-4-66 [?]) the *ā* → *ī*; *vīr apṛktasya* (Pā. 6-1-66 [?]) removes the *v*; *c* → *k* by "coḥ kuḥ" (Pā. 8-2-30 [?]) and *k* → *g* by "jhalāṃ jaśo 'nte" (Pā. 8-2-39 [?]); accusative singular *am*; the *ī* before the vowel becomes *iy* (*iyaṅ*, Pā. 6-4-77 [?]), with a long discussion of the rule "ekāco 'saṃyoga-pūrvasya" (Pā. 6-4-82 [?]) (*yaṇ* for the final *i*/*ī* of a root of more than one syllable) and why it does not arise here; finally "gati-kāraka-upapadāt kṛt" gives the *ī*-syllable the udātta. **होम (*homa*)** — root *hveñ spardhāyāṃ śabde ca*; *laṭ* first plural *mas*, replaced by *mip* by Vedic inversion; *i* of *mip* → *a*; *śap* dropped by *bahulaṃ chandasi*; *saṃprasāraṇa* of *hve* (Pā. 6-1-34 [?]); *pararūpa* and *guṇa* give *homa*; the *o* is udātta by the root accent (Pā. 6-1-163 [?]); *mip* is *pit*, so the *ma* is unaccented. **गन्तारम् (*gantāram*)** — root *gamlṛ sṛplṛ gatau* with *tṛn* in the sense of habitual action (Pā. 3-2-135 [?]); *nit*, initial-udātta. **ऊतये (*ūtaye*)** — the irregular *ktin* of "ūtiyūtijūti…" (Pā. 3-3-97 [?]), udātta. *(Sūtra numbers read from small print; pointers only.)*
+**वसोः (*vasoḥ*)** — root *vasa nivāse*; the Uṇādi sūtra "śṝ-svṛ-snihi-trapy-asi-vasi-hani-klidi-bandhi-manibhyaś ca" (Uṇ. 1-10) gives the suffix *u* after the roots *śṝ hiṃsāyām*, *svṛ śabdopatāpayoḥ*, *ṣṇiha upatāpe* [as printed], *trapūṣ lajjāyām*, *asu kṣepaṇe*, *vasa nivāse*, *hana hiṃsāgatyoḥ*, *klidū ārdrībhāve*, *bandha bandhane*, *mana jñāne*; the suffix is *nit*, so *vasu* is initial-udātta. **वसुपतिम् (*vasupatim*)** — compound accent: by "samāsasya" (Pā. 6-1-223) final-udātta would be expected; this is set aside by "patyāv aiśvarye" (Pā. 6-1-18 [as printed]; the bhāṣya on p. 372 prints 6-2-18) — when *pati* in the sense of lordship is the second member, the first member keeps its natural accent. **गीर्भिः (*gīrbhiḥ*)** — "sāvekācas tṛtīyādir vibhaktiḥ" (Pā. 6-1-168): the case ending is udātta. **गृणन्तः (*gṛṇantaḥ*)** — root *gṝ śabde* ("to sound; praise") with *laṭ*, replaced by *śatṛ* by "laṭaḥ śatṛśānacau" (Pā. 3-2-124); *śnā* after the *kryādi* class (Pā. 3-1-81); the root vowel shortened by "pvādīnāṃ hrasvaḥ" (Pā. 7-3-80); *śatṛ*, being *apit*, is *ṅit* by "sārvadhātukam apit" (Pā. 1-2-4), so the *ā* of *śnā* is dropped by "śnābhyastayor ātaḥ" (Pā. 6-4-112); the *n* of *śnā* becomes *ṇ* by the vārttika "ṛvarṇān nasya ṇatvaṃ vācyam" (vārttika 8-4-1); *num* before *jas* by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (Pā. 7-1-70); the suffix-accent makes the *a* of *śatṛ* udātta. **ऋग्मियम् (*ṛgmiyam*)** — "ṛco mimīte": root *māṅ māne śabde ca* + *kvip* by "kvip ca" (Pā. 3-2-76); by "ghumāsthāgāpājahātisāṃ hali" (Pā. 7-4-66 [as printed]; the bhāṣya on p. 372 prints 6-4-66) the *ā* → *ī*; "ver apṛktasya" (Pā. 6-1-67) removes the *v* — with a discussion of *antaraṅga* and *bahiraṅga* (paribhāṣā 50, "asiddhaṃ bahiraṅgam antaraṅge"), *sthānivad ādeśo 'nalvidhau* (Pā. 1-1-56) and "varṇāśraye nāsti pratyayalakṣaṇam" (paribhāṣā 21), concluding that in Vedic usage *sthānivadbhāva* sometimes applies even in an *al*-rule; *c* → *k* by "coḥ kuḥ" (Pā. 8-2-30) and *k* → *g* by "jhalāṃ jaśo 'nte" (Pā. 8-2-39); accusative singular *am*; the *ī* before the vowel becomes *iy* (*iyaṅ*, "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau", Pā. 6-4-77), with a discussion of the rule "er anekāco 'saṃyogapūrvasya" (Pā. 6-4-82) (*yaṇ* for the final *i*/*ī* of a root of more than one syllable) and why it does not arise here (by "sarve vidhayaś chandasi vikalpyante", paribhāṣā 35); finally "gati-kāraka-upapadāt kṛt" (Pā. 6-2-139) gives the *ī*-syllable the udātta. **होम (*homa*)** — root *hveñ spardhāyāṃ śabde ca*; *laṭ* first plural *mas*, replaced by *mip* by Vedic inversion; *i* of *mip* → *a*; *śap* dropped by *bahulaṃ chandasi* (Pā. 2-4-73); *saṃprasāraṇa* of *hve* by the "bahulaṃ chandasi" (Pā. 6-1-34) that follows "hvaḥ saṃprasāraṇam" (Pā. 6-1-32); *pūrvarūpa* by "saṃprasāraṇāc ca" (Pā. 6-1-108) and *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. 7-3-84) give *homa*; the *o* is udātta by "dhātoḥ" (Pā. 6-1-162); *mip* is *pit*, so the *ma* is unaccented. **गन्तारम् (*gantāram*)** — root *gamlṛ sṛplṛ gatau* with *tṛn* in the sense of habitual action (Pā. 3-2-135); *nit*, initial-udātta. **ऊतये (*ūtaye*)** — the irregular *ktin* of "ūtiyūtijūti…" (Pā. 3-3-97), udātta.
 
 **॥९॥**
 
@@ -8032,13 +8032,15 @@ Indra is the lord of wealth and splendour; he is worthy of being praised with �
 
 ### Page 376 — Sūkta 9, Rik 10 (the last)
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सुतेसुते न्योकसे बृहद्बृहत एदरिः ।
-> इन्द्राय शूषमर्चति ॥१०॥
+> सु॒तेसु॑ते॒ न्यो॑कसे बृ॒हद्बृ॑ह॒त एद॒रिः ।
+> इन्द्रा॑य शू॒षम॑र्चति ॥१०॥
 >
-> *sute-sute nyokase bṛhad bṛhata ed ariḥ |*
-> *indrāya śūṣam arcati ||10||*
+> *suté-sute nyokase bṛhád bṛhatá ed aríḥ |*
+> *índrāya śūṣám arcati ||10||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
