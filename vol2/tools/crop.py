@@ -5,7 +5,7 @@ from cfg import WORK,part_of
 from PIL import Image
 k=sys.argv[1]; g=int(k.split('_')[0])
 R={}
-for f in glob.glob(os.path.join(os.path.dirname(__file__),'../../../../docs/numeral_review/vol2/review_PDF*.json')):
+for f in glob.glob(os.path.join(os.path.dirname(__file__),'..','review','review_PDF*.json')):
     for x in json.load(open(f)): R[x['id']]=x
 x,y,w,h=R[k]['box']; path,n=part_of(g); d=tempfile.mkdtemp(dir=WORK)
 subprocess.run(['pdftoppm','-f',str(n),'-l',str(n),'-r','300','-gray',path,d+'/p'],check=True)

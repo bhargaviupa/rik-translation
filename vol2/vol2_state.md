@@ -4,7 +4,7 @@ Status: in progress (scans present, 5 parts, 822 PDF pages).
 **Last PDF page done: 200 (printed p. 186).** Next run starts at PDF 201.
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
-`docs/PASS_LOG_numerals_vol2.md` (one entry per batch).
+`vol2/vol2_pass_log.md` (one entry per batch).
 
 ## Reference
 
@@ -12,7 +12,7 @@ Page map (checked from the page headers, PDF 1–822): printed = PDF − 14; pri
 (PDF 237 = 223, PDF 238 = 226, so printed = PDF − 12 for PDF 238–289); PDF 290–291 repeat printed pp. 276–277;
 PDF 292–822 printed = PDF − 14 (PDF 822 = p. 808, the last page). Front matter PDF 1–14 (contents PDF 9–13).
 
-Tools: `publish/tools/numeral_pass/vol2/` (Vol 1 tools adapted) plus `montage.py` (crops with the file's reading,
+Tools: `vol2/tools/` (Vol 1 tools adapted) plus `montage.py` (crops with the file's reading,
 60 per image), `zc.py`/`zoom.py` (450 dpi crops of boxes / full-width strips), `acc.py` (450 dpi page-fraction strip),
 `ruler.py` (low-res page with a 0–100 ruler, to locate lines), `header_montage.py`, `samcrop.py` (Saṃhitā lines with
 guide lines for svarita strokes / anudātta bars), `accent.py` (IAST acute from the marks), `sam.py` (replace a Ṛk's

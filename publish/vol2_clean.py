@@ -2,7 +2,7 @@
 """Clean the Volume 2 working draft for publication -> work/vol2_clean.md + work/vol2_audit.md"""
 import re, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SRC = ROOT / "Rigveda_Samhita_Vol2_English_Translation.md"
+SRC = ROOT / "vol2" / "Rigveda_Samhita_Vol2_English_Translation.md"
 OUT = pathlib.Path(__file__).resolve().parent / "work"; OUT.mkdir(exist_ok=True)
 audit = []
 def log(kind, ln, text):
