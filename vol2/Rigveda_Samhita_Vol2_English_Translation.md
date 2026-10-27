@@ -6392,13 +6392,15 @@ Indra is the one who fulfils the desires of men; he is all-capable; he has no ri
 
 ### Sūkta 7, Rik 9
 
+*(Saṃhitā accents as printed (p. 295); Pada unaccented. In "kṣitīnām" only the bar under "kṣi" is printed; the next mark (a svarita stroke after the acute) is missing, hence [accent ?].)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> य एकश्चर्षणीनां वसूनामिरज्यति ।
-> इन्द्रः पञ्च क्षितीनाम् ॥९॥
+> य एक॑श्चर्षणी॒नां वसू॑नामिर॒ज्यति॑ ।
+> इन्द्रः॒ पञ्च॑ क्षि॒तीनाम् ॥९॥ [accent ?]
 >
-> *ya ekaś carṣaṇīnāṃ vasūnām irajyati |*
-> *indraḥ pañca kṣitīnām ||9||*
+> *ya ékaś carṣaṇīnā́ṃ vásūnām irajyáti |*
+> *índraḥ páñca kṣitī́nām ||9||* [accent ?]
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6418,7 +6420,7 @@ Indra is the one who fulfils the desires of men; he is all-capable; he has no ri
 
 **Translation:** "That Indra who is, by himself alone, the ruler (*irajyati*, *īṣṭe*) of the *carṣaṇīs* — of human beings — and likewise the ruler of the *vasus* — of riches: that Indra is the bestower of favour (*anugrahītā* — this is the word to be supplied to complete the sentence) on the five *kṣitis* — the five classes of those fit to dwell [on earth], of which the fifth is the *Niṣādas*."
 
-*(Sāyaṇa's Sanskrit grammar of* एकः*,* चर्षणीनाम्*,* वसूनाम्*,* इरज्यति*,* पञ्च*,* क्षितीनाम् *— concerning the* kan *suffix on* iṇ *("to go"), the accent of* carṣaṇi*, the* u *suffix of* vasu*, the* yak *suffix of* irajyati*, and the final-udātta of* kṣiti *— follows on p. 295 and is characterized with the Kannada grammar below.)*
+**Grammar of the Bhāṣya (characterized, references as printed; page header "A. 1, A. 1, Va. 14"):** "Ekaḥ" — "iṇ gatau": **इण्भीकापाशल्यतिमर्चिभ्यः कन्** (उ. ३-४३) "kan"; by "bāhulaka" no loss; "n"-marked, first-syllable acute. "Carṣaṇīnām" — end-acute by the stem accent; with "antodāttāt" carried on, the case-ending is acute by **नामन्यतरस्याम्**. "Vasūnām" — with "nit" carried on, **शॄस्वृस्निहित्रप्यसिवसिहनिक्लिदिबन्धिमनिभ्यश्च** (उ. १-११) "u"; "n"-marked, first-syllable acute. "Irajyati" — "irajya" in the kaṇḍvādi class, in the sense of "īrṣyā," here "aiśvarya": **कण्ड्वादिभ्यो यक्** (पा. ३-१-२७) "yak," acute by the affix accent. "Pañca" — "paci vyaktīkaraṇe," "kanin" by **पञ्चेः** …; first-syllable acute. "Kṣitīnām" — end-acute by the stem accent; the case-ending acute by "nām anyatarasyām."
 
 **॥ Prati-padārthaḥ ॥**
 
