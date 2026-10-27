@@ -14369,53 +14369,83 @@ After it, *jas*; *guṇa* by "jasi ca" (Pā. sū. 7-3-109): *hare* + *as*; *ay* 
 
 ---
 
-### Pages 680–685 — Sūkta 16, Rik 2
+### Page 680 — Sūkta 16, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इमा धाना घृतस्नुवो हरी इहोप वक्षतः ।
-> इन्द्रं सुखतमे रथे ॥२॥
+> इ॒मा धा॒ना घृ॑त॒स्नुवो॒ हरी॑ इ॒होप॑ वक्षतः ।
+> इन्द्रं॑ सु॒खत॑मे॒ रथे॑ ॥२॥
 >
-> *imā dhānā ghṛtasnuvo harī ihopa vakṣataḥ |*
-> *indraṃ sukhatame rathe ||2||*
+> *imā́ dhānā́ ghṛtasnúvo hárī ihópa vakṣataḥ |*
+> *índraṃ sukhátame ráthe ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > इमाः । धानाः । घृतऽस्नुवः । हरी इति । इह । उप । वक्षतः ॥
 > इन्द्रम् । सुखऽतमे । रथे ॥२॥
 >
-> *imāḥ | dhānāḥ | ghṛta-snuvaḥ | harī iti | iha | upa | vakṣataḥ ||*
-> *indram | sukha-tame | rathe ||2||*
+> *imāḥ | dhānāḥ | ghṛta 'snuvaḥ | harī iti | iha | upa | vakṣataḥ ||*
+> *indram | sukha 'tame | rathe ||2||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 680; compressed; [?] marks doubtful readings)*
-
-> हरिशब्द इन्द्ररथस्य वोढारावश्वावाचष्टे । तथा च श्रुत्यन्तरम् । हर्योः स्थाथेति [?] । हरिभ्यां श्लेन्द्रो [?] देवतां गमयतीति च । एतदेवाभिप्रेत्य निघण्टुकार आह । हरी इन्द्रस्येति । तादृशौ हरी इमा योगार्थं वेद्यामासादितत्वेन पुरोवर्तिनीर्धानाः [भृज्जित?] यवतण्डुलानुद्दिश्य सुखतमे रथे इन्द्रमवस्थाप्येहास्मिन्कर्मण्युप वक्षतः । वेदिसमीपे वहताम् । कीदृशीर्धानाः । घृतस्नुवोऽलंकरणोपस्तरणाभिघारणादिना घृतस्रावणीः [?] । धीयन्त इति धानाः । धाश्वस्यजतिभ्यो नः । उ. [३-९७ ?] । इति नः । प्रत्ययस्वरः । घृतस्नुवः । घृतं स्नुवन्तीति घृतस्नुवः । क्विपि तुगभावश्छान्दसः । धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । स्नोः संयोगपूर्वत्वेन यणभावादुवङादेशः । हरी । हृञ् हरणे । सर्वधातुभ्य इन् । नित्त्वादाद्युदात्तः । प्रगृह्यत्वात्संहितायां प्रकृतिभावः । वक्षतः । प्रार्थनाप्ये लिङर्थे लेट् । तस्य प्रथमपुरुषद्विवचनं तस् । लेटोऽडाटावित्यडागमः । शपि प्राप्ते सिब्बहुलं लेटीति सिप् । ढत्वकुत्वषत्वानि । तिङ्ङतिङ इति निघातः । सुखतमे । गतम् ॥२॥
+> हरिशब्द इन्द्ररथस्य वोढारावश्वावाचष्टे । तथा च श्रुत्यन्तरं । हर्योः स्थातेति । हरिभ्यां त्वेन्द्रो देवतां गमयत्विति च । एतदेवाभिप्रेत्य निघण्टुकार आह । हरी इन्द्रस्येति । तादृशौ हरी इमा यागार्थं वेद्यामासादितत्वेन पुरोवर्तिनीर्धाना भृष्टयवतण्डुलाननुद्दिश्य सुखतमे रथ इन्द्रमवस्थाप्येहास्मिन्कर्मण्युप वक्षतः । वेदिसमीपे वहतां । कीदृशीर्धानाः । घृतस्नुवो ऽलंकरणोपस्तरणाभिघारणेन घृतस्राविणीः ॥ धीयन्त इति धानाः । धाप्यावस्यज्यतिभ्यो नः । उ. ३-६ । इति नः । प्रत्ययस्वरः । घृतस्नुवः । घृतं स्नुवन्तीति घृतस्नुवः । क्विपि तुगभावश्छान्दसः । धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वं । स्नोः संयोगपूर्वत्वेन यणभावादुवङादेशः । हरी । हृञ् हरणे । सर्वधातुभ्य इन् । नित्त्वादाद्युदात्तः । प्रगृह्यत्वात्संहितायां प्रकृतिभावः । वक्षतः । प्रार्थनायां लिङर्थे लेट् । तस्य प्रथमपुरुषद्विवचनं तस् । लेटो ऽडाटावित्यडागमः । शपि प्राप्ते सिब्बहुलं लेटीति सिप् । ढत्वकत्वषत्वानि । तिङ्ङतिङ इति निघातः । सुखतमे । गतं ॥
 >
-> *hari-śabda indra-rathasya vodhārāv aśvāv ācaṣṭe | tathā ca śruty-antaram | haryoḥ sthātheti [?] | haribhyāṃ ślendro [?] devatāṃ gamayatīti ca | etad evābhipretya nighaṇṭukāra āha | harī indrasyeti | tādṛśau harī imā yogārthaṃ vedyām āsāditatvena purovartinīr dhānāḥ [bhṛjjita?] yava-taṇḍulān uddiśya sukhatame rathe indram avasthāpyehāsmin karmaṇy upa vakṣataḥ | vedi-samīpe vahatām | kīdṛśīr dhānāḥ | ghṛtasnuvo 'laṅkaraṇopastaraṇābhighāraṇādinā ghṛta-srāvaṇīḥ [?] | dhīyanta iti dhānāḥ | dhāśvasyajatibhyo naḥ | u. [3-97 ?] | iti naḥ | pratyaya-svaraḥ | ghṛtasnuvaḥ | ghṛtaṃ snuvantīti ghṛtasnuvaḥ | kvipi tugabhāvaś chāndasaḥ | dhātu-svaraḥ | samāse kṛd-uttarapada-prakṛti-svaratvam | snoḥ saṃyogapūrvatvena yaṇābhāvād uvaṅādeśaḥ | harī | hṛñ haraṇe | sarvadhātubhya in | nittvād ādyudāttaḥ | pragṛhyatvāt saṃhitāyāṃ prakṛtibhāvaḥ | vakṣataḥ | prārthanāpye liṅarthe leṭ | tasya prathamapuruṣa-dvivacanaṃ tas | leṭo 'ḍāṭāv ity aḍāgamaḥ | śapi prāpte sib bahulaṃ leṭīti sip | ḍhatva-katva-ṣatvāni | tiṅ ataṅ iti nighātaḥ | sukhatame | gatam ||2||*
+> *hariśabda indrarathasya voḍhārāvaśvāvācaṣṭe | tathā ca śrutyantaraṃ | haryoḥ sthāteti | haribhyāṃ tvendro devatāṃ gamayatviti ca | etadevābhipretya nighaṇṭukāra āha | harī indrasyeti | tādṛśau harī imā yāgārthaṃ vedyāmāsāditatvena purovartinīrdhānā bhṛṣṭayavataṇḍulānanuddiśya sukhatame ratha indramavasthāpyehāsminkarmaṇyupa vakṣataḥ | vedisamīpe vahatāṃ | kīdṛśīrdhānāḥ | ghṛtasnuvo 'laṃkaraṇopastaraṇābhighāraṇena ghṛtasrāviṇīḥ || dhīyanta iti dhānāḥ | dhāpyāvasyajyatibhyo naḥ | u. 3-6 | iti naḥ | pratyayasvaraḥ | ghṛtasnuvaḥ | ghṛtaṃ snuvantīti ghṛtasnuvaḥ | kvipi tugabhāvaśchāndasaḥ | dhātusvaraḥ | samāse kṛduttarapadaprakṛtisvaratvaṃ | snoḥ saṃyogapūrvatvena yaṇabhāvāduvaṅādeśaḥ | harī | hṛñ haraṇe | sarvadhātubhya in | nittvādādyudāttaḥ | pragṛhyatvātsaṃhitāyāṃ prakṛtibhāvaḥ | vakṣataḥ | prārthanāyāṃ liṅarthe leṭ | tasya prathamapuruṣadvivacanaṃ tas | leṭo 'ḍāṭāvityaḍāgamaḥ | śapi prāpte sibbahulaṃ leṭīti sip | ḍhatvakatvaṣatvāni | tiṅṅatiṅa iti nighātaḥ | sukhatame | gataṃ ||*
 
-**Translation:** "The word *hari* denotes the two horses that carry Indra's chariot. So another Vedic text says [*haryoḥ sthātha*? — uncertain]; and 'by the two *hari*s Indra brings the deity' [?]. With this in view the Nighaṇṭu-maker says: '*harī* — [the two horses] of Indra.' Such a pair of horses — these *dhānāḥ* (parched grain, barley and rice) lie before them on the altar for the sacrifice [in the print the participle before 'barley-rice' is partly unclear: 'parched (?)']; having made Indra sit in the most comfortable chariot, let them bring him (*upa vakṣataḥ*) here to this rite, near the altar. Of what sort are the *dhānāḥ*? *Ghṛtasnuvaḥ* — dripping with ghee through the adorning, strewing and sprinkling [?]. *Dhānāḥ* are 'what is set down' (*dhīyante*)." The rest is grammar, noted briefly: *dhānāḥ* (*dhā* with the Uṇādi *na*, Uṇ. 3-[?]; suffix accent); *ghṛtasnuvaḥ* (*ghṛta* + *snu* "to drip" with *kvip*; the *tuk* is absent by Vedic licence; accent of the root; *uvaṅ* in place of *y* since the *u* of *snu* is preceded by a conjunct); *harī* (*hṛ*, the Uṇādi *in*; the dual keeps its form unchanged — *pragṛhya* — in the Saṃhitā); *vakṣataḥ* (*leṭ* in the sense of *liṅ*, in the meaning of a wish; the third dual *tas*, the augment *aṭ* by P. 3-4-94 *leṭo 'ḍāṭau* [as read], *sip* by *sib bahulaṃ leṭi*; *ḍhatva*, *katva*, *ṣatva*; the verb unaccented); *sukhatame* (as before [Rik 1.14? in the print "gatam"]). *(Grammar, noted briefly.)*
+**Translation:** "The word *hari* denotes the two horses that draw Indra's chariot; so another Śruti says '*haryoḥ sthātā*', 'standing on the two bays', and '*haribhyāṃ tvendro devatāṃ gamayatu*', 'may Indra with the two bays lead you to the gods'; with this in mind the author of the Nighaṇṭu says '*harī indrasya*', 'the two bays are Indra's'. May such *harī*, with Indra set in the *sukhatama*, most comfortable, chariot, *iha upa vakṣataḥ*, bring him here to this rite, near the altar, towards *imāḥ dhānāḥ*, these roasted barley grains set out on the altar for the sacrifice and lying in front. What are the grains like? *Ghṛtasnuvaḥ*, oozing ghee from being adorned, spread and sprinkled with it." (Grammatical tail: *dhānāḥ*, "what are set down", *na* (Uṇ. 3-6), the suffix accent; *ghṛtasnuvaḥ*, "which drip ghee", *kvip* without *tuk* (Vedic), the root accent, then the *kṛt* second-member accent, *uvaṅ* since *snu* follows a conjunct; *harī*, *in*, initial udātta, *pragṛhya*, so natural form in the Saṃhitā; *vakṣataḥ*, *leṭ* in the sense of prayer, *tas*, the augment *a*, *sip*, *ḍh*, *k*, *ṣ*, lowered; *sukhatame* gone through.)
 
-**Grammar pages (pp. 681–685), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *dhānāḥ* (*ḍudhāñ dhāraṇapoṣaṇayoḥ*; the Uṇādi *na* after *dhā*, *śvasyajatibhyo naḥ* [Uṇ. 3-[?]], *dhā*+*na*; the feminine sense calls for *ṭāp* by P. 4-1-4 *ajādyatas ṭāp*, hence *dhānā* + *as* → *dhānāḥ* by *savarṇadīrgha*; the first-syllable accent by the *ñit*/*nit* mark; the accent of the *ṭāp* result by P. 6-1-158 and 6-1-… *ekādeśa udāttenodāttaḥ*), *ghṛtasnuvaḥ* (*snu* "to drip" of the *adādi* class; *ghṛtam snuvanti iti*; *kvip ca* P. 3-2-76; *kvip*'s *luk*; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; a long note on why the *tuk* of P. 6-1-71 *hrasvasya piti kṛti tuk* does not come — either as a Vedic licence or by the paribhāṣā *āgamaśāstram anityam*; the accent of the root by P. 6-1-162 *dhātoḥ*; the compound by P. 6-2-139 *gatikārakopapadāt kṛt*; *snu* + *as*: since the *u* is preceded by a conjunct, P. 6-4-77 *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* gives *uvaṅ* and not *yaṇ*, by the rule *oḥ supi* P. 6-4-83 not applying, hence *ghṛtasnuvaḥ*), *harī* (as for *harayaḥ*; *prathamayoḥ pūrvasavarṇaḥ* P. 6-1-102; the dual *ī* is *pragṛhya* by P. 1-1-11 *īdūded dvivacanaṃ pragṛhyam*; *plutapragṛhyā aci nityam* P. 6-1-125 keeps it unchanged before the *i* of *iha*; *prakṛtibhāva*: "remaining in the natural condition" — the Kannada's definition), and *vakṣataḥ* (*vah*; *liṅarthe leṭ* P. 3-4-7 *liṅarthe leṭ* in the sense of a wish; third dual *tas*; *leṭo 'ḍāṭau* P. 3-4-94; *sib bahulaṃ leṭi* P. 3-1-34; *ho ḍhaḥ* P. 8-2-31; *ḍhatva*; *ṣaḍhoḥ kaḥ si* P. 8-2-41; *ādeśapratyayayoḥ* P. 8-3-59; *tiṅ atiṅaḥ* P. 8-1-28). *(Crowded; outline only; numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 680)*
+**हरी (harī)** — Indra's two horses | **इमाः (imāḥ)** — these (made ready on the altar for the sacrifice) | **घृतस्नुवः (ghṛtasnuvaḥ)** — sprinkled with ghee, that is, soaked in ghee | **धानाः (dhānāḥ)** — for receiving the grains, barley, rice and the like | **सुखतमे (sukhatame)** — comfortable | **रथे (rathe)** — in the chariot | **इन्द्रम् (indram)** — Indra (seated) | **इह (iha)** — here (to the place where this sacrifice goes on) | **उप वक्षतः (upa vakṣataḥ)** — may they bring.
 
-**हरी (harī)** — the two horses of Indra | **इमाः (imāḥ)** — these (spread on the altar for the sake of the rite) | **घृतस्नुवः (ghṛta-snuvaḥ)** — well steeped in ghee (that is, drenched with ghee) | **धानाः (dhānāḥ)** — grains (barley, rice and so on), for the sake of acceptance | **सुखतमे (sukhatame)** — [seating him] in the most comfortable | **रथे (rathe)** — chariot | **इन्द्रम् (indram)** — Indra | **इह (iha)** — here (to this place where the sacrifice is going on) | **उप वक्षतः (upa vakṣataḥ)** — let them bring near.
+### Page 681 — Rik 2: overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** *(p. 681)*
+**॥ Bhāvārthaḥ ॥**
 
-In the sacrifice, the grains of barley, rice and the like, well steeped in ghee for the oblation, have been strewn all round the sacrificial pit, adorning it and spreading over it. To eat them, let the two horses called *hari*, belonging to Indra, bring Indra, seated in the most comfortable of chariots, to the neighbourhood of this sacrificial ground.
+The grains, barley, rice and the like, well soaked in ghee for the *homa* in the sacrifice, are scattered round the sacrificial fire-pit when it is adorned and strewn. May Indra's two horses called Harī, to eat them, bring Indra, seated in the comfortable chariot, near this place of sacrifice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Let the horses convey Indra in an easy-moving chariot hither where these grains of parched barley steeped in clarified butter are being prepared for the Sacrifice.
+> Let the horses convey Indra in an easy-moving chariot hither where these grains of parched barely [sic] steeped in clarified butter are being prepared for the Sacrifice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 681)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**धानाः (dhānāḥ)** — the grains of barley, rice and the like which are got ready for making an oblation in the fire. In the rite of preparing the fire (*agni-saṃskāra*), when adornment, strewing and the like are done with barley, rice and so on, the grains fall all round the fire-pit. These are the sacrificial share that must be offered to Indra's horses. The sense is that, in order to eat these, Indra's horses should come with Indra.
+**Dhānāḥ**: the grains, barley, rice and the like, made ready for the *homa* in the fire. In the work of consecrating the fire, when the acts of adorning, strewing and so on are done with barley, rice and the like, the grains of that corn are scattered round the fire-pit. They are the share of the sacrifice to be given to Indra's horses. The intention is: may Indra's horses come with Indra to eat it.
 
-**घृतस्नुवः (ghṛtasnuvaḥ)** — *ghṛtaṃ snuvanti iti ghṛtasnuvaḥ*: those that are well steeped in ghee, or that drip ghee.
+**Ghṛtasnuvaḥ**:
+
+> घृतं स्नुवन्तीति घृतस्नुवः
+>
+> *ghṛtaṃ snuvantīti ghṛtasnuvaḥ*
+
+well soaked in ghee, or dripping ghee.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 681–683, noted briefly)*
+
+**धानाः (*dhānāḥ*)**: *dhīyante iti dhānāḥ*; the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*. "dhāpṝvasyajyatibhyo naḥ" (Uṇ. sū. "3-296" [?]; the bhāṣya gives 3-6; *ḍudhāñ dhāraṇādau*, *pṝ pālanapūraṇayoḥ*, *vasa nivāse*, *aja gatau*, *ata sātatyagamane*): after these roots the suffix *na*; so *na* after *dhā*: *dhāna*. Since the feminine is meant, *ṭāp* by "ajādyataṣ ṭāp" (Pā. sū. 4-1-4): *dhāna* + *ā*, lengthening of like vowels; accusative plural *dhānāḥ*. The *na* is initial udātta by "ādyudāttaś ca" (Pā. sū. 3-1-3); the single replacement, lengthening with the suffix *ṭā*, is udātta by "ekādeśa udāttenodāttaḥ". So the word *dhānā* is final udātta.
+
+**घृतस्नुवः (*ghṛtasnuvaḥ*)**: the root *ṣṇu prasravaṇe*, *adādi*. *Ghṛtaṃ snuvanti iti ghṛtasnuvaḥ*; with the *subanta* *ghṛtam* as *upapada*, *kvip* after *snu* by "kvip ca" (Pā. sū. 3-2-76),
+
+### Page 682 — Rik 2: grammar (continued)
+
+*kvip* drops; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. sū. 6-1-64). The *am*, a *sup* inside the *kṛdanta* *prātipadika*, takes *luk*: *ghṛtasnu*. Now, though the *kvip*, a *pit* *kṛt*, has dropped, by "pratyayalope pratyayalakṣaṇam" (Pā. sū. 1-1-62) it counts as following; so the augment *tuk* would come by "hrasvasya piti kṛti tuk". But by a Vedic process it does not come; or it does not come by "āgamaśāstram anityam" (paribhāṣā 94). *Snu* being a root, it is final udātta by "dhātoḥ" (Pā. sū. 6-1-162); after compounding too, by the *kṛt* second-member accent of "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) that accent remains. After *ghṛtasnu*, *śas*: *ghṛtasnu* + *as*; the *u* stands after the conjunct *sn*. So by "oḥ supi" (Pā. sū. 6-4-83), before a vowel-initial *sup*, a stem of several vowels ending in a root that ends in *u*, not preceded by a conjunct belonging to the root itself, takes *yaṇ*: so *yaṇ* does not come. By "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau" (Pā. sū. "6-9-22" [as printed, for 6-4-77]) *uvaṅ* for the *u*: *ghṛtasnuvam*.
+
+**हरी (*harī*)**: *hṛñ haraṇe*; by "sarvadhātubhya in" (Uṇ. sū. "4-5-552" [?]) the suffix *in*, *guṇa*, *r* after it; by "ñnityādir nityam" (Pā. sū. 6-1-197) *hari* is initial udātta. After it the nominative-accusative dual *au*: *hari* + *au*; by "prathamayoḥ pūrvasavarṇaḥ" (Pā. sū. 6-1-102) *pūrvasavarṇa-dīrgha*: *harī*. Since by "antādivac ca" (Pā. sū. 6-1-85) the *ī* counts as the end of the earlier word, it is a dual ending in *ī*. So "īdūded dvivacanaṃ pragṛhyam" (Pā. sū. 1-1-11): duals ending in *ī*, *ū* and *e* are called *pragṛhya*; it has this name. So in the Saṃhitā, in *harī* + *iha*, with a vowel following, by "plutapragṛhyā aci nityam" (Pā. sū. 6-1-125), before a vowel *pluta* and *pragṛhya* always keep their natural form, so natural form comes. *Prakṛtyā svabhāvena nirvikārasvarūpeṇa bhavanaṃ sthitiḥ prakṛtibhāvaḥ*: natural form means staying without change.
+
+**वक्षतः (*vakṣataḥ*)**: *vaha prāpaṇe*; after it, by "liṅarthe leṭ" (Pā. sū. 3-4-7), *leṭ* in the sense of *liṅ*, that is, prayer; its 3rd dual *tas*: *vah* + *tas*; by "leṭo 'ḍāṭau" (Pā. sū. 3-4-94) the augment *a* for *leṭ*: *vah* + *a* + *tas*; though *śap* would come by "kartari śap", overriding it, by "sib bahulaṃ leṭi" (Pā. sū. 3-1-34) *sip*: *vah* + *s* + *atas*. By "ho ḍhaḥ" (Pā. sū. 8-2-31) *ḍh* for *h*; by "ṣaḍhoḥ kaḥ si" (Pā. sū. 8-2-41) *k* for *ḍh*: *vak* + *s* + *atas*; by "ādeśa-
+
+### Page 683 — Rik 2: grammar (end)
+
+pratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for the *s*: *vakṣatas*; *ru* and visarga: *vakṣataḥ*. Wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**सुखतमे (*sukhatame*)**: explained at *agne sukhatame rathe* (Ṛ. Saṃ. 1-13-4).
+
+**॥२॥**
+
+---
 
 ### Pages 682–686 — Sūkta 16, Rik 3
 
