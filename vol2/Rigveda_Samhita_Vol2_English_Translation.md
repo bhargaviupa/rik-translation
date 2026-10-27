@@ -16811,53 +16811,73 @@ Since Skandasvāmin says in the Nirukta that words such as *īmahe* and *yāmi* 
 
 ---
 
-### Pages 773–776 — Sūkta 18, Rik 7
+### Page 773 (lower) — Sūkta 18, Rik 7
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यस्मादृते न सिध्यति यज्ञो विपश्चितश्चन ।
-> स धीनां योगमिन्वति ॥७॥
+> यस्मा॑दृ॒ते न सि॒ध्य॑ति य॒ज्ञो वि॒प॒श्चित॑श्च॒न । [accent ?]
+> स धी॒नां योग॑मिन्वति ॥७॥ [accent ?]
 >
-> *yasmād ṛte na sidhyati yajño vipaścitaś cana |*
-> *sa dhīnāṃ yogam invati ||7||*
+> *yásmād ṛté na sidhyati yajñó vipaścítaś caná |* [accent ?]
+> *sa dhīnā́ṃ yógam invati ||7||* [accent ?]
+
+*(Read from the print, small type: strokes over स्मा, ध्य, श्चि and ग; bars under दृ, सि, य (यज्ञो), वि, प, च (चन) and धी. Several positions are not certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > यस्मात् । ऋते । न । सिध्यति । यज्ञः । विपःऽचितः । चन ॥
 > सः । धीनाम् । योगम् । इन्वति ॥७॥
 >
-> *yasmāt | ṛte | na | sidhyati | yajñaḥ | vipaḥ-citaḥ | cana ||*
+> *yasmāt | ṛte | na | sidhyati | yajñaḥ | vipaḥ 'citaḥ | cana ||*
 > *saḥ | dhīnām | yogam | invati ||7||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 773; compressed; [?] marks doubtful readings)*
-
-> यज्ञोऽयमनुष्ठातव्यो विपश्चितश्चन [?] विदुषोऽपि यजमानस्य यस्मात्सदसस्पतिदेवादृते न सिध्यति सोऽयं सदसस्पतिर्देवो धीनां मनोऽनुष्ठानविषयाणामस्मद्बुद्धीनामनुष्ठेयकर्मणां वा योगं सम्बन्धमिन्वति । व्याप्नोति । यजमानमनुगृह्य तदीयं यज्ञं निष्पादयतीत्यर्थः ॥ यस्मात् । अन्यारादित्यादिना । पा. [२-३-२९] । ऋतेयोगात्पञ्चमी । सावेकाच इति विभक्तेरुदात्तत्वे प्राप्ते न गोश्वन्साववर्णेति प्रतिषेधः । सिध्यति । षिधु संराद्धौ । श्यनो नित्त्वाद्याद्युदात्तत्वम् । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । धीनाम् । सावेकाच इति विभक्तेरुदात्तत्वम् । योगम् । युजिर् योगे । घञ् । ञित्त्वाद्याद्युदात्तत्वम् । इन्वति । इवि व्याप्तौ । शप् । इदितो नुम् धातोरिति नुम् । निघातः ॥७॥
+> यज्ञोऽयमनुष्ठातव्यो विपश्चितश्चन विदुषोऽपि यजमानस्य यस्मात्सदसस्पतिदेवादृते न सिध्यति सोऽयं सदसस्पतिर्देवो धीनां मनोऽनुष्ठानविषयाणामस्मद्बुद्धीनामनुष्ठेयकर्मणां वा योगं संबन्धमिन्वति । व्याप्नोति । यजमानमनुगृह्य तदीयं यज्ञं निष्पादयतीत्यर्थः ॥ यस्मात् । अन्यारादित्यादिना । पा. २-३-२९ । ऋतेयोगात्पञ्चमी । सावेकाच इति विभक्तेरुदात्तत्वे प्राप्ते न गोश्वन्साववर्णेति प्रतिषेधः । सिध्यति । षिधु संराद्धौ । श्यनो नित्त्वादाद्युदात्तत्वम् । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । धीनाम् । सावेकाच इति विभक्तेरुदात्तत्वम् । योगम् । युजिर् योगे । घञो ञित्त्वादाद्युदात्तत्वम् । इन्वति । इवि व्याप्तौ । शप् । इदितो नुम् धातोरिति नुम् । निघातः ॥
 >
-> *yajño 'yam anuṣṭhātavyo vipaścitaś cana [?] viduṣo 'pi yajamānasya yasmāt sadasaspati-devād ṛte na sidhyati so 'yaṃ sadasaspatir devo dhīnāṃ mano-'nuṣṭhāna-viṣayāṇām asmad-buddhīnām anuṣṭheya-karmaṇāṃ vā yogaṃ sambandham invati | vyāpnoti | yajamānam anugṛhya tadīyaṃ yajñaṃ niṣpādayatīty arthaḥ || yasmāt | anyārād ity-ādinā | pā. [2-3-29] | ṛte-yogāt pañcamī | sāv ekāca iti vibhakter udāttatve prāpte na go-śvan-sāv-avarṇeti pratiṣedhaḥ | sidhyati | ṣidhu saṃrāddhau | śyano nittvād ādyudāttatvam | yad-vṛttān nityam iti nighāta-pratiṣedhaḥ | dhīnām | sāv ekāca iti vibhakter udāttatvam | yogam | yujir yoge | ghañ | ñittvād ādyudāttatvam | invati | ivi vyāptau | śap | idito num dhātor iti num | nighātaḥ ||7||*
+> *yajño 'yamanuṣṭhātavyo vipaścitaścana viduṣo 'pi yajamānasya yasmātsadasaspatidevādṛte na sidhyati so 'yaṃ sadasaspatirdevo dhīnāṃ mano 'nuṣṭhānaviṣayāṇāmasmadbuddhīnāmanuṣṭheyakarmaṇāṃ vā yogaṃ saṃbandhaminvati | vyāpnoti | yajamānamanugṛhya tadīyaṃ yajñaṃ niṣpādayatītyarthaḥ || yasmāt | anyārādityādinā | pā. 2-3-29 | ṛteyogātpañcamī | sāvekāca iti vibhakterudāttatve prāpte na gośvansāvavarṇeti pratiṣedhaḥ | sidhyati | ṣidhu saṃrāddhau | śyano nittvādādyudāttatvam | yadvṛttānnityamiti nighātapratiṣedhaḥ | dhīnām | sāvekāca iti vibhakterudāttatvam | yogam | yujir yoge | ghaño ñittvādādyudāttatvam | invati | ivi vyāptau | śap | idito num dhātoriti num | nighātaḥ ||*
 
-**Translation:** "Without which deity Sadasaspati the sacrifice that is to be performed does not succeed — even [the sacrifice] of a *vipaścit*, a learned sacrificer: that same god Sadasaspati *invati* — pervades, brings about — the *yoga* (connexion) of our *dhī*s, our minds [which are given to the performance of the rite], or of the rites that are to be performed. The sense is: having favoured the sacrificer, he completes his sacrifice." The rest is grammar, noted briefly: *yasmāt* (the ablative with *ṛte*, by P. 2-3-29 *anyārād itarartedikśabdāñcūttarapadājāhiyukte*; the case-ending is not accented, being barred by P. 6-1-182); *sidhyati* (*ṣidhu* "to be accomplished", *śyan*; the verb is not made unaccented because of the relative); *dhīnām* (the ending is accented by P. 6-1-168); *yogam* (*yuj* + *ghañ*, first-syllable accent through *ñ*); *invati* (*ivi* "to pervade", *num* by P. 7-1-58, *śap*, unaccented). *(Grammar, noted briefly.)*
+### Page 774 — Rik 7: (bhāṣya ends at the top of this page, from …णामस्मद्बुद्धीनाम्…) word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 775 upper), noted briefly.** The Kannada treats *yasmāt* (the word *ṛte* is used with the ablative: *anyārāditarartedikśabdāñcūttarapadājāhiyukte* P. 2-3-29 — the case after the words *anya*, *ārāt*, *itara*, *ṛte*, the words for directions [*pūrva* etc.], those ending in *añc*, and *āc* and *āhi*; *yad* + *ṅasi* → *yasmāt* by P. 7-1-14 *sarvanāmnaḥ smai* [read as 7-1-14 *ṅasiṅyoḥ smāt-smināv*]; *tyadādīnām aḥ* P. 7-2-102; *ato guṇe*; the ending is not accented by P. 6-1-168 *sāvekācas tṛtīyādir vibhaktiḥ* because of the barring *na go-śvan-sāv-avarṇa-rāḍ-aṅkyu-kṣmāy-ātmanām* P. 6-1-182, applying to a word ending in *a* [an *avarṇānta*]), *sidhyati* (*ṣidhu saṃrāddhau*, of the *divādi* class; *dhātvādeḥ ṣaḥ saḥ*; *śyan* by P. 3-1-69; *śyan* has *n*-mark, so first-syllable accent by P. 6-1-197; *yadvṛttān nityam* P. 8-1-66 bars the loss of accent, since *yasmāt* precedes it, so *tiṅ atiṅaḥ* P. 8-1-28 does not apply), *dhīnām* (the ending is accented by P. 6-1-168), *yogam* (*yujir yoge*; *bhāve* P. 3-3-18 *ghañ*; *cajoḥ ku ghiṇṇyatoḥ* P. 7-3-52 gives *g* for *j*; *pugantalaghūpadhasya ca* guṇa; *ñit*, so first-syllable accent), and *invati* (*ivi vyāptau*; *idito num dhātoḥ* P. 7-1-58; *laṭ*, *tip*, *śap*; *tiṅ atiṅaḥ* makes it wholly unaccented). ॥7॥ *(Numerals as read; pointers only.)*
+**Translation:** "Without which god Sadasaspati this sacrifice to be performed by a sacrificer, *vipaścitaś cana*, even a learned one, *na sidhyati*, does not succeed, that god Sadasaspati *invati*, pervades, the *yoga*, connection, of *dhī*, our minds, whose object is the performance, or of the rites to be performed: that is, favouring the sacrificer he accomplishes his sacrifice." (Grammatical tail: *yasmāt*, the ablative because of the connection with *ṛte* by *anyārāt…* (Pā. 2-3-29); the ending udātta due by *sāv ekācaḥ* is barred by *na gośvan…*; *sidhyati*, *ṣidhu saṃrāddhau*, initial udātta as *śyan* is *nit*, the lowering barred by *yadvṛttān nityam*; *dhīnām*, the ending udātta by *sāv ekācaḥ*; *yogam*, *yujir yoge*, initial udātta as *ghañ* is *ñit*; *invati*, *ivi vyāptau*, *śap*, *num* by *idito num dhātoḥ*, wholly unaccented.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 774)*
+**॥ Prati-padārthaḥ ॥**
 
-**यज्ञः (yajñaḥ)** — the sacrifice that is to be performed | **विपश्चितः चन (vipaścitaḥ cana)** — even of a learned sacrificer | **यस्मात् ऋते (yasmāt ṛte)** — without whose help [that deity Sadasaspati] | **न सिध्यति (na sidhyati)** — is not accomplished | **सः (saḥ)** — that Sadasaspati | **धीनाम् (dhīnām)** — to the rite that is to be performed, or to the [intellects] | **योगम् (yogam)** — connexion | **इन्वति (invati)** — pervades (brings about).
+**यज्ञः (yajñaḥ)** — the sacrifice (we have to perform) | **विपश्चितः चन (vipaścitaḥ cana)** — even for a learned sacrificer | **यस्मात् ऋते (yasmāt ṛte)** — without the help of which Sadasaspati | **न सिध्यति (na sidhyati)** — is not accomplished | **सः (saḥ)** — that Sadasaspati | **धीनाम् (dhīnām)** — to the mind set on performing the sacrifice, or to the rites to be performed | **योगम् (yogam)** — connection | **इन्वति (invati)** — pervades (brings about).
 
 **॥ Bhāvārthaḥ ॥**
 
-Even a learned sacrificer cannot accomplish the rite without the help of Sadasaspati. For it is that Sadasaspati who brings about the connexion of our minds with the matters we are to perform — that is, he makes our minds take interest in the rite that is to be done.
+Even a learned sacrificer cannot accomplish the rite without the help of Sadasaspati. For this Sadasaspati brings about the connection between the matters that come into our mind and the rites we have to do; that is, he makes our minds intent on the rites to be performed.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Without whose aid the sacrifice even of the wise does not prosper, he prompts the pious feelings in our thoughts.
+> Without whose aid the sacrifice even of the wise does not prosper, he prompts the pious feelings in our thonghts [sic].
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 774)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**चन (cana)** — this word also means "even" (*api*).
+**Cana**: *api*; this word means "even".
 
-**धीनाम् (dhīnām)** — the word *dhī* has two senses, "wisdom" (*prajñā*) and "action" (*karma*) (Ni. [3-9] and Ni. [2-1]); so *dhīnāṃ yogam invati* means "he brings about connexion with the acts such as sacrifice that we do"; or "he brings about the connexion of our minds with the acts to be done" — that is, he prompts our minds to engage in the performance of the acts.
+**Dhīnām**: the word *dhī* has two senses, intelligence and action (Ni. "3-13" and Ni. "3-2" [as read, ?]). So *dhīnāṃ yogam invati* means he brings about connection with the rites such as sacrifice that we do; or he brings about connection to our understanding so that we do the rites. "Brings about connection" means: he urges our understanding to engage in the performance of rites.
+
+### Page 775 — Rik 7: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar on p. 775, noted briefly)*
+
+**यस्मात् (*yasmāt*)**: here the word *yad* is connected with the word *ṛte*. So by "anyārāditarartedikśabdāñcūttarapadājāhiyukte" (Pā. sū. 2-3-29), when connected with *anya*, *ārāt*, *itara*, *ṛte*, words seen to denote the quarters such as *pūrva*, words with *añc* as final member, and *āc* and *āhi*, the ablative comes after the stem denoting the sense construed with them; so the ablative comes after the word *yad*, construed with the sense of the word *ṛte*: *yad* + *ṅasi*. By "tyadādīnām aḥ" (Pā. sū. 7-2-102) *a* for the *d*; by "ato guṇe" (Pā. sū. 6-1-97) the *pararūpa*. By "ṅasiṅyoḥ smātsminau" (Pā. sū. 7-1-15), for *ṅasi* and *ṅi* after a pronoun ending in short *a*, the substitutes *smāt* and *smin* respectively; so *smāt* for *ṅasi*: *yasmāt*. By "sāv ekācas tṛtīyādir vibhaktiḥ" (Pā. sū. 6-1-168), *su* here meaning the locative plural suffix, the sense of the sūtra is that after a word that has a single vowel when that suffix follows, the case-endings from the instrumental on are udātta. In the locative plural the form is *yeṣu*; the *ye* before the locative plural *su* is the word *yad* with one vowel. So udātta would come to the ablative ending after *yad*, which is among the endings from the instrumental on. But in the nominative singular *yaḥ*, before *su*, the word ends in *a*. So the bar comes to it by "na gośvansāvavarṇa…" (Pā. sū. 6-1-182). So *smāt* is unaccented by the *sup* accent.
+
+**सिध्यति (*sidhyati*)**: *ṣidhu saṃrāddhau*, of the *div-ādi*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; *laṭ*, *tip*. By "divādibhyaḥ śyan" (Pā. sū. 3-1-69) *śyan*: *sidhyati*. *Śyan* is *nit*, so it is initial udātta by the *nit* accent. Since it follows a word containing *yad*, *yasmāt*, the bar "yadvṛttān nityam" (Pā. sū. 8-1-66) comes, so it is not wholly unaccented by *tiṅṅatiṅaḥ*.
+
+**धीनाम् (*dhīnām*)**: the ending is udātta by *sāv ekācaḥ*.
+
+**योगम् (*yogam*)**: the root *yujir yoge*. By *bhāve* the suffix *ghañ*. By "cajoḥ ku ghiṇṇyatoḥ" (Pā. sū. 7-3-52), when a suffix with *gh* as *it* or the suffix *ṇyat* follows, *c* and *j* take the corresponding guttural; so for *j*, the third of the *c*-class, *g*, the third of the *k*-class; the *laghūpadha-guṇa*. The suffix is *ñit*, so *yoga* is initial udātta.
+
+**इन्वति (*invati*)**: the root *ivi vyāptau*. By "idito num dhātoḥ" (Pā. sū. 7-1-58) the augment *num*; *laṭ*, *tip*, *śap*: *invati*. By *tiṅṅatiṅaḥ* it is wholly unaccented.
+
+**॥७॥**
+
+---
 
 ### Pages 776–779 — Sūkta 18, Rik 8
 
