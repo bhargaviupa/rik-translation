@@ -14585,15 +14585,21 @@ O Indra, we have made the soma juice ready for you and call you. Come near us wi
 
 ---
 
-### Pages 689–691 — Sūkta 16, Rik 5
+### Page 689 (lower) — Sūkta 16, Rik 5
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सेमं नः स्तोममा गह्युपेदं सवनं सुतम् ।
-> गौरो न तृषितः पिब ॥५॥
+> सेमं नः॒ स्तोम॒मा ग॒ह्युपे॒दं सव॑नं सु॒तम् ।
+> गौ॒रो न तृ॑षितः पि॑ब ॥५॥ [accent ?]
 >
-> *semaṃ naḥ stomam ā gahy upedaṃ savanaṃ sutam |*
-> *gauro na tṛṣitaḥ piba ||5||*
+> *semaṃ naḥ stómam ā́ gahy úpedáṃ sávanaṃ sutám |*
+> *gauró ná tṛṣitáḥ piba ||5||* [accent ?]
+
+*(Read at the foot of p. 689: bars under नः, the second म of स्तोमम्, ग, पे, सु and गौ; strokes over व, तृ and पि. No bar is printed under न before तृ, nor under षि.)*
+
+### Page 690 — Rik 5: Pada, bhāṣya, word-meanings, overall sense, English
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -14603,35 +14609,63 @@ O Indra, we have made the soma juice ready for you and call you. Come near us wi
 > *saḥ | imam | naḥ | stomam | ā | gahi | upa | idam | savanam | sutam ||*
 > *gauraḥ | na | tṛṣitaḥ | piba ||5||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 690; compressed; [?] marks doubtful readings)*
+*(उडन्तात् is as printed; the grammar page (p. 691) has ल्युडन्त, so ल्युडन्तात् is probably meant. "म." before ७-१-३९ is as printed. ॥३०॥ closes Varga 30.)*
 
-> हे इन्द्र स त्वं नोऽस्मदीयमिमं स्तोमं स्तुतिं प्रत्या गहि । आगत्य । आगमनेहेतुरुच्यते । उप देवयजनसमीपे सुतमभिषुतसोमयुक्तमिदानीमनुष्ठीयमानं सवनं प्रातःसवनादिरूपं कर्म वर्तते । तस्माद्गौरो न गौरमृग इव तृषितः सन्निमं सोमं पिब ॥ सः इमम् । इत्यत्र संहितायां सोऽचि लोपे चेत्पादपूरणम् । पा. [६-१-१३४] । इति सुलोपः । गहि । गतम् । सवनं । सूयतेऽस्मिन्सोम इति । सूञ् प्राणिप्रसवे । अधिकरणे ल्युट् । लिति । इति प्रत्ययात्पूर्वस्योदात्तत्वम् । लुडन्तत्वात्सप्तम्याः सुपां सुलोपो भवन्तीति वक्तव्यम् । मु. [?] । तदा द्वितीया । अभिषुतसोमयुक्तमिदं सवनमिति कर्मण्येव वा द्वितीया । तदा सुतशब्द ईषदर्थः [?] । कृषितः । तृष पिपासायाम् । निष्ठेति क्तः । प्रत्ययस्वरेणोदात्तः । पश्चादिट् आगमा अनुदात्ता इत्यनुदात्तत्वम् ॥५॥
+> हे इन्द्र स त्वं नोऽस्मदीयमिमं स्तोमं स्तुतिं प्रत्या गहि । आगच्छ । आगमने हेतुरुच्यते । उप देवयजनसमीपे सुतमभिषुतसोमयुक्तमिदानीमनुष्ठीयमानं सवनं प्रातःसवनादिरूपं कर्म वर्तते । तस्माद्गौरो न गौरमृग इव तृषितः सन्निमं सोमं पिब ॥ सः इममित्यत्र संहितायां सोऽचि लोपे चेत्पादपूरणम् । पा. ६-१-१३४ । इति सुलोपः । गहि । गतम् । सवनम् । सूयतेऽस्मिन्सोम इत्यधिकरणे ल्युट् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वम् । उडन्तात्सप्तम्याः [?] सुपां सुपो भवन्तीति वक्तव्यम् । म. ७-१-३९ । इति वचनाद्द्वितीया । अभिषुतसोमयुक्तमिदं सवनमिति कर्मण्येव वा द्वितीया । तदा सुतशब्दादर्शआदित्वादच् । पा. ५-२-१२७ । तृषितः । ञितृष पिपासायाम् । निष्ठेति क्तः । प्रत्ययस्वरेणोदात्तः । पश्चादिटि आगमा अनुदात्ता इत्यनुदात्तत्वम् ॥३०॥
 >
-> *he indra sa tvaṃ no 'smadīyam imaṃ stomaṃ stutiṃ praty ā gahi | āgatya | āgamane hetur ucyate | upa deva-yajana-samīpe sutam abhiṣuta-soma-yuktam idānīm anuṣṭhīyamānaṃ savanaṃ prātaḥsavanādi-rūpaṃ karma vartate | tasmād gauro na gaura-mṛga iva tṛṣitaḥ sann imaṃ somaṃ piba || saḥ imam | ity atra saṃhitāyāṃ so 'ci lope cet pādapūraṇam | pā. [6-1-134] | iti su-lopaḥ | gahi | gatam | savanaṃ | sūyate 'smin soma iti | sūñ prāṇi-prasave | adhikaraṇe lyuṭ | liti | iti pratyayāt pūrvasyodāttatvam | luḍantatvāt saptamyāḥ supāṃ sulopo bhavantīti vaktavyam | mu. [?] | tadā dvitīyā | abhiṣuta-soma-yuktam idaṃ savanam iti karmaṇy eva vā dvitīyā | tadā suta-śabda īṣad-arthaḥ [?] | tṛṣitaḥ | tṛṣa pipāsāyām | niṣṭheti ktaḥ | pratyaya-svareṇodāttaḥ | paścād iṭ āgamā anudāttā ity anudāttatvam ||5||*
+> *he indra sa tvaṃ no 'smadīyamimaṃ stomaṃ stutiṃ pratyā gahi | āgaccha | āgamane heturucyate | upa devayajanasamīpe sutamabhiṣutasomayuktamidānīmanuṣṭhīyamānaṃ savanaṃ prātaḥsavanādirūpaṃ karma vartate | tasmādgauro na gauramṛga iva tṛṣitaḥ sannimaṃ somaṃ piba || saḥ imamityatra saṃhitāyāṃ so 'ci lope cetpādapūraṇam | pā. 6-1-134 | iti sulopaḥ | gahi | gatam | savanam | sūyate 'sminsoma ityadhikaraṇe lyuṭ | litīti pratyayātpūrvasyodāttatvam | uḍantātsaptamyāḥ [?] supāṃ supo bhavantīti vaktavyam | ma. 7-1-39 | iti vacanāddvitīyā | abhiṣutasomayuktamidaṃ savanamiti karmaṇyeva vā dvitīyā | tadā sutaśabdādarśaāditvādac | pā. 5-2-127 | tṛṣitaḥ | ñitṛṣa pipāsāyām | niṣṭheti ktaḥ | pratyayasvareṇodāttaḥ | paścādiṭi āgamā anudāttā ityanudāttatvam ||30||*
 
-**Translation:** "O Indra! Such as you are, come (*ā gahi*) to this our *stoma*, our praise. Having come — the reason for your coming is stated: near (*upa*) the sacrificial ground, a *savana* — a rite of the morning pressing and so on, accompanied by pressed soma — is now being performed. Therefore, like a *gaura* — a pale-coloured deer (*gaura-mṛga*) — being thirsty, drink this soma." The rest is grammar, noted briefly: *saḥ imam* (in the Saṃhitā the *su* is dropped before a vowel by P. 6-1-134 *so 'ci lope cet pādapūraṇam*); *gahi* (as before); *savanam* (*sū* "to bring forth" with *lyuṭ* in the locative sense — "that in which soma is pressed" — the accent before the suffix by P. 6-1-193 *liti*; the locative ending dropped [?]; or accusative with *sutam*); *tṛṣitaḥ* (*tṛṣ* "to thirst", *kta*, with suffix accent; the augment *iṭ* unaccented). *(Grammar, noted briefly.)*
+**Translation:** "O Indra, such as you are, come to this our *stoma*, praise. Come: the reason for coming is stated. Near (*upa*) the place of sacrifice a rite (*savana*) in the form of the morning pressing and so on, joined with the pressed soma (*sutam*), is now being performed. Therefore, like a *gaura*, a *gaura* deer, being thirsty, drink this soma." (Grammatical tail: *sa imam*, the loss of *su* in the Saṃhitā by Pā. 6-1-134; *gahi*, explained before; *savanam*, *lyuṭ* in the sense of place, "in it the soma is pressed", the accent before the suffix by *liti*; the accusative for the locative by the statement *supāṃ supo bhavanti* (म. 7-1-39), or the accusative of object, *suta* then taking *ac* as one of the *arśa-ādi* (Pā. 5-2-127); *tṛṣitaḥ*, *kta* after *ñitṛṣa pipāsāyām*, udātta by the suffix accent, the augment *iṭ* unaccented.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 690)*
+**॥ Prati-padārthaḥ ॥**
 
-**इन्द्र (indra)** — O Indra | **सः (saḥ)** — you [being thus] | **नः (naḥ)** — our | **इमम् (imam)** — this | **स्तोमम् (stomam)** — praise (for hearing) | **आ गहि (ā gahi)** — come | **उप (upa)** — near [the sacrificial altar] | **सुतम् (sutam)** — accompanied by the pressed soma-juice | **इदम् (idam)** — this | **सवनम् (savanam)** — the rite of the morning pressing [that is going on] | **तृषितः (tṛṣitaḥ)** — thirsty | **गौरः (gauraḥ)** — a *gaura* deer | **न (na)** — like | **पिब (piba)** — drink [the soma-juice].
+**इन्द्र (indra)** — O Indra | **सः (saḥ)** — you | **नः (naḥ)** — our | **इमम् (imam)** — this | **स्तोमम् (stomam)** — praise (to hear it) | **आ गहि (ā gahi)** — come | **उप (upa)** — near (the sacrificial altar) | **सुतम् (sutam)** — joined with the prepared soma juice | **इदम् (idam)** — this (now to be performed) | **सवनम् (savanam)** — the rite in the form of the morning pressing (is going on) | **तृषितः (tṛṣitaḥ)** — thirsty | **गौरः न (gauraḥ na)** — like a light-coloured deer | **पिब (piba)** — drink (the soma juice).
 
 **॥ Bhāvārthaḥ ॥**
 
-The soma-juice needed for the morning pressing is ready. For the sake of that rite, come, pleased with the praise that we make, and, like a deer thirsty from the mouth [i.e. from the dryness of the mouth], drink the soma-juice.
+The soma juice needed for the morning pressing is ready. Come, pleased with the praise we make as a part of that rite, and drink the soma juice as a thirsty animal (a deer) drinks water.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Indra, accept this our praise and come to this our sacrifice of the expressed soma ; drink like a thirsty stag.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 691)*
+### Page 691 — Rik 5: Special Topics and grammar
 
-**गौरः (gauraḥ)** — a pale-coloured deer. Here the word *na* is a particle of comparison; *gauro na* means "like a deer".
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**तृषितः (tṛṣitaḥ)** — thirsty. A deer, parched with thirst, drinks water eagerly; so you also should drink our soma-juice as much as you wish, with eagerness.
+**Gauraḥ**: a light-coloured deer. Here the word *na* indicates comparison; *gauro na* means "like a deer".
 
-**Grammar pages (pp. 691 lower half–692), noted briefly.** *Saḥ* + *imam*: here, in the Saṃhitā, with *saḥ* + *imam*, the loss of *su* by P. 6-1-134 *so 'ci lope cet pādapūraṇam* takes place only if the *pāda* is thereby made up (to eight syllables); the guṇa of P. 6-1-87 *ād guṇaḥ* then makes the *a*+*i* into *e* [*semam*]; the Kannada gives the *śikṣā* verses on the "*kaṇṭhya*, *tālavya*" nature of *e* and *ai* (*kaṇṭhatālavya e ai*, as in Pāṇinīya-śikṣā, verses read in small print: *akuhavisarjanīyānāṃ kaṇṭhaḥ*, *icuyaśānāṃ tālu*, … *e ai tu kaṇṭhatālavyau*, *o au kaṇṭhoṣṭhajau smṛtau*), and argues that if the *su* is not dropped (*sa imam*) the *pāda* would not be complete, so the dropping applies; the *ru*-sandhi alternative (P. 8-3-34 *visarjanīyasya saḥ* etc. [?]) is discussed and set aside, since by P. 8-2-1 *pūrvatrāsiddham* and P. 6-1-87 the *y* from *ro* would not interfere. *Gahi*: explained earlier [Rik 4]. *Savanam*: *sū* "to bring forth", *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64, *lyuṭ* in the sense of place by P. 3-3-117 *karaṇādhikaraṇayoś ca*, *yuvor anākau* P. 7-1-1 for *ana*, guṇa by P. 7-3-84, *av* by P. 6-1-78; first-syllable accent before *lyuṭ*, by P. 6-1-193 *liti*; "*savanam*" is a *lyuṭ* neuter ending, to which *su* is added in the locative [? the passage is not clear to me]. ॥5॥ *(Crowded; outline only; the Pāṇinīya-śikṣā verses are partly read from small print and are given as pointers only.)*
+**Tṛṣitaḥ**: thirsty. The sense is: as a deer worn out by thirst drinks water eagerly, so you should drink our soma juice eagerly, as much as you wish.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 691–692, noted briefly)*
+
+**सः इमम् (*saḥ imam*)**: here, with *sas* + *imam* in the Saṃhitā, by "so 'ci lope cet pādapūraṇam" (Pā. sū. 6-1-134), in the case where the loss makes up the *pāda*, the *su* suffix of *sas* is dropped when a vowel follows; so, the *su* dropped, *sa* + *imam*; by "ād guṇaḥ" (Pā. sū. 6-1-87) in place of *a* and *i*, born in the throat and the palate, comes *e*, born in the throat and palate together and called *guṇa*: *semam*. From the Pāṇinīya-śikṣā statement
+
+*(The verses are as printed: तालव्यावोष्ठजा and कण्ठतालव्यावो औ show a printed *v* glide.)*
+
+> कण्ठ्यावहाविचुयशास्तालव्यावोष्ठजावुपू । स्युर्मूर्धन्या ऋटुरषा दन्त्या लृतुलसाः स्मृताः ॥१७॥
+> जिह्वामूले तु कुः प्रोक्तः दन्त्योष्ठ्यो वस्स्मृतो बुधैः । ए ऐ तु कण्ठतालव्यावो औ कण्ठोष्ठजौ स्मृतौ ॥१८॥
+>
+> *kaṇṭhyāvahāvicuyaśāstālavyāvoṣṭhajāvupū | syurmūrdhanyā ṛṭuraṣā dantyā lṛtulasāḥ smṛtāḥ ||17||*
+> *jihvāmūle tu kuḥ proktaḥ dantyoṣṭhyo vassmṛto budhaiḥ | e ai tu kaṇṭhatālavyāvo au kaṇṭhoṣṭhajau smṛtau ||18||*
+
+("The *a*, *ku*, *h* and visarga are of the throat; *i*, *cu*, *y* and *ś* of the palate; *u* and *pu* of the lips; *ṛ*, *ṭu*, *r* and *ṣ* are of the head; *ḷ*, *tu*, *l* and *s* are held to be of the teeth. *Ku* is said to be at the root of the tongue; *v* is held by the wise to be of the teeth and lips; *e* and *ai* are of the throat and palate, *o* and *au* of the throat and lips": my rendering, mine and tentative.) it is established that *a* is of the throat, *i* of the palate and *e* of the throat and palate. In the case where by *so 'ci lope* (Pā. sū. 6-1-134) the loss of *su* does not come, in *sas* + *imam* there is *ru* by "sasajuṣo ruḥ" (Pā. sū. 8-2-66), *y* for it by "bhobhagoaghoapūrvasya yo 'śi" (Pā. sū. 6-3-18 [as read; ?]), then the *y* is dropped by "lopaḥ śākalyasya" (Pā. sū. 8-3-19). By "pūrvatrāsiddham" (Pā. sū. 8-2-1), when *guṇa* is to be made by *ād guṇaḥ*, the loss of *y* counts as not done; so there is no room for *guṇa*. Thus it would have to stay *sa imam*, and the *pāda* would not be made up.
+
+**गहि (*gahi*)**: explained in the previous mantra.
+
+**सवनम् (*savanam*)**: meant as "*sūyate asmin somaḥ*", in it the soma is pressed: the root *ṣūñ prāṇiprasave*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; after *sū*, in the sense of place, *lyuṭ* by "karaṇādhikaraṇayoś ca" (Pā. sū. 3-3-117); the substitute *ana* by "yuvor anākau" (Pā. sū. 7-1-1): *sū* + *ana*; *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-44 [as printed, for 7-3-84]); the substitute *av* by "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78): *savana*. The *a* before the suffix *ana* is udātta by "liti" (Pā. sū. 6-1-193). *Savana* is a *lyuḍanta* in the sense of place. After it comes the locative singular suffix *ṅi*.
+
+### Page 692 (upper) — Rik 5: grammar (end)
+
+In its place, by "supāṃ supo bhavanti" (Pā. sū. Vā. 3-1-39-1 [as printed; the vārttika is on 7-1-39]), stated in the sūtra "supāṃ suluk…" (Pā. sū. 7-1-39) (in place of *sup* endings the intended *sup* endings come), the accusative singular *am* comes. *Savana* + *am*: by "ami pūrvaḥ" (Pā. sū. 6-1-107) the *pūrvarūpa*: *savanam*. *Savane sutam idaṃ piba*: in this alternative the sense is "O Indra, drink the soma pressed in the rite in the form of the morning pressing and so on". Or, meant as "*sutam asya asti*", by "arśaādibhyo 'c" (Pā. sū. 5-2-127) the suffix *ac*: *suta* + *a*; by "yasyeti ca" (Pā. sū. 6-4-148) the *a* is dropped. *Sutam* means "joined with the pressed soma juice". In this alternative *sutam idaṃ savanaṃ piba* means "enjoy this rite of the morning pressing and so on, joined with the pressed soma juice". Since *savana* denotes the object marked by the action conveyed by the root *pā*, the justification can be given that the accusative comes by "karmaṇi dvitīyā" (Pā. sū. 2-9-2 [as read; for 2-3-2] [?]). In the Vedabhāṣya, explaining the sense, *savanam* is taken as a nominative and the verb is supplied; in that alternative it must be said that *am* is substituted for the nominative singular suffix by *supāṃ suluk*.
+
+**तृषितः (*tṛṣitaḥ*)**: the root *ñitṛṣa pipāsāyām*; the suffix *kta* in the object sense by "niṣṭhā" (Pā. sū. 2-2-36 [as printed, for 3-2-102]); the augment *iṭ* by "ārdhadhātukasyeḍ valādeḥ" (Pā. sū. 7-2-35): *tṛṣita*. After the *kta* suffix is made initial udātta by *ādyudāttaś ca*, the augment *iṭ* that comes is unaccented by *āgamā anudāttāḥ*.
+
+**॥५॥**
+
+---
 
 ### Pages 692–694 — Sūkta 16, Rik 6
 
