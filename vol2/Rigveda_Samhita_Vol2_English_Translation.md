@@ -12109,7 +12109,7 @@ in the *bhāva* sense. *Tad* means the effect; the cause is for the sake of the 
 > आ त्वा॒ कण्वा॑ अहूषत गृ॒णन्ति॑ विप्र ते॒ धियः॑ ।
 > दे॒वेभि॑रग्न॒ आ ग॑हि ॥२॥
 >
-> *ā́ tvā káṇvā ahūṣata gṛṇánti vipra te dhíyaḥ |*
+> *ā tvā káṇvā ahūṣata gṛṇánti vipra te dhíyaḥ |*
 > *devébhir agna ā́ gahi ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -12186,15 +12186,17 @@ the loss of *m* by "anudāttopadeśa…" counts as not done, so *hi* does not st
 
 ---
 
-### Pages 592–593 — Sūkta 14, Rik 3
+### Page 592 (lower) — Sūkta 14, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रवायू बृहस्पतिं मित्राग्निं पूषणं भगम् ।
-> आदित्यान्मारुतं गणम् ॥३॥
+> इ॒न्द्र॒वा॒यू बृह॒स्पतिं॑ मि॒त्राग्निं पू॒षणं॒ भग॑म् ।
+> आ॒दि॒त्यान्मारु॑तं ग॒णम् ॥३॥
 >
-> *indravāyū bṛhaspatiṃ mitrāgniṃ pūṣaṇaṃ bhagam |*
-> *ādityān mārutaṃ gaṇam ||3||*
+> *indravāyū́ bṛhaspátiṃ mitrā́gniṃ pūṣáṇaṃ bhágam |*
+> *ādityā́n mā́rutaṃ gaṇám ||3||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -12204,45 +12206,67 @@ the loss of *m* by "anudāttopadeśa…" counts as not done, so *hi* does not st
 > *indravāyū iti | bṛhaspatim | mitrā | agnim | pūṣaṇam | bhagam ||*
 > *ādityān | mārutam | gaṇam ||3||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 592; compressed; the reading is given as printed, with [?] where I am not sure)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> इन्द्रादिदेवान्मारुतं मरुतां वायूनां सम्बन्धिनं गणं च हे अग्ने यक्षीति पदद्वयमनुवर्तते ॥ इन्द्रश्च वायुश्चेन्द्रवायू । देवताद्वन्द्वे च । पा. ६-३-२६ । इति प्राप्तस्यानङ उभयत्र वायोः प्रतिषेधो वक्तव्यः । पा. ६-३-२६ वा. । इति प्रतिषेधः । देवताद्वन्द्वे च । पा. ६-२-१४१ । इति प्राप्तस्योभयपदप्रकृतिस्वरस्य नोत्तरपदेऽनुदात्तादौ । पा. ६-२-१४३ [?] । इति निषेधः । समासान्तोदात्तत्वमेव । बृहस्पतिम् । तस्करबृहतोः करपत्योश्चोरदेवतयोरभिधेययोः सुट् तलोपश्च वक्तव्यः । मै. [?] इति तलोपः सुडागमश्च । बृहच्छब्दमाद्युदात्तं केचिद्वर्णयन्तीति नामनः [?] । पा रक्षणे । पातीति पतिः । पातेर्डतिः । उ. ४-[?] । प्रत्ययस्वरेणाद्युदात्तः । समास उभे वनस्पत्यादिषु युगपत् । पा. ६-२-१४० । इत्युभयपदप्रकृतिस्वरत्वम् । मित्रा । द्वितीयायाः सुसां सुलुगित्यादिना विभक्तेराजादेशः । आदित्यान् । अदितेरपत्यमादित्यः । दित्यदित्यादित्यपत्युत्तरपदाण्ण्यः । पा. ४-१-८५ । प्रत्ययस्वरः । मारुतम् । मरुतां विकारः । अनुदात्तादेश्च । पा. ४-३-१४० । इत्यञ् । ञित्त्वात्पादाद्युदात्तः ॥
+> इन्द्रादिदेवान्मारुतं मरुतां वायूनां सम्बन्धिनं गणं च हे अग्ने यक्षीति पदद्वयमनुवर्तते ॥ इन्द्रश्च वायुश्चेन्द्रवायू । देवताद्वन्द्वे च । पा. ६-३-२६ । इति प्राप्तस्यानङ उभयत्र वायोः प्रतिषेधो वक्तव्यः । पा. ६-३-२६-१ । इति प्रतिषेधः । देवताद्वन्द्वे च । पा. ६-२-१४१ । इति प्राप्तस्योभयपदप्रकृतिस्वरस्य नोत्तरपदेऽनुदात्तादौ । पा. ६-२-१४२ । इति निषेधः । समासान्तोदात्तत्वमेव । बृहस्पतिं । तद्बृहतोः करपत्योश्चोरदेवतयोः सुट् तलोपश्च वक्तव्यः । म. ६-१-१५८ । इति तलोपः सुडागमश्च । बृहच्छब्दमाद्युदात्तं केचिद्वर्णयन्तीति वामनः । पा रक्षणे । पातीति पतिः । पातेर्डतिः । उ. ४-५८ । प्रत्ययस्वरेणाद्युदात्तः । समास उभे वनस्पत्यादिषु युगपत् । पा. ६-२-१४० । इत्युभयपदप्रकृतिस्वरत्वं । मित्रा । द्वितीयायाः सुपां सुलुगित्यादिना विभक्तेराजादेशः । आदित्यान् । अदितेरपत्यान्यादित्याः । दित्यदित्यादित्यपत्युत्तरपदाण्ण्यः । पा. ४-१-८५ । प्रत्ययस्वरः । मारुतं । मरुतां विकारः । अनुदात्तादेश्च । पा. ४-३-१४० । इत्यञ् । ञित्त्वादाद्युदात्तः ॥
 >
-> *indrādi-devān mārutaṃ marutāṃ vāyūnāṃ sambandhinaṃ gaṇaṃ ca he agne yakṣīti pada-dvayam anuvartate || indraś ca vāyuś cendravāyū | devatādvandve ca | pā. 6-3-26 | iti prāptasyānaṅa ubhayatra vāyoḥ pratiṣedho vaktavyaḥ | pā. 6-3-26 vā. | iti pratiṣedhaḥ | devatādvandve ca | pā. 6-2-141 | iti prāptasyobhaya-pada-prakṛti-svarasya nottarapade 'nudāttādau | pā. 6-2-143 [?] | iti niṣedhaḥ | samāsāntodāttatvam eva | bṛhaspatim | taskara-bṛhatoḥ kara-patyoś cora-devatayor abhidheyayoḥ suṭ talopaś ca vaktavyaḥ | mai. [?] iti talopaḥ suḍāgamaś ca | bṛhac-chabdam ādyudāttaṃ kecid varṇayantīti nāmanaḥ [?] | pā rakṣaṇe | pātīti patiḥ | pāter ḍatiḥ | u. 4-[?] | pratyaya-svareṇādyudāttaḥ | samāsa ubhe vanaspaty-ādiṣu yugapat | pā. 6-2-140 | ity ubhaya-pada-prakṛti-svaratvam | mitrā | dvitīyāyāḥ su-sāṃ su-lug ity-ādinā vibhaktar ā-jādeśaḥ | ādityān | aditer apatyam ādityaḥ | dityadity-ādityapaty-uttarapadāṇ ṇyaḥ | pā. 4-1-85 | pratyaya-svaraḥ | mārutam | marutāṃ vikāraḥ | anudāttādeś ca | pā. 4-3-140 | ity añ | ñittvāt pādādy-udāttaḥ ||*
+> *indrādidevānmārutaṃ marutāṃ vāyūnāṃ sambandhinaṃ gaṇaṃ ca he agne yakṣīti padadvayamanuvartate || indraśca vāyuścendravāyū | devatādvandve ca | pā. 6-3-26 | iti prāptasyānaṅa ubhayatra vāyoḥ pratiṣedho vaktavyaḥ | pā. 6-3-26-1 | iti pratiṣedhaḥ | devatādvandve ca | pā. 6-2-141 | iti prāptasyobhayapadaprakṛtisvarasya nottarapade 'nudāttādau | pā. 6-2-142 | iti niṣedhaḥ | samāsāntodāttatvameva | bṛhaspatiṃ | tadbṛhatoḥ karapatyoścoradevatayoḥ suṭ talopaśca vaktavyaḥ | ma. 6-1-158 | iti talopaḥ suḍāgamaśca | bṛhacchabdamādyudāttaṃ kecidvarṇayantīti vāmanaḥ | pā rakṣaṇe | pātīti patiḥ | pāterḍatiḥ | u. 4-58 | pratyayasvareṇādyudāttaḥ | samāsa ubhe vanaspatyādiṣu yugapat | pā. 6-2-140 | ityubhayapadaprakṛtisvaratvaṃ | mitrā | dvitīyāyāḥ supāṃ sulugityādinā vibhakterājādeśaḥ | ādityān | aditerapatyānyādityāḥ | dityadityādityapatyuttarapadāṇṇyaḥ | pā. 4-1-85 | pratyayasvaraḥ | mārutaṃ | marutāṃ vikāraḥ | anudāttādeśca | pā. 4-3-140 | ityañ | ñittvādādyudāttaḥ ||*
 
-**Translation:** "[The two words of Rik 1] *he agne yakṣi* ('O Agni, sacrifice') continue to be understood: [sacrifice] to Indra and the other gods, and to the *mārutam gaṇam* — the host belonging to the Maruts, the winds. *Indravāyū* — *Indra* and *Vāyu*, a dvandva of deities [the rest of this passage is grammar on why the *ānaṅ* substitution and the compound-accent rules do not apply — the compound keeps the accent of the end of the compound]. *Bṛhaspatim* — [the grammar here concerns the Vārttika that *suṭ* is added and *t* is dropped in *bṛhaspati* and *taskara* — the readings are marked as uncertain above]; *pā* means 'to protect'; 'he protects' is *pati*; first-syllable accent by the suffix-accent; both parts keep their own accent, as in *vanaspati*. *Mitrā* — the case-ending replaced by *ā* by the rule 'su-, sām, … *luk*' [with the second case sense, singular — see Special Topics]. *Ādityān* — the child (*apatya*) of Aditi is *Āditya* (P. 4-1-85, the suffix accent). *Mārutam* — what belongs to or is a product of the Maruts, with *añ* by P. 4-3-[?]; since *añ* has an indicatory *ñ*, the first syllable of the word is accented." *(Grammar noted briefly; "[?]" marks stretches where the print is compressed or the sūtra numeral is unclear. The numbers 6-3-26, 6-2-141 and 4-1-85 agree with the standard numbering.)*
+**Translation:** "The two words *he agne yakṣi* ('O Agni, sacrifice') are carried on: [sacrifice to] Indra and the other gods, and to *mārutaṃ gaṇam*, the host belonging to the Maruts, the winds." (Grammatical tail: *indravāyū*, "Indra and Vāyu": the *ānaṅ* of Pā. 6-3-26 is barred for *vāyu* by its vārttika (6-3-26-1); the double accent of Pā. 6-2-141 is barred by Pā. 6-2-142, so the compound is final-udātta; *bṛhaspatim*: loss of *t* and the augment *s* by the statement on *tad*/*bṛhat* before *kara*/*pati* in the sense of thief/deity (MB. "6-1-158" as printed); Vāmana says some take *bṛhat* as initial-udātta; *pati* from *pā* 'to protect' with *ḍati* (Uṇ. 4-58), initial udātta; both members keep their accents by Pā. 6-2-140; *mitrā*, *ā* for the accusative ending by *supāṃ suluk…*; *ādityān*, "the sons of Aditi", *ṇya* by Pā. 4-1-85, the suffix accent; *mārutam*, "a product of the Maruts", *añ* by Pā. 4-3-140, initial udātta.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 593)*
+### Page 593 — Rik 3: word-meanings, overall sense, English, Special Topics
 
-**(हे अग्ने) ((he agne))** — O Agni | **इन्द्रवायू (indravāyū)** — Indra and Vāyu | **बृहस्पतिम् (bṛhaspatim)** — Bṛhaspati | **मित्रा (mitrā)** — Mitra | **अग्निम् (agnim)** — Agni | **पूषणम् (pūṣaṇam)** — Pūṣan | **भगम् (bhagam)** — Bhaga | **आदित्यान् (ādityān)** — the Ādityas | **मारुतं गणम् (mārutaṃ gaṇam)** — the hosts of the Maruts | *(all these)* — having in view [or: for them] — **(यक्षि) ((yakṣi))** — sacrifice.
+**॥ Prati-padārthaḥ ॥**
+
+*(O Agni)* **इन्द्रवायू (indravāyū)** — Indra and Vāyu | **बृहस्पतिम् (bṛhaspatim)** — Bṛhaspati | **मित्रा (mitrā)** — Mitra | **अग्निम् (agnim)** — Agni | **पूषणम् (pūṣaṇam)** — Pūṣan | **भगम् (bhagam)** — Bhaga | **आदित्यान् (ādityān)** — the Ādityas | **मारुतं गणम् (mārutaṃ gaṇam)** — the hosts of the Maruts, having them in view | *(yakṣi — sacrifice)*.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, perform the sacrifice with these in view: Indra, Vāyu, Bṛhaspati, Mitra, Agni, Pūṣan, Bhaga, the Ādityas (or: the deities), and the hosts of the Maruts.
+O Agni, sacrifice with these in view: Indra, Vāyu, Bṛhaspati, Mitra, Agni, Pūṣan, Bhaga, the Ādityas (or the gods) and the hosts of the Maruts.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Sacrifice to Indra, Vayu, Bribaspati [sic], Mitra, Agni, Pushan, Bhaga, the Adityas. and [sic] the hosts of Maruts.
-
-*(A bare numeral "75" stands after the English at the foot of p. 593; as with "74" on p. 585 it is outside the text — apparently a running number of the English renderings; I take it so, but flag it [?].)*
+> Sacrifice to Indra, Vayu, Brihaspati, Mitra, Agni, Pushan, Bhaga, the Adityas. [sic] and the hosts of Maruts.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**अग्ने यक्षि (agne yakṣi)** — Because this rik has no verb, the commentator says the two words *agne yakṣi* ("O Agni, sacrifice") must be supplied (*adhyāhāra*). But Agni is himself one of the group named in this rik, so it seems unfitting to say "O Agni, sacrifice to Agni". For this reason the author of the *Vedārthayatna* supplies the two words *ahaṃ hvaye* — "I invoke" — to mean: "I invoke the deities beginning with Indra and Vāyu."
+Since this Ṛk has no verb, the Bhāṣyakāra says the words *agne yakṣi*, "O Agni, sacrifice", are to be supplied. But Agni is in this group too, so it does not seem fitting to address Agni and say "sacrifice to Agni". For this reason the author of the Vedārthayatna supplies the two words *ahaṃ hvaye*, "I invoke", that is, "I invoke the deities Indra, Vāyu and the rest".
 
-**इन्द्रवायू (indravāyū)** — *indraś ca vāyuś ca indravāyū*; the compound of two deities (*devatā-dvandva*): the two deities Indra and Vāyu are named by a single word in the dual.
+**Indravāyū**: *indraś ca vāyuś ca indravāyū*, a *devatā-dvandva*: the two deities Indra and Vāyu are named by a single word in the dual.
 
-**मित्रा (mitrā)** — here the second-case ending must be taken in the singular sense [= *mitram*].
+**Mitrā**: here the word has the sense of the accusative singular.
 
-**आदित्यान् (ādityān)** — *aditer apatyāni ādityāḥ*: the children of Aditi, the mother of the gods, are called Ādityas; the meaning is "the deities", or the twelve Ādityas.
+**Ādityān**: *aditer apatyāny ādityāḥ*: the children of Aditi, the mother of the gods, are called Ādityas; it means the gods, or the twelve Ādityas.
 
-**मारुतम् (mārutam)** — the final letter of the genitive plural *mārutām* has been shortened for the sake of the metre.
+**Mārutam**: the last syllable of the genitive plural *mārutām* is shortened to suit the metre.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics), Rik 3 — continuation (p. 594) ॥**
+### Page 594 — Rik 3: Special Topics (end) and grammar
 
-**मारुतं गणम् (mārutaṃ gaṇam)** — The host (*samūha*) of the Marut deities. The Purāṇas and similar works say that there are seven Maruts (the *sapta-marut-gaṇas*); in the Ṛgveda too the word *marut* is ordinarily used in the plural. *Mārutaṃ gaṇam* therefore means "the company, the group, of the Marut deities."
+**Mārutaṃ gaṇam**: the host of the Marut deities. The Purāṇas and other works say there are seven Maruts (the seven Marut hosts). In the Ṛgveda too the word *marut* is generally used in the plural. *Mārutaṃ gaṇam* means the group, the host of the Marut deities.
 
-*(Rik 3 grammar, pp. 594–596 — Vyākaraṇa-prakriyā, grammar pages, noted briefly: the Kannada treats* indravāyū *(P. 6-3-26* devatādvandve ca *with the Vārttika that* ānaṅ *is barred for* vāyu*; P. 6-2-141* devatādvandve ca *and the bar in P. 6-2-142 [?]),* bṛhaspatim *(the Vārttika on* tasya… bṛhatoḥ karapatyoś coradevatayoḥ suṭ talopaś ca*; Pā. 6-1-157 [?] for the* kukkuṭādīnām… *discussion; P. 1-1-41* ādyantau ṭakitau*; the Uṇādi* ḍati *from* pā *"to protect", Uṇ. 4-[?]; the accent rule P. 6-2-140 [?]*), mitrā *(P. 7-1-39* supāṃ sulug…; *ekādeśa under P. 8-2-5),* ādityān *(P. 4-1-85* dityadity-ādityapatyuttarapadāṇ ṇyaḥ*, with the* ṇya *accent; 6-4-148* yasyeti ca*; 7-2-117* taddhiteṣv acām ādeḥ*; 6-1-103 and 8-4-6 [?] for the accusative plural* ān*), and* mārutam *(Uṇ. 1-94 [?]* mṛgror utiḥ*,* mṛj *"to cleanse"; P. 4-3-[?]* anudāttādeś ca *with* añ*, P. 6-1-197 [?]* ñnityādir nityam*, the first-syllable accent). Sūtra numbers read from small print are pointers only.)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 594–596, noted briefly)*
+
+**इन्द्रवायू (*indravāyū*)**: *indraś ca vāyuś ca*, a dvandva. By "devatādvandve ca" (Pā. sū. 6-3-26), in a dvandva of words denoting deities, the first member before the second takes the replacement *ānaṅ*; *indra* and *vāyu* denote deities, so *ānaṅ* would come for *indra* before *vāyu*; but by the vārttika "ubhayatra vāyoḥ pratiṣedho vaktavyaḥ" (Pā. sū. 6-3-26-1), whether *vāyu* is the first or the second member, *ānaṅ* is barred in that dvandva. By "devatādvandve ca" (Pā. sū. 6-2-141) both members of a deity dvandva keep their own accents at once: *indra* ends in the suffix *ran* and is initial udātta; *vāyu* ends in *uṇ* and is final udātta by the suffix accent. But "nottarapade 'nudāttādāv apṛthivīrudrapūṣamanthiṣu" (Pā. sū. 6-2-142) bars that accent when the second member, other than *pṛthivī* and the rest, begins with an unaccented syllable; so the double accent does not come; by "samāsasya" (Pā. sū. 6-1-223) the compound is final udātta, and the other syllables are unaccented by the *śeṣanighāta*.
+
+**बृहस्पतिम् (*bṛhaspatim*)**: *bṛhatī* means speech; *bṛhatyāḥ patiḥ bṛhaspatiḥ*. For *bṛhatī* before *pati*, by "kukkuṭyādīnām aṇḍādiṣu" (Pā. sū. 6-3-42-1 vā.) the *puṃvadbhāva* comes (feminines like *kukkuṭī* before *aṇḍa* and the like), and the *ṅīp* goes: *bṛhat* + *pati*. Then "tadbṛhatoḥ karapatyoś coradevatayoḥ suṭ talopaś ca" ("ga. sū. 6-1-158" [as printed]): for *tad* and *bṛhat* before *kara* and *pati*, the *d*/*t* drops and *kara*/*pati* take the augment *suṭ*; *suṭ* is *ṭit*, so by "ādyantau ṭakitau" (Pā. sū. 1-1-46) it comes at the beginning of *pati*: *bṛhaspati*. The Mahābhāṣyakāra has rejected the reading "kukkuṭyādīnām aṇḍādiṣu"
+
+### Page 595 — Rik 3: grammar (continued)
+
+on that view the analysis is *bṛhataḥ vāksamūhasya patiḥ*. The analysis *bṛhatyāḥ patiḥ* follows the Chandoga-brāhmaṇa *vāg vai bṛhatī, tasyā eṣa patiḥ*. Vāmana holds that some say *bṛhat* is initial udātta; so *bṛhat* is initial udātta. *Pā rakṣaṇe*: *pātīti patiḥ* (the protector); "pāter ḍatiḥ" (Uṇ. sū. 4-58): the suffix *ḍati* after *pā*: *pā* + *ati*; since the suffix is *ḍit*, the *ā* (the *ṭi*) of *pā* drops: *p* + *ati* = *pati*. By the suffix accent "ādyudāttaś ca" (Pā. sū. 3-1-3) it is initial udātta; when the two are compounded, "ubhe vanaspatyādiṣu yugapat" (Pā. sū. 6-2-140) keeps the own accent of both members. The *a* of *bṛhat* takes the *anudāttatara* accent by "udāttasvaritaparasya sannataraḥ" (Pā. sū. 1-2-40).
+
+**मित्रा (*mitrā*)**: *mitra* is final udātta by the stem accent; accusative singular *am*; "supāṃ suluk…" (Pā. sū. 7-1-39) gives *āc* for it: *mitra* + *ā*, lengthening of like vowels; the single replacement is udātta by "ekādeśa udāttenodāttaḥ" (Pā. sū. 8-2-5).
+
+**आदित्यान् (*ādityān*)**: *aditeḥ apatyāni pumāṃsaḥ ādityāḥ*. "dityadityādityapatyuttarapadāṇ ṇyaḥ" (Pā. sū. 4-1-85): in the senses beginning with *apatya* set out in the Aṣṭādhyāyī from this sūtra to "tena dīvyati khanati jayati jitam" (Pā. sū. 4-4-2), the suffix *ṇya* comes after *diti*, *aditi*, *āditya* and words with *pati* as the second member; so *ṇya* after the genitive of *aditi*: *aditi* + *jas* [as printed, for *ṅas*] + *ya*; ending in a *taddhita*, it is a *prātipadika*, the ending is dropped: *aditi* + *ya*; the *i* drops by "yasyeti ca" (Pā. sū. 6-4-148); initial *vṛddhi* by "taddhiteṣv acām ādeḥ" (Pā. sū. 7-2-117): *āditya*. It is final udātta by the suffix accent; accusative plural *śas*, *pūrvasavarṇa-dīrgha*, *n* for the *s* by "tasmāc chaso naḥ puṃsi" (Pā. sū. 6-1-103); the single replacement is udātta: *ādityān*.
+
+**मारुतम् (*mārutam*)**: "mṛgror utiḥ" (Uṇ. sū. 1-94): after *mṛṅ prāṇatyāge* and *gṝ nigaraṇe* the suffix *uti*: *mṛ* + *uti*, *guṇa* and *raparatva*; the *u* is udātta by the suffix accent and the *a* unaccented by the *śeṣanighāta*, so *marut* begins with an unaccented syllable. *Marutāṃ vikāraḥ*: by "anudāttādeś ca" (Pā. sū. 4-1-84 [as printed, for 4-3-140]), after the genitive of a word beginning with an unaccented syllable, in the senses of product and part,
+
+### Page 596 — Rik 3: grammar (end)
+
+the suffix *añ*: *marut* + *a*, initial *vṛddhi*: *māruta*. The suffix is *ñit*, so by "ñnityādir nityam" (Pā. sū. 6-1-197) *māruta* is initial udātta.
+
+**॥३॥**
+
+---
 
 ### Pages 596–597 — Sūkta 14, Rik 4
 
