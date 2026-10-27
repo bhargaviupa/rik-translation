@@ -13306,55 +13306,101 @@ on the view that the final drops, the *d* drops: *yūya* + *am*. "ami pūrvaḥ"
 
 ---
 
-### Pages 635–641 — Sūkta 15, Rik 3
+### Page 635 (lower) — Sūkta 15, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented. The Pada prints नेष्टरिति for the vocative नेष्टः.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अभि यज्ञं गृणीहि नो ग्नावो नेष्टः पिब ऋतुना ।
-> त्वं हि रत्नधा असि ॥३॥
+> अ॒भि य॒ज्ञं गृ॑णीहि नो॒ ग्नावो॒ नेष्टः॒ पिब॑ ऋ॒तुना॑ ।
+> त्वं हि र॑त्न॒धा असि॑ ॥३॥
 >
-> *abhi yajñaṃ gṛṇīhi no gnāvo neṣṭaḥ piba ṛtunā |*
-> *tvaṃ hi ratnadhā asi ||3||*
+> *abhí yajñáṃ gṛṇīhi no gnā́vo néṣṭaḥ píba ṛtúnā |*
+> *tvaṃ hí ratnadhā́ ási ||3||*
+
+### Page 636 — Rik 3: Pada and bhāṣya
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> अभि । यज्ञम् । गृणीहि । नः । ग्नावः । नेष्टः॒रिति । पिब । ऋतुना ॥
+> अभि । यज्ञम् । गृणीहि । नः । ग्नावः । नेष्टरिति । पिब । ऋतुना ॥
 > त्वम् । हि । रत्नऽधाः । असि ॥३॥
 >
-> *abhi | yajñam | gṛṇīhi | naḥ | gnāvaḥ | neṣṭar iti | piba | ṛtunā ||*
-> *tvam | hi | ratna-dhāḥ | asi ||3||*
+> *abhi | yajñam | gṛṇīhi | naḥ | gnāvaḥ | neṣṭariti | piba | ṛtunā ||*
+> *tvam | hi | ratna 'dhāḥ | asi ||3||*
 
-*(Accent-marks printed in the source; not reproduced. The Pada text has* neṣṭar iti*, the quoted form of the word.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 636; compressed; [?] marks doubtful readings)*
-
-> ग्नाशब्दः स्त्रीवाची । तथा च यास्क आह । मेना ग्ना इति स्त्रीणां … । नि. [३-२१ ?] । ग्ना अस्य सन्तीति ग्नावान् । नेष्टृशब्दोऽत्र त्वष्टारं देवमाह । कस्मिंश्चिद्देवसत्रे नेष्टृत्वेन त्वष्टुर्वृत्तेस्तस्य । हे ग्नावः पत्नीयुक्त नेष्टः त्वष्टः नोऽस्मदीयं यज्ञमभि गृणीहि । अभितो देवानां समीपे स्तुहि । ऋतुना सह त्वं सोमं पिब । हि यस्मात्त्वं रत्नधा असि रत्नानां दाताऽसि दाता भवति तस्मात्सोमं पातुमर्हसीत्यर्थः ॥ अभि । उपसर्गाश्चाभिवर्जम् । फि. [?] । इति पर्युदासादेरन्तोदात्तत्वम् । गृणीहि । गृ शब्दे । लोटि सिपो हिः । क्र्यादिभ्यः श्ना । हेर्जित्त्वादीर्हल्यघोरिति ईत्वम् । श्नाप्रत्ययस्य ञित्त्वाद्गुणाभावः । प्वादीनां ह्रस्वः । तिङ्ङतिङ इति निघातः । ग्नावः । ग्ना अस्य सन्तीति मतुप् । व्यत्ययेन वत्वम् । सम्बुद्धौ मतुवसो रुरिति रुत्वम् । विसर्गः । पादादित्वेनामन्त्रितनिघाताभावात् षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । ग्नाव इत्यस्य विशेषणतया विशेषणवचनत्वान्नामन्त्रिते समानाधिकरण इति निषेधाभावादविद्यमानवत्त्वेनोत्तरस्य नेष्टृशब्दस्य षाष्ठिकमाद्युदात्तत्वम् । पिब । शपः पित्त्वाद्धातुस्वरः । पूर्वयोरामन्त्रितयोरविद्यमानवत्त्वेन निघाताभावः । रत्नधाः । रत्नानि दधातीति रत्नधाः । क्विप् च । धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते । असि । सिपः पित्त्वाद्धातुस्वरः । तिङ्ङतिङ इति निघातो न भवति हि चेति प्रतिषेधात् ॥३॥
+> ग्नाशब्दः स्त्रीवाची । तथा च यास्क आह । मेना ग्ना इति स्त्रीणां मेना मानयन्त्येना ग्ना गच्छन्त्येनाः । नि. ३-२१ । इति । ग्ना अस्य सन्तीति ग्नावान् । नेष्टृशब्दो ऽत्र त्वष्टारं देवमाह । कस्मिंश्चिद्देवसत्रे नेष्टृत्वेन त्वष्टुर्वर्तितत्वात् । हे ग्नावः पत्नीयुक्त नेष्टस्त्वष्टः नो ऽस्मदीयं यज्ञमभि गृणीहि । अभितो देवानां समीपे स्तुहि । ऋतुना सह त्वं सोमं पिब । हि यस्मात्त्वं रत्नधा असि रत्नानां दाता भवसि तस्मात्सोमं पातुमर्हसीत्यर्थः ॥ अभि । उपसर्गाश्चाभिवर्जं । फि. ४-१३ । इति पर्युदासादभेरन्तोदात्तत्वं । गृणीहि । गॄ शब्दे । लोटि सिपो हिः । क्र्यादिभ्यः श्ना । हेर्ङित्त्वादी हल्यघोरितीत्वं । श्नाप्रत्ययस्य ङित्त्वाद्गुणाभावः । प्वादीनां ह्रस्वः । तिङ्ङतिङ इति निघातः । ग्ना अस्य सन्तीति मतुप् । व्यत्ययेन वत्वं । सम्बुद्धौ मतुवसो रुरिति रुत्वं । विसर्गः । पादादित्वेनामन्त्रितनिघाताभावात्षाष्ठिकमामन्त्रिताद्युदात्तत्वं । ग्नाव इत्यस्य विशेषणतया विशेषवचनत्वान्नामन्त्रिते समानाधिकरण इति निषेधाभावादविद्यमानवत्त्वेनोत्तरस्य नेष्टृशब्दस्य षाष्ठिकमाद्युदात्तत्वं । पिब । शपः पित्त्वाद्धातुस्वरः । पूर्वयोरामन्त्रितयोरविद्यमानवत्त्वेन निघाताभावः । रत्नानि दधातीति रत्नधाः । क्विप्चेति क्विप् । धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते । असि । सिपः पित्त्वाद्धातुस्वरः । तिङ्ङतिङ इति निघातो न भवति हि चेति प्रतिषेधात् ॥
 >
-> *gnā-śabdaḥ strī-vācī | tathā ca yāska āha | menā gnā iti strīṇāṃ … | ni. [3-21 ?] | gnā asya santīti gnāvān | neṣṭṛ-śabdo 'tra tvaṣṭāraṃ devam āha | kasmiṃścid deva-satre neṣṭṛtvena tvaṣṭur vṛtteḥ tasya | he gnāvaḥ patnī-yukta neṣṭaḥ tvaṣṭaḥ no 'smadīyaṃ yajñam abhi gṛṇīhi | abhito devānāṃ samīpe stuhi | ṛtunā saha tvaṃ somaṃ piba | hi yasmāt tvaṃ ratnadhā asi ratnānāṃ dātā 'si dātā bhavati tasmāt somaṃ pātum arhasīty arthaḥ || abhi | upasargāś cābhivarjam | phi. [?] | iti paryudāsād erantodāttatvam | gṛṇīhi | gṛ śabde | loṭi sipo hiḥ | kryādibhyaḥ śnā | her jittvād īr halyaghor iti ītvam | śnā-pratyayasya ñittvād guṇābhāvaḥ | pvādīnāṃ hrasvaḥ | tiṅ ataṅ iti nighātaḥ | gnāvaḥ | gnā asya santīti matup | vyatyayena vatvam | sambuddhau matuvaso ruḥ iti rutvam | visargaḥ | pādāditvenāmantrita-nighātābhāvāt ṣāṣṭhikam āmantritādyudāttatvam | gnāva ity asya viśeṣaṇatayā viśeṣaṇa-vacanatvān nāmantrite samānādhikaraṇa iti niṣedhābhāvād avidyamānavatvenottarasya neṣṭṛ-śabdasya ṣāṣṭhikam ādyudāttatvam | piba | śapaḥ pittvād dhātusvaraḥ | pūrvayor āmantritayor avidyamānavatvena nighātābhāvaḥ | ratnadhāḥ | ratnāni dadhātīti ratnadhāḥ | kvip ca | dhātusvaraḥ | samāse kṛd-uttarapada-prakṛti-svaratvena sa eva śiṣyate | asi | sipaḥ pittvād dhātusvaraḥ | tiṅ ataṅ iti nighāto na bhavati hi ceti pratiṣedhāt ||3||*
+> *gnāśabdaḥ strīvācī | tathā ca yāska āha | menā gnā iti strīṇāṃ menā mānayantyenā gnā gacchantyenāḥ | ni. 3-21 | iti | gnā asya santīti gnāvān | neṣṭṛśabdo 'tra tvaṣṭāraṃ devamāha | kasmiṃściddevasatre neṣṭṛtvena tvaṣṭurvartitatvāt | he gnāvaḥ patnīyukta neṣṭastvaṣṭaḥ no 'smadīyaṃ yajñamabhi gṛṇīhi | abhito devānāṃ samīpe stuhi | ṛtunā saha tvaṃ somaṃ piba | hi yasmāttvaṃ ratnadhā asi ratnānāṃ dātā bhavasi tasmātsomaṃ pātumarhasītyarthaḥ || abhi | upasargāścābhivarjaṃ | phi. 4-13 | iti paryudāsādabherantodāttatvaṃ | gṛṇīhi | gṝ śabde | loṭi sipo hiḥ | kryādibhyaḥ śnā | herṅittvādī halyaghoritītvaṃ | śnāpratyayasya ṅittvādguṇābhāvaḥ | pvādīnāṃ hrasvaḥ | tiṅṅatiṅa iti nighātaḥ | gnā asya santīti matup | vyatyayena vatvaṃ | sambuddhau matuvaso ruriti rutvaṃ | visargaḥ | pādāditvenāmantritanighātābhāvātṣāṣṭhikamāmantritādyudāttatvaṃ | gnāva ityasya viśeṣaṇatayā viśeṣavacanatvānnāmantrite samānādhikaraṇa iti niṣedhābhāvādavidyamānavattvenottarasya neṣṭṛśabdasya ṣāṣṭhikamādyudāttatvaṃ | piba | śapaḥ pittvāddhātusvaraḥ | pūrvayorāmantritayoravidyamānavattvena nighātābhāvaḥ | ratnāni dadhātīti ratnadhāḥ | kvipceti kvip | dhātusvaraḥ | samāse kṛduttarapadaprakṛtisvaratvena sa eva śiṣyate | asi | sipaḥ pittvāddhātusvaraḥ | tiṅṅatiṅa iti nighāto na bhavati hi ceti pratiṣedhāt ||*
 
-**Translation:** "The word *gnā* means 'woman'. So Yāska says, *menā gnā* … [the Nirukta passage, 'women' — the Sanskrit of this quotation is partly unclear in print, and I give only its first words; Ni. 3-[?]]. *Gnāvān* is 'he who has *gnā*, i.e. a wife'. The word *neṣṭṛ* here means the god Tvaṣṭṛ — since in some divine sacrifices Tvaṣṭṛ acts as *neṣṭṛ*. O *gnāvaḥ*, O one joined to your wife, O Neṣṭṛ, Tvaṣṭṛ! Praise our sacrifice (*abhi gṛṇīhi*) — praise it all round in the presence of the gods. Together with the Ṛtu, drink the soma. For you are *ratnadhāḥ* — a giver of treasures; because you are a giver, you are fit to drink the soma." The rest is grammar, noted briefly: *abhi* (accent), *gṛṇīhi* (*gṝ* + *śnā* + *hi*, the lengthening of the *ī*, the shortening *pvādīnām*), *gnāvaḥ* (*matup* with *va* by *vyatyaya*; the vocative *ru* + *visarga*; the vocative accent on the first syllable by the *ṣāṣṭhika* rule; the *neṣṭṛ* after it treated as unaccented by the "as if not there" rule), *piba*, *ratnadhāḥ* (*ratna* + *dhā* + *kvip*), *asi* (the *sip* unaccented). *(Grammar, noted briefly.)*
+**Translation:** "The word *gnā* denotes woman; so Yāska says, '*menā*, *gnā*: names of women; *menā* because they honour them, *gnā* because they go to them' (Ni. 3-21). '*Gnāḥ* are his' gives *gnāvān*. The word *neṣṭṛ* here means the god Tvaṣṭṛ, since at a certain *sattra* of the gods Tvaṣṭṛ acted as Neṣṭṛ. O *gnāvaḥ*, you who have your wife with you, O *neṣṭaḥ*, Tvaṣṭṛ, *abhi gṛṇīhi*, praise our sacrifice round about, near the gods. Drink the soma with the Ṛtu. *Hi*, since, you are *ratnadhāḥ*, a giver of jewels, so you are worthy to drink the soma: that is the sense." (Grammatical tail: *abhi*, final udātta, being excluded by *upasargāś cābhivarjam* (Phi. 4-13); *gṛṇīhi*: *gṝ*, *hi*, *śnā*, *ī*, no *guṇa*, shortening, lowered; *gnāvaḥ*: *matup*, *v* by *vyatyaya*, *ru* in the vocative, initial udātta by the *ṣāṣṭhika* rule at the head of the pāda; as an adjective of *neṣṭaḥ* it is a *viśeṣavacana*, so *nāmantrite samānādhikaraṇe* does not bar its being treated as absent, and *neṣṭaḥ* is initial udātta; *piba*, the root accent, not lowered, the two vocatives before it counting as absent; *ratnadhāḥ*, *kvip*, the *kṛt* second-member accent; *asi*, the root accent, not lowered because of *hi*.)
 
-**Grammar pages (pp. 637 lower half–639 upper half), noted briefly.** The Kannada treats: *abhi* (*upasargāś cābhivarjam*, Phiṭ-sūtra [number unclear in print] — the prepositions other than *abhi* have first-syllable accent; hence *abhi* has final accent by *phiṣo 'nta udāttaḥ*, with a note that the Vedabhāṣya-kāra, citing *evādīnām antaḥ* (Phiṭ [?]), accepts final accent in such instances as *mano martān abhi druhan*; Ṛ. 6-[?]); *gṛṇīhi* (*gṝ* of the *kryādi* class; *loṭ*, *sip*, *hi* by P. 3-4-87 *serhy apicca*; *śnā* by P. 3-1-81; *īhalyaghoḥ* P. 6-4-113 for the *ī*; *pvādīnāṃ hrasvaḥ* P. 7-3-80; the endings *śnā* and *hi* as *sārvadhātuka*s without *pit* so counted *ñit*, hence no guṇa, by P. 1-2-4; the verb unaccented by P. 8-1-28); *gnāvaḥ* (*gnāḥ striyaḥ asya santi*; *matup* by P. 5-2-94 *tad asyāsty asminn iti matup*; the *m*→*v* by *vyatyaya*; the *num* augment by P. 7-1-70 *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *hal-ṅyābbhyo dīrghāt sutisy apṛktaṃ hal* P. 6-1-68 drops *s*; *saṃyogāntasya lopaḥ* P. 8-2-23 drops *t*; for *gnāvan* in the vocative, *matuvasor ru sambuddhau chandasi* P. 8-3-1 gives *ru* for the *n*, and *r* → *visarga*; before *neṣṭaḥ* the *ru* becomes *u* by P. 6-1-114 *haśi ca* and the *ā*+*u* guṇa gives *gnāvo neṣṭaḥ* — with a long note on *pūrvatrāsiddham* P. 8-2-1 and the rule that the dropping of a conjunct final is treated as not having happened for the *ru* rule, the Vārttika *saṃyogāntalopo ruttve vācyaḥ*, etc.); the accent of *gnāvaḥ* — it is at the start of the second *pāda*, so the P. 8-1-18 *āmantritasya ca* [? "āpādādau"] does not make it unaccented, and the first-syllable accent of P. 6-1-198 applies; *gnāvaḥ* is an adjective (*viśeṣaṇa*) of *neṣṭaḥ*, so P. 8-1-73 *nāmantrite samānādhikaraṇe sāmānyavacanam* [as read] does not bar P. 8-1-72 *āmantritaṃ pūrvam avidyamānavat*; hence *neṣṭaḥ*, a vocative in the same *pāda*, takes the first-syllable accent, not the all-unaccented one. *Piba* (*śap*'s *pit*-ness leaves the root accent; both preceding vocatives are treated as absent so *piba* is unaccented only by this; accent on the verb stays as P. 8-1-28's exception *hi ca* shows); *ratnadhāḥ* (*dadhāti ratnāni*, from *ḍudhāñ dhāraṇapoṣaṇayoḥ* with *kvip*; accent of the root remains; the accent of the compound is that of its final member by P. 6-2-139 *gatikārakopapadāt kṛt*); *asi* (*as* "to be", *laṭ*, *sip*, *śap* dropped by P. 2-4-72, *s* dropped by P. 6-4-111 *śnasor allopaḥ*; *sip*'s *pit*-ness; *hi ca* P. 8-1-34 bars the loss of accent; P. 1-2-… *udāttād anudāttasya svaritaḥ* makes the *i* of *si* *svarita*). *(Numerals as read; pointers only; the long treatment of the vocative accent of* gnāvaḥ neṣṭaḥ *is given in outline.)*
+### Page 637 — Rik 3: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 637)*
+**॥ Prati-padārthaḥ ॥**
 
-**ग्नावः (gnāvaḥ)** — O you who are joined to your wife | **नेष्टः (neṣṭaḥ)** — O Tvaṣṭṛ | **नः (naḥ)** — our | **यज्ञम् (yajñam)** — sacrifice | **अभि गृणीहि (abhi gṛṇīhi)** — praise (before the gods), all round | **ऋतुना (ṛtunā)** — with the Ṛtu-deity | **पिब (piba)** — drink the soma-juice | **हि (hi)** — "because" | **त्वम् (tvam)** — you | **रत्नधाः (ratna-dhāḥ)** — the giver of the treasure (*ratna*, *aiśvarya*) that is the fruit of the sacrifice | **असि (asi)** — are.
+**ग्नावः (gnāvaḥ)** — accompanied by your wife | **नेष्टः (neṣṭaḥ)** — O Tvaṣṭṛ | **नः (naḥ)** — our | **यज्ञम् (yajñam)** — sacrifice | **अभि गृणीहि (abhi gṛṇīhi)** — praise everywhere (near the gods) | **ऋतुना (ṛtunā)** — with the Ṛtu deity | **पिब (piba)** — drink the soma juice | **हि (hi)** — for | **त्वम् (tvam)** — you | **रत्नधाः (ratnadhāḥ)** — giving the wealth of jewels and the like, the fruit of the sacrifice | **असि (asi)** — are.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Tvaṣṭṛ! You are renowned as one who bestows the treasure that is the fruit of the sacrifice. Such as you are, come with your wife, drink our soma-juice together with the Ṛtu-deity, and go to the gods and praise our sacrifice.
+O Tvaṣṭṛ, you are famed as the giver of the wealth of jewels and the like that is the fruit of the sacrifice. Such as you are, come with your wife and drink our soma juice with the Ṛtu deity; and go to the gods and praise our sacrifice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Neshtri, (Twashtri) commend our sacrifice to the gods; drink with Ritu, for you are a giver of riches.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 637)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**ग्नावः (gnāvaḥ)** — the word *gnā* means "woman". Yāska says "*gnā gacchanty enāḥ*" [Ni. 3-[?] — "those who go to them"]. *Gnā asya santi iti gnāvān* — he who has a wife is *gnāvān*; this vocative singular *gnāvaḥ* is an adjective of the word *neṣṭaḥ*.
+**Gnāvaḥ**: the word *gnā* denotes woman; Yāska says
 
-**नेष्टः (neṣṭaḥ)** — in some sacrifices it is well known that Tvaṣṭṛ takes the share that belongs to the priest called Neṣṭṛ; therefore to address Tvaṣṭṛ by the word *neṣṭṛ* is not unnatural. Hence the commentator's view: the word *neṣṭṛ* here must be taken to mean the deity Tvaṣṭṛ.
+> ग्ना गच्छन्त्येनाः
+>
+> *gnā gacchantyenāḥ*
 
-**रत्नधाः (ratnadhāḥ)** — *ratnānāṃ dātā*: "giver of jewels" (of the best things). In the Ṛgveda the root *dhā* is commonly used where one would expect *dā*.
+*(Ni. 3-21.)*
+
+> ग्ना अस्य सन्तीति ग्नावान् तस्य सम्बुद्धिः
+>
+> *gnā asya santīti gnāvān tasya sambuddhiḥ*
+
+"one who is with a woman is called *gnāvān*"; this vocative singular *gnāvaḥ* qualifies the word *neṣṭaḥ*.
+
+**Neṣṭaḥ**: since it is well known that at some sacrifices Tvaṣṭṛ took the part of the priest called Neṣṭṛ, it is customary to address Tvaṣṭṛ by the word *neṣṭṛ*. So the Bhāṣyakāra's intention is that here the word *neṣṭṛ* must be given the sense "the god Tvaṣṭṛ".
+
+**Ratnadhāḥ**:
+
+> रत्नानां दाता
+>
+> *ratnānāṃ dātā*
+
+giver of jewels (excellent things). In the Ṛgveda the root *dhā* is commonly used in place of the root *dā*.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 637–639, noted briefly)*
+
+**अभि (*abhi*)**: since "upasargāś cābhivarjam" (Phi. sū. 81) makes an exclusion, *abhi* is not initial udātta; it is final udātta by "phiṣo 'nta udāttaḥ".
+
+### Page 638 — Rik 3: grammar (continued)
+
+Many accept the reading of the word *abhi* in the *evādi* class; so by "evādīnām antaḥ" (Phi. sū. 82) *abhi* is final udātta. In the mantra *mā no martā abhi druhan* (Ṛ. Saṃ. "6-5-10" [?]) and in *ehi stomām̐ abhi* (Ṛ. Saṃ. "10-5-4" [?]) too the Vedabhāṣyakāra derives the final udātta by *evādīnām antaḥ*.
+
+**गृणीहि (*gṛṇīhi*)**: *gṝ śabde* (*kryādi*); *loṭ*, 2nd singular *sip*; *hi* by "ser hy apic ca" (Pā. sū. "4-4-87" [as printed, for 3-4-87]): *gṝ* + *hi*; the *vikaraṇa* *śnā* by "kryādibhyaḥ śnā": *gṝ* + *nā* + *hi*; *hi* is *ṅit* by "sārvadhātukam apit"; so by "ī halyaghoḥ" (Pā. sū. 6-4-113) *ī* for the *ā* of *śnā*: *gṝ* + *nī* + *hi*; *hi* being *ṅit*, the *ī* before it takes no *guṇa*; *śnā* being *ṅit* by "sārvadhātukam apit", the *ṝ* before it takes no *guṇa*. *Gṝ* shortened by "pvādīnāṃ hrasvaḥ" (Pā. sū. 7-3-80): *gṛṇīhi*; wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**ग्नावः (*gnāvaḥ*)**: with the analysis *gnāḥ striyaḥ asya santi*, *matup* by "tad asyāsty asminn iti matup"; *v* for the *m* by *vyatyaya*: *gnāvat*; vocative singular *su*; *num* by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (Pā. sū. 7-1-70): *gnāvant* + *s*; *su* dropped by "hal-ṅyābbhyo dīrghāt…" (Pā. sū. 6-1-68); *t* dropped by "saṃyogāntasya lopaḥ" (Pā. sū. 8-2-23): *gnāvan*; *ru* for the *n* by "matuvaso ru sambuddhau chandasi" (Pā. sū. 8-3-1); visarga by "sasajuṣo ruḥ": *gnāvaḥ*. With *gnāvar* + *neṣṭaḥ*, in the Saṃhitā "haśi ca" (Pā. sū. 6-1-114) gives *u* for a *ru* after a non-*pluta* short *a* before a *haś* letter. But the *u* is an operation of the *sapāda-saptādhyāyī*; when it is made, by "pūrvatrāsiddham" (Pā. sū. 8-2-1) the loss of the final of the conjunct is treated as not done; so the *t* stands after it, no *haś* follows, and how can the *u* come? Though the *u* is a rule of the *sapāda-saptādhyāyī*, by the vārttika "saṃyogāntalopo ror uttve" (Pā. sū. 8-2-6 vā.) the loss of the final of the conjunct counts as done when the *u* for the *ru* is made; so it is not treated as not done, and the *u* comes: *gnāva* + *u* + *neṣṭaḥ*, *guṇa*: *gnāvo neṣṭaḥ*. *Gnāvaḥ* is at the head of the second pāda; so "apādādau" (Pā. sū. 8-1-18) bars the lowering by "āmantritasya ca" (Pā. sū. 8-1-19), and the sixth-adhyāya "āmantritasya ca" (Pā. sū. 6-1-198) makes it initial udātta. *Gnāvaḥ* qualifies *neṣṭaḥ*, so it is a *viśeṣavacana*, not a *sāmānyavacana*; so "nāmantrite samānādhikaraṇe sāmānyavacanam" (Pā. sū. 8-1-73) does not bar its being treated as absent.
+
+### Page 639 — Rik 3: grammar (end)
+
+So by "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. 8-1-72) the earlier vocative *gnāvaḥ* is treated as absent. So the vocative *neṣṭaḥ* also counts as at the head of the pāda, and the eighth-adhyāya lowering does not come; by the *ṣāṣṭhika* sūtra it is initial udātta.
+
+**पिब (*piba*)**: *śap* is *pit*, so the root accent remains. The two vocatives before it are treated as absent, so *piba* is not wholly unaccented.
+
+**रत्नधाः (*ratnadhāḥ*)**: *ratnāni dadhāti iti*; *kvip* after *ḍudhāñ dhāraṇapoṣaṇayoḥ* by "kvip ca"; the root accent. After compounding, the *kṛt* second-member accent comes by "gatikārakopapadāt kṛt", and that accent remains.
+
+**असि (*asi*)**: *asa bhuvi*, *laṭ*, 2nd singular *sip*; the *vikaraṇa* *śap* is dropped by "adiprabhṛtibhyaḥ śapaḥ"; the *s* dropped by "tāsastyor lopaḥ" (Pā. sū. "7-4-50" [as printed]): *asi*. *Sip* is *pit*, so unaccented by "anudāttau suppitau"; the root accent remains. The use of *hi* brings the bar of "hi ca"; so "tiṅṅatiṅaḥ" does not make it wholly unaccented. The *i* of *sip* becomes svarita by "udāttād anudāttasya svaritaḥ".
+
+**॥३॥**
+
+---
 
 ### Pages 639–641 — Sūkta 15, Rik 4
 
