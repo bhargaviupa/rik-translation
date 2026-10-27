@@ -1434,57 +1434,77 @@ or the second case are *upapada*, the suffix *ḍa* is laid down after the root 
 
 ---
 
-### Pages 59–62 — Sūkta 21, Rik 6 (last rik of the sūkta)
+### Page 59 — Sūkta 21, Rik 6 (last ṛk of the sūkta)
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तेन सत्येन जागृतमधि प्रचेतुने पदे ।
-> इन्द्राग्नी शर्म यच्छतम् ॥६॥
+> तेन॑ स॒त्येन॑ जागृ॒तमधि॑ प्रचे॒तुने॑ प॒दे ।
+> इ॑न्द्राग्नी॒ शर्म॑ यच्छतम् ॥६॥
 >
-> *tena satyena jāgṛtam adhi pracetune pade |*
-> *indrāgnī śarma yacchatam ||6||*
+> *téna satyéna jāgṛtám ádhi pracetúne padé |*
+> *indrāgnī śárma yacchatam ||6||*
+
+*(Strokes over न (तेन), न (सत्येन), धि and ने (प्रचेतुने); bars under स (सत्येन), त (जागृतम्), चे and प (पदे). Line 2: stroke over इन् of इन्द्रा, bar under ग्नी, stroke over र्म.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> तेन । सत्येन । जागृतम् । अधि । प्रऽचेतुने । पदे ॥
+> तेन । सत्येन । जागृतं । अधि । प्रऽचेतुने । पदे ॥
 > इन्द्राग्नी इति । शर्म । यच्छतम् ॥६॥
 >
-> *tena | satyena | jāgṛtam | adhi | pra-cetune | pade ||*
+> *tena | satyena | jāgṛtaṃ | adhi | pra 'cetune | pade ||*
 > *indrāgnī iti | śarma | yacchatam ||6||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 59; compressed; [?] marks doubtful readings)*
+*(The bhāṣya ends with ॥३॥, the close of the third varga.)*
 
-> हे इन्द्राग्नी सत्येनावश्यफलप्रदानादवितथेन तेनास्माभिरनुष्ठितेन कर्मणा प्रचेतुने प्रकर्षेण फलभोगज्ञापके पदे स्वर्गलोकादिस्थानेऽधि जागृतम् । अधिकत्वेन सावधानौ भवतम् । ततोऽस्मभ्यं शर्म यच्छतम् । सुखं गृहं वा । दत्तम् । गयः कृदर इत्यादिषु द्वाविंशतिसंख्याकेषु गृहनामसु शर्म वर्मेत्युक्तम् ॥ जागृतम् । जागृ निद्राक्षये । आदिप्रभृतिभ्यः शपः इति शपो लुक् । तिङ्ङतिङः इति निघातः । प्रचेतुने । चिती संज्ञाने । इत्यस्मात्सामान्यन्ताद्बाहुलकादौणादिक उनप्रत्ययः । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । इन्द्राग्नी । इहेन्द्राग्नी इत्युक्तम् । आमन्त्रितत्वादाद्युदात्तत्वमत्र विशेषः । शृणाति हिनस्ति दुःखमिति शर्म । श्व हिंसायाम् । अन्येभ्योऽपि दृश्यन्त इति मनिन् । यच्छतम् । इषुगमियमां छः इति छः ॥६॥
+> हे इन्द्राग्नी सत्येनावश्यफलप्रदानादवितथेन तेनास्माभिरनुष्ठितेन कर्मणा प्रचेतुने प्रकर्षेण फलभोगज्ञापके पदे स्वर्गलोकादिस्थानेऽधि जागृतं । आधिक्येन सावधानौ भवतं । ततोऽस्मभ्यं शर्म यच्छतं । सुखं गृहं वा । दत्तं । गयः कृदर इत्यादिषु द्वाविंशतिसंख्याकेषु गृहनामसु शर्म वर्मेत्युक्तम् ॥ जागृतं । जागृ निद्राक्षये । अदिप्रभृतिभ्यः शप इति शपो लुक् । तिङ्ङतिङ इति निघातः । प्रचेतुने । चिती संज्ञाने इत्यस्माण्ण्यन्ताद्बाहुलकादौणादिक उनप्रत्ययः । समासे कृदुत्तरपदप्रकृतिस्वरत्वं । इन्द्राग्नी । इहेन्द्राग्नी इत्यत्रोक्तं । आमन्त्रितत्वादाद्युदात्तत्वमत्र विशेषः । शृणाति हिनस्ति दुःखमिति शर्म । शॄ हिंसायाम् । अन्येभ्योऽपि दृश्यन्त इति मनिन् । यच्छतं । इषुगमियमां छ इति छः ॥३॥
 >
-> *he indrāgnī satyenāvaśya-phala-pradānād avitathena tenāsmābhir anuṣṭhitena karmaṇā pracetune prakarṣeṇa phala-bhoga-jñāpake pade svarga-lokādi-sthāne 'dhi jāgṛtam | adhikatvena sāvadhānau bhavatam | tato 'smabhyaṃ śarma yacchatam | sukhaṃ gṛhaṃ vā | dattam | gayaḥ kṛdara ity-ādiṣu dvāviṃśati-saṅkhyākeṣu gṛha-nāmasu śarma varmety uktam || jāgṛtam | jāgṛ nidrā-kṣaye | ādiprabhṛtibhyaḥ śapaḥ iti śapo luk | tiṅ ataṅ iti nighātaḥ | pracetune | citī saṃjñāne | ity asmāt sāmānyāntād bāhulakād auṇādika unaprat-yayaḥ | samāse kṛd-uttarapada-prakṛti-svaratvam | indrāgnī | ihendrāgnī ity uktam | āmantritatvād ādyudāttatvam atra viśeṣaḥ | śṛṇāti hinasti duḥkham iti śarma | śva hiṃsāyām | anyebhyo 'pi dṛśyanta iti manin | yacchatam | iṣugamiyamāṃ chaḥ iti chaḥ ||6||*
+> *he indrāgnī satyenāvaśyaphalapradānādavitathena tenāsmābhiranuṣṭhitena karmaṇā pracetune prakarṣeṇa phalabhogajñāpake pade svargalokādisthāne 'dhi jāgṛtaṃ | ādhikyena sāvadhānau bhavataṃ | tato 'smabhyaṃ śarma yacchataṃ | sukhaṃ gṛhaṃ vā | dattaṃ | gayaḥ kṛdara ityādiṣu dvāviṃśatisaṃkhyākeṣu gṛhanāmasu śarma varmetyuktam || jāgṛtaṃ | jāgṛ nidrākṣaye | adiprabhṛtibhyaḥ śapa iti śapo luk | tiṅṅatiṅa iti nighātaḥ | pracetune | citī saṃjñāne ityasmāṇṇyantādbāhulakādauṇādika unapratyayaḥ | samāse kṛduttarapadaprakṛtisvaratvaṃ | indrāgnī | ihendrāgnī ityatroktaṃ | āmantritatvādādyudāttatvamatra viśeṣaḥ | śṛṇāti hinasti duḥkhamiti śarma | śṝ hiṃsāyām | anyebhyo 'pi dṛśyanta iti manin | yacchataṃ | iṣugamiyamāṃ cha iti chaḥ ||3||*
 
-**Translation:** "O Indra and Agni! By that *satya* — unfailing, because it surely yields fruit — rite performed by us, be watchful (*jāgṛtam*) in the *pada* — the place — *pracetune*, which makes [us] strongly aware of the enjoyment of fruit: the heaven-world and the like. Be attentive, as superiors, and then grant (*yacchatam*) us *śarma* — happiness, or a house. Among the twenty-two words for 'house' beginning with *gaya*, *kṛdara*, the word *śarma* is read [as in *śarma varma*] (Nighaṇṭu 3-4 [?])." The grammar, noted briefly: *jāgṛtam* (*jāgṛ* 'to be awake'; *śap* dropped; the verb unaccented); *pracetune* (*cit* 'to know', the Uṇādi *unan* by *bāhulaka*; the compound accent that of the final member); *indrāgnī* (as in Rik 1, vocative first-syllable accent); *śarma* (*śṛ* 'to hurt': 'it destroys sorrow'; *manin* 'also seen with other roots'); *yacchatam* (*ch* for *y* by P. 7-3-77 *iṣugamiyamāṃ chaḥ* — *yam* → *yaccha*). *(Grammar, noted briefly; the Nighaṇṭu reference is as read [?].)*
+**Translation:** "O Indra and Agni! *Tena satyena*, by that rite performed by us, true — not false, because it surely grants its fruit — *adhi jāgṛtam*, be watchful in a high degree, be attentive, *pracetune pade*, in the place that makes known in an eminent way the enjoyment of the fruit, the place such as the world of heaven. Then *yacchatam*, give, us *śarma*, happiness, or a house: among the twenty-two names for 'house', *gayaḥ*, *kṛdaram* and the rest, *śarma* and *varma* are mentioned." (Grammatical tail: *jāgṛtam*, *jāgṛ nidrākṣaye*, *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ*, the loss of accent by *tiṅṅatiṅaḥ*; *pracetune*, from *citī saṃjñāne* in the causative, the Uṇādi suffix *una* by *bāhulaka*; in the compound the accent of the *kṛt* final member; *indrāgnī*, as stated at *ihendrāgnī*, the special point here the vocative initial udātta; *śṛṇāti hinasti duḥkham iti śarma*, *śṝ hiṃsāyām*, *manin* by *anyebhyo 'pi dṛśyante*; *yacchatam*, *cha* by *iṣugamiyamāṃ chaḥ*.)
 
-**Grammar pages (pp. 60 lower half–62 upper), noted briefly.** The Kannada treats: *jāgṛtam* (*jāgṛ nidrākṣaye*; *loṭ* second dual *thas*; *loṭo laṅvat* P. 3-4-85; *tasthasthamipāṃ tāṃtaṃtāmaḥ* P. 3-4-101 gives *tam*; *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ* P. 2-4-72; *tam* is *ñit* by *sārvadhātukam apit* P. 1-2-4, hence no guṇa by *kṅiti ca* P. 1-1-5; *tiṅ atiṅaḥ* P. 8-1-28 gives wholly unaccented), *pracetune* (*citī saṃjñāne*; *ṇic* by P. 3-1-26, the penultimate light vowel taking guṇa by *pugantalaghūpadhasya ca* P. 7-3-86, giving *ceti*; then the Uṇādi *una* by *uṇādayo bahulam* P. 3-3-1 — the Kannada notes the Uṇādi suffix *una* is added by the *bahulam* of that sūtra; *ṇeraniṭi* P. 6-4-51 drops the *ṇic*; the locative of a compound with *pra*; the accent of the final member by P. 6-2-139; *cetuna* is middle-accented by the suffix's *n*, as the Kannada notes), *indrāgnī* (the process is explained in the first mantra of this sūkta [*ihendrāgnī*]; here, as a vocative, first-syllable accent by P. 6-1-198; this is the one difference from before), *śarma* (*śṛṇāti hinasti duḥkham*; *śṝ hiṃsāyām* with *manin*, by P. 3-2-75 *anyebhyo 'pi dṛśyante*: *śṛ* + *ma*; *sārvadhātukārdhadhātukayoḥ* P. 7-3-84 guṇa, *raparatva*: *śarma*), and *yacchatam* (*yamu uparame*, of the *bhvādi* class; *loṭ* second dual *thas*, *tam*; *kartari śap* P. 3-1-68; *yam* + *a* + *tam*; *iṣugamiyamāṃ chaḥ* P. 7-3-77 gives *ch* in place of the final *m*… [the Kannada: *iṣ* 'to wish', *gam* 'to go', *yam* 'to restrain' take *cha* when a suffix beginning with a *śit* [here *śap*] letter follows]; *chekā*: the augment *tuk* by *chē ca* P. 6-1-73 for a short vowel before *ch*, then *stoḥ ścunā ścuḥ* P. 8-4-40 gives *c* for *t*: *yacchatam*; the Kannada adds a long note that *iṣ* has three verbs — *iṣu icchāyām* [tudādi], *iṣu gatau* [divādi] and *iṣ ābhīkṣṇye* [kryādi] — and the Vedabhāṣya reading *iṣu* with an *u*-marker for *tudādi*, with the rule's *śit*-ness restricted to *ajādi* *śit* suffixes; the *ach* [as *ac* in P. 3-1-… *ācirvatā* … ] discussion; so *yaccha* is established also with the *tudādi* *iṣ*; and then the remark that the root *yam uparame* giving *yacchatam* does not fit the commentator's sense *dattam* ('give'); the Kannada proposes that the form comes rather from the root *dāṇ dāne* 'to give', with *thas* → *tam* and, by P. 7-3-78 *pāghrādhmā…*, *yaccha* for *dā* as one of the list *pibajighradhamatiṣṭhamanayacchapaśyarcchaśrṇuśīyasīdāḥ* — 'the sixth substitute *yaccha* for *dāṇ*' — which agrees with the sense in the bhāṣya). ॥6॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 59)*
+**हे इन्द्राग्नी (he indrāgnī)** — O Indra and Agni | **सत्येन (satyena)** — not fruitless | **तेन (tena)** — by the rite we perform | **प्रचेतुने (pracetune)** — making known (the enjoyment that is the fruit of the sacrifice) | **पदे (pade)** — in the place such as heaven | **अधि जागृतं (adhi jāgṛtaṃ)** — be especially watchful | **शर्म (śarma)** — happiness, or a place that gives happiness | **यच्छतं (yacchataṃ)** — give (to us).
 
-**(हे) इन्द्राग्नी ((he) indrāgnī)** — O Indra and Agni | **सत्येन (satyena)** — not futile, [yielding sure fruit] | **तेन (tena)** — by that [rite] done by us | **प्रचेतुने (pracetune)** — [the place] that makes known [the fruit of the rite, i.e. the enjoyment] | **पदे (pade)** — in the place [heaven and the like] | **अधि जागृतम् (adhi jāgṛtam)** — be specially awake | **शर्म (śarma)** — happiness, or a place that gives happiness | **यच्छतम् (yacchatam)** — give [to us].
+### Page 60 — Rik 6: overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** *(p. 60)*
+**॥ Bhāvārthaḥ ॥**
 
-O Indra and Agni! There is no doubt that the rites we perform will yield fruit. Heaven and the other abodes of yours are the proof of it. Staying watchful in those places, make us happy.
+O Indra and Agni, there is no doubt that the rites we perform give their fruit. Heaven and the rest, your dwelling places, make this known. Being watchful on our behalf in those places, bring about happiness for us.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Indra and Agni, by this unfailing Sacrifice be vigilant in the place which affords knowledge and bestow upon us happiness.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 60)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The sense of this rik is somewhat obscure. The meanings of the words *tena satyena jāgṛte* and *pracetune pade* are not plain. Although the commentator gives one explanation of them, the ṛṣi's intention is not clear. The chief sense may be: "Being pleased with the hymns we recite and with the sacrifices we perform, be watchful on our behalf and bestow happiness upon us."
+The meaning of this ṛk is somewhat tangled. The meaning of the words *tena satyena jāgṛte* [as printed] and *pracetune pade* is not clear. Although the commentator has explained them so that a certain sense comes out, what the ṛṣi intends is not clear. The main intention may be: being satisfied by the hymns we make and by the performance of the sacrifice and the like, be watchful on our behalf and bring about happiness for us.
 
-**प्रचेतुने पदे (pracetune pade)** — *prajñāpake sthale*; *phalabhogajñāpake pade*: a place which gives knowledge [of the enjoyment of fruit].
+**प्रचेतुने पदे (pracetune pade)** — *prajñāpake sthale | phalabhogajñāpake pade |* the place that makes known.
 
-**शर्म (śarma)** — *sukhaṃ gṛhaṃ vā*: happiness, or a house. Since *śarma* is read among the twenty-two names for 'house' beginning with *gaya*, *kṛdara*, the word *śarma* also means "house, dwelling" (Ni. 3-[?]; numerals read as "೩-೧೩" and marked [?]).
+**शर्म (śarma)** — *sukhaṃ gṛhaṃ vā |* happiness, or a house. Since the word *śarma* is read among the twenty-two names for 'house', *gaya*, *kṛdara* and the rest, the word *śarma* also means a house, a dwelling (Ni. 3-13).
 
-**Close of Sūkta 21.** The grammar of Rik 6 ends at the head of p. 62, followed by an ornament; no large colophon is printed.
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**जागृतं (jāgṛtaṃ)** — *jāgṛ nidrākṣaye*; *loṭ*, middle person dual *thas*; by *loṭo laṅvat* (Pā. Sū. 3-4-85) it is treated like *laṅ*; by *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) the substitute *tam*; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) the *vikaraṇa* *śap* is dropped (*luk*); *tam* is *ṅit* by *sārvadhātukam apit* (Pā. Sū. 1-2-4), so by *kṅiti ca* (Pā. Sū. 1-1-5) *guṇa* is barred; by *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) — a finite verb after a word that is not a finite verb is unaccented — it is wholly unaccented.
+
+### Page 61 — Rik 6: grammar (continued)
+
+**प्रचेतुने (pracetune)** — the root *citī saṃjñāne*. After it *ṇic*; by *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86) *guṇa* of the light penultimate: *ceti*. After this, by the word *bahula* in *uṇādayo bahulam* (Pā. Sū. 3-3-1), the Uṇādi suffix *una*; by *ṇer aniṭi* (Pā. Sū. 6-4-51) *ṇi* is dropped; in the locative singular *cetune*; after compounding with the word *pra*, by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the accent of the *kṛt* final member comes; the final member *cetuna* is accented on its middle syllable by the suffix accent.
+
+**इन्द्राग्नी (indrāgnī)** — its derivation has been set out at the first mantra of this sūkta, *ihendrāgnī*. Here *indrāgnī* is *āmantrita*, since it is a vocative nominative. So, by *āmantritasya ca* (Pā. Sū. 8-1-19, as printed), the initial udātta: only this is the special point here compared with before.
+
+**शर्म (śarma)** — *śṛṇāti hinasti duḥkham iti śarma*; the root *śṝ hiṃsāyām*. After it, by *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75) — the suffixes *manin*, *kvanip*, *vanip* and *vic* come after roots — the suffix *manin*. *Śṝ* + *man*; by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa*, followed by *r*: it becomes *śarma*.
+
+**यच्छतम् (yacchatam)** — *yamu uparame*, in the *bhvādi* class. After it *loṭ*, middle person dual *thas*, for which the substitute *tam*. By *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap*: *yam* + *a* + *tam*. Now by *iṣugamiyamāṃ chaḥ* (Pā. Sū. 7-3-77) — after the roots *iṣu icchāyām*, *gaḷḷa gatau* [as printed] and *yamu uparame*, when a suffix with the marker *ś* follows, the substitute *cha* comes — *cha* for the *m*; by *che ca* (Pā. Sū. 6-1-73) — before *cha*, a short vowel takes the augment *tuk* — *tuk*; by *stoḥ ścunā ścuḥ* (Pā. Sū. 8-4-40) *c* for the *t*: it becomes *yacchatam*. There is *iṣa gatau* in the *divādi* class, giving *iṣyati*. *Iṣa icchāyām*, *tudādi*, *icchati*; *iṣa ābhīkṣṇye*, *kryādi*, *iṣṇāti*: so there are three roots *iṣ*. Here, so that *cha* comes only for the *tudādi* root, some read *iṣu* in the *tudādi* class and also read *iṣu* in the sūtra prescribing *cha*; others say that by *maṇḍūkapluti*, *aci* is carried on from *aci ra ṛtaḥ* (Pā. Sū. 7-2-100) and qualifies *śiti*; so the sense obtained is: when a vowel-initial suffix with the marker *ś* follows, *cha* is substituted for *iṣ* and the rest. Since *śyan* comes in the *divādi* class and the *vikaraṇa* *śnā* in the *kryādi* class, although they have the marker *ś* they are not vowel-initial suffixes with the marker *ś*, so *cha* does not come for them. So in the *tudādi* class and in the sūtra *iṣugami*,
+
+### Page 62 (upper) — Rik 6: grammar (end)
+
+they hold that to read *iṣu* with the marker *u* is not from the ṛṣi [*anārṣa*]. In this way, although the form *yacchatam* is obtained from the root *yamu uparame*, it does not fit the meaning *yacchatam* = *dattam* explained in the bhāṣya. For the root *dāṇ dāne*, *loṭ*, middle person dual *thas*, the substitute *tam* comes: *dāṇ* + *a* + *taṃ*. Now by *pā ghrā dhmā sthā mnā dāṇ dṛśy arti sarti śada sadāṃ piba jighra dhama tiṣṭha mana yaccha paśya ṛccha dhau śīya sīdāḥ* (Pā. Sū. 7-3-78) — when a suffix beginning with *ś* and having the marker *ś* follows, the roots *pā* and the rest take the substitutes *piba* and the rest — the sixth root *dāṇ* takes the sixth substitute *yaccha*: it becomes *yacchatam*. If the form is taken from this root *dāṇ*, it fits the meaning explained in the bhāṣya. ॥6॥
+
+*(An ornament follows: the close of Sūkta 21.)*
 
 ---
 
