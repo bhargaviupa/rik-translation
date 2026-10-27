@@ -5635,15 +5635,15 @@ Now, before our eyes, whether from this earth-world, from the heavenly world, or
 
 **॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta)**
 
-> इन्द्रमित्यादिकं दशर्चं यत्सूक्तं तत्सुरूपकृत्नुमित्यादिषु चतुर्थम् । ऋषिश्छन्दोदेवता विनियोगश्च पूर्ववत् । विशेषविनियोगस्तूच्यते । महाव्रते निष्केवल्यशस्त्रे इन्द्रमिद्गाथिन इति सूक्तम् । तथा च पञ्चमारण्यके सूत्रितम् । शिरोगायत्रमिन्द्रमिद्गाथिनः । ऐ. आ. ३-२-१ । इति । तथा चतुर्विंशेऽहनि ब्राह्मणाच्छंसिनः शस्त्रे इन्द्रमिद्गाथिन इति षळहस्तोत्रियस्तृचः । चतुर्विंशे होताजनिष्वेत्युपक्रम्य आयाहि सुषुमा हि त इन्द्रमिद्गाथिनो बृहत् । आ. २-२ । इति सूत्रितत्वात् । अतिरात्रे प्रथमे पर्याये ऽच्छावाकशस्त्रे यमेव तृचो ऽनुरूपः [?] । सूत्रितं च इन्द्राय मद्वने सुतमिन्द्रमिद्गाथिनो बृहत् । आ. ६-४ । इति ॥
+> इन्द्रमित्यादिकं दशर्चं यत्सूक्तं तत्सुरूपकृत्नुमित्यादिषु चतुर्थम् । ऋषिश्छन्दोदेवता विनियोगश्च पूर्ववत् । विशेषविनियोगस्तूच्यते । महाव्रते निष्केवल्यशस्त्रे इन्द्रमिद्गाथिन इति सूक्तम् । तथा च पञ्चमारण्यके सूत्रितम् । शिरोगायत्रमिन्द्रमिद्गाथिनः । ऐ. आ. ५-२-१ । इति । तथा चतुर्विंशेऽहनि ब्राह्मणाच्छंसिनः शस्त्रे इन्द्रमिद्गाथिन इति षळहस्तोत्रियस्तृचः । चतुर्विंशे होताजनिष्वेत्युपक्रम्य आयाहि सुषुमा हि त इन्द्रमिद्गाथिनो बृहत् । आ. ७-२ [?] । इति सूत्रितत्वात् । अतिरात्रे प्रथमे पर्यायेऽच्छावाकशस्त्रेऽयमेव तृचोऽनुरूपः । सूत्रितं च इन्द्राय मद्वने सुतमिन्द्रमिद्गाथिनो बृहत् । आ. ६-४ । इति ॥
 >
-> *indram ity-ādikaṃ daśarcaṃ yat sūktaṃ tat surūpakṛtnum ity-ādiṣu caturtham | ṛṣi-chando-devatā viniyogaś ca pūrvavat | viśeṣa-viniyogas tūcyate | mahāvrate niṣkevalya-śastre indram id gāthina iti sūktam | tathā ca pañcamāraṇyake sūtritam | śiro-gāyatram indram id gāthinaḥ | ai. ā. 3-2-1 | iti | tathā caturviṃśe 'hani brāhmaṇācchaṃsinaḥ śastre indram id gāthina iti ṣaḷaha-stotriyas tṛcaḥ | caturviṃśe hotājaniṣṭety upakramya āyāhi suṣumā hi ta indram id gāthino bṛhat | ā. 2-2 | iti sūtritatvāt | atirātre prathame paryāye 'cchāvāka-śastre yam eva tṛco 'nurūpaḥ [?] | sūtritaṃ ca indrāya madvane sutam indram id gāthino bṛhat | ā. 6-4 | iti ||*
+> *indram ity-ādikaṃ daśarcaṃ yat sūktaṃ tat surūpakṛtnum ity-ādiṣu caturtham | ṛṣi-chando-devatā viniyogaś ca pūrvavat | viśeṣa-viniyogas tūcyate | mahāvrate niṣkevalya-śastre indram id gāthina iti sūktam | tathā ca pañcamāraṇyake sūtritam | śiro-gāyatram indram id gāthinaḥ | ai. ā. 5-2-1 | iti | tathā caturviṃśe 'hani brāhmaṇācchaṃsinaḥ śastre indram id gāthina iti ṣaḷaha-stotriyas tṛcaḥ | caturviṃśe hotājaniṣṭety upakramya āyāhi suṣumā hi ta indram id gāthino bṛhat | ā. 7-2 [?] | iti sūtritatvāt | atirātre prathame paryāye 'cchāvāka-śastre 'yam eva tṛco 'nurūpaḥ | sūtritaṃ ca indrāya madvane sutam indram id gāthino bṛhat | ā. 6-4 | iti ||*
 
-**Translation:** "The sūkta of ten riks beginning *indram* is the fourth among those beginning *surūpakṛtnum* [i.e., the fourth sūkta of that anuvāka]. Its ṛṣi, meter, deity and application are as before. Its **special application** is now stated. In the **Mahāvrata** rite, the sūkta *indram id gāthinaḥ* is used in the *niṣkevalya-śastra*. So it is laid down in the Fifth Āraṇyaka: '*śiro-gāyatram indram id gāthinaḥ*' (Aitareya Āraṇyaka 3-2-1). Likewise, on the **twenty-fourth day** [of the Ṣaḷaha-related rite], in the śastra of the Brāhmaṇācchaṃsin, the *ṣaḷaha-stotriya* triplet is *indram id gāthinaḥ* — as laid down in the (Āśvalāyana) sūtra, which, beginning from 'on the twenty-fourth [day] the hotā …', continues '*āyāhi suṣumā hi ta*' and '*indram id gāthino bṛhat*' (Āśvalāyana, ref. "2-2" [?]). In the **Atirātra**, in the first paryāya, in the Acchāvāka's śastra, [the corresponding triplet is used as the *anurūpa*] [the clause beginning *yam eva tṛco 'nurūpaḥ* is hard to read in the scan; sense given with reservation]; and it is so laid down: '*indrāya madvane sutam*, *indram id gāthino bṛhat*' (Āraṇyaka ref. "6-4" [?])."
+**Translation:** "The sūkta of ten riks beginning *indram* is the fourth among those beginning *surūpakṛtnum* [i.e., the fourth sūkta of that anuvāka]. Its ṛṣi, meter, deity and application are as before. Its **special application** is now stated. In the **Mahāvrata** rite, the sūkta *indram id gāthinaḥ* is used in the *niṣkevalya-śastra*. So it is laid down in the Fifth Āraṇyaka: '*śiro-gāyatram indram id gāthinaḥ*' (Aitareya Āraṇyaka 5-2-1). Likewise, on the **twenty-fourth day** [of the Ṣaḷaha-related rite], in the śastra of the Brāhmaṇācchaṃsin, the *ṣaḷaha-stotriya* triplet is *indram id gāthinaḥ* — as laid down in the (Āśvalāyana) sūtra, which, beginning from 'on the twenty-fourth [day] the hotā …', continues '*āyāhi suṣumā hi ta*' and '*indram id gāthino bṛhat*' (Āśvalāyana, ref. "7-2" [?], the first digit unclear). In the **Atirātra**, in the first paryāya, in the Acchāvāka's śastra, this very triplet is the *anurūpa*; and it is so laid down: '*indrāya madvane sutam*, *indram id gāthino bṛhat*' (ref. "ā. 6-4")."
 
 **॥ Anuvāda (Kannada rendering of the above) ॥**
 
-This sūkta *indram id gāthino bṛhat* is the fourth (last) sūkta of the second anuvāka, which begins with *surūpakṛtnum ūtaye*. It has ten riks. Its ṛṣi, deity, meters and application are the same as in the preceding sūkta. It does, however, have a **special application**: in the sacrifice called **Mahāvrata**, the sūkta *indram id gāthino* is recited as the *niṣkevalya-śastra* mantra. This is stated in the Aitareya Āraṇyaka (the fifth āraṇyaka — "Pañcamāraṇyaka") in the words *śiro-gāyatram indram id gāthinaḥ*. And on the **twenty-fourth day** [of the rite], when the Brāhmaṇācchaṃsin — a priest of the hotṛ group — recites the triplet called *ṣaḷaha-stotriya*, the rik *indram id gāthino* is to be recited; this is stated in the Āśvalāyana sūtra, beginning from the section called *hotājaniṣṭa*. That is: in the Āśvalāyana Śrauta-sūtra, in the section *hotājaniṣṭa*, the rik *ā yāhi suṣumā hi te* (Ṛgveda Saṃhitā 8-12-1 [?]) and the rik *indram id gāthino bṛhat* (Ṛgveda Saṃhitā 1-7-1) are to be recited, on the twenty-fourth day, in the triplet called *ṣaḷaha-stotriya*. And in the Āraṇyaka too: "*indrāya madvane sutam, indram id gāthino bṛhat*" (Āraṇyaka 6-4) — that is, the rik *indrāya madvane sutam* (Ṛgveda Saṃhitā 9-63-11 [?]) and the rik *indram id gāthino bṛhat* are to be recited together in the triplet mentioned above — so the sūtra directs.
+This sūkta *indram id gāthino bṛhat* is the fourth (last) sūkta of the second anuvāka, which begins with *surūpakṛtnum ūtaye*. It has ten riks. Its ṛṣi, deity, meters and application are the same as in the preceding sūkta. It does, however, have a **special application**: in the sacrifice called **Mahāvrata**, the sūkta *indram id gāthino* is recited as the *niṣkevalya-śastra* mantra. This is stated in the Aitareya Āraṇyaka (the fifth āraṇyaka — "Pañcamāraṇyaka") in the words *śiro-gāyatram indram id gāthinaḥ*. And on the **twenty-fourth day** [of the rite], when the Brāhmaṇācchaṃsin — a priest of the hotṛ group — recites the triplet called *ṣaḷaha-stotriya*, the rik *indram id gāthino* is to be recited; this is stated in the Āśvalāyana sūtra (Ā. Sū. 7-2 [?]), in the words "*caturviṃśe hotājaniṣṭety upakramyāyāhi suṣumā hi ta indram id gāthino bṛhat*." That is: in the Āśvalāyana Śrauta-sūtra, in the section *hotājaniṣṭa*, the rik *ā yāhi suṣumā hi te* (Ṛgveda Saṃhitā 8-17-1) and the rik *indram id gāthino bṛhat* (Ṛgveda Saṃhitā 1-7-1) are to be recited, on the twenty-fourth day, in the triplet called *ṣaḷaha-stotriya*. And in the Āraṇyaka too: "*indrāya madvane sutam, indram id gāthino bṛhat*" (Āraṇyaka 6-4) — that is, the rik *indrāya madvane sutam* (Ṛgveda Saṃhitā 8-92-19) and the rik *indram id gāthino bṛhat* are to be recited together in the triplet mentioned above — so the sūtra directs.
 
 ### Page 258 — Sūkta 7, Rik 1
 
@@ -5651,19 +5651,21 @@ This sūkta *indram id gāthino bṛhat* is the fourth (last) sūkta of the seco
 
 **॥ Sūkta — 7 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 2 ॥ Sūkta — 7 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 13, 14 [?] ॥** *(small-print Kannada digits, re-read at 300 dpi in a later session: "13, 14". This fits the run of two vargas per sūkta from Sūkta 3 (5, 6) and Sūkta 8 (15, 16), but not the "eighth varga" of the Sūkta 6 colophon; unreconciled. An earlier reading here of "9, 10" was wrong.)*
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 13, 14 ॥** *(re-read from the better scan; it agrees with the hand-corrected "12" of the Sūkta 6 colophon and the "Va. 13" header of p. 257.)*
 **॥ Mantras contained in this sūkta: 1–10 ॥**
 **॥ Ṛṣi — Madhucchandā Vaiśvāmitra ॥**
 **॥ Devatā — Indra ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
+*(Saṃhitā accents as printed; Pada unaccented. In the first line the print has, over "gā" of "gāthinaḥ," a svarita stroke as well as the anudātta bar; only the bar is given, hence [accent ?].)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रमिद्गाथिनो बृहदिन्द्रमर्केभिरर्किणः ।
-> इन्द्रं वाणीरनूषत ॥१॥
+> इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ । [accent ?]
+> इन्द्रं॒ वाणी॑रनूषत ॥१॥
 >
-> *indram id gāthino bṛhad indram arkebhir arkiṇaḥ |*
-> *indraṃ vāṇīr anūṣata ||1||*
+> *índram íd gāthíno bṛhád índram arkébhir arkíṇaḥ |* [accent ?]
+> *índraṃ vā́ṇīr anūṣata ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
