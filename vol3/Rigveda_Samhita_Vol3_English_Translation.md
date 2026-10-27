@@ -2,11 +2,11 @@
 
 **Source:** `Rig_Vol3.pdf` (663 PDF pages, scanned) — *Ṛgveda-saṃhitā, Sāyaṇa-bhāṣya-sahitā* with Kannada rendering, **Bhāga (Part) 3**: the Second Adhyāya of the First Aṣṭaka — Maṇḍala 1, **Sūktas 20–32** — by Asthana Mahavidwan H. P. Venkata Rao (Śrī Jayacāmarājendra Vedaratna-mālā; printed at Sree Sharada Press, Mysore, 1949).
 
-**Relation to earlier volumes:** a direct continuation of Volume 2 (`Rigveda_Samhita_Vol2_English_Translation.md`, Sūktas 3–19, First Adhyāya of the First Aṣṭaka). All conventions of Volumes 1–2 carry over unchanged (see `CLAUDE.md`): every Sanskrit citation in three layers (Devanagari + IAST + English); Kannada-script Sanskrit transcribed letter by letter; doubtful readings and numerals marked [?]; the source's own printed English reproduced as printed with [sic] for misprints; grammar pages (Vyākaraṇa-prakriyā) noted briefly; accent-marks not reproduced.
+**Relation to earlier volumes:** a direct continuation of Volume 2 (`Rigveda_Samhita_Vol2_English_Translation.md`, Sūktas 3–19, First Adhyāya of the First Aṣṭaka). All conventions of Volumes 1–2 carry over unchanged (see `CLAUDE.md`): every Sanskrit citation in three layers (Devanagari + IAST + English); Kannada-script Sanskrit transcribed letter by letter; doubtful readings and numerals marked [?]; the source's own printed English reproduced as printed with [sic] for misprints; grammar pages (Vyākaraṇa-prakriyā) noted briefly; Saṃhitā-pāṭha accents given as printed where the numeral and accent pass (Oct 2026) has reached them, the Pada-pāṭha unaccented.
 
-**Page numbering:** PDF page 16 = printed page 1, i.e. printed page = PDF page − 15 (the same offset as Volume 2). PDF pages 1–15 are front matter (title page, portraits, preface in Roman numerals, list of abbreviations, table of contents *Viṣayānukramaṇike*). The table of contents ends at printed p. 641 for the last sūkta, and the volume runs to about printed p. 648 (PDF p. 663).
+**Page numbering:** PDF page 16 = printed page 1, i.e. printed page = PDF page − 15 (the same offset as Volume 2). PDF pages 1–15 are front matter (title page, portraits, preface in Roman numerals, list of abbreviations, table of contents *Viṣayānukramaṇike*). The table of contents ends at printed p. 641 for the last sūkta, and the volume runs to printed p. 647. *(The numeral pass, Oct 2026, reads from a better scan in seven parts, `vol3/scans/03 Rigveda Samhitha Volume 03 1.pdf` … `7.pdf`, 660 PDF pages: there printed = PDF − 14; printed pp. 487 and 646 are missing from it and are read from `Rig_Vol3.pdf`; see `vol3/vol3_state.md`.)*
 
-**Table of contents (Viṣayānukramaṇike), sūktas and their first printed pages, as read from the contents pages (page numbers of the Kannada numerals read at low resolution — treat as approximate):**
+**Table of contents (Viṣayānukramaṇike), sūktas and their first printed pages, as read from the contents pages (the page numbers there are printed in Latin digits; checked against the better scan, Oct 2026):**
 
 | Sūkta | Opening words (as printed) | First printed page |
 |---|---|---|
@@ -20,7 +20,7 @@
 | 27 | *aśvaṃ na tvā* | 374 |
 | 28 | *yatra grāvā* | 408 |
 | 29 | *yac cid dhi satya* | 438 |
-| 30 | *āva indraṃ* | about 447 (contents list continues to p. 509) |
+| 30 | *ā va indraṃ* | 458 |
 | 31 | *tvam agne prathamaḥ* | 517 |
 | 32 | *indrasya nu vīryāṇi* | 587 |
 
@@ -54,35 +54,41 @@
 
 **Translation (mine; the verses are the standard homage verses of this series):** "I bow to the elephant-faced one, bowing to whom the good-minded — Vāgīśa [Brahmā] and the rest — become successful at the start of all undertakings. I praise Vidyātīrtha-Maheśvara, whose breath the Vedas are, and who made the whole world from the Vedas. The Veda is Śiva, Śiva is the Veda; one who studies the Veda is Sadāśiva; therefore, with every effort, one should always recite the Veda alone." *(The English is my rendering; the Sanskrit is as printed, read from the Kannada script, with a few letters uncertain.)*
 
-**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed pp. 1–2)**
+**॥ Sāyaṇa-bhāṣyam ॥** (introductory note on the application of the sūkta; printed pp. 1–2)
 
-> अत्र प्रथमाष्टके द्वितीयोऽध्याय आरभ्यते । तत्रायं देवायेत्यष्टर्चं सूक्तम् । तस्य ऋषिच्छन्दसी पूर्ववत् । ऋभुदेवताकत्वमनुक्रम्यते । अयमष्टावार्भवमिति [?] ॥ विनियोगस्तु । सूक्तस्य लैङ्गिकः स्मार्तो वा द्रष्टव्यः ॥ व्यूढस्य प्रथमे छन्दोमे वैश्वदेवशस्त्रेऽयं देवाय जन्मन इत्यार्भवस्तृचः । अथ छन्दोमा इति खण्डे सूत्रितम् । अभि त्वा देव सवितः प्रेतां यज्ञस्य शम्भुवायं देवाय जन्मन इति तृचः । आ. [८-६] । इति ॥
+*(अथमष्टावार्भवमिति is as printed (also in the Kannada rendering); the Āśvalāyana number is printed ८-९.)*
+
+> अत्र प्रथमाष्टके द्वितीयोऽध्याय आरभ्यते । तत्रायं देवायेत्यष्टर्चं सूक्तम् । तस्य ऋषिच्छन्दसी पूर्ववत् । ऋभुदेवताकत्वमनुक्रम्यते । अथमष्टावार्भवमिति ॥ विनियोगस्तु सूक्तस्य लैङ्गिकः स्मार्तो वा द्रष्टव्यः ॥ व्यूढस्य प्रथमे छन्दोमे वैश्वदेवशस्त्रेऽयं देवाय जन्मन इत्यार्भवस्तृचः । अथ छन्दोमा इति खण्डे सूत्रितम् । अभि त्वा देव सवितः प्रेतां यज्ञस्य शंभुवायं देवाय जन्मन इति तृचः ॥ आ. ८-९ । इति ॥
 >
-> *atra prathamāṣṭake dvitīyo 'dhyāya ārabhyate | tatrāyaṃ devāyety aṣṭarcaṃ sūktam | tasya ṛṣi-chandasī pūrvavat | ṛbhu-devatākatvam anukramyate | ayam aṣṭāv ārbhavam iti [?] || viniyogas tu | sūktasya laiṅgikaḥ smārto vā draṣṭavyaḥ || vyūḍhasya prathame chandome vaiśvadeva-śastre 'yaṃ devāya janmana ity ārbhavas tṛcaḥ | atha chandomā iti khaṇḍe sūtritam | abhi tvā deva savitaḥ pretāṃ yajñasya śambhuvāyaṃ devāya janmana iti tṛcaḥ | ā. [8-6] | iti ||*
+> *atra prathamāṣṭake dvitīyo 'dhyāya ārabhyate | tatrāyaṃ devāyetyaṣṭarcaṃ sūktam | tasya ṛṣicchandasī pūrvavat | ṛbhudevatākatvamanukramyate | athamaṣṭāvārbhavamiti || viniyogastu sūktasya laiṅgikaḥ smārto vā draṣṭavyaḥ || vyūḍhasya prathame chandome vaiśvadevaśastre 'yaṃ devāya janmana ityārbhavastṛcaḥ | atha chandomā iti khaṇḍe sūtritam | abhi tvā deva savitaḥ pretāṃ yajñasya śaṃbhuvāyaṃ devāya janmana iti tṛcaḥ || ā. 8-9 | iti ||*
 
-**Translation:** "Here, in the First Aṣṭaka, the Second Adhyāya begins. Its first sūkta is the eight-rik sūkta beginning *ayaṃ devāya*. Its ṛṣi and meter are as before [Medhātithi Kāṇva; Gāyatrī]. That its deity is the Ṛbhus is stated by the Anukramaṇikā [the quotation, read as *ayam aṣṭāv ārbhavam*, is uncertain [?]]. As for its application, it is to be known from the *laiṅgika* or *smārta* usage [the sense of the rik or the Smṛti]. In the first *chandoma* day of the *vyūḍha* sacrifice, at the *vaiśvadeva-śastra*, the *tṛca* [a group of three riks] for the Ṛbhus, *ayaṃ devāya janmane* [Rik 1], is used. And so it is laid down in the Sūtra, in the section beginning *atha chandomāḥ*: 'the *tṛca*s *abhi tvā deva savitaḥ*, *pretāṃ yajñasya śambhuvā* and *ayaṃ devāya janmane*' (Āśvalāyana Śrauta-sūtra [8-6])."
+**Translation:** "Here, in the First Aṣṭaka, the Second Adhyāya begins. In it the sūkta beginning *ayaṃ devāya* has eight ṛks. Its ṛṣi and metre are as before. That its deity is the Ṛbhus is stated in the Anukramaṇī: '*athamaṣṭāv ārbhavam*' [as printed]. The application of the sūkta is to be known as *laiṅgika* or *smārta*. In the first *chandoma* day of the *vyūḍha* rite, at the *vaiśvadeva-śastra*, the *tṛca* to the Ṛbhus *ayaṃ devāya janmane* is used. So it is laid down in the section *atha chandomāḥ*: '*abhi tvā deva savitaḥ*, *pretāṃ yajñasya śambhuvā*, *ayaṃ devāya janmane*: *tṛcas*' (Āśv. 8-9)."
 
-**॥ Anuvāda (Kannada rendering) ॥** In the first sūkta of the second adhyāya of the first aṣṭaka there are eight riks. The ṛṣi and the meter are the same as in the preceding sūkta. The Anukramaṇikā says the deities are the Ṛbhus. The application is both *śrauta* and *smārta*. In the *vyūḍha* sacrifice, when the *prathama-chandoma* *vaiśvadeva-śastra* mantras are recited, the *tṛca* connected with the Ṛbhus, *ayaṃ devāya janmane*, is used. The Āśvalāyana Śrauta-sūtra (Āś. 8-6), in the section *atha chandomāḥ*, directs that the *tṛca* with Savitṛ as deity, beginning *abhi tvā deva savitaḥ* (Ṛ. Saṃ. [1-24-3]) — three riks — the *tṛca* with Heaven-and-Earth as deity beginning *pretāṃ yajñasya śambhuvā* (Ṛ. Saṃ. [3-?-?]), and the *tṛca* with the Ṛbhus as deity beginning *ayaṃ devāya janmane* (Ṛ. Saṃ. 1-20-1) be used as *chandomā* mantras.
+### Page 2 — Sūkta 20: introduction (end), heading, Rik 1 Saṃhitā
 
-### Pages 2–5 — Sūkta 20, Rik 1
-
-**॥ ॐ ॥**
+**Anuvāda (Kannada rendering):** In the first sūkta of the second adhyāya of the first aṣṭaka there are eight ṛks. The ṛṣi and metres of this sūkta are as in the previous sūkta. The Anukramaṇikā says, *athamaṣṭāvārbhavam iti*, that the Ṛbhus are the deities of this sūkta. The application is both *śrauta* and *smārta*. In the rite called *vyūḍha*, at the time of reciting the mantras called *prathama-chandoma*, for reciting the *vaiśvadeva-śastra* mantras, the *tṛca* connected with the Ṛbhus, *ayaṃ devāya janmane*, is recited. This matter is stated in the Āśvalāyana Śrautasūtra (Ā. 8-9), in the section *atha chandomāḥ*: that the *tṛca* (three ṛks) to Savitṛ beginning *abhi tvā deva savitaḥ* (Ṛ. saṃ. 1-24-3), the *tṛca* to Heaven and Earth beginning *pretāṃ yajñasya śambhuvā* (Ṛ. saṃ. 2-41-19) and the *tṛca* to the Ṛbhus beginning *ayaṃ devāya janmane* (Ṛ. saṃ. 1-20-1) are to be recited as the *chandoma* mantras.
 
 **॥ Sūkta — 20 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 5 ॥ Sūkta — 20 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 2 ॥ Varga — 1, 2 [?] ॥** *(small-print Kannada digits "೧, ೨"; read at 150 dpi)*
-**॥ Mantras contained in this sūkta: 1–8 ॥**
-**॥ Ṛṣi — Medhātithi Kāṇva ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 2 ॥ Varga — 1, 2 ॥**
+**॥ Number of ṛks in the sūkta: 8 ॥**
+**॥ Ṛṣiḥ — Medhātithiḥ Kāṇvaḥ ॥**
 **॥ Devatā — Ṛbhavaḥ ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
+### Sūkta 20, Rik 1
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अयं देवाय जन्मने स्तोमो विप्रेभिरासया ।
-> अकारि रत्नधातमः ॥१॥
+> अ॒यं दे॒वाय॒ जन्म॑ने॒ स्तोमो॒ विप्रे॑भिरास॒या ।
+> अका॑रि रत्न॒धात॑मः ॥१॥
 >
-> *ayaṃ devāya janmane stomo viprebhir āsayā |*
-> *akāri ratnadhātamaḥ ||1||*
+> *ayáṃ devā́ya jánmane stómo víprebhir āsayā́ |*
+> *ákāri ratnadhā́tamaḥ ||1||*
+
+### Page 3 — Rik 1: Pada, bhāṣya, word-meanings, overall sense, English
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -90,39 +96,49 @@
 > अकारि । रत्नऽधातमः ॥१॥
 >
 > *ayam | devāya | janmane | stomaḥ | viprebhiḥ | āsayā ||*
-> *akāri | ratna-dhātamaḥ ||1||*
+> *akāri | ratna 'dhātamaḥ ||1||*
 
-*(Accent-marks are printed in the source here, as in the later riks of Volume 2; not reproduced, per the convention.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 3; compressed; [?] marks doubtful readings)*
-
-> ऋभवो हि मनुष्याः सन्तस्तपसा देवत्वं प्राप्ताः । ते चात्र सूक्ते देवताः । तत्संघो जायमानवाचिना जन्मशब्देनैकवचनान्तेनात्र निर्दिश्यते । जन्मने जायमानाय ऋभुसंघरूपाय देवाय तत्प्रीत्यर्थमयं स्तोमः स्तोत्रविशेषो विप्रेभिर्मेधाविभिर्ऋत्विग्भिरासया स्वकीयेनास्येनाकारि । निष्पादितः । कीदृशः स्तोमः । रत्नधातमोऽतिशयेन रमणीयमणियुक्तादिधनप्रदः । स्तोत्रेण तुष्टा ऋभवो धनं प्रयच्छन्तीत्यर्थः ॥ आसया । अस्यशब्दात्तृतीयैकवचनस्य सुपां सुलुगित्यादिना याजादेशः । व्यत्ययेन प्रकृतियकारस्य लोपः । चित इत्यन्तोदात्तः । रत्नधातमः । रत्नानि दधातीति रत्नधाः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> ऋभवो हि मनुष्याः सन्तस्तपसा देवत्वं प्राप्ताः । ते चात्र सूक्ते देवताः । तत्संघो जायमानवाचिना जन्मशब्देनैकवचनान्तेनात्र निर्दिश्यते । जन्मने जायमानाय ऋभुसंघरूपाय देवाय तत्प्रीत्यर्थमयं स्तोमः स्तोत्रविशेषो विप्रेभिर्मेधाविभिर्ऋत्विग्भिरासया स्वकीयेनास्येनाकारि । निष्पादितः । कीदृशः स्तोमः । रत्नधातमोऽतिशयेन रमणीयमणियुक्तादिधनप्रदः । स्तोत्रेण तुष्टा ऋभवो धनं प्रयच्छन्तीत्यर्थः ॥ आसया । आस्यशब्दात्तृतीयैकवचनस्य सुपां सुलुगित्यादिना याजादेशः । व्यत्ययेन प्रकृतियकारस्य लोपः । चित इत्यन्तोदात्तः । रत्नधातमः । रत्नानि दधातीति रत्नधाः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 >
-> *ṛbhavo hi manuṣyāḥ santas tapasā devatvaṃ prāptāḥ | te cātra sūkte devatāḥ | tat-saṅgho jāyamāna-vācinā janma-śabdenaikavacanāntenātra nirdiśyate | janmane jāyamānāya ṛbhu-saṅgha-rūpāya devāya tat-prīty-artham ayaṃ stomaḥ stotra-viśeṣo viprebhir medhāvibhir ṛtvigbhir āsayā svakīyenāsyenākāri | niṣpāditaḥ | kīdṛśaḥ stomaḥ | ratnadhātamo 'tiśayena ramaṇīya-maṇi-yuktādi-dhana-pradaḥ | stotreṇa tuṣṭā ṛbhavo dhanaṃ prayacchantīty arthaḥ || āsayā | asya-śabdāt tṛtīyaikavacanasya supāṃ sulug ity-ādinā yājādeśaḥ | vyatyayena prakṛti-yakārasya lopaḥ | cita ity antodāttaḥ | ratnadhātamaḥ | ratnāni dadhātīti ratnadhāḥ | kṛd-uttarapada-prakṛti-svaratvam ||*
+> *ṛbhavo hi manuṣyāḥ santastapasā devatvaṃ prāptāḥ | te cātra sūkte devatāḥ | tatsaṃgho jāyamānavācinā janmaśabdenaikavacanāntenātra nirdiśyate | janmane jāyamānāya ṛbhusaṃgharūpāya devāya tatprītyarthamayaṃ stomaḥ stotraviśeṣo viprebhirmedhāvibhirṛtvigbhirāsayā svakīyenāsyenākāri | niṣpāditaḥ | kīdṛśaḥ stomaḥ | ratnadhātamo 'tiśayena ramaṇīyamaṇiyuktādidhanapradaḥ | stotreṇa tuṣṭā ṛbhavo dhanaṃ prayacchantītyarthaḥ || āsayā | āsyaśabdāttṛtīyaikavacanasya supāṃ sulugityādinā yājādeśaḥ | vyatyayena prakṛtiyakārasya lopaḥ | cita ityantodāttaḥ | ratnadhātamaḥ | ratnāni dadhātīti ratnadhāḥ | kṛduttarapadaprakṛtisvaratvam ||*
 
-**Translation:** "The Ṛbhus, being originally men, attained divinity by austerity (*tapas*); and they are the deities in this sūkta. Their company is here denoted by the word *janman* in the singular, which means 'the one being born'. For the god — the company of the Ṛbhus — who is born, for his pleasure, this *stoma*, this particular hymn of praise, has been made (*akāri*, 'produced') *āsayā* — with their own mouths — by the *viprebhiḥ*, the wise priests. Of what sort is the hymn? *Ratnadhātamaḥ* — giving wealth, such as lovely jewels, in the highest degree. The sense is that the Ṛbhus, pleased with praise, give wealth." The grammar that follows is noted briefly: *āsayā* (from *asya*, *mukha* 'mouth'; the instrumental singular *ṭā* replaced by *yāc* by P. 7-1-39 *supāṃ sulug…*; the *y* of the stem dropped by *vyatyaya*; the *c*-mark gives end accent); *ratnadhātamaḥ* (*ratnāni dadhāti* = *ratnadhāḥ*, with *tamap*; the accent of the final member of the compound). *(Grammar, noted briefly.)*
+**Translation:** "The Ṛbhus, being men, attained divinity by austerity; and they are the deities in this sūkta. Their company is denoted here by the word *janman*, meaning 'one being born', in the singular. For the *deva*, the god in the form of the company of the Ṛbhus, *janmane*, being born, for his pleasure, this *stoma*, a particular hymn, *akāri*, was made, by the *vipras*, the wise priests, *āsayā*, with their own mouth. Of what kind is the hymn? *Ratnadhātama*, giving in the highest degree wealth such as lovely gems. The sense is: pleased by the hymn, the Ṛbhus give wealth." (Grammatical tail: *āsayā*, from *āsya*, *yāc* for the instrumental singular by *supāṃ suluk…*, the *y* of the base dropped by exchange, final udātta by *citaḥ*; *ratnadhātamaḥ*, "he holds gems", *ratnadhāḥ*, the accent of the *kṛt* final member.)
 
-**Grammar pages (pp. 4 lower half–5), noted briefly.** The Kannada says: *āsayā* — the word *asya* is *mukha* ("mouth"), a variant form (*rūpāntara*) of *āsya*; the dative/instrumental sense "by the mouth"; the ending *ṭā* is replaced by *yāc* (P. 7-1-39 [*supāṃ sulug-pūrvasavarṇāccheyāḍādyāyājālaḥ*]); *yāc* has the mark *c*, hence end-accent by P. 1-1-… [*cit* P. 6-1-163]. *Ratnadhātamaḥ* — *ratna* is an eternally neuter noun and so is first-syllable accented by the Phiṭ-sūtra *nabviṣayasyāniṣantasya* [Phiṭ 2-[?]]; *ratnāni dadhāti iti ratnadhāḥ*: after the root *dhā* with the upapada *ratna*, *kvip* or *viṭ* [P. 3-2-71 *anyebhyo 'pi dṛśyante* / P. 3-2-67 *kvip ca*], all letters of the suffix dropped; the root accent (end-accent on *dhā*); after the compound, *gatikārakopapadāt kṛt* P. 6-2-139 retains the accent of the final member; the other letters unaccented; *ratnadhāḥ* may also have end-accent by *samāsasya* P. 6-1-223; the *tamap* suffix is *pit* so unaccented by P. 3-1-4 *anudāttau suppitau*; the *svarita* and *pracaya* to be supplied. *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 3)*
-
-**जन्मने (janmane)** — for [the deities] called the Ṛbhus, who were born [as gods] | **देवाय (devāya)** — for the deity (for the company of deities) | **रत्नधातमः (ratna-dhātamaḥ)** — giving lovely jewels and the like (riches) | **अयं स्तोमः (ayaṃ stomaḥ)** — this hymn | **विप्रेभिः (viprebhiḥ)** — by the intelligent, the learned priests and others | **आसया (āsayā)** — with [their] mouth | **अकारि (akāri)** — has been made.
+**जन्मने (janmane)** — to those who have taken birth as the deities called Ṛbhus | **देवाय (devāya)** — for the deities (for the company of deities) | **रत्नधातमः (ratnadhātamaḥ)** — giving wealth such as lovely gems | **अयं स्तोमः (ayaṃ stomaḥ)** — this particular hymn | **विप्रेभिः (viprebhiḥ)** — by the wise, that is, by people such as the learned priests | **आसया (āsayā)** — with (their) mouth | **अकारि (akāri)** — has been made.
 
 **॥ Bhāvārthaḥ ॥**
 
-The deities called the Ṛbhus, having been men before, attained divinity. Addressing that company of deities who thus took a divine birth, the learned priests and other men have made this hymn with their own mouths. This excellent hymn gives jewels and other precious things to those who praise, through the grace of the Ṛbhu deities.
+The deities called Ṛbhus were men before and attained divinity. Addressing the company of deities who attained such a divine birth, the learned priests and other people have made this hymn with their own mouth. This excellent hymn, by the grace of the Ṛbhu deities, gives gems and other goods to those who praise.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > This hymn, the bestower of riches has been addressed by the sages with their own mouths to the race (of Ribhus) having divine birth.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 4)*
+### Page 4 — Rik 1: Special Topics and grammar
 
-It is said in many places in the Ṛgveda that the Ṛbhus, having been men formerly, attained divinity by their excellent conduct and by the performance of good works. Formerly, to the ṛṣi Aṅgiras there was a son named Nītimañjarī [as read]. In his line there were three sons born to a ṛṣi named Sudhanvan: Ṛbhu, Vibhu and Vāja. By good works — helping the gods and the like — they were born as gods or became gods; so it is believed. Of these three sons of Sudhanvan, Ṛbhu and the rest, the custom is to call them "Ṛbhus"; the three sons are called by the name of the eldest. Because they were pupils of Tvaṣṭṛ, they are also called "divine craftsmen". It is said in various places that they made for Indra and the other gods needed things — that is, they made Indra's chariot, Agni's *camasa* vessel, and so on. In this sūkta some of the deeds they did are described. It is said everywhere that they have wondrous power and are capable of doing any work; since they have powers and capabilities like those of the gods, the ṛṣis, thinking them to belong to the company of gods, have variously described them and the deeds they did. It is believed that they dwell in the orb of the sun and carry out their works through the sun's rays. More details about them will be given later.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**आसया (āsayā)** — the singular instrumental word; *āsya* — a variant form of the word *mukha*, "mouth"; the sense: "by the mouth", "by the lips".
+That those called Ṛbhus were men formerly and attained divinity by their excellent conduct and the performance of good works is said in many places in the Ṛgveda. Formerly the ṛṣi Aṅgiras had a son named Nītimañjari [as printed]. In his line the ṛṣi named Sudhanvan had three sons, Ṛbhu, Vibhu and Vāja. It is believed that by good works such as the performance of good rites and helping the deities they obtained the birth of gods, or became gods. There is the custom of calling all three sons of Sudhanvan, Ṛbhu and the rest, Ṛbhus; all three sons are called by the name of the eldest. Since they are pupils of Tvaṣṭṛ, they are also called the craftsmen of the gods. It is said here and there that they made the implements needed by deities such as Indra, that is, Indra's chariot and Agni's *camasa* vessel. In this sūkta there is an account of some of the works they did. Descriptions are found here and there that they have wonderful power and are able to do any work. Since they have the very powers and capacities of the deities, the ṛṣis, regarding them as belonging to the group of the deities, have described them and their works in various ways. It is believed that they dwell in the sun's orb and do their works through the sun's rays. More details about them will be given later.
 
-**रत्नधातमः (ratnadhātamaḥ)** — this word occurs in the first rik of the Ṛgveda, *agnim īḷe purohitam* (Ṛ. Saṃ. 1-1-1). *Ratnāni dadhāti (dadāti) iti ratnadhāḥ atiśayena dhanapradaḥ*: one who gives wealth, such as gems, in the highest degree.
+**Āsayā**: a word in the instrumental singular. *Āsya* is a variant form of the word *mukha*, mouth: the sense is that they recite with the mouth, with the lips.
+
+**Ratnadhātamaḥ**: this word occurs in the very first ṛk of the Ṛgveda, *agnim īḷe*. *Ratnāni dadhāti (dadāti) iti ratnadhāḥ atiśayena dhanapradaḥ*: the sense is one who gives wealth such as gems in a high degree.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 4–5, noted briefly)*
+
+**आसया (*āsayā*)**: after the word *āsya* the instrumental singular suffix *ṭā*. For it, by the sūtra "supāṃ suluk…" (Pā. sū. 7-1-39), the substitute *yāc*. The *y* of the base *āsya* drops by "vyatyayo bahulam" (Pā. sū. 3-1-85): *āsayā*. *Yāc* has *c* as *it*; so by "citaḥ" (Pā. sū. "1-1-63" [as printed, for 6-1-163]) the final udātta accent comes.
+
+### Page 5 (upper) — Rik 1: grammar (end)
+
+**रत्नधातमः (*ratnadhātamaḥ*)**: the word *ratna* is always neuter; so by "nabviṣayasyānisantasya" (Phi. sū. 26) it is initial udātta. The analysis is *ratnāni dadhāti*. After the root, with the word *ratna* as *upapada*, *kvip* or the suffix *vic*; all the letters of the suffix drop; by the root accent *dhā* is final udātta; after compounding, by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) the final member, a *kṛdanta*, keeps its own accent. The other letters are unaccented by the accent of the remaining unaccented. In *ratnadhā* final udātta may also be stated by "samāsasya" (Pā. sū. 6-1-223). The suffix *tamap* is *pit*; so by "anudāttau suppitau" (Pā. sū. 3-1-4) it is unaccented; the svarita and *pracaya* are to be inferred.
+
+**॥१॥**
+
+---
 
 ### Pages 5–8 — Sūkta 20, Rik 2
 
