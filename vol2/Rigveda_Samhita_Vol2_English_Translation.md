@@ -10933,15 +10933,17 @@ and *aś* replaces *idam*: that is the sense of the Bhāṣya sentence. So with 
 
 ---
 
-### Page 537 — Sūkta 13, Rik 3
+### Page 537 (lower) — Sūkta 13, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented. Line 1: bars under रा, मि and म, none visible under प्रि; line 2: the bar stands under वि of हविष्कृतम्, not under ह — [accent ?] on both lines.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नराशंसमिह प्रियमस्मिन्यज्ञ उप ह्वये ।
-> मधुजिह्वं हविष्कृतम् ॥३॥
+> नरा॒शंस॑मि॒ह प्रियम॒स्मिन्य॒ज्ञ उप॑ ह्वये । [accent ?]
+> मधु॑जिह्वं हवि॒ष्कृत॑म् ॥३॥ [accent ?]
 >
-> *narāśaṃsam iha priyam asmin yajña upa hvaye |*
-> *madhujihvaṃ haviṣkṛtam ||3||*
+> *narāśáṃsam ihá priyam asmín yajñá úpa hvaye |* [accent ?]
+> *mádhujihvaṃ haviṣkṛ́tam ||3||* [accent ?]
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -10953,53 +10955,65 @@ and *aś* replaces *idam*: that is the sense of the Bhāṣya sentence. So with 
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> इह देवयजनदेशे ऽस्मिन्प्रवर्तमाने यज्ञे नराशंसनामकमग्निमुप ह्वये । आह्वयामि । कीदृशम् । प्रियं देवानां प्रीतिहेतुं मधुजिह्वं मधुरभाषिजिह्वोपेतं माधुर्यरसास्वादकजिह्वोपेतं वा हविष्कृतं हविषो निष्पादकम् ॥ नराशब्दो नृ नये इत्यस्मादबन्तः । प्रत्ययस्य पित्त्वाद्धातुस्वर एव शिष्यते । शंसन्त्यस्मिन्निति शंसः । हलश्च । पा. ३-३-१२१ । इत्यधिकरणे घञ् । नराणां शंस इति समासे कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते उभे वनस्पत्यादिषु युगपत् । पा. ६-२-१४० । इति पूर्वोत्तरपदे प्रकृतिस्वरे भवतः । अत एव वनस्पत्यादिषु पाठान्नरशब्दस्य दीर्घत्वम् । इह । इदमो ह इति ह-प्रत्ययः । इदम इश्-इत्यादेशः । प्रत्ययस्वरः । प्रियम् । प्रीणातीति प्रियः । इगुपधज्ञाप्रीकिरः कः । इति कः । प्रत्ययस्वरः । अस्मिन् । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । ह्वये । निघातः । मधुजिह्वम् । मधुशब्दस्याद्युदात्तत्वमुक्तम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरेण स एव शिष्यते । हविष्कृतम् । हविः करोतीति हविष्कृत् । क्विपि ह्रस्वस्य तुक् । नित्यं समासे ऽनुत्तरपदस्थस्येति षत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> इह देवयजनदेशे ऽस्मिन्प्रवर्तमाने यज्ञे नराशंसनामकमग्निमुप ह्वये । आह्वयामि । कीदृशम् । प्रियं देवानां प्रीतिहेतुं मधुजिह्वं मधुरभाषिजिह्वोपेतं माधुर्यरसास्वादकजिह्वोपेतं वा हविष्कृतं हविषो निष्पादकम् ॥ नरशब्दो नॄ नये इत्यस्मादबन्तः । प्रत्ययस्य पित्त्वाद्धातुस्वर एव शिष्यते । शंसन्त्यस्मिन्निति शंसः । हलश्च । पा. ३-३-१२१ । इत्यधिकरणे घञ् । नराणां शंस इति समासे कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्त उभे वनस्पत्यादिषु युगपत् । पा. ६-२-१४० । इति पूर्वोत्तरपदे प्रकृतिस्वरे भवतः । अत एव वनस्पत्यादिषु पाठान्नरशब्दस्य दीर्घत्वम् । इह । इदमो ह इति ह-प्रत्ययः । इदम इशितीशादेशः । प्रत्ययस्वरः । प्रियम् । प्रीणातीति प्रियः । इगुपधज्ञाप्रीकिरः क इति कः । प्रत्ययस्वरः । अस्मिन् । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । ह्वये । निघातः । मधुजिह्वम् । मधुशब्दस्याद्युदात्तत्वमुक्तम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरेण स एव शिष्यते । हविष्कृतम् । हविः करोतीति हविष्कृत् । क्विपि ह्रस्वस्य तुक् । नित्यं समासे ऽनुत्तरपदस्थस्येति षत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 >
-> *iha deva-yajana-deśe 'smin pravartamāne yajñe narāśaṃsa-nāmakam agnim upa hvaye | āhvayāmi | kīdṛśam | priyaṃ devānāṃ prīti-hetuṃ madhujihvaṃ madhura-bhāṣi-jihvopetaṃ mādhurya-rasāsvādaka-jihvopetaṃ vā haviṣkṛtaṃ haviṣo niṣpādakam || narā-śabdo nṛ naye ity asmād abantaḥ | pratyayasya pittvād dhātu-svara eva śiṣyate | śaṃsanty asminn iti śaṃsaḥ | halaś ca | pā. 3-3-121 | ity adhikaraṇe ghañ | narāṇāṃ śaṃsa iti samāse kṛd-uttara-pada-prakṛti-svaratve prāpte ubhe vanaspaty-ādiṣu yugapat | pā. 6-2-140 | iti pūrvottara-pade prakṛti-svare bhavataḥ | ata eva vanaspaty-ādiṣu pāṭhān nara-śabdasya dīrghatvam | iha | idamo ha iti ha-pratyayaḥ | idama iś ity ādeśaḥ | pratyaya-svaraḥ | priyam | prīṇātīti priyaḥ | igupadhajñāprīkiraḥ kaḥ | iti kaḥ | pratyaya-svaraḥ | asmin | ūḍidam ity-ādinā vibhakter udāttatvam | hvaye | nighātaḥ | madhujihvam | madhu-śabdasyādyudāttatvam uktam | bahuvrīhau pūrvapada-prakṛti-svareṇa sa eva śiṣyate | haviṣkṛtam | haviḥ karotīti haviṣkṛt | kvipi hrasvasya tuk | nityaṃ samāse 'nuttara-pada-sthasyeti ṣatvam | kṛd-uttara-pada-prakṛti-svaratvam ||*
+> *iha devayajanadeśe 'sminpravartamāne yajñe narāśaṃsanāmakamagnimupa hvaye | āhvayāmi | kīdṛśam | priyaṃ devānāṃ prītihetuṃ madhujihvaṃ madhurabhāṣijihvopetaṃ mādhuryarasāsvādakajihvopetaṃ vā haviṣkṛtaṃ haviṣo niṣpādakam || naraśabdo nṝ naye ityasmādabantaḥ | pratyayasya pittvāddhātusvara eva śiṣyate | śaṃsantyasminniti śaṃsaḥ | halaśca | pā. 3-3-121 | ityadhikaraṇe ghañ | narāṇāṃ śaṃsa iti samāse kṛduttarapadaprakṛtisvaratve prāpta ubhe vanaspatyādiṣu yugapat | pā. 6-2-140 | iti pūrvottarapade prakṛtisvare bhavataḥ | ata eva vanaspatyādiṣu pāṭhānnaraśabdasya dīrghatvam | iha | idamo ha iti ha-pratyayaḥ | idama iśitīśādeśaḥ | pratyayasvaraḥ | priyam | prīṇātīti priyaḥ | igupadhajñāprīkiraḥ ka iti kaḥ | pratyayasvaraḥ | asmin | ūḍidamityādinā vibhakterudāttatvam | hvaye | nighātaḥ | madhujihvam | madhuśabdasyādyudāttatvamuktam | bahuvrīhau pūrvapadaprakṛtisvareṇa sa eva śiṣyate | haviṣkṛtam | haviḥ karotīti haviṣkṛt | kvipi hrasvasya tuk | nityaṃ samāse 'nuttarapadasthasyeti ṣatvam | kṛduttarapadaprakṛtisvaratvam ||*
 
-**Translation:** "Here, in this sacrifice now in progress, at the place of worship of the gods, *upa hvaye* — I invoke — the fire named *Narāśaṃsa*. What is he like? *Priyam* — the cause of delight to the gods; *madhujihvam* — having a tongue that speaks sweetly, or a tongue that tastes the flavour of sweetness; *haviṣkṛtam* — the accomplisher of the oblation." *(Grammar noted briefly: that* nara *is from* nṛ naye *with* ap*; that* śaṃsa *is formed with* ghañ *in the locative sense by Pā. 3-3-121 [?], and in the compound* narāśaṃsa *the long* ā *is accepted because* nara *is in the* vanaspatyādi *list (Pā. 6-2-140 [?]), which gives both members their natural accent;* iha *is formed with* ha*;* priya *with* ka *(Pā. 3-1-135 [?]);* madhujihva *is a bahuvrīhi; and* haviṣkṛt *has* tuk *with* kvip *and* ṣ *by Pā. 8-3-45 [?].)* *(Compressed in the scan; I give the legible portions.)*
+**Translation:** "Here, in this sacrifice now in progress, at the place of worship of the gods, *upa hvaye* — I invoke — the fire named *Narāśaṃsa*. What is he like? *Priyam* — the cause of delight to the gods; *madhujihvam* — having a tongue that speaks sweetly, or a tongue that tastes the flavour of sweetness; *haviṣkṛtam* — the accomplisher of the oblation." (Grammatical tail: *nara* — from *nṝ naye* with *ap*; the suffix being *pit*, the root accent alone remains; *śaṃsa* — "they recite in it", *ghañ* in the locative sense by "halaś ca" (Pā. 3-3-121); in the compound "narāṇāṃ śaṃsaḥ", where the *kṛt* second-member accent would come, "ubhe vanaspatyādiṣu yugapat" (Pā. 6-2-140) gives both members their own accents at once, and from its reading in the *vanaspatyādi* group *nara* is lengthened; *iha* — *ha* by "idamo haḥ", *iś* for *idam* by "idama iś", suffix accent; *priyam* — "he pleases", *ka* by "igupadha-jñā-prī-kiraḥ kaḥ", suffix accent; *asmin* — the case ending udātta by "ūḍ-idam…"; *hvaye* — unaccented; *madhujihvam* — *madhu* initial-udātta as said, and in the bahuvrīhi that accent alone remains; *haviṣkṛtam* — "he makes the oblation", *tuk* for the short vowel before *kvip*, *ṣ* by "nityaṃ samāse 'nuttarapadasthasya", the *kṛt* second-member accent.)
 
 ### Page 538 — Rik 3: word-meanings, overall sense, English, Special Topics begin
 
 **॥ Prati-padārthaḥ ॥**
 
-**इह (iha)** — at this sacrificial ground | **अस्मिन् यज्ञे (asmin yajñe)** — in this sacrifice that we perform | **प्रियम् (priyam)** — dear to the gods | **मधुजिह्वम् (madhujihvam)** — who has a tongue that speaks sweetly, or that tastes sweet juice | **हविष्कृतम् (haviṣkṛtam)** — who prepares the oblation | **नराशंसम् (narāśaṃsam)** — Agni, called by the name Narāśaṃsa | **उप ह्वये (upa hvaye)** — I invoke.
+**इह (iha)** — at this sacrificial ground | **अस्मिन् यज्ञे (asmin yajñe)** — in this sacrifice that we perform | **प्रियम् (priyam)** — dear to the gods | **मधुजिह्वम् (madhujihvam)** — who has a tongue that speaks sweetly, or that tastes sweet juice | **हविष्कृतम् (haviṣkṛtam)** — who makes (cooks) the oblation | **नराशंसम् (narāśaṃsam)** — Agni, called by the name Narāśaṃsa | **उप ह्वये (upa hvaye)** — I invoke.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni named *Narāśaṃsa*! You are dear to the gods; you speak sweetly, or you taste the sweet oblation; you prepare the oblation by cooking it. I call such a Narāśaṃsa now, in this sacrifice that we perform.
+O Agni called *Narāśaṃsa*! You are dear to the gods; you speak sweetly, or you taste the sweet oblation; you cook the oblation and make it ready. Such a Narāśaṃsa I now call in this sacrifice that we perform.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> I invoke here at this sacrifice Narasamsa, the beloved one, the sweet-tongued, preparer of sacrificial food.
+> I invoke here at this sacrifice Narasamsa, the beloved one, the sweet-tongoned [sic], preparer of sacrifcial [sic] food.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
 The deity of this rik is Narāśaṃsa — that is, Agni, called by that name. Yāska's explanation of the word runs as follows:
 
-> (१) नराशंसः । नराशंसो यज्ञ इति काठक्यः । नरा अस्मिन्नासीनाः शंसन्ति ॥
-> *(1) narāśaṃsaḥ | narāśaṃso yajña iti kāṭhakyaḥ | narā asminn āsīnāḥ śaṃsanti ||*
-> "*Narāśaṃsa* — Kāṭhakya says *narāśaṃsa* is the sacrifice; for men, seated in it, recite [the praises]." *(The explanation continues on p. 539.)*
+> (१) नराशंसः । नराशंसो यज्ञ इति कात्थक्यः । नरा अस्मिन्नासीनाः शंसन्ति ॥
+>
+> *(1) narāśaṃsaḥ | narāśaṃso yajña iti kātthakyaḥ | narā asminnāsīnāḥ śaṃsanti ||*
 
-### Pages 539–541 — Rik 3: Special Topics (continued) and grammar
+### Page 539 — Rik 3: Special Topics (continued)
 
-*(Continuing Yāska on* narāśaṃsa*:)*
+> (२) अग्निरिति शाकपूणिः । नर्यैः प्रशस्यो भवति ॥
+>
+> *(2) agniriti śākapūṇiḥ | naryaiḥ praśasyo bhavati ||*
 
-> (२) अग्निरिति शाकपूणिः । नर्यैः प्रशस्यो भवति ॥ (नि. ८-६ [?])
-> *(2) agnir iti śākapūṇiḥ | naraiḥ praśasyo bhavati || (ni. 8-6 [?])*
-> "(2) Śākapūṇi says it is Agni: he is praised by men."
 
-Two different senses of the word *narāśaṃsa* are thus given: (1) for Kāṭhakya *narāśaṃsa* is the *yajña*, the sacrifice: because men seated in it recite (*śaṃsanti*, praise), the rite gets the name *yajña* [here: *narāśaṃsa*]; (2) Agni, since men praise him, is called *narāśaṃsa*: this is Śākapūṇi's view. The second explanation is the fitting one here. **Skandasvāmī** says: *naraiḥ praśasyata iti narāśaṃso 'gniḥ taṃ narāśaṃsam* — "he who is praised by men is *narāśaṃsa*, Agni; that Narāśaṃsa [I invoke]."
+
+Two different senses of the word *narāśaṃsa* are thus given: (1) *narāśaṃsa* means the sacrifice: because in this sacrifice *narāḥ*, men, sitting down, *śaṃsanti*, praise (Agni or the gods), this rite is called *yajña* — this is Kātthakya's view; (2) because he is praised by men, Agni is called *narāśaṃsa* — this is Śākapūṇi's view. The second explanation is the fitting one here. **Skandasvāmī** says: *naraiḥ praśasyata iti narāśaṃso 'gniḥ taṃ narāśaṃsam* — "he who is praised by men is *narāśaṃsa*, Agni; that Narāśaṃsa [I invoke]."
 
 **"Priyam"** — the Bhāṣyakāra explains *devānāṃ priyam*, "dear to the gods"; Skandasvāmī explains *manuṣyāṇāṃ priyam*, "dear to men." Both senses are fitting.
 
-**"Madhujihvam"** — *madhura-bhāṣi-jihvopetam*, "having a tongue that speaks sweetly"; and *mādhurya-rasāsvādaka-jihvopetam*, "having a tongue that tastes the sweet flavour of the oblation, ghee and the other *homa* substances," the Bhāṣyakāra explains. **Skandasvāmī** says: *madhujihvaḥ = nityam utsṛṣṭānāṃ haviṣāṃ bhakṣayitā* — "one who always eats the offered oblations" [that is, with a taste for what is delicious]; or: *jihveti vāṅnāma* — "*jihvā* is a name for speech; *madhu jihvā yasya sa madhujihvaḥ*: one whose speech is sweet; *hotṛtvād agner devatānāṃ stāvaka-vedasti*, since Agni is the *hotṛ*, he utters sweet speech to the deities." [the printed Sanskrit is compressed; and a further clause, *subhagavacanam ity arthaḥ*, "words of good fortune"]. *Jihvā*, being a word for speech, means good words, words that give delight to the ear; Agni, when calling the gods, speaks sweet words, out of regard for them: that is how the two senses given by the Bhāṣyakāra and Skandasvāmī arise. *Honey-tongued, sweet-tongued* etc. [the source's English] may be given.
+### Page 540 — Rik 3: Special Topics (continued) and grammar
 
-**"Haviṣkṛtam"** — *haviṣo niṣpādakam*: "the maker of the oblation, one who prepares the oblation": when the oblation is made, it must be placed on Agni and cooked; hence Agni is said to make the oblation. [The source's English: "Preparer of sacrificial food."]
+**"Madhujihvam"** — *madhura-bhāṣi-jihvopetam*, "having a tongue that speaks sweetly", and *mādhurya-rasāsvādaka-jihvopetam*, "having a tongue that tastes the sweet flavour (of the oblation, the *ājya* and the other *homa* substances)": so the Bhāṣyakāra explains. **Skandasvāmī** says *madhujihvaḥ* =
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 539–541, noted briefly)*
+> नित्यमुत्सृष्टानां हविषां भक्षयिता । अथवा जिह्वेति वाङ्नाम मध्वी जिह्वा यस्य स मधुजिह्वः । होतृत्वाद्ध्यग्नेर्देवतानां स्तावकत्वादस्ति मधुवाक्त्वम् । सुभगवचनमित्यर्थः ॥
+>
+> *nityamutsṛṣṭānāṃ haviṣāṃ bhakṣayitā | athavā jihveti vāṅnāma madhvī jihvā yasya sa madhujihvaḥ | hotṛtvāddhyagnerdevatānāṃ stāvakatvādasti madhuvāktvam | subhagavacanamityarthaḥ ||*
 
-**नराशंसम् (*narāśaṃsam*)** — *nara* is from the root *ṇīñ prāpaṇe* ("to lead") with *ap* by "ṛdorap" (Pā. 3-3-57 [?]) after a root ending in *ṛ* or *u* in the senses of action, agent or instrument; with *ṇi* → *nai*, *ay*..., the *a* of the root giving *nara*; *ap* is *pit*, so unaccented; the *ā* after *n* stands with the root accent, udātta. *Śaṃsa*: "śaṃsanty asmin" — *ghañ* in the locative sense by "halaś ca" (Pā. 3-3-121 [?]) after a consonant-ending root; *śaṃs* + *ghañ*; initial-udātta ("ñnityādir nityam," Pā. 6-1-197 [?]); "narāṇāṃ śaṃsaḥ" as a genitive tatpuruṣa would have the *kṛdanta* second member's accent by "gatikārakopapadāt kṛt" (Pā. 6-2-139 [?]), set aside, since *narāśaṃsa* belongs to the *vanaspatyādi* group, by "ubhe vanaspatyādiṣu yugapat" (Pā. 6-2-140 [?]): in compounds of that group both members keep their natural accent at the same time; and the lengthening of *nara* is explained from the group's reading (*narāśaṃsa*); Kauṇḍabhaṭṭa and others explain the lengthening by "nisāśanād dīrghaḥ"; some derive the lengthening from "anyeṣām api dṛśyate" (Pā. 6-3-137 [?]). **इह (*iha*)** — "idamo haḥ" (Pā. 5-3-11 [?]): *ha* after *idam* in the locative sense; "idam iś" (Pā. 5-3-3 [?]); final-udātta?—the source says the accent is that of the suffix. **प्रियम् (*priyam*)** — root *prīñ tarpaṇe* with *ka* by "igupadhajñāprīkiraḥ kaḥ" (Pā. 3-1-135 [?]), *ka* being *kit*, so no *guṇa*; "āc chnā dhātubhrūvām yvoriyaṅuvaṅau" (Pā. 6-4-77 [?]) would give *iy*: *priya*; suffix accent; "ūḍidam-padādy-appum-raidyubhyaḥ" (Pā. 6-1-171 [?]) makes the case-ending of *asmin* udātta. **ह्वये (*hvaye*)** — root *hveñ spardhāyāṃ śabde ca*, *ñit*, so ubhayapada; ātmanepada *laṭ* first singular *iṭ*; "ṭita ātmanepadānāṃ ṭere" (Pā. 3-4-79 [?]) gives *e*; "kartari śap" (Pā. 3-1-68 [?]); *pararūpa*: *hvaye*; unaccented. **मधुजिह्वम् (*madhujihvam*)** — *madhu* is initial-udātta as shown; "madhu jihvā yasya saḥ" bahuvrīhi, keeping the first member's accent ("bahuvrīhau prakṛtyā pūrvapadam," Pā. 6-2-1 [?]). **हविष्कृतम् (*haviṣkṛtam*)** — "haviḥ karoti": *kvip* after *kṛ* with *havis* as *upapada* ("kvip ca," Pā. 3-2-76 [?]); *kṛdanta* → *prātipadika*; the *supo* ending drops; "hrasvasya piti kṛti tuk" (Pā. 6-1-71 [?]) adds *tuk* after a short vowel before a *pit* *kṛt* suffix, here *kvip*, giving *haviṣkṛt*; "nityaṃ samāse 'nuttarapadasthasya" (Pā. 8-3-45 [?]) gives *ṣ* for the visarga of *haviḥ*; "gatikārakopapadāt kṛt" (Pā. 6-2-139 [?]) keeps the accent of the *kṛdanta* second member, final-udātta by the root accent; the accusative *am* is unaccented; the *a* following becomes *svarita*. *(Sūtra numbers read from small print; pointers only.)*
+— one who always eats the tasty or sweet oblation; *jihvā* means speech, words; so *madhujihvaḥ* is one who speaks good words, words that give delight to the ear. Since Agni, when calling the gods, speaks sweet words addressed to them, he is called *madhujihva*: Skandasvāmī thus states, in another way, the same two senses the Bhāṣyakāra gave. Senses such as "Honey-tongoned, sweet-longoned" [sic] [the source's English] may be given.
+
+**"Haviṣkṛtam"** — *haviṣo niṣpādakam*: "the maker of the oblation, one who prepares the oblation": when the oblation is made, it must be placed on Agni and cooked; hence Agni is said to make the oblation. [The source's English: "Preparer of sacrifical [sic] food."]
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 540–541, noted briefly; numbers checked against the print)*
+
+**नराशंसम् (*narāśaṃsam*)** — root *nṝ* [?] *naye*; by "ṛdorap" (printed "vā. sū." [sic] 3-3-57), after roots ending in *ṝ* or *u*, *ap* comes both in the sense of the state and for a *kāraka* other than the agent; so *ap* after *nṝ*: *nṝ* + *a*, *guṇa*
+
+### Page 541 — Rik 3 grammar closes
+
+with *r*: *nara*. The suffix being *pit*, it is unaccented; the *a* after the *n* stays udātta by the root accent. "śaṃsanti asmin iti śaṃsaḥ": "halaś ca" (Pā. 3-3-121) — after a consonant-ending root, *ghañ* — gives *ghañ* after *śaṃs* in the locative sense; *śaṃsa* is initial-udātta by "ñnity ādir nityam" (Pā. 6-1-197). On compounding "narāṇāṃ śaṃsaḥ", "gati-kārakopapadāt kṛt" (Pā. 6-2-139) would give the *kṛt* second-member accent; setting it aside, "thātha-ghañ-ktāj-abitra-kāṇām" (Pā. 6-2-144) would make the second member final-udātta; setting that aside, since *narāśaṃsa* is read in the *vanaspatyādi* group, "ubhe vanaspatyādiṣu yugapat" (Pā. 6-2-140) — in the words of this group the first and second members both keep their own accents at once — gives both members their own accent together. Because in this *vanaspatyādi* group *nara* is read lengthened as *narāśaṃsa*, *nara* is lengthened; the author of the Kaumudī too explains the lengthening in this way as irregular formation. Some derive the lengthening of the first member from "anyeṣām api dṛśyate" (Pā. 6-3-137). **इह (*iha*)** — "idamo haḥ" (Pā. 5-3-11): after a locative of *idam* the suffix *ha*: *idam* + *ṅi* + *ha*; *luk* of *ṅi*; *iś* for *idam* by "idama iś" (Pā. 5-3-3): *iha*; the suffix accent. **प्रियम् (*priyam*)** — "prīṇāti iti priyaḥ": "igupadha-jñā-prī-kiraḥ kaḥ" (Pā. 3-1-135): after roots with *ik* as penultimate and after *jñā avabodhane*, *prīñ tarpaṇe* and *kṝ vikṣepe*, the suffix *ka*; so *ka* after *prīñ tarpaṇe*; being *kit*, no *guṇa*; *iyaṅ* by "aci śnu-dhātu-bhruvāṃ yvor iyaṅ-uvaṅau" (Pā. 6-4-77): *priya*; the suffix accent. *Asmin*: by "ūḍ-idam-padādy-ap-pum-rai-dyubhyaḥ" (printed "6-1-71" [sic]; the sūtra is 6-1-171) the case ending is udātta. **ह्वये (*hvaye*)** — root *hveñ spardhāyāṃ śabde ca*; being *ñit*, it is *ubhayapadin*; ātmanepada *laṭ*, first singular *iṭ*; "ṭita ātmanepadānāṃ ṭere" (Pā. 3-4-79) gives *e* for it; *pararūpa* with the *śap* of "kartari śap": *hvaye*; wholly unaccented by "tiṅṅ atiṅaḥ". **मधुजिह्वम् (*madhujihvam*)** — *madhu* was said in the previous mantra to be initial-udātta; "madhu jihvā yasya saḥ", a bahuvrīhi; by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. 6-2-1) the first-member accent stands. **हविष्कृतम् (*haviṣkṛtam*)** — "haviḥ karoti"; after *ḍukṛñ* with *havis* as *upapada*, "kvip ca" (Pā. 3-2-76) gives *kvip*; as a *kṛdanta* it is a *prātipadika*; the *sup* dropped, the *kvip* lost; before *havis* + *kṛ*, "hrasvasya piti kṛti tuk" (Pā. 6-1-71) gives *tuk* to a stem ending in a short vowel before a *p*-marked *kṛt*; by the paribhāṣā "ādyantau ṭakitau" it is added at the end: *havis* + *kṛt*; *ru* and visarga for the *s*; "nityaṃ samāse 'nuttarapadasthasya" (Pā. 8-3-45) turns the visarga into *ṣ*: *haviṣkṛt*. By "gati-kārakopapadāt kṛt" (printed "6-2 139") the *kṛt* second member keeps its accent, final-udātta; the *kṛt* is final-udātta by the root accent; after it *am*, unaccented as a *sup*, then svarita by "udāttād anudāttasya svaritaḥ".
 
 **॥३॥**
 
