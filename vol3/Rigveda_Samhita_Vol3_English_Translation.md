@@ -538,15 +538,19 @@ in place of the former and latter the lengthening of the former like vowel comes
 
 ---
 
-### Pages 19–23 — Sūkta 20, Rik 5
+### Page 19 (lower) — Sūkta 20, Rik 5
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सं वो मदासो अग्मतेन्द्रेण च मरुत्वता ।
-> आदित्येभिश्च राजभिः ॥५॥
+> सं वो॒ मदा॑सो अग्म॒तेन्द्रे॑ण च म॒रुत्व॑ता ।
+> आ॒दि॒त्येभि॑श्च॒ राज॑भिः ॥५॥
 >
-> *saṃ vo madāso agmatendreṇa ca marutvatā |*
-> *ādityebhiś ca rājabhiḥ ||5||*
+> *saṃ vo mádāso agmaténdreṇa ca marútvatā |*
+> *ādityébhiś ca rā́jabhiḥ ||5||*
+
+### Page 20 — Rik 5: Pada, bhāṣya, word-meanings
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -554,51 +558,101 @@ in place of the former and latter the lengthening of the former like vowel comes
 > आदित्येभिः । च । राजऽभिः ॥५॥
 >
 > *sam | vaḥ | madāsaḥ | agmata | indreṇa | ca | marutvatā ||*
-> *ādityebhiḥ | ca | rāja-bhiḥ ||5||*
+> *ādityebhiḥ | ca | rāja 'bhiḥ ||5||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā's* agmatendreṇa *is the sandhi of* agmata indreṇa*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 20; compressed; [?] marks doubtful readings)*
+*(॥१॥ closes Varga 1. The Āśvalāyana number is printed ५-३.)*
 
-> हे ऋभवो वो युष्माकं सम्बन्धिनो मदासो मदहेतवः सोमा इन्द्रेण चादित्यैरादित्यैश्च समग्मत । सङ्गताः । ऋभूणामिन्द्रादित्यैः सह सोमपानं तृतीयसवनेऽस्ति । अत एवाश्वलायनेनैवं पठितः । इन्द्रमादित्यवन्तमृभुमन्तं विभुमन्तं वाजवन्तं बृहस्पतिमन्तं विश्वदेव्यावन्तमावहेति । आ. [५-३] । कीदृशेनेन्द्रेण । मरुत्वता मरुद्भिर्युक्तेन । अत एव मन्त्रान्तरमेवमाम्नायते । मरुद्भिरिन्द्र सख्यं ते अस्तु । ऋग्वेदे [८-९२-२] । इति । कीदृशैरादित्यैः । राजभिर्दीप्यमानैः ॥ मदासः । माद्यन्त्येभिरिति मदाः सोमाः । मदोऽनुपसर्गे । पा. [३-३-६७] । इत्यप् । तस्य पित्त्वादनुदात्तत्वम् । धातुस्वर एव शिष्यते । आज्जसेरसुगिति जसोऽसुगागमः । अग्मत । गमेः संपूर्वाल्लुङ् । समो गम्यृच्छिभ्याम् । पा. [१-३-२९] । आत्मनेपदम् । झस्यादेशः । मन्त्रे घसेत्यादिना च्लेर्लुक् । गमहनेत्यादिना । पा. [६-४-९८] । उपधालोपः । व्यवहिताश्चेति समो व्यवहितप्रयोगः । निघातः । मरुत्वता । मरुतोऽस्य सन्तीति मरुत्वान् । तदस्यास्त्यस्मिन्निति मतुप् । तसौ मत्वर्थे । पा. [१-४-१९] । इति भसंज्ञायां पदसंज्ञाया बाधितत्वाज्जश्त्वाभावः । झयः । पा. [८-२-१०] । इति मतुपो वत्वम् । आदित्येभिः । बहुलं छन्दसीति भिस ऐसादेशाभावे बहुवचने झल्येत् । राजभिः । राज दीप्तौ । कनिन्युवृषितक्षिराजिधन्विद्युप्रतिदिवः । उ. [१-१५४] । कनिन्प्रत्ययो नित्त्वादाद्युदात्तः ॥५॥
+> हे ऋभवो वो युष्माकं संबन्धिनो मदासो मदहेतवः सोमा इन्द्रेण चादित्येभिरादित्यैश्च समग्मत । संगताः । ऋभूणामिन्द्रादित्यैः सह सोमपानं तृतीयसवनेऽस्ति । अत एवावाहननिगद आश्वलायनेनैवं पठितः । इन्द्रमादित्यवन्तमृभुमन्तं विभुमन्तं वाजवन्तं बृहस्पतिमन्तं विश्वदेव्यावन्तमावहेति ॥ आ. ५-३ । कीदृशेनेन्द्रेण । मरुत्वता मरुद्भिर्युक्तेन । अत एव मन्त्रान्तरमेवमाम्नायते । मरुद्भिरिन्द्र सख्यं ते अस्तु । ऋग्वे. ८-९६-७ । इति । कीदृशैरादित्येभिः । राजभिर्दीप्यमानैः ॥ मदासः । माद्यन्त्येभिरिति मदाः सोमाः । मदोऽनुपसर्गे । पा. ३-३-६७ । इत्यप् । तस्य पित्त्वादनुदात्तत्वम् । धातुस्वर एव शिष्यते । आज्जसेरसुगिति जसोऽसुगागमः । अग्मत । गमेः संपूर्वाल्लुङ् । समो गम्यृच्छीत्यादिना । पा. १-३-२९ । आत्मनेपदम् । झस्यादादेशः । मन्त्रे घसेत्यादिना च्लेर्लुक् । गमहनेत्यादिना । पा. ६-४-९८ । उपधालोपः । व्यवहिताश्चेति समो व्यवहितप्रयोगः । निघातः । मरुत्वता । मरुतोऽस्य सन्तीति मरुत्वान् । तसौ मत्वर्थ इति भसंज्ञया पदसंज्ञाया बाधितत्वाज्जश्त्वाभावः । झयः । पा. ८-२-१० । इति मतुपो वत्वम् । आदित्येभिः । बहुलं छन्दसीति भिस ऐसादेशाभावे बहुवचने झल्येदित्येत्वम् । राजभिः । राजन्शब्दस्य कनिनन्तत्वेन नित्त्वादाद्युदात्तत्वम् ॥१॥
 >
-> *he ṛbhavo vo yuṣmākaṃ sambandhino madāso mada-hetavaḥ somā indreṇa cādityair ādityaiś ca samagmata | saṅgatāḥ | ṛbhūṇām indrādityaiḥ saha soma-pānaṃ tṛtīya-savane 'sti | ata evāśvalāyanenaivaṃ paṭhitaḥ | indram ādityavantam ṛbhumantaṃ vibhumantaṃ vājavantaṃ bṛhaspatimantaṃ viśvadevyāvantam āveheti | ā. [5-3] | kīdṛśenendreṇa | marutvatā marudbhir yuktena | ata eva mantrāntaram evam āmnāyate | marudbhir indra sakhyaṃ te astu | ṛgvede [8-92-2] | iti | kīdṛśair ādityaiḥ | rājabhir dīpyamānaiḥ || madāsaḥ | mādyanty ebhir iti madāḥ somāḥ | mado 'nupasarge | pā. [3-3-67] | ity ap | tasya pittvād anudāttatvam | dhātu-svara eva śiṣyate | āj jaser asug iti jaso 'sugāgamaḥ | agmata | gameḥ saṃpūrvāl luṅ | samo gamy-ṛcchibhyām | pā. [1-3-29] | ātmanepadam | jhasyādeśaḥ | mantre ghasety-ādinā ca cler luk | gamahanety-ādinā | pā. [6-4-98] | upadhā-lopaḥ | vyavahitāś ceti samo vyavahita-prayogaḥ | nighātaḥ | marutvatā | maruto 'sya santīti marutvān | tad asyāsty asminn iti matup | tasau matvarthe | pā. [1-4-19] | iti bhasaṃjñāyāṃ padasaṃjñāyā bādhitatvāj jaśtvābhāvaḥ | jhayaḥ | pā. [8-2-10] | iti matupo vatvam | ādityebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāve bahuvacane jhaly et | rājabhiḥ | rāja dīptau | kanin-yuvṛṣitakṣirājidhanvidyupratidivaḥ | u. [1-154] | kanin-pratyayo nittvād ādyudāttaḥ ||5||*
+> *he ṛbhavo vo yuṣmākaṃ saṃbandhino madāso madahetavaḥ somā indreṇa cādityebhirādityaiśca samagmata | saṃgatāḥ | ṛbhūṇāmindrādityaiḥ saha somapānaṃ tṛtīyasavane 'sti | ata evāvāhananigada āśvalāyanenaivaṃ paṭhitaḥ | indramādityavantamṛbhumantaṃ vibhumantaṃ vājavantaṃ bṛhaspatimantaṃ viśvadevyāvantamāvaheti || ā. 5-3 | kīdṛśenendreṇa | marutvatā marudbhiryuktena | ata eva mantrāntaramevamāmnāyate | marudbhirindra sakhyaṃ te astu | ṛgve. 8-96-7 | iti | kīdṛśairādityebhiḥ | rājabhirdīpyamānaiḥ || madāsaḥ | mādyantyebhiriti madāḥ somāḥ | mado 'nupasarge | pā. 3-3-67 | ityap | tasya pittvādanudāttatvam | dhātusvara eva śiṣyate | ājjaserasugiti jaso 'sugāgamaḥ | agmata | gameḥ saṃpūrvālluṅ | samo gamyṛcchītyādinā | pā. 1-3-29 | ātmanepadam | jhasyādādeśaḥ | mantre ghasetyādinā clerluk | gamahanetyādinā | pā. 6-4-98 | upadhālopaḥ | vyavahitāśceti samo vyavahitaprayogaḥ | nighātaḥ | marutvatā | maruto 'sya santīti marutvān | tasau matvartha iti bhasaṃjñayā padasaṃjñāyā bādhitatvājjaśtvābhāvaḥ | jhayaḥ | pā. 8-2-10 | iti matupo vatvam | ādityebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāve bahuvacane jhalyedityetvam | rājabhiḥ | rājanśabdasya kaninantatvena nittvādādyudāttatvam ||1||*
 
-**Translation:** "O Ṛbhus! Your *madāsaḥ* — the intoxicating soma-juices — have been united (*samagmata*) with Indra and with the Ādityas. The Ṛbhus' drinking of soma with Indra and the Ādityas takes place at the third pressing; therefore Āśvalāyana reads it thus: '[bring] Indra with the Ādityas, with the Ṛbhus, with Vibhu, with Vāja, with Bṛhaspati, with the Viśvedevas' (Āś. [5-3]). With what Indra? *Marutvatā* — accompanied by the Maruts; so another mantra reads: '*marudbhir indra sakhyaṃ te astu*' — 'may your friendship be with the Maruts, O Indra' (Ṛgveda [8-92-2]). With what Ādityas? *Rājabhiḥ* — shining ones." The rest is grammar, noted briefly: *madāsaḥ* (*mad* + *ap* by P. 3-3-67 *mado 'nupasarge*; the suffix is *pit*, so the root accent stays; the *jas* augment *asuk* by P. 7-1-50); *agmata* (*gam* with *sam*, the aorist; middle voice by P. 1-3-29 *samo gamyṛcchibhyām*; the *cli* dropped; penultimate dropped by P. 6-4-98 *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*; the separated *sam*); *marutvatā* (*matup* after *marut*; the *bha*-name by P. 1-4-19 *tasau matvarthe* overrides the *pada*-name; *va* for *ma* by P. 8-2-10 [*jhayaḥ*]); *ādityebhiḥ* (*bhis* does not become *ais*: "variously in the Veda"; *e* by P. 7-3-103); *rājabhiḥ* (*rāj* + Uṇādi *kanin*, first-syllable accent). *(Grammar, noted briefly; P. 3-3-67, 1-3-29, 6-4-98, 1-4-19 as read agree with the standard numbering.)*
+**Translation:** "O Ṛbhus, *vaḥ*, your, *madāsaḥ*, the soma juices that cause exhilaration, *sam agmata*, have come together with Indra and the Ādityas. In the third pressing the Ṛbhus drink soma together with Indra and the Ādityas. Hence the invitation formula (*āvāhana-nigada*) is read thus by Āśvalāyana: 'Bring Indra with the Ādityas, with the Ṛbhus, with Vibhu, with Vāja, with Bṛhaspati, with the Viśvadevas' (Āśv. 5-3). With what kind of Indra? *Marutvatā*, joined with the Maruts. Hence another mantra declares: 'With the Maruts, Indra, let there be friendship for you' (Ṛgveda 8-96-7). With what kind of Ādityas? *Rājabhiḥ*, shining." (Grammatical tail: *madāsaḥ*, "by them they are exhilarated": *madāḥ*, the soma juices; *ap* by *mado 'nupasarge* (Pā. 3-3-67), unaccented as *pit*, the root accent alone stays; the augment *asuk* for *jas* by *āj jaser asuk*; *agmata*, *luṅ* after *gam* with *sam*, *ātmanepada* by *samo gamyṛcchi…* (Pā. 1-3-29), *at* for *jha*, *luk* of *cli* by *mantre ghasa…*, the loss of the penultimate by *gamahana…* (Pā. 6-4-98), *sam* used separated by *vyavahitāś ca*, wholly unaccented; *marutvatā*, "he has Maruts", *marutvān*; since the *bha* name of *tasau matvarthe* overrides the *pada* name, no *jaś*; *v* for the *m* of *matup* by *jhayaḥ* (Pā. 8-2-10); *ādityebhiḥ*, without *ais* for *bhis* by *bahulaṃ chandasi*, *e* by *bahuvacane jhaly et*; *rājabhiḥ*, *rājan*, ending in *kanin*, initial udātta as *nit*.)
 
-**Grammar pages (pp. 22 lower half–23), noted briefly.** The Kannada treats: *madāsaḥ* (*madī harṣe*, *mado 'nupasarge* P. 3-3-67 gives *ap* when a *subanta* that is not a prefix is the upapada: *mad* + *a*; *ap* has *p*, so unaccented [*anudāttau suppitau* P. 3-1-4]; the root accent stays; nominative plural *jas* with *asuk* by P. 7-1-50 *āj jaser asuk* — the *k* of *asuk* makes it the final part of the stem [*ādyantau ṭakitau* P. 1-1-46]; *savarṇadīrgha*; *ru*, *visarga*), *agmata* (*gamḷ gatau* with *sam*, *luṅ*; *samo gamyṛcchibhyām* [P. 1-3-29] — with the following *akarmakāc ca* P. 1-3-26 and *anudāttaṅita ātmanepadam* P. 1-3-12 continuing — gives the middle voice for *gam* and *ṛ* after *sam* and for roots without objects; *luṅ* third plural middle *jha* → *at* by P. 7-1-5; *cli* dropped by *mantre ghasahvaraṇaśavṛdahādvṛc-kragamijanibhyo leḥ* P. 2-4-80; *gam* + *a-t* + *a*: the *a* of *gam* dropped by P. 6-4-98 [*gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*] as the suffix is *kit*/*ṅit*; the *aṭ*-augment would apply [P. 6-4-71] but "variously in the Veda" [*bahulaṃ chandasy amāṅyoge 'pi* P. 6-4-75] it is not added; *sam* + *agmata*; the prefix *sam* separated from the verb — *chandasi pare 'pi* P. 1-4-81 and *vyavahitāś ca* P. 1-4-82; the verb unaccented by P. 8-1-28), *marutvatā* (*maruto 'sya santi*; *tad asyāsty asminn iti matup* P. 5-2-94; the case-ending of the stem dropped; *marut* would be a *pada* by P. 1-4-14 *suptiṅantaṃ padam* and take *jaś* by *jhalāṃ jaśo 'nte* P. 8-2-39, but P. 1-4-19 *tasau matvarthe* makes it a *bha*-stem when *matup* follows, which overrides the *pada*-name, so *t* does not become *d*; *jhayaḥ* P. 8-2-10 [the Kannada: *jhayaḥ*, by which *va* for *ma* of *matup* after a stem ending in a letter of the *jhay* group]; instrumental singular *ṭā*: *marutvatā*), *ādityebhiḥ* (*bahulaṃ chandasi* P. 7-1-10 prevents *bhis* from becoming *ais*; *bahuvacane jhaly et* P. 7-3-103 gives *e*), and *rājabhiḥ* (*rāj dīptau*, *kanin* by Uṇ. 1-154 [as read, *kaninyuvṛṣitakṣirājidhanvidyupratidivaḥ*], *nit*, so first-syllable accent by P. 6-1-197; *bhis* is *sup*, a *pada*-ending by *svādiṣv asarvanāmasthāne* P. 1-4-17; *nalopaḥ prātipadikāntasya* P. 8-2-7; *ru*, *visarga*: *rājabhiḥ*). ॥5॥ *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 20)*
+**(हे ऋभवः (he ṛbhavaḥ))** — O Ṛbhus | **मरुत्वता (marutvatā)** — joined with the deities called Maruts | **इन्द्रेण च (indreṇa ca)** — and with Indra | **राजभिः (rājabhiḥ)** — shining | **आदित्येभिः च (ādityebhiḥ ca)** — and (joined) with the Ādityas | **वः (vaḥ)** — your | **मदासः (madāsaḥ)** — causing exhilaration (the soma juices) | **सं अग्मत (saṃ agmata)** — have been brought together.
 
-**(हे ऋभवः) ((he ṛbhavaḥ))** — O Ṛbhu deities | **मरुत्वता (marutvatā)** — accompanied by the deities called the Maruts | **इन्द्रेण च (indreṇa ca)** — with Indra also | **राजभिः (rājabhiḥ)** — shining | **आदित्येभिः च (ādityebhiḥ ca)** — with the Ādityas also | **वः (vaḥ)** — your | **मदासः (madāsaḥ)** — the intoxicating [soma-juices] | **सम् अग्मत (sam agmata)** — have been joined (assembled).
+### Page 21 — Rik 5: overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** *(p. 21)*
+**॥ Bhāvārthaḥ ॥**
 
-O Ṛbhu deities! For you — joined with Indra, the Maruts, and the shining Ādityas — the intoxicating soma-juice has been got ready.
+O Ṛbhu deities, for you, joined with the Maruts, Indra and the shining Ādityas, the exhilarating soma juice has been made ready.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Ribhus, the exhilerating [sic] Soma juices are ready to be offered to you along with Indra accompanied by the Maruts and along with the brilliant Adityas.
+> O Ribhus, the exhilerating [sic] Soma juices are ready to be offered to you along with Indra accompanied by the Maruths [sic] and along with the brilliant Adityas.
 
-*(The print has "exhilerating" for "exhilarating" — [sic].)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 21–22)*
+At the evening rite called the third pressing, when the soma juice is pressed and offered to the Ṛbhus, it is offered addressing Indra accompanied by the Ādityas, the Ṛbhus, Ṛbhu, Vibhu and Vāja, Bṛhaspati and the Viśvadevas. This is stated in the Āśvalāyana Śrautasūtra:
 
-In the evening, at the third pressing (*tṛtīya-savana*), when the soma-juice is offered to the Ṛbhus, it is offered by addressing — together with the Ṛbhus — Indra accompanied by the Ādityas, and the deities Ṛbhu, Vibhu, Vāja, Bṛhaspati and the Viśvedevas. This matter is stated in the Āśvalāyana Śrauta-sūtra: *indram ādityavantam ṛbhumantaṃ vibhumantaṃ vājavantaṃ bṛhaspatimantaṃ viśvedevyāvantam āveti* (Āś. 5-3 [?]).
+> इन्द्रमादित्यवन्तमृभुमन्तं विभुमन्तं वाजवन्तं बृहस्पतिमन्तं विश्वदेव्यावन्तमावह (आ. ५-३)
+>
+> *indramādityavantamṛbhumantaṃ vibhumantaṃ vājavantaṃ bṛhaspatimantaṃ viśvadevyāvantamāvaha (ā. 5-3)*
 
-**सं अग्मत (saṃ agmata)** — Skandasvāmin explains these words as *saṃgacchadhvam*, "unite" — [taking *agmata* as] "may [the soma] come together for the sake of drinking soma".
+**Saṃ agmata**: Skandasvāmin explains these words as *saṃgacchadhvam*, that is, "come for the drinking of soma".
 
-**मदासः (madāsaḥ)** — *mādyanty ebhir iti madāḥ somāḥ*: since the soma-drinking gives intoxication (*mada*), the soma-juice is called *madāḥ*.
+**Madāsaḥ**:
 
-**मरुत्वता (marutvatā)** — *maruto 'sya santīti marutvān*: with Indra, who is accompanied by the Marut deities.
+> माद्यन्त्येभिरिति मदाः मदहेतवः सोमाः ।
+>
+> *mādyantyebhiriti madāḥ madahetavaḥ somāḥ |*
 
-**आदित्येभिः (ādityebhiḥ)** — Yāska has given these derivations of the word *āditya* (Ni. [2-13]):
-(1) *ādityaḥ kasmād ādatte rasān ādatte bhāsaṃ jyotiṣām ādīpto bhāseti vādites putra iti vā* — "Why is [the sun] *Āditya*? Because he takes (*ādatte*) the juices; or takes the light of the luminaries; or because he is lit up [from all sides] and shines; or because he is the son of Aditi." That is, *ādatte* means he who takes or draws: he draws up the water (*rasān*) by his rays; the water thus drawn up becomes cloud and produces rain; hence, because he draws up water by his rays from the sea and other water-bodies, he is called *Āditya*.
-(2) Or: *ādatte bhāsaṃ jyotiṣām* — because at his rising the sun's light dims the light of all other things (the moon and so on) and takes it up; hence the name.
-(3) Or: *ādīpto bhāseti vā* — because he is lit up on all sides, shining everywhere around.
-(4) Or: *aditeḥ putra iti vā* — he is the son of the goddess Aditi, mother of the gods; hence *Āditya*.
+("They are exhilarated by them: *madāḥ*, the soma juices, causes of exhilaration.") Because the drinking of soma produces exhilaration, the soma juice is called *madāsaḥ*.
 
-**राजभिः (rājabhiḥ)** — *dīpyamānaiḥ* — shining, brilliant, etc. [the print adds the English "brilliant, shining &c."].
+**Marutvatā**:
+
+> मरुतोऽस्य सन्तीति मरुत्वान् । मरुद्भिर्युक्तेन ।
+>
+> *maruto 'sya santīti marutvān | marudbhiryuktena |*
+
+("He has Maruts: *marutvān*; joined with the Maruts.") Accompanied by the Marut deities (together with Indra).
+
+**Ādityebhiḥ**: for the word *āditya* Yāska gives this derivation too (Ni. 2-13):
+
+> आदित्यः कस्मादादत्ते रसानादत्ते भासं ज्योतिषामादीप्तो भासेति वादितेः पुत्र इति वा ॥
+>
+> *ādityaḥ kasmādādatte rasānādatte bhāsaṃ jyotiṣāmādīpto bhāseti vāditeḥ putra iti vā ||*
+
+(1) *Ādityaḥ kasmād ādatte rasān*: *ādatta iti ādityaḥ*: one who takes, who receives, or who draws: this is the sense of the word *āditya*. Takes what? *Rasān*, that is, he draws the water through his rays. The water drawn in this way produces rain in the form of clouds. So, because he draws water through his rays from water-bodies such as the ocean, he is named Āditya.
+
+### Page 22 — Rik 5: Special Topics (end) and grammar
+
+(2) *Athavā ādatte bhāsaṃ jyotiṣām*: because, when the sun rises, the sun's light lowers the light of all other things (such as the moon) and draws that light, he is named Āditya.
+
+(3) *Athavā ādīpto bhāseti vā*: because he shines in all places, or covering all around, he is named Āditya.
+
+(4) *Athavā aditeḥ putra iti vā*: because he is the son of the goddess Aditi, mother of the gods, he is named Āditya.
+
+**Rājabhiḥ**:
+
+> दीप्यमानैः ।
+>
+> *dīpyamānaiḥ |*
+
+("Shining.") Shining, "brilliant, shining &c." [as printed].
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 22–23, noted briefly)*
+
+**मदासः (*madāsaḥ*)**: *mādyati ebhir iti madāḥ somāḥ*: by these soma juices one obtains joy; so *madāḥ* is a name of soma. The root *madī harṣe*. By "mado 'nupasarge" (Pā. sū. 3-3-67), when a *subanta* other than a preverb is the *upapada*, the suffix *ap* comes after the root *mad*; when *ap* comes, *mad* + *a*. The suffix has *p* as *it*, so it is unaccented; the root accent alone remains. After the word *mada*, when the nominative plural *jas* is added, *mada* + *jas*: by "āj jaser asuk" (Pā. sū. 7-1-50) the augment *asuk* for the *jas* after an *aṅga* ending in short *a*. Being *kit*, by the *paribhāṣā* "ādyantau ṭakitau" (Pā. sū. 1-1-46) it comes as an end-part with *jas* (as printed: ಅಂತಾವಯವಾಗಿ). *Mada* + *asas*: lengthening of the former like vowel; *ru* and visarga: *madāsaḥ*.
+
+**अग्मत (*agmata*)**: after the root *gamḷ gatau* preceded by the preverb *sam*, *luṅ*. *Gam* + *luṅ*: in "samo gamyṛcchibhyām" (Pā. sū. 1-3-29) "akarmakāc ca" (Pā. sū. 1-3-26) and, by "anudāttaṅita ātmanepadam" (Pā. sū. 1-3-12), *ātmanepadam* are carried on. After the roots *gam* and *ṛ*, preceded by the preverb *sam* and intransitive, in place of the *l* comes the *ātmanepada*; so in place of *luṅ*, when the 3rd plural is meant, the substitute *jha* named *ātmanepada* comes. *Gam* + *cli* + *jha*: by "ātmanepadeṣv anataḥ" (Pā. sū. 7-1-5) *at* for the *jh*; by "mantre ghasahvaraṇa…" (Pā. sū. 2-4-80) *luk* for *cli*. *Gam* + *ata*: now by "gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi" (Pā. sū. 6-4-98), when a vowel-initial suffix that is *kit* or *ṅit* follows, the penultimate letter of the roots *gam* and the rest drops; but when *aṅ* follows,
+
+### Page 23 (upper) — Rik 5: grammar (end)
+
+this loss does not come; so the *a* of the root *gam* drops; the augment *aṭ*: *agmata*. By "te prāg dhātoḥ" (Pā. sū. 1-4-80) the *gati*s and preverbs must be used immediately before the root; so *sam* should be used directly. Yet by "chandasi pare 'pi" (Pā. sū. 1-4-81) and "vyavahitāś ca" (Pā. sū. 1-4-82), in the Veda the *gati*s and preverbs also come after the root and separated from it; so here *sam* is used separated. By "tiṅṅatiṅaḥ" it is wholly unaccented.
+
+**मरुत्वता (*marutvatā*)**: *marutaḥ asya santi iti marutvān*: by "tad asyāsty asminn iti matup" (Pā. sū. 5-2-94) the suffix *matup* after *marut*. The *jas* that is part of the stem takes *luk*. With the dropped suffix as condition the *pada* name would apply; so *jaś* would be due by "jhalāṃ jaśo 'nte" (Pā. sū. 8-2-39). But by "tasau matvarthe" (Pā. sū. 1-4-19), when a suffix in the sense of *matup* follows, words ending in *t* and *s* get the name *bha*. Since the *bha* name comes, the *pada* name is overridden by it. So *marut* is not a *pada*; for that reason *jaś* does not come. By "jhayaḥ" (Pā. sū. 8-2-10), for the *m* of a *matup* after a word ending in a letter of the *pratyāhāra* *jhay*, *v*; the instrumental singular suffix *ṭā*: *marutvatā*.
+
+**आदित्येभिः (*ādityebhiḥ*)**: by "bahulaṃ chandasi" (Pā. sū. 7-1-10) the substitute *ais* for *bhis* does not come. By "bahuvacane jhaly et" (Pā. sū. 7-3-103) *e* comes.
+
+**राजभिः (*rājabhiḥ*)**: the root *rājṛ dīptau*. By "kaninyuvṛṣitakṣirājidhanvidyupratidivaḥ" (Uṇ. sū. "1-154" [?]) the suffix *kanin* is *nit*; so by the *nit* accent *rājan* is initial udātta. After it the instrumental plural *bhis*; by "svādiṣv asarvanāmasthāne" (Pā. sū. 1-4-17) the *pada* name; by "nalopaḥ prātipadikāntasya" the *n* drops; *ru* and visarga: *rājabhiḥ*.
+
+**॥५॥**
+
+---
 
 ### Pages 23–30 — Sūkta 20, Rik 6
 
