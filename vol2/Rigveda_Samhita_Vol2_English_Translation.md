@@ -15343,55 +15343,107 @@ since there is connection with this *kṛdanta*, in *indrāvaruṇayoḥ* the ge
 
 ---
 
-### Pages 714–718 — Sūkta 17, Rik 2
+### Page 714 (lower) — Sūkta 17, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented. The Saṃhitā prints स्थोवसे without the avagraha.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> गन्तारा हि स्थोऽवसे हवं विप्रस्य मावतः ।
-> धर्तारा चर्षणीनाम् ॥२॥
+> गन्ता॑रा॒ हि स्थोव॑से॒ हवं॒ विप्र॑स्य॒ माव॑तः ।
+> ध॒र्ता॑रा चर्षणी॒नाम् ॥२॥
 >
-> *gantārā hi stho 'vase havaṃ viprasya māvataḥ |*
-> *dhartārā carṣaṇīnām ||2||*
+> *gántārā hí sthóvase hávaṃ víprasya mā́vataḥ |*
+> *dhartārā carṣaṇīnā́m ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > गन्तारा । हि । स्थः । अवसे । हवम् । विप्रस्य । माऽवतः ॥
 > धर्तारा । चर्षणीनाम् ॥२॥
 >
-> *gantārā | hi | sthaḥ | avase | havam | viprasya | mā-vataḥ ||*
+> *gantārā | hi | sthaḥ | avase | havam | viprasya | mā 'vataḥ ||*
 > *dhartārā | carṣaṇīnām ||2||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 714; compressed; [?] marks doubtful readings)*
+*(In लट्[?] the second letter is not clear (ಟ್ or ಙ್); the grammar page has ಲಟ್.)*
 
-> हे इन्द्रावरुणा अवसेऽवितुमनुष्ठातारं रक्षितुं मावतो मद्विधस्य विप्रस्य ब्राह्मणर्त्विजो हवमाह्वानं गन्तारौ स्थो हि प्राप्तिशीलौ भवथः खलु । कीदृशौ । चर्षणीनां मनुष्याणां धर्तारौ योगक्षेमसंपादनेन धारयितारौ ॥ गन्तारा । गमेः स्तृच्छीले तृन् । द्विवचनस्य सुपां सुलुगित्यादिनाकारादेशः । ऋदुशनस्पुरुदंसोऽनेहसां च । पा. [७-१-९४] । इत्यनङ्गुणः । … तृनो नित्त्वादाद्युदात्तत्वम् । स्थः । अस भुवि । लटि मध्यमपुरुषद्विवचनं थस् । आदिप्रभृतिभ्यः शपः इति शपो लुक् । हि चेति निघातप्रतिषेधः । अवसे । अव रक्षणे । तुमर्थे सेसेनसेनित्यादिना असेन् । नित्स्वरेणाद्युदात्तः । हवम् । ह्वेञो बहुलं छन्दसीत्यनेनैमित्तिके संप्रसारणे परपूर्वत्वे च ऋदोरबिति अप् । गुणावादेशौ । अपः पित्त्वादनुदात्तत्वम् । धातुस्वर एव । विप्रस्य । डुवप् बीजसन्ताने । अस्य ऋजेन्द्रेत्यादिना रन् निपातितः । नित्त्वादाद्युदात्तः । मावतः । वतुप्प्रकरणे युष्मदस्मद्भ्यां छन्दसि सादृश्य उपसंख्यानम् । पा. [५-२-३९-१] । वतुप् । प्रत्ययोत्तरपदयोश्च । पा. [७-२-९८] । इत्यस्मदो मपर्यन्तस्य मादेशः । आ सर्वनाम्नः । पा. [६-३-९१] । इति दीर्घः । … मतुपः पित्त्वादनुदात्तत्वम् । प्रातिपदिकान्तोदात्तत्वे स एव शिष्यते । धर्तारा । धृञ् धारणे । ण्वुल्तृचौ । पा. [३-१-१३३] । इति तृच् । … चर्षणीनाम् । कृषेराद्येश्च चः । उ. [२-१०३ ?] । इत्यनिप्रत्ययः । … नामि । पा. [६-४-३] । इति दीर्घः ॥२॥
+> हे इन्द्रावरुणौ अवसेऽवितुमनुष्ठातारं रक्षितुं मावतो मद्विधस्य विप्रस्य ब्राह्मणस्यर्त्विजो हवमाह्वानं गन्तारौ स्थो हि । प्राप्तिशीलौ भवथः खलु । कीदृशौ । चर्षणीनां मनुष्याणां धर्तारौ योगक्षेमसंपादनेन धारयितारौ ॥ गन्तारा । गमेस्ताच्छील्ये तृन् । द्विवचनस्य सुपां सुलुगित्यादिनाकारादेशः । ऋदृशोऽङि गुणः । पा. ७-४-१६ । अप्तृन्नित्यादिनोपधादीर्घत्वम् । तृनो नित्त्वादाद्युदात्तत्वम् । स्थः । अस भुवि । लट्[?] मध्यमपुरुषद्विवचनं थस् । अदिप्रभृतिभ्यः शप इति शपो लुक् । हि चेति निघातप्रतिषेधः । अवसे । अव रक्षणे । तुमर्थे सेसेनित्यसेन् । पा. ३-४-९ । नित्त्वादाद्युदात्तः । हवम् । ह्वेञो बहुलं छन्दसीत्यनैमित्तिके संप्रसारणे परपूर्वत्वे च ऋदोरबित्यप् । गुणावादेशौ । अपः पित्त्वादनुदात्तत्वम् । धातुस्वर एव । विप्रस्य । डुवप् बीजतन्तुसंताने । अस्य ऋज्रेन्द्रेत्यादिना रन् निपातितः । नित्त्वा-
 >
-> *he indrāvaruṇā avase 'vitum anuṣṭhātāraṃ rakṣituṃ māvato madvidhasya viprasya brāhmaṇartvijo havam āhvānaṃ gantārau stho hi prāptiśīlau bhavathaḥ khalu | kīdṛśau | carṣaṇīnāṃ manuṣyāṇāṃ dhartārau yogakṣema-saṃpādanena dhārayitārau || gantārā | gameḥ stṛc-chīle tṛn | dvivacanasya supāṃ sulug ity-ādinākārādeśaḥ | ṛd-uśanas-puru-daṃso-'nehasāṃ ca | pā. [7-1-94] | ity anaṅ-guṇaḥ | … tṛno nittvād ādyudāttatvam | sthaḥ | asa bhuvi | laṭi madhyama-puruṣa-dvivacanaṃ thas | ādiprabhṛtibhyaḥ śapaḥ iti śapo luk | hi ceti nighāta-pratiṣedhaḥ | avase | ava rakṣaṇe | tumarthe sesenasen ity-ādinā asen | nit-svareṇādyudāttaḥ | havam | hveño bahulaṃ chandasīty anenaimittike saṃprasāraṇe parapūrvatve ca ṛdor ab iti ap | guṇāvādeśau | apaḥ pittvād anudāttatvam | dhātu-svara eva | viprasya | ḍuvap bīja-santāne | asya ṛjrendrety-ādinā ran nipātitaḥ | nittvād ādyudāttaḥ | māvataḥ | vatup-prakaraṇe yuṣmad-asmadbhyāṃ chandasi sādṛśya upasaṃkhyānam | pā. [5-2-39-1] | vatup | pratyayottarapadayoś ca | pā. [7-2-98] | ity asmado mapayantasya mādeśaḥ | ā sarvanāmnaḥ | pā. [6-3-91] | iti dīrghaḥ | … matupaḥ pittvād anudāttatvam | prātipadikāntodāttatve sa eva śiṣyate | dhartārā | dhṛñ dhāraṇe | ṇvul-tṛcau | pā. [3-1-133] | iti tṛc | … carṣaṇīnām | kṛṣer ādyeś ca caḥ | u. [2-103 ?] | ity ani-pratyayaḥ | … nāmi | pā. [6-4-3] | iti dīrghaḥ ||2||*
+> *he indrāvaruṇau avase 'vitumanuṣṭhātāraṃ rakṣituṃ māvato madvidhasya viprasya brāhmaṇasyartvijo havamāhvānaṃ gantārau stho hi | prāptiśīlau bhavathaḥ khalu | kīdṛśau | carṣaṇīnāṃ manuṣyāṇāṃ dhartārau yogakṣemasaṃpādanena dhārayitārau || gantārā | gamestācchīlye tṛn | dvivacanasya supāṃ sulugityādinākārādeśaḥ | ṛdṛśo 'ṅi guṇaḥ | pā. 7-4-16 | aptṛnnityādinopadhādīrghatvam | tṛno nittvādādyudāttatvam | sthaḥ | asa bhuvi | laṭ[?] madhyamapuruṣadvivacanaṃ thas | adiprabhṛtibhyaḥ śapa iti śapo luk | hi ceti nighātapratiṣedhaḥ | avase | ava rakṣaṇe | tumarthe sesenityasen | pā. 3-4-9 | nittvādādyudāttaḥ | havam | hveño bahulaṃ chandasītyanaimittike saṃprasāraṇe parapūrvatve ca ṛdorabityap | guṇāvādeśau | apaḥ pittvādanudāttatvam | dhātusvara eva | viprasya | ḍuvap bījatantusaṃtāne | asya ṛjrendretyādinā ran nipātitaḥ | nittvā-*
 
-**Translation:** "O Indra and Varuṇa! You are *gantārau* — you are given to coming (*prāptiśīlau*) — to the call (*havam*) of a *vipra*, a wise priest such as I (*māvataḥ*, 'one like me'), in order to protect (*avase*) the one who performs the rite. Of what sort are you? *Dhartārau* — upholders of the *carṣaṇayaḥ*, the people, by securing for them what they have and what they lack [*yogakṣema*]." The rest is grammar, noted briefly: *gantārā* (*gam* with *tṛn* in the sense of habit, with the dual ending *ā* by P. 7-1-39 and *anaṅ*/guṇa by P. 7-1-94 *ṛd-uśanas-purudaṃso-'nehasāṃ ca*; first-syllable accent through the *n*-mark of *tṛn*); *sthaḥ* (*as* "to be", *laṭ* dual *thas*, *śap* dropped; the particle *hi* before it bars the loss of accent); *avase* (the infinitive *asen*, by P. 3-4-9 *tumarthe sesenasenasena…*, with first-syllable accent); *havam* (*hve* with *saṃprasāraṇa*, *ap*); *viprasya* (*vap* "to sow", Uṇādi *ran* given by *nipātana*); *māvataḥ* (*mad* + *vatup*, in the sense of resemblance, by the Vārttika on P. 5-2-39 for the Veda; *ma* for *mad* by P. 7-2-98, lengthened by P. 6-3-91 *ā sarvanāmnaḥ*); *dhartārā* (*dhṛ* + *tṛc* by P. 3-1-133 *ṇvultṛcau*); *carṣaṇīnām* (*kṛṣ* with the Uṇādi *ani* and *c* for the first letter; the lengthening by P. 6-4-3 *nāmi*). *(Grammar, noted briefly; numerals as read; pointers only.)*
+### Page 715 — Rik 2: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 716 upper to 718), noted briefly.** The Kannada treats: *gantārā* (*gamḷ gatau* + *tṛn* by P. 3-2-135 *tācchīlyavayovacanaśaktiṣu cānaś* [as read, 3-2-135 *tṛn*]; *gam* + *tṛ* with the *num* → *anusvāra* by P. 8-3-24 *naś cāpadāntasya jhali*, then *anusvārasya yayi parasavarṇaḥ* P. 8-4-58 → *ngantṛ* / *gantṛ* [*gan-tṛ*]; *tṛ* + *au* → *ā* by P. 7-1-39; *ṛto ṅi sarvanāmasthānayoḥ* P. 7-3-110 for the guṇa of the *ṛ*; *ur aṇ raparaḥ* P. 1-1-51; *ṛdṛśo 'ṅi guṇaḥ* P. 7-4-16 [as read] is the Kannada's note on a rule that does *not* apply here, since there is no *aṅ* suffix, hence the *guṇa* here is by the *Prāmādika* sūtra [i.e. a form that is not to be derived from that sūtra]; *tṛn* has *n*-mark so *ñnityādir nityam* P. 6-1-197 gives *gantṛ* first-syllable accent), *sthaḥ* (*as bhuvi*, *adādi*; *laṭ* *thas*; *śap*, *luk* by P. 2-4-72; *śnasor allopaḥ* P. 6-4-111; *s* → *ru* → *visarga*; *hi ca* P. 8-1-34 bars the loss of accent, so *sthaḥ* would stay accented, but since *hi* here is just before it with no *tiṅ* after, P. 8-1-28 *tiṅ atiṅaḥ* does not make it unaccented), *avase* (*ava rakṣaṇe*; *tumarthe sesenasenasen-kasenādhyaiādhyaike kadhyaikena śadhyaiśadhyaina tavaitaven tavenaḥ* P. 3-4-9, a list of infinitive suffixes, among them *asen*; *av* + *asen* → *avase*; the *n*-mark gives first-syllable accent), *havam* (*hveñ* "to call"; *hvaḥ saṃprasāraṇam* P. 6-1-32; *bahulaṃ chandasi* P. 6-1-34 makes it *aimittika* — that is, *saṃprasāraṇa* applies; *saṃprasāraṇāc ca* P. 6-1-108 *pūrvarūpa*; *ṛdoraP* P. 3-3-57 — *ap* after roots ending in *ṛ* or *u*; *sārvadhātukārdhadhātukayoḥ* P. 7-3-84; *eco 'yavāyāvaḥ* P. 6-1-78 gives *hav*; *ap* is *pit*, so unaccented by P. 3-1-4, root accent remains; *am* with *ami pūrvaḥ* P. 6-1-107), *viprasya* (*ḍuvap* "to sow"; *ṛjrendrāgravajravipra…* Uṇ. 2-28 as read, *ran*; first-syllable accent by the *n*-mark), *māvataḥ* (*yatparimāṇe 'vatup* P. 5-2-39; *vatup* in the sense of resemblance after *yuṣmad/asmad* in the Veda by the Vārttika *vatup prakaraṇe yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṃkhyānam*; *asmad* + *vat*; *pratyayottarapadayoś ca* P. 7-2-98 gives *ma* for the part of *asmad* up to *m*; *ato guṇe* P. 6-1-97 *pararūpa*; *mad* + *vat*; *ā sarvanāmnaḥ* P. 6-3-91 gives *ā* for the final letter of a pronoun when followed by *dṛk*, *dṛś*, *vatu*, hence *mā* + *vat*; *akaḥ savarṇe dīrghaḥ* P. 6-1-101 → *māvat*; *vatup* is *pit*, so unaccented; *mā* has the stem accent on the end, hence *māvataḥ*), *dhartārā* (*dhṛñ dhāraṇe*; *ṇvultṛcau* P. 3-1-133; *dhṛ* is *anudātta* in the *upadeśa* and monosyllabic, so by P. 7-2-10 *ekāca upadeśe 'nudāttāt* the *iṭ* augment that would come by P. 7-2-35 *ārdhadhātukasyeḍ valādeḥ* is barred; guṇa by P. 7-3-84, *raparatva*; *au* → *ā* by P. 7-1-39; guṇa of *ṛ* by P. 7-3-110; *upadhā-dīrgha* by P. 6-4-11 *apṛn-tṛj-ityādi*; *tṛc* has *c*-mark so end accent by P. 6-1-163 *cit*; hence *dhartā*), and *carṣaṇīnām* (*kṛṣ* "to scratch", Uṇ. 2-[?] *kṛṣer ādyeś ca caḥ*, *ani* suffix, *c* for *k*, *carṣ* + *ani*; *pugantalaghūpadhasya ca* P. 7-3-86 guṇa; *raparatva*; *ṇatva* by P. 8-4-2 *aṭkupvāṅnumvyavāye 'pi* giving *carṣaṇi*; the genitive plural *ām*; *hrasvanadyāpo nuṭ* P. 7-1-54 gives *nuṭ*; *nāmi* P. 6-4-3 lengthens; the accent: *ani* has first-syllable accent by the *n*-mark, but in the Veda the end accent comes — and the genitive ending is accented by *nāmanyatarasyām* P. 6-1-177 — the Kannada gives the long note on whether *carṣaṇi* is end-accented through the rule that a word whose last vowel is accented lets the *nām* ending take the accent optionally). ॥2॥ *(A crowded run; outline only; numerals as read from small print; pointers only.)*
+*(मतुपः is as printed, for वतुपः.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 715)*
+> दाद्युदात्तः । मावतः । वतुप्प्रकरणे युष्मदस्मद्भ्यां छन्दसि सादृश्य उपसंख्यानम् । पा. ५-२-३९-१ । वतुप् । प्रत्ययोत्तरपदयोरस्मदो मपर्यन्तस्य मादेशः । पा. ७-२-९८ । आ सर्वनाम्नः । पा. ६-३-९१ । इति दकारस्याकारः । सवर्णदीर्घः । मतुपः पित्त्वादनुदात्तत्वम् । प्रातिपदिकान्तोदात्तत्वे स एव शिष्यते । धर्तारा । धृञ् धारणे । ण्वुल्तृचौ । पा. ३-१-१३३ । इति तृच् । एकाच उपदेश इतीट्प्रतिषेधः । गुणो रपरत्वम् । अप्तृन्नित्यादिनोपधादीर्घः । सुपां सुलुगित्याकारः । तृचश्चित्त्वादन्तोदात्तत्वम् । चर्षणीनाम् । कृषेरादेश्च चः । उ. २-१०४ । इत्यनिप्रत्ययः । तत्संनियोगेन ककारस्य चकारः । प्रत्ययाद्युदात्तत्वं बाधित्वा छान्दसमन्तोदात्तत्वम् । अत एव नामन्यतरस्यामिति विभक्तेरुदात्तत्वम् । तत्र हि मतुपि यो ह्रस्वान्तस्तत उत्तरस्य नाम उदात्तत्वमिति व्याख्यातम् ॥
+>
+> *dādyudāttaḥ | māvataḥ | vatupprakaraṇe yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṃkhyānam | pā. 5-2-39-1 | vatup | pratyayottarapadayorasmado maparyantasya mādeśaḥ | pā. 7-2-98 | ā sarvanāmnaḥ | pā. 6-3-91 | iti dakārasyākāraḥ | savarṇadīrghaḥ | matupaḥ pittvādanudāttatvam | prātipadikāntodāttatve sa eva śiṣyate | dhartārā | dhṛñ dhāraṇe | ṇvultṛcau | pā. 3-1-133 | iti tṛc | ekāca upadeśa itīṭpratiṣedhaḥ | guṇo raparatvam | aptṛnnityādinopadhādīrghaḥ | supāṃ sulugityākāraḥ | tṛcaścittvādantodāttatvam | carṣaṇīnām | kṛṣerādeśca caḥ | u. 2-104 | ityanipratyayaḥ | tatsaṃniyogena kakārasya cakāraḥ | pratyayādyudāttatvaṃ bādhitvā chāndasamantodāttatvam | ata eva nāmanyatarasyāmiti vibhakterudāttatvam | tatra hi matupi yo hrasvāntastata uttarasya nāma udāttatvamiti vyākhyātam ||*
 
-**(हे इन्द्रावरुणौ) ((he indrāvaruṇau))** — O Indra and Varuṇa | **चर्षणीनाम् (carṣaṇīnām)** — of men | **धर्तारौ (dhartārau)** — you who bear the burden of getting and keeping | **अवसे (avase)** — for the protection [of the performer of the sacrifice] | **मावतः (māvataḥ)** — like me | **विप्रस्य (viprasya)** — of the priest | **हवम् (havam)** — the call | **गन्तारा स्थः हि (gantārā sthaḥ hi)** — you are of a nature to come, surely.
+**Translation:** "O Indra and Varuṇa, *avase*, to protect the performer, you are indeed *gantārau*, given to coming, to the *havam*, the call, of a *vipra*, a brahmin priest, *māvataḥ*, like me. Of what kind? *Dhartārau*, upholders, of *carṣaṇi*, men, by bringing about their *yogakṣema*." (Grammatical tail: *gantārā*, *tṛn* after *gam* in the sense of habit, *ā* for the dual by *supāṃ suluk…*, *guṇa* by *ṛdṛśo 'ṅi guṇaḥ* (Pā. 7-4-16), the penultimate lengthened by *aptṛn…*, initial udātta as *tṛn* is *nit*; *sthaḥ*, *asa bhuvi*, 2nd dual *thas*, *śap* dropped by *adiprabhṛtibhyaḥ*, the lowering barred by *hi ca*; *avase*, *ava rakṣaṇe*, *asen* in the sense of the infinitive (Pā. 3-4-9), initial udātta as *nit*; *havam*, *hveñ* with *saṃprasāraṇa* by *bahulaṃ chandasi*, *ap* by *ṛdor ap*, *guṇa* and *av*, *ap* unaccented as *pit*, the root accent; *viprasya*, *ḍuvap bījatantusaṃtāne*, *ran* by *ṛjrendra…*, initial udātta as *nit*; *māvataḥ*, *vatup* in the sense of likeness after *asmad* in the Veda (Pā. 5-2-39-1), *ma* for the part up to *m* (Pā. 7-2-98), *ā* for the *d* (Pā. 6-3-91), lengthening, the suffix unaccented as *pit*, and the stem-final udātta stays; *dhartārā*, *dhṛñ dhāraṇe*, *tṛc* (Pā. 3-1-133), no *iṭ* by *ekāca upadeśe…*, *guṇa* with *r*, lengthening, *ā* for the dual, final udātta as *tṛc* is *cit*; *carṣaṇīnām*, *ani* by *kṛṣer ādeś ca caḥ* (Uṇ. 2-104), *c* for *k* with it; overriding the suffix-initial udātta, a Vedic final udātta; so the ending is udātta by *nām anyatarasyām*, explained there as "*nām* after what ends in a short vowel before *matup*".)
+
+**॥ Prati-padārthaḥ ॥**
+
+(**हे इन्द्रावरुणौ (he indrāvaruṇau)** — O Indra and Varuṇa) | **चर्षणीनाम् (carṣaṇīnām)** — of men | **धर्तारौ (dhartārau)** — upholders (of their *yogakṣema*) (you are) | **अवसे (avase)** — for protection (of the sacrificer) | **मावतः (māvataḥ)** — of one like me | **विप्रस्य (viprasya)** — of the priest (a brahmin) | **हवम् (havam)** — the call (honouring it) | **गन्तारा स्थः हि (gantārā sthaḥ hi)** — you are indeed of the nature of coming.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Varuṇa! You are the ones who look after the welfare (*yogakṣema*) of men. Therefore, in order to protect priests such as I, you are accustomed to come here in response to my call.
+O Indra and Varuṇa, you look after the *yogakṣema* of men. So you are of the nature to come here without fail, honouring my call, for the protection of a priest like me.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Indra and Varuna, you are the protectors of the people and you go at the call of a minister like me to protect him.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 715)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**विप्रस्य (viprasya)** — though the word *vipra* has the sense "intelligent", the sense "one who praises" fits well here.
+**Viprasya**: though the word *vipra* means "wise", here the sense "one who is praising" fits well.
 
-**मावतः (māvataḥ)** — *madvidhasya*: like me; that is, to a sacrificer who praises you as I do.
+**Māvataḥ**:
 
-**धर्तारा (dhartārā)** — *dhṛñ dhāraṇe*: *yogakṣema-saṃpādanena dhārayitārau*: those who bear the burden of getting and preserving men's welfare; those who are concerned with it.
+> मद्विधस्य
+>
+> *madvidhasya*
+
+("Of one like me.") Like me: that is, to the sacrificer who praises you as I do.
+
+**Dhartārā**:
+
+> धृञ् धारणे । योगक्षेमसंपादनेन धारयितारौ ।
+>
+> *dhṛñ dhāraṇe | yogakṣemasaṃpādanena dhārayitārau |*
+
+("*Dhṛñ*, to hold; who uphold by bringing about *yogakṣema*.") Those who uphold the *yogakṣema* of men, that is, who care for it, who bear the burden of *yogakṣema*.
+
+### Page 716 — Rik 2: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 716–718, noted briefly)*
+
+**गन्तारा (*gantārā*)**: the root *gamḷ gatau*. After it *tṛn* comes in the sense "*tacchīla*" by "tṛn" (Pā. sū. 3-2-135): *gam* + *tṛ*. By "naś cāpadāntasya jhali" (Pā. sū. 8-3-24) *anusvāra* for the *m*; by "anusvārasya yayi parasavarṇaḥ" (Pā. sū. 8-4-58), with the help of the *paribhāṣā* *sthāne 'ntaratamaḥ*, in place of the *anusvāra* comes *n*, homorganic with what follows and nasal: *gantṛ*. After it the nominative dual *au*; for it the substitute *ā* by "supāṃ suluk…" (Pā. sū. 7-1-39): *gantṛ* + *ā*. *Guṇa* by "ṛto ṅisarvanāmasthānayoḥ" (Pā. sū. 7-3-110), followed by *r* by *uraṇ raparaḥ*: *gantar* + *ā*. Here, by "ṛdṛśo 'ṅi guṇaḥ" (Pā. sū. 7-4-16), the *guṇa* enjoined for *ṛ*-final roots and *dṛś* comes when *aṅ* follows; here there is no suffix *aṅ*, so this sūtra does not apply. So it should be understood that the derivation of *guṇa* here from the sūtra *ṛdṛśo 'ṅi* [in the bhāṣya] is an oversight. By "aptṛntṛc…" (Pā. sū. 6-4-11) the penultimate is lengthened: *gantāram* [as printed]. The suffix *tṛn* is *nit*; so *gantṛ* is initial udātta by *ñnityādir nityam*.
+
+**स्थः (*sthaḥ*)**: the root *asa bhuvi*, of the *ad-ādi* class; after it *laṭ*, 2nd dual *thas*: *as* + *thas*; *śap* by "kartari śap" (Pā. sū. 3-1-68), *luk* for it by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72); *thas* is *ṅit* by "sārvadhātukam apit" (Pā. sū. 1-2-4). By "śnasor allopaḥ" (Pā. sū. 6-4-111) the *a* of *as* drops; *ru* and visarga: *sthaḥ*. By "hi ca" (Pā. sū. 8-1-34) a *tiṅanta* joined with *hi* is not unaccented; since *stha*, joined with *hi* as *hi stha*, is barred from being wholly unaccented, it does not become wholly unaccented by *tiṅṅatiṅaḥ*.
+
+**अवसे (*avase*)**: the root *ava rakṣaṇe*. By the statement "tumarthe se-sen-ase-asen-kse-kasen-adhyai-adhyain-kadhyai-kadhyain-śadhyai-śadhyain-tavai-taveṅ-tavenaḥ" (Pā. sū. 3-4-9), with *avyayakṛto bhāve*, the infinitive sense is the action, and in it the suffixes named come; so the suffix *asen*: *av* + *ase* = *avase*, initial udātta by the *nit* accent.
+
+**हवम् (*havam*)**: the root *hveñ spardhāyāṃ śabde ca*; with "hvaḥ saṃprasāraṇam" (Pā. sū. 6-1-32) carried on, by "bahulaṃ chandasi" (Pā. sū. 6-1-34) *saṃprasāraṇa* without a condition, that is, *u* for *v*; the *pūrvarūpa* by "saṃprasāraṇāc ca" (Pā. sū. 6-1-108): *hu*. By "ṛdor ap" (Pā. sū. 3-3-57) (after roots ending in *ṝ* or *u* comes the suffix *ap*), after *hu* the suffix *ap*; *guṇa*, *o* for *u*, by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84); by "eco 'ya-
+
+### Page 717 — Rik 2: grammar
+
+vāyāvaḥ" (Pā. sū. 6-1-78) the substitute *av*: *hava*. The suffix *ap* being *pit*, it is unaccented by *anudāttau suppitau*; so the root accent stays. After it the suffix *am*; the *pūrvarūpa* by "ami pūrvaḥ" (Pā. sū. 6-1-107): *havam*.
+
+**विप्रस्य (*viprasya*)**: the root *ḍuvap bījasantāne*. For it the suffix *ran* is given as a ready-made form by the sūtra "ṛjrendrāgravipra…" (Uṇ. sū. 2-186). Initial udātta by the *nit* accent.
+
+**मावतः (*māvataḥ*)**: "yattadetebhyaḥ parimāṇe vatup" (Pā. sū. 5-2-39). By the statement on this sūtra, "vatupprakaraṇe yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṃkhyānam" (Pā. sū. 5-2-39-1) (in the Veda, *vatup* in the sense of likeness after *yuṣmad* and *asmad* is to be stated in the *vatup* section), *vatup* comes after *asmad* in the sense of likeness: *asmad* + *vat*. By "pratyayottarapadayoś ca" (Pā. sū. 7-2-98), when a suffix or a final member follows, the part of *yuṣmad* and *asmad* up to the *m* takes *tva* and *ma*; so *ma* for *asm*: *ma* + *ad* + *vat*. The *pararūpa* by "ato guṇe" (Pā. sū. 6-1-97): *mad* + *vat*. By "ā sarvanāmnaḥ" (Pā. sū. 6-3-91), when *dṛk*, *dṛśa* or *vatu* follow, the final of a pronoun takes *ā*: *ma* + *ā* + *vat*; lengthening of like vowels by "akaḥ savarṇe dīrghaḥ" (Pā. sū. 6-1-101): *māvat*. The suffix *vatup* being *pit*, it is unaccented by *anudāttau suppitau*. *Mā* is final udātta by the stem accent; that accent stays.
+
+**धर्तारा (*dhartārā*)**: the root *dhṛñ dhāraṇe*; *tṛc* by "ṇvultṛcau" (Pā. sū. 3-1-133). The root *dhṛ* is *anudātta* in the *upadeśa* and has one vowel; so by "ekāca upadeśe 'nudāttāt" (Pā. sū. 7-2-10) the augment *iṭ* due by *ārdhadhātukasyeḍ valādeḥ* is barred for the *tṛ*. With *tṛc* as the condition, *guṇa* for *dhṛ* by *sārvadhātukārdhadhātukayoḥ*, followed by *r*: *dhartṛ*. After it the suffix *au*; for it the substitute *ā* by "supāṃ suluk…" (Pā. sū. 7-1-39); in *dhartṛ* *guṇa* by *ṛto ṅisarvanāmasthānayoḥ*, followed by *r*, and the penultimate lengthened by the sūtra *aptṛntṛc…*: *dhartārā*. The suffix *tṛc* being *cit*, *dhartṛ* is final udātta by *citaḥ*.
+
+**चर्षणीनाम् (*carṣaṇīnām*)**: the root *kṛṣa vilekhane*. After it, by "kṛṣer ādeś ca caḥ" (Uṇ. sū. "2-26" [?]; the bhāṣya gives 2-104), the suffix *ani* comes after the root *kṛṣ*, and *c* for the first letter *k*; so with the suffix *ani* and *c* for *k*: *cṛṣ* + *ani*; by "puganta-
+
+### Page 718 (upper) — Rik 2: grammar (end)
+
+laghūpadhasya ca" (Pā. sū. 7-3-86) the *laghūpadha-guṇa*, followed by *r*: *carṣani*; by "aṭkupvāṅnumvyavāye 'pi" (Pā. sū. 8-4-2) *ṇ* for *n*: *carṣaṇi*. After it the genitive plural *ām*: *carṣaṇi* + *ām*. By "hrasvanadyāpo nuṭ" (Pā. sū. 7-1-54) the augment *nuṭ*; by "nāmi" (Pā. sū. 6-4-3), before *nām*, a vowel-final *aṅga* is lengthened: *carṣaṇīnām*. Though the suffix-initial udātta is due for *ani* by *ādyudāttaś ca*, a Vedic final udātta comes. Because it is final udātta, the ending is udātta by "nām anyatarasyām" (Pā. sū. "6-1-77" [as printed, for 6-1-177]). *Carṣaṇī*, though final udātta, does not end in a short vowel; so how does the udātta come? The sense of *nām anyatarasyām* is: after what is short-final and final udātta when the suffix *matup* follows, the *nām* is optionally udātta. If *matup* is placed after *carṣaṇi*, it is short-final and final udātta; so, though it is now long-final, the ending may be udātta.
+
+**॥२॥**
+
+---
 
 ### Pages 718–723 — Sūkta 17, Rik 3
 
