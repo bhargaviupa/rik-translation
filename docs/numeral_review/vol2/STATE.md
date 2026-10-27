@@ -36,15 +36,27 @@ Saṃhitā block), `addnote.py` (note on a printed page; handles "### Pages N–
    "4-1[?]"; p. 119 "8-2-32" [?].
 4. Remaining header notes of later pages that say "Accent-marks not reproduced; see the note at Rk 3.5" — change each
    as its Ṛk's Saṃhitā gets accents.
-5. End of volume: rebuild print PDF (`python3 publish/build_vol2.py full`), check no ◌ in `pdftotext`, commit
+5. Regenerate `publish/review/All_volumes_review_worklist.xlsx` (`python3 publish/review_all.py`) after the Vol 2
+   rebuild below — its Vol 2 rows are a snapshot of the old `publish/work/vol2_clean.md` and still list flags this pass
+   has resolved. Optional tidy: the ~50 header notes on pp. 30–186 that say "[?] where unclear" show up there as flags
+   though no reading is open on those pages.
+6. End of volume: rebuild print PDF (`python3 publish/build_vol2.py full`), check no ◌ in `pdftotext`, commit
    `publish/out/vol2_full.pdf` and `publish/work/vol2_clean.md`, write "done" here.
+
+## Cross-check with the reviewer worklist (`publish/review/All_volumes_review_worklist.xlsx`, Oct 27)
+
+Its reviewer columns (reading / decision / comment) are empty for every volume — no outside decisions to import.
+Vol 2 rows on printed pp. 1–186: 564. Matched against the current file: 260 resolved by this pass; the rest are
+either the header-note conventions above or the open readings listed below (every one of them was found in the
+worklist; the worklist adds none that this list lacks, except p. 112 "vocēyuḥ" [?], added below). The worklist's page
+numbers can be off by a page or two (e.g. its "pp. 168–169" Uṇādi "4-135" [?] is p. 214 in the file, next batch).
 
 ## Open readings (the print does not settle them; kept [?])
 
 - p. 15 "पुरुभुजेममेधतुं [?]" (one letter); p. 31 one word in the Upaniṣad quotation; p. 33 "ibhrūtrūṇāṃ" [?] (Nirukta
   quotation); p. 34 "pāṇyaiḥ" [?]; p. 35 two verses printed without sense; p. 80 "bahulam uttarapadādiḥ" [?].
 - p. 91 root list "ṛ-ṣap-śilp-…-parṣa" [?]; p. 106 Uṇādi list "…nvera-mālāḥ" [?]; p. 132 last word of the kampa verse
-  "hito vitaḥ" [?]; p. 150 "prāg[?]-śarātrāt"; p. 155 "praṇetana" [?] (Mīmāṃsā quotation).
+  "hito vitaḥ" [?]; p. 150 "prāg[?]-śarātrāt"; p. 155 "praṇetana" [?] (Mīmāṃsā quotation); p. 112 a stray syllable before "vocēyuḥ" [?] in the bhāṣya.
 - Viṣṭuti names pp. 139/146: "pratiṣṭutiḥ / pariṣṭuti" [?], "sūrmī" (print ಸೂರ್ವಿ/ಸೂರ್ಮಿ) [?].
 - Numbers: p. 133 U. "2-225" [?]; p. 164 "Ma. 3-1-3-7" [?] ("3-1-3-2" on p. 162); p. 166 "[?]-12-3" (first digit at a
   line-break); p. 168 "6-1-62" [?]; p. 184 "14-628" [?].

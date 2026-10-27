@@ -44,6 +44,10 @@ where `STATE.md` says, update `STATE.md` before stopping.
    accent from memory; where a mark cannot be read, leave that syllable unmarked and put `[accent ?]` after the line.
    Pada-pāṭha and quotations elsewhere stay as they are unless the print accents them. Check the DOCX/PDF build for
    dotted circles (◌) at the end of the volume.
+5b. **Cross-check with the reviewer worklist** `publish/review/All_volumes_review_worklist.xlsx` (sheet "Worklist",
+   Volume = "Vol 2", by "Original page"): if a reviewer has filled "Reviewer's reading" / "Decision", apply it; make sure
+   every flag it lists for the batch's pages is either resolved or in STATE.md's open list. Its page numbers come from
+   an older build and can be off by a page or two.
 6. Log each batch: append notes to a notes file and run `pass_log.py A B NOTES` (log `docs/PASS_LOG_numerals_vol2.md`).
    Commit and push (`git push -u origin claude/numerals-vol2`).
 7. Update `STATE.md` (last PDF page done, open flags), commit, push.
