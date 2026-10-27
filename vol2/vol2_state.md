@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
-Status: in progress (scans present, 5 parts, 822 PDF pages).
-**Last PDF page done: 822 (printed p. 808, the last).** All page batches done. Next: step 6 below (rebuild print PDF, check, commit, write "done"). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
+Status: **done** (Oct 27, 2026): all 822 PDF pages passed; print PDF rebuilt (`publish/out/vol2_full.pdf`, 1415 pp., no ◌); reviewer worklist regenerated (Vol 2 rows 431, from 3263).
+**Last PDF page done: 822 (printed p. 808, the last).** All page batches done; step 6 done. Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
 `vol2/vol2_pass_log.md` (one entry per batch).
@@ -41,11 +41,11 @@ Saṃhitā block), `addnote.py` (note on a printed page; handles "### Pages N–
    "4-1[?]"; p. 119 "8-2-32" [?].
 4. Remaining header notes of later pages that say "Accent-marks not reproduced; see the note at Rk 3.5" — change each
    as its Ṛk's Saṃhitā gets accents.
-5. Regenerate `publish/review/All_volumes_review_worklist.xlsx` (`python3 publish/review_all.py`) after the Vol 2
+5. (done Oct 27) Regenerate `publish/review/All_volumes_review_worklist.xlsx` (`python3 publish/review_all.py`) after the Vol 2
    rebuild below — its Vol 2 rows are a snapshot of the old `publish/work/vol2_clean.md` and still list flags this pass
    has resolved. Optional tidy: the ~50 header notes on pp. 30–186 that say "[?] where unclear" show up there as flags
    though no reading is open on those pages.
-6. End of volume (then the scheduled task moves on to the Vol 3 pass, `vol3/`; Vol 1 was dropped from the schedule, user, Oct 27): rebuild print PDF (`python3 publish/build_vol2.py full`), check no ◌ in `pdftotext`, commit
+6. (done Oct 27) End of volume (then the scheduled task moves on to the Vol 3 pass, `vol3/`; Vol 1 was dropped from the schedule, user, Oct 27): rebuild print PDF (`python3 publish/build_vol2.py full`), check no ◌ in `pdftotext`, commit
    `publish/out/vol2_full.pdf` and `publish/work/vol2_clean.md`, write "done" here.
 
 ## Cross-check with the reviewer worklist (`publish/review/All_volumes_review_worklist.xlsx`, Oct 27)
