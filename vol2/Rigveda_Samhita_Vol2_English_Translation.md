@@ -11910,13 +11910,15 @@ explains that where *nañ* is construed with the verb it is a *prasajya-pratiṣ
 
 ### Page 579 — Sūkta 13, Rik 12 (the last)
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स्वाहा यज्ञं कृणोतनेन्द्राय यज्वनो गृहे ।
-> तत्र देवाँ उप ह्वये ॥१२॥
+> स्वाहा॑ य॒ज्ञं कृ॑णोत॒नेन्द्रा॑य॒ यज्व॑नो गृ॒हे ।
+> तत्र॑ दे॒वाँ उप॑ ह्वये ॥१२॥
 >
-> *svāhā yajñaṃ kṛṇotanendrāya yajvano gṛhe |*
-> *tatra devām̐ upa hvaye ||12||*
+> *svā́hā yajñáṃ kṛṇotanéndrāya yájvano gṛhé |*
+> *tátra devā́m̐ úpa hvaye ||12||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -11928,13 +11930,13 @@ explains that where *nañ* is construed with the verb it is a *prasajya-pratiṣ
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> स्वाहाशब्दो हविष्प्रदानवाची सन् एतन्नामकमग्निविशेषं लक्षयति । तदग्निसंपादितं यज्ञमिन्द्रायेन्द्रप्रीतयुष्ट्यर्थं यज्वनो यजमानस्य गृहे ऋत्विजः कृणोतन । कुरुत । तत्र यज्ञे देवानुप ह्वये ॥ कृणोतन । कृवि हिंसाकरणयोश्च । इदितो नुम् । लोण्मध्यमबहुवचनस्य तस्थस्थमिपामिति तादेशः । तप्तनप्तनथनाश्च । पा. ७-१-४५ । इति तनबादेशः । शपि प्राप्ते धिन्विकृण्व्योरच्चेत्युप्रत्ययः । तस्सन्नियोगेन वकारस्याकारः । तस्यातो लोप इति लोपः । तस्याचः परस्मिन्निति स्थानिवद्भावाद्वैकारस्य लघूपधगुणो न भवति । तनपः पित्त्वेनाजात्त्वादुकारस्य गुणः । इन्द्राय । ऋज्रेन्द्रेत्यादिना रन् । नित्त्वाद्युदात्तः । यज्वनः । यज देवपूजासंगतिकरणदानेषु । सुयोजोर्ज्वनिप् । पा. ३-२-१०३ । जसि भसंज्ञायामोमल्लोपे प्राप्ते न संयोगाद्वमन्तात् । पा. ६-४-१३७ । इति निषेधः । वनिपः पित्त्वेन धातुस्वर एव शिष्यते । गृहे । गृह उपादाने । गेहे कः । पा. ३-१-१४४ । इति कप्रत्ययः । ग्रहिज्येत्यादिना । पा. ६-१-१६ । संप्रसारणं पराद्रूपत्वं । प्रत्ययस्वरः । तत्र । त्रल् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वम् । देवाँ उपेत्यत्र संहितायां दीर्घादटीति नकारस्य रुत्वम् । आकोऽटि नित्यमित्याकारस्यानुनासिकादेशः । भोभगो इति यत्वं । तस्य लोपः शाकल्यस्येति लोपः ॥ १२ ॥
+> स्वाहाशब्दो हविष्प्रदानवाची सन् एतन्नामकमग्निविशेषं लक्षयति । तदग्निसम्पादितं यज्ञमिन्द्रायेन्द्रतुष्ट्यर्थं यज्वनो यजमानस्य गृहे ऋत्विजः कृणोतन । कुरुत । तत्र यज्ञे देवानुप ह्वये ॥ कृणोतन । कृवि हिंसाकरणयोश्च । इदित्त्वान्नुम् । लोण्मध्यमबहुवचनस्य तस्थस्थमिपामिति तादेशः । तप्तनप्तनथनाश्च । पा. ७-१-४५ । इति तनबादेशः । शपि प्राप्ते धिन्विकृण्व्योरच्चेत्युप्रत्ययः । तत्सन्नियोगेन वकारस्य चाकारः । तस्यातो लोप इति लोपः । तस्याचः परस्मिन्निति स्थानिवद्भावादृकारस्य लघूपधगुणो न भवति । तनपः पित्त्वेनाङित्त्वादुकारस्य गुणः । इन्द्राय । ऋज्रेन्द्रेत्यादिना रन् । नित्त्वादाद्युदात्तः । यज्वनः । यज देवपूजासङ्गतिकरणदानेषु । सुयजोर्ङ्वनिप् । पा. ३-२-१०३ । जसि भसंज्ञायामल्लोपे प्राप्ते न संयोगाद्वमन्तात् । पा. ६-४-१३७ । इति निषेधः । वनिपः पित्त्वेन धातुस्वर एव शिष्यते । गृहे । ग्रह उपादाने । गेहे कः । पा. ३-१-१४४ । इति कप्रत्ययः । ग्रहिज्येत्यादिना । पा. ६-१-१६ । सम्प्रसारणं । परपूर्वत्वं । प्रत्ययस्वरः । तत्र । त्रल् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । देवाँ उपेत्यत्र संहितायां दीर्घादटीति नकारस्य रुत्वं । आतोऽटि नित्यमित्याकारस्यानुनासिकादेशः । भोभगो इति यत्वं । तस्य लोपः शाकल्यस्येति लोपः ॥ २४ ॥
 >
-> *svāhā-śabdo havis-pradāna-vācī san etan-nāmakam agni-viśeṣaṃ lakṣayati | tad-agni-saṃpāditaṃ yajñam indrāyendra-prīty-artham yajvano yajamānasya gṛhe ṛtvijaḥ kṛṇotana | kuruta | tatra yajñe devān upa hvaye || kṛṇotana | kṛvi hiṃsā-karaṇayoś ca | idito num | loṇ-madhyama-bahuvacanasya tasthasthamipām iti tā-deśaḥ | taptanaptanathanāś ca | pā. 7-1-45 | iti tana-bādeśaḥ | śapi prāpte dhinvi-kṛṇvyor acceṭy u-pratyayaḥ | tat-sanniyogena vakārasyākāraḥ | tasyāto lopa iti lopaḥ | tasyācaḥ parasminn iti sthānivad-bhāvād vaikārasya laghūpadha-guṇo na bhavati | tanapaḥ pittvenājāttvād ukārasya guṇaḥ | indrāya | ṛjrendrety-ādinā ran | nittvād ādyudāttaḥ | yajvanaḥ | yaja deva-pūjā-saṅgati-karaṇa-dāneṣu | suyajor ṅvanip | pā. 3-2-103 | jasi bhasaṃjñāyām om-mallope prāpte na saṃyogād vamāntāt | pā. 6-4-137 | iti pratiṣedhaḥ | vanipaḥ pittvena dhātu-svara eva śiṣyate | gṛhe | gṛha upādāne | gehe kaḥ | pā. 3-1-144 | iti ka-pratyayaḥ | grahijyety-ādinā | pā. 6-1-16 | saṃprasāraṇaṃ parādrūpatvaṃ | pratyaya-svaraḥ | tatra | tral | liti iti pratyayāt pūrvasyodāttatvam | devām̐ upety atra saṃhitāyāṃ dīrghād aṭīti nakārasya rutvam | āko 'ṭi nityam ity ākārasyānunāsikādeśaḥ | bhobhago iti yatvaṃ | tasya lopaḥ śākalyeti lopaḥ || 12 ||*
+> *svāhāśabdo haviṣpradānavācī san etannāmakamagniviśeṣaṃ lakṣayati | tadagnisampāditaṃ yajñamindrāyendratuṣṭyarthaṃ yajvano yajamānasya gṛhe ṛtvijaḥ kṛṇotana | kuruta | tatra yajñe devānupa hvaye || kṛṇotana | kṛvi hiṃsākaraṇayośca | idittvānnum | loṇmadhyamabahuvacanasya tasthasthamipāmiti tādeśaḥ | taptanaptanathanāśca | pā. 7-1-45 | iti tanabādeśaḥ | śapi prāpte dhinvikṛṇvyoraccetyupratyayaḥ | tatsanniyogena vakārasya cākāraḥ | tasyāto lopa iti lopaḥ | tasyācaḥ parasminniti sthānivadbhāvādṛkārasya laghūpadhaguṇo na bhavati | tanapaḥ pittvenāṅittvādukārasya guṇaḥ | indrāya | ṛjrendretyādinā ran | nittvādādyudāttaḥ | yajvanaḥ | yaja devapūjāsaṅgatikaraṇadāneṣu | suyajorṅvanip | pā. 3-2-103 | jasi bhasaṃjñāyāmallope prāpte na saṃyogādvamantāt | pā. 6-4-137 | iti niṣedhaḥ | vanipaḥ pittvena dhātusvara eva śiṣyate | gṛhe | graha upādāne | gehe kaḥ | pā. 3-1-144 | iti kapratyayaḥ | grahijyetyādinā | pā. 6-1-16 | samprasāraṇaṃ | parapūrvatvaṃ | pratyayasvaraḥ | tatra | tral | litīti pratyayātpūrvasyodāttatvaṃ | devā~ upetyatra saṃhitāyāṃ dīrghādaṭīti nakārasya rutvaṃ | āto 'ṭi nityamityākārasyānunāsikādeśaḥ | bhobhago iti yatvaṃ | tasya lopaḥ śākalyasyeti lopaḥ || 24 ||*
 
-**Translation:** "The word *svāhā*, signifying the giving of an oblation, indicates a particular fire bearing this name. The sacrifice accomplished by that fire — for Indra, for Indra's satisfaction — O priests, *kṛṇotana*: perform, in the house of the sacrificer (*yajvanaḥ*, the one who sacrifices). In that sacrifice I invoke the gods." *(Grammar noted briefly:* kṛṇotana *— the imperative second plural of* kṛvi *with* tana *(Pā. 7-1-45 [?]), the* u*-vikaraṇa (Pā. 3-1-80 [?]) and* a *for* v*;* indra *with* ran*;* yajvan *with* ṅvanip *(Pā. 3-2-103 [?]), the case-ending of the plural...;* gṛha *with* ka*, saṃprasāraṇa;* tatra *with* tral*; and* devām̐ upa *with the nasalization and loss of* y *as before.)* *(The bhāṣya is compressed in places.)*
+**Translation:** "The word *svāhā*, which denotes the giving of an oblation, indicates the particular fire of that name. O priests, *kṛṇotana*, perform, in the house of the *yajvan*, the sacrificer, the sacrifice brought about by that fire, for Indra, for Indra's satisfaction. In that sacrifice I invoke the gods." (Grammatical tail: *kṛṇotana* from *kṛvi* with *num*, *ta* for *tha* and *tana* for it (Pā. 7-1-45), the suffix *u* in place of *śap* with *a* for the *v*, then loss of that *a*, no *guṇa* of the *ṛ* by *sthānivadbhāva*, *guṇa* of the *u* since *tanap* is *pit*; *indrāya* with *ran*, initial udātta; *yajvanaḥ* with *ṅvanip* (Pā. 3-2-103), the loss of *a* barred by Pā. 6-4-137 ("jasi" as printed for *ṅasi*), the root accent; *gṛhe* from *grah* with *ka* (Pā. 3-1-144) and *saṃprasāraṇa* (Pā. 6-1-16); *tatra* with *tral*, udātta before the *l*-marked suffix; *devām̐ upa*: *ru* for the *n*, nasal *ā*, *y*, then its loss. The closing "24" is the varga number.)
 
-### Pages 580–581 — Rik 12: word-meanings, overall sense, English, Special Topics
+### Page 580 — Rik 12: word-meanings (begun on p. 579), overall sense, English, Special Topics
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -11950,36 +11952,61 @@ O priests, the *adhvaryu* and the others! In the sacrificer's house, perform the
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Svāhā"** — Yāska's explanation:
+**Svāhā**: Yāska's explanation:
 
-> स्वाहाकृतयः । स्वाहाकृतयः स्वाहेत्येतत् सु आहेति वा । स्व वाग्गाहेति वा । स्वं प्राहेति वा । स्वाहुतं हविर्जुहोतीति वा ॥ (नि. ८-२१)
-> *svāhākṛtayaḥ | svāhākṛtayaḥ svāhety etat su āheti vā | sva vāg āheti vā | svaṃ prāheti vā | svāhutaṃ havir juhotīti vā || (ni. 8-21)*
-> "*Svāhākṛtayaḥ* — *svāhā* is [explained as] *su āha*, 'he speaks well'; or *sva vāg āha*, 'his own speech says'; or *svaṃ prāha*, 'he says his own'; or *svāhutaṃ havir juhoti*, 'he offers the oblation well offered.'"
+> स्वाहाकृतयः । स्वाहाकृतयः स्वाहेत्येतत् सु आहेति वा । स्वा वागाहेति वा । स्वं प्राहेति वा । स्वाहुतं हविर्जुहोतीति वा ॥
+>
+> *svāhākṛtayaḥ | svāhākṛtayaḥ svāhetyetat su āheti vā | svā vāgāheti vā | svaṃ prāheti vā | svāhutaṃ havirjuhotīti vā ||*
 
-Four different etymological senses of the word *svāhā* are thus given: (1) *su āha* — *su* = well; *āha* = says: because the word is uttered clearly, or distinctly, it is called *svāhā*. (2) *sva vāg āha* — *sva* = one's own; *vāk* = word: "his own word": the Brāhmaṇa states, "*taṃ sva vāg abhyavadad yajñeti*; hence the origin of the *svāhākāra*": when making the *homa*, the one who makes it himself adds at the end of the Vedic mantra, a rik, the word *svāhā*. (3) *svaṃ prāha* — *svam* = his own oblation; *āha* — "he says": "he says he offers his own oblation." (4) *svāhutaṃ havir juhoti* — "the oblation he himself offered, he offers by uttering the word *svāhā*": that is, because he gives the oblation into Agni, it is *svāhā*. To exemplify the sense of *svāhākāra*, Yāska cites this rik [the source's text breaks off at the page foot and continues on p. 581; see below].
+*(No Nirukta number is printed.)* The word *svāhā* has four different senses of its parts:
 
-### Pages 581–583 — Rik 12: Special Topics (continued) and grammar; close of Sūkta 13
+(1) *su āheti vā*: *su* = well, *āha* = says: since it is uttered well, or clearly, it is called *svāhā*.
 
-*(Continuing Yāska on* svāhā*, the rik cited as example [p. 581]:)*
+(2) *svā vāg āheti vā*: *svā* = one's own, *vāk* = speech. There is the Śruti (Brāhmaṇa) sentence
+
+> तं स्वा वागभ्यवदज्जुहुधीति तत्स्वाहाकारस्य जन्म
+>
+> *taṃ svā vāgabhyavadajjuhudhīti tatsvāhākārasya janma*
+
+("his own speech said to him, 'offer!'; that is the birth of the *svāhākāra*" — mine and tentative). That is, since the one who makes the *homa* himself adds the word *svāhā* at the end of the Ṛk, the Vedic mantra, it is called *svāhā*.
+
+(3) *svaṃ prāheti vā*: here *svam* = his own oblation; *āha*: he says that he offers it in the fire. So it is called *svāhā*.
+
+(4) *svāhutaṃ havir juhotīti vā*: since he offers the oblation he has offered by uttering the word *svāhā*, that is, since he gives the oblation into the fire, it is called *svāhā*.
+
+For the sense of the *svāhākāra* Yāska gives this Ṛk as an example:
+
+### Page 581 — Rik 12: Special Topics (continued) and grammar
 
 > सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः ।
 > अस्य होतुः प्रदिश्यृतस्य वाचि स्वाहाकृतं हविरदन्तु देवाः ॥
-> *sadyo jāto vy amimīta yajñam agnir devānām abhavat purogāḥ |*
-> *asya hotuḥ pradiśy ṛtasya vāci svāhākṛtaṃ havir adantu devāḥ ||*
-> (Ṛgveda Saṃhitā 10-110-11 [?]; printed "१०-११०-११")
-> *("Born at once, Agni measured out the sacrifice; he became the leader of the gods. At the word of this hotṛ, in the direction of order, let the gods eat the oblation made with svāhā." — my gloss, tentative.)*
+>
+> *sadyo jāto vyamimīta yajñamagnirdevānāmabhavatpurogāḥ |*
+> *asya hotuḥ pradiśyṛtasya vāci svāhākṛtaṃ haviradantu devāḥ ||*
 
-The chief sense of it: Agni, who has just been born (that is, who has now been established in the sacrifice), sits before the gods and carries out the duty of the *hotṛ* — the work of calling the gods — and so brings the sacrifice to completion. Such a *hotṛ*, being in the eastern quarter, is offered oblations with the word *svāhā*, so that the gods may eat them. Hence *svāhā* means the word uttered at the end of a mantra when, for the gods' delight, the oblation is poured into the fire established for the sacrifice in the prescribed manner.
+*(Ṛ. Saṃ. 10-110-11.)* *("Born at once, Agni measured out the sacrifice and became the leader of the gods; at the word of this hotṛ, in the direction of order, let the gods eat the oblation made with svāhā" — mine and tentative.)*
 
-In some Āpri-sūktas the plural *svāhākṛtayaḥ* is used: since the eleven *prayāja* mantras used when offering to the eleven deities of this sūkta all include the *svāhākāra*, the plural *svāhākṛtayaḥ* is used. In the Purāṇas and other works the word *svāhā* is used in another sense: in the Mahābhārata it is said that the sage Aṅgiras gave his son Bṛhaspati's daughters the name *Svāhā*; in the Purāṇas Svāhādevī is called the daughter of Dakṣa Prajāpati and the wife of Agni.
+Its chief sense: Agni, just born (that is, now established at the sacrifice), sits before the gods, carries out the duty of the *hotṛ*, that is, the work of calling the gods, and brings the sacrifice to completion. May the gods eat the oblation that such a *hotṛ*, being in the eastern quarter, offers with the word *svāhā*. So *svāhā* is the name of the word uttered at the end of the mantra when the oblation is offered, for the gods' pleasure, into the fire set up in due form for the sacrifice.
+
+In some Āprī-sūktas the plural *svāhākṛtayaḥ* is used: since the word *svāhā* is added also to the eleven *prayāja* mantras used in offering to the eleven deities of the sūkta, the plural *svāhākṛtayaḥ* is used.
+
+In the Purāṇas and other works the word *svāhā* is used in another sense. The Mahābhārata says that the daughter of Bṛhaspati, the son of the sage Aṅgiras, is Svāhā; the Purāṇas say that the goddess Svāhā is the daughter of Dakṣa Prajāpati and the wife of Agni.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 581–583, noted briefly)*
 
-**कृणोतन (*kṛṇotana*)** — root *kṛvi hiṃsākaraṇayoś ca*, *idit*, so *num* ("idito num dhātoḥ," Pā. 7-1-58 [?]): *kṛnv*; *loṭ* second plural *thas*... "loṭo laṅvat" (Pā. 3-4-85 [?]) makes it behave as *laṅ*, so "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. 3-4-101 [?]) gives *ta* for *tha*; "taptanaptanathanāś ca" (Pā. 7-1-45 [?]): *ta* may be replaced by *tap*, *tanap*, *tana*, *thana*, giving *tana*; *śap* would arise but "dhinvikṛṇvyor a ca" (Pā. 3-1-80 [?]) gives *u* with *a* for the final *v*; so *kṛn* + *u* + *tana*; "ato lopaḥ" (Pā. 6-4-48 [?]) drops the *a*; the *guṇa* of the *ṛ* is blocked by *sthānivadbhāva* ("acaḥ parasmin pūrvavidhau," Pā. 1-1-57 [?]); since *tanap* is *pit* (*tanap*), the *apit* rule ("sārvadhātukam apit," Pā. 1-2-4 [?]) does not apply, so "kṅiti ca" (Pā. 1-1-5 [?]) does not block *guṇa*; "sārvadhātukārdhadhātukayoḥ" (Pā. 7-3-84 [?]) gives *guṇa* to the *u* — *o*: *kṛṇotana*; *n* → *ṇ* ("yuvarṇānnasya ṇatvaṃ vaktavyam," *vārttika* [?]); unaccented ("tiṅ atiṅaḥ," Pā. 8-1-28 [?]). **इन्द्राय (*indrāya*)** — root *idi paramaiśvarye* with *ran* ("ṛjrendrāgra…," Uṇ. 2-28 [?]), initial-udātta. **यज्वनः (*yajvanaḥ*)** — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; "suyajor ṅvanip" (Pā. 3-2-103 [?]): *ṅvanip* after *yaj* and *su* (*ṣuñ abhiṣave*) in the *Veda*; the *ṅvanip* is not kept as *ṅit* for the purposes of *guṇa*; *yajvan* + *as* (genitive singular *ṅas*); the stem has *bha* status ("yaci bham," Pā. 1-4-18 [?]); "allopo 'naḥ" (Pā. 6-4-134 [?]) would drop the *a* of *an*, but "na saṃyogād vamāntāt" (Pā. 6-4-137 [?]) blocks the loss after a conjunct ending in *v* or *m* ("jv" here); so *yajvanaḥ*; since *vanip* is *pit*, the root accent stands. **गृहे (*gṛhe*)** — "gehe kaḥ" (Pā. 3-1-144 [?]): *ka* after *grah* meaning house; "grahijyāvayi…" (Pā. 6-1-16 [?]) gives *saṃprasāraṇa* of *r* → *ṛ*: *gṛha* (*saṃprasāraṇa* is the name for the replacement of *y, v, r, l* by *i, u, ṛ, ḷ* — "igyaṇaḥ saṃprasāraṇam," Pā. 1-1-45 [?]); "saṃprasāraṇāc ca" (Pā. 6-1-108 [?]) gives *pūrvarūpa*; *ka* is the suffix accent; locative singular *gṛhe*. **तत्र (*tatra*)** — "saptamyās tral" (Pā. 5-3-10 [?]): *tral* after *tad* in the locative sense; *tral* is a *taddhita*, so the word is a *prātipadika* ("kṛttaddhitasamāsāś ca," Pā. 1-2-46 [?]); the ending is dropped ("supo dhātuprātipadikayoḥ," Pā. 2-4-71 [?]); "prāg diśo vibhaktiḥ" (Pā. 5-3-1 [?]) gives *tral* the *vibhakti* name; hence, since the next word follows, "tyadādīnām aḥ" (Pā. 7-2-102 [?]) turns the *d* of *tad* into *a*, "ato guṇe" (Pā. 6-1-97 [?]) *pararūpa*: *tatra*; "liti" (Pā. 6-1-193 [?]): the syllable before *tral* is udātta. **देवाँ उप (*devām̐ upa*)** — *deva* from *divu* with *ac* ("pacādibhyo 'c," Pā. 3-1-134 [?]) with *laghūpadha-guṇa*; the accusative plural *śas*: "prathamayoḥ pūrvasavarṇaḥ" (Pā. 6-1-102 [?]) and "tasmāc chaso naḥ puṃsi" (Pā. 6-1-103 [?]): *s* of *śas* → *n* after *pūrvasavarṇadīrgha* in the masculine; *devān*; in the Saṃhitā "dīrghād aṭi samānapāde" (Pā. 8-3-9 [?]) turns the *n* into *ru* before the following *aṭ*-letter in the same pāda; "āto 'ṭi nityam" (Pā. 8-3-3 [?]) nasalizes the *ā*; "bhobhagoaghoapūrvasya yo 'śi" (Pā. 8-3-17 [?]) gives *y*; "lopaḥ śākalyasya" (Pā. 8-3-19 [?]) drops it: *devām̐ upa*; "ād guṇaḥ" would give *o* but, since the loss of *y* is "unseen" (*pūrvatrāsiddham*, Pā. 8-2-1 [?]), the *y* still stands for the earlier rule, and no *guṇa* arises. *(Sūtra numbers read from small print; pointers only.)*
+**कृणोतन (*kṛṇotana*)**: *kṛvi hiṃsākaraṇayoś ca*, *idit*, so *num* by "idito num dhātoḥ": *kṛnv*; *loṭ* 2nd plural *tha*; with *laṅvadbhāva* by "loṭo laṅvat" (Pā. sū. 3-4-85), *ta* for *tha* by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. "śū." [sic] 3-4-101); "taptanaptanathanāś ca" (Pā. sū. 7-1-45) gives four replacements of that *t* in the *loṭ* 2nd person (*tap*, *tanap*, *tana*, *thana*), here *tanap*: *kṛnv* + *tana*; *śap* by "kartari śap" would come, but "dhinvikṛṇvyor a ca" (Pā. sū. 3-1-80) gives *a* for the last letter of *dhinv*, *kṛṇv* and, in the place of *śap*, the suffix *u*: *kṛna* + *u* + *tana*; "ato lopaḥ" (Pā. sū. 6-4-48) drops the *a* of what ends in *a* at the time the *ārdhadhātuka* suffix is taught,
+
+### Page 582 — Rik 12: grammar (continued)
+
+so the *a* of *kṛna* drops; for this loss "acaḥ parasmin pūrvavidhau" (Pā. sū. 1-1-57) gives *sthānivadbhāva*, so the *ṛ* gets no *laghūpadha-guṇa*. *Tanap* is *pit*, so by the exclusion *apit* in "sārvadhātukam apit" (Pā. sū. 1-2-4) it does not become *ṅit*, and "kṅiti ca" (Pā. sū. 1-1-5) does not bar the *guṇa*; by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84) the *u* takes *guṇa*, *o*; *ṇ* for *n* by "ṛvarṇān nasya ṇatvaṃ vaktavyam" (Pā. sū. 8-4-1-1): *kṛṇotana*; wholly unaccented by "tiṅṅatiṅaḥ". **इन्द्राय (*indrāya*)**: *idi paramaiśvarye*, *num*; *ran* by "ṛjrendrāgra…" (Uṇ. sū. 2-186); the suffix is *nit*, so by "ñnityādir nityam" (Pā. sū. 6-1-197) *indra* is initial udātta. **यज्वनः (*yajvanaḥ*)**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; "suyajor ṅvanip" (Pā. sū. 3-2-103): after *ṣuñ abhiṣave* and *yaja devapūjādau*, *ṅvanip* in the past sense; *van* remains; *yajvan* + *as* (genitive singular, "jas" [as printed, for *ṅas*]); *bha* by "yaci bham" (Pā. sū. 1-4-18); so "allopo 'naḥ" (Pā. sū. 6-4-134) would drop the *a* of an *an* that is part of the stem before a vowel- or *y*-initial ending other than the *sarvanāmasthāna*, but "na saṃyogād vamantāt" (Pā. sū. 6-4-137) bars the loss of the *a* of *an* after a conjunct ending in *v* or *m*, so after *jv* it does not drop. **गृहे (*gṛhe*)**: *ka* by "gehe kaḥ" (Pā. sū. 3-1-144); the *k* is *it* by "laśakvataddhite" (Pā. sū. 1-3-8) and drops by "tasya lopaḥ"; "grahijyāvayivyadhivaṣṭivicativṛścatipṛcchatibhṛjjatīnāṃ ṅiti ca" (Pā. sū. 6-1-16) gives *saṃprasāraṇa*, *ṛ* for the *r*; by "igyaṇaḥ saṃprasāraṇam" (Pā. sū. 1-1-45) *i, u, ṛ, ḷ* in place of *y, v, r, l* are called *saṃprasāraṇa*; "saṃprasāraṇāc ca" (Pā. sū. 6-1-108) gives *pūrvarūpa* of *ṛ* and *a*: *gṛha*, locative singular *gṛhe*; the accent of the suffix *ka*. **तत्र (*tatra*)**: "saptamyās tral" (Pā. sū. 5-3-10): *tral* after *tad* in the locative; ending in a *taddhita*, it is a *prātipadika* by "kṛttaddhitasamāsāś ca", the ending dropped by "supo dhātuprātipadikayoḥ", and by "prāg diśo vibhaktiḥ" *tral* is called *vibhakti*; so before it "tyadādīnām aḥ" (Pā. sū. 7-2-102) gives
+
+### Page 583 — Rik 12: grammar (end); close of Sūkta 13
+
+*a* for the *d*: *ta* + *a* + *tra*; *pararūpa* by "ato guṇe" (Pā. sū. 6-1-97): *tatra*; by "liti" (6-1-193) the syllable before *tral* is udātta. **देवाँ उप (*devām̐ upa*)**: *deva* from *div* with *ac* by the *pacādi* rule (Pā. sū. 3-1-134) and *laghūpadha-guṇa* (Pā. sū. 7-3-86); accusative plural *śas*: *deva* + *as*; *pūrvasavarṇa-dīrgha* by "prathamayoḥ pūrvasavarṇaḥ" (Pā. sū. 6-1-102): *devās*; "tasmāc chaso naḥ puṃsi" (Pā. sū. 6-1-103): *n* for the *s* of *śas*: *devān*; in the Saṃhitā, before *upa*, "dīrghād aṭi samānapāde" (Pā. sū. 8-3-9) gives *ru* for the *n*: *devār* + *upa*; "āto 'ṭi nityam" (Pā. sū. 8-3-3) nasalises the *ā* before the *r*; "bhobhagoaghoapūrvasya yo 'śi" (Pā. sū. 8-3-17) gives *y* for the *ru*: *devāy* + *upa*; "lopaḥ śākalyasya" (Pā. sū. 8-3-19) drops the *y*: *devā* + *upa*; "ād guṇaḥ" (Pā. sū. 6-1-87) would give *o*, but by "pūrvatrāsiddham" (Pā. sū. 8-2-1) the loss of *y* is treated as not done for the *guṇa*, so the *y* counts as standing after the *a*, no vowel follows it, and there is no *guṇa*.
 
 **॥१२॥**
 
-*(A printed ornament follows. The page carries no Sanskrit or Kannada colophon for this sūkta. Page 583 then opens the fourteenth sūkta, "ಹದಿನಾಲ್ಕನೆಯ ಸೂಕ್ತವು", with its application note beginning *aibhir agne duvo giraḥ* (read from the Kannada print "ಐಭಿರಗ್ನೇ ದುವೋ ಗಿರ"); this is not translated in this batch.)*
+*(A printed ornament follows; the page has no colophon for Sūkta 13. Then on the same page the Fourteenth Sūkta begins.)*
 
 **End of Sūkta 13.**
 
