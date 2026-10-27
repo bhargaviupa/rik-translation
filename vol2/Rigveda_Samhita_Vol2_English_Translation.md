@@ -14295,55 +14295,79 @@ Here the suffix *kyac* is *cit*, so final udātta by "citaḥ" (Pā. sū. 6-1-16
 
 **॥ Sūkta — 16 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 4 ॥ Sūkta — 16 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 30, 31 [?] ॥** *(small-print Kannada digits; the digit glyphs 2/3 are hard to tell apart in this print, so this is unreliable)*
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 30, 31 ॥** *(as printed; Sūkta 15 closed with varga 29)*
 **॥ Mantras contained in this sūkta: 1–9 ॥**
 **॥ Ṛṣi — Medhātithi Kāṇva ॥**
 **॥ Devatā — Indra ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ त्वा वहन्तु हरयो वृषणं सोमपीतये ।
-> इन्द्र त्वा सूरचक्षसः ॥१॥
+> आ त्वा॑ वहन्तु॒ हर॑यो॒ वृष॑णं॒ सोम॑पीतये ।
+> इन्द्र॑ त्वा॒ सूर॑चक्षसः ॥१॥
 >
-> *ā tvā vahantu harayo vṛṣaṇaṃ somapītaye |*
-> *indra tvā sūracakṣasaḥ ||1||*
+> *ā́ tvā vahantu hárayo vṛ́ṣaṇaṃ sómapītaye |*
+> *índra tvā sū́racakṣasaḥ ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > आ । त्वा । वहन्तु । हरयः । वृषणम् । सोमऽपीतये ॥
 > इन्द्र । त्वा । सूरऽचक्षसः ॥१॥
 >
-> *ā | tvā | vahantu | harayaḥ | vṛṣaṇam | soma-pītaye ||*
-> *indra | tvā | sūra-cakṣasaḥ ||1||*
+> *ā | tvā | vahantu | harayaḥ | vṛṣaṇam | soma 'pītaye ||*
+> *indra | tvā | sūra 'cakṣasaḥ ||1||*
 
-*(Accent-marks are printed in the source; not reproduced, per the convention for the later riks of this volume.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 677; compressed; [?] marks doubtful readings)*
-
-> हे इन्द्र वृषणं कामानां वर्षितारं त्वां सोमपीतये सोमपानार्थं हरयस्त्वदीया अश्वा आ वहन्तु । अस्मिन्कर्मण्यानयन्तु । तथा सूरचक्षसः सूर्यसमानप्रकाशयुक्ता ऋत्विजस्त्वां मन्त्रैः प्रकाशयन्तीति शेषः ॥ हरन्तीति हरयः । इन् सर्वधातुभ्यः । उ. [४-११८] । इतीन् । नित्त्वादाद्युदात्तः । वृषणम् । कनिन्युवृषितक्षिराजिधन्विद्युप्रतिदिवः । उ. [१-१५६] । इति कनिन् । कित्त्वाल्लघूपधगुणाभावः । वा षपूर्वस्य निगमे । पा. [६-४-९] । इति विकल्पितमुपधादीर्घत्वम् । सोमपीतये । ऐभिरग्न इत्येत्रोक्तम् । ऋग्वेदे [१-१४-१] । सूरचक्षसः । चक्षिङ् व्यक्तायां वाचि । सर्वधातुभ्योऽसुन् । चक्षिङः ख्याञ् । पा. [२-४-५४] । इति न भवति । आनसोः प्रतिषेधो वक्तव्य इति निषेधात् । सू प्रेरणे । सुवतीति सूरः । सुसूधागृधिभ्यः क्रन् । उ. [२-२४] । इति क्रन् । कित्त्वाद्गुणाभावः । नित्त्वरादाद्युदात्तः [?] । सूरवत्प्रकाशो येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥१॥
+> हे इन्द्र वृषणं कामानां वर्षितारं त्वां सोमपीतये सोमपानार्थं हरयस्त्वदीया अश्वा आ वहन्तु । अस्मिन्कर्मण्यानयन्तु । तथा सूरचक्षसः सूर्यसमानप्रकाशयुक्ता ऋत्विजस्त्वां मन्त्रैः प्रकाशयन्त्विति शेषः ॥ हरन्तीति हरयः । इन् सर्वधातुभ्यः । उ. ४-११८ । इतीन् । नित्त्वादाद्युदात्तः । वृषणं । कनिन्युवृषितक्षीत्यादिना कनिन् । कित्त्वाल्लघूपधगुणाभावः । वा षपूर्वस्य निगमे । पा. ६-४-९ । इति विकल्पितमुपधादीर्घत्वं । सोमपीतये । ऐभिरग्न इत्यत्रोक्तं । ऋग्वे. १-१४-१ । सूरचक्षसः । चक्षिङ् व्यक्तायां वाचि । सर्वधातुभ्यो ऽसुन् । चक्षिङः ख्याञ् । पा. २-४-५४ । इति न भवति । असनयोः प्रतिषेधो वक्तव्य इति निषेधात् । षू प्रेरणे । सुवतीति सूरः । सुसूधागृधिभ्यः क्रन् । उ. २-२४ । इति क्रन् । कित्त्वाद्गुणाभावः । नित्त्वादाद्युदात्तः । सूरवत्ख्यानं प्रकाशो येषां । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥
 >
-> *he indra vṛṣaṇaṃ kāmānāṃ varṣitāraṃ tvāṃ somapītaye soma-pānārthaṃ harayas tvadīyā aśvā ā vahantu | asmin karmaṇy ānayantu | tathā sūracakṣasaḥ sūrya-samāna-prakāśa-yuktā ṛtvijas tvāṃ mantraiḥ prakāśayantīti śeṣaḥ || harantīti harayaḥ | in sarva-dhātubhyaḥ | u. [4-118] | itīn | nittvād ādyudāttaḥ | vṛṣaṇam | kanin-yuvṛṣitakṣirāji-dhanvi-dyupratidivaḥ | u. [1-156] | iti kanin | kittvāl laghūpadha-guṇābhāvaḥ | vā ṣapūrvasya nigame | pā. [6-4-9] | iti vikalpitam upadhādīrghatvam | somapītaye | aibhir agna ity etrokam | ṛgvede [1-14-1] | sūracakṣasaḥ | cakṣiṅ vyaktāyāṃ vāci | sarvadhātubhyo 'sun | cakṣiṅaḥ khyāñ | pā. [2-4-54] | iti na bhavati | ānasoḥ pratiṣedho vaktavya iti niṣedhāt | sū preraṇe | suvatīti sūraḥ | susūdhāgṛdhibhyaḥ kran | u. [2-24] | iti kran | kittvād guṇābhāvaḥ | nittvarād ādyudāttaḥ [?] | sūravat prakāśo yeṣām | bahuvrīhau pūrvapada-prakṛti-svaratvam ||1||*
+> *he indra vṛṣaṇaṃ kāmānāṃ varṣitāraṃ tvāṃ somapītaye somapānārthaṃ harayastvadīyā aśvā ā vahantu | asminkarmaṇyānayantu | tathā sūracakṣasaḥ sūryasamānaprakāśayuktā ṛtvijastvāṃ mantraiḥ prakāśayantviti śeṣaḥ || harantīti harayaḥ | in sarvadhātubhyaḥ | u. 4-118 | itīn | nittvādādyudāttaḥ | vṛṣaṇaṃ | kaninyuvṛṣitakṣītyādinā kanin | kittvāllaghūpadhaguṇābhāvaḥ | vā ṣapūrvasya nigame | pā. 6-4-9 | iti vikalpitamupadhādīrghatvaṃ | somapītaye | aibhiragna ityatroktaṃ | ṛgve. 1-14-1 | sūracakṣasaḥ | cakṣiṅ vyaktāyāṃ vāci | sarvadhātubhyo 'sun | cakṣiṅaḥ khyāñ | pā. 2-4-54 | iti na bhavati | asanayoḥ pratiṣedho vaktavya iti niṣedhāt | ṣū preraṇe | suvatīti sūraḥ | susūdhāgṛdhibhyaḥ kran | u. 2-24 | iti kran | kittvādguṇābhāvaḥ | nittvādādyudāttaḥ | sūravatkhyānaṃ prakāśo yeṣāṃ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "O Indra! Let your horses (*harayaḥ*) bring you — the *vṛṣan*, the shower of desired things — for the drinking of the soma, to this rite; and let the *sūracakṣasaḥ* — priests who shine like the sun — [make you manifest] with mantras (the rest is supplied)." The grammar that follows, noted briefly: *harayaḥ* (*hṛ* "to carry", the Uṇādi *in*, first-syllable accent); *vṛṣaṇam* (*vṛṣ* "to shower", the Uṇādi *kanin*, no guṇa because the suffix has the indicatory *k*, the optional lengthening of the penultimate by P. 6-4-9 *vā ṣapūrvasya nigame*); *somapītaye* (explained at *aibhir agne*, Ṛ. 1-14-1); *sūracakṣasaḥ* (*cakṣ* "to speak clearly", Uṇādi *asun*; the substitute *khyā* of P. 2-4-54 does not apply, by the Vārttika barring it before *āna* and *asun*; *sūra* from *sū* "to impel", the Uṇādi *kran*; "those whose brilliance is like the sun's"; a *bahuvrīhi* with the accent of the first member). *(Grammar, noted briefly; the numeral of P. 2-4-54 as read agrees with the standard numbering.)*
+**Translation:** "O Indra, may the *harayaḥ*, your horses, *ā vahantu*, bring you, the *vṛṣan*, rainer of desires, for the drinking of soma, to this rite. And may the *sūracakṣasaḥ*, the priests endowed with a radiance like the sun's, make you manifest with mantras: this is to be supplied." (Grammatical tail: *harayaḥ*, "they carry", *in* (Uṇ. 4-118), initial udātta; *vṛṣaṇam* with *kanin*, no *guṇa* (*kit*), the optional lengthening of the penultimate (Pā. 6-4-9) not made; *somapītaye* as said at Ṛ. 1-14-1; *sūracakṣasaḥ*: *cakṣ* with *asun*, no *khyāñ* (Pā. 2-4-54) before *as*/*ana* by the vārttika; *sūra* "who urges", *kran* after *sū* (Uṇ. 2-24), initial udātta; "whose shining is like the sun's", a bahuvrīhi with the first-member accent.)
 
-**Grammar pages (pp. 678 lower half–679), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *harayaḥ* (*hṛñ haraṇe*; *sarvadhātubhya in* Uṇ. 4-[?]; guṇa and *raparatva* by P. 7-3-84 and P. 1-1-51; first-syllable accent; the nominative plural *jas*, with the guṇa by P. 7-3-109 *jasi ca* [as read, 7-3-109]; *eco 'yavāyāvaḥ* P. 6-1-78 giving *ay*; the *visarga*), *vṛṣaṇam* (*vṛṣu secane* with the Uṇādi *kanin*, Uṇ. 1-[?]; *kit*, so no guṇa of the penultimate by P. 1-1-5 *kṅiti ca* — the guṇa that would come by *pugantalaghūpadhasya ca* P. 7-3-86 is therefore barred; accusative *am*; the optional lengthening by P. 6-4-8 [?] *sarvanāmasthāne cāsambuddhau* and P. 6-4-9 *vā ṣapūrvasya nigame* — here, optional, taken as not applied; *ṛvarṇān nasya ṇatvaṃ vācyam* [Vārttika on P. 8-4-1] giving *ṇ*: *vṛṣaṇam*); *somapītaye* (explained at 1.14.1); *sūracakṣasaḥ* (*cakṣiṅ*, the *asun* by Uṇ. 4-[?] *sarvadhātubhyo 'sun* being *ārdhadhātuka*, so P. 2-4-54 *cakṣiṅaḥ khyāñ* would apply, but it is barred by the Vārttika *ānasoḥ pratiṣedho vaktavyaḥ* [P. 2-4-54 Vārttika as read]; *sū* of the *tudādi* class — "he who impels people to action in the poems" — with the Uṇādi *kran*, Uṇ. 3-[?] *susūdhāgṛdhibhyaḥ kran*; *kit* so no guṇa by P. 1-1-5; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; the first-syllable accent from the *n*-mark; the *bahuvrīhi* by P. 6-2-1 *bahuvrīhau prakṛtyā pūrvapadam*). *(Numerals as read; pointers only.)*
+### Page 678 — Rik 1: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 678)*
+**॥ Prati-padārthaḥ ॥**
 
-**इन्द्र (indra)** — O Indra | **वृषणम् (vṛṣaṇam)** — [you] who shower (give) desired objects | **त्वा (tvā)** — you | **सोमपीतये (somapītaye)** — for the sake of drinking soma | **हरयः (harayaḥ)** — [your] horses | **आ वहन्तु (ā vahantu)** — let them bring (to this place where the rite is going on) | **सूरचक्षसः (sūracakṣasaḥ)** — priests radiant like the sun | **त्वा (tvā)** — you [let them praise].
+**इन्द्र (indra)** — O Indra | **वृषणम् (vṛṣaṇam)** — who rains (gives) what is desired | **त्वा (tvā)** — you | **सोमपीतये (somapītaye)** — for drinking soma | **हरयः (harayaḥ)** — (your) horses | **आ वहन्तु (ā vahantu)** — may they bring (to the place where this rite is going on) | **सूरचक्षसः (sūracakṣasaḥ)** — the radiant priests, shining like the sun | **त्वा (tvā)** — you (may they praise).
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! You are the giver of all desired things. The priests, radiant as the sun, praise you. Come with your horses to our sacrificial hall to drink the soma.
+O Indra, you give all that is desired. The radiant priests praise you. Come with your horses to our sacrificial hall to drink soma.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Indra, let your horses bring you, bestower of riches, to drink the Soma-Juice ; May the priests radiant as the Sun, praise you.
+> Indra, let your horses bring you, bestower of riches, to drink the Soma-Juice; May the priests radiant as the Sun, praise you.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 678)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**सूरचक्षसः (sūracakṣasaḥ)** — *sūrya-samāna-prakāśa-yuktāḥ ṛtvijas tvāṃ mantrais prakāśayantu*: priests of sun-like brilliance, may they make you manifest — praise you with mantras; "let [you] be revealed (be made to appear)".
+**Sūracakṣasaḥ**:
+
+> सूर्यसमानप्रकाशयुक्ता ऋत्विजस्त्वां मन्त्रैः प्रकाशयन्तु ॥
+>
+> *sūryasamānaprakāśayuktā ṛtvijastvāṃ mantraiḥ prakāśayantu ||*
+
+that is, "may the priests, radiant like the sun, praise you with mantras, make you known".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 678–679, noted briefly)*
+
+**हरयः (*harayaḥ*)**: the root *hṛñ haraṇe*. By "sarvadhātubhya in" (Uṇ. sū. "4-552" [?]; the bhāṣya gives 4-118) the suffix *in* after all roots: *hṛ* + *i*; *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84); *r* after it by "uraṇ raparaḥ": *hari*.
+
+### Page 679 — Rik 1: grammar (end)
+
+After it, *jas*; *guṇa* by "jasi ca" (Pā. sū. 7-3-109): *hare* + *as*; *ay* by "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78): *harayas*, *ru*, visarga. *Hari* is initial udātta by the *nit* accent.
+
+**वृषणम् (*vṛṣaṇam*)**: the root *vṛṣu secane*; after it, by "kaninyuvṛṣitakṣirājidhanvidyupratidivaḥ" (Uṇ. sū. 1-154) the suffix *kanin*. The suffix is *kit*, so "kṅiti ca" bars the *guṇa*, and the penultimate *guṇa* of "pugantalaghūpadhasya ca" does not come: *vṛṣan*. After it the accusative singular *am*: *vṛṣan* + *am*. "vā ṣapūrvasya nigame" (Pā. sū. 6-4-9): before a *sarvanāmasthāna* suffix other than the vocative, the vowel in the penultimate after a *ṣ* is lengthened optionally; since the lengthening is enjoined as optional, it does not come here. By "ṛvarṇān nasya ṇatvaṃ vācyam" (Pā. sū. vā. 8-4-1-1) *ṇ* for the *n*: *vṛṣaṇam*.
+
+**सोमपीतये (*somapītaye*)**: set out at *aibhir agne* (Ṛ. Saṃ. 1-14-1).
+
+**सूरचक्षसः (*sūracakṣasaḥ*)**: the root *cakṣiṅ vyaktāyāṃ vāci*. By "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]) the suffix *asun*; by "ārdhadhātukaṃ śeṣaḥ" (Pā. sū. 3-4-114) *asun* is an *ārdhadhātuka* suffix; so by "cakṣiṅaḥ khyāñ" (Pā. sū. 2-4-54), before an *ārdhadhātuka* suffix, *khyāñ* would replace *cakṣiṅ*. But after saying "varjane pratiṣedhaḥ" (Pā. sū. "2-4-54-9" [?]), that *khyāñ* does not come for *cakṣiṅ* when avoidance is meant, the Vārttikakāra says "asanayoś ca" (Pā. sū. vā. 2-4-54-10): before the suffixes *as* and *ana*, *khyāñ* does not come for *cakṣiṅ*. So here, *as* following, *khyāñ* does not come for *cakṣiṅ*. *Ṣū preraṇe*, a *tudādi* root; *suvati iti sūraḥ*: one who urges people to their works. By "dhātvādeḥ ṣaḥ saḥ" (Pā. sū. 6-1-64) *s* for *ṣ*. "susūdhāgṛdhibhyaḥ kran" (Uṇ. sū. "2-173" [?]; *ṣuñ abhiṣave*, *ṣū preraṇe*, *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *gṛdhu abhikāṅkṣāyām*): after these roots *kran*; so *kran* after *sū*: *sū* + *ra*; the suffix is *kit*, so "kṅiti ca" (Pā. sū. 1-1-5) bars it, and *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84) does not come: *sūra*. It is initial udātta by the *nit* accent. *Sūravat cakṣaḥ khyānaṃ = prakāśaḥ yeṣāṃ te sūracakṣasaḥ*, a bahuvrīhi compound. By "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) the first-member accent comes.
+
+**॥१॥**
+
+---
 
 ### Pages 680–685 — Sūkta 16, Rik 2
 

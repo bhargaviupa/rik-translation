@@ -109,3 +109,6 @@ PDF 688 (p. 674): "6-4-46" [as printed, for 6-4-45], Mabhā. "6-4-45" [?], Kaiya
 PDF 689 (p. 675): 6-2-139, 3-1-8, 3-1-32, 2-4-71, 7-4-33, 7-4-35, paribhāṣā 61, 7-4-25, 7-4-37, 3-2-123, 3-2-124, 6-1-97.
 PDF 690 (p. 676): grammar end: 6-1-163, 3-1-4, 3-4-113, 6-1-186, 8-2-5, 6-1-173; close of Sukta 15 (no colophon; varga 29).
 PDF 690 (p. 676): Sukta 16 viniyoga re-read from print (पञ्चमं, अनुवर्तते, द्विदेवत्यैश्चरन्तीति, उन्नीयमानेभ्यो ऽन्वाहा त्वा वहन्तु; Āśv. 5-5 and 6-2, the earlier "5-3-[?]"/"6-2-[?]" replaced).
+PDF 691 (p. 677): Sukta 16 header (varga 30, 31 as printed); Rk 16.1 Samhita accents as printed; bhasya re-transcribed in full (Un. 4-118, 6-4-9, Ṛ. 1-14-1, 2-4-54).
+PDF 692 (p. 678): bhasya end (Un. 2-24); Prati/Bhāvārtha/English/Special Topics; grammar Un. "4-552" [?] (bhāṣya 4-118), 7-3-84.
+PDF 693 (p. 679): grammar: 7-3-109, 6-1-78, Un. 1-154, 6-4-9, vā. 8-4-1-1, Ṛ. 1-14-1, Un. "4-628" [?], 3-4-114, 2-4-54, "2-4-54-9" [?], vā. 2-4-54-10, 6-1-64, Un. "2-173" [?] (bhāṣya 2-24), 1-1-5, 7-3-84, 6-2-1.
