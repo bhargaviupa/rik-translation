@@ -8056,13 +8056,13 @@ Indra is the lord of wealth and splendour; he is worthy of being praised with �
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> आकार इच्छब्दश्च पादपूरणौ । यद्वा । आ व्याप्तिवचन आकारः । आजूषदर्थे [?] ऽभिव्याप्तौ [?] । अमु. ६-४-४१ [?] । इत्यभिधानात् । इच्छब्दो ऽपिशब्दार्थः । इयर्ति गच्छत्यनुष्ठेयं कर्म प्राप्नोतीत्यरिर्यजमानः । एदरिः सर्वो ऽपि यजमान इन्द्राय सुते सुते इन्द्रार्थमभिषुते तत्र तत्र सोमे शूषं बलमर्चति स्तौति । इन्द्रस्य पराक्रमं प्रशंसतीत्यर्थः । कीदृशं शूषं बृहत् प्रौढम् । कीदृशायेन्द्राय न्योकसे नियतस्थानाय बृहते प्रौढाय ॥
+> आकार इच्छब्दश्च पादपूरणौ । यद्वा । व्याप्तिवचन आकारः । आङीषदर्थे ऽभिव्याप्तौ । अमु. ३-४-३२ । इत्यभिधानात् । इच्छब्दो ऽपिशब्दार्थः । इयर्ति गच्छत्यनुष्ठेयं कर्म प्राप्नोतीत्यरिर्यजमानः । एदरिः सर्वो ऽपि यजमान इन्द्राय सुते सुत इन्द्रार्थमभिषुते तत्र तत्र सोमे शूषं बलमर्चति स्तौति । इन्द्रस्य पराक्रमं प्रशंसतीत्यर्थः । कीदृशं शूषम् । बृहत् प्रौढम् । कीदृशायेन्द्राय । न्योकसे नियतस्थानाय बृहते प्रौढाय ॥ सुते सुते । षुञ् अभिषवे । क्तप्रत्ययः । प्रत्ययस्वरेणोदात्तः । नित्यवीप्सयोरिति वीप्सायां द्विर्भावः । तस्य परमाम्रेडितमिति द्वितीयस्याम्रेडितत्वेनानुदात्तं च । पा. ८-१-३ । इत्यनुदात्तत्वम् । न्योकसे । नियतमोको यस्य तस्मै । निशब्दो निपाता आद्युदात्ता इत्युदात्तः । तस्य यणादेश उदात्तस्वरितयोर्यणः स्वरितो ऽनुदात्तस्य । पा. ८-२-४ । इत्योकारः स्वरितः । बृहते । बृहन्महतोरुपसंख्यानम् । पा. ६-१-१७३-१ । इत्यजादिविभक्तेरुदात्तत्वम् । अरिः । ऋ गतौ । अच इः । उ. ४-१३८ । इतीकारप्रत्ययः । गुणो रपरत्वम् । प्रत्ययस्वरेणेकार उदात्तः । इन्द्राय । ऋज्रेन्द्रेत्यादिना रन्प्रत्यय इकार उदात्तः । शूषम् । प्रातिपदिकस्वरः । अर्चति । निघातस्वरः ॥ १८ ॥
 >
-> *ākāra icchabdaś ca pāda-pūraṇau | yadvā | ā vyāpti-vacana ākāraḥ | ājūṣad-arthe [?] 'bhivyāptau [?] | amu. 6-4-41 [?] | ity abhidhānāt | icchabdo 'pi-śabdārthaḥ | iyarti gacchaty anuṣṭheyaṃ karma prāpnotīty ariḥ yajamānaḥ | ed ariḥ sarvo 'pi yajamāna indrāya sute-sute indrārtham abhiṣute tatra tatra some śūṣaṃ balam arcati stauti | indrasya parākramaṃ praśaṃsatīty arthaḥ | kīdṛśaṃ śūṣaṃ bṛhat prauḍham | kīdṛśāyendrāya nyokase niyata-sthānāya bṛhate prauḍhāya ||*
+> *ākāra icchabdaśca pādapūraṇau | yadvā | vyāptivacana ākāraḥ | āṅīṣadarthe 'bhivyāptau | amu. 3-4-32 | ityabhidhānāt | icchabdo 'piśabdārthaḥ | iyarti gacchatyanuṣṭheyaṃ karma prāpnotītyariryajamānaḥ | edariḥ sarvo 'pi yajamāna indrāya sute suta indrārthamabhiṣute tatra tatra some śūṣaṃ balamarcati stauti | indrasya parākramaṃ praśaṃsatītyarthaḥ | kīdṛśaṃ śūṣam | bṛhat prauḍham | kīdṛśāyendrāya | nyokase niyatasthānāya bṛhate prauḍhāya || sute sute | ṣuñ abhiṣave | ktapratyayaḥ | pratyayasvareṇodāttaḥ | nityavīpsayoriti vīpsāyāṃ dvirbhāvaḥ | tasya paramāmreḍitamiti dvitīyasyāmreḍitatvenānudāttaṃ ca | pā. 8-1-3 | ityanudāttatvam | nyokase | niyatamoko yasya tasmai | niśabdo nipātā ādyudāttā ityudāttaḥ | tasya yaṇādeśa udāttasvaritayoryaṇaḥ svarito 'nudāttasya | pā. 8-2-4 | ityokāraḥ svaritaḥ | bṛhate | bṛhanmahatorupasaṃkhyānam | pā. 6-1-173-1 | ityajādivibhakterudāttatvam | ariḥ | ṛ gatau | aca iḥ | u. 4-138 | itīkārapratyayaḥ | guṇo raparatvam | pratyayasvareṇekāra udāttaḥ | indrāya | ṛjrendretyādinā ranpratyaya ikāra udāttaḥ | śūṣam | prātipadikasvaraḥ | arcati | nighātasvaraḥ || 18 ||*
 
-**Translation:** "The syllable *ā* and the word *it* are pāda-fillers. *Or:* the *ā* has the sense of 'pervading' [the clause giving the Sanskrit reference for this is hard to read]; the word *it* has the sense of *api* ('also'). *Ariḥ* is the sacrificer: 'he who goes (*iyarti*) — attains — the rite to be performed.' *Ed ariḥ*: every sacrificer, *sute-sute*, in each Soma that is pressed for Indra's sake, *arcati* — praises — *śūṣam*, [his] strength, that is, extols Indra's prowess. What kind of *śūṣa*? *Bṛhat* — vast. For what kind of Indra? *Nyokase* — one whose dwelling is fixed; *bṛhate* — great." *(The phrase marked [?] is compressed in the scan; the sentence structure is clear from the continuation.)*
+**Translation:** "The syllable *ā* and the word *it* are pāda-fillers. *Or:* the *ā* has the sense of 'pervading', according to the statement [of the Amarakośa], '*āṅ* in the sense of "a little" and of "pervading"' (Amara 3-4-32); the word *it* has the sense of *api* ('also'). *Ariḥ* is the sacrificer: 'he who goes (*iyarti*) — attains — the rite to be performed.' *Ed ariḥ*: every sacrificer, *sute-sute*, in each Soma that is pressed for Indra's sake, *arcati* — praises — *śūṣam*, [his] strength, that is, extols Indra's prowess. What kind of *śūṣa*? *Bṛhat* — vast. For what kind of Indra? *Nyokase* — one whose dwelling is fixed; *bṛhate* — great."
 
-*(The remaining Sanskrit on this page is the grammar of* सुतेसुते*,* न्योकसे*,* बृहते*,* अरिः*,* इन्द्राय*,* शूषम्*,* अर्चति*, noted briefly in the Kannada grammar below.)*
+*(Grammar, noted briefly:* sute-sute *— root* ṣuñ abhiṣave *with* kta*, udātta by the suffix; doubled in the distributive sense ("nityavīpsayoḥ"), the second, as* āmreḍita*, unaccented (Pā. 8-1-3);* nyokase *— "he whose abode (*okas*) is fixed"; the particle* ni *initial-udātta; with* yaṇ*, the* o *becomes svarita (Pā. 8-2-4);* bṛhate *— the case ending udātta by the upasaṃkhyāna "bṛhanmahatoḥ" (Pā. 6-1-173, vārttika 1);* ariḥ *— root* ṛ gatau *with* i *(Uṇ. 4-138),* guṇa *and* r*, the* i *udātta;* indrāya *— the suffix* ran *(by "ṛjrendra…"), the* i *udātta;* śūṣam *— stem accent;* arcati *— unaccented as a finite verb. The bhāṣya ends "॥ १८ ॥", the close of the eighteenth varga.)*
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -8082,7 +8082,7 @@ The strength, or capacity, of Indra is exceedingly great. The sacrificer who per
 
 In this rik, although a third-person verb has been used — "the sacrificer praises Indra" — the poet indirectly states the sense of a first-person usage: "I praise Indra."
 
-**"Sute sute"** — "at each pressing." By "nityavīpsayoḥ" (Pā. 8-1-4 [?]) a word is doubled to show "each one." Using a single word twice to convey "each" is established usage in the Ṛgveda and in other texts: *bhare-bhare*, *have-have*, *aharahaḥ*, etc. *Sute-sute* means "in the rite of each pressing, and in each rite where Soma-juice is drawn."
+**"Sute sute"** — "at each pressing." By "nityavīpsayoḥ" (no number printed) a word is doubled to show "each one." Using a single word twice to convey "each" is established usage in the Ṛgveda and in other texts: *bhare-bhare*, *have-have*, *aharahaḥ*, etc. *Sute-sute* means "in the rite of each pressing, and in each rite where Soma-juice is drawn."
 
 **"Nyokase"** — *ni* + *okase*. Here *ni* is a prefix (*upasarga*). The word *okaḥ*, ending in *s*, means a dwelling, one's own place, a place where one always lives: *permanent dwelling, abode*, etc. [the source's own English]. For the word *divaukasaḥ* — "those who dwell in heaven," as their own place — means "gods." Similarly in *ni-okase* = *nyokase*, the *ni* is a particle (*upasarga*), here meaning "fixed." So *nyokase* means "one whose place is fixed."
 
@@ -8090,41 +8090,39 @@ In this rik, although a third-person verb has been used — "the sacrificer prai
 
 **"Bṛhate"** — **महते, महतः शरीरेण वीर्येण वा** (*mahate, mahataḥ śarīreṇa vīryeṇa vā*) — "great — great in body or in valour"; that is, great in body and also in prowess.
 
-**"Ariḥ"** — **ऋ गतौ । इयर्ति गच्छतीत्यनुष्ठेयं कर्म प्राप्नोतीत्यरियजमानः** (*ṛ gatau | iyarti gacchatīty anuṣṭheyaṃ karma prāpnotīty ariḥ yajamānaḥ*) — the root *ṛ* means "to go, to attain": the one who attains the rite to be performed, i.e., one who performs the rite, the sacrificer.
+**"Ariḥ"** — **ऋ गतौ । इयर्ति गच्छतीत्यनुष्ठेयं कर्म प्राप्नोतीत्यरिर्यजमानः** (*ṛ gatau | iyarti gacchatīty anuṣṭheyaṃ karma prāpnotīty arir yajamānaḥ*) — the root *ṛ* means "to go, to attain": the one who attains the rite to be performed, i.e., one who performs the rite, the sacrificer.
 
-**"Śūṣam"** — strength, capacity. Among the twenty-eight words for strength beginning with *ojaḥ*, *pājaḥ*, the word *śūṣam* is read (Nirukta 2-9 [?]). Indra's powers, valour, glory, and so on. Although *śūṣa* has this sense, when the word is used with Indra in view, the sense "hymn" (*stotra*) generally fits best. A few examples are given on this point:
+**"Śūṣam"** — strength, capacity. Among the twenty-eight words for strength beginning with *ojaḥ*, *pājaḥ*, the word *śūṣam* is read (Nirukta 2-9). Indra's powers, valour, glory, and so on. Although *śūṣa* has this sense, when the word is used with Indra in view, the sense "hymn" (*stotra*) generally fits best. A few examples are given on this point:
 
 ### Page 379 — Rik 10: Special Topics (continued) and grammar
 
 > प्र मन्महे शवसानाय शूषमाङ्गूषं गिर्वणसे अङ्गिरस्वत् ।
 > *pra manmahe śavasānāya śūṣam āṅgūṣaṃ girvaṇase aṅgirasvat |*
-> (Ṛgveda Saṃhitā 1-62-1)
-> *("We offer a hymn — a śūṣa, an āṅgūṣa — to the powerful one, the hymn-loving, as the Aṅgirases did." — my gloss, tentative.)*
+> (ऋ. सं. १-६२-१ — Ṛgveda Saṃhitā 1-62-1)
+> *("We offer a hymn — a śūṣa, an āṅgūṣa — to the powerful one, the hymn-loving, as the Aṅgirases did." — mine and tentative.)*
 
-> इनुं [?] महे विदथ्याय शूषं शश्वत्कृत्व ईड्याय प्र जभ्रुः ।
-> *inuṃ [?] mahe vidathyāya śūṣaṃ śaśvat-kṛtva īḍyāya pra jabhruḥ |*
-> (Ṛgveda Saṃhitā 3-34-? [?])
-> *("…they brought a hymn to the great one, worthy of the assembly, to be praised, who acts perpetually." — my gloss, tentative; the first word is hard to read, and the whole line is a best reading.)*
+> इनम् महे विदथ्याय शूषं शश्वत्कृत्व ईड्याय प्र जभ्रुः ।
+> *inam mahe vidathyāya śūṣaṃ śaśvat-kṛtva īḍyāya pra jabhruḥ |*
+> (ऋ. सं. ३-५४-१ — Ṛgveda Saṃhitā 3-54-1)
+> *("To the great lord, worthy of the assembly, worthy of praise, they have brought a hymn, perpetually acting." — mine and tentative.)*
 
 > उप व एषे वन्द्येभिः शूषैः प्र यह्वी दिवश्चितयद्भिरर्कैः ।
 > *upa va eṣe vandyebhiḥ śūṣaiḥ pra yahvī divaś citayadbhir arkaiḥ |*
-> (Ṛgveda Saṃhitā 3-?-? [?]; the number is not legible)
-> *("I approach you with praiseworthy hymns, with hymns that make [the heavens] shine." — my gloss, tentative.)*
+> (ऋ. सं. ५-४१-६ — Ṛgveda Saṃhitā 5-41-6)
+> *("I approach you with praiseworthy hymns, with hymns that make [the heavens] shine." — mine and tentative.)*
 
-> आ यं पृणन्ति परिभिर्न धेनव इन्द्राय शूषं परिनन्तमर्चत ।
-> *ā yaṃ pṛṇanti paribhir na dhenava indrāya śūṣaṃ parinantam arcata |*
-> (Ṛgveda Saṃhitā 10-?-? [?])
-> *(The last words are not securely read; no gloss is offered.)*
-
-*(These four verses are best readings from compressed print, each marked where doubtful; a clear copy is needed before relying on them.)*
+> आ यं पृणन्ति हरिभिर्न धेनव इन्द्राय शूषं हरिवन्तमर्चत ॥
+> *ā yaṃ pṛṇanti haribhir na dhenava indrāya śūṣaṃ harivantam arcata ||*
+> (ऋ. सं. १०-९६-२ — Ṛgveda Saṃhitā 10-96-2)
+> *("…whom [the hymns] fill as milch-cows [fill a calf]; sing a hymn to Indra, the lord of bay horses." — mine and tentative.)*
 
 Many more examples could be given.
 
-**"Arcati"** — *arcati* is read among the forty-four verbs [*roots*] of the sense "to worship, praise," beginning with *arcati*, *gāyati* (Nirukta 3-14 [?]); so *arcati* means *gāyati*, *stauti* — "he praises, he extols."
+**"Arcati"** — *arcati* is read among the forty-four verbs [*roots*] of the sense "to worship, praise," beginning with *arcati*, *gāyati* (Nirukta 3-19); so *arcati* means *gāyati*, *stauti* — "he praises, he extols."
 
 **॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 379–380, noted briefly)*
 
-**सुतेसुते (*sute-sute*)** — root *ṣuñ abhiṣave* ("to press") + *kta*; initial/final-udātta by the suffix; locative singular *ṅi* → *e*; doubling by "nityavīpsayoḥ" (Pā. 8-1-4 [?]); for the second member the technical name *āmreḍita* arises ("tasya paramāmreḍitam," Pā. 8-1-2 [?]), and "anudāttaṃ ca" (Pā. 8-1-3 [?]) makes it unaccented. **न्योकसे (*nyokase*)** — "niyatam okaḥ yasya": *ni* is a *nipāta*, initial-udātta (Phiṭ-sūtra [?]); the udātta *i* is replaced by *y* ("iko yaṇaci," Pā. 6-1-77 [?]), and the *o* after the udātta *y* is *svarita* by "udāttasvaritayor yaṇaḥ svarito 'nudāttasya" (Pā. 8-2-4 [?]). **बृहते (*bṛhate*)** — "bṛhan-mahator upasaṃkhyānam" (Pā. 6-1-171 *vārttika* [?]): after *bṛhat* and *mahat* the case-ending that has *nadī* status (and the vowel-initial endings) is udātta; so the *e* in *bṛhate* is udātta; although the sūtra "vartamāne pṛṣad-bṛhan-mahaj-jagac-chatṛvac ca" (Uṇ. 2-2-84 [?]) says *śatṛvat* (treated like *śatṛ*), by which "śaturanumo nadyajādī" (Pā. 6-1-173 [?]) would already give the udātta, a *vārttika* is needed to fix the rule so that it applies only after *bṛhat* and *mahat* and not after *pṛṣat* and *jagat*; hence "bṛhan-mahator upasaṃkhyānam" is necessary. **अरिः (*ariḥ*)** — root *ṛ gatau* + the suffix *i* (Uṇ. 4-139 [?]); guṇa and *raparatva* (Pā. 1-1-51 [?]); *ari* is final-udātta by the suffix. **इन्द्राय (*indrāya*)** — *ran* by "ṛjrendrāgra-vajra…" (Uṇ. 2-28 [?]); the suffix is *nit*, so initial-udātta. **शूषम् (*śūṣam*)** — base accent by the Phiṭ-sūtra "phiṣaḥ." **अर्चति (*arcati*)** — wholly unaccented as a finite verb (Pā. 8-1-28 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**सुतेसुते (*sute-sute*)** — root *ṣuñ abhiṣave* ("to press") + *kta*; initial/final-udātta by the suffix; locative singular *ṅi* → *e*; doubling by "nityavīpsayoḥ" (Pā. 8-1-4); for the second member the technical name *āmreḍita* arises ("tasya paramāmreḍitam," Pā. 8-1-2), and "anudāttaṃ ca" (8-1-3, printed "va. sū." [sic]) makes it unaccented. **न्योकसे (*nyokase*)** — "niyatam okaḥ yasya": *ni* is a *nipāta*, initial-udātta by "nipātā ādyudāttāḥ" (Phiṭ-sūtra 80); the udātta *i* is replaced by *y* ("iko yaṇ aci," Pā. 6-4-77 [as printed]), and the *o* after the udātta *y* is *svarita* by "udāttasvaritayor yaṇaḥ svarito 'nudāttasya" (Pā. 8-2-4). **बृहते (*bṛhate*)** — "bṛhan-mahator upasaṃkhyānam" (Pā. 6-1-173, vārttika 1): after *bṛhat* and *mahat* the case-ending that has *nadī* status (and the vowel-initial endings) is udātta; so the *e* in *bṛhate* is udātta; although the sūtra "vartamāne pṛṣad-bṛhan-mahaj-jagac-chatṛvac ca" (Uṇ. 2-2-42 [?], as printed in three parts) says *śatṛvat* (treated like *śatṛ*), by which "śatur anumo nadyajādī" (Pā. 6-1-173) would already give the udātta, a *vārttika* is needed to fix the rule so that it applies only after *bṛhat* and *mahat* and not after *pṛṣat* and *jagat*; hence "bṛhan-mahator upasaṃkhyānam" is necessary. **अरिः (*ariḥ*)** — root *ṛ gatau* + the suffix *i* by "aca iḥ" (Uṇ. 4-578 [as printed]; the bhāṣya on p. 377 prints 4-138); guṇa by "sārvadhātukārdhadhātukayoḥ" (Pā. 7-3-84) and *raparatva* by "uraṇ raparaḥ" (Pā. 1-1-51); *ari* is final-udātta by the suffix. **इन्द्राय (*indrāya*)** — *ran* by "ṛjrendrāgra-vajra…" (Uṇ. 2-186); the suffix is *nit*, so initial-udātta. **शूषम् (*śūṣam*)** — base accent by the Phiṭ-sūtra "phiṣaḥ" (Phiṭ 1). **अर्चति (*arcati*)** — wholly unaccented as a finite verb by "tiṅṅ atiṅaḥ" (Pā. 8-1-28).
 
 **॥१०॥**
 
