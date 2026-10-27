@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
 Status: in progress (scans present, 5 parts, 822 PDF pages).
-**Last PDF page done: 300 (printed p. 286).** Batch PDF 301–400 in progress: done through **PDF 399 (printed p. 385)**, edits in `review/edits_PDF301-400.txt`. Next: PDF 400. Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
+**Last PDF page done: 400 (printed p. 386).** Next: batch PDF 401–500, starting at PDF 401 (printed p. 387: the end of the Ṛk 10.1 grammar, then Ṛk 10.2). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
 `vol2/vol2_pass_log.md` (one entry per batch).
@@ -25,11 +25,12 @@ Saṃhitā block), `addnote.py` (note on a printed page; handles "### Pages N–
 | PDF 1–100 | front matter, 1–86 | all numeral boxes read and placed; references corrected (many Special-Topics lists were wrong, not only uncertain); quotations re-read; word [?] resolved where the print settles them; Saṃhitā accents Ṛks 3.1–3.12; note at Rk 3.5 (p. 38) rewritten (Saṃhitā accented, Pada unaccented); anuvāka table p. 2 read |
 | PDF 101–200 | 87–186 | all 1593 boxes read and placed; references corrected / [?] resolved; grammar re-read and rewritten from the scan on pp. 155, 157, 158, 160, 162, 163, 165, 168–169, 171, 176, 178–179, 183–184, 186; bhāṣya garbles fixed pp. 158, 161, 171, 182, 186; page-header vargas read (pp. 89–109 = 7, 111–143 = 8, 145–173 = 9, 175– = 10); Saṃhitā accents Ṛks 4.1–4.10, 5.1–5.8; header notes pp. 87–186 now "Saṃhitā accents as printed; Pada unaccented." |
 | PDF 201–300 | 187–286 | every page re-read; all printed references placed/corrected ("as printed" kept where the print differs); grammar paragraphs rewritten from the print on pp. 231–243, 246–256, 259–285; bhāṣya readings fixed (pp. 236, 244, 246, 251, 252, 259, 271, 283); Sūkta 6 closing varga = handwritten "12" over a struck-through "eighth"; Saṃhitā accents Ṛks 5.9–7.7; English misprints marked [sic] |
+| PDF 301–400 | 287–386 | every page re-read; all printed references placed/corrected ("as printed" kept where the print differs, listed below); bhāṣya re-transcribed in full where it was garbled or summarised (pp. 356, 362, 366, 369, 372, 377, 381–382), grammatical tails transcribed; grammar paragraphs rewritten from the print where they misstated it; Skandasvāmin, Yāska and Durgācārya quotations re-read (pp. 374, 382–385); end of Sūkta 9 (p. 380), Sūkta 10 introduction and header vargas 19, 20; Saṃhitā accents Ṛks 7.8–10.1 |
 
 ## To do
 
-1. (done) PDF 201–300.
-2. PDF 301–400 (accents from Ṛk 7.8 on), 401–500, 501–600, 601–700, 701–822 — same steps.
+1. (done) PDF 201–300, PDF 301–400.
+2. PDF 401–500 (accents from Ṛk 10.2 on), 501–600, 601–700, 701–822 — same steps.
 3. Numeric [?] that had **no box on the review pages** (the locator missed them) and still need a manual look:
    p. 83 Ni. "2-23" [?] and "kvan" [?]; p. 84 Ṛ. Saṃ. "6-6[?]-1[?]"; p. 85 U. "4-196" [?]; p. 86 "Part II, page 3" [?]
    and "10th" [?] Ṛk; p. 91 U. "3-3[?]8"; p. 98 "6-2-102" [?]; p. 113 Ni. "2-1[?]"; p. 114 Ni. "3-8" [?] and Phiṭ
@@ -52,6 +53,7 @@ other 229 sit in passages this pass rewrote, so they cannot be matched by their 
 itself was scanned: every [?] still left on pp. 1–186 is listed below or under To do item 3, so none of the 229 is
 open without being listed. The worklist added one reading the lists lacked (p. 112 "vocēyuḥ" [?], now listed). The worklist's page
 numbers can be off by a page or two (e.g. its "pp. 168–169" Uṇādi "4-135" [?] is p. 214 in the file, next batch).
+Batch 301–400: 510 Vol 2 rows for printed pp. 285–388, again with no reviewer input. The current file was scanned for pp. 287–386: every [?] / [accent ?] left there is in the lists below; rows that seem "still flagged" by their text are matches to the same phrases on p. 387 or later (next batch).
 
 ## Open readings (the print does not settle them; kept [?])
 
@@ -64,14 +66,14 @@ numbers can be off by a page or two (e.g. its "pp. 168–169" Uṇādi "4-135" [
   line-break); p. 168 "6-1-62" [?]; p. 184 "14-628" [?].
 - pp. 187–286 (batch 201–300): p. 188 Ṛ. "6-73-1" [?] (printed "2-3?-1"); p. 194 "ārcatrayo" line [?]; p. 200 Phi. 82 [?]; p. 202 "ata parī[?]", Āśv. 6-4 [?]; p. 209 Ni. 2-27 [?]; p. 218 printed "8-1-18" [?]; p. 233 Pari. 23 [?]; p. 237/240 Uṇ. 1-37 [?]; p. 240 1-1-52 [?], 8-3-59 [?]; p. 243 dhā. numbers [?], 3-1-97 [?]; p. 244 3-1-30 [?]; p. 246 Ni. 7-1 [?] (7 or 2); p. 248 printed "5-7-3" [?]; p. 252 6-1-182 [?]; p. 257 Āśv. 7-2 [?]; p. 261 MS 7-2-6 [?], Ni. 2-23 [?], Uṇ. 2-241 [?]; p. 266 Uṇ. 4-[?], 5-[?]; p. 271 Uṇ. 4-67/4-68 [?], 4-503 [?]; p. 274 "Ni. 3-9" [?], Phi. 59 [?]; pp. 276/277 Uṇ. 3-152 / 3-402 [?]; p. 279 Uṇ. 2-170 [?]; p. 281 Ni. 2-21 [?]; p. 284 Ṛ. 8-64-6 [?].
 - Accents: [accent ?] on Ṛks 6.9 (line 2), 7.1 (line 1: stroke and bar on "gā"), 7.3 (stroke placement over "sū"; "gobhir").
-- pp. 287–380 (batch 301–400, in progress): p. 287 Uṇ. 1-142 [?]; p. 288 Ṛ. 8-64-6 [?]; p. 293 Uṇ. 1-154 [?], 4-691 [?]; p. 296 Ni. "3-7" [?]; p. 305 Uṇ. 4-547 [?]; p. 316 Uṇ. 2-12 [?], 2-33 [?], 1-136 [?]; p. 322 Ni. "2-24" [?], "3-9" [?]; p. 323 Uṇ. 4-558 [?]; p. 330 Niru. "1-11-38" [?]; p. 332 Ṛ. 8-92-2 [?] (last digit); p. 341 Uṇ. 1-142 [?], 2-164 [?]; p. 344 Ni. "3-9" [?] (twice); p. 345 Uṇ. 4-645 [?]; p. 346 Uṇ. 1-149 [?], 4-631 [?]; p. 354 Ṛ. 1-27-9 [?]; p. 358 Uṇ. 3-406 [?], 3-405 [?], 4-498 [?]; p. 360 Uṇ. 4-628 [?], 3-328 [?]; p. 379 Uṇ. "2-2-42" [?] (three-part number; third digit ೪ or ೮).
-- Words, pp. 287–380: p. 366 "स्यदर्थत्वात्" kept as printed [?] (sense expects ण्यदर्थ…); p. 372 "मिमित" kept as printed [sic: मिमीते].
-- Accents, pp. 287–380: [accent ?] on Ṛks 7.9 (p. 294, line 2: a stroke missing), 8.1 (p. 303, stroke over "va" of varṣiṣṭham), 8.5 (p. 319, both lines: stroke joined to a bar over "śavaḥ"), 8.6 (p. 324, line 1: faint bar under "sya"), 8.9 (p. 336, both lines: placement), 8.10 (p. 339, line 2: placement).
+- pp. 287–386 (batch 301–400): p. 287 Uṇ. 1-142 [?]; p. 288 Ṛ. 8-64-6 [?]; p. 293 Uṇ. 1-154 [?], 4-691 [?]; p. 296 Ni. "3-7" [?]; p. 305 Uṇ. 4-547 [?]; p. 316 Uṇ. 2-12 [?], 2-33 [?], 1-136 [?]; p. 322 Ni. "2-24" [?], "3-9" [?]; p. 323 Uṇ. 4-558 [?]; p. 330 Niru. "1-11-38" [?]; p. 332 Ṛ. 8-92-2 [?] (last digit); p. 341 Uṇ. 1-142 [?], 2-164 [?]; p. 344 Ni. "3-9" [?] (twice); p. 345 Uṇ. 4-645 [?]; p. 346 Uṇ. 1-149 [?], 4-631 [?]; p. 354 Ṛ. 1-27-9 [?]; p. 358 Uṇ. 3-406 [?], 3-405 [?], 4-498 [?]; p. 360 Uṇ. 4-628 [?], 3-328 [?]; p. 379 Uṇ. "2-2-42" [?] (three-part number; third digit ೪ or ೮).
+- Words, pp. 287–386: p. 366 "स्यदर्थत्वात्" kept as printed [?] (sense expects ण्यदर्थ…); p. 372 "मिमित" kept as printed [sic: मिमीते].
+- Accents, pp. 287–386: [accent ?] on Ṛks 7.9 (p. 294, line 2: a stroke missing), 8.1 (p. 303, stroke over "va" of varṣiṣṭham), 8.5 (p. 319, both lines: stroke joined to a bar over "śavaḥ"), 8.6 (p. 324, line 1: faint bar under "sya"), 8.9 (p. 336, both lines: placement), 8.10 (p. 339, line 2: placement).
 - Accents: [accent ?] on Ṛks 1.3 (p. 24), 3.5 (p. 38), 4.10 (p. 129) — a mark too faint to judge.
 
 ## To be reviewed by the user (changes beyond numerals, or judgement calls)
 
-- Batch 301–400 so far (pp. 287–380): numbers kept "as printed" where they differ from the usual ones — Niru. "6-17-18" (p. 287), "13-3-174" (p. 290), "3-4-75" (p. 305), "9-2-199 vā. 1" (pp. 308–310), "8- -17" (p. 320), "6-3-1-36", "321-4", "6-1-6-1-101" (pp. 333–334), "5-2-9", Phi. "8-4", "7-2-3" (p. 338), "2-1-10" (p. 347), "5-4-197" (pp. 350–352), Ni. "4-2-6" (p. 357), vā. sū. "1-4-87", pā. ma. "3-1-3-2", "1-0-7" (pp. 360–361), tyadādīnām aḥ "6-2-102" (p. 363), Uṇ. "4-628" (p. 364), keśād vo "5-3-109" (p. 365; 5-2-109 on p. 364), Uṇ. "1-28" (p. 368; bhāṣya 1-29), seryapicca "3-4-80" (p. 371), patyāv aiśvarye "6-1-18" (p. 374; bhāṣya 6-2-18), ghumāsthā "7-4-66" (p. 375; bhāṣya 6-4-66), iko yaṇ aci "6-4-77" (p. 379), Uṇ. "4-578" (p. 380; bhāṣya 4-138), "va. sū." for pā. sū. (p. 379); Ni. "5-4" for the Yāska quotation (p. 385; bhāṣya on p. 382 gives 5-5).
+- Batch 301–400 (pp. 287–386): numbers kept "as printed" where they differ from the usual ones — Niru. "6-17-18" (p. 287), "13-3-174" (p. 290), "3-4-75" (p. 305), "9-2-199 vā. 1" (pp. 308–310), "8- -17" (p. 320), "6-3-1-36", "321-4", "6-1-6-1-101" (pp. 333–334), "5-2-9", Phi. "8-4", "7-2-3" (p. 338), "2-1-10" (p. 347), "5-4-197" (pp. 350–352), Ni. "4-2-6" (p. 357), vā. sū. "1-4-87", pā. ma. "3-1-3-2", "1-0-7" (pp. 360–361), tyadādīnām aḥ "6-2-102" (p. 363), Uṇ. "4-628" (p. 364), keśād vo "5-3-109" (p. 365; 5-2-109 on p. 364), Uṇ. "1-28" (p. 368; bhāṣya 1-29), seryapicca "3-4-80" (p. 371), patyāv aiśvarye "6-1-18" (p. 374; bhāṣya 6-2-18), ghumāsthā "7-4-66" (p. 375; bhāṣya 6-4-66), iko yaṇ aci "6-4-77" (p. 379), Uṇ. "4-578" (p. 380; bhāṣya 4-138), "va. sū." for pā. sū. (p. 379); Ni. "5-4" for the Yāska quotation (p. 385; bhāṣya on p. 382 gives 5-5).
 - Batch 301–400 judgement calls: p. 365 (Ṛk 9.7) the bar first taken as an unclear mark above line 2 is read as line 1's anudātta under द्र (pushed down by the subscript), giving इन्द्र॒; p. 369 Pratipadārtha *śravaḥ* changed from "wealth" to "fame" (print ಕೀರ್ತಿ); p. 370 Ṛ. 1-126-1 read with the first digit of 126 damaged; p. 370 the Nirukta quotation "śravaś cāpi paśum ucche…" and p. 374 "ṣṇiha upatāpe" kept as printed; bhāṣya passages re-transcribed in full where the earlier text was garbled or summarised (pp. 362, 366, 369, 372, 377) — worth a read.
 
 - Batch 201–300: p. 257 Sūkta 6 colophon — the print's "ಎಂಟನೆಯ" (eighth) varga is struck through and "12" handwritten; the file now says twelfth. Grammar paragraphs pp. 231–285 rewritten from the print (style check welcome). p. 283 bhāṣya prints "somāḥ" for "stomāḥ" (kept as printed).
