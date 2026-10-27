@@ -15079,91 +15079,269 @@ is called *aṅga* when that suffix follows) the name *aṅga* applies. So by "h
 
 ## ॥ ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 17 — *"indrāvaruṇayor aham"* ("The Seventeenth Sūkta")
 
-**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed p. 708)**
+*(Printed p. 708 opens with the title ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು ("The Seventeenth Sūkta") and an ornament.)*
 
-> इन्द्रावरुणयोरित्यादिकं नवर्चं षष्ठं सूक्तम् । अत एव नवर्चत्वानुवृत्त्या [?] ऽनुक्रम्यते । इन्द्रावरुणयोरैन्द्रावरुणं युवाकु पादनिचृताविति [?] । अत्र देवता विस्पष्टा । ऋषिच्छन्दसी तु पूर्ववदनुवर्तेते । अयं तु विशेषः । युवाकु हीत्यादिके द्वे ऋचौ पादनिचृन्नामकच्छन्दोयुक्ते ॥ विनियोगस्तु स्मार्तो लैङ्गिको वा कश्चिदवगन्तव्यः ॥
+### Page 708 — Sūkta 17: introduction, heading, Rik 1 Saṃhitā
+
+**॥ Sāyaṇa-bhāṣyam ॥** (introductory note)
+
+*(वनुक्रम्यते is as printed, probably for ऽनुक्रम्यते.)*
+
+> इन्द्रावरुणयोरित्यादिकं नवर्चं षष्ठं सूक्तम् । अत एव नवशब्दानुवृत्त्यावनुक्रम्यते । इन्द्रावरुणयोरैन्द्रावरुणं युवाकु पादनिचृताविति । अत्र देवता विस्पष्टा । ऋषिच्छन्दसी तु पूर्ववदनुवर्तेते । अयं तु विशेषः । युवाकु हीत्यादिके द्वे ऋचौ पादनिचृन्नामकच्छन्दोयुक्ते ॥ विनियोगस्तु स्मार्तो लैङ्गिको वा कश्चिदवगन्तव्यः ॥
 >
-> *indrāvaruṇayor ity-ādikaṃ navarcaṃ ṣaṣṭhaṃ sūktam | ata eva navarcatvānuvṛttyā [?] 'nukramyate | indrāvaruṇayor aindrāvaruṇaṃ yuvāku pādanicṛtāv iti [?] | atra devatā vispaṣṭā | ṛṣi-chandasī tu pūrvavad anuvartete | ayaṃ tu viśeṣaḥ | yuvāku hīty-ādike dve ṛcau pādanicṛn-nāmaka-chandoyukte || viniyogas tu smārto laiṅgiko vā kaścid avagantavyaḥ ||*
+> *indrāvaruṇayorityādikaṃ navarcaṃ ṣaṣṭhaṃ sūktam | ata eva navaśabdānuvṛttyāvanukramyate | indrāvaruṇayoraindrāvaruṇaṃ yuvāku pādanicṛtāviti | atra devatā vispaṣṭā | ṛṣicchandasī tu pūrvavadanuvartete | ayaṃ tu viśeṣaḥ | yuvāku hītyādike dve ṛcau pādanicṛnnāmakacchandoyukte || viniyogastu smārto laiṅgiko vā kaścidavagantavyaḥ ||*
 
-**Translation:** "The nine-rik sūkta beginning *indrāvaruṇayoḥ* is the sixth [of this anuvāka]. So the Anukramaṇikā says [the quotation, read as *indrāvaruṇayor aindrāvaruṇaṃ yuvāku pādanicṛtau*, is uncertain [?]]: 'to Indra and Varuṇa; the two riks *yuvāku hi* … [are] *pādanicṛt*'. Here the deity is plain [Indra and Varuṇa]. The ṛṣi and meter continue as before [Medhātithi Kāṇva; Gāyatrī]; but there is this particularity: the two riks beginning *yuvāku hi* [and *indraḥ sahasradāvnām*] are in the meter called *pādanicṛt*. Its application (*viniyoga*) is to be understood from the *smārta* or *laiṅgika* usage [i.e. from the Smṛti or from the sense of the rik]."
+**Translation:** "The sūkta beginning *indrāvaruṇayoḥ*, of nine ṛks, is the sixth. So, with the word 'nine' carried on, the Anukramaṇī states: '*indrāvaruṇayoḥ*, to Indra and Varuṇa; *yuvāku*, two in *pādanicṛt*'. Here the deity is plain; the ṛṣi and the metre continue as before. This, however, is special: the two ṛks beginning *yuvāku hi* have the metre called *pādanicṛt*. The application is to be understood as some *smārta* or *laiṅgika* one."
 
-**॥ Anuvāda (Kannada rendering) ॥** The sūkta *indrāvaruṇayoḥ* is the sixth sūkta of the fourth anuvāka and has nine riks. In the Anukramaṇikā the riks 4 and 5 [*yuvāku hi śacīnām* and *indraḥ sahasradāvnām*] are said to be in the meter *pādanicṛt*. Indra and Varuṇa are the deities. The ṛṣi and meter are as in the earlier sūktas, but those two riks alone have the meter *pādanicṛt*. The application is to be learnt from the *smārta* usage.
-
-### Pages 708–711 — Sūkta 17, Rik 1
+**Anuvāda (Kannada rendering):** *Indrāvaruṇayoḥ* is the sixth sūkta in this fourth anuvāka. It has nine ṛks. In the Anukramaṇikā the 4th and 5th ṛks are said to be ṛks of the metre called *pādanicṛt*. Indra and Varuṇa are the deities. The ṛṣi and metre are as in the previous sūkta; but the two ṛks *yuvāku hi śacīnām* and *indraḥ sahasradāvnām* alone have the metre named *pādanicṛt*. The application may be learnt by looking at the *smārta* usage.
 
 **॥ ॐ ॥**
 
 **॥ Sūkta — 17 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 4 ॥ Sūkta — 17 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 32, 33 [?] ॥** *(small-print Kannada digits, re-read at 300 dpi; reasonably clear, but given [?] as for earlier headings)*
-**॥ Mantras contained in this sūkta: 1–9 ॥**
-**॥ Ṛṣi — Medhātithi Kāṇva ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 32, 33 ॥**
+**॥ Number of ṛks in the sūkta: 1–9 ॥**
+**॥ Ṛṣiḥ — Medhātithiḥ Kāṇvaḥ ॥**
 **॥ Devatā — Indrāvaruṇau ॥**
-**॥ Chandaḥ — 1–3 and 6–9, Gāyatrī; 4 and 5, Pādanicṛt ॥** *(as printed: "೧–೩, ೬–೯, ಗಾಯತ್ರೀ । ೪, ೫, ಪಾದನಿಚೃತ್")*
+**॥ Chandaḥ — 1–3, 6–9, Gāyatrī; 4, 5, Pādanicṛt ॥**
+
+### Sūkta 17, Rik 1
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रावरुणयोरहं सम्राजोरव आ वृणे ।
-> ता नो मृळात ईदृशे ॥१॥
+> इन्द्रा॒वरु॑णयोर॒हं स॒म्राजो॒रव॒ आ वृ॑णे ।
+> ता नो॑ मृळात ई॒दृशे॑ ॥१॥
 >
-> *indrāvaruṇayor ahaṃ samrājor ava ā vṛṇe |*
-> *tā no mṛḷāta īdṛśe ||1||*
+> *indrāváruṇayor aháṃ samrā́jor áva ā́ vṛṇe |*
+> *tā́ no mṛḷāta īdṛ́śe ||1||*
+
+### Page 709 — Rik 1: Pada, bhāṣya, word-meanings
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > इन्द्रावरुणयोः । अहम् । सम्ऽराजोः । अवः । आ । वृणे ॥
 > ता । नः । मृळातः । ईदृशे ॥१॥
 >
-> *indrāvaruṇayoḥ | aham | sam-rājoḥ | avaḥ | ā | vṛṇe ||*
+> *indrāvaruṇayoḥ | aham | sam 'rājoḥ | avaḥ | ā | vṛṇe ||*
 > *tā | naḥ | mṛḷātaḥ | īdṛśe ||1||*
 
-*(Accent-marks are printed in the source; not reproduced, per the convention for the later riks of this volume.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 709; compressed; [?] marks doubtful readings)*
+*(समो before मोऽनुस्वारः is as read; the first letter may be स or a misprint.)*
 
-> अहमनुष्ठाता सम्राजोः समीचीनराज्योपेतयोः सम्यग्दीप्यमानयोर्वेन्द्रावरुणयोर्देवयोः सम्बन्ध्यवो रक्षणमा वृणे । सर्वतः प्रार्थये । ता तौ देवावीदृशे एवंविधेऽस्मदीयवरणे निमित्तभूते सति मृळातः । अस्मान्सुखयतः ॥ इन्द्रशब्दो रन्प्रत्ययान्तः । वरुणशब्द उनन्प्रत्ययान्तः । उभौ नित्त्वादाद्युदात्तौ । समासे देवताद्वन्द्वे चेति पूर्वपदस्यानङादेशः । उभे युगपदित्यनुवृत्तौ देवताद्वन्द्वे चेति युगपदुभयपदे प्रकृतिस्वरत्वम् । सम्राजोः । राज दीप्तौ । सत्सूद्विषेत्यादिना क्विप् । समो मोऽनुस्वारः । पा. [८-३-२३] इत्यनुस्वारे प्राप्ते नो राजि समुः क्वौ । पा. [८-३-२५] इति मकारादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । अवः । अव रक्षणादिषु । भावेऽसुन् । नित्त्वादाद्युदात्तः । ता । सुपां सुलुगित्यादिना द्विवचनस्य डादेशः । टिलोपे विभक्तेरुदात्तनिवृत्तिस्वरः । मृळातः । मृड सुखने । प्रार्थनायां लिङर्थे लेट् । द्विवचनं तस् । लेटोऽडाटाविति नित्यमडागमः । तुदादिभ्यः शः । जित्त्वाल्लघूपधगुणाभावः । ईदृशे । त्यदादिषु दृशोऽनालोचने कञ् च । पा. [३-२-६०] । इतीदंशब्द उपपदे दृशेः कञ् । उपपदसमास । इदंकिमोरीश्की । पा. [६-३-९०] । इतीदमु ईश् । शित्त्वात्सर्वादेशः । कञः कित्त्वाद्गुणाभावः । ञित्त्वादुत्तरपदस्याद्युदात्तत्वम् । उपपदसमासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते ॥१॥
+> अहमनुष्ठाता सम्राजोः समीचीनराज्योपेतयोः सम्यग्दीप्यमानयोर्वेन्द्रावरुणयोर्देवयोः संबन्ध्यवो रक्षणमा वृणे । सर्वतः प्रार्थये । ता तौ देवावीदृशे एवंविधेऽस्मदीयवरणे निमित्तभूते सति मृळातः । अस्मान्सुखयतः ॥ इन्द्रशब्दो रन्प्रत्ययान्तः । वरुणशब्द उनन्प्रत्ययान्तः । उभौ नित्त्वादाद्युदात्तौ । समासे देवताद्वन्द्वे चेति पूर्वपदस्यानङादेशः । उभे युगपदित्यनुवृत्तौ देवताद्वन्द्वे चेति युगपदुभयपदप्रकृतिस्वरत्वम् । सम्राजोः । राजृ दीप्तौ । सत्सूद्विषेत्यादिना क्विप् । समो[?] मोऽनुस्वारः । पा. ८-३-२३ । इत्यनुस्वारे प्राप्ते मो राजि समः क्वौ । पा. ८-३-२५ । इति मकारादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । कर्तृकर्मणोः कृति । पा. २-३-६५ । इति कर्तरि षष्ठी । अवः । अव रक्षणादिषु । भावेऽसुन् । नित्त्वादाद्युदात्तः । ता । सुपां सुलुगित्यादिना द्विवचनस्य डादेशः । टिलोपे विभक्तेरुदात्तनिवृत्तिस्वरः । मृळातः । मृड सुखने । प्रार्थनायां लिङर्थे लेट् । द्विवचनं तस् । लेटोऽडाटावित्याडागमः । तुदादिभ्यः शः । ङित्त्वाल्लघूपधगुणाभावः । ईदृशे । त्यदादिषु दृशोऽनालोचने कञ्च । पा. ३-२-६० । इतीदंशब्द उपपदे दृशेः कञ् । उपपदसमास इदंकिमोरीश्की । पा. ६-३-९० । इतीदम ईश् । शित्त्वात्सर्वादेशः । कञः कित्त्वाद्गुणाभावः । ञित्त्वादुत्तरपदस्याद्युदात्तत्वम् । उपपदसमासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते ॥
 >
-> *aham anuṣṭhātā samrājoḥ samīcīna-rājyopetayoḥ samyag-dīpyamānayor vendrāvaruṇayor devayoḥ sambandhy avo rakṣaṇam ā vṛṇe | sarvataḥ prārthaye | tā tau devāv īdṛśe evaṃvidhe 'smadīya-varaṇe nimitta-bhūte sati mṛḷātaḥ | asmān sukhayataḥ || indra-śabdo ran-pratyayāntaḥ | varuṇa-śabda unan-pratyayāntaḥ | ubhau nittvād ādyudāttau | samāse devatā-dvandve ceti pūrvapadasyānaṅādeśaḥ | ubhe yugapad ity anuvṛttau devatā-dvandve ceti yugapad ubhaya-pade prakṛti-svaratvam | samrājoḥ | rāja dīptau | sat-sūd-viṣety-ādinā kvip | samo mo 'nusvāraḥ | pā. [8-3-23] | ity anusvāre prāpte no rāji samuḥ kvau | pā. [8-3-25] | iti makārādeśaḥ | kṛd-uttarapada-prakṛti-svaratvam | avaḥ | ava rakṣaṇādiṣu | bhāve 'sun | nittvād ādyudāttaḥ | tā | supāṃ sulug ity-ādinā dvivacanasya ḍādeśaḥ | ṭilope vibhakter udātta-nivṛtti-svaraḥ | mṛḷātaḥ | mṛḍa sukhane | prārthanāyāṃ liṅarthe leṭ | dvivacanaṃ tas | leṭo 'ḍāṭāv iti nityam aḍāgamaḥ | tudādibhyaḥ śaḥ | ñittvāl laghūpadha-guṇābhāvaḥ | īdṛśe | tyadādiṣu dṛśo 'nālocane kañ ca | pā. [3-2-60] | itīdaṃ-śabda upapade dṛśeḥ kañ | upapada-samāsa | idaṃ-kimor īśkī | pā. [6-3-90] | itīdam u īś | śittvāt sarvādeśaḥ | kañaḥ kittvād guṇābhāvaḥ | ñittvād uttarapadasyādyudāttatvam | upapada-samāse kṛd-uttarapada-prakṛti-svaratvena tad eva śiṣyate ||1||*
+> *ahamanuṣṭhātā samrājoḥ samīcīnarājyopetayoḥ samyagdīpyamānayorvendrāvaruṇayordevayoḥ saṃbandhyavo rakṣaṇamā vṛṇe | sarvataḥ prārthaye | tā tau devāvīdṛśe evaṃvidhe 'smadīyavaraṇe nimittabhūte sati mṛḷātaḥ | asmānsukhayataḥ || indraśabdo ranpratyayāntaḥ | varuṇaśabda unanpratyayāntaḥ | ubhau nittvādādyudāttau | samāse devatādvandve ceti pūrvapadasyānaṅādeśaḥ | ubhe yugapadityanuvṛttau devatādvandve ceti yugapadubhayapadaprakṛtisvaratvam | samrājoḥ | rājṛ dīptau | satsūdviṣetyādinā kvip | samo[?] mo 'nusvāraḥ | pā. 8-3-23 | ityanusvāre prāpte mo rāji samaḥ kvau | pā. 8-3-25 | iti makārādeśaḥ | kṛduttarapadaprakṛtisvaratvam | kartṛkarmaṇoḥ kṛti | pā. 2-3-65 | iti kartari ṣaṣṭhī | avaḥ | ava rakṣaṇādiṣu | bhāve 'sun | nittvādādyudāttaḥ | tā | supāṃ sulugityādinā dvivacanasya ḍādeśaḥ | ṭilope vibhakterudāttanivṛttisvaraḥ | mṛḷātaḥ | mṛḍa sukhane | prārthanāyāṃ liṅarthe leṭ | dvivacanaṃ tas | leṭo 'ḍāṭāvityāḍāgamaḥ | tudādibhyaḥ śaḥ | ṅittvāllaghūpadhaguṇābhāvaḥ | īdṛśe | tyadādiṣu dṛśo 'nālocane kañca | pā. 3-2-60 | itīdaṃśabda upapade dṛśeḥ kañ | upapadasamāsa idaṃkimorīśkī | pā. 6-3-90 | itīdama īś | śittvātsarvādeśaḥ | kañaḥ kittvādguṇābhāvaḥ | ñittvāduttarapadasyādyudāttatvam | upapadasamāse kṛduttarapadaprakṛtisvaratvena tadeva śiṣyate ||*
 
-**Translation:** "I, the performer [of the rite], choose (*ā vṛṇe*) — pray for on all sides — the protection (*avaḥ*) belonging to the two gods Indra and Varuṇa, who are *samrājau*: possessed of sovereign power, well radiant. May those two gods, on this occasion — which is the occasion of our such choice [prayer] — make us happy (*mṛḷātaḥ*)." The rest is grammar, noted briefly: *indra* (Uṇādi *ran*) and *varuṇa* (Uṇādi *unan*), both first-syllable accented through the *n*-mark; the dvandva of deities takes the substitute *ānaṅ* for the first member (P. 6-3-26 *devatādvandve ca*) and both members keep their own accent; *samrājoḥ* (*rāj* "to shine", *kvip*, *m* for *s*; P. 8-3-25 *no rāji samaḥ kvau*; P. 8-3-23 *mo 'nusvāraḥ* would give an *anusvāra*, but the rule makes it *m*); *avaḥ* (*av* "to protect", *asun*, first-syllable accent); *tā* (the dual ending replaced by *ā* by P. 7-1-39); *mṛḷātaḥ* (*mṛḍ* "to make happy", *leṭ* in the sense of a wish; the augment *aṭ*; *śa* of the *tudādi* class, no guṇa); *īdṛśe* (*dṛś* with *kañ* after *idam*, P. 3-2-60 *tyadādiṣu dṛśo 'nālocane kañ ca*; *idam* → *īś* by P. 6-3-90 *idaṃkimor īśkī*). *(Grammar, noted briefly; P. 8-3-25, 3-2-60 and 6-3-90 as read agree with the standard numbering.)*
+**Translation:** "I, the performer, *ā vṛṇe*, pray from all sides for the *avaḥ*, protection, belonging to the two gods Indra and Varuṇa, *samrājau*, possessed of excellent sovereignty, or shining well. May those two gods, *īdṛśe*, on such an occasion, our choosing [them] being the cause, *mṛḷātaḥ*, make us happy." (Grammatical tail: *indra* ends in *ran*, *varuṇa* in *unan*, both initial udātta as *nit*; in the compound *ānaṅ* for the first member by *devatādvandve ca*, and, with *ubhe yugapat* carried on, both members keep their own accent at once by *devatādvandve ca*; *samrājoḥ*, *rājṛ dīptau*, *kvip* by *satsūdviṣa…*, the *anusvāra* due by Pā. 8-3-23 replaced by *m* by Pā. 8-3-25, the accent of the *kṛt* final member, the genitive of agent by Pā. 2-3-65; *avaḥ*, *ava rakṣaṇādiṣu*, *asun* in the sense of the action, initial udātta as *nit*; *tā*, *ḍā* for the dual ending by *supāṃ suluk…*, with the loss of the *ṭi* the case-ending takes the accent of the lost udātta; *mṛḷātaḥ*, *mṛḍa sukhane*, *leṭ* in the sense of *liṅ*, of a prayer, dual *tas*, the augment *āṭ* by *leṭo 'ḍāṭau*, *śa* by *tudādibhyaḥ śaḥ*, no *guṇa* of the light penultimate as it is *ṅit*; *īdṛśe*, *kañ* after *dṛś* with *idam* as *upapada* by Pā. 3-2-60, *īś* for *idam* in the *upapada* compound by Pā. 6-3-90, replacing the whole as it is *śit*, no *guṇa* as *kañ* is *kit*, initial udātta of the final member as *ñit*, and that alone stays by the accent of the *kṛt* final member.)
 
-**Grammar pages (pp. 712–714 upper), noted briefly.** The Kannada Vyākaraṇa-prakriyā for Rik 1 treats: *indrāvaruṇayoḥ* (a dvandva *indraś ca varuṇaś ca*; *indra* from *indi* "to be powerful" [sic: the print gives the root as *idi/indi* with *num*] with Uṇādi *ran* [Uṇ. 2-28 as read], the *num* augment by P. 7-1-58 *idito num dhātoḥ*; *varuṇa* from *vṛñ* "to choose/cover" [or *dvi-dāraṇe* "to split"] with the Uṇādi *unan*, guṇa by P. 7-3-84, *raparatva* by P. 1-1-51, *ṇatva* by P. 8-4-2 [*aṭkupvāṅnumvyavāye 'pi*]; both end in a suffix carrying *n*, so are first-syllable accented by P. 6-1-197 *ñnityādir nityam*; the substitute *ānaṅ* for the first member by P. 6-3-26 *devatādvandve ca*, which has the *ñ* marker so replaces the final letter by P. 1-1-53 *ṅic ca*; *nalopaḥ prātipadikāntasya* P. 8-2-7; both members keep their own accent by P. 6-2-141 *devatādvandve ca* with *ubhe vanaspatyādiṣu yugapat* P. 6-2-140 [as read]; and the genitive dual *os* — the Kannada adds a long note, on the compound as an instance of *kṛt*-derived words, that *indrāvaruṇayoḥ* in the genitive means "of the two who are the subjects of protection" by P. 2-3-65 *kartṛkarmaṇoḥ kṛti* — the genitive case after a word ending in a *kṛt* suffix whose root's agent or object it is: *ava* "protection", from *av* + *asun*, has *indrāvaruṇayoḥ* as its agent, so the genitive; the same applies to *samrājoḥ*), *samrājoḥ* (*rāj* "to shine", *kvip* by P. 3-2-61 *sat-sūdviṣa-druha-duha-yuja-vida-bhida-chida-jī-nī-rājām upasarge 'pi kvip*; *sam* + *rāj*, with *mo 'nusvāraḥ* P. 8-3-23 applying to the *m*; but *no rāji samaḥ kvau* P. 8-3-25 gives *m* itself, hence *samrāj*), *avaḥ* (*ava rakṣaṇe*; *sarvadhātubhyo 'sun* Uṇ. 4-[?]; *n*-mark so first-syllable accent; the genitive-agent point above), *tā* (*tad* + *au*; *supāṃ sulug…* P. 7-1-39 giving *ḍā*; *ṭeḥ* dropped by P. 6-4-143 [as read]; the accent of the ending lost by *anudāttasya ca yatrodāttalopaḥ* P. 6-1-161), *mṛḷātaḥ* (*mṛḍ sukhane*; *liṅarthe leṭ* P. 3-4-7; *tas*; *leṭo 'ḍāṭau* P. 3-4-94 gives the augment *aṭ*, which, being *kit*, is the first part of the word; *tudādibhyaḥ śaḥ* P. 3-1-77; *sārvadhātukam apit* P. 1-2-4 makes it *ṅit*, so no guṇa by P. 1-1-5 *kṅiti ca*; and *pugantalaghūpadhasya ca* P. 7-3-86 is therefore also barred; *ḍ* → *ḷ* in the Veda by the Ṛgvedic rule on *ḍ*), and *īdṛśe* (*idam* + *dṛś*; P. 3-2-60 *tyadādiṣu dṛśo 'nālocane kañ ca*: *kañ* after *dṛś* in a sense other than seeing when a word of the *tyadādi* group precedes; the *ca* adds *kvin* optionally; the compound *upapadam atiṅ* P. 2-2-19; *supo dhātuprātipadikayoḥ* P. 2-4-71 drops the case-ending; P. 6-3-90 *idaṃkimor īśkī* gives *īś* for *idam* [*īś* has the *ś* marker, so replaces the whole word by P. 1-1-55 *anekāl-śit sarvasya*]; *dṛś* + *a* with no guṇa because *kañ* is *kit*; *ñ* marker gives the accent of the final member by P. 6-1-197 [read as 6-1-193?]; the locative singular *ṅi* → *e*; the first-syllable accent of *dṛśa* retained by the compound rule P. 6-2-139 *gatikārakopapadāt kṛt*; the whole *īdṛśe* thus accented on *mṛ*? — the print ends *īdṛśe, ಎಂಬುದು ಮಧ್ಯೋದಾತ್ತ*, i.e. "*īdṛśe* is middle-accented" [?], which I give as read). ॥1॥ *(Numerals as read; pointers only; a crowded run; outline only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 709)*
+**अहम् (aham)** — I (the performer of the sacrifice) | **सम्राजोः (samrājoḥ)** — who shine well, or who have good sovereignty | **इन्द्रावरुणयोः (indrāvaruṇayoḥ)** — of Indra and Varuṇa | **अवः (avaḥ)** — protection | **आ वृणे (ā vṛṇe)** — I pray for (on all sides) | **ता (tā)** — those two deities | **ईदृशे (īdṛśe)** — in this matter of our prayer | **नः (naḥ)** — to us | **मृळातः (mṛḷātaḥ)** — may they give happiness.
 
-**अहम् (aham)** — I (the performer of the rite) | **सम्राजोः (samrājoḥ)** — those who shine well, or those possessed of good sovereignty | **इन्द्रावरुणयोः (indrāvaruṇayoḥ)** — of Indra and Varuṇa | **अवः (avaḥ)** — protection | **आ वृणे (ā vṛṇe)** — I pray for [from all sides] | **ता (tā)** — those two deities | **ईदृशे (īdṛśe)** — in this our prayer | **नः (naḥ)** — to us | **मृळातः (mṛḷātaḥ)** — let them make us happy.
+### Page 710 — Rik 1: overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** *(p. 710)*
+**॥ Bhāvārthaḥ ॥**
 
-I, who have begun the sacrifice, come to Indra and Varuṇa — mighty with radiance and kingship — in order that my sacrifice may be completed in all its parts, and I pray for their protection. May they hear this prayer of mine and make me happy.
+I, who have begun the sacrifice, with the aim that my sacrifice be completed in all its parts, take refuge with Indra and Varuṇa, who are very radiant and possessed of sovereignty. May they fulfil this prayer of mine and give me joy.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I seek the protection of the sovereign rulers Indra and Varuna; may they both favour us accordingly.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 710–711)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The deities of this sūkta are the two, Indra and Varuṇa. In the Ṛgveda it is seen that two deities are very often invoked together, and praised together. The mantras that praise two deities together (*devatādvandva*) are called *saṃstavika* mantras. The chief deities in them are — Agni, Soma, Varuṇa, Pūṣan, Bṛhaspati, Brahmaṇaspati, Parvata, Kutsa, Viṣṇu, Vāyu, Mitra, Rudra, Vāta and Parjanya — fourteen in all. For example [the Kannada gives each pair with a citation; the small reference numerals in the print are partly unclear, so each is marked [?] and I give only the part of the reference I can read]:
+The deities of this sūkta are the two, Indra and Varuṇa. In the Ṛgveda, the calling of two deities together and their praise together is especially to be seen. Mantras setting forth such pairs of deities (*devatādvandvas*) are called *saṃstavika* mantras. The chief deities in them are fourteen: Agni, Soma, Varuṇa, Pūṣan, Bṛhaspati, Brahmaṇaspati, Parvata, Kutsa, Viṣṇu, Vāyu, Mitra, Rudra, Vāta and Parjanya. For example:
 
-- **इन्द्राग्नी** (indra + agni) — *indrāgnī rocanā divaḥ* — "Indra and Agni [light up] the bright places of the sky" (Ṛ. Saṃ. 3-12-9 [?]).
-- **इन्द्रासोमा** (indra + soma) — *indrāsomā sam aghaśaṃsam* (Ṛ. Saṃ. [7-104-2 ?]).
-- **इन्द्रावरुणा** (indra + varuṇa) — *indrāvaruṇā yuvam adhvarāya naḥ* (Ṛ. Saṃ. [8-59-1 ?]).
-- **इन्द्रापूषणा** (indra + pūṣan) — *indrāpūṣaṇā vayam* (Ṛ. Saṃ. [6-57-1 ?]).
-- **इन्द्राबृहस्पती** (indra + bṛhaspati) — *idaṃ vām āsye haviḥ priyam indrābṛhaspatī* (Ṛ. Saṃ. [4-49-1 ?]).
-- **इन्द्राब्रह्मणस्पती** (indra + brahmaṇaspati) — [the citation, read as] *ā …* *indrābrahmaṇaspatī haviṣā* [?] (the print shows *ātyaiṃdrā…*; I cannot give this one with confidence; Ṛ. Saṃ. [?]).
-- **इन्द्रापर्वता** (indra + parvata) — *indrāparvatā bṛhatā rathena* (Ṛ. Saṃ. [3-53-1 ?]).
-- **इन्द्राकुत्सा** (indra + kutsa) — *indrākutsā vahamānā rathena* (Ṛ. Saṃ. [5-31-9 ?]).
-- **इन्द्राविष्णू** (indra + viṣṇu) — *indrāviṣṇū dṛṃhitāḥ śambarasya* (Ṛ. Saṃ. [6-69-5 ?]).
-- **इन्द्रवायू** (indra + vāyu) — *indravāyū ime sutāḥ* (Ṛ. Saṃ. 1-2-4).
-- **मित्रावरुणा** (mitra + varuṇa) — *ā no mitrāvaruṇā* (Ṛ. Saṃ. [3-62-16 ?]).
-- **सोमापूषणा** (soma + pūṣan) — *somāpūṣaṇā jananā rayīṇām* (Ṛ. Saṃ. [2-40-1 ?]).
-- **सोमारुद्रा** (soma + rudra) — *somārudrā yuvam etāny asme* (Ṛ. Saṃ. [6-74-2 ?]).
-- **वातापर्जन्या** (vāta + parjanya) — *dhartāro divo ṛbhavaḥ suhastā vātāparjanyā mahiṣasya tanyatoḥ* (Ṛ. Saṃ. [10-66-10 ?]).
-- **अग्नीषोमौ** (agni + soma) — *agnīṣomāv imaṃ su me* (Ṛ. Saṃ. [1-93-1 ?]).
-- **अग्नीपर्जन्यौ** (agni + parjanya) — *agnīparjanyāv avataṃ dhiyaṃ me* (Ṛ. Saṃ. [6-52-16 ?]).
-- **अग्नाविष्णू** (agni + viṣṇu) — *agnāviṣṇū sajoṣasā* (Taittirīya Saṃhitā [4-2-?]).
+**इन्द्राग्नी** (indra + agni):
 
-*(Each IAST line above is also given in Devanagari in the print's Kannada script; I give the IAST and the Devanagari heading of the pair, as the Kannada glosses supply no English. Glosses of the pairs are the obvious ones — "Indra and Agni", etc. — and are mine.)* The Kannada adds that many riks have the *dvandva* deities in the singular rather than the dual — for example *agna indraś ca dāśuṣe duroṇe* (Ṛ. Saṃ. [3-25-4 ?]), *tvaṃ no agne varuṇasya vidvān* (Ṛ. Saṃ. [4-1-4 ?]), *marutaḥ pibata ṛtunā* (Ṛ. Saṃ. 1-15-1 [?]; the print gives "೧-೧೫-೨", i.e. 1-15-2, which is the rik of this very volume, the Rik 15.2 *marutaḥ pibata ṛtunā*; I follow the print's 1-15-2 [?]).
+> इन्द्राग्नी रोचना दिवः (Ṛ. saṃ. 3-12-9)
+>
+> *indrāgnī rocanā divaḥ (Ṛ. saṃ. 3-12-9)*
+
+("Indra and Agni, the bright realms of heaven": mine and tentative.)
+
+**इन्द्रासोमा** (indra + soma):
+
+> इन्द्रासोमा समघशंसम् (Ṛ. saṃ. 7-104-2)
+>
+> *indrāsomā samaghaśaṃsam (Ṛ. saṃ. 7-104-2)*
+
+("Indra and Soma, [burn] the one who speaks evil": mine and tentative.)
+
+**इन्द्रावरुणा** (indra + varuṇa):
+
+> इन्द्रावरुणा युवमध्वराय नः (Ṛ. saṃ. 7-82-1)
+>
+> *indrāvaruṇā yuvamadhvarāya naḥ (Ṛ. saṃ. 7-82-1)*
+
+("Indra and Varuṇa, you two, for our sacrifice": mine and tentative.)
+
+**इन्द्रापूषणा** (indra + pūṣan):
+
+> इन्द्रपूषणा वयम् (Ṛ. saṃ. 6-57-1)
+>
+> *indrapūṣaṇā vayam (Ṛ. saṃ. 6-57-1)*
+
+("Indra and Pūṣan, we …": mine and tentative. इन्द्रपूषणा, without the long ā, is as printed; the heading has इन्द्रापूषणा.)
+
+**इन्द्राबृहस्पती** (indra + bṛhaspati):
+
+> इदं वामास्ये हविः प्रियमिन्द्राबृहस्पती (Ṛ. saṃ. 4-49-1)
+>
+> *idaṃ vāmāsye haviḥ priyamindrābṛhaspatī (Ṛ. saṃ. 4-49-1)*
+
+("This dear offering in your mouth, Indra and Bṛhaspati": mine and tentative.)
+
+**इन्द्राब्रह्मणस्पती** (indra + brahmaṇaspati):
+
+> अच्छेन्द्राब्रह्मणस्पती हविर्नः (Ṛ. saṃ. 2-24-12)
+>
+> *acchendrābrahmaṇaspatī havirnaḥ (Ṛ. saṃ. 2-24-12)*
+
+("Towards our offering, Indra and Brahmaṇaspati": mine and tentative.)
+
+### Page 711 — Rik 1: Special Topics (continued)
+
+**इन्द्रापर्वता** (indra + parvata):
+
+> इन्द्रापर्वता बृहता रथेन (Ṛ. saṃ. 3-53-1)
+>
+> *indrāparvatā bṛhatā rathena (Ṛ. saṃ. 3-53-1)*
+
+("Indra and Parvata, with your great chariot": mine and tentative.)
+
+**इन्द्राकुत्सा** (indra + kutsa):
+
+> इन्द्राकुत्सा वहमाना रथेन (Ṛ. saṃ. 5-31-9)
+>
+> *indrākutsā vahamānā rathena (Ṛ. saṃ. 5-31-9)*
+
+("Indra and Kutsa, riding on the chariot": mine and tentative.)
+
+**इन्द्राविष्णू** (indra + viṣṇu):
+
+> इन्द्राविष्णू दृंहिताः शम्बरस्य (Ṛ. saṃ. 7-99-5)
+>
+> *indrāviṣṇū dṛṃhitāḥ śambarasya (Ṛ. saṃ. 7-99-5)*
+
+("Indra and Viṣṇu, the strongholds of Śambara": mine and tentative.)
+
+**इन्द्रवायू** (indra + vāyu):
+
+> इन्द्रवायू इमे सुताः (Ṛ. saṃ. 1-2-4)
+>
+> *indravāyū ime sutāḥ (Ṛ. saṃ. 1-2-4)*
+
+("Indra and Vāyu, these [soma juices] are pressed": mine and tentative.)
+
+**मित्रावरुणा** (mitra + varuṇa):
+
+> आ नो मित्रावरुणा (Ṛ. saṃ. 3-62-16)
+>
+> *ā no mitrāvaruṇā (Ṛ. saṃ. 3-62-16)*
+
+("[Come] to us, Mitra and Varuṇa": mine and tentative.)
+
+**सोमापूषणा** (soma + pūṣan):
+
+> सोमापूषणा जनना रयीणाम् (Ṛ. saṃ. 2-40-1)
+>
+> *somāpūṣaṇā jananā rayīṇām (Ṛ. saṃ. 2-40-1)*
+
+("Soma and Pūṣan, begetters of riches": mine and tentative.)
+
+**सोमारुद्रा** (soma + rudra):
+
+> सोमारुद्रा युवमेतान्यस्मे (Ṛ. saṃ. 6-74-3)
+>
+> *somārudrā yuvametānyasme (Ṛ. saṃ. 6-74-3)*
+
+("Soma and Rudra, you two, these [remedies] for us": mine and tentative.)
+
+**वातापर्जन्या** (vāta + parjanya):
+
+> धर्तारो दिव ऋभवः सुहस्ता वातापर्जन्या महिषस्य तन्यतोः (Ṛ. saṃ. 10-66-10)
+>
+> *dhartāro diva ṛbhavaḥ suhastā vātāparjanyā mahiṣasya tanyatoḥ (Ṛ. saṃ. 10-66-10)*
+
+("The upholders of heaven, the skilful-handed Ṛbhus, Vāta and Parjanya of the roaring buffalo [thunder]": mine and tentative.)
+
+**अग्नीषोमौ** (agni + soma):
+
+> अग्नीषोमाविमं सु मे (Ṛ. saṃ. 1-93-1)
+>
+> *agnīṣomāvimaṃ su me (Ṛ. saṃ. 1-93-1)*
+
+("Agni and Soma, [hear] well this [call] of mine": mine and tentative.)
+
+**अग्नीपर्जन्या** (agni + parjanya):
+
+> अग्नीपर्जन्याववतं धियं मे (Ṛ. saṃ. 6-52-16)
+>
+> *agnīparjanyāvavataṃ dhiyaṃ me (Ṛ. saṃ. 6-52-16)*
+
+("Agni and Parjanya, favour my prayer": mine and tentative.)
+
+**अग्नाविष्णू** (agni + viṣṇu):
+
+> अग्नाविष्णू सजोषसा (Tai. saṃ. 4-7-1)
+>
+> *agnāviṣṇū sajoṣasā (Tai. saṃ. 4-7-1)*
+
+("Agni and Viṣṇu, of one accord": mine and tentative.)
+
+Such *saṃstava* mantras are many in the Ṛgveda. There are also many ṛks in which, in naming a pair of deities, the dual is not used, but the singular is used for each separately. For example:
+
+> अग्न इन्द्रश्च दाशुषे दुरोणे (Ṛ. saṃ. 3-25-4)
+>
+> *agna indraśca dāśuṣe duroṇe (Ṛ. saṃ. 3-25-4)*
+
+("Agni, and Indra, in the house of the worshipper": mine and tentative.)
+
+> त्वं नो अग्ने वरुणस्य विद्वान् (Ṛ. saṃ. 4-1-4)
+>
+> *tvaṃ no agne varuṇasya vidvān (Ṛ. saṃ. 4-1-4)*
+
+("You, Agni, knowing Varuṇa, [for] us": mine and tentative.)
+
+> मरुतः पिबत ऋतुना (Ṛ. saṃ. 1-15-2)
+>
+> *marutaḥ pibata ṛtunā (Ṛ. saṃ. 1-15-2)*
+
+("Maruts, drink with the season": mine and tentative.)
+
+### Page 712 — Rik 1: Special Topics (end) and grammar
+
+and so on. In these ṛks, though the pairs of deities Agni + Indra, Agni + Varuṇa and the Maruts + Ṛtu are named, the dual is not used; the deities are named each separately, in the singular.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 712–714, noted briefly)*
+
+**इन्द्रावरुणयोः (*indrāvaruṇayoḥ*)**: the *dvandva* compound *indraś ca varuṇaś ca indrāvaruṇau, tayoḥ*. After the root *idi paramaiśvarye* the suffix *ran* by "ṛjrendrāgra…" (Uṇ. sū. 2-186); the root being *idit*, the augment *num* by "idito num dhātoḥ" (Pā. sū. 7-1-58): *indra*. By "kṝvṝdāribhya unan" (Uṇ. sū. "3-333" [as read; ?]) the suffix *unan* comes after *kṝ vikṣepe*, *vṛñ varaṇe* and *dṝ vidāraṇe*; so after the root *vṛñ*, *unan*: *vṛ* + *una*; *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84), followed by *r* by "uraṇ raparaḥ" (Pā. sū. 1-1-51): *varuna*; by "aṭkupvāṅnumvyavāye 'pi" (Pā. sū. 8-4-2) *ṇ* for *n*: *varuṇa*. Both words end in a suffix with *n* as *it*; so both are initial udātta by "ñnityādir nityam" (Pā. sū. 6-1-197). In their *dvandva*, by "devatādvandve ca" (Pā. sū. 6-3-26), in a *dvandva* of two words naming deities, the first member takes the substitute *ānaṅ* when the second follows; being *ṅit*, it replaces the final by "ṅic ca" (Pā. sū. 1-1-53); the *n* is dropped by "nalopaḥ prātipadikāntasya" (Pā. sū. 8-2-7). In "devatādvandve ca" (Pā. sū. 6-2-141) the two words *ubhe* and *yugapat* are carried on from "ubhe vanaspatyādiṣu yugapat" (Pā. sū. 6-2-140); so the sūtra means that in a *dvandva* of words naming deities, the first and second members both keep their own accent at the same time; so both members keep their accent.
+
+**सम्राजोः (*samrājoḥ*)**: the root *rājṛ dīptau*. By "satsūdviṣa…janirājām upasarge 'pi kvip" (Pā. sū. 3-2-61) the suffix *kvip*. With *sam* + *rāj*, the *anusvāra* is due for the *m* of *sam* by "mo 'nusvāraḥ" (Pā. sū. 8-3-23) (before a consonant the final *m* of a word becomes *anusvāra*). But by "mo rāji samaḥ kvau" (Pā. sū. 8-3-25), when the root *rāj* ending in *kvip* follows, the *m* of *sam* stays *m*: *samrāj*.
+
+**अवः (*avaḥ*)**: the root *ava rakṣaṇādau*. By "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]) the suffix *asun* in the sense of the action; initial udātta by the *nit* accent. So *avaḥ* is a *kṛdanta*;
+
+### Page 713 — Rik 1: grammar
+
+since there is connection with this *kṛdanta*, in *indrāvaruṇayoḥ* the genitive comes by "kartṛkarmaṇoḥ kṛti" (Pā. sū. 2-3-65) (the genitive comes after a word that is the agent or object in the action denoted by the root that is the base of a *kṛt* suffix). For the *kṛt* is the suffix *asun*, its base is the root *av*, its sense is the action, an activity leading to warding off the unwanted and gaining the wanted; Indra and Varuṇa are the substrate of that activity, so they are the agents in the action meant by the root *av*; after the word *indrāvaruṇa*, naming the agents, the genitive comes by the sūtra just stated. On the view "*kārakāṇāṃ kriyayaivānvayaḥ*" (the *kārakas* are construed with the action alone), in *samrājoḥ* too the genitive comes in the same way.
+
+**ता (*tā*)**: after the word *tad* the nominative dual *au*: *tad* + *au*. By "supāṃ suluk…" (Pā. sū. 7-1-39) the substitute *ḍā* for *au*; by force of its being marked with *ḍ*, though it is not called *bha*, the *ṭi* *ad* drops. By "anudāttasya ca yatrodāttalopaḥ" (Pā. sū. 6-1-161), the accent of the lost udātta, the ending *ā* is udātta.
+
+**मृळातः (*mṛḷātaḥ*)**: the root *mṛḍa sukhane*. After the root *mṛḍ*, by "liṅarthe leṭ" (Pā. sū. 3-4-7), *leṭ* comes in the sense of *liṅ*, of a prayer; in its place the 3rd dual *tas*: *mṛḍ* + *tas*. By "leṭo 'ḍāṭau" (Pā. sū. 3-4-94) the augment *āṭ*; being *ṭit*, it comes as the first part by "ādyantau ṭakitau" (*paribhāṣā*, Pā. sū. 1-1-46). *Mṛḍ* + *ātas*: the *vikaraṇa* suffix *śa* by "tudādibhyaḥ śaḥ" (Pā. sū. 3-1-77). It is a *sārvadhātuka* without *p*, so by "sārvadhātukam apit" (Pā. sū. 1-2-4) it is *ṅit*; so *guṇa* is barred by "kṅiti ca" (Pā. sū. 1-1-5), and the *laghūpadha-guṇa* by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86) does not come. [After] the lengthening of like vowels, since by "antādivac ca" (Pā. sū. 6-1-85) the result counts as the end of what precedes, the *śa vikaraṇa* can count as following, so *guṇa* does not come. *Mṛḍātaḥ*: by "*ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcā jaguḥ*" (the Ṛgvedins pronounce *ḍ* between vowels as *ḷ*), *ḷ* for *ḍ*.
+
+**ईदृशे (*īdṛśe*)**: *idam iva paśyati iti īdṛśaḥ, tasmin īdṛśe*. By "tyadādiṣu dṛśo 'nālocane kañ ca" (Pā. sū. 3-2-60), when words of the *tyad-ādi* group are the *upapada*, the suffix *kañ* comes after the root *dṛś* not in the sense of seeing; by the *ca*, optionally *kvin* too; so after the root *dṛś* with the word *idam* as *upapada*, the suffix *kañ*. By "upapadam atiṅ" (Pā. sū. 2-2-19) compounding; the *sup* inside the compound takes *luk*: *idam* + *dṛśa*. By "idaṃkimor īśkī" (Pā. sū. 6-3-90), when *dṛk*, *dṛśa* or *vatu* follow, *īś* is substituted for *idam* and *kī* for *kim*; so *īś* for *idam*; being *śit*, by "anekālśit sarvasya" (Pā. sū.
+
+### Page 714 (upper) — Rik 1: grammar (end)
+
+1-1-55) it replaces the whole: *īdṛśa*; in the locative singular *īdṛśe*. The suffix *kañ* being *kit*, *laghūpadha-guṇa* does not come in *dṛśa*. The suffix is *ñit*; so by "ñnityādir nityam" *dṛśa* is initial udātta. After compounding, the accent of the *kṛt* final member coming by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139), *dṛśa* stays initial udātta. So *īdṛśe* is udātta in the middle.
+
+**॥१॥**
+
+---
 
 ### Pages 714–718 — Sūkta 17, Rik 2
 
