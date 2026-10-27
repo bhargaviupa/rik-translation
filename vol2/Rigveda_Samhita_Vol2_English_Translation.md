@@ -14078,55 +14078,105 @@ O Agni, seeking wealth, we worship you, the fourth, with the Ṛtu deities. So s
 
 ---
 
-### Pages 666–670 — Sūkta 15, Rik 11
+### Page 666 (lower) — Sūkta 15, Rik 11
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अश्विना पिबतं मधु दीद्यग्नी शुचिव्रता ।
-> ऋतुना यज्ञवाहसा ॥११॥
+> अश्वि॑ना॒ पिब॑तं॒ मधु॒ दीद्य॑ग्नी शुचिव्रता । [accent ?]
+> ऋ॒तुना॑ यज्ञवाहसा ॥११॥
 >
-> *aśvinā pibataṃ madhu dīdyagnī śucivratā |*
-> *ṛtunā yajñavāhasā ||11||*
+> *áśvinā píbataṃ mádhu dī́dyagnī śucivratā |* [accent ?]
+> *ṛtúnā yajñavāhasā ||11||*
+
+*(Line 1: the bars under ना and त and the strokes over श्वि, ब and द्य are read at the foot of p. 666; the rest of the line shows no marks.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > अश्विना । पिबतम् । मधु । दीद्यग्नी इति दीदिऽअग्नी । शुचिऽव्रता ॥
 > ऋतुना । यज्ञऽवाहसा ॥११॥
 >
-> *aśvinā | pibatam | madhu | dīdyagnī iti dīdi-agnī | śuci-vratā ||*
-> *ṛtunā | yajña-vāhasā ||11||*
+> *aśvinā | pibatam | madhu | dīdyagnī iti dīdi 'agnī | śuci 'vratā ||*
+> *ṛtunā | yajña 'vāhasā ||11||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 666–667; compressed; [?] marks doubtful readings)*
-
-> हे अश्विनौ मधु माधुर्योपेतं सोमं पिबतम् । कीदृशौ । दीद्यग्नी द्योतमानाहवनीयाद्यग्नियुक्तौ शुचिव्रता शुद्धकर्माणौ ऋतुना ऋतुदेवतया सह यज्ञवाहसा यज्ञस्य निर्वाहकौ ॥ अश्विना । सम्बोधनद्विवचनस्य सुपां सुलुगित्याकारः । आमन्त्रिताद्युदात्तः । पिबतम् । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । मधु । फलिपाटीत्यादिना । उ. [१-१८]। उप्रत्ययः । निदित्यनुवृत्तेर्णित्त्वादाद्युदात्तः । दीद्यग्नी । दिवु क्रीडादौ । आन्येभ्योऽपि दृश्यन्ते इति विच् । वेरपृक्तलोपाद्वलि लोपो बलीयान् इति प्रथमवकारस्य लोपः । पा. [६-१-६६, ६७] । प्रथमं प्रत्ययलोपे हि वर्णाश्रयविधौ प्रत्ययलक्षणं नास्ति … इति निषेधाद्वलिलोपो न स्यात् । छान्दसं द्विर्वचनम् । तुजादित्वादभ्यासस्य दीर्घत्वम् । यज्ञलुगन्तताद्वा संज्ञापूर्वको विधिरनित्य इत्यभ्यासस्य गुणाभावः । दीदिरग्निर्ययोस्तौ दीद्यग्नी । आमन्त्रिताद्युदात्तत्वम् । पादादित्वान्न निघातः । शुचिव्रता । शुचि व्रतं ययोस्तौ । सुपां सुलुगित्याकारः । दीद्यग्नीशब्दस्य सामान्यवचनत्वेन नामन्त्रित इत्यविद्यमानवत्त्वप्रतिषेधाद्… । पूर्वस्य पराङ्गवद्भावात् … । यज्ञवाहसा । वह प्रापणे । यज्ञं वहत इति यज्ञवाहसौ । वहिहाधाङ्भ्यश्छन्दसि । उ. [४-२२०]। इत्यसुन् । तत्र हि गतिकारकोपपदात्कृदुत्तरपदप्रकृतिस्वरत्वं चेति वचनाल्लोपपदानामपि भवति । उ. [४-२१६]। इत्युक्तम् । जिदित्यनुवृत्तेरुपधावृद्धिः । सुपां सुलुगित्यादिना विभक्तेराकारः । आमन्त्रितनिघातः । आसामर्थ्यात्पूर्वस्य न पराङ्गवद्भावः ॥११॥
+> हे अश्विनौ मधु माधुर्योपेतं सोमं पिबतं । कीदृशौ । दीद्यग्नी द्योतमानाहवनीयाद्यग्नियुक्तौ शुचिव्रता शुद्धकर्माणौ ऋतुना ऋतुदेवतया सह यज्ञवाहसा यज्ञस्य निर्वाहकौ ॥ अश्विना । सम्बोधनद्विवचनस्य सुपां सुलुगित्याकारः । आमन्त्रिताद्युदात्तः । पिबतं । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्व-
 >
-> *he aśvinau madhu mādhuryopetaṃ somaṃ pibatam | kīdṛśau | dīdyagnī dyotamānāhavanīyādy-agni-yuktau śucivratā śuddha-karmāṇau ṛtunā ṛtu-devatayā saha yajñavāhasā yajñasya nirvāhakau || aśvinā | sambodhana-dvivacanasya supāṃ sulug ity ākāraḥ | āmantritādyudāttaḥ | pibatam | śapaḥ pittvād anudāttatvam | tiṅaś ca lasārvadhātuka-svareṇa dhātu-svara eva śiṣyate | madhu | phali-pāṭī-ty-ādinā | u. [1-18] | u-pratyayaḥ | nid ity anuvṛtter ṇittvād ādyudāttaḥ | dīdyagnī | divu krīḍādau | ānyebhyo 'pi dṛśyante iti vic | ver apṛkta-lopād vali lopo balīyān iti prathama-vakārasya lopaḥ | pā. [6-1-66, 67] | prathamaṃ pratyaya-lope hi varṇāśraya-vidhau pratyaya-lakṣaṇaṃ nāsti … iti niṣedhād vali-lopo na syāt | chāndasaṃ dvirvacanam | tujādittvād abhyāsasya dīrghatvam | yaja-luganta-tvād vā saṃjñā-pūrvako vidhir anitya ity abhyāsasya guṇābhāvaḥ | dīdir agnir yayos tau dīdyagnī | āmantritādyudāttatvam | pādāditvān na nighātaḥ | śucivratā | śuci vrataṃ yayos tau | supāṃ sulug ity ākāraḥ | dīdyagnī-śabdasya sāmānya-vacanatvena nāmantrita ity avidyamānavatva-pratiṣedhād … | pūrvasya parāṅgavad-bhāvāt … | yajñavāhasā | vaha prāpaṇe | yajñaṃ vahata iti yajñavāhasau | vahi-hā-dhāṅbhyaś chandasi | u. [4-220] | ity asun | tatra hi gati-kārakopapadāt kṛd-uttarapada-prakṛti-svaratvaṃ ceti vacanāl lopa-padānām api bhavati | u. [4-216] | ity uktam | jid ity anuvṛtter upadhā-vṛddhiḥ | supāṃ sulug ity-ādinā vibhakter ākāraḥ | āmantrita-nighātaḥ | āsāmarthyāt pūrvasya na parāṅgavad-bhāvaḥ ||11||*
+> *he aśvinau madhu mādhuryopetaṃ somaṃ pibataṃ | kīdṛśau | dīdyagnī dyotamānāhavanīyādyagniyuktau śucivratā śuddhakarmāṇau ṛtunā ṛtudevatayā saha yajñavāhasā yajñasya nirvāhakau || aśvinā | sambodhanadvivacanasya supāṃ sulugityākāraḥ | āmantritādyudāttaḥ | pibataṃ | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārva-*
 
-**Translation:** "O Aśvins! Drink the sweet (*madhu*, sweet-tasting) soma. Of what sort are you? *Dīdyagnī* — joined with the shining *āhavanīya* and other fires; *śucivratā* — of pure works; *yajñavāhasā* — together with the Ṛtu, the carriers (completers) of the sacrifice." The rest is grammar, noted briefly: *aśvinā* (the dual vocative with *ā* by P. 7-1-39 *supāṃ sulug…*; first-syllable accent of the vocative); *pibatam* (*śap* *pit*, unaccented; the root accent remains); *madhu* (the Uṇādi *u* suffix, first-syllable accent); *dīdyagnī* (*div* "to play" with *vic*, doubling of the verb stem in the Veda; the first *v* dropped; the compound "those whose fire is shining"; the vocative at the start of a *pāda* is not unaccented); *śucivratā* ("those whose vow is pure"; the *ā* ending for the dual vocative); *yajñavāhasā* (*vah* "to carry", Uṇ. 4-220 *vahi-hā-dhāṅbhyaś chandasi* with *asun*; the lengthening of the penultimate by *ñit*-ness; the accent of the compound that of the final member; the vocative unaccented as not first in the *pāda*). *(Grammar, noted briefly; P. 6-1-66 and 6-1-67 as read agree with the standard numbering.)*
+### Page 667 — Rik 11: bhāṣya (end), word-meanings, overall sense, English
 
-**Grammar pages (pp. 668 lower half–670), noted briefly.** The Kannada treats: *aśvinā* (P. 7-1-39 *supāṃ sulug…*, *ā* for the dual vocative; accent by P. 6-1-198 *āmantritasya ca*; P. 8-1-18/19 does not apply, since it stands at the head of the *pāda*); *pibatam* (*pā*; *loṭ* 2nd dual *thas*; *loṭo laṅvat* P. 3-4-85; *tasthasthamipāṃ tāṃtaṃtāmaḥ* P. 3-4-101: *thas* → *tam*; *śap* P. 3-1-68; *pāghrādhmā…* P. 7-3-78: *piba*; *ato guṇe* P. 6-1-97 *pararūpa*: *pibatam*, with a note on the alternative view that *piba* is an *ādyudātta nipātana* in the sūtra — Vārttika *pibāv ānipātanāt* — and the debate over the accent of *pibā-*; *pugantalaghūpadhasya ca* P. 7-3-86 not applying; *dhātoḥ* P. 6-1-162 ending-accent; the rule *aṅgavṛtte punar vṛttāv avidhiḥ* (paribhāṣā) so the guṇa does not apply after *piba*-substitution; "the accent of the root alone remains, so the Vedabhāṣya says"; *śap* *pit* unaccented, the suffix *tam* a *lasārvadhātuka* unaccented by *tāsyanudāttenṇiḍ-adupadeśāt* P. 6-1-186 [as read]); *madhu* ("*madhumantam*", see Ṛ. Saṃ. 1-1-?-? in the earlier part, where the process is explained; here *man* "to know" with the Uṇādi *u* — *phali-pāṭi-…* Uṇ. 1-18 [?], *nit* so first-syllable accent); *dīdyagnī* (*div* "to play", with the suffixes *manin, kvanip, vanip, vic* which are added after the root *div* in the Veda, by P. 3-2-75 *anyebhyo 'pi dṛśyante*; *div* + *vic* with *ver apṛktasya* P. 6-1-67 dropping *vi*'s *v*, and *lopo vyor vali* P. 6-1-66 dropping the *v* of *div*: the rule that [the dropping of the first *v* by the *ver apṛktasya* rule takes precedence], argued in detail by the paribhāṣā "*varṇāśraye nāsti pratyayalakṣaṇam*"; the Vedic doubling *didiv* with *tujādīnāṃ dīrgho 'bhyāsasya* P. 6-1-7 lengthening *dīdi*; or alternatively from *div* with *yaṅ* P. 3-1-22 *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* and its *luk* P. 2-4-74 [*yaṅo vā*], then *sanyaṅoḥ* P. 6-1-9, *halādiḥ śeṣaḥ* P. 7-4-60, and *guṇo yaṅluk-ṛnoḥ* P. 7-4-82 whose guṇa is barred by the paribhāṣā *saṃjñāpūrvako vidhir anityaḥ*; *dīrgho 'kitaḥ* P. 7-4-83 lengthening the reduplicative; "*dīdiḥ agniḥ yayoḥ tau* — a bahuvrīhi; the vocative accent on the first syllable; not unaccented by P. 8-1-19 as it begins the *pāda*"); *śucivratā* (*śuci vrataṃ yayoḥ tau*; the dual vocative *ā* by P. 7-1-39; the grammarian's discussion of whether *dīdyagnī* and *śucivratā*, both vocatives, are connected by sense with *aśvinā*, by P. 8-1-73 *nāmantrite samānādhikaraṇe sāmānyavacanam* [as read] and P. 8-1-72 *āmantritaṃ pūrvam avidyamānavat* and P. 8-1-74 [?] *supāmantrite parāṅgavat svare* — the Kannada concludes that *dīdyagnī* and *śucivratā* are adjectives of *aśvinā* and *aśvinā* is the general term, so P. 8-1-73's bar applies and P. 8-1-72 does not make *dīdyagnī* ... unaccented; the whole is treated as one word, so *śucivratā* has the first-syllable accent only and the others are all-unaccented by *anudāttaṃ padam ekavarjam* P. 6-1-158, with *svarita* from *udāttād anudāttasya svaritaḥ* P. 8-4-66 and the *pracaya* of *svaritāt saṃhitāyām anudāttānām* P. 1-2-39); *yajñavāhasā* (*yajñaṃ vahataḥ*; *vah*; Uṇ. 4-220 *vahi-hā-dhāṅbhyaś chandasi* *asun*; the compound accent by Uṇ. 4-216; P. 7-2-116 *ata upadhāyāḥ* for the *ā*; *ñit*; the vocative dual ending *au* → *ā* by P. 7-1-39; accent by P. 8-1-72: the preceding word *ṛtunā* does not become *parāṅgavat*, since P. 8-1-74 *supāmantrite parāṅgavat svare* does not apply here, as the two words have no mutual connexion; the wholly unaccented *yajñavāhasā* by P. 8-1-19). ॥11॥ *(A long, crowded grammatical argument about the accent of the cluster* aśvinā … dīdyagnī śucivratā … ṛtunā yajñavāhasā*; I have given its outline only, with numerals as read from small print; pointers only.)*
+> -धातुकस्वरेण धातुस्वर एव शिष्यते । मधु । फलिपाटीत्यादिना । उ. १-१९ । उप्रत्ययः । निदित्यनुवृत्तेर्नित्त्वादाद्युदात्तः । दीद्यग्नी । दिवु क्रीडादौ । अन्येभ्यो ऽपि दृश्यन्त इति विच् । वेरपृक्तलोपाद्वलि लोपो बलीयानिति प्रथमं वकारस्य लोपः । पा. ६-१-६६, ६७ । प्रथमं प्रत्ययलोपे हि वर्णाश्रये विधौ प्रत्ययलक्षणं नास्ति । परि. ९१ । इति निषेधाद्वलि लोपो न स्यात् । छान्दसं द्विर्वचनं । तुजादित्वादभ्यासस्य दीर्घत्वं । यङ्लुगन्ताद्वा संज्ञापूर्वको विधिरनित्य इत्यभ्यासस्य गुणाभावः । दीदिरग्निर्ययोस्तौ दीद्यग्नी । आमन्त्रिताद्युदात्तत्वं । पादादित्वान्न निघातः । शुचिव्रता । शुचि व्रतं ययोस्तौ । सुपां सुलुगित्याकारः । दीद्यग्निशब्दस्य सामान्यवचनत्वेन नामन्त्रित इत्यविद्यमानवत्त्वप्रतिषेधादाष्टमिकनिघातत्वं । पूर्वस्य पराङ्गवद्भावाद्वैकस्वर्यं । यज्ञवाहसा । वह प्रापणे । यज्ञं वहत इति यज्ञवाहसौ । वहिहाधाञ्भ्यश्छन्दसि । उ. ४-२२० । इत्यसुन् । तत्र हि गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेति वचनात्सोपपदानामपि भवति । उ. ४-२२६ । इत्युक्तं । णिदित्यनुवृत्तेरुपधावृद्धिः । सुपां सुलुगित्यादिना विभक्तेराकारः । आमन्त्रितनिघातः । असामर्थ्यात्पूर्वस्य न पराङ्गवद्भावः ॥
+>
+> *-dhātukasvareṇa dhātusvara eva śiṣyate | madhu | phalipāṭītyādinā | u. 1-19 | upratyayaḥ | nidityanuvṛtternittvādādyudāttaḥ | dīdyagnī | divu krīḍādau | anyebhyo 'pi dṛśyanta iti vic | verapṛktalopādvali lopo balīyāniti prathamaṃ vakārasya lopaḥ | pā. 6-1-66, 67 | prathamaṃ pratyayalope hi varṇāśraye vidhau pratyayalakṣaṇaṃ nāsti | pari. 91 | iti niṣedhādvali lopo na syāt | chāndasaṃ dvirvacanaṃ | tujāditvādabhyāsasya dīrghatvaṃ | yaṅlugantādvā saṃjñāpūrvako vidhiranitya ityabhyāsasya guṇābhāvaḥ | dīdiragniryayostau dīdyagnī | āmantritādyudāttatvaṃ | pādāditvānna nighātaḥ | śucivratā | śuci vrataṃ yayostau | supāṃ sulugityākāraḥ | dīdyagniśabdasya sāmānyavacanatvena nāmantrita ityavidyamānavattvapratiṣedhādāṣṭamikanighātatvaṃ | pūrvasya parāṅgavadbhāvādvaikasvaryaṃ | yajñavāhasā | vaha prāpaṇe | yajñaṃ vahata iti yajñavāhasau | vahihādhāñbhyaśchandasi | u. 4-220 | ityasun | tatra hi gatikārakayorapi pūrvapadaprakṛtisvaratvaṃ ceti vacanātsopapadānāmapi bhavati | u. 4-226 | ityuktaṃ | ṇidityanuvṛtterupadhāvṛddhiḥ | supāṃ sulugityādinā vibhakterākāraḥ | āmantritanighātaḥ | asāmarthyātpūrvasya na parāṅgavadbhāvaḥ ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 667)*
+**Translation:** "O Aśvins, drink the *madhu*, the soma that is full of sweetness. What are you like? *Dīdyagnī*, joined with the shining fires, the Āhavanīya and the others; *śucivratā*, of pure rites; *ṛtunā*, with the Ṛtu deity, *yajñavāhasā*, carriers through of the sacrifice." (Grammatical tail: *aśvinā*, *ā* for the vocative dual by *supāṃ suluk…*, initial udātta; *pibatam*, the root accent; *madhu* with *u* (Uṇ. 1-19), initial udātta; *dīdyagnī*: *div* 'to play' with *vic*; by *ver apṛktalopād vali lopo balīyān* the *v* drops first (Pā. 6-1-66, 67), since if the suffix dropped first, by "varṇāśraye vidhau pratyayalakṣaṇaṃ nāsti" (pari. 91) the loss before *val* would not come; Vedic reduplication, the reduplicate lengthened as of the *tujādi* class, or from the *yaṅluk* form, its *guṇa* not made by *saṃjñāpūrvako vidhir anityaḥ*; "whose fire is shining", initial udātta, not lowered at the head of the pāda; *śucivratā*, "whose rite is pure", *ā* for the ending, lowered by the eighth-adhyāya rule, since *dīdyagnī*, being a general term, is not treated as absent (*nāmantrite…*), and the earlier word is joined to it as part of the following (one accent); *yajñavāhasā*, "who carry the sacrifice", *asun* (Uṇ. 4-220), which applies with an *upapada* too by the statement on the first-member accent (Uṇ. 4-226), *vṛddhi* of the penultimate, *ā* for the ending, lowered as a vocative; the earlier word is not joined to it, not being connected in sense.)
 
-**दीद्यग्नी (dīdyagnī)** — those shining with the *āhavanīya* and other fires | **शुचिव्रता (śucivratā)** — whose works are pure | **ऋतुना (ṛtunā)** — together with the Ṛtu-deity | **यज्ञवाहसा (yajña-vāhasā)** — the carriers of the sacrifice | **अश्विना (aśvinā)** — O Aśvin-deities | **मधु (madhu)** — the sweet soma-juice | **पिबतम् (pibatam)** — drink.
+**॥ Prati-padārthaḥ ॥**
+
+**दीद्यग्नी (dīdyagnī)** — shining with the fires, the Āhavanīya and the others | **शुचिव्रता (śucivratā)** — having pure rites | **ऋतुना (ṛtunā)** — with the Ṛtu deity | **यज्ञवाहसा (yajñavāhasā)** — who carry through the sacrifice | **अश्विना (aśvinā)** — O Aśvin deities | **मधु (madhu)** — the sweet soma juice | **पिबतम् (pibatam)** — drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Aśvins! You are ever shining with the *āhavanīya* and other fires; together with the Ṛtu-deity you carry through the sacrifice. Be pleased to drink the sweet soma-juice.
+O Aśvin deities, you always shine together with the fires, the Āhavanīya and the others. With the Ṛtu deity you carry the sacrifice through. Kindly drink the sweet soma juice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Aswins, performers of pious acts, accepters of the sacrifice with the Ritus, and accompanied by brilliant Agni, drink the sweet draught.
+> Aswins, performers of pious acts, accepters of the sacrifice with the Ritus, and accompained [sic] by brilliant Agni, drink the sweet draught.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 668)*
+### Page 668 — Rik 11: Special Topics and grammar
 
-**दीद्यग्नी (dīdyagnī)** — *divu krīḍādau*; *dīdir agnir yayos tau*: "shining" — because the offerings for the Aśvin deities are made in the *āhavanīya* and other fires, they are said to be possessed of shining fire.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**शुचिव्रता (śucivratā)** — *śuci vrataṃ yayos tau*: "having pure works", that is, the works done by them are pure.
+**Dīdyagnī**:
 
-**यज्ञवाहसा (yajña-vāhasā)** — *vaha prāpaṇe*: *yajñaṃ vahata iti yajñavāhasau*: *yajñasya nirvāhakau*: "those who carry the sacrifice through" — who make it proceed without obstacle.
+> दिवु क्रीडादौ । दीदिरग्निर्ययोस्तौ ॥
+>
+> *divu krīḍādau | dīdiragniryayostau ||*
+
+"joined with the shining Āhavanīya and other fires": that is, since the *homa* is made in the Āhavanīya and other fires with these Aśvin deities in view, they are said to have shining fires.
+
+**Śucivratā**:
+
+> शुचि व्रतं ययोस्तौ
+>
+> *śuci vrataṃ yayostau*
+
+"having pure rites": that is, the rites they perform are pure.
+
+**Yajñavāhasā**:
+
+> वह प्रापणे । यज्ञं वहत इति यज्ञवाहसौ । यज्ञस्य निर्वाहकौ ॥
+>
+> *vaha prāpaṇe | yajñaṃ vahata iti yajñavāhasau | yajñasya nirvāhakau ||*
+
+those who carry the sacrifice through, who make it go on without obstacle.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 668–670, noted briefly)*
+
+**अश्विना (*aśvinā*)**: for the vocative dual, the replacement *ā* by "supāṃ suluk…" (Pā. sū. 7-1-39); initial udātta by "āmantritasya ca" (Pā. sū. 6-1-198). Being at the head of the pāda, the eighth-adhyāya lowering does not come.
+
+**पिबतम् (*pibatam*)**: *pā pāne*; *loṭ*, 2nd dual *thas*; by "loṭo laṅvat" (Pā. sū. 3-4-85) the *laṅvadbhāva*; so by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101) *tam* for *thas*: *pā* + *tam*; by "kartari śap" (Pā. sū. 3-1-68) the *vikaraṇa* *śap*; by "pāghrādhmā…" (Pā. sū. 7-3-78) *piba* for *pā*: *piba* + *a* + *tam*; *pararūpa* by "ato guṇe" (Pā. sū. 6-1-97): *pibatam*. On the view that the replacement *piba* ends in *a*, *piba* is made initial udātta by *nipātana* in the sūtra; the Vārttikakāra says this under "dhātoḥ" (Pā. sū. 6-1-162): "pibater nipātanāt". On this view the *laghūpadha-guṇa* of "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86) has no scope. This is the settled view. On the view that the replacement enjoined in *pāghrādhmā…* is *pib*, ending in *b*, the final-udātta accent follows easily by "dhātoḥ" (Pā. sū. 6-1-162). By "aṅgavṛtte punar vṛttāv avidhiḥ" (paribhāṣā 93) the *guṇa* must be barred so that it does not come after the *pib* replacement. This view is the one taken in the Vedabhāṣya as *dhātusvara eva śiṣyate*. *Śap* is *pit*, so unaccented; the *sārvadhātuka* *tam* in the place of the *lakāra* is unaccented by "tāsyanudāttet…" (Pā. sū. 6-1-186); so the *i* of *pib* is udātta by the root accent.
+
+### Page 669 — Rik 11: grammar (continued)
+
+**मधु (*madhu*)**: the formation of this is set out in Ṛ. Saṃ. 1-13-2 [as printed "1-1-3-2"]; here it is given briefly. After the root *mana jñāne*, the suffix *u* by "phalipāṭi…" (Uṇ. sū. 1-18); *nit* is carried on here, so the suffix *u* is *nit*; so *madhu* is initial udātta by the *nit* accent.
+
+**दीद्यग्नी (*dīdyagnī*)**: the root *divu krīḍādau*; after it, by "anyebhyo 'pi dṛśyante" (Pā. sū. 3-2-75) the suffixes *manin*, *kvanip*, *vanip* and *vic* come after roots; so *vic* after *div*: *div* + *v*. By "ver apṛktalopād vali lopo balīyān", the loss before *val* enjoined by "lopo vyor vali" (Pā. sū. 6-1-66) is stronger than the loss of the *v* enjoined by "ver apṛktasya" (Pā. sū. "6-1-62" [as printed, for 6-1-67]); so, though the *apṛkta* loss is *antaraṅga*, the first *v* drops first by "lopo vyor vali" (Pā. sū. 6-1-66). On the view that the suffix drops first by "ver apṛktasya", by "varṇāśraye nāsti pratyayalakṣaṇam" (paribhāṣā "93-1" [?]), when an operation based on a letter is made, *pratyayalakṣaṇa* does not apply; so the following *val* could not be had, and the loss of the first *v* would not come. So first the first *v* drops as said, then the second *v* drops by "ver apṛktasya". As a Vedic form *di* is reduplicated: *didi*. Now by "tujādīnāṃ dīrgho 'bhyāsasya" (Pā. sū. 6-1-7) the first *di* is lengthened: *dīdi*. Or, after the root *div*, by "dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ" (Pā. sū. 3-1-22) *yaṅ*; by "yaṅo 'ci ca" (Pā. sū. 2-4-74) *yaṅ* takes *luk*; by "sanyaṅoḥ" (Pā. sū. 6-1-9) reduplication: *div div*; by "halādiḥ śeṣaḥ" (Pā. sū. 7-4-60) the *v* of the reduplicate goes: *didiv*. "guṇo yaṅlukoḥ" (Pā. sū. 7-4-82): in *yaṅ* and in *yaṅluk* an *ik*-final reduplicate takes *guṇa*; so the first *di* would get *guṇa*. But by "saṃjñāpūrvako vidhir anityaḥ" (paribhāṣā "93-1" [?]) the *guṇa* rule is not binding, so it does not come here. "dīrgho 'kitaḥ" (Pā. sū. 7-4-83): a vowel-final reduplicate that is not *kit* is lengthened in *yaṅ* and *yaṅluk*; so *dīdiv*. With *vic* as before, *dīdi*. *Dīdiḥ agniḥ yayoḥ tau dīdyagnī*, a bahuvrīhi compound. Though the lowering would come by the eighth-adhyāya sūtra, being at the head of the pāda it does not come here; by the sixth-adhyāya sūtra it is initial udātta.
+
+**शुचिव्रता (*śucivratā*)**: analysed *śuci vrataṃ yayoḥ tau*. By "supāṃ suluk…" (Pā. sū. "3-1-39" [as printed, for 7-1-39]) *ā* for the vocative-nominative dual. The two vocatives *dīdyagnī* and *śucivratā* are described as construed with *aśvinā*. So *aśvinā* is the general term,
+
+### Page 670 — Rik 11: grammar (end)
+
+and the other two vocatives, being qualifiers, are themselves particular terms. So "nāmantrite samānādhikaraṇe sāmānyavacanam" (Pā. sū. "8-1-23" [as printed, for 8-1-73]) has no scope. Since the two vocatives are not construed with each other, there is no connection of sense, so "subāmantrite parāṅgavat svare" (Pā. sū. "3-1-2" [as printed, for 2-1-2]) gives no joining as part of the following either. So the doubt rightly arises how the full lowering in *śucivratā* fits. But here we take *dīdyagnī* itself as the qualified, and say that *śucivratā* is its qualifier, and that this qualified pair is construed with *aśvinā*. Now *dīdyagnī* is a general term, so by "nāmantrite…" (Pā. sū. "8-1-23" [as printed]) the treatment as absent that "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. "8-1-62" [as printed, for 8-1-72]) would give is barred; so *śucivratā* is not at the head of the pāda, and by "āmantritasya ca" (Pā. sū. 8-1-19) it is wholly unaccented. Or, in this explanation, since *dīdyagnī* and *śucivratā* are construed with each other, there is a connection of sense, so by "subāmantrite parāṅgavat svare" (Pā. sū. "3-1-2" [as printed]) the earlier is joined as part of the following; so the notion arises that *dīdyagnī śucivratā* is one word. So by the sixth-adhyāya "āmantritasya ca" (Pā. sū. 6-1-198) the first letter *dī* is initial udātta. Then by "anudāttaṃ padam ekavarjam" (Pā. sū. "6-1-148" [as printed, for 6-1-158]) the other letters are unaccented. The unaccented *di* after the udātta becomes svarita by "udāttād anudāttasya svaritaḥ" ("8-4-66"); the unaccented syllables after the svarita are *pracaya* by "svaritāt saṃhitāyām anudāttānām".
+
+**यज्ञवाहसा (*yajñavāhasā*)**: *yajñaṃ vahataḥ iti yajñavāhasau*; the root *vaha prāpaṇe*. "vahihādhāñbhyaś chandasi" (Uṇ. sū. "4-660" [?]; *vaha prāpaṇe*, *ohāk tyāge*, *ḍudhāñ dhāraṇapoṣaṇayoḥ*): after these roots the suffix *asun* comes, and it is *ṇit*; so the suffix *asun* after *vah* with the object-*kāraka* *yajñam* as *upapada*. Since by "gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca" (Uṇ. sū. "4-666" [?]) it is said that these suffixes come after roots with *gati* or *kāraka* *upapadas*, though in the sūtra *vahihā…* a root without *upapada* is named, the suffix *asun* comes after roots with an *upapada* too: *yajña* + *am* + *vah* + *as*. The suffix is *ṇit*, so *vṛddhi* of the penultimate by "ata upadhāyāḥ" (Pā. sū. 7-2-116). Being a *kṛdanta*, it is called a *prātipadika*; so the *am* inside the *prātipadika* takes *luk*. For the vocative dual *au*, the replacement *ā* by "supāṃ suluk…" (Pā. sū. 7-1-39). The two words *ṛtunā* and *yajñavāhasā* are not construed with each other; so "subāmantrite…" does not join the earlier *ṛtunā* as part of the following. By "āmantritasya ca" (Pā. sū. 8-1-19) it is wholly unaccented.
+
+**॥११॥**
+
+---
 
 ### Pages 671–676 — Sūkta 15, Rik 12 (last rik of the sūkta)
 
