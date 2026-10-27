@@ -5364,12 +5364,12 @@ The sage **Yāska**, in his Nirukta, explains this Ṛk thus: "*indreṇa hi sa�
 > अ॒न॒व॒द्यैर॒भिद्यु॑भिर्म॒खः सह॑स्वदर्चति ।
 > ग॒णैरिन्द्र॑स्य॒ काम्यैः॑ ॥८॥
 >
-> *anavadyáirabhídyubhirmakháḥ sáhasvadarcati |*
-> *gaṇáiríndrasya kā́myaiḥ ||8||*
+> *anavadyáir abhídyubhir makháḥ sáhasvad arcati |*
+> *gaṇáir índrasya kā́myaiḥ ||8||*
 
 ### Page 243 — Rik 6.8: Pada, Sāyaṇa-bhāṣya, grammar (characterized), Pada-meanings
 
-*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 12 [?] · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script, read from enlarged slices; the left edge of the first lines of the Bhāṣya was clipped in my enlargement, so a few word-beginnings are marked [?].)*
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 12 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script; re-read from the better scan.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -5380,11 +5380,11 @@ The sage **Yāska**, in his Nirukta, explains this Ṛk thus: "*indreṇa hi sa�
 
 > मखः प्रवर्तमानोऽयं यज्ञोऽनवद्यैर्दोषरहितैरभिद्युभिर्द्युलोकमभिगतैः काम्यैः फलप्रदत्वेन कामयितव्यैर्गणैर्मरुत्समूहैः सहितमिन्द्रस्येन्द्रं सहस्वद्बलोपेतं यथा भवति तथार्चति । पूजयति । अयं यज्ञो मरुत इन्द्रं चातिशयेन प्रीणयतीत्यर्थः । यज्ञ इत्यादिषु पंचदशसु यज्ञनामसु मखो विष्णुरिति पठितम् । चतुश्चत्वारिंशत्सु अर्चतिकर्मसु अर्चति गायतीति पठितम् ॥
 > *makhaḥ pravartamāno 'yaṃ yajño 'navadyair doṣa-rahitair abhidyubhir dyuloka-m abhigataiḥ kāmyaiḥ phala-pradatvena kāmayitavyair gaṇair marut-samūhaiḥ sahitam indrasyendraṃ sahasvad-balopetaṃ yathā bhavati tathārcati | pūjayati | ayaṃ yajño maruta indraṃ cātiśayena prīṇayatīty arthaḥ | yajña ity ādiṣu pañcadaśasu yajña-nāmasu makho viṣṇur iti paṭhitam | catuścatvāriṃśatsu arcati-karmasu arcati gāyatīti paṭhitam ||*
-> *(Reading notes: the printed "dyulokam abhigataiḥ" is run together and I divide it as shown; the Kannada Pada-meaning, given below, confirms the sense "joined with the Marut-groups who have gone to the heavenly world"; "indrasyendram" is a printed oddity (the genitive "indrasya" followed by the accusative "indram") that I give as printed and flag [?].)*
+> *(Reading notes: the printed "dyulokam abhigataiḥ" is run together and I divide it as shown; the Kannada Pada-meaning, given below, confirms the sense "joined with the Marut-groups who have gone to the heavenly world"; "indrasyendram" is a printed oddity (the genitive "indrasya" followed by the accusative "indram") given as printed.)*
 
 **Translation:** "'Makhaḥ' — this sacrifice, now going on, 'arcati' — honours, worships — Indra in such a manner that he becomes full of overpowering strength ('sahasvat'), together with the Marut-groups ('gaṇaiḥ'), who are faultless ('anavadyaiḥ'), who have gone to the heavenly world ('abhidyubhiḥ'), who are desirable ('kāmyaiḥ') because they bestow fruit. The sense: this sacrifice gratifies both the Maruts and Indra exceedingly. Among the fifteen names of sacrifice beginning with 'yajña,' 'makhaḥ' and 'viṣṇuḥ' are read; among the forty-four verbs of honouring, 'arcati' and 'gāyati' are read."
 
-**Grammar (characterized, sūtras kept; read from the slice and the page at ordinary enlargement):** "Anavadyaiḥ" — "na vidyate avadyaṃ yeṣāṃ te anavadyāḥ" — a bahuvrīhi with "nañ"; **नञ्सुभ्याम्** (पा. ६-२-१७२) the second member is end-acute. "Abhidyubhiḥ" — "abhigatā dyaur yaiḥ te abhidyavaḥ" — a bahuvrīhi; "abhi" is acute by its stem-accent (end-acute), and by **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (पा. ६-२-१) that accent alone remains. "Makhaḥ" — a stem accent. "Sahasvat" — "sahaḥ balam asminn asti" ("in which there is 'sahas,' strength"); **तसौ मत्वर्थे** (पा. १-४-१९) — before "matup" the stem is called "bha" and "pada," and so the "s" does not become "ru"; **मादुपधायाश्च मतोर्वोऽयवादिभ्यः** (पा. ८-२-९) the "m" of "matup" → "v" after a stem with "m" or "a/ā" penultimate (outside the "yava"-class) → "vat"; "sahas" is first-syllable acute as a **नब्विषयस्यानिसन्तस्य** word; "matup" is "p"-marked, and its accent is dropped, leaving the stem's accent. "Kāmyaiḥ" — "kamu kāntau" with "ṇic" (**कमेर्णिङ्**, पा. ३-१-३०), vṛddhi of the penultimate (**अत उपधायाः**, पा. ७-२-११६), then "yat" (**ण्यन्ताद्यत्** — **अचो यत्**, पा. ३-१-९७, as printed "3-1-?2"), the "ṇi" elided (**णेरनिटि**, पा. ६-४-५१); by the exception **यतोऽनावः** (पा. ६-१-२१३) to the "tit-svarita" rule (पा. ६-१-१८५), first-syllable acute. The print remarks that "kam" is a root of the "ghaṭādi" class, where "mit" shortening is barred (**मितां ह्रस्वः**, पा. ६-४-९२, not applying). ॥८॥
+**Grammar of the Bhāṣya (characterized, references as printed):** "Anavadyaiḥ" — "na vidyate 'vadyaṃ yeṣāṃ te 'navadyāḥ" — the end-acute of the second member by "nañsubhyām." "Abhidyubhiḥ" — "abhigatā dyaur yais te 'bhidyavaḥ, tair abhidyubhiḥ"; "abhi" is end-acute by the stem accent, which alone remains by the bahuvrīhi first-member rule. "Makhaḥ" — the stem accent. "Sahasvat" — "saho balam asminn arcanakarmaṇy astīti sahasvat"; **तसौ मत्वर्थे** (पा. १-४-१९) — the "bha" designation sets aside "pada," so the "s" does not become "ru"; **मादुपधायाश्च मतोर्वोऽयवादिभ्यः** (पा. ८-२-९) "v" for the "m" of "matup"; "sahas" is first-syllable acute ("nabviṣayasyānisantasya"), and since "matup" is "p"-marked that accent alone remains. "Kāmyaiḥ" — **कमेर्णिङ्** (पा. ३-१-३०); **अत उपधायाः** (पा. ७-२-११६) vṛddhi; the "mit" status that "kam" would have as an "am"-ending root ("janī jṝṣ knasu rañjo 'mantāś ca," धा. १९, … [?], the numbers unclear) is withdrawn by the prohibition "na kamyamicamām" (धा. १९-६९ [?]), so **मितां ह्रस्वः** (पा. ६-४-९२) does not shorten the penultimate; **ण्यन्तादचो यत्** (as printed; पा. ३-१-९७ [?], the last digit unclear) "yat"; **णेर्लोपः** (as printed; पा. ६-४-५१); "titsvaritam" (पा. ६-१-१८५) would apply, but **यतोऽनावः** (पा. ६-१-२१३) makes it first-syllable acute. ॥८॥
 
 **॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
 
@@ -5392,7 +5392,7 @@ The sage **Yāska**, in his Nirukta, explains this Ṛk thus: "*indreṇa hi sa�
 
 ### Pages 244–245 — Rik 6.8: Bhāvārtha, English, Special Topics, end of grammar
 
-*(Note on order: the grammar section, which in the print runs from p. 244 through p. 245, and the Pada-meanings are already given above under "Page 243"; what follows is the remainder of p. 244. Page headers: p. 244 "Maṇ. 1, A. 1, Sū. 6"; p. 245 "A. 1, A. 1, Va. [?]".)*
+*(Page headers: p. 244 "Maṇ. 1, A. 2, Sū. 6"; p. 245 "A. 1, A. 1, Va. 12." Re-read from the better scan. The Pada-meanings are under "Page 243"; the Kannada Vyākaraṇa-prakriyā of pp. 244–245 is characterized at the end of this section.)*
 
 **॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
 
@@ -5400,30 +5400,30 @@ The Marut-troops are free of fault and have become able to go to the heavenly wo
 
 **English Translation** *(as printed in the source)*
 
-> This sacrifice is performed in adoration of Indra so as to m[a]ke [sic: printed "mıke"] him powerful, along with the irreproachable, heavenward-tending and amiable bands (of the Maruts).
+> This sacrifice is performed in adoration of Indra so as to make him powerful, along with the irreproachable, heavenward-tending and amiable bands (of the Maruts).
 
 **॥ Viśeṣa-viṣayagaḷu — Special Topics ॥** *(Kannada, translated)*
 
 The sense of this Ṛk is somewhat strained (kliṣṭa). Its meaning can be stated thus: "May Indra, who is accompanied by the Marut-troops, be well pleased with me by means of this sacrifice that we are performing, and thereby become strong." Of the qualifying words used of the Maruts — "anavadyaiḥ," "abhidyubhiḥ," "kāmyaiḥ" — the meanings are plain.
 
-- **मखः (makhaḥ)** — "Among the fifteen sacrifice-names beginning with 'yajña,' the words 'makhaḥ' and 'viṣṇuḥ' are read" (Nighaṇṭu 3-[?]; the numeral printed as "३-१९" is not certain).
-- **अर्चति (arcati)** — "Among the forty-four 'arcati-karma' names beginning with 'arcati, gāyati,' the word 'arcati' is read" (Nighaṇṭu 3-[?]; printed "३-१९" [?]).
+- **मखः (makhaḥ)** — "Among the fifteen sacrifice-names beginning with 'yajña,' the words 'makhaḥ' and 'viṣṇuḥ' are read" (Ni. 3-19).
+- **अर्चति (arcati)** — "Among the forty-four 'arcati-karma' names beginning with 'arcati, gāyati,' the word 'arcati' is read" (Ni. 3-19).
 
-**Grammar** — see the characterization given under "Page 243" (the print there is continuous: "anavadyaiḥ," "abhidyubhiḥ," "makhaḥ," "sahasvat," "kāmyaiḥ"); p. 245 carries only its last lines, ending at ॥८॥.
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 244–245, Kannada; characterized)* "Anavadyaiḥ" — "na vidyate avadyaṃ yeṣāṃ te" (those without fault): **नञ्सुभ्याम्** (पा. सू. ६-२-१७२) makes the second member end-acute. "Abhidyavaḥ" — "abhigatā dyauḥ yais te," "tair abhidyubhiḥ" — those who have set out towards heaven; "abhi" end-acute by the stem accent, kept in the bahuvrīhi. "Makhaḥ" — end-acute by the stem accent. "Sahasvat" — "sahaḥ balam asminn arcanakarmaṇy asti" (in this act of worship there is strength): "matup" by **तदस्यास्त्यस्मिन्निति मतुप्** (पा. सू. ५-२-९४); **तसौ मत्वर्थे** (पा. सू. १-४-१९) — before a matvarthīya affix, stems ending in "t" and "s" are "bha," which sets aside "pada," so **ससजुषो रुः** (पा. सू. ८-२-६६) gives no "ru"; **मादुपधायाश्च मतोर्वोऽयवादिभ्यः** (पा. सू. ८-२-९) "v" for "m"; "sahas" first-syllable acute by **नब्विषयस्यानिसन्तस्य** (फि. सू. २६); "matup," "p"-marked, is unaccented (**अनुदात्तौ सुप्पितौ**, पा. सू. ३-१-४), so that accent stays. "Kāmyaiḥ" — **कमेर्णिङ्** (पा. सू. ३-१-३० [?], the print blurred) "ṇiṅ" in its own sense after "kamu kāntau"; **अत उपधायाः** (पा. सू. ७-२-११६) vṛddhi: "kāmi"; by the gaṇasūtra "janī-jṝṣ-knasu-rañjo 'mantāś ca" (bhvā. ga. sū.) — "janī prādurbhāve," "jṝṣ vayohānau," "knasu hvaraṇadīptyoḥ" (three divādi roots), "rañja rāge" (in both divādi and bhvādi), and roots ending in "am" — "kam," "gam" etc. would be "mit," and **मितां ह्रस्वः** (पा. सू. ६-४-९२) would shorten the penultimate before "ṇi"; but "na kamyamicamām" (bhvā. ga. sū.) withdraws "mit" from them, so there is no shortening. After "kāmi," **अचो यत्** (पा. सू. ३-१-९७) "yat"; **णेरनिटि** (पा. सू. ६-४-५१) loss of "ṇi"; in the instrumental plural "kāmyaiḥ," **तित्स्वरितम्** (पा. सू. ६-१-१८५) would give svarita, but **यतोऽनावः** (पा. सू. ६-१-२१३) sets it aside: first-syllable acute. ॥८॥
 
 ---
 
 ### Sūkta 6, The Ninth Mantra
 
-*(Accent-marks printed; not reproduced.)*
+*(Saṃhitā accents as printed; Pada unaccented. In the second line the svarita strokes stand over "sa" and "gi" in the print; their placement is doubtful, hence [accent ?].)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अतः परिज्मन्ना गहि दिवो वा रोचनादधि ।
-> समस्मिन्नृञ्जते गिरः ॥९॥
+> अतः॑ परिज्म॒न्ना ग॑हि दि॒वो वा॑ रोच॒नादधि॑ ।
+> स॑मस्मिन्नृंजते॒ गि॑रः ॥९॥ [accent ?]
 >
-> *ataḥ parijman ā gahi divo vā rocanād adhi |*
-> *sam asminn ṛñjate giraḥ ||9||*
+> *átaḥ parijmannā́ gahi divó vā rocanā́dádhi |*
+> *samasminnṛṃjate giraḥ ||9||* [accent ?]
 
 ### Pages 246–247 — Rik 6.9: Pada, Sāyaṇa-bhāṣya, grammar (characterized), Pada-meanings, Bhāvārtha, English, start of Special Topics
 
