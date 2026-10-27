@@ -49,3 +49,6 @@ PDF 638 (p. 624): Special Topics; grammar 3-4-80, 3-4-91, 3-1-78, 2-4-73, 8-2-30
 PDF 639 (p. 625): Un. "4-473" [?] (bhāṣya 4-73), 6-4-148, 6-1-102, Un. "2-159" [?], 7-2-10, 6-4-37, Un. "1-96" [?] and "1-97" [?], 7-3-86, 7-2-102, 6-1-97, 4-1-4, 6-1-168, 6-1-182, 3-1-4, "8-4-9" [as printed, for 8-3-9], 8-3-3.
 PDF 640 (p. 626): grammar end (8-3-19); close of Sukta 14 (no colophon; varga 27 at the end of the bhāṣya confirms the heading's 26, 27).
 PDF 640 (p. 626): Sukta 15 introduction: Anukramaṇī "इन्द्र सोममृतव्यं" read from print (was "ṛta[?]"), त्वाष्ट्र्याग्नेय्यै.
+PDF 641 (p. 627): Sukta 15 header from print (varga 28, 29 as printed; Devatā list in three layers); Rk 15.1 Samhita accents as printed (line 1 [accent ?]); bhasya first part re-transcribed.
+PDF 642 (p. 628): bhasya end (Ṛ. 1-14-10, 6-1-128, Ṛ. "1-14-4" [?] cut at the line end); Prati/Bhāvārtha/English/Special Topics from print; grammar 6-1-198.
+PDF 643 (p. 629): grammar: Un. "1-1-36" [as printed], Ṛ. 1-14-10, 8-1-63, 6-1-87, 6-1-128, Ṛ. 1-14-4, 7-1-50, 6-2-1; Rk 15.1 grammar now present (the earlier text had none).
