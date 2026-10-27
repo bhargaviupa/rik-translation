@@ -14008,51 +14008,75 @@ means: the operation enjoined in a rule that names a fifth-case form comes for w
 
 ---
 
-### Pages 663–666 — Sūkta 15, Rik 10
+### Page 663 (lower) — Sūkta 15, Rik 10
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यत्त्वा तुरीयमृतुभिर्द्रविणोदो यजामहे ।
-> अध स्मा नो ददिर्भव ॥१०॥
+> यत्त्वा॑ तु॒रीय॑मृ॒तुभि॒र्द्रवि॑णोदो॒ यजा॑महे । [accent ?]
+> अध॑ स्मा नो द॒दिर्भ॑व ॥१०॥
 >
-> *yat tvā turīyam ṛtubhir draviṇodo yajāmahe |*
-> *adha smā no dadir bhava ||10||*
+> *yát tvā turī́yam ṛtúbhir dráviṇodo yájāmahe |* [accent ?]
+> *ádha smā no dadír bhava ||10||*
+
+*(Line 1: the strokes over त्वा, रीय, वि and जा are clear; the bars under तु, ऋ, भि and दो are read at 500 dpi, faint at the foot of the page.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > यत् । त्वा । तुरीयम् । ऋतुऽभिः । द्रविणःऽदः । यजामहे ॥
 > अध । स्म । नः । ददिः । भव ॥१०॥
 >
-> *yat | tvā | turīyam | ṛtu-bhiḥ | draviṇaḥ-daḥ | yajāmahe ||*
+> *yat | tvā | turīyam | ṛtu 'bhiḥ | draviṇaḥ 'daḥ | yajāmahe ||*
 > *adha | sma | naḥ | dadiḥ | bhava ||10||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* smā*; the Pada the short* sma*.)*
+### Page 664 — Rik 10: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 664; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे द्रविणोदो देव यद्यस्मात्कारणादृतुभिः सह त्वां यजामहे । अधेत्ययं निपातस्तच्छब्दार्थः । तस्मात्कारणान्नोऽस्मभ्यं ददिर्धनस्य दाता भव स्म । अवश्यं भव । तुरीयं चतुर्णां पूरणम् । तुरीयं । चतुरश्छयतावाद्यक्षरलोपश्च । पा. [५-२-५१] । इति भप्रत्ययः … [तस्य प्रत्ययस्वरेणोदात्तत्वात् …] इति वचनात्कृत आदेशे प्रत्ययस्वरेणेकार उदात्तः । द्रविणोदः । उक्तम् । पादादित्वादामन्त्रितस्याद्युदात्तत्वम् । यजामहे । अत्र शपः पित्त्वेन तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव । पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वाद्यद्वृत्तयोगाद्वा न निघातः । व्यवहितयोगेऽपि हि स इत्युक्तम् । अध । छान्दसो धकारः । स्म । चादिरनुदात्तः । संहितायां निपातस्य चेति दीर्घः । ददिः । डुदाञ् दाने । आदृगमहनजनः किकिनौ लिट् च । पा. [३-२-१७१] । इति किप्रत्ययः । लिड्वद्भावाद्द्विर्वचनादि । आतो लोप इटि च । पा. [६-४-६४] इत्याकारलोपः । प्रत्ययस्वरः ॥१०॥
+> हे द्रविणोदो देव यद्यस्मात्कारणादृतुभिः सह त्वां यजामहे । अधेत्ययं निपातस्तच्छब्दार्थः । तस्मात्कारणान्नो ऽस्मभ्यं ददिर्धनस्य दाता भव स्म । अवश्यं भव । तुरीयं चतुर्णां पूरणं ॥ तुरीयं । चतुरश्छयतावाद्यक्षरलोपश्च । पा. ५-२-५१-१ । इति छप्रत्ययः । तस्य प्रत्ययस्वरेणोदात्तात्प्रागेवायनेयीनीत्यादिना । पा. ७-१-२ । ईयादेशः । आयनादिषूपदेशिवद्वचनं स्वरसिद्ध्यर्थं । पा. ७-१-२-१ । इति वचनात्कृत आदेशे प्रत्ययस्वरेणेकार उदात्तः । द्रविणोदः । उक्तं । पादादित्वादामन्त्रिताद्युदात्तत्वं । यजामहे । अत्र शपः पित्त्वेन तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव । पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वाद्यद्वृत्तयोगाद्वा न निघातः । व्यवहितयोगे ऽपि हि स निषेध इत्युक्तं । अध । छान्दसो धकारः । स्म । चादिरनुदात्तः । संहितायां निपातस्य चेति दीर्घः । ददिः । डुदाञ् दाने । आदृगमहनजनः किकिनौ लिट् च । पा. ३-२-१७१ । इति किप्रत्ययः । लिड्वद्भावाद्द्विर्वचनादि । आतो लोप इटि च । पा. ६-४-६४ । इत्याकारलोपः । प्रत्ययस्वरः ॥
 >
-> *he draviṇodo deva yad yasmāt kāraṇād ṛtubhiḥ saha tvāṃ yajāmahe | adhety ayaṃ nipātas tacchabdārthaḥ | tasmāt kāraṇān no 'smabhyaṃ dadir dhanasya dātā bhava sma | avaśyaṃ bhava | turīyaṃ caturṇāṃ pūraṇam | turīyaṃ | caturaś chayatāv ādyakṣaralopaś ca | pā. [5-2-51] | iti bha-pratyayaḥ … [tasya pratyaya-svareṇodāttatvāt …] iti vacanāt kṛta ādeśe pratyaya-svareṇekāra udāttaḥ | draviṇodaḥ | uktam | pādāditvād āmantritasyādyudāttatvam | yajāmahe | atra śapaḥ pittvena tiṅaś ca lasārvadhātuka-svareṇa dhātu-svara eva | pūrvasyāmantritasyāvidyamānavatvād yad-vṛtta-yogād vā na nighātaḥ | vyavahita-yoge 'pi hi sa ity uktam | adha | chāndaso dhakāraḥ | sma | cādir anudāttaḥ | saṃhitāyāṃ nipātasya ceti dīrghaḥ | dadiḥ | ḍudāñ dāne | ādṛgamahanajanaḥ kikinau liṭ ca | pā. [3-2-171] | iti ki-pratyayaḥ | liḍ-vadbhāvād dvirvacanādi | āto lopa iṭi ca | pā. [6-4-64] ity ākāralopaḥ | pratyaya-svaraḥ ||10||*
+> *he draviṇodo deva yadyasmātkāraṇādṛtubhiḥ saha tvāṃ yajāmahe | adhetyayaṃ nipātastacchabdārthaḥ | tasmātkāraṇānno 'smabhyaṃ dadirdhanasya dātā bhava sma | avaśyaṃ bhava | turīyaṃ caturṇāṃ pūraṇaṃ || turīyaṃ | caturaśchayatāvādyakṣaralopaśca | pā. 5-2-51-1 | iti chapratyayaḥ | tasya pratyayasvareṇodāttātprāgevāyaneyīnītyādinā | pā. 7-1-2 | īyādeśaḥ | āyanādiṣūpadeśivadvacanaṃ svarasiddhyarthaṃ | pā. 7-1-2-1 | iti vacanātkṛta ādeśe pratyayasvareṇekāra udāttaḥ | draviṇodaḥ | uktaṃ | pādāditvādāmantritādyudāttatvaṃ | yajāmahe | atra śapaḥ pittvena tiṅaśca lasārvadhātukasvareṇa dhātusvara eva | pūrvasyāmantritasyāvidyamānavattvādyadvṛttayogādvā na nighātaḥ | vyavahitayoge 'pi hi sa niṣedha ityuktaṃ | adha | chāndaso dhakāraḥ | sma | cādiranudāttaḥ | saṃhitāyāṃ nipātasya ceti dīrghaḥ | dadiḥ | ḍudāñ dāne | ādṛgamahanajanaḥ kikinau liṭ ca | pā. 3-2-171 | iti kipratyayaḥ | liḍvadbhāvāddvirvacanādi | āto lopa iṭi ca | pā. 6-4-64 | ityākāralopaḥ | pratyayasvaraḥ ||*
 
-**Translation:** "O god Draviṇodas! Since (*yat*) we worship you together with the Ṛtus — *adha*, 'therefore' [the particle has the sense of *tad*] — be a giver (*dadiḥ*) of wealth to us (*naḥ*); *bhava sma*: be so without fail. *Turīyam* — the fourth [i.e. the fourth time, or the fourth rik: the filler of the number four]." The rest is grammar, noted briefly: *turīyam* (*caturaś chayatāv ādyakṣaralopaś ca*, P. 5-2-51 [as read; this is the standard numbering] — the suffix *bha* [read as *chayat*] and the dropping of the first syllable of *catur*; the suffix accent); *draviṇodaḥ* (explained earlier; the vocative at the start of the *pāda* has the first-syllable accent); *yajāmahe* (*śap* is *pit*, so the accent stays on the root; the preceding vocative treated as non-existent, or the relative *yat* prevents loss of accent); *adha* (a particle with Vedic *dh*); *sma* (a particle, unaccented; lengthened in the Saṃhitā by P. 6-3-136 *nipātasya ca*); *dadiḥ* (*dā* with the Uṇādi-type *ki* by P. 3-2-171 *ādṛgamahanajanaḥ kikinau liṭ ca*, reduplicated as for a *liṭ*; *ā*-drop by P. 6-4-64; suffix accent). *(Grammar, noted briefly.)*
+**Translation:** "O god Draviṇodas, *yat*, since, we worship you with the Ṛtus, *adha*, a particle in the sense of *tad*, for that reason be *dadiḥ*, the giver of wealth, *naḥ*, to us: *bhava sma*, be so without fail. *Turīyam*: the filler of four, the fourth." (Grammatical tail: *turīyam* with *cha* and the loss of the first syllable by the vārttika 5-2-51-1, the replacement *īya* (Pā. 7-1-2) made first, before the suffix accent, by the vārttika 7-1-2-1, so the *ī* is udātta; *draviṇodaḥ* as said, initial udātta at the head of the pāda; *yajāmahe*, the root accent, not lowered, the earlier vocative counting as absent, or because of the relative *yat*, for the bar holds even when *yat* is not adjacent; *adha*, the *dh* Vedic; *sma*, unaccented as of the *cādi* class, lengthened in the Saṃhitā by *nipātasya ca*; *dadiḥ*, *ki* after *dā* (Pā. 3-2-171), reduplication as in *liṭ*, the *ā* dropped (Pā. 6-4-64), the suffix accent.)
 
-**Grammar pages (pp. 665–666), noted briefly.** The Kannada says: *turīyam* = *caturṇāṃ pūraṇam* "the completer of four"; by P. 5-2-51 [as read] the suffixes *chat* and *yat* are added to *catur* in the sense of the ordinal, with the dropping of the first syllable of *catur* — the Kannada discusses what "first syllable" (*ādyakṣara*) is: not *ca* alone but the first consonant with the vowel; so *catur* loses *ca* — and *tur* + *chat/yat* with the substitute *īya* for *cha* by P. 7-1-2 *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*, whence *tur* + *īya*; the accent falls on the *ī* by the suffix accent; the Mahābhāṣya's *ayanādiṣūpadeśivad-vacanaṃ svarasiddhyartham* [Vārttika on the same sūtra]. *Draviṇodaḥ* — the derivation as in the Rik 7 and 8; a vocative at the start of the *pāda* is not made unaccented (P. 8-1-19 [?]) but takes the first-syllable accent by P. 6-1-198. *Yajāmahe* — *yaj* with *laṭ*, first person plural *mahiṅ*, *śap*, *ṭita ātmanepadānāṃ ṭer e* P. 3-4-79 (*e*), *ato dīrgho yañi* P. 7-3-101; the verb is not made unaccented since *draviṇodaḥ*, the vocative before it, is treated as absent (P. 8-1-72) and the verb is at the start of a *pāda* (P. 8-1-19) — or by *yadvṛttān nityam* P. 8-1-66 because of *yat*; with a discussion of *pūjanāt pūjitam* (P. 8-1-67 [?]). *Adha* — the particle *atha* with the Vedic aspirate *dh*; first-syllable accent (Phiṭ 4-12 [?] *nipātā ādyudāttāḥ*). *Sma* — unaccented as a particle of the *ca* group (Phiṭ 4-[?] *cādayo 'nudāttāḥ*); the lengthened *smā* by P. 6-3-136 [? *nipātasya ca*]. *Dadiḥ* — *ḍudāñ dāne*; *ādṛgamahanajanaḥ kikinau liṭ ca* P. 3-2-171 gives *ki* in the Vedic sense, treated as *liṭ*, hence doubling by P. 6-1-8 *liṭi dhātor anabhyāsasya*, shortening by P. 7-4-59 *hrasvaḥ*, loss of *ā* before *iṭ* by P. 6-4-64 *āto lopa iṭi ca*; hence *dadiḥ* with suffix accent. ॥10॥ *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 664)*
-
-**द्रविणोदः (draviṇodaḥ)** — O Agni, giver of wealth | **यत् (yat)** — because | **ऋतुभिः (ṛtubhiḥ)** — together with the Ṛtu-deities | **तुरीयम् (turīyam)** — [for] the fourth time | **त्वा (tvā)** — you | **यजामहे (yajāmahe)** — we worship | **अध (adha)** — therefore | **नः (naḥ)** — to us | **ददिः (dadiḥ)** — giver of wealth | **भव स्म (bhava sma)** — be, without fail.
+**द्रविणोदः (draviṇodaḥ)** — O Agni, giver of wealth | **यत् (yat)** — for the reason that | **ऋतुभिः (ṛtubhiḥ)** — with the Ṛtu deities | **तुरीयम् (turīyam)** — for the fourth time | **त्वा (tvā)** — you | **यजामहे (yajāmahe)** — we worship | **अध (adha)** — so | **नः (naḥ)** — to us | **ददिः (dadiḥ)** — as the giver of wealth | **भव स्म (bhava sma)** — be, without fail.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! We, desiring wealth, worship you together with the Ṛtu-deities, as the fourth [in the series]. Therefore accept our worship without fail, and be the giver of wealth to us.
+O Agni, seeking wealth, we worship you, the fourth, with the Ṛtu deities. So surely accept our worship and become the giver of wealth.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Dravinodas, Since we adore you for the fourth time along with the Ritus ; therefore be a giver (of riches) to us.
+> Dravinodas, Since we adore you for the fourth time along with the Ritus; therefore be a giver (of riches) to us.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 664)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**तुरीयम् (turīyam)** — "the fourth time". In this sūkta there are four riks in praise of Agni called Draviṇodā (the riks 7 to 10 of the sūkta); this is the fourth among them. Therefore *turīyam* here means "the fourth time", or "from the fourth rik we praise [you]".
+**Turīyam**: for the fourth time. In this sūkta there are four Ṛks praising Agni called Draviṇodas (the Ṛks from 7 to 10); among them this is the fourth. So here *turīyam* means "for the fourth time", or "we praise with the fourth Ṛk".
+
+### Page 665 — Rik 10: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 665–666, noted briefly)*
+
+**तुरीयम् (*turīyam*)**: analysed *caturṇāṃ pūraṇam*. "caturaś chayatāv ādyakṣaralopaś ca" (Pā. sū. "5-2-51" [as printed; the bhāṣya gives 5-2-51-1]): in the sense of filling, after *catur* the suffixes *cha* and *yat* come alternately, and the first syllable also drops; so the suffix *cha* after *catur*: *catur* + *cha*; by this vārttika itself the first *akṣara* drops. *Akṣara* should not be explained as the first consonant with its vowel, nor as the first vowel with its consonant. If it is so explained, by the maxim "naṭabhāryāvad vyañjanāni bhavanti" it would mean the first vowel with the consonants before and after it, and then in *catur* the *cat* would have to drop. So *ādyakṣara* means the first consonant with its vowel. Thus *ca* drops: *tur* + *cha*. "āyanādiṣūpadeśivadvacanaṃ svarasiddhyartham" (Pā. Ma. "2-1-2-1" [as printed, for 7-1-2-1]): before the initial udātta comes by "ādyudāttaś ca", by "āyaneyīnīyiyaḥ…" (Pā. sū. "2-1-2" [as printed, for 7-1-2]) *īya* replaces the suffix *cha*; after this replacement, by the suffix accent the *ī* of *īya* becomes udātta.
+
+**द्रविणोदः (*draviṇodaḥ*)**: its formation is set out in the 7th mantra. Here *draviṇodaḥ* is a vocative singular, so it is a vocative. Being at the head of the pāda, it is not made unaccented by "āmantritasya ca" (Pā. sū. 8-1-19); by the sixth-adhyāya "āmantritasya ca" (Pā. sū. 6-1-198) it is initial udātta.
+
+**यजामहे (*yajāmahe*)**: *yaja devapūjādau*, *laṭ*, *ātmanepada* 1st plural *mahiṅ*; *śap* by "kartari śap" (Pā. sū. 3-1-68): *yaj* + *a* + *mahi*; *e* for the *ṭi* by "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79); lengthening by "ato dīrgho yañi" (Pā. sū. 7-3-101): *yajāmahe*. Here *śap* is *pit*, so unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4). The *sārvadhātuka* *mahe* in place of the *lakāra* follows the *śap* of *adupadeśa*, so it is unaccented by "tāsyanudāttet…" (Pā. sū. 6-1-186). So the root accent remains. The earlier vocative *draviṇodaḥ* is treated as absent by "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. "8-1-27" [as printed, for 8-1-72]); so *yajāmahe* counts as at the head of the pāda, and "tiṅṅatiṅaḥ" ("8-8-28" [as printed]) does not make it wholly unaccented. Or the bar comes by "yadvṛttān nityam" (Pā. sū. 8-1-66). Since *pūjita* is mentioned again in "pūjanāt pūjitam" (Pā. sū. 8-1-67), it is made known that "in this section, though there is a fifth-case statement, immediate sequence is not required", as was set out before. So, though *yat* is not adjacent, there is no obstacle to the bar of *yadvṛttān nityam*.
+
+### Page 666 — Rik 10: grammar (end)
+
+**अध (*adha*)**: *atha* is a *nipāta*; the *th* becomes *dh* as a Vedic form. Initial udātta by "nipātā ādyudāttāḥ" (Phi. sū. 80).
+
+**स्म (*sma*)**: unaccented by "cādayo 'nudāttāḥ" (Phi. sū. 84). In the Saṃhitā lengthened by "nipātasya ca" (Pā. sū. 6-3-136).
+
+**ददिः (*dadiḥ*)**: the root *ḍudāñ dāne*. "ādṛgamahanajanaḥ kikinau liṭ ca" (Pā. sū. 3-2-171): after roots ending in *ā* and in *ṛ*, and after *gam* and the others, the suffixes *ki* and *kin* come, and they behave as *liṭ*; so the suffix *ki* after the *ā*-final root *dā*. Since it behaves as *liṭ*, reduplication by "liṭi dhātor anabhyāsasya" (Pā. sū. 6-1-8); shortening by "hrasvaḥ" (Pā. sū. 7-4-59): *da* + *dā* + *i*; by "āto lopa iṭi ca" (Pā. sū. 6-4-64) the *ā* drops: *dadi*. By the suffix accent it is final udātta.
+
+**॥१०॥**
+
+---
 
 ### Pages 666–670 — Sūkta 15, Rik 11
 
