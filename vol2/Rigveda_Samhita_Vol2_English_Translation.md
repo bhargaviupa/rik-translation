@@ -16721,15 +16721,19 @@ Of these four kinds of sense, the last, the act of giving, is what is meant in t
 
 ---
 
-### Pages 769–773 — Sūkta 18, Rik 6
+### Page 769 (lower) — Sūkta 18, Rik 6
+
+*(Saṃhitā accents as printed; Pada unaccented. Deity: Sadasaspati.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सदसस्पतिमद्भुतं प्रियमिन्द्रस्य काम्यम् ।
-> सनिं मेधामयासिषम् ॥६॥
+> सद॑स॒स्पति॒मद्भु॑तं प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् । [accent ?]
+> स॒निं मे॒धाम॑यासिषम् ॥६॥ [accent ?]
 >
-> *sadasas patim adbhutaṃ priyam indrasya kāmyam |*
-> *saniṃ medhām ayāsiṣam ||6||*
+> *sádasaspátim ádbhutaṃ priyám índrasya kā́myam |* [accent ?]
+> *saníṃ medhā́m ayāsiṣam ||6||* [accent ?]
+
+*(Read as printed: strokes over द (सदस), द्भु, द्र and का, and in line 2 over म (मेधाम); bars under स (सदस), ति, प्रि, स्य, स (सनिं) and मे.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -16739,54 +16743,73 @@ Of these four kinds of sense, the last, the act of giving, is what is meant in t
 > *sadasaḥ | patim | adbhutam | priyam | indrasya | kāmyam ||*
 > *sanim | medhām | ayāsiṣam ||6||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+### Page 770 — Rik 6: bhāṣya, word-meanings, overall sense, English
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 770; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> अनुप्रवचनीयेचरोर्होमे सदसस्पतिमित्येषा विनियुक्ता । तथा च गृह्ये । मेखलामाबध्येति खण्डे पठ्यते । आचार्यः समन्वारब्धे जुहुयात्सदसस्पतिमद्भुतम् । आ. गृ. [१-२२-११] । इति ॥
+> अनुप्रवचनीयचरोर्होमे सदसस्पतिमित्येषा विनियुक्ता । तथा च गृह्ये मेखलामाबध्येति खण्डे पठ्यते । आचार्यः समन्वारब्धे जुहुयात्सदसस्पतिमद्भुतम् । आ. गृ. १-२२-११ । इति ॥ मेधां लब्धुं सदसस्पतिमेतन्नामकं देवमयासिषम् । प्राप्तवानस्मि । कीदृशम् । अद्भुतमाश्चर्यकरम् । इन्द्रस्य प्रियं सोमपाने सहचारित्वात् । काम्यं कमनीयम् । सनिं धनस्य दातारम् ॥ सदसः । षद्लृ विशरणादौ । सर्वधातुभ्योऽसुन् । नित्त्वादाद्युदात्तः । पतिम् । पातेर्डतिः । उ. ४-५७ । टिलोपः । प्रत्ययस्वरः । प्रियम् । इगुपधज्ञाप्रीकिरः कः । इयङादेशः । प्रत्ययस्वरः । काम्यम् । कामयतेरचो यत् । णेरनिटीति णिलोपः । यतोऽनाव इत्याद्युदात्तत्वम् । सनिम् । षणु दाने । धात्वादेः षः सः । अच इरित्यनुवृत्तौ खनिकष्यञ्ज्यसिवसिवनिसनिध्वनिग्रन्थिचरिभ्यश्च । उ. ४-१४० । इति इप्रत्ययः । प्रत्ययस्वरः । अयासिषम् । या प्रापणे । लुङ् । मिपोऽमादेशः । यमरमनमातां सक् च । पा. ७-२-७३ । इति सिच इडागमः । धातोः सगागमः । निघातः ॥
 >
-> *anupravacanīyecaror home sadasaspatim ity eṣā viniyuktā | tathā ca gṛhye | mekhalām ābadhyeti khaṇḍe paṭhyate | ācāryaḥ samanvārabdhe juhuyāt sadasaspatim adbhutam | ā. gṛ. [1-22-11] | iti ||*
+> *anupravacanīyacarorhome sadasaspatimityeṣā viniyuktā | tathā ca gṛhye mekhalāmābadhyeti khaṇḍe paṭhyate | ācāryaḥ samanvārabdhe juhuyātsadasaspatimadbhutam | ā. gṛ. 1-22-11 | iti || medhāṃ labdhuṃ sadasaspatimetannāmakaṃ devamayāsiṣam | prāptavānasmi | kīdṛśam | adbhutamāścaryakaram | indrasya priyaṃ somapāne sahacāritvāt | kāmyaṃ kamanīyam | saniṃ dhanasya dātāram || sadasaḥ | ṣadlṛ viśaraṇādau | sarvadhātubhyo 'sun | nittvādādyudāttaḥ | patim | pāterḍatiḥ | u. 4-57 | ṭilopaḥ | pratyayasvaraḥ | priyam | igupadhajñāprīkiraḥ kaḥ | iyaṅādeśaḥ | pratyayasvaraḥ | kāmyam | kāmayateraco yat | ṇeraniṭīti ṇilopaḥ | yato 'nāva ityādyudāttatvam | sanim | ṣaṇu dāne | dhātvādeḥ ṣaḥ saḥ | aca irityanuvṛttau khanikaṣyañjyasivasivanisanidhvanigranthicaribhyaśca | u. 4-140 | iti ipratyayaḥ | pratyayasvaraḥ | ayāsiṣam | yā prāpaṇe | luṅ | mipo 'mādeśaḥ | yamaramanamātāṃ sak ca | pā. 7-2-73 | iti sica iḍāgamaḥ | dhātoḥ sagāgamaḥ | nighātaḥ ||*
 
-> मेधां लब्धुं सदसस्पतिमेतन्नामकं देवमयासिषम् । प्राप्तवानस्मि । कीदृशम् । अद्भुतमाश्चर्यकरम् । इन्द्रस्य प्रियं सोमपाने सहचारित्वात् । काम्यं कमनीयं सनिं धनस्य दातारम् ॥ सदसः । षद्ऌ विशरणगत्यवसादनेषु । सर्वधातुभ्योऽसुन् । नित्त्वाद्याद्युदात्तः । पतिम् । पातेर्डतिः । उ. [४-६२] । टिलोपः । प्रत्ययस्वरः । प्रियम् । इगुपधज्ञाप्रीकिरः कः । इयङ्जादेशः । प्रत्ययस्वरः । काम्यम् । कामयतेरचो यत् । णेरनिटि । … यतोऽनावः । इत्याद्युदात्तत्वम् । सनिम् । षणु दाने । … आयासिषम् । या प्रापणे । लुङ् । उत्तमपुरुषैकवचनं मिप् । … ॥६॥
->
-> *medhāṃ labdhuṃ sadasaspatim etan-nāmakaṃ devam ayāsiṣam | prāptavān asmi | kīdṛśam | adbhutam āścarya-karam | indrasya priyaṃ soma-pāne sahacāritvāt | kāmyaṃ kamanīyaṃ saniṃ dhanasya dātāram || sadasaḥ | ṣadḷ viśaraṇa-gaty-avasādaneṣu | sarvadhātubhyo 'sun | nittvād ādyudāttaḥ | patim | pāter ḍatiḥ | u. [4-62] | ṭilopaḥ | pratyaya-svaraḥ | priyam | igupadha-jñā-prī-kiraḥ kaḥ | iyaṅ-jādeśaḥ | pratyaya-svaraḥ | kāmyam | kāmayater aco yat | ṇer aniṭi | … yato 'nāvaḥ | ity ādyudāttatvam | sanim | ṣaṇu dāne | … āyāsiṣam | yā prāpaṇe | luṅ | uttama-puruṣaikavacanaṃ mip | … ||6||*
+**Translation:** "This ṛk *sadasaspatim* is applied in the oblation of the *anupravacanīya* rice-pot. So it is read in the Gṛhya, in the section beginning *mekhalām ābadhya*: 'While the teacher is held on to, he should offer with *sadasaspatim adbhutam*' (Āśv. Gṛ. 1-22-11). To obtain *medhā*, intelligence, I have *ayāsiṣam*, approached, the god named Sadasaspati. Of what kind? *Adbhuta*, causing wonder; *priya*, dear, to Indra, as his companion in soma-drinking; *kāmya*, lovely; *sani*, a giver of wealth." (Grammatical tail: *sadasaḥ*, *ṣadḷ viśaraṇādau*, *asun* by *sarvadhātubhyo 'sun*, initial udātta as *nit*; *patim*, *ḍati* by *pāter ḍatiḥ* (Uṇ. 4-57), the loss of the *ṭi*, the suffix accent; *priyam*, *ka* by *igupadhajñāprīkiraḥ kaḥ*, the substitute *iyaṅ*, the suffix accent; *kāmyam*, *yat* by *aco yat* after the causative of *kam*, the loss of *ṇi* by *ṇer aniṭi*, initial udātta by *yato 'nāvaḥ*; *sanim*, *ṣaṇu dāne*, *s* for *ṣ*, the suffix *i* by Uṇ. 4-140 with *aca iḥ* carried on, the suffix accent; *ayāsiṣam*, *yā prāpaṇe*, *luṅ*, *am* for *mip*, the augment *iṭ* for *sic* by Pā. 7-2-73, the augment *sak* for the root, wholly unaccented.)
 
-**Application, as given in the bhāṣya's opening lines:** "In the *home* [oblation] of the *caru* in the *anupravacanīya* rite this rik is employed; so it is read in the Gṛhya [Sūtra], in the section beginning *mekhalām ābadhya*: 'the teacher, when [the pupil] has laid hold [of the girdle], shall offer *sadasaspatim adbhutam*' (Āśvalāyana Gṛhya-sūtra 1-22-11 [?])."
+**॥ Prati-padārthaḥ ॥**
 
-**Translation:** "To obtain *medhā* — the power of intelligence — I have approached (*ayāsiṣam*, 'I have reached, I have gone to') the deity named Sadasaspati. Of what kind? *Adbhutam* — wonderful; *priyam indrasya* — dear to Indra, because of his companionship in the drinking of soma; *kāmyam* — to be desired, lovely; *sanim* — the giver of wealth." The rest is grammar, noted briefly: *sadasaḥ* (*sad* "to sink, to go", Uṇādi *asun*, first-syllable accent through *n*); *patim* (*pā* "to protect", Uṇādi *ḍati*; *ṭi* dropped); *priyam* (*prī* + *ka*, with *iy* for the *ī*); *kāmyam* (*kam* + *ṇic* + *yat* by P. 3-1-97 *aco yat*; *ṇi* dropped when no *iṭ* follows [P. 6-4-51]; first-syllable accent by P. 6-1-213 *yato 'nāvaḥ*); *sanim* (*ṣaṇu* "to give", the Uṇādi *i*); *ayāsiṣam* (*yā* "to go", *luṅ*, first singular *mip*, with *siC*, *aṭ* augment, *s*-augment by P. 7-2-73 [?]). *(Grammar, noted briefly.)*
-
-**Grammar pages (pp. 772–773), noted briefly.** The Kannada treats: *sadasaḥ* (*ṣadḷ viśaraṇagatyavasādaneṣu*; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *sarvadhātubhyo 'sun* Uṇ. 4-[?]; *n*-mark gives *ñnityādir nityam* P. 6-1-197 [a suffix with *ñ* or *n* has first-syllable accent; the Kannada reads the sūtra as "the first of a word ending in a suffix carrying *ñ* or *n*"]; the genitive *as*, *ru*, *visarga*; *patiḥ* following, so *ṣaṣṭhyāḥ patiputra…* P. 8-3-53 gives *s*), *patim* (*pā rakṣaṇe*; Uṇ. 4-62 *pāter ḍatiḥ*; the *ḍ* is *it*, so *ṭeḥ* P. 6-4-143 drops the *ṭi* part of *pā*; accent by the suffix, first-syllable), *priyam* (*prīñ tarpaṇe*; Uṇ. 3-[?]; *igupadhajñāprīkiraḥ kaḥ* P. 3-1-135 gives *ka* after roots with an *i/u/ṛ/ḷ* penultimate vowel and *jñā*, *prī*, *kṝ*; the *k* is *it* [P. 1-3-8]; *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* P. 6-4-77 gives *iy* for *ī*: *priya*; suffix end-accent; accusative *am*, *ami pūrvaḥ*), *kāmyam* (*kamu kāntau*; *kāntiḥ* = *icchā*; *ṇic* by P. 3-1-30 *kamer ṇiṅ* in the sense of the root itself; *kam* + *i*; *ata upadhāyāḥ* P. 7-2-116 *vṛddhi*, so *kām-i*; *ajanta* [the *ṇic* stem ends in a vowel]; *ac* + *yat* by P. 3-1-97 *aco yat*; *ṇeraniṭi* P. 6-4-51 drops the *ṇic*: *kāmya*; first-syllable accent by P. 6-1-213 *yato 'nāvaḥ* in place of the *svarita* of *tit svaritam*), *sanim* (*ṣaṇu dāne*; *dhātvādeḥ ṣaḥ saḥ*; *khanikaṣyajisivanisadhvisanisrasniśriyaś calibhyaś ca* [Uṇ. 4-132 as read]; *i* after *ṣaṇ* and other roots listed; *ac iḥ* [Uṇ. 4-139]; *san* + *i*; suffix accent *sanim*), *ayāsiṣam* (*yā prāpaṇe*; *luṅ*; first-person singular *mip*; *tasthasthamipāṃ tāṃtaṃtāmaḥ* P. 3-4-101 gives *am*; *cli luṅi* P. 3-1-43 gives *cli*, whose *sic* is by *cleḥ sic* P. 3-1-44; *luṅlaṅlṛṅkṣv aḍudāttaḥ* P. 6-4-71 gives the augment *aṭ*, so *a-yā-s-am*; *yamaramanamātāṃ sak ca* P. 7-2-73 gives *sak* to roots ending in *ā*, and *iṭ* to the *sic* after that: *ayās* + *iṣ* + *am* [*ayāsiṣam*]; *ādeśapratyayayoḥ* P. 8-3-59 gives *ṣ*; *tiṅ atiṅaḥ* P. 8-1-28 makes the verb wholly unaccented). ॥6॥ *(Numerals as read; pointers only.)*
-
-**॥ Prati-padārthaḥ ॥** *(p. 770)*
-
-**मेधाम् (medhām)** — the power of intelligence | **लब्धुम् (labdhum)** — to obtain | **अद्भुतम् (adbhutam)** — marvellous | **इन्द्रस्य (indrasya)** — to Indra | **प्रियम् (priyam)** — the one dear | **काम्यम् (kāmyam)** — lovely | **सनिम् (sanim)** — the giver of wealth | **सदसस्पतिम् (sadasaspatim)** — the deity called Sadasaspati | **आयासिषम् (āyāsiṣam)** — I have resorted to (or: I pray).
+**मेधाम् (medhām)** — the power of intelligence | **लब्धुम् (labdhum)** — to obtain | **अद्भुतम् (adbhutam)** — wonder-working | **इन्द्रस्य (indrasya)** — to Indra | **प्रियम् (priyam)** — dear | **काम्यम् (kāmyam)** — lovely | **सनिम् (sanim)** — giving wealth | **सदसस्पतिम् (sadasaspatim)** — the deity called Sadasaspati | **अयासिषम् (ayāsiṣam)** — I have approached (taken refuge with, or pray to).
 
 **॥ Bhāvārthaḥ ॥**
 
-I have sought refuge in the deity Sadasaspati — the wonder-working, dear to Indra, lovely in form, giver of wealth — in order to obtain the power of *medhā* (wisdom).
+I take refuge with (pray to) the deity called Sadasaspati, who is wonder-working, that is, does wondrous daring deeds, who is dear to Indra, of lovely form, and a giver of wealth, to obtain the power of intelligence.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> I pray, for wisdom, Sadasaspati, the wonderful, the beloved of Indra, the desirable, and the giver of riches.
+> I pray, for wisdom, Sadasaspati, the wonderful, the beloved of Indra, the dcsirable [sic], and the giver of riches.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 771)*
+### Page 771 — Rik 6: Special Topics
 
-The deity of this rik is Sadasaspati. When the *caru*-oblation called *anupravacanīya* is offered in domestic rites such as marriage, this rik is recited. In the Āśvalāyana Gṛhya-sūtra, in the section *mekhalām ābadhya*, the order of the application of this rik is given by the teacher: *samanvārabdhe juhuyāt sadasaspatim adbhutam* (Āś. Gṛ. 1-22-11 [?]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**सदसस्पतिम् (sadasaspatim)** — the deity Sadasaspati. In the literal sense, *sadasaḥ patiḥ*: the lord of the *sadas* — the sacrificial assembly, or the hall. What Skandasvāmin says here is acceptable:
+Sadasaspati is the deity of this ṛk. In domestic rites such as marriage, this ṛk *sadasaspati* is recited when the oblation called the *anupravacanīya* rice-pot is made. In the Āśvalāyana Gṛhyasūtra, in the section *mekhalām ābadhya*, the order of application of this ṛk is given as *ācāryaḥ samanvārabdhe juhuyāt sadasaspatim adbhutam* (Āś. Gṛ. 1-22-11).
 
-> चतस्रः सादसस्पत्यः । सदः प्रसिद्धं यज्ञगृहं तस्याधिपतिः सदसस्पतिः । कोऽसौ । अग्निः । कुत एतत् । अग्नेः सर्वयज्ञाङ्गाधिपतित्वात् । असु चर्चु [?] यज्ञसाधनहविष्कृतिसमर्थनाद्यग्नि कर्मदर्शनात्तद्देवत्याश्च तस्र ऋचः । सदसस्पतिमग्निम् ॥
-> *catasraḥ sādasaspatyaḥ | sadaḥ prasiddhaṃ yajña-gṛhaṃ tasyādhipatiḥ sadasaspatiḥ | ko 'sau | agniḥ | kuta etat | agneḥ sarva-yajñāṅgādhipatitvāt | asu carcu [?] yajña-sādhana-haviṣkṛti-samarthanādy agni karma-darśanāt tad-devatyāś ca tasra ṛcaḥ | sadasaspatim agnim ||*
+**Sadasaspatim**: the deity named Sadasaspati. To give the sense of the parts, *sadasaḥ patim* means the lord of the *sadas* or of the assembly. What Skandasvāmin says on this matter is acceptable:
 
-"The four [riks 6–9] are *sādasaspatya* — to Sadasaspati. *Sadas* is the well-known sacrificial hall; its lord is Sadasaspati. Who is he? Agni. Why? Because Agni is the lord of all parts of the sacrifice. [The sentence 'asu carcu …' is garbled in the print; its sense is that, because the actions of preparing the oblation and the like are seen to be Agni's, the *ṛcas* [which speak of such deeds] are addressed to him.] 'Sadasaspati' means Agni." [The English gloss of this passage is mine and tentative.] The Kannada adds: these four riks [the three following and this one] have Sadasaspati as deity. The word *sadas* means the well-known sacrificial hall; as its lord, "Sadasaspati" is the name. Who is the lord of this sacrificial hall? Agni, who is well known as lord of every part of the sacrifice. And since in these four riks such acts as the preparation of the oblation, which belong to Agni, are mentioned, it is beyond dispute that "Sadasaspati" is Agni. The name Sadasaspati is not seen elsewhere in the Ṛgveda; Yāska too has said nothing about this Sadasaspati; hence it must be admitted that what Skandasvāmin has said is the consistent view.
+> चतस्रः सादसस्पत्याः । सदः प्रसिद्धं यज्ञगृहं तस्याधिपतिः सदसस्पतिः । कोऽसौ । अग्निः । कुत एतत् । अग्नेः सर्वयज्ञाधिपतित्वात् । अपि च यज्ञसाधनहविष्कृतिसमर्थनाद्यग्निकर्मदर्शनात्तद्देवत्याश्चतस्रश्चर्चः । सदसस्पतिमग्निम् ॥
+>
+> *catasraḥ sādasaspatyāḥ | sadaḥ prasiddhaṃ yajñagṛhaṃ tasyādhipatiḥ sadasaspatiḥ | ko 'sau | agniḥ | kuta etat | agneḥ sarvayajñādhipatitvāt | api ca yajñasādhanahaviṣkṛtisamarthanādyagnikarmadarśanāttaddevatyāścatasraścarcaḥ | sadasaspatimagnim ||*
 
-**अद्भुतम् (adbhutam)** — *āścarya-karam*: "wonder-working"; the commentator Skandasvāmin explains the word as *mahāntam*, great, or *śreṣṭham*, best.
+("Four ṛks are to Sadasaspati. *Sadas* is the well-known sacrificial hall; its lord is Sadasaspati. Who is he? Agni. Why so? Because Agni is lord of all sacrifices; and also, since Agni's acts, such as preparing the oblations, the means of sacrifice, are seen, the four ṛks have him as deity: Sadasaspati is Agni": mine and tentative.) This ṛk and the three ṛks that follow, four ṛks in all, have Sadasaspati as deity. *Sadas* means the well-known sacrificial hall; since he is its lord, he is named Sadasaspati. Who is the lord of this hall? Agni. For Agni is well known as the lord of all sacrifices. Moreover, since these four ṛks set forth acts connected with Agni, such as preparing the oblation, the means of sacrifice, and the acts of Agni, it is beyond dispute that Sadasaspati is Agni. The name Sadasaspati is not found elsewhere in the Ṛgveda apart from these ṛks. Yāska too has said nothing about this Sadasaspati. So it must be accepted that what Skandasvāmin says is fitting.
 
-**काम्यम् (kāmyam)** — *kamanīyam*: to be wished for, lovely. Skandasvāmin's sense is: *kāmyaṃ prārthayitavyaṃ stotṛṇām* — "that which is to be prayed for by those who praise".
+**Adbhutam**: the commentator says *āścaryakaram*, wonder-working; Skandasvāmin explains the word as *mahāntam*, great, excellent.
 
-**सनिम् (sanim)** — from the root *ṣaṇu dāne*: *dhanasya dātāram* [giver of wealth], or *dhanadānam* [the act of giving wealth] — "Sadasaspati who gives wealth, or Sadasaspati for the giving of wealth".
+**Kāmyam**: *kamanīyam*, wished for, lovely. Skandasvāmin's sense is *kāmyaṃ prārthayitavyaṃ stotṛṇām*, worthy to be prayed to by the praisers.
 
-**आयासिषम् (āyāsiṣam)** — from the root *yā prāpaṇe*: "I have obtained, I have approached", or "I have resorted to": that is, "I have taken refuge in Sadasaspati for the gain of wisdom and wealth". Skandasvāmin says that *īmahe*, *yāmi* and others are used in the sense of "asking" (*yācñā*), as the Nirukta says; so *āyāsiṣam*, from a changed form of the root *yā*, is explained as *yoce* — "I ask, I pray".
+**Sanim**: this word, formed from the root *ṣaṇu dāne*, may be taken as *dhanasya dātāram*, Sadasaspati who gives wealth, or as *dhanadānam*, Sadasaspati for the gift of wealth.
+
+**Ayāsiṣam**: this word, formed from the root *yā prāpaṇe*, means "I have reached" or "I have taken refuge with": I have taken refuge with Sadasaspati for intelligence and gain of wealth.
+
+### Page 772 — Rik 6: Special Topics (end) and grammar
+
+Since Skandasvāmin says in the Nirukta that words such as *īmahe* and *yāmi* are used in the sense of begging, he explains *ayāsiṣam*, a variant form of the root *yā*, as *yāce*, I beg or pray.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 772–773, noted briefly)*
+
+**सदसः (*sadasaḥ*)**: the root *ṣadḷ viśaraṇagatyavasādaneṣu*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; after *sad* the suffix *asun* by *sarvadhātubhyo 'sun*. The suffix is *nit*, so by "ñnityādir nityam" (Pā. sū. 6-1-197), whereby what ends in a suffix with *ñ* or *n* as *it* is initial udātta, *sadas* is initial udātta. When the genitive singular *ṅas* [as printed: *jas*] comes, *sadas* + *as*, *ru* and visarga: *sadasaḥ*. After it stands the word *pati*; so by "ṣaṣṭhyāḥ patiputra…" (Pā. sū. 8-3-53) *s* for the visarga.
+
+**पतिम् (*patim*)**: the root *pā rakṣaṇe*. By "pāter ḍatiḥ" (Uṇ. sū. "4-57" [?]) the suffix *ḍati* comes after the root *pā rakṣaṇe*; the *ḍ* at the start of the suffix is called *it* by "cuṭū" (Pā. sū. 1-3-7) and dropped by "tasya lopaḥ" (Pā. sū. 1-3-9): *pā* + *ati*. By force of the suffix being made *ḍit*, though the former has no *bha* name, by "ṭeḥ" (Pā. sū. 6-4-143) the *ā* of *pā*, called *ṭi*, drops: *pati*. It is initial udātta [as printed] by the suffix accent.
+
+**प्रियम् (*priyam*)**: the root *prīñ tarpaṇe*. Since the suffix *ka* comes after roots with *i*, *u*, *ṛ*, *ḷ* in the penultimate and after *jñā avabodhane*, *prīñ tarpaṇe* and *kṝ vikṣepe*, the suffix *ka* after *prī*. By "laśakv ataddhite" (Pā. sū. 1-3-8) the *k* is called *it* and dropped: *prī* + *a*. By "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau" (Pā. sū. 6-4-77) the substitute *iyaṅ* for the *ī*: *priya*. This is final udātta by the suffix accent; accusative singular *am*; the *pūrvarūpa* by "ami pūrvaḥ" (Pā. sū. 6-1-107).
+
+**काम्यम् (*kāmyam*)**: the root *kamu kāntau*; *kānti* means wish. By "kamer ṇiṅ" (Pā. sū. 3-1-30) *ṇiṅ* in the sense of the root itself: *kam* + *i*. By "ata upadhāyāḥ" (Pā. sū. 7-2-116) *vṛddhi* of the penultimate: *kāmi*. This is vowel-final, so by "aco yat" (Pā. sū. 3-1-97), whereby *yat* comes after a vowel-final root, the suffix *yat*: *kām* + *i* + *ya*. By "ṇer aniṭi" (Pā. sū. 6-4-51), when an *ārdhadhātuka* without *iṭ* follows, *ṇi* is dropped: *kāmya*. By "yato 'nāvaḥ" (Pā. sū. 6-1-213), the exception to *tit svaritam*, it is initial udātta. It ends in the accusative singular.
+
+### Page 773 (upper) — Rik 6: grammar (end)
+
+**सनिम् (*sanim*)**: *ṣaṇu dāne*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*. In "khani-kaṣy-añjy-asi-vasi-vani-sani-dhvani-granthi-calibhyaś ca" (Uṇ. sū. "4-139" [?]) the *iḥ* of "aca iḥ" (Uṇ. sū. "4-138" [?]) is carried on. The suffix *i* comes after the roots *khanu avadāraṇe*, *kaṣa hiṃsāyām*, *aja gatikṣepaṇayoḥ*, *asu kṣepaṇe*, *vasa ācchādane*, *vana ṣaṇa saṃbhaktau*, *vanu yācane*, *ṣaṇu dāne*, *dhvana śabde*, *grantha bandhane* (both of the *cur-ādi*) and *cala kampane*; so the suffix *i*: *san* + *i*. Final udātta by the suffix accent; *am*, the *pūrvarūpa*: *sanim*.
+
+**अयासिषम् (*ayāsiṣam*)**: *yā prāpaṇe*; *luṅ*, 1st singular *mip*: *yā* + *mi*. By "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101) *am* for *mi*: *yā* + *am*. By "cli luṅi" (Pā. sū. 3-1-43) *cli*; for it the substitute *sic* by "cleḥ sic" (Pā. sū. 3-1-44); by "luṅlaṅlṛṅkṣv aḍ udāttaḥ" (Pā. sū. 6-4-71) the augment *aṭ* for the root: *ayā* + *s* + *am*. By "yamaramanamātāṃ sak ca" (Pā. sū. 7-2-73), for the roots *yam*, *ram*, *nam* and the *ā*-final roots, the augment *sak*, and for the *sic* after them the augment *iṭ*, when a *parasmaipada* suffix follows; so the augment *sak* for the *ā*-final *yā*, and *iṭ* for the *sic*: *ayās* + *is* + *am*. By "ādeśapratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for the *s* of *sic*: *ayāsiṣam*. By "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) it is wholly unaccented.
+
+**॥६॥**
+
+---
 
 ### Pages 773–776 — Sūkta 18, Rik 7
 
