@@ -5799,7 +5799,7 @@ The source adds: this mantra is found in the Sāma Veda at **234; 809**; in the 
 
 ### Page 264
 
-*(The first part of this page is the Sanskrit grammar of Rik 2 inside the bhāṣya itself. Characterized, not transcribed. Points of substance: **हर्योः (*haryoḥ*)** — "the two that carry" (*harataḥ*), from *hṛ*, with the suffix *in*; initial-udātta. **सचा (*sacā*)** — glossed "with" (Nirukta 5-5, "sacā saheti"). **सम्मिश्लः (*sammiślaḥ*)** — "mixing" from *miśra* + *ghañ* (Pā. 3-3-18) with a Vedic *l* for *r*, so "one who mixes thoroughly"; accent of the first member retained in the bahuvrīhi. **वचोयुजा (*vacoyujā*)** — "yoked with a word"; the dual case-ending replaced by *ā*; the second member *yuj* has the final accent. **वज्री (*vajrī*)** — "having a vajra", suffix *ini* (Pā. 5-2-115). **हिरण्ययः (*hiraṇyayaḥ*)** — by Pāṇini 6-4-175 [?] (the source's printed number reads "6-4-17[?]"), the *m* of *hiraṇmaya* is dropped irregularly in the Veda, so *hiraṇyaya* is the form; it is udātta on the *ā* by the suffix-accent.)*
+*(The first part of this page is the Sanskrit grammar of Rik 2 inside the bhāṣya itself. Characterized, not transcribed. Points of substance: **हर्योः (*haryoḥ*)** — "harata iti harī," from *hṛ* with the suffix *in*, "n"-marked, so initial-udātta. **सचा (*sacā*)** — glossed "with" (Nirukta 5-5, "sacā saheti"). **सम्मिश्लः (*sammiślaḥ*)** — "mixing" from *miśra* + *ghañ* (Pā. 3-3-18) with a Vedic *l* for *r*, so "one who mixes thoroughly"; accent of the first member retained in the bahuvrīhi. **वचोयुजा (*vacoyujā*)** — "yoked with a word"; the dual case-ending replaced by *ā*; the second member *yuj* has the final accent. **वज्री (*vajrī*)** — "having a vajra", suffix *ini* (Pā. 5-2-115). **हिरण्ययः (*hiraṇyayaḥ*)** — by **ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि छन्दसि** (Pāṇini 6-4-175), the *m* of *hiraṇmaya* is dropped irregularly in the Veda, so *hiraṇyaya* is the form; it is udātta on the *ā* by the suffix-accent.)*
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -5811,54 +5811,56 @@ Indra, who mixes [combines with] everything, is coming here. At his mere word, h
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Indra, the good mixer of all things comes verily with his horses that are harnessed at his word; Indra, the richly-decorated (with gold), the weilder of the thundorbolt.
+> Indra, the good mixer of all things comes verily with his horses that are harnessed at his word; Indra, the richly-decorated (with gold), the weilder [sic] of the thundorbolt [sic].
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
 **"Sacā"** — *saha*: with, together, in company.
 
-**"Sammiślaḥ"** — The Bhāṣyakāra explains this word as **सम्मिश्लः सर्वतः सम्यग्मिश्रयिता** (*sammiślaḥ sarvataḥ samyag miśrayitā*) — "one who mixes well, in every way." Following him, Western scholars such as Wilson give meanings such as **"blender, mixer, mixing oneself very much with, attached to."** For the word's component-sense, [Sāyaṇa's note] is:
+**"Sammiślaḥ"** — The Bhāṣyakāra explains this word as **सम्मिश्लः सर्वतः सम्यग्मिश्रयिता** (*sammiślaḥ sarvataḥ samyag miśrayitā*) — "one who mixes well, in every way." Following him, Western scholars such as Wilson … *(continues on p. 265)*
+
+### Page 265
+
+*(Page header: "A. 1, A. 1, Va. 13." Re-read from the better scan; the Ṛks and their references as printed.)*
+
+…Western scholars such as Wilson have given the meanings "Blender, mixer, mixing oneself very much with, attached to" (English in the source). The component sense of the word is:
 
 > सम्मिश्लः । मिश्रणं मिश्रः । मिश्रयतेर्घञ् । पा. सू. ३-३-१८ । सम्यक् मिश्रो यस्यासौ सम्मिश्रः । लत्वं छान्दसम् । सम्यक् मिश्रयितेत्यर्थः ।
 > *sammiślaḥ | miśraṇaṃ miśraḥ | miśrayater ghañ | pā. sū. 3-3-18 | samyak miśro yasyāsau sammiśraḥ | latvaṃ chāndasam | samyak miśrayitety arthaḥ |*
 > "*Sammiślaḥ*: 'mixing' is *miśra*; [formed from] *miśrayati* with *ghañ* (Pāṇini 3-3-18). 'He of whom the mixing is thorough' is *sammiśra*; the *l* [for *r*] is Vedic. The sense: one who mixes thoroughly."
 
-### Page 265
+**Though this sense is right for the word, it does not fit "sammiśla" in this Ṛk.** If "sammiślaḥ" is taken to mean "saṃyuktaḥ" (joined) or "sahitaḥ" (accompanied), the sense runs right. The Bhāṣyakāra too, on the word "sammiślāsaḥ" in the Ṛk
 
-**Though this sense is correct for the word in itself, it does not fit the word in this rik.** If *sammiślaḥ* is taken to mean "joined" (*saṃyuktaḥ*) or "accompanied" (*sahitaḥ*), the sense runs right. The Bhāṣyakāra himself, at another rik, explains the plural *sammiślāsaḥ* (in the verse at Ṛgveda 1-64-10 [?]) as *sammiśrāḥ saṃyuktāḥ ity arthaḥ* — "mixed, joined." Examples of riks containing the word follow, for illustration. *(All Ṛgveda numbers below are read from small print and are given with "[?]". The Sanskrit of each rik is transcribed from the Kannada script, with word-division as read. Where the scan made a word doubtful, it is marked.)*
+> विश्वे देवासो रयिभिः समोकसः संमिश्लासस्तविषीभिर्विरप्शिनः ॥
+> *viśve devāso rayibhiḥ samokasaḥ saṃmiślāsas taviṣībhir virapśinaḥ ||* — (Ṛ. Saṃ. 1-64-10)
 
-> विश्वे देवासो रयिभिः समोकसः सम्मिश्लास्तविषीभिरर्किणः । [?]
-> *viśve devāso rayibhiḥ samokasaḥ sammiślās taviṣībhir arkiṇaḥ | [?]* — (Ṛgveda Saṃhitā 1-64-10 [?])
->
-> *("All the gods, sharing the same dwelling with their riches, united with their powers, the singers…" — last two words doubtful in the scan.)*
+explains it as "*sammiśrāḥ saṃyuktā ity arthaḥ*" (mixed, that is, joined). Ṛks containing the word are given here for illustration:
 
-> यः सम्मिश्लो हर्योर्यः सुते सचा वज्री रथो हिरण्ययः ॥
-> *yaḥ sammiślo haryor yaḥ sute sacā vajrī ratho hiraṇyayaḥ ||* — (Ṛgveda Saṃhitā 8-33-4 [?])
->
-> The source remarks that in this rik, too, the words and sense of the (present) rik recur with little difference.
+> यः संमिश्लो हर्योर्यः सुते सचा वज्री रथो हिरण्ययः ॥
+> *yaḥ saṃmiślo haryor yaḥ sute sacā vajrī ratho hiraṇyayaḥ ||* — (Ṛ. Saṃ. 8-33-4)
 
-> प्रभङ्गी शूरो मघवा तुवीमघः सम्मिश्लो वीर्याय कम् ॥
-> *prabhaṅgī śūro maghavā tuvīmaghaḥ sammiślo vīryāya kam ||* — (Ṛgveda Saṃhitā 8-70-14 [?])
+In this Ṛk too the words and sense of the present Ṛk recur with no great difference.
 
-> सम्मिश्लो अरुषो भव सूपस्थाभिर्न धेनुभिः ॥
-> *sammiślo aruṣo bhava sūpasthābhir na dhenubhiḥ ||* — (Ṛgveda Saṃhitā 9-61-20 [?])
+> प्रभंगी शूरो मघवा तुवीमघः संमिश्लो वीर्याय कम् ॥
+> *prabhaṃgī śūro maghavā tuvīmaghaḥ saṃmiślo vīryāya kam ||* — (Ṛ. Saṃ. 8-61-18)
 
-> मन्द्रो होता स जुह्वा यजिष्ठः सम्मिश्लो अग्निरा जिघर्ति देवान् ॥ [?]
-> *mandro hotā sa juhvā yajiṣṭhaḥ sammiślo agnir ā jigharti devān || [?]* — (Ṛgveda Saṃhitā 10-6-4 [?])
+> संमिश्लो अरुषो भव सूपस्थाभिर्न धेनुभिः ॥
+> *saṃmiślo aruṣo bhava sūpasthābhir na dhenubhiḥ ||* — (Ṛ. Saṃ. 9-61-21)
 
-> मन्द्राः सुजिह्वाः स्वरितार आसभिः सम्मिश्ला इन्द्रे मरुतः परिष्टुभः ॥
-> *mandrāḥ sujihvāḥ svaritāra āsabhiḥ sammiślā indre marutaḥ pariṣṭubhaḥ ||* — (Ṛgveda Saṃhitā 1-166-11 [?])
+> मन्द्रो होता स जुह्वा यजिष्ठः संमिश्लो अग्निरा जिघर्ति देवान् ॥
+> *mandro hotā sa juhvā yajiṣṭhaḥ saṃmiślo agnir ā jigharti devān ||* — (Ṛ. Saṃ. 10-6-4)
 
-> यज्ञैः सम्मिश्लाः पृषतीभिर्ऋष्टिभिर्यामन् शुभ्रासो अञ्जिषु प्रिया उत ॥ [?]
-> *yajñaiḥ sammiślāḥ pṛṣatībhir ṛṣṭibhir yāman śubhrāso añjiṣu priyā uta || [?]* — (Ṛgveda Saṃhitā 1-85-3 [?])
+> मन्द्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इन्द्रे मरुतः परिष्टुभः ॥
+> *mandrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā indre marutaḥ pariṣṭubhaḥ ||* — (Ṛ. Saṃ. 1-166-11)
 
-> प्र यन्तु वाजास्तविषीभिरग्नयः शुभे सम्मिश्लाः पृषतीरयुक्षत ॥ [?]
-> *pra yantu vājās taviṣībhir agnayaḥ śubhe sammiślāḥ pṛṣatīr ayukṣata || [?]* — (Ṛgveda Saṃhitā 3-26-4 [?])
+> यज्ञैः संमिश्लाः पृषतीभिरृष्टिभिर्यामञ्छुभ्रासो अञ्जिषु प्रिया उत ॥
+> *yajñaiḥ saṃmiślāḥ pṛṣatībhir ṛṣṭibhir yāmañ chubhrāso añjiṣu priyā uta ||* — (Ṛ. Saṃ. 2-36-2)
 
-> यामं येष्ठाः शुभा शोभिष्ठाः श्रिया सम्मिश्ला ओजोभिरुग्राः ॥ [?]
-> *yāmaṃ yeṣṭhāḥ śubhā śobhiṣṭhāḥ śriyā sammiślā ojobhir ugrāḥ || [?]* — (Ṛgveda Saṃhitā 7-56-6 [?])
+> प्र यन्तु वाजास्तविषीभिरग्नयः शुभे संमिश्लाः पृषतीरयुक्षत ॥
+> *pra yantu vājās taviṣībhir agnayaḥ śubhe saṃmiślāḥ pṛṣatīr ayukṣata ||* — (Ṛ. Saṃ. 3-26-4)
 
-*(Citation-heavy list: numbers and several words are low-confidence and are shown only so the reader sees the shape of the evidence; they must be checked against a clear copy before reliance.)*
+> यामं येष्ठाः शुभा शोभिष्ठाः श्रिया संमिश्ला ओजोभिरुग्राः ॥
+> *yāmaṃ yeṣṭhāḥ śubhā śobhiṣṭhāḥ śriyā saṃmiślā ojobhir ugrāḥ ||* — (Ṛ. Saṃ. 7-56-6 (3))
 
 In all these riks, the sense "joined, accompanied" is the one that fits the word *sammiśla*. **The word occurs nowhere in the Ṛgveda other than the riks listed above.**
 
