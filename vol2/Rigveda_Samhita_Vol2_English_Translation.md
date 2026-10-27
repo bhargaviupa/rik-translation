@@ -4925,7 +4925,7 @@ in this Ṛk and in some other places it is said that the Aṅgirases helped Ind
 
 ### Page 215 — Rik 6.2: Pada-meanings concluded; Bhāvārtha; English rendering; Special topics
 
-*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 11 · Ṛgveda-saṃhitā." Kannada prose translated; English as printed; references in small Kannada numerals marked [?].)*
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 11 · Ṛgveda-saṃhitā." Kannada prose translated; English as printed; references re-read from the better scan.)*
 
 *(Continuing the Pada-meanings from p. 214:)* **शोणा (śoṇā)** — red-coloured | **धृष्णू (dhṛṣṇū)** — full of enthusiasm | **नृवाहसा (nṛvāhasā)** — those who carry Indra and the charioteer (who have taken the form of men) | **विपक्षसा (vipakṣasā)** — yoked to the left and right flanks of the chariot | **हरी (harī)** — the two horses | **युञ्जन्ति (yuñjanti)** — they yoke (they harness).
 
@@ -4939,21 +4939,21 @@ The charioteer and others yoke Indra's two favourite horses, on the two flanks, 
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The pāda "yuñjanty asya kāmyā" is quoted in the **Āpastamba-śrauta-sūtra** (20-[?]-[?]) and the **Maitrāyaṇīya-saṃhitā** (3-[?]-[?]) *(numbers small and uncertain)*. In the **Taittirīya-brāhmaṇa** (2-8-4 [?]) there is an exposition of this Ṛk. There it says "*śoṇā dhṛṣṇū nṛvāhasety āha | aho rātre vai nṛvāhasā*" (शोणा धृष्णू नृवाहसेत्याह । अहो रात्रे वै नृवाहसा — "'*śoṇā dhṛṣṇū nṛvāhasā,' he says: day and night, indeed, are the 'nṛvāhasā'*") — that is, for the word "nṛvāhasā" an adhyātmika meaning, "day and night," is given; nothing further of special note.
+The pāda "yuñjanty asya kāmyā" is quoted in the **Āpastamba-śrauta-sūtra** (20-16-2) and the **Maitrāyaṇīya-saṃhitā** (9-2-3 [as printed]). In the **Taittirīya-brāhmaṇa** (3-9-4) there is an exposition of this Ṛk. There it says "*śoṇā dhṛṣṇū nṛvāhasety āha | aho rātre vai nṛvāhasā*" (शोणा धृष्णू नृवाहसेत्याह । अहो रात्रे वै नृवाहसा — "'*śoṇā dhṛṣṇū nṛvāhasā,' he says: day and night, indeed, are the 'nṛvāhasā'*") — that is, for the word "nṛvāhasā" an adhyātmika meaning, "day and night," is given; nothing further of special note.
 
-**काम्या (kāmyā)** — wished-for, dear; favourite. **हरी (harī)** — Indra's two horses have the name "harī." **विपक्षसा (vipakṣasā)** — the separate flanks, that is, the left and right flanks. **रथे (rathe)** — "ramante 'smin iti rathaḥ" (रमन्तेऽस्मिन्निति रथः — "that in which they delight is the 'ratha'") — "ramu krīḍāyām" (to play): because one sits in it and moves, it is called "ratha." **शोणा (śoṇā)** — *(English as printed)* "crimson, bright, bay or chestnut." **धृष्णू (dhṛṣṇū)** — full of enthusiasm; *(English)* "fiery, high-spirited." **नृवाहसा (nṛvāhasā)** — those who have the capacity to carry (or to draw) men. The words "kāmyā, harī, vipakṣasā, śoṇā, dhṛṣṇū, nṛvāhasā" are all dual (second-case or first-case dual) words, and are qualifiers of the word "harī."
+**काम्या (kāmyā)** — wished-for, dear; favourite. **हरी (harī)** — Indra's two horses have the name "harī." **विपक्षसा (vipakṣasā)** — the separate flanks, that is, the left and right flanks. **रथे (rathe)** — "ramante 'smin iti rathaḥ" (रमन्तेऽस्मिन्निति रथः — "that in which they delight is the 'ratha'") — "ramu krīḍāyām" (to play): because one sits in it and moves, it is called "ratha." **शोणा (śoṇā)** — *(English as printed)* "crimson, bright, bay or chestnut." **धृष्णू (dhṛṣṇū)** — full of enthusiasm; *(English)* "fiery, high-spirited." **नृवाहसा (nṛvāhasā)** — those who have the capacity to carry (or to draw) men. The words "kāmyā, harī, vipakṣasā, śoṇā, dhṛṣṇū, nṛvāhasā" are all second-case dual words, and are qualifiers of the word "harī."
 
 ### Page 216 — Vyākaraṇa-prakriyā for Rik 6.2 (Kannada) — characterized
 
-*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 6." Pure grammar in Kannada prose, restating the Sanskrit of p. 214; **characterized in outline**; sūtras kept; numbers as read.)*
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 6." Pure grammar in Kannada prose, restating the Sanskrit of p. 214; **characterized in outline**, re-read from the better scan; sūtras kept.)*
 
-**"Asya"** — in the previous mantra the word "idam" is not a back-reference (anvādeśa), because the Indra described by the words "bradhna" and the rest has been mentioned only by those words and "asya" does not point back to a repeated operation; so, by **इदमो ऽन्वादेशे ऽशनुदात्त ऋतृतीयादौ** (पा. २-४-३२) the "aś" substitute does not occur and the unaccented "a" … does not arise; the whole of "idam" is replaced by "a" (with the case-ending acute): "asya" is a pronoun (sarvanāma), acute on its case-ending. **"Kāmyā"** — "kamu kāntau"; the "ṇic" (**कमेर्णिङ्**, पा. ३-१-३० [as printed]); vṛddhi of the penultimate (**अत उपधायाः**, पा. ७-२-११६) → "kām-i"; the root-name by **सनाद्यन्ता धातवः** (पा. ३-१-३२); **अचो यत्** (पा. ३-१-९७) "yat" after a root ending in a vowel; **णेरनिटि** (पा. ६-४-५१) the "ṇi" elided → "kāmya"; by exception to **तित्स्वरितम्** (पा. ६-१-१८५), **यतोऽनावः** (पा. ६-१-२१३) gives first-syllable acute; the dual "au" → "ā" (**सुपां सुलुक्…**, पा. ७-१-३९). **"Harī"** — "harato ratham"; the Uṇādi "in" after "hṛñ" (उ. सू. ४-१३५ [?]); "n"-marked, first-syllable acute; the dual "ā" is, in the Veda, "ī." **"Vipakṣasā"** — **पचिवचिभ्यां सुट् च** (उ. सू. ४-२१५ [?]): after "pac" and "vac" the Uṇādi affix "asun" and the augment "suṭ"; "pac + suṭ + as" → **चोः कुः** (पा. ८-२-३०) "k"; **आदेशप्रत्यययोः** (पा. ८-३-५९) "ṣ" for the "s" → "pakṣas"; "vibhinne pakṣasī pārśve yayoḥ tau vipakṣasau" — a bahuvrīhi ("yoked to the two different flanks of the chariot"); "vi" a particle, first-syllable acute; **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (पा. ६-२-१) retains it; the dual → "ā." **"Rathe"** — "ramante 'smin iti rathaḥ" — from "ramu krīḍāyām" the Uṇādi **हनिकुषिनीरमिकाशिभ्यः क्थन्** (उ. सू. २-२ [?]); "kit," so the root's "m" is elided by **अनुदात्तोपदेश…** (पा. ६-४-३७) …; "n"-marked, hence first-syllable acute.
+**"Asya"** — as Indra, conveyed in the previous mantra by "bradhna" and the rest, is referred back to by "asya," this "idam" is in a back-reference (anvādeśa); so **इदमोऽन्वादेशेऽशनुदात्तस्तृतीयादौ** (पा. २-४-३२) gives the unaccented substitute "aś"; being "ś"-marked, by **अनेकाल्शित्सर्वस्य** (पा. १-१-५५) it replaces the whole of "idam"; the case-ending is unaccented too, so "asya" is wholly unaccented. **"Kāmyā"** — "kamu kāntau": **कमेर्णिङ्** (पा. ३-१-३०); **अत उपधायाः** (पा. ७-२-११६) → "kāmi"; **सनाद्यन्ता धातवः** (पा. ३-१-३२); **अचो यत्** (पा. ३-१-९७); **णेरनिटि** (पा. ६-४-५१) → "kāmya"; the svarita of **तित्स्वरितम्** (पा. ६-१-१८५) is set aside by **यतोऽनावः** (पा. ६-१-२१३), first-syllable acute; the second-case dual "au" → "ḍā" (**सुपां सुलुक्**, पा. ७-१-३९). **"Harī"** — "harataḥ ratham": the Uṇādi **हृपिषि…** (उ. सू. ४-५५८ [as printed]; "4-118" on p. 214) the affix "in"; "n"-marked, first-syllable acute. **"Vipakṣasā"** — **पचिवचिभ्यां सुट् च** (उ. सू. ८-३-४१ [as printed]): after "ḍupacaṣ pāke" and "vaca paribhāṣaṇe" "asun" with the augment "suṭ"; "pac + s + as" → **चोः कुः** (पा. ८-२-३०) "k"; **आदेशप्रत्यययोः** (पा. ८-३-५९) "ṣ" → "pakṣas"; "vibhinne pakṣasī pārśve yayoḥ tau vipakṣasau" — a bahuvrīhi; "vi" a particle, first-syllable acute; **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (पा. ६-२-१) retains it; the dual → "ḍā" (पा. ७-१-३९). **"Rathe"** — "ramante 'sminn iti rathaḥ": the Uṇādi **हनिकुषिनीरमिकाशिभ्यः क्थन्** (उ. सू. २-१४९ [as printed]; "2-2" on p. 214); "k"-marked, so **अनुदात्तोपदेश…** (पा. ६-४-३७) elides the "m"; "n"-marked, first-syllable acute.
 
 ### Page 217 — Rik 6.2 grammar concluded; Sūkta 6, Third Mantra: Saṃhitā, Pada, Sāyaṇa-bhāṣya (opening)
 
-*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 11 · Ṛgveda-saṃhitā." Accent-marks are printed on this page; not reproduced, per the standing convention. Sanskrit printed in Kannada script, read from enlarged slices; [?] where unclear. Grammar characterized, sūtras kept.)*
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 11 · Ṛgveda-saṃhitā." Saṃhitā accents as printed; Pada unaccented. Sanskrit printed in Kannada script. Grammar characterized, sūtras kept.)*
 
-**"Śoṇā"** *(concluding the grammar of Rik 6.2)* — "śoṇṛ varṇa-gatyoḥ" (colour, going); the affix "ghañ" in the instrument sense (the horses are the means of going); "ñit," so first-syllable acute; the dual "au" is replaced by "ā" (**सुपां सुलुक्…**, पा. ७-१-३९). **"Dhṛṣṇū"** — "ñidhṛṣā prāgalbhye" (to be bold) — the affix "knu" (**त्रसिगृधिधृषिक्षिपेः क्नुः**, पा. ३-२-१४०); "kit," so no guṇa for the light penultimate (**क्ङिति च**, पा. १-१-५); the affix's accent. **"Nṛvāhasā"** — "nṝn vahataḥ" — an etymological analysis ("those who carry men"); the Uṇādi **वहिहाधाङ्भ्यश्छन्दसि** (उ. सू. ४-२१० [?]) "asun" after these roots in the Veda; "ṇit" by continuation (**णिदित्यनुवृत्तेः**), vṛddhi of "vah" → "vāh-as" (**अत उपधायाः**, पा. ७-२-११६); the dual "ā" (**सुपां सुलुक्**); the whole is first-syllable acute as "n"-marked; **गतिकारकोपपदात्कृत्** (पा. ६-२-१३९) — the kṛt-final member's accent retained, so the first-syllable acute stands. ॥२॥
+**"Śoṇā"** *(concluding the grammar of Rik 6.2)* — "śoṇṛ varṇa-gatyoḥ" (colour, going); the affix "ghañ" in the instrument sense (the horses are the means of going); "ñit," so first-syllable acute; the dual "au" is replaced by "ā" (**सुपां सुलुक्…**, पा. ७-१-३९). **"Dhṛṣṇū"** — "ñidhṛṣā prāgalbhye" (to be bold) — the affix "knu" (**त्रसिगृधिधृषिक्षिपेः क्नुः**, पा. ३-२-१४०); "kit," so no guṇa for the light penultimate (**क्ङिति च**, पा. १-१-५); the affix's accent. **"Nṛvāhasā"** — "nṝn vahataḥ" — an etymological analysis ("those who carry men"); the Uṇādi **वहिहाधाञ्भ्यश्छन्दसि** (उ. सू. ४-६६० [as printed]) "asun" after these roots in the Veda; "ṇit" by continuation (**णिदित्यनुवृत्तेः**), vṛddhi of "vah" → "vāh-as" (**अत उपधायाः**, पा. ७-२-११६); the dual "ā" (**सुपां सुलुक्**); the whole is first-syllable acute as "n"-marked; **गतिकारकोपपदात्कृत्** (पा. ६-२-१३९; printed "6-2-149") — the kṛt-final member's accent retained, so the first-syllable acute stands. ॥२॥
 
 ---
 
@@ -4961,11 +4961,13 @@ The pāda "yuñjanty asya kāmyā" is quoted in the **Āpastamba-śrauta-sūtra*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> केतुं कृण्वन्नकेतवे पेशो मर्या अपेशसे ।
-> समुषद्भिरजायथाः ॥३॥
+> के॒तुं कृण्वन्न॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ ।
+> समु॒षद्भि॑रजायथाः ॥३॥
 >
-> *ketuṃ kṛṇvann aketave peśo maryā apeśase |*
-> *sam uṣadbhir ajāyathāḥ ||3||*
+> *ketúṃ kṛṇvánnaketáve péśo maryā apeśáse |*
+> *samuṣádbhirajāyathāḥ ||3||*
+>
+> *(Accent note: the mark over "dbhi" is printed as a "T"-shaped sign, a stroke with a cross-bar; given here as svarita.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -4974,9 +4976,9 @@ The pāda "yuñjanty asya kāmyā" is quoted in the **Āpastamba-śrauta-sūtra*
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(opening, p. 217)*
 
-> हे मर्या मनुष्या इदमाश्चर्यं पश्यतेत्यध्याहारः । किमाश्चर्यमिति तदुच्यते । आदित्यरूपोऽयमिन्द्र उषद्भिर्दाहकै रश्मिभिः प्रतिदिनमुषःकाले वा संभूयोऽजायथाः । उदपद्यत । अथवा सूर्यस्यैवास्तमये मरणमुपचर्य । व्यत्ययेन बहुवचनं कृत्वा संबोधनं क्रियते । हे मर्य प्रतिदिनं त्वमजायथा इति योज्यं किं कुर्वन् । अकेतवे रात्रौ निद्राभिभूतत्वेन प्रज्ञानरहिताय
-> *he maryā manuṣyā idam āścaryaṃ paśyatety adhyāhāraḥ | kim āścaryam iti tad ucyate | āditya-rūpo 'yam indra uṣadbhir dāhakai raśmibhiḥ pratidinam uṣaḥ-kāle vā sambhūyo 'jāyathāḥ | udapadyata | athavā sūryasyaivāstamaye maraṇam upacarya | vyatyayena bahuvacanaṃ kṛtvā sambodhanaṃ kriyate | he marya pratidinaṃ tvam ajāyathā iti yojyaṃ kiṃ kurvan | aketave rātrau nidrābhibhūtatvena prajñāna-rahitāya*
-> *(Reading notes: the page ends at "prajñāna-rahitāya" and the sentence continues on the next page; the form "maryā" for the vocative plural is printed so, with the Pada text giving "maryāḥ"; "dāhakai" is printed "dāhakaiḥ" with a letter I read as slightly crowded.)*
+> हे मर्या मनुष्या इदमाश्चर्यं पश्यतेत्यध्याहारः । किमाश्चर्यमिति तदुच्यते । आदित्यरूपोऽयमिन्द्र उषद्भिर्दाहकै रश्मिभिः प्रतिदिनमुषःकाले वा संभूयाजायथाः । उदपद्यत । अथवा सूर्यस्यैवास्तमये मरणमुपचर्य । व्यत्ययेन बहुवचनं कृत्वा संबोधनं क्रियते । हे मर्य प्रतिदिनं त्वमजायथा इति योज्यं किं कुर्वन् । अकेतवे रात्रौ निद्राभिभूतत्वेन प्रज्ञानरहिताय
+> *he maryā manuṣyā idamāścaryaṃ paśyatetyadhyāhāraḥ | kimāścaryamiti taducyate | ādityarūpo 'yamindra uṣadbhirdāhakai raśmibhiḥ pratidinamuṣaḥkāle vā saṃbhūyājāyathāḥ | udapadyata | athavā sūryasyaivāstamaye maraṇamupacarya | vyatyayena bahuvacanaṃ kṛtvā saṃbodhanaṃ kriyate | he marya pratidinaṃ tvamajāyathā iti yojyaṃ kiṃ kurvan | aketave rātrau nidrābhibhūtatvena prajñānarahitāya*
+> *(Reading notes: the page ends at "prajñāna-rahitāya" and the sentence continues on the next page; "maryā" is the sandhi form of "maryāḥ"; re-read from the better scan ("dāhakai raśmibhiḥ," "sambhūyājāyathāḥ").)*
 
 **Translation (of the part on this page):** "'O "maryāḥ" — O men! — behold this wonder': this is the supplied sense. What is the wonder? It is said: this Indra, who is of the form of the Sun, is born every day, becoming one with the burning rays, at dawn — he arises. Or: since the very setting of the Sun is a figurative 'death,' the vocative plural is used by a change of number — 'O mortal! you are born every day' (the sentence is to be construed so). Doing what? 'Aketave' — for the one (in the night) without understanding, overcome by sleep …" *(continues on the next page)*.
 
