@@ -14447,53 +14447,79 @@ pratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for the *s*: *vakṣatas*; *ru* and visa
 
 ---
 
-### Pages 682–686 — Sūkta 16, Rik 3
+### Page 683 (lower) — Sūkta 16, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रं प्रातर्हवामह इन्द्रं प्रयत्यध्वरे ।
-> इन्द्रं सोमस्य पीतये ॥३॥
+> इन्द्रं॑ प्रा॒तर्ह॑वामह॒ इन्द्रं॑ प्रय॒त्य॑ध्व॒रे । [accent ?]
+> इन्द्रं॒ सोम॑स्य पी॒तये॑ ॥३॥
 >
-> *indraṃ prātar havāmaha indraṃ prayaty adhvare |*
-> *indraṃ somasya pītaye ||3||*
+> *índraṃ prātár havāmaha índraṃ prayaty adhvaré |* [accent ?]
+> *indraṃ sómasya pītáye ||3||*
+
+*(Line 1: the bars under प्रा, ह and य and under ध्व are read as printed; the stroke over त्य, the svarita of the *yaṇ*, as the grammar on p. 686 explains.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > इन्द्रम् । प्रातः । हवामहे । इन्द्रम् । प्रऽयति । अध्वरे ॥
 > इन्द्रम् । सोमस्य । पीतये ॥३॥
 >
-> *indram | prātaḥ | havāmahe | indram | pra-yati | adhvare ||*
+> *indram | prātaḥ | havāmahe | indram | pra 'yati | adhvare ||*
 > *indram | somasya | pītaye ||3||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 683; compressed; [?] marks doubtful readings)*
-
-> प्रातः कर्मारम्भे प्रातःसवने इन्द्रं हवामहे । आह्वयामः । तथैवाध्वरे सोमयागे प्रयति प्रगच्छति प्रारभ्य वर्तमाने सति माध्यन्दिने सवने तमिन्द्रं हवामहे । तथा यज्ञसमाप्त्यवसरे तृतीयसवने सोमस्य पीतये सोमपानार्थं हवामहे ॥ प्रातः । स्वरादिष्वन्तोदात्तो निपातितः । हवामहे । ह्वेञो लटि शपि परतो ह्वः संप्रसारणमित्यनुवृत्तौ बहुलं छन्दसीति संप्रसारणम् । परपूर्वत्वम् । गुणावादेशौ । प्रयति । इण् गतौ । लटः शतृ । आदिप्रभृतिभ्यः शप इति शपो लुक् । शतुर्जित्त्वाद्गुणाभावः । प्रादिसमासः । कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम् । परि. [३८] । इति वचनात्प्रत्ययग्रहण इति नियमाभावात् शतुरनुमो नद्यजादी इति विभक्तेरुदात्तत्वम् । अध्वरे । उक्तम् । संहितायामुदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य । पा. [८-२-४] । इत्येकारस्य स्वरितत्वम् । पीतये । पा पाने । क्तिनि छान्दसमन्तोदात्तत्वम् ॥३॥
+> प्रातः कर्मारम्भे प्रातःसवन इन्द्रं हवामहे । आह्वयामः । तथैवाध्वरे सोमयागे प्रयति प्रगच्छति प्रारभ्य वर्तमाने सति माध्यन्दिने सवने तमिन्द्रं हवामहे । तथा यज्ञसमाप्त्यवसरे तृतीयसवने सोमस्य पीतये सोमपानार्थं हवामहे ॥ प्रातः । स्वरादिष्वन्तोदात्तो निपातितः । हवामहे । ह्वेञो लटि शपि परतो ह्वः सम्प्रसारणमित्यनुवृत्तौ बहुलं छन्दसीति सम्प्रसारणं । परपूर्वत्वं । गुणावादेशौ । प्रयति । इण् गतौ । लटः शतृ । अदिप्रभृतिभ्यः शप इति शपो लुक् । शतुर्ङित्त्वाद्गुणाभावः । प्रादिसमासः । कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणं । परि. २८ । इति वचनात्प्रत्ययग्रहण इति नियमाभावाच्छतुरनुमो नद्यजादी इति विभक्तेरुदात्तत्वं । अध्वरे । उक्तं । संहितायामुदात्तस्वरितयोर्यणः स्वरितो ऽनुदात्तस्य । पा. ८-२-४ । इत्यकारस्य स्वरितत्वं । पीतये । पा पाने । क्तिनि छान्दसमन्तोदात्तत्वं ॥
 >
-> *prātaḥ karmārambhe prātaḥsavane indraṃ havāmahe | āhvayāmaḥ | tathaivādhvare somayāge prayati pragacchati prārabhya vartamāne sati mādhyandine savane tam indraṃ havāmahe | tathā yajña-samāptyavasare tṛtīya-savane somasya pītaye soma-pānārthaṃ havāmahe || prātaḥ | svarādiṣv antodātto nipātitaḥ | havāmahe | hveño laṭi śapi parato hvaḥ saṃprasāraṇam ity anuvṛttau bahulaṃ chandasīti saṃprasāraṇam | parapūrvatvam | guṇāvādeśau | prayati | iṇ gatau | laṭaḥ śatṛ | ādiprabhṛtibhyaḥ śapa iti śapo luk | śatur jittvād guṇābhāvaḥ | prādi-samāsaḥ | kṛdgrahaṇe gati-kāraka-pūrvasyāpi grahaṇam | pari. [38] | iti vacanāt pratyaya-grahaṇa iti niyamābhāvāt śatur anumo nady-ajādī iti vibhakter udāttatvam | adhvare | uktam | saṃhitāyām udātta-svaritayor yaṇaḥ svarito 'nudāttasya | pā. [8-2-4] | ity ekārasya svaritatvam | pītaye | pā pāne | ktini chāndasam antodāttatvam ||3||*
+> *prātaḥ karmārambhe prātaḥsavana indraṃ havāmahe | āhvayāmaḥ | tathaivādhvare somayāge prayati pragacchati prārabhya vartamāne sati mādhyandine savane tamindraṃ havāmahe | tathā yajñasamāptyavasare tṛtīyasavane somasya pītaye somapānārthaṃ havāmahe || prātaḥ | svarādiṣvantodātto nipātitaḥ | havāmahe | hveño laṭi śapi parato hvaḥ samprasāraṇamityanuvṛttau bahulaṃ chandasīti samprasāraṇaṃ | parapūrvatvaṃ | guṇāvādeśau | prayati | iṇ gatau | laṭaḥ śatṛ | adiprabhṛtibhyaḥ śapa iti śapo luk | śaturṅittvādguṇābhāvaḥ | prādisamāsaḥ | kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇaṃ | pari. 28 | iti vacanātpratyayagrahaṇa iti niyamābhāvācchaturanumo nadyajādī iti vibhakterudāttatvaṃ | adhvare | uktaṃ | saṃhitāyāmudāttasvaritayoryaṇaḥ svarito 'nudāttasya | pā. 8-2-4 | ityakārasya svaritatvaṃ | pītaye | pā pāne | ktini chāndasamantodāttatvaṃ ||*
 
-**Translation:** "At the beginning of the rite, in the morning pressing (*prātaḥ*), we invoke Indra. So likewise, when the Soma sacrifice is going on (*prayati*) — that is, having begun and continuing — at the midday pressing, we invoke that same Indra. And at the close of the sacrifice, in the third pressing, we invoke him for the drinking of soma." The rest is grammar, noted briefly: *prātaḥ* (a particle, listed among those with end accent — *svarādi*); *havāmahe* (*hve*, *laṭ*, *saṃprasāraṇa* "variously in the Veda", *parapūrva*, guṇa and *av*); *prayati* (*i* "to go", *śatṛ* for *laṭ*, *śap* dropped, no guṇa because *śatṛ* has indicatory *ś/ṛ*, a *prādi* compound; the locative ending accented by P. 6-1-173 *śatur anumo nady-ajādī*, since the rule on "mention of a *kṛt* includes forms with *gati* or *kāraka* before it" applies [*paribhāṣā* 38, as read]); *adhvare* (explained earlier; in the Saṃhitā the *e* becomes *svarita* by P. 8-2-4 *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya*); *pītaye* (*pā*, *ktin*, Vedic end accent). *(Grammar, noted briefly.)*
+**Translation:** "*Prātaḥ*, at the start of the rite, at the morning pressing, *havāmahe*, we call, Indra. In the same way, *adhvare*, at the soma sacrifice, *prayati*, as it goes on, having begun, at the midday pressing, we call that Indra. And at the time of the sacrifice's close, at the third pressing, we call him *somasya pītaye*, to drink soma." (Grammatical tail: *prātaḥ*, made final udātta by *nipātana* in the *svarādi* class; *havāmahe*: *hve*, *laṭ*, *śap*, *saṃprasāraṇa* by *bahulaṃ chandasi*, *pūrvarūpa*, *guṇa*, *av*; *prayati*: *iṇ* 'to go', *śatṛ*, *śap* dropped, no *guṇa* (*ṅit*), a *prādi* compound; by "kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam" (pari. 28) the restriction to the bare suffix does not apply, so the ending is udātta by *śatur anumo nadyajādī*; *adhvare* as said; in the Saṃhitā the *a* becomes svarita after the *yaṇ* by Pā. 8-2-4; *pītaye*, *pā* with *ktin*, final udātta as Vedic.)
 
-**Grammar pages (pp. 684 lower half–686), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *prātaḥ* (a particle with end accent in the *svarādi* list, Phiṭ-sūtra [number unclear]), *havāmahe* (*hveñ* "to compete, to call"; *laṭ* with *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e* P. 3-4-79; *śap*; *hvaḥ saṃprasāraṇam* P. 6-1-32 with *bahulaṃ chandasi* P. 6-1-34; *saṃprasāraṇāc ca* P. 6-1-108 *pūrvarūpa*; guṇa by P. 7-3-84; *eco 'yavāyāvaḥ* P. 6-1-78; *ato dīrgho yañi* P. 7-3-101; unaccented by P. 8-1-28), *prayati* (*iṇ gatau*, the *adādi* class; *śatṛ* by P. 3-2-124; *śap* dropped by P. 2-4-72; no guṇa by P. 1-1-5 *kṅiti ca*; *iko yaṇaci* P. 6-1-77 giving *y*, which bars *iyaṅ* P. 6-4-77; *kugatiprādayaḥ* P. 2-2-18 for the compound; and a long discussion of the paribhāṣā "mention of a *kṛt* includes a *gati*/*kāraka*-preceded form" against the paribhāṣā "mention of a suffix means that suffix only", concluding that the accent of the ending by P. 6-1-173 *śatur anumo nady-ajādī* applies to *prayati* also, though it ends in *śatṛ*), *adhvare* (explained at 15.7 [print: "Ṛ. Saṃ. 1-15-7"]; *prayaty adhvare*: in the Saṃhitā the *e*, being unaccented after an accented *ya*, becomes *svarita* by P. 8-4-66 *udātta-svaritayor yaṇaḥ svaritoʼnudāttasya*), and *pītaye* (*pā* "to drink", *striyāṃ ktin* P. 3-3-94; *ghumāsthāgāpājahātisāṃ hali* P. 6-4-66 giving *ī*; the suffix accent set aside for end accent in the Veda; the dative *ṅe*, *ṅiti hrasvaś ca* P. 1-4-6 shortening the *ī* of *pīti* before *e* with the *nadī* name, then the discussion of whether *pīti* is *nadī* or *ghi* by P. 1-4-7 *śeṣo ghy asakhi*, with *gher ṅiti* P. 7-3-111 giving guṇa, and *eco 'yavāyāvaḥ* giving *ay*: *pītaye*). ॥3॥ *(Numerals as read from small print; pointers only.)*
+### Page 684 — Rik 3: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 684)*
+**॥ Prati-padārthaḥ ॥**
 
-**प्रातः (prātaḥ)** — at the morning pressing that comes at the beginning of the rite | **इन्द्रम् (indram)** — Indra | **हवामहे (havāmahe)** — we invoke | **अध्वरे (adhvare)** — in the Soma sacrifice | **प्रयति (prayati)** — when it is going on (at the midday pressing) | **इन्द्रम् (indram)** — Indra | *(we invoke)* | *(likewise)* [at the third pressing, at the close of the sacrifice] | **सोमस्य (somasya)** — of the soma-juice | **पीतये (pītaye)** — for drinking | *(we invoke Indra)*.
+**प्रातः (prātaḥ)** — at the morning pressing (held at the start of the rite) | **इन्द्रम् (indram)** — Indra | **हवामहे (havāmahe)** — we call | **अध्वरे (adhvare)** — the soma sacrifice | **प्रयति (prayati)** — while it is going on (at the midday pressing that comes) | **इन्द्रम् (indram)** — Indra | *(havāmahe — we call)* | *(and likewise, at the third pressing held at the close of the sacrifice)* **सोमस्य (somasya)** — of the soma juice | **पीतये (pītaye)** — for drinking (Indra) | *(havāmahe — we call)*.
 
 **॥ Bhāvārthaḥ ॥**
 
-At all three pressing-times that are parts of the soma sacrifice — the morning, midday and third pressings — we invoke Indra to drink the soma.
+At all three pressing times that are parts of the soma sacrifice, the morning pressing, the midday pressing and the third pressing, we call Indra to drink soma.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > We invoke Indra at the morning rite, we invoke Indra at the succeeding Sacrifice, we invoke Indra to drink the Soma-Juice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 684)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-In the sacrificial rite there is the custom of preparing and pressing out soma-juice at three times — morning, midday and evening — for drinking. These rites are called in order the morning pressing, the midday pressing and the third pressing. Though only the morning time is mentioned in this rik, it is the ṛṣi's intention that since Indra is also invoked to drink soma in the sacrifices that follow, he is invoked at all three of the pressings mentioned.
+In a sacrificial rite the procedure is to crush the soma creeper and make the soma juice ready for drinking at all three times, morning, midday and evening. These acts are named in order the morning pressing, the midday pressing and the third pressing. Though only the morning is named in this Ṛk, since Indra is called to drink soma at the sacrifice that goes on afterwards too, the ṛṣi's meaning is that Indra is called at all three pressings mentioned.
 
-**प्रयति (prayati)** — *iṇ gatau*; *pragacchati*: while the sacrificial rite is proceeding, that is, when it is going on; i.e. at the midday and evening pressings.
+**Prayati**: *iṇ gatau*; *pragacchati*: when the sacrificial rite is going on, or proceeding, that is, at the midday and third pressings held at midday and evening: that is the sense.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 684–686, noted briefly)*
+
+**प्रातः (*prātaḥ*)**: made final udātta by *nipātana* in the *svarādi* class.
+
+**हवामहे (*havāmahe*)**: the root *hveñ spardhāyāṃ śabde ca*; after it *laṭ*; in its place the *ātmanepada* 1st plural *mahiṅ*: *hve* + *mahi*; by "ṭita ātmanepadānāṃ ṭere"
+
+### Page 685 — Rik 3: grammar (continued)
+
+(Pā. sū. 3-4-79) *e* for the *ṭi*; *śap* by "kartari śap": *hve* + *a* + *mahe*. With "hvaḥ samprasāraṇam" (Pā. sū. 6-1-32) carried on, by "bahulaṃ chandasi" (Pā. sū. 6-1-34) *hveñ* takes *saṃprasāraṇa* variously in the Veda: *saṃprasāraṇa*, *u* for the *v*: *hu* + *e* + *a* + *mahe*; *pūrvarūpa* by "saṃprasāraṇāc ca" (Pā. sū. 6-1-108): *hu* + *a* + *mahe*. By "sārvadhātukārdhadhātukayoḥ", with the *sārvadhātuka* *śap* as cause, the *u* takes *guṇa*, *o*. By "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78) *av* for the *o*: *hava* + *mahe*. By "ato dīrgho yañi" (Pā. sū. 7-3-101) the *a* before the *m* is lengthened: *havāmahe*. Wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**प्रयति (*prayati*)**: the root *iṇ gatau*, *adādi*; after it *laṭ*; in its place, by "laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe" (Pā. sū. 3-2-124) *śatṛ*; the *śap* that comes by "kartari śap" takes *luk* by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72): *i* + *at*. By "sārvadhātukam apit" (Pā. sū. 1-2-4) the suffix *at* is *ṅit*; so the *guṇa* that "sārvadhātukārdhadhātukayoḥ" would give is barred by "kṅiti ca" (Pā. sū. 1-1-5). "iko yaṇ aci" (Pā. sū. 6-1-77) would give *yaṇ*; overriding it, "aci śnudhātubhruvām…" (Pā. sū. "6-4-22" [as printed, for 6-4-77]) would give *iyaṅ*; overriding that too, "iṇo yaṇ" (Pā. sū. 6-4-81): before a vowel-initial suffix the root *iṇ* takes *yaṇ*; so *yaṇ*: *yat*. By "kugatiprādayaḥ" (Pā. sū. 2-2-18) *pra* is compounded with it: *prayat*; locative singular *ṅi*: *prayati*. The suffix *śatṛ* is udātta by the suffix accent; after compounding too, by *gatikārakopapadāt kṛt* the *kṛt* second-member accent comes and that accent remains. So *prayat* is final udātta; so by "śatur anumo nadyajādī" (Pā. sū. 6-1-173), after a final-udātta word ending in a *śatṛ* suffix without the augment *num*, a *nadī* letter and a vowel-initial ending from *śas* on are also udātta; so the locative singular *ṅi* becomes udātta. But how does *prayat*, *a*, end in the *śatṛ* suffix? By "pratyayagrahaṇe yasmāt sa vihitas tadādes tadantasya grahaṇam" (paribhāṣā 23), the word with the *śatṛ* suffix whose first member is the base and whose last member is *śatṛ* is the *śatṛ*-ending word. Here *śatṛ* is enjoined after the root *iṇ*, so *yat* ends in *śatṛ*, but *prayat* does not. So how does the ending get udātta? Thus: *śatṛ* is a *kṛt* suffix; so by "kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam" (paribhāṣā 28), where the *kṛt* is named with the property of being *kṛt*, which pervades it, there forms with a *gati* or *kāraka* before them are taken too: so this paribhāṣā tells.
+
+### Page 686 — Rik 3: grammar (end)
+
+In *śatur anumaḥ* the *kṛt* is named with the property of being *śatṛ*, which pervades the *kṛt*. So here forms with *gati* and *kāraka* before them are taken too; that is, the paribhāṣā on naming a suffix does not apply in the case of *gati* and *kāraka*. So "ending in the *śatṛ* suffix" means only "having the *śatṛ* suffix as its last member". *Prayat* too has the *śatṛ* suffix as its last member, so it ends in the *śatṛ* suffix. So by *śatur anumaḥ* the ending after it becomes udātta. *Yat* ends in *śatṛ*, so, even without the use of the *kṛt*-naming paribhāṣā, there is no obstacle to the ending after it being udātta. But it should be understood that the sense set out here is the reasonable one.
+
+**अध्वरे (*adhvare*)**: its derivation is given at *draviṇodāḥ* (Ṛ. Saṃ. 1-15-7). In *prayati* + *adhvare*, in the Saṃhitā, by "iko yaṇ aci" (Pā. sū. 6-1-77), with the unaccented *a* after the udātta *i* as cause, *yaṇ* comes: *prayatyadhvare*. Now by "udāttasvaritayor yaṇaḥ svarito 'nudāttasya" (Pā. sū. 8-2-4) the *a* after the *y* becomes svarita.
+
+**पीतये (*pītaye*)**: the root *pā pāne*; by "striyāṃ ktin" (Pā. sū. 3-3-94) the suffix *ktin*: *pā* + *ti*; by "ghumāsthāgāpājahātisāṃ hali" (Pā. sū. 6-4-66) *ī* for the *ā*: *pīti*. The suffix being *nit*, initial udātta would come by "ñnityādir nityam" (Pā. sū. 6-1-197); but as a Vedic form it is final udātta. After it the dative singular *ṅe*: *pīti* + *e*. By "ṅiti hrasvaś ca" (Pā. sū. 1-4-6), before a *ṅit* suffix, the *ī*/*ū*-final words that are fit for *iyaṅ*/*uvaṅ*, other than *strī*, that always denote the feminine, and the short *i*/*u*-final words denoting the feminine, are optionally called *nadī*; since the *nadī* name is optional, on the view where it does not come, by "śeṣo ghy asakhi" (Pā. sū. 1-4-7) the *ghi* name comes. By "gher ṅiti" (Pā. sū. "1-3-111" [as printed, for 7-3-111]) *guṇa*, *e* for the *i*: *pīte* + *e*; by "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78) *ay*: *pītaye*.
+
+**॥३॥**
+
+---
 
 ### Pages 686–687 — Sūkta 16, Rik 4
 
