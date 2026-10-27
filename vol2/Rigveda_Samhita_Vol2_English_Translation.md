@@ -13858,51 +13858,71 @@ wealth as desired, removes the desire for wealth: with this sense meant, *kvip* 
 
 ---
 
-### Pages 657–658 — Sūkta 15, Rik 8
+### Page 657 — Sūkta 15, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> द्रविणोदा ददातु नो वसूनि यानि शृण्विरे ।
-> देवेषु ता वनामहे ॥८॥
+> द्र॒वि॒णो॒दा द॑दातु नो॒ वसू॑नि॒ यानि॑ शृण्वि॒रे ।
+> दे॒वेषु॒ ता व॑नामहे ॥८॥
 >
-> *draviṇodā dadātu no vasūni yāni śṛṇvire |*
-> *deveṣu tā vanāmahe ||8||*
+> *draviṇodā́ dadātu no vásūni yā́ni śṛṇviré |*
+> *devéṣu tā́ vanāmahe ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > द्रविणःऽदाः । ददातु । नः । वसूनि । यानि । शृण्विरे ॥
 > देवेषु । ता । वनामहे ॥८॥
 >
-> *draviṇaḥ-dāḥ | dadātu | naḥ | vasūni | yāni | śṛṇvire ||*
+> *draviṇaḥ 'dāḥ | dadātu | naḥ | vasūni | yāni | śṛṇvire ||*
 > *deveṣu | tā | vanāmahe ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 657; compressed; [?] marks doubtful readings)*
-
-> द्रविणोदा देवो नोऽस्मभ्यं वसूनि धनानि ददातु । यानि धनानि शृण्विरे हविरुपयुक्तत्वेन श्रूयन्ते [?] । तानि च सर्वाणि धनानि देवेषु निमित्तभूतेषु वनामहे । सम्भजामः । धनैर्देवान्यष्टुं तानि स्वीकुर्म इत्यर्थः ॥ द्रविणोदाः । गतम् । वसूनि । शृस्पृस्निहीत्यादिना । उ. [१-११] । उप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तः । शृण्विरे । श्रु श्रवणे । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । झ इरेच् । पा. [३-४-८१] । छन्दस्युभयथेति सार्वधातुकत्वे व्यत्ययेन श्नुः । तस्संनियोगेन शृभावश्च । उवङः प्राप्ते हुश्नुवोः सार्वधातुके । पा. [६-४-८७] । इति यणादेशः । चित इत्यन्तोदात्तत्वम् । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । ता । शेश्छन्दसि बहुलमिति शेर्लोपः । नलोपः प्रातिपदिकान्तस्य । पा. [८-२-७] । इति नलोपः । वनामहे । वन षण सम्भक्तौ । व्यत्ययेनात्मनेपदम् ॥८॥
+> द्रविणोदा देवो नो ऽस्मभ्यं वसूनि धनानि ददातु । यानि धनानि शृण्विरे हविरुपयुक्तत्वेन श्रूयन्ते । ता तानि च सर्वाणि धनानि देवेषु निमित्तभूतेषु वनामहे । सम्भजामः । धनैर्देवान्यष्टुं तानि स्वीकुर्म इत्यर्थः ॥ द्रविणोदाः । गतं । वसूनि । शृस्वृस्निहीत्यादिना । उ. १-११ । उप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तः । शृण्विरे । श्रु श्रवणे । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । झ इरेच् । पा. ३-४-८१ । छन्दस्युभयथेति सार्वधातुकत्वे व्यत्ययेन श्नुः । तत्सन्नियोगेन शृभावश्च । उवङि प्राप्ते हुश्नुवोः सार्वधातुके । पा. ६-४-८७ । इति यणादेशः । चित इत्यन्तोदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । ता । शेश्छन्दसि बहुलमिति शेर्लोपः । नलोपः प्रातिपदिकान्तस्य । पा. ८-२-७ । इति नलोपः । वनामहे । वन षण सम्भक्तौ । व्यत्ययेनात्मनेपदं ॥
 >
-> *draviṇodā devo no 'smabhyaṃ vasūni dhanāni dadātu | yāni dhanāni śṛṇvire havir-upayuktatvena śrūyante [?] | tāni ca sarvāṇi dhanāni deveṣu nimitta-bhūteṣu vanāmahe | sambhajāmaḥ | dhanair devān yaṣṭuṃ tāni svīkurma ity arthaḥ || draviṇodāḥ | gatam | vasūni | śṛ-spṛ-snihī-ty-ādinā | u. [1-11] | u-pratyayaḥ | nid ity anuvṛtter ādyudāttaḥ | śṛṇvire | śru śravaṇe | chandasi luṅ-laṅ-liṭa iti vartamāne liṭ | jha ireč | pā. [3-4-81] | chandasy ubhayatheti sārvadhātukatve vyatyayena śnuḥ | tas-saṃniyogena śṛbhāvaś ca | uvaṅaḥ prāpte hu-śnuvoḥ sārvadhātuke | pā. [6-4-87] | iti yaṇādeśaḥ | cita ity antodāttatvam | yad-vṛttān nityam iti nighāta-pratiṣedhaḥ | tā | śeś chandasi bahulam iti śer lopaḥ | nalopaḥ prātipadikāntasya | pā. [8-2-7] | iti nalopaḥ | vanāmahe | vana ṣaṇa sambhaktau | vyatyayenātmanepadam ||8||*
+> *draviṇodā devo no 'smabhyaṃ vasūni dhanāni dadātu | yāni dhanāni śṛṇvire havirupayuktatvena śrūyante | tā tāni ca sarvāṇi dhanāni deveṣu nimittabhūteṣu vanāmahe | sambhajāmaḥ | dhanairdevānyaṣṭuṃ tāni svīkurma ityarthaḥ || draviṇodāḥ | gataṃ | vasūni | śṛsvṛsnihītyādinā | u. 1-11 | upratyayaḥ | nidityanuvṛtterādyudāttaḥ | śṛṇvire | śru śravaṇe | chandasi luṅlaṅliṭa iti vartamāne liṭ | jha irec | pā. 3-4-81 | chandasyubhayatheti sārvadhātukatve vyatyayena śnuḥ | tatsanniyogena śṛbhāvaśca | uvaṅi prāpte huśnuvoḥ sārvadhātuke | pā. 6-4-87 | iti yaṇādeśaḥ | cita ityantodāttatvaṃ | yadvṛttānnityamiti nighātapratiṣedhaḥ | tā | śeśchandasi bahulamiti śerlopaḥ | nalopaḥ prātipadikāntasya | pā. 8-2-7 | iti nalopaḥ | vanāmahe | vana ṣaṇa sambhaktau | vyatyayenātmanepadaṃ ||*
 
-**Translation:** "May the god Draviṇodā give us the *vasūni* — the riches — which are heard of (*śṛṇvire*) [as useful for the oblation]. And all those riches we accept (*vanāmahe*, 'we enjoy, we take') for the gods, who are the occasion: the sense is that we take them for the purpose of sacrificing to the gods with riches." The rest is grammar, noted briefly: *vasūni* (the Uṇādi *u* suffix; first-syllable accent); *śṛṇvire* (*śru* with *liṭ* in the present sense, *jha* → *ire* by P. 3-4-81 *liṭas tajhayor eśirec*, *śnu* inserted by *vyatyaya*, *śṛ* for *śru*, and *y* for *u* by P. 6-4-87; accent on the last syllable because of the *c*; no loss of accent despite the relative *yāni*); *tā* (*śas* → *śi* with *śi*'s drop, *n*-drop by P. 8-2-7); *vanāmahe* (*vana* "to love, to serve"; *ātmanepada* by *vyatyaya*). *(Grammar, noted briefly; P. 8-2-7 and P. 3-4-81 agree with the standard numbering.)*
+**Translation:** "May the god Draviṇodas give us *vasūni*, riches. The riches that *śṛṇvire*, are heard of, as fit for oblations: *tā*, all those riches, *devesu*, for the sake of the gods, *vanāmahe*, we accept; that is, we take them in order to worship the gods with riches." (Grammatical tail: *draviṇodāḥ* gone through; *vasūni* with *u* (Uṇ. 1-11), initial udātta (*nit* carried on); *śṛṇvire*: *śru*, *liṭ* in the present, *irec* for *jha* (Pā. 3-4-81), by *chandasy ubhayathā* *sārvadhātuka* status and so by *vyatyaya* *śnu* with *śṛ* for *śru*, *yaṇ* for the *uvaṅ* by Pā. 6-4-87, final udātta (*cit*), not lowered because of the relative *yāni*; *tā*: the *śi* dropped by *śeś chandasi bahulam*, the *n* dropped (Pā. 8-2-7); *vanāmahe*, *van* 'to share', *ātmanepada* by *vyatyaya*.)
 
-**Grammar pages (pp. 658–659), noted briefly.** *Draviṇodāḥ* was explained in the preceding mantra. *Vasūni* — *vas* "to dwell" with the Uṇādi *u* (Uṇ. 1-10 *śvāsyu-snihi-trapy-asi-vasi-hani-klidi-bandhi-manibhyaś ca*; *nit* carries over, so the suffix is eternal; first-syllable accent by P. 6-1-197 *ñnityādir nityam*). *Śṛṇvire* — *śru* + *liṭ* (P. 3-4-6) + *jha*; P. 3-4-81 *liṭas tajhayor eśirec*; P. 3-4-117 *chandasy ubhayathā* makes the suffix *sārvadhātuka* too; *śruvaḥ śṛ ca* P. 3-1-74 gives *śṛ* and *śnu* together; the *iṅ-uvaṅ* P. 6-4-77 *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* would apply, but it is barred in favour of *hu-śnuvoḥ sārvadhātuke* P. 6-4-87 *yaṇ*; and *kvit* the *n* → *ṇ* by P. 8-4-1 *raṣābhyāṃ no ṇaḥ samānapade*; the accent on the last by *cit* P. 6-1-163; the verb is not unaccented, by *yadvṛttān nityam* P. 8-1-66 [as read]. *Tā* — *tad* + *śas*, the *d* → *a* by P. 7-2-102 *tyadādīnām aḥ*, *ato guṇe* P. 6-1-97, *jaśśasoḥ śiḥ* P. 7-1-20, *śi sarvanāmasthānam* P. 1-1-42, *num* augment by P. 7-1-72 *napuṃsakasya jhalacaḥ*, lengthening by P. 6-4-8, *śeś chandasi bahulam* P. 6-1-70, *n*-drop P. 8-2-7. *Vanāmahe* — *vana ṣaṇa sambhaktau*; the *vyatyayo bahulam* (P. 3-1-85) *ātmanepada* and the long discussion of the word *upagraha* in the Kārikā *supy-… upagraha*, in which *parasmaipada* and *ātmanepada* are the two; so *vyatyaya* of the voices can occur; the verb unaccented by P. 8-1-28. *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 657)*
+**द्रविणोदाः (draviṇodāḥ)** — the god who gives wealth (Agni) | **यानि (yāni)** — the riches which | **शृण्विरे (śṛṇvire)** — are well known as fit for oblations | **ता वसूनि (tā vasūni)** — those riches | **नः (naḥ)** — to us | **ददातु (dadātu)** — may he give | **ता (tā)** — all those riches | **देवेषु (devesu)** — for the sake of the gods | **वनामहे (vanāmahe)** — we take.
 
-**द्रविणोदाः (draviṇodāḥ)** — the god (Agni) who gives wealth | **यानि (yāni)** — which riches | **शृण्विरे (śṛṇvire)** — are known (heard) as useful for the oblation | **ता वसूनि (tā vasūni)** — those riches | **नः (naḥ)** — to us | **ददातु (dadātu)** — let him give | **ता (tā)** — all those riches | **देवेषु (deveṣu)** — for the sake of the gods | **वनामहे (vanāmahe)** — we accept.
+### Page 658 — Rik 8: overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** *(p. 658)*
+**॥ Bhāvārthaḥ ॥**
 
-We seek wealth for the sake of rites such as the sacrifice to the gods. May Agni, the giver of wealth, graciously give us all the riches that are well known to be fit for these rites.
+We look for wealth for the works of the gods, such as sacrifices. May Agni, the giver of wealth, graciously grant us all the wealth known to be for these works.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > May Dravinodas give us riches that may be heard of; we ask them towards the service of the gods.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 658)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**यानि शृण्विरे (yāni śṛṇvire)** — all such objects as we have heard have the various kinds of wealth and lordship. Since the rik says "*deveṣu tā vanāmahe*", those objects must be fit to be offered to the gods; therefore the commentator says they are objects "useful for giving oblation".
+**Yāni śṛṇvire**: all such things, of whatever kinds of wealth and lordship we have heard there are. Since it is said here *devesu tā vanāmahe*, those things must be fit to be offered to the gods; so the Bhāṣyakāra says they are things fit for offering oblations.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 658–659, noted briefly)*
+
+**द्रविणोदाः (*draviṇodāḥ*)**: explained in the previous mantra.
+
+**वसूनि (*vasūni*)**: by "śṛsvṛsnihitrapyasivasihanikledibandhimanibhyaś ca" (Uṇ. sū. "1-10" [?]; the bhāṣya gives 1-11) the suffix *u* after *vasa nivāse*. In this sūtra *nit* is carried on from "dhānye nit" (Uṇ. sū. 1-9); so the suffix *u* is *nit*, and by "ñnityādir nityam" (Pā. sū. 6-1-197) initial udātta comes.
+
+**शृण्विरे (*śṛṇvire*)**: *śru śravaṇe*; by "chandasi luṅlaṅliṭaḥ" (Pā. sū. 3-4-6) *liṭ* in the present sense; 3rd plural *jha*; by "liṭas tajhayor eśirec" (Pā. sū. 3-4-81) *irec* for the *jha*. By "chandasy ubhayathā" (Pā. sū. 3-4-117) it also has *sārvadhātuka* status; so by "śruvaḥ śṛ ca" (Pā. sū. 3-1-74) *śṛ* comes for *śru*, together with the suffix *śnu*: *śṛ* + *nu* + *ire*. Now "iko yaṇ aci" (Pā. sū. 6-1-77) would give *yaṇ*; overriding it, "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau" (Pā. sū. 6-4-77) would give *uvaṅ*; overriding that too, "huśnuvoḥ sārvadhātuke" (Pā. sū. 6-4-87): before a vowel-initial *sārvadhātuka* suffix, the *u* of *hu* and of a stem ending in *śnu* with several vowels,
+
+### Page 659 — Rik 8: grammar (end)
+
+not preceded by a conjunct, takes *yaṇ*; so *yaṇ*. By "ṛvarṇān nasya ṇatvaṃ vācyam" (Pā. sū. 8-4-1 vā. 1) *ṇ* for the *n*: *śṛṇvire*. The suffix *irec* is *cit*, so by "citaḥ" (Pā. sū. 6-1-163) it is final udātta. By "yadvṛttān nityam" (Pā. sū. 8-1-66) the full lowering is barred, so "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) does not make it wholly unaccented.
+
+**ता (*tā*)**: *tad* in the neuter, with *śas* after it; *a* for the *d* by "tyadādīnām aḥ" (Pā. sū. 7-2-102); *pararūpa* by "ato guṇe" (Pā. sū. 6-1-97). "jaśśasoḥ śiḥ" (Pā. sū. 7-1-20): for *jas* and *śas* after a neuter stem, the replacement *śi*; so *śi* for *śas*. By "śi sarvanāmasthānam" (Pā. sū. 1-1-42) *śi* is a *sarvanāmasthāna*. "napuṃsakasya jhalacaḥ" (Pā. sū. 7-1-72): a neuter stem ending in a *jhal* or a vowel takes the augment *num* before a *sarvanāmasthāna*; so *num*: *tan* + *i*; by "sarvanāmasthāne cāsambuddhau" (Pā. sū. 6-4-8) the penultimate is lengthened: *tān* + *i*. By "śeś chandasi bahulam" (Pā. sū. 6-1-70) the *śi* drops; by "nalopaḥ prātipadikāntasya" (Pā. sū. 8-2-7) the *n* drops: *tā*. It means *tāni*.
+
+**वनामहे (*vanāmahe*)**: *vana ṣaṇa sambhaktau*. In "vyatyayo bahulam" (Pā. sū. 3-1-85), in the kārikā *suptiṅupagraha…*, *upagraha* is explained as *parasmaipada* and *ātmanepada*; so there is interchange between *parasmaipada* and *ātmanepada*. The word *vyatyaya* is made from the root *iṇ gatau* with the two *upasargas* *vi* and *ati*, with *ac* in the action sense; it means "going beyond". So it is settled that where there is a cause for *parasmaipada*, going beyond it the *ātmanepada* comes, and where there is a cause for *ātmanepada*, going beyond it the *parasmaipada* comes, in some places. Though the root *van* is *parasmaipadin*, going beyond that, the *ātmanepada* comes by "vyatyayo bahulam" (3-1-85). Wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**॥८॥**
+
+---
 
 ### Pages 659–663 — Sūkta 15, Rik 9
 
