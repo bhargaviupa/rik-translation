@@ -3022,41 +3022,87 @@ According to the story told in the Purāṇas: while the demon called Bali Cakra
 
 ---
 
-### Pages 128–131 — Sūkta 22, Rik 18
+### Page 128 (lower) — Sūkta 22, Rik 18
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्रीणि पदा वि चक्रमे विष्णुर्गोपा अदाभ्यः ।
-> अतो धर्माणि धारयन् ॥ १८ ॥
+> त्रीणि॑ प॒दा वि च॑क्र॒मे विष्णु॑र्गो॒पा अदा॑भ्यः ।
+> अ॒तो धर्मा॑णि धा॒रय॑न् ॥१८॥ [accent ?]
+>
+> *trī́ṇi padā́ ví cakramé víṣṇur gopā́ ádābhyaḥ |*
+> *ató dhármāṇi dhāráyan ||18||* [accent ?]
 
-*trīṇi padā vi cakrame viṣṇur gopā adābhyaḥ | ato dharmāṇi dhārayan || 18 ||*
+*(Strokes over णि, च, ष्णु and दा; bars under प (पदा), मे and गो. Line 2: a bar under अ, a stroke over the head of धर्मा (read as over र्मा, as in the Pada [accent ?]), a bar under धा, a stroke over र.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> त्रीणि । पदा । वि । चक्रमे । विष्णुः । गोपाः । अदाभ्यः ॥ अतः । धर्माणि । धारयन् ॥ १८ ॥
-
-*trīṇi | padā | vi | cakrame | viṣṇuḥ | gopāḥ | adābhyaḥ || ataḥ | dharmāṇi | dhārayan || 18 ||*
+> त्रीणि । पदा । वि । चक्रमे । विष्णुः । गोपाः । अदाभ्यः ॥
+> अतः । धर्माणि । धारयन् ॥१८॥
+>
+> *trīṇi | padā | vi | cakrame | viṣṇuḥ | gopāḥ | adābhyaḥ ||*
+> *ataḥ | dharmāṇi | dhārayan ||18||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> उपसदि वैष्णवयागस्य प्रातःकाले याज्या सायंकालेऽनुवाक्या त्रीणि पदेत्येषा । सूत्रितं च — त्रीणि पदा वि चक्रम इति स्विष्टकृदादि लुप्यते (आ. ४-८) इति ॥
+*(Numbers as printed: आ० ४-८, ऋग्वे० १-१-८.)*
+
+> उपसदि वैष्णवयागस्य प्रातःकाले याज्या सायंकालेऽनुवाक्या त्रीणि पदेत्येषा । सूत्रितं च । त्रीणि पदा वि चक्रम इति स्विष्टकृदादि लुप्यते । आ० ४-८ । इति ॥
 >
-> अदाभ्यः केनाप्यहिंसितुमशक्यो गोपाः सर्वस्य जगतो रक्षको विष्णुः पृथिव्यादिस्थानेषु सप्तसु [?] एतेषु त्रीणि पदानि वि चक्रमे । किं कुर्वन् । धर्माणि अग्निहोत्रादीनि धारयन् पोषयन् ॥ पदा । सुपां सुलुगित्यादिना विभक्तेर्डादेशः । तस्य स्थानिवद्भावेनानुदात्तत्वे प्राप्ते उदात्तनिवृत्तिस्वरेणोदात्तत्वम् । गोपाः । गोपानृतस्य (ऋ. १-१-८) इत्युक्तोक्तम् । अदाभ्यः । दभेर्यहलोर्ण्यदिति ण्यत् । नञ्समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । धारयन् । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेण णिच् एव स्वरः शिष्यते ॥
+> *upasadi vaiṣṇavayāgasya prātaḥkāle yājyā sāyaṃkāle 'nuvākyā trīṇi padetyeṣā | sūtritaṃ ca | trīṇi padā vi cakrama iti sviṣṭakṛdādi lupyate | ā0 4-8 | iti ||*
 
-*upasadi vaiṣṇavayāgasya prātaḥkāle yājyā sāyaṃkāle 'nuvākyā trīṇi padety eṣā | sūtritaṃ ca — trīṇi padā vi cakrama iti sviṣṭakṛdādi lupyate (ā. 4-8) iti ||*
-*adābhyaḥ kenāpy ahiṃsitum aśakyo gopāḥ sarvasya jagato rakṣako viṣṇuḥ pṛthivyādisthāneṣu saptasu [?] eteṣu trīṇi padāni vi cakrame | kiṃ kurvan | dharmāṇi agnihotrādīni dhārayan poṣayan || padā | supāṃ suluk ity ādinā vibhakter ḍādeśaḥ | tasya sthānivadbhāvenānudāttatve prāpte udāttanivṛttisvareṇodāttatvam | gopāḥ | gopānṛtasya (ṛ. 1-1-8) ity uktoktam | adābhyaḥ | dabher yahalor ṇyad iti ṇyat | nañsamāsaḥ | avyayapūrvapadaprakṛtisvaratvam | dhārayan | śapaḥ pittvād anudāttatvam | śatuś ca lasārvadhātukasvareṇa ṇic eva svaraḥ śiṣyate ||*
+**Translation (application):** "At the *upasad*, for the offering to Viṣṇu, this ṛk *trīṇi padā* is the *yājyā* in the morning and the *anuvākyā* in the evening; and it is laid down: '*trīṇi padā vi cakrame*; the *sviṣṭakṛt* and the rest are omitted' (Āśv. 4-8)."
 
-**Translation:** "In the *upasad* [offering], the rik *trīṇi padā* is the *yājyā* of the Viṣṇu sacrifice in the morning, and the *anuvākyā* in the evening; so it is laid down: '*trīṇi padā vi cakrame* — the *sviṣṭakṛt* and the rest are omitted' (Āś. [4-8]). Viṣṇu — *adābhya*, whom none can harm; *gopā*, the protector of all the world — strode three steps [in the places of the earth and the rest, in the seven [?] of them]. Doing what? *Dharmāṇi* — the sacrificial rites such as the Agnihotra — *dhārayan*: supporting, nourishing." *(Grammar pages 129–131, noted briefly: the words treated are* padā *[the* ḍā *substitute for* śas *by P. 7-1-39 *supāṃ suluk*…; accent by the rule of cessation of the* udātta*],* vicakrame*,* viṣṇuḥ *[see the previous rik],* gopāḥ *[*go* + *pā rakṣaṇe* + *kvip*; the process is the same as in Ṛ. Saṃ. 1-1-8, to which the bhāṣya refers; the print does not show the process in the present printed form],* adābhyaḥ *[*dabh* is not in Pāṇini's list of roots but the commentator takes it as 'to harm'; *ṇyat* by P. 3-1-124 *ṛhalor ṇyat*; *upadhā-vṛddhi*; *nañ*-compound P. 2-2-6; loss of* n *P. 6-3-73; accent by P. 6-2-2 — all seven are* prakṛti-svara *in a* tatpuruṣa *with* nañ],* dhārayan *[*dhṛṅ dhāraṇe* + *ṇic*; vṛddhi P. 7-2-115; *śatṛ* for *laṭ* by P. 3-2-124; *śap*; the accent of* śap *and* śatṛ *resolved by P. 6-1-186 and 6-1-[?]; the accent of* ṇic *alone remains]; numerals as read, pointers only.)*
+> अदाभ्यः केनापि हिंसितुमशक्यो गोपाः सर्वस्य जगतो रक्षको विष्णुः पृथिव्यादिस्थानेषु त्रीणि पदानि वि चक्रमे । किं कुर्वन् । धर्माण्यग्निहोत्रादीनि धारयन्पोषयन् ॥ पदा । सुपां सुलुगित्यादिना विभक्तेर्डादेशः । तस्य स्थानिवद्भावेनानुदात्तत्वे प्राप्त उदात्तनिवृत्तिस्वरेणोदात्तत्वं । गोपाः । गोपामृतस्य । ऋग्वे० १-१-८ । इत्यत्रोक्तं । अदाभ्यः । दभेरृहलोर्ण्यदिति ण्यत् । नञ्समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वं । धारयन् । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण णिच एव स्वरः शिष्यते ॥
+>
+> *adābhyaḥ kenāpi hiṃsitumaśakyo gopāḥ sarvasya jagato rakṣako viṣṇuḥ pṛthivyādisthāneṣu trīṇi padāni vi cakrame | kiṃ kurvan | dharmāṇyagnihotrādīni dhārayanpoṣayan || padā | supāṃ sulugityādinā vibhakterḍādeśaḥ | tasya sthānivadbhāvenānudāttatve prāpta udāttanivṛttisvareṇodāttatvaṃ | gopāḥ | gopāmṛtasya | ṛgve0 1-1-8 | ityatroktaṃ | adābhyaḥ | dabherṛhalorṇyaditi ṇyat | nañsamāsaḥ | avyayapūrvapadaprakṛtisvaratvaṃ | dhārayan | śapaḥ pittvādanudāttatvaṃ | śatuśca lasārvadhātukasvareṇa ṇica eva svaraḥ śiṣyate ||*
 
-**॥ Prati-padārthaḥ ॥** **अदाभ्यः (adābhyaḥ)** — one whom none can harm | **गोपाः (gopāḥ)** — the protector of the whole world | **विष्णुः (viṣṇuḥ)** — Viṣṇu | **धर्माणि (dharmāṇi)** — the sacred rites [Agnihotra and the like] | **धारयन् (dhārayan)** — supporting | **अतः (ataḥ)** — by this [kind of] action | **त्रीणि पदा (trīṇi padā)** — three steps | **वि चक्रमे (vi cakrame)** — placed.
+**Translation:** "Viṣṇu, *adābhyaḥ*, whom no one can harm, *gopāḥ*, the protector of the whole world, *vi cakrame*, stepped *trīṇi padā*, three steps, in the places, the earth and the rest. Doing what? *Dhārayan*, supporting, nourishing, the *dharmāṇi*, the rites such as the *agnihotra*." (Grammatical tail: *padā*, the substitute *ḍā* for the case-ending by *supāṃ suluk…*; unaccented would be due by its standing for the original, but it is udātta by the accent of the loss of the udātta; *gopāḥ*, explained at *gopām ṛtasya* (Ṛgve. 1-1-8); *adābhyaḥ*, *ṇyat* after *dabh* by *ṛhalor ṇyat*, a *nañ* compound, the indeclinable first member's accent; *dhārayan*, *śap* unaccented as *pit*, and the *śatṛ* too by the *lasārvadhātuka* accent, so only the accent of *ṇic* remains.)
 
-**॥ Bhāvārthaḥ ॥** Viṣṇu cannot be injured by anyone; he is the protector of the whole world; therefore, for the protection of the rites such as the Agnihotra, Viṣṇu placed three steps.
+### Page 129 — Rik 18: word-meanings, overall sense, English, Special Topics, grammar
+
+**॥ Prati-padārthaḥ ॥**
+
+**अदाभ्यः (adābhyaḥ)** — who cannot be harmed by anyone | **गोपाः (gopāḥ)** — protecting the whole world | **विष्णुः (viṣṇuḥ)** — Viṣṇu | (in the places, the earth and the rest) **धर्माणि (dharmāṇi)** — the works of *dharma* proper to the performance of good rites such as the *agnihotra* | **धारयन् (dhārayan)** — nourishing (protecting) | **अतः (ataḥ)** — by this order of action | **त्रीणि पदा (trīṇi padā)** — three steps | **वि चक्रमे (vi cakrame)** — stepped out.
+
+**॥ Bhāvārthaḥ ॥**
+
+No one can harm Viṣṇu. He is the protector of the whole world; therefore, for the upholding of *dharmas* such as the *agnihotra*, Viṣṇu made three strides.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Vishnu, the uninjurable and the protector of the Universe, stepped three steps, thereby preserving the Sacred laws.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 129)* **Application.** In the *upasad* sacrifice, in the offering made to Viṣṇu, this rik is to be used as the *yājyā* mantra in the morning, and as the *puro-'nuvākyā* in the evening; this is stated in Āśvalāyana's Śrauta-sūtra in the section *trīṇi padā vi cakrame iti sviṣṭakṛdādi lupyate* (Āś. [4-8]). **गोपाः** — *go* is the earth; he who protects it is *gopāḥ*: a name for Viṣṇu. **अदाभ्यः** — *ahiṃsyaḥ*: one who cannot be harmed — there is no one with the power to harm him. **धर्माणि, धारयन्** — according to the saying *sarvasya hi bhagavān viṣṇur āśrayaḥ* ('Bhagavān Viṣṇu is indeed the support of all'): Viṣṇu is the refuge and protector of all the universal laws (*dharmas*), not only of the universe. That is, among the Trimūrti — Brahmā, Viṣṇu and Maheśvara, whose duties are creation, preservation and dissolution — Viṣṇu carries out his own duty of protecting the universe by punishing the wicked and protecting the good.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+The application of this mantra is as follows. In the rite called *upasadana*, when making the offering connected with Viṣṇu, this ṛk is to be used in the morning as the *yājyā* mantra and in the evening as the *puronuvākyā* mantra: so it is stated in the section *trīṇi padā vi cakrama iti sviṣṭakṛdādi lupyate* of the Āśvalāyana Śrautasūtra (Ā. 4-8).
+
+**गोपाः (gopāḥ)** — *go* means the earth; because he protects it, Viṣṇu is named *gopāḥ*.
+
+**अदाभ्यः (adābhyaḥ)** — *ahiṃsyaḥ*, one who cannot be harmed. The meaning is that no one has the power to harm him.
+
+**धर्माणि, धारयन् (dharmāṇi, dhārayan)** — according to the saying *sarvasya hi bhagavān viṣṇur āśrayaḥ*, Viṣṇu is not only the protector of the whole world but also the support of all *dharmas* ("Universal laws") and their protector; that is, he is foremost in punishing the wicked and protecting the good. The intention is that among creation, preservation and dissolution, the duties of the three forms Brahmā, Viṣṇu and Maheśvara, Viṣṇu carries out his own duty, the preservation of the world, that is, punishing the wicked and protecting the good.
+
+> सर्वस्य हि भगवान् विष्णुराश्रयः ।
+>
+> *sarvasya hi bhagavān viṣṇurāśrayaḥ |*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पदा (padā)** — for the accusative plural suffix *śas*, by *supāṃ suluk* (Pā. Sū. 7-1-39), the substitute *ḍā*; by *sthānivadbhāva* it is unaccented. The substitute *ḍā* coming in place of *śas* —
+
+### Page 130 — Rik 18: grammar (continued)
+
+— should be unaccented; yet, by the force of the suffix being made *ḍit*, even without the name *bha*, the final udātta *a* of the word *pada* is dropped by *ṭeḥ*. So by *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-161) the unaccented *ā* that caused the loss of the udātta *a* becomes udātta.
+
+**गोपाः (gopāḥ)** — the Veda commentary says that the derivation is set out at *gopām ṛtasya* (Ṛ. Saṃ. 1-1-8); but the derivation is not seen there in the way the printed text now has it. With the analysis *gāṃ* (the earth) *pāti* (protects), by *kvip ca* (Pā. Sū. 3-2-76), when the object-word *gām* is *upapada*, *kvip* comes after the root *pā rakṣaṇe*; *pā* is udātta by the root accent; an *upapada* compound; by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) that same accent stays by the accent of the *kṛt* final member.
+
+**अदाभ्यः (adābhyaḥ)** — the root *dabh* is not found in Pāṇini's list of roots; yet the commentator describes that this root exists and that it means harming. By *ṛhalor ṇyat* (Pā. Sū. 3-1-124) — after a root ending in *ṛ* or in a consonant, the suffix *ṇyat* — the suffix *ṇyat*: *dabh* + *ya*; by *ata upadhāyāḥ* (Pā. Sū. 7-2-116) *vṛddhi* of the penultimate: *na dābhyaḥ adābhyaḥ*: by the sūtra *nañ* (Pā. Sū. 2-2-6) the *nañ* compound; by *nalopo nañaḥ* (Pā. Sū. 6-3-73) the *n* is dropped; by *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* (Pā. Sū. 6-2-2) — in a tatpuruṣa compound these seven first members keep their own accent — *nañ* keeps its own accent.
+
+**धारयन् (dhārayan)** — *dhṛñ dhāraṇe*, *ṇic*: *dhṛ* + *i*; by *aco 'ñṇiti* (Pā. Sū. 7-2-115) *vṛddhi*, followed by *r*: it became *dhāri*. After it *laṭ*; by *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* (Pā. Sū. 3-2-124) the substitute *śatṛ* for *laṭ*; by *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap*: *dhāri* + *a* + *at*; with *śap* as cause, *guṇa* *e* for the *i* of *ṇic*, the substitute *ay*, and the following form for both *a*'s: *dhārayat*; after it the suffix *su*; by *ugidacām* (Pā. Sū. 7-1-70) the augment *n* after the *ya*: *dhārayant* + *s*; by *halṅyābbhyaḥ* (Pā. Sū. 6-1-68) *su* is dropped; by *saṃyogāntasya lopaḥ* (Pā. Sū. 8-2-23) the *t* at the end of the conjunct is dropped; since by *pūrvatrāsiddham* (Pā. Sū. 8-2-1) the dropping of the conjunct-final is *asiddha*, by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-2-7) the *n* is not dropped: it becomes *dhārayan*. Here *śap*, being *pit*, is unaccented by *anudāttau suppitau* (Pā. Sū. 3-1-4). The *śatṛ* too, being an *a*-final original teaching,
+
+### Page 131 (upper) — Rik 18: grammar (end)
+
+and following *śap*, is unaccented by *tāsy anudāttenṅid adupadeśāl lasārvadhātukam anudāttam ahnviṅoḥ* (Pā. Sū. 6-1-186). The *a* coming by the following form for both of these is unaccented by likeness of place. So, the *i* of *ṇic* staying udātta by the suffix accent, the *e* coming in its place and the substitute *ay* coming in its place are udātta. ॥18॥
 
 ---
 
