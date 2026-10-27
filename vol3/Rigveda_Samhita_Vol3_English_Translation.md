@@ -2782,49 +2782,117 @@ with the *ac* suffix in the sense of possession; the word *uttarapada* is conven
 
 ---
 
-### Pages 117–122 — Sūkta 22, Rik 16 *(the Viṣṇu riks begin here)*
+### Page 117 (lower) — Sūkta 22, Rik 16 *(the Viṣṇu ṛks begin here)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अतो देवा अवन्तु नो यतो विष्णुर्विचक्रमे ।
-> पृथिव्याः सप्त धामभिः ॥ १६ ॥
-
-*Ato devā avantu no yato viṣṇur vicakrame | pṛthivyāḥ sapta dhāmabhiḥ || 16 ||*
-
-**॥ Padapāṭhaḥ ॥**
-
-> अतः । देवाः । अवन्तु । नः । यतः । विष्णुः । विऽचक्रमे ॥ पृथिव्याः । सप्त । धामऽभिः ॥ १६ ॥
-
-*ataḥ | devāḥ | avantu | naḥ | yataḥ | viṣṇuḥ | vi-cakrame || pṛthivyāḥ | sapta | dhāma-bhiḥ || 16 ||*
-
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 117–118; the citations of sūtra numerals are read with some doubt)*
-
-> प्रातःसवने सोमातिरेके एकं शस्त्रं शंसनीयम् । अत्रातो देवा इत्याद्याः षडृचः । सोमातिरेक इति खण्डे सूत्रितम् — महाँ इन्द्रो य ओजसा … अतो देवा अवन्तु न इत्यैन्द्रीर्वैष्णवीर्वीभिष्टिभिः [?] (आ. ६-२ [?]) इति । आप्र्योर्म [?] … अच्छावाकातिरिक्तोक्थ्ये चैताः षडृचः स्तोत्रियानुरूपार्थाः । तथा च यस्य पशव इति खण्डे सूत्रितम् — अतो देवा अवन्तु न इति स्तोत्रियानुरूपौ (आ. ६-११ [?]) इति ॥ दर्शपूर्णमासयोः प्रायश्चित्तहोमेऽस्याद्ये विनियुक्ते । तस्यैव वेदं पत्न्या इति खण्डे सूत्रितम् — अतो देवा अवन्तु न इति द्वाभ्यां व्याहृतिभिश्च (आ. १-११ [?]) इति ॥ याज्यानुवाक्ययोर्मध्ये लौकिकभाषणे ऽतो देवा इत्येषा जप्या । सूत्रितं हि — आपद्यतो देवा अवन्तु न इति जपेत् (आ. १-[५] [?]) इति ॥
+> अतो॑ दे॒वा अ॑वन्तु नो॒ यतो॒ वि॑ष्णुर्विचक्र॒मे ।
+> पृ॒थि॒व्याः स॒प्त धाम॑भिः ॥१६॥
 >
-> विष्णुः परमेश्वरः सप्तधामभिः सप्तभिर्गायत्र्यादिभिश्छन्दोभिः साधनभूतैर्यतः पृथिव्या यस्माद्भूप्रदेशाद्विचक्रमे । विविधं पादक्रमणं कृतवान् अतोऽस्मात्पृथिवीप्रदेशान्नोऽस्मान्देवा अवन्तु । विष्णोः पृथिव्यादिलोकेषु च्छन्दोभिः साधनभूतैर्जयं [?] त्रैत्तिरीया आमनन्ति — विष्णुमुखा वै देवाश्छन्दोभिरिमाँल्लोकानपजय्यमभ्यजयन् (तै. सं. [?]) इति । विष्णोस्त्रिविक्रमावतारे पादत्रयक्रमणस्य … पृथिवीप्रदेशाद्वीक्षणं नाम भूलोके वर्तमानानां पापनिवारणम् [?] ॥
+> *áto devā́ avantu no yáto víṣṇur vicakramé |*
+> *pṛthivyā́ḥ saptá dhā́mabhiḥ ||16||*
 
-*prātaḥsavane somātireke ekaṃ śastraṃ śaṃsanīyam | atrāto devā ity ādyāḥ ṣaḍṛcaḥ | somātireka iti khaṇḍe sūtritam — mahāṃ indro ya ojasā … ato devā avantu na ity aindrīr vaiṣṇavīr vībhiṣṭibhiḥ [?] (ā. 6-2 [?]) iti | … acchāvākātiriktokthye caitāḥ ṣaḍṛcaḥ stotriyānurūpārthāḥ | tathā ca yasya paśava iti khaṇḍe sūtritam — ato devā avantu na iti stotriyānurūpau (ā. 6-11 [?]) iti || darśapūrṇamāsayoḥ prāyaścittahome 'syādye viniyukte | tasyaiva vedaṃ patnyā iti khaṇḍe sūtritam — ato devā avantu na iti dvābhyāṃ vyāhṛtibhiś ca (ā. 1-11 [?]) iti || yājyānuvākyayor madhye laukikabhāṣaṇe 'to devā ity eṣā japyā | sūtritaṃ hi — āpadyato devā avantu na iti japet (ā. 1-[5] [?]) iti ||*
-*viṣṇuḥ parameśvaraḥ saptadhāmabhiḥ saptabhir gāyatryādibhiś chandobhiḥ sādhanabhūtair yataḥ pṛthivyā yasmād bhūpradeśād vicakrame | vividhaṃ pādakramaṇaṃ kṛtavān ato 'smāt pṛthivīpradeśān no 'smān devā avantu | viṣṇoḥ pṛthivyādilokeṣu cchandobhiḥ sādhanabhūtair jayaṃ [?] taittirīyā āmananti — viṣṇumukhā vai devāś chandobhir imāṃl lokān apajayyam abhyajayan (tai. saṃ. [?]) iti | viṣṇos trivikramāvatāre pādatrayakramaṇasya … pṛthivīpradeśād vīkṣaṇaṃ nāma bhūloke vartamānānāṃ pāpanivāraṇam [?] ||*
+*(Strokes over तो (अतो), अ (अवन्तु) and वि (विष्णुः); bars under दे, नो, तो (यतो) and क्र. Line 2: bars under पृ, थि and स; a stroke over म.)*
 
-**Translation:** "In the morning pressing, at the *somātireka* [the extra Soma offering], one *śastra* is to be recited; here the six riks beginning *ato devā* are used. It is laid down in Āśvalāyana in the section *somātireka* [the Indra–Viṣṇu riks, with *mahāṃ indro ya ojasā* (Ṛ. 8-6-1)] (Āś. [6-2] [?]); and these six riks serve as *stotriya* and *anurūpa* in the *ukthya* [offering] with the *acchāvāka*; in the section *yasya paśavaḥ*: '*ato devā avantu na* as the *stotriya* and *anurūpa*' (Āś. [6-11] [?]). In the expiatory (*prāyaścitta*) oblations of the new- and full-moon sacrifices the first two of these riks are used; in the section *vedaṃ patnyai*: '*ato devā avantu na* with two [riks] and the *vyāhṛtis*' (Āś. [1-11] [?]). Between the *yājyā* and the *anuvākyā*, if a worldly word is spoken, the rik *ato devā avantu na* is to be muttered; for it is laid down: 'in distress he mutters *ato devā avantu na*' (Āś. [1-5] [?]).
+**॥ Pada-pāṭhaḥ ॥**
 
-"Viṣṇu, the Supreme Lord, strode forth with seven *dhāmans* — the seven metres, Gāyatrī and the rest, as means — from whichever region (*pradeśa*) of the earth. He did a manifold stepping. Therefore, from that region of the earth, may the gods protect us. As to the conquest of the worlds, earth and the rest, by Viṣṇu with the metres as means, the Taittirīyas read: 'The gods, with Viṣṇu at their head, conquered these worlds by the metres, [conquering] what could not be taken back' (Tai. Saṃ. [?]). In Viṣṇu's Trivikrama incarnation, the stepping of the three steps … the 'looking' [?] at the region of the earth is the removal of sin for those who live on the earth [the last sentence is read doubtfully]." *(Grammar pages 120–122, noted briefly: the words treated are* ataḥ *[*itaḥ*-type formation: *tasil* in the fifth-case sense after* etad*, P. 5-3-7; *etado 'ś* (P. 5-3-[3/5]) substituting* a*, the accent from the *l*-it; the long note on whether the print should read* eta/ita*],* yataḥ *[*yad* + *tasil*, P. 5-3-7; the suffix in the rank of a case-ending by P. 5-3-1;* yad *→* ya*, P. 6-1-[?]],* viṣṇuḥ *[*viṣ vyāptau*, Uṇ. 3-[?] *viśer kic ca*, *nu*; no guṇa since* kit; *ādyudātta* by* nit*],* vicakrame *[*su-pā* compound of *vi* with the verb by the sūtra *sup sup/ supā* … *sahasupā*, P. 2-1-4; accent as the compound's final;* yatas *causes the verb to remain accented—no* nighāta*],* sapta *[*bhis* → *luk* by P. 7-1-39 *supāṃ suluk*],* dhāmabhiḥ *[*ḍudhāñ dhāraṇapoṣaṇayoḥ* + *manin*, P. 3-2-75 *ātomanin-kvanip-vanipaś ca*; accent; loss of* n*, P. 8-2-7]; numerals as read, pointers only.)*
+> अतः । देवाः । अवन्तु । नः । यतः । विष्णुः । विऽचक्रमे ॥
+> पृथिव्याः । सप्त । धामऽभिः ॥१६॥
+>
+> *ataḥ | devāḥ | avantu | naḥ | yataḥ | viṣṇuḥ | vi 'cakrame ||*
+> *pṛthivyāḥ | sapta | dhāma 'bhiḥ ||16||*
 
-**॥ Prati-padārthaḥ ॥** **यतः (yataḥ)** — from which | **पृथिव्याः (pṛthivyāḥ)** — from the earth | **विष्णुः (viṣṇuḥ)** — Viṣṇu | **सप्तभिः (saptabhiḥ)** — with seven | **धामभिः (dhāmabhiḥ)** — with the metres Gāyatrī etc. | **विचक्रमे (vicakrame)** — strode out | **अतः (ataḥ)** — from that [region of] earth | **देवाः (devāḥ)** — the gods | **नः (naḥ)** — us | **अवन्तु (avantu)** — may protect.
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Bhāvārthaḥ ॥** From that region of the earth whence Viṣṇu, taking the form of Trivikrama, strode forth, aided by the seven metres Gāyatrī and the rest — may the gods protect us who live in that region.
+*(Numbers as printed: आ० ६-६, आ० ९-११, आ० १-११, आ० १-५, तै० सं० ५-२-१-१, पा० ५-३-७, पा० ५-३-५, पा० ५-३-१, उ० ३-३९.)*
+
+> प्रातःसवने सोमातिरेक एकं शस्त्रं शंसनीयं । अत्रातो देवा इत्याद्याः षडृचः । सोमातिरेक इति खण्डे सूत्रितं । महाँ इन्द्रो य ओजसातो देवा अवन्तु न इत्यैन्द्रीभिर्वैष्णवीभिश्च । आ० ६-६ । इति ॥ अप्तोर्यामेऽच्छावाकातिरिक्तोक्थेऽप्येताः षडृचः स्तोत्रियानुरूपार्थाः । तथा च यस्य पशव इति खण्डे सूत्रितं । अतो देवा अवन्तु न इति स्तोत्रियानुरूपौ । आ० ९-११ । इति ॥ दर्शपूर्णमासयोः प्रायश्चित्तहोमेऽप्याद्ये विनियुक्ते । तथैव वेदं पत्न्या इति खण्डे सूत्रितं । अतो देवा अवन्तु न इति द्वाभ्यां व्याहृतिभिश्च । आ० १-११ । इति ॥ याज्यानुवाक्ययोर्मध्ये लौकिकभाषणेऽतो देवा इत्येषा जप्या । सूत्रितं हि । आपद्यतो देवा अवन्तु न इति जपेत् । आ० १-५ । इति ॥
+>
+> *prātaḥsavane somātireka ekaṃ śastraṃ śaṃsanīyaṃ | atrāto devā ityādyāḥ ṣaḍṛcaḥ | somātireka iti khaṇḍe sūtritaṃ | mahām̐ indro ya ojasāto devā avantu na ityaindrībhirvaiṣṇavībhiśca | ā0 6-6 | iti || aptoryāme 'cchāvākātiriktokthe 'pyetāḥ ṣaḍṛcaḥ stotriyānurūpārthāḥ | tathā ca yasya paśava iti khaṇḍe sūtritaṃ | ato devā avantu na iti stotriyānurūpau | ā0 9-11 | iti || darśapūrṇamāsayoḥ prāyaścittahome 'pyādye viniyukte | tathaiva vedaṃ patnyā iti khaṇḍe sūtritaṃ | ato devā avantu na iti dvābhyāṃ vyāhṛtibhiśca | ā0 1-11 | iti || yājyānuvākyayormadhye laukikabhāṣaṇe 'to devā ityeṣā japyā | sūtritaṃ hi | āpadyato devā avantu na iti japet | ā0 1-5 | iti ||*
+
+### Page 118 — Rik 16: bhāṣya, word-meanings, overall sense, English, Special Topics
+
+**Translation (application):** "At the morning pressing, at the *somātireka*, one *śastra* is to be recited; here the six ṛks beginning *ato devāḥ*; it is laid down in the section *somātireka*: '*mahāṃ indro ya ojasā* and *ato devā avantu naḥ*, with the ṛks to Indra and to Viṣṇu' (Āśv. 6-6). In the *aptoryāma*, at the extra *uktha* of the *acchāvāka*, these six ṛks serve as *stotriya* and *anurūpa*; so it is laid down in the section *yasya paśavaḥ*: '*ato devā avantu naḥ*, the *stotriya* and *anurūpa*' (Āśv. 9-11). At the *darśapūrṇamāsa*, in the expiatory offering, the first two are used; likewise it is laid down in the section *vedaṃ patnyai*: 'with the two, *ato devā avantu naḥ*, and with the *vyāhṛtis*' (Āśv. 1-11). If there is worldly talk between the *yājyā* and the *anuvākyā*, this ṛk *ato devāḥ* is to be muttered; for it is laid down: 'in a mishap, he should mutter *ato devā avantu naḥ*' (Āśv. 1-5)."
+
+> विष्णुः परमेश्वरः सप्तधामभिः सप्तभिर्गायत्र्यादिभिश्छन्दोभिः साधनभूतैर्यतः पृथिव्या यस्माद्भूप्रदेशाद्विचक्रमे । विविधं पादक्रमणं कृतवान् अतोऽस्मात्पृथिवीप्रदेशान्नोऽस्मान्देवा अवन्तु । विष्णोः पृथिव्यादिलोकेषु छन्दोभिः साधनैर्जयं तैत्तिरीया आमनन्ति । विष्णुमुखा वै देवाश्छन्दोभिरिमाँल्लोकाननपजय्यमभ्यजयन् । तै० सं० ५-२-१-१ । इति । विष्णोस्त्रिविक्रमावतारे पादत्रयक्रमणस्य पृथिव्युपादानं । पृथिवीप्रदेशाद्रक्षणं नाम भूलोके वर्तमानानां पापनिवारणं ॥ अतः । एतच्छब्दात्पञ्चम्यास्तसिल् । पा० ५-३-७ । इति तसिल् । एतदोऽश् । पा० ५-३-५ । इत्यशादेशः । लित्स्वरेणाकार उदात्तः । यतः । तसिलः प्राग्दिशो विभक्तिः । पा० ५-३-१ । इति विभक्तिसंज्ञायां त्यदाद्यत्वं । लित्स्वरः । विष्णुः । विषेः किच्च । उ० ३-३९ । इति नुप्रत्ययः । कित्त्वान्न गुणः । निदित्यनुवृत्तेराद्युदात्तत्वं । विचक्रमे । सुबिति योगविभागाद्विशब्दस्य समासः । समासान्तोदात्तत्वं । यद्वृत्तयोगान्न निघातः । सप्त । सुपां सुलुगिति भिसो लुक् । धामभिः । दधातेरातो मनिन्निति मनिन् । नित्स्वरः ॥
+>
+> *viṣṇuḥ parameśvaraḥ saptadhāmabhiḥ saptabhirgāyatryādibhiśchandobhiḥ sādhanabhūtairyataḥ pṛthivyā yasmādbhūpradeśādvicakrame | vividhaṃ pādakramaṇaṃ kṛtavān ato 'smātpṛthivīpradeśānno 'smāndevā avantu | viṣṇoḥ pṛthivyādilokeṣu chandobhiḥ sādhanairjayaṃ taittirīyā āmananti | viṣṇumukhā vai devāśchandobhirimām̐llokānanapajayyamabhyajayan | tai0 saṃ0 5-2-1-1 | iti | viṣṇostrivikramāvatāre pādatrayakramaṇasya pṛthivyupādānaṃ | pṛthivīpradeśādrakṣaṇaṃ nāma bhūloke vartamānānāṃ pāpanivāraṇaṃ || ataḥ | etacchabdātpañcamyāstasil | pā0 5-3-7 | iti tasil | etado 'ś | pā0 5-3-5 | ityaśādeśaḥ | litsvareṇākāra udāttaḥ | yataḥ | tasilaḥ prāgdiśo vibhaktiḥ | pā0 5-3-1 | iti vibhaktisaṃjñāyāṃ tyadādyatvaṃ | litsvaraḥ | viṣṇuḥ | viṣeḥ kicca | u0 3-39 | iti nupratyayaḥ | kittvānna guṇaḥ | nidityanuvṛtterādyudāttatvaṃ | vicakrame | subiti yogavibhāgādviśabdasya samāsaḥ | samāsāntodāttatvaṃ | yadvṛttayogānna nighātaḥ | sapta | supāṃ sulugiti bhiso luk | dhāmabhiḥ | dadhāterāto maninniti manin | nitsvaraḥ ||*
+
+**Translation:** "*Yataḥ pṛthivyāḥ*, from which region of the earth Viṣṇu, the supreme Lord, *vicakrame*, made various steps, *saptadhāmabhiḥ*, with the seven metres Gāyatrī and the rest as means — *ataḥ*, from this region of the earth, may the gods *avantu*, protect, *naḥ*, us. The Taittirīyas record Viṣṇu's conquest of the worlds, the earth and the rest, by the metres as means: 'The gods with Viṣṇu at their head, by the metres, won these worlds so that they cannot be won back' (Tai. Saṃ. 5-2-1-1). In Viṣṇu's incarnation as Trivikrama, the earth is mentioned [as the starting point] of the stepping of three steps. 'Protection from the region of the earth' means the warding off of the sins of those who live in the world of earth." (Grammatical tail: *ataḥ*, *tasil* after the ablative of *etad* by *pañcamyās tasil* (Pā. 5-3-7), the substitute *aś* by *etado 'ś* (Pā. 5-3-5), the *a* udātta by the *lit* accent; *yataḥ*, the suffixes from *tasil* up to *diś* being named *vibhakti* by *prāg diśo vibhaktiḥ* (Pā. 5-3-1), the *a* of the *tyadādi* words; the *lit* accent; *viṣṇuḥ*, the suffix *nu* by *viṣeḥ kic ca* (U. 3-39), no *guṇa* as it is *kit*, initial udātta because *nit* is carried on; *vicakrame*, the compounding of *vi* by the division of the rule at *sup*, the compound-final udātta, no loss of accent because of connection with *yad*; *sapta*, the *bhis* dropped by *supāṃ suluk*; *dhāmabhiḥ*, *manin* by *dadhāter āto manin*, the *nit* accent.)
+
+**॥ Prati-padārthaḥ ॥**
+
+**यतः (yataḥ)** — from which | **पृथिव्याः (pṛthivyāḥ)** — from the earth | **विष्णुः (viṣṇuḥ)** — Viṣṇu | **सप्तभिः (saptabhiḥ)** — seven | **धामभिः (dhāmabhiḥ)** — together with the metres Gāyatrī and the rest | **विचक्रमे (vicakrame)** — set out | **अतः (ataḥ)** — from that earth | **देवाः (devāḥ)** — the gods | **नः (naḥ)** — us | **अवन्तु (avantu)** — may they protect.
+
+**॥ Bhāvārthaḥ ॥**
+
+When Viṣṇu, as Trivikrama, was taking his steps, from whatever region of the earth he set out, furnished with the metres Gāyatrī and the rest — may the gods protect us who are in that region of the earth.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > May the gods protect us from that portion of the earth whence Vishnu put his steps aided by seven meters.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 118–120)* **Applications.** This mantra is used in four ways. (i) In the *somātireka* [the 'extra' Soma] rite, which follows the Soma-pressing of the morning [*prātaḥsavana*, after the *somābhiṣava*], this rik is used as a *śastra* mantra; this is described in Āśvalāyana's Śrauta-sūtra, section *somātireka*, in the sūtra containing *mahāṃ indro ya ojasā* (Ṛ. Saṃ. 8-6-1) and *ato devā avantu naḥ* (Ṛ. Saṃ. 1-22-16) with [the Indra–Viṣṇu hymn] (Āś. [6-2] [?]). (ii) In the recitation of the *ukthya* mantras in the Soma sacrifice called *Āpryo[rmā] …* [name uncertain] where the *acchāvāka* priest officiates, the six riks beginning *ato devā* are to be used as *stotriya-anurūpa* mantras; so says the sūtra *yasya paśavaḥ … ato devā avantu na iti stotriyānurūpau* (Āś. [6-11]). (iii) In the expiatory *homa* of the Darśa-pūrṇamāsa sacrifices the first two riks of this hymn are used; stated in the sūtra *ato devā avantu na iti dvābhyāṃ vyāhṛtibhiś ca* in the section *vedaṃ patnyai* (Āś. [1-11]). (iv) If, between the reciting of the *yājyā* and *puro-'nuvākyā*, some worldly speech has been uttered, this rik is to be muttered as an expiatory mantra, says the sūtra *āpadyato devā avantu na iti japet* (Āś. [1-5]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**Viṣṇu.** In this rik Viṣṇu is mentioned for the first time. Viṣṇu's pre-eminence is great in the Purāṇas and in the later Vedic-auxiliary [*Vedāṅga*] books, but in the Ṛgveda there are only five hymns [*sūktas*] in praise of Viṣṇu. Yet in many places his name is mentioned together with other deities, chiefly with Indra. His chief prowess is described as the *three steps*, which are in heaven, *antarikṣa* and earth; the place called *parama-pada* is also counted as the highest. In the Ṛgveda Viṣṇu's connection with Indra is especially close; when Indra slays Vṛtra he seeks the help of Viṣṇu. In the Yajurveda Viṣṇu is described in many ways — as lord of sacrifice and of the mountains, as the form of sacrifice, as the leader (*Leader*) of all the gods. The commentator takes the word *viṣṇu* in this rik as Parameśvara, because Yāska says:
+The application of this mantra is of four kinds. In the rite of pressing soma called the morning pressing, at the time of reciting the mantras called *somātireka* —
 
-> विष्णुः । अथ यद्विषितो भवति तद्विष्णुर्भवति । विष्णुर्विशतेर्वा व्यश्नोतेर्वा ॥ (नि. [१२-१८] [?])
+### Page 119 — Rik 16: Special Topics (continued)
 
-*viṣṇuḥ | atha yad viṣito bhavati tad viṣṇur bhavati | viṣṇur viśater vā vyaśnoter vā ||* — "Viṣṇu: since he is spread out (*viṣita*) he is Viṣṇu; or Viṣṇu is from *viś* 'to enter' or from *vy-aś* 'to pervade'" (Nirukta [12-18] [?]) — because he pervades everything, or enters and pervades all things, or pervades all by rays; hence he may be called Viṣṇu, 'even the Āditya'. **विचक्रमे** — *vividhaṃ pādakramaṇaṃ kṛtavān*: he measured out the regions of the worlds, earth and the rest, by his strides in many ways. **सप्त धामभिः** — *dhāma* means place; the commentator takes *dhāma* as *chandas* ['seven metres, Gāyatrī and the rest']; if it is taken of the Āditya, 'seven rays' (or 'seven horses'). In the Taittirīya Saṃhitā: *viṣṇumukhā vai devāś chandobhir imāṃl lokān anapajayyam abhyajayan* (Tai. Saṃ. [3-2-1-1?] [?]) — the gods, with Viṣṇu in front, by the help of the metres conquered the worlds. In the Purāṇas, Viṣṇu in his Trivikrama [Vāmana] incarnation is said to have taken from the Daityas, in three strides, the earth and *antarikṣa* they had seized, and given them back to the gods; the author asks that it be noted that such Purāṇic *upākhyānas* have as their root the briefer descriptions found in the Veda.
+— this mantra is recited as a *śastra* mantra. This matter is explained in the section *somātireka* of the Āśvalāyana Śrautasūtra by the sūtra *mahāṃ indro ya ojasā* (Ṛ. Saṃ. 8-6-1) *ato devā avantu naḥ* (Ṛ. Saṃ. 1-22-16) *ity aindrībhir vaiṣṇavībhiś ca* (Ā. 6-6).
+
+In the soma sacrifice called *aptoryāma*, in the recitation of the *uktha* mantras by the priest called *acchāvāka*, the six ṛks beginning *ato devāḥ* are to be recited as the *stotriya* mantras. This matter is explained in the section *yasya paśavaḥ* of the Āśvalāyana Śrautasūtra by the sūtra *ato devā avantu na iti stotriyānurūpau* (Ā. 9-11).
+
+In the *darśapūrṇamāsa* sacrifices, at the time of the expiatory offering, the first two ṛks of this sūkta are used. This matter is stated in the section *vedaṃ patnyai* of the Āśvalāyana Śrautasūtra in the sūtra *ato devā avantu na iti dvābhyāṃ vyāhṛtibhiś ca* (Ā. 1-11).
+
+If, at the time of reciting the *yājyā* and *puronuvākyā* mantras, worldly talk is made between these two mantras for some other reason, this ṛk *ato devāḥ* is to be muttered as an expiatory mantra: so it is stated in the sūtra *āpady ato devā avantu na iti japet* of the Āśvalāyana Śrautasūtra (Ā. 1-5).
+
+In this ṛk the subject of Viṣṇu is mentioned for the first time. Though Viṣṇu's pre-eminence is great in the Purāṇas and in the modern Vedānta works, in the Ṛgveda there are only five sūktas devoted to Viṣṇu. Besides, in many places Viṣṇu's name is indicated here and there along with other deities, chiefly with Indra. Viṣṇu's chief feat is said to be the placing of three steps. These three steps are in heaven, mid-air and earth. Besides, Viṣṇu's place called the highest step is reckoned the most excellent position.
+
+In the Ṛgveda Viṣṇu's connection with Indra is seen to be closer than with other deities. Indra seeks Viṣṇu's help when slaying the demon Vṛtra. In the Yajurveda the subject of Viṣṇu is described in many ways. There are many mantras describing Viṣṇu as lord of the sacrifice and of the mountains, as the very form of sacrifice, and as leader of all the gods ("Leader"). The commentator has explained the word *viṣṇu* in this ṛk as *parameśvara* because, as Yāska says —
+
+> विष्णुः अथ यद्विषितो भवति तद्विष्णुर्भवति । विष्णुर्विशतेर्वा व्यश्नोतेर्वा ।
+>
+> *viṣṇuḥ atha yadviṣito bhavati tadviṣṇurbhavati | viṣṇurviśatervā vyaśnotervā |*
+
+— he is named Viṣṇu because he pervades everything, or because he enters and pervades everything, or because he pervades everything with his rays; so Viṣṇu may also be said to mean the sun: so the word *viṣṇu* has been explained. The explanation of the word *viṣṇu* is in the next ṛk too.
+
+### Page 120 — Rik 16: Special Topics (end), grammar
+
+**विचक्रमे (vicakrame)** — *vividhaṃ pādakramaṇaṃ kṛtavān*: he stepped over the region of the worlds, the earth and the rest, with his feet in various ways, that is, in many manners.
+
+**सप्त धामभिः (sapta dhāmabhiḥ)** — *dhāma* means a place. Here the commentator has said that the word *dhāma* means metres; *sapta dhāmabhiḥ* means the seven metres Gāyatrī and the rest; or, if the meaning is taken as referring to the sun, it may be said to mean the seven rays (or the seven horses). In the Taittirīya Saṃhitā —
+
+> विष्णुमुखा वै देवाश्छन्दोभिरिमाँल्लोकाननपजय्यमभ्यजयन् ॥ (तै० सं० ५-२-१-१)
+>
+> *viṣṇumukhā vai devāśchandobhirimām̐llokānanapajayyamabhyajayan || (tai0 saṃ0 5-2-1-1)*
+
+— it is said that the gods, with Viṣṇu as their leader, won the worlds with the help of the metres. In the Purāṇas and the like there are extended descriptions of the legend that Viṣṇu, taking the Trivikrama incarnation, by the stepping of three steps gave back to the gods the earth, sky and mid-air that the demons had taken from them. It should be noted that the subtle description seen in the Veda is the source of the legends in the Purāṇas.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**अतः (ataḥ)** — by *pañcamyās tasil* (Pā. Sū. 5-3-7) — after the word *kim*, the pronouns other than *dvi* and the rest, and the word *bahu*, when they end in the fifth case, the suffix *tasil* comes optionally — the suffix *tasil* after the word *etad* ending in the fifth case: *etad* + *ṅasi* + *tas*. Now they make the sūtra *etado 'n* (Pā. Sū. 5-3-5) into two sūtras, *etadaḥ* and *an*. The first, *etadaḥ*, means that when the *prāgdiśīya* suffixes beginning with *r* and *th* follow, the substitutes *eta* and *it* come in order for the word *etad*; examples *etarhi*, *ittham*. *An* is the second sūtra. Here the word *rathoḥ* is not carried on from the previous sūtra. So the meaning is that when a *prāgdiśīya* suffix follows, the substitute *an* comes for the word *etad*. In the present case, when the substitute *an* comes by the second sūtra, since it has more than one letter, by *anekālśit sarvasya* it comes in place of the whole: *an* + *tas*; though the fifth case, a part of a stem ending in a *taddhita*, is dropped (*luk*) by *supo dhātuprātipadikayoḥ* (Pā. Sū. 2-4-71), the name *pada* comes because by *pratyayalope pratyayalakṣaṇam* (Pā. Sū. 1-1-62) the mark of the suffix remains. Since the name *pada* is not connected with the stem (*aṅga*), the prohibition of the suffix-mark by *na lumatāṅgasya* (Pā. Sū. 1-1-63) does not come. Thus by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-2-7) the *n* of *an* is dropped; with *ru* and *visarga* for the *s* it becomes *ataḥ*. In the Mahābhāṣya the reading *an* ending in *n* is discussed. The author of the *Kaiyaṭa*, saying *iha kecid aśaṃ paṭhanti kecid anam | tatrottarapāṭhāpekṣayā*
+
+### Page 121 — Rik 16: grammar (continued)
+
+*vicāraḥ*, holds that the sūtra is read in two ways, *etado 'ś* and *etado 'n*. The author of the *vṛtti* has adopted the reading *etado 'ś*. Following his view, in the Veda commentary too the reading *etado 'ś* is accepted. On this view, as before, the division of the rule must be made and the meaning described. *Aś*, being *śit*, comes as a substitute for the whole; so it becomes *ataḥ*: only this much is the difference. The suffix is *lit*; so by *liti* (Pā. Sū. 6-1-93, as printed) the *a* before the suffix is udātta.
+
+> इह केचिदशं पठन्ति केचिदनम् । तत्रोत्तरपाठापेक्षया विचारः ।
+>
+> *iha kecidaśaṃ paṭhanti kecidanam | tatrottarapāṭhāpekṣayā vicāraḥ |*
+
+**यतः (yataḥ)** — *yasmāt yataḥ*: after the word *yad* ending in the fifth case, by *pañcamyās tasil*, *tasil*, and the fifth case is dropped. For this *tasil*, the suffixes laid down from the sūtra *prāg diśo vibhaktiḥ* (Pā. Sū. 5-3-1) up to the sūtra *dikśabdebhyaḥ saptamīpañcamīprathamābhyo digdeśakāleṣv astātiḥ* (Pā. Sū. 5-3-27) get the name *vibhakti*; so it has the name *vibhakti*. Therefore by *tyadādīnām aḥ* (Pā. Sū. 7-2-102) — when a *vibhakti* follows, *a* is substituted for the final letter of the words of the *tyadādi* class — *a* for the *d* of the word *yad*; by *ato guṇe* (Pā. Sū. 6-1-97) the following form. As before, the *lit* accent comes.
+
+**विष्णुः (viṣṇuḥ)** — by *viṣeḥ kic ca* (U. Sū. 3-39), the sense of the sūtra is that after the root *viṣḷ vyāptau* the suffix *ṇu* comes, and it is both *kit* and *nit*. The *ṇuḥ* carried on from *snoḥ ṇuḥ* (U. Sū. 3-32 [?]); for *nuḥ* there is no occasion here. *Viṣ* + *ṇu*: since the suffix is *kit*, there is the prohibition *kṅiti ca*, so *guṇa* of the light penultimate does not come. Since the suffix is *nit*, *viṣṇu* is initially udātta by the *nit* accent.
+
+**विचक्रमे (vicakrame)** — in *saha supā* (Pā. Sū. 2-1-4) they make the division of the sūtra into *saha* and *supā*. From *subāmantrite*, *sup* is carried on. From *samarthaḥ padavidhiḥ* (Pā. Sū. 3-1-1, as printed) *samarthaḥ* is obtained; it must be changed into one ending in the third case. Thus the sense of the first sūtra is that a word ending in *sup* is compounded with a connected word; since it is said *iṣṭasiddhyarthaṃ yogavibhāgaḥ*, to establish the form, by this sūtra a word ending in *sup* is compounded with a last member ending in *tiṅ*; but it results that this compound comes only in the Veda. By this sūtra the present word *vi*, ending in *sup*, is compounded with the word *cakrame* ending in *tiṅ*; so by *samāsasya* (Pā. Sū. 6-1-223) the final udātta accent comes here. Since there is connection with *yad* in *yataḥ*, by *yadvṛttān nityam* (Pā. Sū. 8-1-66) — a word ending in *tiṅ* after a word in which there is the word *yad* is not unaccented —
+
+### Page 122 (upper) — Rik 16: grammar (end)
+
+— by this prohibition, the total lack of accent by *tiṅṅatiṅaḥ* does not come. The meaning of the second sūtra *supā* is that a word ending in *sup* is compounded with a connected word ending in *sup*. It is not needed in the present case.
+
+**सप्त (sapta)** — for the instrumental plural suffix *bhis* coming after this word, *luk* by *supāṃ suluk* (Pā. Sū. 7-1-39).
+
+**धामभिः (dhāmabhiḥ)** — the root *(ḍu)dhāñ dhāraṇapoṣaṇayoḥ*. It ends in *ā*. By *āto manin kvanib vanipaś ca* (Pā. Sū. 3-2-74) — when a word ending in *sup* or a prefix is *upapada*, after a root ending in *ā* the three suffixes *manin*, *kvanip*, *vanip*, and by the word *ca* the suffix *vic* too, come — the suffix *manin* comes. *Dhā* + *man*: by the *nit* accent this is initially udātta. When the instrumental plural suffix *bhis* is put, the *n* is dropped by *nalopaḥ prātipadikāntasya*: it becomes *dhāmabhiḥ*. ॥16॥
 
 ---
 
