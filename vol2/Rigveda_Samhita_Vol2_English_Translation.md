@@ -15805,15 +15805,19 @@ the svarita in places such as *ukthya*, *sūrmya* must be justified as Vedic. In
 
 ---
 
-### Pages 732–735 — Sūkta 17, Rik 6
+### Page 732 (lower) — Sūkta 17, Rik 6
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तयोरिदवसा वयं सनेम नि च धीमहि ।
-> स्यादुत प्ररेचनम् ॥६॥
+> तयो॒रिदव॑सा व॒यं स॒नेम॒ नि च॑ धीमहि । [accent ?]
+> स्यादु॒त प्र॒रे॑चनम् ॥६॥ [accent ?]
 >
-> *tayor id avasā vayaṃ sanema ni ca dhīmahi |*
-> *syād uta prarecanam ||6||*
+> *tayor íd ávasā vayáṃ sanéma ní ca dhīmahi |* [accent ?]
+> *syād utá prarécanam ||6||* [accent ?]
+
+*(Read as printed: bars under यो, व (वयं), स and म (सनेम) and प्र; strokes over व (अवसा), च and रे. The bar under यो and the absence of marks on धीमहि are as printed.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -15821,39 +15825,71 @@ the svarita in places such as *ukthya*, *sūrmya* must be justified as Vedic. In
 > स्यात् । उत । प्रऽरेचनम् ॥६॥
 >
 > *tayoḥ | it | avasā | vayam | sanema | ni | ca | dhīmahi ||*
-> *syāt | uta | pra-recanam ||6||*
+> *syāt | uta | pra 'recanam ||6||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 732 lower half; compressed; [?] marks doubtful readings)*
-
-> तयोरित्पूर्वोक्तयोरिन्द्रावरुणयोरेवावसा रक्षणेन वयमनुष्ठातारः सनेम । संभजेमहि धनमिति शेषः । नि धीमहि च । प्राप्ते धने यावदपेक्षितं तावद्भुक्त्वा ततोऽवशिष्टं धनं [?] निधिरूपेण स्थापयेमानुष्ठातारः । उतापि च प्ररेचनं भुक्तान्निहिताच्च प्रकर्षेणाधिकं धनं स्यात् । ससद्येताम् [?] ॥ अवसा । असुन् । नित्त्वादाद्युदात्तः । वयम् । यूयं हि ष्ठेत्यृ. सं. [१-१५-२ ?] इत्यत्र यदुक्तं तदत्र द्रष्टव्यम् । सनेम । आशिषि लिङ् । तस्य मस् । नित्यं ङितः । इत्यनेन सलोपः । यासुट् । लिङः सलोपोऽनन्त्यस्य । पा. [७-२-७९] । … सनेमेति पादादित्वान्निघाताभावः । धीमहि । दुधाञ् धारणपोषणयोः । आशिषि लिङः । … महिङ् । … सीयुट् । … लिङः सलोपोऽनन्त्यस्य । … ईडागमः । … आतो लोप इटि च । पा. [६-४-६४] । इत्याकारलोपः । … निघातः । स्यात् । अस भुवि । विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् । पा. [३-३-१६१] । … यासुट् … । आदिप्रभृतिभ्यः शपः इति शपो लुक् । श्नसोरल्लोपः । … निघातः । उत । निपातः [?] । प्ररेचनम् । रिचिर् विरेचने । … भावे ल्युट् । … प्रादिसमासः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥६॥
+> तयोरित्थंविधयोरिन्द्रावरुणयोरेवावसा रक्षणेन वयमनुष्ठातारः सनेम । संभजेम धनमिति शेषः । नि धीमहि च । प्राप्ते धने यावदपेक्षितं तावद्भुक्त्वा ततोऽवशिष्टं धनं क्वचिन्निधिरूपेण स्थापयामश्च । उतापि च प्ररेचनं भुक्तान्निहिताच्च प्रकर्षेणाधिकं धनं स्यात् । संपद्यताम् ॥ अवसा । असुन् । नित्त्वादाद्युदात्तः । वयम् । यूयं हि ष्ठा । ऋग्वे. १-१५-२ । इत्यत्र यदुक्तं तदत्र द्रष्टव्यम् । सनेम । आशिषि लिङ् । तस्य मस् । नित्यं ङित इति सकारलोपः । किदाशिषि । पा. ३-४-१०४ । इति यासुट् । छन्दस्युभयथेति सार्वधातुकमप्यस्तीति लिङः सलोपोऽनन्त्यस्येति सकारलोपः । अतो येय इतीयादेशः । लोपो व्योर्वलीति यलोपः । लिङ्याशिष्यङ् । पा. ३-१-८६ । इत्यङ् । आद्गुणः । पादादित्वान्न निघातः । धीमहि । डुधाञ् धारणपोषणयोः । आशिषि लिङो महिङ् । तस्य छन्दस्युभयथेति सार्वधातुकार्धधातुकसंज्ञे । तत्र सार्वधातुकत्वेन लिङः सलोपोऽनन्त्यस्येति सकारलोपः । सार्वधातुकमपिदिति ङित्वं शप् च । बहुलं छन्दसीति जुहोत्यादेरपि शपो लुक् । आर्धधातुकत्वादातो लोप इटि च । पा. ६-४-६४ ।
 >
-> *tayor it pūrvoktayor indrāvaruṇayor evāvasā rakṣaṇena vayam anuṣṭhātāraḥ sanema | saṃbhajemahi dhanam iti śeṣaḥ | ni dhīmahi ca | prāpte dhane yāvad apekṣitaṃ tāvad bhuktvā tato 'vaśiṣṭaṃ dhanaṃ [?] nidhi-rūpeṇa sthāpayem' ānuṣṭhātāraḥ | utāpi ca prarecanaṃ bhuktān nihitāc ca prakarṣeṇādhikaṃ dhanaṃ syāt | sasadyetām [?] || avasā | asun | nittvād ādyudāttaḥ | vayam | yūyaṃ hi ṣṭhety ṛ. saṃ. [1-15-2 ?] ity atra yad uktaṃ tad atra draṣṭavyam | sanema | āśiṣi liṅ | tasya mas | nityaṃ ṅitaḥ | ity anena salopaḥ | yāsuṭ | liṅaḥ salopo 'nantyasya | pā. [7-2-79] | … sanemeti pādāditvān nighātābhāvaḥ | dhīmahi | dudhāñ dhāraṇa-poṣaṇayoḥ | āśiṣi liṅaḥ | … mahiṅ | … sīyuṭ | … liṅaḥ salopo 'nantyasya | … īḍāgamaḥ | … āto lopa iṭi ca | pā. [6-4-64] | ity ākāralopaḥ | … nighātaḥ | syāt | asa bhuvi | vidhi-nimantraṇāmantraṇādhīṣṭa-saṃpraśna-prārthaneṣu liṅ | pā. [3-3-161] | … yāsuṭ … | ādiprabhṛtibhyaḥ śapaḥ iti śapo luk | śnasor allopaḥ | … nighātaḥ | uta | nipātaḥ [?] | prarecanam | ricir virecane | … bhāve lyuṭ | … prādi-samāsaḥ | kṛd-uttarapada-prakṛti-svaratvam ||6||*
+> *tayoritthaṃvidhayorindrāvaruṇayorevāvasā rakṣaṇena vayamanuṣṭhātāraḥ sanema | saṃbhajema dhanamiti śeṣaḥ | ni dhīmahi ca | prāpte dhane yāvadapekṣitaṃ tāvadbhuktvā tato 'vaśiṣṭaṃ dhanaṃ kvacinnidhirūpeṇa sthāpayāmaśca | utāpi ca prarecanaṃ bhuktānnihitācca prakarṣeṇādhikaṃ dhanaṃ syāt | saṃpadyatām || avasā | asun | nittvādādyudāttaḥ | vayam | yūyaṃ hi ṣṭhā | ṛgve. 1-15-2 | ityatra yaduktaṃ tadatra draṣṭavyam | sanema | āśiṣi liṅ | tasya mas | nityaṃ ṅita iti sakāralopaḥ | kidāśiṣi | pā. 3-4-104 | iti yāsuṭ | chandasyubhayatheti sārvadhātukamapyastīti liṅaḥ salopo 'nantyasyeti sakāralopaḥ | ato yeya itīyādeśaḥ | lopo vyorvalīti yalopaḥ | liṅyāśiṣyaṅ | pā. 3-1-86 | ityaṅ | ādguṇaḥ | pādāditvānna nighātaḥ | dhīmahi | ḍudhāñ dhāraṇapoṣaṇayoḥ | āśiṣi liṅo mahiṅ | tasya chandasyubhayatheti sārvadhātukārdhadhātukasaṃjñe | tatra sārvadhātukatvena liṅaḥ salopo 'nantyasyeti sakāralopaḥ | sārvadhātukamapiditi ṅitvaṃ śap ca | bahulaṃ chandasīti juhotyāderapi śapo luk | ārdhadhātukatvādāto lopa iṭi ca | pā. 6-4-64 |*
 
-**Translation:** "Through the protection of those same (*it*) two, Indra and Varuṇa, we who perform the rite may *sanema* — may we obtain (*saṃbhajemahi*) wealth (the word 'wealth' being supplied) — and *ni dhīmahi* — when the wealth has come, having enjoyed as much as is needed, let us lay up the remaining wealth as a treasure [the clause is partly unclear, marked [?]]. *Uta* — and further — may there be *prarecana*, an excess: wealth in excess, above what is eaten and what is laid by." The rest is grammar, noted briefly: *avasā* (*asun*, first-syllable accent); *vayam* (as explained at Rik 1.15.2 [*yūyaṃ hi ṣṭhā*, i.e. 1.15.2]); *sanema* (*san* "to obtain", *āśīrliṅ*, *mas*; *s* dropped by P. 3-4-99 *nityaṃ ṅitaḥ* and by P. 7-2-79 *liṅaḥ salopo 'nantyasya*; *yāsuṭ*; unaccented, but not made so because it begins the *pāda*); *dhīmahi* (*dhā* "to hold, to nourish", *āśīrliṅ*, *mahiṅ*, *sīyuṭ*, the *s* dropped, the *ā* dropped by P. 6-4-64 *āto lopa iṭi ca*); *syāt* (*as*, *liṅ* in the sense of command, wish and so on by P. 3-3-161, *yāsuṭ*, *śap* dropped, *śnasor allopaḥ*); *uta* (a particle); *prarecanam* (*ric* "to empty", *lyuṭ* in the sense of the action; a *prādi* compound; the accent of the final member). *(Grammar, noted briefly; P. 7-2-79, 6-4-64 and 3-3-161 as read agree with the standard numbering.)*
+### Page 733 — Rik 6: bhāṣya (end), word-meanings, overall sense, English, Special Topics, grammar
 
-**Grammar pages (pp. 733 lower half–735 upper), noted briefly.** The Kannada treats: *avasā* (*sarvadhātubhyo 'sun*, Uṇ. 4-[?]; *av* + *asun*; first-syllable accent through the *n*; the instrumental singular *ṭā*), *vayam* (the process for *yūyam* at Rik 1.15.2 applies also to *vayam*; the stem of *yūyam* is *yuṣmad*, of *vayam* it is *asmad*; the difference is only in the *isṭa*, the intended form), *sanema* (*vana ṣaṇa sambhaktau*; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *āśīrliṅ* [P. 3-4-116 *liṅ āśiṣi*]; *mas* → *s* dropped by *nityaṃ ṅitaḥ* P. 3-4-99; *yāsuṭ* by P. 3-4-103 *yāsuṭ parasmaipadeṣūdātto ṅicca*; the *ṭ* mark makes it the first part of the suffix, so *ādyantau ṭakitau* P. 1-1-46; the *s* dropped by P. 7-2-79 *liṅaḥ salopo 'nantyasya*; *san* + *yā* + *s* + *mu* [*sanema* — *mas* → *sma*, with *s* dropped...]; the Vedic [*chandasy ubhayathā*] P. 3-4-117 makes the *liṅ* *sārvadhātuka* as well as *ārdhadhātuka*; *liṅy āśiṣy aṅ* P. 3-1-86 [as printed 3-1-86] gives *aṅ* after an *āśīrliṅ* — here, *san* + *a* + *yā* + *mu*; *e yeyaḥ* P. 7-2-80 gives *iy* for *yā*; *lopo vyor vali* P. 6-1-66 drops the *y*; *ad guṇaḥ* P. 6-1-87 → *sanema*; begins the *pāda*, so not made unaccented; the *e* is a single substituted vowel, hence *udātta*), *dhīmahi* (*ḍudhāñ*; *āśīrliṅ*; *liṅaḥ sīyuṭ* P. 3-4-102; *sārvadhātuka* by P. 3-4-117; *liṅaḥ salopo 'nantyasya*; *sārvadhātukam apit* P. 1-2-4 makes the *liṅ* *ṅit*; *kartari śap* P. 3-1-68, which is dropped by *bahulaṃ chandasi* P. 2-4-73 — or *juhotyādibhyaḥ śluḥ* P. 2-4-75; *dhā* + *īy* + *mahi*; *āto lopa iṭi ca* P. 6-4-64 drops the *ā*; *lopo vyor vali* drops the *y* → *dhīmahi*; the Kannada adds that since the suffix is itself *ñit*-natured by P. 1-2-4, the *ñit*-ness acquired by extension [*ātideśika*] serves no purpose, so the Kannada says the *ñit*-ness is stated only to show that the *sārvadhātuka* status also has a use; *ni ca dhīmahi* has a *ca*, but since the verb *sanema* before it is already in the sentence, *dhīmahi* is the second verb, so by P. 8-1-59 [?] *cavāyoge prathamā* the bar on the loss of accent is not applied, and *dhīmahi* is made wholly unaccented by P. 8-1-28), *syāt* (*as bhuvi*; *liṅ* by P. 3-3-161 *vidhi-nimantraṇāmantraṇādhīṣṭa-saṃpraśna-prārthaneṣu liṅ*, here in the sense of prayer; *yāsuṭ* by P. 3-4-103, which being *ñit* [P. 1-2-4]…; *as* + *śap* + *yāsuṭ* + *t*; *śap* dropped by P. 2-4-72; *śnasor allopaḥ* P. 6-4-111 drops the *a* of *as*; *liṅaḥ salopo 'nantyasya* drops the *s* of *yāsuṭ*; so *syāt*; it begins the *pāda*, so not unaccented), *uta* (end-accented as in the *evādi* list of Phiṭ 4-[?] *evādīnām antaḥ*), and *prarecanam* (*ricir virecane*; *iditaḥ* hmm — the Kannada's *irit*: the root *ricir* has the marker *ir* and so gets *iritaḥ*; *irito vā* P. 3-1-57 [?] giving *aṅ* optionally — here not applicable; *lyuṭ ca* P. 3-3-115 in the neuter in the abstract sense; *yu* → *ana* by P. 7-1-1; *pugantalaghūpadhasya ca* P. 7-3-86 gives guṇa: *recana*; the accent: *lyuṭ* is *lit*-suffix so, by P. 6-1-193 *liti*, the syllable before the suffix is accented; with the prefix *pra* the compound is *kugatiprādayaḥ* P. 2-2-18 and accent of the final member by P. 6-2-139 *gatikārakopapadāt kṛt*). ॥6॥ *(A crowded run; outline only; numerals as read from small print; pointers only.)*
+> इत्याकारलोपः । निघातः । सनेमेत्यपेक्षया द्वितीयत्वादत्र चवायोगे प्रथमेति न निषेधः । स्यात् । अस्तेः । प्रार्थनायां लिङ् । तिप् । इतश्चेतीकारलोपः । यासुट् परस्मैपदेषूदात्तो ङिच्चेति यासुड्ङित्त्वे । अदिप्रभृतिभ्यः शप इति शपो लुक् । श्नसोरल्लोप इत्यकारलोपः । पादादित्वादनिघातः । उत । एवमादीनामन्त इत्यन्तोदात्तः । प्ररेचनम् । रिचिर् विरेचने । भावे ल्युट् । योरनादेशः । लितीति प्रत्ययात्पूर्वस्योदात्तत्वम् । प्रादिसमासः । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+>
+> *ityākāralopaḥ | nighātaḥ | sanemetyapekṣayā dvitīyatvādatra cavāyoge prathameti na niṣedhaḥ | syāt | asteḥ | prārthanāyāṃ liṅ | tip | itaścetīkāralopaḥ | yāsuṭ parasmaipadeṣūdātto ṅicceti yāsuḍṅittve | adiprabhṛtibhyaḥ śapa iti śapo luk | śnasorallopa ityakāralopaḥ | pādāditvādanighātaḥ | uta | evamādīnāmanta ityantodāttaḥ | prarecanam | ricir virecane | bhāve lyuṭ | yoranādeśaḥ | litīti pratyayātpūrvasyodāttatvam | prādisamāsaḥ | kṛduttarapadaprakṛtisvaratvam ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 733)*
+**Translation:** "By the *avas*, protection, of those very two, Indra and Varuṇa, such as they are, may we, the performers, *sanema*, obtain (wealth, is understood); and *ni dhīmahi*, store it: of the wealth obtained, having enjoyed as much as is wanted, we put the rest away somewhere as a treasure. *Uta*, and also, may there be *prarecanam*, wealth exceeding by far what was enjoyed and stored: may it come about." (Grammatical tail: *avasā*, *asun*, initial udātta as *nit*; *vayam*, as said at *yūyaṃ hi ṣṭhā* (Ṛgveda 1-15-2); *sanema*, *āśīr-liṅ*, *mas*, the *s* lost by *nityaṃ ṅitaḥ*, *yāsuṭ* by *kid āśiṣi* (Pā. 3-4-104), and, since by *chandasy ubhayathā* it is also *sārvadhātuka*, the *s* lost by *liṅaḥ salopo 'nantyasya*, *iy* by *ato yeyaḥ*, *y* lost by *lopo vyor vali*, *aṅ* by Pā. 3-1-86, *guṇa*, not lowered at the start of the *pāda*; *dhīmahi*, *ḍudhāñ*, *mahiṅ* for *āśīr-liṅ*, both names by *chandasy ubhayathā*, the *s* lost as *sārvadhātuka*, *ṅit* by *sārvadhātukam apit*, and *śap*, dropped by *bahulaṃ chandasi* as for the *juhoty-ādi*, the *ā* lost as *ārdhadhātuka* by Pā. 6-4-64, wholly unaccented: being second relative to *sanema*, the bar *cavāyoge prathamā* does not apply; *syāt*, *liṅ* of prayer after *as*, *tip*, the *i* lost by *itaś ca*, *yāsuṭ* udātta and *ṅit*, *śap* dropped, the *a* lost by *śnasor allopaḥ*, not lowered at the start of the *pāda*; *uta*, final udātta by *evam-ādīnām antaḥ*; *prarecanam*, *ricir virecane*, *lyuṭ* of the action, *ana* for *yu*, udātta before the suffix by *liti*, a *prādi* compound, the accent of the *kṛt* final member.)
 
-**तयोः (tayoḥ)** — O Indra and Varuṇa [of those two] | **अवसा इत् (avasā it)** — by protection alone | **वयम् (vayam)** — we [the sacrificers] | **सनेम (sanema)** — may we obtain [wealth] | **नि धीमहि च (ni dhīmahi ca)** — and may we lay it by, storing it up | **उत (uta)** — and | **प्ररेचनम् (prarecanam)** — [more] than that we have enjoyed and than that we have stored | **स्यात् (syāt)** — may there be more [wealth].
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥**
+**तयोः (tayoḥ)** — of those Indra and Varuṇa | **अवसा इत् (avasā it)** — by protection alone | **वयम् (vayam)** — we (the performers) | **सनेम (sanema)** — may we gather (wealth) | **नि धीमहि च (ni dhīmahi ca)** — and may we store it and lay it by | **उत (uta)** — and | (**that wealth**) **प्ररेचनम् (prarecanam)** — more (than what we enjoyed and stored) | **स्यात् (syāt)** — may it be.
 
-By the grace of Indra and Varuṇa we obtain boundless wealth, enjoy it as we wish, and store up what remains. Again, may the wealth grow ever greater than what we have enjoyed and what we have stored.
+**॥ Bhāvārthaḥ ॥** *(the heading is misprinted ॥ ಪದಪಾಠಃ ॥ [sic])*
+
+By the grace of Indra and Varuṇa may we gather boundless wealth, enjoy it as we wish and store what remains; and however much we enjoy, may that wealth keep growing.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Through their protection we enjoy riches and heap them up; still may we have even a surplus.
+> Through their protection we enjoy riches and heap them up ; still may we have even a surplus.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 733)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**नि धीमहि (ni dhīmahi)** — *śekhari* — [the Kannada word *śekhari*, 'to lay up, to hoard']; "heap up; lay by".
+**Ni dhīmahi**: let us store it, let us heap it up, "lay by".
 
-**उत (uta)** — it is not [here a particle of the sense] "also"; or one may take whichever sense is wanted, such as "and".
+**Uta**: "not only that", or "and": either sense may be taken.
 
-**प्ररेचनम् (prarecanam)** — *bhuktān nihitāc ca prakarṣeṇādhikaṃ dhanam*: wealth that is far greater than what we have used and what we have stored. The sense is that the wealth given by Indra and Varuṇa should increase abundantly through their favour, beyond what we have enjoyed and heaped up.
+**Prarecanam**:
+
+> भुक्तान्निहिताच्च प्रकर्षेणाधिकं धनम् ।
+>
+> *bhuktānnihitācca prakarṣeṇādhikaṃ dhanam |*
+
+("Wealth exceeding by far what was enjoyed and stored.") Wealth more than what we enjoyed as we wished and heaped up: that is, the intent is that the wealth Indra and Varuṇa give should grow greater by their favour.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 733–735, noted briefly)*
+
+**अवसा (*avasā*)**: by "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]) the suffix *asun* after the root *av*; initial udātta by the *nit* accent; it ends in the instrumental singular.
+
+### Page 734 — Rik 6: grammar
+
+**वयम् (*vayam*)**: the derivation stated for *yūyam* in the mantra "yūyaṃ hi ṣṭhā" (Ṛ. saṃ. 1-15-2) is to be stated for *vayam* too. In *yūyam* the base is *yuṣmad*; in *vayam* the base is *asmad*: only that is the difference.
+
+**सनेम (*sanema*)**: the root *vana ṣaṇa saṃbhaktau*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*. After it *āśīr-liṅ*, 1st plural *mas*: *san* + *mas*; by "nityaṃ ṅitaḥ" (Pā. sū. 3-4-99) the *s* of *mas* drops. By "yāsuṭ parasmaipadeṣūdātto ṅic ca" (Pā. sū. 3-4-103) the augment *yāsuṭ*; being *ṭit*, it comes as the first part by *ādyantau ṭakitau*. By "kid āśiṣi" (Pā. sū. 3-4-104) it becomes *kit*; it was said before that this is not the rule enjoining the augment *yāsuṭ*. *San* + *yās* + *ma*: by "chandasy ubhayathā" (Pā. sū. 3-4-117) *yāsma* has both names, *sārvadhātuka* and *ārdhadhātuka*. So, putting the *sārvadhātuka* name first, the *s* drops; by "liṅy āśiṣy aṅ" (Pā. sū. 3-1-86), when a *liṅ* of blessing follows, *aṅ* comes after the root: *san* + *a* + *yā* + *ma*. By "ato yeyaḥ" (Pā. sū. 7-2-80) *iy* for *yā*: *sana* + *iy* + *ma*; by "lopo vyor vali" (Pā. sū. 6-1-66) the *y* drops; by "ād guṇaḥ" (Pā. sū. 6-1-87) *guṇa*: *sanema*. Since it stands at the start of the *pāda*, it is not made unaccented by *tiṅṅatiṅaḥ*; the single substitute *e* stays udātta.
+
+**धीमहि (*dhīmahi*)**: the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*. *Liṅ* in the sense of blessing; by *liṅaḥ sīyuṭ* the augment *sīyuṭ*; 1st plural *mahiṅ*; by *chandasy ubhayathā* it has the *sārvadhātuka* name too. Since it has the *sārvadhātuka* name, by *liṅaḥ salopo 'nantyasya* the *s* of *sīyuṭ* drops, and by "sārvadhātukam apit" (Pā. sū. 1-2-4) it is *ṅit*. *Śap* comes by *kartari śap*; but by "bahulaṃ chandasi" (Pā. sū. 2-4-73) the root *dhāñ*, being of the *juhoty-ādi* class, takes *luk*. Or it may be said that, taking the *ārdhadhātuka* name when *śap* is to be made, *śap* does not come. *Dhā* + *īy* + *mahi*: having the *ārdhadhātuka* name, by "āto lopa iṭi ca" (Pā. sū. 6-4-64) the *ā* drops; by *lopo vyor vali* the *y* drops: *dhīmahi*. Here, since the suffix is *ṅit* of itself, the extended *ṅit*-ness by *sārvadhātukam apit* has no result; the *ṅit*-ness is set out with the intent that this too is a result of the *sārvadhātuka* name. In *ni ca dhīmahi* the word *ca* is used; but since the *tiṅanta* *sanema* comes first, *dhīmahi* is the second relative to it. So by "cavāyoge prathamā" (Pā. sū. 8-1-59) the bar to unaccentedness does not come; by *tiṅṅatiṅaḥ* it is wholly unaccented.
+
+### Page 735 (upper) — Rik 6: grammar (end)
+
+**स्यात् (*syāt*)**: *asa bhuvi*. By "vidhinimantraṇāmantraṇādhīṣṭasaṃpraśnaprārthaneṣu liṅ" (Pā. sū. 3-3-161) *liṅ* in the sense of prayer; *tip*. By "itaś ca" (Pā. sū. 3-4-100) the augment *yāsuṭ* [as printed; *itaś ca* drops the *i*, and *yāsuṭ* comes by Pā. 3-4-103]; by this it is also *ṅit*. *As* + *yās* + *t*; *śap* by *kartari śap*, and its *luk* by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72). By "śnasor allopaḥ" (Pā. sū. 6-4-111) the *a* of the root drops; by *liṅaḥ salopo 'nantyasya* the *s* of the augment *yāsuṭ* drops: *syāt*. Since it stands at the start of the *pāda*, it is not wholly unaccented by *tiṅṅatiṅaḥ*.
+
+**उत (*uta*)**: final udātta by "evādīnām antaḥ" (Phi. sū. "4-83" [?]).
+
+**प्ररेचनम् (*prarecanam*)**: the root *ricir virecane*. By "irit saṃjñā vācyā" (Vārttika "1-3-7" [?]) the *ir* is called *it* and dropped. By "lyuṭ ca" (Pā. sū. 3-3-115) (in the neuter, in the sense of the action, the suffixes *kta* and *lyuṭ* come after a root) the suffix *lyuṭ*; by "yuvor anākau" (Pā. sū. 7-1-1) *ana* for *yu*: *ric* + *ana*; by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86) the *laghūpadha-guṇa*: *recana*; by "liti" (Pā. sū. 6-1-193) the syllable before the suffix *ana* is udātta. With the word *pra*, by "kugatiprādayaḥ" (Pā. sū. 2-2-18) the *prādi* compound; by *gatikārakopapadāt kṛt* the accent of the *kṛt* final member.
+
+**॥६॥**
+
+---
 
 ### Pages 735–737 — Sūkta 17, Rik 7
 
