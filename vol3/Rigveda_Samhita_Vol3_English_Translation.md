@@ -2070,15 +2070,17 @@ by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form; *laṭ*, *ma
 
 ---
 
-### Pages 84–86 — Sūkta 22, Rik 8
+### Page 84 (lower) — Sūkta 22, Rik 8
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सखाय आ नि षीदत सविता स्तोम्यो नु नः ।
-> दाता राधांसि शुम्भति ॥८॥
+> सखा॑य॒ आ नि षी॑दत सवि॒ता स्तोम्यो॒ नु नः॑ ।
+> दाता॒ राधां॑सि शुंभति ॥८॥
 >
-> *sakhāya ā ni ṣīdata savitā stomyo nu naḥ |*
-> *dātā rādhāṃsi śumbhati ||8||*
+> *sákhāya ā́ ní ṣīdata savitā́ stomyo nú naḥ |*
+> *dātā rā́dhāṃsi śuṃbhati ||8||*
+
+*(Strokes over खा, षी and नः; bars under य (सखाय), वि (सवि) and म्यो. Line 2: a bar under ता (दाता), a stroke over धां. The Saṃhitā prints शुंभति, the Pada शुम्भति.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -2088,25 +2090,55 @@ by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form; *laṭ*, *ma
 > *sakhāyaḥ | ā | ni | sīdata | savitā | stomyaḥ | nu | naḥ ||*
 > *dātā | rādhāṃsi | śumbhati ||8||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 85; compressed)*
+### Page 85 — Rik 8: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> सखिभूता हे ऋत्विज आ नि षीदत । सर्वतोऽपविशत । नोऽस्माकमयं सविता क्षिप्रं स्तोम्यः स्तुतियोग्यो राधांसि धनानि दाता प्रदातुमुद्युक्तः । एष सविता शुम्भति शोभते ॥ [grammar:] *sakhāyaḥ* (*samāne khyā*… with the Uṇādi *iñ*, *saṃprasāraṇa*-like change; *sakhi* + *jas*, vṛddhi *ai*, then *ay*); *niṣīdata* (*ṣadḷ*, *sīda*-substitute by P. 7-3-78; *ṣatva* by P. 8-3-65 *sadiraprateḥ*; *loṭ* second plural *ta*, *tana*-substitute not applied here); *stomyaḥ* (*stoma* + *yat* 'in the Veda, in the sense *bhava*' by P. 4-4-110; first-syllable accent by P. 6-1-213); *dātā* (*dā* + *tṛn*, first-syllable accent through *n*); *rādhāṃsi* (*rādhas* + *śas* → *śi*, *num*, lengthening); *śumbhati* (*śubh* 'to shine').
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*(Printed सर्वत्रोपविशत, as printed.)*
+
+> सखिभूता हे ऋत्विज आ नि षीदत । सर्वत्रोपविशत । नोऽस्माकमयं सविता नु क्षिप्रं स्तोम्यः स्तुतियोग्यो राधांसि धनानि दाता प्रदातुमुद्युक्तः । एष सविता शुम्भति । शोभते ॥ समानाः सन्तः ख्यान्ति प्रकाशन्त इति सखायः । ख्या प्रकथने । समाने ख्यः स चोदात्तः । उ० ४-१३६ । इतीण्प्रत्ययः । तत्संनियोगेन डित्त्वं यलोपश्च । डित्त्वादाकारलोपः । समानस्य छन्दसीत्यादिना । पा० ६-३-८४ । समानशब्दस्य सादेशः । इण्संनियोगेनोदात्तत्वं । जसि सख्युरसंबुद्धौ । पा० ७-१-९२ । इति णित्त्वाद्वृद्धिरायादेशश्च । नि षीदत । सदेरप्रतेः । पा० ८-३-६६ । इति षत्वं । स्तोमेषु प्रतिपाद्यत्वेन भवः स्तोम्यः । भवे छन्दसीति यत् । यतोऽनाव इत्याद्युदात्तत्वं । दाता दानशीलः । ताच्छील्ये तृन् । नित्त्वादाद्युदात्तः । राधांसि । गतं । कर्तृकर्मणोः कृतीति प्राप्तायाः षष्ठ्या न लोकाव्ययेति प्रतिषेधः ॥
 >
-> *sakhi-bhūtā he ṛtvija ā ni ṣīdata | sarvato 'paviśata | no 'smākam ayaṃ savitā kṣipraṃ stomyaḥ stuti-yogyo rādhāṃsi dhanāni dātā pradātum udyuktaḥ | eṣa savitā śumbhati śobhate ||*
+> *sakhibhūtā he ṛtvija ā ni ṣīdata | sarvatropaviśata | no 'smākamayaṃ savitā nu kṣipraṃ stomyaḥ stutiyogyo rādhāṃsi dhanāni dātā pradātumudyuktaḥ | eṣa savitā śumbhati | śobhate || samānāḥ santaḥ khyānti prakāśanta iti sakhāyaḥ | khyā prakathane | samāne khyaḥ sa codāttaḥ | u0 4-136 | itīṇpratyayaḥ | tatsaṃniyogena ḍittvaṃ yalopaśca | ḍittvādākāralopaḥ | samānasya chandasītyādinā | pā0 6-3-84 | samānaśabdasya sādeśaḥ | iṇsaṃniyogenodāttatvaṃ | jasi sakhyurasaṃbuddhau | pā0 7-1-92 | iti ṇittvādvṛddhirāyādeśaśca | ni ṣīdata | saderaprateḥ | pā0 8-3-66 | iti ṣatvaṃ | stomeṣu pratipādyatvena bhavaḥ stomyaḥ | bhave chandasīti yat | yato 'nāva ityādyudāttatvaṃ | dātā dānaśīlaḥ | tācchīlye tṛn | nittvādādyudāttaḥ | rādhāṃsi | gataṃ | kartṛkarmaṇoḥ kṛtīti prāptāyāḥ ṣaṣṭhyā na lokāvyayeti pratiṣedhaḥ ||*
 
-*(The Vyākaraṇa-prakriyā on pp. 86–87 treats* sakhāyaḥ *at length — the Uṇādi sūtra on* samāne khyaḥ *and the derivation 'those who shine alike' —* niṣīdata, stomyaḥ *and the accent of* dātā*; grammar pages noted briefly; numerals as read, pointers only.)*
+**Translation:** "O priests, *sakhāyaḥ*, become friends, *ā ni ṣīdata*, sit down all round. *Naḥ*, our, Savitṛ here is *nu*, quickly, *stomyaḥ*, worthy of praise; he is the *dātā*, ready to give, *rādhāṃsi*, riches. This Savitṛ *śumbhati*, shines." (Grammatical tail: *sakhāyaḥ*, 'being equal (*samāna*), they shine (*khyānti*)'; *khyā prakathane*, the suffix *iṇ* by *samāne khyaḥ sa codāttaḥ* (U. 4-136), along with it the *ḍit* nature and dropping of *y*; the *ā* dropped because it is *ḍit*; *sa* for *samāna* by *samānasya chandasi…* (Pā. 6-3-84); the udātta along with *iṇ*; *vṛddhi* and the substitute *āy* because by *jasi sakhyur asaṃbuddhau* (Pā. 7-1-92) [the ending is] *ṇit*; *ni ṣīdata*, *ṣ* by *sader aprateḥ* (Pā. 8-3-66); *stomyaḥ*, 'existing in the *stomas* as the one set forth', *yat* by *bhave chandasi*, initial udātta by *yato 'nāvaḥ*; *dātā*, 'given to giving', *tṛn* in the sense of habit, initial udātta as *nit*; *rādhāṃsi* has been explained; the genitive that would come by *kartṛkarmaṇoḥ kṛti* is barred by *na lokāvyaya…*.)
 
-**Translation:** "O friends — priests! Sit down all round (*ā ni ṣīdata*). This Savitṛ is now to be praised (*stomyaḥ*) by us, and, as the giver (*dātā*) of wealth (*rādhāṃsi*), he is eager to give: he shines (*śumbhati*)."
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** **सखायः (sakhāyaḥ)** — O friends (priests) | **आ नि सीदत (ā ni sīdata)** — sit down all round | **सविता (savitā)** — Savitṛ | **नः (naḥ)** — by us | **नु (nu)** — now | **स्तोम्यः (stomyaḥ)** — to be praised | **राधांसि (rādhāṃsi)** — riches | **दाता (dātā)** — the giver | **शुम्भति (śumbhati)** — shines.
+**सखायः (sakhāyaḥ)** — O friends (O priests who are friends) | **आ नि षीदत (ā ni ṣīdata)** — sit down all round | **सविता (savitā)** — (this) Savitṛ | **नः (naḥ)** — by us | **नु (nu)** — at once | **स्तोम्यः (stomyaḥ)** — fit for praise | **राधांसि (rādhāṃsi)** — riches | **दाता (dātā)** — as the giver | **शुम्भति (śumbhati)** — shines.
 
-**॥ Bhāvārthaḥ ॥** O priests! This Savitṛ shines, ready to give us wealth. We must praise him now; therefore sit down all together.
+**॥ Bhāvārthaḥ ॥**
+
+O priests, this Savitṛ shines, ready to give wealth and the like to all of us. We must praise him at once. So, friends, all of you sit down all round.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Friends, come and sit down ; Savitri is now to be praised by us, for he is the bestower of riches and shining brightly.
+> Friends, come and sit down; Savitri is now to be praised by us, for he is the bestower of riches and shining brightly.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 85–86)* **सखायः** — *sakhibhūtā ṛtvijaḥ*: the sacrificer addresses the priests as his friends; "*ṛtvijo vā asya sakhāyaḥ*" — the Taittirīya Saṃhitā says the priests are the sacrificer's friends. Yāska derives *sakhi* from *samāna khyāyante*, 'those who shine alike'.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**सखायः (sakhāyaḥ)** — *sakhibhūtā ṛtvijaḥ |* Here the sacrificer has addressed the priests as his friends. In the Taittirīya Saṃhitā of the Yajurveda (Tai. Saṃ. 6-1) it is said that the priests are the sacrificer's friends:
+
+> ऋत्विजो वा अस्य सखायः ।
+>
+> *ṛtvijo vā asya sakhāyaḥ |*
+
+### Page 86 — Rik 8: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**सखायः (sakhāyaḥ)** — *samānāḥ santaḥ khyānti prakāśante iti sakhāyaḥ*: that is, those who shine as being of equal rank. The root *khyā prakathane*. By *samāne khyaḥ sa codāttaḥ* (U. Sū. 4-[?]) — after the root *khyā* with the word *samāna* as *upapada*, the suffix *iṇ* comes; it is *ḍit*; the *y* is dropped; the *upapada* is udātta — this is the sense of the sūtra following the Veda commentary. When the suffix *iṇ* comes here by this sūtra: *khyā* + *i*; since the suffix is *ḍit*, the *ā*, the *ṭi*, is dropped, and the *y* is dropped. By *samānasya chandasy amūrdhaprabhṛtyudarkeṣu* (Pā. Sū. 6-3-84) — when a last member follows other than the words *mūrdhan*, *prabhṛti*, *udarka*, *sa* is substituted for the word *samāna* — the substitute *sa* for *samāna*: it becomes *sakhi*. The author of the *Svaramañjarī* and others have explained it the same way. If explained so, the word *sakhi* would be lost to use in the world [outside the compound]. So it is proper to take the reading found now in the Uṇādi, *samāne khyaḥ sa codāttaḥ*, and explain that the substitute *sa* comes by this very sūtra. See the explanation of this at (Ṛ. Sū. 1-4-4, as printed). After the word *sakhi*, *jas*; by *sakhyur asaṃbuddhau* (Pā. Sū. 7-1-92) — a *sarvanāmasthāna* other than the vocative after a stem in the form of the word *sakhi* is treated as *ṇit* — *jas* is like *ṇit*; so by *aco 'ñṇiti* (Pā. Sū. 7-2-115) *vṛddhi*; by *eco 'yavāyāvaḥ* (Pā. Sū. 6-1-78) the substitute *āy*; *s*, *ru* and *visarga*: it becomes *sakhāyaḥ*.
+
+**निषीदत (niṣīdata)** — the root *ṣadḷ viśaraṇādau*; by *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *s* for the *ṣ*; *loṭ*, middle person *tha*; by *loṭo laṅvat* (Pā. Sū. 3-4-85) treated like *laṅ*; by *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) the substitute *ta*; *śap*; by *pāghrādhmā…* (Pā. Sū. 7-3-78) the substitute *sīda*: it became *sīdata*. When it follows the prefix *ni*, by *sader aprateḥ* (Pā. Sū. 8-3-66) — after the *iṇ* that is the final of a prefix other than *prati*, *ṣ* comes for the *s* of the root *sad* — *ṣ*: it becomes *niṣīdata*.
+
+**स्तोम्यः (stomyaḥ)** — *stomeṣu pratipādyatvena bhavaḥ*: when the sense 'existing in' is intended, by *bhave chandasi* (Pā. Sū. 4-4-110) — after a related word ending in the seventh case, the suffix *yat* in the sense 'existing in' — the suffix *yat*; by *yato 'nāvaḥ* (Pā. Sū. 6-1-213) — a word ending in a *yat* laid down after a word other than *nau*, if it has two vowels, is udātta at the beginning — initial udātta comes.
+
+### Page 87 (upper) — Rik 8: grammar (end)
+
+**दाता (dātā)** — the meaning is 'given to giving'. By *tṛn* (Pā. Sū. 3-2-135), in the sense of habit, the suffix *tṛn* comes after the root *dhāñ* [as printed]; by the *nit* accent initial udātta.
+
+**राधांसि (rādhāṃsi)** — explained in the seventh mantra. *Rādhas* is the word denoting the object in the action of the root *dā*, which is the base of the *kṛt* suffix *tṛn*. So by *kartṛkarmaṇoḥ kṛti* (Pā. Sū. 2-3-65) — after a word denoting either agent or object of the action that is the base of a *kṛt* suffix, the genitive comes — the genitive of the object would be obtained. But since *tṛn* is used, the prohibition by *na lokāvyayaniṣṭhākhalarthatṛnām* (Pā. Sū. 2-3-69) comes, so the genitive of the object does not come. By *karmaṇi dvitīyā* (Pā. Sū. 2-3-2) — after a nominal stem denoting an object not expressed by the *tiṅ* and the like, the second case comes — the second case comes. ॥8॥
+
+---
 
 ### Pages 87–89 — Sūkta 22, Rik 9
 
