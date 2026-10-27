@@ -7481,6 +7481,8 @@ O ṛtvijs, Adhvaryu and the rest! The Soma-juice has now been pressed from the 
 
 ### Page 349 — Rik 2: Special Topics
 
+*(Page header: "A. 1, A. 1, Va. 17.")*
+
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
 **"Īm"** — the Bhāṣyakāra and Skandasvāmī both state that the word *īm* has no meaning and is used merely to fill out the pāda. Yāska too, in the Nirukta (1-9), speaks of this matter as follows:
@@ -7493,13 +7495,13 @@ The Bhāṣyakāra explains this thus: "When the intended meaning has been compl
 
 That is: the word *īm* has no meaning; it is used to fill out a pāda. In the Brāhmaṇas and other sentences not bound by meter and with no rule on the number of syllables, words like *īm* are used to complete sentences. In the same way, in mantras that are metrical and made of syllables of fixed number, these words are used to fill out the pāda. As an example of this, Yāska quotes this very rik, *emenaṃ sṛjatā*. In this rik the word *īm* has no use whatsoever in the sense of the mantra, but is used merely so that the pāda has the eight syllables it needs under the rule of the Gāyatrī meter. And:
 
-> क्रियावाचकमाख्यातमुपसर्गो विशेषकृत् [?] ।
-> सत्त्वाभिधायकं नाम निपातः पादपूरणः ॥ [?]
-> *kriyā-vācakam ākhyātam upasargo viśeṣa-kṛt [?] |*
-> *sattvābhidhāyakaṃ nāma nipātaḥ pāda-pūraṇaḥ || [?]*
-> "The verb denotes action; the prefix makes it specific [first line read from compressed print]; the noun denotes substance; the particle fills out the pāda."
+> क्रियावाचकमाख्यातमुपसर्गो विशेषकृत् ।
+> सत्त्वाभिधायकं नाम निपातः पादपूरणः ॥ इति ॥
+> *kriyā-vācakam ākhyātam upasargo viśeṣa-kṛt |*
+> *sattvābhidhāyakaṃ nāma nipātaḥ pāda-pūraṇaḥ || iti ||*
+> "The verb denotes action; the prefix makes it specific; the noun denotes substance; the particle fills out the pāda."
 
-*"Kam im ām id dhīti"* — "these four: *kam, īm, id, u*" (as the Kannada has it: *kam, īm it, u iti* — four words, i.e. particles) are used to fill the deficient number of syllables in a pāda of a metrical rik. They have no fixed sense in such a context. And the words *iva, na, cit, nu* are likewise used to fill out the pāda, but on some occasions they have a meaning. Hence *iva, na, cit, nu* are used in two ways: as meaningless and as meaningful.
+*"Kam im ām id dhīti"* — "ete catvāraḥ kam, īm, it, u iti" — these four particles, *kam, īm, it, u*, are used to fill the deficient number of syllables in a pāda of a metrical rik. They have no fixed sense in such a context. And the words *iva, na, cit, nu* are likewise used to fill out the pāda, but on some occasions they have a meaning. Hence *iva, na, cit, nu* are used in two ways: as meaningless and as meaningful.
 
 **"Sṛjata"** — for the convenience of the meter the *ta* is lengthened in the Saṃhitā-pāṭha.
 
@@ -7513,23 +7515,33 @@ That is: the word *īm* has no meaning; it is used to fill out a pāda. In the B
 
 **"Cakrim"** and **"cakraye"** — these words are formed from the root *ḍukṛñ karaṇe* ("to do"). For their derivation see the grammar section.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 350–352, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 350–352, Kannada; page header p. 351 "A. 1, A. 1, Va. 17"; numbers as printed)*
 
-Words treated: **एनम् (*enam*)** — see the entry at p. 348; *idam* replaced by *ena* (Pā. 2-4-34 [?]), unaccented; hence *enam* wholly unaccented. **सृजत (*sṛjata*)** — lengthened in the Saṃhitā (*sṛjatā*) by Pā. 6-3-132 [?]. **मन्दिम् (*mandim*)** — root *madi* in the sense "to rejoice," with *num* (Pā. 7-1-58 [?]), the verb used in its causal meaning "one who makes glad": the source explains that a *ṇic* arises here by "hetumati ca" (Pā. 3-1-26 [?]) in the sense of *prerana* (urging), *anumati* (permission), *upadeśa* (advice) — e.g., a friend urging; the suffix *i* by Uṇādi "ācaḥ" (Uṇ. 4-[?]) after a vowel-ending root; the *ṇi* is dropped (Pā. 6-4-51 [?]); the word is final-udātta by the suffix. **मन्दिने (*mandine*)** — as above; the *ṅe* ending after the *i*-ending adjective; *num* in the neuter stem (Pā. 7-1-73 [?], "iko 'ci vibhaktau"), but here masculine; *num* is nevertheless added by Vedic *vyatyaya*. **चक्रिम् (*cakrim*)** — root *ḍukṛñ karaṇe*; the sūtra "ādyagamahanaḥ kikinau liṭ ca" (Pā. 3-2-171 [?]) gives suffixes *ki* and *kin* in the Veda after roots ending in *-ā*, *-ṛ*, and *gam*, *han* in the senses of habit, merit, or skill; treated as *liṭ*; doubling in *kṛ + i* with the reduplicate vowel; the question of the *yaṇ* substitution is argued from *dvirvacane 'ci* (Pā. 1-1-59 [?]), where the older commentators (Vṛttikāra and others) take the substitute as sharing the properties of the original (*sthānivadbhāva*), and Vedabhāṣya accordingly takes *dvirvacane 'ci* as meaning that the *yaṇ*-substitute is itself doubled; *ur at* (Pā. 7-4-66 [?]) → *ar*; *halādiḥ śeṣaḥ* (Pā. 7-4-60 [?]) leaves the first consonant of the reduplicate; *kuhoś cuḥ* (Pā. 7-4-62 [?]) gives *c*; hence *cakri*; the *kin* suffix is *nit*, so initial-udātta ("ñnityādir nityam," Pā. 6-1-197 [?]). **विश्वानि (*viśvāni*)** — root *viś* + *kvan* by "aśūpruṣiliṭikaṇikhaṭivi-śibhyaḥ kvan" (Uṇ. 1-[?]); *nit*, so initial-udātta; in the accusative plural neuter *viśvāni*. **चक्रये (*cakraye*)** — the link with the earlier *cakrim*: a *kṛdanta* word; the genitive ending would normally follow a verb-noun in its object sense by "kartṛkarmaṇoḥ kṛti" (Pā. 2-3-65 [?]), and is blocked here because the word is a *kin*-word treated like *liṭ*, ending in a *niṣṭhā*-like form (Pā. 2-3-69 [?], "na lokāvyayaniṣṭhākhalarthatṛnām"); hence the object takes the accusative by "karmaṇi dvitīyā" (Pā. 2-3-2 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**एनम्** — "idam + am": **द्वितीयाटौस्स्वेनः** (पा. सू. २-४-३४) — in anvādeśa, before the accusative, "ṭā" and "os," "ena" replaces "idam" and "etad": "ena + am"; **अमि पूर्वः** (पा. सू. ६-१-१०७) the prior form: "enam." With 2-4-34, "anudāttaḥ" is carried from **इदमोऽन्वादेशेऽशनुदात्तस्तृतीयादौ** (पा. सू. २-४-३२), so the substitute "ena" is unaccented, and "enam" wholly unaccented.
 
-**॥२॥**
+**सृजत** — **अन्येषामपि दृश्यते** (पा. सू. ६-३-१३७) the long vowel in the saṃhitā: "sṛjatā."
+
+**मन्दिम्** — "cause of joy": "madi stuti-moda-mada-svapna-kānti-gatiṣu," "i"-marked, so **इदितो नुम् धातोः** (पा. सू. ७-१-५८) "num": "mand"; in the sense "mandamānaṃ prayuṅkte," **हेतुमति च** (पा. सू. ३-१-२६) "ṇic": by **तत्प्रयोजको हेतुश्च** (पा. सू. १-४-५५) the instigator of the agent is "hetu" and also "kartṛ"; when the activity of such a "hetu" — "preṣaṇa" (command), "adhyeṣaṇa" (request to an equal such as a friend), "anumati" (assent, as of a king), "upadeśa" (as to a patient) — is meant, "ṇic" comes after the root (here in the sense of urging): "mand + i"; being vowel-ending, **अच इः** (उ. सू. ४-१३८) "i" (p. 351): "mand + i + i"; **णेरनिटि** (पा. सू. ६-४-५१) loss of "ṇi": "mandi," end-acute by the affix accent; accusative "mandim."
+
+**मन्दिने** — as for "mandi"; dative "ṅe": **इकोऽचि विभक्तौ** (पा. सू. ७-१-७३) "num" for a neuter "i/u/ṛ"-ending stem before a vowel-initial ending: "mandine"; though here it qualifies Indra and is masculine, as Vedic it takes "num" by vyatyaya.
+
+**चक्रिम्** — "ḍukṛñ karaṇe": **आदृगमहनजनः किकिनौ लिट् च** (पा. सू. ३-२-१७१) — after roots in "ā" and "ṛ," "gam, han, jan," in the "tācchīlya" senses, in the Veda, "ki" and "kin," treated like "liṭ": "kṛ + i." **द्विर्वचनेऽचि** (पा. सू. १-१-५९): where a vowel conditioning doubling follows, no substitute is made before the doubling; "i," treated as "liṭ," conditions doubling, so by **लिटि धातोरनभ्यासस्य** (पा. सू. ६-१-८) doubling is done before **इको यणचि** (पा. सू. ६-१-७७): "kṛ kṛ + i," then "r" for the second "ṛ." Or, as the Vṛttikāra and others explain 1-1-59, a substitute made before a doubling-conditioning vowel retains the nature of the original: then "y" first: "kr + i," and the "r," standing for "ṛ," takes that form for doubling: "kṛkr + i." Both views give the same result; following the second, the Veda-bhāṣya says "dvirvacane 'ci iti yaṇādeśasya sthānivadbhāvāt kṛśabdo dvir ucyate." **उरत्** (पा. सू. ७-४-६६) "a" for the reduplicate "ṛ," with "r" by **उरण् रपरः** (पा. सू. १-१-५१): "kar + kr + i"; **हलादिः शेषः** (पा. सू. ७-४-६०) only the first consonant of the reduplicate stays: "ka + kr + i"; **कुहोश्चुः** (पा. सू. ७-४-६२) (p. 352) "c": "cakri"; "kin," "n"-marked, so first-syllable acute by **ञ्नित्यादिर्नित्यम्** (पा. सू. "५-४-१९७" as printed, i.e. 6-1-197).
+
+**विश्वानि** — **अशूप्रुषि…** (उ. सू. १-१४९) "kvan" after "viś," first-syllable acute; accusative plural "viśvāni." "Viśvāni" is construed with the kṛt "cakraye," so **कर्तृकर्मणोः कृति** (पा. सू. २-३-६५) would give the genitive; but "kin," by "kikinau liṭ ca," is treated as "liṭ" (a "la"), so **न लोकाव्ययनिष्ठाखलर्थतृनाम्** (पा. सू. २-३-६९) — with "la," "u," "uka," indeclinables, niṣṭhā, khal-sense affixes and "tṛn," no genitive — forbids it; so by **कर्मणि द्वितीया** (पा. सू. २-३-२) the accusative. **॥२॥**
 
 ---
 
 ### Page 352 — Sūkta 9, Rik 3
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मत्स्वा सुशिप्र मन्दिभिः स्तोमेभिर्विश्वचर्षणे ।
-> सचैषु सवनेष्वा ॥३॥
+> मत्स्वा॑ सुशिप्र म॒न्दिभिः॒ स्तोमे॑भिर्विश्वचर्षणे ।
+> सचै॒षु सव॑ने॒ष्वा ॥३॥
 >
-> *matsvā suśipra mandibhiḥ stomebhir viśvacarṣaṇe |*
-> *sacaiṣu savaneṣv ā ||3||*
+> *mátsvā suśipra mandíbhiḥ stómebhir viśvacarṣaṇe |*
+> *sacaiṣú sávaneṣv ā́ ||3||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
