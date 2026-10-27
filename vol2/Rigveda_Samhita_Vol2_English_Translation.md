@@ -7120,7 +7120,7 @@ Here Indra's drinking of Soma is described by hyperbole (*utprekṣā*): Indra d
 > प॒क्वा शाखा॒ न दा॒शुषे॑ ॥८॥
 >
 > *evā́ hy àsya sūnṛ́tā virapśī́ gómatī mahī́ |*
-> *pakvā́ śā́khā ná dāśúṣe ||8||*
+> *pakvā́ śākhā ná dāśúṣe ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
