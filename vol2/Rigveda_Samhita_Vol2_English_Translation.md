@@ -7070,13 +7070,13 @@ Those men who desire victory in battle, and offspring such as sons and grandsons
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> यः कुक्षिरस्येन्द्रस्योदरप्रदेशः सोमपातमो ऽतिशयेन सोमस्य पाता स कुक्षिः समुद्र इव पिन्वते । वर्धते । सेचनार्थो धातुरौचित्येन वृद्धिं लक्षयति । काकुदो मुखसंबन्धिन्य उर्वीर्बह्व्य आपो न जलानीव । जिह्वासंबन्धमास्योदकं यथा कदाचिदपि न शुष्यति तथेन्द्रस्य कुक्षिः सोमपूरितो न शुष्यतीत्यर्थः । यद्यपि श्लोक इत्यादिषु सप्तपञ्चाशत्सु वाङ्नामसु काकुज्जिह्वेति पठितं तथाप्युदकसंबन्धिपृथ्वर्थमत्र [?] काकुच्छब्देन मुखमुपलक्ष्यते । संबन्धवाचिनस्तद्धितस्यात्र छान्दसो लोपो द्रष्टव्यः ॥
+> यः कुक्षिरस्येन्द्रस्योदरप्रदेशः सोमपातमो ऽतिशयेन सोमस्य पाता स कुक्षिः समुद्र इव पिन्वते । वर्धते । सेचनार्थो धातुरौचित्येन वृद्धिं लक्षयति । काकुदो मुखसंबन्धिन्य उर्वीर्बह्व्य आपो न जलानीव । जिह्वासंबन्धमास्योदकं यथा कदाचिदपि न शुष्यति तथेन्द्रस्य कुक्षिः सोमपूरितो न शुष्यतीत्यर्थः । यद्यपि श्लोक इत्यादिषु सप्तपञ्चाशत्सु वाङ्नामसु काकुज्जिह्वेति पठितं तथाप्युदकसंबन्धसिद्ध्यर्थमत्र काकुच्छब्देन मुखमुपलक्ष्यते । संबन्धवाचिनस्तद्धितस्यात्र छान्दसो लोपो द्रष्टव्यः ॥
 >
-> *yaḥ kukṣir asyendrasyodara-pradeśaḥ somapātamo 'tiśayena somasya pātā sa kukṣiḥ samudra iva pinvate | vardhate | secanārtho dhātur aucityena vṛddhiṃ lakṣayati | kākudo mukha-saṃbandhinya urvīr bahvya āpo na jalānīva | jihvā-saṃbandham āsyodakaṃ yathā kadācid api na śuṣyati tathendrasya kukṣiḥ soma-pūrito na śuṣyatīty arthaḥ | yadyapi śloka ity-ādiṣu saptapañcāśatsu vāṅ-nāmasu kākuj jihveti paṭhitaṃ tathāpy udaka-saṃbandhi-pṛthv-artham atra [?] kākuc-chabdena mukham upalakṣyate | saṃbandha-vācinas taddhitasyātra chāndaso lopo draṣṭavyaḥ ||*
+> *yaḥ kukṣir asyendrasyodara-pradeśaḥ somapātamo 'tiśayena somasya pātā sa kukṣiḥ samudra iva pinvate | vardhate | secanārtho dhātur aucityena vṛddhiṃ lakṣayati | kākudo mukha-saṃbandhinya urvīr bahvya āpo na jalānīva | jihvā-saṃbandham āsyodakaṃ yathā kadācid api na śuṣyati tathendrasya kukṣiḥ soma-pūrito na śuṣyatīty arthaḥ | yadyapi śloka ity-ādiṣu saptapañcāśatsu vāṅ-nāmasu kākuj jihveti paṭhitaṃ tathāpy udaka-saṃbandha-siddhy-artham atra kākuc-chabdena mukham upalakṣyate | saṃbandha-vācinas taddhitasyātra chāndaso lopo draṣṭavyaḥ ||*
 
-**Translation:** "That belly (*kukṣiḥ*) — the region of the stomach — of Indra, *somapātamaḥ* — which drinks Soma to the utmost — that belly swells (*pinvate*, grows) like the ocean. The root [*pinv*] has the sense of sprinkling; by propriety it here indicates growth. *Kākudaḥ* — [the waters] connected with the mouth: *urvīḥ*, many *āpaḥ*, like waters. As the water in the mouth, connected with the tongue, never at any time dries up, so Indra's belly, filled with Soma, does not dry — this is the sense. Although *kākut* and *jihvā* are read among the fifty-seven words for speech beginning with *śloka*, still here the mouth is indicated by the word *kākut* [the clause concerning 'water-connected' is hard to read]. The *taddhita* suffix of relation has been dropped here by Vedic license."
+**Translation:** "That belly (*kukṣiḥ*) — the region of the stomach — of Indra, *somapātamaḥ* — which drinks Soma to the utmost — that belly swells (*pinvate*, grows) like the ocean. The root [*pinv*] has the sense of sprinkling; by propriety it here indicates growth. *Kākudaḥ* — [the waters] connected with the mouth: *urvīḥ*, many *āpaḥ*, like waters. As the water in the mouth, connected with the tongue, never at any time dries up, so Indra's belly, filled with Soma, does not dry — this is the sense. Although *kākut* and *jihvā* are read among the fifty-seven words for speech beginning with *śloka*, still here, to establish the connection with water, the mouth is indicated by the word *kākut*. The *taddhita* suffix of relation has been dropped here by Vedic license."
 
-*(The rest of the Sanskrit on this page, and p. 329's grammar — on* सोमपातमः*,* समुद्रः*,* पिन्वते*,* उर्वीः*,* आपः*,* काकुदः *— is noted briefly in the Kannada grammar below.)*
+**Grammar of the Bhāṣya (characterized, references as printed):** "Somapātamaḥ" — "somaṃ pibatīti somapāḥ"; the "ā" acute by the root accent, kept by the kṛt-final second member's accent; "tamap," "p"-marked, unaccented. "Samudraḥ" — end-acute as a stem. "Iva" — with "iva," no loss of the case-ending and the first member's accent, by the vārttika (पा. २-१-४-२). "Pinvate" — "pivi secane," "i"-marked, so "num" by "idito num dhātoḥ"; "śap," "p"-marked, unaccented, and the lasārvadhātuka, so the root accent remains. "Urvīḥ" — "uru," end-acute; **वोतो गुणवचनात्** (पा. ४-१-४४) "ṅīṣ"; "y" substitute; **उदात्तयणो हल्पूर्वात्** (पा. ६-१-१७४) the "ī" acute; with "jas," the single substitute acute. "Āpaḥ" — the stem accent. "Kākudaḥ" — end-acute by the stem accent.
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -7096,31 +7096,31 @@ Because he drinks Soma to excess, Indra's belly swells large like the ocean, and
 
 Here Indra's drinking of Soma is described by hyperbole (*utprekṣā*): Indra drinks abundant Soma-juice (offered by us), and therefore his belly swells like the ocean; and because he drinks Soma again and again, his palate is always moist with Soma. As the saliva that flows constantly in the human mouth keeps the palate always moist, so Indra's stomach also is always wet with Soma-drinking and never dries. That is the idea.
 
-**"Kākudaḥ"** — *kakut* means the palate; *kākuda* = connected with it. Or, since *kākut* and *jihvā* are read among the fifty-seven words for speech beginning with *śloka* (Nirukta 1-11 [?]), it is understood to mean "tongue." Everyone knows that the tongue, the mouth, are always moist; that is the comparison the poet draws here. Besides, in the Nirukta there is the statement **काकुदं तालु इत्याचक्षते** (*kākudaṃ tālv ity ācakṣate*, "they call the *kākuda* the palate," Nirukta 5-37? [?]); and this word also means "mountain peak." On that reading the sense is that streams that flow down from the top of a mountain keep the mountain always wet; "like that" the sense may also be taken.
+**"Kākudaḥ"** — *kakut* means the palate (English "palate" in the source); *kākuda* = connected with it. Or, since *kākut* and *jihvā* are read among the fifty-seven words for speech beginning with *śloka* (Ni. 2-23), it is understood to mean "tongue." Everyone knows that the tongue, the mouth, are always moist; that is the comparison the poet draws here. Besides, in the Nirukta there is the statement **काकुदं तालु इत्याचक्षते** (*kākudaṃ tālv ity ācakṣate*, "they call the *kākuda* the palate," Ni. 5-26); and this word also means "mountain peak." On that reading the sense is that streams that flow down from the top of a mountain keep the mountain always wet; "like that" the sense may also be taken.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 329–330, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 329–330, Kannada; page header p. 329 "A. 1, A. 1, Va. 16"; numbers as printed)*
 
-**सोमपातमः (*somapātamaḥ*)** — *somaṃ pibati iti somapāḥ*: *ka* suffix after *pā*, but this is overridden by "ātho manin-kvanib-vanipaś ca" (Pā. 3-2-74 [?]) and the *ca* in that sūtra brings *vic*; *pā* is final-udātta by the root accent; the compound keeps the first-member accent rule ("gati-kāraka-upapadāt kṛt," Pā. 6-2-139 [?]); then *tamap* in the sense of excess ("atiśāyane tamabiṣṭhanau," Pā. 5-3-55 [?]); *tamap* is *pit*, hence unaccented. **समुद्रः (*samudraḥ*)** — final-udātta by base accent; with *iva* the case-ending is dropped and the first member's accent kept ("ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca vaktavyam," *vārttika*). **पिन्वते (*pinvate*)** — root *pivi secane*; *num* by "idito num dhātoḥ" (Pā. 7-1-58 [?]); ātmanepada *laṭ*, third singular *ta*; *ṭita ātmanepadānāṃ ṭere* (Pā. 3-4-79 [?]) gives *te*; *śap*; *śap* is *pit* so unaccented; the root keeps its accent.
+**सोमपातमः (*somapātamaḥ*)** — *somaṃ pibati iti somapāḥ*: the "ka" of **आतोऽनुपसर्गे कः** (पा. सू. ३-२-३) is set aside by **आतो मनिन्क्वनिब्वनिपश्च** (पा. सू. ३-२-७४), whose "ca" brings "vic"; "pā" end-acute by **धातोः** (पा. सू. ६-१-१६२), kept by **गतिकारकोपपदात्कृत्** (पा. सू. ६-२-१३९); then **अतिशायने तमबिष्ठनौ** (पा. सू. ५-३-५५) "tamap," "p"-marked, unaccented by **अनुदात्तौ सुप्पितौ** (पा. सू. ३-१-४). **समुद्रः (*samudraḥ*)** — final-udātta by base accent; with *iva* the case-ending is dropped and the first member's accent kept ("ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca," पा. सू. २-१-४, म. २). **पिन्वते (*pinvate*)** — root *pivi secane*; *num* by "idito num dhātoḥ" (पा. सू. ७-१-५८); ātmanepada *laṭ*, third singular *ta*; *ṭita ātmanepadānāṃ ṭere* (पा. सू. ३-४-७९) gives *te*; *śap*; *śap* is *pit* so unaccented; the root keeps its accent.
 
 ### Page 330 — Rik 7 grammar closes
 
-*(The Sanskrit grammar continues:* पिन्वते *is not made unaccented as a verb here, by the rule* yady-vṛtta-nityam*, because the relative* yaḥ *precedes it in the sentence.)*
+*(Kannada, continued; numbers as printed.)* "Pinvate" (concluded): "te," after an anudāttet root, is unaccented by **तास्यनुदात्तेत्…** (पा. सू. ६-१-१८६); but **यद्वृत्तान्नित्यम्** (पा. सू. ८-१-६६) — a verb in a clause with the relative "yat" is never unaccented — so "tiṅṅatiṅaḥ" does not apply.
 
-**उर्वीः (*urvīḥ*)** — *uru* is final-udātta; before the feminine *ṅīṣ* optionally after a quality-word ending in *u* (Pā. 4-1-44 [?], "voto guṇavacanāt"); *yaṇ* substitution; the accent of the *ī*-suffix by the sūtra on *nadī*-class endings; the case-ending *jas* with the Vedic single-substitute *dīrgha* giving *urvīḥ*. **आपः (*āpaḥ*)** — base accent. **काकुदः (*kākudaḥ*)** — *kākut* ("palate"; Nirukta 1-11-[?] lists *kākut* among the fifty-seven speech-words beginning *ślokaḥ*) with the *matup* sense by the Mahābhāṣya rule on "bhūmanindā-praśaṃsāsu nityayoge 'tiśāyane saṃbandhe 'sti-vivakṣāyāṃ bhavanti matupādayaḥ" (Pā. 5-2-94 *vārttika* [?]): in a sense of relation the *matup* suffix is added, then dropped by Vedic license; so *kākudaḥ* means "connected with the mouth"; final-udātta by base accent. *(Sūtra numbers read from small print; pointers only.)*
-
-**॥७॥**
+**उर्वीः** — "uru," end-acute; **वोतो गुणवचनात्** (पा. सू. ४-१-४४) — after a quality-word ending in short "u," "ṅīṣ" optionally in the feminine; "y" substitute: "urvī"; **उदात्तयणो हल्पूर्वात्** (पा. सू. ६-१-१७४) — after an acute replaced by "y, v, r, l" preceded by a consonant, the nadī vowel and a "śas"-etc. ending are acute — so the "ī" is acute; "urvī + as": **प्रथमयोः पूर्वसवर्णः** (पा. सू. ६-१-१०२) the long vowel, acute by **एकादेश उदात्तेनोदात्तः** (पा. सू. ८-२-५). **आपः** — the stem accent. **काकुदः** — "kākuj jihvā" (निरु. "१-११-३८" as printed [?]): Yāska lists "kākut" among the fifty-seven speech-words beginning "ślokaḥ"; taken so, it does not construe with the water of "āpaḥ," so here the mouth is indicated by "kākut"; by the Mahābhāṣya's **भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने । संबन्धेऽस्तिविवक्षायां भवन्ति मतुबादयः** (पा. सू. ५-२-९४ म. भा.) "matup" in the sense of relation, dropped as Vedic: "kākudaḥ," "connected with the mouth"; end-acute by the stem accent. **॥७॥**
 
 ---
 
 ### Page 330 — Sūkta 8, Rik 8
 
+*(Saṃhitā accents as printed; Pada unaccented. "hy àsya" carries the svarita of the y-sandhi; the IAST marks it with a grave.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> एवा ह्यस्य सूनृता विरप्शी गोमती मही ।
-> पक्वा शाखा न दाशुषे ॥८॥
+> ए॒वा ह्य॑स्य सू॒नृता॑ विर॒प्शी गोम॑ती म॒ही ।
+> प॒क्वा शाखा॒ न दा॒शुषे॑ ॥८॥
 >
-> *evā hy asya sūnṛtā virapśī gomatī mahī |*
-> *pakvā śākhā na dāśuṣe ||8||*
+> *evā́ hy àsya sūnṛ́tā virapśī́ gómatī mahī́ |*
+> *pakvā́ śā́khā ná dāśúṣe ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
