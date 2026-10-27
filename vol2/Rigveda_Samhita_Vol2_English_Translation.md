@@ -15891,15 +15891,19 @@ By the grace of Indra and Varuṇa may we gather boundless wealth, enjoy it as w
 
 ---
 
-### Pages 735–737 — Sūkta 17, Rik 7
+### Page 735 (lower) — Sūkta 17, Rik 7
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रावरुण वामहं हुवे चित्राय राधसे ।
-> अस्मान्त्सु जिग्युषस्कृतम् ॥७॥
+> इन्द्रा॑वरुण वाम॒हं हु॒वे चि॒त्राय॒ रा॑धसे । [accent ?]
+> अ॒स्मान्त्सु जि॒ग्यु॑षस्कृतम् ॥७॥
 >
-> *indrāvaruṇa vām ahaṃ huve citrāya rādhase |*
-> *asmān tsu jigyuṣas kṛtam ||7||*
+> *índrāvaruṇa vām aháṃ huvé citrā́ya rādhase |* [accent ?]
+> *asmā́nt su jigyúṣas kṛtam ||7||*
+
+*(Read as printed: strokes over द्रा, रा and ग्यु; bars under म (वामहं), हु, चि, य (चित्राय), अ and जि.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -15909,37 +15913,79 @@ By the grace of Indra and Varuṇa may we gather boundless wealth, enjoy it as w
 > *indrāvaruṇā | vām | aham | huve | citrāya | rādhase ||*
 > *asmān | su | jigyuṣaḥ | kṛtam ||7||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the shortened* indrāvaruṇa*.)*
+### Page 736 — Rik 7: bhāṣya, word-meanings, overall sense, English
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 736; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> इन्द्रावरुणा हे इन्द्रावरुणौ वां युवामुभावहं हुवे । आह्वयामि । किमर्थम् । चित्राय मणिमुक्तादिरूपेण विविधाय राधसे धनाय । ततः आहूतौ युवामस्माननुष्ठात्॒न् सु जिग्युषः । शत्रुविषये सुष्ठु जयोपेतान् कृतं कुरुतम् ॥ इन्द्रावरुणा । सुपां सुलुगित्यादिना संबोधनस्याकारः । देवताद्वन्द्वे चेति पूर्वपदस्यानङ् । आमन्त्रिताद्युदात्तत्वम् । संहितायां छान्दसं ह्रस्वत्वम् । हुवे । ह्वयतेर्लुटि [sic: लटि?] उत्तमैकवचनमिट् । शपि इत्यनुवृत्तौ बहुलं छन्दसीति लुक् । ह्व इत्यनुवृत्तौ बहुलं छन्दसीति संप्रसारणं परपूर्वत्वम् । अचि श्नुधात्विति [?] ... उवङादेशः । जुहोतेरेव हि प्रतिपदोक्तस्य ग्रहणं न पुनरस्य लाक्षणिकत्वात् । इटः प्रत्ययस्वरे ... राधसे । असुन् । नित्त्वाद्याद्युदात्तत्वम् । अस्मान् । शसि द्वितीयायां च । पा. [७-२-८७] । इत्यात्वम् । शसो नः । पा. [६-१-१०३] ... जिग्युषः । जि जये । लिटः क्वसुश्च । पा. [३-२-१०७] । द्विर्भावः । सन्लिटोर्जेः । पा. [७-३-५७] । इति द्वितीयस्य कुत्वम् । क्वसोः कित्त्वाद्गुणाभावः । … वसोः संप्रसारणम् । पा. [६-४-१३१] … कृतम् । डुकृञ् करणे । लोण्मध्यमद्विवचनस्य थस् । लोटो लङ्वत् । तस्थस्थमिपां तान्तन्तामः । पा. [३-४-१०१] । इति तमादेशः । कर्तरि शप् । बहुलं छन्दसीति लुक् … ॥७॥
+*(शासिवसिघसीनां चेति षत्वम् is as printed; the grammar page (p. 739) says that this sūtra does not apply to the *s* of *vas*.)*
+
+> इन्द्रावरुणा हे इन्द्रावरुणौ वां युवामुभावहं हुवे । आह्वयामि । किमर्थम् । चित्राय मणिमुक्तादिरूपेण विविधाय राधसे धनाय । तत आहुतौ युवामस्माननुष्ठातॄन्सु जिग्युषः । शत्रुविषये सुष्ठु जययुक्तान्कृतं कुरुतम् ॥ इन्द्रावरुणा । सुपां सुलुगित्यादिना संबोधनस्याकारः । देवताद्वन्द्वे चेति पूर्वपदस्यानङ् । आमन्त्रिताद्युदात्तत्वम् । संहितायां छान्दसं ह्रस्वत्वम् । हुवे । ह्वयतेर्लट्युत्तमैकवचनमिट् । शप इत्यनुवृत्तौ बहुलं छन्दसीति लुक् । ह्व इत्यनुवृत्तौ बहुलं छन्दसीति संप्रसारणं परपूर्वत्वम् । अचि श्नुधात्वित्यादिनोवङ् । पा. ६-४-७७ । न च हुश्नुवोरित्यादिना । पा. ६-४-८७ । यणादेशः । जुहोतेरेव हि प्रतिपदोक्तस्य तत् । न पुनरस्य लाक्षणिकत्वात् । इटः प्रत्ययस्वरेणोदात्तत्वम् । पादादित्वान्न निघातः । राधसे । असुन् । नित्त्वादाद्युदात्तत्वम् । अस्मान् । शसि द्वितीयायां च । पा. ७-२-८७ । इत्यात्वम् । शसो नः । पा. ७-१-२९ । इति नत्वम् । जिग्युषः । जि जये । लिटः क्वसुश्चेति क्वसुः । द्विर्भावः । सन्लिटोर्जेः । पा. ७-३-५७ । इति द्वितीयस्य कुत्वम् । क्वसोः कित्त्वाद्गुणाभावः । क्र्यादिनियमात्प्राप्तस्येटो वस्वेकाजाद्घसामिति नियमेन निवृत्तिः । द्वितीया बहुवचनं शस् । भसंज्ञायां वसोः संप्रसारणमिति संप्रसारणम् । परपूर्वत्वम् । एरनेकाच इति यणादेशः । शासिवसिघसीनां चेति षत्वम् । प्रत्ययस्वरेणोकार उदात्तः । कृतम् । डुकृञ् करणे । लोण्मध्यमद्विवचनस्य लङ्वद्भावात्तमादेशः । शपो बहुलं छन्दसीति लुक् । तिङ्ङतिङ इति निघातः ॥
 >
-> *indrāvaruṇā he indrāvaruṇau vāṃ yuvām ubhāv ahaṃ huve | āhvayāmi | kimartham | citrāya maṇi-muktādi-rūpeṇa vividhāya rādhase dhanāya | tata āhutau yuvām asmān anuṣṭhātṝn su jigyuṣaḥ | śatru-viṣaye suṣṭhu jayopetān kṛtaṃ kurutam || indrāvaruṇā | supāṃ sulug ity-ādinā saṃbodhanasyākāraḥ | devatā-dvandve ceti pūrvapadasyānaṅ | āmantritādyudāttatvam | saṃhitāyāṃ chāndasaṃ hrasvatvam | huve | hvayater laṭi uttamaikavacanam iṭ | śapi ity anuvṛttau bahulaṃ chandasīti luk | hva ity anuvṛttau bahulaṃ chandasīti saṃprasāraṇaṃ parapūrvatvam | aci śnudhātv iti [?] … uvaṅādeśaḥ | juhoter eva hi pratipadoktasya grahaṇaṃ na punar asya lākṣaṇikatvāt | iṭaḥ pratyaya-svare … rādhase | asun | nittvād ādyudāttatvam | asmān | śasi dvitīyāyāṃ ca | pā. [7-2-87] | ity ātvam | śaso naḥ | pā. [6-1-103] … jigyuṣaḥ | ji jaye | liṭaḥ kvasuś ca | pā. [3-2-107] | dvirbhāvaḥ | san-liṭor jeḥ | pā. [7-3-57] | iti dvitīyasya kutvam | kvasoḥ kittvād guṇābhāvaḥ | … vasoḥ saṃprasāraṇam | pā. [6-4-131] … kṛtam | ḍukṛñ karaṇe | loṇ-madhyama-dvivacanasya thas | loṭo laṅvat | tasthasthamipāṃ tāntantāmaḥ | pā. [3-4-101] | iti tamādeśaḥ | kartari śap | bahulaṃ chandasīti luk … ||7||*
+> *indrāvaruṇā he indrāvaruṇau vāṃ yuvāmubhāvahaṃ huve | āhvayāmi | kimartham | citrāya maṇimuktādirūpeṇa vividhāya rādhase dhanāya | tata āhutau yuvāmasmānanuṣṭhātṝnsu jigyuṣaḥ | śatruviṣaye suṣṭhu jayayuktānkṛtaṃ kurutam || indrāvaruṇā | supāṃ sulugityādinā saṃbodhanasyākāraḥ | devatādvandve ceti pūrvapadasyānaṅ | āmantritādyudāttatvam | saṃhitāyāṃ chāndasaṃ hrasvatvam | huve | hvayaterlaṭyuttamaikavacanamiṭ | śapa ityanuvṛttau bahulaṃ chandasīti luk | hva ityanuvṛttau bahulaṃ chandasīti saṃprasāraṇaṃ parapūrvatvam | aci śnudhātvityādinovaṅ | pā. 6-4-77 | na ca huśnuvorityādinā | pā. 6-4-87 | yaṇādeśaḥ | juhotereva hi pratipadoktasya tat | na punarasya lākṣaṇikatvāt | iṭaḥ pratyayasvareṇodāttatvam | pādāditvānna nighātaḥ | rādhase | asun | nittvādādyudāttatvam | asmān | śasi dvitīyāyāṃ ca | pā. 7-2-87 | ityātvam | śaso naḥ | pā. 7-1-29 | iti natvam | jigyuṣaḥ | ji jaye | liṭaḥ kvasuśceti kvasuḥ | dvirbhāvaḥ | sanliṭorjeḥ | pā. 7-3-57 | iti dvitīyasya kutvam | kvasoḥ kittvādguṇābhāvaḥ | kryādiniyamātprāptasyeṭo vasvekājādghasāmiti niyamena nivṛttiḥ | dvitīyā bahuvacanaṃ śas | bhasaṃjñāyāṃ vasoḥ saṃprasāraṇamiti saṃprasāraṇam | parapūrvatvam | eranekāca iti yaṇādeśaḥ | śāsivasighasīnāṃ ceti ṣatvam | pratyayasvareṇokāra udāttaḥ | kṛtam | ḍukṛñ karaṇe | loṇmadhyamadvivacanasya laṅvadbhāvāttamādeśaḥ | śapo bahulaṃ chandasīti luk | tiṅṅatiṅa iti nighātaḥ ||*
 
-**Translation:** "O Indra and Varuṇa! Both of you I invoke (*huve*). For what? For *citra* — various — *rādhas*, wealth (jewels, pearls and the like). Therefore, being invoked, make us, the performers [of the rite], *su jigyuṣaḥ* — well endowed with victory over enemies — *kṛtam*, do so." The rest is grammar, noted briefly: *indrāvaruṇā* (as before); *huve* (*hve*, first singular *iṭ*; *śap* dropped; *saṃprasāraṇa* "variously in the Veda", *parapūrva*; *uvaṅ*); *rādhase* (*asun*, first-syllable accent); *asmān* (*ā* for the *a* of *asmad* before the accusative plural, P. 7-2-87; *n* for the *s* of *śas*, P. 6-1-103); *jigyuṣaḥ* (*ji* "to conquer", *kvasu* in the sense of the perfect by P. 3-2-107; reduplication; *kutva* of the second *j* by P. 7-3-57 *san-liṭor jeḥ*; no guṇa because *kvasu* is *kit*; *saṃprasāraṇa* of *vas* by P. 6-4-131); *kṛtam* (*kṛ*, *loṭ* dual, *tam* by P. 3-4-101, *śap* dropped). *(Grammar, noted briefly; the sūtra numerals are as read and agree with the standard numbering where I could compare; the line beginning* aci śnudhātv… *is partly unclear [?].)*
+**Translation:** "*Indrāvaruṇā*, O Indra and Varuṇa, I call, *huve*, you both. For what? For *rādhas*, wealth, *citra*, of many kinds, in the form of gems, pearls and the like. Then, being called, *kṛtam*, make us, the performers, *su jigyuṣaḥ*, well victorious over our enemies." (Grammatical tail: *indrāvaruṇā*, *ā* for the vocative by *supāṃ suluk…*, *ānaṅ* for the first member by *devatādvandve ca*, initial udātta of the vocative, shortened in the Saṃhitā as a Vedic form; *huve*, 1st singular *iṭ* of *laṭ* after *hve*, the *śap* dropped by *bahulaṃ chandasi*, *saṃprasāraṇa* by *bahulaṃ chandasi* with *hvaḥ* carried on, the *pūrvarūpa*, *uvaṅ* by Pā. 6-4-77; not *yaṇ* by *huśnuvoḥ…* (Pā. 6-4-87), which is for the *pratipadokta* *juhoti* only, not for this, which is *lākṣaṇika*; *iṭ* udātta by the suffix accent, not lowered at the start of the *pāda*; *rādhase*, *asun*, initial udātta as *nit*; *asmān*, *ā* by Pā. 7-2-87, *n* by *śaso naḥ* (Pā. 7-1-29); *jigyuṣaḥ*, *ji jaye*, *kvasu* for *liṭ*, doubling, the guttural for the second by Pā. 7-3-57, no *guṇa* as *kvasu* is *kit*, the *iṭ* due by the *kryādi-niyama* withdrawn by the restriction *vasv ekājādghasām*, accusative plural *śas*, *saṃprasāraṇa* by *vasoḥ saṃprasāraṇam* in the *bha* stem, the *pūrvarūpa*, *yaṇ* by *er anekācaḥ*, *ṣ* by *śāsivasighasīnāṃ ca*, the *u* udātta by the suffix accent; *kṛtam*, *ḍukṛñ karaṇe*, *tam* for the 2nd dual of *loṭ* as it is treated as *laṅ*, *śap* dropped by *bahulaṃ chandasi*, wholly unaccented by *tiṅṅatiṅaḥ*.)
 
-**Grammar pages (pp. 738–739), noted briefly.** The Kannada treats *huve* (*hveñ*, *ātmanepada* by the *ñ*-mark; *laṭ*, first singular *iṭ*; *ṭita ātmanepadānāṃ ṭer e*; *śap* with *luk* by P. 2-4-73; *hvaḥ saṃprasāraṇam* P. 6-1-32 with *bahulaṃ chandasi*; *saṃprasāraṇāc ca* P. 6-1-108 *pūrvarūpa*; *hu* + *i*; the long scholastic discussion whether *uvaṅ/yaṇ* applies by P. 6-4-87 *hu-śnuvoḥ sārvadhātuke* — whether *hu* here is the *lākṣaṇika* (derived) *hu* from *hve* or the *pratipadokta* root *hu* "to offer", the conclusion being that only the root *hu* "to offer" is meant, so no *yaṇ* and *uv* is [read] by P. 6-4-77; the suffix *iṭ* has suffix accent; the verb is not unaccented as it begins the *pāda*, P. 8-1-18/19 does not apply), *rādhase* (*rādh* + *asun*), *asmān* (*asmad* + *śas*; *śaso 'ta* ... *ā* for the end of *asmad* by P. 7-2-87 *dvitīyāyāṃ ca*; *śasaḥ na* by P. 7-1-29 *śaso na*; *ādeḥ parasya* P. 1-1-54 so the *n* replaces the *s*; *saṃyogāntasya lopaḥ* P. 8-2-23 drops the *s* — *asmān*), *jigyuṣaḥ* (*liṭ*, *kvasu* by P. 3-2-107 *kvasuś ca*; doubling P. 6-1-8; *iṭ* would come by P. 7-2-67 *vasv ekājādghasām* optionally, barred where the root is not one that *kryādi* bars [as read]; *saṃprasāraṇa* of *vas* before *śas* by P. 6-4-131 *vaso saṃprasāraṇam*; *bha*-name by P. 1-4-18; *halaḥ*; *yaṇādeśa* by P. 6-4-82; *ṣatva* by P. 8-3-59; *visarga*; *su jigyuṣaḥ kṛtam* with the *s* of *jigyuṣas* before *k* — the Kannada discusses the *visarga* and the *s* in the Saṃhitā text *jigyuṣaskṛtam* — by P. 8-3-35/40 *kaskādiṣu ca*… *sas* retained [as read]), and *kṛtam* (*ḍukṛñ karaṇe*; *loṭ*; *loṭo laṅvat* P. 3-4-85; *thas* → *tam* P. 3-4-101; *śap* with the *tanādi*'s *u* by P. 3-1-79 *tanādikṛñbhya uḥ* — barred in the Veda by *sarve vidhayaś chandasi vikalpyante*, whence *kṛtam*; wholly unaccented by P. 8-1-28). ॥7॥ *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 736)*
-
-**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **वाम् (vām)** — both of you | **अहम् (aham)** — I (the performer of the rite) | **चित्राय (citrāya)** — of various kinds (thunderbolt, jewels and the like) | **राधसे (rādhase)** — for wealth | **हुवे (huve)** — I invoke | **अस्मान् (asmān)** — us (the performers) | **सु जिग्युषः (su jigyuṣaḥ)** — those who are well endowed with victory | **कृतम् (kṛtam)** — make.
+**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **वाम् (vām)** — you two | **अहम् (aham)** — I (the performer) | **चित्राय (citrāya)** — of various forms (diamond, lapis lazuli and the like) | **राधसे (rādhase)** — for wealth | **हुवे (huve)** — I call (you, being called thus) | **अस्मान् (asmān)** — us (the performers) | **सु जिग्युषः (su jigyuṣaḥ)** — as good victors | **कृतम् (kṛtam)** — make.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Varuṇa! I praise you with hymns and invoke you. Give us various kinds of wealth, such as the thunderbolt and the like, and make us victorious over our enemies.
+O Indra and Varuṇa, we praise you with hymns and call you. Give us various kinds of goods such as diamonds and lapis lazuli, and make us conquer our enemies.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Indra and Varuna, I invoke you for several kinds of wealth ; make us victorious (over our enemies).
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 737)*
+### Page 737 — Rik 7: Special Topics and grammar
 
-**इन्द्रावरुणा (indrāvaruṇā)** — though the last letter of this word is long, it is shortened in the Saṃhitā for the sake of the metre. As in this, so in the 1st and 8th [as printed: "೮, ೯ನೇ"] riks of this sūkta, the last letter of this word is short in the Saṃhitā.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**चित्राय (citrāya)** — the commentator says "of various kinds, in the form of jewels, pearls and so on". Rather than saying so, it would be more natural to say "various forms of wealth: cattle, food and other useful kinds of wealth". In that age, one may say, the need for cows, food, victory over enemies and the like was greater than for jewels and pearls.
+**Indrāvaruṇā**: though the last syllable of this word is long, in the Saṃhitā-pāṭha it is short to suit the metre. In the same way, in the 3rd ṛk of this sūkta and in the 8th and 9th ṛks too, the last syllable of this word is short in the Saṃhitā-pāṭha.
 
-**जिग्युषः (jigyuṣaḥ)** — *ji jaye*; *śatruviṣaye suṣṭhu jayayuktān*: those who have the power to conquer enemies.
+**Citrāya**: the commentator says "*maṇimuktādirūpeṇa vividhāya*", various, in the form of gems, pearls and the like. Rather than saying this, it would be more fitting to say various useful riches such as wealth, cattle and food. It may freely be said that for the ṛṣis of that time the need for cows, food, victory over enemies and the like was greater than for wealth such as gems and pearls.
+
+**Jigyuṣaḥ**: *ji jaye*;
+
+> शत्रुविषये सुष्ठु जययुक्तान् ॥
+>
+> *śatruviṣaye suṣṭhu jayayuktān ||*
+
+("Well endowed with victory over enemies.") The sense is: possessed of the power to conquer enemies.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 737–740, noted briefly)*
+
+**इन्द्रावरुणा (*indrāvaruṇā*)**: *indraś ca varuṇaś ca*, a *dvandva* compound. For the vocative dual suffix *au*, by "supāṃ suluk…" (Pā. sū. 7-1-39) the substitute *ā*. By "devatādvandve ca" (Pā. sū. 6-3-26) the first member takes *ānaṅ*. Since it stands at the start of a *pāda*, it is not wholly unaccented by the eighth-chapter *āmantritasya ca*; by the sixth-chapter *āmantritasya ca* it is initial udātta. In the Saṃhitā it is shortened as a Vedic form.
+
+**हुवे (*huve*)**: the root *hveñ spardhāyāṃ śabde ca*. Since it is *ñit*, it is *ātmanepadin* when the fruit goes to the agent; *laṭ*, and in its place the 1st singular *iṭ*: *hve* + *i*; *śap* by *kartari śap*. In "bahulaṃ chandasi" (Pā. sū. 2-4-73) the word *śapaḥ* is carried on from *adiprabhṛtibhyaḥ śapaḥ*; so, since in the Veda *śap* takes *luk* variously, *śap* takes *luk*. In "bahulaṃ chandasi" (Pā. sū. 6-1-34) the sūtra "hvaḥ saṃprasāraṇam" (Pā. sū. 6-1-32) is carried on: in the Veda the root *hveñ* takes *saṃprasāraṇa* variously, so *saṃprasāraṇa*, *u* for *v*. By "saṃprasāraṇāc ca" (Pā. sū. 6-1-108) the *pūrvarūpa*: *hu* + *i*. By "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau" (Pā. sū. 6-4-77) the substitute *uvaṅ*: *huve*. Here, with *hu* + *i*, one may doubt that *yaṇ* should come, since by "huśnuvoḥ sārvadhātuke" (Pā. sū. 6-4-87), before a vowel-initial *sārvadhātuka* suffix, the *u*, not preceded by a conjunct, of the root *hu* and of a many-voweled *aṅga* ending in the suffix *śnu*
+
+### Page 738 — Rik 7: grammar
+
+takes the substitute *yaṇ*. But in the sūtra *huśnuvoḥ* only the *pratipadokta* *hu* is taken, not the *lākṣaṇika* *hu*. *Lakṣaṇa* means sūtra; *lakṣaṇena nirvṛttaṃ lākṣaṇikam*: what is produced with the help of a sūtra is called *lākṣaṇika*. Here *hu* is produced from the root *hve* with the help of sūtras such as *bahulaṃ chandasi*; so it is *lākṣaṇika*. The root *hu dānādanayoḥ* is not produced in this way with the help of a sūtra; so it is not *lākṣaṇika*. In *huśnuvoḥ* the word *hu* takes the *pratipadokta* root *hu dānādanayoḥ*, by
+
+> लक्षणप्रतिपदोक्तयोः प्रतिपदोक्तस्यैव ग्रहणम्
+>
+> *lakṣaṇapratipadoktayoḥ pratipadoktasyaiva grahaṇam*
+
+("Of the *lākṣaṇika* and the *pratipadokta*, only the *pratipadokta* is taken", *paribhāṣā* "114" [?].) So *yaṇ* does not come by *huśnuvoḥ* for the *hu* derived from the *lākṣaṇika* root *hveñ*. *Anekācaḥ*, carried on from *er anekācaḥ*, qualifies the *aṅga*; since *śnu* is a suffix, the *tadanta* is obtained. *Huśnuvoḥ*, with *aṅgasya* carried on and changed into *aṅgayoḥ*, qualifies it; by "yena vidhis tadantasya" (Pā. sū. 1-1-72) the *tadanta* is obtained. Thus the sense of *huśnuvoḥ* is: the *u*, not preceded by a conjunct, of an *aṅga* that ends in the root *hu* or in the suffix *śnu* and has more than one vowel takes *yaṇ*. So with *hu* + *i*, since the *aṅga* does not have more than one vowel, the *yaṇ* enjoined by *huśnuvoḥ* has no scope at all. It may be said, rightly, that the Vedabhāṣyakāra barred the *yaṇ* by the *lakṣaṇa-pratipadokta* *paribhāṣā* either by the maxim "*upāyasya upāyāntarādūṣakatvam*" (one means does not spoil another) or on the view that rejects the mention of *anekāc*. The *iṭ* is a suffix, so it is udātta by the suffix accent. Since "anudāttaṃ sarvam apādādau" (Pā. sū. 8-1-18) excludes the start of a *pāda*, *huve*, standing at the start of a *pāda*, is not wholly unaccented by *tiṅṅatiṅaḥ*.
+
+**राधसे (*rādhase*)**: *rādha saṃsiddhau*. After it the suffix *asun* by "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]); initial udātta by the *nit* accent, *ñnityādir nityam*.
+
+**अस्मान् (*asmān*)**: after the word *asmad* the accusative plural *śas*; the *ś* is called *it* and dropped: *asmad* + *as*. By "dvitīyāyāṃ ca" (Pā. sū. 7-2-87), when an accusative ending follows, the last letter of *yuṣmad* and *asmad* takes *ā*: *ā* for *d*: *asma* + *ā* + *as*; lengthening of like vowels: *asmā* + *as*. By "śaso na" (Pā. sū. 7-1-29) *n* is substituted for the *śas* after *yuṣmad* and *asmad*; that substitute, which would come by *alo 'ntyasya*, comes for the *a* of *as* by its exception "ādeḥ parasya" (Pā. sū. 1-1-54). *Asmān* + *s*: by "saṃyogāntasya lopaḥ" (Pā. sū. "0-2-23" [as printed, for 8-2-23]) the *s* drops: *asmān*.
+
+### Page 739 — Rik 7: grammar
+
+**जिग्युषः (*jigyuṣaḥ*)**: the root *ji jaye*; *liṭ*, and for it the substitute *kvasu* by "kvasuś ca" (Pā. sū. 3-2-107). By "liṭi dhātor anabhyāsasya" (Pā. sū. 6-1-8) doubling: *ji* + *ji* + *vas*. By "sanliṭor jeḥ" (Pā. sū. 7-3-57), what follows the *abhyāsa* of the root *ji*, conditioned by *san* or *liṭ*, takes a guttural: *g* for *j*: *ji* + *gi* + *vas*. The suffix *vas* is a *val*-initial *ārdhadhātuka*; so the augment *iṭ* is due by "ārdhadhātukasyeḍ valādeḥ" (Pā. sū. 7-2-35); for that the bar comes by "ekāca upadeśe 'nudāttāt" (Pā. sū. 7-2-10). Again, by "kṛsṛbhṛvṛstudrusruśruvo liṭi" (Pā. sū. 7-2-13), whatever bars to *iṭ* there are, based on the base and on the suffix, if they come in the *liṭ*, come only for the roots *kṛ*, *sṛ* and the rest. By the *kryādi-niyama*, that for the *liṭ* after roots other than the *kṛ-ādi* the bar to the augment *iṭ* does not come, the bar does not come for the *liṭ* *vas* after the root *ji*, which is not of the *kṛ-ādi*. So the augment *iṭ* is due. For this, by "vasv ekājādghasām" (Pā. sū. 7-2-67), in the view where *iṭ* comes to *vas*, only for the *vas* after a root of one vowel after doubling, a root ending in *ā*, and the root *ghas*, does *iṭ* come; for *vas* after other roots *iṭ* does not come: by this restriction it is withdrawn. After *jigivas* the accusative plural *śas*: *jigivas* + *as*; by "yaci bham" (Pā. sū. 1-4-18) it is called *bha*. By "vasoḥ saṃprasāraṇam" (Pā. sū. 6-4-131) a *bha* stem ending in the suffix *vasu* takes *saṃprasāraṇa*: *u* for *v*; the *pūrvarūpa* by *saṃprasāraṇāc ca*: *jigi* + *us* + *as*; by "er anekācaḥ" (Pā. sū. 6-4-82) *yaṇ*, *y* for *i*; by "ādeśapratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for *s*. For the *s* of the suffix *vas*, it was made clear before that *ṣ* does not come by "śāsivasighasīnāṃ ca" (Pā. sū. 8-3-60). *Ru* and visarga. With *jigyuṣaḥ* + *kṛtam*, by "kaḥkarat-karati-kṛdhi-kṛteṣv anaditeḥ" (Pā. sū. 8-3-50), for a visarga not after the word *aditi*, when *kaḥ* and the rest follow, *s* comes: so *s*. Though the commentators have explained *kṛta* as ending in the suffix *kta*, there is no harm if this too is taken; but there is no sufficient proof that only the *kta*-final must be taken. *Kṛta* means a word having the sequence *kṛ-ta*. Such a sequence exists both when the suffix [*kta*] has come and when the form is derived as explained below. Here, since nothing is specified, both are taken. In *jigyuṣaḥ* the *u* is udātta by the suffix accent.
+
+**कृतम् (*kṛtam*)**: the root *ḍukṛñ karaṇe*. *Loṭ*, 2nd dual *thas*. By "loṭo laṅvat" (Pā. sū. 3-4-85) it is treated as *laṅ*, and by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū.
+
+### Page 740 (upper) — Rik 7: grammar (end)
+
+3-4-101) *tam* for *thas*: *kṛtam*. The *śap* that comes by *kartari śap* takes *luk* by "bahulaṃ chandasi" (Pā. sū. 2-4-73). Although here the *vikaraṇa* *u* is due by "tanādikṛñbhya uḥ" (Pā. sū. 3-1-79), the exception to *kartari śap*, it does not come, since it is optional by "sarve vidhayaś chandasi vikalpyante" (*paribhāṣā* "75" [as read, ?; elsewhere 35]). To avoid these difficulties it might be said to be *kta*-final; but in that view the intended total unaccentedness is not obtained. So it cannot be described as *kta*-final. If it is set out as a *tiṅanta* in the way stated above, it becomes wholly unaccented by *tiṅṅatiṅaḥ*.
+
+**॥७॥**
+
+---
 
 ### Pages 740–742 — Sūkta 17, Rik 8
 
