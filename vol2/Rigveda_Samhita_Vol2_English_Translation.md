@@ -17513,53 +17513,91 @@ In the Veda, by this sūtra, *saṃprasāraṇa* of the *r*, *ṛ*, and the loss
 
 ---
 
-### Pages 795–798 — Sūkta 19, Rik 5
+### Page 795 (lower) — Sūkta 19, Rik 5
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये शुभ्रा घोरवर्पसः सुक्षत्रासो रिशादसः ।
-> मरुद्भिरग्न आ गहि ॥५॥
+> ये शु॒भ्रा घो॒रव॑र्पसः सुक्ष॒त्रासो॑ रि॒शाद॑सः । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥५॥ [accent ?]
 >
-> *ye śubhrā ghoravarpasaḥ sukṣatrāso riśādasaḥ |*
-> *marudbhir agna ā gahi ||5||*
+> *ye śubhrā́ ghorávarpasaḥ sukṣatrā́so riśā́dasaḥ |* [accent ?]
+> *marúdbhir agna ā́ gahi ||5||* [accent ?]
+
+*(Read as printed: bars under शु, घो, क्ष, रि, म and ग्न; strokes over व, सो, द, द्भि and ग.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > ये । शुभ्राः । घोरऽवर्पसः । सुऽक्षत्रासः । रिशादसः ॥
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥५॥
 >
-> *ye | śubhrāḥ | ghora-varpasaḥ | su-kṣatrāsaḥ | riśādasaḥ ||*
-> *marut-bhiḥ | agne | ā | gahi ||5||*
+> *ye | śubhrāḥ | ghora 'varpasaḥ | su 'kṣatrāsaḥ | riśādasaḥ ||*
+> *marut 'bhiḥ | agne | ā | gahi ||5||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+### Page 796 — Rik 5: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 796; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> ये मरुतः शुभ्रत्वादिगुणोपेताः शास्त्रैर्मरुद्धिरित्यन्वयः । शुभ्राः शोभना घोरवर्पसः उग्ररूपधराः सुक्षत्रासः शोभनधनोपेता रिशादसो हिंसकानां भक्षकाः । मघमित्यादिष्वष्टाविंशतिसंख्याकेषु धननामसु क्षत्रं भगे इति पठितम् ॥ शुभ्राः । स्वायुतंचेत्यादिना शुभेराणादिको रक्त्यैयः [?] । प्रत्ययस्वरः । घोरवर्पसः । घोरं वर्पो येषां बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सुक्षत्रासः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । आद्युदात्तं द्व्यच्छन्दसि । पा. [६-२-११९] । इत्येव तु न भवति । क्षत्रशब्दस्यान्तोदात्तत्वात् । रिशन्ति हिंसन्तीति रिशाः । तानदन्तीति रिशादसः । सर्वधातुभ्योऽसुन्नित्यैयः । नित्स्वरेणोत्तरपदमाद्युदात्तं । कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते ॥५॥
+*(॥३६॥ closes Varga 36.)*
+
+> ये मरुतः शुभ्रत्वादिगुणोपेतास्तैर्मरुद्भिरित्यन्वयः । शुभ्राः शोभना घोरवर्पस उग्ररूपधराः सुक्षत्रासः शोभनधनोपेता रिशादसो हिंसकानां भक्षकाः । मघमित्यादिष्वष्टाविंशतिसंख्याकेषु धननामसु क्षत्रं भग इति पठितम् ॥ शुभ्राः । स्फायितञ्चीत्यादिना शुभेरौणादिको रक्प्रत्ययः । प्रत्ययस्वरः । घोरवर्पसः । घोरं वर्पो येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सुक्षत्रासः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । आद्युदात्तं द्व्यच्छन्दसि । पा. ६-२-११९ । इत्येतत्तु न भवति । क्षत्रशब्दस्यान्तोदात्तत्वात् । रिशन्ति हिंसन्तीति रिशाः । तानदन्तीति रिशादसः । सर्वधातुभ्योऽसुन्प्रत्ययः । नित्स्वरेणोत्तरपदमाद्युदात्तम् । कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते ॥३६॥
 >
-> *ye marutaḥ śubhratvādi-guṇopetāḥ śāstrair marudbhir ity anvayaḥ | śubhrāḥ śobhanā ghoravarpasaḥ ugra-rūpa-dharāḥ sukṣatrāsaḥ śobhana-dhanopetā riśādaso hiṃsakānāṃ bhakṣakāḥ | maghamity-ādiṣv aṣṭāviṃśati-saṅkhyākeṣu dhana-nāmasu kṣatraṃ bhage iti paṭhitam || śubhrāḥ | svāyutaṃ cety-ādinā śuber āṇādiko rakty-aiyaḥ [?] | pratyaya-svaraḥ | ghoravarpasaḥ | ghoraṃ varpo yeṣāṃ bahuvrīhau pūrvapada-prakṛti-svaratvam | sukṣatrāsaḥ | bahuvrīhau nañ-subhyām ity uttarapadāntodāttatvam | ādyudāttaṃ dvyac chandasi | pā. [6-2-119] | ity eva tu na bhavati | kṣatra-śabdasyāntodāttatvāt | riśanti hiṃsantīti riśāḥ | tān adantīti riśādasaḥ | sarvadhātubhyo 'sun nity aiyaḥ | nit-svareṇottarapadam ādyudāttaṃ | kṛd-uttarapada-prakṛti-svareṇa sa eva śiṣyate ||5||*
+> *ye marutaḥ śubhratvādiguṇopetāstairmarudbhirityanvayaḥ | śubhrāḥ śobhanā ghoravarpasa ugrarūpadharāḥ sukṣatrāsaḥ śobhanadhanopetā riśādaso hiṃsakānāṃ bhakṣakāḥ | maghamityādiṣvaṣṭāviṃśatisaṃkhyākeṣu dhananāmasu kṣatraṃ bhaga iti paṭhitam || śubhrāḥ | sphāyitañcītyādinā śubherauṇādiko rakpratyayaḥ | pratyayasvaraḥ | ghoravarpasaḥ | ghoraṃ varpo yeṣām | bahuvrīhau pūrvapadaprakṛtisvaratvam | sukṣatrāsaḥ | bahuvrīhau nañsubhyāmityuttarapadāntodāttatvam | ādyudāttaṃ dvyacchandasi | pā. 6-2-119 | ityetattu na bhavati | kṣatraśabdasyāntodāttatvāt | riśanti hiṃsantīti riśāḥ | tānadantīti riśādasaḥ | sarvadhātubhyo 'sunpratyayaḥ | nitsvareṇottarapadamādyudāttam | kṛduttarapadaprakṛtisvareṇa sa eva śiṣyate ||36||*
 
-**Translation:** "Those Maruts who have the qualities of brilliance and the rest — [the construction] 'with those Maruts [come]' per the śāstras — *śubhrāḥ* — beautiful, bright; *ghoravarpasaḥ* — bearing a terrible form; *sukṣatrāsaḥ* — possessed of splendid wealth; *riśādasaḥ* — devourers of the destructive [i.e. of foes who hurt]. Among the twenty-eight words for 'wealth' beginning with *magha*, *kṣatra* is read as 'wealth' [or: *kṣatraṃ bhage* — 'in the sense of fortune']." The rest is grammar, noted briefly: *śubhrāḥ* (the Uṇādi suffix after *śubh*; suffix accent); *ghoravarpasaḥ* (a bahuvrīhi, first-member accent); *sukṣatrāsaḥ* (a bahuvrīhi, final-member end-accent by P. 6-2-172, since *kṣatra* is end-accented; the rule P. 6-2-119 on first-syllable accent of a two-syllable word in the Veda is not applied); *riśādasaḥ* (*riś* "to hurt" + *ad* "to eat" + *asun*; accent of the final member). *(Grammar, noted briefly; numerals marked [?] or as read.)*
+**Translation:** "The Maruts who are endowed with qualities such as brightness: with those Maruts: that is the construction. *Śubhrāḥ*, beautiful; *ghoravarpasaḥ*, bearing fierce forms; *sukṣatrāsaḥ*, possessed of fine wealth; *riśādasaḥ*, devourers of those who do harm. *Kṣatram* and *bhagaḥ* are read among the twenty-eight names for wealth beginning *magham*." (Grammatical tail: *śubhrāḥ*, the Uṇādi suffix *rak* after *śubh* by *sphāyitañci…*, the suffix accent; *ghoravarpasaḥ*, "whose form is fierce", the first member's accent in the *bahuvrīhi*; *sukṣatrāsaḥ*, final udātta of the final member in the *bahuvrīhi* by *nañsubhyām*; *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119) does not apply, since *kṣatra* is final udātta; *riśādasaḥ*, "*riśāḥ*, those who harm; they eat them", the suffix *asun* by *sarvadhātubhyo 'sun*, the final member initial udātta by the *nit* accent, and that alone stays by the accent of the *kṛt* final member.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 796)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे) अग्ने ((he) agne)** — O Agni | **ये (ye)** — which Marut deities | **शुभ्राः (śubhrāḥ)** — endowed with the quality of brightness | **घोरवर्पसः (ghoravarpasaḥ)** — wearing a terrible form | **सुक्षत्रासः (sukṣatrāsaḥ)** — possessed of excellent wealth | **रिशादसः (riśādasaḥ)** — devourers of hostile foes (destroyers) | **मरुद्भिः (marudbhiḥ)** — with such Marut deities | **आ गहि (ā gahi)** — come here.
+**(हे) अग्ने ((he) agne)** — O Agni | **ये (ye)** — which Marut deities | **शुभ्राः (śubhrāḥ)** — endowed with qualities such as brightness | **घोरवर्पसः (ghoravarpasaḥ)** — bearing fierce forms | **सुक्षत्रासः (sukṣatrāsaḥ)** — accompanied by excellent wealth | **रिशादसः (riśādasaḥ)** — devouring (destroying) the enemies who do harm | (such) **मरुद्भिः (marudbhiḥ)** — together with the Marut deities | **आ गहि (ā gahi)** — come here.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! The Marut deities are always bright; fierce in strong form; endowed with excellent wealth; destroyers of enemies who harm. Come here with such Marut deities.
+O Agni, the Marut deities are always bright; they have fierce forms (by their nature of blowing swiftly); they have excellent wealth; they kill enemies. Come here together with such Marut deities.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, come with the Maruths who are brilliant, have frightful forms who are possessors of great wealth and destroyers of the enemies.
+> O Agni, come with the Maruths [sic] who are brilliant, have frightful forms who are possessors of great wealth and destroyers of the enemies.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 796 lower half)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**शुभ्राः (śubhrāḥ)** — *prakāśamānāḥ*, *svacchāḥ*: shining, clear (the print adds the English "brilliant, resplendent, (transparent?)").
+**Śubhrāḥ**: shining, clear: "Brilliant, resplendent, (transparent ?)" [as printed] and so on.
 
-**घोरवर्पसः (ghoravarpasaḥ)** — *ghorarūpāḥ*: *dvayor eṣāṃ nityayoḥ parasparavirodhitvāt kālabhedena yojanā*: "of two kinds, their mutual opposition to be resolved by a difference of time": *śobhanāḥ krīḍākāle* — "lovely in the time of play"; *ghorarūpāḥ saṃgrāmakāle* — "terrible in form in the time of battle"; or *krūra* (cruel) or frightful form [the print adds the English "of terrible or frightful forms"]. [The passage continues on p. 797: the grammar notes, treated below.] *(The Sanskrit of this passage is partly garbled in the print; I give it as read.)*
+**Ghoravarpasaḥ**:
 
-**Rik 5, remaining Special Topics and grammar (p. 797), noted briefly.** *Śubhrāḥ* — "shining" or "of gentle quality" (the print notes that the word may mean either "shining" or "having a gentle (*saumya*) quality"); *ghoravarpasaḥ* — "of terrible form"; the Kannada reconciles the two epithets (lovely, terrible) by a difference of time: at play they are gentle, in battle they are terrible in form. *Sukṣatrāsaḥ* — among the twenty-eight words for "wealth" beginning with *magha*, the word *kṣatra* is read (Ni. [2-10] — numeral marked [?]); so *sukṣatrāsaḥ* means "possessed of good wealth". *Riśādasaḥ* — *riśanti hiṃsantīti riśāḥ śatravaḥ*, "those who hurt are *riśāḥ*, enemies; [the Maruts] *devour* (*adanti*) them": the destroyers of hurtful enemies. *Grammar pages (p. 797 lower half), noted briefly:* *śubhrāḥ* (*śubh* with the Uṇādi *rak* of the *ujjvalādi* [? "Oṇādika"] class, Uṇ. 2-[?] *svāyuṃ taṭ śubhyo rak* [as read, partly], suffix accent); *ghoravarpasaḥ* (*vṛj-śīrj-bhyāṃ…* Uṇ. 4-[?]: *vṛj* "to cover", *śīrj*; *rūpa*; *asun* with the augment *puṭ*; *varpas* "form"; the bahuvrīhi with the first-member accent, *ghora* being end-accented); *sukṣatrāsaḥ* (*su-kṣatram* = wealth; *āj jaser asuk*; the first-member accent would apply, but *nañsubhyām* P. 6-2-172 gives end accent on the final member; the rule *ādyudāttaṃ dvyac chandasi* P. 6-2-119, for a two-syllable word, would give first-syllable accent after *su*, but does not apply because *kṣatra* is end-accented [two-syllable by *ac* count only if it is not otherwise accented]); *riśādasaḥ* (*riś hiṃsāyām*; *tān adanti* — the root *ad* after the upapada *riśa*, with *asun* by P. 3-4-… *sarvadhātubhyo 'sun* [as printed]; the upapada is end-accent; by P. 6-2-139 *gatikārakopapadāt kṛt* the accent of the final member [*kṛt*] stands). ॥5॥ *(Numerals as read; pointers only.)*
+> घोररूपाः द्वयोश्चानयोः परस्परविरोधित्वात्कालभेदेन योजना । शोभनाः क्रीडाकाले । घोररूपाः संग्रामकाले ।
+>
+> *ghorarūpāḥ dvayoścānayoḥ parasparavirodhitvātkālabhedena yojanā | śobhanāḥ krīḍākāle | ghorarūpāḥ saṃgrāmakāle |*
+
+("Of fierce forms; since these two contradict each other, they are to be joined by difference of time: beautiful at the time of play, of fierce form at the time of battle.") Having cruel or fearful forms, "of terrible or frightful forms" [as printed]. The words used in this ṛk,
+
+### Page 797 — Rik 5: Special Topics (end) and grammar
+
+*śubhrāḥ*, shining or endowed with gentle qualities, and *ghoravarpasaḥ*, having fearful forms, are they not words of mutually contradictory sense? So the sense is: gentle in nature at the time of play, and taking fierce form at the time of war.
+
+**Sukṣatrāsaḥ**: since the word *kṣatram* is read among the twenty-eight names for wealth beginning *magha* (Ni. "2-10" [as read, ?]), *sukṣatrāsaḥ* means those who have good wealth.
+
+**Riśādasaḥ**:
+
+> रिशन्ति हिंसन्तीति रिशाः शत्रवः । तानदन्तीति रिशादसः ।
+>
+> *riśanti hiṃsantīti riśāḥ śatravaḥ | tānadantīti riśādasaḥ |*
+
+("*Riśāḥ*, the enemies who harm; they eat them: *riśādasaḥ*.") The sense is: devouring, that is destroying, the enemies who do harm.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar on p. 797, noted briefly)*
+
+**शुभ्राः (*śubhrāḥ*)**: by "sphāyitañcivañciśakikṣipikṣudisṛpitṛpidṛpivandyundiśvitivṛtyajinīpadimadimudikhidichidibhidimandicandidahidasidambhivasivāśiśīṅhasisidhiśubhibhyo rak" (Uṇ. sū. "2-170" [?]), the Uṇādi suffix *rak* after the root *śubh*; the suffix accent comes.
+
+**घोरवर्पसः (*ghoravarpasaḥ*)**: by "vṛñśīṅbhyāṃ rūpasvāṅgayoḥ puṭ ca" (Uṇ. sū. "4-640" [?]), after the roots *vṛñ saṃbhaktau* and *śīṅ svapne*, when the senses form and body-part respectively are to be expressed, the suffix *asun* comes, and the augment *puṭ* for it; so after the root *vṛ* the suffix *asun* with the augment *puṭ*. *Varpaḥ* means form. *Ghoraṃ varpaḥ yeṣāṃ te ghoravarpasaḥ*; being a *bahuvrīhi*, the first member's accent; the word *ghora* is final udātta.
+
+**सुक्षत्रासः (*sukṣatrāsaḥ*)**: *sukṣatraṃ dhanaṃ yeṣāṃ te*. *Āj jaser asuk*. The first member's accent being due, by "nañsubhyām" (Pā. sū. 6-2-172), overriding it, final udātta comes. Here the word *kṣatra* stands after the word *su*. Yet the initial udātta for *kṣatra* by "ādyudāttaṃ dvyac chandasi" (Pā. sū. 6-2-119), the exception to *nañsubhyām*, does not come, because the word *kṣatra* is final udātta. "Ādyudāttaṃ dvyac chandasi" (Pā. sū. 6-2-119) means that in a *bahuvrīhi* compound a two-vowel word after the word *su*, if initial udātta, remains initial udātta. *Dvyac* means a word with two vowels. Since the word *kṣatra* is final udātta, *ādyudāttaṃ dvyac…* does not apply.
+
+**रिशादसः (*riśādasaḥ*)**: the root *riśa hiṃsāyām*; *riśanti hiṃsanti iti riśāḥ*; *riśān adanti bhakṣayanti iti riśādas*. After the root *ad*, with the word *riśa* as *upapada*, the suffix *asun* by *sarvadhātubhyo 'sun*; the final member is initial udātta by the *nit* accent; after compounding, the accent of the *kṛt* final member by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139). So the initial udātta of the final member alone stays.
+
+**॥५॥**
+
+---
 
 ### Pages 798–800 — Sūkta 19, Rik 6
 
