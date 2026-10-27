@@ -238,65 +238,119 @@ doubling and the other operations: *tatakṣuḥ*. It stands at the start of the
 
 ---
 
-### Pages 8–13 — Sūkta 20, Rik 3
+### Page 8 (lower) — Sūkta 20, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तक्षन्नासत्याभ्यां परिज्मानं सुखं रथम् ।
-> तक्षन्धेनुं सबर्दुघाम् ॥३॥
+> तक्ष॒न्नास॑त्याभ्यां॒ परि॑ज्मानं सु॒खं रथ॑म् ।
+> तक्ष॑न्धे॒नुं स॑ब॒र्दुघा॑म् ॥३॥
 >
-> *takṣan nāsatyābhyāṃ parijmānaṃ sukhaṃ ratham |*
-> *takṣan dhenuṃ sabardughām ||3||*
+> *takṣan nā́satyābhyāṃ párijmānaṃ sukháṃ rátham |*
+> *tákṣan dhenúṃ sabardúghām ||3||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > तक्षन् । नासत्याभ्याम् । परिऽज्मानम् । सुऽखम् । रथम् ॥
 > तक्षन् । धेनुम् । सबःऽदुघाम् ॥३॥
 >
-> *takṣan | nāsatyābhyām | pari-jmānam | su-kham | ratham ||*
-> *takṣan | dhenum | sabaḥ-dughām ||3||*
+> *takṣan | nāsatyābhyām | pari 'jmānam | su 'kham | ratham ||*
+> *takṣan | dhenum | sabaḥ 'dughām ||3||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā's* sukham *is read from the Kannada print; the Pada divides it* su-kham.)*
+### Page 9 — Rik 3: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 9; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> नासत्याभ्यामश्विदेवप्रीत्यर्थं रथं तक्षन् । ऋभवो देवाः किंचिद्रथमुत्तक्षन् तक्षणेन सम्पादितवन्तः । कीदृशम् । परिज्मानं परितो गन्तारं सुखं उपयुज्य [?] उपवेशने सुखकरं । किं च धेनुं काञ्चिद्गां तक्षन् । धातूनामनेकार्थत्वात्तत्र सम्पादनवाची [?] । कीदृशीं धेनुम् । सबर्दुघां सबरः क्षीरस्य दोग्ध्रीम् ॥ तक्षन् । बहुलं छन्दसीत्यडभावः । नासत्याभ्याम् । न विद्यते सत्यं ययोस्तावसत्यौ । न असत्यौ नासत्यौ । नभ्राण्नपादित्यादिना नलोपाभावः । परिज्मानम् । अजेः परिपूर्वस्य ष्णुम्नु [?] इत्यादिना । उ. [१-१५२] । मनुत्प्रत्ययः [?] । आद्युदात्तत्वं च निपातनात् । सबर्दुघाम् । सबः पयो दोग्ध्रीति सबर्दुघा । दुहः कब्घश्च । पा. [३-२-७०] । इति कप् । सबरिति रेफान्तं प्रातिपदिकं क्षीरवाचीति सम्प्रदायविदः । कपः पित्त्वादनुदात्तत्वम् । धातुस्वर एव शिष्यते । समासे कृदुत्तरपदप्रकृतिस्वरः ॥
+> नासत्याभ्यामश्विदेवप्रीत्यर्थं रथं तक्षन् । ऋभवो देवाः कंचिद्रथमतक्षन् । तक्षणेन संपादितवन्तः । कीदृशम् । परिज्मानं परितो गन्तारं सुखं उपर्युपवेशने सुखकरम् । किं च धेनुं कांचिद्गां तक्षन् । धातूनामनेकार्थत्वात्तक्षतिरत्र संपादनवाची । कीदृशीं धेनुम् । सबर्दुघां सबरः क्षीरस्य दोग्ध्रीम् ॥ तक्षन् । बहुलं छन्दसीत्यडभावः । नासत्याभ्याम् । न विद्यते सत्यं ययोस्तावसत्यौ । न असत्यौ नासत्यौ । नभ्राण्नपादित्यादिना नलोपाभावः । परिज्मानम् । अजेः परिपूर्वस्य श्वन्नुक्षन्नित्यादिना । उ. १-१५८ । मन्प्रत्ययेऽकारलोपे आद्युदात्तत्वं च निपातनात् । सबर्दुघाम् । सबः पयो दोग्धीति सबर्दुघा । दुहः कब्घश्च । पा. ३-२-७० । इति कप् । सबरिति रेफान्तं प्रातिपदिकं क्षीरवाचीति संप्रदायविदः । कपः पित्त्वादनुदात्तत्वम् । धातुस्वर एव शिष्यते । समासे कृदुत्तरपदप्रकृतिस्वरः ॥
 >
-> *nāsatyābhyām aśvi-deva-prīty-artham rathaṃ takṣan | ṛbhavo devāḥ kiṃcid ratham ut-takṣan takṣaṇena sampāditavantaḥ | kīdṛśam | parijmānaṃ parito gantāraṃ sukhaṃ upayujya [?] upaveśane sukhakaraṃ | kiṃ ca dhenuṃ kāñcid gāṃ takṣan | dhātūnām aneka-arthatvāt tatra sampādana-vācī [?] | kīdṛśīṃ dhenum | sabardughāṃ sabaraḥ kṣīrasya dogdhrīm || takṣan | bahulaṃ chandasīty aḍabhāvaḥ | nāsatyābhyām | na vidyate satyaṃ yayos tāv asatyau | na asatyau nāsatyau | nabhrāṇ-napād ity-ādinā nalopābhāvaḥ | parijmānam | ajeḥ paripūrvasya ṣṇum-nu [?] ity-ādinā | u. [1-152] | manut-pratyayaḥ [?] | ādyudāttatvaṃ ca nipātanāt | sabardughām | sabaḥ payo dogdhrīti sabardughā | duhaḥ kabghaś ca | pā. [3-2-70] | iti kap | sabar iti rephāntaṃ prātipadikaṃ kṣīra-vācīti sampradāya-vidaḥ | kapaḥ pittvād anudāttatvam | dhātu-svara eva śiṣyate | samāse kṛd-uttarapada-prakṛti-svaraḥ ||*
+> *nāsatyābhyāmaśvidevaprītyarthaṃ rathaṃ takṣan | ṛbhavo devāḥ kaṃcidrathamatakṣan | takṣaṇena saṃpāditavantaḥ | kīdṛśam | parijmānaṃ parito gantāraṃ sukhaṃ uparyupaveśane sukhakaram | kiṃ ca dhenuṃ kāṃcidgāṃ takṣan | dhātūnāmanekārthatvāttakṣatiratra saṃpādanavācī | kīdṛśīṃ dhenum | sabardughāṃ sabaraḥ kṣīrasya dogdhrīm || takṣan | bahulaṃ chandasītyaḍabhāvaḥ | nāsatyābhyām | na vidyate satyaṃ yayostāvasatyau | na asatyau nāsatyau | nabhrāṇnapādityādinā nalopābhāvaḥ | parijmānam | ajeḥ paripūrvasya śvannukṣannityādinā | u. 1-158 | manpratyaye 'kāralope ādyudāttatvaṃ ca nipātanāt | sabardughām | sabaḥ payo dogdhīti sabardughā | duhaḥ kabghaśca | pā. 3-2-70 | iti kap | sabariti rephāntaṃ prātipadikaṃ kṣīravācīti saṃpradāyavidaḥ | kapaḥ pittvādanudāttatvam | dhātusvara eva śiṣyate | samāse kṛduttarapadaprakṛtisvaraḥ ||*
 
-**Translation:** "For the Nāsatyas [the Aśvins] — for the pleasure of the Aśvin gods — they fashioned (*takṣan*) a chariot. The Ṛbhu gods, by fashioning, produced a chariot. Of what sort? *Parijmānam* — going all round, travelling everywhere; *sukham* — comfortable [the Sanskrit gloss — 'giving comfort in sitting' — is partly unclear, marked [?]]. Further, they fashioned (produced) a cow (*dhenu*). Of what sort of cow? *Sabardughām* — a giver of *sabar*, i.e. a milker of milk." The grammar, noted briefly: *takṣan* (the augment *aṭ* is absent, as 'variously in the Veda'); *nāsatyābhyām* (*na asatya* — 'those in whom there is no untruth'; the *n* of the negative is not dropped by the exception *nabhrāṇnapāt…* P. 6-3-75); *parijmānam* (*aj* 'to go' with the prefix *pari* and an Uṇādi suffix [Uṇ. 1-152, as read], with first-syllable accent by *nipātana*); *sabardughām* (*sabar* = milk, *duh* 'to milk' + *kap* by P. 3-2-70 *duhaḥ kab ghaś ca*; *kap* has *p*, so the root accent remains; the compound has the accent of its final member). *(Grammar, noted briefly; the Uṇādi number and the first-gloss words are marked [?].)*
+**Translation:** "For the Nāsatyas, for the pleasure of the Aśvin gods, *takṣan*, they fashioned, a chariot: the Ṛbhu gods fashioned a certain chariot, produced it by carving. Of what kind? *Parijman*, going around, *sukha*, pleasant for those who sit on it. And they fashioned a *dhenu*, a certain cow: since roots have many senses, *takṣ* here means producing. Of what kind is the cow? *Sabardughā*, the milker of *sabar*, milk." (Grammatical tail: *takṣan*, no augment *aṭ* by *bahulaṃ chandasi*; *nāsatyābhyām*, "they in whom there is no truth are *asatyau*; not *asatya*, *nāsatyau*", no loss of *n* by *nabhrāṇnapāt…*; *parijmānam*, after *aj* with *pari* by *śvann ukṣan…* (Uṇ. 1-158), with the suffix *man* the loss of *a* and initial udātta are given ready-made; *sabardughām*, "she milks *sabar*, milk", *kap* by *duhaḥ kab ghaś ca* (Pā. 3-2-70); those who know the tradition say *sabar* is an *r*-final stem meaning milk; *kap* unaccented as *pit*, the root accent alone stays, and in the compound the accent of the *kṛt* final member.)
 
-**Grammar pages (pp. 10 lower half–13), noted briefly.** The Kannada treats: *takṣan* (*takṣū tvakṣū tanūkaraṇe* — "to make thin, to pare"; by Patañjali's *kartary-arthadarśa* rule — P. 3-1-76 *tanūkaraṇe takṣaḥ* — *śnu* would come after the root in the sense "to make thin", but here the sense "to produce" is intended, so *śap* is used; *laṅ*, *jhi* → *an* by P. 3-4-108 *jher jus* [*jus* with *s*-drop]; *saṃyogāntasya lopaḥ* P. 8-2-23 drops the *t* of *nt*; *pūrvatrāsiddham* P. 8-2-1 explains why the conjunct-drop does not conflict with the *n*-drop rule; *nalopaḥ prātipadikāntasya* P. 8-2-7 does not apply to the *n* [since *takṣan* is a verb]; the augment *aṭ* [by P. 6-4-71 *luṅlaṅlṛṅkṣv aḍudāttaḥ*] would normally precede, but "variously in the Veda" (*bahulaṃ chandasy amāṅyoge 'pi* P. 6-4-75) it is dropped even without *mā*), *nāsatyābhyām* (*na vidyate satyaṃ yayos tau asatyau*; or *na asatyau*; the Nāsatyas are the two Aśvins, named one *Nāsatya* and the other *Dasra*, though the single word *nāsatya* is used for both [the Kannada's note]; *nalopo naññaḥ* P. 6-3-73 would drop the *n* of *nañ* before a vowel, but P. 6-3-75 *na bhrāṇnapānnavedānāsatyānamucinakulanakhanapuṃsakanakṣatranakranāsikeṣu ca* keeps it by *prakṛtibhāva*; *akaḥ savarṇe dīrghaḥ*; the *ablative-sense* use of the *bhyām* ending is noted: *nāsatyābhyām* stands in the sense of the dative [or the fourth/sixth case]), *parijmānam* (*aj gatikṣepaṇayoḥ* with prefix *pari*; thirteen words ending in *kani* are given by *nipātana* in Uṇ. 1-[?] *śvanuksan-pūṣan-plīhan-kledan-snehan-mūrdhan-majjan-arya-man-viśva-paśya-pari-jman-ity-ādi* [as read, *śvan-uksan-pūṣan-plīhan-kledan-snehan-mūrdhan-majjan-aryaman-viśvapsan-parijman-mātariśvan*…]: the Kannada explains each word of this list — *śvan* ["dog"], *ukṣan* ["bull"], *pūṣan*, *plīhan*, *kledan*, *snehan*, *mūrdhan*, *majjan*, *aryaman*, *viśvapsan*, *parijman*, *mātariśvan*, *maghavan* — with their roots and the dropping of the vowel by *nipātana*; *parijman* is explained in several ways: from *aj* + *pari* with *kani*, and the vowel *a* dropped (*parijman*); or from *aj gatikṣepaṇayoḥ* with the *man* suffix [P. 3-2-… *śvanuksan…*], *pari + aj + man*, with the *a* of the root dropped by *nipātana*, giving *parijma*, *man* being *nit*, so no first-syllable accent by P. 6-1-197 [barred because the same sūtra gives the first-syllable accent]; or *parijman* from *ju* ['to go quickly'] with *kani*: *pari-ju-man*, with the *anusvāra*/nasal… — the Kannada gives Wilson's sense of *parijman* as "moon" [*candra*] — *parijman* = *parito gantā*, the one that goes round; the commentator's view "going everywhere" is preferred; the accusative singular *am*; *sarvanāmasthāne ca asambuddhau* P. 6-4-8 lengthens: *parijmānam*), *mātariśvan* (explained as *mātari antarikṣe śvayati*, "he who goes in the sky [the Mother]": *ṭuo śvi gativṛddhyoḥ* with *kani* [the Uṇādi *kani*]; the *i* dropped by *nipātana*; the locative-ending *luk* barred by *nipātana*, giving *mātariśvan*; in P. 6-4-133 *śvayuvamaghonām ataddhite* the word *śvan* "dog" etc. is included, but not the verbal *-śvan* of *mātariśvan*, so no *saṃprasāraṇa*; so *mātariśvānam*, *mātariśvanaḥ*), *maghavan* (*mah pūjāyām*, with *kani* and *gh* for *h*, with the augment *vuk* by *nipātana*, giving *maghavan*), *sabardughām* (*sabar* is a stem ending in *r*, meaning 'milk' [the Kannada says the tradition-knowers hold *sabar* to mean milk]; *duhaḥ kab ghaś ca* P. 3-2-70 gives *kap* and *gh* for *h* after *duh* when a *subanta* is the upapada: *sabar* + *dugh* + *a* → *sabardugha*; *kap* is *pit* so unaccented by P. 3-1-4 *anudāttau suppitau*; *dhātoḥ* P. 6-1-162 gives the root *u* the accent; *upapadam atiṅ* P. 2-2-19 for the compound; *gatikārakopapadāt kṛt* P. 6-2-139; the feminine *ṭāp* by P. 4-1-4 *ajādyataś ṭāp* with *savarṇadīrgha*, the *ā* being unaccented by P. 1-1-50 *sthāne 'ntaratamaḥ*, turned *svarita* by P. 8-4-66, and the preceding sound unaccented by P. 1-2-40). ॥3॥ *(A crowded run of three-and-a-half pages; outline only; sūtra numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 9)*
-
-**नासत्याभ्याम् (nāsatyābhyām)** — for the Aśvin deities | **परिज्मानम् (parijmānam)** — going all round (able to travel in all directions) | **सुखम् (sukham)** — comfortable (easy to sit in) | **रथम् (ratham)** — a chariot | **तक्षन् (takṣan)** — [the Ṛbhus] fashioned (produced) | **(और) सबर्दुघाम् ((aur) sabardughām)** — giving milk | **धेनुम् (dhenum)** — a cow | **तक्षन् (takṣan)** — produced.
+**नासत्याभ्याम् (nāsatyābhyām)** — for the Aśvin deities | **परिज्मानम् (parijmānam)** — going everywhere (able to move in all directions) | **सुखम् (sukham)** — pleasant (to sit in) | **रथम् (ratham)** — a chariot (these Ṛbhus) | **तक्षन् (takṣan)** — made at once and gave | (and) **सबर्दुघाम् (sabardughām)** — giving milk | **धेनुम् (dhenum)** — a cow too | **तक्षन् (takṣan)** — produced and gave.
 
 **॥ Bhāvārthaḥ ॥**
 
-By their skill the Ṛbhu deities produced for the Aśvin deities a chariot that can travel anywhere, easy to ride in; and one cow that gives good milk.
+These Ṛbhu deities by their power produced and gave to the Aśvin deities a pleasant chariot able to move everywhere, and a cow that gives good milk.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > They constructed for the Nasatyas, an easy-moving chariot which is capable of moving everywhere, and a cow that gives milk.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 9–10)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-As said in the earlier rik, the extraordinary craftsmanship done by the Ṛbhu deities is also described in this rik, and in the following riks.
+As said in the previous ṛk, in this ṛk too and in the following ṛks the extraordinary works of craft done by the Ṛbhu deities are described.
 
-**तक्षन् (takṣan)** — *ataksan*; for the sake of the metre in the Veda the *a* of the verb *ataksan* is dropped and only *takṣan* is used. *Ataksan* means *sampāditavantaḥ*, *kṛtavantaḥ* — [they] fashioned; the senses "chipped, fabricated, fashioned, constructed, carved" [the print gives these English words] can be given. As said in the earlier rik, the sense is that they did not make the chariot by mere mental resolve; rather, by lifting [the materials] with their weapons and tools, they built it according to the science of craftsmanship.
+**Takṣan**: *atakṣan*. To suit the metre the *a* of the verb *atakṣan* is dropped and only *takṣan* is used. *Atakṣan* means "they produced, they made"; "built,
 
-**नासत्याभ्याम् (nāsatyābhyām)** — *na asatyau nāsatyau*: those who do not speak untruthful words are *nāsatyau*, the name of the Aśvin deities (the print adds: "*nāsatyau* or *nāsatyā*"). These Aśvin deities are two; though the custom is to call one of them *Nāsatyā* and the other *Dasra*, the custom also exists of using the single word *nāsatyā* for both. So here *nāsatyābhyām* means "for the two Aśvin deities". Here *nāsatyābhyām* is a fourth-case form, though in use as a fifth-case form [by the print's remark: though the *bhyām* ending is the one of the fifth case, it may be given the sense of the fifth or of the sixth case].
+### Page 10 — Rik 3: Special Topics (end) and grammar
 
-**परिज्मानम् (parijmānam)** — *parito gantāram* — "going everywhere"; i.e. able to move in the earth, the sky, the sea and other places. This word is an adjective of the word *ratham*.
+made, chipped, fabricated, fashioned, constructed, carved" [as printed] and other senses may be given. The intent is that, unlike in the previous ṛk where they made the chariot by mental resolve, here they carved and built the chariot with tools, according to the craft-śāstra.
 
-**सुखम् (sukham)** — comfortable ("easy-moving" [the print's English]); not tiresome to those who sit in the chariot; moving as in a *kula* [cradle?]; or fitted with a third (spare) seat [the Kannada's alternative, partly unclear].
+**Nāsatyābhyām**: *na asatyau nāsatyau (nāsatyā)*: because they are not speakers of untrue words, the Aśvin deities are named *nāsatyau* or *nāsatyā*. These Aśvin deities are two; though there is a usage calling one Nāsatya and the other Dasra, there is a usage of using the word *nāsatyā* for both. So here *nāsatyābhyām* means *aśvinoḥ*, for the Aśvin deities. Though *nāsatyābhyām* is used here in the ablative, it may be taken in the sense of the ablative or of the genitive.
 
-**धेनुम् (dhenum)** — *gām*: a cow. In general, the word *dhenu* in the Ṛgveda denotes a cow that gives milk.
+**Parijmānam**:
 
-**तक्षन् (takṣan)** — here too, *ataksan* is intended. A doubt arises here: since *takṣan* means "they carved, they fashioned," is it not impossible to make a cow with weapons and the like? Here the commentator's sense, "they produced (*sampāditavantaḥ*)", is consistent.
+> परितो गन्तारम्
+>
+> *parito gantāram*
 
-**सबर्दुघाम् (sabardughām)** — *sabaḥ kṣīrasya dogdhrīm, amṛtasya dogdhrīm*: the one who yields milk (called "*amṛta*"), or the cow that yields milk or ambrosia [the print adds the English "the cow that yields milk or ambrosia"].
+("Going around.") Able to move anywhere, that is, able to go in regions such as earth, sky and ocean. This word qualifies the word *ratham*.
+
+**Sukham**: pleasant, "easy-moving" [as printed]: the intent is that it can move without tiring or jolting those sitting in the chariot, or that it is made ready with soft seats and the like.
+
+**Dhenum**: *gām*, a cow. Generally in the Ṛgveda the word *dhenu* is used in the sense of a cow that gives milk.
+
+**Takṣan**: here too the intent is *atakṣan*. Here a doubt arises: since *takṣan* means "made, built", is it not impossible to build a cow with tools? So it is fitting that the commentator gave here the sense *saṃpāditavantaḥ*, "they procured", for the word *takṣan*.
+
+**Sabardughām**:
+
+> सबरः क्षीरस्य दोग्ध्रीम् । अमृतस्य दोग्ध्रीम् ।
+>
+> *sabaraḥ kṣīrasya dogdhrīm | amṛtasya dogdhrīm |*
+
+("The milker of *sabar*, milk; the milker of nectar.") The intent is: a cow that gives or yields milk, which is called nectar, "the cow that yields milk or ambrosia" [as printed].
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 10–13, noted briefly)*
+
+**तक्षन् (*takṣan*)**: the root *takṣū tvakṣū tanūkaraṇe*. Since roots have many senses, here the sense "producing" is meant for *takṣ*. After it *laṅ*, the 3rd plural substitute *jhi*. If the sense *tanūkaraṇa* were meant, by "tanūkaraṇe takṣaḥ" (Pā. sū. 3-1-76), before a *sārvadhātuka* in the agent sense, the *vikaraṇa* *śnu* would come after *takṣ* in the sense of paring,
+
+### Page 11 — Rik 3: grammar
+
+so the *vikaraṇa* *śnu* would be due. But since here the sense "producing" is meant, the *vikaraṇa* *śap* comes after this root of the *bhv-ādi* group: *takṣ* + *a* + *jhi*. By "jho 'ntaḥ" (Pā. sū. 7-1-3) *ant* for the *jh*; by "itaś ca" (Pā. sū. 3-4-100) the *i* drops; by "saṃyogāntasya lopaḥ" (Pā. sū. 8-2-23) the *t* at the end of the conjunct *nt* drops; by "pūrvatrāsiddham" (Pā. sū. 8-2-1) the loss of the conjunct final is *asiddha* when the loss of *n* is to be made; so the loss of *n* by "nalopaḥ prātipadikāntasya" (Sā. sū. "4-2-7" [as printed, for Pā. 8-2-7]) does not come. The *a* of the *vikaraṇa* and the *a* of the suffix take the *pararūpa*. Though the augment *aṭ* is due by "luṅlaṅlṛṅkṣv aḍ udāttaḥ" (Pā. sū. 6-4-71), by "bahulaṃ chandasy amāṅyoge 'pi" (Pā. sū. 6-4-75), in the Veda, with or without *māṅ*, the augments *aṭ* and *āṭ* come variously. The sense of *bahula* was explained before. So here the augment *aṭ* does not come: *takṣan*.
+
+**नासत्याभ्याम् (*nāsatyābhyām*)**: *na vidyate satyaṃ yayoḥ tau asatyau*: those two in whom there is no truth are called *asatyau*. *Na asatyau*: different from those who have no truth: that is the sense. In this compound, though the loss of *n* is due by "nalopo nañaḥ" (Pā. sū. 6-3-73), since by "nabhrāṇnapānnavedānāsatyā…" (Pā. sū. 6-3-75) the *nañ* of the words named in this sūtra keeps its form, the *n* does not drop. Lengthening of like vowels: *nāsatyā*.
+
+**परिज्मानम् (*parijmānam*)**: the root *aja gatikṣepaṇayoḥ*. After this root preceded by the preverb *pari*, by
+
+> श्वन्नुक्षन्पूषन्प्लीहन्क्लेदन्स्नेहन्मूर्धन्मज्जन्नर्यमन्विश्वप्सन्परिज्मन्मातरिश्वन्मघवन्निति (उ. सू. १-१५७)
+>
+> *śvannukṣanpūṣanplīhankledansnehanmūrdhanmajjannaryamanviśvapsanparijmanmātariśvanmaghavanniti (u. sū. 1-157)*
+
+(the sūtra number "1-157" as printed here; the bhāṣya gives 1-158) these thirteen words are given ready-made as ending in the suffix *kani*. *Śvan*: after the root *ṭuo śvi gativṛddhyoḥ* the suffix *kani* comes, and since this sūtra gives the loss of *i* ready-made, with the loss of *i* it is established. *Ukṣan*: the suffix *kani* after the root *ukṣa secane*. *Pūṣan*: after the root *pūṣa vṛddhau*, *kani*. *Plīhan*: the root *pliha gatau*, after it *kani*; since this sūtra gives it ready-made, the *i* in the penultimate is lengthened. *Kledan*: the root *klidū ārdrībhāve*, the suffix *kani*; by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86) *guṇa* *e* for the penultimate *i*. *Sneha*: the root *ṣṇiha prītau*, *kani*, then the *laghūpadha-guṇa*. *Mūrdhan*: the root *muha vaicittye*; after it *kani*, the penultimate *u* lengthened,
+
+### Page 12 — Rik 3: grammar
+
+*dh* for *h*, and the augment *r* (*ram*) after the *ū*: these come by the ready-made form. The analysis here is *muhyanti asmin āhate*. *Majjan*: the root *ṭumasjo śuddhau*; after it *kani*: *masj* + *an*. For the *s*, by "stoḥ ścunā ścuḥ" (Pā. sū. 8-4-40), *ś*; for that, by "jhalāṃ jaś jhaśi" (Pā. sū. 8-4-53), *j*: since by "icuyaśānāṃ tālu" *ś* too is palatal, in its place comes the palatal *j* that is part of the *pratyāhāra* *jaś*: *majjan*. This is *n*-final; following the two-form lexicon
+
+> ऊष्मया सार्धमूष्मापि मज्जोक्तो मज्जया सह
+>
+> *ūṣmayā sārdhamūṣmāpi majjokto majjayā saha*
+
+("*Ūṣman* together with *ūṣmā*; *majjan* is said together with *majjā*"), they also accept the word *majjā* as ending in *ṭāp*. *Aryaman*: after the root *māṅ māne* preceded by the word *arya*, *kani*; *aryamā* + *an*; by "āto lopa iṭi ca" (Pā. sū. 6-4-64) the loss of *ā*: *aryaman*. When the nominative singular *su* is added after it, though the penultimate lengthening that would come by "sarvanāmasthāne cāsambuddhau" (Pā. sū. 6-4-8) is withdrawn by "inhanpūṣāryamṇāṃ śau" (Pā. sū. 6-4-12), by "sau ca" (Pā. sū. 6-4-13), when the suffix *su* follows, the penultimate of a stem ending in *in*, of *han*, *pūṣan* and *aryaman* is lengthened; so the penultimate is lengthened; by "halṅyābbhyaḥ…" (Pā. sū. 6-1-68) the loss of *su*; by "nalopaḥ prā…" (Pā. sū. 8-2-7) the loss of *n*: *aryamā*. *Viśvapsan*: the root *psā bhakṣaṇe*; *viśvaṃ psāti iti viśvapsā*, meaning Agni. After the root *psā*, with the word *viśva* as *upapada*, *kani*; by "āto lopa iṭi ca" the loss of *ā*. *Parijman*: *pari jāyate iti parijmā*. The senses moon and Agni are conveyed by this word. After the root *janī prādurbhāve* preceded by *pari*, *kani*; here by the ready-made form the loss of the *a* of the root *jan* and the substitute *m* for the *n* come: *parij* + *m* + *an*: so the grammarians explain. In the manner of the Vedabhāṣya the derivation is made here in another way. After the root *aja gatikṣepaṇayoḥ* preceded by the preverb *pari*, by the sūtra "śvannukṣan…" the suffix *man*: *pari* + *aj* + *man*; by the ready-made form the *a* of the root drops: *parijman*. The suffix *man* is not *nit*, so there is no scope for initial udātta by "ñnityādir nityam"; final udātta by the suffix accent would be due. But in this very sūtra initial udātta too is given ready-made. So *parijman*, though ending in the suffix *man*, is initial udātta. At "ataḥ parijmann ā gahi" (Ṛ. saṃ. sū. 6, ṛ. 9) the Vedabhāṣyakāra, by "anyebhyo 'pi dṛśyate" (Pā. sū. 3-2-75), describes the suffix *manin* after the root *aja gatikṣepaṇayoḥ* preceded by *pari*, with the loss of *a* as a Vedic form, giving *parijman*, and says this is initial udātta by the *nit* accent (page "75" [?]). Ujjvaladatta, reading *parijvan* in the sūtra, after the *sautra* root *ju* preceded by *pari*, *kani*: *pariju* +
+
+### Page 13 — Rik 3: grammar (end)
+
+*an*, the substitute *yaṇ*: *parijvan*, meaning the moon, he explains. But since such usage is not found, this derivation is not fitting. After *parijman* the accusative singular *am*: when it comes, the penultimate is lengthened by "sarvanāmasthāne…" (Pā. sū. 6-4-8): *parijmānam*. *Mātariśvan*: *mātari*, in the sky, *śvayati*, it goes: the analysis gives *mātariśvā*. With the locative-final *mātari* as *upapada*, after the root *ṭuo śvi gativṛddhyoḥ*, *kani*; by the ready-made form the *i* of the root drops; by the ready-made form too the *luk* due by "supo dhātu…" (Pā. sū. 2-4-71) does not come for the locative in *mātari*: *mātariśvan*. In the sūtra "śvayuvamaghonām ataddhite" (Pā. sū. 6-4-133) the word *śva* takes in *śvan* meaning dog, and words ending in *śvan* meaning dog; in *mātariśvan* the *śvan* does not mean dog, so when vowel-initial endings such as *śas* are added, there is no *saṃprasāraṇa* in *mātariśvan*: only forms such as *mātariśvanaḥ*, *mātariśvanā* result. *Maghavan*: the root *maha pūjāyām*; here the suffix *kani*, *gh* for the *h*, and the augment *avuk* for the root are given ready-made: *maghavan*. In the sūtra the word *iti* means "and so on". So, according to usage, the suffix *kani* may come after other roots too. In the *daśapādī* this word *iti* is not read.
+
+**सबर्दुघाम् (*sabardughām*)**: *sabaḥ*, milk; *dogdhi*, milks: such is the analysis; *sabardughā* results. Those who know the tradition hold that *sabar* is an *r*-final stem conveying the sense milk. By "duhaḥ kab ghaś ca" (Pā. sū. 3-2-70), with a *subanta* as *upapada*, after the root *duha prapūraṇe* the suffix *kap* and *gh* for the *h* come; so after the root *duh* with the *subanta* *sabaḥ* as *upapada*, with the suffix *kap* and *gh* for *h*, *sabardugha* results. The suffix *kap* is *pit*; so by "anudāttau suppitau" (Pā. sū. 3-1-4) it is unaccented; by "dhātoḥ" (Pā. sū. 6-1-162) the *u* is udātta; after compounding with the *subanta* *sabaḥ* by "upapadam atiṅ" (Pā. sū. 2-2-19), by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) the accent of the *kṛt* final member comes, and the root's udātta stays. If the feminine is meant, by "ajādyataṣ ṭāp" (Pā. sū. 4-1-4) *ṭāp*; lengthening of like vowels with *ṭāp*; this *ā* is unaccented by "sthāne 'ntaratamaḥ" (Pā. sū. 1-1-50); it becomes svarita by "udāttād anudāttasya svaritaḥ" (Pā. sū. 8-4-66); the letter before the udātta *u* of the root is *anudātta* by "udāttasvaritaparasya sannataraḥ" (Pā. sū. 1-2-40).
+
+**॥३॥**
+
+---
 
 ### Pages 14–19 — Sūkta 20, Rik 4
 
