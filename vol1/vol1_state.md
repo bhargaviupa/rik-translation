@@ -11,7 +11,7 @@ Status of the files (as of Oct 27, 2026; folder set up from the existing files, 
 - Print build exists: `publish/out/vol1_full.pdf` (from `publish/work/vol1_clean.md`).
 
 ## To do (finishing pass by the Vol 2 method, `vol1_runbook.md`; scope ends at PDF 743)
-**Last PDF page done in the finishing pass: none yet** (next: PDF 1–100).
+**Last PDF page done in the finishing pass: none yet** (next: PDF 1–100). **Starts only after Vol 2 is done** (user, Oct 27); the scheduled task switches to Vol 1 when `vol2/vol2_state.md` says "done".
 1. Batches PDF 1–100, 101–200, 201–300, 301–400, 401–500, 501–600, 601–700, 701–743: open [?], unboxed numerals,
    other misreadings, reviewer-worklist cross-check.
 2. Saṃhitā accents of Sūktas 1–2 (18 Ṛks) checked against the print (blocks already accented, never verified; e.g.
