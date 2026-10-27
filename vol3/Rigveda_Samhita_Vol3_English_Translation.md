@@ -2302,38 +2302,99 @@ to be taken as given as a set form by this sūtra. Thus by the *nit* accent *var
 
 ---
 
-### Pages 95–98 — Sūkta 22, Rik 11
+### Page 95 (lower) — Sūkta 22, Rik 11
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+*(On this page the print has the labels exchanged: the Saṃhitā stands under the heading ॥ पदपाठः ॥ and the Pada under ॥ संहितापाठः ॥, as printed.)*
 
-> अभि नो देवीरवसा महः शर्मणा नृपत्नीः ।
-> अच्छिन्नपत्राः सचन्ताम् ॥ ११ ॥
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-*abhi no devīr avasā mahaḥ śarmaṇā nṛpatnīḥ | acchinnapatrāḥ sacantām || 11 ||*
+> अ॒भि नो॑ दे॒वीरव॑सा म॒हः शर्म॑णा नृ॒पत्नीः॑ ।
+> अच्छि॑न्नपत्राः सचन्तां ॥११॥
+>
+> *abhí no devī́r ávasā maháḥ śármaṇā nṛpátnīḥ |*
+> *ácchinnapatrāḥ sacantāṃ ||11||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Strokes over नो, व (अवसा), र्म and त्नीः; bars under अ, दे, म (महः) and नृ. Line 2: a stroke over च्छि. The print has सचंतां.)*
 
-> अभि । नः । देवीः । अवसा । महः । शर्मणा । नृऽपत्नीः । अच्छिन्नऽपत्राः । सचन्ताम् ॥ ११ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*abhi | naḥ | devīḥ | avasā | mahaḥ | śarmaṇā | nṛ-patnīḥ | acchinna-patrāḥ | sacantām || 11 ||*
+> अभि । नः । देवीः । अवसा । महः । शर्मणा । नृऽपत्नीः ॥
+> अच्छिन्नऽपत्राः । सचन्तां ॥११॥
+>
+> *abhi | naḥ | devīḥ | avasā | mahaḥ | śarmaṇā | nṛ 'patnīḥ ||*
+> *acchinna 'patrāḥ | sacantāṃ ||11||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> देवीर्देव्यो देवपत्न्योऽवसा रक्षणेन महो महता शर्मणा च सुखेन च सह नोऽस्मानभि सचन्ताम् । अभिमुख्येन सेवन्ताम् । कीदृश्यो देव्यः । नृपत्नीर्मनुष्याणां पालयित्र्यः । अच्छिन्नपत्राः अच्छिन्नपक्षाः । न हि पक्षिरूपाणां देवपत्नीनां पक्षाः केनचिच्छिद्यन्ते ॥
+*(The bhāṣya runs on to p. 96 (header Varga 6). The reference for* supāṃ supo bhavanti *is printed म० ७-१-३९, as printed.)*
 
-*devīr devyo devapatnyo 'vasā rakṣaṇena maho mahatā śarmaṇā ca sukhena ca saha no 'smān abhi sacantām | abhimukhyena sevantām | kīdṛśyo devyaḥ | nṛpatnīr manuṣyāṇāṃ pālayitryaḥ | acchinnapatrāḥ acchinnapakṣāḥ | na hi pakṣirūpāṇāṃ devapatnīnāṃ pakṣāḥ kenacic chidyante ||*
+> देवीर्देव्यो देवपत्न्योऽवसा रक्षणेन महो महता शर्मणा च सुखेन च सह नोऽस्मानभि सचन्तां । आभिमुख्येन सेवन्तां । कीदृश्यो देव्यः । नृपत्नीर्मनुष्याणां पालयित्र्यः अच्छिन्नपत्रा अच्छिन्नपक्षाः । न हि पक्षिरूपाणां देवपत्नीनां पक्षाः केनचिच्छिद्यन्ते ॥ देवीः । पुंयोगादाख्यायां । पा० ४-१-४८ । इति ङीषन्तः । प्रत्ययस्वरेणान्तोदात्तः । दीर्घाज्जसि चेति प्रतिषेधस्य वा छन्दसीति पाक्षिकस्योक्तेः पूर्वसवर्णदीर्घत्वं । अवसा । अव रक्षणे । असुन् । नित्त्वादाद्युदात्तः । महः । मह पूजायां । क्विप् । सुपां सुपो भवन्ति । म० ७-१-३९ । इति तृतीयैकवचनस्य ङसादेशः । सावेकाच इति विभक्तेरुदात्तत्वं । नृपत्नीः । समासान्तोदात्तत्वे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वं । अच्छिन्नपत्राः । न छिन्नान्यच्छिन्नानि । अव्ययपूर्वपदप्रकृतिस्वरत्वं । अच्छिन्नानि पत्राणि यासां ताः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥
+>
+> *devīrdevyo devapatnyo 'vasā rakṣaṇena maho mahatā śarmaṇā ca sukhena ca saha no 'smānabhi sacantāṃ | ābhimukhyena sevantāṃ | kīdṛśyo devyaḥ | nṛpatnīrmanuṣyāṇāṃ pālayitryaḥ acchinnapatrā acchinnapakṣāḥ | na hi pakṣirūpāṇāṃ devapatnīnāṃ pakṣāḥ kenacicchidyante || devīḥ | puṃyogādākhyāyāṃ | pā0 4-1-48 | iti ṅīṣantaḥ | pratyayasvareṇāntodāttaḥ | dīrghājjasi ceti pratiṣedhasya vā chandasīti pākṣikasyokteḥ pūrvasavarṇadīrghatvaṃ | avasā | ava rakṣaṇe | asun | nittvādādyudāttaḥ | mahaḥ | maha pūjāyāṃ | kvip | supāṃ supo bhavanti | ma0 7-1-39 | iti tṛtīyaikavacanasya ṅasādeśaḥ | sāvekāca iti vibhakterudāttatvaṃ | nṛpatnīḥ | samāsāntodāttatve prāpte parādiśchandasi bahulamityuttarapadādyudāttatvaṃ | acchinnapatrāḥ | na chinnānyacchinnāni | avyayapūrvapadaprakṛtisvaratvaṃ | acchinnāni patrāṇi yāsāṃ tāḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "May the goddesses — the wives of the gods — with their protection (*avasā*), and with great (*mahaḥ* = *mahatā*) happiness (*śarmaṇā*), attend upon us — serve us face to face. What kind of goddesses? *Nṛpatnīḥ*: the protectresses of men. *Acchinnapatrāḥ*: those whose wings are uncut; for the wings of the divine wives who are of bird form are cut by no one." *(Grammar pages 97–98, noted briefly: the words treated are* devīḥ *[*div* + *ac* by the *nandigrahipacādi* rule, P. 3-1-134, giving *deva*; the feminine by P. 4-1-48 *puṃyogād ākhyāyām* with *ṅīṣ*; the long discussion of what* puṃyogāt ākhyāyām *means — whether it includes the husband-wife relation only, or also the relation of begetter — is scholastic and is not reproduced; then* P. 6-1-102 *prathamayoḥ pūrvasavarṇaḥ* *and* 6-1-105 *dīrghāj jasi ca*, *vā chandasi* P. 6-1-106 *as pointers],* avasā *[*av rakṣaṇe* + *asun*, Uṇ. 4-[?]],* mahaḥ *[*mah pūjāyām* + *kvip*; *supāṃ suluk* P. 7-1-39 for the sixth-case ending used for the third],* nṛpatnīḥ *[P. 4-1-33* patyur no yajñasaṃyoge*; accent],* acchinnapatrāḥ *[*nañ*-compound, loss of* n *P. 6-3-73 *nalopo nañaḥ*, bahuvrīhi with accent of the first member, P. 6-2-1]; numerals as read, pointers only.)*
+**Translation:** "May the *devīḥ*, goddesses, the wives of the gods, *abhi sacantām*, attend, face to face, *naḥ*, us, *avasā*, with protection, and with *mahaḥ*, great, *śarmaṇā*, happiness. Of what kind are the goddesses? *Nṛpatnīḥ*, protectors of men; *acchinnapatrāḥ*, of uncut wings: for the wings of the wives of the gods, who have the form of birds, are not cut by anyone." (Grammatical tail: *devīḥ*, ending in *ṅīṣ* by *puṃyogād ākhyāyām* (Pā. 4-1-48), final udātta by the suffix accent; the lengthening of the like preceding vowel, since the bar *dīrghāj jasi ca* is said to be optional by *vā chandasi*; *avasā*, *ava rakṣaṇe*, *asun*, initial udātta as *nit*; *mahaḥ*, *maha pūjāyām*, *kvip*, the substitute *ṅas* for the instrumental singular by *supāṃ supo bhavanti* (as printed, Ma. 7-1-39), the case-ending udātta by *sāv ekācaḥ…*; *nṛpatnīḥ*, the compound-final udātta being due, the last member's initial udātta by *parādiś chandasi bahulam*; *acchinnapatrāḥ*, *na chinnāny acchinnāni*, the indeclinable first member's accent; 'whose wings are uncut', in the bahuvrīhi the first member's accent.)
 
-**॥ Prati-padārthaḥ ॥** **नृपत्नीः (nṛpatnīḥ)** — protectresses of men | **अच्छिन्नपत्राः (acchinnapatrāḥ)** — those with wings not cut | **देवीः (devīḥ)** — the divine wives | **अवसा (avasā)** — with protection | **महः (mahaḥ)** — with great [*mahatā*] | **शर्मणा (śarmaṇā)** — with happiness | **नः (naḥ)** — us | **अभि सचन्ताम् (abhi sacantām)** — may they principally attend [favour us].
+### Page 96 — Rik 11: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** The divine wives are the protectresses of men; they have wings that are unclipped. May such goddesses protect us and favour us with abundant happiness.
+**॥ Prati-padārthaḥ ॥**
+
+**नृपत्नीः (nṛpatnīḥ)** — who protect men | **अच्छिन्नपत्राः (acchinnapatrāḥ)** — having wings (pinions) not cut off | **देवीः (devīḥ)** — the wives of the gods | **अवसा (avasā)** — with protection | **महः (mahaḥ)** — abundant | **शर्मणा (śarmaṇā)** — and with happiness | **नः (naḥ)** — us | **अभि सचन्तां (abhi sacantāṃ)** — attend especially (favour).
+
+**॥ Bhāvārthaḥ ॥**
+
+The goddesses are able to protect men; they have uncut wings. May such ones protect us and favour us by giving abundant happiness.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > May the goddesses, the protectresses of men whose wrings [sic] are uncut come hither with their protection and support.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 96–97)* **अभि** — *ābhimukhyena*: 'principally, face to face, [in a favourable way]'. **महः** — *mahatā*: the word is in the sixth case (*ṣaṣṭhī*) used for the third, qualifying *śarmaṇā*; it means 'great, abundant'. **नृपत्नीः** — *manuṣyāṇāṃ pālayitryaḥ*: the goddesses who protect men; the divine wives mentioned in the previous rik — Hotrā, the wife of Agni; Bhāratī, the wife of Bharata (Āditya); Dhiṣaṇā, the goddess of speech. **अच्छिन्नपत्राः** — the commentator says: 'the wings of divine wives who are of bird form are cut by no one' — hence *acchinnapatrāḥ*. The author remarks that the commentator has supplied this explanation, that the word does not occur elsewhere in the Ṛgveda [as far as he finds], and that the intention behind the use of the word is not clearly understood.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**अभि (abhi)** — *ābhimukhyena |* especially, chiefly, without fail and so on.
+
+**महः (mahaḥ)** — *mahatā | tṛtīyārthe ṣaṣṭhī ||* Though this word qualifies the instrumental *śarmaṇā*, the genitive case is used here. It means abundant, much.
+
+**नृपत्नीः (nṛpatnīḥ)** — *manuṣyāṇāṃ pālayitryaḥ |* those able to protect men (the wives of the gods): the intention is the goddesses spoken of in the previous ṛk — Hotrā, wife of Agni; Bhāratī, wife of Bharata (the sun); and Dhiṣaṇā, the goddess of speech — that is, the wives of the gods.
+
+### Page 97 — Rik 11: Special Topics (end), grammar
+
+**अच्छिन्नपत्राः (acchinnapatrāḥ)** — *na hi pakṣirūpāṇāṃ devapatnīnāṃ pakṣāḥ kenacic chidyante |* Since no one cuts the wings of the wives of the gods who bear the form of birds, the commentator has explained this word as their being named *acchinnapatrāḥ*. This word is used nowhere else in the Ṛgveda except in this ṛk. What the ṛṣi intends in using this word is not clearly known.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**देवीः (devīḥ)** — after the root *divu krīḍādau*, by *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. Sū. 3-1-134), the suffix *ac* of the *pacādi* type; with *guṇa* of the light penultimate it became *deva*. Now the analysis is *devasya striyaḥ devyaḥ*. *Puṃyogād ākhyāyām* (Pā. Sū. 4-1-48): the word division is *puṃyogāt*, *ākhyāyām*. From *ajādyataṣ ṭāp* (Pā. Sū. 4-1-4) *ataḥ* is carried on. *Puṃsā yogaḥ puṃyogaḥ, tasmāt*: *puṃyogāt*, a fifth case of cause. The heading *striyām* (Pā. Sū. 4-1-3) comes in; *puṃyogāt* is construed with *striyām*. So the sense is *puṃyogād dhetoḥ striyāṃ vartamānāt*. In *ākhyāyām*, by *supāṃ supo bhavanti* (Pā. Ma. 7-1-39) the seventh case substitutes for the fifth. The word *ākhyā* means 'expressing'. 'Expressing what?' — since *puṃyogāt* is present, it comes to mean *puṃso vācakāt*. The three words *puṃs*, *yogāt*, *striyām* are present. *Puṃsā* is present, though subordinate, as a qualifier of the last member *yoga*, a part of the compound. If it is asked why it should not mean 'expressing what? — expressing the connection with a man', or *striyām ākhyāyām*, 'expressing the woman': on the first view, words like *gaṇaka*, though in the feminine through connection with a man, do not express the connection with a man; so *ṅīṣ* would fail to come there. On the second view, if the sense is 'first expressing the woman rather than the connection with a man', then, since expressing a woman is not possible without connection with a man, it would be impossible. If the sense is 'expressing the woman after the connection with a man', words in the feminine through connection with a man would by rule express women; so there would be no exclusion of others. Thus, by the rule *saṃbhavavyabhicārābhyāṃ syād viśeṣaṇam arthavat* — *saṃbhava*, fitness; *vyabhicāra*, exclusion of others — since in the first view it is not possible and in the second view there is no exclusion of others, *striyām ākhyāyām* cannot be said. So *puṃsā*, though subordinate, is construed with *ākhyāyām*: *puṃsaḥ ākhyāyām*, giving the sense 'expressing a man'. By this qualifier *ṅīṣ* does not come in words like *prasūtā*, *prajātā*. Words like *prasūtā*, caused by connection with a man, have as their ground of use a state after conception —
+
+> संभवव्यभिचाराभ्यां स्याद्विशेषणमर्थवत् ।
+>
+> *saṃbhavavyabhicārābhyāṃ syādviśeṣaṇamarthavat |*
+
+### Page 98 — Rik 11: grammar (continued)
+
+— and so, though in the feminine through connection with a man, they do not express the meaning 'man'. So the qualifier *puṃs* has a purpose in this sūtra: to prevent *ṅīṣ*. From *anyato ṅīṣ* (Pā. Sū. 4-1-40) *ṅīṣ* is carried on. *Prātipadikāt* is the heading; *ataḥ* qualifies *prātipadikāt*, so 'ending in it' is obtained. So the sense of the sūtra: after a nominal stem ending in short *a*, which, by reason of (as a mark of) connection with a man, expresses a woman and is well known as expressing a man, *ṅīṣ* comes. Here *puṃyoga* means connection with a man. Since there is no authority to take a particular one, some hold that both the connection with a man in the form of producer and produced, and the connection in the form of marriage, are intended. On their view, when *kekayasya duhitā* is meant, *ṅīṣ* comes and *kekayī* results. Others, from a study of the Bhāṣya passage (Vyā. Ma. Bhāṣya 4-1-48) —
+
+> यथैव ह्यसावकुर्वती किंचित्पापं भर्तृकृतान्बन्धनादिक्लेशाँल्लभत एवं प्रेष्यशब्दमपि लभते ।
+>
+> *yathaiva hyasāvakurvatī kiṃcitpāpaṃ bhartṛkṛtānbandhanādikleśām̐llabhata evaṃ preṣyaśabdamapi labhate |*
+
+"just as she, doing no wrong at all, receives the troubles of binding and the like caused by the husband, so she receives the word 'servant' too" — hold that this sūtra applies only to the connection with a man in the form of marriage, not to the connection in the form of producer and produced; in places like *kekayī* they hold that *ṅīṣ*, marked as of the *gaurādi* class, comes by *ṣidgaurādibhyaś ca* (Pā. Sū. 4-1-41). Some divide the word *puṃyogāt* into three words, *pum*, *yogāt*, *ākhyāyām*: *pum* ends in a dropped genitive; it is repeated and construed with both *yogāt* and *ākhyāyām*: *puṃso yogāt*, *puṃsa ākhyāyām*; the other points are as before. Even so, following the view of the author of the *Kaiyaṭa* [as printed], the two-word division has been shown. When *ṅīṣ* comes by this sūtra: *deva* + *ī*; by *yasyeti ca* (Pā. Sū. 6-4-148) the *a* is dropped; by the suffix accent this is final udātta. After the word *devī*, *jas*: *devī* + *as*; here by *prathamayoḥ pūrvasavarṇaḥ* (Pā. Sū. 6-1-102) — when the vowel of the first- or second-case endings follows a vowel of the *ak* group, the lengthening of the like preceding vowel comes as a single substitute for both — the lengthening would come, though the prohibition by *dīrghāj jasi ca* (Pā. Sū. 6-1-105) — after a long vowel, before *jas* or an *ic*-vowel, the lengthening of the like preceding vowel does not come — would apply. Yet by *vā chandasi* (Pā. Sū. 6-1-106) — in the Veda, the lengthening of the like preceding vowel comes optionally even after a long vowel before *jas* and *ic* — being laid down optionally, the lengthening comes in one alternative: it becomes *devīs*; *ru* and *visarga*.
+
+**अवसा (avasā)** — the root *ava rakṣaṇe*. By *sarvadhātubhyo 'sun* (U. Sū. 4-6-28 [?], as read) the suffix *asun*. The suffix is *nit*, so the initial udātta accent comes.
+
+**महः (mahaḥ)** — the root *maha pūjāyām*; by *kvip ca* the suffix *kvip*; by *supāṃ supo bhavanti* (Pā. Ma. 7-1-39) the instrumental singular coming after the word *mah*,
+
+### Page 99 (upper) — Rik 11: grammar (end)
+
+— *ṭā* — takes the substitute *ṅas*. By *sāv ekācas tṛtīyādir vibhaktiḥ* (Pā. Sū. 6-1-168) — when the locative plural *su* follows, after a word that has one vowel, the case-endings from the third on are udātta — the case-ending is udātta.
+
+**नृपत्नीः (nṛpatnīḥ)** — *nṝṇāṃ patnyaḥ nṛpatnīḥ*, ending in the nominative plural. Here too, by *vā chandasi*, the optional lengthening of the like preceding vowel comes. By *patyur no yajñasaṃyoge*, *n* is substituted for the *i* of the word *pati*; by *ṛnnebhyo ṅīp* (Pā. Sū. 4-1-5), *ṅīp* marked by ending in *n*; *ṅīp*, being *pit*, is unaccented. By the Uṇādi sūtra *pāter ḍatiḥ*, after the root *pā*, the suffix *ḍati* and the dropping of the *ṭi* give *pati*. By the suffix accent it is initially udātta, and this alone remains. So the word *patnī* is initially udātta; after the genitive tatpuruṣa with the word *nṛ*, the final udātta would be obtained by *samāsasya* (Pā. Sū. 6-1-223); though by *parādiś chandasi bahulam* (Pā. Sū. 6-2-199) the sense of this sūtra is that in the Veda the beginning of the following word is optionally udātta, here the author of the *vārttika* has collected the meaning of the word *bahula*:
+
+> परादिश्च परान्तश्च पूर्वान्तश्चापि दृश्यते । पूर्वादयश्च दृश्यन्ते व्यत्ययो बहुलं यतः ॥
+>
+> *parādiśca parāntaśca pūrvāntaścāpi dṛśyate | pūrvādayaśca dṛśyante vyatyayo bahulaṃ yataḥ ||*
+
+— "the beginning of the following, the end of the following, and the end of the preceding are also seen; and the beginnings of the preceding are seen: for the interchange is manifold." Examples: for the beginning of the following, *tu vijātā urukṣayā* (Ṛ. Saṃ. 1-2-9); for the end of the following, *ni yena muṣṭihatyayā*, *yas tricakraḥ* (Ṛ. Saṃ. 1-8-2); for the end of the preceding, *viśvāyur dhehi*. By this *vārttika*, as in *urukṣayā*, here too the beginning of the last member becomes udātta.
+
+**अच्छिन्नपत्राः (acchinnapatrāḥ)** — *na chinnāni*: by *nañ* (Pā. Sū. 2-2-6) the *nañ* compound; by *nalopo nañaḥ* (Pā. Sū. 6-3-73) the *n* is dropped: it becomes *acchinnāni*. *Acchinna* is a tatpuruṣa with an indeclinable first member; so, overriding the final udātta by *samāsasya*, by *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* (Pā. Sū. 6-2-2) the indeclinable first member keeps its own accent. *Acchinnāni patrāṇi yāsāṃ tāḥ acchinnapatrāḥ*: a bahuvrīhi compound. Here by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 3-2-1, as printed) the first member's own accent comes. ॥11॥
 
 ---
 
