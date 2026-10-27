@@ -12468,55 +12468,95 @@ that is, by the earlier statement *vāla-mūla…* the *r* for the *l* is laid d
 
 ---
 
-### Pages 603–607 — Sūkta 14, Rik 6
+### Page 603 (lower) — Sūkta 14, Rik 6
+
+*(Saṃhitā accents as printed; Pada unaccented. The print has देवान्त्सोम; the grammar on p. 607 says that by its derivation the mantra should read देवान्थ्सोम.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> घृतपृष्ठा मनोयुजो ये त्वा वहन्ति वह्नयः ।
-> आ देवान्त्सोमपीतये ॥६॥
+> घृ॒तपृ॑ष्ठा मनो॒युजो॒ ये त्वा॒ वह॑न्ति॒ वह्न॑यः ।
+> आ दे॒वान्त्सोम॑पीतये ॥६॥
 >
-> *ghṛtapṛṣṭhā manoyujo ye tvā vahanti vahnayaḥ |*
-> *ā devān somapītaye ||6||*
+> *ghṛtápṛṣṭhā manoyújo yé tvā váhanti váhnayaḥ |*
+> *ā devā́nt sómapītaye ||6||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > घृतऽपृष्ठाः । मनःऽयुजः । ये । त्वा । वहन्ति । वह्नयः ॥
 > आ । देवान् । सोमऽपीतये ॥६॥
 >
-> *ghṛta-pṛṣṭhāḥ | manaḥ-yujaḥ | ye | tvā | vahanti | vahnayaḥ ||*
-> *ā | devān | soma-pītaye ||6||*
+> *ghṛta 'pṛṣṭhāḥ | manaḥ 'yujaḥ | ye | tvā | vahanti | vahnayaḥ ||*
+> *ā | devān | soma 'pītaye ||6||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+### Page 604 — Rik 6: bhāṣya, word-meanings, overall sense, English
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 604; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे अग्ने त्वा त्वां ये ऽश्वास्त्वा रथेन वहन्ति । कीदृशाः । घृतपृष्ठाः । पुष्टाङ्गत्वेन दीप्तपृष्ठा मनोयुजो मनःसंकल्पमात्रेण रथे युज्यमानाः वह्नयो वोढारः तैरश्वैः सोमपीतये सोमपानयोगार्थं देवानावहेति शेषः ॥ घृतपृष्ठाः । घृ क्षरणदीप्त्योः । घृतं दीप्तं पृष्ठं येषां ते घृतपृष्ठाः । घृतशब्दः प्रत्ययस्वरेणान्तोदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । मनसा युञ्जते इति मनोयुजः । ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च । पा. ३-२-५९ [?] । इति क्विन् । कृदुत्तरपदप्रकृतिस्वरत्वम् । त्वा । त्वामौ द्वितीयायाः । पा. ८-१-२३ । इत्यनुदात्तस्त्वादेशः । वहन्ति । शप्लुगोरनुदात्तत्वाद्धातुस्वरः [?] । यद्वृत्तयोगान्निघाताभावः । वह्नयः । नि [इति] अनुवृत्तौ वहिश्रिश्रुयुद्रुग्लाहात्वरिभ्यो निः । उ. ४-[?] । इति निप्रत्ययः । तस्य नित्त्वादाद्युदात्तत्वम् । सोमपीतये । उक्तम् । … धुडागमः । खरि च । पा. ८-४-५५ । इति चर्त्वम् । चयो द्वितीयाः शरि पौष्करसादेः [वार्त्तिक] । इति द्वितीयस्थकारः ॥६॥
+> हे अग्ने त्वा त्वां ये ऽश्वा रथेन वहन्ति । कीदृशाः । घृतपृष्ठाः । पुष्टाङ्गत्वेन दीप्तपृष्ठा मनोयुजो मनःसंकल्पमात्रेण रथे युज्यमाना वह्नयो वोढारः । तैरश्वैः सोमपीतये सोमपानयागार्थं देवाना वहेति शेषः ॥ घृतपृष्ठाः । घृ क्षरणदीप्त्योः । घृतं दीप्तं पृष्ठं येषां ते घृतपृष्ठाः । घृतशब्दः प्रत्ययस्वरेणान्तोदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । मनसा युञ्जत इति मनोयुजः । ऋत्विग्दधृगित्यादिना क्विन् । कृदुत्तरपदप्रकृतिस्वरत्वं । त्वा । त्वामौ द्वितीयाया इत्यनुदात्तस्त्वादेशः । वहन्ति । शप्तिपोरनुदात्तत्वाद्धातुस्वरः । यद्वृत्तयोगान्निघाताभावः । वह्नयः । निरित्यनुवृत्तौ वहिश्रिश्रुयुद्रुग्लाहात्वरिभ्यो नित् । उ. ४-५१ । इति निप्रत्ययः । तस्य नित्त्वादाद्युदात्तत्वं । सोमपीतये । उक्तं । सकारे परतो नकारस्य संहितायां नश्च । पा. ८-३-३० । इति धुडागमः । खरि च । पा. ८-४-५५ । इति चर्त्वं । चयो द्वितीयाः शरि पौष्करसादेः । पा. ८-४-४८-३ । इति द्वितीयस्थकारः ॥ २६ ॥
 >
-> *he agne tvā tvāṃ ye 'śvās tvā rathena vahanti | kīdṛśāḥ | ghṛtapṛṣṭhāḥ | puṣṭāṅgatvena dīpta-pṛṣṭhā manoyujo manaḥ-saṃkalpa-mātreṇa rathe yujyamānāḥ vahnayo vodhāraḥ tair aśvaiḥ somapītaye soma-pāna-yogārthaṃ devān āvaheti śeṣaḥ || ghṛtapṛṣṭhāḥ | ghṛ kṣaraṇa-dīptyoḥ | ghṛtaṃ dīptaṃ pṛṣṭhaṃ yeṣāṃ te ghṛtapṛṣṭhāḥ | ghṛta-śabdaḥ pratyaya-svareṇāntodāttaḥ | bahuvrīhau pūrvapada-prakṛti-svaratvam | manasā yuñjate iti manoyujaḥ | ṛtvig-dadhṛk-sraj-dig-uṣṇig-añcu-yuji-kruñcāṃ ca | pā. 3-2-59 [?] | iti kvin | kṛd-uttarapada-prakṛti-svaratvam | tvā | tvāmau dvitīyāyāḥ | pā. 8-1-23 | ity anudāttas tvādeśaḥ | vahanti | śap-lugor anudāttatvād dhātu-svaraḥ [?] | yad-vṛtta-yogān nighātābhāvaḥ | vahnayaḥ | ni [iti] anuvṛttau vahi-śri-śru-yu-dru-gla-hā-tvaribhyo niḥ | u. 4-[?] | iti ni-pratyayaḥ | tasya nittvād ādyudāttatvam | somapītaye | uktam | … dhuḍāgamaḥ | khari ca | pā. 8-4-55 | iti cartvam | cayo dvitīyāḥ śari pauṣkarasāder [vārttika] | iti dvitīya-sthakāraḥ ||6||*
+> *he agne tvā tvāṃ ye 'śvā rathena vahanti | kīdṛśāḥ | ghṛtapṛṣṭhāḥ | puṣṭāṅgatvena dīptapṛṣṭhā manoyujo manaḥsaṃkalpamātreṇa rathe yujyamānā vahnayo voḍhāraḥ | tairaśvaiḥ somapītaye somapānayāgārthaṃ devānā vaheti śeṣaḥ || ghṛtapṛṣṭhāḥ | ghṛ kṣaraṇadīptyoḥ | ghṛtaṃ dīptaṃ pṛṣṭhaṃ yeṣāṃ te ghṛtapṛṣṭhāḥ | ghṛtaśabdaḥ pratyayasvareṇāntodāttaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | manasā yuñjata iti manoyujaḥ | ṛtvigdadhṛgityādinā kvin | kṛduttarapadaprakṛtisvaratvaṃ | tvā | tvāmau dvitīyāyā ityanudāttastvādeśaḥ | vahanti | śaptiporanudāttatvāddhātusvaraḥ | yadvṛttayogānnighātābhāvaḥ | vahnayaḥ | nirityanuvṛttau vahiśriśruyudruglāhātvaribhyo nit | u. 4-51 | iti nipratyayaḥ | tasya nittvādādyudāttatvaṃ | somapītaye | uktaṃ | sakāre parato nakārasya saṃhitāyāṃ naśca | pā. 8-3-30 | iti dhuḍāgamaḥ | khari ca | pā. 8-4-55 | iti cartvaṃ | cayo dvitīyāḥ śari pauṣkarasādeḥ | pā. 8-4-48-3 | iti dvitīyasthakāraḥ || 26 ||*
 
-**Translation:** "O Agni! The horses that carry you, by chariot — of what kind are they? *Ghṛtapṛṣṭhāḥ*: with glossy backs, shining because their bodies are well nourished; *manoyujaḥ*: yoked to the chariot by the mere purpose of the mind; *vahnayaḥ*: bearers. With those horses, bring the gods (the verb *ā vaha* is to be supplied) to share in the drinking of the soma." The rest is grammar, noted briefly: *ghṛtapṛṣṭhāḥ* (root *ghṛ* "to drip, to shine"; the *bahuvrīhi* keeps the accent of its first member); *manoyujaḥ* (*manas* + *yuj* with *kvin* by P. 3-2-59 [the numeral is uncertain]; the accent of the compound is that of its final member); *tvā* (P. 8-1-23, the unaccented substitute); *vahanti* (accent stays on the root; no *nighāta* because of the relative *ye*, P. 8-1-66 [?] *yadvṛttān nityam*); *vahnayaḥ* (the Uṇādi *ni* suffix, indicatory *n*, first-syllable accent); *somapītaye* (explained earlier; here the *dhuṭ* augment of the *n* of *devān* before *s* [P. 8-3-30 as read; the standard number of this rule is 8-3-29 or 8-3-30], then *khari ca* P. 8-4-55, then the Vārttika on the second-class letter after a *cay* letter before *śar*, *pauṣkarasāder*: *devān t-somapītaye*, i.e. *devān̐ t somapītaye* in the Saṃhitā.) *(Grammar pages (pp. 605–607), noted briefly, as above.)*
+**Translation:** "O Agni, the horses that draw you by chariot: what are they like? *Ghṛtapṛṣṭhāḥ*, with shining backs, being well fed; *manoyujaḥ*, yoked to the chariot by a mere resolve of the mind; *vahnayaḥ*, bearers: with those horses bring the gods for the *somapīti*, the sacrifice with the drinking of soma; 'bring' is understood." (Grammatical tail: *ghṛtapṛṣṭhāḥ*, "whose back is *ghṛta*, shining", from *ghṛ* 'to shine', *ghṛta* final udātta, a bahuvrīhi with the first-member accent; *manoyujaḥ*, "yoked by the mind", *kvin*, the accent of the *kṛt* second member; *tvā* unaccented; *vahanti*, the root accent, not lowered because of the relative *ye*; *vahnayaḥ* with *ni* (Uṇ. 4-51), initial udātta; *somapītaye* as before; in the Saṃhitā the augment *dh* (Pā. 8-3-30), *t* by *khari ca* (Pā. 8-4-55), *th* by the vārttika of Pauṣkarasādi (8-4-48-3). The closing "26" is the varga number.)
 
-**Grammar pages (pp. 605–607), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *ghṛtapṛṣṭhāḥ* (the *ghṛta* word by the Phiṭ-sūtra on accent, Phiṭ 3-[?]; *bahuvrīhau prakṛtyā pūrvapadam*, P. 6-2-1), *manoyujaḥ* (the *kvin* of the Pāṇinian list *ṛtvig-dadhṛk-sraj-dig-uṣṇig-añcu-yuji-kruñcāṃ ca*, P. 3-2-59; the Kaumudī's view that *kvin* needs no upapada, against the Vedabhāṣya's view that it is added to *yuj* with an upapada), *tvā* (P. 8-1-23), *vahanti* (the *laṭ* with *jhi* → *anti*; the *śap* and the accent rules 3-1-4 and 6-1-186 *tāsy-anudāttenni-ḍad-upadeśāt*), and then, at length, the rule *yadvṛttān nityam* (P. 8-1-66) — that a finite verb following a clause with *ye* is not made unaccented — together with the Vārttika *pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ* (the "adored one" is unaccented after *kāṣṭha* etc.) and the debate on *pūjanāt*'s fifth-case sense, whether *anantaryārtha* "immediately after" is intended and so whether *tasmād ity uttarasya* (P. 1-1-67) governs; the conclusion reached is that *nighāta* does not occur in *ye tvā vahanti*, hence "all-unaccented" does not apply. Then *vahnayaḥ* (the Uṇādi *niḥ* suffix, with *vah* "to carry"), and *somapītaye*, where the *dhuṭ* augment and the *cartva* rules are explained (P. 8-3-30 [?], 8-4-55, with the Vārttika of the Pauṣkarasādi school, and P. 1-1-50 *sthāne 'ntaratamaḥ*; P. 8-4-47 [?]). *(Crowded print; I give only the words treated and the sūtras I could read; numerals marked [?] are uncertain.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 604)*
-
-**(हे अग्ने) ((he agne))** — O Agni | **घृतपृष्ठाः (ghṛta-pṛṣṭhāḥ)** — having glossy backs, shining because well nourished | **मनोयुजः (manoyujaḥ)** — those that yoke themselves to the chariot by mere intention | **ये (ye)** — which horses | **वह्नयः (vahnayaḥ)** — capable of carrying | **त्वा (tvā)** — you | **वहन्ति (vahanti)** — carry (bring) | **सोमपीतये (somapītaye)** — for the drinking of soma | **देवान् (devān)** — the gods | **आ (वह) (ā (vaha))** — bring [with those horses].
+*(O Agni)* **घृतपृष्ठाः (ghṛtapṛṣṭhāḥ)** — whose backs, being well fed, are smooth like ghee | **मनोयुजः (manoyujaḥ)** — that join (the chariot) by a mere resolve | **वह्नयः (vahnayaḥ)** — able to draw | **ये (ye)** — the horses that | **त्वा (tvā)** — you | **वहन्ति (vahanti)** — draw along | *(by those horses)* **सोमपीतये (somapītaye)** — for drinking soma | **देवान् (devān)** — the gods | **आ (वह) (ā (vaha))** — bring.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! The horses that carry you, seated in the chariot, to the sacrificial ground have backs that shine because they are so well nourished. They can yoke themselves to the chariot at your mere wish; they are strong to carry. With those horses, bring the gods to drink the soma.
+O Agni, the backs of the horses that seat you in the chariot and bring you to the place of sacrifice shine, being well fed. They can join the chariot by a mere resolve; they are able to draw it. On them bring the gods for the drinking of soma.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > By means of horses which have backs as soft and smooth as clarified butter which harnessing themselves promptly according to your wish, carry you and the gods hither to drink soma-juice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 605)*
+### Page 605 — Rik 6: Special Topics and grammar
 
-**घृतपृष्ठाः (ghṛtapṛṣṭhāḥ)** — we have explained this word in the ninth rik of the preceding sūkta (printed "p. 549" — a Kannada cross-reference to the earlier page). Here the word qualifies *vahnayaḥ* "horses", so the sense is slightly different: horses whose backs are as smooth, shining and soft as clarified butter.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**वह्नयः (vahnayaḥ)** — *vodhāraḥ aśvā ity arthaḥ*: "bearers, horses"; because they carry the chariot, horses are called *vahnayaḥ*.
+**Ghṛtapṛṣṭhāḥ**: we explained this word in the fifth Ṛk of the preceding sūkta (page 549). Here the word qualifies *vahnayaḥ*, so the sense differs a little: with backs soft or smooth as ghee, "backs as smooth as clarifed [sic] butter".
 
-**मनोयुजः (manoyujaḥ)** — the horses are yoked to the chariot by the mere mental intention of Agni; *manasā yuñjate iti manoyujaḥ* is the derivation.
+**Vahnayaḥ**:
+
+> वोढारः अश्वा इत्यर्थः
+>
+> *voḍhāraḥ aśvā ityarthaḥ*
+
+Since they draw the chariot, the horses are called *vahnayaḥ*.
+
+**Manoyujaḥ**: yoked to the chariot by a mere resolve of Agni's mind;
+
+> मनसा युञ्जते इति मनोयुजः
+>
+> *manasā yuñjate iti manoyujaḥ*
+
+is the derivation.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 605–607, noted briefly)*
+
+**घृतपृष्ठाः (*ghṛtapṛṣṭhāḥ*)**: final udātta by the suffix accent; the initial udātta that its exception "nabviṣayasyānisantasya" (Phi. sū. 26) would give is overridden by "ghṛtādīnāṃ ca" (Phi. sū. 21), so *ghṛta* is final udātta. *Ghṛ kṣaraṇadīptyoḥ*; *ghṛtaṃ = dīptaṃ pṛṣṭhaṃ yeṣāṃ te*, a bahuvrīhi; the first member keeps its accent by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1).
+
+**मनोयुजः (*manoyujaḥ*)**: *manasā yuñjate iti*; by "ṛtvigdadhṛksragdiguṣṇigañcuyujikruñcāṃ ca" (Pā. sū. 3-2-59) *kvin* after *yuj* with *manas* as *upapada*; *yuj* is final udātta by the root accent; after compounding, by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) the *kṛt* second member keeps its accent. The Kaumudīkāra and others hold that *kvin* comes after *yuj* without an *upapada* (*nirupapadād yujeḥ kvin*); but, as the Vedabhāṣyakāra holds, the *kvin* is derived here after *yuj* with an *upapada*.
+
+**त्वा (*tvā*)**: for *tvām*, the accusative singular of *yuṣmad*, the unaccented *tvā* by "tvāmau dvitīyāyāḥ" (Pā. sū. 8-1-23).
+
+**वहन्ति (*vahanti*)**: *vaha prāpaṇe*, *laṭ*, *jhi*, *ant* by "jho 'ntaḥ" (Pā. sū. 7-1-3); *śap*, *pararūpa* by "ato guṇe"; *śap* is *pit*, so unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4); *anti*, a *sārvadhātuka* for a *lakāra*, follows the *śap* of *adupadeśa*, so it is unaccented by "tāsyanudāttenṅidadupadeśāt" (Pā. sū. 6-1-186); the root
+
+### Page 606 — Rik 6: grammar (continued)
+
+accent remains. In *ye tvā vahanti vahnayaḥ*, *vahanti* follows the word with *yat*; so by "yadvṛttān nityam" (Pā. sū. 8-1-66), a *tiṅanta* after a word containing *yat* is not made unaccented, and "tiṅṅatiṅaḥ" does not apply. Here there is the vārttika "kāṣṭhādibhya iti vaktavyam" on "pūjanāt pūjitam anudāttam" (Pā. sū. 8-1-67): what is praised after *kāṣṭha* and other words of praise is unaccented. Even if the sūtra had been framed "pūjanād anudāttam", "the praised" would be got from *pūjita* as a correlate and from proximity; so the mention of *pūjita* would be useless, and it makes known that *atra prakaraṇe pañcamīnirdeśe 'pi nānantaryam āśrīyate* — in this section, though there is a fifth-case statement, immediate sequence is not required. With the fifth case *pūjanāt* alone, the sense of immediate sequence would not be got. With *pūjita* stated, in *kamalāni kamalāni*, by repetition, the sense "excellent lotus" arises, and the two words, *pūjita* in the sūtra and *pūjita* got by proximity, convey "excellent, praised"; here the excellence takes the form of immediate sequence. So the mention of *pūjita* has its use for getting immediate sequence. Without this made-known statement, since *pūjanāt* is in the fifth case, immediate sequence would follow by "tasmād ity uttarasya" (Pā. sū. 1-1-67), and the mention of *pūjita* would be useless. So it must be granted that in this section, though there is a fifth-case statement, immediate sequence is not required. In *ye tvā vahanti* the word *tvā* intervenes, yet the bar of "yadvṛttān nityam" applies. So it is not wholly unaccented.
+
+**वह्नयः (*vahnayaḥ*)**: "vahiśriśruyudruglāhātvaribhyo nit" (Uṇ. sū. "4-51" [?]), with *niḥ* carried on from "vījyājvaribhyo niḥ" (Uṇ. sū. 4-48): after *vaha prāpaṇe*, *śriñ sevāyām*, *śru śravaṇe*, *yu miśraṇe*, *dru gatau*, *glai mlai harṣakṣaye*, *ohāk tyāge*, *ñitvarā sambhrame*, the suffix *ni*, and it is *nit*; so *ni* after *vah*, and being *nit*, *vahni* is initial udātta by "ñnityādir nityam" (Pā. sū. 6-1-197).
+
+**सोमपीतये (*somapītaye*)**: its formation was given in the first Ṛk of this sūkta. In *devān somapītaye*, in the Saṃhitā, *s* follows the *n*; so "naś ca" (Pā. sū. 8-3-30) gives the augment *dhuṭ* to the *s* after a word ending in *n*; being *ṭit*, it comes at the beginning of the *s*: *devān* + *dh* + *soma*. "khari ca" (Pā. sū. 8-4-55): before a *khar* letter, *car* letters replace the *jhal* letters; the *s* is a *khar*, so the *jhal* *dh* gets a *car*. Of the *car* letters *c, ṭ, t, k, p, ś, ṣ, s*, by "sthāne 'ntaratamaḥ" (Pā. sū. 1-1-50) the dental
+
+### Page 607 — Rik 6: grammar (end)
+
+*t*, of the same place, comes: *devān* + *t* + *soma*. "cayo dvitīyāḥ śari pauṣkarasādeḥ" (Pā. sū. vā. 8-4-48-3): Pauṣkarasādi is the name of a teacher; in his view, before *śar* letters the *cay* letters take the second letter of their class; so the *t* before the *śar* *s* becomes *th*, the second of the dental class: *devān* + *th* + *soma*. By this derivation the mantra should read *devānthsomapītaye*.
+
+**॥६॥**
+
+---
 
 ### Pages 607–610 — Sūkta 14, Rik 7
 
