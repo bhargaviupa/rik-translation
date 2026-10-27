@@ -12720,55 +12720,93 @@ O Agni, may all the deities who are worthy of a share in the sacrifice and those
 
 ---
 
-### Pages 613–616 — Sūkta 14, Rik 9
+### Page 613 (lower) — Sūkta 14, Rik 9
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आकीं सूर्यस्य रोचनाद्विश्वान्देवाँ उषर्बुधः ।
-> विप्रो होतेह वक्षति ॥९॥
+> आ॒कीं सूर्य॑स्य रोच॒नाद्विश्वा॑न्दे॒वाँ उ॑ष॒र्बुधः ।
+> विप्रो॒ होते॒ह व॑क्षति ॥९॥ [accent ?]
 >
-> *ākīṃ sūryasya rocanād viśvān devām̐ uṣarbudhaḥ |*
-> *vipro hoteha vakṣati ||9||*
+> *ākī́ṃ sū́ryasya rocanā́d víśvān devā́m̐ uṣarbúdhaḥ |*
+> *vipro hótehá vakṣati ||9||* [accent ?]
+
+*(Line 2: the bars under प्रो and ते are faint at the foot of the page.)*
+
+### Page 614 — Rik 9: Pada, bhāṣya, word-meanings, overall sense, English
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > आकीम् । सूर्यस्य । रोचनात् । विश्वान् । देवान् । उषःऽबुधः ॥
 > विप्रः । होता । इह । वक्षति ॥९॥
 >
-> *ākīm | sūryasya | rocanāt | viśvān | devān | uṣaḥ-budhaḥ ||*
+> *ākīm | sūryasya | rocanāt | viśvān | devān | uṣaḥ 'budhaḥ ||*
 > *vipraḥ | hotā | iha | vakṣati ||9||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 614; compressed; [?] marks doubtful readings)*
-
-> विप्रो मेधावी होता होमनिष्पादकोऽग्निरुषर्बुध उषःकाले यागगमनाय प्रबुध्यमानान्विश्वान्देवान्सूर्यस्य सम्बन्धिनो रोचनाद्दीप्तेः स्वर्गलोकादिह कर्मणि आकीं वक्षति । आवहतु ॥ आकीम् । निपात आद्युदात्तः । सूर्यस्य । सूर्यशब्दो राजसूयसूर्येत्यादिना । पा. ३-१-११४ । क्यप्प्रत्ययान्तो निपातितः । क्यपः पित्त्वाद्धातुस्वरेणाद्युदात्तः । रोचनात् । रोचमानात् । रुच दीप्तौ । अनुदात्तेतश्च हलादेः । पा. ३-२-१४९ । इति कर्तरि युच् । चित इत्यन्तोदात्तत्वम् । विश्वान् । विशेः क्वनन्तो नित्त्वादाद्युदात्तः । उषर्बुधः । उषसि बुध्यन्त इत्युषर्बुधः । क्विप् च । धातुस्वरेणोकार उदात्तः । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । विप्रः । ऋज्रेन्द्राग्रेत्यादिना रन् । नित्त्वादाद्युदात्तः । होता । ह्वयतेः स्पर्धायां … तृन् । बहुलं छन्दसीति संप्रसारणम् । परपूर्वत्वम् । गुणः । नित्स्वरेणाद्युदात्तः । इह । इदमो हः इति हप्रत्ययः । इदम इश् । शित्त्वात्सर्वादेशः । प्रत्ययस्वरः । वक्षति । वहेः प्रार्थनायां लिङर्थे लेट् । तस्य तिप् । कर्तरि शप् । सिब्बहुलं लेटीति सिप् । ढत्वकत्वषत्वानि । तिङ्ङतिङ इति निघातः ॥९॥
+> विप्रो मेधावी होता होमनिष्पादको ऽग्निरुषर्बुध उषःकाले यागगमनाय प्रबुध्यमानान्विश्वान्देवान्सूर्यस्य सम्बन्धिनो रोचनात्स्वर्गलोकादिह कर्मण्याकीं वक्षति । आवहतु ॥ आकीं । निपात आद्युदात्तः । सूर्यस्य । सूर्यशब्दो राजसूयसूर्येत्यादिना । पा. ३-१-११४ । क्यप्प्रत्ययान्तो निपातितः । क्यपः पित्त्वाद्धातुस्वरेणाद्युदात्तः । रोचनात् । रोचमानात् । रुच दीप्तौ । अनुदात्तेतश्च हलादेः । पा. ३-२-१४९ । इति कर्तरि युच् । चित इत्यन्तोदात्तत्वं । विश्वान् । विशेः क्वनन्तो नित्त्वादाद्युदात्तः । उषर्बुधः । उषसि बुध्यन्त इत्युषर्बुधः । क्विप्चेति क्विप् । धातुस्वरेणोकार उदात्तः । समासे कृदुत्तरपदप्रकृतिस्वरत्वं । विप्रः । ऋज्रेन्द्रेत्यादिना रन् । नित्त्वादाद्युदात्तः । होता । ह्वयतेस्ताच्छील्ये तृन् । बहुलं छन्दसीति सम्प्रसारणं । परपूर्वत्वं । गुणः । नित्त्वादाद्युदात्तः । इह । इदमो ह इति हप्रत्ययः । इदम इशिति इश् । शित्त्वात्सर्वादेशः । प्रत्ययस्वरः । वक्षति । वहेः प्रार्थनायां लिङर्थे लेट् । तस्य तिप् । कर्तरि शप् । शपि परतः सिब्बहुलं लेटीति सिप् । ढत्वकत्वषत्वानि । तिङ्ङतिङ इति निघातः ॥
 >
-> *vipro medhāvī hotā homa-niṣpādako 'gnir uṣarbudha uṣaḥ-kāle yāga-gamanāya prabudhyamānān viśvān devān sūryasya sambandhino rocanād dīpteḥ svarga-lokād iha karmaṇi ākīṃ vakṣati | āvahatu || ākīm | nipāta ādyudāttaḥ | sūryasya | sūrya-śabdo rājasūya-sūryety-ādinā | pā. 3-1-114 | kyap-pratyayānto nipātitaḥ | kyapaḥ pittvād dhātu-svareṇādyudāttaḥ | rocanāt | rocamānāt | ruca dīptau | anudāttetaś ca halādeḥ | pā. 3-2-149 | iti kartari yuc | cita ity antodāttatvam | viśvān | viśeḥ kvananto nittvād ādyudāttaḥ | uṣarbudhaḥ | uṣasi budhyanta ity uṣarbudhaḥ | kvip ca | dhātu-svareṇokāra udāttaḥ | samāse kṛd-uttarapada-prakṛti-svaratvam | vipraḥ | ṛjrendrāgrety-ādinā ran | nittvād ādyudāttaḥ | hotā | hvayateḥ spardhāyāṃ … tṛn | bahulaṃ chandasīti saṃprasāraṇam | parapūrvatvam | guṇaḥ | nit-svareṇādyudāttaḥ | iha | idamo haḥ iti ha-pratyayaḥ | idama iś | śittvāt sarvādeśaḥ | pratyaya-svaraḥ | vakṣati | vaheḥ prārthanāyāṃ liṅarthe leṭ | tasya tip | kartari śap | sib bahulaṃ leṭīti sip | ḍhatva-katva-ṣatvāni | tiṅ ataṅ iti nighātaḥ ||9||*
+> *vipro medhāvī hotā homaniṣpādako 'gniruṣarbudha uṣaḥkāle yāgagamanāya prabudhyamānānviśvāndevānsūryasya sambandhino rocanātsvargalokādiha karmaṇyākīṃ vakṣati | āvahatu || ākīṃ | nipāta ādyudāttaḥ | sūryasya | sūryaśabdo rājasūyasūryetyādinā | pā. 3-1-114 | kyappratyayānto nipātitaḥ | kyapaḥ pittvāddhātusvareṇādyudāttaḥ | rocanāt | rocamānāt | ruca dīptau | anudāttetaśca halādeḥ | pā. 3-2-149 | iti kartari yuc | cita ityantodāttatvaṃ | viśvān | viśeḥ kvananto nittvādādyudāttaḥ | uṣarbudhaḥ | uṣasi budhyanta ityuṣarbudhaḥ | kvipceti kvip | dhātusvareṇokāra udāttaḥ | samāse kṛduttarapadaprakṛtisvaratvaṃ | vipraḥ | ṛjrendretyādinā ran | nittvādādyudāttaḥ | hotā | hvayatestācchīlye tṛn | bahulaṃ chandasīti samprasāraṇaṃ | parapūrvatvaṃ | guṇaḥ | nittvādādyudāttaḥ | iha | idamo ha iti hapratyayaḥ | idama iśiti iś | śittvātsarvādeśaḥ | pratyayasvaraḥ | vakṣati | vaheḥ prārthanāyāṃ liṅarthe leṭ | tasya tip | kartari śap | śapi parataḥ sibbahulaṃ leṭīti sip | ḍhatvakatvaṣatvāni | tiṅṅatiṅa iti nighātaḥ ||*
 
-**Translation:** "The *vipra* — the wise — *hotā*, the accomplisher of the *homa*, Agni: awake at dawn (*uṣarbudhaḥ*), may he bring (*ā vakṣati*), for this ritual action, all the gods, who awaken at dawn to go to the sacrifice, from the shining (*rocanāt*) heaven-world of the Sun (*sūryasya*)." The rest is grammar, noted briefly: *sūrya* (P. 3-1-114 lists seven words made with *kyap* by *nipātana*: *rājasūya, sūrya, mṛṣodya, rucya, kupya, kṛṣṭapacya, avyathya*); *rocanāt* (*ruc* "to shine" with *yuc*, P. 3-2-149 as read [the standard numbering of *anudāttetaś ca halādeḥ* is 3-2-149], accent from the indicatory *c*); *viśvān* (*viś* + *kvan*); *uṣarbudhaḥ* (*budh* with *kvip* after the upapada *uṣas*); *vipra* (Uṇ. *ṛjrendrāgra…* *ran*); *hotā* (*hve*, *tṛn*; *saṃprasāraṇa* "variously in the Veda", *parapūrva*, *guṇa*); *iha* (*idam* + *ha*, P. 5-3-11, with *iś* for *idam* P. 5-3-3); *vakṣati* (*vah* in the sense of prayer, *leṭ* in place of *liṅ* P. 3-4-7, *sip* and *sib bahulaṃ leṭi* P. 3-1-34; *ḍhatva*, *katva*, *ṣatva*; the verb is wholly unaccented by P. 8-1-28).
+**Translation:** "May the *vipra*, the wise *hotā*, Agni who accomplishes the *homa*, *ākīṃ vakṣati*, bring here to this rite, from the *rocana* of the Sun, the heaven-world, all the gods, *uṣarbudhaḥ*, who awake at dawn to go to the sacrifice." (Grammatical tail: *ākīm*, a *nipāta*, initial udātta; *sūryasya*, *sūrya* made with *kyap* by *nipātana* (Pā. 3-1-114), the root accent (*kyap* is *pit*), initial udātta; *rocanāt*, "shining", *yuc* by Pā. 3-2-149, final udātta (*cit*); *viśvān* with *kvan*, initial udātta; *uṣarbudhaḥ*, "awaking at dawn", *kvip*, the *u* udātta by the root accent, the *kṛt* second-member accent; *vipraḥ* with *ran*, initial udātta; *hotā* from *hve* with *tṛn* and *saṃprasāraṇa*, initial udātta; *iha*, *ha* after *idam*, *i* for it; *vakṣati*, *leṭ* in the sense of prayer, *sip*, *ḍh*, *k*, *ṣ*, lowered by *tiṅṅatiṅaḥ*.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 614)*
+**॥ Prati-padārthaḥ ॥**
 
-**विप्रः (vipraḥ)** — the wise [Agni] | **होता (hotā)** — Agni, who accomplishes the *homa* | **उषर्बुधः (uṣarbudhaḥ)** — [those] awake at dawn for going to the sacrifice | **विश्वान् देवान् (viśvān devān)** — all the gods | **सूर्यस्य (sūryasya)** — of the Sun | **रोचनात् (rocanāt)** — from the bright region (from the heavenly world, or the sky) | **इह (iha)** — to this action (to the sacrifice) | **आकीं वक्षति (ākīṃ vakṣati)** — may he bring (invite).
+**विप्रः (vipraḥ)** — wise | **होता (hotā)** — Agni, who accomplishes the *homa* | **उषर्बुधः (uṣarbudhaḥ)** — woken at dawn itself for going to the sacrifice | **विश्वान् देवान् (viśvān devān)** — all the gods | **सूर्यस्य (sūryasya)** — of the Sun | **रोचनात् (rocanāt)** — from the divine sphere, or from heaven | **इह (iha)** — to this rite (the sacrifice) | **आकीं वक्षति (ākīṃ vakṣati)** — may he bring.
 
 **॥ Bhāvārthaḥ ॥**
 
-Agni is wise, the accomplisher of the *homa*. For the sake of the sacrifice he wakes all the gods at dawn; may he bring them all from the Sun's bright heaven to this sacrifice.
+Agni is wise, the accomplisher of the *homa*. He wakes all the gods at dawn to come for the sacrifice. May he bring them all from the bright heaven-world belonging to the Sun to this sacrificial rite.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Let the wise invoker of the gods bring hither, from the region of solar light the Visve Devas (all the gods) that awake with the dawn.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 615)*
+*(The left edge of the English is cut in this scan; the words are as in the earlier reading.)*
 
-**आकीम् (ākīm)** — Yāska says that nine words beginning with *hikam, nukam, sukam, ahikam, ākīm* [as read] are listed as the *sarva-pada-samāmnāya* — "words in which every word is read" (Ni. 3-[?], the printed reference reads "3-13" with uncertainty). The word *ākīm* is a particle in the sense of "*ā* (towards)", used as a preposition; so here *ākīṃ vakṣati* means "*ā vakṣati*" (may he bring).
+### Page 615 — Rik 9: Special Topics and grammar
 
-**उषर्बुधः (uṣarbudhaḥ)** — "awaking at dawn for the sake of going to the sacrifice"; *uṣasi budhyante iti uṣarbudhaḥ* — those awake at the time of dawn.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**होता (hotā)** — here "*hotā*" means Agni, who invokes the deities.
+**Ākīm**: since Yāska says that the nine words *hikam*, *nukam*, *sukam*, *ahikam*, *ākīm* and the rest are the *sarvapadasamāmnāya* (Ni. 3-13), the word *ākīm* has the sense of *sarvapada*. It is used as an *upasarga*; so here *ākīṃ vakṣati* means *ā vakṣati*.
 
-**Grammar pages (pp. 615–616), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *ākīm* (a particle, first-syllable accent), *sūryasya* (P. 3-1-114 *rājasūya-sūrya-mṛṣodya-rucya-kupya-kṛṣṭapacya-avyathyāḥ* — the seven *kyap*-words: for *sūrya*, either from *sṛ* "to go" [the sky-goer] or from *suvati karmaṇi lokaṃ preraya* "he who impels people to work" with *rut*/*ruḍ* augment, accent on the first syllable), *rocanāt* (*ruc* with *yuc*; P. 3-2-149; *yuvor anākau* 7-1-1; *cit* 6-1-163), *viśvān* (*viś* + *kvan*, Uṇ. 1-[?]), *uṣarbudhaḥ* (*kvip* with *budh* after *uṣas*; P. 3-2-76; *gatikārakopapadāt kṛt* 6-2-139), *vipra* (Uṇ. 2-[?] *ṛjrendrāgra-vajra-vipra…*; the *i* of the root *dubhṛñ*/*vap* "to sow" as given), *hotā* (*hve* "to compete, to call" + *tṛn* in the sense of habit; *hvaḥ saṃprasāraṇam* P. 6-1-32; *bahulaṃ chandasi* 6-1-34; *saṃprasāraṇāc ca* 6-1-108; *sārvadhātukārdhadhātukayoḥ* 7-3-84), *iha* (*idamo haḥ* P. 5-3-11; *kṛttaddhita-samāsāś ca* 1-2-46; *supo dhātuprātipadikayoḥ* 2-4-71; *idama iś* 5-3-3; *anekāl-śit-sarvasya* 1-1-55), and *vakṣati* (*vah* + *leṭ* P. 3-4-7; *sib bahulaṃ leṭi* 3-1-34; *ho ḍhaḥ* 8-2-31; *ṣaḍhoḥ kaḥ si* 8-2-41; *ādeśapratyayayoḥ* 8-3-59; *tiṅ atiṅaḥ* 8-1-28). *(Sūtra numbers read from small print at 150 dpi; they agree with the standard numbering where I could compare; pointers only.)*
+**Uṣarbudhaḥ**:
+
+> उषःकाले यागगमनाय प्रबुध्यमानान् । उषसि बुध्यन्त इत्युषर्बुधः ॥
+>
+> *uṣaḥkāle yāgagamanāya prabudhyamānān | uṣasi budhyanta ityuṣarbudhaḥ ||*
+
+Woken at dawn.
+
+**Hotā**: here *hotā* means Agni, who calls the deities.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 615–616, noted briefly)*
+
+**आकीम् (*ākīm*)**: a *nipāta*, so initial udātta.
+
+**सूर्यस्य (*sūryasya*)**: by "rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ" (Pā. sū. 3-1-114) these seven words are made by *nipātana* ending in *kyap*; so *sūrya* ends in *kyap*. If taken as *sarati ākāśe* (it goes in the sky), *kyap* after *sṛ gatau* with *u* for the *ṛ* by *nipātana*, *r* after it by "uraṇ raparaḥ": *sur* + *ya*; lengthening by "hali ca" (Pā. sū. 8-2-77) of *i, u, ṛ, ḷ* in the penultimate of *r*/*v*-final roots before a consonant. Or, taken as *suvati karmaṇi lokaṃ prerayati* (he urges people to work), *kyap* after the *tudādi* *ṣū preraṇe* with the augment *ruṭ* by *nipātana*: *sūrya*. *Kyap* is *pit*, so unaccented; the root accent makes *sūrya* initial udātta.
+
+**रोचनात् (*rocanāt*)**: *ruca dīptau*, *anudāttet*. "anudāttetaś ca halādeḥ" (Pā. sū. 3-2-149): after an intransitive *anudāttet* root beginning with a consonant, *yuc* in the agent sense; *ana* for *yu* by "yuvor anākau" (Pā. sū. 7-1-1); *laghūpadha-guṇa*: *rocana*; final udātta by "citaḥ" (Pā. sū. 6-1-163).
+
+**विश्वान् (*viśvān*)**: *viśa praveśane* + *kvan* by "aśūpruṣi…" (Uṇ. sū. 1-149); *nit*, so initial udātta.
+
+**उषर्बुधः (*uṣarbudhaḥ*)**: *uṣasi budhyante iti*; *kvip* by "kvip ca" (Pā. sū. 3-2-76) after *budha avagamane* with *uṣas* as *upapada*; the *u* is udātta by the root accent; after compounding, the *kṛt* second member keeps its accent by "gatikārakopapadāt kṛt".
+
+### Page 616 — Rik 9: grammar (end)
+
+**विप्रः (*vipraḥ*)**: "ṛjrendrāgravipra…" (Uṇ. sū. 2-186): when *ran* comes after *ḍuvap bījasantāne*, *i* is put by *nipātana* for the *a* of the penultimate; initial udātta by the *nit* accent.
+
+**होता (*hotā*)**: *hveñ spardhāyāṃ śabde ca*; *tṛn* by "tṛn" (Pā. sū. 3-2-135) in the sense of habit; with "hvaḥ samprasāraṇam" (Pā. sū. 6-1-32) carried on, *saṃprasāraṇa* by "bahulaṃ chandasi" (Pā. sū. 6-1-34); *pūrvarūpa* by "saṃprasāraṇāc ca" (Pā. sū. 6-1-108); *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84): *hotṛ*; initial udātta (*nit*).
+
+**इह (*iha*)**: "idamo haḥ" (Pā. sū. 5-3-11): after the locative of *idam* the suffix *ha*: *idam* + *ṅi* + *ha*; ending in a *taddhita*, a *prātipadika* by "kṛttaddhitasamāsāś ca" (Pā. sū. 1-2-46); the *ṅi* dropped by "supo dhātuprātipadikayoḥ" (Pā. sū. 2-4-71); "idam iś" (Pā. sū. 5-3-3) gives *iś* for *idam* before the *prāgdiśīya* suffixes; being *śit*, it replaces the whole by "anekālśit sarvasya" (Pā. sū. 1-1-55): *iha*; the suffix accent.
+
+**वक्षति (*vakṣati*)**: *vaha prāpaṇe*. "liṅarthe leṭ" (Pā. sū. 3-4-7): *leṭ* in the sense of prayer; *tip*: *vah* + *ti*; *śap* by "kartari śap"; "sib bahulaṃ leṭi" (Pā. sū. 3-1-34): *sip* after the root before *śap*: *vah* + *s* + *a* + *ti*; "ho ḍhaḥ" (Pā. sū. 8-2-31) gives *ḍh* for the *h* at the end of a word or before a *jhal*; "ṣaḍhoḥ kaḥ si" (Pā. sū. 8-2-41) *k* for *ṣ*/*ḍh* before *s*; "ādeśapratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for the *s*: *vakṣati*; wholly unaccented by "tiṅṅatiṅaḥ".
+
+**॥९॥**
+
+---
 
 ### Pages 616–620 — Sūkta 14, Rik 10
 
