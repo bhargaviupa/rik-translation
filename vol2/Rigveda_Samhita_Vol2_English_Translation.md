@@ -6935,55 +6935,54 @@ Indra is not great in body alone; he is also supreme in quality. Such pre-eminen
 
 > न यस्य द्यावापृथिवी अनु व्यचो न सिन्धवो रजसो अन्तमानशुः ।
 > *na yasya dyāvāpṛthivī anu vyaco na sindhavo rajaso antam ānaśuḥ |*
-> (Ṛgveda Saṃhitā 1-53-9 [?])
-> *("He whose breadth neither heaven and earth [match], nor the rivers reach the limit of the space.")* *(my gloss, tentative: the source gives only the citation)*
+> (Ṛgveda Saṃhitā 1-52-14)
+> *(gloss mine and tentative: "He whose breadth neither heaven and earth [match], nor the rivers reach the limit of the space.")*
 
 In this rik the word *na* stands before the related words *dyāvāpṛthivī* and *sindhavaḥ*, so *na* is negative.
 
 > न स सखा यो न ददाति सख्ये सचाभुवे सचमानाय पित्वः ॥
 > *na sa sakhā yo na dadāti sakhye sacābhuve sacamānāya pitvaḥ ||*
-> (Ṛgveda Saṃhitā 10-117-4 [?])
-> *("He is no friend who gives not to a friend, to a companion who attends, of his food.")* *(my gloss, tentative)*
+> (Ṛgveda Saṃhitā 10-117-4)
+> *(gloss mine and tentative: "He is no friend who gives not to a friend, to a companion who attends, of his food.")*
 
 Here the *na* stands before the related words *sakhā* and *dadāti*; so *na* is negative.
 
 > मा वो मृगो न यवसे जरिता भूदजोष्यः ॥
 > *mā vo mṛgo na yavase jaritā bhūd ajoṣyaḥ ||*
-> (Ṛgveda Saṃhitā 1-38-5 [?])
-> *("Let not your singer be unwelcome, like a deer in the pasture.")* *(my gloss, tentative)*
+> (Ṛgveda Saṃhitā 1-38-5)
+> *(gloss mine and tentative: "Let not your singer be unwelcome, like a deer in the pasture.")*
 
 > वाश्रेव विद्युन्मिमाति वत्सं न माता सिषक्ति ॥
 > *vāśreva vidyun mimāti vatsaṃ na mātā siṣakti ||*
-> (Ṛgveda Saṃhitā 1-38-8 [?])
-> *("Like a lowing cow, the lightning bellows; as a mother follows her calf.")* *(my gloss, tentative)*
+> (Ṛgveda Saṃhitā 1-38-8)
+> *(gloss mine and tentative: "Like a lowing cow, the lightning bellows; as a mother follows her calf.")*
 
 In these riks the *na* comes after the related words *mṛgaḥ* and *vatsam*, so it has the comparative sense here.
 
-**"Śavaḥ"** — although this word is read among the words for water (*udaka*) such as *āṇaḥ*, *kṣodaḥ* (Nirukta 1-12 [?]), it is read among the twenty-eight words for "strength," *ojaḥ*, *pājaḥ* and so on (Nirukta 2-9 [?]); hence in this rik this sense must be taken.
+**"Śavaḥ"** — although this word is read among the words for water (*udaka*) such as *āṇaḥ*, *kṣodaḥ* (Ni. "2-24" as read [?]), it is read among the twenty-eight words for "strength," *ojaḥ*, *pājaḥ* and so on (Ni. "3-9" as read [?]); hence in this rik this sense must be taken.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 322–323, noted briefly)*
 
-**महान् (*mahān*)** — in the Saṃhitā the final *n* is lengthened/changed (*"dīrghād aṭi samānapāde"*, Pā. 8-3-9 [?]): *n* becomes *ru* when a long vowel precedes and *aṭ*-letter follows in the same pāda; the preceding vowel becomes nasalized (Pā. 8-3-2 [?]); the form *mahā̐ indraḥ*; *bho-bhago-agho-apūrvasya yo 'śi* (Pā. 8-3-17 [?]) and *lopaḥ śākalyasya* (Pā. 8-3-19 [?]) for the optional loss of *y/v* before a vowel. *(Continues on p. 323.)*
-
+**महान् (*mahān*)** — in the saṃhitā, **दीर्घादटि समानपादे** (पा. सू. ८-३-९): a final "n" after a long vowel, before an "aṭ" letter in the same pāda, becomes "ru": "mahā + ru + indra"; **आतोऽटि नित्यम्** (पा. सू. ८-३-३) — the "ā" before "ru" before an "aṭ" is always nasalized: "mahā̐"; **भोभगोअघोअपूर्वस्य योऽशि** (पा. सू. ८-३-१७) "y" for the "ru" after "bho, bhago, agho" and "a/ā" before an "aś" letter: "mahāy indraḥ"; **लोपः शाकल्यस्य** (पा. सू. ८-३-१९) — the final "y, v" of a word after "a/ā" is optionally lost before an "aś" … *(continues on p. 323)*
 ### Page 323 — Rik 5 grammar closes
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 323–324, Kannada; page header p. 323 "A. 1, A. 1, Va. 15"; characterized, numbers as printed)*
 
-Words treated, continued: **इन्द्रः** after *mahān* (the *ru* that becomes *y*, with nasalization, and the loss of *y* before *aśi* by Pā. 8-3-19 [?]); the *guṇa* rule *ād guṇaḥ* (Pā. 6-1-87 [?]) and why it does not apply across the pāda here, by the maxim *pūrvatrāsiddham* (Pā. 8-2-1 [?]) — the rules of the last three quarters of the Aṣṭādhyāyī are "not seen" by earlier rules. **महित्वम् (*mahitvam*)** — *mahaḥ pūjāyām* ("to honour") + *in* (Uṇ. 4-[?]), then *tva* by the abstract-noun sūtra (Pā. 5-1-119 [?]); *tva* is final-udātta by the suffix. **वज्रिणे (*vajriṇe*)** — *vajro 'syāstīti vajrī*; *ini* (Pā. 5-2-115 [?]). **द्यौः (*dyauḥ*)** — *dyo*, by the Phiṭ sūtra "phiṣaḥ" final-udātta; the nominative *su* and *go-toṇ-it* (Pā. 7-1-90 [?]) giving the *ṇit*-like *vṛddhi*; *au* in place of *o*. **प्रथिना (*prathinā*)** — *prathimnā*; *pṛthv-ādibhya imanij vā* (Pā. 5-1-122 [?]) gives *imanic*; *ra* replaces *ṛ* (Pā. 6-4-161 [?]); the *bha*-technical loss of *ṭi* (Pā. 6-4-143 [?]) so *u* drops, giving *prathiman*; the instrumental *ṭā* with *ā-*final accent loss ("anudāttasya ca yatrodāttalopaḥ", Pā. 6-1-158 [?]). **शवः (*śavaḥ*)** — initial-udātta, being a neuter noun not ending in *-isan* ("nabviṣayasyāniseḥ…", Phiṭ-sūtra). *(Sūtra numbers read from small print; pointers only.)*
-
-**॥५॥**
+(Continuing "mahān":) the "y" lost: "mahā̐ indraḥ." Now **आद्गुणः** (पा. सू. ६-१-८७) would give guṇa of "a" with a following "i, u, ṛ, ḷ"; but by **पूर्वत्रासिद्धम्** (पा. सू. ८-२-१) what is taught in the last three pādas (the "tripādī," from 8-2-1) is asiddha for the operations of the first seven and a quarter chapters, so for "ād guṇaḥ" (6-1-87) the loss of "y" by **लोपः शाकल्यस्य** (पा. सू. ८-३-१९) is not effected, the "y" intervenes, and no guṇa sandhi takes place. **महित्वम्** — "maha pūjāyām" with **इन्** (उ. सू. ४-५५८ [?], as printed; the Bhāṣya gave "उ. ४-११८") "in"; **तस्य भावस्त्वतलौ** (पा. सू. ५-१-११९) "tva": "mahitvam"; "tva" end-acute by the affix accent, which remains. **वज्रिणे** — "vajram asyāsti iti vajrī, tasmai": **अत इनिठनौ** (पा. सू. ५-२-११५) "ini"; the "i" acute by the affix accent. **द्यौः** — "dyo," end-acute by **फिषः** (फि. सू. १); nominative "su"; **गोतो णित्** (पा. सू. ७-१-९०) — a sarvanāmasthāna after "go" is "ṇit"; by the vārttika **ओतो णिदिति वाच्यम्**, read "otaḥ" for "gotaḥ," it applies to any "o"-ending stem, so after "dyo" too "su" is "ṇit"; **अचो ञ्णिति** (पा. सू. ७-२-११५) vṛddhi; by **स्थानेऽन्तरतमः** (पा. सू. १-१-५०), the nearest substitute in quality — the acute "o" becomes the acute "au": "dyauḥ." **प्रथिना** — "prathimnā": in the sense "pṛthor bhāvaḥ," **पृथ्वादिभ्य इमनिज्वा** (पा. सू. ५-१-१२२) "imanic" after a genitive of a word of the "pṛthu" class; **र ऋतो हलादेर्लघोः** (पा. सू. ६-४-१६१) "ra" for a light "ṛ" after a consonant before "iṣṭhan, imanic, īyasun": "prathu + iman"; **टेः** (पा. सू. ६-४-१५५) (p. 324) the "ṭi" of a "bha" stem lost: "prathiman"; instrumental "ṭā"; by **यचि भम्** (पा. सू. १-४-१८) "bha," so **अल्लोपोऽनः** (पा. सू. ६-४-१३४) loss of the "a" of "an"; the loss of "m" Vedic: "prathinā." "Imanic," "c"-marked, so "prathiman" is end-acute by **चितः** (पा. सू. ६-१-१६३); before the unaccented "ā" of "ṭā" the acute "a" is lost, so by **अनुदात्तस्य च यत्रोदात्तलोपः** (पा. सू. ६-१-१६१) the "ā" becomes acute. **शवः** — **नब्विषयस्यानिसन्तस्य** (फि. सू. २६): a word always neuter, not ending in "is" or "as"… (so printed), first-syllable acute. ॥५॥
 
 ---
 
 ### Page 324 — Sūkta 8, Rik 6
 
+*(Saṃhitā accents as printed; Pada unaccented. The bar under "sya" of "tokasya" is faint, hence [accent ?].)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> समोहे वा य आशत नरस्तोकस्य सनितौ ।
-> विप्रासो वा धियायवः ॥६॥
+> स॒मो॒हे वा॒ य आश॑त॒ नर॑स्तो॒कस्य॒ सनि॑तौ । [accent ?]
+> विप्रा॑सो वा धिया॒यवः॑ ॥६॥
 >
-> *samohe vā ya āśata naras tokasya sanitau |*
-> *viprāso vā dhiyāyavaḥ ||6||*
+> *samohé vā yá ā́śata náras tokásya sánitau |* [accent ?]
+> *víprāso vā dhiyāyávaḥ ||6||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
