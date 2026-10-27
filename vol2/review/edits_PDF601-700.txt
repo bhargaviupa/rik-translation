@@ -28,3 +28,6 @@ PDF 622 (p. 608): Prati/Bhāvārtha/English/Special Topics from print.
 PDF 623 (p. 609): grammar from print: Un. "3-385" [?] (bhāṣya 3-105), 8-3-9, 8-3-3, 3-2-76, 6-3-137, 6-1-162, 8-1-19, 6-1-198, 4-1-33, 4-1-5, Vedābhyāsa, Kaiyaṭa, Pūrvamīmāṃsā 6-1.
 PDF 624 (p. 610): 5-2-94, 8-2-15, Un. 4-57 (as printed; p. 595 has 4-58), 3-1-4, 3-4-87, 3-1-79, "9-4-73" [as printed, for 2-4-73], 6-4-102, 1-2-4, 1-1-5, 1-4-7, "jas" for ṅas [sic], 7-3-111, 3-1-26, "7-3-37" [?], paribhāṣā "83" [?].
 PDF 625 (p. 611): grammar end: 8-1-72, 8-1-28.
+PDF 625 (p. 611): Rk 14.8 Samhita accents as printed (line 1 [accent ?]); bhasya re-transcribed in full (ईडवन्दवृशंसदुहां ण्यतः; no sūtra numbers printed in it, the earlier "P. 6-1-215" removed); page heading 611 (lower).
+PDF 626 (p. 612): Prati/Bhāvārtha/English/Special Topics from print; grammar: ṛhalor ṇyat "3-1-124" [?], tit svaritam "6-1-185" [?] (numerals blurred).
+PDF 627 (p. 613): grammar end: 6-1-214, 7-2-102, 6-1-97, 7-1-17, 1-1-55, 6-1-87, Phi. 1, "jas" for ṅas [sic], 6-1-110, 3-3-108-9, Phi. 80.

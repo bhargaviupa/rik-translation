@@ -12644,15 +12644,19 @@ the one without *luk* is taken, so the *bhvādi* root is meant. After *pāyi*, *
 
 ---
 
-### Pages 611–613 — Sūkta 14, Rik 8
+### Page 611 (lower) — Sūkta 14, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये यजत्रा य ईड्यास्ते ते पिबन्तु जिह्वया ।
-> मधोरग्ने वषट्कृति ॥८॥
+> ये यज॑त्रा॒ य ई॒ड्या॒स्ते ते॑ पिबन्तु जि॒ह्वया॑ । [accent ?]
+> मधो॑रग्ने॒ वष॑ट्कृति ॥८॥
 >
-> *ye yajatrā ya īḍyās te te pibantu jihvayā |*
-> *madhor agne vaṣaṭkṛti ||8||*
+> *ye yájatrā yá īḍyās té te pibantu jihváyā |* [accent ?]
+> *mádhor agne váṣaṭkṛti ||8||*
+
+*(Line 1: bars stand under ई/ड्या and under स्ते of ईड्यास्ते, the stroke over the second ते; the exact syllables under the two bars are not certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -12660,39 +12664,61 @@ the one without *luk* is taken, so the *bhvādi* root is meant. After *pāyi*, *
 > मधोः । अग्ने । वषट्ऽकृति ॥८॥
 >
 > *ye | yajatrāḥ | ye | īḍyāḥ | te | te | pibantu | jihvayā ||*
-> *madhoḥ | agne | vaṣaṭ-kṛti ||8||*
+> *madhoḥ | agne | vaṣaṭ 'kṛti ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 611; compressed; [?] marks doubtful readings)*
-
-> ये देवा यजत्रा यष्टव्याः । तथा ये देवा ईड्याः स्तुत्याः । ते सर्वेऽपि वषट्कृति वषट्कारकाले वषट्कारयुक्ते योगे वा हे अग्ने ते त्वदीयया जिह्वया मधोर्मधुरस्य सोमस्य भागं पिबन्तु ॥ यजत्राः । गतम् । ईड्याः । ईड स्तुतौ । ऋहलोर्ण्यत् । तिङ्स्वरे प्राप्ते ईडवन्द्ववृशंसदुहां ण्यतः इत्याद्युदात्तत्वम् । द्वितीयस्य तेशब्दस्य युष्मदादेशस्य सर्वानुदात्तत्वम् । मधोः । उप्रत्ययस्य नित्त्वादाद्युदात्तत्वमुक्तम् । अग्ने । आमन्त्रितनिघातः । वषट्कृति । करोतेः सम्पदादिभ्यः क्विप् भावे । वषडित्यस्य करणं यस्मिन्याग इति बहुव्रीहिः । वषडित्यस्य विशाकत्वादाद्युदात्तत्वम् [?] । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥८॥
+> ये देवा यजत्रा यष्टव्याः । तथा ये देवा ईड्याः स्तुत्याः । ते सर्वेऽपि वषट्कृति वषट्कारकाले वषट्कारयुक्ते यागे वा हे अग्ने ते त्वदीयया जिह्वया मधोर्मधुरस्य सोमस्य भागं पिबन्तु ॥ यजत्राः । गतं । ईड्याः । ईड स्तुतौ । ऋहलोर्ण्यत् । तित्स्वरिते प्राप्त ईडवन्दवृशंसदुहां ण्यत इत्याद्युदात्तत्वं । द्वितीयस्य तेशब्दस्य युष्मदादेशस्य सर्वानुदात्तत्वं । मधोः । उप्रत्ययस्य नित्त्वादाद्युदात्तत्वमुक्तं । अग्ने । आमन्त्रितनिघातः । वषट्कृति । करोतेः सम्पदादिभ्यो भावे क्विप् । वषडित्यस्य करणं यस्मिन्याग इति बहुव्रीहिः । वषडित्यस्य निपातत्वादाद्युदात्तत्वं । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥
 >
-> *ye devā yajatrā yaṣṭavyāḥ | tathā ye devā īḍyāḥ stutyāḥ | te sarve 'pi vaṣaṭkṛti vaṣaṭkāra-kāle vaṣaṭkāra-yukte yoge vā he agne te tvadīyayā jihvayā madhor madhurasya somasya bhāgaṃ pibantu || yajatrāḥ | gatam | īḍyāḥ | īḍa stutau | ṛhaloṇ ṇyat | tiṅ-svare prāpte īḍa-vandvavṛśaṃsaduhāṃ ṇyataḥ ity ādyudāttatvam | dvitīyasya te-śabdasya yuṣmad-ādeśasya sarvānudāttatvam | madhoḥ | u-pratyayasya nittvād ādyudāttatvam uktam | agne | āmantrita-nighātaḥ | vaṣaṭkṛti | karoteḥ sampadādibhyaḥ kvip bhāve | vaṣaḍ ity asya karaṇaṃ yasminn yāga iti bahuvrīhiḥ | vaṣaḍ ity asya viśākatvād ādyudāttatvam [?] | bahuvrīhau pūrvapada-prakṛti-svaratvam ||8||*
+> *ye devā yajatrā yaṣṭavyāḥ | tathā ye devā īḍyāḥ stutyāḥ | te sarve 'pi vaṣaṭkṛti vaṣaṭkārakāle vaṣaṭkārayukte yāge vā he agne te tvadīyayā jihvayā madhormadhurasya somasya bhāgaṃ pibantu || yajatrāḥ | gataṃ | īḍyāḥ | īḍa stutau | ṛhalorṇyat | titsvarite prāpta īḍavandavṛśaṃsaduhāṃ ṇyata ityādyudāttatvaṃ | dvitīyasya teśabdasya yuṣmadādeśasya sarvānudāttatvaṃ | madhoḥ | upratyayasya nittvādādyudāttatvamuktaṃ | agne | āmantritanighātaḥ | vaṣaṭkṛti | karoteḥ sampadādibhyo bhāve kvip | vaṣaḍityasya karaṇaṃ yasminyāga iti bahuvrīhiḥ | vaṣaḍityasya nipātatvādādyudāttatvaṃ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "Those gods who are *yajatrāḥ* — to be sacrificed to; and those who are *īḍyāḥ* — to be praised: may all of them, at the *vaṣaṭkāra* (at the moment of the call *vaṣaṭ*, or in the rite which has the *vaṣaṭ*-call), drink, O Agni, through *your* tongue (*te jihvayā*), a share of the sweet (*madhoḥ*) soma. *Yajatrāḥ* — gone through [in Rik 7]. *Īḍyāḥ* — from *īḍ*, "to praise", with *ṇyat*, first-syllable accent by P. 6-1-215 *īḍavandavṛśaṃsaduhāṃ ṇyataḥ*; the second *te* is the substitute for *tava* and is wholly unaccented. *Madhoḥ* — the *u*-suffix with indicatory *n*: first-syllable accent, as said. *Vaṣaṭkṛti* — *kṛ* with *kvip* in the noun-of-action sense (the group *sampadādi*), the *bahuvrīhi* 'that in which the making of *vaṣaṭ* is'; the compound keeps the accent of its first member [the clause on the first-syllable accent of *vaṣaṭ* is partly unclear in the print]." *(Grammar, noted briefly; P. 6-1-215 as read agrees with the standard numbering.)*
+**Translation:** "The gods who are *yajatrāḥ*, to be worshipped, and the gods who are *īḍyāḥ*, to be praised: may they all, *vaṣaṭkṛti*, at the time of the *vaṣaṭ* call or in the rite that has the *vaṣaṭ* call, O Agni, drink with *te jihvayā*, your tongue, the share of the *madhoḥ*, the sweet soma." (Grammatical tail: *yajatrāḥ* gone through; *īḍyāḥ* from *īḍ* with *ṇyat*, initial udātta by *īḍavandavṛśaṃsaduhāṃ ṇyataḥ* instead of the svarita of a *tit* suffix; the second *te*, the *yuṣmad* replacement, wholly unaccented; *madhoḥ* initial udātta as said; *agne* lowered; *vaṣaṭkṛti*, *kvip* in the action sense, a bahuvrīhi "the rite in which *vaṣaṭ* is made", *vaṣaṭ* initial udātta as a *nipāta*, the first-member accent.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 612)*
+### Page 612 — Rik 8: word-meanings, overall sense, English, Special Topics, grammar
 
-**अग्ने (agne)** — O Agni | **ये (ye)** — which deities | **यजत्राः (yajatrāḥ)** — worthy of the share in the sacrifice (and likewise) | **ये (ye)** — which deities | **ईड्याः (īḍyāḥ)** — worthy of praise | **ते (te)** — they all | **वषट्कृति (vaṣaṭkṛti)** — at the time of the *vaṣaṭ*-call in the sacrifice (at the time of offering the oblation) | **ते (te)** — your | **जिह्वया (jihvayā)** — with the tongue (since the oblation is made in Agni) | **मधोः (madhoḥ)** — of the sweet soma-juice [portion] | **पिबन्तु (pibantu)** — let them drink.
+**॥ Prati-padārthaḥ ॥**
+
+**अग्ने (agne)** — O Agni | **ये (ye)** — the deities who | **यजत्राः (yajatrāḥ)** — worthy of a share in the sacrifice | *(and likewise)* **ये (ye)** — the deities who | **ईड्याः (īḍyāḥ)** — worthy of praise | **ते (te)** — all of them | **वषट्कृति (vaṣaṭkṛti)** — at the time of the *vaṣaṭkāra* of the sacrifice (at the time of offering the oblation) | **ते (te)** — your | **जिह्वया (jihvayā)** — with the tongue (by the offering into Agni) | **मधोः (madhoḥ)** — the share of the sweet soma juice | **पिबन्तु (pibantu)** — may they drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! Whatever deities are worthy of a share in the sacrifice, and all who are worthy of praise — let them all, at the moment of the *vaṣaṭ*-call, when the oblation is being offered, drink the sweet soma-juice through your very mouth — that is, through the oblation poured into Agni.
+O Agni, may all the deities who are worthy of a share in the sacrifice and those who are worthy of praise, together, at the time of offering the oblation preceded by the *vaṣaṭkāra*, drink the share of the sweet soma juice through your mouth, that is, by the offering into Agni.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Agni, those gods that deserve to be sacrificed and those that deserve to be praised, may they drink of the sweet soma with your tongue as soon as (the word) Vashat is pronounced
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 612)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**यजत्राः (yajatrāḥ)** — *yajanīyāḥ*: worthy of worship, worthy of a share in the sacrifice.
+**Yajatrāḥ**: *yajanīyāḥ*: worthy of worship, worthy of a share in the sacrifice.
 
-**ईड्याः (īḍyāḥ)** — worthy of praise, worthy of commendation.
+**Īḍyāḥ**: worthy of praise, worthy of commendation.
 
-**वषट्कृति (vaṣaṭkṛti)** — at the time of the *vaṣaṭkāra*, or in a sacrifice that has the *vaṣaṭkāra*. When oblations are being offered with certain mantras in a sacrifice, at the end of the mantra the word *vauṣaṭ* [sic: the print gives *vauṣaṭ*] is pronounced like the *svāhā*-call. This is called *vaṣaṭkṛti* or *vaṣaṭkāra*.
+**Vaṣaṭkṛti**: at the time of the *vaṣaṭkāra*, or in a rite that has the *vaṣaṭkāra*. When the *homa* is made with certain mantras in the sacrifice, at the end of the mantra the word *vauṣaṭ* is added and uttered as the *svāhākāra* is; that is called *vaṣaṭkṛti* or *vaṣaṭkāra*.
 
-**Grammar pages (pp. 612–613), noted briefly.** *Yajatrāḥ* is referred back to the previous rik. *Īḍyāḥ*: *īḍ* "to praise", a root ending in a consonant, *ṇyat* by P. 3-1-124 *ṛhaloṇ ṇyat* [the numeral as read], so that the *ṇyat*-ending would take the *ṇit* accent by P. 6-1-185 [?] but this is overridden by the special rule P. 6-1-215 *īḍavandavṛśaṃsaduhāṃ ṇyataḥ*, giving the first-syllable accent in *īḍya*. *Te* (nominative plural of *tad*): *jas*, *tyadādīnām aḥ* P. 7-2-102, *ato guṇe* P. 6-1-97, *jasaḥ śī* P. 7-1-17, and the *śī*→*e* by *āc-guṇa* with P. 6-1-87; the second *te* is the *te mayāv…* substitute for *tava*, wholly unaccented. *Madhoḥ*: the *u*-suffix and the first-syllable accent, as in the previous rik; the word is in the *ghi* class by P. 1-4-7 [?] so *guṇa* before *ṅas* by P. 7-3-111 *gher ṅiti* — which the paribhāṣā "a rule that has a name as its condition is non-eternal" prevents. *Agne*: the vocative, unaccented. *Vaṣaṭkṛti*: *sampadādibhyaḥ kvip*, P. 3-3-108 Vārttika [?], *tuk* by P. 6-1-71 *hrasvasya piti kṛti tuk*, *vaṣaṭ* as a *nipāta* with the first-syllable accent by Phiṭ [?] *nipātā ādyudāttāḥ*, locative singular *vaṣaṭkṛti*. *(Numerals as read from small print; pointers only.)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 612–613, noted briefly)*
+
+**यजत्राः (*yajatrāḥ*)**: explained in the preceding mantra.
+
+**ईड्याः (*īḍyāḥ*)**: *īḍa stutau*, consonant-final; "ṛhalor ṇyat" (Pā. sū. "3-1-124" [?]): after roots ending in *ṛ* or a consonant the suffix *ṇyat*; so *ṇyat* after *īḍ*. The *t* of *ṇyat* is *it*, so "tit svaritam" (Pā. sū. "6-1-185" [?]) would make it svarita; but, overriding it, "īḍavandavṛśaṃsaduhāṃ ṇyataḥ" (Pā. sū.
+
+### Page 613 — Rik 8: grammar (end)
+
+6-1-214): the first syllable of these roots before *ṇyat* is udātta; so *īḍya* is initial udātta.
+
+**ते (*te*)**: *tad* + *jas*. "tyadādīnām aḥ" (Pā. sū. 7-2-102): before a case ending the final of the *tyadādi* words becomes *a*: *ta* + *a*; *pararūpa* by "ato guṇe" (Pā. sū. 6-1-97); "jasaḥ śī" (Pā. sū. 7-1-17) gives *śī* for *jas* after an *a*-final pronoun; it is not *anekāl*, but by "anekālśit sarvasya" (Pā. sū. 1-1-55) it replaces the whole; *guṇa* by "ād guṇaḥ" (Pā. sū. 6-1-87): *te*. By "phiṣo 'nta udāttaḥ" (Phi. sū. 1) *tad* is final udātta; *pararūpa* and *guṇa* are single replacements, udātta by "ekādeśa udāttenodāttaḥ".
+
+**ते (*te*)**: this is the replacement for *tava*, the genitive singular of *yuṣmad*; so it is wholly unaccented.
+
+**मधोः (*madhoḥ*)**: the suffix *u* is *nit* by extension, so *madhu* is initial udātta, as set out in Sū. 13, Ṛk 2; here masculine by *vyatyaya*. Genitive singular "jas" [as printed, for *ṅas*]; by "śeṣo ghy asakhi" it is *ghi*, so by "gher ṅiti" *guṇa*, *o* for the *u*; "ṅasiṅasoś ca" (Pā. sū. 6-1-110): after *e* and *o*, the *a* of *ṅasi* and *ṅas* gives *pūrvarūpa*; *ru*, visarga.
+
+**अग्ने (*agne*)**: lowered as a vocative by the eighth-adhyāya sūtra.
+
+**वषट्कृति (*vaṣaṭkṛti*)**: "sampadādibhyaḥ kvip" (Pā. sū. 3-3-108-9): *kvip* after *kṛñ* in the action sense; *kvip* is *pit*, a *kṛt*, so before it *kṛ* takes the augment *tuk* by "hrasvasya piti kṛti tuk": *kṛt*. *Vaṣaṭ kṛt yasmin saḥ*, the rite in which there is the making of *vaṣaṭ*: by "bahuvrīhau prakṛtyā pūrvapadam" the first member keeps its accent; *vaṣaṭ* is a *nipāta*, so initial udātta by "nipātā ādyudāttāḥ" (Phi. sū. 80). Locative singular *vaṣaṭkṛti*.
+
+**॥८॥**
+
+---
 
 ### Pages 613–616 — Sūkta 14, Rik 9
 
