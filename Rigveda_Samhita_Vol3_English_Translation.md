@@ -8817,8 +8817,24 @@ On the basis of such passages one may say that this matter was widely told in th
 
 ---
 
+## Restored note — Sūkta 31, the *anāhitāgni* passage (printed p. 576, PDF 591)
+
+*This passage was omitted from the Sūkta 31 entry above (I had judged it to belong to Rik 16). On p. 576 it is printed as the **first item of the Viśeṣa-viṣayagaḷu (Special Topics)** that follow the English Translation of Rik 15; it comments on the Rik 16 mantra *imām agne*, which is why it looks misplaced. It is restored here as printed, from the page image, and was viewed before writing. Numerals read at 130 dpi: [?].*
+
+**Kannada text, rendered:** "If an *anāhitāgni* — one who has not set up the sacred fires and does not perform sacrifices — himself takes part in a sacrifice performed by another, that is, performs the duty of an *ṛtvij*, he must offer an oblation in the fire with the Rik beginning *imām agne*; this is stated in the Āśvalāyana Gṛhya-sūtra, in the section *ṛtvijo vṛṇīte*, in the sūtra [quoted below] (Āś. Gṛ. 1-23-23 [?])."
+
+**The sūtra as printed:**
+
+> एवमनाहिताग्निर्गृह्य इमामग्ने शरणिं मीमृषो नः ।
+
+> *evam anāhitāgnir gṛhya imām agne śaraṇiṃ mīmṛṣo naḥ |*
+
+*Translation (mine, tentative; the Sanskrit is quoted as printed, with the word division of the print uncertain [?]):* "So the *anāhitāgni*, [taking it] in the domestic [fire] — [with the mantra] *imām agne śaraṇiṃ mīmṛṣo naḥ* ('Agni, forgive this fault of ours')." The mantra is Sūkta 31 Rik 16, whose text, bhāṣya and translation are given above (the bhāṣya of Rik 16 quotes the same sūtra).
+
+---
+
 **Progress note — Volume 3 complete; Sūkta 29 Riks 6–7 and Sūkta 30 REDONE from the page images.**
 
 The superseding block "SUPERSEDING REDO" (placed before this note) was written from page images viewed one by one (PDF 467–532; all images loaded; printed = PDF − 15). It replaces the earlier unverified text for Sūkta 29 Riks 6–7 and all of Sūkta 30 (pp. 452–517); that earlier text remains in the file above but is **superseded — do not use it**. Sūktas 31–32 were written from viewed pages in the original pass.
 
-**Open flags:** read at 130 dpi, no zoom: sūtra/Uṇādi/Nirukta/Āśvalāyana/Aitareya numerals are pointers, many [?]; varga numerals [?]; grammar tails characterised, not transcribed; Rik 16 Brāhmaṇa quotation and Rik 20 Brāhmaṇa quotation read with [?]. Still to restore: the *anāhitāgni* note omitted from Sūkta 31 (p. 576). The contents table in the file header still has wrong start pages for Sūktas 30–32 (actual 458, 517, 587).
+**Open flags:** read at 130 dpi, no zoom: sūtra/Uṇādi/Nirukta/Āśvalāyana/Aitareya numerals are pointers, many [?]; varga numerals [?]; grammar tails characterised, not transcribed; Rik 16 Brāhmaṇa quotation and Rik 20 Brāhmaṇa quotation read with [?]. The *anāhitāgni* note (Sūkta 31, p. 576) has been restored in the block above. The contents table in the file header still has wrong start pages for Sūktas 30–32 (actual 458, 517, 587).
