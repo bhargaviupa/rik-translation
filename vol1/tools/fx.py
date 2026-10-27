@@ -12,6 +12,6 @@ for line in sys.stdin.read().split('\n'):
     t=t.replace(old,new); log.append(f"- p. {page} ({os.path.basename(f).replace('Rigveda_Samhita_Vol1_','').replace('_English_Translation.md','') or 'main'}): `{old}` → `{new}`" + (f" — {note}" if note else ''))
 assert len(t)>n0-2000
 open(f,'w',encoding='utf8').write(t)
-L=os.path.join(ROOT,'docs','PASS_LOG_qmarks_vol1.md')
+L=os.path.join(ROOT,'vol1','vol1_qmarks_log.md')
 if not os.path.exists(L): open(L,'w').write('# Vol 1: [?] readings checked against the better (~575 dpi) scan\n\n')
 open(L,'a',encoding='utf8').write('\n'.join(log)+'\n'); print('\n'.join(log))

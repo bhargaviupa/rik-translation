@@ -24,7 +24,12 @@ CFG = {
          expected={113:20,114:11,115:6,116:25,117:25,118:11,119:10,120:12,121:15}),
  10: dict(title='Maṇḍala 1 · Sūktas 122–136 · First Adhyāya of the Second Aṣṭaka', cover='cover_vol10.jpg',
          expected={122:15,123:13,124:13,125:7,126:7,127:11,128:8,129:11,130:10,131:7,132:6,133:7,134:6,135:9,136:7}),
+ 11: dict(title='Maṇḍala 1 · Sūktas 137–157 · Second Adhyāya of the Second Aṣṭaka', cover='cover_vol11.jpg',
+         expected={137:3,138:4,139:11,140:13,141:13,142:13,143:8,144:7,145:5,146:5,147:5,148:5,149:5,150:3,151:9,152:7,153:4,154:6,155:6,156:5,157:6}),
 }
+# from Vol 11 the Saṃhitā lines carry Vedic accents: Lohit Devanagari draws the svarita as a vertical stroke above the syllable
+ACCENT_CSS = ('<style>html { font-family: "Noto Serif", "Lohit Devanagari", "Noto Serif Kannada", serif; }'
+              ' :lang(sa), .dev { font-family: "Lohit Devanagari", "Noto Serif Devanagari", serif; }</style>')
 
 def short_label(title):
     t = re.sub(r'[*`]', '', title).strip()
@@ -119,7 +124,7 @@ def build(vol, mode='full'):
     res = [x for _, b in notes for x in voice.residual(b)]
     if res: print('FIRST-PERSON RESIDUAL:', len(res), res[:5])
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
-<title>Ṛgveda-saṃhitā, Volume {vol}</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="style_vol1.css"></head><body>
+<title>Ṛgveda-saṃhitā, Volume {vol}</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="style_vol1.css">{ACCENT_CSS if vol >= 11 else ''}</head><body>
 {B.front_matter(vol, cfg["title"], [], cover=cfg["cover"], toc_html=chr(10).join(toc))}
 {('<section style="page-break-before:always;page-break-after:always;text-align:center"><img src="assets/title_vol9.jpg" alt="Original title page of the Eighth Adhyaya" style="max-width:100%;max-height:92vh"></section>' if vol == 9 else '')}
 {body_html}

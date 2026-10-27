@@ -1,0 +1,9 @@
+- Page-header vargas read from the scan: pp. 89–109 Varga 7, pp. 111–143 Varga 8, pp. 145–151 Varga 9; "Varga N [?]" header notes in those pages set accordingly. The "seventh varga" closing line the file gave at p. 103 is not in the print (removed; noted); p. 111 closes the 7th ("ಏಳನೆಯ", a word), p. 135 the 8th (clear).
+- p. 130/134: the avaniḥ Uṇādi sūtra re-read (अर्तिसृधृधम्यम्यश्यवितृभ्योऽनिः; U. 2-103 on p. 130, "2-260" as printed on p. 134); "तृजित…" corrected to त्यजितनियजिभ्यो डित् (print) on pp. 130, 132, 135.
+- p. 133: रातेर्डैः Uṇādi number reads "2-225" [?].
+- pp. 128–186: all numerals of the review rows read and placed; references in the special topics (sacā, samatsu, puraṃdhi, dadhyāśir/gavāśir lists, vītaye, Hillebrandt's list) re-read; Tai. Brā. 3-1-5 passage corrected ("jyeṣṭhāyai").
+- Grammar pages rewritten from the scan where the earlier summary was wrong or garbled: pp. 155, 157, 158, 160, 162, 163, 165, 168–169, 171, 176, 178–179, 183–184, 186 (sūtra texts and numbers as printed; numbers that differ from the usual marked "printed …").
+- Bhāṣya garbles fixed: p. 158 (purūn bahūñ chatrūṃs tamayati), p. 161 (yoṣity ā bhuvat; buddhāv ā), p. 171 (kvipy ṛta id dhātoḥ), p. 182 (gṝ śabde; kvipy ṛta), p. 186 (evam āsīt; antaraṅgo 'pi; vṛdher vyatyayena).
+- p. 147 table (4) pratyavarohiṇī: strings confirmed; sum 32 as printed (source shortfall).
+- Page-header vargas pp. 153–173 Varga 9, p. 175 Varga 10 (read).
+- Open: p. 133 Uṇādi "2-225" [?]; p. 164 "Ma. 3-1-3-7" [?]; p. 166 one reference "[?]-12-3"; p. 168 "6-1-62" [?]; p. 184 "14-628" [?]; viṣṭuti name "sūrmī" [?]; p. 155 "praṇetana" [?]; p. 132 kampa verse word [?]. Saṃhitā accents Ṛks 4.1–4.10 and 5.1–5.8 done; 5.9 onward in the next batch.

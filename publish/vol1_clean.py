@@ -3,13 +3,13 @@
 work/vol1_clean.md and an audit log work/vol1_audit.md listing everything removed/converted."""
 import re, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SRC = ROOT / "Rigveda_Samhita_Vol1_English_Translation.md"
+SRC = ROOT / "vol1" / "Rigveda_Samhita_Vol1_English_Translation.md"
 OUT = pathlib.Path(__file__).resolve().parent / "work"
 OUT.mkdir(exist_ok=True)
 
 CHAPTER_H2 = re.compile(r'^## (Chapter |Purva-peethike|Preface|Table of Contents|Sayana\'s Bhashya-bhumika|Sayana\'s Commentary with|Title Page)')
 
-GAPS = ROOT / "Rigveda_Samhita_Vol1_Gaps_English_Translation.md"
+GAPS = ROOT / "vol1" / "Rigveda_Samhita_Vol1_Gaps_English_Translation.md"
 NUMW = {'6': 'Six', '7': 'Seven', '8': 'Eight'}
 GAP_B_NOTICE = ('<div class="edition-note">\n\n**Editorial notice.** The source prints this alphabetical index of the Ṛgveda’s ṛṣis with, '
     'for every entry, the hymn references (maṇḍala–sūkta–ṛc, in Kannada numerals) and, in square brackets, the total number of verses seen by that ṛṣi. '
