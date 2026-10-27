@@ -21,7 +21,7 @@ the user Oct 27). Page map, from the page headers (spot checks with a full heade
 - PDF 660 = p. 647, the last page (end of Sūkta 32 and of the Second Adhyāya).
 `tools/pages.py` encodes this map (`DUP`, `MISSING`).
 
-**Old scan** `scans/Rig_Vol3.pdf` (Git LFS, 663 PDF pages): printed = PDF − 15; the file's existing text was written from it.
+**Old scan** `scans/Rig_Vol3.pdf` (663 PDF pages): printed = PDF − 15; the file's existing text was written from it.
 
 **File layout:** by Ṛk, headings `### Pages A–B — Sūkta N, Rik M` (205 sections), with `*(p. N)*` markers. Sūkta 29 Ṛks 6–7 and
 Sūkta 30 (pp. 452–517): correct the **SUPERSEDING REDO** block near the end; the earlier text for those pages is superseded
@@ -34,7 +34,7 @@ and the REDO headings; `sam.py` also finds the REDO's `**Saṃhitā-pāṭha**` 
 
 | Batch | Printed pp. | What was done |
 |---|---|---|
-| setup (Oct 27) | — | files moved into `vol3/`; paths fixed (`publish/build.py`, `publish/review_all.py`, `.gitattributes`, `CLAUDE.md`); tools copied and set for the seven-part scan; page map checked; runbook written |
+| setup (Oct 27) | — | files moved into `vol3/`; paths fixed (`publish/build.py`, `publish/review_all.py`, `CLAUDE.md`); `.gitattributes` cut to the two files really in Git LFS (`Rig_Vol9.pdf`, `Rig_Vol11.pdf`; the other 17 rules named plain files and made git report them as modified); tools copied and set for the seven-part scan; page map checked; runbook written |
 
 ## To do
 

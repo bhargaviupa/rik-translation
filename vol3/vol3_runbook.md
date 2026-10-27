@@ -19,8 +19,8 @@ fresh session: read this file and `vol3/vol3_state.md` first, continue from wher
   decision; listed in `vol3_state.md`). `tools/pages.py` already skips it and maps those pages to the REDO block.
 - Better scan in `vol3/scans/`, seven parts in page order: `03 Rigveda Samhitha Volume 03 1.pdf` (global PDF 1–100),
   `… 2.pdf` (101–200), `… 3.pdf` (201–300), `… 4.pdf` (301–400), `… 5.pdf` (401–500), `… 6.pdf` (501–580),
-  `… 7.pdf` (581–660). Plain git files (not LFS). The older scan is `vol3/scans/Rig_Vol3.pdf` (Git LFS — `git lfs pull` if it
-  is a small pointer; 663 PDF pages, printed = PDF − 15 there).
+  `… 7.pdf` (581–660). Plain git files (not LFS). The older scan is `vol3/scans/Rig_Vol3.pdf` (plain git file;
+  663 PDF pages, printed = PDF − 15 there).
 - **Page map of the better scan** (from the page headers): printed = PDF − 14 (PDF 15 = p. 1, PDF 16 = p. 2 … PDF 500 =
   p. 486); **printed p. 487 is not in the scan**; PDF 501 is a second copy of p. 488 (= PDF 502), skip it; printed = PDF − 14
   for PDF 502–659 (PDF 659 = p. 645); **printed p. 646 is not in the scan**; PDF 660 = p. 647, the last page.
