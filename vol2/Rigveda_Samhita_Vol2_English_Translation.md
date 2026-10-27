@@ -13598,61 +13598,111 @@ becomes *n*: *stṝ* + *na*; "ṝta id dhātoḥ" (Pā. sū. 7-1-100) gives *i* 
 
 ---
 
-### Pages 646–650 — Sūkta 15, Rik 6
+### Page 646 (lower) — Sūkta 15, Rik 6
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> युवं दक्षं धृतव्रत मित्रावरुण दूळभम् ।
-> ऋतुना यज्ञमाशाथे ॥६॥
+> यु॒वं दक्षं॑ धृतव्रत॒ मित्रा॑वरुण दू॒ळभ॑म् ।
+> ऋ॒तुना॑ य॒ज्ञमा॑शाथे ॥६॥
 >
-> *yuvaṃ dakṣaṃ dhṛtavrata mitrāvaruṇa dūḷabham |*
-> *ṛtunā yajñam āśāthe ||6||*
+> *yuváṃ dákṣaṃ dhṛtavrata mítrāvaruṇa dūḷábham |*
+> *ṛtúnā yajñám āśāthe ||6||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > युवम् । दक्षम् । धृतऽव्रता । मित्रावरुणा । दुःऽदभम् ॥
 > ऋतुना । यज्ञम् । आशाथे इति ॥६॥
 >
-> *yuvam | dakṣam | dhṛta-vratā | mitrāvaruṇā | duḥ-dabham ||*
+> *yuvam | dakṣam | dhṛta 'vratā | mitrāvaruṇā | duḥ 'dabham ||*
 > *ṛtunā | yajñam | āśāthe iti ||6||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the final-short forms* dhṛtavrata, mitrāvaruṇa*; the Pada has* dhṛtavratā, mitrāvaruṇā*. In the Saṃhitā the word is spelt* dūḷabham *with the Vedic* ḷ*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 646–647; compressed; [?] marks doubtful readings)*
-
-> हे धृतव्रता स्वीकृतकर्माणौ मित्रावरुणा हे मित्रनामकवरुणनामकौ देवौ युवमुभौ युवामृतुना सहास्मदीयं यज्ञमाशाथे । व्याप्नुथः । कीदृशं यज्ञम् । दक्षं प्रवृद्धं दूळभं दुर्दहं शत्रुभिर्दग्धुं विनाशयितुमशक्यमित्यर्थः ॥ युवं । प्रथमाद्विवचनस्य जसि प्रथमयोरमित्यमादेशः । युवावौ द्विवचने । पा. [७-२-९२] । इति मपर्यन्तस्य युवादेशः । शेषे लोप इति टिलोपोऽन्त्यलोपो वा । अमि पूर्वत्वम् । भाषायामेव ह्यत्वम् । टिलोपपक्षे उदात्तनिवृत्तिस्वरेणामः उदात्तत्वम् । अन्त्यलोपपक्षे एकादेश उदात्तः । दक्षं । दक्ष वृद्धौ । दक्ष्यन्त्येनेति करणे घञ् । एवं हि पुल्लिङ्गत्वनियमः । अन्यस्यानियम इति नपुंसकत्वम् । धृतव्रता मित्रावरुणा । धृतानि व्रतानि याभ्यां तौ धृतव्रतौ । मित्रश्च वरुणश्च मित्रावरुणौ । उभयत्र सुपां सुलुगित्यादिना विभक्तेराकारः । मित्रशब्दो देवताद्वन्द्वे चेत्यानङादेशः । प्रथमस्यामन्त्रितनिघातः । द्वितीयस्य पादादित्वादाद्युदात्तत्वम् । संहितायां छान्दसं ह्रस्वत्वम् । दूळभं । दह भस्मीकरणे । दुःखेन दह्यते इति दुर्दहं । ईषद्दुःसुषु कृच्छ्राकृच्छ्रार्थेषु । पा. [३-३-१२६] । दुरुपपदस्य खल् । … ळत्वं … । लिति प्रत्ययात्पूर्वमुदात्तत्वम् । कृदुत्तरपदत्वेन स एव शिष्यते । आशाथे । अशू व्याप्तौ । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । मध्यमद्विवचनमाथाम् । टेरेत्वम् । अत आदेः । पा. [७-४-७०] । इत्यभ्यासस्य दीर्घः । अश्नोतेश्च । पा. [७-४-७२] । इति प्राप्तो नुडागमोऽनित्यमागमशासनमिति निवर्तते ॥६॥
+> हे धृतव्रता स्वीकृतकर्माणौ मित्रावरुणा हे मित्रनामकवरुणनामकौ देवौ युवमुभौ युवामृतुना सहास्मदीयं यज्ञमाशाथे । व्याप्नुथः । कीदृशं यज्ञं । दक्षं प्रवृद्धं दूळभं दुर्दहं शत्रुभिर्दग्धुं विनाशयितुमशक्यमित्यर्थः ॥ युवं । प्रथमाद्विवचनस्य ङे प्रथमयोरमित्यमादेशः । युवावौ द्विवचने । पा. ७-२-९२ । इति मपर्यन्तस्य युवादेशः । शेषे लोप इति टिलोपो ऽन्त्यलोपो वा । अमि पूर्वत्वं । भाषायामेव ह्यात्वं । टिलोपपक्ष उदात्तनिवृत्तिस्वरेणामुदात्तत्वं । अन्त्यलोपपक्ष एकादेश उदात्तः । दक्षं । दक्ष वृद्धौ । दक्षन्त्यनेनेति करणे घञ् । एवं हि पुंलिङ्गत्वनियमः । अन्यस्यानियम इति नपुंसकत्वं । धृतव्रता मित्रावरुणा । धृतानि व्रतानि याभ्यां तौ धृतव्रतौ । मित्रश्च वरुणश्च मित्रावरुणौ । उभयत्र सुपां सुलुगित्यादिना विभक्तेराकारः । मित्रशब्दस्य देवताद्वन्द्वे चेत्यानङादेशः । प्रथमस्यामन्त्रितनिघातः । द्वितीयस्य पादादित्वादाद्युदात्तत्वं । संहितायां
 >
-> *he dhṛtavratā svīkṛta-karmāṇau mitrāvaruṇā he mitra-nāmaka-varuṇa-nāmakau devau yuvam ubhau yuvām ṛtunā sahāsmadīyaṃ yajñam āśāthe | vyāpnuthaḥ | kīdṛśaṃ yajñam | dakṣaṃ pravṛddhaṃ dūḷabhaṃ durdahaṃ śatrubhir dagdhuṃ vināśayitum aśakyam ity arthaḥ || yuvaṃ | prathamād dvivacanasya jasi prathamayor am ity amādeśaḥ | yuvāvau dvivacane | pā. [7-2-92] | iti mapayantasya yuvādeśaḥ | śeṣe lopa iti ṭilopo 'ntyalopo vā | ami pūrvatvam | bhāṣāyām eva hy atvam | ṭilopa-pakṣe udātta-nivṛtti-svareṇāmaḥ udāttatvam | antyalopa-pakṣe ekādeśa udāttaḥ | dakṣaṃ | dakṣa vṛddhau | dakṣyanty eneti karaṇe ghañ | evaṃ hi pulliṅgatva-niyamaḥ | anyasyāniyama iti napuṃsakatvam | dhṛtavratā mitrāvaruṇā | dhṛtāni vratāni yābhyāṃ tau dhṛtavratau | mitraś ca varuṇaś ca mitrāvaruṇau | ubhayatra supāṃ sulug ity-ādinā vibhakter ākāraḥ | mitra-śabdo devatādvandve cety ānaṅādeśaḥ | prathamasyāmantrita-nighātaḥ | dvitīyasya pādāditvād ādyudāttatvam | saṃhitāyāṃ chāndasaṃ hrasvatvam | dūḷabhaṃ | daha bhasmīkaraṇe | duḥkhena dahyate iti durdahaṃ | īṣad-duḥ-suṣu kṛcchrākṛcchrārtheṣu | pā. [3-3-126] | dur-upapadasya khal | … ḷatvaṃ … | liti pratyayāt pūrvam udāttatvam | kṛd-uttarapadatvena sa eva śiṣyate | āśāthe | aśū vyāptau | chandasi luṅ-laṅ-liṭa iti vartamāne liṭ | madhyama-dvivacanam āthām | ṭer ettvam | ata ādeḥ | pā. [7-4-70] | ity abhyāsasya dīrghaḥ | aśnoteś ca | pā. [7-4-72] | iti prāpto nuḍāgamo 'nityam āgama-śāsanam iti nivartate ||6||*
+> *he dhṛtavratā svīkṛtakarmāṇau mitrāvaruṇā he mitranāmakavaruṇanāmakau devau yuvamubhau yuvāmṛtunā sahāsmadīyaṃ yajñamāśāthe | vyāpnuthaḥ | kīdṛśaṃ yajñaṃ | dakṣaṃ pravṛddhaṃ dūḷabhaṃ durdahaṃ śatrubhirdagdhuṃ vināśayitumaśakyamityarthaḥ || yuvaṃ | prathamādvivacanasya ṅe prathamayoramityamādeśaḥ | yuvāvau dvivacane | pā. 7-2-92 | iti maparyantasya yuvādeśaḥ | śeṣe lopa iti ṭilopo 'ntyalopo vā | ami pūrvatvaṃ | bhāṣāyāmeva hyātvaṃ | ṭilopapakṣa udāttanivṛttisvareṇāmudāttatvaṃ | antyalopapakṣa ekādeśa udāttaḥ | dakṣaṃ | dakṣa vṛddhau | dakṣantyaneneti karaṇe ghañ | evaṃ hi puṃliṅgatvaniyamaḥ | anyasyāniyama iti napuṃsakatvaṃ | dhṛtavratā mitrāvaruṇā | dhṛtāni vratāni yābhyāṃ tau dhṛtavratau | mitraśca varuṇaśca mitrāvaruṇau | ubhayatra supāṃ sulugityādinā vibhakterākāraḥ | mitraśabdasya devatādvandve cetyānaṅādeśaḥ | prathamasyāmantritanighātaḥ | dvitīyasya pādāditvādādyudāttatvaṃ | saṃhitāyāṃ*
 
-**Translation:** "O *dhṛtavratā* — you two who have taken up the sacrificial work — Mitra and Varuṇa, the gods named Mitra and Varuṇa! You both, together with the Ṛtu, pervade (*āśāthe*, 'enter into, fill') our sacrifice. Of what sort is the sacrifice? *Dakṣam* — flourishing; *dūḷabham* — hard to burn (*durdaha*), that cannot be burnt, destroyed, by enemies." The rest is grammar, noted briefly: *yuvam* (the substitute *yuva* for *yuṣmad* in the dual by P. 7-2-92 *yuvāvau dvivacane*, with the accusative ending *am* by P. 7-1-28 [?]); *dakṣam* (*dakṣ* "to grow", *ghañ* in the instrument sense: "that by which they grow strong", with the neuter by option); *dhṛtavratā mitrāvaruṇā* ("those by whom vows are held"; *mitrāvaruṇau* a deity-dvandva with *ānaṅ* [*mitra* + *ā* + *varuṇa*]; the endings replaced by *ā* by P. 7-1-39 *supāṃ sulug…*; the first word unaccented as a vocative, the second given the first-syllable accent because it begins the *pāda*; in the Saṃhitā the final long *ā* is shortened by Vedic licence); *dūḷabham* (*dah* "to burn", *khal* after *dur* by P. 3-3-126 *īṣad-duḥ-suṣu kṛcchrākṛcchrārtheṣu khal*, with the Vedic change of *h* to *bh*, *d* to *ḍ* and *ḍ* to *ḷ*); *āśāthe* (*aś* "to pervade", *liṭ* of the dual middle *āthām*; the reduplication lengthened by P. 7-4-70 *ata ādeḥ*; the *nuṭ* augment of P. 7-4-72 *aśnoteś ca* is not applied because "the rules on augments are optional"). *(Grammar, noted briefly; P. 3-3-126 and P. 7-4-70 agree with the standard numbering.)*
+### Page 647 — Rik 6: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 648 lower half–650), noted briefly.** The Kannada treats *yuvam* (*yuṣmad* + *au*; P. 7-2-92 *yuvāvau dvivacane*, the substitute *yuva* for the part of the word up to and including *m*; *jasi prathamayor am*; P. 7-2-88 *prathamāyāś ca dvivacane bhāṣāyām* [*ā* of *yuvām* is for the *bhāṣā* only, not for the Veda]; *śeṣe lopaḥ* P. 7-2-90 dropping *ṭi* or the final letter; *ami pūrvaḥ* P. 6-1-107; the accent of *yuvam* ends up final in one derivation and as the single substituted vowel in the other), *dakṣam* (*dakṣ* "to grow", *ghañ* by P. 3-3-121 *halaś ca* in the sense of instrument and location, which would give a masculine, but the neuter is allowed by the rule *anyasyāniyamaḥ*), *dhṛtavratā mitrāvaruṇā* (*dhṛtāni vratāni yābhyām tau*; the vocative endings with *sup* → *ā*, P. 7-1-39; *devatādvandve ca* P. 6-3-26 for the *ānaṅ*, the dual-ending *ṅit* on the *ā*, *ṅ* indicatory, final *n* being dropped by P. 8-2-7 *nalopaḥ prātipadikāntasya*; the first word a vocative unaccented by P. 8-1-72 — but the *dvandva*'s end is at the start of the *pāda*, so P. 8-1-19 [*āmantritasya ca*] does not apply; the first-syllable accent follows by P. 6-1-198; the shortening in the Saṃhitā a Vedic licence), *dūḷabham* (*dah* + *dur* + *khal*; P. 3-3-126 with the long explanation of the Mahābhāṣya's splitting of the sūtra *vyatyayo bahulam* P. 3-1-85 into *vyatyayaḥ* "interchange of the suffixes *śap* etc. in the Veda" and *bahulam* "all rules are optional in the Veda", with the Vārttika on *sup*-… *liṅga-nara-nām* … *kālahalac-svarakartṛyaṅām ca vyatyayaḥ*; the change *du-dah-bha* → *dūḍabha* → *dūḷabha* with *ḍ* → *ḷ* by the Ṛgvedic rule on *ḍ* and *ḍh* as *ḷ*, *ḷh*; the accent before the *l*-marked suffix P. 6-1-193 *liti*), *āśāthe* (*aś* "to pervade", *liṭ* by P. 3-4-6 *chandasi luṅlaṅliṭaḥ*; doubling P. 6-1-8 *liṭi dhātor anabhyāsasya*; *thās* → *āthām* [middle dual 2nd]; *ṭeḥ* → *e* by P. 3-4-79 *ṭita ātmanepadānāṃ ṭer e*; *halādiḥ śeṣaḥ* P. 7-4-60 retaining the first consonant; *ata ādeḥ* P. 7-4-70 lengthening the reduplicative *a*, so *āśāthe*; *aśnoteś ca* P. 7-4-72 *nuṭ* barred). *(Numerals as read from small print; pointers only.)*
+> छान्दसं ह्रस्वत्वं । दूळभं । दह भस्मीकरणे । दुःखेन दह्यत इति दुर्दहं । ईषद्दुःसुष्वित्यादिना । पा. ३-३-१२६ । दुर्युपपदे दहेः खल् । व्यत्ययो बहुलमित्युकारस्योकारो रेफस्य लोपो दकारस्य डकारो हकारस्य च भकारः । लितीति प्रत्ययात्पूर्वमुदात्तत्वं । कृदुत्तरपदत्वेन स एव शिष्यते । आशाथे । अशू व्याप्तौ । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । मध्यमद्विवचनमाथां । टेरेत्वं । अत आदेः । पा. ७-४-७० । इत्यभ्यासस्य दीर्घः । अश्नोतेश्च । पा. ७-४-७२ । इति प्राप्तो नुडागमो ऽनित्यमागमशासनमिति निवर्तते ॥ २८ ॥
+>
+> *chāndasaṃ hrasvatvaṃ | dūḷabhaṃ | daha bhasmīkaraṇe | duḥkhena dahyata iti durdahaṃ | īṣadduḥsuṣvityādinā | pā. 3-3-126 | duryupapade daheḥ khal | vyatyayo bahulamityukārasyokāro rephasya lopo dakārasya ḍakāro hakārasya ca bhakāraḥ | litīti pratyayātpūrvamudāttatvaṃ | kṛduttarapadatvena sa eva śiṣyate | āśāthe | aśū vyāptau | chandasi luṅlaṅliṭa iti vartamāne liṭ | madhyamadvivacanamāthāṃ | ṭeretvaṃ | ata ādeḥ | pā. 7-4-70 | ityabhyāsasya dīrghaḥ | aśnoteśca | pā. 7-4-72 | iti prāpto nuḍāgamo 'nityamāgamaśāsanamiti nivartate || 28 ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 647)*
+**Translation:** "O *dhṛtavratā*, you two who have taken up the rites, O *mitrāvaruṇā*, gods named Mitra and Varuṇa, *yuvam*, both of you, *āśāthe*, pervade, our sacrifice with the Ṛtu. What kind of sacrifice? *Dakṣam*, grown great; *dūḷabham*, hard to burn, that is, that cannot be burnt, destroyed, by enemies." (Grammatical tail: *yuvam*: *am* for the nominative dual, *yuva* for the part up to *m* (Pā. 7-2-92), *śeṣe lopaḥ*, *pūrvarūpa*; the *ā* is only in the spoken language; on the *ṭi*-loss view *am* is udātta by the *udāttanivṛtti* accent, on the final-loss view the single replacement; *dakṣam*: *dakṣ* 'to grow', *ghañ* in the instrumental sense, neuter, the masculine rule not binding here; *dhṛtavratā mitrāvaruṇā*: "by whom rites are held", a dvandva, *ā* for the endings by *supāṃ suluk…*, *ānaṅ* for *mitra*; the first vocative lowered, the second initial udātta at the head of the pāda; shortened in the Saṃhitā as Vedic; *dūḷabham*: "hard to burn", *khal* after *dah* with *dur* (Pā. 3-3-126), by *vyatyayo bahulam* *ū* for *u*, loss of *r*, *ḍ* for *d* and *bh* for *h*; udātta before the *l*-marked suffix; *āśāthe*: *aś* 'to pervade', *liṭ* in the present, *āthām*, *e*, the reduplicate lengthened (Pā. 7-4-70), the *nuṭ* of Pā. 7-4-72 withdrawn as the augment-rule is not binding. The closing "28" is the varga number.)
 
-**धृतव्रता (dhṛtavratā)** — O you two who accept the sacrificial work done by us | **मित्रावरुणा (mitrāvaruṇā)** — O Mitra and Varuṇa | **युवम् (yuvam)** — you both | **ऋतुना (ṛtunā)** — together with the Ṛtu-deity | **दक्षम् (dakṣam)** — flourishing | **दूळभम् (dūḷabham)** — that cannot be burnt (destroyed) by enemies | **यज्ञम् (yajñam)** — the sacrifice | **आशाथे (āśāthe)** — you pervade (you are gracious to).
+**॥ Prati-padārthaḥ ॥**
+
+**धृतव्रता (dhṛtavratā)** — who accept the sacrificial rite we perform | **मित्रावरुणा (mitrāvaruṇā)** — O Mitra and Varuṇa | **युवम् (yuvam)** — you two | **ऋतुना (ṛtunā)** — with the Ṛtu deity | **दक्षम् (dakṣam)** — grown great | **दूळभम् (dūḷabham)** — that cannot be burnt (destroyed) (by enemies) | **यज्ञम् आशाथे (yajñam āśāthe)** — pervade the sacrifice: you are gracious to our sacrifice.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Mitra and Varuṇa! You accept our sacrificial work. By your favour our sacrifice flourishes; and because you are with us, no enemy can harm it. Be pleased to come, together with the Ṛtu-deity, to our sacrifice.
+O Mitra and Varuṇa, you accept our sacrificial rite. By your favour our sacrifice is growing, and since you help us, enemies cannot obstruct it. Kindly come to our sacrifice with the Ṛtu deity.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Mitra and Varuna, propitious to pious acts, be present with Ritu at our sacrifice, efficacious and undisturbed by foes.
+> Mitra and Varuna, propitious to pious acts, be present with Ritu at our sacrifiee [sic], efficacious and undisturbed by foes.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 647)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**धृतव्रता (dhṛtavratā)** — *dhṛta-karmāṇau* or *svīkṛta-karmāṇau*: they who accept the sacrificial work that we perform. The final syllables of *dhṛtavratā* and *mitrāvaruṇā* are shortened in the Saṃhitā text to suit the metre.
+**Dhṛtavratā**:
 
-This word *dhṛtavratā* occurs also in the Ṛgveda rik
+> धृतकर्माणौ । अथवा स्वीकृतकर्माणौ
+>
+> *dhṛtakarmāṇau | athavā svīkṛtakarmāṇau*
+
+that is, "who accept the sacrificial rite we perform". The final syllables of the words *dhṛtavratā* and *mitrāvaruṇā* are short in the Saṃhitā to suit the metre. This word *dhṛtavratā* is read also in the Ṛk
 
 > इन्द्रावरुणा सुतपाविमं सुतं सोमं पिबतं मद्यं धृतव्रता ॥
-> *indrāvaruṇā sutapāv imaṃ sutaṃ somaṃ pibataṃ madyaṃ dhṛtavratā ||*
-> (Ṛ. Saṃ. 6-68-10)
+>
+> *indrāvaruṇā sutapāvimaṃ sutaṃ somaṃ pibataṃ madyaṃ dhṛtavratā ||*
 
-where it refers to Indra and Varuṇa. Besides, the forms *dhṛtavrataḥ*, *dhṛtavratāḥ*, *dhṛtavratāya* and *dhṛtavrate* are read in many riks.
+*(Ṛ. Saṃ. 6-68-10.)*
 
-**दूळभम् (dūḷabham)** — *duḥ-dabham*: *śatrubhir dagdhuṃ vināśayitum aśakyam*, "that which cannot be burnt, destroyed, by enemies". The word *dūḷabha*, with the same sense, is read also in other riks of the Ṛgveda Saṃhitā — *dūḷabhaḥ* and *dūḷabhāsaḥ* — whose references the print gives in small numerals (I read them as 3-[?]-[?]; 2-[?]-[?]; 4-[?]-[?]; 8-[?]-[?], but not reliably, and do not reproduce them).
+### Page 648 — Rik 6: Special Topics (end) and grammar
+
+There the word refers to Indra and Varuṇa. Besides this, the words *dhṛtavrataḥ*, *dhṛtavratāḥ*, *dhṛtavratāya*, *dhṛtavrate* are read in many Ṛks.
+
+**Dūḷabham**: *duḥdabham*:
+
+> दुर्दभं शत्रुभिर्दग्धुं विनाशयितुमशक्यं ॥
+>
+> *durdabhaṃ śatrubhirdagdhuṃ vināśayitumaśakyaṃ ||*
+
+that is, "that cannot be burnt by enemies". The word *dūḷabhe*, which points to the same sense, is read also in Ṛ. Saṃ. 2-28-8 and 7-46-4 [?]; the word *dūḷabhaḥ* in Ṛ. Saṃ. 3-2-2, 4-9-2 and 4-9-8; and the word *dūḷabhāsaḥ* in Ṛ. Saṃ. 3-56-8 [?] and 7-60-6.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 648–650, noted briefly)*
+
+**युवम् (*yuvam*)**: *yuṣmad* + nominative dual *au*. "yuvāvau dvivacane" (Pā. sū. 7-2-92): before an ending, for *yuṣmad* and *asmad* conveying duality, *yuva* and *āva* for the part up to *m*; so *yuva* for *yuṣma*, *pararūpa*: *yuvad* + *au*. "ṅe prathamayor am" (Pā. sū. 7-1-28): *am* also for the first and second case endings after *yuṣmad*/*asmad*, so *am* for *au*: *yuvad* + *am*. "prathamāyāś ca dvivacane bhāṣāyām" (Pā. sū. 7-2-88): before the first-case dual, *ā* as the final replacement of *yuṣmad*/*asmad* in the spoken language; so this *ā* does not come in the Veda. By "śeṣe lopaḥ" (Pā. sū. 7-2-90) the *ṭi* drops, or the final letter. On the final-loss view *pūrvarūpa* by "ami pūrvaḥ" (Pā. sū. 6-1-107): *yuvam*. On the *ṭi*-loss view the *a* of *am* is udātta by the *udāttanivṛtti* accent "anudāttasya ca yatrodāttalopaḥ" (Pā. sū. 6-1-161); on the final-loss view the single replacement of *ami pūrvaḥ* is udātta by "ekādeśa udāttenodāttaḥ" (Pā. sū. "6-2-5" [as printed, for 8-2-5]). So on both views *yuvam* is final udātta.
+
+**दक्षम् (*dakṣam*)**: *dakṣa vṛddhau*; *dakṣanti anena iti dakṣam*. "halaś ca" (Pā. sū. 3-3-121): after consonant-final roots, in the senses of instrument and locus, in the masculine, when a name is meant, the suffix *ghañ*; so *ghañ* after *dakṣ* in the instrumental sense. With *ghañ*, by rule it should be masculine, *dakṣaḥ*; but by *anyasyāniyamaḥ* it is neuter.
+
+**धृतव्रता मित्रावरुणा (*dhṛtavratā mitrāvaruṇā*)**: *dhṛtāni vratāni yābhyāṃ tau* (Mitra and Varuṇa, by whom the rite is accepted): *dhṛtavratau*. *Mitraś ca varuṇaś ca mitrāvaruṇau*, a dvandva compound. In both, for the vocative-nominative dual ending *au*, by "supāṃ suluk…"
+
+### Page 649 — Rik 6: grammar (continued)
+
+(Pā. sū. 7-1-39) and so on, the replacement *ā* comes. For the word *mitra*, by "devatādvandve ca" (Pā. sū. 6-3-26) the replacement *ānaṅ* comes; being *ṅit*, by "ṅic ca" (Pā. sū. 1-1-53) a *ṅit* replacement, though of several letters, comes for the final letter; so *ān* for the final *a* of *mitra*; the *n* dropped by "nalopaḥ prātipadikāntasya" (Pā. sū. 8-2-7): *mitrāvaruṇā*. In *dhṛtavratā* the vocative lowering comes by "āmantritasya ca" (Pā. sū. 8-1-19). *Mitrāvaruṇā* is at the head of the pāda, so it does not get the vocative lowering; by the sixth-adhyāya "āmantritasya ca" it is initial udātta. In *dhṛtavratā* and *mitrāvaruṇā* the shortening in the Saṃhitā is Vedic.
+
+**दूळभम् (*dūḷabham*)**: *daha bhasmīkaraṇe*; *duḥkhena dahyate iti durdaham*. "īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal" (Pā. sū. 3-3-126): after a root following *īṣat*, *dus* (in the sense of difficulty) and *su* (in the sense of ease), in the senses of action and object, the suffix *khal*; so *khal* after *dah* with *dur* before it; the *l* and *kh* are *it* and go: *dur* + *dah* + *a*. "vyatyayo bahulam" (Pā. sū. 3-1-85): here the Bhāṣyakāra divides the sūtra in two. *Vyatyayaḥ*, the first part: in the Veda the *vikaraṇa* suffixes such as *sya* are interchanged. *Bahulam*, the second part: in the Veda all rules apply variously. The Vārttikakāra has summed up this sense of *bahula*:
+
+> सुप्तिङुपग्रहलिङ्गनराणां कालहलच्स्वरकर्तृयङां च ।
+> व्यत्ययमिच्छति शास्त्रकृदेषां सो ऽपि च सिध्यति बाहुलकेन ॥
+>
+> *suptiṅupagrahaliṅganarāṇāṃ kālahalacsvarakartṛyaṅāṃ ca |*
+> *vyatyayamicchati śāstrakṛdeṣāṃ so 'pi ca sidhyati bāhulakena ||*
+
+*(Pā. sū. 3-1-85 vā. 1.)* By this, in *dur* + *dah* + *a*, *ū* for the *u*, loss of the *r*, *ḍ* for the *d* and *bh* for the *h* all come: *dūḍabha*. By "ajmadhyasya ḍakārasya ḷakāraṃ bahvṛcā jaguḥ" the *ḍ* becomes *ḷ*: *dūḷabham*. By "liti" (Pā. sū. 6-1-193) the *a* of *ḷa* before the suffix is udātta. When compounded with *dur*, by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) the *kṛt* second-member accent comes, and that accent remains.
+
+**आशाथे (*āśāthe*)**: *aśū vyāptau*; by "chandasi luṅlaṅliṭaḥ" (Pā. sū. 3-4-6) *liṭ* in the present sense. "liṭi dhātor anabhyāsasya" (Pā. sū. 6-1-8): reduplication: *aś* + *aś* + *liṭ*; for *liṭ*, the 2nd dual *āthām*; "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79): *e* for the *ām*: *aś* + *aś* + *āthe*. "halādiḥ śeṣaḥ" (Pā. sū. 7-4-60), whether by the division of the rule or by reliance on the class, removes the *ś* of the reduplicate. "ata ādeḥ" (Pā. sū. "7--70" [as printed, for 7-4-70])
+
+### Page 650 — Rik 6: grammar (end)
+
+lengthens the initial *a* of the reduplicate: *ā* + *aś* + *athe*. "aśnoteś ca" (Pā. sū. 7-4-72): after the lengthened *a* of the reduplicate, the root *aś* takes the augment *nuṭ*; though the *nuṭ* would come, by "anityam āgamaśāsanam" (paribhāṣā 96 [?]) it is not binding and does not come. *Savarṇa-dīrgha* by "akaḥ savarṇe dīrghaḥ" (Pā. sū. 6-1-101): *āśāthe*. Wholly unaccented by "tiṅṅatiṅaḥ".
+
+**॥६॥**
+
+---
 
 ### Pages 650–657 — Sūkta 15, Rik 7
 
