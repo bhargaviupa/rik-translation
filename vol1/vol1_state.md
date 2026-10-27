@@ -10,14 +10,15 @@ Status of the files (as of Oct 27, 2026; folder set up from the existing files, 
   `vol1_pass_log.md`; word-[?] pass log `vol1_qmarks_log.md`). Review pages and the user's edits per batch in `review/`.
 - Print build exists: `publish/out/vol1_full.pdf` (from `publish/work/vol1_clean.md`).
 
-## To do / not covered
-- PDF 744–945 (the scan has 945 pages): not in the pass log. The main file ends with the colophon and a sample of the
-  Alphabetical Index of mantras (the index is characterized, not transcribed) — confirm whether anything after PDF 743
-  needs the pass.
-- Rebuild the print PDF after the pass (`python3 publish/build_vol1.py full`) and regenerate the worklist
-  (`python3 publish/review_all.py`) — not yet logged as done after the pass.
-- Kannada text (`kannada/Rigveda_Samhita_Vol1_Kannada_Text.md`, pilot) and its review list: per CLAUDE.md, the
-  combined back-fill pass (English [?] + Kannada file) for Vols 1–10 needs the user's agreement.
+## To do (finishing pass by the Vol 2 method, `vol1_runbook.md`; scope ends at PDF 743)
+**Last PDF page done in the finishing pass: none yet** (next: PDF 1–100).
+1. Batches PDF 1–100, 101–200, 201–300, 301–400, 401–500, 501–600, 601–700, 701–743: open [?], unboxed numerals,
+   other misreadings, reviewer-worklist cross-check.
+2. Saṃhitā accents of Sūktas 1–2 (18 Ṛks) checked against the print (blocks already accented, never verified; e.g.
+   Ṛk 1.9 has "न॑:" with a colon for the visarga).
+3. End: rebuild `publish/out/vol1_full.pdf`, check no ◌, regenerate the worklist, write "done" here.
+- Out of scope (user, Oct 27): PDF 744–945 (the alphabetical mantra index); the Kannada text in `kannada/` (its
+  back-fill pass needs the user's agreement, per CLAUDE.md).
 
 ## Open readings
 - `[?]` count now: main file 105, Gaps file 14, Kannada text 193 (raw counts; include header-note conventions).
