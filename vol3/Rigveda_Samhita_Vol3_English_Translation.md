@@ -3356,38 +3356,91 @@ Wise and discerning people praise greatly with hymns and the like the excellent 
 
 ---
 
-### Pages 143–146 — Sūkta 23, Rik 1
+### Page 143 — Sūkta 23, Rik 1
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तीव्राः सोमास आ गह्याशीर्वन्तः सुता इमे ।
-> वायो तान्प्रस्थितान्पिब ॥ १ ॥
+> ती॒व्राः सो॑मा॒स आ ग॑ह्या॒शीर्व॑न्तः सु॒ता इ॒मे ।
+> वा॒यो तान्प्रस्थि॑तान्पिब ॥१॥
+>
+> *tīvrā́ḥ somāsá ā́ gahy āśī́rvantaḥ sutā́ imé |*
+> *vāyó tān prásthitān piba ||1||*
 
-*tīvrāḥ somāsa ā gahy āśīrvantaḥ sutā ime | vāyo tān prasthitān piba || 1 ||*
+*(Bars under ती, स (सोमास), ह्या, सु and इ; strokes over मा, ग and र्व. Line 2: a bar under यो, a stroke over स्थि.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> तीव्राः । सोमासः । आ । गहि । आशीःऽवन्तः । सुताः । इमे ॥ वायो इति । तान् । प्रऽस्थितान् । पिब ॥ १ ॥
-
-*tīvrāḥ | somāsaḥ | ā | gahi | āśīḥ-vantaḥ | sutāḥ | ime || vāyo iti | tān | pra-sthitān | piba || 1 ||*
+> तीव्राः । सोमासः । आ । गहि । आशीःऽवन्तः । सुताः । इमे ॥
+> वायो इति । तान् । प्रऽस्थितान् । पिब ॥१॥
+>
+> *tīvrāḥ | somāsaḥ | ā | gahi | āśīḥ 'vantaḥ | sutāḥ | ime ||*
+> *vāyo iti | tān | pra 'sthitān | piba ||1||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे वायो इमे सोमास ऐन्द्रवायवग्रहादिरूपाः सोमाः सुता अभिषुताः । ते च तीव्राः प्रभूतशक्तिप्रदानसमर्थाः [?] आशीर्वन्त आशिरयुक्ताः । अतस्त्वमा गहि अस्मिन्कर्मण्यागच्छ । प्रस्थितानुत्तरवेदिं प्रत्यानीतांस्तान्सोमान्पिब ॥ सोमासः । अर्तिस्तुसुहुसृधृक्षिक्षुभायावापदियक्षिनीभ्यो मन् (उ. [१-१४२]) इत्यादिना मन् । नित्त्वादाद्युदात्तः । आज्जसेरसुक् । गहि । मरुद्भिरग्न आ गहि (ऋ. १-१९-१) इत्यत्रोक्तम् । आशीर्वन्तः । श्रीञ् पाके । आङ्पूर्वस्य क्विपि शिरादेशो निपातितः । करणस्यापि श्रयणद्रव्यस्य स्वव्यापारे कर्तृत्वविवक्षया कर्तरि क्विप् न विरुध्यते । आशीरेषामस्तीत्याशीर्वन्तः । छन्दसीर इति वत्वम् । वायो । आमन्त्रिताद्युदात्तत्वम् । प्रस्थितान् । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरत्वं बाधित्वा व्यत्ययेनाव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
+*(Numbers as printed: ऋग्वे० १-१९-१, पा० ६-१-३६.)*
 
-*he vāyo ime somāsa aindravāyavagrahādirūpāḥ somāḥ sutā abhiṣutāḥ | te ca tīvrāḥ prabhūtaśaktipradānasamarthāḥ [?] āśīrvanta āśirayuktāḥ | atas tvam ā gahi asmin karmaṇy āgaccha | prasthitān uttaravediṃ pratyānītāṃs tān somān piba || somāsaḥ | artistusuhusṛdhṛkṣikṣubhāyāvāpadiyakṣinībhyo man (u. [1-142]) ity ādinā man | nittvād ādyudāttaḥ | ājjaser asuk | gahi | marudbhir agna ā gahi (ṛ. 1-19-1) ity atroktam | āśīrvantaḥ | śrīñ pāke | āṅpūrvasya kvipi śirādeśo nipātitaḥ | karaṇasyāpi śrayaṇadravyasya svavyāpāre kartṛtvavivakṣayā kartari kvip na virudhyate | āśīr eṣām astīty āśīrvantaḥ | chandasīra iti vatvam | vāyo | āmantritādyudāttatvam | prasthitān | prādisamāse kṛduttarapadaprakṛtisvaratvaṃ bādhitvā vyatyayenāvyayapūrvapadaprakṛtisvaratvam ||*
+> हे वायो इमे सोमास ऐन्द्रवायवग्रहादिरूपाः सोमाः सुता अभिषुताः । ते च तीव्राः प्रभूतत्वात्तर्पयितुं समर्था आशीर्वन्त आशिरयुक्ताः । अतस्त्वमा गहि । अस्मिन्कर्मण्यागच्छ । प्रस्थितानुत्तरवेदिं प्रत्यानीतांस्तान्सोमान्पिब ॥ सोमासः । अर्तिस्तुसु इत्यादिना मन् । नित्त्वादाद्युदात्तः । आज्जसेरसुक् । गहि । मरुद्भिरग्न आ गहि । ऋग्वे० १-१९-१ । इत्यत्रोक्तं । आशीर्वन्तः । श्रीञ् पाके । अपस्पृधेथामित्यादिसूत्रे । पा० ६-१-३६ । आङ्पूर्वस्य क्विपि शिरादेशो निपातितः । करणस्यापि श्रयणद्रव्यस्य स्वव्यापारे कर्तृत्वविवक्षया कर्तरि क्विप् न विरुध्यते । आशीरेषामस्तीत्याशीर्वन्तः । छन्दसीर इति वत्वं । वायो । आमन्त्रिताद्युदात्तत्वं । प्रस्थितान् । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरत्वं बाधित्वा व्यत्ययेनाव्ययपूर्वपदप्रकृतिस्वरत्वं ॥
+>
+> *he vāyo ime somāsa aindravāyavagrahādirūpāḥ somāḥ sutā abhiṣutāḥ | te ca tīvrāḥ prabhūtatvāttarpayituṃ samarthā āśīrvanta āśirayuktāḥ | atastvamā gahi | asminkarmaṇyāgaccha | prasthitānuttaravediṃ pratyānītāṃstānsomānpiba || somāsaḥ | artistusu ityādinā man | nittvādādyudāttaḥ | ājjaserasuk | gahi | marudbhiragna ā gahi | ṛgve0 1-19-1 | ityatroktaṃ | āśīrvantaḥ | śrīñ pāke | apaspṛdhethāmityādisūtre | pā0 6-1-36 | āṅpūrvasya kvipi śirādeśo nipātitaḥ | karaṇasyāpi śrayaṇadravyasya svavyāpāre kartṛtvavivakṣayā kartari kvip na virudhyate | āśīreṣāmastītyāśīrvantaḥ | chandasīra iti vatvaṃ | vāyo | āmantritādyudāttatvaṃ | prasthitān | prādisamāse kṛduttarapadaprakṛtisvaratvaṃ bādhitvā vyatyayenāvyayapūrvapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "O Vāyu! These soma-juices — those of the *aindra-vāyava* cup and the rest — have been pressed. They are *tīvra* — [strong, able to give abundant strength] [?] — and *āśīrvantaḥ* — mixed with *āśīr* [milk and the like]. Therefore come you to this rite. Drink those soma-juices, which have been set out [*prasthitān*] — brought to the northern altar." *(Grammar pages 144–146, noted briefly: the words treated are* somāsaḥ *[*su* 'to press', with the Uṇādi suffix* man *by Uṇ. [1-142] *artistusuhusṛdhṛkṣi…*; *nit*, so first syllable acute; *asuk* after *jas* by P. 7-1-50],* gahi *[as explained under Ṛ. 1-19-1],* āśīrvantaḥ *[*śrīñ pāke*, *āṅ* + *śrī* + *kvip*, with* śīr *substituted by a* nipātana *rule; the discussion of the accent of the *kvip* forms; *matup* in the sense 'having', P. 5-2-94 *tadasyāstyasminn iti matup*; *matup → vat* after *r*-ending words in the Veda, P. 8-2-15; the *num* augment, P. 7-1-70; *rutva-visarga*],* vāyo *[vocative, *āmantrita* by P. 2-3-48; accent by P. 6-1-198],* prasthitān *[*sthā* + *kta*; *pra*-compound; accent by *vyatyaya*]; numerals as read, pointers only.)*
+**Translation:** "O Vāyu! *Ime somāsaḥ*, these somas in the form of the cup to Indra-Vāyu and the rest, are *sutāḥ*, pressed. And they are *tīvrāḥ*, able to satisfy because they are abundant, *āśīrvantaḥ*, furnished with the admixture (*āśir*). So *ā gahi*, come to this rite. *Piba*, drink *tān*, those somas, *prasthitān*, brought to the *uttaravedi*." (Grammatical tail: *somāsaḥ*, *man* by *artistusu…*, initial udātta as *nit*, *asuk* by *āj jaser asuk*; *gahi*, stated at *marudbhir agna ā gahi* (Ṛgve. 1-19-1); *āśīrvantaḥ*, *śrīñ pāke*; in the sūtra *apaspṛdhethām…* (Pā. 6-1-36) the substitute *śir* is given as a set form for the root with *āṅ* before *kvip*; though the mixing substance is an instrument, *kvip* in the agent sense is not contradicted, since it is meant as agent in its own action; 'they have *āśir*': *āśīrvantaḥ*, the *v* by *chandasīraḥ*; *vāyo*, the vocative initial udātta; *prasthitān*, in the *prādi* compound, overriding the accent of the *kṛt* final member, the indeclinable first member's accent by *vyatyaya*.)
 
-**॥ Prati-padārthaḥ ॥** **(हे) वायो ((he) vāyo)** — O Vāyu | **इमे सोमासः (ime somāsaḥ)** — these soma-juices | **तीव्राः (tīvrāḥ)** — very strong [or: of much essence] | **आशीर्वन्तः (āśīrvantaḥ)** — accompanied by the *āśīr* substances, curd, barley and the like | **सुताः (sutāḥ)** — prepared so as to be drunk before | **प्रस्थितान् (prasthitān)** — taken to the northern altar [of the sacrifice] | **तान् (tān)** — those juices | **पिब (piba)** — drink | **आ गहि (ā gahi)** — come.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O Vāyu! These soma-juices are mixed with curd and the like, and are very strong. For your drinking they have been prepared in this way and brought to the northern altar. Drink them.
+**(हे) वायो ((he) vāyo)** — O Vāyu | **इमे सोमासः (ime somāsaḥ)** — these soma juices | **तीव्राः (tīvrāḥ)** — very abundant (or full of essence) | **आशीर्वन्तः (āśīrvantaḥ)** — mixed with the *āśir* substances, curds, barley and the rest | **सुताः (sutāḥ)** — made ready by pressing so as to be fit to drink | **प्रस्थितान् (prasthitān)** — brought to the *uttaravedi* of the sacrifice | **तान् (tān)** — those soma juices | **पिब (piba)** — drink.
+
+### Page 144 — Rik 1: overall sense, English, Special Topics, grammar
+
+**॥ Bhāvārthaḥ ॥**
+
+O Vāyu, these soma juices are mixed with *āśir* substances such as curds and are full of essence. We have brought that soma juice, made ready in this way for your drinking, to the *uttaravedi*. Drink it.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> These intoxicating Soma juice flavoured with milk, barley, and butter milk are extracted and placed for your use. O Vayu, drink those Soma juices.
+> These intoxicating Soma juice flavoured with milk, barley, and butter-milk are extracted and placed for your use. O Vayu, drink those Soma juices.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 144)* **तीव्राः** — the commentator has explained this word, in the passage on 'abundance of power', [in some places in this sense]; Skandasvāmin explains it as 'pungent' (*kaṭuka*) or 'bitter' (*kahiyāna*); Veṅkaṭamādhava as 'that which causes intoxication'; Wilson and the author of the *Vedārthayatna* translate it 'Sharps'. Of these various meanings Veṅkaṭamādhava's is the most appropriate; for this word the sense 'essence-rich, highly concentrated, intoxicating' is best suited. **आशीर्वन्तः** — to make the soma-juice agreeable, it is the custom to mix with it milk, curd and barley; these mixed substances are called *āśīr-dravyas*; soma-juice mixed with milk is called *gavāśir*, mixed with curd, *dadhyāśir*, mixed with barley (*yava*), *yavāśir*. Wilson has translated the word 'blessing-bearing'; that does not appear correct.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**तीव्राः (tīvrāḥ)** — the commentator has given the meaning 'in great quantity'; Skandasvāmin 'sharp (pungent or bitter)'; and Veṅkaṭamādhava 'intoxicating'. The pandit Wilson and the author of the *Vedārthayatna* have translated it as "Sharp". Among these various meanings, Veṅkaṭamādhava's meaning is the more fitting. For this word the meaning "full of essence, highly-concentrated, intoxicating" fits rightly here.
+
+**आशीर्वन्तः (āśīrvantaḥ)** — the custom is to use soma juice mixed with substances such as milk, curds and barley, to make it tasty. Such mixed substances are named *āśir* substances. Soma juice mixed with milk is named *gavāśira*, juice mixed with curds *dadhyāśira*, and juice mixed with barley (flour) *yavāśira*. The pandit Wilson has translated this word as "Blessing-bearing". That does not seem right.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**सोमासः (somāsaḥ)** — by *artistusuhusṛdhṛkṣikṣubhāyāvāpadiyakṣinībhyo man* (U. Sū. 1-137 [?]) — after these roots, *ṛ gatau*, *ṣṭuñ stutau*, *ṣuñ abhiṣave*, *hu dānādanayoḥ*, *sṛ gatau*, *dhṛñ dhāraṇe*, *kṣi kṣaye*, *kṣu śabde*, *bhā dīptau*, *yā prāpaṇe*, *vā gatigandhanayoḥ*, *pada gatau*, *yakṣa pūjāyām*, *ṇīñ prāpaṇe*, the suffix *man* comes — the suffix *man* after the root *su*, read as *ṣuñ abhiṣave*; by *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *s* for the *ṣ*: *su* + *ma*; by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa*, *o* for the *u*: *soma* is formed. The *man*
+
+### Page 145 — Rik 1: grammar (continued)
+
+suffix is *nit*; so by *ñnity ādir nityam* (Pā. Sū. 6-1-197 [?]) the word *soma* is initially udātta; after it *jas*; by *āj jaser asuk* (Pā. Sū. 7-1-50) the augment *asuk* for *jas*.
+
+**गहि (gahi)** — the derivation is described at *marudbhir agna ā gahi* (Ṛ. Saṃ. 1-19-1).
+
+**आशीर्वन्तः (āśīrvantaḥ)** — the root *śrīñ pāke*. In *apaspṛdhethām ānṛcur ānṛhuś cicyuṣe tityāja śrātāḥ śritam āśīr āśīrtāḥ* (Pā. Sū. 6-1-36): the root *spardha saṃgharṣe*; after it *laṅ*; for it the middle person dual *āthām*: *spardh* + *āthām*; by *luṅlaṅlṛṅkṣv aḍ udāttaḥ* the augment *aṭ*, *śap*: *a-spardh* + *a* + *āthām*; by *āto ṅitaḥ* (Pā. Sū. 7-2-81) — the *ā* of a *ṅit* after a short *a* takes the substitute *iy* — the substitute *iy* for the *ā*: *a-spardh* + *a* + *iyāthām*, *guṇa*, dropping of the *y*: *aspardhethām* results in common usage. Here, in the Veda, the reduplication of the root, *saṃprasāraṇa* *ṛ* for the *r*, and dropping of the *a* of the *spa* of the latter part are all given as set forms; so in *a-spardh-spardh-a-āthām*, in the reduplicate, by *śarpūrvāḥ khayaḥ* (Pā. Sū. 7-4-61) the *p* remains. *A-pa-spardh* + *a* + *āthām*: in the second, *ṛ* for the *r* and dropping of the *a* of *spa* having come, the rest of the derivation is set out as before, and it becomes *apaspṛdhethām*. This very part the author of the Mahābhāṣya has made clear by the *vārttika*:
+
+> स्पर्धेर्लङ्यात्मनेपदानां मध्यमपुरुषस्य द्विवचने आथामि द्विर्वचने संप्रसारणमकारलोपश्च ।
+>
+> *spardherlaṅyātmanepadānāṃ madhyamapuruṣasya dvivacane āthāmi dvirvacane saṃprasāraṇamakāralopaśca |*
+
+This derivation is described according to the branch in which *apaspṛdhethām* is one word; in another branch it is said to consist of two words. On that view, after the root *spardh* preceded by the prefix *apa*, *laṅ*, for it *āthām*, *śap*, the substitute *iy*, *guṇa*, dropping of the *y*; since it is Vedic, the augment *aṭ* does not come. In *apa spṛdhethām*, *ṛ* for the *r* and dropping of the *a* of *spa* are given as set forms. This part becomes clear from the other *vārttika*:
+
+> अपपूर्वात् स्पर्धेर्लङ्यात्मनेपदानां मध्यमपुरुषस्य द्विवचने आथामि संप्रसारणमकारलोपश्च ।
+>
+> *apapūrvāt spardherlaṅyātmanepadānāṃ madhyamapuruṣasya dvivacane āthāmi saṃprasāraṇamakāralopaśca |*
+
+On the first view *apaspṛdhethām* is initially udātta; on the second view *spṛdhethām* is initially udātta; by *tiṅi codāttavati* (Pā. Sū. 8-2-71, as printed) the *apa* is unaccented. Since in the sūtra the direction is in the monotone, which includes all accents, both, having different accents, are included here. *Ānarcuḥ*, *ānarhuḥ* are, in common usage, the forms of the third person plural of *liṭ* of the roots *arca pūjāyām* and *arha pūjāyām*. In the Veda, *saṃprasāraṇa* of the *r* and dropping of the *a* are given as set forms: it becomes *ānṛcuḥ*, *ānṛhuḥ*. The root *cyuṅ*, *liṭ*, *thās*: it becomes *cucyuṣe*. The root *tyaja*, *liṭ*, third person singular: it becomes *tatyāja*. In the last two, the substitute *i* for the vowel of the reduplicate is given as a set form. According to the *vārttika* —
+
+> श्रीणातेः क्ते श्राभावश्रिभावौ ।
+>
+> *śrīṇāteḥ kte śrābhāvaśribhāvau |*
+
+### Page 146 — Rik 1: grammar (end)
+
+— when the suffix *kta* is put after the root *śrīñ pāke*, if the substitute *śrā* comes for the root it becomes *śrāta*, and if the substitute *śri* comes it becomes *śrita*. When the suffix *kvip* comes after the root *śrīñ pāke* preceded by the prefix *āṅ*, the substitute *śir* for the root is given as a set form by the present sūtra. In *kvip* all letters are dropped; the nominative singular suffix *su*; by *halṅyābbhyaḥ* (Pā. Sū. 6-1-68) *su* is dropped; by *vor upadhāyā dīrgha ikaḥ* (Pā. Sū. 8-2-76) — in the case of a *pada*-end, the *i*, *u*, *ṛ*, *ḷ* penultimate in roots ending in *r* or *v* are lengthened — the *i* is lengthened: it became *āśīr*. With the analysis *āśīḥ eṣām asti*, by *tad asyāsty asminn iti matup* (Pā. Sū. 5-2-94) the suffix *matup*: *āśīr* + *mat*; now by *chandasīraḥ* (Pā. Sū. 8-2-15) — in the Veda, *v* is substituted for the *m* of *matup* after words ending in *i* and in *r* — the substitute *v* for the *m*: *āśīrvat*; after it *jas*, the augment *num* by *ugidacām* (Pā. Sū. 7-1-70), *ru* and *visarga*: it becomes *āśīrvantaḥ*.
+
+**वायो (vāyo)** — this ends in the vocative nominative singular. So by *sāmantritam* (Pā. Sū. 2-3-48) — the vocative nominative singular gets the name *āmantrita* — it has the name *āmantrita*. By the sixth-book sūtra *āmantritasya ca* (Pā. Sū. 6-1-198) the initial udātta accent comes.
+
+**प्रस्थितान् (prasthitān)** — *sthita* ends in the suffix *kta*; by *kugatiprādayaḥ* (Pā. Sū. 2-2-18) the *prādi* compound. Now, though by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the own accent of the *kṛt* final member would be due, by *vyatyayo bahulam* the indeclinable first member's own accent comes by interchange. *Pra*, by *upasargāś cābhivarjam* (Phi. Sū. 82 [?]) — the prefixes other than *abhi* are initially udātta — is initially udātta; as said before, that same accent stays. ॥1॥
 
 ---
 
