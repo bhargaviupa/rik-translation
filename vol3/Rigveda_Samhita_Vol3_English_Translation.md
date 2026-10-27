@@ -1740,15 +1740,17 @@ The meaning of this ṛk is somewhat tangled. The main intention is: O Aśvin de
 
 ---
 
-### Pages 72–73 — Sūkta 22, Rik 4
+### Page 72 — Sūkta 22, Rik 4
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नहि वामस्ति दूरके यत्रा रथेन गच्छथः ।
-> अश्विना सोमिनो गृहम् ॥४॥
+> न॒हि वा॒मस्ति॑ दूर॒के यत्रा॒ रथे॑न॒ गच्छ॑थः ।
+> अ॑श्विना सो॒मिनो॑ गृ॒हम् ॥४॥ [accent ?]
 >
-> *nahi vām asti dūrake yatrā rathena gacchathaḥ |*
-> *aśvinā somino gṛham ||4||*
+> *nahí vām ásti dūraké yatrā ráthena gácchathaḥ |*
+> *aśvinā somíno gṛhám ||4||* [accent ?]
+
+*(Bars under न (नहि), वा, र (दूरके), त्रा and न (रथेन); strokes over स्ति, थे and च्छ. Line 2: a stroke over अ of अश्विना, a bar under सो, a stroke between मि and नो (read as over नो [accent ?]), a bar under गृ. The Pada prints यत्र.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -1758,33 +1760,47 @@ The meaning of this ṛk is somewhat tangled. The main intention is: O Aśvin de
 > *nahi | vām | asti | dūrake | yatra | rathena | gacchathaḥ ||*
 > *aśvinā | sominaḥ | gṛham ||4||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 72; compressed; [?] marks doubtful readings)*
-
-> अश्विना हे अश्विनौ देवौ युवां सोमिनः सोमवतो यजमानस्य गृहं प्रति रथेन गच्छथः । स मार्गो वां युवयोर्दूरके दूरदेशे नह्यस्ति । न वर्तते खलु । यद्वा । यत्र गृहे गच्छथस्तच्च गृहं दूरे न भवति । नहि । एवमादीनामन्त इत्थंतोदात्तः । अस्ति । चादिलोपे विभाषेति निघाताभावः । अत्र हि गृहं दूरे च नास्ति युवां च रथेन गच्छथ इति समुच्चयार्थो गम्यते । चशब्दो न प्रयुज्यते इति च लोपे प्रथमा तिङ्भक्तिरस्तीति । यत्रा । निपातस्य चेति संहितायां दीर्घत्वम् । गच्छथः । इयं यद्यपि न प्रथमा तथापि यत्रेति यद्वृत्तयोगान्न निघातः ॥
+> अश्विना हे अश्विनौ देवौ युवां सोमिनः सोमवतो यजमानस्य गृहं प्रति रथेन गच्छथः । स मार्गो वां युवयोर्दूरके दूरदेशे नह्यस्ति । न वर्तते खलु । यद्वा । यत्र गृहे गच्छथस्तच्च गृहं दूरे न भवति ॥ नहि । एवमादीनामन्त इत्यन्तोदात्तः । अस्ति । चादिलोपे विभाषेति निघाताभावः । अत्र हि गृहं दूरे च नास्ति युवां च रथेन गच्छथ इति समुच्चयश्चार्थो गम्यते । चशब्दो न प्रयुज्यत इति चलोपे प्रथमा तिङ्विभक्तिरस्तीति । यत्र । निपातस्य चेति संहितायां दीर्घत्वं । गच्छथः । इयं यद्यपि न प्रथमा तथापि यत्रेति यद्वृत्तयोगान्न निघातः ॥
 >
-> *aśvinā he aśvinau devau yuvāṃ sominaḥ somavato yajamānasya gṛhaṃ prati rathena gacchathaḥ | sa mārgo vāṃ yuvayor dūrake dūra-deśe nahy asti | na vartate khalu | yadvā | yatra gṛhe gacchathas tac ca gṛhaṃ dūre na bhavati | nahi | evam-ādīnām anta ity-aṃtodāttaḥ | asti | cādilope vibhāṣeti nighātābhāvaḥ | atra hi gṛhaṃ dūre ca nāsti yuvāṃ ca rathena gacchatha iti samuccayārtho gamyate | ca-śabdo na prayujyate iti ca lope prathamā tiṅ-bhaktir astīti | yatrā | nipātasya ceti saṃhitāyāṃ dīrghatvam | gacchathaḥ | iyaṃ yady api na prathamā tathāpi yatreti yad-vṛtta-yogān na nighātaḥ ||*
+> *aśvinā he aśvinau devau yuvāṃ sominaḥ somavato yajamānasya gṛhaṃ prati rathena gacchathaḥ | sa mārgo vāṃ yuvayordūrake dūradeśe nahyasti | na vartate khalu | yadvā | yatra gṛhe gacchathastacca gṛhaṃ dūre na bhavati || nahi | evamādīnāmanta ityantodāttaḥ | asti | cādilope vibhāṣeti nighātābhāvaḥ | atra hi gṛhaṃ dūre ca nāsti yuvāṃ ca rathena gacchatha iti samuccayaścārtho gamyate | caśabdo na prayujyata iti calope prathamā tiṅvibhaktirastīti | yatra | nipātasya ceti saṃhitāyāṃ dīrghatvaṃ | gacchathaḥ | iyaṃ yadyapi na prathamā tathāpi yatreti yadvṛttayogānna nighātaḥ ||*
 
-**Translation:** "O Aśvin gods! You go by chariot to the house of the sacrificer who has soma (*sominaḥ*). That road is certainly not (*nahi*) *dūrake* — far — for you; it does not exist [as a long road]. Or: the house to which you go is not far. [Grammar:] *nahi* is end-accented as one of the *evamādi* list; *asti* is not made unaccented because the dropped *ca* is optional [P. 8-1-63]; here the sense is a conjunction — 'the house is not far, and you go by chariot' — the word *ca* is not used, and with its omission the first verb is not unaccented; *yatrā* lengthens in the Saṃhitā by P. 6-3-136 *nipātasya ca*; *gacchathaḥ* is not made unaccented, though not the first verb, because of the relative *yatra*." *(Grammar, noted briefly.)*
+**Translation:** "*Aśvinā*, O Aśvin gods! You two *gacchathaḥ*, go, *rathena*, by chariot, to the *gṛham*, house, of the *sominaḥ*, the sacrificer who has soma. That way is *nahi … asti*, surely not, *vām*, for you two, *dūrake*, in a far place: it is not, indeed. Or: the house to which you go is not far." (Grammatical tail: *nahi*, final udātta by *evamādīnām antaḥ*; *asti*, no loss of accent by *cādilope vibhāṣā*: for here the conjunctive sense 'the house is not far *and* you go by chariot' is understood; the word *ca* is not used, so, *ca* being dropped, *asti* is the first finite verb; *yatra*, lengthening in the Saṃhitā by *nipātasya ca*; *gacchathaḥ*, although this is not the first, there is no loss of accent because of its connection with the *yad*-word *yatra*.)
 
-**Grammar pages (p. 73 lower half), noted briefly.** The Kannada says: *nahi* — words in the *evādi* class of Phiṭ-sūtra *evādīnām antaḥ* are end-accented, and *nahi* belongs to it as the list is open (*ākṛtigaṇa*); *asti* — here *gṛhaṃ dūre ca nāsti, yuvāṃ ca rathena gacchathaḥ* ("the house is not far, and you travel by chariot") is the sense; the *ca* is not used, yet since the dropped *ca* is optional by P. 1-4-… *cādilope vibhāṣā* P. 8-1-63, the first verb *asti* remains accented, the rule that a verb is unaccented after a non-first position [*tiṅ atiṅaḥ* P. 8-1-28] being barred; *yatrā* — *nipātasya ca* P. 6-3-136 lengthens the final vowel of a particle in the Veda; *yatra* belongs to the *ca*-group; and since *gacchathaḥ* stands within the *yat*-clause, by *yadvṛttān nityam* P. 8-1-66 it too keeps its accent, though *pūjanāt pūjitam anudāttam* P. 8-1-67 [as printed 8-1-68], by showing 'the more honoured', teaches that in this context the rule 'the word following is unaccented' is not intended after a word that is not an *anantara* member. ॥4॥ *(Outline only; numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 72)*
-
-**अश्विना (aśvinā)** — O Aśvin deities | **(यूयम्) सोमिनः ((yūyam) sominaḥ)** — [you, to] the one who prepares soma, the sacrificer | **गृहम् (gṛham)** — to the house | **रथेन (rathena)** — on a chariot | **गच्छथः (gacchathaḥ)** — go | **सः (saḥ)** — that [road] | **वाम् (vām)** — for you | **दूरके (dūrake)** — far | **नहि अस्ति (nahi asti)** — is not.
+**अश्विना (aśvinā)** — O Aśvin deities, (you) | **सोमिनः (sominaḥ)** — of the sacrificer who prepares the soma juice | **गृहं (gṛhaṃ)** — to the house | **रथेन (rathena)** — on the chariot | **गच्छथः (gacchathaḥ)** — you go | **सः (saḥ)** — that path | **वां (vāṃ)** — for you | **दूरके (dūrake)** — far | **नहि अस्ति (nahi asti)** — is not, indeed.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Aśvins! The house of the sacrificer who prepares the soma, to which you must go by chariot, is not far from you. (Therefore come quickly.)
+O Aśvin deities, the house of the sacrificer who prepares the soma juice, to which you have to go on the chariot, is not far. (So you should come quickly.)
+
+### Page 73 — Rik 4: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > For to you, Aswins, the house of the Soma-sacrificer whither you go in your chariot is not far off.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 73)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-As said in the previous rik, your chariot can travel swiftly; the whip with its sweet-sounding [call] makes the horses go fast. Therefore, to you who travel in the chariot, the house of the soma-performing sacrificer does not appear far. Sitting in the swiftly moving chariot you can come quickly to the sacrificer's house; the house is not far — that is the main idea.
+As said in the previous ṛk, your chariot can move fast. The whip with its sweet sound makes the horses move fast. So for you, who travel by chariot, the house of the performer of the soma sacrifice does not seem far. Seated in the fast-moving chariot you can come quickly to the sacrificer's house. The main intention is: that house is not far.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**नहि (nahi)** — final udātta by *evādīnām antaḥ* (Phi. Sū. 8-2), by which the end of the words read in the *evādi* class is udātta. Although *nahi* is not in the *evādi* class, the intention is that, since it is an *ākṛtigaṇa*, it must be included there.
+
+**अस्ति (asti)** — here the intended sense is: *gṛhaṃ dūre ca nāsti, yuvāṃ ca rathena gacchathaḥ*, the house is not far, and you travel by chariot. So the use of *ca* is needed; yet here that *ca* is not used; so by *cādilope vibhāṣā* (Pā. Sū. 8-1-63) — if *ca*, *vā*, *ha*, *aha*, *eva* are dropped, the first finite verb is not made unaccented — the first finite verb *asti* is not unaccented.
+
+**यत्र (yatra)** — by *nipātasya ca* (Pā. Sū. 6-3-136) lengthening comes in the Saṃhitā to a particle in a mantra. *Yatra* is read in the *cādi* class; so by *cādayo 'sattve* (Pā. Sū. 1-4-57) — the words of the *cādi* class not expressing gender, number, case or a substance are called *nipāta* — it is a *nipāta*. *Gacchathaḥ*: though the dropping of *ca* is there, since this is not the first finite verb, the prohibition of total lack of accent by *cādilope vibhāṣā* does not come. Yet since there is connection with a word containing *yad*, namely *yatra*, by *yadvṛttān nityam* (Pā. Sū. 8-1-66) — a finite verb after a word containing *yad* is not unaccented — the prohibition comes, so total lack of accent does not come. In *pūjanāt pūjitam anudāttam* (Pā. Sū. 8-1-67), by the further mention of *pūjita*, it is made known that *atra prakaraṇe pañcamīnirdeśe 'pi nānantaryam iṣyate*; so even though *gacchathaḥ* is not immediately after the word *yatra*, there is no hindrance to the prohibition of lack of accent. ॥4॥
+
+*(The maxim quoted, as printed: "in this section, even with a fifth-case statement, immediate sequence is not required".)*
+
+> अत्र प्रकरणे पञ्चमीनिर्देशेऽपि नानन्तर्यमिष्यते ।
+>
+> *atra prakaraṇe pañcamīnirdeśe 'pi nānantaryamiṣyate |*
+
+---
 
 ### Pages 74–77 — Sūkta 22, Rik 5
 
