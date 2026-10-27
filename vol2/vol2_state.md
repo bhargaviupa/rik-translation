@@ -69,6 +69,7 @@ Batch 301–400: 510 Vol 2 rows for printed pp. 285–388, again with no reviewe
 - pp. 287–386 (batch 301–400): p. 287 Uṇ. 1-142 [?]; p. 288 Ṛ. 8-64-6 [?]; p. 293 Uṇ. 1-154 [?], 4-691 [?]; p. 296 Ni. "3-7" [?]; p. 305 Uṇ. 4-547 [?]; p. 316 Uṇ. 2-12 [?], 2-33 [?], 1-136 [?]; p. 322 Ni. "2-24" [?], "3-9" [?]; p. 323 Uṇ. 4-558 [?]; p. 330 Niru. "1-11-38" [?]; p. 332 Ṛ. 8-92-2 [?] (last digit); p. 341 Uṇ. 1-142 [?], 2-164 [?]; p. 344 Ni. "3-9" [?] (twice); p. 345 Uṇ. 4-645 [?]; p. 346 Uṇ. 1-149 [?], 4-631 [?]; p. 354 Ṛ. 1-27-9 [?]; p. 358 Uṇ. 3-406 [?], 3-405 [?], 4-498 [?]; p. 360 Uṇ. 4-628 [?], 3-328 [?]; p. 379 Uṇ. "2-2-42" [?] (three-part number; third digit ೪ or ೮).
 - Words, pp. 287–386: p. 366 "स्यदर्थत्वात्" kept as printed [?] (sense expects ण्यदर्थ…); p. 372 "मिमित" kept as printed [sic: मिमीते].
 - Accents, pp. 287–386: [accent ?] on Ṛks 7.9 (p. 294, line 2: a stroke missing), 8.1 (p. 303, stroke over "va" of varṣiṣṭham), 8.5 (p. 319, both lines: stroke joined to a bar over "śavaḥ"), 8.6 (p. 324, line 1: faint bar under "sya"), 8.9 (p. 336, both lines: placement), 8.10 (p. 339, line 2: placement).
+- pp. 387– (batch 401–500): Ṛk 10.2 line 2 [accent ?] (p. 387, stroke between थे and न of यूथेन).
 - Accents: [accent ?] on Ṛks 1.3 (p. 24), 3.5 (p. 38), 4.10 (p. 129) — a mark too faint to judge.
 
 ## To be reviewed by the user (changes beyond numerals, or judgement calls)
