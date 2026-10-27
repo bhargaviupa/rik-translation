@@ -63,3 +63,8 @@ PDF 580 (p. 566): Kannada explanation re-rendered from print; page ref "74-75" [
 PDF 581 (p. 567): devih/mayobhuvah/asridhah topics in three layers; grammar rewritten from print (kvip ca 3-2-76, dhatoh 6-1-162, Pratisakhya, Kau. "2-4-82" [?], Un. "4-628" [?], 5-2-94, 8-2-9, 1-4-19, 8-2-66, ugitas ca "6-3-45" [?]).
 PDF 582 (p. 568): grammar from print (6-4-148, 6-1-161, 7-2-99, 6-3-110 as printed, 7-2-100, "7-1-166" [?], 4-1-48, 6-1-102, "6-?-104" [?], 6-1-106, 3-2-76, 6-4-77, 6-2-139).
 PDF 583 (p. 569): grammar from print (Un. "2-266" [?], 7-1-3, 3-4-86, 7-3-78, va. "0-3-108-9" [?], 6-2-1, 6-2-172); Rk 13.10 Samhita accents as printed; duplicate p. 569 heading merged.
+PDF 584 (p. 570): Rk 13.10 bhasya re-transcribed in full from print (7-2-44, 8-2-29, "4-4-117" [?], 7-1-2, 7-1-2-1, T.S. "6-1-8-5" [?], 6-2-106, Un. "1-138" [?], 7-2-89, 7-1-33, 7-2-86, 7-1-52); English "multi.form", "soley" [sic]; page heading added.
+PDF 585 (p. 571): Special Topics three layers (Yaska Ni. 8-14, Rk 10-110-9, T.S. sentences, Rk 10-48-3 confirmed; T.S. "3-3-" incomplete as printed).
+PDF 586 (p. 572): Rk 1-7-10 confirmed; grammar tvastaram/agriyam from print (invented "jhalo jhali" removed).
+PDF 587-588 (pp. 573-574): agriya accent discussion rendered from print (3-1-1..3, MB 7-1-2, va. 7-1-2-1, 6-1-163, Uddyota, va. 7-1-2-2); visvarupa (6-2-1, 6-2-106, T.S. "6-1-8-5" [?]); asmakam (Un. "1-136" [?], 7-2-89, 7-1-33, 1-4-2).
+PDF 589 (p. 575): asmakam end (paribhasa "38" [?], 7-1-52, 7-2-90); kevalah 6-1-203, printed "antodatta" kept as printed; Rk 13.11 Samhita accents as printed.

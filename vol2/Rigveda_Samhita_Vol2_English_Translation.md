@@ -11668,17 +11668,17 @@ The root *sridh* means to harm, to dry up. *Asridhaḥ* means those who are not 
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> पत्नीसंयाजे त्वष्टुः पुरोनुवाक्येह त्वष्टारमग्रियमिति । शं युवाकाय संप्रेषिते इति खण्डे सूत्रितम् । सं ते पयांसि समु यन्तु वाजा इह त्वष्टारमग्रियम् । आ. १-१० । इति ॥
+> पत्नीसंयाजे त्वष्टुः पुरोनुवाक्येह त्वष्टारमग्रियमिति । शं युवाकाय संप्रेषित इति खण्डे सूत्रितम् । सं ते पयांसि समु यन्तु वाजा इह त्वष्टारमग्रियम् । आ. १-१० ॥ इति ॥
 >
-> *patnīsaṃyāje tvaṣṭuḥ puronuvākyehe tvaṣṭāram agriyam iti | śaṃ yuvākāya saṃpreṣite iti khaṇḍe sūtritam | saṃ te payāṃsi sam u yantu vājā iha tvaṣṭāram agriyam | ā. 1-10 | iti ||*
->
-> त्वष्टारं त्वष्टृनामकमग्निमिह कर्मण्युपह्वये । कीदृशम् । अग्रियं श्रेष्ठं विश्वरूपं बहुविधरूपोपेतं । सो ऽस्माकं केवलो ऽसाधारणो ऽस्तु । इतरयजमानेभ्यो ऽस्यधिकमनुग्रहं करोत्वित्यर्थः ॥ त्वष्टारम् । तक्षू त्वक्षू तनूकरणे । तृन् । स्वरतिसूतीत्यादिना । पा. ७-२-४४ । इति वेट् [reading uncertain] … अग्रियम् । अग्रादित्यन्तप्रादित्यादिभ्यो घच्च । पा. ४-४-११६ । … विश्वरूपम् । विश्वानि रूपाणि त्वष्टृस्थन्नेन यस्य । … अस्माकम् । … केवलः । वृषादेराकृतिगणत्वादाद्युदात्तः ॥
->
-> *tvaṣṭāraṃ tvaṣṭṛ-nāmakam agnim iha karmaṇy upahvaye | kīdṛśam | agriyaṃ śreṣṭhaṃ viśvarūpaṃ bahuvidha-rūpopetaṃ | so 'smākaṃ kevalo 'sādhāraṇo 'stu | itara-yajamānebhyo 'py adhikam anugrahaṃ karotv ity arthaḥ || tvaṣṭāram | takṣū tvakṣū tanūkaraṇe | tṛn | svaratisūtīty-ādinā | pā. 7-2-44 | iti vet [reading uncertain] ... agriyam | agrād ity anta-prādity-ādibhyo ghac ca | pā. 4-4-116 | ... viśvarūpam | viśvāni rūpāṇi tvaṣṭṛ-sthannena yasya | ... asmākam | ... kevalaḥ | vṛṣāder ākṛtigaṇatvād ādyudāttaḥ ||*
+> *patnīsaṃyāje tvaṣṭuḥ puronuvākyeha tvaṣṭāramagriyamiti | śaṃ yuvākāya saṃpreṣita iti khaṇḍe sūtritam | saṃ te payāṃsi samu yantu vājā iha tvaṣṭāramagriyam | ā. 1-10 || iti ||*
 
-**Translation:** "In the *patnīsaṃyāja*, this is Tvaṣṭṛ's *puronuvākyā*: *iha tvaṣṭāram agriyam*. It is laid down in the section '*śaṃ yuvākāya saṃpreṣite*': '*saṃ te payāṃsi sam u yantu vājā*, *iha tvaṣṭāram agriyam*' (Āśvalāyana 1-10). I invoke here, in this rite, *tvaṣṭāram* — the fire named Tvaṣṭṛ. What kind? *Agriyam* — the foremost; *viśvarūpam* — endowed with forms of many kinds. May he be *asmākam kevalaḥ* — ours alone: that is, may he grant us more favour than to other sacrificers." *(Grammar noted briefly:* tvaṣṭṛ *from* takṣū/tvakṣū tanūkaraṇe *with* tṛn*;* agriya *is formed with* gha *(Pā. 4-4-116 [?]); *viśvarūpa* is a bahuvrīhi;* kevala *is initial-udātta as a member of the* vṛṣādi *class.)* *(The grammar in the Sanskrit is compressed in the scan.)*
+### Page 570 — Rik 10: bhāṣya (continued), word-meanings, overall sense, English
 
-### Pages 570–571 — Rik 10: word-meanings, overall sense, English, Special Topics
+> त्वष्टारं त्वष्टृनामकमग्निमिह कर्मण्युपह्वये । कीदृशम् । अग्रियं श्रेष्ठं विश्वरूपं बहुविधरूपोपेतं । सो ऽस्माकं केवलो ऽसाधारणो ऽस्तु । इतरयजमानेभ्यो ऽप्यधिकमनुग्रहं करोत्वित्यर्थः ॥ त्वष्टारं । तक्षू त्वक्षू तनूकरणे । तृन् । स्वरतिसूतिसूयतिधूञूदितो वा । पा. ७-२-४४ । इतीडभावपक्षे स्कोः संयोगाद्योरन्ते च । पा. ८-२-२९ । इति ककारलोपः । ष्टुत्वं । द्वितीयैकवचने ऋतो ङिसर्वनामस्थानयोरिति गुणे ऽप्तृन्नित्यादिनोपधाया दीर्घः । तृनो नित्त्वादाद्युदात्तत्वं । अग्रियं । अग्रादित्यनुवृत्तौ घच्छौ च । पा. ४-४-११७ [?] । इति घच् । आयनेयीनीत्यादिना । पा. ७-१-२ । घकारस्य इयादेशः । यस्येति लोपः । आयनादिषूपदेशिवद्वचनं स्वरसिद्ध्यर्थं । पा. ७-१-२-१ । इत्युपदेशिवद्भावात्प्रत्ययाद्युदात्तत्वा[?]द्घचश्चित्त्वादन्तोदात्तत्वं । विश्वरूपं । विश्वानि रूपाणि त्वष्टृत्पन्नत्वेन यस्य । त्वष्टा वै पशूनां मिथुनानां रूपकृत् । तै. सं. ६-१-८-५ [?] । इति श्रुतेः । विश्वशब्दस्याद्युदात्तत्वात्पूर्वपदप्रकृतिस्वरत्वे प्राप्ते बहुव्रीहौ विश्वं संज्ञायां । पा. ६-२-१०६ । इति पूर्वपदान्तोदात्तत्वं । अस्माकं । असु क्षेपणे । युष्यसिभ्यां मदिक् । उ. १-१३८ [?] । प्रत्ययस्वरेणान्तोदात्तः । षष्ठीबहुवचनमाम् । अत्र परमपि योऽचि । पा. ७-२-८९ । इति यत्वं बाधित्वा नित्यत्वात्प्रतिपदविधित्वाच्च साम आकमादेशे कृते । पा. ७-१-३३ । अनादेश इति निषेधेन । पा. ७-२-८६ । यत्वाभावाच्छेषे लोप इति दकारलोपे ऽकारान्तत्वेन पश्चात्प्राप्तस्यापि सुटः । पा. ७-१-५२ । साम इति निर्देशे स्थानिन्यन्तर्भावेन निवृत्तिः । एवमर्थ एव हि साम इति ससुट्कनिर्देशः । केवलः । वृषादेराकृतिगणत्वादाद्युदात्तः ॥
+>
+> *tvaṣṭāraṃ tvaṣṭṛnāmakamagnimiha karmaṇyupahvaye | kīdṛśam | agriyaṃ śreṣṭhaṃ viśvarūpaṃ bahuvidharūpopetaṃ | so 'smākaṃ kevalo 'sādhāraṇo 'stu | itarayajamānebhyo 'pyadhikamanugrahaṃ karotvityarthaḥ || tvaṣṭāraṃ | takṣū tvakṣū tanūkaraṇe | tṛn | svaratisūtisūyatidhūñūdito vā | pā. 7-2-44 | itīḍabhāvapakṣe skoḥ saṃyogādyorante ca | pā. 8-2-29 | iti kakāralopaḥ | ṣṭutvaṃ | dvitīyaikavacane ṛto ṅisarvanāmasthānayoriti guṇe 'ptṛnnityādinopadhāyā dīrghaḥ | tṛno nittvādādyudāttatvaṃ | agriyaṃ | agrādityanuvṛttau ghacchau ca | pā. 4-4-117 [?] | iti ghac | āyaneyīnītyādinā | pā. 7-1-2 | ghakārasya iyādeśaḥ | yasyeti lopaḥ | āyanādiṣūpadeśivadvacanaṃ svarasiddhyarthaṃ | pā. 7-1-2-1 | ityupadeśivadbhāvātpratyayādyudāttatvā[?]dghacaścittvādantodāttatvaṃ | viśvarūpaṃ | viśvāni rūpāṇi tvaṣṭṛtpannatvena yasya | tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt | tai. saṃ. 6-1-8-5 [?] | iti śruteḥ | viśvaśabdasyādyudāttatvātpūrvapadaprakṛtisvaratve prāpte bahuvrīhau viśvaṃ saṃjñāyāṃ | pā. 6-2-106 | iti pūrvapadāntodāttatvaṃ | asmākaṃ | asu kṣepaṇe | yuṣyasibhyāṃ madik | u. 1-138 [?] | pratyayasvareṇāntodāttaḥ | ṣaṣṭhībahuvacanamām | atra paramapi yo 'ci | pā. 7-2-89 | iti yatvaṃ bādhitvā nityatvātpratipadavidhitvācca sāma ākamādeśe kṛte | pā. 7-1-33 | anādeśa iti niṣedhena | pā. 7-2-86 | yatvābhāvāccheṣe lopa iti dakāralope 'kārāntatvena paścātprāptasyāpi suṭaḥ | pā. 7-1-52 | sāma iti nirdeśe sthāninyantarbhāvena nivṛttiḥ | evamartha eva hi sāma iti sasuṭkanirdeśaḥ | kevalaḥ | vṛṣāderākṛtigaṇatvādādyudāttaḥ ||*
+
+**Translation:** "In the *patnīsaṃyāja*, *iha tvaṣṭāram agriyam* is Tvaṣṭṛ's *puronuvākyā*. It is laid down in the section '*śaṃ yuvākāya saṃpreṣite*': '*saṃ te payāṃsi sam u yantu vājā*, *iha tvaṣṭāram agriyam*' (Āśv. 1-10). I invoke here, in this rite, *tvaṣṭāram*, the fire named Tvaṣṭṛ. What kind? *Agriyam*: the best; *viśvarūpam*: endowed with forms of many kinds. May he be *asmākaṃ kevalaḥ*, ours alone: that is, may he show us more favour than he shows other sacrificers." (Grammatical tail: *tvaṣṭāram* from *tvakṣū* with *tṛn*, *iṭ* optional by Pā. 7-2-44, *k* dropped by Pā. 8-2-29, *ṣṭutva*, *guṇa*, lengthening of the penultimate, initial udātta because *tṛn* is *nit*; *agriyam* with *gha* (Pā. "4-4-117" [?]), *iya* for *gh* (Pā. 7-1-2), treated as in *upadeśa* by the vārttika 7-1-2-1, final udātta because *ghac* is *cit*; *viśvarūpam*, a bahuvrīhi, the first member final-udātta by Pā. 6-2-106, the sense supported by T.S. "6-1-8-5" [?]; *asmākam* from *as* with *madik* (Uṇ. "1-138" [?]), *ākam* for *sām* by Pā. 7-1-33 overriding *yatva* (7-2-89, 7-2-86), *suṭ* (7-1-52) excluded by the form *sāma* with *suṭ* in the sūtra; *kevalaḥ*, initial udātta as of the *vṛṣādi* class.)
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -11690,42 +11690,109 @@ The deity named Tvaṣṭṛ is the foremost among the gods. He has many kinds o
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> I invoke Twashtir, the foremost and the multi-form here. May he be solely ours.
+> I invoke Twashtir, the foremost and the multi.form [sic] here. May he be soley [sic] ours.
+
+### Page 571 — Rik 10: Special Topics
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The application of this mantra: in the *homa* called *patnīsaṃyāja* in the sacrifice, the rik *iha tvaṣṭāram agriyam* is used as the *puronuvākyā* mantra. In the Āśvalāyana Śrauta-sūtra (1-10), in the section *śaṃ yuvākāya saṃpreṣite*, it is said that the riks *saṃ te payāṃsi sam u yantu vājā* and *iha tvaṣṭāram agriyam* (Ṛg. Saṃ. 1-13-10) are to be used as *yājyā* and *puronuvākyā* mantras. Yāska's explanation:
+The application of this mantra: in the *homa* called *patnīsaṃyāja* in the sacrifice, the Ṛk *iha tvaṣṭāram agriyam* is used as the *puronuvākyā* mantra. In the Āśvalāyana Śrauta-sūtra, in the section *śaṃ yuvākāya saṃpreṣite*, it is said that the Ṛks *saṃ te payāṃsi sam u yantu vājā* and *iha tvaṣṭāram agriyam* (Ṛ. Saṃ. 1-13-10) are to be used as *yājyā* and *puronuvākyā* mantras (Āśv. sū. 1-10). Yāska's explanation:
 
-> त्वष्टा । त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात्करोतिकर्मणः ॥ माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः ॥ (नि. ८-१४)
-> *tvaṣṭā | tvaṣṭā tūrṇam aśnuta iti nairuktāḥ | tviṣer vā syād dīpti-karmaṇas tvakṣater vā syāt karoti-karmaṇaḥ || mādhyamikas tvaṣṭety āhur madhyame ca sthāne samāmnātaḥ | agnir iti śākapūṇiḥ || (ni. 8-14)*
+> त्वष्टा । त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात्करोतिकर्मणः ॥ माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः ॥
+>
+> *tvaṣṭā | tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikarmaṇastvakṣatervā syātkarotikarmaṇaḥ || mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇiḥ ||*
 
-That is: "*Tvaṣṭā*" — the etymologists say it is one who quickly pervades; or from *tviṣ*, a root of shining; or from *tvakṣ*, a root of making. Some say he is *mādhyamika* ("of the middle region"), i.e., one who stands between heaven and earth. Śākapūṇi says he is Agni.
+*(Ni. 8-14.)*
 
-Some say that Tvaṣṭṛ, like Viśvakarman, is the craftsman of the gods; for, in the rik Yāska cites as an example,
+That is, the etymologists say the word *tvaṣṭā* means one who pervades quickly; or one who shines; or one who makes things (crafts? [the source's own question mark]); some say he is *mādhyamika*, that is, one who is between heaven and earth; Śākapūṇi says he is Agni.
+
+Some also say that Tvaṣṭṛ, like Viśvakarman, is the craftsman of the gods. For in the Ṛk Yāska gives as an example,
 
 > य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
-> तमद्य होतरिषितो यजीयान्देवं त्वष्टारमिह यक्षि विद्वान् ॥
-> *ya ime dyāvāpṛthivī janitrī rūpair apiṃśad bhuvanāni viśvā |*
-> *tam adya hotar iṣito yajīyān devaṃ tvaṣṭāram iha yakṣi vidvān ||*
-> (Ṛgveda Saṃhitā 10-110-9 [?]; printed "१०-११०-९")
-> *("He who with forms adorned these two, heaven and earth, the begetters, and all the worlds — that god Tvaṣṭṛ, O hotṛ, impelled today, most diligent, knowing, here sacrifice to." — my gloss, tentative.)*
+> तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥
+>
+> *ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhuvanāni viśvā |*
+> *tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ||*
 
-it is said that Tvaṣṭṛ is the maker of heaven and earth, and the cause of the forms suited to the beings in all the worlds — of their beauty, wisdom and growth. Besides, the Yajurveda says: "*tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt*" (Taittirīya Saṃhitā 6-1-?-? [?]) — "Tvaṣṭṛ is the maker of the forms of animals in pairs"; "*tvaṣṭā rūpāṇām adhipatiḥ*" (Taittirīya Saṃhitā 3-?-? [?]); "*tvaṣṭā rūpāṇi vikaroti*" — these Yajurveda sentences point to Tvaṣṭṛ's skill in making things. And:
+*(Ṛ. Saṃ. 10-110-9.)* *("He who adorned with forms these two, heaven and earth, the begetters, and all the worlds: that god Tvaṣṭṛ, O hotṛ, urged on today, best at sacrificing, knowing, worship here" — mine and tentative.)*
+
+it is said that Tvaṣṭṛ is the maker of heaven and earth and the cause of the form, beauty, intelligence, growth and so on suited to each of the beings in all the worlds. Besides this, Śruti (Yajurveda) sentences such as
+
+> त्वष्टा वै पशूनां मिथुनानां रूपकृत्
+>
+> *tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt*
+
+*(T.S. "6-1-8-5" [?]; "Tvaṣṭṛ is the maker of the forms of paired animals"),*
+
+> त्वष्टा रूपाणामधिपतिः
+>
+> *tvaṣṭā rūpāṇāmadhipatiḥ*
+
+*(T.S. "3-3-", the rest not printed; "Tvaṣṭṛ is the lord of forms"),*
+
+> त्वष्टा रूपाणि विकरोति
+>
+> *tvaṣṭā rūpāṇi vikaroti*
+
+*("Tvaṣṭṛ shapes forms")* set out Tvaṣṭṛ's skill in making things. And
 
 > मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासो ऽवृजन्नपि क्रतुम् ॥
-> *mahyaṃ tvaṣṭā vajram atakṣad āyasaṃ mayi devāso 'vṛjann api kratum ||*
-> (Ṛgveda Saṃhitā 10-48-3 [?]; printed "१०-४८-३")
-> *("For me Tvaṣṭṛ fashioned the iron thunderbolt; in me the gods have set resolve." — my gloss, tentative; this verse was also cited under Sūkta 7, Rik 3.)*
+>
+> *mahyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāso 'vṛjannapi kratum ||*
 
-Indra says that Tvaṣṭṛ fashioned for him with his own hands the thunderbolt-weapon. That Tvaṣṭṛ makes the sacrificial materials required by the gods, and many other things, is stated in many mantras of the Ṛgveda.
+*(Ṛ. Saṃ. 10-48-3.)* *("For me Tvaṣṭṛ fashioned the iron thunderbolt; in me the gods placed resolve" — mine and tentative.)*
 
-### Pages 572–575 — Rik 10: Special Topics (continued) and grammar
+Indra says, "Tvaṣṭṛ made me the thunderbolt-weapon of steel." Many mantras of the Ṛgveda say that he made the sacrificial materials the gods need and many other things.
 
-*(Continuing the Special Topics, p. 572:)* Tvaṣṭṛ is well known as one of the twelve Ādityas; hence Yāska explains the word as "the shining one." **"Agriyam"** — foremost; chief; excellent. **"Viśvarūpam"** — *viśvāni rūpāṇi tvaṣṭṛtvena yasya*: "he who, as the maker, has all forms": since he is the cause (maker) of many forms, he is called *viśvarūpa*. **"Asmākam astu kevalaḥ"** — this third quarter of the rik, *asmākam astu kevalaḥ*, is found also in Ṛgveda Saṃhitā 1-7-10 [?], where it refers to Indra; the idea is "may he be our chief benefactor."
+### Page 572 — Rik 10: Special Topics (end) and grammar
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 572–575, noted briefly; the scholastic discussions on pp. 572–575 are outlined only)*
+Tvaṣṭṛ is well known as one of the twelve Ādityas. That is why Yāska explained the sense as "the shining one".
 
-**त्वष्टारम् (*tvaṣṭāram*)** — root *takṣū tvakṣū tanūkaraṇe*; *tṛn*, the root being *ūdit*; "svaratisūtisūyatidhūñūdito vā" (Pā. 7-2-44 [?]) makes the augment *iṭ* optional; in the case without *iṭ*, *tvakṣ* + *tṛ*: "skoḥ saṃyogādyor ante ca" (Pā. 8-2-29 [?]) would drop the *k* at the end of a word or before a consonant; since here the *kṣ* is a conjunct at the end of a *pada*... the source says that for the final *k* dropping is inappropriate, and that "jhalo jhali" (Pā. 8-2-26 [?]) drops *s* in a conjunct after a *jhal*-letter: so *k* is dropped, *tvaṣ* + *tṛ*; "ṣṭunā ṣṭuḥ" (Pā. 8-4-41 [?]) turns *t* → *ṭ*: *tvaṣṭṛ*. The accusative singular *am*; "ṛto ṅisarvanāmasthānayoḥ" (Pā. 7-3-110 [?]) *guṇa*; "uraṇ raparaḥ" (Pā. 1-1-51 [?]); "āp tṛn tṛc…" (Pā. 6-4-11 [?]) lengthens the penultimate: *tvaṣṭāram*; *tṛn* is *nit*, so initial-udātta. **अग्रियम् (*agriyam*)** — "ghacchau ca" (Pā. 4-4-117 [?]) with "agrād yat" (Pā. 4-4-116 [?]) carried over: after *agra* in the sense "that is in it," *gha* and *cha* arise; *gha* → *iya* by "āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām" (Pā. 7-1-2 [?]); *agra* + *iya*; "yasyeti ca" (Pā. 6-4-148 [?]) drops the *a*: *agriya*; the source argues at length (pp. 572–574) that the replacements *iya*, etc., are *bahiraṅga* or *antaraṅga* with respect to the accent rule "ādyudāttaś ca" (Pā. 3-1-3 [?]), concluding by the paribhāṣā "asiddhaṃ bahiraṅgam antaraṅge" that the *antaraṅga* accent is considered first — so the *iya* replacement is made when the suffix is introduced, and then "citaḥ" (Pā. 6-1-163 [?]) gives the *iya* its final-udātta; the source observes that the *cit*-marker would be pointless otherwise (*vyarthaṃ san kiṃcid artham jñāpayati*) and adds Vārttika "ayanādi-ādeśeṣu śiṣyavad-vacanaṃ svara-siddhy-artham" (Pā. 7-1-2 *vārttika* [?]); hence *agriya* is final-udātta. **विश्वरूपम् (*viśvarūpam*)** — "viśvāni rūpāṇi tvaṣṭṛ-utpannatvena yasya": a bahuvrīhi; "tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt" (Taittirīya Saṃhitā 6-1-?-? [?]) confirms the sense; *viśva* is formed with *kvan*, initial-udātta; the first member's accent would stand ("bahuvrīhau prakṛtyā pūrvapadam," Pā. 6-2-1 [?]), overridden by "bahuvrīhau viśvaṃ saṃjñāyām" (Pā. 6-2-106 [?]), which makes *viśva* final-udātta when the compound is a name. **अस्माकम् (*asmākam*)** — root *asu kṣepaṇe* with *madik*, "yuṣyasibhyāṃ madik" (Uṇ. 1-142 [?]): the suffix *madik* after *yuṣ* and *as* gives *asmad*; final-udātta by the suffix; *ām* of the genitive plural; "yoci" (Pā. 7-2-89 [?]) replacement of the *yuṣmad*/*asmad* ending by *yā* is considered and the source shows that "sāma ākam" (Pā. 7-1-33 [?]) — *ākam* in place of *sām* after *yuṣmad*/*asmad* — applies even to the *ākam* replacement after the *yā* (the *sāmo 'kam* rule is *nitya*, "nityatva"); "āmi sarvanāmnaḥ suṭ" (Pā. 7-1-52 [?]) adds *suṭ*, which is then *sām*, and the source discusses why it is stated as *sasuṭka* in the sūtra: so that *suṭ* is not blocked; the point settled is "śeṣe lopaḥ" (Pā. 7-2-90 [?]) does not apply. **केवलः (*kevalaḥ*)** — a member of the *vṛṣādi* *ākṛti-gaṇa*, so initial-udātta by "vṛṣādīnāṃ ca" (Pā. 6-1-203 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**Agriyam**: *śreṣṭham*, *pradhānam*: the best, the chief.
+
+**Viśvarūpam**:
+
+> विश्वानि रूपाणि त्वष्टृत्पन्नत्वेन यस्य ॥
+>
+> *viśvāni rūpāṇi tvaṣṭṛtpannatvena yasya ||*
+
+Since he is the cause and maker of many forms, he is called *viśvarūpa*.
+
+**Asmākam astu kevalaḥ**: the third quarter of this Ṛk, *asmākam astu kevalaḥ*, is found also in the Ṛk Ṛ. Saṃ. 1-7-10, where it refers to Indra. Its sense is "may he be our chief benefactor".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 572–575, noted briefly)*
+
+**त्वष्टारम् (*tvaṣṭāram*)**: *takṣū tvakṣū tanūkaraṇe*; *tvakṣū* + *tṛn*; the root is *ūdit*, so by "svaratisūtisūyatidhūñūdito vā" (Pā. sū. 7-2-44) *iṭ* is optional; without *iṭ*, *tvakṣ* + *tṛ*: by "skoḥ saṃyogādyor ante ca" (Pā. sū. 8-2-29) the *s* or *k* at the start of a conjunct at the end of a *pada* or before a *jhal* drops, so *k* drops: *tvaṣ* + *tṛ*; "ṣṭunā ṣṭuḥ" (Pā. sū. 8-4-41) gives *ṭ*: *tvaṣṭṛ*; accusative singular *am*; *guṇa* by "ṛto ṅisarvanāmasthānayoḥ" (Pā. sū. 7-3-110), *r* by "uraṇ raparaḥ" (Pā. sū. 1-1-51); penultimate lengthened by "ap tṛn tṛc…" (Pā. sū. 6-4-11): *tvaṣṭāram*; *tṛn* is *nit*, so initial udātta. **अग्रियम् (*agriyam*)**: "ghacchau ca" (Pā. sū. "4-4-117" [?]) with *agrāt* carried on from "agrād yat" (Pā. sū. 4-4-116): after *agra* in the locative, in the sense *bhavaḥ*, *ghac* and *cha*; *agra* + *gha*; by "āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām" (Pā. sū. 7-1-2) *gh* → *iy*: *agra* + *iy* + *a*; *a* dropped by "yasyeti ca" (Pā. sū. 6-4-148): *agriya*. The question of its accent follows:
+
+### Page 573 — Rik 10: grammar (continued)
+
+These replacements fall on *ph* and the other consonants that begin suffixes; here *gh* becomes *iy*. Being taught under the *aṅga* heading, they depend on both stem and suffix, so they are *bahiraṅga*; "ādyudāttaś ca" (Pā. sū. 3-1-3) does not depend on the stem, so it is *antaraṅga*, and the initial udātta comes before the *āyan*-type replacements. "pratyayaḥ" (Pā. sū. 3-1-1), "paraś ca" (Pā. sū. 3-1-2) and "ādyudāttaś ca" (Pā. sū. 3-1-3) all govern suffix rules, so the initial udātta is tied to the introduction of the suffix: first the accent of *ghac*, then *iy* for *gh*. *Gh* is a consonant and has no accent; the replacement too comes in, by *āntaratamya*, without accent. The Bhāṣyakāra says this:
+
+> अक्रियमाणे ह्युपदेशिवद्भावे प्रत्ययसंज्ञासन्नियोगेनाद्युदात्तत्वे कृते ऽन्तर्यत आदेशा अस्वरकाणामस्वरकाः स्युः
+>
+> *akriyamāṇe hyupadeśivadbhāve pratyayasaṃjñāsanniyogenādyudāttatve kṛte 'ntaryata ādeśā asvarakāṇāmasvarakāḥ syuḥ*
+
+*(7-1-2 MB.)* Though without accent when they come in, a sound cannot be uttered without accent, so by "anudāttaṃ padam ekavarjam" the replacements must be unaccented. *Asvarakāṇām asvarakāḥ syuḥ* can also be explained another way: uttering an anudātta causes slackness of the limbs, softness of tone and wideness of the throat; the same happens in uttering a consonant; but since consonants are not fit for it they take no anudātta. So consonants have the property of the anudātta, not of the udātta; *svara* in *asvarakāṇām* is taken as udātta: for consonants without udātta, replacements without the desired udātta, that is, anudātta replacements, come in. So the *iy* for *gh* here would have to be anudātta. Hence the Vārttikakāra says "āyanādiṣūpadeśivadvacanaṃ svarasiddhyartham" (Pā. sū. 7-1-2-1): for the sake of the accent the *āyan*-type replacement must be said to come in at the time the suffix is taught. Then, if *iya* comes in when the suffix arises, in *agra* + *iya* the suffix-initial udātta is overridden by the *cit* marker, "citaḥ" (Pā. sū. 6-1-163), and *iya* is final udātta. Otherwise, if the replacements, being *bahiraṅga*, did not come first, the *cit* marker in "ghacchau ca" would be useless: with *agra* + *gha* the suffix-initial udātta would come, and after the udātta *a* the anudātta *iy* would come, so *iya* would be final udātta anyway, and the *cit* marker would be pointless. *Vyarthaṃ sat kiṃcid arthaṃ jñāpayati*: a useless
+
+### Page 574 — Rik 10: grammar (continued)
+
+word, so as to have a purpose, makes something known, here a statement: that in the state of *upadeśa* the *āyan*-type replacements already come in. The Uddyotakāra explains it:
+
+> प्रत्ययसम्बन्ध्यादेशानामुत्पत्तिसन्नियोगशिष्टकार्यादपि पूर्वं प्रवृत्तिर्ज्ञाप्यते इति भाष्यार्थः
+>
+> *pratyayasambandhyādeśānāmutpattisanniyogaśiṣṭakāryādapi pūrvaṃ pravṛttirjñāpyate iti bhāṣyārthaḥ*
+
+That is, it is made known by the *cit* marker that the *āyan*-type replacements tied to the suffix come in even before the initial udātta tied to the arising of the suffix. Now, if there were no *cit* marker, then with *agra* + *gha*, *iya* would come in before the initial udātta, and with *agra* + *iya* the initial udātta would make the *i* udātta, whereas in the Śruti the *a* is udātta. So the *cit* marker serves the final udātta, and the *upadeśivad* statement is not needed. The Vārttikakāra himself says this in "na vā kvacic citkaraṇāt" (Pā. sū. 7-1-2-2). Thus *agriya* is final udātta.
+
+**विश्वरूपम् (*viśvarūpam*)**: "viśvāni rūpāṇi tvaṣṭuḥ utpannatvena yasya saḥ viśvarūpaḥ", a bahuvrīhi; the Śruti "tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt" (Tai. Śru. Saṃ. "6-1-8-5" [?]) shows the sense "produced by Tvaṣṭṛ"; *viśva* is *viś* + *kvan*, initial udātta (*nit*); the first-member accent of "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) is overridden by "bahuvrīhau viśvaṃ saṃjñāyām" (Pā. sū. 6-2-106): in a bahuvrīhi that is a name, the first member *viśva* is final udātta.
+
+**अस्माकम् (*asmākam*)**: *asu kṣepaṇe*; "yuṣyasibhyāṃ madik" (Uṇ. sū. "1-136" [?]): *madik* after *yuṣ* and *as*: *asmad*, final udātta by the suffix accent; genitive plural *ām*: *asmad* + *ām*. "yo 'ci" (Pā. sū. 7-2-89) gives *y* for *yuṣmad*/*asmad* before a vowel-initial ending without a replacement; "sāma ākam" (Pā. sū. 7-1-33) gives *ākam* for *sām* after them; "yo 'ci" is the later rule, so by the paribhāṣā "vipratiṣedhe paraṃ kāryam" (Pā. sū. 1-4-2) *yatva* would apply; but "sāma ākam" (Pā. sū. 7-1-33) is *nitya*: *ākam* comes whether or not *yatva* is made; so *ākam* applies in both cases. Since
+
+### Page 575 — Rik 10: grammar (end)
+
+it is *nitya*, even though *yatva* had the prior claim, once *ākam* has come "yo 'ci" does not apply, for it applies before an ending that has no replacement, and after *ākam* the ending has one; so the *nitya* rule, applicable whether or not the other applies, is not blocked by "yo 'ci". So by "paranityāntaraṅgāpavādānām uttarottaraṃ balīyaḥ" (paribhāṣā "38" [?]) the *nitya* *ākam* overrides the later *yatva*; being *pratipadokta*, *ākam* is also stronger than *yatva*. Here with *asmad* + *ām* there is no *sām*: the *ām* would get the augment *suṭ* by "āmi sarvanāmnaḥ suṭ" (Pā. sū. 7-1-52) after a pronoun ending in *a*, giving *sām*. Since *yatva* comes before *ākam*, "śeṣe lopaḥ" (Pā. sū. 7-2-90) does not apply, so the stem does not end in *a*, and stating *sām* with *suṭ* in the sūtra may seem useless. But if the sūtra had been made "āma ākam" without *suṭ*, then after *ākam*, by *sthānivadbhāva*, *ākam* would count as *ām*, and where "śeṣe lopaḥ" (Pā. sū. 7-2-90) drops the final *d*, *suṭ* would have to come; to prevent that *suṭ* the sūtra states it with *suṭ*. Stated with *suṭ*, *suṭ* too counts as the original, so the *suṭ* that would come later is excluded, and the statement with *suṭ* has its use. On the view that "śeṣe lopaḥ" drops the *ṭi*, the statement with *suṭ* is not needed.
+
+**केवलः (*kevalaḥ*)**: *vṛṣādi* is an *ākṛtigaṇa*, so by "vṛṣādīnāṃ ca" (Pā. sū. 6-1-203) it is final udātta [as printed; the bhāṣya on p. 570 says initial udātta].
 
 **॥१०॥**
 
@@ -11733,13 +11800,15 @@ Indra says that Tvaṣṭṛ fashioned for him with his own hands the thunderbol
 
 ### Page 575 — Sūkta 13, Rik 11
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अव सृजा वनस्पते देव देवेभ्यो हविः ।
-> प्र दातुरस्तु चेतनम् ॥११॥
+> अव॑ सृजा वनस्पते॒ देव॑ दे॒वेभ्यो॑ ह॒विः ।
+> प्र दा॒तुर॑स्तु॒ चेत॑नम् ॥११॥
 >
-> *ava sṛjā vanaspate deva devebhyo haviḥ |*
-> *pra dātur astu cetanam ||11||*
+> *áva sṛjā vanaspate déva devébhyo havíḥ |*
+> *pra dātúr astu cétanam ||11||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
