@@ -17677,17 +17677,19 @@ is udātta by *ekādeśa udāttenodāttaḥ*. Since this udātta follows, the un
 
 ---
 
-### Pages 801–802 — Sūkta 19, Rik 7
+### Page 801 — Sūkta 19, Rik 7
+
+*(Saṃhitā accents as printed; Pada unaccented. The print has ई॒ङ्खय॑न्ति; the Kannada grammar writes ईङ्खयन्ति / ईन्ख्.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये ईङ्खयन्ति पर्वतान्तिरः समुद्रमर्णवम् ।
-> मरुद्भिरग्न आ गहि ॥७॥
+> य ई॒ङ्खय॑न्ति॒ पर्व॑तान्ति॒रः स॑मु॒द्रम॑र्ण॒वम् । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥७॥ [accent ?]
 >
-> *ya īṅkhayanti parvatān tiraḥ samudram arṇavam |*
-> *marudbhir agna ā gahi ||7||*
+> *ya īṅkháyanti párvatān tiráḥ samudrám arṇavám |* [accent ?]
+> *marúdbhir agna ā́ gahi ||7||* [accent ?]
 
-*(The print's first word is* ये ईङ्खयन्ति*, as in the Pada [*ye īṅkhayanti*]; I give the Saṃhitā in sandhi, *ya īṅkhayanti*, as the Kannada does in the Saṃhitā line.)*
+*(Read as printed: bars under ई, न्ति, ति (तिरः), मु, ण, म (मरु) and ग्न; strokes over य (ईङ्खय), व (पर्व), स (समु), म (मर्ण), द्भि and ग.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -17695,39 +17697,51 @@ is udātta by *ekādeśa udāttenodāttaḥ*. Since this udātta follows, the un
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥७॥
 >
 > *ye | īṅkhayanti | parvatān | tiraḥ | samudram | arṇavam ||*
-> *marut-bhiḥ | agne | ā | gahi ||7||*
+> *marut 'bhiḥ | agne | ā | gahi ||7||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 801; compressed; [?] marks doubtful readings)*
-
-> ये मरुतः पर्वतान्मेघानीङ्खयन्ति चालयन्ति । तथार्णवमुदकयुक्तं समुद्रं तिरः कुर्वन्तीति शेषः । निश्चलस्य जलस्य तरङ्गाद्युत्पत्तये चालनं तिरस्कारः । तैर्मरुद्भिरित्यन्वयः ॥ ईङ्खयन्ति । उख उखी इत्यादावीखिगत्यर्थः [?] । हेतुमति चेति णिच् । इदितो नुम् धातोरिति नुम् । णिजन्तधातोर्ञित्त्वादित्यन्तोदात्तत्वम् । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । पर्वतान् । पूर्व पर्व मर्व पूरणे । औणादिकोऽतन् । प्रत्ययस्वरः ॥७॥
+> ये मरुतः पर्वतान्मेघानीङ्खयन्ति चालयन्ति तथार्णवमुदकयुक्तं समुद्रं तिरः कुर्वन्तीति शेषः । निश्चलस्य जलस्य तरङ्गाद्युत्पत्तये चालनं तिरस्कारः । तैर्मरुद्भिरित्यन्वयः ॥ ईङ्खयन्ति । उख उखीत्यादावीखिर्गत्यर्थः । हेतुमति चेति णिच् । इदितो नुम् धातोरिति नुम् । णिजन्तधातोश्चित इत्यन्तोदात्तत्वम् । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । पर्वतान् । पूर्व पर्व मर्व पूरणे । औणादिकोऽतन् । प्रत्ययस्वरः ॥
 >
-> *ye marutaḥ parvatān meghān īṅkhayanti cālayanti | tathārṇavam udaka-yuktaṃ samudraṃ tiraḥ kurvantīti śeṣaḥ | niścalasya jalasya taraṅgādy-utpattaye cālanaṃ tiraskāraḥ | tair marudbhir ity anvayaḥ || īṅkhayanti | ukha ukhī ity-ādāv īkhi-gaty-arthaḥ [?] | hetumati ceti ṇic | idito num dhātor iti num | ṇijanta-dhātor ñittvād ity antodāttatvam | śapaḥ pittvād anudāttatvam | tiṅaś ca lasārvadhātuka-svareṇa dhātu-svara eva śiṣyate | parvatān | pūrva parva marva pūraṇe | auṇādiko 'tan | pratyaya-svaraḥ ||7||*
+> *ye marutaḥ parvatānmeghānīṅkhayanti cālayanti tathārṇavamudakayuktaṃ samudraṃ tiraḥ kurvantīti śeṣaḥ | niścalasya jalasya taraṅgādyutpattaye cālanaṃ tiraskāraḥ | tairmarudbhirityanvayaḥ || īṅkhayanti | ukha ukhītyādāvīkhirgatyarthaḥ | hetumati ceti ṇic | idito num dhātoriti num | ṇijantadhātościta ityantodāttatvam | śapaḥ pittvādanudāttatvam | tiṅaśca lasārvadhātukasvareṇa dhātusvara eva śiṣyate | parvatān | pūrva parva marva pūraṇe | auṇādiko 'tan | pratyayasvaraḥ ||*
 
-**Translation:** "Those Maruts who *īṅkhayanti* — shake, set in motion — the *parvatas*, the clouds; and, [the word *kurvanti* being supplied], they *tiraḥ* — put to scorn, agitate — the *arṇava*, the water-bearing ocean (*samudra*). To agitate still water so as to raise waves and so on is *tiraskāra*. With those Maruts [come] — that is the construction. *Īṅkhayanti* — [the root is of the group *ukh*, *ukhī*, etc., sense 'to go' (the print's first words are partly unclear [?])]; the causative *ṇic* by P. 3-1-26 *hetumati ca*; *num* by P. 7-1-58 *idito num dhātoḥ*; the causative root, having the *ñ*-mark, has end accent [as read]; the verb is unaccented (*śap* being *pit*) and the root accent alone remains. *Parvatān* — the root *pūrva*, *parva*, *marva* 'to fill'; the Uṇādi suffix *atan*; suffix accent." *(Grammar, noted briefly.)*
+**Translation:** "The Maruts who *īṅkhayanti*, set moving, the *parvatas*, clouds, and likewise *tiraḥ*, make overturned (is to be supplied), the *samudra*, *arṇava*, which has water: setting the still water in motion to raise waves and the like is the *tiraskāra*. With those Maruts: that is the construction." (Grammatical tail: *īṅkhayanti*, *īkhi* in the sense of going, as in *ukha ukhi…*, *ṇic* by *hetumati ca*, *num* by *idito num dhātoḥ*, final udātta of the *ṇic*-final root as *cit*, *śap* unaccented as *pit*, and with the *lasārvadhātuka* accent of the *tiṅ* the root accent alone remains; *parvatān*, *pūrva parva marva pūraṇe*, the Uṇādi *atan*, the suffix accent.)
 
-**Grammar pages (pp. 802 lower half–803 upper), noted briefly.** The Kannada says that *īṅkhayanti* comes from the root *īṅkh* — in the *dāṇḍaka* "ukhi… *gatyarthāḥ*" list [*ukha ukhi… gatyarthāḥ*, "roots meaning 'to go'"]; *idit*, so *num* by P. 7-1-58 [with the *anusvāra*/*parasavarṇa* of P. 8-3-24 *naś cāpadāntasya jhali* and P. 8-4-58, giving *īṅkh*]; "*parvatāḥ īṅkhayanti* — the Maruts move the clouds, they make mountains move"; the Maruts thus are *prayojakakartṛ* — instigating agents — and are given the name *hetu* by P. 1-4-55 *tatprayojako hetuś ca* and the agent-name; the Kannada explains *hetumat* — "one who has *hetu*" — and the *ṇic* by P. 3-1-26 *hetumati ca*; *īṅkh* + *i* [*ṇic*]; the *ṇic* has *c* so end-accent; then *laṭ*, *jhi*; *jher antaḥ* P. 7-1-3 gives *ant* for *jh*; *śap* with guṇa and *ay* [*eco 'yavāyāvaḥ*], *parāṅgavat* — *īṅkhayanti*; *śap* is *pit* so unaccented; *śap* follows the relative-clause word, so by *tāsyanudāttenṇidadupadeśāt* P. 6-1-186 the ending is unaccented and the root accent remains. *Parvatān* — from *pūrva*, *parva*, *marva* "to fill", with the Uṇādi *atan*; the suffix has *n* so the first-syllable accent by P. 6-1-197, hence *parvata* is first-syllable accented; accusative plural. ॥7॥ *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 801)*
-
-**(हे) अग्ने ((he) agne)** — O Agni | **ये (ye)** — which Marut deities | **पर्वतान् (parvatān)** — clouds | **ईङ्खयन्ति (īṅkhayanti)** — shake (make move) | **अर्णवम् (arṇavam)** — [made full] of water | **समुद्रम् (samudram)** — the ocean | **तिरः (tiraḥ)** — make surge and toss in waves | **मरुद्भिः (marudbhiḥ)** — with such Marut deities | **आ गहि (ā gahi)** — come here.
+**(हे) अग्ने ((he) agne)** — O Agni | **ये (ye)** — which Marut deities | **पर्वतान् (parvatān)** — the clouds | **ईङ्खयन्ति (īṅkhayanti)** — set moving | **अर्णवम् (arṇavam)** — joined with water | **समुद्रम् (samudram)** — the ocean | **तिरः (tiraḥ)** — stir up into waves | (such) **मरुद्भिः (marudbhiḥ)** — with the Marut deities | **आ गहि (ā gahi)** — come here.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! The Maruts have the strength to move the clouds; they make the great ocean, full of unfathomable water, toss and surge. Come here with such Marut deities.
+O Agni, the Marut deities have the power to shake the clouds; they stir up the great ocean, full of fathomless water. Come here together with such Marut deities.
+
+### Page 802 — Rik 7: English, Special Topics and grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, come hither with Maruths who scatter the clouds and agitate the sea (with waves).
+> O Agni, come hither with Maruths [sic] who scatter the clouds and agitate the sea (with waves).
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 802)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**पर्वतान् (parvatān)** — *adriḥ* and the other words — among the thirty words for "cloud" beginning with *adri*, the word *parvata* is read (Ni. [1-10] — numeral marked [?]); hence *parvata* here means "cloud". Skandasvāmin gives two meanings to the word *parvata*: "mountain" and "cloud". However hard the wind blows, it is impossible for it to move a mountain; so to give the sense "cloud" here is appropriate.
+**Parvatān**: *meghān*. Since the word *parvata* is read among the thirty names for cloud beginning *adriḥ* (Ni. "1-10" [as read, ?]), here *parvata* means cloud. Skandasvāmin gives two senses for *parvata*, mountain and cloud. Since it is impossible for the wind, however hard it blows, to shake a mountain, it is right to give the sense cloud here.
 
-**तिरः (tiraḥ)** — *tiraskurvanti*: here the word *kurvanti* must be supplied. *Tiraskāra* means making the sea toss and surge by the wind rising with force, like the waves that rise in the sea.
+**Tiraḥ**: *tiraskurvanti*: here the word *kurvanti* is to be supplied. "Overturning" means: blowing hard so that waves rise in the ocean, and stirring up the ocean.
 
-**अर्णवम् (arṇavam)** — *arṇaḥ* means water (Ni. [1-12] [?]); *arṇavam* is "that which has water", i.e. the ocean.
+**Arṇavam**: *arṇaḥ* means water (Ni. "1-12" [as read, ?]). *Arṇavam* means that which has water, that is, the ocean.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 802–803, noted briefly)*
+
+**ईङ्खयन्ति (*īṅkhayanti*)**: the root *īkhi* is in the *daṇḍaka* "*ukha ukhi …… gatyarthāḥ*". It is *idit*; so by "idito num dhātoḥ" (Pā. sū. 7-1-58) the augment *num*: *īnkh*. By "naś cāpadāntasya jhali" (Pā. sū. 8-3-24) *anusvāra* for the *n*; by "anusvārasya yayi parasavarṇaḥ" (Pā. sū. 8-4-58) the homorganic: *īṅkh*. *Parvatāḥ īṅkhanti*: the clouds move. *Īṅkhataḥ parvatān prerayanti marutaḥ*: the Maruts drive the moving clouds. So the Maruts are causing agents; they also have the name *hetu*. "Tatprayojako hetuś ca" (Pā. sū. 1-4-55): *tasya prayojakaḥ hetusaṃjñaḥ kartṛsaṃjñaś ca syāt*: that which impels the agent gets the names *hetu* and agent. So the Maruts, impellers of the clouds, which are the agents of the root *īṅkh*, have both the names agent and *hetu*. The activity residing in the causer is called *hetumat*: *hetuḥ asmin asti iti hetumān*, the activity that is the substrate of the located-ness defined by the locus residing in the *hetu*: that is the sense of *hetumat*. When this activity is meant, by "hetumati ca" (Pā. sū. 3-1-26), in the sense of impelling and the like, the activity of the causer, the suffix *ṇic* comes after the root; so the suffix *ṇic* after the root: *īṅkh* + *i*.
+
+### Page 803 (upper) — Rik 7: grammar (end)
+
+The suffix *ṇic* is *cit*; so *īṅkhi* is final udātta by *citaḥ*. After it *laṭ*, the suffix *jhi*; by "jho 'ntaḥ" *ant* for the *jh*; by *kartari śap*: *īṅkhi* + *a* + *anti*; *guṇa*, the substitute *ay*, the *pararūpa*: *īṅkhayanti*. *Śap* being *pit*, it is unaccented; *jhi*, standing after the *śap*, an *adupadeśa*, is unaccented by "tāsyanudātteṅ…". The root accent alone remains.
+
+**पर्वतान् (*parvatān*)**: after (*pūrva*) *parva marva pūraṇe* the Uṇādi suffix *atan* comes. The suffix being *nit*, the word *parvata* is initial udātta by *ñnityādir nityam*.
+
+**॥७॥**
+
+---
 
 ### Pages 803–805 — Sūkta 19, Rik 8
 
