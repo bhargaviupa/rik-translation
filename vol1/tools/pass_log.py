@@ -10,7 +10,7 @@ for g in range(a,b+1):
     for (f,_,_,s,e) in page_sections(g):
         if (f,s) not in seen: seen.add((f,s)); n+=text_of(f)[s:e].count('[?]')
 tot=sum(open(f,encoding='utf8').read().count('[?]') for f in (EN,GAPS))
-L=os.environ.get('PASS_LOG_FILE',os.path.join(ROOT,'docs','PASS_LOG_numerals_vol1.md'))
+L=os.environ.get('PASS_LOG_FILE',os.path.join(ROOT,'vol1','vol1_pass_log.md'))
 if not os.path.exists(L): open(L,'w').write('# Vol 1 numeral pass (user review pages, better scan)\n\n')
 note=open(nf,encoding='utf8').read().strip().replace('\n',' ')
 open(L,'a',encoding='utf8').write(f"{datetime.datetime.now(datetime.timezone.utc):%Y-%m-%d %H:%M} PDF {a}-{b}: [?] on these pages {n}, both files {tot}. {note}\n")

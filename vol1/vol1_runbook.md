@@ -29,18 +29,18 @@ You are continuing a project in the repo `bhargaviupa/rik-translation`: English 
 
 **2. Pre-fill a reading for each crop.** Use the file's own reading where one can be matched (page-order alignment like `align_edits.py`), otherwise leave the box empty or use the shape classifier (`glyphs.py`, trained on glyphs whose file reading is confident). Show the file's reading next to the box.
 
-**3. Build the HTML review pages** with `review_html.py` adapted to Vol 1: for each numeral, a black-and-white crop (cut at the scan's resolution, with a little context left and right), an editable box with the pre-fill, and "file: …" beside it; a heading per page (`PDF file/page · printed p. N`); ids `PDFPAGE_INDEX`, plus the file name if both PDFs are used. Split the volume into pages of about 100–150 PDF pages each (about 500 KB each). Send them to me in the chat with `SendUserFile` (display "render") and keep a copy in `docs/numeral_review/vol1/`. Tell me plainly:
+**3. Build the HTML review pages** with `review_html.py` adapted to Vol 1: for each numeral, a black-and-white crop (cut at the scan's resolution, with a little context left and right), an editable box with the pre-fill, and "file: …" beside it; a heading per page (`PDF file/page · printed p. N`); ids `PDFPAGE_INDEX`, plus the file name if both PDFs are used. Split the volume into pages of about 100–150 PDF pages each (about 500 KB each). Send them to me in the chat with `SendUserFile` (display "render") and keep a copy in `vol1/review/`. Tell me plainly:
 - Each box: correct it if it does not match the image; **empty a box if the crop is not a reference numeral**; `?` for a digit I cannot decide.
 - My edits are saved only in my browser. The "Copy my edits" button does not work in Safari inside the viewer: I should click in the text box at the bottom, press Cmd+A, Cmd+C, and paste into the chat. Uploading the HTML file back does **not** carry my edits.
 - **Do not send me a new copy of a page I am working on**: my saved edits may not appear in the new copy.
 
 **4. Apply my edits.** For each pasted list:
-- First save it raw in `docs/numeral_review/vol1/edits_<range>.txt` and commit it.
+- First save it raw in `vol1/review/edits_<range>.txt` and commit it.
 - Place each edit by aligning the page's crops (print order) with the numeral groups of that page section in the file. Edits that do not align, and any where the file number and my reading look like different references: render the printed line (as `/tmp/.../lines.py` did for Vol 11: the whole line with the crop boxed) and look at it before placing. Unedited rows are **not** confirmations; ignore them.
 - My reading wins over the file. Record numerals **as printed**; if one differs from the usual number, add ` [as printed]` after it. Never supply or "correct" a number from memory. A number the print has and the file lacks is added; tell me each one.
 - Apply all edits of a page **from the end of the page backwards**, with each anchor computed from the untouched page text. (In Vol 11 two edits close together corrupted seven spots when applied forwards.)
 - Before committing, run a word-level diff of the batch against the last commit and read it; every change must be a numeral swap or a deliberate addition. Check the file did not shrink unexpectedly and still ends with exactly one `**Progress note:**`.
-- Log each batch with `PASS_LOG_FILE=docs/PASS_LOG_numerals_vol1.md python3 publish/tools/pass_log.py …` (adapt it to Vol 1's headings), naming numbers kept as printed, numbers added, and readings you could not place.
+- Log each batch with `PASS_LOG_FILE=vol1/vol1_pass_log.md python3 publish/tools/pass_log.py …` (adapt it to Vol 1's headings), naming numbers kept as printed, numbers added, and readings you could not place.
 - Commit and push after each batch.
 
 **5. At the end**, on my request only: rebuild the Vol 1 outputs (`python3 publish/build_vol1.py full` for the designed PDF; DOCX/PDF per the build section of `CLAUDE.md`, with `docx_csfont.py` and Lohit Devanagari), check the Devanagari count and that there are no dotted circles, and give me the files.
