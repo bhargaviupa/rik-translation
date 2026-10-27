@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
 Status: in progress (scans present, 5 parts, 822 PDF pages).
-**Last PDF page done: 600 (printed p. 586).** Batch PDF 601–700 in progress: done through **PDF 697 (printed p. 683, end of Ṛk 16.2)**, edits in `review/edits_PDF601-700.txt`. Next: PDF 697 (p. 683, Ṛk 16.3). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
+**Last PDF page done: 700 (printed p. 686).** Next: batch PDF 701–822 (the last), starting with Ṛk 16.4, which begins on p. 686 (PDF 700, lower part). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
 `vol2/vol2_pass_log.md` (one entry per batch).
@@ -28,11 +28,12 @@ Saṃhitā block), `addnote.py` (note on a printed page; handles "### Pages N–
 | PDF 301–400 | 287–386 | every page re-read; all printed references placed/corrected ("as printed" kept where the print differs, listed below); bhāṣya re-transcribed in full where it was garbled or summarised (pp. 356, 362, 366, 369, 372, 377, 381–382), grammatical tails transcribed; grammar paragraphs rewritten from the print where they misstated it; Skandasvāmin, Yāska and Durgācārya quotations re-read (pp. 374, 382–385); end of Sūkta 9 (p. 380), Sūkta 10 introduction and header vargas 19, 20; Saṃhitā accents Ṛks 7.8–10.1 |
 | PDF 401–500 | 387–486 | every page re-read; Sūkta 10 Ṛks 2–12, Sūkta 11, Sūkta 12 opening and Ṛk 1; bhāṣyas re-transcribed in full with their grammatical tails; viniyoga/Anukramaṇī references corrected; grammar rewritten from the print where it misstated, invented or merged the text; Vala Ṛk list (p. 466), māyā/Śuṣṇa Ṛks and Nirukta (pp. 476–478) re-read; Saṃhitā accents Ṛks 10.2–12.1 |
 | PDF 501–600 | 487–586 | every page re-read; bhāṣyas re-transcribed in full with their grammatical tails (Sūkta 12 Ṛks 2–12, Sūkta 13 Ṛks 1–12, Sūkta 14 viniyoga and Ṛk 1); grammar rewritten from the print with page headings, invented numbers removed, a stale duplicate of pp. 545–546 removed; Yāska/Durgācārya/Skandasvāmin/Veṅkaṭamādhava passages of the Āprī-sūkta re-read in three layers; Saṃhitā accents Ṛks 12.2–14.1; English misprints marked [sic] |
+| PDF 601–700 | 587–686 | every page re-read; bhāṣyas re-transcribed in full with their grammatical tails (Sūkta 14 Ṛks 2–12, Sūkta 15, Sūkta 16 viniyoga and Ṛks 1–3); viniyoga/Anukramaṇī readings corrected; grammar rewritten from the print with page headings (Ṛk 15.1 grammar added); Yāska on *draviṇodas* and the *camasa* verses in three layers; Saṃhitā accents Ṛks 14.2–16.3; English misprints marked [sic] |
 
 ## To do
 
 1. (done) PDF 201–300, PDF 301–400.
-2. (done) PDF 401–500, 501–600. Next: PDF 601–700 (from p. 587, Ṛk 14.1 grammar), then 701–822 — same steps.
+2. (done) PDF 401–500, 501–600, 601–700. Next: PDF 701–822 (from Ṛk 16.4, p. 686) — same steps.
 3. Numeric [?] that had **no box on the review pages** (the locator missed them) and still need a manual look:
    p. 83 Ni. "2-23" [?] and "kvan" [?]; p. 84 Ṛ. Saṃ. "6-6[?]-1[?]"; p. 85 U. "4-196" [?]; p. 86 "Part II, page 3" [?]
    and "10th" [?] Ṛk; p. 91 U. "3-3[?]8"; p. 98 "6-2-102" [?]; p. 113 Ni. "2-1[?]"; p. 114 Ni. "3-8" [?] and Phiṭ
