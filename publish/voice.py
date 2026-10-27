@@ -4,6 +4,9 @@ import re
 
 EXACT = [
  # ---- sentence / clause level
+ ("I give only its recognisable words", "only its recognisable words are given"),
+ ("the word I read there as", "the word read there as"),
+ ("Gist, mine:", "Gist (translator's):"),
  ("that I do not reproduce.", "that is not reproduced."),
  ("shows a svarita-type mark that I do not reproduce", "shows a svarita-type mark that is not reproduced"),
  ("with a mark above the last letter which I read as a nasal sign", "with a mark above the last letter which is read as a nasal sign"),
