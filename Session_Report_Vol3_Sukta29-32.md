@@ -120,3 +120,11 @@ Standing instruction: continue translating Volume 3 of the 1949 Kannada commenta
 ## 10. Decision needed from you
 
 - Shall I redo Sūkta 29 Riks 6–7 and Sūkta 30 from the page images (PDF 467–532) and append a superseding block to the Volume 3 `.md`, given that Volume 3 is listed among the "closed" files? (Recommended: yes, in a fresh session, starting only after confirming that page images load.)
+
+## 11. Update — the redo was done
+
+Sūkta 29 Riks 6–7 and all of Sūkta 30 (pp. 452–517) were redone from the page images (PDF 467–532; every image loaded). The new text is appended as the block "SUPERSEDING REDO" near the end of `Rigveda_Samhita_Vol3_English_Translation.md`; the old unverified text remains above it, marked superseded. IAST layers were added by script; the .docx was rebuilt (205,123 Devanagari characters = .md). Remaining from §7: restore the omitted *anāhitāgni* note (Sūkta 31, p. 576); zoom-read numerals; contents-table correction; expert review.
+
+## 12. Update
+
+The omitted *anāhitāgni* note (Sūkta 31, p. 576) has been restored as a block near the end of the Volume 3 .md, from the page image.
