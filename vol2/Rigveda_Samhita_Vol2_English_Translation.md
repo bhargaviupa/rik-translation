@@ -6871,19 +6871,21 @@ O Indra! Since we have the help of skilled and valiant warriors who are expert i
 **पृतन्यतः** — "yoddhuṃ pṛtanām ātmana icchataḥ": **सुप आत्मनः क्यच्** (पा. सू. ३-१-८) "kyac" after "pṛtanām" … *(continues on p. 319)*
 ### Page 319 — Rik 4 closes; Sūkta 8, Rik 5
 
-*(The top of the page completes the Kannada grammar of* पृतन्यतः*: the denominative suffix* kyac *after* pṛtanā *with loss of the final* ā *by the sūtra on* kavi/adhvara/pṛtanā*; the* śatṛ *participle in place of* laṭ*; the initial-udātta, and accusative-plural accent of the form, ending the Rik with the number* ॥४॥*. Grammar noted briefly.)*
+*(Page header: "A. 1, A. 1, Va. 15." "Pṛtanyataḥ," concluded:)* **सनाद्यन्ता धातवः** (पा. सू. ३-१-३२) the root designation; **सुपो धातुप्रातिपदिकयोः** (पा. सू. २-४-७१) "luk" of "am": "pṛtanā + ya"; **कव्यध्वरपृतनस्यर्चि लोपः** (पा. सू. ७-४-३९), with **क्यचि च** (पा. सू. ७-४-३३) carried on: before "kyac" in a Ṛk the final of "kavi, adhvara, pṛtanā" is lost: "pṛtanya," end-acute by "citaḥ"; **लटः शतृशानचौ** (पा. सू. ३-२-१२४) "śatṛ"; **कर्तरि शप्** (पा. सू. ३-१-६८), "p"-marked, unaccented; "śatṛ" unaccented by **तास्यनुदात्तेत्…** (पा. सू. ६-१-१८६); **अतो गुणे** (पा. सू. ६-१-९७) twice the later form; the single substitute acute by **एकादेश उदात्तेनोदात्तः** (पा. सू. ८-२-५): "pṛtanyat," end-acute; the accusative plural "śas," unaccented by **अनुदात्तौ सुप्पितौ** (पा. सू. ३-१-४), is made acute by **शतुरनुमो नद्यजादी** (पा. सू. ६-१-१७३), with "antodāttāt" carried from **अन्तोदात्तादुत्तरपदादन्यतरस्यामनित्यसमासे** (पा. सू. ६-१-१६९). ॥४॥
 
-**॥४॥**
+
 
 ---
 
+*(Saṃhitā accents as printed; Pada unaccented. Line 1: the strokes stand over "ma" of "mahitvam" and over "tva…"; line 2: a stroke over "dyau," and over "śavaḥ" a stroke joined to a bar; placement doubtful, hence [accent ?].)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> महाँ इन्द्रः परश्च नु महित्वमस्तु वज्रिणे ।
-> द्यौर्न प्रथिना शवः ॥५॥
+> म॒हाँ इन्द्रः॑ प॒रश्च नु म॑हि॒त्वम॑स्तु व॒ज्रिणे॑ । [accent ?]
+> द्यौ॑र्न प्र॑थि॒ना शवः॑ ॥५॥ [accent ?]
 >
-> *mahāṁ indraḥ paraś ca nu mahitvam astu vajriṇe |*
-> *dyaur na prathinā śavaḥ ||5||*
+> *mahā́ṁ índraḥ paráś ca nú mahitvám astu vajríṇe |* [accent ?]
+> *dyaúr ná prathinā́ śávaḥ ||5||* [accent ?]
 
 **॥ Pada-pāṭhaḥ ॥**
 
