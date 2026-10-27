@@ -4036,38 +4036,85 @@ but by *kṅiti ca* (Pā. Sū. 1-1-5) — taking suffixes marked *g*, *k*, *ṅ*
 
 ---
 
-### Pages 174–177 — Sūkta 23, Rik 9
+### Page 174 (lower) — Sūkta 23, Rik 9
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> हत वृत्रं सुदानव इन्द्रेण सहसा युजा ।
-> मा नो दुःशंस ईशत ॥ ९ ॥
+> ह॒त वृ॒त्रं सु॑दानव॒ इन्द्रे॑ण॒ सह॑सा यु॒जा ।
+> मा नो॑ दुः॒शं॑स ईशत ॥९॥
+>
+> *hatá vṛtráṃ sudānava índreṇa sáhasā yujā́ |*
+> *mā́ no duḥśaṃsa īśata ||9||*
 
-*hata vṛtraṃ sudānava indreṇa sahasā yujā | mā no duḥśaṃsa īśata || 9 ||*
+*(Bars under ह (हत), वृ, व (दानव), ण and यु; strokes over सु, द्रे and ह (सहसा). Line 2: a stroke over नो, a bar under दुः, a stroke over शं.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> हत । वृत्रम् । सुऽदानवः । इन्द्रेण । सहसा । युजा ॥ मा । नः । दुःऽशंसः । ईशत ॥ ९ ॥
+> हत । वृत्रं । सुऽदानवः । इन्द्रेण । सहसा । युजा ॥
+> मा । नः । दुःऽशंसः । ईशत ॥९॥
+>
+> *hata | vṛtraṃ | su 'dānavaḥ | indreṇa | sahasā | yujā ||*
+> *mā | naḥ | duḥ 'śaṃsaḥ | īśata ||9||*
 
-*hata | vṛtram | su-dānavaḥ | indreṇa | sahasā | yujā || mā | naḥ | duḥ-śaṃsaḥ | īśata || 9 ||*
+### Page 175 — Rik 9: bhāṣya, word-meanings, overall sense, English, Special Topics
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे सुदानवः शोभनदानयुक्ता मरुद्गणाः सहसा बलवता युजा योग्येन्द्रेण सह वृत्रं शत्रुं हत । नाशयत । दुःशंसो दुष्टेन शंसनेन कीर्तनेन युक्तो वृत्रो नोऽस्मान्मा ईशत । समर्थो मा भूत् ॥ हत । हन हिंसागत्योः । लोटस्थ । तस्य थ । तस्थस्थमिपां तान्तंतामः (पा. ३-४-१०१) इति तादेशः । शपः [विकरणः] आदिप्रभृतिभ्यः शपः (पा. २-४-७२) इति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । सुदानवः । डुदाञ् दाने । दाभाभ्यां नुः (उ. [३-३२] [?]) इत्यादिको नुप्रत्ययः । प्रादिसमासे आमन्त्रितनिघातः । युजा । युजिर् योगे । ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च (पा. ३-२-५९) इति क्विन् । सावेकाच इति तृतीयैकवचनस्योदात्तत्वम् । दुःशंसः । ईषद्दुःसुषु कृच्छ्राकृच्छ्रार्थेषु खल् (पा. ३-३-१२६) इति … शंसु स्तुतौ [?] । मा नः … ईशत । ईश ऐश्वर्ये । माङि लुङ् (पा. ३-३-१७५) । छन्दसि लुङ्लङ्लिटः (पा. ३-४-६) इति व्यत्ययेन लङ् । तस्य बहुलं छन्दसीति शपो लुगभावः । न माङ्योगे (पा. ६-४-७४) इत्याडागमाभावः । तिङ्ङतिङ इति निघातः ॥
+*(The Uṇādi number is printed उ० ३-३२. Printed नोऽस्मान्प्रति मेशत, as printed.)*
 
-*he sudānavaḥ śobhanadānayuktā marudgaṇāḥ sahasā balavatā yujā yogyendreṇa saha vṛtraṃ śatruṃ hata | nāśayata | duḥśaṃso duṣṭena śaṃsanena kīrtanena yukto vṛtro no 'smān mā īśata | samartho mā bhūt || hata | hana hiṃsāgatyoḥ | loṭ-tha | tasya tha | tasthasthamipāṃ tāntaṃtāmaḥ (pā. 3-4-101) iti tādeśaḥ | śapaḥ ādiprabhṛtibhyaḥ śapaḥ (pā. 2-4-72) iti śapo luk | anudāttopadeśety ādinānunāsikalopaḥ | sudānavaḥ | ḍudāñ dāne | dābhābhyāṃ nuḥ (u. [3-32] [?]) ity ādiko nupratyayaḥ | prādisamāse āmantritanighātaḥ | yujā | yujir yoge | ṛtvigdadhṛksragdiguṣṇigañcuyujikruñcāṃ ca (pā. 3-2-59) iti kvin | sāvekāca iti tṛtīyaikavacanasyodāttatvam | duḥśaṃsaḥ | īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal (pā. 3-3-126) iti … śaṃsu stutau [?] | mā naḥ … īśata | īśa aiśvarye | māṅi luṅ (pā. 3-3-175) | chandasi luṅlaṅliṭaḥ (pā. 3-4-6) iti vyatyayena laṅ | tasya bahulaṃ chandasīti śapo lugabhāvaḥ | na māṅyoge (pā. 6-4-74) ity āḍāgamābhāvaḥ | tiṅ atiṅa iti nighātaḥ ||*
+> हे सुदानवः शोभनदानयुक्ता मरुद्गणाः सहसा बलवता युजा योग्येनेन्द्रेण सह वृत्रं शत्रुं हत । नाशयत । दुःशंसो दुष्टेन शंसनेन कीर्तनेन युक्तो वृत्रो नोऽस्मान्प्रति मेशत । समर्थो मा भूत् ॥ हत । हन हिंसागत्योः । लोटस्थ । तस्य त । अदिप्रभृतिभ्यः शप इति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । सुदानवः । डुदाञ् दाने । दाभाभ्यां नुः । उ० ३-३२ । इत्यौणादिको नुप्रत्ययः । प्रादिसमास आमन्त्रितनिघातः । युजा । युजिर् योगे । ऋत्विगित्यादिना क्विन् । सावेकाच इति तृतीयैकवचनस्योदात्तत्वं । दुःशंसः । ईषद्दुःसुष्विति खल् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । ईशत । ईश ऐश्वर्ये । माङि लुङि प्राप्ते छन्दसि लुङ्लङ्लिट इति व्यत्ययेन लङ् । तस्य बहुलं छन्दसीति शपो लुगभावः । न माङ्योग इत्याडागमाभावः । तिङ्ङतिङ इति निघातः ॥
+>
+> *he sudānavaḥ śobhanadānayuktā marudgaṇāḥ sahasā balavatā yujā yogyenendreṇa saha vṛtraṃ śatruṃ hata | nāśayata | duḥśaṃso duṣṭena śaṃsanena kīrtanena yukto vṛtro no 'smānprati meśata | samartho mā bhūt || hata | hana hiṃsāgatyoḥ | loṭastha | tasya ta | adiprabhṛtibhyaḥ śapa iti śapo luk | anudāttopadeśetyādinānunāsikalopaḥ | sudānavaḥ | ḍudāñ dāne | dābhābhyāṃ nuḥ | u0 3-32 | ityauṇādiko nupratyayaḥ | prādisamāsa āmantritanighātaḥ | yujā | yujir yoge | ṛtvigityādinā kvin | sāvekāca iti tṛtīyaikavacanasyodāttatvaṃ | duḥśaṃsaḥ | īṣadduḥsuṣviti khal | litīti pratyayātpūrvasyodāttatvaṃ | īśata | īśa aiśvarye | māṅi luṅi prāpte chandasi luṅlaṅliṭa iti vyatyayena laṅ | tasya bahulaṃ chandasīti śapo lugabhāvaḥ | na māṅyoga ityāḍāgamābhāvaḥ | tiṅṅatiṅa iti nighātaḥ ||*
 
-**Translation:** "O *sudānavaḥ* — liberal givers, Maruts! Together with Indra, *sahasā* — the strong — *yujā* — the fit companion — slay (*hata*, destroy) the enemy Vṛtra. May *duḥśaṃsaḥ* — the one who is of ill repute, talked of with evil speech — Vṛtra, not rule over us; may he not be strong [against us]. *Hata*: *han* 'to harm, to go'; *loṭ*, *tha*, with *ta* substituted by P. 3-4-101; *śap* lost by P. 2-4-72; loss of the nasal by *anudāttopadeśa…*. *Sudānavaḥ*: *ḍudāñ dāne*, the Uṇādi suffix *nu* [Uṇ. [3-32]]; the vocative lowering of accent in the *prādi*-compound. *Yujā*: *yujir yoge* + *kvin* by P. 3-2-59; the acute of the instrumental singular ending by *sāvekāca*. *Duḥśaṃsaḥ*: *khal* by P. 3-3-126 [in the sense *kṛcchra*/*akṛcchra*]. *Īśata*: *īśa aiśvarye*; *luṅ* with *māṅ* (P. 3-3-175) — in the Veda *laṅ* by *vyatyaya*; there is no *luk* of *śap*; no *āṭ* augment since *māṅ* is in conjunction (P. 6-4-74); the lowering of the accent by *tiṅ atiṅaḥ*." *(Grammar pages 176–177, noted briefly: the words treated are* hata *[*han* + *loṭ* + *tha* → *ta*; *śap* lost; the lost nasal by P. 6-4-37 *anudāttopadeśa-vanati-tanotyādīnām anunāsikalopo jhali kṅiti*; the roots listed in the verse *manyahannāp…* [?]],* sudānavaḥ,* yujā *[*kvin* is added after *yuj* after the group *ṛtvik, dadhṛk, srak, dik, uṣṇik, añcu, yuji, kruñc*, with special accent and *ṭā* acute],* duḥśaṃsaḥ *[*śaṃsu stutau* with the preposition *dus* + *khal*, P. 3-3-126; accent by P. 6-1-193 *liti*; the *u* of *śaṃsa* …] and* īśata *[*īśa aiśvarye* — "*māṅi luṅ*"; aorist augment absent; atmanepada third singular *īśata*; the accent as a verb after a non-verb is lowered]; numerals as read, pointers only.)*
+**Translation:** "O *sudānavaḥ*, hosts of Maruts furnished with fine gifts! *Hata*, destroy, *vṛtram*, the enemy, together with Indra, *sahasā*, mighty, *yujā*, fit [as an ally]. May the *duḥśaṃsaḥ*, Vṛtra, furnished with evil fame, *mā īśata*, not have power, *naḥ*, over us: may he not be able." (Grammatical tail: *hata*, *hana hiṃsāgatyoḥ*, *tha* of *loṭ*, *ta* for it, *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ*, the nasal dropped by *anudāttopadeśa…*; *sudānavaḥ*, *ḍudāñ dāne*, the Uṇādi suffix *nu* by *dābhābhyāṃ nuḥ* (U. 3-32); a *prādi* compound; the vocative loss of accent; *yujā*, *yujir yoge*, *kvin* by *ṛtvig…*, the instrumental singular udātta by *sāv ekācaḥ*; *duḥśaṃsaḥ*, *khal* by *īṣadduḥsuṣu…*, the syllable before the suffix udātta by *liti*; *īśata*, *īśa aiśvarye*: with *māṅ*, *luṅ* being due, *laṅ* by *vyatyaya* under *chandasi luṅlaṅliṭaḥ*; for it no dropping of *śap* by *bahulaṃ chandasi*; no augment *aṭ* by *na māṅyoge*; loss of accent by *tiṅṅatiṅaḥ*.)
 
-**॥ Prati-padārthaḥ ॥** **(हे) सुदानवः ((he) sudānavaḥ)** — O liberal givers of excellent wealth, Marut-deities | **सहसा (sahasā)** — the strong | **युजा (yujā)** — fit [your companion] | **इन्द्रेण (indreṇa)** — with Indra | **वृत्रम् (vṛtram)** — Vṛtra [or the enemy] | **हत (hata)** — slay | **दुःशंसः (duḥśaṃsaḥ)** — that Vṛtra, known as evil | **नः (naḥ)** — us | **मा ईशत (mā īśata)** — may not harm [rule over].
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O Maruts, givers of wealth! Join Indra, who is valiant and your friend, and slay the asura Vṛtra. May that Vṛtra, of ill name, not do us harm.
+**(हे) सुदानवः ((he) sudānavaḥ)** — O Marut deities who give excellent wealth and the like (you) | **सहसा (sahasā)** — strong | **युजा (yujā)** — fit (that is, your companion) | **इन्द्रेण (indreṇa)** — together with Indra | **वृत्रं (vṛtraṃ)** — the demon Vṛtra (or the enemy) | **हत (hata)** — destroy | **दुःशंसः (duḥśaṃsaḥ)** — that Vṛtra, known as wicked | **नः (naḥ)** — us | **मा ईशत (mā īśata)** — may he not trouble.
+
+**॥ Bhāvārthaḥ ॥**
+
+O all you hosts of Maruts who give wealth and the like, together with Indra, who is strong and your companion, slay the demon Vṛtra. May that Vṛtra, known as wicked, not cause us trouble.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O liberal gods, aided by your powerful friend, Indra, destroy Vritra, let not the wicked one prevail against us.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 175–176)* **सुदानवः** — *ḍudāñ dāne*; *śobhanadānayuktāḥ*: those who give excellent things, 'liberal doners'. **सहसा** — *sahas* means strength, power; this word is in the third case singular. **युजा** — *yujir yoge*: [Indra] who is joined with you, fit, suitable. **दुःशंसः** — *duṣṭena śaṃsanena yuktaḥ*: one who is censured by bad speech — one famed as bad; of bad nature. **ईशत** — *īśa aiśvarye*: *mā īśata* means 'let them not rule over us; let them not give us trouble'.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**सुदानवः (sudānavaḥ)** — *ḍudāñ dāne | śobhanadānayuktāḥ ||* that is, the deities who give excellent things: "liberal doners" [sic].
+
+**सहसा (sahasā)** — *sahaḥ* means strength, power. This word is in the instrumental singular.
+
+### Page 176 — Rik 9: Special Topics (end), grammar
+
+**युजा (yujā)** — *yujir yoge |* being together, fit.
+
+**दुःशंसः (duḥśaṃsaḥ)** — *duṣṭena śaṃsanena yuktaḥ |* one blamed with evil words, one known as wicked, one of wicked nature.
+
+**ईशत (īśata)** — *īśa aiśvarye |* *mā īśata* means: may he not hold power over us, may he not trouble us: this is the intention.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**हत (hata)** — the root *hana hiṃsāgatyoḥ*. *Loṭ*, second person plural, the suffix *tha*: *han* + *tha*; by *loṭo laṅvat* (Pā. Sū. 3-4-85) treated like *laṅ*; by *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) the substitute *ta*: *han* + *ta*; by *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap*; for it, by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72), *luk*. Now by *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. Sū. 6-4-37) — when a *jhal*-initial suffix that is *kit* or *ṅit* follows, the final nasal of roots taught unaccented and ending in a nasal, of the *tanoty-ādi* roots ending in a nasal, and of the root *van* is dropped — the *n* is dropped. *Han* is included in the *kārikā* that counts the roots taught unaccented, *manyahannāpkṣipchupitaptipastipyatidṛpyatī*; so it is taught unaccented.
+
+> मन्यहन्नाप्क्षिप्छुपितप्तिपस्तिप्यतिदृप्यती ।
+>
+> *manyahannāpkṣipchupitaptipastipyatidṛpyatī |*
+
+**सुदानवः (sudānavaḥ)** — the root *ḍudāñ dāne*. By *dābhābhyāṃ nuḥ* (U. Sū. 3-32 [?], as read) — after the roots *ḍudāñ dāne* and *bhā dīptau*, the suffix *nu* — when the suffix *nu* comes after the root *dā*, it becomes *dānu*. With the word *su*, by *kugatiprādayaḥ* (Pā. Sū. 2-2-18), the *prādi* compound; since it follows a *pada*, and since it is not at the beginning of a *pāda*, by the eighth-book sūtra *āmantritasya ca* (Pā. Sū. 8-1-19) it is wholly unaccented.
+
+**युजा (yujā)** — the root *yujir yoge*. By *ṛtvigdadhṛksragdiguṣṇigañcuyujikruñcāṃ ca* (3-2-59) — when *ṛtu* is *upapada*, after the root *yaj*, and after *dhṛṣ*, *sṛj*, *diś*, *ut*-prefixed *snih*, *añc*, *yuj*, *kruñc*, the suffix *kvin* comes; some special operations too are given as set forms. When *kvin* comes after the root *dhṛṣ*, reduplication and final udātta are given as set forms: it becomes *dadhṛk*. When *kvin* in the object sense comes after *sṛj*, the augment *am* is given as a set form: it becomes *srak*. After *snih* with *ut*, the dropping of the final letter of the prefix and *ṣ* for *s* are given as set forms. After the root *yuj* —
+
+### Page 177 — Rik 9: grammar (end)
+
+— *kvin* comes by the sūtra stated before. All the letters of *kvin* are dropped in turn. After it the instrumental singular suffix *ṭā*: *yuj* + *ā*. By *sāv ekācas tṛtīyādir vibhaktiḥ* (Pā. Sū. 6-1-168) — when the locative plural *su* follows, after a word that has a single vowel, the case-ending of the third onward is udātta — that case-ending is udātta.
+
+**दुःशंसः (duḥśaṃsaḥ)** — by *īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. Sū. 3-3-126) — when *dus* in the sense of difficulty, or *īṣat*, *su* in the sense of ease, are *upapada*, the suffix *khal* comes after roots in the action and object senses — *khal* comes after the root *śaṃsu stutau* with the prefix *dus*: *dus* + *śaṃs* + *a*: it becomes *duśśaṃsa*. By *liti* (Pā. Sū. 6-1-193) the vowel before the suffix is udātta.
+
+**ईशत (īśata)** — *īśa aiśvarye*. Since there is connection with *māṅ*, as in *mā no duḥśaṃsa īśata*, by *māṅi luṅ* (Pā. Sū. 3-3-175) — when *māṅ* is used, *luṅ* comes after the root — *luṅ* would be due. But by *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — when a connection of the meanings of two roots is shown, *luṅ*, *laṅ*, *liṭ* come at all times — by interchange *laṅ* comes. Middle voice, third person singular: *īś* + *ta*, *śap*; though *luk* would be due by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72), by *bahulaṃ chandasi* the *śap* is not dropped. When the augment *aṭ* would be due by *luṅlaṅlṛṅkṣv aḍ udāttaḥ* (Pā. Sū. 6-4-71), by *na māṅyoge* (Pā. Sū. 6-4-74) — with *māṅ*, the augments *aṭ*, *āṭ* do not come — the prohibition comes: it becomes *īśata*. By *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) — a word ending in *tiṅ* after a word not ending in *tiṅ* is unaccented — it becomes wholly unaccented. ॥9॥
+
+*(An ornament follows.)*
 
 ---
 
