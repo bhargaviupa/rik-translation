@@ -5679,13 +5679,13 @@ This sūkta *indram id gāthino bṛhat* is the fourth (last) sūkta of the seco
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> गाथिनो गीयमानसामयुक्ता उद्गातार इन्द्रमिदिन्द्रमेव बृहत् । त्वामिद्धि हवामहे [ऋग्वे. ६-४६-१] इत्यस्यामृच्युत्पन्नेन बृहन्नामकेन साम्नानूषत । स्तुतवन्तः । अर्किणो ऽर्चनहेतुमन्त्रोपेता होतारो ऽर्केभिर् ऋग्रूपैर्मन्त्रैरिन्द्रमेवानूषत । ये त्वध्वर्यवस्ते वाणीर्वाग्रूपाभिर्यजूरूपाभिरिन्द्रमेवानूषत । अर्कशब्दस्य मन्त्रपरत्वं यास्केनोक्तम् । अर्को मन्त्रो भवति यदेनेनार्चन्ति । नि. ५-४ । इति । श्लोक इत्यादिषु सप्तपञ्चाशत्सु वाङ्नामसु वाशी वाणीति पठितम् ॥
+> गाथिनो गीयमानसामयुक्ता उद्गातार इन्द्रमिदिन्द्रमेव बृहत् । त्वामिद्धि हवामहे । ऋग्वे. ६-४६-१ । इत्यस्यामृच्युत्पन्नेन बृहन्नामकेन साम्नानूषत । स्तुतवन्तः । अर्किणो ऽर्चनहेतुमन्त्रोपेता होतारो ऽर्केभिर् ऋग्रूपैर्मन्त्रैरिन्द्रमेवानूषत । ये त्ववशिष्टा अध्वर्यवस्ते वाणीर्वाग्भिर्यजूरूपाभिरिन्द्रमेवानूषत । अर्कशब्दस्य मन्त्रपरत्वं यास्केनोक्तम् । अर्को मन्त्रो भवति यदेनेनार्चन्ति । नि. ५-४ । इति । श्लोक इत्यादिषु सप्तपञ्चाशत्सु वाङ्नामसु वाशी वाणीति पठितम् ॥
 >
-> *gāthino gīyamāna-sāma-yuktā udgātāra indram id indram eva bṛhat | tvām id dhi havāmahe [ṛgve. 6-46-1] ity asyām ṛcy utpannena bṛhan-nāmakena sāmnānūṣata | stutavantaḥ | arkiṇo 'rcana-hetu-mantropetā hotāro 'rkebhir ṛg-rūpair mantrair indram evānūṣata | ye tv adhvaryavas te vāṇīr vāg-rūpābhir yajū-rūpābhir indram evānūṣata | arka-śabdasya mantra-paratvaṃ yāskenoktam | arko mantro bhavati yad anenārcanti | ni. 5-4 | iti | śloka ity-ādiṣu saptapañcāśatsu vāṅ-nāmasu vāśī vāṇīti paṭhitam ||*
+> *gāthino gīyamāna-sāma-yuktā udgātāra indram id indram eva bṛhat | tvām id dhi havāmahe | ṛgve. 6-46-1 | ity asyām ṛcy utpannena bṛhan-nāmakena sāmnānūṣata | stutavantaḥ | arkiṇo 'rcana-hetu-mantropetā hotāro 'rkebhir ṛg-rūpair mantrair indram evānūṣata | ye tv avaśiṣṭā adhvaryavas te vāṇīr vāgbhir yajū-rūpābhir indram evānūṣata | arka-śabdasya mantra-paratvaṃ yāskenoktam | arko mantro bhavati yad anenārcanti | ni. 5-4 | iti | śloka ity-ādiṣu saptapañcāśatsu vāṅ-nāmasu vāśī vāṇīti paṭhitam ||*
 
-**Translation:** "The *gāthinaḥ* — the udgātṛ priests, who are endowed with sung Sāmans — praised Indra, and Indra alone, with the **Bṛhat** [Sāman] — that is, with the Sāman named Bṛhat, produced upon the rik *tvām id dhi havāmahe* (Ṛgveda 6-46-1) — they praised him. The *arkiṇaḥ* — the hotṛ priests, who are furnished with mantras that are the means of worship — praised Indra, and Indra alone, with the *arkas*, that is, with mantras in the form of ṛks. And the adhvaryus praised Indra alone with *vāṇīs* — with speech in the form of yajus-formulae. That the word *arka* denotes 'mantra' is stated by Yāska: 'An *arka* is a mantra, because with it they offer worship' (Nirukta 5-4). Among the fifty-seven words for 'speech' beginning with *śloka*, the words *vāśī* and *vāṇī* are listed."
+**Translation:** "The *gāthinaḥ* — the udgātṛ priests, who are endowed with sung Sāmans — praised Indra, and Indra alone, with the **Bṛhat** [Sāman] — that is, with the Sāman named Bṛhat, produced upon the rik *tvām id dhi havāmahe* (Ṛgveda 6-46-1) — they praised him. The *arkiṇaḥ* — the hotṛ priests, who are furnished with mantras that are the means of worship — praised Indra, and Indra alone, with the *arkas*, that is, with mantras in the form of ṛks. And the remaining ones, the adhvaryus, praised Indra alone with *vāṇīs* — with speech in the form of yajus-formulae. That the word *arka* denotes 'mantra' is stated by Yāska: 'An *arka* is a mantra, because with it they offer worship' (Nirukta 5-4). Among the fifty-seven words for 'speech' beginning with *śloka*, the words *vāśī* and *vāṇī* are listed."
 
-*(The remainder of the Sanskrit on this page and the next carries Sāyaṇa's grammatical derivation of* गाथिनः *[gāthinaḥ],* बृहत् *[bṛhat],* अर्केभिः *[arkebhiḥ],* अर्किणः *[arkiṇaḥ],* वाणीः *[vāṇīḥ] and* अनूषत *[anūṣata] — suffixes, accent, and Vedic irregularities of case-ending — in the standard dense register. Characterized rather than transcribed line by line (Convention 5); the sense of each word is already fixed by the passage above. In outline: gāthinaḥ is formed with the suffix* than *(from the root* gai*, "to sing") and then* ini *("one who has gāthās"); bṛhat has its instrumental ending dropped (the standard* luk *of case-endings in the Veda); arkebhiḥ lacks the usual* ais *substitution by Vedic license; arkiṇaḥ is "those who have arkas"; vāṇīḥ is a nominative form standing in an instrumental sense; anūṣata is an aorist of the root* nu *("to praise") in the middle voice with a Vedic irregularity.)*
+**Grammar of the Bhāṣya (characterized, references as printed):** "Gāthinaḥ" — **उषिकुषिगार्तिभ्यस्थन्** (उ. २-४) "than" after "gai," "n"-marked, so first-syllable acute: "gāthā"; "gāthā eṣāṃ santi" — **व्रीह्यादिभ्यश्च** (पा. ५-२-११६) "ini," the "i" acute by the affix accent, which, coming later, remains. "Bṛhat" — for "bṛhatā": the instrumental ending is elided by "supāṃ suluk…"; **पृषद्बृहन्महज्जगच्छतृवच्च** (उ. २-८४) gives it as end-acute by nipātana. "Arkebhiḥ" — "arca pūjāyām": "arcyate ebhir iti arkā mantrāḥ"; **पुंसि संज्ञायां घः प्रायेण** (पा. ३-३-११८) "gha"; **चजोः कु घिण्ण्यतोः** (पा. ७-३-५२) "k"; end-acute by the affix accent; **बहुलं छन्दसि** (पा. ७-१-१०) — "ais" does not replace "bhis." "Arkiṇaḥ" — "arkāḥ stuti-sādhana-bhūtā mantrā eṣāṃ santi." "Vāṇīḥ" — **वृषादीनां च** (पा. ६-१-२०३) first-syllable acute; the long vowel, since **दीर्घाज्जसि च** (पा. ६-१-१०५) — the prohibition of the long "pūrvasavarṇa" — is optional in the Veda (**वा छन्दसि**, पा. ६-१-१०६); a nominative in the sense of the instrumental. "Anūṣata" — "ṇu stutau," **णो नः** (पा. ६-१-६५) "n"; "luṅ," ātmanepada by vyatyaya; "at" for "jha" (पा. ७-१-५); no "iṭ" with "sic" and the long "ū" are Vedic; the root being "kuṭādi" (पा. १-२-१), "sic" is "ṅit," so no guṇa (पा. १-१-५).
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -5699,13 +5699,13 @@ At the time of sacrifice, the ṛtvijs praise Indra in many ways. That is: the S
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> The chanters (of the Sama hymns) praise only Indra with (a Saman called) Brihat; the recetirs of mantras (Rics) praise Indra with the Ric-Verses; (and the remaining priest Adhvaryus) praise Indra with prose-like Sentences (of Yajus).
+> The chanters (of the Sama hymns) praise only Indra with (a Saman called) Brihat; the recetirs [sic] of mantras (Rics) praise Indra with the Ric-Verses; (and the remaning [sic] priest Adhvaryus) praise Indra with prose-like Sentences (of Yajus).
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
 **The three Vedas in one rik.** Although this rik does not explicitly name the Vedas Ṛk, Yajus and Sāman, the Bhāṣyakāra takes the words **बृहत् (*bṛhat*), अर्केभिः (*arkebhiḥ*) and वाणीः (*vāṇīḥ*)** to point to the mantras of the three Vedas — Sāma, Ṛg and Yajur respectively. **Western scholars do not accept this view.** They hold that the Ṛgveda is older than the other Vedas, and so there is no reason for the later Vedas — Yajur and Sāma — to be indicated within it.
 
-Though this argument cannot be dismissed outright, the Ṛgveda's own **Puruṣa-sūkta (Ṛgveda Saṃhitā 10-90-9 [?])** states the words *yajus* and *sāman* explicitly. Moreover:
+Though this argument cannot be dismissed outright, the Ṛgveda's own **Puruṣa-sūkta (Ṛgveda Saṃhitā 10-90-9)** states the words *yajus* and *sāman* explicitly. Moreover:
 
 1. Most of the Sāma Veda's mantras are themselves Ṛgveda mantras, and even in the Ṛgveda's own period it was the custom to recite many Ṛgveda riks in sung form; so there is nothing impossible in a Sāman-mantra being indicated here.
 2. It is something everyone must grant that the **Yajurveda is later** than the Ṛgveda and Sāma Veda. But although it did not then exist in its present, systematized form, one may confidently say that many Yajur-mantras — chiefly, the sentences used in the sacrifice — were then in special use. Many such sentences, together with the procedures and rules of sacrificing, may have been gathered together to form the Yajurveda as it now stands.
@@ -5730,27 +5730,27 @@ For these reasons, the Bhāṣyakāra's explanation of the words as the Ṛk-Yaj
 >
 > (Ṛgveda Saṃhitā 6-46-1)
 
-**Translation (of the rik as cited here):** "Indeed we call upon you, O Indra — we the singers — for the winning of strength [or: in the winning of spoil]; you, O Indra, the lord of the good, in battles with Vṛtra [or: against Vṛtras]; the men [call upon] you in the races of the horse." *(My rendering of the rik rests on the plain word-sense; the source here offers no Kannada translation of it, only the citation. Spelling of* sātā *follows the scan.)*
+**Translation (of the rik as cited here):** "Indeed we call upon you, O Indra — we the singers — for the winning of strength [or: in the winning of spoil]; you, O Indra, the lord of the good, in battles with Vṛtra [or: against Vṛtras]; the men [call upon] you in the races of the horse." *(Gloss mine and tentative; the source gives no translation of it here. "sātā" as printed.)*
 
-The source adds: this mantra is found in the Sāma Veda at **334 [?]; 982 [?]**; in the Atharvaveda **20-71-1 [?]**; in the Vājasaneyi Saṃhitā (Śukla Yajurveda) **27-34 [?]**; the Taittirīya Saṃhitā (Kṛṣṇa Yajurveda) **2-4-14-2 [?]**; the Maitrāyaṇīya Saṃhitā **2-2-6 [?]**, and other places. *(All numerals in this sentence are small and compressed in the scan; given with reservation.)* **This Bṛhat-sāman is one principal mantra of the Sāma Veda; the Yajurveda explains it in many places.**
+The source adds: this mantra is found in the Sāma Veda at **234; 809**; in the Atharvaveda **20-98-1**; in the Vājasaneyi Saṃhitā (Śukla Yajurveda) **27-37**; the Taittirīya Saṃhitā (Kṛṣṇa Yajurveda) **2-4-14-3**; the Maitrāyaṇīya Saṃhitā **7-2-6 [?]** (the first digit unclear), and other places. **This Bṛhat-sāman is one principal mantra of the Sāma Veda; the Yajurveda explains it in many places.**
 
 **"Arkebhiḥ"** — Yāska, in the Nirukta, gives the sense of the word *arka*: **अर्को मन्त्रो भवति यदेनेनार्चन्ति** (*arko mantro bhavati yad anenārcanti*) — "an *arka* is a mantra, because with it they worship" (Nirukta 5-4). The root *arc* means "to worship" (*pūjāyām*); because worship is done with it, the mantra is called *arka*.
 
 **"Arkiṇaḥ"** — **अर्काः स्तुतिसाधनभूता मन्त्रा येषां सन्तीत्यर्किणः** (*arkāḥ stuti-sādhana-bhūtā mantrā yeṣāṃ santīty arkiṇaḥ*) — "those who have *arkas*, mantras that are the instruments of praise" — that is, those who praise with mantras (*arkas*) that are the means of praise.
 
-**"Vāṇīḥ"** — *vāṇī* is listed among the **fifty-seven** speech-words beginning with *śloka* and *dhārā* (Nirukta/Nighaṇṭu 1-11 *[the source's "ನಿ. ೧-೧೧"; reading of the numerals is uncertain]*). Here the Bhāṣyakāra explains *vāṇīḥ* as **Yajurveda sentences**. Since the Yajurveda has few mantras bound in meter, it is the custom to call its mantras "sentences" (*vākya*). In this rik the nominative-case word *vāṇīḥ* is used in the sense of the instrumental.
+**"Vāṇīḥ"** — *vāṇī* is listed among the **fifty-seven** speech-words beginning with *śloka* and *dhārā* (Ni. 2-23 [?], the numerals unclear). Here the Bhāṣyakāra explains *vāṇīḥ* as **Yajurveda sentences**. Since the Yajurveda has few mantras bound in meter, it is the custom to call its mantras "sentences" (*vākya*). In this rik the nominative-case word *vāṇīḥ* is used in the sense of the instrumental.
 
 **"Anūṣata"** — the aorist (*luṅ*) form of the root **ṇu stutau** ("to praise"). Although the root takes parasmaipada, here, by a Vedic inversion (*vyatyaya*), it is used as if it were ātmanepada.
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*Characterized, not transcribed (Convention 5). This section (pp. 261–263) works through the derivation and accent of each word in the rik, in sūtra-by-sūtra detail. Points of substance below. **Caveat for every characterized grammar section in this batch:** the Pāṇini/Uṇādi sūtra numbers are read from very small Kannada-script print and were not cross-checked against Pāṇini; treat them as pointers to the passage, not as verified citations.*
+*Characterized, not transcribed. This section (pp. 261–263) works through the derivation and accent of each word; sūtra numbers as printed, re-read from the better scan.*
 
-- **गाथिनः (*gāthinaḥ*)** — from the root *gai* ("to sing") + the *than* suffix by an Uṇādi sūtra (Uṇ. 2-4 [?]), then *-in* by Pāṇini 5-2-116 ("vrīhy-ādibhyaś ca"), so the word means "one possessing gāthās"; the accent falls on the suffix-vowel.
-- **बृहत् (*bṛhat*)** — instrumental singular in sense, the case-ending being deleted by the Pāṇinian *luk* rule (Pā. 7-1-39 [?]); the word is final-udātta by an Uṇādi sūtra (Uṇ. 2-84 [?]) that treats *bṛhat* as irregularly formed (*nipātita*). The source remarks that, because the suffix *śatṛ* carries the *ati*-class final accent, *bṛhat* is *atipratyayānta* in effect.
-- **अर्केभिः (*arkebhiḥ*)** — from *arc* ("to worship") + *gha*, giving *arka*, with the palatal-to-velar change (*kutva*); the expected *ais* of the instrumental plural is not substituted, "bahulaṃ chandasi" (Pā. 7-1-10).
-- **अर्किणः (*arkiṇaḥ*)** — *arka* + the suffix *ini* ("possessing").
-- **वाणीः (*vāṇīḥ*)** — initial-udātta by "vṛṣādīnāṃ ca" (Pā. 6-1-203); lengthening in the nominative plural resolved by the optional Vedic rule on *pūrvasavarṇa*-lengthening.
+- **गाथिनः (*gāthinaḥ*)** — from the root *gai* ("to sing") + the *than* suffix by **उषिकुषिगार्तिभ्यस्थन्** (उ. सू. २-१६१, so printed here; the Bhāṣya gave "उ. २-४") — after "uṣa dāhe," "kuṣa niṣkarṣe," "gai śabde," "ṛ gatau" — with "ā" for the "ai" by **आदेच उपदेशेऽशिति** (पा. सू. ६-१-४५), "gātha," first-syllable acute by the "n"-mark; then, "gāthā eṣāṃ santi," **व्रीह्यादिभ्यश्च** (पा. सू. ५-२-११६) gives "ini" or "than" in the possessive sense after the "vrīhi"-class words, here "ini"; **यस्येति च** (पा. सू. "६-४-" as printed, the last number missing) drops the "ā"; the "i" acute by the affix accent, the "ā" unaccented by "satiśiṣṭa"; the unaccented "a" of "jas" becomes svarita by **उदात्तादनुदात्तस्य स्वरितः** (पा. सू. ८-४-६६).
+- **बृहत् (*bṛhat*)** — for "bṛhatā": **सुपां सुलुक्…** (पा. सू. ७-१-३९) elides the instrumental ending; **वर्तमाने पृषद्बृहन्महज्जगच्छतृवच्च** (उ. सू. २-२४१ [?], the bhāṣya gave "उ. २-८४") forms these words with the affix "ati" in the present sense, with all the operations of "śatṛ"; end-acute by the affix accent.
+- **अर्केभिः (*arkebhiḥ*)** — "arca pūjāyām," "arcyante ebhir iti arkāḥ" (mantras); **पुंसि संज्ञायां घः प्रायेण** (पा. सू. ३-३-११८) "gha" in the instrumental or locative sense; its "gh" is "it" by **लशक्वतद्धिते** (पा. सू. १-३-८) and dropped by **तस्य लोपः** (पा. सू. १-३-९); **चजोः कु घिण्ण्यतोः** (पा. सू. ७-३-५२) "k" for "c": "arka"; the "ais" of **अतो भिस ऐस्** (पा. सू. ७-१-९) is barred by **बहुलं छन्दसि** (पा. सू. ७-१-१०); **बहुवचने झल्येत्** (पा. सू. ७-३-१०३) "e": "arkebhiḥ."
+- **अर्किणः (*arkiṇaḥ*)** — "arkāḥ … eṣāṃ santi": **अत इनिठनौ** (पा. सू. ५-२-११५) "ini"; nominative plural.
+- **वाणीः (*vāṇīḥ*)** — **वृषादीनां च** (पा. सू. ६-१-२०३) first-syllable acute; "vāṇī + as": the long vowel of **प्रथमयोः पूर्वसवर्णः** (पा. सू. ६-१-१०२) is forbidden by **दीर्घाज्जसि च** (पा. सू. ६-१-१०५), but **वा छन्दसि** (पा. सू. ६-१-१०६) makes the prohibition optional in the Veda …
 - **अनूषत (*anūṣata*)** — root *ṇu* with *n* for *ṇ*; aorist with *sic*; the augment *iṭ* absent and the vowel lengthened as Vedic features; *guṇa* is blocked.
 
 ### Page 262 — (grammar continued)
@@ -5759,7 +5759,9 @@ The source adds: this mantra is found in the Sāma Veda at **334 [?]; 982 [?]**;
 
 ### Page 263 — Rik 1 grammar closes; Rik 2
 
-*(The first nine lines complete the Rik 1 grammar — the analysis of* anūṣata*, ending with the observation that, since the root* nu *belongs to the* kuṭādi *class, the* sic *aorist behaves as if marked* ṅit *and so* guṇa *does not arise. Then the number* ॥१॥ *closes Rik 1. Characterized, not transcribed.)*
+*(Page header: "A. 1, A. 1, Va. 13." The first lines end the Kannada grammar of Rik 1; characterized, numbers as printed.)*
+
+**"Vāṇīḥ" (concluded)** — where the prohibition does not apply, **प्रथमयोः पूर्वसवर्णः** (पा. सू. ६-१-१०२) gives the long vowel: "vāṇīḥ," a nominative in the sense of the instrumental. **"Anūṣata"** — "ṇu stutau": **णो नः** (पा. सू. ६-१-६५) "n" for the initial "ṇ"; "luṅ," ātmanepada by vyatyaya; third plural "jha," replaced by "at" by **आत्मनेपदेष्वनतः** (पा. सू. "६-१-५" as printed); **च्लि लुङि** (पा. सू. ३-१-४३) and **च्लेः सिच्** (पा. सू. ३-१-४४) "sic"; the absence of the "iṭ" of **आर्धधातुकस्येड्वलादेः** (पा. सू. ७-२-३५) and the long "ū" are Vedic; "ṇu" being in the kuṭādi class, "sic" is "ṅit" by **गाङ्कुटादिभ्योऽञ्णिन्ङित्** (पा. सू. १-२-१), so **क्ङिति च** (पा. सू. १-१-५) blocks the guṇa of **सार्वधातुकार्धधातुकयोः** (पा. सू. ७-३-८४).
 
 **॥१॥**
 
@@ -5767,13 +5769,15 @@ The source adds: this mantra is found in the Sāma Veda at **334 [?]; 982 [?]**;
 
 ### Sūkta 7, Rik 2
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र इद्धर्योः सचा सम्मिश्ल आ वचोयुजा ।
-> इन्द्रो वज्री हिरण्ययः ॥२॥
+> इन्द्र॒ इद्धर्योः॒ सचा॒ संमि॑श्ल॒ आ व॑चो॒युजा॑ ।
+> इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥२॥
 >
-> *indra id dharyoḥ sacā sammiśla ā vacoyujā |*
-> *indro vajrī hiraṇyayaḥ ||2||*
+> *índra íd dháryoḥ sácā sáṃmiśla ā́ vacoyújā |*
+> *índro vajrī́ hiraṇyáyaḥ ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
