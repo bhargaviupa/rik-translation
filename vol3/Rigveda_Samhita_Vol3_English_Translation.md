@@ -3808,38 +3808,79 @@ We have already explained the meaning of the words *ṛta* and *ṛtāvṛdhā* 
 
 ---
 
-### Pages 162–166 — Sūkta 23, Rik 6
+### Page 162 (lower) — Sūkta 23, Rik 6
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वरुणः प्राविता भुवन्मित्रो विश्वाभिरूतिभिः ।
-> करतां नः सुराधसः ॥ ६ ॥
+> वरु॑णः प्रावि॒ता भु॑वन्मि॒त्रो विश्वा॑भिरू॒तिभिः॑ ।
+> क॑रतां नः सु॒राध॑सः ॥६॥ [accent ?]
+>
+> *váruṇaḥ prāvitā́ bhuvan mitró víśvābhir ūtíbhiḥ |*
+> *karatāṃ naḥ surā́dhasaḥ ||6||* [accent ?]
 
-*varuṇaḥ prāvitā bhuvan mitro viśvābhir ūtibhiḥ | karatāṃ naḥ surādhasaḥ || 6 ||*
+*(Strokes over रु, भु, श्वा and भिः; bars under वि (प्राविता), मि and रू. Line 2: a stroke over क (read as printed), a bar under सु, a stroke over ध [accent ?]. The Pada heading on this page is printed ॥ प्रतिपदार्थ ॥, as printed.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> वरुणः । प्रऽअविता । भुवत् । मित्रः । विश्वाभिः । ऊतिऽभिः ॥ करताम् । नः । सुऽराधसः ॥ ६ ॥
-
-*varuṇaḥ | pra-avitā | bhuvat | mitraḥ | viśvābhiḥ | ūti-bhiḥ || karatām | naḥ | su-rādhasaḥ || 6 ||*
+> वरुणः । प्रऽअविता । भुवत् । मित्रः । विश्वाभिः । ऊतिऽभिः ॥
+> करतां । नः । सुऽराधसः ॥६॥
+>
+> *varuṇaḥ | pra 'avitā | bhuvat | mitraḥ | viśvābhiḥ | ūti 'bhiḥ ||*
+> *karatāṃ | naḥ | su 'rādhasaḥ ||6||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> अयं वरुणोऽस्माकं प्राविता भुवत् । प्रकर्षेण रक्षको भवतु । मित्रश्च विश्वाभिरूतिभिः सर्वाभी रक्षाभिः प्राविता भुवत् । तावुभावपि सोऽस्मान्सुराधसः प्रभूतधनयुक्तान्करताम् । कुरुताम् ॥ अविता । तृचि चित्त्वादन्तोदात्तत्वम् । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते । भुवत् । भू सत्तायाम् । लेटि तिप् । लेटोऽडाटावित्यडागमः । इतश्च लोप इतीकारलोपः । बहुलं छन्दसीति शपो लुक् । गुणे प्राप्ते भूसुवोस्तिङि (पा. ७-३-८८) इति प्रतिषेधः । उवङादेशः । तिङ्ङतिङ इति निघातः । विश्वाभिः । अशूप्रुषिलटिकणिखटिविशिपत्यादिभ्यः क्वन् [?] इति क्वनन्तो विश्वशब्द आद्युदात्तः । टाप्प्रभृतीनां [?] … ऊतिभिः । ऊतियूतीत्यादिना क्तिन् उदात्तः । करताम् । कृञ् करणे । भ्वादिकः । लोट् तस्ताम् । तेसस्ताम् [?] । कर्तरि शप् । गुणो रपरत्वम् । शपः पित्त्वादनुदात्तत्वम् । तिङ्ङश्च लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । सुराधसः । राध साध संसिद्धौ । राध्नोत्यनेनेति राधो धनम् । शोभनं राधो येषां ते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वे प्राप्ते नञ्सुभ्यामिति (पा. ६-२-१७२) उत्तरपदान्तोदात्तत्वं प्राप्तम् । सोर्मनसी अलोमोषसी (पा. ६-२-१०२ [?]) इत्युत्तरपदाद्युदात्तत्वेन बाध्यते ॥
+*(The numbers are printed पा० ७-३-८८ and ६-२-११७.)*
 
-*ayaṃ varuṇo 'smākaṃ prāvitā bhuvat | prakarṣeṇa rakṣako bhavatu | mitraś ca viśvābhir ūtibhiḥ sarvābhī rakṣābhiḥ prāvitā bhuvat | tāv ubhāv api so 'smān surādhasaḥ prabhūtadhanayuktān karatām | kurutām || avitā | tṛci citvād antodāttatvam | prādisamāse kṛduttarapadaprakṛtisvaratvena tad eva śiṣyate | bhuvat | bhū sattāyām | leṭi tip | leṭo 'ḍāṭāv ity aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | bahulaṃ chandasīti śapo luk | guṇe prāpte bhūsuvos tiṅi (pā. 7-3-88) iti pratiṣedhaḥ | uvaṅādeśaḥ | tiṅ atiṅa iti nighātaḥ | viśvābhiḥ | aśūpruṣiliṭikaṇikhaṭiviśipatyādibhyaḥ kvan [?] iti kvananto viśvaśabda ādyudāttaḥ | ṭāppra… | ūtibhiḥ | ūtiyūtī ity ādinā ktin udāttaḥ | karatām | kṛñ karaṇe | bhvādikaḥ | loṭ tastām | karttari śap | guṇo raparatvam | śapaḥ pittvād anudāttatvam | tiṅ ṅaś ca lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | surādhasaḥ | rādha sādha saṃsiddhau | rādhnoty aneneti rādho dhanam | śobhanaṃ rādho yeṣāṃ te | bahuvrīhau pūrvapadaprakṛtisvaratve prāpte nañsubhyām iti (pā. 6-2-172) uttarapadāntodāttatvaṃ prāptam | sormanasī alomoṣasī (pā. 6-2-102 [?]) ity uttarapadādyudāttatvena bādhyate ||*
+> अयं वरुणोऽस्माकं प्राविता भुवत् । प्रकर्षेण रक्षको भवतु । मित्रश्च विश्वाभिरूतिभिः सर्वाभी रक्षाभिः प्राविता भुवत् । तावुभावपि नोऽस्मान्सुराधसः प्रभूतधनयुक्तान्करतां । कुरुतां ॥ अविता । तृचश्चित्त्वादन्तोदात्तत्वं । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते । भुवत् । भू सत्तायां । लेटस्तिप् । लेटोऽडाटावित्यडागमः । इतश्च लोप इतीकारलोपः । बहुलं छन्दसीति शपो लुक् । गुणे प्राप्ते भूसुवोस्तिङि । पा० ७-३-८८ । इति प्रतिषेधः । उवङादेशः । तिङ्ङतिङ इति निघातः । विश्वाभिः । अशिप्रुषीत्यादिना क्वन्नन्तो विश्वशब्द आद्युदात्तः । टाप्सुपोरनुदात्तत्वात्तदेव शिष्यते । ऊतिभिः । ऊतियूतीत्यादिना क्तिन्नुदात्तः । करतां । कृञ् करणे । भौवादिकः । लोटस्तस् । तसस्तां । कर्तरि शप् । गुणो रपरत्वं । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । सुराधसः । राध साध संसिद्धौ । राध्नोत्यनेनेति राधो धनं । शोभनं राधो येषां ते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वे प्राप्ते नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं प्राप्तं सोर्मनसी अलोमोषसी । पा० ६-२-११७ । इत्युत्तरपदाद्युदात्तत्वेन बाध्यते ॥
+>
+> *ayaṃ varuṇo 'smākaṃ prāvitā bhuvat | prakarṣeṇa rakṣako bhavatu | mitraśca viśvābhirūtibhiḥ sarvābhī rakṣābhiḥ prāvitā bhuvat | tāvubhāvapi no 'smānsurādhasaḥ prabhūtadhanayuktānkaratāṃ | kurutāṃ || avitā | tṛcaścittvādantodāttatvaṃ | prādisamāse kṛduttarapadaprakṛtisvaratvena tadeva śiṣyate | bhuvat | bhū sattāyāṃ | leṭastip | leṭo 'ḍāṭāvityaḍāgamaḥ | itaśca lopa itīkāralopaḥ | bahulaṃ chandasīti śapo luk | guṇe prāpte bhūsuvostiṅi | pā0 7-3-88 | iti pratiṣedhaḥ | uvaṅādeśaḥ | tiṅṅatiṅa iti nighātaḥ | viśvābhiḥ | aśipruṣītyādinā kvannanto viśvaśabda ādyudāttaḥ | ṭāpsuporanudāttatvāttadeva śiṣyate | ūtibhiḥ | ūtiyūtītyādinā ktinnudāttaḥ | karatāṃ | kṛñ karaṇe | bhauvādikaḥ | loṭastas | tasastāṃ | kartari śap | guṇo raparatvaṃ | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | surādhasaḥ | rādha sādha saṃsiddhau | rādhnotyaneneti rādho dhanaṃ | śobhanaṃ rādho yeṣāṃ te | bahuvrīhau pūrvapadaprakṛtisvaratve prāpte nañsubhyāmityuttarapadāntodāttatvaṃ prāptaṃ sormanasī alomoṣasī | pā0 6-2-117 | ityuttarapadādyudāttatvena bādhyate ||*
 
-**Translation:** "May this Varuṇa be our *pravitā* — chief protector. And may Mitra be [our protector] with all (*viśvābhiḥ*) his *ūtis* — all his protections. May both of them make us *surādhasaḥ* — possessed of abundant wealth. *Avitā*: a *tṛc* form with *cit* accent … *Bhuvat*: *bhū sattāyām*, in the *leṭ*, *tip*, with the *aṭ* augment by P. 3-4-94 *leṭo 'ḍāṭau*; loss of the *i* by P. 3-4-97 *itaś ca lopaḥ parasmaipadeṣu*; *śap* lost by *bahulaṃ chandasi*; guṇa prohibited by P. 7-3-88 *bhūsuvos tiṅi*; *uvaṅ*; accent lowered by *tiṅ atiṅaḥ*. *Viśvābhiḥ*: *viśva* in *kvan*-form [the sūtra read doubtfully], first-syllable acute. *Ūtibhiḥ*: *ktin*, acute. *Karatām*: *kṛñ karaṇe*, class 1; *loṭ*, *tām*; *śap*; guṇa and *raparatva*; the accent of the root remains. *Surādhasaḥ*: *rādha sādha saṃsiddhau*; *rādhas* = wealth; 'those who have good wealth'; the *bahuvrīhi* would take the accent of its first member, the final-acute by P. 6-2-172 *nañsubhyām* is also possible, but P. 6-2-102 *sormanasī alomoṣasī* (excepting *loman* and *uṣas*) gives the acute on the first syllable of the second member." *(Grammar pages 163–166, noted briefly: the words treated are* prāvitā *[*av rakṣaṇe* + *tṛc* by P. 3-1-133 *ṇvul-tṛcau*; *iṭ* by P. 7-2-35 *ārdhadhātukasyeḍ valādeḥ*; compound with* pra *by P. 2-2-18 *kugatiprādayaḥ*; accent],* bhuvat *[*leṭ*, the augment* aṭ*, the lost* i*, *śap*'s luk, the *uvaṅ* by P. 6-4-88 *bhuvo vuk luṅliṭoḥ*… and P. 6-4-88/6-4-77; a long argument concerning the *aṅga* of *śnu*/*bhrū*, the prohibition of guṇa by P. 7-3-88 *bhūsuvos tiṅi* and the *sārvadhātuka* guṇa rules P. 7-3-84 *sārvadhātukārdhadhātukayoḥ*, scholastic and not reproduced],* viśvābhiḥ *[*viś praveśane* + *kvan*; the case-ending accent with *ṭāp*],* ūtibhiḥ,* karatām *[*kṛñ* + *loṭ* + *tām*; *tas-thas-thamipāṃ tāṃtaṃtāmaḥ* P. 3-4-101],* surādhasaḥ *[*rādha* + *asun*, Uṇ. 4-[?]; accent]; numerals as read, pointers only.)*
+**Translation:** "May this Varuṇa *bhuvat*, be, *prāvitā*, our protector in an eminent way. And may Mitra *bhuvat*, be, the protector *viśvābhir ūtibhiḥ*, with all protections. May both of them *karatām*, make, *naḥ*, us, *surādhasaḥ*, possessed of abundant wealth." (Grammatical tail: *avitā*, final udātta as *tṛc* is *cit*, which alone remains in the *prādi* compound by the *kṛt* final member's accent; *bhuvat*, *bhū sattāyām*, *tip* for *leṭ*, the augment *aṭ* by *leṭo 'ḍāṭau*, *i* dropped by *itaś ca lopaḥ…*, *śap* dropped by *bahulaṃ chandasi*; the *guṇa* due is barred by *bhūsuvos tiṅi* (Pā. 7-3-88); the substitute *uvaṅ*; loss of accent by *tiṅṅatiṅaḥ*; *viśvābhiḥ*, *viśva*, ending in *kvan* by *aśipruṣi…*, initially udātta, which alone remains as *ṭāp* and the *sup* are unaccented; *ūtibhiḥ*, the *ktin* udātta by *ūtiyūti…*; *karatām*, *kṛñ karaṇe* of the *bhvādi* class, *tas* for *loṭ*, *tām* for *tas*, *śap* by *kartari śap*, *guṇa* followed by *r*; *śap* unaccented as *pit*, and the *tiṅ* too by the *lasārvadhātuka* accent, so the root accent remains; *surādhasaḥ*, *rādha sādha saṃsiddhau*, 'by it one accomplishes': *rādhaḥ*, wealth; 'whose wealth is fine'; the bahuvrīhi first-member accent being due, the final udātta of the last member by *nañsubhyām* is due, and that is overridden by the last member's initial udātta by *sor manasī alomoṣasī* (Pā. 6-2-117).)
 
-**॥ Prati-padārthaḥ ॥** **वरुणः (varuṇaḥ)** — Varuṇa | **प्राविता (prāvitā)** — [our] chief protector | **भुवत् (bhuvat)** — may he be | **मित्रः (mitraḥ)** — Mitra | **विश्वाभिः (viśvābhiḥ)** — with all | **ऊतिभिः (ūtibhiḥ)** — with protections | **नः (naḥ)** — us | **सुराधसः (surādhasaḥ)** — endowed especially with wealth | **करताम् (karatām)** — may [Mitra and Varuṇa] make.
+### Page 163 — Rik 6: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** May Varuṇa be our chief protector, and may Mitra also give all his protections, and may both these, Mitra and Varuṇa, make us rich — give us abundant wealth.
+**॥ Prati-padārthaḥ ॥**
+
+**वरुणः (varuṇaḥ)** — Varuṇa (our) | **प्राविता (prāvitā)** — as chief protector | **भुवत् (bhuvat)** — may he be | **मित्रः (mitraḥ)** — Mitra | **विश्वाभिः (viśvābhiḥ)** — with all | **ऊतिभिः (ūtibhiḥ)** — protections (may he be our protector) | (these Mitra and Varuṇa) **नः (naḥ)** — us | **सुराधसः (surādhasaḥ)** — especially possessed of wealth | **करतां (karatāṃ)** — may they make.
+
+**॥ Bhāvārthaḥ ॥**
+
+May Varuṇa be our chief protector; may Mitra too protect us, giving all his protections. And may both these, Mitra and Varuṇa, make us possessed of wealth, that is, give us much wealth.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > May Varuna be our special protector; may Mitra protect us with all kinds of protections; may they make us possessors of great riches.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 163)* **विश्वाभिः ऊतिभिः** — with protections of many kinds. 'Many' here means: protections such as food and drink, dwelling-places, and the removal of fear arising from enemies.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**विश्वाभिः ऊतिभिः (viśvābhiḥ ūtibhiḥ)** — with protections of many kinds. Here 'of many kinds' means protections such as food and the like, a place to live, and warding off the fear that comes from enemies: this is the intention.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**प्राविता (prāvitā)** — the root *ava rakṣaṇe*; by *ṇvultṛcau* (Pā. Sū. 3-1-133) *tṛc*; by *ārdhadhātukasyeḍ valādeḥ* (Pā. Sū. 7-2-35) the augment *iṭ*: *avitṛ*. By *kugatiprādayaḥ* (Pā. Sū. 2-2-18) the *prādi* compound with the word *pra*. *Tṛc* is *cit*, so by *citaḥ* (Pā. Sū. 6-1-163) *avitṛ* is final udātta; after compounding too, by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the same accent stays. After *prāvitṛ*,
+
+### Page 164 — Rik 6: grammar (continued)
+
+the suffix *su*; by *ṛduśanaspurudaṃso 'nehasāṃ ca* (Pā. Sū. 7-1-94) the substitute *anaṅ*; by *aptṛntṛc…* (Pā. Sū. 6-4-11) lengthening; by *halṅyābbhyo dīrghāt…* (Pā. Sū. 6-1-68) *su* is dropped; by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-2-7) the *n* [printed "the *s*"] is dropped.
+
+**भुवत् (bhuvat)** — the root *bhū sattāyām*; after it, by *liṅarthe leṭ* (Pā. Sū. 3-4-7), *leṭ*; for it the substitute *tip*: *bhū* + *ti*. By *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94) — *leṭ* takes the augments *aṭ*, *āṭ* — the augment *aṭ*: *bhū* + *a* + *ti*. By *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-97) — the *i* of a suffix in the *parasmaipada* is dropped — the *i* is dropped: *bhū* + *at*; for the *vikaraṇa* *śap*, by *bahulaṃ chandasi* (Pā. Sū. 2-4-73), *luk*. By *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) — when a *sārvadhātuka* suffix (that is, a *tiṅ* suffix and a suffix marked *ś*) or an *ārdhadhātuka* (the name of the suffixes laid down under the root heading other than these) follows, a word ending in *i*, *u*, *ṛ*, *ḷ* takes *guṇa* — the *guṇa* *o* for the *ū* in *bhū* would be due; but by *bhūsuvos tiṅi* (Pā. Sū. 7-3-88) — when a *tiṅ* suffix named *sārvadhātuka* follows, *bhū* and *sū* do not take *guṇa* — the prohibition comes, so *guṇa* does not come. *Aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* (Pā. Sū. 6-4-77): the word division is *aci*, *śnudhātubhruvām*, *yvoḥ*, *iyaṅuvaṅau*; *iś ca uś ca = yū, tayoḥ yvoḥ*: 'of *i* and *u*'. *Yvoḥ* is a qualifier of *dhātoḥ*; by *yena vidhis tadantasya* (Pā. Sū. 1-1-72) 'ending in it' is obtained: roots ending in *i* and *u*. *Śnu* and *bhrū* both always end in *u*, never in *i*; so, there being no possibility and no exclusion (no fitness for excluding others), *yvoḥ* is not a qualifier of *śnu*, *bhrū*. The maxim *saṃbhavavyabhicārābhyāṃ syād viśeṣaṇam arthavat* must be stated here. The fourth *pāda* of the sixth *adhyāya* and the four *pādas* of the seventh *adhyāya*, these five *pādas* of the Aṣṭādhyāyī, are under the *aṅga* heading; this too being under the *aṅga* heading, *aṅgasya* (Pā. Sū. 6-4-1) is the heading. By the maxim *yaṃ vinā…*, *pratyaye* is implied; it is changed to the seventh case; *aci*, being its qualifier, gives the 'beginning with it'; *śnudhātubhruvām* being a qualifier of *aṅgasya*, by *yena vidhis tadantasya* (Pā. Sū. 1-1-72) 'ending in it' is obtained. So the sense of the sūtra: a stem ending in the suffix *śnu*, a stem ending in roots ending in *i*, *u*, and a stem ending in the word *bhrū* take the substitutes *iyaṅ*, *uvaṅ* when a vowel-initial suffix follows. So for *i*, *iyaṅ*,
+
+### Page 165 — Rik 6: grammar (continued)
+
+and for *u*, *uvaṅ*. Short and long *i*, *u* are both taken. In *bhū* + *at*, when *uvaṅ* comes for the *ū*: *bhuv* + *at* = *bhuvat*. By *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) it is wholly unaccented.
+
+**विश्वाभिः (viśvābhiḥ)** — the root *viśa praveśane*; by *aśūpruṣilaṭikaṇikhaṭiviśibhyaḥ kvan* (U. Sū. 1-149) the suffix *kvan*; *viśva* is initially udātta by the *nit* accent. After it, when the feminine is intended, by *ajādyataṣ ṭāp* (Pā. Sū. 4-1-4) *ṭāp*; the instrumental plural *bhis*; *ṭāp* and *bhis* are both unaccented by *anudāttau suppitau* (Pā. Sū. 3-1-4); so in *viśvābhiḥ* the initial udātta alone stays.
+
+**ऊतिभिः (ūtibhiḥ)** — by *ūtiyūtijūtisātihetibhyaś ca* [as printed] (Pā. Sū. 3-3-97) the udātta *ktin* comes.
+
+**करताम् (karatām)** — the root *ḍukṛñ karaṇe*, here in the *bhvādi* (first) class; *loṭ*. For it by *tiptasjhi…* (Pā. Sū. 3-4-78) *tas*: *kṛ* + *tas*; by *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap*; by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa* for the *ṛ*; it comes followed by *r* by *uraṇ raparaḥ* (Pā. Sū. 1-1-51), that is *ar*: *kar* + *a* + *tas*; by *loṭo laṅvat* (Pā. Sū. 3-4-85) treated like *laṅ*; by *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) the substitute *tām*. *Śap* being *pit*, it is unaccented; the following *tiṅ* *tām*, by *tāsy anudāttenṅid adupadeśāl lasārvadhātukam anudāttam ahnviṅoḥ* (Pā. Sū. 6-1-186), is unaccented. The root accent alone remains.
+
+**सुराधसः (surādhasaḥ)** — the root *rādha sādha saṃsiddhau*. *Rādhnoti anena*: 'by this one attains accomplishment': *rādhaḥ*, meaning wealth. *Śobhanaṃ rādhaḥ yeṣāṃ te*, 'those who have fine wealth': by *anekam anyapadārthe* (Pā. Sū. 2-2-24) the bahuvrīhi compound. By *sarvadhātubhyo 'sun* (U. Sū. 4-628 [?], as read) the word *rādhas*, ending in the suffix *asun*, is initially udātta by the *nit* accent. After the bahuvrīhi compound, by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member's own accent would be due; overriding it, by *nañsubhyām* (Pā. Sū. 6-2-172) — in a bahuvrīhi compound the last member after *nañ* and *su* is final udātta — the final udātta would be due. Overriding this too, by *sor manasī alomoṣasī* (Pā. Sū. 6-2-117) — words ending in *man* and words ending in *as*, other than the two words *loman* and *uṣas*, after the word *su*,
+
+### Page 166 (upper) — Rik 6: grammar (end)
+
+are initially udātta (*man*: what ends in it is *mannanta*; *as*: what ends in it is *asanta*) — so the last member has the initial udātta accent. ॥6॥
 
 ---
 
