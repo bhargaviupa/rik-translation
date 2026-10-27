@@ -6150,19 +6150,19 @@ Whether we need a little wealth or much, for obtaining that wealth we invoke Ind
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे सत्रादावन् अस्मदभीष्टानां सर्वेषां फलानां सह प्रदातः । अतो व्रीह्यादिनिष्पत्त्यर्थं हे वृषन् वृष्टिप्रदेन्द्र नो ऽस्मदर्थममुं दृश्यमानं चरुं मेघमपा वृधि । उद्घाटय । तथैवास्मभ्यमस्मदर्थमप्रतिष्कुतः । प्रतिशब्दरहितः । यद्यस्माभिर्याच्यते तत्र सर्वत्र नेति प्रतिशब्दं नोच्चारयसि । अतो ऽस्मद्विषये कदाचिदप्यप्रतिस्खलितः । एतदेवाभिप्रेत्य यास्क आह । अप्रतिष्कुतो ऽप्रतिष्कृतो ऽप्रतिस्खलितो वा । नि. २-१६ । इति ॥
+> हे सत्रादावन् अस्मदभीष्टानां सर्वेषां फलानां सह प्रदातः । अतो व्रीह्यादिनिष्पत्त्यर्थं हे वृषन् वृष्टिप्रदेन्द्र नो ऽस्मदर्थममुं दृश्यमानं चरुं मेघमपा वृधि । उद्घाटय । तथैवास्मभ्यमस्मदर्थमप्रतिष्कुतः । प्रतिशब्दरहितः । यद्यस्माभिर्याच्यते तत्र सर्वत्र नेति प्रतिशब्दं नोच्चारयसि । अतो ऽस्मद्विषये कदाचिदप्यप्रतिस्खलितः । एतदेवाभिप्रेत्य यास्क आह । अप्रतिष्कुतो ऽप्रतिष्कृतो ऽप्रतिस्खलितो वा । नि. ६-१६ । इति ॥
 >
-> *he satrādāvan asmad-abhīṣṭānāṃ sarveṣāṃ phalānāṃ saha pradātaḥ | ato vrīhy-ādi-niṣpatty-arthaṃ he vṛṣan vṛṣṭi-pradendra no 'smad-artham amuṃ dṛśyamānaṃ caruṃ megham apā vṛdhi | udghāṭaya | tathaivāsmabhyam asmad-artham apratiṣkutaḥ | prati-śabda-rahitaḥ | yad yasmābhir yācyate tatra sarvatra neti prati-śabdaṃ noccārayasi | ato 'smad-viṣaye kadācid apy apratiskhalitaḥ | etad evābhipretya yāska āha | apratiṣkuto 'pratiṣkṛto 'pratiskhalito vā | ni. 2-16 | iti ||*
+> *he satrādāvan asmad-abhīṣṭānāṃ sarveṣāṃ phalānāṃ saha pradātaḥ | ato vrīhy-ādi-niṣpatty-arthaṃ he vṛṣan vṛṣṭi-pradendra no 'smad-artham amuṃ dṛśyamānaṃ caruṃ megham apā vṛdhi | udghāṭaya | tathaivāsmabhyam asmad-artham apratiṣkutaḥ | prati-śabda-rahitaḥ | yad yasmābhir yācyate tatra sarvatra neti prati-śabdaṃ noccārayasi | ato 'smad-viṣaye kadācid apy apratiskhalitaḥ | etad evābhipretya yāska āha | apratiṣkuto 'pratiṣkṛto 'pratiskhalito vā | ni. 6-16 | iti ||*
 
-**Translation:** "O *Satrādāvan*, together-giver of all the fruits we desire! Therefore, for the growing of rice, barley and the like, O *Vṛṣan* — O Indra, giver of rain — **open** (*apā vṛdhi*) for our sake **this cloud** (*caruṃ*) that is seen — unclose it. And likewise be *apratiṣkuta* toward us, for our sake: without a *prati-śabda* (a counter-word); that is, in whatever is asked of us you never utter a 'no'; hence in our matter you are at no time obstructed. With just this in mind, Yāska says: '*apratiṣkuta* is *apratiṣkṛta*, or *apratiskhalita*' (Nirukta 2-16)."
+**Translation:** "O *Satrādāvan*, together-giver of all the fruits we desire! Therefore, for the growing of rice, barley and the like, O *Vṛṣan* — O Indra, giver of rain — **open** (*apā vṛdhi*) for our sake **this cloud** (*caruṃ*) that is seen — unclose it. And likewise be *apratiṣkuta* toward us, for our sake: without a *prati-śabda* (a counter-word); that is, in whatever is asked of us you never utter a 'no'; hence in our matter you are at no time obstructed. With just this in mind, Yāska says: '*apratiṣkuta* is *apratiṣkṛta*, or *apratiskhalita*' (Nirukta 6-16)."
 
-*(The remainder of the Sanskrit on p. 280 — the grammar of* वृषन्*,* अमुम्*,* चरुम्*,* सत्रादावन्*,* अप*,* वृधि*,* अस्मभ्यम्*,* अप्रतिष्कुतः *— is characterized with the Kannada Vyākaraṇa-prakriyā below; not transcribed.)*
+**Grammar of the Bhāṣya (p. 280; characterized, references as printed):** "Vṛṣan" — vocative nighāta. "Amum" — end-acute by the stem accent. "Carum" — "caratīti caruḥ": **भृमृशीतृचरित्सरितनिधनिमिमस्जिभ्य उः** (उ. १-७) "u"; end-acute by the affix accent. "Satrādāvan" — "satrā" in the sense "together"; "abhimata-phala-jātaṃ sakalaṃ saha dadātīti satrādāvā"; **आतो मनिन्क्वनिब्वनिपश्च** (पा. ३-२-७४) "vanip"; vocative first-syllable acute by "āmantritasya ca"; being pāda-initial, no nighāta. "Apa" — **निपातस्य च** (पा. ६-३-१३६) lengthening; first-syllable acute as a particle. "Vṛdhi" — "vṛñ varaṇe," "loṭ," "sip," "hi" by **सेर्ह्यपिच्च** (पा. ३-४-८७); **स्वादिभ्यः श्नुः** (पा. ३-१-७३) "śnu," elided by "bahulaṃ chandasi"; **श्रुशृणुपृकृवृभ्यश्छन्दसि** (पा. ६-४-१०२) "dhi" for "hi"; "ṅit," so no guṇa of the preceding vowel; nighāta. "Asmabhyam" — **भ्यसो भ्यम्** (पा. ७-१-३०); **शेषे लोपः** (पा. ७-२-९०) loss of "d"; **बहुवचने झल्येत्** (पा. ७-३-१०३) does not apply, by "aṅgavṛtte punarvṛttāv avidhir niṣṭhitasya" (म. ७-१-३०); the "a" acute by the stem accent; on the view that "bhyam" replaces "bhyas," the "ad" of "asmad" up to "ma" is lost by "śeṣe lopaḥ," and by the accent of the removed acute (**…उदात्तनिवृत्तिस्वर…**, पा. ६-१-१६१) the "a" of "bhyam" is acute. "Apratiṣkutaḥ" — "kenacid apratiśabditaḥ": "kuṅ śabde," niṣṭhā "kta" in the passive (पा. ३-२-१०२); after "prati" the augment "suṭ" by the "pāraskarādi" class, an ākṛtigaṇa (पा. ६-१-१५७); "ṣ" by the "suṣāmādi" class, an ākṛtigaṇa (पा. ८-३-९८); in the nañ-compound the indeclinable first member keeps its accent.
 
 ### Page 280 — Rik 6 continued
 
 **॥ Prati-padārthaḥ ॥**
 
-**सत्रादावन् (satrādāvan)** — O giver of all our desired things! (for that very reason) | **वृषन् (vṛṣan)** — O Indra, giver of rain! | **सः (त्वम्) (saḥ [tvam])** — such as you are | **नः (naḥ)** — for us | **अमुम् (amum)** — this, which is visible to our eyes | **चरुम् (carum)** — the cloud | **अपा वृधि (apā vṛdhi)** — cause it to rain | (for you) **अस्मभ्यम् (asmabhyam)** — for us, or in our regard | **अप्रतिष्कुतः (apratiṣkutaḥ)** — have never turned away [from us].
+**सत्रादावन् (satrādāvan)** — O giver of all our desired things! (for that very reason) | **वृषन् (vṛṣan)** — O Indra, giver of rain! | **सः (त्वम्) (saḥ [tvam])** — such as you are | **नः (naḥ)** — for us | **अमुम् (amum)** — this, which is visible to our eyes | **चरुम् (carum)** — the cloud | **अपा वृधि (apā vṛdhi)** — cause it to rain | (because you) **अस्मभ्यम् (asmabhyam)** — for us, or in our regard | **अप्रतिष्कुतः (apratiṣkutaḥ)** — have not turned away.
 
 **॥ Bhāvārthaḥ ॥**
 
@@ -6176,9 +6176,9 @@ O Indra! You are the one who fulfils all our desires. For that very reason, make
 
 ### Page 281
 
-**"Carum"** — **अन्तरिक्षे चरतीति चरुः** (*antarikṣe caratīti caruḥ*) — "that which moves in the atmosphere is *caru*": the cloud is called *caru* because it travels in the sky. Among the thirty names for 'cloud', beginning with *adriḥ*, the word *caruḥ* is listed (Nighaṇṭu 1-10 [?]).
+**"Carum"** — **अन्तरिक्षे चरतीति चरुः** (*antarikṣe caratīti caruḥ*) — "that which moves in the atmosphere is *caru*": the cloud is called *caru* because it travels in the sky. Among the thirty names for 'cloud', beginning with *adriḥ*, the word *caruḥ* is listed (Ni. 2-21 [?], the first digit unclear).
 
-**"Satrādāvan"** — the Bhāṣyakāra explains *satrā* as "together" (*saha*); thus "one who gives everything together." In the Nirukta, however, *satrā* is read among the six words for "truth" beginning with *bāṭ* (Nirukta 3-11 [?]). Therefore *satrādāvan* may also be understood as "one who *truly* gives (what we desire)."
+**"Satrādāvan"** — the Bhāṣyakāra explains *satrā* as "together" (*saha*); thus "one who gives everything together." In the Nirukta, however, *satrā* is read among the six words for "truth" beginning with *bāṭ* (Ni. 3-10). Therefore *satrādāvan* may also be understood as "one who *truly* gives (what we desire)."
 
 **"Apa"** — for the convenience of the meter, the *p-a* of this word is lengthened in the Saṃhitā-pāṭha *(i.e., the Saṃhitā reads* apā*)*.
 
@@ -6186,15 +6186,15 @@ O Indra! You are the one who fulfils all our desires. For that very reason, make
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pp. 281–283. Characterized, not transcribed (Convention 5). Points of substance:)*
+*(Pp. 281–283. Characterized; numbers as printed.)*
 
-- **वृषन् (*vṛṣan*)** — a vocative, hence unaccented (anudātta) by "āmantritasya ca" (Pā. 8-1-19 [?]).
+- **वृषन् (*vṛṣan*)** — a vocative, hence unaccented (anudātta) by "āmantritasya ca" (पा. सू. ८-१-१९).
 - **अमुम् (*amum*)** — the demonstrative *adas* in the accusative singular; final-udātta by its base (*prātipadika*) accent.
-- **चरुम् (*carum*)** — *carati iti caruḥ*; from root *car* ("to move; to eat") with the Uṇādi *u* suffix (Uṇ. 1-[?]); final-udātta by the suffix; accusative singular *carum*.
+- **चरुम् (*carum*)** — *carati iti caruḥ*; from root *car* ("to move; to eat") with the Uṇādi *u* suffix by **भृमृशीतृचरित्सरितनिधनिमिमस्जिभ्य उः** (उ. सू. १-७; the roots glossed one by one); final-udātta by the suffix; accusative singular *carum*.
 - **सत्रादावन् (*satrādāvan*)** — *satrā* ("together"), *dā* ("to give"), with *vanip* (Pā. 3-2-74); as the word begins the second pāda, the Aṣṭamādhyāyī rule that unaccents a vocative does not apply, and it is initial-udātta by "āmantritasya ca" (Pā. 6-1-198).
-- **अप (*apa*)** — a nipāta (particle), initial-udātta (Phiṭ-sūtra "80" [?]); lengthened in the mantra (Pā. 6-3-137 [?]) to *apā*.
-- **वृधि (*vṛdhi*)** — from *vṛñ varaṇe* ("to cover/choose"), i.e. *apa-vṛṇu* "uncover"; *loṭ*, second-person singular *sip*; *hi* in place of the ending; the *śnu* inserted by "svādibhyaḥ śnuḥ" (Pā. 3-1-73) and dropped by Vedic *bahulaṃ chandasi*; *hi* → *dhi* after *śru, śṛṇu, pṛ, kṛ, vṛ* (Pā. 6-4-102); *ṅit* so no *guṇa*; unaccented (Pā. 8-1-28).
-- **अस्मभ्यम् (*asmabhyam*)** — *asmad* + *bhyas*, replaced by *bhyam* (Pā. 7-1-30); the "eight-fold" replacement is discussed at length; the end-letters of *asmad* drop (Pā. 7-2-90), with the vowel *a* lengthened/retained; the accent resolved by the rules on *ekādeśa* and *anudātta-lopa*. Characterized: the source is demonstrating that *asma* + *bhyam* is the correct analysis and answering an alternative (*asmad + abhyam*).
+- **अप (*apa*)** — a nipāta (particle), initial-udātta (फि. सू. ८०); lengthened in the mantra by **निपातस्य च** (पा. सू. ६-३-१३६) to *apā*.
+- **वृधि (*vṛdhi*)** — "vṛñ varaṇe," "loṭ," second singular "sip," "hi" by **सेर्ह्यपिच्च** (पा. सू. ३-४-८७); **स्वादिभ्यः श्नुः** (पा. सू. ३-१-७३), whose "śnu" is sometimes elided by "bahula" in **बहुलं छन्दसि** (पा. सू. २-४-७३); **श्रुशृणुपृकृवृभ्यश्छन्दसि** (पा. सू. ६-४-१०२) "dhi" for "hi"; "hi" being "apit" is "ṅit" by **सार्वधातुकमपित्** (पा. सू. १-२-४), so **क्ङिति च** (पा. सू. १-१-५) blocks the guṇa of **सार्वधातुकार्धधातुकयोः** (पा. सू. ७-३-८४); unaccented by **तिङ्ङतिङः** (printed "१८-१-२८," i.e. 8-1-28).
+- **अस्मभ्यम् (*asmabhyam*)** — the dative plural "bhyas" becomes "bhyam" by **भ्यसो भ्यम्** (पा. सू. ७-१-३०); **शेषे लोपः** (पा. सू. ७-२-९०), with "vibhaktau" carried from **अष्टन आ विभक्तौ** (पा. सू. ७-२-८४), drops the final "d" before an ending that conditions neither "ā" nor "y": "asma + bhyam"; **बहुवचने झल्येत्** (पा. सू. ७-३-१०३) would give "e," but by **अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्य** (पा. म. ७-१-३०) once one aṅga-rule ("śeṣe lopaḥ") has applied and the form is settled, another aṅga-rule does not apply; so too no lengthening by **सुपि च** (पा. सू. ७-३-१०२). In "asma," "sma" is acute by **फिषोऽन्त उदात्तः** (फि. सू. १), "bhyam" unaccented by **अनुदात्तौ सुप्पितौ** ("३-१-४") and svarita by "udāttād anudāttasya svaritaḥ," the first "a" unaccented by śeṣanighāta. Or, dividing **भ्यसोऽभ्यम्** (पा. सू. ७-१-३०) as "abhyam": "asmad + abhyam," "śeṣe lopaḥ" drops the "ad" after "ma" (the locative "śeṣe" standing for the substituend): "asm + abhyam," with no "e" or lengthening; since the acute "a" of "asmad" is lost before the unaccented "a," **अनुदात्तस्य च यत्रोदात्तलोपः** (पा. सू. ६-१-१६१) makes that unaccented vowel acute…
 - **अप्रतिष्कुतः (*apratiṣkutaḥ*)** — "not answered back by anyone"; root *ku śabde* + *kta* with *prati* placed before, and the *suṭ* augment (Pā. 6-1-135 [?], "pāraskara-prabhṛtīni ca saṃjñāyām"); *s→ṣ* by "suṣāmādiṣu ca" (Pā. 8-3-98); *naṅ*-compound; accent of the first member by "tatpuruṣe tulyārtha…" (Pā. 6-2-2).
 
 ### Page 282, 283
