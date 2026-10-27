@@ -14985,57 +14985,97 @@ overriding the final udātta that would come, since *dāsībhāra-ādi* is an *�
 
 ---
 
-### Pages 703–707 — Sūkta 16, Rik 9 (last rik of the sūkta)
+### Page 703 (lower) — Sūkta 16, Rik 9 (last ṛk of the sūkta)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सेमं नः कामुमा पृण गोभिरश्वैः शतक्रतो ।
-> स्तवाम त्वा स्वाध्यः ॥९॥
+> सेमं नः॒ काम॒मा पृ॑ण॒ गोभि॒रश्वैः॑ शतक्रतो ।
+> स्तवा॑म त्वा स्वा॒ध्यः॑ ॥९॥
 >
-> *semaṃ naḥ kāmam ā pṛṇa gobhir aśvaiḥ śatakrato |*
-> *stavāma tvā svādhyaḥ ||9||*
-
-*(The print of the first line has* kāmamā*; I give* kāmam ā*, the form the Pada and the bhāṣya both show.)*
+> *semaṃ naḥ kā́mam ā́ pṛṇa góbhir áśvaiḥ śatakrato |*
+> *stávāma tvā svādhyaḥ ||9||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > सः । इमम् । नः । कामम् । आ । पृण । गोभिः । अश्वैः । शतक्रतो इति शतऽक्रतो ॥
 > स्तवाम । त्वा । सुऽआध्यः ॥९॥
 >
-> *saḥ | imam | naḥ | kāmam | ā | pṛṇa | gobhiḥ | aśvaiḥ | śatakrato iti śata-krato ||*
-> *stavāma | tvā | su-ādhyaḥ ||9||*
+> *saḥ | imam | naḥ | kāmam | ā | pṛṇa | gobhiḥ | aśvaiḥ | śatakrato iti śata 'krato ||*
+> *stavāma | tvā | su 'ādhyaḥ ||9||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 703; compressed; [?] marks doubtful readings)*
-
-> हे शतक्रतो स त्वं नोऽस्मदीयमिमं कामं काम्यमानं फलं गोभिरश्वैश्च सहा पृण । सर्वतः पूरय । वयमपि स्वाध्यः सुष्ठु सर्वतो ध्यानयुक्ताः सन्तस्त्वां स्तवाम ॥ सेमम् । संहितायां सोऽचि लोपे चेत्पादपूरणमिति सुलोपः । कामम् । कमेर्णिङ् । कर्मणि घञ् । कृञ्हलश्चेत्यादिना । पा. [३-३-१२१]। इत्यंसोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वम् । पृण । पृण प्रीणने । लोटि सेर्हिः । तुदादिभ्यः शः । तस्य ङित्त्वाद्गुणाभावः । अतो हेरिति हेर्लुक् । गोभिः । साबेकाचेति प्राप्तं विभक्तेरुदात्तत्वं न गोश्वन्साववर्णेति प्रतिषिध्यते । अश्वैः । क्वनन्त इत्युक्तम् । असामर्थ्यान्न पराङ्गवद्भावः । स्तवाम । ष्टुञ् स्तुतौ । धात्वादेः षः सः । लोडुत्तमबहुवचनस्य लोटो लङ्वदिति लङ्वद्भावान्नित्यं ङितः । … आडुत्तमस्य पिच्च । पा. [३-४-९२]। इत्याडागमः । प्रत्ययस्य पित्त्वादसुदात्तत्वम् । धातुस्वर एव । स्वाध्यः । ध्यै चिन्तायाम् । सु आङ् इत्युपसर्गाभ्यां पूर्वभागे प्रयोगः । आदेश उपदेशेऽशितीति [?] ... क्विप् । संप्रसारणम् । स्वाधी । … जसि ॥९॥
+> हे शतक्रतो स त्वं नोऽस्मदीयमिमं कामं काम्यमानं फलं गोभिरश्वैश्च सहा पृण । सर्वतः पूरय । वयमपि स्वाध्यः सुष्ठु सर्वतो ध्यानयुक्ताः सन्तस्त्वां स्तवाम ॥ सेमम् । संहितायां सोऽचि लोपे चेत्पादपूरणमिति सुलोपः । कामम् । कमेर्घञ् । कर्षात्वतो घञोऽन्त उदात्तः । पा. ६-१-१५९ । इत्यन्तोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वम् । पृण । पृण प्रीणने । लोटः सेर्हिः । तुदादिभ्यः शः । तस्य ङित्त्वाद्गुणाभावः । अतो हेरिति हेर्लुक् । गोभिः । सावेकाच इति प्राप्तं विभक्तेरुदात्तत्वं न गोश्वन्साववर्णेति प्रतिषिध्यते । अश्वैः । क्वनन्त इत्युक्तम् । असामर्थ्यान्न पराङ्गवद्भावः । स्तवाम । ष्टुञ् स्तुतौ । धात्वादेः षः सः । लोडुत्तमबहुवचनस्य लोटो लङ्वदिति लङ्वद्भावान्नित्यं ङितः ।
 >
-> *he śatakrato sa tvaṃ no 'smadīyam imaṃ kāmaṃ kāmyamānaṃ phalaṃ gobhir aśvaiś ca sahā pṛṇa | sarvataḥ pūraya | vayam api svādhyaḥ suṣṭhu sarvato dhyāna-yuktāḥ santas tvāṃ stavāma || semam | saṃhitāyāṃ so 'ci lope cet pādapūraṇam iti su-lopaḥ | kāmam | kamer ṇiṅ | karmaṇi ghañ | kṛñ-halaś cety-ādinā | pā. [3-3-121] | ity aṃsodāttatve prāpte vṛṣādiṣu pāṭhād ādyudāttatvam | pṛṇa | pṛṇa prīṇane | loṭi ser hiḥ | tudādibhyaḥ śaḥ | tasya ṅittvād guṇābhāvaḥ | ato her iti her luk | gobhiḥ | sāv ekāca iti prāptaṃ vibhakter udāttatvaṃ na go-śvan-sāv-avarṇeti pratiṣidhyate | aśvaiḥ | kvananta ity uktam | asāmarthyān na parāṅgavad-bhāvaḥ | stavāma | ṣṭuñ stutau | dhātvādeḥ ṣaḥ saḥ | loḍ-uttama-bahuvacanasya loṭo laṅvad iti laṅvad-bhāvān nityaṃ ṅitaḥ | … āḍ uttamasya pic ca | pā. [3-4-92] | ity āḍāgamaḥ | pratyayasya pittvād asudāttatvam | dhātu-svara eva | svādhyaḥ | dhyai cintāyām | su āṅ ity upasargābhyāṃ pūrvabhāge prayogaḥ | … kvip | saṃprasāraṇam | svādhī | … jasi ||9||*
+> *he śatakrato sa tvaṃ no 'smadīyamimaṃ kāmaṃ kāmyamānaṃ phalaṃ gobhiraśvaiśca sahā pṛṇa | sarvataḥ pūraya | vayamapi svādhyaḥ suṣṭhu sarvato dhyānayuktāḥ santastvāṃ stavāma || semam | saṃhitāyāṃ so 'ci lope cetpādapūraṇamiti sulopaḥ | kāmam | kamerghañ | karṣātvato ghaño 'nta udāttaḥ | pā. 6-1-159 | ityantodāttatve prāpte vṛṣādiṣu pāṭhādādyudāttatvam | pṛṇa | pṛṇa prīṇane | loṭaḥ serhiḥ | tudādibhyaḥ śaḥ | tasya ṅittvādguṇābhāvaḥ | ato heriti herluk | gobhiḥ | sāvekāca iti prāptaṃ vibhakterudāttatvaṃ na gośvansāvavarṇeti pratiṣidhyate | aśvaiḥ | kvananta ityuktam | asāmarthyānna parāṅgavadbhāvaḥ | stavāma | ṣṭuñ stutau | dhātvādeḥ ṣaḥ saḥ | loḍuttamabahuvacanasya loṭo laṅvaditi laṅvadbhāvānnityaṃ ṅitaḥ |*
 
-**Translation:** "O Śatakratu [*Indra*, 'of a hundred powers']! Such as you are, fulfil (*ā pṛṇa*, 'fill all round') this our desired object (*kāma*) with cows and horses. We too, being *svādhyaḥ* — well absorbed in meditation on all sides — praise you." The rest is grammar, noted briefly: *semam* (*saḥ* + *imam* with the loss of *su* by P. 6-1-134); *kāmam* (*kam* 'to desire' with *ṇic*/*ghañ* by P. 3-3-121 *halaś ca*, whose accent would fall on the end, but by its inclusion in the *vṛṣādi* list the first syllable is accented); *pṛṇa* (*pṛṇ* 'to please'; *loṭ*, *si* → *hi*; *śa* of the *tudādi* class with no guṇa as it is *ṅit*; *hi* dropped by P. 6-4-105 *ato heḥ*); *gobhiḥ* (the ending would be accented by P. 6-1-168 *sāv ekācas tṛtīyādir vibhaktiḥ* but is barred by P. 6-1-182 *na go-śvan-sāv-avarṇa-rāḍ-aṅkyu-kṣmāy-ātmanām*, here *go*); *aśvaiḥ* (as for *kvan*-words); *stavāma* (*ṣṭuñ* 'to praise', *loṭ* first person plural *mas*; *āṭ* augment by P. 3-4-92 *āḍ uttamasya pic ca*); *svādhyaḥ* (*dhyai* 'to think' with the prefixes *su* and *ā*, *kvip*, *saṃprasāraṇa*, the compound *svādhī* and the nominative plural *jas*). *(Grammar, noted briefly; P. 3-3-121 and P. 3-4-92 as read agree with the standard numbering.)*
+### Page 704 — Rik 9: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 704 lower half–707), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *semam* (*tad* + *su*; *tadoḥ saḥ sāv anantyayoḥ* P. 7-2-106 [as read, 7-2-106] gives *s* for *t*; *tyadādīnām aḥ* P. 7-2-102 *a* for *d*; *ato guṇe* P. 6-1-97 *pararūpa*; the Kannada refers to the explanation at *sīmaṃ naḥ stomam ā gahi* [Rik 5 above; the print gives the earlier reference as "Ṛ. Saṃ. 1-16-5"]; then *saḥ imam* with *so 'ci lope cet pādapūraṇam* P. 6-1-134, guṇa), *kāmam* (*kamu kāntau*, *halaś ca* P. 3-3-121 *ghañ*; *ata upadhāyāḥ* P. 7-2-116 *vṛddhi*; the *ñit* would give the first-syllable accent by P. 6-1-197 *ñnityādir nityam*, which is set aside by P. 6-1-159 *karṣātvato ghaño 'nta udāttaḥ* [roots with *ṛ*… or *kṛṣ*… take end-accent with *ghañ*] and that again by P. 6-1-203 *vṛṣādīnāṃ ca*, since *kāma* is in the *vṛṣādi* list, so first-syllable), *pṛṇa* (*pṛṇ prīṇane* of the *tudādi* class; *loṭ*, *sip*, *serhy apicca* P. 3-4-87; *tudādibhyaḥ śaḥ* P. 3-1-77; *sārvadhātukam apit* P. 1-2-4 makes it *ñit*, so no guṇa by P. 1-1-5; *pugantalaghūpadhasya ca* P. 7-3-86 is then also barred; *ato heḥ* P. 6-4-105 drops *hi*; wholly unaccented by P. 8-1-28; in the Saṃhitā the *ā* before it is *udātta*, so the *pṛ*'s *svarita* arises by P. 8-4-66 and the following *ṇa* is unaccented by P. 1-2-40 *udāttasvaritaparasya sannataraḥ* [as read]), *gobhiḥ* (*sāvekācas tṛtīyādir vibhaktiḥ* P. 6-1-168, barred by P. 6-1-182 — the Kannada gives the full text of the barring sūtra — so *gobhiḥ* is not end-accented: the stem *go* is itself the accent bearer, and in *goṣu* the *go* is monosyllabic and would give the ending its accent; the bar is stated, and the ending is not accented), *aśvaiḥ* (*aśva* from *aś* with *kvan*, Uṇ. 1-[?] *aśūpruṣi…*; first-syllable accent by the *n*-mark; there is the vocative *śatakrato* near it, but the two have no mutual connexion, so by P. 3-1-2 [?] and P. 8-1-74 *supāmantrite parāṅgavat svare* the vocative is not treated as part of the other word), *stavāma* (*ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *loṭ* first-person plural *mas*; *loṭo laṅvat* P. 3-4-85, making the *mas* as if *laṅ*, so *nityaṃ ṅitaḥ* P. 3-4-99 drops the *s*; *āḍ uttamasya pic ca* P. 3-4-92; *śap* P. 3-1-68, its *luk* [here *śap* with guṇa]; *aṃ* from *a* + *ām* [*stu* + *a* + *āma*, lengthening by P. 6-1-101 *akaḥ savarṇe dīrghaḥ*]; the suffix being *pit*, unaccented; the root accent remains by P. 3-1-4 *anudāttau suppitau*), and *svādhyaḥ* (*dhyai cintāyām*; the prefixes *su* and *āṅ* [here the Kannada notes that the prefix *ā* is used before the root in the Veda, with a long discussion of the *upasarga*'s position]; *kvip* is found after roots other than *bhrājanaṃ*-type [P. 3-2-75 *anyebhyo 'pi dṛśyante*]; *saṃprasāraṇa*; *su-ādhī* + *jas* → *svādhī* + *as*; *halaḥ* P. 6-4-2 lengthens the vowel of a stem before a *saṃprasāraṇa*-bearing consonant — so *svādhī*; *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* P. 6-4-77 would give *iy* for the final *ī* but is barred in favour of *yaṇ* P. 6-4-82 *eranekācaḥ…*, since *svādhī* is a stem of several vowels not preceded by a conjunct [the Kannada's argument: the final *ī* of *dhī* is the end of an *aṅga* of more than one vowel, so *yaṇ*], giving *svādhy-as*; *jas* is not accented by P. 6-1-171 *udāttayaṇo halpūrvāt*, because the *yaṇ* here, though preceded by a consonant, is not followed by a *sarvanāmasthāna*-ending in the sense of that sūtra (the Kannada explains that *jas* here is *asarvanāmasthāna*, because P. 1-1-43 *sudṅapuṃsakasya* names only *su, au, jas, am, auṭ* as *sarvanāmasthāna* after a non-neuter — and here, after the *udātta-yaṇ*, the unaccented *jas* gets *svarita* by P. 8-4-66 *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* and P. 3-1-4 *anudāttau suppitau*)). ॥9॥ *(A crowded run of three-and-a-half pages; outline only; numerals as read from small print; pointers only.)*
+*(॥३१॥ closes Varga 31.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 704)*
+> पा. ३-४-९९ । इति सकारस्य लोपः । आडुत्तमस्य पिच्च । पा. ३-४-९२ । इत्याडागमः । प्रत्ययस्य पित्त्वादनुदात्तत्वम् । धातुस्वर एव । स्वाध्यः । ध्यै चिन्तायाम् । स्वाङोरुपसर्गयोः प्राक्प्रयोगः । अन्येभ्योऽपि दृश्यते । पा. ३-२-१७८ । इति क्विप् । दृशिग्रहणस्य विध्यन्तरोपसंग्रहणार्थत्वादत्र संप्रसारणे सति परपूर्वत्वम् । हल इति दीर्घः । जस्येरनेकाचः । पा. ६-४-८२ । इति यणादेशः । गतिकारकोपपदात्कृदिति कृदुत्तरपदप्रकृतिस्वरत्वम् । उदात्तयणो हल्पूर्वादिति जस उदात्तत्वं न भवति तत्रासर्वनामस्थानमित्यनुवृत्तेः । अत उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्येति स्वरितत्वमेव भवति ॥३१॥
+>
+> *pā. 3-4-99 | iti sakārasya lopaḥ | āḍuttamasya picca | pā. 3-4-92 | ityāḍāgamaḥ | pratyayasya pittvādanudāttatvam | dhātusvara eva | svādhyaḥ | dhyai cintāyām | svāṅorupasargayoḥ prākprayogaḥ | anyebhyo 'pi dṛśyate | pā. 3-2-178 | iti kvip | dṛśigrahaṇasya vidhyantaropasaṃgrahaṇārthatvādatra saṃprasāraṇe sati parapūrvatvam | hala iti dīrghaḥ | jasyeranekācaḥ | pā. 6-4-82 | iti yaṇādeśaḥ | gatikārakopapadātkṛditi kṛduttarapadaprakṛtisvaratvam | udāttayaṇo halpūrvāditi jasa udāttatvaṃ na bhavati tatrāsarvanāmasthānamityanuvṛtteḥ | ata udāttasvaritayoryaṇaḥ svarito 'nudāttasyeti svaritatvameva bhavati ||31||*
 
-**हे शतक्रतो (he śatakrato)** — O Indra | **सः त्वम् (saḥ tvam)** — such as you are | **नः (naḥ)** — our | **इमम् (imam)** — this | **कामम् (kāmam)** — desired fruit (the object wished for) | **गोभिः अश्वैः (gobhiḥ aśvaiḥ)** — with cows and horses | **आ पृण (ā pṛṇa)** — fulfil | **(वयम्) ((vayam))** — we | **स्वाध्यः (svādhyaḥ)** — having good power of meditation | **त्वा (tvā)** — you | **स्तवाम (stavāma)** — praise.
+**Translation:** "O Śatakratu, such as you are, *ā pṛṇa*, fill up on all sides, this our *kāma*, the fruit we desire, with cows and horses. We too, *svādhyaḥ*, well and wholly given to meditation, praise you." (Grammatical tail: *semam*, the loss of *su* in the Saṃhitā by *so 'ci lope…*; *kāmam*, *ghañ* after *kam*; final udātta due by Pā. 6-1-159, initial udātta because it is read in the *vṛṣa-ādi*; *pṛṇa*, *pṛṇa prīṇane*, *hi* for *si*, *śa* by *tudādibhyaḥ śaḥ*, no *guṇa* as it is *ṅit*, *hi* dropped by *ato heḥ*; *gobhiḥ*, the case-ending accent due by *sāv ekācaḥ* barred by *na gośvan…*; *aśvaiḥ*, a *kvan* form, as said; for lack of syntactic connection [with *śatakrato*], no *parāṅgavadbhāva*; *stavāma*, *ṣṭuñ stutau*, *s* for *ṣ*, the loss of *s* by *nityaṃ ṅitaḥ* (Pā. 3-4-99) since the *loṭ* is treated as *laṅ*, the augment *āṭ* by Pā. 3-4-92, the root accent; *svādhyaḥ*, *dhyai cintāyām*, *su* and *āṅ* used before it, *kvip* by Pā. 3-2-178, *saṃprasāraṇa* since *dṛśi* takes in other rules, lengthening by *halaḥ*, *yaṇ* by Pā. 6-4-82, the accent of the *kṛt* final member; the *jas* is not udātta by *udāttayaṇo halpūrvāt*, since *asarvanāmasthāna* is carried on there, and becomes svarita by *udāttasvaritayor yaṇaḥ…*.)
+
+**॥ Prati-padārthaḥ ॥**
+
+**हे शतक्रतो (he śatakrato)** — O Indra | **सः त्वम् (saḥ tvam)** — you | **नः (naḥ)** — our | **इमम् (imam)** — this | **कामम् (kāmam)** — desired fruit (the object wished for) | **गोभिः अश्वैः (gobhiḥ aśvaiḥ)** — with cows and horses | **आ पृण (ā pṛṇa)** — fill up | (**वयम् अपि (vayam api)** — we too) | **स्वाध्यः (svādhyaḥ)** — being well given to meditation | **त्वा (tvā)** — you | **स्तवाम (stavāma)** — praise.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! Give us cows, horses and the like, and fulfil our desired objects. We always praise you with a meditative mind.
+O Indra, give us cows, horses and the like and fulfil our desire. We too, always given to meditation, praise you.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Satakratu (Indra) fulfil this our desire by giving us cows and horses. Profoundly meditating we praise you.
+> O Satakratu (Indra) fulfil this our desire by giving us cows and horses. Profoundly meditating we praise yon [sic].
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 704)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**गोभिरश्वैः आपृण (gobhir aśvaiḥ āpṛṇa)** — "fill [us] with cows and horses" — that is, fulfil our desire by giving us cows and horses.
+**Gobhir aśvaiḥ āpṛṇa**: fill with cows and horses; that is, give us cows and horses and fulfil our desire.
 
-**स्वाध्यः (svādhyaḥ)** — *dhyai cintāyām*; *su-ādhyaḥ*: *suṣṭhu sarvato dhyāna-yuktāḥ santaḥ*: "being thoroughly and on all sides devoted to meditation on you [Indra]" — that is, meditating on you well in the mind.
+**Svādhyaḥ**: *dhyai cintāyām*;
 
-**Close of Sūkta 16.** The grammar of Rik 9 ends at the foot of p. 707, followed by an ornament; no large colophon follows, as for Sūktas 14 and 15.
+> सुष्ठु सर्वतो ध्यानयुक्ताः सन्तः ॥
+>
+> *suṣṭhu sarvato dhyānayuktāḥ santaḥ ||*
+
+("Well and wholly given to meditation.") The sense is: meditating well in the mind (on you, Indra).
+
+### Page 705 — Rik 9: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 705–707, noted briefly)*
+
+**सेमम् (*semam*)**: after the word *tad* the nominative singular *su*. By "tadoḥ saḥ sāv anantyayoḥ" (Pā. sū. 7-2-106) *s* comes for a non-final *t* or *d* of the words of the *tyad-ādi* group before *su*: *s* for *t*, *sad* + *s*; by "tyadādīnām aḥ" (Pā. sū. 7-2-102) *a* for the *d*: *sa* + *a* + *s*; by "ato guṇe" (Pā. sū. 6-1-97) the *pararūpa*. These points are to be taken at "semaṃ na stomam ā" (Ṛ. saṃ. 1-16-5) too. *Sas* + *imam*: by "so 'ci lope cet pādapūraṇam" (Pā. sū. 6-1-134) the *s* is dropped; *guṇa*: *semam*. The rest of its explanation is at the mantra *semaṃ na stomam ā*.
+
+**कामम् (*kāmam*)**: the root *kamu kāntau*; after it the suffix *ghañ* by "halaś ca" (Pā. sū. 3-3-121): *kam* + *a*; *vṛddhi* of the penultimate by "ata upadhāyāḥ" (Pā. sū. 7-2-116): *kāma*. *Ghañ* being *ñit*, initial udātta would come by "ñnityādir nityam" (Pā. sū. 6-1-197); overriding it, by "karṣātvato ghaño 'nta udāttaḥ" (Pā. sū. 6-1-159) (after the root *karṣ* and roots having *ā*, the last letter of a word ending in *ghañ* is udātta) final udātta comes. Overriding that too, by "vṛṣādīnāṃ ca" (Pā. sū. 6-1-203) (the first syllable of words read in the *vṛṣa-ādi* group is udātta), *kāma*, read in that group, is initial udātta.
+
+**पृण (*pṛṇa*)**: *pṛṇa prīṇane*, a root of the *tud-ādi* class; after it *loṭ*, 2nd singular *sip*. By "ser hy apic ca" (Pā. sū. 3-4-87) the substitute *hi*; by "tudādibhyaḥ śaḥ" (Pā. sū. 3-1-77) the *vikaraṇa* *śa*: *pṛṇ* + *a* + *hi*. By "sārvadhātukam apit" (Pā. sū. 1-2-4) a *sārvadhātuka* without *p* as *it* counts as *ṅit*, so the suffix *śa* is *ṅit*; so by "kṅiti ca" (Pā. sū. 1-1-5) *guṇa* is barred, and *guṇa* by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86) does not come. By "ato heḥ" (Pā. sū. 6-4-105) *hi* takes *luk*: *pṛṇa*. By "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) it is wholly unaccented. In the Saṃhitā, the *pṛ* after the udātta *ā* becomes svarita by "udāttād anudāttasya svaritaḥ" (Pā. sū. 8-4-66). The unaccented *ṇa* after it, since the udātta *go* follows, takes the *anudātta* tone by "udāttasvaritaparasya sannataraḥ" (Pā. sū. 1-2-40).
+
+**गोभिः (*gobhiḥ*)**: by "sāv ekācas tṛtīyādir vibhaktiḥ" (Pā. sū. 6-1-168), after a word of one vowel the case-endings from the instrumental on are udātta when the locative plural *sup* follows; so in *gobhiḥ*,
+
+### Page 706 — Rik 9: grammar
+
+the base *go* having one vowel, udātta is due for the *bhis* after it. But by "na gośvansāvavarṇarāḍaṅkruṅkṛdbhyaḥ" (Pā. sū. 6-1-182) it is barred that the accent just stated comes for a case-ending or *matup* after *go* and the rest; so the case-ending is not udātta.
+
+**अश्वैः (*aśvaiḥ*)**: *aśva* ends in the suffix *kvan* by "aśūpruṣi…" (Uṇ. sū. 1-149); initial udātta by the *nit* accent. After it stands the vocative *śatakrato*. *Aśvaiḥ* and *śatakrato* have no mutual syntactic connection, so there is no *sāmarthya*. For that reason it is not treated as one word by *parāṅgavadbhāva* through "subāmantrite parāṅgavat svare" (Pā. sū. 2-1-2), and so it does not become wholly unaccented by the eighth-chapter "āmantritasya ca".
+
+**स्तवाम (*stavāma*)**: the root *ṣṭuñ stutau*; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. sū. 6-1-64); *loṭ*, 1st plural *mas*: *stu* + *mas*. By "loṭo laṅvat" (Pā. sū. 3-4-85) it is treated as *laṅ*; so by "nityaṃ ṅitaḥ" (Pā. sū. 3-4-99) the final *s* of the 1st person of a *ṅit* drops. *Śap* by "kartari śap" (Pā. sū. 3-1-68); *luk* for it by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72). By "āḍ uttamasya pic ca" (Pā. sū. 3-4-92) the augment *āṭ* for *ma*: *stu* + *āma*; the *tiṅ* *āma* now begins with a vowel. So the optional augment *īṭ* enjoined by "turustuśamyamaḥ sārvadhātuke" (Pā. sū. 7-3-95) for a consonant-initial *tiṅ* called *sārvadhātuka* after these roots does not come. *Guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84), *o* for *u*, and the substitute *av* by "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78): *stavāma*. The suffix, being *pit*, is unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4); so the root accent stays.
+
+**स्वाध्यः (*svādhyaḥ*)**: the root *dhyai cintāyām*; the preverbs *su* and *āṅ* used before it; *ā* for the final by "ādeca upadeśe 'śiti" (Pā. sū. 6-1-45): *su* + *ā* + *dhyā*; *yaṇ*: *svā* + *dhyā*. By "anyebhyo 'pi dṛśyate" (Pā. sū. 3-2-178) (*kvip* is seen after roots other than *bhrāj* and the rest too) *kvip*, and all of it drops. Here the mention of *dṛśi* in the sūtra serves to take in operations not got from other rules; so in the present case *saṃprasāraṇa* comes: *svādh* + *i* + *a*; by "saṃprasāraṇāc ca" (Pā. sū. 6-1-108) the *pūrvarūpa* for *i* + *a*: *svādhi*. With the dropped suffix *kvi* as the condition, by "yasmāt pratyayavidhis tadādi pratyaye 'ṅgam" (Pā. sū. 1-4-13) (the word beginning with the base after which a suffix is enjoined, and ending before the suffix,
+
+### Page 707 — Rik 9: grammar (end)
+
+is called *aṅga* when that suffix follows) the name *aṅga* applies. So by "halaḥ" (Pā. sū. 6-4-2) (a stem ending in a *saṃprasāraṇa* that follows a consonant belonging to the stem is lengthened) the lengthening: *svādhī*. After it *jas*: *svādhī* + *as*. Now the substitute *iyaṅ*, due by "aci śnudhātu…" (Pā. sū. 6-4-77), is overridden by "er anekāco 'saṃyogapūrvasya" (Pā. sū. 6-4-82) (an *aṅga* of more than one vowel, ending in a root that ends in an *i*-vowel not preceded by a conjunct formed of root letters alone, takes *yaṇ* before a vowel-initial suffix), so *yaṇ* comes. For in *svādhī* the *ī* does not follow a conjunct, still less a conjunct of root letters alone; the root it ends in is *dhī*, the *aṅga* ending in it is *svādhī*, and it has more than one vowel. So *yaṇ* comes, and by the *paribhāṣā* "alo 'ntyasya" (Pā. sū. 1-1-52) for the last letter *ī*: *svādhyas*; *ru* and visarga: *svādhyaḥ*. *Dhī* is final udātta by the root accent; after compounding with the preverbs the accent of the *kṛt* final member stays by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139). The *yaṇ* stands in place of the udātta *ī*, and it is preceded by a consonant. Yet by "udāttayaṇo halpūrvāt" (Pā. sū. 6-1-174) the *jas* ending is not udātta, because into this sūtra "asarvanāmasthānam" is carried on from "añceś chandasy asarvanāmasthānam" (Pā. sū. 6-1-170). So the sense of *udāttayaṇo halpūrvāt* is: after a *yaṇ* that stands in place of an udātta and is preceded by a consonant, a suffix called *nadī* and a case-ending that is not *sarvanāmasthāna* are udātta. The present *jas* is a *sarvanāmasthāna* by "suḍ anapuṃsakasya" (Pā. sū. 1-1-43) (the five suffixes *su*, *au*, *jas*, *am*, *auṭ*, not after a neuter word, are called *sarvanāmasthāna*); it is not *asarvanāmasthāna*. So the udātta accent does not come for the *jas* by *udāttayaṇaḥ*. By "udāttasvaritayor yaṇaḥ svarito 'nudāttasya" (after a *yaṇ* standing in place of an udātta or svarita, an unaccented vowel becomes svarita), the *jas*, unaccented by *anudāttau suppitau*, gets only the svarita tone.
+
+**॥९॥**
+
+*(An ornament closes Sūkta 16 at the foot of p. 707; no colophon is printed.)*
+
+---
 
 ## ॥ ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 17 — *"indrāvaruṇayor aham"* ("The Seventeenth Sūkta")
 
