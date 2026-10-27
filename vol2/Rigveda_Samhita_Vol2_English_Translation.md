@@ -11818,15 +11818,15 @@ it is *nitya*, even though *yatva* had the prior claim, once *ākam* has come "y
 > *ava | sṛja | vanaspate | deva | devebhyaḥ | haviḥ ||*
 > *pra | dātuḥ | astu | cetanam ||11||*
 
+### Page 576 — Rik 11: bhāṣya, word-meanings, overall sense, English, Special Topics
+
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे वनस्पते एतन्नामकाग्ने देव हविर्भुग्भ्यो देवेभ्यो ऽस्मदीयं हविरव सृज । समर्पयेत्यर्थः । प्र दातुर्यजमानस्य चेतनं परलोकविषयं विज्ञानं त्वत्प्रसादादस्तु ॥ वनस्पते । आमन्त्रितनिघातः । देव । पादादित्वान्न निघातः । षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । हविः । इसः प्रत्ययस्वरः । दातुः । ददातेस्तृच् । चित इत्यन्तोदात्तः । जसि ऋत उत् । पा. ६-१-१११ । इत्युत्वम् । एकादेशो रपरत्वं च । राद्ध्वसस्य । पा. ८-२-२४ । इति सलोपः । एकादेशस्वरेणोकार उदात्तः । चेतनम् । चिती संज्ञाने । करणे ल्युट् । योरनादेशः । लघूपधगुणः । लिती इति प्रत्ययात्पूर्वस्योदात्तत्वम् ॥
+> हे वनस्पते एतन्नामकाग्ने देव हविर्भुग्भ्यो देवेभ्यो ऽस्मदीयं हविरव सृज । समर्पयेत्यर्थः । प्र दातुर्यजमानस्य चेतनं परलोकविषयं विज्ञानं त्वत्प्रसादादस्तु ॥ वनस्पते । आमन्त्रितनिघातः । देव । पादादित्वान्न निघातः । षाष्ठिकमामन्त्रिताद्युदात्तत्वं । हविः । इसः प्रत्ययस्वरः । दातुः । ददातेस्तृच् । चित इत्यन्तोदात्तः । जसि ऋत उत् । पा. ६-१-१११ । इत्युत्वं । एकादेशो रपरत्वं च । रात्सस्य । पा. ८-२-२४ । इति सलोपः । एकादेशस्वरेणोकार उदात्तः । चेतनं । चिती संज्ञाने । करणे ल्युट् । योरनादेशः । लघूपधगुणः । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं ॥
 >
-> *he vanaspate etan-nāmakāgne deva havirbhugbhyo devebhyo 'smadīyaṃ havir ava sṛja | samarpayety arthaḥ | pra dātur yajamānasya cetanaṃ paraloka-viṣayaṃ vijñānaṃ tvat-prasādād astu || vanaspate | āmantrita-nighātaḥ | deva | pādāditvān na nighātaḥ | ṣāṣṭhikam āmantritādyudāttatvam | haviḥ | isaḥ pratyaya-svaraḥ | dātuḥ | dadāteṣ tṛc | cita ity antodāttaḥ | jasi ṛta ut | pā. 6-1-111 | ity utvam | ekādeśo raparatvaṃ ca | rāddhvasasya | pā. 8-2-24 | iti salopaḥ | ekādeśa-svareṇokāra udāttaḥ | cetanam | citī saṃjñāne | karaṇe lyuṭ | yor anādeśaḥ | laghūpadha-guṇaḥ | liti iti pratyayāt pūrvasyodāttatvam ||*
+> *he vanaspate etannāmakāgne deva havirbhugbhyo devebhyo 'smadīyaṃ havirava sṛja | samarpayetyarthaḥ | pra dāturyajamānasya cetanaṃ paralokaviṣayaṃ vijñānaṃ tvatprasādādastu || vanaspate | āmantritanighātaḥ | deva | pādāditvānna nighātaḥ | ṣāṣṭhikamāmantritādyudāttatvaṃ | haviḥ | isaḥ pratyayasvaraḥ | dātuḥ | dadātestṛc | cita ityantodāttaḥ | jasi ṛta ut | pā. 6-1-111 | ityutvaṃ | ekādeśo raparatvaṃ ca | rātsasya | pā. 8-2-24 | iti salopaḥ | ekādeśasvareṇokāra udāttaḥ | cetanaṃ | citī saṃjñāne | karaṇe lyuṭ | yoranādeśaḥ | laghūpadhaguṇaḥ | litīti pratyayātpūrvasyodāttatvaṃ ||*
 
-**Translation:** "O *vanaspate* — O Agni bearing this name — O god! *Ava sṛja*: release, i.e., convey, our oblation to the gods who eat oblations. May *pra dātur astu cetanam* — by your favour let there be, for the giver, the sacrificer, *cetanam*, knowledge concerning the world beyond." *(Grammar noted briefly:* vanaspate *is a vocative; *deva* stands at the head of the pāda and is not lowered; *haviḥ* with* isi*;* dātuḥ *— *tṛc* with the genitive ending *ut* by Pā. 6-1-111 [?] and loss of *s* by Pā. 8-2-24 [?]; *cetanam* — root *citī saṃjñāne* with *lyuṭ*, initial-udātta.)*
-
-### Pages 576–577 — Rik 11: word-meanings, overall sense, English, Special Topics
+**Translation:** "O *vanaspate*, Agni of this name, O god, *ava sṛja*: release, that is, deliver, our oblation to the gods who eat oblations. By your favour may there be for the giver, the sacrificer, *cetanam*: knowledge concerning the other world." (Grammatical tail: *vanaspate* lowered as a vocative; *deva* not lowered at the head of a pāda, initial udātta by the *ṣāṣṭhika* rule; *haviḥ* with the accent of the suffix *is*; *dātuḥ* from *dā* with *tṛc*, final udātta (*cit*), *ut* by Pā. 6-1-111, *s* dropped by "rātsasya" (Pā. 8-2-24), the *u* udātta; *cetanam* from *citī saṃjñāne* with *lyuṭ* in the instrumental sense, *guṇa*, udātta before the suffix by "liti".)
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -11834,48 +11834,75 @@ it is *nitya*, even though *yatva* had the prior claim, once *ākam* has come "y
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, named Vanaspati! Convey the oblation we give to the gods, and, by your favour, let the sacrificer who gives the oblation have excellent knowledge.
+O Vanaspati, or Agni named Vanaspati, deliver to the gods the oblation we give, and by your favour may excellent knowledge come to the sacrificer who gives the oblation.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Present, divine Vanaspati, our oblation to the gods, and may true knowledge be the reward of the giver.
+> Present, divine Vanaspati, our oblation to the gods, and may trne [sic] knowledge be the reward of the giver.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Vanaspate"** — Yāska's explanation of the word *vanaspati*:
+**Vanaspate**: Yāska's explanation of the word *vanaspati*:
 
-> वनस्पते इत्येनमाह्वयति । एष हि वनानां पाता वा पालयिता वा । वनं वनोतेः ॥ (नि. ८-३)
-> *vanaspate ity enam āhvayati | eṣa hi vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ || (ni. 8-3)*
-> "*Vanaspate* — it calls upon him; for he is the protector, or the guardian, of woods; *vana* is from *vanoti*."
+> वनस्पत इत्येनमाहैष हि वनानां पाता वा पालयिता वा । वनं वनोतेः ॥
+>
+> *vanaspata ityenamāhaiṣa hi vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ ||*
 
-> कत्कोः वनस्पतिः । यूप इति काठक्यः । अग्निरिति शाकपूणिः ॥ (नि. ८-१८ [?])
-> *[the print reads: "ketuḥ vanaspatiḥ …" ; best reading]* *… yūpa iti kāṭhakyaḥ | agnir iti śākapūṇiḥ ||*
-> "*Vanaspati* — Kāṭhakya says it is the sacrificial post; Śākapūṇi says it is Agni."
+*(Ni. 8-3.)*
 
-That is, Agni is called *vanaspati*, because Agni is the protector or guardian of woods; though Agni is within the tree, he does not burn it, so he is called its protector. Or because the *vana* (wood) is useful for sacrificial materials like the *dāru*, he is so called. *Vanaspati* means "king of trees," a large tree. Kāṭhakya's idea is that *vanaspati* is the trunk of the tree erected to tie the animal at the sacrifice [the *yūpa*]; Śākapūṇi's, that it is Agni.
+> तत्को वनस्पतिः । यूप इति कात्थक्यः । अग्निरिति शाकपूणिः ॥
+>
+> *tatko vanaspatiḥ | yūpa iti kātthakyaḥ | agniriti śākapūṇiḥ ||*
 
-To support Kāṭhakya's view Yāska cites a rik:
+*(Ni. 8-18.)*
+
+### Page 577 — Rik 11: Special Topics (continued) and grammar
+
+That is, Agni himself is called *vanaspati*. For Agni is the protector or guardian of the woods: though Agni is present within the tree he does not burn it, so he is called its guardian. Or, since it serves for wood and other means of the sacrifice, it is called *vana*. *Vanaspati* means king of trees, a large tree. Which deity is *vanaspati*? Kātthakya's view is that it is the wooden post set up to tie the animal at the sacrifice; Śākapūṇi's view is that *vanaspati* is Agni.
+
+To support Kātthakya's view Yāska gives a Ṛk as an example:
 
 > अञ्जन्ति त्वामध्वरे देवयन्तो वनस्पते मधुना दैव्येन ॥
-> *añjanti tvām adhvare devayanto vanaspate madhunā daivyena ||*
-> (Ṛgveda Saṃhitā 3-8-1 [?]; printed "३-८-१")
-> *("They anoint you, O Vanaspati, at the sacrifice, [those] desiring the gods, with divine honey." — my gloss, tentative.)*
+>
+> *añjanti tvāmadhvare devayanto vanaspate madhunā daivyena ||*
 
-— that is: "O Vanaspati (*yūpastambha*), at the sacrifice the priests anoint you with ghee purified by mantras": addressing the sacrificial post to which the animal is tied. In the 3rd, 6th and 11th riks of the same sūkta *vanaspati* is likewise addressed as *yūpastambha*; and it is well known that the post is the deity of that sūkta. In the 11th rik of that sūkta — "*vanaspate śatavalśo viroha sahasravalśā vi vayaṃ ruhema*" — "O Vanaspati, grow with a hundred shoots, with a thousand shoots may we grow" — the sense is applied to the tree of which the post is made. In Ṛgveda 10-? "*vanaspate raśanayā niyūya*" — "O Vanaspati, bind with a rope" — confirms the sense of *yūpastambha* for *vanaspati*. So *vanaspati* means the sacrificial post; the sense "Agni" is indirect.
+*(Ṛ. Saṃ. 3-8-1.)* That is, "O Vanaspati (sacrificial post), at the sacrifice the priests and sacrificer anoint you with ghee purified by mantras": the post to which the animal is tied is addressed. And in the 3rd, 6th and 11th Ṛks of the same sūkta *vanaspati* is addressed as the sacrificial post; besides, it is well known that the post is the deity of that sūkta. In the eleventh Ṛk of that sūkta,
 
-**"Dātuḥ"** — *haviḥ-pradātuḥ yajamānasya*: to the sacrificer who gives the oblation.
+> वनस्पते शतवल्शो वि रोह सहस्रवल्शा वि वयं रुहेम
+>
+> *vanaspate śatavalśo vi roha sahasravalśā vi vayaṃ ruhema*
 
-**"Cetanam"** — *paraloka-viṣayaṃ vijñānam*: the Bhāṣyakāra says it is knowledge about the world beyond; *cetana* means knowledge, discrimination. **Veṅkaṭamādhava** says *dātur yajamānasya prajñāpanaṃ deveṣu priyā nivedita-sya*: "regarding the sacrificer, you must make the gods aware [of what he has offered]."
+that is, "O Vanaspati, grow with hundreds and thousands of shoots (in places)", which fits the tree *vanaspati*. In the Ṛk Ṛ. Saṃ. "10-70-10" [?],
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page 577, noted briefly)*
+> वनस्पते रशनया नियूय
+>
+> *vanaspate raśanayā niyūya*
 
-**वनस्पते (*vanaspate*)** — wholly unaccented by "āmantritasya ca" (Pā. 8-1-19 [?]). **देव (*deva*)** — since it is not at the head of the second pāda, "apādādau" (Pā. 8-1-18 [?]) lowers it; here it stands at the head of the second pāda ("deva devebhyo haviḥ"?), so that prohibition applies; "āmantritasya ca" (Pā. 6-1-198 [?]) gives it initial-udātta. *(Sūtra numbers read from small print; pointers only.)*
+"O Vanaspati, having tied the animal with the rope", confirms the sense "sacrificial post" for the word *vanaspati*. So *vanaspati* means the sacrificial post; "Agni" is an indirect sense.
 
-### Page 578 — Rik 11 grammar closes
+**Dātuḥ**: *हविःप्रदातुः यजमानस्य* (*haviḥpradātuḥ yajamānasya*): of the sacrificer who offers the oblation.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+**Cetanam**: *परलोकविषयं विज्ञानं* (*paralokaviṣayaṃ vijñānaṃ*): the Bhāṣyakāra says it is knowledge concerning the other world. *Cetana* means knowledge, understanding, discrimination. Veṅkaṭamādhava says
 
-**हविः (*haviḥ*)** — root *hu dānādanayoḥ*, *isi* ("arciśucihusṛpi…," Uṇ. 2-108 [?]); *guṇa*; the source says this word is among the *paryudāsa* statements "aniseḥ," and discusses ("prasajya-pratiṣedha" versus "paryudāsa") whether the negative in "nabviṣayasyānisantasya" is a pure prohibition or an exclusion of *isanta* words, concluding it is an exclusion, so *haviḥ*, being an *isanta* neuter, does not get initial-udātta from that rule; the suffix accent stands: final-udātta. **दातुः (*dātuḥ*)** — root *ḍudāñ dāne*; *tṛc* ("nvul-tṛcau," Pā. 3-1-133 [?]); *tṛc* is *cit*, so final-udātta ("citaḥ," Pā. 6-1-163 [?]); genitive singular *ṅas*; "ṛta ut" (Pā. 6-1-111 [?]): *ut* in place of the *ṛ*'s *a*-element [i.e., *ṛ* + *as* becomes *uḥ*]; *dātur* + *s*; "rātsasya" (Pā. 8-2-24 [?]) drops the *s* after *r* in a conjunct; "saṃyogāntasya lopaḥ" (Pā. 8-2-23 [?]) cannot apply alone since it would also drop other letters, so "rātsasya" is needed as a restriction (*niyama*), with the example *ūrk* (where the *k* after *r* is not dropped); the *r* becomes visarga: *dātuḥ*; the single substitute *u* is udātta ("ekādeśa udāttenodāttaḥ," Pā. 8-2-5 [?]). **चेतनम् (*cetanam*)** — root *citī saṃjñāne*; *lyuṭ* in the instrument/locus sense ("karaṇādhikaraṇayoś ca," Pā. 3-3-117 [?]); "yuvor anākau" (Pā. 7-1-1 [?]) gives *ana*; *laghūpadha-guṇa* ("pugantalaghūpadhasya ca," Pā. 7-3-86 [?]); "liti" (Pā. 6-1-193 [?]): the vowel before the *l*-marked suffix is udātta. *(Sūtra numbers read from small print; pointers only.)*
+> दातुर्यजमानस्य प्रज्ञापनं देवेषु त्वया निवेदितस्य
+>
+> *dāturyajamānasya prajñāpanaṃ deveṣu tvayā niveditasya*
+
+that is, "you must make the gods aware concerning the sacrificer".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 577–578, noted briefly)*
+
+**वनस्पते (*vanaspate*)**: wholly unaccented by "āmantritasya ca" (Pā. sū. 8-1-19). **देव (*deva*)**: it stands at the head of the second pāda, so the prohibition "apādādau" (Pā. sū. 8-1-18) stops the lowering, and the sixth-adhyāya rule "āmantritasya ca" (Pā. sū. 6-1-198) gives initial udātta.
+
+### Page 578 — Rik 11: grammar (end)
+
+**हविः (*haviḥ*)**: *hu dānādanayoḥ*; *isi* by "arciśucihu…" (Uṇ. sū. "2-266" [?]); *guṇa*. The *paryudāsa* "anisantasya": the verse
+
+> प्रसज्यप्रतिषेधो ऽयं क्रियया सह यत्र नञ् । पर्युदासस्तु विज्ञेयो यत्रोत्तरपदेन नञ् ॥
+>
+> *prasajyapratiṣedho 'yaṃ kriyayā saha yatra nañ | paryudāsastu vijñeyo yatrottarapadena nañ ||*
+
+explains that where *nañ* is construed with the verb it is a *prasajya-pratiṣedha*, where with the following member (*n'is*, *anis*) a *paryudāsa*. A *prasajya-pratiṣedha* always brings three faults (supplying a fitting verb, a compound of an unconnected word, splitting the sentence), so it is taken only where a *paryudāsa* cannot be; here the *paryudāsa* is taken. So "nabviṣayasyānisantasya" (Phi. sū.) means: the beginning of a neuter stem other than one ending in *is* is udātta. *Havis* ends in *is*, so this rule gives no initial udātta; the suffix accent stands, and *haviḥ* is final udātta. **दातुः (*dātuḥ*)**: *ḍudāñ dāne*; *tṛc* by "ṇvultṛcau" (Pā. sū. 3-1-133); *cit*, so final udātta by "citaḥ" (Pā. sū. 6-1-163); genitive singular "jas" [as printed, for *ṅas*]; "ṛta ut" (Pā. sū. 6-1-111): *u* as single replacement for *ṛ* + *a*; *r* after it by "uraṇ raparaḥ" (Pā. sū. 1-1-51): *dātur* + *s*; "rātsasya" (Pā. sū. 8-2-24) drops the final member of a conjunct after *r*, here the *s*. Though "saṃyogāntasya lopaḥ" (Pā. sū. 8-2-23) could drop the *s*, this sūtra is needed as a restriction: after *r* only *s* is dropped, so in *ūrk* the *k* is not dropped. Visarga: *dātuḥ*; the *u* udātta by "ekādeśa udāttenodāttaḥ" (Pā. sū. 8-2-5). **चेतनम् (*cetanam*)**: *citī saṃjñāne*; *lyuṭ* in the instrumental sense by "karaṇādhikaraṇayoś ca" (Pā. sū. 3-3-117); *ana* for *yu* by "yuvor anākau" (Pā. sū. 7-1-1); *laghūpadha-guṇa* by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86): *cetana*; the *e* before the suffix udātta by "liti" (Pā. sū. 6-1-193).
 
 **॥११॥**
 
