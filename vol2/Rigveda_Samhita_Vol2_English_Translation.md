@@ -16089,57 +16089,95 @@ so the augment *num*. By "mid aco 'ntyāt paraḥ" (Pā. sū. 1-1-47) it comes a
 
 ---
 
-### Pages 743–746 — Sūkta 17, Rik 9 (last rik of the sūkta)
+### Page 743 (lower) — Sūkta 17, Rik 9 (last ṛk of the sūkta)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्र वामश्नोतु सुष्टुतिरिन्द्रावरुण यां हुवे ।
-> यामृधाथे सधस्तुतिम् ॥९॥
+> प्र वा॑मश्नोतु सुष्टुतिरिन्द्रा॑वरुण॒ यां हु॒वे । [accent ?]
+> यामृ॒धा॑थे स॒धस्तु॑तिम् ॥९॥ [accent ?]
 >
-> *pra vām aśnotu suṣṭutir indrāvaruṇa yāṃ huve |*
-> *yām ṛdhāthe sadhastutim ||9||*
+> *prá vām aśnotu suṣṭutír índrāvaruṇa yā́ṃ huvé |* [accent ?]
+> *yā́m ṛdhā́the sadhástutim ||9||* [accent ?]
+
+*(Read as printed: strokes over वा, द्रा, धा and स्तु; bars under ण, हु, मृ and स. The marks in line 2 are small; their positions are not certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > प्र । वाम् । अश्नोतु । सुऽस्तुतिः । इन्द्रावरुणा । याम् । हुवे ॥
 > याम् । ऋधाथे इति । सधऽस्तुतिम् ॥९॥
 >
-> *pra | vām | aśnotu | su-stutiḥ | indrāvaruṇā | yām | huve ||*
-> *yām | ṛdhāthe iti | sadha-stutim ||9||*
+> *pra | vām | aśnotu | su 'stutiḥ | indrāvaruṇā | yām | huve ||*
+> *yām | ṛdhāthe iti | sadha 'stutim ||9||*
 
-*(Accent-marks printed in the source; not reproduced. The print has* su-stutiḥ *in the Pada, though the Saṃhitā has* suṣṭutiḥ*, as the conjoint form.)*
+### Page 744 — Rik 9: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 744; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> इन्द्रावरुणा हे इन्द्रावरुणौ यामस्मत्कर्तृकां शोभनस्तुतिं प्रति हुवे । युवामुभावाह्वयामि । किंच सधस्तुतिं युवयोरुभयोः साहित्येन क्रियमाणायाः स्तवनक्रियाया यां सुष्टुतिं प्रतिलब्ध्वा ऋधाथे युवां वर्धाथे । तादृशी सुष्टुतिः शोभनस्तुतिहेतुभूता वा ऋक्स्वनूहो वामश्नोतु । युवां व्याप्नोतु ॥ अश्नोतु । अशू व्याप्तौ । लोटो व्यत्ययेन तिप् । स्वादिभ्यः श्नुः । सुष्टुतिः । न विन्दे अस्य सुष्टुतिम् । ऋ. सं. [१-२-२] । इत्यत्रोक्तम् । इन्द्रावरुणा । हुवे । उक्ते । अत्र तु यद्वृत्तयोगान्न निघातः । ऋधाथे । ऋधु वृद्धौ । लट् । व्यत्ययेनात्मनेपदम् । मध्यमद्विवचने श्नोर्बहुलं छन्दसीति लुक् । प्रत्ययस्वरेणाकार उदात्तः । यजब्द्योगान्न निघातः । सधस्तुतिम् । सह स्तुतिर्यस्यां सुष्टुतौ सा सधस्तुतिः । अत्र सुष्टुतिरित्यन्यपदार्थे स्तुतिशब्दस्य स्नूयते ऽनयेति करणसाधनत्वेन ऋक्स्वरत्नेऽयं स्तुतिशब्दो भावसाधनतया स्तवनक्रियापरः । … सहेत्यत्र हकारस्य व्यत्ययेन धकारः । सहशब्द एवमादित्वादन्तोदात्तः । बहुव्रीहित्वेन पूर्वपदप्रकृतिस्वरत्वम् ॥९॥
+*(॥३३॥ closes Varga 33; ॥४॥ closes the fourth Anuvāka.)*
+
+> इन्द्रावरुणा हे इन्द्रावरुणौ यामस्मत्कर्तृकां शोभनस्तुतिं प्रति हुवे युवामुभावाह्वयामि । किंच सधस्तुतिं युवयोरुभयोः साहित्येन क्रियमाणायाः स्तवक्रियाया यां सुष्टुतिं प्रतिलभ्य ऋधाथे युवां वर्धेथे । तादृशी सुष्टुतिः शोभनस्तुतिहेतुभूत ऋक्समूहो वामश्नोतु । युवां व्याप्नोतु ॥ अश्नोतु । अशू व्याप्तौ । लोटो व्यत्ययेन तिप् । स्वादिभ्यः श्नुः । सुष्टुतिः । न विन्धे अस्य सुष्टुतिम् । ऋग्वे. १-७-७ । इत्यत्रोक्तम् । इन्द्रावरुणा । हुवे । उक्ते । अत्र तु यद्वृत्तयोगान्न निघातः । ऋधाथे । ऋधु वृद्धौ । लट् । व्यत्ययेनात्मनेपदम् । मध्यमद्विवचने श्नोर्बहुलं छन्दसीति लुक् । प्रत्ययस्वरेणाकार उदात्तः । यच्छब्दयोगान्न निघातः । सधस्तुतिम् । सह स्तुतिर्यस्यां सुष्टुतौ सा सधस्तुतिः । अत्र सुष्टुतिरित्यन्यपदार्थे स्तुतिशब्दस्य स्तूयतेऽनयेति करणसाधनत्वेन ऋक्परत्वेऽयं स्तुतिशब्दो भावसाधनतया स्तवनक्रियापरः । तस्मिन्भावसाधनत्वेन क्रियापरेऽयं करणसाधनतया ऋक्पर इति समस्यमानपदार्थादन्यः । सहेत्यत्र हकारस्य व्यत्ययेन धकारः । सहशब्द एवमादित्वादन्तोदात्तः । बहुव्रीहित्वेन पूर्वपदप्रकृतिस्वरत्वम् ॥३३॥ ॥४॥
 >
-> *indrāvaruṇā he indrāvaruṇau yām asmat-kartṛkāṃ śobhana-stutiṃ prati huve | yuvām ubhāv āhvayāmi | kiṃ ca sadhastutiṃ yuvayor ubhayoḥ sāhityena kriyamāṇāyāḥ stavana-kriyāyā yāṃ suṣṭutiṃ pratilabdhvā ṛdhāthe yuvāṃ vardhāthe | tādṛśī suṣṭutiḥ śobhana-stuti-hetu-bhūtā vā ṛksv anūho vām aśnotu | yuvāṃ vyāpnotu || aśnotu | aśū vyāptau | loṭo vyatyayena tip | svādibhyaḥ śnuḥ | suṣṭutiḥ | na vinde asya suṣṭutim | ṛ. saṃ. [1-2-2] | ity atroktam | indrāvaruṇā | huve | ukte | atra tu yad-vṛtta-yogān na nighātaḥ | ṛdhāthe | ṛdhu vṛddhau | laṭ | vyatyayenātmanepadam | madhyama-dvivacane śnor bahulaṃ chandasīti luk | pratyaya-svareṇākāra udāttaḥ | yaj-ab-yogān na nighātaḥ | sadhastutim | saha stutir yasyāṃ suṣṭutau sā sadhastutiḥ | atra suṣṭutir ity anya-padārthe stuti-śabdasya snūyate 'neti karaṇa-sādhanatvena ṛk-svaratne 'yaṃ stuti-śabdo bhāva-sādhanatayā stavana-kriyā-paraḥ | … saheti hakārasya vyatyayena dhakāraḥ | saha-śabda evam-ādittvād antodāttaḥ | bahuvrīhitvena pūrvapada-prakṛti-svaratvam ||9||*
+> *indrāvaruṇā he indrāvaruṇau yāmasmatkartṛkāṃ śobhanastutiṃ prati huve yuvāmubhāvāhvayāmi | kiṃca sadhastutiṃ yuvayorubhayoḥ sāhityena kriyamāṇāyāḥ stavakriyāyā yāṃ suṣṭutiṃ pratilabhya ṛdhāthe yuvāṃ vardhethe | tādṛśī suṣṭutiḥ śobhanastutihetubhūta ṛksamūho vāmaśnotu | yuvāṃ vyāpnotu || aśnotu | aśū vyāptau | loṭo vyatyayena tip | svādibhyaḥ śnuḥ | suṣṭutiḥ | na vindhe asya suṣṭutim | ṛgve. 1-7-7 | ityatroktam | indrāvaruṇā | huve | ukte | atra tu yadvṛttayogānna nighātaḥ | ṛdhāthe | ṛdhu vṛddhau | laṭ | vyatyayenātmanepadam | madhyamadvivacane śnorbahulaṃ chandasīti luk | pratyayasvareṇākāra udāttaḥ | yacchabdayogānna nighātaḥ | sadhastutim | saha stutiryasyāṃ suṣṭutau sā sadhastutiḥ | atra suṣṭutirityanyapadārthe stutiśabdasya stūyate 'nayeti karaṇasādhanatvena ṛkparatve 'yaṃ stutiśabdo bhāvasādhanatayā stavanakriyāparaḥ | tasminbhāvasādhanatvena kriyāpare 'yaṃ karaṇasādhanatayā ṛkpara iti samasyamānapadārthādanyaḥ | sahetyatra hakārasya vyatyayena dhakāraḥ | sahaśabda evamāditvādantodāttaḥ | bahuvrīhitvena pūrvapadaprakṛtisvaratvam ||33|| ||4||*
 
-**Translation:** "O Indra and Varuṇa! To that *suṣṭuti* — good praise — made by us, I invoke you both. Further, that good praise which is a *sadhastuti* — a praise made by both of you jointly (*saha*) — having received which you two grow (*ṛdhāthe*): may such a good praise, or [the *ṛk* verses that are] the cause of good praise, reach you (*aśnotu*, 'pervade')." The rest is grammar, noted briefly: *aśnotu* (*aś* "to pervade", *loṭ* with *tip* by *vyatyaya*; *śnu* of the *svādi* class); *suṣṭutiḥ* (explained at Rik 1.2.2); *huve* (as above; here, because of the relative *yām*, the verb is not made unaccented); *ṛdhāthe* (*ṛdh* "to grow", *laṭ* with the *ātmanepada* by *vyatyaya*; the *śnu* dropped; accent on the *ā* of the suffix); *sadhastutim* ("that good praise in which the *stuti* is joint"; the word *stuti* here is the abstract *ktin* — the act of praising — while in *suṣṭutiḥ* it is taken as the instrument [*stūyate 'nayā* 'by which one praises', the ṛk]; *saha* with *dh* for *h* by *vyatyaya*; the compound keeps the accent of the first member). *(Grammar, noted briefly.)*
+**Translation:** "O Indra and Varuṇa, I call you both towards the excellent praise that we make. Further, the *suṣṭuti*, excellent praise, which is *sadhastuti*, an act of praise made of you both together, by obtaining which you *ṛdhāthe*, grow: may such *suṣṭuti*, the collection of ṛks that is the cause of excellent praise, *aśnotu*, reach you." (Grammatical tail: *aśnotu*, *aśū vyāptau*, *tip* for *loṭ* by exchange, *śnu* by *svādibhyaḥ śnuḥ*; *suṣṭutiḥ*, as said at Ṛgveda 1-7-7; *indrāvaruṇā*, *huve*, explained; here, though, not lowered because joined with *yad*; *ṛdhāthe*, *ṛdhu vṛddhau*, *laṭ*, *ātmanepada* by exchange, in the 2nd dual the *śnu* dropped by *bahulaṃ chandasi*, the *ā* udātta by the suffix accent, not lowered because joined with *yad*; *sadhastutim*, "the *suṣṭuti* in which there is praise together"; here the word *stuti* in *suṣṭuti*, the other thing meant, being an instrument noun, "that by which one praises", denotes the ṛk, while this *stuti* [in the compound], an action noun, denotes the act of praising; where that one is an action noun denoting the act, this one, an instrument noun, denotes the ṛk; so it differs from the sense of the compounded words. In *saha*, *dh* for *h* by exchange; *saha* is final udātta as one of the *evam-ādi*; as a *bahuvrīhi*, the accent of the first member.)
 
-**Grammar pages (pp. 745–746 upper), noted briefly.** The Kannada treats: *aśnotu* (*aśū vyāptau* is *anudāttet*, so it would take the *ātmanepada* by P. 1-3-12 *anudāttaṅita ātmanepadam*; but "variously" *vyatyayo bahulam* P. 3-1-85 gives *parasmaipada* *tip*; *svādibhyaḥ śnuḥ* P. 3-1-73; *aś* + *nu* + *ti*, guṇa by P. 7-3-84, *iko yaṇ*… *eruḥ* P. 3-4-86 gives *u* for the *i* of *ti* in the imperative: *aśnotu*), *suṣṭutiḥ* (explained at 1.2.2 [print: "Ṛ. Saṃ. 1-2-2"]), *indrāvaruṇā*, *huve* (see the same sūkta, Rik 1: the verb is not unaccented since it begins the *pāda*; here, since the relative *yām* precedes, P. 8-1-66 *yadvṛttān nityam* bars the loss of accent), *ṛdhāthe* (*ṛdhu vṛddhau*; *laṭ*; *ātmanepada* by *vyatyaya*; third dual *ātām* → *āthām* for the second dual; *ṭita ātmanepadānāṃ ṭer e* P. 3-4-79; *śnā*/*śnu* dropped by *bahulaṃ chandasi* P. 2-4-73; *ādyudāttaś ca* P. 3-1-3 accents the first vowel of the suffix, so the *ā* of *āthe*; since *yām* precedes, no loss of accent by *yadvṛttān nityam*), and *sadhastutim* (*saha stutir yasyāṃ sā*, a *bahuvrīhi* by P. 2-2-24 *anekam anyapadārthe*, defined as one in which the sense is that of another word than those compounded; the Kannada notes the problem whether *stuti* can be a word of "another sense", and answers: *stuti* in the compound is the instrument-sense *ktin* meaning "the ṛk by which one praises", while in the bahuvrīhi *sadhastuti*, which is a feminine abstract form, it means "the act of praising"; hence the word of the compound is different in sense from the independent word; *saha* has *dha* for *ha* by *vyatyaya* [a Vedic licence]; end-accent for *saha* by the Phiṭ-sūtra *vivādīnām antaḥ* [Phiṭ 4-[?]]; the bahuvrīhi keeps the accent of its first member by P. 6-2-1). ॥9॥ *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 744)*
-
-**इन्द्रावरुण (indrāvaruṇa)** — O Indra and Varuṇa | **याम् (yām)** — which praise of ours | **हुवे (huve)** — I invoke [you two with that praise] | **(अथ) याम् ((atha) yām)** — and which | **सधस्तुतिम् (sadhastutim)** — joint praise [of you two] | **ऋधाथे (ṛdhāthe)** — you who are pleased and grow by receiving | **सुष्टुतिः (suṣṭutiḥ)** — that excellent praise [the group of verses] | **वाम् अश्नोतु (vām aśnotu)** — may it reach you.
+**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **याम् (yām)** — which (praise of ours, towards it) | **हुवे (huve)** — I call (you both) | (and) **याम् सधस्तुतिम् (yām sadhastutim)** — by which hymn made of you both together | **ऋधाथे (ṛdhāthe)** — you grow (you are pleased) | **सुष्टुतिः (suṣṭutiḥ)** — (such a) collection of ṛks in the form of a hymn | **वाम् अश्नोतु (vām aśnotu)** — may it reach you.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Varuṇa! I invoke you separately with praise; sometimes I invoke you both together and praise you. May you both be pleased with such praises.
+O Indra and Varuṇa, we call each of you separately with praise. At times we also praise you both together. Be pleased with such hymns.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > May the earnest praise which I offer to Indra and Varuna reach you both ; and may you fulfil that prayer addressed to you both.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 744–745)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**अश्नोतु (aśnotu)** — *vyāpnotu*: "may the praise we make reach you; may it be pleasing to you".
+**Aśnotu**: *vyāpnotu*, may it reach: the sense is, may the hymn we make reach you and be dear to you.
 
-**ऋधाथे (ṛdhāthe)** — *ṛdhu vṛddhau* "to grow": *vardhethām*: "you two, may you be pleased with, and praise, the hymn we make, and thereby become satisfied" — such senses may be given.
+### Page 745 — Rik 9: Special Topics (end) and grammar
 
-**सधस्तुतिम् (sadhastutim)** — *saha stutir yasyāṃ suṣṭutau sā sadhastutiḥ*: the praise made by joining the two together; the hymn which praises the two deities, Indra and Varuṇa, together.
+**Ṛdhāthe**:
 
-**Close of Sūkta 17.** The grammar of Rik 9 ends at the head of p. 746, followed by an ornament and the heading of Sūkta 18; the print has no large colophon here either.
+> ऋधु वृद्धौ । वर्धेथाम् ॥
+>
+> *ṛdhu vṛddhau | vardhethām ||*
+
+("*Ṛdhu*, to grow: may you grow.") The senses "you liked the praise we made, or praised it, and so were well satisfied" and the like may be given.
+
+**Sadhastutim**:
+
+> सह स्तुतिर्यस्यां सुष्टुतौ सा सधस्तुतिः ॥
+>
+> *saha stutiryasyāṃ suṣṭutau sā sadhastutiḥ ||*
+
+("The *suṣṭuti* in which there is praise together is the *sadhastuti*.") A hymn that praises two together is called *sadhastuti*. Here the two deities Indra and Varuṇa are praised together.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 745–746, noted briefly)*
+
+**अश्नोतु (*aśnotu*)**: *aśū vyāptau*. *Loṭ*; the root is *anudāttet*, so *ātmanepada* ought to come by "*anudāttaṅita ātmanepadam*". But by "vyatyayo bahulam" (Pā. sū. 3-1-85) the *parasmaipada* suffix *ti* comes by exchange. By "svādibhyaḥ śnuḥ" (Pā. sū. 3-1-73) the *vikaraṇa* *śnu*: *aś* + *nu* + *ti*; *guṇa*; by *eruḥ* *u* for the *i*.
+
+**सुष्टुतिः (*suṣṭutiḥ*)**: explained at "na vindhe asya suṣṭutim" (Ṛ. saṃ. 1-7-7).
+
+**इन्द्रावरुणा, हुवे (*indrāvaruṇā*, *huve*)**: see the 7th mantra of this sūkta. There it was said that, standing at the start of a *pāda*, it is not wholly unaccented; here too, by "yadvṛttān nityam" (Pā. sū. 8-1-66) (a *tiṅanta* after a word containing *yad* does not become unaccented), it is not wholly unaccented.
+
+**ऋधाथे (*ṛdhāthe*)**: *ṛdhu vṛddhau*. *Laṭ*; by exchange, *ātmanepada*, 1st-person [as printed; *āthām* is 2nd person] dual *āthām*. By "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79) *e* for the *ṭi* (*ām*). By *svādibhyaḥ śnuḥ* the suffix *śnu*; for it *luk* by "bahulaṃ chandasi" (Pā. sū. 2-4-73): *ṛdhāthe*. By the suffix accent, that is, by "ādyudāttaś ca" (Pā. sū. 3-1-3), the *ā* at the start of the suffix *āthe* is udātta. *Yām ṛdhāthe*: it follows a word formed with *yad*; so, since the bar comes by *yadvṛttān nityam*, it is not wholly unaccented by *tiṅṅatiṅaḥ*.
+
+**सधस्तुतिम् (*sadhastutim*)**: *saha stutir yasyāṃ suṣṭutau sā sadhastutiḥ*: by "anekam anyapadārthe" (Pā. sū. 2-2-24) a *bahuvrīhi*. The sense of the sūtra is: several *subantas* are compounded in the sense of another word, and these are called *bahuvrīhi*. *Anyapadārtha* means that which stands in the sense of a word other than the words that are compounded. Here the words *saha* and *stuti* are compounded. So there is no room for the doubt how *stuti* can be the *anyapadārtha*. The sense of the word *stuti* included in the compound is
+
+### Page 746 (upper) — Rik 9: grammar (end)
+
+one thing; the sense set forth by the word *suṣṭuti*, meant as the *anyapadārtha*, is another. For in *suṣṭuti*, the *anyapadārtha*, if the word *stuti* means *stūyate anayā iti stutiḥ*, with *ktin* in the sense of instrument, the ṛk which is the instrument of praise, then the word *stuti* in the compound, *stavanaṃ stutiḥ*, with *ktin* in the sense of the action, means the act of praising. If in the *anyapadārtha* the word *stuti* is meant to state the praising, as ending in *ktin* in the sense of the action, then the word *stuti* in the compound, ending in *ktin* in the sense of instrument, sets forth the sense ṛk. Thus the sense put forward by the word *suṣṭuti* differs from the sense set forth by the compounded words, so it is the *anyapadārtha*. In *saha* the *h* becomes *dh* by exchange. By "evādīnām antaḥ" (Phi. sū. "4-83" [?]) the word *saha* is final udātta. After the *bahuvrīhi* compound has come too, by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) the accent of the first member comes.
+
+**॥९॥**
+
+*(Sūkta 17 ends here, mid-page; p. 746 continues with the title of the Eighteenth Sūkta. No colophon is printed.)*
+
+---
 
 ## ॥ ಹದಿನೆಂಟನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 18 — *"somānaṃ svaraṇaṃ kṛṇuhi"* ("The Eighteenth Sūkta"; first sūkta of the Fifth Anuvāka)
 
