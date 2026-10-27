@@ -1,7 +1,9 @@
 # Vol 3 numeral + [?] + accent pass — state
 
-Status: **set up, not started** (Oct 27, 2026). The scheduled task starts this pass when `vol2/vol2_state.md` says "done".
-**Last PDF page done: none.** Next: batch PDF 1–100 (front matter, printed pp. 1–86).
+Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
+**Last PDF page done: none (batch PDF 1–100 in progress: done through PDF 27, printed p. 13, end of Ṛk 20.3; edits in `review/edits_PDF1-100.txt`).** Next: PDF 28 (p. 14, Ṛk 20.4).
+
+Rendering note: `view.py` crops the right edge of these scans; use full-page renders (pdftoppm at ~230 dpi cut into five strips) for reading, and `acc.py` for zooms.
 
 Per-batch detail will go to `review/edits_PDF*.txt` (every numeral read, by box id), `review/notes_PDF*.txt` (what changed),
 and `vol3_pass_log.md` (one entry per batch).
