@@ -1802,80 +1802,125 @@ As said in the previous ṛk, your chariot can move fast. The whip with its swee
 
 ---
 
-### Pages 74–77 — Sūkta 22, Rik 5
+### Page 74 — Sūkta 22, Rik 5
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> हिरण्यपाणिमूतये सवितारमुप ह्वये ।
-> स चेत्ता देवता पदम् ॥५॥
+> हिर॑ण्यपाणिमू॒तये॑ सवि॒तार॒मुप॑ ह्वये ।
+> स चेत्ता॑ दे॒व॑ता प॒दं ॥५॥ [accent ?]
 >
-> *hiraṇyapāṇim ūtaye savitāram upa hvaye |*
-> *sa cettā devatā padam ||5||*
+> *híraṇyapāṇim ūtáye savitā́ram úpa hvaye |*
+> *sa céttā devatā padáṃ ||5||* [accent ?]
+
+*(Strokes over र (हिरण्य), ये (ऊतये) and प (उप); bars under मू, वि (सवि) and र (तारम्). Line 2: a stroke over the junction of चे and त्ता (read as over त्ता, as in the Pada), a bar under दे, a stroke over the junction of व and ता (read as over व, as in the Pada) [accent ?], a bar under प. The Pada line 1 ends with a single daṇḍa.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> हिरण्यऽपाणिम् । ऊतये । सवितारम् । उप । ह्वये ॥
-> सः । चेत्ता । देवता । पदम् ॥५॥
+> हिरण्यऽपाणिं । ऊतये । सवितारं । उप । ह्वये ।
+> सः । चेत्ता । देवता । पदं ॥५॥
 >
-> *hiraṇya-pāṇim | ūtaye | savitāram | upa | hvaye ||*
-> *saḥ | cettā | devatā | padam ||5||*
+> *hiraṇya 'pāṇiṃ | ūtaye | savitāraṃ | upa | hvaye |*
+> *saḥ | cettā | devatā | padaṃ ||5||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 74; compressed; [?] marks doubtful readings)*
+*(It opens with the application of ṛks 5–8.)*
 
-> व्यूढस्य द्वितीये छन्दोमे वैश्वदेवशस्त्रे हिरण्यपाणिमूतये इति सावित्र्यश्चतस्रः । द्वितीयस्येति खण्डे सूत्रितम् । हिरण्यपाणिमूतये इति चतस्रो महीद्यौः पृथिवी च नः । आ. [८-१०] । इति ॥ ऊतयेऽस्मद्रक्षणार्थं सवितारं देवमुप ह्वये । आह्वयामि । स च सविता देव एतन्मन्त्रप्रतिपाद्यदेवता भूत्वा पदं यजमानेन प्राप्यं स्थानं चेत्ता । ज्ञापयिता भवति । कीदृशं सवितारम् । हिरण्यपाणिं यजमानाय दातुं हस्ते सुवर्णधारिणम् । यद्वा । देवकर्तृके याग इत्यादि [the Kauṣītaki-Brāhmaṇa story, given in the Kannada below] ॥ हिरण्यशब्दो नब्विषयस्यानिसन्तस्येति आद्युदात्तः [?] । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । ऊतये । उदात्त इत्यनुवृत्त्या ऊतियूतिजूतिसातिहेतिकीर्तयश्चेति क्तिन्नन्तोऽन्तोदात्तो निपातितः । सवितारम् । तृचि चित्त्वादन्तोदात्तत्वम् । चेत्ता । चिती संज्ञाने । अस्मादन्तर्भावितण्यर्थात्तृच् [?] । अनित्यमागमशासनमिति इडभावः । देवता । देवात्तल् । पा. [५-४-२७] । इति स्वार्थे तल् । लिति प्रत्ययात्पूर्वमुदात्तत्वम् । पदम् । पद गतौ । नन्दिग्रहिपचादिभ्य इत्यच् । चित्त्वादन्तोदात्तः ॥५॥
+> व्यूढस्य द्वितीये छन्दोमे वैश्वदेवशस्त्रे हिरण्यपाणिमूतय इति सावित्र्यश्चतस्रः । द्वितीयस्येति खण्डे सूत्रितं । हिरण्यपाणिमूतय इति चतस्रो मही द्यौः पृथिवी च नः । आ० ८-१० । इति ॥
 >
-> *vyūḍhasya dvitīye chandome vaiśvadeva-śastre hiraṇyapāṇim ūtaya iti sāvitryaś catasraḥ | dvitīyasyeti khaṇḍe sūtritam | hiraṇyapāṇim ūtaya iti catasro mahī dyauḥ pṛthivī ca naḥ | ā. [8-10] | iti || ūtaye 'smad-rakṣaṇārthaṃ savitāraṃ devam upa hvaye | āhvayāmi | sa ca savitā deva etan-mantra-pratipādya-devatā bhūtvā padaṃ yajamānena prāpyaṃ sthānaṃ cettā | jñāpayitā bhavati | kīdṛśaṃ savitāram | hiraṇyapāṇiṃ yajamānāya dātuṃ haste suvarṇa-dhāriṇam | yadvā | deva-kartṛke yāga ity-ādi [the Kauṣītaki-Brāhmaṇa story, given in the Kannada below] || hiraṇya-śabdo nab-viṣayasyāniṣantasyeti ādyudāttaḥ [?] | bahuvrīhau pūrvapada-prakṛti-svaraḥ | ūtaye | udātta ity anuvṛttyā ūti-yūti-jūti-sāti-heti-kīrtayaś ceti ktin-nanto 'ntodātto nipātitaḥ | savitāram | tṛci cittvād antodāttatvam | cettā | citī saṃjñāne | asmād antarbhāvita-ṇyarthāt tṛc [?] | anityam āgama-śāsanam iti iḍabhāvaḥ | devatā | devāt tal | pā. [5-4-27] | iti svārthe tal | liti pratyayāt pūrvam udāttatvam | padam | pada gatau | nandi-grahi-pacādibhya ity ac | cittvād antodāttaḥ ||5||*
+> *vyūḍhasya dvitīye chandome vaiśvadevaśastre hiraṇyapāṇimūtaya iti sāvitryaścatasraḥ | dvitīyasyeti khaṇḍe sūtritaṃ | hiraṇyapāṇimūtaya iti catasro mahī dyauḥ pṛthivī ca naḥ | ā0 8-10 | iti ||*
 
-**Application (opening lines):** "In the second *chandoma* of the *vyūḍha* sacrifice, at the *vaiśvadeva-śastra*, the four Savitṛ riks beginning *hiraṇyapāṇim ūtaye* [Riks 5–8] are used; it is laid down in the Sūtra, in the section of the second [day]: '*hiraṇyapāṇim ūtaye* — the four riks — and *mahī dyauḥ pṛthivī ca naḥ*' (Āśvalāyana Śrauta-sūtra [8-10])."
+**Translation (application):** "In the second *chandoma* day of the *vyūḍha* [*dvādaśāha*], at the *vaiśvadeva-śastra*, the four ṛks to Savitṛ beginning *hiraṇyapāṇim ūtaye*; it is laid down in the section *dvitīyasya*: '*hiraṇyapāṇim ūtaye*: four; *mahī dyauḥ pṛthivī ca naḥ*' (Āśv. 8-10)."
 
-**Translation:** "For protection (*ūtaye*) of us, I invoke (*upa hvaye*) the god Savitṛ. And that god Savitṛ — being the deity set forth in this mantra — becomes *cettā*, the one who makes known the *padam*, the place to be reached by the sacrificer. Of what sort is Savitṛ? *Hiraṇyapāṇim* — holding gold in his hand to give to the sacrificer; or [an alternative explanation from the story of the sacrifice performed by the gods, which the Kannada gives below]." The grammar, noted briefly: *hiraṇya* (first-syllable accent [as a neuter noun, P. 6-1-219, as read]; the bahuvrīhi keeps the first member's accent); *ūtaye* (*ktin* with end-accent by *nipātana* in the list *ūti-yūti-jūti-sāti-heti-kīrti*); *savitāram* (*tṛc*, end-accented by its *c*); *cettā* (*cit* 'to know', *tṛc* [or *tṛn*]; the augment *iṭ* absent because 'augments are not invariable'); *devatā* (*tal* after *deva* in its own sense, by P. 5-4-27); *padam* (*pad* + *ac*; end-accent). *(Grammar, noted briefly; P. 5-4-27 as read.)*
+> ऊतयेऽस्मद्रक्षणार्थं सवितारं देवमुप ह्वये । आह्वयामि । स च सविता देव एतन्मन्त्रप्रतिपाद्यदेवता भूत्वा पदं यजमानेन प्राप्यं स्थानं चेत्ता । ज्ञापयिता भवति । कीदृशं सवितारं । हिरण्यपाणिं यजमानाय दातुं हस्ते सुवर्णधारिणं । यद्वा । देवकर्तृके यागे सविता स्वयमृत्विग्भूत्वा ब्रह्मत्वेनावस्थितः । तदानीं कस्यांचिदिष्टावध्वर्यवस्तस्मै सवित्रे ब्रह्मणे प्राशित्रनामकं पुरोडाशभागं दत्तवन्तः । तच्च प्राशित्रं हस्ते सवित्रा गृहीतं सत्तदीयपाणिं चिच्छेद । ततः प्राशित्रस्य दातारोऽध्वर्यवः सुवर्णमयं पाणिं निर्माय प्रक्षिप्तवन्तः । सोऽयमर्थः कौषीतकिब्राह्मणे समाम्नातः । सवित्रे प्राशित्रं प्रतिजह्रुस्तत्तस्य पाणी प्रचिच्छेद तस्मै हिरण्मयौ प्रतिदधुस्तस्माद्धिरण्यपाणिरिति स्तुत इति । हिरण्यशब्दं पाणिशब्दं च यास्क एवं निर्वक्ति । हिरण्यं कस्माद्ध्रियत आयम्यमानमिति वा ह्रियते जनाज्जनमिति वा हितरमणं भवतीति वा हर्यतेर्वा स्यात्प्रेप्साकर्मणः । नि० २-१० । इति । तथा पाणिः । पणायतेः पूजाकर्मणः । नि० २-२६ । इति ॥ हिरण्यशब्दो नब्विषयत्वादाद्युदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । ऊतये । उदात्त इत्यनुवृत्तावूतियूतिजूतिसातीत्यादिना क्तिन्नन्तोऽन्तोदात्तो निपातितः । सवितारं । तृचश्चित्त्वादन्तोदात्तत्वं । चेत्ता । चिती संज्ञाने । अस्मादन्तर्भावितण्यर्थात्ताच्छील्ये तृन् । अनित्यमागमशासनमितीडभावः । नित्त्वादाद्युदात्तः । देवता । देवात्तल् । पा० ५-४-२७ । इति स्वार्थे तल् । लितीति प्रत्ययात्पूर्वमुदात्तत्वं । पदशब्दः पचाद्यजन्तः । चित इत्यन्तोदात्तः ॥४॥
+>
+> *ūtaye 'smadrakṣaṇārthaṃ savitāraṃ devamupa hvaye | āhvayāmi | sa ca savitā deva etanmantrapratipādyadevatā bhūtvā padaṃ yajamānena prāpyaṃ sthānaṃ cettā | jñāpayitā bhavati | kīdṛśaṃ savitāraṃ | hiraṇyapāṇiṃ yajamānāya dātuṃ haste suvarṇadhāriṇaṃ | yadvā | devakartṛke yāge savitā svayamṛtvigbhūtvā brahmatvenāvasthitaḥ | tadānīṃ kasyāṃcidiṣṭāvadhvaryavastasmai savitre brahmaṇe prāśitranāmakaṃ puroḍāśabhāgaṃ dattavantaḥ | tacca prāśitraṃ haste savitrā gṛhītaṃ sattadīyapāṇiṃ ciccheda | tataḥ prāśitrasya dātāro 'dhvaryavaḥ suvarṇamayaṃ pāṇiṃ nirmāya prakṣiptavantaḥ | so 'yamarthaḥ kauṣītakibrāhmaṇe samāmnātaḥ | savitre prāśitraṃ pratijahrustattasya pāṇī praciccheda tasmai hiraṇmayau pratidadhustasmāddhiraṇyapāṇiriti stuta iti | hiraṇyaśabdaṃ pāṇiśabdaṃ ca yāska evaṃ nirvakti | hiraṇyaṃ kasmāddhriyata āyamyamānamiti vā hriyate janājjanamiti vā hitaramaṇaṃ bhavatīti vā haryatervā syātprepsākarmaṇaḥ | ni0 2-10 | iti | tathā pāṇiḥ | paṇāyateḥ pūjākarmaṇaḥ | ni0 2-26 | iti || hiraṇyaśabdo nabviṣayatvādādyudāttaḥ | bahuvrīhau pūrvapadaprakṛtisvaraḥ | ūtaye | udātta ityanuvṛttāvūtiyūtijūtisātītyādinā ktinnanto 'ntodātto nipātitaḥ | savitāraṃ | tṛcaścittvādantodāttatvaṃ | cettā | citī saṃjñāne | asmādantarbhāvitaṇyarthāttācchīlye tṛn | anityamāgamaśāsanamitīḍabhāvaḥ | nittvādādyudāttaḥ | devatā | devāttal | pā0 5-4-27 | iti svārthe tal | litīti pratyayātpūrvamudāttatvaṃ | padaśabdaḥ pacādyajantaḥ | cita ityantodāttaḥ ||4||*
 
-**Grammar pages (pp. 77–78 upper), noted briefly.** The Kannada treats: *hiraṇyapāṇim* (*hiraṇya* is a neuter noun, first-syllable accented by Phiṭ-sūtra *nabviṣayasyāniṣantasya*; or, as the Ṛgveda verse *indro vṛtrāṇi hiraṇyayaḥ* [*Ṛ. Saṃ. 1-2-?*, as read] says, it is formed by Uṇ. 5-[?] *hṛyater kanyan hiraṭ* [*hṛ* + *kanyan* with *hiraṭ* as substitute], and is first-syllable accented by the *n*-mark; the bahuvrīhi *hiraṇyaṃ pāṇau yasya saḥ*; P. 6-2-1 *bahuvrīhau prakṛtyā pūrvapadam*), *ūtaye* (the word *udāttaḥ* is carried over [from P. 3-3-95?], and the *ktin*-ending *ūti* is given by *nipātana* in P. 3-3-97 *ūtiyūtijūtisātihetikīrtayaś ca* with end-accent), *savitāram* (*ṣū preraṇe*; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *ṇvultṛcau* P. 3-1-133; *su* + *tṛ* + *iṭ*; guṇa, *av*, *savitṛ*; accusative singular *savitāram*; *tṛc* has *c* so end accent by P. 6-1-163), *cettā* (*citī saṃjñāne* with *tṛn* by P. 3-2-135 *tācchīlyavayovacanaśaktiṣu cānaś*… the Kannada reads *tṛn*: *tṛn* is added to a root when the agents are habitual, [*tacchīla*], dutiful [*taddharma*] or skilled [*tatsādhukārin*]; the *iṭ* augment is barred because 'the rules about augments are not invariable' [*anityam āgamaśāsanam* Paribhāṣā 66]; guṇa by P. 7-3-86; nominative singular *su*; *ṛduśanaspurudaṃso 'nehasāṃ ca* P. 7-1-94 gives *anaṅ* for *su*-ending stems in *ṛ* when not vocative, which is absent here; *aptṛntṛcsvasṛnaptṛnaṣṭṛkṣattṛhotṛpotṛpraśāstṝṇām* P. 6-4-11 lengthens the penultimate of *ṛ*-ending words before *sarvanāmasthāna* non-vocative; *halṅyābbhyo dīrghāt sutisyapṛktaṃ hal* P. 6-1-68 drops *su*; *nalopaḥ prātipadikāntasya* P. 8-2-7; *cettā*; *ñnityādir nityam* P. 6-1-197 gives first-syllable accent), *devatā* (*devāt tal* P. 5-4-27 [*devātal*] *svārthe*; *litī* P. 6-1-193 — the syllable before a *lit* suffix is accented — hence *devátā* with the *ta*… [as the Kannada has it: the *v* before the suffix is accented]), *padam* (*pada gatau*; *nandigrahipacādibhyo lyuṇinyacaḥ* P. 3-1-134 gives *ac*; *cit*, so end-accent). ॥5॥ *(Crowded; outline only; numerals as read; pointers only; the Uṇādi note on* hiraṇya *is partly unclear [?].)*
+**Translation:** "*Ūtaye*, for our protection, I *upa hvaye*, call, the god Savitṛ. And that god Savitṛ, being the deity set forth by this mantra, is the *cettā*, the one who makes known, the *padam*, the place to be reached by the sacrificer. What kind of Savitṛ? *Hiraṇyapāṇim*, holding gold in his hand to give to the sacrificer. Or: in a sacrifice performed by the gods, Savitṛ himself, becoming a priest, was placed as the *brahman*. Then at a certain *iṣṭi* the *adhvaryus* gave to that Savitṛ, the *brahman*, the portion of the *puroḍāśa* called *prāśitra*; and that *prāśitra*, taken by Savitṛ in his hand, cut off his hand. Then the *adhvaryus*, the givers of the *prāśitra*, made a hand of gold and put it on. This matter is recorded in the Kauṣītaki-brāhmaṇa: 'They presented the *prāśitra* to Savitṛ; it cut off his hands; they put on him hands of gold; therefore he is praised as *hiraṇyapāṇi*.' Yāska explains the words *hiraṇya* and *pāṇi* thus: '*Hiraṇya* — why? It is carried (*hriyate*) when stretched out; or it is carried from man to man; or it is a pleasing good (*hita-ramaṇa*); or it may be from *hary*, in the sense of wishing to obtain' (Ni. 2-10); likewise '*pāṇi*, from *paṇāy*, in the sense of honouring' (Ni. 2-26)." (Grammatical tail: *hiraṇya*, initially udātta because it falls under *nab*; in the bahuvrīhi the first member's accent; *ūtaye*, with *udāttaḥ* carried on, the *ktin*-form with final udātta is given as a set form by *ūtiyūtijūtisāti…*; *savitāram*, final udātta because *tṛc* is *cit*; *cettā*, *citī saṃjñāne*, with the causative sense included, *tṛn* in the sense of habit, no *iṭ* by *anityam āgamaśāsanam*, initial udātta because it is *nit*; *devatā*, *tal* in its own sense by *devāt tal* (Pā. 5-4-27), the udātta before the suffix by *liti*; *pada*, ending in *ac* of the *pacādi* class, final udātta by *citaḥ*. The bhāṣya ends with ॥४॥, the close of the fourth varga.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 75)*
+### Page 75 — Rik 5: word-meanings, overall sense, English, Special Topics
 
-**ऊतये (ūtaye)** — for [our] protection | **हिरण्यपाणिम् (hiraṇyapāṇim)** — [for the sake of the sacrificer] holding gold in his hand, or having golden hands | **सवितारम् (savitāram)** — the deity called Savitṛ (the Sun) | **उप ह्वये (upa hvaye)** — I invoke | **सः (saḥ)** — that Savitṛ | **देवता (devatā)** — as the deity [set forth in the mantra] | **पदम् (padam)** — the place [to be attained by the sacrificer] | **चेत्ता (cettā)** — makes known (informs).
+**॥ Prati-padārthaḥ ॥**
+
+**ऊतये (ūtaye)** — for (our) protection | **हिरण्यपाणिं (hiraṇyapāṇiṃ)** — holding gold in the hand (for the sacrificer), or having a hand made of gold | **सवितारं (savitāraṃ)** — the deity named Savitṛ (the sun) | **उप ह्वये (upa hvaye)** — I call | **सः (saḥ)** — that Savitṛ | **देवता (devatā)** — as the deity (set forth by the mantra) | **पदं (padaṃ)** — the place (to be reached by the sacrificer) | **चेत्ता (cettā)** — makes known (tells).
 
 **॥ Bhāvārthaḥ ॥**
 
-May Savitṛ, who holds gold in his hand for the sake of giving to the sacrificer, protect us. Invoked by us, may he make known the place that the sacrificer is to attain.
+May the deity Savitṛ, who holds in his hand gold to give to the sacrificer, protect us. Called by us, may he come and make known the place to be reached by the sacrificer.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> I invoke Savitri, the golden-handed (or with gold in his hand) to protect me ; among gods he is the one who appoints the place of the worshipper.
+> I invoke Savitri, the golden-handed (or with gold in his hand) to protect me; among gods he is the one who appoints the place of the worshipper.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 75–77)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**हिरण्यपाणिम् (hiraṇyapāṇim)** — *yajamānāya dātuṃ haste suvarṇadhāriṇam*: holding gold in his hand to give to the sacrificer — hence called *hiraṇyapāṇi*. Or: *hiraṇmayau pāṇī yasya saḥ* — he whose hands are of gold; he is called *hiraṇyapāṇi*. On this the commentator says there is a story in the Kauṣītaki Brāhmaṇa:
+**हिरण्यपाणिं (hiraṇyapāṇiṃ)** — *yajamānāya dātuṃ haste suvarṇadhāriṇam |* Because he holds gold in his hand to give to the sacrificer, he is named *hiraṇyapāṇi*. Or *hiraṇmayau pāṇī yasya saḥ*: because he has hands made of gold, he is named *hiraṇyapāṇi*. The commentator says there is a story about this in the Kauṣītaki-brāhmaṇa:
 
-> देवकर्तृके यागे सविता स्वयमृत्विग्भूत्वा ब्रह्मत्वेनावस्थितः । तदानीं कस्यांचिदिष्ट्वाध्वर्युवस्तस्मै सवित्रे ब्रह्मणे प्राशित्रनामकं पुरोडाशभागं दत्तवन्तः । तच्च प्राशित्रं हस्ते सवित्रा गृहीतं सत्तदीयपाणिं चिच्छेद । ततः प्राशित्रस्य दातारोऽध्वर्यवः सुवर्णमयं पाणिं निर्माय प्राक्षिप्तवन्तः ॥ सवित्रे प्राशित्रं प्रतिजह्नुस्तत्तस्य पाणे प्रचिच्छेद तस्मै हिरण्मयौ प्रतिदधुस्तस्माद्धिरण्यपाणिरिति स्तुत इति ॥
+> देवकर्तृके यागे सविता स्वयमृत्विग्भूत्वा ब्रह्मत्वेनावस्थितः । तदानीं कस्यांचिदिष्टावध्वर्यवस्तस्मै सवित्रे ब्रह्मणे प्राशित्रनामकं पुरोडाशभागं दत्तवन्तः । तच्च प्राशित्रं हस्ते सवित्रा गृहीतं सत्तदीयपाणिं चिच्छेद । ततः प्राशित्रस्य दातारोऽध्वर्यवः सुवर्णमयं पाणिं निर्माय प्रक्षिप्तवन्तः ॥ सवित्रे प्राशित्रं प्रतिजह्रुस्तत्तस्य पाणी प्रचिच्छेद तस्मै हिरण्मयौ प्रतिदधुस्तस्माद्धिरण्यपाणिरिति स्तुत इति ॥
 >
-> *deva-kartṛke yāge savitā svayam ṛtvig-bhūtvā brahmatvenāvasthitaḥ | tadānīṃ kasyāṃcid iṣṭvādhvaryavas tasmai savitre brahmaṇe prāśitra-nāmakaṃ puroḍāśa-bhāgaṃ dattavantaḥ | tac ca prāśitraṃ haste savitrā gṛhītaṃ sat-tadīya-pāṇiṃ ciccheda | tataḥ prāśitrasya dātāro 'dhvaryavaḥ suvarṇamayaṃ pāṇiṃ nirmāya prākṣiptavantaḥ || savitre prāśitraṃ pratijahrus tat tasya pāṇe pracicceda tasmai hiraṇmayau pratidadhus tasmād dhiraṇyapāṇir iti stuta iti ||*
+> *devakartṛke yāge savitā svayamṛtvigbhūtvā brahmatvenāvasthitaḥ | tadānīṃ kasyāṃcidiṣṭāvadhvaryavastasmai savitre brahmaṇe prāśitranāmakaṃ puroḍāśabhāgaṃ dattavantaḥ | tacca prāśitraṃ haste savitrā gṛhītaṃ sattadīyapāṇiṃ ciccheda | tataḥ prāśitrasya dātāro 'dhvaryavaḥ suvarṇamayaṃ pāṇiṃ nirmāya prakṣiptavantaḥ || savitre prāśitraṃ pratijahrustattasya pāṇī praciccheda tasmai hiraṇmayau pratidadhustasmāddhiraṇyapāṇiriti stuta iti ||*
 
-*(The Sanskrit of this Kauṣītaki quotation is read from small print; the first line is garbled ["…kasyāṃcid iṣṭvādhvaryavas…"] and the whole is given as read; the English sense follows the Kannada:)* "When the gods were performing a sacrifice, Savitṛ himself, being one of the priests, sat in the place of the Brahman. The Adhvaryu priests, not noticing, gave him — as the Brahman — the portion of the *puroḍāśa* cake called *prāśitra*. Having taken it in his hand, the *prāśitra* cut off his hand. Then the Adhvaryus, who had given the *prāśitra*, made a hand of gold and fitted it on [him]; therefore he is praised as *hiraṇyapāṇi*, the golden-handed." The Kannada explains: when the gods perform a sacrifice, Savitṛ, being one of the priests, took a priest's duty and sat in the Brahman's seat; the Adhvaryus took him for the Brahman and, unwittingly, gave him the *prāśitra* portion of the *puroḍāśa*; but that, being a blunder, harmed Savitṛ's hands, which were cut off. When he could not move without hands, the Adhvaryus made golden hands and fitted them to him; so Savitṛ is praised as "golden-handed".
+*(The passage repeats the bhāṣya; rendered above.)*
 
-Yāska explains the words *hiraṇya* and *pāṇi*:
+### Page 76 — Rik 5: Special Topics (continued)
 
-> हिरण्यं कस्माद्धृयते आयम्यमानमिति वा हिते च रमणं भवतीति वा ह्रियते जनाज्जनमिति वा हितरमणं भवतीति वा हर्यतेर्वा स्यात्प्रेप्साकर्मणः ॥ (नि. [२-१०])
-> *hiraṇyaṃ kasmād dhriyate āyamyamānam iti vā hriyate janāj janam iti vā hita-ramaṇaṃ bhavatīti vā haryater vā syāt prepsā-karmaṇaḥ || (ni. [2-10])*
+When the gods were performing a sacrifice, Savitṛ too was one of the priests. But instead of carrying out a priest's duty he was seated in the place of the *brahman*. Then the priests called *adhvaryus* in that sacrifice, thinking that this Savitṛ seated in the *brahman*'s place was the *brahman*, unknowingly gave him the portion of the *puroḍāśa* called *prāśitra*, which is to be given to the *brahman*. But as soon as the mistake became known, before Savitṛ could eat the *puroḍāśa*, they cut off his hands, which were holding it. So that Savitṛ should not go without hands, the *adhvaryus* made hands of gold and joined them to Savitṛ. The main intention of this story is that, since Savitṛ's hands were thus made of gold, Savitṛ is praised as *hiraṇyapāṇi*.
 
-"Why is gold called *hiraṇya*? Because it is *hriyate* — taken — held, being drawn [by effort]; or because it is carried from person to person; or because it gives pleasure to the beneficial [*hita-ramaṇa*]; or from *hary*, 'to desire', in the sense of an object of desire [*prepsā-karman*]." The Kannada adds: gold is called *hiraṇya* for many reasons: craftsmen make bracelets and the like and so extend its value; people use it in trade; it gives help and benefit to those who have it in times of need; it gives joy to the mind; since everyone desires it, it spurs on all workers (in the form of wealth). Of *pāṇi* the derivation is:
+Yāska has explained the derivation of the word *hiraṇya* and of the word *pāṇi* thus:
 
-> पाणिः पणायतेः पूजाकर्मणः प्रगृह्य पाणी देवान्पूजयन्ति ॥ (नि. [२-१६])
-> *pāṇiḥ paṇāyateḥ pūjā-karmaṇaḥ pragṛhya pāṇī devān pūjayanti || (ni. [2-16])*
+> हिरण्यं कस्माद्ध्रियत आयम्यमानमिति वा ।
+> ह्रियते जनाज्जनमिति वा ।
+> हितरमणं भवतीति वा ।
+> हर्यतेर्वा स्यात्प्रेप्साकर्मणः ॥ (नि० २-१०)
+>
+> *hiraṇyaṃ kasmāddhriyata āyamyamānamiti vā |*
+> *hriyate janājjanamiti vā |*
+> *hitaramaṇaṃ bhavatīti vā |*
+> *haryatervā syātprepsākarmaṇaḥ || (ni0 2-10)*
 
-"*Pāṇi* is from *paṇāy*, in the sense of worship: holding up the two hands, [men] worship the gods." *Hiraṇyapāṇi* therefore means one who has gold in his hand, or one with golden (gold-made) hands.
+There are many reasons why gold gets the name *hiraṇya*. Since craftsmen and others make ornaments such as bracelets and spread its excellence, it is named *hiraṇya*; since people use it in dealings such as trade, it is named *hiraṇya*; since it stands by as a help in times of trouble to those who have it and does them good, it is named *hiraṇya*; since it gives joy to the mind, it is named *hiraṇya*; and since all desire it and it is an impeller (in the form of wealth) for all undertakings, it is named *hiraṇya*.
 
-**सवितारम् (savitāram)** — Savitṛ. Yāska gives for the word *savitṛ* these [explanations]:
+The derivation of the word *pāṇi*:
 
-> सविता सर्वस्य प्रसविता ॥ (नि. [१०-३१]) आदित्योऽपि सवितोच्यते ॥ (नि. [१०-३२])
-> *savitā sarvasya prasavitā || (ni. [10-31]) ādityo 'pi savitocyate || (ni. [10-32])*
+> पाणिः पणायतेः पूजाकर्मणः प्रगृह्य पाणी देवान्पूजयन्ति ॥ (नि० २-२६)
+>
+> *pāṇiḥ paṇāyateḥ pūjākarmaṇaḥ pragṛhya pāṇī devānpūjayanti || (ni0 2-26)*
 
-"Savitṛ is the one who sets in motion [engenders] everything; the Āditya too is called Savitṛ." That is: because this deity produces — gives — all the desired things that people wish for, he is called Savitṛ; and the Āditya, the sun, is also called Savitṛ.
+Since one joins them and spreads them wide to worship the gods, they are called *pāṇi*. *Hiraṇyapāṇi* means one who has gold in the hand, or one who has hands made of gold (made from gold).
 
-**स चेत्ता देवता पदम् (sa cettā devatā padam)** — *sa ca savitā yajamānena prāpyasthānaṃ jñāpayitā bhavati*: "That Savitṛ informs [the sacrificer] of the place which the sacrificer is to attain" — thus the commentator explains the sentence. But the sense does not quite fit; the ṛṣi's intention is not clear.
+**सवितारं (savitāraṃ)** — Savitṛ. For the word *savitṛ* Yāska —
+
+### Page 77 — Rik 5: Special Topics (end), grammar
+
+> सविता सर्वस्य प्रसविता ॥ (नि० १०-३१)
+> आदित्योऽपि सवितोच्यते ॥ (नि० १०-३२)
+>
+> *savitā sarvasya prasavitā || (ni0 10-31)*
+> *ādityo 'pi savitocyate || (ni0 10-32)*
+
+— has given the derivation: "Savitṛ, the impeller (*prasavitṛ*) of all"; "the sun too is called Savitṛ". That is, because he brings about, that is gives, all the desired things people need, this deity is named Savitṛ; and the sun too is named Savitṛ (*sūrya*).
+
+**स चेत्ता देवता पदं (sa cettā devatā padaṃ)** — *sa ca savitā yajamānena prāpyasthānaṃ jñāpayitā bhavati*: the commentator has explained this sentence as "this Savitṛ makes known the place the sacrificer is fit to reach". Yet the sense does not fit well. What the ṛṣi intends is not clear.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**हिरण्यपाणिं (hiraṇyapāṇiṃ)** — the word *hiraṇya* is always neuter; by *nabviṣayasyānisantasya* (Phi. Sū. 26) initially udātta; or, as set out at *indro vajrī hiraṇyayaḥ* (Ṛ. Saṃ. 1-7-2), it ends in the suffix *kanyan* by *haryateḥ kanyan hir ca* (U. Sū. 5-[?]), so it is initially udātta by the *nit* accent. *Hiraṇyaṃ pāṇau yasya saḥ*: a bahuvrīhi. By *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-1-7 [?], as read) the first member keeps its own accent.
+
+**ऊतये (ūtaye)** — with the word *udāttaḥ* (Pā. Sū. 3-3-96) carried on, by *ūtiyūtijūtisātihetikīrtayaś ca* (Pā. Sū. 3-3-97) it is given as a set form ending in *ktin* and with final udātta.
+
+**सवितारम् (savitāram)** — the root *ṣū preraṇe*. By *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *s* for the *ṣ*; by *ṇvultṛcau* (Pā. Sū. 3-1-133) *tṛc*: *sū* + *tṛ*, the augment *iṭ*, *guṇa*, the substitute *av*: *savitṛ*. In the accusative singular it becomes *savitāram*. The suffix *tṛc* has the marker *c*; so by *citaḥ* (Pā. Sū. 6-1-163) the final udātta comes.
+
+**चेत्ता (cettā)** — the root *citī saṃjñāne*; after it, by *tṛn* (Pā. Sū. 3-2-135) — when the agents are of that habit, that nature, or doers of it well, the suffix *tṛn* comes after the root — the suffix *tṛn*. By *anityam āgamaśāsanam* (Paribhā. 66) the rule prescribing the augment *iṭ* is not binding, so *iṭ* does not come here. By *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86) *guṇa* of the light penultimate. Nominative singular suffix *su*: *cettṛ* + *su*; by *ṛduśanaspurudaṃso 'nehasāṃ ca* (Pā. Sū. 7-1-94) — when a *su* other than the vocative follows, to words ending in *ṛ*,
+
+### Page 78 (upper) — Rik 5: grammar (end)
+
+and to the words *uśanas* and the rest, the substitute *anaṅ* comes — the substitute *anaṅ*: *cettan* + *s*. By *aptṛntṛcsvasṛnaptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛpraśāstṝṇām* (Pā. Sū. 6-4-11) — when a *sarvanāmasthāna* other than the vocative follows, the vowel penultimate in *ap* and the rest is lengthened — lengthening; by *halṅyābbhyaḥ* (Pā. Sū. 6-1-68) *su* is dropped; by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-2-7) the *n* is dropped: it becomes *cettā*. The suffix is *nit*; by *ñnity ādir nityam* (Pā. Sū. 6-1-197) initial udātta.
+
+**देवता (devatā)** — by *devāt tal* (Pā. Sū. 5-4-27 [?]) — after the word *deva*, the suffix *tal* in its own sense — the suffix *tal*; by *liti* (Pā. Sū. 6-1-193) the *v* (*va*) before the suffix is udātta.
+
+**पदं (padaṃ)** — the root *pada gatau*. By *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. Sū. 3-1-134) the suffix *ac*; by *citaḥ* final udātta. ॥5॥
+
+---
 
 ### Pages 78–81 — Sūkta 22, Rik 6
 
