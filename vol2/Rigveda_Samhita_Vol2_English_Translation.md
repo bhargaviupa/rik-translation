@@ -15709,55 +15709,101 @@ explaining this ṛk, for *viśvam eko abhi caṣṭe śacībhiḥ*
 
 ---
 
-### Pages 728–732 — Sūkta 17, Rik 5 (meter Pādanicṛt)
+### Page 728 — Sūkta 17, Rik 5 (metre *pādanicṛt*)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रः सहस्रदाव्नां वरुणः शंस्यानाम् ।
-> क्रतुर्भवत्युक्थ्यः ॥५॥
+> इन्द्रः॑ सहस्र॒दाव्नां॑ वरु॑णः॒ शंस्या॑नाम् ।
+> क्रतु॑र्भवत्यु॒क्थ्यः॑ ॥५॥
 >
-> *indraḥ sahasradāvnāṃ varuṇaḥ śaṃsyānām |*
-> *kratur bhavaty ukthyaḥ ||5||*
+> *índraḥ sahasradā́vnāṃ váruṇaḥ śáṃsyānām |*
+> *krátur bhavaty ukthyaḥ ||5||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > इन्द्रः । सहस्रऽदाव्नाम् । वरुणः । शंस्यानाम् ॥
 > क्रतुः । भवति । उक्थ्यः ॥५॥
 >
-> *indraḥ | sahasra-dāvnām | varuṇaḥ | śaṃsyānām ||*
+> *indraḥ | sahasra 'dāvnām | varuṇaḥ | śaṃsyānām ||*
 > *kratuḥ | bhavati | ukthyaḥ ||5||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 728; compressed; [?] marks doubtful readings)*
+*(येयमिति is as printed; the Kannada on p. 731 has जेयम्. छान्दस्यान्न is as printed, probably for छान्दसत्वान्न [?]. ॥३२॥ closes Varga 32.)*
 
-> अयमिन्द्रः सहस्रदाव्नां सहस्रसंख्याकधनप्रदानां मध्ये क्रतुर्धनदानास्य [?] कर्ता भवति । प्रभूतं ददातीत्यर्थः । तथा वरुणः शंस्यानां स्तुत्यानां मध्ये उक्थ्यः स्तुत्यो भवति । अतिशयेन स्तुत्य इत्यर्थः ॥ वरुणः उनन्प्रत्यययो नित्त्वादाद्युदात्तः । शंस्यानाम् । ऋहलोर्ण्यत् । ईडवन्दवृशंसदुहां ण्यतः । क्रतुः । कृञः केतुः । उ. [१-२८] । इति केतुः । उक्थ्यः । उक्थं शस्त्रम् । तेन स्तुत्येन तत्र भव उक्थ्यः । भवे छन्दसि । पा. [४-४-११०] । इति यत् । यस्येति लोपः । … ॥५॥
+> अयमिन्द्रः सहस्रदाव्नां सहस्रसंख्याकधनप्रदानां मध्ये क्रतुर्धनदानस्य कर्ता भवति । प्रभूतं ददातीत्यर्थः । तथा वरुणः शंस्यानां स्तुत्यानां मध्य उक्थ्यः स्तुत्यो भवति । अतिशयेन स्तुत्य इत्यर्थः ॥ वरुणः उनन्प्रत्ययो नित्त्वादाद्युदात्तः । शंस्यानाम् । शंसु स्तुतौ । ऋहलोर्ण्यत् । तित्स्वरितमिति प्राप्ते ईडवन्दवृशंसदुहां ण्यत इत्याद्युदात्तः । क्रतुः । कृञः कतुः । उ. १-७८ । इति कतुः । कित्त्वाद्गुणाभावे यणादेशः । प्रत्ययस्वरेणाद्युदात्तः । उक्थ्यः । उक्थं शस्त्रम् । तेन स्तुत्यत्वेन तत्र भव उक्थ्यः । भवे छन्दसि । पा. ४-४-११० । इति यत् । यस्येति लोपः । अत्र तित्स्वरितमित्येतद्बाधित्वा तीर्थ्याय कूप्यायेत्यादिवत् द्व्यच्त्वाद्यतोऽनाव इति प्राप्तमाद्युदात्तत्वं सर्वे विधयश्छन्दसि विकल्प्यन्त इति न क्रियते । ननु यस्येति लोपात्प्रागेव तित्स्वरितत्वमस्तु न हि तदा यतोऽनाव इत्येतदस्ति द्व्यच्त्वाभावात् । अत एव ह्यूर्म्याय च सूर्म्याय चेत्यादौ स्वरितत्वं दृश्यते । न च परत्वान्नित्यत्वाच्च यस्येति लोपेन प्रथमतो भाव्यमिति वाच्यम् । प्रकृतिप्रत्ययाश्रयाद्बहिरङ्गाद्यस्येति लोपात्प्रत्ययमात्राश्रयतयान्तरङ्गत्वेन तित्स्वरितमित्येतस्य प्राबल्यात् । अत ऊर्म्यायेत्यादिवदुक्थ्य इत्यत्रापि लक्षणत एव स्वरितत्वं भविष्यतीति किं छान्दसत्वेन । यत्र हि लोपमन्तरेणैव द्व्यच्त्वं तत्र यतोऽनाव इत्येतद्भवति । यथा चेयं येयमिति । लोपनिबन्धनद्व्यच्त्वप्रदेशेषु तु स्वरितेनैव भवितव्यमिति । एवं तर्हि तीर्थ्याय कूप्यायेत्यादौ यदाद्युदात्तत्वं तदेव छान्दसमस्तु । अथात्र तु वर्णादाङ्गं बलीयः । परि. ५५ । इत्यन्तरङ्गत्वेऽपि स्वरितत्वं बाधित्वा लोप एव भविष्यति । तर्ह्युक्थ्य ऊर्म्याय सूर्म्यायेत्यादौ च छान्दसमस्तु । सर्वथैकत्र छान्दस्यान्न मुच्यते ॥३२॥
 >
-> *ayam indraḥ sahasradāvnāṃ sahasra-saṅkhyāka-dhana-pradānāṃ madhye kratur dhana-dānāsya [?] kartā bhavati | prabhūtaṃ dadātīty arthaḥ | tathā varuṇaḥ śaṃsyānāṃ stutyānāṃ madhye ukthyaḥ stutyo bhavati | atiśayena stutya ity arthaḥ || varuṇaḥ unan-pratyayo nittvād ādyudāttaḥ | śaṃsyānām | ṛhaloṇ ṇyat | īḍa-vanda-vṛ-śaṃsa-duhāṃ ṇyataḥ | kratuḥ | kṛñaḥ ketuḥ | u. [1-28] | iti ketuḥ | ukthyaḥ | uktham śastram | tena stutyena tatra bhava ukthyaḥ | bhave chandasi | pā. [4-4-110] | iti yat | yasyeti lopaḥ | … ||5||*
+> *ayamindraḥ sahasradāvnāṃ sahasrasaṃkhyākadhanapradānāṃ madhye kraturdhanadānasya kartā bhavati | prabhūtaṃ dadātītyarthaḥ | tathā varuṇaḥ śaṃsyānāṃ stutyānāṃ madhya ukthyaḥ stutyo bhavati | atiśayena stutya ityarthaḥ || varuṇaḥ unanpratyayo nittvādādyudāttaḥ | śaṃsyānām | śaṃsu stutau | ṛhalorṇyat | titsvaritamiti prāpte īḍavandavṛśaṃsaduhāṃ ṇyata ityādyudāttaḥ | kratuḥ | kṛñaḥ katuḥ | u. 1-78 | iti katuḥ | kittvādguṇābhāve yaṇādeśaḥ | pratyayasvareṇādyudāttaḥ | ukthyaḥ | ukthaṃ śastram | tena stutyatvena tatra bhava ukthyaḥ | bhave chandasi | pā. 4-4-110 | iti yat | yasyeti lopaḥ | atra titsvaritamityetadbādhitvā tīrthyāya kūpyāyetyādivat dvyactvādyato 'nāva iti prāptamādyudāttatvaṃ sarve vidhayaśchandasi vikalpyanta iti na kriyate | nanu yasyeti lopātprāgeva titsvaritatvamastu na hi tadā yato 'nāva ityetadasti dvyactvābhāvāt | ata eva hyūrmyāya ca sūrmyāya cetyādau svaritatvaṃ dṛśyate | na ca paratvānnityatvācca yasyeti lopena prathamato bhāvyamiti vācyam | prakṛtipratyayāśrayādbahiraṅgādyasyeti lopātpratyayamātrāśrayatayāntaraṅgatvena titsvaritamityetasya prābalyāt | ata ūrmyāyetyādivadukthya ityatrāpi lakṣaṇata eva svaritatvaṃ bhaviṣyatīti kiṃ chāndasatvena | yatra hi lopamantareṇaiva dvyactvaṃ tatra yato 'nāva ityetadbhavati | yathā ceyaṃ yeyamiti | lopanibandhanadvyactvapradeśeṣu tu svaritenaiva bhavitavyamiti | evaṃ tarhi tīrthyāya kūpyāyetyādau yadādyudāttatvaṃ tadeva chāndasamastu | athātra tu varṇādāṅgaṃ balīyaḥ | pari. 55 | ityantaraṅgatve 'pi svaritatvaṃ bādhitvā lopa eva bhaviṣyati | tarhyukthya ūrmyāya sūrmyāyetyādau ca chāndasamastu | sarvathaikatra chāndasyānna mucyate ||32||*
 
-**Translation:** "Among the *sahasradāvānaḥ* — those who give thousands of [gifts of] wealth — this Indra is a *kratu*, the performer of acts of giving; the sense is that he gives abundantly. Likewise Varuṇa, among those worthy of praise (*śaṃsyānām*), is *ukthya*, worthy of praise — praiseworthy in the highest degree." The rest is grammar, noted briefly: *varuṇaḥ* (the Uṇādi *unan*, first-syllable accent); *śaṃsyānām* (*śaṃs* with *ṇyat* by P. 3-1-124 *ṛhaloṇ ṇyat*, the accent of P. 6-1-215 *īḍavandavṛśaṃsaduhāṃ ṇyataḥ*); *kratuḥ* (*kṛ* with the Uṇādi *ketu* [Uṇ. 1-28, as read]); *ukthyaḥ* ("what is in the *uktha*, the recitation"; *yat* by P. 4-4-110 *bhave chandasi*; *yasyeti ca*). *(Grammar, noted briefly.)*
+**Translation:** "This Indra, among the *sahasradāvan*, givers of wealth by thousands, is *kratu*, the doer of the giving of wealth: that is, he gives abundantly. Likewise Varuṇa, among the *śaṃsya*, those to be praised, is *ukthya*, praiseworthy: that is, praiseworthy in the highest degree." (Grammatical tail: *varuṇaḥ*, in *unan*, initial udātta as *nit*; *śaṃsyānām*, *śaṃsu stutau*, *ṇyat* by *ṛhalor ṇyat*, the svarita due by *tit svaritam* replaced by initial udātta by *īḍavandavṛśaṃsaduhāṃ ṇyataḥ*; *kratuḥ*, *katu* by *kṛñaḥ katuḥ* (Uṇ. 1-78), no *guṇa* as it is *kit*, *yaṇ*, initial udātta by the suffix accent; *ukthyaḥ*, "*uktha* is the *śastra*; being praised by it, he is *bhava*, there", *yat* by *bhave chandasi* (Pā. 4-4-110), the loss by *yasyeti*. Here the initial udātta, due as in *tīrthyāya*, *kūpyāya* by *yato 'nāvaḥ* because there are two vowels, overriding *tit svaritam*, is not made, since all rules are optional in the Veda. The objection follows: let the svarita of *tit svaritam* come before the loss, when *yato 'nāvaḥ* has no scope, there not being two vowels; hence the svarita in *ūrmyāya ca sūrmyāya ca*; nor may one say that the loss comes first as later and *nitya*, since *tit svaritam*, depending on the suffix alone, is *antaraṅga* and stronger than the loss, which depends on base and suffix; so in *ukthya* too the svarita comes by rule, like *ūrmyāya*, and why appeal to the Veda? *Yato 'nāvaḥ* applies where there are two vowels without a loss, as in *ceyam*, *jeyam*; where the two vowels depend on the loss, there must be svarita. Then let the initial udātta in *tīrthyāya*, *kūpyāya* be the Vedic one. Or, here, by "a rule of the *aṅga* is stronger than one of letters" (*paribhāṣā* 55), the loss will override the svarita even though that is *antaraṅga*; then let *ukthya*, *ūrmyāya*, *sūrmyāya* be Vedic. In every way one does not escape Vedic licence in one place.)
 
-**Grammar pages (pp. 729 lower half–732 upper half), noted briefly.** The Kannada treats: *varuṇaḥ* (*vṛñ* with the Uṇādi *unan*, Uṇ. 3-[?] *kvyādāribhyaḥ unan* [as read]; first-syllable accent by the *n*-mark), *śaṃsyānām* (*śaṃsu stutau*; *ṛhaloṇ ṇyat* P. 3-1-124; *tit svaritam* P. 6-1-185 would give a *svarita*, but the special *īḍavandavṛśaṃsaduhāṃ ṇyataḥ* P. 6-1-214 [as read] gives the first-syllable accent), *kratuḥ* (*ḍukṛñ karaṇe*; *kṛñaḥ ketuḥ* [Uṇ. 1-28]; *lasya taddhite* [*laśakvataddhite* P. 1-3-8] makes the initial *k* of a suffix an *it* — hence the Kannada notes the *k*; *iko yaṇaci* P. 6-1-77 gives *y*; *kṛ* + *tu* with the *ṛ* → *ra* by P. 1-1-51 [guṇa and *raparatva*]; the end accent, by the suffix), and — at great length — *ukthyaḥ*, the grammarians' dispute about its accent: *uktha* means *śastra*, a recitation without chant (the Kannada quotes the Yājñikas' definition *aprāgītamantrasādhyaguṇaviśiṣṭaguṇābhidhānaṃ śastram*); *ukthe bhavaḥ* — *bhave chandasi* P. 4-4-110 gives *yat*; the case-ending is dropped, *uktha* + *ya*; *yasyeti ca* P. 6-4-148 drops the *a*; so *ukthya*; *yat* has the *t*-mark, so by P. 6-1-185 *tit svaritam* the last syllable of the suffix is *svarita*; though *ukthya* is a word with two syllables [*ukth-ya*, in the Kannada's reckoning of *ac*], and so P. 6-1-213 *yato 'nāvaḥ* [the accent of words in *yat* that are not *nau*] would give a first-syllable accent — as in *tīrthya* and *kūpya* — in the Veda, where all rules are optional [P. paribhāṣā *sarve vidhayaś chandasi vikalpyante*], this accent does not apply; the Kannada then sets out the competing claims of *yasyeti ca* (P. 6-4-148), *tit svaritam* and *yato 'nāvaḥ*, applying the paribhāṣās *vipratiṣedhe paraṃ kāryam* (P. 1-4-2), *kṛtākṛtaprasaṅgi nityam*, *antaraṅgaṃ bahiraṅgāt*, *asiddhaṃ bahiraṅgam antaraṅge* and *vārṇād āṅgaṃ balīyaḥ*, and concludes — after about two-and-a-half pages — that *ukthya* in *ukthyaḥ*, as in *ūrmyāya* and *sūrmyāya*, should have the *svarita* accent as given by Pāṇini himself, and *tīrthya*'s first-syllable accent is then the Vedic exception; "in some place or other one must grant that something is Vedic; in no way can both be escaped". ॥5॥ *(A very crowded run; outline only; numerals as read from small print; pointers only.)*
+### Page 729 — Rik 5: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 729)*
+**॥ Prati-padārthaḥ ॥**
 
-**(अयम्) इन्द्रः ((ayam) indraḥ)** — [this] Indra [who, having accepted the oblations described above, gives us wealth] | **सहस्रदाव्नाम् (sahasradāvnām)** — among those who give thousands (of wealth) | **क्रतुः (kratuḥ)** — the performer [of giving] | **भवति (bhavati)** — becomes | **वरुणः (varuṇaḥ)** — Varuṇa | **शंस्यानाम् (śaṃsyānām)** — among those who are praised | **उक्थ्यः (ukthyaḥ)** — [especially] praiseworthy | **भवति (bhavati)** — becomes.
+(**अयम् (ayam)**) **इन्द्रः (indraḥ)** — Indra (who accepts the oblations and the rest mentioned above and brings us good) | **सहस्रदाव्नाम् (sahasradāvnām)** — among those who give (wealth) by thousands | **क्रतुः (kratuḥ)** — the doer (of the giving of wealth) | **भवति (bhavati)** — becomes | **वरुणः (varuṇaḥ)** — Varuṇa | **शंस्यानाम् (śaṃsyānām)** — among those who are praised | **उक्थ्यः (ukthyaḥ)** — praiseworthy (especially) | **भवति (bhavati)** — becomes.
 
 **॥ Bhāvārthaḥ ॥**
 
-As described before, Indra, satisfied, gives us wealth as we need it; in the same way Varuṇa is the one especially praised by us.
+Indra, satisfied as described before, gives us as much wealth as we need. In the same way Varuṇa too is especially praised by us.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Indra is a giver among the givers of thousands; Varuna is to be praised among those who deserve to be praised.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 729)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The sense of this rik is clearer if the meaning given above is varied a little: Indra is famed among those who give wealth and other things by the thousand, and Varuṇa among those who are much praised; their acts are worthy of praise.
+If the sense given above for this ṛk is changed slightly, the intent fits well: Indra is renowned among those who give wealth and the like by thousands, and Varuṇa among those who are greatly praised; their deeds are worthy of praise.
 
-**क्रतुः (kratuḥ)** — among the words for 'action' beginning with *apaḥ*, *aḥnaḥ* [the print "ಅಪಃ ಅಹ್ನಃ"], *kratu* is read (Ni. 2-1 [?]); so *kratu* means "action". Here it means the daring action done by Indra and Varuṇa, or the act of giving wealth to people.
+**Kratuḥ**: since the word *kratu* is read among the twenty-six action-names, *apaḥ*, *apnaḥ* and so on (Ni. "3-2" [as read, ?]), *kratu* means action: here, the daring deed that Indra and Varuṇa do, or the deed of giving wealth and the like to people.
 
-**उक्थ्यः (ukthyaḥ)** — *uktham śastram | tena stutyatvena tatra bhava ukthyaḥ*: *uktha* is a *śastra* — a mantra recited without singing; "worthy of being praised by reciting that mantra" is the sense of *ukthya*. Here the sense is that the acts of giving wealth and the like done by Indra and Varuṇa are worthy of praise.
+**Ukthyaḥ**:
+
+> उक्थं शस्त्रम् । तेन स्तुत्यत्वेन तत्र भव उक्थ्यः ।
+>
+> *ukthaṃ śastram | tena stutyatvena tatra bhava ukthyaḥ |*
+
+("*Uktha* is the *śastra*; being praised by it, he who is there is *ukthya*.") *Uktha* means the *śastra* mantra; *ukthya* means fit to be praised by reciting that mantra. Here the intent is that the deed of Indra and Varuṇa in giving wealth and the like is praiseworthy.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 729–732, noted briefly)*
+
+**वरुणः (*varuṇaḥ*)**: formed with the suffix *unan* after the root *vṛ* by "kṝvṝdāribhya unan" (Uṇ. sū. "3-53" [?]). Initial udātta by the *nit* accent.
+
+### Page 730 — Rik 5: grammar
+
+**शंस्यानाम् (*śaṃsyānām*)**: the root *śaṃsu stutau*. By "ṛhalor ṇyat" (Pā. sū. 3-1-124) *ṇyat* comes. By "tit svaritam" (Pā. sū. 6-1-185) svarita is due; but by its exception "īḍavandavṛśaṃsaduhāṃ ṇyataḥ" (Pā. sū. 6-1-214) *śaṃsya*, ending in the suffix *ṇyat*, is initial udātta.
+
+**क्रतुः (*kratuḥ*)**: by "kṛñaḥ katuḥ" (Uṇ. sū. "1-77" [?]; the bhāṣya gives 1-78) the suffix *katu* comes after *ḍukṛñ karaṇe*. So after the root *kṛ* the suffix *katu*; by *laśakv ataddhite* the *k* at the start of the suffix is called *it* and dropped; the suffix being *kit*, *guṇa* does not come. By "iko yaṇ aci" (Pā. sū. 6-1-77) the substitute *yaṇ*, that is, *r* for *ṛ*: *kratu*. This is final udātta by the suffix accent [as printed; the bhāṣya says initial udātta].
+
+**उक्थ्यः (*ukthyaḥ*)**: *uktha* means *śastra*. The *yājñikas* give the definition of *śastra* as
+
+> अप्रगीतमन्त्रसाध्यगुणिनिष्ठगुणाभिधानं शस्त्रम्
+>
+> *apragītamantrasādhyaguṇiniṣṭhaguṇābhidhānaṃ śastram*
+
+("*Śastra* is the declaration of the qualities residing in the one who has them, accomplished by mantras not sung.") Varuṇa is praised by this *śastra*. If the analysis *ukthe bhavaḥ* is made, by "bhave chandasi" (Pā. sū. 4-4-110) (after a locative-final, in the sense *bhava*, the suffix *yat* comes) *yat* comes; *luk* for the locative singular suffix inside the stem: *uktha* + *ya*. By "yasyeti ca" (Pā. sū. 6-4-148) (when *ī* or a *taddhita* follows, the *i* and *a* belonging to an *aṅga* called *bha* drop) the *a* drops when the *taddhita* *yat* follows: *ukthya*. The suffix *yat* has *t* as *it*; so by "tit svaritam" (Pā. sū. 6-1-185) (the last letter of a suffix with *t* as *it* is svarita) the svarita comes. Although here the *yat*-final *ukthya* has two vowels (*ac*), and so, just as initial udātta comes in *tīrthya* of *tīrthyāya* and *kūpya* of *kūpyāya* by "yato 'nāvaḥ" (Pā. sū. 6-1-213), the exception to *tit svaritam* (a two-vowel word ending in a *yat* enjoined after a word other than *nau* is initial udātta), initial udātta would be due here too by *yato 'nāvaḥ*; yet by "sarve vidhayaś chandasi vikalpyante" (*paribhāṣā* 35) (in the Veda all rules are optional) *yato 'nāvaḥ* too is optional, so it does not come here.
+
+But with *uktha* + *ya*, let the svarita of *tit svaritam* come first, before the loss of *a* by *yasyeti ca*. Now, since there are three vowels, the exception *yato 'nāvaḥ* has no scope at all. Yet *yasyeti ca* is read later than *tit svaritam* in the Aṣṭādhyāyī; so by "vipratiṣedhe paraṃ kāryam" (Pā. sū. 1-4-2) the later loss by *yasyeti* must come first. Moreover, *yasyeti ca* is *nitya*, that is *kṛtākṛtaprasaṅgī*: whether the rule *tit svaritam*
+
+### Page 731 — Rik 5: grammar
+
+has applied or not, it comes. *Tit svaritam* comes if the loss by *yasyeti ca* has not come; if the loss has come, it is overridden by *yato 'nāvaḥ* and does not come; so it is not *kṛtākṛtaprasaṅgī*. (By the *paribhāṣā*
+
+> यस्य च लक्षणान्तरेण निमित्तं विहन्यते तदप्यनित्यम्
+>
+> *yasya ca lakṣaṇāntareṇa nimittaṃ vihanyate tadapyanityam*
+
+("That too whose condition is destroyed by another rule is not *nitya*"), its non-*nitya* status is established here.) So it is not *nitya*. Thus, being *nitya* and being later, *yasyeti ca* is the stronger; so it may be said that the loss must come first by *yasyeti ca*, and *tit svaritam* has no room. Yet *tit svaritam* depends on the suffix alone, so it needs little, or is not conditioned by what follows, and is *antaraṅga*; *yasyeti ca* comes relying on both base and suffix, so it needs much, or is conditioned by what follows, and is *bahiraṅga*. By "paranityāntaraṅgāpavādānām uttarottaraṃ balīyaḥ" (*paribhāṣā* 38) the *antaraṅga* rule is stronger than both the later and the *nitya*. So by "asiddhaṃ bahiraṅgam antaraṅge" (*paribhāṣā* 50), when the *antaraṅga* *tit svaritam* is made, the *bahiraṅga* *yasyeti ca* counts as not done. So *tit svaritam* comes first, before *yasyeti ca*. That is why the svarita stands in places such as *ūrmyāya ca sūrmyāya ca*. In the same way in *ukthya* the svarita is established by Pāṇini's sūtra itself. That being so, why establish the svarita in *ukthya* by relying on the *paribhāṣā* *sarve vidhayaś chandasi*? If it is said that the sūtra *yato 'nāvaḥ* has scope where there is a *yat*-final of two vowels without the loss by *yasyeti ca*, in places such as *ceyam*, *jeyam*, and that in instances where two vowels are got after the loss, svarita alone is right; if the svarita is justified here in this proper way, then in *tīrthya* and *kūpya* too, since there are two vowels after the loss, svarita ought to come; so it must be said that initial udātta comes there as a Vedic form. For this there is "vārṇād āṅgaṃ balīyaḥ" (*paribhāṣā* 55): a rule in the section on the *aṅga* is stronger than a rule conditioned by letters. *Yasyeti ca*, being in the *aṅga* section, is stronger than *tit svaritam*. So first the loss of *a* by *yasyeti ca*, then initial udātta is established by *yato 'nāvaḥ*, the exception to *tit svaritam*; it may be said that here no Vedic form need be stated. Then in instances such as *ukthyaḥ*, *ūrmyāya*, *sūrmyāya*, the svarita must be justified by saying that *yato 'nāvaḥ* does not apply, as a Vedic form. In every way one must accept Vedic licence in some one place. If the svarita in *ukthya*, *sūrmya* and the rest is justified as established by the *śāstra*, the initial udātta in *tīrthya* and the rest must be justified as Vedic. If the initial udātta in places such as *tīrthya* is justified as established by the *śāstra*,
+
+### Page 732 (upper) — Rik 5: grammar (end)
+
+the svarita in places such as *ukthya*, *sūrmya* must be justified as Vedic. In any case one cannot escape stating Vedic licence in one of the two places.
+
+**॥५॥**
+
+---
 
 ### Pages 732–735 — Sūkta 17, Rik 6
 
