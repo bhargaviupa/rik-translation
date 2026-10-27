@@ -7257,31 +7257,33 @@ O Indra! You always protect people like us. And in particular, to the sacrificer
 
 ### Page 338 — Rik 9: grammar
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 338–339, Kannada; characterized, numbers as printed)*
 
-**मावते (*māvate*)** — "equal to me." A *vārttika* under the sūtra on *vatup* (Pā. 5-2-39 [?]) prescribes that in the Veda *vatup* follows *yuṣmad* and *asmad* in the sense of similarity; so *asmad* + *vatup*; *ma* replaces the end of the stem (Pā. 7-2-98 [?]), and the *ma* + *a* + *vatup* combine by *pararūpa* (Pā. 6-1-94 [?]); the *d* of the pronoun becomes *a* by the rule on *dṛk*, *dṛś*, *vatu* (Pā. 6-3-89/91 [?]); the *savarṇa-dīrgha* gives *māvat*; the dative singular *ṅe* gives *māvate*; *vatup* is *pit*, and *ṅe* is *sup*, so both are unaccented (Pā. 3-1-4 [?]), and the stem keeps the base accent (final-udātta). **सद्यः (*sadyaḥ*)** — *samāne ahani* ("on the same day") with *sa* for *samāna* and the suffix *dyas*, irregularly formed (Pā. 5-3-22 [?]); the Mahābhāṣya states this in the sentence "*sa-bhāvo dyus ca āpasi*" [?]; final-udātta by the suffix. **चित् (*cit*)** — unaccented by "cādayo 'nudāttāḥ" (Phiṭ-sūtra [?]). **सन्ति (*santi*)** — root *as*, *laṭ* third plural *jhi*, *jh* → *ant* (Pā. 7-1-3 [?]); *śap* dropped by "ādiprabhṛtibhyaḥ śapaḥ" (Pā. 2-4-72 [?]); *śnasor allopaḥ* (Pā. 6-4-111 [?]) drops the *a* of *as*; so *santi*; the finite verb is initial-udātta here by the suffix-accent rule (Pā. 3-1-3 [?]) *(the printed page breaks off here; the grammar continues on p. 339)*. *(Sūtra numbers read from small print; pointers only.)*
+**मावते** — "mat-sadṛśāya," like me. Under **यत्तदेतेभ्यः परिमाणे वतुप्** (पा. सू. "५-२-९" as printed, i.e. 5-2-39) the vārttika **वतुप्प्रकरणे युष्मदस्मद्भ्यां छन्दसि सादृश्य उपसंख्यानम्** (पा. सू. ५-२-३९-१): in the "vatup" section, after "yuṣmad, asmad" in the Veda "vatup" in the sense of likeness: "asmad + vatup"; **प्रत्ययोत्तरपदयोश्च** (पा. सू. ७-२-९८) "ma" for "asma": "ma + ad + vatup"; **अतो गुणे** (पा. सू. ६-१-९७) the later form: "mad + vatup"; **आ सर्वनाम्नः** (पा. सू. ६-३-९१), with **दृग्दृशवतुषु** (पा. सू. ६-३-८९) carried on, "ā" for the final of a pronoun before "dṛk, dṛś, vatu": "ma + ā + vat"; **अकः सवर्णे दीर्घः** (पा. सू. ६-१-१०१): "māvat"; dative "ṅe": "māvate"; "vatup," "p"-marked, and "ṅe," a sup, are unaccented by **अनुदात्तौ सुप्पितौ** (पा. सू. ३-१-४); "mā" end-acute by the stem accent.
 
+**सद्यः** — "samāne ahani": **सद्यःपरुत्परार्यैषमः…** (पा. सू. ५-३-२२) forms by nipātana "sa" for "samāna" and the affix "dyas" in the sense "day"; the Mahābhāṣya makes this plain with "samānasya sabhāvo dyaś cāhani"; end-acute by the affix accent.
+
+**चित्** — **चादयोऽनुदात्ताः** (फि. सू. "८-४" as printed), unaccented.
+
+**सन्ति** — "as," "laṭ," third plural "jhi"; **झोऽन्तः** (पा. सू. "७-२-३" as printed, i.e. 7-1-3) "ant": "as + anti"; **कर्तरि शप्** (पा. सू. ३-१-६८), elided by **अदिप्रभृतिभ्यः शपः** (पा. सू. २-४-७२); **श्नसोरल्लोपः** (पा. सू. ६-४-१११) loss of the "a" of "as" before a "kit/ṅit" sārvadhātuka: "santi." Here the "tiṅ" "anti" is first-syllable acute by **आद्युदात्तश्च** (पा. सू. ३-१-३) … *(continues on p. 339)*
 ### Page 339 — Rik 9 grammar closes; Sūkta 8, Rik 10
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
-
-Closing the grammar of **सन्ति (*santi*)**: the initial vowel of the finite verb is udātta; since the *śap* has been dropped by *luk*, the verb *asti* would not be unaccented as a *sārvadhātuka* after an *ā-d-upadeśa* stem by "tāsyanudāttenṅid-adupadeśāl lasārvadhātukam anudāttam" (Pā. 6-1-186 [?]) — *as* is not an *a*-ending-by-teaching (*ādupadeśa*) root in the sense required — but the principle that a suffix that has been dropped still counts (*pratyayalope pratyayalakṣaṇam*, Pā. 1-1-62 [?]) would restore the accent-blocking effect; this is blocked by "na lumatāṅgasya" (Pā. 1-1-63 [?]), and the source argues at length (with the *paribhāṣā* "varṇāśraye nāsti pratyayalakṣaṇam," Paribhāṣā [?]) that *pratyayalakṣaṇa* does not apply to a rule based on letters; so the verb is accordingly not made unaccented by that rule. **दाशुषे (*dāśuṣe*)** — the process was described under the earlier mantra (Rik 8). *(Sūtra numbers read from small print; pointers only.)*
-
-**॥९॥**
+*(Page header: "A. 1, A. 1, Va. 16.")* **सन्ति** (concluded): … first-syllable acute. Since "śap" is elided by "luk," the "anti" does not follow an "a"-taught base, so **तास्यनुदात्तेन्ङिददुपदेशात्…** (पा. सू. ६-१-१८६) does not make the lasārvadhātuka "anti" unaccented. Though "śap" is elided, by **प्रत्ययलोपे प्रत्ययलक्षणम्** (पा. सू. १-१-६२) the effect of the affix would still hold; and **न लुमताङ्गस्य** (पा. सू. १-१-६३) — after a "luk, ślu, lup" loss, operations on the aṅga conditioned by the lost affix do not occur — does not stop it, since the accent rule concerns the lasārvadhātuka, not the aṅga. So one might say the unaccentedness conditioned by "adupadeśa" follows by pratyayalakṣaṇa. That is not right: "adupadeśa" means having a short "a" at the time of teaching — that is "śap"; the unaccentedness would rest on the letter "a" of "śap," and by **वर्णाश्रये नास्ति प्रत्ययलक्षणम्** (परि. भा. २१) pratyayalakṣaṇa does not apply to an operation resting on a letter; so the sārvadhātuka is not after an "a"-taught base, and no unaccentedness arises. **दाशुषे** — explained under the earlier mantra. **॥९॥**
 
 ---
 
 ### Page 339 — Sūkta 8, Rik 10 (the last)
 
+*(Saṃhitā accents as printed; Pada unaccented. In the second line strokes stand over "drā," "ma" and the final "ye"; placement doubtful, hence [accent ?].)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> एवाह्यस्य काम्या स्तोम उक्थं च शंस्या ।
-> इन्द्राय सोमपीतये ॥१०॥
+> ए॒वा ह्य॑स्य॒ काम्या॒ स्तोम॑ उ॒क्थं च॒ शंस्या॑ ।
+> इन्द्रा॑य॒ सोम॑पीतये॑ ॥१०॥ [accent ?]
 >
-> *evāhy asya kāmyā stoma uktham ca śaṃsyā |*
-> *indrāya somapītaye ||10||*
+> *evā́ hy asya kā́myā stóma uktháṃ ca śáṃsyā |*
+> *índrāya sómapītáye ||10||* [accent ?]
 
-*(The Saṃhitā text prints* evā hy asya *as one run,* एवाह्यस्य*, as in the print; the pada text below separates it.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
