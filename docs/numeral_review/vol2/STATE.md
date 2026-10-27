@@ -46,9 +46,11 @@ Saṃhitā block), `addnote.py` (note on a printed page; handles "### Pages N–
 ## Cross-check with the reviewer worklist (`publish/review/All_volumes_review_worklist.xlsx`, Oct 27)
 
 Its reviewer columns (reading / decision / comment) are empty for every volume — no outside decisions to import.
-Vol 2 rows on printed pp. 1–186: 564. Matched against the current file: 260 resolved by this pass; the rest are
-either the header-note conventions above or the open readings listed below (every one of them was found in the
-worklist; the worklist adds none that this list lacks, except p. 112 "vocēyuḥ" [?], added below). The worklist's page
+Vol 2 rows on printed pp. 1–186: 564. 260 of them could be matched word-for-word in the current file and are
+resolved; 75 are still there (all are either the header-note conventions above or readings in the lists below); the
+other 229 sit in passages this pass rewrote, so they cannot be matched by their text. For those, the current file
+itself was scanned: every [?] still left on pp. 1–186 is listed below or under To do item 3, so none of the 229 is
+open without being listed. The worklist added one reading the lists lacked (p. 112 "vocēyuḥ" [?], now listed). The worklist's page
 numbers can be off by a page or two (e.g. its "pp. 168–169" Uṇādi "4-135" [?] is p. 214 in the file, next batch).
 
 ## Open readings (the print does not settle them; kept [?])
