@@ -14667,17 +14667,19 @@ In its place, by "supāṃ supo bhavanti" (Pā. sū. Vā. 3-1-39-1 [as printed; 
 
 ---
 
-### Pages 692–694 — Sūkta 16, Rik 6
+### Page 692 (lower) — Sūkta 16, Rik 6
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इमे सोमास इन्दवः सुतासो अधि बर्हिषि ।
-> ताँ इन्द्र सहसे पिब ॥६॥
+> इ॒मे सोमा॑स॒ इन्द॑वः सु॒तासो॒ अधि॑ ब॒र्हिषि॑ ।
+> ताँ इ॑न्द्र॒ सह॑से पिब ॥६॥ [accent ?]
 >
-> *ime somāsa indavaḥ sutāso adhi barhiṣi |*
-> *tām̐ indra sahase piba ||6||*
+> *imé sómāsa índavaḥ sutā́so ádhi barhíṣi |*
+> *tā́m̐ indra sáhase piba ||6||* [accent ?]
 
-*(The Saṃhitā prints the nasalised* tām̐ indra*; the Pada has* tān*.)*
+*(Bars under इ (इमे), स (सोमास), सु, सो (सुतासो), ब and in line 2 under द्र; strokes over मा, द, धि, षि and in line 2 over इ and ह. No bar is printed before the stroke over इ in line 2. The Saṃhitā prints the nasalised ताँ; the Pada has तान्.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -14687,33 +14689,57 @@ In its place, by "supāṃ supo bhavanti" (Pā. sū. Vā. 3-1-39-1 [as printed; 
 > *ime | somāsaḥ | indavaḥ | sutāsaḥ | adhi | barhiṣi ||*
 > *tān | indra | sahase | piba ||6||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+### Page 693 — Rik 6: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 693; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> इन्दुशब्द उन्दी क्लेदन इति धातोरुत्पन्नः । इन्दवः क्लेदनयुक्ता इमे वेद्यामवस्थिताः सोमासस्तत्तत्पात्रगताः सोमा बर्हिषि यज्ञेऽधिकेन सुतासः । अभिषुताः । हे इन्द्र सहसे बलार्थं तान् सोमान्पिब ॥ सोमासः । आज्जसेरसुगिति जसोऽसुगागमः । इन्दवः । उक्तम् । सुतासः । पूर्ववदसुक् । संहितायां प्रकृत्यान्तःपादमव्यपरे इति प्रकृतिभावात्स्वरपूर्वत्वं न भवति । बर्हिषि । बृंहेर्नलोपश्च । उ. [२-१००?] । इसिस् । प्रत्ययस्वरः । तां इन्द्रेत्यत्र दीर्घादटि समानपाद इति रुत्वम् । यत्वयलोपौ । अनुनासिकः । सहसे । षह मर्षणे । असुनन्तो नित्त्वादाद्युदात्तः ॥६॥
+*(The earlier reading अधिकेन is corrected from the print: यज्ञेऽध्याधिक्येन, i.e. *adhi* glossed by *ādhikyena*.)*
+
+> इन्दुशब्द उन्दी क्लेदन इति धातोरुत्पन्नः । इन्दवः क्लेदनयुक्ता इमे वेद्यामवस्थिताः सोमासस्तत्तत्पात्रगताः सोमा बर्हिषि यज्ञेऽध्याधिक्येन सुतासः । अभिषुताः । हे इन्द्र सहसे बलार्थं तान् सोमान् पिब ॥ सोमासः । आज्जसेरसुगिति जसोऽसुगागमः । इन्दवः । उक्तम् । सुतासः । पूर्ववदसुक् । संहितायां प्रकृत्यान्तःपादमव्यपर इति प्रकृतिभावात्स्वरपूर्वत्वं न भवति । बर्हिषि । बृंहेर्नलोपश्च । उ. २-१०० । इतीस् । प्रत्ययस्वरः । ताँ इन्द्रेत्यत्र दीर्घादटि समानपाद इति रुत्वम् । यत्वयलोपौ । अनुनासिकः । सहसे । षह मर्षणे । असुनन्तो नित्त्वादाद्युदात्तः ॥
 >
-> *indu-śabda undī kledana iti dhātor utpannaḥ | indavaḥ kledana-yuktā ime vedyām avasthitāḥ somāsas tat-tat-pātra-gatāḥ somā barhiṣi yajñe 'dhikena sutāsaḥ | abhiṣutāḥ | he indra sahase balārthaṃ tān somān piba || somāsaḥ | āj jaser asug iti jaso 'sugāgamaḥ | indavaḥ | uktam | sutāsaḥ | pūrvavad asuk | saṃhitāyāṃ prakṛtyāntaḥ-pādam avyapare iti prakṛtibhāvāt svara-pūrvatvaṃ na bhavati | barhiṣi | bṛṃher nalopaś ca | u. [2-100?] | isis | pratyaya-svaraḥ | tām̐ indretyatra dīrghād aṭi samānapāda iti rutvam | yatva-yalopau | anunāsikaḥ | sahase | ṣaha marṣaṇe | asunanto nittvād ādyudāttaḥ ||6||*
+> *induśabda undī kledana iti dhātorutpannaḥ | indavaḥ kledanayuktā ime vedyāmavasthitāḥ somāsastattatpātragatāḥ somā barhiṣi yajñe 'dhyādhikyena sutāsaḥ | abhiṣutāḥ | he indra sahase balārthaṃ tān somān piba || somāsaḥ | ājjaserasugiti jaso 'sugāgamaḥ | indavaḥ | uktam | sutāsaḥ | pūrvavadasuk | saṃhitāyāṃ prakṛtyāntaḥpādamavyapara iti prakṛtibhāvātsvarapūrvatvaṃ na bhavati | barhiṣi | bṛṃhernalopaśca | u. 2-100 | itīs | pratyayasvaraḥ | tām̐ indretyatra dīrghādaṭi samānapāda iti rutvam | yatvayalopau | anunāsikaḥ | sahase | ṣaha marṣaṇe | asunanto nittvādādyudāttaḥ ||*
 
-**Translation:** "The word *indu* is formed from the root *undī* 'to wet'. *Indavaḥ* — wet, flowing: these soma-juices (*somāsaḥ*), standing in the several vessels on the altar, are *sutāsaḥ* — pressed — on the *barhis* (the sacred grass) at the sacrifice [the word before 'pressed', printed *adhikena*, is as read and uncertain: the Kannada takes *adhi* as 'in abundance']. O Indra! Drink those soma-juices for strength (*sahase*)." The rest is grammar, noted briefly: *somāsaḥ* (the ending *jas* takes the augment *asuk* by P. 7-1-50 *āj jaser asuk*); *indavaḥ* (explained at Rik 14.4); *sutāsaḥ* (*asuk* as before; in the Saṃhitā, by P. 6-1-115 *prakṛtyāntaḥpādam avyapare*, the *o* before *a* keeps its form, so the *a* is not elided); *barhiṣi* (*bṛh* with the Uṇādi *isi*, the *n* dropped); *tām̐ indra* (*n* → *ru* by P. 8-3-9; *y* dropped, nasalisation); *sahase* (*ṣah* 'to endure', the suffix *asun*, first-syllable accent). *(Grammar, noted briefly; the Uṇādi number is as read and uncertain.)*
+**Translation:** "The word *indu* is formed from the root *undī kledane*, to wet. *Indavaḥ*, wet: these *somāsaḥ*, soma juices standing on the altar and held in their several vessels, are *sutāsaḥ*, pressed, at the sacrifice, *barhiṣi*, in abundance, *adhi*. O Indra, drink those soma juices for strength, *sahase*." (Grammatical tail: *somāsaḥ*, *asuk* for *jas* by *āj jaser asuk*; *indavaḥ*, explained; *sutāsaḥ*, *asuk* as before, and in the Saṃhitā no loss of the following vowel, by the *prakṛtibhāva* of *prakṛtyāntaḥpādam avyapare*; *barhiṣi*, *is* by *bṛṃher nalopaś ca* (Uṇ. 2-100), the suffix accent; *tām̐ indra*, *ru* by *dīrghād aṭi samānapāde*, *y* and its loss, the nasal; *sahase*, *ṣaha marṣaṇe*, an *asun* form, initial udātta as *nit*.)
 
-**Grammar pages (p. 694), noted briefly.** The Kannada treats *somāsaḥ* (*suñ* 'to press', *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; the Uṇādi *man* after *su*, Uṇ. 1-142 [as read]; guṇa by P. 7-3-84; the *n*-mark gives first-syllable accent; *jas* with *asuk* by P. 7-1-50, and the *asuk*'s *k* mark, being *kit*, makes it the final part of the stem by P. 1-1-46 *ādyantau ṭakitau*; *pūrvasavarṇadīrgha*; *ru* and *visarga*), *indavaḥ* (explained at 14.4), *sutāsaḥ* (*suñ* + *kta*; no *iṭ*, by P. 7-2-10 *ekāca upadeśe 'nudāttāt*; *asuk*; *ru* → *u* by P. 6-1-113 *ato roraplutād aplute* and guṇa P. 6-1-87 *ād guṇaḥ*, giving *sutāso adhi*; the question whether *pūrvarūpa* by P. 6-1-109 *eṅaḥ padāntād ati* should apply is answered by P. 6-1-115 *prakṛtyāntaḥpādam avyapare*, which keeps the *o* unchanged; "but if the following is *v* or *y* [aspirate-initial?] this *prakṛtibhāva* does not apply; here it applies, so no *pūrvarūpa*"), *barhiṣi* (*bṛhi vṛddhau* 'to grow'; *idit*, so the *num* augment by P. 7-1-58 *idito num dhātoḥ*; *bṛnh* + *isi* by Uṇ. 2-[?] *bṛṃher nalopaś ca*; *bṛh* + *is*, *n* dropped; guṇa by P. 7-3-86 *pugantalaghūpadhasya ca*; *ur aṇ raparaḥ*; *barhis*; suffix accent, so end-accent; locative *ṅi* → *i*; *ādeśapratyayayoḥ* P. 8-3-59 gives *ṣ*), and *tām̐ indra* (*tān* + *indra*: *dīrghād aṭi samānapāde* P. 8-3-9 gives *ru* for the *n*; *ato 'ṭi nityam* [?] P. 8-3-3 nasalises the preceding vowel; *bho-bhago-agho-apūrvasya yo 'śi* P. 8-3-17 changes *ru* to *y*; *lopaḥ śākalyasya* P. 8-3-19 drops *y*; so *tām̐ indra*), and *sahase* (*ṣah marṣaṇe*, *dhātvādeḥ ṣaḥ saḥ*; *sarvadhātubhyo 'sun* Uṇ. 4-[?]; accent; dative *ṅe*). ॥6॥ *(Numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 693)*
-
-**सुतासः (sutāsaḥ)** — made ready, pressed | **इन्दवः (indavaḥ)** — [full of] juice (or: flowing in drops) | **इमे (ime)** — these [that are on the altar] | **सोमासः (somāsaḥ)** — soma-juices [lying in various vessels] | **बर्हिषि (barhiṣi)** — at the sacrifice | **अधि (adhi)** — in abundance (put on the sacred grass) | **इन्द्र (indra)** — O Indra | **सहसे (sahase)** — for the increase of strength | **तान् (tān)** — those soma-juices | **पिब (piba)** — drink.
+**सुतासः (sutāsaḥ)** — prepared | **इन्दवः (indavaḥ)** — liquid (or, dripping) | **इमे (ime)** — these (on the altar) | **सोमासः (somāsaḥ)** — soma juices (in the several vessels) | **बर्हिषि (barhiṣi)** — in the sacrifice | **अधि (adhi)** — in abundant measure (in a pure, special way) are placed | **इन्द्र (indra)** — O Indra | **सहसे (sahase)** — for the increase of strength | **तान् (tān)** — those soma juices | **पिब (piba)** — drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-The soma-juices lying in the various vessels on this altar are not drawn in the ordinary way; they have been prepared with mantras as a part of the sacrifice. O Indra, drink them for the increase of your strength.
+The soma juice in the various vessels on this altar was not squeezed out in an ordinary way; it has been prepared with mantras as a part of the sacrifice. O Indra, drink it for the increase of your strength.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > These dripping Soma juices are effused upon the sacred grass; drink them Indra, to recruit your strength.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 693)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**इन्दवः (indavaḥ)** — when the soma-creeper is crushed with stones and the juice pressed out, the juice trickles in drops. There is a convention of calling the soma-juice that thus trickles by the name *indavaḥ*. This word is formed from the root *undī* "to wet".
+**Indavaḥ**: when the soma plant is crushed with stones and the juice squeezed out, the juice oozes in drops. Soma juice dripping in this way is by usage called *indavaḥ*. The word is formed from the root *undī kledane*.
+
+### Page 694 — Rik 6: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 694–695, noted briefly)*
+
+**सोमासः (*somāsaḥ*)**: *ṣuñ abhiṣave*; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. sū. 6-1-64); after *su*, *man* by "arti-stu-su-…" (Uṇ. sū. "1-13[?]" [?]); *guṇa* by *sārvadhātukārdhadhātukayoḥ*: *soma*, initial udātta by the *nit* accent. After it *jas*: *soma* + *as*; by "āj jaser asuk" (Pā. sū. 7-1-50) the augment *asuk* for *jas*, which, being *kit*, comes as its first part by "ādyantau ṭakitau" (Pā. sū. 1-1-46): *soma* + *asas*; lengthening of the like vowel; *somāsas*, *ru* and visarga.
+
+**इन्दवः (*indavaḥ*)**: explained at the mantra "pra vo bhriyanta indavaḥ" (Ṛ. saṃ. 1-14-4).
+
+**सुतासः (*sutāsaḥ*)**: the root *ṣuñ*; *s* for *ṣ*; *kta* by *niṣṭhā*; the augment *iṭ*, due by *ārdhadhātukasyeḍ valādeḥ*, is barred by "ekāca upadeśe 'nudāttāt". After *suta*, *jas*; *asuk* as before; lengthening; *ru* and visarga: *sutāsaḥ*. In the Saṃhitā, with *sutāsas adhi*, *ru* for *s* by "sasajuṣo ruḥ" (Pā. sū. "8-2-6[?]" [?]): *sutāsar* + *adhi*; *u* for *ru* by *ato ror aplutād aplute*; *guṇa* by *ād guṇaḥ*: *sutāso* + *adhi*. By "eṅaḥ padāntād ati" (Pā. sū. 6-1-109) the *pūrvarūpa* would come; but by "prakṛtyāntaḥpādam avyapare" (Pā. sū. 6-1-115) *e* and *o* in the middle of a *pāda* keep their form before a vowel, unless that vowel is followed by *v* or *y*; so here they keep it, and there is no *pūrvarūpa*.
+
+**बर्हिषि (*barhiṣi*)**: the root *bṛhi vṛddhau*; being *idit*, it takes the augment *num* by "idito num dhātoḥ" (Pā. sū. 7-1-58): *bṛnh*. By "bṛṃher nalopaś ca" (Uṇ. sū. "2-[?]" [?]; the bhāṣya gives 2-100), after *bṛhi* the suffix *isi* comes and the *n* is dropped: *bṛh* + *is*; the *laghūpadha-guṇa* by *pugantalaghūpadhasya ca*, followed by *r* by *uraṇ raparaḥ*: *barhis*, final udātta by the suffix accent. Locative singular *ṅi*; by "ādeśapratyayayoḥ" (Pā. sū. "8-3-5[?]" [?]) *ṣ* for the *s* belonging to the suffix: *barhiṣi*.
+
+**ताँ इन्द्र (*tām̐ indra*)**: with *tān* + *indra* in the Saṃhitā, *ru* for the *n* by "dīrghād aṭi samānapāde" (Pā. sū. 8-3-9); by "āto 'ṭi nityam" (Pā. sū. 8-3-3)
+
+### Page 695 (upper) — Rik 6: grammar (end)
+
+the nasal for the *ā*; by "bhobhagoaghoapūrvasya yo 'śi" (Pā. sū. 8-3-17) *y* for *ru*: *tām̐y* + *indra*; the *y* dropped by *lopaḥ śākalyasya*: *tām̐ indra*.
+
+**सहसे (*sahase*)**: *ṣaha marṣaṇe*; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. sū. 6-1-64); the suffix *asun* by "sarvadhātubhyo 'sun" (Uṇ. sū. "4-[?]" [?]): *sahas*, initial udātta by the *nit* accent. Dative singular *ṅe*: *sahase*.
+
+**॥६॥**
+
+---
 
 ### Pages 695–697 — Sūkta 16, Rik 7
 
