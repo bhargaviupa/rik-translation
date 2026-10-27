@@ -1,7 +1,7 @@
 # Vol 3 numeral + [?] + accent pass — state
 
 Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
-**Last PDF page done: none (batch PDF 1–100 in progress: done through PDF 92 upper, printed p. 78 upper, end of Ṛk 22.5; edits in `review/edits_PDF1-100.txt`).** Next: PDF 92 (p. 78 lower, Ṛk 22.6).
+**Last PDF page done: none (batch PDF 1–100 in progress: done through PDF 96 upper, printed p. 82 upper, end of Ṛk 22.6; edits in `review/edits_PDF1-100.txt`).** Next: PDF 96 (p. 82 lower, Ṛk 22.7).
 
 Rendering note: `view.py` crops the right edge of these scans; use full-page renders (pdftoppm at ~230 dpi cut into five strips) for reading, and `acc.py` for zooms.
 
