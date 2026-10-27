@@ -9590,13 +9590,15 @@ and *āy* for *ai* by "eco 'yavāyāvaḥ" (Pā. 6-1-78): *āyam*; unaccented by
 
 ### Page 474 — Sūkta 11, Rik 7
 
+*(Saṃhitā accents as printed; Pada unaccented. Line 2: a bar under वां and a stroke over स्यु of श्रवांस्युत्तिर, as printed — [accent ?].)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मायाभिरिन्द्र मायिनं त्वं शुष्णमवातिरः ।
-> विदुष्टे तस्य मेधिरास्तेषां श्रवांस्युत्तिर ॥७॥
+> मा॒याभि॑रिन्द्र मा॒यिनं॒ त्वं शुष्ण॒मवा॑तिरः ।
+> वि॒दुष्टे॒ तस्य॒ मेधि॑रा॒स्तेषां॒ श्रवां॒स्यु॑त्तिर ॥७॥ [accent ?]
 >
-> *māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |*
-> *viduṣ ṭe tasya medhirās teṣāṃ śravāṃsy ut tira ||7||*
+> *māyā́bhir indra māyínaṃ tváṃ śuṣṇam ávātiraḥ |*
+> *vidúṣ ṭe tásya médhirās téṣāṃ śrávāṃsy ut tira ||7||* [accent ?]
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -9610,21 +9612,21 @@ and *āy* for *ai* by "eco 'yavāyāvaḥ" (Pā. 6-1-78): *āyam*; unaccented by
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे इन्द्र त्वं मायिनं नानाविधकपटोपेतं शुष्णं भूतानां शोषणहेतुमसुरं मायाभिः कपटोपायैः कृतविशेषैः । यद्वा । तद्विधोपायज्ञेनेन्द्रेण प्रज्ञाभिः । अवातिरः । हिंसितवानसि । एतच्च यास्केनोक्तम् । इन्द्रः शुष्णं जघान । नि. ५-१०-३ [?] । इति । शुष्णं सिन्धुं [?] । ऋग्वे. १-१०१-१ [?] । इत्यादिमन्त्रे चायमर्थो विस्पष्टः । मेधिरा मेधावन्तो ऽनुष्ठातारस्तस्य तादृशस्य ते तव महिमानं विदुः । जानन्ति । तेषां जानतामनुष्ठातॄणां श्रवांस्यन्नान्युत्तिर । वर्धय । केतः केतयितेत्यादिष्वेकादशसु प्रज्ञानामसु माया वयुनमिति पठितम् । श्रवःशब्दं यास्को निर्वक्ति । श्रव इत्यन्ननाम श्रूयते इति सतः । नि. १०-४ [?] । इति ॥
+> हे इन्द्र त्वं मायिनं नानाविधकपटोपेतं शुष्णं भूतानां शोषणहेतुमेतन्नामकमसुरं मायाभिस्तत्प्रतिकूलैः कपटविशेषैः । यद्वा । तद्विधोपायगोचरप्रज्ञाभिः । अवातिरः । हिंसितवानसि । एतच्च यास्केनोक्तम् । इन्द्रः शुष्णं जघान । नि. ३-११ । इति । शुष्णं पिप्रुम् । ऋग्वे. १-१०३-८ । इत्यादिमन्त्रे चायमर्थो विस्पष्टः । मेधिरा मेधावन्तो ऽनुष्ठातारस्तस्य तादृशस्य ते तव महिमानं विदुः । जानन्ति । तेषां जानतामनुष्ठातॄणां श्रवांस्यन्नान्युत्तिर । वर्धय । केतः केतुरित्यादिष्वेकादशसु प्रज्ञानामसु माया वयुनमिति पठितम् । श्रवःशब्दं यास्को निर्वक्ति । श्रव इत्यन्ननाम श्रूयत इति सतः । नि. १०-३ । इति ॥ मायाभिः । माङ् माने । माच्छाससिसूभ्यो यः । उ. ४-१०९ । इति यप्रत्ययः । प्रत्ययस्वरः । मायिनम् । मायास्यास्तीति मायी । व्रीह्यादित्वादिनिप्रत्ययः । पा. ५-२-११६ । प्रत्ययस्वरः । शुष्णम् । शुष शोषणे । अस्मादन्तर्भावितण्यर्थान्निदित्यनुवृत्तौ तृषिशुषिरसिभ्यः कित् । उ. ३-१२ । इति नप्रत्ययः । नित्त्वादाद्युदात्तः । अतिरः । तरतेर्लङि व्यत्ययेन शः । तस्य ङित्त्वेन गुणाभावादृत इद्धातोरितीत्त्वम् । रपरत्वम् । विदुष्टे तस्य । गतं मन्त्रे गतम् । मेधिराः । मिधृ मेधृ मेधाहिंसनयोः । औणादिक इरन् । नित्त्वादाद्युदात्तः । श्रवांसि । नब्विषयत्वादाद्युदात्तः ॥
 >
-> *he indra tvaṃ māyinaṃ nānā-vidha-kapaṭopetaṃ śuṣṇaṃ bhūtānāṃ śoṣaṇa-hetum asuraṃ māyābhiḥ kapaṭopāyaiḥ kṛta-viśeṣaiḥ | yadvā | tad-vidhopāya-jñenendreṇa prajñābhiḥ | avātiraḥ | hiṃsitavān asi | etac ca yāskenoktam | indraḥ śuṣṇaṃ jaghāna | ni. 5-10-3 [?] | iti | śuṣṇaṃ sindhuṃ [?] | ṛgve. 1-101-1 [?] | ity-ādi-mantre cāyam artho vispaṣṭaḥ | medhirā medhāvanto 'nuṣṭhātāras tasya tādṛśasya te tava mahimānaṃ viduḥ | jānanti | teṣāṃ jānatām anuṣṭhātṝṇāṃ śravāṃsy annāny uttira | vardhaya | ketaḥ ketayitety-ādiṣv ekādaśasu prajñā-nāmasu māyā vayunam iti paṭhitam | śravaḥ-śabdaṃ yāsko nirvakti | śrava ity anna-nāma śrūyate iti sataḥ | ni. 10-4 [?] | iti ||*
+> *he indra tvaṃ māyinaṃ nānāvidhakapaṭopetaṃ śuṣṇaṃ bhūtānāṃ śoṣaṇahetumetannāmakamasuraṃ māyābhistatpratikūlaiḥ kapaṭaviśeṣaiḥ | yadvā | tadvidhopāyagocaraprajñābhiḥ | avātiraḥ | hiṃsitavānasi | etacca yāskenoktam | indraḥ śuṣṇaṃ jaghāna | ni. 3-11 | iti | śuṣṇaṃ piprum | ṛgve. 1-103-8 | ityādimantre cāyamartho vispaṣṭaḥ | medhirā medhāvanto 'nuṣṭhātārastasya tādṛśasya te tava mahimānaṃ viduḥ | jānanti | teṣāṃ jānatāmanuṣṭhātṝṇāṃ śravāṃsyannānyuttira | vardhaya | ketaḥ keturityādiṣvekādaśasu prajñānāmasu māyā vayunamiti paṭhitam | śravaḥśabdaṃ yāsko nirvakti | śrava ityannanāma śrūyata iti sataḥ | ni. 10-3 | iti || māyābhiḥ | māṅ māne | mācchāsasisūbhyo yaḥ | u. 4-109 | iti yapratyayaḥ | pratyayasvaraḥ | māyinam | māyāsyāstīti māyī | vrīhyāditvādinipratyayaḥ | pā. 5-2-116 | pratyayasvaraḥ | śuṣṇam | śuṣa śoṣaṇe | asmādantarbhāvitaṇyarthānnidityanuvṛttau tṛṣiśuṣirasibhyaḥ kit | u. 3-12 | iti napratyayaḥ | nittvādādyudāttaḥ | atiraḥ | taraterlaṅi vyatyayena śaḥ | tasya ṅittvena guṇābhāvādṛta iddhātoritīttvam | raparatvam | viduṣṭe tasya | gataṃ mantre gatam | medhirāḥ | midhṛ medhṛ medhāhiṃsanayoḥ | auṇādika iran | nittvādādyudāttaḥ | śravāṃsi | nabviṣayatvādādyudāttaḥ ||*
 
-**Translation:** "O Indra! You *avātiraḥ* — slew — *śuṣṇam*, the asura who is *māyin*, possessed of various kinds of trickery and a cause of the drying up of beings, *māyābhiḥ* — with stratagems, special devices of deceit; or [alternatively], since Indra knows the ways of such stratagems, with *prajñā*, wisdom. This Yāska says: '*indraḥ śuṣṇaṃ jaghāna*' (Nirukta 5-10-3 [?]); and this sense is clear in the mantra beginning *śuṣṇaṃ …* (Ṛgveda 1-101-1 [?], reading uncertain). *Medhirāḥ* — the wise performers — *viduḥ te* — know your greatness, of such a one. For those who thus know, *uttira* — increase — *śravāṃsi*, foods. Among the eleven words for 'wisdom' beginning with *ketaḥ* and *ketayitā*, *māyā* and *vayunam* are read. Yāska explains the word *śravas*: '*śravas* is a name for food; because it is heard (*śrūyate*)' (Nirukta 10-4 [?])." *(The grammar of* māyābhiḥ*,* māyinam*,* śuṣṇam*,* avātiraḥ*,* medhirāḥ*,* śravāṃsi*,* uttira *is in the Sanskrit and noted briefly below: that* māyā *takes* māj *with the suffix* māṅ *...; that* śuṣṇa *is from* śuṣa śoṣaṇe *with* nak *(Uṇ. 3-[?]); that* medhira *is from* medhā *with* iran*;* avātiraḥ *is the* laṅ *of* tṝ *with the augment* aṭ *in the Veda.)* *(Some of the Sanskrit is compressed in the scan.)*
+**Translation:** "O Indra! You *avātiraḥ* — slew — *śuṣṇam*, the asura of that name, *māyin* — possessed of various kinds of trickery — and the cause of the drying up of beings, *māyābhiḥ* — with special devices of deceit opposed to his; or [alternatively] with *prajñā*s, insights into such means. This Yāska says: '*indraḥ śuṣṇaṃ jaghāna*' (Ni. 3-11); and this sense is clear in the mantra beginning *śuṣṇaṃ pipruṃ* (Ṛgveda 1-103-8). *Medhirāḥ* — the wise performers — *viduḥ te* — know your greatness, of such a one. For those who thus know, *uttira* — increase — *śravāṃsi*, foods. Among the eleven words for 'wisdom' beginning with *ketaḥ* and *ketuḥ*, *māyā* and *vayunam* are read. Yāska explains the word *śravas*: '*śravas* is a name for food; because it is heard (*śrūyate*)' (Ni. 10-3)." (Grammatical tail: *māyā* — *māṅ māne* with *ya* by "mācchā-sasi-sūbhyo yaḥ" (Uṇ. 4-109), suffix accent; *māyinam* — "māyā asya asti," *ini* as one of the *vrīhyādi* (Pā. 5-2-116), suffix accent; *śuṣṇam* — *śuṣa śoṣaṇe* with causative sense, *na* by "tṛṣi-śuṣi-rasibhyaḥ kit" (Uṇ. 3-12) with *nit* carried over, initial-udātta; *atiraḥ* — *laṅ* of *tṝ* with *śa* by exception, no *guṇa* because it is *ṅit*, so *i* by "ṛta id dhātoḥ", with *r*; *viduṣ ṭe tasya* — as in the previous mantra; *medhirāḥ* — *midhṛ medhṛ medhāhiṃsanayoḥ*, the Uṇādi *iran*, initial-udātta as *nit*; *śravāṃsi* initial-udātta as a *nab-viṣaya* word.)
 
 **॥ Prati-padārthaḥ ॥**
 
-**(हे) इन्द्र ((he) indra)** — O Indra | **त्वम् (tvam)** — you | **मायिनम् (māyinam)** — endowed with many kinds of trickery | **शुष्णम् (śuṣṇam)** — the asura named Śuṣṇa who harms people | **मायाभिः (māyābhiḥ)** — by means of deceitful stratagems suited to his own, or by your intelligence and capacity | **अव अतिरः (ava atiraḥ)** — have destroyed | **मेधिराः (medhirāḥ)** — wise people | **विदुः (viduḥ)** — know | **तेषाम् (teṣām)** — to those | *(that is, to those who perform sacrifices and the like, being wise)* **श्रवांसि (śravāṃsi)** — foods (food and other nourishment) | **उत् तिर (ut tira)** — increase (give in abundance).
+**(हे) इन्द्र ((he) indra)** — O Indra | **त्वम् (tvam)** — you | **मायिनम् (māyinam)** — endowed with many kinds of trickery | **शुष्णम् (śuṣṇam)** — the asura named Śuṣṇa who harms people | **मायाभिः (māyābhiḥ)** — by deceitful stratagems suited to the occasion, or by [your] intelligence and capacity | **अव अतिरः (ava atiraḥ)** — have destroyed | **मेधिराः (medhirāḥ)** — wise people | **विदुः (viduḥ)** — know | **तेषाम् (teṣām)** — to those | *(that is, to those who perform sacrifices and the like, being wise)* **श्रवांसि (śravāṃsi)** — foods (food and other nourishment) | **उत् तिर (ut tira)** — increase (give in abundance).
 
 ### Page 476 — Rik 7: overall sense, English, Special Topics
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! The asura named Śuṣṇa was exceedingly deceitful. You killed such a deceitful asura by the same stratagems, or by your own intelligence and power. Wise people know this greatness of yours. Give them food and other nourishment in abundance.
+O Indra! The asura named Śuṣṇa was exceedingly deceitful. You killed that asura of deceitful nature by deceitful stratagems, or by your own intelligence and power. Wise people know this greatness of yours. Give them food and other nourishment in abundance.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
@@ -9632,83 +9634,117 @@ O Indra! The asura named Śuṣṇa was exceedingly deceitful. You killed such a
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Māyābhiḥ," "māyinam"** — *māyā* means a special kind of trickery: *wile, stratagem*, device, power, capacity, etc. [the source's English]. To explain this sense of the word *māyā*, the source gives a couple of riks:
+**"Māyābhiḥ," "māyinam"** — *māyā* means a special kind of deceit, a device, a means, power and capacity: *wile, stratagem, etc.* [the source's English]. A couple of riks that explain this sense of the word *māyā* are given below:
 
-> रूपंरूपं मघवा बोभवीति मायाः कृण्वानस्तन्वं परि स्वाम् ॥
-> *rūpaṃ-rūpaṃ maghavā bobhavīti māyāḥ kṛṇvānas tanvaṃ pari svām ||*
-> (Ṛgveda Saṃhitā 6-47-18 [?])
-> *("Maghavan takes form after form, making māyās [wonders] around his own body." — my gloss, tentative.)*
+*(Ṛ. Saṃ. 3-53-8; the "१" after तन्वं is printed so.)*
+
+> रूपं रूपं मघवा बोभवीति मायाः कृण्वानस्तन्वं१ परि स्वाम् ॥
+>
+> *rūpaṃ rūpaṃ maghavā bobhavīti māyāḥ kṛṇvānastanvaṃ1 pari svām ||*
+
+*("Maghavan becomes form after form, making māyās about his own body" — mine and tentative.)*
+
+*(Ṛ. Saṃ. 6-47-18.)*
 
 > इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥
-> *indro māyābhiḥ pururūpa īyate yuktā hy asya harayaḥ śatā daśa ||*
-> (Ṛgveda Saṃhitā 6-47-18 [?]; printed as "६-४७-१८")
-> *("Indra moves with his māyās, of many forms; his hundred and ten [tawny horses] are yoked." — my gloss, tentative; the number "ten" before "hundred" follows the print, but both lines carry the same reference number in the source, so one of the two numbers is likely wrong.)*
+>
+> *indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ||*
 
-and many more examples. Since the word *māyā* is read among the eleven words for "wisdom" beginning with *ketaḥ*, *ketuḥ* (Nirukta 3-9 [?]), *māyā* means *prajñā*, knowledge, understanding, intelligence, a device, etc. In examining this sense of "wisdom," the sage Yāska, in his Nirukta, explaining the rik
+*("Indra goes about, of many forms, by his māyās; for his ten hundred bay horses are yoked" — mine and tentative.)*
+
+There are many such examples. Since the word *māyā* is read among the eleven words for "wisdom" beginning with *ketaḥ*, *ketuḥ* (Ni. 3-13), *māyā* also means *prajñā*, understanding, intelligence, a means, and so on. In considering this sense *prajñā*, the sage Yāska in the Nirukta, explaining the rik
+
+*(Ṛ. Saṃ. 10-88-6.)*
 
 > मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ।
-> मायामू तु यज्ञियानामेतामपो यत्तूर्णिश्चरति प्रजानन् ॥
-> *mūrdhā bhuvo bhavati naktam agnis tataḥ sūryo jāyate prātar udyan |*
-> *māyām ū tu yajñiyānām etām apo yat tūrṇiś carati prajānan ||*
-> (Ṛgveda Saṃhitā 10-88-6 [?]; the source's number reads "१०-८८-६")
-> *(The Devanagari is a best reading of compressed print; I offer no gloss.)*
+> माया मू तु यज्ञियानामेतामपो यत्तूर्णिश्चरति प्रजानन् ॥
+>
+> *mūrdhā bhuvo bhavati naktamagnistataḥ sūryo jāyate prātarudyan |*
+> *māyā mū tu yajñiyānāmetāmapo yattūrṇiścarati prajānan ||*
 
-says: "*mūrdhā* — [the head] on which the head is placed: whatever is the head of all beings; *naktam agniḥ* — at night, Agni; then Sūrya is born, rising at dawn. *Sa eva prajñām tv eṣāṃ manyante yajñiyānāṃ devānāṃ yajña-saṃpādinām apo yat karma carati prajānan sarvāṇi sthānāny anusaṃ carate tvaramāṇaḥ*" (Nirukta 7-32 [?]) — thus plainly giving the word *māyā* the sense of *prajñā*; and again:
+says
+
+> मूर्धा मूर्तमस्मिन्धीयते मूर्धा यः सर्वेषां भूतानां भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन्स एव प्रज्ञां त्वेतां मन्यन्ते यज्ञियानां देवानां यज्ञसंपादिनामपो यत्कर्म चरति प्रजानन्सर्वाणि स्थानान्यनुसंचरते त्वरमाणः
+>
+> *mūrdhā mūrtamasmindhīyate mūrdhā yaḥ sarveṣāṃ bhūtānāṃ bhavati naktamagnistataḥ sūryo jāyate prātarudyansa eva prajñāṃ tvetāṃ manyante yajñiyānāṃ devānāṃ yajñasaṃpādināmapo yatkarma carati prajānansarvāṇi sthānānyanusaṃcarate tvaramāṇaḥ*
+
+(Ni. "7-27" [?]) — thus plainly giving the word *māyā* the sense *prajñā*; and also —
 
 ### Page 477 — Rik 7: Special Topics (continued)
 
+*(Ṛ. Saṃ. 6-58-1.)*
+
 > शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि ।
 > विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥
-> *śukraṃ te anyad yajataṃ te anyad viṣurūpe ahanī dyaur ivāsi |*
-> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣann iha rātir astu ||*
-> (Ṛgveda Saṃhitā 6-58-1 [?]; the source's number reads "६-५८-१")
-> *("One bright is yours, another worthy of worship; you are like the heaven, of two different forms of day and night; for you protect all māyās, O Svadhāvan; may your gift here be auspicious, O Pūṣan." — my gloss, tentative.)*
+>
+> *śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi |*
+> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ||*
 
-In the exposition of this rik too, Yāska explains the word *māyā* as *prajñā*: "*śukraṃ te anyal lohitaṃ te anyad yajñiyaṃ te anyad viṣamarūpe te ahanī karma dyaur iva cāsi sarvāṇi prajñānāny avasy annavan bhājanavatī te pūṣann iha dātrastu*" (Nirukta 12-17 [?]).
+*("Bright is one [form] of yours, worshipful the other; you are like the sky, with the two days of different form; for you protect all māyās, O self-powered one; may your bounty be auspicious here, O Pūṣan" — mine and tentative.)*
 
-**"Śuṣṇam"** — the name of an asura. The word *śuṣṇa* means strength (Nirukta 2-9 [?]). There are many riks that describe Indra killing the asura Śuṣṇa:
+in the explanation of this rik too —
+
+> शुक्रं ते अन्यल्लोहितं ते अन्यद्यजतं ते अन्यद्यज्ञियं ते अन्यद्विषमरूपे ते अहनी कर्म द्यौरिव चासि सर्वाणि प्रज्ञानान्यवस्यन्नवन्भाजनवती ते पूषन्निह दत्तिरस्तु ॥
+>
+> *śukraṃ te anyallohitaṃ te anyadyajataṃ te anyadyajñiyaṃ te anyadviṣamarūpe te ahanī karma dyauriva cāsi sarvāṇi prajñānānyavasyannavanbhājanavatī te pūṣanniha dattirastu ||*
+
+(Ni. "12-17" [?]) — he explained the word *māyā* as *prajñā*.
+
+**"Śuṣṇam"** — the asura named Śuṣṇa. The word *śuṣṇa* also means strength (Ni. 3-9). There are many riks that tell of Indra's killing the asura Śuṣṇa:
+
+*(Ṛ. Saṃ. 1-103-8.)*
 
 > शुष्णं पिप्रुं कुयवं वृत्रमिन्द्र यदावधीर्वि पुरः शम्बरस्य ॥
-> *śuṣṇaṃ pipruṃ kuyavaṃ vṛtram indra yadāvadhīr vi puraḥ śambarasya ||*
-> (Ṛgveda Saṃhitā 1-103-8 [?]; printed as "१-१०३-८")
-> *("When, O Indra, you slew Śuṣṇa, Pipru, Kuyava and Vṛtra, [and broke] the forts of Śambara." — my gloss, tentative.)*
+>
+> *śuṣṇaṃ pipruṃ kuyavaṃ vṛtramindra yadāvadhīrvi puraḥ śambarasya ||*
 
-In this rik it is said that when Indra destroyed the city of the asura Śambara, he killed four asuras, Śuṣṇa, Pipru, Kuyava and Vṛtra.
+*("When, O Indra, you slew Śuṣṇa, Pipru, Kuyava, Vṛtra, [you broke] apart the forts of Śambara" — mine and tentative.)*
+
+In this rik it is said that when Indra destroyed the city of the asura Śambara he killed four asuras, Śuṣṇa, Pipru, Kuyava and Vṛtra.
+
+*(Ṛ. Saṃ. 1-51-11.)*
 
 > उग्रो ययिं निरपः स्रोतसासृजद्वि शुष्णस्य दृंहिता ऐरयत्पुरः ॥
-> *ugro yayiṃ nirapaḥ srotasāsṛjad vi śuṣṇasya dṛṃhitā airayat puraḥ ||*
-> (Ṛgveda Saṃhitā 1-51-11 [?]; printed "१-५१-११")
-> *(A best reading of compressed print; the sense is that Indra released the waters and shook loose the fortified cities of Śuṣṇa — my gloss, tentative.)*
+>
+> *ugro yayiṃ nirapaḥ srotasāsṛjadvi śuṣṇasya dṛṃhitā airayatpuraḥ ||*
 
-In this rik it is said that Indra released the city of the asura Śuṣṇa. There are many riks that suggest such a sense. Besides, to *śuṣṇa* one may give the sense *śoṣayitṛ*, i.e., the "one who causes to dry up." In such a context the sense may be given that Indra strikes with his power the cloud that makes the earth parch by not letting the rain flow. In this context Yāska says:
+*("The mighty one let out the rushing waters with a stream; he shook apart the firm forts of Śuṣṇa" — mine and tentative.)*
 
-> नियुद्ध्वणक्षि श्वसनस्य मूर्धनि शुष्णस्य चिद्व्रन्दिनो रोरुवद्वना ॥
-> *niyud dhvaṇakṣi śvasanasya mūrdhani śuṣṇasya cid vrandino roruvad vanā ||*
-> (Ṛgveda Saṃhitā 1-54-5 [?]; printed "१-५४-५")
-> *(A best reading; no gloss offered.)*
+In this rik it is said that Indra laid siege to the city of the asura Śuṣṇa. There are many riks suggesting such a sense. Besides this, the word *śuṣṇa* can be given the sense *śoṣayitṛ*, "one who dries up." In such contexts the sense can be given that Indra, by his power, strikes the cloud that does not pour rain and makes the earth parch, and so brings about rain. In considering this sense Yāska,
 
-in explaining this rik he gives to *śuṣṇa* the sense *śoṣayitā* — "one who dries up" (Nirukta 5-5-14 [?]); and again:
+*(Ṛ. Saṃ. 1-54-5.)*
+
+> नियुद्व्वणक्षि [?] श्वसनस्य मूर्धनि शुष्णस्य चिद्व्रन्दिनो रोरुवद्वना ॥
+>
+> *niyudvvaṇakṣi [?] śvasanasya mūrdhani śuṣṇasya cidvrandino roruvadvanā ||*
+
+in explaining this rik, explained the word *śuṣṇa* as *śoṣayituḥ*, "one who dries up": "शुष्णस्यादित्यस्य च शोषयितुः" (*śuṣṇasyādityasya ca śoṣayituḥ*) (Ni. 5-16); and also,
+
+*(Ṛ. Saṃ. 1-33-12.)*
 
 > न्याविध्यदिलीबिशस्य दृळ्हा वि शृङ्गिणमभिनच्छुष्णमिन्द्रः ॥
-> *ny āvidhyad ilībiśasya dṛḷhā vi śṛṅgiṇam abhinac chuṣṇam indraḥ ||*
-> (Ṛgveda Saṃhitā 1-33-12 [?]; printed "१-३३-१२")
-> *(A best reading; no gloss offered.)*
+>
+> *nyāvidhyadilībiśasya dṛḷhā vi śṛṅgiṇamabhinacchuṣṇamindraḥ ||*
 
-in explaining this rik too he says "*nirāvidhyad ilābilaśayasya dṛḍhāni vyabhinac chṛṅgiṇaṃ śuṣṇam indraḥ*," that is, Indra struck the cloud that stands over the summit of a mountain and, instead of letting the rain flow, dries up the earth (Nirukta 6-30 [?]).
+in this rik too, "निरविध्यदिलाबिलशयस्य दृढानि व्यभिनच्छृङ्गिणं शुष्णमिन्द्रः" (*niravidhyadilābilaśayasya dṛḍhāni vyabhinacchṛṅgiṇaṃ śuṣṇamindraḥ*): that is, he explained that Indra struck the cloud that stays over the mountain top and, not pouring rain, makes the earth dry up (Ni. "6-20" [?]).
 
-### Pages 478–479 — Rik 7: Special Topics (continued) and grammar
+### Page 478 — Rik 7: Special Topics (continued) and grammar
 
-**"Ava atiraḥ"** — *hiṃsitavān asi*: "you struck, you killed."
+**"Ava atiraḥ"** — *hiṃsitavān asi*: "you have struck, smitten, killed."
 
-**"Viduḥ te"** — "they know you, or they know your [greatness]": that is, they know your greatness, or your power and capacity.
+**"Viduḥ te"** — "they know you or yours": that is, they know your greatness, or your power and capacity.
 
-**"Medhirāḥ"** — *medhāvantaḥ*, wise, discerning people.
+**"Medhirāḥ"** — *medhāvantaḥ puruṣāḥ*: wise, discerning people and the like.
 
-**"Śravāṃsi"** — foods, nourishment. In explaining the rik *āsaskrāṇāḥ śavasā* (Ṛgveda Saṃhitā 6-62-? [?]) Yāska gives the word *śravas* the sense of food: "*śrava ity anna-nāma śrūyata iti sataḥ*" (Nirukta 10-3 [?]).
+**"Śravāṃsi"** — foods, food and nourishment. In explaining the rik *āsasrāṇāsaḥ śavasā* (Ṛ. Saṃ. 6-62-3 [?]) Yāska gives the word *śravas* the sense of food: "śrava ity annanāma śrūyata iti sataḥ" (Ni. 10-3).
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 478–479, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 478–479, noted briefly; numbers checked against the print)*
 
-**मायाभिः (*māyābhiḥ*)** — root *māṅ māne* (or *māj*), and *mā*-type roots *ṭuvapa* [print compressed], with *yā* by "mācchāsasisūbhyo yaḥ" [print: "māchāsasisu…"] (Uṇ. 4-109 [?]): after *mā*, *chā*, *sasi*, *sū*, the suffix *ya*; *māyā*; final-udātta by the suffix; feminine *ṭāp* by "ajādyataṣṭāp" (Pā. 4-1-4 [?]), unaccented since *pit*; *savarṇadīrgha*; the single substitute is udātta ("ekādeśa udāttenodāttaḥ," Pā. 8-2-5 [?]); *bhis* follows, unaccented; then *svarita* by "udāttād anudāttasya svaritaḥ" (Pā. 8-4-66 [?]). **मायिनम् (*māyinam*)** — "māyā asya asti": *ini* by "vrīhyādibhyaś ca" (Pā. 5-2-116 [?]), after words of the *vrīhi* group in the possessive sense; the *a*-final dropped by "yasyeti ca" (Pā. 6-4-148 [?]); accusative singular *am*; the suffix accent. **शुष्णम् (*śuṣṇam*)** — root *śuṣa śoṣaṇe*; with the causative sense inside; the suffix *na* by "tṛṣiśuṣirasibhyaḥ kit" [print: "tṛṣi śuṣi rasibhyaḥ kit"] (Uṇ. 3-[?]) in the senses of *śuṣa śoṣaṇe* and *rasa śabde*; *na* is *kit*, so no *laghūpadha-guṇa*; and *nit*, so initial-udātta; *ṇatva* by "raṣābhyāṃ no ṇaḥ samānapade" (Pā. 8-4-1 [?]): *śuṣṇa*. **अतिरः (*atiraḥ*)** — root *tṝ plavanataraṇayoḥ* (*bhvādi*); *laṅ* second singular *sip*; the vikaraṇa that should be *śap* appears as *śa* by Vedic inversion ("tṝ + a + s"); *sārvadhātukam apit* (Pā. 1-2-4 [?]) makes it *ṅit*-like, so no *guṇa*; "ṛta id dhātoḥ" (Pā. 7-1-100 [?]) gives *i* in place of *ṛ*; *uraṇ raparaḥ*; the augment *aṭ* (udātta, by Pā. 6-4-71 [?]); *ru* and visarga: *atiraḥ*. **विदुष्टे तस्य (*viduṣṭe tasya*)** — these three words were explained in the previous mantra; but there the word stands at the head of the fourth pāda, here at the head of the third pāda — that is the difference. **मेधिराः (*medhirāḥ*)** — root *medhṛ medhāhiṃsanayoḥ* ("to be wise; to harm") with *iran* ("iranādi" [print: "ṇādika"], Uṇ. 1-[?]); *nit*, so initial-udātta. **श्रवांसि (*śravāṃsi*)** — "nabviṣayasyāniṣantasya" (Phiṭ-sūtra 36 [?]): initial-udātta. *(Sūtra numbers read from small print; pointers only.)*
+**मायाभिः (*māyābhiḥ*)** — root *māṅ māne*; "mācchāsasi(sū)bhyo yaḥ" (Uṇ. "4-549" [?]): after *māṅ māne*, *cho chedane*, *ṣasa svapne*, the suffix *ya*: *māya*, final-udātta by the suffix accent; for the feminine, *ṭāp* by "ajādyataṣ ṭāp" (Pā. 4-1-4), unaccented as *pit*; *savarṇa*-lengthening, and the single substitute udātta by "ekādeśa udāttenodāttaḥ" (Pā. 8-2-5); then *bhis*, *ru* and visarga; *bhis* unaccented, made svarita by "udāttād anudāttasya svaritaḥ". **मायिनम् (*māyinam*)** — "māyā asya asti": "vrīhyādibhyaś ca" (Pā. 5-2-116) gives *ini* and *ṭhan* in the possessive sense after the words of the *vrīhi* group: *ini*; the *ā* dropped by "yasyeti ca" (Pā. 6-4-148); accusative singular *am*: *māyinam*; the suffix accent. **शुष्णम् (*śuṣṇam*)** — root *śuṣa śoṣaṇe*, with the causative sense included; "tṛṣi-śuṣi-rasibhyaḥ kit" (Uṇ. "3-292" [?]): after *ñitṛṣā pipāsāyām*, *śuṣa śoṣaṇe*, *rasa śabde* the suffix *na*, *kit* and *nit*; *kit*, so no *laghūpadha-guṇa*; the *nit* accent; *ṇ* by "raṣābhyāṃ no ṇaḥ samānapade" (Pā. 8-4-1): *śuṣṇa*. **अतिरः (*atiraḥ*)** — root *tṝ plavanataraṇayoḥ*, *bhvādi*; *laṅ*, second singular *sip*; *śap*, replaced by Vedic exception by *śa*: *tṝ* + *a* + *s*; "sārvadhātukam apit" (Pā. 1-2-4) makes *śa* *ṅit*, so no *guṇa*;
+
+### Page 479 — Rik 7 grammar closes
+
+"ṛta id dhātoḥ" (printed "17-1-100" [sic]) gives *i*, with *r*; the augment *aṭ* by "luṅ-laṅ-lṛṅkṣv aḍ udāttaḥ" (Pā. 6-4-71): *atiras*; *ru* and visarga. **विदुष्टे तस्य (*viduṣ ṭe tasya*)** — these three words were explained in the previous mantra; but there [*viduḥ*] stands at the beginning of the fourth pāda, here at the beginning of the third pāda — that is the only difference. **मेधिराः (*medhirāḥ*)** — root *midhṛ medhṛ medhāhiṃsanayoḥ*; after *midhṛ* the Uṇādi suffix *iran*; being *nit*, the *nit* accent. **श्रवांसि (*śravāṃsi*)** — initial-udātta by "nab-viṣayasyānisantasya" (Phiṭ-sū. "26").
 
 **॥७॥**
 
