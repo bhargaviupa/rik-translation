@@ -7819,15 +7819,15 @@ Many more examples could be given.
 
 ### Page 365 — Sūkta 9, Rik 7
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: a short horizontal bar printed at stroke height before the stroke on* hya *(over* rdhe*) is unclear — [accent ?].)*
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सं गोम॑दिन्द्र वाज॑वद॒स्मे पृ॒थु श्रवो॑ बृ॒हत् ।
-> वि॒श्वायु॑र्धेह्य॑क्षितम् ॥७॥ [accent ?]
+> सं गोम॑दिन्द्र॒ वाज॑वद॒स्मे पृ॒थु श्रवो॑ बृ॒हत् ।
+> वि॒श्वायु॑र्धेह्य॑क्षितम् ॥७॥
 >
 > *saṃ gómad indra vā́javad asmé pṛthú śrávo bṛhát |*
-> *viśvā́yur dhéhy akṣitam ||7||* [accent ?]
+> *viśvā́yur dhéhy akṣitam ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -7885,13 +7885,15 @@ O Indra! Give us abundant wealth: the best, in the form of cattle, horses and ot
 
 ### Page 369 — Sūkta 9, Rik 8
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अस्मे धेहि श्रवो बृहद्द्युम्नं सहस्रसातमम् ।
-> इन्द्र ता रथिनीरिषः ॥८॥
+> अ॒स्मे धे॑हि॒ श्रवो॑ बृ॒हद्द्यु॒म्नं स॑हस्र॒सात॑मम् ।
+> इन्द्र॒ ता र॒थिनी॒रिषः॑ ॥८॥
 >
-> *asme dhehi śravo bṛhad dyumnaṃ sahasrasātamam |*
-> *indra tā rathīnīr iṣaḥ ||8||*
+> *asmé dhehi śrávo bṛhád dyumnáṃ sahasrasā́tamam |*
+> *indra tā́ rathínīr íṣaḥ ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -7903,15 +7905,15 @@ O Indra! Give us abundant wealth: the best, in the form of cattle, horses and ot
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे इन्द्र बृहच्छ्रवो महतीं कीर्तिमस्मे धेहि । अस्मभ्यं प्रयच्छ । तथा सहस्रसातममतिशयेन सहस्रसंख्यादानोपेतं द्युम्नं धनमस्मे धेहि । तथा ता रथिनीर्व्रीहियवादिरूपेण प्रसिद्धा रथवत्यो [?] रथोपेता इषोन्नान्यस्मे धेहि ॥ अस्मे । सुपां सुलुगित्यादिना शे आदेशः । धेहि । घ्वसोरेद्धावभ्यासलोपश्च । पा. ६-४-११९ । इत्येत्वाभ्यासलोपौ । श्रूयत इति श्रवः । असुनो नित्त्वादाद्युदात्तत्वम् । सहस्रं सुनुते ददातीति सहस्रसाः । षणु दाने । जनसनखनक्रमगमो विट् । पा. ३-२-६७ । विड्सनोरनुनासिकस्यात् । पा. ६-४-४१ । इत्याकारादेशः । धातुस्वरेणान्तोदात्तः । पुनः कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते । रथा आसां सन्तीति रथिन्यः इति प्रत्ययस्याद्युदात्तत्वम् । ऋन्नेभ्यो ङीप् । पा. ४-१-५ । सा च पित्त्वादनुदात्ता । इषो योगिकत्वे धातुस्वरः । रूढत्वे प्रातिपदिकस्वरः ॥
+> हे इन्द्र बृहच्छ्रवो महतीं कीर्तिमस्मे धेहि । अस्मभ्यं प्रयच्छ । तथा सहस्रसातममतिशयेन सहस्रसंख्यादानोपेतं द्युम्नं धनमस्मे धेहि । तथा ता व्रीहियवादिरूपेण प्रसिद्धा रथिनीर्बहुरथोपेता इषो ऽन्नान्यस्मे धेहि ॥ अस्मे । सुपां सुलुगित्यादिना शे आदेशः । धेहि । घ्वसोरेद्धावभ्यासलोपश्च । पा. ६-४-११९ । इत्येत्वाभ्यासलोपौ । श्रूयत इति श्रवः । असुनो नित्त्वादाद्युदात्तत्वम् । सहस्रं सुनुते ददातीति सहस्रसाः । षणु दाने । जनसनखनक्रमगमो विट् । पा. ३-२-६७ । विड्वनोरनुनासिकस्यात् । पा. ६-४-४१ । इत्याकारादेशः । धातुस्वरेणान्तोदात्तः । पुनः कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते । रथा आसां सन्तीति रथिन्य इति प्रत्ययस्याद्युदात्तत्वम् । ऋन्नेभ्यो ङीप् । पा. ४-१-५ । स च पित्त्वादनुदात्तः । इषो योगिकत्वे धातुस्वरः । रूढत्वे प्रातिपदिकस्वरः ॥
 >
-> *he indra bṛhac-chravo mahatīṃ kīrtim asme dhehi | asmabhyaṃ prayaccha | tathā sahasra-sātamam atiśayena sahasra-saṃkhyā-dānopetaṃ dyumnaṃ dhanam asme dhehi | tathā tā rathinīr vrīhi-yavādi-rūpeṇa prasiddhā rathavatyo [?] rathopetā iṣo 'nnāny asme dhehi || asme | supāṃ suluk ity-ādinā śe ādeśaḥ | dhehi | ghvasor eddhāv abhyāsa-lopaś ca | pā. 6-4-119 | ity etvābhyāsa-lopau | śrūyata iti śravaḥ | asuno nittvād ādyudāttatvam | sahasraṃ sunute dadātīti sahasra-sāḥ | ṣaṇu dāne | jana-sana-khana-kramagamo viṭ | pā. 3-2-67 | viḍ-sanor anunāsikasyāt | pā. 6-4-41 | ity ākārādeśaḥ | dhātu-svareṇāntodāttaḥ | punaḥ kṛd-uttara-pada-prakṛti-svareṇa sa eva śiṣyate | rathā āsāṃ santīti rathinyaḥ iti pratyayasyādyudāttatvam | ṛnnebhyo ṅīp | pā. 4-1-5 | sā ca pittvād anudāttā | iṣo yogikatve dhātu-svaraḥ | rūḍhatve prātipadika-svaraḥ ||*
+> *he indra bṛhacchravo mahatīṃ kīrtimasme dhehi | asmabhyaṃ prayaccha | tathā sahasrasātamamatiśayena sahasrasaṃkhyādānopetaṃ dyumnaṃ dhanamasme dhehi | tathā tā vrīhiyavādirūpeṇa prasiddhā rathinīrbahurathopetā iṣo 'nnānyasme dhehi || asme | supāṃ sulugityādinā śe ādeśaḥ | dhehi | ghvasoreddhāvabhyāsalopaśca | pā. 6-4-119 | ityetvābhyāsalopau | śrūyata iti śravaḥ | asuno nittvādādyudāttatvam | sahasraṃ sunute dadātīti sahasrasāḥ | ṣaṇu dāne | janasanakhanakramagamo viṭ | pā. 3-2-67 | viḍvanoranunāsikasyāt | pā. 6-4-41 | ityākārādeśaḥ | dhātusvareṇāntodāttaḥ | punaḥ kṛduttarapadaprakṛtisvareṇa sa eva śiṣyate | rathā āsāṃ santīti rathinya iti pratyayasyādyudāttatvam | ṛnnebhyo ṅīp | pā. 4-1-5 | sa ca pittvādanudāttaḥ | iṣo yogikatve dhātusvaraḥ | rūḍhatve prātipadikasvaraḥ ||*
 
-**Translation:** "O Indra, *bṛhac-chravaḥ* — O you of great renown: give us (*asme dhehi*) great fame. And likewise bestow on us *sahasra-sātamam* — in extreme degree accompanied by gifts reckoned in thousands — *dyumnam*, wealth. And likewise *tā rathinīḥ* — those [*iṣaḥ*] famous in the forms of rice, barley and the like, *rathavatyaḥ* [the word is hard to read], furnished with chariots — *iṣaḥ*: foods; bestow them on us." *(Grammar noted briefly:* asme *as in Rik 7;* dhehi — *the root* dhā *with* hi*, with the substitution of* e *for* ā *and loss of the reduplicate (Pā. 6-4-119);* śravaḥ *with* asun*;* sahasrasā *— 'one who gives a thousand': root* ṣaṇu dāne *with* viṭ *(Pā. 3-2-67),* ā *for the nasal (Pā. 6-4-41), final-udātta by the root, then the second-member rule;* rathinyaḥ *— 'those who have chariots,' feminine in* ṅīp *(Pā. 4-1-5), unaccented because* pit*;* iṣaḥ *takes the root accent if taken in its component sense and the stem accent if taken as a settled word.)*
+**Translation:** "O Indra, *bṛhac-chravaḥ* — O you of great renown: give us (*asme dhehi*) great fame. And likewise bestow on us *sahasra-sātamam* — in extreme degree accompanied by gifts reckoned in thousands — *dyumnam*, wealth. And likewise *tāḥ* — those famous in the forms of rice, barley and the like — *rathinīḥ*, furnished with many chariots — *iṣaḥ*: foods; bestow them on us." *(Grammar noted briefly:* asme *as in Rik 7;* dhehi — *the root* dhā *with* hi*, with the substitution of* e *for* ā *and loss of the reduplicate (Pā. 6-4-119);* śravaḥ *with* asun*;* sahasrasā *— 'one who gives a thousand': root* ṣaṇu dāne *with* viṭ *(Pā. 3-2-67),* ā *for the nasal (Pā. 6-4-41), final-udātta by the root, then the second-member rule;* rathinyaḥ *— 'those who have chariots,' feminine in* ṅīp *(Pā. 4-1-5), unaccented because* pit*;* iṣaḥ *takes the root accent if taken in its component sense and the stem accent if taken as a settled word.)*
 
 **॥ Prati-padārthaḥ ॥**
 
-**(हे) इन्द्र ((he) indra)** — O Indra | **अस्मे (asme)** — to us | **बृहत् (bṛhat)** — great, excellent | **श्रवः (śravaḥ)** — wealth | **सहस्रसातमम् (sahasrasātamam)** — greatly helpful for giving thousands of different things | **द्युम्नम् (dyumnam)** — wealth | **ताः (tāḥ)** — those | **रथिनीः (rathinīḥ)** — borne on chariots or carts | **इषः (iṣaḥ)** — grains and other foods, in the form of rice, barley and the like | **धेहि (dhehi)** — give.
+**(हे) इन्द्र ((he) indra)** — O Indra | **अस्मे (asme)** — to us | **बृहत् (bṛhat)** — great, excellent | **श्रवः (śravaḥ)** — fame | **सहस्रसातमम् (sahasrasātamam)** — greatly helpful for giving thousands of different things | **द्युम्नम् (dyumnam)** — wealth | **रथिनीः (rathinīḥ)** — brought in chariots or carts | **ताः (tāḥ)** — those in the form of grains such as rice and barley | **इषः (iṣaḥ)** — foods | **धेहि (dhehi)** — give.
 
 ### Page 370 — Rik 8: overall sense, English, Special Topics
 
