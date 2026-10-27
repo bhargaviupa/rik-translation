@@ -17227,15 +17227,19 @@ is udātta by *ekādeśa udāttenodāttaḥ*. *Tya* + *am*: by "ami pūrvaḥ" (
 
 ---
 
-### Pages 786–788 — Sūkta 19, Rik 2
+### Page 786 (lower) — Sūkta 19, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नहि देवो न मर्त्यो महस्तव क्रतुं परः ।
-> मरुद्भिरग्न आ गहि ॥२॥
+> न॒हि दे॒वो न मर्त्यो॑ म॒हस्तव॒ क्रतुं॑ प॒रः । [accent ?]
+> म॒रु॑द्भिरग्न आ ग॑हि ॥२॥ [accent ?]
 >
-> *nahi devo na martyo mahas tava kratuṃ paraḥ |*
-> *marudbhir agna ā gahi ||2||*
+> *nahí devó na mártyo mahás tava krátuṃ paráḥ |* [accent ?]
+> *marudbhir agna ā́ gahi ||2||* [accent ?]
+
+*(Read as printed: bars under न (नहि), दे, म (महस्), व (तव), प and म (मरु); strokes over त्यो, तुं, रु and ग. No stroke is printed after the bar under म of महस्.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -17243,37 +17247,61 @@ is udātta by *ekādeśa udāttenodāttaḥ*. *Tya* + *am*: by "ami pūrvaḥ" (
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥२॥
 >
 > *nahi | devaḥ | na | martyaḥ | mahaḥ | tava | kratum | paraḥ ||*
-> *marut-bhiḥ | agne | ā | gahi ||2||*
+> *marut 'bhiḥ | agne | ā | gahi ||2||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 786; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने महो महतस्तव सम्बन्धिनं क्रतुं कर्मविशेषमुल्लङ्घ्य परो नहि उत्कृष्टो देवो न भवति खलु । तथा मर्त्यो मनुष्यश्च परो न भवति । ये मनुष्यास्त्वदीयं क्रतुमनुतिष्ठन्ति ये च देवास्त्वदीये क्रताविद्यन्ते त एवोत्कृष्टा इत्यर्थः । मरुद्भिरित्यादि पूर्ववत् ॥ नहि । एवमादीनामन्त इत्येकोदात्तः । देवः । पचाद्यज्ञन्तः । क्षित्त्वादन्तोदात्तः । महः । महतेस्तलोपश्छान्दसः । बृहन्महतोरुपसंख्यानम् । [पा. ६-१-१६८-१] । इति विभक्तेरुदात्तत्वम् । तव । युष्मदस्मदोर्ङसीत्यादिनाद्युदात्तत्वम् । क्रतुम् । कृञः केतुः [?] । उ. [१-२८] । प्रत्ययाद्युदात्तत्वम् । गहि । गम्ऌ । लोटः सेर्हिः । बहुलं छन्दसीति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । तस्यासिद्धवदत्राभादित्यसिद्धत्वादतो हेरिति लुङ्न भवति । निघातः ॥२॥
+> हे अग्ने महो महतस्तव संबन्धिनं क्रतुं कर्मविशेषमुल्लङ्घ्य परो नहि उत्कृष्टो देवो न भवति खलु । तथा मर्त्यो मनुष्यश्च परो न भवति । ये मनुष्यास्त्वदीयं क्रतुमनुतिष्ठन्ति ये च देवास्त्वदीये क्रताविज्यन्ते त एवोत्कृष्टा इत्यर्थः । मरुद्भिरित्यादि पूर्ववत् ॥ नहि । एवमादीनामन्त इत्यन्तो-
 >
-> *he agne maho mahatas tava sambandhinaṃ kratuṃ karma-viśeṣam ullaṅghya paro nahi utkṛṣṭo devo na bhavati khalu | tathā martyo manuṣyaś ca paro na bhavati | ye manuṣyās tvadīyaṃ kratum anutiṣṭhanti ye ca devās tvadīye kratāv vidyante ta evotkṛṣṭā ity arthaḥ | marudbhir ity-ādi pūrvavat || nahi | evam-ādīnām anta ity ekodāttaḥ | devaḥ | pacādy-ac-antaḥ | kṣittvād antodāttaḥ | mahaḥ | mahates talopaś chāndasaḥ | bṛhan-mahator upasaṃkhyānam | [pā. 6-1-168-1] | iti vibhakter udāttatvam | tava | yuṣmad-asmador ṅasi ity-ādinādyudāttatvam | kratum | kṛñaḥ ketuḥ [?] | u. [1-28] | pratyayādyudāttatvam | gahi | gamḷ | loṭaḥ ser hiḥ | bahulaṃ chandasīti śapo luk | anudāttopadeśety-ādinānunāsika-lopaḥ | tasyāsiddhavad atrābhād ity asiddhatvād ato her iti luṅ na bhavati | nighātaḥ ||2||*
+> *he agne maho mahatastava saṃbandhinaṃ kratuṃ karmaviśeṣamullaṅghya paro nahi utkṛṣṭo devo na bhavati khalu | tathā martyo manuṣyaśca paro na bhavati | ye manuṣyāstvadīyaṃ kratumanutiṣṭhanti ye ca devāstvadīye kratāvijyante ta evotkṛṣṭā ityarthaḥ | marudbhirityādi pūrvavat || nahi | evamādīnāmanta ityanto-*
 
-**Translation:** "O Agni! No god is greater (*paraḥ*, 'superior') than your great (*mahaḥ*) *kratu* — your particular act [of the rite], surpassing it; nor is any mortal, any human, superior. Those men who perform your *kratu*, and those gods who are present at your *kratu*, are the ones who are excellent: that is the sense. [The refrain] *marudbhiḥ* … is as before." The rest is grammar, noted briefly: *nahi* (end-accent by the Phiṭ list *evamādīnām antaḥ*); *devaḥ* (*div* + *ac* of the *pacādi* class; since the *ac* has the mark *ṅit/kṣit*, end accent [as read]); *mahaḥ* (*mahat* with the loss of *t*, Vedic; the ending accented by the Vārttika on P. 6-1-168); *tava* (the substitute *tava* for *yuṣmad* + *ṅas* with first-syllable accent); *kratum* (*kṛ* + Uṇādi *ketu* [Uṇ. 1-28], with the suffix-first accent [?]); *gahi* (as at 1.14.2: *gam*, *loṭ*, *hi*, the *śap* dropped; the nasal dropped; *hi* is not dropped by *ato heḥ* because the nasal-drop is treated as not-yet-done by P. 6-4-22 *asiddhavad atrābhāt*). *(Grammar, noted briefly.)*
+### Page 787 — Rik 2: bhāṣya (end), word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 787)*
+*(The Uṇādi number १-७८ is read with some doubt; लुङ् न is as printed, for लुङ् न / लुग्न.)*
 
-**(हे) अग्ने ((he) agne)** — O Agni | **महः (mahaḥ)** — the greatest | **तव (tava)** — your | **क्रतुम् (kratum)** — action (the sacrifice) | **उल्लङ्घ्य (ullaṅghya)** — to transgress, to go beyond | **परः (paraḥ)** — superior | **देवः (devaḥ)** — god | **नहि (nahi)** — is not | *(and)* **मर्त्यः (martyaḥ)** — man | *(also)* **न (na)** — is not | *(therefore you)* **मरुद्भिः (marudbhiḥ)** — with the Marut deities | **आ गहि (ā gahi)** — come here.
+> दात्तः । देवः । पचाद्यजन्तश्चित्त्वादन्तोदात्तः । महः । महतस्तलोपश्छान्दसः । बृहन्महतोरुपसंख्यानम् । पा. ६-१-१७३-१ । इति विभक्तेरुदात्तत्वम् । तव । युष्मदस्मदोर्ङसीत्याद्युदात्तत्वम् । क्रतुम् । कृञः कतुः । उ. १-७८ । प्रत्ययाद्युदात्तत्वम् । गहि । गमॢ सृप्ॢ गतौ । लोटः सेर्हिः । बहुलं छन्दसीति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । तस्यासिद्धवदत्राभादित्यसिद्धत्वादतो हेरिति लुङ् न भवति । निघातः ॥
+>
+> *dāttaḥ | devaḥ | pacādyajantaścittvādantodāttaḥ | mahaḥ | mahatastalopaśchāndasaḥ | bṛhanmahatorupasaṃkhyānam | pā. 6-1-173-1 | iti vibhakterudāttatvam | tava | yuṣmadasmadorṅasītyādyudāttatvam | kratum | kṛñaḥ katuḥ | u. 1-78 | pratyayādyudāttatvam | gahi | gamḷ sṛpḷ gatau | loṭaḥ serhiḥ | bahulaṃ chandasīti śapo luk | anudāttopadeśetyādinānunāsikalopaḥ | tasyāsiddhavadatrābhādityasiddhatvādato heriti luṅ na bhavati | nighātaḥ ||*
+
+**Translation:** "O Agni, no god is *para*, superior, so as to go beyond the *kratu*, the particular rite, belonging to you who are *mahas*, great; likewise no *martya*, man, is superior. That is, the men who perform your rite and the gods who are worshipped in your rite: they alone are superior. *Marudbhiḥ* and the rest, as before." (Grammatical tail: *nahi*, final udātta by *evam-ādīnām antaḥ*; *devaḥ*, an *ac*-final of the *pac-ādi*, final udātta as *cit*; *mahaḥ*, the loss of *t* of *mahataḥ* Vedic, the ending udātta by *bṛhanmahator upasaṃkhyānam* (Pā. 6-1-173-1); *tava*, initial udātta by *yuṣmadasmador ṅasi*; *kratum*, *katu* by *kṛñaḥ katuḥ* (Uṇ. 1-78 [?]), initial udātta of the suffix; *gahi*, *gamḷ sṛpḷ gatau*, *hi* for *si* of *loṭ*, *śap* dropped by *bahulaṃ chandasi*, the nasal dropped by *anudāttopadeśa…*, and since that counts as not done by *asiddhavad atrābhāt*, *hi* is not dropped by *ato heḥ*; wholly unaccented.)
+
+**॥ Prati-padārthaḥ ॥**
+
+(**O Agni**) | **महः (mahaḥ)** — excellent | **तव (tava)** — your | **क्रतुम् (kratum)** — the rite (sacrifice), going beyond | **परः (paraḥ)** — another | **देवः (devaḥ)** — god | **नहि (nahi)** — there is not | (likewise) | **मर्त्यः (martyaḥ)** — a man too | **न (na)** — there is not | (therefore) **हे अग्ने (he agne)** — O Agni | (you) **मरुद्भिः (marudbhiḥ)** — together with the Marut deities | **आ गहि (ā gahi)** — come here.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! The act or the sacrifice that is yours is the greatest. Neither a god nor a man is able to go beyond it. Therefore come here, together with the Marut deities.
+O Agni, the rite or sacrifice connected with you is very great. There is no god or man able to transgress it. Therefore, O Agni, come here together with the Marut deities.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Neither god nor man has power over a rite (dedicated) to you who are great : come hither, Agni, with the Maruths.
+> Neither god nor man has power over a rite (dedicated) to you who are great : come hitter [sic], Agni, with the Maruths [sic].
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 787)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**महः (mahaḥ)** — *mahataḥ*: of the highest, or of one of great strength, of much power. Here the letter *t* is dropped.
+**Mahaḥ**: *mahataḥ*: excellent, or very strong, possessed of great power. Here the *t* has been dropped.
 
-**क्रतुम् (kratum)** — this word has two senses, *karman* "action" (Ni. [2-1]) and *prajñā* "wisdom" (Ni. [3-9]); but the commentator gives only the sense "action".
+**Kratum**: though this word has two senses, action (Ni. "3-2" [?]) and intelligence (Ni. "3-13" [?]), the commentator gives only the sense action.
 
-**Grammar pages (p. 787 lower half), noted briefly.** The Kannada treats *nahi* (a word of the *vivādi* group, end-accented by the Phiṭ-sūtra *vivādīnām antaḥ* [Phiṭ 4-[?]]) and *devaḥ* (*divu krīḍāyām*; *pacādi*; *nandigrahipacādibhyo lyuṇinyacaḥ* P. 3-1-134 gives *ac*; *pugantalaghūpadhasya ca* P. 7-3-86 gives guṇa; the suffix, having the mark *c*, is accented on its end by P. 6-1-163 *cit*, giving *deva*). ॥2॥ *(Numerals as read; pointers only.)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 787–788, noted briefly)*
+
+**नहि (*nahi*)**: final udātta by "evādīnām antaḥ".
+
+**देवः (*devaḥ*)**: the root *divu krīḍādau*, of the *pac-ādi*; so by "nandigrahipacādibhyo lyuṇinyacaḥ" (Pā. sū. 3-1-134) the suffix *ac*; by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86) the *laghūpadha-guṇa*; the suffix being *cit*, final udātta by *citaḥ*.
+
+### Page 788 (upper) — Rik 2: grammar (end)
+
+**महः (*mahaḥ*)**: for the *t* of the word *mahataḥ*, a Vedic loss. The genitive ending after the word *mahat* is udātta by "bṛhanmahator upasaṃkhyānam" (Pā. sū. 6-1-173, Vā. 1): after the words *bṛhat* and *mahat*, the letters called *nadī* and the vowel-initial case-endings from *śas* on are udātta. Although, since it is treated like *śatṛ* by "vartamāne pṛṣadbṛhanmahajjagacchatṛvac ca" (Uṇ. sū. "2-241" [?]), the udātta is established by "śatur anumo nadyajādī" (Pā. sū. 6-1-173) itself, so that the vārttika might appear purposeless, it was shown earlier that the vārttika is purposeful as a restriction.
+
+**तव (*tava*)**: by "yuṣmadasmador ṅasi" (Pā. sū. 6-1-211), when *ṅas* follows, the first syllable of the words *yuṣmad* and *asmad* is udātta; so it is initial udātta.
+
+**क्रतुम् (*kratum*)**: (Uṇ. sū. "1-77" [?]) since the suffix *katu* comes after the root *ḍukṛñ karaṇe*, after the root *kṛ* the suffix *katu*; the *k* is called *it* and dropped: *kṛ* + *atu*. The suffix being *kit*, *guṇa* is barred by "kṅiti ca" (Pā. sū. 1-1-5), so *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84) does not come. By the substitute *yaṇ*, *r* for the *ṛ*; by "ādyudāttaś ca" (Pā. sū. 3-1-3), the suffix accent, *kratu* is initial udātta.
+
+**गहि (*gahi*)**: the root *gamḷ sṛpḷ gatau*; *loṭ*, 2nd singular *sip*; by "ser hy apic ca" (Pā. sū. 3-4-87) *hi* for *si*: *gam* + *hi*; the *vikaraṇa* *śap* by *kartari śap*; for it *luk* by "bahulaṃ chandasi" (Pā. sū. 2-4-73). In the Mahābhāṣya on the sūtra "[ekāca upadeśe 'nudāttāt]" (Pā. sū. 7-2-10) [the sūtra name is garbled in the print], the kārikā that counts the *anudāttopadeśa* roots (*lip*, *lup*, *vap*, *svap*, *sṛp*, *yabh*, *rabh*, *labh*, *gam*, *nam* …) contains *gam*. So it is *anudātta*; so by "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. sū. 6-4-37), before a *jhal*-initial suffix marked with *k* or *ṅ*, the last letter of the nasal-final *anudāttopadeśa* roots, of the nasal-final *tanoty-ādi* roots and of the root *van* drops; so the nasal *m* drops: *ga* + *hi*. By "asiddhavad atrābhāt" (Pā. sū. 6-4-22), when the *luk* of *hi* is made by the *ābhīya* rule "ato heḥ" (Pā. sū. 6-4-105), the *ābhīya* loss of *m* is *asiddha*. So there is no being *a*-final; so the *luk* of *hi* does not come. In *gahi*, by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28), it is wholly unaccented.
+
+**॥२॥**
+
+---
 
 ### Pages 788–792 — Sūkta 19, Rik 3
 
