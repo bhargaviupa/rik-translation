@@ -2398,60 +2398,98 @@ The goddesses are able to protect men; they have uncut wings. May such ones prot
 
 ---
 
-### Pages 99–102 — Sūkta 22, Rik 12
+### Page 99 (lower) — Sūkta 22, Rik 12
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इहेन्द्राणीमुप ह्वये वरुणानीं स्वस्तये ।
-> अग्नायीं सोमपीतये ॥ १२ ॥
+> इ॒हेन्द्रा॒णीमुप॑ ह्वये वरुणा॒नीं स्व॒स्तये॑ ।
+> अ॒ग्नायीं॒ सोम॑पीतये ॥१२॥
+>
+> *ihéndrāṇī́m úpa hvaye varuṇānī́ṃ svastáye |*
+> *agnā́yīṃ sómapītaye ||12||*
 
-*ihendrāṇīm upa hvaye varuṇānīṃ svastaye | agnāyīṃ somapītaye || 12 ||*
+*(Bars under इ, द्रा, णा and स्व; strokes over प (उप) and, at the end, ये (स्तये). Line 2: bars under अ and यीं; a stroke over म.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 100 — Rik 12: Pada, bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> इह । इन्द्राणीम् । उप । ह्वये । वरुणानीम् । स्वस्तये ॥ अग्नायीम् । सोमऽपीतये ॥ १२ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*iha | indrāṇīm | upa | hvaye | varuṇānīm | svastaye || agnāyīm | soma-pītaye || 12 ||*
+> इह । इन्द्राणीं । उप । ह्वये । वरुणानीं । स्वस्तये ॥
+> अग्नायीं । सोमऽपीतये ॥१२॥
+>
+> *iha | indrāṇīṃ | upa | hvaye | varuṇānīṃ | svastaye ||*
+> *agnāyīṃ | soma 'pītaye ||12||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> इहास्मिन्कर्मणि स्वस्तयेऽस्माकमविनाशाय सोमपीतये सोमपानाय चेन्द्रवरुणाग्नीनां पत्नीरुपह्वये । इन्द्राणीम् । वरुणानीम् । इन्द्रवरुणेत्यादिना (पा. ४-१-४९) पुंयोगे ङीष् आनुगागमश्च । प्रत्ययस्वरः । अग्नायीम् । वृषाकप्यग्निकुसितकुसीदानामुदात्तः (पा. ४-१-३७) इति ङीष् । तत्संनियोगेनैकारस्यैकार उदात्तः [?] । सोमपीतये । असकृत्पूर्वोक्तम् ॥
+> इहास्मिन्कर्मणि स्वस्तयेऽस्माकमविनाशाय सोमपीतये सोमपानाय चेन्द्रवरुणाग्नीनां पत्नीराह्वयामि ॥ इन्द्राणीं । वरुणानीं । इन्द्रवरुणेत्यादिना । पा० ४-१-४९ । पुंयोगे ङीष्प्रत्यय आनुगागमश्च । प्रत्ययस्वरः । अग्नायीं । वृषाकप्यग्निकुसितकुसिदानामुदात्तः । पा० ४-१-३७ । इति ङीप् । तत्संनियोगेनेकारस्यैकार उदात्तः । सोमपीतये । असकृत्पूर्वोक्तं ॥
+>
+> *ihāsminkarmaṇi svastaye 'smākamavināśāya somapītaye somapānāya cendravaruṇāgnīnāṃ patnīrāhvayāmi || indrāṇīṃ | varuṇānīṃ | indravaruṇetyādinā | pā0 4-1-49 | puṃyoge ṅīṣpratyaya ānugāgamaśca | pratyayasvaraḥ | agnāyīṃ | vṛṣākapyagnikusitakusidānāmudāttaḥ | pā0 4-1-37 | iti ṅīp | tatsaṃniyogenekārasyaikāra udāttaḥ | somapītaye | asakṛtpūrvoktaṃ ||*
 
-*ihāsmin karmaṇi svastaye 'smākam avināśāya somapītaye somapānāya cendravaruṇāgnīnāṃ patnīr upahvaye | indrāṇīm | varuṇānīm | indravaruṇetyādinā (pā. 4-1-49) puṃyoge ṅīṣ ānugāgamaś ca | pratyayasvaraḥ | agnāyīm | vṛṣākapyagnikusitakusīdānām udāttaḥ (pā. 4-1-37) iti ṅīṣ | tatsaṃniyogenaikārasyaikāra udāttaḥ [?] | somapītaye | asakṛt pūrvoktam ||*
+**Translation:** "*Iha*, in this rite, *svastaye*, for our not perishing, and *somapītaye*, for drinking soma, I call the wives of Indra, Varuṇa and Agni." (Grammatical tail: *indrāṇīm*, *varuṇānīm*, by *indravaruṇa…* (Pā. 4-1-49), in the sense of connection with a man, the suffix *ṅīṣ* and the augment *ānuk*; the suffix accent; *agnāyīm*, *ṅīp* by *vṛṣākapyagnikusitakusidānām udāttaḥ* (Pā. 4-1-37), and along with it the udātta *ai* for the *i*; *somapītaye*, stated before more than once.)
 
-**Translation:** "Here, in this rite, for our welfare — our non-destruction — and for the drinking of soma, I invoke near the wives of Indra, Varuṇa and Agni. *Indrāṇīm, varuṇānīm*: by [the sūtra beginning] *indra-varuṇa…* (P. 4-1-49) the feminine suffix *ṅīṣ* and the augment *ānuk* [come after these words, in the sense of 'wife of']; the accent is that of the suffix. *Agnāyīm*: by P. 4-1-37 (*vṛṣākapy-agni-kusita-kusīdānām udāttaḥ*) the suffix *ṅīṣ* [and its accompanying substitute is udātta; the exact wording of the substitution — read as *ekāra* — is doubtful, hence [?]]. *Somapītaye*: said many times before."
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** **इह (iha)** — here | **इन्द्राणीम् (indrāṇīm)** — the wife of Indra | **वरुणानीम् (varuṇānīm)** — the wife of Varuṇa | **अग्नायीम् (agnāyīm)** — the wife of Agni | **स्वस्तये (svastaye)** — for [our] welfare | **सोमपीतये (somapītaye)** — for drinking soma | **उप ह्वये (upa hvaye)** — I invoke.
+**इह (iha)** — to this place | **इन्द्राणीं (indrāṇīṃ)** — Indra's wife | **वरुणानीं (varuṇānīṃ)** — Varuṇa's wife | **अग्नायीं (agnāyīṃ)** — and Agni's wife | **स्वस्तये (svastaye)** — for (our) welfare (and) | **सोमपीतये (somapītaye)** — and for drinking soma | **उप ह्वये (upa hvaye)** — I call.
 
-**॥ Bhāvārthaḥ ॥** For our welfare and for the drinking of soma, I invite here Indrāṇī, the wife of Indra, Varuṇānī, the wife of Varuṇa, and Agnāyī, the wife of Agni.
+**॥ Bhāvārthaḥ ॥**
+
+For bringing about good for us and for drinking soma, I call Indrāṇī, the wife of Indra, Varuṇānī, the wife of Varuṇa, and the goddess Agnāyī, the wife of Agni, to come here.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I invoke here Indrani, Varunani, and Agnayi, for our welfare and to drink the Soma-juice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 100–101)* The wife of Indra is called *Indrāṇī*, the wife of Varuṇa *Varuṇānī*, the wife of Agni *Agnāyī*. On this Yāska says [Nirukta, numerals not clearly read]: **इन्द्राणीन्द्रस्य पत्न्यग्नाय्यग्नेः पत्नी अश्विन्यश्विनोः पत्नी राट् राजते । रोदसी रुद्रस्य पत्नी । वरुणानी च वरुणस्य पत्नी** — *indrāṇīndrasya patny agnāyy agneḥ patnī aśvinyaśvinoḥ patnī rāṭ rājate | rodasī rudrasya patnī | varuṇānī ca varuṇasya patnī* — "Indrāṇī is the wife of Indra, Agnāyī the wife of Agni, [Aśvinī the wife of the Aśvins], *rāṭ* shines, Rodasī is the wife of Rudra, and Varuṇānī the wife of Varuṇa." [Reading of the quotation is mine from a compressed print; the order and the clause *rāṭ rājate* are uncertain.] These are called the wives of the gods. In some riks the names of these wives are given separately, and in others they are named together as 'the wives of the gods'. Examples cited by the author:
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-> इन्द्राणीमासु नारिषु सुभगामहमश्रवम् । नह्यस्या अपरं चन जरसा मरते पतिर्विश्वस्मादिन्द्र उत्तरः ॥ (Ṛ. Saṃ. 10-86-[10/11], as printed)
+**इन्द्राणी, वरुणानी, अग्नायी (indrāṇī, varuṇānī, agnāyī)** — Indra's wife is called Indrāṇī, Varuṇa's wife Varuṇānī, and Agni's wife Agnāyī. On this Yāska —
 
-*indrāṇīm āsu nārīṣu subhagām aham aśravam | nahy asyā aparaṃ cana jarasā marate patir viśvasmād indra uttaraḥ ||* — "Among these women I have heard Indrāṇī to be the most fortunate; her husband never dies of old age; Indra is higher than all." *(my gloss, tentative)*
+### Page 101 — Rik 12: Special Topics (end), grammar
 
-> नाहमिन्द्राणि रारण सख्युर्वृषाकपेरृते । उताहमस्मि वीरिणीन्द्रपत्नी मरुत्सखा । विश्वस्मादिन्द्र उत्तरः ॥ (Ṛ. Saṃ. 10-86-[9?], as printed)
+> इन्द्राणीन्द्रस्य पत्न्यग्नाय्यग्नेः पत्न्यश्विन्यश्विनोः पत्नी राट् राजते । रोदसी रुद्रस्य पत्नी । वरुणानी च वरुणस्य पत्नी । (नि० १२-४६)
+>
+> *indrāṇīndrasya patnyagnāyyagneḥ patnyaśvinyaśvinoḥ patnī rāṭ rājate | rodasī rudrasya patnī | varuṇānī ca varuṇasya patnī | (ni0 12-46)*
 
-*nāham indrāṇi rāraṇa sakhyur vṛṣākaper ṛte | utāham asmi vīriṇīndrapatnī marutsakhā | viśvasmād indra uttaraḥ ||* — "I, O Indrāṇī, take no delight apart from my friend Vṛṣākapi … I am the heroine, Indra's wife, the friend of the Maruts; Indra is higher than all." *(my gloss, tentative; two riks run together in the print)*
+— has said so: "Indrāṇī is the wife of Indra; Agnāyī, of Agni; Aśvinī, of the Aśvins; Rāṭ, she shines; Rodasī is the wife of Rudra; and Varuṇānī the wife of Varuṇa" (Ni. 12-46). They are named the wives of the gods. In some ṛks, without naming them separately, they are spoken of together as 'the wives of the gods'. As examples we have given some ṛks here:
 
-> इन्द्राणीमह ऊतये वरुणानीं स्वस्तये । (Ṛ. Saṃ. 1-22-12, this very rik, as printed) 
+> इन्द्राणीमासु नारिषु सुभगामहमश्रवं ।
+> नह्यस्या अपरं चन जरसा मरते पतिर्विश्वस्मादिन्द्र उत्तरः ॥
+> (ऋ० सं० १०-८६-११)
+> नाहमिन्द्राणि रारण सख्युर्वृषाकपेरृते (ऋ० सं० १०-८६-१२)
+> उताहमस्मि वीरिणीन्द्रपत्नी मरुत्सखा विश्वस्मादिन्द्र उत्तरः ॥ (ऋ० सं० १०-८६-९)
+> इन्द्राणीमह्व ऊतये वरुणानीं स्वस्तये (ऋ० सं० २-३२-८)
+> उत ग्ना व्यन्तु देवपत्नीरिन्द्राण्यग्नाय्यश्विनी राट् ।
+> आ रोदसी वरुणानी शृणोतु व्यन्तु देवीर्य ऋतुर्जनीनाम् ॥ (ऋ० सं० ५-४६-८)
+> देवानां पत्नीरुशतीरवन्तु नः प्रावन्तु नस्तुजये वाजसातये ।
+> याः पार्थिवासो या अपामपि व्रते ता नो देवीः सुहवाः शर्म यच्छत ॥ (ऋ० सं० ५-४६-७)
+>
+> *indrāṇīmāsu nāriṣu subhagāmahamaśravaṃ |*
+> *nahyasyā aparaṃ cana jarasā marate patirviśvasmādindra uttaraḥ ||*
+> *(ṛ0 saṃ0 10-86-11)*
+> *nāhamindrāṇi rāraṇa sakhyurvṛṣākaperṛte (ṛ0 saṃ0 10-86-12)*
+> *utāhamasmi vīriṇīndrapatnī marutsakhā viśvasmādindra uttaraḥ || (ṛ0 saṃ0 10-86-9)*
+> *indrāṇīmahva ūtaye varuṇānīṃ svastaye (ṛ0 saṃ0 2-32-8)*
+> *uta gnā vyantu devapatnīrindrāṇyagnāyyaśvinī rāṭ |*
+> *ā rodasī varuṇānī śṛṇotu vyantu devīrya ṛturjanīnām || (ṛ0 saṃ0 5-46-8)*
+> *devānāṃ patnīruśatīravantu naḥ prāvantu nastujaye vājasātaye |*
+> *yāḥ pārthivāso yā apāmapi vrate tā no devīḥ suhavāḥ śarma yacchata || (ṛ0 saṃ0 5-46-7)*
 
-> उत ग्ना व्यन्तु देवपत्नीरिन्द्राण्यग्नाय्यश्विनी राट् । आ रोदसी वरुणानी शृणोतु व्यन्तु देवीर्य ऋतुर्जनीनाम् ॥ (Ṛ. Saṃ. 5-46-8) 
+*(The last number is read ५-४६-७.)* The names of the wives of the gods are read in many such ṛks. *(Glosses of these quotations are not given in the source.)*
 
-*utā gnā vyantu devapatnīr indrāṇy agnāyy aśvinī rāṭ | ā rodasī varuṇānī śṛṇotu vyantu devīr yā ṛtur janīnām ||* — "Let the women [gnāḥ], the wives of the gods — Indrāṇī, Agnāyī, Aśvinī, Rāṭ — come [or enjoy]; may Rodasī and Varuṇānī listen; let the goddesses [come], *whose time is that of women* [?]." *(my gloss, tentative; the last pāda is doubtful)*
+**॥ Vyākaraṇa-prakriyā ॥**
 
-> देवानां पत्नीरुशतीरवन्तु नः प्रावन्तु नस्तुजये वाजसातये । याः पार्थिवासो या अपामपि व्रते ता नो देवीः सुहवाः शर्म यच्छत ॥ (Ṛ. Saṃ. 5-46-7 [?])
+**इन्द्राणीं, वरुणानीं (indrāṇīṃ, varuṇānīṃ)** — by *indravaruṇabhavaśarvarudramṛḍahimāraṇyayavayavanamātulācāryāṇām ānuk* (Pā. Sū. 4-1-49), the sense of the sūtra is that the augment *ānuk* and the suffix *ṅīṣ* come in the feminine after the twelve words *indra* and the rest. Here for the four words *hima*, *araṇya*, *yava*, *yavana* both the augment *ānuk* and the suffix *ṅīṣ* are laid down; for the other eight words, since *ṅīṣ* is established by *puṃyogād ākhyāyām* (Pā. Sū. 4-1-48), only the augment *ānuk* is laid down here. When, after the present words *indra*, *varuṇa*, *ṅīṣ* comes by *puṃyogād ākhyāyām*: *indra* + *ī*, *varuṇa* + *ī*; by the present sūtra *indravaruṇa…* the augment *ānuk*. *Ānuk* is *kit*; so by *ādyantau ṭakitau* (Pā. Sū. 1-1-46) — an augment marked *ṭ* comes as the first part, one marked *k* —
 
-*devānāṃ patnīr uśatīr avantu naḥ prāvantu nas tujaye vājasātaye | yāḥ pārthivāso yā apām api vrate tā no devīḥ suhavāḥ śarma yacchata ||* — "May the eager wives of the gods protect us; may they help us for offspring and the winning of strength; the [goddesses] who belong to the earth, and who [abide] in the ordinance of the waters — may those goddesses, easy to invoke, grant us shelter." *(my gloss, tentative)*
+### Page 102 — Rik 12: grammar (end)
 
-The author notes that the names of the divine wives occur in many such riks. *(Quotation numerals for these riks are marked as printed; where two read differently I have written the alternatives.)*
+— as the final part, of that for which it is laid down — it comes as the final part: *indra* + *ān* + *ī*, *varuṇa* + *ān* + *ī*; lengthening of like vowels; in the first, by *aṭkupvāṅnumvyavāye 'pi* (Pā. Sū. 8-4-2), *ṇ* for the *n*: it becomes *indrāṇī*, *varuṇānī*. *Ṅīṣ* is udātta by the suffix accent *ādyudāttaś ca* (Pā. Sū. 3-1-3); thus both these words are final udātta.
 
-*(Grammar pages 101–102, noted briefly: the words treated are* indrāṇīm, varuṇānīm *[P. 4-1-49* indravaruṇabhavaśarvarudramṛḍahimāraṇyayavayavanamātulācāryāṇām ānuk*: the augment* ānuk *and the feminine suffix* ṅīṣ *after* indra*,* varuṇa *(and the other words of the sūtra) in the sense of 'wife'; P. 4-1-48* puṃyogād ākhyāyām *pointer],* agnāyīm *[P. 4-1-37 *vṛṣākapy-agni-kusita-kusīdānām udāttaḥ*, with the substitute* ai *for the final* i *becoming* āy *by P. 6-1-78 *eco 'yavāyāvaḥ*; the accent argument through P. 1-1-50, 6-1-[?]] and* somapītaye *[reference back]; numerals as read, pointers only.)*
+**अग्नायीं (agnāyīṃ)** — the analysis is *agneḥ strī*. In *vṛṣākapyagnikusitakusidānām udāttaḥ* (Pā. Sū. 4-1-37), *ai ca* is carried on from the preceding sūtra *pūtakratorai ca*; from *saṃkhyāvyayāder ṅīp* (Pā. Sū. 4-1-26) *ṅīp* is carried on. So the sense of the sūtra results: after the four words *vṛṣākapi*, *agni*, *kusita*, *kusida*, in the feminine, the suffix *ṅīp* comes, and the substitute *ai* for the final letter of these four words; this *ai* is also udātta. By this sūtra, after the present word *agni*, the suffix *ṅīp* and the udātta substitute *ai* for the *i* come. *Agnai* + *ī*: by *eco 'yavāyāvaḥ* (Pā. Sū. 6-1-78) the substitute *āy* for *ai*: it becomes *agnāyī*. Although the word *agni*, formed with the suffix *ni* by *aṅger nalopaś ca* (U. Sū. 4-50), is final udātta by the suffix accent, and the substitute *ai* coming in its place would be udātta anyway by *sthāne 'ntaratamaḥ* (Pā. Sū. 1-1-50), yet the word *vṛṣākapi*, by *laghāvante dvayoś ca bahvaṣo guruḥ* — in a word of many vowels ending in one or two light vowels, the heavy vowel before the light one is udātta — has *ṣā* udātta and the rest unaccented by *śeṣanighāta*; so it is final-unaccented, and the substitute *ai* in its place would by *sthāne 'ntaratamaḥ* have to be unaccented. Therefore the udātta is laid down in the present sūtra. For the three words other than *vṛṣākapi*, though no udātta is laid down, the udātta is established by likeness of place.
+
+**सोमपीतये (somapītaye)** — its derivation has been set out many times before. ॥12॥
+
+---
+
 ### Pages 102–109 — Sūkta 22, Rik 13
 
 **॥ Saṃhitāpāṭhaḥ ॥**
