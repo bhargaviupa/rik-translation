@@ -23,12 +23,11 @@ the user Oct 27). Page map, from the page headers (Oct 27: every page's header n
 
 **Old scan** `scans/Rig_Vol3.pdf` (663 PDF pages): printed = PDF − 15; the file's existing text was written from it.
 
-**File layout:** by Ṛk, headings `### Pages A–B — Sūkta N, Rik M` (205 sections), with `*(p. N)*` markers. Sūkta 29 Ṛks 6–7 and
-Sūkta 30 (pp. 452–517): correct the **SUPERSEDING REDO** block near the end; the earlier text for those pages is superseded
-and stays untouched (see the runbook).
+**File layout:** by Ṛk, headings `### Pages A–B — Sūkta N, Rik M`, with `*(p. N)*` markers. Sūkta 29 Ṛks 6–7 and Sūkta 30
+(pp. 452–517) are the text redone from the page images, in place since Oct 27 (the unverified first version was removed).
 
-Tools: `tools/` (copied from `vol2/tools/` on Oct 27; `cfg.py` = the seven parts, `WORK=/tmp/v3num/`; `pages.py` = the map above
-and the REDO headings; `sam.py` also finds the REDO's `**Saṃhitā-pāṭha**` label).
+Tools: `tools/` (copied from `vol2/tools/` on Oct 27; `cfg.py` = the seven parts, `WORK=/tmp/v3num/`; `pages.py` = the map above;
+`sam.py` also finds the short `**Saṃhitā-pāṭha**` label of the redone Sūkta 29–30 text).
 
 ## Done
 
@@ -42,17 +41,17 @@ and the REDO headings; `sam.py` also finds the REDO's `**Saṃhitā-pāṭha**` 
    601–660 (+ p. 646 from the old scan) — steps in `vol3_runbook.md`.
 2. Saṃhitā accents for every Ṛk (none carry them yet; the blocks have notes such as "accent-marks printed; not reproduced").
 3. Bhāṣya passages marked "compressed": re-transcribe from the print as the pages are reached.
+   At p. 576 move the separate "Restored note" (*anāhitāgni*, end of the file) into Sūkta 31 Ṛk 15's Special Topics.
+   The file header's contents table has wrong start pages for Sūktas 30–32 (actual 458, 517, 587): correct it in batch PDF 1–100.
 4. Reviewer worklist `publish/review/All_volumes_review_worklist.xlsx`: 1,287 Vol 3 rows (reviewer columns empty, Oct 27);
    cross-check each batch's pages. Regenerate it (`python3 publish/review_all.py`) after the Vol 3 rebuild.
 5. End of volume: rebuild the print PDF (`cd publish && python3 build.py 3 full`), check no ◌, rebuild the DOCX, write "done" here.
 
-## For the user to decide
+## Decided
 
-- **Superseded text (Sūkta 29 Ṛks 6–7, Sūkta 30):** the unverified first version is still in the file above the REDO block (it
-  is marked superseded, but `publish/build.py` does not skip it. The current print PDF `publish/out/vol3_full.pdf` was built
-  before the REDO existed and prints only the **unverified** version of pp. 452–517; a rebuild as the file stands would print
-  both versions, the unverified one in its normal place and the REDO near the end). Recommended: before the end-of-volume
-  rebuild, remove the superseded text and move the REDO into its place. Not done without the user's word.
+- **Sūkta 29 Ṛks 6–7 and Sūkta 30 (user, Oct 27):** the unverified first version was removed and the redone text (formerly the
+  "SUPERSEDING REDO" block at the end of the file) put in its place; the file's progress note says so.
+- **`.gitattributes` (user, Oct 27):** cut to the two files really in Git LFS, on `main` and the Vol 2/Vol 3 branches.
 
 ## Open readings
 
