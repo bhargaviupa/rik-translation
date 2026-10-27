@@ -11217,13 +11217,15 @@ after the roots of the *kryādi* group, the vikaraṇa *śnā* in its own sense:
 
 ### Page 551 (lower) — Sūkta 13, Rik 6
 
+*(Saṃhitā accents as printed; Pada unaccented. Line 2: the bar under द्या of अद्या, as printed; the svarita on the last syllable of* नूनम् *is not printed.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वि श्रयन्तामृतावृधो द्वारो देवीरसश्चतः ।
-> अद्या नूनं च यष्टवे ॥६॥
+> वि श्र॑यन्तामृता॒वृधो॒ द्वारो॑ दे॒वीर॑स॒श्चतः॑ ।
+> अ॒द्या नू॒नं च॒ यष्ट॑वे ॥६॥
 >
-> *vi śrayantām ṛtāvṛdho dvāro devīr asaścataḥ |*
-> *adyā nūnaṃ ca yaṣṭave ||6||*
+> *ví śrayantām ṛtāvṛ́dho dvā́ro devī́r asaścátaḥ |*
+> *adyā́ nūnáṃ ca yáṣṭave ||6||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -11233,29 +11235,29 @@ after the roots of the *kryādi* group, the vikaraṇa *śnā* in its own sense:
 > *vi | śrayantām | ṛta-vṛdhaḥ | dvāraḥ | devīḥ | asaścataḥ ||*
 > *adya | nūnam | ca | yaṣṭave ||6||*
 
-### Pages 552–553 — Rik 6: Sāyaṇa-bhāṣya, word-meanings, overall sense, English
+### Page 552 — Rik 6: Sāyaṇa-bhāṣya, word-meanings, overall sense
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> द्वारो यज्ञशालाद्वाराणि वि श्रयन्ताम् । कपाटोद्घाटनेन विप्रियन्ताम् [reading uncertain] । कीदृश्यः । ऋतावृधः ऋतस्य सत्यस्य यज्ञस्य वा वर्धयित्र्यो देवीर्द्योतमाना असश्चतो ऽसक्ताः । उद्घाटनेन प्रवेष्टृपुरुषसंगरहिताः । यद्वा । आसश्चतः प्रवेष्टृ-पुरुषरहितान्यज्ञगृहांस्तत्पुरुषप्रवेशाय द्वाराभिमानिन्य एतत्संज्ञिका अग्निविशेषमूर्तयो वि श्रयन्ताम् । विशेषेण सेवन्ताम् । द्वारसेवया तत्र पुरुषप्रवेशेन वा किं प्रयोजनमिति तदुच्यते । अद्यास्मिन्दिने नूनमवश्यं यष्टवे यष्टुं । चकाराद्दिनान्तरेष्वपीति द्रष्टव्यम् ॥ ऋतावृधः । ऋतं वर्धयन्तीत्यर्थे वृधेरन्तर्भावितण्यर्थात्किप्चेति क्विप् । उपपदसमासः । आन्येषामपि दृश्यत इति पूर्वपदस्य दीर्घत्वम् । व्यथिर्धात्वस्वरेणोदात्तः । समासे ऽकृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते । देवीः । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । देवशब्दात्त्वचादिषु जन्तात्सत्संयोगादाख्यायाम् । पा. ४-१-४८ । इति ङीष् । प्रत्ययस्वरेणोदात्तः । विभक्त्या सह एकादेश उदात्तेनोदात्त इत्युदात्तः । असश्चतः । सश्च गतौ । जकारस्य व्यत्ययेन चकारः । लटः शतृ आदेशः । द्वाराभावेन विद्यन्ते सश्चंको गच्छन्तो येषु प्राग्संशाश्चादिषु तानसश्चतः । अद्य । सद्यःपरुत्परार्यैषमः इत्यादिना द्यप्रत्ययान्तो निपातितः । तद्धितश्चासर्वविभक्तिरित्यव्ययसंज्ञकत्वात्सप्तम्या लुक् । प्रत्ययस्वरेणान्तोदात्तः । संहितायामन्येषामपि दृश्यत इति दीर्घत्वम् । नूनम् । एवमादीनामन्त इत्यन्तोदात्तत्वम् । यष्टवे । यजेस्तुमर्थे सेसेनित्यादिना । पा. ३-४-९ । तवेन्प्रत्ययः । व्रश्चादिना षत्वम् । नित्त्वादाद्युदात्तः ॥
+> द्वारो यज्ञशालाद्वाराणि वि श्रयन्ताम् । कपाटोद्घाटनेन विव्रियन्ताम् । कीदृश्यः । ऋतावृध ऋतस्य सत्यस्य यज्ञस्य वा वर्धयित्र्यो देवीर्द्योतमाना असश्चतो ऽसक्ताः । उद्घाटनेन प्रवेष्टृपुरुषसङ्गरहिताः । यद्वा । असश्चतः प्रवेष्टृपुरुषरहितान्यज्ञगृहांस्तत्पुरुषप्रवेशाय द्वाराभिमानिन्य एतत्संज्ञिका अग्निविशेषमूर्तयो वि श्रयन्ताम् । विशेषेण सेवन्ताम् । द्वारसेवया तत्र पुरुषप्रवेशेन वा किं प्रयोजनमिति तदुच्यते । अद्यास्मिन्दिने नूनमवश्यं यष्टवे यष्टुम् । चकाराद्दिनान्तरेष्वपीति द्रष्टव्यम् ॥ ऋतावृधः । ऋतं वर्धयन्तीत्यर्थे वृधेरन्तर्भावितण्यर्थात्क्विप्चेति क्विप् । उपपदसमासः । अन्येषामपि दृश्यत इति पूर्वपदस्य दीर्घत्वम् । वृधिर्धातुस्वरेणोदात्तः । समासे कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते । देवीः । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । देवशब्दात्पचाद्यजन्तात्पुंयोगादाख्यायाम् । पा. ४-१-४८ । इति ङीष् । प्रत्ययस्वरेणोदात्तः । विभक्त्या सहैकादेश उदात्तेनोदात्त इत्युदात्तः । असश्चतः । ग्लुञ्चु षस्ज गतौ । जकारस्य व्यत्ययेन चकारः । लटः शत्रादेशः । द्वाराभावे न विद्यन्ते सश्चन्तो गच्छन्तो येषु प्राग्वंशादिषु तानसश्चतः । अद्य । सद्यःपरुदित्यादिना द्यप्रत्ययान्तो निपातितः । तद्धितश्चासर्वविभक्तिरित्यव्ययसंज्ञकत्वात्परस्या विभक्तेर्लुक् । प्रत्ययस्वरेणान्तोदात्तः । संहितायामन्येषामपि दृश्यत इति दीर्घत्वम् । नूनम् । एवमादीनामन्त इत्यन्तोदात्तत्वम् । यष्टवे । यजेस्तुमर्थे सेसेनित्यादिना । पा. ३-४-९ । तवेन्प्रत्ययः । व्रश्चादिना षत्वम् । नित्त्वादाद्युदात्तः ॥
 >
-> *dvāro yajña-śālā-dvārāṇi vi śrayantām | kapāṭodghāṭanena vipriyantām [reading uncertain] | kīdṛśyaḥ | ṛtāvṛdhaḥ ṛtasya satyasya yajñasya vā vardhayitryo devīr dyotamānā asaścato 'saktāḥ | udghāṭanena praveṣṭṛ-puruṣa-saṃgara-hitāḥ | yadvā | āsaścataḥ praveṣṭṛ-puruṣa-rahitān yajña-gṛhāṃs tat-puruṣa-praveśāya dvārābhimāninya etat-saṃjñikā agni-viśeṣa-mūrtayo vi śrayantām | viśeṣeṇa sevantām | dvāra-sevayā tatra puruṣa-praveśena vā kiṃ prayojanam iti tad ucyate | adyāsmin dine nūnam avaśyaṃ yaṣṭave yaṣṭuṃ | cakārād dinānantareṣv apīti draṣṭavyam || ṛtāvṛdhaḥ | ṛtaṃ vardhayantīty arthe vṛdher antarbhāvita-ṇyarthāt kip ceti kvip | upapada-samāsaḥ | ānyeṣām api dṛśyata iti pūrvapadasya dīrghatvam | vyathir dhātvasvareṇodāttaḥ | samāse 'kṛd-uttara-pada-prakṛti-svaratvena sa eva śiṣyate | devīḥ | vā chandasīti pūrvasavarṇa-dīrghatvam | deva-śabdāt tvacādiṣu jantāt sat-saṃyogād ākhyāyām | pā. 4-1-48 | iti ṅīṣ | pratyaya-svareṇodāttaḥ | vibhaktyā saha ekādeśa udāttenodātta ity udāttaḥ | asaścataḥ | saśca gatau | jakārasya vyatyayena cakāraḥ | laṭaḥ śatṛ ādeśaḥ | dvārābhāvena vidyante saścanto gacchanto yeṣu prāk-saṃśāścādiṣu tān asaścataḥ | adya | sadyaḥ-parut-parāry-aiṣamaḥ ity-ādinā dya-pratyayānto nipātitaḥ | taddhitaś cāsarva-vibhaktir ity avyaya-saṃjñakatvāt saptamyā luk | pratyaya-svareṇāntodāttaḥ | saṃhitāyām anyeṣām api dṛśyata iti dīrghatvam | nūnam | evam ādīnām anta ity antodāttatvam | yaṣṭave | yajes tumarthe se-sena ity-ādinā | pā. 3-4-9 | tavenpratyayaḥ | vraścādinā ṣatvam | nittvād ādyudāttaḥ ||*
+> *dvāro yajñaśālādvārāṇi vi śrayantām | kapāṭodghāṭanena vivriyantām | kīdṛśyaḥ | ṛtāvṛdha ṛtasya satyasya yajñasya vā vardhayitryo devīrdyotamānā asaścato 'saktāḥ | udghāṭanena praveṣṭṛpuruṣasaṅgarahitāḥ | yadvā | asaścataḥ praveṣṭṛpuruṣarahitānyajñagṛhāṃstatpuruṣapraveśāya dvārābhimāninya etatsaṃjñikā agniviśeṣamūrtayo vi śrayantām | viśeṣeṇa sevantām | dvārasevayā tatra puruṣapraveśena vā kiṃ prayojanamiti taducyate | adyāsmindine nūnamavaśyaṃ yaṣṭave yaṣṭum | cakārāddināntareṣvapīti draṣṭavyam || ṛtāvṛdhaḥ | ṛtaṃ vardhayantītyarthe vṛdherantarbhāvitaṇyarthātkvipceti kvip | upapadasamāsaḥ | anyeṣāmapi dṛśyata iti pūrvapadasya dīrghatvam | vṛdhirdhātusvareṇodāttaḥ | samāse kṛduttarapadaprakṛtisvaratvena sa eva śiṣyate | devīḥ | vā chandasīti pūrvasavarṇadīrghatvam | devaśabdātpacādyajantātpuṃyogādākhyāyām | pā. 4-1-48 | iti ṅīṣ | pratyayasvareṇodāttaḥ | vibhaktyā sahaikādeśa udāttenodātta ityudāttaḥ | asaścataḥ | gluñcu ṣasja gatau | jakārasya vyatyayena cakāraḥ | laṭaḥ śatrādeśaḥ | dvārābhāve na vidyante saścanto gacchanto yeṣu prāgvaṃśādiṣu tānasaścataḥ | adya | sadyaḥparudityādinā dyapratyayānto nipātitaḥ | taddhitaścāsarvavibhaktirityavyayasaṃjñakatvātparasyā vibhakterluk | pratyayasvareṇāntodāttaḥ | saṃhitāyāmanyeṣāmapi dṛśyata iti dīrghatvam | nūnam | evamādīnāmanta ityantodāttatvam | yaṣṭave | yajestumarthe sesenityādinā | pā. 3-4-9 | tavenpratyayaḥ | vraścādinā ṣatvam | nittvādādyudāttaḥ ||*
 
-**Translation:** "May the *dvāraḥ* — the doors of the sacrificial hall — *vi śrayantām*: be opened wide, by the opening of their leaves. What kind of doors? *Ṛtāvṛdhaḥ* — increasers of *ṛta*, of truth or of the sacrifice; *devīḥ* — shining; *asaścataḥ* — unattached, free of any obstacle to the persons who are to enter when they are thrown open. *Or else*: the Fire-forms, called by this name, who preside over the doors (*dvārābhimāninyaḥ*), may specially serve the sacrificial houses which up to now have had no person enter, so that persons may enter. What is the purpose of serving the doors, or of letting persons enter? This is told: *adya nūnam* — today, certainly — *yaṣṭave* — for the sacrificing; by *ca*, [it is] on other days too." *(Grammar noted briefly:* ṛtāvṛdh *is formed with* kvip *after* vṛdh *with the causative sense, a compound with an* upapada*;* devī *has* ṅīṣ *by Pā. 4-1-48 [?];* asaścat *is the* śatṛ *of* saśca *(Vedic* c *for* j*);* adya *as in Rik 2;* nūnam *final-udātta;* yaṣṭave *is the infinitive in* tavai *with* ṣ *by Pā. 8-2-36 [?].)* *(The bhāṣya is read with some doubt where compressed.)*
+**Translation:** "May the *dvāraḥ* — the doors of the sacrificial hall — *vi śrayantām*: be opened by the opening of their leaves. What kind? *Ṛtāvṛdhaḥ* — increasers of *ṛta*, truth or the sacrifice; *devīḥ* — shining; *asaścataḥ* — unattached: by being opened, free of contact with the persons who enter. Or else: may the special forms of Agni, presiding over the doors and called by this name, *vi śrayantām* — specially serve — the sacrificial houses hitherto without persons entering, for those persons to enter. What is the purpose of serving the doors or of persons entering there? That is told: *adya*, on this day, *nūnam*, without fail, *yaṣṭave*, to sacrifice; from the word *ca*, on other days too, it is to be understood." (Grammatical tail: *ṛtāvṛdhaḥ* — "they increase *ṛta*": *kvip* after *vṛdh* with the causative sense included, by "kvip ca"; an *upapada* compound; the first member lengthened by "anyeṣām api dṛśyate"; *vṛdh* udātta by the root accent, which alone remains in the compound as the *kṛt* second member's accent; *devīḥ* — *pūrvasavarṇa* lengthening by "vā chandasi"; *ṅīṣ* after *deva*, an *ac*-ending of the *pacādi*, by "puṃyogād ākhyāyām" (Pā. 4-1-48); udātta by the suffix accent, and the single substitute with the case ending udātta by "ekādeśa udāttenodāttaḥ"; *asaścataḥ* — from *gluñcu ṣasja gatau*, *c* for the *j* by exception, *śatṛ* for *laṭ*: "those in which there are no goers, as the *prāgvaṃśa* and other [halls] in the absence of doors"; *adya* — formed irregularly with *dya* by "sadyaḥ-parut…", an indeclinable by "taddhitaś cāsarvavibhaktiḥ", so the ending after it is dropped, final-udātta, lengthened in the Saṃhitā; *nūnam* — final-udātta by "evamādīnām antaḥ"; *yaṣṭave* — *taven* in the sense of *tumun* by "se-sen…" (Pā. 3-4-9), *ṣ* by "vraśca…", initial-udātta as *nit*.)
 
 **॥ Prati-padārthaḥ ॥**
 
-**अद्य (adya)** — today (now itself) | **नूनम् (nūnam)** — certainly | **यष्टवे च (yaṣṭave ca)** — in order that [we] may perform the sacrifice | **ऋतावृधः (ṛtāvṛdhaḥ)** — helping the sacrifice to go forward | **देवीः (devīḥ)** — shining (making light) | **असश्चतः (asaścataḥ)** — joined [to nothing]: until now entered by no one | **द्वारः (dvāraḥ)** — the doors (gates) of the sacrificial hall | **वि श्रयन्ताम् (vi śrayantām)** — be opened.
+**अद्य (adya)** — today (now itself) | **नूनम् (nūnam)** — certainly | **यष्टवे च (yaṣṭave ca)** — in order that [we] may perform the sacrifice | **ऋतावृधः (ṛtāvṛdhaḥ)** — helping the sacrifice to go forward | **देवीः (devīḥ)** — shining (making light) | **असश्चतः (asaścataḥ)** — free of contact, that is, entered by no one until now | **द्वारः (dvāraḥ)** — the doors (gates) of the sacrificial hall | **वि श्रयन्ताम् (vi śrayantām)** — be opened.
 
 **॥ Bhāvārthaḥ ॥**
 
-May the doors of the sacrificial hall, which give light and help the sacrifice go forward, and which no one has entered until today, be opened without delay, for the sacrifice we are going to perform.
+The doors of the sacrificial hall make it well lit and help the sacrifice go forward. Until now (that is, today) no one has entered this sacrificial hall. May such doors of the sacrificial hall be opened now, without delay, for the sacrifice we perform.
+
+### Page 553 — Rik 6: English, Special Topics
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Let the divine doors, the promoters of the sacred rite, hitherto unentered be set open; for certainly to-day the sacrifice is to be performed.
-
-### Page 553 — Rik 6: Special Topics
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
@@ -11263,22 +11265,22 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 
 > द्वारः । द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा ॥
 > अग्निरिति शाकपूणिः ॥
-> *dvāraḥ | dvāro javater vā dravater vā vārayater vā ||*
-> *agnir iti śākapūṇiḥ ||*
-> (Nirukta 8-8 [?])
-> "*Dvāraḥ* — the word *dvāra* is from *javati* ('to hasten'), *dravati* ('to run') or *vārayati* ('to stop'). Śākapūṇi says it is Agni."
+>
+> *dvāraḥ | dvāro javatervā dravatervā vārayatervā ||*
+> *agniriti śākapūṇiḥ ||*
+
 
 *Dvāra* is that by which one enters, goes inside, or that which stops one going inside; so it is called *dvāra*. Śākapūṇi's view is that *dvāra* is Agni: since Agni is the form in which the *homa* is made, the doors of the *homa*-chamber are also called "special forms of Agni." *The doors of the chamber in which the oblation is offered, said to be personifications of Agni* [the source's English].
 
-**"Viśrayantām"** — *kapāṭodghāṭanena vipriyantām* [as read]; *vivṛtā bhavantu*: "let them be opened wide, let the doors be well opened."
+**"Viśrayantām"** — *kapāṭodghāṭanena vivriyantām | vivṛtā bhavantu*: let the doors be opened well.
 
-**"Ṛtāvṛdhaḥ"** — *ṛtaṃ (yajñaṃ) vardhayantīti ṛtāvṛdhaḥ*: "helpful in advancing the sacrifice": that is, by entering the sacrificial hall, they help to carry out the *homa* and the other acts to be done in the sacrifice.
+**"Ṛtāvṛdhaḥ"** — *ṛtaṃ (yajñaṃ) vardhayantīti ṛtāvṛdhaḥ*: helpful for the sacrifice to go forward — that is, by [letting one] enter the sacrificial hall, they help to carry out the *homa* and the other acts to be done in the sacrifice.
 
 **"Devīḥ"** — *dyotamānāḥ*: "shining, making light well": when the door is opened, light naturally fills the room. Whether the word *devīḥ* is understood as an adjective of *dvāraḥ*, or both words are taken in the sense "the deities presiding over the doors," either use is possible; for in the Anukramaṇikā the deity of this rik is named *devīr dvāraḥ*.
 
-### Pages 554–555 — Rik 6: Special Topics (continued) and grammar
+### Page 554 — Rik 6: Special Topics (continued) and grammar
 
-**"Asaścataḥ"** — *dvārābhāve saścanto gacchanto yeṣu* — "[doors] in which there are no ones going or staying, i.e. *na saktāḥ asaktāḥ*: free of entry, that no one has entered, or which stop those entering": such senses may be given.
+**"Asaścataḥ"** — *dvārābhāve saścanto gacchanto yeṣu | na saścataḥ asaścataḥ*: free of entry, entered by no one, or which stop those who would enter — such senses may be given.
 
 **"Adyā"** — "now, today; this time at which we are performing this sacrifice." The final vowel is lengthened in the Saṃhitā for the convenience of the meter.
 
@@ -11286,9 +11288,13 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 
 **"Ca"** — this word has no special sense here; looking at it one way, there is no need of it in this rik. The Bhāṣyakāra gives the sense *dinānteṣv api* — "on other days too."
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 554–555, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 554–555, noted briefly; numbers checked against the print)*
 
-**ऋतावृधः (*ṛtāvṛdhaḥ*)** — "ṛtaṃ vardhayanti": root *vṛdhu vṛddhau* with the causative sense inside; *kvip* by "kvip ca" (Pā. 3-2-76 [?]); with the *upapada* *ṛta*, a compound by "upapadam atiṅ" (Pā. 2-2-19 [?]); "ānyeṣām api dṛśyate" (Pā. 6-3-137 [?]) lengthens the first member; *vṛdh* is udātta by the root accent; the *kṛdanta* second member's accent by "gatikārakopapadāt kṛt" (Pā. 6-2-139 [?]); nominative plural. **देवीः (*devīḥ*)** — *deva* from *divu krīḍādau* with *ac* ("nandigrahipacādibhyo lyuṇinyacaḥ," Pā. 3-1-134 [?]); final-udātta by *cit*; "puṃyogād ākhyāyām" (Pā. 4-1-48 [?]): in the feminine of a word that is a man's name by his relation, *ṅīṣ*; "devasya strī" with the feminine sense; *deva* + *ī*; "yasyeti ca" (Pā. 6-4-148 [?]) drops *a*; *ī* is udātta by the suffix accent; *jas* follows; *pūrvasavarṇadīrgha* ("prathamayoḥ pūrvasavarṇaḥ," Pā. 6-1-102 [?]) would arise but is barred by "dīrghājjasi ca" (Pā. 6-1-105 [?]); "vā chandasi" (Pā. 6-1-106 [?]) makes it optional, so it applies; the single substitute is udātta by "ekādeśa udāttenodāttaḥ" (Pā. 8-2-5 [?]). **असश्चतः (*asaścataḥ*)** — root *ṣañj/saśca gatau* (*juhotyādi*? the source reads "*saścī*, *saścu*," in the sense of going); *j* → *c* by Vedic inversion; "dhātvādeḥ ṣaḥ saḥ" (Pā. 6-1-64 [?]); *laṭ* → *śatṛ* ("laṭaḥ śatṛśānacau," Pā. 3-2-124 [?]); *śap*; "ato guṇe" (Pā. 6-1-97 [?]) gives *pararūpa*; "dvārābhāvena vidyante saścanto gacchanto yeṣu" gives the sense; accusative plural *śas*. **अद्य (*adya*)** — formed with *dya* by "sadyaḥ parut…" (Pā. 5-3-22 [?]); "taddhitaś cāsarvavibhaktiḥ" (Pā. 1-1-38 [?]) gives it the *avyaya* name, so the following locative ending is dropped ("avyayād āpsupaḥ," Pā. 2-4-82 [?]); final-udātta by the suffix accent; lengthened in the Saṃhitā ("anyeṣām api dṛśyate," Pā. 6-3-137 [?]). **नूनम् (*nūnam*)** — "evamādīnām antaḥ" (Phiṭ-sūtra [?]): final-udātta. **यष्टवे (*yaṣṭave*)** — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; "tumarthe sese-sen-ase-asen-kṣe-kṣenadhyai-adhyaiṅ-kadhyai-kadhyaiṅ-śadhyai-śadhyaiṅ-tavai-tavaiṅ-tavenaḥ" (Pā. 3-4-9 [?]): in the Veda the infinitive suffixes *tavai*, *tavaiṅ*, *taven* and others in the sense of *tumun*; *yaj* + *tave*; "vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ" (Pā. 8-2-36 [?]) turns *j* → *ṣ*; "ṣṭunā ṣṭuḥ" (Pā. 8-4-41 [?]) turns *t* → *ṭ*: *yaṣṭave*; *taven* is *nit*, so initial-udātta. *(Sūtra numbers read from small print; pointers only.)*
+**ऋतावृधः (*ṛtāvṛdhaḥ*)** — in the sense "ṛtaṃ vardhayanti", after the root *vṛdh* with the causative sense included, *kvip* by "kvip ca" (Pā. 3-2-76); "upapadam atiṅ" (Pā. 2-2-19): an *upapada* that is a *subanta* is always compounded with the connected word — so a compound; "anyeṣām api dṛśyate" (Pā. 6-3-137) lengthens the first member. *Vṛdh* is udātta by the root accent; once compounded, "gati-kārakopapadāt kṛt" (Pā. 6-2-139) gives the accent of the *kṛt* second member, and that same accent stands. Nominative plural. **देवीः (*devīḥ*)** — the word *deva* is formed from *divu krīḍādau* with the suffix *ac* by "nandi-grahi-pacādibhyo lyu-ṇiny-acaḥ" (printed "vā. sū." [sic] 3-1-134); so it is final-udātta by "citaḥ". After it "puṃyogād ākhyāyām" (Pā. 4-1-48): a word well known in the masculine, when used by implication in the feminine through connection with a man, takes *ṅīṣ* (the connection with a man being that of marriage, or of being begotten) — so when *devasya strī* is meant, *ṅīṣ* comes: *deva* + *ī*; "yasyeti ca" (Pā. 6-4-148) drops the *a*; the *ī* is udātta by the suffix accent. Then the nominative plural *jas*; the *pūrvasavarṇa*-lengthening of "prathamayoḥ pūrvasavarṇaḥ" (Pā. 6-1-102) is barred by "dīrghāj jasi ca" (Pā. 6-1-105); yet by "vā chandasi" (printed "3-4-88" [sic]; the sūtra is 6-1-106) the *pūrvasavarṇa*-lengthening comes as a single substitute, and that single substitute is udātta by "ekādeśa udāttenodāttaḥ" (Pā. 8-2-5).
+
+### Page 555 — Rik 6 grammar closes
+
+**असश्चतः (*asaścataḥ*)** — root *gluñcu ṣasja gatau*; *c* for the *j* by exception; *s* for the *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. 6-1-64); then *laṭ*, replaced by *śatṛ* by "laṭaḥ śatṛ…" (Pā. 3-2-124); the vikaraṇa *śap*: *sasc* + *a* + *at*; *pararūpa* by "ato guṇe": *sascat*. "dvārābhāvena na vidyante saścantaḥ gacchantaḥ yeṣu prāgvaṃśādiṣu, tān" — so the analysis; with the accusative plural *śas*: *asaścataḥ*. **अद्य (*adya*)** — formed irregularly, as ending in the suffix *dya*, by the sūtra "sadyaḥ parut…" (Pā. 5-3-22). Since it has the name *avyaya* by "taddhitaś cāsarvavibhaktiḥ" (Pā. 1-1-38), the locative singular *ṅi* after it is dropped by "avyayād āp-supaḥ" (Pā. 2-4-82). It is final-udātta by the suffix accent; in the Saṃhitā it is lengthened by "anyeṣām api dṛśyate" (Pā. 6-3-137). **नूनम् (*nūnam*)** — final-udātta by "evādīnām antaḥ" (printed "pā. sū. 82"). **यष्टवे (*yaṣṭave*)** — root *yaja devapūjādau*; after it "tumarthe se-sen-ase-asen-kse-kasen-adhyai-adhyain-kadhyai-kadhyain-śadhyai-śadhyain-tavai-taveṅ-tavenaḥ" (Pā. 3-4-9) gives *taven* in the sense of *tumun*: *yaj* + *tave*; "vraśca-bhrasja-sṛja-mṛja-yaja-rāja-bhrāja-cchaśāṃ ṣaḥ" (Pā. 8-2-36) gives *ṣ* for the *j*; *ṣṭutva* by "ṣṭunā ṣṭuḥ" (Pā. 8-4-41) gives *ṭ* for the *t*: *yaṣṭave*; the suffix being *nit*, it is initial-udātta by the *nit* accent.
 
 **॥६॥**
 
