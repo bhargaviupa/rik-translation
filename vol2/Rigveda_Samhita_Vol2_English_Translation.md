@@ -5124,9 +5124,9 @@ The meaning of this Ṛk is not plain either. The names of the Maruts are not in
 
 ### Page 226 — Vyākaraṇa-prakriyā for Rik 6.4 concluded; Sūkta 6, Fifth Mantra: Saṃhitā
 
-*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 6." Grammar characterized, sūtras kept; numbers as read. Accent-marks on the Saṃhitā text are printed; not reproduced.)*
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 6." Grammar characterized, sūtras kept; re-read from the better scan (PDF 238, the first page after the gap). Saṃhitā accents as printed; Pada unaccented.)*
 
-**"Erire"** — the root "īr gatau" (to go), with the causal sense included, and it is "anudātteṭ" (unaccented in its upadeśa); **liṭ** is added (**परोक्षे लिट्**, पा. ३-२-११५) and in the third-person plural the "jha" is replaced by **इरेच्** — **लिटस्तझयोरेशिरेच्** (पा. ३-४-८१) — "e" for "ta" and "irec" for "jha" in the "liṭ" — "īr + irec"; because of the "c"-mark it is end-acute (**चितः**, पा. ६-१-१६३). **"Saha supā"** — **सह सुपा** (पा. २-१-४), which the print takes as two sūtras ("saha" and "supā," divided by the "yoga-vibhāga" principle): "saha" (a compound of a subanta with a tiṅanta in the "supā" sense); here "ā" (a prefix in the sense of a particle) combines with "erire" by that part of the sūtra, and the compound takes the accent of the whole compound, the end-acute (**समासस्य**, पा. ६-१-२२३). **"Ām"** — for a verb in "liṭ" with a heavy first syllable beginning with a vowel, **इजादेश्च गुरुमतोऽनृच्छः** (पा. ३-१-३६) would bring the augment "ām" (affix "ām") — the print says: but, as this is a mantra, by the rule **कास्प्रत्ययादाममन्त्रे लिटि** (पा. ३-१-३५) "ām" is added in "liṭ" only outside mantras, so "ām" does not come here. **"Aha" and nighāta** — by **तुपश्यपश्यताहैः पूजायाम्** (पा. ८-१-४२) there is a prohibition of nighāta on a verb joined with "tupaśya," "paśya," "tā" and "ahai" in the sense of praise; because of the word "aha" the verb "erire" is not made unaccented. **"Dadhānāḥ"** — "śānac" after "dhā"; "śānac" being "c"-marked would be end-acute (**चितः**), but **अभ्यस्तानामादिः** (पा. ६-१-१८९) gives it first-syllable acute; "dhā" is a "juhotyādi" root, so "śap" is replaced by "ślu" (**जुहोत्यादिभ्यः श्लुः**, पा. २-४-७५), and the doubling (**श्लौ**, पा. ६-१-१०): "dadhā" — it is called "abhyasta" (**उभे अभ्यस्तम्**, पा. ६-१-५). **"Yajñiyam"** — **यज्ञर्त्विग्भ्यां घखञौ** (पा. ५-१-७१): after "yajña" and "ṛtvij," in the sense "he deserves," the affixes "gha" and "khañ" (here "gha"); **आयनेयीनीयियः फढखछघां प्रत्ययादीनाम्** (पा. ७-१-२): the initial "ph, ḍh, kh, chh, gh" of an affix are replaced by "āyan, eya, īn, īy, iy" in order; "gh" → "iy" → "yajña + iya" → "yajñiya." The "i" is acute by the affix's accent. ॥४॥
+**"Erire"** — the root "īr gatau" (to go), with the causal sense included, and it is "anudātteṭ" (unaccented in its upadeśa); "liṭ" is added, and in the third-person plural the "jha" is replaced by **इरेच्** — **लिटस्तझयोरेशिरेच्** (पा. ३-४-८१) — "e" for "ta" and "irec" for "jha" in the "liṭ" — "īr + irec"; because of the "c"-mark it is end-acute (**चितः**, पा. ६-१-१६३). **"Saha supā"** — **सह सुपा** (पा. २-१-४), which the print takes as two sūtras ("saha" and "supā," divided by the "yoga-vibhāga" principle): "saha" (a compound of a subanta with a tiṅanta in the "supā" sense); here "ā" (a prefix in the sense of a particle) combines with "erire" by that part of the sūtra, and the compound takes the accent of the whole compound, the end-acute (**समासस्य**, पा. ६-१-२२३). **"Ām"** — for a verb in "liṭ" with a heavy first syllable beginning with a vowel, **इजादेश्च गुरुमतोऽनृच्छः** (पा. ३-१-३६) would bring the augment "ām" (affix "ām") — the print says: but, as this is a mantra, by the rule **कास्प्रत्ययादाममन्त्रे लिटि** (पा. ३-१-३५) "ām" is added in "liṭ" only outside mantras, so "ām" does not come here. **"Aha" and nighāta** — by **तुपश्यपश्यताहैः पूजायाम्** (पा. ८-१-३९) there is a prohibition of nighāta on a verb joined with "tupaśya," "paśya," "tā" and "ahai" in the sense of praise; because of the word "aha" the verb "erire" is not made unaccented. **"Dadhānāḥ"** — "śānac" after "dhā"; "śānac" being "c"-marked would be end-acute (**चितः**), but **अभ्यस्तानामादिः** (पा. ६-१-१८९) gives it first-syllable acute; "dhā" is a "juhotyādi" root, so "śap" is replaced by "ślu" (**जुहोत्यादिभ्यः श्लुः**, पा. २-४-७५), and the doubling (**श्लौ**, पा. ६-१-१०): "dadhā," which by "ubhe abhyastam" is called "abhyasta." **"Yajñiyam"** — **यज्ञर्त्विग्भ्यां घखञौ** (पा. ५-१-७१): after "yajña" and "ṛtvij," in the sense "he deserves," the affixes "gha" and "khañ" (here "gha"); **आयनेयीनीयियः फढखछघां प्रत्ययादीनाम्** (पा. ७-१-२): the initial "ph, ḍh, kh, chh, gh" of an affix are replaced by "āyan, eya, īn, īy, iy" in order; "gh" → "iy" → "yajña + iya" → "yajñiya." The "i" is acute by the affix's accent. ॥४॥
 
 ---
 
@@ -5134,11 +5134,11 @@ The meaning of this Ṛk is not plain either. The names of the Maruts are not in
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वीळु चिदारुजत्नुभिर्गुहा चिदिन्द्र वह्निभिः ।
-> अविन्द उस्रिया अनु ॥५॥
+> वी॒ळु चि॑दारुज॒त्नुभि॒र्गुहा॑ चिदिंद्र॒ वह्नि॑भिः ।
+> अविं॑द उ॒स्रिया॒ अनु॑ ॥५॥
 >
-> *vīḷu cid ārujatnubhir guhā cid indra vahnibhiḥ |*
-> *avinda usriyā anu ||5||*
+> *vīḷú cidārujatnúbhirgúhā cidiṃdra váhnibhiḥ |*
+> *áviṃda usríyā ánu ||5||*
 
 ### Page 227 — Rik 6.5: Pada, Sāyaṇa-bhāṣya (the Paṇi legend), grammar (characterized), Pada-meanings
 
