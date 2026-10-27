@@ -95,3 +95,5 @@ old-scan PDF 239-240 (pp. 224-225, missing in better scan): Āśv. 7-2; Anu. 2-2
 260-261: page 205 (Yāska cross-ref); 5-7-3 [?] as printed (5-3-7); 2-4-71; 5-3-5; 1-1-55; 1-4-17; 8-2-7; 6-1-193; 3-2-75; Ṛ. 1-20-3; 8-1-19; 3-4-87; 1-2-4; "6-3-37" as printed; 6-4-22; 6-4-105; 6-1-171; Phi. 84 as printed; 3-2-149; 7-1-1; 6-1-163 + vā. 1; 5-3-68; 5-3-71; Va. 12
 262: Phi. 80; 7-2-102; 6-1-97; 2-4-32; 7-1-15; 3-1-4; 7-1-58; 8-3-24; 8-4-58; 8-1-28; verse "upasarge ca" as printed
 263: Va. 12; accents Rk 6.10; bhāṣya yācāmahe, kasmāl lokād iti, ayam, yācñākarmasv īmahe yāmīti; grammar 5-3-3, 6-1-171, 6-1-193, 1-4-2, 5-3-1, pari. 40
+264: Va. 12; first lines read (na gośvansāv avarṇa…, 6-1-182 [?]); īṅ gatau, ṅittvāt; 8-1-59 (print); tiṅvibhakter … tadapekṣya; Uṇ. 1-150; sāv ekācaḥ; ñnityādir nityam (no no.); 4-1-41, 4-3-140, 6-4-148, 7-2-117, 1-1-51
+265: Va. 12; no Nighaṇṭu ref printed for īmahe; 5-3-7, 5-3-3, 1-1-55, 6-1-171, 6-1-63, 6-1-193; scopes of ūḍidam/liti corrected (were swapped)
