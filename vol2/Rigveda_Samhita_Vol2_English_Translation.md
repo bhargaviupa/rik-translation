@@ -6730,23 +6730,27 @@ Because this rik contains the relative word **येन** (*yena*, "by which"), 
 
 ### Pages 308–310 — Rik 2 grammar; Rik 3 text
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages, noted briefly)*
+*(Page headers: p. 308 "Maṃ. 1, A. 3, Sū. 8"; p. 309 "A. 1, A. 1, Va. 15." The top of p. 308 ends the Special Topics (given under p. 307).)*
 
-Words treated: **मुष्टिहत्यया (*muṣṭihatyayā*)** — *muṣṭi* + *hatyā* ("slaying"), from root *han* with *kyap* (Pā. 3-1-108 [?]) and the *han→hat* change; the accent of the compound explained under the "gati-kāraka-upapadāt kṛt" rule (Pā. 6-2-139 [?]) with Vedic *bahulam*; final-udātta. **नि (*ni*)** — an upasarga connected with the verb, standing apart (Pā. 1-4-82 [?]). **वृत्रा (*vṛtrā*)** — neuter plural *jas* → *śi*, dropped by Vedic *bahulam* (Pā. 6-1-70 [?]); *num* augment and its *n* dropped. **रुणधामहै (*ruṇadhāmahai*)** — *rudhir āvaraṇe* ("to obstruct"), ātmanepada *loṭ* first-person plural *mahiṅ* → *mahai*; *śnam* between *u* and *dh* (Pā. 3-1-78 [?]); *āṭ* augment; the long, technical argument on why a *sārvadhātuka* ending here does not take a loss of the *a* of *śnam*. **A long discussion of "cavā-yoge prathamā"** (p. 309): since the sentence has two finite verbs, the question is which is "first-uttered" and so escapes lowering; it is answered with the Taittirīya Saṃhitā examples "*ātmanā tṛpyati nānyasmai dadāti*" (Taitt. Saṃhitā 2-?-?) and others. **त्वोतासः (*tvotāsaḥ*)** — *tvā* + *ūta* ("protected by you") in a third-case tatpuruṣa; *tvad* → *tva* (Pā. 7-2-97 [?]), the *d* dropped; the vṛddhi that would arise is blocked by Vedic license; accent of the first member retained. **अर्वता (*arvatā*)** — root *arva gatau* ("to go") + *vanip* (Pā. 3-2-75 [?]); *arvan* → *arvat* (Pā. 6-4-127 [?]); the instrumental singular *arvatā*, final-udātta on the *a*-vowel by the root's accent. *(All sūtra numbers read from small print; pointers only. The page 310 Sanskrit ends with the number* ॥२॥*.)*
+**॥ Vyākaraṇa-prakriyā ॥** *(Kannada; characterized, numbers as printed)*
 
-**॥२॥**
+**मुष्टिहत्यया** — **हनस्त च** (पा. सू. ३-१-१०८): after "han" with a subanta upapada other than an upasarga, "kyap" in the action sense, with "t" for "n": "hat + ya," "muṣṭyā hananam," "muṣṭihatyā." The kṛt-final second member's accent of **गतिकारकोपपदात्कृत्** (पा. सू. ६-२-१३९) would hold, but **परादिश्छन्दसि बहुलम्** (पा. सू. ६-२-१९९), with its "bahula," and the vārttika **अन्तोदात्तप्रकरणे त्रिचक्रादीनां छन्दस्युपसंख्यानम्** (printed "पा. सू. ९-२-१९९-वा. १," i.e. 6-2-199 vā. 1) give the end-acute. **नि** — joined with the verb, but by **व्यवहिताश्च** (पा. सू. १-४-८२) used apart. **वृत्रा** — "śi" for "jas"; **शेश्छन्दसि बहुलम्** (पा. सू. ६-१-७०) elides it; **नपुंसकस्य झलचः** (पा. सू. ७-१-७२) "num," and its "n" dropped by **नलोपः प्रातिपदिकान्तस्य** (पा. सू. ८-२-७). **रुणधामहै** — "rudhir āvaraṇe," "loṭ," ātmanepada first plural "mahiṅ"; **टित आत्मनेपदानां टेरे** (पा. सू. ३-४-७९) "e"; **एत ऐ** (पा. सू. ३-४-९३) "ai"; **रुधादिभ्यः श्नम्** (पा. सू. ३-१-७८) "śnam" after "u"; **आडुत्तमस्य पिच्च** (पा. सू. ३-४-९२) "āṭ," "p"-marked; **श्नसोरल्लोपः** (पा. सू. ६-४-१११) — the "a" of "śnam" and "as" is lost before a "kit/ṅit" sārvadhātuka — does not apply, "āmahai" being "p"-marked and so not "ṅit" (p. 309); with "raṣābhyām" (पा. सू. ८-४-१) carried on, **अट्कुप्वाङ्नुम्व्यवायेऽपि** (पा. सू. ८-४-२) "ṇ" for "n"; "āmahai" unaccented by **अनुदात्तौ सुप्पितौ** (पा. सू. ३-१-४), the acute of "śnam" remaining. Objection: "tiṅṅatiṅaḥ" (पा. सू. ८-१-२८) should make the whole unaccented. No: there are two verbs, the one heard in "yena ni muṣṭihatyayā vṛtrā niruṇadhāmahai" and the one carried over in "tvotāso 'rvatā niruṇadhāmahai"; the "ca" joining them is not used, and by **चादिलोपे विभाषा** (पा. सू. ८-१-६३) the prohibition is optional — as in "nātmanā tṛpyati nānyasmai dadāti" (तै. सं. २-५-४-३), where "tṛpyati" is not unaccented, "dadāti" is. Objection: there two verbs are stated, here one. Reply: for "cavāyoge prathamā" it is not required that two verbs be stated; one stated verb, also connected (by anuṣaṅga) with the later sentence, is "first" in relation to the one supplied, as in "puroḍāśaṃ cādhiśrayaty ājyaṃ ca" (तै. सं. १-६-९-३-४) and "prokṣaṇīś cāsādayaty ājyaṃ ca" (तै. सं. १-६-९-४), where by **चवायोगे प्रथमा** (पा. सू. ८-१-५९) the nighāta is withheld. **त्वोतासः** — "tvayā ūtāḥ," a third-case tatpuruṣa; the case-ending lost by **सुपो धातुप्रातिपदिकयोः**; **प्रत्ययोत्तरपदयोश्च** (पा. सू. ७-२-९८) "tva" for the part up to "ma"; the "d" lost as Vedic; "ava" + "kta," no "iṭ" (Vedic); **ज्वरत्वरस्रिव्यविमवामुपधायाश्च** (पा. सू. ६-४-२०) "ūṭh" for the "a" and "v" (p. 310); the vṛddhi of **एत्येधत्यूठ्सु** (पा. सू. ६-१-८९) does not arise (Vedic); **तृतीया कर्मणि** (पा. सू. ६-२-४८) — the first member's accent, the "a" of "tva" acute; **आद्गुणः** (पा. सू. ६-१-८७) the single "o," acute by **एकादेश उदात्तेनोदात्तः** (पा. सू. ८-२-५). **अर्वता** — "arva gatau," "vanip" by **अन्येभ्योऽपि दृश्यन्ते** (पा. सू. ३-२-७५); the "iṭ" of **आर्धधातुकस्येड्वलादेः** (पा. सू. ७-२-३५) barred by **नेड्वशि कृति** (पा. सू. ७-२-८); **लोपो व्योर्वलि** (पा. सू. ६-१-६६) loss of "v": "arvan"; instrumental singular: **अर्वणस्त्रसावनञः** (पा. सू. ६-४-१२७) "tṛ" for the "n": "arvatā"; "vanip," "p"-marked, unaccented, and the first "a" acute by **धातोः** (पा. सू. ६-१-१६२). ॥२॥
+
+
 
 ---
 
 ### Page 310 — Sūkta 8, Rik 3
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्र त्वोतास आ वयं वज्रं घना ददीमहि ।
-> जयेम सं युधि स्पृधः ॥३॥
+> इन्द्र॒ त्वोता॑स॒ आ व॒यं वज्रं॑ घ॒ना द॑दीमहि ।
+> जये॑म॒ सं यु॒धि स्पृधः॑ ॥३॥
 >
-> *indra tvotāsa ā vayaṃ vajraṃ ghanā dadīmahi |*
-> *jayema saṃ yudhi spṛdhaḥ ||3||*
+> *índra tvótāsa ā́ vayáṃ vájraṃ ghanā́ dadīmahi |*
+> *jáyema sáṃ yudhí spṛ́dhaḥ ||3||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
