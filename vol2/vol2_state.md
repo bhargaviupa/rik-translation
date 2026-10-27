@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
 Status: in progress (scans present, 5 parts, 822 PDF pages).
-**Last PDF page done: 400 (printed p. 386).** Batch PDF 401–500 in progress: done through **PDF 452 (printed p. 438)**, edits in `review/edits_PDF401-500.txt`. Next: PDF 453 (Ṛk 10.11, p. 439). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
+**Last PDF page done: 400 (printed p. 386).** Batch PDF 401–500 in progress: done through **PDF 453 (printed p. 439)**, edits in `review/edits_PDF401-500.txt`. Next: PDF 454. Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
 `vol2/vol2_pass_log.md` (one entry per batch).
@@ -71,7 +71,7 @@ Batch 301–400: 510 Vol 2 rows for printed pp. 285–388, again with no reviewe
 - Accents, pp. 287–386: [accent ?] on Ṛks 7.9 (p. 294, line 2: a stroke missing), 8.1 (p. 303, stroke over "va" of varṣiṣṭham), 8.5 (p. 319, both lines: stroke joined to a bar over "śavaḥ"), 8.6 (p. 324, line 1: faint bar under "sya"), 8.9 (p. 336, both lines: placement), 8.10 (p. 339, line 2: placement).
 - pp. 387– (batch 401–500), words: p. 413 "स एवकार" kept [sic]; p. 414 "टेरित्यद्शब्दस्य" [?] (print ಟೇರಿತ್ಯದ್ಯಬ್ದಸ್ಯ; sense "the ṭi of yuṣmad"); p. 424 the word before "…न्तीत्यृघा" in the ṛghāyamāṇam grammar [?] (print ಸ್ನನ್ತಂತೀತ್ಯೃಘಾ); "सर्वत्यः" [sic] and "श्या" kept as printed.
 - pp. 387– (batch 401–500), numbers: p. 425 Ni. "3-21" [?] (second digit 2 or 7); p. 429 Phiṭ "24" [?] for nyaṅsvarau (first digit 2 or 7); p. 432 "8-1-2" [?] (avidyamānavat) and "6-3-132" [?] (anyeṣām api); p. 433 "6-1-97" [?] (last digit 7 or 8); p. 434 paribhāṣā "56" [?] and "92" [?]; p. 437 cross-ref "Ṛ. Saṃ. 1-3-9" [?]; p. 438 ṭita ātmanepadānām "3-4-79" [?] (digits unclear); Uṇ. "2-170" [?] for "sphāyitañci…" (pp. 407, 411; second digit 7 or 2 — it differs from the curled ೨ of "6-2-120" on p. 411; the bhāṣya gives 2-13).
-- pp. 387– (batch 401–500): Ṛk 10.2 line 2 [accent ?] (p. 387, stroke between थे and न of यूथेन); Ṛk 10.4 line 2 [accent ?] (p. 396, stroke between चे and न्द्र of सचेन्द्र); Ṛk 10.5 line 2 [accent ?] (p. 402, stroke between ते and षु of सुतेषु).
+- pp. 387– (batch 401–500): Ṛk 10.2 line 2 [accent ?] (p. 387, stroke between थे and न of यूथेन); Ṛk 10.4 line 2 [accent ?] (p. 396, stroke between चे and न्द्र of सचेन्द्र); Ṛk 10.5 line 2 [accent ?] (p. 402, stroke between ते and षु of सुतेषु); Ṛk 10.11 line 2 [accent ?] (p. 439, stroke over स then bar under ह of सहस्र).
 - Accents: [accent ?] on Ṛks 1.3 (p. 24), 3.5 (p. 38), 4.10 (p. 129) — a mark too faint to judge.
 
 ## To be reviewed by the user (changes beyond numerals, or judgement calls)
