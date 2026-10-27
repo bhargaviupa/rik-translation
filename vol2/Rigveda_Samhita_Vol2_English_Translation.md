@@ -17599,15 +17599,19 @@ O Agni, the Marut deities are always bright; they have fierce forms (by their na
 
 ---
 
-### Pages 798–800 — Sūkta 19, Rik 6
+### Page 798 — Sūkta 19, Rik 6
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये नाकस्याधि रोचने दिवि देवास आसते ।
-> मरुद्भिरग्न आ गहि ॥६॥
+> ये नाक॒स्याधि॑ रोच॒ने दि॒वि दे॒वास॒ आस॑ते । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥६॥ [accent ?]
 >
-> *ye nākasyādhi rocane divi devāsa āsate |*
-> *marudbhir agna ā gahi ||6||*
+> *ye nākasyā́dhi rocané diví devā́sa ā́sate |* [accent ?]
+> *marúdbhir agna ā́ gahi ||6||* [accent ?]
+
+*(Read as printed: bars under क (नाक), च, दि, दे, स (देवास), म and ग्न; strokes over धि, स (आसते), द्भि and ग.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -17615,35 +17619,63 @@ O Agni, the Marut deities are always bright; they have fierce forms (by their na
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥६॥
 >
 > *ye | nākasya | adhi | rocane | divi | devāsaḥ | āsate ||*
-> *marut-bhiḥ | agne | ā | gahi ||6||*
+> *marut 'bhiḥ | agne | ā | gahi ||6||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 798; compressed; [?] marks doubtful readings)*
-
-> ये मरुतो नाकस्याधि दुःखरहितस्य सूर्यस्योपरि दिवि द्युलोके रोचने दीप्यमाने ये देवासः स्वयमपि दीप्यमाना आसते । तैर्मरुद्भिरित्यन्वयः ॥ नाकस्य । कं सुखं । तद्यस्मिन्नास्त्यसावकः । इति बहुव्रीहिं कृत्वा पश्चान्नञ् । न अकः । नाक इति नञ्तत्पुरुषः । नलोपो नञः । पा. [६-३-७३] । इति लोपो न भवति । नभ्राण्नपादित्यादिना । पा. [६-३-७५] । प्रकृतिभावात् । तत्पुरुषे तुल्यार्थेत्यादिना । पा. [६-२-२] । अव्ययपूर्वपदप्रकृतिस्वरत्वेनोदात्तत्वम् । प्रथमतस्तत्पुरुषं कृत्वा पश्चाद्बहुव्रीहावुत्तरपदान्तोदात्तत्वं स्यात् । अधिशब्द उपर्यर्थे । उपसर्गप्रतिरूपको निपातः । रोचने । रुच दीप्तौ । अनुदात्तेतश्च हलादेरिति युच् । चित इत्यन्तोदात्तत्वम् । दिवि । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । देवासः । आज्जसेरसुग्गित्त्वादसुक् । आसते । आस उपवेशने । अनुदात्तेत्त्वादात्मनेपदम् । ऋषस्यादेशः [?] । आदिप्रभृतिभ्यः शपः इति शपो लुक् । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् । यद्वृत्तयोगान्न निघातः ॥६॥
+> ये मरुतो नाकस्याधि दुःखरहितस्य सूर्यस्योपरि दिवि द्युलोके रोचने दीप्यमाने ये देवासः स्वयमपि दीप्यमाना आसते । तैर्मरुद्भिरित्यन्वयः ॥ नाकस्य । कं सुखम् । तद्यस्मिन्नास्त्यसावकः इति बहुव्रीहिं कृत्वा पश्चान्नञ् । न अकोऽनाक इति नञ्तत्पुरुषः । नलोपो नञः । पा. ६-३-७३ । इति लोपो न भवति । नभ्राण्नपादित्यादिना । पा. ६-३-७५ । प्रकृतिभावात् । तत्पुरुषे तुल्यार्थेत्यादिना । पा. ६-२-२ । अव्ययपूर्वपदप्रकृतिस्वरत्वेनोदात्तत्वम् । प्रथमतस्तत्पुरुषं कृत्वा पश्चाद्बहुव्रीहावुत्तरपदान्तोदात्तत्वं स्यात् । अधिशब्द उपर्यर्थे । उपसर्गप्रतिरूपको निपातः । रोचने । रुच दीप्तौ । अनुदात्तेतश्च हलादेरिति युच् । चित इत्यन्तोदात्तत्वम् । दिवि । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । देवासः । आज्जसेरसुगित्यसुक् । आसते । आस उपवेशने । अनुदात्तेत्त्वादात्मनेपदम् । झस्यादादेशः । अदिप्रभृतिभ्यः शप इति शपो लुक् । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् । यद्वृत्तयोगान्न निघातः ॥
 >
-> *ye maruto nākasyādhi duḥkha-rahitasya sūryasyopari divi dyuloke rocane dīpyamāne ye devāsaḥ svayam api dīpyamānā āsate | tair marudbhir ity anvayaḥ || nākasya | kaṃ sukhaṃ | tad yasminn nāsty asāv akaḥ | iti bahuvrīhiṃ kṛtvā paścān nañ | na akaḥ | nāka iti nañ-tatpuruṣaḥ | nalopo nañaḥ | pā. [6-3-73] | iti lopo na bhavati | nabhrāṇ-napād ity-ādinā | pā. [6-3-75] | prakṛtibhāvāt | tatpuruṣe tulyārthety-ādinā | pā. [6-2-2] | avyaya-pūrvapada-prakṛti-svaratvenodāttatvam | prathamatas tatpuruṣaṃ kṛtvā paścād bahuvrīhāv uttarapadāntodāttatvaṃ syāt | adhi-śabda upary-arthe | upasarga-pratirūpako nipātaḥ | rocane | ruca dīptau | anudāttetaś ca halāder iti yuc | cita ity antodāttatvam | divi | ūḍid-ity-ādinā vibhakter udāttatvam | devāsaḥ | āj jaser asug gittvād asuk | āsate | āsa upaveśane | anudāttettvād ātmanepadam | … ādiprabhṛtibhyaḥ śapaḥ iti śapo luk | anudāttettvāl lasārvadhātukānudāttatvam | yad-vṛtta-yogān na nighātaḥ ||6||*
+> *ye maruto nākasyādhi duḥkharahitasya sūryasyopari divi dyuloke rocane dīpyamāne ye devāsaḥ svayamapi dīpyamānā āsate | tairmarudbhirityanvayaḥ || nākasya | kaṃ sukham | tadyasminnāstyasāvakaḥ iti bahuvrīhiṃ kṛtvā paścānnañ | na ako 'nāka iti nañtatpuruṣaḥ | nalopo nañaḥ | pā. 6-3-73 | iti lopo na bhavati | nabhrāṇnapādityādinā | pā. 6-3-75 | prakṛtibhāvāt | tatpuruṣe tulyārthetyādinā | pā. 6-2-2 | avyayapūrvapadaprakṛtisvaratvenodāttatvam | prathamatastatpuruṣaṃ kṛtvā paścādbahuvrīhāvuttarapadāntodāttatvaṃ syāt | adhiśabda uparyarthe | upasargapratirūpako nipātaḥ | rocane | ruca dīptau | anudāttetaśca halāderiti yuc | cita ityantodāttatvam | divi | ūḍidamityādinā vibhakterudāttatvam | devāsaḥ | ājjaserasugityasuk | āsate | āsa upaveśane | anudāttettvādātmanepadam | jhasyādādeśaḥ | adiprabhṛtibhyaḥ śapa iti śapo luk | anudāttettvāllasārvadhātukānudāttatvam | yadvṛttayogānna nighātaḥ ||*
 
-**Translation:** "Those Maruts who — *devāsaḥ*, gods themselves shining — sit (*āsate*) in the shining (*rocane*) *div*, the heaven-world, above (*adhi*) the *nāka* — the sun, free of sorrow: with those Maruts [come]. *Nākasya* — *kam* is 'happiness'; that in which there is no *aka* ('sorrow') is *nāka*: first it is made a bahuvrīhi, and afterwards the negative; *na-akaḥ*, a negative tatpuruṣa; the dropping of the *n* of the negative (P. 6-3-73) does not occur because of the *prakṛtibhāva* by P. 6-3-75 *nabhrāṇnapāt…*; the accent is the first-member accent of a particle by P. 6-2-2. *Adhi* is in the sense 'above', a particle that imitates a preposition. *Rocane* — *ruc* 'to shine', *yuc* by P. 3-2-149; the *c*-mark gives end accent. *Divi* — the ending accented by P. 6-1-171. *Āsate* — *ās* 'to sit', middle voice from the *anudāttet* marking; *śap* dropped; the verb is not made unaccented because of the relative." *(Grammar, noted briefly; P. 6-3-73 and 6-3-75 are given with [?] since the print's numerals were small.)*
+**Translation:** "The Maruts who, *devāsaḥ*, themselves shining too, *āsate*, sit *nākasyādhi*, above the sun, which is free from sorrow, *divi*, in the heavenly world, *rocane*, shining: with those Maruts: that is the construction." (Grammatical tail: *nākasya*, "*kam* is happiness; he in whom it is not is *aka*": having made the *bahuvrīhi*, then *nañ*: "not *aka*, *nāka*", a *nañ-tatpuruṣa*; the loss by *nalopo nañaḥ* (Pā. 6-3-73) does not come because of the *prakṛtibhāva* by *nabhrāṇ napāt…* (Pā. 6-3-75); udātta by the accent of the indeclinable first member by *tatpuruṣe tulyārtha…* (Pā. 6-2-2); if the *tatpuruṣa* were made first and then the *bahuvrīhi*, there would be final udātta of the final member; *adhi* in the sense "above", a particle resembling a preverb; *rocane*, *ruca dīptau*, *yuc* by *anudāttetaś ca halādeḥ*, final udātta by *citaḥ*; *divi*, the ending udātta by *ūḍidam…*; *devāsaḥ*, *asuk* by *āj jaser asuk*; *āsate*, *āsa upaveśane*, *ātmanepada* as *anudāttet*, *at* for *jha*, *śap* dropped by *adiprabhṛtibhyaḥ*, the *lasārvadhātuka* unaccented as the root is *anudāttet*, not lowered because joined with *yad*.)
 
-**Grammar pages (pp. 799 lower half–800), noted briefly.** The Kannada treats *nākasya* (*kam* = *sukham*; *na vidyate kaṃ sukhaṃ yasmin saḥ akaḥ* = sorrow; a bahuvrīhi, whose final member *aka*, accented on the end by P. 6-2-172, is first formed, then compounded with the negative; *nalopo nañaḥ* P. 6-3-73 would drop the *n* of *nañ* before a vowel, but this does not occur here, by the list of exceptions *nabhrāṇnapān…* P. 6-3-75 giving *prakṛtibhāva* [the word *nāka* is among the *nañ*-compounds not dropping the *n*]; with the negative as a *tatpuruṣa* [*nañ tatpuruṣa*] and the particle *nañ* accented first-syllable by *nipātā ādyudāttāḥ* the compound has first-member accent by P. 6-2-2 [*tatpuruṣe tulyārthatṛtīyā…*]; the Kannada argues that one should first make the *tatpuruṣa* and then the bahuvrīhi, in which case final-member accent would result — but that is not the order), *adhi* (here with the sense *upari*, a particle resembling an *upasarga*; accent by *nipātā ādyudāttāḥ*; in *nākasya adhi* the *a* of the genitive ending is unaccented by *svarita* rule P. 6-1-… and the single substitute *ekādeśa* accent is *udātta*, so the following *ka* [of *nāka*] gets the *svarita*-based unaccented by P. 1-2-40), *rocane* (*ruc dīptau*, *anudāttet*; *anudāttetaś ca halādeḥ* P. 3-2-149 gives *yuc*; *yuvor anākau* P. 7-1-1 gives *ana*; *pugantalaghūpadhasya ca*; *roca-ana*; the *c*-mark gives end accent by P. 6-1-163; locative singular *ṅi* → *e*), *divi* (*ūḍidaṃ padādyappumraidyubhyaḥ* P. 6-1-171 accents the ending after *div*), *devāsaḥ* (*āj jaser asuk*), and *āsate* (*ās upaveśane*, *anudāttet*; *anudāttaṅita ātmanepadam* P. 1-3-12 gives middle voice; *laṭ* third plural *jha*; *śap* dropped by P. 2-4-72; *jha* → *at* by P. 7-1-5 *ātmanepadeṣv anataḥ*, after a stem not ending in *a*; *ṭita ātmanepadānāṃ ṭer e* P. 3-4-79; the verb is not made unaccented since it follows *ye*, by P. 8-1-66 *yadvṛttān nityam*; the discussion of *tasmād ity uttarasya* P. 1-1-67 and *pūjanāt pūjitam* P. 8-1-67, as in earlier riks; the verb *ās* being *anudāttet* the *laṭ* ending is unaccented by *tāsyanudāttenṇiḍ…* P. 6-1-186). ॥6॥ *(Numerals as read; pointers only.)*
+### Page 799 — Rik 6: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 798)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे) अग्ने ((he) agne)** — O Agni | **ये देवासः (ye devāsaḥ)** — those Marut deities | **नाकस्य (nākasya)** — of the sun's orb that is free from sorrow | **अधि (adhi)** — above | **रोचने (rocane)** — in the shining | **दिवि (divi)** — in the heavenly world | **आसते (āsate)** — who sit | **मरुद्भिः (marudbhiḥ)** — with those Marut deities | **आ गहि (ā gahi)** — come here.
+**(हे) अग्ने ((he) agne)** — O Agni | **ये देवासः (ye devāsaḥ)** — which Marut deities | **नाकस्य (nākasya)** — of the sun's orb, free from sorrow | **अधि (adhi)** — above | **रोचने (rocane)** — shining | **दिवि (divi)** — in the heavenly world | **आसते (āsate)** — (sitting) are | (such) **मरुद्भिः (marudbhiḥ)** — joined with the Marut deities | **आ गहि (ā gahi)** — come here.
 
-**॥ Bhāvārthaḥ ॥** *(p. 799)*
+**॥ Bhāvārthaḥ ॥**
 
-O Agni! Come here with the Marut deities who dwell in the shining heaven that is above the sorrow-free orb of the sun.
+O Agni, come here with the Marut deities who are in the shining heaven in the region above the sun's orb, which is free from sorrow.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, come hither with those divine Maruths who sit in resplendent heaven above the sky.
+> O Agni, come hither with those divine Maruths [sic] who sit in resplendent heaven above the sky.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 799)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**नाकस्य (nākasya)** — *nāka* means heaven; but since in this rik another word, *divi*, meaning heaven, also occurs, the commentator gives an etymology for *nāka*: *kaṃ sukham* — *na vidyate 'kaṃ duḥkhaṃ yasmin* — *nāka*; that is, a place of happiness without sorrow, heaven. Here *nāka* is said to be the orb of the sun; and *adhi* is explained as "above that".
+**Nākasya**: though *nāka* means heaven, since this ṛk has another word for heaven, *divi*, the commentator has derived the word *nāka* from the sense of its parts:
+
+> कं सुखम् । तद्यस्मिन्नास्तीत्यसावकः न अकः नाकः
+>
+> *kaṃ sukham | tadyasminnāstītyasāvakaḥ na akaḥ nākaḥ*
+
+*Kam* means happiness. Since it is not there, sorrow is called *akaḥ*. Again, since there is no *akaḥ* (sorrow), the place of happiness is named *nākaḥ*, heaven: that is the intent. Here, saying that *nākaḥ* is the sun's orb, he takes the word *adhi* as "above it".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 799–800, noted briefly)*
+
+**नाकस्य (*nākasya*)**: *kam* means happiness. *Na vidyate kam, sukhaṃ yasmin saḥ*: a *bahuvrīhi*. By "nalopo nañaḥ" (Pā. sū. 6-3-73), when a final member follows, the *n* of *nañ* drops; so the *n* drops: *aka*. The word final member is current in the sense of the last member of a compound. Now *na* + *akaḥ*: a *tatpuruṣa*. By "nabhrāṇnapānnavedānāsatyānamucinakulanakhanapuṃsakanakṣatranakranākeṣu prakṛtyā" (Pā. sū. 6-3-75) the *nañ* in all these words keeps its form; since the *prakṛtibhāva* comes, the *n* of *nañ* does not drop by *nalopo nañaḥ*. *Nañ*, being a particle, is initial udātta by *nipātā ādyudāttāḥ*; after the *tatpuruṣa* compound *na-akaḥ*, *nākaḥ*, by "tatpuruṣe tulyārtha…" (Pā. sū. 6-2-2) the accent of the indeclinable first member comes. Here one must not first make the *tatpuruṣa*, *na kam*, *akam*, and then the *bahuvrīhi*, *na vidyate akaṃ sukhābhāvaḥ yasmin saḥ*. If so made, by "nañsubhyām" (Pā. sū. 6-2-172) the final member *aka* would have to be final udātta.
+
+**अधि (*adhi*)**: this is in the sense "above". Being a particle resembling a preverb, it is initial udātta; in *nākasya*, the *a* of *sya* is unaccented by the *sup* accent. The *ā* from the single substitute of lengthening of like vowels
+
+### Page 800 — Rik 6: grammar (end)
+
+is udātta by *ekādeśa udāttenodāttaḥ*. Since this udātta follows, the unaccented *ka* before it takes the *anudātta* tone by "udāttasvaritaparasya [sannataraḥ]".
+
+**रोचने (*rocane*)**: the root *ruca dīptau*, *anudāttet*. By "anudāttetaś ca halādeḥ" (Pā. sū. 3-2-149), after a consonant-initial intransitive root that is *anudāttet*, the suffix *yuc* comes; so the suffix *yuc*. By "yuvor anākau" (Pā. sū. 7-1-1) *ana* for *yu*; the *laghūpadha-guṇa*: *rocana*. The suffix is *cit*; so by "citaḥ" (Pā. sū. 6-1-163) final udātta; locative singular *rocane*.
+
+**दिवि (*divi*)**: by "ūḍidaṃpadādyappumraidyubhyaḥ" (Pā. sū. 6-1-171) the case-ending after *div* is udātta.
+
+**देवासः (*devāsaḥ*)**: by *āj jaser asuk* the augment *asuk* for *jas*.
+
+**आसते (*āsate*)**: *āsa upaveśane*, *anudāttet*; so by "anudāttaṅita ātmanepadam" (Pā. sū. 1-3-12) the *ātmanepada*; *laṭ*, 3rd plural *jha*. *Śap* as *vikaraṇa* by *kartari śap*; *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72); by "ātmanepadeṣv anataḥ" (Pā. sū. 7-1-5), for the *jh* of an *ātmanepada* suffix after what does not end in *a*, the substitute *at*: *ās* + *ata*. By "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79) *e* for the *a* that is the *ṭi*: *āsate*. Since it follows the word *ye*, containing *yad*, by "yadvṛttān nityam" (Pā. sū. 8-1-66) (*vartate asminn iti vṛttam*, the sense being the substrate: *yadaḥ vṛttam*, the word that is the substrate of the presence of the word *yad*, that is, after whatever word contains *yad*, a *tiṅanta* is not unaccented). Since *yadvṛttāt* is a fifth-case statement, the sense is "a *tiṅanta* immediately after a word containing *yad* is not unaccented"; this would arise from the *paribhāṣā* "tasmād ity uttarasya" (Pā. sū. 1-1-67). Yet since the word *pūjita* is taken again in "pūjanāt pūjitam…" (Pā. sū. 8-1-37 [as printed "8-1-1-37"]), it is made known that "*atra prakaraṇe pañcamīnirdeśe 'pi nānantaryam iṣyate*", that in this section, even with a fifth-case statement, immediate sequence is not required. So *tasmād ity uttarasya* does not apply here. Though there is an intervening word, the bar comes by *yadvṛttān nityam*. So it is not wholly unaccented. The root *ās* being *anudāttet*, by "tāsyanudātteṅ…" (Pā. sū. 6-1-186) and the rest, the *ate*, a *lasārvadhātuka*, is unaccented.
+
+**॥६॥**
+
+*(An ornament follows at the foot of p. 800.)*
+
+---
 
 ### Pages 801–802 — Sūkta 19, Rik 7
 
