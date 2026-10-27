@@ -1,0 +1,6 @@
+PDF 11-14 (contents): table of sūkta start pages checked; Sūkta 30 corrected 'about 447' -> 458 (contents printed '458'); page-number note and accent convention in the header updated.
+PDF 15 (p. 1): invocation verses checked against the print; intro bhāṣya: "अथमष्टावार्भवमिति" as printed (old [?] removed).
+PDF 16 (p. 2): Āśv. "8-9" (old [8-6] corrected); Kannada refs RV 1-24-3, 2-41-19, 1-20-1; heading Varga 1, 2 (old [?] dropped); Rk 20.1 Samhita accents from print.
+PDF 17 (p. 3): Pada; bhāṣya in full; Prati/Bhāvārtha/English.
+PDF 18 (p. 4): Special Topics (Nītimañjari as printed); grammar 7-1-39, 3-1-85, "1-1-63" [as printed, for 6-1-163].
+PDF 19 (p. 5 upper): Phi. 26 (old [?] resolved), 6-2-139, 6-1-223, 3-1-4. Rk 20.2 starts here.
