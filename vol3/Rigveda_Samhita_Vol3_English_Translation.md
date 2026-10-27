@@ -1998,43 +1998,77 @@ the *śruti* अग्नेरापः (*agner āpaḥ*) (Tai. Ā. 8-2), "wate
 
 ---
 
-### Pages 81–83 — Sūkta 22, Rik 7
+### Page 82 (lower) — Sūkta 22, Rik 7
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> विभक्तारं हवामहे वसोश्चित्रस्य राधसः ।
-> सवितारं नृचक्षसम् ॥७॥
+> वि॒भ॒क्तारं॑ हवाम॒हे वसो॑श्चि॒त्रस्य॒ राध॑सः ।
+> स॒वि॒तारं॑ नृ॒चक्ष॑सं ॥७॥
 >
-> *vibhaktāraṃ havāmahe vasoś citrasya rādhasaḥ |*
-> *savitāraṃ nṛcakṣasam ||7||*
+> *vibhaktā́raṃ havāmahé vásoś citrásya rā́dhasaḥ |*
+> *savitā́raṃ nṛcákṣasaṃ ||7||*
+
+*(Bars under वि, भ, हे, श्चि and स्य; strokes over रं (विभक्तारं), सो and ध. Line 2: bars under स, वि and नृ; strokes over ता and क्ष.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> विऽभक्तारम् । हवामहे । वसोः । चित्रस्य । राधसः ॥
-> सवितारम् । नृऽचक्षसम् ॥७॥
+> विऽभक्तारं । हवामहे । वसोः । चित्रस्य । राधसः ॥
+> सवितारं । नृऽचक्षसं ॥७॥
 >
-> *vi-bhaktāram | havāmahe | vasoḥ | citrasya | rādhasaḥ ||*
-> *savitāram | nṛ-cakṣasam ||7||*
+> *vi 'bhaktāraṃ | havāmahe | vasoḥ | citrasya | rādhasaḥ ||*
+> *savitāraṃ | nṛ 'cakṣasaṃ ||7||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 82; compressed)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> वसोर्निवासहेतोर्गृहादेश्चित्रस्य सुवर्णरजतादिरूपेण बहुविधस्य राधसो धनस्य विभक्तारमस्य यजमानस्यैतावदिदं दानमुचितमिति विभागकारिणं नृचक्षसं मनुष्याणां प्रकाशकारिणं सवितारं हवामहे । कौषीतकिन एतस्या ऋचो व्याख्यानरूपे ब्राह्मणे सवितुर्विभागहेतुत्वमेव समामनन्ति । यदेतेन्द्रसोश्चित्रं राधस्तदेष सविता विभक्ताभ्यः प्रजाभ्यो विभजतीति ॥ [grammar:] *vibhaktāram* (*tṛc*, end-accent, then the accent of the final member after compounding with *vi*); *havāmahe* (*hve*, *saṃprasāraṇa* by P. 6-1-34 'variously in the Veda'); *vasoḥ* (*vas* 'to dwell', Uṇādi *u*; first-syllable accent); *rādhasaḥ* (*asun*, first-syllable accent); *nṛcakṣasam* (*nṝn caṣṭe iti*; *cakṣ* + *asun* by Uṇādi, no *khyā* substitution because *asun* is not *ārdhadhātuka* in that sense).
+*(Printed हूयतेः and विभक्ताभ्यः, as printed.)*
+
+> वसोर्निवासहेतोश्चित्रस्य सुवर्णरजतादिरूपेण बहुविधस्य राधसो धनस्य विभक्तारं अस्य यजमानस्यैतावद्धनदानमुचितमिति विभागकारिणं नृचक्षसं मनुष्याणां प्रकाशकारिणं सवितारं हवामहे । कौषीतकिन एतस्या ऋचो व्याख्यानरूपे ब्राह्मणे सवितुर्विभागहेतुत्वमेव समामनन्ति । यदेतद्वसोश्चित्रं राधस्तदेष सविता विभक्ताभ्यः प्रजाभ्यो विभजतीति ॥ विभक्तारं । तृचश्चित्त्वादन्तोदात्तत्वं । कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते । हवामहे । हूयतेर्बहुलं छन्दसीति संप्रसारणं । वसोः । वस निवासे । शॄस्वृस्निहीत्यादिना उः । निदित्यनुवृत्तेर्नित्त्वादाद्युदात्तः । राधसः । असुनन्तो नित्त्वादाद्युदात्तः । नृचक्षसं । नॄंश्चष्ट इति नृचक्षाः । तं नृचक्षसं । चक्षेर्बहुलं शिच्च । उ० ४-२३२ । इत्यसुन् । शित्त्वादनार्धधातुकत्वेन ख्याञादेशाभावः । कृदुत्तरपदप्रकृतिस्वरत्वं ॥
 >
-> *vasor nivāsa-hetor gṛhādeś citrasya suvarṇa-rajatādi-rūpeṇa bahuvidhasya rādhaso dhanasya vibhaktāram asya yajamānasyaitāvad idaṃ dānam ucitam iti vibhāga-kāriṇaṃ nṛcakṣasaṃ manuṣyāṇāṃ prakāśa-kāriṇaṃ savitāraṃ havāmahe | kauṣītakina etasyā ṛco vyākhyāna-rūpe brāhmaṇe savitur vibhāga-hetutvam eva samāmananti | yad etendra-soś citraṃ rādhas tad eṣa savitā vibhaktābhyaḥ prajābhyo vibhajatīti ||*
+> *vasornivāsahetościtrasya suvarṇarajatādirūpeṇa bahuvidhasya rādhaso dhanasya vibhaktāraṃ asya yajamānasyaitāvaddhanadānamucitamiti vibhāgakāriṇaṃ nṛcakṣasaṃ manuṣyāṇāṃ prakāśakāriṇaṃ savitāraṃ havāmahe | kauṣītakina etasyā ṛco vyākhyānarūpe brāhmaṇe saviturvibhāgahetutvameva samāmananti | yadetadvasościtraṃ rādhastadeṣa savitā vibhaktābhyaḥ prajābhyo vibhajatīti || vibhaktāraṃ | tṛcaścittvādantodāttatvaṃ | kṛduttarapadaprakṛtisvaratvena tadeva śiṣyate | havāmahe | hūyaterbahulaṃ chandasīti saṃprasāraṇaṃ | vasoḥ | vasa nivāse | śṝsvṛsnihītyādinā uḥ | nidityanuvṛtternittvādādyudāttaḥ | rādhasaḥ | asunanto nittvādādyudāttaḥ | nṛcakṣasaṃ | nṝṃścaṣṭa iti nṛcakṣāḥ | taṃ nṛcakṣasaṃ | cakṣerbahulaṃ śicca | u0 4-232 | ityasun | śittvādanārdhadhātukatvena khyāñādeśābhāvaḥ | kṛduttarapadaprakṛtisvaratvaṃ ||*
 
-*(The grammar passage printed on pp. 82–84 is dense; the words treated are* vibhaktāram, havāmahe, vasoḥ, rādhasaḥ, nṛcakṣasam*, with sūtras cited including P. 6-1-34 [*bahulaṃ chandasi*], P. 6-1-108 [*saṃprasāraṇāc ca*] and Uṇ. 4-[?] for* vasu*; "grammar pages, noted briefly"; numerals are pointers only. The Kauṣītaki quotation is read from small print: it says the god Savitṛ distributes, among created beings, the varied riches that belong to [the pair Indra and Soma? — read uncertainly [?]].)*
+**Translation:** "We *havāmahe*, call, Savitṛ, the *vibhaktāram*, the distributor — the one who makes the division 'this much gift of wealth is fit for this sacrificer' — of the *rādhas*, wealth, *citra*, of many kinds in the form of gold, silver and the like, of the *vasu*, the cause of dwelling; *nṛcakṣasam*, the illuminer of men. The Kauṣītakins, in the brāhmaṇa that explains this ṛk, record only Savitṛ's being the cause of division: 'This bright wealth of *vasu*, this Savitṛ distributes to the creatures that are divided.'" (Grammatical tail: *vibhaktāram*, final udātta because *tṛc* is *cit*, which alone remains by the accent of the *kṛt* final member; *havāmahe*, *saṃprasāraṇa* by *bahulaṃ chandasi*; *vasoḥ*, *vasa nivāse*, *u* by *śṝsvṛsnihi…*, initially udātta as *nit*, *nit* being carried on; *rādhasaḥ*, ending in *asun*, initially udātta as *nit*; *nṛcakṣasam*, 'he sees men', *asun* by *cakṣer bahulaṃ śic ca* (U. 4-232), and, being *śit*, not *ārdhadhātuka*, so no substitute *khyāñ*; the accent of the *kṛt* final member.)
 
-**Translation:** "We invoke (*havāmahe*) Savitṛ, the *vibhaktṛ* — distributor — of *citra* wealth of many kinds, such as gold and silver, together with houses and the like that give shelter (*vasoḥ*): the one who apportions to this sacrificer exactly such gifts as are fitting; *nṛcakṣasam* — who gives light (knowledge) to men."
+### Page 83 — Rik 7: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** **वसोः (vasoḥ)** — of house-related | **चित्रस्य (citrasya)** — of various | **राधसः (rādhasaḥ)** — wealth | **विभक्तारम् (vibhaktāram)** — the distributor | **नृचक्षसम् (nṛcakṣasam)** — giver of light to men (giver of knowledge) | **सवितारम् (savitāram)** — Savitṛ | **हवामहे (havāmahe)** — we invoke.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** We invoke Savitṛ, who distributes gold, silver and other wealth, together with houses and the like, to each according to merit, and who gives light to men.
+**वसोः (vasoḥ)** — connected with the house | **चित्रस्य (citrasya)** — of many kinds | **राधसः (rādhasaḥ)** — of wealth | **विभक्तारं (vibhaktāraṃ)** — the one who divides | **नृचक्षसं (nṛcakṣasaṃ)** — who gives light (gives knowledge) to men | **सवितारं (savitāraṃ)** — Savitṛ | **हवामहे (havāmahe)** — we call.
+
+**॥ Bhāvārthaḥ ॥**
+
+We call Savitṛ, who distributes, according to each one's fitness, wealth such as gold and silver connected with houses and the like (together with houses and the like), and who gives light.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> We invoke Savitri, the distributor of various kinds of wealth including the house and the enlighter of men.
+> We invoke Savitri, the distributor of various kinds of wealth including the house and the enlighter [sic] of men.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 83)* The rik's chief sense: Savitṛ gives many kinds of wealth and houses, and gives knowledge to people according to their fitness. **विभक्तारम्** — one who apportions to each according to his merit or his performance of sacrificial work. **नृचक्षसम्** — *nṝn caṣṭe prakāśayati*: the one who illumines men — "gives knowledge, prompts the mind"; and the well-known Gāyatrī mantra *dhiyo yo naḥ pracodayāt* (Ṛ. Saṃ. 3-62-10) makes plain that Savitṛ prompts our minds.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+The main intention of this ṛk: the deity Savitṛ gives wealth and the like of many kinds, gives houses and the like as dwelling places, and gives knowledge to people according to each one's fitness. We call such a Savitṛ.
+
+**विभक्तारं (vibhaktāraṃ)** — *vibhāgakāriṇam |* the one who distributes according to each one's fitness, or who gives wealth and the like according to each one's rites, such as the performance of sacrifice.
+
+**वसोश्चित्रस्य राधसः (vasoś citrasya rādhasaḥ)** — wealth of many kinds and riches, together with houses and the like as dwelling places.
+
+**नृचक्षसं (nṛcakṣasaṃ)** — *nṝṃś caṣṭa iti nṛcakṣāḥ | taṃ nṛcakṣasam | manuṣyāṇāṃ prakāśakāriṇam ||* The meaning is: he who gives knowledge to men, who impels the intellect. On this the well-known Gāyatrī mantra, धियो यो नः प्रचोदयात् (*dhiyo yo naḥ pracodayāt*), clearly makes known that Savitṛ impels our intellect.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**विभक्तारम् (vibhaktāram)** — after the root *bhaja* with the prefix *vi*, the suffix *tṛc*. The suffix is *cit*, so the *cit* accent comes. After the compound with the word *vi*, the accent of the *kṛt* final member comes and that accent stays.
+
+**हवामहे (havāmahe)** — the root *hveñ saṃprasāraṇe* [as printed]. With *hvaḥ saṃprasāraṇam* carried on, by *bahulaṃ chandasi* (Pā. Sū. 6-1-34) *saṃprasāraṇa*: *u* for the *v*;
+
+### Page 84 (upper) — Rik 7: grammar (end)
+
+by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form; *laṭ*, *mahiṅ*; by *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79) *e* for the *ṭi*; *śap*, *guṇa*, the substitute *av*; by *ato dīrgho yañi* (Pā. Sū. 7-3-101) the stem ending in *a* is lengthened.
+
+**वसोः (vasoḥ)** — the root *vasa nivāse*. By *śṝsvṛsnihitrapyasivasihanikliśibandhimanibhyaś ca* (U. Sū. 1-10) the suffix *u*; the word *nit* from the preceding sūtra *dhānye nit* is carried on into this sūtra; so, the suffix being *nit*, the *nit* accent comes.
+
+**राधसः (rādhasaḥ)** — *rādha sādha saṃsiddhau*; by *sarvadhātubhyo 'sun* (U. Sū. 4-6-28 [?]) the suffix *asun*. The suffix being *nit*, *rādhasaḥ* is initially udātta.
+
+**नृचक्षसं (nṛcakṣasaṃ)** — *nṝn caṣṭe iti* (one who gives light to men): so the analysis; it becomes *nṛcakṣāḥ*; in the accusative singular it becomes *nṛcakṣasam*. By *cakṣer bahulaṃ śic ca* (U. Sū. 4-6-27 [?]) the suffix *asun* comes after the root *cakṣiṅ vyaktāyāṃ vāci*, and it is variously *śit*: so the suffix *asun*. The suffix being *śit*, by *tiṅśit sārvadhātukam* it is called *sārvadhātuka*; so the substitute *khyāñ* for the root *cakṣiṅ* by *cakṣiṅaḥ khyāñ* (Pā. Sū. 2-4-54), which applies when an *ārdhadhātuka* suffix follows, does not come. By the *nit* accent *cakṣas* is initially udātta. After compounding, the accent of the *kṛt* final member comes. Here *asiḥ* is carried on from *mithune 'siḥ pūrvavac ca sarvam* (U. Sū. 4-6-[?]). Jñānendrasarasvatī and others have explained it this way; yet the Veda commentator, to suit the accent, has carried on *asun* here by *maṇḍūkānuvṛtti*. ॥7॥
+
+---
 
 ### Pages 84–86 — Sūkta 22, Rik 8
 
