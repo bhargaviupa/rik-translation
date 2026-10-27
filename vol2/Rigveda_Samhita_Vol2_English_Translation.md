@@ -9752,13 +9752,15 @@ in this rik too, "निरविध्यदिलाबिलशयस्य �
 
 ### Page 479 — Sūkta 11, Rik 8
 
+*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke stands over स्य of यस्य, as printed.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रमीशानमोजसाभि स्तोमा अनूषत ।
-> सहस्रं यस्य रातय उत वा सन्ति भूयसीः ॥८॥
+> इन्द्र॒मीशा॑न॒मोज॑सा॒भि स्तोमा॑ अनूषत ।
+> स॒हस्रं यस्य॑ रा॒तय॑ उ॒त वा॒ सन्ति॒ भूय॑सीः ॥८॥
 >
-> *indram īśānam ojasābhi stomā anūṣata |*
-> *sahasraṃ yasya rātaya uta vā santi bhūyasīḥ ||8||*
+> *indram ī́śānam ójasābhí stómā anūṣata |*
+> *sahásraṃ yásya rātáya utá vā sánti bhū́yasīḥ ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -9770,53 +9772,53 @@ in this rik too, "निरविध्यदिलाबिलशयस्य �
 
 ### Page 479 (lower) — Rik 8: Sāyaṇa-bhāṣya
 
-**॥ Sāyaṇa-bhāṣyam ॥**
+**॥ Sāyaṇa-bhāṣyam ॥** *(runs onto p. 480; the closing "॥२१॥" is printed so — the varga number.)*
 
-> स्तोमाः स्तोतार ऋत्विज ओजसा बलेनेशानं जगतो नियामकमिन्द्रमभ्यनूषत । सर्वत्र स्तुतवन्तः । यस्येन्द्रस्य रातयो धनदानानि सहस्रं सहस्रसंख्योपेतानि सन्ति । उत वाथवा भूयसीः सहस्रसंख्यया अप्यधिकाः सन्ति । तमिन्द्रमिति पूर्वत्रान्वयः ॥ इन्द्रम् । ऋज्रेन्द्रेत्यादिना रन् । नित्त्वाद्याद्युदात्तः । ईशानम् । लटः शानच् । आदिप्रभृतिभ्यः शपः इति शपो लुक् । धातोरनुदात्तेत्त्वात्तास्यनुदात्तेत्यादिना शानचो ऽनुदात्तत्वम् । ओजसा । नभ्विषयेत्यादाद्युदात्तः । स्तोमाः । अर्तिस्तुसुत्यादिना मन्प्रत्ययः । नित्त्वादाद्युदात्तः । अनूषत । णु स्तुतौ । णो नः । लुङ् । व्यत्ययेन ऋः [?] । तस्माद्नादेशः । पा. २-१-२३ [?] । च्लेः सिच् । अस्य धातोः कुटादित्वेन सि- … [the Sanskrit goes on over p. 480 on the grammar of *sahasram*, *rātayaḥ*, *uta*, *vā*, *santi*, *bhūyasīḥ*, noted briefly below]
+> स्तोमाः स्तोतार ऋत्विज ओजसा बलेनेशानं जगतो नियामकमिन्द्रमभ्यनूषत । सर्वत्र स्तुतवन्तः । यस्येन्द्रस्य रातयो धनदानानि सहस्रं सहस्रसंख्योपेतानि सन्ति । उत वाथवा भूयसीः सहस्रसंख्याया अप्यधिकाः सन्ति । तमिन्द्रमिति पूर्वत्रान्वयः ॥ इन्द्रम् । ऋज्रेन्द्रेत्यादिना रन् । नित्त्वादाद्युदात्तः । ईशानम् । लटः शानच् । अदिप्रभृतिभ्यः शप इति शपो लुक् । धातोरनुदात्तेत्त्वात्तास्यनुदात्तेत्यादिना शानचो ऽनुदात्तत्वम् । ओजसा । नब्विषयत्वादाद्युदात्तः । स्तोमाः । अर्तिस्तुस्वित्यादिना मन्प्रत्ययः । नित्त्वादाद्युदात्तः । अनूषत । णु स्तुतौ । णो नः । लुङ् । व्यत्ययेन झः । तस्यादादेशः । पा. ७-१-५ । च्लेः सिच् । अस्य धातोः कुटादित्वेन सिचो ङित्त्वाद्गुणाभावः । इडभावश्छान्दसः । दीर्घत्वं च । अडागमः । सहस्रम् । कर्दमादीनां च । फि. ३-१० । इति द्वितीयाक्षरमुदात्तम् । रातयः । मन्त्रे वृषेत्यादिना क्तिन्नुदात्तः । उत । प्रातिपदिकस्वरः । वा । चादिरनुदात्तः । सन्ति । प्रत्ययाद्युदात्तत्वम् । तिङ्ङतिङ इति निघातो न भवति यद्वृत्तान्नित्यमिति प्रतिषेधात् । स हि व्यवहिते ऽपि भवतीत्युक्तम् । भूयसीः । सहस्रादतिशयेन बह्व्यो भूयस्यः । अत्र विभक्तव्यस्य सहस्रस्य संनिधिबलादुपपदत्वप्रतीतेर्द्विवचनविभज्योपपदे तरबीयसुनौ । पा. ५-३-५७ । इति बहुशब्दादीयसुन् । बहोर्लोपो भू च बहोः । पा. ६-४-१५८ । इतीकारलोपः । प्रकृतेर्भू इत्यादेशश्च । ईयसुनो नित्त्वादाद्युदात्तत्वम् । उगितश्चेति ङीप् ॥२१॥
 >
-> *stomāḥ stotāra ṛtvija ojasā balenēśānaṃ jagato niyāmakam indram abhy anūṣata | sarvatra stutavantaḥ | yasyendrasya rātayo dhana-dānāni sahasraṃ sahasra-saṃkhyopetāni santi | uta vāthavā bhūyasīḥ sahasra-saṃkhyayā apy adhikāḥ santi | tam indram iti pūrvatrānvayaḥ || indram | ṛjrendrety-ādinā ran | nittvād ādyudāttaḥ | īśānam | laṭaḥ śānac | ādiprabhṛtibhyaḥ śapaḥ iti śapo luk | dhātor anudāttettvāt tāsyanudātteti-ādinā śānaco 'nudāttatvam | ojasā | nabhviṣayety ādyudāttaḥ | stomāḥ | artistusutyādinā man-pratyayaḥ | nittvād ādyudāttaḥ | anūṣata | ṇu stutau | ṇo naḥ | luṅ | vyatyayena ṛḥ [?] | ... cleḥ sic | asya dhātoḥ kuṭāditvena si- …*
+> *stomāḥ stotāra ṛtvija ojasā baleneśānaṃ jagato niyāmakamindramabhyanūṣata | sarvatra stutavantaḥ | yasyendrasya rātayo dhanadānāni sahasraṃ sahasrasaṃkhyopetāni santi | uta vāthavā bhūyasīḥ sahasrasaṃkhyāyā apyadhikāḥ santi | tamindramiti pūrvatrānvayaḥ || indram | ṛjrendretyādinā ran | nittvādādyudāttaḥ | īśānam | laṭaḥ śānac | adiprabhṛtibhyaḥ śapa iti śapo luk | dhātoranudāttettvāttāsyanudāttetyādinā śānaco 'nudāttatvam | ojasā | nabviṣayatvādādyudāttaḥ | stomāḥ | artistusvityādinā manpratyayaḥ | nittvādādyudāttaḥ | anūṣata | ṇu stutau | ṇo naḥ | luṅ | vyatyayena jhaḥ | tasyādādeśaḥ | pā. 7-1-5 | cleḥ sic | asya dhātoḥ kuṭāditvena sico ṅittvādguṇābhāvaḥ | iḍabhāvaśchāndasaḥ | dīrghatvaṃ ca | aḍāgamaḥ | sahasram | kardamādīnāṃ ca | phi. 3-10 | iti dvitīyākṣaramudāttam | rātayaḥ | mantre vṛṣetyādinā ktinnudāttaḥ | uta | prātipadikasvaraḥ | vā | cādiranudāttaḥ | santi | pratyayādyudāttatvam | tiṅṅatiṅa iti nighāto na bhavati yadvṛttānnityamiti pratiṣedhāt | sa hi vyavahite 'pi bhavatītyuktam | bhūyasīḥ | sahasrādatiśayena bahvyo bhūyasyaḥ | atra vibhaktavyasya sahasrasya saṃnidhibalādupapadatvapratīterdvivacanavibhajyopapade tarabīyasunau | pā. 5-3-57 | iti bahuśabdādīyasun | bahorlopo bhū ca bahoḥ | pā. 6-4-158 | itīkāralopaḥ | prakṛterbhū ityādeśaśca | īyasuno nittvādādyudāttatvam | ugitaśceti ṅīp ||21||*
 
-**Translation:** "The *stomāḥ* — the praisers, the priests — with *ojas*, with strength, *abhy anūṣata*: praised on all sides Indra, *īśānam*, the ruler who governs the world; *yasya* — whose — *rātayaḥ*, gifts of wealth, *sahasraṃ santi*, are a thousand in number; *uta vā* — or — *bhūyasīḥ*, are more than a thousand. [*tam indram*, 'that Indra,' is the connection with what precedes.]" *(The accompanying grammar, noted briefly: that* indra *is formed with* ran *(Uṇ. 2-28 [?]), initial-udātta since* nit*;* īśānam *with* śānac *for* laṭ*, unaccented because the root is* anudātta-*it;* ojas *initial-udātta;* stoma *with* man*;* anūṣata *— root* ṇu stutau *with* luṅ *in the Vedic ātmanepada, with* cli → sic*.)* *(Parts of this Sanskrit are compressed in the scan.)*
+**Translation:** "The *stomāḥ* — the praisers, the priests — with *ojas*, strength, *abhy anūṣata*: praised on all sides Indra, *īśānam*, the ruler who governs the world; *yasya* — of which Indra — the *rātayaḥ*, gifts of wealth, *sahasraṃ santi*, are a thousand in number; *uta vā* — or — *bhūyasīḥ*, are more even than a thousand. 'That Indra' is the connection with what precedes." (Grammatical tail: *indram* — *ran* by "ṛjrendra…", initial-udātta as *nit*; *īśānam* — *śānac* for *laṭ*, *śap* dropped, the *śānac* unaccented because the root is *anudātta*-marked ("tāsy anudātta…"); *ojasā* initial-udātta as a *nab-viṣaya* word; *stomāḥ* — *man* by "arti-stu-su…", initial-udātta; *anūṣata* — *ṇu stutau*, *n* by "ṇo naḥ", *luṅ*, *jha* by exception, *at* for it (Pā. 7-1-5), *sic* for *cli*, no *guṇa* because, the root being *kuṭādi*, *sic* is *ṅit*, the absence of *iṭ* and the lengthening Vedic, augment *aṭ*; *sahasram* — second syllable udātta by "kardamādīnāṃ ca" (Phi. 3-10); *rātayaḥ* — *ktin* udātta by "mantre vṛṣa…"; *uta* — the stem accent; *vā* unaccented as one of the *cādi*; *santi* — initial-udātta of the suffix, and not unaccented by "tiṅṅ atiṅaḥ" because of the bar "yad-vṛttān nityam", which applies even with words between; *bhūyasīḥ* — "more than a thousand": since *sahasra*, the thing to be divided, is near, it is felt as an *upapada*, so *īyasun* after *bahu* by "dvivacana-vibhajyopapade tarab-īyasunau" (Pā. 5-3-57); "bahor lopo bhū ca bahoḥ" (Pā. 6-4-158) drops the *ī* and gives *bhū* for the stem; initial-udātta as *nit*; *ṅīp* by "ugitaś ca".)
 
 ### Page 480 — Rik 8: word-meanings, overall sense, English, Special Topics
 
 **॥ Prati-padārthaḥ ॥**
 
-**यस्य (yasya)** — of which Indra | **रातयः (rātayaḥ)** — gifts of wealth | **सहस्रम् (sahasram)** — as many as a thousand | **उत वा (uta vā)** — or | **भूयसीः (bhūyasīḥ)** — even more | **सन्ति (santi)** — there are *(to such Indra)* | **ईशानम् (īśānam)** — who governs the world | **इन्द्रम् (indram)** — Indra | **स्तोमाः (stomāḥ)** — the priests who praise | **ओजसा (ojasā)** — with all the strength they have | **अभि अनूषत (abhi anūṣata)** — praise.
+**यस्य (yasya)** — of which Indra | **रातयः (rātayaḥ)** — gifts of wealth | **सहस्रम् (sahasram)** — as many as thousands | **उत वा (uta vā)** — or | **भूयसीः (bhūyasīḥ)** — still more | **सन्ति (santi)** — are *(such)* | **ईशानम् (īśānam)** — who governs the world | **इन्द्रम् (indram)** — Indra | **स्तोमाः (stomāḥ)** — the priests who praise | **ओजसा (ojasā)** — with all the strength they have | **अभि अनूषत (abhi anūṣata)** — praise.
 
 **॥ Bhāvārthaḥ ॥**
 
-Indra gives to those who praise him a thousand, or even more, in wealth and other gifts. The priests and others praise such an Indra with all their strength.
+Indra gives to those who praise him wealth and the like to the number of a thousand, or even more. The priests and other people praise such an Indra using all their strength.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> The reciters of sacred hymns praise with all their might Indra, the ruler of the world whose bounties are counted by thousands or even more.
+> The reciters of Sacred hymns praise with all their might Indra, the ruler of the world whose bounties are counted by thousends [sic] or even more.
+
+**Īśānam** — the lord, the master of the world: "Thr [sic] ruler of the world" [the source's English].
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Ojasā"** — *balena*: "with strength, with all the strength they have; with enthusiasm," and so on.
+**"Ojasā"** — *balena*: "with strength, with all the strength they have; with enthusiasm too," and so on.
 
-**"Stomāḥ"** — for this word the Bhāṣyakāra gives the meaning *stotāra ṛtvijaḥ*, "priests who praise." The word *stoma* is a neuter noun meaning "hymn"; when it is masculine, it means "those who praise."
+**"Stomāḥ"** — for this word the Bhāṣyakāra gives the meaning *stotāra ṛtvijaḥ*, "priests who praise." When the word *stoma* is neuter it means "hymn"; when it is masculine, "those who praise."
 
-**"Sahasram"** — a thousand in number, many.
+**"Sahasram"** — a thousand in number; many.
 
-**"Bhūyasīḥ"** — *sahasrasaṃkhyāyā api adhikāḥ* — more than a thousand, more than can be counted, in excess.
+**"Bhūyasīḥ"** — more than a thousand; more than can be counted; exceedingly, and so on.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 480–481, noted briefly)*
+### Page 481 — Rik 8 grammar
 
-**यस्य (*yasya*)**, **रातयः (*rātayaḥ*)** — as before. **उत (*uta*)** — a *nipāta*, initial-udātta (Phiṭ-sūtra 80 [?]). **वा (*vā*)** — of the *cādi* class, unaccented ("cādayo 'nudāttāḥ," Phiṭ-sūtra 94 [?]). **सन्ति (*santi*)** — *as bhuvi*, *jhi*; *śap* dropped; *a* of *as* dropped by "śnasor allopaḥ" (Pā. 6-4-111 [?]); the finite verb is not lowered here because "yad" is understood ("yad vṛttānnityam," Pā. 8-1-66 [?]) — a verb in a clause with the relative *yasya* is not lowered. **भूयसीः (*bhūyasīḥ*)** — "bahor lopo bhū ca bahoḥ" (Pā. 6-4-158 [?]): *īyasun* after *bahu* with *bahu* → *bhū*; the final *i*-type letter dropped; *īyasun* is *nit* and so initial-udātta; the feminine *ṅīp* ("ugitaś ca," Pā. 4-1-6 [?]) with *jas* → accusative plural *śas*; the long note on *sahasra* with a "second-case" word of a measure, as the *vibhakti*-bearing *sahasra* (*vibhakty-artha*) in the sense of "more than a thousand" (Pā. 5-3-62 [?], "dvivacanavibhajyopapade tarabīyasunau") — the source says the *īyasun* here arises because *sahasra* is understood, being in proximity, as an *upapada* of comparison. *(Sūtra numbers read from small print; pointers only.)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 481–482, noted briefly; numbers checked against the print)*
 
-**॥८॥**
+**इन्द्रम् (*indram*)** — the suffix *ran* by "ṛjrendrāgra…" (Uṇ. 2-186); initial-udātta as *nit*. **ईशानम् (*īśānam*)** — root *īśa aiśvarye*, *anudātta*-marked, hence ātmanepada; *laṭ* → *śānac* by "laṭaḥ śatṛ-śānacau…": *īś* + *āna*; *śap* dropped by "adiprabhṛtibhyaḥ śapaḥ" (Pā. 2-4-72); the *śānac*, a *sārvadhātuka* in place of a *lakāra*, unaccented by "tāsy anudātteṭ…" (Pā. 6-1-186). **ओजसा (*ojasā*)** — initial-udātta by "nab-viṣayasyānisantasya" (Phiṭ-sū. "26"). **स्तोमाः (*stomāḥ*)** — *man* after *stu* by "arti-stu-su…" (Uṇ. "1-138" [?]); the *nit* accent, initial-udātta. **अनूषत (*anūṣata*)** — root *ṇu stutau*; *n* for *ṇ* by "ṇo naḥ" (Pā. 6-1-65); *luṅ*, *cli* by "cli luṅi" (Pā. 3-1-43), *sic* by "cleḥ sic" (3-1-44); the root is *parasmaipada*, so the third plural should properly be *jhi*, but here by exception the ātmanepada *jha* comes; *at* for *jh* by "ātmanepadeṣv anataḥ" (Pā. 7-1-5): *nu* + *s* + *ata*; the root is in the *kuṭādi* list, so by "gāṅ-kuṭādibhyo 'ñṇin ṅit" (Pā. 1-2-1) *sic* is *ṅit* and there is no *guṇa*; by Vedic procedure no *iṭ*; the lengthening of the root vowel is also Vedic; augment *aṭ*: *anūṣata*. **सहस्रम् (*sahasram*)** — by "kardamādīnāṃ ca" (Phiṭ-sū. "59" [?]) the first or the second syllable is udātta: here the second. **रातयः (*rātayaḥ*)** — after *rā*, the udātta *ktin* by "mantre vṛṣeṣa-paca-mana-vida-bhū-vīrā udāttaḥ" (Pā. 3-3-96). **उत (*uta*)** — the stem accent. **वा (*vā*)** — unaccented by "cādayo 'nudāttāḥ" (Phiṭ-sū. 84). **सन्ति (*santi*)** — root *as bhuvi*; *laṭ*, *jhi*, *ant* for *jh*; *śap* dropped; *a* of the root dropped by "śnasor allopaḥ" (printed "vā. sū." [sic] 6-4-111): *santi*, with the accent of the *tiṅ* suffix. The bar "yad-vṛttān nityam" (Pā. 8-1-66), as was explained earlier, applies even when words stand between, because *pūjita* is taken again in the sūtra "pūjanāt pūjitam…"; so "tiṅṅ atiṅaḥ" does not make it unaccented.
 
 ### Page 482 — Rik 8 grammar closes; close of Sūkta 11
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
-
-Closing **भूयसीः (*bhūyasīḥ*)** — "sahasrād api atiśayena bahvyaḥ": by "dvivacanavibhajyopapade tarabīyasunau" (Pā. 5-3-57 [?]), *īyasun* is added to a word expressing comparison between two or among many when the compared items or the term of division are stated; the source argues that *sahasra* is understood here as *upapada* in the sense of nearness, so the comparative suffix is added in its own sense after a *subanta* or *tiṅanta* (the rule on *tarap* and *īyasun*); "bahor lopo bhū ca bahoḥ" (Pā. 6-4-158 [?]) drops the *iṣṭha*-type affixes after *bahu* and gives *bhū* for *bahu*; "ādeḥ parasya" (Pā. 1-1-54 [?]) drops the *i* of *īyasun* (the loss belongs to the first letter of what follows); "bhū + īyasun": *bhūyas*; *īyasun* is *nit*, so initial-udātta ("ñnityādir nityam," Pā. 6-1-197 [?]); *bhūyas* is *ugit*, so the feminine *ṅīp* by "ugitaś ca" (Pā. 4-1-6 [?]); *bhūyas* + *ṅīp* → *bhūyasī*, the accusative plural *śas* gives *bhūyasīḥ*; *ṅīp* is *pit* and unaccented ("anudāttau supitau," Pā. 3-1-4 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**भूयसीः (*bhūyasīḥ*)** — "sahasrād api atiśayena bahvyaḥ." "dvivacana-vibhajyopapade tarab-īyasunau" (Pā. 5-3-57): when a word meaning two or a word for the thing to be divided is the *upapada*, *tarap* and *īyasun* come in their own sense after a *subanta* or *tiṅanta* that expresses superiority of one over the other and denotes the property that makes the division. By *upapada* is meant a word spoken nearby; "tatropapadaṃ saptamīstham" (Pā. 3-1-92) is not meant, since that applies only within the section on roots. The word expressing duality or the thing to be divided need be used only in the analytical phrase; in the *taddhita* formation its meaning is included, so it need not be used. The sense of the second half of the mantra is that Indra has wealth and grain to the number of a thousand, or wealth exceeding a thousand. With *sahasra*, the thing to be divided, as the *upapada*, this sūtra gives *īyasun* after *bahu*: *bahu* + *īyas*; "bahor lopo bhū ca bahoḥ" (Pā. 6-4-158): after *bahu*, the suffixes *iman*, *iṣṭhan*, *īyasun* lose [their initial] and *bahu* is replaced by *bhū*; by "ādeḥ parasya" (Pā. 1-1-54) the loss falls on the first letter of what follows, so the *ī* is dropped, and by the same sūtra *bhū* replaces the stem: *bhūyas*; *īyasun* is *nit*, so *bhūyas* is initial-udātta by "ñnity ādir nityam" (Pā. 6-1-197); *bhūyas* is an *ugit* stem, so "ugitaś ca" (Pā. 4-1-6) gives *ṅīp* in the feminine; in *bhūyas* + *ṅīp*, the *ṅ* is *it* by "laśakv ataddhite" and the *p* by "halantyam" (Pā. 1-3-3), dropped by "tasya lopaḥ" (Pā. 1-3-9); *ṅīp* is *pit*, so unaccented by "anudāttau sup-pitau" (Pā. 3-1-4).
 
 **॥८॥**
 
-*(A printed ornament follows. The page carries no separate Sanskrit colophon and no Kannada closing line for this sūkta, unlike Sūkta 10. The next printed page, 483, opens the twelfth sūkta, "agniṃ dūtaṃ vṛṇīmahe," and is not translated in this batch.)*
+*(A printed ornament follows. The page carries no separate Sanskrit colophon and no Kannada closing line for this sūkta, unlike Sūkta 10. The next printed page, 483, opens the twelfth sūkta, "agniṃ dūtaṃ vṛṇīmahe," and follows below.)*
 
 **End of Sūkta 11.**
 
