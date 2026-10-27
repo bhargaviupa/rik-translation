@@ -14741,59 +14741,85 @@ the nasal for the *ā*; by "bhobhagoaghoapūrvasya yo 'śi" (Pā. sū. 8-3-17) *
 
 ---
 
-### Pages 695–697 — Sūkta 16, Rik 7
+### Page 695 (lower) — Sūkta 16, Rik 7
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अयं ते स्तोमो अग्रियो हृदिस्पृगस्तु शंतमः ।
-> अथा सोमं सुतं पिब ॥७॥
+> अ॒यं ते॒ स्तोमो॑ अग्रि॒यो हृ॑दि॒स्पृग॑स्तु॒ शंत॑मः ।
+> अथा॒ सोमं॑ सु॒तं पि॑ब ॥७॥
 >
-> *ayaṃ te stomo agriyo hṛdispṛg astu śaṃtamaḥ |*
-> *athā somaṃ sutaṃ piba ||7||*
+> *ayáṃ te stómo agriyó hṛdispṛ́g astu śáṃtamaḥ |*
+> *athā sómaṃ sutáṃ piba ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > अयम् । ते । स्तोमः । अग्रियः । हृदिऽस्पृक् । अस्तु । शम्ऽतमः ॥
 > अथ । सोमम् । सुतम् । पिब ॥७॥
 >
-> *ayam | te | stomaḥ | agriyaḥ | hṛdi-spṛk | astu | śam-tamaḥ ||*
+> *ayam | te | stomaḥ | agriyaḥ | hṛdi 'spṛk | astu | śam 'tamaḥ ||*
 > *atha | somam | sutam | piba ||7||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* athā*, the Pada* atha*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 695; compressed; [?] marks doubtful readings)*
-
-> हे इन्द्र अयमस्माभिः क्रियमाणः स्तोमः स्तोत्रविशेषोऽग्रियः श्रेष्ठः सन् ते तव हृदिस्पृक् मनस्यङ्गीकृतः शंतमः सुखकरतमोऽस्तु । अथ स्तुतेरनन्तरं सुतमभिषुतं सोमं पिब ॥ अग्रियः । अग्राद्यत् । पा. [४-४-११६] । इति घच् । चित्त्वादन्तोदात्तः । हृदिस्पृक् । हृदि स्पृशतीति हृदिस्पृक् । स्पृशोऽनुदके क्विन् । पा. [३-२-५८] । क्विन्प्रत्ययस्य कुः । पा. [८-२-६२] । इति कुत्वम् । … तत्पुरुषे कृति बहुलम् । पा. [६-३-१४] । इत्यलुक् । क्विनप्रत्ययस्य कुः । … कृदुत्तरपदप्रकृतिस्वरत्वम् । शंतमः । सुखकरद्रव्यवचनोऽत्र शंशब्दः । तत्तस्तमुप् । अत्र सुखप्रकर्षस्य गुणद्वारा गुणनिष्ठद्रव्ये सङ्क्रान्तत्वादद्रव्यप्रकर्ष इति निषेधात् किमेत्तिङ्व्ययघादाम्वद्रव्यप्रकर्षे । पा. [५-४-११] । आम् न भवति द्रव्यस्य स्वतः प्रकर्षाभावात् । ईदृगर्थ एव हि स निषेधः । अथा सोमम् । संहितायां निपातस्येति दीर्घः ॥७॥
+> हे इन्द्र अयमस्माभिः क्रियमाणः स्तोमः स्तोत्रविशेषोऽग्रियः श्रेष्ठः सन् ते तव हृदिस्पृक् मनस्यङ्गीकृतः शंतमः सुखतमोऽस्तु । अथ स्तुतेरनन्तरं सुतमभिषुतं सोमं पिब ॥ अग्रियः । अग्रादित्यनुवृत्तौ घच्छौ च । पा. ४-४-११७ । इति घच् । चित्त्वादन्तोदात्तः । हृदि स्पृशतीति हृदिस्पृक् । स्पृशोऽनुदके क्विन् । पा. ३-२-५८ । तत्पुरुषे कृति बहुलम् । पा. ६-३-१४ । इत्यलुक् । क्विन्प्रत्ययस्य कुः । पा. ८-२-६२ । इति शकारस्य कुत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । शंतमः । सुखकरद्रव्यवचनोऽत्र शंशब्दः ततस्तमप् । अत्र सुखप्रकर्षस्य गुणद्वारा गुणिनिष्ठद्रव्ये संक्रान्तत्वादद्रव्यप्रकर्ष इति निषेधात् किमेत्तिङव्ययेत्यादिना । पा. ५-४-११ । आम् न भवति द्रव्यस्य स्वतः प्रकर्षाभावात् । ईदृगर्थ एव हि स निषेधः । अथा सोमम् । संहितायां निपातस्येति दीर्घः ॥
 >
-> *he indra ayam asmābhiḥ kriyamāṇaḥ stomaḥ stotra-viśeṣo 'griyaḥ śreṣṭhaḥ san te tava hṛdispṛk manasy aṅgīkṛtaḥ śaṃtamaḥ sukha-karatamo 'stu | atha stuter anantaraṃ sutam abhiṣutaṃ somaṃ piba || agriyaḥ | agrād yat | pā. [4-4-116] | iti ghac | cittvād antodāttaḥ | hṛdispṛk | hṛdi spṛśatīti hṛdispṛk | spṛśo 'nudake kvin | pā. [3-2-58] | kvin-pratyayasya kuḥ | pā. [8-2-62] | iti kutvam | … tatpuruṣe kṛti bahulam | pā. [6-3-14] | ity aluk | … kṛd-uttarapada-prakṛti-svaratvam | śaṃtamaḥ | sukha-kara-dravya-vacano 'tra śaṃ-śabdaḥ | tat-tastamup | atra sukha-prakarṣasya guṇa-dvārā guṇa-niṣṭha-dravye saṅkrāntatvād adravya-prakarṣa iti niṣedhāt kim-etti-ṅ-vyaya-ghād ām-vadravya-prakarṣe | pā. [5-4-11] | ām na bhavati dravyasya svataḥ prakarṣābhāvāt | īdṛg-artha eva hi sa niṣedhaḥ | athā somam | saṃhitāyāṃ nipātasyeti dīrghaḥ ||7||*
+> *he indra ayamasmābhiḥ kriyamāṇaḥ stomaḥ stotraviśeṣo 'griyaḥ śreṣṭhaḥ san te tava hṛdispṛk manasyaṅgīkṛtaḥ śaṃtamaḥ sukhatamo 'stu | atha stuteranantaraṃ sutamabhiṣutaṃ somaṃ piba || agriyaḥ | agrādityanuvṛttau ghacchau ca | pā. 4-4-117 | iti ghac | cittvādantodāttaḥ | hṛdi spṛśatīti hṛdispṛk | spṛśo 'nudake kvin | pā. 3-2-58 | tatpuruṣe kṛti bahulam | pā. 6-3-14 | ityaluk | kvinpratyayasya kuḥ | pā. 8-2-62 | iti śakārasya kutvam | kṛduttarapadaprakṛtisvaratvam | śaṃtamaḥ | sukhakaradravyavacano 'tra śaṃśabdaḥ tatastamap | atra sukhaprakarṣasya guṇadvārā guṇiniṣṭhadravye saṃkrāntatvādadravyaprakarṣa iti niṣedhāt kimettiṅavyayetyādinā | pā. 5-4-11 | ām na bhavati dravyasya svataḥ prakarṣābhāvāt | īdṛgartha eva hi sa niṣedhaḥ | athā somam | saṃhitāyāṃ nipātasyeti dīrghaḥ ||*
 
-**Translation:** "O Indra! May this *stoma* — this particular hymn of praise being made by us — be *agriya*, the foremost; may it be *hṛdispṛk*, touching your heart, accepted in your mind; may it be *śaṃtama*, the most productive of comfort (happiness). Then, after the praise, drink the pressed (*suta*) soma." The rest is grammar, noted briefly: *agriyaḥ* (*agra* + *ghac* by P. 4-4-116 *agrād yat* as read [the Kannada reads the sūtra as *agrāc ghac ca*]; accent on the last syllable because of the *c* mark); *hṛdispṛk* (*hṛdi spṛśati*, *spṛś* + *kvin* when the object is not water, P. 3-2-58; *k* for the final of the root by P. 8-2-62; the locative ending kept — *aluk* — by P. 6-3-14 *tatpuruṣe kṛti bahulam*; the accent of the final member of the compound); *śaṃtamaḥ* (the word *śam* here means a thing that causes comfort; the suffix *tamap*; the augment *ām* of P. 5-4-11 *kimettiṅavyayaghād āmv adravyaprakarṣe* is not added, because the superlative here concerns a substance and the rule bars *ām* where the excess belongs to a substance — "the substance has no excellence of its own"); *athā somam* (the lengthened *athā* in the Saṃhitā by P. 6-3-136 *nipātasya ca*). *(Grammar, noted briefly; P. 3-2-58, P. 8-2-62 and P. 5-4-11 as read agree with the standard numbering.)*
+**Translation:** "O Indra, may this *stoma*, this particular hymn being made by us, being *agriya*, the best, be *hṛdispṛk* to you, taken to heart, and *śaṃtama*, most pleasing. *Atha*, after the praise, drink the *sutam*, pressed, soma." (Grammatical tail: *agriyaḥ*, *ghac* by *ghacchau ca* (Pā. 4-4-117), with *agrāt* carried on, final udātta as *cit*; *hṛdispṛk*, "it touches the heart", *kvin* by Pā. 3-2-58, the case kept by Pā. 6-3-14, the guttural for *ś* by Pā. 8-2-62, the accent of the *kṛt* final member; *śaṃtamaḥ*, *śam* here naming a thing that gives happiness, then *tamap*; since the excess of happiness passes through the quality to the thing that has it, the bar "*adravyaprakarṣe*" in *kim-et-tiṅ-avyaya…* (Pā. 5-4-11) applies and *ām* does not come, a thing having no excess of its own; *athā somam*, lengthened in the Saṃhitā by *nipātasya*.)
 
-**Grammar pages (pp. 696 lower half–698 upper half), noted briefly.** The Kannada treats *agriyaḥ* (P. 4-4-116 *agrāt ghac ca* [the *ghac* and *yat* suffixes after *agra* in the sense "being in front"], so here the sense *agre bhavaḥ* "being first" takes *ghac*; the *cuṭū* of P. 1-3-7 for the *c*, *tasya lopaḥ*; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* P. 7-1-2 gives *iy* for *gh* — *agra* + *iya*; *yasyeti ca* P. 6-4-148 drops the *a*; *agriya* accented on the end by *cit* P. 6-1-163; the nominative *su*, *ru*, *visarga*), *hṛdispṛk* (*hṛdi spṛśati*; *spṛśo 'nudake kvin* P. 3-2-58; the sūtra *tatpuruṣe kṛti bahulam* P. 6-3-14 for the *aluk* of the locative in a *tatpuruṣa* before a *kṛt*; *kvin*'s *k* gives *kutva* by P. 8-2-62 *kvinpratyayasya kuḥ*; the *ṣ* of *spṛś*; *vraśca-bhrasja-sṛja-mṛja-yaja-rāja-bhrājacchaśāṃ ṣaḥ* P. 8-2-36 is taken first, then *spṛṣ* → *spṛg* by P. 8-2-39 *jhalāṃ jaśo 'nte*, and *kutva* by P. 8-2-62; *vāvasāne* P. 8-4-56 gives *spṛk*; compound accent that of the final member by P. 6-2-139), *śaṃtamaḥ* (*śam* 'comfort' + *tamap* by P. 5-3-55 *atiśāyane tamabiṣṭhanau*; the long note, as given in the *Mahābhāṣya* and by Kaiyaṭa on the *tamap* sūtra: "*adravyaprakarṣe*" bars the *ām* augment of P. 5-4-11 when the excellence is not of a substance; here *śam* is a quality-word and the excellence is first in the quality, then transferred to the substance, so the bar applies and *ām* is not added; *tarap-tamapau ghaḥ* P. 1-1-22 gives these suffixes the name *gha*), and *athā somam* (the lengthening by P. 6-3-136 *nipātasya ca*). ॥7॥ *(Numerals as read; pointers only.)*
+### Page 696 — Rik 7: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 696)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे इन्द्र) ((he indra))** — O Indra | **अग्रियः (agriyaḥ)** — the foremost, the best | **अयम् (ayam)** — this (praise, made by us) | **स्तोमः (stomaḥ)** — hymn of praise | **ते (te)** — your | **हृदिस्पृक् (hṛdi-spṛk)** — touching the heart (agreeable to the mind) | **शंतमः (śaṃ-tamaḥ)** — most productive of comfort | **अस्तु (astu)** — may it be | **अथ (atha)** — after the praise is over | **सुतम् (sutam)** — ready | **सोमम् (somam)** — the soma-juice | **पिब (piba)** — drink.
+(**हे इन्द्र (he indra)** — O Indra) | **अग्रियः (agriyaḥ)** — excellent | **अयम् (ayam)** — this (being made by us) | **स्तोमः (stomaḥ)** — hymn of praise | **ते (te)** — your | **हृदिस्पृक् (hṛdispṛk)** — touching the heart (and agreeable to the mind) | **शंतमः (śaṃtamaḥ)** — giving happiness | **अस्तु (astu)** — may it be | **अथ (atha)** — after the praise is over | **सुतम् (sutam)** — made ready | **सोमम् (somam)** — the soma juice | **पिब (piba)** — drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! May this hymn which we make about you touch your heart and give you delight. Afterwards, drink the soma-juice that we have made ready.
+O Indra, may this hymn that we are making about you touch your heart, gladden you and give you joy. Then drink this soma juice that we have prepared.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> May this excellent hymn touching you heart be most agreeable to you. Drink, then Indra, the extracted Soma-juice.
+> May this excellent hymn touching you [sic] heart be most agreeable to you. Drink, then Indra, the extracted Soma-juice.
 
-*(The print has "you heart" for "your heart" — [sic].)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 696)*
+**Agriyaḥ**: best (*agre bhavaḥ*, being at the front); excellent, highest.
 
-**अग्रियः (agriyaḥ)** — *agre bhavaḥ*: the foremost, the best, the highest.
+**Hṛdispṛk**: *hṛdi spṛśatīti hṛdispṛk*, it touches the heart: touching the heart, melting the heart, striking the mind, "touching your heart, etc." The intent is: may the hymn we make strike your mind.
 
-**हृदिस्पृक् (hṛdispṛk)** — *hṛdi spṛśatīti hṛdispṛk*: touching the heart; moving the heart; pleasing the mind. [The print adds the English "touching your heart, etc."] The sense is: may the hymn we make please your mind.
+**Śaṃtamaḥ**: causing happiness; the sense is: may the hymn we make give you joy.
 
-**शंतमः (śaṃtamaḥ)** — productive of comfort; may the hymn we make give you delight.
+**Atha**: the last syllable of this word is long in the Saṃhitā-pāṭha to suit the metre.
 
-**अथ (atha)** — the final syllable of this word is lengthened in the Saṃhitā text to suit the metre.
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 696–698, noted briefly)*
+
+**अग्रियः (*agriyaḥ*)**: in "ghacchau ca" (Pā. sū. 4-4-117) the word *agrāt* is carried on from the preceding sūtra "agrād yat" (Pā. sū. 4-4-116). After the stem *agra* ending in the locative, in the sense "*bhava*",
+
+### Page 697 — Rik 7: grammar
+
+the suffixes *gha*, *cha* and *yat* come; so here, *agre bhavaḥ* being meant, *ghac* comes. The *sup* inside the *taddhita*-final stem takes *luk*. By "āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām" (Pā. sū. "1-3-6" [as printed, for 7-1-2]), for *ph*, *ḍh*, *kh*, *ch* and *gh* at the start of a suffix come *āyan*, *ey*, *īn*, *īy* and *iy*; so *iy* for *gh*: *agra* + *iya*; the *a* dropped by *yasyeti ca*: *agriya*. The suffix *ghac* is *cit*; so by "citaḥ" (Pā. sū. 6-1-163) *agriya* is final udātta. Nominative singular *su*; *ru* and visarga: *agriyaḥ*.
+
+**हृदिस्पृक् (*hṛdispṛk*)**: *hṛdi spṛśati iti hṛdispṛk*. By "spṛśo 'nudake kvin" (Pā. sū. 3-2-58), when a *subanta* other than the word *udaka* is the *upapada*, the suffix *kvin* comes after the root *spṛś*; all its letters drop. By "tatpuruṣe kṛti bahulam" (Pā. sū. 6-3-14), when a *kṛdanta* final member follows, the locative in a *tatpuruṣa* compound is not dropped; so the *luk* due by "supo dhātuprātipadikayoḥ" does not come. After *hṛdispṛś* the suffix *su*, dropped by "halṅyābbhyo dīrghāt…" (Pā. sū. 6-1-68). The guttural enjoined by "kvinpratyayasya kuḥ" (Pā. sū. 8-2-62) (in the *pada*-final position a word after which *kvin* came takes a guttural as its final substitute) counts as not done when the *ṣ* for a final *ś* is made by "vraśca-bhrasja-sṛja-mṛja-yaja-rāja-bhrāja-cchaśāṃ ṣaḥ" (Pā. sū. 8-2-36). So first *ṣ* comes by this sūtra: *spṛṣ*; then *jaś*, *ḍ* for *ṣ*, by "jhalāṃ jaśo 'nte" (Pā. sū. 8-2-39). Now by *kvinpratyayasya kuḥ* the guttural: for *ḍ*, the third of the *ṭ*-class, *g*, the third of the *k*-class; *ghṛtaspṛg*; by "vā śari" (Pā. sū. 8-3-36 [as printed]) *car* optionally: *ghṛtaspṛk* [as printed: the word worked here is *ghṛtaspṛk*, not *hṛdispṛk*]. *Spṛk* is final udātta by the root accent. After compounding too, by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139), the accent of the *kṛt* final member comes; the root accent stays.
+
+**शंतमः (*śaṃtamaḥ*)**: the word *śam* conveys "a thing that gives happiness". *Atiśayitaḥ śam* being meant, *tamap* by "atiśāyane tamabiṣṭhanau" (Pā. sū. 5-3-55): *śam* + *tama*. Here the excess of happiness is of the form happiness; through the quality it comes to rest in the excess of the thing marked by the quality happiness. So, because of the bar "*adravyaprakarṣe*" in "kim-et-tiṅ-avyaya-ghād ām v adravyaprakarṣe" (Pā. sū. 5-4-11) (after a word ending in a suffix called *gha* that follows *kim*, an *e*-final word, a *tiṅanta* or an *avyaya*, *āmu* comes, but not when an excess of a thing is shown), *āmu* does not come here. A thing has no excess of its own; so the excess of the thing must be explained by putting first the excess of quality and so on.
+
+### Page 698 (upper) — Rik 7: grammar (end)
+
+This point Kaiyaṭa states in the *tamap* sūtra:
+
+> अद्रव्यप्रकर्षे इति निषेध उपचरितगुणक्रियागतप्रकर्षद्रव्यविषयो द्रष्टव्यः
+>
+> *adravyaprakarṣe iti niṣedha upacaritaguṇakriyāgataprakarṣadravyaviṣayo draṣṭavyaḥ*
+
+("The bar '*adravyaprakarṣe*' is to be seen as concerning a thing whose excess lies in a quality or action figuratively ascribed to it": my rendering, mine and tentative.) In the present case, since an excess of the thing that has happiness is shown through the excess of the quality happiness, the bar *adravyaprakarṣe* applies, and the suffix *ām* does not come. By "taraptamapau ghaḥ" (Pā. sū. 1-1-22) the suffixes *tarap* and *tamap* are called *gha*: this is how the name *gha* is stated.
+
+**अथा सोमम् (*athā somam*)**: lengthened in the Saṃhitā by "nipātasya ca" (Pā. sū. 6-3-136).
+
+**॥७॥**
+
+---
 
 ### Pages 698–702 — Sūkta 16, Rik 8
 
