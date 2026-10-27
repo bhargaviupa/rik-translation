@@ -6764,13 +6764,13 @@ Because this rik contains the relative word **येन** (*yena*, "by which"), 
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे इन्द्र त्वोतासस्त्वया पालिता वयं घना घनं शत्रुप्रहरणाय [word unclear in scan] दृढं वज्रमायुधमा ददीमहि । स्वीकुर्मः । तेन च वज्रेण युधि युद्धे स्पृधः स्पर्धमानान् शत्रून्सं जयेमु [sic: *jayema*] ॥
+> हे इन्द्र त्वोतासस्त्वया पालिता वयं घना घनं शत्रुप्रहरणायात्यन्तं दृढं वज्रमायुधमा ददीमहि । स्वीकुर्मः । तेन च वज्रेण युधि युद्धे स्पृधः स्पर्धमानान् शत्रून्सं जयेम ॥
 >
-> *he indra tvotāsas tvayā pālitā vayaṃ ghanā ghanaṃ śatru-praharaṇāya [word unclear in scan] dṛḍhaṃ vajram āyudham ā dadīmahi | svīkurmaḥ | tena ca vajreṇa yudhi yuddhe spṛdhaḥ spardhamānān śatrūn saṃ jayema ||*
+> *he indra tvotāsas tvayā pālitā vayaṃ ghanā ghanaṃ śatru-praharaṇāyātyantaṃ dṛḍhaṃ vajram āyudham ā dadīmahi | svīkurmaḥ | tena ca vajreṇa yudhi yuddhe spṛdhaḥ spardhamānān śatrūn saṃ jayema ||*
 
-**Translation:** "O Indra! We, protected by you (*tvotāsaḥ*), take up (*ā dadīmahi* — accept) the firm (*ghanā* = *ghanam*) thunderbolt-weapon [adjective after "for striking down enemies" is illegible in the scan]; and with that thunderbolt in battle (*yudhi*) may we conquer (*saṃ jayema*) the enemies who contend (*spṛdhaḥ*)."
+**Translation:** "O Indra! We, protected by you (*tvotāsaḥ*), take up (*ā dadīmahi* — accept) the thunderbolt-weapon (*ghanā* = *ghanam*), exceedingly firm for striking enemies; and with that thunderbolt in battle (*yudhi*) may we conquer (*saṃ jayema*) the enemies who contend (*spṛdhaḥ*)."
 
-*(The rest of the Sanskrit on this page is the grammar of* त्वोतासः*,* वज्रम्*,* घना*,* ददीमहि*,* जयेम*,* युधि*,* स्पृधः*; noted briefly under the Kannada grammar, p. 312–314.)*
+**Grammar of the Bhāṣya (characterized, references as printed; page header "A. 1, A. 1, Va. 15"):** "Tvotāsaḥ" — as before. "Vajram" — "vaja vraja gatau," "ran" by "ṛjrendrāgra…," end-acute by nipātana. "Ghanā" — "ghanaḥ kāṭhinyam, tad asyāstīti": **अर्शआदिभ्योऽच्** (पा. ५-२-१२७) "ac"; "c"-marked, end-acute; "ā" for the case-ending by "supāṃ suluk…". "Dadīmahi" — "ḍudāñ dāne," "liṅ" in the sense of prayer; ātmanepada by **स्वरितञितः कर्त्रभिप्राये क्रियाफले** (पा. १-३-७२); first plural "mahiṅ"; "śap" → "ślu" by **जुहोत्यादिभ्यः श्लुः** (पा. २-४-७५); doubling by **श्लौ** (पा. ६-१-१०); **लिङः सलोपोऽनन्त्यस्य** (पा. ७-२-७९); **श्नाभ्यस्तयोरातः** (पा. ६-४-११२) loss of "ā." "Jayema" — "śap," "p"-marked, unaccented; the lasārvadhātuka accent leaves the root accent; **छन्दसि परेऽपि** (पा. १-४-८१) "sam" after the verb. "Yudhi" — "yudha samprahāre," **संपदादिभ्यो भावे क्विप्** (पा. ३-३-१०८-९, a vārttika); "sāv ekācaḥ…" the case-ending acute. "Spṛdhaḥ" — "spardhanta iti," "spardha saṃgharṣe," **क्विप् च** (पा. ३-२-७६); samprasāraṇa "ṛ" of the "r" by "bahulaṃ chandasi," and loss of "a."
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -6792,23 +6792,25 @@ O Indra! We, protected by you, will take the thunderbolt-weapon, very firm for d
 
 **"Ghanā"** — *ghanam* means hard, very heavy; *hard, firm*, etc.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 312–314, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 312–314, Kannada; page headers p. 312 "Maṃ. 1, A. 3, Sū. 8," p. 313 "A. 1, A. 1, Va. 15"; characterized, numbers as printed)*
 
-Words treated: **त्वोतासः (*tvotāsaḥ*)** — explained under Rik 2. **वज्रम् (*vajram*)** — root *vaja/vraja gatau* with *ran* by an Uṇādi *nipātana* (Uṇ. 2-[?]). **घना (*ghanā*)** — *ghanaḥ asya asti* ("that which has hardness"); *ac* by the *pacādi* rule (Pā. 3-1-134 [?]); final-udātta (*cit*); the accusative *am* replaced by *ā* (Pā. 7-1-39 [?], Vedic "supāṃ sulug…"). **ददीमहि (*dadīmahi*)** — *ḍudāñ dāne* ("to give"; juhotyādi class) with *liṅ* in the sense of *prārthanā* (entreaty); *ātmanepada* by Pā. 1-3-72 [?]; the several *tiṅ* endings and the choice of the first-person plural *mahiṅ*; *śap* then *ślu*; doubling and shortening of the reduplicate; *sīyuṭ* augment; loss of *s* and of *y* (Pā. 7-2-79, 6-1-66 [?]); loss of *ā* of the root before the *ātmanepada* ending; *tiṅ* unaccented. **जयेम (*jayema*)** — root *ji*, *vidhiliṅ*, parasmaipada first-plural *mas*; *s* of *mas* dropped; *śap*; *guṇa* then *ay*; *yāsuṭ*; *sakāra* lost; *a* → *ī* → *e* (Pā. 3-2-80 [?]); the prefix *sam* ordinarily precedes the verb but may stand after it in the Veda (Pā. 1-4-81 [?]). **युधि (*yudhi*)** — root *yudha saṃprahāre* ("to fight") + *kvip* (Pā. 3-2-178 [?]); locative; final-udātta. **स्पृधः (*spṛdhaḥ*)** — *spardhante iti spṛdhaḥ*; root *spardha saṃgharṣe* + *kvip* with Vedic *saṃprasāraṇa* of *r*; accusative plural. *(Sūtra numbers read from small print; pointers only. Ends with the number* ॥३॥ *on p. 314.)*
+**त्वोतासः** — given in the previous Ṛk. **वज्रम्** — "vaja vraja gatau," "ran" by nipātana in **ऋज्रेन्द्राग्रवज्र…** (उ. सू. २-१८६). **घना** — "ghanaḥ kāṭhinyam," "ghano 'syāsti": **नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः** (पा. सू. ३-१-१३४), being of the pacādi class, "ac"; "c"-marked, end-acute; "ā" for "am" by **सुपां सुलुक्…** (पा. सू. ७-१-३९). **ददीमहि** — "ḍudāñ dāne," juhotyādi: **विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ्** (पा. सू. ३-३-१६१) "liṅ" in the sense of prayer; of the eighteen endings for "liṅ" (by **तिप्तस्झि…**, पा. सू. ३-४-७८, as the maxim of the pigeons settling together goes), the root being "ñit," **स्वरितञितः कर्त्रभिप्राये क्रियाफले** (पा. सू. १-३-७२) the ātmanepada, the nine of **तङानावात्मनेपदम्** (पा. सू. १-४-१००); **अस्मद्युत्तमः** (पा. सू. १-४-१०७) the first person, and **बहुषु बहुवचनम्** (पा. सू. १-४-२१) the plural: "mahiṅ"; **कर्तरि शप्** (पा. सू. ३-१-६८); (p. 313) **जुहोत्यादिभ्यः श्लुः** (पा. सू. २-४-७५); **श्लौ** (पा. सू. ६-१-१०) doubling; **ह्रस्वः** (पा. सू. ७-४-५९): "dadā + mahi"; **लिङः सीयुट्** (पा. सू. ३-४-१०२) "sīyuṭ"; **लिङः सलोपोऽनन्त्यस्य** (पा. सू. ७-२-७९); **लोपो व्योर्वलि** (पा. सू. ६-१-६६); **श्नाभ्यस्तयोरातः** (पा. सू. ६-४-११२), the root being "abhyasta" by **उभे अभ्यस्तम्** (पा. सू. ६-१-५): "dadīmahi"; wholly unaccented by **तिङ्ङतिङः** (पा. सू. ८-१-२८). **जयेम** — "ji jaye," "vidhiliṅ," parasmaipada first plural "mas"; **नित्यं ङितः** (पा. सू. ३-४-९९) loss of "s"; "śap" (पा. सू. ३-१-६८); guṇa (पा. सू. ७-३-८४) and "ay" (पा. सू. ६-१-७८); **यासुट् परस्मैपदेषूदात्तो ङिच्च** (पा. सू. ३-४-१०३) "yāsuṭ"; loss of "s" (पा. सू. ७-२-७९); **अतो येयः** (पा. सू. ७-२-८०) "iy"; loss of "y" (पा. सू. ६-१-६६); **आद्गुणः** (पा. सू. ६-१-८७): "jayema." "Śap," "p"-marked, is unaccented; "i-ma" unaccented by **तास्यनुदात्तेत्…** (पा. सू. ६-१-१८६); the "e" from two unaccented vowels is unaccented; "ja" acute by the root accent; the "e" after it svarita by **उदात्तादनुदात्तस्य स्वरितः** (पा. सू. ८-४-६६); "ma" after the svarita would be pracaya by **स्वरितात्संहितायामनुदात्तानाम्** (पा. सू. १-२-३९), but before the acute "sam" in the saṃhitā it is "sannatara" by **उदात्तस्वरितपरस्य सन्नतरः** (पा. सू. १-२-४०). "Sam" should precede the verb, but by **छन्दसि परेऽपि** (पा. सू. १-४-८१) follows it. **युधि** (p. 314) — "yudha samprahāre," "kvip" in the action sense by **संपदादिभ्यः क्विप्** (पा. सू. ३-३-१०८-९, a vārttika), wholly lost; the locative singular acute by **सावेकाचस्तृतीयादिर्विभक्तिः** (पा. सू. ६-१-१६८). **स्पृधः** — "spardhanta iti spṛdhaḥ," "spardha saṃgharṣe," **क्विप् च** (पा. सू. ३-२-७६); samprasāraṇa "ṛ" for the "r" and loss of the "a" by "bahulaṃ chandasi"; accusative plural. ॥३॥
 
-**॥३॥**
+
 
 ---
 
 ### Page 314 — Sūkta 8, Rik 4
 
+*(Saṃhitā accents as printed; Pada unaccented. No svarita stroke is printed over "re" of "śūrebhiḥ" (the Pada has one there).)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वयं शूरेभिरस्तृभिरिन्द्र त्वया युजा वयम् ।
-> सासह्याम पृतन्यतः ॥४॥
+> व॒यं शूरेभि॒रस्तृ॑भि॒रिन्द्र॒ त्वया॑ यु॒जा व॒यं ।
+> सा॒स॒ह्या॑म पृत॒न्यतः ॥४॥
 >
-> *vayaṃ śūrebhir astṛbhir indra tvayā yujā vayam |*
-> *sāsahyāma pṛtanyataḥ ||4||*
+> *vayáṃ śūrebhir ástṛbhir índra tváyā yujā́ vayáṃ |*
+> *sāsahyāma pṛtanyátaḥ ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
