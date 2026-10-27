@@ -2210,42 +2210,95 @@ In this ṛk and in the next three ṛks the wives of the gods are set forth. In
 
 ---
 
-### Pages 89–91 — Sūkta 22, Rik 10
+### Page 89 (lower) — Sūkta 22, Rik 10
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ ग्ना अग्न इहावसे होत्रां यविष्ठ भारतीम् ।
-> वरूत्रीं धिषणां वह ॥१०॥
+> आ ग्ना अ॑ग्न इ॒हाव॑से॒ होत्रां॑ यवि॒ष्ठ भार॑तीं ।
+> वरू॑त्रीं धि॒षणां॑ वह ॥१०॥
 >
-> *ā gnā agna ihāvase hotrāṃ yaviṣṭha bhāratīm |*
-> *varūtrīṃ dhiṣaṇāṃ vaha ||10||*
+> *ā gnā́ agna ihā́vase hótrāṃ yaviṣṭhá bhā́ratīṃ |*
+> *várūtrīṃ dhiṣáṇāṃ vaha ||10||*
+
+*(Strokes over अ (अग्न), व (अवसे), त्रां and र (भारतीं); bars under इ, से and ष्ठ. Line 2: a stroke over रू, a bar under धि, a stroke over णां.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> आ । ग्नाः । अग्ने । इह । अवसे । होत्राम् । यविष्ठ । भारतीम् ॥
-> वरूत्रीम् । धिषणाम् । वह ॥१०॥
+> आ । ग्नाः । अग्ने । इह । अवसे । होत्रां । यविष्ठ । भारतीं ॥
+> वरूत्रीं । धिषणां । वह ॥१०॥
 >
-> *ā | gnāḥ | agne | iha | avase | hotrām | yaviṣṭha | bhāratīm ||*
-> *varūtrīm | dhiṣaṇām | vaha ||10||*
+> *ā | gnāḥ | agne | iha | avase | hotrāṃ | yaviṣṭha | bhāratīṃ ||*
+> *varūtrīṃ | dhiṣaṇāṃ | vaha ||10||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 90; compressed)*
+### Page 90 — Rik 10: bhāṣya, word-meanings, overall sense, English
 
-> हे अग्ने अवसेऽस्मानवितुं ग्नाः देवपत्नीरिहा वह । कथा हे यविष्ठ युवतमाग्ने होत्रां होमनिष्पादकाग्निपत्नीं भारतीं भरतनामकस्यादित्यस्य पत्नीं वरूत्रीं वरणीयां धिषणां वाग्देवीं चा वह । वाग्वै धिषणेति वाजसनेयकम् । भरत आदित्यः । नि. [८-१३] [?] । इति यास्केनोक्तत्वात्तस्य पत्नी भारतीत्यध्येयम् ॥ [grammar:] *gnāḥ* (*gam* 'to go' + *kvip*/Uṇādi *ṅa*, with loss of the *m*); *hotrām* (Uṇ. 4-[?] *huyāmāśrubhasibhyas tran*); *yaviṣṭha* (*yuvan* + *iṣṭhan*, *yaṇādi* loss, guṇa); *bhāratīm*; *varūtrīm* (*vṛ* + *tṛc*? as read: 'she who is to be chosen'); *dhiṣaṇām* (Uṇ. 3-[?] *dhṛṣer ca*; *dhṛṣ* + *yuc/ana*).
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*(The Uṇādi number of होत्रां is read ४-१६७ [?]; the others are printed नि० ८-१३, पा० ६-४-१५६, पा० ७-२-३४, उ० २-८२. The bhāṣya ends with ॥५॥, the close of the fifth varga.)*
+
+> हे अग्ने अवसेऽस्मानवितुं ग्ना देवपत्नीरिहा वह । तथा हे यविष्ठ युवतमाग्ने होत्रां होमनिष्पादकाग्निपत्नीं भारतीं भरतनामकस्यादित्यस्य पत्नीं वरूत्रीं वरणीयां धिषणां वाग्देवीं चा वह । वाग्वै धिषणेति वाजसनेयकं । भरत आदित्यः । नि० ८-१३ । इति यास्केनोक्तत्वात्तस्य पत्नी भारतीत्युच्यते ॥ गम्यन्त इति ग्नाः । गम्लृ सृप्लृ गतौ । औणादिको ड्नप्रत्ययः । डित्त्वाट्टिलोपः । प्रत्ययस्वरः । होत्रां । हुयामाश्रुभसिभ्यस्त्रन् । उ० ४-१६७ । इति त्रन्नन्तो नित्त्वादाद्युदात्तः । अतिशयेन युवा यविष्ठः । अतिशायने तमबिष्ठनौ । स्थूलदूरेत्यादिना । पा० ६-४-१५६ । यणादिपरस्य लोपः पूर्वस्य च गुणः । भारतीं । शार्ङ्गरवादेरवृत्कृतत्वात् ङीनन्तो नित्त्वादाद्युदात्तः । वरूत्रीं । ग्रसितस्कभितेत्यादौ । पा० ७-२-३४ । यद्यपि वरूतृशब्दस्तृजन्त इत्युक्तं तथाप्यन्त इतिकरणस्य प्रदर्शनार्थत्वाद्वरूतृशब्दस्तृन्नन्तोऽपि द्रष्टव्यः । तेन नित्त्वादाद्युदात्तत्वं । शेषनिघातेन ऋकारस्यानुदात्तत्वादुदात्तयणो हल्पूर्वादित्यपि न ङीप उदात्तत्वं । धिषणां । क्युप्रत्ययानुवृत्तौ धृषेर्धिष च संज्ञायां । उ० २-८२ । इति क्युः ॥५॥
 >
-> *he agne avase 'smān avituṃ gnāḥ deva-patnīr ihā vaha | kathā he yaviṣṭha yuvatamāgne hotrāṃ homa-niṣpādakāgni-patnīṃ bhāratīṃ bharata-nāmakasyādityasya patnīṃ varūtrīṃ varaṇīyāṃ dhiṣaṇāṃ vāg-devīṃ cā vaha | vāg vai dhiṣaṇeti vājasaneyakam | bharata ādityaḥ | ni. [8-13] [?] | iti yāskenoktatvāt tasya patnī bhāratīty adhyeyam ||*
+> *he agne avase 'smānavituṃ gnā devapatnīrihā vaha | tathā he yaviṣṭha yuvatamāgne hotrāṃ homaniṣpādakāgnipatnīṃ bhāratīṃ bharatanāmakasyādityasya patnīṃ varūtrīṃ varaṇīyāṃ dhiṣaṇāṃ vāgdevīṃ cā vaha | vāgvai dhiṣaṇeti vājasaneyakaṃ | bharata ādityaḥ | ni0 8-13 | iti yāskenoktatvāttasya patnī bhāratītyucyate || gamyanta iti gnāḥ | gamlṛ sṛplṛ gatau | auṇādiko ḍnapratyayaḥ | ḍittvāṭṭilopaḥ | pratyayasvaraḥ | hotrāṃ | huyāmāśrubhasibhyastran | u0 4-167 | iti trannanto nittvādādyudāttaḥ | atiśayena yuvā yaviṣṭhaḥ | atiśāyane tamabiṣṭhanau | sthūladūretyādinā | pā0 6-4-156 | yaṇādiparasya lopaḥ pūrvasya ca guṇaḥ | bhāratīṃ | śārṅgaravāderavṛtkṛtatvāt ṅīnanto nittvādādyudāttaḥ | varūtrīṃ | grasitaskabhitetyādau | pā0 7-2-34 | yadyapi varūtṛśabdastṛjanta ityuktaṃ tathāpyanta itikaraṇasya pradarśanārthatvādvarūtṛśabdastṛnnanto 'pi draṣṭavyaḥ | tena nittvādādyudāttatvaṃ | śeṣanighātena ṛkārasyānudāttatvādudāttayaṇo halpūrvādityapi na ṅīpa udāttatvaṃ | dhiṣaṇāṃ | kyupratyayānuvṛttau dhṛṣerdhiṣa ca saṃjñāyāṃ | u0 2-82 | iti kyuḥ ||5||*
 
-**Translation:** "O Agni, for our protection bring here the *gnāḥ* — the wives of the gods. How? O *yaviṣṭha* — most youthful! — bring *hotrā* — the wife of the Agni who completes the offering —, *bhāratī* — the wife of the Āditya called Bharata —, *varūtrī* — the one to be chosen —, and *dhiṣaṇā* — the goddess of speech. 'Speech indeed is *dhiṣaṇā*' (Vājasaneyaka); 'Bharata is the Āditya' (Nirukta [8-13] [?]), so *bhāratī* is to be understood as his wife." *(Grammar pages 91–92, noted briefly: *gnāḥ* [*gamlṛ gatau*, loss of *m* before *kṅit*, P. 6-4-37 pointer],* hotrām, yaviṣṭha, bhāratīm, varūtrīm, dhiṣaṇām*; numerals as read, pointers only.)*
+**Translation:** "O Agni! *Avase*, to protect us, bring (*ā vaha*) *iha*, here, the *gnāḥ*, the wives of the gods. Likewise, O *yaviṣṭha*, youngest Agni, bring *hotrām*, the wife of Agni who brings about the offering; *bhāratīm*, the wife of the sun named Bharata; *varūtrīm*, the choice-worthy; and *dhiṣaṇām*, the goddess of speech — '*dhiṣaṇā* is speech', says the Vājasaneyaka. Because Yāska says 'Bharata is the sun' (Ni. 8-13), his wife is called Bhāratī." (Grammatical tail: *gnāḥ*, 'they are gone to', *gamḷ sṛpḷ gatau*, the Uṇādi suffix *ḍna*, the *ṭi* dropped as it is *ḍit*, the suffix accent; *hotrām*, ending in *tran* by *huyāmāśrubhasibhyas tran* (U. 4-167 [?]), initial udātta as *nit*; *yaviṣṭha*, 'most young', *iṣṭhan* by *atiśāyane tamabiṣṭhanau*; by *sthūladūra…* (Pā. 6-4-156) the part from the *yaṇ* on is dropped and the preceding vowel takes *guṇa*; *bhāratīm*, because the *śārṅgaravādi* list is not closed with *vṛt*, it ends in *ṅīn* and is initially udātta as *nit*; *varūtrīm*, at *grasitaskabhita…* (Pā. 7-2-34): although *varūtṛ* is said to end in *tṛc*, the *iti* at the end serves to show examples, so *varūtṛ* is also to be taken as ending in *tṛn*; hence initial udātta as *nit*; with the *ṛ* unaccented by *śeṣanighāta*, the *ṅīp* is not udātta even by *udāttayaṇo halpūrvāt*; *dhiṣaṇām*, with *kyu* carried on, *kyu* by *dhṛṣer dhiṣa ca saṃjñāyām* (U. 2-82).)
 
-**॥ Prati-padārthaḥ ॥** **अग्ने (agne)** — O Agni | **यविष्ठ (yaviṣṭha)** — most youthful | **अवसे (avase)** — for [our] protection | **होत्राम् (hotrām)** — Hotrā | **भारतीम् (bhāratīm)** — Bhāratī | **वरूत्रीम् (varūtrīm)** — Varūtrī | **धिषणाम् (dhiṣaṇām)** — Dhiṣaṇā | **ग्नाः (gnāḥ)** — [these] divine wives | **इह (iha)** — here | **आ वह (ā vaha)** — bring.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O ever-youthful Agni! For our protection bring here Hotrā, Bhāratī, Varūtrī and Dhiṣaṇā — the wives of the gods beginning with Āditya.
+**अग्ने (agne)** — O Agni | **अवसे (avase)** — to protect us | **ग्नाः (gnāḥ)** — the wives of the gods | **इह (iha)** — to this place | **आ वह (ā vaha)** — bring | **यविष्ठ (yaviṣṭha)** — O Agni, best among the young | **होत्रां (hotrāṃ)** — the wife of Agni, who carries the oblations to the gods | **भारतीं (bhāratīṃ)** — Bhāratī (the wife of the sun named Bharata) | **वरूत्रीं (varūtrīṃ)** — worthy of honour, or to be desired | **धिषणां (dhiṣaṇāṃ)** — the goddess of speech too | **आ वह (ā vaha)** — bring.
+
+**॥ Bhāvārthaḥ ॥**
+
+O young Agni, bring for our protection the wives of the gods — Hotrā, Bhāratī, and the goddess of speech, worthy of honour and to be desired, and the others.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O youthful Agni, bring hither for our protection the goddesses, Hotra, Bharathi, Varutri, and Dhishana.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 91)* In this rik the divine wives Hotrā, Bhāratī, Varūtrī and Dhiṣaṇā are invoked. *Hotrā* is read among the words for speech (Ni. [1-11] [?]); *bhāratī* (Ni. [8-13]) and *dhiṣaṇā* among the words for speech, and *varūtrī*, 'the one to be chosen', are taken either as names of separate goddesses or as different names of Vāc; the commentator takes *hotrā* as the wife of Agni, *bhāratī* as the wife of Bharata-Āditya, *dhiṣaṇā* as Vāgdevatā [Sarasvatī]. **ग्नाः** — *gnā* means 'woman' (Ni. [3-21] [?]; also 'gnā' read among the words for speech [Ni. 1-11], and as 'women' in *menā gnā iti strīṇām* [Ni. 3-21]); Yāska derives it *gacchanti hi enāḥ maithunena dhāraṇārtham* — 'men go to women for the sake of union'. The word *gnāḥ* occurs in the Ṛgveda in several riks (Ṛ. Saṃ. 1-22-10 [Rik 10 itself], 1-61-8, and others; numerals as read, marked [?]). **यविष्ठ** — *atiśayena yuvā yaviṣṭhaḥ*: youthful, a young man.
-*(Grammar pages 92–94 of Rik 10, noted briefly: the Vyākaraṇa-prakriyā on* yaviṣṭha *[*atiśayena yuvā* — *iṣṭhan* after *yuvan* with loss of *van*; P. 5-3-55 / 6-4-154 / 6-4-163 pointers]*,* bhāratīm *[*bhṛñ bhartane* + *añ* from* bharata*, then* ṅīp*; the rule* tasyāpatyam *and the *śārṅgaravādi* group — numerals as read],* varūtrīm *[the long list of words of P. 3-2-185 *grasita, skabhita, stabhita … varūtrī* etc., all treated as irregular formations — I could not read the numerals reliably],* dhiṣaṇām *[*dhṛṣ* + *kyap* with *dhiṣ* substituted, P. 3-3-[?] pointers]. The print is crowded; not transcribed line by line.)*
+### Page 91 — Rik 10: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+In this ṛk the women Hotrā, Bhāratī, Varūtrī and Dhiṣaṇā, wives of the gods, are invoked. Though they are all different deities, since the words Hotrā (Ni. 2-23 [?]), Bhāratī (Ni. 2-23 [?]) and Dhiṣaṇā (2-23 [?]) are all read among the names of speech, and since the word *varūtrī*, in the sense 'choice-worthy', is also a qualifier of the word *dhiṣaṇā*, there is room for doubt whether they are all different deities or different names of the goddess of speech. Following the commentator's explanation, Hotrā should be taken as the wife of Agni who brings about the offering (since the word *hotrā* is read among the names of sacrifice in Ni. 3-19 [?], she can be called the wife of Agni, lord of the sacrifice); Bhāratī as the wife of the sun named Bharata (Ni. 8-13); and Dhiṣaṇā as the goddess of speech.
+
+**ग्नाः (gnāḥ)** — *gnā iti strīnāma | devapatnyaḥ |* The word *gnāḥ* is read among the names of speech too (Ni. 2-23 [?]). But there is also the Nirukta statement *menā gnā iti strīṇām* (Ni. 3-21): "*menāḥ*, *gnāḥ* — these are names of women". The commentator on the Nirukta has said that women are called *gnāḥ* because men go near women for intercourse: *gnāḥ — gacchanti hy enāḥ maithunena dharmeṇa*. In this ṛk *gnāḥ*, women, means, as said in the previous ṛk, the wives of the gods. The word *gnāḥ* is read in the Ṛgveda in the ṛks Ṛ. Saṃ. 1-22-10; 1-61-8; 4-9-4; 5-43-13; 5-46-2; 5-46-8; 6-50-15; 6-68-4; 10-95-[?].
+
+> मेना ग्ना इति स्त्रीणाम् ।
+> ग्नाः गच्छन्ति ह्येनाः मैथुनेन धर्मेण ।
+>
+> *menā gnā iti strīṇām |*
+> *gnāḥ gacchanti hyenāḥ maithunena dharmeṇa |*
+
+**यविष्ठ (yaviṣṭha)** — *atiśayena yuvā yaviṣṭhaḥ |* young, youthful, a man in his prime.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**ग्नाः (gnāḥ)** — *gamyante iti gnāḥ*. The root *gamḷ sṛpḷ gatau*; after it the Uṇādi suffix *ḍna*; by the force of its being made *ḍit*, even without the name *bha*, by *ṭeḥ* (Pā. Sū. 6-4-143) the *am*, the *ṭi* of the root, is dropped: *g* + *na* = *gna*. In the accusative plural it becomes *gnāḥ*. *Gna* is final udātta by the suffix accent.
+
+**होत्रां (hotrāṃ)** — by *huyāmāśrubhasibhyas tran* (U. Sū. 4-607 [?], as read) — after the roots *hu dānādanayoḥ*, *yā prāpaṇe*, *mā māne*, *śru śravaṇe*, *bhasa bhartsanadīptyoḥ*, the suffix *tran* —
+
+### Page 92 — Rik 10: grammar (continued)
+
+— the suffix *tran*; the suffix being *nit*, initial udātta comes. *Hu* + *tra*: by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa*: *hotra*; in the feminine it becomes *hotrā*, ending in the accusative singular.
+
+**यविष्ठ (yaviṣṭha)** — the analysis is *atiśayena yuvā*. By *atiśāyane tamabiṣṭhanau* (Pā. Sū. 5-3-55): when the *kṛt* suffix *lyuṭ* comes in the agent sense after the root *śīṅ svapne* preceded by *ati*, it becomes *atiśayana*. *Atiśayanam eva atiśāyanam*: since it is given as a set form in the sūtra *atiśāyane*, the *ś* syllable is lengthened and it becomes *atiśāyane*. So in common usage too the form *atiśāyana* is correct. By *abādhakāny api nipātanāni bhavanti*, *atiśayana* with a short *śa* is also correct. Though the root *śīṅ* alone means sleeping, the root *śīṅ* with the prefix *ati* expresses, by the force of the prefix, the sense of excellence; excellence does not mean 'more': it means overpowering in the form of making less. The sense of the sūtra: after a stem expressing a meaning marked by such excellence, the suffixes *tamap* and *iṣṭhan* come in their own sense. If the sūtra is explained, taking *atiśāyana* as ending in *lyuṭ* in the action sense, as *atiśāyane 'rthe tamabiṣṭhanau bhavataḥ*, then the meaning of the suffix would become primary, and *laghor atiśayanam*, *laghutamam* alone would have to result; the masculine and feminine forms *laghutamaḥ*, *laghutamā* and the rest would not be obtained. If the sense is given as *atiśāyane vartamānāt prātipadikāt svārthe tamabiṣṭhanau bhavataḥ*, the suffixes *tamap* and *iṣṭhan* would come only after words like *atiśaya*, *prakarṣa*; after words like *āḍhya*, which do not mean excess, these suffixes could not come. So *atiśāyane* must be taken as a qualifier of the meaning of the stem; then, since the sense stated before results, no fault arises. Here, when *iṣṭhan* comes after the word *yuvan*: *yuvan* + *iṣṭhan*. In *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ* (Pā. Sū. 6-4-156), *iṣṭhemeyassu* is carried on from *turiṣṭhemeyassu* (Pā. Sū. 6-4-154), meaning 'when *iṣṭhan*, *imanic*, *īyasun* follow'; *lopaḥ* is carried on from *allopo 'naḥ* (Pā. Sū. 6-4-134). *Lupyate iti lopaḥ*: the word *lopa* ending in *ghañ* in the action sense; *yaṇ ādir yasya tat yaṇādi* ends in a dropped genitive; *param*, the first case in the sense of the sixth; by *iko guṇavṛddhī* (Pā. Sū. 1-1-3) — wherever *guṇa* and *vṛddhi* are laid down by naming them, the word *ikaḥ* in the sixth case is supplied — *ikaḥ* is obtained. *Pūrvasya*: 'preceding' than what? Since *yaṇādi param* comes before it, 'preceding' with respect to the following *yaṇādi* is intended. On the view that the word *yuvan* is not a quality-word, by the rule *ajādī guṇavacanād eva*
+
+### Page 93 — Rik 10: grammar (continued)
+
+*iṣṭhan* and *īyasun* could not come; yet, by the indication given in this very sūtra, which lays down dropping and *guṇa* before *iṣṭhan* and the rest, *iṣṭhan* and *īyasun* do come after the word *yuvan*. In fact, on looking at the Mahābhāṣya on the sūtras *ākaḍārād ekā saṃjñā* (Pā. Sū. 1-4-1) and *jāter astrīviṣayād ayopadhāt* (Pā. Sū. 4-1-63), it appears that the word *yuvan* is also a quality-word. Thus the sense of the sūtra is: the *yaṇādi* following the six words *sthūla*, *dūra*, *yuvan*, *hrasva*, *kṣipra*, *kṣudra* is dropped and the preceding *ik* takes *guṇa*. Taking *lopa* as ending in *ghañ* in the object sense, one need not explain *yaṇādi* as ending in a dropped genitive: it is in the first case itself. On this view the sense is: the *yaṇādi* following these six words is dropped, and the preceding *ik* takes *guṇa*. In the words *yuvan* and *hrasva*, the letters *y* and *v* in the first and *r* and *v* in the second both belong to the *pratyāhāra* *yaṇ*; if the word *param* were not in the sūtra, the first *yaṇ* in these two words would also have to be dropped. In *yuvan* + *iṣṭhan*, by this sūtra the *van* is dropped, and with *guṇa* of the *u*: *yo* + *iṣṭha*, the substitute *av*: it becomes *yaviṣṭha*. By *āmantritasya ca* (Pā. Sū. 8-1-19) it is wholly unaccented.
+
+**भारतीम् (bhāratīm)** — by *bhṛmṛdṛśiyajiparvipacyamitaminamiharyibhyo 'tac* (U. Sū. 3-110 [?]) — after these ten roots, *bhṛñ bharaṇe*, *mṛṅ prāṇatyāge*, *dṛśir prekṣaṇe*, *yaja devapūjādau*, *parva pūraṇe*, *ḍupacaṣ pāke*, *ama gatau*, *tamu kāṅkṣāyām*, *ṇama prahvatve śabde ca*, *harya gatikāntyoḥ*, the suffix *atac* comes — when the suffix *atac* comes after the root *bhṛ*, with *guṇa* it becomes *bharata*. By *prajñādibhyaś ca* (Pā. Sū. 5-4-38) — after the words read in the *prajñādi* class, the suffix *aṇ* in their own sense — the suffix *aṇ*; by *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117) the initial *vṛddhi*: it became *bhārata*; this is a name of the sun (Āditya). When *bhāratasya strī* is intended, since this ends in the suffix *aṇ*, *ṅīp* would be obtained by *ṭiḍḍhāṇañ…* (Pā. Sū. 4-1-15); yet, since in the *śārṅgaravādi* class there is no *vṛt* to show the end of the list, the *śārṅgaravādi* class is established as an *ākṛtigaṇa*; so by *śārṅgaravādyaño ṅīn* (Pā. Sū. 4-1-73) — *śārṅgaravādi* is a word ending in a dropped fifth case; *ataḥ* from *ajādyataḥ* (Pā. Sū. 4-1-4) and *jāteḥ* from *jāter astrīviṣayāt* (Pā. Sū. 4-1-63) are carried on; since *ataḥ* qualifies *jāteḥ*, by *yena vidhis tadantasya* (Pā. Sū. 1-1-72) 'ending in it' is obtained. So, in the feminine, after the words read in the *śārṅgaravādi* class and after a genus-word ending in the *a* of the suffix *añ*, *ṅīn* comes — the suffix *ṅīn*
+
+### Page 94 — Rik 10: grammar (continued)
+
+comes; by *yasyeti ca* (Pā. Sū. 6-4-148) the *a* before the suffix is dropped; *ṅīn* is *nit*, so by *ñnity ādir nityam* (Pā. Sū. 6-1-197) initial udātta comes. If this word were not included in the *śārṅgaravādi* class, *ṅīp*, marked by ending in *aṇ*, would come by *ṭiḍḍhāṇañ…*; and since that is *pit*, by the accent of an unaccented suffix the *a* of *aṇ* would be udātta and *bhāratī* would have to be accented in the middle.
+
+**वरूत्रीम् (varūtrīm)** — by *grasita-skabhita-stabhita-uttabhita-catta-vikasta-viśasta-śaṃstṛ-śāstṛ-tarutṛ-tarūtṛ-varutṛ-varūtṛ-varūtrī-ujjvaliti-kṣariti-kṣamiti-vamity-amitīti ca* (Pā. Sū. 7-2-34) these eighteen words are given as set forms. The sense: here *grasu adane*; *skambhu*, *stambhu* — these two are *sautra* roots meaning 'to obstruct'; when the suffix *kta* comes after them, since these roots have the marker *u*, there is the option of *iṭ* by *udito vā* (Pā. Sū. 7-2-56), so the prohibition of *iṭ* would be obtained by *yasya vibhāṣā*; yet the augment *iṭ* is given as a set form. By the mention of *stabhita* alone the form in *uttabhita* would also be obtained; still, since *uttabhita* is mentioned again, it is established that the augment *iṭ* is not given as a set form for the *kta* after *stambh* when it follows a prefix other than *ut*. In *ut* + *stabhita*, by *udaḥ sthāstambhoḥ pūrvasya* (Pā. Sū. 8-4-61) the preceding homorganic. For the *kta* after *cate yācane* and *kasa gatau*, the absence of *iṭ* is given as a set form; for the *tṛc* after *śasu hiṃsāyām*, *śaṃsu stutau*, *śāsu anuśiṣṭau*, the absence of *iṭ* is given as a set form. For the *tṛc* after *tṝ plavanataraṇayoḥ*, *vṛṅ sambhaktau*, *vṛñ varaṇe*, the augments *uṭ* and *ūṭ* are given as set forms. Since by the set form *varūtṛ* alone *varūtrī* would be obtained in the feminine with *ṅīp* marked by ending in *ṛ* by *ṛnnebhyo ṅīp* (Pā. Sū. 4-1-5), the further mention of *varūtrī* is for elaboration (explanation). For the *śap* after the four roots *jvala dīptau*, *kṣara saṃcalane*, *ṭuvamu udgiraṇe*, *ama gatyādiṣu*, the substitute *i* is given as a set form. In the sūtra, after *kṣariti*, some read *kṣamiti*; on this view it is to be known that the substitute *i* for the *śap* after the root *kṣamūṣ sahane* is a set form. As said before, by this sūtra *varūtrī* results when *tṛc* comes after the root *vṛñ*, with the augment *ūṭ*, *guṇa*, *ṅīp* and the *yaṇ* substitute. If this word *varūtṛ* is taken, the *ṛ* of *tṛc* would have to be udātta by the *cit* accent. It must be said that here there is no set form for one ending in *tṛn*. Yet, since there is the word *iti* at the end of this sūtra, and since it is used with the aim of showing the kinds of examples in the Veda, the word *varūtṛ* ending in *tṛn* also is
+
+### Page 95 (upper) — Rik 10: grammar (end)
+
+to be taken as given as a set form by this sūtra. Thus by the *nit* accent *varūtṛ* is initially udātta; by *anudāttaṃ padam ekavarjam* (Pā. Sū. 6-1-158) it follows that the *ū* and the *ṛ* are unaccented. Though, with the *ī* of *ṅīp* as cause, *r* comes in place of this *ṛ* by the *yaṇ* substitute, it is not a *yaṇ* standing in place of an udātta but one standing in place of an unaccented vowel. So even by *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-174) the udātta accent does not come to *ṅīp*.
+
+**धिषणाम् (dhiṣaṇām)** — by *dhṛṣer dhiṣa ca saṃjñāyām* (U. Sū. 2-2-81 [?], as read), *kyuḥ* being carried on from *kṛpṛvṛjimandinidhāñaḥ kyuḥ* (U. Sū. 2-240 [?], as read): when a name is meant, the suffix *kyu* comes after the root and the substitute *dhiṣ* for the root; so with the suffix *kyu* after the root *dhṛṣ* and the substitute *dhiṣ*: *dhiṣ* + *yu*; since the suffix is *kit*, *guṇa* of the light penultimate does not come. By *yuvor anākau* (Pā. Sū. 7-1-1) the substitute *ana* for *yu*; in the feminine, *ṭāp*, *ṇ* for the *n*: it becomes *dhiṣaṇā*. ॥10॥
 
 ---
 
