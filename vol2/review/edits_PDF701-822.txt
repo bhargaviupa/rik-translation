@@ -130,3 +130,6 @@ PDF 806 (p. 792 lower): Rk 19.4 Samhita accents as printed ([accent ?]); Pada; b
 PDF 807 (p. 793): bhasya end Sat. Bra. 10-6-5-1, 6-1-36, Un. 4-191; Prati/Bhavartha/English; Special Topics (cross-ref page "384" [?]).
 PDF 808 (p. 794): grammar 6-1-36, 7-4-61, 7-2-81, 6-1-66, 3-4-82, 6-1-8, 7-4-60, 7-4-70, 7-4-71 ("3rd person" for āthām as printed).
 PDF 809 (p. 795 upper): 8-1-66, 6-2-2, Un. "4-631" [?]. Rk 19.5 starts lower.
+PDF 809 (p. 795 lower): Rk 19.5 Samhita accents as printed ([accent ?]); Pada.
+PDF 810 (p. 796): bhasya in full: 6-2-119; varga 36 closes; Prati/Bhavartha/English ("Maruths" [sic]); Special Topics (printed English glosses kept).
+PDF 811 (p. 797): Ni. "2-10" [?]; grammar Un. "2-170" [?], Un. "4-640" [?], 6-2-172, 6-2-119, 6-2-139. End of Rk 19.5.
