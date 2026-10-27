@@ -2,7 +2,7 @@
 The udātta is marked only where the print's marks show it directly: an unmarked syllable right
 before a ॑ syllable or right after a ॒ syllable (a line-initial or run-internal udātta is left unmarked).  python3 accent.py 'DEVANAGARI LINE' ...  (prints the IAST)"""
 import sys,os,re,unicodedata
-sys.path.insert(0,os.path.join(os.path.dirname(__file__),'..','..','translit'))
+sys.path.insert(0,os.path.join(os.path.dirname(__file__),'..','..','publish','tools','translit'))
 from add_iast import deva_to_iast
 U,S='॒','॑'
 VOW=set('अआइईउऊऋॠऌएऐओऔ'); MAT=set('ािीुूृॄॢेैोौ'); VIR='्'
