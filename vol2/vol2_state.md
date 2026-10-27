@@ -68,7 +68,7 @@ numbers can be off by a page or two (e.g. its "pp. 168–169" Uṇādi "4-135" [
 
 ## To be reviewed by the user (changes beyond numerals, or judgement calls)
 
-- Batch 201–300: p. 257 Sūkta 6 colophon — the print's "ಎಂಟನೆಯ" (eighth) varga is struck through and "12" handwritten; the file now says twelfth. p. 270 "tenth/eighth varga" note at p. 257 removed accordingly. Grammar paragraphs pp. 231–285 rewritten from the print (style check welcome). p. 283 bhāṣya prints "somāḥ" for "stomāḥ" (kept as printed).
+- Batch 201–300: p. 257 Sūkta 6 colophon — the print's "ಎಂಟನೆಯ" (eighth) varga is struck through and "12" handwritten; the file now says twelfth. Grammar paragraphs pp. 231–285 rewritten from the print (style check welcome). p. 283 bhāṣya prints "somāḥ" for "stomāḥ" (kept as printed).
 
 - Grammar paragraphs rewritten from the scan (list under Done, PDF 101–200): the earlier "characterized" text was
   replaced where it misstated the print; worth a read for style.
