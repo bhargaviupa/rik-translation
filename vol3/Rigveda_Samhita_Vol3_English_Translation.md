@@ -150,7 +150,7 @@ That those called Ṛbhus were men formerly and attained divinity by their excel
 > शमी॑भिर्य॒ज्ञमा॑शत ॥२॥
 >
 > *ya índrāya vacoyújā tatakṣur mánasā hárī |*
-> *śámībhiryajñámāśata ||2||*
+> *śámībhir yajñám āśata ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
