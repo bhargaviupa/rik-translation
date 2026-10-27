@@ -3250,40 +3250,76 @@ As the sight fixed on the sky sees everything, because the sky is very wide, so 
 
 ---
 
-### Pages 138–140 — Sūkta 22, Rik 21
+### Page 138 (lower) — Sūkta 22, Rik 21 (last ṛk of the sūkta)
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तद्विप्रासो विपन्यवो जागृवांसः समिन्धते ।
-> विष्णोर्यत्परमं पदम् ॥ २१ ॥
+> तद्विप्रा॑सो विप॒न्यवो जागृ॒वांसः॑ समि॑न्धते । [accent ?]
+> विष्णो॒र्यत्प॑र॒मं प॒दं ॥२१॥ [accent ?]
+>
+> *tad víprāso vipanyávo jāgṛvā́ṃsaḥ sám indhate |* [accent ?]
+> *víṣṇor yát paramáṃ padáṃ ||21||* [accent ?]
 
-*tad viprāso vipanyavo jāgṛvāṃsaḥ samindhate | viṣṇor yat paramaṃ padam || 21 ||*
+*(Strokes over प्रा, over the end of जागृवांसः (read as over सः) and over मि; bars under प (विपन्यवो) and गृ. Line 2: bars under ष्णो, र (परमं) and प (पदं); a stroke near र्य/त्प (read as over त्प). The positions are not certain [accent ?].)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> तत् । विप्रासः । विपन्यवः । जागृऽवांसः । सम् । इन्धते ॥ विष्णोः । यत् । परमम् । पदम् ॥ २१ ॥
-
-*tat | viprāsaḥ | vipanyavaḥ | jāgṛ-vāṃsaḥ | sam | indhate || viṣṇoḥ | yat | paramam | padam || 21 ||*
+> तत् । विप्रासः । विपन्यवः । जागृऽवांसः । सं । इन्धते ॥
+> विष्णोः । यत् । परमं । पदं ॥२१॥
+>
+> *tat | viprāsaḥ | vipanyavaḥ | jāgṛ 'vāṃsaḥ | saṃ | indhate ||*
+> *viṣṇoḥ | yat | paramaṃ | padaṃ ||21||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> पूर्वोक्तं विष्णोर्यत्परमं पदमस्ति तत्पदं विप्रासो मेधाविनः समिन्धते । सम्यग्दीपयन्ति । कीदृशाः । विपन्यवो विशेषेण स्तोतारो जागृवांसः शब्दार्थयोः प्रमादराहित्येन जागरूकाः ॥ विप्रासः । आज्जसेरसुक् । विपन्यवः । स्तुत्यर्थस्य पनेर्बाहुलकादुणादिको युप्रत्ययः । तत्र प्रत्ययस्वरः । जागृवांसः । जागृ निद्राक्षये । लिटः क्वसुः । क्रादिनियमात्प्राप्तस्येटो वस्वेकाजाद्धसामिति नियमान्निवृत्तिः ॥
+*(The bhāṣya ends with ॥७॥, the close of the seventh varga.)*
 
-*pūrvoktaṃ viṣṇor yat paramaṃ padam asti tat padaṃ viprāso medhāvinaḥ samindhate | samyag dīpayanti | kīdṛśāḥ | vipanyavo viśeṣeṇa stotāro jāgṛvāṃsaḥ śabdārthayoḥ pramādarāhityena jāgarūkāḥ || viprāsaḥ | ājjaser asuk | vipanyavaḥ | stutyarthasya paner bāhulakād uṇādiko yupratyayaḥ | tatra pratyayasvaraḥ | jāgṛvāṃsaḥ | jāgṛ nidrākṣaye | liṭaḥ kvasuḥ | krādiniyamāt prāptasyeṭo vasv ekājāddhasām iti niyamān nivṛttiḥ ||*
+> पूर्वोक्तं विष्णोर्यत्परमं पदमस्ति तत्पदं विप्रासो मेधाविनः समिन्धते । सम्यक् दीपयन्ति । कीदृशाः । विपन्यवो विशेषेण स्तोतारो जागृवांसः शब्दार्थयोः प्रमादराहित्येन जागरूकाः ॥ विप्रासः । आज्जसेरसुक् । विपन्यवः । स्तुत्यर्थस्य पनेर्बाहुलक औणादिको युप्रत्ययः । तत्र प्रत्ययस्वरः । जागृवांसः । जागृ निद्राक्षये । लिटः क्वसुः । क्रादिनियमात्प्राप्तस्येटो वस्वेकाजाद्घसामिति नियमान्निवृत्तिः ॥७॥
+>
+> *pūrvoktaṃ viṣṇoryatparamaṃ padamasti tatpadaṃ viprāso medhāvinaḥ samindhate | samyak dīpayanti | kīdṛśāḥ | vipanyavo viśeṣeṇa stotāro jāgṛvāṃsaḥ śabdārthayoḥ pramādarāhityena jāgarūkāḥ || viprāsaḥ | ājjaserasuk | vipanyavaḥ | stutyarthasya panerbāhulaka auṇādiko yupratyayaḥ | tatra pratyayasvaraḥ | jāgṛvāṃsaḥ | jāgṛ nidrākṣaye | liṭaḥ kvasuḥ | krādiniyamātprāptasyeṭo vasvekājādghasāmiti niyamānnivṛttiḥ ||7||*
 
-**Translation:** "That highest place of Viṣṇu, spoken of before — the *viprāsaḥ*, the wise, kindle it — they illumine it fully. What sort of men? *Vipanyavaḥ*: pre-eminent praisers; *jāgṛvāṃsaḥ*: awake, vigilant, being free of carelessness as regards words and meanings. *Viprāsaḥ*: *asuk* augment after *jas* by P. 7-1-50 [*ājjaser asuk*]. *Vipanyavaḥ*: from *pan* in the sense of praise, the Uṇādi suffix *yu* by the *bāhulaka* rule; the accent is that of the suffix. *Jāgṛvāṃsaḥ*: *jāgṛ* 'to cease sleeping'; *kvasu* for the perfect; the *iṭ* that would be got through the rule on *kṛ*-etc. is kept off by the restriction *vasv ekājāddhasām*." *(Grammar pages 139–140, noted briefly: the words treated are* viprāsaḥ *[nom. pl. of* vipra*, with* asuk *by P. 7-1-50, being* kit *it goes to the final of the stem by P. 1-1-46; then P. 6-1-102],* vipanyavaḥ *[*paṇa vyavahāre stutau ca*, the form* pan *meaning 'to praise'; the Uṇādi suffix* yu *by P. 3-3-1 *uṇādayo bahulam*; the* yu *→ *ana* is avoided because of the bāhulaka rule;* u *as the last letter; accent of the suffix],* jāgṛvāṃsaḥ *[*jāgṛ nidrākṣaye* + *liṭ* → *kvasu* by P. 3-2-107 *kvasuś ca*; the doubling that P. 6-1-8 would give is not applicable in the Vedic usage; the *iṭ* — the whole long discussion of *neḍ vaśi kṛti* P. 7-2-8, *kṛsṛbhṛvṛstudrusrusruvo liṭi* P. 7-2-13 and the restriction *vasvekājāddhasām* P. 7-2-67 is scholastic and is not reproduced; the *num* augment by P. 7-1-70; the lengthening by P. 6-4-10; the *anusvāra* by P. 8-3-24 — resulting in* jāgṛvāṃsaḥ]; numerals as read, pointers only.)*
+**Translation:** "That *paramam padam*, highest place, of Viṣṇu which there is, spoken of before — that place the *viprāsaḥ*, the wise, *sam indhate*, kindle well, make shine. Of what kind? *Vipanyavaḥ*, praisers in a special way, *jāgṛvāṃsaḥ*, wakeful, through freedom from carelessness about word and meaning." (Grammatical tail: *viprāsaḥ*, *asuk* by *āj jaser asuk*; *vipanyavaḥ*, after *pan* in the sense of praising, the Uṇādi suffix *yu* by *bāhulaka*, the suffix accent there; *jāgṛvāṃsaḥ*, *jāgṛ nidrākṣaye*, *kvasu* for *liṭ*; the *iṭ* that would come by the *krādi* restriction is removed by the restriction *vasv ekājād ghasām*.)
 
-**॥ Prati-padārthaḥ ॥** **विपन्यवः (vipanyavaḥ)** — those who praise | **विप्रासः (viprāsaḥ)** — the wise | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **यत् (yat)** — which, as said before | **परमं पदम् (paramaṃ padam)** — the highest place | **तत् (tat)** — that | **जागृवांसः (jāgṛvāṃsaḥ)** — wakeful [with great vigilance] | **सम् इन्धते (sam indhate)** — kindle [i.e. praise] by hymns.
+### Page 139 — Rik 21: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** The wise and discerning praise abundantly by hymns that highest place of Viṣṇu which was spoken of before.
+**॥ Prati-padārthaḥ ॥**
+
+**विपन्यवः (vipanyavaḥ)** — who make hymns | **विप्रासः (viprāsaḥ)** — the wise people | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **यत् (yat)** — which, spoken of before | **परमं पदं (paramaṃ padaṃ)** — the highest place there is | **तत् (tat)** — that | **जागृवांसः (jāgṛvāṃsaḥ)** — being wakeful (very alert) | **सं इन्धते (saṃ indhate)** — kindle with hymns, that is, praise.
+
+**॥ Bhāvārthaḥ ॥**
+
+Wise and discerning people praise greatly with hymns and the like the excellent place called Viṣṇu's highest step, spoken of before.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The wise, vigilant and full of praises, glorify the supreme place of Vishnu.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 139)* **विप्रासः** — *medhāvinaḥ*: the wise, discerning, learned, and the like. **विपन्यवः** — *stutikāmāḥ*: those who long to praise, who seek hymns, who praise. **जागृवांसः** — *jāgṛ nidrākṣaye*: those who keep awake, who are vigilant. **सम् इन्धते** — they kindle, they increase brilliance, i.e. they praise by hymns and the like.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Colophon of the Sūkta ॥** *(p. 140, a printed ornamental rule closes the Sūkta; no colophon text with a varga number is printed after Sūkta 22.)*
+**विप्रासः (viprāsaḥ)** — *medhāvinaḥ*: the intelligent, the discerning, the wise and so on.
+
+**विपन्यवः (vipanyavaḥ)** — *stutikāmāḥ*: those who wish to make hymns, those who praise.
+
+**जागृवांसः (jāgṛvāṃsaḥ)** — *jāgṛ nidrākṣaye*: the wakeful, those who stay alert.
+
+**सं इन्धते (saṃ indhate)** — they kindle, increase the brightness, that is, they praise with hymns and the like.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**विप्रासः (viprāsaḥ)** — after the word *vipra*, the nominative plural *jas*: *vipra* + *jas*; the *j* is named *it* and dropped. By *āj jaser asuk* (Pā. Sū. 7-1-50) — the *jas* after a word ending in *a* takes the augment *asuk* — the augment *asuk* for *jas*. Since it is *kit*, by the *paribhāṣā* *ādyantau ṭakitau* (Pā. Sū. 1-1-46) it comes as the final part of *jas*: *vipra* + *as* + *as*; by *prathamayoḥ pūrvasavarṇaḥ* (Pā. Sū. 6-1-102) the lengthening of the like preceding vowel; *ru* and *visarga* for the *s*: *viprāsaḥ* is formed.
+
+**विपन्यवः (vipanyavaḥ)** — in *paṇa vyavahāre stutau ca*, *pana ca*, the root *pan* is read in the senses of dealing and praise. Here the root *pan* meaning praise is to be taken. After it, by the word *bahula* in *uṇādayo*
+
+### Page 140 — Rik 21: grammar (end)
+
+*bahulam* (Pā. Sū. 3-3-1), the suffix *yu* by *bāhulaka*: *vipanyu*, a word ending in *u*; *yu* is udātta by the suffix accent; in the nominative plural it becomes *vipanyavaḥ*.
+
+**जागृवांसः (jāgṛvāṃsaḥ)** — the root *jāgṛ nidrākṣaye*; after it *liṭ*; for *liṭ*, by *liṭaḥ kānaj vā* (Pā. Sū. 3-2-106) and *kvasuś ca* (3-2-107), the suffix *kvas*. The reduplication laid down by *liṭi dhātor anabhyāsasya* (Pā. Sū. 6-1-8) does not come here, as a Vedic matter. For *vas*, the augment *iṭ* would be due by *ārdhadhātukasyeḍ valādeḥ* (Pā. Sū. 7-2-35); then by *neḍ vaśi kṛti* (Pā. Sū. 7-2-8) — a *kṛt* beginning with a *vaś* letter does not take *iṭ* — the prohibition would be due; then the prohibitions of *iṭ* laid down by sūtras such as *kṛsṛbhṛvṛstudrusruśruvo liṭi* (Pā. Sū. 7-2-13) and *ekāca upadeśe 'nudāttāt* (7-2-10), conditioned by particular roots (resting on the root), and those laid down by sūtras such as *śryukaḥ kiti* (Pā. Sū. 7-2-11), conditioned by particular suffixes — however many prohibiting rules there are, in the case of *liṭ* they apply only to the *liṭ* after the four roots *kṛ*, *sṛ*, *bhṛ*, *vṛ*: no prohibition of *iṭ* applies to the *liṭ* after roots other than these four, *kṛ* and the rest: this is the substance of the *krādi* restriction. By this restriction, since no prohibiting rule applies to the *liṭ* after the root *jāgṛ*, which is not in the present *krādi* list, the augment *iṭ* would be due; but by the restriction *vasv ekājādghasām* (Pā. Sū. 7-2-67) — on the view that the suffix *vasu* takes the augment *iṭ*, only for the suffix after roots that have one vowel after the reduplication, roots ending in *ā*, and the root *ghasḷ* does the augment *iṭ* come; the *vas* after other roots does not take *iṭ* — since the root *jāgṛ* is not among these roots, it is prevented. So the augment *iṭ* does not come. Nominative plural *jas*: *jāgṛ* + *vas* + *as*; now by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* (Pā. Sū. 7-1-70) the augment *num*: *jāgṛvāns* + *as*; by *sānta mahataḥ saṃyogasya* (Pā. Sū. 6-4-10) lengthening of the *a* before the *n*: *jāgṛvāns* + *as*; by *naś cāpadāntasya jhali* (Pā. Sū. 8-3-24) *anusvāra* for the *n*: *jāgṛvāṃs* + *as* = *jāgṛvāṃsaḥ*. ॥21॥
+
+*(An ornament follows: the close of Sūkta 22.)*
+
+---
+
 ## ॥ ಇಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 23 — *"tīvrāḥ somāsa ā gahi"* ("The Twenty-third Sūkta"; sixth sūkta of the Fifth Anuvāka)
 
 *(Printed pp. 141–233. The heading block, Sāyaṇa's application note and the Kannada rendering occupy pp. 141–142; Rik 1 begins on p. 143.)*
