@@ -6323,23 +6323,23 @@ That is, the word *tuñja* means giving, bestowing. The word *tuñje-tuñje* in 
 > *vṛṣā | yūthā-iva | vaṃsagaḥ | kṛṣṭīḥ | iyarti | ojasā ||*
 > *īśānaḥ | aprati-skutaḥ ||8||*
 
-*(The pada line prints* यूथा *and* इव *joined by an avagraha; the form is read here as* yūthā *+* iva*, matching the Kannada Viśeṣa-viṣaya note on* yūtheva *below.)*
+*(Pada printed on p. 291.)*
 
 ### Page 291 — Rik 8: Sāyaṇa-bhāṣya
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> वृषा कामानां वर्षितेन्द्र ओजसा स्वकीयबलेनानुग्रहीतुं कृष्टीर्मनुष्यानियर्ति । प्राप्नोति । कीदृश इन्द्रः । ईशानः समर्थो ऽप्रतिष्कुतः प्रतिशब्दरहितः । यो याच्यमानं [?] न परिहरतीत्यर्थः । इन्द्रस्य दृष्टान्तः । वंसगो वननीयगतिर्वृषभो यूथेव गोयूथानि यथा प्राप्नोति तद्वत् ॥
+> वृषा कामानां वर्षितेन्द्र ओजसा स्वकीयबलेनानुग्रहीतुं कृष्टीर्मनुष्यानियर्ति । प्राप्नोति । कीदृश इन्द्रः । ईशानः समर्थो ऽप्रतिष्कुतः प्रतिशब्दरहितः । याच्यमानं न परिहरतीत्यर्थः । इन्द्रस्य दृष्टान्तः । वंसगो वननीयगतिर्वृषभो यूथेव गोयूथानि यथा प्राप्नोति तद्वत् ॥
 >
-> *vṛṣā kāmānāṃ varṣitendra ojasā svakīya-balenānugrahītuṃ kṛṣṭīr manuṣyān iyarti | prāpnoti | kīdṛśa indraḥ | īśānaḥ samartho 'pratiṣkutaḥ prati-śabda-rahitaḥ | yo yācyamānaṃ [?] na pariharatīty arthaḥ | indrasya dṛṣṭāntaḥ | vaṃsago vananīya-gatir vṛṣabho yūtheva go-yūthāni yathā prāpnoti tadvat ||*
+> *vṛṣā kāmānāṃ varṣitendra ojasā svakīya-balenānugrahītuṃ kṛṣṭīr manuṣyān iyarti | prāpnoti | kīdṛśa indraḥ | īśānaḥ samartho 'pratiṣkutaḥ prati-śabda-rahitaḥ | yācyamānaṃ na pariharatīty arthaḥ | indrasya dṛṣṭāntaḥ | vaṃsago vananīya-gatir vṛṣabho yūtheva go-yūthāni yathā prāpnoti tadvat ||*
 
-**Translation:** "Indra, the showerer (*varṣitā*) of desires, with his own strength (*ojasā*), in order to favour them, approaches (*iyarti* — reaches) the *kṛṣṭīḥ*, the people. What kind of Indra? *Īśānaḥ* — the capable, the lord; *apratiṣkutaḥ* — without a counter-word; that is, he who does not turn away from what is asked of him [the word read as *yācyamānam* is compressed in the scan; the sense fits Sāyaṇa's gloss on Rik 6]. An illustration for Indra: the *vaṃsaga* — the bull of lovely gait — as [a bull] goes to its herds, the herds of cows, so [Indra goes to people]."
+**Translation:** "Indra, the showerer (*varṣitā*) of desires, with his own strength (*ojasā*), in order to favour them, approaches (*iyarti* — reaches) the *kṛṣṭīḥ*, the people. What kind of Indra? *Īśānaḥ* — the capable, the lord; *apratiṣkutaḥ* — without a counter-word; that is, he who does not turn away from what is asked of him. An illustration for Indra: the *vaṃsaga* — the bull of lovely gait — as [a bull] goes to its herds, the herds of cows, so [Indra goes to people]."
 
-*(The remainder of Sāyaṇa's Sanskrit — grammar of* वृषा*,* यूथा इव*,* वंसगः*,* कृष्टीः*,* इयर्ति*,* ओजसा*,* ईशानः*,* अप्रतिष्कुतः *— is characterized with the Kannada Vyākaraṇa-prakriyā below.)*
+**Grammar of the Bhāṣya (characterized, references as printed; page header "A. 1, A. 1, Va. 14"):** "Vṛṣā" — **कनिन्युवृषितक्षिराजिधन्विद्युप्रतिदिवः** (उ. १-१५६) "kanin" after "vṛṣ"; "k"-marked, no guṇa; "n"-marked, first-syllable acute. "Yūthā iva" — "yuvanti miśrībhavantīti yūthāni," "yu miśraṇāmiśraṇayoḥ": **तिथपृष्ठगूथयूथप्रोथाः** (उ. २-१२) "thak," end-acute by nipātana; the long vowel by nipātana; the "ā" acute by the affix accent; **शेश्छन्दसि बहुलम्** (पा. ६-१-७०) "luk"; "iva" — no loss of case-ending; with "iva," compounding and the first member's accent by the vārttika (पा. २-१-४-२). "Vaṃsagaḥ" — the intended accent by the "pṛṣodarādi" class (पा. ६-३-१०९). "Kṛṣṭīḥ" — "karṣantīti kṛṣṭayaḥ," "ktic" by "ktic ktau ca saṃjñāyām"; "c"-marked, end-acute. "Iyarti" — "ṛ sṛ gatau," "tip," "śap" → "ślu," doubling (पा. ६-१-१०); **अभ्यासस्यासवर्णे** … "i" for the reduplicate "a" by **अर्तिपिपर्त्योश्च** (पा. ७-४-७७); "iy" by "abhyāsasyāsavarṇe" (पा. ६-४-७८); guṇa of the aṅga, with "r." "Ojasā" — **उब्जेर्बलोपश्च** (उ. ४-१९१) "asun," with loss of "b"; guṇa of the light penultimate (पा. ७-३-८६); "n"-marked, first-syllable acute. "Īśānaḥ" — "īśa aiśvarye," "laṭ," "śānac"; "śap" elided by "adiprabhṛtibhyaḥ śapaḥ"; the "c"-accent set aside, the lasārvadhātuka is unaccented after an anudāttet root, so the root accent remains. "Apratiṣkutaḥ" — "apratiśabditaḥ," "ku śabde," "kta" in the passive; "suṭ" (pāraskarādi), "ṣ" (suṣāmādi); nañ-compound, the indeclinable first member's accent.
 
 **॥ Prati-padārthaḥ ॥**
 
-**वृषा (vṛṣā)** — the bestower of what is desired | **ईशानः (īśānaḥ)** — the capable one | **अप्रतिष्कुतः (apratiṣkutaḥ)** — Indra, who has no rival to oppose him | **वंसगः (vaṃsagaḥ)** — a bull (the leader of a herd of cows) | **यूथा इव (yūthā iva)** — as it goes toward its herd (of cows) | **कृष्टीः (kṛṣṭīḥ)** — to human beings | **ओजसा (ojasā)** — with his strength and might | **इयर्ति (iyarti)** — reaches (that is, comes near to men).
+**वृषा (vṛṣā)** — the bestower of what is desired | **ईशानः (īśānaḥ)** — the capable one | **अप्रतिष्कुतः (apratiṣkutaḥ)** — (Indra) who has no opponent | **वंसगः (vaṃsagaḥ)** — a bull (the leader of a herd of cows) | **यूथा इव (yūthā iva)** — as it goes toward its herd (of cows) | **कृष्टीः (kṛṣṭīḥ)** — to human beings | **ओजसा (ojasā)** — with his strength and might | **इयर्ति (iyarti)** — reaches (that is, comes near to men).
 
 ### Page 292
 
