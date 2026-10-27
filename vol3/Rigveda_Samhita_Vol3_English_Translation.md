@@ -3524,38 +3524,89 @@ We now call (summon) the two deities Indra and Vāyu, who are in the world of he
 
 ---
 
-### Pages 150–154 — Sūkta 23, Rik 3
+### Page 150 (lower) — Sūkta 23, Rik 3
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रवायू मनोजुवा विप्रा हवन्त ऊतये ।
-> सहस्राक्षा धियस्पती ॥ ३ ॥
+> इ॒न्द्र॒वा॒यू म॑नो॒जुवा॒ विप्रा॑ हवन्त ऊ॒तये॑ ।
+> स॒ह॒स्रा॒क्षा धि॒यस्पती॑ ॥३॥ [accent ?]
+>
+> *indravāyū́ manojúvā víprā havanta ūtáye |*
+> *sahasrākṣā́ dhiyáspátī ||3||* [accent ?]
 
-*indravāyū manojuvā viprā havanta ūtaye | sahasrākṣā dhiyaspatī || 3 ||*
+*(Bars under इ, द्र, वा (वायू), नो, वा (जुवा) and ऊ; strokes over म, प्रा and ये. Line 2: bars under स, ह, स्रा and धि; a stroke over ती (in the Pada a bar under ती and a stroke over इति) [accent ?]. The Pada prints हवंते.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> इन्द्रवायू इति । मनःऽजुवा । विप्राः । हवन्ते । ऊतये ॥ सहस्रऽअक्षा । धियः । पती इति ॥ ३ ॥
+> इन्द्रवायू इति । मनःऽजुवा । विप्राः । हवन्ते । ऊतये ॥
+> सहस्रऽअक्षा । धियः । पती इति ॥३॥
+>
+> *indravāyū iti | manaḥ 'juvā | viprāḥ | havante | ūtaye ||*
+> *sahasra 'akṣā | dhiyaḥ | patī iti ||3||*
 
-*indravāyū iti | manaḥ-juvā | viprāḥ | havante | ūtaye || sahasra-akṣā | dhiyaḥ | patī iti || 3 ||*
+### Page 151 — Rik 3: bhāṣya, word-meanings, overall sense, English, Special Topics
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> विप्रा मेधाविन ऋत्विग्यजमाना ऊतये रक्षणार्थमिन्द्रवायू हवन्ते । आह्वयन्ति । कीदृशौ । मनोजुवौ मन इव वेगवत्तरौ सहस्राक्षा सहस्रनयनयुक्तौ [?] । यद्वा सहस्राक्ष इन्द्र एव सहस्राक्षः [?] स्थाप्य छत्रिन्यायेन वायुरपि तथोच्यते । धियस्पती कर्मणां बुद्धेर्वा पालकौ ॥ मनोजुवा । जवतिर्गतिकर्मा । मनोवज्जवत इति मनोजुवौ मन इव वेगयुक्तौ । कृदुत्तरपदप्रकृतिस्वरत्वम् । सुपां सुलुगित्याकारः । विप्राः । ओणादिको रन् । रन्प्रत्ययान्त आद्युदात्तः । ऊतये । ऊतियूतीत्यादिना क्तिन उदात्तत्वम् । सहस्राक्षा । सहस्रमक्षिणी ययोस्तौ । बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात्षच् (पा. ५-४-११३) इति षच् समासान्तः । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. ६-२-१) इति पूर्वपदप्रकृतिस्वरे प्राप्ते सति शिष्टस्वरो बलीयः [?] इति चित इत्यन्तोदात्तत्वम् । धियः । सावेकाच इति जस उदात्तत्वम् । षष्ठ्याः पतिपुत्रेति संहितायां विसर्जनीयस्य सकारः । पती । ङित्कृन्त आद्युदात्तः ॥
+*(The number is printed पा० ५-४-११३.)*
 
-*viprā medhāvina ṛtvigyajamānā ūtaye rakṣaṇārtham indravāyū havante | āhvayanti | kīdṛśau | manojuvau mana iva vegavattarau sahasrākṣā sahasranayanayuktau [?] | yadvā sahasrākṣa indra eva sahasrākṣaḥ [?] sthāpya chatrinyāyena vāyur api tathocyate | dhiyaspatī karmaṇāṃ buddher vā pālakau || manojuvā | javatir gatikarmā | manovaj javata iti manojuvau mana iva vegayuktau | kṛduttarapadaprakṛtisvaratvam | supāṃ suluk ity ākāraḥ | viprāḥ | oṇādiko ran | ranpratyayānta ādyudāttaḥ | ūtaye | ūtiyūtī ity ādinā ktina udāttatvam | sahasrākṣā | sahasram akṣiṇī yayos tau | bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac (pā. 5-4-113) iti ṣac samāsāntaḥ | bahuvrīhau prakṛtyā pūrvapadam (pā. 6-2-1) iti pūrvapadaprakṛtisvare prāpte sati śiṣṭasvaro balīyaḥ [?] iti cita ity antodāttatvam | dhiyaḥ | sāvekāca iti jasa udāttatvam | ṣaṣṭhyāḥ patiputreti saṃhitāyāṃ visarjanīyasya sakāraḥ | patī | ṅitkṛnta ādyudāttaḥ ||*
+> विप्रा मेधाविन ऋत्विग्यजमाना ऊतये रक्षणार्थमिन्द्रवायू हवन्ते । आह्वयन्ति । कीदृशौ । मनोजुवा मन इव वेगवत्तरौ सहस्राक्षा सहस्रनयनयुक्तौ । यद्यपीन्द्र एव सहस्राक्षस्तथापि छत्रिन्यायेन वायुरपि तथोच्यते । धियस्पती कर्मणो बुद्धेर्वा पालकौ ॥ मनोजुवा । जवतिर्गतिकर्मा । मनोवज्जवत इति मनोजुवा मन इव वेगयुक्तौ । कृदुत्तरपदप्रकृतिस्वरत्वं । सुपां सुलुगित्याकारः । विप्राः । औणादिको रन् । रन्प्रत्ययान्त आद्युदात्तः । ऊतये । ऊतियूतीत्यादिना क्तिन उदात्तत्वं । सहस्राक्षा । सहस्रमक्षीणि ययोस्तौ । बहुव्रीहौ सक्थ्यक्ष्णोः । पा० ५-४-११३ । इति षच्समासान्तः । बहुव्रीहिस्वरे प्राप्ते समासान्तप्रत्ययस्य सति शिष्टत्वाच्चित इत्यन्तोदात्तत्वं । धियः । सावेकाच इति ङस उदात्तत्वं । षष्ठ्याः पतिपुत्रेति संहितायां विसर्जनीयस्य सकारः । पती । डत्यन्त आद्युदात्तः ॥
+>
+> *viprā medhāvina ṛtvigyajamānā ūtaye rakṣaṇārthamindravāyū havante | āhvayanti | kīdṛśau | manojuvā mana iva vegavattarau sahasrākṣā sahasranayanayuktau | yadyapīndra eva sahasrākṣastathāpi chatrinyāyena vāyurapi tathocyate | dhiyaspatī karmaṇo buddhervā pālakau || manojuvā | javatirgatikarmā | manovajjavata iti manojuvā mana iva vegayuktau | kṛduttarapadaprakṛtisvaratvaṃ | supāṃ sulugityākāraḥ | viprāḥ | auṇādiko ran | ranpratyayānta ādyudāttaḥ | ūtaye | ūtiyūtītyādinā ktina udāttatvaṃ | sahasrākṣā | sahasramakṣīṇi yayostau | bahuvrīhau sakthyakṣṇoḥ | pā0 5-4-113 | iti ṣacsamāsāntaḥ | bahuvrīhisvare prāpte samāsāntapratyayasya sati śiṣṭatvāccita ityantodāttatvaṃ | dhiyaḥ | sāvekāca iti ṅasa udāttatvaṃ | ṣaṣṭhyāḥ patiputreti saṃhitāyāṃ visarjanīyasya sakāraḥ | patī | ḍatyanta ādyudāttaḥ ||*
 
-**Translation:** "The *viprāḥ* — the wise: priests and sacrificers — invoke Indra and Vāyu *ūtaye*, for protection. What kind? *Manojuvā*: swift as the mind; *sahasrākṣā*: having a thousand eyes. Or, [the epithet 'thousand-eyed' belongs to Indra alone, and is applied to Vāyu as well, by the *chatrin* analogy ('those with umbrellas')]. *Dhiyaspatī*: the two protectors of rites [or of the intellect]. *Manojuvā*: *javati* is a verb of motion; 'those that move like the mind' are *manojuvau* — as swift as the mind; the accent is that of the final member of a *kṛt*-compound. *Viprāḥ*: the Uṇādi suffix *ran*; a word ending in *ran* has the acute on the first syllable. *Ūtaye*: the *ktin*, acute by the rule *ūtiyūti…*. *Sahasrākṣā*: 'those of whom there are a thousand eyes'; the compound-final *ṣac* by P. 5-4-113; since the compound would take the accent of its first member by P. 6-2-1, but the final accent due to *cit* is stronger [?]. *Dhiyaḥ*: *jas* acute by *sāvekāca*. *Patī*: ṅit-suffix, acute on the first syllable." *(Grammar pages 153–154, noted briefly: the words treated are* manojuvā *[*ju* is not in the *dhātupāṭha* but is read in P. 3-2-150 *ju-caṅkramya…*; the Kaumudī says *ju* has the senses 'motion' and 'speed'; *manovat javate* = *manojuvā*; *kvip* by P. 3-2-76 *kvip ca*; compound with the upapada; the dual in* au *replaced by* ā *by P. 7-1-39; the substitution of* uv *for* u*; *gati-kāraka-upapada* accent P. 6-2-139; the long explanation of why the* yaṇ *of P. 6-4-81 *oḥ supi* does not apply when* mana *is a nominative in the sense of comparison],* viprāḥ *[*vip* + *ran*, Uṇ. 2-[?] *vipeḥ*; *nit*… accent on the first syllable],* ūtaye *[*av rakṣaṇe* + *ktin*; *ūṭh* substituted by P. 6-4-20 *jvaraśrivi-vyavimavāmupadhāyāś ca* …; *ūtiyūtijūtisātihetikīrtayaś ca* P. 3-3-97 for the acute],* sahasrākṣā *[*ṣac* by P. 5-4-113; loss of* in *by P. 6-4-144 *naḥ*… then the accent argument],* dhiyaḥ *[*dhī* + *jas*; P. 6-1-171 *sāveka*… accent of the case-ending after a monosyllabic stem; *visarga* → *s* by P. 8-3-53],* patī *[*pā rakṣaṇe* + *ḍati*, Uṇ. 4-[?] *pāter ḍatiḥ*; *ḍit*, so the *ṭi*-portion is dropped; *ṅīp*… accent]; numerals as read, pointers only.)*
+**Translation:** "The *viprāḥ*, the wise — priests and sacrificers — *havante*, call, Indra and Vāyu *ūtaye*, for protection. Of what kind are they? *Manojuvā*, swifter, like the mind; *sahasrākṣā*, furnished with a thousand eyes: though only Indra is thousand-eyed, Vāyu too is so called by the maxim of 'the umbrella-bearers'; *dhiyaspatī*, protectors of the rite or of the intellect." (Grammatical tail: *manojuvā*, *javati* in the sense of going; 'they go like the mind': *manojuvā*, swift like the mind; the *kṛt* final member's accent; the *ā* by *supāṃ suluk*; *viprāḥ*, the Uṇādi *ran*, initial udātta as ending in *ran*; *ūtaye*, the *ktin* udātta by *ūtiyūti…*; *sahasrākṣā*, 'whose eyes are a thousand': the compound-final *ṣac* by *bahuvrīhau sakthyakṣṇoḥ…* (Pā. 5-4-113); though the bahuvrīhi accent would be due, the compound-final suffix being *satiśiṣṭa*, final udātta by *citaḥ*; *dhiyaḥ*, the *ṅas* udātta by *sāv ekācaḥ*; in the Saṃhitā *s* for the *visarga* by *ṣaṣṭhyāḥ patiputra…*; *patī*, initial udātta as ending in *ḍati*.)
 
-**॥ Prati-padārthaḥ ॥** **विप्राः (viprāḥ)** — the intelligent [priests and sacrificers] | **मनोजुवा (manojuvā)** — swift as the mind | **सहस्राक्षा (sahasrākṣā)** — with a thousand eyes | **धियस्पती (dhiyaspatī)** — lords of rites or of the intellect | **इन्द्रवायू (indravāyū)** — Indra and Vāyu | **ऊतये (ūtaye)** — for protection | **हवन्ते (havante)** — invoke.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** Indra and Vāyu are swift as the mind, have a thousand eyes, and are lords of rites or of the intellect; such Indra and Vāyu are invoked by the wise for protection.
+**विप्राः (viprāḥ)** — the intelligent (wise) people | **मनोजुवा (manojuvā)** — swift-going like the speed of the mind | **सहस्राक्षा (sahasrākṣā)** — having thousands of eyes | **धियस्पती (dhiyaspatī)** — lords of rites, or lords of the intellect | **इन्द्रवायू (indravāyū)** — the two deities called Indra and Vāyu | **ऊतये (ūtaye)** — for protection | **हवन्ते (havante)** — call.
+
+**॥ Bhāvārthaḥ ॥**
+
+The deities called Indra and Vāyu have the speed of the mind, are furnished with a thousand eyes, are lords of rites or impellers of the intellect. The wise call such Indra and Vāyu for protection.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The wise invoke for protection Indra and Vayu who are swift as thought, who have a thousand eyes and who are the lords of the pious acts (or of mind).
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 151–152)* **मनोजुवा** — *mana iva vegayuktau*: swift as the mind. However distant a thing is, the mind can think of it in a moment; hence it is the custom, when describing great speed, to use the comparison 'as swift as the mind'. **सहस्राक्षा** — *sahasram akṣiṇī yayos tau*: those with a thousand eyes. Both in the Purāṇas and in later Sanskrit it is customary to call Indra *sahasrākṣa*. In the Veda, why should there be such a [belief]? Indra is in heaven (in such a place), where the thousand constellations shine like [his] eyes; hence, from Indra's being called *sahasranayanopeta* ('provided with a thousand eyes'), this custom seems to have arisen. Here, though *sahasrākṣa* suits Indra, applying the epithet to Vāyu also is, the author says, not quite proper. Possibly because of Indra's companionship, or because Vāyu, being all-pervading, is able to see everything, the poet has addressed Vāyu too as *sahasrākṣa*. Just as the word *manojuvā* applies to Vāyu and is [better] applied also to Indra, so here the vocative [*dual*] is used. The chief meaning is that the word *manojuvā* applies chiefly to Vāyu, who always moves or has the habit of moving; the word *sahasrākṣa* applies to Indra. But these words are used here as epithets praising both Indra and Vāyu. **धियस्पती** — *dhī* means 'act' (*karma*) or 'intellect' (*prajñā*). So *dhiyaspatī* means 'the two protectors who see that the rites we perform, the sacrifices and so on, are completed without hindrance', or 'who see that our intellect does not become attached to evil acts', or 'who impel our intellect to be attached to good deeds'. The meaning of such words as *śubhaspatī, jyotiṣaspatī, vācaspati, śavasaspati* may also be understood in this way.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**मनोजुवा (manojuvā)** — *mana iva vegayuktau*: swift like the mind. The mind can think in a moment of a thing, however far away it is. So when indicating great speed, it is customary to use the comparison 'swift as the speed of the mind'.
+
+### Page 152 — Rik 3: Special Topics (end), grammar
+
+**सहस्राक्षा (sahasrākṣā)** — *sahasram akṣīṇi yayos tau*: having a thousand eyes. In the Purāṇas and in modern Sanskrit too it is customary to call Indra 'thousand-eyed'. The reason why in the Veda such a meaning, 'having a thousand eyes', arose is this: Indra is in heaven (in the mid-air). In heaven thousands of stars twinkle like eyes. So it seems the custom of calling Indra 'furnished with a thousand eyes' may have come about. Though it is fitting here to call Indra thousand-eyed, it is not right to describe Vāyu by this qualifying word. Either through association with Indra, or because Vāyu, being all-pervading, has the power to see everything, Vāyu may have been addressed as thousand-eyed. Likewise, though the word *manojuvā* fits Vāyu, the address here is such that it fits Indra too. The main intention is that the word *manojuvā* fits only Vāyu, who is always moving or of a moving nature; the word *sahasrākṣā* indicates Indra alone. Yet these words are used here as qualifying words praising both Indra and Vāyu.
+
+**धियस्पती (dhiyaspatī)** — the word *dhī* means rite or understanding. So *dhiyaspatī* means: lords of the good rites such as sacrifice that we perform, that is, those able to protect them so that they are accomplished without hindrance; or those able to make our intellect devoted to good works; or those able to impel our intellect to good works: this is the intention. Likewise the meanings of the words *śubhaspatī*, *jyotiṣaspatī*, *vācaspati*, *śavasaspati* and the like are worth noting.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**मनोजुवा (manojuvā)** — the root *ju* is not read in the list of roots, but it is read in the sūtra *ju caṅkramya…* (Pā. Sū. 3-2-150). In the Kaumudī it is said, *ju iti sautro dhātur gatau vege ca*, that it has both meanings, going and speed. When the sense is *manovat javata iti*, 'they go like the mind (swiftly)', the suffix *kvip* by *kvip ca*, an *upapada* compound; after *manoju* the accusative dual suffix *auṭ*, and for it by *supāṃ suluk…* (Pā. Sū. 7-1-39) the substitute *ā*: *manoju* + *ā*; here, by *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* (Pā. Sū. 6-4-77), when the substitute *uvaṅ* comes, it becomes *manojuvā*. By *gatikārakapūrvasyaiveṣyate* (Pā. Sū. 6-4-82 Vā.) — the *yaṇ* in the case of roots ending in *i*, *u* that have some word before them comes only when the first member is named *gati* or *kāraka*; for roots ending in *i*, *u* whose first members are other than *gati* and *kāraka*, *yaṇ* —
+
+### Page 153 — Rik 3: grammar (continued)
+
+— does not come; so the *yaṇ* that would come by *oḥ supi* (Pā. Sū. 6-4-83) is prevented. Here, in the sense of likeness meaning *iva*, the word *manaḥ* in the first case is construed; it is not construed with the action. So it is clear that it is neither a *gati* nor a *kāraka*.
+
+**विप्राः (viprāḥ)** — by the sūtra *ṛjrendrāgravipra…* (U. Sū. 2-186), after the root *ḍuvap bījasantāne*, it is given as a set form ending in the suffix *ran*; the substitute *i* for the *a* of the root is given as a set form in this sūtra; the suffix is *nit*, so by *ñnity ādir nityam* (Pā. Sū. 6-1-197) it is initially udātta.
+
+**ऊतये (ūtaye)** — by *ūtiyūtijūtisātihetikīrtayaś ca* (Pā. Sū. 3-3-97), the word *udāttaḥ* being carried on from the previous sūtra *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* (Pā. Sū. 3-3-96), the sense of the sūtra is that the words ending in *ktin*, *ūti* and the rest, are given as set forms with final udātta. In the present case, after the root *ava rakṣaṇe*, the suffix *ktin*: *av* + *ti*; by *jvaratvarasrivyavimavām upadhāyāś ca* (Pā. Sū. 6-4-20), *ūṭh* for both the *a* and the *v*: *ūti* results. Since the suffix is *nit*, the *nit* accent, initial udātta, would be due; but by this sūtra it is final udātta.
+
+**सहस्राक्षा (sahasrākṣā)** — the analysis is *sahasram akṣīṇi yayos tau*: the two who have a thousand eyes. This is a bahuvrīhi compound. In *bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac* (Pā. Sū. 5-4-113), *bahuvrīhau* is in the seventh case and *sakthyakṣṇoḥ* in the sixth, both in the sense of the fifth; *sakthyakṣṇoḥ* qualifies *bahuvrīhau*. So by *yena vidhis tadantasya* (Pā. Sū. 1-1-72) 'ending in it' is obtained; the sūtras *samāsāntāḥ* (Pā. Sū. 5-4-68) and *taddhitāḥ* (Pā. Sū. 4-1-76) are the headings. The sense of the sūtra: after a bahuvrīhi compound ending in the words *sakthi*, *akṣi* that denote a limb of one's own body, *ṣac* comes; it is a part at the end of the compound and also has the name *taddhita*. *Adravaṃ mūrtimat svāṅgaṃ prāṇistham avikārajam | atatsthaṃ tatra dṛṣṭaṃ ca tasya cet tat tathāyutam* (Pā. Sū. 4-1-54 *śloka-vārttika*): the definition of *svāṅga* is stated in three ways. That which is not liquid, has a fixed measure, is not born of a disorder such as disease, and is in a living being is called *svāṅga*: this is the first definition. Even if not now in a living being, what has at some time been seen in a living being is called *svāṅga*: this is the second definition. A lifeless substance shaped like a living one — in the case where it is furnished with forms such as breasts that are in a living being — those forms such as breasts, though connected with a lifeless thing, are called *svāṅga*: this is the third definition. For the present *sakthi*, *akṣi*, the first definition alone applies. Thus, when *ṣac* comes by the previous sūtra: *sahasrākṣin* + *a*; by *nas taddhite* (Pā. Sū. 6-4-144) — when a *taddhita* suffix follows, the *ṭi* of a stem ending in *n* and named *bha* is dropped —
+
+> अद्रवं मूर्तिमत्स्वाङ्गं प्राणिस्थमविकारजम् । अतत्स्थं तत्र दृष्टं च तस्य चेत्तत्तथायुतम् ॥
+>
+> *adravaṃ mūrtimatsvāṅgaṃ prāṇisthamavikārajam | atatsthaṃ tatra dṛṣṭaṃ ca tasya cettattathāyutam ||*
+
+### Page 154 (upper) — Rik 3: grammar (end)
+
+— the *in* is dropped: it became *sahasrākṣa*. By *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member's own accent would be due. Yet by *satiśiṣṭasvaro balīyān anyatra vikaraṇebhyaḥ*, since the *satiśiṣṭa* accent is stronger, the final udātta *citaḥ*, which is *satiśiṣṭa*, alone comes here. *Ṣac* is *cit*; for the case-ending the substitute *ā* as before.
+
+> सतिशिष्टस्वरो बलीयानन्यत्र विकरणेभ्यः ।
+>
+> *satiśiṣṭasvaro balīyānanyatra vikaraṇebhyaḥ |*
+
+**धियः (dhiyaḥ)** — by *sāv ekācas tṛtīyādir vibhaktiḥ* (Pā. Sū. 6-1-168), *su* meaning that the locative plural is intended: the sense of the sūtra is that when the locative plural suffix follows, the case-endings of the third onward after a word that has a single vowel are udātta. In *dhīṣu* the word *dhī* has a single vowel when the locative plural follows; so the genitive after the word *dhī* is udātta. In *dhiyaḥ* + *patī*, by *ṣaṣṭhyāḥ patiputrapṛṣṭhapārapadapayasposeṣu* (Pā. Sū. 8-3-53) — when the words *pati* and the rest follow, *s* is substituted for a *visarga* belonging to the genitive — the substitute *s* for the *visarga*.
+
+**पती (patī)** — the root *pā rakṣaṇe*; by *pāter ḍatiḥ* (U. Sū. 4-57) the suffix *ḍati*; the suffix is *ḍit*; by the force of its being *ḍit*, even without the name *bha*, the *ṭi*, *ā*, is dropped: it becomes *pati*. And by *ādyudāttaś ca* (Pā. Sū. 3-1-3) it is initially udātta. ॥3॥
 
 ---
 
