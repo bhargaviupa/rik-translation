@@ -1282,53 +1282,67 @@ In this ṛk the word *tā* occurs twice. And in *somapā somapītaye* too the m
 
 ---
 
-### Pages 53–55 — Sūkta 21, Rik 4
+### Page 53 (lower) — Sūkta 21, Rik 4
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उग्रा सन्ता हवामह उपेदं सवनं सुतम् ।
-> इन्द्राग्नी एह गच्छताम् ॥४॥
+> उ॒ग्रा सन्ता॑ हवाम॒ह उ॒पे॑दं सव॑नं सु॒तं ।
+> इ॒न्द्रा॒ग्नी एह ग॑च्छताम् ॥४॥
 >
-> *ugrā santā havāmaha upedaṃ savanaṃ sutam |*
-> *indrāgnī eha gacchatām ||4||*
+> *ugrā́ sántā havāmahá upedaṃ sávanaṃ sutáṃ |*
+> *indrāgnī́ ehá gacchatām ||4||*
+
+*(Bars under उ (उग्रा), ह (हवामह), उ (उपेदं) and सु; strokes over ता (सन्ता), पे and व (सवनं). Line 2: bars under इ and द्रा, stroke over ग. The print ends the half-verse with* sutaṃ*.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> उग्रा । सन्ता । हवामहे । उप । इदम् । सवनम् । सुतम् ॥
+> उग्रा । सन्ता । हवामहे । उप । इदं । सवनं । सुतं ॥
 > इन्द्राग्नी इति । आ । इह । गच्छताम् ॥४॥
 >
-> *ugrā | santā | havāmahe | upa | idam | savanam | sutam ||*
+> *ugrā | santā | havāmahe | upa | idaṃ | savanaṃ | sutaṃ ||*
 > *indrāgnī iti | ā | iha | gacchatām ||4||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 53; compressed; [?] marks doubtful readings)*
+*(The citation is printed ऋग्वे० १-१६-५, as printed.)*
 
-> सुतमभिषवोपेतमिदमनुष्ठीयमानं सवनं प्रातःसवनादिरूपं कर्मोपसामीप्येन प्राप्तुमुग्रा सन्ता वैरिवधादिषु क्रूरौ सन्तौ देवौ हवामहे । आह्वयामः । इन्द्राग्नी देवाविह कर्मण्या गच्छताम् ॥ सन्ता । अस्तेः शतरि श्नसोरल्लोपः । सवनं सुतमिति द्वयं सेमं नः स्तोममा गहि । ऋग्वेदे [१-१६-५] । इत्यत्रोक्तम् ॥
+> सुतमभिषवोपेतमिदमनुष्ठीयमानं सवनं प्रातःसवनादिरूपं कर्मोपसामीप्येन प्राप्तुमुग्रा सन्ता वैरिवधादिषु क्रूरौ सन्तौ देवौ हवामहे । आह्वयामः । इन्द्राग्नी देवाविह कर्मण्या गच्छतां ॥ सन्ता । अस्तेः शतरि श्नसोरल्लोपः । सवनं सुतमिति द्वयं सेमं नः स्तोममा गहि । ऋग्वे० १-१६-५ । इत्यत्रोक्तम् ॥
 >
-> *sutam abhiṣavopetam idam anuṣṭhīyamānaṃ savanaṃ prātaḥsavanādi-rūpaṃ karmopa-sāmīpyena prāptum ugrā santā vairi-vadhādiṣu krūrau santau devau havāmahe | āhvayāmaḥ | indrāgnī devāv iha karmaṇy ā gacchatām || santā | aster śatari śnasor allopaḥ | savanaṃ sutam iti dvayaṃ semaṃ naḥ stomam ā gahi | ṛgvede [1-16-5] | ity atroktam ||*
+> *sutamabhiṣavopetamidamanuṣṭhīyamānaṃ savanaṃ prātaḥsavanādirūpaṃ karmopasāmīpyena prāptumugrā santā vairivadhādiṣu krūrau santau devau havāmahe | āhvayāmaḥ | indrāgnī devāviha karmaṇyā gacchatāṃ || santā | asteḥ śatari śnasorallopaḥ | savanaṃ sutamiti dvayaṃ semaṃ naḥ stomamā gahi | ṛgve0 1-16-5 | ityatroktam ||*
 
-**Translation:** "To approach this rite — the *savana*, which is being performed, in the form of the morning pressing and the rest, accompanied by the pressed soma (*sutam*) — we invoke the two gods, *ugrā santā*, who, being [such], are fierce against the slaying of enemies and the like. May the gods Indra and Agni come here (*eha gacchatām*) to this rite." The grammar, noted briefly: *santā* (*as* 'to be' with *śatṛ*; the *a* of *as* dropped by P. 6-4-111 *śnasor allopaḥ*); *savanaṃ sutam* — these two words are explained at the rik *semaṃ naḥ stomam ā gahi* (Ṛg-veda 1-16-5, i.e. Rik 16.5 of Volume 2). *(Grammar, noted briefly; P. 6-4-111 as read.)*
+### Page 54 — Rik 4: bhāṣya rendering, word-meanings, overall sense, English, Special Topics, grammar
 
-**Grammar pages (pp. 54 lower half–55 upper), noted briefly.** The Kannada treats *santā*: *as bhuvi* with *laṭ*; *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* P. 3-2-124 gives *śatṛ*; *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ* P. 2-4-72; *śatṛ* is *ṅit* by P. 1-2-4 *sārvadhātukam apit* — the Kannada notes that *śatṛ* has the technical *ñit* standing by extension and so the *a* of *as* is dropped by P. 6-4-111 *śnasor allopaḥ* [before a *kit/ṅit* *sārvadhātuka*]; *as* + *at* → *s-at* → *sat*; then *ugidacāṃ sarvanāmasthāne 'dhātoḥ* P. 7-1-70 gives *num* to a stem ending in *ugit*/*ac* [*ugit* = having *u*, *ṛ* or *ḷ* as a marker; here *śatṛ* has *ṛ*]; the Kannada resolves the doubt whether the qualifier *ac* [*ac* = 'a vowel-final'] and the word *ugitaḥ* in the sūtra govern a stem containing *ñ*-marked *at*: the explanation is that the *ugit*-ness belongs to the suffix, which leaves the stem as it was, so the *num* augment comes: *san-t* + *au*; the dual ending replaced by *ā* by P. 7-1-39 *supāṃ sulug…*; *anusvāra* and the *parasavarṇa* give *santā*. *Savanam*, *sutam*: the process is explained in the rik *semaṃ naḥ stomam ā gahy upedaṃ savanaṃ sutam* (Ṛ. Saṃ. 1-16-5). ॥4॥ *(Outline only; numerals as read; pointers only.)*
+**Translation:** "To come near to (*upa*) *idaṃ savanaṃ sutam*, this rite now being performed, the pressing in the form of the morning pressing and the rest, furnished with the pressing of soma, we *havāmahe*, call, the two gods who are *ugrā santā*, being fierce in slaying enemies and the like. May the two gods Indra and Agni *ā gacchatām*, come, *iha*, here to the rite." (Grammatical tail: *santā*, from *as* with *śatṛ*, the *a* dropped by *śnasor allopaḥ*; the pair *savanaṃ sutam* has been explained at *semaṃ naḥ stomam ā gahi* (Ṛgve. 1-16-5).)
 
-**॥ Prati-padārthaḥ ॥** *(p. 54)*
+**॥ Prati-padārthaḥ ॥**
 
-**सुतम् (sutam)** — [with] soma-juice prepared | **इदम् सवनम् (idam savanam)** — the rites, the morning pressing and the like, now being done | **उप (upa)** — to bring near | **उग्रा सन्ता (ugrā santā)** — [the deities] who are fierce [to enemies] | **हवामहे (havāmahe)** — we invoke | **इन्द्राग्नी (indrāgnī)** — O Indra and Agni | **इह (iha)** — here | **आ गच्छताम् (ā gacchatām)** — come.
+**सुतं (sutaṃ)** — having the soma juice made ready | **इदं सवनं (idaṃ savanaṃ)** — the rites now being performed, the morning pressing and the rest | **उप (upa)** — to come near | **उग्रा सन्ता (ugrā santā)** — the deities who are fierce (to enemies) | **हवामहे (havāmahe)** — we call | **इन्द्राग्नी (indrāgnī)** — O Indra and Agni | **इह (iha)** — to this place | **आ गच्छत (ā gacchata)** — come.
 
 **॥ Bhāvārthaḥ ॥**
 
-We invoke the Indra and Agni deities, fearsome to enemies, to this place where the morning pressing and the other rites, with their prepared soma-juice, are taking place. O Indra and Agni, come here.
+To the place where the rites of the morning pressing and the rest, which make the soma juice ready, are going on, we call Indra and Agni, who are terrible to enemies. O Indra and Agni, come here.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> We invoke the two (Gods) who are fierce (to their enemies) to come to this Sacrifice where the Soma is prepared ; Indra and Agni, come hither.
+> We invoke the two (Gods) who are fierce (to their enemies) to come to this Sacrifice where the Soma is prepared; Indra and Agni, come hither.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 54)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**उग्रा (ugrā)** — *vairivadhādiṣu krūrau*: fierce in the slaying of enemies and the like. The sense is that Indra and Agni are gracious to those who praise them, but fierce towards their enemies.
+**उग्रा (ugrā)** — *vairivadhādiṣu krūrau*. The intention is: although Indra and Agni behave generously toward those who praise them, they are fierce toward enemies.
 
-**उपेदं सवनं सुतम् (upedaṃ savanaṃ sutam)** — "Come near to the soma prepared at the sacrifice that we are now performing, for the sake of drinking it."
+**उपेदं सवनं सुतं (upedaṃ savanaṃ sutaṃ)** — come near, to drink the soma made ready in the sacrifice we are now performing.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**सन्ता (santā)** — the root *asa bhuvi*; *laṭ*; by *laṭaḥ śatṛśānacau* (Pā. Sū. 3-2-124) the substitute *śatṛ*. By *adiprabhṛtibhyaḥ śapaḥ* the *vikaraṇa* *śap* is dropped (*luk*). By *sārvadhātukam apit* (Pā. Sū. 1-2-4) the suffix *śatṛ* is *ṅit*. By *śnasor allopaḥ* (Pā. Sū. 6-4-111) — when a *sārvadhātuka* suffix that is *kit* or *ṅit* follows, the *a* of the suffix *śna* and of the root *as* is dropped — the root's *a* is dropped: *s* + *at* = *sat*. After this, [?] (a short word, unclear), *śatṛ* is *ugit*; so by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* (Pā. Sū. 7-1-70) — *uk* *it yeṣāṃ te ugitaḥ*; *adhātoḥ* qualifies *ugitaḥ*; in *ac*, because it is not possible,
+
+### Page 55 (upper) — Rik 4: grammar (end)
+
+there being no qualifier, the root *añcu* (*gatipūjanayoḥ*), whose *n* has been dropped, is taken by *ac*; *ugitaś ca ac ca ugidacaḥ, teṣām ugidacām* is the analysis — *num* is carried on from *idito num dhātoḥ* (Pā. Sū. 7-1-58). So, when a *sarvanāmasthāna* suffix follows, words that are not roots and are *ugit*, and the root *añc* with its *n* dropped, take the augment *num*: so the augment *num*. For the case-ending, by *supāṃ suluk* the substitute *ā*; *anusvāra* and *parasavarṇa*: it becomes *santā*.
+
+**सवनं, सुतं (savanaṃ, sutaṃ)** — for both words the derivation has been set out at *semaṃ naḥ stomam ā gahy upedaṃ savanaṃ sutam* (Ṛ. Saṃ. 1-16-5). ॥4॥
+
+---
 
 ### Pages 55–58 — Sūkta 21, Rik 5
 
