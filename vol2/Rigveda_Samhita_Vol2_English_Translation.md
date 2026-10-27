@@ -10825,13 +10825,15 @@ since *pāvaka* counts as absent, it cannot intervene; so one may say that, comi
 
 ### Page 532 (lower) — Sūkta 13, Rik 2
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मधुमन्तं तनूनपाद्यज्ञं देवेषु नः कवे ।
-> अद्या कृणुहि वीतये ॥२॥
+> मधु॑मन्तं तनूनपाद्य॒ज्ञं दे॒वेषु॑ नः कवे ।
+> अ॒द्या कृ॑णुहि वी॒त॑ये ॥२॥
 >
-> *madhumantaṃ tanūnapād yajñaṃ deveṣu naḥ kave |*
-> *adyā kṛṇuhi vītaye ||2||*
+> *mádhumantaṃ tanūnapād yajñáṃ devéṣu naḥ kave |*
+> *adyā́ kṛṇuhi vītaye ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -10841,72 +10843,91 @@ since *pāvaka* counts as absent, it cannot intervene; so one may say that, comi
 > *madhu-mantam | tanū-napāt | yajñam | deveṣu | naḥ | kave ||*
 > *adya | kṛṇuhi | vītaye ||2||*
 
-### Pages 533–534 — Rik 2: Sāyaṇa-bhāṣya, word-meanings, overall sense, English
+### Page 533 — Rik 2: Sāyaṇa-bhāṣya, word-meanings, overall sense, English
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे कवे मेधाविन्नग्ने तनूनपादेतन्नामकस्त्वमद्यास्मिन्दिने नो ऽस्मदीयं मधुमन्तं रसवन्तं यज्ञं हविर्वीतये भक्षणार्थं देवेषु कृणुहि । कुरु । प्रापयेत्यर्थः ॥ मधुमन्तं फलिपाटिनमिमनिजनां गुक्पटिनाकिथितश्च । उ. १-१९ [?] । इति मन्तेरुप्रत्ययो धकारश्चान्तादेशः । नित्त्वात्प्रत्ययस्य नित्त्वादाद्युदात्तो मधुशब्दः । तनूनपात् । आमन्त्रितनिघातः । अद्य । सद्यःपरुत्परार्यैषमः परेद्यव्यद्य । पा. ५-३-२२ । इत्यर्थे द्यप्रत्ययान्तो निपातितः । प्रत्ययस्वरेणान्तोदात्तः । तद्धितश्चासर्वविभक्तिः इत्यव्ययत्वाद्व्ययादाप्सुपः इत्युपरि सप्तम्या लुक् । संहितायामन्येषामपि दृश्यत इति दीर्घत्वम् । कृणुहि । कृवि हिंसाकरणयोश्च । इदितो नुम्धातोः । पा. ७-१-५८ । इति नुम् । लोटः सेर्हिरादेशः । धिन्विकृण्व्योरच्च । पा. ३-१-८० । इति शपो ऽपवादो विकरण उप्रत्ययः । तस्मिन्नियोगेन वकारस्याकारः । तस्यातो लोपे इति लोपः । … उतश्च प्रत्ययादसंयोगपूर्वात् । पा. ६-४-१०६ । इति हेर्लुक् । उतश्च प्रत्ययाच्छन्दो वा वचनम् । … तिङ्ङतिङ इति निघातः । वीतये । मन्त्रे वृषेषपचमनविदभूवीरा उदात्तः । पा. ३-३-९६ । इति क्तिन्नुदात्तः ॥
+> हे कवे मेधाविन्नग्ने तनूनपादेतन्नामकस्त्वमद्यास्मिन्दिने नो ऽस्मदीयं मधुमन्तं रसवन्तं यज्ञं हविर्वीतये भक्षणार्थं देवेषु कृणुहि । कुरु । प्रापयेत्यर्थः ॥ मधुमन्तम् । फलिपाटिनमिमनिजनां गुक्पटिनाकिधतश्च । उ. १-१९ । इति मन्यतेरुप्रत्ययो धकारश्चान्तादेशः । निदित्यनुवृत्तेः प्रत्ययस्य नित्त्वादाद्युदात्तो मधुशब्दः । तनूनपात् । आमन्त्रितनिघातः । अद्य । सद्यःपरुदित्यादिनास्मिन्काल इत्यर्थे द्यप्रत्ययान्तो निपातितः । प्रत्ययस्वरेणान्तोदात्तः । तद्धितश्चासर्वविभक्तिरित्यव्ययत्वादव्ययादाप्सुप इत्युपरि सप्तम्या लुक् । संहितायामन्येषामपि दृश्यत इति दीर्घत्वम् । कृणुहि । कृवि हिंसाकरणयोश्च । इदितो नुम् धातोरिति नुम् । लोटः सेर्हिरादेशः । धिन्विकृण्व्योरच्चेति शपो ऽपवादो विकरण उप्रत्ययः । तत्संनियोगेन वकारस्याकारः । तस्यातो लोप इति लोपः । तस्य स्थानिवद्भावाल्लघूपधगुणो न भवति । उतश्च प्रत्ययादसंयोगपूर्वात् । पा. ६-४-१०६ । इति हेर्लुग्न भवत्युतश्च प्रत्ययाच्छन्दो वा वचनम् । पा. ६-४-१०६-१ । इति वचनात् । तिङ्ङतिङ इति निघातः । वीतये । मन्त्रे वृषेषपचमनविदभूवीरा उदात्त इति क्तिन्नुदात्तः ॥
 >
-> *he kave medhāvinn agne tanūnapād etan-nāmakas tvam adyāsmin dine no 'smadīyaṃ madhumantaṃ rasavantaṃ yajñaṃ havir vītaye bhakṣaṇārthaṃ deveṣu kṛṇuhi | kuru | prāpayety arthaḥ || madhumantam phalipāṭinamimanijanāṃ guk-paṭi-nākithitaś ca | u. 1-19 [?] | iti manter u-pratyayo dhakāraś cāntādeśaḥ | nittvāt pratyayasya nittvād ādyudātto madhu-śabdaḥ | tanūnapāt | āmantrita-nighātaḥ | adya | sadyaḥ-parut-parāry-aiṣamaḥ paredyavy-adya | pā. 5-3-22 | ity arthe dya-pratyayānto nipātitaḥ | pratyaya-svareṇāntodāttaḥ | taddhitaś cāsarva-vibhaktiḥ ity avyayatvād avyayād āp-supaḥ ity upari saptamyā luk | saṃhitāyām anyeṣām api dṛśyata iti dīrghatvam | kṛṇuhi | kṛvi hiṃsā-karaṇayoś ca | idito num dhātoḥ | pā. 7-1-58 | iti num | loṭaḥ ser hir ādeśaḥ | dhinvi-kṛṇvyor a ca | pā. 3-1-80 | iti śapo 'pavādo vikaraṇa u-pratyayaḥ | tasmin niyogena vakārasyākāraḥ | tasyāto lope iti lopaḥ | ... utaś ca pratyayād asaṃyoga-pūrvāt | pā. 6-4-106 | iti her luk | utaś ca pratyayāc chando vā vacanam | ... tiṅ atiṅa iti nighātaḥ | vītaye | mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ | pā. 3-3-96 | iti ktin udāttaḥ ||*
+> *he kave medhāvinnagne tanūnapādetannāmakastvamadyāsmindine no 'smadīyaṃ madhumantaṃ rasavantaṃ yajñaṃ havirvītaye bhakṣaṇārthaṃ deveṣu kṛṇuhi | kuru | prāpayetyarthaḥ || madhumantam | phalipāṭinamimanijanāṃ gukpaṭinākidhataśca | u. 1-19 | iti manyaterupratyayo dhakāraścāntādeśaḥ | nidityanuvṛtteḥ pratyayasya nittvādādyudātto madhuśabdaḥ | tanūnapāt | āmantritanighātaḥ | adya | sadyaḥparudityādināsminkāla ityarthe dyapratyayānto nipātitaḥ | pratyayasvareṇāntodāttaḥ | taddhitaścāsarvavibhaktirityavyayatvādavyayādāpsupa ityupari saptamyā luk | saṃhitāyāmanyeṣāmapi dṛśyata iti dīrghatvam | kṛṇuhi | kṛvi hiṃsākaraṇayośca | idito num dhātoriti num | loṭaḥ serhirādeśaḥ | dhinvikṛṇvyoracceti śapo 'pavādo vikaraṇa upratyayaḥ | tatsaṃniyogena vakārasyākāraḥ | tasyāto lopa iti lopaḥ | tasya sthānivadbhāvāllaghūpadhaguṇo na bhavati | utaśca pratyayādasaṃyogapūrvāt | pā. 6-4-106 | iti herlugna bhavatyutaśca pratyayācchando vā vacanam | pā. 6-4-106-1 | iti vacanāt | tiṅṅatiṅa iti nighātaḥ | vītaye | mantre vṛṣeṣapacamanavidabhūvīrā udātta iti ktinnudāttaḥ ||*
 
-**Translation:** "O *kave* — O wise Agni — you who bear the name *Tanūnapāt*, *adya* — today — *naḥ*, our *madhumantam*, honeyed — flavourful — *yajñam*, sacrifice (the oblation), *vītaye*, for the sake of [the gods'] eating, *deveṣu kṛṇuhi*: make [it reach] among the gods; cause it to reach them." *(Grammar noted briefly: that* madhumat *is formed with the suffix* u *(Uṇ. 1-19 [?]) from* man *with* dh *as the final replacement, initial-udātta;* adya *is formed irregularly with* dya *by Pā. 5-3-22 [?], final-udātta, an indeclinable with lengthening in the Saṃhitā;* kṛṇuhi *is from* kṛvi hiṃsākaraṇayoḥ *with* num *and* u*-vikaraṇa by Pā. 3-1-80 [?], the* hi *not dropped under Pā. 6-4-106 [?] by the Vedic option; and* vīti *is a* ktin *udātta in the mantra by Pā. 3-3-96 [?].)* *(Some Sanskrit is compressed in the scan; I give the legible portions.)*
+**Translation:** "O *kave* — wise Agni — you who bear the name *Tanūnapāt*, *adya* — on this day — *deveṣu kṛṇuhi*, make among the gods — that is, cause to reach them — our *madhumantam*, flavourful, *yajñam*, oblation, *vītaye*, for their eating." (Grammatical tail: *madhumantam* — the suffix *u* after *man* by "phali-pāṭi-nami-mani-janāṃ guk-paṭi-nāki-dhataś ca" (Uṇ. 1-19), with *dh* for the final; since *nit* is carried over, *madhu* is initial-udātta; *tanūnapāt* — unaccented as a vocative; *adya* — formed irregularly with *dya* in the sense "at this time" by "sadyaḥ-parut…", final-udātta by the suffix accent; an indeclinable by "taddhitaś cāsarvavibhaktiḥ", so the locative after it is dropped by "avyayād āp-supaḥ"; lengthened in the Saṃhitā by "anyeṣām api dṛśyate"; *kṛṇuhi* — *kṛvi hiṃsākaraṇayoś ca*, *num* by "idito num dhātoḥ", *hi* for *si* of *loṭ*, the vikaraṇa *u* instead of *śap* by "dhinvi-kṛṇvyor a ca", *a* for the *v* along with it, dropped by "ato lopaḥ", and since that loss counts as present there is no penultimate *guṇa*; the loss of *hi* by "utaś ca pratyayād asaṃyogapūrvāt" (Pā. 6-4-106) does not take place, by the vārttika "utaś ca pratyayāc chando vā vacanam" (Pā. 6-4-106-1); unaccented by "tiṅṅ atiṅaḥ"; *vītaye* — *ktin* udātta by "mantre vṛṣeṣa…".)
 
 **॥ Prati-padārthaḥ ॥**
 
-**(हे) कवे ((he) kave)** — O wise Agni | **तनूनपात् (tanūnapāt)** — you named Tanūnapāt | **अद्य (adya)** — this day, now | **नः (naḥ)** — our | **मधुमन्तम् (madhumantam)** — flavourful, like honey | **यज्ञम् (yajñam)** — that is, the oblation offered in the sacrifice | **वीतये (vītaye)** — for the gods to eat | **देवेषु (deveṣu)** — among the gods | **कृणुहि (kṛṇuhi)** — do (that is, offer).
+**(हे) कवे ((he) kave)** — O wise Agni | **तनूनपात् (tanūnapāt)** — you named Tanūnapāt | **अद्य (adya)** — this day, now | **नः (naḥ)** — our | **मधुमन्तम् (madhumantam)** — tasty like honey | **यज्ञम् (yajñam)** — that is, the oblation offered in the sacrifice | **वीतये (vītaye)** — for the gods to eat | **देवेषु (deveṣu)** — among the gods | **कृणुहि (kṛṇuhi)** — make (that is, offer).
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, you are wise, and you are also called Tanūnapāt. Today, make our sacrifice (or the oblation of our sacrifice) reach the gods, so that they may eat it.
+O Agni, you are wise, and you are also called Tanūnapāt. Such as you are, today offer to the gods, for their eating, the sacrifice we are performing (or the oblation belonging to the sacrifice).
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Wise Agni, also called Tanunapat present, this day our well-flavoured sacrifice to the gods that they may feast.
 
-### Pages 534–535 — Rik 2: Special Topics
+### Page 534 — Rik 2: Special Topics
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Madhumantam"** — *rasavantam* — flavourful, delicious, like honey: *well-flavoured, rich in honey*. The *Vedārtha-yatna* author explains the word *madhu* as Soma and renders the phrase as "the oblation mixed with Soma-juice." To support this sense the Ṛgveda has such riks as
+**"Madhumantam"** — *rasavantam*: tasty, sweet like honey: *well-flavoured, rich in honey* [the source's English]. The author of the *Vedārthayatna* takes *madhu* as Soma and explains "the oblation joined with Soma-juice." In support of this sense he gives as an example the rik
+
+*(Ṛ. Saṃ. 1-15-11.)*
 
 > अश्विना पिबतं मधु दीद्यग्नी शुचिव्रता ।
+>
 > *aśvinā pibataṃ madhu dīdyagnī śucivratā |*
-> (Ṛgveda Saṃhitā 1-22-1 [?]; the source's number reads "१-२२-१")
-> *("O Aśvins, of pure ways, drink the honey, O you whose fires blaze." — my gloss, tentative.)*
 
-and in explaining this rik Sāyaṇa says plainly that *madhu* is *mādhuryopetaṃ somam*, "the Soma-juice endowed with sweetness." And in the rik
+*("O Aśvins, of bright fires and pure vows, drink the honey" — mine and tentative.)*
+
+In explaining this rik Sāyaṇa plainly says *madhu-mādhuryopetaṃ somam*, "the sweet Soma-juice." Besides this, in explaining the rik
+
+*(Ṛ. Saṃ. 9-73-2.)*
 
 > मधोर्धाराभिर्जनयन्तो अर्कमित्प्रियामिन्द्रस्य तन्वमवीवृधन् ।
-> *madhor dhārābhir janayanto arkam it priyām indrasya tanvam avīvṛdhan |*
-> (Ṛgveda Saṃhitā 9-? -?; printed "९-२३-३"?)
-> *(The reading is partly doubtful; no gloss offered.)*
+>
+> *madhordhārābhirjanayanto arkamitpriyāmindrasya tanvamavīvṛdhan |*
 
-too, the Bhāṣyakāra explains *madhoḥ* as "of the Soma-juice, which gives gladness [*madakara*]." There are many riks in the Ṛgveda that give the word *madhu* the sense of Soma-juice; so *madhumantam* may be given the sense "endowed with Soma-juice."
+*("Producing the hymn with streams of honey, they have increased the dear body of Indra" — mine and tentative.)*
 
-**"Tanūnapāt"** — this word is another name of Agni. Some explain it as "one born of himself." To support this sense they cite "*agninā agniḥ samidhyate*" (kindling one fire from another) and the passage in the Nirukta (where, among the words for 'descendant' beginning with *tuk* and *toka*, the word *napāt* is read [Nir. 3-2 [?]]: *napāt* means "grandson, son"). *Tanūḥ* = one's own body; *napāt* = born; so "one born of his own body." The sage Yāska explains the meaning of *tanūnapāt* in the *daivatakāṇḍa* of his Nirukta:
+the Bhāṣyakāra gives the word *madhoḥ* the sense *madakarasya somasya*, "of the Soma-juice that causes exhilaration." There are many riks in the Ṛgveda that give *madhu* the sense of Soma-juice; so the word *madhumantam* can be given the sense "accompanied by Soma-juice."
 
-> तनूनपात् । तनूनपादाज्यमिति काठक्यः । नपादित्यनन्तरायाः प्रजायाः नामधेयं निर्णिततमा भवति । गौरत्र तनूरुच्यते । तथा अस्यां भोगाः तस्याः पयो जायते पयसश्चाज्यं जायते ॥
-> अग्निरिति शाकपूणिः । आपो ऽत्र तन्व उच्यन्ते । तथा अन्तरिक्षे ताभ्य ओषधिवनस्पतयो जायन्त ओषधिवनस्पतिभ्य एष जायते ॥ (नि. ८-५ [?])
-> *tanūnapāt | tanūnapād ājyam iti kāṭhakyaḥ | napād ity anantarāyāḥ prajāyāḥ nāmadheyaṃ nirṇitatamā bhavati | gaur atra tanūr ucyate | tathā asyāṃ bhogāḥ tasyāḥ payo jāyate payasaś cājyaṃ jāyate ||*
-> *agnir iti śākapūṇiḥ | āpo 'tra tanva ucyante | tathā antarikṣe tābhya oṣadhi-vanaspatayo jāyanta oṣadhi-vanaspatibhya eṣa jāyate || (ni. 8-5 [?])*
-> "*Tanūnapāt* — Kāṭhakya says *tanūnapāt* is clarified butter: *napāt* is the name of a direct descendant, [a sense] most firmly established; here the cow is called *tanū* — and from her come [various] enjoyments; from her comes milk, from milk comes ghee. Śākapūṇi says it is Agni: here the waters are called *tanvaḥ*; so in the atmosphere, from them [as rain] plants and trees are born; from plants and trees this [Agni] is born." *(This Sanskrit is a best reading of compressed print; the Kannada exposition in the source runs as follows.)*
+**"Tanūnapāt"** — this word too is another name of Agni. Some explain it as "one born from himself." In support of this sense they cite the rik *agninā agniḥ samidhyate* — "fire is kindled by (another) fire"; and since in the Nirukta the word *napāt* is read among the fifteen words for offspring beginning with *tuk*, *tokam* (Ni. 2-2), *napāt* means a son: *tanū* = from one's own body, *napāt* = one born. And the great sage Yāska, explaining the word *tanūnapāt* in the Daivatakāṇḍa of his Nirukta, says:
 
-The idea is: Kāṭhakya says *tanūnapāt* means *ājya* (melted ghee). To support this he says: *tanūḥ* = *gau* (cow) — one who is *prajā* (offspring) of the cow; *napāt* = born; from milk, born of the cow, comes ghee; therefore he takes the word *tanūnapāt* in the sense "ghee." For an example he gives the rik
+> तनूनपात् । तनूनपादाज्यमिति कात्थक्यः । नपादित्यनन्तरायाः प्रजाया नामधेयं निर्णततमा भवति । गौरत्र तनूरुच्यते । तता अस्यां भोगाः तस्याः पयो जायते पयस आज्यं जायते ॥
+> अग्निरिति शाकपूणिः । आपो ऽत्र तन्व उच्यन्ते । तता अन्तरिक्षे ताभ्य ओषधिवनस्पतयो जायन्त ओषधिवनस्पतिभ्य एष जायते ॥
+>
+> *tanūnapāt | tanūnapādājyamiti kātthakyaḥ | napādityanantarāyāḥ prajāyā nāmadheyaṃ nirṇatatamā bhavati | gauratra tanūrucyate | tatā asyāṃ bhogāḥ tasyāḥ payo jāyate payasa ājyaṃ jāyate ||*
+> *agniriti śākapūṇiḥ | āpo 'tra tanva ucyante | tatā antarikṣe tābhya oṣadhivanaspatayo jāyanta oṣadhivanaspatibhya eṣa jāyate ||*
+
+(Ni. 8-5)
+
+### Page 535 — Rik 2: Special Topics (continued) and grammar
+
+The idea is this: Kātthakya says *tanūnapāt* means *ājya* (melted ghee). In support he says *tanūḥ* = *gauḥ*, the cow, and *napāt* = *prajā*, "born": so "from the cow" (*tanū*) "born" (*napāt*) is milk, and what comes from milk is ghee or *ājya*; thus he supports the sense *ājya* for *tanūnapāt*. As an example of this sense he gives the rik
+
+*(Ṛ. Saṃ. 10-110-2.)*
 
 > तनूनपात्पथ ऋतस्य यानान्मध्वा समञ्जन्त्स्वदया सुजिह्व ।
 > मन्मानि धीभिरुत यज्ञमृन्धन्देवत्रा च कृणुह्यध्वरं नः ॥
-> *tanūnapāt patha ṛtasya yānān madhvā samañjan svadayā sujihva |*
-> *manmāni dhībhir uta yajñam ṛndhan devatrā ca kṛṇuhy adhvaraṃ naḥ ||*
-> (Ṛgveda Saṃhitā 10-110-2 [?]; the source's number reads "१०-११०-२")
-> *("O Tanūnapāt, [Agni], of the ways of order, anointing with honey, sweetly, O sweet-tongued, [making] our thoughts [prosper] with prayers, and also the sacrifice; and among the gods make our rite [reach]." — my gloss, tentative; the second half is a best reading.)*
+>
+> *tanūnapātpatha ṛtasya yānānmadhvā samañjantsvadayā sujihva |*
+> *manmāni dhībhiruta yajñamṛndhandevatrā ca kṛṇuhyadhvaraṃ naḥ ||*
 
-Since this rik is also in an Āpri-sūkta, there is room for the doubt whether the sense "ghee" fits the *tanūnapāt* there. According to Śākapūṇi, *tanūnapāt* is Agni: here *tanū* means water. Water falls as rain and from it plants and trees are produced; and since Agni is born from a tree (the wooden *araṇi*), Agni gets the name *tanūnapāt*.
+*("O Tanūnapāt, anointing the paths of order with honey, make them sweet, O fair-tongued; prospering our thoughts and our sacrifice with insights, make our rite go to the gods" — mine and tentative.)*
 
-### Pages 535–536 — Rik 2: grammar
+Since this rik too is in an Āpri-sūkta, there is room for doubt whether the sense *ājya* fits the word *tanūnapāt* in it. According to Śākapūṇi's view, *tanūnapāt* is Agni: here *tanū* means water. Water falls as rain and from it plants and trees are produced; since Agni is born from a tree (the piece of wood called *araṇi*), Agni is called *tanūnapāt*.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 535–536, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 535–537, noted briefly; numbers checked against the print)*
 
-**मधुमन्तम् (*madhumantam*)** — "phalipāṭinamimanijanāṃ gukpaṭināki-thitaś ca" (Uṇ. 1-19 [?]): after the roots *phala niṣpattau*, *paṭa gatau*, *ṇi* + *jan* [print compressed], *ṇam prahvatve śabde ca*, *mana jñāne*, *janī prādurbhāve*, the suffix *u* with *nit*; for *phal* the augment *guk*, and for the rest *paṭ*, *nākitha*, *t* as substitutes in order; the source explains with the maxim *ekāpi ṣaṣṭhī viṣayabhedād bhidyate* ("one genitive splits by difference of topic") that the genitive in the sūtra, applying to the augment in the first case, applies as substitute to the remaining four; so *man* + *u* with *n* → *dh* gives *madhu*; *nit*, so initial-udātta ("ñnityādir nityam," Pā. 6-1-197 [?]); *matup* gives *madhumat*, accusative *madhumantam*. **तनूनपात् (*tanūnapāt*)** — a vocative, unaccented as such by "āmantritasya ca" (Pā. 8-1-19 [?]) since the ordinary-sentence lowering applies. **अद्य (*adya*)** — "asmin kāle": "sadyaḥ-parut-parāry-aiṣamaḥ-paredyavy-adya…" (Pā. 5-3-22 [?]) irregularly forms *adya*, meaning "today": the suffix *dya* after *idam* in the locative sense; *idam* is replaced by *a*; the suffix is a *taddhita* so the form is a *prātipadika*; the case-ending is dropped by "supo dhātuprātipadikayoḥ" (Pā. 2-4-71 [?]); *idam* is replaced by *aś* (Pā. 5-3-3 [?]), by *śit* replacing the whole; *adya*; final-udātta by the suffix accent. The source then discusses ("taddhitaś cāsarvavibhaktiḥ," Pā. 1-1-38 [?]) the indeclinable status of *taddhitānta* words that do not take all case-endings, citing the Mahābhāṣya on "ekavacanam" and "dvayor dvivacanam" and the sense that a *taddhita* that takes only the singular is an *avyaya*; after an *avyaya* the case-ending is dropped ("avyayād āpsupaḥ," Pā. 2-4-82 [?]); in the Saṃhitā "anyeṣām api dṛśyate" (Pā. 6-3-137 [?]) lengthens the final: *adyā*. **कृणुहि (*kṛṇuhi*)** — root *kṛvi hiṃsākaraṇayoś ca*; *idit*, so *num* (Pā. 7-1-58 [?]); *loṭ*, *sip* → *hi*; "dhinvikṛṇvyor a ca" (Pā. 3-1-80 [?]) gives the *u*-vikaraṇa for *kṛvi* and *dhivi*, with *a* replacing the final *v* — so *kṛṇ* + *u* + *hi* with *a*-loss ("ato lopaḥ," Pā. 6-4-48 [?]); the *guṇa* of the *ṛ* is not made because *sthānivadbhāva* of the dropped *a* (the *laghūpadha-guṇa* is barred); "utaś ca pratyayād asaṃyogapūrvāt" (Pā. 6-4-106 [?]) would drop *hi*, but by "utaś ca pratyayāc chando vā vacanam" (*vārttika*) the loss is optional in the Veda, so *hi* stays; *n* → *ṇ* by "yuvarṇānnasya ṇatvaṃ vācyam" (*vārttika* [?]): *kṛṇuhi*; unaccented ("tiṅ atiṅaḥ," Pā. 8-1-28 [?]). **वीतये (*vītaye*)** — "mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ" (Pā. 3-3-96 [?]): the *ktin* suffix is udātta in the mantra. *(Sūtra numbers read from small print; pointers only.)*
+**मधुमन्तम् (*madhumantam*)** — "phali-pāṭi-nami-mani-janāṃ guk-paṭi-nāki-dhataś ca" (Uṇ. sū. "1-18"): after *phala niṣpattau*, *paṭa gatau* in its *ṇic* form, *ṇama prahvatve śabde*, *mana jñāne* and *janī prādurbhāve* the suffix *u*, which is *nit*; *phal* takes the augment *guk*, and the others, in order, the substitutes *paṭ*, *nāki*, *dh*, *t*: that is the sense of the sūtra. By the maxim "ekāpi ṣaṣṭhī viṣayabhedād bhidyate" — one genitive gives different senses by difference of topic — the genitive connected with *phali* is a genitive of the part for the augment *guk*, while in the other four, where the substitutes *paṭ* etc. are prescribed, it is a genitive of the place; and in the case of the substitutes *dh* and *t* it denotes a substitute for the final of *man* and *jan*. So with *u* after *man*: *man* + *u*, *dh* for the *n*: *madhu*. The suffix being *nit*, *madhu* is initial-udātta by "ñnity ādir nityam" (Pā. 6-1-197); *nit* is carried over from "dhānye nit" (Uṇ. sū. 1-9) into *phali-pāṭi*…. **तनूनपात् (*tanūnapāt*)** — it is a vocative; so the eighth-chapter "āmantritasya ca" (printed "Pā. sū. 1-19" [sic]; the sūtra is 8-1-19) makes it wholly unaccented. **अद्य (*adya*)** — analysed "asmin kāle"; formed irregularly by "sadyaḥ-parut-parāry-aiṣamaḥ-paredyavy-adya…" (Pā. 5-3-22). "idamo 'š dyaś ca": that is, after *idam* in the locative the suffix *dya*, ending in *a*, comes,
+
+### Page 536 — Rik 2 grammar (continued)
+
+and *aś* replaces *idam*: that is the sense of the Bhāṣya sentence. So with *dya* after the locative of *idam*: *idam* + *ṅi* + *dya*; as a *taddhita*-ending it gets the name *prātipadika*; "supo dhātu-prātipadikayoḥ" (printed "24-71" [sic]; the sūtra is 2-4-71) drops the *ṅi*; *aś* replaces *idam*, and being *śit* it replaces the whole: *adya*, final-udātta by the suffix accent. "taddhitaś cāsarvavibhaktiḥ" (Pā. 1-1-38): in *asarvavibhaktiḥ* a bahuvrīhi must be made; there the plural analysis "sarvā vibhaktayo yasmāt na bhavanti saḥ" is not possible. For in the Mahābhāṣya on this very sūtra, breaking up the arrangement of "dvy-ekayor dvivacanaikavacane" (Pā. 1-4-22) and "bahuṣu bahuvacanam" (printed "1-4-21"), the sūtras are rearranged as *ekavacanam*, *dvayor dvivacanam*, *bahuṣu bahuvacanam*, and it is established that the singular comes as the general rule, and the dual and plural set it aside where duality and plurality appear. Here *ekavacanam* yields the sense that the singular comes after stems ending in *ṅī*, *āp* and the *prātipadika*; by this general rule, where duality and plurality do not appear, the singular comes; so whether there is singularity or not, the singular comes. Since in duality and plurality the dual and plural come merely by being prescribed, where duality etc. do not appear the singular arises; so *ekavacanam*, being otherwise useless, teaches that the singular comes even where no sense of object etc. is present. So, after indeclinables, which have no connection with gender and number, the singular, operating without restriction, comes in every case. That is why the use of the *pratyāhāra* in *avyayād āp-supaḥ* is meaningful. In this way all case endings come after an indeclinable. So the plural analysis "sarvā vibhaktayo yasmān na bhavanti" cannot be made; the result is: "sarvā vacanatrayātmikā vibhaktir yasmān notpadyate kintu ekavacanāny evotpadyante sa taddhitāntaḥ avyayasaṃjñako bhavati" — a *taddhita*-ending after which not all case endings in the three numbers arise, but only the singular, takes the name *avyaya*: this is the settled sense of the sūtra. In *adya*, once this sūtra gives the name *avyaya*, the locative singular after it is dropped by "avyayād āp-supaḥ" (Pā. 2-4-82); in the Saṃhitā "anyeṣām api dṛśyate" (printed "7-3-137" [sic], with the same first digit as "7-1-58" below; the sūtra is 6-3-137) lengthens it. **कृणुहि (*kṛṇuhi*)** — root *kṛvi hiṃsākaraṇayoś ca*; *num* by "idito num dhātoḥ" (Pā. 7-1-58): *kṛnv*; *loṭ*, second singular *sip*, replaced by *hi*; in place of the vikaraṇa *śap* the vikaraṇa *u* by "dhinvi-kṛṇvyor a ca"
+
+### Page 537 — Rik 2 grammar closes
+
+(Pā. 3-1-80): after *dhinv* and *kṛṇv*, where *śap* would come, the suffix *u*, and *a* as the substitute for their final; so the *v* becomes *a*: *kṛna* + *u* + *hi*; "ato lopaḥ" (Pā. 6-4-48) drops the *a*; that loss counts as present, so there is no *laghūpadha-guṇa*. Here "utaś ca pratyayād asaṃyogapūrvāt" (Pā. 6-4-106) would drop the *hi*; but by "utaś ca pratyayāc chando vā vacanam" (Pā. 6-4-106-1) the loss of *hi* prescribed by that sūtra is optional in the Veda, so it is not dropped. By "ṛvarṇān nasya ṇatvaṃ vācyam" the *n* becomes *ṇ*: *kṛṇuhi*; wholly unaccented by "tiṅṅ atiṅaḥ" (Pā. 8-1-28). **वीतये (*vītaye*)** — by "mantre vṛṣeṣa-paca-mana-vida-bhū-vīrā udāttaḥ" (Pā. 3-3-96) the suffix *ktin* is udātta.
 
 **॥२॥**
 
