@@ -1,0 +1,63 @@
+# Vol 3 numeral + [?] + accent pass — state
+
+Status: **set up, not started** (Oct 27, 2026). The scheduled task starts this pass when `vol2/vol2_state.md` says "done".
+**Last PDF page done: none.** Next: batch PDF 1–100 (front matter, printed pp. 1–86).
+
+Per-batch detail will go to `review/edits_PDF*.txt` (every numeral read, by box id), `review/notes_PDF*.txt` (what changed),
+and `vol3_pass_log.md` (one entry per batch).
+
+## Reference
+
+**Better scan** (`scans/03 Rigveda Samhitha Volume 03 1.pdf` … `7.pdf`, 100+100+100+100+100+80+80 = 660 PDF pages, uploaded by
+the user Oct 27). Page map, from the page headers (spot checks with a full header read, see below):
+- PDF 1–14: front matter: cover (PDF 1), title pages, dedication, portraits, preface (Bhūmikā, signed 6-10-1949),
+  abbreviations (PDF 10), contents *Viṣayānukramaṇike* (PDF 11–14). The old scan has the same front matter plus a second copy of
+  the cover (its PDF 1–15).
+- PDF 15 = printed p. 1 (the invocation page); **printed = PDF − 14 for PDF 15–500** (PDF 500 = p. 486).
+- **Printed p. 487 is missing** from the better scan; read it from `scans/Rig_Vol3.pdf` PDF 502.
+- **PDF 501 is a second copy of p. 488** (identical to PDF 502): skip it.
+- **printed = PDF − 14 for PDF 502–659** (PDF 659 = p. 645).
+- **Printed p. 646 is missing**; read it from `scans/Rig_Vol3.pdf` PDF 661.
+- PDF 660 = p. 647, the last page (end of Sūkta 32 and of the Second Adhyāya).
+`tools/pages.py` encodes this map (`DUP`, `MISSING`).
+
+**Old scan** `scans/Rig_Vol3.pdf` (Git LFS, 663 PDF pages): printed = PDF − 15; the file's existing text was written from it.
+
+**File layout:** by Ṛk, headings `### Pages A–B — Sūkta N, Rik M` (205 sections), with `*(p. N)*` markers. Sūkta 29 Ṛks 6–7 and
+Sūkta 30 (pp. 452–517): correct the **SUPERSEDING REDO** block near the end; the earlier text for those pages is superseded
+and stays untouched (see the runbook).
+
+Tools: `tools/` (copied from `vol2/tools/` on Oct 27; `cfg.py` = the seven parts, `WORK=/tmp/v3num/`; `pages.py` = the map above
+and the REDO headings; `sam.py` also finds the REDO's `**Saṃhitā-pāṭha**` label).
+
+## Done
+
+| Batch | Printed pp. | What was done |
+|---|---|---|
+| setup (Oct 27) | — | files moved into `vol3/`; paths fixed (`publish/build.py`, `publish/review_all.py`, `.gitattributes`, `CLAUDE.md`); tools copied and set for the seven-part scan; page map checked; runbook written |
+
+## To do
+
+1. Batches PDF 1–100, 101–200, 201–300, 301–400, 401–500 (+ p. 487 from the old scan), 501–600 (skip PDF 501),
+   601–660 (+ p. 646 from the old scan) — steps in `vol3_runbook.md`.
+2. Saṃhitā accents for every Ṛk (none carry them yet; the blocks have notes such as "accent-marks printed; not reproduced").
+3. Bhāṣya passages marked "compressed": re-transcribe from the print as the pages are reached.
+4. Reviewer worklist `publish/review/All_volumes_review_worklist.xlsx`: 1,287 Vol 3 rows (reviewer columns empty, Oct 27);
+   cross-check each batch's pages. Regenerate it (`python3 publish/review_all.py`) after the Vol 3 rebuild.
+5. End of volume: rebuild the print PDF (`cd publish && python3 build.py 3 full`), check no ◌, rebuild the DOCX, write "done" here.
+
+## For the user to decide
+
+- **Superseded text (Sūkta 29 Ṛks 6–7, Sūkta 30):** the unverified first version is still in the file above the REDO block (it
+  is marked superseded, but `publish/build.py` does not skip it. The current print PDF `publish/out/vol3_full.pdf` was built
+  before the REDO existed and prints only the **unverified** version of pp. 452–517; a rebuild as the file stands would print
+  both versions, the unverified one in its normal place and the REDO near the end). Recommended: before the end-of-volume
+  rebuild, remove the superseded text and move the REDO into its place. Not done without the user's word.
+
+## Open readings
+
+*(none yet; numerals and words the print does not settle are listed here by printed page as the batches go.)*
+
+## To be reviewed
+
+*(none yet; "as printed" numbers and [sic] English kept from the print are listed here by printed page.)*
