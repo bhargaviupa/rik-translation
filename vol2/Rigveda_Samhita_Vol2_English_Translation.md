@@ -13924,53 +13924,89 @@ not preceded by a conjunct, takes *yaṇ*; so *yaṇ*. By "ṛvarṇān nasya �
 
 ---
 
-### Pages 659–663 — Sūkta 15, Rik 9
+### Page 659 (lower) — Sūkta 15, Rik 9
+
+*(Saṃhitā accents as printed; Pada unaccented. The print joins नेष्ट्रादृतुभिः.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> द्रविणोदाः पिपीषति जुहोत प्र च तिष्ठत ।
-> नेष्ट्राद्ऋतुभिरिष्यत ॥९॥
+> द्र॒वि॒णो॒दाः पि॑पीषति जु॒होत॒ प्र च॑ तिष्ठत ।
+> ने॒ष्ट्रादृ॒तुभि॑रिष्यत ॥९॥ [accent ?]
 >
-> *draviṇodāḥ pipīṣati juhota pra ca tiṣṭhata |*
-> *neṣṭrād ṛtubhir iṣyata ||9||*
+> *draviṇodā́ḥ pipīṣati juhóta prá ca tiṣṭhata |*
+> *neṣṭrā́d ṛtúbhir iṣyata ||9||* [accent ?]
+
+*(Line 2: the bar under ने and the stroke over भि are clear; the bar under दृ is read from the sequence, the foot of the page being faint.)*
+
+### Page 660 — Rik 9: Pada, bhāṣya, word-meanings
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > द्रविणःऽदाः । पिपीषति । जुहोत । प्र । च । तिष्ठत ॥
 > नेष्ट्रात् । ऋतुऽभिः । इष्यत ॥९॥
 >
-> *draviṇaḥ-dāḥ | pipīṣati | juhota | pra | ca | tiṣṭhata ||*
-> *neṣṭrāt | ṛtu-bhiḥ | iṣyata ||9||*
+> *draviṇaḥ 'dāḥ | pipīṣati | juhota | pra | ca | tiṣṭhata ||*
+> *neṣṭrāt | ṛtu 'bhiḥ | iṣyata ||9||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 660; compressed; [?] marks doubtful readings)*
-
-> द्रविणोदा देव ऋतुभिः सह नेष्ट्रान्नेष्टृसम्बन्धिपात्रात्पिपीषति । सोमं पातुमिच्छति । ततो हे ऋत्विज इष्यत । होमस्थाने गच्छत । गत्वा च जुहोत । हुत्वा प्र तिष्ठत च । होमस्थानात्स्वस्थानान्तरं प्रति प्रस्थानमपि कुरुत ॥ द्रविणोदाः । गतम् । पिपीषति । पा पाने । पातुमिच्छतीति सन् । छान्दस ईकारः । तिङ्ङतिङ इति निघातः । जुहोत । लोण्मध्यमबहुवचनम् । तस्य लङ्वद्भावात्तादेशः । तस्य तप्तनप्तनथनाश्चेति तबादेशः । तस्य पित्त्वाद्गुणः । अभ्यस्तानामादिरित्यनुवृत्तावनुदात्ते च । पा. [६-१-१८९] । इत्याद्युदात्तत्वे प्राप्ते भीह्रीभृहुमदजनधनदरिद्राजागराम् प्रत्ययात्पूर्वं पिति । पा. [६-१-१९२] । इत्योकार उदात्तः । तिष्ठत । ष्ठा गतिनिवृत्तौ । लोण्मध्यमबहुवचनस्य थस्य लङ्वद्भावात्तादेशः । शपि पाघ्रेत्यादिना तिष्ठादेशः । समवप्रविभ्यः स्थः । पा. [१-३-२२] । इत्यात्मनेपदं न भवति । तत्रानुवृत्तस्य निर्दिष्टग्रहणस्यानन्तर्यार्थत्वात् । अत्र चशब्देन व्यवधानात् ते प्रागाङ्कोः । पा. [१-४-८०] । इत्युपसर्गत्वेन प्राक्प्रयोक्तव्यस्यापि प्रशब्दस्य व्यवहिताश्चेति छन्दसि व्यवहितप्रयोगः । अत्र चशब्दो जुहोतेति पूर्वेण सह समुच्चयार्थः । न पुनरिष्यतेत्युत्तरेण । तेनाप्रथमत्वाच्चेनायोगे प्रथमा । पा. [८-१-३६] । इति निषेधाभावात्तिङ्ङतिङ इति निघातः । नेष्ट्रात् । पोत्राद्यज्ञं पुनीतन । ऋग्वेदे [१-१५-२] इत्यत्र पोत्रशब्देन यदुक्तं तदत्र द्रष्टव्यम् । इष्यत । इष गतौ । लोण्मध्यमबहुवचनम् ॥९॥
+> द्रविणोदा देव ऋतुभिः सह नेष्ट्रान्नेष्टृसम्बन्धिपात्रात्पिपीषति । सोमं पातुमिच्छति । ततो हे ऋत्विज इष्यत । होमस्थाने गच्छत । गत्वा च जुहोत । होमं कुरुत । हुत्वा प्र तिष्ठत च । होमस्थानात्स्थानान्तरं प्रति प्रस्थानमपि कुरुत ॥ द्रविणोदाः । गतं । पिपीषति । पा पाने । पातुमिच्छतीति सन् । छान्दस ईकारः । तिङ्ङतिङ इति निघातः । जुहोत । लोण्मध्यमबहुवचनं । तस्य लङ्वद्भावात्तादेशः । तस्य तप्तनप्तनथनाश्चेति तबादेशः । तस्य पित्त्वाद्गुणः । अभ्यस्तानामादिरित्यनुवृत्तावनुदात्ते च । पा. ६-१-१९० । इत्याद्युदात्तत्वे प्राप्ते भीह्रीभृहुमदजनधनदरिद्राजागरां प्रत्ययात्पूर्वं पिति । पा. ६-१-१९२ । इति होकार उदात्तः । तिष्ठत । ष्ठा गतिनिवृत्तौ । लोण्मध्यमबहुवचनस्य थस्य लङ्वद्भावात्तादेशः । शपि पाघ्रेत्यादिना तिष्ठादेशः । समवप्रविभ्यः स्थः । पा. १-३-२२ । इत्यात्मनेपदं न भवति । तत्रानुवृत्तस्य निर्दिष्टग्रहणस्यानन्तर्यार्थत्वात् । अत्र चशब्देन व्यवधानात्ते प्राग्धातोः । पा. १-४-८० । इत्युपसर्गत्वेन प्राक्प्रयोक्तव्यस्यापि प्रशब्दस्य व्यवहिताश्चेति छन्दसि व्यवहितप्रयोगः । अत्र चशब्दो जुहोतेति पूर्वेण सह समुच्चयार्थः । न पुनरिष्यतेत्युत्तरेण । तेनाप्रथमत्वाच्चवायोगे प्रथमा । पा. ८-१-५९ । इति निषेधाभावात्तिङ्ङतिङ इति निघातः । नेष्ट्रात् । पोत्राद्यज्ञं पुनीतन । ऋग्वे. १-१५-२ । इत्यत्र पोत्रशब्देन यदुक्तं तदत्र द्रष्टव्यं । इष्यत । इष गतौ । लोण्मध्यमबहुवचनं ॥
 >
-> *draviṇodā deva ṛtubhiḥ saha neṣṭrān neṣṭṛ-sambandhi-pātrāt pipīṣati | somaṃ pātum icchati | tato he ṛtvija iṣyata | homa-sthāne gacchata | gatvā ca juhota | hutvā pra tiṣṭhata ca | homa-sthānāt sva-sthānāntaraṃ prati prasthānam api kuruta || draviṇodāḥ | gatam | pipīṣati | pā pāne | pātum icchatīti san | chāndasa īkāraḥ | tiṅ ataṅ iti nighātaḥ | juhota | loṇ-madhyama-bahuvacanam | tasya laṅvad-bhāvāt tādeśaḥ | tasya tapta-nap-tana-thanāś ceti tabādeśaḥ | tasya pittvād guṇaḥ | abhyastānām ādir ity anuvṛttāv anudātte ca | pā. [6-1-189] | ity ādyudāttatve prāpte bhī-hrī-bhṛ-hu-mada-jana-dhana-daridrā-jāgarām pratyayāt pūrvaṃ piti | pā. [6-1-192] | ity okāra udāttaḥ | tiṣṭhata | ṣṭhā gati-nivṛttau | loṇ-madhyama-bahuvacanasya thasya laṅvad-bhāvāt tādeśaḥ | śapi pā-ghrety-ādinā tiṣṭhādeśaḥ | sam-ava-pra-vibhyaḥ sthaḥ | pā. [1-3-22] | ity ātmanepadaṃ na bhavati | tatrānuvṛttasya nirdiṣṭa-grahaṇasyānantaryārthatvāt | atra ca-śabdena vyavadhānāt te prāg āṅkoḥ | pā. [1-4-80] | ity upasargatvena prākprayoktavyasyāpi pra-śabdasya vyavahitāś ceti chandasi vyavahita-prayogaḥ | atra ca-śabdo juhoteti pūrveṇa saha samuccayārthaḥ | na punar iṣyatety uttareṇa | tenāprathamatvāc cenāyoge prathamā | pā. [8-1-36] | iti niṣedhābhāvāt tiṅ ataṅ iti nighātaḥ | neṣṭrāt | potrād yajñaṃ punītana | ṛgvede [1-15-2] ity atra potra-śabdena yad uktaṃ tad atra draṣṭavyam | iṣyata | iṣa gatau | loṇ-madhyama-bahuvacanam ||9||*
+> *draviṇodā deva ṛtubhiḥ saha neṣṭrānneṣṭṛsambandhipātrātpipīṣati | somaṃ pātumicchati | tato he ṛtvija iṣyata | homasthāne gacchata | gatvā ca juhota | homaṃ kuruta | hutvā pra tiṣṭhata ca | homasthānātsthānāntaraṃ prati prasthānamapi kuruta || draviṇodāḥ | gataṃ | pipīṣati | pā pāne | pātumicchatīti san | chāndasa īkāraḥ | tiṅṅatiṅa iti nighātaḥ | juhota | loṇmadhyamabahuvacanaṃ | tasya laṅvadbhāvāttādeśaḥ | tasya taptanaptanathanāśceti tabādeśaḥ | tasya pittvādguṇaḥ | abhyastānāmādirityanuvṛttāvanudātte ca | pā. 6-1-190 | ityādyudāttatve prāpte bhīhrībhṛhumadajanadhanadaridrājāgarāṃ pratyayātpūrvaṃ piti | pā. 6-1-192 | iti hokāra udāttaḥ | tiṣṭhata | ṣṭhā gatinivṛttau | loṇmadhyamabahuvacanasya thasya laṅvadbhāvāttādeśaḥ | śapi pāghretyādinā tiṣṭhādeśaḥ | samavapravibhyaḥ sthaḥ | pā. 1-3-22 | ityātmanepadaṃ na bhavati | tatrānuvṛttasya nirdiṣṭagrahaṇasyānantaryārthatvāt | atra caśabdena vyavadhānātte prāgdhātoḥ | pā. 1-4-80 | ityupasargatvena prākprayoktavyasyāpi praśabdasya vyavahitāśceti chandasi vyavahitaprayogaḥ | atra caśabdo juhoteti pūrveṇa saha samuccayārthaḥ | na punariṣyatetyuttareṇa | tenāprathamatvāccavāyoge prathamā | pā. 8-1-59 | iti niṣedhābhāvāttiṅṅatiṅa iti nighātaḥ | neṣṭrāt | potrādyajñaṃ punītana | ṛgve. 1-15-2 | ityatra potraśabdena yaduktaṃ tadatra draṣṭavyaṃ | iṣyata | iṣa gatau | loṇmadhyamabahuvacanaṃ ||*
 
-**Translation:** "The god Draviṇodā, together with the Ṛtus, wishes (*pipīṣati*) to drink from the vessel (*neṣṭrāt*) belonging to the Neṣṭṛ priest. He wishes to drink the soma. Therefore, O priests, go (*iṣyata*) — go to the place of the oblation; having gone, offer the oblation (*juhota*); having offered, depart (*pra tiṣṭhata*) from the oblation-place to another place of your own." The rest is grammar, noted briefly: *pipīṣati* (*pā* "to drink", desiderative *san*, the Vedic long *ī*, the verb unaccented); *juhota* (*loṭ* middle plural, *tas*-substitute, *śap*'s *luk* by *juhotyādibhyaḥ śluḥ*, reduplication, the accent on the *o* before the *pit* suffix by P. 6-1-192); *tiṣṭhata* (*sthā* "to stop going" with *tiṣṭha* by *pāghrādhmā*; P. 1-3-22 *samavapravibhyaḥ sthaḥ*, which would give the middle voice after *pra*, does not apply because the particle *ca* separates *pra* from the verb; the separated use of *pra* [P. 1-4-80, with *vyavahitāś ca* in the Veda]; the *ca* joins *juhota* and *tiṣṭhata*, not *iṣyata*; the verb is not unaccented because it is not the first of the pair and *ca* is connected: P. 8-1-36 *ceda·yoge prathamā*); *neṣṭrāt* (as for *potrāt* in Rik 2); *iṣyata* (*iṣ* "to go", *loṭ* middle plural; the *yan*). *(Grammar, noted briefly; the Pāṇini numbers as read; the standard numbers of 1-3-22, 1-4-80, 8-1-36 [?] agree with those I know.)*
+**Translation:** "The god Draviṇodas, with the Ṛtus, *pipīṣati*, wishes to drink the soma, from the *neṣṭra*, the vessel belonging to the Neṣṭṛ. So, O priests, *iṣyata*, go to the place of the *homa*; having gone, *juhota*, make the *homa*; having made it, *pra tiṣṭhata ca*, also set out from the place of the *homa* to another place." (Grammatical tail: *draviṇodāḥ* gone through; *pipīṣati*, *san* after *pā* 'to drink' in the sense of wishing, the *ī* Vedic, lowered; *juhota*: *loṭ* 2nd plural, *ta* by *laṅvadbhāva*, *tap* for it, *guṇa* (*pit*); the initial udātta of Pā. 6-1-190 is overridden by Pā. 6-1-192, so the *o* is udātta; *tiṣṭhata*: *tiṣṭha* for *sthā*; the *ātmanepada* of Pā. 1-3-22 does not come, the immediate sequence being required there and *ca* intervening; *pra*, which as an *upasarga* should come before the root (Pā. 1-4-80), is used separated in the Veda; *ca* joins *juhota* with what precedes, not with *iṣyata*; so, *tiṣṭhata* not being the first, the bar of Pā. 8-1-59 does not apply and it is lowered; *neṣṭrāt* as said for *potra* at Ṛ. 1-15-2; *iṣyata*, *iṣ* 'to go', *loṭ* 2nd plural.)
 
-**Grammar pages (pp. 661–663), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *draviṇodāḥ* (explained at the Rik 7); *pipīṣati* — *pā* with the desiderative *san* (P. 3-1-7 *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā*), *pā*+*sa* doubled by P. 6-1-9 *sanyaṅoḥ*, the reduplicative vowel shortened by P. 7-4-59 *hrasvaḥ*, *sanyataḥ* P. 7-4-79 giving *i*; *ī* in the Veda; *ṣatva* by P. 8-3-59; verb unaccented by P. 8-1-28. *Juhota* — *hu* "to give, to offer", the *juhotyādi* class, *loṭ*, *tha* → *ta*, *loṭo laṅvat* P. 3-4-85, *tasthasthamipāṃ tāṃtaṃtāmaḥ* P. 3-4-101, *tapta-nap-tana-thanāś ca* P. 7-1-45, *śap* with *śluḥ* P. 2-4-75, doubling by P. 6-1-10 *ślau*, *hu* → *juhu*, the *h* of *hu* → *j* by P. 7-4-62 *kuhoś cuḥ*, the *u* of *hu* → *o* by *guṇa* P. 7-3-84, the *tha* being *pit* by P. 1-2-4 *sārvadhātukam apit* making it *ñit* — hence no guṇa by *kṅiti ca*; the accent by P. 6-1-189 *abhyastānām ādiḥ* superseded by P. 6-1-192 *bhī-hrī-bhṛ-hu-mad-jana-dhana-daridrā-jāgarāṃ pratyayāt pūrvaṃ pit*, the *o* before the *pit*-suffix is accented. *Tiṣṭhata* — *ṣṭhā*, *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *tiṣṭha* for *sthā* by P. 7-3-78; the discussion of P. 1-3-22 *samavapravibhyaḥ sthaḥ* and of the paribhāṣā that a rule stating a case in the fifth is to be applied only when the next item immediately follows (*tasmād ity uttarasya* P. 1-1-67), hence with *ca* intervening no *ātmanepada*; *pra* as an *upasarga* by P. 1-4-59 and P. 1-4-80 *te prāg dhātoḥ* (the Kannada gives the numbers *1-4-80* and *1-4-59* as read), the separated use of *gati*-*upasarga*s allowed in the Veda by *vyavahitāś ca* P. 1-4-82; *ca* joins the first two verbs and not *iṣyata*; the unaccented *tiṅ* after *ca* by *cavāyoge prathamā* P. 8-1-59 [as read]. *Neṣṭrāt* — as for *potrāt* in Rik 15.2 (print: "Ṛ. Saṃ. 1-15-2"). *Iṣyata* — *iṣ* "to go", *divādi* class, *loṭ*, *tha* → *ta*, *loṭo laṅvat*, *tasthasthamipāṃ…* P. 3-4-101 *ta*; *śyan* by P. 3-1-69 *divādibhyaḥ śyan*; wholly unaccented by P. 8-1-28. ॥9॥ *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 660)*
+**द्रविणोदाः (draviṇodāḥ)** — Agni, the giver of wealth | **ऋतुभिः (ṛtubhiḥ)** — with the Ṛtu deities | **नेष्ट्रात् (neṣṭrāt)** — from the Neṣṭṛ's vessel | **पिपीषति (pipīṣati)** — wishes to drink (the soma juice); (so, O priests) | **इष्यत (iṣyata)** — go (to the place of sacrifice) | **जुहोत (juhota)** — make the *homa*; (then) | **प्र तिष्ठत च (pra tiṣṭhata ca)** — leave the place of the *homa* and go back to your own places.
 
-**द्रविणोदाः (draviṇodāḥ)** — Agni, the giver of wealth | **ऋतुभिः (ṛtubhiḥ)** — together with the Ṛtu-deities | **नेष्ट्रात् (neṣṭrāt)** — from the vessel of Neṣṭṛ | **पिपीषति (pipīṣati)** — he wishes to drink (the soma-juice); (therefore, O priests) | **इष्यत (iṣyata)** — go [to the sacrificial place] | **जुहोत (juhota)** — make the oblation, and [afterwards] | **प्र तिष्ठत च (pra tiṣṭhata ca)** — leave the *homa*-place and go to your own places.
+### Page 661 — Rik 9: overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** *(p. 661)*
+**॥ Bhāvārthaḥ ॥**
 
-O priests! Agni, the giver of wealth, who is himself a deity, wishes to drink the soma from the vessel of Neṣṭṛ. Therefore all of you come to the place of sacrifice, make the oblation, and afterwards depart.
+O priests, Agni, the giver of wealth and the self of the gods, looks to drink the soma juice from the Neṣṭṛ's vessel. So all of you come to the place of sacrifice, make the *homa*, and then go out.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Dravinodas desires to drink with the Ritu's from the cup of Neshtri; hasten, priests, present the oblation and depart.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 661)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**पिपीषति (pipīṣati)** — *pā pāne*; *pātum icchati*: he wishes to drink; he desires to drink.
+**Pipīṣati**:
 
-**नेष्ट्रात् (neṣṭrāt)** — the soma-juice from the vessel in the hand of the priest called Neṣṭṛ.
+> पा पाने । पातुमिच्छति ॥
+>
+> *pā pāne | pātumicchati ||*
+
+he looks to drink.
+
+**Neṣṭrāt**: the soma juice from the vessel in the hand of the priest called Neṣṭṛ.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 661–663, noted briefly)*
+
+**द्रविणोदाः (*draviṇodāḥ*)**: explained in the seventh mantra.
+
+**पिपीषति (*pipīṣati*)**: the root *pā pāne*; analysed *pātum icchati*. "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (Pā. sū. 3-1-7): the root *iṣu icchāyām*; after a root expressing an activity that has the same agent as this *iṣ* and is the object of the *iṣ*, the suffix *san* comes in the sense of wishing: that is the sense of the sūtra. Here the one who wishes is Agni; Agni is the agent of *iṣ*; the same Agni is the agent in the activity favourable to contact with the throat, which is the sense of *pā*; so the activity of *pā* has the same agent as the wishing, and this activity is the object of *iṣ*. So *san* comes after *pā*, denoting such an activity, in the sense of wishing: *pā* + *sa*; reduplication by "sanyaṅoḥ" (Pā. sū. 6-1-9): *pā* + *pā* + *sa*; the reduplicate shortened by "hrasvaḥ" (Pā. sū. 7-4-59); *i* for the *a* of the reduplicate by "sanyataḥ" (Pā. sū. 7-4-79): *pipāsati*. Now the *ā* becomes *ī* as a Vedic form. *Ṣ* for the *s* by "ādeśapratyayayoḥ" (Pā. sū. 8-3-59): *pipīṣati*. Wholly unaccented by "tiṅṅatiṅaḥ" ("8-12-28" [as printed, for 8-1-28]).
+
+**जुहोत (*juhota*)**: *hu dānādanayoḥ* (*juhotyādi*); *loṭ*, 2nd plural *tha*; by "loṭo laṅvat" (Pā. sū. 3-4-85) the *laṅvadbhāva*; so
+
+### Page 662 — Rik 9: grammar (continued)
+
+by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101) *ta* for *tha*; *tap* for it by "taptanaptanathanāś ca" (Pā. sū. 7-1-45); the *vikaraṇa* *śap* by "kartari śap", dropped (*ślu*) by "juhotyādibhyaḥ śluḥ" (Pā. sū. 2-4-75); reduplication of the root by "ślau" (Pā. sū. 6-1-10): *hu* + *hu* + *ta*; by "kuhoś cuḥ" (Pā. sū. 7-4-62), for the *h*, closed, with great breath, a *jh* of that kind; by "abhyāse carc ca" (Pā. sū. 8-4-54) *j* for the *jh*: *ju* + *hu* + *ta*. *Tap* is *pit*, so by "sārvadhātukam apit" (Pā. sū. 1-2-4) it is not *ṅit*; so "kṅiti ca" (Pā. sū. 1-1-5) does not bar *guṇa*; *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84): *juhota*. The *sārvadhātuka* *ta* standing for the *lakāra* is *pit*, so unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4). With "abhyastānām ādiḥ" (Pā. sū. 6-1-189) carried on in "anudātte ca" (Pā. sū. 6-1-190), *na vidyate udāttaḥ yasmin saḥ anudāttaḥ, tasmin anudātte*: before an unaccented *sārvadhātuka* in the place of a *lakāra*, the first syllable of a reduplicated stem is udātta; so the initial udātta would come; but overriding it, "bhīhrībhṛhumadajanadhanadaridrājāgarāṃ pratyayāt pūrvaṃ piti" (Pā. sū. 6-1-192): *ñibhī bhaye*, *hrī lajjāyām*, *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *hu dānādanayoḥ*, *madī harṣe* (a *divādi* root, but by a Vedic process *śap* gets *ślu*), *jana janane*, *dhana dhānye*, *daridrā durgatau*, *jāgṛ nidrākṣaye*. *Daridrā* and *jāgṛ* are reduplicated by "jakṣityādayaḥ ṣaṭ" (Pā. sū. "6-1-6" [?]), by which *jakṣ* and the six roots after it are called reduplicated; the others are reduplicated by "ubhe abhyastam" (Pā. sū. "6-1-5" [?]). Before a *pit* *sārvadhātuka* in the place of a *lakāra*, in the roots *bhī* and the rest that are reduplicated, the syllable before the suffix is udātta; so the *o* before the suffix *ta* is udātta.
+
+**तिष्ठत (*tiṣṭhata*)**: the root *ṣṭhā gatinivṛttau*; *s* for the *ṣ* by "dhātvādeḥ ṣaḥ saḥ" (Pā. sū. 6-1-64); with the *ṣṭutva* gone, the *ṭh* reverts: *sthā*. *Loṭ*, 2nd plural *tha*: *sthā* + *tha*; by "loṭo laṅvat" (Pā. sū. 3-4-85) the *laṅvadbhāva*; by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101) *ta* for *tha*; by "kartari śap" (Pā. sū. 3-1-68) *śap*: *sthā* + *a* + *ta*; by "pāghrādhmā…" (Pā. sū. 7-3-78) *tiṣṭha* for *sthā*: *tiṣṭhata*. "samavapravibhyaḥ sthaḥ" (Pā. sū. 1-3-22): after the *upasargas* *sam*, *ava*, *pra*, *vi*, the root *sthā* takes the *ātmanepada* in the place of the *lakāra*; but here, though there is an *upasarga*, the *ātmanepada* does not come, since *samavapravibhyaḥ* is a fifth-case statement. So by "tasmād ity uttarasya" (Pā. sū. 1-1-67), the paribhāṣā
+
+### Page 663 — Rik 9: grammar (end)
+
+means: the operation enjoined in a rule that names a fifth-case form comes for what immediately follows. By this paribhāṣā, the *ātmanepada* is enjoined when *sthā* immediately follows *sam* and the other *upasargas*. Here, in *pra ca tiṣṭhata*, *ca* intervenes between them; so the *ātmanepada* does not come. *Pra* is an *upasarga*; so by "te prāg dhātoḥ" (Pā. sū. 1-4-80) the *gati* and *upasarga* words must be used immediately before the root, and *pra* ought to be used immediately before the root. But by "vyavahitāś ca" (Pā. sū. 1-4-82) in the Veda the *gati* and *upasarga* words may be used separated too; so here *pra* is used separated. Here *ca* conveys the joining with the earlier action: *juhota*, *pratiṣṭhata ca*, "make the *homa*, and having made it go to another place". It does not convey joining with *iṣyata* as *pratiṣṭhata iṣyata ca*. So, with reference to the action joined by *ca*, *tiṣṭhata* is not the first *tiṅanta*. So "cavāyoge prathamā" (Pā. sū. 8-1-59): when joined with *ca* or *vā*, the first *tiṅanta* is not unaccented; this bar does not apply, and by "tiṅṅatiṅaḥ" it is wholly unaccented.
+
+**नेष्ट्रात् (*neṣṭrāt*)**: the derivation must be given here as for the word *potra* in the mantra *potrād yajñaṃ punītana* (Ṛ. Saṃ. 1-15-2).
+
+**इष्यत (*iṣyata*)**: *iṣa gatau* (*divādi*), *loṭ*, 2nd plural *tha*; by "loṭo laṅvat" (Pā. sū. 3-4-85) the *laṅvadbhāva*; by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101) *ta* for *tha*; by "divādibhyaḥ śyan" the *vikaraṇa* *śyan*: *iṣyata*. Wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**॥९॥**
+
+---
 
 ### Pages 663–666 — Sūkta 15, Rik 10
 
