@@ -6596,13 +6596,13 @@ This rik is found in the Sāma Veda **1620**; Atharvaveda **20-39-1**, **20-70-1
 
 **॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta)**
 
-> तृतीये ऽनुवाके चत्वारि सूक्तानि । तत्रेन्द्र सानसिमित्यादिकं प्रथमं दशर्चं सूक्तं सुरूपकृत्नुमित्यादिषु षट्सु [?] पञ्चमम् । ऋष्यादयस्तु पूर्ववत् । विशेषविनियोगस्तु । महाव्रते निष्केवल्य औष्णिहे तृचाशीतिरिति खण्डे शौनकेन सूत्रितम् । सुरूपकृत्नुमूतय इति त्रीण्येन्द्र सानसिं रयिमिति सूक्ते । ऐ. आ. ३-२-३ ॥ इति ॥ अतिरात्रे प्रथमपर्याये ऽच्छावाकशस्त्र इन्द्र सानसिमिति सूक्तम् । सूत्रितं च । इन्द्रमिद्गाथिनो बृहदेन्द्र सानसिम् । आ. ६-४ । इति ॥ दर्शयागे इन्द्रयाजिनः साम्नाय्यानुवाक्या [?] एन्द्र सानसिं रयिमिति । उक्ता देवता इत्यस्मिन्खण्ड एन्द्र सानसिं रयिं प्रसाहिषे पुरुहूत शत्रून् । आ. १-६ । इति सूत्रितम् ॥
+> तृतीये ऽनुवाके चत्वारि सूक्तानि । तत्रेन्द्र सानसिमित्यादिकं प्रथमं दशर्चं सूक्तं सुरूपकृत्नुमित्यादिषु षट्सु पञ्चमम् । ऋष्यादयस्तु पूर्ववत् । विशेषविनियोगस्तु । महाव्रते निष्केवल्य औष्णिहतृचाशीतावेन्द्र सानसिं रयिमित्यादिके द्वे सूक्ते । पञ्चमारण्यक औष्णिहे तृचाशीतिरिति खण्डे शौनकेन सूत्रितम् । सुरूपकृत्नुमूतय इति त्रीण्येन्द्र सानसिं रयिमिति सूक्ते । ऐ. आ. ५-२-५ ॥ इति ॥ अतिरात्रे प्रथमपर्याये ऽच्छावाकशस्त्र इन्द्र सानसिमिति सूक्तम् । सूत्रितं च । इन्द्रमिद्गाथिनो बृहदेन्द्र सानसिम् । आ. ६-४ । इति ॥ दर्शयागे इन्द्रयाजिनः सान्नाय्यस्यानुवाक्यैन्द्र सानसिं रयिमिति । उक्ता देवता इत्यस्मिन्खण्ड एन्द्र सानसिं रयिं प्रसाहिषे पुरुहूत शत्रून् । आ. १-६ । इति सूत्रितम् ॥
 >
-> *tṛtīye 'nuvāke catvāri sūktāni | tatrendra sānasim ity-ādikaṃ prathamaṃ daśarcaṃ sūktaṃ surūpakṛtnum ity-ādiṣu ṣaṭsu [?] pañcamam | ṛṣy-ādayas tu pūrvavat | viśeṣa-viniyogas tu | mahāvrate niṣkevalya auṣṇihe tṛcāśītir iti khaṇḍe śaunakena sūtritam | surūpakṛtnum ūtaya iti trīṇy endra sānasiṃ rayim iti sūkte | ai. ā. 3-2-3 || iti || atirātre prathama-paryāye 'cchāvāka-śastra indra sānasim iti sūktam | sūtritaṃ ca | indram id gāthino bṛhad endra sānasim | ā. 6-4 | iti || darśayāge indrayājinaḥ sāmnāyyānuvākyā [?] endra sānasiṃ rayim iti | uktā devatā ity asmin khaṇḍa endra sānasiṃ rayiṃ prasāhiṣe puruhūta śatrūn | ā. 1-6 | iti sūtritam ||*
+> *tṛtīye 'nuvāke catvāri sūktāni | tatrendra sānasim ity-ādikaṃ prathamaṃ daśarcaṃ sūktaṃ surūpakṛtnum ity-ādiṣu ṣaṭsu pañcamam | ṛṣy-ādayas tu pūrvavat | viśeṣa-viniyogas tu | mahāvrate niṣkevalya auṣṇiha-tṛcāśītāv endra sānasiṃ rayim ity-ādike dve sūkte | pañcamāraṇyaka auṣṇihe tṛcāśītir iti khaṇḍe śaunakena sūtritam | surūpakṛtnum ūtaya iti trīṇy endra sānasiṃ rayim iti sūkte | ai. ā. 5-2-5 || iti || atirātre prathama-paryāye 'cchāvāka-śastra indra sānasim iti sūktam | sūtritaṃ ca | indram id gāthino bṛhad endra sānasim | ā. 6-4 | iti || darśayāge indrayājinaḥ sānnāyyasyānuvākyaindra sānasiṃ rayim iti | uktā devatā ity asmin khaṇḍa endra sānasiṃ rayiṃ prasāhiṣe puruhūta śatrūn | ā. 1-6 | iti sūtritam ||*
 
-**Translation:** "In the third anuvāka there are four sūktas. Of these, the first, the ten-rik sūkta beginning *indra sānasim*, is the fifth among those beginning with *surūpakṛtnum* [the count "among six" is hard to read]. Ṛṣi and the rest are as before. Its **special application:** in the **Mahāvrata**, in the *niṣkevalya* [śastra], Śaunaka lays down in the section "the eighty uṣṇih triplets" (*auṣṇihe tṛcāśītiḥ*) that three [sūktas] beginning *surūpakṛtnum ūtaye* and the two sūktas *ā indra sānasiṃ rayim* [are included] (Aitareya Āraṇyaka 3-2-3). In the **Atirātra**, in the first paryāya, in the Acchāvāka's śastra, the sūkta *ā indra sānasim* is used; so it is laid down: '*indram id gāthino bṛhad, ā indra sānasim*' (Āśvalāyana 6-4). In the **Darśa sacrifice** the Indra-sacrificer's [*sāmnāyya*-]*anuvākyā* is *ā indra sānasiṃ rayim* [the clause is hard to read]; in the section '*uktā devatāḥ*' it is laid down: '*ā indra sānasiṃ rayiṃ, prasāhiṣe puruhūta śatrūn*' (Āśvalāyana 1-6)." *(Reference numbers read from small print.)*
+**Translation:** "In the third anuvāka there are four sūktas. Of these, the first, the ten-rik sūkta beginning *indra sānasim*, is the fifth among the six beginning with *surūpakṛtnum*. Ṛṣi and the rest are as before. Its **special application:** in the **Mahāvrata**, in the *niṣkevalya* [śastra], among the eighty uṣṇih triplets, the two sūktas beginning *ā indra sānasiṃ rayim* [are used]; in the Fifth Āraṇyaka, in the section "*auṣṇihe tṛcāśītiḥ*," Śaunaka lays down: 'the three beginning *surūpakṛtnum ūtaye*, and the two sūktas *ā indra sānasiṃ rayim*' (Aitareya Āraṇyaka 5-2-5). In the **Atirātra**, in the first paryāya, in the Acchāvāka's śastra, the sūkta *ā indra sānasim* is used; so it is laid down: '*indram id gāthino bṛhad, ā indra sānasim*' (Āśvalāyana 6-4). In the **Darśa sacrifice** the *anuvākyā* of the *sānnāyya* for one who sacrifices to Indra is *ā indra sānasiṃ rayim*; in the section '*uktā devatāḥ*' it is laid down: '*ā indra sānasiṃ rayiṃ, prasāhiṣe puruhūta śatrūn*' (Āśvalāyana 1-6)."
 
-**॥ Anuvāda (Kannada rendering) ॥** The sūkta *ā indra sānasim* begins the **third anuvāka**. This anuvāka has four sūktas. The first of them, *ā indra sānasim*, has ten riks; among the sūktas beginning *surūpakṛtnum* it is the fifth. Ṛṣi, deity and meter are as before. Special application: in the **Mahāvrata**, when reciting the *niṣkevalya-śastra* mantras, the two sūktas beginning *ā indra sānasiṃ rayim* are recited among the **eighty uṣṇih triplets**; Śaunaka states in his Sūktānukramaṇī that this is stated in the Aitareya Āraṇyaka (the fifth āraṇyaka; Aitareya Āraṇyaka 3) in the section *auṣṇihe tṛcāśītiḥ*. The Aitareya Brāhmaṇa also says that the three sūktas beginning *surūpakṛtnum ūtaye* and the two beginning *ā indra sānasiṃ rayim* are included in the uṣṇih triplets (Ai. Ā. 3-2-3). Further, in the **Atirātra** rite, in the first paryāya, when the priest called **Acchāvāka** recites the śastra mantras, the sūkta *ā indra sānasim* is to be recited, as Āśvalāyana says in his Śrauta-sūtra (6-4) in the sūtra *indram id gāthino bṛhad, ā indra sānasim*; and in the **Darśa-yāga** the sacrificer of Indra recites the sūkta *ā indra sānasiṃ rayim* for the *sāmnāyya-anuvākyā*. Āśvalāyana says this in the section *uktā devatāḥ* (1-6), where the sūktas *ā indra sānasi rayiṃ* and *prasāhiṣe puruhūta śatrūn* are to be recited. This is the order of application of this sūkta.
+**॥ Anuvāda (Kannada rendering) ॥** The sūkta *ā indra sānasim* begins the **third anuvāka**. This anuvāka has four sūktas. The first of them, *ā indra sānasim*, has ten riks; among the sūktas beginning *surūpakṛtnum* it is the fifth. Ṛṣi, deity and meter are as before. Special application: in the **Mahāvrata**, when reciting the *niṣkevalya-śastra* mantras, the two sūktas beginning *ā indra sānasiṃ rayim* are recited among the **eighty uṣṇih triplets**; Śaunaka states in his Sūktānukramaṇī that this is stated in the Aitareya Āraṇyaka (the fifth āraṇyaka; Aitareya Āraṇyaka 5) in the section *auṣṇihe tṛcāśītiḥ*. The Aitareya Brāhmaṇa also says that the three sūktas beginning *surūpakṛtnum ūtaye* and the two beginning *ā indra sānasiṃ rayim* are included in the uṣṇih triplets (Ai. Ā. 5-2-5). Further, in the **Atirātra** rite, in the first paryāya, when the priest called **Acchāvāka** recites the śastra mantras, the sūkta *ā indra sānasim* is to be recited, as Āśvalāyana says in his Śrauta-sūtra (6-4) in the sūtra *indram id gāthino bṛhad, ā indra sānasim*; and in the **Darśa-yāga** the sacrificer of Indra recites the sūkta *ā indra sānasiṃ rayim* for the *sāmnāyya-anuvākyā*. Āśvalāyana says this in the section *uktā devatāḥ* (1-6), where the sūktas *ā indra sānasi rayiṃ* and *prasāhiṣe puruhūta śatrūn* are to be recited. This is the order of application of this sūkta.
 
 ### Page 303 — Sūkta 8, Rik 1
 
@@ -6610,19 +6610,21 @@ This rik is found in the Sāma Veda **1620**; Atharvaveda **20-39-1**, **20-70-1
 
 **॥ Sūkta — 8 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 3 ॥ Sūkta — 8 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 15, 16 [?] ॥** *(small-print Kannada digits; fits the two-vargas-per-sūkta run, see the note at Sūkta 7)*
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 15, 16 ॥** *(page header "A. 1, A. 1, Va. 15")*
 **॥ Mantras contained in this sūkta: 1–10 ॥**
 **॥ Ṛṣi — Madhucchandā Vaiśvāmitra ॥**
 **॥ Devatā — Indra ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
+*(Saṃhitā accents as printed; Pada unaccented. In the second line the print sets a svarita stroke over "va" of "varṣiṣṭham" (not expected after "saham"), hence [accent ?]; the IAST leaves "varṣiṣṭham" unmarked.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> एन्द्र सानसिं रयिं सजित्वानं सदासहम् ।
-> वर्षिष्ठमूतये भर ॥१॥
+> एन्द्र॑ सान॒सिं र॒यिं स॒जित्वा॑नं सदा॒सहं॑ ।
+> व॑र्षिष्ठमू॒तये॑ भर ॥१॥ [accent ?]
 >
-> *endra sānasiṃ rayiṃ sajitvānaṃ sadāsaham |*
-> *varṣiṣṭham ūtaye bhara ||1||*
+> *éndra sānasíṃ rayíṃ sajítvānaṃ sadāsáhaṃ |*
+> *varṣiṣṭham ūtáye bhara ||1||* [accent ?]
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6634,11 +6636,11 @@ This rik is found in the Sāma Veda **1620**; Atharvaveda **20-39-1**, **20-70-1
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे इन्द्र ऊतये ऽस्मद्रक्षणार्थं रयिं धनमा भर । आहर । कीदृशं रयिम् । सानसिं संभजनीयं सजित्वानं समानशत्रुजयशीलं [?] धनेन हि शूरान्भृत्यान्संपाद्य शत्रवो जीयन्ते । सदासहं सर्वदा शत्रूणामभिभवहेतुं वर्षिष्ठम् अतिशयेन वृद्धं प्रभूतमित्यर्थः ॥
+> हे इन्द्र ऊतये ऽस्मद्रक्षणार्थं रयिं धनमा भर । आहर । कीदृशं रयिम् । सानसिं संभजनीयं सजित्वानं समानशत्रुजयशीलम् । धनेन हि शूरान्भृत्यान्संपाद्य शत्रवो जीयन्ते । सदासहं सर्वदा शत्रूणामभिभवहेतुं वर्षिष्ठम् अतिशयेन वृद्धं प्रभूतमित्यर्थः ॥
 >
-> *he indra ūtaye 'smad-rakṣaṇārthaṃ rayiṃ dhanam ā bhara | āhara | kīdṛśaṃ rayim | sānasiṃ saṃbhajanīyaṃ sajitvānaṃ samāna-śatru-jaya-śīlaṃ [?] dhanena hi śūrān bhṛtyān saṃpādya śatravo jīyante | sadāsahaṃ sarvadā śatrūṇām abhibhava-hetuṃ varṣiṣṭham atiśayena vṛddhaṃ prabhūtam ity arthaḥ ||*
+> *he indra ūtaye 'smad-rakṣaṇārthaṃ rayiṃ dhanam ā bhara | āhara | kīdṛśaṃ rayim | sānasiṃ saṃbhajanīyaṃ sajitvānaṃ samāna-śatru-jaya-śīlam | dhanena hi śūrān bhṛtyān saṃpādya śatravo jīyante | sadāsahaṃ sarvadā śatrūṇām abhibhava-hetuṃ varṣiṣṭham atiśayena vṛddhaṃ prabhūtam ity arthaḥ ||*
 
-**Translation:** "O Indra! For our protection, bring (*ā bhara* — fetch) wealth (*rayim*). What kind of wealth? *Sānasim* — worth enjoying; *sajitvānam* — of a nature to conquer enemies [the exact compound is hard to read]: for with wealth one gathers brave soldiers and servants, and so enemies are conquered; *sadāsaham* — at all times the cause of overpowering enemies; *varṣiṣṭham* — exceedingly grown, abundant."
+**Translation:** "O Indra! For our protection, bring (*ā bhara* — fetch) wealth (*rayim*). What kind of wealth? *Sānasim* — worth enjoying; *sajitvānam* — of a nature to conquer enemies equally (*samāna-śatru-jaya-śīla*): for with wealth one gathers brave soldiers and servants, and so enemies are conquered; *sadāsaham* — at all times the cause of overpowering enemies; *varṣiṣṭham* — exceedingly grown, abundant."
 
 *(The remaining Sanskrit, pp. 303–304, is Sāyaṇa's grammar of* सानसिम्*,* सजित्वानम्*,* सदासहम्*,* वर्षिष्ठम्*,* ऊतये*,* भर*, grammar noted briefly (cost-saving rule); not transcribed. It concerns the suffix* asi *on the root* vana/ṣaṇa *("to enjoy"), the replacement of* samāna *by* sa*, the suffix* kvanip *with the* tuk *augment, the replacement of* vṛddha *by* varṣ *before* iṣṭhan*, the Vedic* ktin *accent of* ūti*, and the root* hṛ *with Vedic* bh *for* h *in* bhara*.)*
 
