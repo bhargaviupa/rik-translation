@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
 Status: in progress (scans present, 5 parts, 822 PDF pages).
-**Last PDF page done: 200 (printed p. 186).** Next run starts at PDF 201.
+**Last PDF page done: 200 (printed p. 186).** Batch PDF 201–300 in progress: done through **PDF 242 (printed p. 230)**; review page built (`review/review_PDF201-300.*`), edits so far in `review/edits_PDF201-300.txt`. Next: PDF 243. Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240).
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
 `vol2/vol2_pass_log.md` (one entry per batch).
