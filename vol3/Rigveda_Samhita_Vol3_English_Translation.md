@@ -3610,61 +3610,131 @@ The deities called Indra and Vāyu have the speed of the mind, are furnished wit
 
 ---
 
-### Pages 154–157 — Sūkta 23, Rik 4
+### Page 154 (lower) — Sūkta 23, Rik 4
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मित्रं वयं हवामहे वरुणं सोमपीतये ।
-> जज्ञाना पूतदक्षसा ॥ ४ ॥
+> मि॒त्रं व॒यं ह॑वामहे॒ वरु॑णं॒ सोम॑पीतये ।
+> ज॒ज्ञा॒ना पू॒तद॑क्षसा ॥४॥
+>
+> *mitráṃ vayáṃ havāmahe váruṇaṃ sómapītaye |*
+> *jajñānā́ pūtádakṣasā ||4||*
 
-*mitraṃ vayaṃ havāmahe varuṇaṃ somapītaye | jajñānā pūtadakṣasā || 4 ||*
+*(Bars under मि, व (वयं), हे and णं; strokes over ह, रु and म (सोम). Line 2: bars under ज, ज्ञा and पू; a stroke over द.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> मित्रम् । वयम् । हवामहे । वरुणम् । सोमऽपीतये ॥ जज्ञाना । पूतऽदक्षसा ॥ ४ ॥
-
-*mitram | vayam | havāmahe | varuṇam | soma-pītaye || jajñānā | pūta-dakṣasā || 4 ||*
+> मित्रं । वयं । हवामहे । वरुणं । सोमऽपीतये ॥
+> जज्ञाना । पूतऽदक्षसा ॥४॥
+>
+> *mitraṃ | vayaṃ | havāmahe | varuṇaṃ | soma 'pītaye ||*
+> *jajñānā | pūta 'dakṣasā ||4||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> चतुर्विंशेऽहनि प्रातःसवने मैत्रावरुणशस्त्रे मित्रं वयं हवामह इति तृचः पदशस्त्रोत्रीयः । चतुर्विंश इति खण्डे सूत्रितम् — आ नो मित्रावरुणा मित्रं वयं हवामहे (आ. ६-३ [?]) इति ॥ अभिप्लवषडहेऽपि प्रातःसवने मैत्रावरुणस्यायं तृचः आवापार्थः । अभिप्लवषडहानीति खण्डे सूत्रितम् — परिशिष्य नाना वापानुद्धृत्य मित्रं वयं हवामहे (आ. ८-५ [?]) इति ॥ मैत्रावरुणस्य मित्रं वयं हवामह इत्येषा प्रातःसवने प्रस्थितयाज्या । प्रशास्ता ब्राह्मणाच्छंसीत्युपक्रम्येदं ते सौम्यं मधु मित्रं वयं हवामहे (आ. ३-८ [?]) इति सूत्रितम् ॥
+*(Numbers as printed: आ० ७-२, ७-५, ५-५; उ० ३-५३; पा० ३-२-१०५, ३-२-१०६, ६-४-९८, ८-४-४०, ७-२-११.)*
+
+> चतुर्विंशकेऽहनि प्रातःसवने मैत्रावरुणशस्त्रे मित्रं वयं हवामह इति तृचः षडहस्तोत्रियः । चतुर्विंश इति खण्डे सूत्रितं । आ नो मित्रावरुणा मित्रं वयं हवामहे । आ० ७-२ । इति ॥ अभिप्लवषडहेऽपि प्रातःसवने मैत्रावरुणस्यायं तृच आवापार्थः । अभिप्लवपृष्ठ्याहानीति खण्डे सूत्रितं । परिशिष्टानावापानुद्धृत्य मित्रं वयं हवामहे । आ० ७-५ । इति ॥ मैत्रावरुणस्य मित्रं वयं हवामह इत्येषा प्रातःसवने प्रस्थितयाज्या । प्रशास्ता ब्राह्मणाच्छंसीत्युपक्रम्येदं ते सौम्यं मधु मित्रं वयं हवामहे । आ० ५-५ । इति सूत्रितं ॥
 >
-> वयमनुष्ठातारः सोमपीतये सोमपानार्थं मित्रं वरुणं चोभावाह्वयामः । कीदृशावुभौ । जज्ञाना कर्मप्रदेशे प्रादुर्भवन्तौ पूतदक्षसा शुद्धबलौ ॥ वरुणम् । वृञ् वरणे । कृवृदारिभ्य उनन् (उ. [३-५३] [?]) । नित्त्वादाद्युदात्तः । सोमपीतये । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । जज्ञाना । जनी प्रादुर्भावे । छन्दसि लिट् (पा. ३-२-१०५) । तस्य लिटः कानज्वा (पा. ३-२-१०६) इति कानजादेशः । गमहनेत्यादिना (पा. ६-४-९८) उपधालोपः । तस्याचः परस्मिन्निति स्थानिवद्भावाज्जनशब्दस्य द्विर्वचनम् । स्नोः श्चुना श्चुः (पा. ८-४-४०) इति नकारस्य ञकारः । चित इत्यन्तोदात्तत्वम् । पूर्ववदाकारः । पूतदक्षसा । पूञ् पवने । निष्ठेति क्तः । श्र्युकः किति इतीट्प्रतिषेधः । पूतं दक्षो ययोस्तौ । बहुव्रीहौ प्रकृत्येति पूर्वपदप्रकृतिस्वरत्वम् ॥
+> *caturviṃśake 'hani prātaḥsavane maitrāvaruṇaśastre mitraṃ vayaṃ havāmaha iti tṛcaḥ ṣaḍahastotriyaḥ | caturviṃśa iti khaṇḍe sūtritaṃ | ā no mitrāvaruṇā mitraṃ vayaṃ havāmahe | ā0 7-2 | iti || abhiplavaṣaḍahe 'pi prātaḥsavane maitrāvaruṇasyāyaṃ tṛca āvāpārthaḥ | abhiplavapṛṣṭhyāhānīti khaṇḍe sūtritaṃ | pariśiṣṭānāvāpānuddhṛtya mitraṃ vayaṃ havāmahe | ā0 7-5 | iti || maitrāvaruṇasya mitraṃ vayaṃ havāmaha ityeṣā prātaḥsavane prasthitayājyā | praśāstā brāhmaṇācchaṃsītyupakramyedaṃ te saumyaṃ madhu mitraṃ vayaṃ havāmahe | ā0 5-5 | iti sūtritaṃ ||*
 
-*caturviṃśe 'hani prātaḥsavane maitrāvaruṇaśastre mitraṃ vayaṃ havāmaha iti tṛcaḥ padaśastrotrīyaḥ | caturviṃśa iti khaṇḍe sūtritam — ā no mitrāvaruṇā mitraṃ vayaṃ havāmahe (ā. 6-3 [?]) iti || abhiplavaṣaḍahe 'pi prātaḥsavane maitrāvaruṇasyāyaṃ tṛcaḥ āvāpārthaḥ | abhiplavaṣaḍahānīti khaṇḍe sūtritam — pariśiṣya nānā vāpān uddhṛtya mitraṃ vayaṃ havāmahe (ā. 8-5 [?]) iti || maitrāvaruṇasya mitraṃ vayaṃ havāmaha ity eṣā prātaḥsavane prasthitayājyā | praśāstā brāhmaṇācchaṃsīty upakramyedaṃ te saumyaṃ madhu mitraṃ vayaṃ havāmahe (ā. 3-8 [?]) iti sūtritam ||*
-*vayam anuṣṭhātāraḥ somapītaye somapānārthaṃ mitraṃ varuṇaṃ cobhāv āhvayāmaḥ | kīdṛśāv ubhau | jajñānā karmapradeśe prādurbhavantau pūtadakṣasā śuddhabalau || varuṇam | vṛñ varaṇe | kṛvṛdāribhya unan (u. [3-53] [?]) | nittvād ādyudāttaḥ | somapītaye | dāsībhārādittvāt pūrvapadaprakṛtisvaratvam | jajñānā | janī prādurbhāve | chandasi liṭ (pā. 3-2-105) | tasya liṭaḥ kānaj vā (pā. 3-2-106) iti kānajādeśaḥ | gamahanety ādinā (pā. 6-4-98) upadhālopaḥ | tasyācaḥ parasminn iti sthānivadbhāvāj janaśabdasya dvirvacanam | snoḥ ścunā ścuḥ (pā. 8-4-40) iti nakārasya ñakāraḥ | cita ity antodāttatvam | pūrvavad ākāraḥ | pūtadakṣasā | pūñ pavane | niṣṭheti ktaḥ | śryukaḥ kiti itīṭpratiṣedhaḥ | pūtaṃ dakṣo yayos tau | bahuvrīhau prakṛtyeti pūrvapadaprakṛtisvaratvam ||*
+### Page 155 — Rik 4: bhāṣya, word-meanings, overall sense, English
 
-**Translation:** "On the twenty-fourth day [of the Soma-sacrifice], at the morning pressing, in the *Maitrāvaruṇa-śastra*, the *tṛca* beginning *mitraṃ vayaṃ havāmahe* is a *padaśastrotrīya*; so it is laid down in the section *caturviṃśa*: '*ā no mitrāvaruṇā*, *mitraṃ vayaṃ havāmahe*' (Āś. [6-3] [?]). In the Abhiplava-ṣaḍaha too, at the morning pressing, this *tṛca* is for the *āvāpa* [insertion] of the Maitrāvaruṇa [priest] — in the section *abhiplavaṣaḍahāni*: 'having left aside the *vāpas*, … *mitraṃ vayaṃ havāmahe*' (Āś. [8-5] [?]). As the *prasthita-yājyā* of the Maitrāvaruṇa at the morning pressing, this rik *mitraṃ vayaṃ havāmahe* is used; the *Praśāstṛ* … *idaṃ te saumyaṃ madhu mitraṃ vayaṃ havāmahe* (Āś. [3-8] [?]). We, the performers, invoke both Mitra and Varuṇa for the drinking of soma. What are those two like? *Jajñānā*: manifest at the place of the rite; *pūtadakṣasā*: of pure strength." *(Grammar pages 157–159, noted briefly: the words treated are* varuṇam *[*vṛñ varaṇe* + *unan*, Uṇ. [3-53] *kṛvṛdāribhya unan*; *nit*, first syllable acute; guṇa, *raparatva*],* somapītaye *[*dāsībhārādi*-class, P. 6-2-42; accent of the first member],* jajñānā *[*janī prādurbhāve*, *liṭ* in the Veda by P. 3-2-105 and *kānac* for *liṭ* optionally by P. 3-2-106; the loss of the penultimate by P. 6-4-98 *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*; reduplication; a long discussion of whether P. 1-1-57 *acaḥ parasmin pūrvavidhau* blocks the doubling (sthānivadbhāva) — the author of the *Kāśikā* and *Nyāsa* are mentioned; P. 6-1-8, 8-4-40 *stoḥ ścunā ścuḥ* (n → ñ); the accent of the *cit*-suffix: final acute],* pūtadakṣasā *[*pūñ pavane* + *kta* by P. 3-2-102; no *iṭ* by the rule *śryukaḥ kiti* P. 7-2-11 *śryukaḥ kiti*; the *bahuvrīhi* P. 6-2-1 gives the first member's accent; *asic* in *dakṣa* — *dakṣa* + *as*]; numerals as read, pointers only.)*
+**Translation (application):** "On the *caturviṃśa* day, at the morning pressing, at the *maitrāvaruṇa-śastra*, the tṛca *mitraṃ vayaṃ havāmahe* is the *ṣaḍaha-stotriya*; it is laid down in the section *caturviṃśe*: '*ā no mitrāvaruṇā*, *mitraṃ vayaṃ havāmahe*' (Āśv. 7-2). In the *abhiplava ṣaḍaha* too, at the morning pressing, this tṛca of the *maitrāvaruṇa* is for insertion; it is laid down in the section *abhiplavapṛṣṭhyāhāni*: 'having taken out the remaining insertions, *mitraṃ vayaṃ havāmahe*' (Āśv. 7-5). This ṛk *mitraṃ vayaṃ havāmahe* is the *prasthita-yājyā* of the *maitrāvaruṇa* at the morning pressing: beginning *praśāstā brāhmaṇācchaṃsī*, it is laid down: '*idaṃ te saumyaṃ madhu*, *mitraṃ vayaṃ havāmahe*' (Āśv. 5-5)."
 
-**॥ Prati-padārthaḥ ॥** **वयम् (vayam)** — we [performing the sacrifice] | **जज्ञाना (jajñānā)** — manifest [in the sacrificial ground] | **पूतदक्षसा (pūtadakṣasā)** — of pure strength | **मित्रम् (mitram)** — the deity named Mitra | **वरुणम् (varuṇam)** — the deity named Varuṇa | **सोमपीतये (somapītaye)** — to drink soma | **हवामहे (havāmahe)** — we invoke.
+> वयमनुष्ठातारः सोमपीतये सोमपानार्थं मित्रं वरुणं चोभावाह्वयामः । कीदृशावुभौ । जज्ञाना कर्मप्रदेशे प्रादुर्भवन्तौ पूतदक्षसा शुद्धबलौ ॥ वरुणं । वृञ् वरणे । कॄवृदारिभ्य उनन् । उ० ३-५३ । नित्त्वादाद्युदात्तः । सोमपीतये । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं । जज्ञाना । जनी प्रादुर्भावे । छन्दसि लिट् । पा० ३-२-१०५ । तस्य लिटः कानज्वा । पा० ३-२-१०६ । इति कानजादेशः । गमहनेत्यादिना । पा० ६-४-९८ । उपधालोपः । तस्याचः परस्मिन्निति स्थानिवद्भावाज्जनशब्दस्य द्विर्वचनं । स्तोः श्चुना श्चुः । पा० ८-४-४० । इति नकारस्य ञकारः । चित इत्यन्तोदात्तत्वं । पूर्ववदाकारः । पूतदक्षसा । पूञ् पवने । निष्ठेति क्तः । श्र्युकः किति । पा० ७-२-११ । इतीट्प्रतिषेधः । पूतं दक्षो ययोस्तौ । बहुव्रीहौ प्रकृत्येति पूर्वपदप्रकृतिस्वरत्वं ॥
+>
+> *vayamanuṣṭhātāraḥ somapītaye somapānārthaṃ mitraṃ varuṇaṃ cobhāvāhvayāmaḥ | kīdṛśāvubhau | jajñānā karmapradeśe prādurbhavantau pūtadakṣasā śuddhabalau || varuṇaṃ | vṛñ varaṇe | kṝvṛdāribhya unan | u0 3-53 | nittvādādyudāttaḥ | somapītaye | dāsībhārāditvātpūrvapadaprakṛtisvaratvaṃ | jajñānā | janī prādurbhāve | chandasi liṭ | pā0 3-2-105 | tasya liṭaḥ kānajvā | pā0 3-2-106 | iti kānajādeśaḥ | gamahanetyādinā | pā0 6-4-98 | upadhālopaḥ | tasyācaḥ parasminniti sthānivadbhāvājjanaśabdasya dvirvacanaṃ | stoḥ ścunā ścuḥ | pā0 8-4-40 | iti nakārasya ñakāraḥ | cita ityantodāttatvaṃ | pūrvavadākāraḥ | pūtadakṣasā | pūñ pavane | niṣṭheti ktaḥ | śryukaḥ kiti | pā0 7-2-11 | itīṭpratiṣedhaḥ | pūtaṃ dakṣo yayostau | bahuvrīhau prakṛtyeti pūrvapadaprakṛtisvaratvaṃ ||*
 
-**॥ Bhāvārthaḥ ॥** We call, for the drinking of soma, the deities Mitra and Varuṇa, who are manifest at the sacrificial ground and endowed with pure strength.
+**Translation:** "We, the performers, call both Mitra and Varuṇa *somapītaye*, for drinking soma. Of what kind are both? *Jajñānā*, appearing at the place of the rite; *pūtadakṣasā*, of pure strength." (Grammatical tail: *varuṇam*, *vṛñ varaṇe*, *unan* by *kṝvṛdāribhya unan* (U. 3-53), initial udātta as *nit*; *somapītaye*, the first member's accent as of the *dāsībhārādi* class; *jajñānā*, *janī prādurbhāve*, *liṭ* in the Veda (Pā. 3-2-105), the substitute *kānac* for it (Pā. 3-2-106), the penultimate dropped by *gamahana…* (Pā. 6-4-98); by *sthānivadbhāva* under *acaḥ parasmin*, reduplication of *jana*; *ñ* for the *n* by *stoḥ ścunā ścuḥ* (Pā. 8-4-40); final udātta by *citaḥ*; the *ā* as before; *pūtadakṣasā*, *pūñ pavane*, *kta* by *niṣṭhā*, *iṭ* barred by *śryukaḥ kiti* (Pā. 7-2-11); 'whose strength is pure'; the first member's accent by *bahuvrīhau prakṛtyā…*.)
+
+**॥ Prati-padārthaḥ ॥**
+
+**वयं (vayaṃ)** — we (who perform the sacrifice) | **जज्ञाना (jajñānā)** — being born (in the sacrificial ground), that is, becoming visible | **पूतदक्षसा (pūtadakṣasā)** — having pure strength | **मित्रं (mitraṃ)** — the deity Mitra | **वरुणं (varuṇaṃ)** — and the deity Varuṇa | **सोमपीतये (somapītaye)** — for drinking soma | **हवामहे (havāmahe)** — we call.
+
+**॥ Bhāvārthaḥ ॥**
+
+We call to drink soma the deities Mitra and Varuṇa, who become visible in the sacrificial ground and are furnished with pure strength.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > We invoke Mitra and Varuna, present (at our Sacrifice) and of pure strength that they may drink Soma.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 155–157)* **Application.** The commentator states the application of this mantra thus: on the twenty-fourth day [of the *ṣaḍaha*], at the morning pressing, in reciting the *Maitrāvaruṇa-śastra* mantras, the *tṛca* beginning *mitraṃ vayaṃ havāmahe* is to be used for the *ṣaḍaha-stotriya* mantras; in Āśvalāyana's Śrauta-sūtra, in the section *caturviṃśe*, it is said that the riks *ā no mitrāvaruṇā* (Ṛ. Saṃ. [3-62-?]) and *mitraṃ vayaṃ havāmahe* (Ṛ. Saṃ. 1-23-4) are to be used. In the Abhiplava-ṣaḍaha too, for the *Maitrāvaruṇa-stotra* at the morning pressing together [with the *prātaḥsavana*], this *tṛca* is to be used, as stated in the section *abhiplavaṣaḍahāni* by the sūtra *pariśiṣyānnānāvāpān uddhṛtya mitraṃ vayaṃ havāmahe* (Āś. [8-5]). And in the *homa* and other rites connected with Mitra and Varuṇa, at the morning pressing this rik *mitraṃ vayaṃ havāmahe* is to be used as the *yājyā* mantra, as stated in the section *brāhmaṇācchaṃsī* of Āśvalāyana's Śrauta-sūtra, in the sūtra *idaṃ te saumyaṃ madhu* (Ṛ. Saṃ. [8-?-?]) *mitraṃ vayaṃ havāmahe* (Ṛ. Saṃ. 1-23-4).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**मित्रम्** — the deity Mitra. Ordinarily the two deities Mitra and Varuṇa are invited together; but though that is the main practice, it is also seen that they are separately named and praised on many occasions. On the word *mitra* Yāska's explanation is as follows:
+On the application of this mantra the commentator has said thus. On the twenty-fourth day, at the time of the morning pressing, when reciting the *maitrāvaruṇa-śastra* mantras, for the *ṣaḍaha-stotriya* mantras —
 
-> मित्रः । मित्रे प्रमीतेस्त्रायते (नि. [१०-२१] [?])
+### Page 156 — Rik 4: Special Topics (continued)
 
-*mitraḥ | mitre pramīter trāyate* — "Mitra: from *pra-mī* 'to die' and *trai* 'to protect'" — Mitra is so called because he protects [those in danger of death]; that is, he protects all the worlds by giving rain. And:
+— the tṛca *mitraṃ vayaṃ havāmahe* is to be recited: so it is said in the section *caturviṃśe* of the Āśvalāyana Śrautasūtra, that the ṛks *ā no mitrāvaruṇā* (Ṛ. Saṃ. 3-62-16) and *mitraṃ vayaṃ havāmahe* (Ṛ. Saṃ. 1-23-4) are to be recited. In the rite called *abhiplava ṣaḍaha* too, at the time of the morning pressing, this tṛca is to be recited for the insertion of the *maitrāvaruṇa* hymns: this is set out in the section *abhiplavapṛṣṭhyāhāni* by the sūtra *pariśiṣṭān āvāpān uddhṛtya mitraṃ vayaṃ havāmahe* (Ā. 7-5). And in the offerings and the like connected with Mitra-Varuṇa, at the time of the morning pressing, this ṛk *mitraṃ vayaṃ havāmahe* is to be used as the *yājyā* mantra: this is set out in the Āśvalāyana Śrautasūtra, in the section *brāhmaṇācchaṃsī*, by the sūtra *idaṃ te saumyaṃ madhu* (Ṛ. Saṃ. 8-65-8) *mitraṃ vayaṃ havāmahe* (Ṛ. Saṃ. 1-23-4).
 
-> सं मिन्वानो द्रवतीति वा ॥
+**मित्रं (mitraṃ)** — the deity named Mitra. Though calling the deities Mitra and Varuṇa together is in especially common use, on many occasions they are seen to be named and praised separately too. Yāska's explanation of the word *mitra* is as follows —
 
-*saṃ minvāno dravatīti vā* — "or because he flows (*dravati*) [pouring] together (*saṃ minvānaḥ*)" — in every place he makes the world moist by giving water. And:
+> मित्रः । मित्रः प्रमीतेस्त्रायते ॥
+>
+> *mitraḥ | mitraḥ pramītestrāyate ||*
 
-> मेदयतेर्वा ॥ (मेदयते — स्नेहार्थस्य)
+*Pramīteḥ* — from death; *trāyate* — because he protects, he is named Mitra. Because he causes rain for all the worlds and protects them, he has the name Mitra.
 
-*medayater vā* — "or from *medayati*, 'he makes unctuous'" — because he makes all things moist with water; hence Mitra. After giving this explanation, in order to illustrate that Mitra protects the earth, the author cites:
+> संमिन्वानो द्रवतीति वा ॥
+>
+> *saṃminvāno dravatīti vā ||*
 
-> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् । मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं घृतवज्जुहोत ॥ (ऋ. सं. ३-५९-१)
+Because he causes rain everywhere and makes the world liquid with water, he is named Mitra.
 
-*mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīm uta dyām | mitraḥ kṛṣṭīr animiṣābhi caṣṭe mitrāya havyaṃ ghṛtavaj juhota ||* — "Mitra, speaking, sets men to work; Mitra has upheld the earth and the sky; Mitra looks upon the peoples with unwinking eye; to Mitra offer the oblation with ghee." *(my gloss, tentative)* (Ni. [10-22] [?])
+> मेदयतेर्वा ॥
+>
+> *medayatervā ||*
 
-**वरुणः** — on the meaning of *varuṇa* too, [the Nirukta] gives the explanation *vṛṇoti iti sataḥ*: 'he covers the *antarikṣa* with a net of clouds', hence the name Varuṇa (Ni. [10-5] [?]). **जज्ञाना** — those born; that is, manifest at the sacrificial altar, visible to the praisers. **पूतदक्षसा** — *pūta* means pure, abundant; *dakṣa* means strength: those with abundant strength — those with extraordinary capacity.
+*Medayate* — *snehārthasya*: because he makes everything moist (unctuous) with water, he is named Mitra. Having explained it thus, as an example of Mitra's protecting the earth —
+
+> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्यां । मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं घृतवज्जुहोत ॥ (ऋ० सं० ३-५९-१)
+>
+> *mitro janānyātayati bruvāṇo mitro dādhāra pṛthivīmuta dyāṃ | mitraḥ kṛṣṭīranimiṣābhi caṣṭe mitrāya havyaṃ ghṛtavajjuhota || (ṛ0 saṃ0 3-59-1)*
+
+— he has given this ṛk (Ni. 10-22).
+
+**वरुणः (varuṇaḥ)** — on the meaning of the word *varuṇa* too, *vṛṇotīti sataḥ*, he has given the explanation that he is named Varuṇa because he covers the mid-air with the net of clouds (Ni. 10-3).
+
+**जज्ञाना (jajñānā)** — born, that is, manifested in the sacrificial ground, visible to the people who make hymns: this is the meaning.
+
+### Page 157 — Rik 4: Special Topics (end), grammar
+
+**पूतदक्षसा (pūtadakṣasā)** — *pūta* means pure, abundant; *dakṣa* means strength. The meaning is: very strong, of great power.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**वरुणं (varuṇaṃ)** — by *kṝvṛdāribhya unan* (U. Sū. 3-53) — after *kṝ vikṣepe*, *vṛñ varaṇe* and *dṝ vidāraṇe* in the causative, *unan* comes — the suffix *unan*: *vṛ* + *una*, *guṇa* followed by *r*: it becomes *varuṇa*. Since in the following sūtra there is *tṝreś ca lo vā*, the mention of *tṝ* in this sūtra is unnecessary. The suffix is *nit*, so by the *nit* accent the word *varuṇa* is initially udātta.
+
+**सोमपीतये (somapītaye)** — by *artistusu…* (U. Sū. 1-137), after the root *ṣuñ abhiṣave*, the suffix *man* and *guṇa* come: it becomes *soma*; this is initially udātta by the *nit* accent. For the *śeṣānudātta*, by *udāttād anudāttasya* the svarita comes. The analysis is *somasya pītiḥ*; yet after compounding, by *kurugārhapata… dāsībhārāṇāṃ ca* (Pā. Sū. 6-2-42) the first member's own accent alone comes.
+
+**जज्ञाना (jajñānā)** — the root *janī prādurbhāve*; after it *chandasi liṭ* (Pā. Sū. 3-2-105) — in the Veda, in the general past sense, *liṭ* comes after a root — so *liṭ*; in its place, by *liṭaḥ kānaj vā* (Pā. Sū. 3-2-106) — in the Veda the substitute *kānac* comes optionally in place of *liṭ* — the substitute *kānac*: *jan* + *āna*. Now by *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* (Pā. Sū. 6-4-98) — when a vowel-initial suffix other than *aṅ*, that is *kit* or *ṅit*, follows, the penultimate letter of the roots *gam* and the rest is dropped — the *a* of *jan* is dropped: *j* + *n* + *āna*. *Dvirvacane 'ci* (Pā. Sū. 1-1-59): the word division is *dvirvacane*, *aci*; by the maxim *yaṃ vinā yan nopapadyate tat tenākṣipyate*, *pratyaye* is implied. The grammarians of the *nyāsa* and other works describe that from *acaḥ parasmin pūrvavidhau*, *parasmin* is carried on. *Dvirvacane* is with the analysis *dvirvacanam asyāsti iti dvirvacanam, tasmin* [*dvirvacane*]; this is a qualifier of *pratyaye*, and *aci* is a qualifier of *pratyaye*. So by *yasmin vidhis tadādāv algrahaṇe* (Paribhā. 32) the 'beginning with it' is obtained; so the sense of the sūtra results: when a vowel-initial suffix that causes reduplication follows without the intervention of another suffix, a substitute in place of a vowel takes the form of the original when making the reduplication. So even with the intervention of one letter this sūtra applies. This part is clear in the present *Sūtrakaustubha*, in the passage beginning *vastutas tu dvirvacanākṣiptaḥ*. *Pratyaye* is a locative of cause; likewise, if the meaning intended is *ca dvitvanimittabhūtājādipratyayanimittakaḥ acsthānikaḥ ādeśaḥ sthānivadrūpaṃ labhate*, then after the penultimate is dropped, the vowel-initial suffix *āna* that causes reduplication —
+
+> यं विना यन्नोपपद्यते तत्तेनाक्षिप्यते ।
+> वस्तुतस्तु द्विर्वचनाक्षिप्तः ।
+>
+> *yaṃ vinā yannopapadyate tattenākṣipyate |*
+> *vastutastu dvirvacanākṣiptaḥ |*
+
+### Page 158 — Rik 4: grammar (continued)
+
+— causes the dropping of the penultimate, and *sthānivadbhāva* comes for it; but for the forms like *cakratuḥ* to be established, causation must be accepted even by the mere fact of being about to be. The Mahābhāṣya on 1-1-59 says:
+
+> कानि पुनरस्य प्रयोजनानि । पपतुः पपुः । तस्थतुः तस्थुः । जग्मतुः जग्मुः । आटिटत् आशिशत् । चक्रतुः चक्रुरिति । आल्लोपोपधालोपणिलोपयणादेशेष्वनच्कत्वाद्द्विर्वचनं न प्राप्नोतीति ॥
+>
+> *kāni punarasya prayojanāni | papatuḥ papuḥ | tasthatuḥ tasthuḥ | jagmatuḥ jagmuḥ | āṭiṭat āśiśat | cakratuḥ cakruriti | āllopopadhālopaṇilopayaṇādeśeṣvanackatvāddvirvacanaṃ na prāpnotīti ||*
+
+— by this too, even with the intervention of one letter, the present sūtra applies. Thus, the substitution of the form of the original having come, it is as if *jan* were there. Now by *liṭi dhātor anabhyāsasya* (Pā. Sū. 6-1-8) reduplication: *jan* – *j* + *n* – *āna*. Though at the time of making the reduplication the extension of form comes, after reduplication this extension does not remain; so the penultimate is not heard; the reduplication comes both for the vowel that is the original and for the consonants before and after it; so this is neither a rule for what precedes the vowel that is the original, nor a rule for what follows the vowel that is the original. So here *sthānivadbhāva* cannot come by *acaḥ parasmin pūrvavidhau* (Pā. Sū. 1-1-57). On the occasion of explaining this sūtra, the author of the *Kaiyaṭa* —
+
+> अचः परस्मिन्नित्यत्र योऽनादिष्टादचः पूर्व इति स्थितम् । साच्कस्य च द्विर्वचनमिति पूर्वविधित्वाभावादप्राप्तं स्थानिवत्त्वं विधीयते ।
+>
+> *acaḥ parasminnityatra yo 'nādiṣṭādacaḥ pūrva iti sthitam | sāckasya ca dvirvacanamiti pūrvavidhitvābhāvādaprāptaṃ sthānivattvaṃ vidhīyate |*
+
+— has set out that "in *acaḥ parasmin*, it is settled that [what is meant is] what precedes a vowel that is not a substitute; and as for the reduplication of what has a vowel, since it is not a rule about what precedes, *sthānivattva*, which would not be obtained, is laid down". The author of the *Uddyota* too says that though in *na padānta dvirvacana vare…* (Pā. Sū. 1-1-58) the word *dvirvacana* takes in the reduplication of the sixth book, so that when making the reduplication of what has a vowel there is no prohibition of *sthānivadbhāva*, yet in *acaḥ parasmin* the meaning *nimittabhūtācaḥ pūrvasya kārye kartavye* is not established by the Bhāṣya; rather the meaning arises just as we showed before; so he describes that *acaḥ parasmin* does not come here. In the *Śekhara*, on the occasion of explaining the present sūtra, *sāny acaḥ pūrvatvena dṛṣṭasyaiva cakre ity ādau kāryābhāvāt acaḥ parasminn ity anenāsiddher idam ārabdham*: likewise in the present Veda commentary, if the statement *tasya acaḥ parasminn iti sthānivadbhāvāj janaśabdasya dvirvacanam* is to be made right, then after *acaḥ parasmin*, *ity ataḥ parasmin ity anuvṛttau dvirvacane 'ci* must be added. Otherwise it is not right. Even if *dvirvacane 'ci* is explained as meaning that, when making the reduplication, if a vowel-initial suffix causing reduplication follows without the intervention of another suffix, a substitute does not come in place of a vowel, first the reduplication of the word *jana*: *jana* + *jana* + *ā*; now by the sūtra *gamahana…* the penultimate is dropped. For the *n* in the reduplicate, by *halādiḥ śeṣaḥ* (Pā. Sū. 7-4-60), removal: *ja* + *j* + *n* + *āna*. By *stoḥ ścunā ścuḥ* (Pā. Sū. 8-4-40) — if *s* and the dental row are in contact with *ś* and the palatal row, *ś* and the palatal row come in order for *s* and the dental row — since the *n* is in contact with *j*, *ñ* comes. Thus it becomes *jajñāna*; *śānac* [as printed] being *cit*, by *citaḥ* (Pā. Sū. 6-1-163) the final udātta accent comes. After it the suffix *auṭ*; for it, by *supāṃ suluk*, the substitute *ā*.
+
+### Page 159 (upper) — Rik 4: grammar (end)
+
+**पूतदक्षसा (pūtadakṣasā)** — the root *pūñ pavane*. By *niṣṭhā* (Pā. Sū. 3-2-102) — after a root in the past sense, the suffixes *kta*, *ktavatu* come — the suffix *kta*: *pū* + *ta*; *ta* is an *ārdhadhātuka* beginning with a *val* letter, so by *ārdhadhātukasyeḍ valādeḥ* (Pā. Sū. 7-2-35) the augment *iṭ* would be due. But by *śryukaḥ kiti* (Pā. Sū. 7-2-11) — after the root *śriñ* and after a monosyllabic root ending in *uk* (*u*, *ṛ*, *ḷ*), a *val*-initial *ārdhadhātuka* that is *git* or *kit* does not take *iṭ* — the augment *iṭ* does not come. The word *pūta* is final udātta by the suffix accent. *Pūtaṃ dakṣaḥ yayos tau* (meaning those whose strength is pure): if a bahuvrīhi compound is made thus, by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member's own accent alone comes. ॥4॥
 
 ---
 
