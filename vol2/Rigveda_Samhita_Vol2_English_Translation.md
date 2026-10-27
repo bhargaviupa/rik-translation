@@ -12268,15 +12268,17 @@ the suffix *añ*: *marut* + *a*, initial *vṛddhi*: *māruta*. The suffix is *�
 
 ---
 
-### Pages 596–597 — Sūkta 14, Rik 4
+### Page 596 (lower) — Sūkta 14, Rik 4
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्र वो भ्रियन्त इन्दवो मत्सरा मादयिष्णवः ।
-> द्रप्सा मध्वश्चमूषदः ॥४॥
+> प्र वो॑ भ्रियन्त॒ इन्द॑वो मत्स॒रा मा॑दयि॒ष्णवः॑ ।
+> द्र॒प्सा मध्व॑श्चमू॒षदः॑ ॥४॥
 >
-> *pra vo bhriyanta indavo matsarā mādayiṣṇavaḥ |*
-> *drapsā madhvaś camūṣadaḥ ||4||*
+> *prá vo bhriyanta índavo matsarā́ mādayiṣṇávaḥ |*
+> *drapsā́ mádhvaś camūṣádaḥ ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -12284,42 +12286,81 @@ the suffix *añ*: *marut* + *a*, initial *vṛddhi*: *māruta*. The suffix is *�
 > द्रप्साः । मध्वः । चमूऽसदः ॥४॥
 >
 > *pra | vaḥ | bhriyante | indavaḥ | matsarāḥ | mādayiṣṇavaḥ ||*
-> *drapsāḥ | madhvaḥ | camū-sadaḥ ||4||*
+> *drapsāḥ | madhvaḥ | camū 'sadaḥ ||4||*
 
-*(Accent-marks are printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 596–597; Sanskrit printed in Kannada script; compressed; [?] marks doubtful readings)*
-
-> हे इन्द्रादिदेवा वो युष्मदर्थमिन्दवः सोमाः प्र भ्रियन्ते । प्रकर्षेण संपाद्यन्ते । कीदृशाः । मत्सराः तृप्तिकराः । मत्सरः सोमो मदन्त्यस्मिन्निति तृप्तिकर्मणः [?] । नि. २-[?] । इति यास्कः । मादयिष्णवो हर्षहेतवः । द्रप्सा बिन्दुरूपाः । मध्वो मधुराः । चमूषदश्चमूषु चमसादिपात्रेष्ववस्थिताः । प्र । व्यवहिताश्च । पा. १-४-८२ । इति व्यवहितप्रयोगः । भ्रियन्ते । भृञो यकि रिङ् शयग्लिङ्क्षु । पा. ७-४-२८ । इति रिङादेशः । हृञो वा [?] । हृग्रहोर्भश्छन्दसीति हकारस्य भकारः । इन्दवः । उन्दी क्लेदने । उनत्ति पात्राणीति । … उ. १-१३ [?] । इत्युप्रत्यय आदेरिकारश्च । नित्त्वादाद्युदात्तः । मत्सराः । मदी तृप्तियोगे । चित्त्वादन्तोदात्तः [?] । मादयिष्णवः । मदी हर्षग्लपनयोः । मदेर्णिजन्ताच्छन्दसि । पा. ३-२-१३७ । इष्णुच् । … पा. ६-४-५५ । इत्ययादेशः । चित्त्वादन्तोदात्तः । मध्वः । मधुशब्द आद्युदात्त उक्तः । मधुशब्दस्य व्यत्ययेन पुंलिङ्गत्वम् । … जसि च । पा. ७-३-१०९ । इति गुणो न भवति । चमूषदः । चमु छमु जमु झमु अदने । चम्यते भक्ष्यते येषु चमसेषु ते चम्वः । कृषिचमितनीत्यादिना । उ. १-८१ [?] । ऊः । तत्र सीदन्तीति चमूषदः । सत्सूद्विषेत्यादिना । पा. ३-२-६१ । क्विप् । सुषामादेराकृतिगणत्वात्षत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> हे इन्द्रादिदेवा वो युष्मदर्थमिन्दवः सोमाः प्र भ्रियन्ते । प्रकर्षेण सम्पाद्यन्ते । कीदृशाः । मत्सरास्तृप्तिकराः । मत्सरः सोमो मन्दतेस्तृप्तिकर्मणः । नि. २-५ । इति यास्कः । मादयिष्णवो हर्षहेतवो द्रप्सा बिन्दुरूपा मध्वो मधुराश्चमूषदश्चमूषु चमसादिपात्रेष्ववस्थिताः ॥ प्र । व्यवहिताश्च । पा. १-४-८२ । इति व्यवहितप्रयोगः । भ्रियन्ते । भृञो यकि रिङ् शयग्लिङ्क्षु । पा. ७-४-२८ । इति रिङादेशः । हृञो वा । हृग्रहोर्भश्छन्दसीति हकारस्य भकारः । इन्दवः । उन्दी क्लेदने । उन्दन्ति पात्राणीति । नित्यनुवृत्तावुन्देरिच्चादेः । उ. १-१२ । इत्युप्रत्यय आदेरिकारश्च । नित्त्वादाद्युदात्तः । मत्सराः । मद तृप्तियोगे । चिदित्यनुवृत्तौ कृधूमदिभ्यः कित् । उ. ३-७३ । इति सरप्रत्ययः । तितुत्रतथसिसुसरकसेषु चेतीट्प्रतिषेधः । चित्त्वादन्तोदात्तः । मादयिष्णवः । मदी हर्षग्लपनयोः । मदेर्ण्यन्ताच्छन्दसि । पा. ३-२-१३८ । इतीष्णुच् । णेरनिटीति णिलोपे प्राप्तेऽयामन्ताल्वाय्येत्न्विष्णुषु । पा. ६-४-५५ । इत्ययादेशः । चित्त्वादन्तोदात्तः । मध्वः । मधुशब्द आद्युदात्त उक्तः । मधुशब्दस्य व्यत्ययेन पुंलिङ्गत्वं । संज्ञापूर्वको विधिरनि-
 >
-> *he indrādi-devā vo yuṣmad-artham indavaḥ somāḥ pra bhriyante | prakarṣeṇa saṃpādyante | kīdṛśāḥ | matsarāḥ tṛptikarāḥ | matsaraḥ somo madanty asminn iti tṛpti-karmaṇaḥ [?] | ni. 2-[?] | iti yāskaḥ | mādayiṣṇavo harṣa-hetavaḥ | drapsā bindu-rūpāḥ | madhvo madhurāḥ | camūṣadaś camūṣu camasādi-pātreṣv avasthitāḥ | pra | vyavahitāś ca | pā. 1-4-82 | iti vyavahita-prayogaḥ | bhriyante | bhṛño yaki riṅ śayag-liṅkṣu | pā. 7-4-28 | iti riṅādeśaḥ | hṛño vā [?] | hṛgrahor bhaś chandasīti hakārasya bhakāraḥ | indavaḥ | undī kledane | unatti pātrāṇīti | … u. 1-13 [?] | ity u-pratyaya ād erikāraś ca | nittvād ādyudāttaḥ | matsarāḥ | madī tṛpti-yoge | cittvād antodāttaḥ [?] | mādayiṣṇavaḥ | madī harṣa-glapanayoḥ | mader ṇijantāc chandasi | pā. 3-2-137 | iṣṇuc | … pā. 6-4-55 | ity ayādeśaḥ | cittvād antodāttaḥ | madhvaḥ | madhu-śabda ādyudātta uktaḥ | madhu-śabdasya vyatyayena puṃlingatvam | … jasi ca | pā. 7-3-109 | iti guṇo na bhavati | camūṣadaḥ | camu chamu jamu jhamu adane | camyate bhakṣyate yeṣu camaseṣu te camvaḥ | kṛṣi-camiti-nītyādinā | u. 1-81 [?] | ūḥ | tatra sīdantīti camūṣadaḥ | sat-sūdviṣety-ādinā | pā. 3-2-61 | kvip | suṣāmādeḥ ākṛtigaṇatvāt ṣatvam | kṛd-uttarapada-prakṛti-svaratvam ||*
+> *he indrādidevā vo yuṣmadarthamindavaḥ somāḥ pra bhriyante | prakarṣeṇa sampādyante | kīdṛśāḥ | matsarāstṛptikarāḥ | matsaraḥ somo mandatestṛptikarmaṇaḥ | ni. 2-5 | iti yāskaḥ | mādayiṣṇavo harṣahetavo drapsā bindurūpā madhvo madhurāścamūṣadaścamūṣu camasādipātreṣvavasthitāḥ || pra | vyavahitāśca | pā. 1-4-82 | iti vyavahitaprayogaḥ | bhriyante | bhṛño yaki riṅ śayagliṅkṣu | pā. 7-4-28 | iti riṅādeśaḥ | hṛño vā | hṛgrahorbhaśchandasīti hakārasya bhakāraḥ | indavaḥ | undī kledane | undanti pātrāṇīti | nityanuvṛttāvundericcādeḥ | u. 1-12 | ityupratyaya āderikāraśca | nittvādādyudāttaḥ | matsarāḥ | mada tṛptiyoge | cidityanuvṛttau kṛdhūmadibhyaḥ kit | u. 3-73 | iti sarapratyayaḥ | titutratathasisusarakaseṣu cetīṭpratiṣedhaḥ | cittvādantodāttaḥ | mādayiṣṇavaḥ | madī harṣaglapanayoḥ | maderṇyantācchandasi | pā. 3-2-138 | itīṣṇuc | ṇeraniṭīti ṇilope prāpte 'yāmantālvāyyetnviṣṇuṣu | pā. 6-4-55 | ityayādeśaḥ | cittvādantodāttaḥ | madhvaḥ | madhuśabda ādyudātta uktaḥ | madhuśabdasya vyatyayena puṃliṅgatvaṃ | saṃjñāpūrvako vidhirani-*
 
-**Translation:** "O Indra and the other gods, for you the soma-juices (*indavaḥ*) are being well prepared (*pra bhriyante*) — they are accomplished with care. Of what kind? *Matsarāḥ* — causing satisfaction; Yāska says: '*matsara* is soma, from *mad* "to be glad", in the sense of satisfaction' (Nirukta 2-[?]). *Mādayiṣṇavaḥ* — causes of delight. *Drapsāḥ* — in the form of drops. *Madhvaḥ* — sweet. *Camūṣadaḥ* — resting in the *camū*s, the vessels such as the *camasa*. *Pra* — separated [from its verb *bhriyante*; P. 1-4-82 allows the separated use of a *gati*]." *(The remainder is grammar, noted briefly: for* bhriyante *the root* bhṛ *in the passive with the substitute* riṅ *by P. 7-4-28; for* indavaḥ *the root* undī *"to wet" with the* u *suffix and* i *in place of the first letter; for* matsarāḥ *the root* madī *"to be satisfied" with a suffix carrying the indicatory* c *(accent on the last syllable); for* mādayiṣṇavaḥ *the causative of* mad *with* iṣṇuc *by P. 3-2-137 and the* ay *substitution; for* madhvaḥ *a note that the neuter* madhu *is here used in the masculine by* vyatyaya *and that the* guṇa *is not applied before* jas *(P. 7-3-109); for* camūṣadaḥ *the root* cam *"to eat", the formation* camvaḥ *"the vessels in which [soma] is eaten/drunk" with the Uṇādi* ūḥ *(Uṇ. 1-[?]), then* sad *+* kvip *(P. 3-2-61) and the* ṣatva *by the 'open-class' list* suṣāmādi*, with the accent of the compound that of its final member.)* Grammar pages, noted briefly; the numerals 1-4-82, 7-4-28, 3-2-137, 6-4-55, 7-3-109 and 3-2-61 are as read from the print and agree with the standard Pāṇini numbering of the corresponding rules.
+### Page 597 — Rik 4: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 597)*
+> -त्य इति जसि च । पा. ७-३-१०९ । इति गुणो न भवति । चमूषदः । चमु छमु जमु झमु अदने । चम्यते भक्ष्यते येषु चमसेषु ते चम्वः । कृषिचमीत्यादिना । उ. १-८२ । ऊः । तत्र सीदन्तीति चमूषदः । सत्सूद्विषेत्यादिना । पा. ३-२-६१ । क्विप् । सुषामादेराकृतिगणत्वात्षत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥
+>
+> *-tya iti jasi ca | pā. 7-3-109 | iti guṇo na bhavati | camūṣadaḥ | camu chamu jamu jhamu adane | camyate bhakṣyate yeṣu camaseṣu te camvaḥ | kṛṣicamītyādinā | u. 1-82 | ūḥ | tatra sīdantīti camūṣadaḥ | satsūdviṣetyādinā | pā. 3-2-61 | kvip | suṣāmāderākṛtigaṇatvātṣatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ ||*
 
-**(हे इन्द्रादिदेवताः) ((he indrādi-devatāḥ))** — O Indra and the other deities | **वः (vaḥ)** — to you [Kannada: for you, with the accent of the second-person plural] | **मत्सराः (matsarāḥ)** — causing satisfaction | **मादयिष्णवः (mādayiṣṇavaḥ)** — causing delight | **द्रप्साः (drapsāḥ)** — in the form of drops | **मध्वः (madhvaḥ)** — sweet | **चमूषदः (camūṣadaḥ)** — resting in the *camasa*-vessels | **इन्दवः (indavaḥ)** — the soma-juices | **प्र भ्रियन्ते (pra bhriyante)** — are being well prepared.
+**Translation:** "O Indra and the other gods, for you the *indavaḥ*, the soma juices, *pra bhriyante*, are well prepared. Of what kind? *Matsarāḥ*, causing satisfaction ('*matsara* is soma, from *mand*, a root of satisfaction', Yāska, Ni. 2-5); *mādayiṣṇavaḥ*, causes of delight; *drapsāḥ*, in the form of drops; *madhvaḥ*, sweet; *camūṣadaḥ*, resting in the *camūs*, the vessels such as the *camasa*." (Grammatical tail: *pra* separated from its verb by Pā. 1-4-82; *bhriyante*, *riṅ* by Pā. 7-4-28, or from *hṛ* with *bh* for *h* in the Veda; *indavaḥ* from *und* with *u* and *i* for the initial (Uṇ. 1-12), initial udātta; *matsarāḥ* from *mad* with *sara* (Uṇ. 3-73), no *iṭ*, final udātta (*cit*); *mādayiṣṇavaḥ* with *iṣṇuc* (Pā. 3-2-138), *ay* for the *ṇi* (Pā. 6-4-55), final udātta; *madhvaḥ*, *madhu* masculine by *vyatyaya*, no *guṇa* before *jas* (Pā. 7-3-109) by the paribhāṣā *saṃjñāpūrvako vidhir anityaḥ*; *camūṣadaḥ*, *camū* (Uṇ. 1-82) + *sad* with *kvip* (Pā. 3-2-61), *ṣ* by the *suṣāmādi* class, the accent of the *kṛt* second member.)
+
+**॥ Prati-padārthaḥ ॥**
+
+*(O Indra and the other deities)* **वः (vaḥ)** — for you | **मत्सराः (matsarāḥ)** — giving satisfaction | **मादयिष्णवः (mādayiṣṇavaḥ)** — giving delight | **द्रप्साः (drapsāḥ)** — in the form of drops | **मध्वः (madhvaḥ)** — sweet | **चमूषदः (camūṣadaḥ)** — that are in the *camasa* vessels | **इन्दवः (indavaḥ)** — the soma juices | **प्र भ्रियन्ते (pra bhriyante)** — are being well prepared.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and the other gods! For you these soma-juices — sweet, giving you delight and satisfaction, in the form of drops — are being made ready (or: being offered).
+O Indra and the other gods, for you the soma juices, sweet, giving you delight and satisfaction, in the form of drops, are being gathered, or prepared.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> For you (gods) are poured out these (soma) juices, satisfying, exhilarating, sweet, falling in drops or standing in the cup.
-
-*(The print has "exhilarat-ing·" with a stray full stop and "(g;ods)" at the line break — misprints [sic]; I give the words as intended.)*
+> For you (gods) are poured out these (soma) jnices [sic], satisfying, exhilarat-ing› [sic] sweet, falling in drops or standing in the cup.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**मत्सराः (matsarāḥ)** — "Soma is called *matsara* because it makes people glad, being *mad* ('to be satisfied')" (Ni. 2-[?], the Yāska quotation *matsaraḥ somo madanty asmin tṛptikarmaṇaḥ* [?]). Because it brings joy, the soma-juice is called *matsara*.
+**Matsarāḥ**:
 
-**मादयिष्णवः (mādayiṣṇavaḥ)** — from the root *madī* ("to rejoice, to be exhausted/gladdened"), a word meaning "that which causes joy".
+> सोमो मन्दतेस्तृप्तिकर्मणः
+>
+> *somo mandatestṛptikarmaṇaḥ*
 
-**द्रप्साः (drapsāḥ)** — "in the form of drops": when the soma-creeper is crushed, the juice trickles out drop by drop, so it is called "drop-like".
+*(Ni. 2-5.)* Since it causes delight, the soma juice is called *matsara*.
 
-**चमूषदः (camūṣadaḥ)** — *camyate bhakṣyate yeṣu camaseṣu te camvaḥ*: the sacrificial vessel called *camasa*. The *camasa* is the vessel used for drinking or eating, so the word *camasa* is formed in that sense; "that which sits in such a vessel": the soma-juice.
+**Mādayiṣṇavaḥ**: the word is formed from the root *madī harṣaglapanayoḥ*, and means "causing delight".
 
+**Drapsāḥ**: *bindurūpāḥ*, in the form of drops: when the soma creeper is crushed and pressed, the juice trickles and falls drop by drop, so it is called drop-like.
+
+**Camūṣadaḥ**:
+
+> चम्यते भक्ष्यते येषु चमसेषु ते चम्वः
+>
+> *camyate bhakṣyate yeṣu camaseṣu te camvaḥ*
+
+("the *camasas* in which it is eaten are the *camūs*"): that are in the sacrificial vessel called *camasa*. The vessel for eating or drinking is called *camasa*; that is the derivation of the word. The soma juice in such a vessel.
+
+### Page 598 — Rik 4: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 598–599, noted briefly)*
+
+**प्र (*pra*)**: by "vyavahitāś ca" (Pā. sū. 1-4-82) the *upasargas* may be used separated from the verb in the Veda, so it is used separated here.
+
+**भ्रियन्ते (*bhriyante*)**: *bhṛ bharaṇe* or *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *laṭ* in the passive; by "bhāvakarmaṇoḥ" (Pā. sū. 1-3-13) the *ātmanepada* for a *lakāra* in the impersonal or passive sense; 3rd plural *jha*: *bhṛ* + *jha*; "sārvadhātuke yak" (Pā. sū. 3-1-67) gives *yak* before a *sārvadhātuka* in those senses: *bhṛ* + *ya* + *jha*; *e* for the *ṭi* by "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79); *ant* for *jh* by "jho 'ntaḥ" (Pā. sū. 7-1-3): *bhṛ* + *ya* + *ante*; "riṅ śayagliṅkṣu" (Pā. sū. 7-4-28): before *śa*, *yak* and a *y*-initial *ārdhadhātuka liṅ*, *riṅ* for a short *ṛ*: *bhriyante*; *yak* is *kit*, so no *guṇa*. Or from *hṛñ haraṇe* in the passive, *hriyante* as above, and *bh* for *h* by "hṛgrahor bhaś chandasi" (Pā. sū. 8-2-32-1): *bhriyante*.
+
+**इन्दवः (*indavaḥ*)**: *undī kledane*; *undanti pātrāṇi* (they wet the vessels): *indavaḥ*. "under ic cādeḥ" (Uṇ. sū. 1-12): the suffix *u* after *und*, *nit*, and *i* for the initial *u*: *indu*; initial udātta (*nit*).
+
+**मत्सराः (*matsarāḥ*)**: *mada tṛptiyoge* (*curādi*); "kṛdhūmadibhyaḥ kit" (Uṇ. sū. "3-73" [?]; *ḍukṛñ karaṇe*, *dhūñ kampane*, *mada tṛptiyoge*): the suffix *sara*, *kit* and *cit*. Though *ārdhadhātuka*, it takes no *iṭ* by "titutratathasisusarakaseṣu ca" (Pā. sū. 7-2-9); final udātta by "citaḥ".
+
+**मादयिष्णवः (*mādayiṣṇavaḥ*)**: *madī harṣaglapanayoḥ*; *ṇic* by "hetumati ca" (Pā. sū. 3-1-26); "ṇeś chandasi" (Pā. sū. 3-2-138 [as printed]) gives *iṣṇuc* in the Veda after a *ṇic*-ending root in the senses of habit and the like: *mad* + *i* + *iṣṇu*; "ṇer aniṭi" (Pā. sū. 6-4-51) would drop the *ṇi*, but "ayāmantālvāyyetnviṣṇuṣu" (Pā. sū. 6-4-55)
+
+### Page 599 — Rik 4: grammar (end)
+
+gives *ay* for *ṇi* before *ām*, *anta*, *ālu*, *āyya*, *itnu*, *iṣṇu*: *mad* + *ay* + *iṣṇu*; *vṛddhi* of the penultimate; nominative plural *mādayiṣṇavaḥ*; final udātta by the *cit* accent.
+
+**मध्वः (*madhvaḥ*)**: in Sūkta 13, Ṛk 2 the word *madhu* was said to be initial udātta. *Madhu* is neuter, but here masculine by *vyatyaya*. Before *jas*, "jasi ca" (Pā. sū. 7-3-109) would give *guṇa* to an *ik*-final stem; but it comes naming the technical term *guṇa*, so by "saṃjñāpūrvako vidhir anityaḥ" (paribhāṣā 93) it is optional, and does not come here.
+
+**चमूषदः (*camūṣadaḥ*)**: *camu chamu jamu jhamu adane*; "kṛṣicamitanidhanisarjikharjibhya ūḥ" (Uṇ. sū. "1-81" [?]; *kṛṣa vilekhane*, *camu adane*, *tanu vistāre*, *dhana dhānye*, *sarja sarjane*, *kharja vyathane*) gives *ū* after *cam*: *camū*; *camyate bhakṣyate yeṣu camaseṣu te* (the vessels in which it is eaten); *camvaḥ camūṣu sīdantīti camūṣadaḥ*. "satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasarge 'pi kvip" (Pā. sū. 3-2-61): after *ṣadḷ viśaraṇādau*, *ṣūṅ prāṇigarbhavimocane*, *dviṣa aprītau*, *druha jighāṃsāyām*, *duha prapūraṇe*, *yujir yoge*, *yuja samādhau*, *vida jñāne*, *vida vicāraṇe*, *vida sattāyām*, *chidir dvaidhīkaraṇe*, *bhidir vidāraṇe*, *ji jaye*, *ṇīñ prāpaṇe*, *rājṛ dīptau*, with or without an *upasarga*, when there is a suitable *upapada*, *kvip* comes; so *kvip* after *sad* with the *upapada* *camū*: *camūsad*; by "suṣāmādiṣu ca" (Pā. sū. 8-3-98) the *s* of words in the *suṣāmādi* class becomes *ṣ*; that class is an *ākṛtigaṇa*, and this word belongs to it. By "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) the *kṛt* second member keeps its accent, final udātta by the root accent; *jas* after it is unaccented and becomes svarita by "udāttād anudāttasya".
+
+**॥४॥**
+
+---
 
 ### Pages 599–603 — Sūkta 14, Rik 5
 
