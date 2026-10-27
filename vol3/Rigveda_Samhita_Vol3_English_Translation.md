@@ -1158,15 +1158,17 @@ for the *vikaraṇa* *śap*, by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-7
 
 ---
 
-### Pages 48–49 — Sūkta 21, Rik 2
+### Page 48 (lower) — Sūkta 21, Rik 2
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ता यज्ञेषु प्र शंसतेन्द्राग्नी शुम्भता नरः ।
-> ता गायत्रेषु गायत ॥२॥
+> ता य॒ज्ञेषु॒ प्र शं॑सतेन्द्रा॒ग्नी शु॑म्भता नरः ।
+> ता गा॑य॒त्रेषु॑ गायत ॥२॥
 >
-> *tā yajñeṣu pra śaṃsatendrāgnī śumbhatā naraḥ |*
-> *tā gāyatreṣu gāyata ||2||*
+> *tā yajñéṣu prá śaṃsatendrāgnī́ śumbhatā naraḥ |*
+> *tā́ gāyatréṣu gāyata ||2||*
+
+*(Bars under य (यज्ञेषु), षु and द्रा; strokes over शं and शु. Line 2: stroke over गा, bar under य, stroke over षु. The Saṃhitā has the lengthened* śumbhatā*, the Pada the short* śumbhata*.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -1176,37 +1178,43 @@ for the *vikaraṇa* *śap*, by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-7
 > *tā | yajñeṣu | pra | śaṃsata | indrāgnī iti | śumbhata | naraḥ ||*
 > *tā | gāyatreṣu | gāyata ||2||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* śumbhatā*; the Pada the short* śumbhata*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 48; compressed; [?] marks doubtful readings)*
-
-> हे नरो मनुष्या ऋत्विजः ता पूर्वोक्तौ तावेन्द्राग्नी यज्ञेषु अनुष्ठीयमानकर्मसु प्र शंसत शस्त्रैः । तथा शुम्भत नानाविधैरलंकारैः शोभितौ कुरुत । तथा ता पूर्वोक्तौ तावेन्द्राग्नी गायत्रेषु गायत्रीच्छन्दस्केषु मन्त्रेषु सामरूपेण गायत ॥ ता । सुपां सुलुगित्याकारः । शुम्भत । अस्य संहितायामन्येषामपि दृश्यत इति दीर्घः ॥
+> हे नरो मनुष्या ऋत्विजः ता पूर्वोक्तौ ताविन्द्राग्नी यज्ञेष्वनुष्ठीयमानकर्मसु प्र शंसत शस्त्रैः । तथा शुम्भत । नानाविधैरलंकारैः शोभितौ कुरुत । तथा ता पूर्वोक्तौ ताविन्द्राग्नी गायत्रेषु गायत्रीच्छन्दस्केषु मन्त्रेषु सामरूपेण गायत ॥ ता । सुपां सुलुगित्याकारः । शुम्भत । अस्य संहितायामन्येषामपि दृश्यत इति दीर्घः ॥
 >
-> *he naro manuṣyā ṛtvijaḥ tā pūrvoktau tāv indrāgnī yajñeṣu anuṣṭhīyamāna-karmasu pra śaṃsata śastraiḥ | tathā śumbhata nānā-vidhair alaṅkāraiḥ śobhitau kurūta | tathā tā pūrvoktau tāv indrāgnī gāyatreṣu gāyatrī-chandaskeṣu mantreṣu sāma-rūpeṇa gāyata || tā | supāṃ sulug ity ākāraḥ | śumbhata | asya saṃhitāyām anyeṣām api dṛśyata iti dīrghaḥ ||*
+> *he naro manuṣyā ṛtvijaḥ tā pūrvoktau tāvindrāgnī yajñeṣvanuṣṭhīyamānakarmasu pra śaṃsata śastraiḥ | tathā śumbhata | nānāvidhairalaṃkāraiḥ śobhitau kuruta | tathā tā pūrvoktau tāvindrāgnī gāyatreṣu gāyatrīcchandaskeṣu mantreṣu sāmarūpeṇa gāyata || tā | supāṃ sulugityākāraḥ | śumbhata | asya saṃhitāyāmanyeṣāmapi dṛśyata iti dīrghaḥ ||*
 
-**Translation:** "O men — priests! Those two, Indra and Agni, spoken of before, praise (*pra śaṃsata*) at the sacrifices — in the rites being performed — with recitations (*śastras*). And *śumbhata* — make them beautiful, adorn them, with ornaments of many kinds. And those same two, Indra and Agni, sing (*gāyata*) in the *gāyatras* — in mantras in the Gāyatrī meter — in the form of *sāman*." The grammar, noted briefly: *tā* (the dual ending *ā*); *śumbhata* (the lengthening in the Saṃhitā is by P. 6-3-137 *anyeṣām api dṛśyate*, 'also seen in others'). *(Grammar, noted briefly; P. 6-3-137 as read [?].)*
+**Translation:** "O *naraḥ*, men — priests! *Tā*, those two, Indra and Agni, spoken of before, *pra śaṃsata*, praise, *yajñeṣu*, in the rites being performed, with *śastras*. Likewise *śumbhata*: make them beautiful with ornaments of many kinds. Likewise *tā*, those same two, Indra and Agni, *gāyata*, sing, *gāyatreṣu*, in mantras of the Gāyatrī metre, in the form of *sāman*." (Grammatical tail: *tā*, the *ā* by *supāṃ suluk…*; *śumbhata*, its lengthening in the Saṃhitā by *anyeṣām api dṛśyate*.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 49)*
+### Page 49 — Rik 2: word-meanings, overall sense, English, Special Topics, grammar
 
-**(हे) नरः ((he) naraḥ)** — O men (priests) | **ता (tā)** — those two Indra-Agni deities spoken of before | **यज्ञेषु (yajñeṣu)** — at the sacrifices | **प्र शंसत (pra śaṃsata)** — praise well | **शुम्भत (śumbhata)** — adorn [with various ornaments] | **ता (tā)** — those two | **गायत्रेषु (gāyatreṣu)** — with riks in the Gāyatrī meter | **गायत (gāyata)** — sing (praise).
+**॥ Prati-padārthaḥ ॥**
+
+**हे नरः (he naraḥ)** — O men (priests) | **ता (tā)** — the Indra and Agni spoken of before | **यज्ञेषु (yajñeṣu)** — in the sacrifices | **प्र शंसत (pra śaṃsata)** — praise well | **शुम्भत (śumbhata)** — adorn (with ornaments of many kinds) | **ता (tā)** — both of them | **गायत्रेषु (gāyatreṣu)** — with ṛks of the Gāyatrī metre | **गायत (gāyata)** — sing (praise).
 
 **॥ Bhāvārthaḥ ॥**
 
-O priests! Praise well the deities Indra and Agni spoken of before, adorn them with ornaments, and sing them in the manner of *sāman* with riks in the Gāyatrī meter.
+O priests, praise well Indra and Agni, set forth before, adorn them with ornaments, and sing them in the manner of *sāman* singing with ṛks of the Gāyatrī metre.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O men, praise Indra and Agni in Sacrifices, decorate them with ornaments and sing them with hymns of Gayatri metres.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 49)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-In this rik the ṛṣi addresses the people — that is, the priests engaged in performing the sacrifice.
+In this ṛk the ṛṣi addresses the people, that is, the priests engaged in performing the sacrifice.
 
-**शुम्भत (śumbhata)** — "decorate"; what does it mean to decorate the deities? How can invisible deities be decorated? This point is not clear.
+**शुम्भत (śumbhata)** — "adorn", decorate. What is meant here by adorning the deities? How can they, who are not visible, be adorned? This point is not clear.
 
-**गायत्रेषु (gāyatreṣu)** — with riks in the Gāyatrī meter, or with the mantra called *gāyatra* in the Sāmaveda. Since the rule is that in the three pressings, morning and the rest, many riks of the seven meters beginning with Gāyatrī must be recited, and since at first the praise is made with Gāyatrī-meter riks, the ṛṣi, addressing the priests, says "*gāyatreṣu*": praise with riks of the Gāyatrī meter.
+**गायत्रेषु (gāyatreṣu)** — with ṛks of the Gāyatrī metre, or with the *sāman* mantra called *gāyatra* in the Sāmaveda. Because there is a rule that in all three pressings, the morning pressing and the rest, many ṛks of the seven kinds of metre beginning with Gāyatrī are to be recited, and because the praise is made first with the Gāyatrī metre itself, the ṛṣi, in saying *gāyatreṣu* here, has addressed the priests and told them: praise with ṛks of the Gāyatrī metre.
 
-**Grammar page (p. 49), noted briefly.** *Tā* — here too the case-ending takes *ā* by P. 7-1-39 *supāṃ sulug…*. *Śumbhata* — in the Saṃhitā, by P. 6-3-137 *anyeṣām api dṛśyate*, 'also seen in others' (that is, lengthening is seen in words other than those named in the lengthening rules), the vowel is lengthened. ॥2॥ *(Pointers only.)*
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**ता (tā)** — here too the *ā* in place of the case-ending by the sūtra *supāṃ suluk* etc.
+
+**शुम्भत (śumbhata)** — for this, in the Saṃhitā, lengthening by *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137), which says that in the Saṃhitā lengthening comes also to words other than those named in the lengthening rules. ॥2॥
+
+---
 
 ### Pages 50–53 — Sūkta 21, Rik 3
 
