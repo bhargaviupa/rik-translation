@@ -12088,21 +12088,29 @@ O Agni, come with all the gods, to receive the service we render in this our sac
 
 **सोमपीतये (*somapītaye*)**: *soma* from *ṣu* with *man* by "artistusuhusṛdhṛkṣikṣubhāyāvāpadiyakṣinībhyo man" (Uṇ. sū. 1-136), initial udātta (*nit*); "somasya pītir yasmin yāge saḥ", for him: *somapītaye*, a bahuvrīhi. By "caturthīvidhāne tādarthye upasaṃkhyānam" (Pā. sū. 2-3-13-1), and "tasmā idaṃ tadartham; arthena nityasamāsaḥ viśeṣyaliṅgatā ca", the compound; *tadarthasya bhāvaḥ tādarthyam*: by "guṇavacanabrāhmaṇādibhyaḥ ṣyañ" (Pā. sū. 5-1-124)
 
-### Page 587 — Rik 1: grammar (continued)
+### Page 587 — Rik 1: grammar (end)
 
-*(Pp. 587–588, the rest of the grammar of Ṛk 1 and its Special Topics if any, belong to the next batch (PDF 601–700) and have not yet been re-read from the print. The earlier outline said: the *ṣyañ* of Pā. 5-1-124 with the examples *yūpāya dāru* and *kuṇḍalāya hiraṇyam*; *devebhiḥ* with *ais* blocked by *bahulaṃ chandasi*; *yakṣi* (*yaj* + *loṭ* + *sip*, *śap* dropped by Pā. 2-4-73, *ṣatva* by 8-2-36, *ṣaḍhoḥ kaḥ si* 8-2-41, *hi* for *si* 3-4-87), numerals unverified.)*
+in the *bhāva* sense. *Tad* means the effect; the cause is for the sake of the effect, is it not? So the word *tadartha* denotes a cause that serves an effect. In cases like *brāhmaṇāya dadhi* ("curds for the brāhmaṇa") the fourth case needs a particular effect meant by the word for the effect: brāhmaṇas are not produced from curds, so the fourth case could not come here; but if a particular effect is meant, the brāhmaṇa as qualified by eating is the effect, and curds, being the cause of the qualifying eating, may be the cause of the brāhmaṇa so qualified; thus the fourth case is justified here. By "samāsakṛttaddhiteṣu bhāvapratyayena sambandhābhidhānam" (the abstract suffix after a compound, a *kṛdanta* or a *taddhitānta* expresses the relation), the *ṣyañ* after the compound *tadartha* expresses the relation; so *tādarthya* means the relation of a cause serving an effect, and the vārttika means that when a relation of effect and cause is shown, the fourth case comes after the stem that denotes the effect. Here the sacrifice that has the drinking of soma comes about from Agni's coming, so *somapīti* denotes the effect, and the fourth case follows it. The Bhāṣya gives *yūpāya dāru* ("wood for the sacrificial post") as an example of this statement: *dāru* is wood; since the post comes from the wood, the post is the effect, and so the fourth case comes after it. *Kuṇḍalāya hiraṇyam* ("gold for an earring") is another example the Bhāṣya gives.
+
+**देवेभिः (*devebhiḥ*)**: *deva* ends in *a*; *ais* for the *bhis* after it would come by "ato bhisa ais" (Pā. sū. 7-1-9), but by "bahulaṃ chandasi" (Pā. sū. 7-1-10) it does not; then, *bhis* being a *jhal*-initial plural ending, "bahuvacane jhaly et" gives *e* for the *a*; *ru*, visarga: *devebhiḥ*. **याहि (*yāhi*)**: wholly unaccented by "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28).
+
+**यक्षि (*yakṣi*)**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *loṭ*, 2nd singular *sip*: *yaj* + *si*; the *śap* that comes by "kartari śap" (Pā. sū. 3-1-68) is dropped by "bahulaṃ chandasi" (Pā. sū. 2-4-73); *ṣ* for the *j* by "vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ" (Pā. sū. 8-2-36): *yaṣ* + *si*; "ṣaḍhoḥ kaḥ si" (Pā. sū. 8-2-41): before *s*, *k* for *ṣ* and *ḍh*: *yak* + *si*; "ser hy apic ca" (Pā. sū. 3-4-87) would give *hi* for *si*, but in the Veda it does not come here. *Sip* is *pit*, so it is unaccented by "anudāttau suppitau" [as printed]. *ṣ* for the *s* by "ādeśapratyayayoḥ": *yakṣi*. Since it follows the *tiṅanta* *yāhi*, "tiṅṅatiṅaḥ" does not make it wholly unaccented.
 
 **॥१॥**
 
-### Pages 588–592 — Sūkta 14, Rik 2
+---
+
+### Page 588 — Sūkta 14, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ त्वा कण्वा अहूषत गृणन्ति विप्र ते धियः ।
-> देवेभिरग्न आ गहि ॥२॥
+> आ त्वा॒ कण्वा॑ अहूषत गृ॒णन्ति॑ विप्र ते॒ धियः॑ ।
+> दे॒वेभि॑रग्न॒ आ ग॑हि ॥२॥
 >
-> *ā tvā kaṇvā ahūṣata gṛṇanti vipra te dhiyaḥ |*
-> *devebhir agna ā gahi ||2||*
+> *ā́ tvā káṇvā ahūṣata gṛṇánti vipra te dhíyaḥ |*
+> *devébhir agna ā́ gahi ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -12112,37 +12120,71 @@ O Agni, come with all the gods, to receive the service we render in this our sac
 > *ā | tvā | kaṇvāḥ | ahūṣata | gṛṇanti | vipra | te | dhiyaḥ ||*
 > *devebhiḥ | agne | ā | gahi ||2||*
 
-*(Accent-marks are printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 588)*
-
-> हे विप्र मेधाविन्नग्ने कण्वा मेधाविन ऋत्विजस्त्वा यज्ञनिष्पादकं त्वामाहूषत आह्वयन्ति । तथा ते धियस्त्वदीयानि कर्माणि गृणन्ति कथयन्ति । ततो हे अग्ने देवेभिर्देवैः सहा गहि । आगच्छ । विप्र इत्यादिषु चतुर्विंशतिसंख्याकेषु मेधाविनामसु कण्व ऋभुरिति [?] पठितम् ॥
+> हे विप्र मेधाविन्नग्ने कण्वा मेधाविन ऋत्विजस्त्वा यज्ञनिष्पादकं त्वामाहूषत । आह्वयन्ति । तथा ते धियस्त्वदीयानि कर्माणि गृणन्ति । कथयन्ति । ततो हे अग्ने देवेभिर्देवैः सहा गहि । आगच्छ । विप्र इत्यादिषु चतुर्विंशतिसंख्याकेषु मेधाविनामसु कण्व ऋभुरिति पठितम् ॥ त्वा । त्वामौ द्वितीयाया इति त्वादेशः । सर्वानुदात्तः । कण्वाः । कण शब्दार्थः । अशिप्रुषिलटिकणिखटीत्यादिना क्वन् । नित्त्वादाद्युदात्तः । अहूषत । ह्वेञ् स्पर्धायां शब्दे च । छन्दसि लुङ्लङ्लिट इति वर्तमाने लुङ् । ञित्त्वादात्मनेपदम् । झ आत्मनेपदेष्वनत इत्यदादेशः । च्लेः सिच् । एकाच इतीट्प्रतिषेधः । पा. ७-२-१० । बहुलं छन्दसीति सम्प्रसारणं परपूर्वत्वं । हलः । पा. ६-४-२ । इति दीर्घत्वं । आदेशप्रत्यययोरिति षत्वं । छान्दसत्वादूकारस्य न गुणः । अडागमः । गृणन्ति । गॄ शब्दे । लट् । झि । झोऽन्तः । क्र्यादिभ्यः श्ना । प्वादीनां ह्रस्व इति धातोर्ह्रस्वत्वं । श्नाभ्यस्तयोरातः । पा. ६-४-११२ । इत्याकारलोपः । ऋवर्णाच्चेति वक्तव्यम् । का. ८-४-१-१ । इति णत्वं । तिङः स्वर एव शिष्यते । विप्र । आमन्त्रितनिघातः । ते । अनुदात्तमित्यनुवृत्तौ तेमयावेकवचनस्य । पा. ८-१-२२ । इति षष्ठ्यास्ते इत्यादेशः । देवेभिः । छान्दस ऐसभावः । गहि । गम्लृ सृप्लृ गतौ । लोटः सिप् । सेर्ह्यपिच्च । कर्तरि शप् । तस्य बहुलं छन्दसीति लुक् । अनुदात्तोपदेशेत्यादिना मकारलोपः । तस्यासिद्धवदत्राभादित्यसिद्धत्वादतो हेरिति हेर्लुग्न भवति ॥
 >
-> *he vipra medhāvinn agne kaṇvā medhāvina ṛtvijas tvā yajña-niṣpādakaṃ tvām āhūṣata āhvayanti | tathā te dhiyas tvadīyāni karmāṇi gṛṇanti kathayanti | tato he agne devebhir devaiḥ sahā gahi | āgaccha | vipra ity-ādiṣu caturviṃśati-saṃkhyākeṣu medhāvi-nāmasu kaṇva ṛbhur iti [?] paṭhitam ||*
+> *he vipra medhāvinnagne kaṇvā medhāvina ṛtvijastvā yajñaniṣpādakaṃ tvāmāhūṣata | āhvayanti | tathā te dhiyastvadīyāni karmāṇi gṛṇanti | kathayanti | tato he agne devebhirdevaiḥ sahā gahi | āgaccha | vipra ityādiṣu caturviṃśatisaṃkhyākeṣu medhāvināmasu kaṇva ṛbhuriti paṭhitam || tvā | tvāmau dvitīyāyā iti tvādeśaḥ | sarvānudāttaḥ | kaṇvāḥ | kaṇa śabdārthaḥ | aśipruṣilaṭikaṇikhaṭītyādinā kvan | nittvādādyudāttaḥ | ahūṣata | hveñ spardhāyāṃ śabde ca | chandasi luṅlaṅliṭa iti vartamāne luṅ | ñittvādātmanepadam | jha ātmanepadeṣvanata ityadādeśaḥ | cleḥ sic | ekāca itīṭpratiṣedhaḥ | pā. 7-2-10 | bahulaṃ chandasīti samprasāraṇaṃ parapūrvatvaṃ | halaḥ | pā. 6-4-2 | iti dīrghatvaṃ | ādeśapratyayayoriti ṣatvaṃ | chāndasatvādūkārasya na guṇaḥ | aḍāgamaḥ | gṛṇanti | gṝ śabde | laṭ | jhi | jho 'ntaḥ | kryādibhyaḥ śnā | pvādīnāṃ hrasva iti dhātorhrasvatvaṃ | śnābhyastayorātaḥ | pā. 6-4-112 | ityākāralopaḥ | ṛvarṇācceti vaktavyam | kā. 8-4-1-1 | iti ṇatvaṃ | tiṅaḥ svara eva śiṣyate | vipra | āmantritanighātaḥ | te | anudāttamityanuvṛttau temayāvekavacanasya | pā. 8-1-22 | iti ṣaṣṭhyāste ityādeśaḥ | devebhiḥ | chāndasa aisabhāvaḥ | gahi | gamlṛ sṛplṛ gatau | loṭaḥ sip | serhyapicca | kartari śap | tasya bahulaṃ chandasīti luk | anudāttopadeśetyādinā makāralopaḥ | tasyāsiddhavadatrābhādityasiddhatvādato heriti herlugna bhavati ||*
 
-**Translation:** "O wise (*vipra*) Agni! The *kaṇvas* — the wise priests (*ṛtvij*) — have invoked (*āhūṣata*) you, the one who accomplishes the sacrifice; and they recite (*gṛṇanti*) your *dhiyaḥ* — your deeds. Therefore, O Agni, come together with the gods. [The word *kaṇva* is] read among the twenty-four names for 'wise man' beginning with *vipra*." *(In the print, the last clause names the item read after "kaṇva" with a letter-group that I read as* ṛbhur*; I give it with [?], and the Kannada Special Topics (below) confirms only that* kaṇva *itself is in the list.)*
+**Translation:** "O *vipra*, wise Agni, the *kaṇvāḥ*, the wise priests, *āhūṣata*, call you, the accomplisher of the sacrifice; and they *gṛṇanti*, declare, *te dhiyaḥ*, your deeds. So, O Agni, come with the gods. *Kaṇva* and *ṛbhu* are read among the twenty-four names for the wise beginning with *vipra*." (Grammatical tail: *tvā* by "tvāmau dvitīyāyāḥ", wholly unaccented; *kaṇvāḥ* from *kaṇa* 'to sound' with *kvan*, initial udātta; *ahūṣata* from *hveñ*, *luṅ* in the present sense, *ātmanepada* (the root is *ñit*), *at* for *jh*, *sic*, no *iṭ* (Pā. 7-2-10), *saṃprasāraṇa* by *bahulaṃ chandasi*, lengthening by "halaḥ" (Pā. 6-4-2), *ṣ*, no *guṇa* of the *ū* (Vedic), the augment *a*; *gṛṇanti* from *gṝ* with *śnā*, the root shortened, the *ā* of *śnā* dropped (Pā. 6-4-112), *ṇ* (Kā. 8-4-1-1); *vipra* lowered as a vocative; *te* for *tava* by Pā. 8-1-22; *devebhiḥ* without *ais*; *gahi*: *gam*, *sip*, *hi*, *śap* dropped, *m* dropped, and that loss being treated as not done, *hi* is not dropped by "ato heḥ".)
 
-Then, as in Rik 1, the grammar follows (p. 588, lower half, and pp. 589–592). *Grammar pages, noted briefly:* the bhāṣya and the Kannada Vyākaraṇa-prakriyā treat — *ā* (a *nipāta*, first-syllable accent, Phiṭ 4-[?] *nipātā ādyudāttāḥ*); *tvā* (P. 8-1-23 *tvāmau dvitīyāyāḥ* — the substitute *tvā* for *tvām*, wholly unaccented; the number agrees with the standard numbering); *kaṇvāḥ* (root *kaṇ* "to sound", the Uṇādi sūtra on the *kvan* suffix *aśūpruṣiliṭikaṇikhaṭiviśibhyaḥ kvan*, Uṇ. 1-[?]; first-syllable accent because of the indicatory *n*); *ahūṣata* (*hve* "to compete, to call", *luṅ* in the present sense by P. 3-4-6 *chandasi luṅ-laṅ-liṭaḥ* — the number agrees with the standard; then *cli*, *sic* [P. 3-1-43, 3-1-44 — read from the Kannada print, they agree with the standard numbering of *cli luṅi* and *cleḥ sic*], the *ātmanepada* by P. 1-3-72, the *sampra-sāraṇa* of *hve*, and the lengthening and *ṣatva* — a long run of 'pointer' sūtras whose numerals I leave unchecked); *gṛṇanti* (*gṝ* "to sound", *laṭ* by P. 3-2-123 *vartamāne laṭ*, *śnā* by P. 3-1-81 *kryādibhyaḥ śnā*, *hrasva* by P. 6-4-113 [?]); *vipra* (vocative: accent by P. 6-1-198 *āmantritasya ca* [?]); *te* (P. 8-1-18 *anudāttaṃ sarvam apādādau* and 8-1-22 *te mayāv ekavacanasya*, the substitute *te* for *tava*); *devebhiḥ* (*ais* blocked by *bahulaṃ chandasi*); *gahi* (root *gam*/*gamḷ* with *lot*, *sip*, *hi* for *si* by P. 3-4-87 *serhy apicca*, *śap* dropped by P. 2-4-73, the dropping of *m* by *anudāttopadeśa-vanati-tanotyādīnām…* P. 6-4-37, the *asiddhavat* rule 6-4-22). *(Crowded; reproduced in outline only.)*
+### Page 589 — Rik 2: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 589)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे) विप्र ((he) vipra)** — O wise [i.e. learned] Agni | **कण्वाः (kaṇvāḥ)** — the wise priests (descendants of the ṛṣi Kaṇva) | **त्वा (tvā)** — you | **आ अहूषत (ā ahūṣata)** — invoke (pray to) | *(in the same way)* **ते (te)** — your | **धियः (dhiyaḥ)** — works | **गृणन्ति (gṛṇanti)** — praise | *(therefore)* **अग्ने (agne)** — O Agni | **देवेभिः (devebhiḥ)** — with the gods | **आ गहि (ā gahi)** — be pleased to come.
+**(हे) विप्र ((he) vipra)** — O wise Agni | **कण्वाः (kaṇvāḥ)** — the priests, who are wise (descendants of the ṛṣi Kaṇva) | **त्वा (tvā)** — you | **आ अहूषत (ā ahūṣata)** — call (with prayer) | *(likewise)* **ते (te)** — your | **धियः (dhiyaḥ)** — deeds | **गृणन्ति (gṛṇanti)** — praise | *(therefore)* **अग्ने (agne)** — O Agni | **देवेभिः (devebhiḥ)** — with the gods | **आ गहि (ā gahi)** — be pleased to come.
 
 **॥ Bhāvārthaḥ ॥**
 
-O wise Agni, in order to praise your qualities, the wise priests (or the descendants of the ṛṣi Kaṇva) pray to you and call you to the sacrifice; and they praise your excellent deeds. Therefore, come to our sacrifice along with all the gods.
+O wise Agni, the wise priests (or the descendants of the ṛṣi Kaṇva) pray to you and call you to the sacrifice to praise your qualities, and they praise your excellent deeds. So come to our sacrifice with all the gods.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The Kanwas invoke you, wise Agni, and extrol [sic] your deeds; come Agni with the gods,
 
-*(The print ends the line with a comma.)*
-
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**कण्वाः (kaṇvāḥ)** — Among the twenty-four names for the *medhāvī* (wise), beginning with *vipra*, the word *kaṇva* is read (Nirukta/Nighaṇṭu 3-[?] — the printed reference reads "ni. 3-19" in small print, which I cannot confirm; in the standard Nighaṇṭu the *medhāvi* list is 3.15), so *kaṇva* here can mean "wise, intelligent". Although the commentator takes the word in this general sense, since the ṛṣi of this rik is himself of the lineage of Kaṇva, it seems more natural to take *kaṇvāḥ* here as "the sacrificer-priests and others born in the Kaṇva lineage."
+**Kaṇvāḥ**: since the word *kaṇva* is read among the twenty-four names for the wise beginning with *vipra* (Ni. 3-19), *kaṇva* means wise, intelligent. Though the Bhāṣyakāra gives this general sense, since the ṛṣi of this Ṛk is of the Kaṇva line, it seems fitting to take *kaṇvāḥ* here as the sacrificers, priests and others born in the Kaṇva line.
 
-**धियः (dhiyaḥ)** — Among the twenty-six names for *karma* (action) beginning with *apaḥ*, *dhīḥ* is read (Ni. 2-[?], the print's numerals are unclear), so *dhiyaḥ* means "actions, works".
+**Dhiyaḥ**: since the word *dhīḥ* is read among the twenty-six words for action beginning with *apaḥ* (Ni. 3-2), *dhiyaḥ* means actions, deeds.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 589–592, noted briefly)*
+
+**आ (*ā*)**: initial udātta by "nipātā ādyudāttāḥ". **त्वा (*tvā*)**: "tvāmau dvitīyāyāḥ" (Pā. sū. 4-1-23 [as printed, for 8-1-23]): for *yuṣmad* and *asmad* in the accusative singular, after a word and not at the beginning of a pāda, the unaccented replacements *tvā* and *mā*; so the unaccented *tvā* for *tvām*.
+
+### Page 590 — Rik 2: grammar (continued)
+
+**कण्वाः (*kaṇvāḥ*)**: *kaṇa śabdārthe*; *kvan* by "aśūpruṣilaṭikaṇikhaṭiviśibhyaḥ kvan" (Uṇ. sū. "1-1-49" [as printed]). There are three roots *kaṇa*: *kaṇa bhāṣārthaḥ*, *kaṇa gatau*, *kaṇa nimīlane*; the commentators on the Tattvabodhinī and others take the *curādi* root *kaṇa nimīlane* here, but the Vedabhāṣyakāra holds that *kvan* may come after all three. The suffix is *nit*, so *kaṇvāḥ* is initial udātta.
+
+**अहूषत (*ahūṣata*)**: *hveñ spardhāyāṃ śabde ca*; by "chandasi luṅlaṅliṭaḥ" (Pā. sū. 3-4-6) these *lakāras* come in any time (past, future, present) when a relation of the root's sense is shown, so *luṅ* comes after *hveñ* in the present; *hve* + *l*; the *ñ* is *it*, so the root is *ñit*, and by "svaritañitaḥ kartrabhiprāye kriyāphale" (Pā. sū. 1-3-72) the *ātmanepada* comes when the fruit of the action goes to the agent; 3rd plural *jha*: *hve* + *jha*; *cli* by "cli luṅi" (Pā. sū. 3-1-43), *sic* for it by "cleḥ sic" (Pā. sū. 3-1-44): *hve* + *s* + *jha*. *Sic* is *ārdhadhātuka*, so "ārdhadhātukasyeḍ valādeḥ" (Pā. sū. 7-2-35) would give *iṭ*; but *hve*, ending in a vowel, is not in the kārikā "ūdṛdantaiḥ…", so it is unaccented in *upadeśa*, and being one-syllabled there, "ekāca upadeśe 'nudāttāt" (Pā. sū. 7-2-10) bars the *iṭ*. With "hvaḥ samprasāraṇam" (Pā. sū. 6-1-32) carried on, "bahulaṃ chandasi" (Pā. sū. 6-1-34) gives *saṃprasāraṇa*, *u* for the *v*: *hu* + *e* + *s* + *jha*; "saṃprasāraṇāc ca" (Pā. sū. 6-1-108) gives *pūrvarūpa* of *u* and *e*: *hu* + *s* + *jha*; "halaḥ" (Pā. sū. 6-4-2): the final of a stem ending in a *saṃprasāraṇa* after a consonant is lengthened: *hū* + *s* + *jha* (this sense of "halaḥ" is given to bar lengthening in *utaḥ*, *nirutam*, *vidhyati*). "ātmanepadeṣv anataḥ" (Pā. sū. 7-1-5): *at* for the *jh*: *hūs* + *ata*; the augment *a* by "luṅlaṅlṛṅkṣv aḍ udāttaḥ" (Pā. sū. 6-4-71): *ahūs* + *ata*; *ṣ* for the *s* by "ādeśapratyayayoḥ" (Pā. sū. 8-3-59): *ahūṣata*. Though *guṇa* of the *ū* would come by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84) because of *sic*, by the paribhāṣā
+
+> सर्वे विधयश्छन्दसि विकल्प्यन्ते
+>
+> *sarve vidhayaśchandasi vikalpyante*
+
+*(Paribhāṣā 35)* it is optional in the Veda and does not come here. Wholly unaccented by "tiṅṅatiṅaḥ".
+
+**गृणन्ति (*gṛṇanti*)**: *gṝ śabde*; "vartamāne laṭ" (Pā. sū. 3-2-123): *vartamāne* qualifies the sense of the stem; the suffix only marks it: *laṭ* after a root denoting a present action.
+
+### Page 591 — Rik 2: grammar (continued)
+
+The Bhāṣya has "bhūtabhaviṣyatoḥ pratidvandvī vartamānakālaḥ" (the present is the counterpart of past and future); some define the present as "atītānāgatabhinnakālatvaṃ vartamānakālatvam", the time other than past and future; others as "prārabdhāparisamāptakriyāśrayatvaṃ kālagataṃ vartamānatvam", the time that holds an action begun and not finished. By this sūtra *laṭ* after *gṝ*: *gṝ* + *l*; *parasmaipada* 3rd plural *jhi*; *ant* for *jh* by "jho 'ntaḥ" (Pā. sū. 7-1-3): *gṝ* + *anti*; *śnā* by "kryādibhyaḥ śnā" (Pā. sū. 3-1-81): *gṝ* + *nā* + *anti*; the root shortened by "pvādīnāṃ hrasvaḥ" (Pā. sū. 7-3-80): *gṛ* + *nā* + *anti*; "śnābhyastayor ātaḥ" (Pā. sū. 6-4-112): before a *kit* or *ṅit* suffix the *ā* of *śnā* and of a reduplicated stem drops; *śnā* is *ṅit* by "sārvadhātukam apit" (Pā. sū. 1-2-4): *gṛ* + *n* + *anti*; *ṇ* for *n* by "ṛvarṇāc ceti vaktavyam" (Pā. sū. 8-4-1 vā. 1): *gṛṇanti*. It follows the *tiṅanta* *ahūṣata*, so "tiṅṅatiṅaḥ" does not make it wholly unaccented; *tiṅ* being a suffix, "ādyudāttaś ca" (Pā. sū. 3-1-3) gives the initial udātta, so the *a* of *anti* is udātta.
+
+**विप्र (*vipra*)**: a vocative; so by "āmantritasya ca" (Pā. sū. "1-19" [as printed, for 8-1-19]) wholly unaccented.
+
+**ते (*te*)**: with "anudāttaṃ sarvam apādādau" (Pā. sū. 8-1-18) and "padāt" (Pā. sū. "8-11-7" [as printed, for 8-1-17]) carried on, "te mayāv ekavacanasya" (Pā. sū. 8-1-22) gives *te* and *me* for *yuṣmad* and *asmad* in the genitive singular, after a word and not at the beginning of a pāda, unaccented; so *te* for *tava*, unaccented.
+
+**देवेभिः (*devebhiḥ*)**: no *ais* by "bahulaṃ chandasi".
+
+**गहि (*gahi*)**: *gamḷ sṛpḷ gatau*; *loṭ*, 2nd singular *sip*: *gam* + *si*; *hi* for *si* by "ser hy apic ca" (Pā. sū. 3-4-87), which by "sārvadhātukam apit" (Pā. sū. 1-2-4) is *ṅit*; the *śap* of "kartari śap" is dropped by "bahulaṃ chandasi" (Pā. sū. 2-4-73); "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. sū. 6-4-37) drops the *m*. "asiddhavad atrābhāt" (Pā. sū. 6-4-22) is said to govern the rules up to the end of this pāda; so when "ato heḥ" (Pā. sū. 6-4-105) would drop the *hi*,
+
+### Page 592 — Rik 2: grammar (end)
+
+the loss of *m* by "anudāttopadeśa…" counts as not done, so *hi* does not stand after a stem ending in *a*, and is not dropped.
+
+**॥२॥**
+
+---
 
 ### Pages 592–593 — Sūkta 14, Rik 3
 
