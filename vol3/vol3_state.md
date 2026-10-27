@@ -9,7 +9,7 @@ and `vol3_pass_log.md` (one entry per batch).
 ## Reference
 
 **Better scan** (`scans/03 Rigveda Samhitha Volume 03 1.pdf` … `7.pdf`, 100+100+100+100+100+80+80 = 660 PDF pages, uploaded by
-the user Oct 27). Page map, from the page headers (spot checks with a full header read, see below):
+the user Oct 27). Page map, from the page headers (Oct 27: every page's header number read by Tesseract — the printed numbers are Latin digits — 490 of the 646 text pages confirmed directly; the rest, mostly odd pages whose number was cut off, all lie between confirmed pages with the same offset, and the longest unconfirmed runs, PDF 17–23, 85–89, 471–475, 621–623, were checked by eye; the only breaks are the two missing pages and the duplicate below):
 - PDF 1–14: front matter: cover (PDF 1), title pages, dedication, portraits, preface (Bhūmikā, signed 6-10-1949),
   abbreviations (PDF 10), contents *Viṣayānukramaṇike* (PDF 11–14). The old scan has the same front matter plus a second copy of
   the cover (its PDF 1–15).
