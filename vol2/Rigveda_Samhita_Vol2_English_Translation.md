@@ -7355,19 +7355,21 @@ The words **एवा (*evā*), हि (*hi*), अस्य (*asya*)** have been
 
 **॥ Sūkta — 9 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 3 ॥ Sūkta — 9 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 17, 18 [?] ॥** *(small-print Kannada digits, re-read at 300 dpi; they continue the run of two vargas per sūkta: Sūkta 7 "13, 14", Sūkta 8 "15, 16")*
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 17, 18 ॥**
 **॥ Mantras contained in this sūkta: 1–10 ॥**
 **॥ Ṛṣi — Madhucchandā Vaiśvāmitra ॥**
 **॥ Devatā — Indra ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रेहि मत्स्यन्धसो विश्वेभिः सोमपर्वभिः ।
-> महाँ अभिष्टिरोजसा ॥१॥
+> इन्द्रेहि॒ मत्स्य॑न्धसो॒ विश्वे॑भिः सोम॒पर्व॑भिः ।
+> म॒हाँ अ॑भि॒ष्टिरोज॑सा ॥१॥
 >
-> *indrehi matsy andhaso viśvebhiḥ somaparvabhiḥ |*
-> *mahāṁ abhiṣṭir ojasā ||1||*
+> *indrehi mátsy andhaso víśvebhiḥ somapárvabhiḥ |*
+> *mahā́ṁ abhiṣṭír ójasā ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
