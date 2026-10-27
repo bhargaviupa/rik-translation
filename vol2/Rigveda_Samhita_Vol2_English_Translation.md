@@ -16341,57 +16341,119 @@ it is initial udātta; and it is a *taddhita*: so the Kannada sense. When the su
 
 ---
 
-### Pages 754–756 — Sūkta 18, Rik 2
+### Page 754 (lower) — Sūkta 18, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यो रेवान्यो अमीवहा वसुवित्पुष्टिवर्धनः ।
-> स नः सिषक्तु यस्तुरः ॥२॥
+> यो रे॒वान्यो अ॑मीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः । [accent ?]
+> स नः॑ सिषक्तु॒ यस्तु॒रः ॥२॥ [accent ?]
 >
-> *yo revān yo amīvahā vasuvit puṣṭivardhanaḥ |*
-> *sa naḥ siṣaktu yas turaḥ ||2||*
+> *yo revā́n yó amīvahā́ vasuvít puṣṭivárdhanaḥ |* [accent ?]
+> *sá naḥ siṣaktu yás turáḥ ||2||* [accent ?]
+
+*(Read as printed: strokes over म (अमीव), व, पु and र्ध; bars under रे, व (अमीवहा), सु and ष्टि; in line 2 a stroke over नः and a bar under स्तु; the bar under क्तु is not certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
+*(सिसक्तु, with स, is as printed in the Pada.)*
+
 > यः । रेवान् । यः । अमीवऽहा । वसुऽवित् । पुष्टिऽवर्धनः ॥
-> सः । नः । सिषक्तु । यः । तुरः ॥२॥
+> सः । नः । सिसक्तु । यः । तुरः ॥२॥
 >
-> *yaḥ | revān | yaḥ | amīva-hā | vasu-vit | puṣṭi-vardhanaḥ ||*
-> *saḥ | naḥ | siṣaktu | yaḥ | turaḥ ||2||*
+> *yaḥ | revān | yaḥ | amīva 'hā | vasu 'vit | puṣṭi 'vardhanaḥ ||*
+> *saḥ | naḥ | sisaktu | yaḥ | turaḥ ||2||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 754; compressed; [?] marks doubtful readings)*
-
-> यो ब्रह्मणस्पती रेवान्धनवांश्च अमीवहा रोगाणां हन्ता वसुवित्धनलब्धा पुष्टिवर्धनः पुष्टेर्वर्धयिता यश्च तुरः त्वरायुक्तः शीघ्रफलदः स ब्रह्मणस्पतिर्नोऽस्मान्सिषक्तु । सेवताम् । परिगृह्यानुगृह्णात्वित्यर्थः । अत्र सिषक्तेः सेवार्थत्वस्य यास्क आह । सिषक्तु सचत इति सेवमानस्य । नि. [३-१०] । इति । प्रत्ययोकारशब्दावितीति शेषः ॥ रेवान् । रयिरस्यास्तीति मतुप् । रयेर्मतौ बहुलम् । पा. [६-१-३७ ?] । इति यकारस्य संप्रसारणं परपूर्वत्वम् । छन्दसीर इति वत्वम् । आद्गुणः । … अमीवहा । अम रोग इत्येतस्माद्वप्रत्ययेनामीवशब्दो निपातितः । तं हन्तीति बहुलं छन्दसीति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । वसुवित् । वसु विन्दतीति वसुवित् । क्विप् च । उत्तरपदप्रकृतिस्वरत्वम् । पुष्टिवर्धनः । वर्धयतेर्नन्दादित्वाल्ल्युः । पा. [३-१-१३४] । लितीति प्रत्ययात्पूर्वस्योदात्तत्वम् । पुष्टेर्वर्धन इति कर्मणि षष्ठ्या समासः । कृदुत्तरपदप्रकृतिस्वरत्वम् । सिषक्तु । षच समवाये । लोटि बहुलं छन्दसीति शपः श्लुः । श्लौ द्वित्वे हलादिशेषे बहुलं छन्दसीत्यभ्यासस्याकारस्येकारः । पा. [७-४-७८] । तुरः । तुर त्वरणे । इगुपधज्ञाप्रीकिरः कः । कः प्रत्ययस्वरः ॥२॥
+> यो ब्रह्मणस्पती रेवान्धनवान्यश्चामीवहा रोगाणां हन्ता वसुविद्धनलब्धा पुष्टिवर्धनः पुष्टेर्वर्धयिता यश्च तुरस्त्वरोपेतः शीघ्रफलदः स ब्रह्मणस्पतिर्नोऽस्मान् सिषक्तु । सेवताम् । परिगृह्यानुगृह्णात्वित्यर्थः । अत्र सिषक्तुशब्दस्य सेवार्थत्वं यास्क आह । सिषक्तु सचत इति सेवमानस्य । नि. ३-२१ । इति प्रत्याय्यकौ शब्दाविति शेषः ॥ रेवान् । रयिरस्यास्तीति मतुप् । रयेर्मतौ बहुलम् । पा. ६-१-३७-६ । इति यकारस्य संप्रसारणं परपूर्वत्वम् । छन्दसीर इति वत्वम् । आद्गुणः । ननु वत्वस्यासिद्धत्वाद्बहिरङ्गत्वाच्च प्रागेव गुणे कृते इवर्णाभावान्न वत्वम् । न चान्तादिवच्च । पा. ६-१-८५ । इत्यादिवद्भावेनेवर्णसंपादनं वर्णाश्रयविधौ तत्प्रतिषेधात् । अन्यथा खट्वाभिरित्यत्र सवर्णदीर्घस्यान्तवद्भावेनाकारत्वादतो भिस ऐस् । पा. ७-१-९ । इत्यैसादेशः स्यात् । न च निरवकाशत्वेन वत्वस्यानवकाशत्वम् । अग्निवान्वैदर्भस्तम्बः । उप ब्रह्माणि हरिवः । ऋग्वे. १०-१०४-६ । इत्यादावनवकाशलाभात्
 >
-> *yo brahmaṇaspatī revān dhanavāṃś ca amīvahā rogāṇāṃ hantā vasuvid dhana-labdhā puṣṭivardhanaḥ puṣṭer vardhayitā yaś ca turaḥ tvarāyuktaḥ śīghra-phaladaḥ sa brahmaṇaspatir no 'smān siṣaktu | sevatām | parigṛhyānugṛhṇātv ity arthaḥ | atra siṣakteḥ sevārthatvasya yāska āha | siṣaktu sacata iti sevamānasya | ni. [3-10] | iti | pratyayokāra-śabdāv iti śeṣaḥ || revān | rayir asyāstīti matup | rayer matau bahulam | pā. [6-1-37 ?] | iti yakārasya saṃprasāraṇaṃ parapūrvatvam | chandasīra iti vatvam | ād guṇaḥ | … amīvahā | ama roga ity etasmād vapratyayenāmīva-śabdo nipātitaḥ | taṃ hantīti bahulaṃ chandasīti kvip | kṛd-uttarapada-prakṛti-svaratvam | vasuvit | vasu vindatīti vasuvit | kvip ca | uttarapada-prakṛti-svaratvam | puṣṭivardhanaḥ | vardhayater nandādittvāl lyuḥ | pā. [3-1-134] | liti iti pratyayāt pūrvasyodāttatvam | puṣṭer vardhana iti karmaṇi ṣaṣṭhyā samāsaḥ | kṛd-uttarapada-prakṛti-svaratvam | siṣaktu | ṣaca samavāye | loṭi bahulaṃ chandasīti śapaḥ śluḥ | ślau dvitve halādiśeṣe bahulaṃ chandasīty abhyāsasyākārasyekāraḥ | pā. [7-4-78] | turaḥ | tura tvaraṇe | igupadha-jñā-prī-kiraḥ kaḥ | kaḥ pratyaya-svaraḥ ||2||*
+> *yo brahmaṇaspatī revāndhanavānyaścāmīvahā rogāṇāṃ hantā vasuviddhanalabdhā puṣṭivardhanaḥ puṣṭervardhayitā yaśca turastvaropetaḥ śīghraphaladaḥ sa brahmaṇaspatirno 'smān siṣaktu | sevatām | parigṛhyānugṛhṇātvityarthaḥ | atra siṣaktuśabdasya sevārthatvaṃ yāska āha | siṣaktu sacata iti sevamānasya | ni. 3-21 | iti pratyāyyakau śabdāviti śeṣaḥ || revān | rayirasyāstīti matup | rayermatau bahulam | pā. 6-1-37-6 | iti yakārasya saṃprasāraṇaṃ parapūrvatvam | chandasīra iti vatvam | ādguṇaḥ | nanu vatvasyāsiddhatvādbahiraṅgatvācca prāgeva guṇe kṛte ivarṇābhāvānna vatvam | na cāntādivacca | pā. 6-1-85 | ityādivadbhāvenevarṇasaṃpādanaṃ varṇāśrayavidhau tatpratiṣedhāt | anyathā khaṭvābhirityatra savarṇadīrghasyāntavadbhāvenākāratvādato bhisa ais | pā. 7-1-9 | ityaisādeśaḥ syāt | na ca niravakāśatvena vatvasyānavakāśatvam | agnivānvaidarbhastambaḥ | upa brahmāṇi harivaḥ | ṛgve. 10-104-6 | ityādāvanavakāśalābhāt*
 
-**Translation:** "That Brahmaṇaspati who is *revān* — wealthy; *amīvahā* — the slayer of diseases; *vasuvit* — the finder of wealth; *puṣṭivardhanaḥ* — the increaser of nourishment; and who is *turaḥ* — swift, quick to give fruit: may that Brahmaṇaspati *siṣaktu* — attend upon (favour) us, the sense being 'having taken us up, may he show favour'. As to *sac* having the sense of 'serve', Yāska says: '*siṣaktu*: *sacate*, of one who serves' (Nirukta 3-10 [?])." The rest is grammar, noted briefly: *revān* (*rayi* + *matup*; *saṃprasāraṇa* of *y*; *va* by P. 8-2-15); *amīvahā* (*amīva*, 'disease', by *nipātana* from *am*; *han* + *kvip*); *vasuvit* (*vid* + *kvip*); *puṣṭivardhanaḥ* (*lyu* by P. 3-1-134 *nandigrahipacādibhyo lyuṇinyacaḥ*; the genitive compound in the object sense); *siṣaktu* (*sac* "to be joined", *loṭ*, with *śap* replaced by *ślu* [reduplication] "variously in the Veda"; the vowel of the reduplicative *a* becomes *i* by P. 7-4-78); *turaḥ* (*tur* "to hasten", suffix *ka* by P. 3-1-135 *igupadhajñāprīkirḥ kaḥ*; suffix accent). *(Grammar, noted briefly; P. 3-1-134 and 7-4-78 as read agree with the standard numbering.)*
+### Page 755 — Rik 2: bhāṣya (end), word-meanings, overall sense, English
 
-**॥ Prati-padārthaḥ ॥** *(p. 755)*
+> सत्यम् । अत्र गुणप्रवृत्तेः प्रागिकारात्परो मतुप् । कदाचिदिवर्णात्परस्य मतुपः पश्चादेकारादेशेनेवर्णाभावेऽपि भवति वत्वमिति छन्दसीर इति सूत्रकृता विवक्षितम् । अमुमेवाभिप्रायेण हरिव इत्यादिकमुदाहृत्याप्यन्ते वृत्तिकृता आरेवानित्युदाहृतम् । का. ८-२-१५ । ह्रस्वनुड्भ्यामित्यत्रारेशब्दान्मतुप उदात्तत्वं वक्तव्यम् । पा. ६-१-१७६-१ । इत्यत्रारेशब्दो रेशब्दस्याप्युपलक्षणम् । अत एव हि रेवाँ इन्द्रेत्यादौ मतुप उदात्तत्वं दृष्टम् । अथवा ह्रस्वनुड्भ्यामित्यत्रापि कदाचिद्ध्रस्वात्परस्य मतुप उदात्तत्वमित्येव व्याख्येयम् । एवं च संप्रसारणपरपूर्वत्वयोः कृतयोर्गुणात्प्राग्ध्रस्वात्परो मतुबिति रेवानारेवानित्यादौ सर्वत्रोदात्तत्वं सिध्यति । अयमेव सूत्रकृतोऽभिप्रायो वार्तिककृता व्याख्यात इति ॥ अमीवहा । अम रोग इत्येतस्माद्वन्प्रत्ययेनामीवशब्दो निपातितः । तं हन्तीति बहुलं छन्दसीति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । वसुवित् । वसु विन्दतीति वसुवित् । क्विप्चेति क्विप् । उत्तरपदप्रकृतिस्वरत्वम् । पुष्टिवर्धनः । वर्धयतेर्नन्द्यादित्वाल्ल्युः । पा. ३-१-१३४ । लितीति प्रत्ययात्पूर्वस्योदात्तत्वम् । पुष्टेर्वर्धन इति कर्मणि षष्ठ्याः समासः । कृदुत्तरपदप्रकृतिस्वरत्वम् । सिषक्तु । षच समवाये । लोटि बहुलं छन्दसीति शपः श्लुः । श्लाविति द्वित्वे हलादिशेषे बहुलं छन्दसीत्यभ्यासस्याकारस्येकारः । पा. ७-४-७८ । तुरः । तुर त्वरणे । इगुपधज्ञाप्रीकिरः कः । कः प्रत्ययस्वरः ॥
+>
+> *satyam | atra guṇapravṛtteḥ prāgikārātparo matup | kadācidivarṇātparasya matupaḥ paścādekārādeśenevarṇābhāve 'pi bhavati vatvamiti chandasīra iti sūtrakṛtā vivakṣitam | amumevābhiprāyeṇa hariva ityādikamudāhṛtyāpyante vṛttikṛtā ārevānityudāhṛtam | kā. 8-2-15 | hrasvanuḍbhyāmityatrāreśabdānmatupa udāttatvaṃ vaktavyam | pā. 6-1-176-1 | ityatrāreśabdo reśabdasyāpyupalakṣaṇam | ata eva hi revā~ indretyādau matupa udāttatvaṃ dṛṣṭam | athavā hrasvanuḍbhyāmityatrāpi kadāciddhrasvātparasya matupa udāttatvamityeva vyākhyeyam | evaṃ ca saṃprasāraṇaparapūrvatvayoḥ kṛtayorguṇātprāgdhrasvātparo matubiti revānārevānityādau sarvatrodāttatvaṃ sidhyati | ayameva sūtrakṛto 'bhiprāyo vārtikakṛtā vyākhyāta iti || amīvahā | ama roga ityetasmādvanpratyayenāmīvaśabdo nipātitaḥ | taṃ hantīti bahulaṃ chandasīti kvip | kṛduttarapadaprakṛtisvaratvam | vasuvit | vasu vindatīti vasuvit | kvipceti kvip | uttarapadaprakṛtisvaratvam | puṣṭivardhanaḥ | vardhayaternandyāditvāllyuḥ | pā. 3-1-134 | litīti pratyayātpūrvasyodāttatvam | puṣṭervardhana iti karmaṇi ṣaṣṭhyāḥ samāsaḥ | kṛduttarapadaprakṛtisvaratvam | siṣaktu | ṣaca samavāye | loṭi bahulaṃ chandasīti śapaḥ śluḥ | ślāviti dvitve halādiśeṣe bahulaṃ chandasītyabhyāsasyākārasyekāraḥ | pā. 7-4-78 | turaḥ | tura tvaraṇe | igupadhajñāprīkiraḥ kaḥ | kaḥ pratyayasvaraḥ ||*
 
-**यः (yaḥ)** — which Brahmaṇaspati | **रेवान् (revān)** — [who is] wealthy | **यः (yaḥ)** — who | **अमीवहा (amīvahā)** — the remover of diseases | **वसुवित् (vasuvit)** — the finder of wealth | **पुष्टिवर्धनः (puṣṭivardhanaḥ)** — the increaser of nourishment | **यः (yaḥ)** — who | **तुरः (turaḥ)** — swift to give the fruit | **सः (saḥ)** — that Brahmaṇaspati | **नः (naḥ)** — us | **सिषक्तु (siṣaktu)** — let him serve (favour).
+**Translation:** "The Brahmaṇaspati who is *revān*, wealthy, and who is *amīvahā*, slayer of diseases, *vasuvit*, finder of wealth, *puṣṭivardhana*, increaser of nourishment, and who is *tura*, swift, giving fruit quickly: may that Brahmaṇaspati *siṣaktu*, serve us: that is, take us up and favour us. Yāska states that *siṣaktu* means serving: '*siṣaktu*, *sacate*: of one who serves' (Ni. 3-21); 'two words to be understood' is to be supplied." (Grammatical tail: *revān*, *matup* in "he has *rayi*", *saṃprasāraṇa* of the *y* by Pā. 6-1-37-6, the *pūrvarūpa*, *v* by *chandasīraḥ*, *guṇa* by *ād guṇaḥ*. An objection: since the *v* is *asiddha* and *bahiraṅga*, *guṇa* comes first and there is no *i*, so no *v*; nor can the *i* be supplied by treating it as the beginning by *antādivac ca* (Pā. 6-1-85), since that is barred in a rule depending on letters; otherwise in *khaṭvābhiḥ* the lengthened vowel, treated as the end, would be *a* and take *ais* by Pā. 7-1-9; nor is the *v* rule left without scope, since it has scope in *agnivān vaidarbhaḥ stambaḥ*, *upa brahmāṇi harivaḥ* (Ṛgveda 10-104-6). Answer: true; here, before *guṇa* applies, the *matup* follows the *i*; the author of the sūtra meant *chandasīraḥ* to give *v* even when, after a *matup* once following an *i*, the *e* substitute has removed the *i*. With this intent the Vṛttikāra, after giving *harivaḥ* and the rest, gives *ārevān* at the end (Kā. 8-2-15). In the statement on *hrasvanuḍbhyām*, "the udātta of *matup* after the word *āre*" (Pā. 6-1-176-1), *āre* stands also for *re*; hence the udātta of *matup* seen in *revām̐ indra* and the like. Or in *hrasvanuḍbhyām* too the sense is "the udātta of a *matup* once following a short vowel"; thus, *saṃprasāraṇa* and the *pūrvarūpa* done, before *guṇa* the *matup* follows a short vowel, and the udātta is established everywhere, in *revān*, *ārevān* and the rest. This intent of the sūtra's author is what the Vārttikakāra explained. *Amīvahā*, *amīva* given ready-made with the suffix *van* after *ama roge*; "he kills it", *kvip* by *bahulaṃ chandasi*, the accent of the *kṛt* final member; *vasuvit*, "he finds wealth", *kvip* by *kvip ca*, the accent of the final member; *puṣṭivardhanaḥ*, *lyu* after the causative of *vṛdh* as one of the *nandy-ādi* (Pā. 3-1-134), udātta before the suffix by *liti*, compounded with the genitive of the object, *puṣṭer vardhanaḥ*, the accent of the *kṛt* final member; *siṣaktu*, *ṣaca samavāye*, *ślu* for *śap* in the *loṭ* by *bahulaṃ chandasi*, doubling by *ślau*, *halādiḥ śeṣaḥ*, *i* for the *a* of the *abhyāsa* by *bahulaṃ chandasi* (Pā. 7-4-78); *turaḥ*, *tura tvaraṇe*, *ka* by *igupadhajñāprīkiraḥ kaḥ*, the suffix accent.)
+
+**॥ Prati-padārthaḥ ॥**
+
+**यः (yaḥ)** — which Brahmaṇaspati | **रेवान् (revān)** — is possessed of wealth | **यः (yaḥ)** — which Brahmaṇaspati | **अमीवहा (amīvahā)** — removes diseases | **वसुवित् (vasuvit)** — provides wealth | **पुष्टिवर्धनः (puṣṭivardhanaḥ)** — increases nourishment | **यः (yaḥ)** — who | **तुरः (turaḥ)** — gives fruit quickly | **सः (saḥ)** — that Brahmaṇaspati | **नः (naḥ)** — us | **सिषक्तु (siṣaktu)** — may he serve (favour).
 
 **॥ Bhāvārthaḥ ॥**
 
-Brahmaṇaspati is greatly wealthy; he is worthy to give wealth to others; he brings increase of nourishment; and he gives fruit quickly. May such a Brahmaṇaspati favour us.
+Brahmaṇaspati is very rich, a giver of wealth to others, one who brings about nourishment, a quick giver of fruit. May such a Brahmaṇaspati favour us.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> May he (Brahmanaspati) who is wealthy, the healer of disease; the acquirer of riches, increaser of nourishments, the prompt bestower of rewards be favourable to us.
+> May he (Brahmanaspati) who is wealthy, the healer of disease; the acquirer of riches, incraaser [sic] of nourishments, the prompt bestower of rewards be favourable to us.
 
-*(The print has "increaser" misspelt in the Pratipadārtha lines as "increaaser" — [sic]; I give the corrected word.)*
+### Page 756 — Rik 2: Special Topics and grammar
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 756)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**रेवान् (revān)** — *rayir asyāsti iti revān*: one who has wealth.
+**Revān**:
 
-**अमीवहा (amīvahā)** — *amī rogaḥ taṃ hantīti amīvahā*: the destroyer of disease.
+> रयिरस्यास्तीति रेवान् ॥
+>
+> *rayirasyāstīti revān ||*
 
-**तुरः (turaḥ)** — *tvaropetaḥ śīghraphaladaḥ*: one who gives fruits quickly. Though *tura* may mean "one who does work quickly or hurriedly", here the commentator takes it to mean one who gives quick fruit to actions.
+("He has *rayi*: *revān*.") One who has wealth.
 
-**Grammar pages (pp. 756 lower half–757 upper), noted briefly.** The Kannada treats *revān* (*rayiḥ asya asti*; *tad asyāsty asminn iti matup* P. 5-2-94; the *sup* dropped by *supo dhātuprātipadikayoḥ*; *rayer mator bahulam* P. 6-1-37 [as read 6-1-37? — the Kannada gives the numerals as "೬-೧-೩೭-೬"; I give it as 6-1-37 [?]] gives *saṃprasāraṇa* of *y* variously when *matup* follows; *saṃprasāraṇāc ca* P. 6-1-108 *pūrvarūpa*; *chandasīraḥ* P. 8-2-15 gives *va* for the *ma* of *matup* after a stem ending in *i/ī* or *r*; *ād guṇaḥ* P. 6-1-87 — with the scholastic question whether *va* [by *chandasīraḥ*] or *guṇa* [by *ād guṇaḥ*] comes first: since *chandasīraḥ* is in the eighth chapter and *ād guṇaḥ* in the sixth, by *pūrvatrāsiddham* P. 8-2-1 the earlier-chapter rule is stronger, so guṇa first; and also the *antaraṅga* and *bahiraṅga* paribhāṣās [*asiddhaṃ bahiraṅgam antaraṅge*] give the same result — so *re* + *vat*, with *ra* + *i* + *mat* → *re* + *mat*, then *va*; *anādivac ca* P. 6-1-87? [the *ekādeśa* is treated as the end of the former and the beginning of the latter word — hence the *e* is the *ādi* of the *matup*'s preceding stem and *vat* follows]). ॥2॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+**Amīvahā**:
+
+> अम रोगः । तं हन्तीति अमीवहा ॥
+>
+> *ama rogaḥ | taṃ hantīti amīvahā ||*
+
+("*Ama* is disease; he kills it: *amīvahā*.") One who destroys disease.
+
+**Turaḥ**:
+
+> त्वरोपेतः शीघ्रफलदः ॥
+>
+> *tvaropetaḥ śīghraphaladaḥ ||*
+
+("Possessed of speed, giving fruit quickly.") One who gives fruits quickly. Though the word *tura* means "possessed of speed, quick", that is, one who works quickly or fast, here the commentator has taken the sense "one who gives fruit to rites quickly".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 756–759, noted briefly)*
+
+**रेवान् (*revān*)**: the analysis *rayiḥ asya asti*. By "tad asyāsty asminn iti matup" (Pā. sū. 5-2-94) the suffix *matup*; the *su* that is part of the stem takes *luk* by *supo dhātu…*: *rayi* + *mat*. By "rayer matau bahulam" (Pā. sū. 6-1-37-6), when the suffix *matup* follows, the word *rayi* takes *saṃprasāraṇa* variously: *saṃprasāraṇa*, *i* for *y*; the *pūrvarūpa* by "saṃprasāraṇāc ca" (Pā. sū. 6-1-108): *ra* + *i* + *mat*. By "chandasīraḥ" (Pā. sū. 8-2-15) *v* for the *m*; by "ād guṇaḥ" (Pā. sū. 6-1-87) *e* for *a* + *i*: *re* + *vat*. With *ra* + *i* + *mat*, does the *v* of *chandasīraḥ* come first, or the *guṇa* of *ād guṇaḥ*? *Chandasīraḥ* is in the second *pāda* of the eighth chapter; the sūtra *ād guṇaḥ* is in the first *pāda* of the sixth chapter. So by "pūrvatrāsiddham" (Pā. sū. 8-2-1), when the *guṇa* of the earlier rule is made, the *v* of the later rule, of the *tripādī*, is *asiddha*. So it is proper that *guṇa* comes first. Further, *ghaṭakanimittakam antaraṅgam* is the definition of *antaraṅga*. Here, since *guṇa* is conditioned only by a pair of letters included in the group of conditions of the *bahiraṅga* rule, the *v* rule, *guṇa* is *antaraṅga*; since the *v* is conditioned by what contains such a pair of letters, the *v* is *bahiraṅga*. So by "asiddhaṃ bahiraṅgam antaraṅge" (*paribhāṣā* 50), when the *antaraṅga* *guṇa* is made, the *bahiraṅga* *v* rule is *asiddha*. For these two reasons it is right that *guṇa* comes first. If *guṇa* comes first in this way,
+
+### Page 757 — Rik 2: grammar
+
+it becomes *re* + *mat*. Now there is no *matup* after an *i*-final word. So how does the *v* come, by "chandasīraḥ" (8-2-15), *v* for the *m* of a *matup* after an *i*-final or *r*-final word? Since "antādivac ca" (Pā. sū. 6-1-85) says a single substitute is like the end of what precedes and like the beginning of what follows, here we resort to its being like the beginning of what follows, as the intended form requires. Since there is the bar "*ubhayata āśrayaṇe nāntādivat*", being like the end of the former and like the beginning of the latter cannot both be stated at once. So for the single substitute in the form of *guṇa*, what follows is the *i*; it is like its beginning, so it becomes like the *i*
+
+### Page 758 — Rik 2: grammar
+
+itself. So if it is said that following an *i* is possible, that cannot be said, because *i*-ness is a property residing in a letter alone. So, since *na vā atādrūpyātideśāt* [is said], there is no need to make the statement that, in a rule depending on letters, being like the end or the beginning does not come; for in *na vā atādrūpyātideśāt*, *tādrūpya* means a property residing in a letter, and the extension does not come from this sūtra at all; since it is said that the statement mentioned before need not be begun, the extension by *antādivac ca* does not come for the letter-property *i*-ness. If the extension *antādivac ca* were admitted in a rule depending on letters, the substitute *ais* would have to come in *khaṭvābhiḥ*: for after the word *khaṭvā*, *ṭāp*, lengthening of like vowels: *khaṭvā*. Though this does not end in short *a*, the letter before the single substitute is short; so by being like the end of the former, the *a*-ness of the former letter comes to the single substitute. So, since *bhis* follows a short-*a*-final, the substitute *ais* would have to come by "ato bhisa ais" (Pā. sū. 7-1-9). So when an operation depending on letters is made, being like the beginning does not come. In *are* + *mat* there is no following an *i*-final; how then does the *v* come? For this we say that the *v*, being an exception, comes earlier than the *antaraṅga*. For *niravakāśo vidhir apavādaḥ*: scope means some application in an instance; if that is not found, the rule is an exception. Here, if *guṇa* comes before the *v*, it may happen so in the other places too. Since no other instance is found for it, we would call it an exception. Being an exception, we would say the *v* comes earlier than *guṇa*; but that cannot be said, because it could be said only on the view in which the *v* rule is wholly useless. But the *v* rule has scope in *agnivān* and *harivaḥ* in the mantras "agnivān vaidarbhaḥ stambaḥ" (Tai. Brā. "2-2-1-5" [?]) and "upa brahmāṇi harivaḥ" (Ṛ. saṃ. 10-104-6). So this is not an exception. For that reason too it cannot be said that the *v* comes first as an exception. So how *revān* is established: though what was said before is true, here, before *guṇa* comes, with *ra* + *i* + *mat*, the *matup* stands after the *i*; so, even if the *e* substitute comes later to the *matup* that once followed an *i* and there is no following an *i*-final, the *v* comes; that is why the author, giving *harivaḥ* and other examples for *chandasīraḥ*, also cited *ārevān* at the end. In *hrasvanuḍbhyāṃ matup* (Pā. sū. 6-1-176), there is the statement "āreśabdāt matupaḥ" (Pā. sū. Vā. 6-1-176-1), that a *matup* after the word *āre* is udātta. Here the word *āre* also stands for the word *re*; the sense is that a *matup* after the word *re* should be taken as udātta too. That is why in places such as *revām̐ indra* the *matup* is udātta. Or, in *hrasvamaḍbhyāṃ matup* [as printed]
+
+### Page 759 (upper) — Rik 2: grammar (end)
+
+too the meaning to be stated is that a *matup* that once followed a short-final is udātta. So, whether when the word *rayi* precedes, or when, after the *saṃprasāraṇa* and *pūrvarūpa* of *y*, it stands as *ra* + *i* + *mat* before *guṇa* comes, the *matup* follows a short-final; so in all instances, *revān*, *ārevān* and the rest, the udātta accent of the *matup* is established. This is what the sūtrakāra intended; the vārttikakāra explained just this. So in *revān* both the *v* and the accent are established. If *chandasīraḥ* is explained as in the previous mantra, that the *m* of a *matup* enjoined after an *i*-final or *r*-final word takes *v*, then even though there is no *i* after *guṇa*, the *matup* is enjoined after the word *rayi*; since it is enjoined after an *i*-final, there is no obstacle at all to the *v*. In *hrasvanuḍbhyām* the Bhāṣya has the vārttika "*reśabdāc ca*". So there is no room at all for explaining *āre* as standing for something.
+
+**अमीवहा (*amīvahā*)**: the root *ama roge*. By "śevayahva…" (Uṇ. sū. "1-153" [?]) the suffix *van* after the root *am* and the augment *īṭ* for it are given ready-made. *Amīvaṃ hanti*: being meant, though another *upapada* is connected, by "bahulaṃ chandasi" (Pā. sū. 3-2-88) *kvip* comes variously after the root *han*: *amīvahan*; *han* is final udātta by the root accent; after compounding, by *gatikārakopapadāt kṛt* the accent of the *kṛt* final member comes and that accent stays.
+
+**वसुवित् (*vasuvit*)**: *vasu vindati iti vasuvit*: by *kvip ca*, after *vidḷ lābhe*, *kvip*; the accent of the *kṛt* final member as before.
+
+**पुष्टिवर्धनः (*puṣṭivardhanaḥ*)**: *puṣṭiṃ vardhayati iti puṣṭivardhanaḥ*; the root *vṛdhu vṛddhau*. After it *ṇic*. In
+
+> नन्दिवाशिमदिदूषिसाधिवर्धिशोभिरोचिभ्यो ण्यन्तेभ्यः संज्ञायाम्
+>
+> *nandivāśimadidūṣisādhivardhiśobhirocibhyo ṇyantebhyaḥ saṃjñāyām*
+
+the *ṇic*-final root *vṛdh* is read among the *nandy-ādi*. So after it the suffix *lyu* by "nandigrahipacādibhyo lyuṇinyacaḥ" (Pā. sū. 3-1-134); the loss of *ṇi* by *ṇer aniṭi*; *ana* for *yu* by *yuvor anākau*; the *laghūpadha-guṇa*, followed by *r*: *vardhana*. By "liti" (Pā. sū. "2-1-1" [as printed, for 6-1-193]) what precedes the suffix *ana* is udātta. *Puṣṭer vardhanaḥ*: compounded with the genitive of the object; the accent of the *kṛt* final member.
+
+**सिषक्तु (*siṣaktu*)**: *ṣaca samavāye*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; *loṭ*, *tip*; by *eruḥ* *u* for the *i* of *ti*. *Śap* by *kartari śap*; for it, by "bahulaṃ chandasi" (Pā. sū. 2-4-76), in the Veda *ślu* (loss) comes variously for *śap*: so *ślu*; doubling by "ślau" (Pā. sū. 6-1-10): *sac sac* + *tu*; by "halādiḥ śeṣaḥ" (Pā. sū. 7-4-60) the *c* of the *abhyāsa* drops; by "bahulaṃ chandasi" (Ṛ. saṃ. [as printed, for Pā. sū.] "2-4-78" [as printed, for 7-4-78]) the *a* of the *abhyāsa* takes *i* variously in the Veda: *i* for the *a* of the first *s*: *sisac* + *tu*; by "coḥ kuḥ" (Pā. sū. 8-2-30) *k* for *c*; by *ādeśapratyayayoḥ* *ṣ* for the second *s*: *siṣaktu*.
+
+**तुरः (*turaḥ*)**: the root *tura tvaraṇe*, with *i*/*u* as penultimate. After it, by "igupadhajñāprīkiraḥ kaḥ" (Pā. sū. 3-1-135), the suffix *ka*; the *k* is called *it* and dropped; the suffix is *kit*, so the *laghūpadha-guṇa* does not come. By *ādyudāttaś ca* the suffix accent comes; *turaḥ* is final udātta.
+
+**॥२॥**
+
+---
 
 ### Pages 759–764 — Sūkta 18, Rik 3
 
