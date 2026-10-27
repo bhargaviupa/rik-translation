@@ -17407,15 +17407,19 @@ accent coming, *adruhaḥ* would have to be initial udātta. But even if the *ta
 
 ---
 
-### Pages 792–795 — Sūkta 19, Rik 4
+### Page 792 (lower) — Sūkta 19, Rik 4
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> य उग्रा अर्कमानृचुरनाधृष्टास ओजसा ।
-> मरुद्भिरग्न आ गहि ॥४॥
+> य उ॒ग्रा अ॒र्कमा॑नृ॒चुरना॑धृष्टास॒ ओज॑सा । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥४॥ [accent ?]
 >
-> *ya ugrā arkam ānṛcur anādhṛṣṭāsa ojasā |*
-> *marudbhir agna ā gahi ||4||*
+> *ya ugrā́ arkám ānṛcúr ánādhṛṣṭāsa ójasā |* [accent ?]
+> *marúdbhir agna ā́ gahi ||4||* [accent ?]
+
+*(Read as printed: bars under उ, अ (अर्क), नृ, स (ष्टास), म and ग्न; strokes over मा, ना, ज, द्भि and ग.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -17423,41 +17427,91 @@ accent coming, *adruhaḥ* would have to be initial udātta. But even if the *ta
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥४॥
 >
 > *ye | ugrāḥ | arkam | ānṛcuḥ | anādhṛṣṭāsaḥ | ojasā ||*
-> *marut-bhiḥ | agne | ā | gahi ||4||*
+> *marut 'bhiḥ | agne | ā | gahi ||4||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 792; compressed; [?] marks doubtful readings)*
-
-> हे मरुत उग्रास्तीव्राः सन्तोऽर्कमुदकमानृचुः अर्चितवन्तः । वर्षणेन सम्पादितवन्त इत्यर्थः । तैर्मरुद्भिरित्यन्वयः । कीदृशा मरुतः । ओजसा बलेनानाधृष्टासोऽतिरस्कृताः । सर्वेभ्योऽपि प्रबला इत्यर्थः । अर्कशब्दस्योदकवाचित्वं वाजसनेयिन आमनन्ति । आपो वा अर्कः । शत. ब्रा. [१०-६-५-१] । इति । तन्निर्वचनं च त एवामनन्ति । सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वम् । शत. ब्रा. [१०-६-५-१] । इति । जगत्सृष्ट्वा हिरण्यगर्भ उदकं सृष्टुमुद्यक्तो ऽर्चन्नुदकसत्यसङ्कल्पमहिमप्रख्यापनेन स्वात्मानं पूजयन्नचरत् । तथा पूजयतो हिरण्यगर्भस्य सकाशादुदकमुत्पन्नम् । तदानीमर्चतो मत्तः कमभूदित्यवोचत् । तेनोदकस्यार्कनाम निष्पन्नमित्यर्थः ॥ आनृचुः । अर्च पूजायाम् । लिट् झि । … अनाधृष्टासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । ओजसा । उब्जेर्बलोपश्च । उ. [४-१८१ ?] । इत्यसुन् । नित्त्वाद्याद्युदात्तः ॥४॥
+> हे मरुत उग्रास्तीव्राः सन्तोऽर्कमुदकमानृचुः अर्चितवन्तः । वर्षणेन संपादितवन्त इत्यर्थः । तैर्मरुद्भिरित्यन्वयः । कीदृशा मरुतः । ओजसा बलेनानाधृष्टासोऽतिरस्कृताः । सर्वेभ्योऽपि प्रबला इत्यर्थः । अर्कशब्दस्योदकवाचित्वं वाजसनेयिन आमनन्ति । आपो वा अर्कः । शत. ब्रा. १०-६-५-२ । इति । तन्निर्वचनं च त-
 >
-> *he maruta ugrās tīvrāḥ santo 'rkam udakam ānṛcuḥ arcitavantaḥ | varṣaṇena sampāditavanta ity arthaḥ | tair marudbhir ity anvayaḥ | kīdṛśā marutaḥ | ojasā balenānādhṛṣṭāso 'tiraskṛtāḥ | sarvebhyo 'pi prabalā ity arthaḥ | arka-śabdasyodaka-vācitvaṃ vājasaneyina āmananti | āpo vā arkaḥ | śata. brā. [10-6-5-1] | iti | tan-nirvacanaṃ ca ta evāmananti | so 'rcann acarat tasyārcata āpo 'jāyantārcate vai me kam abhūd iti tad evārkasyārkatvam | śata. brā. [10-6-5-1] | iti | jagat sṛṣṭvā hiraṇyagarbha udakaṃ sraṣṭum udyakto 'rcann udaka-satya-saṅkalpa-mahima-prakhyāpanena svātmānaṃ pūjayann acarat | tathā pūjayato hiraṇyagarbhasya sakāśād udakam utpannam | tadānīm arcato mattaḥ kam abhūd ity avocat | tenodakasyārka-nāma niṣpannam ity arthaḥ || ānṛcuḥ | arca pūjāyām | liṭ jhi | … anādhṛṣṭāsaḥ | avyaya-pūrvapada-prakṛti-svaratvam | ojasā | ubje rbalopaś ca | u. [4-181 ?] | ity asun | nittvād ādyudāttaḥ ||4||*
+> *he maruta ugrāstīvrāḥ santo 'rkamudakamānṛcuḥ arcitavantaḥ | varṣaṇena saṃpāditavanta ityarthaḥ | tairmarudbhirityanvayaḥ | kīdṛśā marutaḥ | ojasā balenānādhṛṣṭāso 'tiraskṛtāḥ | sarvebhyo 'pi prabalā ityarthaḥ | arkaśabdasyodakavācitvaṃ vājasaneyina āmananti | āpo vā arkaḥ | śata. brā. 10-6-5-2 | iti | tannirvacanaṃ ca ta-*
 
-**Translation:** "O Maruts! Being fierce (*ugrāḥ*), they *ānṛcuḥ* — have worshipped, have produced — the *arka*, the water: that is, they have accomplished [it] by raining. [The construction is] 'with those Maruts [come]'. What sort of Maruts? *Anādhṛṣṭāsaḥ* — unassailed, unsurpassed, by (*ojasā*) strength: stronger than all. That the word *arka* means 'water' the Vājasaneyins read: '*āpo vā arkaḥ*' — 'water, indeed, is *arka*' (Śatapatha Brāhmaṇa [10-6-5-1]); and the explanation of that they too read: '*so 'rcann acarat tasyārcata āpo 'jāyantārcate vai me kam abhūd iti tad evārkasyārkatvam*' — 'He went about worshipping; from him, worshipping, the waters were born; "for me, worshipping, there has been *kam* [water, happiness]" — that is the *arka*-ness of *arka*.' Meaning: Hiraṇyagarbha, having created the world, and wishing to create water, set out worshipping — worshipping his own self by proclaiming the greatness of the truth of his resolve for water. As he thus worshipped, water was born from Hiraṇyagarbha; then he said, 'To me who worship, there has been *kam*'; from that the water got the name *arka*." The rest is grammar, noted briefly: *ānṛcuḥ* (*arc* "to worship", the perfect, with the reduplication in *ā*); *anādhṛṣṭāsaḥ* (a compound with a particle as first member, with that member's accent); *ojasā* (*ubj* "to be straight", with the loss of *b*, Uṇādi *asun*; first-syllable accent). *(Grammar, noted briefly; Śatapatha Brāhmaṇa numerals are as read and marked [?].)*
+### Page 793 — Rik 4: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 794 lower half–795), noted briefly.** The Kannada treats: *ānṛcuḥ* (*arc pūjāyām*; *liṭ*, third plural *jhi* → *us* by P. 3-4-82; *arc* + *us*; doubling by P. 6-1-8 *liṭi dhātor anabhyāsasya*; the consonants of the reduplicative dropped by *halādiḥ śeṣaḥ* P. 7-4-60; *ata ādeḥ* P. 7-4-70 lengthens the reduplicative *a*, so *ā-arc-us*; *tasmān nuḍ dvihalaḥ* P. 7-4-71 gives the augment *nuṭ* to a two-consonant root after a lengthened vowel: *ānarc-us*; *saṃprasāraṇa* of *r* to *ṛ* in the reduplicative by the *nipātana* of P. 6-1-36 *apaspṛdhethām ānṛcuḥ ānṛhuś cicyuṣe tatnikṣe tatrikṣe*… [the Kannada gives the full sūtra: *apaspṛdhethām ānṛcur ānṛhuś cicyuṣe tatrikṣe tatriśāte tatriśre* … *śrīñ*… as read]; the rule applies to *ānṛcuḥ*, *ānṛce* and *ānṛhuḥ*; the Kannada notes that the same process applies to *ānṛce* and so on; *yadvṛttān nityam* P. 8-1-66 prevents the verb from losing its accent, so the accent of the suffix remains), *anādhṛṣṭāsaḥ* (*na ādhṛṣṭāḥ*; *ājjaser asuk*; *tatpuruṣe tulyārthatṛtīyā…* P. 6-2-2 gives first-member accent for *na*), and *ojasā* (*ubj ārjave*; *ubjer bal-lopaś ca* Uṇ. 4-[?] gives *asun* after *ubj* in the sense of strength, with the loss of *b*; *uj* + *as*; guṇa; first-syllable accent through the *n*; instrumental *ṭā*). ॥4॥ *(A crowded run; outline only; numerals as read from small print; pointers only.)*
+> एवामनन्ति । सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वम् । शत. ब्रा. १०-६-५-१ । इति । जगत्स्रष्टा हिरण्यगर्भ उदकं स्रष्टुमुद्युक्तोऽर्चन् उदकसत्यसंकल्पमहिमप्रख्यापनेन स्वात्मानं पूजयन्नचरत् । तथा पूजयतो हिरण्यगर्भस्य सकाशादुदकमुत्पन्नं तदानीमर्चतो मत्तः कमभूदित्यवोचत् । तेनोदकस्यार्कनाम निष्पन्नमित्यर्थः ॥ आनृचुः । अर्चतेः । अपस्पृधेथामित्यादिना । पा. ६-१-३६ । निपातितः । प्रत्ययस्वरः । यद्वृत्तयोगान्न निघातः । अनाधृष्टासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । ओजसा । उब्जेर्बले बलोपश्च । उ. ४-१९१ । इत्यसुन् । नित्त्वादाद्युदात्तः ॥
+>
+> *evāmananti | so 'rcannacarattasyārcata āpo 'jāyantārcate vai me kamabhūditi tadevārkasyārkatvam | śata. brā. 10-6-5-1 | iti | jagatsraṣṭā hiraṇyagarbha udakaṃ sraṣṭumudyukto 'rcan udakasatyasaṃkalpamahimaprakhyāpanena svātmānaṃ pūjayannacarat | tathā pūjayato hiraṇyagarbhasya sakāśādudakamutpannaṃ tadānīmarcato mattaḥ kamabhūdityavocat | tenodakasyārkanāma niṣpannamityarthaḥ || ānṛcuḥ | arcateḥ | apaspṛdhethāmityādinā | pā. 6-1-36 | nipātitaḥ | pratyayasvaraḥ | yadvṛttayogānna nighātaḥ | anādhṛṣṭāsaḥ | avyayapūrvapadaprakṛtisvaratvam | ojasā | ubjerbale balopaśca | u. 4-191 | ityasun | nittvādādyudāttaḥ ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 793)*
+**Translation:** "O Maruts: the Maruts who, being *ugra*, fierce, *ānṛcuḥ*, worshipped, the *arka*, water: that is, brought it about by raining; with those Maruts: that is the construction. Of what kind are the Maruts? *Anādhṛṣṭāsaḥ*, not overcome, *ojasā*, by strength: that is, mightier than all. That the word *arka* denotes water the Vājasaneyins declare: 'The waters are *arka*' (Śat. Brā. 10-6-5-2). Its derivation they declare too: 'He went about worshipping; from him, worshipping, the waters were born; "to me, worshipping, *kam* has come to be," he said: that is the *arka*-ness of *arka*' (Śat. Brā. 10-6-5-1). Hiraṇyagarbha, the creator of the world, intent on creating water, *arcan*, went about worshipping himself by making known the greatness of his true resolve concerning water. From Hiraṇyagarbha so worshipping water arose; then he said, 'From me, worshipping, *kam* has come to be.' So water got the name *arka*." (Grammatical tail: *ānṛcuḥ*, from *arc*, given ready-made by *apaspṛdhethām…* (Pā. 6-1-36), the suffix accent, not lowered because joined with *yad*; *anādhṛṣṭāsaḥ*, the accent of the indeclinable first member; *ojasā*, *asun* by *ubjer bale balopaś ca* (Uṇ. 4-191), initial udātta as *nit*.)
 
-**उग्राः (ugrāḥ)** — [Maruts who are] fierce (quick-going) | **ओजसा (ojasā)** — by strength | **अनाधृष्टासः (anādhṛṣṭāsaḥ)** — unassailable | **ये (ye)** — which Marut deities | **अर्कम् (arkam)** — water | **आनृचुः (ānṛcuḥ)** — [have] caused to rain | *(such)* **मरुद्भिः (marudbhiḥ)** — with the Marut deities | **अग्ने (agne)** — O Agni | **आ गहि (ā gahi)** — come.
+**॥ Prati-padārthaḥ ॥**
+
+**उग्राः (ugrāḥ)** — moving swiftly | **ओजसा (ojasā)** — by strength | **अनाधृष्टासः (anādhṛṣṭāsaḥ)** — unchecked | **ये (ye)** — which Marut deities | **अर्कम् (arkam)** — water | **आनृचुः (ānṛcuḥ)** — rained | (such) **मरुद्भिः (marudbhiḥ)** — together with the Marut deities | **अग्ने (agne)** — O Agni | **आ गहि (ā gahi)** — come.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! Come here together with the Maruts, who have power that none can resist, and who blow swiftly and send down water as rain.
+O Agni, come here together with the Marut deities, who have power and might that no one can check and who, blowing swiftly, rain water (pour down rain).
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Agni, come hither with the Maruts, who are fierce (or blow fiercely) and send down rain and are unsurpassed in strength.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 793)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**उग्राः (ugrāḥ)** — *tīvrāḥ*: those who blow swiftly.
+**Ugrāḥ**: *tīvrāḥ*; blowing swiftly.
 
-**अर्कम् (arkam)** — water; we have already (p. [?]) explained the four kinds of meaning that Yāska gives for the word *arka*. Here the commentator gives *udaka*, water, for *arka* as another meaning, and to support it he quotes the sentence of the Śatapatha Brāhmaṇa of the Śukla Yajurveda — *soʼrcann acarat tasyārcata āpo 'jāyantārcate vai me kam abhūd iti tad evārkasyārkatvam* (Śa. Brā. [10-6-5-1]) — which he then explains: Hiraṇyagarbha (Prajāpati), having created the world, set out to create water and, being firmly resolved in truth, began to worship himself; as he worshipped, water was produced from his presence; then Prajāpati said, "from me, what is this that has been produced? (*kam*)": from that, because from worship (*arcana*) *kam* (water) arose, the water was named *arka*.
+**Arkam**: water. We explained earlier (page "384" [?]) the four kinds of sense Yāska gives for the word *arka*. Here the commentator gives another sense, water, for the word *arka*, and to support it he cites a statement of the Śatapatha Brāhmaṇa of the White Yajurveda:
 
-**आनृचुः (ānṛcuḥ)** — *arcitavantaḥ*, *varṣaṇena sampāditavantaḥ*: worshipped; i.e. brought about the water produced by the act of worship, by causing it to rain.
+> सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वम् ॥ (श. ब्रा. १०-६-५-१)
+>
+> *so 'rcannacarattasyārcata āpo 'jāyantārcate vai me kamabhūditi tadevārkasyārkatvam || (śa. brā. 10-6-5-1)*
 
-**अनाधृष्टासः (anādhṛṣṭāsaḥ)** — *atiraskṛtāḥ*, *sarvebhyo 'pi prabalāḥ*: those who cannot be insulted; the strongest of all, more powerful.
+The commentator explains it thus:
+
+### Page 794 — Rik 4: Special Topics (end) and grammar
+
+> जगत्स्रष्टा हिरण्यगर्भ उदकं स्रष्टुमुद्युक्तोऽर्चन् उदकसत्यसंकल्पमहिमप्रख्यापनेन स्वात्मानं पूजयन्नचरत् । तथा पूजयतो हिरण्यगर्भस्य सकाशादुदकमुत्पन्नम् । तदानीमर्चतो मत्तः कमभूदित्यवोचत् । तेनोदकस्यार्कनाम निष्पन्नमित्यर्थः ॥
+>
+> *jagatsraṣṭā hiraṇyagarbha udakaṃ sraṣṭumudyukto 'rcan udakasatyasaṃkalpamahimaprakhyāpanena svātmānaṃ pūjayannacarat | tathā pūjayato hiraṇyagarbhasya sakāśādudakamutpannam | tadānīmarcato mattaḥ kamabhūdityavocat | tenodakasyārkanāma niṣpannamityarthaḥ ||*
+
+That is: Hiraṇyagarbha (Prajāpati), having created the world, then intent on creating water, being true-willed, began to worship himself. While he was worshipping thus, water arose from that Prajāpati. Then Prajāpati said, "What is this that has arisen from me? (*kam*)"; for that reason, since *kam* (water) arose from worship, water got the name *arka*: that is the intent.
+
+**Ānṛcuḥ**:
+
+> अर्चितवन्तः । वर्षणेन संपादितवन्तः
+>
+> *arcitavantaḥ | varṣaṇena saṃpāditavantaḥ*
+
+("They worshipped; they brought it about by raining.") They worshipped, they adored; that is, they rained the water produced by the act of worship.
+
+**Anādhṛṣṭāsaḥ**:
+
+> अतिरस्कृताः । सर्वेभ्योऽपि प्रबलाः
+>
+> *atiraskṛtāḥ | sarvebhyo 'pi prabalāḥ*
+
+("Not overcome; mightier than all.") Those whom none can put down, that is, mightier than all, of greater power.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 794–795, noted briefly)*
+
+**आनृचुः (*ānṛcuḥ*)**:
+
+> अपस्पृधेथामानृचुरानृहुश्चिच्युषेतित्याजश्राताःश्रितमाशीराशीर्ताः
+>
+> *apaspṛdhethāmānṛcurānṛhuścicyuṣetityājaśrātāḥśritamāśīrāśīrtāḥ*
+
+(Pā. sū. 6-1-36). The root *spardha saṃgharṣe*; *laṅ*, 3rd-person [as printed; *āthām* is 2nd person] dual *āthām*: *spardh* + *āthām*. Here the root is doubled: *spardh spardh* + *āthām*. The *r* of the latter part takes *saṃprasāraṇa*, *ṛ*, and the *a* before the *r* drops: these are given ready-made. *Spardh spṛdh* + *āthām*: by "śarpūrvāḥ khayaḥ" (Pā. sū. 7-4-61), in the *abhyāsa* the *khay* letters after *ś*, *ṣ*, *s* remain and the other letters drop; so in the first *spardh* the *p* remains and the other letters drop: *paspṛdh*, *āthām*, the augment *aṭ*, *śap*. By "āto ṅitaḥ" (Pā. sū. 7-2-81) *iy* for the *ā*; by "lopo vyor vali" (Pā. sū. 6-1-66) the *y* drops; by *ād guṇaḥ*: *apaspṛdhethām*. Or, with *apa* a separate preverb, the root *spardh*, *laṅ*, *āthām*, *śap*, *āto ṅitaḥ*, loss of *y* before *val*; the absence of the augment *aṭ* is Vedic: *spardhethām*. *Ānṛcuḥ*: *arca pūjāyām*; *liṭ*, *jhi*; by "parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ" (Pā. sū. 3-4-82) *us*: *arc* + *us*; by "liṭi dhātor anabhyāsasya" (Pā. sū. 6-1-8) doubling: *arc arc* + *us*; by "halādiḥ śeṣaḥ" (Pā. sū. 7-4-60), on the view taking the class or on the view of splitting the rule, the consonants of the *abhyāsa* drop: *a* + *arc* + *us*; by "ata ādeḥ" (Pā. sū. 7-4-70) the short *a* at the start of the *abhyāsa* is lengthened: *ā* + *arc* + *us*; by "tasmān nuḍ dvihalaḥ" (Pā. sū. 7-4-71) the augment *nuṭ* for a root with two consonants after the lengthened *ā*: *ā* + *n* + *arc* + *us*; *ānarcuḥ* is the usage in the world.
+
+### Page 795 (upper) — Rik 4: grammar (end)
+
+In the Veda, by this sūtra, *saṃprasāraṇa* of the *r*, *ṛ*, and the loss of the *a* before the *r*: *ānṛcuḥ*. In *ānṛhuḥ* the same process for the root *arh*. *Cyuṅ gatau*: *laṭ*, *thās*, *thāsas se*; doubling: *cyu* + *cyu* + *se*; *i* for the *u* from the *saṃprasāraṇa* of the *abhyāsa* is given ready-made, and so is the absence of *iṭ* for *se*; *pūrvarūpa* by *saṃprasāraṇāc ca*: *cicyuṣe*; in the world *cucyuviṣe*. *Tyaja vayohānau*: *liṭ*, *tip*, *ṇal*, doubling: *tyaj* + *tyaj* + *a*; *saṃprasāraṇa* of the *abhyāsa* given, the *pūrvarūpa*, *halādiḥ śeṣaḥ*: *ti* + *tyaj* + *a*, the penultimate *vṛddhi*: *tityāja*. *Śrīñ pāke*: the suffix *kta*; *śrā* substituted for *śrī* is given; in the plural, *śrātāḥ*; in *śritam* the shortening for that root is given. For *śrīñ* preceded by *ā*, before *kvip*, the substitute *śir*. In *āśīrtāḥ*, for *śrīñ* preceded by *ā*, before the *kta* suffix, the substitute *śir*, and the absence of the *n* due for the *kta* by *radābhyāṃ niṣṭhāto naḥ pūrvasya ca daḥ*, are given. So by this sūtra *ānṛcuḥ* is given ready-made. The *us* has the suffix accent. Since the bar "yadvṛttān nityam" (Pā. sū. 8-1-66) comes, it is not wholly unaccented.
+
+**अनाधृष्टासः (*anādhṛṣṭāsaḥ*)**: the analysis is *na ādhṛṣṭāḥ*. *Āj jaser asuk*. By "tatpuruṣe tulyārtha…" (Pā. sū. 6-2-2) the accent of the indeclinable first member.
+
+**ओजसा (*ojasā*)**: *ubja ārjave*. By "ubjer bale balopaś ca" (Uṇ. sū. "4-631" [?]), after *ubja ārjave*, in the sense of strength, *asun* comes, and the *b* drops: *uj* + *as*; the *laghūpadha-guṇa*: *ojas*. Initial udātta by the *nit* accent. With the instrumental singular *ṭā*: *ojasā*.
+
+**॥४॥**
+
+---
 
 ### Pages 795–798 — Sūkta 19, Rik 5
 
