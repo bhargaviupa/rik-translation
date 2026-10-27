@@ -1344,63 +1344,95 @@ there being no qualifier, the root *añcu* (*gatipūjanayoḥ*), whose *n* has b
 
 ---
 
-### Pages 55–58 — Sūkta 21, Rik 5
+### Page 55 (lower) — Sūkta 21, Rik 5
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ता महान्ता सदस्पती इन्द्राग्नी रक्ष उब्जतम् ।
-> अप्रजाः सन्त्वत्रिणः ॥५॥
+> ता म॒हान्ता॒ स॒दस्प॒ती इ॑न्द्राग्नी॒ र॑क्ष उब्जतं । [accent ?]
+> अप्र॑जाः सन्त्व॒त्रि॑णः ॥५॥ [accent ?]
 >
-> *tā mahāntā sadaspatī indrāgnī rakṣa ubjatam |*
-> *aprajāḥ santv atriṇaḥ ||5||*
+> *tā mahā́ntā sadáspatī́ indrāgnī rakṣa ubjataṃ |* [accent ?]
+> *áprajāḥ santvatriṇaḥ ||5||* [accent ?]
+
+*(Bars under म and ता (महान्ता), द (सदस्) and ती; a stroke over इन् of इन्द्रा; a bar under ग्नी; a stroke over र (or the start of क्ष) of रक्ष. Line 2: stroke over प्र, a bar under the conjunct न्त्व (read as under त्व), stroke over त्रि. The exact syllables of the stroke in रक्ष and the bar in सन्त्व are not certain [accent ?]. The Saṃhitā prints महांता, the Pada महान्ता.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> ता । महान्ता । सदस्पती इति । इन्द्राग्नी इति । रक्षः । उब्जतम् ॥
+> ता । महान्ता । सदस्पती इति । इन्द्राग्नी इति । रक्षः । उब्जतं ॥
 > अप्रजाः । सन्तु । अत्रिणः ॥५॥
 >
-> *tā | mahāntā | sadaspatī iti | indrāgnī iti | rakṣaḥ | ubjatam ||*
+> *tā | mahāntā | sadaspatī iti | indrāgnī iti | rakṣaḥ | ubjataṃ ||*
 > *aprajāḥ | santu | atriṇaḥ ||5||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 55; compressed; [?] marks doubtful readings)*
+*(Printed अप्रजा आनुत्पन्नाः, read as अप्रजा अनुत्पन्नाः [?].)*
 
-> तौ पूर्वोक्तावेन्द्राग्नी रक्षो राक्षससजातिमुब्जतम् । ऋजुकुरुतम् । क्रौर्यं परित्याजयतमित्यर्थः । कीदृशौ । महान्ता महान्तौ गुणैरधिकौ सदस्पती सभापालकौ । तयोः प्रसादादत्रिणो भक्षका राक्षसा अप्रजा आनुत्पन्नाः सन्तु ॥ महान्ता । सान्ते महतः संयोगस्य । पा. [६-४-१०] । इति दीर्घः । सदस्पती । सदसस्पती इति समासे षष्ठ्या लुकि प्रातिपदिकसकारस्य रुत्वाभावश्छान्दसः । उभे वनस्पत्यादिषु युगपदित्युभयपदप्रकृतिस्वरत्वम् । इन्द्राग्नी । आमन्त्रिताद्युदात्तत्वम् । अप्रजाः । प्रजायन्त इति प्रजाः । अन्येष्वपि दृश्यते । पा. [३-२-१०१] । इति जनेर्डप्रत्ययः । न प्रजाः अप्रजाः । प्रजाशब्दो बहुव्रीहौ हि नित्यमसिच् प्रजामेधयोः । पा. [५-४-१२२] । इत्यसिजादेशः स्यात् । अव्ययपूर्वपदप्रकृतिस्वरः । अत्रिणः । अदेस्त्रिनिति [?] । चिते इति ऋकार उदात्तः । तस्य यणादेश उदात्तयणो हल्पूर्वादिति ईकार उदात्तः ॥
+> तौ पूर्वोक्ताविन्द्राग्नी रक्षो राक्षसजातिमुब्जतं । ऋजुकुरुतं । क्रौर्यं परित्याजयतमित्यर्थः । कीदृशौ । महान्ता महान्तौ गुणैरधिकौ सदस्पती सभापालकौ । तयोः प्रसादादत्रिणो भक्षका राक्षसा अप्रजा अनुत्पन्नाः सन्तु ॥ महान्ता । सान्तमहतः संयोगस्य । पा० ६-४-१० । इति दीर्घः । सदस्पती । सदसस्पती इति समासे षष्ठ्या लुकि प्रातिपदिकसकारस्य रुत्वाभावश्छान्दसः । उभे वनस्पत्यादिषु युगपदित्युभयपदप्रकृतिस्वरत्वं । इन्द्राग्नी । आमन्त्रिताद्युदात्तत्वं । अप्रजाः । प्रजायन्त इति प्रजाः । अन्येष्वपि दृश्यते । पा० ३-२-१०१ । इति जनेर्डप्रत्ययः । न प्रजाः अप्रजाः । प्रजाशब्दस्य बहुव्रीहौ हि नित्यमसिच् प्रजामेधयोः । पा० ५-४-१२२ । इत्यसिजादेशः स्यात् । अव्ययपूर्वपदप्रकृतिस्वरः । अत्रिणः । तृजन्तस्यात्तृशब्दस्य जसश्छान्दस इनुडागमः । चित इति ऋकार उदात्तः । तस्य यणादेश उदात्तयणो हल्पूर्वादितीकार उदात्तः ॥
 >
-> *tau pūrvoktāv aindrāgnī rakṣo rākṣasa-sajātim ubjatam | ṛju kurutam | krauryaṃ parityājayatam ity arthaḥ | kīdṛśau | mahāntā mahāntau guṇair adhikau sadaspatī sabhā-pālakau | tayoḥ prasādād atriṇo bhakṣakā rākṣasā aprajā anutpannāḥ santu || mahāntā | sānte mahataḥ saṃyogasya | pā. [6-4-10] | iti dīrghaḥ | sadaspatī | sadasaspatī iti samāse ṣaṣṭhyā luki prātipadika-sakārasya rutvābhāvaś chāndasaḥ | ubhe vanaspatyādiṣu yugapad ity ubhaya-pada-prakṛti-svaratvam | indrāgnī | āmantritādyudāttatvam | aprajāḥ | prajāyanta iti prajāḥ | anyeṣv api dṛśyate | pā. [3-2-101] | iti janer ḍa-pratyayaḥ | na prajāḥ aprajāḥ | prajā-śabdo bahuvrīhau hi nityam asic prajāmedhayoḥ | pā. [5-4-122] | ity asijādeśaḥ syāt | avyaya-pūrvapada-prakṛti-svaraḥ | atriṇaḥ | ader trin iti [?] | cite iti ṛkāra udāttaḥ | tasya yaṇādeśa udāttayaṇo hal-pūrvād iti īkāra udāttaḥ ||*
+> *tau pūrvoktāvindrāgnī rakṣo rākṣasajātimubjataṃ | ṛjukurutaṃ | krauryaṃ parityājayatamityarthaḥ | kīdṛśau | mahāntā mahāntau guṇairadhikau sadaspatī sabhāpālakau | tayoḥ prasādādatriṇo bhakṣakā rākṣasā aprajā anutpannāḥ santu || mahāntā | sāntamahataḥ saṃyogasya | pā0 6-4-10 | iti dīrghaḥ | sadaspatī | sadasaspatī iti samāse ṣaṣṭhyā luki prātipadikasakārasya rutvābhāvaśchāndasaḥ | ubhe vanaspatyādiṣu yugapadityubhayapadaprakṛtisvaratvaṃ | indrāgnī | āmantritādyudāttatvaṃ | aprajāḥ | prajāyanta iti prajāḥ | anyeṣvapi dṛśyate | pā0 3-2-101 | iti janerḍapratyayaḥ | na prajāḥ aprajāḥ | prajāśabdasya bahuvrīhau hi nityamasic prajāmedhayoḥ | pā0 5-4-122 | ityasijādeśaḥ syāt | avyayapūrvapadaprakṛtisvaraḥ | atriṇaḥ | tṛjantasyāttṛśabdasya jasaśchāndasa inuḍāgamaḥ | cita iti ṛkāra udāttaḥ | tasya yaṇādeśa udāttayaṇo halpūrvāditīkāra udāttaḥ ||*
 
-**Translation:** "Those two, Indra and Agni, spoken of before: *ubjatam* — straighten, [make] the *rakṣas* — the kind of Rākṣasas — straight; that is, make them abandon their cruelty. Of what sort are [you two]? *Mahāntā* — great, surpassing in qualities; *sadaspatī* — protectors of the assembly. By their favour, may the *atriṇaḥ* — the devourers, Rākṣasas who eat [men] — be *aprajāḥ*, without offspring." The grammar, noted briefly: *mahāntā* (the lengthening by P. 6-4-10 *sānta-mahataḥ saṃyogasya*); *sadaspatī* (a compound with the genitive retained; the *s* is not turned into *ru* — a Vedic usage; both members keep their accents as in the *vanaspatyādi* class); *indrāgnī* (the vocative accent); *aprajāḥ* (*prajā* — 'those who are born' — *ḍa* after *jan* by P. 3-2-101 *anyeṣv api dṛśyate*; the negative compound; the bahuvrīhi substitute *asic* for words ending in *prajā*, *medhā* by P. 5-4-122; the accent of the first member, a particle); *atriṇaḥ* (the Uṇādi suffix after *ad* 'to eat' [read as *ader trin*], the *ṛ* accented; its *yaṇ* substitute then the *ī* accented by P. 6-1-171 *udāttayaṇo hal-pūrvāt*). *(Grammar, noted briefly; P. 6-4-10 and P. 5-4-122 as read; the Uṇādi note on* atriṇaḥ *is partly unclear [?].)*
+**Translation:** "*Tā*, those two, Indra and Agni, spoken of before, *ubjatam*, make straight, *rakṣaḥ*, the race of *rākṣasas*: that is, make them give up their cruelty. Of what kind are they? *Mahāntā*, great, superior in qualities; *sadaspatī*, guardians of the assembly. By their favour may the *atriṇaḥ*, the devouring *rākṣasas*, *santu*, be *aprajāḥ*, unborn (without offspring)." (Grammatical tail: *mahāntā*, the lengthening by *sāntamahataḥ saṃyogasya* (Pā. 6-4-10); *sadaspatī*, in the compound *sadasaspatī*, the genitive having been dropped, the absence of *ru* for the stem's *s* is Vedic; both members keep their accent by *ubhe vanaspatyādiṣu yugapat*; *indrāgnī*, the vocative initial udātta; *aprajāḥ*, *prajāyanta iti prajāḥ*, the suffix *ḍa* after *jan* by *anyeṣv api dṛśyate* (Pā. 3-2-101); *na prajāḥ aprajāḥ*: for *prajā* in a bahuvrīhi the substitute *asic* would come by *nityam asic prajāmedhayoḥ* (Pā. 5-4-122); the accent of the indeclinable first member; *atriṇaḥ*, the Vedic augment *inuṭ* to the *jas* of *attṛ* ending in *tṛc*; the *ṛ* udātta by *citaḥ*; with *yaṇ* substituted for it, the *ī* is udātta by *udāttayaṇo halpūrvāt*.)
 
-**Grammar pages (pp. 57–58), noted briefly.** The Kannada treats: *mahāntā* (*mahat* + *au*; the *śatṛ*-like Uṇādi *at*, read *vartamāne pṛṣad-bṛhan-mahaj-jagac-chatṛvac ca* Uṇ. 2-[?] — 'the words *pṛṣat*, *bṛhat*, *mahat*, *jagat* and *śatṛ* are formed with *ati* and behave like *śatṛ*', so the *num* augment [P. 7-1-70 *ugidacāṃ…*] applies: *mahant* + *au*; *supāṃ sulug…* P. 7-1-39 gives *ā*; *sānta-mahataḥ saṃyogasya* P. 6-4-10 lengthens the vowel before the conjunct *nt* of the word *mahat* when a non-vocative *sarvanāmasthāna* suffix follows: *mahāntā*), *sadaspatī* (a genitive tatpuruṣa *sadasaḥ patī*; *kṛttaddhitasamāsāś ca* P. 1-2-46 gives the name *prātipadika*; *supo dhātuprātipadikayoḥ* P. 2-4-71 drops the case-ending; *suptiṅantaṃ padam* P. 1-4-14 gives the stem the name *pada*; *sasajuṣo ruḥ* P. 8-2-66 would turn *s* into *ru*, but in the Veda it does not here; *sadas* is first-syllable accented by the suffix's *n*; *pati* is first-syllable accented as formed with the Uṇādi *ḍati* [Uṇ. 4-62 *pāter ḍatiḥ*]; both members keep their accents by P. 6-2-140 *ubhe vanaspatyādiṣu yugapat*, since the word belongs to the *vanaspatyādi* class — of which the list is: 1 *vanaspati*, 2 *bṛhaspati*, 3 *śacīpati*, 4 *tanūnapāt*, 5 *narāśaṃsa*, 6 *śunaḥśepha*, 7 *śaṇḍāmarkau*, 8 *tṛṣṇāvaruṭhī*, 9 *lambāviśvavayasau*, 10 *marmṛtyuḥ* — only ten words are read; the list is not an *ākṛtigaṇa*, and so the Kannada says one must consider how *sadaspati* gets its double accent), *indrāgnī* (*āmantritasya ca* P. 6-1-198 gives the first-syllable accent; the *tau* = 'those two spoken of before'; the construction is *he indrāgnī yuvāṃ rakṣa ubjatam*), *aprajāḥ* (*prajāyante iti prajāḥ* — *anyeṣv api dṛśyate* P. 3-2-101 and *saptamyāṃ janer ḍaḥ* P. 3-2-97 give *ḍa* after *jan* when the upapada is in the locative, fifth case or an *upasarga*, and *anyeṣv api* extends it to other upapadas; the Kannada also notes the alternative *upasarge ca saṃjñāyām* P. 3-2-99, which would give *ḍa* where *pra* is an upapada in a name — here *aprajāḥ* is explained as 'having no offspring', so no name is intended; *na prajāḥ* a negative tatpuruṣa, *nalopo nañaḥ* P. 6-3-73 drops the *n*; as a bahuvrīhi *avidyamānāḥ prajāḥ yeṣāṃ te*, the *asic* of P. 5-4-122 *nityam asic prajāmedhayoḥ* is added after *nañ-dus-su* + *prajā*/*medhā*, then *nañ-duḥsubhyo halisakthyor anyatarasyām* P. 5-4-121 … *bahuvrīher sakthy-akṣṇoḥ svāṅgāt ṣac* P. 5-4-113 (the Kannada's quotations here are crowded); so *aprajasa* + *jas*, *yasyeti ca* P. 6-4-148 drops the *a*, *aprajāḥ* [*aprajasaḥ*]; the Kannada concludes that since *aprajāḥ* here is plural nominative of the bahuvrīhi — and the *asic* is not needed to derive it — the *tatpuruṣa* is to be taken; and *tatpuruṣe tulyārthatṛtīyā…* P. 6-2-2 gives the first member [the particle] its first-syllable accent), and *atriṇaḥ* (*ada bhakṣaṇe*, *nvul-tṛc* P. 3-1-133 [as the Kannada says: *ṇvultṛcau*]; *ad* + *tṛc*, and with *jas*, the Vedic *inuṭ* augment; the *ṛ* is accented by *cit* P. 6-1-163 [end-accent]; the *yaṇ* substitute *r* for the *ṛ* by P. 6-1-77 *iko yaṇaci*, and by *udāttayaṇo hal-pūrvāt* P. 6-1-171 the following ending *ina* is accented because the *yaṇ* is preceded by a consonant and replaces an accented vowel, so *atriṇaḥ* gets the *ī* accented; and in the Saṃhitā the *svarita* of P. 8-4-66 does not arise, as this rule, an exception, gives accent instead). ॥5॥ *(A crowded run; outline only; numerals as read; pointers only; the Kannada's reading of P. 5-4-121/113 is in doubt [?].)*
+### Page 56 — Rik 5: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 56)*
+**॥ Prati-padārthaḥ ॥**
 
-**ता (tā)** — those spoken of before | **महान्ता (mahāntā)** — noble ones | **सदस्पती (sadaspatī)** — protectors of the assembly | **इन्द्राग्नी (indrāgnī)** — O Indra and Agni | **रक्षः (rakṣaḥ)** — the race of Rākṣasas | **उब्जतम् (ubjatam)** — make them give up their cruelty (make them straight) | **अत्रिणः (atriṇaḥ)** — (men-)eating | **ते रक्षांसि (te rakṣāṃsi)** — those Rākṣasas | **अप्रजाः (aprajāḥ)** — without offspring (without descendants) | **सन्तु (santu)** — let them be.
+**ता (tā)** — spoken of before | **महान्ता (mahāntā)** — great-souled | **सदस्पती (sadaspatī)** — protecting the assembly | **इन्द्राग्नी (indrāgnī)** — Indra and Agni | **रक्षः (rakṣaḥ)** — the race of *rākṣasas* | **उब्जतं (ubjataṃ)** — may they make them give up their cruelty | **अत्रिणः (atriṇaḥ)** — those *rākṣasas* who devour (men) | **अप्रजाः (aprajāḥ)** — without offspring (without descendants) | **सन्तु (santu)** — may they become.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Agni, who are great and protectors of the assembly: make the Rākṣasas give up their cruelty and walk the straight path. And by the grace of Indra and Agni, may the man-eating Rākṣasas be without offspring.
+May Indra and Agni, great-souled and protectors of the assembly, make the *rākṣasas* give up their cruelty and walk in the good path. And by the favour of Indra and Agni may the man-eating *rākṣasas* be left without descendants.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Indra and Agni, great protectors of Sacrificial house, supress [sic] the Rakshas (demons) and may the devourers of men (demons) be destitute of progeny.
+> Indra and Agni, great protectors of Sacrificial house, supress [sic] the Rakshas (demons). and may the devourers of men (demons) be destitute of progeny.
 
-*(The print has "supress" for "suppress" — [sic].)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 56–57)*
+**महान्ता (mahāntā)** — of great greatness, great; "great, mighty &c."
 
-**महान्ता (mahāntā)** — of great glory, great, mighty, etc. [the print adds the English "great, mighty &c."].
+**सदस्पती (sadaspatī)** — "*sadas* is the well-known sacrificial house; its two lords are Indra and Agni; or, the two guardians of the assembly" (the heading, as printed):
 
-**सदस्पती (sadaspatī)** — *sadaḥ prasiddhaṃ yajñagṛhaṃ tasya svāmināv indrāgnī | sabhāpālakau vā*: [the word *sadas* is] the well-known sacrificial hall, and Indra and Agni are the lords of it; or *sabhāpālakau* — protectors of the assembly. In explaining the word, the commentator says *sadaḥ* means *sadas*, the assembly, so *sadaspatī* means *sabhāpālakau* — protectors of the assembly. Skandasvāmin says *sadaḥ* is the sacrificial hall, and *sadaspatī* means that the sacrificial hall which we are now using must be protected from Rākṣasas and the like. Skandasvāmin's explanation is the more commendable.
+> सदः प्रसिद्धं यज्ञगृहं तस्य स्वामिनौ इन्द्राग्नी । सभापालकौ वा ॥
+>
+> *sadaḥ prasiddhaṃ yajñagṛhaṃ tasya svāminau indrāgnī | sabhāpālakau vā ||*
 
-**रक्षः (rakṣaḥ)** — Rākṣasas, those of cruel nature, "evil spirits" etc. Yāska explains: *rakṣāṃsi krūrakarmiṇaḥ* — "Rākṣasas are those who do cruel deeds" (Ni. [10-?]; numerals read as "೧೦-೧೫" and marked [?]).
+When the commentator explains this word, he explains *sada* as *sadas*, the assembly, and says *sadaspatī* means *sabhāpālakau*, those who protect the assembly. Skandasvāmin says *sadaḥ* is the sacrificial house, and gives the sense that *sadaspatī* means: protect from the *rākṣasas* and others the sacrificial house which we are now [using]. Skandasvāmin's explanation is the better one.
 
-**उब्जतम् (ubjatam)** — *krauryaṃ parityājayatam*: make them give up their cruel nature. Skandasvāmin explains this word as *ubja-tiraskāra-sāmarthyāt vadhārtho nṛgrāhārtho vā rakṣāṃsi hataṃ nṛgrabhūtāni vāsmākaṃ kurutam* ["from the sense of *ubj* — to put down, to bend — it has the sense of killing or of seizing men; 'kill the Rākṣasas, or make them captive to us']" — "destroy or put down the Rākṣasas through your power, that is, make them run away". [Skandasvāmin's Sanskrit here is read from small print and is partly garbled; I give only the sense as the Kannada states it.]
+**रक्षः (rakṣaḥ)** — the *rākṣasas*, those of cruel nature, "evil spirits" etc. Yāska explains *rakṣāṃsi* as *krūrakarmiṇaḥ*, those of cruel deeds (Ni. 10-12).
 
-**अप्रजाः (aprajāḥ)** — *prajāyante iti prajāḥ, na prajā aprajāḥ* — "without offspring", i.e. without sons, grandsons and other descendants.
+**उब्जतं (ubjataṃ)** — *krauryaṃ parityājayatam*: make them give up their cruel nature. Skandasvāmin, for this word, has explained it so that the intention is: by your power destroy the *rākṣasas*, or put them down, that is, make them run away:
 
-**अत्रिणः (atriṇaḥ)** — *ada bhakṣaṇe*; *bhakṣayitāro hiṃsitāro 'smākam*: those who eat, those who harm us.
+*(Printed वदार्थः, as printed [sic]; read वधार्थः.)*
+
+> उब्जतिरत्र सामर्थ्यात् वदार्थः न्यग्भावार्थो वा रक्षांसि हतं, न्यग्भूतानि वास्माकं कुरुतं ।
+>
+> *ubjatiratra sāmarthyāt vadārthaḥ nyagbhāvārtho vā rakṣāṃsi hataṃ, nyagbhūtāni vāsmākaṃ kurutaṃ |*
+
+**अप्रजाः (aprajāḥ)** — *prajāyanta iti prajāḥ, na prajāḥ aprajāḥ*: without offspring, that is, without descendants such as sons and grandsons.
+
+### Page 57 — Rik 5: Special Topics (end), grammar
+
+**अत्रिणः (atriṇaḥ)** — *ada bhakṣaṇe | bhakṣayitāraḥ hiṃsitāro 'smākam |* devourers, that is, those who harm us.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**महान्ता (mahāntā)** — after the word *mahat*, the suffix *au*; because by *vartamāne pṛṣadbṛhanmahajjagacchatṛvac ca* (U. Sū., number not clear [?]) it is treated as if ending in *śatṛ*, the augment *num* by *ugidacām* (Pā. Sū. 7-1-70): *mahan* + *t* + *au*; for *au* the substitute *ā* by *supāṃ suluk*; by *sāntamahataḥ saṃyogasya* (Pā. Sū. 6-4-10) — when a *sarvanāmasthāna* suffix other than the vocative follows, the vowel penultimate to the *n* belonging to a conjunct ending in *s* or to the word *mahat* is lengthened — the lengthening comes: it becomes *mahāntā*.
+
+**सदस्पती (sadaspatī)** — *sadasaḥ patī*, a genitive tatpuruṣa compound; by *kṛttaddhitasamāsāś ca* (Pā. Sū. 1-2-46) it is a *prātipadika*. The genitive and *au* endings, as parts of a *prātipadika*, are dropped (*luk*) by *supo dhātuprātipadikayoḥ* (Pā. Sū. 2-4-71); with the dropped suffix as cause, *sadas* is a *pada* by *suptiṅantaṃ padam* (Pā. Sū. 1-4-14) — words ending in *sup* and *tiṅ* are called *pada*. So by *sasajuṣo ruḥ* (Pā. Sū. 8-2-66) the substitute *ru* for *s* would be obtained; yet, as a Vedic matter, it does not come here. *Sadaḥ* is initially udātta by its inherent accent; the word *pati* ends in the suffix *ḍati* laid down by *pāter ḍatiḥ* (U. Sū. 4-4-97 [?]), and is initially udātta by the suffix accent. For these two, after compounding, by *ubhe vanaspatyādiṣu yugapat* (Pā. Sū. 6-2-140) — in the words listed in the *vanaspatyādi* class both first and last member keep their own accent at once — both members keep their accent. In the *vanaspatyādi* class only ten words are listed: 1 *vanaspatiḥ*, 2 *bṛhaspatiḥ*, 3 *śacīpatiḥ*, 4 *tanūnapāt*, 5 *narāśaṃsaḥ*, 6 *śunaḥśepaḥ*, 7 *śaṇḍāmarkau*, 8 *tṛṣṇāvarūthī*, 9 *lambāviśvavayasau*, 10 *marmṛtyuḥ*. Nor is it an *ākṛtigaṇa*; so one must consider how the accent of both members comes here through being of the *vanaspatyādi* class.
+
+**इन्द्राग्नी (indrāgnī)** — initial udātta by the sūtra of the sixth adhyāya *āmantritasya ca* (Pā. Sū. 6-1-198). *Tau* = *pūrvoktau*; the construction is: *he indrāgnī yuvāṃ rakṣaḥ ubjatam*.
+
+**अप्रजाः (aprajāḥ)** — *prajāyante iti prajāḥ*; by the sūtras *anyeṣv api dṛśyate* (Pā. Sū. 3-2-101), *saptamyāṃ janer ḍaḥ* (Pā. Sū. 3-2-97) and the rest, when words ending in the seventh case, the fifth case, a prefix,
+
+### Page 58 — Rik 5: grammar (end)
+
+or the second case are *upapada*, the suffix *ḍa* is laid down after the root *jan*. By this sūtra [*anyeṣv api dṛśyate*] it is taught that the suffix *ḍa* comes after *jan* even with an *upapada* other than those mentioned above; by this the suffix *ḍa* comes here. Although here the suffix *ḍa* could be derived from *upasarge ca saṃjñāyām* (Pā. Sū. 3-2-99) — when a name is meant by the whole, with a prefix as *upapada*, *ḍa* comes after *jan* — yet, since *aprajāḥ* is explained here as *anutpannāḥ*, a name is not intended. So the suffix *ḍa* is derived by *anyeṣv api dṛśyate*. *Na prajāḥ aprajāḥ*: a *nañ*-tatpuruṣa; the *n* of *nañ* dropped by *nalopo nañaḥ* (Pā. Sū. 6-3-73). If the bahuvrīhi *avidyamānāḥ prajāḥ yeṣāṃ te* were made, then in *nityam asic prajāmedhayoḥ* (Pā. Sū. 5-4-122), *nañduḥsubhyaḥ* is carried on from *nañduḥsubhyo halisakthyor anyatarasyām* (Pā. Sū. 5-4-121), and from *bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac* (Pā. Sū. 5-4-113) *bahuvrīhau* is carried on and changed to the fifth case. So the sense of the sūtra is: after a bahuvrīhi compound ending in the words *prajā* or *medhā* following *nañ*, *duḥ* or *su*, the suffix *asic* comes, and it is a compound-final. By this the suffix *asic* would have to come; if it came it would be *aprajās*; after this, when the nominative plural *jas* came, by *yasyeti ca* (Pā. Sū. 6-4-148) the *a* would be dropped and it would have to be *aprajasaḥ*. Since here *aprajāḥ* is a plural form and in a bahuvrīhi the nominative plural would not be obtained, the tatpuruṣa compound alone must be accepted here. By *tatpuruṣe tulyārtha-* (Pā. Sū. 6-2-2) the indeclinable first member keeps its accent.
+
+**अत्रिणः (atriṇaḥ)** — the root *ada bhakṣaṇe*; by *ṇvultṛcau* *tṛc*: *attṛ*; after it *jas*; to this, as a Vedic matter, the augment *inuṭ*: *attṛ* + *inas*; the *ṛ* belonging to the suffix *tṛc* is udātta by *citaḥ* (Pā. Sū. 6-1-163); in place of this *ṛ*, by *iko yaṇ aci*, the *r* comes by *yaṇ* substitution; now by *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-174) — after a *yaṇ* preceded by a consonant and standing in place of an udātta, a *nadī* and the vowel-initial case-endings *śas* etc. are also udātta — the *i* becomes udātta. So for this very reason, here by the general rule *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. Sū. 8-2-4) the svarita does not come; by the exception *udāttayaṇaḥ* the udātta alone comes. ॥5॥
+
+---
 
 ### Pages 59–62 — Sūkta 21, Rik 6 (last rik of the sūkta)
 
