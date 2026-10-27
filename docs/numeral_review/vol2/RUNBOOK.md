@@ -36,6 +36,14 @@ where `STATE.md` says, update `STATE.md` before stopping.
    where the print does not settle a reading. Glosses not in the source are "mine and tentative".
 5. **Other errors:** while each page image is open, correct clear misreadings in the English next to what you checked
    (wrong counts, wrong names, wrong maṇḍala/sūkta numbers). Do not restyle or rewrite sound text.
+5a. **Saṃhitā-pāṭha accents (user's requirement, Oct 2026):** every Ṛk's Saṃhitā-pāṭha block must carry the accents as
+   printed. Only 4 of the 177 blocks have them now (Rk 3.1–3.2 style: `अ॒श्विना॒ यज्व॑रीरिषो …`). On each page that
+   prints a Saṃhitā-pāṭha, read the accent marks from the scan (zoom 300–450 dpi) and rewrite the block: anudātta ॒
+   below, svarita ॑ above, udātta unmarked, ꣳ etc. as printed; the mark goes **after** a visarga/anusvara (`भिः॑`).
+   The IAST line follows the existing accented blocks (acute on the udātta syllable: *aśvínā yájvarīr iṣo*). Never
+   accent from memory; where a mark cannot be read, leave that syllable unmarked and put `[accent ?]` after the line.
+   Pada-pāṭha and quotations elsewhere stay as they are unless the print accents them. Check the DOCX/PDF build for
+   dotted circles (◌) at the end of the volume.
 6. Log each batch: append notes to a notes file and run `pass_log.py A B NOTES` (log `docs/PASS_LOG_numerals_vol2.md`).
    Commit and push (`git push -u origin claude/numerals-vol2`).
 7. Update `STATE.md` (last PDF page done, open flags), commit, push.
