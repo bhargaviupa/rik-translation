@@ -1,7 +1,7 @@
 # Vol 2 numeral + [?] pass — state
 
 Status: in progress (scans present, 5 parts, 822 PDF pages).
-**Last PDF page done: 700 (printed p. 686).** Batch PDF 701–822 (the last) in progress: done through **PDF 778 (printed p. 764, end of Ṛk 18.3)**, edits in `review/edits_PDF701-822.txt`. Next: PDF 779 (p. 765, Ṛk 18.4). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
+**Last PDF page done: 700 (printed p. 686).** Batch PDF 701–822 (the last) in progress: done through **PDF 781 (printed p. 767 upper, end of Ṛk 18.4)**, edits in `review/edits_PDF701-822.txt`. Next: PDF 781 (p. 767 lower, Ṛk 18.5). Printed pp. 224–225 (missing from the better scan) were checked against `scans/Rig_Vol2.pdf` (its PDF 239–240); PDF 290–291 (duplicates of pp. 276–277) skipped.
 
 Per-batch detail: `edits_PDF*.txt` (every numeral read, by box id), `notes_PDF*.txt` (what changed), and
 `vol2/vol2_pass_log.md` (one entry per batch).
