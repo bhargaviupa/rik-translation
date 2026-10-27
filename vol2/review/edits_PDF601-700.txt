@@ -67,3 +67,9 @@ PDF 653 (p. 639): grammar end: 8-1-72, "7-4-50" [as printed]; Rk 15.4 starts her
 PDF 653 (p. 639): Rk 15.4 Samhita accents as printed (line 1 [accent ?]); page heading 639 (lower).
 PDF 654 (p. 640): bhasya re-transcribed in full (Un. 4-51, 6-1-179); Prati/Bhāvārtha/English/Special Topics from print.
 PDF 655 (p. 641): grammar: 7-2-116, 3-4-87, 6-4-105, Un. "4-491" [?] (bhāṣya 4-51), 7-3-84, "9-1-179" [as printed, for 6-1-179], 1-1-24; Ṛ. Sū. 12 Ṛks 3, 10 and Sū. 15 Ṛk 1 cross-references as printed.
+PDF 655 (p. 641): Rk 15.5 Samhita accents as printed (line 2 [accent ?]); page heading 641 (lower).
+PDF 656 (p. 642): Pada; bhasya re-transcribed in full (4-3-140, 8-3-2, 7-1-27); the camasa verses moved out of the bhasya to the grammar where the print has them; Prati/Bhāvārtha from print.
+PDF 657 (p. 643): English; Special Topics (English "uninteruptedr" [sic]); grammar: Liṅga sū. 140, 6-1-160, 6-1-158; camasa verses 1.
+PDF 658 (p. 644): camasa verses 2-4 and the order line in three layers (gloss mine and tentative); 4-3-140, 6-1-197, Un. "4-628" [?], Ṛ. 1-14-10, 6-3-135, "8-4-9" [as printed, for 8-3-9], 8-3-2.
+PDF 659 (p. 645): grammar: "jas" for ṅas [sic], 7-1-27, 1-1-55, "7-2-96" [as printed], 6-1-211, 6-1-161, 7-2-90, 8-2-5, 5-1-126, 6-4-148, 7-2-10, 7-2-43, 6-2-2, Phi. 80, 7-2-42, 7-2-15, 8-2-44.
+PDF 660 (p. 646): grammar end: 7-1-100, 1-1-51, "8-2-77" [?], 8-4-1; Rk 15.6 starts here.

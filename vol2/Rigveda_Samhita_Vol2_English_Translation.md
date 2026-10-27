@@ -13484,15 +13484,21 @@ that is, the morning pressing, the midday pressing and the third pressing. A pre
 
 ---
 
-### Pages 642–646 — Sūkta 15, Rik 5
+### Page 641 (lower) — Sūkta 15, Rik 5
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ब्राह्मणादिन्द्र राधसः पिबा सोममृतूँरनु ।
-> तवेद्धि सख्यमस्तृतम् ॥५॥
+> ब्राह्म॑णादिन्द्र॒ राध॑सः॒ पिबा॒ सोम॑मृ॒तूँरनु॑ ।
+> तवे॑द्धि स॒ख्यम॑स्तृतम् ॥५॥ [accent ?]
 >
-> *brāhmaṇād indra rādhasaḥ pibā somam ṛtūm̐r anu |*
-> *taved dhi sakhyam astṛtam ||5||*
+> *brā́hmaṇād indra rā́dhasaḥ píbā sómam ṛtū́m̐r ánu |*
+> *táved dhi sakhyám astṛtam ||5||* [accent ?]
+
+*(Line 2: the stroke over वे and over म of सख्यम, the bar under स; the foot of the line is cut in the scan.)*
+
+### Page 642 — Rik 5: Pada, bhāṣya, word-meanings, overall sense
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -13502,49 +13508,95 @@ that is, the morning pressing, the midday pressing and the third pressing. A pre
 > *brāhmaṇāt | indra | rādhasaḥ | piba | somam | ṛtūn | anu ||*
 > *tava | it | hi | sakhyam | astṛtam ||5||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* pibā*, the Pada the short* piba*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 642; compressed; [?] marks doubtful readings)*
-
-> हे इन्द्र ब्राह्मणाद्ब्राह्मणाच्छंसिसम्बद्धाद्राधसो धनभूतात्पात्रात्सोममिमं पिब । किं कृत्वा । ऋतूननु ऋतुदेवानन्वनुसृत्य । ऋतवोऽपि पिबन्त्वित्यर्थः । हि यस्मात्तवेत्तव सख्यमस्तृतमृतूनामविच्छिन्नं तस्माद्ऋतुभिः सह पानं युक्तम् ॥ ब्राह्मणात् । ब्रह्मशब्देनात्र ब्रह्मवर्गे द्वितीयो ब्राह्मणाच्छंसी कथ्यते । स च पुल्लिङ्गे शेषनिघातेनानुदात्तादिः । तस्य सम्बन्धि [पात्रं] … अवयवविवक्षायामनुदात्तादेरञ् । पा. [४-३-१४०] । तेन ञित्त्वादाद्युदात्तश्चमसपात्रे ऽत्र ब्राह्मणशब्दः । राधसः । सर्वधातुभ्योऽसुन् । नित्त्वादाद्युदात्तः । पिब । पादादित्वाद् [?] … द्व्यचोऽतस्तिङ इति दीर्घत्वम् । ऋतूँरनु । दीर्घादटि समानपादे इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वा । पा. ८-३-२ । इत्योकारस्यानुनासिकत्वम् । तव । युष्मदस्मद्भ्यां ङसोऽश् । पा. [७-१-२७] । शित्त्वात्सर्वादेशः । तवममौ ङसीति तवादेशः । युष्मदस्मदोर्ङसि इत्याद्युदात्तत्वम् । सख्यम् । सख्युः कर्म सख्यम् । सख्युर्यः । यस्येति लोपः । प्रत्ययस्वरः । अस्तृतम् । स्तृणातेर्हिंसार्थस्य क्तः । नञ्समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥५॥
+> हे इन्द्र ब्राह्मणाद्ब्राह्मणाच्छंसिसम्बद्धाद्राधसो धनभूतात्पात्रात्सोमं पिब । किं कृत्वा । ऋतूननु ऋतुदेवाननुसृत्य । ऋतवो ऽपि पिबन्त्वित्यर्थः । हि यस्मात्तवेत्तवैव सख्यमस्तृतमृतूनामविच्छिन्नं तस्मादृतुभिः सह पानं युक्तं ॥ ब्राह्मणात् । ब्रह्मशब्देनात्र ब्रह्मवर्गे द्वितीयो ब्राह्मणाच्छंसी कथ्यते । स च पुंलिङ्गे शेषनिघातेनानुदात्तादिः । तस्य सम्बन्ध्युत्तप्तश्चमसः । स च तस्यैवावयवहन्नियत इत्यवयवविवक्षायामनुदात्तादेरञ् । पा. ४-३-१४० । तेन ञित्त्वादाद्युदात्तश्चमसपरो ऽत्र ब्राह्मणशब्दः । राधसः । सर्वधातुभ्यो ऽसुन् । नित्त्वादाद्युदात्तः । पिब । पादादित्वादाद्युदात्तत्वं । द्व्यचो ऽतस्तिङ इति दीर्घत्वं । ऋतूँरनुत्यत्र दीर्घादटि समानपाद इति नकारस्य रुत्वं । अत्रानुनासिकः पूर्वस्य तु वा । पा. ८-३-२ । इत्यूकारस्यानुनासिकत्वं । तव । युष्मदस्मद्भ्यां ङसो ऽश् । पा. ७-१-२७ । शित्त्वात्सर्वादेशः तवममौ ङसीति तवादेशः । युष्मदस्मदोर्ङसीत्याद्युदात्तत्वं । सख्यं । सख्युः कर्म सख्यं । सख्युर्यः । यस्येति लोपः । प्रत्ययस्वरः । अस्तृतं । स्तृणातेर्हिंसार्थस्य क्तः । नञ्समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वं ॥
 >
-> *he indra brāhmaṇād brāhmaṇācchaṃsi-sambaddhād rādhaso dhana-bhūtāt pātrāt somam imaṃ piba | kiṃ kṛtvā | ṛtūn anu ṛtu-devān anvanusṛtya | ṛtavo 'pi pibantv ity arthaḥ | hi yasmāt tavet tava sakhyam astṛtam ṛtūnām avicchinnaṃ tasmād ṛtubhiḥ saha pānaṃ yuktam || brāhmaṇāt | brahma-śabdenātra brahma-varge dvitīyo brāhmaṇācchaṃsī kathyate | sa ca pulliṅge śeṣa-nighātenānudāttādiḥ | tasya sambandhi [pātraṃ] … avayava-vivakṣāyām anudāttāder añ | pā. [4-3-140] | tena ñittvād ādyudāttaś camasa-pātre 'tra brāhmaṇa-śabdaḥ | rādhasaḥ | sarva-dhātubhyo 'sun | nittvād ādyudāttaḥ | piba | pādāditvād [?] … dvyaco 'tastiṅa iti dīrghatvam | ṛtūm̐r anu | dīrghād aṭi samānapāde iti nakārasya rutvam | atrānunāsikaḥ pūrvasya tu vā | pā. 8-3-2 | ity okārasyānunāsikatvam | tava | yuṣmad-asmadbhyāṃ ṅaso 'ś | pā. [7-1-27] | śittvāt sarvādeśaḥ | tava-mamau ṅasīti tavādeśaḥ | yuṣmad-asmador ṅasi ity ādyudāttatvam | sakhyam | sakhyuḥ karma sakhyam | sakhyur yaḥ | yasyeti lopaḥ | pratyaya-svaraḥ | astṛtam | stṛṇāter hiṃsārthasya ktaḥ | nañ-samāsaḥ | avyaya-pūrvapada-prakṛti-svaratvam ||5||*
+> *he indra brāhmaṇādbrāhmaṇācchaṃsisambaddhādrādhaso dhanabhūtātpātrātsomaṃ piba | kiṃ kṛtvā | ṛtūnanu ṛtudevānanusṛtya | ṛtavo 'pi pibantvityarthaḥ | hi yasmāttavettavaiva sakhyamastṛtamṛtūnāmavicchinnaṃ tasmādṛtubhiḥ saha pānaṃ yuktaṃ || brāhmaṇāt | brahmaśabdenātra brahmavarge dvitīyo brāhmaṇācchaṃsī kathyate | sa ca puṃliṅge śeṣanighātenānudāttādiḥ | tasya sambandhyuttaptaścamasaḥ | sa ca tasyaivāvayavahanniyata ityavayavavivakṣāyāmanudāttāderañ | pā. 4-3-140 | tena ñittvādādyudāttaścamasaparo 'tra brāhmaṇaśabdaḥ | rādhasaḥ | sarvadhātubhyo 'sun | nittvādādyudāttaḥ | piba | pādāditvādādyudāttatvaṃ | dvyaco 'tastiṅa iti dīrghatvaṃ | ṛtū~ranutyatra dīrghādaṭi samānapāda iti nakārasya rutvaṃ | atrānunāsikaḥ pūrvasya tu vā | pā. 8-3-2 | ityūkārasyānunāsikatvaṃ | tava | yuṣmadasmadbhyāṃ ṅaso 'ś | pā. 7-1-27 | śittvātsarvādeśaḥ tavamamau ṅasīti tavādeśaḥ | yuṣmadasmadorṅasītyādyudāttatvaṃ | sakhyaṃ | sakhyuḥ karma sakhyaṃ | sakhyuryaḥ | yasyeti lopaḥ | pratyayasvaraḥ | astṛtaṃ | stṛṇāterhiṃsārthasya ktaḥ | nañsamāsaḥ | avyayapūrvapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "O Indra! Drink this soma from the *rādhas* — the vessel that is a treasure (a precious vessel) — belonging to the *brāhmaṇācchaṃsin* priest. Having done what? *ṛtūn anu* — following the Ṛtu-deities: let the Ṛtus too drink. For (*hi*) your friendship with the Ṛtus is unbroken (*astṛtam*, 'uninterrupted'); therefore it is fitting that you drink together with them." The rest is grammar, noted briefly: *brāhmaṇāt* (the word *brahman* here denotes the second of the *brahma*-group of priests, the *brāhmaṇācchaṃsin*; the vessel belonging to him is *brāhmaṇa*, the suffix *añ* in the sense of "part of", P. 4-3-140 [as read], first-syllable accent from the *ñ*); *rādhasaḥ* (Uṇādi *asun* after any root; first-syllable accent); *pibā* (lengthened, P. 6-3-135 *dvyaco 'tastiṅaḥ*); *ṛtūm̐r anu* (*n* → *ru* by P. 8-3-9 *dīrghād aṭi samānapāde*; the nasal *o* by P. 8-3-2 *atrānunāsikaḥ pūrvasya tu vā*); *tava* (the substitute *tava* for *yuṣmad* + *ṅas*); *sakhyam* ("the act of a friend", *sakhi* + *ya*); *astṛtam* (*stṛ* "to strike", *kta*, with the negative compound *na* + *stṛta*, accent of the prefix). *(Grammar, noted briefly; P. 8-3-2 as read agrees with the standard numbering.)*
+**Translation:** "O Indra, drink the soma from the *rādhas*, the vessel that is wealth, belonging to the *brāhmaṇa*, the Brāhmaṇācchaṃsin. Having done what? *Ṛtūn anu*, following the Ṛtu gods: let the Ṛtus too drink, is the sense. *Hi*, since, *tava it*, yours alone, the friendship with the Ṛtus is *astṛtam*, unbroken, so drinking with the Ṛtus is fitting." (Grammatical tail: *brāhmaṇāt*: the word *brahman* here means the Brāhmaṇācchaṃsin, second in the Brahman group; masculine, initial unaccented by the *śeṣanighāta*; his raised *camasa*, a fixed part of him, so *añ* in the sense of part (Pā. 4-3-140), initial udātta, *brāhmaṇa* meaning that *camasa*; *rādhasaḥ* with *asun*, initial udātta; *piba*, initial udātta at the head of the pāda, lengthened in the Saṃhitā; *ṛtūm̐r anu*: *ru* for the *n*, the *ū* nasalised (Pā. 8-3-2); *tava*: *aś* for *ṅas* (Pā. 7-1-27), *tava* for the part up to *m*, initial udātta; *sakhyam*, "the act of a friend", *ya*, the suffix accent; *astṛtam*, *kta* after *stṛ* 'to harm', a *nañ* compound with the first-member accent.)
 
-**Grammar pages (pp. 643 lower half–646 upper half), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats: *brāhmaṇāt* — at a Soma-sacrifice four priests, *Brahman, Brāhmaṇācchaṃsin, Āgnīdhra* and *Potṛ*, belong to the *brahma* group; the second is meant here by the word *brāhmaṇa*, derived from *brahman* (from *bṛh* "to grow", by the old method *bṛṃher nalopaś ca*, or by the Uṇādi *bṛṃher noccha* with *manin*); *brahman* is both neuter and masculine (Amara [?]); in the neuter *brahman* has first-syllable accent by *ñit* (P. 6-1-197 *ñnityādir nityam*), in the masculine the end accent by the *ūḍidam-padādy-apvādi* class (P. 6-1-171 [?] *ūḍidam…*); and the Kannada then lists the shapes of the sacrificial vessels (*camasa*) of the several priests in three Sanskrit verses of the old (Prācīna) tradition on the *soma-pātra*: the *camasa* of the *Brahman* is square (*caturaśra*), of the *Hotṛ* round, the *yajamāna*'s broad, the *Udgātṛ*'s three-cornered; and so on — the verses are as follows, transcribed from the Kannada print with doubtful words marked [?]:
+**॥ Prati-padārthaḥ ॥**
 
-> चतुरश्रो ब्रह्मचमसः होतुस्तु परिमण्डलः । पृथुस्तु यजमानस्य त्र्यश्रिरुद्गातुरिष्यते ॥१॥
-> प्रशास्तुरवतप्यः [?] स्यादुत्तप्तो ब्रह्मशंसिनः । पोतुरग्रे विशाखी स्यात् नेष्टुस्तु विगृहीतकः ॥२॥
-> अच्छावाकस्य राष्णावा नाग्नीध्रस्य मयूखगः । सव्यावृतस्सदस्यः स्यादेतच्च मसलक्षणम् ॥३॥
-> दण्डानामेष आकारश्चमसाश्चतुरश्रगाः । पोतुर्ब्रह्मण उद्गातुर्यज्ञाशास्तुश्च शंसिनः ॥४॥
->
-> *caturaśro brahma-camasaḥ hotus tu parimaṇḍalaḥ | pṛthus tu yajamānasya tryaśrir udgātur iṣyate ||1||*
-> *praśāstur avatapyaḥ [?] syād uttapto brahma-śaṃsinaḥ | poturagre viśākhī syāt neṣṭus tu vigṛhītakaḥ ||2||*
-> *acchāvākasya rāṣṇāvā nāgnīdhrasya mayūkhagaḥ | savyāvṛtassadasyaḥ syād etac ca masalakṣaṇam ||3||*
-> *daṇḍānām eṣa ākāraś camasāś caturaśragāḥ | potur brahmaṇa udgātur yajñāśāstuś ca śaṃsinaḥ ||4||*
-
-The prose that follows reads *potṛ-neṣṭṛ-acchāvākānām āgnīdhrasyeti ca kramaḥ* ("the order is Potṛ, Neṣṭṛ, Acchāvāka and Āgnīdhra"). *(The four verses are given from small print at 150 dpi; the second and fourth are the least certain, and their meaning is not clear to me beyond the first and the third — I give them as read, with no translation beyond the first line.)* The Kannada adds that these were said by the ancients in connection with the Agniṣṭoma's *soma-pātra*-handling; from them it appears that the handle of the Brāhmaṇācchaṃsin's soma-vessel is *uttapta* — lifted up — so the vessel with its raised handle is like a limb of the priest: therefore it may be called his *avayava* ("part"); and *añ* is added in the sense of "a part of" by P. 4-3-134 *anudāttādeś ca* [as printed 4-3-14x], so *brāhmaṇa* means "the vessel as a part of the *brāhmaṇācchaṃsin*", with the first-syllable accent from the *ñ*. *Rādhasaḥ* — *rādh* with *asun* (Uṇ. 4-[?] *sarvadhātubhyo 'sun*). *Piba* — the lengthening at 1.14.10 [print "ṛ. saṃ. 1-14-10"] is cited; its *pāda*-initial position means P. 8-1-18/19 does not make it unaccented. *Ṛtūm̐r anu* — *dīrghād aṭi samānapāde* P. 8-3-9; *atrānunāsikaḥ pūrvasya tu vā* P. 8-3-2, applying to the *ū* the *anunāsika* by the *ru*-section's option. *Tava* — the *śas* → *aś* substitution for *ṅas* after *yuṣmad/asmad* (P. 7-1-27), as a *śit* replacing the whole word by P. 1-1-55; the *tava-mama* substitution by P. 7-2-96 *tavamamau ṅasi*; the accent by P. 6-1-… ; *śeṣe lopaḥ* P. 7-2-90 dropping the final *ad*, and *anudāttasya ca yatrodāttalopaḥ* P. 6-1-161 [as read]; the accent *ekādeśa udāttenodāttaḥ* P. 8-2-5. *Sakhyam* — *sakhyuḥ karma*; *sakhyur yaḥ* [P. 5-1-126] — the *ya* suffix after *sakhi* in the sense of 'action'; *yasyeti ca* P. 6-4-148 drops the *i*; suffix accent. *Astṛtam* — *stṛñ ācchādane* "to cover", a root of the *svādi* class; the Kannada argues that the root here is the *himsā* sense *stṛ* "to strike"; the *kta* has no *iṭ* by P. 7-2-10 *ekāca upadeśe 'nudāttāt*; or by P. 7-2-43 *ṛtaś ca saṃyogāder guṇaḥ* — the *ṛ* of a root with a conjunct initial; the negative compound *nañ* + *stṛta* with P. 6-2-2 [?]; *ṛ*→*ir* by P. 7-1-100 *ṛta iddhātoḥ*, *ur aṇ raparaḥ* P. 1-1-51, *hali ca* P. 8-2-77 (lengthening), and the *n* of *-ṇa* — hence *astīrṇam*; this shows the commentator's *astṛtam* is formed on the *svādi* root *stṛ* with *kta*. *(A crowded run; outline only; numerals as read, pointers only.)*
-
-**॥ Prati-padārthaḥ ॥** *(p. 642)*
-
-**इन्द्र (indra)** — O Indra | **हि (hi)** — for the reason that | **तव इत् (tav-et)** — yours indeed | **सख्यम् (sakhyam)** — friendship [with the Ṛtus] | **अस्तृतम् (astṛtam)** — is unbroken | *(therefore)* **ब्राह्मणात् (brāhmaṇāt)** — from the vessel of the priest called Brāhmaṇācchaṃsin | **राधसः (rādhasaḥ)** — from the precious *camasa*-vessel | **सोमम् (somam)** — the soma-juice | **ऋतून् अनु (ṛtūn anu)** — together with the Ṛtu-deities | **पिब (piba)** — drink.
+**इन्द्र (indra)** — O Indra | **हि (hi)** — for the reason that | **तव इत् (tava it)** — yours alone | **सख्यम् (sakhyam)** — friendship | **अस्तृतम् (astṛtam)** — is unbroken (with the Ṛtu deities); (for that reason) | **ब्राह्मणात् (brāhmaṇāt)** — of the priest called Brāhmaṇācchaṃsin | **राधसः (rādhasaḥ)** — from the costly *camasa* vessel | **सोमम् (somam)** — the soma juice | **पिब (piba)** — drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra! It is well known in the world that your friendship with the Ṛtu-deities is eternal. Therefore, drink the soma-juice, together with the Ṛtu-deities, from the precious *camasa*-vessel of the priest called Brāhmaṇācchaṃsin.
+O Indra, it is well known in the world that the friendship of you and the Ṛtu deities is everlasting. So, from the costly *camasa* vessel of the priest called Brāhmaṇācchaṃsin, you too drink the soma juice with the Ṛtu deities.
+
+### Page 643 — Rik 5: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Drink the soma juice, Indra, from the cups of priest called Brahmanachamsi, after Ritu for whom your friendship is uninterrupted (everlasting).
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 643)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**ब्राह्मणात् (brāhmaṇāt)** — the priest called Brāhmaṇācchaṃsin.
+**Brāhmaṇāt**: the priest called Brāhmaṇācchaṃsin.
 
-**राधसः (rādhasaḥ)** — *dhana-bhūtāt pātrāt*: *rādhas* just means "wealth". The sense "vessel" is not in the word itself, but the commentator supplies it. Or, since *rādhas* means "priceless", "of great value", the sense could be "costly vessel" (the print gives the English words "costly vessel").
+**Rādhasaḥ**: *धनभूतात् पात्रात्* (*dhanabhūtāt pātrāt*, "from the vessel that is wealth"): the word *rādhas* means only wealth. It does not mean "vessel", but the Commentator has supplied that sense. Or one may give the word *rādhasaḥ* the sense "from the priceless, precious vessel", "costly vessel".
 
-**अस्तृतम् (astṛtam)** — *avicchinnam*: unbroken, "uninterrupted" [the print has "uninterruptedr", sic]; that has not stopped after continuing for a time; that is everlasting.
+**Astṛtam**: unbroken, uninterrupted, "uninteruptedr" [sic]: not stopping after some time, everlasting, and so on.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 643–646, noted briefly)*
+
+**ब्राह्मणात् (*brāhmaṇāt*)**: in a sacrifice whose base is soma, the four Brahman, Brāhmaṇācchaṃsin, Āgnīdhra and Potṛ belong to the Brahman group. The Brāhmaṇācchaṃsin, second in this group, is denoted here by the word *brahman*. The word *brahman* is formed from the root *bṛhi vṛddhau* with the suffix *manin*, by "bṛṃher am nalopaś ca" in the old order, or by "bṛṃher no 'c ca" in the order of the Uṇādi sūtras now available. By "brahman puṃsi ca" (Liṅga sū. 140) it is neuter and masculine. In the neuter it is initial udātta by "ñnityādir nityam"; in the masculine final udātta by "uñchādīnāṃ ca" (Pā. sū. 6-1-160), the words of this class being final udātta; on this view, by the *śeṣanighāta* "anudāttaṃ padam ekavarjam" (Pā. sū. 6-1-158), the word *brahman* begins with an unaccented syllable. Those of the Brahman group, and some others, chiefly the sacrificer, have a drinking of soma. The vessel for drinking soma is called *camasa*. It must be square; their handles are of various kinds:
+
+> चतुरश्रो ब्रह्मचमसो होतुस्तु परिमण्डलः ।
+> पृथुस्तु यजमानस्य त्र्यश्रिरुद्गातुरिष्यते ॥१॥
+>
+> *caturaśro brahmacamaso hotustu parimaṇḍalaḥ |*
+> *pṛthustu yajamānasya tryaśrirudgāturiṣyate ||1||*
+
+### Page 644 — Rik 5: grammar (continued)
+
+> प्रशास्तुरवतप्तः स्यादुत्तप्तो ब्रह्मशंसिनः ।
+> पोतुरग्रे विशाखी स्यान्नेष्टुस्तु विगृहीतकः ॥२॥
+>
+> *praśāsturavataptaḥ syāduttapto brahmaśaṃsinaḥ |*
+> *poturagre viśākhī syānneṣṭustu vigṛhītakaḥ ||2||*
+
+> अच्छावाकस्य राष्णावानाग्नीध्रस्य मयूखगः ।
+> सव्यावृतः सदस्यः स्यादेतच्चमसलक्षणम् ॥३॥
+>
+> *acchāvākasya rāṣṇāvānāgnīdhrasya mayūkhagaḥ |*
+> *savyāvṛtaḥ sadasyaḥ syādetaccamasalakṣaṇam ||3||*
+
+> दण्डानामेष आकारश्चमसाश्चतुरश्रगाः ।
+> होतुर्ब्रह्मण उद्गातुर्यष्टुः शास्तुश्च शंसिनः ॥४॥
+>
+> *daṇḍānāmeṣa ākāraścamasāścaturaśragāḥ |*
+> *hoturbrahmaṇa udgāturyaṣṭuḥ śāstuśca śaṃsinaḥ ||4||*
+
+> पोतृनेष्ट्रच्छावाकानामाग्नीध्रस्येति च क्रमः ॥
+>
+> *potṛneṣṭracchāvākānāmāgnīdhrasyeti ca kramaḥ ||*
+
+*("The Brahman's camasa is square, the Hotṛ's round; the sacrificer's broad; the Udgātṛ's is wanted three-cornered. The Praśāstṛ's is with the handle bent down, the Brahmaśaṃsin's with it raised; the Potṛ's forked at the tip; the Neṣṭṛ's with the handle set apart. The Acchāvāka's is rāṣṇāvān, the Āgnīdhra's mayūkhaga; the Sadasya's turned to the left: this is the mark of the camasas. This is the shape of the handles; the camasas are square in form; the order is: of the Hotṛ, Brahman, Udgātṛ, sacrificer, Praśāstṛ, Śaṃsin, Potṛ, Neṣṭṛ, Acchāvāka and Āgnīdhra" — mine and tentative; *rāṣṇāvān* and *mayūkhaga* are left untranslated.)*
+
+The ancients gave this description in the Agniṣṭoma procedure, in the section on setting down the soma vessels at the morning pressing. From this it is settled that the handle of the Brāhmaṇācchaṃsin's soma vessel is *uttapta*, that is, carved so as to stand raised. The *camasa* with the raised handle is fixed to the Brāhmaṇācchaṃsin as a part is to the whole. So it may be meant as a part. So meant, "anudāttāder añ" (Pā. sū. 4-3-140): after the genitive of a stem beginning with an unaccented syllable, in the senses of part, product and group, the suffix *añ*; so *añ* comes with the analysis *brahmaṇaḥ avayavaḥ* (a part of the Brāhmaṇācchaṃsin). So the word *brāhmaṇa* here means the *camasa* vessel with the carved raised handle, fixed to the Brāhmaṇācchaṃsin as a part to the whole. The suffix *añ* is *ñit*, so by "ñnityādir nityam" (Pā. sū. 6-1-197) it is initial udātta.
+
+**राधसः (*rādhasaḥ*)**: by "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]) the suffix *asun* after the root *rādh*; initial udātta by the *nit* accent.
+
+**पिब (*piba*)**: this is set out at *pibā mitrasya* (Ṛ. Saṃ. 1-14-10). It is at the head of the pāda, so the eighth-adhyāya lowering does not come. Lengthened by "dvyaco 'tas tiṅaḥ" (Pā. sū. 6-3-135).
+
+**ऋतूँरनु (*ṛtūm̐r anu*)**: with *ṛtūn* + *anu*, by "dīrghād aṭi samānapāde" (Pā. sū. "8-4-9" [as printed, for 8-3-9]) *ru* for the *n*: *ṛtūr* + *anu*. "atrānunāsikaḥ pūrvasya tu vā" (Pā. sū. 8-3-2): in the *ru* section, in place of what precedes what is enjoined, a nasal comes optionally; so the *ū* becomes a nasal *ū*: *ṛtūm̐ anu* [as printed].
+
+### Page 645 — Rik 5: grammar (continued)
+
+**तव (*tava*)**: *yuṣmad* + genitive singular "jas" [as printed, for *ṅas*]; "yuṣmadasmadbhyāṃ ṅaso 'ś" (Pā. sū. 7-1-27): *aś* for the *ṅas* after *yuṣmad* and *asmad*; being *śit*, it replaces the whole by "anekālśit sarvasya" (Pā. sū. 1-1-55): *yuṣmad* + *a*. "tavamamau ṅasi" (Pā. sū. "7-2-96" [as printed]): before *ṅas*, *tava* and *mama* for the part up to *m* of *yuṣmad* and *asmad*: *tava* + *ad* + *a*; *pararūpa* by "ato guṇe"; *ṭi* dropped by "śeṣe lopaḥ". "yuṣmadasmador ṅasi" (Pā. sū. 6-1-211): before *ṅas* the first syllable of *yuṣmad* and *asmad* is udātta. Though the ending would be udātta by the *udāttanivṛtti* accent "anudāttasya ca yatrodāttalopaḥ" (Pā. sū. 6-1-161) where *śeṣe lopaḥ* (Pā. sū. 7-2-90) drops the *ṭi*, and by "ekādeśa udāttenodāttaḥ" (Pā. sū. 8-2-5) where it drops the final, overriding that the first syllable of *yuṣmad* is udātta; the other letters are unaccented by the *śeṣānudātta* accent.
+
+**सख्यम् (*sakhyam*)**: *sakhyuḥ karma*. "sakhyur yaḥ" (Pā. sū. 5-1-126): after the fitting genitive of *sakhi*, in the senses of state and act, the suffix *ya*; so *ya* after *sakhi* in the sense of act; *sakhi* + *ya*; the *i* dropped by "yasyeti ca" (Pā. sū. 6-4-148); the suffix accent.
+
+**अस्तृतम् (*astṛtam*)**: *stṛñ ācchādane* (*svādi*). Roots have many senses, so here *stṛ* is in the sense of harming. *Kta* after it: *stṛ* + *ta*; "ekāca upadeśe 'nudāttāt" (Pā. sū. 7-2-10) bars the *iṭ*, or "ṛtaś ca saṃyogādeḥ" (Pā. sū. 7-2-43): after a root ending in *ṛ* that begins with a conjunct, *iṭ* is optional for *liṅ* and *sic* before an *ātmanepada* ending; since the *iṭ* is enjoined as optional, by "yasya vibhāṣā" the suffix *kta* takes no *iṭ*. *Na stṛtam astṛtam*: a *nañ* compound. By "tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ" (Pā. sū. 6-2-2) the first member, an *avyaya*, keeps its accent; the first member is a *nipāta*, so initial udātta by "nipātā ādyudāttāḥ" (Phi. sū. 80). *Stṝñ ācchādane* is a *kryādi* root, with *laṭ* *stṛṇāti*. If the suffix *kta* is put after it: *stṝ* + *ta*; "liṅsicor ātmanepadeṣu" (Pā. sū. 7-2-42): after *vṛṅ*, *vṛñ* and roots ending in long *ṝ*, *iṭ* is optional for *liṅ* and *sic* before an *ātmanepada* ending; since it is enjoined as optional, by "yasya vibhāṣā" (Pā. sū. 7-2-15) the suffix *kta* takes no *iṭ*. By "ralvādibhyaś ca" (Pā. sū. 8-2-44) the *t* of the suffix *kta*
+
+### Page 646 — Rik 5: grammar (end)
+
+becomes *n*: *stṝ* + *na*; "ṝta id dhātoḥ" (Pā. sū. 7-1-100) gives *i* for the *ṝ*, with *r* after it by "uraṇ raparaḥ" (Pā. sū. 1-1-51); lengthening by "hali ca" (Pā. sū. "8-2-77" [?]): *stīr* + *na*; *ṇ* for the *n* by "raṣābhyāṃ no ṇaḥ samānapade" (Pā. sū. 8-4-1): *stīrṇa*. So in *astṛtam* it is fitting to take the *svādi* root.
+
+**॥५॥**
+
+---
 
 ### Pages 646–650 — Sūkta 15, Rik 6
 
