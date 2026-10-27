@@ -13160,15 +13160,21 @@ That is, your belly, which is that very dwelling, is always the dwelling of the 
 
 ---
 
-### Pages 629–634 — Sūkta 15, Rik 2
+### Page 629 (lower) — Sūkta 15, Rik 2
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मरुतः पिबत ऋतुना पोत्राद्यज्ञं पुनीतन ।
-> यूयं हि ष्ठा सुदानवः ॥२॥
+> मरु॑तः॒ पिब॑त ऋ॒तुना॑ पो॒त्राद्य॒ज्ञं पु॑नीतन ।
+> यू॒यं हि ष्ठा सु॑दानवः ॥२॥ [accent ?]
 >
-> *marutaḥ pibata ṛtunā potrād yajñaṃ punītana |*
-> *yūyaṃ hi ṣṭhā sudānavaḥ ||2||*
+> *márutaḥ píbata ṛtúnā potrā́d yajñáṃ punītana |*
+> *yūyáṃ hi ṣṭhā́ sudānavaḥ ||2||* [accent ?]
+
+*(Line 2: the foot of the page cuts off any bars; only the stroke over सु is legible.)*
+
+### Page 630 — Rik 2: Pada and bhāṣya
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -13176,47 +13182,129 @@ That is, your belly, which is that very dwelling, is always the dwelling of the 
 > यूयम् । हि । स्थ । सुऽदानवः ॥२॥
 >
 > *marutaḥ | pibata | ṛtunā | potrāt | yajñam | punītana ||*
-> *yūyam | hi | stha | su-dānavaḥ ||2||*
+> *yūyam | hi | stha | su 'dānavaḥ ||2||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* ṣṭhā*, the Pada the short* stha*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 630; compressed; [?] marks doubtful readings)*
-
-> हे मरुतः ऋतुना सह पोत्रात्पोतृनामकस्य ऋत्विजः पात्रात्सोममिमं पिबत । ततोऽस्मदीयं यज्ञं पुनीतन शोधयत । हे सुदानवः शोभनदातारो मरुतः । यस्माद्यूयं स्थ युष्माकं हि शोधयितृत्वं प्रसिद्धम् । तस्माच्छोधयेत्यर्थः ॥
+> हे मरुत ऋतुना सह पोत्रात्पोतृनामकस्य ऋत्विजः पात्रात्सोमं पिबत । ततो ऽस्मदीयं यज्ञं पुनीतन । शोधयत । हे सुदानवः शोभनदातारो मरुतः । हि यस्माद्यूयं स्थ युष्माकं शोधयितृत्वं प्रसिद्धं । तस्माच्छोधयतेत्यर्थः ॥ पिबत । अत्र तिङो ऽदुपदेशाच्छपः परत्वाल्लसार्वधातुकानुदात्तत्वं । धातुस्वरः । पूर्वामन्त्रितस्याविद्यमानवत्त्वेन पदादपरत्वान्निघाताभावः । पूर्ववत्प्रकृतिभावः । पोत्रात् । पोतुः सम्बन्धि पात्रं पोत्रं । तस्येदमित्यण् । तद्धितेष्वचामादेः । पा. ७-२-११७ । इति प्राप्ता वृद्धिः सर्वे विधयश्छन्दसि विकल्प्यन्त इति न भवति । नन्वेवमन्त्यस्य ऋकारस्याचो ञ्णिति । पा. ७-२-११५ । इति वृद्धिः प्राप्नोति । त्वाष्ट्रो जागत इत्यत्र हि विप्रतिषेधे परं कार्यं । पा. १-४-२ । इति परयादिवृद्ध्यान्त्योपधलक्षणा वृद्धिर्बाध्यत इत्युक्तं । इह तु परस्या आदिवृद्धेश्छान्दसत्वेन निवृत्तत्वादन्त्यवृद्धिः प्राप्नोत्येवेति । एवं तर्ह्यत्राप्यादिवृद्धिरौकारः क्रियतां । तस्य तु छान्दस ओकारो भविष्यति । पुनीतन । पूञ् पवने । लोट् । लोटो लङ्वत् । पा. ३-४-८५ । इति लङ्वद्भावात्तस्य तस्थस्थमिपामिति तादेशः । क्र्यादिभ्यः श्ना । ई हल्यघोरितीकारः । तप्तनप्तनथनाश्चेति तनादेशः । प्वादीनां ह्रस्व इति ह्रस्वः । प्रत्ययद्वयस्यापि सार्वधातुकमपिदिति ङित्त्वात्तत्पूर्वयोरिकोर्गुणाभावः । यूयं । युष्मदः परस्य जसो ङे प्रथमयोरम् । पा. ७-१-२८ । इत्यमादेशः । न विभक्तौ तुस्माः । पा. १-३-४ । इति मकारस्येत्संज्ञाप्रतिषेधः । यूयवयौ जसि । पा. ७-२-९३ । इति मपर्यन्तस्य यूयादेशः । शेषे लोपः । अत्र यूयादेशात्प्रा-
 >
-> *he marutaḥ ṛtunā saha potrāt potṛ-nāmakasya ṛtvijaḥ pātrāt somam imaṃ pibata | tato 'smadīyaṃ yajñaṃ punītana śodhayata | he sudānavaḥ śobhana-dātāro marutaḥ | yasmād yūyaṃ stha yuṣmākaṃ hi śodhayitṛtvaṃ prasiddham | tasmāc chodhayety arthaḥ ||*
+> *he maruta ṛtunā saha potrātpotṛnāmakasya ṛtvijaḥ pātrātsomaṃ pibata | tato 'smadīyaṃ yajñaṃ punītana | śodhayata | he sudānavaḥ śobhanadātāro marutaḥ | hi yasmādyūyaṃ stha yuṣmākaṃ śodhayitṛtvaṃ prasiddhaṃ | tasmācchodhayatetyarthaḥ || pibata | atra tiṅo 'dupadeśācchapaḥ paratvāllasārvadhātukānudāttatvaṃ | dhātusvaraḥ | pūrvāmantritasyāvidyamānavattvena padādaparatvānnighātābhāvaḥ | pūrvavatprakṛtibhāvaḥ | potrāt | potuḥ sambandhi pātraṃ potraṃ | tasyedamityaṇ | taddhiteṣvacāmādeḥ | pā. 7-2-117 | iti prāptā vṛddhiḥ sarve vidhayaśchandasi vikalpyanta iti na bhavati | nanvevamantyasya ṛkārasyāco ñṇiti | pā. 7-2-115 | iti vṛddhiḥ prāpnoti | tvāṣṭro jāgata ityatra hi vipratiṣedhe paraṃ kāryaṃ | pā. 1-4-2 | iti parayādivṛddhyāntyopadhalakṣaṇā vṛddhirbādhyata ityuktaṃ | iha tu parasyā ādivṛddheśchāndasatvena nivṛttatvādantyavṛddhiḥ prāpnotyeveti | evaṃ tarhyatrāpyādivṛddhiraukāraḥ kriyatāṃ | tasya tu chāndasa okāro bhaviṣyati | punītana | pūñ pavane | loṭ | loṭo laṅvat | pā. 3-4-85 | iti laṅvadbhāvāttasya tasthasthamipāmiti tādeśaḥ | kryādibhyaḥ śnā | ī halyaghoritīkāraḥ | taptanaptanathanāśceti tanādeśaḥ | pvādīnāṃ hrasva iti hrasvaḥ | pratyayadvayasyāpi sārvadhātukamapiditi ṅittvāttatpūrvayorikorguṇābhāvaḥ | yūyaṃ | yuṣmadaḥ parasya jaso ṅe prathamayoram | pā. 7-1-28 | ityamādeśaḥ | na vibhaktau tusmāḥ | pā. 1-3-4 | iti makārasyetsaṃjñāpratiṣedhaḥ | yūyavayau jasi | pā. 7-2-93 | iti maparyantasya yūyādeśaḥ | śeṣe lopaḥ | atra yūyādeśātprā-*
 
-**Translation:** "O Maruts! Together with the Ṛtu, drink this soma from the vessel (*potra*) of the priest called Potṛ. Then purify our sacrifice (*punītana*). O Sudānavaḥ — good givers — Maruts! Since you are [such] — your power to purify is well known — therefore purify; that is the sense." *(The Sanskrit reading of "potṛ-nāmakasya" is from small print and fairly clear; the closing clause is compressed.)*
+### Page 631 — Rik 2: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-Then follows the grammar of the bhāṣya, pp. 630–631 upper part:
-
-> पिबत । अत्र तिङोऽदुपदेशात् … [क्रमः?] । … मरुत इत्यामन्त्रितत्वादामन्त्रितं पूर्वमविद्यमानवत् [पा. ८-१-७२] … पोत्रात् । पोतुः सम्बन्धि पात्रं पोत्रम् । तस्येदमित्यण् । तद्धितेष्वचामादेः । पा. ७-२-११७ । इति प्राप्ता वृद्धिः सर्वे विधयश्छन्दसि विकल्प्यन्त इति न भवति । … पुनीतन । पूञ् पवने । लोट् । लोटो लङ्वत् । पा. ३-४-८५ । तस्थस्थमिपां तान्तन्तामः । पा. ३-४-१०१ । इति तादेशः । तप्तनप्तनथनाश्च । पा. ७-१-४५ । इति तनादेशः । प्वादीनां ह्रस्वः । पा. ७-३-८० । … यूयम् । युष्मदः … जसः । जसि प्रथमयोरम् … यूयवयौ जसि । पा. ७-२-९३ । … सुदानवः । दाभाभ्यां नुः । उ. ३-३२ [?] । सोः प्रादिसमासः । आमन्त्रितनिघातः । … यूयं स्थेति युष्मच्छब्देन प्रतिनिर्दिश्य पुनीतनेति प्रार्थने पवने केषां हेतुत्वं हिशब्देनोच्यते ॥
+> -गेवान्तरङ्गत्वात्प्रातिपदिकस्यान्तोदात्तत्वं । शेषनिघातः । ततो यूयादेशः स्थाने ऽन्तरतमः । पा. १-१-५० । इति सर्वानुदात्तः । तत्र शेषे लोपो ऽन्त्यलोप इति पक्षे पूर्वसवर्णदीर्घत्वं बाधित्वा यो ऽयममि पूर्वः । पा. ६-१-१०७ । इति प्रातिपदिकान्तेनोदात्तेन सहानुदात्तस्य सुप एकादेशः स एकादेश उदात्तेनोदात्त इत्युदात्तः । टिलोपपक्षे तूदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । स्थ । अस भुवि । लटो मध्यमबहुवचनं थ । अदिप्रभृतिभ्यः शप इति शपो लुक् । श्नसोरल्लोप इत्यकारलोपः । व्यत्ययेन षत्वं । हि चेति निषेधात्तिङ्ङतिङ इति निघातो न भवति । संहिता-
 >
-> *pibata | atra tiṅo 'dupadeśāt … | … maruta ity āmantritatvād āmantritaṃ pūrvam avidyamānavat [pā. 8-1-72] … potrāt | potuḥ sambandhi pātraṃ potram | tasyedam ity aṇ | taddhiteṣv acām ādeḥ | pā. 7-2-117 | iti prāptā vṛddhiḥ sarve vidhayaś chandasi vikalpyanta iti na bhavati | … punītana | pūñ pavane | loṭ | loṭo laṅvat | pā. 3-4-85 | tasthasthamipāṃ tāntantāmaḥ | pā. 3-4-101 | iti tādeśaḥ | taptanaptanathanāś ca | pā. 7-1-45 | iti tanādeśaḥ | pvādīnāṃ hrasvaḥ | pā. 7-3-80 | … yūyam | yuṣmadaḥ … jasaḥ | jasi prathamayor am … yūyavayau jasi | pā. 7-2-93 | … sudānavaḥ | dā-bhābhyāṃ nuḥ | u. 3-32 [?] | soḥ prādi-samāsaḥ | āmantrita-nighātaḥ | … yūyaṃ stheti yuṣmac-chabdena pratinirdiśya punītaneti prārthane pavane keṣāṃ hetutvaṃ hi-śabdenocyate ||*
+> *-gevāntaraṅgatvātprātipadikasyāntodāttatvaṃ | śeṣanighātaḥ | tato yūyādeśaḥ sthāne 'ntaratamaḥ | pā. 1-1-50 | iti sarvānudāttaḥ | tatra śeṣe lopo 'ntyalopa iti pakṣe pūrvasavarṇadīrghatvaṃ bādhitvā yo 'yamami pūrvaḥ | pā. 6-1-107 | iti prātipadikāntenodāttena sahānudāttasya supa ekādeśaḥ sa ekādeśa udāttenodātta ityudāttaḥ | ṭilopapakṣe tūdāttanivṛttisvareṇa vibhakterudāttatvaṃ | stha | asa bhuvi | laṭo madhyamabahuvacanaṃ tha | adiprabhṛtibhyaḥ śapa iti śapo luk | śnasorallopa ityakāralopaḥ | vyatyayena ṣatvaṃ | hi ceti niṣedhāttiṅṅatiṅa iti nighāto na bhavati | saṃhitā-*
 
-*(This grammar run is compressed and crowded; the lines are given in part, with "…" where I could not read or condense them. It explains: why the verb* pibata *is not unaccented, since* marutaḥ *before it is a vocative treated as if absent; that* potra *is "belonging to the Potṛ" with* aṇ*, whose* vṛddhi *is optional in the Veda; that* punītana *is the imperative of* pū *with the substitute* tana *for* ta *and the shortening of the stem vowel; the forms of* yūyam *(P. 7-2-93* yūyavayau jasi*); and* sudānavaḥ *as a *prādi*-compound with the Uṇādi *nu*. The last clause says that by the particle* hi *the Maruts' power to purify is stated as the reason.)*
+> -यामन्येषामपि दृश्यत इति दीर्घत्वं । अत्र हे सुदानवो यूयं हि स्थेति विवक्षितं । सुदानवः । दाभाभ्यां नुः । उ. ३-३२ । सोः प्रादिसमासः । आमन्त्रितनिघातः । अत्र यूयमित्युद्दिश्य सुदानवः स्थेति न विधीयते येनानामन्त्रितत्वान्निघातो न स्यात् । किन्तु सुदानव इति सिद्धवद्दातृत्वेन सम्बोध्य तेषु तेषु मारुतसूक्तेषु मरुतां प्रसिद्धात्प्रभावातिशयाद्यूयं स्थेति युष्मच्छब्देन प्रतिनिर्दिश्य पुनीतनेति प्रार्थने पवने तेषां हेतुत्वं हिशब्देनोच्यते ॥
+>
+> *-yāmanyeṣāmapi dṛśyata iti dīrghatvaṃ | atra he sudānavo yūyaṃ hi stheti vivakṣitaṃ | sudānavaḥ | dābhābhyāṃ nuḥ | u. 3-32 | soḥ prādisamāsaḥ | āmantritanighātaḥ | atra yūyamityuddiśya sudānavaḥ stheti na vidhīyate yenānāmantritatvānnighāto na syāt | kintu sudānava iti siddhavaddātṛtvena sambodhya teṣu teṣu mārutasūkteṣu marutāṃ prasiddhātprabhāvātiśayādyūyaṃ stheti yuṣmacchabdena pratinirdiśya punītaneti prārthane pavane teṣāṃ hetutvaṃ hiśabdenocyate ||*
 
-**Grammar pages (pp. 632–634), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats: *pibata* (*pā* "to drink", *loṭ*, *thā* → *ata* [as read]; *loṭo laṅvat* P. 3-4-85 so that *laṅ*'s rules apply to *loṭ*; *tasthasthamipāṃ tāntantāmaḥ* P. 3-4-101; *pāghrādhmā…* P. 7-3-78 for *piba*; *śap* with its *pit*-ness making it unaccented, accent staying on the root *tāsyanudāttenn…* P. 6-1-186 [?]; the vocative *marutaḥ* before it is treated as absent by P. 8-1-72, so *pibata* is at the start of a *pāda* and so remains unaccented, as P. 8-1-28 *tiṅ atiṅaḥ* indicates [?]); *potrāt* (*potuḥ idam* — *tasyedam* P. 4-3-120 with *aṇ*; the technical name *prātipadika* by P. 1-2-46; the *luk* of *sup* P. 2-4-71; the *vṛddhi* of *taddhiteṣv acām ādeḥ* P. 7-2-117 not applied, because all rules are optional in the Veda — with a long discussion of whether the *vṛddhi* might fall on the final *ṛ* or on the penultimate vowel (P. 7-2-115 *aco ñṇiti*, 7-2-116 [?] *ata upadhāyāḥ*), the *viprati-ṣedha* and *antya-vṛddhi*/*upadhā-vṛddhi*/*ādi-vṛddhi* conflict, with examples *sauśrutaḥ*, *tvāṣṭra*, *pauṣkarasāda*, *jagat+ā*, with the Kaumudī's statement that the *ādi-vṛddhi* wins over the other two); *punītana* (*pū* of the *kryādi* class, with *śnā* P. 3-1-81 and the lengthening of the vowel of *śnā* by P. 6-4-113 *īhalyaghoḥ*, *ī* also for the stem vowel, the shortening of *pū* by P. 7-3-80, the unaccentedness of *śnā* and *tana* as *sārvadhātuka*s, the barring of the *guṇa* by P. 1-1-5 *kṅiti ca*); *yūyam* (*yuṣmad* from the root *yuṣ* "to be [separate]", the Uṇādi suffix *madik*, Uṇ. 1-[?]; accent; the substitution *yūya* for *yuṣmad* + *jas* by P. 7-2-93 *yūyavayau jasi*, with the *ām* of P. 7-1-28 *jasi prathamayor am* [?], and the discussion of whether *yūya* is replaced first or the *śeṣe lopaḥ* P. 7-2-90 applies, with the paribhāṣā "*asiddhaṃ bahiraṅgam antaraṅge*" and the accent *ekādeśa udāttenodāttaḥ* P. 8-2-5). *(A crowded run of three pages; outline only, numerals as read, pointers only.)*
+**Translation:** "O Maruts, together with the Ṛtu, drink the soma from the vessel of the priest called Potṛ. Then *punītana*, purify, our sacrifice. O *sudānavaḥ*, good givers, Maruts: for *hi*, since, you are (such); your power to purify is well known; so purify: that is the sense." (Grammatical tail: *pibata*: the ending unaccented after the *śap* of *adupadeśa*, the root accent; not lowered, since the vocative before it counts as absent and it is not after a word; natural form as before; *potrāt*, "the Potṛ's vessel", *aṇ*; the initial *vṛddhi* (Pā. 7-2-117) is optional in the Veda and does not come; then the final *vṛddhi* of Pā. 7-2-115 would come (in *tvāṣṭro jāgataḥ* it is overridden by the later initial *vṛddhi*, Pā. 1-4-2, but here that later rule is withdrawn as Vedic); "then let the initial *vṛddhi* *au* be made here too, and it will become a Vedic *o*"; *punītana*: *pū* with *loṭ*, *ta*, *śnā*, *ī*, *tana*, shortening, no *guṇa* (*ṅit*); *yūyam*: *am* for *jas* (Pā. 7-1-28), its *m* not *it* (Pā. 1-3-4), *yūya* for the part up to *m* (Pā. 7-2-93), *śeṣe lopaḥ*; the stem accent comes first as *antaraṅga*, then the unaccented *yūya* by Pā. 1-1-50; *am* by Pā. 6-1-107, udātta as a single replacement; on the *ṭi*-loss view the ending is udātta by the *udāttanivṛtti* accent; *stha*: *as*, *tha*, *śap* dropped, the *a* dropped, *ṣ* by *vyatyaya*, not lowered because of *hi*, lengthened in the Saṃhitā; *sudānavaḥ* with *nu* (Uṇ. 3-32), a *prādi* compound, lowered as a vocative: the sense intended is "O good givers, you are (such)", not a predication "you are good givers", else it would not be a vocative and would not be lowered; *hi* gives the reason, the Maruts' well-known power praised in the Māruta sūktas.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 631)*
+**॥ Prati-padārthaḥ ॥**
 
-**मरुतः (marutaḥ)** — O Maruts | **ऋतुना (ṛtunā)** — together with the Ṛtu-deity | **पोत्रात् (potrāt)** — from the vessel of the priest called Potṛ | **पिबत (pibata)** — drink (the soma-juice), (afterwards) | **यज्ञम् (yajñam)** — our sacrifice | **पुनीतन (punītana)** — make pure | **सुदानवः (sudānavaḥ)** — O Maruts, who give desired things well | **यूयम् (yūyam)** — you | **हि स्थ (hi stha)** — are you not renowned, in the mantras, as being of this kind?
+**मरुतः (marutaḥ)** — O Maruts | **ऋतुना (ṛtunā)** — together with the Ṛtu deity | **पोत्रात् (potrāt)** — from the vessel of the priest called Potṛ | **पिबत (pibata)** — drink (the soma juice); (then) | **यज्ञम् (yajñam)** — our sacrifice | **पुनीतन (punītana)** — make pure | **सुदानवः (sudānavaḥ)** — Marut deities who give well what is desired | **यूयम् (yūyam)** — you | **हि स्थ (hi stha)** — are you not known in the mantras as such?
 
 **॥ Bhāvārthaḥ ॥**
 
-O Maruts! First, together with the Ṛtu-deity, drink the soma-juice of our sacrifice from the vessel of the priest called Potṛ; and afterwards make our sacrifice pure. O Maruts, who grant what is wished, are you not those who are renowned in the mantras as having such power?
+O Maruts, first drink the soma juice of our sacrifice from the vessel of the priest called Potṛ together with the Ṛtu deity, and then make our sacrifice pure. O Maruts, who give what is desired, are you not the ones famed in the mantras as so mighty?
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Maruts, drink with Ritu from the Potri's sacrificial cup; consecrate the sacrifice, for you are great givers.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 631)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**पोत्रात् (potrāt)** — Among the sixteen priests who take a share in the sacrifice, one is called Potṛ. He ordinarily works along with the priest called Neṣṭṛ. Here, for *potrāt pibata*, the commentator explains: *potuḥ sambandhi-pātrāt somaṃ pibata* — "drink the soma that is in the vessel belonging to the Potṛ."
+**Potrāt**: one of the sixteen priests who take part in the sacrifice is called Potṛ. He ordinarily works together with the priest called Neṣṭṛ. Here, for the words *potrāt pibata*, the Bhāṣyakāra explains
 
-**सुदानवः (sudānavaḥ)** — *śobhana-dātāraḥ*, or *su-pra-dātāraḥ*: those who give good things, or give well (abundantly).
+> पोतुः सम्बन्धिपात्रात् सोमं पिबत
+>
+> *potuḥ sambandhipātrāt somaṃ pibata*
 
-**Rik 2, grammar tail (p. 635), noted briefly.** The grammar of *yūyam* closes with the optional dropping of the final *d* of *yuṣmad* [P. 7-2-90 *śeṣe lopaḥ*], the *pūrvarūpa* of P. 6-1-102 [read as printed 6-1-107?] making *yūyam* with the accent of the single substituted *ā*; with P. 8-2-5 *ekādeśa udāttenodāttaḥ*. *Stha* — *as* "to be", *laṭ*, middle-person plural *tha*; the *śap* dropped by *ādiprabhṛtibhyaḥ śapaḥ* (P. 2-4-72); the *a* of *as* dropped by P. 6-4-111 *śnasor allopaḥ*; the *s* becomes *ṣ* by *vyatyaya* and *ṣṭunā ṣṭuḥ* (P. 8-4-41) the *th* becomes *ṭh*, giving *ṣṭha*; the particle *hi* does not make the verb unaccented *hi ca* (P. 8-1-34), but here the verb is not unaccented because of *tiṅ atiṅaḥ* (P. 8-1-28) [as the Kannada has it]; in the Saṃhitā the lengthening of *ṣṭhā* is of the type *āṅyeṣām api dṛśyate*. *Sudānavaḥ* — the Uṇādi *nu* suffix after *dā* ("to give", *ḍudāñ dāne*) and *bhā* "to shine"; *su* + *dānu* by P. 2-2-18 *kugatiprādayaḥ*; as a vocative plural, unaccented, and given the first-syllable accent by P. 6-1-198. The Kannada adds a long note: *sudānavaḥ* here is not part of the predicate of *yūyaṃ hi ṣṭhā*, since if it were it would not be a vocative and could not take the vocative accent; so it must be taken as a separate vocative — "O (well-known) givers!" — and *yūyam* then points to the Maruts, whose power is known from the Mārutasūktas, with *hi* giving the reason for *punītana* ("purify"), as in the Bhāvārtha above. ॥2॥ *(Numerals as read; pointers only.)*
+"drink the soma juice in the Potṛ's vessel".
+
+**Sudānavaḥ**:
+
+> शोभनदातारः । अथवा सुष्ठु दातारः
+>
+> *śobhanadātāraḥ | athavā suṣṭhu dātāraḥ*
+
+those who give good things, or who give well (abundantly).
+
+### Page 632 — Rik 2: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 632–635, noted briefly)*
+
+**पिबत (*pibata*)**: *pā pāne*; *loṭ*, 2nd plural *tha*. "loṭo laṅvat" (Pā. sū. 3-4-85): the operations of *laṅ* come for *loṭ*, so the *laṅvadbhāva* is an *atideśa*:
+
+> अतिदेशः = तद्धर्माभाववति तद्धर्मबोधकत्वम्
+>
+> *atideśaḥ = taddharmābhāvavati taddharmabodhakatvam*
+
+that is, ascribing a property to what lacks it: *loṭ* does not have the form of *laṅ*, so the *laṅ* operations could not come, but they come by this sūtra. *Ta* for *tha* by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. "3-4-100" [as printed, for 3-4-101]); *śap*; *pib* for *pā* by "pāghrādhmā…" (Pā. sū. 7-3-78): *pibata*. *Śap* is *pit*, so unaccented; the *ta*, a *sārvadhātuka* for a *lakāra*, follows the *a*-final *śap*, so it is unaccented by "tāsyanudāttenṅidadupadeśāt" (Pā. sū. 6-1-186); the root accent remains. The vocative *marutaḥ* before it is treated as absent by "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. "8-1-2" [as printed, for 8-1-72]); so *pibata* does not follow a word and is at the head of the pāda, and "tiṅṅatiṅaḥ" does not make it wholly unaccented.
+
+**पोत्रात् (*potrāt*)**: *potuḥ idam* (the vessel belonging to the Potṛ). "tasyedam" (Pā. sū. 4-3-120): after the genitive of a fitting *prātipadika*, the suffix *aṇ* in the sense "this belongs to it". Of the two fitting words *potuḥ* and *idam*, the first named in the sūtra is *tasya*; so after the genitive *potuḥ*, *aṇ* in the sense *idam*: *potṛ* + *as* + *a*; a *prātipadika* by "kṛttaddhitasamāsāś ca" (Pā. sū. 1-2-46); the ending dropped by "supo dhātuprātipadikayoḥ" (Pā. sū. 2-4-71): *potṛ* + *a*. "taddhiteṣv acām ādeḥ" (Pā. sū. 7-2-117) would give *vṛddhi* to the first vowel; but by
+
+> सर्वे विधयश्छन्दसि विकल्प्यन्ते
+>
+> *sarve vidhayaśchandasi vikalpyante*
+
+*(paribhāṣā 35)* this *vṛddhi* is optional and does not come. Without it, "aco ñṇiti" (Pā. sū. 7-2-115) would give *vṛddhi* to the final *ṛ* of *potṛ*: for the *su* after *go*, "goto ṇit" (Pā. sū. 7-1-90) gives *ṇit*; *su* is not a *taddhita*, so no initial *vṛddhi*, and "aco ñṇiti" has scope there; after *pac*, *ṇvul* gives *aka*: *pac* + *aka*
+
+### Page 633 — Rik 2: grammar (continued)
+
+here neither initial nor final *vṛddhi* applies; "ata upadhāyāḥ" (Pā. sū. 7-2-116) gives the penultimate *vṛddhi*: *pācaka*; so the penultimate *vṛddhi* has scope there. *Sauśrutaḥ*, *suśrutaḥ apatyaṃ pumān*: "tasyāpatyam" (Pā. sū. 4-1-92) *aṇ*: *suśrut* + *a*; the stem does not end in a vowel, so no final *vṛddhi* by "aco ñṇiti" (Pā. sū. 7-2-115); the penultimate is not *a*, so no penultimate *vṛddhi*; where final and penultimate *vṛddhi* do not come, the initial *vṛddhi* has scope. So each of the three has its own field. In *tvaṣṭuḥ apatyaṃ pumān tvāṣṭraḥ*, with *aṇ* after *tvaṣṭṛ* in the sense of *apatya*, both final and initial *vṛddhi* apply; in *jagat* + *a*, both penultimate and initial *vṛddhi*. When so, "vipratiṣedhe paraṃ kāryam" (Pā. sū. 1-4-2): when rules that have scope elsewhere apply to one case at one time, that is *vipratiṣedha*, and the later rule wins; so in both places the later initial *vṛddhi* overrides the final and penultimate *vṛddhi*. Once the initial *vṛddhi* has come, by
+
+> सकृद्गतौ विप्रतिषेधेन यद्बाधितं तद्बाधितमेव
+>
+> *sakṛdgatau vipratiṣedhena yadbādhitaṃ tadbādhitameva*
+
+*(paribhāṣā 40)* the final and penultimate *vṛddhi* do not come again. Since Puṣkarasad is read in the *anuśatikādi* class for *vṛddhi* of both members, here
+
+> पुनःप्रसङ्गविज्ञानात्सिद्धम्
+>
+> *punaḥprasaṅgavijñānātsiddham*
+
+*(paribhāṣā 39)* does not apply: on the view that relies on this paribhāṣā, with *puṣkarasad* + *i*, if both initial and penultimate *vṛddhi* came, the form *pauṣkarasādi* would be got, and the reading of *puṣkarasad* in *anuśatikādi* for *vṛddhi* of both members by "anuśatikādīnāṃ ca" (Pā. sū. 7-3-20) would be useless. So here the *sakṛdgati* applies, not the *punaḥprasaṅga*. Thus the initial *vṛddhi* overrides the final and penultimate *vṛddhi*. The Kaumudī states this point as
+
+> आदिवृद्धिरन्त्योपधावृद्धी बाधते
+>
+> *ādivṛddhirantyopadhāvṛddhī bādhate*
+
+Here the overriding initial *vṛddhi* does not come, being optional in the Veda, so the final *vṛddhi* is not overridden, and one may say the final *vṛddhi* should come. On that view, let the initial *vṛddhi* come here too: in *pautra* the *au* becomes *o* as a Vedic form, they say. Then, being overridden by the initial *vṛddhi*, the final *vṛddhi* does not come.
+
+**पुनीतन (*punītana*)**: *pūñ pavane* (*kryādi*); *loṭ*, *parasmaipada* 2nd plural *tha*: *pū* + *tha*; by "loṭo laṅvat" (Pā. sū. 3-4-85) the *laṅvadbhāva*, so *ta* for *tha* by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101); *tana* for *ta* by "taptanaptanathanāś ca" (Pā. sū. 7-1-45): *pū* + *tana*; the *vikaraṇa* *śnā* by "kryādibhyaḥ śnā" (Pā. sū. 3-1-81): *pū* + *nā* + *tana*. "ī halyaghoḥ"
+
+### Page 634 — Rik 2: grammar (continued)
+
+(Pā. sū. 6-4-113): before a consonant-initial *sārvadhātuka* that is *kit* or *ṅit*, *ī* for the *ā* of *śnā* and of reduplicated stems: *pū* + *nī* + *tana*; *pū* shortened by "pvādīnāṃ hrasvaḥ" (Pā. sū. 7-3-80): *punītana*. Both *nī* and *tana* are *apit* *sārvadhātukas*, so *ṅit* by "sārvadhātukam apit" (Pā. sū. 1-2-4); "kṅiti ca" (Pā. sū. 1-1-5) bars *guṇa*; so neither the *ī* before *tana* nor the *u* before *nī* takes *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84).
+
+**यूयम् (*yūyam*)**: "yuṣyasibhyāṃ madik" (Uṇ. sū. 1-136): *yuṣ* is a *sautra* root; after it the suffix *madik*: *yuṣmad*, final udātta by the suffix accent. On the view
+
+> उणादयो ऽव्युत्पन्नानि प्रातिपदिकानि
+>
+> *uṇādayo 'vyutpannāni prātipadikāni*
+
+*(paribhāṣā 22)*, that words formed by Uṇādi sūtras are underived stems without division into base and suffix, it is final udātta by "phiṣo 'nta udāttaḥ" (Phi. sū. 1). *Yuṣmad* + *jas*; "ṅe prathamayor am" (Pā. sū. "7-1-25" [?]): *am* for the first and second case endings after *yuṣmad* and *asmad*: *yuṣmad* + *am*. The *m* of *am* would be *it* by "hal antyam" (Pā. sū. 1-3-3), but "na vibhaktau tusmāḥ" (Pā. sū. 1-3-4) bars it for dentals, *s* and *m* in an ending. "yūyavayau jasi" (Pā. sū. 7-2-93): before *jas*, *yūya* and *vaya* for the part up to *m* of *yuṣmad* and *asmad*: *yūya* + *ad* + *am*. *Śeṣe lopaḥ* comes with reference to an ending that is not the cause of *ātva* or *yatva*; so, its cause being outside, it is *bahiraṅga*; the *pararūpa* of "ato guṇe", whose cause is inside, is *antaraṅga*. So by
+
+> असिद्धं बहिरङ्गमन्तरङ्गे
+>
+> *asiddhaṃ bahiraṅgamantaraṅge*
+
+*(paribhāṣā 50)* *śeṣe lopaḥ* counts as not done, and the *pararūpa* comes first; though *śeṣe lopaḥ* is later, it does not come first. With *pararūpa*: *yuṣmad* + *am*. Then "śeṣe lopaḥ" (Pā. sū. 7-2-90) comes. Here, before the *bahiraṅga* *yūya* replacement, being *antaraṅga*, the suffix accent or the stem accent comes first. By "anudāttaṃ padam ekavarjam" (Pā. sū. 6-1-158) the *śeṣanighāta* makes *yuṣma* unaccented; then by the paribhāṣā "sthāne 'ntaratamaḥ" (Pā. sū. 1-1-50) the wholly unaccented *yūya* comes in place of the unaccented *yuṣma*. The *pararūpa*, a single replacement, of *yūya* + *ad* is udātta by "ekādeśa udāttenodāttaḥ" (Pā. sū. 8-2-5). "śeṣe lopaḥ" (Pā. sū. 7-2-90): before an ending other than the causes of *ātva* and *yatva*, the final of *yuṣmad*/*asmad* drops: that is the sense of the sūtra;
+
+### Page 635 — Rik 2: grammar (end)
+
+on the view that the final drops, the *d* drops: *yūya* + *am*. "ami pūrvaḥ" (Pā. sū. 6-1-107) gives *pūrvarūpa* as the single replacement; the *a* so arising is udātta by "ekādeśa udāttenodāttaḥ" (Pā. sū. 8-2-5). Taking "śeṣe lopaḥ" (Pā. sū. 7-2-90) with *śeṣa* as a locative in the sense of place, the sense is: before such an ending, the *ad* after the *m*-portion drops; then in *yūyad* + *am* the *ad* drops. On this view the udātta *ad* drops with reference to the unaccented *am*; so by the *udāttanivṛtti* accent "anudāttasya ca yatrodāttalopaḥ" (Pā. sū. 6-1-161) the ending becomes udātta. On both views *yūyam* is final udātta.
+
+**स्थ (*stha*)**: *asa bhuvi*; *laṭ*, *parasmaipada* 2nd plural *tha*; the *vikaraṇa* *śap* of "kartari śap" is dropped by "adiprabhṛtibhyaḥ śapaḥ"; *as* + *tha*; "śnasor allopaḥ" (Pā. sū. 6-4-111): the *a* of *śnam* and of *as* drops before a *kit* or *ṅit* *sārvadhātuka*: *stha*. By *vyatyaya* *ṣ* for the *s*; *ṭh* by "ṣṭunā ṣṭuḥ" (Pā. sū. 8-4-41): *ṣṭha*. By "hi ca" (Pā. sū. 8-1-34) a *tiṅanta* joined with *hi* is not unaccented; here there is the use of *hi*, so the bar applies, and "tiṅṅatiṅaḥ" does not lower it. In the Saṃhitā it is lengthened by "anyeṣām api dṛśyate".
+
+**सुदानवः (*sudānavaḥ*)**: "dābhābhyāṃ nuḥ" (Uṇ. sū. 3-32; *ḍudāñ dāne*, *bhā dīptau*): after these the suffix *nu*: *dānu*. With *su*, a compound by "kugatiprādayaḥ" (Pā. sū. 2-2-18); vocative plural; it is a vocative, so wholly unaccented by "āmantritasya ca" (Pā. sū. 8-1-19). Here *sudānavaḥ* is not taken as a nominative plural with *yūyaṃ sudānavaḥ stha*, predicating "you are well-known givers" of the Maruts meant by *yūyam*; for then *sudānavaḥ* would not be a vocative, and its vocative lowering would not fit. So *sudānavaḥ* is a vocative plural, and the intended sense is *he sudānavaḥ yūyaṃ hi stha*: "O Maruts, well-known givers, you are endowed with the great power set out in the several Māruta sūktas": addressing the Maruts by their established generosity as *sudānavaḥ*, and pointing back by *yūyam* to the great powers famed in those sūktas, when one prays *punītana*, "purify", the word *hi* conveys that those great powers, gathered under the word *yuṣmad*, are the reason for the purifying.
+
+**॥२॥**
+
+---
 
 ### Pages 635–641 — Sūkta 15, Rik 3
 
