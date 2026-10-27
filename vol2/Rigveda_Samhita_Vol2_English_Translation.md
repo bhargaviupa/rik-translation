@@ -6511,13 +6511,15 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 
 ### Page 299
 
+*(Page header: "A. 1, A. 1, Va. 14." Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रं वो विश्वतस्परि हवामहे जनेभ्यः ।
-> अस्माकमस्तु केवलः ॥१०॥
+> इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः ।
+> अ॒स्माक॑मस्तु केव॑लः ॥१०॥
 >
-> *indraṃ vo viśvatas pari havāmahe janebhyaḥ |*
-> *asmākam astu kevalaḥ ||10||*
+> *índraṃ vo viśvátas pári hávāmahe jánebhyaḥ |*
+> *asmā́kam astu kévalaḥ ||10||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6531,11 +6533,11 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 
 **(Application of the rik.)**
 
-> आश्विनं शंसिष्यन्निन्द्रं वो विश्वतस्परीति जुहुयात् । संस्थितेष्वाश्विनाय स्तुवत इति खण्डे बण्महाँ असि सूर्येति [?] द्वाभ्यामिन्द्रं वो विश्वतस्परि । आ. २-५ [?] । इति सूत्रितम् ॥ चतुर्विंशे ऽहनि प्रातःसवने ब्राह्मणाच्छंसिन इन्द्रं वो विश्वतस्परीत्यारम्भणीया । चतुर्विंश इत्युपक्रम्य ऋजुनीती नो वरुण इन्द्रं वो विश्वतस्परि । आ. ७-२ [?] । इति सूत्रितम् ॥
+> आश्विनं शंसिष्यन्निन्द्रं वो विश्वतस्परीति जुहुयात् । संस्थितेष्वाश्विनाय स्तुवत इति खण्डे बण्महाँ असि सूर्येति द्वाभ्यामिन्द्रं वो विश्वतस्परि । आ. ६-५ । इति सूत्रितम् ॥ चतुर्विंशे ऽहनि प्रातःसवने ब्राह्मणाच्छंसिन इन्द्रं वो विश्वतस्परीत्यारम्भणीया । चतुर्विंश इत्युपक्रम्य ऋजुनीती नो वरुण इन्द्रं वो विश्वतस्परि । आ. ७-२ । इति सूत्रितम् ॥
 >
-> *āśvinaṃ śaṃsiṣyann indraṃ vo viśvatas parīti juhuyāt | saṃsthiteṣv āśvināya stuvata iti khaṇḍe baṇ mahāṁ asi sūryeti [?] dvābhyām indraṃ vo viśvatas pari | ā. 2-5 [?] | iti sūtritam || caturviṃśe 'hani prātaḥsavane brāhmaṇācchaṃsina indraṃ vo viśvatas parity ārambhaṇīyā | caturviṃśa ity upakramya ṛjunītī no varuṇa indraṃ vo viśvatas pari | ā. 7-2 [?] | iti sūtritam ||*
+> *āśvinaṃ śaṃsiṣyann indraṃ vo viśvatas parīti juhuyāt | saṃsthiteṣv āśvināya stuvata iti khaṇḍe baṇ mahāṁ asi sūryeti dvābhyām indraṃ vo viśvatas pari | ā. 6-5 | iti sūtritam || caturviṃśe 'hani prātaḥsavane brāhmaṇācchaṃsina indraṃ vo viśvatas parity ārambhaṇīyā | caturviṃśa ity upakramya ṛjunītī no varuṇa indraṃ vo viśvatas pari | ā. 7-2 | iti sūtritam ||*
 
-**Translation:** "One who is about to recite the Āśvina[-śastra] should make the offering with '*indraṃ vo viśvatas pari*'. In the section [beginning] '*saṃsthiteṣv āśvināya stuvate*,' with the two [riks] '*baṇ mahāṁ asi sūrya* [?]' [and] '*indraṃ vo viśvatas pari*' — so it is laid down (Āśvalāyana 2-5 [?]). On the twenty-fourth day, at the morning pressing, '*indraṃ vo viśvatas pari*' is the opening [rik] for the Brāhmaṇācchaṃsin; beginning from 'on the twenty-fourth,' it is so laid down: '*ṛjunītī no varuṇa*, *indraṃ vo viśvatas pari*' (Āśvalāyana 7-2 [?])." *(The citation numbers are compressed in the scan; the bracketed first quotation, rendered "baṇ mahāṁ asi sūrya", is the best reading of the Kannada letters.)*
+**Translation:** "One who is about to recite the Āśvina[-śastra] should make the offering with '*indraṃ vo viśvatas pari*'. In the section [beginning] '*saṃsthiteṣv āśvināya stuvate*,' with the two [riks] '*baṇ mahāṁ asi sūrya*' [and] '*indraṃ vo viśvatas pari*' — so it is laid down (Āśvalāyana 6-5). On the twenty-fourth day, at the morning pressing, '*indraṃ vo viśvatas pari*' is the opening [rik] for the Brāhmaṇācchaṃsin; beginning from 'on the twenty-fourth,' it is so laid down: '*ṛjunītī no varuṇa*, *indraṃ vo viśvatas pari*' (Āśvalāyana 7-2)."
 
 > हे ऋत्विग्यजमाना विश्वतः सर्वेभ्यो जनेभ्यः परि उपर्यवस्थितमिन्द्रं वो युष्मदर्थं हवामहे । आह्वयामः । अतः स इन्द्रो ऽस्माकं केवलो ऽसाधारणो ऽस्तु । इतरेभ्यो ऽप्यधिकमनुग्रहमस्मासु करोत्वित्यर्थः ॥
 >
@@ -6543,9 +6545,9 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 
 **Translation:** "O priests and sacrificers! [From] *viśvataḥ* — above all men, *pari* — standing above — we call Indra for you (*vaḥ*, on your behalf); we summon him. Therefore, let that Indra be ours alone (*kevalaḥ*), unshared; the sense is: 'Let him grant us favour even more than to others.'"
 
-*(Sāyaṇa's grammar of* इन्द्रम्*,* वः*,* विश्वतः*,* परि*,* हवामहे*,* जनेभ्यः*,* अस्माकम्*,* केवलः *follows on this page; characterized with the Kannada grammar below.)*
+**Grammar of the Bhāṣya (characterized, references as printed):** "Indram" — ending in "ran," "n"-marked, first-syllable acute. "Vaḥ" — with "anudāttaṃ sarvam" carried on, **बहुवचनस्य वस्नसौ** (पा. ८-१-२१) "vas." "Viśvataḥ" — "liti": the syllable before the affix acute. "Pari" — first-syllable acute as a nipāta; in the saṃhitā **पञ्चम्याः परावध्यर्थे** (पा. ८-३-५१) "s" for the visarga. "Havāmahe" — "hveñ," "śap," samprasāraṇa by "bahulaṃ chandasi," the prior form, guṇa and "av." "Janebhyaḥ" — "jāyanta iti janāḥ," "jani" with "ghañ" in the object sense; **जनिवध्योश्च** (पा. ७-३-३५) no vṛddhi of the penultimate; "ñ"-marked, first-syllable acute. "Asmākam" — "asmad" end-acute by the stem; "śeṣe lopaḥ" (पा. ७-२-९०) loss of the final; on the view of loss of the "ṭi," **साम आकम्** (पा. ७-१-३३) "ākam," the single substitute acute; on the other view, the "ā" acute by the accent of the removed acute. "Kevalaḥ" — first-syllable acute, the vṛṣādi class being an ākṛtigaṇa. ॥१४॥ ॥२॥
 
-**॥१०॥ ॥२॥** *(The Sanskrit ends with the rik-number "10" and a second marker read as "2" [?]. This fits the close of the **second anuvāka**, of which this sūkta is the last, though the source does not annotate it.)*
+*(The Sanskrit ends "॥ १४ ॥ ॥ २ ॥": the end of the fourteenth varga and of the second anuvāka, of which this sūkta is the last.)*
 
 ### Page 300
 
@@ -6557,34 +6559,34 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 
 O people — priests, sacrificers and the rest! Indra is greater than all people, or is [present] everywhere. We invoke such an Indra on your behalf (here, i.e., to this sacrificial ground). May that Indra be to us the chief bestower of favour, or the one we need.
 
-**॥ English Translation ॥** *(as printed in the source; the scan prints "imoke" and "onr" for "invoke" and "own")*
+**॥ English Translation ॥** *(as printed in the source)*
 
-> We [in]voke for you Indra (who is) above all men. May he be exclusively [o]ur own.
+> We imoke [sic] for you Indra (who is) above all men. May he be exclusively onr [sic] own.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-This rik is found in the Sāma Veda **1630 [?]**; Atharvaveda **20-69-1 [?]**, **20-70-16 [?]**; Taittirīya Saṃhitā **1-6-12-1 [?]**; Maitrāyaṇīya Saṃhitā **4-11-4 [?]**. *(Numerals compressed in the scan; all given with reservation.)* If read together with the previous rik, the sense fits correctly. This mantra is used for invoking Indra — in the invocation of the eight guardians of the directions (*aṣṭadikpālakas*) in rites such as the worship of the nine planets (*navagrahārādhanā*) prescribed in the household-rite texts (*gṛhya*), and in other occasions.
+This rik is found in the Sāma Veda **1620**; Atharvaveda **20-39-1**, **20-70-16**; Taittirīya Saṃhitā **1-6-12-1**; Maitrāyaṇīya Saṃhitā **4-11-4**. If read together with the previous rik, the sense fits correctly. This mantra is used for invoking Indra — in the invocation of the eight guardians of the directions (*aṣṭadikpālakas*) in rites such as the worship of the nine planets (*navagrahārādhanā*) prescribed in the household-rite texts (*gṛhya*), and in other occasions.
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pp. 300–301. Characterized, not transcribed (Convention 5). Points of substance:)*
+*(Pp. 300–301. Characterized; numbers as printed.)*
 
-- **इन्द्रम् (*indram*)** — from root *idi paramaiśvarye* ("to be supremely lordly") with the *ran* suffix by the Uṇādi sūtra *ṛjrendrāgra…* (Uṇ. 2-[?]); initial-udātta by the *nit* suffix.
-- **वः (*vaḥ*)** — unaccented by the rule on the "unaccented, in the middle of a pāda" (Pā. 8-1-18/19 [?]); *vas* substituted for *yuṣmān/yuṣmabhyam/yuṣmākam* (Pā. 8-1-21); the second/fourth/sixth plural forms of *yuṣmad* and *asmad* take *vas* and *nas* in turn, these being unaccented. The source's example: for *yuṣmabhyam* an unaccented *vas* is substituted.
-- **विश्वतः (*viśvataḥ*)** — *tasil* by "pañcamyās tasil" (Pā. 5-3-7); *liti* (Pā. 6-1-193 [?]) makes the letter before *tasil* udātta.
-- **परि (*pari*)** — a nipāta, initial-udātta. In the Saṃhitā-pāṭha, with *viśvataḥ* and *pari*, the *visarga* of *viśvataḥ* becomes *s* by Pā. 8-3-[?] (*pañcamyāḥ parāv adhyarthe*, 8-3-51): the visarga of the fifth-case form before *pari* in the sense "above" becomes *s*, giving *viśvataspari*.
-- **हवामहे (*havāmahe*)** — as on Rik 5.
-- **जनेभ्यः (*janebhyaḥ*)** — *janyante* ("those who are born") = *janāḥ*; root *jan* + *ṇic*; before the ending the *ṇi* drops (Pā. 6-4-51); *ṇic* as the cause, "ata upadhāyāḥ" (Pā. 7-2-116) would give *vṛddhi* but "janivadhyoś ca" (Pā. 7-3-35) blocks *vṛddhi* in *jan* and *vadh* when a *cit/ñit/ṇit* suffix follows; *ghañ* is *kṛt*; "jñādi-ni rtyam" (Pā. 6-1-197 [?]) — the word is final-udātta.
-- **अस्माकम् (*asmākam*)** — *asmad* + *ām* (genitive plural); by "sāma ākam" (Pā. 7-1-33) *ākam* replaces *sām*; the end of *asmad* drops by "śeṣe lopaḥ" (Pā. 7-2-90); *ā-kam* with the initial-udātta by the single-substitute rule (Pā. 8-2-5); the alternative analysis is the same as in the loss of *ṭi*.
+- **इन्द्रम् (*indram*)** — from root *idi paramaiśvarye* ("to be supremely lordly") with the *ran* suffix by the Uṇādi sūtra *ṛjrendrāgra…* (उ. सू. २-१८६); initial-udātta by the *nit* suffix.
+- **वः (*vaḥ*)** — unaccented by the rule on the "unaccented, in the middle of a pāda" (**अनुदात्तं सर्वमपादादौ**, पा. सू. ८-१-१८); *vas* substituted for *yuṣmān/yuṣmabhyam/yuṣmākam* (Pā. 8-1-21); the second/fourth/sixth plural forms of *yuṣmad* and *asmad* take *vas* and *nas* in turn, these being unaccented. The source's example: for *yuṣmabhyam* an unaccented *vas* is substituted.
+- **विश्वतः (*viśvataḥ*)** — "tasil" by **पञ्चम्यास्तसिल्** (पा. सू. ५-३-७); **लिति** (पा. सू. ६-१-१९३) makes the syllable before "tasil" acute.
+- **परि (*pari*)** — a nipāta, first-syllable acute. In the saṃhitā, before "pari" in the sense "above," the visarga of a fifth-case form becomes "s" by **पञ्चम्याः परावध्यर्थे** (पा. सू. ८-३-५१): "viśvatas pari."
+- **हवामहे (*havāmahe*)** — "hveñ," "laṭ," first plural "mahiṅ," "śap"; samprasāraṇa by **बहुलं छन्दसि** (पा. सू. ६-१-३४), the prior form by **संप्रसारणाच्च** (पा. सू. ६-१-१०८), guṇa, "av" and the long vowel; "e" for the "ṭi": "havāmahe."
+- **जनेभ्यः (*janebhyaḥ*)** — "janyante (are born) iti janāḥ": "jana" with "ṇic," then "ghañ" in the object sense; **णेरनिटि** (पा. सू. ६-४-५१) drops "ṇi"; **अत उपधायाः** (पा. सू. ७-२-११६) would give vṛddhi, but **जनिवध्योश्च** (पा. सू. ७-३-३५) forbids it for "jan" and "vadh" before "ciṇ" and "ñit/ṇit" kṛt affixes; first-syllable acute by **ञ्नित्यादिर्नित्यम्** (पा. सू. ६-१-१९७).
+- **अस्माकम् (*asmākam*)** — "asmad + ām": **साम आकम्** (पा. सू. ७-१-३३) — "ākam" replaces "sām" after "yuṣmad, asmad," the ending being treated as "sām"; "asmad" end-acute; **शेषे लोपः** (पा. सू. ७-२-९०) drops the final letter: "asma + ākam," the long vowel, and the single substitute acute by **एकादेश उदात्तेनोदात्तः** (पा. सू. ८-२-५); on the view that "śeṣe lopaḥ" drops the "ṭi," the "ā" is acute by **अनुदात्तस्य च यत्रोदात्तलोपः** (पा. सू. ६-१-१६१). ॥१०॥
 - **केवलः (*kevalaḥ*)** — initial-udātta by being counted in the *vṛṣādi* class, which is an *ākṛti-gaṇa* (a class identified by its character).
 
 ### Page 301 — Sūkta 7 ends
 
-*(This page carries the last two entries of the Rik 10 grammar, above: the explanation of the loss of* ṭi *in* asmākam *and the accent of* kevalaḥ*; it ends with the number* ॥१०॥*, followed by a printed ornament marking the end of the sūkta.)*
+*(Page header: "A. 1, A. 1, Va. 14." This page carries the Rik 10 grammar from "viśvataḥ" to "asmākam" (characterized under p. 300), ending ॥१०॥, then a printed ornament marking the end of the sūkta.)*
 
 **॥१०॥**
 
-**End of Sūkta 7.** *(The next printed page, 302, opens "ಎಂಟನೆಯ ಸೂಕ್ತವು" — the eighth sūkta, "indre sānasiṃ rayim"; not translated in this batch.)*
+**End of Sūkta 7.**
 
 ---
 
