@@ -2680,47 +2680,105 @@ The meaning of this ṛk fits properly if some words are supplied: in milk the e
 
 ---
 
-### Pages 111–117 — Sūkta 22, Rik 15
+### Page 111 (lower) — Sūkta 22, Rik 15
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स्योना पृथिवि भवानृक्षरा निवेशनी ।
-> यच्छा नः शर्म सप्रथः ॥ १५ ॥
+> स्यो॒ना पृ॑थिवि भवानृक्ष॒रा नि॒वेश॑नी ।
+> यच्छा॑ नः॒ शर्म॑ स॒प्रथः॑ ॥१५॥
+>
+> *syonā́ pṛthivi bhavānṛkṣarā́ nivéśanī |*
+> *yácchā naḥ śárma sapráthaḥ ||15||*
 
-*syonā pṛthivi bhavānṛkṣarā niveśanī | yacchā naḥ śarma saprathaḥ || 15 ||*
+*(A bar under स्यो, a stroke over पृ, bars under क्ष and नि, a stroke over श (निवेशनी). Line 2: strokes over च्छा, र्म and थः; bars under नः and स.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 112 — Rik 15: Pada, bhāṣya
 
-> स्योना । पृथिवि । भव । अनृक्षरा । निऽवेशनी ॥ यच्छ । नः । शर्म । सऽप्रथः ॥ १५ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*syonā | pṛthivi | bhava | anṛkṣarā | ni-veśanī || yaccha | naḥ | śarma | sa-prathaḥ || 15 ||*
+> स्योना । पृथिवि । भव । अनृक्षरा । निऽवेशनी ॥
+> यच्छ । नः । शर्म । सऽप्रथः ॥१५॥
+>
+> *syonā | pṛthivi | bhava | anṛkṣarā | ni 'veśanī ||*
+> *yaccha | naḥ | śarma | sa 'prathaḥ ||15||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> स्योना पृथिवीत्येषा महानाम्नीव्रते भूमिस्पर्शने विनियुक्ता । एतद्विदं ब्रह्मचारिणमिति खण्डे सूत्रितम् । स्योना पृथिवि भवेति समाप्य (आ. ८-१४ [?]) इति ॥ स्मार्ते हेमन्तप्रत्यवरोहणेऽप्येषा जप्या । मार्गशीर्ष्यां प्रत्यवरोहणमिति खण्डे सूत्रितम् । तस्मिन्नुपविश्य स्योना पृथिवि भवेति जपित्वा (आ. गृ. २-३-६ [?]) इति ॥
+*(Numbers as printed: आ० ८-१४, आ० गृ० २-३-६, नि० ९-३२, उ० ३-९, पा० ६-३-७४, पा० २-२-२८, पा० ६-३-८२; उ० ३-७५ is read with doubt [?]. Read टेश्च यो इत्यादेशः [?]. The bhāṣya ends with ॥६॥, the close of the sixth varga.)*
+
+> स्योना पृथिवीत्येषा महानाम्नीव्रते भूमिस्पर्शने विनियुक्ता । एतद्विदं ब्रह्मचारिणमिति खण्डे सूत्रितं । स्योना पृथिवि भवेति समाप्य । आ० ८-१४ । इति ॥ स्मार्ते हेमन्तप्रत्यवरोहणेऽप्येषा जप्या । मार्गशीर्ष्यां प्रत्यवरोहणमिति खण्डे सूत्रितं । तस्मिन्नुपविश्य स्योना पृथिवि भवेति जपित्वा । आ० गृ० २-३-६ । इति ॥
 >
-> हे पृथिवि स्योना सुखा [?] इत्यादिगुणयुक्ता भव । स्योनशब्दो विस्तीर्णवाची । तथा च वाजसनेयिब्राह्मणे स्योनेनोपेतं कंचिन्मन्त्रमुदाहृत्य व्याख्यातम् — इन्द्र स्योरुमाविश स्योनः स्योनमिति विस्तीर्णो विस्तीर्णमित्येव तदाहेति । यद्वा स्योनशब्दः सुखवाची । तथा च यास्कवाक्यमुदाहरिष्यते । अनृक्षरा कण्टकरहिता । निवेशनी निवासस्थानभूता । सप्रथो विस्तारयुक्तं शर्म शरणं नोऽस्मभ्यं यच्छ । हे पृथिवि भवेति तामेतामृचमुदाहृत्य यास्क एवं व्याचष्टे — सुखा नः पृथिवि भवानृक्षरा निवेशन्यृक्षरः कण्टक ऋच्छतेः कण्टकः कंतपो वा कृन्ततेर्वा कण्टतेर्वा स्याद्गतिकर्मण उद्गततमो भवति यच्छ नः शर्म शरणं सर्वतः पृथु (नि. [९-३२] [?]) इति ॥
+> *syonā pṛthivītyeṣā mahānāmnīvrate bhūmisparśane viniyuktā | etadvidaṃ brahmacāriṇamiti khaṇḍe sūtritaṃ | syonā pṛthivi bhaveti samāpya | ā0 8-14 | iti || smārte hemantapratyavarohaṇe 'pyeṣā japyā | mārgaśīrṣyāṃ pratyavarohaṇamiti khaṇḍe sūtritaṃ | tasminnupaviśya syonā pṛthivi bhaveti japitvā | ā0 gṛ0 2-3-6 | iti ||*
 
-*syonā pṛthivīty eṣā mahānāmnīvrate bhūmisparśane viniyuktā | etadvidaṃ brahmacāriṇam iti khaṇḍe sūtritam | syonā pṛthivi bhaveti samāpya (ā. 8-14 [?]) iti || smārte hemantapratyavarohaṇe 'py eṣā japyā | mārgaśīrṣyāṃ pratyavarohaṇam iti khaṇḍe sūtritam | tasminn upaviśya syonā pṛthivi bhaveti japitvā (ā. gṛ. 2-3-6 [?]) iti ||*
-*he pṛthivi syonā sukhā [?] ity ādiguṇayuktā bhava | syonaśabdo vistīrṇavācī | tathā ca vājasaneyibrāhmaṇe syonenopetaṃ kaṃcin mantram udāhṛtya vyākhyātam — indra syorum āviśa syonaḥ syonam iti vistīrṇo vistīrṇam ity eva tadāheti | yadvā syonaśabdaḥ sukhavācī | tathā ca yāskavākyam udāhariṣyate | anṛkṣarā kaṇṭakarahitā | niveśanī nivāsasthānabhūtā | sapratho vistārayuktaṃ śarma śaraṇaṃ no 'smabhyaṃ yaccha | he pṛthivi bhaveti tām etām ṛcam udāhṛtya yāska evaṃ vyācaṣṭe — sukhā naḥ pṛthivi bhavānṛkṣarā niveśany ṛkṣaraḥ kaṇṭaka ṛcchateḥ kaṇṭakaḥ kaṃtapo vā kṛntater vā kaṇṭater vā syād gatikarmaṇa udgatatamo bhavati yaccha naḥ śarma śaraṇaṃ sarvataḥ pṛthu (ni. [9-32] [?]) iti ||*
+**Translation (application):** "This ṛk *syonā pṛthivi* is used in the *mahānāmnī* vow, at the touching of the ground; it is laid down in the section *etadvidaṃ brahmacāriṇam*: 'having finished with *syonā pṛthivi bhava*' (Āśv. 8-14). In the *smārta* rite of the winter *pratyavarohaṇa* too this is to be muttered; it is laid down in the section *mārgaśīrṣyāṃ pratyavarohaṇam*: 'having sat down on it and muttered *syonā pṛthivi bhava*' (Āśv. Gṛ. 2-3-6)."
 
-**Translation:** "The rik *syonā pṛthivī* is applied in the *Mahānāmnī* vow at the touching of the earth: it is laid down in the section *etadvidaṃ brahmacāriṇam* — 'having finished [with the words] *syonā pṛthivi bhava*' (Āś. [8-14] [?]). In the domestic (*smārta*) rite of *hemanta-pratyavarohaṇa* [the 'descent' in winter] this rik is also to be muttered: in the section *mārgaśīrṣyāṃ pratyavarohaṇam* — 'sitting down there, having muttered *syonā pṛthivi bhava*' (Āś. Gṛ. [2-3-6] [?]). O Earth, be endowed with such qualities as *syonā*. The word *syona* means 'wide': so, in the Vājasaneyi-brāhmaṇa, citing some mantra containing the word, it explains *indra syorum āviśa* … 'wide' [?], 'it says [*syonaḥ* = ] wide.' Or *syona* means 'pleasant': so the words of Yāska will be cited. *Anṛkṣarā*: free from thorns. *Niveśanī*: being a dwelling-place. *Saprathaḥ*: give us, to us, wide shelter (*śarma*) — protection. Yāska explains this very rik thus: 'Be pleasant to us, O Earth; *anṛkṣarā* [thornless]: *ṛkṣara* is a thorn — derived from *ṛch* [to go], or [*kaṇṭaka*] from *kṛntati* [to cut] or *kaṇṭati*, a word meaning going, [i.e. what has gone up?]; ... give us shelter extending on every side' (Nirukta [9-32] [?])."
+> हे पृथिवि स्योनत्वादिगुणयुक्ता भव । स्योनशब्दो विस्तीर्णवाची । तथा च वाजसनेयब्राह्मणे स्योनशब्दोपेतं कंचिन्मन्त्रमुदाहृत्य व्याख्यातं । इन्द्रस्योरुमाविश स्योनः स्योनमिति विस्तीर्णो विस्तीर्णमित्येव तदाहेति । यद्वा । स्योनशब्दः सुखवाची । तथा च यास्कवाक्यमुदाहरिष्यते । अनृक्षरा कण्टकरहिता निवेशनी निवासस्थानभूता सप्रथो विस्तारयुक्तं शर्म शरणं नोऽस्मभ्यं यच्छ । हे पृथिवि देहि । तामेतामृचमुदाहृत्य यास्क एवं व्याचष्टे । सुखा नः पृथिवि भवानृक्षरा निवेशन्यृक्षरः कण्टक ऋच्छतेः कण्टकः कन्तपो वा कृन्ततेर्वा कण्टतेर्वा स्याद्गतिकर्मण उद्गततमो भवति यच्छ नः शर्म शरणं सर्वतः पृथु । नि० ९-३२ । इति ॥ स्योना । षिवु तन्तुसंताने । सिवेष्टेर्यू च । उ० ३-९ । इति नप्रत्ययः । टेश्च यो इत्यादेशः । प्रत्ययस्वरः । स्योना पृथिवीत्यनयोर्भवेत्याख्यातेनैवान्वयो न परस्परं । अतोऽसामर्थ्यान्नैव पराङ्गवद्भावाभावादोकारस्य नामन्त्रिताद्युदात्तत्वं । अनृक्षरा । ऋषी गतौ । गच्छत्यन्तरित्यृक्षरः कण्टकः । तन्यृषिभ्यां क्सरन् । उ० ३-७५ । षढोः कः सीति कत्वं । आदेशप्रत्यययोरिति षत्वं । नञा बहुव्रीहिः । तस्मान्नुडचि । पा० ६-३-७४ । इति नुडागमः । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । निविशन्त्यस्यामिति निवेशनी । करणाधिकरणयोश्चेति ल्युट् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । यच्छ । दाण् दाने । पाघ्रेत्यादिना यच्छादेशः । द्व्यचोऽतस्तिङ इति दीर्घः । सप्रथः । प्रथ प्रख्याने । असुन् । प्रथसा सह वर्तत इति तेन सहेति तुल्ययोगे । पा० २-२-२८ । इति समासः । वोपसर्जनस्य । पा० ६-३-८२ । इति सभावः । कृत्स्वरः ॥६॥
+>
+> *he pṛthivi syonatvādiguṇayuktā bhava | syonaśabdo vistīrṇavācī | tathā ca vājasaneyabrāhmaṇe syonaśabdopetaṃ kaṃcinmantramudāhṛtya vyākhyātaṃ | indrasyorumāviśa syonaḥ syonamiti vistīrṇo vistīrṇamityeva tadāheti | yadvā | syonaśabdaḥ sukhavācī | tathā ca yāskavākyamudāhariṣyate | anṛkṣarā kaṇṭakarahitā niveśanī nivāsasthānabhūtā sapratho vistārayuktaṃ śarma śaraṇaṃ no 'smabhyaṃ yaccha | he pṛthivi dehi | tāmetāmṛcamudāhṛtya yāska evaṃ vyācaṣṭe | sukhā naḥ pṛthivi bhavānṛkṣarā niveśanyṛkṣaraḥ kaṇṭaka ṛcchateḥ kaṇṭakaḥ kantapo vā kṛntatervā kaṇṭatervā syādgatikarmaṇa udgatatamo bhavati yaccha naḥ śarma śaraṇaṃ sarvataḥ pṛthu | ni0 9-32 | iti || syonā | ṣivu tantusaṃtāne | siveṣṭeryū ca | u0 3-9 | iti napratyayaḥ | ṭeśca yo ityādeśaḥ | pratyayasvaraḥ | syonā pṛthivītyanayorbhavetyākhyātenaivānvayo na parasparaṃ | ato 'sāmarthyānnaiva parāṅgavadbhāvābhāvādokārasya nāmantritādyudāttatvaṃ | anṛkṣarā | ṛṣī gatau | gacchatyantarityṛkṣaraḥ kaṇṭakaḥ | tanyṛṣibhyāṃ ksaran | u0 3-75 | ṣaḍhoḥ kaḥ sīti katvaṃ | ādeśapratyayayoriti ṣatvaṃ | nañā bahuvrīhiḥ | tasmānnuḍaci | pā0 6-3-74 | iti nuḍāgamaḥ | nañsubhyāmityuttarapadāntodāttatvaṃ | niviśantyasyāmiti niveśanī | karaṇādhikaraṇayośceti lyuṭ | litīti pratyayātpūrvasyodāttatvaṃ | yaccha | dāṇ dāne | pāghretyādinā yacchādeśaḥ | dvyaco 'tastiṅa iti dīrghaḥ | saprathaḥ | pratha prakhyāne | asun | prathasā saha vartata iti tena saheti tulyayoge | pā0 2-2-28 | iti samāsaḥ | vopasarjanasya | pā0 6-3-82 | iti sabhāvaḥ | kṛtsvaraḥ ||6||*
 
-*(Grammar pages 114–117, noted briefly: words treated are* syonā *[*sivu tantusantāne* + *na* by Uṇ. [3-6/3-46] with* ūṭh *and* yaṇ*, i.e. the formation from* siv *with *na*, the* ū *of* siv *changed to* yo*; accent; the sense 'ray or sun' from the Medinīkośa, and 'happiness' by Nirukta [?]; the vocative* pṛthivi *with the discussion of whether the vocative forms an* āmantrita *in P. 8-1-[?]*; the accent of* syonā *as a vocative — decided by the principle* samarthaḥ padavidhiḥ*],* anṛkṣarā *[*ṛṣī gatau* + *kṣaran* — Uṇ. [3-70] ; *ṛkṣara* = thorn; *nañ*-bahuvrīhi, accent on the last member by P. 6-2-172*],* niveśanī *[*ni* + *viś* + *lyuṭ* in the sense of place, P. 3-3-117; *yu* → *ana* P. 7-1-1; *ṅīp*/*ṅīṣ* by P. 4-1-15],* yaccha *[*dāṇ dāne* with the substitution *yaccha* by P. 7-3-78; *hi* → *luk*; accent],* saprathaḥ *[*pratha prakhyāne* + *asun*, Uṇ. 4-[?]; compound with *saha* → *sa*, by P. 6-3-82 *vopasarjanasya*; the long discussion on* upasarjana *is scholastic and is not reproduced]. Numerals as read, pointers only.)*
+**Translation:** "O Earth, *bhava*, be possessed of the qualities of *syona*-ness and the rest. The word *syona* means 'wide': so in the Vājasaneya-brāhmaṇa, citing a mantra with the word *syona*, it is explained: '*indrasyorum āviśa syonaḥ syonam* — it says "wide, wide" only.' Or the word *syona* means 'happiness', as Yāska's statement will be cited. *Anṛkṣarā*, free from thorns, *niveśanī*, being a place of dwelling, *yaccha*, give, *naḥ*, us, *śarma*, shelter, *saprathaḥ*, furnished with breadth: O Earth, give. Citing this ṛk Yāska explains it thus: '*Be happy (sukhā) for us, O Earth, thornless, a dwelling place. Ṛkṣara is a thorn, from ṛcchati; kaṇṭaka is from kantapa, or from kṛntati, or it may be from kaṇṭati, meaning to go: it stands most up. Give us shelter, wide on all sides*' (Ni. 9-32)." (Grammatical tail: *syonā*, *ṣivu tantusaṃtāne*, the suffix *na* by *siveṣ ṭer yū ca* (U. 3-9), with the substitute for the *ṭi* [as read]; the suffix accent; *syonā* and *pṛthivi* are each construed only with the verb *bhava*, not with each other; so, for lack of mutual connection there is no treating as part of the following, and the *o* does not take the vocative initial udātta; *anṛkṣarā*, *ṛṣī gatau*, 'it goes within': *ṛkṣara*, a thorn; *ksaran* by *tanyṛṣibhyāṃ ksaran* (U. 3-75 [?]); *k* by *ṣaḍhoḥ kaḥ si*, *ṣ* by *ādeśapratyayayoḥ*; a bahuvrīhi with *nañ*; the augment *nuṭ* by *tasmān nuḍ aci* (Pā. 6-3-74); the last member final udātta by *nañsubhyām*; *niveśanī*, 'they enter into her', *lyuṭ* by *karaṇādhikaraṇayoś ca*, the syllable before the suffix udātta by *liti*; *yaccha*, *dāṇ dāne*, the substitute *yaccha* by *pāghrā…*, lengthening by *dvyaco 'tastiṅaḥ*; *saprathaḥ*, *pratha prakhyāne*, *asun*; 'that which is with breadth', compounded by *tena saheti tulyayoge* (Pā. 2-2-28), *sa* by *vopasarjanasya* (Pā. 6-3-82); the *kṛt* accent.)
 
-**॥ Prati-padārthaḥ ॥** **पृथिवि (pṛthivi)** — O Earth | **स्योना (syonā)** — wide or pleasant | **भव (bhava)** — be | **नः (naḥ)** — to us | **अनृक्षरा (anṛkṣarā)** — free from thorns | **निवेशनी (niveśanī)** — a dwelling-place | **सप्रथः (saprathaḥ)** — wide | **शर्म (śarma)** — shelter | **यच्छ (yaccha)** — give.
+### Page 113 — Rik 15: word-meanings, overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** O Goddess Earth! Be always wide and free from thorns, a dwelling-place for us, and give us wide shelter.
+**॥ Prati-padārthaḥ ॥**
+
+**पृथिवि (pṛthivi)** — O Earth (you) | **स्योना (syonā)** — wide, or bringing happiness | **भव (bhava)** — be | **नः (naḥ)** — for us | **अनृक्षरा (anṛkṣarā)** — free from thorns | **निवेशनी (niveśanī)** — as a dwelling place | **सप्रथः (saprathaḥ)** — wide | **शर्म (śarma)** — shelter | **यच्छ (yaccha)** — give.
+
+**॥ Bhāvārthaḥ ॥**
+
+O goddess Earth, being always wide and free from thorns, a dwelling place, give us a wide shelter.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Earth, give us extensive abode free from thorns; give us great happiness.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 113–115)* The applications of this rik are in both *śrauta* and *smārta* rites. In the *Mahānāmnī* vow [(*vrata*) a sacrifice] it is recited at the time of touching the earth; this is described in Āśvalāyana's Śrauta-sūtra, in the section *etadvidaṃ brahmacāriṇam*, in the sūtra ending *syonā pṛthivi bhaveti samāpya* (Āś. [8-14] [?]). In the domestic rites it is muttered in the rite called *hemanta-pratyavarohaṇa*; described in Āśvalāyana's Gṛhya-sūtra, in the section *mārgaśīrṣyāṃ pratyavarohaṇam* ('on the full moon of Mārgaśīrṣa...') by the sūtra *tasminn upaviśya syonā pṛthivi bhaveti japitvā* (Āś. Gṛ. [2-3-6] [?]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**स्योना** — the commentator says that this word shows two senses: 'wide' or 'pleasant'; for the sense 'wide' he cites the Vājasaneya-brāhmaṇa passage *indra syorum āviśa syonaḥ syonam iti vistīrṇo vistīrṇam ity eva tadāha*. For the other sense the explanation given by Yāska is cited — [the passage quoted above]. By this Nirukta explanation: *syonā* = *sukhā*; *anṛkṣarā* = *niṣkaṇṭakā*; *niveśanī* = *nivāsayogyā*; *śarma* = *sukham*; *saprathaḥ* = *sarvataḥ pṛthu*. That is, the Earth is prayed to give us a dwelling that is pleasant, free from thorns (free from obstacles), suitable to live in, and happiness.
+The application of this ṛk is in both *śrauta* and *smārta* rites. In the vow (rite) called *mahānāmnī* it is recited at the time of touching the ground. This matter is explained in the section *etadvidaṃ brahmacāriṇam* of the Āśvalāyana Śrautasūtra by the sūtra *syonā pṛthivi bhaveti samāpya* (Ā. 8-14).
 
-**अनृक्षरा** — *akṣara* means '*ṛkṣara*' from *ṛṣī gatau*, i.e. from *ṛcchati* 'it goes'; a thorn, an obstacle: *kaṇṭaka* [that which goes against; pierces], *bādhā*. *Anṛkṣarā* means without such obstacles, free from thorns.
+In *smārta* rites too, in the rite called *hemanta-pratyavarohaṇa*, this mantra is to be muttered. This matter is explained in the section *mārgaśīrṣyāṃ pratyavarohaṇam* of the Āśvalāyana Gṛhyasūtra by the sūtra *tasminn upaviśya syonā pṛthivi bhaveti japitvā* (Ā. Gṛ. 2-3-6).
+
+**स्योना (syonā)** — the commentator says this word indicates two kinds of meaning, 'wide' and 'bringing happiness', and cites the Vājasaneya-brāhmaṇa sentence *indrasyorum āviśa syonaḥ syonam iti vistīrṇo vistīrṇam ity eva tad āha*, which sets forth the meaning 'wide'.
+
+He has cited the explanation Yāska gave of this ṛk:
+
+> सुखा नः पृथिवि भवानृक्षरा निवेशन्यृक्षरः कण्टक ऋच्छतेः कण्टकः कन्तपो वा कृन्ततेर्वा कण्टतेर्वा स्याद्गतिकर्मण उद्गततमो भवति यच्छ नः शर्म शरणं सर्वतः पृथु ॥ (नि० ९-३२)
+>
+> *sukhā naḥ pṛthivi bhavānṛkṣarā niveśanyṛkṣaraḥ kaṇṭaka ṛcchateḥ kaṇṭakaḥ kantapo vā kṛntatervā kaṇṭatervā syādgatikarmaṇa udgatatamo bhavati yaccha naḥ śarma śaraṇaṃ sarvataḥ pṛthu || (ni0 9-32)*
+
+### Page 114 — Rik 15: Special Topics (end), grammar
+
+According to this derivation, *syonā* = *sukhā*, *anṛkṣarā* = *niṣkaṇṭakā*, *niveśanī* = fit for dwelling, *śarma* = *sukham*, *saprathaḥ* = wide on all sides. That is, it is a prayer to the earth: give a dwelling place, happy, free from thorns (free from troubles) and fit to live in, and happiness.
+
+**अनृक्षरा (anṛkṣarā)** — *akṣara* [as printed; for *ṛkṣara*] means — *ṛcchateḥ gatikarmaṇaḥ kṛntater vā* — the thorn, the trouble, formed from the root *ṛcch*, which conveys the senses of going, obstructing, harming and so on. *Anṛkṣara* means free from such troubles, free from thorns.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**स्योना (syonā)** — the root *ṣivu tantusantāne*. By *siveṣ ṭer yo ca* [as printed] (U. Sū. 3-29 [?]), *naḥ* being carried on from *dhāpṛvasyajyatibhyo naḥ* (U. Sū. 3-26 [?]): the sense of the sūtra is that after the root *ṣiv* the suffix *na* comes, and the substitute *yo* for the *iv*, the *ṭi* of the root. By *anekālśit sarvasya* the substitute *yo* comes for the whole *iv*, not only for the *v*. By *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *s* for *ṣ*: *syo* + *na*; the suffix accent comes; with *ṭāp* marked by ending in *a*, it becomes *syonā*: so the Veda commentary. In the Uṇādi sūtras as now printed the reading is *siveṣ ṭer yū ca* (U. Sū. 3-29 [?]). On this view the substitute *yū* comes for the *iv*, the *ṭi*: *syū* + *na*. Now by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa*, *o* for the *ū*, would be obtained. Yet whether *guṇa* comes after making the short substitute *yu* or after making the long substitute *yū*, it must become *syo*; there is no difference at all. Since there is a saving of a mora, the substitute *yu* alone could have been laid down. Even so, by the force of laying down the long substitute, *guṇa* does not come; by this sūtra the form *syūnaḥ* alone is established. *Syūnaḥ* means the sun. Since there is the word *bahula* in *uṇādayo bahulam* (Pā. Sū. 3-3-1), when only the suffix *na* comes after the root *ṣiv*: *siv* + *na*; by *chvoḥ śūḍ anunāsike ca* (Pā. Sū. 6-4-19) — when a nasal, or the suffix *kvip*, or a *jhal*-initial suffix that is *kit* or *ṅit* follows, *ś* for the *ch* joined by the augment *tuk*, and *ūṭ* for *v*, come as substitutes — the substitute *ūṭ* for the *v*: *si* + *ū* + *na*; when both the *yaṇ* substitute and *guṇa* are obtained, since the *yaṇ* substitute has its cause inside, it is internal (*antaraṅga*); so by *asiddhaṃ bahiraṅgam antaraṅge* (Paribhā. 51 [?]) first the *yaṇ* substitute, then *guṇa* and *ṭāp*: it becomes *syonā*. This description is clear in the *vṛtti* on the sūtra *chvoḥ śūḍ* and in the *Kaiyaṭa* on *yena vidhis tadantasya* (Pā. Sū. 1-1-72).
+
+### Page 115 — Rik 15: grammar (continued)
+
+According to the Medinī lexicon, *syonaḥ kiraṇasūryayoḥ*, the meaning ray or sun results for the word *syona*. Yet here, according to the Brāhmaṇa, 'wide', and according to the Nirukta (3-6-14 [?], as read), 'happiness', are the meanings described.
+
+For *pṛthivi*: by *sāmantritam* (Pā. Sū. 2-3-48) — the vocative nominative singular gets the name *āmantrita* — it has the name *āmantrita*. By *subāmantrite parāṅgavat svare* (Pā. Sū. 2-1-2), let the word *syonā*, ending in *sup*, be as a part of the word *pṛthivi*; then by *āmantritasya ca* (Pā. Sū. 6-1-198) the initial udātta would come, and the *o* in *syo* might be said to be initially udātta. But *subāmantrite* applies only where there is connection in the form of mutual construction. Since *subāmantrite* is a rule about words (*padavidhi*), by the *paribhāṣā* *samarthaḥ padavidhiḥ* (Pā. Sū. 2-1-1) it results that it comes only where there is that connection. In the present case the two words *sukhena* [as printed] and *pṛthivi* are construed with the verb *bhava*; they have no mutual construction with each other. So, for lack of connection, the treating as part of the following does not come. Thus, since the initial udātta of the vocative does not come by the sixth-book sūtra, the *o* is not initially udātta.
+
+**अनृक्षरा (anṛkṣarā)** — the root *ṛṣī gatau*; with the analysis *ṛṣati*, 'goes inside (within)', it becomes *ṛkṣara*. It means a thorn, that is, a prickle. By *tanyṛṣibhyāṃ ksaran* (U. Sū. 3-75 [?]) — after these roots, *tanu vistāre* and *ṛṣī gatau*, the suffix *ksaran* comes — the suffix *ksaran* after the root *ṛṣ*. With the *it*-name and dropping for the *k*: *ṛṣ* + *sara*. Now by *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41) — before *s*, *k* for *ṣ* and *ḍh* — the substitute *k* for *ṣ*: *ṛk* + *sara*; by *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) — after the *iṇ* vowels and the *ka*-row, *ṣ* for an *s* that is a substitute or part of a suffix — *ṣ* for the *s*: it becomes *ṛkṣara*. *Na vidyamānaḥ ṛkṣaraḥ yasyāṃ sā*: by *nañaḥ 'sty arthānāṃ vācyo vā cottarapadalopaḥ* the *nañ* compound with the dropping of the last member *vidyamāna*; by *nalopo nañaḥ* (Pā. Sū. 6-3-73) the *n* of *nañ* is dropped; by *tasmān nuḍ aci* (Pā. Sū. 6-3-74) — the vowel-initial last member after *nañ* with its *n* dropped takes the augment *nuṭ* — the augment *nuṭ*: *anṛkṣara*. By *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member's own accent would be obtained; overriding it, by *nañsubhyām* (Pā. Sū. 6-2-172) — in a bahuvrīhi compound the last member after *nañ* and *su* is final udātta — the last member is final udātta.
+
+### Page 116 — Rik 15: grammar (continued)
+
+**निवेशनी (niveśanī)** — *niviśanti asyām iti niveśanī*. After the root *viśa praveśane* preceded by the prefix *ni*, by *karaṇādhikaraṇayoś ca* (Pā. Sū. 3-3-117) — in the instrumental sense and in the locative sense, *lyuṭ* comes after roots — the suffix *lyuṭ*; by *yuvor anākau* (Pā. Sū. 7-1-1) the substitute *ana* for *yu*: *niviś* + *ana*, *guṇa* of the light penultimate; by *liti* (Pā. Sū. 6-1-193) the *e* before the suffix is udātta; since the suffix is *ṭit*, by the sūtra *ṭiḍḍhāṇañ…* (Pā. Sū. 4-1-15) *ṅīp*: it becomes *niveśanī*.
+
+**यच्छ (yaccha)** — the root *dāṇ dāne*. By *pāghrādhmāsthāmnādāṇdṛśyartisartiśadasadāṃ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* (Pā. Sū. 7-3-78): *pā pāne*, *ghrā gandhopādāne*, *dhmā śabdāgnisaṃyogayoḥ*, *ṣṭhā gatinivṛttau*, *mnā abhyāse*, *dāṇ dāne*, *dṛśir prekṣaṇe*, *ṛ gatiprāpaṇayoḥ* [as printed: *gatikṣepaṇayoḥ*], *sṛ gatau* — for *sarti*, according to the *vārttika* *sarter vegitāyāṃ gatau dhāvādeśaḥ*, the root *sṛ* conveying going in the form of speed is intended here — *śadḷ śātane*, *ṣadḷ viśaraṇagatyavasādaneṣu*: when a suffix beginning with the *it*-named *ś* follows, these take in order the substitutes *piba*, *jighra*, *dhama*, *tiṣṭha*, *mana*, *yaccha*, *paśya*, *ṛccha*, *dhau*, *śīya*, *sīda*; so after the root *dāṇ*, after *loṭ*, *sip* and *śap*, the substitute *yaccha*: *yaccha* + *si*. By *ser hy apic ca* (Pā. Sū. 3-4-87) *hi* for *si*; by *ato heḥ* (Pā. Sū. 6-4-105) *hi* is dropped (*luk*): it becomes *yaccha*. Now by *dvyaco 'tastiṅaḥ* (Pā. Sū. 6-3-135) — in a mantra, at the time of the Saṃhitā, the short *a* at the end of a two-vowelled word ending in *tiṅ* is lengthened — lengthening: it becomes *yacchā*.
+
+**सप्रथः (saprathaḥ)** — the root *pratha prakhyāne*. By *sarvadhātubhyo 'sun* (U. Sū. 4-6-28 [?]) the suffix *asun*. *Prathaḥ* is initially udātta by the *nit* accent. *Tena saheti tulyayoge* (Pā. Sū. 2-2-28): *tena* indicates one ending in the third case. Connection in one and the same action, such as going, is called *tulyayoga*. Thus the indeclinable *saha*, which indicates *tulyayoga*, compounds with one ending in the third case, and it is a bahuvrīhi: so the bahuvrīhi compound *prathasā saha vartate*. *Prathaḥ* means breadth. *Śarma* means a house; that both *śarma* and *prathaḥ* are construed in the one action *vartate* is shown by the word *saha*. So the word *saha* is compounded with the word *prathasā* ending in the third case. In *vopasarjanasya* (Pā. Sū. 6-3-82), from *aluk uttarapade* (Pā. Sū. 6-3-1) *uttarapade* is the heading; from *sahasya saḥ saṃjñāyām* (Pā. Sū. 6-3-78) the words *sahasya* and *saḥ* are carried on. *Upasarjanam asya astīty upasarjanam*: so
+
+### Page 117 (upper) — Rik 15: grammar (end)
+
+with the *ac* suffix in the sense of possession; the word *uttarapada* is conventional for the last part of a compound. So, by the maxim *yaṃ vinā yan nopapadyate tat tenaivākṣipyate*, the compound is implied. With *upasarjanasya*, a sixth case, *samāsasya* becomes *upasarjanavataḥ samāsasya*. But since in every compound some member is subordinate, by the force of the qualifier *upasarjanasya* it results to mean a compound whose members are all subordinate. Thus the sense of the sūtra is established: for *saha* before the last member of a compound whose members are all subordinate (a bahuvrīhi), the substitute *sa* comes optionally. By this, when the substitute *sa* comes for *saha*, it becomes *saprathaḥ*. Since this is a bahuvrīhi, and since the *kṛt* accent by *gatikārakopapadāt kṛt* applies only in a tatpuruṣa compound, it does not come here. By the word *bahula* in *parādiś chandasi bahulam* (Pā. Sū. 6-2-199), after compounding, the beginning of the last member is udātta. ॥15॥
+
+> यं विना यन्नोपपद्यते तत्तेनैवाक्षिप्यते ।
+>
+> *yaṃ vinā yannopapadyate tattenaivākṣipyate |*
 
 ---
 
