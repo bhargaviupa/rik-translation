@@ -16983,66 +16983,121 @@ the suffix *tran* comes; so after the root *hu*, *tran*; *guṇa*: *hotra*. Nami
 
 ---
 
-### Pages 779–782 — Sūkta 18, Rik 9 (last rik of the sūkta)
+### Page 779 (lower) — Sūkta 18, Rik 9 (last ṛk of the sūkta)
+
+*(Saṃhitā accents as printed; Pada unaccented. Deity: Sadasaspati or Narāśaṃsa.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नराशंसं सुधृष्टममपश्यं सप्रथस्तमम् ।
-> दिवो न सद्ममखसम् ॥९॥
+> नरा॒शंसं॑ सु॒धृष्ट॑म॒मप॑श्यं स॒प्रथ॑स्तमम् । [accent ?]
+> दि॒वो न सद्म॑मखसम् ॥९॥ [accent ?]
 >
-> *narāśaṃsaṃ sudhṛṣṭamam apaśyaṃ saprathastamam |*
-> *divo na sadmamakhasam ||9||*
+> *narāśáṃsaṃ sudhṛ́ṣṭamam ápaśyaṃ sapráthastamam |* [accent ?]
+> *divó na sádmamakhasam ||9||* [accent ?]
+
+*(Read as printed: strokes over सं (शंसं), धृ, प (अपश्यं), थ and द्म; bars under रा, सु, म (ष्टम), स (सप्रथ) and दि.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > नराशंसम् । सुऽधृष्टमम् । अपश्यम् । सप्रथःऽतमम् ॥
 > दिवः । न । सद्मऽमखसम् ॥९॥
 >
-> *narāśaṃsam | su-dhṛṣṭamam | apaśyam | saprathaḥ-tamam ||*
-> *divaḥ | na | sadma-makhasam ||9||*
+> *narāśaṃsam | su 'dhṛṣṭamam | apaśyam | saprathaḥ 'tamam ||*
+> *divaḥ | na | sadma 'makhasam ||9||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 779; compressed; [?] marks doubtful readings)*
-
-> नराशंसमेतन्नामकं देवविशेषम् । यद्वा । अवयवार्थवृत्त्या सदसस्पतिदेवताप[र]ोऽयं शब्दः । व्युत्पत्तिं च यास्को दर्शयति । नराशंसो यज्ञ इति काठ्ठक्यो नरा अस्मिन्नासीनाः शंसन्त्यग्निरिति शाकपूणिर्नरैः प्रशस्यो भवति । नि. [८-६] । इति । अत्राग्निवद्देवतायाः [?] नरैः शस्यमानत्वान्नराशंसत्वम् । एवमेवाभिप्रायं हृदि निधाय ब्राह्मणमेवमामनन्ति । प्रजा वै नरो वाक् शंसः । ऐ. ब्रा. [६-३२] । इति । अतो मनुष्यैः शस्यमानो यः सदसस्पतिर्यो वा नराशंसनामको देवस्तमपश्यम् । शास्त्रदृष्ट्या दृष्टवानस्मि । कीदृशम् । सुधृष्टमम् [इत्यादि] । … सुधृष्टमम् । शोभनं धृष्णोतीति सुधृक् । क्विप् । क्विब्वा [?] । अतिशायनिकस्तमप् । सकारस्य जश्त्वाभावश्छान्दसः । कृदुत्तरपदप्रकृतिस्वरत्वेन ऋकार उदात्तः । अपश्यम् । पाघ्रेत्यादिना पश्यादेशः । लुङ्लङ्लृङ्क्ष्वडुदात्तः । पा. [६-४-७१] । इत्यट उदात्तत्वम् । पादादित्वान्न निघातः । सप्रथस्तमम् । प्रथ प्रख्याने । प्रथनं प्रथः । सर्वधातुभ्योऽसुन् । नित्त्वाद्याद्युदात्तत्वम् । सह प्रथसा वर्तते इति । तेन सहेति तुल्ययोगे । पा. [२-२-२८] । इति बहुव्रीहिसमासः । वोपसर्जनस्य । पा. [६-३-८२] । इति सादेशः । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । दिवः । ऊडिदंपदाद्यप्पुम्रैद्युभ्यः । पा. [६-१-१७१] । इति विभक्तेरुदात्तत्वम् । सद्ममखसम् । सीदन्त्यस्मिन्निति सद्म । षद्ऌ विशरणादौ । अन्येभ्योऽपि दृश्यन्ते इति मनिन् । नित्त्वाद्याद्युदात्तः । सद्म मखो यस्येति बहुव्रीहौ हकारस्य व्यत्ययेन खकारः ॥९॥
+> नराशंसमेतन्नामकं देवविशेषम् । यद्वा । अवयवार्थव्युत्पत्त्या सदसस्पतिदेवतापरोऽयं शब्दः । व्युत्पत्तिं च यास्को दर्शयति । नराशंसो यज्ञ इति कात्थक्यो नरा अस्मिन्नासीनाः शंसन्त्यग्निरिति शाकपूणिर्नरैः प्रशस्यो भवति । नि. ८-६ । इति । अत्राग्निवत्सदसस्पतेरपि नरैः शस्यमानत्वान्नराशंसत्वम् । एवमेवाभिप्रायं हृदि निधाय ब्राह्मणमेवमाम्नायते । प्रजा वै नरो वाक् शंसः । ऐ. ब्रा. ६-२७ । इति । अतो मनुष्यैः शस्यमानो यः सदसस्पतिर्यो वा नराशंसनामको देवस्तमपश्यं शास्त्रदृष्ट्या दृष्टवानस्मि । कीदृशम् । सुधृष्टममत्याधिक्येन धार्ष्ट्ययुक्तं सप्रथस्तममतिशयेन प्रख्यातं सद्ममखसं प्राप्ततेजस्कम् । तत्र दृष्टान्तः । दिवो न द्युलोकानिव । आदित्यचन्द्रादिभिरधिष्ठिता द्युलोकविशेषा यथा तेजस्विनस्तद्वदयं नराशंसस्तेजस्वीत्यर्थः ॥ सुधृष्टमम् । शोभनं धृष्णोतीति सुधृक् । क्विप्चेति क्विप् । अतिशायनिकस्तमप् । षकारस्य जश्त्वाभावश्छान्दसः । कृदुत्तरपदप्रकृतिस्वरत्वेन ऋकार उदात्तः । अपश्यम् । पाघ्राध्मेत्यादिना पश्यादेशः । लुङ्लङ्लृङ्क्ष्वडुदात्तः । पा. ६-४-७१ । इत्यट उदात्तत्वम् । पादादित्वान्न निघातः । सप्रथस्तमम् । प्रथ प्रख्याने ।
 >
-> *narāśaṃsam etan-nāmakaṃ deva-viśeṣam | yadvā | avayavārtha-vṛttyā sadasaspati-devatā-p[ar]o 'yaṃ śabdaḥ | vyutpattiṃ ca yāsko darśayati | narāśaṃso yajña iti kāṭthakyo narā asminn āsīnāḥ śaṃsanty agnir iti śākapūṇir naraiḥ praśasyo bhavati | ni. [8-6] | iti | atrāgnivad devatāyāḥ [?] naraiḥ śasyamānatvān narāśaṃsatvam | evam evābhiprāyaṃ hṛdi nidhāya brāhmaṇam evam āmananti | prajā vai naro vāk śaṃsaḥ | ai. brā. [6-32] | iti | ato manuṣyaiḥ śasyamāno yaḥ sadasaspatir yo vā narāśaṃsa-nāmako devas tam apaśyam | śāstra-dṛṣṭyā dṛṣṭavān asmi | kīdṛśam | sudhṛṣṭamam [ity-ādi] | … sudhṛṣṭamam | śobhanaṃ dhṛṣṇotīti sudhṛk | kvip | kvib vā [?] | atiśāyanikas tamap | sakārasya jaśtvābhāvaś chāndasaḥ | kṛd-uttarapada-prakṛti-svaratvena ṛkāra udāttaḥ | apaśyam | pāghrety-ādinā paśyādeśaḥ | luṅ-laṅ-lṛṅkṣv aḍudāttaḥ | pā. [6-4-71] | ity aṭa udāttatvam | pādāditvān na nighātaḥ | saprathastamam | pratha prakhyāne | prathanaṃ prathaḥ | sarvadhātubhyo 'sun | nittvād ādyudāttatvam | saha prathasā vartate iti | tena saheti tulyayoge | pā. [2-2-28] | iti bahuvrīhi-samāsaḥ | vopasarjanasya | pā. [6-3-82] | iti sādeśaḥ | pūrvapada-prakṛti-svaratve prāpte parādiś chandasi bahulam ity uttarapadādyudāttatvam | divaḥ | ūḍidaṃpadādyappumraidyubhyaḥ | pā. [6-1-171] | iti vibhakter udāttatvam | sadmamakhasam | sīdanty asminn iti sadma | ṣadḷ viśaraṇādau | anyebhyo 'pi dṛśyante iti manin | nittvād ādyudāttaḥ | sadma makho yasyeti bahuvrīhau hakārasya vyatyayena khakāraḥ ||9||*
+> *narāśaṃsametannāmakaṃ devaviśeṣam | yadvā | avayavārthavyutpattyā sadasaspatidevatāparo 'yaṃ śabdaḥ | vyutpattiṃ ca yāsko darśayati | narāśaṃso yajña iti kātthakyo narā asminnāsīnāḥ śaṃsantyagniriti śākapūṇirnaraiḥ praśasyo bhavati | ni. 8-6 | iti | atrāgnivatsadasaspaterapi naraiḥ śasyamānatvānnarāśaṃsatvam | evamevābhiprāyaṃ hṛdi nidhāya brāhmaṇamevamāmnāyate | prajā vai naro vāk śaṃsaḥ | ai. brā. 6-27 | iti | ato manuṣyaiḥ śasyamāno yaḥ sadasaspatiryo vā narāśaṃsanāmako devastamapaśyaṃ śāstradṛṣṭyā dṛṣṭavānasmi | kīdṛśam | sudhṛṣṭamamatyādhikyena dhārṣṭyayuktaṃ saprathastamamatiśayena prakhyātaṃ sadmamakhasaṃ prāptatejaskam | tatra dṛṣṭāntaḥ | divo na dyulokāniva | ādityacandrādibhiradhiṣṭhitā dyulokaviśeṣā yathā tejasvinastadvadayaṃ narāśaṃsastejasvītyarthaḥ || sudhṛṣṭamam | śobhanaṃ dhṛṣṇotīti sudhṛk | kvipceti kvip | atiśāyanikastamap | ṣakārasya jaśtvābhāvaśchāndasaḥ | kṛduttarapadaprakṛtisvaratvena ṛkāra udāttaḥ | apaśyam | pāghrādhmetyādinā paśyādeśaḥ | luṅlaṅlṛṅkṣvaḍudāttaḥ | pā. 6-4-71 | ityaṭa udāttatvam | pādāditvānna nighātaḥ | saprathastamam | pratha prakhyāne |*
 
-**Translation:** "*Narāśaṃsa* is a particular god of that name; or, by the sense of its parts, this word applies to the deity Sadasaspati. And Yāska shows the derivation: 'Narāśaṃsa is the sacrifice, say the Kāṭhakyas — men seated in it praise; Agni, says Śākapūṇi, [is Narāśaṃsa], since he is praised by men' (Nirukta 8-6 [?]). Here, as with Agni, a deity praised by men is *narāśaṃsa*. With this same sense the Brāhmaṇa says: 'The people are *nara*; speech is *śaṃsa*' (Aitareya Brāhmaṇa [6-32 ?]). Therefore the god Sadasaspati — or the god named Narāśaṃsa — who is praised by men: him I have seen (*apaśyam*), seen by the vision of the śāstras. Of what sort? *Sudhṛṣṭamam* — the most bold [or: of the greatest daring], *saprathastamam* — the most renowned, *divo na sadmamakhasam* — of splendid might, like the home of heaven [the clauses are partly compressed, marked [?]]." The rest is grammar, noted briefly: *sudhṛṣṭamam* (*su* + *dhṛṣ* + *kvip* + *tamap*; the *s* not changing to *j* by Vedic licence); *apaśyam* (*paśya* for *dṛś* by P. 7-3-78; *aṭ* accented by P. 6-4-71 *luṅlaṅlṛṅkṣv aḍudāttaḥ*; the verb is not made unaccented as it begins the *pāda*); *saprathastamam* (*prath* "to spread, to be famous", *asun*; *saprathas* is a bahuvrīhi by P. 2-2-28 *tena saheti tulyayoge*, with the *sa* substitute by P. 6-3-82 *vopasarjanasya*; the final member's first-syllable accent given by "variously in the Veda"); *divaḥ* (the ending accented by P. 6-1-171 *ūḍidaṃpadādyappumraidyubhyaḥ*); *sadmamakhasam* (*sadma* from *sad* "to sink", the *manin* suffix "also seen with other roots"; *sadma-makhaḥ* a bahuvrīhi; *kh* for *h* by *vyatyaya*, so *makhas* for *mahas*). *(Grammar, noted briefly.)*
+### Page 780 — Rik 9: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 780)*
+*(॥३५॥ closes Varga 35.)*
 
-**(अहम्) ((aham))** — I | **सुधृष्टमम् (sudhṛṣṭamam)** — endowed with the greatest courage | **सप्रथस्तमम् (saprathastamam)** — of the greatest renown | **दिवः न (divaḥ na)** — like the heavenly world | **सद्ममखसम् (sadmamakhasam)** — shining with great brilliance | **नराशंसम् (narāśaṃsam)** — Sadasaspati, praised by men; or the deity called Narāśaṃsa (Agni) | **अपश्यम् (apaśyam)** — I have seen.
+> प्रथनं प्रथः । सर्वधातुभ्योऽसुन् । नित्त्वादाद्युदात्तत्वम् । सह प्रथसा वर्तत इति तेन सहेति तुल्ययोगे । पा. २-२-२८ । इति बहुव्रीहिसमासः । वोपसर्जनस्य । पा. ६-३-८२ । इति सादेशः । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । दिवः । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । सद्ममखसम् । सीदन्तीति सद्म । षद्लृ विशरणादौ । अन्येभ्योऽपि दृश्यन्त इति मनिन् । नित्त्वादाद्युदात्तः । सद्म महो यस्येति बहुव्रीहौ हकारस्य व्यत्ययेन खकारः ॥३५॥
+>
+> *prathanaṃ prathaḥ | sarvadhātubhyo 'sun | nittvādādyudāttatvam | saha prathasā vartata iti tena saheti tulyayoge | pā. 2-2-28 | iti bahuvrīhisamāsaḥ | vopasarjanasya | pā. 6-3-82 | iti sādeśaḥ | pūrvapadaprakṛtisvaratve prāpte parādiśchandasi bahulamityuttarapadādyudāttatvam | divaḥ | ūḍidamityādinā vibhakterudāttatvam | sadmamakhasam | sīdantīti sadma | ṣadlṛ viśaraṇādau | anyebhyo 'pi dṛśyanta iti manin | nittvādādyudāttaḥ | sadma maho yasyeti bahuvrīhau hakārasya vyatyayena khakāraḥ ||35||*
+
+**Translation:** "*Narāśaṃsa*, the particular god of that name. Or, by derivation from the sense of its parts, this word refers to the deity Sadasaspati. Yāska shows the derivation: '*Narāśaṃsa* is the sacrifice, says Kātthakya: men, seated in it, praise; Agni, says Śākapūṇi: he is to be praised by men' (Ni. 8-6). Here, like Agni, Sadasaspati too is *narāśaṃsa* because he is praised by men. With just this intent in mind the Brāhmaṇa declares: 'The creatures are men; speech is *śaṃsa*' (Ai. Brā. 6-27). So I *apaśyam*, have seen with the eye of the śāstra, the Sadasaspati praised by men, or the god named Narāśaṃsa. Of what kind? *Sudhṛṣṭama*, endowed with boldness in the highest degree; *saprathastama*, most renowned; *sadmamakhas*, who has attained radiance. Here is the example: *divo na*, like the heavenly worlds: as the particular heavenly regions presided over by the sun, the moon and the rest are radiant, so this Narāśaṃsa is radiant." (Grammatical tail: *sudhṛṣṭamam*, "he dares well", *sudhṛk*, *kvip* by *kvip ca*, *tamap* of excess, the absence of *jaś* for the *ṣ* Vedic, the *ṛ* udātta by the accent of the *kṛt* final member; *apaśyam*, *paśya* by *pāghrādhmā…*, the *aṭ* udātta by Pā. 6-4-71, not lowered at the start of the *pāda*; *saprathastamam*, *pratha prakhyāne*, "*prathanaṃ prathaḥ*", *asun*, initial udātta as *nit*; "it is with *prathas*", a *bahuvrīhi* by *tena saheti tulyayoge* (Pā. 2-2-28), *sa* substituted by Pā. 6-3-82; the first member's accent being due, initial udātta of the final member by *parādiś chandasi bahulam*; *divaḥ*, the ending udātta by *ūḍidam…*; *sadmamakhasam*, "they sit": *sadma*, *ṣadḷ viśaraṇādau*, *manin* by *anyebhyo 'pi dṛśyante*, initial udātta as *nit*; in the *bahuvrīhi* "whose *mahas* is a seat", *kh* for *h* by exchange.)
+
+**॥ Prati-padārthaḥ ॥**
+
+(I) **सुधृष्टमम् (sudhṛṣṭamam)** — very bold | **सप्रथस्तमम् (saprathastamam)** — exceedingly renowned | **दिवः न (divaḥ na)** — like the heavenly world | **सद्ममखसम् (sadmamakhasam)** — shining with abundant radiance | **नराशंसम् (narāśaṃsam)** — Sadasaspati, praised by men, or the deity called Narāśaṃsa (Agni) | **अपश्यम् (apaśyam)** — I have seen.
 
 **॥ Bhāvārthaḥ ॥**
 
-This Sadasaspati (or Narāśaṃsa) is of very great prowess, and very famous, and he shines with splendour like the heavenly world (where the sun, moon and the rest are). I have seen such a Sadasaspati (or Narāśaṃsa).
+This Sadasaspati (or Narāśaṃsa) has great valour, is very renowned, and shines with exceeding radiance like the heavenly world (where the sun, moon and the rest are). Such a Sadasaspati (or Narāśaṃsa) I have seen.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I have seen Narasamsa the most valiant, the most renowned and radiant as the heavens.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 780–781)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The deity of this rik is Sadasaspati or Narāśaṃsa. Although the name Sadasaspati does not occur in this rik, since the previous three riks have Sadasaspati as deity, and since the Anukramaṇikā says this rik has Sadasaspati or Narāśaṃsa as one deity, the word *sadasaspatim* must be supplied (*adhyāhāra*) as an adjective of *narāśaṃsam*, the commentator has taken the view that *narāśaṃsa*, by etymology, means "one praised by men", and so it describes Sadasaspati. Alternatively, if one takes Narāśaṃsa as the deity of this rik, there is no objection, since the word *narāśaṃsam* itself stands in the rik. Yāska explains the sense of the parts of this word as follows:
+The deity of this ṛk is Sadasaspati or Narāśaṃsa. Though the name Sadasaspati is not indicated in the ṛk, because the three previous ṛks refer to Sadasaspati, and because it is said that the deity of this ṛk is either Sadasaspati or Narāśaṃsa, one should take the word *narāśaṃsa* in the sense of its parts, "praised by men", and treat it as a qualifier of the word *sadasaspatim* (that word is to be supplied here). Or, on the view that names the deity Narāśaṃsa for this ṛk, there is no difficulty, since the very word *narāśaṃsam* is in the ṛk. Yāska explains the sense of the parts of the word *narāśaṃsa* thus:
 
-> नराशंसो यज्ञ इति काठ्ठक्यो नरा अस्मिन्नासीनाः शंसन्त्यग्निरिति शाकपूणिर्नरैः प्रशस्यो भवति ॥ (नि. [८-६])
-> *narāśaṃso yajña iti kāṭthakyo narā asminn āsīnāḥ śaṃsanty agnir iti śākapūṇir naraiḥ praśasyo bhavati || (ni. [8-6])*
+### Page 781 — Rik 9: Special Topics (end) and grammar
 
-"*Narāśaṃsa* is the sacrifice, according to Kāṭhakya, because men seated in it recite praise; according to Śākapūṇi, [Narāśaṃsa is] Agni, as he is to be praised by men." The Kannada adds: Kāṭhakya's view is that *narāśaṃsa* means the sacrifice; Śākapūṇi's, the praiseworthy Agni, because men praise [him]. In this matter the commentator quotes the Aitareya Brāhmaṇa sentence *prajā vai naro vāk śaṃsaḥ* (Ai. Brā. [6-32 ?]) — *nara* means people or men; *śaṃsa* means speech. Therefore *narāśaṃsaḥ* means "he who is praised by people or by men". The word *narāśaṃsa* thus applies to any of the three deities — Sadasaspati, Narāśaṃsa, or Agni. We have already discussed this matter earlier [print: "in an earlier volume, p. [?]"].
+> नराशंसो यज्ञ इति कात्थक्यो नरा अस्मिन्नासीनाः शंसन्त्यग्निरिति शाकपूणिर्नरैः प्रशस्यो भवति ॥ (नि. ८-६)
+>
+> *narāśaṃso yajña iti kātthakyo narā asminnāsīnāḥ śaṃsantyagniriti śākapūṇirnaraiḥ praśasyo bhavati || (ni. 8-6)*
 
-**सुधृष्टमम् (sudhṛṣṭamam)** — *śobhanaṃ dhṛṣṇotīti* — one who has the highest courage (or the highest fixity).
+("*Narāśaṃsa* is the sacrifice, says Kātthakya: men, seated in it, praise; Agni, says Śākapūṇi: he is to be praised by men": mine and tentative.) Kātthakya's view is that *narāśaṃsa* is the sacrifice; Śākapūṇi's view is that *narāśaṃsa* is the one praised (Agni), since *narāḥ*, men, praise him. On this the commentator cites a statement of the Aitareya Brāhmaṇa,
 
-**सप्रथस्तमम् (saprathastamam)** — *pratha prakhyāne*: *saha prathasā vartate iti*: "[the one] who has *prathas*, fame": hence "possessed of the greatest renown".
+> प्रजा वै नरो वाक् शंसः (ऐ. ब्रा. ६-२७)
+>
+> *prajā vai naro vāk śaṃsaḥ (ai. brā. 6-27)*
 
-**दिवो न (divo na)** — "like heaven". The comparison is not very exact. The ṛṣi may have had in his mind the sun, moon and other luminaries shining in heaven.
+*Nara* means creatures or men; *śaṃsa* means speech. So the intent is that *narāśaṃsa* means one praised by creatures or men. The word *narāśaṃsa* can be construed with reference to three deities, Sadasaspati, Narāśaṃsa or Agni. We have discussed this point earlier (see page [the number is left blank in the print]).
 
-**सद्ममखसम् (sadmamakhasam)** — here *kh* has been used in place of *h* in *mahasam* by *vyatyaya*; so *makhasam* means *mahasam*. *Sadma mahaḥ yasya saḥ sadmamahāḥ* or *sadmamakhāḥ* — [a bahuvrīhi] "he who has a dwelling of [great] splendour" — that is, one who shines with great brilliance or splendour.
+**Sudhṛṣṭamam**:
 
-**Grammar pages (pp. 781 lower half–782), noted briefly.** The Kannada treats *sudhṛṣṭamam* (*ñidhṛṣā prāgalbhye*, of the *svādi* class; *su* "good", "*dhṛṣṇoti*" in the sense intended; *kvip ca* P. 3-2-76; *kvip*'s *luk* of all; *atiśāyane tamabiṣṭhanau* P. 5-3-55; *sudhṛṣ* + *tama*; *jhalāṃ jaś jhaśi* P. 8-4-53 would give *j* → *ḍ* [here *ṣ* → *ḍ*], but this is Vedic [*chāndasa*] and does not happen; *ṣṭunā ṣṭuḥ* P. 8-4-41 gives *ṭ*; accusative *am*; *ami pūrvaḥ*; the *ṛ* of *dhṛṣ* is accented by the root; when the compound is made with *su*, the accent of the final member [after *gatikārakopapadāt kṛt* P. 6-2-139] stays), *apaśyam* (*dṛśir prekṣaṇe*; *laṅ*, first singular *mip*; *tasthasthamipāṃ…* P. 3-4-101 gives *am*; *kartari śap* P. 3-1-68; *pāghrādhmā…* P. 7-3-78 gives *paśya* for *dṛś*; *paśya* + *am*; *ami pūrvaḥ*; *luṅlaṅlṛṅkṣv aḍudāttaḥ* gives the accented *aṭ*; it begins the *pāda* so not wholly unaccented), *saprathastamam* (*prath prakhyāne*; *prathanaṃ prathaḥ*; *sarvadhātubhyo 'sun*; *nit*, first-syllable accent; *saha prathasā vartate* — *tena saheti tulyayoge* P. 2-2-28 [the word *saha*, which expresses the idea of simultaneity of two actions, is compounded with a word in the instrumental] — it is a bahuvrīhi; *vopasarjanasya* P. 6-3-82 gives *sa* for *saha*; *sa* + *prathas*; by *bahuvrīhau prakṛtyā pūrvapadam* the first member's accent would stand, but "variously in the Veda" the last member, *prathas*, keeps its first-syllable accent; *tamap*), *divaḥ* (*ūḍidaṃpadādyappumraidyubhyaḥ* P. 6-1-171 accents the ending), and *sadmamakhasam* (*ṣadḷ viśaraṇagatyavasādaneṣu*; *dhātvādeḥ ṣaḥ saḥ*; *anyebhyo 'pi dṛśyante* P. 3-2-75 gives *manin*; the *nit* suffix gives first-syllable accent; *sadma mahaḥ yasya saḥ sadmamahāḥ* a bahuvrīhi; *kh* for *h* by *vyatyayo bahulam* P. 3-1-85, *sadmamakhas*; accusative *am*). ॥9॥ *(Numerals as read; pointers only.)*
+> शोभनं धृष्णोतीति
+>
+> *śobhanaṃ dhṛṣṇotīti*
 
-**Close of Sūkta 18.** The grammar of Rik 9 ends at the foot of p. 782, followed by an ornament; the print has no large colophon here either.
+("He dares well.") One who has excellent valour (or steadfastness).
+
+**Saprathastamam**:
+
+> प्रथ प्रख्याने । सह प्रथसा वर्तते इति । तेन सह
+>
+> *pratha prakhyāne | saha prathasā vartate iti | tena saha*
+
+("*Pratha*, to be renowned; it is with *prathas*; together with it.") Since the root *pratha* means make known, praise, the word *saprathastamam* means accompanied by special renown.
+
+**Divo na**: like heaven. This comparison does not fit very well. The ṛṣi may have spoken this comparison with in mind the sun, moon and the rest shining brightly in heaven (in the sky).
+
+**Sadmamakhasam**: here, in the word *makhasam*, *kh* has been used by exchange in place of *h*; so *makhasam* means *mahasam*.
+
+> सद्म महो यस्य सः सद्ममहाः अथवा सद्ममखाः तम्
+>
+> *sadma maho yasya saḥ sadmamahāḥ athavā sadmamakhāḥ tam*
+
+("He whose *mahas* is a seat, *sadmamahāḥ* or *sadmamakhāḥ*: him.") Such is the analysis. One who is like a house for radiance: the intent is one who shines with exceeding radiance or splendour.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 781–782, noted briefly)*
+
+**सुधृष्टमम् (*sudhṛṣṭamam*)**: the root *ñidhṛṣā prāgalbhye*, of the *sv-ādi*. When *su* = *śobhanam*, *dhṛṣṇoti* is meant, *kvip* by "kvip ca" (Pā. sū. 3-2-76); all of *kvip* drops. By "atiśāyane tamabiṣṭhanau" (Pā. sū. 5-3-55) *tamap* in the sense of excess: *sudhṛṣ* + *tama*. That *jaś* does not come for the *ṣ* by "jhalāṃ jaś jhaśi" (Pā. sū. 8-4-53) is Vedic. By "ṣṭunā ṣṭuḥ" (Pā. sū. 8-4-41) *ṭ* for the *t*. Accusative singular *am*; by *ami pūrvaḥ* the *pūrvarūpa*: *sudhṛṣṭamam*. The *ṛ* of *dhṛṣ* is udātta by the root accent.
+
+### Page 782 — Rik 9: grammar (end)
+
+After compounding with the word *su*, the accent of the *kṛt* final member comes by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139), and that accent stays.
+
+**अपश्यम् (*apaśyam*)**: the root *dṛśir prekṣaṇe*. *Laṅ*, 1st singular *mip*; for it the substitute *am* by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. sū. 3-4-101); the *vikaraṇa* *śap* by "kartari śap" (Pā. sū. 3-1-68). By "pāghrādhmāsthāmnādāṇdṛśyarti…" (Pā. sū. 7-3-78) the substitute *paśya* for *dṛś*: *paśya* + *a* + *am*. By "ami pūrvaḥ" (Pā. sū. 6-1-107) the *pūrvarūpa*: *apaśyam*. By *luṅlaṅlṛṅkṣv aḍ udāttaḥ* the udātta augment *aṭ*. Since it stands at the start of a *pāda*, it is not wholly unaccented.
+
+**सप्रथस्तमम् (*saprathastamam*)**: the root *pratha prakhyāne*; *prathanaṃ prathaḥ*: by *sarvadhātubhyo 'sun* the suffix *asun* in the sense of the action; *prathas* is initial udātta by the *nit* accent. *Saha prathasā vartate*: a *bahuvrīhi* compound, by "tena saheti tulyayoge" (Pā. sū. 2-2-28): the word *saha*, conveying an action at the same time, is compounded with a fit word ending in the instrumental, and that is called *bahuvrīhi*. "Vopasarjanasya" (Pā. sū. 6-3-82): a compound all of whose members are *upasarjana* is a *bahuvrīhi*; the word *saha*, standing immediately before the final member in a compound forming a *bahuvrīhi*, takes the substitute *sa*; so *sa* for *saha*: *saprathas*. Since this is a *bahuvrīhi*, the first member's accent is due; but by "parādiś chandasi bahulam" (Pā. sū. 6-2-199) the final member *prathas* is final udātta [as printed]. When excess is meant, the suffix *tamap*: *saprathastama*; accusative singular, *saprathastamam*.
+
+**दिवः (*divaḥ*)**: by "ūḍidaṃpadādyappumraidyubhyaḥ" (Pā. sū. 6-1-171) the ending is udātta.
+
+**सद्ममखसम् (*sadmamakhasam*)**: *ṣadḷ viśaraṇagatyavasādaneṣu*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*. By "anyebhyo 'pi dṛśyante" (Pā. sū. 3-2-75) the suffix *manin*: *sadman*. By the *nit* accent it is initial udātta. *Sadma mahaḥ yasya saḥ sadmamahāḥ*: a *bahuvrīhi* compound. By "vyatyayo bahulam" (Pā. sū. 3-1-85) *kh* for *h*: *sadmamakhas*; accusative singular *am*: *sadmamakhasam*.
+
+**॥९॥**
+
+*(An ornament closes Sūkta 18 at the foot of p. 782; no colophon is printed.)*
+
+---
 
 ## ॥ ಹತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 19 — *"prati tyaṃ cārum adhvaram"* ("The Nineteenth Sūkta"; second sūkta of the Fifth Anuvāka; last sūkta of this volume)
 
