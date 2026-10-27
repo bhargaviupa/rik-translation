@@ -7425,23 +7425,23 @@ O Indra! Come here, and, being satisfied with the food in the form of Soma that 
 
 ### Pages 346–347 — Rik 1 grammar closes; Rik 2
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 346–347, Kannada; page header p. 347 "A. 1, A. 1, Va. 17"; numbers as printed)*
 
-Continuing the grammar of Rik 1: **अन्धसः (*andhasaḥ*)** — *asun* after the root *ada*; the suffix is *nit* so initial-udātta; in the sense of "by food" the ending is the instrumental plural. **विश्वेभिः (*viśvebhiḥ*)** — root *aśū vyāptau* (or *viśa praveśane*) with *kvan* (Uṇ. 1-[?]); the suffix is *nit* so the word is initial-udātta; with *bhis* the *ais* substitute is not made, by Vedic *bahulam* (Pā. 7-1-10 [?]). **सोमपर्वभिः (*somaparvabhiḥ*)** — *latārūpaṃ somaṃ pṛṇanti pūrayanti iti somaparvāṇaḥ* ("they fill the Soma-creeper's juice"): root *pṝ pālanapūraṇayoḥ* + *vanip* (Pā. 3-2-75 [?]); *guṇa* and *raparatva* give *parvan*; *vanip* is *pit*, so the root accent stands; the compound with *soma* by "upapadam atiṅ" (Pā. 2-2-19 [?]); the first-member-accent rule "gati-kāraka-upapadāt kṛt" (Pā. 6-2-139 [?]) leaves the same accent; in the instrumental plural the *n* is dropped (Pā. 8-2-7 [?]) and *ru*/visarga follow. **अभिष्टिः (*abhiṣṭiḥ*)** — root *iṣa gatau* with *ktin* (Pā. 3-3-94 [?], used in the Mantra after *vṛṣa*, *eṣa*, *pac*, etc. *"mantre vṛṣeṣapacamanaviduḥ…"* [?]); *abhi* + *iṣ* + *ti*: the *savarṇa-dīrgha* is overridden by *pararūpa* (Pā. 6-1-94 *vārttika* [?]); *ṣ* + *ti* → *ṣṭi* (Pā. 8-4-41 [?]); with *abhi* the compound is a *prādi*-compound ("kugatiprādayaḥ," Pā. 2-2-18 [?]) and the accent follows the second member. **ओजसा (*ojasā*)** — *ubja ārjave* + *asun*, with loss of *b* (Uṇ. 4-[?]); *laghūpadha-guṇa* gives *ojas*; instrumental singular *ojasā*, initial-udātta (*nit* suffix). *(Sūtra numbers read from small print; pointers only. The grammar ends with* ॥१॥ *at the top of p. 347.)*
-
-**॥१॥**
+**अन्धसः** (concluded) — "ada bhakṣaṇe" + "asun" etc.: "andhas"; nominative plural "andhasaḥ," to be taken in the sense of the instrumental plural; "n"-marked, first-syllable acute. **विश्वेभिः** — **अशूप्रुषिलटिकणिखटिविशिभ्यः क्वन्** (उ. सू. १-१४९ [?], the roots glossed one by one) "kvan" after "viś": "viśva," first-syllable acute; with "bhis," **बहुलं छन्दसि** (पा. सू. "७-१-१०," printed "२-१-१०") withholds "ais." **सोमपर्वभिः** — "latārūpaṃ somaṃ pṛṇanti pūrayanti iti somaparvāṇaḥ somarasāḥ": "pṝ pālanapūraṇayoḥ," **अन्येभ्योऽपि दृश्यन्ते** (पा. सू. ३-२-७५) "vanip"; guṇa by **सार्वधातुकार्धधातुकयोः** (पा. सू. ७-३-८४) with "r" by **उरण् रपरः** (पा. सू. १-१-५१): "parvan"; "vanip," "p"-marked, unaccented, the root accent remains; with "soma," **उपपदमतिङ्** (पा. सू. २-२-१९) the upapada compound, and **गतिकारकोपपदात्कृत्** (पा. सू. ६-२-१३९) keeps that accent; instrumental plural: **नलोपः प्रातिपदिकान्तस्य** (पा. सू. ८-२-७), "ru" and visarga: "somaparvabhiḥ." **अभिष्टिः** — "abhigantā": "iṣa gatau" with **मन्त्रे वृषेषपचमनविदभूवीरा उदात्तः** (पा. सू. ३-३-९६) "ktin," acute; though in the action sense, it denotes the agent by implication; the "iṭ" of **आर्धधातुकस्येड्वलादेः** (पा. सू. ७-२-३५) is barred by **तितुत्रतथसिसुसरकसेषु च** (पा. सू. ७-२-९); "abhi + iṣ + ti": the vārttika **एमन्नादिषु पररूपं वक्तव्यम्** (पा. सू. ६-१-९४-६) gives the later form instead of the long vowel; **ष्टुना ष्टुः** (पा. सू. ८-४-४१) "ṭ": "abhiṣṭi"; with "abhi," **कुगतिप्रादयः** (पा. सू. २-२-१८) the prādi compound, with the kṛt-final second member's accent. **ओजसा** (p. 347) — **उब्जेर्बले बलोपश्च** (उ. सू. ४-६३१ [?], as printed) — after "ubja ārjave," "asun" and loss of "b"; guṇa of the light penultimate: "ojas"; instrumental "ojasā," first-syllable acute ("n"-marked). **॥१॥**
 
 ---
 
 ### Page 347 — Sūkta 9, Rik 2
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> एमेनं सृजता सुते मन्दिमिन्द्राय मन्दिने ।
-> चक्रिं विश्वानि चक्रये ॥२॥
+> एमे॑नं सृजता सु॒ते म॒न्दिमिन्द्रा॑य म॒न्दिने॑ ।
+> च॒क्रिं विश्वा॑नि॒ चक्र॑ये ॥२॥
 >
-> *emenaṃ sṛjatā sute mandim indrāya mandine |*
-> *cakriṃ viśvāni cakraye ||2||*
+> *ém enaṃ sṛjatā suté mandím índrāya mandíne |*
+> *cakríṃ víśvāni cákraye ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
