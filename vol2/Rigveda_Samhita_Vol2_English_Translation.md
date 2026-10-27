@@ -14821,15 +14821,17 @@ This point Kaiyaṭa states in the *tamap* sūtra:
 
 ---
 
-### Pages 698–702 — Sūkta 16, Rik 8
+### Page 698 (lower) — Sūkta 16, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> विश्वमित्सवनं सुतमिन्द्रो मदाय गच्छति ।
-> वृत्रहा सोमपीतये ॥८॥
+> विश्व॒मित्सव॑नं सु॒तमिन्द्रो॒ मदा॑य गच्छति ।
+> वृ॒त्र॒हा सोम॑पीतये ॥८॥
 >
-> *viśvam it savanaṃ sutam indro madāya gacchati |*
-> *vṛtrahā somapītaye ||8||*
+> *viśvam ít sávanaṃ sutám indro mádāya gacchati |*
+> *vṛtrahā́ sómapītaye ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -14837,39 +14839,151 @@ This point Kaiyaṭa states in the *tamap* sūtra:
 > वृत्रऽहा । सोमऽपीतये ॥८॥
 >
 > *viśvam | it | savanam | sutam | indraḥ | madāya | gacchati ||*
-> *vṛtra-hā | soma-pītaye ||8||*
+> *vṛtra 'hā | soma 'pītaye ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 698; compressed; [?] marks doubtful readings)*
-
-> वृत्रहा शत्रुघातक इन्द्रः सोमपीतये सोमपानाय मदाय तत्पानजन्यहर्षाय च विश्वमित्सर्वमपि सुतमभिषुतसोमयुक्तं सवनं प्रातःसवनादिरूपं कर्म गच्छति ॥ विश्वम् । अशूप्रुषिलटिकणिखटिविशिभ्यः क्वन् । उ. [१-१५१]। नित्त्वादाद्युदात्तः । सवनं सुतम् । पूर्ववत् । मदाय । मदोऽनुपसर्गे । पा. [३-३-६७]। इत्यप्प्रत्ययः । पित्त्वाद्धातुस्वरः । गच्छति । इषुगमियमां छः । वृत्रहा । वृत्रं हतवान् । ब्रह्मभ्रूणवृत्रेषु क्विप् । पा. [३-२-८७]। इन्हन्पूषार्यम्णां शौ । सौ च । पा. [६-४-१२,१३]। इति प्रतिप्रसवाद्दीर्घवति । कृदुत्तरपदप्रकृतिस्वरत्वम् । सोमपीतये । वधिकरणबहुव्रीहिरित्युक्तम् । तत्पुरुषे वा दासीभारादित्वात् । पा. [६-२-४२ ?] । पूर्वपदप्रकृतिस्वरत्वम् ॥८॥
+> वृत्रहा शत्रुघातक इन्द्रः सोमपीतये सोमपानाय मदाय तत्पानजन्यहर्षाय च विश्वमित्सर्वमपि सुतमभिषुतसोमयुक्तं सवनं प्रातःसवनादिरूपं कर्म गच्छति ॥ विश्वम् । अशिप्रुषीत्यादिना क्वन् । नित्त्वादाद्युदात्तः । सवनं सुतम् । पूर्ववत् । मदाय । मदोऽनुपसर्गे । पा. ३-३-६७ । इत्यप्प्रत्ययः । पित्त्वाद्धातुस्वरः । गच्छति । इषुगमियमां छः । वृत्रहा । वृत्रं हतवान् । ब्रह्मभ्रूणवृत्रेषु क्विप् । पा. ३-२-८७ । इन्हन्नित्यादिना निवृत्तं दीर्घत्वं सौ च । पा. ६-४-१२, १३ । इति प्रतिप्रसवाद्भवति । कृदुत्तरपदप्रकृतिस्वरत्वम् । सोमपीतये । व्यधिकरणबहुव्रीहिरित्युक्तम् । तत्पुरुषे वा दासीभारादित्वात् । पा. ६-२-४२ । पूर्वपदप्रकृतिस्वरत्वम् ॥
 >
-> *vṛtrahā śatru-ghātaka indraḥ somapītaye soma-pānāya madāya tat-pāna-janya-harṣāya ca viśvam it sarvam api sutam abhiṣuta-soma-yuktaṃ savanaṃ prātaḥsavanādi-rūpaṃ karma gacchati || viśvam | aśūpruṣi-laṭi-kaṇi-khaṭi-viśibhyaḥ kvan | u. [1-151] | nittvād ādyudāttaḥ | savanaṃ sutam | pūrvavat | madāya | mado 'nupasarge | pā. [3-3-67] | ity ap-pratyayaḥ | pittvād dhātu-svaraḥ | gacchati | iṣu-gami-yamāṃ chaḥ | vṛtrahā | vṛtraṃ hatavān | brahma-bhrūṇa-vṛtreṣu kvip | pā. [3-2-87] | in-han-pūṣāryamṇāṃ śau | sau ca | pā. [6-4-12, 13] | iti pratiprasavād dīrghavati | kṛd-uttarapada-prakṛti-svaratvam | somapītaye | vadhikaraṇa-bahuvrīhir ity uktam | tatpuruṣe vā dāsībhārāditvāt | pā. [6-2-42 ?] | pūrvapada-prakṛti-svaratvam ||8||*
+> *vṛtrahā śatrughātaka indraḥ somapītaye somapānāya madāya tatpānajanyaharṣāya ca viśvamitsarvamapi sutamabhiṣutasomayuktaṃ savanaṃ prātaḥsavanādirūpaṃ karma gacchati || viśvam | aśipruṣītyādinā kvan | nittvādādyudāttaḥ | savanaṃ sutam | pūrvavat | madāya | mado 'nupasarge | pā. 3-3-67 | ityappratyayaḥ | pittvāddhātusvaraḥ | gacchati | iṣugamiyamāṃ chaḥ | vṛtrahā | vṛtraṃ hatavān | brahmabhrūṇavṛtreṣu kvip | pā. 3-2-87 | inhannityādinā nivṛttaṃ dīrghatvaṃ sau ca | pā. 6-4-12, 13 | iti pratiprasavādbhavati | kṛduttarapadaprakṛtisvaratvam | somapītaye | vyadhikaraṇabahuvrīhirityuktam | tatpuruṣe vā dāsībhārāditvāt | pā. 6-2-42 | pūrvapadaprakṛtisvaratvam ||*
 
-**Translation:** "Indra, *vṛtrahā* — the slayer of enemies — goes (*gacchati*) to every (*viśvam it*) *savana* — the rite of the morning pressing and the like — accompanied by the pressed soma, for the drinking of soma (*somapītaye*) and for the exhilaration (*madāya*) — the delight that arises from drinking it." The rest is grammar, noted briefly: *viśvam* (*viś* + *kvan*, Uṇ. 1-151 [as read]; first-syllable accent); *madāya* (*mad* + *ap* by P. 3-3-67 *mado 'nupasarge*; *ap* is *pit*, so the accent stays on the root); *gacchati* (*gam* → *gaccha* by P. 7-3-77 *iṣugamiyamāṃ chaḥ*); *vṛtrahā* ("he who has slain Vṛtra"; *han* + *kvip* after *vṛtra* by P. 3-2-87 *brahmabhrūṇavṛtreṣu kvip*; the lengthening by P. 6-4-12 *in-han-pūṣārya-mṇāṃ śau* and 6-4-13 *sau ca*; the accent of the final member); *somapītaye* (a *vyadhikaraṇa* bahuvrīhi, as explained earlier; or a *tatpuruṣa*; by the *dāsībhārādi* class [P. 6-2-42] the accent of the first member). *(Grammar, noted briefly; P. 3-3-67 and P. 3-2-87 as read agree with the standard numbering.)*
+**Translation:** "Indra, *vṛtrahā*, the slayer of enemies, goes for *somapīti*, the drinking of soma, and for *mada*, the joy born of drinking it, to *viśvam it*, every, *savana*, rite in the form of the morning pressing and so on, *sutam*, joined with pressed soma." (Grammatical tail: *viśvam*, *kvan* by *aśipruṣi…*, initial udātta as *nit*; *savanaṃ sutam*, as before; *madāya*, the suffix *ap* by *mado 'nupasarge* (Pā. 3-3-67), the root accent since *ap* is *pit*; *gacchati*, *ch* by *iṣugamiyamāṃ chaḥ*; *vṛtrahā*, "he killed Vṛtra", *kvip* by Pā. 3-2-87; the lengthening, cancelled by *in-han-…*, comes back by the counter-rule *sau ca* (Pā. 6-4-12, 13); the accent of the *kṛt* final member; *somapītaye*, a *vyadhikaraṇa-bahuvrīhi*, as said, or a *tatpuruṣa* with the accent of the first member, as one of the *dāsībhāra-ādi* (Pā. 6-2-42).)
 
-**Grammar pages (pp. 699 lower half–702), noted briefly.** The Kannada treats: *viśvam* (*viś* "to enter" + *kvan*, Uṇ. 1-151 *aśūpruṣilaṭikaṇikhaṭiviśibhyaḥ kvan*; first-syllable accent by P. 6-1-197 *ñnityādir nityam*; *savanaṃ sutam* and *sīmaṃ naḥ* [print: *somaṃ naḥ*? — the reference given is to Ṛ. Saṃ. 1-16-5 and the earlier explanation]), *madāya* (P. 3-3-67 *mado 'nupasarge*: *ap* after *mad* when the *upapada* is not an *upasarga*; the *ap*'s *p* mark makes it unaccented by P. 3-1-4 *anudāttau suppitau*; the root accent remains), *gacchati* (*gamḷ gatau*; *iṣugamiyamāṃ chaḥ* P. 7-3-77), and, at great length, *vṛtrahā* (*vṛtraṃ hatavān*: *han* "to strike" with *kvip* by P. 3-2-87 *brahmabhrūṇavṛtreṣu kvip*; the *Kāśikā* and the *Mahābhāṣya* views on *niyama* — that P. 3-2-87, though *kvip* is already available by P. 3-2-76 *kvip ca*, is a restricting rule [*niyama*] with three possible shapes: a restriction of *upapada*, of *suffix*, or of *tense* — the Kannada works through the examples *puruṣahā*, *vṛtrajit*, *brāhmaṇaghātī*, *pitṛvyaghātī*, and concludes with the usages *puruṣaṃ hanti / haniṣyati* (present or future: no *kvip*), *brahmāṇaṃ hatavān* ('he who has killed a *brahman*', with *ṇini* by P. 3-2-89 *karmaṇi hanaḥ*?) and the remark that Kaiyaṭa regards the *niyama*s as set aside by the *Mahābhāṣya*'s own statement *ubhayato niyamo 'yam* — "the restriction is both ways"; the point is a grammarians' dispute about the scope of a restriction, and the Kannada reproduces it in nearly three pages; then *vṛtrahan* + *su*, *sarvanāmasthāne cāsambuddhau* P. 6-4-8 [lengthening, which would apply], but *in-han-pūṣārya-mṇāṃ śau* P. 6-4-12 and *sau ca* P. 6-4-13 [as read, the standard 6-4-13] specially extend the lengthening to the *sau*; *hal-ṅyābbhyo dīrghāt sutisy apṛktaṃ hal* P. 6-1-68 drops *su*; *nalopaḥ prātipadikāntasya* P. 8-2-7 drops the *n*; accent by P. 6-2-139 *gatikārakopapadāt kṛt*: *hā* has the accent of its root), and *somapītaye* (here a *vyadhikaraṇa bahuvrīhi* — "of whom the drinking of soma is the aim" — as already explained at Rik 14.1 [print: "Ṛ. Saṃ. 1-14-1"], with *soma* having first-syllable accent by the *n*-mark, retained in the *bahuvrīhi* by P. 6-2-1 *bahuvrīhau prakṛtyā pūrvapadam*; if taken as a *tatpuruṣa* — *somasya pītiḥ, tasmai* — then *samāsasya* P. 6-1-223 would give the end accent, but this is set aside, since *somapīti* belongs to the *dāsībhārādi* class (an *ākṛtigaṇa*, with *kurugārhapata*, *rikta-guru*, *sūta-jaratī*, *śleṣa-dṛḍha-rūpā*, *pārevaḍavā*, *taikala-droṇa*, *paṇya-kambala*, *dāsībhāra* — as read, in small print) by P. 6-2-42 [as read], so the accent of the first member remains; "the *vyadhikaraṇa bahuvrīhi* is not otherwise available, so a *tatpuruṣa* analysis is also given"). ॥8॥ *(Crowded; outline only; numerals as read from small print; pointers only.)*
+### Page 699 — Rik 8: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 699)*
+**॥ Prati-padārthaḥ ॥**
 
-**वृत्रहा (vṛtrahā)** — the slayer of enemies (or of the demon Vṛtra) | **इन्द्रः (indraḥ)** — Indra | **सोमपीतये (somapītaye)** — for drinking soma | **मदाय (madāya)** — for the delight that arises from drinking soma | **विश्वम् (viśvam)** — all | **सुतम् (sutam)** — [that has] pressed soma | **सवनम् (savanam)** — the rites [beginning with the morning pressing] | **गच्छति इत् (gacchati it)** — goes indeed.
+**वृत्रहा (vṛtrahā)** — who destroys enemies, or who destroyed the demon Vṛtra | **इन्द्रः (indraḥ)** — Indra | **सोमपीतये (somapītaye)** — for drinking soma | **मदाय (madāya)** — and for the joy (that comes from drinking soma) | **विश्वम् (viśvam)** — all | **सुतम् (sutam)** — where the soma juice is made ready | **सवनम् (savanam)** — to the rites (in the form of the morning pressing and so on) | **गच्छति इत् (gacchati it)** — surely goes.
 
 **॥ Bhāvārthaḥ ॥**
 
-Indra, the slayer of the demons or of Vṛtra, goes to all the rites, the morning pressing and the rest, in which soma-juice is drawn; he drinks the soma-juice and is thereby satisfied.
+Indra, who destroys the demons or Vṛtra, goes to every rite of the morning pressing and so on where the soma juice is pressed out, drinks the soma, and is pleased by it.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Indra, the killer of Vritra (or of enemies) goes to every ceremony where Soma is prepared that he may drink the Soma and be intoxicated.
+> Indra, the killer of Vritra (or of enemies) goes to every ceremoney [sic] where Soma is prepared that he may drink the Soma and be intoxicated.
 
-*(The print has "ceremoney" for "ceremony" — [sic].)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 699)*
+**Vṛtrahā**: though the word *vṛtra* denotes many things, cloud, strength, water, the demon Vṛtra and so on, here the commentator takes it as "enemy". It may also be taken as the demon Vṛtra if wished. Accordingly *vṛtrahā* means destroyer of enemies, or slayer of the demon Vṛtra.
 
-**वृत्रहा (vṛtrahā)** — the word *vṛtra* is used for many meanings, such as cloud, strength, water, the demon Vṛtra; but here the commentator takes *vṛtra* to mean "enemy". It may also be taken to mean the demon Vṛtra. Accordingly, *vṛtrahā* means "the destroyer of enemies" or "the slayer of the demon Vṛtra".
+**Madāya**: for the *mada* (intoxication) or joy that comes from drinking soma, "Intoxication".
 
-**मदाय (madāya)** — for the exhilaration (*mattu*) that arises from drinking soma, or for delight; [the print adds the English word] "Intoxication".
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 699–703, noted briefly)*
+
+**विश्वम् (*viśvam*)**: the root *viśa praveśane*; after it the suffix *kvan* by "aśūpruṣilaṭikaṇikhaṭiviśibhyaḥ kvan" (Uṇ. sū. 1-149); by "ñnityādir nityam" (Pā. sū. 6-1-197) the *nit* accent: *viśva* is initial udātta. *Savanaṃ sutam* are explained at "semaṃ naḥ" (Ṛ. saṃ. 1-16-5).
+
+**मदाय (*madāya*)**: by "mado 'nupasarge" (Pā. sū. 3-3-67), when a *subanta* other than a preverb is the *upapada*, the suffix *ap* comes after the root *mad*; so after the root *mad*
+
+### Page 700 — Rik 8: grammar
+
+the suffix *ap*. It is *pit*, that is, has *p* as *it*; so it is unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4), and the root accent stays.
+
+**गच्छति (*gacchati*)**: *gamḷ gatau*. By "iṣugamiyamāṃ chaḥ" (Pā. sū. 7-3-77), when *laṭ*, *tip* and *śap* have come after the root *gam*, the substitute *ch*.
+
+**वृत्रहा (*vṛtrahā*)**: the analysis is *vṛtraṃ hatavān*; the root *hana hiṃsāgatyoḥ*. By "brahma-bhrūṇa-vṛtreṣu kvip" (Pā. sū. 3-2-87), when the words *brahma*, *bhrūṇa* and *vṛtra*, denoting the object, are the *upapada*, the suffix *kvip* comes after the root *han* in the past sense. Here, though *kvip* would come anyway by "kvip ca" (Pā. sū. 3-2-76), this sūtra is needed as a restriction, by the maxim
+
+> सिद्धे सत्यारभ्यमाणो विधिर्नियमाय भवति
+>
+> *siddhe satyārabhyamāṇo vidhirniyamāya bhavati*
+
+("A rule stated when the result is already obtained serves as a restriction.") Here the Kāśikā gives the restriction in four ways. Since they are heard in the sūtra, the words *brahma* and so on are to be used first, then, as the base, the root *han*, then, by elimination, *bhūte*, and *kvip*, being what is enjoined, comes last of all; so it reads
+
+> ब्रह्मादिषु उपपदेषु हन्तेः भूते क्विप्
+>
+> *brahmādiṣu upapadeṣu hanteḥ bhūte kvip*
+
+("When *brahma* and the rest are the *upapada*, *kvip* after *han* in the past.") By the maxim
+
+> यत एवकारस्ततोऽन्यत्र नियमः
+>
+> *yata evakārastato 'nyatra niyamaḥ*
+
+("The restriction applies to what is other than where the *eva* stands"), the restriction falls on what stands next to the word it is attached to. So if the restriction is stated as
+
+> ब्रह्मादिष्वेव हन्तेः भूते क्विप्
+>
+> *brahmādiṣveva hanteḥ bhūte kvip*
+
+("Only when *brahma* and the rest are *upapada*, *kvip* after *han* in the past"), what stands next to it is the root *han*; so it is a *prakṛti-niyama*, a restriction on the base, whose result is to exclude other *upapadas* from that root.
+
+> स्वसजातीयेतरव्यावर्तकत्वं नियमत्वम्
+>
+> *svasajātīyetaravyāvartakatvaṃ niyamatvam*
+
+("Being a restriction is excluding what is other than its own kind.") By this restriction it is settled that if there is connection with an *upapada* other than *brahma* and the rest, *kvip* does not come after the root *han* in the past sense. Example: for *puruṣaṃ hatavān*, the form *puruṣahā* is not used. Though not used in the past sense, in the present and future senses, *puruṣaṃ hanti*, *puruṣaṃ haniṣyati*, *kvip* does come, and in those senses *puruṣahā* is correct. This restriction is called *prakṛti-niyama*; the name comes because its result is to exclude other *upapadas* from the base. Next, when the restriction is stated as
+
+> ब्रह्मादिषु उपपदेषु हन्तेरेव भूते क्विप्
+>
+> *brahmādiṣu upapadeṣu hantereva bhūte kvip*
+
+("When *brahma* and the rest are *upapada*, *kvip* in the past only after *han*"), the *upapada* and *bhūte*, the word for the time, both stand equally near; yet since the *upapada* is named first, it is called an *upapada-niyama*. By it, when this *upapada* is connected, *kvip* does not come in the past sense after other roots. Example: for *vṛtraṃ jitavān*, with *vṛtra* as *upapada*, *kvip* does not come after the root *ji* in the past sense, so *vṛtrajit* is not a correct usage in that sense. When the present and future times are meant, *vṛtraṃ jayati*, *vṛtraṃ jeṣyati*, with *brahma* and the rest as *upapada*,
+
+### Page 701 — Rik 8: grammar
+
+since the exclusion that *kvip* does not come in the past sense after a root other than *han* is settled, the usage *vṛtrajit* is correct. Thus there are two restrictions, *prakṛti-niyama* and *upapada-niyama*. Next, if the restriction takes the form
+
+> ब्रह्मादिषु उपपदेषु हन्तेः भूते क्विबेव
+>
+> *brahmādiṣu upapadeṣu hanteḥ bhūte kvibeva*
+
+("When *brahma* and the rest are *upapada*, after *han* in the past only *kvip*"), here *hanteḥ* and *kvip* both stand equally near; though they are equal, the suffix is the principal thing, so this is a *pratyaya-niyama*. By it it is settled that, with *brahma* and the rest as *upapada*, *kvip* does not come after the root *han* at a time other than the past. Example: in the senses *brāhmaṇaṃ hanti*, *brāhmaṇaṃ haniṣyati*, present and future time being understood, *kvip* does not come; so in these senses *brahmahā* is not formed. With these *upapadas* absent, even if *kvip* does not come after *han* in the past sense, when there is connection with another *upapada* it does come after *han* in the past sense: for *puruṣaṃ hanti* or *haniṣyati*, *puruṣahā* is formed. When the restriction is
+
+> ब्रह्मादिषु उपपदेषु हन्तेः भूत एव क्विप्
+>
+> *brahmādiṣu upapadeṣu hanteḥ bhūta eva kvip*
+
+("When *brahma* and the rest are *upapada*, *kvip* after *han* only in the past"), since *bhūte* stands next to it, it is a *kāla-niyama*, a restriction of time, by the maxim *yata evakāraḥ*. By it it is settled that, with *brahma* and the rest as *upapada*, no suffix other than *kvip* comes after the root *han* in the past sense. So for *brāhmaṇaṃ hatavān* the suffix *ṇini* in the past sense by "karmaṇi hanaḥ" (Pā. sū. 3-2-86) does not come, and the usage *brahmaghātī* is not correct. But since the restriction contains "*brahmādiṣu*", when other words are the *upapada*, *kvip* does come after the root *han* in the past sense [as printed; the example is a *ṇini* form]: example, *pitṛvyaṃ hatavān*, *pitṛvyaghātī*. The Kāśikā's view is that the sūtra "brahma-bhrūṇa-vṛtreṣu kvip" (Pā. sū. 3-2-87) is needed to obtain these four restrictions, the *prakṛti-niyama*, *upapada-niyama*, *pratyaya-niyama* and *kāla-niyama*. In the Mahābhāṣya it reads:
+
+> उभयतो नियमोऽयम् । ब्रह्मादिष्वेव । क्विबेव ।
+>
+> *ubhayato niyamo 'yam | brahmādiṣveva | kvibeva |*
+
+("This is a restriction both ways: only with *brahma* and the rest; only *kvip*.") So the two restrictions accepted by the Bhāṣya are the *prakṛti-niyama* and the *kāla-niyama*. Readers will not fail to ask what the Bhāṣya's intention may be in relying on two restrictions in this way. In the sūtra "brahma-bhrūṇa-vṛtreṣu kvip" (Pā. sū. 3-2-87) the *upapada* and the suffix are both heard; the root *han* and the time-word *bhūte* are not heard. They are obtained from the context; and by
+
+> श्रुतिलिङ्गवाक्यप्रकरणस्थानसमाख्यानां पारदौर्बल्यमर्थविप्रकर्षात्
+>
+> *śrutiliṅgavākyaprakaraṇasthānasamākhyānāṃ pāradaurbalyamarthaviprakarṣāt*
+
+("Of direct statement, indication, syntactic connection, context, position and name, each later one is weaker, because its meaning is more remote"), context is much weaker than direct statement. So the Mahābhāṣyakāra's view is that it is proper to restrict the base and the time, supplied by a weaker means of knowledge, and not proper to restrict the *upapada* and the suffix, which are heard. Kaiyaṭa makes it clear that, since it conflicts with the Bhāṣya, which follows this reasoning, the view of the Vṛttikāra is to be disregarded. Haradatta says here:
+
+> धातूपपदविषयं नियमद्वयं भाष्ये प्रदर्शितम्
+>
+> *dhātūpapadaviṣayaṃ niyamadvayaṃ bhāṣye pradarśitam*
+
+("The two restrictions, concerning the root and the *upapada*, are shown in the Bhāṣya.") Instead of saying here
+
+> धातुकालविषयम्
+>
+> *dhātukālaviṣayam*
+
+("concerning the root and the time"), [the text continues on p. 702:]
+
+### Page 702 — Rik 8: grammar
+
+Jñānendra Sarasvatī (the ascetic) has shown that the word *upapada* has slipped in through an oversight. Thus the sūtra *brahma-bhrūṇa…* is needed to obtain the restrictions. In *vṛtraṃ hatavān*, when by it the form ends in *kvip*, it is called *prātipadika* by "kṛttaddhitasamāsāś ca" (Pā. sū. 1-2-46); by "supo dhātuprātipadikayoḥ" (Pā. sū. 2-4-71) the *am* inside the stem takes *luk*; the whole of *kvip* drops. After *vṛtrahan* the nominative singular *su*: *vṛtrahan* + *su*. By "sarvanāmasthāne cāsambuddhau" (Pā. sū. 6-4-8), before a *sarvanāmasthāna* suffix other than the vocative, the penultimate of an *n*-final stem is lengthened; so lengthening is due. But the sense of "in-han-pūṣāryamṇāṃ śau" (Pā. sū. 6-4-12) is that the penultimate of a stem ending in *in*, *han*, *pūṣan* or *aryaman* is lengthened before the suffix *śi*. By *sarvanāmasthāne cāsambuddhau* (Pā. sū. 6-4-8) the lengthening of their penultimate is already established; so by *siddhe satyārabhyamāṇo vidhir niyamāya bhavati* this sūtra is a restriction: for stems ending in *in*, *han*, *pūṣan* and *aryaman*, the lengthening of the penultimate comes only before *śi*. By it it is settled that without *śi* following, the penultimate of a stem ending in *in* and the rest is not lengthened. So in *vṛtrahan* + *su*, *śi* not following, there would be no lengthening. Yet by "sau ca" (Pā. sū. 6-4-13), when the suffix *su* follows, the penultimate of a stem ending in *in*, *han*, *pūṣan* or *aryaman* is lengthened; so the lengthening comes. *Pratiprasava* means a bar to a bar. Here the lengthening due by *sarvanāmasthāne ca* was in effect barred by *in-han-pūṣā…*; and *sau ca* (Pā. sū. 6-4-13) in effect bars that bar. So the Bhāṣya says
+
+> दीर्घत्वं सौ चेति प्रतिप्रसवाद्भवति
+>
+> *dīrghatvaṃ sau ceti pratiprasavādbhavati*
+
+("The lengthening comes by the counter-rule *sau ca*.") With *vṛtrahān* + *su*, the *su* drops by "halṅyābbhyaḥ…" (Pā. sū. 6-1-68); the *n* drops by "na lopaḥ prātipadikāntasya" (Pā. sū. 8-2-7): *vṛtrahā*. *Hā* is udātta by the root accent; after compounding too the same accent comes by the accent of the *kṛt* final member, that is, by "gatikārakopapadāt kṛt" (Pā. sū. "7-2-139" [as read; for 6-2-139] [?]).
+
+**सोमपीतये (*somapītaye*)**: a *bahuvrīhi* compound is made of words ending in the nominative; when words in other cases enter a *bahuvrīhi*, it is called a *vyadhikaraṇa-bahuvrīhi*. At "aibhir agne duvo giraḥ" (Ṛ. saṃ. 1-14-1) *somapītaye* was shown to be a *vyadhikaraṇa-bahuvrīhi*. The word *soma* is initial udātta by the *nit* accent; in the *bahuvrīhi* the same accent comes by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1). Even if a *tatpuruṣa* is made, *somasya pītiḥ somapītiḥ*, *tasyai somapītaye*, then, by *samāsasya*
+
+### Page 703 (upper) — Rik 8: grammar (end)
+
+overriding the final udātta that would come, since *dāsībhāra-ādi* is an *ākṛtigaṇa*, *somapīti*, which belongs to that group, takes the accent of its first member by
+
+> कुरुगार्हपततरिक्तगुर्वसूतजरत्यश्लीलदृढरूपापारेवडवातैतिलकद्रूःपण्यकम्बलो दासीभाराणां च
+>
+> *kurugārhapatatariktagurvasūtajaratyaślīladṛḍharūpāpārevaḍavātaitilakadrūḥpaṇyakambalo dāsībhārāṇāṃ ca*
+
+(Pā. sū. 6-2-42). Since recourse to a *vyadhikaraṇa-bahuvrīhi* is a last resort, the *tatpuruṣa* has been described.
+
+**॥८॥**
+
+---
 
 ### Pages 703–707 — Sūkta 16, Rik 9 (last rik of the sūkta)
 
