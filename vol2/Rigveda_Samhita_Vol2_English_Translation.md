@@ -17132,12 +17132,12 @@ After compounding with the word *su*, the accent of the *kṛt* final member com
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > प्रति॒ त्यं चारु॑मध्व॒रं गो॑पी॒थाय॒ प्र हू॑यसे । [accent ?]
-> म॒रु॑द्भिरग्न आ ग॑हि ॥१॥ [accent ?]
+> म॒रुद्भि॑रग्न आ ग॑हि ॥१॥ [accent ?]
 >
 > *prati tyáṃ cā́rum adhvaráṃ gopīthā́ya prá hūyase |* [accent ?]
-> *marudbhir agna ā́ gahi ||1||* [accent ?]
+> *marúdbhir agna ā́ gahi ||1||* [accent ?]
 
-*(Read as printed: strokes over रु (चारु), गो, हू, रु (मरुद्भि) and ग (गहि); bars under ति, ध्व, पी, य (थाय) and म.)*
+*(Read as printed: strokes over रु (चारु), गो, हू, द्भि and ग (गहि); bars under ति, ध्व, पी, य (थाय) and म.)*
 
 ### Page 784 — Rik 1: Pada, bhāṣya, word-meanings, overall sense, English
 
@@ -17234,12 +17234,12 @@ is udātta by *ekādeśa udāttenodāttaḥ*. *Tya* + *am*: by "ami pūrvaḥ" (
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > न॒हि दे॒वो न मर्त्यो॑ म॒हस्तव॒ क्रतुं॑ प॒रः । [accent ?]
-> म॒रु॑द्भिरग्न आ ग॑हि ॥२॥ [accent ?]
+> म॒रुद्भि॑रग्न आ ग॑हि ॥२॥ [accent ?]
 >
 > *nahí devó na mártyo mahás tava krátuṃ paráḥ |* [accent ?]
-> *marudbhir agna ā́ gahi ||2||* [accent ?]
+> *marúdbhir agna ā́ gahi ||2||* [accent ?]
 
-*(Read as printed: bars under न (नहि), दे, म (महस्), व (तव), प and म (मरु); strokes over त्यो, तुं, रु and ग. No stroke is printed after the bar under म of महस्.)*
+*(Read as printed: bars under न (नहि), दे, म (महस्), व (तव), प and म (मरु); strokes over त्यो, तुं, द्भि and ग. No stroke is printed after the bar under म of महस्.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -17303,15 +17303,21 @@ O Agni, the rite or sacrifice connected with you is very great. There is no god 
 
 ---
 
-### Pages 788–792 — Sūkta 19, Rik 3
+### Page 788 (lower) — Sūkta 19, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ये महो रजसो विदुर्विश्वे देवासो अद्रुहः ।
-> मरुद्भिरग्न आ गहि ॥३॥
+> ये म॒हो रज॑सो वि॒दुर्विश्वे॑ दे॒वासो॑ अ॒द्रुहः॑ । [accent ?]
+> म॒रुद्भि॑रग्न॒ आ ग॑हि ॥३॥ [accent ?]
 >
-> *ye maho rajaso vidur viśve devāso adruhaḥ |*
-> *marudbhir agna ā gahi ||3||*
+> *ye mahó rájaso vidúr víśve devā́so adrúhaḥ |* [accent ?]
+> *marúdbhir agna ā́ gahi ||3||* [accent ?]
+
+*(Read as printed: bars under म (महो), वि, दे, अ, म (मरु) and ग्न; strokes over ज, श्वे, सो, हः, द्भि and ग.)*
+
+### Page 789 — Rik 3: Pada, bhāṣya, word-meanings, overall sense
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -17319,51 +17325,87 @@ O Agni, the rite or sacrifice connected with you is very great. There is no god 
 > मरुत्ऽभिः । अग्ने । आ । गहि ॥३॥
 >
 > *ye | mahaḥ | rajasaḥ | viduḥ | viśve | devāsaḥ | adruhaḥ ||*
-> *marut-bhiḥ | agne | ā | gahi ||3||*
+> *marut 'bhiḥ | agne | ā | gahi ||3||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 789; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने ये मरुतो महो रजसो महत उदकस्य वर्षणप्रकारं विदुः । तैर्मरुद्भिरित्यन्वयः । कीदृशा मरुतः । विश्वे सर्वे सप्तविधगणोपेताः । सप्तगणा वै मरुतः । तै. सं. [१-२-११-१] । इति श्रुतेः । देवासो द्योतमाना अद्रुहो द्रोहरहिता वर्षणेन सर्वभूतोपकारित्वात् । तथा चोपरिष्टादाम्नायते । उदीरयथा मरुतः समुद्रतो यूयं वृष्टिं वर्षयथा पुरीषिणः । ऋग्वेदे [५-५३-६] । इति । शाखान्तरेऽपि मन्त्रान्तरस्य ब्राह्मणमेवमाम्नायते । मरुतां पृषतयः स्थेत्याह मरुतो वै वृष्ट्यै ईशते इति । रजःशब्दो यास्केन बहुधा व्याख्यातः । रजो रजतेर्ज्योतिर्वा रज उच्यते उदकं रज उच्यते । लोका रजांस्युच्यन्ते । नि. [४-१९] । इति ॥ रजसः । नब्विषयस्यानिसन्तस्येत्यादिनाद्युदात्तः । विदुः । विद ज्ञाने । विदो लटो वा । पा. [३-४-८३] । इति झेरुसादेशः । प्रत्ययस्वरः । यद्वृत्तयोगान्न निघातः । विश्वे । विशेः क्वनन्तस्य नित्त्वाद्याद्युदात्तत्वम् । देवासः । आज्जसेरसुक् । देवशब्दः पचाद्यजन्तः । चित्त्वादन्तोदात्तः । अद्रुहः । सम्पदादित्वाद्भावे क्विपि बहुव्रीहौ नञ्सुभ्यामित्यन्तोदात्तत्वम् । कर्तरि वाक्विप् [?] । तत्पुरुषे हि [?] तत्पुरुषे तुल्यार्थतृतीया… । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥३॥
+> हे अग्ने ये मरुतो महो रजसो महत उदकस्य वर्षणप्रकारं विदुस्तैर्मरुद्भिरित्यन्वयः । कीदृशा मरुतः । विश्वे सर्वे सप्तविधगणोपेताः । सप्तगणा वै मरुतः । तै. सं. २-२-११-१ । इति श्रुतेः । देवासो द्योतमाना अद्रुहो द्रोहरहिता वर्षणेन सर्वभूतोपकारित्वात् । तथा चोपरिष्टादाम्नायते । उदीरयथा मरुतः समुद्रतो यूयं वृष्टिं वर्षयथा पुरीषिणः । ऋग्वे. ५-५५-५ । इति । शाखान्तरेऽपि मन्त्रान्तरस्य ब्राह्मणमेवमाम्नायते । मरुतां पृषतयः स्थेत्याह मरुतो वै वृष्ट्या ईशते इति । रजःशब्दो यास्केन बहुधा व्याख्यातः । रजो रजतेर्ज्योती रज उच्यत उदकं रज उच्यते । लोका रजांस्युच्यन्तेऽसृगहनी रजसी उच्येते । नि. ४-१९ । इति ॥ रजसः । नब्विषयस्यानिसन्तस्येत्याद्युदात्तः । विदुः । विद ज्ञाने । विदो लटो वा । पा. ३-४-८३ । इति झेरुसादेशः । प्रत्ययस्वरः । यद्वृत्तयोगान्निघाताभावः । विश्वे । विशेः क्वन्नन्तस्य नित्त्वादाद्युदात्तत्वम् । देवासः । आज्जसेरसुक् । देवशब्दः पचाद्यजन्तः । चित्त्वादन्तोदात्तः । अद्रुहः । संपदादित्वाद्भावे क्विपि बहुव्रीहौ नञ्सुभ्यामित्यन्तोदात्तत्वम् । कर्तरि वा क्विप् तत्पुरुषे ह्यव्ययपूर्वपदप्रकृतिस्वरत्वं स्यात् । न च कृदुत्तरपदप्रकृतिस्वरत्वं यतो नञ् न गतिर्न च कारक इति । पा. ६-२-१३९ ॥
 >
-> *he agne ye maruto maho rajaso mahata udakasya varṣaṇa-prakāraṃ viduḥ | tair marudbhir ity anvayaḥ | kīdṛśā marutaḥ | viśve sarve saptavidha-gaṇopetāḥ | sapta-gaṇā vai marutaḥ | tai. saṃ. [1-2-11-1] | iti śruteḥ | devāso dyotamānā adruho droha-rahitā varṣaṇena sarva-bhūtopakāritvāt | tathā copariṣṭād āmnāyate | udīrayathā marutaḥ samudrato yūyaṃ vṛṣṭiṃ varṣayathā purīṣiṇaḥ | ṛgvede [5-53-6] | iti | śākhāntare 'pi mantrāntarasya brāhmaṇam evam āmnāyate | marutāṃ pṛṣatayaḥ sthety āha maruto vai vṛṣṭyai īśate iti | rajaḥ-śabdo yāskena bahudhā vyākhyātaḥ | rajo rajater jyotir vā raja ucyate udakaṃ raja ucyate | lokā rajāṃsy ucyante | ni. [4-19] | iti || rajasaḥ | nab-viṣayasyāniṣantasyety-ādinādyudāttaḥ | viduḥ | vida jñāne | vido laṭo vā | pā. [3-4-83] | iti jher usādeśaḥ | pratyaya-svaraḥ | yad-vṛtta-yogān na nighātaḥ | viśve | viśeḥ kvananta-sya nittvād ādyudāttatvam | devāsaḥ | āj jaser asuk | deva-śabdaḥ pacādy-ajantaḥ | cittvād antodāttaḥ | adruhaḥ | sampadāditvād bhāve kvipi bahuvrīhau nañ-subhyām ity antodāttatvam | … ||3||*
+> *he agne ye maruto maho rajaso mahata udakasya varṣaṇaprakāraṃ vidustairmarudbhirityanvayaḥ | kīdṛśā marutaḥ | viśve sarve saptavidhagaṇopetāḥ | saptagaṇā vai marutaḥ | tai. saṃ. 2-2-11-1 | iti śruteḥ | devāso dyotamānā adruho droharahitā varṣaṇena sarvabhūtopakāritvāt | tathā copariṣṭādāmnāyate | udīrayathā marutaḥ samudrato yūyaṃ vṛṣṭiṃ varṣayathā purīṣiṇaḥ | ṛgve. 5-55-5 | iti | śākhāntare 'pi mantrāntarasya brāhmaṇamevamāmnāyate | marutāṃ pṛṣatayaḥ sthetyāha maruto vai vṛṣṭyā īśate iti | rajaḥśabdo yāskena bahudhā vyākhyātaḥ | rajo rajaterjyotī raja ucyata udakaṃ raja ucyate | lokā rajāṃsyucyante 'sṛgahanī rajasī ucyete | ni. 4-19 | iti || rajasaḥ | nabviṣayasyānisantasyetyādyudāttaḥ | viduḥ | vida jñāne | vido laṭo vā | pā. 3-4-83 | iti jherusādeśaḥ | pratyayasvaraḥ | yadvṛttayogānnighātābhāvaḥ | viśve | viśeḥ kvannantasya nittvādādyudāttatvam | devāsaḥ | ājjaserasuk | devaśabdaḥ pacādyajantaḥ | cittvādantodāttaḥ | adruhaḥ | saṃpadāditvādbhāve kvipi bahuvrīhau nañsubhyāmityantodāttatvam | kartari vā kvip tatpuruṣe hyavyayapūrvapadaprakṛtisvaratvaṃ syāt | na ca kṛduttarapadaprakṛtisvaratvaṃ yato nañ na gatirna ca kāraka iti | pā. 6-2-139 ||*
 
-**Translation:** "O Agni! Those Maruts who know (*viduḥ*) the way in which great (*mahaḥ*) *rajas* — great waters — is made to rain: with those Maruts [come] — that is the construction. What sort of Maruts? *Viśve* — all, having the seven-fold *gaṇa* ('The Maruts are seven-troop' — Taittirīya Saṃhitā [1-2-11-1], so the śruti says); *devāsaḥ* — shining; *adruhaḥ* — free from malice (*droha*), since by raining they benefit all beings. And so it is read further on [in the mantra]: '*udīrayathā marutaḥ samudrato yūyaṃ vṛṣṭiṃ varṣayathā purīṣiṇaḥ*' — 'You, O Maruts, raise [the waters] from the sea; you, full of water, cause the rain to fall' (Ṛg-veda [5-53-6]). In another recension too a Brāhmaṇa of another mantra reads thus: '*marutāṃ pṛṣatayaḥ sthety āha maruto vai vṛṣṭyai īśate*' — 'He says "you are the spotted deer of the Maruts"; the Maruts indeed have power over rain.' The word *rajas* has been explained in many ways by Yāska: '*rajaḥ* — from *raj* "to shine"; light is called *rajas*; water is called *rajas*; worlds are called *rajāṃsi*' (Nirukta [4-19])." The rest is grammar, noted briefly: *rajasaḥ* (first-syllable accent by the rule on neuter words not ending in *ni* or *s*…); *viduḥ* (*vid* "to know", *jhi* → *us* by P. 3-4-83 *vido laṭo vā*; the verb is not made unaccented because of the relative *ye*); *viśve* (*viś* + *kvan*; first-syllable accent through the *n*); *devāsaḥ* (the *asuk* ending, P. 7-1-50); *adruhaḥ* ("those who have no *droha*", *kvip* in the abstract sense; the bahuvrīhi with the accent of the final member by P. 6-2-172). *(Grammar, noted briefly; the Ṛgveda reference numerals are as read and marked [?], and P. 3-4-83 agrees with the standard numbering.)*
+**Translation:** "O Agni, the Maruts who *viduḥ*, know, the manner of raining of the *mahas rajas*, the great water: with those Maruts (come): that is the construction. Of what kind are the Maruts? *Viśve*, all, endowed with seven kinds of troops, from the Śruti 'The Maruts are of seven troops' (Tai. saṃ. 2-2-11-1); *devāsaḥ*, shining; *adruhaḥ*, free from malice, since by raining they benefit all beings. So it is declared later: 'O Maruts, you raise it from the ocean; you, rich in moisture, make the rain fall' (Ṛgveda 5-55-5). In another *śākhā* too the Brāhmaṇa of another mantra declares: 'He says, you are the dappled mares of the Maruts: the Maruts rule over rain.' The word *rajas* is explained by Yāska in many ways: '*Rajas* is from *rañj*; light is called *rajas*; water is called *rajas*; the worlds are called *rajāṃsi*; blood and day are called the two *rajasī*' (Ni. 4-19)." (Grammatical tail: *rajasaḥ*, initial udātta by *nabviṣayasyānisantasya*; *viduḥ*, *vida jñāne*, *us* for *jhi* by *vido laṭo vā* (Pā. 3-4-83), the suffix accent, not lowered because joined with *yad*; *viśve*, initial udātta as *viśva*, ending in *kvan*, is *nit*; *devāsaḥ*, *asuk* by *āj jaser asuk*, the word *deva* an *ac*-final of the *pac-ādi*, final udātta as *cit*; *adruhaḥ*, *kvip* in the sense of the action as one of the *sampad-ādi*, and in the *bahuvrīhi* final udātta by *nañsubhyām*; or, with *kvip* in the agent sense, in a *tatpuruṣa* the first member, an indeclinable, would keep its accent; nor would the accent of the *kṛt* final member come, since *nañ* is neither a *gati* nor a *kāraka* (Pā. 6-2-139).)
 
-**Grammar pages (pp. 790 lower half–792 upper), noted briefly.** The Kannada treats: *rajasaḥ* (the word *rajas* is a neuter noun; "*nabviṣayasyāniṣantasya*" P. 6-1-219 [as read] gives first-syllable accent to a neuter word not ending in *-is/-ṣ-*, hence *rajaḥ*, genitive singular), *viduḥ* (*vid jñāne*; *laṭ* third plural *jhi*, which by P. 3-4-83 *vido laṭo vā* is replaced optionally by *us*; *vid* + *us*; the long Kannada explanation of the substitutes *ṇal, atus, us, ṇal, va, ma* [P. 3-4-82 *parasmaipadānāṃ ṇalatusus-thalathusaṇalvamāḥ*] for the nine *parasmaipada* endings of the perfect; the verb is not made wholly unaccented since it follows the relative *ye*, P. 8-1-66 *yadvṛttān nityam*; the suffix accent remains), *viśve* (*viś praveśane* + *kvan* [Uṇ. 1-[?] *aśūpruṣi…*]; first-syllable accent; *jas* → *śī*; the *ś* dropped, *viśva* + *ī*; *ād guṇaḥ* gives *e*), *devāsaḥ* (*divu* + *ac* by P. 3-1-134 *nandigrahipacādibhyo lyuṇinyacaḥ*; guṇa; the *c*-mark gives end accent by P. 6-1-163 *cit*; *jas* + *asuk* by P. 7-1-50 *āj jaser asuk*, in which the *k* makes *asuk* the end of the stem; *savarṇadīrgha*; *ru*, *visarga*), and, at great length, *adruhaḥ* — *druh jighāṃsāyām* with *kvip* by P. 3-2-61 or by P. 3-2-76 *kvip ca* in the abstract sense; the *bahuvrīhi* *na druhaḥ yeṣāṃ te* has first-member accent by P. 6-2-1 *bahuvrīhau prakṛtyā pūrvapadam*, which would make *adruhaḥ* first-syllable accented; but *nañsubhyām* P. 6-2-172 overrides it with end accent on the last member; alternatively *kvip ca* P. 3-2-76 [the Kannada's reading of P. 3-2-76]; the alternative analysis as a *tatpuruṣa* *na druhaḥ*, with *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* P. 6-2-2 giving first-member accent and *gatikārakopapadāt kṛt* P. 6-2-139 giving final-member accent, the latter prevailing in the compound of a *kṛdanta* with a word that is neither *gati* nor *kāraka* — here *na* is neither [*na* is *upapada*], so the final-member accent holds anyway, "no obstacle"; the Kannada concludes that the Vedabhāṣya's reading of the *tatpuruṣa* with *yato nañ na gatir na ca kāraka*… is a slight inexactness, because *na* has no *kāraka*-name; hence the *tatpuruṣa* is not mentioned there and only the *bahuvrīhi* is to be maintained). ॥3॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 789)*
-
-**अद्रुहः (adruhaḥ)** — free from malice (doing only good) | **विश्वे (viśve)** — complete, having seven-fold troops | **ये देवासः (ye devāsaḥ)** — those luminous deities | **महः (mahaḥ)** — great | **रजसः (rajasaḥ)** — of water (the way of raining) | **विदुः (viduḥ)** — who know | **मरुद्भिः (marudbhiḥ)** — with such Marut deities | **अग्ने (agne)** — O Agni | **आ गहि (ā gahi)** — come here.
+**अद्रुहः (adruhaḥ)** — without malice, that is, of a nature to do good | **विश्वे (viśve)** — all, that is, endowed with seven kinds of troops | **ये देवासः (ye devāsaḥ)** — which shining Marut deities | **महः (mahaḥ)** — much | **रजसः (rajasaḥ)** — of water (the manner of raining, that is, of pouring rain) | **विदुः (viduḥ)** — know | (such) **मरुद्भिः (marudbhiḥ)** — together with the Marut deities | **अग्ने (agne)** — O Agni | **आ गहि (ā gahi)** — come here.
 
 **॥ Bhāvārthaḥ ॥**
 
-The Marut deities are luminous and are in seven troops. They do no harm to anyone; they do only good by sending rain. They know how to make the rain fall in abundance. O Agni, come here together with such Marut deities.
+The Marut deities are shining, joined in seven kinds of troops (the seven Maruts); they do no harm to anyone and do only good. They know how to pour rain abundantly. O Agni, come here together with such Marut deities.
+
+### Page 790 — Rik 3: English, Special Topics and grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Come, Agni, with the Maruts, who are all divine, and devoid of malignity and who know how to cause the descent of great waters.
+> Come, Agni, with the Maruths [sic], who are ali [sic] divine, and devoid of malignity and who know how to cause the descent of great waters.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 790)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**महः रजसः (mahaḥ rajasaḥ)** — of great water (rain). The word *rajas* is explained by Yāska: *rajo rajateḥ jyotir vā raja ucyate udakaṃ raja ucyate | lokā rajāṃsy ucyante* (Ni. [4-19]) — that is, *rajas* means light, water, or world; here the commentator takes the sense water. The Vedārthayatnakāra gives the sense *jyotiḥ* (light); on his view the Maruts are those who move in the sky with much light. That sense too is appropriate here.
+**Maho rajasaḥ**: *mahata udakasya*, of much water (the rain). For the word *rajaḥ* Yāska says
 
-**देवासः (devāsaḥ)** — an ancient form of the word *devāḥ*; "gods".
+> रजः । रजो रजतेर्ज्योती रज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यन्ते ।
+>
+> *rajaḥ | rajo rajaterjyotī raja ucyate | udakaṃ raja ucyate | lokā rajāṃsyucyante |*
 
-**विश्वे (viśve)** — "all", i.e. with the seven troops; there is a śruti sentence *saptagaṇā vai marutaḥ* (Tai. Saṃ. [1-2-11-1]).
+(Ni. 4-19), that is, *rajaḥ* has the senses light (radiance), water and world; here the commentator has taken the sense water. The author of the Vedārthayatna gives the sense light. On his view the sense is: the Maruts who move in the sky full of great light. This sense too fits well here.
 
-**अद्रुहः (adruhaḥ)** — *droharahitāḥ*: those who do no harm, i.e. those who do good to men by sending rain. In this matter the commentator quotes this rik:
+**Devāsaḥ**: an ancient usage of the word *devāḥ*; it means gods.
 
-> उदीरयथा मरुतः समुद्रतो यूयं वृष्टिं वर्षयथा पुरीषिणः ॥ (ऋ. सं. [५-५३-६])
-> *udīrayathā marutaḥ samudrato yūyaṃ vṛṣṭiṃ varṣayathā purīṣiṇaḥ || (ṛ. saṃ. [5-53-6])*
+**Viśve**: all, that is, accompanied by seven troops. There is the Śruti statement
 
-and the Brāhmaṇa sentence
+> सप्तगणा वै मरुतः
+>
+> *saptagaṇā vai marutaḥ*
 
-> मरुतां पृषतयः स्थेत्याह मरुतो वै वृष्ट्यै ईशते ॥ (तै. ब्रा.)
-> *marutāṃ pṛṣatayaḥ sthety āha maruto vai vṛṣṭyai īśate || (tai. brā.)*
+(Tai. saṃ. 2-2-11-1).
 
-These two make clear that the Maruts are the deities who give rain.
+**Adruhaḥ**: *droharahitāḥ*, those who do no malice, that is, those who do only good to people by pouring rain. On this the commentator has cited the following ṛk:
+
+> उदीरयथा मरुतः समुद्रतो यूयं वृष्टिं वर्षयथा पुरीषिणः ॥ (ऋ. सं. ५-५५-५)
+>
+> *udīrayathā marutaḥ samudrato yūyaṃ vṛṣṭiṃ varṣayathā purīṣiṇaḥ || (ṛ. saṃ. 5-55-5)*
+
+("O Maruts, you raise it from the ocean; you, rich in moisture, make the rain fall": mine and tentative.) He has also cited the Brāhmaṇa statement
+
+> मरुतां पृषतयः स्थेत्याह मरुतो वै वृष्ट्या ईशते । (तै. ब्रा.)
+>
+> *marutāṃ pṛṣatayaḥ sthetyāha maruto vai vṛṣṭyā īśate | (tai. brā.)*
+
+("He says, you are the dappled mares of the Maruts; the Maruts rule over rain": mine and tentative.) These mantras make clear the sense that the Marut deities bring about rain.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 790–792, noted briefly)*
+
+**रजसः (*rajasaḥ*)**: the word *rajas* is always neuter. So by "nabviṣayasyānisantasya" (Phi. sū. "2-26" [?]), the first syllable of a word always neuter, not ending in *is*, is udātta; so *rajas* is initial udātta; it ends in the genitive singular.
+
+**विदुः (*viduḥ*)**: the root *vida jñāne*; after it *laṭ*, the 3rd plural substitute *jhi*: *vid* + *jhi*; *śap* by "kartari śap" (Pā. sū. 3-1-68), *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72). "Vido laṭo vā" (Pā. sū. 3-4-83): after the root *vida jñāne*, in place of the nine *parasmaipada* suffixes *tip* and the rest that came in place of *laṭ*,
+
+### Page 791 — Rik 3: grammar
+
+the substitutes *ṇal*, *atus*, *us* | *thal*, *athus*, *a* | *ṇal*, *va*, *ma* come respectively; so *us* for *jhi*: *vid* + *us*, *ru* and visarga: *viduḥ*. Since, as *ye maho rajaso viduḥ*, there is connection with *yad*, the bar to total unaccentedness comes by "yadvṛttān nityam" (Pā. sū. 8-1-66). So the *us* has the suffix accent.
+
+**विश्वे (*viśve*)**: by "aśūpruṣi……viśibhyaḥ kvan" (Uṇ. sū. 1-149), the suffix *kvan* after *viśa praveśane*; by the *nit* accent it is initial udātta. After the word *viśva* the nominative plural *jas*; by "jasaḥ śī" (Pā. sū. 7-1-17) the substitute *śī*; the *ś* is called *it* and dropped: *viśva* + *ī*; *guṇa* by *ād guṇaḥ*.
+
+**देवासः (*devāsaḥ*)**: by "nandigrahipacādibhyo lyuṇinyacaḥ" (Pā. sū. 3-1-134) the suffix *ac* after the root *div*. The suffix is *cit*, so by "citaḥ" (Pā. sū. 6-1-163) it is final udātta. With the suffix *ac* as condition, the *laghūpadha-guṇa* for the *i* of the root. After the word *deva*, *jas*: *deva* + *as*; by "āj jaser asuk" (Pā. sū. 7-1-50) the augment *asuk* for *jas*. Being *kit*, by "ādyantau ṭakitau" (Pā. sū. 1-1-46) it comes as the first part of *jas*: *deva* + *asas*; lengthening of like vowels: *devāsas*; *ru* and visarga.
+
+**अद्रुहः (*adruhaḥ*)**: the root *druha jighāṃsāyām*. After it, in the sense of the action, by *sampadādibhyaḥ kvip*, *kvip*; *na druhaḥ yeṣāṃ te*: a *bahuvrīhi*; the sense is the Maruts who have no doing of malice. Though the first member's accent is due by *bahuvrīhau prakṛtyā pūrvapadam*, overriding it by "nañsubhyām" (Pā. sū. 6-2-172), in a *bahuvrīhi* the final member after *nañ* and *su* is final udātta; so final udātta. Or, by "kvip ca" (Pā. sū. 3-2-76), *kvip* comes after all roots, with or without *upapadas*, in the Veda and in the world too; so *kvip* in the agent sense; *na* + *druhaḥ yeṣāṃ te*: here too a *bahuvrīhi*. *Druhaḥ* are *drohakartāraḥ*: the Maruts who have no doers of malice. One must not make the *tatpuruṣa* *na druhaḥ*, *adruhaḥ*, not doers of malice. For if the *tatpuruṣa* is made, by "tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ" (Pā. sū. 6-2-2), in a *tatpuruṣa* compound, words of equal sense, instrumental-final words, locative-final words, words denoting the standard of comparison, indeclinables, accusative-final words and *kṛtya*-final words, standing as the first member, keep their own accent. The word *avyaya* does not take indeclinables in general; there is the enumeration *avyaye nañkunipātānām*; so by this the first member's accent must come. Here the first member *nañ* is initial udātta by *nipātā ādyudāttāḥ*. So, the first member's
+
+### Page 792 (upper) — Rik 3: grammar (end)
+
+accent coming, *adruhaḥ* would have to be initial udātta. But even if the *tatpuruṣa* is made, though the first member's accent is due by *tatpuruṣe…*, by its overriding rule "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139), in a *tatpuruṣa* compound a *kṛdanta* after a *gati*, a *kāraka* or an *upapada* keeps its own accent; so the accent of the *kṛt* final member comes. The final member *druh* is final udātta by the root accent. So if the final member's accent comes, final udātta alone results. Although here *druh* follows neither a *gati* nor a *kāraka*, since *nañ* is neither a *gati* nor a *kāraka*, *nañ* is still an *upapada*. So, since the *kṛdanta* *druh* stands after an *upapada*, there is no obstacle at all to the accent of the *kṛt* final member. Thus the *tatpuruṣa* compound may be stated. Here the Vedabhāṣya says "*yato nañ na gatiḥ na ca kārakam*": since *nañ* has neither the name *gati* nor *kāraka*, the accent of the *kṛt* final member does not come, so the *tatpuruṣa* must not be stated and only the *bahuvrīhi* compound must be stated. It does not say here that *nañ* is not an *upapada*; so this may be known as deficient.
+
+**॥३॥**
+
+---
 
 ### Pages 792–795 — Sūkta 19, Rik 4
 
