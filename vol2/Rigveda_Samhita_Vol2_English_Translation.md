@@ -12558,61 +12558,91 @@ accent remains. In *ye tvā vahanti vahnayaḥ*, *vahanti* follows the word with
 
 ---
 
-### Pages 607–610 — Sūkta 14, Rik 7
+### Page 607 (lower) — Sūkta 14, Rik 7
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तान्यजत्राँ ऋतावृधो ऽग्ने पत्नीवतस्कृधि ।
-> मध्वः सुजिह्व पायय ॥७॥
+> तान्यज॑त्राँ ऋता॒वृधो ऽग्ने॒ पत्नी॑वतस्कृधि । [accent ?]
+> मध्वः॑ सुजिह्व पायय ॥७॥ [accent ?]
 >
-> *tān yajatrām̐ ṛtāvṛdho 'gne patnīvatas kṛdhi |*
-> *madhvaḥ sujihva pāyaya ||7||*
+> *tān yájatrām̐ ṛtāvṛ́dho 'gne pátnīvatas kṛdhi |* [accent ?]
+> *mádhvaḥ sujihva pāyaya ||7||* [accent ?]
+
+*(Line 1: the stroke stands over ज and the bar under ता of ऋतावृधो — positions read at 450 dpi, not certain. Line 2: only the stroke over ध्वः is legible; the foot of the line is cut in the scan.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > तान् । यजत्रान् । ऋतऽवृधः । अग्ने । पत्नीऽवतः । कृधि ॥
 > मध्वः । सुऽजिह्व । पायय ॥७॥
 >
-> *tān | yajatrān | ṛta-vṛdhaḥ | agne | patnī-vataḥ | kṛdhi ||*
-> *madhvaḥ | su-jihva | pāyaya ||7||*
+> *tān | yajatrān | ṛta 'vṛdhaḥ | agne | patnī 'vataḥ | kṛdhi ||*
+> *madhvaḥ | su 'jihva | pāyaya ||7||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā's first word is* tān yajatrān*, joined in sandhi as* tān̐ yajatrām̐ *— as printed:* tānyajatrāँ*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 607 lower half to p. 608 top; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने तानिन्द्रादीन्देवान्यजत्रान्यजनीयान् ऋतावृधः सत्यस्य यज्ञस्य वा वर्धकान् पत्नीवतः पत्नीयुक्तान्कृधि । कुरु । हे सुजिह्व । शोभनजिह्वोपेत मध्वो मधुरस्य सोमस्य भागं देवान्पाययेति शेषः ॥ यजत्रा । अमिनक्षियजिबन्धिपतिभ्यस्त्रन् [?] । उ. [?] । इति यजेस्त्रप्रत्ययः । ऋतावृधः । वृधु वृद्धौ । अन्तर्भावितण्यर्थात्क्विप् च [?] इति क्विप् । आङ्येषामपि दृश्यते इति पूर्वपदस्य दीर्घत्वम् । वृद्धेर्धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । अग्ने । पादादित्वान्नामन्त्रितेनिघातः । षाष्ठिकमाद्युदात्तत्वम् । पत्नीवतः । पत्युर्नो यज्ञसंयोगे । पा. ४-१-३३ । इति ङीप् । ईकारस्य च नकारः । ता एषां सन्तीति मतुप् । छन्दसीर इति वत्वम् । पतिशब्दो डतिप्रत्ययान्तत्वादाद्युदात्तः । ङीन्मतुपोरनुदात्तत्वात्प्रत्यय एव [?] शिष्यते । कृधि । कृञो लोटः सिः । सेर्ह्यपिच्चेति हिः । बहुलं छन्दसीति विकरणलुक् । श्रुशृणुपृकृवृभ्यश्छन्दसि । पा. ६-४-१०२ । इति हेर्धिरादेशः । ञित्त्वाद्गुणाभावः । मध्वः । उक्तम् । सुजिह्व । आमन्त्रितनिघातः । पायय । पा पाने । पिबन्तं प्रयुङ्क्ते इति हेतुमति चेति णिच् । शाच्छासाह्वाव्यावेपां युक् । पा. ७-३-३७ । इति युक् । पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वम् । … तिङ्ङतिङ इति निघातः ॥७॥
+> हे अग्ने तानिन्द्रादीन्देवान्यजत्रान्यजनीयान् ऋतावृधः सत्यस्य यज्ञस्य वा वर्धकान् पत्नीवतः पत्नीयुक्तान्कृधि । कुरु । हे सुजिह्व । शोभनजिह्वोपेत मध्वो मधुरस्य सोमस्य भागं देवान्पायय ॥ यजत्रान् । अमिनक्षियजिबन्धिपतिभ्योऽत्रन् । उ. ३-१०५ । इति यजेरत्रन्प्रत्ययः । ऋतावृधः । वृधु वृद्धौ । अन्तर्भावितण्यर्थात्क्विप्चेति क्विप् । अन्येषामपि दृश्यत इति पूर्वपदस्य दीर्घत्वं । वृधेर्धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वं । अग्ने । पादादित्वान्नामन्त्रितनिघातः । षाष्ठिकमाद्युदात्तत्वं । पत्नीवतः । पत्युर्नो यज्ञसंयोगे । पा. ४-१-३३ । इति ङीप् । इकारस्य च नकारः । ता एषां सन्तीति मतुप् । छन्दसीर इति वत्वं । पतिशब्दो डतिप्रत्ययान्तत्वादाद्युदात्तः । ङीम्मतुपोरनुदात्तत्वात्स एव शिष्यते । कृधि । कृञो लोटः सिः । सेर्ह्यपिच्चेति हिः । बहुलं छन्दसीति विकरणलुक् । श्रुशृणुपॄकृवृभ्यश्छन्दसि । पा. ६-४-१०२ । इति हेर्धिरादेशः । ङित्त्वाद्गुणाभावः । मध्वः । उक्तं । सुजिह्व । आमन्त्रितनिघातः । पायय । पा पाने । पिबन्तं प्रयुङ्क्त इति हेतुमति चेति णिच् । शाछासाह्वाव्यावेपां युक् । पा. ७-३-३७ । इति युक् । पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वं । अत एवाव्यवधायकत्वान्मध्व इत्यपेक्ष्य तिङ्ङतिङ इति निघातः ॥
 >
-> *he agne tān indrādīn devān yajatrān yajanīyān ṛtāvṛdhaḥ satyasya yajñasya vā vardhakān patnīvataḥ patnī-yuktān kṛdhi | kuru | he sujihva | śobhana-jihvopeta madhvo madhurasya somasya bhāgaṃ devān pāyayeti śeṣaḥ || yajatrā | amina-kṣi-yaji-bandhi-patibhyas tran [?] | u. [?] | iti yajes tra-pratyayaḥ | ṛtāvṛdhaḥ | vṛdhu vṛddhau | antarbhāvita-ṇyarthāt kvip ca [?] iti kvip | āṅ-yeṣām api dṛśyate iti pūrvapadasya dīrghatvam | vṛddher dhātu-svaraḥ | samāse kṛd-uttarapada-prakṛti-svaratvam | agne | pādāditvān nāmantrite nighātaḥ | ṣāṣṭhikam ādyudāttatvam | patnīvataḥ | patyur no yajña-saṃyoge | pā. 4-1-33 | iti ṅīp | īkārasya ca nakāraḥ | tā eṣāṃ santīti matup | chandasīra iti vatvam | pati-śabdo ḍati-pratyayāntatvād ādyudāttaḥ | ṅīn-matupor anudāttatvāt pratyaya eva [?] śiṣyate | kṛdhi | kṛño loṭaḥ siḥ | ser hy apic ceti hiḥ | bahulaṃ chandasīti vikaraṇa-luk | śru-śṛṇu-pṛ-kṛ-vṛbhyaś chandasi | pā. 6-4-102 | iti her dhir ādeśaḥ | ñittvād guṇābhāvaḥ | madhvaḥ | uktam | sujihva | āmantrita-nighātaḥ | pāyaya | pā pāne | pibantaṃ prayuṅkte iti hetumati ceti ṇic | śācchāsāhvāvyāvepāṃ yuk | pā. 7-3-37 | iti yuk | pūrvasyāmantritasyāvidyamānavattvam | … tiṅ ataṅ iti nighātaḥ ||7||*
+> *he agne tānindrādīndevānyajatrānyajanīyān ṛtāvṛdhaḥ satyasya yajñasya vā vardhakān patnīvataḥ patnīyuktānkṛdhi | kuru | he sujihva | śobhanajihvopeta madhvo madhurasya somasya bhāgaṃ devānpāyaya || yajatrān | aminakṣiyajibandhipatibhyo 'tran | u. 3-105 | iti yajeratranpratyayaḥ | ṛtāvṛdhaḥ | vṛdhu vṛddhau | antarbhāvitaṇyarthātkvipceti kvip | anyeṣāmapi dṛśyata iti pūrvapadasya dīrghatvaṃ | vṛdherdhātusvaraḥ | samāse kṛduttarapadaprakṛtisvaratvaṃ | agne | pādāditvānnāmantritanighātaḥ | ṣāṣṭhikamādyudāttatvaṃ | patnīvataḥ | patyurno yajñasaṃyoge | pā. 4-1-33 | iti ṅīp | ikārasya ca nakāraḥ | tā eṣāṃ santīti matup | chandasīra iti vatvaṃ | patiśabdo ḍatipratyayāntatvādādyudāttaḥ | ṅīmmatuporanudāttatvātsa eva śiṣyate | kṛdhi | kṛño loṭaḥ siḥ | serhyapicceti hiḥ | bahulaṃ chandasīti vikaraṇaluk | śruśṛṇupṝkṛvṛbhyaśchandasi | pā. 6-4-102 | iti herdhirādeśaḥ | ṅittvādguṇābhāvaḥ | madhvaḥ | uktaṃ | sujihva | āmantritanighātaḥ | pāyaya | pā pāne | pibantaṃ prayuṅkta iti hetumati ceti ṇic | śāchāsāhvāvyāvepāṃ yuk | pā. 7-3-37 | iti yuk | pūrvasyāmantritasyāvidyamānavattvaṃ | ata evāvyavadhāyakatvānmadhva ityapekṣya tiṅṅatiṅa iti nighātaḥ ||*
 
-**Translation:** "O Agni! Make those gods — Indra and the rest — *yajatrāḥ*: worthy of worship; *ṛtāvṛdhaḥ*: who cause the truth (or the sacrifice) to grow; *patnīvataḥ*: accompanied by their wives. *Kṛdhi*: do it. O *sujihva* — you of the beautiful tongue — [make them] drink their share of the sweet (*madhvaḥ*) soma." The rest is grammar: *yajatrā* (the Uṇādi *tran* after *yaj*; I give the sūtra as [?]); *ṛtāvṛdhaḥ* (*vṛdh* with *kvip*, the lengthening of the first member of the compound; the accent of the root); *agne* (as in earlier riks); *patnīvataḥ* (*pati* → *patnī* by P. 4-1-33 *patyur no yajña-saṃyoge* with *ṅīp* and the *n*; then *matup*, with *va* in the Veda); *kṛdhi* (*kṛ* + *loṭ*, *hi* → *dhi* by P. 6-4-102 *śru-śṛṇu-pṛ-kṛ-vṛbhyaś chandasi*); *pāyaya* (the causative of *pā* "to drink", with *yuk* by P. 7-3-37 *śācchāsāhvāvyāvepāṃ yuk*). *(Grammar, noted briefly; the sūtra numbers 4-1-33, 6-4-102 and 7-3-37 are as read and agree with the standard numbering.)*
+**Translation:** "O Agni, make those gods, Indra and the rest, *yajatrāḥ*, worthy of worship, *ṛtāvṛdhaḥ*, who make the truth or the sacrifice grow, *patnīvataḥ*, accompanied by their wives: *kṛdhi*, do so. O *sujihva*, you of the fine tongue, make the gods drink their share of the *madhvaḥ*, the sweet soma." (Grammatical tail: *yajatrān* with *atran* (Uṇ. 3-105); *ṛtāvṛdhaḥ*, *vṛdh* with the inner causative and *kvip*, the first member lengthened, the accent of the *kṛt* second member; *agne*, at the head of the pāda, not lowered, initial udātta; *patnīvataḥ*, *ṅīp* and *n* by Pā. 4-1-33, *matup* with *v*, *pati* initial udātta (*ḍati*); *kṛdhi*, *hi*, the *vikaraṇa* dropped, *dhi* by Pā. 6-4-102, no *guṇa*; *sujihva* lowered as a vocative; *pāyaya* from *pā* with *ṇic* and *yuk* (Pā. 7-3-37); the vocative before it counts as absent, so it is lowered after *madhvaḥ* by *tiṅṅatiṅaḥ*.)
 
-**Grammar pages (pp. 608–610), noted briefly.** The Kannada treats *yajatrān* (the Uṇādi sūtra *aminakṣiyajivadhipatibhyas tran*, Uṇ. 3-[?]; accent by the indicatory *n*; the *ru* of the accusative plural before a vowel by P. 8-3-4 [?]*, then the *anunāsika* by P. 8-3-2 [?]), *ṛtāvṛdhaḥ* (*ṛta* as upapada with *ṇic* hidden in the root; *kvip* by P. 3-2-76 [?]; *āṅ-yeṣām api dṛśyate* P. 6-3-[?]), *agne* (the vocative at the beginning of the pāda is accented first-syllable by P. 6-1-198, not unaccented by P. 8-1-19 [?]), and at some length *patnīvataḥ* — the rule *patyur no yajña-saṃyoge* (P. 4-1-33) and a discussion whether the word *pati* in this rule is the 'husband' who is a sacrificer with his wife (the *saha-adhikāra* of couples in the sacrifice, supported by the Kaiyaṭa's gloss *patnī-ṅīṣ-ca dampatyor yajña-adhikāra*, and by the Pūrva-Mīmāṃsā passages in Adhyāya 6, Pāda 1 about the couple's joint right), with the point that the word *pati* here means "lord" (*aiśvarya*), as in the Mahābhāṣya, and that the feminine-with-*n* occurs where the *aiśvarya* arises from connection with the sacrifice. Then *matup* with *chandasīra* *va*; *pati* by the Uṇādi *ḍati* (Uṇ. 4-[?]); *kṛdhi* and *pāyaya* as above; with a discussion of the roots *pā* "to protect" and *pā* "to drink" and the *yuk* augment. *(A crowded run of four pages; reproduced in outline only; I did not chase the numerals.)*
+### Page 608 — Rik 7: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 608)*
+**॥ Prati-padārthaḥ ॥**
 
-**अग्ने (agne)** — O Agni | **यजत्रान् (yajatrān)** — worthy of worship | **पत्नीवतः (patnīvataḥ)** — accompanied by their wives | **तान् (tān)** — those gods beginning with Indra | **ऋतावृधः (ṛtāvṛdhaḥ)** — as those who make the sacrifice (the truth) grow | **कृधि (kṛdhi)** — make [them so] | **सुजिह्व (sujihva)** — O Agni of the radiant tongue | **मध्वः (madhvaḥ)** — the sweet soma-juice | **पायय (pāyaya)** — make [them] drink. *(The print has* पायय *as in the Saṃhitā.)*
+**अग्ने (agne)** — O Agni | **यजत्रान् (yajatrān)** — worthy of worship | **पत्नीवतः (patnīvataḥ)** — joined with their wives | **तान् (tān)** — those gods, Indra and the rest | **ऋतावृधः (ṛtāvṛdhaḥ)** — as makers of the sacrifice (the truth) to grow | **कृधि (kṛdhi)** — make | **सुजिह्व (sujihva)** — O Agni of the shining tongue | **मध्वः (madhvaḥ)** — the sweet soma juice | **पायय (pāyaya)** — make (them) drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! Indra and the other gods are worthy of worship. Call them together with their wives, and make our sacrifice prosper — to our great joy. O Agni, you of the radiant tongue, make Indra and the other gods drink the sweet soma-juice.
+O Agni, Indra and the other gods are worthy of worship. Bring them with their wives and help so that our sacrifice prospers. O Agni, whose tongue can taste sweetness, make Indra and the other gods too drink the sweet soma juice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O sweet tongued Agni, put those adorable gods with their wives here and make them drink of the sweet Soma
 
-*(The print has no full stop at the end.)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 608)*
+**Yajatrān**: *yajanīyān*, worthy of worship.
 
-**यजत्रान् (yajatrān)** — *yajanīyān*: those worthy of worship.
+**Patnīvataḥ**: accompanied by their wives.
 
-**पत्नीवतः (patnīvataḥ)** — those accompanied by their wives.
+**Ṛtāvṛdhaḥ**: *ṛtasya satyasya vā yajñasya vardhakān*: those who make the sacrificial act grow, who make it go on without obstacle.
 
-**ऋतावृधः (ṛtāvṛdhaḥ)** — *ṛtasya satyasya vā yajñasya vardhakān*: "those who make the sacrificial act grow" — who cause it to proceed without obstacles.
+**Madhvaḥ**: means "of the soma juice". If the word *bhāgam* is supplied, it means "the share of the soma juice".
 
-**मध्वः (madhvaḥ)** — "of the soma-juice". If the word *bhāgam* ("portion") is supplied (*adhyāhāra*), the sense becomes "a portion of the soma-juice".
+### Page 609 — Rik 7: grammar
 
-**Rik 7, grammar tail (p. 611, upper part), noted briefly.** The discussion of *pāyaya* ends: the root *pā* "to protect" (second conjugation, with *luk* of the vikaraṇa) and *pā* "to drink" (first conjugation, *aluk*) are both possible bases of *pāyi*; the rule on *luk*/*aluk* directs the choice to the root of the first class. *Pāyaya* is thus *pā* + *ṇic* + *yuk* (*pāy*) + *loṭ* + *sip*, with *śap*, the guṇa, the *ay* substitute, and *hi* for *si* with *luk* of *hi*. The preceding vocative *sujihva* is treated as non-existent (P. 8-1-72 *āmantritaṃ pūrvam avidyamānavat*) so that it does not intervene; hence, with *madhvaḥ* as the cause, *pāyaya* is wholly unaccented by P. 8-1-28 *tiṅ ātiṅaḥ* [as read: *tiṅ atiṅaḥ*]. *(Grammar page; sūtra numerals as read from small print; pointers only.)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 609–611, noted briefly)*
+
+**यजत्रान् (*yajatrān*)**: "aminakṣiyajivadhipatibhyo 'tran" (Uṇ. sū. "3-385" [?]; *ama gatyādiṣu*, *nakṣa gatau*, *yaja devapūjādau*, *vadha hiṃsāyām*, *patḷ gatau*): the suffix *atran* after *yaj*; *nit*, so *yajatra* is initial udātta by the *nit* accent; accusative plural *yajatrān*. In the Saṃhitā, before the *ṛ*, "dīrghād aṭi samānapāde" (Pā. sū. 8-3-9) gives *ru* for the *n*, and "āto 'ṭi nityam" (Pā. sū. 8-3-3) a nasal *ā*.
+
+**ऋतावृधः (*ṛtāvṛdhaḥ*)**: in the sense *ṛtaṃ vardhayanti*, *kvip* by "kvip ca" (Pā. sū. 3-2-76) after *vṛdh* with the inner *ṇic* and *ṛta* as *upapada*; the ending dropped; by "anyeṣām api dṛśyate" (Pā. sū. 6-3-137) the first member *ṛta* is lengthened; accusative plural. In *ṛtāvṛdhaḥ*, "dhātoḥ" (Pā. sū. 6-1-162) gives final udātta; after compounding, the accent of the *kṛt* second member remains.
+
+**अग्ने (*agne*)**: it is at the head of the pāda, so the eighth-adhyāya "āmantritasya ca" (Pā. sū. 8-1-19) does not lower it; the sixth-adhyāya "āmantritasya ca" (Pā. sū. 6-1-198) makes it initial udātta.
+
+**पत्नीवतः (*patnīvataḥ*)**: "patyur no yajñasaṃyoge" (Pā. sū. 4-1-33): in the feminine, when connection with a sacrifice is shown, *n* replaces the last letter of *pati*: *patn*; ending in *n*, it takes *ṅīp* by "ṛnnebhyo ṅīp" (Pā. sū. 4-1-5): *patnī*. In the Vedābhyāsa the sūtra is explained to mean that *ṅīp* comes after *pati* in the feminine and *n* for the *i*; on that view, from the difference of what is enjoined, faults such as splitting the sentence arise, so other grammarians do not accept it. In Śrutis such as *svargakāmo yajeta* the masculine *svargakāmaḥ* is used, so performing the sacrifice and enjoying its fruit belong to the man. How then does a woman have a connection with the sacrifice? And without such connection, how would the *n* of *yajñasaṃyoge* fit? Because in the sacrifice the authority belongs to husband and wife together: a man who is a widower has no authority to perform it. Under this sūtra the Kaiyaṭa shows: *patnyā śiṣṭa dampatyoḥ sahādhikārād yajñe 'dhikārāt kartṛtvāt tatphalasambandhād yajñasaṃyogaḥ*. In the Pūrvamīmāṃsā too, in the sixth adhyāya, first pāda, in the *adhikaraṇa* *liṅgaviśeṣanirdeśāt puṃyuktam aitiśāyanaḥ* and in the *adhikaraṇa* *svavato 'stu vacanād aikakarmyaṃ syāt*, the joint authority of husband and wife is established. *Patiśabdo 'yam aiśvarya-*
+
+### Page 610 — Rik 7: grammar (continued)
+
+*vācī*: in the Mahābhāṣya the word *pati* in this sūtra is shown to mean "lordship". Then *yajñasaṃyoge* is a locative absolute: when there is a connection with the sacrifice, the word *pati*, meaning the lordship that arises, by proximity, from that sacrifice, takes *n* in the feminine: that is the sense of the sūtra. Analysed *patnyaḥ eṣāṃ santi*, *matup* by "tad asyāsty asminn iti matup" (Pā. sū. 5-2-94); *v* for the *m* by "chandasīraḥ" (Pā. sū. 8-2-15): *patnīvat*. By "pāter ḍatiḥ" (Uṇ. sū. 4-57 [as printed; p. 595 prints 4-58]) *pati* ends in the suffix *ḍati*, so it is initial udātta by the suffix accent; *ṅīp* and *matup* are both *pit*, so unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4); the initial udātta remains; accusative plural *patnīvataḥ*.
+
+**कृधि (*kṛdhi*)**: *ḍukṛñ karaṇe*; *loṭ*, 2nd singular *sip*; *hi* for *si* by "ser hy apic ca" (Pā. sū. 3-4-87); the *u* *vikaraṇa* of "tanādikṛñbhya uḥ" (Pā. sū. 3-1-79) is dropped by "bahulaṃ chandasi" (Pā. sū. "9-4-73" [as printed, for 2-4-73]); "śruśṛṇupṝkṛvṛbhyaś chandasi" (Pā. sū. 6-4-102) gives *dhi* for the *hi* after these; by "sārvadhātukam apit" (Pā. sū. 1-2-4) the suffix is *ṅit*, and "kṅiti ca" (Pā. sū. 1-1-5) bars the *guṇa*: *kṛdhi*; wholly unaccented by "tiṅṅatiṅaḥ".
+
+**मध्वः (*madhvaḥ*)**: in Sū. 13 Ṛk 2 *madhu* was shown to be initial udātta. It is neuter, but here masculine by *vyatyaya*. Genitive singular "jas" [as printed, for *ṅas*]. By "śeṣo ghy asakhi" (Pā. sū. 1-4-7) short *i*/*u*-final words other than *sakhi* that are not *nadī* are called *ghi*; so "gher ṅiti" (Pā. sū. 7-3-111) would give *guṇa* before a *ṅit* ending; but by "saṃjñāpūrvako vidhir anityaḥ" (paribhāṣā) the *guṇa* does not come. *Yaṇ*, *ru*, visarga: *madhvaḥ*.
+
+**सुजिह्व (*sujihva*)**: lowered as a vocative.
+
+**पायय (*pāyaya*)**: *pā pāne*; in the sense *pibantaṃ prayuṅkte* (one who urges the one drinking), *ṇic* by "hetumati ca" (Pā. sū. 3-1-26); "śāchāsāhvāvyāvepāṃ yuk" (Pā. sū. "7-3-37" [?]; *śo tanūkaraṇe*, *cho chedane*, *ṣo 'ntakarmaṇi*, *hveñ spardhāyām*, *vyeñ saṃvaraṇe*, *veñ tantusantāne*, *pā pāne*): before *ṇi* these roots take the augment *yuk*: *pāy* + *i*. There are two roots, *pā rakṣaṇe* (*adādi*, with *luk* of the *vikaraṇa*) and *pā pāne* (*bhvādi*, without it); by "lugvikaraṇālugvikaraṇayor alugvikaraṇasya" (paribhāṣā "83" [?]), when both are possible,
+
+### Page 611 — Rik 7: grammar (end)
+
+the one without *luk* is taken, so the *bhvādi* root is meant. After *pāyi*, *loṭ*, *sip*, the *vikaraṇa* *śap*, *guṇa*, *ay*, *hi* for *si* and its *luk*: *pāyaya*. For the vocative *sujihva* before it, "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. 8-1-72) makes it count as absent; so it does not intervene, and with reference to *madhvaḥ* "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) makes *pāyaya* wholly unaccented.
+
+**॥७॥**
+
+---
 
 ### Pages 611–613 — Sūkta 14, Rik 8
 
