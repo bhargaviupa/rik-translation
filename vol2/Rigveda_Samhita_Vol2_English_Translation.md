@@ -6199,21 +6199,21 @@ O Indra! You are the one who fulfils all our desires. For that very reason, make
 
 ### Page 282, 283
 
-*(Continuation of the Rik 6 grammar above — the long treatment of* asmabhyam*; page 283's first part completes the analysis of* apratiṣkutaḥ *and closes with the number* ॥६॥*.)*
-
-**॥६॥**
+*(Page 283 header: "A. 1, A. 1, Va. 14." The grammar of "asmabhyam" and "apratiṣkutaḥ" is characterized above under p. 281.)* On the "abhyam" view (p. 283), "asma + abhyam" gives no "e" or lengthening; by **अतो गुणे** (पा. सू. ६-१-९७) the later form, and by "ekādeśa udāttenodāttaḥ" "sma" is acute. **"Apratiṣkutaḥ"** — "kenacid apratiśabditaḥ" (one who does not utter "no" for any reason): "kuṅ śabde," **निष्ठा** (पा. सू. ३-२-१०२) "kta" in the past sense; "prati" before it; **पारस्करप्रभृतीनि च संज्ञायाम्** (पा. सू. ६-१-१५७) — the "pāraskarādi" class, an ākṛtigaṇa, takes "suṭ": "prati + skuta"; **सुषामादिषु च** (पा. सू. ८-३-९८), also an ākṛtigaṇa, "ṣ": "pratiṣkutaḥ"; in the nañ-compound **तत्पुरुषे तुल्यार्थ…** (पा. सू. ६-२-२) keeps the accent of the indeclinable first member. ॥६॥
 
 ---
 
 ### Sūkta 7, Rik 7
 
+*(Saṃhitā accents as printed (print anusvāra kept in "तुंजे"); Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तुञ्जेतुञ्जे य उत्तरे स्तोमा इन्द्रस्य वज्रिणः ।
-> न विन्धे अस्य सुष्टुतिम् ॥७॥
+> तुं॒जेतुं॑जे॒ य उत्त॑रे॒ स्तोमा॒ इन्द्र॑स्य व॒ज्रिणः॑ ।
+> न वि॑न्धे अस्य सुष्टु॒तिम् ॥७॥
 >
-> *tuñje-tuñje ya uttare stomā indrasya vajriṇaḥ |*
-> *na vindhe asya suṣṭutim ||7||*
+> *tuñjé-tuñje yá úttare stómā índrasya vajríṇaḥ |*
+> *ná vindhe asya suṣṭutím ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6227,29 +6227,28 @@ O Indra! You are the one who fulfils all our desires. For that very reason, make
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> तुञ्जे तुञ्जे तस्मिन्स्तस्मिन्फलदातरि देवान्तरे ये स्तोमाः [?] स्तोत्रविशेषा उत्तरे उत्कृष्टाः सन्ति तैः स्तोमैः सर्वैरपि वज्रिणो वज्रयुक्तस्यास्येन्द्रस्य सुष्टुतिं योग्यां शोभनस्तुतिं न विन्धे । न विन्दामि । इन्द्रस्यात्यन्तगुणबाहुल्येन देवान्तरेषूत्तमत्वेन प्रसिद्धान्यपि स्तोत्राणि न पर्याप्तानीत्यर्थः । एतामृचं यास्क एवं व्याचष्टे । तुञ्जस्तुञ्जतेर्दानकर्मणः । दाने दाने य उत्तरे स्तोमा इन्द्रस्य वज्रिणो नास्य तैर्विन्दामि समाप्तिं स्तुतेः । नि. ६-१४ [?] । इति ॥
+> तुञ्जे तुञ्जे तस्मिन्स्तस्मिन्फलदातरि देवान्तरे ये सोमाः स्तोत्रविशेषा उत्तरे उत्कृष्टाः सन्ति तैः स्तोमैः सर्वैरपि वज्रिणो वज्रयुक्तस्यास्येन्द्रस्य सुष्टुतिं योग्यां शोभनस्तुतिं न विन्धे । न विन्दामि । इन्द्रस्यात्यन्तगुणबाहुल्येन देवान्तरेषूत्तमत्वेन प्रसिद्धान्यपि स्तोत्राणि न पर्याप्तानीत्यर्थः । एतामृचं यास्क एवं व्याचष्टे । तुञ्जस्तुञ्जतेर्दानकर्मणः । दाने दाने य उत्तरे स्तोमा इन्द्रस्य वज्रिणो नास्य तैर्विन्दामि समाप्तिं स्तुतेः । नि. ६-१८ । इति ॥
 >
-> *tuñje tuñje tasmin tasmin phala-dātari devāntare ye stomāḥ [?] stotra-viśeṣā uttare utkṛṣṭāḥ santi taiḥ stomaiḥ sarvair api vajriṇo vajra-yuktasyāsyendrasya suṣṭutiṃ yogyāṃ śobhana-stutiṃ na vindhe | na vindāmi | indrasyātyanta-guṇa-bāhulyena devāntareṣūttamatvena prasiddhāny api stotrāṇi na paryāptānīty arthaḥ | etām ṛcaṃ yāska evaṃ vyācaṣṭe | tuñjas tuñjater dāna-karmaṇaḥ | dāne dāne ya uttare stomā indrasya vajriṇo nāsya tair vindāmi samāptiṃ stuteḥ | ni. 6-14 [?] | iti ||*
+> *tuñje tuñje tasmin tasmin phala-dātari devāntare ye somāḥ stotra-viśeṣā uttare utkṛṣṭāḥ santi taiḥ stomaiḥ sarvair api vajriṇo vajra-yuktasyāsyendrasya suṣṭutiṃ yogyāṃ śobhana-stutiṃ na vindhe | na vindāmi | indrasyātyanta-guṇa-bāhulyena devāntareṣūttamatvena prasiddhāny api stotrāṇi na paryāptānīty arthaḥ | etām ṛcaṃ yāska evaṃ vyācaṣṭe | tuñjas tuñjater dāna-karmaṇaḥ | dāne dāne ya uttare stomā indrasya vajriṇo nāsya tair vindāmi samāptiṃ stuteḥ | ni. 6-18 | iti ||*
 
-**Translation:** "*Tuñje tuñje*: in each and every other deity, a giver of fruits, whatever *stomas* — special hymns of praise — are superior and excellent; with all those stomas I do not find (*na vindhe*, I do not obtain) a proper, fine praise (*suṣṭuti*) of this thunderbolt-bearing Indra. The sense: because of the extreme abundance of Indra's qualities, even those hymns famed as the best addressed to other gods are not sufficient. Yāska explains this rik thus: '*tuñja* is from *tuñjati*, a verb of giving. In each giving, whatever superior stomas there are of Indra the vajrin — with them I do not find the completion of his praise' (Nirukta 6-14 [?])."
+**Translation:** "*Tuñje tuñje*: in each and every other deity, a giver of fruits, whatever *stomas* ("somāḥ" as printed) — special hymns of praise — are superior and excellent; with all those stomas I do not find (*na vindhe*, I do not obtain) a proper, fine praise (*suṣṭuti*) of this thunderbolt-bearing Indra. The sense: because of the extreme abundance of Indra's qualities, even those hymns famed as the best addressed to other gods are not sufficient. Yāska explains this rik thus: '*tuñja* is from *tuñjati*, a verb of giving. In each giving, whatever superior stomas there are of Indra the vajrin — with them I do not find the completion of his praise' (Nirukta 6-18)."
 
 *(The rest of the Sanskrit on pp. 284–285 is Sāyaṇa's grammar of* तुञ्जे*,* उत्तरे*,* स्तोमाः*,* विन्धे*,* अस्य*,* सुष्टुतिम्*, **dominated by a long scholastic argument** (an objection and replies) on whether the prefix* su *in* suṣṭutim *is an* upasarga *whose presence causes* s *to become* ṣ *and fixes the accent, or whether it qualifies the instrument of praise rather than the act of praising. Characterized, not transcribed (Convention 5); the conclusion that bears on the sense is given at the end of p. 285 and translated there.)*
 
 ### Page 284
 
-*(Sanskrit continues: Yāska's gloss as above; then the word-by-word grammar of* tuñje tuñje *(doubling, the second member being* āmreḍita *and unaccented),* uttare *(from* ud + *root* tṝ *with* ap *;* ud *meaning "excellent"),* stomāḥ *(from* stu *with* man*),* vinde*/*vindhe *(root* vid lābhe*; ātmanepada; the Vedic* dh*),* asya*, and then the opening of the* suṣṭutim *debate. Characterized as above.)*
-
+*(Sāyaṇa's grammar of Rik 7, characterized; references as printed.)* "Tuñje tuñje" — "tuñjatir dānakarmā": **कर्तरि पचाद्यच्** (as printed; पा. ३-१-१३४) "ac," "c"-marked, end-acute; doubled by **नित्यवीप्सयोः** (पा. ८-१-४); the second is "āmreḍita" (पा. ८-१-२) and unaccented (पा. ८-१-३); "dātari dātari" — the Nirukta's "dāne dāne" explains the sense. "Uttare" — "tṝ plavanataraṇayoḥ," **भावे ऋदोरप्** (as printed; पा. ३-३-५७); "ut" in the sense of excellence; "utkṛṣṭas taro yasya," a bahuvrīhi; "ut" first-syllable acute as a nipāta, kept by the bahuvrīhi rule. "Stomāḥ" — "artistusu…" (उ. १-१३९), "man"; "n"-marked, first-syllable acute. "Vindhe" — "vidḷ lābhe," "laṭ," ātmanepada as "svaritet"; first singular "iṭ" (पा. ३-४-७८); **तुदादिभ्यः शः** (पा. ३-१-७७); "num" by **शे मुचादीनाम्** (पा. ७-१-५९); "dh" for "d" by vyatyaya. "Asya" — of Indra, the subject at hand: "idam" → "aś" by **इदमोऽश्** (as printed; पा. २-४-३२), "ś"-marked, replacing the whole, unaccented. "Suṣṭutim" — "ṣṭuñ stutau," "dhātvādeḥ ṣaḥ saḥ" (पा. ६-१-६४); **स्त्रियां क्तिन्** (पा. ३-३-९४) "ktin" in the action sense; acute by "ūtiyūti…"; compounded with "su" by "kugatiprādayaḥ" (पा. २-२-१८); "ṣ" by **उपसर्गात्सुनोति…** (पा. ८-३-६५). The accent of the indeclinable first member would hold, but is set aside by "gatikārakopapadāt kṛt" (पा. ६-२-१३९), and that in turn by **तादौ च निति कृत्यतौ** (पा. ६-२-५०), so the gati "su" would be acute; that too is set aside by **मन्क्तिन्व्याख्यान…** (पा. ६-२-१५१), giving the end-acute of the second member, as in "suhavāṃ suṣṭutī huve" (ऋग्वे. २-३२-४), "vṛṣṇe codasva suṣṭutim" (ऋग्वे. ८-६४-६ [?]), "yās te rāke sumatayaḥ" (ऋग्वे. २-३२-५). But "kārakād dattaśrutayor evāśiṣi" (पा. ६-२-१४८) shows that "kāraka" carries on, so "manktin…" applies only after a kāraka, as with "prakṛtiḥ, prahṛtiḥ"; to this the reply is that "stūyate 'nayeti stutiḥ" — "ktin" in the instrument sense — and "su" qualifies the instrument, so it is a kāraka … An objection follows: then "su," not joined to the action, is no upasarga by **उपसर्गाः क्रियायोगे** (पा. १-४-५९), and no "ṣ" … *(the argument continues on p. 285).*
 ### Page 285 — Rik 7
 
-*(First lines: the* suṣṭutim *debate concludes that the su qualifies the instrument [karaṇa] of praise; as a closing note Sāyaṇa adds the alternative analysis of the word. The Sanskrit tail of the page is translated here.)*
+*(Page header: "A. 1, A. 1, Va. 14." The upper part ends the "suṣṭutim" debate: "su" connects with the act through the instrument, so it is an upasarga by implication and the "ṣ" holds; or, since the accent is settled by taking the two affixes' sense, the "ṣ" may be taken as Vedic; or, as a bahuvrīhi "śobhanā stutir yasya," the end-acute comes by **नञ्सुभ्याम्** (पा. ६-२-१७२). The Sanskrit tail is translated here.)*
 
-> अथवा सुष्ठु स्तुवन्तीति सुष्टुतय इति करणभूता ऋचः स्तुतिशब्देनोच्यन्ते । क्तिच्क्तौ च संज्ञायाम् । पा. ३-३-१७४ [?] । इति क्तिच्प्रत्यये सति चित्त्वादन्तोदात्तता भविष्यति । न च करणीभूतानामृचां कर्तृप्रत्ययेन क्रिया कथमभिधानमिति वाच्यम् । काष्ठानि पचन्तीतिवत्तासामपि स्वव्यापारप्राधान्यविवक्षया करणत्वोपपत्तेरिति ॥
+> अथवा सुष्ठु स्तुवन्तीति सुष्टुतय इति करणभूता ऋचः स्तुतिशब्देनोच्यन्ते । क्तिच्क्तौ च संज्ञायाम् । पा. ३- -१७४ । इति क्तिच्प्रत्यये सति चित्त्वादन्तोदात्तता भविष्यति । न च करणीभूतानामृचां कर्तृप्रत्ययेन क्रिया कथमभिधानमिति वाच्यम् । काष्ठानि पचन्तीतिवत्तासामपि स्वव्यापारप्राधान्यविवक्षया करणत्वोपपत्तेरिति ॥
 >
-> *athavā suṣṭhu stuvantīti suṣṭutaya iti karaṇa-bhūtā ṛcaḥ stuti-śabdenocyante | ktic-ktau ca saṃjñāyām | pā. 3-3-174 [?] | iti ktic-pratyaye sati cittvād antodāttatā bhaviṣyati | na ca karaṇībhūtānām ṛcāṃ kartṛ-pratyayena kriyā katham abhidhānam iti vācyam | kāṣṭhāni pacantīti-vat tāsām api sva-vyāpāra-prādhānya-vivakṣayā karaṇatvopapatter iti ||*
+> *athavā suṣṭhu stuvantīti suṣṭutaya iti karaṇa-bhūtā ṛcaḥ stuti-śabdenocyante | ktic-ktau ca saṃjñāyām | pā. 3- -174 | iti ktic-pratyaye sati cittvād antodāttatā bhaviṣyati | na ca karaṇībhūtānām ṛcāṃ kartṛ-pratyayena kriyā katham abhidhānam iti vācyam | kāṣṭhāni pacantīti-vat tāsām api sva-vyāpāra-prādhānya-vivakṣayā karaṇatvopapatter iti ||*
 
-**Translation:** "Or else, in the analysis '*those which praise well* — *suṣṭutayaḥ*', the ṛks that are the instruments [of praise] are called by the word *stuti*. By the sūtra '*ktic-ktau ca saṃjñāyām*' (Pā. 3-3-174 [?]), when the suffix *ktic* is added, final-udātta accent results, because of the marker *c*. Nor should it be objected: 'how can ṛks that are mere instruments be spoken of by an agent-suffix, as doing the act?' — for, as in '*kāṣṭhāni pacanti*' ('the logs cook'), where the log, though instrumental to cooking, is given independence in its own function (*svatantraḥ kartā*, Pā. 1-4-54), in the same way, taking the activity of the ṛks as principal, their instrumentality is perfectly consistent even though an agent-suffix is used."
+**Translation:** "Or else, in the analysis '*those which praise well* — *suṣṭutayaḥ*', the ṛks that are the instruments [of praise] are called by the word *stuti*. By the sūtra '*ktic-ktau ca saṃjñāyām*' (printed "Pā. 3- -174," the middle number missing; 3-3-174), when the suffix *ktic* is added, final-udātta accent results, because of the marker *c*. Nor should it be objected: 'how can ṛks that are mere instruments be spoken of by an agent-suffix, as doing the act?' — for, as in '*kāṣṭhāni pacanti*' ('the logs cook'), where the log, though instrumental to cooking, is given independence in its own function (*svatantraḥ kartā*, Pā. 1-4-54), in the same way, taking the activity of the ṛks as principal, their instrumentality is perfectly consistent even though an agent-suffix is used."
 
-*(The sūtra reference is as it appears in the Kannada print; the same sūtra is cited in the Kannada Vyākaraṇa-prakriyā on p. 290 — see below.)*
+
 
 **॥ Prati-padārthaḥ ॥**
 
