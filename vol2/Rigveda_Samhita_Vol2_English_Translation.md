@@ -15445,55 +15445,109 @@ laghūpadhasya ca" (Pā. sū. 7-3-86) the *laghūpadha-guṇa*, followed by *r*:
 
 ---
 
-### Pages 718–723 — Sūkta 17, Rik 3
+### Page 718 (lower) — Sūkta 17, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अनुकामं तर्पयेथामिन्द्रावरुण राय आ ।
-> ता वां नेदिष्ठमीमहे ॥३॥
+> अ॒नु॒का॒मं त॑र्पयेथा॒मिन्द्रा॑वरुण रा॒य आ । [accent ?]
+> ता वां॒ नेदि॑ष्ठमीमहे ॥३॥
 >
-> *anukāmaṃ tarpayethām indrāvaruṇa rāya ā |*
-> *tā vāṃ nediṣṭham īmahe ||3||*
+> *anukāmáṃ tarpayethām índrāvaruṇa rāyá ā |* [accent ?]
+> *tā vāṃ nédiṣṭham īmahe ||3||*
+
+*(Bars under अ, नु, का, था and रा; strokes over त and द्रा. The bar under अ is faint.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > अनुऽकामम् । तर्पयेथाम् । इन्द्रावरुणा । रायः । आ ॥
 > ता । वाम् । नेदिष्ठम् । ईमहे ॥३॥
 >
-> *anu-kāmam | tarpayethām | indrāvaruṇā | rāyaḥ | ā ||*
+> *anu 'kāmam | tarpayethām | indrāvaruṇā | rāyaḥ | ā ||*
 > *tā | vām | nediṣṭham | īmahe ||3||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the shortened* indrāvaruṇa*; the Pada the long* indrāvaruṇā*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 718–719; compressed; [?] marks doubtful readings)*
-
-> इन्द्रावरुणा हे इन्द्रावरुणौ अनुकामं अस्मदीयाभिलाषमनु रायो धनस्य प्रदानेना तर्पयेथाम् । सर्वतोऽस्मांस्तृप्तान्कुरुतम् । वयं यदा यदा धनं कामयामहे तदा तदा प्रयच्छतमित्यर्थः । ता वां तादृशौ युवां नेदिष्ठमतिशयेन सामीप्यं यथा भवति तथा ईमहे । याचामहे कालविलम्बनं विना धनं दातव्यमित्यर्थः । सप्तदशसु या ज्ञाकर्मस्विमहे इति पठितम् ॥ अनुकामम् । कामस्य पश्चादनुकामम् । अथवा कामे कामेऽनुकामम् । अनुरिह पश्चादर्थे । अथवा वीप्सालक्षणे यथार्थे । योग्यता वीप्सा पदार्थानतिवृत्तिः सादृश्यं चेति चत्वारो हि यथार्था गृहीताः । अव्ययं विभक्तीत्यादिना । पा. [२-१-६] । अव्ययीभावसमासः । अव्ययीभावश्च । पा. [१-१-४१] । इत्यव्ययसंज्ञा । अव्ययादाप्सुपः । पा. [२-४-८२] । इति प्राप्तस्य लुकोऽपवादो नाव्ययीभावादतोऽम्त्वपञ्चम्याः । पा. [२-४-८३] । इति विभक्तेरमादेशः । समासस्यैत्यन्तोदात्तत्वम् । तर्पयेथाम् । तृप प्रीणने । णिजन्तात्कर्तृस्थाभिप्राये लोट् । … आथाम् । टेरेत्वम् । आमेतः । … आतोऽङ् । … । इन्द्रावरुणा । सुपां सुलुगिति द्विवचनस्याकारः । आमन्त्रिताद्युदात्तत्वम् । संहितायामाकारस्य ह्रस्वत्वम् । रायः । रै शब्दः … जसि । रायः ।… । ता । सुपां सुलुगिति विभक्तेराकारः । वाम् । पदात्परस्याद्युदात्तस्य वामादेशोऽनुदात्तः । नेदिष्ठम् । अन्तिकस्यातिशयेनान्तिकम् । अतिशायने तमबिष्ठनौ । पा. [५-३-५५] । इष्ठन् । अन्तिकबाढयोर्नेदसाधौ । पा. [५-३-६३] । इति नेदादेशः । यस्येति लोपः । इष्ठन्प्रत्ययस्य नित्त्वादाद्युदात्तः । ईमहे । ईङ् गतौ । ङित्त्वादात्मनेपदम् । बहुलं छन्दसीति श्यनो लुक् । निघातः ॥३॥
+> इन्द्रावरुणा हे इन्द्रावरुणौ अनुकाममस्मदीयाभिलाषमनु रायो धनस्य प्रदानेन तर्पयेथाम् । सर्वतोऽस्मांस्तृप्तान्कुरुतम् । वयं यदा यदा धनं कामयामहे तदा तदा प्रयच्छतमित्यर्थः । ता वां तादृशौ युवां नेदिष्ठ-
 >
-> *indrāvaruṇā he indrāvaruṇau anukāmaṃ asmadīyābhilāṣam anu rāyo dhanasya pradānenā tarpayethām | sarvato 'smāṃs tṛptān kurutam | vayaṃ yadā yadā dhanaṃ kāmayāmahe tadā tadā prayacchatam ity arthaḥ | tā vāṃ tādṛśau yuvāṃ nediṣṭham atiśayena sāmīpyaṃ yathā bhavati tathā īmahe | yācāmahe kāla-vilambanaṃ vinā dhanaṃ dātavyam ity arthaḥ | saptadaśasu yā jñā-karmasv imahe iti paṭhitam || anukāmam | kāmasya paścād anukāmam | athavā kāme kāme 'nukāmam | anur iha paścād arthe | athavā vīpsā-lakṣaṇe yathārthe | yogyatā vīpsā padārthānativṛttiḥ sādṛśyaṃ ceti catvāro hi yathārthā gṛhītāḥ | avyayaṃ vibhaktītyādinā | pā. [2-1-6] | avyayībhāva-samāsaḥ | avyayībhāvaś ca | pā. [1-1-41] | ity avyaya-saṃjñā | avyayād āpsupaḥ | pā. [2-4-82] | iti prāptasya luko 'pavādo nāvyayībhāvād ato 'm tv apañcamyāḥ | pā. [2-4-83] | iti vibhakter amādeśaḥ | samāsasyety antodāttatvam | tarpayethām | tṛpa prīṇane | ṇijantāt kartṛsthābhiprāye loṭ | … āthām | ṭer ettvam | āmetaḥ | … āto 'ṅ | … | indrāvaruṇā | supāṃ sulug iti dvivacanasyākāraḥ | āmantritādyudāttatvam | saṃhitāyām ākārasya hrasvatvam | rāyaḥ | rai śabdaḥ … jasi | rāyaḥ | … | tā | supāṃ sulug iti vibhakter ākāraḥ | vām | padāt parasyādyudāttasya vāmādeśo 'nudāttaḥ | nediṣṭham | antikasyātiśayenāntikam | atiśāyane tamab-iṣṭhanau | pā. [5-3-55] | iṣṭhan | antika-bāḍhayor nedasādhau | pā. [5-3-63] | iti nedādeśaḥ | yasyeti lopaḥ | iṣṭhan-pratyayasya nittvād ādyudāttaḥ | īmahe | īṅ gatau | ṅittvād ātmanepadam | bahulaṃ chandasīti śyano luk | nighātaḥ ||3||*
+> *indrāvaruṇā he indrāvaruṇau anukāmamasmadīyābhilāṣamanu rāyo dhanasya pradānena tarpayethām | sarvato 'smāṃstṛptānkurutam | vayaṃ yadā yadā dhanaṃ kāmayāmahe tadā tadā prayacchatamityarthaḥ | tā vāṃ tādṛśau yuvāṃ nediṣṭha-*
 
-**Translation:** "O Indra and Varuṇa! *Anukāmam* — according to our wish — satisfy (*ā tarpayethām*) us on all sides by giving wealth (*rāyaḥ*). The sense is: whenever we desire wealth, give it then. Such as you are, we ask you (*īmahe*) *nediṣṭham* — in the manner of being most near; the sense: we beg that wealth should be given without delay. *Īmahe* is read among the seventeen words for 'asking' (*yācñā-karman*)." The rest is grammar, noted briefly: *anukāmam* (*kāmasya paścāt*, or *kāme kāme* — here *anu* has the sense 'after' or 'each, in each case' [*vīpsā*]; an *avyayībhāva* compound by P. 2-1-6, with the name *avyaya* by P. 1-1-41; the case-ending would be dropped by P. 2-4-82 *avyayād āpsupaḥ*, but P. 2-4-83 *nāvyayībhāvād ato 'm tv apañcamyāḥ* gives *am* instead — except in the ablative; the accent of the final member of the compound); *tarpayethām* (*tṛp* "to please", causative; *loṭ* in the *ātmanepada* for the agent-sense; dual *āthām*, *ṭi* → *e* by P. 3-4-79, *āmetaḥ* P. 3-4-90); *indrāvaruṇā* (the dual *ā*; vocative accent; shortened in the Saṃhitā); *rāyaḥ* (*rai* + *jas*/*as* with *āy*, *ru*, *visarga*); *tā*; *vām* (the unaccented substitute for *yuṣmad* + *au*, after a word, by P. 8-1-20 *yuṣmadasmador*…); *nediṣṭham* (*antika* + *iṣṭhan* by P. 5-3-55 with *neda* for *antika* by P. 5-3-63; *yasyeti ca*; first-syllable accent through the *n*-mark of *iṣṭhan*); *īmahe* (*īṅ* "to go", *ātmanepada* from the *ṅ*-mark, *śyan* dropped by *bahulaṃ chandasi*; the verb unaccented). *(Grammar, noted briefly; P. 2-1-6, 1-1-41, 2-4-82, 2-4-83, 5-3-55 and 5-3-63 as read agree with the standard numbering.)*
+### Page 719 — Rik 3: bhāṣya (end), word-meanings, overall sense, English
 
-**Grammar pages (pp. 719 lower to 723 upper), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats: *anukāmam* (*kāmasya paścāt* or *kāme kāme*; *anu* is *paścāt* "after" in the first reading and *yathārtha*-*vīpsā* "each in turn" in the second; the Kannada lists the four senses of *yathā* — fitness, distribution, non-transgression of the sense of a word, and resemblance — and quotes the sūtra *avyayaṃ vibhaktisamīpasamṛddhivyṛddhyarthābhāvātyayāsampratiśabdaprādurbhāvapaścādyathānupūrvyayaugapadyasādṛśyasampattisākalyāntavacaneṣu* P. 2-1-6 — the sixteen meanings, beginning with *vibhakti* and ending with *anta*, as listed; the compound is *avyayībhāva*; *avyayībhāvaś ca* P. 1-1-41 gives it the name *avyaya*; P. 2-4-82 *avyayād āpsupaḥ* would drop the case-ending, but the exception *nāvyayībhāvād ato 'm tv apañcamyāḥ* P. 2-4-83 gives *am* after an *a*-ending *avyayībhāva*, except in the ablative, so the dropping does not occur, and *am* is substituted — *anukāma* + *am*, *ami pūrvaḥ* P. 6-1-107 → *anukāmam*; the compound's end accent by P. 6-1-223 *samāsasya*; *am* unaccented by P. 3-1-4; the substituted single vowel accented by P. 8-2-5 *ekādeśa udāttenodāttaḥ*), *tarpayethām* (*tṛp prīṇane*; *tatprayojako hetuś ca* P. 1-4-55 gives the causal agent the name *hetu*; *hetumati ca* P. 3-1-26 gives *ṇic*; the *ṇic* ending root takes *ātmanepada* by P. 1-3-74 *ṇicaś ca* in the agent-sense *kartṛsthābhiprāye kriyāphale*; *tṛp* + *i* + *āthām*; *ṭita ātmanepadānāṃ ṭer e* P. 3-4-79; *āmetaḥ* P. 3-4-90; guṇa of the *ṛ* by P. 7-3-86 *pugantalaghūpadhasya ca*; *śap* by P. 3-1-68 and guṇa by P. 7-3-84; *eco 'yavāyāvaḥ*; the *āthām* is not *pit*, so *ñit* by P. 1-2-4; *āto ṅitaḥ* P. 7-2-81 gives *iy* for the *ā* of a *ṅit* ending after *a*, and *ad guṇaḥ* P. 6-1-87 and *lopo vyor vali* P. 6-1-66 drop the *y*, giving *tarpayethām*; the Kannada's long note on *āto yeyaḥ* P. 7-2-80 — whether *yā* or *yāsṭ* takes *iy* — concludes that in *tarpay-e-th-ām* neither is present, so the *iy* of that sūtra does not arise, and the sūtra's use in explaining the shape of *iya* is *prāmādika*), *indrāvaruṇā* (explained at *indrāvaruṇayor aham*, Rik 1; here the vocative dual *au* → *ā* by P. 7-1-39 and *savarṇadīrgha*; at the start of the *pāda* so not unaccented, and first-syllable accented by P. 6-1-198; shortened in the Saṃhitā), *rāyaḥ* (*rai* — the word meaning wealth — + *as*; *rāyo hali* P. 7-2-85 gives *rā* for *rai* before a consonant; before a vowel *ai* → *āy* by P. 6-1-78; *s* → *ru* → *visarga*; the ending is accented by P. 6-1-171 *ūḍidampadādyappumrai-dyubhyaḥ*), *tā* (*tad* + *au*; P. 7-1-39 *ḍā*; *tyadādīnām aḥ* P. 7-2-102; *ato guṇe*; *savarṇadīrgha*), *vām* (follows a word; hence *yuvām*, in the dual accusative, replaced by the unaccented *vām* by P. 8-1-20 *yuṣmadasmador ṣaṣṭhīcaturthīdvitīyāsthayor vāṃnāvau*), *nediṣṭham* (*atiśayena antikam*; *atiśāyane tamabiṣṭhanau* P. 5-3-55; *antikabāḍhayor nedasādhau* P. 5-3-63 [as read] gives *neda* for *antika*; *yasyeti ca* P. 6-4-148; *iṣṭhan* has the *n*-mark, so first-syllable accent by P. 6-1-197), and *īmahe* (*īṅ gatau* — the *ṅ* shows *ātmanepada* by P. 1-3-12 *anudāttaṅita ātmanepadam*; *laṭ* *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e*; *divādibhyaḥ śyan* P. 3-1-69; *bahulaṃ chandasi* P. 2-4-73 drops *śyan*; hence *īmahe*; unaccented by P. 8-1-28). ॥3॥ *(A crowded run of four pages; outline only; numerals as read from small print; pointers only.)*
+> मतिशयेन सामीप्यं यथा भवति तथा ईमहे । याचामहे कालविलम्बमन्तरेण धनं दातव्यमित्यर्थः । सप्तदशसु याच्ञाकर्मस्वीमह इति पठितम् ॥ अनुकामम् । कामस्य पश्चादनुकामम् । अथवा कामे कामेऽनुकामम् । अनुरिह पश्चादर्थे । अथवा वीप्सालक्षणे यथार्थे । योग्यता वीप्सा पदार्थानतिवृत्तिः सादृश्यं चेति चत्वारो हि यथार्था गृहीताः । अव्ययं विभक्तीत्यादिना । पा. २-१-६ । अव्ययीभावसमासः । अव्ययीभावश्च । पा. १-१-४१ । इत्यव्ययसंज्ञायामव्ययादाप्सुपः । पा. २-४-८२ । इति प्राप्तस्य लुकोऽपवादो नाव्ययीभावादतोऽम्त्वपञ्चम्याः । पा. २-४-८३ । इति विभक्तेरमादेशः । समासस्येत्यन्तोदात्तत्वम् । तर्पयेथाम् । तृपेर्ण्यन्ताल्लोटो णिचश्च । पा. १-३-७४ । इत्यात्मनेपदम् । मध्यमद्विवचनमाथाम् । टेरेत्वे आमेतः । पा. ३-४-९० । इत्यामादेशः । शपि सत्यतो येयः । पा. ७-२-८० । इत्याकारस्येयादेशः । आद्गुणो यलोपश्च । इन्द्रावरुणा । सुपां सुलुगिति द्विवचनस्याकारः । आमन्त्रिताद्युदात्तत्वम् । संहितायामाकारस्य ह्रस्वत्वम् । रायः । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । ता । सुपां सुलुगिति विभक्तेराकारः । पदात्परत्वाद्युष्मदस्मदित्यस्य वामादेशोऽनुदात्तः । नेदिष्ठम् । अतिशयेनान्तिकम् । अतिशायन इष्ठन् । अन्तिकबाढयोर्नेदसाधौ । पा. ५-३-६३ । इति नेदादेशः । यस्येति लोपः । इष्ठनो नित्त्वादाद्युदात्तत्वम् । ईमहे । ईङ् गतौ । ङित्त्वादात्मनेपदम् । बहुलं छन्दसीति श्यनो लुक् । निघातः ॥
+>
+> *matiśayena sāmīpyaṃ yathā bhavati tathā īmahe | yācāmahe kālavilambamantareṇa dhanaṃ dātavyamityarthaḥ | saptadaśasu yācñākarmasvīmaha iti paṭhitam || anukāmam | kāmasya paścādanukāmam | athavā kāme kāme 'nukāmam | anuriha paścādarthe | athavā vīpsālakṣaṇe yathārthe | yogyatā vīpsā padārthānativṛttiḥ sādṛśyaṃ ceti catvāro hi yathārthā gṛhītāḥ | avyayaṃ vibhaktītyādinā | pā. 2-1-6 | avyayībhāvasamāsaḥ | avyayībhāvaśca | pā. 1-1-41 | ityavyayasaṃjñāyāmavyayādāpsupaḥ | pā. 2-4-82 | iti prāptasya luko 'pavādo nāvyayībhāvādato 'mtvapañcamyāḥ | pā. 2-4-83 | iti vibhakteramādeśaḥ | samāsasyetyantodāttatvam | tarpayethām | tṛperṇyantālloṭo ṇicaśca | pā. 1-3-74 | ityātmanepadam | madhyamadvivacanamāthām | ṭeretve āmetaḥ | pā. 3-4-90 | ityāmādeśaḥ | śapi satyato yeyaḥ | pā. 7-2-80 | ityākārasyeyādeśaḥ | ādguṇo yalopaśca | indrāvaruṇā | supāṃ sulugiti dvivacanasyākāraḥ | āmantritādyudāttatvam | saṃhitāyāmākārasya hrasvatvam | rāyaḥ | ūḍidamityādinā vibhakterudāttatvam | tā | supāṃ sulugiti vibhakterākāraḥ | padātparatvādyuṣmadasmadityasya vāmādeśo 'nudāttaḥ | nediṣṭham | atiśayenāntikam | atiśāyana iṣṭhan | antikabāḍhayornedasādhau | pā. 5-3-63 | iti nedādeśaḥ | yasyeti lopaḥ | iṣṭhano nittvādādyudāttatvam | īmahe | īṅ gatau | ṅittvādātmanepadam | bahulaṃ chandasīti śyano luk | nighātaḥ ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 719)*
+**Translation:** "O Indra and Varuṇa, *anukāmam*, according to our wish, *tarpayethām*, satisfy us by the gift of *rāyaḥ*, wealth: make us content on all sides; that is, whenever we desire wealth, then give it. *Tā vām*, you two, such as you are, *īmahe*, we beg, so that you are *nediṣṭham*, nearest: that is, wealth is to be given without delay. *Īmahe* is read among the seventeen words meaning 'to beg'." (Grammatical tail: *anukāmam*, "after the wish", or "at each wish", *anu* here in the sense "after", or in the sense *yathā* marked by repetition, the four senses of *yathā* being fitness, repetition, not going beyond the sense of the word, and likeness; an *avyayībhāva* by Pā. 2-1-6; called *avyaya* by Pā. 1-1-41, the *luk* due by Pā. 2-4-82 is overridden by Pā. 2-4-83, which gives *am* for the ending; final udātta by *samāsasya*; *tarpayethām*, *ātmanepada* after the causative of *tṛp* by Pā. 1-3-74, 2nd dual *āthām*, *ām* for the *e* by Pā. 3-4-90, *iy* for the *ā* by Pā. 7-2-80 since *śap* follows, *guṇa* by *ād guṇaḥ* and the loss of *y*; *indrāvaruṇā*, *ā* for the dual by *supāṃ suluk*, initial udātta of the vocative, shortened in the Saṃhitā; *rāyaḥ*, the ending udātta by *ūḍidam…*; *tā*, *ā* for the ending by *supāṃ suluk*; following a word, *vām*, unaccented, replaces *yuṣmad*; *nediṣṭham*, "very near", *iṣṭhan* in the sense of excess, *neda* for *antika* by Pā. 5-3-63, the loss by *yasyeti*, initial udātta as *iṣṭhan* is *nit*; *īmahe*, *īṅ gatau*, *ātmanepada* as *ṅit*, *luk* of *śyan* by *bahulaṃ chandasi*, wholly unaccented.)
 
-**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **अनुकामम् (anukāmam)** — in accordance with our wishes, or one by one each of our wishes | **रायः (rāyaḥ)** — by giving wealth | **आ तर्पयेथाम् (ā tarpayethām)** — satisfy [us] | **ता (tā)** — such [as you are] | **वाम् (vām)** — you two | **नेदिष्ठम् (nediṣṭham)** — in the nearest manner (that is, without any delay) | **ईमहे (īmahe)** — we praise.
+**॥ Prati-padārthaḥ ॥**
+
+**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **अनुकामम् (anukāmam)** — according to our desire, or our desires one by one | **रायः (rāyaḥ)** — by the gift of wealth | **आ तर्पयेथाम् (ā tarpayethām)** — satisfy (us) | **ता (tā)** — such | **वाम् (vām)** — you two | **नेदिष्ठम् (nediṣṭham)** — very near (without delay) | **ईमहे (īmahe)** — we praise.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Varuṇa! We praise you in order to be near you for the sake of wealth and the like. As soon as we ask, give us the wealth we need.
+O Indra and Varuṇa, we praise you for riches and the like, that you may be near us. As soon as we pray, give us the wealth we need.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Indra and Varuna, satisfy us with wealth according to our desires. We therefore pray you to be nearest to us.
+> Indra and Varuna, satisfy us with wealth according to our desires We [sic] therefore pray you to be nearest to us.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 720)*
+### Page 720 — Rik 3: Special Topics and grammar
 
-**अनुकामम् (anukāmam)** — *kāmasya paścād anukāmam*; or *kāme kāme 'nukāmam*. Here *anu* has the sense *paścāt* "after", or the sense of *vīpsā* "each, one by one" [the *yathārtha*]. [*asmadīyam abhilāṣam anu*:] "according to our wishes", or "each and every one of the things we desire".
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**नेदिष्ठम् (nediṣṭham)** — *atiśayena sāmīpyaṃ yathā bhavati tathā*; *atiśayenāntikam*: "very near" — "you should be very near, so as to give us what we need".
+**Anukāmam**:
 
-**ईमहे (īmahe)** — *īmahe*, among the seventeen words of the group beginning with *yāma* [*yāmaḥ*?] that mean "to ask" (*yācñā-karman*), the word *īmahe* is read (Nighaṇṭu 3-19 [?]); so *īmahe* means "we ask, we beg".
+> कामस्य पश्चादनुकामम् । अथवा कामे कामेऽनुकामम् । अनुरिह पश्चादर्थे अथवा वीप्सालक्षणे यथार्थे ॥ अस्मदीयमभिलाषमनु ॥
+>
+> *kāmasya paścādanukāmam | athavā kāme kāme 'nukāmam | anuriha paścādarthe athavā vīpsālakṣaṇe yathārthe || asmadīyamabhilāṣamanu ||*
+
+("After the wish, or at each wish; *anu* here in the sense 'after', or in the sense *yathā* marked by repetition: according to our wish.") That is, according to our wish, or every wish that we want.
+
+**Nediṣṭham**:
+
+> अतिशयेन सामीप्यं यथा भवति तथा । अतिशयेनान्तिकम् ।
+>
+> *atiśayena sāmīpyaṃ yathā bhavati tathā | atiśayenāntikam |*
+
+("So that nearness is in the highest degree: very near.") The sense is: you should be very near us, so as to give us our desires.
+
+**Īmahe**: since the word *īmahe* is read among the seventeen words meaning "to beg", *yāmi* and the rest (Ni. 3-19), *īmahe* means "we beg, we pray".
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 720–723, noted briefly)*
+
+**अनुकामम् (*anukāmam*)**: the analysis is *kāmasya paścāt anukāmam*; here the preverb *anu* means "after". Or the analysis is *kāme kāme anukāmam*; here *anu* means repetition. This repetition is included in the senses of the word *yathā*: the word *yathā* has four senses, fitness, repetition, not going beyond the sense of the word, and likeness. In the first sense the indeclinable *anu* means "after"; in the second it means *yathā*. In both views, by "avyayaṃ vibhakti-samīpa-samṛddhi-vyṛddhy-arthābhāvātyayāsaṃprati-śabdaprādurbhāva-paścād-yathānupūrvya-yaugapadya-sādṛśya-saṃpatti-sākalyānta-vacaneṣu" (Pā. sū. 2-1-6) (the sixteen words from *vibhakti* to *anta* form a *dvandva*; the analysis is *antaś cāsau vacanāś ca antavacanāḥ, teṣu vibhaktyādi-antavacaneṣu*), an indeclinable conveying the sense of a case and the rest is compounded with a *subanta* that is syntactically fit; it is an *avyayībhāva*, so the *avyayībhāva* compound comes. By "avyayībhāvaś ca" (Pā. sū. 1-1-41) the *avyayībhāva* compound also is called *avyaya*; so *anukāma* is called *avyaya*. So when the *sup* suffix comes after *anukāma*, *luk* is due by "avyayād āpsupaḥ" (Pā. sū. 2-4-82) (the *āp* and *sup* after an *avyaya* take *luk*), but by "nāvyayībhāvād ato 'm tv apañcamyāḥ" (Pā. sū. 2-4-83) come the bar and the substitute *am*. In this sūtra *nāvyayībhāvād ataḥ* is one statement: its sense is that the *sup* after an *a*-final *avyayībhāva* does not take *luk*. *Anukāma* is an *a*-final
+
+### Page 721 — Rik 3: grammar
+
+*avyayībhāva*; so by this statement the *sup* ending after it does not take *luk*. *Am tv apañcamyāḥ* is the second statement: its sense is that a *sup* other than the ablative after an *a*-final *avyayībhāva* takes *am*. So when the accusative or locative, other than the ablative, is put after *anukāma*, by the former statement they do not take *luk*, and by this statement the substitute *am* comes. *Anukāma* + *am*: by "ami pūrvaḥ" (Pā. sū. 6-1-107) the *pūrvarūpa*: *anukāmam*. By "samāsasya" (Pā. sū. 6-1-223) (the last letter of a compound is udātta) *anukāma* is final udātta. The *am* is unaccented by *anudāttau suppitau*. The single substitute is udātta by "ekādeśa udāttenodāttaḥ". So *anukāmam* is final udātta.
+
+**तर्पयेथाम् (*tarpayethām*)**: the root *tṛpa prīṇane*. By "tatprayojako hetuś ca" (Pā. sū. 1-4-55) it is called *hetu*; by "hetumati ca" (Pā. sū. "3-1-26" [?]) *ṇic*. By "ṇicaś ca" (Pā. sū. 1-3-74) (when the fruit of the action goes to the agent, *ātmanepada* comes after a root ending in *ṇic*), in place of the *loṭ* after the *ṇic*-final root *tṛp* + *i* comes an *ātmanepada* suffix; when the 2nd dual is meant, *āthām* comes: *tṛp* + *i* + *āthām*. By "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79) *e* for the *ṭi* *ām*; by "āmetaḥ" (Pā. sū. 3-4-90) (the *e* belonging to *loṭ* takes *ām*) *ām*: *tṛp* + *i* + *āthām*. With the *ṇic* as condition, the *laghūpadha-guṇa* for *tṛp* by *pugantalaghūpadhasya ca*, followed by *r* by *uraṇ raparaḥ*: *tarpi* + *āthām*; *śap* by *kartari śap*: *tarpi* + *a* + *āthām*. With the *śap* as condition, *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84); the substitute *ay* by "eco 'yavāyāvaḥ" (Pā. sū. 6-1-78): *tarpaya* + *āthām*. *Āthām* is a *sārvadhātuka* without *p*; so by "sārvadhātukam apit" (Pā. sū. 1-2-4) it is *ṅit*. So by "āto ṅitaḥ" (Pā. sū. 7-2-81) (the *ā* belonging to a suffix marked with *ṅ* after a short *a* takes *iy*) *iy* for the *ā*: *tarpaya* + *iy* + *thām*. By "ād guṇaḥ" (Pā. sū. 6-1-87) *e* for *a* and *i*: *tarpayey* + *thām*. Since the *v*-class letter [*th*, a *val*] follows, by "lopo vyor vali" (Pā. sū. 6-1-66) the *y* drops: *tarpayethām*. "Ato yeyaḥ" (Pā. sū. 7-2-80): here the word division is made in two ways, *yā*, *iyaḥ*, or *yās*, *iyaḥ*. In the second view, with *yās* + *iya*, *ru* for the *s* by *sasajuṣo ruḥ*, *y* for it by *bhobhago…*, and after the loss of *y* by *lopaḥ śākalyasya*, with *yā* + *iya*, the loss of *y* counts as not done, by *pūrvatrāsiddham*, when *guṇa* is to be made; so, though *guṇa*-sandhi does not come, since this is a ṛṣi's
+
+### Page 722 — Rik 3: grammar
+
+usage, it may be said that the sandhi comes as an *ārṣa* form. In any case, whichever of the two ways is taken, the sense of the sūtra *ato yeyaḥ* is that *yā* or *yās*, part of a *sārvadhātuka* suffix after a short *a*, takes *iya*. In *tarpa* + *ya* + *āthām* there is no *yā* or *yās*; so this sūtra does not give *iya* here. So the account of the *iya* substitute by this sūtra [in the bhāṣya] may be called an oversight.
+
+**इन्द्रावरुणा (*indrāvaruṇā*)**: the *dvandva* *indraś ca varuṇaś ca indrāvaruṇā*. Its explanation is at "indrāvaruṇayor aham" (Ṛ. saṃ. "1-12-1" [as read, ?; the mantra is 1-17-1, Ṛk 17.1 above]). Here after *indravaruṇa* the vocative dual *au*; for it *ā* by "supāṃ suluk…" (Pā. sū. 7-1-39); lengthening of like vowels: *indrāvaruṇā*. Since it stands at the start of a *pāda*, it is not wholly unaccented by the eighth-chapter rule; by the sixth-chapter "āmantritasya ca" it is initial udātta, and in the Saṃhitā the *ā* is shortened.
+
+**रायः (*rāyaḥ*)**: the word *rai* means wealth; after it the genitive singular *ṅas* [as read; the letter may be ಜ, *jas*, ?]: *rai* + *as*; the substitute *āy*, *ru* and visarga. By "ūḍidaṃpadādyappumraidyubhyaḥ" (Pā. sū. 6-1-171) the ending is udātta.
+
+**ता (*tā*)**: after the word *tad* the accusative dual *auṭ*; for it, by *supāṃ suluk*, the substitute *ā*. By "tyadādīnām aḥ" (Pā. sū. 7-2-102) *a* for the *d*; by *ato guṇe* the *pararūpa*; lengthening of like vowels: *tā*.
+
+**वाम् (*vām*)**: this stands after a word; so for *yuvām*, ending in the accusative dual, by "yuṣmadasmadoḥ ṣaṣṭhīcaturthīdvitīyāsthayor vāṃnāvau" (Pā. sū. 8-1-20) the unaccented substitute *vām*.
+
+**नेदिष्ठम् (*nediṣṭham*)**: the analysis is *atiśayena antikam*. By "atiśāyane tamabiṣṭhanau" (Pā. sū. 5-3-55) the suffix *iṣṭhan*: *antika* + *iṣṭha*. By "antikabāḍhayor nedasādhau" (Pā. sū. 5-3-63), when the suffixes *iṣṭhan* and *īyasun* follow, *neda* is substituted for *antika* and *sādha* for *bāḍha*; so *neda*: *neda* + *iṣṭha*; by "yasyeti ca" (Pā. sū. 6-4-148) the *a* drops: *nediṣṭha*. The suffix *iṣṭhan* is *nit*; so *nediṣṭha* is initial udātta by *ñnityādir nityam*.
+
+**ईमहे (*īmahe*)**: the root *īṅ gatau*, *ṅit*; so by "anudāttaṅita ātmanepadam" (Pā. sū. 1-3-12) the *ātmanepada* comes. *Laṭ*, 1st plural *mahiṅ*:
+
+### Page 723 (upper) — Rik 3: grammar (end)
+
+*ī* + *mahi*; by *ṭita ātmanepadānām* *e* for the *ṭi*; by "divādibhyaḥ śyan" (Pā. sū. 3-1-69) *śyan*, and by "bahulaṃ chandasi" (Pā. sū. 2-4-73) its *luk*: *īmahe*. By *tiṅṅatiṅaḥ* it is wholly unaccented.
+
+**॥३॥**
+
+---
 
 ### Pages 723–727 — Sūkta 17, Rik 4 (meter Pādanicṛt)
 
