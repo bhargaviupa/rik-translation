@@ -12888,51 +12888,89 @@ with Mitra's forms of radiance, "with various forms of Mitra". *Dhāmabhiḥ* me
 
 ---
 
-### Pages 619–622 — Sūkta 14, Rik 11
+### Page 619 (lower) — Sūkta 14, Rik 11
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्वं होता मनुर्हितो ऽग्ने यज्ञेषु सीदसि ।
-> सेमं नो अध्वरं यज ॥११॥
+> त्वं होता॒ मनु॑र्हि॒तो ऽग्ने॑ य॒ज्ञेषु॑ सीदसि ।
+> सेमं नो॑ अध्व॒रं य॑ज ॥११॥ [accent ?]
 >
-> *tvaṃ hotā manurhito 'gne yajñeṣu sīdasi |*
-> *semaṃ no adhvaraṃ yaja ||11||*
+> *tvaṃ hotā mánur hitó 'gne yajñéṣu sīdasi |*
+> *semáṃ no adhvaráṃ yaja ||11||* [accent ?]
+
+*(Line 2: the stroke over नो and the stroke near य of यज are read at 450 dpi; the second may stand over the end of अध्वरं.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > त्वम् । होता । मनुःऽहितः । अग्ने । यज्ञेषु । सीदसि ॥
 > सः । इमम् । नः । अध्वरम् । यज ॥११॥
 >
-> *tvam | hotā | manuḥ-hitaḥ | agne | yajñeṣu | sīdasi ||*
+> *tvam | hotā | manuḥ 'hitaḥ | agne | yajñeṣu | sīdasi ||*
 > *saḥ | imam | naḥ | adhvaram | yaja ||11||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 619, lower half, to p. 620; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने मनुर्हितो मनुषा होत्रादिरूपेण मनुष्येण हितः संपादितो होमनिष्पादको यस्त्वं यज्ञेषु सीदसि तिष्ठसि स त्वं नोऽस्मदीयमिममध्वरं यज्ञं यज निष्पादय ॥ मनुर्हितः । मन्यते इति मनुः । निदित्यनुवृत्तौ बहुलमन्यत्रापि । उ. [?] । उस् । नित्त्वादाद्युदात्तः । हितः । धाञो धातोर्निष्ठायां क्तप्रत्ययः । दधातेर्हिः । पा. ७-४-४२ । इति हिरादेशः । मनुषा हितो मनुर्हितः । कर्तृकरणे कृता बहुलम् । पा. २-१-३२ । इति समासः । … पूर्वपदप्रकृतिस्वरत्वम् । सीदसि । षद्ऌ विशरणगत्यवसादनेषु । लटः सिप् । शपि पाघ्रादिना सीदादेशः । निघातः । सेममित्यत्र संहितायां सोऽचि लोपे चेत्पादपूरणम् । पा. ६-१-१३४ । इति सोर्लोपे गुणः । अध्वरम् । न विद्यते ध्वरो हिंसा यस्मिन्नाध्वरः । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । नो ऽध्वरमित्यत्र संहितायां [सस]जुषो रुः …
+> हे अग्ने मनुर्हितो मनुषा होत्रादिरूपेण मनुष्येण हितः सम्पादितो होमनिष्पादको यस्त्वं यज्ञेषु सीदसि तिष्ठसि स त्वं नो ऽस्मदीयमिममध्वरं यज्ञं यज निष्पादय ॥ मनुर्हितः । मन्यत इति मनुः । नित्येत्यनुवृत्तौ बहुलमन्यत्रापि । उ. २-१२२ [?] । उस् । नित्त्वादाद्युदात्तः । हितः । धाञो धातो-
 >
-> *he agne manurhito manuṣā hotrādi-rūpeṇa manuṣyeṇa hitaḥ saṃpādito homa-niṣpādako yas tvaṃ yajñeṣu sīdasi tiṣṭhasi sa tvaṃ no 'smadīyam imam adhvaraṃ yajñaṃ yaja niṣpādaya || manurhitaḥ | manyate iti manuḥ | nid ity anuvṛttau bahulam anyatrāpi | u. [?] | us | nittvād ādyudāttaḥ | hitaḥ | dhāño dhātor niṣṭhāyāṃ kta-pratyayaḥ | dadhāter hiḥ | pā. 7-4-42 | iti hirādeśaḥ | manuṣā hito manurhitaḥ | kartṛ-karaṇe kṛtā bahulam | pā. 2-1-32 | iti samāsaḥ | … pūrvapada-prakṛti-svaratvam | sīdasi | ṣadḷ viśaraṇa-gaty-avasādaneṣu | laṭaḥ sip | śapi pā-ghrādinā sīdādeśaḥ | nighātaḥ | semam ity atra saṃhitāyāṃ so 'ci lope cet pāda-pūraṇam | pā. 6-1-134 | iti sor lope guṇaḥ | adhvaram | na vidyate dhvaro hiṃsā yasminn ādhvaraḥ | nañ-subhyām ity uttarapadāntodāttatvam | no 'dhvaram ity atra saṃhitāyāṃ [sa-sa]juṣo ruḥ …*
+> *he agne manurhito manuṣā hotrādirūpeṇa manuṣyeṇa hitaḥ sampādito homaniṣpādako yastvaṃ yajñeṣu sīdasi tiṣṭhasi sa tvaṃ no 'smadīyamimamadhvaraṃ yajñaṃ yaja niṣpādaya || manurhitaḥ | manyata iti manuḥ | nityetyanuvṛttau bahulamanyatrāpi | u. 2-122 [?] | us | nittvādādyudāttaḥ | hitaḥ | dhāño dhāto-*
 
-**Translation:** "O Agni! You, *manurhitaḥ* — appointed by man (by the human sacrificer, in the role of *hotṛ* and so on), made the accomplisher of the *homa* — you sit (*sīdasi*) at the sacrifices. Such as you are, *yaja* — perform, bring to completion — this sacrifice of ours (*adhvaram*)." The rest is grammar, noted briefly: *manurhitaḥ* (*manu* from *man* "to know", the Uṇādi *us*; *hita* from *dhā* with *kta*, *hi* for *dhā* by P. 7-4-42; compound by P. 2-1-32 *kartṛkaraṇe kṛtā bahulam*; accent of the first member by P. 6-2-48 [?]); *sīdasi* (*sad* with *sīda*-substitute by *pāghrādhmā…*); the sandhi *semam* from *sa imam* by P. 6-1-134 *so 'ci lope cet pādapūraṇam*; *adhvaram* ("that in which there is no *dhvara*, violence") with the accent of P. 6-2-172 *nañsubhyām*. *(Sūtra numbers 7-4-42, 2-1-32 and 6-1-134 agree with the standard numbering; the others are as read.)*
+### Page 620 — Rik 11: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (pp. 621–622), noted briefly.** The Kannada Vyākaraṇa-prakriyā goes through *manurhitaḥ* (*man* of the fourth class "to know"; Uṇ. 1-[?] with *bahulam anyatrāpi*, *nit*; the compound-accent conflict resolved in favour of the first member by P. 6-2-48 *tṛtīyā karmaṇi* over 6-1-223, 6-2-2, 6-2-139 and 6-1-186 [pointers only]; the Vedabhāṣya's view that the Phiṭ-rule on *dhā*-compounds is set aside here); *sīdasi* (*ṣad*, with *laṭ*, *sip*, the *sīda* substitute by P. 7-3-78 and the *nighāta*); *semam* — *saḥ* + *imam*: if the *s* were kept (*sa imam*) the *pāda* would have nine syllables instead of eight; by P. 6-1-134 the *s* of *saḥ* is lost before a vowel when the *pāda* is thereby completed, and the guṇa follows [the Kannada works through the *pūrvatrāsiddham* P. 8-2-1 argument that the guṇa of *a + i* does or does not apply, and concludes that *semam* has eight syllables to the *pāda*, so the *pāda* is complete]; *adhvaram* (*na vidyate dhvaraḥ hiṃsā yasmin* — first-member accent overridden by P. 6-2-172 *nañsubhyām*; *naḥ* + *adhvaram*: *s* → *ru* by P. 8-2-66 *sasajuṣo ruḥ*, *ru* → *u* by P. 6-1-113 *ato ror aplutād aplute*, then guṇa by P. 6-1-87, with the *eṅaḥ padāntād ati* P. 6-1-109 *pūrvarūpa* barred by P. 6-1-115 *prakṛtyāntaḥpādam avyapare*, so the text stands *no 'dhvaram*). *(Crowded; outline only; numerals as read, pointers only.)*
+> -र्निष्ठेति क्तप्रत्ययः । दधातेर्हिरिति हिरादेशः । मनुषा हितो मनुर्हितः । कर्तृकरणे कृता बहुलमिति समासः । कृत्स्वरापवादेन तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । सीदसि । षद्लृ विशरणगत्यवसादनेषु । लटः सिप् । शपि पाघ्रेत्यादिना सीदादेशः । निघातः । सेममित्यत्र संहितायां सो ऽचि लोपे चेत्पादपूरणं । पा. ६-१-१३४ । इति सोर्लोपे गुणः । अध्वरं । न विद्यते ध्वरो हिंसा यस्मिन्सो ऽध्वरः । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । नो अध्वरमित्यत्र संहितायामेङः पदान्तादति । पा. ६-१-१०९ । इति पूर्वरूपं प्राप्तं प्रकृत्यान्तःपादमव्यपर इति प्रकृतिभावान्निवर्तते ॥
+>
+> *-rniṣṭheti ktapratyayaḥ | dadhāterhiriti hirādeśaḥ | manuṣā hito manurhitaḥ | kartṛkaraṇe kṛtā bahulamiti samāsaḥ | kṛtsvarāpavādena tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | sīdasi | ṣadlṛ viśaraṇagatyavasādaneṣu | laṭaḥ sip | śapi pāghretyādinā sīdādeśaḥ | nighātaḥ | semamityatra saṃhitāyāṃ so 'ci lope cetpādapūraṇaṃ | pā. 6-1-134 | iti sorlope guṇaḥ | adhvaraṃ | na vidyate dhvaro hiṃsā yasminso 'dhvaraḥ | nañsubhyāmityuttarapadāntodāttatvaṃ | no adhvaramityatra saṃhitāyāmeṅaḥ padāntādati | pā. 6-1-109 | iti pūrvarūpaṃ prāptaṃ prakṛtyāntaḥpādamavyapara iti prakṛtibhāvānnivartate ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 620)*
+**Translation:** "O Agni, you who are *manurhitaḥ*, set up by man in the form of the *hotṛ* and others, the accomplisher of the *homa*, who *sīdasi*, sit, at the sacrifices: such as you are, *yaja*, accomplish, this our *adhvara*, sacrifice." (Grammatical tail: *manuḥ*, "who thinks", with *us* (Uṇ. "2-122" [?]), initial udātta; *hitaḥ*, *kta* after *dhā* with *hi* for it; *manurhitaḥ*, "set up by man", compounded by *kartṛkaraṇe kṛtā bahulam*, the first-member accent by *tṛtīyā karmaṇi*, an exception to the *kṛt* accent; *sīdasi*, *sīd* for *sad*, lowered; *sa imam* → *semam* in the Saṃhitā by Pā. 6-1-134, the loss of *su* to fill the pāda, then *guṇa*; *adhvaram*, "in which there is no harm", final udātta by *nañsubhyām*; *no adhvaram*: the *pūrvarūpa* of Pā. 6-1-109 is barred by *prakṛtyāntaḥpādam avyapare*.)
 
-**(हे) अग्ने ((he) agne)** — O Agni [you] | **त्वम् (tvam)** — you | **मनुर्हितः (manurhitaḥ)** — appointed by man in the function of *hotṛ* and the rest | **होता (hotā)** — accomplisher of the *homa* | **यज्ञेषु (yajñeṣu)** — at our sacrifices | **सीदसि (sīdasi)** — sit (with us) | **सः (saḥ)** — such as you are | **नः (naḥ)** — our | **इमम् अध्वरम् (imam adhvaram)** — this sacrifice | **यज (yaja)** — perform.
+**॥ Prati-padārthaḥ ॥**
+
+**अग्ने (agne)** — O Agni, (who) | **त्वम् (tvam)** — you | **मनुर्हितः (manurhitaḥ)** — appointed by men as *hotṛ* and the rest | **होता (hotā)** — as the accomplisher of the *homa* | **यज्ञेषु (yajñeṣu)** — at the times of our sacrifices | **सीदसि (sīdasi)** — sit (with us) | **सः (saḥ)** — such as you | **नः (naḥ)** — our | **इमम् अध्वरम् (imam adhvaram)** — this sacrifice | **यज (yaja)** — accomplish.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! You bring the gods to the sacrifice, and you sit with us at the sacrificial times of us human beings who perform it. Such as you are, bring this sacrifice of ours to completion.
+O Agni, you bring the gods to the sacrifice and stay with us at the times of the sacrifices that we men perform. Such as you are, accomplish our sacrifice.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Agni, appointed by man as the invoker of the gods you are present at the sacrifice. Therefore perform this our sacrifice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 620)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**मनुर्हितः (manurhitaḥ)** — *manyate iti manuḥ*; *manuṣā hotrādi-rūpeṇa manuṣyeṇa hitaḥ saṃpāditaḥ*: appointed by man in the function of *hotṛ* and so on. The human sacrificer appoints him to take his share in the sacrificial work, or, because he carries the principal vessel in the sacrifice, he is the one who has been placed in the fire-pit.
+**Manurhitaḥ**:
+
+> मन्यते इति मनुः । मनुषा होत्रादिरूपेण मनुष्येण हितः सम्पादितः ॥
+>
+> *manyate iti manuḥ | manuṣā hotrādirūpeṇa manuṣyeṇa hitaḥ sampāditaḥ ||*
+
+Since the human sacrificer has appointed him to take part in the sacrificial rite, or since he bears the chief role in the sacrifice, he is the one placed in the fire-pit.
+
+### Page 621 — Rik 11: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 621–622, noted briefly)*
+
+**मनुर्हितः (*manurhitaḥ*)**: *manyate iti manuḥ*; *mana jñāne* (*divādi*). With *nit* (Uṇ. sū. "2-2-64" [?]) carried on, "bahulam anyatrāpi" (Uṇ. sū. "2-128" [?]): after other roots too *us* comes variously, and it is *nit*; so *us* after *man*: *manuḥ*; initial udātta (*nit*). **हितः (*hitaḥ*)**: *ḍudhāñ dhāraṇapoṣaṇayoḥ* + *kta* in the passive by "niṣṭhā" (Pā. sū. 3-2-102); *hi* for *dhā* by "dadhāter hiḥ" (7-4-42). *Manuṣā hitaḥ*: by "kartṛkaraṇe kṛtā bahulam" (Pā. sū. 2-1-32) a word in the third case denoting the agent or instrument is compounded with a fitting *kṛdanta*. "samāsasya" (Pā. sū. 6-1-223) would give final udātta; overriding it, "tatpuruṣe tulyārthatṛtīyā…" (Pā. sū. 6-2-2) the first-member accent; overriding that, "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) the *kṛt* second-member accent; overriding that, "thāthaghañktājabitrakāṇām" (Pā. sū. 6-2-144) final udātta; and overriding that too, "tṛtīyā karmaṇi" (Pā. sū. 6-2-48) the first-member accent. In the Vedabhāṣya, after *kṛtsvarāpavādena*, one must add *thāthādisūtreṇāntodātte prāpte tadapavādena*. So the Śekharakāra says plainly under "tṛtīyā karmaṇi":
+
+> अयमपि थाथादिस्वरापवादः
+>
+> *ayamapi thāthādisvarāpavādaḥ*
+
+that is, this too is an exception to the accent laid down by *thāthaghañ…*.
+
+**सीदसि (*sīdasi*)**: *ṣadḷ viśaraṇagatyavasādaneṣu*; *laṭ*, 2nd singular *sip*; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ"; *śap* by "kartari śap"; *sīd* for *sad* by "pāghrādhmā…" (Pā. sū. 7-3-78): *sīdasi*; wholly unaccented by "tiṅṅatiṅaḥ".
+
+**सेमम् (*semam*)**: with *sas* + *imam*, "so 'ci lope cet pādapūraṇam" (Pā. sū. 6-1-134): if the loss fills the pāda, the *su* of *sas* drops before a vowel; so the *s* drops. If it did not drop, with *sas* + *imam*, *ru* by "sasajuṣo ruḥ" (Pā. sū. 8-2-66), *y* for the *ru* by "bhobhago…" (Pā. sū. 8-3-17): *say* + *imam*; *y* dropped by "lopaḥ śākalyasya" (Pā. sū. 8-3-19): *sa* + *imam*; then, when the *guṇa* of "ād guṇaḥ" (Pā. sū. 6-1-) is to be made, the loss of *y* by "lopaḥ śākalyasya" would be treated as not done by "pūrvatrāsi-
+
+### Page 622 — Rik 11: grammar (end)
+
+ddham" (Pā. sū. 8-2-1); so, from the point of view of the rule giving *guṇa*, it is *say imam*; the *a* is not followed by *i*, so no *guṇa*, and it would have to stay *sa imam*. Then in *semaṃ no adhvaraṃ yaja* it would have to be *sa imaṃ no adhvaraṃ yaja*: the pāda would have nine syllables, one more than the eight that fill it, so the pāda would not be filled. When the *s* drops by "so 'ci" (Pā. sū. 6-1-134), "pūrvatrāsiddham" does not apply, so *guṇa* comes: *semam*. In *semaṃ no adhvaraṃ yaja* there are eight syllables, so the pāda is filled.
+
+**अध्वरम् (*adhvaram*)**: *na vidyate dhvaraḥ hiṃsā yasmin saḥ adhvaraḥ*: that in which there is no harm. Being a bahuvrīhi, the first-member accent would come; overriding it, "nañsubhyām" (Pā. sū. 6-2-172) makes the second member final udātta. With *nas* + *adhvaram*, *ru* for the *s* by "sasajuṣo ruḥ" (Pā. sū. 8-2-66); *u* for the *ru* by "ato ror aplutād aplute" (Pā. sū. 6-1-113): *na* + *u* + *adhvaram*; *guṇa* by "ād guṇaḥ" (Pā. sū. 6-1-87): *no* + *adhvaram*. In the Saṃhitā "eṅaḥ padāntād ati" (Pā. sū. 6-1-109) would give *pūrvarūpa* when a short *a* follows a word-final *e*/*o*; but "prakṛtyāntaḥpādam avyapare" (Pā. sū. 6-1-115) keeps the natural form for *e*/*o* inside a Ṛk-pāda before a short *a* not followed by *v* or *y*. So there is no *pūrvarūpa*; it stays *no adhvaram*.
+
+**॥११॥**
+
+---
 
 ### Pages 622–626 — Sūkta 14, Rik 12 (last rik of the sūkta)
 
