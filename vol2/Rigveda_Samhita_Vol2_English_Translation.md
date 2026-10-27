@@ -12972,15 +12972,17 @@ ddham" (Pā. sū. 8-2-1); so, from the point of view of the rule giving *guṇa*
 
 ---
 
-### Pages 622–626 — Sūkta 14, Rik 12 (last rik of the sūkta)
+### Page 622 (lower) — Sūkta 14, Rik 12 (last rik of the sūkta)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> युक्ष्वा ह्यरुषी रथे हरितो देव रोहितः ।
-> ताभिर्देवाँ इहा वह ॥१२॥
+> यु॒क्ष्वा ह्यरु॑षी॒ रथे॑ ह॒रितो॑ देव रो॒हितः॑ ।
+> ताभि॑र्दे॒वाँ इ॒हा व॑ह ॥१२॥
 >
-> *yukṣvā hy aruṣī rathe harito deva rohitaḥ |*
-> *tābhir devām̐ ihā vaha ||12||*
+> *yukṣvā́ hy áruṣī ráthe haríto deva rohítaḥ |*
+> *tā́bhir devā́m̐ ihā́ vaha ||12||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -12990,39 +12992,71 @@ ddham" (Pā. sū. 8-2-1); so, from the point of view of the rule giving *guṇa*
 > *yukṣva | hi | aruṣīḥ | rathe | haritaḥ | deva | rohitaḥ ||*
 > *tābhiḥ | devān | iha | ā | vaha ||12||*
 
-*(Accent-marks printed in the source; not reproduced. Saṃhitā has the lengthened* yukṣvā, ihā*, the Pada the short* yukṣva, iha*.)*
+### Page 623 — Rik 12: bhāṣya, word-meanings, overall sense, English
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 623; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे देवाग्ने रोहितो रोहिच्छब्दाभिधेयास्त्वदीया वडवा रथे युक्ष्व । योजय । हिशब्दः पादपूरणार्थः । कीदृशीः । अरुषीर्गतिमतीर्हरितो हर्तुं रथारूढान्पुरुषानेतुं समर्थाः । ताभिर्वडवाभिरिहास्मिन्कर्मणि देवानावह । युक्ष्व । युजिर् योगे । लोट् । स्वरितेत्त्वादात्मनेपदम् । थासः से । सवाभ्यां वामौ । रुधादिभ्यः श्नम् । तस्य बाहुलकाल्लुक् । कुत्वषत्वे । प्रत्ययस्वरेणान्तोदात्तः । संहितायां द्व्यचोऽतस्तिङः इति दीर्घः । अरुषीः । ऋ गतौ । ऋन्ति गच्छन्तीत्यरुष्यो वडवाः । ऋहनिभ्यां [?] षन् । उ. [?] । धातोर्गुणो रपरत्वम् । नित्त्वादाद्युदात्तः । तस्मात् स्त्रियां छान्दसो ङीप् । शसि प्रथमयोः पूर्वसवर्णः । पा. ६-१-१०२ । इति दीर्घः । रथे । रमेरोणादिकः क्थन् [?] … नित्त्वादाद्युदात्तः । हरितः । हृस्वरुहियुषिभ्य इतिः । उ. १-[?] … रोहितः । रुहेरसि तेनैव सूत्रेणेतिः … ताभिः । सावेकाच इति विभक्तेः प्राप्तमुदात्तत्वं सावनर्णेति निषिध्यते । देवानित्यत्र पूर्ववदुत्वानुनासिकौ ॥१२॥
+> हे देवाग्ने रोहितो रोहिच्छब्दाभिधेयास्त्वदीया वडवा रथे युक्ष्व । योजय । हिशब्दः पादपूरणार्थः । कीदृशीः । अरुषीर्गतिमतीर्हरितो हर्तुं रथारूढान्पुरुषान्नेतुं समर्थाः । ताभिर्वडवाभिरिहास्मिन्कर्मणि देवाना वह ॥ युक्ष्व । युजिर् योगे । लोट् । स्वरितेत्त्वादात्मनेपदं । थासः से । सवाभ्यां वामौ । रुधादिभ्यः श्नम् । तस्य बाहुलकाल्लुक् । कुत्वषत्वे । प्रत्ययस्वरेणान्तोदात्तः । संहितायां द्व्यचो ऽतस्तिङ इति दीर्घः । अरुषीः । ऋ गतौ । ऋच्छन्ति गच्छन्तीत्यरुष्यो वडवाः । ऋहनिभ्यामुषन् । उ. ४-७३ । धातोर्गुणो रपरत्वं । नित्त्वादाद्युदात्तो ऽरुषशब्दः । तस्मात्स्त्रियां छान्दसो ङीप् । शसि प्रथमयोः पूर्वसवर्णः । पा. ६-१-१०२ । इति दीर्घः । रथे । रमेरौणादिकः क्थन्प्रत्ययः । नित्त्वादाद्युदात्तः । हरितः । हृसृरुहियुषिभ्य इतिः । उ. १-९७ । इति हरतेरितिप्रत्ययः । इकारः प्रत्ययस्वरेणोदात्तः । रोहितः । रुहेरपि तेनैव सूत्रेणेतिः । इकारः प्रत्ययस्वरेणोदात्तः । ताभिः । सावेकाच इति विभक्तेः प्राप्तमुदात्तत्वं सावर्वर्णेति निषिध्यते । देवानित्यत्र पूर्ववद्रुत्वानुनासिकौ ॥ २७ ॥
 >
-> *he devāgne rohito rohic-chabdābhidheyās tvadīyā vaḍavā rathe yukṣva | yojaya | hi-śabdaḥ pāda-pūraṇārthaḥ | kīdṛśīḥ | aruṣīr gatimatīr harito hartuṃ rathārūḍhān puruṣān etuṃ samarthāḥ | tābhir vaḍavābhir ihāsmin karmaṇi devān āvaha | yukṣva | yujir yoge | loṭ | svaritettvād ātmanepadam | thāsaḥ se | savābhyāṃ vāmau | rudhādibhyaḥ śnam | tasya bāhulakāl luk | kutva-ṣatve | pratyaya-svareṇāntodāttaḥ | saṃhitāyāṃ dvyaco 'tastiṅaḥ iti dīrghaḥ | aruṣīḥ | ṛ gatau | ṛnti gacchantīty aruṣyo vaḍavāḥ | ṛhanibhyām [?] ṣan | u. [?] | dhātor guṇo raparatvam | nittvād ādyudāttaḥ | tasmāt striyāṃ chāndaso ṅīp | śasi prathamayoḥ pūrvasavarṇaḥ | pā. 6-1-102 | iti dīrghaḥ | rathe | rameroṇādikaḥ kthan [?] … nittvād ādyudāttaḥ | haritaḥ | hṛ-sva-ruhi-yuṣibhya itiḥ | u. 1-[?] … rohitaḥ | ruher asi tenaiva sūtreṇetiḥ … tābhiḥ | sāv ekāca iti vibhakteḥ prāptam udāttatvaṃ sāvanarṇeti niṣidhyate | devān ity atra pūrvavad utvānunāsikau ||12||*
+> *he devāgne rohito rohicchabdābhidheyāstvadīyā vaḍavā rathe yukṣva | yojaya | hiśabdaḥ pādapūraṇārthaḥ | kīdṛśīḥ | aruṣīrgatimatīrharito hartuṃ rathārūḍhānpuruṣānnetuṃ samarthāḥ | tābhirvaḍavābhirihāsminkarmaṇi devānā vaha || yukṣva | yujir yoge | loṭ | svaritettvādātmanepadaṃ | thāsaḥ se | savābhyāṃ vāmau | rudhādibhyaḥ śnam | tasya bāhulakālluk | kutvaṣatve | pratyayasvareṇāntodāttaḥ | saṃhitāyāṃ dvyaco 'tastiṅa iti dīrghaḥ | aruṣīḥ | ṛ gatau | ṛcchanti gacchantītyaruṣyo vaḍavāḥ | ṛhanibhyāmuṣan | u. 4-73 | dhātorguṇo raparatvaṃ | nittvādādyudātto 'ruṣaśabdaḥ | tasmātstriyāṃ chāndaso ṅīp | śasi prathamayoḥ pūrvasavarṇaḥ | pā. 6-1-102 | iti dīrghaḥ | rathe | ramerauṇādikaḥ kthanpratyayaḥ | nittvādādyudāttaḥ | haritaḥ | hṛsṛruhiyuṣibhya itiḥ | u. 1-97 | iti harateritipratyayaḥ | ikāraḥ pratyayasvareṇodāttaḥ | rohitaḥ | ruherapi tenaiva sūtreṇetiḥ | ikāraḥ pratyayasvareṇodāttaḥ | tābhiḥ | sāvekāca iti vibhakteḥ prāptamudāttatvaṃ sāvarvarṇeti niṣidhyate | devānityatra pūrvavadrutvānunāsikau || 27 ||*
 
-**Translation:** "O radiant Agni! Yoke to your chariot your mares (*vaḍavāḥ*) known by the name *Rohit*. *Hi* is a mere filler for the metre. Of what sort? *Aruṣīḥ* — those that go, that move swiftly; *haritaḥ* — able to carry those who sit in the chariot. With those mares, here, in this rite, bring the gods." The rest is grammar, noted briefly: *yukṣva* (*yuj*, *loṭ*, *ātmanepada*, *thās* → *se*, *śnam*, with the *śnam* dropped by "variously in the Veda"; *kutva* and *ṣatva*); *aruṣīḥ* (*ṛ* "to go", the Uṇādi *uṣan*; first-syllable accent; the feminine *ṅīp*; the acc. plural by P. 6-1-102 *prathamayoḥ pūrvasavarṇaḥ*); *rathe* (*ram* "to play", the Uṇādi *kthan*, [?]); *haritaḥ* (Uṇ. 1-[?] *hṛsvaruhiyuṣibhya itiḥ*); *rohitaḥ* (*ruh* with the same *iti* suffix); *tābhiḥ* (the accent of the ending barred by *sāvanarṇa*…); *devān* + *iha* (the *u* and *anunāsika* as before). *(Grammar, noted briefly; P. 6-1-102 as read agrees with the standard numbering.)*
+**Translation:** "O god Agni, *yukṣva*, yoke, to the chariot your mares called by the word *rohit*. The word *hi* is to fill the pāda. What are they like? *Aruṣīḥ*, swift-moving; *haritaḥ*, able to carry, to take along, the men mounted on the chariot. With those mares bring the gods here to this rite." (Grammatical tail: *yukṣva*, *yuj* with *loṭ*, *ātmanepada* (*svaritet*), *se* for *thās*, *v* for the *e*, the *śnam* dropped, *k* and *ṣ*, final udātta by the suffix accent, lengthened in the Saṃhitā; *aruṣīḥ*, "the mares that go", *uṣan* after *ṛ* (Uṇ. 4-73), *guṇa*, *aruṣa* initial udātta, Vedic *ṅīp*, lengthening by Pā. 6-1-102; *rathe* with *kthan*, initial udātta; *haritaḥ* and *rohitaḥ* with *iti* (Uṇ. 1-97), the *i* udātta; *tābhiḥ*, the udātta of *sāv ekācaḥ* barred by *sāv avarṇa…*; *devān* as before. The closing "27" is the varga number.)
 
-**Grammar pages (pp. 624–626, upper part), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *yukṣva* (*yuj* with *loṭ*; the *ātmanepada* of a *svarit*-marked root, P. 1-3-72; *thās* → *se* P. 3-4-80; *sa-vābhyāṃ vāmau* P. 3-4-91; *rudhādibhyaḥ śnam* P. 3-1-78; *bahulaṃ chandasi* P. 2-4-73; *coḥ kuḥ* P. 8-2-30; *khari ca* P. 8-4-55; *ādeśapratyayayoḥ* P. 8-3-59; the verb unaccented by P. 8-1-28, but the accent of the ending remains because the *pāda* does not begin with it; *dvyaco 'tastiṅaḥ* P. 6-3-135 for the lengthened *yukṣvā*), *aruṣīḥ* (*ṛ* "to go" with *laṭ* *jhi* → *anti*, *śap*, the *juhotyādi* class and *ślu*, doubling and the *ṛ*→*ar* *ur at* P. 7-4-66, *ārtiprapiparty* etc. — the Kannada works through two derivations from the two roots *ṛ*, with the Uṇādi *uṣan* (Uṇ. 4-[?] *ṛhanibhyām ūṣan*, an alternative reading with a long *ū*); *yasyeti ca* P. 6-4-148; *jīp*, *prathamayoḥ pūrvasavarṇaḥ* P. 6-1-102), *rathe* (*ramu krīḍāyām*, "that in which they play", *janikaṣinīramikāśibhyaḥ kthan*, Uṇ. 2-[?]; P. 7-2-10 *ekāca upadeśe 'nudāttāt* blocks *iṭ*; *anudāttopadeśa*… P. 6-4-37 drops *m*), *haritaḥ* (*hṛ* "to take", *sṛ*, *ruh*, *yuṣ*: *iti* suffix, Uṇ. 1-[?]; guṇa, *rapara*), *rohitaḥ* (*ruh* + *iti*; *pugantalaghūpadhasya ca* P. 7-3-86), *tābhiḥ* (*tad* + *bhis*, *tyadādīnām aḥ* P. 7-2-102, *ato guṇe* P. 6-1-97 *pararūpa*, *ājādyatas ṭāp* P. 4-1-4, the accent of the instrumental ending *sāvekācas tṛtīyādir vibhaktiḥ* P. 6-1-168 blocked by *na gośvannsāvavarṇarāḍaṅkvyādibhyaḥ* P. 6-1-182 [?]; the ending unaccented by P. 3-1-4), and *devān* + *iha* (P. 8-3-1 and 8-3-5 *ātoṭi nityam*, *anunāsika*; *bho-bhago-agho-apūrvasya yo 'śi* P. 8-3-17 *ru*→*y*; *lopaḥ śākalyasya* P. 8-3-19; *pūrvatrāsiddham* P. 8-2-1 explains why the *guṇa* of P. 6-1-87 does not apply). *(Numerals as read from small print; pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 623)*
-
-**देव (deva)** — O radiant Agni | **अरुषीः (aruṣīḥ)** — swift-running | **हरितः (haritaḥ)** — able [to carry] easily | **रोहितः (rohitaḥ)** — named *Rohit* [your mares] | **रथे (rathe)** — to the chariot | **युक्ष्व (yukṣva)** — yoke | **ताभिः (tābhiḥ)** — with those mares | **इह (iha)** — for this ritual action of ours | **देवान् (devān)** — the gods | **आ वह (ā vaha)** — bring.
+**देव (deva)** — O shining Agni | **अरुषीः (aruṣīḥ)** — able to run swiftly | **हरितः (haritaḥ)** — able to draw | **रोहितः (rohitaḥ)** — your mares named *Rohit* | **रथे (rathe)** — to the chariot | **युक्ष्व (yukṣva)** — join (yoke to the pole) | **ताभिः (tābhiḥ)** — with the help of those mares | **इह (iha)** — for this our sacrificial rite | **देवान् (devān)** — the gods | **आ वह (ā vaha)** — bring.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, you are radiant. Your mares called *Rohit* are powerful, swift in running, and able to carry those who sit [in the chariot] without effort. Yoke them to your chariot, and with their help bring the gods to this ritual action of ours.
+O Agni, you are divine. Your mares called *Rohit* are strong; they can run swiftly; they can draw those seated without effort. Yoke those mares to your chariot and with their help bring the gods for this our sacrificial rite.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Agni, harness your twany [sic] red mares to your chariot and by means of them bring the gods hither.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 624)*
+### Page 624 — Rik 12: Special Topics and grammar
 
-**युक्ष्व (yukṣva)** — the final syllable is lengthened in the Saṃhitā text to suit the metre.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**अरुषीः (aruṣīḥ)** — *ṛ gatau*; *ṛnti gacchantīty aruṣyo vaḍavāḥ*: the root *ṛ* has the sense "to go"; because horses are speedy they are called *aruṣyaḥ*; *aruṣīḥ* is the accusative plural.
+**Yukṣva**: the final syllable is long in the Saṃhitā to suit the metre.
 
-**Rik 12, grammar tail (p. 626, upper part), noted briefly.** The close of the grammar for *devān* + *iha*: the *ā*-final takes the *anunāsika*; *ru* → *y* by P. 8-3-17 *bho-bhago…*; *lopaḥ śākalyasya* P. 8-3-19 drops the *y*; by *pūrvatrāsiddham* this dropped *y* is treated as not having happened, so the *guṇa* of P. 6-1-87 *ād guṇaḥ* does not apply; the form is *devām̐ ihā* as in the Saṃhitā. ॥12॥
+**Aruṣīḥ**:
 
-**Close of Sūkta 14.** The print has no large colophon of the "illige … sūktavu samāptavu … vargavu mugidudu" kind after Rik 12 on p. 626; the sūkta simply ends with the ornament and the heading of the fifteenth. So the varga-numerals "26, 27 [?]" on the Sūkta 14 heading remain the only evidence for the varga count, and are unreliable.
+> ऋ गतौ । ऋच्छन्ति गच्छन्तीत्यरुष्यो वडवाः ॥
+>
+> *ṛ gatau | ṛcchanti gacchantītyaruṣyo vaḍavāḥ ||*
+
+The root *ṛ* has the sense of going. Since horses are endowed with motion, they are called *aruṣyaḥ*; *aruṣīḥ* is the accusative plural.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 624–626, noted briefly)*
+
+**युक्ष्व (*yukṣva*)**: *yujir yoge*; *loṭ*; the root is *svaritet*, so the *ātmanepada*; 2nd singular *thās*; *se* for it by "thāsas se" (Pā. sū. 3-4-80); *v* for the *e* by "savābhyāṃ vāmau" (Pā. sū. 3-4-91); the *vikaraṇa* *śnam* by "rudhādibhyaḥ śnam" (Pā. sū. 3-1-78), dropped by "bahulaṃ chandasi" (Pā. sū. 2-4-73); *yuj* + *sva*: *g* for *j* by "coḥ kuḥ" (Pā. sū. 8-2-30); *k* by "khari ca" (Pā. sū. 8-4-55); *ṣ* for the *s* by "ādeśapratyayayoḥ" (Pā. sū. 8-3-59): *yukṣva*. At the head of the pāda and not after a word, so "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) does not make it wholly unaccented; the suffix accent makes it final udātta. In the Saṃhitā "dvyaco 'tas tiṅaḥ" (Pā. sū. 6-3-135) lengthens the *a*.
+
+**अरुषीः (*aruṣīḥ*)**: the root *ṛ gatau*. It is read in the *bhvādi* class as *ṛ gatiprāpaṇayoḥ*: *laṭ*, 3rd plural *jhi*, *ant* for *jh* by "jho 'ntaḥ", *śap* by "kartari śap" (Pā. sū. "4-1-68" [as printed, for 3-1-68]): *ṛ* + *a* + *anti*; *ṛcch* for *ṛ* by "pāghrādhmā…": *ṛcchanti*. Another root *ṛ* is read in the *juhotyādi* class as *ṛ sṛ gatau*: *laṭ*, *jhi*, *śap*, then the loss of *śap* by "juhotyādibhyaḥ śluḥ" (2-4-75), reduplication by "ślau": *ṛ* + *ṛ* + *jhi*; "urat" (Pā. sū. 7-4-66): *a* for the *ṛ* of the reduplicate, with *r*; *i* for the *a* by "artipiparttyoś ca"; *ir* + *ṛ* + *jhi*; the *r* removed by "halādiḥ śeṣaḥ"; *jhi* is *ṅit* by "sārvadhātukam apit", so the second *ṛ* takes no *guṇa*; *iy* for the *i* by "abhyāsasyāsavarṇe": *iy* + *ṛ* + *jhi*; "adabhyastāt" (Pā. sū. 7-1-4): *at* for the *jh* after a reduplicated stem; *yaṇ* by "iko yaṇ aci" (Pā. sū. 6-1-77), *r* for the *ṛ*:
+
+### Page 625 — Rik 12: grammar (continued)
+
+*iyrati*. So from the root *ṛ* the form *ranti* does not arise. Here the analysis *iyrati* or *ṛcchanti gacchanti iti aruṣyaḥ vaḍavāḥ* is fitting. "ṛhanibhyām uṣan" (Uṇ. sū. "4-473" [?]; *ṛ gatau*, *hana hiṃsāgatyoḥ*): after these roots the suffix *uṣan*; so *uṣan* after *ṛ*; *guṇa* by "sārvadhātukārdhadhātukayoḥ", with *r* after it: *aruṣa*. In the Uṇādi text now available the reading is long, *ṛhanibhyām ūṣan*; on that reading the shortening of the *ū* here is Vedic. *Aruṣa* is initial udātta by the *nit* accent. After it, Vedic *ṅīp*; the *a* dropped by "yasyeti ca" (Pā. sū. 6-4-148): *aruṣī*; accusative plural *śas*; *pūrvasavarṇa-dīrgha* by "prathamayoḥ pūrvasavarṇaḥ" (Pā. sū. 6-1-102); *ru*, visarga: *aruṣīḥ*.
+
+**रथे (*rathe*)**: *ramu krīḍāyām*; *ramante asminn iti rathaḥ*. "hanikuṣinīramikāśibhyaḥ kthan" (Uṇ. sū. "2-159" [?]) gives the suffix *kthan*; "ekāca upadeśe 'nudāttāt" ("7-2-10") bars the *iṭ*; the *m* dropped by "anudāttopadeśa…" (Pā. sū. 6-4-37); initial udātta by the *nit* accent.
+
+**हरितः (*haritaḥ*)**: "hṛsṛruhiyuṣibhya itiḥ" (Uṇ. sū. "1-96" [?]; *hṛñ haraṇe*, *sṛ gatau*, *ruha bījajanmani*, *yuṣ*, a *sautra* root): the suffix *iti*; *iti* after *hṛ*: *hṛ* + *it*; *guṇa* by "sārvadhātukārdhadhātukayoḥ", with *r*: *harit*; the *i* udātta by the suffix accent; accusative plural.
+
+**रोहितः (*rohitaḥ*)**: *ruha bījajanmani*; *iti* after *ruh* too by "hṛsṛ…" (Uṇ. sū. "1-97" [?]); the *i* udātta by the suffix accent; *laghūpadha-guṇa* by "pugantalaghūpadhasya ca" (Pā. sū. 7-3-86), *o* for the *u*; accusative plural *rohitaḥ*.
+
+**ताभिः (*tābhiḥ*)**: *tad* + *bhis*; *a* for the *d* by "tyadādīnām aḥ" (Pā. sū. 7-2-102); *pararūpa* by "ato guṇe" (Pā. sū. 6-1-97); *ṭāp* by "ajādyataṣ ṭāp" (Pā. sū. 4-1-4), lengthening: *tābhiḥ*. The udātta that "sāv ekācas tṛtīyādir vibhaktiḥ" (Pā. sū. 6-1-168) would give the ending is barred by "na go-śvan-sāv-avarṇa…" (Pā. sū. 6-1-182); so by "anudāttau suppitau" (Pā. sū. 3-1-4) the ending is unaccented.
+
+**देवाँ इह (*devām̐ iha*)**: with *devān* + *iha*, in the Saṃhitā, *ru* for the *n* by "dīrghād aṭi samānapāde" (Pā. sū. "8-4-9" [as printed, for 8-3-9]); the *ā* nasalised by "āto 'ṭi nityam" (Pā. sū. 8-3-3);
+
+### Page 626 — Rik 12: grammar (end); close of Sūkta 14
+
+*y* for the *ru* by "bhobhago…"; the *y* dropped by "lopaḥ śākalyasya" (Pā. sū. 8-3-19); since by "pūrvatrāsiddham" the loss of *y* is treated as not done, no *guṇa* by "ād guṇaḥ": *devām̐ iha*.
+
+**॥१२॥**
+
+*(The sūkta ends here; the print has no separate colophon for Sūkta 14. The bhāṣya closes with the varga number "27", agreeing with the heading's "26, 27".)*
+
+---
 
 ## ॥ ಹದಿನೈದನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 15 — *"indra somaṃ piba"* ("The Fifteenth Sūkta")
 
