@@ -17935,16 +17935,8 @@ the word *madhu* is initial udātta. The derivation of the word *madhu* is set o
 
 ---
 
-**Progress note — printed page 808 reached; Sūkta 19 complete; VOLUME 2 COMPLETE (end of the scanned source).**
+**Progress note — Volume 2 complete (printed p. 808, end of the scanned source); numeral, [?] and accent pass complete (Oct 2026).**
 
-**This batch:** Sūkta 19 (*prati tyaṃ cārum adhvaram*, nine riks, to Agni with the Maruts; Medhātithi Kāṇva; Gāyatrī), from p. 783 through the colophon and imprint on p. 808. This is the last page of `Rig_Vol2.pdf` (PDF page 823). With it the First Adhyāya of the First Aṣṭaka — and therefore Volume 2 (Suktas 3–19) — is translated end to end.
+**This pass:** every page re-read from the better scan (PDF 1–822): numerals, references and [?] readings checked against the print; bhāṣyas re-transcribed in full with their grammatical tails; grammar paragraphs rewritten from the print; Saṃhitā accents from the print (Pada unaccented). Details per batch: `vol2/review/notes_PDF*.txt`, `vol2/vol2_pass_log.md`; open readings and "as printed" numbers: `vol2/vol2_state.md`.
 
-**Next task:** none in the source. Possible follow-up work, only if requested: (a) clean up the older progress notes inside the file (around lines 170, 385, 501) and the stray Cyrillic string on p. 29; (b) reconcile the varga numerals with the closing numeral of Sūkta 19 ("37"); (c) compile a "known limitations" appendix for Volumes 1 and 2; (d) an outside Vedic/Sanskrit expert review.
-
-**Open flags:**
-- Sūkta 19 heading: varga numerals read as "36, 37 [?]"; the closing line of Rik 9 reads "9 ‖ 19 ‖ 37", which supports it. The Āśvalāyana Śrauta-sūtra reference in the application note (2-[13?]) is uncertain.
-- The grammar of Riks 1–9 is outline only; sūtra and Uṇādi numerals are marked [?] as pointers. The Nirukta, Śatapatha-Brāhmaṇa and Ṛgveda reference numerals in the Special Topics are marked [?]; the *tyam* citations (Rik 1) include one verse (*tyaṃ sumeṣaṃ mahayo svarvidam* …) whose reading I could not confirm.
-- Rik 5: the Special Topics for *ghoravarpasaḥ* are given in two parts across a page break; the Sanskrit gloss is partly garbled in the print.
-- Rik 7: the root-group note for *īṅkhayanti* (the *ukh ukhī* list) is partly unclear [?]; Rik 8 Uṇādi note on *samudra* is partly unclear [?].
-- Stray numerals ("99"–"101") after printed English at page feet are unexplained.
-- Older progress notes inside the file (around lines 170, 385, 501) and a stray Cyrillic string on p. 29 are not yet cleaned.
+**Open flags:** the [?] and [accent ?] readings listed in `vol2_state.md` (the print does not settle them); older progress notes inside the file (around lines 170, 385, 501) and a stray Cyrillic string on p. 29 are not yet cleaned; outside Vedic/Sanskrit review wanted.
