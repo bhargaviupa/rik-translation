@@ -21,20 +21,19 @@ def label(g):
     p=printed(g)
     return 'unnumbered' if p is None else f"p. {PRINTED_AS[g]} (= {p}, as printed)" if g in PRINTED_AS else f"p. {p}"
 HEAD=re.compile(r'^### (?:Pages? ([0-9ivxlc]+)(?:\s*[–-]\s*([0-9ivxlc]+))?\b|Sūkta \d+ — Rik .*\(printed pp?\. (\d+)(?:[–-](\d+))?\)).*$',re.M)
-SUPERSEDED=('### Pages 452–454 — Sūkta 29, Rik 6','## ॥ ಮೂವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು ॥')   # unverified text, replaced by the REDO block
+# (Oct 27: the superseded first version of pp. 452-517 was removed and the REDO put in its place; the REDO-style
+# heading pattern above is kept only in case such headings reappear.)
 def _key(s): return ROMAN.index(s)-100 if s in ROMAN else int(s) if s.isdigit() else None
 def sections():
     """list of (file, first, last, start, end) for every '### Page N' section, in file order"""
     out=[]
     for f in (EN,):
         t=open(f,encoding='utf8').read(); ms=list(HEAD.finditer(t))
-        sa=t.index(SUPERSEDED[0]); sb=t.index(SUPERSEDED[1])
         for i,m in enumerate(ms):
-            if sa<=m.start()<sb: continue
             g1,g2=(m.group(1),m.group(2)) if m.group(1) else (m.group(3),m.group(4))
             a=_key(g1); b=_key(g2) if g2 else a
             if a is None: continue
-            end=min([x.start() for x in ms[i+1:i+2]]+[sa] if m.start()<sa else [x.start() for x in ms[i+1:i+2]]+[len(t)])
+            end=ms[i+1].start() if i+1<len(ms) else len(t)
             out.append((f,a,b if b is not None else a,m.start(),end))
     return out
 _S=None; _T={}

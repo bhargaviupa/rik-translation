@@ -11,12 +11,11 @@ fresh session: read this file and `vol3/vol3_state.md` first, continue from wher
 ## Inputs (all under `vol3/`; see `vol3/README.md`)
 - Main file: `vol3/Rigveda_Samhita_Vol3_English_Translation.md` (and its `.docx`). It is organised by Ṛk: headings
   `### Pages A–B — Sūkta N, Rik M`, with `*(p. N)*` markers on the parts inside.
-- **Sūkta 29 Ṛks 6–7 and all of Sūkta 30 (printed pp. 452–517):** the text under the headings from
-  `### Pages 452–454 — Sūkta 29, Rik 6` up to the Sūkta 31 heading is **superseded** (written while page views failed;
-  see `vol3/Session_Report_Vol3_Sukta29-32.md`). The text to correct for those pages is the **SUPERSEDING REDO** block
-  near the end of the file (headings `### Sūkta 29 — Rik 6 (printed pp. 452–454)` … `### Sūkta 30 — Rik 22 … (printed
-  pp. 515–517)`; its Saṃhitā label is `**Saṃhitā-pāṭha**`). Leave the superseded text as it is (removing it is the user's
-  decision; listed in `vol3_state.md`). `tools/pages.py` already skips it and maps those pages to the REDO block.
+- **Sūkta 29 Ṛks 6–7 and all of Sūkta 30 (printed pp. 452–517)** are the text redone from the page images of the old scan
+  (see `vol3/Session_Report_Vol3_Sukta29-32.md`); on Oct 27 it was moved into its place and the first, unverified version
+  removed (user's decision). Its blocks are labelled in the short form (`**Saṃhitā-pāṭha** *(p. 452)*`); `sam.py` finds both.
+- The *anāhitāgni* note of Sūkta 31 (p. 576) still stands as a separate "Restored note" section near the end of the file;
+  when the batch reaches p. 576, move it into the Special Topics of Sūkta 31 Ṛk 15, where the print has it.
 - Better scan in `vol3/scans/`, seven parts in page order: `03 Rigveda Samhitha Volume 03 1.pdf` (global PDF 1–100),
   `… 2.pdf` (101–200), `… 3.pdf` (201–300), `… 4.pdf` (301–400), `… 5.pdf` (401–500), `… 6.pdf` (501–580),
   `… 7.pdf` (581–660). Plain git files (not LFS). The older scan is `vol3/scans/Rig_Vol3.pdf` (plain git file;
