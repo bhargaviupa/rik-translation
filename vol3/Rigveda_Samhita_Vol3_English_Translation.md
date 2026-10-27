@@ -2140,41 +2140,75 @@ O priests, this Savitṛ shines, ready to give wealth and the like to all of us.
 
 ---
 
-### Pages 87–89 — Sūkta 22, Rik 9
+### Page 87 (lower) — Sūkta 22, Rik 9
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अग्ने पत्नीरिहा वह देवानामुशतीरुप ।
-> त्वष्टारं सोमपीतये ॥९॥
+> अग्ने पत्नी॑रि॒हा व॑ह दे॒वाना॑मुश॒तीरुप॑ ।
+> त्वष्टा॑रं॒ सोम॑पीतये ॥९॥
 >
-> *agne patnīr ihā vaha devānām uśatīr upa |*
-> *tvaṣṭāraṃ somapītaye ||9||*
+> *agne pátnīr ihā́ vaha devā́nām uśatī́r úpa |*
+> *tváṣṭāraṃ sómapītaye ||9||*
+
+*(Strokes over त्नी, व (वह), वा (देवानाम्) and प (उप); bars under रि, दे and श. Line 2: a stroke over ष्टा, a bar under रं, a stroke over म (सोम).)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> अग्ने । पत्नीः । इह । आ । वह । देवानाम् । उशतीः । उप ॥
-> त्वष्टारम् । सोमऽपीतये ॥९॥
+> अग्ने । पत्नीः । इह । आ । वह । देवानां । उशतीः । उप ॥
+> त्वष्टारं । सोमऽपीतये ॥९॥
 >
-> *agne | patnīḥ | iha | ā | vaha | devānām | uśatīḥ | upa ||*
-> *tvaṣṭāram | soma-pītaye ||9||*
+> *agne | patnīḥ | iha | ā | vaha | devānāṃ | uśatīḥ | upa ||*
+> *tvaṣṭāraṃ | soma 'pītaye ||9||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 87; compressed)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> अग्निष्टोमे प्रातःसवनेऽग्ने पत्नीरिहा वहेति नेष्टुः प्रेष्ठिकेयाज्या । प्रशास्ता ब्राह्मणाच्छंसीति खण्डे सूत्रितम् । अग्ने पत्नीरिहा वहोक्षान्नायेति । आ. [५-५] [?] ॥ हे अग्ने उशतीः कामयमाना देवानां पत्नीरिन्द्राण्याद्या इह देवयजनदेश आ वह । तथा त्वष्टारं देवं सोमपीतये सोमपानार्थमुप समीपे आ वह ॥
+*(It opens with the application; the Āśvalāyana number is printed ५-५.)*
+
+> अग्निष्टोमे प्रातःसवनेऽग्ने पत्नीरिहा वहेति नेष्टुः प्रस्थितयाज्या । प्रशास्ता ब्राह्मणाच्छंसीति खण्डे सूत्रितं । अग्ने पत्नीरिहा वहोक्षान्नाय वशान्नाय । आ० ५-५ । इति ॥
 >
-> *agniṣṭome prātaḥsavane 'gne patnīr ihā vaheti neṣṭuḥ preṣṭhikeyājyā | praśāstā brāhmaṇācchaṃsīti khaṇḍe sūtritam | agne patnīr ihā vahokṣānnāyeti | ā. [5-5] [?] || he agne uśatīḥ kāmayamānā devānāṃ patnīr indrāṇy-ādyā iha deva-yajana-deśa ā vaha | tathā tvaṣṭāraṃ devaṃ somapītaye soma-pānārthaṃ upa samīpe ā vaha ||*
+> *agniṣṭome prātaḥsavane 'gne patnīrihā vaheti neṣṭuḥ prasthitayājyā | praśāstā brāhmaṇācchaṃsīti khaṇḍe sūtritaṃ | agne patnīrihā vahokṣānnāya vaśānnāya | ā0 5-5 | iti ||*
 
-**Translation:** "In the Agniṣṭoma, at the morning pressing, the rik *agne patnīr ihā vaha* is the *yājyā* of the *neṣṭṛ* priest; so laid down in the Sūtra, in the section *praśāstā brāhmaṇācchaṃsī* (Āśvalāyana [5-5] [?]). O Agni! Bring here, to the place of sacrifice, the wives of the gods — Indrāṇī and the rest — who are eager (*uśatīḥ*); and bring also the god Tvaṣṭṛ near, for the drinking of soma." *(Grammar pages 88–89, noted briefly: the words treated are* patnīḥ *[P. 4-1-33 *patyur no yajñasaṃyoge*, with *ṅīp* and *n*],* uśatīḥ *[*vaś* + *śatṛ*, *saṃprasāraṇa*, *ṅīp* by P. 4-1-6],* tvaṣṭāram*; numerals as read, pointers only.)*
+**Translation (application):** "In the *agniṣṭoma*, at the morning pressing, *agne patnīr ihā vaha* is the *prasthita-yājyā* of the *neṣṭṛ*; it is laid down in the section *praśāstā brāhmaṇācchaṃsī*: '*agne patnīr ihā vaha*, *ukṣānnāya vaśānnāya*' (Āśv. 5-5)."
 
-**॥ Prati-padārthaḥ ॥** **अग्ने (agne)** — O Agni | **उशतीः (uśatīḥ)** — loving [the gods] | **देवानाम् (devānām)** — the gods' | **पत्नीः (patnīḥ)** — wives | **इह (iha)** — here | **आ वह (ā vaha)** — bring | **त्वष्टारम् (tvaṣṭāram)** — Tvaṣṭṛ | **सोमपीतये (somapītaye)** — for drinking soma | **उप (upa)** — near [bring].
+> हे अग्ने उशतीः कामयमाना देवानां पत्नीरिन्द्राण्याद्या इह देवयजनदेश आ वह । तथा त्वष्टारं देवं सोमपीतये सोमपानार्थमुप समीप आ वह ॥ पत्नीः । डत्यन्तः पतिशब्द आद्युदात्तः । पत्युर्नो यज्ञसंयोगे । पा० ४-१-३३ । इति ङीप् । तत्संनियोगेन नकारश्च । ङीपः पित्त्वाड्डतिस्वर एव । उशतीः । वश कान्तौ । लटः शतृ । अदिप्रभृतिभ्यः शप इति शपो लुक् । शतुर्ङित्त्वाद्ग्रहिज्यादिना संप्रसारणं । उगितश्चेति ङीप् । शतुरनुम इति ङीबुदात्तः ॥
+>
+> *he agne uśatīḥ kāmayamānā devānāṃ patnīrindrāṇyādyā iha devayajanadeśa ā vaha | tathā tvaṣṭāraṃ devaṃ somapītaye somapānārthamupa samīpa ā vaha || patnīḥ | ḍatyantaḥ patiśabda ādyudāttaḥ | patyurno yajñasaṃyoge | pā0 4-1-33 | iti ṅīp | tatsaṃniyogena nakāraśca | ṅīpaḥ pittvāḍḍatisvara eva | uśatīḥ | vaśa kāntau | laṭaḥ śatṛ | adiprabhṛtibhyaḥ śapa iti śapo luk | śaturṅittvādgrahijyādinā saṃprasāraṇaṃ | ugitaśceti ṅīp | śaturanuma iti ṅībudāttaḥ ||*
 
-**॥ Bhāvārthaḥ ॥** O Agni! Bring here the wives of the gods, who are dear to the gods, and Tvaṣṭṛ, to drink the soma.
+**Translation:** "O Agni! Bring (*ā vaha*) *iha*, here to the place of the sacrifice, the *uśatīḥ*, desiring, *patnīḥ*, wives, *devānām*, of the gods — Indrāṇī and the rest. Likewise bring near (*upa*) the god Tvaṣṭṛ *somapītaye*, to drink soma." (Grammatical tail: *patnīḥ*, the word *pati*, ending in *ḍati*, is initially udātta; *ṅīp* by *patyur no yajñasaṃyoge* (Pā. 4-1-33), and with it the *n*; since *ṅīp* is *pit*, the accent of *ḍati* alone; *uśatīḥ*, *vaśa kāntau*, *śatṛ* for *laṭ*, *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ*, *saṃprasāraṇa* by *grahijyā…* since *śatṛ* is *ṅit*, *ṅīp* by *ugitaś ca*, the *ṅīp* udātta by *śatur anumaḥ…*.)
+
+### Page 88 — Rik 9: bhāṣya (end), word-meanings, overall sense, English, Special Topics
+
+**॥ Prati-padārthaḥ ॥**
+
+**अग्ने (agne)** — O Agni | **उशतीः (uśatīḥ)** — full of love | **देवानां (devānāṃ)** — of the gods | **पत्नीः (patnīḥ)** — the women (wives) | **इह (iha)** — to this place | **आ वह (ā vaha)** — bring | **त्वष्टारं (tvaṣṭāraṃ)** — Tvaṣṭṛ too | **सोमपीतये (somapītaye)** — to drink soma | **उप (upa)** — near (bring).
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni, bring here, to drink soma, the wives who are dear to the gods, and Tvaṣṭṛ.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Agni, bring hither, the anxious wives of the gods and the god Twashtri to drink our Soma
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 88)* In the Agniṣṭoma, at the morning pressing, the priest called Neṣṭṛ uses this rik as a *yājyā* mantra (Āś. [5-5] [?]: *agne patnīr ihā vaha* and *ukṣānnāya vaśānnāya* [Ṛ. Saṃ. 1-?-?, marked [?]]). This rik and the next three praise the wives of the gods; no particular names are given, only 'the wives of the gods'. **उशतीः** — *vaś kāntau*: *kāmayamānāḥ* — loving the gods, bright, anxious. **त्वष्टारम्** — Tvaṣṭṛ: why the ṛṣi invokes Tvaṣṭṛ along with the goddesses is not clear.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+In the *agniṣṭoma* sacrifice, in the morning rite of pressing soma called the morning pressing, the priest called *neṣṭṛ* uses the ṛk *agne patnīḥ* as the *yājyā* mantra. On this the Āśvalāyana Śrautasūtra (Ā. 5-5), in the section *praśāstā brāhmaṇācchaṃsī*, has the sūtra *agne patnīr ihā vaha* (Ṛ. Saṃ. 1-22-9) *ukṣānnāya vaśānnāya* (Ṛ. Saṃ. 8-43-11).
+
+In this ṛk and in the next three ṛks the wives of the gods are set forth. In this ṛk the name of no particular god's wife is indicated; it only speaks of the wives of the gods in general.
+
+**उशतीः (uśatīḥ)** — *vaśa kāntau | kāmayamānāḥ ||* dear to the gods, radiant; "loving, anxious &c."
+
+**त्वष्टारं (tvaṣṭāraṃ)** — Tvaṣṭṛ. Why the ṛṣi has called Tvaṣṭṛ along with the wives of the gods is not clear.
+
+### Page 89 (upper) — Rik 9: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पत्नीः (patnīḥ)** — the root *pā rakṣaṇe*. By *pāter ḍatiḥ* (U. Sū., number not clear [?]) the suffix *ḍati* comes after the root *pā rakṣaṇe*; by the force of its being made *ḍit*, even without the name *bha*, the *ṭi* is dropped by *ṭeḥ* (Pā. Sū. 6-4-143). The word *pati* is initially udātta by the suffix accent. By *pratyur no yajñasaṃyoge* [as printed, for *patyur*] (Pā. Sū. 4-1-33) — when connection with the sacrifice, in the form of enjoying its fruit, is meant, *ṅīp* comes after the word *pati* in the feminine, and *n* is substituted for the *t*[*i*] of *pati* — with *ṅīp* and the *n* it becomes *patnī*. If the sūtra is explained as laying down only the substitute *n*, then *ṅīp* comes by *ṛnnebhyo ṅīp* (Pā. Sū. 4-1-5), as for stems ending in *n*. *Ṅīp* is *pit*; so by *anudāttau suppitau* (Pā. Sū. 3-1-4) it is unaccented, and thus the accent of the suffix *ḍati* alone stays.
+
+**उशतीः (uśatīḥ)** — the root *vaśa kāntau*, *laṭ*; by *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* (Pā. Sū. 3-2-124) the substitute *śatṛ*, the *vikaraṇa* *śap*; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) it is dropped (*luk*); by *sārvadhātukam apit*, *śatṛ* is *ṅit*; so by *grahijyāvayivyadhivaṣṭi…* (Pā. Sū. 6-1-16) *saṃprasāraṇa*, *u* for the *v*, the preceding form: *uśat*. By *ugitaś ca* (Pā. Sū. 4-1-6) — after a nominal stem ending in an *ugit*, in the feminine, *ṅīp* — *ṅīp*. By *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) — after a word that ends in a *śatṛ* without the augment *num* and is final-udātta, the *nadī* and the vowel-initial endings *śas* and the rest are also udātta — *ṅīp* is udātta. ॥9॥
+
+---
 
 ### Pages 89–91 — Sūkta 22, Rik 10
 
