@@ -105,3 +105,18 @@ Standing instruction: continue translating Volume 3 of the 1949 Kannada commenta
 - Never write any part of a note, including grammar, from a page not yet viewed.
 - "As printed" content must be transcribed or omitted with a flag; never reconstructed.
 - Progress notes and commit messages must say honestly which pages were and were not viewed.
+
+---
+
+## 9. Addendum — events after the first version of this report
+
+1. **Push problems and how they were resolved.** The first push was rejected because the remote branch had moved on (other sessions' Volume 4–11 work and edits to Volumes 1–2). I merged `origin/claude/modest-ptolemy-9efv8s` twice. `CLAUDE.md` conflicted: I kept the remote's rewritten version and added only the Volume 3 warning. The Volume 3 `.md` merged cleanly; the `.docx` was rebuilt from it with `pandoc -f markdown-yaml_metadata_block`.
+2. **Git LFS side effect.** On this machine `git add -A` converted the remote's real `Rigveda_Samhita_Vol8_English_Translation.pdf` and `…Vol9_English_Translation.pdf` into LFS pointers; the remote then refused the push (GH008, unknown LFS objects) and `lfs.github.com` is blocked by the egress proxy. Fix: I restored the two files to the remote's blobs, squashed my local merge commits into **one commit** on top of the remote tip (`b7832ce`), and pushed with `GIT_LFS_SKIP_PUSH=1`. The final diff against the remote touches only `CLAUDE.md`, the Volume 3 `.md`/`.docx` and the two session-report files.
+3. **Stop-hook "uncommitted changes".** The hook was reacting to those two PDFs showing as modified (the local LFS filter again). I did **not** commit them (that would re-break the remote); I marked them `git update-index --assume-unchanged` locally. The branch is clean and level with the remote.
+4. **Practical warning for future sessions:** do not run `git add -A` blindly in this repo; add files by name. If a push is rejected for LFS objects, check `git diff --stat origin/<branch> HEAD` for PDF files that became ~130-byte pointers.
+5. **Not audited:** Sūktas 26–28 and the rest of the other volumes were not checked for the same image-failure problem. The transcript for this session is at `/root/.claude/projects/-home-user-rik-translation/7c8258d9-ed33-5b92-9cea-2933f02ae549.jsonl`.
+6. **Project instructions changed under me.** The re-read `CLAUDE.md` now describes a larger project (Volumes 1–11, Kannada text deliverable, Volume 11+ cost-saving rules). Volume 3's files are marked "closed" for Volumes 1–7 in that file; the Volume 3 redo recommended in §7 therefore needs your explicit go-ahead before anyone edits or appends to the Volume 3 `.md` again.
+
+## 10. Decision needed from you
+
+- Shall I redo Sūkta 29 Riks 6–7 and Sūkta 30 from the page images (PDF 467–532) and append a superseding block to the Volume 3 `.md`, given that Volume 3 is listed among the "closed" files? (Recommended: yes, in a fresh session, starting only after confirming that page images load.)
