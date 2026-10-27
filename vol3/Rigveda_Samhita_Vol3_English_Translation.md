@@ -3444,41 +3444,83 @@ On the first view *apaspṛdhethām* is initially udātta; on the second view *s
 
 ---
 
-### Pages 146–150 — Sūkta 23, Rik 2
+### Page 146 (lower) — Sūkta 23, Rik 2
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उभा देवा दिविस्पृशेन्द्रवायू हवामहे ।
-> अस्य सोमस्य पीतये ॥ २ ॥
+> उ॒भा दे॒वा दि॑वि॒स्पृशे॑न्द्रवा॒यू ह॑वामहे ।
+> अ॒स्य सोम॑स्य पी॒त॑ये ॥२॥
+>
+> *ubhā́ devā́ divispṛ́śendravāyū́ havāmahe |*
+> *asyá sómasya pītaye ||2||*
 
-*ubhā devā divispṛśendravāyū havāmahe | asya somasya pītaye || 2 ||*
+*(Bars under उ, दे, वि and वा (वायू); strokes over दि, शे and ह. Line 2: bars under अ and पी; strokes over म and त.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 147 — Rik 2: Pada, bhāṣya, word-meanings, overall sense
 
-> उभा । देवा । दिविऽस्पृशा । इन्द्रवायू इति । हवामहे ॥ अस्य । सोमस्य । पीतये ॥ २ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*ubhā | devā | divi-spṛśā | indravāyū iti | havāmahe || asya | somasya | pītaye || 2 ||*
+> उभा । देवा । दिविऽस्पृशा । इन्द्रवायू इति । हवामहे ॥
+> अस्य । सोमस्य । पीतये ॥२॥
+>
+> *ubhā | devā | divi 'spṛśā | indravāyū iti | havāmahe ||*
+> *asya | somasya | pītaye ||2||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> पूर्वोक्त एव शस्त्र उभा देवा दिविस्पृशेति द्वे इन्द्रवायवत्वृचस्य प्रथमाद्वितीये । तथा च द्वितीयस्येति खण्डे सूत्रितम् — उभा देवा दिविस्पृशेति द्वे (आ. ७-६ [?]) इति ॥
+*(Numbers as printed: आ० ७-६, पा० ६-३-९-१, ६-३-२६-१, ६-२-१४२, ३-३-९५. The word read इत्यस्मिको is not clear [?].)*
+
+> पूर्वोक्त एव शस्त्र उभा देवा दिविस्पृशेति द्वे ऐन्द्रवायवतृचस्य प्रथमाद्वितीये । तथा च द्वितीयस्येति खण्डे सूत्रितं । उभा देवा दिविस्पृशेति द्वे । आ० ७-६ । इति ॥
 >
-> दिविस्पृशा द्युलोकवर्तिनावुभा देवा द्वौ देवावेन्द्रवायू हवामहे । आह्वयामः । किमर्थम् । अस्य सोमस्य पीतये । असकृद्व्याख्यातम् ॥ उभा देवा । सुपां सुलुगिति आकारः । दिविस्पृशा । हृद्युभ्यां ङेरुपसंख्यानम् (पा. ६-३-९ [?]) इति सप्तम्या अलुक् । कृदुत्तरपदप्रकृतिस्वरत्वम् । इन्द्रवायू । इन्द्रश्च वायुश्चेति द्वन्द्वः । उभयत्र वायोः प्रतिषेधो वक्तव्यः (पा. ६-३-२७ [?]) इत्यानङो निषेधः । देवताद्वन्द्वे च इति प्राप्तस्योभयपदप्रकृतिस्वरस्य नोत्तरपदेऽनुदात्तादौ (पा. ६-२-१४३ [?]) इति निषेधात्समासान्तोदात्तत्वमेव शिष्यते । हवामहे । ह्वेञ् स्पर्धायां शब्दे च । बहुलं छन्दसीति सम्प्रसारणम् । सम्प्रसारणाच्चेति पररूपत्वम् । शप् । गुणावादेशौ । शपः पित्त्वादनुदात्तत्वम् । तिङ्ङतिङ इत्यष्टमिको निघातः । अस्य । ऊडिदमित्यादिना षष्ठ्या उदात्तत्वम् । पीतये । पा पाने । स्थागापचो भावे क्तिन् [?] । घुमास्थेतीत्वम् । व्यत्ययेनान्तोदात्तत्वम् ॥
+> *pūrvokta eva śastra ubhā devā divispṛśeti dve aindravāyavatṛcasya prathamādvitīye | tathā ca dvitīyasyeti khaṇḍe sūtritaṃ | ubhā devā divispṛśeti dve | ā0 7-6 | iti ||*
 
-*pūrvokta eva śastra ubhā devā divispṛśeti dve indravāyavatvṛcasya prathamādvitīye | tathā ca dvitīyasyeti khaṇḍe sūtritam — ubhā devā divispṛśeti dve (ā. 7-6 [?]) iti ||*
-*divispṛśā dyulokavartināv ubhā devā dvau devāv endravāyū havāmahe | āhvayāmaḥ | kimartham | asya somasya pītaye | asakṛd vyākhyātam || ubhā devā | supāṃ suluk iti ākāraḥ | divispṛśā | hṛdyubhyāṃ ṅer upasaṃkhyānam (pā. 6-3-9 [?]) iti saptamyā aluk | kṛduttarapadaprakṛtisvaratvam | indravāyū | indraś ca vāyuś ceti dvandvaḥ | ubhayatra vāyoḥ pratiṣedho vaktavyaḥ (pā. 6-3-27 [?]) ity ānaṅo niṣedhaḥ | devatādvandve ca iti prāptasyobhayapadaprakṛtisvarasya nottarapade 'nudāttādau (pā. 6-2-143 [?]) iti niṣedhāt samāsāntodāttatvam eva śiṣyate | havāmahe | hveñ spardhāyāṃ śabde ca | bahulaṃ chandasīti saṃprasāraṇam | saṃprasāraṇāc ceti pararūpatvam | śap | guṇāvādeśau | śapaḥ pittvād anudāttatvam | tiṅ ṅatiṅ ity aṣṭamiko nighātaḥ | asya | ūḍidam ity ādinā ṣaṣṭhyā udāttatvam | pītaye | pā pāne | sthāgāpacaḥ bhāve ktin [?] | ghumāstheti ītvam | vyatyayenāntodāttatvam ||*
+**Translation (application):** "In the same *śastra* spoken of before, the two ṛks *ubhā devā divispṛśā* are the first and second of the tṛca to Indra-Vāyu; and so it is laid down in the section *dvitīyasya*: '*ubhā devā divispṛśā*: two' (Āśv. 7-6)."
 
-**Translation:** "[The rik is used] in the same *śastra* as before: of the *Indra-vāyava tṛca*, the first and second are the two riks *ubhā devā divispṛśā*; so it is laid down in the section *dvitīyasya*: 'the two [riks] *ubhā devā divispṛśā*' (Āś. [7-6] [?]). We invoke the two gods Indra and Vāyu, *divispṛśā* — both abiding in the heavenly world (touching the sky). For what? For the drinking of this soma — explained many times before." *(Grammar pages 148–150, noted briefly: the words treated are* ubhā devā *[the dual ending replaced by* ā *by P. 7-1-39 *supāṃ suluk…*],* divispṛśā *[*divaṃ spṛśataḥ*; the *aluk* of the locative after* dyu *and* hṛd *by the vārttika quoted under P. 6-3-9; the* kṛt-*final accent; the discussion of* spṛś *+ *kvip*],* indravāyū *[*devatādvandva*: *ānaṅ* by P. 6-3-26, its exception for* vāyu *by the vārttika; accent: *devatādvandve ca* P. 6-2-141 and its prohibition P. 6-2-142/143; the compound accent on the last remains],* havāmahe *[*hveñ spardhāyāṃ śabde ca*; *laṭ*, *mahiṅ*; *śap*; *saṃprasāraṇa* by P. 6-1-32 *bahulaṃ chandasi*, *pararūpa* P. 6-1-108; *guṇa*, *av* ādeśa; the accent of the verb lowered by the eighth-chapter rule P. 8-1-28 *tiṅ atiṅaḥ* — the sūtra quoted is P. 8-1-71 [?]],* asya *[*idam* → *a*, *sya*; accent],* pītaye *[*pā pāne* + *ktin*, P. 3-3-94; *īt* for *ā* P. 6-4-66 *ghumāsthāgāpājahātisāṃ hali*; accent shifted by *vyatyaya* to the end]; numerals as read, pointers only.)*
+> दिविस्पृशा द्युलोकवर्तिनावुभा देवा द्वौ देवाविन्द्रवायू हवामहे । आह्वयामः । किमर्थं । अस्य सोमस्य पीतये । असकृद्व्याख्यातं ॥ उभा देवा । सुपां सुलुगित्याकारः । दिविस्पृशा । हृद्द्युभ्यां ङेरुपसंख्यानं । पा० ६-३-९-१ । इति सप्तम्या अलुक् । कृदुत्तरपदप्रकृतिस्वरत्वं । इन्द्रवायू । इन्द्रश्च वायुश्चेति द्वन्द्वः । उभयत्र वायोः प्रतिषेधो वक्तव्यः । पा० ६-३-२६-१ । इत्यानङो निषेधः । देवताद्वन्द्वे चेति प्राप्तस्योभयपदप्रकृतिस्वरत्वस्य नोत्तरपदेऽनुदात्तादौ । पा० ६-२-१४२ । इति निषेधात्समासान्तोदात्तत्वमेव शिष्यते । हवामहे । ह्वेञ् स्पर्धायां शब्दे च । बहुलं छन्दसीति संप्रसारणं । संप्रसारणाच्चेति परपूर्वत्वं । शप् । गुणावादेशौ । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण पदस्याद्युदात्तत्वे प्राप्ते तिङ्ङतिङ इत्यस्मिको [?] निघातः । अस्य । ऊडिदमित्यादिना षष्ठ्या उदात्तत्वं । पीतये । पा पाने । स्थागापापचः । पा० ३-३-९५ । इति भावे क्तिन् । घुमास्थेतीत्वं । व्यत्ययेनान्तोदात्तत्वं ॥
+>
+> *divispṛśā dyulokavartināvubhā devā dvau devāvindravāyū havāmahe | āhvayāmaḥ | kimarthaṃ | asya somasya pītaye | asakṛdvyākhyātaṃ || ubhā devā | supāṃ sulugityākāraḥ | divispṛśā | hṛddyubhyāṃ ṅerupasaṃkhyānaṃ | pā0 6-3-9-1 | iti saptamyā aluk | kṛduttarapadaprakṛtisvaratvaṃ | indravāyū | indraśca vāyuśceti dvandvaḥ | ubhayatra vāyoḥ pratiṣedho vaktavyaḥ | pā0 6-3-26-1 | ityānaṅo niṣedhaḥ | devatādvandve ceti prāptasyobhayapadaprakṛtisvaratvasya nottarapade 'nudāttādau | pā0 6-2-142 | iti niṣedhātsamāsāntodāttatvameva śiṣyate | havāmahe | hveñ spardhāyāṃ śabde ca | bahulaṃ chandasīti saṃprasāraṇaṃ | saṃprasāraṇācceti parapūrvatvaṃ | śap | guṇāvādeśau | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa padasyādyudāttatve prāpte tiṅṅatiṅa ityasmiko [?] nighātaḥ | asya | ūḍidamityādinā ṣaṣṭhyā udāttatvaṃ | pītaye | pā pāne | sthāgāpāpacaḥ | pā0 3-3-95 | iti bhāve ktin | ghumāsthetītvaṃ | vyatyayenāntodāttatvaṃ ||*
 
-**॥ Prati-padārthaḥ ॥** **दिविस्पृशा (divispṛśā)** — dwelling in the heavenly world | **उभा देवा (ubhā devā)** — the two gods | **इन्द्रवायू (indravāyū)** — Indra and Vāyu | **अस्य सोमस्य (asya somasya)** — of this [prepared] soma-juice | **पीतये (pītaye)** — for drinking | **हवामहे (havāmahe)** — we call.
+**Translation:** "We *havāmahe*, call, *ubhā devā*, the two gods Indra and Vāyu, *divispṛśā*, dwelling in the world of heaven. For what? *Asya somasya pītaye*: explained more than once." (Grammatical tail: *ubhā devā*, the *ā* by *supāṃ suluk*; *divispṛśā*, the locative not dropped by *hṛddyubhyāṃ ṅer upasaṃkhyānam* (Pā. 6-3-9-1); the *kṛt* final member's accent; *indravāyū*, the *dvandva* 'Indra and Vāyu'; *ānaṅ* barred by *ubhayatra vāyoḥ pratiṣedho vaktavyaḥ* (Pā. 6-3-26-1); the accent of both members due by *devatādvandve ca* is barred by *nottarapade 'nudāttādau* (Pā. 6-2-142), so only the compound-final udātta remains; *havāmahe*, *hveñ spardhāyāṃ śabde ca*, *saṃprasāraṇa* by *bahulaṃ chandasi*, the preceding form by *saṃprasāraṇāc ca*, *śap*, *guṇa* and *av*; *śap* unaccented as *pit*, and the *tiṅ* by the *lasārvadhātuka* accent; when the word would be initially udātta, the loss of accent by *tiṅṅatiṅaḥ*; *asya*, the genitive udātta by *ūḍidam…*; *pītaye*, *pā pāne*, *ktin* in the action sense by *sthāgāpāpacaḥ* (Pā. 3-3-95), *ī* by *ghumāsthā…*, final udātta by *vyatyaya*.)
 
-**॥ Bhāvārthaḥ ॥** Now we call the two gods Indra and Vāyu, who dwell in the heavenly world, to drink the soma-juice prepared here.
+**॥ Prati-padārthaḥ ॥**
+
+**दिविस्पृशा (divispṛśā)** — who are in the world of heaven | **उभा देवा (ubhā devā)** — the two deities | **इन्द्रवायू (indravāyū)** — the deities called Indra and Vāyu | **अस्य सोमस्य (asya somasya)** — of this soma juice made ready here | **पीतये (pītaye)** — for drinking | **हवामहे (havāmahe)** — we call.
+
+**॥ Bhāvārthaḥ ॥**
+
+We now call (summon) the two deities Indra and Vāyu, who are in the world of heaven, to drink the soma juice made ready here.
+
+### Page 148 — Rik 2: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > We invoke the two gods Indra and Vayu that reach the sky, in order that they may drink this Soma.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 148)* **दिविस्पृशा** — this word, ending in the dual, indicates 'touching heaven' — 'going to heaven', 'dwelling in heaven', and the like.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**दिविस्पृशा (divispṛśā)** — this word, ending in the dual, conveys meanings such as 'touching heaven', that is, going to heaven, being in heaven.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**उभा देवा (ubhā devā)** — for the accusative dual suffix *auṭ* after the words *ubha* and *deva*, the substitute *ā* by *supāṃ suluk pūrvasavarṇācchheyāḍāḍyāyājālaḥ* (Pā. Sū. 7-1-39).
+
+**दिविस्पृशा (divispṛśā)** — the analysis is *divaṃ spṛśata iti divispṛśau*; the substitute *ā* for *auṭ* as before. Since the *vārttika* *hṛddyubhyāṃ ṅer upasaṃkhyānam* (Pā. Sū. 6-3-9-1) lays down that the locative singular after the words *hṛt* and *div* is not dropped in a compound, it is made clear by the *vārttika* *anyārthe ca* (Pā. Sū. 6-3-9-2) that here the locative comes in the sense of the object. So for the locative singular suffix, by the *vārttika* *hṛddyubhyām…*, the *luk* does not come. By *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the final member *spṛk*, ending in a *kṛt*, keeps its own accent. The final member is udātta by the root accent, and that accent stays.
+
+**इन्द्रवायू (indravāyū)** — the analysis is *indraś ca vāyuś ca*. Indra and Vāyu both denote deities. So *indravāyū* is a *dvandva* of deities; by *devatādvandve ca* (Pā. Sū. 6-3-26) — in a *dvandva* of deities, the word before the last member takes *ānaṅ* — *ānaṅ* would be due for the word *indra*. Yet since there is the prohibition by *devatādvandve ubhayatra vāyoḥ pratiṣedhaḥ* (Pā. Sū. 6-3-26-1) — in a *dvandva* compound containing words denoting deities, whether the word *vāyu* is first or last member, the prohibition of the substitute *ānaṅ* must be stated — the substitute *ānaṅ* does not come. The word *indra*, ending in the suffix *ran* by *ṛjrendrāgra…* (U. Sū. 2-186), is initially udātta; the word *vāyu* ends in the suffix *uṇ* by *kṛvāpājimisvadisādhyaśūbhya uṇ* (U. Sū. 1-1), so it is final udātta by the suffix accent. By *devatādvandve ca* (6-2-141) — in a *dvandva* compound of words denoting deities, both first and last members keep their own accent at the same time — the accent of both members would be due —
+
+### Page 149 — Rik 2: grammar (continued)
+
+— yet by *nottarapade 'nudāttādāv apṛthivīrudrapūṣamanthiṣu* (Pā. Sū. 6-2-142) — when a word beginning with an unaccented vowel, other than the words *pṛthivī* and the rest named in the sūtra, follows, the accent of both members stated in the previous sūtra does not come — the accent of both members does not come. By *samāsasya* (Pā. Sū. 6-1-223) the final udātta alone comes.
+
+**हवामहे (havāmahe)** — the root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person plural, the suffix *mahiṅ*. For its *ṭi*, by *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79), *e*; the *vikaraṇa* *śap*: *hve* + *a* + *mahe*. Now by *bahulaṃ chandasi* (Pā. Sū. 6-1-34) — in the Veda the root *hveñ* variously takes *saṃprasāraṇa* — *saṃprasāraṇa*, that is *u* for the *v*; then by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form: *hu* + *a* + *mahe*; by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa* *o* for the *u*; by *eco 'yavāyāvaḥ* (Pā. Sū. 6-1-78) the substitute *av* for *o*: *hava* + *mahe*; by *ato dīrgho yañi* (Pā. Sū. 7-3-101) — when a *sārvadhātuka* beginning with a *yañ* letter follows, a stem ending in short *a* is lengthened — lengthening: it became *havāmahe*. *Śap* being *pit*, it is unaccented by *anudāttau suppitau* (Pā. Sū. 3-1-4); the long vowel coming in its place is unaccented by *sthānivadbhāva*; *mahe*, a *sārvadhātuka* suffix coming in place of *la*, follows *śap*, an *a*-final original teaching. By *tāsy anudāttenṅid adupadeśāl lasārvadhātukam anudāttam ahnviṅoḥ* (Pā. Sū. 6-1-186) it is unaccented; the *ha* is udātta by the root accent; so *havāmahe* had to be an initially udātta word. But by the eighth-book sūtra *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) it becomes wholly unaccented.
+
+**अस्य (asya)** — when the genitive singular suffix is put after the word *idam*: *idam* + *jas* [as printed]; by *tyadādīnām aḥ* (Pā. Sū. 7-2-102) — when a case-ending follows, *a* comes as the final substitute for the words read in the *tyadādi* class — *a* for the *m*; by *ato guṇe* (Pā. Sū. 6-1-97) — when the *guṇa* vowels *a*, *e*, *o* follow an *a* not at the end of a *pada*, the following form comes as the single substitute for the preceding and following — the following form: *ida* + *jas*; by *ṭāṅasiṅasām inātsyāḥ* (Pā. Sū. 7-1-12) — after a word ending in short *a*, *ina*, *āt*, *sya* come in order for *ṭā*, *ṅasi*, *ṅas* — the substitute *sya*; by *hali lopaḥ* (Pā. Sū. 7-2-113) — when a consonant-initial ending of the third case onward follows, the *id* of the word *idam* without *k* is dropped — the *id* is dropped and *asya* is formed. By *phiṣo 'nta udāttaḥ* (Phi. Sū. 1) — *phiṭ* means a nominal stem — by this sūtra the *a* of the stem is udātta. For *sya*, by *anudāttau suppitau*
+
+### Page 150 (upper) — Rik 2: grammar (end)
+
+(Pā. Sū. 3-1-4), the unaccented would be due; overriding it, by *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171) — the case-endings other than the *sarvanāmasthāna* after these final-udātta monosyllabic words, the substitute *ūṭh*, the word *idam*, the six *padādi* words laid down by *paddannomās…* (Pā. Sū. 6-1-63), and *ap*, *pums*, *rai*, *div*, are udātta — *sya* is udātta. Then by the *śeṣānudātta* accent *anudāttaṃ padam ekavarjam* (Pā. Sū. 6-1-158) the *a* of the stem is unaccented. That the soma in front is meant is made known by *asya*. So there is no *anvādeśa*; hence by *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. Sū. 2-4-32) the unaccented substitute *aś* does not come. Therefore *asya* does not become wholly unaccented.
+
+**पीतये (pītaye)** — the root *pā pāne*; by *sthāgāpāpaco bhāve* (Pā. Sū. 3-3-95) — after these roots, *ṣṭhā gatinivṛttau*, *gai śabde*, *pā pāne*, *ḍupacaṣ pāke*, the suffix *ktin* in the action sense — the suffix *ktin*: *pā* + *ti*. Either by *ekāca upadeśe 'nudāttāt* (Pā. Sū. 7-2-10) or by *titutratathasisusarakaseṣu ca* (Pā. Sū. 7-2-9) the *iṭ* is barred. By *ghumāsthāgāpājahātisāṃ hali* (Pā. Sū. 6-4-66) — when a consonant-initial *ārdhadhātuka* suffix that is *kit* or *ṅit* follows, the roots *dā*, *dhā* with the name *ghu*, and *sthā*, *gā*, *pā*, *jahā*, *ti* [as printed], *sā* take the substitute *ī* — the substitute *ī* for *pā*: it became *pīti*. Since the suffix is *nit*, by *ñnity ādir nityam* (Pā. Sū. 6-1-197) the initial udātta would be due; yet by *vyatyaya* the final udātta alone comes. In the dative singular it becomes *pītaye*. ॥2॥
 
 ---
 
