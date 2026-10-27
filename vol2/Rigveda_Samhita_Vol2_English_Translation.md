@@ -5873,7 +5873,7 @@ Some Western scholars have rendered this word **"horses which harness themselves
 **"Vajrī"** — **वज्रमस्यास्तीति वज्री** (*vajram asyāstīti vajrī*) — "he who has the vajra" — the wielder of the thunderbolt. Indra's weapon is famous as the vajra (**Thunderbolt**). The Ṛgveda mentions it in many places. For example, Indra himself says:
 
 > मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासो ऽवृजन्नपि क्रतुम् ॥
-> *mahyaṃ tvaṣṭā vajram atakṣad āyasaṃ mayi devāso 'vṛjann api kratum ||* — (Ṛgveda Saṃhitā 10-48-3 [?])
+> *mahyaṃ tvaṣṭā vajram atakṣad āyasaṃ mayi devāso 'vṛjann api kratum ||* — (Ṛgveda Saṃhitā 10-48-3)
 >
 > "For me Tvaṣṭṛ fashioned the iron thunderbolt; in me the gods have set [wisdom/resolve]." *(The Kannada gloss in the source reads: "the divine craftsman Tvaṣṭṛ made me a thunderbolt of iron.")*
 
@@ -5881,32 +5881,29 @@ Some Western scholars have rendered this word **"horses which harness themselves
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pages 266–268: the Kannada grammar of Rik 2 — characterized, not transcribed; Convention 5. Points of substance:)*
+*(Pages 266–268: the Kannada grammar of Rik 2 — characterized, numbers as printed.)*
 
-- **हर्योः (*haryoḥ*)** — *harataḥ rathaṃ iti harī* ("the two that draw the chariot are the *harī*") — from *hṛ* with the suffix *in* by an Uṇādi sūtra (Uṇ. 4-1[?]); the *guṇa* that arises is then followed by the *ur-aṇ raparaḥ* rule giving *-ar-*.
+- **हर्योः (*haryoḥ*)** — *harataḥ rathaṃ iti harī* ("the two that draw the chariot are the *harī*") — from *hṛ* with the suffix *in* by **हृपिषिरुहिवृतिविदिछिदिकीर्तिभ्यश्च** (उ. सू. ४-[?], the printed figures look like "५५८"); the guṇa by "sārvadhātukārdhadhātukayoḥ" (पा. सू. ७-३-८४), with "r" after it by **उरण् रपरः** (पा. सू. १-१-५१).
 - **सचा (*sacā*)** — Yāska (Nirukta 5-5) glosses it "saha" — hence "at the same time."
-- **सम्मिश्लः (*sammiślaḥ*)** — from the root *miś* (*miśra-saṃpārke* — in the *curādi* class, 150th root [?]) by *ṇic* and the "bhāve" (abstract) sense; because of the *ṇic*, the *ṇi* is dropped (Pā. 6-4-51), giving *miśra*; *sam* + *miśra* as bahuvrīhi, with the Vedic *l* for *r*; the first member's accent retained by Pā. 6-2-1.
-- **वचोयुजा (*vacoyujā*)** — "yoked by a word"; the genitive/locative dual ending is replaced by *ā*; the final accent of *yuj* is carried by the rule on *kṛd*-final compounds.
-- **वज्री (*vajrī*)** — *vajra* + *ini* (Pā. 5-2-115, "ata ini-ṭhanau") with the loss of the final *a* of *vajra* by the *yasyeti ca* rule (Pā. 6-4-148); the nominative singular ending is dropped; the *n* is dropped by "na lopaḥ prātipadikāntasya" (Pā. 8-2-7).
-- **हिरण्ययः (*hiraṇyayaḥ*)** — from the root *hary* ("to move, desire") with the *kanyan* suffix (Uṇ. 5-[?]); alternatively, by "mayaṭ" (Pā. 4-3-143) *hiraṇya* + *maya*, with the Vedic loss of the *m* of *maya* by "ṛtvyavāstvyavāstva-māddhvī-hiraṇyayāni chandasi" (Pā. 6-4-175). The accent: the *ā* is udātta by the suffix (*pratyaya-svara*), and the single resulting vowel (*ekādeśa*) takes the udātta (Pā. 8-2-5). The Mādhavācārya explanation (referred to in the source as an authority "for the Vedic commentary") is that the loss of *m* is accepted and the *ekādeśa* is udātta.
+- **सम्मिश्लः (*sammiślaḥ*)** — "miśra saṃparke" is a root of the curādi (tenth) class, so **चुरादिभ्यो णिच्** (पा. सू. ३-१-२५) "ṇic"; then by **भावे** (पा. सू. ३-३-१८) — the verbal sense, in its "accomplished" (siddha) aspect, as against the "to-be-accomplished" (sādhya) aspect seen in "pacati," is called "bhāva" — "ghañ"; **णेरनिटि** (पा. सू. ६-४-५१) drops "ṇi": "miśra"; *sam* + *miśra* as bahuvrīhi, with the Vedic *l* for *r*; the first member's accent retained by Pā. 6-2-1.
+- **वचोयुजा (*vacoyujā*)** — "vacasā yujyete iti vacoyujau, tayoḥ" (horses that join the chariot of themselves at Indra's mere word); the genitive dual becomes "ā" by **सुपां सुलुक्…** (पा. सू. ७-१-३९); "yuj" is acute on its final by **धातोः** (पा. सू. ६-१-१६२); after compounding, the kṛt-final second member keeps that accent by **गतिकारकोपपदात्कृत्** (पा. सू. ६-२-१३९).
+- **वज्री (*vajrī*)** — "vajram asyāsti": **अत इनिठनौ** (पा. सू. ५-२-११५) "ini"; **यस्येति च** (पा. सू. ६-४-१४८) drops the "a"; in the nominative singular **सर्वनामस्थाने चासम्बुद्धौ** (पा. सू. ६-४-८) lengthens the penultimate; **हल्ङ्याब्भ्यो दीर्घात्सुतिस्यपृक्तं हल्** (पा. सू. ६-१-६८) drops the "s," which is "apṛkta" by **अपृक्त एकाल्प्रत्ययः** (पा. सू. १-२-४१); **नलोपः प्रातिपदिकान्तस्य** (पा. सू. ८-२-७) drops the "n": "vajrī," with the affix accent.
+- **हिरण्ययः (*hiraṇyayaḥ*)** — "harya gati-kāntyoḥ": **हर्यतेः कन्यन् हिरच्** (उ. सू. ५-[?], the figures unclear) "kanyan," with "hir" for "harya"; "n"-marked, so first-syllable acute, the two final "a"s unaccented by śeṣanighāta; in "hiraṇyapāṇim ūtaye" (ऋ. सं. १-२२-५) "hiraṇya" is shown first-syllable acute by **नब्विषयस्यानिसन्तस्य** (फि. सू.). In the sense "hiraṇyasya vikāraḥ," **मयड्वैतयोर्भाषायामभक्ष्याच्छादनयोः** (पा. सू. ४-३-१४३) "mayaṭ": "hiraṇmaya"; **ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि छन्दसि** (पा. सू. ६-४-१७५) … *(continues on p. 268)*
 
 ### Page 267, 268 (grammar of Rik 2, continued)
 
-*(Page 267 continues the Rik 2 grammar; page 268 closes it. The last lines on p. 268 conclude that it is "proper," as explained in the Vedic commentary (Veda-bhāṣya), to accept the loss of the letter itself and say that the single-substitute vowel is udātta by Pā. 8-2-5, and the number* ॥२॥ *closes Rik 2. Characterized as above — the source is arguing a point of Pāṇinian procedure, not adding to the sense of the rik.)*
-
-**॥२॥**
-
----
-
+*(Page 267 header: "A. 1, A. 1, Va. 13." The Rik 2 grammar of "hiraṇyayaḥ" is given above under p. 266; p. 268 closes it.)* "Hiraṇyaya" is formed by nipātana (6-4-175: "y" for "ṛtu" and "vāstu" before "yat," and before "aṇ" for "madhu" in the feminine, and the loss of the "m" of "mayaṭ" after "hiraṇya"). If the loss of "m" is so explained that the affix accent must hold, "hiraṇya + aya" gives one substitute by **अतो गुणे** (पा. सू. ६-१-९७); the "a" of "aya" is acute by the affix accent, the final "a" of "hiraṇya" unaccented by śeṣanighāta, and the single substitute acute by **एकादेश उदात्तेनोदात्तः** (पा. सू. ८-२-५); so "hi" and "ra" are unaccented, "ṇya" acute, and "yaḥ" svarita by **उदात्तादनुदात्तस्य स्वरितः** (पा. सू. ८-४-६६) — so Mādhavācārya. Some hold that, with the loss of "m," **यस्येति च** (पा. सू. ६-४-१४८) drops the "a" of "hiraṇya," so that the affix's "a" is heard and the intended accent results. But with the loss of "m" treated as not effected by **असिद्धवदत्राभात्** (पा. सू. ६-४-२२), there is no "bha" designation (no "y"-initial affix follows), so "yasyeti ca" cannot apply; and **अकृत्सार्वधातुकयोर्दीर्घः** (पा. सू. ७-४-२५) would lengthen, not being in the "bha" section; the lengthening is barred by **अङ्गवृत्ते पुनर्वृत्तावविधिः** (परिभा. ९३), but the intended accent still fails; and with the "m" loss taken as asiddha, "yasyeti ca" cannot drop the "a." If the whole word ("maya") is lost, "hiraṇya" would be end-acute. So it is proper, as in the Veda-bhāṣya, to accept the loss of the letter, give the later form, and make the single substitute acute by 8-2-5. ॥२॥
 ### Sūkta 7, Rik 3
+
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the svarita stroke over "sū" (not over "ryaṃ"), and over "bhi" of "gobhir" both a stroke and a bar (only the bar is given); hence [accent ?].)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रो दीर्घाय चक्षस आ सूर्यं रोहयद्दिवि ।
-> वि गोभिरद्रिमैरयत् ॥३॥
+> इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सू॑र्यं रोहयद्दि॒वि । [accent ?]
+> वि गोभि॒रद्रिमैरयत् ॥३॥ [accent ?]
 >
-> *indro dīrghāya cakṣasa ā sūryaṃ rohayad divi |*
-> *vi gobhir adrim airayat ||3||*
+> *índro dīrghā́ya cákṣasa ā́ sūryaṃ rohayad diví |* [accent ?]
+> *ví góbhir ádrim airayat ||3||* [accent ?]
 
 **॥ Pada-pāṭhaḥ ॥**
 
