@@ -11404,33 +11404,35 @@ The Bhāṣyakāra's (Sāyaṇa's) explanation: "*naktaśabda uṣaḥśabdaś c
 
 ---
 
-### Page 559 — Sūkta 13, Rik 8
+### Page 559 (lower) — Sūkta 13, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented. Line 1: the first stroke stands over सु, not over ता — [accent ?].)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ता सुजिह्वा उप ह्वये होतारा दैव्या कवी ।
-> यज्ञं नो यक्षतामिमम् ॥८॥
+> ता सु॑जि॒ह्वा उप॑ ह्वये॒ होता॑रा॒ दैव्या॑ क॒वी । [accent ?]
+> य॒ज्ञं नो॑ यक्षतामि॒मम् ॥८॥
 >
-> *tā sujihvā upa hvaye hotārā daivyā kavī |*
-> *yajñaṃ no yakṣatām imam ||8||*
+> *tā́ sujihvā́ úpa hvaye hótārā dáivyā kavī́ |* [accent ?]
+> *yajñáṃ no yakṣatām imám ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> ता । सुऽजिह्वा । उप । ह्वये । होतारा । दैव्या । कवी इति ॥
+> ता । सुऽजिह्वौ । उप । ह्वये । होतारा । दैव्या । कवी इति ॥
 > यज्ञम् । नः । यक्षताम् । इमम् ॥८॥
 >
-> *tā | su-jihvā | upa | hvaye | hotārā | daivyā | kavī iti ||*
+> *tā | su-jihvau | upa | hvaye | hotārā | daivyā | kavī iti ||*
 > *yajñam | naḥ | yakṣatām | imam ||8||*
 
-### Pages 560–563 — Rik 8: Sāyaṇa-bhāṣya, word-meanings, overall sense, English, Special Topics, grammar
+### Page 560 — Rik 8: Sāyaṇa-bhāṣya, word-meanings, overall sense
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> छान्दसो ऽत्र सर्वनामत्वात्प्रसिद्धार्थवाची । ता तौ याजिकानां प्रसिद्धौ द्वावग्नी उपह्वये । आह्वयामि । नो ऽस्मदीयमिमं यज्ञं यक्षतां । तावुभौ यजतामनुतिष्ठतां । कीदृशौ । सुजिह्वौ शोभनजिह्वोपेतौ । प्रियवचनौ शोभनज्वालौ वेत्यर्थः । होतारौ होमनिष्पादकौ दैव्या दैव्यौ देवसंबन्धिनौ । अत एवोमावग्नी दैव्यहोतृनामकौ । कवी मेधाविनौ ॥
+> तच्छब्दो ऽत्र सर्वनामत्वात्प्रसिद्धार्थवाची । ता तौ याज्ञिकानां प्रसिद्धौ द्वावग्नी उप ह्वये । आह्वयामि । नो ऽस्मदीयमिमं यज्ञं यक्षताम् । तावुभौ यजतामनुतिष्ठताम् । कीदृशौ । सुजिह्वौ शोभनजिह्वोपेतौ । प्रियवचनौ शोभनज्वालौ वेत्यर्थः । होतारौ होमनिष्पादकौ दैव्या दैव्यौ देवसंबन्धिनौ । अत एवेमावग्नी दैव्यहोतृनामकौ । कवी मेधाविनौ ॥ ता तौ । द्वितीयाद्विवचनस्य सुपां सुलुगित्याकारः । एकादेश उदात्तेनोदात्त इत्युदात्तः । सुजिह्वौ । शोभना जिह्वा ययोस्तौ । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । पूर्वपद एकादेशस्वरः । संहितायामावादेशः । वस्य लोपः शाकल्यस्येति लोपः । होतारा । जुहोतेस्तृन् । द्विवचने ऋतो ङि । पा. ७-३-११० । इति गुणः । अप्तृन्नित्युपधादीर्घः । पूर्ववदाकारः । नित्त्वादाद्युदात्तः । दैव्या । देवानामिमौ । देवाद्यञञौ । पा. ४-१-८५-३ । इति यञ् । यस्येति चेत्यकारलोपः । ञ्नित्यादिर्नित्यमित्याद्युदात्तः । पूर्ववदाकारः । यक्षताम् । यजताम् । लोटि शपि परतः सिब्बहुलं लेटीति बहुलग्रहणात्सिप् । कुत्वचर्त्वषत्वानि ॥
 >
-> *chāndaso 'tra sarvanāmatvāt prasiddhārtha-vācī | tā tau yājñikānāṃ prasiddhau dvāv agnī upahvaye | āhvayāmi | no 'smadīyam imaṃ yajñaṃ yakṣatāṃ | tāv ubhau yajatām anutiṣṭhatāṃ | kīdṛśau | sujihvau śobhana-jihvopetau | priya-vacanau śobhana-jvālau vety arthaḥ | hotārau homa-niṣpādakau daivyā daivyau deva-saṃbandhinau | ata evomāv agnī daivya-hotṛ-nāmakau | kavī medhāvinau ||*
+> *tacchabdo 'tra sarvanāmatvātprasiddhārthavācī | tā tau yājñikānāṃ prasiddhau dvāvagnī upa hvaye | āhvayāmi | no 'smadīyamimaṃ yajñaṃ yakṣatām | tāvubhau yajatāmanutiṣṭhatām | kīdṛśau | sujihvau śobhanajihvopetau | priyavacanau śobhanajvālau vetyarthaḥ | hotārau homaniṣpādakau daivyā daivyau devasaṃbandhinau | ata evemāvagnī daivyahotṛnāmakau | kavī medhāvinau || tā tau | dvitīyādvivacanasya supāṃ sulugityākāraḥ | ekādeśa udāttenodātta ityudāttaḥ | sujihvau | śobhanā jihvā yayostau | nañsubhyāmityuttarapadāntodāttatvam | pūrvapada ekādeśasvaraḥ | saṃhitāyāmāvādeśaḥ | vasya lopaḥ śākalyasyeti lopaḥ | hotārā | juhotestṛn | dvivacane ṛto ṅi | pā. 7-3-110 | iti guṇaḥ | aptṛnnityupadhādīrghaḥ | pūrvavadākāraḥ | nittvādādyudāttaḥ | daivyā | devānāmimau | devādyañañau | pā. 4-1-85-3 | iti yañ | yasyeti cetyakāralopaḥ | ñnityādirnityamityādyudāttaḥ | pūrvavadākāraḥ | yakṣatām | yajatām | loṭi śapi parataḥ sibbahulaṃ leṭīti bahulagrahaṇātsip | kutvacartvaṣatvāni ||*
 
-**Translation:** "[*Tā* is the Vedic dual of the pronoun, standing for something well known:] *tā tau* — those two fires, well known to the sacrificers — *upa hvaye*: I invoke. May they *yakṣatām* — perform, carry out — *imam yajñam*, this our sacrifice. What kind? *Sujihvā* — having good tongues; that is, of sweet speech, or of fine flames; *hotārā* — accomplishers of the *homa*; *daivyā* — belonging to the gods; hence the two fires bear the names *Daivya* and *Hotṛ* [Daivya-hotārā]; *kavī* — wise." *(Grammar noted briefly below.)*
+**Translation:** "The word *tad* here, being a pronoun, denotes what is well known. *Tā* — those two fires well known to the sacrificers — I *upa hvaye*, call. May they both *yakṣatām*, perform, *imaṃ yajñam*, this our sacrifice. What kind? *Sujihvā* — endowed with good tongues, that is, of pleasant speech or of fine flames; *hotārā* — accomplishers of the *homa*; *daivyā* — belonging to the gods; hence these two fires bear the name *Daivya-hotṛ*; *kavī* — wise." (Grammatical tail: *tā* = *tau*, *ā* for the accusative dual by "supāṃ suluk…", udātta by "ekādeśa udāttenodāttaḥ"; *sujihvau* — "whose tongue is fine", the second member final-udātta by "nañ-subhyām", the single-substitute accent in the first member [?]; in the Saṃhitā *āv*, and the *v* dropped by "lopaḥ śākalyasya"; *hotārā* — *tṛn* after *hu*, *guṇa* in the dual by "ṛto ṅi…" (Pā. 7-3-110), lengthening of the penultimate by "ap-tṛn…", *ā* as before, initial-udātta as *nit*; *daivyā* — "these two belong to the gods", *yañ* by "devād yañ-añau" (Pā. 4-1-85-3), the *a* dropped by "yasyeti ca", initial-udātta by "ñnity ādir nityam", *ā* as before; *yakṣatām* = *yajatām*: with *śap* following in *loṭ*, *sip* by the word *bahula* in "sib bahulaṃ leṭi"; *k*, *car* and *ṣ*.)
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -11438,50 +11440,69 @@ The Bhāṣyakāra's (Sāyaṇa's) explanation: "*naktaśabda uṣaḥśabdaś c
 
 **॥ Bhāvārthaḥ ॥**
 
-The two named *Daivya* and *Hotṛ* (special forms of Agni) are gods; they speak pleasant words (or are brightly flaming); they are very wise, and accomplish the *hotṛ* work. I call such two divine *hotṛs*; may they come here and take the *hotṛ* seat and carry out the sacrifice we perform.
+The two deities called *Daivyā Hotārā* (special forms of Agni) speak pleasant words (or are joined with brightly blazing flames), are very wise, and are expert in the *hotṛ* work. I call such divine deities named *Daivyā Hotārā*; may they come here, take the place of the *hotṛ*, and carry out the sacrificial rite we are performing.
+
+### Page 561 — Rik 8: English, Special Topics
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> I invoke those Daivya and Hotara, those two divine hotries who are good-tongued and wise. May they perform this our sacrifice.
+> I invoke those Daivya and Hotara, those two divine hotries [sic] who are good-tongued and wise. May they perform this our sacrifice.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
 On the words *daivyā hotārā*, Yāska's explanation:
 
-> दैव्या होतारा दैव्यौ होतारावयं चाङ्गिरसौ च मध्यमः ॥
-> *daivyā hotārā daivyau hotārāv ayaṃ cāṅgirasau ca madhyamaḥ ||*
-> (Nirukta 8-?? [?])
+> दैव्या होतारा दैव्यौ होतारावयं चाग्निरसौ च मध्यमः ॥
+>
+> *daivyā hotārā daivyau hotārāvayaṃ cāgnirasau ca madhyamaḥ ||*
 
-— that is, this points to Agni. Since Agni invokes the gods, he stands in the middle between gods and men; and the source gives an example:
+That is, the word points to Agni himself. Since Agni calls the gods, Agni stands in the middle between gods and men; in this matter he gives an example:
+
+*(Ṛ. Saṃ. "10-110-7" [?]; the last digit is unclear.)*
 
 > दैव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै ।
 > प्रचोदयन्ता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशन्ता ॥
+>
 > *daivyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai |*
 > *pracodayantā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśantā ||*
-> (Ṛgveda Saṃhitā 10-110-7 [?]; printed "१०-११०-७")
-> *("The two divine invokers, first, of fair speech, fashioning the sacrifice for man to worship, urging on at the gatherings, the two poets, showing in all directions the eastern light." — my gloss, tentative.)*
 
-For this, Durgācārya's commentary: "*yāv etau daivyau hotārau | deveṣu bhavau daivyau | devāv eva daivyau | svārthe eva taddhitaḥ | manuṣyahotārāv apekṣya | daivyā hotārā hotṛ-maitrāvaruṇau iti viśeṣaṇam | hotārau hotārāv āhvātārau devānāṃ vāyv-agnī | prathamā prathamau mukhyau manuṣya-hotārāv apekṣya | suvācā suvācau praśasta-vācau susṭutau | mimānā yajñaṃ yajña-nirmātārau nityam | manuṣaḥ manuṣyasya yajadhyai yajanāya | pracodayantā pracodayamānau | vidatheṣu yajñeṣu | kārū kartārau*." The chief idea: among the gods, Agni and Vāyu are known as *hotṛs*; among men, the priests Hotṛ and Maitrāvaruṇa are *hotṛs*. Agni (or Agni and Vāyu) stand in the middle between gods and men and make a connection with them; so Agni is called "middle." The names *daivyā hotārā* occur not only in the Āpri-sūktas but also in
+*("The two divine invokers, the first, fair-spoken, measuring out the sacrifice for man to worship, urging on, the two doers at the gatherings, pointing out the eastern light by direction" — mine and tentative.)*
 
-> त्वष्टारं वायुमृभवो य ओहते दैव्या होतारा उषसं स्वस्तये ।
-> *tvaṣṭāraṃ vāyum ṛbhavo ya ohate daivyā hotārā uṣasaṃ svastaye |*
-> (Ṛgveda Saṃhitā 10-65-10 [?]; printed "१०-६५-१०")
-> *(A best reading of compressed print; no gloss offered.)*
+Durgācārya's commentary on it:
+
+> यावेतौ दैव्यौ होतारौ । देवेषु भवौ दैव्यौ देवावेव दैव्यौ । स्वार्थ एव तद्धितः । मनुष्यहोतारावपेक्ष्य । दैव्या होतारौ होतृमैत्रावरुणौ इति विशेषणम् । होतारा होतारावाह्वातारौ देवानां वाय्वग्नी । प्रथमा प्रथमौ मुख्यौ मनुष्यहोतारावपेक्ष्य । सुवाचा सुवाचौ प्रशस्तवाचौ सुस्तुतौ । मिमाना यज्ञं यज्ञनिर्मातारौ नित्यम् । मनुषः मनुष्यस्य यजध्यै यजनाय । प्रचोदयन्ता प्रचोदयमानौ । विदथेषु यज्ञेषु । कारू कर्तारौ । इत्यादि
+>
+> *yāvetau daivyau hotārau | deveṣu bhavau daivyau devāveva daivyau | svārtha eva taddhitaḥ | manuṣyahotārāvapekṣya | daivyā hotārau hotṛmaitrāvaruṇau iti viśeṣaṇam | hotārā hotārāvāhvātārau devānāṃ vāyvagnī | prathamā prathamau mukhyau manuṣyahotārāvapekṣya | suvācā suvācau praśastavācau sustutau | mimānā yajñaṃ yajñanirmātārau nityam | manuṣaḥ manuṣyasya yajadhyai yajanāya | pracodayantā pracodayamānau | vidatheṣu yajñeṣu | kārū kartārau | ityādi*
+
+The chief idea: for the gods, Agni and Vāyu are known as the *hotṛs*; for men, the priests Hotṛ and Maitrāvaruṇa are known as the *hotṛs*. Since Agni, or Agni and Vāyu, stand between the gods and men and make a connection between them, Agni is called "the middle one". The name of these deities, *daivyā hotārā*, apart from the Āpri-sūktas, is read only in the two riks
+
+*(Ṛ. Saṃ. 10-65-10.)*
+
+> त्वष्टारं वायुमृभवो य ओहते दैव्या होतारा उषसं स्वस्तये ॥
+>
+> *tvaṣṭāraṃ vāyumṛbhavo ya ohate daivyā hotārā uṣasaṃ svastaye ||*
+
+### Page 562 — Rik 8: Special Topics (continued) and grammar
+
+*(Ṛ. Saṃ. 10-66-13.)*
 
 > दैव्या होतारा प्रथमा पुरोहित ऋतस्य पन्थामन्वेमि साधुया ॥
-> *daivyā hotārā prathamā purohitā ṛtasya panthām anv emi sādhuyā ||*
-> (Ṛgveda Saṃhitā 10-66-13 [?]; printed "१०-६६-१३")
-> *("I follow, in a straight way, the path of order, the two first divine invokers, the two house-priests." — my gloss, tentative.)*
+>
+> *daivyā hotārā prathamā purohita ṛtasya panthāmanvemi sādhuyā ||*
 
-These two riks alone have them [in non-Āpri contexts]. In Ṛgveda Saṃhitā 6-?-1 [?] the word *jātavedasā* is used of them, and in 10-? [?] *purohitau*. Since the words *mimānā yajñaṃ manuṣo yajadhyai*, *yajñeṣu mānuṣeṣu kārū*, *pracodayantā vidatheṣu kārū* in these riks say that these deities carry out or urge on the sacrifices that men perform, calling them *purohitas* is natural. Among the deities, the *hotṛs* are Agni and Vāyu; among men the *hotṛ* is the helper-priest called Maitrāvaruṇa, and these are called *hotṛs*. This Maitrāvaruṇa directs the other priests, by *praiṣa* mantras, to carry out their duties. In the Yajurveda (Taittirīya Saṃhitā 6-1-?) it is said, "the Maitrāvaruṇa assigns speech to the [other priests] in front."
+In the rik Ṛ. Saṃ. "7-2-7" [?] they are also called *jātavedasā*, and in the rik Ṛ. Saṃ. "10-70-7" [?] *purohitau* (the repeated digit is the same glyph in both, read as 7). And since the words in the riks just cited — *mimānā yajñaṃ manuṣo yajadhyai*, *yajñeṣu mānuṣeṣu kārū*, and *pracodayantā vidatheṣu kārū* — say that these deities carry out or urge on the sacrifices men perform, calling them *purohitas* is natural. Among the gods the *hotṛs* are Agni and Vāyu; among men the Hotṛ and his helper-priest, the Maitrāvaruṇa, are called the *hotṛs*. This Maitrāvaruṇa, by the *praiṣa* mantras, directs the other priests to do their several tasks. In the Yajurveda (Tai. Saṃ. 6-1-, the rest of the number left blank in the print) it is said: "मैत्रावरुणो हि पुरस्तादृत्विग्भ्यो वाचं विभजति" (*maitrāvaruṇo hi purastādṛtvigbhyo vācaṃ vibhajati*).
 
-**"Sujihvā"** — *śobhanā jihvā yayos tau*: "of beautiful tongues": *śobhana-jihvopetau*, *priyavacanau*, *śobhana-jvālau vā*: "with good tongues, of sweet speech, or of beautiful flames." Speaking of Agni, the sense is "with beautiful flames."
+**"Sujihvā"** — *sujihvau — śobhanā jihvā yayos tau sujihvau | śobhanajihvopetau, priyavacanau, śobhanajvālau vā*: having excellent tongues, speaking pleasant words, or, if said of Agni, having excellent flames.
 
-**"Yakṣatām"** — *yajatām*: "may they sacrifice," i.e., carry out the sacrifice.
+**"Yakṣatām"** — *yajatām*: may they sacrifice, that is, carry the sacrifice through.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 562–563, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 562–563, noted briefly; numbers checked against the print)*
 
-**ता (*tā*)** — "tau": *tad* + dual *au* → *auṭ*; "supāṃ suluk…" (Pā. 7-1-39 [?]) gives *ā*; "tyadādīnām aḥ" (Pā. 7-2-102 [?]): *d* → *a*; "ato guṇe" (Pā. 6-1-97 [?]) *pararūpa*; *savarṇadīrgha*; the single substitute is udātta ("ekādeśa udāttenodāttaḥ," Pā. 8-2-5 [?]). **सुजिह्वा (*sujihvā*)** — "śobhanā jihvā yayos tau": *jihvā* is irregularly formed with *van* by "śevayahvajihvāgrīvāpvāmīvāḥ" (Uṇ. 1-154 [?]) from *liha āsvādane*, *l* → *j* and the loss of *guṇa*; initial-udātta; in the bahuvrīhi the first member's accent would stand (Pā. 6-2-1 [?]), overridden by "nañsubhyām" (Pā. 6-2-172 [?]) giving final-udātta to *jihvā*; the dual *au* → *auṭ*, with *vṛddhi* of the *a* + *o* ("vṛddhir eci," Pā. 6-1-85 [?]) barred, but by the maxim "ekādeśa udāttenodāttaḥ" the resulting *ā* [print: "ō" from *vṛddhi*] is udātta; in Saṃhitā *sujihvā* + *upa*, "eco 'yavāyāvaḥ" (Pā. 6-1-78 [?]) gives *āv*; "lopaḥ śākalyasya" (Pā. 8-3-19 [?]) drops the *v*; *guṇa* is barred by *pūrvatrāsiddham* (Pā. 8-2-1 [?]). **होतारा (*hotārā*)** — root *hu dānādanayoḥ*, *tṛn* ("nvul-tṛcau," Pā. 3-1-133 [?]); *laghūpadha-guṇa*; the dual *au* → *ā*; "ṛto jisarvanāmasthānayoḥ" (Pā. 7-3-110 [?]) *guṇa* of the *ṛ* with *raparatva*; "āp tṛn-tṛc…" (Pā. 6-4-11 [?]) lengthens the penultimate; initial-udātta. **दैव्या (*daivyā*)** — *deva* from *divu* with *ac* ("nandigrahipacādibhyo…," Pā. 3-1-134 [?]), final-udātta by *cit*; "devād yañ ñau" [print: "devād yaj ñau" (Pā. 4-1-85 *vārttika* 3 [?])]: *yañ* after *deva* in the senses of the *prāgdīvyatīya* group, here "devasya imau"; *taddhiteṣv acām ādeḥ* (Pā. 7-2-117 [?]) gives *vṛddhi*; "ñniti" gives initial-udātta ("ñnityādir nityam," Pā. 6-1-197 [?]); *yasyeti ca* drops the *a* of *deva* before *ya*: *daivya*; the dual as before. **यक्षताम् (*yakṣatām*)** — root *yaja devapūjāyām*; *loṭ* third dual *tām*; "loṭo laṅvat" (Pā. 3-4-85 [?]); "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. 3-4-101 [?]); *sip* — *siṃ-bahulaṃ leṭi* (Pā. 3-1-34 [?]) with *bahulagrahaṇa* gives *sip* even though the *śap*-vikaraṇa; *yaj* + *s* + *a* + *tām*: "coḥ kuḥ" (Pā. 8-2-30 [?]) *j* → *g*; "khari ca" (Pā. 8-4-55 [?]) *g* → *k*; "ādeśapratyayayoḥ" (Pā. 8-3-59 [?]) *s* → *ṣ*: *yakṣatām*; wholly unaccented ("tiṅ atiṅaḥ," Pā. 8-1-28 [?]). *(Sūtra numbers read from small print; pointers only.)*
+**ता (*tā*)** — meaning *tau*. After *tad*, the accusative dual *auṭ*; for it "supāṃ suluk…" (printed "7-1-39") gives *ā*; "tyadādīnām aḥ" (printed "7-2-102") gives *a* for the *d*; *pararūpa* by "ato guṇe" (printed "6-1-96" [sic]; the sūtra is 6-1-97); *savarṇa*-lengthening; by "ekādeśa udāttenodāttaḥ" (Pā. 8-2-5) the *ā* formed by the single substitute is udātta. **सुजिह्वा (*sujihvā*)** — "śobhanā jihvā yayoḥ tau"; *jihvā* is formed irregularly with *van* by "śeva-yahva-jihvā-grīvā-pvāmīvāḥ" (printed "Pā. sū. 1-152" [sic, an Uṇādi sūtra]): "lihanti anayā iti jihvā"; root *liha āsvādane*, with *van*, *j* for the *l*, and the absence of *guṇa* also irregular; *jihvā* is initial-udātta by the *nit* accent. In the bahuvrīhi, instead of the first-member accent, "nañ-subhyām" (Pā. 6-2-172) makes the second member *jihvā* final-udātta. Then the accusative dual *auṭ*: *sujihva* + *au*; the *vṛddhi* of "vṛddhir eci" (Pā. 6-1-88) would arise but "prathama-
+
+### Page 563 — Rik 8 grammar closes
+
+yoḥ pūrvasavarṇaḥ" (Pā. 6-1-102) would give the *pūrvasavarṇa*-lengthening instead; that is barred by "nādici" (Pā. 6-1-104) — no *pūrvasavarṇa*-lengthening after *a* before an *ic* vowel — so "vṛddhir eci" makes the *vṛddhi* as the single substitute: *sujihvau*. By "ekādeśa udāttenodāttaḥ" the *au* formed by the *vṛddhi* single substitute is udātta. Since the word *upa* follows *sujihvau*, in the Saṃhitā "eco 'yavāyāvaḥ" (Pā. 6-1-78) gives *āv* for the *au*: *sujihvāv* + *upa*; "lopaḥ śākalyasya" (Pā. 8-3-19) drops the *v*; when *guṇa* by "ād guṇaḥ" is to be made, this loss is *asiddha* by "pūrvatrāsiddham" (Pā. 8-2-1), so the *v* intervenes and there is no *guṇa*. **होतारा (*hotārā*)** — *hu dānādanayoḥ*, a root of the *juhotyādi* class; after it *tṛn*; *laghūpadha-guṇa*; the nominative dual *au*: *hotṛ* + *au*; "ṛto ṅi-sarvanāmasthānayoḥ" (printed "7-3-110") gives *guṇa* with *r*; "ap-tṛn-tṛc-svasṛ…" (Pā. 6-4-11) lengthens the penultimate: *hotārau*; "supāṃ suluk" gives *ā* for the *au*: *hotārā*; *hotṛ*, ending in an *n*-marked suffix, is initial-udātta by "ñnity ādir nityam" (Pā. 6-1-197). **दैव्या (*daivyā*)** — after *div*, the suffix *ac* by "nandigrahi…" (Pā. 3-1-134); *laghūpadha-guṇa*; *deva* final-udātta by the *cit* accent. "devād yañ-añau" (printed "Pā. sū. 4-1-85 vā. 3"): after *deva*, in the senses of the *prāgdīvyatīya* section, the suffixes *yañ* and *añ*; with "devasya imau" meant, *yañ*; "taddhiteṣv acām ādeḥ" (Pā. 7-2-117) gives *vṛddhi* of the first vowel, *ai* for the *e*; "yasyeti ca" (Pā. 6-4-148) drops the *a* before the suffix; *daivya* initial-udātta by "ñnity ādir nityam" (Pā. 6-1-197); then *au*, replaced by *ā* as before, *savarṇa*-lengthening: *daivyā*. **यक्षताम् (*yakṣatām*)** — *yaja devapūjādau*; after it *loṭ*, third dual *tas*; by "loṭo laṅvat" the treatment of *laṅ*, so *tām* for it by "tas-thas-tha-mipāṃ tān-tan-tāmaḥ"; the vikaraṇa *śap*: *yaj* + *a* + *tām*; since the sūtra "sib bahulaṃ leṭi" (Pā. 3-1-34) contains the word *bahula*, *sip* comes before the vikaraṇa *śap*: *yaj* + *s* + *a* + *tām*; *k*-series by "coḥ kuḥ": *g* for the *j*; *car* by "khari ca" (printed "8-4-55"): *k* for *g*; *ṣ* for the *s* by "ādeśa-pratyayayoḥ" (printed "8-3-5?" [?]): *yakṣatām*; wholly unaccented by "tiṅṅ atiṅaḥ".
 
 **॥८॥**
 
