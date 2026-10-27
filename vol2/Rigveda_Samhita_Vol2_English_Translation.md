@@ -6446,12 +6446,12 @@ Indra is not only the lord of all men and of riches and other wealth, but is als
 
 **"Vasūnām"** — to riches, to wealth.
 
-**"Irajyati"** — is the authority, is the lord. At Ṛgveda Saṃhitā 8-46-17 [?] it is said, *viśveṣām irajyantaṃ vasūnām* — "the ruler of all riches." There too the sense is "lord of all wealth and the like"; so the word *irajyati* means "is the lord" — *to order, to rule over*.
+**"Irajyati"** — is the authority, is the lord. At Ṛgveda Saṃhitā 8-46-16 it is said, *viśveṣām irajyantaṃ vasūnām* — "the ruler of all riches." There too the sense is "lord of all wealth and the like"; so the word *irajyati* means "is the lord" — *to order, to rule over*.
 
-**"Pañca kṣitīnām"** — the word *kṣitayaḥ* is read among the **twenty-five** names for human beings beginning with *manuṣyāḥ, narāḥ* (Nirukta 2-3 [?]; the count "ಇಪ್ಪತ್ತೈದು" = twenty-five is the source's). *Pañca kṣitīnām* means *pañca janānām* — "of the five peoples." For this phrase:
+**"Pañca kṣitīnām"** — the word *kṣitayaḥ* is read among the **twenty-five** names for human beings beginning with *manuṣyāḥ, narāḥ* (Ni. "3-7" as read [?], the digits small). *Pañca kṣitīnām* means *pañca janānām* — "of the five peoples." For this phrase:
 
 - the **Bhāṣyakāra** says: **निषादपञ्चमानाम्** (*niṣāda-pañcamānām*) — "of those of whom the Niṣādas are the fifth";
-- **Skandasvāmī** says: *kṣitīnāṃ manuṣya-jātīnāṃ gandharvāḥ pitaro devā ity etāsām* — "of the *kṣitis*, the human kinds: the Gandharvas, the Fathers, the gods…" [the list as the source prints it is incomplete];
+- **Skandasvāmī** says: *kṣitīnāṃ manuṣya-jātīnāṃ gandharvāḥ pitaro devā ity etāsām* — "of the *kṣitis*, the human kinds: the Gandharvas, the Fathers, the gods, of these" (so printed);
 - **Veṅkaṭamādhava** gives: **मनुष्याणां पञ्चानां क्षितीनां निवसतां गन्धर्वाः पितरो देवा असुरा रक्षांसीति पञ्चत्वम्** (*manuṣyāṇāṃ pañcānāṃ kṣitīnāṃ nivasatāṃ gandharvāḥ pitaro devā asurā rakṣāṃsīti pañcatvam*) — "of the five peoples dwelling [among] men — the fivefold being: Gandharvas, Fathers, gods, Asuras, Rākṣasas."
 
 In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes fit to dwell on the earth — Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra, Niṣāda**. *Niṣādas* means those who are not counted among the four varṇas beginning with the Brāhmaṇas, and who live by hunting animals. The Gonds, Kolas, Bhillas and others — early inhabitants of this land —
@@ -6460,23 +6460,23 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 
 — belong to this group. Even today they dwell, in very small numbers, in only some places such as the Central Provinces *(as the source says)*. The words *pañca janāḥ* and *pañcakṛṣṭīḥ* occur in many places in the Ṛgveda:
 
-> कदद्य [?] वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम ।
+> तदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम ।
 > ऊर्जाद उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम् ॥
 >
-> *kadadya [?] vācaḥ prathamaṃ masīya yenāsurāṁ abhi devā asāma |*
+> *tad adya vācaḥ prathamaṃ masīya yenāsurāṁ abhi devā asāma |*
 > *ūrjāda uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ||*
 >
-> (Ṛgveda Saṃhitā 10-53-4 [?]) *("What shall I now first [do] of speech, by which we gods may overcome the Asuras? O strength-eaters and worthy-of-sacrifice, five peoples, take pleasure in my offering." — first word of the first line uncertain in the scan.)*
+> (Ṛgveda Saṃhitā 10-53-4) *("That first [word] of speech may I think out today, by which we gods may overcome the Asuras; O strength-eaters and you worthy of sacrifice, five peoples, take pleasure in my offering" — gloss mine and tentative.)*
 
 > पञ्च जना मम होत्रं जुषन्तां गोजाता उत ये यज्ञियासः ॥
 > *pañca janā mama hotraṃ juṣantāṃ gojātā uta ye yajñiyāsaḥ ||*
-> (Ṛgveda Saṃhitā 10-53-5 [?]) *("Let the five peoples take pleasure in my offering — the cow-born, and those worthy of sacrifice.")*
+> (Ṛgveda Saṃhitā 10-53-5) *(gloss mine and tentative: "Let the five peoples take pleasure in my offering — the cow-born, and those worthy of sacrifice.")*
 
-> सद्यश्चिद्यः शवसा पञ्चकृष्टीः सूर्य इव ज्योतिषापस्ततान ॥ [?]
-> *sadyaś cid yaḥ śavasā pañca kṛṣṭīḥ sūrya iva jyotiṣāpas tatāna || [?]*
-> (Ṛgveda Saṃhitā 10-116-3 [?]) *("He who at once, with might, [spread over] the five peoples, as the sun spreads the waters with his light.")*
+> सद्यश्चिद्यः शवसा पञ्च कृष्टीः सूर्य इव ज्योतिषापस्ततान ॥
+> *sadyaś cid yaḥ śavasā pañca kṛṣṭīḥ sūrya iva jyotiṣāpas tatāna ||*
+> (Ṛgveda Saṃhitā 10-178-3) *(gloss mine and tentative: "He who at once, with might, [spread over] the five peoples, as the sun spreads the waters with his light.")*
 
-*(For the last two riks the Devanagari is a best reading from compressed Kannada print; the translations given are plain word-sense renderings, not the source's. Numbers uncertain.)*
+
 
 **Yāska's explanation of the words *pañca janāḥ* and *pañca kṛṣṭayaḥ*, in his Nirukta (as printed in the source in Kannada script):**
 
@@ -6492,20 +6492,18 @@ In Sāyaṇa's view, then, *kṣitīnām* means the people of the **five castes 
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pp. 297–298. Characterized, not transcribed (Convention 5). Points of substance:)*
+*(Pp. 297–298. Page header p. 297: "A. 1, A. 1, Va. 14." Characterized; numbers as printed.)*
 
-- **एकः (*ekaḥ*)** — from root *iṇ gatau* ("to go") with the suffix *kan* (Uṇ. 3-43 [?]), giving *i* + *ka*; because of the Uṇādi *bahulam* provision, the *k* of *kan* is not given *it*-status (despite Pā. 1-3-8); *guṇa* then yields *eka*; the suffix is *nit*, so the word is initial-udātta.
-- **चर्षणीनाम् (*carṣaṇīnām*)** — *carṣaṇi* is a *prātipadika* meaning "man" (Phiṭ-sūtra 1 [?]), which is final-udātta by its base accent; before the genitive-plural *ām*, the augment *nuṭ* arises (Pā. 6-4-3 [?]) after a stem ending in a long-*ī*-class vowel; lengthening of the preceding vowel (Pā. 6-4-3); *nāmanyatarasyām* (Pā. 6-1-177 [?]) makes the case-ending optionally udātta.
-- **वसूनाम् (*vasūnām*)** — *vasu* formed with the suffix *u* (Uṇ. 1-10 [?]) from the root *vas* ("to dwell") among others, thus *nit*, hence the first vowel is udātta.
-- **इरज्यति (*irajyati*)** — root *irajya* (in the *kaṇḍvādi* list: *īrja īrṣyāyām*, "to be jealous") — with several senses in the *dhātupāṭha*, so here the sense is "lordship" (*aiśvarya*); the suffix *yak* by "kaṇḍvādibhyo yak" (Pā. 3-1-27); *laṭ*, third singular *tip*; *irajyati* is final-udātta by the suffix-accent.
-- **पञ्च (*pañca*)** — root *paci vyaktīkaraṇe* ("to spread out, make clear"); *num* because the root is *it*-marked; *kanin* suffix giving *pañcan*; initial-udātta; the *jas* ending is deleted by "ṣaḍbhyo luk" (Pā. 7-1-22 [?]) and the *n* by "na lopaḥ prātipadikāntasya" (Pā. 8-2-7), giving *pañca*.
-- **क्षितीनाम् (*kṣitīnām*)** — *kṣitiḥ* (Phiṭ-sūtra 1 [?]) final-udātta by its base accent; the genitive-plural ending udātta by "nāmanyatarasyām" (Pā. 6-1-177 [?]).
+- **एकः (*ekaḥ*)** — from root *iṇ gatau* ("to go") with the suffix *kan* by **इण्भीकापाशल्यतिमर्चिभ्यः कन्** (उ. सू. ३-४३; the roots glossed one by one), giving *i* + *ka*; because of the Uṇādi *bahulam* provision, the *k* of *kan* is not given *it*-status (despite Pā. 1-3-8); *guṇa* then yields *eka*; the suffix is *nit*, so the word is initial-udātta.
+- **चर्षणीनाम् (*carṣaṇīnām*)** — "carṣaṇi," a stem meaning "man," end-acute by **फिषः** (फि. सू. १); in the genitive plural **ह्रस्वनद्यापो नुट्** (पा. सू. ७-१-५४) "nuṭ"; **नामि** (पा. सू. ६-४-३) the long vowel; **नामन्यतरस्याम्** (पा. सू. ६-१-१७७) — after a stem ending in a short vowel before "matup," and end-acute, "nām" is optionally acute — so the ending is acute.
+- **वसूनाम् (*vasūnām*)** — **शॄस्वृस्निहित्रप्यसिवसिहनिक्लिदिबन्धिमनिभ्यश्च** (उ. सू. १-१०; the roots glossed one by one) "u," "n"-marked, so first-syllable acute.
+- **इरज्यति (*irajyati*)** — "irajya īrṣyāyām" in the kaṇḍvādi list; since roots have many senses, here "lordship"; **कण्ड्वादिभ्यो यक्** (पा. सू. ३-१-२७) "yak" in its own sense; **सनाद्यन्ता धातवः** (पा. सू. ३-१-३२) the root designation; "laṭ," "tip"; end-acute by the affix accent.
+- **पञ्च (*pañca*)** — "paci vyaktīkaraṇe," "i"-marked, so **इदितो नुम् धातोः** (पा. सू. ७-१-५८) "num"; anusvāra and parasavarṇa: "pañc"; **पचेश्च** (as printed) "kanin": "pañcan," first-syllable acute; **षड्भ्यो लुक्** (पा. सू. ७-१-२२) "luk" of "jas"; **नलोपः प्रातिपदिकान्तस्य** (पा. सू. ८-२-७): "pañca."
+- **क्षितीनाम् (*kṣitīnām*)** — end-acute by **फिषः** (फि. सू. १); the ending acute by "nām anyatarasyām" (पा. सू. ६-१-१७७). ॥९॥
 
 ### Page 298
 
-*(Completes the Rik 9 grammar above, ending with the accent of* kṣitīnām *and the number* ॥९॥*.)*
-
-**॥९॥**
+*(Grammar of Rik 9, concluded; characterized under p. 297.)*
 
 ---
 
