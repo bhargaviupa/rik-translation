@@ -6680,13 +6680,15 @@ O Indra! For our protection, bring abundant wealth. With that wealth we can enjo
 
 ### Page 306 — Sūkta 8, Rik 2
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नि येन मुष्टिहत्यया नि वृत्रा रुणधामहै ।
-> त्वोतासो न्यर्वता ॥२॥
+> नि येन॑ मुष्टिह॒त्यया॒ नि वृ॒त्रा रु॒णधा॑महै ।
+> त्वोता॑सो॒ न्यर्व॑ता ॥२॥
 >
-> *ni yena muṣṭihatyayā ni vṛtrā ruṇadhāmahai |*
-> *tvotāso ny arvatā ||2||*
+> *ní yéna muṣṭihatyáyā ní vṛtrā́ ruṇádhāmahai |*
+> *tvótāso ny árvatā ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6704,11 +6706,11 @@ O Indra! For our protection, bring abundant wealth. With that wealth we can enjo
 
 **Translation:** "With which wealth — by [the strength of] soldiers secured with it — by *muṣṭihatyā*, i.e., by thorough fist-blows, we may *restrain* (*ni ruṇadhāmahai*) the *vṛtras*, the enemies, we may make them obstructed: bring such wealth — this is the sense. *Tvotāsaḥ* — we, protected by you — *arvatā*, with a horse, may restrain [them]: so the sentence is completed by carrying over [the verb]. The sense: let us destroy enemies by infantry fighting and by cavalry fighting."
 
-*(The rest of the p. 306 Sanskrit is Sāyaṇa's grammar and an argument about* ni ruṇadhāmahai*'s doubled verb and the case of* vṛtrā *— the sense is settled above; grammar noted briefly, not transcribed. The Rik's remaining apparatus follows in the next pages.)*
+**Grammar of the Bhāṣya (pp. 306–307; characterized, references as printed):** "Muṣṭihatyayā" — **हनस्त च** (पा. ३-१-१०८) "kyap" after "han" with a subanta upapada, "t" for "n"; the kṛt-final second member's accent would hold, but by **परादिश्छन्दसि बहुलम्** (पा. ६-२-१९९) — with "bahula," as in "tricakra" etc., the Veda has end-acute (पा. ६-२-१९९-१) — it is end-acute. "Ni" — though connected with the verb, the upasarga stands apart by "vyavahitāś ca." "Vṛtrā" — **शेश्छन्दसि बहुलम्** (पा. ६-१-७०) loss of "śi"; loss of "n." "Ruṇadhāmahai" — "āṭ" with "loṭ," "p"-marked (पा. ३-४-९२); **श्नसोरल्लोपः** (पा. ६-४-१११) does not drop the "a"; the vikaraṇa "śnam," being acute, alone keeps its accent since the "p"-marked ending is unaccented. Objection: "tiṅṅatiṅaḥ" should make it unaccented. No: there are two verbs here — "ni muṣṭyā niruṇadhāmahai" is uttered, and in "arvatā ni ruṇadhāmahai" it is carried over (anuṣaṅga); the "ca" of their conjunction is elided, so by **चादिलोपे विभाषा** (पा. ८-१-६३) the first verb is optionally not unaccented — as in "yathā nātmanā tṛpyati nānyasmai dadāti" (तै. सं. २-५-४-३), where, "ca" being elided, the first verb "tṛpyati" is not unaccented while the second, "dadāti," is. Objection: there both verbs are heard, here only one; the second is only carried over, so how is this one "first"? Reply: anuṣaṅga … *(continues on p. 307)*
 
 ### Page 307 — Rik 2 continued
 
-*(The first lines complete Sāyaṇa's Sanskrit on Rik 2: an argument, citing the Taittirīya Saṃhitā's* "puroḍāśaṃ cādhiśrayati" *and* "proksaṇīś cāsādayati" *(Taittirīya Saṃhitā 1-6-8-? / 1-6-9-? [?]), that in a sentence with two finite verbs joined by* ca *only the first-uttered verb escapes the lowering of accent, so that the verb* ni ruṇadhāmahai *is carried over to the second clause by supply. Then the word-grammar of* त्वोतासः*,* अर्वता*,* नि*,* वृत्रा*,* रुणधामहै*. Grammar noted briefly, not transcribed.)*
+*(Page header: "A. 1, A. 1, Va. 15." The first lines end Sāyaṇa's Sanskrit on Rik 2, characterized; references as printed.)* …even what is supplied is "first" with respect to a second that depends on it; for the prohibition of nighāta is seen in "puroḍāśaṃ cādhiśrayati" (तै. सं. १-६-९-३) and "prokṣaṇīś cāsādayati" (तै. सं. १-६-९-४), where, of the two sentences with "adhiśrayati" and "āsādayati," the first with respect to the later one, through anuṣaṅga, is accepted as "first" for **चवायोगे प्रथमा** (पा. ८-१-५९). "Tvotāḥ" — "tvayā rakṣitāḥ," "tvotāsaḥ": **प्रत्ययोत्तरपदयोश्च** (पा. ७-२-९८) "tva" for the part up to "ma," the loss of "d" Vedic; "ava" with "kta," no "iṭ," **ज्वरत्वरस्रिव्यविमवामुपधायाश्च** (पा. ६-४-२०) "ūṭh"; **एत्येधत्यूठ्सु** (पा. ६-१-८९) the vṛddhi is withheld as Vedic; **तृतीया कर्मणि** (पा. ६-२-४८) the first member's accent, the "ā" acute; the single substitute "o" acute. "Arvatā" — "arvati gacchatīty arvā," "arva gatau," "vanip" by "anyebhyo 'pi dṛśyante"; **नेड्वशि कृति** (पा. ७-२-८) no "iṭ"; **लोपो व्योर्वलि** (पा. ६-१-६६) loss of "v"; **अर्वणस्त्रसावनञः** (पा. ६-४-१२७) "tṛ"; "vanip," "p"-marked, so the root accent.
 
 **॥ Prati-padārthaḥ ॥**
 
