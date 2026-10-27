@@ -352,103 +352,188 @@ so the *vikaraṇa* *śnu* would be due. But since here the sense "producing" is
 
 ---
 
-### Pages 14–19 — Sūkta 20, Rik 4
+### Page 14 — Sūkta 20, Rik 4
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> युवाना पितरा पुनः सत्यमन्त्रा ऋजूयवः ।
-> ऋभवो विष्ट्यक्रत ॥४॥
+> युवा॑ना पि॒तरा॒ पुनः॑ स॒त्यम॑न्त्रा ऋजू॒यवः॑ ।
+> ऋ॒भवो॑ वि॒ष्ट्य॑क्रत ॥४॥
 >
-> *yuvānā pitarā punaḥ satyamantrā ṛjūyavaḥ |*
-> *ṛbhavo viṣṭy akrata ||4||*
+> *yúvānā pitárā púnaḥ satyámantrā ṛjūyávaḥ |*
+> *ṛbhávo viṣṭyakrata ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > युवाना । पितरा । पुनरिति । सत्यऽमन्त्राः । ऋजुऽयवः ॥
 > ऋभवः । विष्टी । अक्रत ॥४॥
 >
-> *yuvānā | pitarā | punar iti | satya-mantrāḥ | ṛju-yavaḥ ||*
+> *yuvānā | pitarā | punariti | satya 'mantrāḥ | ṛju 'yavaḥ ||*
 > *ṛbhavaḥ | viṣṭī | akrata ||4||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā's* viṣṭy akrata *is the sandhi of the Pada's* viṣṭī akrata*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 14; compressed; [?] marks doubtful readings)*
+*(वर्तेन is as printed twice in the Nirukta quotation; the Special Topics, p. 16, print ऋतेन. The Nirukta number is printed ११-१५.)*
 
-> द्वितीये च्छन्दोमे वैश्वदेवशस्त्रे युवाना पितरा पुनरित्यार्भवस्तृचः । द्वितीयस्याग्निं वो देवमिति खण्डे सूत्रितम् । महीद्यौः पृथिवी च नो युवाना पितरा पुनरिति तृचौ । आ. [८-१०] । इति ॥
+> द्वितीये छन्दोमे वैश्वदेवशस्त्रे युवाना पितरा पुनरित्यार्भवस्तृचः । द्वितीयस्याग्निं वो देवमिति खण्डे सूत्रितम् । मही द्यौः पृथिवी च नो युवाना पितरा पुनरिति तृचौ ॥ आ. ८-१० । इति ॥
 >
-> *dvitīye chandome vaiśvadeva-śastre yuvānā pitarā punar ity ārbhavas tṛcaḥ | dvitīyasyāgniṃ vo devam iti khaṇḍe sūtritam | mahī dyauḥ pṛthivī ca no yuvānā pitarā punar iti tṛcau | ā. [8-10] | iti ||*
+> *dvitīye chandome vaiśvadevaśastre yuvānā pitarā punarityārbhavastṛcaḥ | dvitīyasyāgniṃ vo devamiti khaṇḍe sūtritam | mahī dyauḥ pṛthivī ca no yuvānā pitarā punariti tṛcau || ā. 8-10 | iti ||*
 
-> ऋभव एतन्नामका देवाः पितरौ स्वकीयौ मातापितरौ पूर्वं वृद्धावपि पुनर्युवानौ तरुणावक्रत । कृतवन्तः । कीदृशाः । सत्यमन्त्रा अवितथमन्त्रसामर्थ्योपेताः । पुरश्चरणाद्यनुष्ठानेन सिद्धमन्त्रत्वाद्यद्यत्फलमुद्दिश्य मन्त्राः प्रयुज्यन्ते तत्तत्फलं तथैव सम्पद्यते । तस्माज्जीर्णयोः पित्रोर्युवत्वं सम्पादयितुं समर्था इत्यर्थः । ऋजूयव ऋजुतामात्मन इच्छन्तः । फलरहिता इत्यर्थः । अत एवैतेषामनुष्ठिता मन्त्राः सिध्यन्ति । विष्टी विष्टयो व्याप्तियुक्ताः । सर्वेषु कार्येष्वेतदीयस्य मन्त्रसामर्थ्यस्याप्रतिघातोऽत्र व्याप्तिरुच्यते । ऋभुशब्दं यास्क एवं निर्वक्ति । ऋभव उरु भान्तीति वर्तेन भान्तीति वर्तेन भवन्तीति वा । नि. [११-१५] । इति ॥ युवाना । युवन्शब्दो यौतेः कनिन्नन्तो नित्त्वाद्याद्युदात्तः । सुपां सुलुगित्यादिना विभक्तेराकारः । पितरा । पूर्ववदाकारः । सत्यमन्त्राः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । ऋजूयवः । ऋजुशब्दो भावपरः । ऋजुतामात्मन इच्छन्ति । क्यच् । अकृत्सार्वधातुकयोर्दीर्घः । पा. [७-४-२५] । इति दीर्घः । क्याच्छन्दसीत्युप्रत्ययः । प्रत्ययस्वरः । विष्टी । विष्लृ व्याप्तौ ।
+> ऋभव एतन्नामका देवाः पितरौ स्वकीयौ मातापितरौ पूर्वं वृद्धावपि पुनर्युवाना तरुणावक्रत । कृतवन्तः । कीदृशाः । सत्यमन्त्रा अवितथमन्त्रसामर्थ्योपेताः । पुरश्चरणाद्यनुष्ठानेन सिद्धमन्त्रत्वाद्यद्यत्फलमुद्दिश्य मन्त्राः प्रयुज्यन्ते तत्तत्फलं तथैव संपद्यते । तस्माज्जीर्णयोः पित्रोर्युवत्वं संपादयितुं समर्था इत्यर्थः । ऋजूयव ऋजुतामात्मन इच्छन्तः । छलरहिता इत्यर्थः । अत एवैतेषामनुष्ठिता मन्त्राः सिध्यन्ति । विष्टी विष्टयो व्याप्तियुक्ताः । सर्वेषु कार्येष्वेतदीयस्य मन्त्रसामर्थ्यस्याप्रतिघातोऽत्र व्याप्तिरुच्यते । ऋभुशब्दं यास्क एवं निर्वक्ति । ऋभव उरु भान्तीति वर्तेन भान्तीति वर्तेन भवन्तीति वा । नि. ११-१५ । इति ॥ युवाना । युवन्शब्दो यौतेः कनिनन्तो नित्त्वादाद्युदात्तः । सुपां सुलुगित्यादिना विभक्तेराकारः । पितरा । पूर्ववदाकारः । सत्यमन्त्राः बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । ऋजुशब्दो भावपरः । ऋजुत्वमात्मन इच्छन्ति । क्यच् । अकृत्सार्वधातुकयोर्दीर्घः । पा. ७-४-२५ । इति दीर्घः । क्याच्छन्दसीत्युप्रत्ययः । प्रत्ययस्वरः । विष्टी । विष्लृ व्याप्तौ ।
 >
-> *ṛbhava etan-nāmakā devāḥ pitarau svakīyau mātāpitarau pūrvaṃ vṛddhāv api punar yuvānau taruṇāv akrata | kṛtavantaḥ | kīdṛśāḥ | satyamantrā avitatha-mantra-sāmarthyopetāḥ | puraścaraṇādy-anuṣṭhānena siddha-mantratvād yad yat phalam uddiśya mantrāḥ prayujyante tat tat phalaṃ tathaiva sampadyate | tasmāj jīrṇayoḥ pitror yuvatvaṃ sampādayituṃ samarthā ity arthaḥ | ṛjūyava ṛjutām ātmana icchantaḥ | phala-rahitā ity arthaḥ | ata evaiteṣām anuṣṭhitā mantrāḥ sidhyanti | viṣṭī viṣṭayo vyāpti-yuktāḥ | sarveṣu kāryeṣv etadīyasya mantra-sāmarthyasyāpratighāto 'tra vyāptir ucyate | ṛbhu-śabdaṃ yāska evaṃ nirvakti | ṛbhava uru bhāntīti vartena bhāntīti vartena bhavantīti vā | ni. [11-15] | iti || yuvānā | yuvan-śabdo yauteḥ kanin-nanto nittvād ādyudāttaḥ | supāṃ sulug ity-ādinā vibhakter ākāraḥ | pitarā | pūrvavad ākāraḥ | satyamantrāḥ | bahuvrīhau pūrvapada-prakṛti-svaraḥ | ṛjūyavaḥ | ṛju-śabdo bhāva-paraḥ | ṛjutām ātmana icchanti | kyac | akṛt-sārvadhātukayor dīrghaḥ | pā. [7-4-25] | iti dīrghaḥ | kyāc chandasīty u-pratyayaḥ | pratyaya-svaraḥ | viṣṭī | viṣḷ vyāptau |*
+> *ṛbhava etannāmakā devāḥ pitarau svakīyau mātāpitarau pūrvaṃ vṛddhāvapi punaryuvānā taruṇāvakrata | kṛtavantaḥ | kīdṛśāḥ | satyamantrā avitathamantrasāmarthyopetāḥ | puraścaraṇādyanuṣṭhānena siddhamantratvādyadyatphalamuddiśya mantrāḥ prayujyante tattatphalaṃ tathaiva saṃpadyate | tasmājjīrṇayoḥ pitroryuvatvaṃ saṃpādayituṃ samarthā ityarthaḥ | ṛjūyava ṛjutāmātmana icchantaḥ | chalarahitā ityarthaḥ | ata evaiteṣāmanuṣṭhitā mantrāḥ sidhyanti | viṣṭī viṣṭayo vyāptiyuktāḥ | sarveṣu kāryeṣvetadīyasya mantrasāmarthyasyāpratighāto 'tra vyāptirucyate | ṛbhuśabdaṃ yāska evaṃ nirvakti | ṛbhava uru bhāntīti vartena bhāntīti vartena bhavantīti vā | ni. 11-15 | iti || yuvānā | yuvanśabdo yauteḥ kaninanto nittvādādyudāttaḥ | supāṃ sulugityādinā vibhakterākāraḥ | pitarā | pūrvavadākāraḥ | satyamantrāḥ bahuvrīhau pūrvapadaprakṛtisvaraḥ | ṛjuśabdo bhāvaparaḥ | ṛjutvamātmana icchanti | kyac | akṛtsārvadhātukayordīrghaḥ | pā. 7-4-25 | iti dīrghaḥ | kyācchandasītyupratyayaḥ | pratyayasvaraḥ | viṣṭī | viṣlṛ vyāptau |*
 
-**Application (opening lines):** "In the second *chandoma*, at the *vaiśvadeva-śastra*, the Ṛbhu *tṛca* *yuvānā pitarā punaḥ* is used. It is laid down in the Sūtra, in the section of the second [day] beginning *agniṃ vo devam*: 'the two *tṛca*s *mahī dyauḥ pṛthivī ca naḥ* and *yuvānā pitarā punaḥ*' (Āśvalāyana Śrauta-sūtra [8-10])."
+### Page 15 — Rik 4: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Translation:** "The gods called the Ṛbhus *akrata* — made — their own parents, who had been old, young (*yuvānā*) again. Of what sort? *Satyamantrāḥ* — having the unfailing power of mantras: since their mantras are perfected by *puraścaraṇa* and other ritual practices, whatever fruit a mantra is applied to obtain, that fruit is obtained exactly so. Hence the sense: they were able to give youth to their aged parents. *Ṛjūyavaḥ* — desiring straightness for themselves: free of [crooked] designs; therefore their performed mantras succeed. *Viṣṭī* — *viṣṭayaḥ* — pervading: here 'pervading' is said of the unobstructed power of their mantras in all works. Yāska explains the word *ṛbhu* so: '*ṛbhavaḥ* — they shine greatly (*uru bhānti*), or they shine by truth, or they are [what they are] by truth' (Nirukta [11-15], numerals as read [?])." The grammar, noted briefly: *yuvānā* (*yuvan* from *yu* with *kanin*, first-syllable accent through the *n*; the dual ending replaced by *ā*); *pitarā* (the same); *satyamantrāḥ* (a bahuvrīhi, first-member accent); *ṛjūyavaḥ* (*ṛju* in the abstract sense, "desire straightness for oneself": *kyac*, the lengthening by P. 7-4-25, then the Vedic *u* suffix); *viṣṭī* (*viṣḷ* 'to pervade'…). *(Grammar, noted briefly; the bhāṣya breaks off here at the foot of p. 14 and continues on p. 15.)*
+> क्तिच्क्तौ च संज्ञायामिति क्तिच् । तितुत्रेत्यादिनेट्प्रतिबन्धः । तस्माज्जस इयाडियाजीकाराणामुपसंख्यानम् । पा. ७-१-३९-१ । इति तस्येकारादेशः । स चालोऽन्त्यस्य । पा. १-१-५२ । इति सकारस्य भवति । तत्र आद्गुण इति गुणे कृते प्रथमयोः पूर्वसवर्णः । पा. ६-१-१०२ । इति पूर्वसवर्णदीर्घः । तं बाधित्वा परत्वाज्जसि च । पा. ७-३-१०९ । इति ह्रस्वस्य गुणेन भवितव्यमिति चेन्न । संज्ञापूर्वकस्य विधेरनित्यत्वात् । अक्रत । कृञो लुङ् । आत्मनेपदम् । झस्यादादेशः । मन्त्रे घसेत्यादिना । पा. २-४-८० । च्लेर्लुक् । यणादेशः । अडागमः । निघातः ॥
+>
+> *kticktau ca saṃjñāyāmiti ktic | titutretyādineṭpratibandhaḥ | tasmājjasa iyāḍiyājīkārāṇāmupasaṃkhyānam | pā. 7-1-39-1 | iti tasyekārādeśaḥ | sa cālo 'ntyasya | pā. 1-1-52 | iti sakārasya bhavati | tatra ādguṇa iti guṇe kṛte prathamayoḥ pūrvasavarṇaḥ | pā. 6-1-102 | iti pūrvasavarṇadīrghaḥ | taṃ bādhitvā paratvājjasi ca | pā. 7-3-109 | iti hrasvasya guṇena bhavitavyamiti cenna | saṃjñāpūrvakasya vidheranityatvāt | akrata | kṛño luṅ | ātmanepadam | jhasyādādeśaḥ | mantre ghasetyādinā | pā. 2-4-80 | clerluk | yaṇādeśaḥ | aḍāgamaḥ | nighātaḥ ||*
 
-**Grammar pages (pp. 14 lower half–15, and 18–19), noted briefly.** The bhāṣya's grammar on *viṣṭī* continues on p. 15: *viṣḷ vyāptau* + *kvic/ktic*: *kric-ktau ca saṃjñāyām* P. 3-3-174 [as read 3-3-174] gives *ktic* in a noun-sense; *titutratatha…* P. 7-2-9 bars *iṭ*; *ṣṭunā ṣṭuḥ* P. 8-4-41 gives *ṭ* for *t*: *viṣṭi*; the nominative dual *au* → *ī* by the *Veda*: the Vārttika *iyāḍiyājīkārāṇām upasaṃkhyānam* P. 2-1-… [as read], which allows *īkāra* for *jas* [here *jas* → *ī* by P. 1-1-… *alo 'ntyasya*]; *ād guṇaḥ* P. 6-1-87 and *prathamayoḥ pūrvasavarṇaḥ* P. 6-1-102 give *viṣṭī*; *akrata* (*ḍukṛñ karaṇe*, *luṅ*; *cli luṅi* P. 3-1-43 gives *cli*, whose *s* is dropped; *mantre ghasahvaraṇaśavṛdahādvṛc-kragamijanibhyo leḥ* P. 2-4-80 drops *cli* [*luk*] in the Veda; *ṛ* of the middle ending *jha* → *at* by P. 7-1-5 *ātmanepadeṣv anataḥ*; *iko yaṇaci*; *aḍāgama* P. 6-4-71; all unaccented by P. 8-1-28). The Kannada's own grammar (pp. 17–19) treats *yuvānā* (*yu miśraṇāmiśraṇayoḥ* with the Uṇādi *kanin*, Uṇ. 1-[?] *kanin-yuvṛṣitakṣirājidhanvidyupratidivaḥ*; *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* P. 6-4-77 gives *uv*; *yuvan* + *au*; *supāṃ sulug…* P. 7-1-39 gives *ā*), *pitarā* (as before), *satyamantrāḥ* (*na vidyate… satyā mantrā yeṣām*, bahuvrīhi, P. 6-2-1), *ṛjūyavaḥ* (*ṛju* here in the abstract sense, "straightness"; *supa ātmanaḥ kyac* P. 3-1-8, optional; the *ām* ending dropped by *supo dhātuprātipadikayoḥ* P. 2-4-71; *ṛjūya*; *akṛtsārvadhātukayor dīrghaḥ* P. 7-4-25 lengthens the final *a* of the stem before a *kyac* ending; then the Vedic *u* suffix [*kyāc chandasi* P. 3-2-170 — the Kannada reads *kya* as covering *kyac*, *kyaṣ*, *kyaṅ*, *u* being added after *kya*-ending roots in the Veda]; *ṛjūya* + *u*; *ato lopaḥ* P. 6-4-48 drops the *a*; *ṛjūyu*; suffix accent; nominative plural *ṛjūyavaḥ*), and *viṣṭī* (*viṣḷ vyāptau* with *ktic*, as above, *viṣṭi* + *jas*; *iyāḍiyāc…* — three substitutes *iyā, ḍiyā, ī* are available for *jas* after *su* [the Vārttika]; here *ī* by P. 1-1-52 *alo 'ntyasya* [last letter *s* replaced]; *ād guṇaḥ* P. 6-1-87 would give guṇa, but the Kannada argues that *prathamayoḥ pūrvasavarṇaḥ* P. 6-1-102 is the rule that gives *viṣṭī*, and that *jasi ca* P. 7-3-109 [guṇa before *jas*] also has a claim; by *vipratiṣedhe paraṃ kāryam* P. 1-4-2 the guṇa would win, but the paribhāṣā *saṃjñāpūrvako vidhir anityaḥ* makes the guṇa rule — which depends on the technical name *hrasva*/*guṇa* — non-eternal, so it does not apply, and the *ī* substitute with *pūrvasavarṇadīrgha* stands [the Kannada adds that the *ī* of *jas*, if [read as] a *saṃjñā*-based substitute, would give the *visarga* a hearing, *viṣṭīḥ*]; the words are given in a crowded passage that I summarise here only). ॥4॥ *(A crowded run; outline only; sūtra numerals as read from small print; pointers only.)*
+**Translation:** "In the second *chandoma*, at the *vaiśvadeva-śastra*, the *tṛca* to the Ṛbhus is *yuvānā pitarā punaḥ*. So it is laid down in the section of the second *agniṃ vo devam*: '*mahī dyauḥ pṛthivī ca naḥ* and *yuvānā pitarā punaḥ*: two *tṛcas*' (Āśv. 8-10). The Ṛbhus, gods of that name, *akrata*, made, their *pitarau*, their own mother and father, who were old before, *yuvānā*, young *punaḥ*, again. Of what kind? *Satyamantrāḥ*, endowed with the power of mantras that never fail: because their mantras are perfected by performing *puraścaraṇa* and the like, whatever fruit the mantras are used for, that very fruit comes about; so they are able to make their aged parents young again. *Ṛjūyavaḥ*, desiring straightness for themselves: free of deceit; that is why the mantras they perform succeed. *Viṣṭī*, possessed of pervasion: here pervasion means that the power of their mantras meets with no obstacle in any undertaking. Yāska derives the word *ṛbhu* thus: 'the Ṛbhus shine widely, or shine *varta*, or are *varta*' (Ni. 11-15)." (Grammatical tail: *yuvānā*, *yuvan* from *yu* with *kanin*, initial udātta as *nit*, *ā* for the ending by *supāṃ suluk…*; *pitarā*, *ā* as before; *satyamantrāḥ*, a *bahuvrīhi*, the first member's accent; *ṛju* here denotes the quality: "they want straightness for themselves", *kyac*, lengthening by *akṛtsārvadhātukayor dīrghaḥ* (Pā. 7-4-25), the suffix *u* by *kyāc chandasi*, the suffix accent; *viṣṭī*, *viṣḷ vyāptau*, *ktic* by *kticktau ca saṃjñāyām*, no *iṭ* by *titutra…*; for its *jas* the *ī* by the statement *iyāḍiyājīkārāṇām upasaṃkhyānam* (Pā. 7-1-39-1), coming for the *s* by *alo 'ntyasya* (Pā. 1-1-52); when *guṇa* is made by *ād guṇaḥ*, the lengthening by *prathamayoḥ pūrvasavarṇaḥ* (Pā. 6-1-102); if it is said that, overriding it, the short vowel should take *guṇa* by *jasi ca* (Pā. 7-3-109) as later, no, since a rule stated with a technical name is not *nitya*; *akrata*, *luṅ* of *kṛñ*, *ātmanepada*, *at* for *jha*, *luk* of *cli* by *mantre ghasa…* (Pā. 2-4-80), *yaṇ*, the augment *aṭ*, wholly unaccented.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 15)*
+**॥ Prati-padārthaḥ ॥**
 
-**सत्यमन्त्राः (satyamantrāḥ)** — [those] whose mantras are true | **ऋजूयवः (ṛjūyavaḥ)** — desiring to remain on the straight path | **विष्टी (viṣṭī)** — [by the power of the mantras] pervading | **ऋभवः (ṛbhavaḥ)** — the deities called the Ṛbhus | **पितरा (pitarā)** — their [aged] mother and father | **पुनः (punaḥ)** — again | **युवाना (yuvānā)** — young | **अक्रत (akrata)** — made.
+**सत्यमन्त्राः (satyamantrāḥ)** — possessed of true mantras | **ऋजूयवः (ṛjūyavaḥ)** — wishing to stay on the straight path | **विष्टी (viṣṭī)** — possessed of pervasion (by the power of mantras) | **ऋभवः (ṛbhavaḥ)** — the deities named Ṛbhus | **पितरा (pitarā)** — (their aged) parents | **पुनः (punaḥ)** — again | **युवाना (yuvānā)** — young | **अक्रत (akrata)** — made.
 
 **॥ Bhāvārthaḥ ॥**
 
-The Ṛbhus go always on the right path; therefore their mantras are never in vain, and are fruitful. By the power of such mantras they made their aged father and mother young again.
+The Ṛbhus walk only in the good path. So their mantras never go in vain; they always bear fruit. By such power of their mantras they made their aged parents youthful (young).
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The honest Ribhus repeating true prayers made (their) parents young again by their skilful acts encountering no opposition through their infallible mantras.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 15–17)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-When the mantras of the Ṛbhu deities are recited at the time of reciting the *vaiśvadeva-śastra* mantras, this mantra is said as the *dvitīya-chandomā* mantra. This matter is stated in the Āśvalāyana Śrauta-sūtra, in the section of the second [day], *agniṃ vo devam*, in the sūtra *mahī dyauḥ pṛthivī ca no yuvānā pitarā punar iti tṛcau* (Āś. 8-10).
+At the time of reciting the *vaiśvadeva-śastra* mantras, when the mantras to the Ṛbhu deities are recited, this mantra is recited as the second *chandoma* mantra. This is stated in the Āśvalāyana Śrautasūtra, in the section *dvitīyasyāgniṃ vo devam*, in the sūtra *mahī dyauḥ pṛthivī ca no yuvānā pitarā punar iti tṛcau* (Ā. 8-10).
 
-**युवाना (yuvānā)** — *yuvānau*: youthful; those who are in the state of youth, not in old age.
+**Yuvānā**: *yuvānau*: youthful, in the age of youth, not in old age.
 
-**पितरा (pitarā)** — *svakīyau mātāpitarau* — their aged parents.
+### Page 16 — Rik 4: Special Topics
 
-**पुनः (punaḥ)** — again; as they were formerly in the state of youth.
+**Pitarā**:
 
-**सत्यमन्त्राः (satyamantrāḥ)** — *avitathamantrasāmarthyopetāḥ*. By performing the *puraścaraṇa* and similar rites, those who have obtained *mantra-siddhi*: if one performs the recitation of the mantra for the sake of a given fruit, the fruit is certainly obtained.
-
-**ऋजूयवः (ṛjūyavaḥ)** — *ṛjukāmāḥ*; *ṛjutām ātmana icchanti*: those who rely on justice or the path of truth; or those who wish to be establishers of the path of truth.
-
-**ऋभवः (ṛbhavaḥ)** — Yāska has given three derivations of the word *ṛbhu*:
-(1) *ṛbhava uru bhāntīti vā* — "because they shine (*bhānti*) greatly (*uru*)"; hence they are called *ṛbhavaḥ*; some hold that the word *ṛbhu* or *ṛbhu* comes of joining the final *r* of the word *uru* [read as *ṛu*] and the first letter of *bhānti* — as *ahaḥ + rātriḥ = hora* [i.e. *horā*]. 
-(2) *ṛtena bhāntīti vā* — those who shine by *ṛta* — truth or sacrifice. 
-(3) *ṛtena bhavanti iti vā* — "those who are [what they are] by *ṛta*, i.e. by capacity"; some say that the initial *ṛ* of *ṛtena* and the *bha* of *bhavanti* joined together and became *ṛbhu*.
-
-**विष्टी (viṣṭī)** — *viṣṭī*, *viṣḷ vyāptau*: among the twenty-six words for *karman* beginning with *apas*, *aḥnaḥ*, the word *viṣṭi* is read (Ni. 2-1); it therefore means "action". *Viṣṭī* — *vyāptiyuktāḥ*: those who have pervasion. By "pervasion" is meant: *sarveṣu kāryeṣv etadīyasya mantrasāmarthyasyāpratighāto 'tra vyāptir ucyate* — in all works their power of mantra is not hindered.
-
-The Ṛbhus — the Kannada here says — were formerly men; the manner in which they afterwards attained divinity this rik explains in detail:
-
-> विष्टी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ।
-> सौधन्वना ऋभवः सूरचक्षसः संवत्सरे समपृच्यन्त धीतिभिः ॥ (ऋ. सं. [१-११०-४])
+> स्वकीयौ मातापितरौ
 >
-> *viṣṭī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvam ānaśuḥ |*
-> *saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyanta dhītibhiḥ || (ṛ. saṃ. [1-110-4])*
+> *svakīyau mātāpitarau*
 
-*(Read from the Kannada print; the reference numerals read as "೧-೧೧೦-೪" and are given with a query. The Kannada gives no English gloss of the rik beyond the commentary, which follows; the gloss is mine and tentative:)* "Being mortals, by action (*viṣṭī*), by works (*śamī*), by swiftness [or: by the speed of the sun], the Sudhanvan-born Ṛbhus, the sacrificer-offering [*vāghataḥ*] and sun-eyed, attained immortality; in the course of a year they were united with the acts [of their works]." Yāska explains it:
+("Their own mother and father.") Their aged parents.
 
-> कृत्वा कर्माणि श्रिप्रत्वेन वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे ऋभवः सूरख्याना वा सूरप्रज्ञा वा संवत्सरे समपृच्यन्त धीतिभिः कर्मभिः ॥
-> *kṛtvā karmāṇi śriprat-vena voḍhāro medhāvino vā martāsaḥ santo 'mṛtatvam ānaśire ṛbhavaḥ sūrakhyānā vā sūraprajñā vā saṃvatsare samapṛcyanta dhītibhiḥ karmabhiḥ ||*
+**Punaḥ**: again, as they were before in the age of youth.
 
-*(The first words of Yāska's text are partly garbled in the print; I give them as read and without translating.)* The chief sense: the sons of Sudhanvan, these Ṛbhus, formerly were men. By means of the sun-like brilliance of their intelligence, or their power of reason, speedily — that is, in a single year — they completed all sacrifices and so obtained *amṛtatva*, divinity (freedom from death). Yāska gives another sense of the word *ṛbhu*:
+**Satyamantrāḥ**:
 
-> आदित्यरश्मयोऽप्यृभव उच्यन्ते ॥
-> *ādityaraśmayo 'py ṛbhava ucyante ||*
+> अवितथमन्त्रसामर्थ्योपेताः । पुरश्चरणाद्यनुष्ठानेन सिद्धमन्त्रत्वाद्यद्यत्फलमुद्दिश्य मन्त्राः प्रयुज्यन्ते तत्तत्फलं तथैव संपद्यते ॥
+>
+> *avitathamantrasāmarthyopetāḥ | puraścaraṇādyanuṣṭhānena siddhamantratvādyadyatphalamuddiśya mantrāḥ prayujyante tattatphalaṃ tathaiva saṃpadyate ||*
 
-— "the rays of the sun also are called *ṛbhavaḥ*"; as in the example
+("Endowed with the power of mantras that never fail; because their mantras are perfected by performing *puraścaraṇa* and the like, whatever fruit the mantras are used for, that very fruit comes about.") They have gained mastery of the mantras by reciting them with rites such as *puraścaraṇa*. The intent is that if such men recite a mantra for any intended fruit, that fruit is surely obtained.
+
+**Ṛjūyavaḥ**:
+
+> ऋजुकामाः । ऋजुतामात्मन इच्छन्तः
+>
+> *ṛjukāmāḥ | ṛjutāmātmana icchantaḥ*
+
+("Desiring straightness; wishing straightness for themselves.") Those who follow justice or the true path, or who wish to become promoters of the true path.
+
+**Ṛbhavaḥ**: for the word *ṛbhu* Yāska gives three kinds of derivation:
+
+(1)
+
+> ऋभव उरु भान्तीति वा ।
+>
+> *ṛbhava uru bhāntīti vā |*
+("The Ṛbhus shine widely.") *Uru*, much; *bhānti*, they shine: so they are named Ṛbhus. Some think the word *rubhu* or *ṛbhu* is formed by joining the last letter *ru* of *uru* with the first letter of *bhānti*, as in *ahaḥ* + *rātriḥ* = *horā*.
+
+(2)
+
+> ऋतेन भान्तीति वा ।
+>
+> *ṛtena bhāntīti vā |*
+("They shine by *ṛta*.") Because they shine by *ṛta*, that is, by truth or by sacrifice, they are named Ṛbhus.
+
+(3)
+
+> ऋतेन भवन्तीति वा ।
+>
+> *ṛtena bhavantīti vā |*
+("They are by *ṛta*.") Because they exist by *ṛta*, that is, by truth (by power), that is, they are possessed of power, they are named Ṛbhus. Some say that the first letter *ṛ* of *ṛtena* and the first letter *bh* of *bhavanti* join to give *ṛbhu*.
+
+**Viṣṭī**: *viṣṭvī*. Since the word *viṣṭvī* is read among the twenty-six names for action beginning *apaḥ*, *apnaḥ* (Ni. 3-1), it means action. To suit the metre the *v* of *viṣṭvī* is dropped and it is written *viṣṭī*. For this word the commentator gives the sense *vyāptiyuktāḥ*, possessed of pervasion. Pervasion means
+
+> सर्वेषु कार्येष्वेतदीयस्य मन्त्रसामर्थ्यस्याप्रतिघातोऽत्र व्याप्तिरुच्यते
+>
+> *sarveṣu kāryeṣvetadīyasya mantrasāmarthyasyāpratighāto 'tra vyāptirucyate*
+
+("Here pervasion means that the power of their mantras meets with no obstacle in any undertaking.") The sense is: in all undertakings they are unobstructed by the power of their mantras.
+
+This ṛk makes clear the matter that these Ṛbhus were men formerly and later attained divinity:
+
+### Page 17 — Rik 4: Special Topics
+
+> विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ।
+> सौधन्वना ऋभवः सूरचक्षसः संवत्सरे समपृच्यन्त धीतिभिः ॥ (ऋ. सं. १-११०-४)
+>
+> *viṣṭvī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvamānaśuḥ |*
+> *saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyanta dhītibhiḥ || (ṛ. saṃ. 1-110-4)*
+
+("Having done the acts, the bearers, though mortals, by swiftness attained immortality; the sons of Sudhanvan, the Ṛbhus, sun-eyed, were joined in a year with the rites": mine and tentative.) Yāska's Nirukta on it:
+
+> कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे ऋभवः सूरख्याना वा सूरप्रज्ञा वा संवत्सरे समपृच्यन्त धीतिभिः कर्मभिः ॥
+>
+> *kṛtvā karmāṇi kṣipratvena voḍhāro medhāvino vā martāsaḥ santo 'mṛtatvamānaśire ṛbhavaḥ sūrakhyānā vā sūraprajñā vā saṃvatsare samapṛcyanta dhītibhiḥ karmabhiḥ ||*
+
+("Having done the acts quickly, the bearers or the wise, though mortals, attained immortality, the Ṛbhus, sun-famed or sun-wise; in a year they were joined with the *dhītis*, the acts": mine and tentative.) The chief intent is: these Ṛbhus, the sons of Sudhanvan, were men formerly. By their wisdom or intelligence, equal to the sun's, they performed all the sacrifices quickly, that is, in a single year, and attained *amṛtatvam*, divinity (freedom from death).
+
+Yāska gives another sense too for the word *ṛbhu*:
+
+**Ādityaraśmayo 'py ṛbhava ucyante**: the sun's rays too are called *ṛbhavaḥ*. For example:
 
 > उद्वत्स्वस्मा अकृणोतना तृणं निवत्स्वपः स्वपस्यया नरः ।
-> अगोह्यस्य यदसस्तना गृहे तदद्येदमृभवो नानु गच्छथ ॥ (ऋ. सं. [१-१६१-११])
-> *udvatsv asmā akṛṇotanā tṛṇaṃ nivatsv apaḥ svapasyayā naraḥ |*
-> *agohyasya yad asastanā gṛhe tad adyedam ṛbhavo nānu gacchatha || (ṛ. saṃ. [1-161-11])*
+> अगोह्यस्य यदसस्तना गृहे तदद्येदमृभवो नानु गच्छथ ॥ (ऋ. सं. १-१६१-११)
+>
+> *udvatsvasmā akṛṇotanā tṛṇaṃ nivatsvapaḥ svapasyayā naraḥ |*
+> *agohyasya yadasastanā gṛhe tadadyedamṛbhavo nānu gacchatha || (ṛ. saṃ. 1-161-11)*
 
-*(The Sanskrit of this rik is read from the Kannada print with uncertainties; its reference numerals are marked [?].)* Yāska comments: *agohya ādityo 'gūhanīyas tasya yad asastha gṛhe yāvatrātrir bhavati na tāvad iha bhavatheti* [partly garbled] — "Agohya is the sun, the [one] not to be hidden; as many nights as the Ṛbhus spend in his house, they are not here." The commentator Sāyaṇa, in explaining the rik, takes *ṛbhavaḥ* as *uru prabhūtaṃ bhāsamānāḥ ṛtena-ādityena bhāsamānā vā ṛtenodakenodakārtham utpannā vā* — "those who shine greatly; or those who shine by the sun; or those who arose by water, for the sake of water".
+("For him on the heights you made grass, on the depths waters, by your good work, O men; when you slept in the house of the one not to be hidden, today you do not go after this, O Ṛbhus": mine and tentative.) For this ṛk Yāska gives the Nirukta
 
-**विष्टी (viṣṭī)** — see above.
+> अगोह्य आदित्योऽगूहनीयस्तस्य यदस्वपथ गृहे यावत्तत्र भवथ न तावदिह भवथेति ॥
+>
+> *agohya ādityo 'gūhanīyastasya yadasvapatha gṛhe yāvattatra bhavatha na tāvadiha bhavatheti ||*
+
+("The one not to be hidden is the sun, who is not to be concealed; as long as you sleep in his house, so long you are not here": mine and tentative.) The commentator too, explaining the sense of this ṛk, gave for the word *ṛbhavaḥ*
+
+> ऋभवः उरु प्रभूतं भासमानाः ऋतेनादित्येन भासमाना वा ऋतेनोदकेनोदकार्थमुत्पन्ना वा
+>
+> *ṛbhavaḥ uru prabhūtaṃ bhāsamānāḥ ṛtenādityena bhāsamānā vā ṛtenodakenodakārthamutpannā vā*
+
+("The Ṛbhus: shining abundantly, or shining by *ṛta*, the sun, or born by *ṛta*, water, for the sake of water.")
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 17–19, noted briefly)*
+
+**युवाना (*yuvānā*)**: the root *yu miśraṇāmiśraṇayoḥ*. By "kaninyuvṛṣitakṣirājidhanvidyupratidivaḥ" (Uṇ. sū. "1-154" [?]), after the roots *yu miśraṇe*, *vṛṣu secane*, *takṣū tanūkaraṇe*, *rājṛ dīptau*, *dhanvi gatau*, *dyu abhigamane* and *divu krīḍādau*, the suffix *kanin* comes; so after the root *yu* the suffix *kanin*. *Yu* + *an*: by "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau" (Pā. sū. 6-4-77) the substitute *uvaṅ*: *yuvan*. After it, for the accusative dual suffix *auṭ*, by the sūtra "supāṃ suluk…" (Pā. sū. 7-1-39) the substitute *ā*: *yuvānā*. By the *nit* accent the word *yuvan* is initial udātta.
+
+### Page 18 — Rik 4: grammar
+
+**पितरा (*pitarā*)**: as before, here too the substitute *ā* for the ending.
+
+**सत्यमन्त्राः (*satyamantrāḥ*)**: the word *satya* is final udātta. *Satyāḥ*, not in vain; *mantrāḥ*, powers of mantra; *yeṣāṃ te*, those who have them are *satyamantrāḥ*: a *bahuvrīhi*; by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) the accent of the first member comes.
+
+**ऋजूयवः (*ṛjūyavaḥ*)**: in *ṛju* a statement with the quality as chief is intended; the sense is *ṛjutva*, straightness. When *ṛjutvam ātmanaḥ icchanti* is meant, by "supa ātmanaḥ kyac" (Pā. sū. 3-1-8) (after a *subanta* denoting the object, the thing that the one who wishes wishes for his own benefit, the suffix *kyac* comes optionally in the sense of wishing: such is the sense of the sūtra), *kyac* comes after the *subanta* *ṛju* denoting the object; for the suffix *am*, by "supo dhātuprātipadikayoḥ" (Pā. sū. 2-4-71), *luk*: *ṛjuya*. Now by "akṛtsārvadhātukayor dīrghaḥ" (Pā. sū. 7-4-25), when a *y*-initial suffix other than a *kṛt* or *sārvadhātuka* follows, a vowel-final *aṅga* is lengthened. Now by "kyāc chandasi" (Pā. sū. 3-2-170) (*kya* is a general taking of the three suffixes *kyac*, *kyaṣ*, *kyaṅ*; after a root ending in the suffix *kya*, in the Veda, in senses such as *tācchīlya*, the suffix *u* comes: such is the sense of the sūtra), so when the suffix *u* comes, *ṛjūya* + *u*; by "ato lopaḥ" (Pā. sū. 6-4-48) the loss of *a*: *ṛjūyu*. The suffix accent comes; in the nominative plural, *ṛjūyavaḥ*.
+
+**विष्टी (*viṣṭī*)**: *viṣḷ vyāptau*. By "kticktau ca saṃjñāyām" (Pā. sū. 3-3-174), when a blessing is meant and a name is to be expressed, the suffixes *ktic* and *kta* come after the root: so the suffix *ktic*. *Viṣ* + *ti*: here the augment *iṭ* would be due for *ti* by "ārdhadhātukasyeḍ valādeḥ" (Pā. sū. 7-2-35); but since by "titutratathasisusarakaseṣu ca" (Pā. sū. 7-2-9) these ten *kṛt* suffixes do not take the augment *iṭ*, the bar comes, so *iṭ* does not come. By "ṣṭunā ṣṭuḥ" (Pā. sū. 8-4-41) *ṭ* for the *t*. After the word *viṣṭi* the ending *jas* is added. For it, by "iyāḍiyājīkārāṇām upasaṃkhyānam" (Pā. sū. 7-1-39 vā. 1), the three substitutes *iyā*, *ḍiyāc* and *ī* come for a *sup*; so here the substitute *ī*. By "alo 'ntyasya" (Pā. sū. 1-1-52), what is enjoined naming a word in the sixth case comes to the last letter of the word denoted by the sixth: so it comes for the *s*, the last letter of *jas*. *Viṣṭi* + *a* + *ī*. By "ād guṇaḥ" (Pā. sū. 6-1-87) *guṇa*: *viṣṭi* + *e*. By "prathamayoḥ pūrvasavarṇaḥ" (Pā. sū. 6-1-102), when the vowel of a nominative or accusative ending follows after *a*, *i*, *u*, *ṛ*, *ḷ*,
+
+### Page 19 — Rik 4: grammar (end)
+
+in place of the former and latter the lengthening of the former like vowel comes as a single substitute: so for *i* + *e* the former-like lengthening gives *viṣṭī*. But when *jas* follows, besides the lengthening, *guṇa* is also due by "jasi ca" (Pā. sū. 7-3-109), *guṇa* coming after an *aṅga* ending in a short *ik* before *jas*. By rule, by "vipratiṣedhe paraṃ kāryam" (Pā. sū. 1-4-2), *guṇa* alone should come; yet by "saṃjñāpūrvako vidhir anityaḥ" (*paribhāṣā* "93" [?]) the *guṇa* rule, stated with the technical names short and *guṇa*, is not *nitya*, so it does not come. Here, even without justifying the application of the *guṇas* *ī* substitute and *ād guṇaḥ*, in the way stated before, since the *guṇa*-enjoining *jasi ca* is not *nitya*, it does not apply. If it is said that the former-like lengthening comes, the visarga would have to be heard: *viṣṭīḥ*.
+
+**अक्रत (*akrata*)**: the root *ḍukṛñ karaṇe*. *Luṅ*: *kṛ* + *luṅ*; by "cli luṅi" (Pā. sū. 3-1-43) *cli* comes. The *c* is called *it* and dropped; *li* remains. For it, by "mantre ghasahvaraṇaśavṛdahādvṛckṛgamijanibhyo leḥ" (Pā. sū. 2-4-80): *ghasḷ* substituted for the root *ad*, and *hvṛ kauṭilye*, with *guṇa* and the *a* for pronunciation, as *hvara*, are mentioned; *ṇaśa adarśane*; *vṛ*, by its mention without indicatory letters, takes both *vṛñ varaṇe* and *vṛṅ saṃbhaktau*; *daha bhasmīkaraṇe*; by *āt*, the *ā*-final roots such as *prā pūraṇe* are mentioned; *vṛjī varjane*, *ḍukṛñ karaṇe*, *gamḷ gatau*, *janī prādurbhāve*: after these, for the *li*, in the mantra, *luk* comes; so *luk* comes. *Kṛ* + *luṅ*: for the *luṅ*, the *ātmanepada* 3rd plural *jha*. *Kṛ* + *jha*: by "ātmanepadeṣv anataḥ" (Pā. sū. 7-1-5) *at* for the *jh*. *Kṛ* + *ata*: by "iko yaṇ aci" (Pā. sū. 6-1-77) the substitute *yaṇ*; by "luṅlaṅlṛṅkṣv aḍ udāttaḥ" (Pā. sū. 6-4-71) the augment *aṭ*: *akrata*. By "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) wholly unaccented.
+
+**॥४॥**
+
+---
 
 ### Pages 19–23 — Sūkta 20, Rik 5
 
