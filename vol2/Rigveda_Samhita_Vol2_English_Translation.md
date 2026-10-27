@@ -11510,13 +11510,15 @@ yoḥ pūrvasavarṇaḥ" (Pā. 6-1-102) would give the *pūrvasavarṇa*-length
 
 ### Page 564 — Sūkta 13, Rik 9
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इळा सरस्वती मही तिस्रो देवीर्मयोभुवः ।
-> बर्हिः सीदन्त्वस्रिधः ॥९॥
+> इळा॒ सर॑स्वती म॒ही ति॒स्रो दे॒वीर्म॑यो॒भुवः॑ ।
+> ब॒र्हिः सी॑दन्त्व॒स्रिधः॑ ॥९॥
 >
-> *iḷā sarasvatī mahī tisro devīr mayobhuvaḥ |*
-> *barhiḥ sīdantv asridhaḥ ||9||*
+> *iḷā sárasvatī mahī́ tisró devī́r mayobhúvaḥ |*
+> *barhíḥ sīdantv asrídhaḥ ||9||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -11528,13 +11530,13 @@ yoḥ pūrvasavarṇaḥ" (Pā. 6-1-102) would give the *pūrvasavarṇa*-length
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> अत्र महीशब्दो महत्त्वगुणयुक्तां भारतीं वाचष्टे । अन्यैर्हि आप्रीसूक्तेषु सद्वैश्विळा सरस्वती भारतीत्याम्नातत्वात् । इळादिशब्दाभिधेया वह्निमूर्तयस्तिस्रो देवीर्दीप्यमाना बर्हिर्वेद्यामास्तीर्णं सीदन्तु । प्राप्नुवन्तु । कीदृश्यः । मयोभुवः सुखोत्पादिका अस्रिधः शोषणेन क्षयेन वा रहिताः ॥ इळा । ईड स्तुतौ । छान्दसो डस्य ळत्वम् । क्विप् । धातुस्वरः । टापं चापि हलन्तानां यथा वाचा दिशा निशेति टाप् । सरस्वती । सरोस्यसुनन्तो नित्त्वाद्यादयुदात्तः । तदस्यास्तीति मतुप् । आदुपधत्वाद्वत्त्वम् । तसौ मत्वर्थ इति भत्वेन पदत्वस्य बाधितत्वाद्रुत्वाद्यभावः । उगितश्चेति ङीप् । मतुब्ङीपौ पित्त्वादनुदात्तौ । मही । महतीशब्दे तकारलोपश्छान्दसः । यस्येति चेत्यकार-लोपः । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् । तिस्रः । त्रिशब्दाज्जसि त्रिचतुरोः स्त्रियां तिसृचतसृ । पा. ७-२-९९ । इति तिसृ-आदेशः । अचि र ऋतः । पा. ७-२-१०० । इति रेफादेशः । तिसृभ्यो जसः । पा. ६-१-१६६ । इति जस उदात्तत्वम् । देवीः । देवानां पत्न्यो देव्यः पुंयोगादाख्यायामिति ङीष् । यस्येति चेत्यकार लोपः । प्रत्ययस्वरेण ङीष उदात्तत्वम् । जसि दीर्घाज्जसि च । पा. ६-१-१०५ । इति निषिद्धं दीर्घत्वम् । वा छन्दसीति पक्षे दीर्घत्वं जायते । मयोभुवः । मीञ् हिंसायाम् । हिनस्ति दुःखमिति सुखं मयः । तद्भावयन्तीति मयोभुवः । अन्तर्भावितण्यर्थाद्भवेः क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । बर्हिः । बृंहेर्नलोपश्चेति सि प्रत्ययः । प्रत्ययस्वरः । सीदन्तु । षद्लृ विशरणादौ । पाघ्रेत्यादिना सीदादेशः । अस्रिधः । स्रिधेर्हिंसार्थस्य शोषणार्थस्य वा सम्पदादिभ्यो भावे क्विपि नञ् । बहुव्रीहिः । पूर्वपदप्रकृतिस्वरं बाधित्वा नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं ॥
+> अत्र महीशब्दो महत्त्वगुणयुक्तां भारतीमाचष्टे ऽन्येष्वाप्रीसूक्तेषु सदृशेष्विळा सरस्वती भारतीत्याम्नातत्वात् । इळादिशब्दाभिधेया वह्निमूर्तयस्तिस्रो देवीर्दीप्यमाना बर्हिर्वेद्यामास्तीर्णं सीदन्तु । प्राप्नुवन्तु । कीदृश्यः । मयोभुवः सुखोत्पादिका अस्रिधः शोषेण क्षयेण वा रहिताः ॥ इळा । ईड स्तुतौ । छान्दसं ह्रस्वत्वं । क्विप् । धातुस्वरः । टापं चापि हलन्तानां यथा वाचा दिशा निशेति टाप् । सरस्वती । सरोऽसुनन्तो नित्त्वादाद्युदात्तः । तदस्यास्तीति मतुप् । आदुपधत्वाद्वत्वं । तसौ मत्वर्थ इति भत्वेन पदत्वस्य बाधितत्वाद्रुत्वाद्यभावः । उगितश्चेति ङीप् । मतुब्ङीपौ पित्त्वादनुदात्तौ । मही । महतीशब्दे तकारलोपश्छान्दसः । यस्येति चेत्यकारलोपः । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वं । तिस्रः । त्रिशब्दाज्जसि त्रिचतुरोः स्त्रियां तिसृचतसृ । पा. ७-२-९९ । इति तिस्रादेशः । अचि र ऋतः । पा. ७-२-१०० । इति रेफादेशः । तिसृभ्यो जसः । पा. ६-१-१६६ । इति जस उदात्तत्वं । देवीः । देवानां पत्न्यो देव्यः पुंयोगादाख्यायामिति ङीष् । यस्येति चेत्यकार लोपः । प्रत्ययस्वरेण ङीष उदात्तत्वं । जसि दीर्घाज्जसि च । पा. ६-१-१०४ [?] । इति निषिद्धं दीर्घत्वं । वा छन्दसीति पक्षेऽभ्यनुज्ञायते । मयोभुवः । मीञ् हिंसायां । हिनस्ति दुःखमिति सुखं मयः । तद्भावयन्तीति मयोभुवः । अन्तर्भावितण्यर्थाद्भुवः क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं । बर्हिः । बृंहेर्नलोपश्चेति इसिप्रत्ययः । प्रत्ययस्वरः । सीदन्तु । षद्लृ विशरणादौ । पाघ्रेत्यादिना सीदादेशः । अस्रिधः । स्रिधेर्हिंसार्थस्य शोषणार्थस्य वा सम्पदादिभ्यो भावे क्विपि नञा बहुव्रीहिः । पूर्वपदप्रकृतिस्वरं बाधित्वा नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं ॥
 >
-> *atra mahī-śabdo mahattva-guṇa-yuktāṃ bhāratīṃ vācaṣṭe | anyair hi āprī-sūkteṣu sad-vaiśvā iḷā sarasvatī bhāratīty āmnātatvāt | iḷādi-śabdābhidheyā vahni-mūrtayas tisro devīr dīpyamānā barhir vedyām āstīrṇaṃ sīdantu | prāpnuvantu | kīdṛśyaḥ | mayobhuvaḥ sukhotpādikā asridhaḥ śoṣaṇena kṣayena vā rahitāḥ || iḷā | īḍa stutau | chāndaso ḍasya ḷatvam | kvip | dhātu-svaraḥ | ṭāpaṃ cāpi halantānāṃ yathā vācā diśā niśeti ṭāp | sarasvatī | saro 'sy asunanto nittvād ādyudāttaḥ | tad asyāstīti matup | ādupadhatvād vattvam | tasau matvartha iti bhatvena padatvasya bādhitatvād rutvādy abhāvaḥ | ugitaś ceti ṅīp | matub-ṅīpau pittvād anudāttau | mahī | mahatī-śabde takāra-lopaś chāndasaḥ | yasyeti ca ity akāra-lopaḥ | udātta-nivṛtti-svareṇa ṅīpa udāttatvam | tisraḥ | tri-śabdāj jasi tricaturoḥ striyāṃ tisṛcatasṛ | pā. 7-2-99 | iti tisṛ-ādeśaḥ | aci ra ṛtaḥ | pā. 7-2-100 | iti rephādeśaḥ | tisṛbhyo jasaḥ | pā. 6-1-166 | iti jasa udāttatvam | devīḥ | devānāṃ patnyo devyaḥ puṃyogād ākhyāyām iti ṅīṣ | ... mayobhuvaḥ | mīñ hiṃsāyām | hinasti duḥkham iti sukhaṃ mayaḥ | tad bhāvayantīti mayobhuvaḥ | antarbhāvita-ṇyarthād bhaveḥ kvip | kṛd-uttara-pada-prakṛti-svaratvam | barhiḥ | bṛṃher nalopaś ceti si pratyayaḥ | pratyaya-svaraḥ | sīdantu | ṣadḷ viśaraṇādau | pāghretyādinā sīdādeśaḥ | asridhaḥ | sridher hiṃsārthasya śoṣaṇārthasya vā sampadādibhyo bhāve kvipi nañ | bahuvrīhiḥ | pūrvapada-prakṛti-svaraṃ bādhitvā nañsubhyām ity uttarapadāntodāttatvaṃ ||*
+> *atra mahīśabdo mahattvaguṇayuktāṃ bhāratīmācaṣṭe 'nyeṣvāprīsūkteṣu sadṛśeṣviḷā sarasvatī bhāratītyāmnātatvāt | iḷādiśabdābhidheyā vahnimūrtayastisro devīrdīpyamānā barhirvedyāmāstīrṇaṃ sīdantu | prāpnuvantu | kīdṛśyaḥ | mayobhuvaḥ sukhotpādikā asridhaḥ śoṣeṇa kṣayeṇa vā rahitāḥ || iḷā | īḍa stutau | chāndasaṃ hrasvatvaṃ | kvip | dhātusvaraḥ | ṭāpaṃ cāpi halantānāṃ yathā vācā diśā niśeti ṭāp | sarasvatī | saro 'sunanto nittvādādyudāttaḥ | tadasyāstīti matup | ādupadhatvādvatvaṃ | tasau matvartha iti bhatvena padatvasya bādhitatvādrutvādyabhāvaḥ | ugitaśceti ṅīp | matubṅīpau pittvādanudāttau | mahī | mahatīśabde takāralopaśchāndasaḥ | yasyeti cetyakāralopaḥ | udāttanivṛttisvareṇa ṅīpa udāttatvaṃ | tisraḥ | triśabdājjasi tricaturoḥ striyāṃ tisṛcatasṛ | pā. 7-2-99 | iti tisrādeśaḥ | aci ra ṛtaḥ | pā. 7-2-100 | iti rephādeśaḥ | tisṛbhyo jasaḥ | pā. 6-1-166 | iti jasa udāttatvaṃ | devīḥ | devānāṃ patnyo devyaḥ puṃyogādākhyāyāmiti ṅīṣ | yasyeti cetyakāra lopaḥ | pratyayasvareṇa ṅīṣa udāttatvaṃ | jasi dīrghājjasi ca | pā. 6-1-104 [?] | iti niṣiddhaṃ dīrghatvaṃ | vā chandasīti pakṣe 'bhyanujñāyate | mayobhuvaḥ | mīñ hiṃsāyāṃ | hinasti duḥkhamiti sukhaṃ mayaḥ | tadbhāvayantīti mayobhuvaḥ | antarbhāvitaṇyarthādbhuvaḥ kvip | kṛduttarapadaprakṛtisvaratvaṃ | barhiḥ | bṛṃhernalopaśceti isipratyayaḥ | pratyayasvaraḥ | sīdantu | ṣadlṛ viśaraṇādau | pāghretyādinā sīdādeśaḥ | asridhaḥ | sridherhiṃsārthasya śoṣaṇārthasya vā sampadādibhyo bhāve kvipi nañā bahuvrīhiḥ | pūrvapadaprakṛtisvaraṃ bādhitvā nañsubhyāmityuttarapadāntodāttatvaṃ ||*
 
-**Translation:** "Here the word *mahī* denotes *Bhāratī*, endowed with the quality of greatness; for in other Āpri-sūktas the triple *Iḷā, Sarasvatī, Bhāratī* is recited. The three shining Fire-forms denoted by the words *Iḷā* and the rest, *tisro devīḥ*, *sīdantu*: may sit, may take their seat, on the *barhis* spread on the altar. What are they like? *Mayobhuvaḥ* — producing happiness; *asridhaḥ* — free of drying up or of decay." *(Grammar noted briefly:* iḷā *from* īḍ *with the Vedic* ḷ *and* kvip*;* sarasvatī *from* saras *with* matup *and* ṅīp*;* mahī *with the Vedic loss of the* t *of* mahatī*;* tisraḥ *from* tri *with* tisṛ *(Pā. 7-2-99 [?]) and* r *for* ṛ *(Pā. 7-2-100 [?]), the ending udātta by Pā. 6-1-166 [?];* devīḥ *with* ṅīṣ*;* mayobhuvaḥ *— 'that which makes happiness be,' with* kvip *from* bhū *with the causative inside;* sīdantu *with* sīd *for* sad *(Pā. 7-3-78 [?]);* asridh *'without drying up' with* nañ.)* *(Some Sanskrit is compressed.)*
+**Translation:** "Here the word *mahī* denotes *Bhāratī*, endowed with the quality of greatness, since in other Āprī-sūktas, which are similar, *Iḷā, Sarasvatī, Bhāratī* are recited. The three shining goddesses, forms of Fire denoted by the words *Iḷā* and the rest, *sīdantu*: may sit, may reach, the *barhis* spread on the altar. What are they like? *Mayobhuvaḥ*: producing happiness; *asridhaḥ*: free of drying up or of decay." (Grammatical tail: *iḷā* from *īḍ* 'to praise', the shortening Vedic, *kvip*, *ṭāp* as in *vācā, diśā, niśā*; *sarasvatī* from *saras* (*asun*) with *matup* and *ṅīp*; *mahī* with the Vedic loss of the *t* of *mahatī*; *tisraḥ* with *tisṛ* (Pā. 7-2-99) and *r* (Pā. 7-2-100), the case ending udātta by Pā. 6-1-166; *devīḥ* with *ṅīṣ*, the lengthening barred by "6-1-104" [?] but allowed optionally in the Veda; *mayobhuvaḥ* 'causing happiness to be', from *bhū* with *kvip*; *barhiḥ* with the suffix *isi*; *sīdantu* with *sīd* for *sad*; *asridhaḥ*, a bahuvrīhi with *nañ*, final udātta.)
 
-### Pages 565–566 — Rik 9: word-meanings, overall sense, English, Special Topics
+### Page 565 — Rik 9: word-meanings, overall sense, English, Special Topics
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -11550,44 +11552,95 @@ May the three goddesses *Iḷā*, *Sarasvatī* and *Bhāratī* (*Mahī*) — who
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-On the subject of *tisro devīḥ*, Yāska says only "*tisro devīḥ | tisro devīs tisro devyaḥ ||*" (Nirukta 8-?? [?]), and, for an example, quotes the rik
+On *tisro devīḥ* Yāska says only
+
+> तिस्रो देवीः । तिस्रो देवीस्तिस्रो देव्यः ॥
+>
+> *tisro devīḥ | tisro devīstisro devyaḥ ||*
+
+and in the Ṛk he gives as an example,
 
 > आ नो यज्ञं भारती तूयमेत्विळा मनुष्वदिह चेतयन्ती ।
 > तिस्रो देवीर्बर्हिरेदं स्योनं सरस्वती स्वपसः सदन्तु ॥
-> *ā no yajñaṃ bhāratī tūyam etv iḷā manuṣvad iha cetayantī |*
-> *tisro devīr barhir edaṃ syonaṃ sarasvatī svapasaḥ sadantu ||*
-> (Ṛgveda Saṃhitā 10-110-8 [?]; printed "१०-११०-८")
-> *("May Bhāratī come quickly to our sacrifice, and Iḷā, awakening [us] here like Manu; may the three goddesses, with Sarasvatī, skilful workers, sit on this pleasant barhis." — my gloss, tentative.)*
+>
+> *ā no yajñaṃ bhāratī tūyametviḷā manuṣvadiha cetayantī |*
+> *tisro devīrbarhiredaṃ syonaṃ sarasvatī svapasaḥ sadantu ||*
 
-and explains: "*aitu no yajñaṃ bhāratī kṣipram | bharate ādityas tasya bhā | iḷā ca manuṣvad iha cetayamānā | tisro devyo barhir idaṃ sukhaṃ sarasvatī ca sarvāṇi āsīdantu*" (Nirukta 8-?? [?]), that is: "may Bhāratī, 'the light of Āditya, who bears [the world],' come quickly to our sacrifice; and Iḷā, awakening here like Manu; may the three goddesses, and Sarasvatī, sit on this pleasant *barhis*." *(The Kannada explanation of Yāska's gloss continues on p. 566, to be taken up with the next batch.)*
+*(Ṛ. Saṃ. 10-110-8.)* *("May Bhāratī come quickly to our sacrifice, and Iḷā, awakening [us] here like Manu; may the three goddesses, Sarasvatī and the skilful ones, sit on this pleasant barhis" — mine and tentative.)*
 
-### Pages 566–568 — Rik 9: Special Topics (continued) and grammar
+he explains:
 
-*(The Kannada explanation of Yāska's gloss on p. 566:)* **"Bhāratī"** — *bharata* is one of the twelve Ādityas; *bhā* means the lustre of the Āditya; hence *bhāratī* is the light of the sun, or the fire shining in the orb of the sun. **"Iḷā"** — *iḷā* means the earth. *Manuṣvat cetayantī* — having the power to urge as men do: she makes the people on earth take up food and other nourishment, and gives wealth; so the *iḷā*-deity is a special form of Agni who dwells in the earth-region. **"Sarasvatī"** — since she is the presiding deity of the lightning in the atmosphere, Sarasvatī is said to be the form of Agni who dwells in the atmosphere. Hence it is customary to say that the three goddesses *Iḷā, Sarasvatī, Bhāratī* are three forms of the fire that is in heaven, atmosphere and earth. *(The source refers the reader to its pages 64–69 [sic: "६४–६९ನೇ ಪೇಜು"] for further treatment.)*
+> ऐतु नो यज्ञं भारती क्षिप्रम् । भरत आदित्यस्तस्य भा इळा च मनुष्वदिह चेतयमाना तिस्रो देव्यो बर्हिरिदं सुखं सरस्वती च सकर्माण [?] आसीदन्तु ॥
+>
+> *aitu no yajñaṃ bhāratī kṣipram | bharata ādityastasya bhā iḷā ca manuṣvadiha cetayamānā tisro devyo barhiridaṃ sukhaṃ sarasvatī ca sakarmāṇa [?] āsīdantu ||*
 
-**"Mahī"** — the Bhāṣyakāra says: *mahī-śabdo mahattva-guṇa-yuktāṃ bhāratīṃ vācaṣṭe, anyair hi āprī-sūkteṣu sad-vaiśvā iḷā sarasvatī bhāratīty āmnātatvāt* [as in the bhāṣya above]: the word *mahī* in this rik means *bhāratī*, endowed with the quality of greatness; for in the Āpri-sūktas elsewhere the three are plainly named *Iḷā, Sarasvatī, Bhāratī*; here only two names are given and, in the place of the third, *mahī* — so one may easily infer that *mahī* denotes *Bhāratī*. Some Western scholars hold that *mahī* denotes a separate deity; that is not right; *mahī* was probably used in place of *bhāratī* for the convenience of the meter.
+That is:
 
-**"Barhiḥ sīdantu"** — *vedyām āstīrṇaṃ prāpnuvantu* — "let them reach the *darbha* spread out as a seat," i.e., let them sit on the seat made of *darbha*.
+### Page 566 — Rik 9: Special Topics (continued)
 
-**"Iḷā, sarasvatī, mahī"** — *īḍa stutau; saraḥ asyāstīti; mahī mahatī, takāra-lopaś chandasi* — since she is praised she is *iḷā*; since she has *saras* (water) she is *sarasvatī*; the *t* of *mahatī* falls away in the metre, so *mahī*: thus the sense of the parts is established.
+**Bhāratī**: *Bharata* is one of the twelve Ādityas; the lustre of the Āditya is called *bhā*. So *bhāratī* is the light of the sun, or the fire that is in the orb of the sun in the form of light.
 
-**"Devīḥ"** — *devānāṃ patnyo devyaḥ | tāḥ | athavā devīr dīpyamānāḥ*: "wives of the gods, or shining ones": they are *devīḥ* because they are wives of the gods or because they shine.
+**Iḷā**: *iḷā* is the earth. *Manuṣvat cetayantī*: having the power of urging, as men do; that is, since she gives food and other nourishment and wealth to the men on the earth, *Iḷā* is a particular form of the Agni that is in the earth-region.
 
-**"Mayobhuvaḥ"** — *mīñ hiṃsāyām; hinasti duḥkham iti sukhaṃ mayaḥ | tad bhāvayantīti mayobhuvaḥ*: *mī* is "to injure"; that which destroys sorrow is happiness (*mayas*); those who produce it are *mayobhuvaḥ*: "makers of happiness."
+**Sarasvatī**: since she is the presiding deity of the lightning in the atmosphere, *Sarasvatī* is said to be the form of Agni that is in the atmosphere.
 
-**"Asridhaḥ"** — *sridher hiṃsārthasya śoṣaṇārthasya vā bhāve kvip; śoṣeṇa kṣayeṇa vā rahitāḥ*: "without drying up, without decay" — those who have no *sridh*, i.e., not cruel, not given to harm; *asridhaḥ* — free of destruction.
+So it is the custom to call the three goddesses *Iḷā, Sarasvatī, Bhāratī* the three forms of the fire in heaven, atmosphere and earth. (See pages "74–75" [?].)
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 567–568, noted briefly)*
+**Mahī**:
 
-**इळा (*iḷā*)** — root *īḍa stutau*; the long *ī* is shortened by Vedic license; *kvip* ("kvip ca," Pā. 3-2-76 [?]), dropped; accent of the root; *ḍ* → *ḷ* in the Veda ("dvayor ḍalayor aikyam smaryate" [print compressed]); the feminine *ṭāp* after a consonant-ending stem ("ajādyataṣṭāp," Pā. 4-1-4 [?] with the statement *ṭāp ca api halantānām yathā vācā niśā diśā*). **सरस्वती (*sarasvatī*)** — root *sṛ gatau* with *asun* ("sarvadhātubhyo 'sun," Uṇ. 4-188 [?]); *guṇa*, *raparatva*: *saras*; initial-udātta, *nit*; "saras asyāsti": *matup* ("tad asyāsty asminn iti matup," Pā. 5-2-94 [?]); "mādupadhāyāś ca matorvo 'yavādibhyaḥ" (Pā. 8-2-9 [?]) turns the *m* of *matup* into *v* after a stem with *a* as the penultimate; "tasau matvarthe" (Pā. 1-4-19 [?]) gives *bha* status, blocking *pada*-status, so the *ru*-rule ("sasajuṣo ruḥ," Pā. 8-2-66 [?]) and the like do not apply; "ugitaś ca" (Pā. 4-1-6 [?]) gives *ṅīp*; both *matup* and *ṅīp* are *pit* and unaccented. **मही (*mahī*)** — the *t* of *mahatī* is dropped by Vedic license, and the *a* after *h* by "yasyeti ca" (Pā. 6-4-148 [?]); the *ī* is udātta by "anudāttasya ca yatrodāttalopaḥ" (Pā. 6-1-161 [?]). **तिस्रः (*tisraḥ*)** — "tricaturoḥ striyāṃ tisṛcatasṛ" (Pā. 7-2-99 [?]): *tisṛ* replaces *tri* in the feminine before a suffix beginning with a vowel [when the sense is feminine]; "tisṛ" + *jas*; "ṛto ṅisarvanāmasthānayoḥ" (Pā. 7-3-110 [?]) would give *guṇa*, barred by "aci ra ṛtaḥ" (Pā. 7-2-100 [?]) which gives *r* before a vowel-initial ending; *ru*, visarga: *tisraḥ*; "tisṛbhyo jasaḥ" (Pā. 6-1-166 [?]): *jas* after *tisṛ* is udātta. **देवीः (*devīḥ*)** — "devānāṃ patnyaḥ": the feminine of a word formed on the husband's name, "puṃyogād ākhyāyām" (Pā. 4-1-48 [?]): *ṅīṣ*; the *a* dropped; *jas*; the *pūrvasavarṇa* lengthening optional by "vā chandasi" (Pā. 6-1-106 [?]). **मयोभुवः (*mayobhuvaḥ*)** — "mīñ hiṃsāyām" (*kryādi*): *mi* + *asun* ("sarvadhātubhyo 'sun," Uṇ. 4-188 [?]); *guṇa*, *ay*: *mayas*; *mayas* means "happiness"; "mayo bhāvayanti" — root *bhū* with the causative sense inside, *kvip* ("kvip ca," Pā. 3-2-76 [?]); "aci śnudhātubhruvāṃ yvoriyaṅuvaṅau" (Pā. 6-4-77 [?]) gives *uv*; *mayas* + *bhū*: *ru*, *u* and *guṇa* (Pā. 6-1-113 [?]); "gatikārakopapadāt kṛt" (Pā. 6-2-139 [?]) gives the accent of the *kṛdanta* second member, final-udātta: *mayobhūḥ*; nominative plural *mayobhuvaḥ*. *(Sūtra numbers read from small print; pointers only.)*
+> महीशब्दो महत्त्वगुणयुक्तां भारतीमाचष्टे ऽन्येष्वाप्रीसूक्तेषु सदृशेष्विळा सरस्वती भारतीत्याम्नातत्वात् ॥
+>
+> *mahīśabdo mahattvaguṇayuktāṃ bhāratīmācaṣṭe 'nyeṣvāprīsūkteṣu sadṛśeṣviḷā sarasvatī bhāratītyāmnātatvāt ||*
 
-**॥९॥**
+That is, the word *mahī* in this Ṛk means *Bhāratī*, endowed with the quality of greatness. For in the Āprī-sūktas, in the Ṛks that speak of *tisro devīḥ*, the names of the three goddesses *Iḷā, Sarasvatī, Bhāratī* are stated plainly. In this Ṛk only the two names *Iḷā* and *Sarasvatī* are given, and in the place of the other *mahī* is said, so there is no doubt that the word *mahī* points to the name *Bhāratī*. Some Western scholars think that the word *mahī* denotes a separate deity named *Mahī*. That is not right. The word *mahī* may have been used in place of the word *bhāratī* for the sake of the metre.
 
-### Page 569 — Rik 9 grammar closes; Sūkta 13, Rik 10
+**Barhiḥ sīdantu**: *वेद्यामास्तीर्णं प्राप्नुवन्तु* (*vedyāmāstīrṇaṃ prāpnuvantu*, "may they reach what is spread on the altar"): may they reach the *darbha* spread as a seat, that is, may they sit on the seat of *darbha*: that is the sense.
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+**Iḷā, sarasvatī, mahī**:
 
-**बर्हिः (*barhiḥ*)** — root *bṛha bṛhi vṛddhau*, *idit*, so *num* ("idito num dhātoḥ," Pā. 7-1-58 [?]); "bṛṃher nalopaś ca" (Uṇ. 3-146 [?]) gives *isi* and loss of the *n*; *laghūpadha-guṇa*; the suffix accent, final-udātta. **सीदन्तु (*sīdantu*)** — root *ṣadḷ viśaraṇagatyavasādaneṣu*; *ṣ* → *s* ("dhātvādeḥ ṣaḥ saḥ," Pā. 6-1-64 [?]); *loṭ* third plural *jhi* → *jh* → *ant* ("jho 'ntaḥ," Pā. 7-1-3 [?]); *u* for *i* of *loṭ* ("eruḥ," Pā. 3-4-86 [?]); *śap*; *sad* + *a* + *antu*: "pāghrādhmā…" (Pā. 7-3-78 [?]) gives *sīda*; *sīdantu*; wholly unaccented ("tiṅ atiṅaḥ," Pā. 8-1-28 [?]). **अस्रिधः (*asridhaḥ*)** — root *sridh* in the sense of harm or drying up; *kvip* in the action sense by "sampadādibhyaḥ kvip" (Pā. 3-3-108 *vārttika* [?]); "na vidyate sridh yāsāṃ tāḥ asridhaḥ": a bahuvrīhi with *nañ*; the first member's accent would stand ("bahuvrīhau prakṛtyā pūrvapadam," Pā. 6-2-1 [?]), overridden by "nañsubhyām" (Pā. 6-2-172 [?]), which gives final-udātta to the member after *nañ*. *(Sūtra numbers read from small print; pointers only.)*
+> ईड स्तुतौ । सर अस्यास्तीति । मही महती, तकारलोपश्छान्दसः ॥
+>
+> *īḍa stutau | sara asyāstīti | mahī mahatī, takāralopaśchāndasaḥ ||*
+
+Since she is praised she is *iḍā*; since she has *saras* (water) she is *sarasvatī*; and since the *t* of the word *mahatī* has dropped for the sake of the metre, she is *mahī*, endowed with greatness (*Bhāratī*): this is the derivation of the parts of these words.
+
+### Page 567 — Rik 9: Special Topics (end) and grammar
+
+**Devīḥ**:
+
+> देवानां पत्न्यो देव्यः । ताः । अथवा देवीः दीप्यमानाः ॥
+>
+> *devānāṃ patnyo devyaḥ | tāḥ | athavā devīḥ dīpyamānāḥ ||*
+
+Since they are the wives of the gods, or since they shine, these deities are called *devīḥ*.
+
+**Mayobhuvaḥ**:
+
+> मीञ् हिंसायाम् । हिनस्ति दुःखमिति सुखं मयः । तद्भावयन्तीति मयोभुवः ।
+>
+> *mīñ hiṃsāyām | hinasti duḥkhamiti sukhaṃ mayaḥ | tadbhāvayantīti mayobhuvaḥ |*
+
+The root *mīñ* means to harm; to make sorrow. What is free of sorrow is happiness. Since they make happiness, the form *mayobhuvaḥ* is derived.
+
+**Asridhaḥ**:
+
+> स्रिधेर्हिंसार्थस्य शोषणार्थस्य वा भावे क्विप् । शोषेण क्षयेण वा रहिताः ॥
+>
+> *sridherhiṃsārthasya śoṣaṇārthasya vā bhāve kvip | śoṣeṇa kṣayeṇa vā rahitāḥ ||*
+
+The root *sridh* means to harm, to dry up. *Asridhaḥ* means those who are not cruel, free of drying up, free of decay.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 567–569, noted briefly)*
+
+**इळा (*iḷā*)**: root *īḍa stutau*, the *ī* shortened in the Veda; *kvip* by "kvip ca" (Pā. sū. 3-2-76), dropped; final udātta by "dhātoḥ" (Pā. sū. 6-1-162); *ḍ* → *ḷ* by "dvayoś cāsya svarayoḥ" (Prātiśākhya); the verse "vaṣṭi bhāgurir allopam avāpyor upasargayoḥ | āpaṃ caiva halantānāṃ yathā vācā niśā diśā" (Kau. "2-4-82" [?]): Bhāguri drops the *a* of *ava* and *api* (*vagāhaḥ*, *pidhānam*) and adds *āp* after consonant stems, so *iḷ* + *ṭāp* gives *iḷā*. **सरस्वती (*sarasvatī*)**: *sṛ* + *asun* by "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]), *guṇa*, *raparatva*: *saras*, initial udātta (*nit*); *matup* by "tad asyāsty asminn iti matup" (Pā. sū. 5-2-94); *m* → *v* by "mādupadhāyāś ca" (Pā. sū. 8-2-9); *bha* by "tasau matvarthe" (Pā. sū. 1-4-19), so "sasajuṣo ruḥ" (Pā. sū. 8-2-66) does not apply; *ṅīp* by "ugitaś ca" (Pā. sū. "6-3-45" [?]); *matup* and *ṅīp* both unaccented.
+
+### Page 568 — Rik 9: grammar (continued)
+
+**मही (*mahī*)**: the *t* of *mahatī* dropped in the Veda, the *a* after *h* dropped by "yasyeti ca" (Pā. sū. 6-4-148); the *ī* udātta by "anudāttasya ca yatrodāttalopaḥ" (Pā. sū. 6-1-161). **तिस्रः (*tisraḥ*)**: *tri* + *jas*; *tisṛ* by "tricaturoḥ striyāṃ tisṛcatasṛ" (Pā. sū. 7-2-99); the *guṇa* of "ṛto ṅisarvanāmasthānayoḥ" (Pā. sū. 6-3-110 [as printed]) is set aside by "aci ra ṛtaḥ" (Pā. sū. 7-2-100), giving *r*; *ru*, visarga; *jas* unaccented by "anudāttau suppitau", *tisṛ* final udātta like *tri* (*sthānivadbhāva*); the svarita of "udāttasvaritayor yaṇaḥ svarito 'nudāttasya" is overridden by "tisṛbhyo jasaḥ" (Pā. sū. "7-1-166" [?]), making *jas* udātta. **देवीः (*devīḥ*)**: *deva* (*ac*-ending); *ṅīṣ* by "puṃyogād ākhyāyām" (Pā. sū. 4-1-48); *a* dropped by "yasyeti ca" (6-4-148); *ṅīṣ* udātta; the *pūrvasavarṇa* lengthening of "prathamayoḥ pūrvasavarṇaḥ" (Pā. sū. 6-1-102) is barred by "dīrghāj jasi ca" (Pā. sū. "6-?-104" [?]) but allowed optionally by "vā chandasi" (Pā. sū. 6-1-106); *ru*, visarga. **मयोभुवः (*mayobhuvaḥ*)**: *mīñ hiṃsāyām* (*kryādi*), "mināti hinasti duḥkham" (that which drives sorrow away); *asun* by "sarvadhātubhyo 'sun" (Uṇ. sū. "4-628" [?]), *guṇa*, *ay*: *mayas* "happiness"; "mayaḥ bhāvayanti": *bhū* with the inner causative + *kvip* by "kvip ca" (Pā. sū. 3-2-76); *uvaṅ* by "aci śnu…" (Pā. sū. 6-4-77); *ru*, *u*, *guṇa*; final udātta of the *kṛt* member by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139).
+
+### Page 569 — Rik 9: grammar (end)
+
+**बर्हिः (*barhiḥ*)**: *bṛhi vṛddhau*, *idit*, so *num*; *isi* and loss of *n* by "bṛṃher nalopaś ca" (Uṇ. sū. "2-266" [?]); *laghūpadha-guṇa*; final udātta by the suffix accent. **सीदन्तु (*sīdantu*)**: *ṣadḷ viśaraṇagatyavasādaneṣu*, *ṣ* → *s* by "dhātvādeḥ ṣaḥ saḥ"; *loṭ* 3rd plural *jhi*, *jh* → *ant* by "jho 'ntaḥ" (Pā. sū. 7-1-3); *u* by "eruḥ" (Pā. sū. 3-4-86); *śap*; *sīda* by "pāghrādhmā…" (Pā. sū. 7-3-78); wholly unaccented by "tiṅṅatiṅaḥ". **अस्रिधः (*asridhaḥ*)**: *sridh* (harm or drying up) + *kvip* by "sampadādibhyaḥ kvip" (Pā. sū. vā. "0-3-108-9" [?]); "na vidyate sridh yāsāṃ tāḥ": bahuvrīhi; the first-member accent of "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) is overridden by "nañsubhyām" (Pā. sū. 6-2-172), final udātta on the second member.
 
 **॥९॥**
 
@@ -11595,13 +11648,15 @@ and explains: "*aitu no yajñaṃ bhāratī kṣipram | bharate ādityas tasya b
 
 ### Page 569 — Sūkta 13, Rik 10
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इह त्वष्टारमग्रियं विश्वरूपमुप ह्वये ।
-> अस्माकमस्तु केवलः ॥१०॥
+> इ॒ह त्वष्टा॑रमग्रि॒यं वि॒श्वरू॑प॒मुप॑ ह्वये ।
+> अ॒स्माक॑मस्तु॒ केव॑लः ॥१०॥
 >
-> *iha tvaṣṭāram agriyaṃ viśvarūpam upa hvaye |*
-> *asmākam astu kevalaḥ ||10||*
+> *ihá tváṣṭāram agriyáṃ viśvárūpam úpa hvaye |*
+> *asmā́kam astu kévalaḥ ||10||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
