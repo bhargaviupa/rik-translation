@@ -12808,15 +12808,21 @@ Woken at dawn.
 
 ---
 
-### Pages 616–620 — Sūkta 14, Rik 10
+### Page 616 (lower) — Sūkta 14, Rik 10
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> विश्वेभिः सोम्यं मध्वग्न इन्द्रेण वायुना ।
-> पिबा मित्रस्य धामभिः ॥१०॥
+> विश्वे॑भिः सो॒म्यं मध्वग्न॒ इन्द्रे॑ण वा॒युना॑ ।
+> पिबा॑ मि॒त्रस्य धाम॑भिः ॥१०॥ [accent ?]
 >
-> *viśvebhiḥ somyaṃ madhv agna indreṇa vāyunā |*
-> *pibā mitrasya dhāmabhiḥ ||10||*
+> *víśvebhiḥ somyáṃ madhv agna índreṇa vāyúnā |*
+> *píbā mitrásya dhā́mabhiḥ ||10||* [accent ?]
+
+*(Line 2: the strokes over बा and over म of धामभिः are clear; the foot of the line, with any bars, is cut at the page end; the bar under मि is read from the Pada.)*
+
+### Page 617 — Rik 10: Pada, bhāṣya, word-meanings, overall sense
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -12824,39 +12830,63 @@ Woken at dawn.
 > पिब । मित्रस्य । धामऽभिः ॥१०॥
 >
 > *viśvebhiḥ | somyam | madhu | agne | indreṇa | vāyunā ||*
-> *piba | mitrasya | dhāma-bhiḥ ||10||*
+> *piba | mitrasya | dhāma 'bhiḥ ||10||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* pibā*, the Pada the short* piba*.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 617; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने त्वं विश्वेभिः सर्वैः पूषभगादिभिर्देवैरिन्द्रेण वायुना मित्रस्य सम्बन्धिभिर्धामभिस्तेजोभिर्मूर्तिविशेषरूपैश्च सह सोम्यं सोमसम्बन्धि मधु मधुरं भागं पिब । विश्वेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । सोम्यं । सोममर्हति यः । इत्यनुवृत्तौ मये च । पा. ४-४-१३८ । इति यप्रत्ययः सोमस्य विकार इत्यर्थे । यस्येति चेत्यकारलोपः । प्रत्ययस्वरः । फलिपाटिनमिमनीत्यादिना । उ. १-[?] । उप्रत्ययः । निदित्यनुवृत्तेर्णित्त्वाद्याद्युदात्तः [?] । वायुना । कृवापाजीत्यादिना उण् । आतो युक् चिण्कृतोः । पा. ७-३-३३ । इति युक् । प्रत्ययस्वरः । पिब । पा पाने । लोटः सेर्हिरादेशः । शपि पाघ्रेत्यादिना पिबादेशः । अतो हेरिति हेर्लुक् । कपः पित्त्वादधातुस्वरः । पादादित्वान्न निघातः । द्व्यचोऽतस्तिङः इति संहितायां दीर्घः । धामभिः । धाञ् । आतो मनिन्निति मनिन् । नित्स्वरः ॥१०॥
+> हे अग्ने त्वं विश्वेभिः सर्वैः पूषभगादिभिर्देवैरिन्द्रेण वायुना मित्रस्य सम्बन्धिभिर्धामभिस्तेजोभिर्मूर्तिविशेषरूपैश्च सह सोम्यं सोमसम्बन्धि मधु मधुरं भागं पिब ॥ विश्वेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । सोम्यं । सोममर्हति य इत्यनुवृत्तौ मये च । पा. ४-४-१३८ । इति यप्रत्ययः सोमस्य विकार इत्यर्थे । यस्येति चेत्यकारलोपः । प्रत्ययस्वरः । मधु । फलिपाटिनमिमनीत्यादिना । उ. १-१९ । उप्रत्ययः । नित्यनुवृत्तेर्नित्त्वादाद्युदात्तः । वायुना । कृवापाजीत्यादिना उण् । आतो युक् चिण्कृतोः । पा. ७-३-३३ । इति युक् । प्रत्ययस्वरः । पिब । पा पाने । लोटः सेर्हिरादेशः । शपि पाघ्रेत्यादिना पिबादेशः । अतो हेरिति हेर्लुक् । शपः पित्त्वाद्धातुस्वरः । पादादित्वान्न निघातः । द्व्यचो ऽतस्तिङ इति संहितायां दीर्घः । धामभिः । धाञ् । आतो मनिन्निति मनिन् । नित्स्वरः ॥
 >
-> *he agne tvaṃ viśvebhiḥ sarvaiḥ pūṣa-bhagādibhir devair indreṇa vāyunā mitrasya sambandhibhir dhāmabhis tejobhir mūrti-viśeṣa-rūpaiś ca saha somyaṃ soma-sambandhi madhu madhuraṃ bhāgaṃ piba | viśvebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | somyaṃ | somam arhati yaḥ | ity anuvṛttau maye ca | pā. 4-4-138 | iti ya-pratyayaḥ somasya vikāra ity arthe | yasyeti cety akāra-lopaḥ | pratyaya-svaraḥ | phali-pāṭi-nami-manīty-ādinā | u. 1-[?] | u-pratyayaḥ | nid ity anuvṛtter ṇittvād ādyudāttaḥ [?] | vāyunā | kṛvā-pāji-ty-ādinā uṇ | āto yuk ciṇ-kṛtoḥ | pā. 7-3-33 | iti yuk | pratyaya-svaraḥ | piba | pā pāne | loṭaḥ ser hir ādeśaḥ | śapi pā-ghrety-ādinā pibādeśaḥ | ato heḥ iti her luk | kapaḥ pittvād adhātu-svaraḥ | pādāditvān na nighātaḥ | dvyaco 'tastiṅaḥ iti saṃhitāyāṃ dīrghaḥ | dhāmabhiḥ | dhāñ | āto maninn iti manin | nit-svaraḥ ||10||*
+> *he agne tvaṃ viśvebhiḥ sarvaiḥ pūṣabhagādibhirdevairindreṇa vāyunā mitrasya sambandhibhirdhāmabhistejobhirmūrtiviśeṣarūpaiśca saha somyaṃ somasambandhi madhu madhuraṃ bhāgaṃ piba || viśvebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | somyaṃ | somamarhati ya ityanuvṛttau maye ca | pā. 4-4-138 | iti yapratyayaḥ somasya vikāra ityarthe | yasyeti cetyakāralopaḥ | pratyayasvaraḥ | madhu | phalipāṭinamimanītyādinā | u. 1-19 | upratyayaḥ | nityanuvṛtternittvādādyudāttaḥ | vāyunā | kṛvāpājītyādinā uṇ | āto yuk ciṇkṛtoḥ | pā. 7-3-33 | iti yuk | pratyayasvaraḥ | piba | pā pāne | loṭaḥ serhirādeśaḥ | śapi pāghretyādinā pibādeśaḥ | ato heriti herluk | śapaḥ pittvāddhātusvaraḥ | pādāditvānna nighātaḥ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | dhāmabhiḥ | dhāñ | āto maninniti manin | nitsvaraḥ ||*
 
-**Translation:** "O Agni! Together with all the gods — Pūṣan, Bhaga and the rest — with Indra, with Vāyu, and with Mitra's *dhāmas* (his radiances and special forms), drink the *somya* — belonging to the soma — *madhu*, the sweet portion. *Viśvebhiḥ* — *bhis* does not become *ais* [by 'variously in the Veda']. *Somyam* — the suffix *ya* by P. 4-4-138 in the sense 'the product of soma' [the standard rule]. *Vāyunā* — from *vā*, the suffix *uṇ*; *yuk* augment by P. 7-3-33 [the standard numbering]. *Piba* — from *pā* "to drink", *loṭ*, *hi* in place of *si*, *piba* by P. 7-3-78 *pāghrādhmā…* [read from the print as *pāghrā…*], the *luk* of *hi* by *ato heḥ*; unaccented... lengthened in the Saṃhitā by P. 6-3-135 *dvyaco 'tastiṅaḥ* [as printed]. *Dhāmabhiḥ* — from *dhā*, *manin* by *āto maniṇ…*." *(Grammar, noted briefly.)*
+**Translation:** "O Agni, together with *viśvebhiḥ*, all the gods, Pūṣan, Bhaga and the rest, with Indra, with Vāyu, and with the *dhāmans* belonging to Mitra, his radiances and particular forms, drink the *somya madhu*, the sweet share belonging to the soma." (Grammatical tail: *viśvebhiḥ* without *ais*; *somyam* with *ya* by Pā. 4-4-138 in the sense "product of soma", the *a* dropped, the suffix accent; *madhu* with *u* (Uṇ. 1-19), initial udātta; *vāyunā* with *uṇ* and *yuk* (Pā. 7-3-33); *piba*, *pib* for *pā*, *hi* dropped, the root accent, not lowered at the head of the pāda, lengthened in the Saṃhitā by *dvyaco 'tas tiṅaḥ*; *dhāmabhiḥ*, *dhā* with *manin*, the *nit* accent.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 617)*
+**॥ Prati-padārthaḥ ॥**
 
-**अग्ने (agne)** — O Agni | **विश्वेभिः (viśvebhiḥ)** — with all the gods, Pūṣan, Bhaga and the rest | **इन्द्रेण (indreṇa)** — with Indra | **वायुना (vāyunā)** — with Vāyu | **मित्रस्य धामभिः (mitrasya dhāmabhiḥ)** — with the special forms (*mūrti-viśeṣa-rūpa*) and radiances of Mitra | **सह (saha)** — together | **सोम्यं मधु (somyaṃ madhu)** — the sweet soma-juice | **पिब (piba)** — drink.
+**अग्ने (agne)** — O Agni | **विश्वेभिः (viśvebhiḥ)** — with all the gods, Pūṣan, Bhaga and the rest | **इन्द्रेण (indreṇa)** — with Indra | **वायुना (vāyunā)** — with Vāyu | **मित्रस्य धामभिः (mitrasya dhāmabhiḥ)** — with Mitra's particular forms and radiances, together | **सोम्यं मधु (somyaṃ madhu)** — the sweet soma juice | **पिब (piba)** — drink.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, drink the sweet soma-juice together with Indra, with Vāyu, with the other gods such as Pūṣan and Bhaga, and with the special forms of Mitra, that are in the nature of radiance.
+O Agni, drink the sweet soma juice together with Indra, with Vāyu, with all the other gods, Pūṣan, Bhaga and the rest, and with the particular forms of Mitra, which are in the form of radiance.
+
+### Page 618 — Rik 10: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Agni, drink this sweet soma juice with the Visve devas, Indra, Vayu, and the various forms of Mitra.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 618)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-This rik is used in the *Agniṣṭoma* [?] sacrifice as the *yājyā* mantra in the recitation of the *praüga-śastra*. The Āśvalāyana Śrauta-sūtra, in the section beginning *stotram agre śastrāt* [as read], directs that the rik *viśvebhiḥ somyaṃ madhu* be used as the *yājyā* mantra (Āś. 5-[?]; the print gives "(ಆ. ೫-೧೮)", which I read as 5-18 [?]).
+This Ṛk is used in the Agniṣṭoma sacrifice as the *yājyā* mantra of the recitation of the *praüga-śastra*. In the Āśvalāyana Śrauta-sūtra, in the section *stotram agre śastrāt*, it is said that the Ṛk *viśvebhiḥ somyaṃ madhu* is to be used as the *yājyā* mantra (Ā. 5-10).
 
-**पिब (piba)** — in the Saṃhitā text the final syllable is lengthened, to suit the metre.
+**Piba**: in the Saṃhitā the final syllable is long, to suit the metre.
 
-**मित्रस्य धामभिः (mitrasya dhāmabhiḥ)** — *mitrasya sambandhibhir dhāmabhis tejo-mūrti-viśeṣa-rūpaiś ca*: "with the various forms of Mitra" (the print gives this English gloss in Latin letters: "with various forms of Mitra"). *Dhāmabhiḥ*: "with radiances, or with forms of light" — "Rays" [the print's English word]. Which the forms of Mitra are, the Kannada says, is not clear.
+**Mitrasya dhāmabhiḥ**:
 
-**Grammar pages (pp. 618–620), noted briefly.** The Kannada Vyākaraṇa-prakriyā takes up *viśvebhiḥ* (P. 7-1-10 *bahulaṃ chandasi*; the blocking of *ais* under P. 7-1-9), *somyam* (P. 4-4-137 *somaṃ arhati yaḥ* and 4-4-138 *mayaḍ ca*; the *ya* suffix in the sense of "product of soma", *taddhita*, *sup* *luk*, loss of *a* by P. 6-4-148 *yasyeti ca*), *madhu* (the Uṇādi *u* suffix, Uṇ. 1-[?] *phalipāṭinamijanimanīti*; *nit*, first-syllable accent), *vāyunā* (the Uṇādi *uṇ* in *kṛvāpājimisvadisādhyaśūbhya uṇ*, Uṇ. 1-1; the *yuk* augment of P. 7-3-33 *āto yuk ciṇkṛtoḥ*). *(The page runs on to p. 620 in the same vein; I give only the words treated and the sūtras I could read.)*
+> मित्रस्य सम्बन्धिभिर्धामभिस्तेजोमूर्तिविशेषरूपैश्च
+>
+> *mitrasya sambandhibhirdhāmabhistejomūrtiviśeṣarūpaiśca*
+
+with Mitra's forms of radiance, "with various forms of Mitra". *Dhāmabhiḥ* means with radiances or forms of radiance, "Rays". Which the radiant forms of Mitra are here is not clear.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 618–619, noted briefly)*
+
+**विश्वेभिः (*viśvebhiḥ*)**: by "bahulaṃ chandasi" (Pā. sū. 7-1-10) the *ais* that "ato bhisa ais" (Pā. sū. 7-1-9) would give for *bhis* does not come.
+
+**सोम्यम् (*somyam*)**: with *somam* and *yaḥ* carried on from "somam arhati yaḥ" (Pā. sū. 4-4-137), "maye ca" (Pā. sū. 4-4-138): after *soma* in the fitting case, in the senses of *mayaṭ* (come from, product, part, statement of plenty), the suffix *ya*. In the sense "come from" the fitting case is the fifth; in product and part the sixth; in the statement of plenty the first. Here, meant as *somasya vikāraḥ*, *ya* after the genitive in the sense of product; ending in a *taddhita*, a *prātipadika*; the ending dropped: *soma* + *ya*; the *a* dropped by "yasyeti ca" (Pā. sū. 6-4-148); the suffix accent; accusative singular *somyam*.
+
+**मधु (*madhu*)**: the suffix *u* by "phalipāṭinamimani…" (Uṇ. sū. "1-18" [as printed; the bhāṣya gives 1-19]); *nit* is carried on, so the suffix is *nit*, and the *nit* accent comes. **वायुना (*vāyunā*)**: *uṇ* after *vā* by "kṛvāpāji…" (Uṇ. sū. 1-1); "āto yuk ciṇkṛtoḥ"
+
+### Page 619 — Rik 10: grammar (end)
+
+(Pā. sū. 7-3-33): before *ciṇ* and a *kṛt* suffix with *ñ*/*ṇ*, an *ā*-final root takes the augment *yuk*; *yuk*, being *kit*, comes at the end; the suffix accent.
+
+**पिब (*piba*)**: *pā pāne*, *loṭ*, 2nd singular *sip*; *hi* for *si* by "ser hy apic ca" (Pā. sū. 3-4-87); the *vikaraṇa* *śap* by "kartari śap" (Pā. sū. 3-1-68); *pib* for *pā* by "pāghrādhmā…" (Pā. sū. 7-3-78); *hi* dropped by "ato heḥ" (Pā. sū. 6-4-105); *śap* is *pit*, so the root accent remains. At the head of the pāda, "tiṅṅatiṅaḥ" (Pā. sū. 8-1-28) does not lower it. "dvyaco 'tas tiṅaḥ" (Pā. sū. 6-3-135): in the mantra the final *a* of a two-vowel *tiṅanta* is lengthened, so in the Saṃhitā the *a* of *piba* becomes long.
+
+**धामभिः (*dhāmabhiḥ*)**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; "āto manin kvanib vanipaś ca" (Pā. sū. 3-2-74) gives the suffix *manin*; being *nit*, *dhāman* is initial udātta by the *nit* accent.
+
+**॥१०॥**
+
+---
 
 ### Pages 619–622 — Sūkta 14, Rik 11
 

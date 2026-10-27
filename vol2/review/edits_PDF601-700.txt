@@ -35,3 +35,7 @@ PDF 627 (p. 613): Rk 14.9 Samhita accents as printed (line 2 [accent ?]); page h
 PDF 628 (p. 614): Pada; bhasya re-transcribed in full (3-1-114, 3-2-149); Prati/Bhāvārtha/English from print.
 PDF 629 (p. 615): Special Topics (Ni. 3-13 confirmed, was "3-[?]"); grammar: 3-1-114, 8-2-77, 3-2-149, 7-1-1, 6-1-163, Un. 1-149, 3-2-76.
 PDF 630 (p. 616): grammar end: Un. 2-186, 3-2-135, 6-1-32, 6-1-34, 6-1-108, 7-3-84, 5-3-11, 1-2-46, 2-4-71, 5-3-3, 1-1-55, 3-4-7, 3-1-34, 8-2-31, 8-2-41, 8-3-59.
+PDF 630 (p. 616): Rk 14.10 Samhita accents as printed (line 2 [accent ?]); page heading 616 (lower).
+PDF 631 (p. 617): Pada; bhasya re-transcribed in full (4-4-138, Un. 1-19, 7-3-33); Prati/Bhāvārtha from print.
+PDF 632 (p. 618): English; Special Topics (Āśv. 5-10; "Agniṣṭoma [?]" resolved); grammar 7-1-10, 7-1-9, 4-4-137, 4-4-138, 6-4-148, Un. "1-18" (as printed; bhāṣya 1-19), Un. 1-1.
+PDF 633 (p. 619): grammar end: 7-3-33, 3-4-87, 3-1-68, 7-3-78, 6-4-105, 8-1-28, 6-3-135, 3-2-74.
