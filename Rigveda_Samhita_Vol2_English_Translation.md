@@ -27,7 +27,7 @@
 
 ## Table of Contents (Vishayanukramanike) — Roadmap for This Volume
 
-**Sukta 3** — *"Aśvinā yajña-vīriṇaḥ"* (the Ashvins): Anuvaka-numbering in Mandala 1; the three ordering-schemes of Vedic arrangement (by rishi, by deity, by meter); Mandala divisions; the three Savanas explained; the sukta's application; rishi/deity/meter; **a detailed introduction to the Ashvin twins** (pp. 11–33); the etymology and meaning of "Indra" (p. 33); a detailed introduction to the Vishvedevas (p. 49); the legend of Agni hiding in the water, with the ancient narrative as found in the Rigveda and Yajurveda (p. 60); a detailed introduction to the goddess Sarasvati, including the etymology of her name (p. 68); and an explanation of the Apri-suktas (p. 73).
+**Sukta 3** — *"Aśvinā yajvarīr iṣaḥ"* (the Ashvins): Anuvaka-numbering in Mandala 1; the three ordering-schemes of Vedic arrangement (by rishi, by deity, by meter); Mandala divisions; the three Savanas explained; the sukta's application; rishi/deity/meter; **a detailed introduction to the Ashvin twins** (pp. 11–33); the etymology and meaning of "Indra" (p. 33); a detailed introduction to the Vishvedevas (p. 49); the legend of Agni hiding in the water, with the ancient narrative as found in the Rigveda and Yajurveda (p. 60); a detailed introduction to the goddess Sarasvati, including the etymology of her name (p. 68); and an explanation of the Apri-suktas (p. 73).
 
 **Sukta 4** — *"su-rūpa-kṛtnum"*: application; rishi/deity/meter (p. 87); the story of Vritrasura (p. 123).
 
@@ -77,7 +77,7 @@
 
 **॥ Sāyaṇa-bhāṣya-sahitā Ṛgveda Saṃhitā — Bhāga 2 ॥**
 
-**Having begun to set down the first of the four Vedas — the Rigveda, which takes the very form of the Supreme Lord's own breath — together with Sayana's commentary, Kannada translation and explanation, and much other useful material, we explained at length, in the first part, the Rigveda's Purva-pithika (preliminary introduction), Sayana's Bhashya-Bhumika, and, within the Samhita-portion's first Mandala, the meaning-translation of the first two suktas, "Agnim īḷe purohitam" and "Vāyav ā yāhi darśata." We now begin, in this second part, the meaning-translation of the third sukta, "Aśvinā yajña-vīriṇiṣaḥ."**
+**Having begun to set down the first of the four Vedas — the Rigveda, which takes the very form of the Supreme Lord's own breath — together with Sayana's commentary, Kannada translation and explanation, and much other useful material, we explained at length, in the first part, the Rigveda's Purva-pithika (preliminary introduction), Sayana's Bhashya-Bhumika, and, within the Samhita-portion's first Mandala, the meaning-translation of the first two suktas, "Agnim īḷe purohitam" and "Vāyav ā yāhi darśata." We now begin, in this second part, the meaning-translation of the third sukta, "Aśvinā yajvarīr iṣaḥ."**
 
 **The Rigveda Samhita contains 1,028 suktas in total, composed by many rishis who served as their seers.** This Samhita, comprising these 1,028 suktas, is divided into ten Mandalas; each Mandala is further divided into several Anuvakas; each Anuvaka...
 
@@ -107,13 +107,13 @@
 | 18 | 121–126 | 6 | 70 |
 | 19 | 127–133 | 7 | 60 |
 | 20 | 134–139 | 6 | 40 |
-| 21 | 140–151 [?] | 12 | 91 [?] |
-| 22 | 152–158 [?] | 7 | 40 [?] |
-| 23 | 159–173 [?] | 15 | 197 [?] |
-| 24 | 174–191 [?] | 18 | 153 [?] |
+| 21 | 140–156 | 17 | 119 |
+| 22 | 157–164 | 8 | 123 |
+| 23 | 165–179 | 15 | 124 |
+| 24 | 180–191 | 12 | 115 |
 | **Total** | **1–191** | **191** | **2006** |
 
-*(Table of the 24 Anuvākas of Maṇḍala 1, as printed on p. 2 in four columns: Anuvāka number, range of sūktas, number of sūktas, number of ṛks. Rows 1–10 were read and translated by the author and each agrees with the standard sūkta-wise ṛk counts of the first Maṇḍala. Rows 11–20 were read from the second scan and agree both with the glyphs and with those counts. Rows 21–24 are consistent with the printed totals (191 sūktas, 2006 ṛks, whose sum they complete exactly), but their individual digits could not be separated with certainty in the print, hence [?]. The earlier first-row reading in this file ("1–9, 70") was wrong; the print gives 1–3, 3 sūktas, 30 ṛks.)*
+*(Table of the 24 Anuvākas of Maṇḍala 1, as printed on p. 2 in four columns: Anuvāka number, range of sūktas, number of sūktas, number of ṛks. Rows 1–10 were read and translated by the author and each agrees with the standard sūkta-wise ṛk counts of the first Maṇḍala. Rows 11–20 were read from the second scan and agree both with the glyphs and with those counts. Rows 21–24 were read from the better scan (Oct 2026 numeral pass); with them the columns add up to the printed totals, 191 sūktas and 2006 ṛks. The earlier first-row reading in this file ("1–9, 70") was wrong; the print gives 1–3, 3 sūktas, 30 ṛks.)*
 
 **These suktas do not all treat of a single deity.** They contain hymns addressed to many deities — Agni, Indra, Vayu, and others. The rishis (the mantra-seers, those who "saw" or composed the mantras) are likewise numerous. Among them are Vishvamitra, Vasishtha, Vamadeva...
 
@@ -121,7 +121,7 @@
 
 **...Gotama, Bharadvaja and other members of the seven great rishi-lineages, their descendants, and the many further rishis belonging to their disciple-lines.** The names of the Rigveda's rishis, together with the suktas and mantra-counts each composed, have already been given in Volume 1 (pages 191–205). Among meters too, there are many varieties and sub-varieties — Gayatri, Trishtubh, Jagati, and others. **The Rigveda's 1,028 suktas, composed in all these varied meters, may be organized in three different ways:**
 
-**1. Ṛṣi-krama (ordering by rishi)** — grouping the suktas composed by a given principal rishi and his descendants into a single section or Mandala. **Mandalas 2 through 7 of the Rigveda (six Mandalas in total) are arranged this way.**
+**1. Ṛṣi-krama (ordering by rishi)** — grouping the suktas composed by a given principal rishi and his descendants into a single section or Mandala. **Mandalas 2, 3, 4, 5, 6, 7 and 8 of the Rigveda (seven Mandalas in total) are arranged this way.**
 
 **2. Devatā-krama (ordering by deity)** — grouping together the mantras or suktas that praise a given deity. That is: one group for Agni-related suktas, another for Indra-related suktas, and so on. **This ordering is followed in the Rigveda's ninth Mandala, where every single sukta shares the same deity — Soma — with no other deity appearing at all; only the rishis and meters differ from sukta to sukta.**
 
@@ -129,7 +129,7 @@
 
 **Beyond these, since the suktas grouped under the first scheme (Rishi-krama) include many quite short ones, gathering all these together into a single Mandala forms yet another arrangement — found in Mandalas 1 and 10.**
 
-**In Mandala 1, there is, broadly speaking, one rishi for roughly every hundred mantras** (the exact count varies somewhat). For example: in the first Mandala, mantras 1 through 102 belong to **Madhucchandas Vaishvamitra**; mantras 101 [sic] through 140 to **Medhatithi Kanva**; and mantras 141 through 160 to **Ajigarti Shunahshepa**. **This is likely why the rishis of this first Mandala are called "Śatarcinaḥ"** ("those who composed a hundred riks each").
+**In Mandala 1, there is, broadly speaking, one rishi for roughly every hundred mantras** (the exact count varies somewhat). For example: in the first Mandala, mantras 1 through 102 belong to **Madhucchandas Vaishvamitra**; mantras 111 through 253 to **Medhatithi Kanva**; and mantras 254 through 350 to **Ajigarti Shunahshepa**. **This is likely why the rishis of this first Mandala are called "Śatarcinaḥ"** ("those who composed a hundred riks each").
 
 **Mandala 10 does not follow this scheme either.** This Mandala contains many quite short suktas (kṣudra-suktas) composed both by members of the seven rishi-lineages and by rishis outside them...
 
@@ -151,15 +151,15 @@
 
 **A further distinctive feature appears across the Mandalas: apart from the eighth and ninth, each of the remaining eight Mandalas opens its first sukta with Agni.** The eighth Mandala instead opens with a mantra devoted to Indra. **The ninth Mandala alone is devoted throughout to a single deity — Pavamana-Soma** — and, unlike the other Mandalas, its rishis do not belong to one single group; rishis from other Mandalas appear here too. **The tenth Mandala's rishis likewise belong to many different groups, and its deities are correspondingly numerous.**
 
-**Turning to our present topic: since Suktas 1 and 2 of the first Anuvaka have already been explained in Volume 1, we now begin the third sukta, "Aśvinā yajña-vīriṣaḥ," which closes this Anuvaka.**
+**Turning to our present topic: since Suktas 1 and 2 of the first Anuvaka have already been explained in Volume 1, we now begin the third sukta, "Aśvinā yajvarīr iṣaḥ," which closes this Anuvaka.**
 
 **Before the meaning-translation, we first state this sukta's application (viniyoga):**
 
-> अश्विनेति द्वादशर्चं तृतीयं सूक्तम् । तत्राश्विनस्तिस‍ृच प्रातरनुवाकस्याश्विने कृतौ विनियुक्ताः । कथं च सूत्रितम् । अथाश्विना एषो उषाः प्रातरिति चतस‍ृचाश्विनी यज्ञवीरिषः ॥ आ. ४-३-७ ॥
-> *aśvineti dvādaśarcaṃ tṛtīyaṃ sūktam | tatrāśvinas tisṛca prātar-anuvākasyāśvine kṛtau viniyuktāḥ | kathaṃ ca sūtritam | athāśvina eṣo uṣāḥ prātar iti catasṛc āśvinī yajña-vīriṣaḥ || Ā. 4.3.7 ||*
-> "'Aśvinā...' is the third sukta, comprising twelve [thirteen] riks. Of these, the three Ashvin-riks are applied in the Ashvin-portion of the Pratar-anuvaka. And thus it is stated in the Sutra: 'athāśvinā eṣo uṣāḥ prātar' — these four riks [together are] 'Āśvinī Yajña-vīriṣaḥ.'" (Āśvalāyana Sūtra 4.3.7)
+> अश्विनेति द्वादशर्चं तृतीयं सूक्तम् । तत्राश्विनस्तृचः प्रातरनुवाकस्याश्विने कृतौ विनियुक्तः । तथा च सूत्रितम् । अथाश्विन एषो उषाः प्रातर्युजेति चतस्रोऽश्विना यज्वरीरिषः ॥ आ. ४-१५ ॥ इति ॥
+> *aśvineti dvādaśarcaṃ tṛtīyaṃ sūktam | tatrāśvinastṛcaḥ prātaranuvākasyāśvine kṛtau viniyuktaḥ | tathā ca sūtritam | athāśvina eṣo uṣāḥ prātaryujeti catasro 'śvinā yajvarīriṣaḥ ‖ ā. 4-15 ‖ iti ‖*
+> "'Aśvinā...' is the third sukta, comprising twelve riks. Of these, the Ashvin tṛca is applied in the Ashvin-portion of the Pratar-anuvaka. And thus it is stated in the Sutra: 'athāśvina eṣo uṣāḥ prātaryujeti' — four [sūktas], [the fourth being] 'aśvinā yajvarīr iṣaḥ.'" (Āśvalāyana Sūtra 4-15)
 
-**This sukta has 13 mantras, grouped into 4 Ṛcas** — a "Ṛca" here meaning a group of three mantras. **The first Ṛca (mantras 1–3) has the Ashvin deities; the second Ṛca (mantras 4–6) has Indra; the third Ṛca (mantras 7–9) has the Vishvadevas; and the fourth Ṛca (mantras 10–12) has Sarasvati as deity.**
+**This sukta has 12 mantras, or 4 Tṛcas** — a "Ṛca" here meaning a group of three mantras. **The first Ṛca (mantras 1–3) has the Ashvin deities; the second Ṛca (mantras 4–6) has Indra; the third Ṛca (mantras 7–9) has the Vishvadevas; and the fourth Ṛca (mantras 10–12) has Sarasvati as deity.**
 
 **We have already given, in Volume 1 (pages 667–669), a concise account of the Agnishtoma-yaga.** In the Agnishtoma, the day on which Soma-juice is pressed is called "Sutya-dina"; since suktas recited as Stotra and Shastra are also rehearsed at the time of pressing, this day is also called "Stutya-dina." On that day, in the early morning — that is...
 
@@ -214,18 +214,18 @@
 
 **The Bhashyakara's own glosses confirm this:** "Ājyaiḥ stuvate" — the Udgātṛ chants the Ajya-stotra mantras (in the morning pressing); "Pṛṣṭhaiḥ stuvate" — the Udgātṛ chants the Prishtha-stotra mantras (in the midday pressing); "pralugaṃ śaṃsati" — the Hotṛ recites the Pralugat-shastra mantras (in the morning pressing); "niṣkevalyaṃ śaṃsati" — the Hotṛ recites the Nishkevalya-shastra mantras (in the midday pressing). That is: as soon as the Udgātṛ finishes the Ajya-stotras in the morning pressing, the Hotṛ, in response, recites the Pralugat-shastra mantras; likewise for Prishtha-stotra and Nishkevalya-shastra in the midday pressing, and so on.
 
-**During the recitation of the Prātar-anuvāka, the sukta "Agnimīḷe" is recited — its application was already stated earlier (Volume 1), as was the application of the second sukta "Vāyav ā yāhi," a nine-mantra sukta.** We now come to the third sukta, "Aśvinā yajña-vīriṣaḥ," a twelve-mantra sukta, which the Hotṛ must recite during the Pralugat-shastra portion. **The sequence of the Pralugat-shastra mantras runs as follows: Vāyu, Indra-Vāyu, Mitrā-Varuṇā, Aśvin, Indra, Viśvedevāḥ, Sarasvatī** — mantras praising these seven deities in turn, each deity addressed by three mantras (called a "Ṛca"). Within the sukta "Vāyav ā yāhi"...
+**During the recitation of the Prātar-anuvāka, the sukta "Agnimīḷe" is recited — its application was already stated earlier (Volume 1), as was the application of the second sukta "Vāyav ā yāhi," a nine-mantra sukta.** We now come to the third sukta, "Aśvinā yajvarīr iṣaḥ," a twelve-mantra sukta, which the Hotṛ must recite during the Pralugat-shastra portion. **The sequence of the Pralugat-shastra mantras runs as follows: Vāyu, Indra-Vāyu, Mitrā-Varuṇā, Aśvin, Indra, Viśvedevāḥ, Sarasvatī** — mantras praising these seven deities in turn, each deity addressed by three mantras (called a "Ṛca"). Within the sukta "Vāyav ā yāhi"...
 
 ### Page 8
 
-**...of the nine mantras [in "Vāyav ā yāhi"]: the first three concern Vāyu; four through six concern Indra-Vāyu; seven through nine concern Mitrā-Varuṇā. In the sukta "Aśvinā yajña-vīriṣaḥ" that follows: mantras one through three concern the Ashvins; four through six, Indra; seven through nine, the Vishvadevas; and nine through twelve, Sarasvatī.** Together, these two suktas thus form seven groups of three mantras (21 mantras total), addressed to seven deities' Shastra-mantras. **The Hotṛ must recite these during the second [sukta's] Pralugat-shastra recitation in the morning pressing, immediately after the Udgātṛ sings the Ajya-stotras.** This is the application of both the second and third suktas.
+**...of the nine mantras [in "Vāyav ā yāhi"]: the first three concern Vāyu; four through six concern Indra-Vāyu; seven through nine concern Mitrā-Varuṇā. In the sukta "Aśvinā yajvarīr iṣaḥ" that follows: mantras one through three concern the Ashvins; four through six, Indra; seven through nine, the Vishvadevas; and nine through twelve, Sarasvatī.** Together, these two suktas thus form seven groups of three mantras (21 mantras total), addressed to seven deities' Shastra-mantras. **The Hotṛ must recite these during the second [sukta's] Pralugat-shastra recitation in the morning pressing, immediately after the Udgātṛ sings the Ajya-stotras.** This is the application of both the second and third suktas.
 
 **This sequence is confirmed in the Aitareya Brahmana, in the section beginning "gṛho'laṃ" (Aitareya Brahmana 3.1), and by Ashvalayana in his own Shrauta-sutra, in the section "stotram agre śastrāt" (Ashvalayana Sutra 5.10).** The Anukramanika states it thus:
 
 > वायो वायव्यमिन्द्रवायवमित्रावरुणाऋचा अश्विना द्वादशाश्वैन्द्रैश्वदेवसारस्वासृचा सप्तृचा प्रलुगदेवता ।
 > *(this compressed index-entry, confirming the seven-deity structure just described, remains a genuinely dense best-effort reading)*
 
-**That is: in "Vāyav ā yāhi," each group of three mantras addresses one deity — Vāyu, Indra-Vāyu, Mitrā-Varuṇā — three deities in all; and in "Aśvinā yajña-vīriṣaḥ," similarly, each group of three addresses Aśvinā, Indra, Viśvedevāḥ, Sarasvatī — four further deities. Together, these seven deities bear the name "Pralugat-devatāḥ." This is this sukta's full application-sequence.**
+**That is: in "Vāyav ā yāhi," each group of three mantras addresses one deity — Vāyu, Indra-Vāyu, Mitrā-Varuṇā — three deities in all; and in "Aśvinā yajvarīr iṣaḥ," similarly, each group of three addresses Aśvinā, Indra, Viśvedevāḥ, Sarasvatī — four further deities. Together, these seven deities bear the name "Pralugat-devatāḥ." This is this sukta's full application-sequence.**
 
 ### Page 9 — Sūkta 3, The First Mantra
 
@@ -285,7 +285,7 @@ O Ashvin deities! You are protectors who ensure that auspicious undertakings pro
 
 **The Ashvin deities are two in number.** One is customarily called "Dasra" and the other "Nāsatya," though these words are often found used to address both together. **Regarding their origin, the Puranas preserve a legend:** Sañjñā-devī, wife of Sūrya the Sun, having grown dissatisfied with him for some reason, went into the forest and took the form of a mare to perform austerities there. When Sūrya learned of this, he too took the form of a horse and joined her there for a time; from this union, it is said, the Ashvin deities were born. **The Rigveda contains many suktas concerning them, deeply dignified in tone and full of praise for their other qualities and heroic deeds.** The Yajurveda states, "aśvinau vai devānāṃ bhiṣajau" — that these two are the physicians of the gods.
 
-**In connection with a rishi named Ṛjrāśva:** while grazing his father's goats in a forest, the Ashvin deities came to him in the form of wolves (vṛka), and he gave them a hundred goats as food. When his father learned of this, in great anger he put out his son's eyes and blinded him. Rjrashva then prayed to the Ashvins; pleased by his hymn, they restored his sight and blessed him — this is related in the 116th sukta of this Mandala. **Many further legends and heroic deeds of these deities are recounted in Suktas 118–120 and elsewhere.**
+**In connection with a rishi named Ṛjrāśva:** while grazing his father's goats in a forest, the Ashvin deities came to him in the form of wolves (vṛka), and he gave them a hundred goats as food. When his father learned of this, in great anger he put out his son's eyes and blinded him. Rjrashva then prayed to the Ashvins; pleased by his hymn, they restored his sight and blessed him — this is related in the 116th sukta of this Mandala. **Many further legends and heroic deeds of these deities are recounted in Suktas 116–120 and elsewhere.**
 
 **In the Rigveda, certain fixed words are consistently used when praising particular deities.** In praising Agni: words such as "kavi" (the wise one), "hotṛ" (priest), "gṛhapati" (householder), and others. Concerning Indra: "śatakratu" (of a hundred powers), "vṛtraghna" (slayer of Vritra), "puruhūta" (much-invoked), "citrabhānu" (of brilliant radiance), and others. For the Ashvins...
 
@@ -301,8 +301,8 @@ O Ashvin deities! You are protectors who ensure that auspicious undertakings pro
 
 ### Page 13
 
-> प्रातेयुर्जं नासत्याधि तिष्ठः प्रातर्यानाणं मधुवाहनं रथम् । विश्वे येन गच्छथो यज्वरीर्नरा कीरेश्चिद्ध्यश्च होत्रमन्तमश्विना ॥ (ऋ. सं. १०-४०-३)
-> *(this citation confirms "yajvarī" occurring in its only other appearance in the Rigveda — the cited verse-number here is taken as given in the source)*
+> प्रातर्युजं नासत्याधि तिष्ठथः प्रातर्यावाणं मधुवाहनं रथं । विशो येन गच्छथो यज्वरीर्नरा कीरेश्चिद्यज्ञं होतृमन्तमश्विना ॥ (ऋ. सं. १०-४१-२)
+> *prātaryujaṃ nāsatyādhi tiṣṭhathaḥ prātaryāvāṇaṃ madhuvāhanaṃ rathaṃ | viśo yena gacchatho yajvarīrnarā kīreścidyajñaṃ hotṛmantamaśvinā ‖ (ṛ. saṃ. 10-41-2)*
 
 **This word is found in only this one other mantra. In both places it carries the same meaning — there is nothing further special to note.**
 
@@ -310,12 +310,12 @@ O Ashvin deities! You are protectors who ensure that auspicious undertakings pro
 
 **"Dravat-pāṇī"** — this word occurs only in this one mantra within the entire Rigveda Samhita. Its fourth-case plural form, "dravat-pāṇibhyaḥ," occurs only in:
 
-> हिरण्ययेन रथेन द्रवत्पाणिभिरश्विना । धीजवना नासत्या ॥ (ऋ. सं. ८-५-८)
-> *hiraṇyayena rathena dravat-pāṇibhir aśvinā | dhījavanā nāsatyā ||* (Rigveda Samhita 8.5.8)
+> हिरण्ययेन रथेन द्रवत्पाणिभिरश्वैः । धीजवना नासत्या ॥ (ऋ. सं. ८-५-३५)
+> *hiraṇyayena rathena dravatpāṇibhiraśvaiḥ | dhījavanā nāsatyā ‖ (ṛ. saṃ. 8-5-35)*
 
 **— nowhere else does this word appear. Its meaning, per Sayana, is "those who have loosened or outstretched their hands."** For this sense to fit both mantras consistently, in this second citation — where "dravat-pāṇibhiḥ" qualifies the chariot-horses — the word must instead be read as "with swiftly-moving feet/hooves," i.e., "by horse." **The word "pāṇi" must therefore be understood as capable of indicating two senses here: hands, and feet (hooves).**
 
-**"Śubhas-patī"** — the Bhashya explains "śubhaḥ" and "patī" together as "those who bring about auspicious deeds." **Skandasvāmī and Veṅkaṭanātha explain these words as "udakeśvarau"** — "lords of water" — taking "śubha" to mean "waters" in their view. **The Vedārtha-yatna authors render it "Lords of prosperity."** **Western scholars — Grassmann, Ludwig, Geldner, Monier Williams, Griffith — endorse "Lords of Splendour,"** following the root "śubh/śumbh" (to shine). This dual-form word occurs in the Rigveda at: 1.3.1; 1.34.4; 1.47.2; 1.120.6; 8.2.4; 8.7.2; 8.8.8; 10.40.7; 10.40.12; 10.40.13; 10.64.4; 10.110.4; 8.19.3; 8.34.3. **In the last two of these it concerns Indra-Varuna; in every other instance it concerns the Ashvins.** Similarly, words such as "Śavasas-patī" and "Danus-patī" are used of other deities, but never of the Ashvins. Sāyaṇācārya, on the word "Śubhaspatī"...
+**"Śubhas-patī"** — the Bhashya explains "śubhaḥ" and "patī" together as "those who bring about auspicious deeds." **Skandasvāmī and Veṅkaṭanātha explain these words as "udakeśvarau"** — "lords of water" — taking "śubha" to mean "waters" in their view. **The Vedārtha-yatna authors render it "Lords of prosperity."** **Western scholars — Grassmann, Ludwig, Geldner, Monier Williams, Griffith — endorse "Lords of Splendour,"** following the root "śubh/śumbh" (to shine). This dual-form word occurs in the Rigveda at: 1-3-1; 1-34-6; 1-47-5; 1-120-6; 5-75-8; 8-5-11; 8-22-4; 8-87-5; 10-40-4; 10-40-12; 10-40-13; 10-85-15; 10-131-4; 8-59-3; 8-59-5. **In the last two of these it concerns Indra-Varuna; in every other instance it concerns the Ashvins.** Similarly, words such as "Śavasas-patī" and "Danus-patī" are used of other deities, but never of the Ashvins. Sāyaṇācārya, on the word "Śubhaspatī"...
 
 ### Page 14
 
@@ -323,58 +323,61 @@ O Ashvin deities! You are protectors who ensure that auspicious undertakings pro
 
 **Furthermore, in the Rigveda, the word "patī" serves as the latter member of several compounds:**
 
-- **Sadas-patī** (Rigveda Samhita 1.18.6)
-- **Go-patī** (Rigveda Samhita 4.1.1)
-- **Dam-patī** (Rigveda Samhita 4.3.2; 7.20.5; 10.40.5; 10.51.3; 10.71.1; 10.13.5)
-- **Nṛ-patī** (Rigveda Samhita 6.67.1; 6.67.4)
-- **Mada-patī** (Rigveda Samhita 4.79.2)
-- **Vana-patī** (Rigveda Samhita 1.64.4)
-- **Śacī-patī** (Rigveda Samhita 4.67.4)
-- **Sapta-patī** (Rigveda Samhita 1.66.2; 1.10.4; 10.67.2)
-- **Sindhu-patī** (Rigveda Samhita 4.67.2)
-- **Svaḥ-patī** (Rigveda Samhita 4.1.1)
+- **Sadas-patī** (Rigveda Samhita 1-21-5)
+- **Go-patī** (Rigveda Samhita 9-19-2)
+- **Dam-patī** (Rigveda Samhita 5-3-2; 8-31-5; 10-10-5; 10-68-2; 10-85-32; 10-95-12; 10-162-4)
+- **Nṛ-patī** (Rigveda Samhita 7-67-1; 7-71-4)
+- **Mada-patī** (Rigveda Samhita 6-69-3)
+- **Vanas-patī** (Rigveda Samhita 1-28-8)
+- **Śacī-patī** (Rigveda Samhita 7-67-5)
+- **Sat-patī** (Rigveda Samhita 5-65-2; 6-60-6; 10-65-2)
+- **Sindhu-patī** (Rigveda Samhita 7-64-2)
+- **Svaḥ-patī** (Rigveda Samhita 9-19-2)
 
-**"Purubhujā"** — a dual-ending word, occurring in ten mantras (Rigveda Samhita 1.3.1; 1.118.1; 1.118.13; 4.43.1; 4.51.1; 8.5.3; 8.10.8; 8.8.21; 8.86.1). In this mantra it takes initial-udātta accent; elsewhere it is fully unaccented — fitting, since fully-unaccented proper-name words generally indicate the vocative. **Its meaning varies across occurrences:**
+**"Purubhujā"** — a dual-ending word, occurring in ten mantras (Rigveda Samhita 1-3-1; 1-116-13; 1-116-14; 5-49-1; 5-73-1; 6-63-5; 6-63-8; 8-8-17; 8-10-6; 8-86-3). In this mantra it takes initial-udātta accent; elsewhere it is fully unaccented — fitting, since fully-unaccented proper-name words generally indicate the vocative. **Its meaning varies across occurrences:**
 
-> अजोऽपीन्वासत्या करा वां महे यामन्पुरुभुजा पुरंधिः ।
-> *ajo'pīnvāsatyā karā vāṃ mahe yāman purubhujā purandhiḥ |* (Rigveda Samhita 8.8.12)
+> अजोहवीन्नासत्या करा वां महे यामन्पुरुभुजा पुरंधिः । (ऋ. सं. १-११६-१३)
+> *ajohavīnnāsatyā karā vāṃ mahe yāmanpurubhujā puraṃdhiḥ | (ṛ. saṃ. 1-116-13)*
 
-**Here "purubhujā" means "protector of many" — one who protects many people.**
+**Here "purubhujā" means "bahūnāṃ pālakau" — protectors of many people.**
 
-> उतो कविं पुरुभुजा युवं ह कृशमाणमकृणुतं विचक्षे ।
-> *uto kaviṃ purubhujā yuvaṃ ha kṛśamāṇam akṛṇutaṃ vicakṣe |* (Rigveda Samhita 1.118.6)
+> उतो कविं पुरुभुजा युवं ह कृपमाणमकृणुतं विचक्षे । (ऋ. सं. १-११६-१४)
+> *uto kaviṃ purubhujā yuvaṃ ha kṛpamāṇamakṛṇutaṃ vicakṣe | (ṛ. saṃ. 1-116-14)*
 
 ### Page 15
 
 **Here "Purubhujā" means "great-armed," "possessing abundant arms/hands."**
 
-> आ वां नरा पुरुभुजा ववृत्यां दिवे दिवे चिदश्विना सखीयन् ।
-> *ā vāṃ narā purubhujā vavṛtyāṃ dive-dive cid aśvinā sakhīyan |* (Rigveda Samhita 4.43.1)
+> आ वां नरा पुरुभुजा ववृत्यां दिवे दिवे चिदश्विना सखीयन् । (ऋ. सं. ५-४९-१)
+> *ā vāṃ narā purubhujā vavṛtyāṃ dive dive cidaśvinā sakhīyan | (ṛ. saṃ. 5-49-1)*
 
 **Here "puru bhuñjātā" means "those who eat abundantly."**
 
-> यद्वा पुरो पुरुभुजा यदन्तरिक्षे आ गतम् ।
-> *yad vā puro purubhujā yad antarikṣe ā gatam |* (Rigveda Samhita 8.5.1)
+> यद्वा पुरू पुरुभुजा यदन्तरिक्ष आ गतं । (ऋ. सं. ५-७३-१)
+> *yadvā purū purubhujā yadantarikṣa ā gataṃ | (ṛ. saṃ. 5-73-1)*
 
 **Here "bahuṣu yajñeṣu bhoktārau" means "those who partake in many sacrifices."**
 
-> अधि श्रिये दुहिता सूर्यस्य रथं तस्थौ पुरुभुजा शतोतिम् ।
-> *adhi śriye duhitā sūryasya rathaṃ tasthau purubhujā śatotim |* (Rigveda Samhita 1.116.17)
+> अधि श्रिये दुहिता सूर्यस्य रथं तस्थौ पुरुभुजा शतोतिं । (ऋ. सं. ६-६३-५)
+> *adhi śriye duhitā sūryasya rathaṃ tasthau purubhujā śatotiṃ | (ṛ. saṃ. 6-63-5)*
 
-> पुरु हि वां पुरुभुजा देवं भेषं न इषं पिप्र्तमस्माकम् ।
-> *puru hi vāṃ purubhujā devaṃ bheṣaṃ na iṣaṃ pipṛtam asmākam |* (Rigveda Samhita 1.118.9)
+> पुरु हि वां पुरुभुजा देष्णं धेनुं न इषं पिन्वतमसक्रां । (ऋ. सं. ६-६३-८)
+> *puru hi vāṃ purubhujā deṣṇaṃ dhenuṃ na iṣaṃ pinvatamasakrāṃ | (ṛ. saṃ. 6-63-8)*
 
 **Here too, glossed as "bahu-pālakau" — "protectors of many."**
 
-> आ नो गतं रिशादसावस्मं स्वोमं पुरुभुजा । (ऋ. सं. ८-८-१८)
+> आ नो गन्तं रिशादसेमं स्तोमं पुरुभुजा । (ऋ. सं. ८-८-१७)
+> *ā no gantaṃ riśādasemaṃ stomaṃ purubhujā | (ṛ. saṃ. 8-8-17)*
 
 **Here "bahulasya haviṣo bhoktārau" means "those who partake abundantly of the oblation."**
 
-> यदन्तरिक्षे शतधः पुरुभुजा यद्द्यावा रोदसे अनु । (ऋ. सं. ८-१०-६)
+> यदन्तरिक्षे पतथः पुरुभुजा यद्वेमे रोदसे अनु । (ऋ. सं. ८-१०-६)
+> *yadantarikṣe patathaḥ purubhujā yadveme rodase anu | (ṛ. saṃ. 8-10-6)*
 
 **Here glossed simply as "bahunāṃ pālakau" — "protectors of many."**
 
-> युवं हि ष्मा पुरुभुजेमवेधं विश्वाप्स्न्ये दधथुर्न इषे । (ऋ. सं. ८-९-१)
+> युवं हि ष्मा पुरुभुजेममेधतुं [?] विष्णाप्वे ददथुर्वस्य इष्टये । (ऋ. सं. ८-८६-३)
+> *yuvaṃ hi ṣmā purubhujemamedhatuṃ [?] viṣṇāpve dadathurvasya iṣṭaye | (ṛ. saṃ. 8-86-3)*
 
 **Glossed two ways here: "bahunāṃ dhanādi-dānena bhojayitārau"** (those who, by giving wealth and the like to many, enable them to feast) **and "bahunāṃ stotṛ-janaṃ pālayitārau"** (those who protect the many who praise them).
 
@@ -384,20 +387,20 @@ O Ashvin deities! You are protectors who ensure that auspicious undertakings pro
 
 ### Page 16
 
-> यो अश्वानां यो गवां गोपतिर्वृषा य आरितः कर्मणिकर्मणि स्थिरः ।
-> *yo aśvānāṃ yo gavāṃ go-patir vṛṣā ya āritaḥ karmaṇi-karmaṇi sthiraḥ |* (Rigveda Samhita 1.101.5)
+> यो अश्वानां यो गवां गोपतिर्वशी य आरितः कर्मणिकर्मणि स्थिरः । (ऋ. सं. १-१०१-४)
+> *yo aśvānāṃ yo gavāṃ gopatirvaśī ya āritaḥ karmaṇikarmaṇi sthiraḥ | (ṛ. saṃ. 1-101-4)*
 
-> इहेन्द्राग्नी उप श्रयं तयोरित्था मुमुच्यासि । ता सोमं सोमपातमा ॥
-> *ihendrāgnī upa śrayaṃ tayor itthā mumucyāsi | tā somaṃ somapātamā ||* (Rigveda Samhita 8.38.4)
+> इहेन्द्राग्नी उपह्वये तयोरित्स्तोममुश्मसि । ता सोमं सोमपातमा ॥ (ऋ. सं. १-२१-४)
+> *ihendrāgnī upahvaye tayoritstomamuśmasi | tā somaṃ somapātamā ‖ (ṛ. saṃ. 1-21-4)*
 
-> द्विषणोदा द्विषणस्युरस्य द्विषणोदाः सनरस्य यंसत् ।
-> *dviṣaṇodā dviṣaṇasyuras ya dviṣaṇodāḥ sanarasya yaṃsat |* (Rigveda Samhita 1.36.1)
+> द्रविणोदा द्रविणसस्तुरस्य द्रविणोदाः सनरस्य प्र यंसत् । (ऋ. सं. १-९६-८)
+> *draviṇodā draviṇasasturasya draviṇodāḥ sanarasya pra yaṃsat | (ṛ. saṃ. 1-96-8)*
 
-**These mantras, with phrases like "gavāṃ go-patiḥ" (the cow-protector of cows), "somaṃ soma-pātamā" (the soma-drinkers of soma), and "dviṣaṇodā dviṣaṇasya," confirm that this kind of apparent redundancy is a genuine, established feature of Vedic diction.**
+**These mantras, with phrases like "gavāṃ go-patiḥ" (the cow-protector of cows), "somaṃ soma-pātamā" (the soma-drinkers of soma), and "draviṇodā draviṇasaḥ," confirm that this kind of apparent redundancy is a genuine, established feature of Vedic diction.**
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(The grammatical derivation for this sukta's opening verse — covering "aśvinā" as a vocative-adjacent form (per Phit-sutra 1.1.28), "yajvarī" analyzed via the root meaning "to accomplish the sacrifice," "iṣaḥ" and its accent-variants, "dravat-pāṇī" as a compound of "dravat" (running/swift) and "pāṇi" (hand/foot), "śubhas-patī" with its accent-retention rule, and "canasyatam" as a denominative verb formed from "canas" — proceeds here in the same dense sutra-citation register used throughout this work. Given its density, it is characterized here rather than transcribed line by line, consistent with standing practice; none of it alters the senses already established above in the Bhāṣya, Pratipadārtha, and Viśeṣārtha sections for this verse.)*
+*(The grammatical derivation for this sukta's opening verse — covering "aśvinā" as a vocative-adjacent form (per Pā. 6-1-198, "āmantritasya ca"), "yajvarī" analyzed via the root meaning "to accomplish the sacrifice," "iṣaḥ" and its accent-variants, "dravat-pāṇī" as a compound of "dravat" (running/swift) and "pāṇi" (hand/foot), "śubhas-patī" with its accent-retention rule, and "canasyatam" as a denominative verb formed from "canas" — proceeds here in the same dense sutra-citation register used throughout this work. Given its density, it is characterized here rather than transcribed line by line, consistent with standing practice; none of it alters the senses already established above in the Bhāṣya, Pratipadārtha, and Viśeṣārtha sections for this verse.)*
 
 ---
 
@@ -406,7 +409,7 @@ O Ashvin deities! You are protectors who ensure that auspicious undertakings pro
 
 ### Page 17
 
-*(This entire page continues the Vyākaraṇa-prakriyā for Rik 3.1 in the same dense register — working through "śubhaspatī" (accent-retention and compound-analysis), "aśvinā" (vocative/accusative accent variants), "purubhujā" (bahuvrīhi-compound derivation), and "canasyatam" (a denominative formation from "canas," with its affix and accent rules, including cross-reference to the Nirukta 5.16 gloss of "canaḥ" as "food"). Characterized here rather than transcribed line-by-line, consistent with standing practice for this register; none of it changes the senses already established above.)*
+*(This entire page continues the Vyākaraṇa-prakriyā for Rik 3.1 in the same dense register — working through "śubhaspatī" (accent-retention and compound-analysis), "aśvinā" (vocative/accusative accent variants), "purubhujā" (bahuvrīhi-compound derivation), and "canasyatam" (a denominative formation from "canas," with its affix and accent rules, including cross-reference to the Nirukta 5-16 gloss of "canaḥ" as "food"). Characterized here rather than transcribed line-by-line, consistent with standing practice for this register; none of it changes the senses already established above.)*
 
 ### Page 18 — Sūkta 3, The Second Mantra
 
@@ -460,19 +463,20 @@ O Ashvin deities! You are those who perform many deeds — heroic undertakings; 
 
 ---
 
-**"Purudaṃsasā"** — this word occurs in four mantras of the Rigveda. In this mantra it is initial-udātta; in Rigveda Samhita 8.5.10 and 8.22.3 it is fully unaccented (confirming, as already noted, that fully-unaccented nominative forms serve the vocative); in 8.26.1 it is middle-udātta. **Further forms of this word — "purudaṃsam" and "purudaṃsā" — occur in Rigveda Samhita 1.3.2 and 7.67.1; nowhere else.** The word comprises two separate elements, "puru" and "daṃsa." "Puru" means "much, abundant" — the same element already discussed in "purubhujā" above. **"Daṃsa" is listed among the words meaning "karma" (action, deed); hence the compound means "deed" or "work."** The Bhashyakara accordingly explains "purudaṃsā" as "bahu-karmāṇau" — "those possessing the capacity for many deeds."
+**"Purudaṃsasā"** — this word occurs in four mantras of the Rigveda. In this mantra it is initial-udātta; in Rigveda Samhita 6-63-10 and 7-9-5 it is fully unaccented (confirming, as already noted, that fully-unaccented nominative forms serve the vocative); in 7-73-1 it is middle-udātta. **Further forms of this word — "purudaṃsam" and "purudaṃsā" — occur in Rigveda Samhita 3-1-23 and 7-73-1; nowhere else.** The word comprises two separate elements, "puru" and "daṃsa." "Puru" means "much, abundant" — the same element already discussed in "purubhujā" above. **"Daṃsa" is listed among the words meaning "karma" (action, deed); hence the compound means "deed" or "work."** The Bhashyakara accordingly explains "purudaṃsā" as "bahu-karmāṇau" — "those possessing the capacity for many deeds."
 
 ### Page 21
 
-**Veṅkaṭamādhava glosses this as "āścarya-bhūta-vividha-karmāṇau"** — those whose various deeds are a source of wonder. **Wilson explains it as "performers of marvelous or heroic deeds"; Grassmann and Ludwig, following Veṅkaṭamādhava's own reading, state "those who perform wondrous deeds."** Since Suktas 112, 114, 118, and 119 of this Mandala describe many heroic deeds of these deities, **Veṅkaṭamādhava's view appears correct.**
+**Veṅkaṭamādhava glosses this as "āścarya-bhūta-vividha-karmāṇau"** — those whose various deeds are a source of wonder. **Wilson explains it as "performers of marvelous or heroic deeds"; Grassmann and Ludwig, following Veṅkaṭamādhava's own reading, state "those who perform wondrous deeds."** Since Suktas 112, 116, 117, and 118 of this Mandala describe many heroic deeds of these deities, **Veṅkaṭamādhava's view appears correct.**
 
 **"Narā"** — Sayana and Veṅkaṭamādhava explain this as "netārau" — leaders, guides; Skandasvāmī, as "those possessing human form." **Wilson expresses Sayana's meaning by "guides." Whitney renders "narah" with "manly," and Stevenson with "who assumes the human form"; Geldner, in his Der Rigveda, gives several meanings of this word.** Among these, Sayana's view seems most sound. Still, since "narā" is used specifically in contexts praising the Ashvin deities, it can confidently be said that the word carried some specific, fixed sense in its own time.
 
 **"Śavīrayā"** — this word occurs in the Rigveda only here and in:
 
-> अश्विनावश्वयाता यातं शवीरया । (ऋ. सं. १-४०-१?)
+> अश्विनावश्वावत्येषा यातं शवीरया । (ऋ. सं. १-३०-१७)
+> *aśvināvaśvāvatyeṣā yātaṃ śavīrayā | (ṛ. saṃ. 1-30-17)*
 
-**— nowhere else. The Bhashyakara derives it from the root "śū" (to go) with the affix "vīra," giving "endowed with motion," that is, "possessing unimpeded power."** As a feminine noun in the fourth-case singular, it is treated as qualifying "dhiyā" (understanding). **Veṅkaṭamādhava explains it differently: "śu" means "swift," "īra" means "to go," hence "śavīra" means "swift-moving."** Alternatively, he connects it to "śava" (strength, listed among the Nighaṇṭu's strength-words), giving the sense "those who go swiftly to destroy the enemy's strength" or "those who hasten to the sacrificial altar to receive their share of the oblation" — on this reading, "śavīrayā" becomes instead a nominative dual form qualifying "Aśvinā" itself...
+**— nowhere else. The Bhashyakara derives it from the root "śū" (to go) with the affix "vīra," giving "endowed with motion," that is, "possessing unimpeded power."** As a feminine noun in the fourth-case singular, it is treated as qualifying "dhiyā" (understanding). **Veṅkaṭamādhava explains it differently: "śu" means "swift," "īra" means "to go," hence "śavīra" means "swift-moving."** Alternatively, he connects it to "śava" (strength, listed among the twenty-eight strength-words of the Nighaṇṭu, 2-9; "śu" is among the twenty-six words for "swift", Nighaṇṭu 2-15), giving the sense "those who go swiftly to destroy the enemy's strength" or "those who hasten to the sacrificial altar to receive their share of the oblation" — on this reading, "śavīrayā" becomes instead a nominative dual form qualifying "Aśvinā" itself...
 
 ### Page 22
 
