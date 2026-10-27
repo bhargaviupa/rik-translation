@@ -4118,82 +4118,135 @@ O all you hosts of Maruts who give wealth and the like, together with Indra, who
 
 ---
 
-### Pages 177–181 — Sūkta 23, Rik 10
+### Page 177 (lower) — Sūkta 23, Rik 10
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> विश्वान्देवान्हवामहे मरुतः सोमपीतये ।
-> उग्रा हि पृश्निमातरः ॥ १० ॥
+> विश्वा॑न्दे॒वान्ह॑वामहे म॒रुतः॒ सोम॑पीतये । [accent ?]
+> उ॒ग्रा हि पृश्नि॑मातरः ॥१०॥
+>
+> *víśvān devā́n havāmahe marútaḥ sómapītaye |* [accent ?]
+> *ugrā́ hi pṛ́śnimātaraḥ ||10||*
 
-*viśvān devān havāmahe marutaḥ somapītaye | ugrā hi pṛśnimātaraḥ || 10 ||*
+*(Strokes over श्वा, over the syllable with ह after देवान् (read as over ह [accent ?]) and over म (सोम); bars under दे, म (मरुतः) and तः. Line 2: a bar under उ, a stroke over श्नि.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 178 — Rik 10: Pada, bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> विश्वान् । देवान् । हवामहे । मरुतः । सोमऽपीतये ॥ उग्राः । हि । पृश्निऽमातरः ॥ १० ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*viśvān | devān | havāmahe | marutaḥ | soma-pītaye || ugrāḥ | hi | pṛśni-mātaraḥ || 10 ||*
+> विश्वान् । देवान् । हवामहे । मरुतः । सोमऽपीतये ॥
+> उग्राः । हि । पृश्निऽमातरः ॥१०॥
+>
+> *viśvān | devān | havāmahe | marutaḥ | soma 'pītaye ||*
+> *ugrāḥ | hi | pṛśni 'mātaraḥ ||10||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> मरुतो मरुत्संज्ञकान्विश्वान्सर्वान्देवान्सोमपीतये हवामहे । सोमपानार्थमाह्वयामः । ते च मरुत उग्राः शत्रुभिरसह्यबलाः पृश्निमातरः । पृश्नेर्नानावर्णयुक्ताया भूमेः पुत्राः । हिशब्दः प्रसिद्ध्यर्थः । सा च प्रसिद्धिः — पृश्नेः पुत्रा उपमासो रभिष्ठाः (ऋ. [५-५२-१६] [?]) इति मन्त्रान्तरादवगन्तव्या ॥ पृश्निमातरः । पृश्निर्माता येषां ते । पृश्निशब्दो घृण्यादिवादाद्युदात्तो निपातितः [?] । उ. [४-५२] [?] । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+*(Numbers as printed: ऋग्वे० ५-५८-५, उ० ४-५२. The bhāṣya ends with ॥९॥, the close of the ninth varga.)*
 
-*maruto marutsaṃjñakān viśvān sarvān devān somapītaye havāmahe | somapānārtham āhvayāmaḥ | te ca maruta ugrāḥ śatrubhir asahyabalāḥ pṛśnimātaraḥ | pṛśner nānāvarṇayuktāyā bhūmeḥ putrāḥ | hiśabdaḥ prasiddhyartham | sā ca prasiddhiḥ — pṛśneḥ putrā upamāso rabhiṣṭhāḥ (ṛ. [5-52-16] [?]) iti mantrāntarād avagantavyā || pṛśnimātaraḥ | pṛśnir mātā yeṣāṃ te | pṛśniśabdo ghṛṇyādivād ādyudātto nipātitaḥ [?] | u. [4-52] [?] | bahuvrīhau pūrvapadaprakṛtisvaratvam ||*
+> मरुतो मरुत्संज्ञकान्विश्वान्सर्वान्देवान्सोमपीतये हवामहे । सोमपानार्थमाह्वयामः । ते च मरुत उग्राः शत्रुभिरसह्यबलाः पृश्निमातरः पृश्नेर्नानावर्णयुक्ताया भूमेः पुत्राः । हिशब्दः प्रसिद्ध्यर्थः । सा च प्रसिद्धिः पृश्नेः पुत्राः । ऋग्वे० ५-५८-५ । इति मन्त्रान्तरादवगन्तव्या ॥ पृश्निमातरः । पृश्निर्माता येषां ते । पृश्निशब्दो घृणिः पृश्निरित्यणादावाद्युदात्तो निपातितः । उ० ४-५२ । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥९॥
+>
+> *maruto marutsaṃjñakānviśvānsarvāndevānsomapītaye havāmahe | somapānārthamāhvayāmaḥ | te ca maruta ugrāḥ śatrubhirasahyabalāḥ pṛśnimātaraḥ pṛśnernānāvarṇayuktāyā bhūmeḥ putrāḥ | hiśabdaḥ prasiddhyarthaḥ | sā ca prasiddhiḥ pṛśneḥ putrāḥ | ṛgve0 5-58-5 | iti mantrāntarādavagantavyā || pṛśnimātaraḥ | pṛśnirmātā yeṣāṃ te | pṛśniśabdo ghṛṇiḥ pṛśnirityaṇādāvādyudātto nipātitaḥ | u0 4-52 | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||9||*
 
-**Translation:** "[We invoke] the Maruts — the gods called Maruts — and all the [other] gods for the drinking of soma; we call them for soma-drinking. These Maruts are *ugrāḥ* — of strength unbearable to enemies — *pṛśnimātaraḥ*: sons of *Pṛśni*, the many-coloured Earth. The word *hi* is for the sake of 'well-known'; that well-known character is to be understood from another mantra: *pṛśneḥ putrā upamāso rabhiṣṭhāḥ* (Ṛ. [5-52-16] [?]). *Pṛśnimātaraḥ*: 'those whose mother is Pṛśni'; the word *pṛśni* is given by *nipātana* with the first syllable acute [Uṇ. [4-52] [?]]; in the *bahuvrīhi* it keeps the accent of the first member." *(Grammar page 181, noted briefly: the word treated is* pṛśnimātaraḥ *[the Vaiyākaraṇas explain* pṛśni *as 'small-bodied' — the Amarakośa *pṛśnir alpatanau* — but the Vedabhāṣya here understands 'many-coloured, the earth'; formed from *spṛś saṃsparśane* with the Uṇādi suffix *ni* [Uṇ. 4-[?] *pṛṇi pṛśni pārṣṇi cūrṇi bhūrṇi* — this group gives *nipātana* of several forms with the first syllable acute and with loss of *s* and of guṇa; *pṛśni*, *pārṣṇi*, *cūrṇi*, *bhūrṇi*; the *nipātana* of the second member in *pṛśnimātaraḥ*; the *bahuvrīhi* accent P. 6-2-1 *bahuvrīhau prakṛtyā pūrvapadam*]; numerals as read, pointers only.)*
+**Translation:** "We *havāmahe*, call, *somapītaye*, to drink soma — call for drinking soma — *viśvān devān*, all the gods named *marutaḥ*, Maruts. And those Maruts are *ugrāḥ*, of strength not to be borne by enemies, *pṛśnimātaraḥ*, sons of *pṛśni*, the earth furnished with many colours. The word *hi* is for what is well known; and that renown — 'sons of Pṛśni' (Ṛgve. 5-58-5) — is to be learnt from another mantra." (Grammatical tail: *pṛśnimātaraḥ*, 'whose mother is Pṛśni'; the word *pṛśni* is given as a set form with initial udātta in the Uṇādi list beginning *ghṛṇiḥ pṛśniḥ* (U. 4-52); in the bahuvrīhi the first member's own accent.)
 
-**॥ Prati-padārthaḥ ॥** **मरुतः (marutaḥ)** — the Marut-deities | **विश्वान् देवान् (viśvān devān)** — all the gods | **सोमपीतये (somapītaye)** — to drink soma | **हवामहे (havāmahe)** — we invoke | **उग्राः (ugrāḥ)** — [those Maruts] who cannot be overcome by enemies | **पृश्निमातरः (pṛśnimātaraḥ)** — sons of the earth of many colours | **हि (hi)** — [as is] well known.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** We invoke the Marut-deities and all the other gods for the drinking of soma. Those Maruts are of great prowess, and cannot be overcome by enemies. They are sons of the many-coloured Earth; this is well known.
+**मरुतः (marutaḥ)** — the Marut deities (and) | **विश्वान् देवान् (viśvān devān)** — all the deities | **सोमपीतये (somapītaye)** — for drinking soma | **हवामहे (havāmahe)** — we call | (those Marut deities) **उग्राः (ugrāḥ)** — who cannot be subdued by enemies | **पृश्निमातरः (pṛśnimātaraḥ)** — sons of the earth furnished with many colours | **हि (hi)** — well known.
+
+**॥ Bhāvārthaḥ ॥**
+
+We call the Marut deities and all other deities to drink soma. Those Marut deities, being of great valour, cannot be defeated by enemies. They are sons of the earth furnished with many colours. This matter is well known.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > We invoke all the divine gods and the Maruts who are mighty and are the Sons of many coloured earth, to drink the Soma juice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 178–180)* **उग्राः** — *krūrāḥ*, 'fierce': those of great valour when fighting enemies; hence invincible by enemies.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**पृश्निमातरः** — the commentator explains this word as 'sons of the earth of many colours', and quotes as an example:
+**उग्राः (ugrāḥ)** — cruel, "fierce": that is, of great valour when fighting with enemies; therefore unconquerable by enemies.
 
-> पृश्नेः पुत्रा उपमासो रभिष्ठाः स्वया मत्या मरुतः सं मिमिक्षुः ॥ (ऋ. सं. [३-२६-५] [?])
+### Page 179 — Rik 10: Special Topics (continued)
 
-*pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayā matyā marutaḥ saṃ mimikṣuḥ ||* — "The sons of Pṛśni, the best, the most impetuous, the Maruts, by their own wisdom [have mingled together]." *(my gloss, tentative)*
+**पृश्निमातरः (pṛśnimātaraḥ)** — the commentator has given this word the meaning "sons of the earth furnished with many colours". And, as an example, giving the ṛk —
 
-In explaining the words *pṛśneḥ putrāḥ* of that rik he renders them *goṛūpāyā bhūmeḥ antarikṣasya vā putrasthānīyāḥ* — 'sons of the earth in the form of a cow, or of the *antarikṣa*'. Skandasvāmin: *pṛśnir iti dyunāma; dyaur mātā yeṣāṃ marutāṃ te pṛśnimātaraḥ* — 'Pṛśni is a name of heaven; those Maruts whose mother is heaven are *pṛśnimātaraḥ*': i.e. sons of Pṛśni, of heaven or of the *antarikṣa*; since the Maruts move in the *antarikṣa*, to say that they are born of it is proper. Yāska explains the word thus:
+> पृश्नेः पुत्रा उपमासो रभिष्ठाः स्वया मत्या मरुतः सं मिमिक्षुः ॥ (ऋ० सं० ५-५८-५)
+>
+> *pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayā matyā marutaḥ saṃ mimikṣuḥ || (ṛ0 saṃ0 5-58-5)*
 
-> स्वः । पृश्निः । नाकः । गौः । विष्टपं । नभ इति षट् साधारणानि । साधारणान्युत्तराणि दिवस्त्राद्यादित्यस्य [?] ॥ (नि. [२-१४] [?])
+— when explaining that ṛk he has explained the words *pṛśneḥ putrāḥ* as *gorūpāyā antarikṣasya vā putrasthānīyāḥ*, that is, sons of the earth in the form of a cow, or of the mid-air. Skandasvāmin says —
 
-*svaḥ | pṛśniḥ | nākaḥ | gauḥ | viṣṭapaṃ | nabha iti ṣaṭ sādhāraṇāni | sādhāraṇāny uttarāṇi divas trādityasya [?] ||* — "*Svar, pṛśni, nāka, go, viṣṭapa, nabhas* — these six are common [names of heaven and of the Āditya]" (Ni. [2-14] [?]). And:
+> पृश्निरिति द्युनाम । द्यौर्माता येषां मरुतां ते पृश्निमातरः । दिवः पुत्रा इत्यर्थः ॥
+>
+> *pṛśniriti dyunāma | dyaurmātā yeṣāṃ marutāṃ te pṛśnimātaraḥ | divaḥ putrā ityarthaḥ ||*
 
-> पृश्निरादित्यो भवति । प्राश्नुते एनं वर्ण इति नैरुक्ताः । संस्प्रष्टा रसान् । संस्प्रष्टा भासं ज्योतिषाम् । संस्पृष्टो भासेति वा । अथ द्यौः संस्पृष्टा ज्योतिर्भिः पुण्यकृद्भिश्च ॥ (नि. [२-१४] [?])
+— that *pṛśni* is heaven, and they are sons of the mid-air. Since the movement of the Maruts is in the mid-air itself, it is fitting to say they are born from it. Yāska has explained this word thus —
 
-*pṛśnir ādityo bhavati | prāśnute enaṃ varṇa iti nairuktāḥ | saṃspraṣṭā rasān | saṃspraṣṭā bhāsaṃ jyotiṣām | saṃspṛṣṭo bhāseti vā | atha dyauḥ saṃspṛṣṭā jyotirbhiḥ puṇyakṛdbhiś ca ||* — "Pṛśni is the Āditya; 'colour [light] pervades him', say the Nairuktas; [he is] the one that touches the sap [of the waters]; the one who touches the light of the luminaries; or the one touched by the light; and heaven is that which is touched by lights and by those who have done good." *(my rendering of the Kannada exposition, tentative)* That is: Pṛśni means the Āditya — the Nirukta-writers say the Āditya because his brilliant light pervades the whole; *saṃspraṣṭā rasān*: he touches the saps [of the waters] always, the work of taking the sap of the waters; since the Āditya, as the cause, gives water in the form of rain, he is called Pṛśni. Or *saṃspraṣṭā bhāsaṃ jyotiṣām*: the light of planets, stars, moon and the like are dimmed by the sun; or *saṃspṛṣṭo bhāseti vā*: he is Pṛśni because he pervades everywhere with his own light. Then Pṛśni means *dyauḥ* ['heaven'], for it is touched by lights and by the virtuous: Pṛśni is heaven (svarga), [reached] by brilliance and by those who have merit. This is Yāska's explanation; accordingly, taking *pṛśni* to mean *dyauḥ* — svarga, *antarikṣa* — it is correct to say of the word *pṛśnimātaraḥ* that they are sons of heaven — born in the *antarikṣa* — and so Yāska is followed.
+> स्वः । पृश्निः । नाकः । गौः । विष्टप् । नभ इति षट् साधारणानि ॥ साधारणान्युत्तराणि दिवश्चादित्यस्य ॥ (नि० २-१३)
+>
+> *svaḥ | pṛśniḥ | nākaḥ | gauḥ | viṣṭap | nabha iti ṣaṭ sādhāraṇāni || sādhāraṇānyuttarāṇi divaścādityasya || (ni0 2-13)*
 
-On the Marut-hymn *yad dyāvo indraḥ pṛśnimātaro martāsaḥ syātana* (Ṛ. Saṃ. 1-38-4), the commentator [on the phrase *pṛśnimātaraḥ*] says *pṛśninām akadhenuputrā marutaḥ*, 'the Maruts, sons of the cow named Pṛśni' [the reading is doubtful]. In many places where the Maruts are praised the word *pṛśnimātaraḥ* is seen; so it may be said confidently that this word is used for these deities in one fixed sense. The author lists the riks in the Ṛgveda where the word occurs (Ṛ. Saṃ. 1-38-4; 1-23-10 [this rik]; 1-64-2 [?]; 1-85-2 [?]; 5-52-16 [?]; 5-57-3 [?]; 8-7-3 [?]; 8-20-1 [?] and others — the numerals as I read them from the print, none of them certain), each containing a pāda in which the Maruts are called *pṛśnimātaraḥ*. The citations, in the print's order (the glosses are mine and tentative):
+— that is, the six words *svaḥ*, *pṛśniḥ*, *nākaḥ*, *gauḥ*, *viṣṭap*, *nabhaḥ* are common words denoting both heaven (*divaḥ*) and the sun. And —
 
-> अर्चन्तो अर्कं जनयन्त इन्द्रियमधि श्रियो दधिरे पृश्निमातरः ॥ (ऋ. सं. [१-८७-४?] [?])
-> *arcanto arkaṃ janayanta indriyam adhi śriyo dadhire pṛśnimātaraḥ ||* — "Chanting the hymn they brought forth power; the sons of Pṛśni took on splendour."
+> पृश्निरादित्यो भवति । प्राश्नुत एनं वर्ण इति नैरुक्ताः संस्प्रष्टा रसान् । संस्प्रष्टा भासं ज्योतिषां ॥
+> संस्पृष्टो भासेति वा ॥
+> अथ द्यौः संस्पृष्टा ज्योतिर्भिः पुण्यकृद्भिश्च ॥ (नि० २-१४)
+>
+> *pṛśnirādityo bhavati | prāśnuta enaṃ varṇa iti nairuktāḥ saṃspraṣṭā rasān | saṃspraṣṭā bhāsaṃ jyotiṣāṃ ||*
+> *saṃspṛṣṭo bhāseti vā ||*
+> *atha dyauḥ saṃspṛṣṭā jyotirbhiḥ puṇyakṛdbhiśca || (ni0 2-14)*
 
-> पृषदश्वा मरुतः पृश्निमातरः शुभंयावानो विदथेषु जग्मयः ॥ (ऋ. सं. [१-८५-२] [?])
-> *pṛṣadaśvā marutaḥ pṛśnimātaraḥ śubhaṃyāvāno vidatheṣu jagmayaḥ ||* — "The Maruts with spotted horses, sons of Pṛśni, going in splendour, frequent comers to the rites."
+*Pṛśni* means the sun. Because excellent radiance pervades him all round, the etymologists (the authors of the Nirukta) say that *pṛśni* means the sun. *Saṃspraṣṭā rasān* means: *sa hi nityakālam eva rasānāṃ saṃspraṣṭā bhavati | athāsya karma rasādānam |* — because he is the cause of giving water, the essence, in the form of rain, the sun is named *pṛśni*. Or *saṃspraṣṭā bhāsaṃ jyotiṣām* — the light of the planets, stars, moon and the rest becomes dim through the surpassing light of the sun. Or *saṃspṛṣṭo bhāseti vā* — because he pervades everywhere with his radiance, *pṛśni* means the sun.
 
-> सुजातासो जनुषा पृश्निमातरो दिवो मर्या आ नो अच्छा जिगातन ॥ (ऋ. सं. [५-५७-३] [?])
-> *sujātāso januṣā pṛśnimātaro divo maryā ā no acchā jigātana ||* — "Well-born by birth, sons of Pṛśni, men of heaven, come to us."
+> स हि नित्यकालमेव रसानां संस्प्रष्टा भवति । अथास्य कर्म रसादानम् ।
+>
+> *sa hi nityakālameva rasānāṃ saṃspraṣṭā bhavati | athāsya karma rasādānam |*
 
-> उदीरयन्त वायुभिर्वाश्रासः पृश्निमातरः ॥ (ऋ. सं. [८-७-३] [?])
-> *udīrayanta vāyubhir vāśrāsaḥ pṛśnimātaraḥ ||* — "The sons of Pṛśni, roaring, have risen up with the winds."
+Further, *pṛśni* means *dyauḥ*. For *saṃspṛṣṭā jyotirbhiḥ puṇyakṛdbhiś ca* — because it is joined with light and with the doers of merit, *pṛśni* means *dyauḥ* (heaven).
 
-> उदु स्वानेभिरीरत उद्रथैरुदु वायुभिः । उत्सो उद्मे पृश्निमातरः [?] ॥ (ऋ. सं. [८-७-४?] [?])
-> *udu svānebhir īrata udrathair udu vāyubhiḥ | utso udme pṛśnimātaraḥ [?] ||* — "They rise with their sounds, with their chariots, with the winds … the sons of Pṛśni [the pāda is garbled in my reading]."
+### Page 180 — Rik 10: Special Topics (end)
 
-> अभि वृत्रस्य विष्टपं दुहते पृश्निमातरः ॥ (ऋ. सं. [८-९४-३?] [?])
-> *abhi vṛtrasya viṣṭapaṃ duhate pṛśnimātaraḥ ||* — "The sons of Pṛśni milk the vault of heaven [?]."
+This is Yāska's explanation; so it is fitting to accept the meaning that *pṛśni* is *dyauḥ*, heaven, the mid-air, and to say of the word *pṛśnimātaraḥ* that it means *divas putrāḥ*, those born in the mid-air.
 
-> स्वश्वाः स्थ सुरथाः पृश्निमातरः स्वायुधा मरुतो याथना शुभम् ॥ (ऋ. सं. [५-५७-१] [?])
-> *svaśvāḥ stha surathāḥ pṛśnimātaraḥ svāyudhā maruto yāthanā śubham ||* — "Well-horsed you are, well-chariotted, sons of Pṛśni, well-armed Maruts, you go in splendour."
+> यद्यूयं पृश्निमातरो मर्तासः स्यातन ॥ (ऋ० सं० १-३८-४)
+>
+> *yadyūyaṃ pṛśnimātaro martāsaḥ syātana || (ṛ0 saṃ0 1-38-4)*
 
-> कोपयथ पृथिवीं पृश्निमातरः शुभे यदुग्राः पृषतीरयुग्ध्वम् ॥ (ऋ. सं. [१-३८-९] [?])
-> *kopayatha pṛthivīṃ pṛśnimātaraḥ śubhe yad ugrāḥ pṛṣatīr ayugdhvam ||* — "You make the earth tremble, sons of Pṛśni, when, fierce, you yoke the spotted mares for splendour."
+When explaining the meaning of this ṛk, he has explained the word *pṛśnimātaraḥ* as *pṛśnināmakadhenuputrā marutaḥ* (the Maruts, sons of the cow named Pṛśni). On many occasions of praising the Marut deities the use of the word *pṛśnimātaraḥ* is seen in particular. So it can be freely said that a definite meaning of this word was current. We have given below the ṛks of the Ṛgveda in which this word is used —
 
-(The ṛk-numerals printed under these quotations are small and are given only as best read, marked [?].) Since in all these riks the word *pṛśnimātaraḥ* is explained as 'Maruts', it can be said that the word has been used in one fixed sense for these deities.
+> पृश्निनामकधेनुपुत्रा मरुतः ।
+>
+> *pṛśnināmakadhenuputrā marutaḥ |*
+
+> यद्यूयं पृश्निमातरो मर्तासः स्यातन ॥ (ऋ० सं० १-३८-४)
+> अर्चन्तो अर्कं जनयन्त इन्द्रियमधि श्रियो दधिरे पृश्निमातरः ॥ (ऋ० सं० १-८५-२)
+> पृषदश्वा मरुतः पृश्निमातरः शुभंयावानो विदथेषु जग्मयः ॥ (ऋ० सं० १-८९-७)
+> सुजातासो जनुषा पृश्निमातरो दिवो मर्या आ नो अच्छा जिगातन ॥ (ऋ० सं० ५-५९-६)
+> उदीरयन्त वायुभिर्वाश्रासः पृश्निमातरः ॥ (ऋ० सं० ८-७-३)
+> उदु स्वानेभिरीरत उद्रथैरुदु वायुभिः । उत्स्तोमैः पृश्निमातरः ॥ (ऋ० सं० ८-७-१७)
+> अभीमृतस्य विष्टपं दुहते पृश्निमातरः ॥ (ऋ० सं० ९-३४-५)
+> स्वश्वाः स्थ सुरथाः पृश्निमातरः स्वायुधा मरुतो याथना शुभं ॥ (ऋ० सं० ५-५७-२)
+> कोपयथ पृथिवीं पृश्निमातरः शुभे यदुग्राः पृषतीरयुग्ध्वं ॥ (ऋ० सं० ५-५७-३)
+>
+> *yadyūyaṃ pṛśnimātaro martāsaḥ syātana || (ṛ0 saṃ0 1-38-4)*
+> *arcanto arkaṃ janayanta indriyamadhi śriyo dadhire pṛśnimātaraḥ || (ṛ0 saṃ0 1-85-2)*
+> *pṛṣadaśvā marutaḥ pṛśnimātaraḥ śubhaṃyāvāno vidatheṣu jagmayaḥ || (ṛ0 saṃ0 1-89-7)*
+> *sujātāso januṣā pṛśnimātaro divo maryā ā no acchā jigātana || (ṛ0 saṃ0 5-59-6)*
+> *udīrayanta vāyubhirvāśrāsaḥ pṛśnimātaraḥ || (ṛ0 saṃ0 8-7-3)*
+> *udu svānebhirīrata udrathairudu vāyubhiḥ | utstomaiḥ pṛśnimātaraḥ || (ṛ0 saṃ0 8-7-17)*
+> *abhīmṛtasya viṣṭapaṃ duhate pṛśnimātaraḥ || (ṛ0 saṃ0 9-34-5)*
+> *svaśvāḥ stha surathāḥ pṛśnimātaraḥ svāyudhā maruto yāthanā śubhaṃ || (ṛ0 saṃ0 5-57-2)*
+> *kopayatha pṛthivīṃ pṛśnimātaraḥ śubhe yadugrāḥ pṛṣatīrayugdhvaṃ || (ṛ0 saṃ0 5-57-3)*
+
+*(Glosses of these quotations are not given in the source.)* We have given above all the ṛks in which the word *pṛśnimātaraḥ* is used. Since in these ṛks the word *pṛśnimātaraḥ* is explained as meaning the Maruts alone, it can freely be said that this word is used in a definite sense only with regard to these deities.
+
+### Page 181 (upper) — Rik 10: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पृश्निमातरः (pṛśnimātaraḥ)** — *pṛśniḥ mātā yeṣāṃ te*: the meaning of the analysis is those whose mother is the earth of many colours. The grammarians give the word *pṛśni* the meaning 'one of small body'; so by *pṛśnir alpatanau* (Amarakośa) this is how it results. But the Veda commentator has described the meaning here as the earth with many colours. This form is established from the root *spṛśa saṃsparśane*. By *ghṛṇipṛśnipārṣṇicūrṇibhūrṇi* (U. Sū. 4-52) — after *ghṛ kṣaraṇadīptyoḥ*, *spṛśa saṃsparśane*, *pṛṣu secane*, *cara gatau*, *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, the suffix *ni* comes, and some operations and the initial udātta are also given as set forms: this is the sense of the sūtra. In *ghṛṇi*, when the suffix *ni* comes after the root *ghṛ*, the absence of the *guṇa* that would be due by *sārvadhātuka…* is given as a set form, and by *ṛvarṇān nasya ṇatvaṃ vācyam*, *ṇ* comes for the *n*: it becomes *ghṛṇi*. When the suffix *ni* comes after the root *spṛś*, the dropping of the *s* belonging to the root and the absence of *guṇa* are given as set forms in this sūtra: so it becomes *pṛśni*. Likewise in *pārṣṇi* *vṛddhi*, in *cūrṇi* the substitute *ū* for the penultimate of the root, and in *bhūrṇi* *u* for the *ṛ* of the root are given as set forms, and those forms are established: so it is to be known. When the bahuvrīhi compound comes, by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member's own accent comes, and *pṛśni* stays initially udātta. ॥10॥
+
+*(An ornament follows. The header of p. 181 reads Varga 10.)*
 
 ---
 
