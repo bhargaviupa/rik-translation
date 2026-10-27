@@ -1,7 +1,7 @@
 # Vol 3 numeral + [?] + accent pass — state
 
 Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
-**Last PDF page done: 100** (batch PDF 1–100 done and logged Oct 27). Batch PDF 101–200 in progress: done through PDF 131 upper, printed p. 117 upper, end of Ṛk 22.15; edits in `review/edits_PDF101-200.txt`. Next: PDF 131 (p. 117 lower, Ṛk 22.16). Open from batch 1–100: small-type Uṇādi/paribhāṣā numbers left [?]; Pāṇini numbers read with doubt (bahuvrīhau "6-1-7" p. 77, na lokāvyaya "2-6-69" p. 80, devāt tal "5-4-27" p. 78, aniṭ-kārikā "7-2-10" p. 71); a few Saṃhitā marks [accent ?] (Ṛks 21.5, 22.4, 22.5, 22.6).
+**Last PDF page done: 100** (batch PDF 1–100 done and logged Oct 27). Batch PDF 101–200 in progress: done through PDF 136 upper, printed p. 122 upper, end of Ṛk 22.16; edits in `review/edits_PDF101-200.txt`. Next: PDF 136 (p. 122 lower, Ṛk 22.17). Open from batch 1–100: small-type Uṇādi/paribhāṣā numbers left [?]; Pāṇini numbers read with doubt (bahuvrīhau "6-1-7" p. 77, na lokāvyaya "2-6-69" p. 80, devāt tal "5-4-27" p. 78, aniṭ-kārikā "7-2-10" p. 71); a few Saṃhitā marks [accent ?] (Ṛks 21.5, 22.4, 22.5, 22.6).
 
 Rendering note: `view.py` crops the right edge of these scans; use full-page renders (pdftoppm at ~230 dpi cut into five strips) for reading, and `acc.py` for zooms.
 
