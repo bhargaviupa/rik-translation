@@ -8704,19 +8704,19 @@ O Indra! Make abundant food available to us; it must be easily obtainable for us
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Indra, the food is rendered abundant everywhere and easily obtainable; O wielder of thunderbolt, throw open, then the cow-fold and give us wealth.
+> O Indra, the food is rendered abundant everywhere and easily obtainable; O weilder [sic] of thunderbolt, throw open, then the cow-fold and give us wealth.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Suvivṛtam"** — for this word the Bhāṣyakāra says "*suṣṭhu sarvatra prastṛtam* — well spread out everywhere"; Skandasvāmī says "*suṣṭhu loke prakāśam* — well manifest in the world." The scholar Wilson renders it *rendered everywhere abundant*.
+**"Suvivṛtam"** — for this word the Bhāṣyakāra says **सुष्ठु सर्वत्र प्रसृतम्** (*suṣṭhu sarvatra prasṛtam*) — "well spread out everywhere"; Skandasvāmī says **सुष्ठु लोके प्रकाशम्** (*suṣṭhu loke prakāśam*) — "well available (manifest) in the world." The scholar Wilson renders it *rendered everywhere abundant*.
 
-**"Sunirajam"** — **सुखेन निःशेषं प्राप्तुं शक्यम्** (*sukhena niḥśeṣaṃ prāptuṃ śakyam*) — "that which can be obtained wholly with ease" says the Bhāṣyakāra; and Skandasvāmī explains: "*sunirajam | nir ity eṣa sīty etasya sthāne ajā-gati-kṣepaṇayoḥ | suniḥkṣepam | yatra yatra viniyoktum iṣyate tatra tatra prabhūtatvāt suviniyojam ity arthaḥ*" ["*nir*" here is for *sī*; the root *aja* in the senses of going and throwing: that which can be freely thrown; wherever it is wished to apply it, there, because it is abundant, it is well applicable: this is the sense; the Sanskrit is partly compressed]. That is: what can be obtained easily, being spread everywhere, is easily to be found.
+**"Sunirajam"** — **सुखेन निःशेषं प्राप्तुं शक्यम्** (*sukhena niḥśeṣaṃ prāptuṃ śakyam*) — "that which can be obtained wholly with ease" says the Bhāṣyakāra; and Skandasvāmī explains: **सुनिरजम् । निरित्येष नीत्येतस्य स्थाने । अज गतिक्षेपणयोः । सुनिक्षेपम् । यत्र यत्र विनियोक्तुमिष्यते तत्र तत्र प्रभूतत्वात्सुविनियोजमित्यर्थः ॥** (*sunirajam | nirityeṣa nītyetasya sthāne | aja gatikṣepaṇayoḥ | sunikṣepam | yatra yatra viniyoktumiṣyate tatra tatra prabhūtatvātsuviniyojamityarthaḥ ||*) — "*sunirajam*: *nir* here stands for *ni*; root *aja* in the sense of going and throwing; *sunikṣepam*, 'easily laid down': wherever one wishes to apply it, there, because it is abundant, it is easily applied." That is: what can be obtained easily, being spread everywhere, is easily to be found.
 
-**"Tvādātam"** — "purified by you" (*tvayā śodhanena viśadīkṛtam*), says the Bhāṣyakāra; Skandasvāmī gives *tvayā dattam* — "given by you." The Bhāṣyakāra takes the root *dāp śodhane* — *(the page breaks off here; the Special Topics continue on p. 416)*.
+**"Tvādātam"** — "purified by you" (*tvayā śodhanena viśadīkṛtam*), says the Bhāṣyakāra; Skandasvāmī gives *tvayā dattam* — "given by you." The Bhāṣyakāra takes the root *daip śodhane* — *(the page breaks off here; the Special Topics continue on p. 416)*.
 
 ### Page 416 — Rik 7: Special Topics (continued)
 
-*(Continuing "**Tvādātam**":)* … *dāp śodhane*: "by the rule *ādeca upadeśe 'śiti* (Pā. 6-1-45 [?]), taking the form of a different root, he explains it" — "purified by you, made clear," as the Bhāṣyakāra explains. According to Skandasvāmī's explanation, *tvādātam* is *tvayā dattam*, "given by you." The sense in the end is one, though the derivation of the word differs. The word *tvādātam* occurs not only in this rik but in Ṛgveda Saṃhitā 3-40-? [?], 8-?-?; the word *tvādattaḥ* occurs at Ṛgveda Saṃhitā 8-?-? [?], and *tvādatrebhiḥ* at 3-?-? [?] *(the mantra numbers are compressed in the scan and are all marked [?])*. *(See also the explanation of the word* adrivaḥ *in this rik.)*
+*(Continuing "**Tvādātam**":)* … *dāp śodhane*: "*daip śodhane* takes the form *dāp* by the rule *ādeca upadeśe 'śiti* (Pā. 6-1-45), and he explains it accordingly" — "purified by you, made clear," as the Bhāṣyakāra explains. According to Skandasvāmī's explanation, *tvādātam* is *tvayā dattam*, "given by you." The sense in the end is one, though the derivation of the word differs. The word *tvādātam* occurs not only in this rik but in Ṛ. Saṃ. 3-40-6, 5-6-10 and 5-39-1; the word *tvādattaḥ* at Ṛ. Saṃ. 8-92-18, and *tvādatrebhiḥ* at Ṛ. Saṃ. 2-33-2. *(See also the explanation of the word* adrivaḥ *in this rik.)*
 
 **"Yaśaḥ"** — since *yaśaḥ* is read among the twenty-eight words for food beginning with *andhaḥ*, *vājaḥ*, here *yaśaḥ* means food.
 
@@ -8724,18 +8724,18 @@ O Indra! Make abundant food available to us; it must be easily obtainable for us
 
 **"Vrajam"** — *goṣṭham*, or *gavāṃ nivāsasthānam* — "the cowshed, or the dwelling-place of cows": the cow-pen where cows are kept; *cow fold* [the source's own English].
 
-Here the word *yaśaḥ* is taken by some as "water" (Nirukta 1-12 [?]), and *vraja* and *adri* as "cloud" (Nirukta 1-10 [?]); on that sense the meaning would run: "scatter the mass of clouds and make rain come, and so give us water" — which is also reasonable. Wilson, too, gives a similar sense: "the text is literally rendered: the meaning being that Indra as the sender of rain should fertilize the fields, and by providing abundant pasturage enable the cattle to yield store of milk" [the source's own English], supporting this view.
+Here the word *yaśaḥ* is taken as "water" (Ni. 2-24 as printed), and *vraja* and *adri* as "cloud" (Ni. 2-21 as printed); on that sense the meaning would run: "scatter the mass of clouds and make rain come, and so give us water" — which is also reasonable. Wilson, too, gives a similar sense: "the text is literally rendered: the meaning being that Indra as the sender of rain should fertilize the fields, and by providing abundant pasturage enable the cattle to yield store of milk" [the source's own English], supporting this view.
 
-**"Adrivaḥ"** — **अद्रिर्वज्रम् । तदस्यास्तीति** (*adrir vajram | tad asyāstīti*) — "*adri* means the thunderbolt-weapon; so *adrivān* means 'one bearing the thunderbolt.'" Since in the Nirukta *adri* is explained as "mountain," the Bhāṣyakāra says "*parvatopalakṣita-vajra-yukta*" — "armed with the thunderbolt characterized by the mountain." Besides, the word *adri* has the name "cloud" (Nirukta 1-10 [?]), and Yāska:
+**"Adrivaḥ"** — **अद्रिर्वज्रम् । तदस्यास्तीति** (*adrir vajram | tad asyāstīti*) — "*adri* means the thunderbolt-weapon; so *adrivān* means 'one bearing the thunderbolt.'" Since in the Nirukta *adri* is explained as "mountain," the Bhāṣyakāra says "*parvatopalakṣita-vajra-yukta*" — "armed with the thunderbolt characterized by the mountain." Besides, the word *adri* has the name "cloud" (Ni. 2-21), and Yāska,
 
 > यदिन्द्र चित्र मेहनास्ति त्वादातमद्रिवः ।
 > राधस्तन्नो विदद्वस उभयाहस्त्या भर ॥
 > *yad indra citra mehanāsti tvādātam adrivaḥ |*
 > *rādhas tan no vidadvasa ubhayāhastyā bhara ||*
-> (Ṛgveda Saṃhitā 3-?-1 [?]; the source's number reads "३-१४-१" [?])
-> *("O wondrous Indra, whatever wealth there is given by you, O wielder of the stone, that wealth, O finder of wealth, bring to us with both hands." — my gloss, tentative; the second line is read from compressed print.)*
+> (ऋ. सं. ५-३९-१ — Ṛgveda Saṃhitā 5-39-1)
+> *("O wondrous Indra, whatever wealth there is, given by you, O wielder of the stone — that wealth, O finder of wealth, bring to us with both hands." — mine and tentative.)*
 
-— in explaining this rik, he says: "*adrivān* — *adri* is *ādṛṇa* [or *ādaraṇa*]" and gives to *adrivaḥ* the sense "O thunderbolt-bearer" and to *tvādātam* the sense *tvayā nastad dātavyam* ("that which is to be given to us by you"). Therefore the explanations of these two words, *adrivān* and *tvādātam*, which Yāska has given are to be accepted. *(The Devanagari of the Yāska quotation above is a best reading from compressed print.)*
+— in explaining this rik, he says **अद्रिवन् । अद्रिरादृणात्येतेन** (*adrivan | adrir ādṛṇāty etena*) — "*adri* [is so called] because one splits with it" — giving *adrivaḥ* the sense "O thunderbolt-bearer" (*he vajrin*), and to *tvādātam* the sense **त्वया नस्तद्दातव्यम्** (*tvayā nas tad dātavyam*), "that is to be given to us by you." Therefore Yāska's explanations of these two words, *adrivan* and *tvādātam*, are to be accepted.
 
 ### Pages 417–422 — Rik 7 grammar
 
