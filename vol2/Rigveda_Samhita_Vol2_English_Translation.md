@@ -5165,7 +5165,7 @@ The meaning of this Ṛk is not plain either. The names of the Maruts are not in
 
 ### Page 228 — Rik 6.5: Bhāvārtha; English rendering; Special topics (opening) — the legend of Saramā and the Paṇis
 
-*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 6." Kannada prose translated; English as printed; the reference numbers in small Kannada numerals are marked [?].)*
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 2, Sūkta 6." Kannada prose translated; English as printed; references re-read from the better scan.)*
 
 **॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
 
@@ -5177,11 +5177,11 @@ The Marut-deities are of very great capacity. They are able to break and destroy
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The Bhāṣyakāra cites here a legend (upākhyāna). The demons called Paṇi carried off cows that were in the world of the gods, and hid them in the cave of a mountain. To find them, Indra sent a divine bitch ("deva-śunī") called **Saramā**. That bitch went to the Paṇis and, by good words and by friendship, helped to bring back the cows. With the help of the Maruts Indra, destroying the cave, brought back the cows that were there — so it is said in the legend. In the 108th [?] sūkta of the tenth Maṇḍala of the Ṛgveda Saṃhitā there is a long conversation between the divine bitch Saramā and the demons called Paṇi. We shall describe this matter at length, further on, when we explain the subject of "*paṇineva gāvaḥ*" in the Ṛk Ṛ. Saṃ. 1-32-11 [?].
+The Bhāṣyakāra cites here a legend (upākhyāna). The demons called Paṇi carried off cows that were in the world of the gods, and hid them in the cave of a mountain. To find them, Indra sent a divine bitch ("deva-śunī") called **Saramā**. That bitch went to the Paṇis and, by good words and by friendship, helped to bring back the cows. With the help of the Maruts Indra, destroying the cave, brought back the cows that were there — so it is said in the legend. In the 108th sūkta of the tenth Maṇḍala of the Ṛgveda Saṃhitā there is a long conversation between the divine bitch Saramā and the demons called Paṇi. We shall describe this matter at length, further on, when we explain the subject of "*paṇineva gāvaḥ*" in the Ṛk Ṛ. Saṃ. 1-32-11.
 
-**वीळु (vīḷu)** — Among the twenty-eight words that are signs of strength, beginning with "ojaḥ," the words "dakṣaḥ," "vīḷu" and "jyaitram" are read (Ni. 2-[?]). The senses of this word: strong, firm, solid, fearless.
+**वीळु (vīḷu)** — Among the twenty-eight words that are signs of strength, beginning with "ojaḥ," the words "dakṣaḥ," "vīḷu" and "cyautnam" are read (Ni. 3-9 [as printed]). The senses of this word: strong, firm, solid, fearless.
 
-**चित् (cit)** — "eva" (emphasis). **आरुजत्नुभिः (ārujatnubhiḥ)** — "bhañjadbhiḥ" — "those who have the capacity to break, to destroy." **वह्निभिः (vahnibhiḥ)** — "voḍhṛbhiḥ" — those who carry, those who bear. **गुहा (guhā)** — in a cave, in a place that no one knows, in a solitary place, in a hidden spot; this word is generally used in the seventh case in the sense of "in a cave": "*guhā hitaṃ guhyaṃ gūḷhaṃ*" (गुहा हितं गुह्यं गूळ्हं — "placed in a cave, secret, hidden," ṛ. saṃ. 3-[?]-[?] [?]) and so on. **उस्रियाः (usriyāḥ)** — among the nine words that signify cows beginning with "aghnyā," the word "usriyāḥ" is read (Ni. 2-[?]).
+**चित् (cit)** — "eva" (emphasis). **आरुजत्नुभिः (ārujatnubhiḥ)** — "bhañjadbhiḥ" — "those who have the capacity to break, to destroy." **वह्निभिः (vahnibhiḥ)** — "voḍhṛbhiḥ" — those who carry, those who bear. **गुहा (guhā)** — in a cave, in a place that no one knows, in a solitary place, in a hidden spot; this word is generally used in the seventh case in the sense of "in a cave": "*guhā hitaṃ guhyaṃ gūḷhaṃ*" (गुहा हितं गुह्यं गूळ्हं — "placed in a cave, secret, hidden," ṛ. saṃ. 2-11-5) and so on. **उस्रियाः (usriyāḥ)** — among the nine words that signify cows beginning with "aghnyā," the word "usriyāḥ" is read (Ni. 3-9 [as printed]).
 
 ### Page 229 — Vyākaraṇa-prakriyā for Rik 6.5 (Kannada) — characterized
 
