@@ -7630,13 +7630,12 @@ O Indra! Your jaws (or nose) are most handsome. Such as you are, be satisfied wi
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे इन्द्र ते गिरस्त्वदीयाः स्तुतीरसृग्रं सृष्टवानस्मि । ताश्च गिरः स्वर्गे ऽवस्थितं त्वां प्रत्युदहासत । उद्गत्य प्राप्नुवन् । ताद्दृशीर्गिरस्त्वमजोषाः । सेवितवानसि [?] । कीदृशं त्वाम् । वृषभं कामानां वर्षितारं पतिं सोमस्य पातारं यजमानानां पालयितारं वा । पाता वा पालयिता वा । नि. ४-३-६ [?] । इति यास्केनोक्तत्वात् । असृग्रम् । असृजम् । सृज विसर्गे । लुङ्... [grammar of *asṛgram*, *giraḥ*, *ahāsata*, *ajoṣāḥ*, *vṛṣabham*, *patim*: noted briefly below]
+> हे इन्द्र ते गिरस्त्वदीयाः स्तुतीरसृग्रम् । सृष्टवानस्मि । ताश्च गिरः स्वर्गेऽवस्थितं त्वां प्रत्युदहासत । उद्गत्य प्राप्नुवन् । तादृशीर्गिरस्त्वमजोषाः । सेवितवानसि । कीदृशं त्वाम् । वृषभं कामानां वर्षितारं पतिं सोमस्य पातारं यजमानानां पालयितारं वा । पाता वा पालयिता वा । नि. ४-२६ । इति यास्केनोक्तत्वात् ॥ असृग्रम् । असृजम् । सृज विसर्गे । लङो मिप् । तुदादिभ्यः शः । पा. ३-१-७७ । बहुलं छन्दसि । पा. ७-१-८ । इत्यत्र विकरणस्य रुडागमः । जकारस्य गकारः । लुङ्लङ्लृङ्क्ष्वडुदात्त इत्यडागम उदात्तः । सति शिष्टत्वात्स एव शिष्यते । गिरः । प्रातिपदिकस्वरः । अहासत । ओहाङ् गतौ । लुङ् । झस्यादादेशः । पा. ७-१-५ । च्लेः सिच् । पा. ३-१-४४ । अडागमो निघातश्च । अजोषाः । जुषी प्रीतिसेवनयोः । लङस्थास् । तुदादिभ्यः शः । तस्य छन्दस्युभयथा । पा. ३-४-११७ । इत्यार्धधातुकत्वेन ङित्त्वाभावाल्लघूपधगुणः । थासस्थकारलोपश्छान्दसः । सवर्णदीर्घः । अडागमः । सति शिष्टत्वादुदात्तः शिष्यते । वृषभम् । ऋषु वृषु मृषु सेचने । अभिरित्यनुवृत्तौ वृषिवृषिभ्यां कित् । उ. ३-१२३ । इत्यभच्प्रत्ययः । कित्त्वाद्गुणाभावः । चित्त्वादन्तोदात्तः । पतिम् । पा रक्षणे । पातेर्डतिः । उ. ४-५७ । डित्त्वाट्टिलोपः । प्रत्ययाद्युदात्तत्वम् ॥
 >
-> *he indra te giras tvadīyāḥ stutīr asṛgraṃ sṛṣṭavān asmi | tāś ca giraḥ svarge 'vasthitaṃ tvāṃ pratyud ahāsata | udgatya prāpnuvan | tādṛśīr giras tvam ajoṣāḥ | sevitavān asi [?] | kīdṛśaṃ tvām | vṛṣabhaṃ kāmānāṃ varṣitāraṃ patiṃ somasya pātāraṃ yajamānānāṃ pālayitāraṃ vā | pātā vā pālayitā vā | ni. 4-3-6 [?] | iti yāskenoktatvāt | asṛgram | asṛjam | sṛja visarge | luṅ ...*
+> *he indra te giras tvadīyāḥ stutīr asṛgram | sṛṣṭavān asmi | tāś ca giraḥ svarge 'vasthitaṃ tvāṃ praty ud ahāsata | udgatya prāpnuvan | tādṛśīr giras tvam ajoṣāḥ | sevitavān asi | kīdṛśaṃ tvām | vṛṣabhaṃ kāmānāṃ varṣitāraṃ patiṃ somasya pātāraṃ yajamānānāṃ pālayitāraṃ vā | pātā vā pālayitā vā | ni. 4-26 | iti yāskenoktatvāt || asṛgram | asṛjam | sṛja visarge | laṅo mip | tudādibhyaḥ śaḥ | pā. 3-1-77 | bahulaṃ chandasi | pā. 7-1-8 | ity atra vikaraṇasya ruḍ-āgamaḥ | jakārasya gakāraḥ | luṅ-laṅ-lṛṅkṣv aḍ udātta ity aḍāgama udāttaḥ | sati śiṣṭatvāt sa eva śiṣyate | giraḥ | prātipadika-svaraḥ | ahāsata | ohāṅ gatau | luṅ | jhasyād-ādeśaḥ | pā. 7-1-5 | cleḥ sic | pā. 3-1-44 | aḍāgamo nighātaś ca | ajoṣāḥ | juṣī prīti-sevanayoḥ | laṅas thās | tudādibhyaḥ śaḥ | tasya chandasy ubhayathā | pā. 3-4-117 | ity ārdhadhātukatvena ṅittvābhāvāl laghūpadha-guṇaḥ | thāsas thakāra-lopaś chāndasaḥ | savarṇa-dīrghaḥ | aḍāgamaḥ | sati śiṣṭatvād udāttaḥ śiṣyate | vṛṣabham | ṛṣu vṛṣu mṛṣu secane | abhir ity anuvṛttau vṛṣi-vṛṣibhyāṃ kit | u. 3-123 | ity abhac-pratyayaḥ | kittvād guṇābhāvaḥ | cittvād antodāttaḥ | patim | pā rakṣaṇe | pāter ḍatiḥ | u. 4-57 | ḍittvāṭ ṭi-lopaḥ | pratyayādyudāttatvam ||*
 
-**Translation:** "O Indra! I have sent forth — created, composed — those speeches, *giraḥ*, of yours — your hymns. And those words *ud ahāsata* — rose up, went up and reached — you *prati* — you who are stationed in heaven. [You, being such,] *ajoṣāḥ*: take pleasure in such speeches [the Sanskrit says *sevitavān asi*; the Kannada word-meaning reads it as the imperative 'be pleased']. What kind of you? *Vṛṣabham* — the showerer of desires; *patim* — the drinker of Soma, or the protector of sacrificers: '*pātā vā pālayitā vā*' (Nirukta, as Yāska states). *Asṛgram* — I have made (*asṛjam*), from *sṛja visarge*, 'to let go.'"
+**Translation:** "O Indra! I have sent forth — created, composed — those speeches, *giraḥ*, of yours — your hymns. And those words *ud ahāsata* — rose up, went up and reached — you *prati* — you who are stationed in heaven. [You, being such,] *ajoṣāḥ*: you have taken pleasure in (*sevitavān asi*, have enjoyed) such speeches (the Kannada word-meaning renders it 'be pleased'). What kind of you? *Vṛṣabham* — the showerer of desires; *patim* — the drinker of Soma, or the protector of sacrificers: '*pātā vā pālayitā vā*' (Ni. 4-26), as Yāska states. *Asṛgram* — I have made (*asṛjam*), from *sṛja visarge*, 'to let go.'" The grammar (characterized): "asṛgram" — "laṅ," "mip," "śa" (3-1-77), the augment "ruṭ" by "bahulaṃ chandasi" (7-1-8), "g" for "j"; the augment "aṭ" acute; "ahāsata" — "ohāṅ gatau," "luṅ," "at" for "jha" (7-1-5), "sic" (3-1-44), nighāta; "ajoṣāḥ" — "juṣī," "laṅ," "thās," "śa" treated as ārdhadhātuka (3-4-117), so guṇa; loss of "th" Vedic; "vṛṣabham" — "abhac" (Uṇ. 3-123), end-acute; "patim" — "ḍati" (Uṇ. 4-57), first-syllable acute.
 
-*(The remaining Sanskrit grammar of this rik is noted briefly below.)*
 
 **॥ Prati-padārthaḥ ॥**
 
@@ -7660,17 +7659,17 @@ O Indra! I have composed and sung praises in your honour. May those praises, joi
 
 **"Ajoṣāḥ"** — **जुषी प्रीतिसेवनयोः** (*juṣī prīti-sevanayoḥ*) — "may the praises serve you": that is, "be pleased by the praises."
 
-**"Patim"** — **सोमस्य पातारम् । यजमानानां पालयितारं वा** (*somasya pātāram | yajamānānāṃ pālayitāraṃ vā*) — since the root *pā* means to drink or to protect, *patim* can be explained as "one who drinks Soma" or "one who protects the sacrificers." Yāska explains: **पाता वा पालयिता वा** (*pātā vā pālayitā vā*; Nirukta 4-3-6 [?]). The *Vedārtha-yatna* author renders *patim* as "husband" (*gaṇḍa*); this sense does not fit here. *Patim* may be said to mean "lord" (*svāmi*).
+**"Patim"** — **सोमस्य पातारम् । यजमानानां पालयितारं वा** (*somasya pātāram | yajamānānāṃ pālayitāraṃ vā*) — since the root *pā* means to drink or to protect, *patim* can be explained as "one who drinks Soma" or "one who protects the sacrificers." Yāska explains: **पाता वा पालयिता वा** (*pātā vā pālayitā vā*; Ni. "4-2-6" as printed, i.e. 4-26). The *Vedārtha-yatna* author renders *patim* as "husband" (printed "hnsband" [sic]; Kannada *gaṇḍa*); this sense does not fit here. *Patim* may be said to mean "lord" (*svāmi*).
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 357–358, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 357–358, Kannada; page header p. 357 "A. 1, A. 1, Va. 18"; numbers as printed)*
 
-**असृग्रम् (*asṛgram*)** — root *sṛja visarge*, *luṅ* parasmaipada first singular *mip*; *am* in place of the ending by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. 3-4-101 [?]) [the source cites the Vedic *ām* here]; *śa* (the *śa*-vikaraṇa) of the tudādi class by "tudādibhyaḥ śaḥ" (Pā. 3-1-77 [?]); the augment *ruṭ* by "bahulaṃ chandasy" (Pā. 7-1-8 [?]); *sṛj + ra + am*; *j* → *g* by "coḥ kuḥ" (Pā. 8-2-30 [?]); the augment *aṭ* (*lūṅ-laṅ-lṛṅ-kṣv aḍudāttaḥ*, Pā. 6-4-71 [?]) is udātta and attaches to the root; *a* + *sṛg* + *ra* + *am* with *pūrvarūpa* → *asṛgram*; since the root is *śit*, the accent of the *aṭ* augment stands. **गिरः (*giraḥ*)** — base accent. **अहासत (*ahāsata*)** — root *ohāṅ gatau* ("to go") with *luṅ*; the third-person plural ātmanepada *jha* → *ata*... *(the printed page breaks off here; the grammar continues on p. 358.)* *(Sūtra numbers read from small print; pointers only.)*
+**असृग्रम् (*asṛgram*)** — root *sṛja visarge*, "laṅ" (printed so) parasmaipada first person "mip"; *am* in its place by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (पा. सू. ३-४-१०१); *śa* (the *śa*-vikaraṇa) of the tudādi class by "tudādibhyaḥ śaḥ" (पा. सू. ३-१-७७); the augment *ruṭ* by "bahulaṃ chandasy" (पा. सू. ७-१-८); *sṛj + ra + am*; *j* → *g* by "coḥ kuḥ" (पा. सू. ८-२-३०); the augment *aṭ* (*luṅ-laṅ-lṛṅkṣv aḍ udāttaḥ*, पा. सू. ६-४-७१) is udātta and attaches to the root; *a* + *sṛg* + *ra* + *am* with *pūrvarūpa* → *asṛgram*; the acute of the augment "aṭ," taught later, stays. **गिरः (*giraḥ*)** — base accent. **अहासत (*ahāsata*)** — root *ohāṅ gatau* ("to go") with *luṅ*; the third-person plural ātmanepada *jha*; **आत्मनेपदेष्वनतः** (पा. सू. ७-१-५) … *(continues on p. 358)*
 
 ### Page 358 — Rik 4 grammar closes; Sūkta 9, Rik 5 text
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(Kannada; numbers as printed)*
 
-Closing the grammar of Rik 4: **अहासत (*ahāsata*)** — the *a* of the *ātmanepada* ending *jha* is replaced by *at*; the *cli* suffix after the root by "cli luṅi" (Pā. 3-1-43 [?]); in its place *sic* by "cleḥ sic" (Pā. 3-1-44 [?]); the augment *aṭ*; so *ahāsata*; the finite verb is wholly unaccented (Pā. 8-1-28 [?]). **अजोषाः (*ajoṣāḥ*)** — root *juṣī prītisevanayoḥ* with *luṅ*-type form; the ātmanepada middle-second singular *thās*; the *śa*-vikaraṇa of the tudādi class (Pā. 3-1-77 [?]), which takes the technical status of *ārdhadhātuka* by "chandasy ubhayathā" (Pā. 3-4-117 [?]) and so is not *ṅit*; hence no guṇa-prohibition by "kṅiti ca" (Pā. 1-1-5 [?]); *puganta-laghūpadhasya ca* (Pā. 7-3-86 [?]) gives *guṇa*; the *th* of *thās* dropped by Vedic license; *joṣ* + *ās* gives a *savarṇa-dīrgha* (Pā. 6-1-101 [?]), *joṣās*; the *aṭ* augment is udātta, and, as the verb has the *śit* marker, that accent stands; *ru*-and-visarga give *ajoṣāḥ*. **वृषभम् (*vṛṣabham*)** — from the Uṇādi sūtra on *ṛṣivṛṣibhyāṃ kit* (Uṇ. 3-[?]) the word *abhac* is carried over: after the roots *ṛṣi* and *vṛṣi* the suffix *abhac* arises, with *kit* force, so no *laghūpadha-guṇa*; *vṛṣ* + *abha* → *vṛṣabha*; the suffix is *cit*, so final-udātta (Pā. 6-1-163 [?]). **पतिम् (*patim*)** — root *pā rakṣaṇe*; *pāter ḍatiḥ* (Uṇ. 4-[?]) — after *pā* in the sense of protecting, the suffix *ḍati*; *ḍit*, so the *ā* of *pā* (the *ṭi*) is dropped; initial-udātta by the suffix. *(Sūtra numbers read from small print; pointers only.)*
+Closing the grammar of Rik 4: **अहासत (*ahāsata*)** — the *a* of the *ātmanepada* ending *jha* is replaced by *at*; the *cli* suffix after the root by "cli luṅi" (पा. सू. ३-१-४३); in its place *sic* by "cleḥ sic" (पा. सू. ३-१-४४); the augment *aṭ*; so *ahāsata*; the finite verb is wholly unaccented (पा. सू. ८-१-२८). **अजोषाः (*ajoṣāḥ*)** — root *juṣī prītisevanayoḥ* with "laṅ"; the ātmanepada middle-second singular *thās*; the *śa*-vikaraṇa of the tudādi class (पा. सू. ३-१-७७), which takes the technical status of *ārdhadhātuka* by "chandasy ubhayathā" (पा. सू. ३-४-११७) and so is not *ṅit*; hence no guṇa-prohibition by "kṅiti ca" (पा. सू. १-१-५); *puganta-laghūpadhasya ca* (पा. सू. ७-३-८६) gives *guṇa*; the *th* of *thās* dropped by Vedic license; *joṣ* + *ās* gives a *savarṇa-dīrgha* (पा. सू. ६-१-१०१), *joṣās*; the augment "aṭ" is acute, and that accent, taught later, stays; *ru*-and-visarga give *ajoṣāḥ*. **वृषभम् (*vṛṣabham*)** — **ऋषिवृषिभ्यां कित्** (उ. सू. ३-४०६ [?], as printed), with "abhac" carried from **कॄशॄशलिकलिगर्दिभ्योऽभच्** (उ. सू. ३-४०५ [?]): after the roots *ṛṣi* and *vṛṣi* the suffix *abhac* arises, with *kit* force, so no *laghūpadha-guṇa*; *vṛṣ* + *abha* → *vṛṣabha*; the suffix is *cit*, so final-udātta (पा. सू. ६-१-१६३). **पतिम् (*patim*)** — root *pā rakṣaṇe*; **पातेर्डतिः** (उ. सू. ४-४९८ [?], the figures unclear) — after *pā* in the sense of protecting, the suffix *ḍati*; *ḍit*, so the *ā* of *pā* (the *ṭi*) is dropped; initial-udātta by the suffix.
 
 **॥४॥**
 
@@ -7678,13 +7677,15 @@ Closing the grammar of Rik 4: **अहासत (*ahāsata*)** — the *a* of th
 
 ### Page 358 — Sūkta 9, Rik 5
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सं चोदय चित्रमर्वाग्राध इन्द्र वरेण्यम् ।
-> असदित्ते विभु प्रभु ॥५॥
+> सं चो॑दय चि॒त्रम॒र्वाग्राध॑ इन्द्र॒ वरे॑ण्यम् ।
+> अस॒दित्ते॑ वि॒भु प्र॒भु ॥५॥
 >
-> *saṃ codaya citram arvāg rādha indra vareṇyam |*
-> *asad it te vibhu prabhu ||5||*
+> *sáṃ codaya citrám arvā́g rā́dha indra váreṇyam |*
+> *asad ít te vibhú prabhú ||5||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
