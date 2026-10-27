@@ -7721,13 +7721,13 @@ O Indra! Make the choice and varied wealth available to us. For with you there i
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Saṃ codeya"** — "impel the wealth": that is, bestow it so that it comes to us; give the wealth.
+**"Saṃ codaya"** — "impel the wealth": that is, bestow it so that it comes to us; give the wealth.
 
 **"Citram"** — "of various kinds": that is, wealth consisting of goods, cows, animals, houses, sons and grandsons, and so on, of many kinds.
 
 **"Arvāk"** — "facing us": that is, so that it is easily obtained by us, in front of us.
 
-**"Rādhaḥ"** — among the twenty-eight words for wealth beginning with *magham*, the words *rāyaḥ* and *rādhaḥ* are read (Nirukta 3-9 [?]); therefore *rādhaḥ* means wealth.
+**"Rādhaḥ"** — among the twenty-eight words for wealth beginning with *magham*, the words *rāyaḥ* and *rādhaḥ* are read (Ni. 3-9); therefore *rādhaḥ* means wealth.
 
 **"Vareṇyam"** — choicest, excellent, of great value.
 
@@ -7735,23 +7735,25 @@ O Indra! Make the choice and varied wealth available to us. For with you there i
 
 **"Vibhu," "prabhu"** — **भोगाय यावत्पर्याप्तं तावद्विभुशब्देनोच्यते** (*bhogāya yāvat paryāptaṃ tāvad vibhu-śabdenocyate*) — "as much as suffices for enjoyment is called by the word *vibhu*": that is the meaning of *vibhu*: "sufficient." *Prabhu* means "much more than sufficient for wealth." Skandasvāmī explains *prabhu* as *prabhūtam* — "abundant, very much."
 
-**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 360–361, noted briefly)*
+**॥ Vyākaraṇa-prakriyā ॥** *(pp. 360–361, Kannada; page header p. 361 "A. 1, A. 1, Va. 18"; numbers as printed)*
 
-**चोदय (*codaya*)** — root *cuda preraṇe*; the suffix *ṇic* "hetumati ca" (Pā. 3-1-26 [?]); from the *ṇic*-ending root, *loṭ* parasmaipada second singular *sip*; *śap* (Pā. 3-1-68 [?]); *cud + i + a + si*; *ṇic* as the cause gives *laghūpadha-guṇa*; *guṇa* from the *śap* (Pā. 7-3-84 [?]); *ay* replaces *e* before the vowel; *si* → *hi* (Vārttika on Pā. 3-4-87 [?]); the *hi* dropped by "ato heḥ" (Pā. 6-4-105 [?]); finite verb wholly unaccented (Pā. 8-1-28 [?]). **राधः (*rādhaḥ*)** — *rādhnuvanty anena iti rādhaḥ*, "wealth": by the Uṇādi "sarvadhātubhyo 'sun" (Uṇ. 4-188 [?]) the *asun* suffix after *rādha*; *asun* is *nit*, so initial-udātta. **वरेण्यम् (*vareṇyam*)** — root *vṛñ varaṇe* ("to choose") with *eṇya* (Uṇ. 3-[?]); *guṇa* by "sārvadhātukārdhadhātukayoḥ" gives *vareṇya*; since it belongs to the *vṛṣādi* class, initial-udātta (Pā. 6-1-203 [?]). **असत् (*asat*)** — *as bhuvi*; *leṭ* in place of *laṭ*, *tip* for *tiṅ*, the final *i* dropped (Pā. 3-4-97 [?]); the augment *aṭ* by "leṭo 'ḍāṭau" (Pā. 3-4-94 [?]); *as* + *aṭ* = *asat*; *śap* dropped by "ādiprabhṛtibhyaḥ śapaḥ" (Pā. 2-4-72 [?]); augments are unaccented (Pari. Bhā. 3-1-2 [?]); *aṭ* is unaccented; the root *as* retains its accent. **विभु (*vibhu*)** — "that which is": *vi-bhavatīti vibhu*; the sūtra "vi-pra-sambhyo ḍvasaṃjñāyām" (Pā. 3-2-180 [?]) gives the suffix *ḍu* after *bhū* when a name is meant; by "ṭeḥ" (Pā. 6-4-143 [?]) the *ū* is dropped; the suffix *u* is udātta; "gati-kāraka-upapadāt kṛt" (Pā. 6-2-139 [?]) leaves the same accent in the compound; likewise *prabhu*. *(Sūtra numbers read from small print; pointers only.)*
+**चोदय** — "cuda preraṇe": **हेतुमति च** (पा. सू. ३-१-२६) "ṇic"; after the "ṇic"-ended root, "loṭ," parasmaipada second singular "sip"; **कर्तरि शप्** (पा. सू. ३-१-६८): "cud + i + a + si"; guṇa of the light penultimate before "ṇic," and, before "śap," guṇa by **सार्वधातुकार्धधातुकयोः** (पा. सू. ७-३-८४): "code + a + si"; "ay" for "e"; **सेर्ह्यपिच्च** (printed "वा. सू. १-४-८७," i.e. 3-4-87) "hi" for "si"; **अतो हेः** (पा. सू. ६-४-१०५) "luk" of "hi"; wholly unaccented by **तिङ्ङतिङः** (पा. सू. ८-१-२८).
 
-**॥५॥**
+**राधः** (p. 361) — "rādhnuvanty anena iti rādhaḥ dhanam": **सर्वधातुभ्योऽसुन्** (उ. सू. ४-६२८ [?], as printed; the Bhāṣya gave "उ. ४-१८८") "asun" after "rādh"; "n"-marked, first-syllable acute. **वरेण्यम्** — **वृञ एण्यः** (उ. सू. ३-३२८ [?], as printed) "eṇya" after "vṛñ varaṇe"; guṇa by "sārvadhātukārdhadhātukayoḥ" (पा. सू. ७-३-८४): "vareṇya"; as of the vṛṣādi class, first-syllable acute by **वृषादीनां च** (पा. सू. ६-१-२०३). **असत्** — "asa bhuvi," "leṭ," "tip"; **इतश्च लोपः परस्मैपदेषु** (पा. सू. ३-४-९७) loss of the "i"; **लेटोऽडाटौ** (पा. सू. ३-४-९४) the augment "aṭ": "as + at = asat"; "śap" elided by **अदिप्रभृतिभ्यः शपः** (पा. सू. २-४-७२); **आगमा अनुदात्ताः** (printed "पा. म. ३-१-३-२") — the augment "aṭ" unaccented; "as" end-acute by **धातोः** (पा. सू. ६-१-१६२), which stays. **विभु** — "vibhavatīti vibhu": **विप्रसंभ्यो ड्वसंज्ञायाम्** (पा. सू. ३-२-१८०), with "bhuvaḥ" carried from **भुवः संज्ञान्तरयोः** (पा. सू. ३-२-१७९): after "bhū" with "vi, pra, sam," when no name is meant, "ḍu"; the "ḍ" is "it" by **चुटू** (printed "पा. सू. १-०-७," i.e. 1-3-7), leaving "u"; the "ḍ"-mark causes loss of the "ṭi" "ū" of "bhū": "vibhu"; the "u" acute by **आद्युदात्तश्च** (पा. सू. ३-१-३), kept in the compound by **गतिकारकोपपदात्कृत्** (पा. सू. ६-२-१३९); likewise "prabhu." **॥५॥**
 
 ---
 
 ### Page 361 — Sūkta 9, Rik 6
 
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अस्मान्त्सु तत्र चोदयेन्द्र राये रभस्वतः ।
-> तुविद्युम्न यशस्वतः ॥६॥
+> अ॒स्मान्त्सु तत्र॑ चोद॒येन्द्र॑ रा॒ये रभ॑स्वतः ।
+> तुवि॑द्युम्न॒ यश॑स्वतः ॥६॥
 >
-> *asmān tsu tatra codayendra rāye rabhasvataḥ |*
-> *tuvidyumna yaśasvataḥ ||6||*
+> *asmā́nt su tátra codayéndra rāyé rábhasvataḥ |*
+> *túvidyumna yáśasvataḥ ||6||*
 
 *(In the Saṃhitā the words* asmān su *are joined as* asmān tsu*: a* t *is inserted between the* n *and the* s *by the Vedic sandhi rule, as the Special Topics below explain.)*
 
