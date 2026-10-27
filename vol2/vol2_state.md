@@ -40,7 +40,7 @@ Saṃhitā block), `addnote.py` (note on a printed page; handles "### Pages N–
    rebuild below — its Vol 2 rows are a snapshot of the old `publish/work/vol2_clean.md` and still list flags this pass
    has resolved. Optional tidy: the ~50 header notes on pp. 30–186 that say "[?] where unclear" show up there as flags
    though no reading is open on those pages.
-6. End of volume: rebuild print PDF (`python3 publish/build_vol2.py full`), check no ◌ in `pdftotext`, commit
+6. End of volume (then the scheduled task moves on to the Vol 1 finishing pass, `vol1/vol1_runbook.md`): rebuild print PDF (`python3 publish/build_vol2.py full`), check no ◌ in `pdftotext`, commit
    `publish/out/vol2_full.pdf` and `publish/work/vol2_clean.md`, write "done" here.
 
 ## Cross-check with the reviewer worklist (`publish/review/All_volumes_review_worklist.xlsx`, Oct 27)
