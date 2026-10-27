@@ -16879,59 +16879,109 @@ Even a learned sacrificer cannot accomplish the rite without the help of Sadasas
 
 ---
 
-### Pages 776–779 — Sūkta 18, Rik 8
+### Page 776 — Sūkta 18, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आदृध्नोति हविष्कृतिं प्राञ्चं कृणोत्यध्वरम् ।
-> होत्रा देवेषु गच्छति ॥८॥
+> आदृ॑ध्नोति ह॒विष्कृ॑तिं॒ प्राञ्चं॑ कृणोत्यध्व॒रम् । [accent ?]
+> होत्रा॑ दे॒वेषु॑ गच्छति ॥८॥ [accent ?]
 >
-> *ād ṛdhnoti haviṣkṛtiṃ prāñcaṃ kṛṇoty adhvaram |*
-> *hotrā deveṣu gacchati ||8||*
+> *ā́d ṛdhnoti havíṣkṛtiṃ prā́ñcaṃ kṛṇoty adhvarám |* [accent ?]
+> *hótrā devéṣu gacchati ||8||* [accent ?]
+
+*(Read as printed: strokes over दृ, ष्कृ, चं, त्रा and वे; bars under ह, तिं, ध्व and दे. Positions not all certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > आत् । ऋध्नोति । हविःऽकृतिम् । प्राञ्चम् । कृणोति । अध्वरम् ॥
 > होत्रा । देवेषु । गच्छति ॥८॥
 >
-> *āt | ṛdhnoti | haviḥ-kṛtim | prāñcam | kṛṇoti | adhvaram ||*
+> *āt | ṛdhnoti | haviḥ 'kṛtim | prāñcam | kṛṇoti | adhvaram ||*
 > *hotrā | deveṣu | gacchati ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 776; compressed; [?] marks doubtful readings)*
+*(The Uṇādi number ४-१६७ is read with some doubt [?]; the grammar page has "4-602" [?].)*
 
-> आदनन्तरमेव हविष्कृतिं हविःसम्पादनयुक्तं यजमानमृध्नोति । सदसस्पतिर्देवो वर्धयति । हविर्दानानन्तरमेव फलं प्रयच्छतीत्यर्थः । तथाविधफलसिद्ध्येऽध्वरं यजमानेनानुष्ठीयमानं यज्ञं प्राञ्चं प्रकर्षेण गच्छन्तमविघ्नेन परिसमाप्तियुक्तं कृणोति । करोति । होत्रा ह्वयमाना देवता तुष्टा सती यजमानं प्रख्यापयितुं देवेषु गच्छति । यद्वा । होत्रा अस्मदीयस्तुतिरूपा वाक् देवान्स्वरितोषयितुं देवेषु गच्छति । श्लोको धारेत्यादिषु सप्तपञ्चाशत्सु वाङ्नामसु होत्रा गीरिति पठितम् ॥ हविष्कृतिम् । हविषः कृतिः सम्पादनं यस्य यजमानस्य सोऽयं हविष्कृतिः । बहुव्रीहौ प्रकृत्या पूर्वपदम् । प्राञ्चम् । अनिगन्तोऽञ्चतौ वप्रत्यये । पा. [६-२-५२] । इति गतेः प्रकृतिस्वरत्वम् । पश्चाद्देकादेशस्वरः । अध्वरम् । न विद्यते ध्वरो हिंसा यस्मिन् । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । होत्रा । ह्वयते ऽस्मिन्निति होत्रा देवता । हुयामाश्रुभसिभ्यस्त्रन् । उ. [४-१६२] । इति त्रन् । निन्त्वाद्याद्युदात्तः ॥८॥
+> आदनन्तरमेव हविष्कृतिं हविःसंपादनयुक्तं यजमानमृध्नोति । सदसस्पतिर्देवो वर्धयति । हविर्दानानन्तरमेव फलं प्रयच्छतीत्यर्थः । तथाविधफलसिद्धयेऽध्वरं यजमानेनानुष्ठीयमानं यज्ञं प्राञ्चं प्रकर्षेण गच्छन्तमविघ्नेन परिसमाप्तियुक्तं कृणोति । करोति । होत्रा हूयमाना देवता तुष्टा सती यजमानं प्रख्यापयितुं देवेषु गच्छति । यद्वा । होत्रास्मदीयस्तुतिरूपा वाक् देवान्परितोषयितुं देवेषु गच्छति । श्लोको धारेत्यादिषु सप्तपञ्चाशत्सु वाङ्नामसु होत्रा गीरिति पठितम् ॥ हविष्कृतिम् । हविषः कृतिः संपादनं यस्य यजमानस्य सोऽयं हविष्कृतिः । बहुव्रीहौ प्रकृत्येति पूर्वपदप्रकृतिस्वरत्वम् । प्राञ्चम् । अनिगन्तोऽञ्चतौ वप्रत्यये । पा. ६-२-५२ । इति गतेः प्रकृतिस्वरत्वम् । पश्चादेकादेशस्वरः । अध्वरम् । न विद्यते ध्वरो हिंसा यस्मिन् । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । हूयतेऽस्यामिति होत्रा देवता । हुयामाश्रुभसिभ्यस्त्रन् । उ. ४-१६७ । इति त्रन् । नित्त्वादाद्युदात्तः ॥
 >
-> *ād anantaram eva haviṣkṛtiṃ havissampādana-yuktaṃ yajamānam ṛdhnoti | sadasaspatir devo vardhayati | havirdānānantaram eva phalaṃ prayacchatīty arthaḥ | tathāvidha-phala-siddhye 'dhvaraṃ yajamānenānuṣṭhīyamānaṃ yajñaṃ prāñcaṃ prakarṣeṇa gacchantam avighnena parisamāpti-yuktaṃ kṛṇoti | karoti | hotrā hvayamānā devatā tuṣṭā satī yajamānaṃ prakhyāpayituṃ deveṣu gacchati | yadvā | hotrā asmadīya-stuti-rūpā vāk devān svaritoṣayituṃ deveṣu gacchati | śloko dhārety-ādiṣu saptapañcāśatsu vāṅ-nāmasu hotrā gir iti paṭhitam || haviṣkṛtim | haviṣaḥ kṛtiḥ sampādanaṃ yasya yajamānasya so 'yaṃ haviṣkṛtiḥ | bahuvrīhau prakṛtyā pūrvapadam | prāñcam | anigantoñcatau vapratyaye | pā. [6-2-52] | iti gateḥ prakṛti-svaratvam | paścād ekādeśa-svaraḥ | adhvaram | na vidyate dhvaro hiṃsā yasmin | nañ-subhyām ity uttarapadāntodāttatvam | hotrā | hvayate 'sminn iti hotrā devatā | huyāmāśrubhasibhyas tran | u. [4-162] | iti tran | nittvād ādyudāttaḥ ||8||*
+> *ādanantarameva haviṣkṛtiṃ haviḥsaṃpādanayuktaṃ yajamānamṛdhnoti | sadasaspatirdevo vardhayati | havirdānānantarameva phalaṃ prayacchatītyarthaḥ | tathāvidhaphalasiddhaye 'dhvaraṃ yajamānenānuṣṭhīyamānaṃ yajñaṃ prāñcaṃ prakarṣeṇa gacchantamavighnena parisamāptiyuktaṃ kṛṇoti | karoti | hotrā hūyamānā devatā tuṣṭā satī yajamānaṃ prakhyāpayituṃ deveṣu gacchati | yadvā | hotrāsmadīyastutirūpā vāk devānparitoṣayituṃ deveṣu gacchati | śloko dhāretyādiṣu saptapañcāśatsu vāṅnāmasu hotrā gīriti paṭhitam || haviṣkṛtim | haviṣaḥ kṛtiḥ saṃpādanaṃ yasya yajamānasya so 'yaṃ haviṣkṛtiḥ | bahuvrīhau prakṛtyeti pūrvapadaprakṛtisvaratvam | prāñcam | aniganto 'ñcatau vapratyaye | pā. 6-2-52 | iti gateḥ prakṛtisvaratvam | paścādekādeśasvaraḥ | adhvaram | na vidyate dhvaro hiṃsā yasmin | nañsubhyāmityuttarapadāntodāttatvam | hūyate 'syāmiti hotrā devatā | huyāmāśrubhasibhyastran | u. 4-167 | iti tran | nittvādādyudāttaḥ ||*
 
-**Translation:** "Immediately thereafter (*āt*) the god Sadasaspati makes the sacrificer — the *haviṣkṛt*, the one who has prepared the oblation — prosper (*ṛdhnoti*): the sense is that he gives the fruit directly after the oblation is given. For the accomplishment of that fruit he makes the sacrifice (*adhvaram*) being performed by the sacrificer *prāñcam* — going forward well, completed without obstacle. *Hotrā* — the deity who is invoked, being pleased, goes among the gods (*deveṣu gacchati*) to make the sacrificer renowned; or: *hotrā* — our speech in the form of praise — goes among the gods in order to please them. Among the fifty-seven words for speech beginning with *śloka*, *dhārā* [Nighaṇṭu 1-11], *hotrā* is read, 'speech'." The rest is grammar, noted briefly: *haviṣkṛtim* (a bahuvrīhi, first-member accent); *prāñcam* (*pra* + *añc* + *kvin*/*vapratyaya*, with the accent by P. 6-2-52 [as read] of the prefix, then the single-substitute accent); *adhvaram* (as before); *hotrā* (*hve* + *tran*, Uṇādi 4-162 [as read]; first-syllable accent through the *n*). *(Grammar, noted briefly.)*
+**Translation:** "*Āt*, right after, (the god Sadasaspati) *ṛdhnoti*, makes grow, the sacrificer who is *haviṣkṛti*, engaged in preparing the oblation: that is, right after the giving of the oblation he gives the fruit. For obtaining such fruit, he *kṛṇoti*, makes, the *adhvara*, the sacrifice being performed by the sacrificer, *prāñcam*, going forward well, brought to completion without obstacle. *Hotrā*, the deity being called, being pleased, goes among the gods to proclaim the sacrificer. Or *hotrā*, our speech in the form of praise, goes among the gods to please them. *Hotrā* and *gīḥ* are read among the fifty-seven names for speech beginning *ślokaḥ*, *dhārā*." (Grammatical tail: *haviṣkṛtim*, "the sacrificer whose *kṛti*, preparing, is of the oblation", the first member's accent by *bahuvrīhau prakṛtyā*; *prāñcam*, the preverb keeps its accent by Pā. 6-2-52, then the accent of the single substitute; *adhvaram*, "in which there is no *dhvara*, harm", final udātta of the final member by *nañsubhyām*; *hotrā*, "she is called on", the deity, *tran* by *huyāmāśrubhasibhyas tran* (Uṇ. 4-167 [?]), initial udātta as *nit*.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 776)*
+**॥ Prati-padārthaḥ ॥**
 
-**आत् (āt)** — immediately thereafter | **हविष्कृतिम् (haviṣkṛtim)** — the sacrificer who has prepared the oblation | **ऋध्नोति (ṛdhnoti)** — [Sadasaspati] makes prosper | **अध्वरम् (adhvaram)** — the sacrifice [undertaken by the sacrificer] | **प्राञ्चम् (prāñcam)** — going forward well, completed without obstacle | **कृणोति (kṛṇoti)** — makes | **होत्रा (hotrā)** — [the deity] invoked by the *hotṛ*, being pleased (or: our speech of praise) | **देवेषु (deveṣu)** — among the gods | **गच्छति (gacchati)** — goes.
+**आत् (āt)** — then | **हविष्कृतिम् (haviṣkṛtim)** — the sacrificer who has prepared the oblation | **ऋध्नोति (ṛdhnoti)** — (Sadasaspati) makes prosper | **अध्वरम् (adhvaram)** — (the sacrificer's undertaken) sacrifice | **प्राञ्चम् (prāñcam)** — so that it goes on well, or ends without obstacle | **कृणोति (kṛṇoti)** — makes | **होत्रा (hotrā)** — by the invoking (the deity called, being pleased,
+
+### Page 777 — Rik 8: word-meanings (end), overall sense, English, Special Topics
+
+to make the sacrificer renowned) | **देवेषु (deveṣu)** — among the gods (to where the gods are) | **गच्छति (gacchati)** — goes [or: **होत्रा (hotrā)** — (our) speech in the form of praise (to please the gods) | **देवेषु (deveṣu)** — among the gods | **गच्छति (gacchati)** — goes and reaches.]
 
 **॥ Bhāvārthaḥ ॥**
 
-As soon as we have given the share of the oblation, Sadasaspati makes the sacrificer prosper and brings the sacrifice he has undertaken to a successful end without obstacle. And the deity, invoked and pleased, goes among the gods to praise the sacrificer; or, our speech of praise goes to the gods and is heard by them.
+As soon as we have given the share of oblation in the sacrifice, Sadasaspati brings good to the sacrificer; he brings the sacrifice begun to completion without obstacle. And the deity we invoked, pleased by the sacrifice, goes to the gods to praise the sacrificer; or the speech in the form of praise that we make goes to the gods to praise the sacrificer, that is, makes the gods hear it.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> And then he rewards the presenter of oblations ; brings the sacrifice to its conclusion ; our prayer then reaches the gods.
+> And then he rewards the presenter of oblations ; brings the sacrifiee [sic] to its conclusion ; our prayer then reaches the gods.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 777–778)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**आत् (āt)** — "then"; "immediately after" (*anantaram*). Yāska, in the Nirukta (4-[?]), gives the sense *atha*, *anantaram* to the word *āt* in the rik *yad ed adyed yuktā haritaḥ sadhasthād ātrī vāsas sunute simasmai* (Ṛ. Saṃ. 1-[?]).
+**Āt**: *atha*, meaning "then". For the word *āt* in the ṛk
 
-**हविष्कृतिम् (haviṣkṛtim)** — *haviṣaḥ kṛtiḥ sampādanaṃ yasya yajamānasya so 'yaṃ haviṣkṛtiḥ* — the sacrificer who offers oblations. Or, as Skandasvāmin says, *haviṣkṛtiṃ haviṣkṛtāṃ havīṃṣi sārako vṛddhāni karotīty arthaḥ* [as read, uncertain]: *haviṣkṛti* means the act of giving the oblation; he makes it the most essential.
+> यदेदयुक्त हरितः सधस्थादाद्रात्री वासस्तनुते सिमस्मै (ऋ. सं. १-११५-४)
+>
+> *yadedayukta haritaḥ sadhasthādādrātrī vāsastanute simasmai (ṛ. saṃ. 1-115-4)*
 
-**प्राञ्चम् (prāñcam)** — *prakarṣeṇa gacchantam avighnena parisamāptiyuktaṃ karotīty arthaḥ*: "he makes it go well, completed without obstacle".
+("When he has yoked the bay horses from their seat, then night spreads her garment for all": mine and tentative.) Yāska in the Nirukta gives the sense *atha*, then (Ni. "4-11" [?]).
 
-**होत्रा (hotrā)** — *hūyamānā devatā* or *asmadīyastutirūpā vāk*: that is, the deity invoked in the sacrifice, or the speech of praise that we make: the two senses are given. Of these two, the second — *vāk*, speech — seems the natural one here. Since *hotrā* is read among the fifty-seven words for speech beginning with *śloka*, *dhārā* (Ni. 1-[?]), *hotrā* means "speech".
+**Haviṣkṛtim**: *haviṣaḥ kṛtiḥ saṃpādanaṃ yasya yajamānasya so 'yaṃ haviṣkṛtiḥ*: the sense is the sacrificer who gives the oblation. Or, as Skandasvāmin says,
 
-**देवेषु गच्छति (deveṣu gacchati)** — that is, goes to the deities. If it refers to the deity, the sense is that the deity, pleased in the sacrifice, goes to the gods to tell that the sacrificer has satisfied him; if to speech, our praises go to the gods, or are made known to them and heard, so that they are satisfied.
+> हविष्कृतिं हविष्क्रियां हवींषि सारतो वृद्धानि करोतीत्यर्थः ॥
+>
+> *haviṣkṛtiṃ haviṣkriyāṃ havīṃṣi sārato vṛddhāni karotītyarthaḥ ||*
 
-**Grammar pages (pp. 778 lower half–779 upper), noted briefly.** The Kannada treats *haviṣkṛtim* (*haviṣaḥ kṛtiḥ sampādanaṃ yasya* — a bahuvrīhi, first-member accent by P. 6-2-1), *prāñcam* (*pra añcati*; here *pra* stands as an *upapada*, and *kvin* is added by P. 3-2-59 *ṛtvigdadhṛksragdigusṇigañcuyujikruñcāṃ ca*; the *k, n, i* are *it*, only *v* remains; the *a* dropped before *kit/ñit* suffix by P. 6-4-24 *anidītāṃ halaḥ upadhāyāḥ kṅiti*; *pra* + *ac* + *v*; *akaḥ savarṇe dīrghaḥ*: *prāñc*; the *aṅga* [stem] which is *aniganta* — not ending in *ik* — [and so *añc*] with *gati* takes the first-member accent by P. 6-2-52 [as read, *aniginto 'ñcatau vapratyaye*]; since *pra* is among the prefixes it is first-syllable accented *upasargād abhyāsāt*… [as read], and by P. 6-2-139 *gatikārakopapadāt kṛt* the accent of the final member would come, but the *pra*'s own accent stays, then the single-substituted vowel is *udātta* by P. 8-2-5; *vero 'prktasya* P. 6-1-67 drops the *v*; accusative *am*; *ugidacāṃ sarvanāmasthāne 'dhātoḥ* P. 7-1-70 gives *num*: *prāñcam*; *naś cāpadāntasya jhali* P. 8-3-24 gives *anusvāra*, then *anusvārasya yayi parasavarṇaḥ* P. 8-4-58 gives *ñ*), *adhvaram* (as before: *na vidyate dhvaraḥ hiṃsā yasmin*; the accent of the final member by P. 6-2-172 *nañsubhyām*), and *hotrā* (*hūyate 'smin*; Uṇ. 4-[?] *huyāmāśrubhasibhyas tran* — *tran* after *hu* "to give, to offer" [or *yā*, *mā*, *śru*, *bhas*, *sibh*]; the feminine denoting a deity by *ṭāp*; *hotrā*; the suffix has *n*-mark so first-syllable accent by P. 6-1-197). ॥8॥ *(Numerals as read; pointers only.)*
+("*Haviṣkṛtim* means the making of the oblation: he makes the oblations grown in substance.") *Haviṣkṛti* means the act of giving oblation; the intent is that he makes it substantial.
+
+**Prāñcam**:
+
+> प्रकर्षेण गच्छन्तमविघ्नेन परिसमाप्तियुक्तं करोतीत्यर्थः ॥
+>
+> *prakarṣeṇa gacchantamavighnena parisamāptiyuktaṃ karotītyarthaḥ ||*
+
+("Going forward well, he makes it reach completion without obstacle.") The sense is: he makes the sacrifice reach its end without obstacle.
+
+**Hotrā**:
+
+> हूयमाना देवता अथवा अस्मदीयस्तुतिरूपा वाक्
+>
+> *hūyamānā devatā athavā asmadīyastutirūpā vāk*
+
+("The deity being called, or our speech in the form of praise.") Two senses are given: the deity called in the sacrifice, or the speech in the form of praise that we make. Of these two the second, speech, seems fitting here. Since the word *hotrā* is read among the fifty-seven names for speech beginning *ślokaḥ*, *dhārā* (Ni. [?]), *hotrā* means speech.
+
+### Page 778 — Rik 8: Special Topics (end) and grammar
+
+**Deveṣu gacchati**: going to the gods. If it refers to the deity, the intent is that the deity pleased in the sacrifice goes to the gods to tell that the sacrificer has satisfied him well; if it refers to speech, the intent is: may our words of praise reach the gods, or become known to them, or be heard by them, and may they be pleased.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 778–779, noted briefly)*
+
+**हविष्कृतिम् (*haviṣkṛtim*)**: *haviṣaḥ kṛtiḥ saṃpādanaṃ yasya yajamānasya saḥ haviṣkṛtiḥ*: the sacrificer who has the preparation of the oblation is called *haviṣkṛti*. By "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) the accent of the first member.
+
+**प्राञ्चम् (*prāñcam*)**: the analysis *pra añcati*. In this sense, with the *subanta* *pra* as *upapada*, by "ṛtvigdadhṛk…" (Pā. sū. 3-2-59) the suffix *kvin*; *k*, *n*, *i* are called *it* and dropped; *v* remains. By "anidhitāṃ hala upadhāyāḥ kṅiti" (Pā. sū. 6-4-24), before a *kit* or *ṅit* suffix, the *n* in the penultimate of a consonant-final *aṅga* not having short *i* as *it* is dropped: *pra* + *ac* + *v*; lengthening of like vowels: *prāc* + *v*. By "anigantoñcatau vapratyaye" (Pā. sū. 6-2-52), when the root *añc* ending in a suffix that is *v* follows, a *gati* not ending in *ik* keeps its own accent; so the first member keeps its accent; the first member *pra* is initial udātta by *upasargāś cābhivarjam*, and after compounding the same accent stays by the sūtra just stated. With *pra* + *ac* + *v* the single substitute from lengthening of like vowels is udātta by *ekādeśa udāttenodāttaḥ*. By "ver apṛktasya" the *v* is dropped. Accusative singular *am*: *prāc* + *am*. By "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (Pā. sū. 7-1-70) the augment *num*: *prānc* + *am*; by "naś cāpadāntasya jhali" (Pā. sū. 8-3-24) *anusvāra* for the *n*; for it, by "anusvārasya yayi parasavarṇaḥ" (Pā. sū. 8-4-58), the homorganic *ñ*: *prāñcam*.
+
+**अध्वरम् (*adhvaram*)**: *na vidyate 'dhvaraḥ* [as printed] *hiṃsā yasmin sa adhvaraḥ*. Overriding the first-member accent due by *bahuvrīhau prakṛtyā pūrvapadam*, by "nañsubhyām" (Pā. sū. 6-2-172), the final member after *nañ* and *su* is final udātta; so the final member is final udātta.
+
+**होत्रा (*hotrā*)**: *hūyate asmin iti hotrā*, the deity. By "huyāmāśrubhasibhyas tran" (Uṇ. sū. "4-602" [?]), after the roots *hu dānādanayoḥ*, *yā prāpaṇe*, *mā māne*, *śru śravaṇe* and *bhasa bhartsanadīptyoḥ*,
+
+### Page 779 (upper) — Rik 8: grammar (end)
+
+the suffix *tran* comes; so after the root *hu*, *tran*; *guṇa*: *hotra*. Naming a deity, it is feminine; so *ṭāp*: *hotrā*. The suffix is *nit*; so *hotrā* is initial udātta by the *nit* accent.
+
+**॥८॥**
+
+---
 
 ### Pages 779–782 — Sūkta 18, Rik 9 (last rik of the sūkta)
 
