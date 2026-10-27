@@ -15987,58 +15987,107 @@ takes the substitute *yaṇ*. But in the sūtra *huśnuvoḥ* only the *pratipad
 
 ---
 
-### Pages 740–742 — Sūkta 17, Rik 8
+### Page 740 (lower) — Sūkta 17, Rik 8
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रावरुण नू नु वां सिषासन्तीषु धीष्वा ।
-> अस्मभ्यं शर्म यच्छतम् ॥८॥
+> इन्द्रा॑वरुण॒ नू नु वां॒ सिषा॑सन्तीषु धी॒ष्वा । [accent ?]
+> अ॒स्मभ्यं॒ शर्म॑ यच्छतम् ॥८॥ [accent ?]
 >
-> *indrāvaruṇa nū nu vāṃ siṣāsantīṣu dhīṣv ā |*
-> *asmabhyaṃ śarma yacchatam ||8||*
+> *índrāvaruṇa nū́ nu vāṃ síṣāsantīṣu dhīṣvā́ |* [accent ?]
+> *asmábhyaṃ śárma yacchatam ||8||* [accent ?]
+
+*(Read as printed: strokes over द्रा, षा and र्म; bars under ण, वां, धी, अ and भ्यं.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> इन्द्रावरुणा । नु । नु । वाम् । सिषासन्तीषु । धीषु । आ ॥
+*(सिसासन्तीषु, with स, is as printed in the Pada; the Saṃhitā and bhāṣya have सिषासन्तीषु.)*
+
+> इन्द्रावरुणा । नु । नु । वाम् । सिसासन्तीषु । धीषु । आ ॥
 > अस्मभ्यम् । शर्म । यच्छतम् ॥८॥
 >
-> *indrāvaruṇā | nu | nu | vām | siṣāsantīṣu | dhīṣu | ā ||*
+> *indrāvaruṇā | nu | nu | vām | sisāsantīṣu | dhīṣu | ā ||*
 > *asmabhyam | śarma | yacchatam ||8||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 740; compressed; [?] marks doubtful readings)*
-
-> इन्द्रावरुणा हे इन्द्रावरुणौ धीष्वस्मदीयबुद्धिषु वां युवां सिषासन्तीषु सनितुं संभक्तुं सम्यक् सेवितुमिच्छन्तीषु तदानीमा सर्वतोऽस्मभ्यं शर्म सुखं नू नु आशिषेन [?] क्षिप्रं यच्छतम् । दत्तम् । षट्त्रिंशत्सङ्ख्याकेषु क्षिप्रनामसु नु पठितम् । तस्य द्विरावृत्तेर्बहुशीघ्रत्वम् [?] ॥ इन्द्रावरुणा । उक्तम् । नू नु । ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् । पा. [६-३-१३३] । इति पूर्वस्य दीर्घत्वम् । सिषासन्तीषु । वन षण सम्भक्तौ । धात्वादेः षः सः । इच्छार्थे सन् । द्विर्वचनम् । हलादिः शेषः । सन्यतः । इत्वम् । आदेशप्रत्यययोः । पा. [८-३-५९] । षत्वम् । सनीवन्तर्धभ्रस्जदम्भुश्रिस्वृयूर्णुभरज्ञपिसनाम् । पा. [७-२-४९] । इडागमो विकल्पः । … जनसनखनां सञ्झलोः । पा. [६-४-४२] । … सिषास सेनाद्यन्ता धातवः । पा. [३-१-३२] । … लटः शतृ । कर्तरि शप् । अतो गुणे । पररूपम् । उगितश्च । पा. [४-१-६] । ङीप् । शप्श्यनोर्नित्यम् । पा. [७-१-८१] । नुमागमः । मिदचोऽन्त्यात्परः । पा. [१-१-४७] । जीप् शप् एतौ पित्त्वादनुदात्तौ । … धीषु । ध्यै चिन्तायाम् । ध्यायतेः संप्रसारणं च । पा. [३-२-१७८] । क्विप् संप्रसारणम् । … अस्मभ्यम् । अस्मभ्यमप्रतिष्मृतः । ऋ. सं. [१-२-६] । इत्यत्रोक्तम् । यच्छतम् । दाण् दाने । शपि पाघ्रेत्यादिना यच्छादेशः ॥८॥
+> इन्द्रावरुणा हे इन्द्रावरुणौ धीष्वस्मदीयबुद्धिषु वां युवां सिषासन्तीषु सनितुं संभक्तुं सम्यक्सेवितुमिच्छन्तीषु तदानीमासमन्तादस्मभ्यं शर्म सुखं नू नु अतिशयेन क्षिप्रं यच्छतम् । दत्तम् । षड्विंशतिसंख्याकेषु क्षिप्रनामसु नु मक्ष्विति पठितम् । तस्य द्विरावृत्तिबलादतिशयो लभ्यते ॥ इन्द्रावरुणा । उक्तम् । नू नु । ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् । पा. ६-३-१३३ । इति पूर्वस्य दीर्घत्वम् । सिषासन्तीषु । वन षण संभक्तौ । धात्वादेः षः सः । इच्छायां सन् । द्विर्भावो हलादिशेषः । सन्यत इतीत्वम् । आदेशप्रत्यययोरिति षत्वम् । सनीवन्तेत्यादिना । पा. ७-२-४९ । विकल्पादिडभावः । जनसनखनां सन्झलोः । पा. ६-४-४२ । इति नकारस्याकारः । उपरि लटः शतृ । कर्तरि शप् । उगितश्चेति ङीप् । शप्श्यनोर्नित्यम् । पा. ७-१-८१ । इति नुम् । ङीपः शपश्च पित्त्वाच्छतुश्च लसार्वधातुकत्वेनानुदात्तत्वम् ।
 >
-> *indrāvaruṇā he indrāvaruṇau dhīṣv asmadīya-buddhiṣu vāṃ yuvāṃ siṣāsantīṣu sanituṃ saṃbhaktuṃ samyak sevitum icchantīṣu tadānīm ā sarvato 'smabhyaṃ śarma sukhaṃ nū nu āśiṣena [?] kṣipraṃ yacchatam | dattam | ṣaṭtriṃśat-saṅkhyākeṣu kṣipra-nāmasu nu paṭhitam | tasya dvir āvṛtter bahu-śīghratvam [?] || indrāvaruṇā | uktam | nū nu | ṛci tunu-ghamakṣu-taṅ-kutro-ruṣyāṇām | pā. [6-3-133] | iti pūrvasya dīrghatvam | siṣāsantīṣu | vana ṣaṇa sambhaktau | dhātvādeḥ ṣaḥ saḥ | icchārthe san | dvirvacanam | halādiḥ śeṣaḥ | san-yataḥ | itvam | ādeśa-pratyayayoḥ | pā. [8-3-59] | ṣatvam | sanīvantar-dha-bhras-ja-dambhu-śri-svṛ-yū-ūrṇu-bhara-jñapi-sanām | pā. [7-2-49] | iḍāgamo vikalpaḥ | … janasanakhanāṃ sañjhaloḥ | pā. [6-4-42] | … siṣāsa senādy-antā dhātavaḥ | pā. [3-1-32] | … laṭaḥ śatṛ | kartari śap | ato guṇe | pararūpam | ugitaś ca | pā. [4-1-6] | ṅīp | śap-śyanor nityam | pā. [7-1-81] | numāgamaḥ | mid-aco 'ntyāt paraḥ | pā. [1-1-47] | jīp śap etau pittvād anudāttau | … dhīṣu | dhyai cintāyām | dhyāyateḥ saṃprasāraṇaṃ ca | pā. [3-2-178] | kvip saṃprasāraṇam | … asmabhyam | asmabhyam apratiṣmṛtaḥ | ṛ. saṃ. [1-2-6] | ity uktam | yacchatam | dāṇ dāne | śapi pā-ghrety-ādinā yacchādeśaḥ ||8||*
+> *indrāvaruṇā he indrāvaruṇau dhīṣvasmadīyabuddhiṣu vāṃ yuvāṃ siṣāsantīṣu sanituṃ saṃbhaktuṃ samyaksevitumicchantīṣu tadānīmāsamantādasmabhyaṃ śarma sukhaṃ nū nu atiśayena kṣipraṃ yacchatam | dattam | ṣaḍviṃśatisaṃkhyākeṣu kṣipranāmasu nu makṣviti paṭhitam | tasya dvirāvṛttibalādatiśayo labhyate || indrāvaruṇā | uktam | nū nu | ṛci tunughamakṣutaṅkutroruṣyāṇām | pā. 6-3-133 | iti pūrvasya dīrghatvam | siṣāsantīṣu | vana ṣaṇa saṃbhaktau | dhātvādeḥ ṣaḥ saḥ | icchāyāṃ san | dvirbhāvo halādiśeṣaḥ | sanyata itītvam | ādeśapratyayayoriti ṣatvam | sanīvantetyādinā | pā. 7-2-49 | vikalpādiḍabhāvaḥ | janasanakhanāṃ sanjhaloḥ | pā. 6-4-42 | iti nakārasyākāraḥ | upari laṭaḥ śatṛ | kartari śap | ugitaśceti ṅīp | śapśyanornityam | pā. 7-1-81 | iti num | ṅīpaḥ śapaśca pittvācchatuśca lasārvadhātukatvenānudāttatvam |*
 
-**Translation:** "O Indra and Varuṇa! In our *dhī*s — our minds — which desire to *sanitum* — to share in, to serve properly — you two, then grant (*yacchatam*) to us from all sides *śarma* — comfort — *nū nu*, quickly. *Nu* is read among the thirty-six words meaning 'quick'; its being doubled [*nū nu*] gives great haste [?]." The rest is grammar, noted briefly: *indrāvaruṇā* (as above); *nū nu* (lengthening of the first by P. 6-3-133 *ṛci tunughamakṣutaṅkutrorūṣyāṇām*); *siṣāsantīṣu* (*van* "to serve" with the desiderative *san*, reduplication, *i* for *a*, *ṣa* for *sa* by P. 8-3-59; the optional *iṭ* by P. 7-2-49; *śatṛ*, *śap*, *ṅīp* by P. 4-1-6 *ugitaś ca*, with *num* by P. 7-1-81 *śap-śyanor nityam*); *dhīṣu* (*dhyai* "to think", *saṃprasāraṇa*, *kvip*); *asmabhyam* (as at Rik 1.2.6); *yacchatam* (*dā*, with *yaccha* for *dā* by P. 7-3-78 *pāghrādhmā…*). *(Grammar, noted briefly; the sūtra numerals are as read.)*
+### Page 741 — Rik 8: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (p. 742 lower to 743 upper), noted briefly.** The Kannada treats *nū nu* (*ṛci tunughamakṣutaṅkutrorūṣyāṇām* P. 6-3-133 lengthens the first *nu*), *siṣāsantīṣu* (*van ṣaṇ sambhaktau*; *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* P. 3-1-7 for *san*; doubling by P. 6-1-9 *sanyaṅoḥ*; *halādiḥ śeṣaḥ* P. 7-4-60 dropping the *n* of the first; *sanyataḥ* P. 7-4-79 → *i*; *san* is *ārdhadhātuka* so the *iṭ* would come by P. 7-2-35 but is optional by P. 7-2-49 *sanīvantardhabhrasjadambhuśrisvṛyūrṇubharajñapisanām*; *janasanakhanāṃ sañjhaloḥ* P. 6-4-42 gives *ā* for the *n* of *san*, *akaḥ savarṇe dīrghaḥ* *siṣāsa*; *sanādyantā dhātavaḥ* P. 3-1-32 gives it the name *dhātu*; then *laṭ* with *śatṛ* by P. 3-2-124; *śap*; *ato guṇe*; *ugitaś ca* P. 4-1-6 for *ṅīp*; *śapśyanor nityam* P. 7-1-81 *num*; *mid aco 'ntyāt paraḥ* P. 1-1-47 puts it after the last vowel: *siṣāsantī*; *ṅīp* and *śap* both *pit* so unaccented, the *sana*'s *a* — *siṣāsat* has the accent of *sana* on... [the Kannada: *siṣāsa* is first-syllable accented by *ñnityādir nityam*, as the *san* is *nit*; the same accent remains in the locative plural, *siṣāsantīṣu*]), *dhīṣu* (*dhyai cintāyām*; *dhyāyater saṃprasāraṇaṃ ca* P. 3-2-178 gives *kvip* and *saṃprasāraṇa* in the Veda; *saṃprasāraṇāc ca* P. 6-1-108 *pūrvarūpa* → *dhi*; *halaḥ* P. 6-4-2 lengthens → *dhī*; locative plural *sup*; *ṣatva* by P. 8-3-59; the ending accented by P. 6-1-168 *sāvekācas tṛtīyādir vibhaktiḥ*), *asmabhyam* (explained at Rik 1.2.6 [print: "Ṛ. Saṃ. 1-2-6"]), and *yacchatam* (*dāṇ dāne*; *loṭ*; *loṭo laṅvat*; *tasthasthamipāṃ…*; *śap*; *pāghrādhmā…* P. 7-3-78 gives *yaccha*; *tam*). ॥8॥ *(Numerals as read; pointers only.)*
+> सनो नित्त्वादाद्युदात्तत्वम् । तदेव शिष्यते । धीषु । सावेकाच इति विभक्तेरुदात्तत्वम् । अस्मभ्यम् । अस्मभ्यमप्रतिष्कुतः । ऋग्वे. १-७-६ । इत्यत्रोक्तम् । यच्छतम् । दाण् दाने । शपि पाघ्रेत्यादिना यच्छादेशः ॥
+>
+> *sano nittvādādyudāttatvam | tadeva śiṣyate | dhīṣu | sāvekāca iti vibhakterudāttatvam | asmabhyam | asmabhyamapratiṣkutaḥ | ṛgve. 1-7-6 | ityatroktam | yacchatam | dāṇ dāne | śapi pāghretyādinā yacchādeśaḥ ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 741)*
+**Translation:** "O Indra and Varuṇa, while *dhīṣu*, our minds, are *siṣāsantīṣu*, wishing to serve you two, to attend on you well, at that time give, *yacchatam*, to us from all sides *śarma*, happiness, *nū nu*, very quickly. *Nu* is read among the twenty-six names for 'quick' as *nu*, *makṣu*; from its repetition the intensity is obtained." (Grammatical tail: *indrāvaruṇā*, explained; *nū nu*, the first lengthened by Pā. 6-3-133; *siṣāsantīṣu*, *vana ṣaṇa saṃbhaktau*, *s* for *ṣ*, *san* of desire, doubling, *halādiḥ śeṣaḥ*, *i* by *sanyataḥ*, *ṣ* by *ādeśapratyayayoḥ*, no *iṭ* as it is optional by Pā. 7-2-49, *ā* for the *n* by Pā. 6-4-42, then *śatṛ* for *laṭ*, *śap*, *ṅīp* by *ugitaś ca*, *num* by Pā. 7-1-81; *ṅīp* and *śap* unaccented as *pit*, *śatṛ* as an *lasārvadhātuka*; initial udātta as *san* is *nit*, and that stays; *dhīṣu*, the ending udātta by *sāv ekācaḥ*; *asmabhyam*, as said at Ṛgveda 1-7-6; *yacchatam*, *dāṇ dāne*, *yaccha* by *pāghrā…* before *śap*.)
 
-**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **धीषु (dhīṣu)** — [our] minds | **वाम् (vām)** — you two | **सिषासन्तीषु (siṣāsantīṣu)** — those wishing to serve | **अस्मभ्यम् (asmabhyam)** — to us | **आ (ā)** — from all sides | **शर्म (śarma)** — happiness | **नू नु (nū nu)** — very quickly | **यच्छतम् (yacchatam)** — give.
+**॥ Prati-padārthaḥ ॥**
+
+**इन्द्रावरुणा (indrāvaruṇā)** — O Indra and Varuṇa | **धीषु (dhīṣu)** — (our) minds | **वाम् (vām)** — you two | **सिषासन्तीषु (siṣāsantīṣu)** — while wishing to serve | **अस्मभ्यम् (asmabhyam)** — to us | **आ (ā)** — in every respect | **शर्म (śarma)** — happiness | **नू नु (nū nu)** — very quickly | **यच्छतम् (yacchatam)** — give.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Varuṇa! Our minds are always devoted to serving you; that is, we are constantly serving you. Therefore, be gracious and grant us comfort in every way.
+O Indra and Varuṇa, our minds are always absorbed in serving you; that is, we are serving you constantly. So, being pleased, give us happiness in every way.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Indra and Varuna, quickly bestow happiness upon us, for our minds are devoted to you both.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 741–742)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**नू नु (nū nu)** — among the thirty-six words of the group meaning "quick" beginning with *manaḥ* [the print reads "ಮಂಕ್ಷು"], *nu* is read (Ni. [2-15?]); so *nu* means "quickly". Here the word *nu* is repeated, and so it means "very quickly, without even a little delay". For the sake of the metre the first *nu* is lengthened. Besides this, Yāska gives a few more meanings of *nu*:
+**Nū nu**: since the word *nu* is read among the twenty-six words meaning "quick", *nu*, *makṣu* and so on, *nu* means quickly, swiftly. Here, since *nu* is read twice, it means very quickly, without the least delay. To suit the metre the first *nu* is long. Besides this, Yāska gives some more senses for the word *nu*:
 
-> नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । अथाप्युपमार्थे भवति ॥ (नि. [१-४])
-> *nu ity eṣo 'neka-karmā | idaṃ nu kariṣyatīti hetv-apadeśe | athāpy upamārthe bhavati || (ni. [1-4])*
+> नु इत्येषोऽनेककर्मा ।
+> इदं नु करिष्यतीति हेत्वपदेशे ।
+> अथाप्युपमार्थे भवति ॥ (नि. १-४)
+>
+> *nu ityeṣo 'nekakarmā |*
+> *idaṃ nu kariṣyatīti hetvapadeśe |*
+> *athāpyupamārthe bhavati || (ni. 1-4)*
 
-"This *nu* has many senses: in *idaṃ nu kariṣyati* ['he will surely do this'] it is a statement of reason; and it also has the sense of comparison." The Kannada gives an example of the last: *vṛkṣasya nu te* (Ṛ. Saṃ. [6-3-5?]) — "like a tree's [...]" (the rest of the example is cut off at the foot of p. 741).
+("*Nu* has many uses: in 'he will now do this' it states a cause; it also has the sense of comparison": mine and tentative.) The word *nu* denotes many actions and a cause, and is used in the sense of comparison too. For example,
 
-**सिषासन्तीषु धीषु (siṣāsantīṣu dhīṣu)** — "our minds or intellects have an eagerness to serve you; they long for it". Here the locative is used in the sense of the nominative; such use is found especially in the Vedic Sanskrit.
+> वृक्षस्य नु ते (ऋ. सं. ६-२४-३)
+>
+> *vṛkṣasya nu te (ṛ. saṃ. 6-24-3)*
+
+means
+
+> वृक्षस्येव ते
+>
+> *vṛkṣasyeva te*
+
+("Like a tree's, your …": mine and tentative.)
+
+### Page 742 — Rik 8: Special Topics (end) and grammar
+
+**Siṣāsantīṣu dhīṣu**: our minds, or hearts, longing to serve you, expecting it. Here the locative is used in the sense of the nominative. Such usage is especially common in modern Sanskrit too.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 742–743, noted briefly)*
+
+**इन्द्रावरुणा (*indrāvaruṇā*)**: explained in the previous mantra.
+
+**नू नु (*nū nu*)**: by "ṛci tunughamakṣutaṅkutroruṣyāṇām" (Pā. sū. 6-3-133) the first *nu* is lengthened.
+
+**सिषासन्तीषु (*siṣāsantīṣu*)**: the root *vana ṣaṇa saṃbhaktau*; by *dhātvādeḥ ṣaḥ saḥ* *s* for the *ṣ* of the root *ṣaṇa*, and the *ṇ* is withdrawn. By "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (Pā. sū. 3-1-7), when *sanitum icchati* is meant, the suffix *san* after the root *san*: *san* + *sa*. By "sanyaṅoḥ" (Pā. sū. 6-1-9) doubling: *san san* + *sa*; by "halādiḥ śeṣaḥ" (Pā. sū. 7-4-60) the *n* of the first *san*, of the *abhyāsa*, is withdrawn; by "sanyataḥ" (Pā. sū. 7-4-79) *i* for the *a* of the *abhyāsa*: *sisan* + *sa*. The suffix *san* is *ārdhadhātuka*, so the augment *iṭ* is due by "ārdhadhātukasyeḍ valādeḥ" (Pā. sū. "3-2-34" [as printed, for 7-2-35]). But by "sanīvantardhabhrasjadambhuśrisvṛyūrṇubharajñapisanām" (Pā. sū. 7-2-49), for the *san* after the roots ending in *iv*, and *ṛdh*, *bhrasj*, *dambh*, *śri*, *svṛ*, *yu*, *ūrṇu*, *bhara*, *jñapi* and *san*, the augment *iṭ* comes optionally; so for the *san* after the root *san*, *iṭ* is enjoined optionally, and in one alternative it does not come. By "janasanakhanāṃ sañjhaloḥ" (Pā. sū. 6-4-42), before a *jhal*-initial *san*, and before a *jhal*-initial suffix that is *kit* or *ṅit*, the last letter of the three roots *jan*, *san*, *khan* takes *ā*: *ā* for *n*; lengthening of like vowels: *sisā* + *sa*. By "ādeśapratyayayoḥ" (Pā. sū. 8-3-59) *ṣ* for the second *s*: *siṣāsa*; it is called *dhātu* by "sanādyantā dhātavaḥ" (Pā. sū. 3-1-32). After it *laṭ*; by "laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe" (Pā. sū. 3-2-124) the suffix *śatṛ*; *śap* by *kartari śap*: *siṣāsa* + *a* + *at*; by *ato guṇe* the *pararūpa* twice: *siṣāsat*. By "ugitaś ca" (Pā. sū. 4-1-6) *ṅīp*: *siṣāsat* + *ī*. By "śapśyanor nityam" (Pā. sū. 7-1-81), for an *aṅga* ending in the *śatṛ* part that follows the *a* belonging to *śap* or *śyan*, when *śī* or a letter called *nadī* follows, the augment *num* comes always;
+
+### Page 743 (upper) — Rik 8: grammar (end)
+
+so the augment *num*. By "mid aco 'ntyāt paraḥ" (Pā. sū. 1-1-47) it comes after the last vowel: *siṣāsantī*. *Ṅīp* and *śap* are both *pit*, so unaccented by *anudāttau suppitau*. The suffix *śatṛ* stands after the *śap*, an *adupadeśa*; so it is unaccented by "tāsyanudātteṅ…" (Pā. sū. 6-1-186). The suffix *san* is *nit*; so by "ñnityādir nityam" (Pā. sū. 6-1-197) *siṣāsa* is initial udātta, and that accent stays. In the locative plural it becomes *siṣāsantīṣu*.
+
+**धीषु (*dhīṣu*)**: *dhyai cintāyām*. By "dhyāyateḥ saṃprasāraṇaṃ ca" (Pā. sū. "3-2-178" [as printed; a vārttika there]) the root *dhyai* takes *saṃprasāraṇa* and after it the suffix *kvip*; so *kvip*, which drops; *saṃprasāraṇa*, *i* for *y*; by "saṃprasāraṇāc ca" (Pā. sū. "6-1-100" [as printed, for 6-1-108]) the *pūrvarūpa*: *dhi*. By "halaḥ" (Pā. sū. 6-4-2) lengthening: *dhī*. After it the locative plural *sup*: *dhī* + *su*; *ṣ* by *ādeśapratyayayoḥ*; by "sāv ekācas tṛtīyādir vibhaktiḥ" (Pā. sū. 6-1-168) the ending is udātta.
+
+**अस्मभ्यम् (*asmabhyam*)**: explained at "asmabhyam apratiṣkutaḥ" (Ṛ. saṃ. 1-7-6).
+
+**यच्छतम् (*yacchatam*)**: *dāṇ dāne*; *loṭ*, 2nd dual *thas*; treated as *laṅ* by *loṭo laṅvat*, *tam* by *tasthasthamipām*, *śap* by *kartari śap*; by "pāghrādhmā…" (Pā. sū. 7-3-78) *yacch* for *dāṇ*: *yacchatam*.
+
+**॥८॥**
+
+---
 
 ### Pages 743–746 — Sūkta 17, Rik 9 (last rik of the sūkta)
 
