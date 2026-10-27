@@ -133,3 +133,6 @@ PDF 809 (p. 795 upper): 8-1-66, 6-2-2, Un. "4-631" [?]. Rk 19.5 starts lower.
 PDF 809 (p. 795 lower): Rk 19.5 Samhita accents as printed ([accent ?]); Pada.
 PDF 810 (p. 796): bhasya in full: 6-2-119; varga 36 closes; Prati/Bhavartha/English ("Maruths" [sic]); Special Topics (printed English glosses kept).
 PDF 811 (p. 797): Ni. "2-10" [?]; grammar Un. "2-170" [?], Un. "4-640" [?], 6-2-172, 6-2-119, 6-2-139. End of Rk 19.5.
+PDF 812 (p. 798): Rk 19.6 Samhita accents as printed ([accent ?]); Pada; bhasya in full: 6-3-73, 6-3-75, 6-2-2 (no varga number).
+PDF 813 (p. 799): Prati/Bhavartha/English ("Maruths" [sic]); Special Topics; grammar 6-3-73, 6-3-75, 6-2-2, 6-2-172.
+PDF 814 (p. 800): 3-2-149, 7-1-1, 6-1-163, 6-1-171, 1-3-12, 2-4-72, 7-1-5, 3-4-79, 8-1-66, 1-1-67, "8-1-1-37" [as printed, for 8-1-37], 6-1-186. End of Rk 19.6 (ornament).
