@@ -16627,15 +16627,19 @@ This ṛk is addressed to the three deities Indra, Brahmaṇaspati and Soma. The
 
 ---
 
-### Pages 767–769 — Sūkta 18, Rik 5
+### Page 767 (lower) — Sūkta 18, Rik 5
+
+*(Saṃhitā accents as printed; Pada unaccented. Deities: Brahmaṇaspati, Soma, Indra and Dakṣiṇā.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्वं तं ब्रह्मणस्पते सोम इन्द्रश्च मर्त्यम् ।
-> दक्षिणा पात्वंहसः ॥५॥
+> त्वं तं ब्र॑ह्मणस्प॒ते सोम॒ इन्द्र॑श्च॒ मर्त्य॑म् । [accent ?]
+> द॑क्षिणा पा॒त्वंह॑सः ॥५॥ [accent ?]
 >
-> *tvaṃ taṃ brahmaṇas pate soma indraś ca martyam |*
-> *dakṣiṇā pātv aṃhasaḥ ||5||*
+> *tvaṃ táṃ brahmaṇaspaté soma índraś ca mártyam |* [accent ?]
+> *dakṣiṇā pātv áṃhasaḥ ||5||* [accent ?]
+
+*(Read as printed: strokes over ब्र, द्र, र्त्य, द (दक्षिणा) and ह (अंहसः); bars under स्प, म (सोम), श्च and पा; a bar under त्वं is not certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -16645,48 +16649,77 @@ This ṛk is addressed to the three deities Indra, Brahmaṇaspati and Soma. The
 > *tvam | tam | brahmaṇaḥ | pate | somaḥ | indraḥ | ca | martyam ||*
 > *dakṣiṇā | pātu | aṃhasaḥ ||5||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 767; compressed; [?] marks doubtful readings)*
+*(॥३४॥ closes Varga 34.)*
 
-> हे ब्रह्मणस्पते त्वं तं मर्त्यमनुष्ठातारं मनुष्यमंहसः पापात्पाहीति शेषः । तथा सोमः पातु । इन्द्रश्च पातु । दक्षिणाख्या देवता च पातु ॥ दक्षिणा । दक्ष वृद्धौ । द्रुदक्षिभ्यामिनन् । उ. [२-५०] । नित्त्वादाद्युदात्तः । अंहसः । नब्विषयस्येत्यादिनाद्युदात्तः ॥५॥
+> हे ब्रह्मणस्पते त्वं तं मर्त्यमनुष्ठातारं मनुष्यमंहसः पापात्पाहीति शेषः । तथा सोमः पातु । इन्द्रश्च पातु दक्षिणाख्या देवता च पातु ॥ दक्षिणा । दक्ष वृद्धौ । द्रुदक्षिभ्यामिनन् । उ. २-५० । नित्त्वादाद्युदात्तः । अंहसः । नब्विषयस्येत्यादिनाद्युदात्तः ॥३४॥
 >
-> *he brahmaṇaspate tvaṃ taṃ martyam anuṣṭhātāraṃ manuṣyam aṃhasaḥ pāpāt pāhīti śeṣaḥ | tathā somaḥ pātu | indraś ca pātu | dakṣiṇākhyā devatā ca pātu || dakṣiṇā | dakṣa vṛddhau | dru-dakṣibhyām inan | u. [2-50] | nittvād ādyudāttaḥ | aṃhasaḥ | nab-viṣayasyety-ādinādyudāttaḥ ||5||*
+> *he brahmaṇaspate tvaṃ taṃ martyamanuṣṭhātāraṃ manuṣyamaṃhasaḥ pāpātpāhīti śeṣaḥ | tathā somaḥ pātu | indraśca pātu dakṣiṇākhyā devatā ca pātu || dakṣiṇā | dakṣa vṛddhau | drudakṣibhyāminan | u. 2-50 | nittvādādyudāttaḥ | aṃhasaḥ | nabviṣayasyetyādinādyudāttaḥ ||34||*
 
-**Translation:** "O Brahmaṇaspati! Protect (*pāhi*, supplied) that mortal, the man who performs the rite, from *aṃhas* — sin. Likewise let Soma protect; and let Indra protect; and let the deity called Dakṣiṇā protect. *Dakṣiṇā* — *dakṣ* 'to grow', the Uṇādi *inan*, first-syllable accent through the *n*-mark. *Aṃhasaḥ* — the first-syllable accent by the rule on words of the *naḥ*-type [*nabviṣayasyāniṣantasya*, P. 6-1-219 as read]." *(Grammar, noted briefly.)*
+**Translation:** "O Brahmaṇaspati, you (protect, is to be supplied) that mortal, the performer, from *aṃhas*, sin. Likewise may Soma protect; may Indra protect; and may the deity called Dakṣiṇā protect." (Grammatical tail: *dakṣiṇā*, *dakṣa vṛddhau*, *inan* by *drudakṣibhyām inan* (Uṇ. 2-50), initial udātta as *nit*; *aṃhasaḥ*, initial udātta by *nabviṣayasya…*.)
 
-**॥ Prati-padārthaḥ ॥** *(p. 767)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे) ब्रह्मणस्पते ((he) brahmaṇaspate)** — O Brahmaṇaspati | **त्वम् (tvam)** — you | **तं मर्त्यम् (taṃ martyam)** — that man (the performer of the sacrifice) | **अंहसः (aṃhasaḥ)** — from sin | **सोमः (somaḥ)** — the deity Soma | **पातु (pātu)** — protect | **इन्द्रः च (indraś ca)** — Indra also | **पातु (pātu)** — protect | **दक्षिणा (dakṣiṇā)** — the deity named Dakṣiṇā | **पातु (pātu)** — protect.
+**(हे) ब्रह्मणस्पते ((he) brahmaṇaspate)** — O Brahmaṇaspati | **त्वम् (tvam)** — you | **तं मर्त्यम् (taṃ martyam)** — that man (the performer) | **अंहसः (aṃhasaḥ)** — from sin (protect) | **सोमः (somaḥ)** — the deity Soma | **पातु (pātu)** — may he protect | **इन्द्रः च (indraḥ ca)** — and Indra | **पातु (pātu)** — may he protect | **दक्षिणा (dakṣiṇā)** — the deity called Dakṣiṇā too | **पातु (pātu)** — may she protect.
 
-**॥ Bhāvārthaḥ ॥** *(p. 768)*
+### Page 768 — Rik 5: overall sense, English, Special Topics
 
-O Brahmaṇaspati! Protect the sacrificer so that he does not commit sinful deeds; and let Indra, Soma and Dakṣiṇā also protect him.
+**॥ Bhāvārthaḥ ॥**
+
+O Brahmaṇaspati, protect the sacrificer so that he does no sinful deed: you, Indra, Soma and Dakṣiṇā, all of you.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Do you Brahmanaspati, and do you Soma, Indra, and Dakshina protect that man from sin.
+> Do you Brahmanaspati, and do you Soma, Indra. and Dakshina protect that man from sin.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 768)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-In this rik the deities Brahmaṇaspati, Soma, Indra and Dakṣiṇā are addressed.
+In this ṛk the deities Brahmaṇaspati, Soma, Indra and Dakṣiṇā are set forth.
 
-**दक्षिणा (dakṣiṇā)** — In this rik the word *dakṣiṇā* indicates a deity who is the presiding genius of *dakṣiṇā* [the sacrificial fee]. The great ṛṣi Yāska has given four derivations of the word *dakṣiṇā* (Ni. 1-[?]; the numeral is read as "1-7" with a query):
+**Dakṣiṇā**: in this ṛk the word *dakṣiṇā* indicates the deity presiding over the *dakṣiṇā*. For the word *dakṣiṇā* Yāska gives this derivation of sense (Ni. "1-7" [?]):
 
-> दक्षिणा दक्षतेः समर्धयति कर्मणो व्यृद्धं समर्धयतीति । अपि वा प्रदक्षिणागमनात् । दिशमभिप्रेत्य दिग्भ्यस्तत्प्रकृतिर्दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः । दाशतेर्वा स्याद्दानकर्मणः ॥
-> *dakṣiṇā dakṣateḥ samardhayati karmaṇo vyṛddhaṃ samardhayatīti | api vā pradakṣiṇāgamanāt | diśam abhipretya digbhyas tat-prakṛtir dakṣiṇo hasto dakṣater utsāha-karmaṇaḥ | dāśater vā syād dāna-karmaṇaḥ ||*
+> दक्षिणा दक्षतेः समर्धयतिकर्मणो व्यृद्धं समर्धयतीति । अपि वा प्रदक्षिणागमनात् । दिशमभिप्रेत्य दिग्घस्तप्रकृतिः दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः । दाशतेर्वा स्याद्दानकर्मणः ॥
+>
+> *dakṣiṇā dakṣateḥ samardhayatikarmaṇo vyṛddhaṃ samardhayatīti | api vā pradakṣiṇāgamanāt | diśamabhipretya digghastaprakṛtiḥ dakṣiṇo hasto dakṣaterutsāhakarmaṇaḥ | dāśatervā syāddānakarmaṇaḥ ||*
 
-"*Dakṣiṇā*: from *dakṣ*, because it makes the deficient work of the rite complete; or from going round to the right (*pradakṣiṇā*); or, with reference to the direction [south]: the right hand [takes its name from] *dakṣ*, in the sense of energetic action; or from *dāś* 'to give', giving". The Kannada explains these four:
-(1) *dakṣ* "to increase": the *dakṣiṇā* given for the sake of the rite increases the fruit; it makes the sacrificial rite, which is deficient, full; hence the name.
-(2) *pradakṣiṇā-gamana*: in the sacrificial hall one goes round the *gārhapatya*, *sadas* and *āgnīdhrīya* hearths in the manner of a *pradakṣiṇā* [keeping them on the right]; that circumambulation is *dakṣiṇā*.
-(3) *diśam abhipretya*: the Prajāpati who faces east has hands, of which the right hand is toward the south; and as the right hand is eager to do any work, the right hand is called *dakṣiṇa hasta* — a conventional use [by convention].
-(4) *dāśater*: from *dāś* "to give": as the right hand is used when giving gifts, the act of giving is called *dakṣiṇā*.
+("*Dakṣiṇā*, from *dakṣ*, meaning 'to make prosper': it makes prosperous what has failed; or from going round to the right; with reference to the quarter, it has the right hand as its source; the right hand, from *dakṣ*, meaning energy; or it may be from *dāś*, meaning giving": mine and tentative.) He gives four kinds of sense:
 
-Of these four meanings, the last, the act of giving, is the one by which the deity *dakṣiṇā* is indicated in this rik.
+(1) *Dakṣiṇā dakṣateḥ samardhayatikarmaṇo vyṛddhaṃ samardhayatīti*: the word *dakṣiṇā* comes from the root *dakṣ*; for this root the sense is "make (wealth) grow". Since the little wealth spent in the sacrifice, that is, given as *dakṣiṇā*, is made to grow greatly (as fruit), the word is named *dakṣiṇā*.
 
-**पातु, अंहसः (pātu, aṃhasaḥ)** — *aṃhaḥ* means sin: "protect from sin" — that is, give a good mind so that no sinful actions are done.
+(2) *Api vā pradakṣiṇāgamanāt*: since on the sacrificial altar one goes round the places called *gārhapatya*, *sadas* and *āgnīdhrīya* clockwise and stands in the inner altar, the going round clockwise done in this way is named *dakṣiṇā*.
 
-**Grammar pages (p. 769), noted briefly.** The Kannada says *brahmaṇaspate* was explained under the earlier mantra [*vyavahitamantre*, i.e. at 1.18.3]; *dakṣiṇā* (*dakṣ vṛddhau*; Uṇ. 2-50 *druvaṇa-dakṣibhyām inan* [as read]; the *n* of the suffix is *it*, *ṇatva* by P. 8-4-2; *ajādyataś ṭāp* P. 4-1-4 for the feminine, *savarṇadīrgha*; the word is used for the fee in a sacrifice, as a feminine, citing the Medinī lexicon: *dravinaṃ na dvayor vitte kāñcane ca parākrame | dakṣiṇā dakṣiṇodbhūtasaralacchandavṛttiṣu | avāme tripuyajñādividhidāne diśi striyām*); the *n*-mark gives first-syllable accent by P. 6-1-197; and *aṃhasaḥ* (*nabviṣayasyāniṣantasya* P. 6-1-219 gives first-syllable accent). ॥5॥ *(Numerals as read; pointers only; the Medinī verse is partly read from small print.)*
+(3) *Diśam abhipretya dighastaprakṛtiḥ dakṣiṇo hasto dakṣater utsāhakarmaṇaḥ*: since among the hands of Prajāpati, who faces east, the right hand faces south (is on the side of the southern quarter), and since the right hand does with energy whatever work is to be done, it has become usage to call the right hand *dakṣiṇo hastaḥ* with the word *dakṣiṇa*.
+
+(4) *Dāśater vā syād dānakarmaṇaḥ*: the root *dāś* means giving. Since in giving one usually uses the right hand, the act of giving is named *dakṣiṇā*.
+
+### Page 769 (upper) — Rik 5: Special Topics (end) and grammar
+
+Of these four kinds of sense, the last, the act of giving, is what is meant in this ṛk as the deity presiding over the *dakṣiṇā*.
+
+**Pātu, aṃhasaḥ**: *aṃhaḥ* means sin. "May he protect from sin" means: may he protect by giving good understanding so that one does no sinful deeds.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar on p. 769, noted briefly)*
+
+**ब्रह्मणस्पते (*brahmaṇaspate*)**: explained in an earlier mantra.
+
+**दक्षिणा (*dakṣiṇā*)**: the root *dakṣa vṛddhau*. By "drudakṣibhyām inan" (Uṇ. sū. "2-208" [?]; the bhāṣya gives 2-50), after the roots *dru gatau* and *dakṣa vṛddhau* the suffix *inan*; so after *dakṣ* the suffix *inan*; the *n* of the suffix is called *it*: *dakṣi* + *na*; by "aṭkupvāṅnum…" (Pā. sū. 8-4-2) *ṇ* for *n*. What is to be given in rites enjoined by the śāstra, such as sacrifice, is named *dakṣiṇā*; in this sense it is feminine. The Medinī-kośa has
+
+> द्रविणं न द्वयोर्वित्ते काञ्चने च पराक्रमे ।
+> दक्षिणा दक्षिणोद्भूतसरलच्छन्दवृत्तिषु ।
+> अवामे त्रिषु यज्ञादिविधिदाने दिशि स्त्रियाम् ॥
+>
+> *draviṇaṃ na dvayorvitte kāñcane ca parākrame |*
+> *dakṣiṇā dakṣiṇodbhūtasaralacchandavṛttiṣu |*
+> *avāme triṣu yajñādividhidāne diśi striyām ||*
+
+("*Draviṇa*, not of two genders, is wealth, gold and valour; *dakṣiṇā* … in the senses of south-born, straight, will and conduct; in the three genders for 'not left'; feminine for the gift at a sacrifice and the like, and for the quarter": mine and tentative; the lines are as printed.) So, with *ṭāp* by "ajādyataṣ ṭāp" (Pā. sū. 4-1-4) and lengthening of like vowels, it becomes *dakṣiṇā*. Since *dakṣiṇa* ends in a suffix with *n* as *it*, it is initial udātta by "ñnityādir nityam" (Pā. sū. 6-1-197).
+
+**अंहसः (*aṃhasaḥ*)**: initial udātta by "nabviṣayasyānisantasya" [no number printed].
+
+**॥५॥**
+
+---
 
 ### Pages 769–773 — Sūkta 18, Rik 6
 
