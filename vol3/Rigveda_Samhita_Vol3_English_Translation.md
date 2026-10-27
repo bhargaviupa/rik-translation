@@ -1530,63 +1530,79 @@ they hold that to read *iṣu* with the marker *u* is not from the ṛṣi [*an�
 
 *(An ornament follows.)*
 
-### Pages 64–66 — Sūkta 22, Rik 1
-
-**॥ ॐ ॥**
+### Page 64 — Sūkta 22: heading, Rik 1
 
 **॥ Sūkta — 22 ॥**
 **॥ Maṇḍala — 1 ॥ Anuvāka — 5 ॥ Sūkta — 22 ॥**
-**॥ Aṣṭaka — 1 ॥ Adhyāya — 2 ॥ Varga — 4–[?] [?] ॥** *(the small Kannada digits are unclear at 150 dpi; this sūkta runs over many vargas)*
-**॥ Mantras contained in this sūkta: 1–21 ॥**
-**॥ Ṛṣi — Medhātithi Kāṇva ॥**
-**॥ Devatā — 1–4 Aśvins; 5–8 Savitṛ; 9, 10 Agni; 11 the Devīs [wives of the gods]; 12 Indrāṇī, Varuṇānī, Agnāyī; 13, 14 Heaven-and-Earth; 15 Pṛthivī; 16–21 Viṣṇu — or the Viśvedevas ॥** *(as printed, rik by rik; the print's last item reads "viṣṇur devo vā" — "Viṣṇu or [all] the gods")*
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 2 ॥ Varga, 4–8 ॥**
+**॥ Number of ṛks in the sūkta: 1–21 ॥**
+**॥ Ṛṣiḥ — Medhātithiḥ Kāṇvaḥ ॥**
+**॥ Devatā — 1–4 Aśvinau | 5–8 Savitā | 9, 10 Agniḥ | 11 Devyaḥ | 12 Indrāṇī-Varuṇāny-Agnāyyaḥ | 13, 14 Dyāvāpṛthivyau | 15 Pṛthivī | 16 Viṣṇur devā vā | 17–21 Viṣṇuḥ ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
+
+### Sūkta 22, Rik 1
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्रातर्युजा वि बोधयाश्विनावेह गच्छताम् ।
-> अस्य सोमस्य पीतये ॥१॥
+> प्रा॒त॒र्युजा॒ वि बो॑धया॒श्विना॒वेह ग॑च्छताम् ।
+> अ॒स्य सोम॑स्य पी॒त॑ये ॥१॥
 >
-> *prātaryujā vi bodhayāśvināv eha gacchatām |*
-> *asya somasya pītaye ||1||*
+> *prātaryújā ví bodhayāśvínāv éhá gacchatām |*
+> *asyá sómasya pītaye ||1||*
+
+*(Bars under प्रा, त (प्रातर्), जा, या (बोधयाश्) and ना (अश्विना); strokes over बो and ग. Line 2: bars under अ and पी, strokes over म (सोमस्य) and त (पीतये).)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > प्रातःऽयुजा । वि । बोधय । अश्विनौ । आ । इह । गच्छताम् ॥
 > अस्य । सोमस्य । पीतये ॥१॥
 >
-> *prātaḥ-yujā | vi | bodhaya | aśvinau | ā | iha | gacchatām ||*
+> *prātaḥ 'yujā | vi | bodhaya | aśvinau | ā | iha | gacchatām ||*
 > *asya | somasya | pītaye ||1||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+*(The Pada prints अश्विनौ.)*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 64; compressed; [?] marks doubtful readings)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> अत्र होताध्वर्युमुद्दिश्य ब्रूते । हे अध्वर्यो प्रातर्युजा प्रातःसवनग्रहेण संयुक्तावश्विनौ देवौ वि बोधय । विशेषेण प्रबुद्धौ कुरु । अश्विनौ प्रबुद्धौ चाश्विनौ देवावस्याभिषवसंस्कारयुक्तस्य सोमस्य पीतये पानायेह कर्मण्या गच्छताम् । प्रातर्युजाते गृह्यमाणेन ग्रहेण सहेति प्रातर्युजा । सत्सूद्विषेत्यादिना क्विप् । सुपां सुलुगित्याकारः । कृदुत्तरपदप्रकृतिस्वरत्वम् । अस्य । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । पीतये । व्यत्ययेन क्तिन उदात्तत्वम् ॥
+> अत्र होताध्वर्युमुद्दिश्य ब्रूते । हे अध्वर्यो प्रातर्युजा प्रातःसवनग्रहेण संयुक्तावश्विनौ देवौ वि बोधय । विशेषेण प्रबुद्धौ कुरु । अश्विनौ प्रबुद्धौ चाश्विनौ देवावस्याभिषवसंस्कारयुक्तस्य सोमस्य पीतये पानायेह कर्मण्या गच्छतां ॥ प्रातर्युञ्जाते गृह्यमाणेन ग्रहेण सहेति प्रातर्युजा । सत्सूद्विषेत्यादिना क्विप् । सुपां सुलुगित्याकारः । कृदुत्तरपदप्रकृतिस्वरत्वं । अस्य । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं । पीतये । व्यत्ययेन क्तिन उदात्तत्वं ॥
 >
-> *atra hotādhvaryum uddiśya brūte | he adhvaryo prātaryujā prātaḥsavana-grahena saṃyuktāv aśvinau devau vi bodhaya | viśeṣeṇa prabuddhau kuru | aśvinau prabuddhau cāśvinau devāv asyābhiṣava-saṃskāra-yuktasya somasya pītaye pānāyeha karmaṇy ā gacchatām | prātaryujāte gṛhyamāṇena grahena saheti prātaryujā | sat-sūd-viṣety-ādinā kvip | supāṃ sulug ity ākāraḥ | kṛd-uttarapada-prakṛti-svaratvam | asya | ūḍidam ity-ādinā vibhakter udāttatvam | pītaye | vyatyayena ktina udāttatvam ||*
+> *atra hotādhvaryumuddiśya brūte | he adhvaryo prātaryujā prātaḥsavanagraheṇa saṃyuktāvaśvinau devau vi bodhaya | viśeṣeṇa prabuddhau kuru | aśvinau prabuddhau cāśvinau devāvasyābhiṣavasaṃskārayuktasya somasya pītaye pānāyeha karmaṇyā gacchatāṃ || prātaryuñjāte gṛhyamāṇena graheṇa saheti prātaryujā | satsūdviṣetyādinā kvip | supāṃ sulugityākāraḥ | kṛduttarapadaprakṛtisvaratvaṃ | asya | ūḍidamityādinā vibhakterudāttatvaṃ | pītaye | vyatyayena ktina udāttatvaṃ ||*
 
-**Translation:** "Here the *hotṛ* speaks, addressing the *adhvaryu*: O Adhvaryu! Awaken (*vi bodhaya*) the two Aśvin gods who are *prātaryujā* — joined with the *graha* [soma-cup] of the morning pressing; make them fully awake. And, awakened, let the two Aśvin gods come (*ā gacchatām*) here, to this rite, for the drinking (*pītaye*) of this soma, which has been prepared by the pressing. *Prātaryujā* — 'they who join (*yujāte*) in the morning with the *graha* being taken.' [Grammar:] *kvip* by P. 3-2-61 *satsūdviṣa…*; the dual ending replaced by *ā*; the accent of the final member; *asya* — the ending accented by P. 6-1-171 *ūḍidam…*; *pītaye* — *ktin* accented by *vyatyaya*." *(Grammar, noted briefly.)*
+**Translation:** "Here the *hotṛ* speaks addressing the *adhvaryu*. O *adhvaryu*! *Vi bodhaya*, awaken — make fully awake — the two gods, the Aśvins, *prātaryujā*, joined with the cup of the morning pressing. And may the Aśvins, awakened, *ā gacchatām*, come, *iha*, here to the rite, *asya somasya pītaye*, to drink this soma furnished with the pressing and preparation." (Grammatical tail: *prātaryujā*, 'they are joined at morning with the cup being taken', *kvip* by *satsūdviṣa…*, the *ā* by *supāṃ suluk…*, the accent of the *kṛt* final member; *asya*, the case-ending udātta by *ūḍidam…*; *pītaye*, the udātta of *ktin* by *vyatyaya*.)
 
-**Grammar pages (pp. 65 lower half–66), noted briefly.** The Kannada treats *prātaryujā* (*prātaḥ yujyete iti*; 'they join, in the morning pressing, with the *graha* that is taken' is the sense of the parts; *kvip* by P. 3-2-61 *satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasarge 'pi kvip*; *au* → *ā* by P. 7-1-39 *supāṃ sulug…*; *yuj*'s *u* is accented by *dhātoḥ* P. 6-1-162 in the compound after *gatikārakopapadāt kṛt* P. 6-2-139 retains the final member's accent), *asya* (*idam* + *ṅas*; *tyadādīnām aḥ* P. 7-2-102, *ato guṇe* P. 6-1-97; *ṅasaḥ sya* by P. 7-1-12 *ṭāṅasiṅasām inātsyāḥ*; *halilopaḥ* [*hali lopaḥ* P. 7-2-113] drops the *id* of *idam* since *id* is not a substitution-field for *anvādeśa*, hence the unaccented *aś* of P. 8-1-… *idamo 'nvādeśe 'śanudātta…* is not substituted; the stem is first-syllable accented as a *prātipadika*; the *ṅas* ending is unaccented by P. 3-1-4, but because the stem *idam* is among the *ūḍidam* group, P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ* gives the ending the accent), *pītaye* (*ktin* has the *n*, so first-syllable accent, which would make *pīti* first-syllable accented; but with *ktin* — *kṛt* — being accented [as *ktin* is *udātta* by its own *n*? the Kannada notes the end-accent in the Veda by *vyatyaya*]). ॥1॥ *(Outline only; numerals as read; pointers only.)*
+### Page 65 — Rik 1: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Prati-padārthaḥ ॥** *(p. 65)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे अध्वर्यो) ((he adhvaryo))** — O Adhvaryu [priest] | **प्रातर्युजा (prātaryujā)** — joined with the *graha* of the morning pressing | **अश्विनौ (aśvinau)** — the Aśvin deities | **वि बोधय (vi bodhaya)** — wake [them fully] | **(अश्विनौ) ((aśvinau))** — [the Aśvins, thus] awakened | **अस्य (asya)** — of this [prepared] | **सोमस्य (somasya)** — soma-juice | **पीतये (pītaye)** — for drinking | **इह (iha)** — here | **आ गच्छताम् (ā gacchatām)** — let them come.
+**(हे अध्वर्यो) ((he adhvaryo))** — (O *adhvaryu*) | **प्रातर्युजा (prātaryujā)** — joined with the cup of the morning pressing | **अश्विनौ (aśvinau)** — the Aśvin deities | **वि बोधय (vi bodhaya)** — make them awake (rouse them) | **(अश्विनौ) ((aśvinau))** — (O Aśvin deities, awakened) | **अस्य (asya)** — this (prepared) | **सोमस्य (somasya)** — of the soma juice | **पीतये (pītaye)** — for drinking | **इह (iha)** — to this place | **आ गच्छतां (ā gacchatāṃ)** — come.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Adhvaryu! Wake fully the Aśvin deities, who are necessary for the morning pressing. May they, awakened, come here and drink the prepared soma-juice.
+O *adhvaryu*, awaken the Aśvin deities, needed for the morning pressing. (Rouse them.) Awakened, may they come here and drink the soma juice that has been prepared.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Awaken the Aswins for the morning Sacrifice ; let them both come hither to drink of this Soma-juice.
+> Awaken the Aswins for the morning Sacrifice; let them both come hither to drink of this Soma-juice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 65)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-The first half of this rik is spoken with reference to the priest called the Adhvaryu.
+The first half of this ṛk is spoken addressing the priest called *adhvaryu*.
 
-**प्रातर्युजा (prātaryujā)** — *prātaḥsavana-grahena saṃyuktau*: [the Aśvins] joined with the *graha* of the morning pressing. The commentator explains that they are to be made ready to receive the *graha* [cup of soma] at the morning pressing. Skandasvāmin's view is the same. But the author of the *Vedārthayatna* says *prātaryujā* = *prātaḥ kāle aśvau rathe yojayantau* — "those who in the morning yoke their horses to the chariot", in order to come to the sacrifice. Since neither the word 'chariot' nor the word 'horse' occurs here, and since *vibodhaya* means 'wake', the sense — *those who rise from bed and so on and yoke their horses to the chariot, and then wake them* — is impossible; so this sense is not acceptable. The explanations of Sāyaṇa and Skandasvāmin are the consistent ones.
+**प्रातर्युजा (prātaryujā)** — *prātaḥsavanagraheṇa saṃyuktau ||* The commentator gives the sense: so that they become ready at the time of the morning pressing for taking the cup of soma-drinking connected with the Aśvina rite. Skandasvāmin's intention too is the same. But the author of the *Vedārthayatna* gives the sense *prātaryujā* — *prātaḥkāle aśvau rathe yojayantau*: harnessing their horses to the chariot at morning, getting ready to come to the sacrificial altar. Since there is neither the word 'chariot' nor the word 'horse' here, and since there is the word *vibodhaya*, 'rouse', and it is improbable that those who have risen from their beds and are harnessing horses to the chariot are to be roused again, this sense is not acceptable. The sense of Sāyaṇa and of Skandasvāmin is the fitting one.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**प्रातर्युजा (prātaryujā)** — the analysis is *prātaḥ yuñjāte iti prātaryujā*: *prātaḥ* = at the morning pressing; *yuñjāte* = they join with the cup being taken: this is the sense of the parts. By *satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasarge 'pi kvip* (Pā. Sū. 3-2-61) the suffix *kvip*; by *supāṃ suluk* the substitute *ā* for the suffix *auṭ*; *yuj*, being a root with *u*, by the root
+
+### Page 66 (upper) — Rik 1: grammar (end)
+
+accent is udātta; an *upapada* compound; by *gatikārakopapadāt kṛt* the accent of the *kṛt* final member.
+
+**अस्य (asya)** — after the word *idam*, the genitive singular *jas* [as printed; for *ṅas*]; by *tyadādīnām aḥ* (Pā. Sū. 7-2-102) *a* for the *m*; by *ato guṇe* (Pā. Sū. 6-1-97) the following form; by *ṭāṅasiṅasām inātsyāḥ* (Pā. Sū. 7-1-12) the substitute *sya*; by *hali lopaḥ* (Pā. Sū. 7-2-113) *id* is dropped; since it is not a case of *anvādeśa*, the unaccented substitute *aś* by *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. Sū. 8-3-41, as printed) does not come. The *a* is udātta by the stem accent; by *anudāttau suppitau* (Pā. Sū. 3-1-4) the case-ending would be unaccented; but since it comes after the word *idam*, by *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171) the case-ending takes the udātta.
+
+**पीतये (pītaye)** — since the suffix *ktin* has the marker *n*, by the *nit* accent the word *pīti* would properly be initially udātta; that is, by *śeṣanighāta* *ktin* would have to be unaccented; yet here by *vyatyaya* the suffix *ktin* is udātta. ॥1॥
+
+---
 
 ### Pages 66–68 — Sūkta 22, Rik 2
 
