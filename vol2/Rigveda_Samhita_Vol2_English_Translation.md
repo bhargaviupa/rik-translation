@@ -12362,57 +12362,111 @@ gives *ay* for *ṇi* before *ām*, *anta*, *ālu*, *āyya*, *itnu*, *iṣṇu*:
 
 ---
 
-### Pages 599–603 — Sūkta 14, Rik 5
+### Page 599 (lower) — Sūkta 14, Rik 5
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ईळते त्वामवस्यवः कण्वासो वृक्तबर्हिषः ।
-> हविष्मन्तो अरंकृतः ॥५॥
+> ईळ॑ते॒ त्वाम॑व॒स्यवः॒ कण्वा॑सो वृ॒क्तब॑र्हिषः ।
+> ह॒विष्म॑न्तो अ॒रं॒कृतः॑ ॥५॥ [accent ?]
 >
-> *īḷate tvām avasyavaḥ kaṇvāso vṛktabarhiṣaḥ |*
-> *haviṣmanto araṅkṛtaḥ ||5||*
+> *ī́ḷate tvā́m avasyávaḥ káṇvāso vṛktábarhiṣaḥ |*
+> *havíṣmanto araṃkṛ́taḥ ||5||* [accent ?]
+
+*(Line 2: the bars at the foot of the page are faint; the stroke stands over कृ/तः, read as over तः.)*
+
+### Page 600 — Rik 5: Pada, bhāṣya, word-meanings, overall sense
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > ईळते । त्वाम् । अवस्यवः । कण्वासः । वृक्तऽबर्हिषः ॥
 > हविष्मन्तः । अरम्ऽकृतः ॥५॥
 >
-> *īḷate | tvām | avasyavaḥ | kaṇvāsaḥ | vṛkta-barhiṣaḥ ||*
-> *haviṣmantaḥ | aram-kṛtaḥ ||5||*
+> *īḷate | tvām | avasyavaḥ | kaṇvāsaḥ | vṛkta 'barhiṣaḥ ||*
+> *haviṣmantaḥ | aram 'kṛtaḥ ||5||*
 
-*(Accent-marks are printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 600; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने त्वामीळते ऋत्विजः स्तुवन्ति । कीदृशाः । अवस्यवः । अवनं रक्षणं तद्देवोऽ…न् [?] देवानिच्छन्तः । कण्वासो मेधाविनो वृक्तबर्हिष आस्तरणार्थं छिन्नदर्भा हविष्मन्तो हविर्युक्ता अरंकृतोऽलंकर्तारः ॥ ईळते । ईड स्तुतौ । अनुदात्तेत्त्वाल्लटो झः । आदिप्रभृतिभ्यः शप इति शपो लुक् । झस्यात्वादेशः । टेरेत्वम् । तास्यनुदात्तेदित्यादिना लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वर एव शिष्यते । अवस्यवः । अवमात्मन इच्छन्ति । सुप आत्मनः क्यच् । क्यचि च । पा. ७-४-३३ । इतीत्त्वं न भवति । न छन्दस्यपुत्रस्य । पा. ७-४-३५ । इति निषेधात् । सर्वप्रातिपदिकेभ्यो लालसायां सुग्वक्तव्यः । … इति सुक् । क्याच्छन्दसीत्युप्रत्ययः । आतो लोपः । प्रत्ययस्वरेणान्तोदात्तत्वम् । कण्वासः । कण शब्दार्थः । कणन्ति ध्वनन्ति स्तोत्रादिपाठेनेति कण्वा ऋत्विजः । अशूप्रुषीत्यादिना क्वन् । नित्त्वादाद्युदात्तः । आज्जसेरसुक् । पा. ७-१-५० । इत्यसुक् । वृक्तबर्हिषः । वृक्तमुक्तं । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । हविष्मन्तः । हविरेषामस्तीति हविष्मन्तः । तसौ मत्वर्थ इति भत्वेनापदत्वान्न रुत्वम् । अरंकृतः । अलंकुर्वन्तीत्यरंकृतः । क्विप् च । क्विप् । ह्रस्वस्य तुक् । कपिलकादीनां संज्ञाच्छन्दसोर्वा लो रश्चमापद्यते । इति लकारस्य रेफादेशः ॥
+> हे अग्ने त्वामीळते । ऋत्विजः स्तुवन्ति । कीदृशाः । अवस्यवः । अवनं रक्षणं तद्धेतून्देवानिच्छन्तः । कण्वासो मेधाविनो वृक्तबर्हिष आस्तरणार्थं छिन्नदर्भा हविष्मन्तो हविर्युक्ता अरंकृतो ऽलंकर्तारः ॥ ईळते । ईड स्तुतौ । अनुदात्तेत्त्वाल्लटो झः । अदिप्रभृतिभ्यः शप इति शपो लुक् । झस्यादादेशः । टेरेत्वं । तास्यनुदात्तेदित्यादिना लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वर एव शिष्यते । अवस्यवः । अवन्तीत्यवा देवाः । तानतिशयेनेच्छन्ति । सुप आत्मनः क्यच् । क्यचि च । पा. ७-४-३३ । इतीत्वं न भवति । न छन्दस्यपुत्रस्य । पा. ७-४-३५ । इति निषेधात् । सर्वप्रातिपदिकेभ्यो लालसायां सुग्वक्तव्यः । म. ७-१-५१-२ । इति सुक् । क्याच्छन्दसीत्युप्रत्ययः । अतो लोपः । प्रत्ययस्वरेणान्तोदात्तत्वं । कण्वासः । कण शब्दार्थः । कणन्ति ध्वनन्ति स्तोत्रादिपाठेनेति कण्वा ऋत्विजः । अशिप्रुषीत्यादिना क्वन् । नित्त्वादाद्युदात्तः । आज्जसेरसुक् । पा. ७-१-५० । इत्यसुक् । वृक्तबर्हिषः । वृक्तमुक्तं । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । हविष्मन्तः । हविरेषामस्तीति हविष्मन्तः । तसौ मत्वर्थ इति भत्वेनापदत्वान्न रुत्वं । अरंकृतः । अलंकुर्वन्तीत्यरंकृतः । क्विप्चेति क्विप् । ह्रस्वस्य तुक् । कपिलकादीनां संज्ञाछन्दसोर्वा लो रत्वमापद्यते । पा. ८-२-१८-३ । इति लकारस्य रेफादेशः ॥
 >
-> *he agne tvām īḷate ṛtvijaḥ stuvanti | kīdṛśāḥ | avasyavaḥ | avanaṃ rakṣaṇaṃ tad-… [?] devān icchantaḥ | kaṇvāso medhāvino vṛkta-barhiṣa āstaraṇārthaṃ chinna-darbhā haviṣmanto havir-yuktā araṅkṛto 'laṅkartāraḥ || īḷate | īḍa stutau | anudāttettvāl laṭo jhaḥ | ādiprabhṛtibhyaḥ śapa iti śapo luk | jhasyātvādeśaḥ | ṭer ettvam | tāsy-anudāttetty-ādinā lasārvadhātukasyānudāttatvād dhātu-svara eva śiṣyate | avasyavaḥ | avam ātmana icchanti | supa ātmanaḥ kyac | kyaci ca | pā. 7-4-33 | itīttvaṃ na bhavati | na chandasy aputrasya | pā. 7-4-35 | iti niṣedhāt | sarva-prātipadikebhyo lālasāyāṃ sug vaktavyaḥ | … iti suk | kyāc chandasīty u-pratyayaḥ | āto lopaḥ | pratyaya-svareṇāntodāttatvam | kaṇvāsaḥ | kaṇa śabdārthaḥ | kaṇanti dhvananti stotrādi-pāṭheneti kaṇvā ṛtvijaḥ | aśūpruṣīty-ādinā kvan | nittvād ādyudāttaḥ | āj jaser asuk | pā. 7-1-50 | ity asuk | vṛkta-barhiṣaḥ | vṛktam uktaṃ | bahuvrīhau pūrvapada-prakṛti-svaratvam | haviṣmantaḥ | havir eṣām astīti haviṣmantaḥ | tasau matvartha iti bhatvenāpadatvān na rutvam | araṅkṛtaḥ | alaṅkurvantīty araṅkṛtaḥ | kvip ca | kvip | hrasvasya tuk | kapilakādīnāṃ saṃjñā-chandasor vā lo raś camāpadyate | iti lakārasya repha-ādeśaḥ ||*
+> *he agne tvāmīḷate | ṛtvijaḥ stuvanti | kīdṛśāḥ | avasyavaḥ | avanaṃ rakṣaṇaṃ taddhetūndevānicchantaḥ | kaṇvāso medhāvino vṛktabarhiṣa āstaraṇārthaṃ chinnadarbhā haviṣmanto haviryuktā araṃkṛto 'laṃkartāraḥ || īḷate | īḍa stutau | anudāttettvāllaṭo jhaḥ | adiprabhṛtibhyaḥ śapa iti śapo luk | jhasyādādeśaḥ | ṭeretvaṃ | tāsyanudāttedityādinā lasārvadhātukasyānudāttatvāddhātusvara eva śiṣyate | avasyavaḥ | avantītyavā devāḥ | tānatiśayenecchanti | supa ātmanaḥ kyac | kyaci ca | pā. 7-4-33 | itītvaṃ na bhavati | na chandasyaputrasya | pā. 7-4-35 | iti niṣedhāt | sarvaprātipadikebhyo lālasāyāṃ sugvaktavyaḥ | ma. 7-1-51-2 | iti suk | kyācchandasītyupratyayaḥ | ato lopaḥ | pratyayasvareṇāntodāttatvaṃ | kaṇvāsaḥ | kaṇa śabdārthaḥ | kaṇanti dhvananti stotrādipāṭheneti kaṇvā ṛtvijaḥ | aśipruṣītyādinā kvan | nittvādādyudāttaḥ | ājjaserasuk | pā. 7-1-50 | ityasuk | vṛktabarhiṣaḥ | vṛktamuktaṃ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | haviṣmantaḥ | havireṣāmastīti haviṣmantaḥ | tasau matvartha iti bhatvenāpadatvānna rutvaṃ | araṃkṛtaḥ | alaṃkurvantītyaraṃkṛtaḥ | kvipceti kvip | hrasvasya tuk | kapilakādīnāṃ saṃjñāchandasorvā lo ratvamāpadyate | pā. 8-2-18-3 | iti lakārasya rephādeśaḥ ||*
 
-**Translation:** "O Agni, the priests praise (*īḷate*) you. Of what sort? *Avasyavaḥ* — desiring *avana*, protection, [from the gods]; *kaṇvāsaḥ* — the wise [priests]; *vṛktabarhiṣaḥ* — having cut the *darbha* grass for spreading [as your seat]; *haviṣmantaḥ* — possessing oblations; *araṅkṛtaḥ* — adorners (those who decorate)." *(The words after "protection" in the second sentence are partly unclear in the print; I give them with a query.)* The rest is grammar: *īḷate* — root *īḍ* "to praise", *laṭ*, third plural *jha* → *ate*, *śap* dropped, accent kept on the root; *avasyavaḥ* — *avam ātmana icchanti*: *kyac* in the sense of wishing, with *suk* (P. 7-4-33 and 7-4-35 bar the *ī*-lengthening), then the *u* suffix and the loss of *ā*; *kaṇvāsaḥ* — root *kaṇ* "to sound": "they sound, i.e. voice the hymns" — *kvan* by the Uṇādi sūtra *aśūpruṣi…*, first-syllable accent, the plural ending *asuk* by P. 7-1-50 *āj jaser asuk*; *vṛktabarhiṣaḥ* — *vṛkta* = "cut off", a bahuvrīhi keeping the accent of the first member; *haviṣmantaḥ* — "those who have *havis*"; *araṅkṛtaḥ* — "those who make fit", *alam* + *kṛ* + *kvip*, *tuk* after a short vowel, and the optional change of *l* to *r* in the word *alam* by the Vārttika *kapilakādīnāṃ saṃjñā-chandasor vā lo raś ca…* *(Grammar, noted briefly; the sūtras 7-4-33, 7-4-35, 7-1-50 are as read and match the standard numbering; the remaining numerals I could not read at 150 dpi.)*
+**Translation:** "O Agni, the priests *īḷate*, praise, you. What are they like? *Avasyavaḥ*: desiring the gods, who are the cause of *avana*, protection; *kaṇvāsaḥ*, wise; *vṛktabarhiṣaḥ*, having cut the *darbha* for spreading; *haviṣmantaḥ*, having the oblation; *araṅkṛtaḥ*, adorners." (Grammatical tail: *īḷate* from *īḍ*, *ātmanepada* (*anudātta*-marked root), *śap* dropped, *at* for *jh*, *e* for the *ṭi*, the root accent; *avasyavaḥ*: *avāḥ* are the gods, who protect, "they desire them greatly": *kyac*, no *ī* (Pā. 7-4-33 barred by Pā. 7-4-35), the augment *s* by the vārttika on *lālasā* (MB 7-1-51-2), *u* by *kyāc chandasi*, the *a* dropped, final udātta; *kaṇvāsaḥ* from *kaṇ* with *kvan*, initial udātta, *asuk* by Pā. 7-1-50; *vṛktabarhiṣaḥ*, a bahuvrīhi, first-member accent; *haviṣmantaḥ*, no *ru* (*bha* status); *araṅkṛtaḥ* with *kvip*, *tuk*, and *r* for the *l* of *alam* by the vārttika on *kapilakādi* (Pā. 8-2-18-3).)
 
-**॥ Prati-padārthaḥ ॥** *(p. 600)*
+**॥ Prati-padārthaḥ ॥**
 
-**(हे अग्ने) ((he agne))** — O Agni | **अवस्यवः (avasyavaḥ)** — desiring the help of the gods, for protection | **वृक्तबर्हिषः (vṛkta-barhiṣaḥ)** — having the *darbha* grass trimmed (for your seat) | **हविष्मन्तः (haviṣmantaḥ)** — holding the oblation | **अरंकृतः (araṅkṛtaḥ)** — offering ornaments | **कण्वासः (kaṇvāsaḥ)** — the wise priests, or priests of the lineage of the ṛṣi Kaṇva | **त्वाम् (tvām)** — you | **ईळते (īḷate)** — praise.
+*(O Agni)* **अवस्यवः (avasyavaḥ)** — seeking the help of the gods who protect | **वृक्तबर्हिषः (vṛkta-barhiṣaḥ)** — having *darbha* made ready (for the seat) | **हविष्मन्तः (haviṣmantaḥ)** — holding the oblation | **अरंकृतः (araṅkṛtaḥ)** — offering ornaments | **कण्वासः (kaṇvāsaḥ)** — the priests, who are wise, or of the line of the ṛṣi Kaṇva | **त्वाम् (tvām)** — you | **ईळते (īḷate)** — praise.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! The priests seek the help of the gods for the protection of their sacrifice; they are skilled in praising. You are the one who calls the gods; therefore they now praise you. For your seat they have prepared the *darbha* grass; they offer the oblation and ornaments. Be gracious and come.
+O Agni, the priests seek the help of the gods for the protection of their sacrifice. They are skilled at praising. It is you who call the gods, so they now praise you. They have made the *darbha* ready for your seat. They offer the oblation and ornaments. Be gracious and come.
+
+### Page 601 — Rik 5: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Agni, the Kanvas (or the wise priests) desirous of your favour, having spread [print: "spiead", sic] the sacrificial grass and carrying the oblations and ornaments are praising you.
+> O Agni, the Kanvas (or the wise priests) desirous of your favour, having spread the sacrificial grass and carrying the oblations and ornaments are praising you.
 
-*(A bare numeral "76" follows at the foot of p. 601, as with the earlier "74" and "75".)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 601)*
+**Avasyavaḥ**:
 
-**अवस्यवः (avasyavaḥ)** — *avanaṃ rakṣaṇaṃ tad icchantaḥ devān* [the print of the Sanskrit gloss as read]; *avanti ity avā devāḥ*: because the gods protect human beings, the gods are called *avāḥ*; those who desire them are *avasyavaḥ*.
+> अवनं रक्षणं तद्धेतून् देवानिच्छन्तः । अवन्तीत्यवा देवाः ॥
+>
+> *avanaṃ rakṣaṇaṃ taddhetūn devānicchantaḥ | avantītyavā devāḥ ||*
 
-**कण्वासः (kaṇvāsaḥ)** — the plural of *kaṇva*; *kaṇvāḥ* is the ancient form of use. *Kaṇanti dhvananti stotrādi-pāṭhena iti kaṇvāḥ ṛtvijaḥ medhāvinaḥ*: those who sound (utter aloud) hymns and so on are called *kaṇvāḥ*, priests; the word also has the sense *medhāvin* "intelligent" (see Rik 2). The commentator takes the word in the sense obtained from its derivation; another sense is possible, since the ṛṣi of this rik is of the Kaṇva lineage: in naming himself and his fellow priests, sacrificers and others of his family, the speaker would naturally use *kaṇvāsaḥ* with the meaning "we, who are of the lineage of the ṛṣi Kaṇva".
+Since they protect men, the gods are called *avāḥ*; those who look to those gods are called *avasyavaḥ*.
 
-**वृक्तबर्हिषः (vṛkta-barhiṣaḥ)** — we have given the explanation of this word earlier [the print gives a Sūkta/Rik pointer, "Sūkta 13 rik 3"? (the numerals are small and I read them with a query)].
+**Kaṇvāsaḥ**: the plural of the word *kaṇva*; *kaṇvāsaḥ* is the old form of *kaṇvāḥ*.
 
-**अरंकृतः (araṅkṛtaḥ)** — for the explanation of this word see the Ṛgveda Saṃhitā, earlier part, [page numeral unreadable] [?].
+> कणन्ति ध्वनन्ति स्तोत्रादिपाठेनेति कण्वा ऋत्विजो मेधाविनः ॥
+>
+> *kaṇanti dhvananti stotrādipāṭheneti kaṇvā ṛtvijo medhāvinaḥ ||*
+
+Since they recite hymns and the like aloud, the priests are called *kaṇvāḥ*. The Bhāṣyakāra gives the word the sense *medhāvinaḥ*, the wise. Besides the sense that comes from the derivation of its parts, another sense can be given: since the ṛṣi of this Ṛk is of the Kaṇva line, it is fitting to say that, speaking of the priests, sacrificers and others of his line, he used the word *kaṇvāsaḥ* with the sense "we of the line of the ṛṣi Kaṇva" in mind.
+
+**Vṛktabarhiṣaḥ**: we have given the explanation of this word on page "25" [?].
+
+**Araṅkṛtaḥ**: for the explanation of this word see Ṛ. Saṃ. Part 1, page "677" [?].
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 601–603, noted briefly)*
+
+**ईळते (*īḷate*)**: *īḍa stutau*, *anudāttet*, so the *ātmanepada* by "anudāttaṅita ātmanepadam" (Pā. sū. 1-3-12); 3rd plural *jha*; the *śap* of "kartari śap" is dropped by "adiprabhṛtibhyaḥ śapaḥ" (Pā. sū. 2-4-72); *at* for the *jh* by "ātmanepadeṣv anataḥ" (Pā. sū. 7-1-5); *e* for the *ṭi* by "ṭita ātmanepadānāṃ ṭere" (Pā. sū. 3-4-79); *ḷ* for the *ḍ* of *īḍate* by "dvayoś cāsya svarayoḥ"; by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam ahnviṅoḥ" (Pā. sū. 6-1-186) the *sārvadhātuka* *ate* standing for the *lakāra* is unaccented, and the root accent remains.
+
+**अवस्यवः (*avasyavaḥ*)**: *avanti rakṣanti ity avāḥ = devāḥ*; *ava rakṣaṇe* with *ac*; *avān atiśayena icchanti*. "supa ātmanaḥ kyac" (Pā. sū. 3-1-8) gives *kyac*.
+
+### Page 602 — Rik 5: grammar (continued)
+
+"na chandasy aputrasya" (Pā. sū. 7-4-35) bars in the Veda the *ī* and the lengthening before *kyac* for *a*-final words other than *putra*; so neither "kyaci ca" (Pā. sū. 7-4-33, *ī* for *a* before *kyac*) nor, by the same bar, the lengthening of "akṛtsārvadhātukayoḥ" (Pā. sū. "7-4-2?" [?]) comes. "sarvaprātipadikebhyo lālasāyāṃ sug vaktavyaḥ" (Pā. sū. 7-1-51 vā. 2): when eagerness is shown, all stems before *kyac* take the augment *suk*: *avas* + *ya*; "kyāc chandasi" (Pā. sū. 3-2-170): *kya* covers *kyac*, *kyaṅ* and *kyaṣ* alike; after a *kya*-ending root the suffix *u* comes in the Veda in the senses of habit and the like, so the Kāśikākāra holds; some hold that by the force of the explanation the word *kya* also takes in the *kaṇḍvādi* *yak*. With *u*: *avasya* + *u*; "ato lopaḥ" (Pā. sū. 6-4-48) drops the *a*: *avasyu*; final udātta by the suffix accent; nominative plural *avasyavaḥ*.
+
+**कण्वासः (*kaṇvāsaḥ*)**: *kaṇa śabdārthaḥ*; *kaṇanti dhvananti stotrādipāṭhena* (they make sound by reciting hymns and the like) *iti kaṇvāḥ ṛtvijaḥ*. "aśūpruṣilaṭikaṇikhaṭiviśibhyaḥ kvan" (Uṇ. sū. 1-149) gives *kvan* after *kaṇ*; then *jas*, and "ājjaser asuk" (Pā. sū. 7-1-50) gives the augment *as*: *kaṇvāsaḥ*.
+
+**वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)**: the formation of *vṛkta* is set out in Sū. "12" [?] Ṛk 3; *vṛkta* is final udātta by the suffix accent. *Vṛktāni barhīṃṣi yeṣāṃ te*: a bahuvrīhi; by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. sū. 6-2-1) the first member keeps its accent.
+
+**हविष्मन्तः (*haviṣmantaḥ*)**: *haviḥ eṣām asti iti*; *matup* after *havis* by "tad asyāsty asminn iti matup" (Pā. sū. 5-2-94); *ṣ* for the *s* by "ādeśapratyayayoḥ" (Pā. sū. 8-3-59); *jas*; *num* by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (Pā. sū. 7-1-70); *havis* is *bha* by "tasau matvarthe" (Pā. sū. 1-4-19), which bars the *pada* status, so the *s* does not become *ru*.
+
+**अरंकृतः (*araṅkṛtaḥ*)**: *alaṃkurvanti ity araṅkṛtaḥ*; with the *subanta* *alam* as *upapada*, *kvip* after *kṛñ* by "kvip ca" (Pā. sū. 3-2-76),
+
+### Page 603 — Rik 5: grammar (end)
+
+and the *kvip* drops. By *pratyayalakṣaṇa* the *kvip* still counts as following, so "hrasvasya piti kṛti tuk" (Pā. sū. 6-1-71) gives the augment *tuk*, which, being *kit*, comes at the end by "ādyantau ṭakitau" (Pā. sū. 1-1-46). "kapilakādīnāṃ saṃjñāchandasor vā lo ratvam āpadyate" (Pā. sū. ma. 8-2-18): in names and in the Veda the *l* of words in the *kapilakādi* class becomes *r* optionally, so the *l* of *alam* becomes *r*; *kapilakādi* is an *ākṛtigaṇa*, and *alam* belongs to it. The Mahābhāṣya here has
+
+> वालमूललघ्वलमङ्गुलीनां वा लो रत्वमापद्यते
+>
+> *vālamūlalaghvalamaṅgulīnāṃ vā lo ratvamāpadyate*
+
+*(MB 8-2-18-2)*: the *l* of *vāla*, *mūla*, *laghu*, *alam*, *aṅguli* becomes *r* optionally; examples: *aśvavāraḥ*/*aśvavālaḥ*, *mūradevaḥ*/*mūladevaḥ*, *laghusyadaḥ*/*raghusyadaḥ*, *alambhaktāya*/*arambhaktāya*, *svaṅguliḥ*/*svaṅguriḥ*; and then the statement *saṃjñāchandasor vā kapilakādīnām*, with the examples *kapirakaḥ*/*kapilakaḥ*, *tilvilikam*/*tirvirikam*, *kalmaṣam*/*karmaṣam*, *romāṇi*/*lomāni*, *pāṃsulam*/*pāṃsuram*, *karma*/*kalma*, *śukraḥ*/*śuklaḥ*. The Kaiyaṭakāra says *kapilakādiṣu vāraśyalaḥ*: for the *r* of the *kapilakādi* words *l* comes optionally. On this the Uddyota has
+
+> पूर्ववाक्येन लस्य रत्वं प्रोक्तम् अनेन रस्य लो वेत्यर्थः
+>
+> *pūrvavākyena lasya ratvaṃ proktam anena rasya lo vetyarthaḥ*
+
+that is, by the earlier statement *vāla-mūla…* the *r* for the *l* is laid down optionally, and by this statement the *l* for the *r* optionally. So, following the reading of Kaiyaṭa and the Uddyotakāra, it is fitting to say that here the *r* for the *l* comes by *vālamūla…*.
+
+**॥५॥**
+
+---
 
 ### Pages 603–607 — Sūkta 14, Rik 6
 
