@@ -2618,38 +2618,68 @@ but in *sthānivad ādeśo 'nalvidhau* (Pā. Sū. 1-1-56), *analvidhau* means th
 
 ---
 
-### Pages 109–111 — Sūkta 22, Rik 14
+### Page 109 (lower) — Sūkta 22, Rik 14
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तयोरिद्घृतवत्पयो विप्रा रिहन्ति धीतिभिः ।
-> गन्धर्वस्य ध्रुवे पदे ॥ १४ ॥
+> त॒योरिद्घृ॒तव॒त्पयो॒ विप्रा॑ रिहन्ति धी॒तिभिः॑ । [accent ?]
+> ग॒न्ध॒र्व॑स्य ध्रु॒वे प॒दे ॥१४॥
+>
+> *tayór id ghṛtávat páyo víprā rihanti dhītíbhiḥ |* [accent ?]
+> *gandharvasya dhruvé padé ||14||*
 
-*tayor id ghṛtavat payo viprā rihanti dhītibhiḥ | gandharvasya dhruve pade || 14 ||*
+*(Bars under त or यो of तयोः (the bar stands between them [accent ?]), घृ, व (वत्), यो (पयो) and धी; strokes over प्रा and भिः. Line 2: bars under ग, ध (न्ध), ध्रु and प; a stroke over र्व.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 110 — Rik 14: Pada, bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> तयोः । इत् । घृतऽवत् । पयः । विप्राः । रिहन्ति । धीतिऽभिः ॥ गन्धर्वस्य । ध्रुवे । पदे ॥ १४ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*tayoḥ | it | ghṛta-vat | payaḥ | viprāḥ | rihanti | dhīti-bhiḥ || gandharvasya | dhruve | pade || 14 ||*
+> तयोः । इत् । घृतऽवत् । पयः । विप्राः । रिहन्ति । धीतिऽभिः ॥
+> गन्धर्वस्य । ध्रुवे । पदे ॥१४॥
+>
+> *tayoḥ | it | ghṛta 'vat | payaḥ | viprāḥ | rihanti | dhīti 'bhiḥ ||*
+> *gandharvasya | dhruve | pade ||14||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> गन्धर्वस्य ध्रुवं पदमन्तरिक्षम् । तथा च तापनीयशाखायां समाम्नायते । यक्षगन्धर्वाप्सरोगणसेवितमन्तरिक्षम् (तै. आ. १-२ [?]) इति । तेनान्तरिक्षे गोपलक्षिते आकाशे वर्तमानयोस्तयोरेव द्यावापृथिव्योरेव संबन्धि पयो जलं घृतवद्घृतसदृशं विप्रा मेधाविनः धीतिभिः कर्मभिः रिहन्ति लिहन्ति । यद्वा । घृतवद्घृतस्य सारं तेनोपेतं रिहन्ति । लिहेर्व्यत्ययेन रेफः । गन्धर्वस्य । धृङ् धारणे । गवि गन् धृङो व इति वप्रत्ययः । तत्संनियोगेन गोशब्दस्य च गन्नादेशः ॥
+> गन्धर्वस्य ध्रुवं पदमन्तरिक्षं । तथा च तापनीयशाखायां समाम्नायते । यक्षगन्धर्वाप्सरोगणसेवितमन्तरिक्षं । नृ० ता० १-२ । इति । तेनान्तरिक्षेणोपलक्षित आकाशे वर्तमानयोस्तयोरिद्द्यावापृथिव्योरेव संबन्धि पयो जलं घृतवद्घृतसदृशं विप्रा मेधाविनः प्राणिनो धीतिभिः कर्मभी रिहन्ति । लिहन्ति । यद्वा । घृतवद्घृतं सारं तेनोपेतं रिहन्ति । लिहेर्व्यत्ययेन रेफः । गन्धर्वस्य । धृञ् धारणे । गवि गन् धृञो व इति वप्रत्ययः । तत्संनियोगेन गोशब्दस्य च गन्नादेशः ॥
+>
+> *gandharvasya dhruvaṃ padamantarikṣaṃ | tathā ca tāpanīyaśākhāyāṃ samāmnāyate | yakṣagandharvāpsarogaṇasevitamantarikṣaṃ | nṛ0 tā0 1-2 | iti | tenāntarikṣeṇopalakṣita ākāśe vartamānayostayoriddyāvāpṛthivyoreva saṃbandhi payo jalaṃ ghṛtavadghṛtasadṛśaṃ viprā medhāvinaḥ prāṇino dhītibhiḥ karmabhī rihanti | lihanti | yadvā | ghṛtavadghṛtaṃ sāraṃ tenopetaṃ rihanti | lihervyatyayena rephaḥ | gandharvasya | dhṛñ dhāraṇe | gavi gan dhṛño va iti vapratyayaḥ | tatsaṃniyogena gośabdasya ca gannādeśaḥ ||*
 
-*gandharvasya dhruvaṃ padam antarikṣam | tathā ca tāpanīyaśākhāyāṃ samāmnāyate | yakṣagandharvāpsarogaṇasevitam antarikṣam (tai. ā. 1-2 [?]) iti | tenāntarikṣe gopalakṣite ākāśe vartamānayos tayor eva dyāvāpṛthivyor eva saṃbandhi payo jalaṃ ghṛtavad ghṛtasadṛśaṃ viprā medhāvinaḥ dhītibhiḥ karmabhiḥ rihanti lihanti | yadvā | ghṛtavad ghṛtasya sāraṃ tenopetaṃ rihanti | liher vyatyayena repʰaḥ | gandharvasya | dhṛṅ dhāraṇe | gavi gan dhṛṅo va iti vapratyayaḥ | tatsaṃniyogena gośabdasya ca gannādeśaḥ ||*
+**Translation:** "The firm place of the Gandharva is the mid-air; so it is recorded in the Tāpanīya branch: 'the mid-air, frequented by the hosts of Yakṣas, Gandharvas and Apsarases' (Nṛ. Tā. 1-2). The *viprāḥ*, wise living beings, *rihanti*, lick, *dhītibhiḥ*, by their rites, the *payaḥ*, water, *ghṛtavat*, like ghee, belonging *tayoḥ it*, to those two alone — Heaven and Earth — that are in the sky marked by that mid-air. Or: *ghṛtavat* — *ghṛta* is the essence; they lick [the water] furnished with it." (Grammatical tail: the *r* of *lih* by *vyatyaya*; *gandharvasya*, *dhṛñ dhāraṇe*, the suffix *va* by *gavi gan dhṛño vaḥ*, and along with it the substitute *gan* for the word *go*.)
 
-**Translation:** "The firm abode of the Gandharva is the *antarikṣa* (the middle region). So it is read in the Tāpanīya branch [of the Veda]: 'the *antarikṣa* is served by hosts of Yakṣas, Gandharvas and Apsarases.' So the water (*payaḥ*) belonging to those two, Heaven and Earth, existing in the sky [*gopalakṣite* — 'marked by *go*'; the reading of this phrase is doubtful], the sages (*viprāḥ*, the wise) lick, like ghee, with their *dhītis* — their acts. Or: they lick the essence of it, like ghee. *Rihanti* is *lihanti* with *r* by the *vyatyaya* [interchange]. *Gandharvasya*: from *dhṛṅ* 'to hold', with the suffix *va* when *go* is the object — and *go* is replaced by *gan*." *(Grammar page 111, noted briefly: the words treated are* rihanti *[*liha āsvādane*, with the *ra* for *la* by* vyatyaya *; *jhi* → *anti* by P. 7-1-3 *jho 'ntaḥ*; *śap* lost by P. 2-4-75 *adiprabhṛtibhyaḥ śapaḥ*] and* gandharvasya *[*gavi gan dhṛñ-ñoḥ*, a rule not found in the Uṇādi lists; so the commentary derives it as* gan + dhṛ + va*, guṇa following]; numerals as read, pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** **गन्धर्वस्य (gandharvasya)** — of the Gandharva | **ध्रुवे (dhruve)** — in the eternal | **पदे (pade)** — in the place, the *antarikṣa* | **तयोः इत् (tayoḥ it)** — of those two [heaven and earth] alone | **पयः (payaḥ)** — the water | **घृतवत् (ghṛtavat)** — like ghee | **विप्राः (viprāḥ)** — the wise | **धीतिभिः (dhītibhiḥ)** — by good acts | **रिहन्ति (rihanti)** — taste with relish.
+**गन्धर्वस्य (gandharvasya)** — of the Gandharvas | **ध्रुवे (dhruve)** — eternal | **पदे (pade)** — in the place, the mid-air (sky) (being there) | **तयोः इत् (tayoḥ it)** — belonging to just those two (Heaven and Earth) | **पयः (payaḥ)** — the water | **घृतवत् (ghṛtavat)** — like ghee | **विप्राः (viprāḥ)** — the wise | **धीतिभिः (dhītibhiḥ)** — by good rites | **रिहन्ति (rihanti)** — taste.
 
-**॥ Bhāvārthaḥ ॥** The sages, by the fruit of good acts, relish the water that belongs to Heaven and Earth, which is as the essence of ghee.
+**॥ Bhāvārthaḥ ॥**
+
+The wise, as the fruit of their good deeds, taste like ghee the water belonging to the heavenly world and the earth, which is in the sky.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The wise men sitting in the eternal home of the Gandharvas taste, through their pious acts the essence of all good things of both heaven and earth as the ghee is the essence of milk.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 110–111)* The meaning of this rik is correct if some words are supplied: as ghee is the essence of milk, so there are many things in heaven and earth that are their essence. The wise (*medhāvī*) people, by sacrifices and the like [good acts], having reached the highest and eternal abode of the Gandharvas — the world, the *antarikṣa* — there enjoy the best essences of heaven and earth. That is the chief meaning. **घृतवत् पयः** — like the essence in milk, ghee — or *payaḥ* as water: the soma-juice and such, as the essence. **धीतिभिः** — *karmabhiḥ*: by acts such as sacrifice. **गन्धर्वस्य ध्रुवे पदे** — the commentator says the Gandharva's chief place is the *antarikṣa*, and quotes the Tāpanīya-śākhā text *yakṣagandharvāpsarogaṇasevitam antarikṣam* (Tai. Ā. [1-2] [?]). Or one may say it is the highest place served by Gandharvas [the world, *loka*]: by pious acts such as sacrifice, people reach the best places, the Gandharva-world and others, and there enjoy the best things of heaven and earth.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+The meaning of this ṛk fits properly if some words are supplied: in milk the essence is ghee; likewise in heaven and earth there are many things that are the essence. The main intention is that intelligent people, by the performance of sacrifice and the like, reach the eternal world of the Gandharvas (the world of mid-air), the best place, and there enjoy the finest essential things of heaven and earth.
+
+### Page 111 — Rik 14: Special Topics (end), grammar
+
+**घृतवत् पयः (ghṛtavat payaḥ)** — like ghee, the essence in milk; or, since *payaḥ* also means water, it may be said to mean the essential things such as soma juice.
+
+**धीतिभिः (dhītibhiḥ)** — *karmabhiḥ |* by the performance of good rites such as sacrifice.
+
+**गन्धर्वस्य ध्रुवे पदे (gandharvasya dhruve pade)** — the commentator has quoted the sentence of the Tāpanīya branch, *yakṣagandharvāpsarogaṇasevitam antarikṣam* (Nṛ. Tā. 1-2), to say that the chief place of the Gandharvas is the mid-air. Or it may also be said to mean: in the best place (world) frequented by the Gandharva folk. The main intention is that, by good conduct such as sacrifice, they reach the best place, the world of the Gandharvas and the like, and there enjoy the finest things, the essence of heaven and the earthly world.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**रिहन्ति (rihanti)** — *liha āsvādane*; *r* for the *l* by *vyatyaya*; *laṭ*, third person plural *jhi*; by *jho 'ntaḥ* (Pā. Sū. 7-1-3) the substitute *ant* for *jh*; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) *śap* is dropped (*luk*): it becomes *rihanti*.
+
+**गन्धर्वस्य (gandharvasya)** — by *gavi gan dhṛño vaḥ*, when the word *go* is *upapada*, after the root *dhṛñ dhāraṇe*, the suffix *va*, and the substitute *gan* for the word *go*: so with the suffix *va* and the substitute *gan* laid down along with it, *gan* + *dhṛ* + *va*; *guṇa* comes followed by *r*: it becomes *gandharva*. The sūtra *gavi gan…* is not in the Uṇādi [list]. ॥14॥
+
+---
+
 ### Pages 111–117 — Sūkta 22, Rik 15
 
 **॥ Saṃhitāpāṭhaḥ ॥**
