@@ -14178,57 +14178,104 @@ and the other two vocatives, being qualifiers, are themselves particular terms. 
 
 ---
 
-### Pages 671–676 — Sūkta 15, Rik 12 (last rik of the sūkta)
+### Page 671 — Sūkta 15, Rik 12 (last rik of the sūkta)
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> गार्हपत्येन सन्त्य ऋतुना यज्ञनीरसि ।
-> देवान्देवयते यज ॥१२॥
+> गार्ह॑पत्येन सन्त्य ऋ॒तुना॑ यज्ञ॒नीर॑सि । [accent ?]
+> दे॒वान्दे॑व॒य॒ते य॑ज ॥१२॥ [accent ?]
 >
-> *gārhapatyena santya ṛtunā yajñanīr asi |*
-> *devān devayate yaja ||12||*
+> *gā́rhapatyena santya ṛtúnā yajñanī́r asi |* [accent ?]
+> *devā́n devayaté yaja ||12||* [accent ?]
+
+*(The strokes over गा, ना, नी and दे are clear; the bars under ऋ, ज्ञ, दे and य of देवयते are read from the print and the Pada; not all certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
 > गार्हऽपत्येन । सन्त्य । ऋतुना । यज्ञऽनीः । असि ॥
 > देवान् । देवऽयते । यज ॥१२॥
 >
-> *gārha-patyena | santya | ṛtunā | yajña-nīḥ | asi ||*
-> *devān | deva-yate | yaja ||12||*
+> *gārha 'patyena | santya | ṛtunā | yajña 'nīḥ | asi ||*
+> *devān | deva 'yate | yaja ||12||*
 
-*(Accent-marks printed in the source; not reproduced.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 671; compressed; [?] marks doubtful readings)*
-
-> हे सन्त्य फलप्रदाग्निदेव गार्हपत्येन गृहपतिसम्बन्धिना रूपेण युक्तः सन्नृतुना ऋतुदेवेन सह यज्ञनीर्यज्ञस्य निर्वाहकोऽसि । तस्मात्त्वं देवयते देवविषयकामनायुक्ताय यजमानाय देवान्यज ॥ गार्हपत्येन । गृहपतिना संयुक्ते ञ्यः । पा. [४-४-९०] । यस्येति लोपः । ञित्त्वादादिवृद्धिराद्युदात्तत्वं च । गृहपतित्वमित्यर्थे पत्न्यन्तपुरोहितादिभ्यो यक् । पा. [५-१-१२८ ?] । इति यकि त्वन्तोदात्तत्वं स्यात् [?] । सन्त्य । सननं भवे [?] षणु दाने । क्रिच्क्तौ चेति क्रिच् । न क्रिचि दीर्घश्च । पा. [६-४-३९ ?] । इति दीर्घानुलोपाभावः । भवे छन्दसि । पा. [४-४-११०] । इति यत् । तत्र साधुः । पा. [४-४-९८] । इति वा । निघातः । यज्ञं नयतीति यज्ञनीः । सत्सूद्विषेत्यादिना क्विप् । कृदुत्तरपदप्रकृतिस्वरः । देवयते । देवानात्मन इच्छतीति देवयन् । तस्मै । क्यचि च ईत्वं न भवति । न छन्दस्यपुत्रस्येति निषेधात् । अश्वाघस्य । पा. [७-४-३७] । इत्यात्वविधानादीत्वनिषेधे प्राप्तस्य दीर्घस्यैष निषेध इत्युक्तम् । शतुरनुमो नद्यजादी इति विभक्तेरुदात्तत्वम् । अत्र क्यचि [?] … अन्तोदात्तत्वम् । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेणोभयोः … एकादेश उदात्तेनोदात्त इत्युदात्तः । तस्मादन्तोदात्तत्वात्परस्या विभक्तेः शतुरनुमो नद्यजादी इत्युदात्तत्वम् ॥१२॥
+> हे सन्त्य फलप्रदाग्निदेव गार्हपत्येन गृहपतिसम्बन्धिना रूपेण युक्तः सन्नृतुना ऋतुदेवेन सह यज्ञनीर्यज्ञस्य निर्वाहको ऽसि । तस्मात्त्वं देवयते देवविषयकामनायुक्ताय यजमानाय देवान्यज ॥ गार्हपत्येन । गृहपतिना संयुक्ते ञ्यः । पा. ४-४-९० । यस्येति लोपः । ञित्त्वादादिवृद्धिराद्युदात्तत्वं च । गृहपतित्वमित्यर्थे पत्यन्तपुरोहितादिभ्यः । पा. ५-१-१२८ । इति यकि त्वन्तोदात्तत्वं स्यात् । सन्त्य । सनने भव । षणु दाने । क्तिच्क्तौ चेति क्तिच् । न क्तिचि दीर्घश्च । पा. ६-४-३९ । इति दीर्घनलोपाभावः । भवे छन्दसि । पा. ४-४-११० । इति यत् । तत्र साधुः । पा. ४-४-९८ । इति वा । निघातः । यज्ञं नयतीति यज्ञनीः । सत्सूद्विषेत्यादिना क्विप् । कृदुत्तरपदप्रकृतिस्वरः । देवयते । देवानात्मन इच्छतीति देवयन् । तस्मै । क्यचि चेतीत्वं न भवति । न च्छन्दस्यपुत्रस्येति निषेधात् । अश्वाघस्य । पा. ७-४-३७ । इत्यात्वविधानादीत्वनिषेधे प्राप्तस्य दीर्घस्याप्येष निषेध इत्युक्तं । शतुरनुमो नद्यजादी इति विभक्तेरुदात्तत्वं । अत्र क्यचश्चित्त्वादन्तोदात्तत्वं । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेणोभयोः क्यचा सहैकादेश एकादेश उदात्तेनोदात्त इत्युदात्तः । तस्मादन्तोदात्तात्परस्या विभक्तेः शतुरनुमो नद्यजादीत्युदात्तत्वं ॥ २९ ॥
 >
-> *he santya phala-pradāgni-deva gārhapatyena gṛhapati-sambandhinā rūpeṇa yuktaḥ sann ṛtunā ṛtu-devena saha yajña-nīr yajñasya nirvāhako 'si | tasmāt tvaṃ devayate deva-viṣaya-kāmanā-yuktāya yajamānāya devān yaja || gārhapatyena | gṛhapatinā saṃyukte ñyaḥ | pā. [4-4-90] | yasyeti lopaḥ | ñittvād ādi-vṛddhir ādyudāttatvaṃ ca | gṛhapatitvam ity arthe patny-anta-purohitādibhyo yak | pā. [5-1-128 ?] | iti yaki tv antodāttatvaṃ syāt [?] | santya | sananaṃ bhave [?] ṣaṇu dāne | kric-ktau ceti kric | na kṛci dīrghaś ca | pā. [6-4-39 ?] | iti dīrghānulopābhāvaḥ | bhave chandasi | pā. [4-4-110] | iti yat | tatra sādhuḥ | pā. [4-4-98] | iti vā | nighātaḥ | yajñaṃ nayatīti yajñanīḥ | sat-sūdviṣety-ādinā kvip | kṛd-uttarapada-prakṛti-svaraḥ | devayate | devān ātmana icchatīti devayan | tasmai | kyaci ca ītvaṃ na bhavati | na chandasy aputrasyeti niṣedhāt | aśvāghasya | pā. [7-4-37] | ity ātva-vidhānād ītva-niṣedhe prāptasya dīrghasyaiṣa niṣedha ity uktam | śatur anumo nady-ajādī iti vibhakter udāttatvam | atra kyaci [?] … antodāttatvam | śapaḥ pittvād anudāttatvam | śatuś ca lasārvadhātuka-svareṇobhayoḥ … ekādeśa udāttenodātta ity udāttaḥ | tasmād antodāttatvāt parasyā vibhakteḥ śatur anumo nady-ajādī ity udāttatvam ||12||*
+> *he santya phalapradāgnideva gārhapatyena gṛhapatisambandhinā rūpeṇa yuktaḥ sannṛtunā ṛtudevena saha yajñanīryajñasya nirvāhako 'si | tasmāttvaṃ devayate devaviṣayakāmanāyuktāya yajamānāya devānyaja || gārhapatyena | gṛhapatinā saṃyukte ñyaḥ | pā. 4-4-90 | yasyeti lopaḥ | ñittvādādivṛddhirādyudāttatvaṃ ca | gṛhapatitvamityarthe patyantapurohitādibhyaḥ | pā. 5-1-128 | iti yaki tvantodāttatvaṃ syāt | santya | sanane bhava | ṣaṇu dāne | kticktau ceti ktic | na ktici dīrghaśca | pā. 6-4-39 | iti dīrghanalopābhāvaḥ | bhave chandasi | pā. 4-4-110 | iti yat | tatra sādhuḥ | pā. 4-4-98 | iti vā | nighātaḥ | yajñaṃ nayatīti yajñanīḥ | satsūdviṣetyādinā kvip | kṛduttarapadaprakṛtisvaraḥ | devayate | devānātmana icchatīti devayan | tasmai | kyaci cetītvaṃ na bhavati | na cchandasyaputrasyeti niṣedhāt | aśvāghasya | pā. 7-4-37 | ityātvavidhānādītvaniṣedhe prāptasya dīrghasyāpyeṣa niṣedha ityuktaṃ | śaturanumo nadyajādī iti vibhakterudāttatvaṃ | atra kyacaścittvādantodāttatvaṃ | śapaḥ pittvādanudāttatvaṃ | śatuśca lasārvadhātukasvareṇobhayoḥ kyacā sahaikādeśa ekādeśa udāttenodātta ityudāttaḥ | tasmādantodāttātparasyā vibhakteḥ śaturanumo nadyajādītyudāttatvaṃ || 29 ||*
 
-**Translation:** "O *santya* — O Agni, god who gives the fruit [of rites]! Joined to the form belonging to the master of the house — the *gārhapatya* fire — and together with the Ṛtu-god, you are the *yajña-nīḥ*, the one who carries the sacrifice through. Therefore, for the sacrificer who desires the gods (*devayate*), sacrifice to (*yaja*; "bring") the gods." The rest is grammar, noted briefly: *gārhapatyena* (*ñya* by P. 4-4-90 *gṛhapatinā saṃyukte ñyaḥ* — "joined with the *gṛhapati*"; the *ñ* gives *vṛddhi* of the first syllable and first-syllable accent; the alternative *yak* by P. 5-1-128 [?] would give end accent, which is why the *ñya* is preferred); *santya* (*ṣaṇu* "to give"; *kric*; *yat* "born in, good in" by P. 4-4-110 *bhave chandasi* or P. 4-4-98 *tatra sādhuḥ*); *yajñanīḥ* (*nī* + *kvip* after *yajñam*; final accent); *devayate* (*devān ātmana icchati*, with *kyac* P. 3-1-8, and *śatṛ*; the lengthening of the *a* of *deva* before *kyac* is barred by P. 7-4-35 *na chandasy aputrasya*; the *ā* of *aśvāghasya* P. 7-4-37 is cited in the argument; the end accent of the ending by P. 6-1-173 *śatur anumo nady-ajādī*). *(Grammar, noted briefly; P. 4-4-90, 4-4-110 and 4-4-98 as read agree with the standard numbering.)*
+**Translation:** "O *santya*, Agni, god who gives the fruit, joined with the form belonging to the master of the house, *gārhapatyena*, you are with the Ṛtu god *yajñanīḥ*, the one who carries the sacrifice through. So, *devayate*, for the sacrificer who longs for the gods, worship the gods." (Grammatical tail: *gārhapatyena*, *ñya* by Pā. 4-4-90 "joined with the master of the house", the *i* dropped, initial *vṛddhi* and initial udātta (*ñit*); with *yak* by Pā. 5-1-128 in the sense of mastership it would be final udātta; *santya*, "who is in the giving", *san* with *ktic*, no lengthening or loss of *n* (Pā. 6-4-39), then *yat* by Pā. 4-4-110 or 4-4-98, lowered; *yajñanīḥ*, "who leads the sacrifice", *kvip*, the *kṛt* second-member accent; *devayate*, "who desires the gods for himself", no *ī* before *kyac* by *na chandasy aputrasya*, which bars the lengthening too, as shown by Pā. 7-4-37 enjoining *ā*; the ending udātta by *śatur anumo nadyajādī*; *kyac* final udātta (*cit*), *śap* and *śatṛ* unaccented, the single replacements udātta. The closing "29" is the varga number.)
 
-**Grammar pages (pp. 673–676), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats: *gārhapatyena* (P. 4-4-90 *gṛhapatinā saṃyukte ñyaḥ*; the suffix *ñya* is added after *gṛhapati* in the sense "joined with" in a case-ending of the third case; *gṛhapati* + *ṭā* + *ñya*, *cuṭū* P. 1-3-7 for the *ñ*, *tasya lopaḥ* P. 1-3-9; the *sup* dropped by *supo dhātuprātipadikayoḥ* P. 2-4-71; *yasyeti ca* P. 6-4-148; *taddhiteṣv acām ādeḥ* P. 7-2-117 *vṛddhi*; *ur aṇ raparaḥ* P. 1-1-51; *gārhapatya*; the accent by *ñnityādir nityam* P. 6-1-197 first-syllable; then a discussion of the alternative *yak* by P. 5-1-128 *patny-anta-purohitādibhyo yak* in the sense "being a *gṛhapati*", which would give *gārhapatya* with the end accent — so P. 4-4-90 is the one applied); *santya* (*ṣaṇu dāne* with *kric*, P. 3-3-174 *kric kto ca saṃjñāyām* [as read], *dhātvādeḥ ṣaḥ saḥ* P. 6-1-64; *sanoti* — *san* + *ti* → *santi* — *na kṛci dīrghaś ca* P. 6-4-39 [as read] and the Kannada's detailed argument on the rules *anunāsikasya kvijhaloḥ kṅiti* P. 6-4-15, *anudāttopadeśa-vanati-tanoty-ādīnām anunāsikalopo jhali kṅiti* P. 6-4-37, *jit* ... *naklījit... dīrghaś ca* [as read]; *saneḥ kṛci lopaś cāsyānyatarasyām* [as read, P. 6-4-42 in the standard numbering is *janasanakhanāṃ sañjhaloḥ*]; the concluding view that the *n* and the *ā* are both optionally dropped, so *santi* arises from the *kric* either way — the *Mahābhāṣya*'s *sarvavidhāyaṃ yogaḥ* is cited with Kaiyaṭa's *sanaḥ kṛci ity eva lopasya prakaraṇāt siddhatvāl lope [vā] ity api na vaktavyam*; then *santyam* "that which is born in *santi*" by P. 4-4-110 *bhave chandasi* with *yat*, or *tatra sādhuḥ* P. 4-4-98; *yasyeti ca*; *santya*, in the vocative singular, with the end accent by P. 6-1-198 *āmantritasya ca* and made unaccented as a vocative within the *pāda* by P. 8-1-19); *yajñanīḥ* (*yajñam nayati*; the list of roots after which *kvip* is added in the Veda, *sat-sūdviṣa-druha-duha-yuja-vida-bhida-chida-jī-nī-rājām upasarge 'pi kvip* P. 3-2-61, with a long grammarians' note on which of these roots in the *ādādika* class etc.; *ṇ* for *n* by P. 6-1-65 *ṇo naḥ*; the accent of the compound that of the final member by P. 6-2-139; the nominative ending dropped; *ru* → *visarga*; *yajñanīḥ*); *devayate* (*devān ātmana icchati*, "one who wishes the gods for himself" — *supa ātmanaḥ kyac* P. 3-1-8, then the root-name by P. 3-1-32 *sanādyantā dhātavaḥ*, the *sup* dropped by P. 2-4-71, *deva* + *ya*; the *ī*-substitute by P. 7-4-33 *kyaci ca* barred by P. 7-4-35 *na chandasy aputrasya*, for a stem not ending in *putra*; the further argument — a long scholastic debate whether P. 7-4-35 bars only the *ī* or also the lengthening of P. 7-4-25 *akṛtsārvadhātukayor dīrghaḥ*, with the paribhāṣā *anantarasya vidhir vā bhavati pratiṣedho vā*; the proof from P. 7-4-37 *aśvāghasyāt* — hence *devayat* by *śatṛ* P. 3-2-124 *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* [as read, P. 3-2-124 *laṭaḥ śatṛśānacau*]; *śap*; *ato guṇe* P. 6-1-97 *pararūpa*; the accent of the suffix *kyac* [*cit* P. 6-1-163] being final on *ya*, and the *śatṛ* ending accented by P. 6-1-173 *śatur anumo nady-ajādī*, so that the ending *e* of the dative singular is accented). *(A crowded run; outline only; numerals as read from small print; pointers only.)* ॥12॥
+### Page 672 — Rik 12: word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** *(p. 672)*
+**॥ Prati-padārthaḥ ॥**
 
-**सन्त्य (santya)** — O Agni, capable of giving the fruit [of rites] | **गार्हपत्येन (gārhapatyena)** — joined with the *gārhapatya* fire | **ऋतुना (ṛtunā)** — together with the Ṛtu-deity | **यज्ञनीः (yajña-nīḥ)** — the carrier-through of the sacrifice | **असि (asi)** — you are | **देवयते (devayate)** — [therefore] for the sacrificer who desires the gods | **देवान् (devān)** — the gods | **यज (yaja)** — worship (propitiate).
+**सन्त्य (santya)** — O Agni, able to give fruit, (you) | **गार्हपत्येन (gārhapatyena)** — joined with the *gārhapatya* fire | **ऋतुना (ṛtunā)** — with the Ṛtu god | **यज्ञनीः (yajñanīḥ)** — as the one who carries the sacrifice through | **असि (asi)** — you are; (so) | **देवयते (devayate)** — for the sacrificer who seeks the gods for the sacrifice | **देवान् (devān)** — the gods | **यज (yaja)** — worship.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! You are the giver of what is wished for. Joined to the *gārhapatya* fire, together with the Ṛtu-deity, you carry through the sacrificial work of the sacrificer. Therefore, perform the sacrifice for the sacrificer who always desires the sacrifice to the gods.
+O god Agni, you give what is desired. In the form of the *gārhapatya* fire, you carry through the sacrificer's rites with the Ṛtu god. So, for the sacrificer who always seeks the worship of the gods, carry the sacrifice through.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Agni, giver of rewards, being the lord of the house, and partaker with Ritu of the sacrifice, perform the sacrifice on behalf of the worshipper.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 672)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**सन्त्य (santya)** — *ṣaṇu dāne* (root *san* "to give"); *sanane bhava*: so the word *santya*, formed from this root, means "giver". Giver of what? One who gives the fruit of sacrificial rites; or, as in words like *ratnadhātamam*, one who gives wealth and lordship.
+**Santya**:
 
-**यज्ञनीः (yajña-nīḥ)** — *yajñaṃ nayati iti yajñanīḥ*; *yajñasya nirvāhakaḥ*: one who carries the sacrifice through.
+> षणु दाने । सनने भव ॥
+>
+> *ṣaṇu dāne | sanane bhava ||*
 
-**देवयते (devayate)** — *devān ātmana icchati iti devayan, tasmai yajamānāya*: for the sacrificer who, for the sacrifice he performs, wishes the gods to come.
+The root *ṣaṇu* means to give; so the word *santya*, formed from this root, means giver. Giver of what? Giver of the fruit of sacrificial rites; or, as said in words like *ratnadhātamaḥ*, giver of wealth and lordship.
 
-**Close of Sūkta 15.** The grammar of Rik 12 ends on p. 676 (upper part), after which the ornament and the heading of the sixteenth sūkta appear; the print again has no large closing colophon.
+**Yajñanīḥ**:
+
+> यज्ञं नयतीति यज्ञनीः । यज्ञस्य निर्वाहकः ॥
+>
+> *yajñaṃ nayatīti yajñanīḥ | yajñasya nirvāhakaḥ ||*
+
+one who carries the sacrifice through.
+
+**Devayate**:
+
+> देवानात्मन इच्छतीति देवयन् तस्मै यजमानाय ॥
+>
+> *devānātmana icchatīti devayan tasmai yajamānāya ||*
+
+that is, for the sake of the sacrificer who longs for the gods to come to the sacrifice he performs.
+
+### Page 673 — Rik 12: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar pages 673–676, noted briefly)*
+
+**गार्हपत्येन (*gārhapatyena*)**: "gṛhapatinā saṃyukte ñyaḥ" (Pā. sū. 4-4-90): after the fitting instrumental of *gṛhapati*, in the sense "joined", the suffix *ñya*; so *ñya* after *gṛhapatinā*: *gṛhapati* + *ṭā* + *ñya*. By "cuṭū" (Pā. sū. 1-3-7) the *ñ* at the beginning of the suffix is *it*; dropped by "tasya lopaḥ" (Pā. sū. 1-3-9). The *ṭā*, a *sup* inside a *taddhita*-ending stem, takes *luk* by "supo dhātu…" (Pā. sū. 2-4-71): *gṛhapati* + *ya*. The *i* drops by "yasyeti ca" (Pā. sū. 6-4-148); the suffix is *ñit*, so initial *vṛddhi* by "taddhiteṣv acām ādeḥ" (Pā. sū. 7-2-117); *r* after it by "uraṇ raparaḥ": *gārhapatya*. The suffix is *ñit*, so initial udātta by "ñnityādir nityam" (Pā. sū. 6-1-197). "patyantapurohitādibhyo yak" (Pā. sū. 5-1-128): after the fitting genitive of stems ending in *pati* or read in the *purohitādi* class, in the senses of state and act, *yak*; if one explained that *yak* comes after *gṛhapati*, ending in *pati*, in the sense *gṛhapater bhāvaḥ*, the form *gārhapatya* would indeed be got. But then by the suffix accent *gārhapatya* would be final udātta, and the initial udātta would not be got. So the suffix *ñya* is set out.
+
+**सन्त्य (*santya*)**: *sanane bhava*: "being in giving the fruit". The root *ṣaṇu dāne*. "ktic ktau ca saṃjñāyām" (Pā. sū. 3-3-174): when a blessing or a name is meant, the suffixes *ktic* and *kta* come after a root; so *ktic*. *S* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; the *ṇ* that came by "raṣābhyām…" reverts: *san* + *ti*. "na ktici dīrghaś ca" (Pā. sū. 6-4-39): before *ktic*, the *anudāttopadeśa* roots, that is, the *aniṭ* roots, and the roots *vana*, *tanoti* and the rest get neither the lengthening nor the loss of the nasal: that is the sense of the sūtra. By "anunāsikasya kvijhaloḥ kṅiti" (Pā. sū. 6-4-15), before *kvi* and before a *jhal*-initial *kit* or *ṅit* suffix, the penultimate of a root ending in a nasal is lengthened; that lengthening, and the loss of the *n* by "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. sū. 6-4-37), which drops the final nasal of *tanoti* and the others and of the root *van* before a *jhal*-initial *kit* or *ṅit* suffix, are both barred by *na ktici dīrghaś ca*. So *santi*. In fact here
+
+### Page 674 — Rik 12: grammar (continued)
+
+"sanaḥ ktici lopaś cāsyānyatarasyām" (Pā. sū. "6-4-46" [as printed, for 6-4-45]): before *ktic* the *n* of the root *san* drops and *ā* comes, both optionally; since *ā* and the loss of *n* are enjoined as optional, it is fitting to explain that where neither comes the form *santi* is got. Under "sarva evāyaṃ yogaḥ śakyo 'vaktum" (Pā. Mabhā. "6-4-45" [?]), on the view that the whole sūtra can be dropped, the Kaiyaṭa says that *sanaḥ ktici ity eva lopasya prakaraṇāt siddhatvāl lopaś ca ity api na vaktavyam*. Since many words are rejected, the Bhāṣya says "sarva evāyaṃ yogaḥ". It is explained that *lopaḥ*, *ca*, *asya*, *anyatarasyām*, many words, are rejected as unnecessary, so the Bhāṣya "sarva evāyam" begins; and rejecting the whole sūtra is not the Bhāṣya's intention; it is explained that the sūtra *sanaḥ ktici* alone is enough. On this view, since the *ā* and the loss of *n* enjoined by *sanaḥ ktici* are optional, it is fitting to explain that where they do not come the form *santi* is got. If the analysis *santyāṃ bhavaḥ* is meant, by "bhave chandasi" (Pā. sū. "4-41-10" [as printed, for 4-4-110]) the suffix *yat* comes in the Veda after the fitting locative of a stem in the sense of being; with *yat*, *santi* + *ṅi* + *ya*. Or if the analysis *santyāṃ sādhuḥ* is made, by "tatra sādhuḥ" (Pā. sū. 4-4-98) *yat* in the sense *sādhu* after the fitting locative; with *yat*, *santi* + *ṅi* + *ya*. In both places the *sup* inside the *taddhita*-ending stem takes *luk*. By "yasyeti ca" (Pā. sū. 6-4-148) the *i* drops: *santya*. Nominative singular *santyaḥ*, vocative singular *santya*. Wholly unaccented by "āmantritasya ca" (Pā. sū. 8-1-19).
+
+**यज्ञनीः (*yajñanīḥ*)**: *yajñaṃ nayati iti yajñanīḥ*. "satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasarge 'pi kvip" (Pā. sū. 3-2-61): *ṣadḷ viśaraṇādau*; the root *sū* is threefold: *ṣūṅ prāṇigarbhavimocane* (*adādi*), *ṣūṅ prāṇiprasave* (*divādi*), *ṣū preraṇe* (*tudādi*). Here by "sahacaritāsahacaritayoḥ sahacaritasyaiva grahaṇam" (paribhāṣā 113) the *adādi* root is taken, being in company with the *adādi* root *dviṣ*; *dviṣa aprītau*, *druha jighāṃsāyām*, *duha prapūraṇe*, *yujir yoge*, *yuja samādhau*; *vida* is taken in all three, *vida jñāne* (*adādi*), *vida sattāyām* (*divādi*), *vida vicāraṇe* (*tudādi*); since *vida* is named ending in *a*, the *tudādi* root *vidḷ lābhe* is not taken; *bhidir vidāraṇe*, *chidir dvaidhīkaraṇe*, *ji jaye*, *ji abhibhave*, *ṇīñ prāpaṇe*, *rājṛ dīptau*: after these roots, with or without an *upasarga*, when a *subanta* is *upapada*, the suffix *kvip* comes; so *kvip* after *ṇīñ* with the *subanta* *yajñam* as *upapada*; by "ṇo naḥ" (Pā. sū. "6-1-64" [as printed]) *n* for *ṇ*. The *sup* inside
+
+### Page 675 — Rik 12: grammar (continued)
+
+the *prātipadika* takes *luk*, the *kvip* drops: *yajñanī*; nominative singular *su*; *ru*, visarga: *yajñanīḥ*. The second member *nī* is final udātta by the root accent. After compounding, the *kṛt* second-member accent comes by "gatikārakopapadāt kṛt" (Pā. sū. 6-2-139) and that accent remains.
+
+**देवयते (*devayate*)**: when analysed *devān ātmanaḥ icchati* (who desires the gods for himself), it becomes *devayan*. Thus: by "supa ātmanaḥ kyac" (Pā. sū. 3-1-8) *kyac* after *devam*; by "sanādyantā dhātavaḥ" (Pā. sū. 3-1-32) it is called a root. The *sup* inside the root takes *luk* by "supo dhātu…" (Pā. sū. 2-4-71): *deva* + *ya*. Now by "kyaci ca" (Pā. sū. 7-4-33) *ī* would come for the *a* before *kyac*; but "na chandasy aputrasya" (Pā. sū. 7-4-35): before *kyac*, short *a*-final words other than *putra* get neither *ī* nor lengthening: that is the sense of the sūtra, carefully drawn out. By "anantarasya vidhir vā bhavati pratiṣedho vā" (paribhāṣā 61) this bar might seem to bar only the immediately preceding *kyaci ca*. Then, though no *ī* came, the lengthening by "akṛtsārvadhātukayoḥ" (Pā. sū. 7-4-25) would have to come; for *kyaci ca* is an exception to *akṛtsārvadhātukayoḥ*, and when the exception does not come, the general rule comes without obstacle. So *na chandasi* must be explained to mean that whatever would come before *kyac* for an *a*-final word other than *putra* does not come; the *anantarasya* paribhāṣā is not relied on. The proof on this point is "aśvāghasyāt" (Pā. sū. 7-4-37): the very prescription of *ā* for *aśva* and *agha* before *kyac* in the Veda is the proof. In *aśvāyantaḥ* and *aghāyavaḥ* the *ā* is prescribed so that a long *ā* is heard. If *na chandasy aputrasya* barred only the *ī* by the *anantara* maxim, the lengthening would come by *akṛtsārvadhātukayoḥ* itself, and the forms *aśvāyantaḥ*, *aghāyavaḥ* would be got. Then the sūtra *aśvāghasyāt* would be useless. By the maxim *vyarthaṃ sat kiṃcid arthaṃ jñāpayati*, this sūtra makes known that the bar is not only of the *ī* of *kyaci ca* but of the lengthening too. Now without this sūtra the forms *aśvāyantaḥ* and the rest would not be got; so the sūtra has its purpose. Thus *na chandasi…* is settled as barring both *ī* and lengthening. So in the present case, in *deva* + *ya*, no lengthening by *akṛtsārvadhātukayoḥ* comes either. *Devaya* is a root; after it, by "vartamāne laṭ" (Pā. sū. 3-2-123) *laṭ*; in its place by "laṭaḥ śatṛśānacau…" (Pā. sū. 3-2-124) *śatṛ*: *devaya* + *at*; *śap* by "kartari śap": *devaya* + *a* + *at*; by "ato guṇe" (Pā. sū. 6-1-97) *pararūpa* twice: *devayat*.
+
+### Page 676 — Rik 12: grammar (end); close of Sūkta 15
+
+Here the suffix *kyac* is *cit*, so final udātta by "citaḥ" (Pā. sū. 6-1-163). *Śap* is *pit*, so unaccented by "anudāttau suppitau" (Pā. sū. 3-1-4). The suffix *at*, *śatṛ*, has come in the place of the *lakāra* *laṭ*; being *śit*, it is a *sārvadhātuka* by "tiṅśit sārvadhātukam" (Pā. sū. 3-4-113); it follows *śap*, an *a*-final *upadeśa*. So by "tāsyanudāttenṅidadupadeśāt…" (Pā. sū. 6-1-186) *at* is unaccented. The *a* that came by the single *pararūpa* with the *a* of *śap* is udātta by "ekādeśa udāttenodāttaḥ" (Pā. sū. 8-2-5); the *a* that came by *pararūpa* of this udātta and the unaccented *a* of *at* is udātta in the same way. So in *devayat* the *ya* is udātta, and it is settled as final udātta. After it, the dative singular *ṅe*: *devayat* + *e*; "śatur anumo nadyajādī" (Pā. sū. 6-1-173): after a final-udātta word ending in a *śatṛ* suffix without the augment *num*, a *nadī* letter and a vowel-initial ending from *śas* on are also udātta; so the ending *e* is udātta.
+
+**॥१२॥**
+
+*(The sūkta ends here; the print has no separate colophon for Sūkta 15; the bhāṣya closes with the varga number "29", agreeing with the heading's 28, 29.)*
+
 
 ## ॥ ಹದಿನಾರನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 16 — *"ā tvā vahantu harayaḥ"* ("The Sixteenth Sūkta")
 
