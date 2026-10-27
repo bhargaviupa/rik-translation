@@ -3738,38 +3738,73 @@ Because he causes rain everywhere and makes the world liquid with water, he is n
 
 ---
 
-### Pages 159–162 — Sūkta 23, Rik 5
+### Page 159 (lower) — Sūkta 23, Rik 5
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> ऋतेन यावृतावृधावृतस्य ज्योतिषस्पती ।
-> ता मित्रावरुणा हुवे ॥ ५ ॥
+> ऋ॒तेन॒ यावृ॑ता॒वृधा॑वृ॒तस्य॒ ज्योति॑ष॒स्पती॑ ।
+> ता मि॒त्रावरु॑णा हुवे ॥५॥
+>
+> *ṛténa yā́v ṛtāvṛ́dhāv ṛtásya jyótiṣas pátī |*
+> *tā mitrā́váruṇā huve ||5||*
 
-*ṛtena yāv ṛtāvṛdhāv ṛtasya jyotiṣas patī | tā mitrāvaruṇā huve || 5 ||*
+*(Bars under ऋ, न (तेन), ता (वृता), वृ (वृतस्य), स्य and ष; strokes over वृ (यावृ), धा, ति and ती. Line 2: a bar under मि, a stroke over रु.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> ऋतेन । यौ । ऋतऽवृधौ । ऋतस्य । ज्योतिषः । पती इति ॥ ता । मित्रावरुणा । हुवे ॥ ५ ॥
-
-*ṛtena | yau | ṛta-vṛdhau | ṛtasya | jyotiṣaḥ | patī iti || tā | mitrāvaruṇā | huve || 5 ||*
+> ऋतेन । यौ । ऋतऽवृधौ । ऋतस्य । ज्योतिषः । पती इति ॥
+> ता । मित्रावरुणा । हुवे ॥५॥
+>
+> *ṛtena | yau | ṛta 'vṛdhau | ṛtasya | jyotiṣaḥ | patī iti ||*
+> *tā | mitrāvaruṇā | huve ||5||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> यौ मित्रावरुणावृतेन सत्यवचनेन यजमानानुग्रहकारिणा ऋतावृधौ । ऋतमवश्यंभावितया सत्यं कर्मफलं तस्य वर्धकौ । ऋतस्य सत्यस्य प्रकृष्टस्य ज्योतिषः प्रकाशस्य पती पालकौ । श्रूयतेऽन्तरे [?] मित्रावरुणयोरादित्यत्वेन ज्योतिष्पतित्वं युक्तम् [?] । श्रुत्यन्तरे चाप्त्वा पुत्रासो अदितेरित्युपक्रम्य मित्रश्च वरुणश्चेत्यादिकमाम्नातम् (तै. आ. १-[१३] [?]) । ता मित्रावरुणा तथाविधौ मित्रावरुणौ हुवे । आह्वयामि ॥ ऋतावृधौ । वृधु वृद्धौ । क्विप्च [?] … वरुणम् [?] …
+*(Numbers as printed: तै० आ० १-१३-२-३, उ० २-१११, पा० १-१-५. The bhāṣya ends with ॥८॥, the close of the eighth varga.)*
 
-*yau mitrāvaruṇāv ṛtena satyavacanena yajamānānugrahakāriṇā ṛtāvṛdhau | ṛtam avaśyaṃbhāvitayā satyaṃ karmaphalaṃ tasya vardhakau | ṛtasya satyasya prakṛṣṭasya jyotiṣaḥ prakāśasya patī pālakau | śrūyate 'ntare [?] mitrāvaruṇayor ādityatvena jyotiṣpatitvaṃ yuktam [?] | śrutyantare cāptvā putrāso aditer ity upakramya mitraś ca varuṇaś cety ādikam āmnātam (tai. ā. 1-[13] [?]) | tā mitrāvaruṇā tathāvidhau mitrāvaruṇau huve | āhvayāmi || ṛtāvṛdhau | vṛdhu vṛddhau | kvip ca [?] …*
+> यौ मित्रावरुणावृतेन सत्यवचनेन यजमानानुग्रहकारिणावृतावृधौ । ऋतमवश्यंभावितया सत्यं कर्मफलं तस्य वर्धकौ । ऋतस्य सत्यस्य प्रशस्तस्य ज्योतिषः प्रकाशस्य पती पालकौ । श्रुत्यन्तरे मित्रावरुणयोरदितिपुत्रत्वेन श्रुतत्वाद्द्वादशादित्येष्वन्तर्भूतत्वेन ज्योतिष्पालकत्वं युक्तं । श्रुत्यन्तरे चाष्टौ पुत्रासो अदितेरित्युपक्रम्य मित्रश्च वरुणश्चेत्यादिकमाम्नातं । तै० आ० १-१३-२-३ । ता मित्रावरुणा तथाविधौ मित्रावरुणौ हुवे । आह्वयामि ॥ ऋतावृधौ । वृधु वृद्धौ । क्विप्चेति क्विप् । अन्येषामपि दृश्यत इति दीर्घः । कृदुत्तरपदप्रकृतिस्वरत्वं । ज्योतिषः । द्युत दीप्तौ । द्युतेरिसिन्नादेश्च जः । उ० २-१११ । इतीसिन्प्रत्ययः । नित्त्वादाद्युदात्तः । षष्ठ्याः पतिपुत्रेति संहितायां विसर्जनीयस्य सत्वं । मित्रावरुणा । देवताद्वन्द्वे चेत्यानङ् । देवताद्वन्द्वे चेत्युभयपदप्रकृतिस्वरत्वं । सुपां सुलुगिति पूर्वसवर्णदीर्घ आकारः । हुवे । ह्वेञ् । आत्मनेपद उत्तमपुरुषैकवचने संप्रसारणे परपूर्वत्वे च कृते बहुलं छन्दसीति शपो लुक् । टेरेत्वं । गुणे प्राप्ते क्ङिति च । पा० १-१-५ । इति प्रतिषेधः । उवङादेशः तिङ्ङतिङ इति निघातः ॥८॥
+>
+> *yau mitrāvaruṇāvṛtena satyavacanena yajamānānugrahakāriṇāvṛtāvṛdhau | ṛtamavaśyaṃbhāvitayā satyaṃ karmaphalaṃ tasya vardhakau | ṛtasya satyasya praśastasya jyotiṣaḥ prakāśasya patī pālakau | śrutyantare mitrāvaruṇayoraditiputratvena śrutatvāddvādaśādityeṣvantarbhūtatvena jyotiṣpālakatvaṃ yuktaṃ | śrutyantare cāṣṭau putrāso aditerityupakramya mitraśca varuṇaścetyādikamāmnātaṃ | tai0 ā0 1-13-2-3 | tā mitrāvaruṇā tathāvidhau mitrāvaruṇau huve | āhvayāmi || ṛtāvṛdhau | vṛdhu vṛddhau | kvipceti kvip | anyeṣāmapi dṛśyata iti dīrghaḥ | kṛduttarapadaprakṛtisvaratvaṃ | jyotiṣaḥ | dyuta dīptau | dyuterisinnādeśca jaḥ | u0 2-111 | itīsinpratyayaḥ | nittvādādyudāttaḥ | ṣaṣṭhyāḥ patiputreti saṃhitāyāṃ visarjanīyasya satvaṃ | mitrāvaruṇā | devatādvandve cetyānaṅ | devatādvandve cetyubhayapadaprakṛtisvaratvaṃ | supāṃ sulugiti pūrvasavarṇadīrgha ākāraḥ | huve | hveñ | ātmanepada uttamapuruṣaikavacane saṃprasāraṇe parapūrvatve ca kṛte bahulaṃ chandasīti śapo luk | ṭeretvaṃ | guṇe prāpte kṅiti ca | pā0 1-1-5 | iti pratiṣedhaḥ | uvaṅādeśaḥ tiṅṅatiṅa iti nighātaḥ ||8||*
 
-**Translation:** "Those Mitra and Varuṇa who, by *ṛta* — by truthful speech that shows favour to the sacrificers — are *ṛtāvṛdhau*: the increasers of *ṛta*, that is, of truth — of the fruit of action, which comes of necessity. They are the two *patī* — lords, protectors — of *ṛta*, the true, and of *jyotis*, the supreme light. [It is heard / stated elsewhere that] Mitra and Varuṇa, being Ādityas, are rightly lords of light; and in another śruti, beginning *āptvā putrāso aditeḥ*, 'Mitra and Varuṇa' and the others [the Ādityas] are recited (Tai. Ā. [1-13] [?]). Such Mitra and Varuṇa — those two — I invoke (*huve*)." *(The wording of the bhāṣya's middle sentences is read with doubt.)* *(Grammar pages 159–162, noted briefly: the words treated are* ṛtāvṛdhau *[*vṛdhu vṛddhau* + *kvip* by P. 3-2-76 [numeral as read], the *kvip* being added to a root even without a *subanta* upapada; the compound; lengthening of the preceding member by P. 6-3-116 *ānyeṣām api dṛśyate* ('also in other words'); accent],* jyotiṣaḥ *[*dyut dīptau* + *isin* — Uṇ. 2-[?] *dyuterisiner ḍeś ca jaḥ*; *j* for the initial *d*, *guṇa*; the accent of the nominative, the *visarga* of the genitive turned into* s *by P. 8-3-53 *ṣaṣṭhyāḥ patiputra-pṛṣṭha-pāra-pada-payaḥ-poṣeṣu*],* mitrāvaruṇā *[*devatādvandva*; *ānaṅ* in* mitra *by P. 6-3-26; the long note that both members keep their own accent by P. 6-2-141; *ā* + *au* → *ā* by P. 6-1-102 *supāṃ suluk…*],* huve *[*hveñ spardhāyāṃ śabde ca*, *laṭ*, *iṭ* 1st sg. ātmanepada; *saṃprasāraṇa* P. 6-1-32 *bahulaṃ chandasi*, *pūrvarūpa* P. 6-1-108; *śap* → *luk*, *uvaṅ* by P. 6-4-88 *bhuvo vuk* … *aci śnudhātubhruvāṃ…* P. 6-4-77; the accent *tiṅ atiṅaḥ* P. 8-1-28]; numerals as read, pointers only.)*
+**Translation:** "Mitra and Varuṇa, who, *ṛtena*, by true speech, favour the sacrificer, *ṛtāvṛdhau*: *ṛta* is the fruit of rites, true because it must surely come; its increasers; *ṛtasya jyotiṣaḥ patī*, the protectors of the true, excellent light. Since elsewhere in the *śruti* Mitra and Varuṇa are heard of as sons of Aditi, and so are included among the twelve Ādityas, their protecting light is fitting; for elsewhere in the *śruti*, beginning 'eight sons of Aditi', 'Mitra and Varuṇa' and the rest are recorded (Tai. Ā. 1-13-2-3). *Tā mitrāvaruṇā*, such Mitra and Varuṇa, *huve*, I call." (Grammatical tail: *ṛtāvṛdhau*, *vṛdhu vṛddhau*, *kvip* by *kvip ca*, lengthening by *anyeṣām api dṛśyate*, the *kṛt* final member's accent; *jyotiṣaḥ*, *dyuta dīptau*, the suffix *isin* by *dyuter isinn ādeś ca jaḥ* (U. 2-111), initial udātta as *nit*; in the Saṃhitā *s* for the *visarga* by *ṣaṣṭhyāḥ patiputra…*; *mitrāvaruṇā*, *ānaṅ* by *devatādvandve ca*, both members' accent by *devatādvandve ca*, the *ā* as the lengthened like vowel by *supāṃ suluk*; *huve*, *hveñ*, middle voice first person singular, after *saṃprasāraṇa* and the preceding form, *śap* dropped by *bahulaṃ chandasi*, *e* for the *ṭi*; *guṇa* due is barred by *kṅiti ca* (Pā. 1-1-5); the substitute *uvaṅ*; loss of accent by *tiṅṅatiṅaḥ*.)
 
-**॥ Prati-padārthaḥ ॥** **यौ (yau)** — which Mitra and Varuṇa | **ऋतेन (ṛtena)** — with truth of speech, which shows favour to the sacrificer | **ऋतावृधौ (ṛtāvṛdhau)** — who give the fruit of action truly | **ऋतस्य (ṛtasya)** — of the true, or of the praiseworthy | **ज्योतिषः (jyotiṣaḥ)** — of the light | **पती (patī)** — the two lords | **ता (tā)** — such | **मित्रावरुणा (mitrāvaruṇā)** — the deities Mitra and Varuṇa | **हुवे (huve)** — I invoke.
+### Page 160 — Rik 5: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** The Mitra and Varuṇa who are true of speech in the matter of favouring the sacrificer, who increase the fruit of the acts done, and who are lords of the excellent light — such Mitra and Varuṇa I invoke.
+**॥ Prati-padārthaḥ ॥**
+
+**यौ (yau)** — the deities Mitra and Varuṇa who | **ऋतेन (ṛtena)** — with true speech that they will favour the sacrificer | **ऋतावृधौ (ṛtāvṛdhau)** — who truly give the fruit of rites | **ऋतस्य (ṛtasya)** — of the true or excellent | **ज्योतिषः (jyotiṣaḥ)** — of light | **पती (patī)** — who are the protectors (lords) | **ता (tā)** — such | **मित्रावरुणा (mitrāvaruṇā)** — the deities Mitra and Varuṇa | **हुवे (huve)** — I call (summon).
+
+**॥ Bhāvārthaḥ ॥**
+
+Mitra and Varuṇa are true in speech in the matter of favouring the sacrificer who performs the sacrifice; they increase the fruit of the rites done; they are lords of excellent light. I call such deities Mitra and Varuṇa.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I invoke Mitra and Varuna who are true in speech and who are encouragers of pious acts and are the lords of true light.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 160)* **ऋते** and **ऋतावृधा** — the explanation of the meanings of these words we have already given [Part 1, pp. 647 and 707]. *Ṛta* here may be taken in the sense of 'water' or 'sacrifice'. **ज्योतिषस्पती** — *prakāśasya pālakau*: lords of light, i.e. of the light in the form of rays. Since these two names, Mitra and Varuṇa, belong among the twelve names of the Ādityas, it is natural to call them *jyotiṣaspatī*.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+We have already explained the meaning of the words *ṛta* and *ṛtāvṛdhā* (Part 1, pages 647 and 707). *Ṛta* here may be taken to mean water or sacrifice.
+
+**ज्योतिषस्पती (jyotiṣaspatī)** — *prakāśasya pālakau*: lords of the light in the form of rays. Since these two names, Mitra and Varuṇa, are included among the names of the twelve Ādityas, it is natural to call them *jyotiṣaspatī*.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**ऋतावृधौ (ṛtāvṛdhau)** — the root *vṛdhu vṛddhau*; the analysis is *ṛtaṃ* (true fruit of rites) *vardhayataḥ*; *vardhayata iti vṛdhau*; or the analysis *ṛtasya vṛdhau*; here by *kvip ca* (Pā. Sū. 3-2-76) — with or without an *upapada* ending in *sup*, *kvip* comes after a root — *kvip* comes; *kvipas sarvasyāpi lopaḥ*; the accusative dual suffix *auṭ*: *ṛta vṛdhau*. By *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137) — lengthening comes also to first members other than particles —
+
+### Page 161 — Rik 5: grammar (continued)
+
+— the first member *ṛta* is lengthened; *vṛdh*, ending in *kvip*, is a *kṛt*-final word, and it is the last member. So by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the last member keeps its own accent. The *ṛ* in *vṛdh* is udātta by *dhātoḥ* (Pā. Sū. 6-1-162); thus in the compound this accent stays, and by the *śeṣānudātta* accent *ṛta* is unaccented. By the *sup* accent *au* is unaccented, and by *udāttād anudāttasya svaritaḥ* it is svarita.
+
+**ज्योतिषः (jyotiṣaḥ)** — the root *dyuta dīptau*; after it, by *dyuter isinn ādeś ca jaḥ* (U. Sū. 2-112, as read) — after the root *dyuta dīptau*, the suffix *isin*, and *j* for its initial *d* — when the suffix *isin* and *j* for the *d* come: *jyut* + *is*; by *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86) *guṇa* *o* for the *u*: it became *jyotis*; the suffix is *nit*, so by *ñnity ādir nityam* (Pā. Sū. 6-1-197) *jyotis* is initially udātta. After it the genitive *jas* [as printed]: *jyotis* + *as*; by *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣ* for the first *s*; by *sasajuṣo ruḥ* (Pā. Sū. 8-2-66) *r* for the *s*; by *kharavasānayor visarjanīyaḥ* (Pā. Sū. 8-3-15) *visarga* for the *r*: it became *jyotiṣaḥ*; in *jyotiṣaḥ patī*, at the time of the Saṃhitā, by *ṣaṣṭhyāḥ patiputrapṛṣṭhapārapadapayasposeṣu* (Pā. Sū. 8-3-53) *s* for the *visarga*.
+
+**मित्रावरुणा (mitrāvaruṇā)** — the analysis is *mitraś ca varuṇaś ca*, a *dvandva* compound. At *mitraṃ huve* (Ṛ. Saṃ. 1-2-7) it has been described that the masculine word *mitra* is final udātta by the stem accent *phiṣo 'nta udāttaḥ* (Phi. Sū. 1), and that the word *varuṇa*, ending in the suffix *unan*, is initially udātta by the *nit* accent. By *devatādvandve ca* (Pā. Sū. 6-3-26) — the first member before the last member in a *dvandva* compound of deities takes the substitute *ānaṅ* — the word *mitra* takes *ānaṅ*. By *ṅic ca* (Pā. Sū. 1-1-53) — a substitute marked *ṅ*, though of more than one letter, comes in place of the final — *ānaṅ* comes in place of the final letter. *Mitrān varuṇa*: when this is so, taking the internal case-ending as cause, there is the name *pada*, so by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-2-7) the *n* is dropped. By *devatādvandve ca* (Pā. Sū. 6-2-141) — in a *dvandva* compound containing words denoting deities, first and last members both keep their own accent at once — both members keep their own accent. When it is *mitrāvaruṇa* + *au*, by *supāṃ suluk pūrvasavarṇa…* (Pā. Sū. 7-1-39) the long like vowel *ā* comes in place of *a* + *au*.
+
+**हुवे (huve)** — the root *hveñ spardhāyāṃ śabde ca*; *laṭ*, middle voice first person singular, the suffix *iṭ*: *hve* + *i*. Now by *bahulaṃ chandasi* (Pā. Sū. 6-1-34) *saṃprasāraṇa*, *u* for the *v* —
+
+### Page 162 (upper) — Rik 5: grammar (end)
+
+— by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form: *hu* + *i*. By *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap*; for it, by *bahulaṃ chandasi* (Pā. Sū. 2-4-73), *luk*; by *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79) [*e*]; then *guṇa*, *o*, for the *u* would be due; but by *sārvadhātukam apit* (Pā. Sū. 1-2-4) *e* is *ṅit*, so by *kṅiti ca* (Pā. Sū. 1-1-5) *guṇa* is barred. By *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* (Pā. Sū. 6-4-77) the substitute *uvaṅ* for the *u*: it becomes *huve*. By *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) it is wholly unaccented. ॥5॥
 
 ---
 
