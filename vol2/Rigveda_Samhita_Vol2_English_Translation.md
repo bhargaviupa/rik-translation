@@ -7112,14 +7112,14 @@ Here Indra's drinking of Soma is described by hyperbole (*utprekṣā*): Indra d
 
 ### Page 330 — Sūkta 8, Rik 8
 
-*(Saṃhitā accents as printed; Pada unaccented. "hy àsya" carries the svarita of the y-sandhi; the IAST marks it with a grave.)*
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ए॒वा ह्य॑स्य सू॒नृता॑ विर॒प्शी गोम॑ती म॒ही ।
 > प॒क्वा शाखा॒ न दा॒शुषे॑ ॥८॥
 >
-> *evā́ hy àsya sūnṛ́tā virapśī́ gómatī mahī́ |*
+> *evā́ hy asya sūnṛ́tā virapśī́ gómatī mahī́ |*
 > *pakvā́ śākhā ná dāśúṣe ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
