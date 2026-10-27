@@ -3966,38 +3966,76 @@ the *t*: in the udātta rule, the *matup* immediately after a final-udātta word
 
 ---
 
-### Pages 171–174 — Sūkta 23, Rik 8
+### Page 171 (lower) — Sūkta 23, Rik 8
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रज्येष्ठा मरुद्गणा देवासः पूषरातयः ।
-> विश्वे मम श्रुता हवम् ॥ ८ ॥
+> इन्द्र॑ज्येष्ठा॒ म॑रुद्गणा॒ देवा॑सः॒ पूष॑रातयः ।
+> विश्वे॒ मम॑ श्रुता॒ हवं॑ ॥८॥ [accent ?]
+>
+> *índrajyeṣṭhā marudgaṇā dévāsaḥ pū́ṣarātayaḥ |*
+> *viśve máma śrutā hávaṃ ||8||* [accent ?]
 
-*indrajyeṣṭhā marudgaṇā devāsaḥ pūṣarātayaḥ | viśve mama śrutā havam || 8 ||*
+*(Strokes over द्र, म (मरु), वा and ष (पूष); bars under ष्ठा, णा and सः. Line 2: a bar under श्वे, strokes over the second म (मम) and over वं, a bar under ता; the positions in line 2 are not certain [accent ?].)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> इन्द्रऽज्येष्ठाः । मरुत्ऽगणाः । देवासः । पूषऽरातयः ॥ विश्वे । मम । श्रुत । हवम् ॥ ८ ॥
-
-*indra-jyeṣṭhāḥ | marut-gaṇāḥ | devāsaḥ | pūṣa-rātayaḥ || viśve | mama | śruta | havam || 8 ||*
+> इन्द्रऽज्येष्ठाः । मरुत्ऽगणाः । देवासः । पूषऽरातयः ॥
+> विश्वे । मम । श्रुत । हवं ॥८॥
+>
+> *indra 'jyeṣṭhāḥ | marut 'gaṇāḥ | devāsaḥ | pūṣa 'rātayaḥ ||*
+> *viśve | mama | śruta | havaṃ ||8||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे देवास इन्द्रमरुद्गणपूषाणो विश्वे सर्वे यूयं मम हवमाह्वानं श्रुत । शृणुत । कीदृशाः । इन्द्रज्येष्ठाः । इन्द्रो ज्येष्ठो मुख्यो येषु ते । तथाविधा मरुद्गणाः मरुत्समूहरूपाः । पूषरातयः । पूषाख्यो देवो रातिर्दाता येषां ते पूषरातयः ॥ इन्द्रज्येष्ठाः । आमन्त्रिताद्युदात्तत्वम् । पादादित्वादनिघातः । मरुद्गणाः । विभाषितं विशेषवचने बहुवचनम् (पा. ८-१-७४) इति पूर्वस्याविद्यमानवत्त्वादनिघातः । देवासः पूषरातयः । पूर्ववत् । श्रुत । श्रु श्रवणे । लोण्मध्यमबहुवचनं थ । तस्थस्थमिपां तान्तंतामः (पा. ३-४-१०१) इति तादेशः । व्यत्ययेन शप् । बहुलं छन्दसीति शपो लुक् । सार्वधातुकार्धधातुकयोरिति गुणे प्राप्ते क्ङिति चेति प्रतिषेधः । द्व्यचोऽतस्तिङ इति दीर्घः [?] । हवम् । ह्वेञ् स्पर्धायां शब्दे च । भावेऽनुपसर्गस्य (पा. ३-३-७०) इत्यप् । संप्रसारणं पूर्वरूपत्वं गुणावादेशौ । पित्त्वादनुदात्तत्वम् । धातुस्वरः शिष्यते ॥
+*(Numbers as printed: पा० ८-१-७४, ३-४-१०१, ३-३-७५.)*
 
-*he devāsa indramarudgaṇapūṣāṇo viśve sarve yūyaṃ mama havam āhvānaṃ śruta | śṛṇuta | kīdṛśāḥ | indrajyeṣṭhāḥ | indro jyeṣṭho mukhyo yeṣu te | tathāvidhā marudgaṇāḥ marutsamūharūpāḥ | pūṣarātayaḥ | pūṣākhyo devo rātir dātā yeṣāṃ te pūṣarātayaḥ || indrajyeṣṭhāḥ | āmantritādyudāttatvam | pādāditvād anighātaḥ | marudgaṇāḥ | vibhāṣitaṃ viśeṣavacane bahuvacanam (pā. 8-1-74) iti pūrvasyāvidyamānavattvād anighātaḥ | devāsaḥ pūṣarātayaḥ | pūrvavat | śruta | śru śravaṇe | loṇ madhyamabahuvacanaṃ tha | tasthasthamipāṃ tāntaṃtāmaḥ (pā. 3-4-101) iti tādeśaḥ | vyatyayena śap | bahulaṃ chandasīti śapo luk | sārvadhātukārdhadhātukayor iti guṇe prāpte kṅiti ceti pratiṣedhaḥ | dvyaco 'tastiṅa iti dīrghaḥ [?] | havam | hveñ spardhāyāṃ śabde ca | bhāve 'nupasargasya (pā. 3-3-70) ity ap | saṃprasāraṇaṃ pūrvarūpatvaṃ guṇāvādeśau | pittvād anudāttatvam | dhātusvaraḥ śiṣyate ||*
+> हे देवास इन्द्रमरुद्रूपा विश्वे सर्वे यूयं मम हवमाह्वानं श्रुत । शृणुत । कीदृशाः । इन्द्रज्येष्ठाः । इन्द्रो ज्येष्ठो मुख्यो येषु ते । तथाविधा मरुद्गणाः मरुत्समूहरूपाः । पूषरातयः । पूषाख्यो देवो रातिर्दाता येषामिन्द्रमरुतां ते पूषरातयः ॥ इन्द्रज्येष्ठाः । आमन्त्रिताद्युदात्तत्वं । पादादित्वादनिघातः । मरुद्गणाः । विभाषितं विशेषवचने बहुवचनं । पा० ८-१-७४ । इति पूर्वस्याविद्यमानवत्त्वादनिघातः । देवासः पूषरातयः । पूर्ववत् । श्रुत । श्रु श्रवणे । लोण्मध्यमबहुवचनं थ । तस्थस्थमिपां । पा० ३-४-१०१ । इति तादेशः । व्यत्ययेन शप् । बहुलं छन्दसीति शपो लुक् । सार्वधातुकार्धधातुकयोरिति गुणे प्राप्ते क्ङिति चेति प्रतिषेधः । द्व्यचोऽतस्तिङ इति दीर्घः । हवं । ह्वेञ् स्पर्धायां शब्दे च । भावेऽनुपसर्गस्य । पा० ३-३-७५ । इत्यप् । संप्रसारणं परपूर्वत्वं गुणावादेशौ । पित्त्वादनुदात्तत्वं । धातुस्वरः शिष्यते ॥
+>
+> *he devāsa indramarudrūpā viśve sarve yūyaṃ mama havamāhvānaṃ śruta | śṛṇuta | kīdṛśāḥ | indrajyeṣṭhāḥ | indro jyeṣṭho mukhyo yeṣu te | tathāvidhā marudgaṇāḥ marutsamūharūpāḥ | pūṣarātayaḥ | pūṣākhyo devo rātirdātā yeṣāmindramarutāṃ te pūṣarātayaḥ || indrajyeṣṭhāḥ | āmantritādyudāttatvaṃ | pādāditvādanighātaḥ | marudgaṇāḥ | vibhāṣitaṃ viśeṣavacane bahuvacanaṃ | pā0 8-1-74 | iti pūrvasyāvidyamānavattvādanighātaḥ | devāsaḥ pūṣarātayaḥ | pūrvavat | śruta | śru śravaṇe | loṇmadhyamabahuvacanaṃ tha | tasthasthamipāṃ | pā0 3-4-101 | iti tādeśaḥ | vyatyayena śap | bahulaṃ chandasīti śapo luk | sārvadhātukārdhadhātukayoriti guṇe prāpte kṅiti ceti pratiṣedhaḥ | dvyaco 'tastiṅa iti dīrghaḥ | havaṃ | hveñ spardhāyāṃ śabde ca | bhāve 'nupasargasya | pā0 3-3-75 | ityap | saṃprasāraṇaṃ parapūrvatvaṃ guṇāvādeśau | pittvādanudāttatvaṃ | dhātusvaraḥ śiṣyate ||*
 
-**Translation:** "O gods — Indra, the host of Maruts, Pūṣan, all of you (*viśve*), hear my call (*havam*)! What are they like? *Indrajyeṣṭhāḥ*: those among whom Indra is *jyeṣṭha*, the foremost; the *marudgaṇāḥ*, the Marut hosts of such kind; *pūṣarātayaḥ*: those whose *rāti* — giver — is the god named Pūṣan. *Indrajyeṣṭhāḥ*: the vocative, with the first-syllable acute; no *nighāta* since it stands at the beginning of the pāda. *Marudgaṇāḥ*: by P. 8-1-74 *vibhāṣitaṃ viśeṣavacane bahuvacanam* the preceding [word] is treated as non-existent, so there is no *nighāta*. *Śruta*: *śru śravaṇe*; *loṭ*, 2nd person plural *tha*, with *ta* substituted by P. 3-4-101; *śap* by *vyatyaya* and its *luk* by *bahulaṃ chandasi*; guṇa blocked by P. 1-1-5 *kṅiti ca*; … *Havam*: *hveñ spardhāyāṃ śabde ca*, *ap* in the sense of the action by P. 3-3-70 [numeral as read]; *saṃprasāraṇa*, *pūrvarūpa*, guṇa, *av*; the accent of the root remains." *(Grammar pages 173–174, noted briefly: the words treated are* indrajyeṣṭhāḥ*,* marudgaṇāḥ*,* devāsaḥ pūṣarātayaḥ *[all vocatives; the accent rules P. 8-1-19 *anudāttaṃ sarvam apādādau*, 8-1-72 *āmantritasya ca*, 6-1-198 *āmantritasya ca* (first-syllable acute), 8-1-74 *vibhāṣitaṃ viśeṣavacane bahuvacanam*],* śruta *[with the long argument about the *śap*/*śnu* substitution, *śruvaḥ śṛ ca* P. 3-1-74, and P. 7-3-84 not applying],* havam *[as in the preceding riks]; numerals as read, pointers only.)*
+### Page 172 — Rik 8: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** **इन्द्रज्येष्ठाः (indrajyeṣṭhāḥ)** — those with Indra as chief | **मरुद्गणाः (marudgaṇāḥ)** — accompanied by the host of the Maruts | **पूषरातयः (pūṣarātayaḥ)** — those whose wealth-giver is the deity Pūṣan | **विश्वे देवासः (viśve devāsaḥ)** — all the gods [you] | **मम (mama)** — my | **हवम् (havam)** — call | **श्रुत (śruta)** — hear.
+**Translation:** "O *devāsaḥ*, gods, in the form of Indra and the Maruts, *viśve*, all of you, *śruta*, hear, *mama havam*, my call. Of what kind are you? *Indrajyeṣṭhāḥ*: those among whom Indra is the eldest, the chief; such ones, *marudgaṇāḥ*, in the form of the host of Maruts; *pūṣarātayaḥ*: Indra and the Maruts, whose *rāti*, giver, is the god called Pūṣan." (Grammatical tail: *indrajyeṣṭhāḥ*, the vocative initial udātta; not unaccented as it begins the *pāda*; *marudgaṇāḥ*, not unaccented because the preceding is treated as not there by *vibhāṣitaṃ viśeṣavacane bahuvacanam* (Pā. 8-1-74); *devāsaḥ*, *pūṣarātayaḥ*, as before; *śruta*, *śru śravaṇe*, *tha* of *loṭ* second person plural, the substitute *ta* by *tasthasthamipām…* (Pā. 3-4-101); *śap* by *vyatyaya*, dropped by *bahulaṃ chandasi*; the *guṇa* due by *sārvadhātukārdhadhātukayoḥ* is barred by *kṅiti ca*; lengthening by *dvyaco 'tastiṅaḥ*; *havam*, *hveñ spardhāyāṃ śabde ca*, *ap* by *bhāve 'nupasargasya* (Pā. 3-3-75); *saṃprasāraṇa*, the preceding form, *guṇa* and *av*; unaccented as *pit*; the root accent remains.)
 
-**॥ Bhāvārthaḥ ॥** O all you gods! You are those with Indra, the chief of the gods, as leader; you are accompanied by the Marut deities, and by the deity Pūṣan who bestows wealth. Hear such a call of mine.
+**॥ Prati-padārthaḥ ॥**
+
+**इन्द्रज्येष्ठाः (indrajyeṣṭhāḥ)** — having Indra as chief | **मरुद्गणाः (marudgaṇāḥ)** — joined with the host of Marut deities | **पूषरातयः (pūṣarātayaḥ)** — accompanied by the deity Pūṣan, the giver of wealth | **विश्वे देवासः (viśve devāsaḥ)** — O all deities (you) | **मम (mama)** — my | **हवं (havaṃ)** — call | **श्रुत (śruta)** — hear.
+
+**॥ Bhāvārthaḥ ॥**
+
+O all deities, you are accompanied by Indra, the chief among the deities, and by the Marut deities, and by the deity called Pūṣan who gives wealth. Such as you are, hear the call that I make.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Gods with the divine hosts of Maruts with Indra at your head among whom Pusha is most liberal, hear all of you this my call.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 172–173)* **इन्द्रज्येष्ठाः** — the word *jyeṣṭha* means 'chief' (*pradhāna*): *indraḥ pradhānabhūto yeṣāṃ te indrajyeṣṭhāḥ* — those for whom Indra is the head, the chief; that is, among the gods, Indra is the leader (*Indra at their heads*); the gods who move forward with him in front. **पूषरातयः** — *pūṣākhyo devo rātir dātā yeṣāṃ te pūṣarātayaḥ*: *rāti* means a giver, a giver of wealth; that is, those who have the deity called Pūṣan [as their giver of wealth].
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**इन्द्रज्येष्ठाः (indrajyeṣṭhāḥ)** — *jyeṣṭhaśabdaḥ pradhānavacanaḥ | indraḥ pradhānabhūto yeṣāṃ te indrajyeṣṭhāḥ ||* *Jyeṣṭha* means chief, principal. So *indrajyeṣṭhāḥ* means those who have Indra as chief, as principal: "Indra at their heads". That is, Indra is the leader of the gods ("leader"): it means the gods who set out with him in front.
+
+### Page 173 — Rik 8: Special Topics (end), grammar
+
+**पूषरातयः (pūṣarātayaḥ)** — *pūṣākhyo devo rātir dātā yeṣāṃ te pūṣarātayaḥ ||* *Rāti* means giver, giver of wealth: the intention is, accompanied by such a deity called Pūṣan.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**इन्द्रज्येष्ठाः (indrajyeṣṭhāḥ)** — this is *āmantrita*; but since it is at the beginning of the *pāda*, there is the prohibition *anudāttaṃ sarvam apādādau* (Pā. Sū. 8-1-18), so the total lack of accent by the eighth-book *āmantritasya ca* (Pā. Sū. 8-1-19) does not come. By the sixth-book *āmantritasya ca* (Pā. Sū. 6-1-198) the initial udātta alone comes.
+
+**मरुद्गणाः (marudgaṇāḥ)** — this is an *āmantrita* ending in the plural. Here by *vibhāṣitaṃ viśeṣavacane* (Pā. Sū. 8-1-74) — when an *āmantrita* ending in the plural that is a qualifier follows, the preceding *āmantrita* ending in the plural that denotes the thing qualified is optionally treated as not there. (Here the word *bahuvacana* is not in the sūtra; but since the author of the Mahābhāṣya has supplied it, the stated meaning is to be known as right.) By this sūtra, since the preceding word *indrajyeṣṭhāḥ*, before the *āmantrita* *marudgaṇāḥ*, is treated as not there, *marudgaṇāḥ* does not become one following a *pada*. So the total lack of accent of the eighth book does not come.
+
+**देवासः, पूषरातयः (devāsaḥ, pūṣarātayaḥ)** — both are *āmantritas* ending in the plural. Here, since *devāḥ* is at the beginning of the second *pāda*, the prohibition *anudāttaṃ sarvam apādādau* (Pā. Sū. 8-1-18) comes, and since the preceding words before *pūṣarātayaḥ* are treated as not there as said before, the total lack of accent of the eighth book does not come. By the sixth-book *āmantritasya ca* the initial udātta alone comes.
+
+**श्रुत (śruta)** — the root *śru śravaṇe*. *Loṭ*, second person plural, the suffix *tha*: *śru* + *tha*. By *loṭo laṅvat* (Pā. Sū. 3-4-85) the extension of being like *laṅ*. By *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) — in place of a *la* marked *ṅ*, *tām*, *tam*, *ta*, *am* come in order for the four suffixes *tas*, *thas*, *tha*, *mip* — the substitute *ta* for *tha*: *śru* + *ta*. By *śruvaḥ śṛ ca* (Pā. Sū. 3-1-74) — instead of the *vikaraṇa* *śap*, the *vikaraṇa* *śnu* after the root *śru*, and the substitute *śṛ* for the root — the *vikaraṇa* *śnu* would be due; but overriding it, *śap* comes by interchange; for it, by *bahulaṃ chandasi*, *luk*. By *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) — when a *sārvadhātuka* or *ārdhadhātuka* suffix follows, a stem ending in *ik* takes *guṇa* — *guṇa* would be due for the *u* of *śru*;
+
+### Page 174 — Rik 8: grammar (end)
+
+but by *kṅiti ca* (Pā. Sū. 1-1-5) — taking suffixes marked *g*, *k*, *ṅ* as cause, *guṇa* and *vṛddhi* do not come — the prohibition comes. Here *ta* is not by nature *git*, *kit* or *ṅit*. But by *sārvadhātukam apit* (Pā. Sū. 1-2-4) a *sārvadhātuka* suffix that is not *pit* is like *ṅit*; so the treatment as *ṅit* comes and it is *ṅit*. *Śruta*: now, at the time of the Saṃhitā, by *dvyaco 'tastiṅaḥ* (Pā. Sū. 6-3-135) — a two-vowelled word ending in *tiṅ* and in short *a*, in a mantra, is lengthened at the time of the Saṃhitā — lengthening.
+
+**हवम् (havam)** — the root *hveñ spardhāyāṃ śabde ca*. In *bhāve 'nupasargasya* (Pā. Sū. 3-3-75), from *ṛdor ap* (Pā. Sū. 3-3-57) *ap* is carried on, and from *hvaḥ saṃprasāraṇaṃ ca…* (Pā. Sū. 3-3-72) *hvaḥ saṃprasāraṇam* is carried on. So after the root *hveñ* without a prefix, in the action sense, the suffix *ap* and *saṃprasāraṇa* for *hveñ* both come: when *ap* and *saṃprasāraṇa* come, by *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) the preceding form comes, giving *hu* + *a*; now by *sārvadhātukārdhadhātukayoḥ*, *guṇa*: *ho* + *a*; by *eco 'yavāyāvaḥ* (Pā. Sū. 6-1-78) the substitute *av*: it became *hava*. The suffix *ap* is *pit*; so by *anudāttau suppitau* (Pā. Sū. 3-1-4) — a *sup* and a *pit* are both unaccented — after the unaccented, the root accent alone remains. So the *a* of *ha* is udātta; when the accusative singular suffix *am* is attached, by *ami pūrvaḥ* the preceding form comes and it becomes *havam*. ॥8॥
+
+---
+
 ### Pages 174–177 — Sūkta 23, Rik 9
 
 **॥ Saṃhitāpāṭhaḥ ॥**
