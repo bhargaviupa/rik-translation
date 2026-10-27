@@ -13402,15 +13402,19 @@ So by "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. 8-1-72) the earlier voca
 
 ---
 
-### Pages 639–641 — Sūkta 15, Rik 4
+### Page 639 (lower) — Sūkta 15, Rik 4
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अग्ने देवाँ इहा वह सादया योनिषु त्रिषु ।
-> परि भूष पिब ऋतुना ॥४॥
+> अग्ने॑ दे॒वाँ इ॒हा व॑ह सा॒दया॒ योनि॑षु त्रि॒षु । [accent ?]
+> परि॑ भूष॒ पिब॑ ऋ॒तुना॑ ॥४॥
 >
-> *agne devām̐ ihā vaha sādayā yoniṣu triṣu |*
-> *pari bhūṣa piba ṛtunā ||4||*
+> *ágne devā́m̐ ihā́ vaha sādáyā yóniṣu triṣú |* [accent ?]
+> *pári bhūṣa píba ṛtúnā ||4||*
+
+*(Line 1: the bars under सादया are read under सा and या; not certain.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -13420,37 +13424,65 @@ So by "āmantritaṃ pūrvam avidyamānavat" (Pā. sū. 8-1-72) the earlier voca
 > *agne | devān | iha | ā | vaha | sādaya | yoniṣu | triṣu ||*
 > *pari | bhūṣa | piba | ṛtunā ||4||*
 
-*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* ihā, sādayā*; the Pada the short forms.)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 639–640; compressed; [?] marks doubtful readings)*
-
-> हे अग्ने देवानिहास्मिन्कर्मण्या वह । ततो योनिषु स्थानेषु त्रिषु सवनेषु सादय । देवानुपवेशय । ततस्तान्परि भूष । अलंकुरु । ऋतुना सह त्वं सोमं पिब ॥ अग्ने देवानित्ययं पादो गतः । योनिषु । यु मिश्रणे । वहिश्रीत्यादिना । उ. [४-१३१ ?] । नि प्रत्ययः । नित्त्वादाद्युदात्तः । त्रिषु । षट्त्रिचतुर्भ्यो हलादिः । पा. [६-१-१८१ ?] । इति विभक्तेरुदात्तत्वम् । भूष । भूष अलंकारे । तिङ्ङतिङ इति निघातः । पिब ऋतुना । गतौ ॥
+> हे अग्ने देवानिहास्मिन्कर्मण्या वह । ततो योनिषु स्थानेषु त्रिषु सवनेषु सादय । देवानुपवेशय । ततस्तान्परि भूष । अलंकुरु । ऋतुना सह त्वं सोमं
 >
-> *he agne devān ihāsmin karmaṇy ā vaha | tato yoniṣu sthāneṣu triṣu saveneṣu sādaya | devān upaveśaya | tatas tān pari bhūṣa | alaṅkuru | ṛtunā saha tvaṃ somaṃ piba || agne devān ity ayaṃ pādo gataḥ | yoniṣu | yu miśraṇe | vahi-śrī-ty-ādinā | u. [4-131 ?] | ni pratyayaḥ | nittvād ādyudāttaḥ | triṣu | ṣaṭ-tri-catur-bhyo halādiḥ | pā. [6-1-181 ?] | iti vibhakter udāttatvam | bhūṣa | bhūṣa alaṅkāre | tiṅ ataṅ iti nighātaḥ | piba ṛtunā | gataḥ ||*
+> *he agne devānihāsminkarmaṇyā vaha | tato yoniṣu sthāneṣu triṣu savaneṣu sādaya | devānupaveśaya | tatastānpari bhūṣa | alaṃkuru | ṛtunā saha tvaṃ somaṃ*
 
-**Translation:** "O Agni! Bring the gods here, to this rite. Then seat them (*sādaya*) in the three places (*yoniṣu*) — the three *savanas*: make them sit down. Then adorn them (*pari bhūṣa*); and together with the Ṛtu, drink the soma. [The *pāda*] *agne devān* [*ihā vaha*] has been gone through already [in Rik 3.11, per the Kannada]. *Yoniṣu* — root *yu* 'to mix', the Uṇādi *ni* suffix, first-syllable accent; *triṣu* — the case-ending is accented by P. 6-1-180/181 [*ṣaṭ-tri-catur-bhyo halādiḥ*]; *bhūṣa* — from *bhūṣ* 'to adorn', the verb unaccented. *Piba ṛtunā* — gone through [Rik 1]." *(The Sanskrit of the closing words was legible; the Uṇādi and Pāṇini numerals are marked [?] because I could not read them with certainty at 150 dpi.)*
+### Page 640 — Rik 4: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**Grammar pages (p. 641), noted briefly.** The Kannada says that the *pāda* *agne devām̐ ihā vaha* has been treated at Sūkta 3, Rik 11 [the print's cross-reference numerals, read with a query]. *Sādaya*: *ṣad* "to sink, go, loosen", *ṇic*, the *ṣ*→*s* of *dhātvādeḥ ṣaḥ saḥ*, the *upadhā-vṛddhi* P. 7-2-116 *ata upadhāyāḥ*; *loṭ*, *sip*, *hi* by P. 3-4-87; *śap* with guṇa and *ay*; *luk* of *hi* by P. 6-4-105 *ato heḥ*; the *ṇic*'s *a* has the suffix-accent; *śap*'s *pit*-ness leaves it unaccented; the final lengthening *sādayā* as in *sajoṣāḥ* etc. *Yoniṣu*: *yu miśraṇe*; Uṇ. 4-[?] *vahi-śri-śru-yu-dru-gnā-tvaribhyo niḥ*; guṇa by P. 7-3-84; locative plural *yoniṣu*; accent of *ni*. *Triṣu*: *ṣaṭ-tri-catur-bhyo halādiḥ* P. 6-1-180 [as printed 6-1-181?]; the name *ṣaṭ* for words ending in *ṣ* or *n* denoting numbers (*ṣṇāntā ṣaṭ* P. 1-1-24). *Bhūṣa*: *bhūṣ alaṅkāre*, *loṭ*, *sip*, *hi*, *luk* by P. 6-4-105; wholly unaccented by P. 8-1-28. *Piba ṛtunā*: the pair was explained in Sūkta 15 Rik 1 (print: "Ṛ. Saṃ. 15-1"). ॥4॥ *(Numerals as read; pointers only.)*
+> पिब ॥ अग्ने देवानित्ययं पादो गतः । योनिषु । यु मिश्रणे । वहिश्रीत्यादिना । उ. ४-५१ । निप्रत्ययः । नित्त्वादाद्युदात्तः । त्रिषु । षट्त्रिचतुर्भ्यो हलादिः । पा. ६-१-१७९ । इति विभक्तेरुदात्तत्वं । भूष अलंकारे । तिङ्ङतिङ इति निघातः । पिब ऋतुनेति गतौ ॥
+>
+> *piba || agne devānityayaṃ pādo gataḥ | yoniṣu | yu miśraṇe | vahiśrītyādinā | u. 4-51 | nipratyayaḥ | nittvādādyudāttaḥ | triṣu | ṣaṭtricaturbhyo halādiḥ | pā. 6-1-179 | iti vibhakterudāttatvaṃ | bhūṣa alaṃkāre | tiṅṅatiṅa iti nighātaḥ | piba ṛtuneti gatau ||*
 
-**॥ Prati-padārthaḥ ॥** *(p. 640)*
+**Translation:** "O Agni, bring the gods here to this rite. Then seat them, place the gods, in the *yonis*, the places, the three pressings. Then *pari bhūṣa*, adorn, them. Drink the soma with the Ṛtu." (Grammatical tail: the pāda *agne devān…* has been gone through; *yoniṣu* from *yu* 'to mix' with *ni* (Uṇ. 4-51), initial udātta; *triṣu*, the ending udātta by Pā. 6-1-179; *bhūṣa*, 'to adorn', lowered; *piba ṛtunā* gone through.)
 
-**अग्ने (agne)** — O Agni | **देवान् (devān)** — the gods | **इह (iha)** — for this rite | **आ वह (ā vaha)** — bring | **त्रिषु योनिषु (triṣu yoniṣu)** — in three separate places (in the three *savanas*) | **सादय (sādaya)** — seat | **परि भूष (pari bhūṣa)** — adorn | **ऋतुना (ṛtunā)** — with the Ṛtu-deity | **पिब (piba)** — drink (the soma-juice).
+**॥ Prati-padārthaḥ ॥**
+
+**अग्ने (agne)** — O Agni | **देवान् (devān)** — the gods | **इह (iha)** — for this sacrificial rite | **आ वह (ā vaha)** — bring | **त्रिषु योनिषु (triṣu yoniṣu)** — in the three (separate) places (in the pressings) | **सादय (sādaya)** — seat | **परि भूष (pari bhūṣa)** — adorn | **ऋतुना (ṛtunā)** — with the Ṛtu deity | **पिब (piba)** — drink (the soma juice).
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni! Bring the gods to this sacrifice of ours. Seat them in the three separate places — the morning, midday and evening *savanas*. Make suitable adornments. Together with the Ṛtu-deity, drink the soma-juice.
+O Agni, bring the gods to our sacrifice. Seat them in three separate places, in the three pressings: the morning pressing, the midday pressing and the third pressing. Make fitting adornments. You too drink the soma juice with the Ṛtu deity.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Agni, bring the gods hither, seat them in three places (or in the three savanas), decorate them and drink with Ritu.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 640)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**सादय (sādaya)** — the last syllable of this word is lengthened in the Saṃhitā text to suit the metre.
+**Sādaya**: the final syllable of this word is long in the Saṃhitā to suit the metre.
 
-**योनिषु त्रिषु (yoniṣu triṣu)** — *triṣu sthāneṣu*: that is, the morning *savana* (*prātaḥ-savana*), the midday *savana* (*mādhyandina-savana*) and the third *savana* (*tṛtīya-savana*). A *savana* is the rite of drawing off the soma-juice. Because this rite is done with the recitation of mantras at three times — morning, midday and evening — these rites are called respectively the morning, midday and third *savana*.
+**Yoniṣu triṣu**:
 
-**परि भूष (pari bhūṣa)** — *alaṅkuru* "adorn" is the commentator's gloss. Although the word *bhūṣa* has the sense "adorn", it may be doubted here whether there is any need to adorn the gods.
+> त्रिषु स्थानेषु
+>
+> *triṣu sthāneṣu*
+
+that is, the morning pressing, the midday pressing and the third pressing. A pressing (*savana*) is the act of pressing out the soma juice. Since this act is done in the sacrifice at three times, morning, midday and evening, with the recitation of mantras, these acts are called in order the morning pressing, the midday pressing and the third pressing.
+
+**Pari bhūṣa**: *alaṃkuru*: the Bhāṣyakāra gives the sense "adorn". Though *bhūṣa* means "adorn", there is room to doubt what need there could be here to adorn the gods.
+
+### Page 641 — Rik 4: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page 641, noted briefly)*
+
+**अग्ने देवाँ इहा वह**: the derivation of this pāda is set out in the 3rd and 10th Ṛks of Sūkta 12.
+
+**सादया (*sādayā*)**: *ṣadḷ viśaraṇagatyavasādaneṣu*; *ṇic*; *s* for *ṣ* by "dhātvādeḥ ṣaḥ saḥ"; the penultimate *vṛddhi* by "ata upadhāyāḥ" (Pā. sū. 7-2-116): *sādi*. Then *loṭ*, 2nd singular *sip*; *hi* by "ser hy apic ca" (Pā. sū. 3-4-87); the *vikaraṇa* *śap*, *guṇa*, *ay*: *sādaya* + *hi*; *hi* dropped by "ato heḥ" (Pā. sū. 6-4-105). The *a* that has come in place of the *ṇic* is udātta by the suffix accent; *śap* is *pit*, so unaccented. As in *sajasvānaḥ*, it is lengthened here too.
+
+**योनिषु (*yoniṣu*)**: *yu miśraṇe*; "vahiśriśruyudruglātvaribhyo nit" (Uṇ. sū. "4-491" [?]): after these roots the suffix *ni*, and it is *nit*; so *ni* after *yu*: *yu* + *ni*; *guṇa* by "sārvadhātukārdhadhātukayoḥ" (Pā. sū. 7-3-84), *o* for the *u*; locative plural *yoniṣu*. The suffix *ni* is *nit*, so the *nit* accent makes it initial udātta.
+
+**त्रिषु (*triṣu*)**: "ṣaṭtricaturbhyo halādiḥ" (Pā. sū. "9-1-179" [as printed, for 6-1-179]); with "ṣṇāntā ṣaṭ" (Pā. sū. 1-1-24) the numerals ending in *ṣ* and *n* are called *ṣaṭ*; after such a *ṣaṭ* word, after *tri* and after *catur*, a consonant-initial ending is udātta; so the ending is udātta.
+
+**भूष (*bhūṣa*)**: *bhūṣa alaṃkāre* (*bhvādi*); *loṭ*, 2nd singular *sip*, *hi*, the *vikaraṇa* *śap*; *hi* dropped by "ato heḥ": *bhūṣa*; wholly unaccented by "tiṅṅatiṅaḥ".
+
+**पिब ऋतुना**: these two words are explained at *indra somaṃ piba ṛtunā* (Ṛ. Saṃ. Sū. 15, Ṛk 1).
+
+**॥४॥**
+
+---
 
 ### Pages 642–646 — Sūkta 15, Rik 5
 
