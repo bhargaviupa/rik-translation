@@ -9,7 +9,14 @@ g=int(sys.argv[1]); a,b=float(sys.argv[2]),float(sys.argv[3]); OUT=sys.argv[4]
 path,n=part_of(g); d=tempfile.mkdtemp(dir=WORK)
 subprocess.run(['pdftoppm','-f',str(n),'-l',str(n),'-r','450','-gray',path,d+'/p'],check=True)
 im=Image.open(d+'/'+os.listdir(d)[0]); subprocess.run(['rm','-rf',d])
-W,H=im.size; reg=im.crop((0,int(H*a),W,int(H*b)))
+W,H=im.size
+if os.environ.get('BOX'):   # fractions of the text block exactly as view.py computes it (from a 40 dpi render)
+    from view import textbox as vtb
+    d=tempfile.mkdtemp(dir=WORK); subprocess.run(['pdftoppm','-f',str(n),'-l',str(n),'-r','40','-gray',path,d+'/p'],check=True)
+    sm=Image.open(d+'/'+os.listdir(d)[0]).convert('L'); subprocess.run(['rm','-rf',d])
+    k=450/40; bb=[v*k for v in vtb(sm)]
+    a,b=(bb[1]+a*(bb[3]-bb[1]))/H,(bb[1]+b*(bb[3]-bb[1]))/H
+reg=im.crop((0,int(H*a),W,int(H*b)))
 bw=ImageOps.invert(reg).point(lambda v:255 if v>110 else 0); px=bw.load(); w,h=bw.size
 rows=[sum(px[x,y]>0 for x in range(0,w,2)) for y in range(h)]
 thr=max(rows)*0.12; lines=[]; y=0

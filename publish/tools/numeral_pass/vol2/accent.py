@@ -1,6 +1,6 @@
 """Accented Saṃhitā lines: Devanagari with ॒ (anudātta) / ॑ (svarita) as printed -> IAST with acute on the udātta.
-The udātta is derived mechanically from the marks: an unmarked syllable is udātta unless it follows a ॑ syllable
-(or the unmarked pracaya run after one), except directly before a ॑ syllable; each line starts fresh.  python3 accent.py 'DEVANAGARI LINE' ...  (prints the IAST)"""
+The udātta is marked only where the print's marks show it directly: an unmarked syllable right
+before a ॑ syllable or right after a ॒ syllable (a line-initial or run-internal udātta is left unmarked).  python3 accent.py 'DEVANAGARI LINE' ...  (prints the IAST)"""
 import sys,os,re,unicodedata
 sys.path.insert(0,os.path.join(os.path.dirname(__file__),'..','..','translit'))
 from add_iast import deva_to_iast
@@ -23,11 +23,7 @@ def nuclei(d):
 ACUTE={'a':'á','ā':'ā́','i':'í','ī':'ī́','u':'ú','ū':'ū́','ṛ':'ṛ́','ṝ':'ṝ́','e':'é','o':'ó'}
 def iast(d):
     acc=nuclei(d); n=len(acc)
-    ud=[]; st='U'          # an unmarked syllable is udātta unless it follows a svarita (॑) or a pracaya run after one
-    for k,a in enumerate(acc):
-        if a=='':
-            u=st in ('U','D') or (k+1<n and acc[k+1]=='S'); ud.append(u); st='D' if u else 'P'
-        else: ud.append(False); st=a
+    ud=[acc[k]=='' and ((k+1<n and acc[k+1]=='S') or (k>0 and acc[k-1]=='U')) for k in range(n)]
     plain=deva_to_iast(d.replace(U,'').replace(S,''))
     out=[]; k=0; i=0; s=plain
     while i<len(s):
