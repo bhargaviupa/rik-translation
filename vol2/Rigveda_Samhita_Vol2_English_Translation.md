@@ -6005,7 +6005,7 @@ In ancient times the demon Vṛtra made the world a mass of darkness. Indra slew
 
 **Translation:** "O Indra! You — *ugra*, unassailable to enemies — with your *ugra* protections (*ūtibhiḥ*), unassailable, directed to our concerns, protect us (*naḥ ava*) in battles (*vājeṣu*) — and likewise in the *sahasra-pradhanas*, that is, even in great battles that bring the winning of thousands of elephants, horses and the like, protect us."
 
-*(The remaining Sanskrit on pp. 272–273 is Sāyaṇa's grammar of* वाजेषु*,* नः*,* अव*,* सहस्रप्रधनेषु*,* उग्रः*,* ऊतिभिः*. Characterized below with the Kannada Vyākaraṇa-prakriyā; not transcribed.)*
+**Grammar of the Bhāṣya (pp. 272–273; characterized, references as printed):** "Vājeṣu" — first-syllable acute by **वृषादीनां च** (पा. ६-१-२०३). "No 'va" — the "o" from "nas" stays unchanged by "prakṛtyāntaḥpādam…" is not applicable, because of the prohibition "avyapare" (पा. ६-१-११५). "Ava" — "ava rakṣaṇe"; nighāta by "tiṅṅatiṅaḥ." Although, in relation to the verb to be supplied with "sahasrapradhaneṣu ca," "ava" is the first verb, and **चवायोगे प्रथमा** (पा. ८-१-५९) would forbid the nighāta, here in "vājeṣu" the "ca" is elided, and by **चादिलोपे विभाषा** (पा. ८-१-६३) the prohibition is optional, so the nighāta applies. "Sahasra" — **कर्दमादीनां च** (फि. ३-१०) middle-acute; in the bahuvrīhi the first member's accent stays. "Ugraḥ" — "uca samavāye," "c" → "g," "ran" by "ṛjrendra…"; end-acute by vyatyaya. "Ūtibhiḥ" — "ktin" acute by "ūtiyūti…".
 
 ### Page 273
 
@@ -6025,32 +6025,36 @@ O Indra! You are *apradhṛṣya* — that is, enemies cannot conquer you. Such 
 
 ### Page 274
 
-**"Sahasrapradhaneṣu"** — *pradhana* or *mahādhana* means battle. (The word *mahādhana* is read among the **forty-six** words for "battle," beginning with *raṇa* — Nirukta 2-17 *[the count was first read here as "sixty-six" from a hard-to-read number-word; the same count printed clearly in Sūkta 8, Rik 6 (p. 326, "ನಲವತ್ತಾರು") is forty-six, so it is corrected here]*.) Since this rik already contains **another** word for battle, *vājeṣu*, to take *pradhaneṣu* in *sahasrapradhaneṣu* as "battle" would bring about the fault of repetition (*dviruktidoṣa*) and the sense would not fit well. **The Bhāṣyakāra's component-sense is therefore the right one**: when one fights and conquers enemies, the elephants, horses, weapons, wealth, gold, vehicles and all other possessions that were with those enemies naturally come under the power of the victors. Thus Indra is prayed to give us suitable help in thousands of battles, so that we may conquer our enemies and take all their wealth, and that, at the same time, we may be protected, with no danger to our lives from the enemy.
+*(The Special Topics begin at the foot of p. 273.)*
+
+**"Sahasrapradhaneṣu"** — *pradhana* or *mahādhana* means battle. (The word *mahādhana* is read among the **forty-six** words for "battle," beginning with *raṇa* — "Ni. 3-9" as printed [?]; the usual place is Nighaṇṭu 2-17.) Since this rik already contains **another** word for battle, *vājeṣu*, to take *pradhaneṣu* in *sahasrapradhaneṣu* as "battle" would bring about the fault of repetition (*dviruktidoṣa*) and the sense would not fit well. **The Bhāṣyakāra's component-sense is therefore the right one**: when one fights and conquers enemies, the elephants, horses, weapons, wealth, gold, vehicles and all other possessions that were with those enemies naturally come under the power of the victors. Thus Indra is prayed to give us suitable help in thousands of battles, so that we may conquer our enemies and take all their wealth, and that, at the same time, we may be protected, with no danger to our lives from the enemy.
 
 **"Ugraḥ"** — may be taken in the senses *apradhṛṣya* (unassailable), *ajeya* (unconquerable), *sahisalaśakya* (not to be borne, i.e. irresistible), *parākramī* (valiant), *krūra* (fierce), etc.
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-*(Pages 274–275. Characterized, not transcribed. Points of substance:)*
+*(Pages 274–275. Characterized; numbers as printed.)*
 
 - **वाजे (*vāje*)** — initial-udātta by "vṛṣādīnāṃ ca" (Pā. 6-1-203); *vāja* is to be reckoned among the *vṛṣādi* words because that group is an *ākṛti-gaṇa*.
-- **नो ऽव (*no 'va*)** — *naḥ* is a substitute (*nas*) for *yuṣmān/asmān* in the second-person/first-person plural (Pā. 8-1-20) — the second-case plural of *asmad*; its *s* becomes *ru*, then *u* before the following *a*, then *guṇa* (Pā. 6-1-87) yielding *o*; the *a* of *ava* is absorbed by the *pūrvarūpa* rule (Pā. 6-1-109), the result being written *no 'va*; *pragṛhya* status is blocked because the same sūtra reads *avyapare* ("not when [followed by] *vya*").
-- **अव (*ava*)** — root *av* ("to protect") in the *tiṅ* form is unaccented (Pā. 8-1-28). Although the rik really has two sentences (*indra vājeṣu no 'va* and *sahasrapradhaneṣu ca no 'va*), the verb *ava* supplied in the second sentence is, as a *tiṅanta*, treated as accented only by "ca-vā-yoge prathamā" (Pā. 8-1-59) — the first verb of a pair joined by *ca*, *vā*, *ha*, *aha*, *eva* is accented; the optional deletion of *ca/vā* etc. (Pā. 8-1-62) lets either accented or unaccented stand.
-- **सहस्रप्रधनेषु (*sahasrapradhaneṣu*)** — by "kārdama-ādīnām ca" *(sic; the source cites a Phiṭ-sūtra on "sahasra")* the word *sahasra* takes udātta on the two *ha*-syllables; as a bahuvrīhi it retains the first member's accent (Pā. 6-2-1).
-- **उग्रः (*ugraḥ*)** — from *uc* ("to be pleased, to gather") with the *ran* suffix of the Uṇādi-sūtra (*ṛjrendrāgra-vajra-vipra-kubja-śukla-…*, Uṇ. 2-[?]); *c→g* (*kutva*); final-udātta.
+- **नो ऽव (*no 'va*)** — **बहुवचनस्य वस्नसौ** (पा. सू. ८-१-२१): after a word, not at the start of a pāda, the plural genitive, dative and accusative of "yuṣmad, asmad" become the unaccented "vas, nas"; so "asmān" → "nas"; **ससजुषो रुः** (पा. सू. "९-२-६६" as printed, i.e. 8-2-66) "ru"; **अतो रोरप्लुतादप्लुते** (पा. सू. ६-१-११३) "u"; **आद्गुणः** (पा. सू. ६-१-८७) "no + ava." **प्रकृत्यान्तःपादमव्यपरे** (पा. सू. ६-१-११५) would keep "e, o" unchanged inside a pāda before a short "a," but not before an "a" followed by "v" or "y" ("avyapare"); here the "a" is followed by "v," so **एङः पदान्तादति** (पा. सू. ६-१-१०९) gives the prior form: "no 'va."
+- **अव (*ava*)** — "ava rakṣaṇe," unaccented by **तिङ्ङतिङः** (पा. सू. ८-१-२८). There are two sentences ("indra vājeṣu no 'va" and "sahasrapradhaneṣu ca no 'va"); the "ava" of the first is "first-uttered" with respect to the one supplied in the second, so **चवायोगे प्रथमा** (पा. सू. ८-१-५९) would forbid its nighāta; but **चादिलोपे विभाषा** (पा. सू. ८-१-६३) makes the prohibition optional when "ca, vā, ha, aha, eva" are "lost," that is, not uttered — here no "ca" is uttered in the first sentence — so where the prohibition does not apply the verb is unaccented.
+- **सहस्रप्रधनेषु (*sahasrapradhaneṣu*)** — by **कर्दमादीनां च** (फि. सू. ५९ [?]) the words of this list are acute on the first or the second syllable, so "sahasra" has the acute on "ha": middle-acute; as a bahuvrīhi it retains the first member's accent (Pā. 6-2-1).
+- **उग्रः (*ugraḥ*)** — from *uc* ("to be pleased, to gather") with the *ran* suffix of the Uṇādi-sūtra (**ऋज्रेन्द्राग्रवज्रविप्रकुब्रचुब्रक्षुरखुरभद्रोग्रभेरभेलशुक्रशुक्लगौरवन्नेरमालाः**, उ. सू. २-१८६), which forms these nineteen words with "ran"; "c" → "g" by the nipātana of "ugra"; though the affix is "n"-marked, by vyatyaya end-acute.
 - **ऊतिभिः (*ūtibhiḥ*)** — *ūtiyūtijūti-sātihetikīrtayaś ca* (Pā. 3-3-97): *ūti*, etc., are irregularly formed *ktin* words, final-udātta; and thus *ūti* has the udātta *ktin* suffix.
 
 **॥४॥**
 
 ### Page 275 — Sūkta 7, Rik 5
 
+*(Saṃhitā accents as printed; Pada unaccented. The bar under the last syllable of "havāmahe" stands before "yújam" of the next line.)*
+
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इन्द्रं वयं महाधन इन्द्रमर्भे हवामहे ।
-> युजं वृत्रेषु वज्रिणम् ॥५॥
+> इन्द्रं॑ व॒यं म॑हाध॒न इन्द्र॒मर्भे॑ हवामहे॒ ।
+> युजं॑ वृ॒त्रेषु॑ व॒ज्रिण॑म् ॥५॥
 >
-> *indraṃ vayaṃ mahādhana indram arbhe havāmahe |*
-> *yujaṃ vṛtreṣu vajriṇam ||5||*
+> *índraṃ vayám mahādhaná índram árbhe havāmahe |*
+> *yújaṃ vṛtréṣu vajríṇam ||5||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
