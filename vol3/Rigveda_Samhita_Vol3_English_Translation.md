@@ -5206,55 +5206,97 @@ Since this matter is known by everyone's experience, there is no need to say mor
 
 ---
 
-### Pages 223–226 — Sūkta 23, Rik 21
+### Page 223 — Sūkta 23, Rik 21
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आपः पृणीत भेषजं वरूथं तन्वे मम ।
-> ज्योक् च सूर्यं दृशे ॥ २१ ॥
+> आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॒३॒॑ मम॑ ।
+> ज्योक्च॒ सूर्यं॑ दृ॒शे ॥२१॥
+>
+> *ā́paḥ pṛṇītá bheṣajáṃ várūthaṃ tanvè máma |* [accent ?]
+> *jyok ca sū́ryaṃ dṛśé ||21||*
 
-*āpaḥ pṛṇīta bheṣajaṃ varūthaṃ tanve mama | jyok ca sūryaṃ dṛśe || 21 ||*
+*(Strokes over प (आपः), भे, रू and म (the second of मम); bars under णी, ष (भेषजं) and त (तन्वे); after तन्वे the print has the independent-svarita sign ३ with a stroke above and a bar below, written here ३॒॑. Line 2: a stroke over र्य; bars under च and दृ (from the Pada). The IAST of line 1 is given with the independent svarita as `è` [accent ?].)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> आपः । पृणीत । भेषजम् । वरूथम् । तन्वे । मम ॥ ज्योक् । च । सूर्यम् । दृशे ॥ २१ ॥
-
-*āpaḥ | pṛṇīta | bheṣajam | varūtham | tanve | mama || jyok | ca | sūryam | dṛśe || 21 ||*
+> आपः । पृणीत । भेषजं । वरूथं । तन्वे । मम ॥
+> ज्योक् । च । सूर्यं । दृशे ॥२१॥
+>
+> *āpaḥ | pṛṇīta | bheṣajaṃ | varūthaṃ | tanve | mama ||*
+> *jyok | ca | sūryaṃ | dṛśe ||21||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे आपो मम तन्वे शरीरार्थं वरूथं रोगनिवारकं भेषजमौषधं पृणीत । पूरयत । किंच ज्योक् चिरं सूर्यं दृशे द्रष्टुं निरोगा वयं शक्नुवामेति शेषः ॥ पृणीत । प्रा पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य तस्थस्थमिपामिति तादेशः । क्र्यादिभ्यः श्ना । प्वादीनां ह्रस्वः । ईहल्यघोः । वरूथम् । वृञ् वरणे । ज्वरत्वरस्रिव्यविमवां [ऊठ्] [उ. ३-६ [?]] । नित्त्वादाद्युदात्तः । तन्वे । जातौ [ङे ए?] । दृशे । दृशे विख्ये च (पा. ३-४-११) इति तुमर्थे निपात्यते ॥
+*(Numbers as printed: उ० २-६, पा० १-४-६, ३-४-११. The print has ङिति as ಜಿತಿ, the usual form of ङ in this type.)*
 
-*he āpo mama tanve śarīrārthaṃ varūthaṃ roganivārakaṃ bheṣajam auṣadhaṃ pṛṇīta | pūrayata | kiṃca jyok ciraṃ sūryaṃ dṛśe draṣṭuṃ nirogā vayaṃ śaknuvāmeti śeṣaḥ || pṛṇīta | prā pālanapūraṇayoḥ | loṇ madhyamabahuvacanaṃ tha | tasya tasthasthamipām iti tādeśaḥ | kryādibhyaḥ śnā | pvādīnāṃ hrasvaḥ | īhalyaghoḥ | varūtham | vṛñ varaṇe | jvaratvarasrivyavimavām [ūṭh] [u. 3-6 [?]] | nittvād ādyudāttaḥ | tanve | jātau [ṅe e?] | dṛśe | dṛśe vikhye ca (pā. 3-4-11) iti tumarthe nipātyate ||*
+> हे आपो मम तन्वे शरीरार्थं वरूथं रोगनिवारकं भेषजमौषधं पृणीत । पूरयत । किंच ज्योक् चिरं सूर्यं दृशे द्रष्टुं नीरोगा वयं शक्नुयामेति शेषः ॥ पृणीत । पॄ पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य तस्थस्थमिपामिति तादेशः । क्र्यादिभ्यः श्ना । प्वादीनां ह्रस्व इति ह्रस्वः । ई हल्यघोरितीत्वं । ऋवर्णाच्चेति णत्वं । सतिशिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति तिङः स्वरः शिष्यते । आप इत्यस्यामन्त्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्त्वे पादादित्वान्निघाताभावः । वरूथं । वृञ् वरणे । जॄवृञ्भ्यामूथन् । उ० २-६ । नित्त्वादाद्युदात्तः । तन्वे । ङिति ह्रस्वश्च । पा० १-४-६ । इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः । उदात्तयणो हल्पूर्वादिति विभक्त्युदात्तत्वे प्राप्ते व्यत्ययेनोदात्तस्वरितयोरिति स्वरितत्वं । दृशे । दृशे विख्ये च । पा० ३-४-११ । इति तुमर्थे निपात्यते ॥
+>
+> *he āpo mama tanve śarīrārthaṃ varūthaṃ roganivārakaṃ bheṣajamauṣadhaṃ pṛṇīta | pūrayata | kiṃca jyok ciraṃ sūryaṃ dṛśe draṣṭuṃ nīrogā vayaṃ śaknuyāmeti śeṣaḥ || pṛṇīta | pṝ pālanapūraṇayoḥ | loṇmadhyamabahuvacanaṃ tha | tasya tasthasthamipāmiti tādeśaḥ | kryādibhyaḥ śnā | pvādīnāṃ hrasva iti hrasvaḥ | ī halyaghoritītvaṃ | ṛvarṇācceti ṇatvaṃ | satiśiṣṭasvarabalīyastvamanyatra vikaraṇebhya iti tiṅaḥ svaraḥ śiṣyate | āpa ityasyāmantritaṃ pūrvamavidyamānavadityavidyamānavattve pādāditvānnighātābhāvaḥ | varūthaṃ | vṛñ varaṇe | jṝvṛñbhyāmūthan | u0 2-6 | nittvādādyudāttaḥ | tanve | ṅiti hrasvaśca | pā0 1-4-6 | iti nadīsaṃjñā pākṣikītyāḍāgamābhāvaḥ | udāttayaṇo halpūrvāditi vibhaktyudāttatve prāpte vyatyayenodāttasvaritayoriti svaritatvaṃ | dṛśe | dṛśe vikhye ca | pā0 3-4-11 | iti tumarthe nipātyate ||*
 
-**Translation:** "O Waters! Fill up (*pṛṇīta*) for my body (*tanve*) *varūtham* — a protecting medicine, a remedy that keeps off disease. And may we, being free of disease, be able to see the sun for a long time (*jyok*, long) — this is to be supplied." *(Grammar pages 224–226, noted briefly: the words treated are* pṛṇīta *[*pṝ pālanapūraṇayoḥ*; *loṭ* 2nd plural *tha* → *ta* by P. 3-4-101; *śnā* by P. 3-1-81 *kryādibhyaḥ śnā*; shortening of the root vowel by P. 7-3-80 *pvādīnāṃ hrasvaḥ*; *īt* for *ā* by P. 6-4-113 *īhalyaghoḥ*; the *ṇatva* of the *n* by P. 8-4-1 *raṣābhyāṃ no ṇaḥ*, which makes *pṛṇīta*],* āpaḥ *[vocative plural, with *āmantrita* status; the verb is not lowered since the vocative before it is treated as non-existent, P. 8-1-72; the verb stands at the pāda-beginning; P. 8-1-28 does not apply; the accent of the *śnā* is the *anudātta* of *sārvadhātuka* — the Vedabhāṣya notes the Vedic substitutes P. 7-1-39],* varūtham *[*vṛñ varaṇe* + *ūthan*, Uṇ. 2-[?] *jvaratvarasrivyavimavām upadhāyāś ca* — here the form *varūtha* with *ūṭh*; *nit*, so first-syllable acute],* tanve *[*tanū* + *ṅe*; the *ṅe* → *e* with the Saṃhitā reading *tanve* … *tanvé* with a long *e* [the print shows a numeral 3 after the word to mark the *pluta*/long svarita, *tanve ३*]; the dissolution of *ū* into *v* by P. 6-1-77 *iko yaṇaci*; the accent explained under P. 8-2-4 *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*; the long, scholastic discussion about the feminine nouns ending in *ī* and *ū* (*nadī*-class) taking *ām* / *ṅe* with *vā*, P. 1-4-5 *yū stryākhyau nadī*, P. 1-4-6 *nety aṅ…*, *vāmi* P. 1-4-5/1-4-5, *jāteḥ* — not reproduced],* dṛśe *[*dṛśir prekṣaṇe* + *tumun* in the sense of the infinitive, P. 3-4-11 *dṛśe vikhye ca* — the form is by *nipātana* with the suffix *ke*; *dṛś* is not guṇated; the *ā* of *khyā* lost in *vikhye* by P. 6-4-64 *āto lopa iṭi ca*]; numerals as read, pointers only.)*
+**Translation:** "O *āpaḥ*, waters! *Pṛṇīta*, fill up, *bheṣajam*, medicine, *varūtham*, that wards off disease, *tanve mama*, for my body. And *jyok*, long, may we, free from disease, be able *dṛśe*, to see, *sūryam*, the sun: this is to be supplied." (Grammatical tail: *pṛṇīta*, *pṝ pālanapūraṇayoḥ*, *tha* of *loṭ* second person plural, *ta* for it by *tasthasthamipām…*, *śnā* by *kryādibhyaḥ śnā*, shortening by *pvādīnāṃ hrasvaḥ*, *ī* by *ī halyaghoḥ*, *ṇ* by *ṛvarṇāc ca*; by *satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ* the accent of the *tiṅ* remains; since the vocative *āpaḥ* is treated as not there by *āmantritaṃ pūrvam avidyamānavat*, the word is at the beginning of the *pāda*, so no loss of accent; *varūtham*, *vṛñ varaṇe*, *ūthan* by *jṝvṛñbhyām ūthan* (U. 2-6), initial udātta as *nit*; *tanve*, the *nadī* name by *ṅiti hrasvaś ca* (Pā. 1-4-6) being optional, no augment *āṭ*; the case-ending udātta being due by *udāttayaṇo halpūrvāt*, by *vyatyaya* svarita by *udāttasvaritayoḥ…*; *dṛśe*, given as a set form in the infinitive sense by *dṛśe vikhye ca* (Pā. 3-4-11).)
 
-**॥ Prati-padārthaḥ ॥** **(हे) आपः ((he) āpaḥ)** — O waters, or deities presiding over the waters | **मम (mama)** — my | **तन्वे (tanve)** — for the body | **वरूथम् (varūtham)** — disease-removing | **भेषजम् (bheṣajam)** — medicine | **पृणीत (pṛṇīta)** — fill [make available] | **ज्योक् (jyok)** — for a long time | **सूर्यम् (sūryam)** — the sun | **दृशे (dṛśe)** — [that I may be able] to see.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O waters, or deities presiding over waters! Fill up the best medicine, so that my body may be free from disease; so I may see the sun for long — that is, live long, free of disease.
+**आपः (āpaḥ)** — O waters, or O deities presiding over the waters | **मम (mama)** — my | **तन्वे (tanve)** — for the body | **वरूथं (varūthaṃ)** — that wards off disease | **भेषजं (bheṣajaṃ)** — medicine | **पृणीत (pṛṇīta)** — make full (that is, make the body full, so that it is without disease) | (by doing so I) **सूर्यं (sūryaṃ)** — the sun | **ज्योक् (jyok)** — for a long time | **दृशे (dṛśe)** — will see (will be able to see, that is, will be able to live long).
+
+### Page 224 — Rik 21: overall sense, English, Special Topics, grammar
+
+**॥ Bhāvārthaḥ ॥**
+
+O waters (or O deities presiding over the waters), so that my body may be without disease, make the excellent medicine full (make it ready); then, free from disease, may I see the sun for a long time, that is, may I live long.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Waters, grant me a medicament that shall be an armour to my body that I may long behold the Sun.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 224)* **पृणीत** — *prā pālanapūraṇayoḥ*: 'fill' — the sense is: make my body fit, free from disease and the like, so that it can carry out its tasks in order. **वरूथम्** — *varaṇīyam, roganivārakam*: that which is to be chosen — the preventer of disease. **ज्योक् च सूर्यं दृशे** — 'to see the sun for a long time' means 'to live long'. Some riks in the Ṛgveda express the same idea:
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-> तस्मा अग्निर्भारतः शर्म यंसज्ज्योक्पश्यात्सूर्यमुच्चरन्तम् ॥ (ऋ. सं. [४-२५-४] [?])
-> *tasmā agnir bhārataḥ śarma yaṃsaj jyok paśyāt sūryam uccarantam ||* — "To him may Agni Bhārata give shelter; may he long see the rising sun." *(my gloss, tentative)*
+**पृणीत (pṛṇīta)** — *pṝ pālanapūraṇayoḥ ||* make full: the intention is, make the body without diseases and the like, and able to do its work in order.
 
-> केन क्रत्वा देवोतिभिर्ज्योक् पश्येम सूर्यम् ॥ (ऋ. सं. [८-४-६?] [?])
-> *kena kratvā devotibhir jyok paśyema sūryam ||* — "By what resolve, with the help of the gods, may we long see the sun?" *(my gloss, tentative; the first half-pāda is doubtful)*
+**वरूथं (varūthaṃ)** — *varaṇīyam, roganivārakam ||* to be desired, that is, warding off disease.
 
-> शं नः क्षेत्रमुरु ज्योतींषि सोम ज्योक् सूर्यं दृशये रीरिहीः ॥ (ऋ. सं. [८-६८-६?] [?])
-> *śaṃ naḥ kṣetram uru jyotīṃṣi soma jyok sūryaṃ dṛśaye rīrihīḥ ||* — "[Give] us a good field, wide lights, O Soma; let us long see the sun." *(my gloss, tentative; the last verb is garbled in the print)*
+**ज्योक् च सूर्यं दृशे (jyok ca sūryaṃ dṛśe)** — seeing the sun for a long time, that is, living long. There are some ṛks in the Ṛgveda that suggest this same intention —
 
-> उद्यन्तं त्वा मित्रमहो दिवेदिवे ज्योग्जीवाः प्रति पश्येम सूर्य ॥ (ऋ. सं. [१०-३७-२] [?])
-> *udyantaṃ tvā mitramaho dive-dive jyog jīvāḥ prati paśyema sūrya ||* — "O Sūrya, friend-like, great, may we living long behold you rising, day after day." *(my gloss, tentative)*
+> तस्मा अग्निर्भारतः शर्म यंसज्ज्योक्पश्यात्सूर्यमुच्चरन्तं । (ऋ० सं० ४-२५-४)
+> तव क्रत्वा तवोतिभिर्ज्योक्पश्येम सूर्यं ॥ (ऋ० सं० ९-४-६)
+> शं नः क्षेत्रमुरु ज्योतींषि सोम ज्योङ्नः सूर्यं दृशये रिरीहि ॥ (ऋ० सं० ९-९१-६)
+> उद्यन्तं त्वा मित्रमहो दिवेदिवे ज्योग्जीवाः प्रति पश्येम सूर्य ॥ (ऋ० सं० १०-३७-७)
+> ज्योक्पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति ॥ (ऋ० सं० १०-५९-६)
+>
+> *tasmā agnirbhārataḥ śarma yaṃsajjyokpaśyātsūryamuccarantaṃ | (ṛ0 saṃ0 4-25-4)*
+> *tava kratvā tavotibhirjyokpaśyema sūryaṃ || (ṛ0 saṃ0 9-4-6)*
+> *śaṃ naḥ kṣetramuru jyotīṃṣi soma jyoṅnaḥ sūryaṃ dṛśaye rirīhi || (ṛ0 saṃ0 9-91-6)*
+> *udyantaṃ tvā mitramaho divedive jyogjīvāḥ prati paśyema sūrya || (ṛ0 saṃ0 10-37-7)*
+> *jyokpaśyema sūryamuccarantamanumate mṛḷayā naḥ svasti || (ṛ0 saṃ0 10-59-6)*
 
-> ज्योक् पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति ॥ (ऋ. सं. [१०-५९-६] [?])
-> *jyok paśyema sūryam uccarantam anumate mṛḷayā naḥ svasti ||* — "May we long see the rising sun; O Anumati, make us happy, [give us] well-being." *(my gloss, tentative)*
+*(Glosses of these quotations are not given in the source.)* Besides these, in the Yajurveda too there are many sentences suggesting this intention, such as —
 
-and many such passages in the Yajurveda too, as *paśyema śaradaḥ śatam … jyok ca sūryaṃ dṛśe* and *jyok ca paśyāmi sūryam*.
+> पश्येम शरदः शतं … ज्योक् च सूर्यं दृशे ।
+> ज्योक् च पश्यामि सूर्यं ।
+>
+> *paśyema śaradaḥ śataṃ … jyok ca sūryaṃ dṛśe |*
+> *jyok ca paśyāmi sūryaṃ |*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पृणीत (pṛṇīta)** — the root *pṝ pālanapūraṇayoḥ*. *Loṭ*, second person plural, the suffix *tha*: *pṝ* + *tha*. By *loṭo laṅvat* (Pā. Sū. 3-4-85) [the extension] —
+
+### Page 225 — Rik 21: grammar (continued)
+
+— the operations of *laṅ* come to *loṭ*: so the treatment as *laṅ*. By *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) — for the four suffixes *tas*, *thas*, *tha*, *mip* the substitutes *tām*, *tam*, *ta*, *am* come in order — the substitute *ta* for *tha*: *pṝ* + *ta*. By *kryādibhyaḥ śnā* (Pā. Sū. 3-1-81) — when a *sārvadhātuka* suffix in the agent sense follows, the *vikaraṇa* suffix *śnā* (*nā*) comes after a root of the *kryādi* class — so when *śnā* comes: *pṝ* + *nā* + *ta*. By *pvādīnāṃ hrasvaḥ* (Pā. Sū. 7-3-80) — the roots read in the list of roots beginning with *pūñ pavane* are shortened — the *ṝ* of *pṝ* is shortened to *ṛ*: *pṛ* + *nā* + *ta*. By *ī halyaghoḥ* (Pā. Sū. 6-4-113) — when a consonant-initial *sārvadhātuka* that is *kit* or *ṅit* follows, the *ā* of the suffix *śnā* and the *ā* of a reduplicated stem take the substitute *ī* — when the substitute *ī* comes: *pṛ* + *nī* + *ta*. *Ṛvarṇāc ceti vaktavyam*: this is a paraphrase of the meaning of *raṣābhyāṃ ṇatve ṛkāragrahaṇam* (Pā. Sū. 8-4-1, *vārttika* 1). Its meaning is that *ṇ* is substituted for the *n* after *ṛ*. By this the *n* gets the substitute *ṇ*, and it becomes *pṛṇīta*.
+
+**आपः (āpaḥ)** — this ends in the vocative first case. So by *sāmantritam* (Pā. Sū. 2-3-48) — what ends in the vocative first case gets the name *āmantrita* — it has the name *āmantrita*. So by *āmantritaṃ pūrvam avidyamānavat* (Pā. Sū. 8-1-72) — the preceding *āmantrita* is *avidyamānavat*, that is, as if not there though it is there — the treatment as not there comes. So *pṛṇīta* does not follow a *pada*; it is at the beginning of the *pāda*. So since there is no word not ending in *tiṅ* before the word ending in *tiṅ*, the total lack of accent by *tiṅṅatiṅaḥ* does not come. *Satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ*: in the matter of *vikaraṇas*, though it is *satiśiṣṭa*, that is, comes last, that accent is not stronger: so they say with *anyatra vikaraṇebhyaḥ*. The *ta*, the *tiṅ* suffix, gets the initial udātta by the suffix accent. The others are unaccented by the *śeṣānudātta* accent.
+
+**वरूथम् (varūtham)** — the root *vṛñ varaṇe*. By *jṝvṛñbhyām ūthan* (U. Sū. 2-163 [?], as read) — after the roots *jṝ vayohānau* of the *kryādi* class, *jṝṣ vayohānau* of the *divādi* class, and *vṛñ varaṇe*, the suffix *ūthan* comes — when *ūthan* comes: *vṛ* + *ūtha*. The *ṛ* takes *guṇa*; it becomes *ar*: it becomes *varūtha*. The suffix is *nit*; so by the *nit* accent initial udātta comes.
+
+**तन्वे (tanve)** — the root *tanu vistāre*. By *bhṛmṛśītṛcaritsaritanidhanimimasjibhya uḥ* (U. Sū. 1-7 [?], as read) — after the roots *bhṛñ bharaṇe*, *mṛṅ prāṇatyāge*, *śīṅ svapne*, *tṝ plavanataraṇayoḥ*, *cara gatibhakṣaṇayoḥ*, *tsara chadmagatau*, *tanu vistāre*, *dhana dhānye*, *ḍumiñ prakṣepaṇe*, *ṭumasjo śuddhau*, the suffix *u* comes — so after the root *tan* the suffix *u*: *tan* + *u* = *tanu*, final udātta by the suffix accent. After it the dative case-ending *ṅe*: *tanu* + *e*. *Ṅiti hrasvaś ca* (Pā. Sū. 1-4-6):
+
+### Page 226 — Rik 21: grammar (end)
+
+here, since there is the word *ca*, two sentences result. *Yū stryākhyau nadī* is carried on: *īś ca ūś ca = yū*. Since it is a sūtra, though there is an *ic* vowel after the long vowel, the prohibition of the long like vowel by *dīrghāj jasi ca* (Pā. Sū. 6-1-105) does not come. *Striyam evācakṣāte iti stryākhyau*: those that convey only the feminine, that is, always feminine: this is the meaning. *Neyaṅuvaṅsthānāv astrī* (Pā. Sū. 1-4-4): the whole sūtra except *na* is carried on: *iyaṅuvaṅoḥ sthānaṃ = sthitiḥ yayoḥ tau*: the meaning is, fit to get the substitutes *iyaṅ*, *uvaṅ*. By *vāmi* (Pā. Sū. 1-4-5) *vā* comes; and so when a suffix with the *it*-name *ṅ* follows, words ending in *ī* and *ū*, always feminine, fit to get the substitutes *iyaṅ*, *uvaṅ*, other than the word *strī*, optionally get the name *nadī*: this is the meaning of the first sentence *ṅiti*. *Hrasvaś ca* is the second sentence. Here the words *yū stryākhyau nadī vā ṅiti* are carried on. And so, when a suffix with the *it*-name *ṅ* follows, words ending in short *i* or short *u* optionally get the name *nadī*: this is its meaning. The meaning of the first sentence does not apply here. Though the meaning of the second sentence applies, since it says 'optionally' there, here the word *tanu* does not have the name *nadī*. So by *āṇ nadyāḥ* (Pā. Sū. 7-3-112) the augment *āṭ* does not come; by the *yaṇ* substitute, when *v* comes for the *u*, it becomes *tanve*. Here, since *e* is a *sup*, by *anudāttau suppitau* the unaccented would be due. Overriding it, by *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-174) — *y*, *v*, *l* that have come in place of an udātta letter and are after a consonant: the *nadī*-named letters and the case-endings *śas* and the rest coming after such *y*, *v*, *l* are also udātta — the udātta would be due for the *e* after the *v*. Yet since it is said *vyatyayo bahulam*, here, contrary to this, by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. Sū. 8-2-4) — the unaccented after a *yaṇ* that has come in place of an udātta or svarita becomes svarita — the unaccented *e* becomes svarita. To make this svarita known, the numeral ३ is indicated after it.
+
+**दृशे (dṛśe)** — the root *dṛśir prekṣaṇe*. *Dṛśe vikhye ca* (Pā. Sū. 3-4-11): the meaning is that in the sense of the suffix *tumun*, that is, in the action sense, the two forms *dṛśe* and *vikhye* are given as set forms. Here, after the root *dṛś* and after the root *khyā* preceded by the prefix *vi*, the suffix *ke* is given as a set form in the sense of the suffix *tumun*. *Dṛś* + *e*: the suffix is *kit*, so *dṛś* does not take *guṇa* of the light penultimate. In *vikhyā* + *e*, since the suffix is *kit*, by *āto lopa iṭi ca* (Pā. Sū. 6-4-64) the *ā* is dropped. ॥21॥
 
 ---
 
