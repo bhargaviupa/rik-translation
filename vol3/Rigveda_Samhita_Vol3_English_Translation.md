@@ -10295,37 +10295,43 @@ Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is 
 
 **Saṃhitā-pāṭha** *(p. 506)*
 
-> न्यघ्न्यस्य मूर्धनि चक्रं रथस्य येमथुः ।
-> परि द्यामन्यदीयते ॥ १९ ॥
+*(Line 1 flagged [accent ?]: besides the bar under* न्य *and the stroke over* स्य*, a second stroke stands over* घ्न्य*; it is not entered.)*
 
-> *nyaghnyasya mūrdhani cakraṃ rathasya yemathuḥ |*
-> *pari dyāmanyadīyate ‖ 19 ‖*
+> न्य॒घ्न्य॑स्य मू॒र्धनि॑ च॒क्रं रथ॑स्य येमथुः । [accent ?]
+> प॒रि द्याम॒न्यदी॑यते ॥ १९ ॥
+
+> *nyaghnyasya mūrdháni cakráṃ ráthasya yemathuḥ |* [accent ?]
+> *parí dyāmanyádīyate || 19 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> नि । अघ्न्यस्य । मूर्धनि । चक्रम् । रथस्य । येमथुः ।
-> परि । द्याम् । अन्यत् । ईयते ॥ १९ ॥
+> नि । अघ्न्यस्य । मूर्धनि । चक्रं । रथस्य । येमथुः ।
+> परि । द्यां । अन्यत् । ईयते ॥ १९ ॥
 
-> *ni | aghnyasya | mūrdhani | cakram | rathasya | yemathuḥ |*
-> *pari | dyām | anyat | īyate ‖ 19 ‖*
+> *ni | aghnyasya | mūrdhani | cakraṃ | rathasya | yemathuḥ |*
+> *pari | dyāṃ | anyat | īyate ‖ 19 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 506)*
 
-> हे अश्विनौ युवामघ्न्यस्य हन्तुं विनाशयितुमशक्यस्य दृढस्य पर्वतस्य मूर्धन्युपरि चक्रं भवदीयरथसंबन्धीकं चक्रं नि येमथुः । नियमितवन्तौ । अन्यच्चक्रं परि द्यां द्युलोकस्य परितः ईयते गच्छति ॥ अघ्न्यस्य । अहननमघ्न्यः । घञर्थे कविधानं स्थास्नापाव्यधिहनियुध्यर्थम् । पा. ३-३-५८ [?] इति हन्तेः कप्रत्ययः । अघ्न्यमर्हत्यघ्न्यः । छन्दसि च । पा. ५-१-६७ [?] इति यत्प्रत्ययः । प्रत्ययस्वरेणान्तोदात्तत्वम् । येमथुः । यम उपरमे । कित्ते लिट्यतेः एकहल्मध्ये । पा. ६-४-१२० । इत्येत्वाभ्यासलोपौ ॥
+> हे अश्विनौ युवामघ्न्यस्य हन्तुं विनाशयितुमशक्यस्य दृढस्य पर्वतस्य मूर्धन्युपरि चक्रं भवदीयरथसंबन्ध्येकं चक्रं नि येमथुः । नियमितवन्तौ । अन्यच्चक्रं परि द्यां द्युलोकस्य परित ईयते । गच्छति ॥ अघ्न्यस्य । अहननमघ्नः । घञर्थे कविधानं स्थास्नापाव्यधिहनियुध्यर्थम् । पा. ३-३-५८-४ । इति हन्तेः कप्रत्ययः । अघ्नमर्हत्यघ्न्यः । छन्दसि च । पा. ५-१-६७ । इति यप्रत्ययः । प्रत्ययस्वरेणान्तोदात्तत्वम् । येमथुः । यम उपरमे । कित लिट्यत एकहल्मध्ये । पा. ६-४-१२० । इत्येत्वाभ्यासलोपौ ॥
 
-> *he aśvinau yuvāmaghnyasya hantuṃ vināśayitumaśakyasya dṛḍhasya parvatasya mūrdhanyupari cakraṃ bhavadīyarathasaṃbandhīkaṃ cakraṃ ni yemathuḥ | niyamitavantau | anyaccakraṃ pari dyāṃ dyulokasya paritaḥ īyate gacchati ‖ aghnyasya | ahananamaghnyaḥ | ghañarthe kavidhānaṃ sthāsnāpāvyadhihaniyudhyartham | pā. 3-3-58 [?] iti hanteḥ kapratyayaḥ | aghnyamarhatyaghnyaḥ | chandasi ca | pā. 5-1-67 [?] iti yatpratyayaḥ | pratyayasvareṇāntodāttatvam | yemathuḥ | yama uparame | kitte liṭyateḥ ekahalmadhye | pā. 6-4-120 | ityetvābhyāsalopau ‖*
+> *he aśvinau yuvāmaghnyasya hantuṃ vināśayitumaśakyasya dṛḍhasya parvatasya mūrdhanyupari cakraṃ bhavadīyarathasaṃbandhyekaṃ cakraṃ ni yemathuḥ | niyamitavantau | anyaccakraṃ pari dyāṃ dyulokasya parita īyate | gacchati ‖ aghnyasya | ahananamaghnaḥ | ghañarthe kavidhānaṃ sthāsnāpāvyadhihaniyudhyartham | pā. 3-3-58-4 | iti hanteḥ kapratyayaḥ | aghnamarhatyaghnyaḥ | chandasi ca | pā. 5-1-67 | iti yapratyayaḥ | pratyayasvareṇāntodāttatvam | yemathuḥ | yama uparame | kita liṭyata ekahalmadhye | pā. 6-4-120 | ityetvābhyāsalopau ‖*
 
-*Translation:* "O Aśvins, you have placed (*ni yemathuḥ*) one wheel of your chariot on the summit (*mūrdhani*) of the *aghnya* mountain — firm, that cannot be struck down (*hantum*) or destroyed; the other wheel goes (*īyate*) around heaven (*dyām*)."
+*Translation:* "O Aśvins, you have fixed (*ni yemathuḥ*: fixed) one wheel belonging to your chariot on the summit (*mūrdhani*, above) of the *aghnya* — the firm mountain that cannot be struck, that is, destroyed; the other wheel goes (*īyate*) round heaven (*pari dyām*)." The grammatical tail treats *aghnyasya* ('not striking' = *aghna*; *ka* after *han* in the sense of *ghañ* by the vārttika on Pā. 3-3-58; 'what deserves the *aghna*' = *aghnya*, with *ya* by '*chandasi ca*', Pā. 5-1-67; end-acute by the suffix) and *yemathuḥ* (*yama uparame*; *e* and loss of the reduplicate by Pā. 6-4-120).
 
 **Pratipadārtha** *(p. 506, rendered)* — **दस्रौ** [O Aśvin gods]; **अघ्न्यस्य** of what cannot be destroyed by anyone — a firm mountain; **मूर्धनि** on the upper peak; **रथस्य चक्रम्** one wheel of [your] chariot; **नि येमथुः** you have fixed; **अन्यत्** the other wheel; **परि द्याम्** round heaven; **ईयते** goes.
 
 **Bhāvārtha** *(p. 506)* — O Aśvins! You have fixed one wheel of your chariot on the summit of a mountain that no one can destroy; and the other wheel goes about heaven.
 
+### Page 507 — Sūkta 30, Rik 19 (continued)
+
 **English Translation** *(as printed, p. 507)*
 
 > You have placed one wheel on the summit of the solid mountain, the other goes round the heaven.
 
-**Viśeṣa-viṣayagaḷu** *(p. 507)* — **अघ्न्यस्य** — *hantuṃ vināśayitum aśakyasya dṛḍhasya parvatasya*: of a mountain that cannot be destroyed, firm (the commentator's explanation: a *dṛḍha*, steady mountain); Skandasvāmin explains this word as 'of Prajāpati' or 'of the Sun', because of the rik
+**Viśeṣa-viṣayagaḷu** *(p. 507)* — **अघ्न्यस्य** — *hantuṃ vināśayitum aśakyasya dṛḍhasya parvatasya*: impossible to destroy, that is, of a firm or steady mountain: so the commentator explains; Skandasvāmin explains this word as 'of Prajāpati' or 'of the Sun', because of the rik
 
 > सप्त युञ्जन्ति रथमेकचक्रमेको अश्वो वहति सप्तनामा ।
 
@@ -10333,7 +10339,7 @@ Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is 
 
 *(Ṛg-Saṃhitā 1-164-2, as the source gives it; mine, tentative:)* "Seven yoke the one-wheeled chariot; one horse of seven names draws it" — so that though the Aśvins' chariot has three wheels, one of them is near the Sun. **नि येमथुः** — *yama uparame*: you have fixed. **परि द्याम् अन्यत् ईयते** — another wheel goes round heaven or the atmosphere. Since in many places the Aśvins' chariot is said to have three wheels (Ṛg-Saṃhitā 1-34-9 etc.), the third wheel is not located in this Rik.
 
-**Grammar (pp. 507–508), noted briefly:** *aghnyasya* (*ahananam aghnyaḥ*; *ka* after *han* P. 3-3-58 [?]; *gamahanajana…* P. 6-4-98 drops the penult; *ho hanter ñṇinneṣu* P. 7-3-54; or *yat* P. 5-1-67 [?] after *arhati*; *yasyeti ca* P. 6-4-148); *mūrdhani* (*vibhāṣā ṅiśyoḥ* P. 6-4-136); *yemathuḥ* (*yama uparame*, *liṭ* 2nd dual, *thas* → *athus* P. 3-4-82; *asaṃyogāl liṭ kit* P. 1-2-5; *ata ekahalmadhye 'nādeśāder liṭi* P. 6-4-120 gives *e* and loss of the reduplicate); *īyate* (explained before). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(pp. 507–508, noted briefly)* — *aghnyasya*: '*ahananam aghnaḥ*'; *ka* after *han* in the sense of *ghañ* by '*ghañarthe kavidhānaṃ sthāsnāpāvyadhihaniyudhyartham*' (Pā. sū. 3-3-58-4); as *ka* is *kit*, loss of the penult by '*gamahana-*' (Pā. sū. 6-4-98); *gh* for *h* before *n* by '*ho hanter ñṇinneṣu*' (Pā. sū. 7-3-54); *nañ* compound with *ghna*; in the sense '*aghnam arhati*' *yat* by '*chandasi ca*' (Pā. sū. 5-1-67); loss of *a* before *y* by '*yasyeti ca*' (Pā. sū. 6-4-148); genitive singular; as the suffix is initial-acute, *aghnya* is end-acute. *mūrdhani*: the *a* of *an* in the *bha* stem optionally dropped by '*vibhāṣā ṅiśyoḥ*' (Pā. sū. 6-4-136). *(p. 508)* *yemathuḥ*: *yama uparame*, *bhvādi*, *liṭ* second person dual *thas*; *athus* for it by '*parasmaipadānām*' (Pā. sū. 3-4-82); *kit* by '*asaṃyogāl liṭ kit*' (Pā. sū. 1-2-5); then by '*ata ekahalmadhye*' (Pā. sū. 6-4-120), after the doubling, *e* and loss of the reduplicate; grave after a non-*tiṅ*. *īyate*: explained in the preceding mantra.
 
 ---
 
