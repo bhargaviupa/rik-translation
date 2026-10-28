@@ -8183,13 +8183,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 59.5 (pp. 450–453, PDF 466–469)
 
-**Saṃhitā-pāṭha** *(p. 450)*
+**Saṃhitā-pāṭha** *(p. 450; accents as printed)*
 
-> **दिवश्चित्ते बृहतो जातवेदो वैश्वानर प्र रिरिचे महित्वम् ।**
-> **राजा कृष्टीनामसि मानुषीणां युधा देवेभ्यो वरिवश्चकर्थ ॥ ५ ॥**
+> **दि॒वश्चि॑त्ते बृह॒तो जा॑तवेदो॒ वैश्वा॑नर॒ प्र रि॑रिचे महि॒त्वम् ।**
+> **राजा॑ कृष्टी॒नाम॑सि॒ मानु॑षीणां यु॒धा दे॒वेभ्यो॒ वरि॑वश्चकर्थ ॥ ५ ॥**
 
-*divaś cit te bṛhato jātavedo vaiśvānara pra ririce mahitvam |*
-*rājā kṛṣṭīnām asi mānuṣīṇāṃ yudhā devebhyo varivaś cakartha || 5 ||*
+*diváś cit te bṛható jātavedo vaíśvānara prá ririce mahitvám |*
+*rā́jā kṛṣṭīnā́m asi mā́nuṣīṇāṃ yudhā́ devébhyo várivaś cakartha || 5 ||*
+
+*([accent ?]: the stroke in कृष्टीनामसि stands between ना and म; it is given on म.)*
 
 **Pada-pāṭha** *(p. 451)*
 
@@ -8205,7 +8207,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *he jātavedo jātānāṃ veditar vaiśvānarāgne te tava mahitvaṃ māhātmyaṃ bṛhato mahato divaś cit dyulokād api pra ririce | pravavṛdhe | kiṃca tvaṃ mānuṣīṇāṃ manor jātānāṃ kṛṣṭīnāṃ prajānāṃ rājāsi | adhipatir bhavasi | tathā vari­vo 'surair apahṛtaṃ dhanaṃ yudhā yuddhena devebhyaś cakartha | devādhīnam akārṣīḥ ||*
 
-*(The tail, p. 451: on *ririce* (*ricir virecane*; *upasargavaśāt* the sense "to exceed"), *kṛṣṭīnām*, *mānuṣīṇām* (*śārṅgaravādyañño ṅīn*), *yudhā* (*kvip*), *variva* (*nabviṣayasyānyatarasyām*) — characterized.)*
+*(The tail, pp. 451–452: on *vaiśvānara* (at the head of a pāda: no *nighāta*), *ririce* (*ricir virecane*; by the prefix the opposite sense, "to exceed"), *kṛṣṭīnām* (*nāmanyatarasyām*), *mānuṣīṇām* (*añ*; *śārṅgaravādyañaḥ*: *ṅīn*; *ṅyāś chandasi bahulam*, Pā. 6-1-178: no acute on *nām*), *yudhā* (*saṃpadādi*: *kvip*), *varivaḥ* (a name of wealth; *nabviṣayasya*: initial-acute) — characterized.)*
 
 **Translation of the bhāṣya:** "O *jātavedaḥ*, knower of what is born, Vaiśvānara Agni, your *mahitvam*, greatness, *pra ririce*, exceeds — grows beyond — even *divaḥ bṛhataḥ*, the vast heaven. And you are *rājā*, lord, of *mānuṣīṇām kṛṣṭīnām*, the peoples born of Manu; and *varivaḥ*, the wealth carried off by the Asuras, *yudhā*, by battle, *devebhyaḥ cakartha*, you recovered for the gods — you placed it under the gods' control."
 
@@ -8215,9 +8217,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **English Translation (the source's own, p. 452)** — "Vaiswanara, who knows all that are born, your magnitude has exceeded that of the spacious heaven; you are the monarch of Manu-descended men; you have regained for the gods in battle, the wealth (carried off by the Asuras)."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 452** — **jātavedaḥ**: "*Jātānāṃ veditā*: one who knows all things born; or one who is known by all." **vaiśvānara**: "one who abides in the heart of all men in the form of belly-fire (Agni)." **varivaḥ**: "*asurair apahṛtaṃ dhanam*: Agni is prayed to as having fought and recovered for the gods the wealth carried off by enemies; in the Nirukta (Ni. 3-8 as read [?]) the word *varivas* is read among eight synonyms of wealth beginning with *maghaṃ*, *rekṇaḥ*."
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 452** — **jātavedaḥ**: "*Jātānāṃ veditā*: one who knows all things born; or one who is known by all." **vaiśvānara**: "one who abides in the heart of all men in the form of belly-fire (Agni)." **varivaḥ**: "*asurair apahṛtaṃ dhanam*: Agni is prayed to as having fought and recovered for the gods the wealth carried off by enemies; in the Nirukta (Niru. 3-9) the word *varivas* is read among twenty-eight synonyms of wealth beginning with *maghaṃ*, *rekṇaḥ*."
 
-**Vyākaraṇa-prakriyā** *(pp. 452–453 — noted briefly)* — **vaiśvānara**: as explained in the same sūkta's first mantra; at the head of a pāda: no *nighāta*; *āmantritasya ca*: initial-acute. **ririce**: *ricir virecane*; by the prefix *pra* the sense is reversed to "exceed" (*upasargeṇa dhātvartho balād anyaḥ pratīyate*); *liṭ* third singular; *eś*; doubling; *nighāta*. **kṛṣṭīnām**: *hrasvanadyāpo nuṭ*; *nāmi*: lengthening of the *ī*; *nāmanyatarasyām*: acute of *nām*. **mānuṣīṇām**: *manor jātāv…*: *añ*, so *mānuṣa*; in the feminine *jāter astrīviṣayād ayopadhāt* (Pā. 4-1-63) would give *ṅīṣ*, but by exception *śārṅgaravādyañño ṅīn* (Pā. 4-1-73): *ṅīn*; *ñit*: initial-acute; *nāmanyatarasyām* would give acute on *nām*, but *jyāścandasi bahulam* (Pā. 6-1-… as read [?]): no acute here. **yudhā**: *yudha saṃprahāre*; *saṃpadādibhyaḥ kvip*; instrumental; *sāvekācas tṛtīyādiḥ*. **varivaḥ**: *varivas* means wealth; always neuter; *nabviṣayasyānyatarasyām* (Phiṭ-sūtra 2-… as read [?]): initial-acute. **cakartha**: *ḍukṛñ karaṇe*; *liṭ* second singular; *kradiniyama*: no *iṭ* for *thal* [*iṭ* by the rule not applying]; *nighāta*. **|| 5 ||**
+**Vyākaraṇa-prakriyā** *(pp. 452–453 — noted briefly)* — **vaiśvānara**: as explained in the same sūkta's first mantra; at the head of a pāda: no *nighāta*; *āmantritasya ca* (the one in the sixth adhyāya, as the print says): initial-acute. **ririce**: *ricir virecane*; by the prefix *pra* the sense is reversed to "exceed" (*upasargeṇa dhātvartho balād anyaḥ pratīyate*); *liṭ* third singular; *eś*; doubling; *nighāta*. **kṛṣṭīnām**: *hrasvanadyāpo nuṭ*; *nāmi*: lengthening of the *ī*; *nāmanyatarasyām* (Pā. 6-1-177): acute of *nām*. **mānuṣīṇām**: *manor jātāv…*: *añ*, so *mānuṣa*; in the feminine *jāter astrīviṣayād ayopadhāt* (Pā. 4-1-63) would give *ṅīṣ*, but by exception *śārṅgaravādyañño ṅīn* (Pā. 4-1-73): *ṅīn*; *ñit*: initial-acute; *nāmanyatarasyām* would give acute on *nām*, but *ṅyāś chandasi bahulam* (Pā. 6-1-178): no acute here. **yudhā**: *yudha saṃprahāre*; *saṃpadādibhyaḥ kvip*; instrumental; *sāvekācas tṛtīyādiḥ*. **varivaḥ**: *varivas* means wealth; always neuter; *nabviṣayasya* (Phiṭ-sūtra 26): initial-acute. **cakartha**: *ḍukṛñ karaṇe*; *liṭ* second singular; *kradiniyama*: no *iṭ* for *thal* [*iṭ* by the rule not applying]; *nighāta*. **|| 5 ||**
 
 ---
 
