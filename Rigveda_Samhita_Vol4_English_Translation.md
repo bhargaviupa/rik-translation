@@ -9560,15 +9560,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 45.7 (p. 560 foot, PDF 574–)
+### Rik 45.7 (pp. 560–562, PDF 574–576; better scan PDF 575–577)
 
-**Saṃhitā-pāṭha** *(p. 560; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 560)*
 
-> **नि त्वा होतारमृत्विजं दधिरे वसुवित्तमम् ।**
-> **श्रुत्कर्णं सप्रथस्तमं विप्रा अग्ने दिविष्टिषु ॥ ७ ॥**
+> **नि त्वा॒ होता॑रमृ॒त्वि॑जं दधि॒रे व॑सु॒वित्त॑मम् ।**
+> **श्रुत्क॑र्णं स॒प्रथ॑स्तमं॒ विप्रा॑ अग्ने॒ दिवि॑ष्टिषु ॥ ७ ॥**
 
-*ni tvā hotāram ṛtvijaṃ dadhire vasuvittamam |*
-*śrutkarṇaṃ saprathastamaṃ viprā agne diviṣṭiṣu || 7 ||*
+*ni tvā hótāram ṛtvíjaṃ dadhiré vasuvíttamam |*
+*śrútkarṇaṃ sapráthastamaṃ víprā agne díviṣṭiṣu || 7 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 560)*
 
@@ -9584,15 +9586,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Page 561
+
 **Rik 45.7, continued** *(from p. 561)*
 
 **Sāyaṇa-bhāṣya** *(p. 561)*
 
-> **हे अग्ने विप्रा मेधाविनो दिविष्टिषु योगेषु त्वां नि दधिरे । स्थापितवन्तः । कीदृशं । होतारमाह्वातारं ऋत्विजमृतुषु यजनशीलं वसुवित्तममतिशयेन धनस्य लम्भयितारं श्रुत्कर्णं श्रवणयोग्यकर्णोपेतं सप्रथस्तममतिशयेन प्रख्यातं ॥ दधिरे । इरेच्चित्त्वादन्तोदात्तत्वं । पादादित्वान्निघाताभावः । दिविष्टिषु । इष्टय एषणानि । दिवः स्वर्गस्यैषणानि येषु योगेषु ते दिविष्टयः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनाद्दिव उत् । पा. ६-१-१३१ [?] । इत्युत्त्वं न क्रियते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥**
+> **हे अग्ने विप्रा मेधाविनो दिविष्टिषु योगेषु त्वां नि दधिरे । स्थापितवन्तः । कीदृशं । होतारमाह्वातारं ऋत्विजमृतुषु यजनशीलं वसुवित्तममतिशयेन धनस्य लम्भयितारं श्रुत्कर्णं श्रवणयोग्यकर्णोपेतं सप्रथस्तममतिशयेन प्रख्यातं ॥ दधिरे । इरेच्चित्त्वादन्तोदात्तत्वं । पादादित्वान्निघाताभावः । दिविष्टिषु । इष्टय एषणानि । दिवः स्वर्गस्यैषणानि येषु योगेषु ते दिविष्टयः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनाद्दिव उत् । पा. ६-१-१३१ । इत्युत्त्वं न क्रियते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥**
 
-*he agne viprā medhāvino diviṣṭiṣu yogeṣu tvāṃ ni dadhire | sthāpitavantaḥ | kīdṛśaṃ | hotāram āhvātāraṃ ṛtvijam ṛtuṣu yajanaśīlaṃ vasuvittamam atiśayena dhanasya lambhayitāraṃ śrutkarṇaṃ śravaṇayogyakarṇopetaṃ saprathastamam atiśayena prakhyātaṃ || dadhire | irecchittvād antodāttatvaṃ | pādāditvān nighātābhāvaḥ | diviṣṭiṣu | iṣṭaya eṣaṇāni | divaḥ svargasyaiṣaṇāni yeṣu yogeṣu te diviṣṭayaḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād diva ut | pā. 6-1-131 [?] | ity uttvaṃ na kriyate | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
+*he agne viprā medhāvino diviṣṭiṣu yogeṣu tvāṃ ni dadhire | sthāpitavantaḥ | kīdṛśaṃ | hotāram āhvātāraṃ ṛtvijam ṛtuṣu yajanaśīlaṃ vasuvittamam atiśayena dhanasya lambhayitāraṃ śrutkarṇaṃ śravaṇayogyakarṇopetaṃ saprathastamam atiśayena prakhyātaṃ || dadhire | irecchittvād antodāttatvaṃ | pādāditvān nighātābhāvaḥ | diviṣṭiṣu | iṣṭaya eṣaṇāni | divaḥ svargasyaiṣaṇāni yeṣu yogeṣu te diviṣṭayaḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād diva ut | pā. 6-1-131 | ity uttvaṃ na kriyate | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
 
-**Translation:** "O Agni, the wise sages, *diviṣṭiṣu*, in the sacrifices, *ni dadhire*, have set you down, established you. What kind of one? *Hotāram*, the caller; *ṛtvijam*, one given to worship in the seasons; *vasuvittamam*, one who most of all makes wealth be obtained; *śrutkarṇam*, endowed with ears fit for hearing; *saprathastamam*, most renowned. *Dadhire*: since the ending *ire* is *cit*, the end is acute; being at the head of a *pāda*, the all-unaccented does not come. *Diviṣṭiṣu*: *iṣṭayaḥ* means desires; those sacrifices in which there are desires for heaven (*divaḥ*, of *svarga*) are *diviṣṭayaḥ*; by the saying that all rules are optional in the Chandas, the *u* for *div* (Pā. 6-1-131 [?]) is not made; in the bahuvrīhi the first member keeps its natural accent."
+**Translation:** "O Agni, the wise sages, *diviṣṭiṣu*, in the sacrifices, *ni dadhire*, have set you down, established you. What kind of one? *Hotāram*, the caller; *ṛtvijam*, one given to worship in the seasons; *vasuvittamam*, one who most of all makes wealth be obtained; *śrutkarṇam*, endowed with ears fit for hearing; *saprathastamam*, most renowned. *Dadhire*: since the ending *ire* is *cit*, the end is acute; being at the head of a *pāda*, the all-unaccented does not come. *Diviṣṭiṣu*: *iṣṭayaḥ* means desires; those sacrifices in which there are desires for heaven (*divaḥ*, of *svarga*) are *diviṣṭayaḥ*; by the saying that all rules are optional in the Chandas, the *u* for *div* (Pā. 6-1-131) is not made; in the bahuvrīhi the first member keeps its natural accent."
 
 **Pratipadārtha** *(p. 561)* — "**agne** — O Agni; **viprāḥ** — the discerning (wise); **hotāram** — as one who calls (the deities); **ṛtvijam** — as one who sacrifices properly in the seasons; **vasuvittamam** — as the giver of abundant wealth; **śrutkarṇam** — as one with ears that hear subtly; **saprathastamam** — as one extremely renowned; **tvā** — you; **diviṣṭiṣu** — in the sacrifices; **ni dadhire** — have established."
 
@@ -9606,9 +9610,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **saprathastamam** — "*atiśayena prakhyātam*: very much renowned, greatly famous."
 - **diviṣṭiṣu** — "*iṣṭaya eṣaṇāni; divaḥ svargasyaiṣaṇāni yeṣu yogeṣu te diviṣṭayaḥ*: in the sacrifices that are performed in order to attain heaven."
 
+### Page 562
+
 **Vyākaraṇa-prakriyā** *(p. 562 — grammar page, noted briefly)*
-- **dadhire**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *liṭ*, *jha* as substitute; *liṭas tajhayor eśirec* (Pā. 3-4-81 as read) — लिटस्तझयोरेशिरेच् — in place of *ta* and *jha* of *liṭ*, *eś* and *irec*; hence *irec* for *jha*; doubling; shortening of the reduplicative syllable; *abhyāse carca* (Pā. 8-4-54 as read) — अभ्यासे चर्च — the aspirated and other *jhal* letters in the reduplicative syllable become *car* and *jaś* letters: the *dh* of the reduplicative syllable becomes *d*; *dadhā + ire*; *āto lopa iṭi ca* (Pā. 6-4-64 as read) drops the *ā*: *dadhire*. The ending *ire* is *cit*, hence the end-acute; because it stands at the head of the second *pāda*, the all-unaccented by *tiṅ atiṅaḥ* does not come.
-- **diviṣṭiṣu**: root *iṣa gatau*; *striyāṃ ktin*, the *ṣṭutva*; "*divaḥ iṣṭiḥ eṣaṇaṃ yeṣu yogeṣu te diviṣṭayaḥ*", a bahuvrīhi — those sacrifices in which there is a desire for heaven; *diva ut* (Pā. 6-1-131 as read [?]) — दिव उत् — the final of *div* in the *pada* becomes *u*; though it is obtained, the maxim *sarve vidhayaś chandasi vikalpyante* (paribhāṣā, "63" as read [?]) makes it optional, so it does not come; the first member keeps its natural accent. **|| 7 ||**
+- **dadhire**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *liṭ*, *jha* as substitute; *liṭas tajhayor eśirec* (Pā. 3-4-81) — लिटस्तझयोरेशिरेच् — in place of *ta* and *jha* of *liṭ*, *eś* and *irec*; hence *irec* for *jha*; doubling; shortening of the reduplicative syllable; *abhyāse carca* (Pā. 8-4-54) — अभ्यासे चर्च — the aspirated and other *jhal* letters in the reduplicative syllable become *car* and *jaś* letters: the *dh* of the reduplicative syllable becomes *d*; *dadhā + ire*; *āto lopa iṭi ca* (no number printed) drops the *ā*: *dadhire*. The ending *ire* is *cit*, hence the end-acute; because it stands at the head of the second *pāda*, the all-unaccented by *tiṅ atiṅaḥ* does not come.
+- **diviṣṭiṣu**: root *iṣa gatau*; *striyāṃ ktin*, the *ṣṭutva*; "*divaḥ iṣṭiḥ eṣaṇaṃ yeṣu yogeṣu te diviṣṭayaḥ*", a bahuvrīhi — those sacrifices in which there is a desire for heaven; *diva ut* (Pā. 6-1-131) — दिव उत् — the final of *div* in the *pada* becomes *u*; though it is obtained, the maxim *sarve vidhayaś chandasi vikalpyante* (printed "paribhā[ṣā] 35") makes it optional, so it does not come; the first member keeps its natural accent. **|| 7 ||**
 
 ---
 
