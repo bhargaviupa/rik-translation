@@ -7183,15 +7183,15 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 57.3 (pp. 399–402, PDF 415–418)
 
-**Saṃhitā-pāṭha** *(p. 399)*
+**Saṃhitā-pāṭha** *(p. 399; accents as printed)*
 
-> **अस्मा इदु भीमाय नमसा समध्वर उषो न शुभ्र आ भरा पनीयसे ।**
-> **यस्य धाम श्रवसे नामेन्द्रियं ज्योतिरकारि हरितो नायसे ॥ ३ ॥**
+> **अ॒स्मै भी॒माय॒ नम॑सा॒ सम॑ध्वर उषो॒ न शु॑भ्र आ भ॑र॒ पनी॑यसे ।**
+> **यस्य धाम॒ श्रव॑से॒ नामे॑न्द्रि॒यं ज्योति॒रका॑रि ह॒रितो॒ नायसे ॥ ३ ॥**
 
-*asmā id u bhīmāya namasā samadhvara uṣo na śubhra ā bharā panīyase |*
-*yasya dhāma śravase nāmendriyaṃ jyotir akāri harito nāyase || 3 ||*
+*asmái bhīmā́ya námasā sám adhvara uṣo ná śúbhra ā́ bhara pánīyase |*
+*yásya dhā́ma śrávase nā́mendriyáṃ jyótir ákāri haríto nāyase || 3 ||*
 
-*(The print's first pāda reads "अस्मै" in the Pada and "अस्मा इदु" in the Saṃhitā; I follow each as printed. The Saṃhitā's last word "नायसे" is *na ayase* of the Pada.)*
+*(The better scan prints the first pāda as "ಅಸ್ಮೈ ಭೀಮಾಯ … ಆ ಭರ" — अस्मै, without इदु, and भर, not भरा — in the Saṃhitā as in the Pada; the earlier text "अस्मा इदु … भरा" is withdrawn. [accent ?]: a short dash under ಶು/ಭ್ರ of शुभ्र is not placed with certainty; a stroke stands over ನಾ of नायसे where the print's system needs none, so नायसे is left unmarked. "नायसे" is *na ayase* of the Pada.)*
 
 **Pada-pāṭha** *(p. 399)*
 
@@ -7203,13 +7203,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 400)*
 
-> **हे उषः उषोदेवते शुभ्रे शोभने त्वं भीमाय शत्रूणां भयंकराय पनीयसे अतिशयेन स्तोतव्यायास्मा इन्द्रायाध्वरे हिंसारहितेऽस्मिन्याग इति शेषः । न इति संप्रत्यर्थे । तथा च यास्कः । अस्तु कृमार्थस्य संप्रत्यर्थे प्रयोगे इहेव निधेहि । नि. २-६० । इति । संप्रतीदानीं नमसा नमो हविर्लक्षणमन्नं सम् आ भर । सम्यक् संपादय । धाम सर्वस्य धारकं नाम स्तोतृषु नमनशीलं प्रसिद्धं वेन्द्रियमिन्द्रस्य परमैश्वर्यस्य लिङ्गं यस्येन्द्रस्यैवंविधं ज्योतिः श्रवसेऽन्नाय हविर्लक्षणान्नलाभार्थमयसे इति सः कः गमनायाकारि । क्रियते । हरितो न । यथाश्वानादिनः स्वाभिलषितदेशं गमयन्ति तद्वदिन्द्रोऽपि स्वाभिमतहविर्लाभाय स्वकीयं तेजो गमयतीति भावः ॥**
+> **हे उष उषोदेवते शुभ्रे शोभने त्वं भीमाय शत्रूणां भयंकराय पनीयसे अतिशयेन स्तोतव्यायास्मा इन्द्रायाध्वरे हिंसारहितेऽस्मिन्यागे । नेति संप्रत्यर्थे । तथा च यास्कः । अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोग इहेव निधेहि । नि. ७-३१ । इति । संप्रतीदानीं नमसा नमो हविर्लक्षणमन्नं सम् आ भर । सम्यक् संपादय । धाम सर्वस्य धारकं नाम स्तोतृषु नमनशीलं प्रसिद्धं वेन्द्रियमिन्द्रत्वस्य परमैश्वर्यस्य लिङ्गं यस्येन्द्रस्यैवंविधं ज्योतिः श्रवसेऽन्नाय हविर्लक्षणान्नलाभार्थमयस इतिस्ततो गमनायाकारि । क्रियते । हरितो न । यथाश्वान्सादिनः स्वाभिलषितदेशं गमयन्ति तद्वदिन्द्रोऽपि स्वाभिमतहविर्लाभाय स्वकीयं तेजो गमयतीति भावः ॥**
 
-*he uṣaḥ uṣodevate śubhre śobhane tvaṃ bhīmāya śatrūṇāṃ bhayaṃkarāya panīyase atiśayena stotavyāyāsmā indrāyādhvare hiṃsārahite 'smin yāga iti śeṣaḥ | na iti saṃpratyarthe | tathā ca yāskaḥ | astu kṛmārthasya saṃpratyarthe prayoge iheva nidhehi | ni. 2-60 [?] | iti | saṃpratīdānīṃ namasā namo havirlakṣaṇam annaṃ sam ā bhara | samyak saṃpādaya | dhāma sarvasya dhārakaṃ nāma stotṛṣu namanaśīlaṃ prasiddhaṃ vendriyam indrasya paramaiśvaryasya liṅgaṃ yasyendrasyaivaṃvidhaṃ jyotiḥ śravase 'nnāya havirlakṣaṇānnalābhārtham ayase [?] gamanāyākāri | kriyate | harito na | yathāśvānādinaḥ svābhilaṣitadeśaṃ gamayanti tadvad indro 'pi svābhimatahavirlābhāya svakīyaṃ tejo gamayatīti bhāvaḥ ||*
+*he uṣa uṣodevate śubhre śobhane tvaṃ bhīmāya śatrūṇāṃ bhayaṃkarāya panīyase atiśayena stotavyāyāsmā indrāyādhvare hiṃsārahite 'smin yāge | neti saṃpratyarthe | tathā ca yāskaḥ | asty upamārthasya saṃpratyarthe prayoga iheva nidhehi | ni. 7-31 | iti | saṃpratīdānīṃ namasā namo havirlakṣaṇam annaṃ sam ā bhara | samyak saṃpādaya | dhāma sarvasya dhārakaṃ nāma stotṛṣu namanaśīlaṃ prasiddhaṃ vendriyam indratvasya paramaiśvaryasya liṅgaṃ yasyendrasyaivaṃvidhaṃ jyotiḥ śravase 'nnāya havirlakṣaṇānnalābhārtham ayasa itistato gamanāyākāri | kriyate | harito na | yathāśvān sādinaḥ svābhilaṣitadeśaṃ gamayanti tadvad indro 'pi svābhimatahavirlābhāya svakīyaṃ tejo gamayatīti bhāvaḥ ||*
 
-*(The Nirukta quotation "*asta kṛmārthasya*" is as read, crowded, [?]; the numeral "2-60" is likewise [?]. Tail, pp. 400: on* uṣaḥ *(vocative, *āmantritasya ca*; the loss of *nighāta* at the start of a pāda),* śubhre *(*śubha dīptau*, Uṇādi *rak*, *spāyitañcivañcy…*: *rak*),* bhara *(*hṛgrahor bhaś chandasi*; *dvyacas tiṅaḥ*: lengthening in the Saṃhitā),* panīyase *(*pana vyavahāre stutau ca*, *asun*; *īyasun*; *ṭeḥ*),* indriyam*,* akāri *(*luṅ*, *ciṇ* by *cinbhāvakarmaṇoḥ*; *ciṇo luk*),* ayase *(*aya gatau*, *asun*)).)*
+*(The Nirukta quotation is broken in the print of p. 400 ("ಅಸ್ತು ೃಪಮಾ…"); "*asty upamārthasya*" is read from its clearer printing on p. 401. Ni. 7-31 as printed (flat-footed 7). "*itistato*" as printed, for *itas tato*. Tail, p. 400: on* uṣaḥ *(vocative, *āmantritasya ca*; the loss of *nighāta* at the start of a pāda),* śubhre *(*śubha dīptau*, Uṇādi *rak*, *spāyitañcivañcy…*: *rak*),* bhara *(*hṛgrahor bhaś chandasi*; *dvyacas tiṅaḥ*: lengthening in the Saṃhitā),* panīyase *(*pana vyavahāre stutau ca*, *asun*; *īyasun*; *ṭeḥ*),* indriyam*,* akāri *(*luṅ*, *ciṇ* by *cinbhāvakarmaṇoḥ*; *ciṇo luk*),* ayase *(*aya gatau*, *asun*)).)*
 
-**Translation of the bhāṣya:** "O Uṣas, goddess Uṣas, *śubhre*, beautiful one, you *sam ā bhara*, bring well, *namasā*, the food in the form of an oblation, *asmai bhīmāya*, for this Indra who is terrible to enemies, *panīyase*, most praiseworthy — *adhvare*, in this sacrifice free of harm. *Na* here has the sense of 'now' (*saṃprati*): so Yāska [says] 'in the sense of *saṃprati* put it in the place here' (Ni. 2-60 [?]) — *uṣo na*, 'O Uṣas, now'. *Yasya*, whose [Indra's] *dhāma*, the sustainer of all, *nāma*, renowned, bowing before the praisers, *indriyam*, the mark of the supreme lordship, *jyotiḥ*, radiance, *śravase*, to win food in the form of the oblation, *ayase*, in order to go, *akāri*, is made to go — *harito na*, as charioteers make horses go to the place they desire, so Indra too sends his own splendour to obtain the oblation he wants."
+**Translation of the bhāṣya:** "O Uṣas, goddess Uṣas, *śubhre*, beautiful one, you *sam ā bhara*, bring well, *namasā*, the food in the form of an oblation, *asmai bhīmāya*, for this Indra who is terrible to enemies, *panīyase*, most praiseworthy — *adhvare*, in this sacrifice free of harm. *Na* here has the sense of 'now' (*saṃprati*): so Yāska, '[*na*] which has the sense of comparison, in its use in the sense of *saṃprati*: "put it down here"' (Ni. 7-31) — *uṣo na*, 'O Uṣas, now'. *Yasya*, whose [Indra's] *dhāma*, the sustainer of all, *nāma*, renowned, bowing before the praisers, *indriyam*, the mark of Indra-hood, the supreme lordship, *jyotiḥ*, radiance, *śravase*, to win food in the form of the oblation, *ayase*, in order to go hither and thither, *akāri*, is made to go — *harito na*, as riders make horses go to the place they desire, so Indra too sends his own splendour to obtain the oblation he wants."
 
 **Pratipadārtha** *(p. 400)* — "**śubhre** — O pure; **uṣaḥ** — O goddess Uṣas; **bhīmāya** — to the terrible (to enemies); **panīyase** — to the most praiseworthy; **asmai** — to this Indra; **adhvare** — in this harmless sacrifice; **na** — now; **namasā** — with the food in the form of oblation; **sam ā bhara** — well supply; **yasya** — of which Indra; **dhāma** — the sustainer of all; **nāma** — renowned; **indriyam** — the mark of Indra's unique character; **jyotiḥ** — radiance; **śravase** — for the food in the form of the oblation; **harito na** — as a charioteer drives the horses to his desired place; **ayase** — for going to various places; **akāri** — is made to go."
 
@@ -7218,24 +7218,24 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 401)** — "Beautiful Ushas, now present the oblation in this rite to the formidable, praise-deserving Indra, whose all-sustaining, celebrated and characteristic radiance has impelled him hither and thither, (in quest) of (sacrificial) food, as a charioteer drives his horses (in various directions)." *(Printed "Transation" [sic].)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 401**
-- **uṣaḥ** — "This is the name of a deity named Uṣas. In the Nirukta (Ni. 3-… as read [?]) sixteen synonyms are given for Uṣas. The Nirukta, explaining the word *uṣas* as '*rātrer iva hyaparaḥ kālaḥ uṣā āpyo bhavatīti rātrīṇām abhy uttarāṇi uṣonāmāni*', clarifies the meaning of the word *uṣas* in the mantra '*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāyaivā rātry uṣase yonim āraik*' (Ṛ. Saṃ. 1-113-1 as read [?])"; *(I give the mantra, as printed, in three layers:)*
+- **uṣaḥ** — "This is the name of a deity named Uṣas. In the Nirukta (Ni. 3-19) sixteen synonyms are given for Uṣas. The Nirukta, explaining the word *uṣas* as 'रात्रेरेव ह्यपरः कालः उष आप्यो भवतीति रात्रिनामभ्य उत्तराणि उषोनामानि (*rātrer eva hy aparaḥ kālaḥ uṣa āpyo bhavatīti rātrināmabhya uttarāṇi uṣonāmāni*)', clarifies the meaning of the word *uṣas* in the mantra '*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik*'" *(no reference number is printed for the mantra)*; *(I give the mantra, as printed, in three layers:)*
 
-  > **इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥**
+  > **इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुस्सवाय एवा रात्र्युषसे योनिमारैक् ॥**
 
-  *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāyaṃ evā rātry uṣase yonim āraik ||* — mine and tentative: "This best of lights has come, the bright, wide-shining sign has been born; as one impelled by Savitṛ for his urging, so Night has yielded her womb to Uṣas." *(The print's last words "savāyaivā rātry" are crowded, [?].)* "In sum, the time of the latter half of the night is *uṣaḥ-kāla*, and the deity that presides over that time is Uṣas."
+  *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik ||* — mine and tentative: "This best of lights has come, the bright, wide-shining sign has been born; as one impelled by Savitṛ for his urging, so Night has yielded her womb to Uṣas." "In sum, the time of the latter half of the night is *uṣaḥ-kāla*, and the deity that presides over that time is Uṣas."
 - **panīyase** — "To the root *pan*, the sense of praise, the suffix added after it in the sense of 'excess': one who is most worthy of praise."
-- **na** — "The word *na* here means *saṃprati*, 'now' — the Nirukta (Ni. 2-… as read [?]) '*astu kṛmārthasya saṃpratyarthe prayoge iheva nidhehi*' establishes *na* as *ivārtha* and *saṃpratyartha*."
+- **na** — "The word *na* here means *saṃprati*, 'now' — the Nirukta (Niru. 7-31) 'अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोग इहेव निधेहि (*asty upamārthasya saṃpratyarthe prayoga iheva nidhehi*)' establishes *na* as *ivārtha* and *saṃpratyartha*."
 - **indriyam** — "*Indrasya paramaiśvaryasya liṅgam*: it means the radiance of Indra — the radiance that displays the supreme sovereignty in Indra. Indra receives the share of the sacrifice, rich in oblation, through that radiance."
 - **harito na** — "Here the sense is 'like horses': as riders drive their horses to the place they wish, Indra sends his radiance there to receive the share of the oblation."
 
 **Vyākaraṇa-prakriyā** *(pp. 401–402 — grammar pages, noted briefly)*
-- **asmai**: dative of *idam*; *ūḍidam…*: ending acute.
-- **uṣaḥ**: vocative, at the head of the pāda: no *nighāta*; *āmantritasya ca*: initial-acute.
-- **śubhre**: *śubha dīptau*; *spāyitañcivañcy…* (Uṇ. 2-… as read [?]): *rak*; *kit*: no *guṇa*; feminine *ṭāp*; vocative.
-- **bhara**: *hṛ haraṇe*; *loṭ* second singular; *hi* for *sip*; *ato heḥ*: loss; *śap*; *hṛgrahor bhaś chandasi*: *bh*; *dvyaco 'tas tiṅaḥ*: lengthening in the Saṃhitā: *bharā*.
+- **asmai**: dative of *idam*; *ūḍidam…* (Pā. 6-1-171): ending acute.
+- **uṣaḥ**: vocative, at the head of the pāda: no *nighāta*; *āmantritasya ca* (Pā. 6-1-198): initial-acute.
+- **śubhre**: *śubha dīptau*; *spāyitañcivañcy…* (Uṇ. 2-170, as printed): *rak*; *kit*: no *guṇa*; feminine *ṭāp*; vocative; *āmantritasya ca* (Pā. 8-1-19): *nighāta*.
+- **bhara**: *hṛ haraṇe*; *loṭ* second singular; *hi* for *sip*; *ato heḥ*: loss; *śap*; *hṛgrahor bhaś chandasi*: *bh*; *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135): lengthening in the Saṃhitā (*bharā*; the Saṃhitā of this print has *bhara*).
 - **panīyase**: *pana vyavahāre stutau ca*; *uṇādayo bahulam*: *asun*: *panas*; in the sense of excess, *dvivacanavibhajyopapade tarabīyasunau*: *īyasun*; *ṭeḥ* drops *as*: *panīyas*; *nit*: initial-acute; dative.
 - **indriyam**: *indriyam indraliṅgam* (Pā. 5-2-93): *gha* (*ghac*) by *nipāta*; *citaḥ*: end-acute.
-- **akāri**: *ḍukṛñ karaṇe*; Vedic *luṅ*; *cinbhāvakarmaṇoḥ*: *ciṇ*; *ciṇo luk*: loss of *ta*; *ṇit*: *vṛddhi*; *aṭ*; no *nighāta* (*yasya* before).
+- **akāri**: *ḍukṛñ karaṇe*; Vedic *luṅ*; *cinbhāvakarmaṇoḥ* (Pā. 3-1-66): *ciṇ*; *ciṇo luk*: loss of *ta*; *ṇit*: *vṛddhi*; *aṭ*; no *nighāta* (*yasya* before).
 - **ayase**: *aya gatau*; *sarvadhātubhyo 'sun*: *asun*: *ayas*; *nit*: initial-acute; dative. **|| 3 ||**
 
 ---
