@@ -7946,38 +7946,75 @@ That sūtra operates only in a bahuvrīhi; this is a tatpuruṣa, so the accent 
 
 ---
 
-### Pages 325–327 — Sūkta 25, Rik 13
+### Page 325 — Sūkta 25, Rik 13
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> बिभ्रद्द्रापिं हिरण्ययं वरुणो वस्त निर्णिजम् ।
-> परि स्पशो नि षेदिरे ॥ १३ ॥
+> बिभ्र॑द्द्रा॒पिं हि॑र॒ण्ययं॒ वरु॑णो वस्त नि॒र्णिजं॑ ।
+> परि॒ स्पशो॒ नि षे॑दिरे ॥१३॥
+>
+> *bíbhraddrāpíṃ hiraṇyáyaṃ váruṇo vasta nirṇíjaṃ |*
+> *pari spáśo ní ṣedire ||13||*
 
-*bibhrad drāpiṃ hiraṇyayaṃ varuṇo vasta nirṇijam | pari spaśo ni ṣedire || 13 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. In* हिरण्ययं *the bar stands under* र *and a second bar under* यं*, as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> बिभ्रत् । द्रापिम् । हिरण्ययम् । वरुणः । वस्त । निःऽनिजम् ॥ परि । स्पशः । नि । सेदिरे ॥ १३ ॥
+> बिभ्रत् । द्रापिं । हिरण्ययं । वरुणः । वस्त । निःऽनिजं । परि । स्पशः । नि । सेदिरे ॥१३॥
 
-*bibhrat | drāpim | hiraṇyayam | varuṇaḥ | vasta | niḥ-nijam || pari | spaśaḥ | ni | sedire || 13 ||*
+> *bibhrat | drāpiṃ | hiraṇyayaṃ | varuṇaḥ | vasta | niḥ-nijaṃ | pari | spaśaḥ | ni | sedire ‖13‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 325)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> हिरण्ययं सुवर्णमयं द्रापिं कवचं बिभ्रद्धारयन्वरुणो निर्णिजं पुष्टस्वशरीरं वस्त्र । आच्छादयति । स्पशो हिरण्यस्पर्शिनो रश्मयः परि षेदिरे । सर्वतो निषण्णाः ॥ बिभ्रत् । बिभर्तेः शतरि नाभ्यस्ताच्छतुः । पा. ७-१-७८ । इति नुमभावः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् । द्रापिम् । द्रा कुत्सायां गतौ । द्रापयतीषूनां कुत्सितां गतिं प्रापयतीति द्रापिः । आर्तिह्रीव्ली-रीक्नूयी । पा. ७-३-३६ । इत्यादिना पुगागमः । णौ णादिक इप्रत्यये णिलोपः । हिरण्ययम् । तस्य विकार इत्यर्थे मयट् । ऋत्व्यवास्त्व्य…माध्वीहिरण्यानि छन्दसि । पा. ६-४-१७५ । इति हिरण्यशब्द्विकारार्थे विहितस्य मयटो मशब्दलोपो निपातितः । वस्त । वस आच्छादने । लघ्वादित्वाद्र्चेर्लुक् । पूर्ववदडभावः । निर्णिजम् । णिजिर् शौचपोषणयोः । स्पशः । स्पश बाधनस्पर्शनयोः । क्विप् च । पा. ३-२-७६ । क्विप् । नि सेदिरे । षद्ऌ विशरणगत्यवसादनेषु । अस्माद्गत्यर्थात्कर्मणि लिटि । एत्वाभ्यासलोपौ । सदिरप्रतेः । पा. ८-३-६६ । इति षत्वम् ॥
+> हिरण्ययं सुवर्णमयं द्रापिं कवचं बिभ्रद्धारयन्वरुणो निर्णिजं पुष्टं स्वशरीरं वस्त । आच्छादयति । स्पशो हिरण्यस्पर्शिनो रश्मयः परि नि षेदिरे । सर्वतो निषण्णाः ॥ बिभ्रत् । बिभर्तेः शतरि नाभ्यस्ताच्छतुः । पा. ७-१-७८ । इति नुमभावः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । द्रापिं । द्रा कुत्सायां गतौ । द्रापयतीषून्कुत्सितां गतिं प्रापयतीति द्रापिः कवचं । अर्तिह्रीत्यादिना । पा. ७-३-३६ । पुगागमः । औणादिक इप्रत्यये णिलोपः । हिरण्ययं । ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि छंदसि । पा. ६-४-१७५ । इति हिरण्यशब्दाद्विकारार्थे विहितस्य मयटो मशब्दलोपो निपातितः । वस्त । वस आच्छादने । लङ्यदादित्वाच्छपो लुक् । पूर्ववदडभावः । निर्णिजं । णिजिर् शौचपोषणयोः । स्पशः । स्पश बाधनस्पर्शनयोः । क्विप्चेति क्विप् । नि षेदिरे । षद्लृ विशरणगत्यवसादनेषु । अस्माद्गत्यर्थात्कर्मणि लिट्येत्वाभ्यासलोपौ । सदेरप्रतेरिति षत्वं ॥
 
-*hiraṇyayaṃ suvarṇamayaṃ drāpiṃ kavacaṃ bibhrad dhārayan varuṇo nirṇijaṃ puṣṭasvaśarīraṃ vasta | ācchādayati | spaśo hiraṇyasparśino raśmayaḥ pari ṣedire | sarvato niṣaṇṇāḥ || bibhrat | bibharteḥ śatari nābhyastācchatuḥ | pā. 7-1-78 | iti numabhāvaḥ | abhyastānām ādir ity ādyudāttatvam | drāpim | drā kutsāyāṃ gatau | drāpayatīṣūnāṃ kutsitāṃ gatiṃ prāpayatīti drāpiḥ | ārtihrīvlī-rīknūyī | pā. 7-3-36 | ity ādinā pugāgamaḥ | ṇau ṇādika ipratyaye ṇilopaḥ | hiraṇyayam | tasya vikāra ity arthe mayaṭ | ṛtvyavāstvya… mādhvīhiraṇyāni chandasi | pā. 6-4-175 | iti hiraṇyaśabdavikārārthe vihitasya mayaṭo maśabdalopo nipātitaḥ | vasta | vasa ācchādane | laghvāditvād rcer luk | pūrvavad aḍabhāvaḥ | nirṇijam | ṇijir śaucapoṣaṇayoḥ | spaśaḥ | spaśa bādhanasparśanayoḥ | kvip ca | pā. 3-2-76 | kvip | ni sedire | ṣadḷ viśaraṇagatyavasādaneṣu | asmād gatyarthāt karmaṇi liṭi | etvābhyāsalopau | sadir aprateḥ | pā. 8-3-66 | iti ṣatvam ||*
+> *hiraṇyayaṃ suvarṇamayaṃ drāpiṃ kavacaṃ bibhraddhārayanvaruṇo nirṇijaṃ puṣṭaṃ svaśarīraṃ vasta | ācchādayati | spaśo hiraṇyasparśino raśmayaḥ pari ni ṣedire | sarvato niṣaṇṇāḥ ‖ bibhrat | bibharteḥ śatari nābhyastācchatuḥ | pā. 7-1-78 | iti numabhāvaḥ | abhyastānāmādirityādyudāttatvaṃ | drāpiṃ | drā kutsāyāṃ gatau | drāpayatīṣūnkutsitāṃ gatiṃ prāpayatīti drāpiḥ kavacaṃ | artihrītyādinā | pā. 7-3-36 | pugāgamaḥ | auṇādika ipratyaye ṇilopaḥ | hiraṇyayaṃ | ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chaṃdasi | pā. 6-4-175 | iti hiraṇyaśabdādvikārārthe vihitasya mayaṭo maśabdalopo nipātitaḥ | vasta | vasa ācchādane | laṅyadāditvācchapo luk | pūrvavadaḍabhāvaḥ | nirṇijaṃ | ṇijir śaucapoṣaṇayoḥ | spaśaḥ | spaśa bādhanasparśanayoḥ | kvipceti kvip | ni ṣedire | ṣadlṛ viśaraṇagatyavasādaneṣu | asmādgatyarthātkarmaṇi liṭyetvābhyāsalopau | saderaprateriti ṣatvaṃ ‖*
 
-**Translation:** "Varuṇa, wearing (*bibhrat*) a golden (*hiraṇyayam*) *drāpi* — a coat of mail — clothed (*vasta*) in his *nirṇij* — his well-nourished body [or, bright garment]; the *spaśaḥ* — the rays touching the gold — spread (*pari ni ṣedire*) all round; seated on every side. *Bibhrat*: *śatṛ* of *bhṛ*; *num* is not added by P. 7-1-78 [*nābhyastācchatuḥ*]; first-syllable acute by *abhyastānām ādiḥ*. *Drāpim*: *drā kutsāyāṃ gatau* ['to go badly']; '[a thing] which makes the arrows go badly' = *drāpi* — armour; *puk* by P. 7-3-36 [*arti-hrī-vlī-rī-knūyī-kṣmāyy-ātāṃ puṅ ṇau*]; the *ṇic* is lost when *i* is added. *Hiraṇyayam*: *mayaṭ* in the sense of 'a modification of that'; by P. 6-4-175 [*ṛtvyavāstvyavāstvamādhvī hiraṇyayāni chandasi*] the loss of *m* of *mayaṭ* is by *nipātana*. *Vasta*: *vasa ācchādane* ['to clothe']; *luk* of *cli*; no *aṭ* as before. *Nirṇijam*: *ṇijir śaucapoṣaṇayoḥ* ['to cleanse, to nourish']. *Spaśaḥ*: *spaśa bādhanasparśanayoḥ* with *kvip* by P. 3-2-76. *Ni ṣedire*: *ṣadḷ viśaraṇagatyavasādaneṣu*, with the sense of 'to go'; *liṭ* in the passive; *e*, loss of the reduplicate; P. 8-3-66 *ṣatva*." *(Grammar pages 326–327, noted briefly: the words treated are* bibhrat *[*ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *śatṛ*; *ślu* and doubling; *i* for the reduplicate's *a* by P. 7-4-76 *bhṛñām it*; *num* not added since the stem is *abhyasta* — P. 7-1-78 *nābhyastācchatuḥ*; the initial acute by P. 6-1-189],* drāpim *[*drā kutsāyāṃ gatau*, *adādi*; *drāpayati iṣūṇāṃ kutsitāṃ gatiṃ prāpayati* — 'it makes the arrows' course futile', hence the name of armour; with *ṇic* and *puk* by P. 7-3-36; *i* by Uṇādi, loss of *ṇic* by P. 6-4-51 *ṇer aniṭi*],* hiraṇyayam *[*hiraṇya* + *mayaṭ* in the sense of 'its modification' P. 4-3-82; in the Veda *m* of *mayaṭ* is lost by *nipātana* in P. 6-4-175],* vasta *[*vasa ācchādane* in the *ātmanepada*; *luṅ*/*laṅ*/*liṭ* in the Veda by P. 3-4-6; 3rd singular *ta*; *śap* lost, no *aṭ*],* nirṇijam *[*ṇijir śaucapoṣaṇayoḥ*, *juhotyādi*],* spaśaḥ *[*spaśa bādhanasparśanayoḥ* + *kvip* by P. 3-2-76 *kvip ca*; the nominative plural with all the letters lost] and* ni ṣedire *[*ṣad* + *liṭ* + *jhi* → *ire* by P. 3-4-81 *liṭas tajhayor eśirec*; *e* for *a* and loss of the reduplicate by P. 6-4-120; the *ṣatva* of *s* after *ni*, with *pra-ti*'s exclusion P. 8-3-66 *sader aprateḥ*; *ṣa-ṣa* — the initial *ṣ* even at the beginning of the pāda]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. ७-१-७८, ७-३-३६, ६-४-१७५.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 325)* **हिरण्ययम् (hiraṇyayam)** — made of gold | **द्रापिम् (drāpim)** — armour | **बिभ्रत् (bibhrat)** — wearing | **वरुणः (varuṇaḥ)** — Varuṇa | **निर्णिजम् (nirṇijam)** — [his] well-nourished | **वस्त (vasta)** — covers [his body] | **स्पशः (spaśaḥ)** — the rays [of the golden armour] | **परि निषेदिरे (pari niṣedire)** — spread all round.
+*Gist:* Wearing a golden coat of mail, Varuṇa clothes his well-nourished body; his gold-touching rays have settled all around.
 
-**॥ Bhāvārthaḥ ॥** Varuṇa wears golden armour and covers his well-grown body with it; the rays of the golden armour spread out on every side.
+**॥ Prati-padārthaḥ ॥** **हिरण्ययं (hiraṇyayaṃ)** — made of gold | **द्रापिं (drāpiṃ)** — a coat of mail | **बिभ्रत् (bibhrat)** — wearing | **वरुणः (varuṇaḥ)** — the god Varuṇa | **निर्णिजं (nirṇijaṃ)** — his body, grown well-nourished | **वस्त (vasta)** — covers | **स्पशः (spaśaḥ)** — the rays (of the golden armour) | **परि निषेदिरे (pari niṣedire)** — have spread all around.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥** The god Varuṇa, wearing armour made of gold, covers his well-nourished body; and the rays of the golden armour spread all around.
 
-> Varuna covers his well-nourished body with clothes; he wears golden armour, from it the rays are reflected and are spread around.
+### Page 326 — Rik 13: English, Special Topics, grammar
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 326)* **द्रापिम्** — *kavacam*: a mail-coat, worn in war so that arrows do not strike the body — Armour. **हिरण्ययम्** — made of gold; made from gold. **वस्त** — *vasa ācchādane*; *ācchādayati*: covers (the body with armour), wears, puts on. **निर्णिजम्** — *ṇijir śaucapoṣaṇayoḥ*: well nourished, well grown (body). **स्पशः** — *spaśa bādhanasparśanayoḥ*; *hiraṇyasparśino raśmayaḥ*: the rays that touch, emanating [from the gold]. **परि निषेदिरे** — spread all round, or in all directions; pervade.
+**॥ English Translation ॥** *(as printed)*
+
+> Varuna covers his well-nourished body with clothes ; he wears golden armour, from it the rays are reflected and are spread around.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**द्रापिं (drāpiṃ)** — *kavacam*: the coat of mail worn in time of battle so that arrows do not strike the body; "Armour" (so in English in the print).
+
+**हिरण्ययं (hiraṇyayaṃ)** — *hiraṇmayam*: made of gold, fashioned from gold.
+
+**वस्त (vasta)** — *vasa ācchādane*; *ācchādayati*: covers (the body with the armour), puts on, wears.
+
+**निर्णिजं (nirṇijaṃ)** — *ṇijir śaucapoṣaṇayoḥ*: well-nourished, grown well (the body).
+
+**स्पशः (spaśaḥ)** — *spaśa bādhanasparśanayoḥ*; *hiraṇyasparśino raśmayaḥ*: (the rays) that touch, that go forth.
+
+**परि निषेदिरे (pari niṣedire)** — spread all around or everywhere, pervade.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**बिभ्रत् (bibhrat)** — *ḍubhṛñ bharaṇe*, juhotyādi; *śatṛ*; with the *ślu* vikaraṇa the root is doubled; by "भृञामित्" (Pā. Sū. 7-4-76) the reduplicate takes *i*. Being *ugit*, *num* would come, but by "नाभ्यस्ताच्छतुः" (Pā. Sū. 7-1-78) it does not, the stem being *abhyasta*. By "अभ्यस्तानामादिः" (Pā. Sū. 6-1-1[7?]4, as printed: the third digit is the glyph used for 7 on this page, possibly a poor 8; for 6-1-189) it is initially acute.
+
+**द्रापिम् (drāpim)** — *drā kutsāyāṃ gatau*, adādi; *drāpayati iṣūn kutsitāṃ gatiṃ prāpayati iti drāpiḥ kavacam*: the coat of mail is called *drāpi* because it makes the arrows' flight useless. Before *ṇic*, by "अर्तिह्रीव्ली-" (Pā. Sū. 7-3-36) the root ending in *ā* takes the *puk* augment: *drāpi*; then the Uṇādi suffix *i*; the *ṇi* is dropped by "णेरनिटि" (Pā. Sū. 6-4-51), and again the form is *drāpi*.
+
+**हिरण्ययम् (hiraṇyayam)** — *hiraṇyasya vikāraḥ*: in the sense of a product the suffix *mayaṭ*; then by "ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि छन्दसि" (Pā. Sū. 6-4-175) the loss of the *m* of the *mayaṭ* is irregularly given.
+
+### Page 327 (upper) — Rik 13: grammar (end)
+
+**वस्त (vasta)** — *vasa ācchādane*, ātmanepadin; by "छन्दसि लुङ्लङ्लिटः" *laṅ*; in the singular, the root being adādi, the *śap* takes *luk*; by "बहुलं छन्दस्य-" the *aṭ* augment does not come: *vasta*.
+
+**निर्णिजम् (nirṇijam)** — *ṇijir śaucapoṣaṇayoḥ*, juhotyādi.
+
+**स्पशः (spaśaḥ)** — *spaśa bādhanasparśanayoḥ*, bhvādi; by "क्विप् च" (Pā. Sū. 3-2-76) *kvip*, wholly dropped; nominative plural *spaśaḥ*.
+
+**नि षेदिरे (ni ṣedire)** — *ṣadḷ viśaraṇagatyavasādaneṣu*; here used in the sense of motion; *liṭ* in the passive sense; doubling, *e* for the vowel and loss of the reduplicate; by "सदिरप्रतेः" (Pā. Sū. 8-3-66), since it follows a prefix other than *prati* that conditions it, *ṣatva*. ॥१३॥ *(A printed ornament follows; Ṛk 14 begins on the same page.)*
 
 ---
 

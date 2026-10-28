@@ -3,8 +3,8 @@
 Range: Sūkta 24 Ṛk 14 (printed p. 288 = PDF 302) through the end of Sūkta 29 (before the Sūkta 30 heading, ~p. 458 = PDF 472). Better scan: printed = PDF − 14.
 Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
-Done through: Ṛk 25.12 (p. 324 = PDF 338).
-Next unit: Ṛk 25.13 (pp. 325–327 = PDF 339–341).
+Done through: Ṛk 25.13 (p. 327 upper = PDF 341).
+Next unit: Ṛk 25.14 (pp. 327–330 = PDF 341–344).
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
@@ -15,3 +15,4 @@ Open items:
 - p. 318: Saṃhitā पस्त्यास्वा printed with a stray ಇ-shaped glyph; [accent ?].
 - p. 321: Pā. 6-1-10 as printed for śeś chandasi bahulam (std 6-1-70).
 - p. 322: Ṛk 25.12 Saṃhitā line 2 [accent ?]; p. 324 faint: 3-4-97, 3-1-85, 3-4-94, 3-4-34 read at line width only.
+- p. 326: Pā. 6-1-1[7?]4 printed for abhyastānām ādiḥ (std 6-1-189).
