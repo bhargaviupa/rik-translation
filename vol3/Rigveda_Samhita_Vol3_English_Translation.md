@@ -9808,29 +9808,33 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 478)*
 
-> अनु प्रत्नस्यौकसो हुवे तुविप्रतिं नरम् ।
-> यं ते पूर्वं पिता हुवे ॥ ९ ॥
+> अनु॑ प्र॒त्नस्यौक॑सो हु॒वे तु॑विप्र॒तिं नरं॑ ।
+> यं ते॒ पूर्वं॑ पि॒ता हु॒वे ॥ ९ ॥
 
-> *anu pratnasyaukaso huve tuvipratiṃ naram |*
-> *yaṃ te pūrvaṃ pitā huve ‖ 9 ‖*
+> *ánu pratnásyáukaso huvé tuvipratíṃ náraṃ |*
+> *yaṃ te pū́rvaṃ pitā́ huvé || 9 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> अनु । प्रत्नस्य । ओकसः । हुवे । तुविऽप्रतिम् । नरम् ।
-> यम् । ते । पूर्वम् । पिता । हुवे ॥ ९ ॥
+> अनु । प्रत्नस्य । ओकसः । हुवे । तुविऽप्रतिं । नरं ।
+> यं । ते । पूर्वं । पिता । हुवे ॥ ९ ॥
 
-> *anu | pratnasya | okasaḥ | huve | tuvi 'pratim | naram |*
-> *yam | te | pūrvam | pitā | huve ‖ 9 ‖*
+> *anu | pratnasya | okasaḥ | huve | tuvi 'pratiṃ | naraṃ |*
+> *yaṃ | te | pūrvaṃ | pitā | huve ‖ 9 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 478)*
 
-> प्रत्नस्य पुरातनस्यौकसः स्थानस्य स्वर्गरूपस्य सकाशात्तुविप्रतिं बहून् यजमानान्प्रतिगन्तारं नरं पुरुषमिन्द्रमनुहुवे । अनुक्रमेण कर्मसु स्वाह्वयामि । यं ते त्वामिन्द्रं पिता अस्मदीयो जनकः पूर्वं पुरा स्वकीयानुष्ठानकाले हुवे । आहूतवान् । तमाह्वयामीति पूर्वत्रान्वयः । ओकसः । नब्विषयस्यानिसन्तस्येत्याद्युदात्तत्वम् । हुवे । ह्वेञ् स्पर्धायां शब्दे च । इडागमे बहुलं छन्दसि संप्रसारणं पूर्वरूपत्वं गुणे । प्राप्ते क्ङिति चेति प्रतिषेधः । उवङादेशः । प्रत्ययस्वरेणान्तोदात्तत्वम् । पादादित्वान्न निघातः ॥ तुविप्रतिम् । तुवीनां बहूनां प्रतिगन्तारम् । … नामैकदेशेन नामग्रहणम् … ॥
+> प्रत्नस्य पुरातनस्यौकसः स्थानस्य स्वर्गरूपस्य सकाशात्तुविप्रतिं बहून्यजमानान्प्रतिगन्तारं नरं पुरुषमिन्द्रमनु हुवे । अनुक्रमेण कर्मस्वाह्वयामि । यं ते त्वामिन्द्रं पितास्मदीयो जनकः पूर्वं पुरा स्वकीयानुष्ठानकाले हुवे । आहूतवान् । तमाह्वयामीति पूर्वत्रान्वयः ॥ ओकसः । नब्विषयस्येत्याद्युदात्तत्वम् । हुवे । ह्वेञ् स्पर्धायां शब्दे च । इटि बहुलं छन्दसीति संप्रसारणं परपूर्वत्वम् । गुणे । प्राप्ते क्ङिति चेति प्रतिषेधः । उवङादेशः । प्रत्ययस्वरेणान्तोदात्तत्वम् । पादादित्वादनिघातः । तुविप्रतिम् । तुवीनां बहूनां प्रतिगन्तारम् । अत्र प्रतिशब्दो भीमसेनो भीम इतिवत् । प्रतिगन्तृशब्दं लक्षयित्वा तद्द्वारा तदर्थं लक्षयति । अतः प्रतिः प्रतिनिधिप्रतिदानयोः । पा. १-४-९२ । इतिवत्सत्त्ववचनत्वेनानिपातत्वादनव्ययत्वे पूरणगुणेत्यादिना । पा. २-२-११ । न षष्ठीसमासनिषेधः । हुवे । ह्वेञो लिटि बहुलं छन्दसीति पूर्ववत्संप्रसारणपरपूर्वत्वे । द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम् । का. ६-१-८-१ । इति द्विर्वचनाभावः । यद्वृत्तयोगादनिघातः ॥
 
-> *pratnasya purātanasyaukasaḥ sthānasya svargarūpasya sakāśāttuvipratiṃ bahūn yajamānānpratigantāraṃ naraṃ puruṣamindramanuhuve | anukrameṇa karmasu svāhvayāmi | yaṃ te tvāmindraṃ pitā asmadīyo janakaḥ pūrvaṃ purā svakīyānuṣṭhānakāle huve | āhūtavān | tamāhvayāmīti pūrvatrānvayaḥ | okasaḥ | nabviṣayasyānisantasyetyādyudāttatvam | huve | hveñ spardhāyāṃ śabde ca | iḍāgame bahulaṃ chandasi saṃprasāraṇaṃ pūrvarūpatvaṃ guṇe | prāpte kṅiti ceti pratiṣedhaḥ | uvaṅādeśaḥ | pratyayasvareṇāntodāttatvam | pādāditvānna nighātaḥ ‖ tuvipratim | tuvīnāṃ bahūnāṃ pratigantāram | … nāmaikadeśena nāmagrahaṇam … ‖*
+> *pratnasya purātanasyaukasaḥ sthānasya svargarūpasya sakāśāttuvipratiṃ bahūnyajamānānpratigantāraṃ naraṃ puruṣamindramanu huve | anukrameṇa karmasvāhvayāmi | yaṃ te tvāmindraṃ pitāsmadīyo janakaḥ pūrvaṃ purā svakīyānuṣṭhānakāle huve | āhūtavān | tamāhvayāmīti pūrvatrānvayaḥ ‖ okasaḥ | nabviṣayasyetyādyudāttatvam | huve | hveñ spardhāyāṃ śabde ca | iṭi bahulaṃ chandasīti saṃprasāraṇaṃ parapūrvatvam | guṇe | prāpte kṅiti ceti pratiṣedhaḥ | uvaṅādeśaḥ | pratyayasvareṇāntodāttatvam | pādāditvādanighātaḥ | tuvipratim | tuvīnāṃ bahūnāṃ pratigantāram | atra pratiśabdo bhīmaseno bhīma itivat | pratigantṛśabdaṃ lakṣayitvā taddvārā tadarthaṃ lakṣayati | ataḥ pratiḥ pratinidhipratidānayoḥ | pā. 1-4-92 | itivatsattvavacanatvenānipātatvādanavyayatve pūraṇaguṇetyādinā | pā. 2-2-11 | na ṣaṣṭhīsamāsaniṣedhaḥ | huve | hveño liṭi bahulaṃ chandasīti pūrvavatsaṃprasāraṇaparapūrvatve | dvirvacanaprakaraṇe chandasi veti vaktavyam | kā. 6-1-8-1 | iti dvirvacanābhāvaḥ | yadvṛttayogādanighātaḥ ‖*
 
-*Translation:* "From the ancient (*pratnasya*) dwelling (*okasaḥ*) — the heavenly place — I call after (*anu huve*) Indra, the man (*nara*) who goes (*prati*) to many sacrificers (*tuvi-pratim*): I call him in due order at each rite. The Indra whom my father formerly (*pūrvam*), in the time of his own performance, called — I call [that same one]. *Okasaḥ*: initial acute; *huve*: from *hveñ spardhāyāṃ śabde ca*, *saṃprasāraṇa* by the Vedic liberty; end-acute by the suffix; no lowering since it is at the head of a pāda. *Tuvipratim*: 'one who goes to the side of the many'; (the discussion of *nāmaikadeśena nāmagrahaṇam* — 'a name may be taken by a part' — follows, with the *prati*-as-*gati* argument)."
+*Translation:* "From the ancient (*pratnasya*) dwelling (*okasaḥ*) — the place that is heaven — I call after (*anu huve*: I call in order at the rites) Indra, the man (*naram*) who goes to (*prati*) many (*tuvi*) sacrificers. The Indra, you, whom our father (*pitā*) formerly (*pūrvam*), in the time of his own performance, called (*huve*: called) — him I call: so it is construed with the first half." The grammatical tail treats *okasaḥ* (initial udātta by *nabviṣayasya…*), the first *huve* (present: *saṃprasāraṇa* and *pūrvarūpa* by *bahulaṃ chandasi* before *iṭ*; guṇa barred by *kṅiti ca*; *uvaṅ*; end-acute by the suffix; not grave at the head of the pāda), *tuvipratim* (*prati* stands for *pratigantṛ* as 'Bhīma' for 'Bhīmasena'; like *prati* in Pā. 1-4-92 it denotes a substance, so it is no *nipāta* and no indeclinable, and Pā. 2-2-11 does not bar the genitive compound) and the second *huve* (perfect, *saṃprasāraṇa* as before; no reduplication by the vārttika '*dvirvacanaprakaraṇe chandasi veti vaktavyam*', Kā. 6-1-8-1; not grave because of *yad*).
 
 **Pratipadārtha** *(pp. 478–479, rendered)* — **प्रत्नस्य** of the ancient; **ओकसः** from the dwelling-place (in the form of heaven); **तुविप्रतिम्** him who goes to many sacrificers (and) …; **यं ते** whom, [O Indra,] your…; **पिता** [my] father; **पूर्वम्** formerly (at sacrifice times); **हुवे** called; **नरम्** the male [Indra]; **अनु हुवे** I call at each rite one after another.
+
+### Page 479 — Sūkta 30, Rik 9 (continued)
 
 **Bhāvārtha** *(p. 479)* — I call, at every rite, upon that Indra, the hero, who goes from his ancient dwelling, heaven, to many sacrificers, and whom my father formerly called at times of sacrifice.
 
@@ -9838,9 +9842,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > I invoke the man (Indra) who goes to visit many worshippers from heaven, his ancient dwelling place ; I invoke Indra whom my father formerly used to invoke.
 
-**Viśeṣa-viṣayagaḷu** *(p. 479)* — **प्रत्नस्य** — *purātanasya*: ancient, from time long past. **ओकसः** — *oka iti nivāsanāmocyate* (Nirukta 3-?? [?]): *oka* is a dwelling-place; here Indra's dwelling-place is heaven. **तुविप्रतिम्** — *tuvi* means 'much' (Nirukta 3-?? [?]); *tuvīnāṃ bahūnāṃ pratigantāram*: who goes to the side of many sacrificers. **नरम्** — *netāram*: leader, hero. **यं ते पूर्वं पिता हुवे** — the Indra whom my father formerly invoked, that same I now invoke.
+**Viśeṣa-viṣayagaḷu** *(p. 479)* — **प्रत्नस्य** — *purātanasya*: ancient, from time long past. **ओकसः** — *oka iti nivāsanāmocyate* (Ni. 3-3): *oka* is a dwelling-place; here Indra's dwelling-place is heaven. **तुविप्रतिम्** — *tuvi* means 'much' (Ni. 3-13); *tuvīnāṃ bahūnāṃ pratigantāram*: who goes to the side of many sacrificers. **नरम्** — *netāram*: leader, hero. **यं ते पूर्वं पिता हुवे** — the Indra whom my father formerly invoked, that same I now invoke.
 
-**Grammar (pp. 479–480), noted briefly:** *okasaḥ* (genitive; initial acute by the Phiṭ-sūtra *nabviṣayasyāniseḥ…* [as read]); *huve* (*hveñ spardhāyāṃ śabde ca*; *iṭ* by *laṭ* 1st sg.; *e* by P. 3-4-79; *saṃprasāraṇa* by *bahulaṃ chandasi*; guṇa barred by P. 1-2-4 *sārvadhātukam apit*, 1-1-5 *kṅiti ca*; *uvaṅ* by P. 6-4-77 *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*; end-acute by the suffix; *yad* correlative bars lowering P. 8-1-66); *tuvipratim* (*nāmaikadeśena nāmagrahaṇam*, 'as *bhīma* for *bhīmasena*'; *prati* is not a *nipāta* by P. 1-4-57 *cādayo 'sattve*, because it denotes a substance; not an *avyaya* P. 1-1-37 *svarādinipātam avyayam*; hence the genitive compound is not barred by P. 2-2-11 *pūraṇaguṇasuhitārthasadavyayatavyasamānādhikaraṇena*; the compound's earlier mention is cited). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(pp. 479–480, noted briefly)* — *okasaḥ*: genitive singular; initial udātta by '*nabviṣayasyānisantasya*' (Phi. sū. 26). *huve* (present): *hveñ spardhāyāṃ śabde ca*, *laṭ* first person singular, *iṭ*; *e* by '*ṭita ātmanepadānām*' (Pā. sū. 3-4-79); *saṃprasāraṇa* by '*bahulaṃ chandasi*', *pūrvarūpa*, *hu* + *e*; *(p. 480)* guṇa due but the *ṅit*-status given by '*sārvadhātukam apit*' (Pā. sū. 1-2-4) bars it under '*kṅiti ca*' (Pā. sū. 1-1-5); *uvaṅ* by '*aci śnudhātubhruvām*' (Pā. sū. 6-4-77); end-acute by the suffix; not grave, being at the head of the pāda. *tuvipratim*: '*nāmaikadeśena nāmagrahaṇam*', as *sena* (*bhīma*) for Bhīmasena; *prati* is a substance-word as in '*pratiḥ pratinidhipratidānayoḥ*' (Pā. sū. 1-4-92), so no *nipāta* status by '*cādayo 'sattve*' (Pā. sū. 1-4-57) and no *avyaya* status by '*svarādinipātam avyayam*' (Pā. sū. 1-1-37); hence '*pūraṇaguṇasuhitārtha-*' (Pā. sū. 2-2-11) does not bar the genitive compound (shown before). *huve* (perfect): *saṃprasāraṇa* by '*bahulaṃ chandasi*'; no reduplication by '*dvirvacanaprakaraṇe chandasi veti vaktavyam*' (Pā. sū. 6-1-8-2, so printed; the bhāṣya prints का. ६-१-८-१); *uvaṅ*; not grave because of '*yadvṛttayogān nityam*' (*yaṃ te*); end-acute by the suffix.
 
 ---
 
