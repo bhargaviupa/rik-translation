@@ -7882,38 +7882,67 @@ dropped by "शेश्छन्दसि बहुलम्"; by *pratyayalak�
 
 ---
 
-### Pages 322–324 — Sūkta 25, Rik 12
+### Page 322 (lower) — Sūkta 25, Rik 12
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स नो विश्वाहा सुक्रतुरादित्यः सुपथा करत् ।
-> प्र ण आयूंषि तारिषत् ॥ १२ ॥
+> स नो॑ वि॒श्वाहा॑ सु॒क्रतु॑रादि॒त्यः सु॒पथा॑ करत् ।
+> प्र ण॒ आयूंषि तारिषत् ॥१२॥ [accent ?]
+>
+> *sá no viśvā́hā sukráturādityáḥ supáthā karat |*
+> *pra ṇa ā́yūṃṣi tāriṣat ||12||* [accent ?]
 
-*sa no viśvāhā sukratur ādityaḥ supathā karat | pra ṇa āyūṃṣi tāriṣat || 12 ||*
+*(Saṃhitā accents as printed, read on line crops (v3a); Pada unaccented, though the print marks the Pada too. Flagged [accent ?] on line 2: a vertical stroke stands above the junction of* ण *and* आ*, not clearly over either syllable, and is not given; the bar under* ण *is clear. The Pada prints* अयूंषि *with short* अ*, as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> सः । नः । विश्वाहा । सुऽक्रतुः । आदित्यः । सुऽपथा । करत् ॥ प्र । नः । आयूंषि । तारिषत् ॥ १२ ॥
+> सः । नः । विश्वाहा । सुऽक्रतुः । आदित्यः । सुऽपथा । करत् । प्र । नः । अयूंषि । तारिषत् ॥१२॥
 
-*saḥ | naḥ | viśvāhā | su-kratuḥ | ādityaḥ | su-pathā | karat || pra | naḥ | āyūṃṣi | tāriṣat || 12 ||*
+> *saḥ | naḥ | viśvāhā | su-kratuḥ | ādityaḥ | su-pathā | karat | pra | naḥ | ayūṃṣi | tāriṣat ‖12‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 322)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 322–323; transcribed in full from the print, v3a)*
 
-> सुक्रतुः शोभनप्रज्ञः स आदित्यो वरुणो विश्वाहा सर्वेष्वहःसु नोऽस्मान्सुपथा शोभनमार्गेण सहितान्करोतु । किंच नोऽस्माकमायूंषि प्र तारिषत् । प्रवर्धयतु ॥ सुपथा । स्वती पूजायाम् । पा. २-१-१४ । इति समासे न पूजनात् । पा. ५-४-६९ । इति समासान्तप्रतिषेधः । अव्ययपूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । कृत्वादयश्चेत्येतन्न भवति । अबहुव्रीहित्वात् । बहुव्रीहौ हि तद्विधीयते । आद्युदात्तं द्व्यच्छन्दसि । पा. ६-१-११९ । इत्येतदपि न भवति । पथिन्शब्दस्यान्तोदात्तत्वात् । करत् । करोतेर्लेटि टिप् । व्यत्ययेन शप् । बहुलं छन्दसि । पा. २-४-७३ । शपो लुक् । लेटोऽडाटौ । अडागमः । इतश्च लोप इतीकारलोपः । यद्वा । छान्दसे लुङि कृमृदृरुहिभ्यश्छन्दसि । पा. ३-१-५९ । इति च्लेरङ् । ऋदृशोऽङि गुणः । पा. ७-४-१६ । इति गुणः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः ॥ प्रणः । उपसर्गाद्बहुलम् । पा. ८-४-२८ । इति नस्य णत्वम् । तारिषत् । तॄ प्लवनतरणयोः । प्रेरणार्थत्वात्ण्यन्तात्तारयतेर्लेटि प्रथमपुरुषैकवचने तिप् । सिब्बहुलं लेटि । पा. ३-१-३४ । इति सिप् । आदेशप्रत्यययोः । पा. ८-३-५९ । इति षत्वम् ॥
+> सुक्रतुः शोभनप्रज्ञः स आदित्यो वरुणो विश्वाहा सर्वेष्वहःसु नोऽस्मान् सुपथा शोभनमार्गेण सहितान्करत् । करोतु । किंच नोऽस्माकमायूंषि प्र तारिषत् । प्रवर्धयतु ॥ सुपथा । स्वती पूजायां । पा. २-२-१८ । इति समासे न पूजनात् । पा. ५-४-६९ । इति समासांतप्रतिषेधः । अव्ययपूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छंदसि बहुलमित्युत्तरपदाद्युदात्तत्वं । क्रत्वादयश्चेत्येतन्न भवति अबहुव्रीहित्वात् । बहुव्रीहौ हि तद्विधीयते । आद्युदात्तं द्व्यच्छंदसि । पा. ६-२-११९ । इत्येतदपि न भवति । पथिन्शब्दस्यांतोदात्तत्वात् । करत् । करोतेर्लेटि व्यत्ययेन शप् । शपो लुकि लेटोऽडाटावित्यडागमः । इतश्च लोप इतीकारलोपः । यद्वा । छांदसे लुङि कृमृदृरुहिभ्यः । पा. ३-१-५९ । इति च्लेरङ् । ऋदृशोऽङि गुणः । पा. ७-४-१६ । इति गुणः । बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः । प्र णः । उपसर्गाद्बहुलं । पा. ८-४-२८ । इति नसो णत्वं । तारिषत् । तारयतेर्लेट्यडागमः । सिब्बहुलं लेटीति सिप् । आदेशप्रत्यययोरिति षत्वं ॥
 
-*sukratuḥ śobhanaprajñaḥ sa ādityo varuṇo viśvāhā sarveṣv ahaḥsu no 'smān supathā śobhanamārgeṇa sahitān karotu | kiṃca no 'smākam āyūṃṣi pra tāriṣat | pravardhayatu || supathā | svatī pūjāyām | pā. 2-1-14 | iti samāse na pūjanāt | pā. 5-4-69 | iti samāsāntapratiṣedhaḥ | avyayapūrvapadaprakṛtisvare prāpte parādiś chandasi bahulam ity uttarapadādyudāttatvam | kratvādayaś cety etan na bhavati | abahuvrīhitvāt | bahuvrīhau hi tad vidhīyate | ādyudāttaṃ dvyac chandasi | pā. 6-1-119 | ity etad api na bhavati | pathinśabdasyāntodāttatvāt | karat | karoter leṭi ṭip | vyatyayena śap | bahulaṃ chandasi | pā. 2-4-73 | śapo luk | leṭo 'ḍāṭau | aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | yadvā | chāndase luṅi kṛmṛdṛruhibhyaś chandasi | pā. 3-1-59 | iti cler aṅ | ṛdṛśo 'ṅi guṇaḥ | pā. 7-4-16 | iti guṇaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍāgamābhāvaḥ || praṇaḥ | upasargād bahulam | pā. 8-4-28 | iti nasya ṇatvam | tāriṣat | tṝ plavanataraṇayoḥ | preraṇārthatvāt ṇyantāt tārayater leṭi prathamapuruṣaikavacane tip | sib bahulaṃ leṭi | pā. 3-1-34 | iti sip | ādeśapratyayayoḥ | pā. 8-3-59 | iti ṣatvam ||*
+> *sukratuḥ śobhanaprajñaḥ sa ādityo varuṇo viśvāhā sarveṣvahaḥsu no 'smān supathā śobhanamārgeṇa sahitānkarat | karotu | kiṃca no 'smākamāyūṃṣi pra tāriṣat | pravardhayatu ‖ supathā | svatī pūjāyāṃ | pā. 2-2-18 | iti samāse na pūjanāt | pā. 5-4-69 | iti samāsāṃtapratiṣedhaḥ | avyayapūrvapadaprakṛtisvare prāpte parādiśchaṃdasi bahulamityuttarapadādyudāttatvaṃ | kratvādayaścetyetanna bhavati abahuvrīhitvāt | bahuvrīhau hi tadvidhīyate | ādyudāttaṃ dvyacchaṃdasi | pā. 6-2-119 | ityetadapi na bhavati | pathinśabdasyāṃtodāttatvāt | karat | karoterleṭi vyatyayena śap | śapo luki leṭo 'ḍāṭāvityaḍāgamaḥ | itaśca lopa itīkāralopaḥ | yadvā | chāṃdase luṅi kṛmṛdṛruhibhyaḥ | pā. 3-1-59 | iti cleraṅ | ṛdṛśo 'ṅi guṇaḥ | pā. 7-4-16 | iti guṇaḥ | bahulaṃ chaṃdasyamāṅyoge 'pītyaḍabhāvaḥ | pra ṇaḥ | upasargādbahulaṃ | pā. 8-4-28 | iti naso ṇatvaṃ | tāriṣat | tārayaterleṭyaḍāgamaḥ | sibbahulaṃ leṭīti sip | ādeśapratyayayoriti ṣatvaṃ ‖*
 
-**Translation:** "May that Āditya, Varuṇa, *sukratuḥ* — of excellent wisdom — make us, on all days (*viśvāhā*), be furnished with a good road (*supathā*) — a good way. And may he cause our lives (*āyūṃṣi*) to prosper (*pra tāriṣat*) — to increase. *Supathā*: *su* in the sense of honour, compounded by P. 2-1-14 [*svatī pūjāyām*]; by P. 5-4-69 [*na pūjanāt*] the compound-final suffix is forbidden after a word of praise; the first member [*avyaya*] would give its accent, but the second member's initial acute by *parādiś chandasi bahulam*; *kratvādayaś ca* does not apply since this is not a *bahuvrīhi*; the rule *ādyudāttaṃ dvyac chandasi* also does not apply since *pathin* is end-acute. *Karat*: *leṭ* of *kṛ*, *tip*; *śap* by *vyatyaya*, lost by P. 2-4-73; the *aṭ* augment of *leṭ*; loss of the *i* — P. 3-4-97; or [as another view] the Vedic *luṅ*, *aṅ* for *cli* by P. 3-1-59; guṇa by P. 7-4-16; *aṭ* not present. *Praṇaḥ*: *ṇa* for *na* by P. 8-4-28. *Tāriṣat*: from *tṝ plavanataraṇayoḥ* [to float, to cross], with *ṇic* [causative], *leṭ* with *sip* by P. 3-1-34; *ṣatva* by P. 8-3-59." *(Grammar pages 323–324, noted briefly: the words treated are* supathā *[*su* + *pathin*; *su* in the sense of praise forms a compound by P. 2-1-… (the *kugatiprādayaḥ*-class); the printed note explains that the compound-final *aT* of P. 5-4-74 *ṛkpūrabdhūḥpathām ānakṣe* is prevented by P. 5-4-69 *na pūjanāt*; the instrumental ending of *pathin* in *supathā* — P. 6-1-… *bhasya ṭer lopaḥ*; the accent: normally the *avyaya*-first compound would give the first member's accent (P. 6-2-2), but P. 6-2-199 *parādiś chandasi bahulam* gives the acute to the beginning of the final member; *kratvādi* (P. 6-2-118) and *ādyudāttaṃ dvyac chandasi* (P. 6-1-119) are shown not to apply],* karat *[*kṛ*, *leṭ*, *tip* → *ti* with *aṭ* augment by P. 3-4-94 *leṭo 'ḍāṭau*; loss of the *i* by P. 3-4-97 *itaś ca lopaḥ parasmaipadeṣu*; *śap* by *vyatyaya* and lost; the guṇa and *raparatva*; alternatively as a *luṅ* with *aṅ* for *cli* by P. 3-1-59 *kṛmṛdṛruhibhyaś chandasi*; the *aṭ* augment absent in the Veda],* praṇaḥ *[the *n* of *naḥ* becomes *ṇ* after the preposition *pra* by P. 8-4-27/28 *upasargād bahulam*, although they are different words] and* tāriṣat *[*tṝ plavanataraṇayoḥ* + *ṇic* in the causative sense, then the *leṭ*; *tip*; *sip* in the sense of *vikaraṇa* by P. 3-1-34 *sib bahulaṃ leṭi*; the *ṇic* is not lost since *sip* is *pit*? — the print says *ṇic* would be lost by P. 6-4-51 but the rule *sip bahulaṃ ṇid vaktavyaḥ* makes *sip* behave as *ṇit*; *ṣatva* of the *s* of *sip* after the vowel *i*, P. 8-3-59 *ādeśapratyayayoḥ*: hence *tāriṣat*]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. २-२-१८, ५-४-६९, ६-२-११९, ३-१-५९, ७-४-१६, ८-४-२८.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 323)* **सुक्रतुः (sukratuḥ)** — of best wisdom | **सः आदित्यः (saḥ ādityaḥ)** — that Āditya, Varuṇa | **विश्वाहा (viśvāhā)** — every day | **नः (naḥ)** — us | **सुपथा (supathā)** — on the right path | **करत् (karat)** — may he make [go] | **नः (naḥ)** — our | **आयूंषि (āyūṃṣi)** — lives | **प्र तारिषत् (pra tāriṣat)** — may he increase well.
+*Gist:* May that wise Āditya, Varuṇa, on all days set us on a good path, and may he lengthen our lives.
 
-**॥ Bhāvārthaḥ ॥** May that Varuṇa, the son of Aditi, who is of the highest wisdom, make us walk the right path on all days, and may he increase our lives.
+### Page 323 — Rik 12: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **सुक्रतुः (sukratuḥ)** — of excellent wisdom | **सः आदित्यः (saḥ ādityaḥ)** — that Varuṇa, son of Aditi | **विश्वाहा (viśvāhā)** — on all days | **नः (naḥ)** — us | **सुपथा (supathā)** — as people who walk on a good path | **करत् (karat)** — may he make | (and) **नः (naḥ)** — for us | **आयूंषि (āyūṃṣi)** — the lifespans | **प्र तारिषत् (pra tāriṣat)** — may he make grow well.
+
+**॥ Bhāvārthaḥ ॥** May that Varuṇa, of excellent wisdom and son of Aditi, make us walk on the right path on all days, and may he increase our lifespans.
+
+**॥ English Translation ॥** *(as printed)*
 
 > May the wise son of Aditi (Varuna) keep us, all our days in the right path and prolong our lives.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 323)* **विश्वाहा** — *viśveṣu sarveṣv ahaḥsu*: on all days, always. **सुपथा करत्** — may he make us go on a good path. **तारिषत्** — *pravardhayatu*: may he cause to prosper; may he increase.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**विश्वाहा (viśvāhā)** — *viśveṣu sarveṣv ahassu*: on all days; "all our days, always &c." (so in English in the print).
+
+**सुपथा करत् (supathā karat)** — may he make us walk on the good road.
+
+**तारिषत् (tāriṣat)** — *pravardhayatu*: may he increase, make grow.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi except where marked, v3a)*
+
+**सुपथा (supathā)** — *śobhanaś cāsau panthāś ca supanthāḥ*. By "न पूजनात्" (Pā. Sū. 5-4-69) the samāsānta does not come after words in the sense of honour, and by "स्वती पूजायाम्" (Pā. Vā. 2-2-18-4) in the compound the samāsānta *ap* does not come after the final member *pathin*; *su* here is in the sense of honour. In the instrumental singular the *ṭi* is dropped by "भस्य टेर्लोपः" (Pā. Sū. 7-1-88): *supathā*. "तत्पुरुषे तुल्यार्थ-" (Pā. Sū. 6-2-2) would give the indeclinable first member's accent; setting it aside, by "परादिश्छन्दसि बहुलम्" (Pā. Sū. 6-2-199) the final member is initially acute, by *bahula*. One should not object: since *su* precedes, would not "क्रत्वादयश्च" (Pā. Sū. 6-2-118) give the same, so why invoke *bahula*?
+
+### Page 324 — Rik 12: grammar (end)
+
+That sūtra operates only in a bahuvrīhi; this is a tatpuruṣa, so the accent it states does not come. Nor can it be said that by "आद्युदात्तं द्व्यच्छन्दसि" (Pā. Sū. 6-2-119) a two-syllable initially acute word after *su* is initially acute here, since *pathin* is end-acute and the condition is absent.
+
+**करत् (karat)** — *ḍukṛñ karaṇe*; *leṭ* third singular *tip*; the *i* dropped by "इतश्च लोपः परस्मैपदेषु" (Pā. Sū. 3-4-97); *śap* by "व्यत्ययो बहुलम्" (Pā. Sū. 3-1-85); guṇa of the root before it; *luk* of *śap* by "बहुलं छन्दसि"; the *aṭ* augment of the *leṭ* ending by "लेटोऽडाटौ" (Pā. Sū. 3-4-94): *karat*. Or: in the *luṅ*, the *tip* as before; since the moods are stated for all times, the sense does not change; by "कृमृदृरुहिभ्यश्छन्दसि" (Pā. Sū. 3-1-59) the *cli* of the *luṅ* is replaced by *aṅ*; before *aṅ*, the root ending in *ṛ* takes guṇa by "ऋदृशोऽङि गुणः" (Pā. Sū. 7-4-16); by "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) the augment *aṭ* does not come though *māṅ* is absent: *karat*.
+
+**प्र णः (pra ṇaḥ)** — being a separate word, there is no condition for *ṇatva*; but by "उपसर्गाद्बहुलम्" (Pā. Sū. 8-4-28) the *n* of *nas* after a prefix that conditions it becomes *ṇ*.
+
+**तारिषत् (tāriṣat)** — *tṝ plavanataraṇayoḥ*; *ṇic* in the causative sense: *tāri*, a *ṇyanta* root; in the *leṭ* third singular *tip*, with loss of *i* and the *aṭ* augment as before; *sip* by "सिब्बहुलं लेटि" (Pā. Sū. 3-4-34); by the vārttika "सिब्बहुलं णिद्वक्तव्यः" it is treated as *ṇit* even without *ṇic*, so the *ṇit* operation applies; the *iṭ* augment on *sip*; by "आदेशप्रत्यययोः" (Pā. Sū. 8-3-59) the *s* of *sip* becomes *ṣ*: *tāriṣat*. ॥१२॥
+
+*(P. 324 is a faint, grainy page: 6-2-119, 3-1-59, 7-4-16, 6-4-75, 8-4-28 and 8-3-59 were checked on crops; 3-4-97, 3-1-85, 3-4-94 and 3-4-34 were read at line width only, the glyphs consistent with those numbers.)*
 
 ---
 
