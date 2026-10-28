@@ -4974,13 +4974,15 @@
 
 ### Rik 53.4 (pp. 276–, PDF 292–)
 
-**Saṃhitā-pāṭha** *(p. 276; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 276; accents as printed)*
 
-> **एभिर्द्युभिः सुमना एभिरिन्दुभिर्निरुन्धानो अमतिं गोभिरश्विना ।**
-> **इन्द्रेण दस्युं दरयन्त इन्दुभिर्युतद्वेषसः समिषा रभेमहि ॥ ४ ॥**
+> **ए॒भिर्द्यु॑भिः सु॒मना॑ ए॒भिरि॑न्दुभिर्निरुन्धा॒नो अम॑तिं॒ गोभि॑र॒श्विना॑ ।**
+> **इन्द्रे॑ण॒ दस्युं॑ द॒रय॑न्त॒ इन्दु॑भि॒र्युत॑द्वेषसः॒ समि॒षा र॑भेमहि ॥ ४ ॥** [accent ?]
 
-*ebhir dyubhiḥ sumanā ebhir indubhir nirundhāno amatiṃ gobhir aśvinā |*
-*indreṇa dasyuṃ darayanta indubhir yutadveṣasaḥ sam iṣā rabhemahi || 4 ||*
+*ebhír dyúbhiḥ sumánā ebhír índubhir nirundhānó amátiṃ góbhir aśvínā |*
+*índreṇa dásyuṃ daráyanta índubhir yutádveṣasaḥ sám iṣā́ rabhemahi || 4 ||*
+
+*(Pass: [accent ?] — several strokes in this Ṛk stand between syllables; given as best seen.)*
 
 **Pada-pāṭha** *(p. 276)*
 
@@ -4992,13 +4994,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 276)*
 
-> **हे इन्द्र एभिरस्माभिर्दत्तैर्द्युभिर्दीप्तैश्चरुपुरोडाशादिभिः एभिरिन्दुभिः पुरोवर्तिभिस्तुभ्यं दत्तैः सोम्यैश्च प्रीतस्त्वमस्माकममतिं दारिद्र्यं गोभिस्त्वया दत्तैः पशुभिरश्विना [print: -श्विनाश्वयुक्तेन [?]] धनेन च निरुन्धानो निवर्तयन् सुमनाः शोभनमना भव । वयमिन्दुभिरस्माभिर्दत्तैः सोम्यैः प्रीतेनेन्द्रेण दस्युमुपक्षपयितारं शत्रुं दरयन्तो हिंसन्तोऽत एव युतद्वेषसः पृथग्भूतशत्रुका भूत्वेहेन्द्रदत्तेनान्नेन सं रभेमहि । संरब्धा भवेम । संगच्छेमहीत्यर्थः ॥**
+> **हे इन्द्र एभिरस्माभिर्दत्तैर्द्युभिर्दीप्तैश्चरुपुरोडाशादिभिः एभिरिन्दुभिः पुरोवर्तिभिस्तुभ्यं दत्तैः सोम्यैश्च प्रीतस्त्वमस्माकममतिं दारिद्र्यं गोभिस्त्वया दत्तैः पशुभिरश्विनाश्वयुक्तेन धनेन च निरुन्धानो निवर्तयन् सुमनाः शोभनमना भव । वयमिन्दुभिरस्माभिर्दत्तैः सोम्यैः प्रीतेनेन्द्रेण दस्युमुपक्षपयितारं शत्रुं दरयन्तो हिंसन्तोऽत एव युतद्वेषसः पृथग्भूतशत्रुका भूत्वेहेन्द्रदत्तेनान्नेन सं रभेमहि । संरब्धा भवेम । संगच्छेमहीत्यर्थः ॥**
 
-*he indra ebhir asmābhir dattair dyubhir dīptaiś carupurodāśādibhiḥ ebhir indubhiḥ purovartibhis tubhyaṃ dattaiḥ somyaiś ca prītas tvam asmākam amatiṃ dāridryaṃ gobhis tvayā dattaiḥ paśubhir aśvinā [the print continues "aśvinā-śvayuktena", [?]] dhanena ca nirundhāno nivartayan sumanāḥ śobhanamanā bhava | vayam indubhir asmābhir dattaiḥ somyaiḥ prītenendreṇa dasyum upakṣapayitāraṃ śatruṃ darayanto hiṃsanto 'ta eva yutadveṣasaḥ pṛthagbhūtaśatrukā bhūtveha indradattenānnena saṃ rabhemahi | saṃrabdhā bhavema | saṃgacchemahīty arthaḥ ||*
+*he indra ebhir asmābhir dattair dyubhir dīptaiś carupurodāśādibhiḥ ebhir indubhiḥ purovartibhis tubhyaṃ dattaiḥ somyaiś ca prītas tvam asmākam amatiṃ dāridryaṃ gobhis tvayā dattaiḥ paśubhir aśvināśvayuktena dhanena ca nirundhāno nivartayan sumanāḥ śobhanamanā bhava | vayam indubhir asmābhir dattaiḥ somyaiḥ prītenendreṇa dasyum upakṣapayitāraṃ śatruṃ darayanto hiṃsanto 'ta eva yutadveṣasaḥ pṛthagbhūtaśatrukā bhūtveha indradattenānnena saṃ rabhemahi | saṃrabdhā bhavema | saṃgacchemahīty arthaḥ ||*
 
-*(Reading note: the clause after* paśubhiḥ *reads "*aśvinā*" followed by what looks like "*aśvayuktena*"; I take it as "with wealth that includes horses (*aśvin*)", [?]. The grammatical tail, pp. 276–277, begins:* sumanāḥ *(*sormanasī alomoṣasī*, the accent of the last member),* nirundhānaḥ *(*rudhir āvaraṇe*, the Vedic* ātmanepada*,* śnasor allopa… *[crowded]) and continues on p. 277 — it is given with the next batch.)*
+*(Reading note: the print reads "*paśubhir aśvinā aśvayuktena dhanena*", "*aśvinā*: with wealth joined with horses". The grammatical tail, pp. 276–277, begins:* sumanāḥ *(*sormanasī alomoṣasī*, the accent of the last member),* nirundhānaḥ *(*rudhir āvaraṇe*, the Vedic* ātmanepada*,* śnasor allopa… *[crowded]) and continues on p. 277 — it is given with the next batch.)*
 
-**Translation of the bhāṣya:** "O Indra, pleased with these *dyubhiḥ*, shining offerings given by us — the *caru*, the *puroḍāśa* and the like — and with these *indubhiḥ*, soma-drops, set before you; *nirundhānaḥ*, keeping off our *amatim*, poverty, with *gobhiḥ*, the cattle given by you, and with wealth that includes horses [?] — be *sumanāḥ*, of good mind. We, *darayantaḥ*, harming the *dasyu*, the destroying enemy, with *indreṇa*, Indra, pleased by the soma we offered with these drops — therefore *yutadveṣasaḥ*, having the enemy driven off — may we here *sam rabhemahi*, may we join in, with the food given by Indra: may we be firmly joined, is the sense."
+**Translation of the bhāṣya:** "O Indra, pleased with these *dyubhiḥ*, shining offerings given by us — the *caru*, the *puroḍāśa* and the like — and with these *indubhiḥ*, soma-drops, set before you; *nirundhānaḥ*, keeping off our *amatim*, poverty, with *gobhiḥ*, the cattle given by you, and with wealth joined with horses — be *sumanāḥ*, of good mind. We, *darayantaḥ*, harming the *dasyu*, the destroying enemy, with *indreṇa*, Indra, pleased by the soma we offered with these drops — therefore *yutadveṣasaḥ*, having the enemy driven off — may we here *sam rabhemahi*, may we join in, with the food given by Indra: may we be firmly joined, is the sense."
 
 ---
 
@@ -5006,7 +5008,7 @@
 
 **Rik 53.4, continued** *(pp. 277–279, PDF 293–295)*
 
-**Sāyaṇa-bhāṣya, grammatical tail** *(pp. 276 foot – 277 — characterized, not transcribed)*: *nirundhānaḥ* (*rudhir āvaraṇe*; the *śnam* and the *śānac*; the loss of the *a* of *śnam* by *śnasor allopaḥ*, Pā. 6-4-111 as read [?]); *amatim* ("*maṃhitvyā matir aiśvaryam*"; *na matir amatiḥ*, a *nañ* compound with the accent of the first member; "*na lokāvyayeti ṣaṣṭhīpratiṣedhaḥ*"); *aśvinā* ("*aśvo 'syāstīty aśvi dhanam*", *matup* sense; *iniḥ*).
+**Sāyaṇa-bhāṣya, grammatical tail** *(pp. 276 foot – 277 — characterized, not transcribed)*: *nirundhānaḥ* (*rudhir āvaraṇe*; the *śnam* and the *śānac*; the loss of the *a* of *śnam* by *śnasor allopaḥ*, Pā. 6-4-111); *amatim* ("*maṃhitvyā matir aiśvaryam*"; *na matir amatiḥ*, a *nañ* compound with the accent of the first member; "*na lokāvyayeti ṣaṣṭhīpratiṣedhaḥ*"); *aśvinā* ("*aśvo 'syāstīty aśvi dhanam*", *matup* sense; *iniḥ*).
 
 **Pratipadārtha** *(p. 277)* — "(O Indra) **ebhiḥ dyubhiḥ** — with these shining *puroḍāśas* and the like (offered by us); **ebhiḥ indubhiḥ** — with these soma juices; (satisfied); **amatim** — our poverty; **gobhiḥ** — by giving cattle; **aśvinā** — by giving wealth in the form of horses; **nirundhānaḥ** — destroying; **sumanāḥ** — be of gracious mind; (we) **indubhiḥ** — satisfied by the soma juice offered by us; **indreṇa** — by Indra; **dasyum** — the destroying enemy; **darayantaḥ** — harming; **yutadveṣasaḥ** — freed from the enemy; **iṣā** — with the food (given by Indra); **sam rabhemahi** — may we come together and be happy."
 
@@ -5017,9 +5019,9 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 277–278**
 - **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
 
-  > **दीप्तिमतो योऽस्मोवानां [?] वयमर्पयोऽमुस्मान् पीत्वेन्द्रः प्रसन्नो भविष्यति । अपि चास्माकं शत्रुहननाय साहाय्यं करिष्यति तेन वयं निश्शत्रवः कृता अन्नसंपन्ना भवेमेत्यर्थः । एभिरित्यस्य द्विरुक्तिरादरार्थेत्यनुसंधेयम् ॥**
+  > **दीप्तिमतो यान्सोमान् [?] वयमर्पयामस्तान् पीत्वेन्द्रः प्रसन्नो भविष्यति । अपि चास्माकं शत्रुहननाय साहाय्यं करिष्यति तेन वयं निश्शत्रवः कृता अन्नसंपन्ना भवेमेत्यर्थः । एभिरित्यस्य द्विरुक्तिरादरार्थेत्यनुसंधेयम् ॥**
 
-  *dīptimato yo 'smovānāṃ [?] vayam arpayo 'musmān pītvendraḥ prasanno bhaviṣyati | api cāsmākaṃ śatruhananāya sāhāyyaṃ kariṣyati tena vayaṃ niśśatravaḥ kṛtā annasampannā bhavemety arthaḥ | ebhir ity asya dviruktir ādarārthety anusaṃdheyam ||* — The Sanskrit of this note is garbled in the print; I read the sense from the Kannada: "By drinking the shining soma we offer, Indra will be pleased; and he will help us to kill our enemies; thus freed of enemies, we shall be rich in food. It should be understood that the repetition of the word *ebhiḥ* is for respect (*ādara*)." The Kannada adds: "Because Indra, pleased by drinking the shining soma, will help us in destroying enemies, not only will our troubles from enemies end, but food and the like will be obtained for us in abundance. Since the word *ebhiḥ* is repeated in this Rik, it shows the great respect felt for Indra by those who praise him."
+  *dīptimato yān somān [?] vayam arpayāmas tān pītvendraḥ prasanno bhaviṣyati | api cāsmākaṃ śatruhananāya sāhāyyaṃ kariṣyati tena vayaṃ niśśatravaḥ kṛtā annasampannā bhavemety arthaḥ | ebhir ity asya dviruktir ādarārthety anusaṃdheyam ||* — The Sanskrit is legible except the word printed "ಯಾನ್ನೋವಾನ್" (read *yān somān*, [?]); the sense, as the Kannada gives it: "By drinking the shining soma we offer, Indra will be pleased; and he will help us to kill our enemies; thus freed of enemies, we shall be rich in food. It should be understood that the repetition of the word *ebhiḥ* is for respect (*ādara*)." The Kannada adds: "Because Indra, pleased by drinking the shining soma, will help us in destroying enemies, not only will our troubles from enemies end, but food and the like will be obtained for us in abundance. Since the word *ebhiḥ* is repeated in this Rik, it shows the great respect felt for Indra by those who praise him."
 - **dyubhiḥ** — "*Dīptaiś caru-puroḍāśādibhiḥ*: by shining offerings, *puroḍāśa* and the like — the sense of 'shining things' comes by implication (*lakṣaṇā*)."
 - **amatim** — "*Maṃhitvyā matir aiśvaryam; na matir amatiḥ*: by this derivation the word has the sense of poverty."
 - **indubhiḥ** — "For this word the sense is 'by the soma offerings and the *puroḍāśa* that are the bright substances used in the sacrifice'."
@@ -5027,10 +5029,10 @@
 - **aśvinā** — "*Aśvo 'syāstīti aśvi dhanam*: by this explanation it means all kinds of wealth beginning with horses."
 
 **Vyākaraṇa-prakriyā** *(pp. 278–279 — grammar pages, noted briefly)*
-- **sumanāḥ**: "*śobhanaṃ manaḥ yasya saḥ*"; *sormanasī alomoṣasī* (Pā. 6-2-117) — *su* before *manas*, in a bahuvrīhi, *asun*-ending: the acute is on the first syllable of the last member.
-- **nirundhānaḥ**: *rudhir āvaraṇe*, *rudhādi*; *svaritañitaḥ kartrabhiprāye kriyāphale* gives *ātmanepada*, *śānac*; *śānac* following, *rudhādibhyaḥ śnam* gives *śnam*; being *mit*, it goes after the last vowel (*mid aco 'ntyāt paraḥ*); *śnasor allopaḥ* (Pā. 6-4-111) drops the *a* of *śnam*: *nirundhāna*; being *cit*, *citaḥ* gives the end-acute; with the prefix *ni*, the compound is formed and *gatikārakopapadāt kṛt* gives the accent of the last member.
-- **amatim**: "*maṃhitvyā matiḥ aiśvaryam*"; *ktin* after the root *man*; being *kit*, *anudāttopadeśa…* drops the *n*; "*na matiḥ amatiḥ*": *tatpuruṣe tulyārtha…* gives the accent of the first member; for such places as *amatiṃ nirundhānaḥ*, though *kartṛkarmaṇoḥ kṛti* would give the genitive, *na lokāvyayaniṣṭhākhalarthatṛnām* (Pā. 2-3-69) forbids the genitive, since the word *lādeśa* applies [as printed].
-- **aśvinā**: "*aśvo 'syāsti iti aśvi*"; *dhanam*; in the *matup* sense, *ata ini-ṭhanau* (Pā. 5-2-115) gives *ini*; by the suffix-accent the *i* is acute; instrumental singular.
+- **sumanāḥ**: "*śobhanaṃ manaḥ yasya saḥ*"; *sormanasī alomoṣasī* (Pā. sū. 6-2-117) — *su* before *manas*, in a bahuvrīhi, *asun*-ending: the acute is on the first syllable of the last member.
+- **nirundhānaḥ**: *rudhir āvaraṇe*, *rudhādi*; *svaritañitaḥ kartrabhiprāye kriyāphale* gives *ātmanepada*, *śānac*; *śānac* following, *rudhādibhyaḥ śnam* gives *śnam*; being *mit*, it goes after the last vowel (*mid aco 'ntyāt paraḥ*); *śnasor allopaḥ* (Pā. sū. 6-4-111) drops the *a* of *śnam*: *nirundhāna*; being *cit*, *citaḥ* gives the end-acute; with the prefix *ni*, the compound is formed and *gatikārakopapadāt kṛt* gives the accent of the last member.
+- **amatim**: "*maṃhitvyā matiḥ aiśvaryam*"; *ktin* after the root *man*; being *kit*, *anudāttopadeśa…* drops the *n*; "*na matiḥ amatiḥ*": *tatpuruṣe tulyārtha…* gives the accent of the first member; for such places as *amatiṃ nirundhānaḥ*, though *kartṛkarmaṇoḥ kṛti* would give the genitive, *na lokāvyayaniṣṭhākhalarthatṛnām* (Pā. sū. 2-3-69) forbids the genitive, since the word *lādeśa* applies [as printed].
+- **aśvinā**: "*aśvo 'syāsti iti aśvi*"; *dhanam*; in the *matup* sense, *ata ini-ṭhanau* (Pā. sū. 5-2-115) gives *ini*; by the suffix-accent the *i* is acute; instrumental singular.
 - **darayantaḥ**: *dṝ bhaye*; *śatṛ* after the *ṇic*-ending; being in the *ghaṭādi* list, *mit*, so *mitāṃ hrasvaḥ* shortens before *ṇic*; *śap* as the cause gives *guṇa* and *ayādeśa*: *darayat*; by the *ṇic*-accent the *a* after *r* is acute; in the nominative plural, being *ugit*, *num* comes: *darayantaḥ*.
 - **rabhemahi**: *rabha rābhasye*, *bhvādi*; *vidhiliṅ* first person plural *mahiṅ*; *liṅaḥ sīyuṭ* gives *sīyuṭ* to *mahiṅ*; *kartari śap*; *liṅaḥ salopo 'nantyasya* drops the *s* of *sīyuṭ*; *guṇa*: *rabhemahi*; *tiṅ atiṅaḥ*, *nighāta*. **|| 4 ||**
 
