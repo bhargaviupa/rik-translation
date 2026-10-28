@@ -7218,38 +7218,61 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 ---
 
-### Pages 296–298 — Sūkta 25, Rik 1
+### Page 296 — Sūkta 25, Rik 1
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यच्चिद्धि ते विशो यथा प्र देव वरुण व्रतम् ।
-> मिनीमसि द्यविद्यवि ॥ १ ॥
+> यच्चि॒द्धि ते॒ विशो॑ यथा॒ प्र दे॑व वरुण व्र॒तं ।
+> मि॒नी॒मसि॒ द्यवि॑द्यवि ॥१॥
+>
+> *yacciddhí te víśo yathā prá deva varuṇa vratáṃ |*
+> *minīmási dyávidyavi ||1||*
 
-*yac cid dhi te viśo yathā pra deva varuṇa vratam | minīmasi dyavi-dyavi || 1 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a, Oct 28); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> यत् । चित् । हि । ते । विशः । यथा । प्र । देव । वरुण । व्रतम् ॥ मिनीमसि । द्यविऽद्यवि ॥ १ ॥
+> यत् । चित् । हि । ते । विशः । यथा । प्र । देव । वरुण । व्रतं । मिनीमसि । द्यविऽद्यवि ॥१॥
 
-*yat | cit | hi | te | viśaḥ | yathā | pra | deva | varuṇa | vratam || minīmasi | dyavi-dyavi || 1 ||*
+> *yat | cit | hi | te | viśaḥ | yathā | pra | deva | varuṇa | vrataṃ | minīmasi | dyavi-dyavi ‖1‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 296)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> हे वरुण यथा लोके विशः प्रजाः कदाचित्प्रमादं कुर्वन्ति तथा वयमपि ते तव संबन्धि यच्चिद्धि यदेव किंचिद्व्रतं कर्म द्यवि द्यवि प्रतिदिनं प्र मिनीमसि प्रमादेन हिंसितवन्तः । तदसि व्रतं प्रमादपरिहारेण सांगं कुर्विति शेषः ॥ यथा । लित्स्वरेणाद्युदात्तत्वे प्राप्ते यथेति पादान्ते । फि. ४-१२ । इति सर्वानुदात्तत्वम् । मिनीमसि । मीञ् हिंसायाम् । इदन्तो मसिः । क्र्यादिभ्यः श्ना । मीनातेर्निगमे । पा. ६-४-११ । इति ह्रस्वत्वम् । ईहल्यघोः । पा. ६-४-११३ । इति ईकारः । सति शिष्टस्वरबलीयस्त्वात्सन्नन्यत्र विकरणेभ्य इति वचनात्तिङ एव स्वरः शिष्यते । यद्वृत्तयोगान्निघाताभावः ॥
+> हे वरुण यथा लोके विशः प्रजाः कदाचित्प्रमादं कुर्वंति तथा वयमपि ते तव संबंधि यच्चिद्धि यदेव किंचिद्व्रतं कर्म द्यवि द्यवि प्रतिदिनं प्र मिनीमसि प्रमादेन हिंसितवंतः । तदपि व्रतं प्रमादपरिहारेण सांगं कुर्विति शेषः ॥ यथा । लित्स्वरेणाद्युदात्तत्वे प्राप्ते । यथेति पादांते । फि. ४-१७ । इति सर्वानुदात्तत्वं । मिनीमसि । मीञ् हिंसायां । इदंतो मसिः । क्र्यादिभ्यः श्ना । मीनातेर्निगमे । पा. ७-३-८१ । इति ह्रस्वत्वं । ई हल्यघोरितीकारः । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति वचनात्तिङ एव स्वरः शिष्यते । यद्वृत्तयोगान्निघाताभावः ॥
 
-*he varuṇa yathā loke viśaḥ prajāḥ kadācit pramādaṃ kurvanti tathā vayam api te tava saṃbandhi yac cid dhi yad eva kiṃcid vrataṃ karma dyavi dyavi pratidinaṃ pra minīmasi pramādena hiṃsitavantaḥ | tad asi vrataṃ pramādaparihāreṇa sāṅgaṃ kurv iti śeṣaḥ || yathā | litsvareṇādyudāttatve prāpte yatheti pādānte | phi. 4-12 | iti sarvānudāttatvam | minīmasi | mīñ hiṃsāyām | idanto masiḥ | kryādibhyaḥ śnā | mīnāter nigame | pā. 6-4-11 | iti hrasvatvam | īhalyaghoḥ | pā. 6-4-113 | iti īkāraḥ | sati śiṣṭasvarabalīyastvāt sann anyatra vikaraṇebhya iti vacanāt tiṅa eva svaraḥ śiṣyate | yadvṛttayogān nighātābhāvaḥ ||*
+> *he varuṇa yathā loke viśaḥ prajāḥ kadācitpramādaṃ kurvaṃti tathā vayamapi te tava saṃbaṃdhi yacciddhi yadeva kiṃcidvrataṃ karma dyavi dyavi pratidinaṃ pra minīmasi pramādena hiṃsitavaṃtaḥ | tadapi vrataṃ pramādaparihāreṇa sāṃgaṃ kurviti śeṣaḥ ‖ yathā | litsvareṇādyudāttatve prāpte | yatheti pādāṃte | phi. 4-17 | iti sarvānudāttatvaṃ | minīmasi | mīñ hiṃsāyāṃ | idaṃto masiḥ | kryādibhyaḥ śnā | mīnāternigame | pā. 7-3-81 | iti hrasvatvaṃ | ī halyaghoritīkāraḥ | sati śiṣṭasvarabalīyastvamanyatra vikaraṇebhya iti vacanāttiṅa eva svaraḥ śiṣyate | yadvṛttayogānnighātābhāvaḥ ‖*
 
-**Translation:** "O Varuṇa! As in the world the *viśaḥ* — people — at times commit carelessness, so we too, whatever (*yac cid dhi*) of your *vrata* — of your rite — we diminish (*pra minīmasi*; we harm through carelessness) day by day (*dyavi-dyavi*): [do you] perform that rite fully, through the removal of the carelessness — this is to be supplied. *Yathā*: though the first-syllable acute would come from the *lit* rule, [the word] *yathā* at the end of the pāda is wholly anudātta by Phiṭ 4-12. *Minīmasi*: *mīñ hiṃsāyām* ['to harm']; *masi* with *i*; *śnā* after the *kryādi* class; shortening by P. 6-4-11 [*mīnāter nigame*]; *ī* by P. 6-4-113 [*īhalyaghoḥ*]; the verb's accent remains; no lowering since *yat* precedes." *(Grammar pages 297–298, noted briefly: the words treated are* yathā *[*thāl* after *yad* in the sense of manner, P. 5-3-23 *prakāravacane thāl*; the case-ending status by P. 1-4-17 *svādiṣv asarvanāmasthāne*? as printed *prāgiśo vibhaktiḥ* P. 1-4-… ; *yad* → *ya*, P. 7-2-102 *tyadādīnām aḥ*; the accent by *lit* is first-syllable acute but Phiṭ 4-12 *yatheti pādānte* makes it anudātta at the pāda-end] and* minīmasi *[*mīñ hiṃsāyām* with *śnā* of the *kryādi* class; *mas* → *masi*, P. 3-4-… *id-anto masiḥ* (P. 7-1-46); the shortening of the *ī* of *mī* — P. 6-4-11? and the Vedic *ī* for *ā* of the *śnā* by P. 6-4-113 *īhalyaghoḥ*; the *śnā* is the *sat*-*śiṣṭa* accent-bearer by the rule *sati śiṣṭasvaraḥ*; hence the verb's own accent; no lowering after *yat*, P. 8-1-66]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: फि. ४-१७, the last digit the flat-footed 7, the same glyph as the 7 of ७-३-८१ on the next line (the old text read 4-12); पा. ७-३-८१ (the old text had 6-4-11, not printed). The old text's* तदसि *and* बलीयस्त्वात्सन्नन्यत्र *are printed* तदपि *and* बलीयस्त्वमन्यत्र*; the print has no number for* ई हल्यघोः *here.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 296)* **(हे) वरुण देव ((he) varuṇa deva)** — O god Varuṇa | **विशः यथा (viśaḥ yathā)** — like the people [at times] | **वयम् (vayam)** — we too | **ते (te)** — your | **यत् चित् हि (yat cit hi)** — whatever | **व्रतम् (vratam)** — rite | **द्यविद्यवि (dyavidyavi)** — daily | **प्र मिनीमसि (pra minīmasi)** — we mar by ignorance [make deficient].
+*Gist:* O Varuṇa, as people in the world are at times careless, so we too, day by day, mar whatever rite of yours we perform; make that rite complete by removing the lapse.
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! Just as the people of the world err at times, so we too, in the rites done daily for you, make mistakes through ignorance. Set right such defects so that our rite is done completely.
+**॥ Prati-padārthaḥ ॥** **वरुण (varuṇa)** — O god Varuṇa | **विशः यथा (viśaḥ yathā)** — as (the people of the world) (at times) make mistakes, we, being mere humans, (we too) | **ते (te)** — your (meant for you) | **यच्चिद्धि (yaccid dhi)** — whatever | **व्रतं (vrataṃ)** — the rite (in the rite) | **द्यविद्यवि (dyavidyavi)** — every day | **प्र मिनीमसि (pra minīmasi)** — we err through ignorance (set right that deficiency).
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥** O god Varuṇa, as the people of the world by nature err at times, so we too: if every day we cause some deficiency through ignorance in the rite performed for you, set it right and make our rite be accomplished in full.
+
+### Page 297 — Rik 1: English, Special Topics, grammar
+
+**॥ English Translation ॥** *(as printed)*
 
 > O Varuna, inasmuch as all people commit errors so do we; daily we cause imperfections to be made in your worships.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 297)* **विशः यथा** — as people (or common people) make mistakes, so do we; that is natural. **मिनीमसि** — *pramādena hiṃsitavantaḥ*: through carelessness, without knowing, not deliberately, we err; that is, in the rite of praising you we cause some deficiency. **द्यविद्यवि** — every day.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**विशः यथा (viśaḥ yathā)** — as people, or common folk, make mistakes, so do we. That is natural.
+
+**मिनीमसि (minīmasi)** — *pramādena hiṃsitavantaḥ*: through carelessness, unknowingly, not deliberately, we err; that is, in the rite of praising you we cause some deficiency.
+
+**द्यविद्यवि (dyavidyavi)** — every day.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; every number zoom-read at 450 dpi, v3a)*
+
+**यथा (yathā)** — by "प्रकारवचने थाल्" (Pā. Sū. 5-3-23) *thāl* after *yad*; by "प्राग्दिशो विभक्तिः" (Pā. Sū. 5-3-1) it is called *vibhakti*, so by "त्यदादीनामः" (Pā. Sū. 7-2-102) the stem takes *a*; *yathā*. "लिति" would make it initially acute, but by "यथेति पादान्ते" (Phi. Sū. 85, as printed here; the bhāṣya gives फि. ४-१७) it stands at the end of the pāda and is wholly anudātta.
+
+**मिनीमसि (minīmasi)** — *mīñ hiṃsāyām*, kryādi; first plural *mas*, augment *i* by "इदन्तो मसि" (Pā. Sū. 7-1-46); *śnā* by "क्र्यादिभ्यः श्ना" (Pā. Sū. 3-1-81); in *mīnāmasi* the *ā* of *śnā* becomes *ī* by "ई हल्यघोः" (Pā. Sū. 6-4-113); the root's *ī* is shortened in the Veda before a *śit* suffix by "मीनातेर्निगमे" (Pā. Sū. 7-3-81): *minīmasi*. The suffix's accent would set aside the root's, and the *śnā*, coming last, would set aside that, but by "सतिशिष्टस्वरबलीयस्त्वं अन्यत्र विकरणेभ्यः" (Vā. 3650) this priority does not hold for vikaraṇas, so the *tiṅ*'s accent, being *sati-śiṣṭa*,
+
+### Page 298 (upper) — Rik 1: grammar (end)
+
+is initially acute: the *a* after *m* is udātta. Because the *yad*-word (*yathā*) stands before, by "यद्वृत्तान्नित्यम्" (Pā. Sū. 8-1-66; the print quotes it as ಯದ್ವೃತ್ತಯೋಗಾನ್ನಿತ್ಯಂ) the *nighāta* of the verb is barred. ॥१॥ *(A printed ornament follows.)*
 
 ---
 
