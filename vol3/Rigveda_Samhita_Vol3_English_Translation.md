@@ -6812,38 +6812,78 @@ one who is praised by many.
 
 ---
 
-### Pages 280–283 — Sūkta 24, Rik 12
+### Page 280 (lower) — Sūkta 24, Rik 12
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तदिन्नक्तं तद्दिवा मह्यमाहुस्तदयं केतो हृद आ वि चष्टे ।
-> शुनःशेपो यमह्वद्गृभीतः सो अस्मान्राजा वरुणो मुमोक्तु ॥ १२ ॥
+> तदिन्नक्तं॒ तद्दिवा॒ मह्य॑माहु॒स्तद॒यं केतो॑ हृ॒द आ [accent ?]
+> वि च॑ष्टे ।
+> शु॒नःशे॒पो यमह्व॑द्गृभी॒तः सो अ॒स्मान्राजा॒ वरु॑-
+> णो मुमोक्तु ॥१२॥
 
-*tad in naktaṃ tad divā mahyam āhus tad ayaṃ keto hṛda ā vi caṣṭe | śunaḥśepo yam ahvad gṛbhītaḥ so asmān rājā varuṇo mumoktu || 12 ||*
+> *tadinnakta̱ṃ taddivā̱ mahya̭māhu̱stada̱yaṃ keto̭ hṛ̱da ā*
+> *vi ca̭ṣṭe |*
+> *śu̱naḥśe̱po yamahva̭dgṛbhī̱taḥ so a̱smānrājā̱ varṷ-*
+> *ṇo mumoktu ||12||*
+>
+> *tadinnaktaṃ taddivā máhyam āhustádayáṃ ketó hṛdá ā* [accent ?]
+> *ví caṣṭe |*
+> *śunáḥ śepó yamáhvad gṛbhītáḥ so asmā́n rājā váru-*
+> *ṇo mumoktu ||12||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* आ*,* चष्टे *and* वरु-*. In this verse every anudātta stroke is printed as a double bar, and I have taken each as one anudātta mark; flagged [accent ?] on line 1, where the bar under* क्तं *of* तदिन्नक्तं *(not under* न*) and the svarita over the last syllable of* केतो *are recorded exactly as the print shows them.)*
 
-> तत् । इत् । नक्तम् । तत् । दिवा । मह्यम् । आहुः । तत् । अयम् । केतः । हृदः । आ । वि । चष्टे ॥ शुनःशेपः । यम् । अह्वत् । गृभीतः । सः । अस्मान् । राजा । वरुणः । मुमोक्तु ॥ १२ ॥
+### Page 281 — Rik 12: Pada, bhāṣya, word-meanings (beginning)
 
-*tat | it | naktam | tat | divā | mahyam | āhuḥ | tat | ayam | ketaḥ | hṛdaḥ | ā | vi | caṣṭe || śunaḥśepaḥ | yam | ahvat | gṛbhītaḥ | saḥ | asmān | rājā | varuṇaḥ | mumoktu || 12 ||*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 281)*
+> तत् । इत् । नक्तं । तत् । दिवा । मह्यं । आहुः । तत् । अयं । केतः । हृदः । आ । वि । चष्टे ॥ शुनःशेपः । यं । अह्वत् । गृभीतः । सः । अस्मान् । राजा । वरुणः । मुमोक्तु ॥१२॥
 
-> तदित्थेव वरुणविषयं स्तोत्रं नक्तं रात्रौ मह्यं शुनःशेपायाहुः । कर्तव्यत्वेनाभिज्ञाः कथयन्ति । तथा दिनेऽपि तदेवाहुः । हृदो मदीयमनसो निष्पन्नोऽयं केतः प्रज्ञाविशेषोऽपि तदेव कर्तव्यत्वेना वि चष्टे । सर्वतो विशेषेण प्रकाशयति । गृभीतो गृहीतो यूपे बद्धः शुनःशेप एतन्नामको जनो यं वरुणमह्वत् आहूतवान् स वरुणो राजास्मान् शुनःशेपान्मुमोक्तु । बन्धान्मुक्तं करोतु ॥ मह्यम् । जयि चेत्याद्युदात्तत्वम् । आहुः । ब्रूञ् व्यक्तायां वाचि । ब्रुवः पञ्चानामादित आहो ब्रुवः (पा. ३-४-८४) । इति । ऊस्यपदान्तात् (पा. ६-१-९६) इति पररूपत्वम् । हृदः । पद्दन्नोमास्हृन्निशसन् … (पा. ६-१-६३) इत्यादिना हृदयशब्दस्य हृदादेशः । ऊडिदंपदादीति पञ्चम्या उदात्तत्वम् । शुनःशेपः । शुन इव शेपो यस्येति समासे शुनःशेपपुच्छलाङ्गूलेषु संज्ञायां षष्ठ्या अलुक् कर्तव्यः । (पा. ६-३-२१) इत्यलुक् । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते उभे वनस्पत्यादिषु (पा. ६-२-१४०) इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । अह्वत् । ह्वेञ् स्पर्धायां … लुङि … लिसिचिह्वश्च । (पा. ३-१-५३) इति च्लेरङादेशः । आतो लोप इटि च । (पा. ६-४-६४) इत्याकारलोपः । आडागम उदात्तः । यद्वृत्तयोगादनिघातः । गृभीतः । ग्रहोर्भ इति भत्वम् । सो अस्मान् । प्रकृत्यान्तःपादमव्यपरे । पा. ६-१-११५ । इति प्रकृतिभावः । मुमोक्तु । बहुलं छन्दसीति विकरणस्य श्लुः ॥
+> *tat | it | naktaṃ | tat | divā | mahyaṃ | āhuḥ | tat | ayaṃ | ketaḥ | hṛdaḥ | ā | vi | caṣṭe ‖ śunaḥśepaḥ | yaṃ | ahvat | gṛbhītaḥ | saḥ | asmān | rājā | varuṇaḥ | mumoktu ‖12‖*
 
-*tad itthaiva varuṇaviṣayaṃ stotraṃ naktaṃ rātrau mahyaṃ śunaḥśepāyāhuḥ | kartavyatvenābhijñāḥ kathayanti | tathā dine 'pi tad evāhuḥ | hṛdo madīyamanaso niṣpanno 'yaṃ ketaḥ prajñāviśeṣo 'pi tad eva kartavyatvenā vi caṣṭe | sarvato viśeṣeṇa prakāśayati | gṛbhīto gṛhīto yūpe baddhaḥ śunaḥśepa etannāmako jano yaṃ varuṇam ahvat āhūtavān sa varuṇo rājāsmān śunaḥśepān mumoktu | bandhān muktaṃ karotu || mahyam | jayi cety ādyudāttatvam | āhuḥ | brūñ vyaktāyāṃ vāci | bruvaḥ pañcānām ādita āho bruvaḥ (pā. 3-4-84) | iti | uṣyapadāntāt (pā. 6-1-96) iti pararūpatvam | hṛdaḥ | paddannomāshṛnniśasan … (pā. 6-1-63) ity ādinā hṛdayaśabdasya hṛdādeśaḥ | ūḍidaṃpadādīti pañcamyā udāttatvam | śunaḥśepaḥ | śuna iva śepo yasyeti samāse śunaḥśepapucchalāṅgūleṣu saṃjñāyāṃ ṣaṣṭhyā aluk kartavyaḥ (pā. 6-3-21) ity aluk | pūrvapadaprakṛtisvaratve prāpte ubhe vanaspatyādiṣu (pā. 6-2-140) iti pūrvottarapadayor yugapat prakṛtisvaratvam | ahvat | hveñ spardhāyām … luṅi … lisicihvaś ca (pā. 3-1-53) iti cler aṅādeśaḥ | āto lopa iṭi ca (pā. 6-4-64) ity ākāralopaḥ | āḍāgama udāttaḥ | yadvṛttayogād anighātaḥ | gṛbhītaḥ | grahor bha iti bhatvam | so asmān | prakṛtyāntaḥpādam avyapare | pā. 6-1-115 | iti prakṛtibhāvaḥ | mumoktu | bahulaṃ chandasīti vikaraṇasya śluḥ ||*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**Translation:** "Just so, they tell me, Śunaḥśepa, by night [that] hymn on Varuṇa — those who know what is to be done say it; likewise by day they say that very thing. This *ketaḥ* — this special knowledge — produced from my heart also shows it, as to be done, clearly on every side. Śunaḥśepa, seized and bound to the post, whom (*yam*) [i.e. Varuṇa] he invoked (*ahvat*): may that king Varuṇa release us — release us Śunaḥśepas from bondage. *Mahyam*: acute on the first syllable by *jayi ca*. *Āhuḥ*: *brūñ vyaktāyāṃ vāci*; the substitute *āh* by P. 3-4-84; *pararūpa* by P. 6-1-96. *Hṛdaḥ*: *hṛd* for *hṛdaya* by P. 6-1-63; the ablative's acute. *Śunaḥśepaḥ*: 'whose *śepa* is like a dog's'; *aluk* of the genitive by P. 6-3-21; both members keep their own accent by P. 6-2-140 [*ubhe vanaspatyādiṣu*]. *Ahvat*: *hveñ spardhāyām*; *luṅ*, *aṅ* for *cli* by P. 3-1-53; loss of *ā* by P. 6-4-64; the *āṭ* augment is acute; no lowering because of the *yat*-connection. *Gṛbhītaḥ*: *bha* for *ha* in the root *grah*. *So asmān*: *prakṛtibhāva* by P. 6-1-115. *Mumoktu*: *śluḥ* by *bahulaṃ chandasi*." *(Grammar pages 281–284, noted briefly — the print gives a long Vyākaraṇa-prakriyā here: the words treated are* mahyam *[*asmad* + *ṅe*, with *mahya* substituted for the stem by P. 7-2-95 *tubhyamahyau ṅayi*; *am* for *ṅe* and the vowel-sandhi P. 6-1-107 *ami pūrvaḥ*; the long exposition of how *ṅe* becomes *ya* and *am*],* āhuḥ *[*brū* → *āh* in five forms by P. 3-4-84, 'the five of the *laṭ* parasmaipada *ti, tas, jhi, sip, thas*', so *āha, āhatuḥ, āhuḥ*; *jhi* → *us*; P. 6-1-96 *usy apadāntāt* gives *pararūpa*],* hṛdaḥ *[*hṛdaya* → *hṛd* by P. 6-1-63 *pad-dan-no-mās-hṛn-niś-asan-yūṣan-doṣan-yakan-śakan-udan-āsan-chasprabhṛtiṣu*; the ablative *as*; *visarga*; the accent],* śunaḥśepaḥ *[a compound: *śunaḥ śepa iva śepo yasya* — *aluk* by P. 6-3-21 so that the genitive *śunaḥ* is kept; the text lists *śunaḥśepa*, *śunaḥpuccha*, *śunolāṅgūla* as names (*saṃjñā*); the accent by P. 6-2-140 *ubhe vanaspatyādiṣu yugapat* — both members keep their accents, so two acutes are heard],* ahvat *[*hveñ*, *luṅ*; *aṅ* in place of *cli* by P. 3-1-53; the loss of *ā* by P. 6-4-64; the *aṭ* augment is acute],* gṛbhītaḥ *[*graha upādāne* + *kta*; *saṃprasāraṇa* P. 6-1-15/16 *grahijyā…*; *iṭ* by P. 7-2-35 and long *ī* by P. 7-2-37 *grahoʼliṭi dīrghaḥ*; *ha* → *bha* by the Vedic rule *hṛgrahor bhaś chandasi*],* so asmān *[*prakṛtibhāva* of the *o* before the short *a*: P. 6-1-115 *prakṛtyāntaḥpādam avyapare*, so there is no *pūrvarūpa*] and* mumoktu *[*muñc* of the *tudādi* class; *loṭ* 3rd singular → *tu* by P. 3-4-86 *eruḥ*; *śa* would be the *vikaraṇa* by P. 3-1-77, but *śluḥ* by P. 2-4-76 *bahulaṃ chandasi*; doubling and *halādiḥ śeṣaḥ*; guṇa with *kutva*]; numerals as read, pointers only.)*
+*As printed: मह्यं । ङयि चेत्याद्युदात्तत्वं (the print's ङ/ञ glyph); पा. ३-४-८४; पा. ६-१-६३ (read); the number after* संज्ञायां षष्ठ्या अलुग्वक्तव्यः *is printed with a stray dot (पा. ६-३-[?]); पा. ६-२-१४०; पा. ३-१-५३; पा. ६-४-६४; झेरुसादेशः (the glyph for* झ*).*
 
-**॥ Prati-padārthaḥ ॥** *(p. 281–282)* **तत् इत् (tat it)** — that very [praise of Varuṇa] | **नक्तम् (naktam)** — by night | **मह्यम् (mahyam)** — to me [Śunaḥśepa] | **आहुः (āhuḥ)** — [those who know the duty] say | **दिवा (divā)** — by day | **तत् (tat)** — that very [praise] | **आहुः (āhuḥ)** — they say | **हृदः (hṛdaḥ)** — in my mind | **अयम् केतः (ayaṃ ketaḥ)** — this knowledge | **तत् (tat)** — that [duty] | **आ वि चष्टे (ā vi caṣṭe)** — shows clearly | **गृभीतः (gṛbhītaḥ)** — seized [bound to the post] | **शुनःशेपः (śunaḥśepaḥ)** — Śunaḥśepa | **यम् (yam)** — whom [Varuṇa] | **अह्वत् (ahvat)** — has invoked | **सः (saḥ)** — that | **राजा वरुणः (rājā varuṇaḥ)** — king Varuṇa | **अस्मान् (asmān)** — us [Śunaḥśepa] | **मुमोक्तु (mumoktu)** — may release [from bondage].
+> तदित्तदेव वरुणविषयं स्तोत्रं नक्तं रात्रौ मह्यं शुनःशेपायाहुः । कर्तव्यत्वेनाभिज्ञाः कथयंति । तथा दिवापि तदेवाहुः । हृदो मदीयमनसो निष्पन्नोऽयं केतः प्रज्ञाविशेषोऽपि तदेव कर्तव्यत्वेना वि चष्टे । सर्वतो विशेषेण प्रकाशयति । गृभीतो गृहीतो यूपे बद्धः शुनःशेप एतन्नामको जनो यं वरुणमह्वत् आहूतवान् स वरुणो राजास्मान् शुनःशेपास्मान्मोक्तु । बंधान्मुक्तं करोतु ॥ मह्यं । ङयि चेत्याद्युदात्तत्वं । आहुः । ब्रुवः पंचानां । पा. ३-४-८४ । इति ब्रूञो लटि झेरुसादेशो धातोराहादेशश्च । हृदः । पद्दन्नित्यादिना । पा. ६-१-६३ । हृदयशब्दस्य हृदादेशः । ऊडिदंपदादीति पंचम्या उदात्तत्वं । शुनःशेपः । शुन इव शेपो यस्येति समासे शुनःशेपपुच्छलांगूलेषु संज्ञायां षष्ठ्या अलुग्वक्तव्यः । पा. ६-३-[?] । इत्यलुक् । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते उभे वनस्पत्यादिषु । पा. ६-२-१४० । इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं । अह्वत् । ह्वेञो लुङि लिपिसिचिह्वश्च । पा. ३-१-५३ । इति च्लेरङादेशः । आतो लोप इटि च । पा. ६-४-६४ । इत्याकारलोपः । अडागम उदात्तः । यद्वृत्तयोगादनिघातः । गृभीतः । हृग्रहोर्भ इति भत्वं । सो अस्मान् । प्रकृत्यांतःपादमिति प्रकृतिभावः । मुमोक्तु । बहुलं छंदसीति विकरणस्य श्लुः ॥
 
-**॥ Bhāvārthaḥ ॥** Those who know say to me, Śunaḥśepa, that the praise of Varuṇa is to be made by night and by day. My own mind, too, clearly holds this idea. May that king Varuṇa, invoked by me, Śunaḥśepa, bound to the post, release me from bondage.
+> *tadittadeva varuṇaviṣayaṃ stotraṃ naktaṃ rātrau mahyaṃ śunaḥśepāyāhuḥ | kartavyatvenābhijñāḥ kathayaṃti | tathā divāpi tadevāhuḥ | hṛdo madīyamanaso niṣpanno 'yaṃ ketaḥ prajñāviśeṣo 'pi tadeva kartavyatvenā vi caṣṭe | sarvato viśeṣeṇa prakāśayati | gṛbhīto gṛhīto yūpe baddhaḥ śunaḥśepa etannāmako jano yaṃ varuṇamahvat āhūtavān sa varuṇo rājāsmān śunaḥśepāsmānmoktu | baṃdhānmuktaṃ karotu ‖ mahyaṃ | ṅayi cetyādyudāttatvaṃ | āhuḥ | bruvaḥ paṃcānāṃ | pā. 3-4-84 | iti brūño laṭi jherusādeśo dhātorāhādeśaśca | hṛdaḥ | paddannityādinā | pā. 6-1-63 | hṛdayaśabdasya hṛdādeśaḥ | ūḍidaṃpadādīti paṃcamyā udāttatvaṃ | śunaḥśepaḥ | śuna iva śepo yasyeti samāse śunaḥśepapucchalāṃgūleṣu saṃjñāyāṃ ṣaṣṭhyā alugvaktavyaḥ | pā. 6-3-[?] | ityaluk | pūrvapadaprakṛtisvaratve prāpte ubhe vanaspatyādiṣu | pā. 6-2-140 | iti pūrvottarapadayoryugapatprakṛtisvaratvaṃ | ahvat | hveño luṅi lipisicihvaśca | pā. 3-1-53 | iti cleraṅādeśaḥ | āto lopa iṭi ca | pā. 6-4-64 | ityākāralopaḥ | aḍāgama udāttaḥ | yadvṛttayogādanighātaḥ | gṛbhītaḥ | hṛgrahorbha iti bhatvaṃ | so asmān | prakṛtyāṃtaḥpādamiti prakṛtibhāvaḥ | mumoktu | bahulaṃ chaṃdasīti vikaraṇasya śluḥ ‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Varuṇa-praise is what the knowing ones tell me, Śunaḥśepa, to do, by night and by day; the knowledge born in my heart makes the same clear as a duty. May King Varuṇa, whom I called when bound to the post, free us from the bond. The grammatical tail notes *mahyam* (initial acute), *āhuḥ* (*brū* → *āh*, *jhi* → *us*), *hṛdaḥ* (*hṛdaya* → *hṛd* by "pād-dan…", Pā. 6-1-63 as read), *śunaḥśepaḥ* (*alug* of the genitive; both members keep their own accent by Pā. 6-2-140, as read), *ahvat* (*luṅ*, *aṅ* for *cli*, Pā. 3-1-53 as read; loss of *ā*, Pā. 6-4-64; *aṭ* udātta; no lowering because of the relative), *gṛbhītaḥ* (*bha* for *ha*), *so asmān* (*pragṛhya*, no sandhi), *mumoktu* (*śluḥ*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**तदित् (tadit)** — that very (praise concerning Varuṇa) | **नक्तं (naktaṃ)** — at night | **मह्यं (mahyaṃ)** — (to Śunaḥśepa) to me | **आहुः (āhuḥ)** — (those who know it as a duty) say | **तथा (tathā)** — (likewise) | **दिवा (अपि) (divā (api))** — by day too | **तत् (एव) (tat (eva))** — that very | **आहुः (āhuḥ)** — (they say) | **हृदः (hṛdaḥ)** — in my mind (born) | **अयं केतः (ayaṃ ketaḥ)** — this knowledge | **आ वि चष्टे (ā vi caṣṭe)** — makes clear (as a duty)
+
+### Page 282 — Rik 12: word-meanings (end), overall sense, English, Special Topics, grammar
+
+**॥ Prati-padārthaḥ ॥** *(continued)*
+
+**गृभीतः (gṛbhītaḥ)** — seized (bound to the post) | **शुनःशेपः (śunaḥśepaḥ)** — (this man) called Śunaḥśepa | **यं (yaṃ)** — which | **वरुणं (varuṇaṃ)** — Varuṇa | **अह्वत् (ahvat)** — has called | **सः वरुणः राजा (saḥ varuṇaḥ rājā)** — that king Varuṇa | **अस्मान् (asmān)** — us (Śunaḥśepa) | **मुमोक्तु (mumoktu)** — (from bondage) may release.
+
+**॥ Bhāvārthaḥ ॥**
+
+Those who know tell me, Śunaḥśepa, that I should do Varuṇa's praise by night and by day. My mind too makes this very matter clear. May Varuṇa, called by me, Śunaḥśepa, who am bound, release me.
+
+**॥ English Translation ॥** *(as printed)*
 
 > This (your praise) is what they have told me at night, this in the day-time; this knowledge speaks to my heart; may that king Varuna whom Sunashepa, invoked when fettered liberate us.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 282)* **तत् इत्** — that very thing, i.e. the matter of Varuṇa. **तत् अयं केतः हृदे आ वि चष्टे** — this matter is fixed in my mind; here *ketaḥ* means a special knowledge, understanding. **शुनःशेपः यम् अह्वत् सः** — Varuṇa, whom I, named Śunaḥśepa, am calling. **गृभीतः** — *gṛhītaḥ*: seized so as to be tied to the sacrificial post — I, Śunaḥśepa. **अस्मान् राजा वरुणः मुमोक्तु** — may king Varuṇa, thus invoked by me, release us from the bondage of the sacrificial post.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**तत् इत् (tat it)** — that very thing, that very matter of Varuṇa.
+
+**तत् अयं केतः हृद आ वि चष्टे (tat ayaṃ ketaḥ hṛda ā vi caṣṭe)** — this matter is fixed in my mind. *Ketaḥ* here means a particular kind of knowledge, awareness.
+
+**शुनःशेपः यं अह्वत् सः (śunaḥśepaḥ yaṃ ahvat saḥ)** — that Varuṇa whom I, the one named Śunaḥśepa, am calling.
+
+**गृभीतः (gṛbhītaḥ)** — *gṛhītaḥ*; I, Śunaḥśepa, seized in order to be bound to the sacrificial post.
+
+**अस्मान् राजा वरुणः मुमोक्तु (asmān rājā varuṇaḥ mumoktu)** — may King Varuṇa, called by me, free us (me) from this bondage of the sacrificial post, release us.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+
+**मह्यम् (mahyam)** — after the word *asmad*, when the fourth case singular is intended, the suffix *ṅe*; "ङेप्रथमयोरम्" gives *am* for it (the print gives the sūtra by name, no number); "तुभ्यमह्यौ ङयि" (Pā. Sū. 7-2-95, as read) gives, in the fourth singular, the substitute *mahya* for the stem *asmat* up to its *ma* (as the print says: *maparyantakke*); "शेषे लोपः" drops the remaining *ad*; *mahya* + *am*, "अमि पूर्वः" gives the earlier form: *mahyam*.
 
 ---
 
