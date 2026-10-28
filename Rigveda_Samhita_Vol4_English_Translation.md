@@ -4594,15 +4594,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 (continued, p. 273) does not come here; since this latter is a special rule, it is an exception to the former, and so when a vowel-initial suffix follows, the former rule operates."
 - **parvataḥ**: after *parva*, the suffix *ta* in the sense of *matup*. Rik 7 ends here (*|| 7 ||*).
 
-### Rik 37.8 (pp. 273–275, PDF 287–289)
+### Rik 37.8 (pp. 273–276, PDF 288–291)
 
-**Saṃhitā-pāṭha** *(p. 273; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 273)*
 
-> **येषामज्मेषु पृथिवी जुजुर्वाँ इव विश्पतिः ।**
-> **भिया यामेषु रेजते ॥ ८ ॥**
+> ये॒षाम॒ज्मे॑षु पृथि॒वी जु॑जु॒र्वाँ इ॑व वि॒श्पतिः॑ ।
+> भि॒या यामे॑षु॒ रेज॑ते ॥ ८ ॥
 
-*yeṣām ajmeṣu pṛthivī jujurvām̐ iva viśpatiḥ |*
-*bhiyā yāmeṣu rejate || 8 ||*
+*yeṣā́m ajméṣu pṛthivī́ jujurvā́m̐ iva viśpátiḥ |*
+*bhiyā́ yā́meṣu réjate || 8 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The anusvāra-sign of "jujurvām̐" is printed as a dot over the* rvā*.)*
 
 **Pada-pāṭha** *(p. 273)*
 
@@ -4612,17 +4614,19 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *yeṣām | ajmeṣu | pṛthivī | jujurvān-iva | viśpatiḥ ||*
 *bhiyā | yāmeṣu | rejate || 8 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 273–274; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 273–274, in full, with its grammatical tail)*
 
-> हे मरुतो येषां युष्माकं यामेषु गमनेष्वज्मेषु क्षेपकेषु सत्सु पृथिवी भूमिः रेजते कम्पते । तत्र दृष्टान्तः । जुजुर्वाँ इव विश्पतिः । यथा वयोहानिरोगादिना जीर्णः प्रजापालको राजा वैरिभयोत्कम्पते तद्वत् ॥ अज्मेषु । अज गतिक्षेपणयोः । बहुलग्रहणादौणादिको मन् । अजेर्व्यघञपोः । पा. २-४-५६ [as read] । इति वीभावो न भवति । वलादावार्धधातुके विकल्प इष्यते । का. २-४-५६-२ [?] । इति वचनात् । नित्त्वादाद्युदात्तत्वम् । जुजुर्वान् । ज्याष् वयोहानौ । लिटः क्वसुः । बहुलं छन्दसि । पा. ७-१-१०३ [as read] । इत्युत्वम् । अभ्यासहलादिशेषौ । वस्वेकाजाद्घसामिति नियमादिडागमाभावः । ऋच्छत्यृताम् । पा. ७-४-११ । इति गुणो हलि चेति दीर्घत्वं च संज्ञापूर्वको विधिरनित्य इति वचनान्न भवति । विशां पतिर्विश्पतिः । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । भिया । सावेकाच इति विभक्तेरुदात्तत्वं । यामेषु । यमु उपरमे । भावे घञ् । कर्षात्वत इति घञोऽन्तोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वम् । रेजते । रेजृ कम्पने । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः ॥
+> हे मरुतो येषां युष्माकं यामेषु गमनेष्वज्मेषु क्षेपकेषु सत्सु पृथिवी भूमिः रेजते कम्पते । तत्र दृष्टान्तः । जुजुर्वाँ इव विश्पतिः । यथा वयोहानिरोगादिना जीर्णः प्रजापालको राजा वैरिभयोत्कम्पते तद्वत् ॥ अज्मेषु । अज गतिक्षेपणयोः । बहुलग्रहणादौणादिको मन् । अजेर्व्यघञपोः । पा. २-४-५६ । इति वीभावो न भवति । वलादावार्धधातुके विकल्प इष्यते । का. २-४-५६-२ । इति वचनात् । नित्त्वादाद्युदात्तत्वम् । जुजुर्वान् । ज्याष् वयोहानौ । लिटः क्वसुः । बहुलं छन्दसि । पा. ७-१-१०३ । इत्युत्वम् । अभ्यासहलादिशेषौ । वस्वेकाजाद्घसामिति नियमादिडागमाभावः । ऋच्छत्यॄताम् । पा. ७-४-११ । इति गुणो हलि चेति दीर्घत्वं च संज्ञापूर्वको विधिरनित्य इति वचनान्न भवति । विशां पतिर्विश्पतिः । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । भिया । सावेकाच इति विभक्तेरुदात्तत्वं । यामेषु । यमु उपरमे । भावे घञ् । कर्षात्वत इति घञोऽन्तोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वम् । रेजते । रेजृ कम्पने । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः ॥
 
-*he maruto yeṣāṃ yuṣmākaṃ yāmeṣu gamaneṣv ajmeṣu kṣepakeṣu satsu pṛthivī bhūmiḥ rejate kampate | tatra dṛṣṭāntaḥ | jujurvām̐ iva viśpatiḥ | yathā vayohānirogādinā jīrṇaḥ prajāpālako rājā vairibhayotkampate tadvat || ajmeṣu | aja gatikṣepaṇayoḥ | bahulagrahaṇād auṇādiko man | ajer vyaghañapoḥ | pā. 2-4-56 [as read] | iti vībhāvo na bhavati | valādāv ārdhadhātuke vikalpa iṣyate | kā. 2-4-56-2 [?] | iti vacanāt | nittvād ādyudāttatvam | jujurvān | jyāṣ vayohānau | liṭaḥ kvasuḥ | bahulaṃ chandasi | pā. 7-1-103 [as read] | ity utvam | abhyāsahalādiśeṣau | vasvekājāḍghasām iti niyamād iḍāgamābhāvaḥ | ṛcchatyṛtām | pā. 7-4-11 | iti guṇo hali ceti dīrghatvaṃ ca saṃjñāpūrvako vidhir anitya iti vacanān na bhavati | viśāṃ patir viśpatiḥ | patyāv aiśvarya iti pūrvapadaprakṛtisvare prāpte parādiś chandasi bahulam ity uttarapadādyudāttatvam | bhiyā | sāvekāca iti vibhakter udāttatvaṃ | yāmeṣu | yamu uparame | bhāve ghañ | karṣātvata iti ghañor 'ntodāttatve prāpte vṛṣādiṣu pāṭhād ādyudāttatvam | rejate | rejṛ kampane | adupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | yadvṛttayogād anighātaḥ ||*
+*he maruto yeṣāṃ yuṣmākaṃ yāmeṣu gamaneṣvajmeṣu kṣepakeṣu satsu pṛthivī bhūmiḥ rejate kampate | tatra dṛṣṭāntaḥ | jujurvā~ iva viśpatiḥ | yathā vayohānirogādinā jīrṇaḥ prajāpālako rājā vairibhayotkampate tadvat ‖ ajmeṣu | aja gatikṣepaṇayoḥ | bahulagrahaṇādauṇādiko man | ajervyaghañapoḥ | pā. 2-4-56 | iti vībhāvo na bhavati | valādāvārdhadhātuke vikalpa iṣyate | kā. 2-4-56-2 | iti vacanāt | nittvādādyudāttatvam | jujurvān | jyāṣ vayohānau | liṭaḥ kvasuḥ | bahulaṃ chandasi | pā. 7-1-103 | ityutvam | abhyāsahalādiśeṣau | vasvekājādghasāmiti niyamādiḍāgamābhāvaḥ | ṛcchatyṝtām | pā. 7-4-11 | iti guṇo hali ceti dīrghatvaṃ ca saṃjñāpūrvako vidhiranitya iti vacanānna bhavati | viśāṃ patirviśpatiḥ | patyāvaiśvarya iti pūrvapadaprakṛtisvare prāpte parādiśchandasi bahulamityuttarapadādyudāttatvam | bhiyā | sāvekāca iti vibhakterudāttatvaṃ | yāmeṣu | yamu uparame | bhāve ghañ | karṣātvata iti ghaño 'ntodāttatve prāpte vṛṣādiṣu pāṭhādādyudāttatvam | rejate | rejṛ kampane | adupadeśāllasārvadhātukānudāttatve dhātusvaraḥ | yadvṛttayogādanighātaḥ ‖*
 
-*(The root is printed* jyāṣ*; it is the root* jyā*, "to grow old", with an indicatory* ṣ*. The rule-numbers marked "as read" are small and not secure.)*
+*(The root is printed* jyāṣ*, the root* jyā *"to grow old" with an indicatory* ṣ*. The tail runs on to p. 274 from "…niyamād iḍāgamābhāvaḥ".)*
 
 **Translation:** "O Maruts, *yeṣām* — of you whose — *yāmeṣu* — goings — being *ajmeṣu* — throwers [= violent] — *pṛthivī*, the earth, *rejate* — trembles. The illustration is *jujurvām̐ iva viśpatiḥ*: as a king, the protector of his people, worn out by age, loss of strength, disease and the like, trembles through fear of enemies, so [the earth]."
 
 **Grammar within the bhāṣya** *(pp. 273–274, characterized)*: *ajmeṣu* (the Uṇādi suffix *man*, by the word *bahulam*; the substitution of *vī* for *aj* does not occur; it is optional before a *valādi* *ārdhadhātuka*; *nit*, so first-syllable acute); *jujurvān* (the root *jyā*, *vayohānau*; *liṭ* → *kvasu*; the Vedic *u*; the reduplicate cut down; no *iṭ* by *vasvekājāḍghasām*; the *guṇa* and the lengthening that *ṛcchatyṛtām* and *halica* would give do not arise, since a rule that depends on a technical term is not constant); *viśpatiḥ* (*viśāṃ patiḥ*; the first-member accent that *patyāv aiśvarye* would give is set aside by *parādiś chandasi bahulam*: first-syllable acute for the second member); *bhiyā* (the ending acute by *sāvekācaḥ…*); *yāmeṣu* (*yamu uparame*, *bhāve ghañ*; first-syllable acute by the *vṛṣādi* listing, in place of the final-acute of *karṣātvato ghañaḥ*); *rejate* (*rejṛ kampane*; the root accent; no lowering because the relative is connected).
+
+### Page 274
 
 **Pratipadārtha** *(p. 274)* — "**yeṣām** — (O Maruts) which your; **yāmeṣu** — goings; **ajmeṣu** — [that throw all down] with violence; **jujurvān iva** — like [a king] with a body decayed by age and disease; **viśpatiḥ** — the king, protector of the people; **bhiyā** — through fear (as he trembles); **pṛthivī** — the earth; **rejate** — trembles."
 
@@ -4633,16 +4637,23 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 274–275**
 - **ajmeṣu** = *aja gatikṣepaṇayoḥ*: "in your goings, or by your goings: that is, when you come near, blowing terribly."
 - **jujurvān iva** = *jyā vayohānau*: "like a king decayed by age, old, grown old with age: who, unable to fight powerful enemies, trembles for fear of them."
+
+### Page 275
+
 - **viśpatiḥ** = *viśāṃ prajānāṃ patiḥ*: "the protector of the people, the king."
 - **yāmeṣu** = *yamu uparame*: "from the goings that come near; that is, when [they] have come near."
 
-**Vyākaraṇa-prakriyā** *(pp. 275–276, PDF 289–290 — grammar pages, noted briefly)*
-- **ajmeṣu** (p. 275): root *aja gatikṣepaṇayoḥ*; "by the word *bahulam* in *uṇādayo bahulam* the Uṇādi suffix *man* comes"; *ajer vyaghañapoḥ* — अजेर्व्यघञपोः — [Pā. 2-4-56, as read]: *vī* is substituted for *aj* before an *ārdhadhātuka*, except before *ghañ* and *ap*; "here, from the sūtra *vā liṭ* [Pā. 2-4-55, as read], the word *vā* ('optionally') is carried on; and so we resort to the *vyavasthitavibhāṣā* — the fixed option: in an option there are two parts, presence (*bhāva*) and absence (*abhāva*); in some places the operation applies only to the presence part, in some only to the absence part, and in others to both"; "so, when *ghañ* or *ap* follows, only the absence part holds (no *vī*); before *lyuṭ* and before *valādi* *ārdhadhātuka* [suffixes] both parts hold; elsewhere the presence part: this is established [the print adds that both the Mahābhāṣya and the Śekhara state that the words *aghañapoḥ* need not be said in this sūtra]. In the present case *man* is a *valādi* *ārdhadhātuka*; here, the *vī*-substitution being optional, it does not come. Being *nit*, [the word] is first-syllable acute."
-- **jujurvān**: root *jyā* [*jyāṣ*, as printed] *vayohānau*; *liṭ* → *kvasu*; *bahulaṃ chandasi* — बहुलं छन्दसि — [Pā. 7-1-103, as read]: *u* [for the vowel] comes variably in the Veda: *u*, then *raparatva*: *jur + vas*; *vasvekājāḍghasām* — वस्वेकाजाद्घसाम् — no *iṭ* by the restriction; doubling; loss of the *r* of the reduplicate; *jujur + vas*; *halica* — हलि च — [Pā. 8-2-77]: lengthening of the penultimate *ik* of a base ending in *r* or *v*, and the *guṇa* that *ṛcchatyṛtām* teaches [for the *ṛ*], would be expected; but, taking the rule *saṃjñāpūrvako vidhir anityaḥ* ("a rule that has a technical term as its antecedent is not constant"), these do not arise here.
-- **viśpatiḥ**: *viśāṃ patiḥ*; *patyāv aiśvarye* — पत्यावैश्वर्ये — [Pā. 6-2-18, as read]: the first member keeps its natural accent in a *tatpuruṣa* with *pati* in the sense of lordship; but this is set aside by *parādiś chandasi bahulam* — परादिश्छन्दसि बहुलम् — [Pā. 6-2-199, as read]: the second member is first-syllable acute.
+**Vyākaraṇa-prakriyā** *(pp. 275–276, PDF 290–291 — grammar pages, noted briefly)*
+- **ajmeṣu** (p. 275): root *aja gatikṣepaṇayoḥ*; "by the word *bahulam* in *uṇādayo bahulam* the Uṇādi suffix *man* comes"; *ajer vyaghañapoḥ* — अजेर्व्यघञपोः — (Pā. 2-4-56): *vī* is substituted for *aj* before an *ārdhadhātuka*, except before *ghañ* and *ap*; "here, from the sūtra *vā liṭi* (Pā. 2-4-55), the word *vā* ('optionally') is carried on; and so we resort to the *vyavasthitavibhāṣā* — the fixed option: in an option there are two parts, presence (*bhāva*) and absence (*abhāva*); in some places the operation applies only to the presence part, in some only to the absence part, and in others to both"; "so, when *ghañ* or *ap* follows, only the absence part holds (no *vī*); before *lyuṭ* and before *valādi* *ārdhadhātuka* [suffixes] both parts hold; elsewhere the presence part: this is established [the print adds that both the Mahābhāṣya and the Śekhara state that the words *aghañapoḥ* need not be said in this sūtra]. In the present case *man* is a *valādi* *ārdhadhātuka*; here, the *vī*-substitution being optional, it does not come. Being *nit*, [the word] is first-syllable acute."
+- **jujurvān**: root *jyā* [*jyāṣ*, as printed] *vayohānau*; *liṭ* → *kvasu*; *bahulaṃ chandasi* — बहुलं छन्दसि — (Pā. 7-1-103): *u* [for the vowel] comes variably in the Veda: *u*, then *raparatva*: *jur + vas*; *vasvekājāḍghasām* — वस्वेकाजाद्घसाम् — no *iṭ* by the restriction; doubling; loss of the *r* of the reduplicate; *jujur + vas*; *hali ca* — हलि च — (Pā. 8-2-77): lengthening of the penultimate *ik* of a base ending in *r* or *v*, and the *guṇa* that *ṛcchatyṛtām* teaches [for the *ṛ*], would be expected; but, taking the rule *saṃjñāpūrvako vidhir anityaḥ* ("a rule that has a technical term as its antecedent is not constant"), these do not arise here.
+- **viśpatiḥ**: *viśāṃ patiḥ*; *patyāv aiśvarye* — पत्यावैश्वर्ये — (Pā. 6-2-18): the first member keeps its natural accent in a *tatpuruṣa* with *pati* in the sense of lordship; but this is set aside by *parādiś chandasi bahulam* — परादिश्छन्दसि बहुलम् — (Pā. 6-2-199): the second member is first-syllable acute.
 - **bhiyā**: *sāvekācas tṛtīyādir vibhaktiḥ* — the ending is acute.
-- **yāmeṣu** (pp. 275–276): *yamu uparame*; *bhāve ghañ*, *upadhā-vṛddhi*: a *ghañ*-ending word; *karṣātvato ghañor 'nta udāttaḥ* — कर्षात्वतो घञोऽन्त उदात्तः — [Pā. 6-1-159, as read] would make it final-acute; but since *yāma* [is listed in the] *vṛṣādi* group, *vṛṣādīnāṃ ca* gives first-syllable acute.
-- **rejate** (p. 276): root *rejṛ kampane*, with *śap* standing after an *anupadeśa* [*anudātta*-marked] root, so *tāsyanudāttenṅid…*: the *lasārvadhātuka* is unaccented; the root's accent stays; the relative being connected, there is no wholly-unaccented accent. Rik 8 ends here (*|| 8 ||*).
+- **yāmeṣu** (pp. 275–276): *yamu uparame*; *bhāve ghañ*, *upadhā-vṛddhi*: a *ghañ*-ending word; *karṣātvato ghañor 'nta udāttaḥ* — कर्षात्वतो घञोऽन्त उदात्तः — (Pā. 6-1-159) would make it final-acute;
+
+### Page 276
+
+(continued, p. 276) but since *yāma* is read in the *vṛṣādi* group, *vṛṣādīnāṃ ca* gives first-syllable acute.
+- **rejate** (p. 276): root *rejṛ kampane*; *śap* being an *adupadeśa* [an *a*-final element], the *te* after it is unaccented by *tāsyanudāttet…*, so the root's accent stays; the relative being connected, there is no wholly-unaccented accent. Rik 8 ends here (*|| 8 ||*).
 
 ### Rik 37.9 (pp. 276–278, PDF 290–292)
 
