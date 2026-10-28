@@ -9433,31 +9433,37 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 459)*
 
-> आ व इन्द्रं क्रिविं यथा वाजयन्तः शतक्रतुम् ।
-> मंहिष्ठं सिञ्च इन्दुभिः ॥ १ ॥
+> आ व॒ इन्द्रं॒ क्रिविं॑ यथा वाज॒यन्तः॑ श॒तक्र॑तुं ।
+> मंहि॑ष्ठं सिञ्च॒ इन्दु॑भिः ॥ १ ॥
 
-> *ā va indraṃ kriviṃ yathā vājayantaḥ śatakratum |*
-> *maṃhiṣṭhaṃ siñca indubhiḥ ‖ 1 ‖*
+> *ā va índraṃ kríviṃ yathā vājayántaḥ śatákratuṃ |*
+> *máṃhiṣṭhaṃ siñca índubhiḥ || 1 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> आ । वः । इन्द्रम् । क्रिविम् । यथा । वाजऽयन्तः । शतऽक्रतुम् ।
-> मंहिष्ठम् । सिञ्चे । इन्दुऽभिः ॥ १ ॥
+> आ । वः । इन्द्रं । क्रिविं । यथा । वाजऽयन्तः । शतऽक्रतुं ।
+> मंहिष्ठं । सिञ्चे । इन्दुऽभिः ॥ १ ॥
 
-> *ā | vaḥ | indram | krivim | yathā | vāja 'yantaḥ | śata 'kratum |*
-> *maṃhiṣṭham | siñce | indu 'bhiḥ ‖ 1 ‖*
+> *ā | vaḥ | indraṃ | kriviṃ | yathā | vāja 'yantaḥ | śata 'kratuṃ |*
+> *maṃhiṣṭhaṃ | siñce | indu 'bhiḥ ‖ 1 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 459)*
 
-> वाजयन्तोऽन्नमिच्छन्तो वयं शुनःशेपा हे ऋत्विग्यजमानाः वो युष्माकं सम्बन्धिनमिममिन्द्रमिन्दुभिः सोमैरासिञ्चे । सर्वतः सिञ्चामहे । तर्पयामः । कीदृशम् । शतक्रतुं शतसंख्याककर्मोपेतं मंहिष्ठमतिशयेन प्रवृद्धम् । सेचने दृष्टान्तः । यथा येन प्रकारेण क्रिविमवटं जलेन पूरयन्ति तद्वत् । क्रिविशब्दो वप्रः [?] … चतुर्दशसु कूपनामसु क्रिविः कूपः सूद इति पठितम् [?] ।
+*As printed: क्रिविशब्दो वप्रिः (so printed; the sense of* वप्रिः *here is unclear to me); उ. ४-५६ (the grammar page, p. 461, prints ४-४६); फि. ४-१७ (the last digit is the flat-footed glyph also used for 7 in पा. ७-४-३७ on p. 461; the grammar page prints फि. सू. ८५).*
 
-> *vājayanto 'nnamicchanto vayaṃ śunaḥśepā he ṛtvigyajamānāḥ vo yuṣmākaṃ sambandhinamimamindramindubhiḥ somairāsiñce | sarvataḥ siñcāmahe | tarpayāmaḥ | kīdṛśam | śatakratuṃ śatasaṃkhyākakarmopetaṃ maṃhiṣṭhamatiśayena pravṛddham | secane dṛṣṭāntaḥ | yathā yena prakāreṇa krivimavaṭaṃ jalena pūrayanti tadvat | kriviśabdo vapraḥ [?] … caturdaśasu kūpanāmasu kriviḥ kūpaḥ sūda iti paṭhitam [?] |*
+> वाजयन्तोऽन्नमिच्छन्तो वयं शुनःशेपा हे ऋत्विग्यजमाना वो युष्माकं संबन्धिनमिममिन्द्रमिन्दुभिः सोमैरासिञ्चे । सर्वतः सिञ्चामहे । तर्पयामः । कीदृशम् । शतक्रतुं शतसंख्याककर्मोपेतं मंहिष्ठमतिशयेन प्रवृद्धम् । सेचने दृष्टान्तः । यथा येन प्रकारेण क्रिविमवटं जलेन पूरयन्ति तद्वत् । क्रिविशब्दो वप्रिः । काटुरित्यादिषु चतुर्दशसु कूपनामसु क्रिविः कूपः सूद इति पठितम् ॥ क्रिविम् । कृती छेदने । कृन्तत इति क्रिविः । क्रिविघृष्विच्छविस्थवीत्यादौ । उ. ४-५६ । क्विन्प्रत्ययान्तो निपातितः । अत एव तशब्दलोपः । नित्त्वादाद्युदात्तत्वम् । यथा । यथेति पादान्ते । फि. ४-१७ । इति सर्वानुदात्तत्वम् । वाजयन्तः । वाजमात्मन इच्छन्तः । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येतीत्वदीर्घत्वयोर्निषेधः । अश्वाघस्यादिति पुनर्दीर्घविधानाज्ज्ञापकात् । मंहिष्ठम् । महि वृद्धौ । अतिशयेन मंहिता मंहिष्ठः । तुश्छन्दसि । पा. ५-३-५९ । इति तृजन्तादिष्ठन्प्रत्ययः । तुरिष्ठेमेयःसु । पा. ६-४-१५४ । इति तृलोपः । इष्ठनो नित्त्वादाद्युदात्तत्वम् । सिञ्चे । षिचिर् क्षरणे । व्यत्ययेनैकवचनम् । शे मुचादीनामिति नुमागमः ॥
 
-*Translation:* "We, the Śunaḥśepas, desiring food [or wealth] (*vājayantaḥ*), O priests and sacrificers, pour (*ā siñce*: 'we sprinkle on all sides, we satisfy') this Indra of yours with Soma-juices (*indubhiḥ*) — Indra who has a hundred rites (*śatakratum*) and is exceedingly grown (*maṃhiṣṭham*). The illustration for the sprinkling: as one fills a well (*krivim*) with water, so. The word *krivi* is read among the fourteen names of a well: '*kriviḥ, kūpaḥ, sūdaḥ*' [?]."
+> *vājayanto 'nnamicchanto vayaṃ śunaḥśepā he ṛtvigyajamānā vo yuṣmākaṃ saṃbandhinamimamindramindubhiḥ somairāsiñce | sarvataḥ siñcāmahe | tarpayāmaḥ | kīdṛśam | śatakratuṃ śatasaṃkhyākakarmopetaṃ maṃhiṣṭhamatiśayena pravṛddham | secane dṛṣṭāntaḥ | yathā yena prakāreṇa krivimavaṭaṃ jalena pūrayanti tadvat | kriviśabdo vapriḥ | kāṭurityādiṣu caturdaśasu kūpanāmasu kriviḥ kūpaḥ sūda iti paṭhitam ‖ krivim | kṛtī chedane | kṛntata iti kriviḥ | krivighṛṣvicchavisthavītyādau | u. 4-56 | kvinpratyayānto nipātitaḥ | ata eva taśabdalopaḥ | nittvādādyudāttatvam | yathā | yatheti pādānte | phi. 4-17 | iti sarvānudāttatvam | vājayantaḥ | vājamātmana icchantaḥ | supa ātmanaḥ kyac | na chandasyaputrasyetītvadīrghatvayorniṣedhaḥ | aśvāghasyāditi punardīrghavidhānājjñāpakāt | maṃhiṣṭham | mahi vṛddhau | atiśayena maṃhitā maṃhiṣṭhaḥ | tuśchandasi | pā. 5-3-59 | iti tṛjantādiṣṭhanpratyayaḥ | turiṣṭhemeyaḥsu | pā. 6-4-154 | iti tṛlopaḥ | iṣṭhano nittvādādyudāttatvam | siñce | ṣicir kṣaraṇe | vyatyayenaikavacanam | śe mucādīnāmiti numāgamaḥ ‖*
 
-**Grammar (pp. 459, 461), noted briefly:** words treated — *krivim* (*kṛtī chedane*; an Uṇādi *kvin*, *nipātana*, Uṇ. 4-?? [?]); *yathā* (*thāl* by P. 5-3-23 *prakāravacane thāl*; *a* for the *d* of *yad* by P. 7-2-102 *tyadādīnām aḥ*); *vājayantaḥ* (*kyac* by P. 3-1-8 *supa ātmanaḥ kyac*; lengthening and its prohibition by P. 7-4-33, 7-4-35, 7-4-37 [?]; *śatṛ*, *num*); *maṃhiṣṭham* (*mahi vṛddhau*; *iṣṭhan* after *tṛc*-ending *tuś chandasi* P. 5-3-59 [?]; loss by P. 6-4-154 *turiṣṭhemeyaḥsu*); *siñce* (*ṣica kṣaraṇe*, *tudādi*; *vyatyaya* for the person/number; *s* for *ṣ*; *e* by P. 3-4-79 *ṭita ātmanepadānāṃ ṭer e*; *num* by P. 7-1-59 *śe muñcādīnām*). Numerals as read, [?].
+*Translation:* "We, the Śunaḥśepas, desiring food (*vājayantaḥ*), O priests and sacrificers, pour (*ā siñce*: 'we sprinkle on all sides, we satisfy') this Indra of yours with Soma-juices (*indubhiḥ*) — Indra who has a hundred rites (*śatakratum*) and is exceedingly grown (*maṃhiṣṭham*). The illustration for the sprinkling: as one fills a well (*krivim*) with water, so. The word *krivi* is *vapriḥ* [as printed]: among the fourteen names of a well beginning with *kāṭuḥ*, '*kriviḥ, kūpaḥ, sūdaḥ*' is read." The grammatical tail treats *krivim* (*kṛtī chedane*; *kvin*, by *nipātana* under Uṇ. 4-56, hence loss of the *t*; initial udātta as *nit*), *yathā* (all-grave at the end of a pāda, Phi. 4-17), *vājayantaḥ* (*kyac*; the *ī* and lengthening prohibited by *na chandasy aputrasya*, as the separate rule *aśvāghasyāt* shows), *maṃhiṣṭham* (*iṣṭhan* after *tṛc* by Pā. 5-3-59, loss of *tṛ* by Pā. 6-4-154) and *siñce* (singular by *vyatyaya*; *num* by *śe mucādīnām*).
 
-**Pratipadārtha** *(pp. 459–460, rendered)* — **वाजयन्तः** we who desire food; **वः** [you], the priests and sacrificers — your; **शतक्रतुम्** him who is endowed with a hundred deeds; **मंहिष्ठम्** the exceedingly grown; **इन्द्रम्** Indra; **इन्दुभिः** with Soma-juices; **यथा क्रिविम्** as a well [is filled with water]; **आ सिञ्चे** we fill all round and satisfy.
+**Pratipadārtha** *(pp. 459–460, rendered)* — **वाजयन्तः** we who desire food; **वः** [you], the priests and sacrificers — your; **शतक्रतुम्** him who is endowed with a hundred deeds; **मंहिष्ठम्** the exceedingly grown
+
+### Page 460 — Sūkta 30, Rik 1 (continued)
+
+*(Pratipadārtha continued)* **इन्द्रम्** Indra; **इन्दुभिः** with Soma-juices; **यथा क्रिविम्** as a well [is filled with water]; **आ सिञ्चे** we fill all round and satisfy.
 
 **Bhāvārtha** *(p. 460)* — We who desire food satisfy, on every side, with Soma-juices this your Indra, who has a hundred deeds and is exceedingly great, as a well is filled with water.
 
@@ -9465,7 +9471,12 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > We, desirous of wealth satisfy this your Indra who is the mightiest (among gods) and (is the performer or is praised) in a hundred sacrifices with drops of Soma-juice as a well (is filled with water).
 
-**Viśeṣa-viṣayagaḷu** *(p. 460)* — **क्रिविम्** — *kūpaḥ kātuḥ* and so on: since the word *krivi* is read among the fourteen names of a well (Nirukta 3-?? [?]), *krivi* means a well. *Krivim yathā*: as a well is filled with water, so Indra's belly is filled with Soma-juice: much Soma is prepared for Indra's drinking. **शतक्रतुम्** — *kratu* is 'act' (Nirukta 2-1 [?]) and 'wisdom' (Nirukta 3-9 [?]); hence *śatakratu* is 'one who has done a hundred mighty deeds' or 'very wise'. The Purāṇas say 'one who did a hundred sacrifices' (Indra obtained Indra's rank so); but that sense does not fit here; the sense intended is 'one who has done a hundred [mighty] deeds'. **मंहिष्ठम्** — *mahi vṛddhau*; *atiśayena maṃhitā maṃhiṣṭhaḥ*: most grown, most excellent. **वः इन्द्रम्** — 'your Indra', the Indra whom you praise: by the word *vaḥ* the speech is understood as addressed to the priests. **सिञ्चे** — *ṣicir kṣaraṇe*: we make [him] wet, fill; with *indubhiḥ*: we satisfy Indra with Soma-juices.
+**Viśeṣa-viṣayagaḷu** *(p. 460)* — **क्रिविम्** — *kūpaḥ kātuḥ* and so on: since the word *krivi* is read among the fourteen names of a well, *krivi* means a well. *Krivim yathā*: as a well is filled with water, so Indra's belly is filled with Soma-juice: much Soma is prepared for Indra's drinking. **शतक्रतुम्** — *kratu* is 'act' (Ni. 3-1) and 'wisdom' (Ni. 3-13); hence *śatakratu* is 'one who has done a hundred mighty deeds' or 'very wise'. The Purāṇas say 'one who did a hundred sacrifices' (Indra obtained Indra's rank so); but that sense does not fit here; the sense intended is 'one who has done a hundred [mighty] deeds'. **मंहिष्ठम्** — *mahi vṛddhau*; *atiśayena maṃhitā maṃhiṣṭhaḥ*: most grown, most excellent. **वः इन्द्रम्** — 'your Indra', the Indra whom you praise: by the word *vaḥ* the speech is understood as addressed to the priests. **सिञ्चे** — *ṣicir kṣaraṇe*: we make [him] wet, fill; with *indubhiḥ*: we satisfy Indra with Soma-juices.
+
+### Page 461 — Sūkta 30, Rik 1: grammar
+
+**Vyākaraṇa-prakriyā** *(p. 461, noted briefly)* — *krivim*: *kṛtī chedane*, *rudhādi*; *kvin* by *nipātana* under '*krivi ghṛṣvi chavi sthavi*' (U. sū. 4-46, as printed; the bhāṣya, p. 459, prints उ. ४-५६); loss of the *t*; initial udātta by '*ñnity ādir nityam*' (Pā. sū. 6-1-197); accusative singular. *yathā*: *thāl* by '*prakāravacane thāl*' (Pā. sū. 5-3-23); *a* for the final by '*tyadādīnām aḥ*' (Pā. sū. 7-2-102); all-grave by '*yatheti pādānte*' (Phi. sū. 85, as printed; the bhāṣya prints फि. ४-१७). *vājayantaḥ*: *kyac* by '*supa ātmanaḥ kyac*' (Pā. sū. 3-1-8); *ī* etc. due by '*kyaci ca*' (Pā. sū. 7-4-33) but barred by '*na chandasy aputrasya*' (Pā. sū. 7-4-35); '*aśvāghasyāt*' (Pā. sū. 7-4-37) as *jñāpaka*; *śatṛ*, *num* (*ugit*). *maṃhiṣṭha*: *mahi vṛddhau*, *bhvādi*; *iṣṭhan* by '*tuś chandasi*' (Pā. sū. 5-3-59); loss of *tṛ* by '*turiṣṭhemeyaḥsu*' (Pā. sū. 6-4-154); initial udātta. *siñce*: *ṣicir kṣaraṇe*, *tudādi*, *laṭ* first person plural; singular by '*vyatyayo bahulam*' (Pā. sū. 3-1-85); *s* for *ṣ*; *e* by '*ṭita ātmanepa-*' (Pā. sū. 3-4-79); *num* by '*śe mucādīnām*' (Pā. sū. 7-1-59); unaccented (*tiṅ* after a non-*tiṅ*).
+
 
 ---
 ### Pages 462–464 — Sūkta 30, Rik 2
