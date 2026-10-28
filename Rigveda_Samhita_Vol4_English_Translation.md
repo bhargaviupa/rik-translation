@@ -4475,15 +4475,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **jambhe**: root *jabhi nāśane*, *curādi*; *jabhyate = nāśyate 'nena iti jambham*, "that by which things eaten are destroyed", that is, the instrument of eating — *jambha* = mouth; *karaṇe ghañ*.
 - **vāvṛdhe** [the Saṃhitā form of *vavṛdhe*]: root *vṛdhu vṛddhau*; *liṭ*, doubling; *liṭas tajhayor eśirec*: *e*; *ur at* — उरत् — (no number printed): *a* for the *ṛ* of the reduplicate, with *raparatva*; *halādiḥ śeṣaḥ*: loss of the *r* and *dh*; *vavṛdh + e*; *kṅiti ca*: no *guṇa*; the lengthening of the reduplicate in the Saṃhitā is Vedic. Rik 5 ends here (*|| 5 ||*).
 
-### Rik 37.6 (pp. 268–270, PDF 282–284)
+### Rik 37.6 (pp. 268–270, PDF 283–285)
 
-**Saṃhitā-pāṭha** *(p. 268; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 268)*
 
-> **को वो वर्षिष्ठ आ नरो दिवश्च ग्मश्च धूतयः ।**
-> **यत्सीमन्तं न धूनुथ ॥ ६ ॥**
+> को वो॒ वर्षि॑ष्ठ॒ आ न॑रो दि॒वश्च॒ ग्मश्च॑ धूतयः ।
+> यत्सी॒मन्तं॒ न धू॑नु॒थ ॥ ६ ॥ [accent ?]
 
-*ko vo varṣiṣṭha ā naro divaś ca gmaś ca dhūtayaḥ |*
-*yat sīm antaṃ na dhūnutha || 6 ||*
+*kó vo várṣiṣṭha ā́ naro divaś ca gmáśca dhūtayaḥ |*
+*yát sīmántaṃ ná dhūnutha || 6 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: in "dhūnutha" the print has a stroke over* dhū *and an underline under* nu*, reproduced as they stand.)*
 
 **Pada-pāṭha** *(p. 268)*
 
@@ -4493,17 +4495,19 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *kaḥ | vaḥ | varṣiṣṭhaḥ | ā | naraḥ | divaḥ | ca | gmaḥ | ca | dhūtayaḥ ||*
 *yat | sīm | antam | na | dhūnutha || 6 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 268; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 268, in full, with its grammatical tail)*
 
-> दिवश्च द्युलोकस्यापि ग्मश्च भूलोकस्यापि । गौर्ग्मेति भूनामसु पठितत्वात् । धूतयः कम्पनकारिणो हे नरो नेतारो मरुतो वो युष्माकं मध्य आ समन्ताद्वर्षिष्ठो वृद्धतमः कः । यद्यस्मात्कारणात्सीं सर्वतोऽन्तं न वृक्षाग्रमिव धूनुथ चालयथ । तस्मात्कारणात्कम्पयितॄणां युष्माकं मध्ये कः प्रबल इति प्रश्नः ॥ वर्षिष्ठः । वृद्धशब्दादिष्ठनि प्रियस्थिरेत्यादिना वर्षादेशः । नित्त्वादाद्युदात्तः । ग्मः । ग्माशब्दात्षष्ठ्येकवचन आतो धातोरित्यत्र आत इति योगविभागः कर्तव्यः । का. ६-४-१४० [?] । इत्यकृत्त्वादाकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । धूतयः । धूञ् कम्पने । क्तिच्क्तौ च संज्ञायामिति क्तिच् । तितुत्रेत्यादिनेट्प्रतिषेधः । आमन्त्रितस्य चेति सर्वानुदात्तत्वम् । धूनुथ । स्वादिभ्यः श्नुः । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति वचनात्सति शिष्टोऽपि विकरणस्वरो लसार्वधातुकस्वरं न बाधते । अतस्तिज् एव स्वरः । यद्वृत्तयोगादनिघातः ॥
+> दिवश्च द्युलोकस्यापि ग्मश्च भूलोकस्यापि । गौर्ग्मेति भूनामसु पठितत्वात् । धूतयः कम्पनकारिणो हे नरो नेतारो मरुतो वो युष्माकं मध्य आ समन्ताद्वर्षिष्ठो वृद्धतमः कः । यद्यस्मात्कारणात्सीं सर्वतोऽन्तं न वृक्षाग्रमिव धूनुथ चालयथ । तस्मात्कारणात्कम्पयितॄणां युष्माकं मध्ये कः प्रबल इति प्रश्नः ॥ वर्षिष्ठः । वृद्धशब्दादिष्ठनि प्रियस्थिरेत्यादिना वर्षादेशः । नित्त्वादाद्युदात्तः । ग्मः । ग्माशब्दात्षष्ठ्येकवचन आतो धातोरित्यत्र आत इति योगविभागः कर्तव्यः । का. ६-४-१४० । इत्युक्तत्वादाकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । धूतयः । धूञ् कम्पने । क्तिच्क्तौ च संज्ञायामिति क्तिच् । तितुत्रेत्यादिनेट्प्रतिषेधः । आमन्त्रितस्य चेति सर्वानुदात्तत्वम् । धूनुथ । स्वादिभ्यः श्नुः । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति वचनात्सति शिष्टोऽपि विकरणस्वरो लसार्वधातुकस्वरं न बाधते । अतस्तिङ एव स्वरः । यद्वृत्तयोगादनिघातः ॥
 
-*divaś ca dyulokasyāpi gmaś ca bhūlokasyāpi | gaur gmeti bhūnāmasu paṭhitatvāt | dhūtayaḥ kampanakāriṇo he naro netāro maruto vo yuṣmākaṃ madhya ā samantād varṣiṣṭho vṛddhatamaḥ kaḥ | yad yasmāt kāraṇāt sīṃ sarvato 'ntaṃ na vṛkṣāgram iva dhūnutha cālayatha | tasmāt kāraṇāt kampayitṝṇāṃ yuṣmākaṃ madhye kaḥ prabala iti praśnaḥ || varṣiṣṭhaḥ | vṛddhaśabdād iṣṭhani priyasthiretyādinā varṣādeśaḥ | nittvād ādyudāttaḥ | gmaḥ | gmāśabdāt ṣaṣṭhyekavacana āto dhātor ity atra āta iti yogavibhāgaḥ kartavyaḥ | kā. 6-4-140 [?] | ity akṛttvād ākāralopaḥ | udāttanivṛttisvareṇa vibhaktir udāttatvam | dhūtayaḥ | dhūñ kampane | kticktau ca saṃjñāyām iti ktic | titutretyādineṭpratiṣedhaḥ | āmantritasya ceti sarvānudāttatvam | dhūnutha | svādibhyaḥ śnuḥ | sati śiṣṭasvarabalīyastvam anyatra vikaraṇebhya iti vacanāt sati śiṣṭo 'pi vikaraṇasvaro lasārvadhātukasvaraṃ na bādhate | atas tiṅ eva svaraḥ | yadvṛttayogād anighātaḥ ||*
+*divaśca dyulokasyāpi gmaśca bhūlokasyāpi | gaurgmeti bhūnāmasu paṭhitatvāt | dhūtayaḥ kampanakāriṇo he naro netāro maruto vo yuṣmākaṃ madhya ā samantādvarṣiṣṭho vṛddhatamaḥ kaḥ | yadyasmātkāraṇātsīṃ sarvato 'ntaṃ na vṛkṣāgramiva dhūnutha cālayatha | tasmātkāraṇātkampayitṝṇāṃ yuṣmākaṃ madhye kaḥ prabala iti praśnaḥ ‖ varṣiṣṭhaḥ | vṛddhaśabdādiṣṭhani priyasthiretyādinā varṣādeśaḥ | nittvādādyudāttaḥ | gmaḥ | gmāśabdātṣaṣṭhyekavacana āto dhātorityatra āta iti yogavibhāgaḥ kartavyaḥ | kā. 6-4-140 | ityuktatvādākāralopaḥ | udāttanivṛttisvareṇa vibhakterudāttatvam | dhūtayaḥ | dhūñ kampane | kticktau ca saṃjñāyāmiti ktic | titutretyādineṭpratiṣedhaḥ | āmantritasya ceti sarvānudāttatvam | dhūnutha | svādibhyaḥ śnuḥ | sati śiṣṭasvarabalīyastvamanyatra vikaraṇebhya iti vacanātsati śiṣṭo 'pi vikaraṇasvaro lasārvadhātukasvaraṃ na bādhate | atastiṅa eva svaraḥ | yadvṛttayogādanighātaḥ ‖*
 
 **Translation:** "*Divaḥ ca* — of the heavenly world — and *gmaḥ ca* — of the earthly world ('*gauḥ*', '*gmā*' being read among the names of the earth) — *dhūtayaḥ* — O shakers — *naraḥ* — leaders, Maruts: among you *ā* — all round — who is *varṣiṣṭhaḥ*, the greatest, the most grown? *Yat* — since you *sīm* — on all sides — *antam na dhūnutha* — shake, set in motion, as it were the tip of a tree: therefore, among you who shake, who is the mighty one? — such is the question."
 
-**Grammar within the bhāṣya** *(p. 268, characterized)*: *varṣiṣṭhaḥ* (*iṣṭhan* after *vṛddha*; *priyasthirasphirorubahulaguruvṛddha…*: *varṣi* in place of *vṛddha*; *nit*, so first-syllable acute); *gmaḥ* (sixth-case singular of *gmā*; the sūtra *āto dhātoḥ* is to be divided so that *ātaḥ* is a separate rule, as the Kāśikā [6-4-140 [?]] states: the *ā* is lost because the word is not a *kṛdanta*; the ending is acute by the *udāttanivṛtti* accent); *dhūtayaḥ* (*dhūñ kampane*; *ktic*; *titutra…*: no *iṭ*; *āmantritasya ca*: wholly unaccented); *dhūnutha* (*śnu*; the maxim that an accent remaining [*śiṣṭa*] is stronger except against *vikaraṇa*-accents — so the *vikaraṇa*'s accent does not override the *lasārvadhātuka* accent; therefore the *tiṅ* alone has the accent; no lowering, since *yat* is connected).
+**Grammar within the bhāṣya** *(p. 268, characterized)*: *varṣiṣṭhaḥ* (*iṣṭhan* after *vṛddha*; *priyasthirasphirorubahulaguruvṛddha…*: *varṣi* in place of *vṛddha*; *nit*, so first-syllable acute); *gmaḥ* (sixth-case singular of *gmā*; the sūtra *āto dhātoḥ* is to be divided so that *ātaḥ* is a separate rule, as stated (Kā. 6-4-140): the *ā* is lost on that statement; the ending is acute by the *udāttanivṛtti* accent); *dhūtayaḥ* (*dhūñ kampane*; *ktic*; *titutra…*: no *iṭ*; *āmantritasya ca*: wholly unaccented); *dhūnutha* (*śnu*; the maxim that an accent remaining [*śiṣṭa*] is stronger except against *vikaraṇa*-accents — so the *vikaraṇa*'s accent does not override the *lasārvadhātuka* accent; therefore the *tiṅ* alone has the accent; no lowering, since *yat* is connected).
 
 **Pratipadārtha** *(pp. 268–269)* — "**divaḥ ca** — of the heaven-world also; **gmaḥ ca** — of the earth-world also; **dhūtayaḥ** — [you who are] the shakers, who make both worlds tremble; **naraḥ** — O heroic Maruts; **yat** — for which reason; **sīm** — all round [on both worlds]; **antam na** — as the tip [of a tree is easily made to shake]; **dhūnutha** — you shake (for that reason, by that powerful host); **vaḥ** — among you; **ā** — such; **varṣiṣṭhaḥ** — the eldest, the most powerful; **kaḥ** — who?"
+
+### Page 269
 
 **Bhāvārtha** *(p. 269)* — "O Maruts, your prowess is beyond that of man. As easily as one can shake the top of a tree, with that same ease, without any effort, you make heaven and earth tremble. Though all of you are endowed with extraordinary strength, the strength of your leader must be greater than that of all. Who is that leader among you, of great prowess, who gives you encouragement?"
 
@@ -4511,14 +4515,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 269**
 - **varṣiṣṭhaḥ** = *vṛddhatamaḥ*: "the most strong, the one endowed with the greatest power, the chief leader, the very mighty."
-- **gmaś ca** — "of the earth. Since the word *gmā* is read among the twenty-one names of the earth beginning with *gauḥ*, *gmā* (Ni. 1-1 [?]), *gmaḥ* means 'of the earth'. It is the sixth-case singular of *gmā*."
+- **gmaś ca** — "of the earth. Since the word *gmā* is read among the twenty-one names of the earth beginning with *gauḥ*, *gmā* (Ni. 2-5 [?] as printed; the second digit read as ೫), *gmaḥ* means 'of the earth'. It is the sixth-case singular of *gmā*."
 - **dhūtayaḥ, dhūnutha** = *dhūñ kampane*: "as the swiftly blowing wind shakes trees and the like with ease, so the Marut deities are able with ease to shake the heavenly world and the earth: this is the chief sense."
 
 **Vyākaraṇa-prakriyā** *(pp. 269–270, PDF 283–284 — grammar pages, noted briefly)*
-- **varṣiṣṭha** (p. 269): "in the sense of excess, after *vṛddha*, *atiśāyane tamabiṣṭhanau* gives *iṣṭhan* [the print's letters read 'iṣman', evidently a misprint for *iṣṭhan*]; *priyasthirasphirorubahulaguruvṛddha…* — प्रियस्थिरस्फिरोरुबहुलगुरुवृद्ध… — [Pā. 6-4-157] (the sūtra is quoted only in part in the print): *varṣi* replaces *vṛddha* before *iṣṭhan* etc.; the suffix *iṣṭhan* is *nit*, hence the word is first-syllable acute."
-- **gmaḥ** (p. 270): after *gmā*, the sixth-case singular *ṅas*; *gmā + as*; *āto dhātoḥ* — आतो धातोः — [Pā. 6-4-140]: "here *āt* is divided off as a separate rule; its sense is that the *ā* which forms the end of a *bha*-named base is lost"; thereby the *ā* of *gmā* is lost; *anudāttasya ca yatrodāttalopaḥ* — the ending is acute through the *udāttanivṛtti* accent.
-- **dhūtayaḥ**: root *dhūñ kampane*, *svādi*; *ktic ktau ca saṃjñāyām*: *ktic*; *titutra…*: no *iṭ* for *ti*; *āmantritasya ca* — the eighth *adhyāya*'s [Pā. 8-1-19]: wholly unaccented.
-- **dhūnutha**: root *dhūñ*, *laṭ*, second-person plural *tha*; *svādibhyaḥ śnuḥ* — स्वादिभ्यः श्नुः — [Pā. 3-1-73]: *śnu* as the *vikaraṇa*; *dhū + nu + tha*; since the *śnu* comes at the end the accent that comes to it is *satiśiṣṭa*; the dictum *satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ* — "the *satiśiṣṭa* accent is stronger, except against the *vikaraṇas*" — means the accent from the *vikaraṇa* is not stronger; the accent of the *tiṅ* alone remains. *Yat sīmantam*: the relative *yat* is connected, so *yadvṛttānnityam* forbids the wholly-unaccented. Rik 6 ends here (*|| 6 ||*).
+- **varṣiṣṭha** (p. 269): "in the sense of excess, after *vṛddha*, *atiśāyane tamabiṣṭhanau* gives *iṣṭhan* [printed *iṣṭhan* (ಇಷ್ಠನ್)]; *priyasthirasphirorubahulaguruvṛddha…* — प्रियस्थिरस्फिरोरुबहुलगुरुवृद्ध… — (printed Pā. 6-4-57 [as printed; for 6-4-157]): *varṣi* replaces *vṛddha* before *iṣṭhan* etc.; the suffix *iṣṭhan* is *nit*, hence the word is first-syllable acute."
+
+### Page 270
+
+- **gmaḥ** (p. 270): after *gmā*, the sixth-case singular, printed *jas* [sic]; *gmā + as*; *āto dhātoḥ* — आतो धातोः — (Pā. 6-4-140): "here *āt* is divided off as a separate rule; its sense is that the *ā* which forms the end of a *bha*-named base is lost"; thereby the *ā* of *gmā* is lost; *anudāttasya ca yatrodāttalopaḥ* — the ending is acute through the *udāttanivṛtti* accent.
+- **dhūtayaḥ**: root *dhūñ kampane*, *svādi*; *ktic ktau ca saṃjñāyām*: *ktic*; *titutra…*: no *iṭ* for *ti*; *āmantritasya ca* — the eighth *adhyāya*'s (no number printed): wholly unaccented.
+- **dhūnutha**: root *dhūñ*, *laṭ*, second-person plural *tha*; *svādibhyaḥ śnuḥ* — स्वादिभ्यः श्नुः — (Pā. 3-1-73): *śnu* as the *vikaraṇa*; *dhū + nu + tha*; since the *śnu* comes at the end the accent that comes to it is *satiśiṣṭa*; the dictum *satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ* — "the *satiśiṣṭa* accent is stronger, except against the *vikaraṇas*" — means the accent from the *vikaraṇa* is not stronger; the accent of the *tiṅ* alone remains. *Yat sīmantam*: the relative *yat* is connected, so *yadvṛttānnityam* forbids the wholly-unaccented. Rik 6 ends here (*|| 6 ||*).
 
 ### Rik 37.7 (pp. 270–, PDF 284–)
 
