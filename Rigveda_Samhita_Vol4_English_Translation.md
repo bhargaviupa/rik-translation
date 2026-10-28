@@ -8522,15 +8522,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.7 (pp. 516–, PDF 530–)
+### Rik 44.7 (pp. 516–518, PDF 530–532; better scan PDF 531–533)
 
-**Saṃhitā-pāṭha** *(p. 516; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 516)*
 
-> **होतारं विश्ववेदसं सं हि त्वा विश इन्धते ।**
-> **स आ वह पुरुहूत प्रचेतसोऽग्ने देवाँ इह द्रवत् ॥ ७ ॥**
+> **होता॑रं वि॒श्ववे॑दसं॒ सं हि त्वा॒ विश॑ इ॒न्धते॑ ।**
+> **स आ व॑ह पुरुहूत॒ प्रचे॑त॒सोऽग्ने॑ दे॒वाँ इ॒ह द्र॒वत् ॥ ७ ॥**
 
-*hotāraṃ viśvavedasaṃ saṃ hi tvā viśa indhate |*
-*sa ā vaha puruhūta pracetaso 'gne devām̐ iha dravat || 7 ||*
+*hótāraṃ viśvávedasaṃ sáṃ hi tvā víśa indháte |*
+*sa ā́ vaha puruhūta prácetasó 'gne devā́m̐ ihá dravát || 7 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 516)*
 
@@ -8550,25 +8552,29 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 *hotāraṃ homaniṣpādakaṃ viśvavedasaṃ sarvajñaṃ tvām agniṃ viśaḥ prajāḥ samindhate hi | samyag dīpayanti khalu | he puruhūta bahubhir āhūtāgne sa tvaṃ pracetasaḥ prakṛṣṭajñānayuktān devān iha karmaṇi dravat kṣipram ā vaha | abhimukhyena prāpaya | dravad iti kṣipranāma | dravadoṣam iti tannāmasu pāṭhāt || viśvavedasaṃ | viśvāni vettīti viśvavedāḥ | asun | marudvṛdhāditvāt pūrvapadāntodāttatvaṃ |…*
 
-**Translation of this part:** "*Hotāram*, the accomplisher of the offering; *viśvavedasam*, all-knowing — you, Agni, the *viśaḥ*, the people, *sam indhate hi*, indeed kindle well. O *puruhūta*, [you] called by many, Agni, such as you are, *pracetasaḥ*, the gods endowed with excellent knowledge, *iha*, here in the rite, *dravat*, quickly, *ā vaha*, bring, make [them] reach [us] face to face. '*Dravat*' is a name for 'quick', since it is read among its names ('*dravadoṣam*' and so on [?]). *Viśvavedasam*: '*viśvāni vetti*'; *asun*; because it is of the *marudvṛdhādi* [group], the first member is final-acute…" *(the sentence continues on p. 517.)*
+**Translation of this part:** "*Hotāram*, the accomplisher of the offering; *viśvavedasam*, all-knowing — you, Agni, the *viśaḥ*, the people, *sam indhate hi*, indeed kindle well. O *puruhūta*, [you] called by many, Agni, such as you are, *pracetasaḥ*, the gods endowed with excellent knowledge, *iha*, here in the rite, *dravat*, quickly, *ā vaha*, bring, make [them] reach [us] face to face. '*Dravat*' is a name for 'quick', since it is read among its names (*dravadoṣam iti tannāmasu pāṭhāt*). *Viśvavedasam*: '*viśvāni vetti*'; *asun*; because it is of the *marudvṛdhādi* [group], the first member is final-acute…" *(the sentence continues on p. 517.)*
 
 ---
+
+### Page 517
 
 **Rik 44.7, continued** *(from p. 517; the Saṃhitā, Pada and the beginning of the bhāṣya are above)*
 
 **Sāyaṇa-bhāṣya, end** *(p. 517)*
 
-> **… यद्वा । वेद इति धननाम । विश्वानि वेदांसि यस्यासौ विश्ववेदा । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वं । इन्धते । ञिइन्धी दीप्तौ । श्नसोरल्लोप इत्यकारलोपः । श्नान्नलोपः । पा. ६-४-२३ [?] । प्रत्ययस्वरः । हि चेति निघातप्रतिषेधः ॥ ७ ॥**
+> **… यद्वा । वेद इति धननाम । विश्वानि वेदांसि यस्यासौ विश्ववेदा । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वं । इन्धते । ञिइन्धी दीप्तौ । श्नसोरल्लोप इत्यकारलोपः । श्नान्नलोपः । पा. ६-४-२३ । प्रत्ययस्वरः । हि चेति निघातप्रतिषेधः ॥**
 
-*… yadvā | veda iti dhananāma | viśvāni vedāṃsi yasyāsau viśvavedā | bahuvrīhau viśvaṃ saṃjñāyām iti pūrvapadāntodāttatvaṃ | indhate | ñi indhī dīptau | śnasor allopa ity akāralopaḥ | śnān nalopaḥ | pā. 6-4-23 [?] | pratyayasvaraḥ | hi ceti nighātapratiṣedhaḥ || 7 ||*
+*… yadvā | veda iti dhananāma | viśvāni vedāṃsi yasyāsau viśvavedā | bahuvrīhau viśvaṃ saṃjñāyām iti pūrvapadāntodāttatvaṃ | indhate | ñi indhī dīptau | śnasor allopa ity akāralopaḥ | śnān nalopaḥ | pā. 6-4-23 | pratyayasvaraḥ | hi ceti nighātapratiṣedhaḥ ||*
 
-**Translation of the end:** "… Or: *veda* is a name for wealth; '*viśvāni vedāṃsi yasya*', he who has all wealth: *viśvavedāḥ*; in the bahuvrīhi the first member is final-acute by *viśvaṃ saṃjñāyām*. *Indhate*: root *ñi indhī dīptau*; the loss of *a* by *śnasor allopaḥ*; the loss of *n* by *śnān nalopaḥ* [Pā. 6-4-23 [?]]; accent of the suffix; the prohibition of *nighāta* by *hi ca*."
+*(Pā. 6-4-23 zoom-checked on the better scan, PDF 532; the bhāṣya ends "॥" without a number.)*
+
+**Translation of the end:** "… Or: *veda* is a name for wealth; '*viśvāni vedāṃsi yasya*', he who has all wealth: *viśvavedāḥ*; in the bahuvrīhi the first member is final-acute by *viśvaṃ saṃjñāyām*. *Indhate*: root *ñi indhī dīptau*; the loss of *a* by *śnasor allopaḥ*; the loss of *n* by *śnān nalopaḥ* (Pā. 6-4-23); accent of the suffix; the prohibition of *nighāta* by *hi ca*."
 
 **Pratipadārtha** *(p. 517)* — "**hotāram** — [you who are] the accomplisher of the offering; **viśvavedasam** — and all-knowing; **tvā** — you; **viśaḥ** — all the people; **sam indhate hi** — it is right [to say that] they make [you] blaze well; **puruhūta** — O [you who are] called by many; **agne** — O Agni; **saḥ** — that you; **pracetasaḥ** — endowed with excellent knowledge; **devān** — the gods; **iha** — to this sacrificial rite; **dravat** — with promptness; **ā vaha** — bring [them] face to face."
 
 **Bhāvārtha** *(p. 517)* — "O Agni, since you are all-knowing and the accomplisher of the offering, all the people make you blaze well in the sacrifice. They all give you invitations. Accept their invitations and bring promptly to this rite of ours the gods endowed with excellent knowledge."
 
-**English Translation (the source's own, p. 517)** — "O Agni, the people kindle you, the all-knowing invoker ( Agani [sic] ) invoked [printed "nvoked"] by many, you bring hither, the wise gods quickly."
+**English Translation (the source's own, p. 517)** — "O Agni, the people kindle you, the all-knowing invoker ( Agni ) nvoked [sic] by many, you bring hither, the wise gods quickly."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 517**
 - **viśaḥ** — "*prajāḥ*, people, that is, priests and others who praise you in the sacrifice."
@@ -8577,8 +8583,8 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Vyākaraṇa-prakriyā** *(pp. 517–518 — grammar pages, noted briefly)*
 - **hotāram**: root *hu dānādanayoḥ*; *tṛc*; *guṇa*, *upadhādīrgha*; *am*.
-- **viśvavedasam**: "*viśvāni vetti*": root *vida jñāne*; *sarvadhātubhyo 'sun* [Uṇ. 4-[?] as read]; *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* gives the first member final-acute; or *veda* = wealth: "he whose wealth is all": a bahuvrīhi; *bahuvrīhau viśvaṃ saṃjñāyām* [Pā. 6-2-106 as read]: when a name is meant, the word *viśva* as the first member of a bahuvrīhi is final-acute.
-- **indhate**: root *ñi indhī dīptau*, *rudhādi*, *ātmanepada*; *laṭ*, *jha*; *ātmanepadeṣv nataḥ*: *at* for *jha*; *rudhādibhyaḥ śnam*; *śnasor allopaḥ* [Pā. 6-4-111 as read]: the *a* of *śna* is lost before a *kit* or *ṅit* *sārvadhātuka*; *śnān nalopaḥ* [Pā. 6-4-23 as read]: the *n* of the root, after *śna*, is lost; *ṭi* → *e* by *ṭita ātmanepadānāṃ ṭer e*; *ād ādyudāttaś ca* [as read]: since the substitute *at* is counted as in the *upadeśa* (*āyannādiṣūpadeśivadvacanaṃ svarasiddhyartham*), the *at* is first-syllable acute and by *ādyudāttaś ca* the suffix *ate* is acute; *hi ca* prohibits the wholly-unaccented. Rik 7 ends here (*|| 7 ||*).
+- **viśvavedasam**: "*viśvāni vetti*": root *vida jñāne*; *[p. 518]* *sarvadhātubhyo 'sun* (no number printed); *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* gives the first member final-acute; or *veda* = wealth: "he whose wealth is all": a bahuvrīhi; *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. 6-2-106): when a name is meant, the word *viśva* as the first member of a bahuvrīhi is final-acute.
+- **indhate**: root *ñi indhī dīptau*, *rudhādi*, *ātmanepada*; *laṭ*, *jha*; *ātmanepadeṣv nataḥ*: *at* for *jha*; *rudhādibhyaḥ śnam*; *śnasor allopaḥ* (Pā. 6-4-111): the *a* of *śna* is lost before a *kit* or *ṅit* *sārvadhātuka*; *śnān nalopaḥ* (Pā. 6-4-23): the *n* of the root, after *śna*, is lost; *ṭi* → *e* by *ṭita ātmanepadānāṃ ṭer e*; *ādyudāttaś ca*: since the substitute *at* is counted as in the *upadeśa* (*āyannādiṣūpadeśivadvacanaṃ svarasiddhyartham*), the *at* is first-syllable acute and by *ādyudāttaś ca* the suffix *ate* is acute; *hi ca* prohibits the wholly-unaccented. Rik 7 ends here (*|| 7 ||*).
 
 ---
 
