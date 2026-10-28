@@ -1762,90 +1762,104 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 
 ---
 
-### Rik 34.9 (pp. 112–116, PDF 126–130)
+### Rik 34.9 (pp. 112–116, PDF 127–131)
 
 *(This is the first of the two Triṣṭup ṛks of the sūkta, per the introduction on p. 71.)*
 
-**Saṃhitā-pāṭha** *(p. 112; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 112; Saṃhitā accents as printed; Pada unaccented)*
 
-> **क्व त्री चक्रा त्रिवृतो रथस्य क्व त्रयो वन्धुरो ये सनीळाः ।**
-> **कदा योगो वाजिनो रासभस्य येन यज्ञं नासत्योपयाथः ॥ ९ ॥**
+> क्व१ त्री च॒क्रा त्रि॒वृतो॒ रथ॑स्य॒ क्व१ त्रयो॑ व॒न्धुरो॒ ये सनी॑ळाः ।
+> क॒दा योगो॑ वा॒जिनो॒ रास॑भस्य॒ येन॑ य॒ज्ञं नास॑त्योपया॒थः ॥ ९ ॥ [accent ?]
+>
+> *kva1 trī cakrā́ trivṛ́to ráthasya kvá1 tráyo vandhúro yé sánīḷāḥ |*
+> *kadā́ yógo vājíno rā́sabhasya yéna yajñáṃ nā́satyopayātháḥ || 9 || [accent ?]*
 
-*kva trī cakrā trivṛto rathasya kva trayo vandhuro ye sanīḷāḥ |*
-*kadā yogo vājino rāsabhasya yena yajñaṃ nāsatyopayāthaḥ || 9 ||*
+(As printed: after each *kva* stands the numeral ೧ (the Saṃhitā's sign for the independent svarita), with a svarita stroke above and an underline below it; the accent of *kva* is therefore not split onto the IAST letters. In line 1 the print shows no underline under ತ್ರಿ of *trivṛto* and no stroke over *trayo*: the marks given there follow the print where seen, [accent ?] for the rest of the line's marks as a whole; no underline is visible under the ಯೋ of *yogo*.)
 
 **Pada-pāṭha** *(p. 112)*
 
-> क्व । त्री । चक्रा । त्रिऽवृतः । रथस्य । क्व । त्रयः । वन्धुरः । ये । सऽनीळाः ॥
+> क्व । त्री । चक्रा । त्रिऽवृतः । रथस्य । क्व । त्रयः । वन्धुरः । ये । सऽनीळाः ।
 > कदा । योगः । वाजिनः । रासभस्य । येन । यज्ञम् । नासत्या । उपऽयाथः ॥ ९ ॥
 
-*kva | trī | cakrā | tri-vṛtaḥ | rathasya | kva | trayaḥ | vandhuraḥ | ye | sa-nīḷāḥ ||*
+*kva | trī | cakrā | tri-vṛtaḥ | rathasya | kva | trayaḥ | vandhuraḥ | ye | sa-nīḷāḥ |*
 *kadā | yogaḥ | vājinaḥ | rāsabhasya | yena | yajñam | nāsatyā | upa-yāthaḥ || 9 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 112–113; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 112–113, in full)*
 
-> हे नासत्यावश्विनौ त्रिवृतस्त्रिसंख्याकैरश्रिभिरुपेतस्य भवदीयस्य रथस्य । ईषाद्वयं पूर्वभागे संयुज्यते । सेयमेकाश्रिः । पृष्ठभागे वियुज्यते । तत्र कोणद्वयं सम्पद्यते । ईदृशस्य रथस्य सम्बन्धिनी त्री चक्रा त्रीणि चक्राणि क्व । कुत्र स्थितानीत्यस्माभिर्न दृश्यते । ये काष्ठविशेषाः सनीळाः । नीळं गृहसदृशं रथस्योपर्युपवेशस्थानं । तेन सह वर्तन्ते इति सनीळास्ते काष्ठविशेषा वन्धुरो नीळबन्धनाधारभूतास्त्रयोऽक्षेण सहिते द्वे ईषे इत्येवं त्रिसंख्याकाः क्व । कुत्र स्थिता इत्यस्माभिर्न ज्ञायते । वाजिनो बलवतो रासभस्य भवदीयाश्वस्थानीयस्य गर्दभस्य योगो रथे योजनं कदा । कस्मिन्काले निष्पन्नमित्यस्माभिर्न दृश्यते । येन चक्रत्रयनीळकाष्ठत्रयरासभयोजनसहितेन रथेन यज्ञमस्मदीयं योगस्थानमुपयाथो युवां प्राप्नुथः । तादृशस्य रथस्येति पूर्वत्रान्वयः ॥
+> हे नासत्यावश्विनौ त्रिवृतस्त्रिसंख्याकैरश्रिभिरुपेतस्य भवदीयस्य रथस्य । ईषाद्वयं पूर्वभागे संयुज्यते । सेयमेकाश्रिः । पृष्ठभागे वियुज्यते । तत्र कोणद्वयं संपद्यते । ईदृशस्य रथस्य संबन्धीनि त्री चक्रा त्रीणि चक्राणि क्व । कुत्र स्थितानीत्यस्माभिर्न दृश्यते । ये काष्ठविशेषाः सनीळाः । नीळं गृहसदृशं रथस्योपर्युपवेशस्थानम् । तेन सह वर्तन्त इति सनीळास्ते काष्ठविशेषा वन्धुरो नीडबन्धनाधारभूतास्त्रयोऽक्षेण सहिते द्वे ईषे इत्येवं त्रिसंख्याकाः क्व । कुत्र स्थिता इत्यस्माभिर्न ज्ञायते । वाजिनो बलवतो रासभस्य भवदीयाश्वस्थानीयस्य गर्दभस्य योगो रथे योजनं कदा । कस्मिन्काले निष्पन्नमित्यस्माभिर्न दृश्यते । येन चक्रत्रयनीडकाष्ठत्रयरासभयोजनसहितेन रथेन यज्ञमस्मदीयं यागस्थानमुपयाथो युवां प्राप्नुथः । तादृशस्य रथस्येति पूर्वत्रान्वयः ॥ त्री चक्रा । उभयत्रापि शेश्छन्दसि बहुलमिति शेर्लोपः । वन्धुरः । बन्धेरौणादिक उरप्रत्ययः । वत्वं छान्दसम् । स नीळाः । वोपसर्जनस्येति सभावः ॥
 
-*he nāsatyāv aśvinau trivṛtas trisaṃkhyākair aśribhir upetasya bhavadīyasya rathasya | īṣādvayaṃ pūrvabhāge saṃyujyate | seyam ekāśriḥ | pṛṣṭhabhāge viyujyate | tatra koṇadvayaṃ sampadyate | īdṛśasya rathasya sambandhinī trī cakrā trīṇi cakrāṇi kva | kutra sthitānīty asmābhir na dṛśyate | ye kāṣṭhaviśeṣāḥ sanīḷāḥ | nīḷaṃ gṛhasadṛśaṃ rathasyopary upaveśasthānaṃ | tena saha vartante iti sanīḷās te kāṣṭhaviśeṣā vandhuro nīḷabandhanādhārabhūtās trayo 'kṣeṇa sahite dve īṣe ity evaṃ trisaṃkhyākāḥ kva | kutra sthitā ity asmābhir na jñāyate | vājino balavato rāsabhasya bhavadīyāśvasthānīyasya gardabhasya yogo rathe yojanaṃ kadā | kasmin kāle niṣpannam ity asmābhir na dṛśyate | yena cakratrayanīḷakāṣṭhatrayarāsabhayojanasahitena rathena yajñam asmadīyaṃ yogasthānam upayātho yuvāṃ prāpnuthaḥ | tādṛśasya rathasyeti pūrvatrānvayaḥ ||*
+*he nāsatyāvaśvinau trivṛtastrisaṃkhyākairaśribhirupetasya bhavadīyasya rathasya | īṣādvayaṃ pūrvabhāge saṃyujyate | seyamekāśriḥ | pṛṣṭhabhāge viyujyate | tatra koṇadvayaṃ saṃpadyate | īdṛśasya rathasya saṃbandhīni trī cakrā trīṇi cakrāṇi kva | kutra sthitānītyasmābhirna dṛśyate | ye kāṣṭhaviśeṣāḥ sanīḷāḥ | nīḷaṃ gṛhasadṛśaṃ rathasyoparyupaveśasthānam | tena saha vartanta iti sanīḷāste kāṣṭhaviśeṣā vandhuro nīḍabandhanādhārabhūtāstrayo 'kṣeṇa sahite dve īṣe ityevaṃ trisaṃkhyākāḥ kva | kutra sthitā ityasmābhirna jñāyate | vājino balavato rāsabhasya bhavadīyāśvasthānīyasya gardabhasya yogo rathe yojanaṃ kadā | kasminkāle niṣpannamityasmābhirna dṛśyate | yena cakratrayanīḍakāṣṭhatrayarāsabhayojanasahitena rathena yajñamasmadīyaṃ yāgasthānamupayātho yuvāṃ prāpnuthaḥ | tādṛśasya rathasyeti pūrvatrānvayaḥ ‖ trī cakrā | ubhayatrāpi śeśchandasi bahulamiti śerlopaḥ | vandhuraḥ | bandherauṇādika urapratyayaḥ | vatvaṃ chāndasam | sa nīḷāḥ | vopasarjanasyeti sabhāvaḥ ‖*
+
+(As printed: "वन्धुरो नीडबन्धन…" with ड, "स नीळाः" divided in the tail. The bhāṣya runs onto p. 113 at "…चक्रत्रयनीडकाष्ठत्रय…".)
 
 **Translation:** "O Nāsatyas, Aśvins: of your chariot, which is *trivṛt* — furnished with three corners (*aśri*): the two shafts (*īṣā*) are joined at the front, and that [junction] is one corner; at the back they are separated, and there two corners are formed — of such a chariot, *trī cakrā* — the three wheels — where are they? Where they stand we cannot see. Those particular timbers *sanīḷāḥ* — [the *nīḷa* is the seat on the chariot, like a house, for sitting in] — those timbers which go with the *nīḷa*, *vandhuraḥ*, the supports for the fastening of the seat, three in number [two shafts with the axle, as I read]: where are they? We do not know where they stand. *Vājinaḥ rāsabhasya* — of your strong ass, standing in the place of a horse — *yogaḥ*, the yoking to the chariot: when? At what time it has been done we do not see. By that chariot — furnished with three wheels, three timbers for the seat, and the yoking of the ass — *yajñam*, our sacrifice, *upayāthaḥ* — you two reach our place of yoking [= arrival]: of such a chariot — the connection with what went before."
 
-**Grammar within the bhāṣya** *(p. 113, characterized)*: *trī cakrā* (the *śi* is lost in both words by *śeś chandasi bahulam*); *vandhuraḥ* (root *bandha bandhane*, the Uṇādi suffix *ura*; the change of *b* to *v* is Vedic); *sanīḷāḥ* (*sa* in place of *saha* by *vopasarjanasya*).
+### Page 113
+
+(The grammatical tail: *trī cakrā* — in both words the *śi* is dropped by *śeś chandasi bahulam*; *vandhuraḥ* — the Uṇādi suffix *ura* after *bandh*, the *v* Vedic; *sanīḷāḥ* — *sa* for *saha* by *vopasarjanasya*.)
 
 **Pratipadārtha** *(p. 113)* — "**nāsatyā** — O Aśvin deities; **yena** — by which chariot; **yajñam** — to our place of sacrifice; **upayāthaḥ** — you come and arrive; **trivṛtaḥ** — [furnished] with three corners, triangular, of wood; **rathasya** — of the chariot; **trī cakrā** — three wheels; **kva** — where? **ye** — which timbers; **sanīḷāḥ** — with the seat, like a house, for sitting; **vandhuraḥ** — the supports for building [the seat]; **trayaḥ** — three [two shafts and one axle]; **kva** — where? (We do not see these); **vājinaḥ** — of the strong; **rāsabhasya** — [instead of a horse] of the ass; **kadā** — at what time; **yogaḥ** — [the ass] is yoked to your chariot (this we do not know)."
 
 **Bhāvārtha** *(p. 113)* — "O Aśvin deities, we do not see any of the parts of your chariot. Where are the three wheels of your chariot, which is triangular with three corners? The two shafts and the axle, the supports for building the seat in the chariot where one sits as in a house: where are they? And at what time do you yoke your strong ass in place of a horse to your chariot? That also we do not know. We know only that you come in that chariot to our sacrificial place."
 
-**English Translation (the source's own, p. 113)** — "Where are the wheels of the triangular car ? Where are the three beams with seats on them? when will you harness your powerful donkey (ass) to that car that you may come to this **sicrifice**.?" *(Printed so, "sicrifice" [sic], with a stray full stop after the question mark.)*
+**English Translation (the source's own, p. 113)** — "Where are the wheels of the triangular car ? Where are the three beams with seats on them? when will you harness your powerful donkey (ass) to that car that you may come to this sacrifice.?" *(The better scan reads "sacrifice" — the earlier "sicrifice" [sic] was a misreading of the old scan; the stray full stop before the question mark is printed.)*
+
+### Page 114
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 114–115**
 
-"In this mantra the ṛṣi asks three questions: Where [are the parts] of the three wheels of your chariot? Of the three corners? When will you yoke the ass in place of a horse to your chariot? Though we do not know these things, he prays that you come in your chariot to our place of sacrifice."
+"In this mantra the ṛṣi has asked three questions: where are the three wheels of your chariot? where are the corners? when do you yoke the ass (in place of a horse) to your chariot? Though we do not know any of these, he prays that you sit in your chariot and come to our sacrificial ground."
 
-- **trivṛtaḥ** = *trisaṃkhyākair aśribhir upetasya rathasya*: "of a chariot furnished with three corners: with three-cornered, i.e. having three corners, a *triangular cart* [the print's English]. It is said in the Veda that the chariot of the Aśvins is of this kind. The bhāṣyakāra has explained these three corners thus: '*īṣādvayaṃ pūrvabhāge saṃyujyate | seyam ekāśriḥ | pṛṣṭhabhāge viyujyate | tatra koṇadvayaṃ sampadyate | īdṛśasya rathasya sambandhīni trīṇi cakrāṇi kva ||*' Here 'triangular' means: two upright pieces of timber (*beams*, in the print's English) are joined at the front, and that makes one corner; behind, another timber joins the ends of those two beams, and at the back there are two corners, at the two ends. In all, the three timbers make three corners. *Three sides (beams) of the triangle form the three angles* [the print's English]. Near each *angle* is one wheel below it, so that the chariot has three wheels in all. In the middle of these three wheels there is a seat-place called *nīḷa*, on which the Aśvins sit."
+- **trivṛtaḥ** = *trisaṃkhyākair aśribhir upetasya rathasya*: "of a chariot furnished with three corners: with three-cornered, i.e. having three corners, a *trangular cart* [sic, the print's English]. It is said in the Veda that the chariot of the Aśvins is of this kind. The bhāṣyakāra has explained these three corners thus: '*īṣādvayaṃ pūrvabhāge saṃyujyate | seyam ekāśriḥ | pṛṣṭhabhāge viyujyate | tatra koṇadvayaṃ sampadyate | īdṛśasya rathasya sambandhīni trīṇi cakrāṇi kva ||*' Here 'triangular' means: two upright pieces of timber (*beams*, in the print's English) are joined at the front, and that makes one corner; behind, another timber joins the ends of those two beams, and at the back there are two corners, at the two ends. In all, the three timbers make three corners. *Three sides (beams) of the triangle form the three angles* [the print's English]. Near each *angle* is one wheel below it, so that the chariot has three wheels in all. In the middle of these three wheels there is a seat-place called *nīḷa*, on which the Aśvins sit."
+
 - **vandhuraḥ** = "the seat of a chariot; the place for sitting in a chariot: *seat in the chariot* [the print's English]. In general the seat in the Aśvins' chariot is called *tri-vandhura*. Though the word in this ṛk is *vandhura*, the sense of *tri-vandhura* must be given. For examples we give here one or two ṛks that contain this word or the word *tri-vandhura*:"
 
-> अधि वां स्थाम वन्धुरे रथे दस्रा हिरण्यये ॥ (ऋ. सं. १-१३९-४ [?])
-> यमृ [?]... [the second quotation, printed *yaśśīmañjanti pūrvyaṃ havirbhir ā vandhureva tasthatur duroṇe*, is partly unclear to me and is given as read:] *yaś (?) sīm añjanti pūrvyaṃ havirbhir ā vandhureva tasthatur duroṇe* (ṛ. saṃ. 3-[?]-[?] [?])
-> त्रिवन्धुरेण त्रिवृता सुपेशसा रथेना यातमश्विना ॥ (ऋ. सं. १-[?]-[?] [?])
-> त्रिवन्धुरेण त्रिवृता रथेन त्रिचक्रेण सुवृता यातमर्वाक् ॥ (ऋ. सं. १-[?]-[?] [?])
+> अधि वां स्थाम वन्धुरे रथे दस्रा हिरण्यये ॥ (ऋ. सं. १-१३९-४)
+> यत्सीमञ्जन्ति पूर्व्यं हविर्भिरा वन्धुरेव तस्थतुर्दुरोणे ॥ (ऋ. सं. ३-१४-३)
+> त्रिवन्धुरेण त्रिवृता सुपेशसा रथेना यातमश्विना ॥ (ऋ. सं. १-१४७-३)
+> त्रिवन्धुरेण त्रिवृता रथेन त्रिचक्रेण सुवृता यातमर्वाक् ॥ (ऋ. सं. १-११८-२)
 
-*adhi vāṃ sthāma vandhure rathe dasrā hiraṇyaye || (ṛ. saṃ. 1-139-4 [?])*
-*yaś (?) sīm añjanti pūrvyaṃ havirbhir ā vandhureva tasthatur duroṇe || (ṛ. saṃ. [reference not read])*
-*tribandhureṇa trivṛtā supeśasā rathenā yātam aśvinā || (ṛ. saṃ. [reference not read])*
-*tribandhureṇa trivṛtā rathena tricakreṇa suvṛtā yātam arvāk || (ṛ. saṃ. [reference not read])*
+*adhi vāṃ sthāma vandhure rathe dasrā hiraṇyaye ‖ (ṛ. saṃ. 1-139-4)*
+*yatsīmañjanti pūrvyaṃ havirbhirā vandhureva tasthaturduroṇe ‖ (ṛ. saṃ. 3-14-3)*
+*trivandhureṇa trivṛtā supeśasā rathenā yātamaśvinā ‖ (ṛ. saṃ. 1-147-3)*
+*trivandhureṇa trivṛtā rathena tricakreṇa suvṛtā yātamarvāk ‖ (ṛ. saṃ. 1-118-2)*
 
-*(Page 115 continues the list:)*
+### Page 115
 
-> त्रिवन्धुरो मघवा विश्वसौभगः शं न आ वक्षद्द्विपदे चतुष्पदे ॥ (ऋ. सं. १-[?]-[?] [?])
-> स पप्रथानो अभि पञ्च भूमा त्रिवन्धुरो मनसा यातु युक्तः ॥ (ऋ. सं. २-[?]-[?] [?])
-> रथो यो वां त्रिवन्धुरो हिरण्याभीशुरश्विना ॥ (ऋ. सं. ८-[?]-[?] [?])
+> त्रिवन्धुरो मघवा विश्वसौभगः शं न आ वक्षद्द्विपदे चतुष्पदे ॥ (ऋ. सं. १-१५७-३)
+> स पप्रथानो अभि पञ्च भूमा त्रिवन्धुरो मनसा यातु युक्तः ॥ (ऋ. सं. ७-६९-२)
+> रथो यो वां त्रिवन्धुरो हिरण्याभीशुरश्विना ॥ (ऋ. सं. ८-२२-५)
 
-*tribandhuro maghavā viśvasaubhagaḥ śaṃ na ā vakṣad dvipade catuṣpade || (ṛ. saṃ. 1-[?] [?])*
-*sa paprathāno abhi pañca bhūmā tribandhuro manasā yātu yuktaḥ || (ṛ. saṃ. 2-[?] [?])*
-*ratho yo vāṃ tribandhuro hiraṇyābhīśur aśvinā || (ṛ. saṃ. 8-[?] [?])*
+*trivandhuro maghavā viśvasaubhagaḥ śaṃ na ā vakṣaddvipade catuṣpade ‖ (ṛ. saṃ. 1-157-3)*
+*sa paprathāno abhi pañca bhūmā trivandhuro manasā yātu yuktaḥ ‖ (ṛ. saṃ. 7-69-2)*
+*ratho yo vāṃ trivandhuro hiraṇyābhīśuraśvinā ‖ (ṛ. saṃ. 8-22-5)*
 
-"In many ṛks such as these, the words *vandhura* and *tri-vandhura* are used. Though the word *vandhura* has been used in connexion with any deity, the word *tri-vandhura* is used only with reference to the Aśvin deities." *(The source leaves all these ṛks untranslated. My glosses, **mine and tentative**: "we mount your wide [?] chariot, golden, O Dasras"; "with the three-seated, three-cornered, well-shaped chariot come, O Aśvins"; "the three-seated lord of bounty, of all good fortune, would bring us welfare for biped and quadruped"; "the chariot of you two that is three-seated, with golden reins, O Aśvins". The reference numerals are all in small Kannada digits and are [?] or not read; the second and the last-but-one quotations are the least secure.)*
-- **yogaḥ** — "connection, joining, yoking. Here: yoking the ass to the chariot."
-- **vājino rāsabhasya** — "*vāji* means horse; *rāsabha* means ass. The words *vājino rāsabhasya* here mean putting an ass in the place of yoking a horse to the chariot. The yoking of an ass to the chariot of the Aśvins is, in general, a convention (*rūḍhi*). On this subject:"
+"In many ṛks such as these the words *vandhura* and *tri-vandhura* are used. Though the word *vandhura* is used with reference to any deity, the word *tri-vandhura* is used only with reference to the Aśvin deities." *(All seven references zoom-checked. 1-147-3 is as printed (its middle-last glyph is the flat-footed 7); the others are as printed. The source leaves these ṛks untranslated. My glosses, **mine and tentative**: "may we mount your seat, the golden chariot, O Dasras"; "whom they anoint, the ancient one, with oblations; the two stood as on a chariot-seat in the house"; "with the three-seated, three-cornered, well-shaped chariot come, O Aśvins"; "with the three-seated, three-cornered, three-wheeled, well-rolling chariot come hither"; "the three-seated, bountiful [chariot], of all good fortune, would bring us welfare for biped and quadruped"; "spreading over the five lands, the three-seated [chariot], yoked by thought, shall come"; "the three-seated chariot of yours, with golden reins, O Aśvins".)*
 
-> तद्रासभो नासत्या सहस्रमाजा यमस्य प्रधने जिगाय ॥ (ऋ. सं. १-[?]-[?] [?])
-> हरी ते युञ्जा पृषती अभूतामुपास्थाद्वाजी धुरि रासभस्य ॥ (ऋ. सं. १-[?]-[?] [?])
-> यत्रा रथस्य बृहतो निधानं विमोचनं वाजिनो रासभस्य ॥ (ऋ. सं. ३-[?]-[?] [?])
-> युञ्जाथां रासभं रथे वीड्वङ्गे वृषण्वसू ॥ (ऋ. सं. ८-[?]-[?] [?])
+- **yogaḥ** — "connection, joining, yoking; here the sense is yoking the horse (the ass) to the chariot."
+- **vājino rāsabhasya** — "*vāji* means horse; *rāsabhasya* means ass. Here the words *vājino rāsabhasya* mean yoking an ass in the place of yoking a horse to the chariot. It is the general convention (*rūḍhi*) that an ass is yoked to the chariot of the Aśvin deities. On this subject —"
 
-*tad rāsabho nāsatyā sahasram ājā yamasya pradhane jigāya || (ṛ. saṃ. 1-[?] [?])*
-*harī te yuñjā pṛṣatī abhūtām upāsthād vājī dhuri rāsabhasya || (ṛ. saṃ. 1-[?] [?])*
-*yatrā rathasya bṛhato nidhānaṃ vimocanaṃ vājino rāsabhasya || (ṛ. saṃ. 3-[?] [?])*
-*yuñjāthāṃ rāsabhaṃ rathe vīḍvaṅge vṛṣaṇvasū || (ṛ. saṃ. 8-[?] [?])*
+> तद्रासभो नासत्या सहस्रमाजा यमस्य प्रधने जिगाय ॥ (ऋ. सं. १-११६-२)
+> हरी ते युञ्जा पृषती अभूतामुपास्थाद्वाजी धुरि रासभस्य । (ऋ. सं. १-१६२-२१)
+> यत्रा रथस्य बृहतो निधानं विमोचनं वाजिनो रासभस्य ॥ (ऋ. सं. ३-५३-५)
 
-"and in the Taittirīya Saṃhitā, the Kauṣītaki Brāhmaṇa, the Śatapatha Brāhmaṇa and other mantras also [the references, in small Kannada numerals, are not reproduced because I could not read them reliably]: since the word *rāsabha* is used there in the singular, it is clear that the chariot of the Aśvins has one ass, a [kind of] horse." *(The source leaves these untranslated. My glosses, **mine and tentative**: "the ass, O Nāsatyas, won a thousand in the contest of Yama's [?] battle"; "your two spotted mares were yoked; the swift one [stood] at the yoke of the ass"; "where is the resting-place of the great chariot, the unyoking of the swift ass"; "yoke the ass to the chariot, strong-limbed, O possessors of virile wealth".)*
+*tadrāsabho nāsatyā sahasramājā yamasya pradhane jigāya ‖ (ṛ. saṃ. 1-116-2)*
+*harī te yuñjā pṛṣatī abhūtāmupāsthādvājī dhuri rāsabhasya | (ṛ. saṃ. 1-162-21)*
+*yatrā rathasya bṛhato nidhānaṃ vimocanaṃ vājino rāsabhasya ‖ (ṛ. saṃ. 3-53-5)*
 
-**Vyākaraṇa-prakriyā** *(p. 116, PDF 130 — grammar page, noted briefly)*
-- **kva**: *kimo 't* — किमोऽत् — Pā. 5-3-12: the suffix *at* after the base *kim* in the seventh case ["in what place"]; this is a *prāgdiśīya* suffix; from *prāggiśo vibhaktiḥ* — प्राग्दिशो विभक्तिः — Pā. 5-3-1 up to *dikśabdebhyaḥ saptamīpañcamīprathamābhyo digdeśakāleṣu* — दिक्शब्देभ्यः सप्तमीपञ्चमीप्रथमाभ्यो दिग्देशकालेषु — Pā. 5-3-27 [as read], the suffixes are called *vibhakti*; for them *na vibhaktau tusmāḥ* — न विभक्तौ तुस्माः — Pā. 1-3-4 forbids the *it*-name of the *t*, *s*, *m* of a *vibhakti*, so the ban applies [the print explains that the *thamu* of *idamas thamuḥ*, Pā. 5-3-24, would otherwise get *it* for its *m*, and so the *u* of *thamu* is shown to be vain, indicating that *na vibhaktau* is non-constant]; thus here *t* is *it* and dropped: *kim + a*; *kvāti* — क्वाति — Pā. 7-2-105: before *ati* [in the Veda, before *at*] *kim* becomes *kva*: *kva + a*; *titsvaritam* — Pā. 6-1-185: a suffix marked *t* is *svarita*; *ato guṇe* — Pā. 6-1-97 gives *pararūpa*; because of the *sthānivad-bhāva* it is still *svarita*.
-- **trī**, **cakrā**: after *tri* and *cakra*, *jas* is replaced by *śi* (*jaśśasoḥ śiḥ*); *śi sarvanāmasthānam* — शि सर्वनामस्थानम् — Pā. 1-1-42; *napuṃsakasya jhalacaḥ* — Pā. 7-1-72, the augment *num*; *sarvanāmasthāne cāsambuddhau* — Pā. 6-4-8, lengthening; the *śi* is lost by *śeś chandasi bahulam* — Pā. 6-1-70; the *n* by *nalopaḥ prātipadikāntasya* — Pā. 8-2-7.
-- **vandhuraḥ**: root *bandha bandhane*, *kryādi* [9th class]; the Uṇādi suffix *ura*; *b* → *v* in the Veda.
-- **sanīḷāḥ**: *nīḷena saha vartante* — *tena saheti tulyayoge* — तेन सहेति तुल्ययोगे — Pā. 2-2-28 (a *bahuvrīhi*); *nīḷa* is the seat on the chariot; *vopasarjanasya* — वोपसर्जनस्य — Pā. 6-3-82: *sa* for *saha*. Rik 9 ends here (*|| 9 ||*).
+### Page 116 [Special Topics, continued]
+
+> युञ्जाथां रासभं रथे वीड्वङ्गे वृषण्वसू ॥ (ऋ. सं. ८-८५-७)
+
+*yuñjāthāṃ rāsabhaṃ rathe vīḍvaṅge vṛṣaṇvasū ‖ (ṛ. saṃ. 8-85-7)*
+
+"— in ṛks such as these, and further in the Taittirīya Saṃhitā 4-2-1 [the middle glyph is a flat 2/7; read 2], the Kauṣītaki Brāhmaṇa 18-1, and the Śatapatha Brāhmaṇa 6-1-1-11; 6-3-1-23; 6-3-2-3; 6-4-4-3 and other mantras, the word *rāsabha* is used in the singular, so it becomes clear that the horse of the chariot of the Aśvin deities is a single ass." *(References zoom-checked. The source leaves the ṛks untranslated. My glosses, **mine and tentative**: "then the ass, O Nāsatyas, won a thousand in the race, in Yama's contest"; "your two bays were yoked, the dappled ones; the swift one stood at the pole of the ass"; "where is the resting-place of the great chariot, the unyoking of the swift ass"; "yoke the ass to the strong-limbed chariot, O possessors of virile wealth".)*
+
+**Vyākaraṇa-prakriyā** *(p. 116, grammar page — noted briefly; numerals zoom-checked)*:
+- **kva** — *kimo 't* — किमोऽत् (*kimo 't*) — Pā. 5-3-12: after *kim* in the locative the suffix *at*; this is a *prāgdiśīya* suffix: those from *prāg diśo vibhaktiḥ* — प्राग्दिशो विभक्तिः (*prāg diśo vibhaktiḥ*) — Pā. 5-3-1 up to the sūtra *dikśabdebhyaḥ…* — Pā. 5-3-27 have the name *vibhakti*, so *at* is a *vibhakti*. Then by *na vibhaktau tusmāḥ* — न विभक्तौ तुस्माः (*na vibhaktau tusmāḥ*) — Pā. 1-3-4 the *t*-class, *s* and *m* in a *vibhakti* are not *it*, so the ban on *it*-status would apply; but because in *idamas thamuḥ* — इदमस्थमुः (*idamas thamuḥ*) — Pā. 5-324 as printed [for 5-3-24] the suffix is taught as *thamu*, though *na vibhaktau* would already keep its *m* from being *it*, the *u* added to prevent *it*-status is pointless and so shows that *na vibhaktau* is not constant; hence here the *t* is *it* and is dropped and *a* remains: *kim + a*; *kv āti* — क्वाति (*kv āti*) — Pā. 7-2-105: before the suffix *at*, *kva* replaces *kim*: *kva + a*; *titsvaritam* — तित्स्वरितम् (*titsvaritam*) — Pā. 6-1-185: a suffix with the marker *t* is *svarita*, so the *a* is *svarita*; *ato guṇe* gives *pararūpa*, and by *sthānivadbhāva* it stays *svarita*.
+- **trī, cakrā** — after *tri* and *cakra*, *jas*; *jaśśasoḥ śiḥ* gives *śi*; *śi sarvanāmasthānam* — शि सर्वनामस्थानम् (*śi sarvanāmasthānam*) — Pā. 1-1-42 gives it the *sarvanāmasthāna* name; *napuṃsakasya jhalacaḥ* gives *num*; *sarvanāmasthāne ca…* lengthens the penultimate; *śeś chandasi bahulam* — Pā. 6-1-70 drops the *śi* in the Veda; *nalopaḥ prātipadikāntasya* drops the *n*.
+- **vandhuraḥ** — *bandha bandhane*, a *kryādi* root; after it the Uṇādi suffix *ura*; *v* for *b* by Vedic usage.
+- **sanīḷāḥ** — *nīḷena saha vartante*; *tena saheti tulyayoge* — तेन सहेति तुल्ययोगे (*tena saheti tulyayoge*) — Pā. 2-2-28: a *bahuvrīhi*; *nīḷa* is the seat on the chariot; *vopasarjanasya* — वोपसर्जनस्य (*vopasarjanasya*) — Pā. 6-3-82: in a *bahuvrīhi* *sa* replaces *saha*. Rik 9 ends here (*|| 9 ||*); a tailpiece ornament closes p. 116.
 
 ### Rik 34.10 (p. 117 onward, PDF 131–)
 
