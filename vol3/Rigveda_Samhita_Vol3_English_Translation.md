@@ -8541,40 +8541,69 @@ the suffix *u*; with *avasya* + *u*, by "अतो लोपः" (Pā. Sū. 6-4-
 
 ---
 
-### Pages 346–349 — Sūkta 26, Rik 1
+### Page 346 (lower) — Sūkta 26, Rik 1
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वसिष्वा हि मियेध्य वस्त्राण्यूर्जां पते ।
-> सेमं नो अध्वरं यज ॥ १ ॥
+> वसि॑ष्वा॒ हि मि॑येध्य॒ वस्त्रा॑ण्यूर्जां पते ।
+> सेमं नो॑ अध्व॒रं य॑ज ॥१॥
+>
+> *vásiṣvā hí miyedhya vástrāṇyūrjāṃ pate |*
+> *semáṃ no adhvaráṃ yaja ||1||*
 
-*vasiṣvā hi miyedhya vastrāṇy ūrjāṃ pate | semaṃ no adhvaraṃ yaja || 1 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> वसिष्व । हि । मियेध्य । वस्त्राणि । ऊर्जाम् । पते ॥ सः । इमम् । नः । अध्वरम् । यज ॥ १ ॥
+> वसिष्व । हि । मियेध्य । वस्त्राणि । ऊर्जां । पते । सः । इमं । नः । अध्वरं । यज ॥१॥
 
-*vasiṣva | hi | miyedhya | vastrāṇi | ūrjām | pate || saḥ | imam | naḥ | adhvaram | yaja || 1 ||*
+> *vasiṣva | hi | miyedhya | vastrāṇi | ūrjāṃ | pate | saḥ | imaṃ | naḥ | adhvaraṃ | yaja ‖1‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 347)*
+### Page 347 — Rik 1: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> वरुणेनाग्निस्तुतौ प्रेरितः शुनःशेप एतादिसूक्तद्वयेनाग्निमस्तौत् । तथा चाम्नायते — कं वरुण उवाचाग्निर्वै देवानां मुखं सुहृदयेतमस्मिन्नु स्तुहि । सोऽग्निं तुष्टाव । उत्तराभिर्द्वाविंशत्या (ऐ. ब्रा. ७-१६) इति । हे मियेध्य मेधस्य यज्ञस्य योग्य ऊर्जां पते अन्नानां पालकाग्ने वस्त्राण्याच्छादकानि तेजांसि वसिष्व । आच्छादय । प्रज्वलितस्तेजसा भवेत्यर्थः । हि यस्मात्तेजस्वी तस्मात्तादृशस्त्वं नोऽस्मदीयमिममध्वरं यज । निष्पादय ॥ वसिष्व । वस आच्छादने । लोट् थासः सेः । सवाभ्यां वामौ । छन्दस्युभयथेत्यर्धधातुकत्वादार्धधातुकस्येड्वलादेरितीडागमः । लसार्वधातुकानुदात्तत्वे धातुस्वरः । अन्येषामपि दृश्यत इति संहितायां दीर्घः । मियेध्य । मकार्यैकारयोर्मध्य इयाडागमश्छान्दसः । ऊर्जाम् । पते । सुबामन्त्रिते । इति पराङ्गवद्भावात् षष्ठ्यन्तमन्त्रितस्य समुदायस्याष्टमिको निघातः । सेमम् । सोऽचि लोपे चेत्पादपूरणमिति सोर्लोपः ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*varuṇenāgnistutau preritaḥ śunaḥśepa etādisūktadvayenāgnim astaut | tathā cāmnāyate — kaṃ varuṇa uvācāgnir vai devānāṃ mukhaṃ suhṛdayetam asminn u stuhi | so 'gniṃ tuṣṭāva | uttarābhir dvāviṃśatyā (ai. brā. 7-16) iti | he miyedhya medhasya yajñasya yogya ūrjāṃ pate annānāṃ pālakāgne vastrāṇy ācchādakāni tejāṃsi vasiṣva | ācchādaya | prajvalitas tejasā bhaveyety arthaḥ | hi yasmāt tejasvī tasmāt tādṛśas tvaṃ no 'smadīyam imam adhvaraṃ yaja | niṣpādaya || vasiṣva | vasa ācchādane | loṭ thāsaḥ seḥ | savābhyāṃ vāmau | chandasy ubhayatherdhadhātukatvād ārdhadhātukasyeḍvalāder itīḍāgamaḥ | lasārvadhātukānudāttatve dhātusvaraḥ | anyeṣām api dṛśyata iti saṃhitāyāṃ dīrghaḥ | miyedhya | makāryaikārayor madhya iyāḍāgamaś chāndasaḥ | ūrjām | pate | subāmantrite | iti parāṅgavadbhāvāt ṣaṣṭhyantamantritasya samudāyasyāṣṭamiko nighātaḥ | semam | so 'ci lope cet pādapūraṇam iti sor lopaḥ ||*
+> वरुणेनाग्निस्तुतौ प्रेरितः शुनःशेप एतदादिसूक्तद्वयेनाग्निमस्तौत् । तथा चाम्नायते । तं वरुण उवाचाग्निर्वै देवानां मुखं सुहृदयतमस्तं नु सुह्यथ त्वोत्स्रक्ष्याम इति सोऽग्निं तुष्टावात उत्तराभिर्द्वाविंशत्या । ऐ. ब्रा. ७-१६ । इति ॥ हे मियेध्य मेधस्य यज्ञस्य योग्य ऊर्जां पते अन्नानां पालकाग्ने वस्त्राण्याच्छादकानि तेजांसि वसिष्व । आच्छादय । प्रज्वलितस्तेजसा भवेत्यर्थः । हि यस्मात्प्रज्वलितस्तस्मात्स तादृशस्त्वं नोऽस्मदीयमिममध्वरं यज । निष्पादय ॥ वसिष्व । वस आच्छादने । लोटि थासः से । सवाभ्यां वामौ । छंदस्युभयथेत्यार्धधातुकत्वादार्धधातुकस्येड्वलादेरितीडागमः । लसार्वधातुकानुदात्तत्वे धातुस्वरः । अन्येषामपि दृश्यत इति संहितायां दीर्घः । मियेध्य । मकारैकारयोर्मध्य इयागमश्छांदसः । ऊर्जां पते । सुबामंत्रिते इति परांगवद्भावात् षष्ठ्यामंत्रितस्य समुदायस्याष्टमिको निघातः । सेमं । सोऽचि लोपे चेत्पादपूरणमिति सोर्लोपः ॥
 
-**Translation:** "Impelled by Varuṇa to praise Agni, Śunaḥśepa praised Agni with this sūkta and the one that follows. So it is handed down: 'Varuṇa said [to him], "Agni is the mouth of the gods, the kindly one; praise him now." He praised Agni with the twenty-two [riks] that follow' (Ai. Brā. 7-16). O *miyedhya* — fit for the *medha*, the sacrifice! O *ūrjāṃ pate* — protector of foods, Agni! *Vasiṣva*: put on (*vasiṣva*) the *vastrāṇi* — the covering, [i.e.] the splendours; clothe [yourself]: become blazing with splendour. *Hi* — since you are splendid, as such perform (*yaja*) this our sacrifice — bring it to completion. *Vasiṣva*: *vasa ācchādane*; *loṭ* 2nd person singular *thās* → *sva*; the *iṭ* augment before the *ārdhadhātuka* beginning with *v*; root accent remains; lengthening in the Saṃhitā. *Miyedhya*: the augment *iya* inserted between *m* and *e* is Vedic. *Ūrjāṃ pate*: the vocative's accent; the whole group is lowered by P. 8-1-… *Semam*: *sas* + *imam*, the loss of *s* before a vowel if it fills the pāda, P. 6-1-134 [*soci lope cet pādapūraṇam*]." *(Grammar pages 348–349, noted briefly: the words treated are* vasiṣva *[*vasa ācchādane*, *adādi*; *loṭ* 2nd singular *thās* → *se* by P. 3-4-80 *thāsaḥ se*; *se* → *sva* by P. 3-4-91 *savābhyāṃ vāmau*; *ārdhadhātuka* treatment of the ending by P. 3-4-114 *ārdhadhātukaṃ śeṣaḥ*, and *chandasy ubhayathā* P. 3-4-117, so that *iṭ* is added by P. 7-2-35; *śap* absent in *adādi*; *ṣatva* by P. 8-3-59; accent of the root; the lengthening *vasiṣvā* by P. 6-3-137 *anyeṣām api dṛśyate*],* miyedhya *[*medha* + *yat* in the sense of fitness by P. 4-4-… *medhya*; the Vedic *iya* inserted between *m* and *e*, whence *miyedhya*; in the vocative the shortening by *ṅasi-*… the final is *yat* with *tit*-accent],* ūrjāṃ pate *[*pate* is a vocative singular, so it has the name *āmantrita*; P. 2-1-… *subāmantrite parāṅgavat svare* makes the preceding subanta an inseparable part of the vocative; thus *ūrjāṃ* is also treated as *āmantrita*, P. 8-1-… and the whole is lowered by P. 8-1-72 *āmantritasya ca*] and* semam *[*saḥ* + *imam*; the loss of the *su* by P. 6-1-134 *soci lope cet pādapūraṇam* if the loss fills out the pāda; guṇa sandhi *sa* + *imam* → *semam*]; numerals as read, pointers only.)*
+> *varuṇenāgnistutau preritaḥ śunaḥśepa etadādisūktadvayenāgnimastaut | tathā cāmnāyate | taṃ varuṇa uvācāgnirvai devānāṃ mukhaṃ suhṛdayatamastaṃ nu suhyatha tvotsrakṣyāma iti so 'gniṃ tuṣṭāvāta uttarābhirdvāviṃśatyā | ai. brā. 7-16 | iti ‖ he miyedhya medhasya yajñasya yogya ūrjāṃ pate annānāṃ pālakāgne vastrāṇyācchādakāni tejāṃsi vasiṣva | ācchādaya | prajvalitastejasā bhavetyarthaḥ | hi yasmātprajvalitastasmātsa tādṛśastvaṃ no 'smadīyamimamadhvaraṃ yaja | niṣpādaya ‖ vasiṣva | vasa ācchādane | loṭi thāsaḥ se | savābhyāṃ vāmau | chaṃdasyubhayathetyārdhadhātukatvādārdhadhātukasyeḍvalāderitīḍāgamaḥ | lasārvadhātukānudāttatve dhātusvaraḥ | anyeṣāmapi dṛśyata iti saṃhitāyāṃ dīrghaḥ | miyedhya | makāraikārayormadhya iyāgamaśchāṃdasaḥ | ūrjāṃ pate | subāmaṃtrite iti parāṃgavadbhāvāt ṣaṣṭhyāmaṃtritasya samudāyasyāṣṭamiko nighātaḥ | semaṃ | so 'ci lope cetpādapūraṇamiti sorlopaḥ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 347)* **मियेध्य (miyedhya)** — O one fit to be worshipped in the sacrifice | **ऊर्जां पते (ūrjāṃ pate)** — O protector of food, the source of life | **(हे) अग्ने ((he) agne)** — O Agni | **वस्त्राणि (vastrāṇi)** — [your] garments in the form of splendour | **वसिष्व (vasiṣva)** — put on | **हि (hi)** — therefore | **सः (saḥ)** — such you | **नः (naḥ)** — our | **इमम् अध्वरम् (imam adhvaram)** — this sacrifice | **यज (yaja)** — carry out.
+*(Number zoom-read at 450 dpi: ऐ. ब्रा. ७-१६ (flat-footed 7, hook-6). The print reads* सुह्यथ *here (ಸುಹ್ಯಥ, clear on a ×4 crop), where the quotation on p. 348 prints* स्तुह्यथ*; and* त्वोत्स्रक्ष्याम *has broken type at the* स्र *in both places: the* र *subscript is only partly printed — read as* स्र *[?].)*
 
-**॥ Bhāvārthaḥ ॥** O Agni, worthy of the sacrifice and protector of the food that sustains life! Put on your garments of splendour; and, so adorned with radiance, bring this our sacrifice to completion.
+*Gist:* Urged by Varuṇa to praise Agni, Śunaḥśepa praised him with this and the next sūkta (Ai. Brā. 7-16). O Agni, worthy of sacrifice, lord of foods, put on your garments of splendour, blaze up, and so accomplish this our sacrifice.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **मियेध्य (miyedhya)** — fit for the sacrifice | **ऊर्जां पते (ūrjāṃ pate)** — and protector of food (the support of life), O Agni | **वस्त्राणि (vastrāṇi)** — the garments (in the form of splendour) | **वसिष्व (vasiṣva)** — put on | **हि (hi)** — for that very reason | **सः (saḥ)** — such a one, you | **नः (naḥ)** — our | **इमं अध्वरं (imaṃ adhvaraṃ)** — this sacrifice | **यज (yaja)** — accomplish.
 
-> (O Agni) lord of nourishment, you are being worshipped in the sacrifice; Put on your clothes (covering of light) and perform this our sacrifice.
+**॥ Bhāvārthaḥ ॥** O Agni, worthy of sacrifice and protector of the food that sustains life, put on your garments in the form of splendour; and, so adorned with splendour, accomplish this sacrifice of ours.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 347–348)* So far Śunaḥśepa prayed to Varuṇa; Varuṇa, being gratified, directed him: 'O Śunaḥśepa, Agni is the mouth of the gods — that is, through Agni alone the gods accept the oblation offered in the sacrifice. Therefore praise Agni; then you will be freed from the bonds.' Accordingly Śunaḥśepa praises Agni with this sūkta *vasiṣvā hi miyedhya* and with the next, *aśvaṃ na tvā vāravantam*. On this the Aitareya Brāhmaṇa has the sentence *kaṃ varuṇa uvācāgnir vai devānāṃ mukhaṃ suhṛdayetamasmin nu stuhi so 'gniṃ tuṣṭāvottarābhir dvāviṃśatyā* (Ai. Brā. 7-16).
+**॥ English Translation ॥** *(as printed)*
 
-**मियेध्य** — *yajñasya yogya, yajñārha*: worthy of worship in a sacrifice. **वस्त्राणि** — *ācchādakāni tejāṃsi*: the splendours that act as coverings; Agni's body gives out light all round, so the seer says he wears the garment of splendour. **ऊर्जां पते** — lord of food or of nourishment; among the names of food beginning *andhaḥ, vājaḥ*, the word *ūrk* is read, so *ūrjām* means 'of foods and nourishment'. **यज** — *yajñaṃ nirvahaya, saṃpūrṇam kuru*: carry out our sacrifice; make it complete.
+> (O Agni) lord of nourishment, you are being worshipped in the sacrifice ; Put on your clothes (covering of light) and perform this our sacrifice.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** Śunaḥśepa had so far praised Varuṇa; Varuṇa, pleased, said to him: "O Śunaḥśepa, Agni is the mouth of the gods, that is, it is through Agni alone
+
+### Page 348 — Rik 1: Special Topics (end), grammar
+
+that the gods receive the oblation in the sacrifice. So now praise Agni; by that your noose will be loosed." Accordingly Śunaḥśepa praises Agni with this sūkta *vasiṣvā hi miyedhya* and with the next sūkta *aśvaṃ na tvā vāravantam*. On this there is the Aitareya Brāhmaṇa passage: *taṃ varuṇa uvācāgnir vai devānāṃ mukhaṃ suhṛdayatamas taṃ nu stuhy atha tvotsrakṣyāma iti so 'gniṃ tuṣṭāva uttarābhir dvāviṃśatyā* (Ai. Brā. 7-16).
+
+**मियेध्य (miyedhya)** — *yajñasya yogya, yajñārha*: fit to be worshipped in the sacrifice.
+
+**वस्त्राणि (vastrāṇi)** — *ācchādakāni tejāṃsi*: Agni's garments are the coverings in the form of splendour. Since splendour (light) is spread all round Agni, the ṛṣi has said that he wears the garment called splendour.
+
+**ऊर्जां पते (ūrjāṃ pate)** — lord, protector, of food or nourishment. Since the word *ūrk* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ*, *ūrjām* means "of food and nourishment".
+
+**यज (yaja)** — perform the sacrifice, that is, carry through our sacrifice, make it complete.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**वसिष्व (vasiṣva)** — *vasa ācchādane*, adādi; *loṭ* second singular *thās*; by "थासः से" (Pā. Sū. 3-4-80) *se*; by "सवाभ्यां वामौ" (Pā. Sū. 3-4-91) *va* replaces the final: *sva*. By "छन्दस्युभयथा" (Pā. Sū. 3-4-117) *sva* also counts as ārdhadhātuka, so by "आर्धधातुकस्येड्वलादेः" (Pā. Sū. 7-2-35) it takes *iṭ*; then by "आदेशप्रत्यययोः" (Pā. Sū. 8-3-59) the *s* after *i* becomes *ṣ*: *vasiṣva*. The *lasārvadhātuka* is anudātta by "तास्यनुदात्तेत्-" (Pā. Sū. 6-1-186) after an *anudāttet* root, so the root's end-acute remains. By "अन्येषामपि दृश्यते" (Pā. Sū. 6-3-137) the Saṃhitā lengthens it.
+
+**मियेध्य (miyedhya)** — after *medha*, *yat* in the sense of "deserving": *medhya*; in the Veda, without cause, the augment *iya* between *m* and *e*; with the vocative's loss, *miyedhya*.
+
+### Page 349 — Rik 1: grammar (end)
+
+**ऊर्जां पते (ūrjāṃ pate)** — *pate* is a vocative singular and so is called *āmantrita*. By "सुबामन्त्रिते पराङ्गवत्स्वरे" (Pā. Sū. 2-1-2), in an accent rule, a *subanta* before an *āmantrita* is treated as part of it; so *ūrjām* is part of *pate*, and by "आमन्त्रितस्य च" (Pā. Sū. 8-1-19) the whole group takes the *āmantrita-nighāta*.
+
+**सेमम् (semam)** — *sas* + *imam*. By "सोऽचि लोपे चेत्पादपूरणम्" (Pā. Sū. 6-1-134), when a vowel follows and the loss fills out the pāda, the *su* of *sas* is dropped; here the loss fills the pāda, so it comes; *sa* + *imam* with guṇa-sandhi gives *semam*. ॥१॥
 
 ---
 
