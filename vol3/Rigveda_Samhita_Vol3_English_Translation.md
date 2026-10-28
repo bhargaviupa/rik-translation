@@ -9715,27 +9715,31 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 473)*
 
-> योगेयोगे तवस्तरं वाजेवाजे हवामहे ।
-> सखाय इन्द्रमूतये ॥ ७ ॥
+> योगे॑योगे त॒वस्त॑रं॒ वाजे॑वाजे हवामहे ।
+> सखा॑य॒ इन्द्र॑मू॒तये॑ ॥ ७ ॥
 
-> *yogeyoge tavastaraṃ vājevāje havāmahe |*
-> *sakhāya indramūtaye ‖ 7 ‖*
+> *yógeyoge tavástaraṃ vā́jevāje havāmahe |*
+> *sákhāya índramūtáye || 7 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> योगेऽयोगे । तवःऽतरम् । वाजेऽवाजे । हवामहे ।
-> सखायः । इन्द्रम् । ऊतये ॥ ७ ॥
+> योगेऽयोगे । तवःऽतरं । वाजेऽवाजे । हवामहे ।
+> सखायः । इन्द्रं । ऊतये ॥ ७ ॥
 
-> *yoge 'yoge | tavaḥ 'taram | vāje 'vāje | havāmahe |*
-> *sakhāyaḥ | indram | ūtaye ‖ 7 ‖*
+> *yoge 'yoge | tavaḥ 'taraṃ | vāje 'vāje | havāmahe |*
+> *sakhāyaḥ | indraṃ | ūtaye ‖ 7 ‖*
+
+### Page 474 — Sūkta 30, Rik 7 (continued)
 
 **Sāyaṇa-bhāṣya** *(p. 474)*
 
-> योगे योगे प्रवेशे प्रवेशे तत्तत्कर्मोपक्रमे वाजे वाजे कर्मविघ्नातिनि तस्मिंस्तस्मिन्संग्रामे तवस्तरमतिशयेन बलिनमिन्द्रमूतये रक्षणार्थं सखायः सखिवत्प्रिया वयं हवामहे । आह्वयामः ॥ योगे योगे । युजिर् योगे । हलश्चेति घञ् । चजोः कु घिण्ण्यतोः । पा. ७-३-५२ । इति कुत्वम् । घञो ञित्त्वादाद्युदात्तत्वम् । नित्यवीप्सयोरिति वीप्सायां द्विर्भावे सत्याम्रेडितानुदात्तत्वम् । तवस्तरम् । तवसः शब्दादस्मायामेधेति । पा. ५-२-१२१ । मत्वर्थीयो विनिः । तस्य छान्दसो लोपः ॥
+> योगे योगे प्रवेशे प्रवेशे तत्तत्कर्मोपक्रमे वाजे वाजे कर्मविघातिनि तस्मिंस्तस्मिन्संग्रामे तवस्तरमतिशयेन बलिनमिन्द्रमूतये रक्षार्थं सखायः सखिवत्प्रिया वयं हवामहे । आह्वयामः ॥ योगे योगे । युजिर् योगे । हलश्चेति घञ् । चजोः कु घिण्ण्यतोः । पा. ७-३-५२ । इति कुत्वम् । घञो ञित्त्वादाद्युदात्तत्वम् । नित्यवीप्सयोरिति वीप्सायां द्विर्भावे सत्याम्रेडितानुदात्तत्वम् । तवस्तरम् । तवसः शब्दादस्मायामेधेति । पा. ५-२-१२१ । मत्वर्थीयो विनिः । तस्य छान्दसो लोपः ॥
 
-> *yoge yoge praveśe praveśe tattatkarmopakrame vāje vāje karmavighnātini tasmiṃstasminsaṃgrāme tavastaramatiśayena balinamindramūtaye rakṣaṇārthaṃ sakhāyaḥ sakhivatpriyā vayaṃ havāmahe | āhvayāmaḥ ‖ yoge yoge | yujir yoge | halaśceti ghañ | cajoḥ ku ghiṇṇyatoḥ | pā. 7-3-52 | iti kutvam | ghaño ñittvādādyudāttatvam | nityavīpsayoriti vīpsāyāṃ dvirbhāve satyāmreḍitānudāttatvam | tavastaram | tavasaḥ śabdādasmāyāmedheti | pā. 5-2-121 | matvarthīyo viniḥ | tasya chāndaso lopaḥ ‖*
+> *yoge yoge praveśe praveśe tattatkarmopakrame vāje vāje karmavighātini tasmiṃstasminsaṃgrāme tavastaramatiśayena balinamindramūtaye rakṣārthaṃ sakhāyaḥ sakhivatpriyā vayaṃ havāmahe | āhvayāmaḥ ‖ yoge yoge | yujir yoge | halaśceti ghañ | cajoḥ ku ghiṇṇyatoḥ | pā. 7-3-52 | iti kutvam | ghaño ñittvādādyudāttatvam | nityavīpsayoriti vīpsāyāṃ dvirbhāve satyāmreḍitānudāttatvam | tavastaram | tavasaḥ śabdādasmāyāmedheti | pā. 5-2-121 | matvarthīyo viniḥ | tasya chāndaso lopaḥ ‖*
 
-*Translation:* "At each undertaking (*yoge yoge*), at the start of each rite; at each battle (*vāje vāje*) that obstructs the work — in each such contest we, friends (dear like friends), call (*havāmahe*) upon Indra, exceedingly strong (*tavastaram*), for protection. *Yoge yoge*: *yujir yoge*; *ghañ* by *halaś ca*; *kutva* by P. 7-3-52 *cajoḥ ku ghiṇṇyatoḥ*; initial acute because *ghañ* is *ñit*; doubling by *nityavīpsayoḥ*, the repeated member unaccented. *Tavastaram*: from *tavas*, the possessive *vini* by P. 5-2-121 *asmāyāmedhāsrajo vini*, whose loss is Vedic."
+*Translation:* "At each undertaking (*yoge yoge*), at the start of each rite; at each battle (*vāje vāje*) that obstructs the work — in each such contest we, friends (dear like friends), call (*havāmahe*) upon Indra, exceedingly strong (*tavastaram*), for protection. *Yoge yoge*: *yujir yoge*; *ghañ* by *halaś ca*; *kutva* by Pā. 7-3-52 *cajoḥ ku ghiṇṇyatoḥ*; initial acute because *ghañ* is *ñit*; doubling by *nityavīpsayoḥ*, the repeated member unaccented. *Tavastaram*: from *tavas*, the possessive *vini* by Pā. 5-2-121 *asmāyāmedhā…*, whose loss is Vedic."
 
 **Pratipadārtha** *(p. 474, rendered)* — **योगेयोगे** at each (rite's) beginning; **वाजेवाजे** in each battle (that hinders the rite); **तवस्तरम्** the very strong; **इन्द्रम्** Indra; **ऊतये** for protection; **सखायः** we, dear like friends; **हवामहे** we call, praying.
 
@@ -9745,9 +9749,11 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > On every occasion and in every battle we, his friends invoke the powerful Indra for our protection.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 474–475)* — **योगेयोगे** — *yujir yoge*; *praveśe praveśe tattatkarmopakrame*: on each occasion, at each beginning of work. **तवस्तरम्** — since *tavas* is read among the twenty-one names of strength beginning *ojas, pājas* (Nirukta 2-9 [?]), *tavas* is strength; *tavastaram*: exceedingly strong. **वाजेवाजे** — *vāja* is read among the forty-four names of battle beginning *raṇa, vivāk* (Nirukta 2-?? [?]); doubled, it means 'in each battle'. **सखायः** — *sakhivat priyāḥ*.
+**Viśeṣa-viṣayagaḷu** *(pp. 474–475)* — **योगेयोगे** — *yujir yoge*; *praveśe praveśe tattatkarmopakrame*: on each occasion, at each beginning of work. **तवस्तरम्** — since *tavas* is read among the twenty-one names of strength beginning *ojas, pājas* (Ni. 3-9), *tavas* is strength; *tavastaram*: exceedingly strong. ### Page 475 — Sūkta 30, Rik 7: Viśeṣa continued, grammar
 
-**Grammar (p. 475), noted briefly:** *yoge-yoge* (*yujir yoge*, *rudhādi*; *ghañ* by P. 3-3-? *halaś ca* [number [?]]; *cajoḥ ku* P. 7-3-52; *ñit* → initial acute P. 6-1-197; doubling P. 8-1-4 *nityavīpsayoḥ*; *āmreḍitam* by P. 8-1-2 [?], unaccented P. 8-1-3 *anudāttaṃ ca* [as read]); *tavastaram* (*asmāyāmedhā…vini* P. 5-2-121, Vedic loss; *tarap* P. 5-3-57, *pit* so unaccented, P. 3-1-4). Numerals as read, [?].
+**वाजेवाजे** — *vāja* is read among the forty-four names of battle beginning *raṇa, vivāk* (Ni. 3-9, as printed); doubled, it means 'in each battle'. **सखायः** — *sakhivat priyāḥ*: we who, like friends, are dear to you.
+
+**Vyākaraṇa-prakriyā** *(p. 475, noted briefly)* — *yogeyoge*: *yujir yoge*, *rudhādi*; *ghañ* by '*halaś ca*' (Pā. sū. 3-3-121); *kutva* by '*cajoḥ ku ghiṇṇyatoḥ*' (Pā. sū. 7-3-52), *g* by the paribhāṣā '*sthāne 'ntaratamaḥ*' (Pā. sū. 1-1-50); locative singular; initial udātta as *ghañ* is *ñit*; doubling by '*nityavīpsayoḥ*' (Pā. sū. 8-1-4); the second member called *āmreḍita* by '*tasya param āmreḍitam*' (Pā. sū. 8-1-2) and grave by '*anudāttaṃ ca*' (Pā. sū. 8-1-3); initial udātta. *tavastaram*: *vini* in the possessive sense by '*asmāyāmedhā-*' (Pā. sū. 5-2-121), dropped in the Veda; then *tarap* in the sense 'exceedingly', unaccented as *pit*. (No other numbers are printed.)
 
 ---
 
