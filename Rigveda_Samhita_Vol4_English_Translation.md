@@ -8393,15 +8393,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.5 (pp. 510–512, PDF 524–526)
+### Rik 44.5 (pp. 510–512, PDF 524–526; better scan PDF 525–527)
 
-**Saṃhitā-pāṭha** *(p. 510; accents not reproduced)*
+### Page 510
 
-> **स्तविष्यामि त्वामहं विश्वस्यामृत भोजन ।**
-> **अग्ने त्रातारममृतं मियेध्य यजिष्ठं हव्यवाहन ॥ ५ ॥**
+**Saṃhitā-pāṭha** *(p. 510)*
 
-*staviṣyāmi tvām ahaṃ viśvasyāmṛta bhojana |*
-*agne trātāram amṛtaṃ miyedhya yajiṣṭhaṃ havyavāhana || 5 ||*
+> **स्त॒वि॒ष्यामि॒ त्वाम॒हं विश्व॑स्यामृत भोजन ।**
+> **अग्ने॑ त्रा॒तार॑म॒मृतं॑ मियेध्य॒ यजि॑ष्ठं हव्यवाहन ॥**
+
+*staviṣyā́mi tvā́m aháṃ víśvasyāmṛta bhojana |*
+*ágne trātā́ram amṛ́taṃ miyedhya yájiṣṭhaṃ havyavāhana ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print gives only "॥" after the Saṃhitā; the Pada ends "॥ 5 ॥".)*
 
 **Pada-pāṭha** *(p. 510)*
 
@@ -8413,15 +8417,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 510)*
 
-> **हे अमृत मरणरहित विश्वस्य भोजन कृत्स्नस्य जगतः पालक हव्यवाहन हविषो वोढः मियेध्य यज्ञार्ह एवंविध हे अग्ने विश्वस्य त्रातारं सर्वस्य जगतो रक्षकममृतं मरणरहितं यजिष्ठमतिशयेन यष्टारं त्वामहमनुष्ठाता स्तविष्यामि । स्तुतिं करिष्यामि ॥ स्तविष्यामि । ष्टुञ् स्तुतौ । व्यत्ययेनेडागमः । आगमानुदात्तत्वे प्रत्ययस्वरः । भोजन । कर्मफलं भोजयतीति भोजनः । नन्द्यादिलक्षणो ल्युः । त्रातारं । त्रैङ् पालने । आदेच इत्यात्वं । तृन्येकाच उपदेश इतीट्प्रतिषेधः । अमृतं । नञोजरमरमित्रमृताः इत्युत्तरपदाद्युदात्तत्वं । मियेध्य । इयागमश्छान्दसः । यजिष्ठं । यष्टृशब्दात्तुश्छन्दसीतीष्ठन्प्रत्ययः । तुरिष्ठेमेयस्स्विति तृलोपः ॥ ५ ॥**
+> **हे अमृत मरणरहित विश्वस्य भोजन कृत्स्नस्य जगतः पालक हव्यवाहन हविषो वोढः मियेध्य यज्ञार्ह एवंविध हे अग्ने विश्वस्य त्रातारं सर्वस्य जगतो रक्षकममृतं मरणरहितं यजिष्ठमतिशयेन यष्टारं त्वामहमनुष्ठाता स्तविष्यामि । स्तुतिं करिष्यामि ॥ स्तविष्यामि । ष्टुञ् स्तुतौ । व्यत्ययेनेडागमः । आगमानुदात्तत्वे प्रत्ययस्वरः । भोजन । कर्मफलं भोजयतीति भोजनः । नन्द्यादिलक्षणो ल्युः । त्रातारं । त्रैङ् पालने । आदेच इत्यात्वं । तृच्येकाच उपदेश इतीट्प्रतिषेधः । अमृतं । नञोजरमरमित्रमृताः इत्युत्तरपदाद्युदात्तत्वं । मियेध्य । इयागमश्छान्दसः । यजिष्ठं । यष्टृशब्दात्तुश्छन्दसीतीष्ठन्प्रत्ययः । तुरिष्ठेमेयस्स्विति तृलोपः ॥ २८ ॥**
 
-*he amṛta maraṇarahita viśvasya bhojana kṛtsnasya jagataḥ pālaka havyavāhana haviṣo voḍhaḥ miyedhya yajñārha evaṃvidha he agne viśvasya trātāraṃ sarvasya jagato rakṣakam amṛtaṃ maraṇarahitaṃ yajiṣṭham atiśayena yaṣṭāraṃ tvām aham anuṣṭhātā staviṣyāmi | stutiṃ kariṣyāmi || staviṣyāmi | ṣṭuñ stutau | vyatyayeneḍāgamaḥ | āgamānudāttatve pratyayasvaraḥ | bhojana | karmaphalaṃ bhojayatīti bhojanaḥ | nandyādilakṣaṇo lyuḥ | trātāraṃ | traiṅ pālane | ādeca ity ātvaṃ | tṛny ekāca upadeśa itīṭpratiṣedhaḥ | amṛtaṃ | nañ jaramaramitramṛtāḥ ity uttarapadādyudāttatvaṃ | miyedhya | iyāgamaś chāndasaḥ | yajiṣṭhaṃ | yaṣṭṛśabdāt tuś chandasītīṣṭhanpratyayaḥ | turiṣṭhemeyassv iti tṛlopaḥ || 5 ||*
+*he amṛta maraṇarahita viśvasya bhojana kṛtsnasya jagataḥ pālaka havyavāhana haviṣo voḍhaḥ miyedhya yajñārha evaṃvidha he agne viśvasya trātāraṃ sarvasya jagato rakṣakam amṛtaṃ maraṇarahitaṃ yajiṣṭham atiśayena yaṣṭāraṃ tvām aham anuṣṭhātā staviṣyāmi | stutiṃ kariṣyāmi || staviṣyāmi | ṣṭuñ stutau | vyatyayeneḍāgamaḥ | āgamānudāttatve pratyayasvaraḥ | bhojana | karmaphalaṃ bhojayatīti bhojanaḥ | nandyādilakṣaṇo lyuḥ | trātāraṃ | traiṅ pālane | ādeca ity ātvaṃ | tṛcy ekāca upadeśa itīṭpratiṣedhaḥ | amṛtaṃ | nañ jaramaramitramṛtāḥ ity uttarapadādyudāttatvaṃ | miyedhya | iyāgamaś chāndasaḥ | yajiṣṭhaṃ | yaṣṭṛśabdāt tuś chandasītīṣṭhanpratyayaḥ | turiṣṭhemeyassv iti tṛlopaḥ || 28 ||*
 
-*(The closing numeral of this bhāṣya reads like "25" in the print, as in Rik 9 of Sūkta 43; I take it as the Rik number 5, unexplained [?].)*
+*(The bhāṣya closes with "॥ 28 ॥" (curled 2, ಲ-shaped 8, zoom-checked): the number of the varga that ends here (Varga 28 = Ṛks 1–5), not the Ṛk number.)*
 
 **Translation:** "O deathless one, *viśvasya bhojana*, protector of the whole world; *havyavāhana*, bearer of oblations; *miyedhya*, worthy of sacrifice; O Agni, such as you are — *trātāram*, protector of all the world; *amṛtam*, deathless; *yajiṣṭham*, the best sacrificer — you I, the performer, *staviṣyāmi*, will praise. *Staviṣyāmi*: root *ṣṭuñ stutau*; the augment *iṭ* by *vyatyaya*; since the augment is unaccented, the accent of the suffix. *Bhojana*: '*karmaphalaṃ bhojayati*'; *lyu* by *nandyādi…*. *Trātāram*: root *traiṅ pālane*; *ā* by *ādeca…*; the prohibition of *iṭ* by *tṛn…ekāca upadeśe*. *Amṛtam*: first-syllable acute of the latter member by *nañ jaramaramitramṛtāḥ*. *Miyedhya*: the augment *iya* is Vedic. *Yajiṣṭham*: *iṣṭhan* after *yaṣṭṛ* by *tuś chandasi*; the loss of *tṛ* by *turiṣṭhemeyassu*."
 
 **Pratipadārtha** *(p. 510)* — "**amṛta** — [you who are] deathless; **viśvasya** — of the whole world; **bhojana** — [you who] make [it] enjoy the fruit of its own actions, or [who] nourish all the world; **havyavāhana** — you who bear oblations; **miyedhya** — you who are worthy of sacrifice; **agne** — O Agni; **trātāram** — [you who are] the protector of the world; **amṛtam** — deathless; **yajiṣṭham** — the best performer of sacrifices; **tvām** — you; **staviṣyāmi** — I will praise."
+
+### Page 511
 
 **Bhāvārtha** *(p. 511)* — "O Agni, you are deathless. You cause all the worlds to enjoy the fruits of their respective actions. You nourish the whole world. You bear oblations. You are worthy of sacrifice. You are the protector of the world and the best performer of sacrifices. I praise you who are endowed with such excellent qualities."
 
@@ -8436,11 +8442,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **havyavāhana** — "one who carries the oblations to the gods."
 
 **Vyākaraṇa-prakriyā** *(pp. 511–512 — grammar pages, noted briefly)*
-- **staviṣyāmi**: root *ṣṭuñ stutau*, an *ajanta* root; the commentators on the *kārikā* "*ūdṛdantaiḥ…*" list the *udāttas*; this root does not belong among them, so it is *anudātta*; by *ekāca upadeśe 'nudāttāt* the prohibition of *iṭ* would properly come; but by *vyatyayo bahulam* the *iṭ* comes; *lṛṭ*, uttama singular *mip*; *stu + mi*; *sye*: *svatāsī lṛluṭoḥ* [Pā. 3-1-33 as read] gives *sya*; *stu + sya + mi*; *iṭ* as said before; *guṇa*, *av*-substitution; *ato dīrgho yañi* [Pā. 7-3-101 as read] the long vowel; *ādeśapratyayayoḥ* gives *ṣ*; *āgamā anudāttāḥ*: the *iṭ* is unaccented; *mip* is *pit*, so unaccented; the root accent stands.
-- **bhojana**: root *bhuja pālanābhyavahārayoḥ*, *rudhādi*; *ṇic*; *nandigrahipacādibhyo lyuṇinyacaḥ* [Pā. 3-1-134 as read]: *lyu*, *ana* for *yu*; *ṇeraniṭi*: the loss of *ṇic*; the penultimate *guṇa*; "*bhojayati*" means 'makes [one] enjoy the fruits of action'. If the sense of protection is taken, '*bhunakti iti bhojanaḥ*': the vocative; no *ṇic* is needed. *Āmantritasya ca* gives the wholly-unaccented.
-- **trātāram**: root *traiṅ pālane*; *ādeca upadeśe 'śiti*: *ā* for *ai*; *ṇvultṛcau* [Pā. 3-1-133 as read]: *tṛc*; *ekāca upadeśe…* prohibits *iṭ*; *trātṛ + am*; *ṛto ṅisarvanāmasthānayoḥ* [Pā. 7-3-110 as read] *guṇa* of the final *ṛ*… with *ar*; *āp-tṛn-tṛc…* [Pā. 6-4-11 as read] the lengthening of the penultimate: *trātāram*.
-- **amṛtam**: *na ṛto jaramaramitramṛtāḥ* — [Pā. 6-2-116 as read]: in a bahuvrīhi, after *nañ*, the words *jara*, *mara*, *mitra*, *mṛta* are first-syllable acute; so *mṛta* is first-syllable acute.
-- **miyedhya**: "explained at [Ṛg. 1-26-9 as read [?]]" (the grammar of this word was given in the twenty-sixth sūkta).
+- **staviṣyāmi**: root *ṣṭuñ stutau*, an *ajanta* root; the commentators on the *kārikā* "*ūdṛdantaiḥ…*" list the *udāttas*; this root does not belong among them, so it is *anudātta*; by *ekāca upadeśe 'nudāttāt* the prohibition of *iṭ* would properly come; but by *vyatyayo bahulam* the *iṭ* comes; *lṛṭ*, uttama singular *mip* (the print says "bahuvacana" [sic]); *stu + mi*; *sye*: *syatāsī lṛluṭoḥ* (no number printed) gives *sya*; *stu + sya + mi*; *iṭ* as said before; *guṇa*, *av*-substitution; *ato dīrgho yañi* (Pā. 7-3-101) the long vowel; *ādeśapratyayayoḥ* gives *ṣ*; *āgamā anudāttāḥ*: the *iṭ* is unaccented; *mip* is *pit*, so unaccented; the root accent stands.
+### Page 512
+
+- **bhojana**: root *bhuja pālanābhyavahārayoḥ*, *rudhādi*; *ṇic*; *nandigrahi…* (no number printed): *lyu*, *ana* for *yu*; *ṇeraniṭi*: the loss of *ṇic*; the penultimate *guṇa*; "*bhojayati*" means 'makes [one] enjoy the fruits of action'. If the sense of protection is taken, '*bhunakti iti bhojanaḥ*': the vocative; no *ṇic* is needed. *Āmantritasya ca* (Pā. 8-1-19) gives the wholly-unaccented.
+- **trātāram**: root *traiṅ pālane*; *ādeca upadeśe 'śiti*: *ā* for *ai*; *ṇvultṛcau* (no number printed): *tṛc*; *ekāca upadeśe…* prohibits *iṭ*; *trātṛ + am*; *ṛto ṅisarvanāmasthānayoḥ* (Pā. 7-3-110) *guṇa* of the final *ṛ*… with *ar*; *āp-tṛn-tṛc…* (Pā. 6-4-11) the lengthening of the penultimate: *trātāram*.
+- **amṛtam**: *nañ jaramaramitramṛtāḥ* (Pā. 6-2-116): in a bahuvrīhi, after *nañ*, the words *jara*, *mara*, *mitra*, *mṛta* are first-syllable acute; so *mṛta* is first-syllable acute.
+- **miyedhya**: "explained at (Ṛg. Saṃ. 1-36-9)" (as printed).
 - **yajiṣṭham**: root *yaja devapūjādau*; *tṛc*; *vraścabhrasja…* gives *ṣ* and *ṣṭutva*; *yaṣṭṛ + iṣṭhan* by *tuś chandasi*; *turiṣṭhemeyassu* the loss of *tṛ*; accusative singular *am*: *yajiṣṭham*. Rik 5 ends here (*|| 5 ||*).
 
 ---
