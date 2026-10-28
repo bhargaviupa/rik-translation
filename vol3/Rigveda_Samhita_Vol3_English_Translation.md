@@ -7818,38 +7818,70 @@ days after the full moon are called the dark fortnight (*kṛṣṇapakṣa*). T
 
 ---
 
-### Pages 319–322 — Sūkta 25, Rik 11
+### Page 319 (lower) — Sūkta 25, Rik 11
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अतो विश्वान्यद्भुता चिकित्वाँ अभि पश्यति ।
-> कृतानि या च कर्त्वा ॥ ११ ॥
+> अ॒तो वि॒श्वान्यद्भु॑ता चिकि॒त्वाँ अ॒भि प॑श्यति ।
+> कृतानि या च॒ कर्त्वा॑ ॥११॥
+>
+> *ató viśvā́nyádbhutā cikitvā́~ abhí paśyati |*
+> *kṛtāni yā ca kártvā ||11||*
 
-*ato viśvāny adbhutā cikitvām̐ abhi paśyati | kṛtāni yā ca kartvā || 11 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. The mark over* त्वाँ *is the chandrabindu, not a svarita. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 320 — Rik 11: Pada, bhāṣya, word-meanings, overall sense, English
 
-> अतः । विश्वानि । अद्भुता । चिकित्वान् । अभि । पश्यति ॥ कृतानि । या । च । कर्त्वा ॥ ११ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*ataḥ | viśvāni | adbhutā | cikitvān | abhi | paśyati || kṛtāni | yā | ca | kartvā || 11 ||*
+> अतः । विश्वानि । अद्भुता । चिकित्वान् । अभि । पश्यति । कृतानि । या । च । कर्त्वा ॥११॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 320)*
+> *ataḥ | viśvāni | adbhutā | cikitvān | abhi | paśyati | kṛtāni | yā | ca | kartvā ‖11‖*
 
-> अतोऽस्माद्वरुणाद्विश्वान्यद्भुता सर्वाण्याश्चर्याणि चिकित्वान्प्रज्ञावानभि पश्यति । सर्वतोऽवलोकयति । या कृतानि यान्याश्चर्याणि पूर्वं वरुणेन संपादितानि चकारादन्यानि यान्याश्चर्याणि कर्त्वा इतः परं कर्तव्यानि । तानि सर्वाण्यभिपश्यतीति पूर्वत्रान्वयः ॥ अद्भुता । शेश्छन्दसि बहुलमिति शेर्लोपः । प्रत्ययलक्षणेन नपुंसकस्य झलचः । पा. ७-१-७२ । इति नुम् । नलोपः । चिकित्वान् । कित ज्ञाने । लिटः क्वसुः । अभ्यासेऽहलादिशेषचुत्वानि । वस्वेकाजाद्धसाम् । इति नियमादिडभावः । रुत्वानुनासिकावुक्तौ संहितायाम् । पश्यति । प्राघ्रेत्यादिना दृशेः पश्यादेशः । कर्त्वा । कृत्यार्थे तवैकेन्केन्यत्वनः । पा. ३-४-१४ । इति करोतेस्त्वन् । नित्त्वादाद्युदात्तत्वम् । पूर्ववच्छेर्लोपः ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*ato 'smād varuṇād viśvāny adbhutā sarvāṇy āścaryāṇi cikitvān prajñāvān abhi paśyati | sarvato 'valokayati | yā kṛtāni yāny āścaryāṇi pūrvaṃ varuṇena saṃpāditāni cakārād anyāni yāny āścaryāṇi kartvā itaḥ paraṃ kartavyāni | tāni sarvāṇy abhipaśyatīti pūrvatrānvayaḥ || adbhutā | śeś chandasi bahulam iti śer lopaḥ | pratyayalakṣaṇena napuṃsakasya jhalacaḥ | pā. 7-1-72 | iti num | nalopaḥ | cikitvān | kita jñāne | liṭaḥ kvasuḥ | abhyāse 'halādiśeṣacutvāni | vasvekājāddhasām | iti niyamād iḍabhāvaḥ | rutvānunāsikāv uktau saṃhitāyām | paśyati | prāghretyādinā dṛśeḥ paśyādeśaḥ | kartvā | kṛtyārthe tavaikenkenyatvanaḥ | pā. 3-4-14 | iti karoter tvan | nittvād ādyudāttatvam | pūrvac cheḥ lopaḥ ||*
+> अतोऽस्माद्वरुणाद्विश्वान्यद्भुता सर्वाण्याश्चर्याणि चिकित्वान् प्रज्ञावानभि पश्यति । सर्वतोऽवलोकयति । या कृतानि यान्याश्चर्याणि पूर्वं वरुणेन संपादितानि । चकारादन्यानि यान्याश्चर्याणि कर्त्वा इतः परं कर्तव्यानि । तानि सर्वाण्यभिपश्यतीति पूर्वत्रान्वयः ॥ अद्भुता । शेश्छंदसि बहुलमिति शेर्लोपः । प्रत्ययलक्षणेन नपुंसकस्य झलचः । पा. ७-१-७२ । इति नुम् । नलोपः । चिकित्वान् । कित ज्ञाने । लिटः क्वसुः । अभ्यासहलादिशेषचुत्वानि । वस्वेकाजाद्घसामिति नियमादिडभावः । रुत्वानुनासिकावुक्तौ संहितायां । पश्यति । पाघ्रेत्यादिना दृशेः पश्यादेशः । कर्त्वा । कृत्यार्थे तवैकेन्केन्यत्वनः । पा. ३-४-१४ । इति करोतेस्त्वन् । नित्त्वादाद्युदात्तत्वं । पूर्ववच्छेर्लोपः ॥
 
-**Translation:** "*Ataḥ* — from this Varuṇa — the *cikitvān* — the wise [seer] — beholds (*abhi paśyati*) all (*viśvāni*) the wonders (*adbhutā*): all astonishing things — all round he looks at them: those (*yā*) that have been done (*kṛtāni*) — the wonders accomplished earlier by Varuṇa — and (*ca*) those others that are *kartvā* — to be done henceforth. He sees all of these: so the construction runs with the earlier [pāda]. *Adbhutā*: the loss of *śi* by *śeś chandasi bahulam*; ... *Cikitvān*: *kita jñāne*; *kvasu* for *liṭ*; reduplication; no *iṭ* by the restriction *vasvekājāddhasām*; ... *Paśyati*: *paśya* substituted for *dṛś* by P. 7-3-78. *Kartvā*: *tvan* after *kṛ* in the sense of the *kṛtya* by P. 3-4-14 [*kṛtyārthe tavaikenkenyatvanaḥ*]; initial acute through *nit*." *(Grammar pages 321–322, noted briefly: the words treated are* adbhutā *[*adbhuta* + *śas* (neuter) → *śi* by P. 7-1-20 *jaśśasoḥ śiḥ*; *śi* lost in the Veda by P. 6-1-70 *śeś chandasi bahulam*; since the effect depends on the suffix being there (*pratyayalakṣaṇa*), *num* is added by P. 7-1-72 *napuṃsakasya jhalacaḥ*; lengthening of the preceding vowel; here, on the loss of *n* by P. 8-2-7 *nalopaḥ prātipadikāntasya*, *adbhutā*],* cikitvān *[*kita jñāne* + *kvasu* by P. 3-2-107 *bhāṣāyāṃ sadavasaśruvaḥ* or P. 3-2-107 *kvasuś ca*; doubling and *halādiḥ śeṣaḥ*; the *c* for *k* in the reduplicate by P. 7-4-62 *kuhoś cuḥ*; no *iṭ* by P. 7-2-67 *vasvekājāddhasām*; nominative singular with *num*, long vowel, loss of *s* and *t*; *rutva*, *anunāsika* — *cikitvām̐*],* paśyati *[*dṛśir prekṣaṇe*; *paśya* is substituted for *dṛś* before a *śit* suffix by P. 7-3-78; *tip*] and* kartvā *[*ḍukṛñ karaṇe* + *tvan* by P. 3-4-14; guṇa before *tvan*; *śi* lost as above; first-syllable acute from *nit*]; numerals as read, pointers only.)*
+> *ato 'smādvaruṇādviśvānyadbhutā sarvāṇyāścaryāṇi cikitvān prajñāvānabhi paśyati | sarvato 'valokayati | yā kṛtāni yānyāścaryāṇi pūrvaṃ varuṇena saṃpāditāni | cakārādanyāni yānyāścaryāṇi kartvā itaḥ paraṃ kartavyāni | tāni sarvāṇyabhipaśyatīti pūrvatrānvayaḥ ‖ adbhutā | śeśchaṃdasi bahulamiti śerlopaḥ | pratyayalakṣaṇena napuṃsakasya jhalacaḥ | pā. 7-1-72 | iti num | nalopaḥ | cikitvān | kita jñāne | liṭaḥ kvasuḥ | abhyāsahalādiśeṣacutvāni | vasvekājādghasāmiti niyamādiḍabhāvaḥ | rutvānunāsikāvuktau saṃhitāyāṃ | paśyati | pāghretyādinā dṛśeḥ paśyādeśaḥ | kartvā | kṛtyārthe tavaikenkenyatvanaḥ | pā. 3-4-14 | iti karotestvan | nittvādādyudāttatvaṃ | pūrvavaccherlopaḥ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 320)* **अतः (ataḥ)** — through this Varuṇa | **चिकित्वान् (cikitvān)** — the wise seer | **या कृतानि (yā kṛtāni)** — those [wonderful things] that were done before | **च (ca)** — and | **या कर्त्वा (yā kartvā)** — those that are to be done in future | **विश्वानि (viśvāni)** — all | **अद्भुता (adbhutā)** — wonderful things | **अभि पश्यति (abhi paśyati)** — sees [or knows].
+*(Numbers zoom-read at 450 dpi: पा. ७-१-७२, ३-४-१४.)*
 
-**॥ Bhāvārthaḥ ॥** The wise seer comes to know, through this Varuṇa, all the wonderful acts that were done before and that will be done hereafter.
+*Gist:* Through this Varuṇa the wise one beholds all the wonders, those Varuṇa has wrought before and those yet to be wrought.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **अतः (ataḥ)** — through this very god Varuṇa | **चिकित्वान् (cikitvān)** — the wise one (the sage) | **या कृतानि (yā kṛtāni)** — those that happened before | **च (ca)** — and | **कर्त्वा (kartvā)** — those that will happen hereafter: such | **विश्वानि (viśvāni)** — all | **अद्भुता (adbhutā)** — (and) wonderful doings | **अभि पश्यति (abhi paśyati)** — sees completely.
+
+**॥ Bhāvārthaḥ ॥** Whatever wonderful doings took place before and whatever will take place hereafter, the wise sage knows them all through this very Varuṇa.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Through him (Varuna) the wise man sees (or knows) all the wonderful things that have been or will in future be done.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 321)* **चिकित्वान्** — *kita jñāne*: the knower, the intelligent, the wise, the sage. **कृतानि** — *pūrvaṃ kṛtāni*: done before, or done already. **कर्त्वा** — *itaḥ paraṃ kartavyāni*: that which is to be done later, acts to be done in the future.
+### Page 321 — Rik 11: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**चिकित्वान् (cikitvān)** — *kita jñāne*: one who has knowledge, understanding, wisdom; "the wise, the sage &c." (so in English in the print).
+
+**कृतानि (kṛtāni)** — *pūrvaṃ kṛtāni*: done before, or that happened before.
+
+**कर्त्वा (kartvā)** — *itaḥ paraṃ kartavyāni*: to be done hereafter, that will happen; "acts to be done in future &c." (so in English in the print).
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**अद्भुता (adbhutā)** — the accusative plural *śas* after *adbhuta*; in the neuter it is replaced by *śi* by "जश्शसोः शिः" (Pā. Sū. 7-1-20); this is dropped in the Saṃhitā by "शेश्छन्दसि बहुलम्" (Pā. Sū. 6-1-10, as printed; for 6-1-70). By "प्रत्ययलोपे प्रत्ययलक्षणम्" (Pā. Sū. 1-1-62) the operations conditioned by *śi* still apply: the stem takes *num* by "नपुंसकस्य झलचः" (Pā. Sū. 7-1-72); *śi* being *sarvanāmasthāna*, the penultimate of the *n*-stem is lengthened by "सर्वनामस्थाने चासम्बुद्धौ" (Pā. Sū. 6-4-8); with *adbhutān*, the *n* is dropped by "न लोपः प्रातिपदिकान्तस्य" (Pā. Sū. 8-2-7): *adbhutā*.
+
+**चिकित्वान् (cikitvān)** — *kita jñāne*, bhvādi; *kvasu* for *liṭ* by "क्वसुश्च" (Pā. Sū. 3-2-107); doubling, *halādiśeṣa* and *cutva* in the reduplicate: *cikitvas*, a stem in *s*. By the restriction in "वस्वेकाजाद्घसाम्" (Pā. Sū. 7-2-67) *vasu* does not take *iṭ*. In the nominative singular *num*, lengthening and loss of the final of the cluster give *cikitvān*. In the Saṃhitā, by "दीर्घादटि समानपादे" (Pā. Sū. 8-3-9) *rutva*, and by "आतोऽटि नित्यम्" (Pā. Sū. 8-3-3) the *ā* is nasalised.
+
+**पश्यति (paśyati)** — *dṛśir prekṣaṇe*, bhvādi; *laṭ* third singular; *śap*; then by "पाघ्राध्मास्था-" (Pā. Sū. 7-3-78) *paśya* is substituted for the root: *paśyati*.
+
+**कर्त्वा (kartvā)** — *ḍukṛñ karaṇe*; *tvan* by "कृत्यार्थे तवैकेन्केन्यत्वनः" (Pā. Sū. 3-4-14); guṇa of the root before *tvan*; neuter accusative plural *śas* → *śi*;
+
+### Page 322 (upper) — Rik 11: grammar (end)
+
+dropped by "शेश्छन्दसि बहुलम्"; by *pratyayalakṣaṇa* the *num*, lengthening and loss of *n*: *kartvā*. Ending in a *nit* suffix, it is initially acute. ॥११॥ *(A printed ornament follows; Ṛk 12 begins on the same page.)*
+
+---
+
 ### Pages 322–324 — Sūkta 25, Rik 12
 
 **॥ Saṃhitāpāṭhaḥ ॥**
