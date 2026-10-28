@@ -8082,15 +8082,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 59.3 (pp. 445–, PDF 461–)
 
-**Saṃhitā-pāṭha** *(p. 445)*
+**Saṃhitā-pāṭha** *(p. 445; accents as printed)*
 
-> **आ सूर्यो न रश्मयो ध्रुवासो वैश्वानरे दधिरेऽग्ना वसूनि ।**
-> **या पर्वतेष्वोषधीष्वप्सु या मानुषेष्वसि तस्य राजा ॥ ३ ॥**
+> **आ सूर्ये॒ न र॒श्मयो॑ ध्रु॒वासो॑ वैश्वान॒रे द॑धिरे॒ऽग्ना वसू॑नि ।**
+> **या पर्व॑ते॒ष्वोषधी॑ष्व॒प्सु या मानु॑षे॒ष्वसि॒ तस्य॒ राजा॑ ॥ ३ ॥**
 
-*ā sūryo na raśmayo dhruvāso vaiśvānare dadhire 'gnā vasūni |*
-*yā parvateṣv oṣadhīṣv apsu yā mānuṣeṣv asi tasya rājā || 3 ||*
+*ā́ sū́rye ná raśmáyo dhruvā́so vaiśvānaré dadhire 'gnā́ vásūni |*
+*yā́ párvateṣv óṣadhīṣv apsú yā́ mā́nuṣeṣv ási tásya rā́jā || 3 ||*
 
-*(The print's reading of the last line is "या मानुषेष्वसि तस्य राजा" — I take the Pada's* yā mānuṣeṣu | asi | tasya | rājā*, pending the Pada on p. 446.)*
+*(The better scan prints सूर्ये (not सूर्यो), agreeing with the Pada. [accent ?]: the stroke in ओषधीष्वप्सु stands between ष and धी.)*
 
 ---
 
@@ -8108,11 +8108,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 446)*
 
-> **अग्ना वैश्वानरे ग्नौ वसूनि धनान्या दधिरे । आहितानि स्थापितानि बभूवुः । तत्र दृष्टान्तः । ध्रुवासो निश्चला रश्मयः किरणाः सूर्ये न यथा सूर्य आधीयन्ते तद्वत् । अतस्त्वं पर्वतादिषु यानि धनानि विद्यन्ते तस्य धनजातस्य राजासि । अधिपतिर्भवसि ॥**
+> **अग्ना वैश्वानरेऽग्नौ वसूनि धनान्या दधिरे । आहितानि स्थापितानि बभूवुः । तत्र दृष्टान्तः । ध्रुवासो निश्चला रश्मयः किरणाः सूर्ये न यथा सूर्य आधीयन्ते तद्वत् । अतस्त्वं पर्वतादिषु यानि धनानि विद्यन्ते तस्य धनजातस्य राजासि । अधिपतिर्भवसि ॥**
 
 *agnā vaiśvānare 'gnau vasūni dhanāny ā dadhire | āhitāni sthāpitāni babhūvuḥ | tatra dṛṣṭāntaḥ | dhruvāso niścalā raśmayaḥ kiraṇāḥ sūrye na yathā sūrya ādhīyante tadvat | atas tvaṃ parvatādiṣu yāni dhanāni vidyante tasya dhanajātasya rājāsi | adhipatir bhavasi ||*
 
-*(The tail, p. 446: on *agnā* (*supāṃ sulug…*: *ḍā* for the locative), *ojasā*… *oṣadhīṣu* (*uṣa dāhe*, *ghañ*, *oṣaḥ pākaḥ*; *oṣa āsu dhīyate*; *kirupa* in the locative-sense), *apsu* (*ūḍidam…*) — characterized.)*
+*(The tail, pp. 446–447: on *agnā* (*supāṃ suluk…*: *ḍā*), *yā* (*śeś chandasi bahulam*: loss of *śi*), *oṣadhīṣu* (*uṣa dāhe*; *oṣaḥ pākaḥ*, *ghañ*; *oṣa āsu dhīyate*: *karmaṇy adhikaraṇe ca*: *ki*; *dāsībhārādi*: first-member accent; *oṣadheś ca vibhaktāv aprathamāyām*, Pā. 6-3-132: lengthening), *apsu* (*ūḍidam…*: ending acute) — characterized.)*
 
 **Translation of the bhāṣya:** "*Agnā*, in the fire Vaiśvānara, *vasūni*, treasures, *ā dadhire*, were deposited, set up. An example: as the *dhruvāsaḥ*, steady rays are placed in the sun, so. Therefore you are the king, the lord, of all the treasures that exist in mountains and the like."
 
@@ -8124,7 +8124,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 447** — **agnā**: "here the vocative sense of *he agne* is expressed by the *ā* substitution for the first case." **ā dadhire**: "*āhitāni sthāpitāni babhūvuḥ*: were completely placed." **sūryena** [*sūrye na*]: "as steady rays are contained in the sun, so all kinds of treasure are contained in you — that is the illustration given for praising Agni." **oṣadhīṣu**: "from *uṣa dāhe*: *oṣaḥ* means *pāka*, 'ripening'; by the derivation '*oṣaḥ āsu dhīyate iti oṣadhayaḥ*', it is shown that every kind of quality is produced by ripening, in the word *oṣadhi*."
 
-**Vyākaraṇa-prakriyā** *(p. 447 — noted briefly)*: **dhruvāsaḥ**: *ājjaserasuk*. **dadhire**: *ḍudhāñ*; *liṭ* third plural; *liṭas tajhayor eśirec*: *irec*; *nighāta*. **agnā**: *agni* + locative; *supāṃ suluk…*: *ḍā*; *ḍit*: loss of *ṭi*. **yā**: *yad*; neuter plural *śi* lost (*śeś chandasi bahulam*). **oṣadhīṣu**: *uṣa dāhe*; *ghañ*; *pugantalaghūpadha-guṇa*; *ñit* hence initial-acute; *karmaṇy adhikaraṇe ca* (Pā. 3-3-93): *ki* in the locative sense; loss of *ā* of *dhā*; *dāsībhārādi*: first member's accent. **apsu**: *ap*, locative plural; *ūḍidam…*: ending acute; *asi*: *yat* before: no *nighāta*; root's accent. **|| 3 ||**
+**Vyākaraṇa-prakriyā** *(p. 447 — noted briefly)*: **dhruvāsaḥ**: *ājjaserasuk*. **dadhire**: *ḍudhāñ*; *liṭ* third plural; *liṭas tajhayor eśirec*: *irec*; *nighāta*. **agnā**: *agni* + locative; *supāṃ suluk…*: *ḍā*; *ḍit*: loss of *ṭi*. **yā**: *yad*; neuter plural *śi* lost (*śeś chandasi bahulam*). **oṣadhīṣu**: *uṣa dāhe*; *ghañ*; *pugantalaghūpadha-guṇa*; *ñit* hence initial-acute; *karmaṇy adhikaraṇe ca* (Pā. 3-3-93): *ki* in the locative sense; loss of *ā* of *dhā*; *dāsībhārādi*: first member's accent. **apsu**: *ap*, locative plural; *ūḍidam…* (Pā. 6-1-171): ending acute; *asi*: *yat* before: no *nighāta*; root's accent. **|| 3 ||**
 
 ---
 
