@@ -7194,22 +7194,27 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 *(Printed pp. 295–344. The introductory note and heading block are on p. 295; Rik 1 begins on p. 296.)*
 
-**॥ Sāyaṇa-bhāṣyam ॥ (introductory note; printed p. 295)** *(read at 130 dpi; some words doubtful)*
+### Page 295 — Sūkta 25: introduction and heading block
 
-> यच्चिद्धि ते विश इत्येकविंशत्यृचं द्वितीयं सूक्तम् । तथा चानुक्रान्तम् — यच्चिद्धि त्वैकेति । ऋषिश्चान्यस्मादिति परिभाषया शुनःशेप एव ऋषिः । आदौ गायत्रीमिति परिभाषितत्वाद्गायत्री छन्दः । वारुणं त्विति पूर्वोक्तत्वाद्वरुणो देवता । विनियोग उक्तः शौनःशेपाख्याने । विशेषविनियोगस्तु — अभिप्लवषडहे इदं सूक्तं होत्रकशस्त्रे स्तोमनिमित्तमावापार्थं मैत्रावरुणेन पाठ्यम् । अभिप्लवषडहानीति खण्डे तथैव सूत्रितम् — यच्चिद्धि ते विश इति वारुणमेतस्य तृचमावपेत मैत्रावरुणः (आ. ८-५) इति ॥
+**॥ Sāyaṇa-bhāṣyam ॥ (introductory note)** *(transcribed in full from the print, v3a; the old text's* मैत्रावरुणेन पाठ्यम् *and* अभिप्लवषडहानीति *are not what is printed)*
 
-*yac cid dhi te viśa ity ekaviṃśaty-ṛcaṃ dvitīyaṃ sūktam | tathā cānukrāntam — yac cid dhi tvaikeṭi | ṛṣiś cānyasmād iti paribhāṣayā śunaḥśepa eva ṛṣiḥ | ādau gāyatrīm iti paribhāṣitatvād gāyatrī chandaḥ | vāruṇaṃ tv iti pūrvoktatvād varuṇo devatā | viniyoga uktaḥ śaunaḥśepākhyāne | viśeṣaviniyogas tu — abhiplavaṣaḍahe idaṃ sūktaṃ hotrakaśastre stomanimittamāvāpārthaṃ maitrāvaruṇena pāṭhyam | abhiplavaṣaḍahānīti khaṇḍe tathaiva sūtritam — yac cid dhi te viśa iti vāruṇam etasya tṛcam āvapeta maitrāvaruṇaḥ (ā. 8-5) iti ||*
+> यच्चिदित्येकविंशत्यृचं द्वितीयं सूक्तं । तथा चानुक्रांतं । यच्चित्त्वैकेति । ऋषिश्चान्यस्मादिति परिभाषया शुनःशेप एव ऋषिः । आदौ गायत्रमिति परिभाषितत्वाद्गायत्री छंदः । वारुणं त्विति पूर्वोक्तत्वात्तुह्यादिपरिभाषया । अनु. १२-३ । वरुणो देवता ॥ विनियोग उक्तः शौनःशेपाख्याने ॥ विशेषविनियोगस्तु । अभिप्लवषडह इदं सूक्तं होत्रकशस्त्रे स्तोमनिमित्तमावापार्थं । अभिप्लवपृष्ठ्याहानीति खंडे तथैव सूत्रितं ॥ यच्चिद्धि ते विश इति वारुणमेतस्य तृचमावपेत मैत्रावरुणः । आ. ७-५ । इति ॥
 
-**Translation:** "The sūkta beginning *yac cid dhi te viśaḥ* has twenty-one riks and is the second [of this anuvāka]. So the Anukramaṇikā says: '*yac cid dhi*' [— twenty-one, Varuṇa's, Gāyatrī]. By the rule 'the ṛṣi is the same as the other [sūkta's]', the seer is Śunaḥśepa himself; since 'the metre at the beginning is Gāyatrī' [as a rule], the metre is Gāyatrī; since 'Varuṇa's' was said before, the deity is Varuṇa. The application has been stated in the Śunaḥśepa legend. The special application is as follows: in the Abhiplava-ṣaḍaha, in the *Hotraka-śastra*, this sūkta is to be recited by the Maitrāvaruṇa for the insertion (*āvāpa*) of the *stoma* (the print reads *stomanimittamāvāpārthaṃ*, "for the sake of inserting [what is needed for] the *stoma*" — mine and tentative). In the section *abhiplavaṣaḍahāni* it is likewise laid down: '*yac cid dhi te viśaḥ* — the Maitrāvaruṇa should insert the Varuṇa triplet of this [sūkta]' (Āś. 8-5)."
+> *yaccidityekaviṃśatyṛcaṃ dvitīyaṃ sūktaṃ | tathā cānukrāṃtaṃ | yaccittvaiketi | ṛṣiścānyasmāditi paribhāṣayā śunaḥśepa eva ṛṣiḥ | ādau gāyatramiti paribhāṣitatvādgāyatrī chaṃdaḥ | vāruṇaṃ tviti pūrvoktatvāttuhyādiparibhāṣayā | anu. 12-3 | varuṇo devatā ‖ viniyoga uktaḥ śaunaḥśepākhyāne ‖ viśeṣaviniyogastu | abhiplavaṣaḍaha idaṃ sūktaṃ hotrakaśastre stomanimittamāvāpārthaṃ | abhiplavapṛṣṭhyāhānīti khaṃḍe tathaiva sūtritaṃ ‖ yacciddhi te viśa iti vāruṇametasya tṛcamāvapeta maitrāvaruṇaḥ | ā. 7-5 | iti ‖*
 
-**॥ Anuvāda (Kannada rendering) ॥** *(p. 295)* *Yac cid dhi te* is the second sūkta of the sixth anuvāka. It has twenty-one riks. The Anukramaṇikā also says it has twenty-one riks, in the sūkta *yac cit*. Śunaḥśepa is the ṛṣi of this sūkta; the metre is Gāyatrī; as said before, the deity of this sūkta is Varuṇa alone. Its use is in the Śunaḥśepa legend [the sacrifice of Hariścandra]. Besides, it has a special use: in the sacrifice called Abhiplava-ṣaḍaha, when the *hotraka-śastra* mantras are recited, the priest named Maitrāvaruṇa must recite this sūkta for the purpose of inserting the *stoma* (the *āvāpa*): so it is laid down in Āśvalāyana's Śrauta-sūtra, in the section *abhiplavaṣaḍahāni*, in the sūtra *yac cid dhi te viśa iti vāruṇam etasya tṛcam āvapeta maitrāvaruṇaḥ* (Āś. 8-5).
+*(Numbers zoom-read at 450 dpi: अनु. १२-३; आ. ७-५, the first digit the flat-footed 7, the same glyph as the 7 of the varga 17 below and unlike the curled 2 of the Adhyāya 2 and of the ṛk count 21; the old text's "Āś. 8-5" was a misreading.* तुह्यादि *is read letter by letter as printed.)*
 
-**॥ Heading block of the sūkta (p. 295) ॥**
+*Gist:* *Yac cid* is the second sūkta, of twenty-one ṛks (so the Anukramaṇī: *yac cit tv ekā*); by the general rules the ṛṣi is Śunaḥśepa and the metre Gāyatrī, and the deity, by the rule cited (Anukr. 12-3), Varuṇa. Its use was stated in the Śunaḥśepa legend; its special use: in the Abhiplava-ṣaḍaha, in the *hotraka-śastra*, for the insertion connected with the *stoma*, as Āś. 7-5 lays down: "the Maitrāvaruṇa should insert this Varuṇa triplet *yac cid dhi te viśa*".
 
-> मण्डल १ — अनुवाक ६ — सूक्त २५ । अष्टक १ — अध्याय २ — वर्ग १६, १७, १८, १९ । ऋक्संख्या २१ ।
-> ऋषिः — शुनःशेप आजीगर्तिः । देवता — वरुणः । छन्दः — गायत्री ।
+**॥ Anuvāda (Kannada rendering) ॥** *Yac cid dhi te* is the second sūkta in the sixth anuvāka. It has twenty-one ṛks. The Anukramaṇikā also says that the sūkta *yac cit* has twenty-one ṛks. Śunaḥśepa is the ṛṣi of this sūkta; the metre is Gāyatrī. As said before, the deity of this sūkta is Varuṇa alone. Its application is when the Śaunaḥśepa, that is the Śunaḥśepa legend, is told. Besides, it has a special application: in the sacrifice called Abhiplava-ṣaḍaha, when the *hotraka-śastra* mantras are recited, the priest called Maitrāvaruṇa must recite this sūkta for the *stoma-āvāpa*; so there is the sūtra *yac cid dhi te viśa iti vāruṇam etasya tṛcam āvapeta maitrāvaruṇaḥ* in the section *abhiplavapṛṣṭhyāhāni* of Āśvalāyana's Śrauta-sūtra (Ā. 7-5).
 
-*Maṇḍala 1 — Anuvāka 6 — Sūkta 25. Aṣṭaka 1 — Adhyāya 2 — Varga 16, 17, 18, 19 (zoom: 16, 17, 18 seen; the 19 only in the OCR text). Riks: 21. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Varuṇa. Metre: Gāyatrī.* *(The varga numerals are printed small and read doubtfully.)*
+**॥ Heading block of the sūkta ॥** *(printed in Kannada; numbers zoom-read)*
+
+> सूक्त—२५ ॥ मंडल—१ ॥ अनुवाक—६ ॥ सूक्त—२५ ॥ अष्टक—१ ॥ अध्याय—२ ॥ वर्ग, १६, १७, १८, १९ ॥ ऋक्संख्या—२१ ॥ ऋषिः—शुनःशेप आजीगर्तिः ॥ देवता—वरुणः ॥ छंदः—गायत्री ॥
+
+> *sūkta—25 ‖ maṃḍala—1 ‖ anuvāka—6 ‖ sūkta—25 ‖ aṣṭaka—1 ‖ adhyāya—2 ‖ varga, 16, 17, 18, 19 ‖ ṛksaṃkhyā—21 ‖ ṛṣiḥ—śunaḥśepa ājīgartiḥ ‖ devatā—varuṇaḥ ‖ chaṃdaḥ—gāyatrī ‖*
+
+*Sūkta 25. Maṇḍala 1 — Anuvāka 6 — Sūkta 25. Aṣṭaka 1 — Adhyāya 2 — Vargas 16, 17, 18, 19. Number of ṛks in the sūkta (the label is printed in Kannada, ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ): 21. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Varuṇa. Metre: Gāyatrī.* *(All four varga numbers were read from a 450-dpi crop: ೧೬ (hook top-left), ೧೭ (flat-footed 7), ೧೮ (ಲ-shape), ೧೯ (ಕ-shape); the earlier OCR help is no longer relied on.)*
 
 ---
 
