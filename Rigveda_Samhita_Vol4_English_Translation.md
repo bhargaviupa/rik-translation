@@ -9680,15 +9680,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 45.9 (p. 565 foot, PDF 579–)
+### Rik 45.9 (pp. 565–567, PDF 579–581; better scan PDF 580–582)
 
-**Saṃhitā-pāṭha** *(p. 565; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 565)*
 
-> **प्रातर्याव्णः सहस्कृत सोमपेयाय सन्त्य ।**
-> **इहाद्य दैव्यं जनं बर्हिरा सादया वसो ॥ ९ ॥**
+> **प्रा॒त॒र्याव्णः॑ सहस्कृत सोम॒पेया॑य सन्त्य ।**
+> **इ॒हाद्य दैव्यं॒ जनं॑ ब॒र्हिरा सा॑दया वसो ॥ ९ ॥**
 
-*prātaryāvṇaḥ sahaskṛta somapeyāya santya |*
-*ihādya daivyaṃ janaṃ barhir ā sādayā vaso || 9 ||*
+*prātaryā́vṇaḥ sahaskṛta somapéyāya santya |*
+*ihā́dya daivyaṃ jánaṃ barhír ā́ sādayā vaso || 9 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 565)*
 
@@ -9706,15 +9708,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Page 566
+
 **Rik 45.9, continued** *(from p. 566)*
 
 **Sāyaṇa-bhāṣya** *(p. 566)*
 
-> **हे सहस्कृत बलेन मथित सन्त्य फलदातर्वसो निवासहेतुभूताग्ने इह देवयजनदेशे अद्यास्मिन्दिने सोमपेयाय सोमपानार्थं प्रातर्याव्णः प्रातरागच्छतो देवान् दैव्यं जनमन्यमपि देवताजनं बर्हिरा सादय । यज्ञं प्रापय ॥ प्रातर्याव्णः । अल्लोपोऽन इत्यकारलोपः । सहस्कृत । सहतेऽभिभवत्यनेनेति सहो बलं । तेन क्रियते इति सहस्कृतः । ओजःसहोऽम्भस्तमसस्तृतीयायाः । पा. ६-३-३ [?] । इत्यलुग्भावश्छान्दसः ॥**
+> **हे सहस्कृत बलेन मथित सन्त्य फलदातर्वसो निवासहेतुभूताग्ने इह देवयजनदेशे अद्यास्मिन्दिने सोमपेयाय सोमपानार्थं प्रातर्याव्णः प्रातरागच्छतो देवान् दैव्यं जनमन्यमपि देवताजनं बर्हिरा सादय । यज्ञं प्रापय ॥ प्रातर्याव्णः । अल्लोपोऽन इत्यकारलोपः । सहस्कृत । सहतेऽभिभवत्यनेनेति सहो बलं । तेन क्रियते इति सहस्कृतः । ओजःसहोऽम्भस्तमसस्तृतीयायाः । पा. ६-३-३ । इत्यलुग्भावश्छान्दसः ॥**
 
-*he sahaskṛta balena mathita santya phaladātar vaso nivāsahetubhūtāgne iha devayajanadeśe adyāsmin dine somapeyāya somapānārthaṃ prātaryāvṇaḥ prātar āgacchato devān daivyaṃ janam anyam api devatājanaṃ barhir ā sādaya | yajñaṃ prāpaya || prātaryāvṇaḥ | alloponaḥ ity akāralopaḥ | sahaskṛta | sahate 'bhibhavaty anena iti saho balaṃ | tena kriyate iti sahaskṛtaḥ | ojaḥsaho 'mbhastamasas tṛtīyāyāḥ | pā. 6-3-3 [?] | ity alugbhāvaś chāndasaḥ ||*
+*he sahaskṛta balena mathita santya phaladātar vaso nivāsahetubhūtāgne iha devayajanadeśe adyāsmin dine somapeyāya somapānārthaṃ prātaryāvṇaḥ prātar āgacchato devān daivyaṃ janam anyam api devatājanaṃ barhir ā sādaya | yajñaṃ prāpaya || prātaryāvṇaḥ | alloponaḥ ity akāralopaḥ | sahaskṛta | sahate 'bhibhavaty anena iti saho balaṃ | tena kriyate iti sahaskṛtaḥ | ojaḥsaho 'mbhastamasas tṛtīyāyāḥ | pā. 6-3-3 | ity alugbhāvaś chāndasaḥ ||*
 
-*(The rule-name beginning* alloponaḥ*, and the Pāṇini rule for* sahaskṛta*, are crowded; the number and the wording are as read, [?].)*
+*(Checked on the better scan, PDF 581: Pā. 6-3-3 and the wording of the tail are clear.)*
 
 **Translation:** "O *sahaskṛta*, churned by strength; O *santya*, giver of fruit; O *vaso*, cause of dwelling; O Agni, *iha*, here, in this place of divine worship, *adya*, today, *somapeyāya*, for the drinking of Soma, *ā sādaya*, seat on the sacred grass *prātaryāvṇaḥ*, the gods who come in the morning, and *daivyaṃ janam*, any other group of divine beings. Bring (them to) the sacrifice. *Prātaryāvṇaḥ*: the *a* is dropped by *alloponaḥ*. *Sahaskṛta*: *saha* is strength, that by which one overcomes; 'made by it' is *sahaskṛtaḥ*; the non-dropping of the instrumental ending is Vedic."
 
@@ -9725,16 +9729,18 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **English Translation (the source's own, p. 566)** — "Strength-generated (or produced by friction) Agni, giver of rewards, provider of dwellings, bring and seat the gods that move in the morning and other divine beings to drink the Soma-juice in this sacrifice."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 566–567**
-- **sahaskṛte** — "*balena araṇibhyāṃ mathita*: churned by the two *araṇis* with strength. When Agni is produced, strength, that is, force, is used in the *araṇi*-sticks; hence 'one churned (made to appear) by strength' is the idea. *Sahas* means strength (Ni. 2-[?] as read). In the sacrifice they lay one piece of the *araṇi* wood on another, churn it, and produce Agni; for that churning force has to be used." *(The Kannada author adds in English:)* "Produced by friction which requires strength to perform effectually."
+- **sahaskṛte** — "*balena araṇibhyāṃ mathita*: churned by the two *araṇis* with strength. When Agni is produced, strength, that is, force, is used in the *araṇi*-sticks; hence 'one churned (made to appear) by strength' is the idea. *Sahas* means strength (Ni. 3-9). In the sacrifice they lay one piece of the *araṇi* wood on another, churn it, and produce Agni; for that churning force has to be used." *(The Kannada author adds in English:)* "Produced by friction which requires strength to perform effectually."
 - **prātaryāvṇaḥ** — "*prātarāgacchataḥ*: those who go or move in the morning; that is, those who go to the sacrifices that the sacrificers perform in the morning."
 - **santya** — "the giver of fruit."
 - **iha** — "in these sacrifices"; **adya** — "now, today."
 - **daivyaṃ janam** — "the people belonging to the gods, that is, the deities. Since in this ṛk no particular deity is stated as *daivyaṃ janam*, it may be inferred that the thirty-three deities named Vasus, Rudras and Ādityas, spoken of in the first ṛk of this sūkta, are meant."
 - **āsādaya** — "make (them) sit, cause (them) to sit down." **vaso** — "leader of the place of dwelling."
 
+### Page 567
+
 **Vyākaraṇa-prakriyā** *(p. 567 — grammar page, noted briefly)*
-- **prātaryāvṇaḥ**: *prātar* is an indeclinable ending in *r*; root *yā prāpaṇe*; "*prātaḥ yānti*"; *vanip* by *ato manin kvanib vanipaś ca* (Pā. 3-2-74 as read [?]); *prātaryāvan*, *śas*; *alloponaḥ* (Pā. 6-4-134 as read) drops the *a* of *an*; *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11 as read) gives *ṇ* for *n*; because of the second member being a *kṛd*, the first keeps its natural accent, and the root's own accent (*dhātusvara*) alone remains.
-- **sahaskṛta**: "*sahate 'bhibhavaty anena iti sahaḥ balam*", root *saha marṣaṇe*, the suffix *asun* by *sarvadhātubhyo 'sun*; "*sahasā kṛtaḥ*", an instrumental *tatpuruṣa*; *ojaḥsahombhastamasas tṛtīyāyāḥ* (Pā. 6-3-3 as read [?]) — ओजःसहोऽम्भस्तमसस्तृतीयायाः [as I read it] — the instrumental ending does not drop (*aluk*) when the second member follows; since this is a case-ending that depends on a *prātipadika*, the *luk* that would come by *supo dhātuprātipadikayoḥ* ought logically not to come; but by the maxim *sarve vidhayaś chandasi vikalpyante* this too is optional, and so the *luk* of the instrumental does come here: *sahaskṛta*. **|| 9 ||**
+- **prātaryāvṇaḥ**: *prātar* is an indeclinable ending in *r*; root *yā prāpaṇe*; "*prātaḥ yānti*"; *vanip* by *ato manin kvanib vanipaś ca* (Pā. 3-2-74); *prātaryāvan*, *śas*; *allopo 'naḥ* (no number printed) drops the *a* of *an*; *prātipadikāntanumvibhaktiṣu ca* (no number printed) gives *ṇ* for *n*; because of the second member being a *kṛd*, the first keeps its natural accent, and the root's own accent (*dhātusvara*) alone remains.
+- **sahaskṛta**: "*sahate 'bhibhavaty anena iti sahaḥ balam*", root *saha marṣaṇe*, the suffix *asun* by *sarvadhātubhyo 'sun*; "*sahasā kṛtaḥ*", an instrumental *tatpuruṣa*; *ojaḥsahombhastamasas tṛtīyāyāḥ* (Pā. 6-3-3) — ओजःसहोऽम्भस्तमसस्तृतीयायाः — the instrumental ending does not drop (*aluk*) when the second member follows; since this is a case-ending that depends on a *prātipadika*, the *luk* that would come by *supo dhātuprātipadikayoḥ* ought logically not to come; but by the maxim *sarve vidhayaś chandasi vikalpyante* this too is optional, and so the *luk* of the instrumental does come here: *sahaskṛta*. **|| 9 ||**
 
 ---
 
