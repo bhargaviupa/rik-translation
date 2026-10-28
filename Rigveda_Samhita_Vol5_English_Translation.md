@@ -4518,27 +4518,29 @@
 
 ### Rik 52.12 (pp. 252–, PDF 268–)
 
-**Saṃhitā-pāṭha** *(p. 252; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 252; accents as printed)*
 
-> **त्वमस्य पारे रजसो व्योमनः स्वभूत्योजा अवसे धृषन्मनः ।**
-> **चकृषे भूमिं प्रतिमानमोजसोऽपः स्वः परिभूरेष्या दिवम् ॥ १२ ॥**
+> **त्वम॒स्य पा॒रे रज॑सो॒ व्यो॑मनः॒ स्वभू॑त्योजा॒ अव॑से धृषन्मनः ।**
+> **च॒कृ॒षे भूमिं॑ प्रति॒मान॒मोज॑सो॒ऽपः स्वः॑ परि॒भूरे॒ष्या दिवं॑ ॥ १२ ॥** [accent ?]
 
-*tvam asya pāre rajaso vyomanaḥ svabhūtyojā avase dhṛṣanmanaḥ |*
-*cakṛṣe bhūmiṃ pratimānam ojaso 'paḥ svaḥ paribhūr eṣy ā divam || 12 ||*
+*tvám asyá pāré rájaso vyòmanaḥ svábhūtyojā ávase dhṛṣanmanaḥ |*
+*cakṛṣé bhū́miṃ pratimā́nam ójaso 'páḥ svaḥ paribhū́r eṣyā́ dívaṃ || 12 ||*
+
+*(Pass: [accent ?] — the bar read under ರೇ of* paribhūr eṣyā *stands between ರೇ and ಷ್ಯಾ; the print sets* svaḥ *("ಸ್ವಃ") with a stroke, no numeral; line 2 ends "ದಿವಂ".)*
 
 **Pada-pāṭha** *(p. 252)*
 
 > त्वम् । अस्य । पारे । रजसः । विऽओमनः । स्वभूतिऽओजाः । अवसे । धृषत्ऽमनः ।
-> चकृषे । भूमिम् । प्रतिऽमानम् । ओजसः । अपः । स्वः [स्वरिति] । परिऽभूः । एषि । आ । दिवम् ॥ १२ ॥
+> चकृषे । भूमिम् । प्रतिऽमानम् । ओजसः । अपः । स्व१रिति स्वः । परिऽभूः । एषि । आ । दिवम् ॥ १२ ॥
 
 *tvam | asya | pāre | rajasaḥ | vi-omanaḥ | svabhūti-ojāḥ | avase | dhṛṣat-manaḥ |*
-*cakṛṣe | bhūmim | prati-mānam | ojasaḥ | apaḥ | svar iti svaḥ | pari-bhūḥ | eṣi | ā | divam || 12 ||*
+*cakṛṣe | bhūmim | prati-mānam | ojasaḥ | apaḥ | sva1r iti svaḥ [print ಸ್ವ೧ರಿತಿ ಸ್ವಃ] | pari-bhūḥ | eṣi | ā | divam || 12 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 252 — begins here; continues on p. 253)*
 
-> **हे धृषन्मनः शत्रूणां धर्षकमनोयुक्तेन्द्र । अस्यास्माभिः पश्यमानस्य व्योमनो व्याप्तस्यान्तरिक्षस्य रजसो लोकस्य पार उपरिप्रदेशे वर्तमानः स्वभूत्योजाः स्वभूतबलस्त्वमवसेऽस्मद्रक्षणार्थं भूमिं भूलोकं चकृषे कृतवानसि । किंच ओजसो बलवतां बलस्य प्रतिमानं प्रतिनिधिरभूः । तथा स्वः सुष्ठु …** *(the sentence continues on p. 253, PDF 269)*
+> **हे धृषन्मनः शत्रूणां धर्षकमनोयुक्तेन्द्र । अस्यास्माभिः परिदृश्यमानस्य व्योमनो व्याप्तस्यान्तरिक्षस्य रजसो लोकस्य पार उपरिप्रदेशे वर्तमानः स्वभूत्योजाः स्वभूतबलस्त्वमवसेऽस्मद्रक्षणार्थं भूमिं भूलोकं चकृषे कृतवानसि । किंच ओजसो बलवतां बलस्य प्रतिमानं प्रतिनिधिरभूः । तथा स्वः सुष्ठु …** *(the sentence continues on p. 253, PDF 269)*
 
-*he dhṛṣanmanaḥ śatrūṇāṃ dharṣakamanoyuktendra | asyāsmābhiḥ paśyamānasya vyomano vyāptasyāntarikṣasya rajaso lokasya pāra upariprade­śe vartamānaḥ svabhūtyojāḥ svabhūtabalas tvam avase 'smadrakṣaṇārthaṃ bhūmiṃ bhūlokaṃ cakṛṣe kṛtavān asi | kiṃca ojaso balavatāṃ balasya pratimānaṃ pratinidhir abhūḥ | tathā svaḥ suṣṭhu …* *(continued on p. 253)*
+*he dhṛṣanmanaḥ śatrūṇāṃ dharṣakamanoyuktendra | asyāsmābhiḥ paridṛśyamānasya vyomano vyāptasyāntarikṣasya rajaso lokasya pāra upariprade­śe vartamānaḥ svabhūtyojāḥ svabhūtabalas tvam avase 'smadrakṣaṇārthaṃ bhūmiṃ bhūlokaṃ cakṛṣe kṛtavān asi | kiṃca ojaso balavatāṃ balasya pratimānaṃ pratinidhir abhūḥ | tathā svaḥ suṣṭhu …* *(continued on p. 253)*
 
 ---
 
@@ -4552,7 +4554,7 @@
 
 *… tathā svaḥ suṣṭhu araṇīyaṃ gantavyam | apa ity antarikṣanāma | apo 'ntarikṣalokam ā divaṃ dyulokaṃ ca paribhūḥ parigrahītā | paripūrṇo bhavati parigrahārthaḥ | eṣi prāpnoṣi ||* *(the print reads* "svaḥ" *with the gloss "that which is well to be gone to"; and "*apaḥ*" as a name of the atmosphere.)*
 
-*(The tail of the bhāṣya, p. 253, is characterized:* asya *(the vibhakti-accent by* ūḍidam…*);* vyomanaḥ *("*ava rakṣaṇagatikāntī…*", the root* av *with the sense of going; "*viśeṣeṇa gacchati vyāpnotīti vyoma*", or "*vṛṣṭipradānena viśeṣeṇa prāṇino 'vatīti vyoma*"; *manin *by* anyebhyo 'pi dṛśyante*; the *ū*-substitute by* jvarasvarisrivyavimavām upadhāyāś ca *Pā. 6-4-20 as read [?]; a bahuvrīhi accent);* svaḥ *(*su* +* ṛ gatau*; *vic*; *yaṇ*; *svarādinipātam avyayam*; *avyayād āpsupaḥ* drops the case-ending, the word being *svar* with *visarga*); *eṣi *(*iṇ gatau*, adādi, *śap* elided).)*
+*(The tail of the bhāṣya, p. 253, is characterized:* asya *(the vibhakti-accent by* ūḍidam…*);* vyomanaḥ *("*ava rakṣaṇagatikāntī…*", the root* av *with the sense of going; "*viśeṣeṇa gacchati vyāpnotīti vyoma*", or "*vṛṣṭipradānena viśeṣeṇa prāṇino 'vatīti vyoma*"; *manin *by* anyebhyo 'pi dṛśyante*; the *ū*-substitute by* jvarasvarisrivyavimavām upadhāyāś ca *no number in the tail; a bahuvrīhi accent);* svaḥ *(*su* +* ṛ gatau*; *vic*; *yaṇ*; *svarādinipātam avyayam*; *avyayād āpsupaḥ* drops the case-ending, the word being *svar* with *visarga*); *eṣi *(*iṇ gatau*, adādi, *śap* elided).)*
 
 **Translation of the end of the bhāṣya:** "… and *svaḥ*, that which is well to be gone to; *apaḥ* is a name of the atmosphere — the atmosphere-world, and up to heaven, *ā divam*, the heaven-world: you *paribhūḥ*, encompass (the sense of *paribhū* here is 'one who encompasses'; it means 'becomes completely full'): *eṣi*, you reach."
 
@@ -4565,15 +4567,15 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 254**
 - **vyomanaḥ** — "*Viśeṣeṇa gacchati vyāpnotīti vyoma*, or *vṛṣṭipradānena viśeṣeṇa prāṇino 'vati rakṣatīti vyoma*: by these two derivations the sky is all-pervading; or the sense is 'that which can protect living beings by giving rain'. By the derivation '*vividham oma rakṣaṇaṃ yasmin*', 'in which there is protection of many kinds', one may say 'protecting all'."
 - **svabhūtyojāḥ** — "One who has strength that is his own; that is, one who does not depend on anything else."
-- **svaḥ** — "*Su* + *araṇīyam gantavyam*: a thing that goes readily — water. But since the word *svar* denotes the atmosphere (Ni. 2-10 as read [?]), the sense 'atmosphere' may be given here too."
+- **svaḥ** — "*Su* + *araṇīyam gantavyam*: a thing that goes readily — water. But since the word *svar* denotes the atmosphere (Ni. 2-10), the sense 'atmosphere' may be given here too."
 - **paribhūḥ** — "'One who has encompassed': for the root *bhū* preceded by the prefix *pari*, the sense of encompassing is here."
 
 **Vyākaraṇa-prakriyā** *(pp. 254–255 — grammar pages, noted briefly)*
-- **asya**: the genitive singular of *idam*; by *ūḍidaṃpadādyappumrāibhyaḥ* (Pā. 6-1-171) the vibhakti gets an acute accent.
-- **vyomanaḥ**: the root *av* is used here in the sense of going; "*av rakṣaṇagatikāntī…*" is read in many senses. "*Viśeṣeṇa gacchati vyāpnotīti vyoma*", or "*vṛṣṭipradānena viśeṣeṇa prāṇino 'vati rakṣatīti vyoma*": *manin* by *anyebhyo 'pi dṛśyante* (Pā. 3-2-75); by *jvaratvarasrivyavimavāṃ copadhāyāś ca* (Pā. 6-4-20) the penultimate *a* of *av* and the final *v* together take *ū*; *ū* + *man*, the *ārdhadhātuka* nimitta gives *guṇa* to the *ū*; *vi* + *oman*: *yaṇ*: *vyoman*; being in the *dāsībhārādi* group, the accent of the first member; or, in the sense of the action, *manin*, as before *oma*; "*vividham oma rakṣaṇaṃ yasmin*": a bahuvrīhi, so *bahuvrīhau prakṛtyā pūrvapadam*; since in *vi + oman* the acute *i* is replaced by *y*, the *anudātta o* after the *yaṇ* gets *svarita* by *udāttasvaritayor yaṇaḥ svaritonudāttasya*.
-- **cakṛṣe**: *ḍukṛñ karaṇe*; *liṭ* second singular *thās*, *se*; the *iṭ* is forbidden by *ekāca upadeśe 'nudāttāt* [as read]; since the word begins a *pāda*, no *nighāta*; by the suffix-accent, end-acute.
-- **svaḥ**: *su* before, and the root *ṛ gatau*; *vic* by *anyebhyo 'pi dṛśyante*; when the suffix follows, *guṇa* of the root; *su* + *ar*: *yaṇ*; *svarādinipātam avyayam* gives the *avyaya* name; *avyayād āpsupaḥ* drops the case-ending; *svar* — at the end, the *visarga*: *svaḥ*; by *nyaṅ svarau svaritau* (Phiṭ-sūtra 4-… as read [?]) *svaḥ* is *svarita*.
-- **eṣi**: *iṇ gatau*, *adādi*; *laṭ* second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* gives *luk*; *sip* being *sārvadhātuka*, *guṇa* of the root; *ādeśapratyayayoḥ* (Pā. 8-3-59) gives *ṣatva* of the suffix *s*: *eṣi*; since it follows an *atiṅ*, *nighāta*. **|| 12 ||**
+- **asya**: the genitive singular of *idam*; by *ūḍidaṃpadādyappumrāibhyaḥ* (Pā. sū. 6-1-171) the vibhakti gets an acute accent.
+- **vyomanaḥ**: the root *av* is used here in the sense of going; "*av rakṣaṇagatikāntī…*" is read in many senses. "*Viśeṣeṇa gacchati vyāpnotīti vyoma*", or "*vṛṣṭipradānena viśeṣeṇa prāṇino 'vati rakṣatīti vyoma*": *manin* by *anyebhyo 'pi dṛśyante* (Pā. sū. 3-2-75); by *jvaratvarasrivyavimavāṃ copadhāyāś ca* (Pā. sū. 6-4-20) the penultimate *a* of *av* and the final *v* together take *ū*; *ū* + *man*, the *ārdhadhātuka* nimitta gives *guṇa* to the *ū*; *vi* + *oman*: *yaṇ*: *vyoman*; being in the *dāsībhārādi* group, the accent of the first member; or, in the sense of the action, *manin*, as before *oma*; "*vividham oma rakṣaṇaṃ yasmin*": a bahuvrīhi, so *bahuvrīhau prakṛtyā pūrvapadam*; since in *vi + oman* the acute *i* is replaced by *y*, the *anudātta o* after the *yaṇ* gets *svarita* by *udāttasvaritayor yaṇaḥ svaritonudāttasya* (Pā. sū. 8-2-4).
+- **cakṛṣe**: *ḍukṛñ karaṇe*; *liṭ* second singular *thās*, *se*; the *iṭ* is forbidden by *ekāca upadeśe 'nudāttāt* (no number printed); since the word begins a *pāda*, no *nighāta*; by the suffix-accent, end-acute.
+- **svaḥ**: *su* before, and the root *ṛ gatau*; *vic* by *anyebhyo 'pi dṛśyante*; when the suffix follows, *guṇa* of the root; *su* + *ar*: *yaṇ*; *svarādinipātam avyayam* gives the *avyaya* name; *avyayād āpsupaḥ* (Pā. sū. 2-4-82) drops the case-ending; *svar* — at the end, the *visarga*: *svaḥ*; by *nyaṅ svarau svaritau* (Phi. sū. 74; the Sanskrit tail has Phi. 4-6) *svaḥ* is *svarita*.
+- **eṣi**: *iṇ gatau*, *adādi*; *laṭ* second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* gives *luk*; *sip* being *sārvadhātuka*, *guṇa* of the root; *ādeśapratyayayoḥ* (no number printed) gives *ṣatva* of the suffix *s*: *eṣi*; since it follows an *atiṅ*, *nighāta*. **|| 12 ||**
 
 ---
 
