@@ -10092,27 +10092,35 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 494)*
 
-> आ यद्दुवः शतक्रतवा कामं जरितॄणाम् ।
-> ऋणोरक्षं न शचीभिः ॥ १५ ॥
+*(Line 2 flagged [accent ?]: the second anudātta bar stands under* क्षं*, where the Pada marks* अक्षं *with a svarita; recorded as printed.)*
 
-> *ā yadduvaḥ śatakratavā kāmaṃ jaritṝṇām |*
-> *ṛṇorakṣaṃ na śacībhiḥ ‖ 15 ‖*
+> आ यद्दुवः॑ शतक्रत॒वा कामं॑ जरि॒तॄणां ।
+> ऋ॒णोरक्षं॒ न शची॑भिः ॥ १५ ॥ [accent ?]
+
+> *ā yaddúvaḥ śatakratavā́ kā́maṃ jaritṝ́ṇāṃ |*
+> *ṛṇórakṣaṃ ná śácībhiḥ || 15 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> आ । यत् । दुवः । शतक्रतो इति शतऽक्रतो । आ । कामम् । जरितॄणाम् ।
-> ऋणोः । अक्षम् । न । शचीभिः ॥ १५ ॥
+> आ । यत् । दुवः । शतक्रतो इति शतऽक्रतो । आ । कामं । जरितॄणां ।
+> ऋणोः । अक्षं । न । शचीभिः ॥ १५ ॥
 
-> *ā | yat | duvaḥ | śatakrato iti śata 'krato | ā | kāmam | jaritṝṇām |*
-> *ṛṇoḥ | akṣam | na | śacībhiḥ ‖ 15 ‖*
+> *ā | yat | duvaḥ | śatakrato iti śata 'krato | ā | kāmaṃ | jaritṝṇāṃ |*
+> *ṛṇoḥ | akṣaṃ | na | śacībhiḥ ‖ 15 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 494)*
 
-> हे शतक्रतो इन्द्र यद्दुवो धनं कामितार्थरूपमा स्तोतृभिराप्तव्यमस्ति तं कामं जरितॄणां स्तोतॄणामनुग्रहाय आ ऋणोः । आनीय प्रक्षिपसि । तत्र दृष्टान्तः । शचीभिः कर्मभिः शकटोचितव्यापारविशेषैरक्षं न । यथाक्षं प्रक्षिपन्ति तद्वत् ॥ शचीभिः । शचीशब्दः शार्ङ्गरवादिञीनन्त आद्युदात्तः । पा. ४-१-७३ ॥
+*(The bhāṣya ends with the varga number ॥ ३० ॥.)*
 
-> *he śatakrato indra yadduvo dhanaṃ kāmitārtharūpamā stotṛbhirāptavyamasti taṃ kāmaṃ jaritṝṇāṃ stotṝṇāmanugrahāya ā ṛṇoḥ | ānīya prakṣipasi | tatra dṛṣṭāntaḥ | śacībhiḥ karmabhiḥ śakaṭocitavyāpāraviśeṣairakṣaṃ na | yathākṣaṃ prakṣipanti tadvat ‖ śacībhiḥ | śacīśabdaḥ śārṅgaravādiñīnanta ādyudāttaḥ | pā. 4-1-73 ‖*
+> हे शतक्रतो इन्द्र यद्दुवो धनं कामितार्थरूपमा स्तोतृभिराप्तव्यमस्ति तं कामं जरितॄणां स्तोतॄणामनुग्रहाय आ ऋणोः । आनीय प्रक्षिपसि । तत्र दृष्टान्तः । शचीभिः कर्मभिः शकटोचितव्यापारविशेषैरक्षं न । यथाक्षं प्रक्षिपन्ति तद्वत् ॥ शचीभिः । शचीशब्दः शार्ङ्गरवादिङीनन्त आद्युदात्तः । पा. ४-१-७३ ॥ ॥ ३० ॥
+
+> *he śatakrato indra yadduvo dhanaṃ kāmitārtharūpamā stotṛbhirāptavyamasti taṃ kāmaṃ jaritṝṇāṃ stotṝṇāmanugrahāya ā ṛṇoḥ | ānīya prakṣipasi | tatra dṛṣṭāntaḥ | śacībhiḥ karmabhiḥ śakaṭocitavyāpāraviśeṣairakṣaṃ na | yathākṣaṃ prakṣipanti tadvat ‖ śacībhiḥ | śacīśabdaḥ śārṅgaravādiṅīnanta ādyudāttaḥ | pā. 4-1-73 ‖ ‖ 30 ‖*
 
 *Translation:* "O Śatakratu Indra! The wealth (*duvaḥ*) — the desired object — which the praisers are to obtain: that wish of the praisers you bring (*ā ṛṇoḥ*) and deliver for their favour. Illustration: *śacībhiḥ* — by actions, by operations proper to a cart — as one sets the axle. *Śacībhiḥ*: *śacī* ends in *ṅīn* (*śārṅgaravādibhyo ṅīn*, P. 4-1-73) and is initial-acute."
+
+### Page 495 — Sūkta 30, Rik 15 (continued)
 
 **Pratipadārtha** *(p. 495, rendered)* — **शतक्रतो** O Indra; **यद् दुवः** whatever wished-for wealth; **आ** [your worshippers] should obtain; **कामम्** the desired wealth; **जरितॄणाम्** for the favour of the praisers; **शचीभिः** by [the cart's] turning movements; **अक्षं न** as one turns and sets the axle; **आ ऋणोः** bring and give.
 
@@ -10122,9 +10130,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > O Satakratu (Indra), you bestow upon your praisers such wealth as they desire as the axle revolves with the acts (movements of the cart).
 
-**Viśeṣa-viṣayagaḷu** *(p. 495)* — In this Rik too the simile does not fit well; as the axle between the wheels of a chariot turns quickly and continually, so quickly fulfil my wishes. **दुवः** — the commentator takes it as 'wealth'; Skandasvāmin as *paricaryā*; Veṅkaṭamādhava, following Skandasvāmin, takes it as *paricaraṇaṃ karma*. **जरितॄणाम्** — *stotṝṇām*: of the praisers. **शचीभिः** — *karmabhiḥ*; *śakaṭocitavyāpāraviśeṣaiḥ*: since *śacī* is read among the twenty-six names of action beginning *apas*, 'by actions, by work'. Since the word *cakryoḥ* is used [in the preceding Rik], the sense is by the works of the wheels or of the chariot, that is, by swift-moving actions.
+**Viśeṣa-viṣayagaḷu** *(p. 495)* — In this Rik too the simile does not fit well; as the axle between the wheels of a chariot turns quickly and continually, so quickly fulfil my wishes. **दुवः** — the commentator takes it as 'wealth'; Skandasvāmin as *paricaryā*; Veṅkaṭamādhava, following Skandasvāmin, takes it as *paricaraṇaṃ karma*. **जरितॄणाम्** — *stotṝṇām*: of the praisers. **शचीभिः** — *karmabhiḥ*; *śakaṭocitavyāpāraviśeṣaiḥ*: since *śacī* is read among the twenty-six names of action beginning *apaḥ, apnaḥ*, 'by actions, by work'. Since the word *cakryoḥ* is used [in the preceding Rik], the sense is by the works of the wheels or of the chariot, that is, by swift-moving actions.
 
-**Grammar (pp. 495–496), noted briefly:** *śacībhiḥ* (*śārṅgaravādibhyo ṅīn* P. 4-1-73; *ñit* → initial acute P. 6-1-197; *bhis* unaccented P. 3-1-4; *udāttād anudāttasya svaritaḥ* P. 8-4-66); *śatakrato* (all-low by *āmantritasya ca*); *ṛṇoḥ* (explained in the preceding Rik; at the head of the pāda lowering is barred by *āpādādau* [as printed 'āpādādau']); *jaritṝṇām* (explained in the tenth Rik). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(pp. 495–496, noted briefly)* — *śacībhiḥ*: feminine *ṅīn* by '*śārṅgaravādyaño ṅīn*' (Pā. sū. 4-1-73); *śaci* is read in the *śārṅgarava* group; instrumental plural *bhis*. *(p. 496)* *rutva* and visarga: *śacībhiḥ*; initial udātta as *ṅīn* is *ñit*, by '*ñnity ādir nityam*' (Pā. sū. 6-1-197); *bhis* grave by '*anudāttau suppitau*'; the *ī* after *c* svarita by '*udāttād anudāttasya svaritaḥ*'. *śatakrato*: all grave by '*āmantritasya ca*' (Pā. sū. 8-1-19). *ṛṇoḥ*: explained in the preceding sūkta [as printed; i.e. Rik]; at the head of the pāda, the lowering of '*tiṅṅ atiṅaḥ*' is barred by '*apādādau*'. *jaritṝṇām*: explained in the tenth mantra; genitive plural.
 
 ---
 
