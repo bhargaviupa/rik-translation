@@ -3,8 +3,8 @@
 Range: Sūkta 24 Ṛk 14 (printed p. 288 = PDF 302) through the end of Sūkta 29 (before the Sūkta 30 heading, ~p. 458 = PDF 472). Better scan: printed = PDF − 14.
 Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
-Done through: Ṛk 25.1 (p. 298 upper = PDF 312).
-Next unit: Ṛk 25.2 (pp. 298–300 = PDF 312–314).
+Done through: Ṛk 25.2 (p. 300 = PDF 314).
+Next unit: Ṛk 25.3 (pp. 301–302 = PDF 315–316).
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
