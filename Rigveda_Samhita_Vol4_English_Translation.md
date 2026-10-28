@@ -1297,15 +1297,17 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 - **skabhitāsaḥ** (concluded): *yasya vibhāṣā* — यस्य विभाषा — Pā. 7-2-15 bars the *iṭ* of *ktvā*/*kta* after a root whose *iṭ* is optional somewhere; so with *skabh + ta* the *iṭ* would be barred; but the sūtra *grasitaskabhitastabhita…* — ग्रसितस्कभितस्तभित… — Pā. 7-2-34 lists *skabhita* as an irregular form, so *iṭ* comes; *jas* takes *asuk*.
 - **ārabhe**: root *rabha rābhasye* with the preverb *ā*; *sampadādibhyaḥ kvip* — a vārtika — gives *kvip* in the verbal-noun sense; *gatikārakopapadāt kṛt* (no number printed) — the later member keeps its natural accent; the case-ending is replaced by *śe*. Rik 2 ends here (*|| 2 ||*).
 
-### Rik 34.3 (pp. 85–89, PDF 99–103)
+### Rik 34.3 (pp. 85–88, PDF 99–103; PDF 102 is a duplicate of PDF 101)
 
-**Saṃhitā-pāṭha** *(p. 85; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 85; Saṃhitā accents as printed; Pada unaccented)*
 
-> **समाने अहन्त्रिरवद्यगोहना त्रिरद्य यज्ञं मधुना मिमिक्षतम् ।**
-> **त्रिर्वाजवतीरिषो अश्विना युवं दोषा अस्मभ्यमुषसश्च पिन्वतम् ॥ ३ ॥**
+> स॒मा॒ने अह॒न्त्रिर॑वद्यगोहना॒ त्रिर॒द्य य॒ज्ञं मधु॑ना मिमिक्षतम् ।
+> त्रिर्वाज॑वती॒रिषो॑ अश्विना यु॒वं दो॒षा अ॒स्मभ्य॑मु॒षस॑श्च पिन्वतम् ॥ ३ ॥
+>
+> *samāné ahan trír avadyagohanā trír adyá yajñám mádhunā mimikṣatam |*
+> *trir vā́javatīr íṣo aśvinā yuvám doṣā́ asmábhyam uṣásaś ca pinvatam || 3 ||*
 
-*samāne ahan trir avadyagohanā trir adya yajñaṃ madhunā mimikṣatam |*
-*trir vājavatīr iṣo aśvinā yuvaṃ doṣā asmabhyam uṣasaś ca pinvatam || 3 ||*
+(As printed: no mark at all on *aśvinā* in the second line; the dashes below *mimikṣatam* in the print belong to the conjuncts of the line above.)
 
 **Pada-pāṭha** *(p. 85)*
 
@@ -1315,21 +1317,25 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 *samāne | ahan | triḥ | avadya-gohanā | triḥ | adya | yajñam | madhunā | mimikṣatam ||*
 *triḥ | vāja-vatīḥ | iṣaḥ | aśvinā | yuvam | doṣāḥ | asmabhyam | uṣasaḥ | ca | pinvatam || 3 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 86; the first half in full, the grammatical tail characterized)*
+### Page 86
 
-> हे अश्विना अश्विनौ देवौ युवं युवामुभौ समानेऽहन्नेकस्मिन्ननुष्ठानदिने त्रिरवद्यगोहना त्रिवारमनुष्ठानगतानां दोषाणां संवरणकारिणौ भवतम् । अद्यास्मिन्दिने यज्ञं यज्ञगतं हविर्मधुना मधुररसेन त्रिर्मिमिक्षतम् । त्रिवारं सिञ्चतम् । किंच दोषा उषसश्च रात्रीर्दिवसांश्च रात्रिषु दिवसेषु नैरन्तर्येण वाजवतीर्बलकारिणीरिषोऽन्नान्यस्मभ्यं पिन्वतम् । सिञ्चतम् । प्रयच्छतमित्यर्थः ॥
+**Sāyaṇa-bhāṣya** *(p. 86, in full; numerals zoom-checked)*
 
-*he aśvinā aśvinau devau yuvaṃ yuvām ubhau samāne 'han ekasminn anuṣṭhānadine trir avadyagohanā trivāram anuṣṭhānagatānāṃ doṣāṇāṃ saṃvaraṇakāriṇau bhavatam | adyāsmin dine yajñaṃ yajñagataṃ havir madhunā madhurarasena trir mimikṣatam | trivāraṃ siñcatam | kiṃca doṣā uṣasaś ca rātrīr divasāṃś ca rātriṣu divaseṣu nairantaryeṇa vājavatīr balakāriṇīr iṣo 'nnāny asmabhyaṃ pinvatam | siñcatam | prayacchatam ity arthaḥ ||*
+> हे अश्विना अश्विनौ देवौ युवं युवामुभौ समानेऽहन्नेकस्मिन्ननुष्ठानदिने त्रिरवद्यगोहना त्रिवारमनुष्ठानगतानां दोषाणां संवरणकारिणौ भवतम् । अद्यास्मिन्दिने यज्ञं यज्ञगतं हविर्मधुना मधुररसेन त्रिर्मिमिक्षतम् । त्रिवारं सिञ्चतम् । किंच दोषा उषसश्च रात्रीर्दिवसांश्च रात्रिषु दिवसेषु नैरन्तर्येण वाजवतीर्बलकारिणीरिषोऽन्नान्यस्मभ्यं पिन्वतम् । सिञ्चतम् । प्रयच्छतमित्यर्थः ॥ अहन् । सुपां सुलुगिति सप्तम्या लुक् । अवद्यगोहना । गुहू संवरणे । अवद्यस्य गूहयितारौ नन्द्यादित्वाल्ल्युः । ऊदुपधाया गोहः । पा. ६-४-८९ । इति प्राप्तस्य ऊत्वस्याभावश्छान्दसः । मिमिक्षतम् । मिह सेचने । सन्येकाच उपदेशेऽनुदात्तादितीट्प्रतिषेधः । हलन्ताच्चेति सनः कित्त्वाल्लघूपधगुणाभावः । द्विर्भावहलादिशेषौ । ढत्वकत्वषत्वानि । वाजवतीः । उगितश्चेति ङीप् । पिन्वतम् । पिवि मिवि णिवि सेचने । इदित्वान्नुम् । कर्तरि शप् ॥
+
+*he aśvinā aśvinau devau yuvaṃ yuvāmubhau samāne 'hannekasminnanuṣṭhānadine triravadyagohanā trivāramanuṣṭhānagatānāṃ doṣāṇāṃ saṃvaraṇakāriṇau bhavatam | adyāsmindine yajñaṃ yajñagataṃ havirmadhunā madhurarasena trirmimikṣatam | trivāraṃ siñcatam | kiṃca doṣā uṣasaśca rātrīrdivasāṃśca rātriṣu divaseṣu nairantaryeṇa vājavatīrbalakāriṇīriṣo 'nnānyasmabhyaṃ pinvatam | siñcatam | prayacchatamityarthaḥ ‖ ahan | supāṃ sulugiti saptamyā luk | avadyagohanā | guhū saṃvaraṇe | avadyasya gūhayitārau nandyāditvāllyuḥ | ūdupadhāyā gohaḥ | pā. 6-4-89 | iti prāptasya ūtvasyābhāvaśchāndasaḥ | mimikṣatam | miha secane | sanyekāca upadeśe 'nudāttāditīṭpratiṣedhaḥ | halantācceti sanaḥ kittvāllaghūpadhaguṇābhāvaḥ | dvirbhāvahalādiśeṣau | ḍhatvakatvaṣatvāni | vājavatīḥ | ugitaśceti ṅīp | pinvatam | pivi mivi ṇivi secane | iditvānnum | kartari śap ‖*
 
 **Translation:** "O Aśvins, divine ones, both of you, on *samāne ahan* — on one and the same day of performance — be *triḥ avadyagohanā* — three times coverers (concealers) of the faults that occur in the performance. *Adya* — today — sprinkle *triḥ* — thrice — *yajñam*, the oblation in the sacrifice, *madhunā*, with the sweet juice. And *doṣā uṣasaḥ ca* — by nights and by days — i.e. in the nights and the days continuously — *pinvatam* — pour out, give — to us *iṣaḥ*, foods, *vājavatīḥ* — strength-giving."
 
-**Grammar within the bhāṣya** *(p. 86, characterized)*: *ahan* (the seventh-case singular dropped by *supāṃ sulug…*, *saptamyā luk*); *avadyagohanā* (root *guhū saṃvaraṇe*; *avadyasya gūhayitārau*, "concealers of fault", with *lyu*, and the Vedic non-lengthening: the rule *ūduḥ upadhāyā goṭ* [read *ūduṇ upadhāyā goḥ* — Pā. 6-4-89 [?]] is not applied here, being Vedic; the dual ending *ā*); *mimikṣatam* (root *miha secane*, desiderative *san*; there is no *iṭ* by *ekāca upadeśe 'nudāttāt* — Pā. 7-2-10; *halantāc ca* — Pā. 1-2-10 makes *san* *kit*, so no *guṇa*; doubling, the reduplicate cut down by *halādiḥ śeṣaḥ*; *dvirbhāva*…); *vājavatīḥ* (*ugitaś ca* — Pā. 4-1-6 — *ṅīp*); *pinvatam* (root *pivi*, *minyi*/*ninvi* *secane*; *idit*, so the nasal augment; *śap*).
+(The grammatical tail, transcribed above: *ahan* — the locative ending dropped by *supāṃ suluk…*; *avadyagohanā* — root *guh* "to cover", "the two concealers of fault", *lyu* as of the *nandyādi* class; the *ū* due by *ūd upadhāyā gohaḥ*, Pā. 6-4-89, is absent by Vedic usage; *mimikṣatam* — root *mih*, *san*, no *iṭ* by *ekāca upadeśe 'nudāttāt*, *san* *kit* by *halantāc ca*, so no *guṇa*; doubling and *halādiḥ śeṣaḥ*; *ḍh*, *k*, *ṣ*; *vājavatīḥ* — *ṅīp* by *ugitaś ca*; *pinvatam* — root *pivi* (with *mivi*, *ṇivi*) "to sprinkle", *num* as an *idit* root, *śap* by *kartari śap*.)
 
 **Pratipadārtha** *(p. 86)* — "**aśvinā** — O Aśvin deities; **yuvam** — you; **samāne ahan** — on one day; **triḥ avadyagohanā** — (do) thrice conceal (our) faults; **adya** — today; **yajñam** — the oblation connected with the sacrifice; **madhunā** — with the sweet *soma* juice; **triḥ mimikṣatam** — [desire] thrice to sprinkle (not only once); **doṣā** — by night; **uṣasaḥ ca** — and also by day; **asmabhyam** — to us; **vājavatīḥ** — nourishing; **iṣaḥ** — foods; **pinvatam** — pour out [for us]."
 
 **Bhāvārtha** *(p. 86)* — "O gods, you are great-hearted. On a single day, three times, forgive and cover our faults. And, looking upon our oblation three times with sweet [juice], give us foods that nourish us, by night and by day, in abundance."
 
 **English Translation (the source's own, p. 86)** — "Thrice on the same day you forgive the faults of the worshippers ; thrice this day you sprinkle our sacrifice with honey ; O Aswins, thrice give us nourishing foods every night and every day."
+
+### Page 87
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 87**
 - **samāne ahan** — "*whole day* [the print's English]; in one whole day on which we perform the sacrifice."
@@ -1339,12 +1345,16 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 - **asmabhyaṃ pinvatam** = *asmabhyaṃ siñcatam*: "give us."
 - **doṣā, uṣasaḥ** — "*doṣā* means night with darkness; *uṣasaḥ* = the dawn-time, which is light: day. The sense is: by day and by night."
 
-**Vyākaraṇa-prakriyā** *(pp. 87–88, grammar pages, noted briefly)*
-- **ahan** (p. 87): the seventh-case singular dropped by *supāṃ sulug…* — सुपां सुलुक्… — Pā. 7-1-39 (as *luk*).
-- **avadyagohanā**: root *guhū saṃvaraṇe* ("to cover"); *avadya* = fault; *avadyasya gūhayitārau*; the suffix *lyu* by *nandigrahipacādibhyo lyuṇinyacaḥ* — Pā. 3-1-134, with *ana* for *yu*; *avadya + guh + ana*; the lengthening of the root's penultimate *u* — *ūduṇ upadhāyā goḥ* [printed *ūdupadhāyā goḥ*] — ऊदुपधाया गोहः — Pā. 6-4-89 — occurs before a vowel-initial *guṇa*-causing ending and is not applied here (Vedic); the dual ending replaced by *ā*.
-- **mimikṣatam** (p. 87 end – p. 88, PDF 101–102): root *miha secane*; the suffix *san*; *ekāca upadeśe 'nudāttāt* — एकाच उपदेशेऽनुदात्तात् — Pā. 7-2-10: no *iṭ* for a *val*-initial *ārdhadhātuka* after a one-vowelled *anudātta* root, hence none for *san*; *halantāc ca* — हलन्ताच्च — Pā. 1-2-10: *san* after a consonant-final root is *kit* (the print explains *anta* as "near", and *hal* as with the ablative ending dropped), so *kṅiti ca* — Pā. 1-1-5 bars *guṇa*; doubling by *sanyaṅoḥ* — Pā. 6-1-9, *halādiḥ śeṣaḥ* dropping the first *h*; *h* → *ḍh* by *ho ḍhaḥ* — हो ढः — Pā. 8-2-31; *ḍh* → *k* by *ṣaḍhoḥ kassi* — षढोः कः सि — Pā. 8-2-41; *s* → *ṣ* by *ādeśapratyayayoḥ* — आदेशप्रत्यययोः — Pā. 8-3-59: *mimikṣa*; then the *loṭ* second-person dual, replaced by *tam*.
-- **vājavatīḥ**: *vāja* = strength [the print's gloss]; *matup* by *tadasyāsty asminn iti matup* — तदस्यास्त्यस्मिन्निति मतुप् — Pā. 5-2-94; the *m* of *matup* becomes *v* after a stem ending in *a* [or *ā*] by *māduparadhāyāś ca matorvo 'yavādibhyaḥ* — मादुपधायाश्च मतोर्वोऽयवादिभ्यः — Pā. 8-2-9; *matup* is *ugit*, so *ṅīp* in the feminine by *ugitaś ca* — उगितश्च — Pā. 4-1-6.
-- **pinvatam**: root *pivi secane*, *idit*, so the augment *num* by *idito num dhātoḥ* — इदितो नुम् धातोः — Pā. 7-1-58; *loṭ*, *thas*, *lasya* … replaced by *tam*; *śap* by *kartari śap* — Pā. 3-1-68. Rik 3 ends here (*|| 3 ||*).
+**Vyākaraṇa-prakriyā** *(pp. 87–88, grammar pages, noted briefly; numerals zoom-checked)*
+- **ahan** (p. 87): the seventh-case singular dropped by *supāṃ sulug…* — सुपां सुलुक्… (no number printed here) as *luk*.
+- **avadyagohanā**: root *guhū saṃvaraṇe* ("to cover"); *avadya* = fault; *avadyasya gūhayitārau*; the suffix *lyu* by *nandigrahi…* (no number printed here), with *ana* for *yu*; *avadya + guh + ana*; the lengthening of the root's penultimate *u* — *ūd upadhāyā gohaḥ* — ऊदुपधाया गोहः — Pā. 6-4-89 — occurs before a vowel-initial *guṇa*-causing ending and is not applied here (Vedic); the dual ending replaced by *ā*.
+- **mimikṣatam** (p. 87 end – p. 88): root *miha secane*; the suffix *san*; *ekāca upadeśe 'nudāttāt* — एकाच उपदेशेऽनुदात्तात् — Pā. 7-2-10: no *iṭ* for a *val*-initial *ārdhadhātuka* after a one-vowelled *anudātta* root, hence none for *san*; *halantāc ca* — हलन्ताच्च — Pā. —
+
+### Page 88
+
+(*mimikṣatam*, continued) 1-2-10: *san* after a consonant-final root is *kit* (the print explains *anta* as "near", and *hal* as with the ablative ending dropped), so *kṅiti ca* (no number printed) bars *guṇa*; doubling by *sanyaṅoḥ* — Pā. 7-4-89 as printed [sic: for 6-1-9], *halādiḥ śeṣaḥ* dropping the first *h*; *h* → *ḍh* by *ho ḍhaḥ* — हो ढः — Pā. 8-2-31; *ḍh* → *k* by *ṣaḍhoḥ kassi* — षढोः कः सि — Pā. 8-2-41; *s* → *ṣ* by *ādeśapratyayayoḥ* — आदेशप्रत्यययोः — Pā. 8-3-59: *mimikṣa*; then the *loṭ* second-person dual, replaced by *tam*.
+- **vājavatīḥ**: *vāja* = strength [the print's gloss]; *matup* by *tadasyāsty asminn iti matup* — तदस्यास्त्यस्मिन्निति मतुप् (no number printed); the *m* of *matup* becomes *v* after a stem ending in *a* [or *ā*] by *māduparadhāyāś ca matorvo 'yavādibhyaḥ* — मादुपधायाश्च मतोर्वोऽयवादिभ्यः — Pā. 8-2-9; *matup* is *ugit*, so *ṅīp* in the feminine by *ugitaś ca* — उगितश्च — Pā. 4-1-6.
+- **pinvatam**: root *pivi secane*, *idit*, so the augment *num* by *idito num dhātoḥ* — इदितो नुम् धातोः — Pā. 7-1-58; *loṭ*, *thas*, *lasya* … replaced by *tam*; *śap* by *kartari śap* (no number printed). A tailpiece ornament closes p. 88. Rik 3 ends here (*|| 3 ||*).
 
 ### Rik 34.4 (pp. 88–91, PDF 102–105)
 
