@@ -5165,13 +5165,13 @@
 
 ### Rik 53.7 (pp. 285–, PDF 301–)
 
-**Saṃhitā-pāṭha** *(p. 285; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 285; accents as printed)*
 
-> **युधा युधमुप घेदेषि धृष्णुया पुरा पुरं समिदं हंस्योजसा ।**
-> **नम्या यदिन्द्र सख्या परावति निबर्हयो नमुचिं नाम मायिनम् ॥ ७ ॥**
+> **यु॒धा यु॒धमुप॒ घेदे॑षि धृष्णु॒या पु॒रा पुरं॒ समि॒दं हं॒स्योज॑सा ।**
+> **नम्या॒ यदि॑न्द्र॒ सख्या॑ परा॒वति॑ निब॒र्हयो॒ नमु॑चिं॒ नाम॑ मा॒यिनं॑ ॥ ७ ॥**
 
-*yudhā yudham upa ghed eṣi dhṛṣṇuyā purā puraṃ sam idaṃ haṃsy ojasā |*
-*namyā yad indra sakhyā parāvati nibarhayo namucim nāma māyinam || 7 ||*
+*yudhā́ yudhám úpa ghéd eṣi dhṛṣṇuyā́ purā́ púraṃ sám idáṃ haṃsy ójasā |*
+*námyā yád indra sákhyā parāváti nibarháyo námuciṃ nā́ma māyínaṃ || 7 ||*
 
 **Pada-pāṭha** *(p. 285)*
 
@@ -5183,9 +5183,9 @@
 
 **Sāyaṇa-bhāṣya** *(p. 285 — begins; continues on p. 286)*
 
-> **हे इन्द्र धृष्णुया शत्रूणां धर्षकस्त्वं युधा युद्धेन संबद्धं युद्धं युद्धमुप घेदेषि उपैव गच्छसि । सर्वदा युद्धशीलो भवसीत्यर्थः । घु इति पादपूरणः । शत्रूणामसुराणां पुरा पुरेण नगरेण सहेदं पुरोवर्ति पुरं शत्रुनगरमोजसा बलेन सं हंसि । सम्यग्विनाशयसि । शत्रूणां पुराण्यभैत्सीरित्यर्थः । हे इन्द्र त्वं नम्या शत्रुषु नमनशीलेन सख्या सहायभूतेन वज्रेण परावति दूरदेशे नमुचिं नामानया संज्ञया प्रसिद्धं मायिनं मायाविनमसुरं यद्यदा …**
+> **हे इन्द्र धृष्णुया शत्रूणां धर्षकस्त्वं युधा युद्धेन संबद्धं युद्धं युद्धमुप घेदेषि उपैव गच्छसि । सर्वदा युद्धशीलो भवसीत्यर्थः । घु इति पादपूरणः । शत्रूणामसुराणां पुरा पुरेण नगरेण सहेदं पुरोवर्ति पुरं शत्रुनगरमोजसा बलेन सं हंसि । सम्यग्विनाशयसि । शत्रूणां पुराण्यभैत्सीरित्यर्थः । हे इन्द्र त्वं नम्या शत्रुषु नमनशीलेन सख्या सहायभूतेन वज्रेण परावति दूरदेशे नमुचिं नामानया संज्ञया प्रसिद्धं मायिनं मायाविनमसुरं यद्य-…**
 
-*he indra dhṛṣṇuyā śatrūṇāṃ dharṣakas tvaṃ yudhā yuddhena saṃbaddhaṃ yuddhaṃ yuddham upa ghed eṣi upaiva gacchasi | sarvadā yuddhaśīlo bhavasīty arthaḥ | ghu iti pādapūraṇaḥ | śatrūṇām asurāṇāṃ purā pureṇa nagareṇa sahedaṃ purovarti puraṃ śatrunagaram ojasā balena saṃ haṃsi | samyagvināśayasi | śatrūṇāṃ purāṇy abhaitsīr ity arthaḥ | he indra tvaṃ namyā śatruṣu namanaśīlena sakhyā sahāyabhūtena vajreṇa parāvati dūradeśe namuciṃ nāmānayā saṃjñayā prasiddhaṃ māyinaṃ māyāvinam asuraṃ yad yadā …* *(continued on p. 286; "*ghu*" for the Saṃhitā's* gha *is as printed, [?])*
+*he indra dhṛṣṇuyā śatrūṇāṃ dharṣakas tvaṃ yudhā yuddhena saṃbaddhaṃ yuddhaṃ yuddham upa ghed eṣi upaiva gacchasi | sarvadā yuddhaśīlo bhavasīty arthaḥ | ghu iti pādapūraṇaḥ | śatrūṇām asurāṇāṃ purā pureṇa nagareṇa sahedaṃ purovarti puraṃ śatrunagaram ojasā balena saṃ haṃsi | samyagvināśayasi | śatrūṇāṃ purāṇy abhaitsīr ity arthaḥ | he indra tvaṃ namyā śatruṣu namanaśīlena sakhyā sahāyabhūtena vajreṇa parāvati dūradeśe namuciṃ nāmānayā saṃjñayā prasiddhaṃ māyinaṃ māyāvinam asuraṃ yad ya-…* *(continued on p. 286; "*ghu*" for the Saṃhitā's* gha *is as printed)*
 
 ---
 
@@ -5197,9 +5197,9 @@
 
 > **… स्मान्निबर्हयः नितरामहिंसीः । अतस्त्वमेवं स्तूयस इत्यर्थः ॥**
 
-*… smān nibarhayaḥ nitarām ahiṃsīḥ | atas tvam evaṃ stūyasa ity arthaḥ ||* *(The first syllables, "…smān", join the unfinished clause of p. 285, "yad yadā …": I read "*yasmān nibarhayaḥ*", [?].)*
+*… smān nibarhayaḥ nitarām ahiṃsīḥ | atas tvam evaṃ stūyasa ity arthaḥ ||* *(p. 285 ends "ಯದ್ಯ-" and p. 286 begins "ಸ್ಮಾನ್ನಿಬರ್ಹಯಃ": "*yad yasmān nibarhayaḥ*".)*
 
-*(The tail of the bhāṣya, p. 286, is characterized:* yudhā *(*yudha saṃprahāre*, *kvip* by* saṃpadādibhyaḥ kvip*; the accent of the ending after a monosyllable by* sāvekācas tṛtīyādiḥ*);* eṣi *(*iṇ gatau*, *adādi*, *śap* elided);* dhṛṣṇuyā *(*ñidhṛṣā prāgalbhye*, Uṇādi *knu* by* trasigṛdhidhṛṣikṣipeḥ knuḥ*, Pā. 3-2-140 as read [?]; *kit*, no *guṇa*; the *supāṃ suluk* substitute *yā*;* citaḥ*);* purā *(*pyā pālanapūraṇayoḥ*, *kvip*, *udoṣṭhyapūrvasya*, *urat*; the Vedic form);* haṃsi *(*han*, *laṭ* second singular *sip*, *adiprabhṛtibhyaḥ śapaḥ* *luk*; *naś cāpadāntasya jhali* gives the anusvāra);* namyā *(*ṇamu prahvatve*, Uṇādi* in*; *supāṃ suluk* gives *ḍyā*; *ḍit*, so *ṭi* is lost);* sakhyā *(*śeṣo ghy asakhi*, Pā. 1-4-7: *sakhi* does not get the *ghi*-designation; hence no *ṅa* for the instrumental by* āṅo nāstriyām*; *yaṇ*: *sakhyā*);* namucim *("*indreṇa saha yuddhaṃ na muñcatīti namuciḥ*", *muc*, Uṇādi *kin*; *naño 'ntaḥ…*, *nabhrāṇnapātsvara*; *prakṛtibhāva*);* māyinam *(*māyā* in the *vrīhyādi* list, *vrīhyādibhyaś ca* Pā. 5-2-116, *ini*, *yasyeti ca*).)*
+*(The tail of the bhāṣya, p. 286, is characterized:* yudhā *(*yudha saṃprahāre*, *kvip* by* saṃpadādibhyaḥ kvip*; the accent of the ending after a monosyllable by* sāvekācas tṛtīyādiḥ*);* eṣi *(*iṇ gatau*, *adādi*, *śap* elided);* dhṛṣṇuyā *(*ñidhṛṣā prāgalbhye*, Uṇādi *knu* by* trasigṛdhidhṛṣikṣipeḥ knuḥ*, no number in the tail; *kit*, no *guṇa*; the *supāṃ suluk* substitute *yā*;* citaḥ*);* purā *(*pyā pālanapūraṇayoḥ*, *kvip*, *udoṣṭhyapūrvasya*, *urat*; the Vedic form);* haṃsi *(*han*, *laṭ* second singular *sip*, *adiprabhṛtibhyaḥ śapaḥ* *luk*; *naś cāpadāntasya jhali* gives the anusvāra);* namyā *(*ṇamu prahvatve*, Uṇādi* in*; *supāṃ suluk* gives *ḍyā*; *ḍit*, so *ṭi* is lost);* sakhyā *(*śeṣo ghy asakhi*, Pā. 1-4-7 (the tail also prints Pā. 8-3-24 for the anusvāra of *haṃsi*): *sakhi* does not get the *ghi*-designation; hence no *ṅa* for the instrumental by* āṅo nāstriyām*; *yaṇ*: *sakhyā*);* namucim *("*indreṇa saha yuddhaṃ na muñcatīti namuciḥ*", *muc*, Uṇādi *kin*; *naño 'ntaḥ…*, *nabhrāṇnapātsvara*; *prakṛtibhāva*);* māyinam *(*māyā* in the *vrīhyādi* list, *vrīhyādiṣu pāṭhāt*, no number in the tail, *ini*, *yasyeti ca*).)*
 
 **Translation of the bhāṣya (complete sentence):** "O Indra, *dhṛṣṇuyā*, you who overwhelm enemies, *yudhā*, in battle — *yudham yudham upa ghed eṣi*: you go to every battle — you are always given to fighting (*ghu*/*gha* is a mere filler). *Purā puram idaṃ*: with the city of the enemies, the Asuras, you break this city before you, the enemy city, by your strength; you destroy it completely: you broke the cities of the enemies, is the sense. O Indra, with your *namyā*, bowing (the enemies), *sakhyā*, friendly, helping thunderbolt, *parāvati*, in a distant place, the Asura *namucim nāma*, known by the name Namuci, the *māyinam*, the deceiver — when you *nibarhayaḥ*, destroyed utterly: for that reason you are praised thus — this is the sense."
 
@@ -5212,34 +5212,34 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 287–289**
 - **namucim** — "*Indreṇa saha yuddhaṃ na muñcatīti namuciḥ*: 'one who does not give up fighting with Indra'; hence he is called Namuci. Namuci is a Rākṣasa. Because he was of great strength, it was very difficult for Indra to fight and win against him. On this matter there is a narrative in the Taittirīya Brāhmaṇa:"
 
-  > **इन्द्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेताम् । सोऽस्मादभिशनतरोऽभवत् । सोऽब्रवीत् । संधां संदधावहै । अथ त्वावसृजामि । न मा शुष्केण नार्द्रेण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिञ्चत् । न वा एष शुष्को नार्द्रो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तम् । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रध्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग्ंस्यपाहत । यदपामार्गहोमो भवति । रक्षसामपहत्यै ॥** *(Tai. Brā. 1-2-1 as read [?]; several words crowded — "*śacyāgṛhṇāt*", "*vyuṣṭāsīt*", "*anudithaḥ*" — and I do not complete them, [?])*
+  > **इन्द्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग् शच्यागृह्णात् । तौ समलभेताम् । सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदधावहै । अथ त्वावस्रक्ष्यामि । न मा शुष्केण नार्द्रेण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिञ्चत् । न वा एष शुष्को नार्द्रो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तम् । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रध्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग्ंस्यपाहत । यदपमार्गहोमो भवति । रक्षसामपहत्यै ॥** *(Tai. Brā. 1-7-1, printed "ತೈ. ಬ್ರಾ. ೧-೭-೧"; re-read in the pass: "*abhiśunataro*", "*saṃdhāgṃ*", "*avasrakṣyāmi*", "*yad apamārgahomo*" as printed)*
 
-  *indro vṛtragṃ hatvā | asurān parābhāvya | namucim āsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetām | so 'smād abhiśanataro 'bhavat | so 'bravīt | saṃdhāṃ saṃdadhāvahai | atha tvāvasṛjāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktam iti | sa etam apāṃ phenam asiñcat | na vā eṣa śuṣko nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etad divā na naktam | tasyaitasmin loke | apāṃ phenena śira udavartayat | tad enam anvavartata | mitradhrug iti | sa etān apāmārgān ajanayat | tān ajuhot | tair vai sa rakṣāgṃsy apāhata | yad apāmārgahomo bhavati | rakṣasām apahatyai ||* — mine and tentative, rough: "Indra, having killed Vṛtra and routed the Asuras, did not get hold of the Asura Namuci; [Śacī? — crowded] seized him; the two grappled; he became the stronger of the two. He said: 'Let us make a compact; then I shall release you: do not kill me with dry or with wet, neither by day nor by night.' He [Indra] sprinkled this foam of the waters. It was neither dry nor wet, the dawn had come but the sun had not risen; this was neither day nor night. With the foam of the waters he cut off his head; [the head] followed him, [crying] 'Mitra-traitor!' He produced these *apāmārga* plants, offered them; by them he drove away the Rākṣasas; therefore there is an *apāmārga*-oblation, for the removal of the Rākṣasas." *(The Kannada retelling that follows (p. 287–288) agrees in sense.)*
+  *indro vṛtragṃ hatvā | asurān parābhāvya | namucim āsuraṃ nālabhata | tag śacyāgṛhṇāt | tau samalabhetām | so 'smād abhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣyāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktam iti | sa etam apāṃ phenam asiñcat | na vā eṣa śuṣko nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etad divā na naktam | tasyaitasmin loke | apāṃ phenena śira udavartayat | tad enam anvavartata | mitradhrug iti | sa etān apāmārgān ajanayat | tān ajuhot | tair vai sa rakṣāgṃsy apāhata | yad apamārgahomo bhavati | rakṣasām apahatyai ||* — mine and tentative, rough: "Indra, having killed Vṛtra and routed the Asuras, did not get hold of the Asura Namuci; [Śacī] seized him; the two grappled; he became the stronger of the two. He said: 'Let us make a compact; then I shall release you: do not kill me with dry or with wet, neither by day nor by night.' He [Indra] sprinkled this foam of the waters. It was neither dry nor wet, the dawn had come but the sun had not risen; this was neither day nor night. With the foam of the waters he cut off his head; [the head] followed him, [crying] 'Mitra-traitor!' He produced these *apāmārga* plants, offered them; by them he drove away the Rākṣasas; therefore there is an *apāmārga*-oblation, for the removal of the Rākṣasas." *(The Kannada retelling that follows (p. 287–288) agrees in sense.)*
 - The Kannada retelling (pp. 287–288): "After Indra killed Vṛtra he also killed other Rākṣasas; but he could not conquer the Rākṣasa Namuci. He was very strong; no weapon hurt him. Therefore Indra, wishing to conquer him by his own bodily strength, began wrestling with him; but as they fought, Namuci's strength only grew. Indra could not free himself from his grip. Then Indra asked Namuci to release him, and that Asura said to Indra: 'O Indra, if you wish to be released you must do as I say. Let us now make a compact between us. You must not wish to kill me by any weapon and any fighting. You must not use a weapon that is dry or wet; you must not kill me in the daytime or at night. If you agree to these conditions I shall release you.' Indra agreed and, freed from his grip, began to consider how to defeat him. After some time Indra thought of a way. The foam of the sea fell in his sight. This foam was neither dry nor wet. 'I shall therefore make this foam my weapon and kill Namuci.' When the night had passed and the dawn had begun, before the sun's rising, the time was clear and bright; since that time was not the night and the sun had not risen, it was not the day either. At such a time Indra fought with Namuci and cut off his head with the weapon made of foam of water, resolving that 'I shall not be a breaker of my word.' Even so, that Daitya, not dead, came pursuing Indra to kill him. 'O Indra, traitor to a friend, stand! Having promised that you would not kill me, you have done such a treacherous deed; I shall not leave you even now without killing you,' he said. Then Indra, afraid, created the tree called *apāmārga* and, with its twigs, offered oblations in the fire to increase his strength. By that Indra's strength increased and he killed that Namuci. Therefore those who wish to be free from the harm of Rākṣasas should offer oblations of *apāmārga* twigs."
-- The name of Namuci in the Ṛgveda (p. 288) — "Besides this Rik, the name of Namuci occurs in these Riks of the Ṛgveda:" *(eight Riks are quoted in Kannada-script Sanskrit; I give each in three layers, with the Ṛgveda references as read — all numerals [?] — and a mine-and-tentative gloss)*:
+- The name of Namuci in the Ṛgveda (p. 288) — "Besides this Rik, the name of Namuci occurs in these Riks of the Ṛgveda:" *(eight Riks are quoted in Kannada-script Sanskrit; I give each in three layers, with the Ṛgveda references as printed — and a mine-and-tentative gloss)*:
 
-  1. > **यः पिप्रुं नमुचिं यो रुधिकां तस्मा इन्द्रायान्धसो जुहोत ।** *(Ṛ. Saṃ. 2-14-5 as read [?])*
+  1. > **यः पिप्रुं नमुचिं यो रुधिकां तस्मा इन्द्रायान्धसो जुहोत ।** *(Ṛ. Saṃ. 2-14-5)*
 
      *yaḥ pipruṃ namuciṃ yo rudhikāṃ tasmā indrāyāndhaso juhota |* — "To that Indra who [slew] Pipru, Namuci, Rudhikā: offer the soma-food." *(mine, tentative; "*rudhikāṃ*" as printed, [?])*
-  2. > **निवेशने शततमाविवेषीरहञ्च वृत्रं नमुचिमुताहन् ।** *(Ṛ. Saṃ. 2-19-… as read [?])*
+  2. > **निवेशने शततमाविवेषीरहञ्च वृत्रं नमुचिमुताहन् ।** *(Ṛ. Saṃ. 7-19-5)*
 
-     *niveśane śatatamāviveṣīr ahañ ca vṛtraṃ namucim utāhan |* — "…in the dwelling you [pervaded…], and you slew Vṛtra and also Namuci." *(mine, tentative; the first half-line is crowded, [?])*
-  3. > **त्वं जघन्थ नमुचिं मखस्युं दासं कृण्वान ऋषये विमानम् ।** *(Ṛ. Saṃ. 10-… as read [?])*
+     *niveśane śatatamāviveṣīr ahañ ca vṛtraṃ namucim utāhan |* — "…in the dwelling you [pervaded…], and you slew Vṛtra and also Namuci." *(mine, tentative)*
+  3. > **त्वं जघन्थ नमुचिं मखस्युं दासं कृण्वान ऋषये विमानम् ।** *(Ṛ. Saṃ. 11-73-7 [as printed; for 10-73-7])*
 
      *tvaṃ jaghantha namuciṃ makhasyuṃ dāsaṃ kṛṇvāna ṛṣaye vimānam |* — "You slew Namuci, the sacrifice-seeking [?] dāsa, making a [?] for the seer." *(mine, tentative)*
-  4. > **अत्राह दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् ।** *(Ṛ. Saṃ. 5-30-7 as read [?])*
+  4. > **अत्राह दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् ।** *(Ṛ. Saṃ. 5-30-7)*
 
-     *atrāha dāsasya namucheḥ [sic print: namuceḥ] śiro yad avartayo manave gātum icchan |* — "Here you cut off the head of the dāsa Namuci, wishing a way for Manu." *(mine, tentative)*
-  5. > **युजं हि मामकृथा आदिदिन्द्र शिरो दासस्य नमुचेर्मथायन् ।** *(Ṛ. Saṃ. 5-30-8 as read [?])*
+     *atrāha dāsasya namuceḥ śiro yad avartayo manave gātum icchan |* — "Here you cut off the head of the dāsa Namuci, wishing a way for Manu." *(mine, tentative)*
+  5. > **युजं हि मामकृथा आदिदिन्द्र शिरो दासस्य नमुचेर्मथायन् ।** *(Ṛ. Saṃ. 5-30-8)*
 
      *yujaṃ hi mām akṛthā ād id indra śiro dāsasya namucer mathāyan |* — "You made me your yoke-fellow, O Indra, and then crushed the head of the dāsa Namuci." *(mine, tentative)*
-  6. > **प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ।** *(Ṛ. Saṃ. 6-20-6 as read [?])*
+  6. > **प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ।** *(Ṛ. Saṃ. 6-20-6)*
 
      *pra śyeno na madiram aṃśum asmai śiro dāsasya namucer mathāyan |* — "Like a falcon [bringing] the exhilarating soma-stalk to him, crushing the head of the dāsa Namuci." *(mine, tentative)*
-  7. > **अपां फेनेन नमुचेः शिर इन्द्रोदवर्तयः ।** *(Ṛ. Saṃ. 8-14-13 as read [?])*
+  7. > **अपां फेनेन नमुचेः शिर इन्द्रोदवर्तयः ।** *(Ṛ. Saṃ. 8-14-13)*
 
      *apāṃ phenena namuceḥ śira indrodavartayaḥ |* — "With the foam of the waters, O Indra, you cut off Namuci's head."
-  8. > **युवं सुरामम् अश्विना नमुचावासुरे सचा ।** *(Ṛ. Saṃ. 10-131-4 as read [?])*
+  8. > **युवं सुरामम् अश्विना नमुचावासुरे सचा ।** *(Ṛ. Saṃ. 10-131-4)*
 
      *yuvaṃ surāmam aśvinā namucāv āsure sacā |* — "You two, Aśvins, [gave?] the *surāma*-drink to Namuci the Asura together…" *(mine, tentative; the line is the first half of a longer Rik)*
 
@@ -5254,15 +5254,15 @@
 - **namyā** — "This word, in the sense 'one who makes enemies bow', is an epithet of *sakhyā*, which denotes the thunderbolt. Some take this word to refer to the sage Nami."
 
 **Vyākaraṇa-prakriyā** *(pp. 289–290 — grammar pages, noted briefly)*
-- **yudhā**: *yudha saṃprahāre*; *saṃpadādibhyaḥ kvip*; instrumental singular; by *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) the ending of a mono-syllable is acute.
+- **yudhā**: *yudha saṃprahāre*; *saṃpadādibhyaḥ kvip*; instrumental singular; by *sāvekācas tṛtīyādiḥ* (Pā. sū. 6-1-168) the ending of a mono-syllable is acute.
 - **eṣi**: *iṇ gatau*, *adādi*; *laṭ* second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* *luk*; since *sip* is *sārvadhātuka*, *guṇa* of the root; after *iṇ*, the suffix's *s* becomes *ṣ* (*ādeśapratyayayoḥ*); following an *atiṅ*, *nighāta*.
-- **dhṛṣṇuyā**: *ñidhṛṣā prāgalbhye*; the suffix *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ*; being *kit*, no *guṇa*: *dhṛṣṇu*; in the instrumental singular the Vedic *yā* by *supāṃ suluk…*; *citaḥ* gives the end-acute.
-- **purā**: *pyā pālanapūraṇayoḥ*; "*pūrayati rājñām abhimatāni iti purā*"; *kvip ca*; *udoṣṭhyapūrvasya* (Pā. 7-1-102) gives *u* to the root; *uraṇ raparaḥ*; instrumental singular *purā*; by the word *pur*; *sāvekācas tṛtīyādiḥ* gives the ending the acute.
-- **haṃsi**: *han hiṃsāgatyoḥ*; second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ*; *naś cāpadāntasya jhali* (Pā. 8-3-24) gives the anusvāra for the *n* of the word that does not end the *pada*; following an *atiṅ*, *nighāta*.
+- **dhṛṣṇuyā**: *ñidhṛṣā prāgalbhye*; the suffix *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ* (Pā. sū. 3-2-140); being *kit*, no *guṇa*: *dhṛṣṇu*; in the instrumental singular the Vedic *yā* by *supāṃ suluk…*; *citaḥ* gives the end-acute.
+- **purā**: *pyā pālanapūraṇayoḥ*; "*pūrayati rājñām abhimatāni iti purā*"; *kvip ca*; *udoṣṭhyapūrvasya* (Pā. sū. 7-1-102) gives *u* to the root; *uraṇ raparaḥ*; instrumental singular *purā*; by the word *pur*; *sāvekācas tṛtīyādiḥ* gives the ending the acute.
+- **haṃsi**: *han hiṃsāgatyoḥ*; second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ*; *naś cāpadāntasya jhali* (Pā. sū. 8-3-24) gives the anusvāra for the *n* of the word that does not end the *pada*; following an *atiṅ*, *nighāta*.
 - **namyā**: *ṇamu prahvatve*; the Uṇādi suffix *in*: *nami*; in the instrumental singular, *supāṃ suluk* gives *ḍyā*; since *ḍit*, the *ṭi* is dropped: *namyā*.
-- **sakhyā**: *śeṣo ghy asakhi* (Pā. 1-4-7): in the sūtra that gives the *ghi*-designation, *asakhi* is expressly excluded; so *sakhi* does not get the name *ghi*; hence *āṅo nāstriyām* does not apply to the instrumental singular (*ṅā*); by *yaṇ* the form is *sakhyā*.
-- **namucim**: "*indreṇa saha yuddhaṃ na muñcatīti namuciḥ*" ("one who does not abandon fighting with Indra"); *muḷ* [= *muc*] *mokṣaṇe*; the Uṇādi *ki*; being *kit*, no *guṇa*; compound with *naña*, *nabhrāṇ-napāt…* (Pā. 6-2-… as read [?]) the *naña* retains its natural accent; since *nañ na gatiḥ na ca kārakam*, there being no occasion for the accent of the last member after *kṛt*, the accent of the first member, the particle, prevails.
-- **māyinam**: the word *māyā* is read among the *vrīhyādi*, so *vrīhyādibhyaś ca* (Pā. 5-2-116) gives *ini* in the sense of "having"; *yasyeti ca* drops the *ā* before *ini*: *māyin*; accusative singular; by the suffix-accent the *i* is acute. **|| 7 ||**
+- **sakhyā**: *śeṣo ghy asakhi* (Pā. sū. 1-4-7): in the sūtra that gives the *ghi*-designation, *asakhi* is expressly excluded; so *sakhi* does not get the name *ghi*; hence *āṅo nāstriyām* does not apply to the instrumental singular (*ṅā*); by *yaṇ* the form is *sakhyā*.
+- **namucim**: "*indreṇa saha yuddhaṃ na muñcatīti namuciḥ*" ("one who does not abandon fighting with Indra"); *muḷ* [= *muc*] *mokṣaṇe*; the Uṇādi *ki*; being *kit*, no *guṇa*; compound with *naña*, *nabhrāṇ-napāt…* (Pā. sū. 6-3-75) the *naña* retains its natural accent; since *nañ na gatiḥ na ca kārakam*, there being no occasion for the accent of the last member after *kṛt*, the accent of the first member, the particle, prevails.
+- **māyinam**: the word *māyā* is read among the *vrīhyādi*, so *vrīhyādibhyaś ca* (Pā. sū. 5-2-116) gives *ini* in the sense of "having"; *yasyeti ca* drops the *ā* before *ini*: *māyin*; accusative singular; by the suffix-accent the *i* is acute. **|| 7 ||**
 
 ---
 
