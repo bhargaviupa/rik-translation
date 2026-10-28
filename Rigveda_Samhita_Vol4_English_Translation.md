@@ -8327,15 +8327,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.4 (pp. 506–, PDF 520–)
+### Rik 44.4 (pp. 506–509, PDF 520–523; better scan PDF 521–524)
 
-**Saṃhitā-pāṭha** *(p. 506 foot; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 506 foot)*
 
-> **श्रेष्ठं यविष्ठमतिथिं स्वाहुतं जुष्टं जनाय दाशुषे ।**
-> **देवाँ अच्छा यातवे जातवेदसमग्निमीळे व्युष्टिषु ॥ ४ ॥**
+> **श्रेष्ठं॒ यवि॑ष्ठ॒मति॑थिं॒ स्वा॑हुतं॒ जुष्टं॒ जना॑य दा॒शुषे ।**
+> **दे॒वाँ अच्छा॒ यात॑वे जा॒तवे॑दसम॒ग्निमी॑ळे॒ व्यु॑ष्टिषु ॥** [accent ?]
 
-*śreṣṭhaṃ yaviṣṭham atithiṃ svāhutaṃ juṣṭaṃ janāya dāśuṣe |*
-*devām̐ acchā yātave jātavedasam agnim īḷe vyuṣṭiṣu || 4 ||*
+*śreṣṭhaṃ yáviṣṭham átithiṃ svāhutaṃ júṣṭaṃ jánāya dāśúṣe |*
+*devā́m̐ acchā yā́tave jātávedasam agním īḷe vyuṣṭiṣu ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: the anudātta bar in* acchā *begins at the joint of* a *and* cchā*; read as* cchā*. The print gives only "॥" after the Ṛk, without the number 4.)*
+
+### Page 507
 
 **Pada-pāṭha** *(p. 507)*
 
@@ -8351,11 +8355,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 507)*
 
-> **व्युष्टिषूषःकालेषु देवान् इतरान्सर्वदेवानच्छाभिमुख्येन यातवे गन्तुमग्निं देवमीळे । स्तौमि । कीदृशं । श्रेष्ठमतिशयेन प्रशस्तं यविष्ठं युवतमम् अतिथिं सततगमनक्षमं स्वाहुतं सुष्ठु आ समन्ताद्धोमाधिकरणं दाशुषे हविर्दत्तवते जनाय यजमानाय जुष्टं प्रीतं जातवेदसं जातानां वेदितारम् ॥ यविष्ठं । युवशब्दादिष्ठनि स्थूलदूरेत्यादिना यणादेः परस्य लोपः । पूर्वस्य च गुणः । अवादेशः । नित्त्वादाद्युदात्तत्वं । अतिथिं । अत सातत्यगमने । ऋतन्यञ्जीत्यादिना । उ. ४-२ [?] । इथिन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । स्वाहुतं । हु दानादनयोः । आहूयतेऽस्मिन्नित्याहुतः । सुः पूजायां । पा. १-४-९४ [?] । इति सुशब्दस्य कर्मप्रवचनीयसंज्ञायां स्वती पूजायां । पा. २-२-१८ । इति समासः । अव्यये पूर्वपदप्रकृतिस्वरत्वं । न च गतिकारकोपपदात्कृदिति गतेः प्रकृतिस्वरत्वं । अस्य सुशब्दस्य गतिसंज्ञाया बाधितत्वात् ॥**
+> **व्युष्टिषूषःकालेषु देवान् इतरान्सर्वदेवानच्छाभिमुख्येन यातवे गन्तुमग्निं देवमीळे । स्तौमि । कीदृशं । श्रेष्ठमतिशयेन प्रशस्तं यविष्ठं युवतमम् अतिथिं सततगमनक्षमं स्वाहुतं सुष्ठु आ समन्ताद्धोमाधिकरणं दाशुषे हविर्दत्तवते जनाय यजमानाय जुष्टं प्रीतं जातवेदसं जातानां वेदितारम् ॥ यविष्ठं । युवशब्दादिष्ठनि स्थूलदूरेत्यादिना यणादेः परस्य लोपः । पूर्वस्य च गुणः । अवादेशः । नित्त्वादाद्युदात्तत्वं । अतिथिं । अत सातत्यगमने । ऋतन्यञ्जीत्यादिना । उ. ४-२ । इथिन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । स्वाहुतं । हु दानादनयोः । आहूयतेऽस्मिन्नित्याहुतः । सुः पूजायां । पा. १-४-९४ । इति सुशब्दस्य कर्मप्रवचनीयसंज्ञायां स्वती पूजायां । पा. २-२-१८ । इति समासः । अव्यये पूर्वपदप्रकृतिस्वरत्वं । न च गतिकारकोपपदात्कृदिति गतेः प्रकृतिस्वरत्वं । अस्य सुशब्दस्य गतिसंज्ञाया बाधितत्वात् ॥**
 
-*vyuṣṭiṣūṣaḥkāleṣu devān itarān sarvadevān acchābhimukhyena yātave gantum agniṃ devam īḷe | staumi | kīdṛśaṃ | śreṣṭham atiśayena praśastaṃ yaviṣṭhaṃ yuvatamam atithiṃ satatagamanakṣamaṃ svāhutaṃ suṣṭhu ā samantād homādhikaraṇaṃ dāśuṣe havirdattavate janāya yajamānāya juṣṭaṃ prītaṃ jātavedasaṃ jātānāṃ veditāram || yaviṣṭhaṃ | yuvaśabdād iṣṭhani sthūladūretyādinā yaṇāder parasya lopaḥ | pūrvasya ca guṇaḥ | avādeśaḥ | nittvād ādyudāttatvaṃ | atithiṃ | ata sātatyagamane | ṛtanyañjītyādinā | u. 4-2 [?] | ithinpratyayaḥ | nittvād ādyudāttatvaṃ | svāhutaṃ | hu dānādanayoḥ | āhūyate 'smin ity āhutaḥ | suḥ pūjāyāṃ | pā. 1-4-94 [?] | iti suśabdasya karmapravacanīyasaṃjñāyāṃ svatī pūjāyāṃ | pā. 2-2-18 | iti samāsaḥ | avyaye pūrvapadaprakṛtisvaratvaṃ | na ca gatikārakopapadāt kṛd iti gateḥ prakṛtisvaratvaṃ | asya suśabdasya gatisaṃjñāyā bādhitatvāt ||*
+*vyuṣṭiṣūṣaḥkāleṣu devān itarān sarvadevān acchābhimukhyena yātave gantum agniṃ devam īḷe | staumi | kīdṛśaṃ | śreṣṭham atiśayena praśastaṃ yaviṣṭhaṃ yuvatamam atithiṃ satatagamanakṣamaṃ svāhutaṃ suṣṭhu ā samantād homādhikaraṇaṃ dāśuṣe havirdattavate janāya yajamānāya juṣṭaṃ prītaṃ jātavedasaṃ jātānāṃ veditāram || yaviṣṭhaṃ | yuvaśabdād iṣṭhani sthūladūretyādinā yaṇādeḥ parasya lopaḥ | pūrvasya ca guṇaḥ | avādeśaḥ | nittvād ādyudāttatvaṃ | atithiṃ | ata sātatyagamane | ṛtanyañjītyādinā | u. 4-2 | ithinpratyayaḥ | nittvād ādyudāttatvaṃ | svāhutaṃ | hu dānādanayoḥ | āhūyate 'smin ity āhutaḥ | suḥ pūjāyāṃ | pā. 1-4-94 | iti suśabdasya karmapravacanīyasaṃjñāyāṃ svatī pūjāyāṃ | pā. 2-2-18 | iti samāsaḥ | avyaye pūrvapadaprakṛtisvaratvaṃ | na ca gatikārakopapadāt kṛd iti gateḥ prakṛtisvaratvaṃ | asya suśabdasya gatisaṃjñāyā bādhitatvāt ||*
 
-*(In the bhāṣya the Pāṇini and Uṇādi numbers are read with doubt [?], and the clause beginning "sthūladūra…" (the rule-name for the loss in* yaviṣṭha*) is crowded.)*
+*(Checked on the better scan, PDF 522: Uṇ. 4-2, Pā. 1-4-94, 2-2-18; the clause "sthūladūretyādinā yaṇādeḥ parasya lopaḥ" is clear.)*
 
 **Translation:** "*Vyuṣṭiṣu*, at the times of dawn, *devān*, the other gods, all the gods, *acchā*, facing [them], *yātave*, to go, I praise the god Agni. What kind? *Śreṣṭham*, exceedingly praised; *yaviṣṭham*, the youngest; *atithim*, one able to go constantly; *svāhutam*, well and on all sides the place of offering; *juṣṭam*, dear, *dāśuṣe janāya*, to the man who has given the oblation, the sacrificer; *jātavedasam*, the knower of the born. The tail (characterized): *yaviṣṭham* — *iṣṭhan* after *yuvan*; the loss of what follows [the *y*] by *sthūladūra…*; *guṇa* of the preceding; *av*-substitution; first-syllable acute since *nit*; *atithim* — root *ata sātatyagamane*; *ithin* by *ṛtanyañji…* [Uṇ. 4-2 [?]]; first-syllable acute as *nit*; *svāhutam* — root *hu dānādanayoḥ*; '*āhūyate 'smin*': *āhutaḥ*; *su* in the sense of honour, with *karmapravacanīya* name [Pā. 1-4-94 [?]], compounded by *svatī pūjāyām* [Pā. 2-2-18]; the accent of the first member as an indeclinable; the *gati* accent by *gatikārakopapadāt kṛt* does not come, since the *gati* name of this *su* is barred."
 
@@ -8364,6 +8368,8 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 *(The Bhāvārtha, the source's English, the Special Topics and the grammar of Rik 4 begin on p. 508, not yet written.)*
 
 ---
+
+### Page 508
 
 **Rik 44.4, continued** *(from p. 508)*
 
@@ -8381,9 +8387,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **jātavedasam** — "the explanation of this word was given in the first ṛk of this sūkta."
 
 **Vyākaraṇa-prakriyā** *(pp. 508–509 — grammar pages, noted briefly)*
-- **yaviṣṭham**: root *yu miśraṇāmiśraṇayoḥ*; *kanin yuvṛṣitakṣirājidhanvidyupratidivaḥ* [Uṇ. 1-156 as read]: *kanin*, with *uvaṅ*: *yuvan*; "*atiśayena yuvā*"; *atiśāyane tamabiṣṭhanau* — *iṣṭhan*; *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ* — स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः — [Pā. 6-4-156 as read]: before *iṣṭhan*, *imanic* and *īyasun* the part of *sthūla*, *dūra*, *yuvan*, *hrasva*, *kṣipra*, *kṣudra* beginning with the *yaṇ* [letter] is lost, and the preceding [vowel] takes *guṇa*: in *yuvan* the *v* and what follows [*an*] are lost; *yu* takes *guṇa*: *yo + iṣṭha*; *av*-substitution: *yaviṣṭha*; the suffix is *nit*, so by *ñnityādir nityam* the suffix-ending [syllable] is acute; accusative singular *am*; *ami pūrvaḥ* the prior form.
-- **atithim**: the Uṇādi sūtra beginning *ṛtanyañji…* [Uṇ. 4-[?] as read]: it lists the roots *ṛ gatau*, *tanu vistāre*, *añjū vyaktyādau*, *vana yācane*, *añjū vyaktrakāntigatiṣu*, *yu miśraṇe*, with the suffixes *kathin*, *yatuc*, *alic*, *iṣṭan*, *iṣmac*, *ṭhan*, *syan*, *ithin*, *ulī*, *tasa*, *āsa*, *ānuk*; here, after the root *ata sātatyagamane*, the suffix *ithin*: *at + ithi = atithi*; first-syllable acute by *nit*; *ami pūrvaḥ*. *(The long list of roots and suffixes in the sūtra is crowded and not reproduced.)*
-- **svāhutam**: root *hu dānādanayoḥ*; "*āhūyate 'smin*": *kta*; no *guṇa*; a compound with the particle *su* in the sense of honour; *suḥ pūjāyām* — सुः पूजायाम् — [Pā. 1-4-94 as read]: *su* in the sense of honour takes the name *karmapravacanīya*; *kugatiprādayaḥ* [Pā. 2-2-18 as read] — here, in the vārttika *svatī pūjāyām*, *su* and *ati* in the sense of honour compound; the accent of the first member as an indeclinable by *tatpuruṣe tulyārthatṛtīyā…*; since the *karmapravacanīya* name bars the *gati* name, *gatikārakopapadāt kṛt* gives the accent of the latter *kṛt* member. Rik 4 ends here (*|| 4 ||*).
+- **yaviṣṭham**: root *yu miśraṇāmiśraṇayoḥ*; *kanin yuvṛṣitakṣi…* (no number printed): *kanin*, with *uvaṅ*: *yuvan*; "*atiśayena yuvā*"; *[p. 509]* *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55) — *iṣṭhan*; *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ* — स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः — (printed "Pā. 6-4-56" [as printed; for 6-4-156]): before *iṣṭhan*, *imanic* and *īyasun* the part of *sthūla*, *dūra*, *yuvan*, *hrasva*, *kṣipra*, *kṣudra* beginning with the *yaṇ* [letter] is lost, and the preceding [vowel] takes *guṇa*: in *yuvan* the *v* and what follows [*an*] are lost; *yu* takes *guṇa*: *yo + iṣṭha*; *av*-substitution: *yaviṣṭha*; the suffix is *nit*, so by *ñnityādir nityam* the suffix-ending [syllable] is acute; accusative singular *am*; *ami pūrvaḥ* the prior form.
+- **atithim**: the Uṇādi sūtra beginning *ṛtanyañji…* (Uṇ. 4-442, as printed here; the bhāṣya gives 4-2): it lists twelve (printed "12") roots *ṛ gatau*, *tanu vistāre*, *añjū vyaktyādau*, *vana yācane*, *añjū vyaktrakāntigatiṣu*, *yu miśraṇe*, with the twelve suffixes *kathin*, *yatuc*, *alic*, *iṣṭan*, *iṣmac*, *ṭhan*, *syan*, *ithin*, *ulī*, *tasa*, *āsa*, *ānuk*; here, after the root *ata sātatyagamane*, the suffix *ithin*: *at + ithi = atithi*; first-syllable acute by *nit*; *ami pūrvaḥ*. *(The long list of roots and suffixes in the sūtra is crowded and not reproduced.)*
+- **svāhutam**: root *hu dānādanayoḥ*; "*āhūyate 'smin*": *kta*; no *guṇa*; a compound with the particle *su* in the sense of honour; *suḥ pūjāyām* — सुः पूजायाम् — (Pā. 1-4-94): *su* in the sense of honour takes the name *karmapravacanīya*; *kugatiprādayaḥ* (Pā. 2-2-18) — here, in the vārttika *svatī pūjāyām*, *su* and *ati* in the sense of honour compound; the accent of the first member as an indeclinable by *tatpuruṣe tulyārthatṛtīyā…*; since the *karmapravacanīya* name bars the *gati* name, *gatikārakopapadāt kṛt* gives the accent of the latter *kṛt* member. Rik 4 ends here (*|| 4 ||*).
 
 ---
 
