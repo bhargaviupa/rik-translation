@@ -8,7 +8,7 @@
 
 **Method used (differs from the runbook's review-HTML route):** I did not rebuild `review_PDF1-100.*` (the old obsolete ones were deleted); instead `tools/zoom_strips.py PDF 4` for text, then `tools/nat.py PDF OUT S x0 y0 x1 y1 …` (new: re-renders chosen strip regions at the scan's native 658 dpi, stacked) for every numeral group, and `tools/zoom_apply_batch.py` for exact replacements. `tools/mont.py`, `tools/qlist.py A B` (lists the [?] with context in file lines A–B) are also new. Tools now resolve paths from `cfg.py` (worktree-safe).
 
-**Counts:** `[?]` 2,216 at start of the pass → see git log/`grep -o '\[?\]'` (2,135 after this session, but 9 of the removals were unverifiable-name cases kept as plain-language notes); `[accent ?]` 0 (no accents written yet).
+**Counts:** `[?]` 2,216 at start of the pass → see git log/`grep -o '\[?\]'` (2,134 at the end of this session); `[accent ?]` 0 (no accents written yet).
 
 **Settled this session (numerals zoom-checked at 658 dpi unless stated):**
 - Ṛk 33.1: Pā. 6-4-77 on p. 6 is printed **16-4-77** (clear ∩, hooked 6, 4, 7, 7) — kept "as printed".
