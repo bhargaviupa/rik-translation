@@ -406,13 +406,13 @@
 
 ### Rik 47.6 (pp. 17–, PDF 33–)
 
-**Saṃhitā-pāṭha** *(p. 17; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 17; accents as printed)*
 
-> **सुदासे दस्रा वसु बिभ्रता रथे पृक्षो वहतमश्विना ।**
-> **रयिं समुद्रादुत वा दिवस्पर्यस्मे धत्तं पुरुस्पृहम् ॥ ६ ॥**
+> **सु॒दासे॑ दस्रा॒ वसु॒ बिभ्र॑ता॒ रथे॒ पृक्षो॑ वहतमश्विना ।**
+> **र॒यिं स॑मु॒द्रादु॒त वा॑ दि॒वस्पर्य॒स्मे ध॑त्तं पुरु॒स्पृह॑म् ॥ ६ ॥**
 
-*sudāse dasrā vasu bibhratā rathe pṛkṣo vahatam aśvinā |*
-*rayiṃ samudrād uta vā divas pary asme dhattaṃ puruspṛham || 6 ||*
+*sudā́se dasrā vásu bíbhratā ráthe pṛ́kṣo vahatam aśvinā |*
+*rayíṃ samudrā́d utá vā divás pary asmé dhattaṃ puruspṛ́ham || 6 ||*
 
 **Pada-pāṭha** *(p. 17)*
 
@@ -432,13 +432,13 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 17–18)*
 
-> **हे दस्रा दर्शनीयावश्विनौ सुदासे शोभनदानयुक्ताय राज्ञे पिजवनपुत्राय रथे वसु बिभ्रता युवां पृक्षोऽन्नं वहतं । प्रापयितवन्तौ । समुद्रादन्तरिक्षात् । समुद्रमित्यन्तरिक्षनाम । समुद्रोऽध्वरमिति तन्नामसु पाठात् । उत वा दिवस्परि अथवा स्वर्गात्पर्योहृत्य पुरुस्पृहं बहुभिः स्पृहणीयं रयिं धनमस्मे धत्तं । अस्मासु स्थापयेतम् ॥ सुष्ठु ददातीति सुदाः । असुनि कृदुत्तरपदप्रकृतिस्वरत्वं । दिवस्परि । पञ्चम्याः परावध्यर्थे । पा. ८-३-५१ [?] । इति विसर्जनीयस्य सत्वं । पुरुस्पृहं । स्पृह ईप्सायां । चुरादिरदन्तः । पुरुभिः स्पृह्यत इति पुरुस्पृहः । कर्मणि घञ् । अतो लोपस्य स्थानिवत्त्वाल्लघूपधगुणाभावः । ञित्स्वरेणोत्तरपदस्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरेण तदेव शिष्यते ॥**
+> **हे दस्रा दर्शनीयावश्विनौ सुदासे शोभनदानयुक्ताय राज्ञे पिजवनपुत्राय रथे वसु बिभ्रता युवां पृक्षोऽन्नं वहतं । प्रापितवन्तौ । समुद्रादन्तरिक्षात् । समुद्रमित्यन्तरिक्षनाम । समुद्रोऽध्वरमिति तन्नामसु पाठात् । उत वा दिवस्परि अथवा स्वर्गात्पर्याहृत्य पुरुस्पृहं बहुभिः स्पृहणीयं रयिं धनमस्मे धत्तं । अस्मासु स्थापयतम् ॥ सुष्ठु ददातीति सुदाः । असुनि कृदुत्तरपदप्रकृतिस्वरत्वं । दिवस्परि । पञ्चम्याः परावध्यर्थे । पा. ८-३-५१ । इति विसर्जनीयस्य सत्वं । पुरुस्पृहं । स्पृह ईप्सायां । चुरादिरदन्तः । पुरुभिः स्पृह्यत इति पुरुस्पृहः । कर्मणि घञ् । अतो लोपस्य स्थानिवत्त्वाल्लघूपधगुणाभावः । ञित्स्वरेणोत्तरपदस्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरेण तदेव शिष्यते ॥**
 
-*he dasrā darśanīyāv aśvinau sudāse śobhanadānayuktāya rājñe pijavanaputrāya rathe vasu bibhratā yuvāṃ pṛkṣo 'nnaṃ vahataṃ | prāpayitavantau | samudrād antarikṣāt | samudram ity antarikṣanāma | samudro 'dhvaram iti tannāmasu pāṭhāt | uta vā divas pari athavā svargāt paryohṛtya puruspṛhaṃ bahubhiḥ spṛhaṇīyaṃ rayiṃ dhanam asme dhattaṃ | asmāsu sthāpayetam || suṣṭhu dadātīti sudāḥ | asuni kṛduttarapadaprakṛtisvaratvaṃ | divaspari | pañcamyāḥ parāvadhyarthe | pā. 8-3-51 [?] | iti visarjanīyasya satvaṃ | puruspṛhaṃ | spṛha īpsāyāṃ | curādir adantaḥ | purubhiḥ spṛhyata iti puruspṛhaḥ | karmaṇi ghañ | ato lopasya sthānivattvāl laghūpadhaguṇābhāvaḥ | ñitsvareṇottarapadasyādyudāttatve kṛduttarapadaprakṛtisvareṇa tad eva śiṣyate ||*
+*he dasrā darśanīyāv aśvinau sudāse śobhanadānayuktāya rājñe pijavanaputrāya rathe vasu bibhratā yuvāṃ pṛkṣo 'nnaṃ vahataṃ | prāpitavantau | samudrād antarikṣāt | samudram ity antarikṣanāma | samudro 'dhvaram iti tannāmasu pāṭhāt | uta vā divas pari athavā svargāt paryāhṛtya puruspṛhaṃ bahubhiḥ spṛhaṇīyaṃ rayiṃ dhanam asme dhattaṃ | asmāsu sthāpayatam || suṣṭhu dadātīti sudāḥ | asuni kṛduttarapadaprakṛtisvaratvaṃ | divaspari | pañcamyāḥ parāvadhyarthe | pā. 8-3-51 | iti visarjanīyasya satvaṃ | puruspṛhaṃ | spṛha īpsāyāṃ | curādir adantaḥ | purubhiḥ spṛhyata iti puruspṛhaḥ | karmaṇi ghañ | ato lopasya sthānivattvāl laghūpadhaguṇābhāvaḥ | ñitsvareṇottarapadasyādyudāttatve kṛduttarapadaprakṛtisvareṇa tad eva śiṣyate ||*
 
-*(The reading "ñitsvareṇa" is crowded; the print has a letter like* ghāt*, read ñit [?].)*
+*("ñitsvareṇa" is clear at 400 dpi.)*
 
-**Translation:** "O *dasrā*, O Aśvins, beautiful to behold: *sudāse*, to King Sudās, the son of Pijavana, who is endowed with fair giving, *rathe*, in your chariot, *vasu bibhratā*, bearing wealth, you two *pṛkṣaḥ vahatam*, brought food; *samudrāt*, from the atmosphere — *samudra* is a name of the atmosphere, being read among its names ('*samudro 'dhvaram*'). *Uta vā divas pari*, or, bringing from heaven, *puruspṛham rayim*, wealth that is longed for by many, *asme dhattam*, place in us. *Sudāḥ*: 'he who gives well'; with *asun*, the accent of a second member that ends in a *kṛt*. *Divaspari*: the *visarga* becomes *s* by the rule on the ablative in the sense of 'above, beyond' (Pā. 8-3-51 [?]). *Puruspṛham*: root *spṛha īpsāyām*, of the *curādi* class, ending in *a*; '*puruspṛhaḥ*, longed for by many'; *ghañ* in the passive; because the dropped *a* is treated as present, the *guṇa* of the light penultimate does not come; …"
+**Translation:** "O *dasrā*, O Aśvins, beautiful to behold: *sudāse*, to King Sudās, the son of Pijavana, who is endowed with fair giving, *rathe*, in your chariot, *vasu bibhratā*, bearing wealth, you two *pṛkṣaḥ vahatam*, brought food; *samudrāt*, from the atmosphere — *samudra* is a name of the atmosphere, being read among its names ('*samudro 'dhvaram*'). *Uta vā divas pari*, or, bringing from heaven, *puruspṛham rayim*, wealth that is longed for by many, *asme dhattam*, place in us. *Sudāḥ*: 'he who gives well'; with *asun*, the accent of a second member that ends in a *kṛt*. *Divaspari*: the *visarga* becomes *s* by the rule on the ablative in the sense of 'above, beyond' (Pā. 8-3-51). *Puruspṛham*: root *spṛha īpsāyām*, of the *curādi* class, ending in *a*; '*puruspṛhaḥ*, longed for by many'; *ghañ* in the passive; because the dropped *a* is treated as present, the *guṇa* of the light penultimate does not come; …"
 
 **Pratipadārtha** *(p. 18)* — "**dasrā** — O Aśvin gods of beautiful form; **sudāse** — to Sudās (the son of Pijavana), who is endowed with excellent giving; **rathe** — in the chariot; **vasu** — wealth; **bibhratā** — bearing, you who came; **pṛkṣaḥ** — abundant food; **vahatam** — brought; **samudrāt** — from the atmosphere; **uta vā** — or; **divas pari** — from heaven (having brought); **puruspṛham** — wealth longed for by many; **rayim** — the wealth; **asme** — in us; **dhattam** — place (give to us too)."
 
@@ -448,14 +448,14 @@
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 18–19**
 - **sudāse** — "Sudās was the son of a well-known king named Pijavana. In the Viṣṇu Purāṇa it is described that a king named Sudās was born in the solar line; another king of the same name in the lunar line; and yet another king of the same name in the lunar line as the son of the king Divodāsa. The name of Divodāsa is mentioned in the Ṛgveda."
-- **pṛkṣaḥ** — "since the word *pṛkṣaḥ* is read among the twenty-eight [?] words that signify food, beginning *andhaḥ*, *vājaḥ* (Ni. 2-[?] as read), *pṛkṣa* means food or sustenance."
-- **samudrāt** — "since the word *samudraḥ* is read among the sixteen names of the atmosphere beginning *ambaram*, *viyat* (Ni. 1-[?] as read), *samudrāt* means 'from the atmosphere'. Besides this, because the words *uta vā divas pari* are used in this ṛk, the ṛṣi prays that the Aśvin gods bring wealth from their own place, heaven or the atmosphere."
+- **pṛkṣaḥ** — "since the word *pṛkṣaḥ* is read among the twenty-eight words that signify food, beginning *andhaḥ*, *vājaḥ* (Ni. 2-9), *pṛkṣa* means food or sustenance."
+- **samudrāt** — "since the word *samudraḥ* is read among the sixteen names of the atmosphere beginning *ambaram*, *viyat* (Ni. 2-10), *samudrāt* means 'from the atmosphere'. Besides this, because the words *uta vā divas pari* are used in this ṛk, the ṛṣi prays that the Aśvin gods bring wealth from their own place, heaven or the atmosphere."
 - **puruspṛham** — "*bahubhiḥ spṛhaṇīyam*: desired by many; all desire riches such as wealth, power; it is wanted by all. The ṛṣi's idea is that such wealth be given."
 
 **Vyākaraṇa-prakriyā** *(p. 19 — grammar page, noted briefly)*
-- **sudāse**: "*suṣṭhu dadāti iti sudāḥ*"; after the root *ḍudāñ dāne* with *su* before it, *sarvadhātubhyo 'sun* (Uṇ. 4-[?]8 as read [?]) gives *asun*; by the *nit*-accent the second member would be initial-acute; but *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read [?]) leaves the first member's natural accent; the dative singular.
-- **divaspari**: *divaḥ* is an ablative, with *pari* following; *pañcamyāḥ parāvadhyarthe* (Pā. 8-3-51 as read [?]) — पञ्चम्याः परावध्यर्थे — "the *visarga* belonging to an ablative case-ending becomes *s* when *pari*, which expresses the sense of 'above' (*upari-bhāva*) as in *adhi* ("one who is above"), follows".
-- **puruspṛham**: root *spṛha īpsāyām*, which is read in the *hatvādi* list as ending in *a* (*curādi*); "*purubhiḥ spṛhyate*" — "longed for by many", the *ghañ* in the passive; *ato lopaḥ* (Pā. 6-4-48 as read [?]) drops the *a*; because that dropped *a* is treated as present (*ac-pareṣv* [as read: *ac parasmin pūrvavidhau*, Pā. 1-1-57]), the *guṇa* of the light penultimate (*pugantalaghūpadhasya*, Pā. 7-3-86) does not come; the second member is initial-acute by the *ñit* accent; after compounding, *kṛduttarapadaprakṛtisvara* applies and this alone remains. **|| 6 ||**
+- **sudāse**: "*suṣṭhu dadāti iti sudāḥ*"; after the root *ḍudāñ dāne* with *su* before it, *sarvadhātubhyo 'sun* (Uṇ. 4-628, as printed) gives *asun*; by the *nit*-accent the second member would be initial-acute; but *gatikārakopapadāt kṛt* (Pā. 6-2-139) leaves the first member's natural accent; the dative singular.
+- **divaspari**: *divaḥ* is an ablative, with *pari* following; *pañcamyāḥ parāvadhyarthe* (Pā. 8-3-51) — पञ्चम्याः परावध्यर्थे — "the *visarga* belonging to an ablative case-ending becomes *s* when *pari*, which expresses the sense of 'above' (*upari-bhāva*) as in *adhi* ("one who is above"), follows".
+- **puruspṛham**: root *spṛha īpsāyām*, which is read in the tenth class (*curādi*) as ending in *a*; "*purubhiḥ spṛhyate*" — "longed for by many", the *ghañ* in the passive; *ato lopaḥ* (Pā. 6-4-48) drops the *a*; because that dropped *a* is treated as present (*acaḥ parasmin pūrvavidhau*, Pā. 1-1-57), the *guṇa* of the light penultimate (*pugantalaghūpadhasya*, Pā. 7-3-86) does not come; the second member is initial-acute by the *ñit* accent; after compounding, *kṛduttarapadaprakṛtisvara* applies and this alone remains. **|| 6 ||**
 
 ---
 
