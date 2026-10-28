@@ -8729,38 +8729,71 @@ the verb is understood also in *sakhā sakhye*, it is the first one uttered; so 
 
 ---
 
-### Pages 354–357 — Sūkta 26, Rik 4
+### Page 354 (lower) — Sūkta 26, Rik 4
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ नो बर्हिः रिशादसो वरुणो मित्रो अर्यमा ।
-> सीदन्तु मनुषो यथा ॥ ४ ॥
+> आ नो॑ ब॒र्ही रि॒शाद॑सो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।
+> सीद॑न्तु॒ मनु॑षो यथा ॥४॥
+>
+> *ā́ no barhī́ riśā́daso váruṇo mitró aryamā́ |*
+> *sī́dantu mánuṣo yathā ||4||*
 
-*ā no barhī riśādaso varuṇo mitro aryamā | sīdantu manuṣo yathā || 4 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> आ । नः । बर्हिः । रिशादसः । वरुणः । मित्रः । अर्यमा ॥ सीदन्तु । मनुषः । यथा ॥ ४ ॥
+> आ । नः । बर्हिः । रिशादसः । वरुणः । मित्रः । अर्यमा । सीदन्तु । मनुषः । यथा ॥४॥
 
-*ā | naḥ | barhiḥ | riśādasaḥ | varuṇaḥ | mitraḥ | aryamā || sīdantu | manuṣaḥ | yathā || 4 ||*
+> *ā | naḥ | barhiḥ | riśādasaḥ | varuṇaḥ | mitraḥ | aryamā | sīdantu | manuṣaḥ | yathā ‖4‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 355)*
+### Page 355 — Rik 4: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> हे अग्ने वरुणादयो देवास्त्वद्बन्धनस्त्वया प्रेरिता रिशादसो हिंसकादन्तो नोऽस्मदीयं बर्हिर्यज्ञमासीदन्तु । तत्र दृष्टान्तः । यथा मनुः प्रजापतेर्यज्ञमासीदन्ति । तद्वत् ॥ बर्हिः । रिशादसः । विसर्जनीयस्य रुत्वे कृते रोरि । पा. ८-३-१४ । इति रेफलोपः । ढ्रलोपे पूर्वस्य दीर्घोऽणः । पा. ६-३-१११ । इतीकारस्य दीर्घत्वम् । रिशादसः । रिश हिंसायाम् । रिशन्ति हिंसन्तीति रिशाः शत्रवः । तानदन्तीति रिशादसः । सर्वधातुभ्योऽसुन् । कृदुत्तरपदप्रकृतिस्वरत्वम् । सीदन्तु । पद्लृ विशरणगत्यवसादनेषु । पाघ्रेत्यादिना सीदादेशः । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । मनुषः । मन ज्ञाने । जनेरुसिः । निच्च । उ. २-११० । ... उसिप्रत्ययः । नित्त्वाद्याद्युदात्तत्वम् । यथा । यथेति पादान्ते । फि. ४-१२ । इति सर्वानुदात्तत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*he agne varuṇādayo devās tvadbandhanas tvayā preritā riśādaso hiṃsakādanto no 'smadīyaṃ barhir yajñam āsīdantu | tatra dṛṣṭāntaḥ | yathā manuḥ prajāpater yajñam āsīdanti | tadvat || barhiḥ | riśādasaḥ | visarjanīyasya rutve kṛte ro ri | pā. 8-3-14 | iti rephalopaḥ | ḍhralope pūrvasya dīrgho 'ṇaḥ | pā. 6-3-111 | itīkārasya dīrghatvam | riśādasaḥ | riśa hiṃsāyām | riśanti hiṃsantīti riśāḥ śatravaḥ | tān adantīti riśādasaḥ | sarvadhātubhyo 'sun | kṛduttarapadaprakṛtisvaratvam | sīdantu | padḷ viśaraṇagatyavasādaneṣu | pāghretyādinā sīdādeśaḥ | śapaḥ pittvād anudāttatvam | śatuś ca lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | manuṣaḥ | mana jñāne | janer usiḥ | nic ca | u. 2-110 | … usipratyayaḥ | nittvād ādyudāttatvam | yathā | yatheti pādānte | phi. 4-12 | iti sarvānudāttatvam ||*
+> हे अग्ने वरुणादयो देवास्त्वद्बंधवस्त्वया प्रेरिता रिशादसो हिंसकानदंतो नोऽस्मदीयं बर्हिर्यज्ञमासीदंतु । तत्र दृष्टांतः । यथा मनुषः प्रजापतेर्यज्ञमासीदंति । तद्वत् ॥ बर्ही रिशादसः । विसर्जनीयस्य रुत्वे कृते रो रि । पा. ८-३-१४ । इति रेफलोपः । ढ्रलोपे पूर्वस्य दीर्घोऽणः । पा. ६-३-१११ । इतीकारस्य दीर्घत्वं । रिशादसः । रिश हिंसायां । रिशंति हिंसंतीति रिशाः शत्रवः । इगुपधज्ञाप्रीकिरः कः । तानदंतीति रिशादसः । सर्वधातुभ्योऽसुन् । कृदुत्तरपदप्रकृतिस्वरत्वं । सीदंतु । षद्लृ विशरणगत्यवसादनेषु । पाघ्रेत्यादिना सीदादेशः । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । मनुषः । मन ज्ञाने । मन्यते जानातीति मनुः प्रजापतिः । जनेरुसिर्निच्च । उ. २-११६-११८ । इत्यनुवृत्तौ बहुलमन्यत्रापि । उ. २-१२२ । इत्यौणादिक उसिप्रत्ययः । नित्त्वादाद्युदात्तत्वं । यथा । यथेति पादांते । फि. ४. १७ । इति सर्वानुदात्तत्वं ॥
 
-**Translation:** "O Agni! May the gods Varuṇa and the others, impelled by you, *riśādasaḥ* — destroyers of enemies — come and sit on our *barhis* — our sacrificial grass — at our sacrifice. An illustration: as [the gods] sat down at the sacrifice of Manu [Prajāpati], so [may they sit now]. *Barhiḥ* + *riśādasaḥ*: after the *visarga* has become *ru*, the *r* is dropped before another *r* by P. 8-3-14; with the loss of *ḍh*/*r*, the preceding short vowel is lengthened (P. 6-3-111), so *barhī riśādasaḥ*. *Riśādasaḥ*: *riśa hiṃsāyām*; *riśāḥ* = enemies, 'those who injure'; 'those who eat [destroy] them' are *riśādasaḥ*; *asun* after all roots; the accent of the *kṛt*-final member. *Sīdantu*: *sīda* substituted for *sad* by P. 7-3-78; *śap* is anudātta; the root's accent remains. *Manuṣaḥ*: *mana jñāne*; *usi* by Uṇ. 2-110, *nit*, first-syllable acute. *Yathā*: at the end of the pāda it is wholly anudātta by Phiṭ 4-12." *(Grammar pages 356–357, noted briefly: the words treated are* barhī riśādasaḥ *[sandhi: *barhis* + *riśādasaḥ* → the final *s* → *ru* by P. 8-2-66 *sasajuṣo ruḥ*; the *r* before *r* is dropped by P. 8-3-14 *ro ri*; the lengthening of the preceding vowel, P. 6-3-111 *ḍhralope pūrvasya dīrgho 'ṇaḥ*; so *barhī riśādasaḥ*, a prakṛta-rūpa],* riśādasaḥ *[*riśa hiṃsāyām* of the *tudādi* class with *ka* by P. 3-1-135 *igupadhajñāprīkirañaḥ kaḥ* — being *kit*, no guṇa: *riśa*; *riśān adanti* 'those who eat enemies'; *ada bhakṣaṇe* + *asun* by Uṇ. 4-189 *sarvadhātubhyo 'sun*; *adas* is *sit*, first-syllable acute; with the compound the *kṛt* accent P. 6-2-139; so the *ā* after *ś* is acute],* sīdantu *[*ṣadḷ viśaraṇagatyavasādaneṣu*; *loṭ* 3rd plural *jhi* → *antu*; *sīda* for *sad* by P. 7-3-78 *pāghrādhmāsthāmnādāṇdṛśyartiśadasadāṃ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ*; *śap* with *pit*; the verb is lowered by P. 8-1-28 *tiṅ atiṅaḥ*? — not here, the verb stands at the head of the pāda] and* manuṣaḥ *[*mana jñāne*, *divādi*; *manyate jānātīti manuḥ prajāpatiḥ* — 'he who knows all' i.e. Prajāpati; *janer usiḥ* with *nit* (Uṇ. 2-110) → *manus*; genitive singular *ṅas*; *ṣatva* of the *s* of the ending after *i*/*u* by P. 8-3-59; the accent first-syllable through *nit*, P. 6-1-197]; *yathā* [*thāl* by P. 5-3-23 *prakāravacane thāl*; *ā* for the final of the case-ending as *ṭāp*-like by P. 7-1-… *tṛtīyādīnāṃ*; at the end of the pāda anudātta by Phiṭ 4-12]; numerals as read, pointers only.)*
+> *he agne varuṇādayo devāstvadbaṃdhavastvayā preritā riśādaso hiṃsakānadaṃto no 'smadīyaṃ barhiryajñamāsīdaṃtu | tatra dṛṣṭāṃtaḥ | yathā manuṣaḥ prajāpateryajñamāsīdaṃti | tadvat ‖ barhī riśādasaḥ | visarjanīyasya rutve kṛte ro ri | pā. 8-3-14 | iti rephalopaḥ | ḍhralope pūrvasya dīrgho 'ṇaḥ | pā. 6-3-111 | itīkārasya dīrghatvaṃ | riśādasaḥ | riśa hiṃsāyāṃ | riśaṃti hiṃsaṃtīti riśāḥ śatravaḥ | igupadhajñāprīkiraḥ kaḥ | tānadaṃtīti riśādasaḥ | sarvadhātubhyo 'sun | kṛduttarapadaprakṛtisvaratvaṃ | sīdaṃtu | ṣadlṛ viśaraṇagatyavasādaneṣu | pāghretyādinā sīdādeśaḥ | śapaḥ pittvādanudāttatvaṃ | śatuśca lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | manuṣaḥ | mana jñāne | manyate jānātīti manuḥ prajāpatiḥ | janerusirnicca | u. 2-116-118 | ityanuvṛttau bahulamanyatrāpi | u. 2-122 | ityauṇādika usipratyayaḥ | nittvādādyudāttatvaṃ | yathā | yatheti pādāṃte | phi. 4. 17 | iti sarvānudāttatvaṃ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 355)* **(अग्ने) ((agne))** — O Agni | **रिशादसः (riśādasaḥ)** — destroyers of enemies | **वरुणः मित्रः अर्यमा (varuṇaḥ mitraḥ aryamā)** — Varuṇa, Mitra and Aryaman | **यथा (yathā)** — as | **मनुषः (manuṣaḥ)** — [at the sacrifice] of Manu | **नः बर्हिः (naḥ barhiḥ)** — on our sacrificial grass | **आ सीदन्तु (ā sīdantu)** — may they come and sit.
+*(Numbers zoom-read at 450 dpi: पा. ८-३-१४, ६-३-१११; उ. २-११६-११८ (a range), २-१२२; फि. ४. १७ (the last digit is the flat-footed 7, as at Ṛk 25.1). The print has* शतुश्च *in the note on* सीदंतु*, as printed.)*
 
-**॥ Bhāvārthaḥ ॥** O Agni! As, in the past, Varuṇa, Mitra and Aryaman — destroyers of enemies — came to the sacrifice of Manu and sat on the *darbha* seat, so may they now come to this our sacrifice and sit on our *darbha* seat.
+*Gist:* O Agni, may Varuṇa and the other gods, your kinsmen, sent by you, devourers of the harmful, sit on our sacrificial grass, as they sit at the sacrifice of Manu Prajāpati.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **(अग्ने) ((agne))** — (O Agni) | **रिशादसः (riśādasaḥ)** — the destroyers of enemies | **वरुणः (varuṇaḥ)** — Varuṇa | **मित्रः (mitraḥ)** — Mitra | **अर्यमा (aryamā)** — together with Aryaman | **यथा (yathā)** — in the manner in which | **मनुषः (manuṣaḥ)** — of Manu (they sat on the altar in the place of sacrifice, so) | **नः (naḥ)** — our | **बर्हिः (barhiḥ)** — on the seat of the sacrificial ground | **आ सीदंतु (ā sīdaṃtu)** — may they come and sit.
+
+**॥ Bhāvārthaḥ ॥** O Agni, as Varuṇa, Mitra and Aryaman, the destroyers of enemies, once graciously sat on the seat of Manu's sacrificial ground, so may they now too sit on the seat of our sacrificial ground.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Let Varuna, Mitra, Aryama, destroyers of the wicked, sit down upon our sacred grass as they did at the Sacrifice of Manu.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 355–356)* **आर्यमा** — Aryaman is one of the twelve Ādityas, a son of Aditi. **बर्हिः** — the *darbha* seat prepared in the place of sacrifice, three-fold [cut and spread] — a seat made of the tips of *kuśa* (*darbha*) grass, spread out so that the gods may come and sit. **रिशादसः** — *riśa hiṃsāyām*: those who eat — destroy — the *riśas*, i.e. enemies; hence *riśādasaḥ*: 'destroyers of enemies'. **सीदन्तु मनुषो यथा** — as, at the sacrifice done by Manu, the progenitor of men, the gods came to the place of sacrifice and sat on the *darbha*, so may Mitra, Varuṇa and the others come to this our place of sacrifice and sit down: that is the seer's prayer.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**अर्यमा (aryamā)** — one of the twelve Ādityas, a son of Aditi.
+
+### Page 356 — Rik 4: Special Topics (end), grammar
+
+**बर्हिः (barhiḥ)** — the seat of *darbha* grass, made ready by cutting the tips of the *darbha* called *kuśa* and spreading them soft in three layers, so that the gods may come and sit on the sacrificial altar.
+
+**रिशादसः (riśādasaḥ)** — *riśa hiṃsāyām; riśanti hiṃsantīti riśāḥ śatravaḥ; tān adantīti riśādasaḥ*: the root *riś* means to harm; those who harm are called *riśāḥ*, enemies; since they destroy such enemies, *riśādasaḥ* means destroyers of enemies.
+
+**सीदंतु मनुषो यथा (sīdaṃtu manuṣo yathā)** — as the gods came to the sacrificial ground in the sacrifice made by Manu Prajāpati and sat on the *darbha* seat, so may Mitra, Varuṇa and the others come to this our sacrificial ground and sit: this is the ṛṣi's prayer.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**बर्ही रिशादसः (barhī riśādasaḥ)** — with *barhis* + *riśādasaḥ*, by "ससजुषो रुः" (Pā. Sū. 8-2-66) the word-final *s* of *barhis* becomes *ru*; by "रो रि" (Pā. Sū. 8-3-14) an *r* before an *r* is dropped, so the *r* of *barhir* is dropped. With *barhi* + *riśādasaḥ*, by "ढ्रलोपे पूर्वस्य दीर्घोऽणः" (Pā. Sū. 6-3-111) the preceding *aṇ* is lengthened when a following letter is the cause of the loss of *ḍh* or *r*; so the *i* is lengthened: *barhī riśādasaḥ*.
+
+**रिशादसः (riśādasaḥ)** — *riśa hiṃsāyām*, tudādi. By "इगुपधज्ञाप्रीकिरः कः" (Pā. Sū. 3-1-135), since the penultimate is an *ik*, the suffix *ka*; being *kit*, no guṇa of the light penultimate: *riśa*. *Riśān adanti iti riśādasaḥ*: those who eat, destroy, enemies. By "सर्वधातुभ्योऽसुन्" (Uṇ. Sū. 4-6[?]8, as printed: the third glyph is blurred, as on p. 352) the suffix *asun* after *ad bhakṣaṇe*: *riśādas*, an *s*-stem; nominative plural *riśādasaḥ*. By "गतिकारकोपपदात्कृत्" (Pā. Sū. 6-2-139), the first member being a *kāraka* upapada, the *kṛt* final member keeps its accent; *adas*, ending in a *nit* suffix, is initially acute, so in *riśādasaḥ* the *ā* after *ś* is udātta.
+
+**सीदंतु (sīdaṃtu)** — *ṣadḷ viśaraṇagatyavasādaneṣu*, bhvādi; in the *loṭ* third plural *anta* gives *antu*; the vikaraṇa *śap*; before it,
+
+### Page 357 — Rik 4: grammar (end)
+
+by "पाघ्राध्मास्था-" (Pā. Sū. 7-3-78) the root takes the substitute *sīda*; by "अतो गुणे" (Pā. Sū. 6-1-97) *pararūpa*: *sīdantu*. *Śap* being *pit* is anudātta; after an *adupadeśa*, the *lasārvadhātuka* is anudātta by "तास्यनुदात्तेत्-" (Pā. Sū. 6-1-186); then the root's end-acute, coming by "धातोः" (Pā. Sū. 6-1-162), remains as *sati-śiṣṭa*.
+
+**मनुषः (manuṣaḥ)** — *mana jñāne*, divādi. *Manyate jānātīti manuḥ prajāpatiḥ*: the one who knows all. With "जनेरुसिर्निच्च" continuing, by "बहुलमन्यत्रापि" (Uṇ. Sū. 2-278, as read: the third glyph is the flat-footed 7; the bhāṣya gives उ. २-१२२) the suffix *usi* after *man*, and it is *nit*: *manus*, an *s*-stem. In the genitive singular the ending *as*; since the *s* follows an *iṇ* and is part of a suffix, it becomes *ṣ*: *manuṣaḥ*. Ending in a *nit* suffix, by "ञ्नित्यादिर्नित्यम्" (Pā. Sū. 6-1-197) it is initially acute.
+
+**यथा (yathā)** — by "प्रकारवचने थाल्" (Pā. Sū. 5-3-23) *thāl* after *yad* in the sense of manner; since it is called *vibhakti*, by "त्यदादीनामः" (Pā. Sū. 7-2-102) the final becomes *a*: *yathā*. By "यथेति पादान्ते" (Phi. Sū. 85), standing at the end of the pāda, *yathā* is wholly anudātta, so the *nighāta* accent comes here. ॥४॥ *(A printed ornament follows; Ṛk 5 begins on the same page.)*
 
 ---
 
