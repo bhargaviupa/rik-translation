@@ -4242,15 +4242,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **rathe-śubham**: root *śubha dīptau*; *rathe śobhate* — *rathe-śubh*; *kvip ca*; *tatpuruṣe kṛti bahulam* — तत्पुरुषे कृति बहुलम् — (Pā. 6-3-14): in a *tatpuruṣa*, before a *kṛdanta* second member, the seventh case is not elided, in many cases; so *aluk*; the *kṛdanta* second member keeps its natural accent.
 - **gāyata**: root *kai gai rai śabde*; *tiṅ ṅatiṅaḥ* — wholly unaccented. Rik 1 ends here (*|| 1 ||*).
 
-### Rik 37.2 (pp. 257–260, PDF 271–274)
+### Rik 37.2 (pp. 257–259, PDF 272–274)
 
-**Saṃhitā-pāṭha** *(p. 257; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 257)*
 
-> **ये पृषतीभिर्ऋष्टिभिः साकं वाशीभिरञ्जिभिः ।**
-> **अजायन्त स्वभानवः ॥ २ ॥**
+> ये पृष॑तीभिर्ऋ॒ष्टिभिः॑ सा॒कं वाशी॑भिर॒ञ्जिभिः॑ ।
+> अजा॑यन्त॒ स्वभा॑नवः ॥ २ ॥
 
-*ye pṛṣatībhir ṛṣṭibhiḥ sākaṃ vāśībhir añjibhiḥ |*
-*ajāyanta svabhānavaḥ || 2 ||*
+*ye pṛ́ṣatībhir ṛṣṭíbhiḥ sākáṃ vā́śībhir añjíbhiḥ |*
+*ájāyanta svábhānavaḥ || 2 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The stroke of "vāśībhir" stands between* śī *and* bhi*; placed on* śī *as in the Pada.)*
 
 **Pada-pāṭha** *(p. 257)*
 
@@ -4260,11 +4262,13 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *ye | pṛṣatībhiḥ | ṛṣṭi-bhiḥ | sākam | vāśībhiḥ | añji-bhiḥ ||*
 *ajāyanta | sva-bhānavaḥ || 2 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 258; the first half in full, the grammatical tail characterized)*
+### Page 258
 
-> ये मरुतः पृषत्यादिभिः साकं स्वभानवः स्वकीयदीप्तियुक्ता अजायन्त इति सम्पन्नाः । पृषत्यो बिन्दुयुक्ता मृग्यो मरुद्वाहनभूताः । पृषत्यो मरुतामिति निघण्टावुक्तत्वात् । ऋष्टय आयुधानि । वाश्यः शब्दविशेषाः परकीयसेनाभीतिहेतवः । वाशी वाणीति वाङ्नामसु पठितत्वात् । आञ्जयोऽलंकरणानि । तान् स्तुम इति शेषः ॥ अजायन्त । जनीप्रादुर्भावे । श्यन् ज्ञाजनोर्जा । इति जादेशः । अडागम उदात्तः । स्वभानवः । स्वकीया भानवो येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+**Sāyaṇa-bhāṣya** *(p. 258, in full, with its grammatical tail)*
 
-*ye marutaḥ pṛṣatyādibhiḥ sākaṃ svabhānavaḥ svakīyadīptiyuktā ajāyanteti sampannāḥ | pṛṣatyo binduyuktā mṛgyo marudvāhanabhūtāḥ | pṛṣatyo marutām iti nighaṇṭāv uktatvāt | ṛṣṭaya āyudhāni | vāśyaḥ śabdaviśeṣāḥ parakīyasenābhītihetavaḥ | vāśī vāṇīti vāṅnāmasu paṭhitatvāt | āñjayo 'laṃkaraṇāni | tān stuma iti śeṣaḥ || ajāyanta | janī prādurbhāve | śyan jñājanor jā | iti jādeśaḥ | aḍāgama udāttaḥ | svabhānavaḥ | svakīyā bhānavo yeṣām | bahuvrīhau pūrvapadaprakṛtisvaratvam ||*
+> ये मरुतः पृषत्यादिभिः साकं स्वभानवः स्वकीयदीप्तियुक्ता अजायन्तेति सम्पन्नाः । पृषत्यो बिन्दुयुक्ता मृग्यो मरुद्वाहनभूताः । पृषत्यो मरुतामिति निघण्टावुक्तत्वात् । ऋष्टय आयुधानि । वाश्यः शब्दविशेषाः परकीयसेनाभीतिहेतवः । वाशी वाणीति वाङ्नामसु पठितत्वात् । अञ्जयोऽलंकरणानि । तान् स्तुम इति शेषः ॥ अजायन्त । जनीप्रादुर्भावे । श्यनि ज्ञाजनोर्जा । पा. ७-३-७९ । इति जादेशः । अडागम उदात्तः । स्वभानवः । स्वकीया भानवो येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*ye marutaḥ pṛṣatyādibhiḥ sākaṃ svabhānavaḥ svakīyadīptiyuktā ajāyanteti sampannāḥ | pṛṣatyo binduyuktā mṛgyo marudvāhanabhūtāḥ | pṛṣatyo marutāmiti nighaṇṭāvuktatvāt | ṛṣṭaya āyudhāni | vāśyaḥ śabdaviśeṣāḥ parakīyasenābhītihetavaḥ | vāśī vāṇīti vāṅnāmasu paṭhitatvāt | añjayo 'laṃkaraṇāni | tān stuma iti śeṣaḥ ‖ ajāyanta | janīprādurbhāve | śyani jñājanorjā | pā. 7-3-79 | iti jādeśaḥ | aḍāgama udāttaḥ | svabhānavaḥ | svakīyā bhānavo yeṣām | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
 
 **Translation:** "The Maruts who, together with *pṛṣatībhiḥ* and the rest, *ajāyanta* — came into being, *svabhānavaḥ* — furnished with their own radiance. *Pṛṣatyaḥ* — spotted does, the vehicles of the Maruts (since '*pṛṣatyo marutām*' is said in the Nighaṇṭu). *Ṛṣṭayaḥ* — weapons. *Vāśīḥ* — particular sounds that are the cause of fear for an enemy army; since *vāśī*, *vāṇī* are read among the words for speech. *Añjayaḥ* — ornaments. Them we praise: so it is to be supplied."
 
@@ -4276,21 +4280,23 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **English Translation (the source's own, p. 258)** — "( Praise ) the self-luminous Maruths, borne by spotted deer, with weapons, war-cries and decorations·" *(Printed so, with "Maruths"; the print ends with a raised dot.)*
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 258–259**
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 258–259**
 - **pṛṣatībhiḥ** — "Yāska, in regard to the vehicles and so on of some deities, says:"
 
-> हरी इन्द्रस्य । रोहिताग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुताम् । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥ (नि. १-२-८ [?])
+### Page 259 *(the quotation begins at the foot of p. 258, "harī indrasya … rāsabhāv aśvinoḥ"; the rest is on p. 259)*
 
-*harī indrasya | rohitāgneḥ | harita ādityasya | rāsabhāv aśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutām | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ || (ni. 1-2-8 [?])*
+> हरी इन्द्रस्य । रोहिताग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुताम् । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥ (नि. २-२-८)
 
-"*Harī* [is the name of the two horses] of Indra; *rohitā* of Agni; *haritaḥ* — [as in] '*bhadrā aśvā haritaḥ sūryasya*' (Ṛg. 1-115-3 [?]) — of Āditya; *rāsabhau*, the two asses, of the Aśvins; *ajāḥ*, the she-goats, of Pūṣan; *pṛṣatyaḥ*, the spotted does, of the Maruts; *aruṇyaḥ gāvaḥ*, the red cows, of Uṣas; *śyāvāḥ*, brown or tawny horses, of Savitṛ; *viśvarūpāḥ* of Bṛhaspati; *niyutaḥ* of Vāyu: these are the names of their vehicles. Hence the does that are the Maruts' horses are called here by the word *pṛṣatībhiḥ*." *(Translation of the Nirukta passage mine and tentative; the print also gives the English glosses 'spotted deer' and 'brown or tawny horses'.)*
+*harī indrasya | rohitāgneḥ | harita ādityasya | rāsabhāv aśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutām | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ || (ni. 2-2-8)*
+
+"*Harī* [is the name of the two horses] of Indra; *rohitā* of Agni; *haritaḥ* — [as in] '*bhadrā aśvā haritaḥ sūryasya*' (Ṛ. Saṃ. 1-115-3) — of Āditya; *rāsabhau*, the two asses, of the Aśvins; *ajāḥ*, the she-goats, of Pūṣan; *pṛṣatyaḥ*, the spotted does, of the Maruts; *aruṇyaḥ gāvaḥ*, the red cows, of Uṣas; *śyāvāḥ*, brown or tawny horses, of Savitṛ; *viśvarūpāḥ* of Bṛhaspati; *niyutaḥ* of Vāyu: these are the names of their vehicles. Hence the does that are the Maruts' horses are called here by the word *pṛṣatībhiḥ*." *(Translation of the Nirukta passage mine and tentative; the print also gives the English glosses 'spotted deer' and 'brown or tawny horses'.)*
 - **ṛṣṭibhiḥ** = *āyudhaiḥ*: "with weapons."
-- **vāśībhiḥ** — "since *vāśī* is read among the fifty-nine names for speech beginning *vāk*, *dhārā* (Ni. 1-11 [?]), *vāśībhiḥ* means 'with sounds'. The bhāṣyakāra says here: 'with terrible sounds, or with war-cries that frighten enemies'."
+- **vāśībhiḥ** — "since *vāśī* is read among the fifty names for speech beginning *ślokaḥ*, *dhārā* (Ni. 2-23, as printed), *vāśībhiḥ* means 'with sounds'. The bhāṣyakāra says here: 'with terrible sounds, or with war-cries that frighten enemies'."
 - **añjibhiḥ** — "furnished with ornaments."
 - **svabhānavaḥ** = *svakīyā bhānavo yeṣāṃ te svabhānavaḥ*: "those who shine by their own light."
 
 **Vyākaraṇa-prakriyā** *(p. 259, PDF 273 — grammar page, noted briefly)*
-- **ajāyanta**: root *janī prādurbhāve*, *divādi*, *ātmanepada*; *laṅ*, *jha*, *ant* [by *jho 'ntaḥ*]; *divādibhyaḥ śyan*; the augment *aṭ*; *ajan + ya + anta*; *jñājanor jā* — ज्ञाजनोर्जा — [Pā. 7-3-79]: *jā* in place of *jñā* and *jan* before a *śit* suffix: *ajāya + anta*; *pararūpa*; the augment *aṭ* is acute.
+- **ajāyanta**: root *janī prādurbhāve*, *divādi*, *ātmanepada*; *laṅ*, *jha*, *ant* [by *jho 'ntaḥ*]; *divādibhyaḥ śyan*; the augment *aṭ*; *ajan + ya + anta*; *jñājanor jā* — ज्ञाजनोर्जा — (Pā. 7-3-79): *jā* in place of *jñā* and *jan* before a *śit* suffix: *ajāya + anta*; *pararūpa*; the augment *aṭ* is acute.
 - **svabhānavaḥ**: *svakīyāḥ bhānavaḥ yeṣāṃ te*, a bahuvrīhi: "whose light is their own"; the first member keeps its natural accent. Rik 2 ends here (*|| 2 ||*).
 
 ### Rik 37.3 (pp. 260–262, PDF 274–276)
