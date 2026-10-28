@@ -9763,27 +9763,31 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 475)*
 
-> आ घा गमद्यदि श्रवत्सहस्रिणीभिरूतिभिः ।
-> वाजेभिरुप नो हवम् ॥ ८ ॥
+> आ घा॑ गम॒द्यदि॒ श्रव॑त्स॒हस्रि॒णीभि॑रू॒तिभिः॑ ।
+> वाजे॑भि॒रुप॑ नो॒ हवं॑ ॥ ८ ॥
 
-> *ā ghā gamadyadi śravatsahasriṇībhirūtibhiḥ |*
-> *vājebhirupa no havam ‖ 8 ‖*
+> *ā́ ghā gamadyádi śrávatsahásriṇī́bhirūtíbhiḥ |*
+> *vā́jebhirúpa no hávaṃ || 8 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
+### Page 476 — Sūkta 30, Rik 8 (continued)
 
 **Pada-pāṭha** *(p. 476)*
 
 > आ । घ । गमत् । यदि । श्रवत् । सहस्रिणीभिः । ऊतिऽभिः ।
-> वाजेभिः । उप । नः । हवम् ॥ ८ ॥
+> वाजेभिः । उप । नः । हवं ॥ ८ ॥
 
 > *ā | gha | gamat | yadi | śravat | sahasriṇībhiḥ | ūti 'bhiḥ |*
-> *vājebhiḥ | upa | naḥ | havam ‖ 8 ‖*
+> *vājebhiḥ | upa | naḥ | havaṃ ‖ 8 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 476)*
 
-> यदि श्रवत् यद्ययमिन्द्रोऽस्मदीयं हवनमाह्वानं शृणुयात् तदानीं स्वयमेव सहस्रिणीभिरूतिभिर्बहुभिः पालनैर्वाजेभिरन्नैश्च सहोप समीप आ घ आवश्यमागमत् । आगच्छेत् ॥ घ । ऋचि तुनुघेत्यादिना संहितायां दीर्घः । गमत् । लिङर्थे लेट् । लेटोऽडाटौ । इतश्च लोपः । इतीकारलोपः । यद्वा । छन्दसि लुङ्लङ्लिटः । … पुषादिद्युताद्यॢदितः परस्मैपदेषु । पा. ३-१-५५ । इति च्लेरङादेशः । बहुलं छन्दस्यमाङ्योगेऽपीति । श्रवत् । श्रु श्रवणे । पूर्ववल्लेट्यडागमः । वाजेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । हवम् । भावेऽनुपसर्गस्येति ह्वयतेरप् । संप्रसारणं च । अपः पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तत्वम् ॥
+> यदि श्रवत् यद्ययमिन्द्रो नोऽस्मदीयं हवमाह्वानं शृणुयात् तदानीं स्वयमेव सहस्रिणीभिरूतिभिर्बहुभिः पालनैर्वाजेभिरन्नैश्च सहोप समीप आ घ अवश्यमागमत् । आगच्छेत् ॥ घ । ऋचि तुनुघेत्यादिना संहितायां दीर्घः । गमत् । लिङर्थे लेट् । लेटोऽडाटावित्यडागमः । इतश्च लोप इतीकारलोपः । यद्वा । छान्दसे लुङि पुषादिद्युताद्यॢदितः परस्मैपदेषु । पा. ३-१-५५ । इति च्लेरङादेशः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । श्रवत् । श्रु श्रवणे । पूर्ववल्लेट्यडागमः । वाजेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । हवम् । भावेऽनुपसर्गस्येति ह्वयतेरप् । संप्रसारणं च । अपः पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तत्वम् ॥
 
-> *yadi śravat yadyayamindro 'smadīyaṃ havanamāhvānaṃ śṛṇuyāt tadānīṃ svayameva sahasriṇībhirūtibhirbahubhiḥ pālanairvājebhirannaiśca sahopa samīpa ā gha āvaśyamāgamat | āgacchet ‖ gha | ṛci tunughetyādinā saṃhitāyāṃ dīrghaḥ | gamat | liṅarthe leṭ | leṭo 'ḍāṭau | itaśca lopaḥ | itīkāralopaḥ | yadvā | chandasi luṅlaṅliṭaḥ | … puṣādidyutādyḷditaḥ parasmaipadeṣu | pā. 3-1-55 | iti cleraṅādeśaḥ | bahulaṃ chandasyamāṅyoge 'pīti | śravat | śru śravaṇe | pūrvavalleṭyaḍāgamaḥ | vājebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | havam | bhāve 'nupasargasyeti hvayaterap | saṃprasāraṇaṃ ca | apaḥ pittvādanudāttatve dhātusvareṇādyudāttatvam ‖*
+> *yadi śravat yadyayamindro no 'smadīyaṃ havamāhvānaṃ śṛṇuyāt tadānīṃ svayameva sahasriṇībhirūtibhirbahubhiḥ pālanairvājebhirannaiśca sahopa samīpa ā gha avaśyamāgamat | āgacchet ‖ gha | ṛci tunughetyādinā saṃhitāyāṃ dīrghaḥ | gamat | liṅarthe leṭ | leṭo 'ḍāṭāvityaḍāgamaḥ | itaśca lopa itīkāralopaḥ | yadvā | chāndase luṅi puṣādidyutādyḷditaḥ parasmaipadeṣu | pā. 3-1-55 | iti cleraṅādeśaḥ | bahulaṃ chandasyamāṅyoge 'pītyaḍabhāvaḥ | śravat | śru śravaṇe | pūrvavalleṭyaḍāgamaḥ | vājebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | havam | bhāve 'nupasargasyeti hvayaterap | saṃprasāraṇaṃ ca | apaḥ pittvādanudāttatve dhātusvareṇādyudāttatvam ‖*
 
-*Translation:* "If he hears (*yadi śravat*) — if this Indra should hear our invocation, then of himself, with a thousand-fold protections (*sahasriṇībhir ūtibhiḥ*) — many protections — and with foods (*vājebhiḥ*), he will surely (*gha*) come near (*upa ā gamat*)." *(The grammar clauses on* gha, gamat, śravat, vājebhiḥ, havam *follow: lengthening by *ṛci tunughamakṣu…*; *leṭ* in the sense of the optative with the *aṭ*/*āṭ* augments; *bhis* without the *ais* substitution; *ap* from *hvā* with *saṃprasāraṇa*.)*
+*Translation:* "If he hears (*yadi śravat*) — if this Indra should hear our invocation (*havam*) — then of himself, with thousand-fold protections (*sahasriṇībhir ūtibhiḥ*: many protections) and with foods (*vājebhiḥ*), he will surely (*gha*: necessarily) come near (*upa ā gamat*: may he come)." The grammatical tail treats *gha* (lengthened in the Saṃhitā by *ṛci tunugha…*), *gamat* (*leṭ* in the optative sense, *aṭ* by *leṭo 'ḍāṭau*, loss of *i* by *itaś ca lopaḥ*; or a Vedic *luṅ* with *aṅ* for *cli* by Pā. 3-1-55, and no augment *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*), *śravat* (likewise *leṭ* with *aṭ*), *vājebhiḥ* (no *ais* for *bhis* by *bahulaṃ chandasi*) and *havam* (*ap* after *hvā* by *bhāve 'nupasargasya*, with *saṃprasāraṇa*; *ap* is *pit* and grave, so the root accent makes it initial-acute).
 
 **Pratipadārtha** *(p. 476, rendered)* — (**सः** that Indra) **नः** our **हवम्** invocation; **यदि श्रवत्** if he hears; **सहस्रिणीभिः** with many kinds of; **ऊतिभिः** protections; **वाजेभिः** with foods too; **उप** to our neighbourhood; **आ घ** certainly, entirely; **आगमत्** may he come.
 
@@ -9793,9 +9797,11 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > If he hears our invocation, he will surely come to us with numerous helpful bounties and abundant food.
 
+### Page 477 — Sūkta 30, Rik 8 (continued)
+
 **Viśeṣa-viṣayagaḷu** *(p. 477)* — **सहस्रिणीभिः ऊतिभिः वाजेभिः** — *ūtibhiḥ* are the protections that guard us, the means necessary for it; *vājebhiḥ* are foods and the like; the sense: bringing them in thousands, that is, in great numbers, he will come near us.
 
-**Grammar (p. 477), noted briefly:** *gha* (lengthening in the Saṃhitā P. 6-3-133 *ṛci tunughamakṣutaṅkutrorūṣyuṇām* [as read]); *gamat* (*gamḷ gatau*; *leṭ* by P. 3-4-7 *liṅarthe leṭ*; *aḍāṭau* P. 3-4-94; *itaś ca lopaḥ* P. 3-4-97 [?]; or Vedic *luṅ*, *aṅ* by P. 3-1-55 *puṣādidyutādyḷdit…*; no *aṭ* by P. 6-4-75 *bahulaṃ chandasy amāṅyoge 'pi*); *śravat* (as *gamat*); *vājebhiḥ* (*bhis* → *ais* P. 7-1-9 not applied: *bahulaṃ chandasi* P. 7-1-10; *e* by P. 7-3-103 *bahuvacane jhaly et*); *havam* (*hvaiñ spardhāyām*; *ap* P. 3-3-75 *bhāve 'nupasargasya*; *saṃprasāraṇa*, *pūrvarūpa*; *ap* is *pit*, the root's end-acute makes it initial-acute). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(p. 477, noted briefly)* — *gha*: lengthening in the Saṃhitā by '*ṛci tunugha*' (Pā. sū. 6-3-133). *gamat*: *gamḷ gatau*; *leṭ* by '*liṅarthe leṭ*' (Pā. sū. 3-4-7); loss of the *i* of *tip* by '*itaś ca lopaḥ*' (Pā. sū. 3-4-97); *aṭ* by '*leṭo 'ḍāṭau*' (Pā. sū. 3-4-94); or *luṅ* in the sense of *liṅ* by '*chandasi luṅlaṅliṭaḥ*' (Pā. sū. 3-4-6), *cli* by '*cli luṅi*' (Pā. sū. 3-1-43) replaced by *aṅ* under '*puṣādidyutā-*' (Pā. sū. 3-1-55); no augment by '*bahulaṃ chandasy amāṅyoge 'pi*' (Pā. sū. 6-4-75). *śravat*: *śru śravaṇe*; *leṭ* with *aṭ* as before. *vājebhiḥ*: *ais* for *bhis* due by '*ato bhisa ais*' (Pā. sū. 7-1-9) but withheld by '*bahulaṃ chandasi*' (Pā. sū. 7-1-10); *e* by '*bahuvacane jhaly et*' (Pā. sū. 7-3-103). *havam*: *hveñ spardhāyām*, *bhvādi*; *ap* and *saṃprasāraṇa* by '*bhāve 'nupasargasya*' (Pā. sū. 3-3-75); *pūrvarūpa* by '*saṃprasāraṇāc ca*'; *hu* + *a*, guṇa and *av*; *ap* is *pit* and grave, so the root's end-acute (by '*dhātoḥ*') remains: initial udātta.
 
 ---
 ### Pages 478–480 — Sūkta 30, Rik 9
