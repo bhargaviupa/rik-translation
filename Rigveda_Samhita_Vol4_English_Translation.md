@@ -78,17 +78,19 @@
 
 **Translation of the heading:** "Maṇḍala 1, Anuvāka 7, Sūkta 33; Aṣṭaka 1, Adhyāya 3, Varga 1–3; number of ṛks in the sūkta: 1–15; Ṛṣi: Hiraṇyastūpa Āṅgirasa; Deity: Indra; Metre: Triṣṭup." *(In the line "sūktadalliruva ṛksaṅkhye" the Kannada word "sūktadalliruva" is mine-normalised from the print's "sūktadalliruva ṛksaṃkhye"; the line is Kannada, not Sanskrit.)*
 
-**Saṃhitā-pāṭha** *(printed with accent marks, in Kannada script; the accents are **not** reproduced here, as in Volumes 2–3 — the Kannada notation could not be converted reliably)*:
+**Saṃhitā-pāṭha** *(printed with accent marks, in Kannada script; reproduced here)*:
 
 ### Rik 33.1
 
-> **एतायामोप गव्यन्त इन्द्रमस्माकं सुप्रमतिं वावृधाति ।**
-> **अनामृणः कुविदादस्य रायो गवां केतं परमावर्जते नः ॥ १ ॥**
+> एताया॒मोप॑ ग॒व्यन्त॒ इन्द्र॑म॒स्माकं॒ सुप्रम॑तिं वावृधाति ।
+> अ॒ना॒मृ॒णः कु॒विदा द॒स्य रा॒यो गवां॒ केतं॒ पर॑मा॒वर्ज॑ते नः ॥ १ ॥ [accent ?]
+>
+> *etāyāmópa gavyánta índram asmā́kaṃ súprámatiṃ vāvṛdhāti |*
+> *anāmṛṇáḥ kuvídā dasyá rāyó gavāṃ kétaṃ páramāvárjate naḥ || 1 ||* [accent ?]
 
-*etāyāmopa gavyanta indram asmākaṃ supramatiṃ vāvṛdhāti |*
-*anāmṛṇaḥ kuvid ādasya rāyo gavāṃ ketaṃ param āvarjate naḥ || 1 ||*
+*(Saṃhitā accents as printed; Pada unaccented. Marks: underline below a syllable = anudātta ॒, short vertical stroke above = svarita ॑; the acute in the IAST line is set only on an unmarked syllable that stands directly before a svarita or directly after an anudātta. [accent ?]: in "kuvidā dasya" the underline lies between *da* and *sya*; I took it as *da*.)*
 
-*(Reading note: the print divides the words with underline marks as "ṛte-yāmo-pa gavyantaḥ"-style; I read the first word as printed "etāyāma upa" run together, "etāyāmopa". The last word is printed split over two lines as "paramāva-rjate"; read "param āvarjate". Sandhi in "gavyanta indram" is as printed.)*
+*(Reading note: the underlines in the print are the anudātta accent marks, not word-dividers (corrected on the better scan); I read the first word as printed "etāyāma upa" run together, "etāyāmopa". The last word is printed split over two lines as "paramāva-rjate"; read "param āvarjate". Sandhi in "gavyanta indram" is as printed.)*
 
 **Translation:** *(my own provisional rendering, to be replaced by the Pada, the bhāṣya and the source's own English, which follow on the next pages)* "Come, [we] desiring cattle, to Indra, who greatly strengthens our good intelligence; he, the unharmed, indeed [bestows] this wealth; [he] turns toward us the highest signal-mark of cattle."
 
