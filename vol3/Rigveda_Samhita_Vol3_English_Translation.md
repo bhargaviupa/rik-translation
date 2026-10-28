@@ -4492,82 +4492,113 @@ The meaning of this ṛk is somewhat tangled. The main intention is: O Pūṣan,
 
 ---
 
-### Pages 190–194 — Sūkta 23, Rik 14
+### Page 190 (lower) — Sūkta 23, Rik 14
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> पूषा राजानमाघृणिरपगूळ्हं गुहा हितम् ।
-> अविन्दच्चित्रबर्हिषम् ॥ १४ ॥
+> पू॒षा राजा॑न॒माघृ॑णि॒रप॑गूळ्हं॒ गुहा॑ हि॒तं ।
+> अवि॑न्दच्चि॒त्र॑बर्हिषं ॥१४॥ [accent ?]
+>
+> *pūṣā́ rā́jānam ā́ghṛṇir ápagūḷhaṃ gúhā hitáṃ |*
+> *ávindac citrabarhiṣaṃ ||14||* [accent ?]
 
-*pūṣā rājānam āghṛṇir apagūḷhaṃ guhā hitam | avindac citrabarhiṣam || 14 ||*
+*(Bars under पू, न (राजान), णि, ळ्हं and हि; strokes over जा, घृ, प (अप) and हा. Line 2 (p. 191): strokes over वि and त्र (as in the Pada) [accent ?], a bar under च्चि.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 191 — Rik 14: Pada, bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> पूषा । राजानम् । आघृणिः । अपऽगूळ्हम् । गुहा । हितम् ॥ अविन्दत् । चित्रऽबर्हिषम् ॥ १४ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*pūṣā | rājānam | āghṛṇiḥ | apa-gūḷham | guhā | hitam || avindat | citra-barhiṣam || 14 ||*
+> पूषा । राजानं । आघृणिः । अपऽगूळ्हं । गुहा । हितं ॥
+> अविन्दत् । चित्रऽबर्हिषं ॥१४॥
+>
+> *pūṣā | rājānaṃ | āghṛṇiḥ | apa 'gūḷhaṃ | guhā | hitaṃ ||*
+> *avindat | citra 'barhiṣaṃ ||14||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> आघृणिः पूषा राजानं सोममविन्दत् । अलभत । कीदृशम् । अपगूळ्हं [मत्य्वन्ते?] अत्यन्तं गूढम् [?] । तत्र हेतुः । गुहा हितं गुहासदृशे दुर्गमे द्युलोके स्थितम् । तथा चित्रबर्हिषम् ॥ अपगूळ्हम् । गुहू संवरणे । निष्ठायां क्तः । हो ढः (पा. ८-२-३१) इति ढत्वम् । झषस्तथोर्धोऽधः (पा. ८-२-४०) इति धत्वम् । ष्टुत्वढलोपपदीर्घाः । समासे गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । गुहा । सुपां सुलुगिति सप्तम्या लुक् । हितम् । निष्ठायां दधातेर्हिः ॥
+*(Numbers as printed: पा० ८-२-३१, ८-२-४०.)*
 
-*āghṛṇiḥ pūṣā rājānaṃ somam avindat | alabhata | kīdṛśam | apagūḷhaṃ [matyante?] atyantaṃ gūḍham [?] | tatra hetuḥ | guhā hitaṃ guhāsadṛśe durgame dyuloke sthitam | tathā citrabarhiṣam || apagūḷham | guhū saṃvaraṇe | niṣṭhāyāṃ ktaḥ | ho ḍhaḥ (pā. 8-2-31) iti ḍhatvam | jhaṣas tathor dho 'dhaḥ (pā. 8-2-40) iti dhatvam | ṣṭutvaḍhalopadīrghāḥ | samāse gatir anantara iti gateḥ prakṛtisvaratvam | guhā | supāṃ suluk iti saptamyā luk | hitam | niṣṭhāyāṃ dadhāter hiḥ ||*
+> आघृणिः पूषा राजानं सोममविन्दत् । अलभत । कीदृशं । अपगूळ्हमत्यन्तगूढं । तत्र हेतुः । गुहा हितं गुहासदृशे दुर्गमे द्युलोके स्थितं । तथा चित्रबर्हिषं ॥ अपगूळ्हं । गुहू संवरणे । निष्ठेति कर्मणि क्तः । हो ढः । पा० ८-२-३१ । इति ढत्वं । झषस्तथोर्धोऽधः । पा० ८-२-४० । इति धकारः । ष्टुत्वढलोपदीर्घाः । समासे गतिरनन्तर इति गतेः प्रकृतिस्वरत्वं । गुहा । सुपां सुलुगिति सप्तम्या लुक् । हितं । निष्ठायां दधातेर्हिः ॥
+>
+> *āghṛṇiḥ pūṣā rājānaṃ somamavindat | alabhata | kīdṛśaṃ | apagūḷhamatyantagūḍhaṃ | tatra hetuḥ | guhā hitaṃ guhāsadṛśe durgame dyuloke sthitaṃ | tathā citrabarhiṣaṃ || apagūḷhaṃ | guhū saṃvaraṇe | niṣṭheti karmaṇi ktaḥ | ho ḍhaḥ | pā0 8-2-31 | iti ḍhatvaṃ | jhaṣastathordho 'dhaḥ | pā0 8-2-40 | iti dhakāraḥ | ṣṭutvaḍhalopadīrghāḥ | samāse gatiranantara iti gateḥ prakṛtisvaratvaṃ | guhā | supāṃ sulugiti saptamyā luk | hitaṃ | niṣṭhāyāṃ dadhāterhiḥ ||*
 
-**Translation:** "The radiant Pūṣan found (*avindat*, obtained) the king, Soma. What kind of soma? *Apagūḷham*: very much hidden; the reason: *guhā hitam* — placed, as in a cave, in the difficult-of-access world of heaven; and *citrabarhiṣam*, [with the variegated *darbha*]. *Apagūḷham*: *guhū saṃvaraṇe*, with *kta*; *ha* → *ḍha* by P. 8-2-31; *dha* for *ta* by P. 8-2-40; the retroflexion, the loss of *ḍh*, and the lengthening; in the compound the *gati* keeps its own accent (P. 6-2-49). *Guhā*: the locative ending lost by *supāṃ suluk*. *Hitam*: *dadhāti* → *hi* before *kta*." *(Grammar pages 193–194, noted briefly: the words treated are* apagūḷham *[*apa* + *guhū saṃvaraṇe* + *kta* — P. 3-2-102 *niṣṭhā*; the *ūkāra* → *ū* with *guṇa* blocked by P. 1-1-5; *ho ḍhaḥ* P. 8-2-31; *jhaṣas tathor dho 'dhaḥ* P. 8-2-40; *ṣṭunā ṣṭuḥ* P. 8-4-41; *ḍho ḍhe lopaḥ* P. 8-3-13; *ḍhralope pūrvasya dīrgho 'ṇaḥ* P. 6-3-111; the Saṃhitā reading *apagūḷham* with *ḷ* for *ḍ* by the Ṛgvedic rule *ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcāḥ*; the *gati* accent: P. 6-2-49 *gatir anantaraḥ*, and *apa* is *ādyudātta* by the Phiṭ rule *upasargāś cābhivarjam*],* guhā *[the locative singular *guhāyām* → *guhā* by *supāṃ suluk* P. 7-1-39 — see Ṛ. Saṃ. 1-[?]],* hitam *[*ḍudhāñ dhāraṇapoṣaṇayoḥ* + *kta*; *dadhāter hiḥ* P. 7-4-42 → *hita*; + *am*]; numerals as read, pointers only.)*
+**Translation:** "*Āghṛṇiḥ*, the bright Pūṣan, *avindat*, found, obtained, *rājānam*, King Soma. Of what kind? *Apagūḷham*, utterly hidden. The reason for that: *guhā hitam*, placed in the world of heaven, hard to reach like a cave. And *citrabarhiṣam*." (Grammatical tail: *apagūḷham*, *guhū saṃvaraṇe*, *kta* in the object sense by *niṣṭhā*, *ḍh* by *ho ḍhaḥ* (Pā. 8-2-31), *dh* by *jhaṣas tathor dho 'dhaḥ* (Pā. 8-2-40), *ṣṭutva*, dropping of *ḍh* and lengthening; in the compound the prefix keeps its own accent by *gatir anantaraḥ*; *guhā*, the locative dropped by *supāṃ suluk*; *hitam*, *hi* for *dhā* by *niṣṭhāyāṃ dadhāter hiḥ*.)
 
-**॥ Prati-padārthaḥ ॥** **आघृणिः (āghṛṇiḥ)** — radiant | **पूषा (pūṣā)** — Pūṣan | **अपगूळ्हम् (apagūḷham)** — very much hidden | **गुहा (guhā)** — in a cave-like place hard to reach | **हितम् (hitam)** — placed | **चित्रबर्हिषम् (citrabarhiṣam)** — with variegated *darbha* | **राजानम् (rājānam)** — the soma-juice | **अविन्दत् (avindat)** — found.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** The radiant Pūṣan found and brought for us the soma-juice, which, accompanied by variegated *darbha*, was placed in a most secret place, a cave.
+**आघृणिः (āghṛṇiḥ)** — furnished with brightness | **पूषा (pūṣā)** — Pūṣan | **अपगूळ्हं (apagūḷhaṃ)** — utterly hidden | **गुहा (guhā)** — in a place hard to reach, like a cave | **हितं (hitaṃ)** — kept | **चित्रबर्हिषं (citrabarhiṣaṃ)** — joined with variegated *darbha* grass | **राजानं (rājānaṃ)** — the soma juice | **अविन्दत् (avindat)** — obtained.
+
+**॥ Bhāvārthaḥ ॥**
+
+The shining Pūṣan brought (for us) the soma juice, joined with variegated *darbha* grass, which was in a most secret place.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The resplendent Pushan found out the Soma (king) although concealed in a secret cave placed upon the sacred grass.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 191–193)* **राजानम्** — Soma is called *rājan* ('king') by custom. Such usage is seen more in the Yajurveda than in the Ṛgveda:
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-> सोमं राजानमवसेऽग्निं गीर्भिर्हवामहे ॥ (ऋ. सं. १०-१४१-३)
-> *somaṃ rājānam avase 'gniṃ gīrbhir havāmahe ||* — "We call with hymns, for help, king Soma and Agni." *(my gloss, tentative)*
+**राजानं (rājānaṃ)** — there is a custom of calling soma 'king'. Such usage is seen more in the Yajurveda than in the Ṛgveda.
 
-> सोमस्य राज्ञो वरुणस्य धर्मणि बृहस्पतेरनुमत्या उ शर्मणि ॥ (ऋ. सं. १०-१६७-३)
-> *somasya rājño varuṇasya dharmaṇi bṛhaspater anumatyā u śarmaṇi ||* — "In the ordinance of king Soma and Varuṇa, in the shelter, with the consent, of Bṛhaspati." *(my gloss, tentative)*
+### Page 192 — Rik 14: Special Topics (continued)
 
-and so on, with many examples. In the first prapāṭhaka [anuvāka] of the second chapter, sixth kāṇḍa of the Yajurveda (Tai. Saṃ. [6-1-1]) it is described that Soma is king, and the metres, Gāyatrī etc., are his servants.
+> सोमं राजानमवसेऽग्निं गीर्भिर्हवामहे ॥ (ऋ० सं० १०-१४१-३)
+> सोमस्य राज्ञो वरुणस्य धर्मणि बृहस्पतेरनुमत्या उ शर्मणि ॥ (ऋ० सं० १०-१६७-३)
+>
+> *somaṃ rājānamavase 'gniṃ gīrbhirhavāmahe || (ṛ0 saṃ0 10-141-3)*
+> *somasya rājño varuṇasya dharmaṇi bṛhaspateranumatyā u śarmaṇi || (ṛ0 saṃ0 10-167-3)*
 
-**अपगूळ्हम्** — *atyantagūḍham*: [very much hidden]; Skandasvāmin cites an old legend about this:
+— and there are many such examples. In the first *anuvāka* of the second chapter of the sixth book of the Taittirīya Saṃhitā of the Yajurveda (Tai. Saṃ. 6-2-1) there is the explanation that soma is the king and the metres Gāyatrī and the rest are his servants.
 
-> अत्रेतिहासमाचक्षते । असुराः सोमं राजानं दीयमानमग्नेर्हस्तादपहृत्य गुहायां न्यदधुः । तं पर्येषमाणा अन्ये देवा नाविदन् । पूषा त्वविन्दत् ॥
+**अपगूळ्हं (apagūḷhaṃ)** — *atyantagūḍham | nigūḷham ācchāditam |* the meaning is: kept in a most secret place. On this matter Skandasvāmin has told an old legend —
 
-*atretihāsam ācakṣate | asurāḥ somaṃ rājānaṃ dīyamānam agner hastād apahṛtya guhāyāṃ nyadadhuḥ | taṃ paryeṣamāṇā anye devā nāvidan | pūṣā tv avindat ||* — "They tell a legend here: the Asuras, having snatched the king Soma, who was being given, from the hand of Agni, hid him in a cave. The other gods, though they sought him all round, did not find him; but Pūṣan found him." *(my translation of the Kannada exposition of Skandasvāmin's Sanskrit; the exact Sanskrit wording as printed is partly doubtful)* That is, the asuras seized soma from Agni's hand and hid him in a very secret cave; the gods could not find him though they searched; Pūṣan found and brought him.
+> अत्रेतिहासमाचक्षते । असुराः सोमं राजानं दीयमानमग्नेर्हस्तादपहृत्य गुहायां न्यदधुः । तं पर्येषमाणा अन्ये देवा नाविन्दन् । पूषा त्वविन्दत् ।
+>
+> *atretihāsamācakṣate | asurāḥ somaṃ rājānaṃ dīyamānamagnerhastādapahṛtya guhāyāṃ nyadadhuḥ | taṃ paryeṣamāṇā anye devā nāvindan | pūṣā tvavindat |*
 
-**गुहा हितम्** — 'placed in a cave', i.e. in a hidden place difficult of access. Here *guhā* may be taken as *guhāyām* or as 'secret place'. In the Ṛgveda and in the Upaniṣads the expression *guhā hitam* is customary for something placed in a secret place unknown to anyone. Examples:
+— that is: the demons stole the soma from the hand of Agni and kept it in a most secret place, a cave. However much the gods searched for it, they did not find it. Pūṣan alone searched it out and brought it.
 
-> गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति ॥ (ऋ. सं. १-१६४-४५)
-> *guhā trīṇi nihitā neṅgayanti turīyaṃ vāco manuṣyā vadanti ||* — "Three [parts of speech] are hidden in the cave and do not stir; the fourth part of speech men speak." *(my gloss, tentative)*
+**गुहा हितं (guhā hitaṃ)** — that is, hidden in a hard-to-reach secret place like a cave. Here *guhā* can be taken to mean a cave or a secret place. In the Ṛgveda and the Upaniṣads too it is customary to indicate a thing kept in a secret place known to no one by the words *guhā hitam* —
 
-> अविन्दद्दिवो निहितं गुहा निधिं वेर्न गर्भं परिवीतमश्मन्यनन्ते अन्तरश्मनि ॥ (ऋ. सं. [१-१३०-३] [?])
-> *avindad divo nihitaṃ guhā nidhiṃ ver na garbhaṃ parivītam aśmany anante antar aśmani ||* — "He found the treasure hidden in the cave of heaven, like a bird's young enclosed in the infinite rock, within the rock." *(my gloss, tentative)*
+> गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति ॥ (ऋ० सं० १-१६४-४५)
+> अविन्दद्दिवो निहितं गुहा निधिं वेर्न गर्भं परिवीतमश्मन्यनन्ते अन्तरश्मनि ॥ (ऋ० सं० १-१३०-३)
+> गुहा हितं गुह्यं गूळ्हमप्स्वपीवृतं मायिनं क्षियन्तं ॥ (ऋ० सं० २-११-५)
+> अभिनक्षन्तो अभि ये तमानशुर्निधिं पणीनां परमं गुहा हितं ॥ (ऋ० सं० २-२४-६)
+> तिस्रो महीरुपरास्तस्थुरत्या गुहा द्वे निहिते दर्श्येका ॥ (ऋ० सं० ३-५६-२)
+>
+> *guhā trīṇi nihitā neṅgayanti turīyaṃ vāco manuṣyā vadanti || (ṛ0 saṃ0 1-164-45)*
+> *avindaddivo nihitaṃ guhā nidhiṃ verna garbhaṃ parivītamaśmanyanante antaraśmani || (ṛ0 saṃ0 1-130-3)*
+> *guhā hitaṃ guhyaṃ gūḷhamapsvapīvṛtaṃ māyinaṃ kṣiyantaṃ || (ṛ0 saṃ0 2-11-5)*
+> *abhinakṣanto abhi ye tamānaśurnidhiṃ paṇīnāṃ paramaṃ guhā hitaṃ || (ṛ0 saṃ0 2-24-6)*
+> *tisro mahīruparāstasthuratyā guhā dve nihite darśyekā || (ṛ0 saṃ0 3-56-2)*
 
-> गुहा हितं गुह्यं गूळ्हमप्स्वपीवृतं मायिनं क्षियन्तम् ॥ (ऋ. सं. [२-११-५] [?])
-> *guhā hitaṃ guhyaṃ gūḷham apsv apīvṛtaṃ māyinaṃ kṣiyantam ||* — "[Vṛtra] placed in the cave, secret, hidden, covered in the waters, the wily dweller." *(my gloss, tentative)*
+### Page 193 — Rik 14: Special Topics (end), grammar
 
-> अभि ये तमानशुर्निधिं पणीनां परमं गुहा हितम् ॥ (ऋ. सं. [५-१४-६?] [?])
-> *abhi ye tam ānaśur nidhiṃ paṇīnāṃ paramaṃ guhā hitam ||* — "Those who reached the treasure of the Paṇis, the best, placed in the cave." *(my gloss, tentative)*
+> प्रवाच्यं वचसः किं मे अस्य गुहा हितमुप निणिग्वदन्ति ॥ (ऋ० सं० ४-५-८)
+> चित्रं सन्तं गुहा हितं सुवेदं कूचिदर्थिनं ॥ (ऋ० सं० ४-७-६)
+> त्वामग्ने अङ्गिरसो गुहा हितमन्वविन्दञ्छिश्रियाणं वनेवने ॥ (ऋ० सं० ५-११-६)
+>
+> *pravācyaṃ vacasaḥ kiṃ me asya guhā hitamupa niṇigvadanti || (ṛ0 saṃ0 4-5-8)*
+> *citraṃ santaṃ guhā hitaṃ suvedaṃ kūcidarthinaṃ || (ṛ0 saṃ0 4-7-6)*
+> *tvāmagne aṅgiraso guhā hitamanvavindañchiśriyāṇaṃ vanevane || (ṛ0 saṃ0 5-11-6)*
 
-> तिस्रो महीरुपरास्तस्थुरत्र्या गुहा द्वे निहिते दर्श्येका ॥ (ऋ. सं. [३-५६-२] [?])
-> *tisro mahīr uparās tasthur atryā guhā dve nihite darśy ekā ||* — "The three great ones stood above [?]; of two hidden in the cave, one [only] is seen." *(my gloss, tentative; the first pāda is badly read)*
+— and there are many other examples. *(Glosses of these quotations are not given in the source.)*
 
-> प्रवाच्यं वचसः किं मे अस्य गुहा हितमुप निणिग्वदन्ति ॥ (ऋ. सं. [४-५-८?] [?])
-> *pravācyaṃ vacasaḥ kiṃ me asya guhā hitam upa niṇig vadanti ||* — "What of this speech is to be declared by me? What is hidden in the cave they tell as a secret." *(my gloss, tentative)*
+**चित्रबर्हिषं (citrabarhiṣaṃ)** — this word is in the previous ṛk too. What the right meaning of this word is is not clear.
 
-> चित्रं सन्तं गुहा हितं सुवेदं कूचिदर्थिनम् ॥ (ऋ. सं. [४-५-६?] [?])
-> *citraṃ santaṃ guhā hitaṃ suvedaṃ kūcid arthinam ||* — "[The treasure], wonderful, hidden in the cave, easy to find by one who seeks it anywhere." *(my gloss, tentative)*
+**॥ Vyākaraṇa-prakriyā ॥**
 
-> त्वामग्ने अङ्गिरसो गुहा हितमन्वविन्दञ्छिश्रियाणं वने वने ॥ (ऋ. सं. [५-११-६] [?])
-> *tvām agne aṅgiraso guhā hitam anv avindañ chiśriyāṇaṃ vane-vane ||* — "O Agni, the Aṅgirases found you hidden in the cave, entering every wood." *(my gloss, tentative)*
+**अपगूळ्हम् (apagūḷham)** — the prefix *apa*, the root *guhū saṃvaraṇe*. After it, by *niṣṭhā* (Pā. Sū. 3-2-102) — after a root in the past sense, the suffixes *kta*, *ktavatu* come — the suffix *kta* in the object sense: *ap* + *guh* + *ta*. Now by *ho ḍhaḥ* (Pā. Sū. 8-2-31) — when a *jhal* letter follows, and at the end of a *pada*, *ḍh* is substituted for *h* — for the *h* before the *jhal* letter *t*, the substitute *ḍh*: *guḍh* + *ta*. By *jhaṣas tathor dho 'dhaḥ* (Pā. Sū. 8-2-40) — the *t* and *th* after a letter in the *pratyāhāra* *jhaṣ* not belonging to the root *dhā* take *dh* — *dh* for the *t*: *guḍh* + *dha*; by *ṣṭunā ṣṭuḥ* (Pā. Sū. 8-4-41), by *ṣṭutva*, *ḍh* for the *dh*: *guḍh* + *ḍha*. By *ḍho ḍhe lopaḥ* (Pā. Sū. 8-3-13) — a *ḍh* before a *ḍh* is dropped — the *ḍh* is dropped: *gu* + *ḍha*. By *ḍhralope pūrvasya dīrgho 'ṇaḥ* (Pā. Sū. 6-3-111) — an *aṇ* before the *ḍh* and *r* that cause the dropping of *ḍh* and *r* is lengthened — the *u* is lengthened: *gū* + *ḍha*: it became *apagūḍha*. Now, according to the tradition of the Bahvṛcas, *ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcā jaguḥ | ajmadhyasthaḍhakārasya ḷhakāraṃ vai yathākramam ||*, the *ḍh* between vowels becomes *ḷh*: it becomes *apagūḷham*. *Apa* and *gūḷham* both form a *prādi* compound. By *gatir anantaraḥ* (Pā. Sū. 6-2-49) — when a word ending in the suffix *kta* in the object sense follows, the immediately preceding *gati* keeps its own accent — the accent of *apa* alone stays. *Apa* is initially udātta by *upasargāś cābhivarjam* (Phi. Sū. 82).
 
-(The author gives these and further examples; the numerals under each are small and are given as best read, marked [?].)
+> अज्मध्यस्थडकारस्य ळकारं बह्वृचा जगुः । अज्मध्यस्थढकारस्य ळ्हकारं वै यथाक्रमम् ॥
+>
+> *ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcā jaguḥ | ajmadhyasthaḍhakārasya ḷhakāraṃ vai yathākramam ||*
 
-**चित्रबर्हिषम्** — this word occurred in the preceding rik too. Its right meaning is not clear.
+**गुहा (guhā)** — for the locative singular suffix after this word, by *supāṃ suluk* (Pā. Sū. 7-1-39) — for the meaning of the sūtra see the eleventh mantra — *luk*; instead of *guhāyām* it stays as *guhā*.
+
+### Page 194 (upper) — Rik 14: grammar (end)
+
+**हितं (hitaṃ)** — after the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, the suffix *kta*: *dhā* + *ta*. By *dadhāter hiḥ* (Pā. Sū. 7-4-42) — when a *t*-initial *kit* suffix follows, the root *dhā* takes the substitute *hi* — when *hi* comes for *dhā*: *hi* + *ta*; the accusative singular suffix *am*: it becomes *hitam*. ॥14॥
 
 ---
 
