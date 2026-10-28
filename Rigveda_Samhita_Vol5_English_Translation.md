@@ -3912,31 +3912,31 @@
 
 ### Rik 52.2 (pp. 217–, PDF 233–)
 
-**Saṃhitā-pāṭha** *(p. 217; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 217; accents as printed)*
 
-> **स पर्वतो न धरुणेष्वच्युतः सहस्रमूतिस्तविषीषु वावृधे ।**
-> **इन्द्रो यद्वृत्रमवधीन्नदीवृतमुब्जन्नर्णांसि जर्हृषाणो अन्धसा ॥ २ ॥**
+> **स पर्व॑तो॒ न ध॒रुणे॒ष्वच्यु॑तः स॒हस्र॑मूति॒स्तवि॑षीषु वावृधे ।**
+> **इन्द्रो॒ यद्वृ॒त्रमव॑धीन्नदी॒वृत॑मु॒ब्जन्नर्णां॑सि॒ जर्हृ॑षाणो॒ अन्ध॑सा ॥ २ ॥**
 
-*sa parvato na dharuṇeṣv acyutaḥ sahasramūtis taviṣīṣu vāvṛdhe |*
-*indro yad vṛtram avadhīn nadīvṛtam ubjann arṇāṃsi jarhṛṣāṇo andhasā || 2 ||*
+*sá párvato ná dharúṇeṣv ácyutaḥ sahásramūtis táviṣīṣu vāvṛdhe |*
+*índro yád vṛtrám ávadhīn nadīvṛ́tam ubjánn árṇāṃsi járhṛṣāṇo ándhasā || 2 ||*
 
 **Pada-pāṭha** *(p. 217)*
 
-> सः । पर्वतः । न । धरुणेषु । अच्युतः । सहस्रमूतिः [सहस्रऽऊतिः] । तविषीषु । ववृधे ।
+> सः । पर्वतः । न । धरुणेषु । अच्युतः । सहस्रम्ऽऊतिः । तविषीषु । ववृधे ।
 > इन्द्रः । यत् । वृत्रम् । अवधीत् । नदीऽवृतम् । उब्जन् । अर्णांसि । जर्हृषाणः । अन्धसा ॥ २ ॥
 
-*saḥ | parvataḥ | na | dharuṇeṣu | acyutaḥ | sahasra-ūtiḥ | taviṣīṣu | vavṛdhe |*
+*saḥ | parvataḥ | na | dharuṇeṣu | acyutaḥ | sahasram-ūtiḥ | taviṣīṣu | vavṛdhe |*
 *indraḥ | yat | vṛtram | avadhīt | nadī-vṛtam | ubjan | arṇāṃsi | jarhṛṣāṇaḥ | andhasā || 2 ||*
 
 *(The Pada's* vavṛdhe *against the Saṃhitā's* vāvṛdhe*: the Saṃhitā lengthens the reduplicative vowel — see the bhāṣya's tail.)*
 
 **Sāyaṇa-bhāṣya** *(p. 217)*
 
-> **अन्धसा सोमलक्षणेनान्नेन जर्हृषाणोऽत्यर्थं हृष्यन्निन्द्रो यद्यदा वृत्रं त्रयाणां लोकानामावरीतारमसुरमवधीत् । हतवान् । कीदृशं वृत्रम् । नदीवृतम् । नदनान्नद्य आपः । तासामावरीतारम् । किं कुर्वन्निन्द्रः । अर्णांसि जलान्युब्जन् । अधःपातयन् । तदानीं स इन्द्रः पर्वतो न पर्वत इव शिलोच्चय इव धरुणेषु सर्वस्य धारकेषूदकेषु मध्येऽच्युतश्चलनराहित्येन स्थितः सहस्रमूतिर्बहुविधरक्षणवान् तविषीषु बलेषु वावृधे । प्रवृद्धो बभूव ॥**
+> **अन्धसा सोमलक्षणेनान्नेन जर्हृषाणोऽत्यर्थं हृष्यन्निन्द्रो यद्यदा वृत्रं त्रयाणां लोकानामावरीतारमसुरमवधीत् । हतवान् । कीदृशं वृत्रम् । नदीवृतम् । नदनान्नद्य आपः । तासामावरीतारम् । किं कुर्वन्निन्द्रः । अर्णांसि जलान्युब्जन् । अधःपातयन् । तदानीं स इन्द्रः पर्वतो न पर्व[?] शिलोच्चय इव धरुणेषु सर्वस्य धारकेषूदकेषु मध्येऽच्युतश्चलनराहित्येन स्थितः सहस्रमूतिर्बहुविधरक्षणवान् तविषीषु बलेषु वावृधे । प्रवृद्धो बभूव ॥**
 
-*andhasā somalakṣaṇenānnena jarhṛṣāṇo 'tyartham hṛṣyann indro yad yadā vṛtraṃ trayāṇāṃ lokānām āvarītāram asuram avadhīt | hatavān | kīdṛśaṃ vṛtram | nadīvṛtam | nadanān nadya āpaḥ | tāsām āvarītāram | kiṃ kurvann indraḥ | arṇāṃsi jalāny ubjan | adhaḥpātayan | tadānīṃ sa indraḥ parvato na parvata iva śilo­ccaya iva dharuṇeṣu sarvasya dhārakeṣūdakeṣu madhye 'cyutaś calanarāhityena sthitaḥ sahasramūtir bahuvidharakṣaṇavān taviṣīṣu baleṣu vāvṛdhe | pravṛddo babhūva ||*
+*andhasā somalakṣaṇenānnena jarhṛṣāṇo 'tyartham hṛṣyann indro yad yadā vṛtraṃ trayāṇāṃ lokānām āvarītāram asuram avadhīt | hatavān | kīdṛśaṃ vṛtram | nadīvṛtam | nadanān nadya āpaḥ | tāsām āvarītāram | kiṃ kurvann indraḥ | arṇāṃsi jalāny ubjan | adhaḥpātayan | tadānīṃ sa indraḥ parvato na parva[?] śiloccaya iva dharuṇeṣu sarvasya dhārakeṣūdakeṣu madhye 'cyutaś calanarāhityena sthitaḥ sahasramūtir bahuvidharakṣaṇavān taviṣīṣu baleṣu vāvṛdhe | pravṛddho babhūva ||*
 
-*(The tail of the bhāṣya, pp. 217–218, is characterized: on* dharuṇeṣu *(*dhāraya­teḥ… luk ca*, with the* unaprakṛti *suffix);* sahasramūtiḥ *(the* ūtayaḥ *"protections"; the lengthening; the* lug-bhāva *…);* vāvṛdhe *(the lengthened reduplication in the Saṃhitā by* abhyāsasyānyeṣām api dṛśyate*);* nadīvṛtam*;* ubjan *(*ubja ārjave*, a* śatṛ*);* arṇāṃsi *(the Uṇādi* asun *after* ṛ*, with* nuṭ *and the* nuḍāgama*);* jarhṛṣāṇaḥ *(*hṛṣa tuṣṭau*, reduplicated frequentative with* śānac*);* andhasā *(*adyata iti andhaḥ*, Uṇ. 4-… [?] *asun*).)*
+*(Pass: the Pada prints* सहस्रम्ऽऊतिः*; after "*parvato na*" the print has "ಪರ್ವ" with an unclear ending (not "*parvata iva*"), [?]. The tail of the bhāṣya, pp. 217–218, is characterized: on* dharuṇeṣu *(*dhārayater ṇiluk ca*, with the* unaprakṛti *suffix);* sahasramūtiḥ *(the* ūtayaḥ *"protections"; the lengthening; the* lug-bhāva *…);* vāvṛdhe *(the lengthened reduplication in the Saṃhitā by* abhyāsasyānyeṣām api dṛśyate*);* nadīvṛtam*;* ubjan *(*ubja ārjave*, a* śatṛ*);* arṇāṃsi *(the Uṇādi* asun *after* ṛ*, with* nuṭ *and the* nuḍāgama*);* jarhṛṣāṇaḥ *(*hṛṣa tuṣṭau*, reduplicated frequentative with* śānac*);* andhasā *(*adyata iti andhaḥ*, Uṇ. 4-205, *asun*); the tail prints Uṇ. 4-196 for *udake nuṭ ca* (*arṇāṃsi*).)*
 
 **Translation of the bhāṣya:** "*Andhasā*, with the food in the form of soma, *jarhṛṣāṇaḥ*, exceedingly delighted, Indra, *yat*, when he killed Vṛtra, the Asura who covers the three worlds — what sort of Vṛtra? *nadīvṛtam*: *nadya* are the 'sounding' waters; he who covers them. What was Indra doing? *Arṇāṃsi ubjan*: pouring the waters downward. Then that Indra, *parvato na*, like a mountain, like a mass of rock, *dharuṇeṣu*, in the midst of the waters that support all, *acyutaḥ*, stood unmoving, without any wavering, *sahasramūtiḥ*, having protection of many kinds, *taviṣīṣu*, in strengths, *vāvṛdhe*: grew exceedingly."
 
@@ -3957,14 +3957,14 @@
 
 **Rik 52.2, Vyākaraṇa-prakriyā** *(pp. 219–220, PDF 235–236 — grammar pages, noted briefly)*
 - **nadīvṛtam** — (first the Special Topic, p. 219:) "*nadanān nadyaḥ* — *tāsām āvarītāram*: he who was in the middle of the mass of waters, the Asura Vṛtra; Indra destroyed such a Vṛtra."
-- **dharuṇeṣu**: *dhṛñ avasthāne*; the Uṇādi suffix *una* by *dhārayater nir lug ca* [as read, [?]]; *guṇa* of the root; *ṇatva* of the *n* after *r* by *aṭkupvāṅnumvyavāye 'pi*; *dharuṇa*; locative plural; the initial acute of the suffix gives the *u* after *r* an acute.
+- **dharuṇeṣu**: *dhṛñ avasthāne*; the Uṇādi suffix *una* by *dhārayater ṇiluk ca* (no number printed); *guṇa* of the root; *ṇatva* of the *n* after *r* by *aṭkupvāṅnumvyavāye 'pi*; *dharuṇa*; locative plural; the initial acute of the suffix gives the *u* after *r* an acute.
 - **sahasramūtiḥ**: "*sahasram ūtayo yasya asau*"; in the compound, the dropping of the case ending that *supo dhātuprātipadikayoḥ* would give is not applied in the Veda.
 - **vavṛdhe**: *vṛdhu vṛddhau*, *bhvādi*; *liṭ* third singular *ta*, replaced by *e* by *liṭas tajhayor eśirec*; being *ṇit*-like (*liṅ*), the root is reduplicated; *urat*; *halādiḥ śeṣaḥ*; *asaṃyogāl liṭ kit* gives it the *kit* nature, so no *guṇa*: *vavṛdhe*; *tiṅ atiṅaḥ*: *nighāta*; in the Saṃhitā the reduplicative vowel is lengthened by *anyeṣām api dṛśyate*: *vāvṛdhe*.
 - **nadīvṛtam**: "*nadīṃ vṛṇotīti nadīvṛt*"; *vṛñ varaṇe*; *kvip ca*; *hrasvasya piti kṛti tuk* gives *tuk* after the root's short vowel; since the suffix is *kit*, no *guṇa*; accusative singular.
 - **ubjan**: *ubja ārjave*, *tudādi*, *śatṛ* in the present sense; *tudādibhyaḥ śaḥ*; *ubjat*; nominative singular, *ugit*, so *num*; *halṅyādi* drops *su*, then the *saṃyogāntalopa*: *ubjan*; the *vikaraṇa*-accent makes the *a* after *j* acute.
-- **arṇāṃsi**: *ṛ gatau*; *udake nuṭ ca* (Uṇ. 4-… as read [?]) — when the sense is "water", the Uṇādi *asun* and the *nuḍ*-augment; *ṇatva* by *raṣābhyāṃ no ṇaḥ samānapade*: *arṇas*; accusative plural *arṇāṃsi*; because *asun* is *nit*, initial-acute by *ñnityādir nityam*.
-- **jarhṛṣāṇaḥ**: *hṛṣa tuṣṭau* in the intensive sense: *yaṅ*, elided here by *yaṅo 'ci ca*; *sanādyantā dhātavaḥ*, so the root-designation; reduplication; *abhyāsasya halādiḥ śeṣaḥ*; *cutva* gives *j*; *rugrikau ca luki* (Pā. 7-4-91) the *ruk*-augment: *jarhṛṣ*; though suited to *śatṛ*, *vyatyayo bahulam* gives *śānac*; *ṇatva* by *aṭkupvāṅnumvyavāye*; *abhyastānām ādiḥ*, initial-acute; or, after *yaj* ending, *śānac*, and by *bahulaṃ chandasi* elision of *śap*, with *chandasy ubhayathā*, *ārdhadhātuka* nature for *śānac*, and *ato lopo yasya hala*, the form is as before.
-- **andhasā**: "*adyate iti andhaḥ*"; *ad bhakṣaṇe*; the Uṇādi *nuṭ* (num) *ādeḥ nuḍ dhaś ca* (Uṇ. 4-… as read [?]) — *num* to the root and *asun*, with *dh* for the final *d*: *andhas*; instrumental singular; *asun* is *nit*, so *ñnityādir nityam* gives the initial acute. **|| 2 ||**
+- **arṇāṃsi**: *ṛ gatau*; *udake nuṭ ca* (Uṇ. sū. 4-636 as printed, middle digit not certain [?]; the Sanskrit tail has Uṇ. 4-196) — when the sense is "water", the Uṇādi *asun* and the *nuḍ*-augment; *ṇatva* by *raṣābhyāṃ no ṇaḥ samānapade*: *arṇas*; accusative plural *arṇāṃsi*; because *asun* is *nit*, initial-acute by *ñnityādir nityam*.
+- **jarhṛṣāṇaḥ**: *hṛṣa tuṣṭau* in the intensive sense: *yaṅ*, elided here by *yaṅo 'ci ca*; *sanādyantā dhātavaḥ*, so the root-designation; reduplication; *abhyāsasya halādiḥ śeṣaḥ*; *cutva* gives *j*; *rugrikau ca luki* (Pā. 7-4-91) the *ruk*-augment: *jarhṛṣ*; though suited to *śatṛ*, *vyatyayo bahulam* gives *śānac*; *ṇatva* by *aṭkupvāṅnumvyavāye*; *abhyastānām ādiḥ* (Pā. 6-1-189), initial-acute; or, after *yaj* ending, *śānac*, and by *bahulaṃ chandasi* elision of *śap*, with *chandasy ubhayathā*, *ārdhadhātuka* nature for *śānac*, and *ato lopo yasya hala*, the form is as before.
+- **andhasā**: "*adyate iti andhaḥ*"; *ad bhakṣaṇe*; the Uṇādi *nuṭ* (num) *ādeḥ nuḍ dhaś ca* (Uṇ. sū. 4-645 as printed; the Sanskrit tail has Uṇ. 4-205) — *num* to the root and *asun*, with *dh* for the final *d*: *andhas*; instrumental singular; *asun* is *nit*, so *ñnityādir nityam* gives the initial acute. **|| 2 ||**
 
 ---
 
