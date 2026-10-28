@@ -9852,27 +9852,33 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 480)*
 
-> तं त्वा वयं विश्ववारा शास्महे पुरुहूत ।
-> सखे वसो जरितृभ्यः ॥ १० ॥
+*(Line 1 flagged [accent ?]: the svarita strokes stand over* त्वा*,* वि *(of* विश्ववारा*) and* शा*; the bars under* व *of* वयं *and* वा *of* विश्ववारा*; I place the bar under* वा *as printed. In line 2 the strokes stand over* खे *and* भ्यः*, the bar under* रि*.)*
 
-> *taṃ tvā vayaṃ viśvavārā śāsmahe puruhūta |*
-> *sakhe vaso jaritṛbhyaḥ ‖ 10 ‖*
+> तं त्वा॑ व॒यं वि॑श्वव॒ारा शा॑स्महे पुरुहूत । [accent ?]
+> सखे॑ वसो जरि॒तृभ्यः॑ ॥ १० ॥
+
+> *táṃ tvā vayáṃ viśvavārā́ śā́smahe puruhūta | [syllables 15/16?]* [accent ?]
+> *sákhe vaso jaritṛ́bhyaḥ || 10 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
+### Page 481 — Sūkta 30, Rik 10 (continued)
 
 **Pada-pāṭha** *(p. 481)*
 
-> तम् । त्वा । वयम् । विश्वऽवार । आ । शास्महे । पुरुऽहूत ।
+> तं । त्वा । वयं । विश्वऽवार । आ । शास्महे । पुरुऽहूत ।
 > सखे । वसो इति । जरितृऽभ्यः ॥ १० ॥
 
-> *tam | tvā | vayam | viśva 'vāra | ā | śāsmahe | puru 'hūta |*
+> *taṃ | tvā | vayaṃ | viśva 'vāra | ā | śāsmahe | puru 'hūta |*
 > *sakhe | vaso iti | jaritṛ 'bhyaḥ ‖ 10 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 481)*
 
-> हे विश्ववार सर्वैर्वरणीय पुरुहूत बहुभिः स्वस्वकर्मण्याहूत सखे सखिवत्प्रिय वसो निवासहेतो इन्द्र तं पूर्वोक्तगुणयुक्तं त्वां जरितृभ्यः स्तोतृभ्यः स्तोतॄणामनुग्रहार्थमाशास्महे । प्रार्थयामहे ॥ आ शास्महे । आङः शासु इच्छायाम् । आदिप्रभृतिभ्यः शप इति शपो लुक् । वसो नामन्त्रिते समानाधिकरण इति पूर्वस्याविद्यमानवत्त्वनिषेधात्पराङ्गवद्भावे सति शेषनिघातेन वामन्त्रितस्य चेति वा सर्वानुदात्तत्वम् । जरितृभ्यः । जरितः स्तुतिकर्मा । तृचश्चित्त्वादन्तोदात्तत्वम् ॥
+> हे विश्ववार सर्वैर्वरणीय पुरुहूत बहुभिः स्वस्वकर्मण्याहूत सखे सखिवत्प्रिय वसो निवासहेतो इन्द्र तं पूर्वोक्तगुणयुक्तं त्वां जरितृभ्यः स्तोतॄणामनुग्रहार्थमाशास्महे । प्रार्थयामहे ॥ आ शास्महे । आङः शासु इच्छायाम् । अदिप्रभृतिभ्यः शप इति शपो लुक् । वसो नामन्त्रिते समानाधिकरण इति पूर्वस्याविद्यमानवत्त्वनिषेधात्पराङ्गवद्भावे सति शेषनिघातेन वामन्त्रितस्य चेति वा सर्वानुदात्तत्वम् । जरितृभ्यः । जरतिः स्तुतिकर्मा । तृचश्चित्त्वादन्तोदात्तत्वम् ॥
 
-> *he viśvavāra sarvairvaraṇīya puruhūta bahubhiḥ svasvakarmaṇyāhūta sakhe sakhivatpriya vaso nivāsaheto indra taṃ pūrvoktaguṇayuktaṃ tvāṃ jaritṛbhyaḥ stotṛbhyaḥ stotṝṇāmanugrahārthamāśāsmahe | prārthayāmahe ‖ ā śāsmahe | āṅaḥ śāsu icchāyām | ādiprabhṛtibhyaḥ śapa iti śapo luk | vaso nāmantrite samānādhikaraṇa iti pūrvasyāvidyamānavattvaniṣedhātparāṅgavadbhāve sati śeṣanighātena vāmantritasya ceti vā sarvānudāttatvam | jaritṛbhyaḥ | jaritaḥ stutikarmā | tṛcaścittvādantodāttatvam ‖*
+> *he viśvavāra sarvairvaraṇīya puruhūta bahubhiḥ svasvakarmaṇyāhūta sakhe sakhivatpriya vaso nivāsaheto indra taṃ pūrvoktaguṇayuktaṃ tvāṃ jaritṛbhyaḥ stotṝṇāmanugrahārthamāśāsmahe | prārthayāmahe ‖ ā śāsmahe | āṅaḥ śāsu icchāyām | adiprabhṛtibhyaḥ śapa iti śapo luk | vaso nāmantrite samānādhikaraṇa iti pūrvasyāvidyamānavattvaniṣedhātparāṅgavadbhāve sati śeṣanighātena vāmantritasya ceti vā sarvānudāttatvam | jaritṛbhyaḥ | jaratiḥ stutikarmā | tṛcaścittvādantodāttatvam ‖*
 
-*Translation:* "O *viśvavāra* (chosen by all), *puruhūta* (called by many, each in his own rite), friend (dear like a friend), *vasu* (cause of dwelling), Indra! You, endowed with the aforesaid qualities, we pray (*ā śāsmahe*) for the benefit of the praisers (*jaritṛbhyaḥ*). *Ā śāsmahe*: *śāsu icchāyām* with *ā*; *śap* lost by *adiprabhṛtibhyaḥ śapaḥ*. *Vaso*: [accent discussion of the two vocatives]. *Jaritṛ*: 'praiser'; end-acute because *tṛc* is *cit*."
+*Translation:* "O *viśvavāra* (to be chosen by all), *puruhūta* (called by many, each in his own rite), friend (*sakhe*: dear like a friend), *vaso* (cause of dwelling), Indra! You, endowed with the aforesaid qualities, we pray (*ā śāsmahe*: we pray) for the favour of the praisers (*jaritṛbhyaḥ*)." The grammatical tail treats *ā śāsmahe* (*śāsu icchāyām* with *āṅ*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*), *vaso* (since *nāmantrite samānādhikaraṇe* denies that the preceding vocative counts as non-existent, it becomes part of the next by *parāṅgavat*, and the whole is grave either by the rule for the remainder or by *āmantritasya ca*) and *jaritṛbhyaḥ* (*jarati* 'to praise'; end-acute as *tṛc* is *cit*).
 
 **Pratipadārtha** *(p. 481, rendered)* — **विश्ववार** [O Indra] who are lovingly chosen by all; **पुरुहूत** invoked by many; **सखे** dear like a friend; **वसो** [cause of] dwelling-places; **तं त्वा** you, endowed with the said qualities; **वयम्** we; **जरितृभ्यः** for the sake of the praisers; **आ शास्महे** we pray.
 
@@ -9882,9 +9888,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > We implore you, Indra, protector of dwellings, as our friend who is preferred and invoked by many to be favourable to your worshippers.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 481–482)* — **विश्ववार** — *sarvair varaṇīya*: invoked, wished for by all ("invoked by all", English as printed). **आ शास्महे** — *śāsu icchāyām*: we pray. **पुरुहूत** — *bahubhiḥ svasvakarmaṇy āhūtaḥ*: invoked by many, in the sacrifices each performs. **वसो** — *nivāsahetoḥ*: cause of dwellings, or protector of dwellings. **जरितृभ्यः** — *jaritā* is read among the thirteen names of 'praiser' beginning *rebha* (Nirukta 3-?? [?]); *jaritṛbhyaḥ* = 'on behalf of the worshippers' (English as printed).
+**Viśeṣa-viṣayagaḷu** *(pp. 481–482)* — **विश्ववारा** [the print's lemma] — *sarvair varaṇīya*: invoked, wished for by all ("invoked by all", English as printed).
 
-**Grammar (p. 482), noted briefly:** *ā śāsmahe* (*āṅaḥ śāsu icchāyām*, *adādi*; *laṭ* 1st pl.; *mahiṅ*; *e* by P. 3-4-79; *śap* *luk* P. 2-4-72; lowered P. 8-1-28); *vaso* and *sakhe* — vocatives with the *nāmantrite samānādhikaraṇe sāmānyavacanam* rule (P. 8-1-74 [as read]): the earlier one is not treated as non-existent; since *sakhe* is at the head of the pāda there is no lowering; *subāmantrite parāṅgavat svare* (P. 2-1-2 [as read]) and *āmantritasya ca* (P. 6-1-198) give the all-low accent to the group; *jaritṛbhyaḥ* (*jṝ vayohānau*; *tṛc*; *iṭ*, guṇa; end-acute as *tṛc* is *cit*). Numerals as read, [?].
+### Page 482 — Sūkta 30, Rik 10 (continued)
+
+**आ शास्महे** — *śāsu icchāyām*: we pray. **पुरुहूत** — *bahubhiḥ svasvakarmaṇy āhūtaḥ*: invoked by many, in the sacrifices each performs. **वसो** — *nivāsahetoḥ*: cause of dwellings, or protector of dwellings. **जरितृभ्यः** — *jaritā* is read among the thirteen names of 'praiser' beginning *rebha* (Ni. 3-19; the last digit is the glyph of 9, as in Pā. 8-1-19 on the same page); *jaritṛbhyaḥ* = 'on behalf of the worshippers' (English as printed).
+
+**Vyākaraṇa-prakriyā** *(p. 482, noted briefly)* — *ā śāsmahe*: *āṅaḥ śāsu icchāyām*, *adādi*, always with *āṅ*; *laṭ* first person plural *mahiṅ*; *e* as *ṭit*; *luk* of *śap* by '*adiprabhṛtibhyaḥ śapaḥ*' (Pā. sū. 2-4-72); grave as a *tiṅ* form. *vaso*: vocative; '*nāmantrite samānādhikaraṇe sāmānyavacanam*' (Pā. sū. 8-1-73): as the two (*sakhe*, *vaso*) denote one thing, the preceding *sakhe* is not treated as non-existent; at the head of the pāda it escapes the *āṣṭamika* lowering; by '*subāmantrite parāṅgavat svare*' *sakhe* is joined to what follows, and the whole is grave either by the lowering of the remainder or by '*āmantritasya ca*' (Pā. sū. 8-1-19); *sakhe*, at the head of the pāda, takes initial udātta by the *ṣāṣṭha* rule. *jaritṛbhiḥ* (so printed in the lemma, for *jaritṛbhyaḥ*): *jṝ vayohānau*; *tṛc*, guṇa and *iṭ*; here the root in the sense of praise is to be taken: 'praiser'; end-acute as *tṛc* is *cit*, the *ṛ* udātta.
 
 ---
 ### Pages 483–485 — Sūkta 30, Rik 11
