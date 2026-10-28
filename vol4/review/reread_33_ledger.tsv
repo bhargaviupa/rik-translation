@@ -9,3 +9,10 @@ id	page	rk	category	was_marked_q	old	new	note
 8	5	33.1	numeral	no	Pā. 3-4-92 (stated as read)	3-4-9? (2 or 7)	not confirmable; now marked [?] — a confidence downgrade, not a correction
 9	6	33.1	numeral	no	Pā. 6-4-37 (pramatim)	Pā. 6-4-32 as printed	zoom-checked: curled 2 after the 3
 10	9	33.2	translation	no	juṣṭām — the beloved (dwelling-place)	the beloved (inhabited, 'in which one dwells')	the print's parenthetical gloss is ವಾಸಮಾಡುತ್ತಿರುವ
+11	12	33.3	Sanskrit word	no	bhūyoḥ [sic: bhūyāḥ ?]	bhūyoḥ	print ಭೂಯೋಃ; the file's [sic] was invented
+12	12	33.3	Sanskrit word	no	asmadadhi asmāsu	asmadadhyasmāsu	print ಅಸ್ಮದಧ್ಯಸ್ಮಾಸು (one sandhi word)
+13	13	33.3	Sanskrit word	no (the [?] was on 'yajanta' only)	ānac for laṭ	śānac for laṭ	print ಶಾನಚ್ clear
+14	14	33.3	Sanskrit word	no	vyavahārī mā bhūyāḥ	vyavahārī mā bhūyoḥ	print ಭೂಯೋಃ (same as p. 12)
+15	14	33.3	print misprint not noted	no	mā paṇir bhūḥ	print heading ಫಣಿರ್ (phaṇir) [sic]	misprint of the source left unmarked
+16	15	33.3	statement about the print	no	'luṅ-type' for asakta	print says laṅ (ಲಙ್ ಪ್ರ.ಪು.ಏ.ವ.)	the file mis-described the print
+17	15	33.3	Sanskrit citation	no	'yonyasya… (a later rule)'	'yo ntasyāntyāt pūrvam' read letter by letter [?]	the file's quoted rule name was not what the print has; reading still not fully settled
