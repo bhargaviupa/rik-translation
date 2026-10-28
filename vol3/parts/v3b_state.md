@@ -3,8 +3,8 @@
 Range: Sūkta 30 heading (printed p. 458) to the end of the volume (p. 647 = PDF 660), incl. moving the "Restored note"
 (*anāhitāgni*, p. 576) into Ṛk 31.15. Branch `claude/numerals-vol3-b`.
 
-Done through: Sūkta 30 Ṛk 15 (p. 496 upper = PDF 510).
-Next unit: Sūkta 30 Ṛk 16 (pp. 496–500 = PDF 510–514).
+Done through: Sūkta 30 Ṛk 16 (p. 500 = PDF 514).
+Next unit: Sūkta 30 Ṛk 17 (pp. 500–503 = PDF 514–517).
 
 ## Page-map finding
 - **Better scan PDF 472 is a wrong page** (header "358", Sūkta 26 matter: *pūrvya hotar…*) where p. 458 should be; p. 458 was read
