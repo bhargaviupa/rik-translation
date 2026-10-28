@@ -4108,45 +4108,47 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Thirty-seventh Sūkta** *(large Kannada title line: "mūvattēḷaneya sūktavu")*
 
-### Page 251 (PDF 265) — Sāyaṇa's introduction and the Kannada anuvāda
+### Page 251 (PDF 266) — Sāyaṇa's introduction and the Kannada anuvāda
 
-**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; the words marked [?] are crowded)*
+**Sāyaṇa's introduction** *(printed in Kannada script; re-read from the better scan, PDF 266)*
 
-> क्रीळं व इति द्वितीयं सूक्तं पञ्चदशर्चम् । आत्रेयमनुक्रमणिका [?] । क्रीळं पञ्चोना मारुतं हि गायत्रं श्वितीति [?] । ऋषिश्चान्यस्माद्यस्येरवाविशिष्ट [?] इति परिभाषया घोरपुत्रः कण्व ऋषिः । इदमुत्तरं च गायत्रीच्छन्दस्के । इदमादिसूक्तत्रयं मरुद्देवताकं तुहिहेति [?] परिभाषितत्वात् ॥ व्यृळ्हे द्वितीये छन्दोमे आग्निमारुतशस्त्र एतत्सूक्तं निविद्धानीयम् । द्वितीयस्याग्निं वो देवमिति खण्डे सूत्रितम् । क्रीळं वः शर्धोऽग्ने मृळेत्यग्निमारुतम् । आ. ७-१० [?] । इति ॥ ब्राह्मणं च । क्रीळं वः शर्धो मारुतमिति । ऐ. ब्रा. ३-१८ [?] । मरुद्भ्यः क्रीडिभ्यः पुरोडाशं सप्तकपालमित्यस्यामिष्टौ क्रीळं व इत्येषा प्रधानस्यानुवाक्या । तथा तत इति खण्डे सूत्रितम् । क्रीळं वः शर्धो मारुतमित्यसो न येमरुतः स्वञ्चः [?] । आ. २-१७ [?] । इति ॥
+> क्रीळं व इति द्वितीयं सूक्तं पञ्चदशर्चम् । अत्रेयमनुक्रमणिका । क्रीळं पञ्चोना मारुतं हि गायत्रं त्विति । ऋषिश्चान्यस्माद्व्यषेरवाविशिष्ट [?] इति परिभाषया घोरपुत्रः कण्व ऋषिः । इदमुत्तरं च गायत्रीच्छन्दस्के । इदमादिसूक्तत्रयं मरुद्देवताकम् । तुहिहवेति परिभाषितत्वात् ॥ व्यूळ्हे द्वितीये छन्दोम आग्निमारुतशस्त्र एतत्सूक्तं निविद्धानीयम् । द्वितीयस्याग्निं वो देवमिति खण्डे सूत्रितम् । क्रीळं वः शर्धोऽग्ने मृळेत्याग्निमारुतम् । आ. ८-१० । इति ॥ ब्राह्मणं च । क्रीळं वः शर्धो मारुतमिति । ऐ. ब्रा. ५-१९ । मरुद्भ्यः क्रीडिभ्यः पुरोडाशं सप्तकपालमित्यस्यामिष्टौ क्रीळं व इत्येषा प्रधानस्यानुवाक्या । तथा तत इति खण्डे सूत्रितम् । क्रीळं वः शर्धो मारुतमित्यासो न ये मरुतः स्वञ्चः । आ. ७-१८ [?] । इति ॥
 
-*krīḷaṃ va iti dvitīyaṃ sūktaṃ pañcadaśarcam | ātreyam anukramaṇikā [?] | krīḷaṃ pañconā mārutaṃ hi gāyatraṃ śvitīti [?] | ṛṣiś cānyasmād yasyeravāviśiṣṭa [?] iti paribhāṣayā ghoraputraḥ kaṇva ṛṣiḥ | idam uttaraṃ ca gāyatrīchandaske | idam ādisūktatrayaṃ maruddevatākaṃ tuhiheti [?] paribhāṣitatvāt || vyṛḷhe dvitīye chandome āgnimārutaśastra etat sūktaṃ nividdhānīyam | dvitīyasyāgniṃ vo devam iti khaṇḍe sūtritam | krīḷaṃ vaḥ śardho 'gne mṛḷety āgnimārutam | ā. 7-10 [?] | iti || brāhmaṇaṃ ca | krīḷaṃ vaḥ śardho mārutam iti | ai. brā. 3-18 [?] | marudbhyaḥ krīḍibhyaḥ puroḍāśaṃ saptakapālam ity asyām iṣṭau krīḷaṃ va ity eṣā pradhānasyānuvākyā | tathā tata iti khaṇḍe sūtritam | krīḷaṃ vaḥ śardho mārutam ity aso na yemarutaḥ svañcaḥ [?] | ā. 2-17 [?] | iti ||*
+*krīḷaṃ va iti dvitīyaṃ sūktaṃ pañcadaśarcam | atreyamanukramaṇikā | krīḷaṃ pañconā mārutaṃ hi gāyatraṃ tviti | ṛṣiścānyasmādvyaṣeravāviśiṣṭa [?] iti paribhāṣayā ghoraputraḥ kaṇva ṛṣiḥ | idamuttaraṃ ca gāyatrīcchandaske | idamādisūktatrayaṃ maruddevatākam | tuhihaveti paribhāṣitatvāt ‖ vyūḷhe dvitīye chandoma āgnimārutaśastra etatsūktaṃ nividdhānīyam | dvitīyasyāgniṃ vo devamiti khaṇḍe sūtritam | krīḷaṃ vaḥ śardho 'gne mṛḷetyāgnimārutam | ā. 8-10 | iti ‖ brāhmaṇaṃ ca | krīḷaṃ vaḥ śardho mārutamiti | ai. brā. 5-19 | marudbhyaḥ krīḍibhyaḥ puroḍāśaṃ saptakapālamityasyāmiṣṭau krīḷaṃ va ityeṣā pradhānasyānuvākyā | tathā tata iti khaṇḍe sūtritam | krīḷaṃ vaḥ śardho mārutamityāso na ye marutaḥ svañcaḥ | ā. 7-18 [?] | iti ‖*
 
-**Translation:** "*Krīḷaṃ vaḥ* — the second sūkta [of the anuvāka], of fifteen ṛks. [So] the Anukramaṇikā [the word "ātreyam" is as read and doubtful [?]]: '*krīḷam* — with five fewer [than twenty]; Māruta; Gāyatra' [the last word as read [?]]. By the rule 'and the ṛṣi [is the same] as another [sūkta]' [the clause in the print is partly unclear [?]] the ṛṣi is Kaṇva, son of Ghora. This [sūkta] and the one following are in the Gāyatrī metre. These three sūktas, beginning with this one, have the Maruts as deity, by the rule on *tuhiha* [?]. In the *Vyṛḷha* [?], in the second *Chandoma* day, at the Āgnimāruta śastra, this sūkta is a *nividdhānīya* [= to have the *nivid* inserted]. It is laid down in the section of the second [adhyāya] beginning '*agniṃ vo devam*': '*krīḷaṃ vaḥ śardho*, [and] *agne mṛḷa* — [these are] the Āgnimāruta [śastra]' (Āś. 7-10 [?]). And the Brāhmaṇa: '*krīḷaṃ vaḥ śardho mārutam*' (Ai. Brā. 3-18 [?]). In the *iṣṭi* [described as] 'a seven-potsherd cake for the sporting Maruts', the ṛk *krīḷaṃ va* is the main *anuvākyā*. And it is laid down in the section beginning '*tataḥ*': '*krīḷaṃ vaḥ śardho mārutam*, [and] *aso na ye marutaḥ svañcaḥ*' (Āś. 2-17 [?])." *(Translation tentative; the middle of the introduction is partly illegible.)*
+**Translation:** "*Krīḷaṃ vaḥ* — the second sūkta [of the anuvāka], of fifteen ṛks. Here is the Anukramaṇikā: '*krīḷam* — with five fewer [than twenty]; Māruta; and Gāyatra'. By the rule 'and the ṛṣi … from another' [the clause *vyaṣeravāviśiṣṭa* is printed so and not understood [?]] the ṛṣi is Kaṇva, son of Ghora. This [sūkta] and the one following are in the Gāyatrī metre. These three sūktas, beginning with this one, have the Maruts as deity, by the rule *tu hi ha vā*. In the *Vyūḷha*, on the second *Chandoma* day, at the Āgnimāruta śastra, this sūkta is a *nividdhānīya* [= to have the *nivid* inserted]. It is laid down in the section of the second [adhyāya] beginning '*agniṃ vo devam*': '*krīḷaṃ vaḥ śardho*, [and] *agne mṛḷa* — [these are] the Āgnimāruta [śastra]' (Āś. 8-10). And the Brāhmaṇa: '*krīḷaṃ vaḥ śardho mārutam*' (Ai. Brā. 5-19). In the *iṣṭi* [described as] 'a seven-potsherd cake for the sporting Maruts', the ṛk *krīḷaṃ va* is the main *anuvākyā*. And it is laid down in the section beginning '*tataḥ*': '*krīḷaṃ vaḥ śardho mārutam*, [and] *atyāso na ye marutaḥ svañcaḥ*' (Āś. 7-18 [?]; the first digit is 7 or 2, not settled). The print has "mārutam ity āso" [sic], for *ity atyāso*."
 
-**Anuvāda (Kannada), p. 251** — "*Krīḷaṃ vaḥ* is the second sūkta in this eighth anuvāka. In it there are fifteen ṛks. The Anukramaṇikā says '*krīḷaṃ pañconā mārutaṃ hi gāyatraṃ śvitīti*' [as read]. As said before, the ṛṣi of this sūkta is Kaṇva, the son of Ghora. This sūkta and the next sūkta are sūktas of the Gāyatrī metre. The three sūktas beginning with this one have the Maruts as deities. At the time of reciting the mantras of the Āgnimāruta śastra in the sacrifice called *Vyṛḷha* it is prescribed that this sūkta be recited as the second *chandoma* mantra. This is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning '*dvitīyasyāgniṃ vo devam*', by the sūtra '*krīḷaṃ vaḥ śardho 'gne mṛḷety āgnimārutam*' (Āś. 7-10 [?]). On this matter there is the Brāhmaṇa sentence '*krīḷaṃ vaḥ śardho mārutam*' (Ai. Brā. 3-18 [?]). In the homa called *āmiṣṭi*, which is made with the Marut deities in view — '*marudbhyaḥ krīḍibhyaḥ puroḍāśaṃ saptakapālam*' — this ṛk *krīḷaṃ vaḥ* is the main *anuvākyā* mantra. In the Āśvalāyana Śrauta-sūtra (Āś. 2-17 [?]), in the section *tathā tataḥ*, the sūtra '*krīḷaṃ vaḥ śardho mārutam* (Ṛg. 1-37-1) *asyo na ye marutaḥ svañcaḥ* (Ṛg. 5-[?]-[?])' points to this matter."
+**Anuvāda (Kannada), p. 251** — "*Krīḷaṃ vaḥ* is the second sūkta in this eighth anuvāka. In it there are fifteen ṛks. The Anukramaṇikā says '*krīḷaṃ pañconā mārutaṃ hi gāyatraṃ tv iti*'. As said before, the ṛṣi of this sūkta is Kaṇva, the son of Ghora. This sūkta and the next sūkta are sūktas of the Gāyatrī metre. The three sūktas beginning with this one have the Maruts as deities. At the time of reciting the mantras of the Āgnimāruta śastra in the sacrifice called *Vyūḷha* it is prescribed that this sūkta be recited as the second *chandoma* mantra. This is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning '*dvitīyasyāgniṃ vo devam*', by the sūtra '*krīḷaṃ vaḥ śardho 'gne mṛḷety āgnimārutam*' (Āś. 8-10). On this matter there is the Brāhmaṇa sentence '*krīḷaṃ vaḥ śardho mārutam*' (Ai. Brā. 5-19). In the homa called *āmiṣṭi*, which is made with the Marut deities in view — '*marudbhyaḥ krīḍibhyaḥ puroḍāśaṃ saptakapālam*' — this ṛk *krīḷaṃ vaḥ* is the main *anuvākyā* mantra. In the Āśvalāyana Śrauta-sūtra (Āś. 7-18 [?]), in the section *tathā tataḥ*, the sūtra '*krīḷaṃ vaḥ śardho mārutam* (Ṛ. Saṃ. 1-37-1) *atyāso na ye marutaḥ svañcaḥ* (Ṛ. Saṃ. 7-59-16 [?]; the first digit 7 or 2, not settled)' points to this matter."
 
 ---
 
-### Page 252 (PDF 266) — heading of Sūkta 37 and Rik 37.1
+### Page 252 (PDF 267) — heading of Sūkta 37 and Rik 37.1
 
 **॥ ॐ ॥**
 
 > **सूक्त — ३७**
 > ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ३७ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — १२ [?], १३, १४ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — १२, १३, १४ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
 > ॥ ऋषिः — कण्वो घौरः ॥
 > ॥ देवता — मरुतः ॥
 > ॥ छन्दः — गायत्री ॥
 
-*sūkta 37 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 12 [?], 13, 14 | ṛks 15 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Gāyatrī.*
+*sūkta 37 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 12, 13, 14 | ṛks 15 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Gāyatrī.*
 
-**Translation of the heading:** "Sūkta 37; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga 12 [?], 13, 14; number of ṛks in the sūkta: 15; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Gāyatrī."
+**Translation of the heading:** "Sūkta 37; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga 12, 13, 14; number of ṛks in the sūkta: 15; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Gāyatrī."
 
-### Rik 37.1 (pp. 252–257, PDF 266–271)
+### Rik 37.1 (pp. 252–257, PDF 267–272)
 
-**Saṃhitā-pāṭha** *(p. 252; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 252)*
 
-> **क्रीळं वः शर्धो मारुतमनर्वाणं रथेशुभम् ।**
-> **कण्वा अभि प्र गायत ॥ १ ॥**
+> क्री॒ळं वः॒ शर्धो॒ मारु॑तमन॒र्वाणं॑ रथे॒शुभं॑ ।
+> कण्वा॑ अ॒भि प्र गा॑यत ॥ १ ॥
 
-*krīḷaṃ vaḥ śardho mārutam anarvāṇaṃ ratheśubham |*
-*kaṇvā abhi pra gāyata || 1 ||*
+*krīḷáṃ vaḥ śárdho mā́rutam anarvā́ṇaṃ ratheśúbhaṃ |*
+*káṇvā abhí prá gāyata || 1 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 252)*
 
@@ -4156,17 +4158,25 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *krīḷam | vaḥ | śardhaḥ | mārutam | anarvāṇam | rathe-śubham ||*
 *kaṇvāḥ | abhi | pra | gāyata || 1 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 252–253; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 252–253, in full)*
 
-> हे कण्वाः कण्वगोत्रोत्पन्ना महर्षयः । यद्वा । मेधाविन ऋत्विजः । वो युष्मदर्थं मारुतं मरुत्समूहरूपं शर्धो बलमभि प्र गायत । आभितः प्रकर्षेण स्तुत्ध्वम् । कीदृशं शर्धः । क्रीळं विहरणशीलम् अनर्वाणं भ्रातृव्यरहितम् । अत एव श्रुत्यन्तरब्राह्मणेन मन्त्रान्तरमेव व्याख्यातम् । अनर्वा प्रेहीत्याह भ्रातृव्यो वा अर्वा भ्रातृव्यापनुत्यै इति । रथेशुभं स्वकीये रथेऽवस्थाय शोभमानम् ॥
+> हे कण्वाः कण्वगोत्रोत्पन्ना महर्षयः । यद्वा । मेधाविन ऋत्विजः । वो युष्मदर्थं मारुतं मरुत्समूहरूपं शर्धो बलमभि प्र गायत । अभितः प्रकर्षेण स्तुध्वम् । कीदृशं शर्धः । क्रीळं विहरणशीलम् अनर्वाणं भ्रातृव्यरहितम् । अत एव श्रुत्यन्तरब्राह्मणेन मन्त्रान्तरमेव व्याख्यातम् । अनर्वा प्रेहीत्याह भ्रातृव्यो वा अर्वा भ्रातृव्यापनुत्या इति । रथेशुभं स्वकीये रथेऽवस्थाय शोभमानम् ॥
 
-*he kaṇvāḥ kaṇvagotrotpannā maharṣayaḥ | yadvā | medhāvina ṛtvijaḥ | vo yuṣmadarthaṃ mārutaṃ marutsamūharūpaṃ śardho balam abhi pra gāyata | ābhitaḥ prakarṣeṇa stutdhvam | kīdṛśaṃ śardhaḥ | krīḷaṃ viharaṇaśīlam anarvāṇaṃ bhrātṛvyarahitam | ata eva śrutyantarabrāhmaṇena mantrāntaram eva vyākhyātam | anarvā prehīty āha bhrātṛvyo vā arvā bhrātṛvyāpanutyai iti | rathe-śubhaṃ svakīye rathe 'vasthāya śobhamānam ||*
+*he kaṇvāḥ kaṇvagotrotpannā maharṣayaḥ | yadvā | medhāvina ṛtvijaḥ | vo yuṣmadarthaṃ mārutaṃ marutsamūharūpaṃ śardho balamabhi pra gāyata | abhitaḥ prakarṣeṇa studhvam | kīdṛśaṃ śardhaḥ | krīḷaṃ viharaṇaśīlam anarvāṇaṃ bhrātṛvyarahitam | ata eva śrutyantarabrāhmaṇena mantrāntarameva vyākhyātam | anarvā prehītyāha bhrātṛvyo vā arvā bhrātṛvyāpanutyā iti | ratheśubhaṃ svakīye rathe 'vasthāya śobhamānam ‖*
 
-*(Reading note: "stutdhvam" is as printed. The Brāhmaṇa quotation "anarvā prehīty āha…" is read with some doubt.)*
+*(The print has "studhvam" (ಸ್ತುಧ್ವಂ) and "bhrātṛvyāpanutyā"; the Special Topics on p. 256 print "bhrātṛvyāpanutyai".)*
 
 **Translation:** "O *kaṇvāḥ* — great ṛṣis born in the family (*gotra*) of Kaṇva, or, otherwise, wise priests — *abhi pra gāyata* — sing out, praise greatly, on all sides, for yourselves, *mārutam śardhaḥ* — the strength (*śardhas*) of the Maruts, in the form of the host of Maruts. What sort of *śardhas*? *Krīḷam* — given to sport (*viharaṇaśīlam*); *anarvāṇam* — without a rival (*bhrātṛvya*). For this very reason another mantra has been explained by another Vedic Brāhmaṇa: '*anarvā, go forward*, he says: the *arvan* [is] a rival — for the removal of the rival.' *Rathe-śubham* — shining, standing in their own chariot."
 
-**Grammar within the bhāṣya** *(p. 253, characterized)*: *krīḷam* (*krīḍṛ vihāre*, the *pacādi* suffix *ac*; *ḍ* → *ḷ* between two vowels, by the Bahvṛca tradition); *śardhaḥ* (*śṛdhu prasahane*; *śardhayaty anena śatrūn*; *asun*; *nit*, so first-syllable acute); *mārutam* (*marutām idam*, *tasyedam*: *aṇ*; the accent first-syllable by *vyatyaya*; or *anudātte… añ* in the sense of "collection"); *anarvāṇam* (masculine by *vyatyaya* instead of neuter; *nañsubhyām*: the later member final-acute); *rathe-śubham* (*śubha dīptau*, *rathe śobhate*: *rathe-śubh*, *kvip*; *tatpuruṣe kṛti bahulam*: the locative is not elided; the later member of a *kṛt*-compound keeps its accent); *gāyata* (*kai gai rai śabde*; *tiṅ ṅatiṅaḥ*: the lowering).
+### Page 253
+
+**Grammatical tail of the bhāṣya** *(p. 253)*
+
+> क्रीळम् । क्रीडृ विहारे । पचाद्यच् । शर्धः । शृधु प्रसहने । शर्धयत्यनेन शत्रूनिति शर्धो बलम् । असुन् । नित्त्वादाद्युदात्तत्वम् । मारुतम् । मरुतां संबन्धि । तस्येदमित्यण् । व्यत्ययेनाद्युदात्तत्वम् । यद्वा । समूहार्थेऽनुदात्तादेरञ् । पा. ४-२-४४ । इत्यनुदात्तादिलक्षणोऽञ्प्रत्ययः । अनर्वाणम् । व्यत्ययेन पुंल्लिङ्गता । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । रथेशुभम् । शुभ दीप्तौ । रथे शोभत इति रथेशुभ् । क्विप्चेति क्विप् । तत्पुरुषे कृति बहुलमित्यलुक् । कृदुत्तरपदप्रकृतिस्वरत्वम् । गायत । कै गै रै शब्दे । तिङ्ङतिङ इति निघातः ॥
+
+*krīḷam | krīḍṛ vihāre | pacādyac | śardhaḥ | śṛdhu prasahane | śardhayatyanena śatrūniti śardho balam | asun | nittvādādyudāttatvam | mārutam | marutāṃ saṃbandhi | tasyedamityaṇ | vyatyayenādyudāttatvam | yadvā | samūhārthe 'nudāttāderañ | pā. 4-2-44 | ityanudāttādilakṣaṇo 'ñpratyayaḥ | anarvāṇam | vyatyayena puṃlliṅgatā | nañsubhyāmityuttarapadāntodāttatvam | ratheśubham | śubha dīptau | rathe śobhata iti ratheśubh | kvipceti kvip | tatpuruṣe kṛti bahulamityaluk | kṛduttarapadaprakṛtisvaratvam | gāyata | kai gai rai śabde | tiṅṅatiṅa iti nighātaḥ ‖*
+
+*(Sense:)* *krīḷam* (*krīḍṛ vihāre*, the *pacādi* suffix *ac*; *ḍ* → *ḷ* between two vowels, by the Bahvṛca tradition); *śardhaḥ* (*śṛdhu prasahane*; *śardhayaty anena śatrūn*; *asun*; *nit*, so first-syllable acute); *mārutam* (*marutām idam*, *tasyedam*: *aṇ*; the accent first-syllable by *vyatyaya*; or *anudātte… añ* in the sense of "collection"); *anarvāṇam* (masculine by *vyatyaya* instead of neuter; *nañsubhyām*: the later member final-acute); *rathe-śubham* (*śubha dīptau*, *rathe śobhate*: *rathe-śubh*, *kvip*; *tatpuruṣe kṛti bahulam*: the locative is not elided; the later member of a *kṛt*-compound keeps its accent); *gāyata* (*kai gai rai śabde*; *tiṅ ṅatiṅaḥ*: the lowering).
 
 **Pratipadārtha** *(p. 253)* — "**kaṇvāḥ** — O sages born in the line of the ṛṣi Kaṇva, or O wise priests; **vaḥ** — for you (for your good); **krīḷam** — [that] is fond of sport; **anarvāṇam** — [that] has no rival; **rathe-śubham** — [that] shines seated in its own chariot; **mārutam** — [that] has the nature of the group of Maruts; **śardhaḥ** — the strength; **abhi pra gāyata** — sing praise well on all sides."
 
@@ -4178,19 +4188,27 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **marutaḥ** — "Yāska's explanation of the word *marutaḥ* is as follows:"
 
-> मरुतो मितराविणो वा मितरोचिनो वा महद्द्रवन्तीति वा । (नि. ११-१३ [?])
+> मरुतो मितराविणो वा मितरोचिनो वा महद्द्रवन्तीति वा ॥ (no reference printed)
 
-*maruto mitrāviṇo vā mitarocino vā mahad dravantīti vā | (ni. 11-13 [?])*
+*maruto mitarāviṇo vā mitarocino vā mahad dravantīti vā || (no reference printed)*
 
-"*Mita* means 'well joined': because they sound well-joined — that is, 'resounding, blowing' — or because they shine well, or because they sound abundantly: from this they are called *marutaḥ*. Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *mitarāviṇaḥ* [*amitarāviṇaḥ*, as read], and explain *amita* as 'very many', and *rāviṇaḥ* as 'sounding'; and in the same way, dividing *amitarocinaḥ*, they take the sense 'shining much'." *(Translation of the Nirukta sentence mine and tentative; the Sanskrit is as read, with [?] on its numeral.)*
+"*Mita* means 'well joined': because they sound well-joined — that is, 'resounding, blowing' — or because they shine well, or because they sound abundantly: from this they are called *marutaḥ*. 
 
-"The Marut deities are praised together with Indra in many contexts. Since there is the praise of Indra in the ṛk '*marudbhir indra sakhyaṃ te astu*' (Ṛg. 8-[?]-[?] [?]), they too have a status like Indra's. In the Ṛgveda thirty-three sūktas are wholly addressed to the Maruts. Besides, there are seven sūktas where they are praised together with Indra, and one each where they are praised with Pūṣan and with Agni. These Marut deities are many. In some places it is said '*trisaptaiḥ*' (Ṛg. 1-133-6 [?]), that is, three groups of seven each; in other places '*tri ṣaṣṭis tvā maruto*' (Ṛg. 8-96-8 [?]), that is, that there are Marut deities numbering sixty [-three]. They are also said to be the sons of Rudra, and so they are called by the name *Rudriyāḥ*. To these Marut deities Pṛśni (the cow of the heavenly world) is [their] mother, and so they are called *pṛśnimātaraḥ*, 'those whose mother is Pṛśni'; here *Pṛśni* may mean the clouds. When clouds shed rain, the wind commonly blows swiftly and with a sound; so the name may have come to these deities. They are also said to be born of lightning and of the cloud, born of the wind and of heaven, and self-born. A deity named Rodasī is said to be their wife, and Indrāṇī and Sarasvatī are said to have a special connection with them."
+### Page 254
+
+Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *mitarāviṇaḥ* [*amitarāviṇaḥ*, as read], and explain *amita* as 'very many', and *rāviṇaḥ* as 'sounding'; and in the same way, dividing *amitarocinaḥ*, they take the sense 'shining much'." *(Translation of the Nirukta sentence mine and tentative.)*
+
+"The Marut deities are praised together with Indra in many contexts. Since there is the praise of Indra in the ṛk '*marudbhir indra sakhyaṃ te astu*' (Ṛ. Saṃ. 8-96-2), they too have a status like Indra's. In the Ṛgveda thirty-three sūktas are wholly addressed to the Maruts. Besides, there are seven sūktas where they are praised together with Indra, and one each where they are praised with Pūṣan and with Agni. These Marut deities are many. In some places it is said '*trisaptaiḥ*' (Ṛ. Saṃ. 1-133-6), that is, three groups of seven each; in other places '*tri ṣaṣṭis tvā maruto*' (Ṛ. Saṃ. 8-96-8), 'three sixties', that is, that there are a hundred and eighty Marut deities. They are also said to be the sons of Rudra, and so they are called by the name *Rudriyāḥ*. To these Marut deities Pṛśni (the cow of the heavenly world) is [their] mother, and so they are called *pṛśnimātaraḥ*, 'those whose mother is Pṛśni'; here *Pṛśni* may mean the clouds. When clouds shed rain, the wind commonly blows swiftly and with a sound; so the name may have come to these deities. They are also said to be born of lightning and of the cloud, born of the wind and of heaven, and self-born. A deity named Rodasī is said to be their wife, and Indrāṇī and Sarasvatī are said to have a special connection with them."
 
 "The abode of the Marut deities is in the three worlds, heaven, mid-region and earth. Their connection is chiefly with the rain that comes in lightning and thunder, and so it is the established usage to call them very brilliant. Lightning is their weapon. There are many descriptions: they wear golden ornaments on the head, feet, breast and other limbs, and hold a spear [*ṛṣṭi*] in the hand; and there is the description of their travelling seated in a chariot to which spotted deer [*spotted deer*, the print's English] are yoked."
 
-"These Marut deities are youths, handsome, young; cruel like wild beasts, and yet they are engaged in sport like children. The sound of their travelling is terrible like thunder. They bring rain with them. A famous river named Marutvṛdhā is a witness to their exploits [as read]. The rain they bring is called by various names, *jenutupa*, milk, *tuppa*, and the like. It is also said that, besides bringing rain, they make the mountains shake. Their song gives strength to Indra at the time of Vṛtra's slaughter. In various places they are described as drinking soma, as singing, and as taking part in sacrifices. The chief act of the Marut deities is the help given to Indra when he slew Vṛtra. In some places, though they are addressed as sons or brothers of Indra, there are one or two sūktas (Ṛg. 1-165 [?]; 1-170 [?]) which say that on certain principal occasions they left Indra without help and that Indra, for that reason, took up revenge upon them and was ready to slay them, and that the sage Agastya had to pacify Indra with much effort."
+"These Marut deities are youths, handsome, young; cruel like wild beasts, and yet they are engaged in sport like children. The sound of their travelling is terrible like thunder. They bring rain with them. The famous river Marutvṛdhā
 
-"In connection with Rudra's being with the Maruts there is a description that they use their weapons, the spear and the thunderbolt (Ṛg. 2-[?]-[?] and others, as read, not secure)."
+### Page 255
+
+(continued, p. 255) is a witness to their exploits. The rain they bring is called by various names, honey-ghee (*jenu-tuppa*), milk, ghee (*tuppa*), and the like. It is also said that, besides bringing rain, they make the mountains shake. Their song gives strength to Indra at the time of Vṛtra's slaughter. In various places they are described as drinking soma, as singing, and as taking part in sacrifices. The chief act of the Marut deities is the help given to Indra when he slew Vṛtra. In some places, though they are addressed as sons or brothers of Indra, there are one or two sūktas (Ṛ. Saṃ. 1-165; 1-170) which say that on certain principal occasions they left Indra without help and that Indra, for that reason, took up revenge upon them and was ready to slay them, and that the sage Agastya had to pacify Indra with much effort."
+
+"In connection with Rudra's being with the Maruts there is a description that they use their weapons, the spear and the thunderbolt (Ṛ. Saṃ. 7-56-9; 7-56-17; 7-57-4; 1-171-1; 1-172-2; 1-164-8; 1-64-9 — the first digit of the first three is the flat-footed 7)."
 
 "In the matter of sacrificial ceremonies, especially in the soma sacrifice, there are many differences between the Marut deities and the god Vāyu. Vāyu is called in the *prātaḥsavana*; the Maruts are invoked in the midday and third pressings. In the sacrifice called *cāturmāsya* the vessel of the Maruts is special."
 
@@ -4198,7 +4216,9 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **krīḷam** = *viharaṇaśīlam*: "fond of play; engaged in games and wandering about."
 
-**śardhaḥ** — "since *śardhaḥ* is read among the twenty-eight names for strength beginning *ojaḥ*, *pājaḥ* (Ni. 2-9 [?]), *śardhaḥ* means strength or valour."
+### Page 256
+
+**śardhaḥ** — "since *śardhaḥ* is read among the twenty-eight names for strength beginning *ojaḥ*, *pājaḥ* (Ni. 3-9), *śardhaḥ* means strength or valour."
 
 **mārutam** = *marutsamūham*: "since the Marut deities are always many, they are addressed in the plural only. Here the singular *mārutam* means 'the host of the Maruts'."
 
@@ -4212,10 +4232,14 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Vyākaraṇa-prakriyā** *(pp. 256–257, PDF 270–271 — grammar pages, noted briefly)*
 - **krīḷam**: root *krīḍṛ vihāre*, class 1; *pacādi* *ac*; "the *ḍ* between two vowels becomes *ḷ* by the Bahvṛca tradition".
-- **śardhaḥ**: root *śṛdhu prasahane*, class 10 [as read]; *śardhayaty anena śatrūn* — "by this one overcomes enemies" — *balam*; the Uṇādi *asun*; *laghūpadha-guṇa*, *raparatva*; *ñnityādir nityam* — first-syllable acute.
-- **mārutam**: *marutām idam*; *tasyedam* — तस्येदम् — [Pā. 4-3-120]: after a sixth-case form, in the sense "this belongs to him", *aṇ* and the other general suffixes, and, by the enjoined rule *rāṣṭrāvāra…*, the suffixes *gha* etc.; so *aṇ*; first-syllable acute by *vyatyaya* in the suffix-accent; or, in the sense of collection, *anudāttādeḥ añ* — अनुदात्तादेरञ् — [Pā. 4-3-140]: *añ* after a word that begins with an unaccented syllable and ends in the sixth case: *marutāṃ samūhaḥ*; *marut* is from the Uṇādi *mṛgror uti* — मृगोरुतिः — [Uṇ. 1-94]: *uti* after *mṛṅ prāṇatyāge* and *gṝ nigaraṇe*; *mṛ + uti*, *guṇa*, *raparatva*; the *u* is acute by the suffix-accent, the rest unaccented: this *marut* is *anudāttādi*.
-- **anarvāṇam**: "this is an adjective of *śardhaḥ*; the masculine appears in place of the neuter; *nañsubhyām* [Pā. 6-2-172]: the later member is final-acute."
-- **rathe-śubham**: root *śubha dīptau*; *rathe śobhate* — *rathe-śubh*; *kvip ca*; *tatpuruṣe kṛti bahulam* — तत्पुरुषे कृति बहुलम् — [Pā. 6-3-14]: in a *tatpuruṣa*, before a *kṛdanta* second member, the seventh case is not elided, in many cases; so *aluk*; the *kṛdanta* second member keeps its natural accent.
+- **śardhaḥ**: root *śṛdhu prasahane* (printed "prahasane" [sic]), class 10 (as printed); *śardhayaty anena śatrūn* — "by this one overcomes enemies" — *balam*; the Uṇādi *asun*; *laghūpadha-guṇa*, *raparatva*; *ñnityādir nityam* — first-syllable acute.
+- **mārutam**: *marutām idam*; *tasyedam* — तस्येदम् — (Pā. 4-3-120): after a sixth-case form, in the sense "this belongs to him", *aṇ* and the other general suffixes, and, by the enjoined rule *rāṣṭrāvāra…*, the suffixes *gha* etc.; so *aṇ*; first-syllable acute by *vyatyaya* in place of
+
+### Page 257
+
+(continued, p. 257) the suffix-accent; or, in the sense of collection, *anudāttādeḥ añ* — अनुदात्तादेरञ् — (Pā. 4-2-44): *añ* after a word that begins with an unaccented syllable and ends in the sixth case: *marutāṃ samūhaḥ*; *marut* is from the Uṇādi *mṛgror uti* — मृग्रोरुतिः — (Uṇ. 1-94): *uti* after *mṛṅ prāṇatyāge* and *gṝ nigaraṇe*; *mṛ + uti*, *guṇa*, *raparatva*; the *u* is acute by the suffix-accent, the rest unaccented: this *marut* is *anudāttādi*.
+- **anarvāṇam**: "this is an adjective of *śardhaḥ*; the masculine appears in place of the neuter; *nañsubhyām* (Pā. 6-2-172): the later member is final-acute."
+- **rathe-śubham**: root *śubha dīptau*; *rathe śobhate* — *rathe-śubh*; *kvip ca*; *tatpuruṣe kṛti bahulam* — तत्पुरुषे कृति बहुलम् — (Pā. 6-3-14): in a *tatpuruṣa*, before a *kṛdanta* second member, the seventh case is not elided, in many cases; so *aluk*; the *kṛdanta* second member keeps its natural accent.
 - **gāyata**: root *kai gai rai śabde*; *tiṅ ṅatiṅaḥ* — wholly unaccented. Rik 1 ends here (*|| 1 ||*).
 
 ### Rik 37.2 (pp. 257–260, PDF 271–274)
